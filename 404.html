@@ -3,16 +3,102 @@ layout: default
 title: "404 - Trang không tồn tại"
 ---
 
-<section class="section">
-  <div class="container text-center">
-    <h1>404</h1>
-    <h2>Trang không tồn tại</h2>
-    <p>Xin lỗi, trang bạn đang tìm kiếm không tồn tại.</p>
-    <p>Vui lòng quay lại <a href="{{ '/' | relative_url }}">trang chủ</a> hoặc kiểm tra lại đường dẫn.</p>
-    
-    <div class="cta-group mt-4">
-      <a href="{{ '/' | relative_url }}" class="btn btn-primary">Về trang chủ</a>
-      <a href="{{ site.business_url }}" class="btn btn-outline">Website chính</a>
+{% assign business = site.data.business %}
+
+<div class="error-page">
+  <div class="container">
+    <div class="error-content glass-card">
+      <h1>404</h1>
+      <h2>Trang không tồn tại</h2>
+      <p>Xin lỗi, trang bạn đang tìm kiếm không tồn tại hoặc đã bị xóa.</p>
+      
+      <div class="error-actions">
+        <a href="{{ '/' | relative_url }}" class="btn btn-primary">Về trang chủ</a>
+        <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Xem blog</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-secondary">Liên hệ</a>
+      </div>
+      
+      <div class="error-suggestion">
+        <p>Bạn có thể thử:</p>
+        <ul>
+          <li>Kiểm tra lại URL</li>
+          <li>Sử dụng menu điều hướng</li>
+          <li>Tìm kiếm trên website</li>
+        </ul>
+      </div>
     </div>
   </div>
-</section>
+</div>
+
+<style>
+  .error-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, var(--bg-light), var(--bg));
+    padding: var(--space-2xl);
+  }
+  
+  .error-content {
+    max-width: 600px;
+    padding: var(--space-3xl);
+    text-align: center;
+  }
+  
+  .error-content h1 {
+    font-size: var(--font-size-5xl);
+    color: var(--primary);
+    margin-bottom: var(--space-md);
+  }
+  
+  .error-content h2 {
+    font-size: var(--font-size-2xl);
+    color: var(--text);
+    margin-bottom: var(--space-md);
+  }
+  
+  .error-content p {
+    font-size: var(--font-size-base);
+    color: var(--text-light);
+    margin-bottom: var(--space-xl);
+  }
+  
+  .error-actions {
+    display: flex;
+    gap: var(--space-md);
+    justify-content: center;
+    flex-wrap: wrap;
+    margin-bottom: var(--space-xl);
+  }
+  
+  .error-suggestion {
+    text-align: left;
+  }
+  
+  .error-suggestion p {
+    font-size: var(--font-size-sm);
+    color: var(--text-light);
+    margin-bottom: var(--space-sm);
+  }
+  
+  .error-suggestion ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .error-suggestion li {
+    font-size: var(--font-size-sm);
+    color: var(--text);
+    margin-bottom: var(--space-xs);
+    padding-left: var(--space-md);
+    position: relative;
+  }
+  
+  .error-suggestion li::before {
+    content: '→';
+    color: var(--primary);
+    position: absolute;
+    left: 0;
+  }
+</style>
