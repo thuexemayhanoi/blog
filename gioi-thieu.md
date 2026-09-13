@@ -1,88 +1,70 @@
 ---
 layout: page
-title: "Giới thiệu - Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Giới thiệu về Nguyễn Tú - dịch vụ thuê xe máy uy tín tại Hà Nội"
-permalink: /gioi-thieu/
+title: "Giới thiệu"
+description: "Giới thiệu về dịch vụ thuê xe máy tại Hà Nội từ Nguyễn Tú"
 ---
 
 {% assign business = site.data.business %}
 
-<section class="section">
-  <div class="container">
-    <h1>{{ page.title | split: ' - ' | first }}</h1>
-    
-    <div class="intro-card">
-      <h2>{{ business.display_name }}</h2>
-      <p class="subtitle">{{ business.brand }} cung cấp dịch vụ thuê xe máy chuyên nghiệp tại Hà Nội, hỗ trợ khách hàng trong việc di chuyển thuận tiện và an toàn.</p>
-      
-      <div class="business-info">
-        <div class="info-item">
-          <span class="info-label">Thương hiệu:</span>
-          <span class="info-value">{{ business.brand }}</span>
-        </div>
-        <div class="info-item">
-          <span class="info-label">Địa chỉ:</span>
-          <span class="info-value">{{ business.address.full }}</span>
-        </div>
-        <div class="info-item">
-          <span class="info-label">Điện thoại:</span>
-          <span class="info-value"><a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></span>
-        </div>
-        <div class="info-item">
-          <span class="info-label">Email:</span>
-          <span class="info-value"><a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></span>
-        </div>
-        <div class="info-item">
-          <span class="info-label">Giờ hoạt động:</span>
-          <span class="info-value">{{ business.hours }}</span>
-        </div>
-      </div>
-    </div>
-    
-    <div class="section-content">
-      <h2>Dịch vụ của chúng tôi</h2>
-      <p>{{ business.display_name }} cung cấp đa dạng các loại xe và hình thức thuê để đáp ứng mọi nhu cầu của khách hàng:</p>
-      
-      <div class="services-grid">
-        {% for service in business.services %}
-        <div class="service-card">
-          <h3>{{ service }}</h3>
-        </div>
-        {% endfor %}
-      </div>
-      
-      <h2>Các loại xe</h2>
-      <div class="vehicle-grid">
-        {% for vehicle in business.vehicle_types %}
-        <div class="vehicle-card">
-          <h3>{{ vehicle.name }}</h3>
-          <p>{{ vehicle.description }}</p>
-          {% if vehicle.examples.size > 0 %}
-          <p class="examples">Ví dụ: {{ vehicle.examples | join: ', ' }}</p>
-          {% endif %}
-        </div>
-        {% endfor %}
-      </div>
-      
-      <h2>Khu vực phục vụ</h2>
-      <p>Chúng tôi phục vụ chủ yếu tại các quận nội thành Hà Nội:</p>
-      <div class="areas-list">
-        {% for area in business.areas %}
-        <span class="area-tag">{{ area }}</span>
-        {% endfor %}
-      </div>
-      
-      <p class="note"><em>Lưu ý: {{ business.notes | join: ' | ' }}</em></p>
-      
-      <div class="cta-section">
-        <h2>Sẵn sàng phục vụ bạn</h2>
-        <p>Hãy liên hệ với chúng tôi để được tư vấn và hỗ trợ tốt nhất.</p>
-        <div class="cta-group">
-          <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay {{ business.contact.phone }}</a>
-          <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
-          <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
+## Về Nguyễn Tú
+
+<strong>{{ business.display_name }}</strong> là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.
+
+## Mục đích của blog
+
+Blog được xây dựng với mục đích:
+
+- **Chia sẻ kinh nghiệm:** Hướng dẫn cách chọn xe phù hợp, thủ tục thuê xe, và những lưu ý quan trọng khi thuê xe máy tại Hà Nội.
+- **Hỗ trợ khách hàng:** Cung cấp thông tin chi tiết về các loại xe, khu vực phục vụ, và dịch vụ của Nguyễn Tú.
+- **Tạo cộng đồng:** Kết nối những người có nhu cầu thuê xe máy, chia sẻ những câu chuyện và kinh nghiệm thực tế.
+
+## Cam kết của chúng tôi
+
+Chúng tôi cam kết:
+
+- Cung cấp xe chất lượng, được bảo dưỡng định kỳ
+- Giá cả minh bạch, không phát sinh phí ẩn
+- Giao xe tận nơi theo yêu cầu
+- Hỗ trợ khách hàng trong giờ hoạt động {{ business.hours }}
+
+## Dịch vụ của chúng tôi
+
+{{ business.display_name }} cung cấp đa dạng các loại xe và hình thức thuê:
+
+### Loại xe
+
+{% for vehicle in business.vehicle_types %}
+- **{{ vehicle.name }}:** {{ vehicle.description }}
+  {% if vehicle.examples.size > 0 %}
+  *Ví dụ: {{ vehicle.examples | join: ', ' }}*
+  {% endif %}
+{% endfor %}
+
+### Hình thức thuê
+
+{% for rental in business.rental_types %}
+- **{{ rental.name }}:** {{ rental.description }}
+{% endfor %}
+
+## Khu vực phục vụ
+
+Chúng tôi phục vụ chủ yếu tại các quận nội thành Hà Nội:
+
+{% for area in business.areas %}
+- {{ area }}
+{% endfor %}
+
+## Thông tin liên hệ
+
+- **Địa chỉ:** {{ business.address.full }}
+- **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- **Zalo:** [Nhắn Zalo]({{ business.contact.zalo }})
+- **Giờ hoạt động:** {{ business.hours }}
+- **Website chính:** [{{ business.url }}]({{ business.url }})
+
+## Lưu ý quan trọng
+
+- Tình trạng xe, giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi
+- Cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe
+- Không giao xe ngoài giờ hoạt động
