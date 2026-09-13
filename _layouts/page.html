@@ -2,14 +2,28 @@
 layout: default
 ---
 
-<section class="section">
+{% assign business = site.data.business %}
+
+{% if page.title %}
+  {% assign page_title = page.title | split: ' - ' | first | strip %}
+{% else %}
+  {% assign page_title = page.title %}
+{% endif %}
+
+<article class="page-content">
+  <header class="page-header">
+    <div class="container">
+      <h1>{{ page_title }}</h1>
+      
+      {% if page.description %}
+      <p class="page-description">{{ page.description }}</p>
+      {% endif %}
+    </div>
+  </header>
+  
   <div class="container">
-    <h1>{{ page.title | split: ' - ' | first }}</h1>
-    
-    {% if page.description %}
-    <p class="page-description">{{ page.description }}</p>
-    {% endif %}
-    
-    {{ content }}
+    <div class="page-body">
+      {{ content }}
+    </div>
   </div>
-</section>
+</article>
