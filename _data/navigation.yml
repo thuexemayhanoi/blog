@@ -1,44 +1,56 @@
 main:
-  - name: "Trang chủ"
+  - id: home
+    name: "Trang chủ"
     url: "/"
     icon: "home"
   
-  - name: "Giới thiệu"
+  - id: about
+    name: "Giới thiệu"
     url: "/gioi-thieu/"
     icon: "info"
   
-  - name: "Blog"
+  - id: blog
+    name: "Blog"
     url: "/blog/"
     icon: "blog"
     children:
-      - name: "Du lịch"
+      - id: travel
+        name: "Du lịch"
         url: "/du-lich/"
         icon: "travel"
-      - name: "Kinh nghiệm"
+      - id: tips
+        name: "Kinh nghiệm"
         url: "/kinh-nghiem/"
         icon: "experience"
-      - name: "Chia sẻ"
+      - id: guides
+        name: "Chia sẻ"
         url: "/chia-se/"
         icon: "share"
   
-  - name: "Bảng giá"
+  - id: pricing
+    name: "Bảng giá"
     url: "/bang-gia/"
     icon: "pricing"
     children:
-      - name: "Xe số"
+      - id: manual
+        name: "Xe số"
         url: "/bang-gia-xe-so/"
         icon: "motorcycle"
-      - name: "Xe ga"
+      - id: automatic
+        name: "Xe ga"
         url: "/bang-gia-xe-ga/"
         icon: "scooter"
-      - name: "Xe điện"
+      - id: electric
+        name: "Xe điện"
         url: "/bang-gia-xe-dien/"
         icon: "electric"
-      - name: "Xe 50cc"
+      - id: fiftycc
+        name: "Xe 50cc"
         url: "/bang-gia-xe-50cc/"
         icon: "50cc"
   
-  - name: "Liên hệ"
+  - id: contact
+    name: "Liên hệ"
     url: "/lien-he/"
     icon: "contact"
 
@@ -47,6 +59,7 @@ footer:
     links:
       - name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
         url: "/"
+        external: false
       - name: "Website chính"
         url: "https://thuexemaynguyentu.com/"
         external: true
@@ -55,38 +68,73 @@ footer:
     links:
       - name: "Trang chủ"
         url: "/"
+        id: home
       - name: "Giới thiệu"
         url: "/gioi-thieu/"
+        id: about
       - name: "Blog"
         url: "/blog/"
+        id: blog
       - name: "Bảng giá"
         url: "/bang-gia/"
+        id: pricing
       - name: "Liên hệ"
         url: "/lien-he/"
+        id: contact
   
   - title: "BLOG"
     links:
       - name: "Du lịch"
         url: "/du-lich/"
+        id: travel
       - name: "Kinh nghiệm"
         url: "/kinh-nghiem/"
+        id: tips
       - name: "Chia sẻ"
         url: "/chia-se/"
+        id: guides
   
   - title: "BẢNG GIÁ"
     links:
       - name: "Xe số"
         url: "/bang-gia-xe-so/"
+        id: manual
       - name: "Xe ga"
         url: "/bang-gia-xe-ga/"
+        id: automatic
       - name: "Xe điện"
         url: "/bang-gia-xe-dien/"
+        id: electric
       - name: "Xe 50cc"
         url: "/bang-gia-xe-50cc/"
+        id: fiftycc
   
-  - title: "CHÍNH SÁCH"
+  - title: "TIỆN ÍCH"
     links:
-      - name: "Bảo mật"
+      - name: "Tính giá thuê"
+        url: "/bang-gia/#tinh-gia"
+        id: calculator
+      - name: "Trợ lý nhanh"
+        url: "#tro-ly"
+        id: assistant
+      - name: "WhatsApp"
+        url: "https://wa.me/84942467674"
+        external: true
+        id: whatsapp
+      - name: "Zalo"
+        url: "https://zalo.me/0942467674"
+        external: true
+        id: zalo
+      - name: "Google Maps"
+        url: "https://maps.app.goo.gl/rQBfa43FA2WNnuSy9?g_st=ic"
+        external: true
+        id: maps
+  
+  - title: "PHÁP LÝ"
+    links:
+      - name: "Chính sách bảo mật"
         url: "/bao-mat/"
-      - name: "Điều khoản"
+        id: privacy
+      - name: "Điều khoản sử dụng"
         url: "/dieu-khoan/"
+        id: terms
