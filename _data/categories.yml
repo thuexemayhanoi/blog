@@ -1,0 +1,11 @@
+- name: "Du lịch"
+  url: "/du-lich/"
+  description: "Kinh nghiệm đi lại, điểm đến và hành trình tại Hà Nội"
+
+- name: "Kinh nghiệm"
+  url: "/kinh-nghiem/"
+  description: "Kinh nghiệm thuê xe, chọn xe, kiểm tra xe và thủ tục"
+
+- name: "Chia sẻ"
+  url: "/chia-se/"
+  description: "Bài hướng dẫn, mẹo sử dụng và kiến thức về phương tiện"
