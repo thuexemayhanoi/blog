@@ -1,46 +1,27 @@
+theme: minima
+lang: vi-VN
 title: "Blog Thuê Xe Máy Hà Nội Nguyễn Tú"
+email: nguyentuantu8x@gmail.com
 description: "Kinh nghiệm thuê xe máy Hà Nội, chọn xe, du lịch, bảng giá và hướng dẫn di chuyển từ Nguyễn Tú."
-lang: "vi-VN"
-url: "https://thuexemayhanoi.github.io"
 baseurl: "/blog"
+url: "https://thuexemayhanoi.github.io"
 author: "Nguyễn Tú"
-
-# Business information
-business_name: "Nguyễn Tú"
-business_display_name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
 business_url: "https://thuexemaynguyentu.com/"
-business_address: "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam"
-business_phone: "0942 467 674"
-business_phone_uri: "tel:+84942467674"
-business_email: "nguyentuantu8x@gmail.com"
-business_zalo: "https://zalo.me/0942467674"
-business_maps: "https://maps.app.goo.gl/rj78cAggpN5kFD6ZA"
-business_hours: "09:00 - 21:00"
 
 # Jekyll settings
-markdown: kramdown
-theme: null
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
+  - jekyll-feed
 
+# Exclude
 exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
   - Gemfile
   - Gemfile.lock
-  - node_modules
+  - node_modules/
   - vendor/bundle/
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: "default"
-  - scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "post"
-      permalink: /:year/:month/:day/:title/
