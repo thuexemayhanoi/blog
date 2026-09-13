@@ -1,50 +1,63 @@
 ---
 layout: page
-title: "Bảng giá xe điện"
-description: "Thông tin chi tiết về thuê xe máy điện từ Nguyễn Tú"
+title: "Bang gia xe dien - Thue Xe May Ha Noi Nguyen Tu"
+description: "Bang gia thue xe dien (electric motorbike) tai Ha Noi. Than thien voi moi truong."
+lang: vi
+translation_key: xe-dien
 ---
 
+{% assign pricing = site.data.pricing %}
 {% assign business = site.data.business %}
 
-## Xe máy điện - Thông tin chi tiết
+## Bang Gia Xe Dien
 
-Xe máy điện là loại xe thân thiện với môi trường, không phát thải và tiết kiệm chi phí vận hành.
+Xe dien (electric motorbike) la phuong tien than thien voi moi truong, khong phat thai. Hoan hao cho nhung ai quan tam den moi truong hoac muon tiet kiem chi phi nhien lieu.
 
-### Đặc điểm
+### Cac Mau Xe Dien
 
-- **Thân thiện môi trường:** Không phát thải CO2
-- **Tiết kiệm:** Chi phí vận hành thấp, không cần xăng
-- **Yên tĩnh:** Hoạt động êm ái, không gây ồn
-- **Dễ sử dụng:** Đơn giản, phù hợp cho mọi đối tượng
+<div class="pricing-table">
+  {% for vehicle in pricing.vehicles %}
+    {% if vehicle.category.vi == 'Xe may dien' %}
+    <div class="pricing-card glass-card">
+      <h3>{{ vehicle.name.vi }}</h3>
+      <p>{{ vehicle.description.vi }}</p>
+      <div class="price-grid">
+        {% if vehicle.rates.day.min %}
+        <div class="price-item">
+          <span class="price-label">Theo ngay:</span>
+          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.week.min %}
+        <div class="price-item">
+          <span class="price-label">Theo tuan:</span>
+          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.month.min %}
+        <div class="price-item">
+          <span class="price-label">Theo thang:</span>
+          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+        </div>
+        {% endif %}
+      </div>
+      <p class="note"><em>Tien dat coc: {{ vehicle.deposit.min }} - {{ vehicle.deposit.max }} VND</em></p>
+      {% if vehicle.popular %}
+      <span class="badge popular">Lua chon pho bien</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
 
-### Hình thức thuê
+### Dac Diem
 
-{% for rental in business.rental_types %}
-- **{{ rental.name }}:** {{ rental.description }}
-{% endfor %}
+- Khong phat thai, than thien voi moi truong
+- Yem ang, it tieng on
+- Chi phi van hanh thap
+- Phu hop cho cac chuyen di ngan va trung binh
 
-### Khu vực phục vụ
-
-Chúng tôi phục vụ chủ yếu tại các quận:
-
-{% for area in business.areas %}
-- {{ area }}
-{% endfor %}
-
-### Lưu ý
-
-- Giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi
-- Vui lòng liên hệ để kiểm tra tình trạng xe hiện tại
-- Không giao xe ngoài giờ hoạt động ({{ business.hours }})
-
-<div class="cta-group" style="justify-content: center; margin-top: 2rem;">
-  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
-    Gọi kiểm tra giá
-  </a>
-  <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-    Nhắn Zalo
-  </a>
-  <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
-    Xem website chính
-  </a>
+<div class="cta-group">
+  <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Ve Bang Gia</a>
+  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Go de Dat Xe</a>
 </div>
