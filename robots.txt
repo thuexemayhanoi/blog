@@ -3,4 +3,10 @@ Allow: /
 
 Sitemap: https://thuexemayhanoi.github.io/blog/sitemap.xml
 
-# Crawl-delay: 0.5
+# Crawl both Vietnamese and English content
+Allow: /blog/
+Allow: /blog/en/
+Allow: /blog/bang-gia/
+Allow: /blog/en/pricing/
+Allow: /blog/gioi-thieu/
+Allow: /blog/en/about/
