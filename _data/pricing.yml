@@ -1,0 +1,201 @@
+# Pricing Data for Nguyen Tu Rental
+# All values in VND (numeric for calculations)
+# Categories: manual (xe so), automatic (xe ga), electric (xe dien)
+
+vehicles:
+  - id: honda-wave
+    name:
+      vi: "Honda Wave"
+      en: "Honda Wave"
+    category:
+      vi: "Xe số"
+      en: "Manual motorbike"
+    description:
+      vi: "Xe côn truyền thống, dễ điều khiển"
+      en: "Traditional manual motorbike, easy to control"
+    rates:
+      day:
+        min: 150000
+        max: 150000
+      week:
+        min: null
+        max: null
+      month:
+        min: null
+        max: null
+    deposit:
+      min: 1000000
+      max: 2000000
+    popular: true
+    order: 1
+  
+  - id: honda-vision
+    name:
+      vi: "Honda Vision"
+      en: "Honda Vision"
+    category:
+      vi: "Xe ga"
+      en: "Automatic scooter"
+    description:
+      vi: "Xe ga hiện đại, thoải mái"
+      en: "Modern automatic scooter, comfortable"
+    rates:
+      day:
+        min: 200000
+        max: 200000
+      week:
+        min: 800000
+        max: 1000000
+      month:
+        min: 1800000
+        max: 2000000
+    deposit:
+      min: 1500000
+      max: 2500000
+    popular: true
+    order: 2
+  
+  - id: honda-airblade
+    name:
+      vi: "Honda Air Blade"
+      en: "Honda Air Blade"
+    category:
+      vi: "Xe ga"
+      en: "Automatic scooter"
+    description:
+      vi: "Xe ga hiện đại, mạnh mẽ"
+      en: "Modern automatic scooter, powerful"
+    rates:
+      day:
+        min: 200000
+        max: 200000
+      week:
+        min: 800000
+        max: 800000
+      month:
+        min: 1400000
+        max: 1400000
+    deposit:
+      min: 1500000
+      max: 2500000
+    popular: true
+    order: 3
+  
+  - id: honda-click
+    name:
+      vi: "Honda Click / Yamaha Mio"
+      en: "Honda Click / Yamaha Mio"
+    category:
+      vi: "Xe ga"
+      en: "Budget automatic scooter"
+    description:
+      vi: "Xe ga giá rẻ, tiết kiệm"
+      en: "Budget automatic scooter, economical"
+    rates:
+      day:
+        min: 150000
+        max: 150000
+      week:
+        min: 600000
+        max: 700000
+      month:
+        min: 1000000
+        max: 1200000
+    deposit:
+      min: 1000000
+      max: 2000000
+    popular: true
+    order: 4
+  
+  - id: electric-bike
+    name:
+      vi: "Xe điện"
+      en: "Electric motorbike"
+    category:
+      vi: "Xe máy điện"
+      en: "Electric motorbike"
+    description:
+      vi: "Xe thân thiện môi trường, không phát thải"
+      en: "Environmentally friendly electric motorbike, zero emissions"
+    rates:
+      day:
+        min: 200000
+        max: 200000
+      week:
+        min: 800000
+        max: 800000
+      month:
+        min: 1400000
+        max: 1400000
+    deposit:
+      min: 1500000
+      max: 2500000
+    popular: true
+    order: 5
+  
+  - id: electric-scooter
+    name:
+      vi: "Xe đạp điện"
+      en: "Electric scooter"
+    category:
+      vi: "Xe đạp điện"
+      en: "Electric scooter"
+    description:
+      vi: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
+      en: "Lightweight, suitable for short distances"
+    rates:
+      day:
+        min: null
+        max: null
+      week:
+        min: null
+        max: null
+      month:
+        min: null
+        max: null
+    deposit:
+      min: null
+      max: null
+    popular: false
+    order: 6
+    note:
+      vi: "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      en: "Please contact Nguyen Tu to check current pricing"
+
+# Rental type multipliers (for display purposes)
+rental_types:
+  - id: day
+    name:
+      vi: "Theo ngày"
+      en: "Daily"
+    days: 1
+    order: 1
+  
+  - id: week
+    name:
+      vi: "Theo tuần"
+      en: "Weekly"
+    days: 7
+    order: 2
+  
+  - id: month
+    name:
+      vi: "Theo tháng"
+      en: "Monthly"
+    days: 30
+    order: 3
+
+# Delivery fees (one-way, VND)
+delivery_fees:
+  same_district: 0
+  nearby_districts: 20000
+  central_hanoi: 50000
+  outer_hanoi: 100000
+
+# Notes
+disclaimer:
+  vi: "Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe."
+  en: "This is an estimated price based on the current reference rates. Vehicle availability, deposit, delivery fees and final rental price should be confirmed directly with Nguyen Tu before booking."
+
+currency: "VND"
+currency_symbol: "đ"
