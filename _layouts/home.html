@@ -1,101 +1,216 @@
 --- 
 layout: default
-title: "Blog Thuê Xe Máy Hà Nội Nguyễn Tú"
+title: "{{ site.title }}"
 description: "{{ site.description }}"
 --- 
 
+{% assign business = site.data.business %}
+
+<!-- Hero Section -->
 <section class="hero">
   <div class="container">
-    <h1>{{ site.title }}</h1>
-    <p class="subtitle">{{ site.description }}</p>
+    <div class="hero-content">
+      <h1 class="hero-title">{{ site.title }}</h1>
+      <p class="hero-subtitle">{{ site.description }}</p>
+      
+      <div class="hero-cta">
+        <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Xem Blog</a>
+        <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-secondary">Xem Bảng Giá</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-outline">Gọi {{ business.contact.phone }}</a>
+        <a href="{{ business.contact.zalo }}" class="btn btn-outline">Nhắn Zalo</a>
+      </div>
+    </div>
     
-    <div class="cta-group">
-      <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Xem bài viết</a>
-      <a href="{{ site.business_phone_uri }}" class="btn btn-secondary">Gọi {{ site.business_name }}</a>
-      <a href="{{ site.business_zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
-      <a href="{{ site.business_url }}" class="btn btn-outline">Website chính</a>
+    <!-- Premium Visual Card (CSS only) -->
+    <div class="hero-visual">
+      <div class="visual-card glass-card"></div>
     </div>
   </div>
 </section>
 
-<section class="section">
+<!-- Quick Introduction -->
+<section class="section intro-section">
+  <div class="container">
+    <h2>Về {{ business.brand }}</h2>
+    <p class="intro-text">
+      {{ business.display_name }} là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. 
+      Với nhiều năm kinh nghiệm, chúng tôi cam kết mang đến dịch vụ chất lượng, an toàn và tiện lợi nhất.
+    </p>
+    
+    <div class="intro-features">
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Xe chất lượng</span>
+      </div>
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Giá cả minh bạch</span>
+      </div>
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Giao nhận tận nơi</span>
+      </div>
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Hỗ trợ 24/7</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Services Section -->
+<section class="section services-section">
+  <div class="container">
+    <h2>Dịch vụ chính</h2>
+    <p>Chúng tôi cung cấp đa dạng các loại xe để đáp ứng mọi nhu cầu của bạn:</p>
+    
+    <div class="services-grid">
+      {% for vehicle in business.vehicle_types %}
+      <div class="service-card glass-card">
+        <h3>{{ vehicle.name }}</h3>
+        <p>{{ vehicle.description }}</p>
+        {% if vehicle.examples.size > 0 %}
+        <p class="examples"><em>Ví dụ: {{ vehicle.examples | join: ', ' }}</em></p>
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+
+<!-- Latest Posts -->
+<section class="section posts-section">
   <div class="container">
     <h2>Bài viết mới nhất</h2>
     
     {% if site.posts.size > 0 %}
     <div class="post-grid">
-      {% for post in site.posts limit:6 %}
-      <article class="post-card">
+      {% for post in site.posts limit:4 %}
+      <article class="post-card glass-card">
+        {% if post.categories %}
+        <span class="post-category">{{ post.categories | first }}</span>
+        {% endif %}
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <p class="post-date">{{ post.date | date: "%d/%m/%Y" }}</p>
-        <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
-        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
+        <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp →</a>
       </article>
       {% endfor %}
     </div>
     
-    {% if site.posts.size > 6 %}
-    <div class="text-center">
+    <div class="text-center mt-4">
       <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Xem tất cả bài viết</a>
     </div>
-    {% endif %}
     {% else %}
     <p>Chưa có bài viết nào. Hãy quay lại sau!</p>
     {% endif %}
   </div>
 </section>
 
-<section class="section bg-light">
+<!-- Blog Categories -->
+<section class="section categories-section bg-light">
   <div class="container">
-    <h2>Kinh nghiệm thuê xe</h2>
-    <p>Hướng dẫn chọn xe phù hợp, thủ tục thuê, và những lưu ý quan trọng khi thuê xe máy tại Hà Nội.</p>
+    <h2>Các chủ đề blog</h2>
+    
+    <div class="categories-grid">
+      {% assign nav = site.data.navigation.main %}
+      {% for item in nav %}
+        {% if item.name == 'Blog' %}
+          {% for child in item.children %}
+          <a href="{{ child.url | relative_url }}" class="category-card glass-card">
+            <h3>{{ child.name }}</h3>
+            <p>
+              {% assign category_posts = site.posts | where_exp: "post", "post.categories contains child.name" %}
+              {{ category_posts.size }} bài viết
+            </p>
+          </a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
   </div>
 </section>
 
-<section class="section">
+<!-- Pricing Preview -->
+<section class="section pricing-preview">
   <div class="container">
-    <h2>Dịch vụ thuê xe</h2>
-    <div class="feature-grid">
-      <div class="feature-card">
-        <h3>Thuê theo ngày</h3>
-        <p>Linh hoạt cho nhu cầu ngắn hạn</p>
+    <h2>Bảng giá</h2>
+    <p>Tham khảo bảng giá các loại xe:</p>
+    
+    <div class="pricing-grid">
+      {% assign nav = site.data.navigation.main %}
+      {% for item in nav %}
+        {% if item.name == 'Bảng giá' %}
+          {% for child in item.children %}
+          <a href="{{ child.url | relative_url }}" class="pricing-card glass-card">
+            <h3>{{ child.name }}</h3>
+            <p>Xem chi tiết</p>
+          </a>
+          {% endfor %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    
+    <div class="text-center mt-4">
+      <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem toàn bộ bảng giá</a>
+    </div>
+  </div>
+</section>
+
+<!-- Service Areas -->
+<section class="section areas-section">
+  <div class="container">
+    <h2>Khu vực phục vụ</h2>
+    <p>Chúng tôi phục vụ chủ yếu tại các quận nội thành Hà Nội:</p>
+    
+    <div class="areas-list">
+      {% for area in business.areas %}
+      <span class="area-tag">{{ area }}</span>
+      {% endfor %}
+    </div>
+    
+    <p class="note"><em>Lưu ý: Thời gian và chi phí giao nhận xe có thể thay đổi tùy theo khu vực. Vui lòng xác nhận trước khi đặt xe.</em></p>
+  </div>
+</section>
+
+<!-- About Nguyen Tu -->
+<section class="section about-section bg-light">
+  <div class="container">
+    <h2>Giới thiệu {{ business.brand }}</h2>
+    <div class="about-content">
+      <div class="about-text">
+        <p><strong>{{ business.display_name }}</strong> là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.</p>
+        <p>Chúng tôi cam kết:</p>
+        <ul class="commitments">
+          <li>Cung cấp xe chất lượng, được bảo dưỡng định kỳ</li>
+          <li>Giá cả minh bạch, không phát sinh phí ẩn</li>
+          <li>Giao xe tận nơi theo yêu cầu</li>
+          <li>Hỗ trợ khách hàng 24/7</li>
+        </ul>
       </div>
-      <div class="feature-card">
-        <h3>Thuê theo tuần</h3>
-        <p>Tiết kiệm cho chuyến đi dài ngày</p>
-      </div>
-      <div class="feature-card">
-        <h3>Thuê theo tháng</h3>
-        <p>Giá ưu đãi cho thuê dài hạn</p>
+      
+      <div class="about-contact">
+        <h3>Thông tin liên hệ</h3>
+        <address>
+          <p>📍 {{ business.address.full }}</p>
+          <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>🕒 {{ business.hours }}</p>
+        </address>
       </div>
     </div>
   </div>
 </section>
 
-<section class="section bg-light">
-  <div class="container">
-    <h2>Loại xe</h2>
-    <p>Chúng tôi cung cấp đa dạng loại xe: Xe số, xe tay ga, xe 50cc, xe máy điện, xe đạp điện.</p>
-  </div>
-</section>
-
-<section class="section">
-  <div class="container">
-    <h2>Khu vực phục vụ</h2>
-    <p>Giao xe tận nơi tại các quận nội thành Hà Nội: Long Biên, Bồ Đề, Gia Lâm, Hoàn Kiếm, Phố Cổ, Ba Đình, Tây Hồ và các khu vực lân cận.</p>
-  </div>
-</section>
-
-<section class="section bg-light">
-  <div class="container">
-    <h2>Thông tin liên hệ</h2>
-    <div class="contact-info">
-      <p><strong>{{ site.business_display_name }}</strong></p>
-      <p>📍 {{ site.business_address }}</p>
-      <p>📞 <a href="{{ site.business_phone_uri }}">{{ site.business_phone }}</a></p>
-      <p>✉️ <a href="mailto:{{ site.business_email }}">{{ site.business_email }}</a></p>
-      <p>🕒 {{ site.business_hours }}</p>
-      <p>📍 <a href="{{ site.business_maps }}" target="_blank">Xem trên Google Maps</a></p>
+<!-- Final CTA -->
+<section class="section cta-section">
+  <div class="container text-center">
+    <h2>Bạn cần thuê xe máy tại Hà Nội?</h2>
+    <p>Hãy liên hệ với {{ business.brand }} để được tư vấn và hỗ trợ tốt nhất.</p>
+    <div class="cta-group">
+      <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay {{ business.contact.phone }}</a>
+      <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
+      <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
     </div>
   </div>
 </section>
