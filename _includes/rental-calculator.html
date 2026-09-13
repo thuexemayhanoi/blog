@@ -1,0 +1,138 @@
+{% assign pricing = site.data.pricing %}
+{% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
+
+<section class="calculator-section" id="tinh-gia">
+  <div class="container">
+    <div class="calculator-card glass-card">
+      <h2>
+        {% if current_lang == 'vi' %}
+          Tính giá thuê xe
+        {% else %}
+          Rental Price Calculator
+        {% endif %}
+      </h2>
+      
+      <form class="calculator-form" id="rental-calculator">
+        <!-- Vehicle Selection -->
+        <div class="form-group">
+          <label for="vehicle-select">
+            {% if current_lang == 'vi' %}
+              Loại xe
+            {% else %}
+              Vehicle Type
+            {% endif %}
+          </label>
+          <select id="vehicle-select" class="form-select">
+            {% for vehicle in pricing.vehicles %}
+            <option 
+              value="{{ vehicle.id }}" 
+              data-name="{{ vehicle.name[current_lang] }}" 
+              data-category="{{ vehicle.category[current_lang] }}"
+              data-day-min="{{ vehicle.rates.day.min | default: 0 }}"
+              data-day-max="{{ vehicle.rates.day.max | default: 0 }}"
+              data-week-min="{{ vehicle.rates.week.min | default: 0 }}"
+              data-week-max="{{ vehicle.rates.week.max | default: 0 }}"
+              data-month-min="{{ vehicle.rates.month.min | default: 0 }}"
+              data-month-max="{{ vehicle.rates.month.max | default: 0 }}"
+              {% if vehicle.popular %}data-popular="true"{% endif %}
+            >
+              {{ vehicle.name[current_lang] }} - {{ vehicle.category[current_lang] }}
+            </option>
+            {% endfor %}
+          </select>
+        </div>
+        
+        <!-- Days Input -->
+        <div class="form-group">
+          <label for="days-input">
+            {% if current_lang == 'vi' %}
+              Số ngày thuê
+            {% else %}
+              Rental Days
+            {% endif %}
+          </label>
+          <div class="input-with-buttons">
+            <input 
+              type="number" 
+              id="days-input" 
+              class="form-input" 
+              min="1" 
+              max="365" 
+              value="7"
+            >
+            <div class="quick-days">
+              <button type="button" class="day-btn" data-days="1">1</button>
+              <button type="button" class="day-btn" data-days="3">3</button>
+              <button type="button" class="day-btn" data-days="7">7</button>
+              <button type="button" class="day-btn" data-days="14">14</button>
+              <button type="button" class="day-btn" data-days="30">30</button>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Results -->
+        <div class="calculator-results">
+          <div class="result-item">
+            <span class="result-label">
+              {% if current_lang == 'vi' %}
+                Ước tính:
+              {% else %}
+                Estimated Price:
+              {% endif %}
+            </span>
+            <span class="result-value" id="estimated-price">
+              {% if current_lang == 'vi' %}
+                Chọn xe và ngày
+              {% else %}
+                Select vehicle and days
+              {% endif %}
+            </span>
+          </div>
+          <div class="result-breakdown" id="price-breakdown"></div>
+        </div>
+        
+        <div class="calculator-disclaimer">
+          {% if current_lang == 'vi' %}
+            <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.</p>
+          {% else %}
+            <p>This is an estimated price based on the current reference rates. Vehicle availability, deposit, delivery fees and final rental price should be confirmed directly with Nguyen Tu before booking.</p>
+          {% endif %}
+        </div>
+        
+        <!-- CTA Buttons -->
+        <div class="calculator-cta">
+          <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
+            <span>📞 </span>
+            {% if current_lang == 'vi' %}
+              Gọi ngay
+            {% else %}
+              Call Now
+            {% endif %}
+          </a>
+          <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+            <span>💬 </span>
+            {% if current_lang == 'vi' %}
+              Nhắn Zalo
+            {% else %}
+              Zalo
+            {% endif %}
+          </a>
+          <a 
+            href="{{ business.contact.whatsapp }}?text={{ "Xin+chào+Nguyễn+Tú%2C+tôi+muốn+thuê+xe" | url_encode }}" 
+            class="btn btn-outline" 
+            target="_blank" 
+            rel="noopener noreferrer"
+          >
+            <span>📱 </span>
+            {% if current_lang == 'vi' %}
+              WhatsApp
+            {% else %}
+              WhatsApp
+            {% endif %}
+          </a>
+        </div>
+      </form>
+    </div>
+  </div>
+</section>
