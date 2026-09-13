@@ -1,37 +1,41 @@
 {% assign business = site.data.business %}
 
-<!-- Desktop Floating Quick Contact -->
-<div class="quick-contact-desktop" aria-label="Liên hệ nhanh">
-  <div class="quick-contact-buttons">
-    <a href="{{ business.contact.phone_uri }}" class="quick-btn" aria-label="Gọi điện thoại {{ business.contact.phone }}" title="Gọi {{ business.contact.phone }}">
-      <span class="quick-btn-icon" aria-hidden="true">📞</span>
-      <span class="quick-btn-text">Gọi</span>
+<!-- Desktop Floating Contact -->
+<div class="quick-contact-desktop">
+  <div class="quick-buttons">
+    <a href="{{ business.contact.phone_uri }}" class="quick-btn" title="Gọi {{ business.contact.phone }}">
+      <span class="quick-icon">📞</span>
     </a>
-    <a href="{{ business.contact.zalo }}" class="quick-btn" aria-label="Nhắn Zalo" title="Nhắn Zalo" target="_blank" rel="noopener noreferrer">
-      <span class="quick-btn-icon" aria-hidden="true">💬</span>
-      <span class="quick-btn-text">Zalo</span>
+    <a href="{{ business.contact.zalo }}" class="quick-btn" target="_blank" rel="noopener noreferrer" title="Zalo">
+      <span class="quick-icon">💬</span>
     </a>
-    <a href="{{ business.url }}" class="quick-btn" aria-label="Website chính {{ business.display_name }}" title="Website chính" target="_blank" rel="noopener noreferrer">
-      <span class="quick-btn-icon" aria-hidden="true">🌐</span>
-      <span class="quick-btn-text">Website</span>
+    <a href="{{ business.contact.whatsapp }}" class="quick-btn" target="_blank" rel="noopener noreferrer" title="WhatsApp">
+      <span class="quick-icon">📱</span>
+    </a>
+    <a href="{{ business.contact.maps }}" class="quick-btn" target="_blank" rel="noopener noreferrer" title="Google Maps">
+      <span class="quick-icon">📍</span>
     </a>
   </div>
 </div>
 
-<!-- Mobile Bottom Action Bar -->
-<div class="quick-contact-mobile" aria-label="Hành động nhanh">
+<!-- Mobile Bottom Bar -->
+<div class="quick-contact-mobile">
   <div class="mobile-actions">
-    <a href="{{ business.contact.phone_uri }}" class="mobile-action-btn" aria-label="Gọi ngay {{ business.contact.phone }}">
-      <span class="mobile-btn-icon" aria-hidden="true">📞</span>
-      <span class="mobile-btn-text">Gọi ngay</span>
+    <a href="{{ business.contact.phone_uri }}" class="mobile-btn" aria-label="Gọi">
+      <span class="btn-icon">📞</span>
+      <span class="btn-text">Gọi</span>
     </a>
-    <a href="{{ business.contact.zalo }}" class="mobile-action-btn" aria-label="Nhắn Zalo" target="_blank" rel="noopener noreferrer">
-      <span class="mobile-btn-icon" aria-hidden="true">💬</span>
-      <span class="mobile-btn-text">Zalo</span>
+    <a href="{{ business.contact.zalo }}" class="mobile-btn" target="_blank" rel="noopener noreferrer" aria-label="Zalo">
+      <span class="btn-icon">💬</span>
+      <span class="btn-text">Zalo</span>
     </a>
-    <a href="{{ '/bang-gia/' | relative_url }}" class="mobile-action-btn" aria-label="Xem bảng giá">
-      <span class="mobile-btn-icon" aria-hidden="true">💰</span>
-      <span class="mobile-btn-text">Bảng giá</span>
+    <a href="{{ business.contact.whatsapp }}" class="mobile-btn" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
+      <span class="btn-icon">📱</span>
+      <span class="btn-text">WA</span>
+    </a>
+    <a href="{{ business.contact.maps }}" class="mobile-btn" target="_blank" rel="noopener noreferrer" aria-label="Maps">
+      <span class="btn-icon">📍</span>
+      <span class="btn-text">Maps</span>
     </a>
   </div>
 </div>
