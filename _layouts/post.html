@@ -1,16 +1,22 @@
---- 
+---
 layout: default
---- 
+---
 
 {% assign business = site.data.business %}
+{% assign categories = site.data.categories %}
 
-<article class="post-detail">
+<article class="post-detail" role="article">
   <header class="post-header">
     <div class="container">
       {% if page.categories %}
       <div class="post-categories">
         {% for category in page.categories %}
-        <a href="{{ '/' | append: category | slugify | append: '/' | relative_url }}" class="category-tag">{{ category }}</a>
+          {% assign category_data = categories | where: "name", category | first %}
+          {% if category_data %}
+        <a href="{{ category_data.url | relative_url }}" class="category-tag">{{ category }}</a>
+          {% else %}
+        <span class="category-tag">{{ category }}</span>
+          {% endif %}
         {% endfor %}
       </div>
       {% endif %}
@@ -38,33 +44,35 @@ layout: default
     <div class="post-tags">
       <span>Tags:</span>
       {% for tag in page.tags %}
-      <a href="{{ '/tag/' | relative_url }}{{ tag | slugify }}" class="tag">{{ tag }}</a>
+      <span class="tag">{{ tag }}</span>
       {% endfor %}
     </div>
     {% endif %}
     
-    <div class="post-navigation">
+    {% if page.previous or page.next %}
+    <nav class="post-navigation" role="navigation" aria-label="Điều hướng bài viết">
       {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
+      <a href="{{ page.previous.url | relative_url }}" class="nav-link prev" aria-label="Bài trước: {{ page.previous.title }}">
         ← Bài trước: {{ page.previous.title }}
       </a>
       {% endif %}
       
       {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="nav-link next">
+      <a href="{{ page.next.url | relative_url }}" class="nav-link next" aria-label="Bài sau: {{ page.next.title }}">
         Bài sau: {{ page.next.title }} →
       </a>
       {% endif %}
-    </div>
+    </nav>
+    {% endif %}
     
-    <div class="post-cta glass-card">
+    <aside class="post-cta glass-card">
       <h3>Bạn cần thuê xe máy tại Hà Nội?</h3>
       <p>Hãy liên hệ với <strong>{{ business.display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.</p>
       <div class="cta-group">
         <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>
-        <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
+        <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">Nhắn Zalo</a>
         <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
       </div>
-    </div>
+    </aside>
   </div>
 </article>
