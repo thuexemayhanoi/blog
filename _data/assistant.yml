@@ -1,0 +1,145 @@
+# Assistant Knowledge Base
+# Rule-based responses for Nguyen Tu Quick Assistant
+# All answers are static and do not use external APIs
+
+assistant:
+  name:
+    vi: "Trợ lý Nguyễn Tú"
+    en: "Nguyen Tu Quick Assistant"
+  description:
+    vi: "Trợ lý trả lời tự động từ dữ liệu có sẵn trên website. Không sử dụng API AI."
+    en: "Automated answers from website data. No external AI API is used."
+  
+  greeting:
+    vi: "Xin chào! Mình là trợ lý của Nguyễn Tú. Mình có thể giúp gì cho bạn?"
+    en: "Hello! I'm Nguyen Tu's assistant. How can I help you?"
+  
+  placeholder:
+    vi: "Nhập câu hỏi của bạn..."
+    en: "Type your question..."
+  
+  not_found:
+    vi: "Mình chưa có thông tin chắc chắn về nội dung này. Bạn có thể liên hệ Nguyễn Tú qua Zalo, WhatsApp hoặc điện thoại để xác nhận."
+    en: "I don't have a confirmed answer for that yet. Please contact Nguyen Tu by Zalo, WhatsApp or phone to confirm."
+
+# Quick questions and answers
+quick_questions:
+  - id: pricing
+    question:
+      vi: "Bảng giá"
+      en: "Pricing"
+    answer:
+      vi: "Bạn có thể xem bảng giá chi tiết tại [trang Bảng giá]({{ '/bang-gia/' | relative_url }}). Hoặc dùng công cụ tính giá ngay bên dưới."
+      en: "You can view detailed pricing at [Pricing page]({{ '/bang-gia/' | relative_url }}). Or use the rental calculator below."
+  
+  - id: calculator
+    question:
+      vi: "Tính giá"
+      en: "Calculate price"
+    answer:
+      vi: "Dùng công cụ [Tính giá thuê xe]({{ '/bang-gia/#tinh-gia' | relative_url }}) để ước tính chi phí thuê xe."
+      en: "Use the [Rental Price Calculator]({{ '/bang-gia/#tinh-gia' | relative_url }}) to estimate rental costs."
+  
+  - id: address
+    question:
+      vi: "Địa chỉ"
+      en: "Address"
+    answer:
+      vi: "{{ business.address.full }}"
+      en: "{{ business.address.full }}"
+  
+  - id: hours
+    question:
+      vi: "Giờ mở cửa"
+      en: "Opening hours"
+    answer:
+      vi: "Chúng tôi hoạt động từ {{ business.hours }}. Không giao xe ngoài giờ này."
+      en: "We operate from {{ business.hours }}. No delivery outside these hours."
+  
+  - id: phone
+    question:
+      vi: "Số điện thoại"
+      en: "Phone number"
+    answer:
+      vi: "Số điện thoại: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})"
+      en: "Phone: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})"
+  
+  - id: zalo
+    question:
+      vi: "Zalo"
+      en: "Zalo"
+    answer:
+      vi: "Bạn có thể nhắn Zalo tại: [{{ business.contact.zalo }}]({{ business.contact.zalo }})"
+      en: "You can message us on Zalo: [{{ business.contact.zalo }}]({{ business.contact.zalo }})"
+  
+  - id: whatsapp
+    question:
+      vi: "WhatsApp"
+      en: "WhatsApp"
+    answer:
+      vi: "Bạn có thể nhắn WhatsApp tại: [{{ business.contact.whatsapp }}]({{ business.contact.whatsapp }})"
+      en: "You can message us on WhatsApp: [{{ business.contact.whatsapp }}]({{ business.contact.whatsapp }})"
+  
+  - id: maps
+    question:
+      vi: "Google Maps"
+      en: "Google Maps"
+    answer:
+      vi: "Xem vị trí của chúng tôi trên: [Google Maps]({{ business.contact.maps }})"
+      en: "View our location on: [Google Maps]({{ business.contact.maps }})"
+  
+  - id: honda-wave
+    question:
+      vi: "Xe số"
+      en: "Manual bike"
+    answer:
+      vi: "Xe số bao gồm Honda Wave, Yamaha Sirius. Giá thuê từ 150.000đ/ngày. [Xem chi tiết]({{ '/bang-gia-xe-so/' | relative_url }})"
+      en: "Manual bikes include Honda Wave, Yamaha Sirius. Rental from 150,000 VND/day. [View details]({{ '/bang-gia-xe-so/' | relative_url }})"
+  
+  - id: honda-vision
+    question:
+      vi: "Xe ga"
+      en: "Automatic scooter"
+    answer:
+      vi: "Xe ga bao gồm Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio. Giá thuê từ 150.000đ-200.000đ/ngày. [Xem chi tiết]({{ '/bang-gia-xe-ga/' | relative_url }})"
+      en: "Automatic scooters include Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio. Rental from 150,000-200,000 VND/day. [View details]({{ '/bang-gia-xe-ga/' | relative_url }})"
+  
+  - id: electric-bike
+    question:
+      vi: "Xe điện"
+      en: "Electric bike"
+    answer:
+      vi: "Xe điện thân thiện môi trường. Giá thuê từ 200.000đ/ngày. [Xem chi tiết]({{ '/bang-gia-xe-dien/' | relative_url }})"
+      en: "Electric motorbikes are environmentally friendly. Rental from 200,000 VND/day. [View details]({{ '/bang-gia-xe-dien/' | relative_url }})"
+  
+  - id: electric-scooter
+    question:
+      vi: "Xe đạp điện"
+      en: "Electric scooter"
+    answer:
+      vi: "Xe đạp điện nhẹ nhàng, phù hợp cho khoảng cách ngắn. Vui lòng liên hệ để biết giá."
+      en: "Electric scooters are lightweight, suitable for short distances. Please contact for pricing."
+  
+  - id: daily-rental
+    question:
+      vi: "Thuê theo ngày"
+      en: "Daily rental"
+    answer:
+      vi: "Thuê theo ngày linh hoạt cho nhu cầu ngắn hạn. Giá phụ thuộc vào loại xe."
+      en: "Daily rental is flexible for short-term needs. Price depends on the vehicle type."
+  
+  - id: weekly-rental
+    question:
+      vi: "Thuê theo tuần"
+      en: "Weekly rental"
+    answer:
+      vi: "Thuê theo tuần tiết kiệm cho chuyến đi dài ngày. Giá ưu đãi hơn thuê theo ngày."
+      en: "Weekly rental is economical for longer trips. Discounted rates compared to daily."
+  
+  - id: monthly-rental
+    question:
+      vi: "Thuê theo tháng"
+      en: "Monthly rental"
+    answer:
+      vi: "Thuê theo tháng có giá ưu đãi nhất. Phù hợp cho thuê dài hạn."
+      en: "Monthly rental has the best discounted rates. Suitable for long-term rental."
