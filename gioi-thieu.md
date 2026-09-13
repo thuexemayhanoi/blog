@@ -1,70 +1,79 @@
 ---
 layout: page
-title: "Giới thiệu"
-description: "Giới thiệu về dịch vụ thuê xe máy tại Hà Nội từ Nguyễn Tú"
+title: "Gioi thieu - Thue Xe May Ha Noi Nguyen Tu"
+description: "Gioi thieu ve dich vu thue xe may uy tin tai Ha Noi. Xe chat luong, gia ca minh bach, giao nhan tan noi."
+lang: vi
+translation_key: about
 ---
 
 {% assign business = site.data.business %}
 
-## Về Nguyễn Tú
+## Gioi Thieu Nguyen Tu Motorcycle Rental
 
-<strong>{{ business.display_name }}</strong> là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.
+{{ business.display_name }} la don vi cung cap dich vu thue xe may uy tin tai Ha Noi, Viet Nam. Chung toi chuyen ve viec cung cap xe may chat luong cho du khach va nguoi dan dia phuong voi gia ca minh bach.
 
-## Mục đích của blog
+### Dich Vu Cua Chung Toi
 
-Blog được xây dựng với mục đích:
+- **Thue xe may:** Thue theo ngay, tuan, thang linh hoat
+- **Da dang loai xe:** Xe so, xe tay ga, xe may dien, xe 50cc
+- **Giao nhan xe:** Giao xe tan noi tai cac khu vuc phuc vu
+- **Chat luong dam bao:** Tat ca xe duoc bao duong dinh ky
+- **Gia ca minh bach:** Khong phat sinh phi an
 
-- **Chia sẻ kinh nghiệm:** Hướng dẫn cách chọn xe phù hợp, thủ tục thuê xe, và những lưu ý quan trọng khi thuê xe máy tại Hà Nội.
-- **Hỗ trợ khách hàng:** Cung cấp thông tin chi tiết về các loại xe, khu vực phục vụ, và dịch vụ của Nguyễn Tú.
-- **Tạo cộng đồng:** Kết nối những người có nhu cầu thuê xe máy, chia sẻ những câu chuyện và kinh nghiệm thực tế.
+### Vi Sao Chon Chung Toi?
 
-## Cam kết của chúng tôi
+1. **Xe Chat Luong**: Tat ca xe duoc bao duong dinh ky va kiem tra ky truoc khi cho thue
+2. **Gia Ca Minh Bach**: Gia thue ro rang, khong co phi an nao
+3. **Giao Nhan Tan Noi**: Tiet kiem thoi gian cho khach hang
+4. **Ho Tro 24/7**: Luon san sang ho tro khach hang moi luc
+5. **Thu Tuc Don Gian**: Nhan xe nhanh chong voi thu tuc don gian
 
-Chúng tôi cam kết:
+### Thong Tin Lien He
 
-- Cung cấp xe chất lượng, được bảo dưỡng định kỳ
-- Giá cả minh bạch, không phát sinh phí ẩn
-- Giao xe tận nơi theo yêu cầu
-- Hỗ trợ khách hàng trong giờ hoạt động {{ business.hours }}
+📍 **Dia chi**: {{ business.address.full }}
 
-## Dịch vụ của chúng tôi
+📞 **Dien thoai**: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
 
-{{ business.display_name }} cung cấp đa dạng các loại xe và hình thức thuê:
+✉️ **Email**: [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
-### Loại xe
+🕒 **Gio hoat dong**: {{ business.hours }}
+
+### Cac Loai Xe Chinh
+
+Chung toi cung cap da dang loai xe de dap ung moi nhu cau:
 
 {% for vehicle in business.vehicle_types %}
-- **{{ vehicle.name }}:** {{ vehicle.description }}
+- **{{ vehicle.name }}**: {{ vehicle.description }}
   {% if vehicle.examples.size > 0 %}
-  *Ví dụ: {{ vehicle.examples | join: ', ' }}*
+  *Vi du: {{ vehicle.examples | join: ', ' }}*
   {% endif %}
 {% endfor %}
 
-### Hình thức thuê
+### Khu Vuc Phuc Vu
 
-{% for rental in business.rental_types %}
-- **{{ rental.name }}:** {{ rental.description }}
-{% endfor %}
-
-## Khu vực phục vụ
-
-Chúng tôi phục vụ chủ yếu tại các quận nội thành Hà Nội:
+Chung toi chinh phuc vu tai cac quan noi thanh Ha Noi:
 
 {% for area in business.areas %}
 - {{ area }}
 {% endfor %}
 
-## Thông tin liên hệ
+**Luu y:** Thoi gian va chi phi giao nhan xe co the thay doi tuy theo khu vuc. Vui long xac nhan truoc khi dat xe.
 
-- **Địa chỉ:** {{ business.address.full }}
-- **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
-- **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
-- **Zalo:** [Nhắn Zalo]({{ business.contact.zalo }})
-- **Giờ hoạt động:** {{ business.hours }}
-- **Website chính:** [{{ business.url }}]({{ business.url }})
+### Cam Ket Cua Chung Toi
 
-## Lưu ý quan trọng
+Chung toi cam ket mang den cho khach hang:
 
-- Tình trạng xe, giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi
-- Cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe
-- Không giao xe ngoài giờ hoạt động
+- Xe chat luong, duoc bao duong dinh ky
+- Gia ca minh bach, khong phat sinh phi an
+- Giao xe tan noi theo yeu cau
+- Ho tro khach hang nhiet tinh
+
+### Ban Can Thue Xe May?
+
+Hay lien he voi chung toi de duoc tu van va ho tro tot nhat:
+
+<div class="cta-group">
+  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Go {{ business.contact.phone }}</a>
+  <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
+  <a href="{{ business.contact.whatsapp }}" class="btn btn-outline">WhatsApp</a>
+</div>
