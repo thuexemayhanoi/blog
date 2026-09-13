@@ -1,121 +1,79 @@
-brand: "Nguyễn Tú"
-display_name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
+brand: "Nguyen Tu"
+display_name: "Thue Xe May Ha Noi Nguyen Tu"
 url: "https://thuexemaynguyentu.com/"
 logo: "/IMG_2536.jpeg"
 
 address:
-  street: "112 Nguyễn Văn Cừ"
-  district: "Bồ Đề"
-  city: "Long Biên"
-  region: "Hà Nội"
-  country: "Việt Nam"
-  full: "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam"
+  street: "112 Nguyen Van Cu"
+  district: "Bo De"
+  city: "Long Bien"
+  region: "Ha Noi"
+  country: "Viet Nam"
+  full: "112 Nguyen Van Cu, Bo De, Long Bien, Ha Noi, Viet Nam"
 
 contact:
   phone: "0942 467 674"
   phone_uri: "tel:+84942467674"
-  whatsapp: "https://wa.me/84942467674"
   email: "nguyentuantu8x@gmail.com"
   zalo: "https://zalo.me/0942467674"
+  whatsapp: "https://wa.me/84942467674"
   maps: "https://maps.app.goo.gl/rQBfa43FA2WNnuSy9?g_st=ic"
 
 hours: "09:00 - 21:00"
 
-default_rental_days: 7
-
 services:
-  - "Thuê xe số"
-  - "Thuê xe tay ga"
-  - "Thuê xe máy 50cc"
-  - "Thuê xe máy điện"
-  - "Thuê xe đạp điện"
-  - "Thuê theo ngày"
-  - "Thuê theo tuần"
-  - "Thuê theo tháng"
-  - "Giao nhận xe theo khu vực tại Hà Nội"
+  - "Thue xe so"
+  - "Thue xe tay ga"
+  - "Thue xe may 50cc"
+  - "Thue xe may dien"
+  - "Thue xe dap dien"
+  - "Thue theo ngay"
+  - "Thue theo tuan"
+  - "Thue theo thang"
+  - "Giao nhan xe theo khu vuc tai Ha Noi"
 
 areas:
-  - "Bồ Đề"
-  - "Long Biên"
-  - "Gia Lâm"
-  - "Hoàn Kiếm"
-  - "Phố Cổ"
-  - "Ba Đình"
-  - "Tây Hồ"
-  - "Nội thành Hà Nội"
+  - "Bo De"
+  - "Long Bien"
+  - "Gia Lam"
+  - "Hoan Kiem"
+  - "Pho Co"
+  - "Ba Dinh"
+  - "Tay Ho"
+  - "Noi thanh Ha Noi"
 
 vehicle_types:
-  - id: honda-wave
-    name: "Honda Wave"
-    type: "Xe số"
-    type_en: "Manual motorbike"
+  - name: "Xe so"
     examples: ["Honda Wave", "Yamaha Sirius"]
-    description: "Xe côn truyền thống, dễ điều khiển"
-    description_en: "Traditional manual motorbike, easy to control"
-    pricing_url: "/bang-gia-xe-so/"
+    description: "Xe con truyen thong, de dieu khien"
   
-  - id: honda-vision
-    name: "Honda Vision"
-    type: "Xe ga"
-    type_en: "Automatic scooter"
-    examples: ["Honda Vision"]
-    description: "Xe ga hiện đại, thoải mái"
-    description_en: "Modern automatic scooter, comfortable"
-    pricing_url: "/bang-gia-xe-ga/"
+  - name: "Xe tay ga"
+    examples: ["Honda Vision", "Honda Air Blade", "Honda Click", "Yamaha Mio"]
+    description: "Xe ga hien dai, thoai mai"
   
-  - id: honda-airblade
-    name: "Honda Air Blade"
-    type: "Xe ga"
-    type_en: "Automatic scooter"
-    examples: ["Honda Air Blade"]
-    description: "Xe ga hiện đại, mạnh mẽ"
-    description_en: "Modern automatic scooter, powerful"
-    pricing_url: "/bang-gia-xe-ga/"
+  - name: "Xe 50cc"
+    examples: ["Honda Cub 50cc", "Xe ga 50cc"]
+    description: "Xe cong suat nho, phu hop cho du khach"
   
-  - id: honda-click
-    name: "Honda Click / Yamaha Mio"
-    type: "Xe ga"
-    type_en: "Budget automatic scooter"
-    examples: ["Honda Click", "Yamaha Mio"]
-    description: "Xe ga giá rẻ, tiết kiệm"
-    description_en: "Budget automatic scooter, economical"
-    pricing_url: "/bang-gia-xe-ga/"
-  
-  - id: electric-bike
-    name: "Xe điện"
-    type: "Xe máy điện"
-    type_en: "Electric motorbike"
+  - name: "Xe may dien"
     examples: []
-    description: "Xe thân thiện môi trường, không phát thải"
-    description_en: "Environmentally friendly electric motorbike, zero emissions"
-    pricing_url: "/bang-gia-xe-dien/"
+    description: "Xe than thien moi truong, khong phat thai"
   
-  - id: electric-scooter
-    name: "Xe đạp điện"
-    type: "Xe đạp điện"
-    type_en: "Electric scooter"
+  - name: "Xe dap dien"
     examples: []
-    description: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
-    description_en: "Lightweight, suitable for short distances"
-    pricing_url: "/bang-gia-xe-dien/"
+    description: "Nhe nhang, phu hop cho khoang cach ngan"
 
 rental_types:
-  - name: "Theo ngày"
-    name_en: "Daily rental"
-    description: "Linh hoạt cho nhu cầu ngắn hạn"
-    description_en: "Flexible for short-term needs"
+  - name: "Theo ngay"
+    description: "Linh hoat cho nhu cau ngan han"
   
-  - name: "Theo tuần"
-    name_en: "Weekly rental"
-    description: "Tiết kiệm cho chuyến đi dài ngày"
-    description_en: "Economical for longer trips"
+  - name: "Theo tuan"
+    description: "Tiet kiem cho chuyen di dai ngay"
   
-  - name: "Theo tháng"
-    name_en: "Monthly rental"
-    description: "Giá ưu đãi cho thuê dài hạn"
-    description_en: "Discounted rates for long-term rental"
+  - name: "Theo thang"
+    description: "Gia uu dai cho thue dai han"
 
 notes:
-  - "Tình trạng xe, giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi"
-  - "Cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe"
-  - "Không giao xe ngoài giờ hoạt động (09:00 - 21:00)"
+  - "Tinh trang xe, gia thue, tien dat coc va chi phi giao nhan co the thay doi"
+  - "Can xac nhan truc tiep voi Nguyen Tu truoc khi dat xe"
+  - "Khong giao xe ngoai gio hoat dong (09:00 - 21:00)"
