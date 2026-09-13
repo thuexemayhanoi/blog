@@ -2,14 +2,28 @@
 layout: default
 --- 
 
+{% assign business = site.data.business %}
+
 <article class="post-detail">
   <header class="post-header">
     <div class="container">
+      {% if page.categories %}
+      <div class="post-categories">
+        {% for category in page.categories %}
+        <a href="{{ '/' | append: category | slugify | append: '/' | relative_url }}" class="category-tag">{{ category }}</a>
+        {% endfor %}
+      </div>
+      {% endif %}
+      
       <h1>{{ page.title }}</h1>
+      
       <div class="post-meta">
-        <span class="post-date">{{ page.date | date: "%d/%m/%Y" }}</span>
+        <span class="post-date">📅 {{ page.date | date: "%d/%m/%Y" }}</span>
         {% if page.author %}
-        <span class="post-author">bởi {{ page.author }}</span>
+        <span class="post-author">✍️ {{ page.author }}</span>
+        {% endif %}
+        {% if page.reading_time %}
+        <span class="reading-time">⏱️ {{ page.reading_time }} phút đọc</span>
         {% endif %}
       </div>
     </div>
@@ -31,21 +45,25 @@ layout: default
     
     <div class="post-navigation">
       {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">← Bài trước: {{ page.previous.title }}</a>
+      <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
+        ← Bài trước: {{ page.previous.title }}
+      </a>
       {% endif %}
       
       {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="nav-link next">Bài sau: {{ page.next.title }} →</a>
+      <a href="{{ page.next.url | relative_url }}" class="nav-link next">
+        Bài sau: {{ page.next.title }} →
+      </a>
       {% endif %}
     </div>
     
-    <div class="post-cta">
+    <div class="post-cta glass-card">
       <h3>Bạn cần thuê xe máy tại Hà Nội?</h3>
-      <p>Hãy liên hệ với <strong>{{ site.business_display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.</p>
+      <p>Hãy liên hệ với <strong>{{ business.display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.</p>
       <div class="cta-group">
-        <a href="{{ site.business_phone_uri }}" class="btn btn-primary">Gọi ngay</a>
-        <a href="{{ site.business_zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
-        <a href="{{ site.business_url }}" class="btn btn-outline">Website chính</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>
+        <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
+        <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
       </div>
     </div>
   </div>
