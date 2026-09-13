@@ -1,21 +1,28 @@
 {% assign business = site.data.business %}
-{% assign nav = site.data.navigation.main %}
+{% assign categories = site.data.categories %}
 
-<nav class="breadcrumb" aria-label="Breadcrumb">
+<nav class="breadcrumb" aria-label="Đường dẫn">
   <ol>
     <li>
       <a href="{{ '/' | relative_url }}" aria-label="Trang chủ">Trang chủ</a>
     </li>
-    {% if page.url contains '/blog/' %}
+    {% if page.url contains '/blog/' or page.layout == 'post' %}
     <li>
       <a href="{{ '/blog/' | relative_url }}" aria-label="Blog">Blog</a>
     </li>
     {% endif %}
     {% if page.categories %}
       {% for category in page.categories limit:1 %}
+        {% assign category_data = categories | where: "name", category | first %}
+        {% if category_data %}
       <li>
-        <a href="{{ '/' | append: category | slugify | append: '/' | relative_url }}" aria-label="{{ category }}">{{ category }}</a>
+        <a href="{{ category_data.url | relative_url }}" aria-label="{{ category }}">{{ category }}</a>
       </li>
+        {% else %}
+      <li>
+        <span>{{ category }}</span>
+      </li>
+        {% endif %}
       {% endfor %}
     {% endif %}
     {% if page.title %}
