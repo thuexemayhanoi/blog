@@ -1,94 +1,110 @@
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.main %}
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign other_lang = current_lang == 'vi' ? 'en' : 'vi' %}
 
 <header class="site-header" role="banner">
   <div class="container">
     <div class="header-content">
-      <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ business.display_name }} - Trang chủ">
-        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="44" height="44" class="logo-img">
-        <span class="logo-text">{{ business.brand }}</span>
+      <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ business.display_name }}">
+        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="44" height="44">
+        <span>{{ business.brand }}</span>
       </a>
       
-      <nav class="main-nav" role="navigation" aria-label="Menu chính">
-        <button class="mobile-menu-toggle" aria-label="Mở menu" aria-expanded="false" aria-controls="main-navigation">
-          <span class="hamburger"></span>
-        </button>
-        <ul class="nav-list" id="main-navigation" role="menubar">
+      <nav class="desktop-nav">
+        <ul class="nav-list" role="menubar">
           {% for item in nav %}
             {% if item.children %}
-            <li class="dropdown" role="none">
+            <li class="dropdown">
               <button class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="menuitem">
                 <span>{{ item.name }}</span>
-                <span class="dropdown-icon" aria-hidden="true">▼</span>
+                <span class="dropdown-icon">▼</span>
               </button>
               <ul class="dropdown-menu" role="menu">
                 {% for child in item.children %}
-                <li role="none">
+                <li>
                   <a href="{{ child.url | relative_url }}" class="dropdown-item" role="menuitem" {% if page.url == child.url %}aria-current="page"{% endif %}>{{ child.name }}</a>
                 </li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
-            <li role="none">
+            <li>
               <a href="{{ item.url | relative_url }}" role="menuitem" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.name }}</a>
             </li>
             {% endif %}
           {% endfor %}
-          <li role="none">
-            <a href="{{ business.url }}" target="_blank" rel="noopener noreferrer" role="menuitem">Website chính</a>
-          </li>
         </ul>
+        
+        <div class="header-utilities">
+          <div class="lang-switcher">
+            <a href="{% if current_lang == 'vi' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'vi' %}active{% endif %}">VI</a>
+            <a href="{% if current_lang == 'en' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'en' %}active{% endif %}">EN</a>
+          </div>
+          <button class="theme-toggle" aria-label="Theme">
+            <span class="sun">☀</span>
+            <span class="moon">☾</span>
+          </button>
+          <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="calc-link">💰</a>
+        </div>
       </nav>
+      
+      <div class="mobile-utilities">
+        <div class="lang-switcher">
+          <a href="{% if current_lang == 'vi' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'vi' %}active{% endif %}">VI</a>
+          <a href="{% if current_lang == 'en' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'en' %}active{% endif %}">EN</a>
+        </div>
+        <button class="theme-toggle">☀/☾</button>
+        <button class="mobile-menu-toggle" aria-expanded="false">
+          <span class="hamburger"></span>
+        </button>
+      </div>
     </div>
   </div>
 </header>
 
-<!-- Mobile Menu Overlay -->
-<div class="mobile-menu" role="dialog" aria-modal="true" aria-label="Menu di động">
-  <div class="mobile-menu-header">
-    <a href="{{ '/' | relative_url }}" class="mobile-logo" aria-label="Trang chủ">
-      <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
-      <span>{{ business.brand }}</span>
-    </a>
-    <button class="mobile-menu-close" aria-label="Đóng menu">
-      <span class="close-icon" aria-hidden="true">×</span>
-    </button>
-  </div>
-  <nav class="mobile-nav" role="navigation">
-    <ul class="mobile-nav-list">
-      {% for item in nav %}
-        {% if item.children %}
-        <li class="mobile-nav-item has-submenu">
-          <button class="submenu-toggle" aria-expanded="false" aria-controls="submenu-{{ item.name | slugify }}" role="menuitem">
-            <span>{{ item.name }}</span>
-            <span class="submenu-icon" aria-hidden="true">▶</span>
-          </button>
-          <ul class="mobile-submenu" id="submenu-{{ item.name | slugify }}" role="menu">
-            {% for child in item.children %}
-            <li role="none">
-              <a href="{{ child.url | relative_url }}" class="mobile-submenu-link" role="menuitem">{{ child.name }}</a>
-            </li>
-            {% endfor %}
-          </ul>
+<div class="mobile-menu" role="dialog" aria-modal="true">
+  <div class="mobile-menu-inner">
+    <div class="mobile-header">
+      <a href="{{ '/' | relative_url }}" class="mobile-logo">
+        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
+        <span>{{ business.brand }}</span>
+      </a>
+      <button class="mobile-close">×</button>
+    </div>
+    <nav class="mobile-nav">
+      <ul>
+        {% for item in nav %}
+          {% if item.children %}
+          <li class="has-submenu">
+            <button class="submenu-toggle" aria-expanded="false">
+              <span>{{ item.name }}</span>
+              <span class="submenu-arrow">▶</span>
+            </button>
+            <ul class="submenu">
+              {% for child in item.children %}
+              <li>
+                <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
+              </li>
+              {% endfor %}
+            </ul>
+          </li>
+          {% else %}
+          <li>
+            <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+          </li>
+          {% endif %}
+        {% endfor %}
+        <li>
+          <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}">💰 Tính giá</a>
         </li>
-        {% else %}
-        <li class="mobile-nav-item">
-          <a href="{{ item.url | relative_url }}" class="mobile-nav-link" role="menuitem">{{ item.name }}</a>
-        </li>
-        {% endif %}
-      {% endfor %}
-      <li class="mobile-nav-item">
-        <a href="{{ business.url }}" target="_blank" rel="noopener noreferrer" class="mobile-nav-link" role="menuitem">Website chính</a>
-      </li>
-    </ul>
-  </nav>
-  <div class="mobile-menu-footer">
-    <a href="{{ business.contact.phone_uri }}" class="mobile-footer-btn">
-      <span>📞 {{ business.contact.phone }}</span>
-    </a>
-    <a href="{{ business.contact.zalo }}" class="mobile-footer-btn" target="_blank" rel="noopener noreferrer">
-      <span>💬 Nhắn Zalo</span>
-    </a>
+      </ul>
+    </nav>
+    <div class="mobile-footer">
+      <a href="{{ business.contact.phone_uri }}" class="action-btn">📞 Gọi</a>
+      <a href="{{ business.contact.zalo }}" class="action-btn">💬 Zalo</a>
+      <a href="{{ business.contact.whatsapp }}" class="action-btn">📱 WA</a>
+      <a href="{{ business.contact.maps }}" class="action-btn">📍 Maps</a>
+    </div>
   </div>
 </div>
