@@ -1,226 +1,148 @@
-# Blog Thuê Xe Máy Hà Nội Nguyễn Tú
+# Blog Thue Xe May Ha Noi Nguyen Tu
 
----
+Day la repository dung de hoc va xay dung blog bang GitHub Pages.
 
-## Giới thiệu
+## Website
 
-Đây là repository NGUYỄN TÚ BLOG - PREMIUM ULTRA, một website/blog doanh nghiệp cao cấp xây dựng bằng Jekyll + GitHub Pages với thiết kế Apple-inspired, Premium Glass, Luxury Minimal.
+- **URL:** https://thuexemayhanoi.github.io/blog/
+- **Website doanh nghiep chinh:** https://thuexemaynguyentu.com/
 
-Website: https://thuexemayhanoi.github.io/blog/
-Website doanh nghiệp: https://thuexemaynguyentu.com/
+## Muc tieu hoc
 
----
+- Hieu tung file trong mot blog GitHub Pages.
+- Hieu tung thu muc dung de lam gi.
+- Hoc tung buoc, moi lan chi them mot phan nho.
+- Sau khi hieu cau truc co ban moi lam giao dien, bai viet va SEO.
 
-## Cấu trúc thư mục
+## Trang thai hien tai
+
+Repository da hoan thien phien ban **PREMIUM ULTRA** voi:
+- Thiet ke Apple-inspired, Premium Glass
+- Responsive hoan chinh
+- SEO toi uu
+- Accessibility tot
+- Performance cao
+
+## Cau truc thu muc
 
 /
-+-- README.md
-+-- _config.yml
++-- README.md                    # Tai lieu huong dan
++-- _config.yml                 # Cau hinh toan site (Jekyll)
++-- IMG_2536.jpeg               # Logo thuong hieu
+|
 +-- _data/
-|   +-- navigation.yml
-|   +-- business.yml
+|   +-- business.yml            # Thong tin doanh nghiep (NAP, lien he)
+|   +-- categories.yml          # Danh muc bai viet voi URL tuong minh
+|   +-- navigation.yml          # Menu dieu huong
+|
 +-- _includes/
-|   +-- header.html
-|   +-- footer.html
-|   +-- quick-contact.html
-|   +-- seo.html
-|   +-- breadcrumb.html
+|   +-- breadcrumb.html         # Duong dan (Breadcrumb)
+|   +-- footer.html             # Footer website
+|   +-- header.html             # Header voi menu desktop/mobile
+|   +-- quick-contact.html      # Nut lien he nhanh (desktop + mobile)
+|   +-- seo.html                # Meta tags, Open Graph, Schema
+|
 +-- _layouts/
-|   +-- default.html
-|   +-- home.html
-|   +-- page.html
-|   +-- post.html
-|   +-- category.html
+|   +-- category.html           # Layout cho trang danh muc
+|   +-- default.html            # Layout goc
+|   +-- home.html               # Layout trang chu
+|   +-- page.html               # Layout cho cac trang noi dung
+|   +-- post.html               # Layout cho bai blog
+|
 +-- _posts/
-|   +-- 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi.md
 |   +-- 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi.md
+|   +-- 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi.md
 |   +-- 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao.md
+|
 +-- assets/
 |   +-- css/
-|   |   +-- style.css
+|   |   +-- style.css           # CSS thuan - Premium Ultra Design
 |   +-- js/
-|       +-- main.js
-+-- index.md
-+-- gioi-thieu.md
-+-- blog.md
-+-- du-lich.md
-+-- kinh-nghiem.md
-+-- chia-se.md
-+-- bang-gia.md
-+-- bang-gia-xe-so.md
-+-- bang-gia-xe-ga.md
-+-- bang-gia-xe-dien.md
-+-- bang-gia-xe-50cc.md
-+-- lien-he.md
-+-- bao-mat.md
-+-- dieu-khoan.md
-+-- 404.html
-+-- robots.txt
-+-- sitemap.xml
+|       +-- main.js             # JavaScript thuan - Menu, Dropdown
+|
++-- 404.html                    # Trang loi 404
++-- robots.txt                  # Cau hinh cho bot tim kiem
++-- index.md                    # Trang chu
++-- blog.md                     # Trang danh sach bai viet
++-- gioi-thieu.md               # Trang gioi thieu
++-- lien-he.md                  # Trang lien he
++-- du-lich.md                  # Danh muc: Du lich
++-- kinh-nghiem.md             # Danh muc: Kinh nghiem
++-- chia-se.md                  # Danh muc: Chia se
++-- bang-gia.md                 # Trang bang gia tong quan
++-- bang-gia-xe-so.md           # Bang gia: Xe so
++-- bang-gia-xe-ga.md           # Bang gia: Xe ga
++-- bang-gia-xe-dien.md         # Bang gia: Xe dien
++-- bang-gia-xe-50cc.md         # Bang gia: Xe 50cc
++-- bao-mat.md                  # Chinh sach bao mat
++-- dieu-khoan.md               # Dieu khoan su dung
 
----
+## Giai thich tung file
 
-## Giải thích từng folder/file
+### Cau hinh
+- **_config.yml** -> Cau hinh toan site: tieu de, mo ta, ngon ngu, URL, plugin
+- **_data/business.yml** -> Thong tin doanh nghiep: ten, dia chi, dien thoai, email, Zalo, Google Maps
+- **_data/categories.yml** -> Danh muc bai viet voi URL tuong minh (tranh slugify tu dong)
+- **_data/navigation.yml** -> Menu dieu huong cho header va footer
 
-### _config.yml
-Cấu hình toàn site: tiêu đề, mô tả, URL, ngôn ngữ (vi-VN), thông tin doanh nghiệp, plugin Jekyll
+### Layout
+- **_layouts/default.html** -> Layout goc, chua header, footer, SEO
+- **_layouts/home.html** -> Layout trang chu voi cac section
+- **_layouts/page.html** -> Layout cho cac trang noi dung
+- **_layouts/post.html** -> Layout cho bai blog
+- **_layouts/category.html** -> Layout cho trang danh muc
 
-### _data/
-- navigation.yml: Quản lý toàn bộ menu (header & footer) - Menu 2 tầng
-- business.yml: Thông tin doanh nghiệp tập trung (NAP, dịch vụ, khu vực)
+### Includes
+- **_includes/header.html** -> Header voi logo, menu desktop (dropdown), menu mobile overlay
+- **_includes/footer.html** -> Footer voi thong tin doanh nghiep, lien ket
+- **_includes/quick-contact.html** -> Nut lien he nhanh: floating desktop + bottom bar mobile
+- **_includes/breadcrumb.html** -> Duong dan su dung categories.yml
+- **_includes/seo.html** -> Meta tags, Open Graph, Twitter Card, Schema (WebSite, Organization, LocalBusiness, BlogPosting, BreadcrumbList)
 
-### _includes/
-- header.html: Header premium (sticky, blur, glass, dropdown menu, mobile hamburger)
-- footer.html: Footer premium 4 cột (NGUYỄN TÚ, LIÊN KẾT, BLOG, BẢNG GIÁ)
-- quick-contact.html: Liên hệ nhanh (floating desktop + bottom bar mobile)
-- seo.html: SEO meta tags, Open Graph, Twitter Card, Schema.org
-- breadcrumb.html: Breadcrumb navigation
+### Assets
+- **assets/css/style.css** -> CSS thuan: Apple-inspired Premium Ultra, Glassmorphism, Responsive
+- **assets/js/main.js** -> JavaScript thuan: Mobile menu, Dropdown, Keyboard navigation, Accessibility
 
-### _layouts/
-- default.html: Layout gốc (SEO, header, quick-contact, footer, JS)
-- home.html: Trang chủ premium (Hero, Dịch vụ, Bài viết, Chuyên mục, Bảng giá, Khu vực, Giới thiệu, CTA)
-- page.html: Trang tĩnh
-- post.html: Bài viết (categories, tags, navigation, CTA)
-- category.html: Chuyên mục
+### Noi dung
+- **index.md** -> Trang chu
+- **blog.md** -> Trang danh sach tat ca bai viet
+- **gioi-thieu.md** -> Trang gioi thieu
+- **lien-he.md** -> Trang lien he
+- **du-lich.md, kinh-nghiem.md, chia-se.md** -> Trang danh muc
+- **bang-gia*.md** -> Trang bang gia cac loai xe
+- **bao-mat.md, dieu-khoan.md** -> Trang phap ly
+- **_posts/*.md** -> Bai blog
 
-### _posts/
-Bài viết markdown với Front matter: layout, title, date, author, description, categories, tags, reading_time
-Categories: Du lịch, Kinh nghiệm, Chia sẻ
+## Cong nghe su dung
 
-### assets/css/style.css
-Premium Ultra Design: Apple-inspired, Glassmorphism, Luxury Minimal
-- Màu sắc: Trắng/đen/xám + xanh lam nhẹ (accent)
-- Typography: System fonts, lớn, sạch
-- Whitespace: Rộng rãi
-- Cards: Bo góc, glass blur, border nhẹ, shadow mềm
-- Responsive: Mobile-first
-- Dark mode: Tự động
-- Animation: Tinh tế
+- **Jekyll** - Static site generator
+- **GitHub Pages** - Hosting (branch main, folder root)
+- **HTML5** - Semantic HTML
+- **CSS3** - Thuan, khong framework
+- **JavaScript** - Thuan, khong library
+- **Liquid** - Template engine cua Jekyll
 
-### assets/js/main.js
-- Mobile menu toggle
-- Dropdown menu
-- Keyboard navigation
-- Smooth scroll
-- Lazy loading images
-- Accessibility support
+## Plugin
 
-### Trang chủ (index.md)
-Layout: home - Hero, Dịch vụ, Bài viết mới, Chuyên mục, Bảng giá, Khu vực, Giới thiệu, CTA
+- **jekyll-sitemap** -> Tu dong sinh sitemap.xml
+- **jekyll-feed** -> Tu dong sinh RSS feed
 
-### Trang chuyên mục
-- du-lich.md, kinh-nghiem.md, chia-se.md
-- Layout: category
-- Auto-filter posts by category
+## Khoi chay
 
-### Trang bảng giá
-- bang-gia.md (main)
-- bang-gia-xe-so.md, bang-gia-xe-ga.md, bang-gia-xe-dien.md, bang-gia-xe-50cc.md
-- Layout: page
-- Không hard-code giá
-
-### Trang tĩnh
-- gioi-thieu.md, lien-he.md, bao-mat.md, dieu-khoan.md
-- Layout: page
-
-### SEO & Technical
-- robots.txt: Cho phép index toàn bộ site
-- sitemap.xml: Auto-generated URLs
-- 404.html: Custom 404 page
-- Canonical URLs: Sử dụng absolute_url
-- Baseurl handling: Tất cả URL dùng relative_url/absolute_url
-
----
-
-## Tính năng đã triển khai
-
-Jekyll + GitHub Pages - Deploy từ branch main, root directory
-Apple-inspired Premium Design - Glassmorphism, Luxury Minimal
-Mobile-first Responsive - Hoàn chỉnh trên mọi thiết bị
-SEO Optimized - Meta tags, Open Graph, Twitter Card, Schema.org
-NAP Consistency - Thông tin doanh nghiệp nhất quán khắp site
-Menu 2 tầng - Dropdown Blog & Bảng giá, mobile hamburger
-Quick Contact - Floating (desktop) + Bottom bar (mobile)
-Dark Mode - Tự động theo prefers-color-scheme
-Accessibility - Keyboard nav, focus states, aria labels
-Performance - System fonts, no external libs, lazy loading
-Baseurl Support - Tất cả URL hoạt động với /blog/
-Sitemap & Robots - Tối ưu cho search engines
-
----
-
-## Cách sử dụng
-
-### 1. Bật GitHub Pages (nếu chưa bật)
-
-1. Vào Settings -> Pages
-2. Chọn "Deploy from a branch"
-3. Chọn branch: main
-4. Chọn folder: /(root)
-5. Click Save
-
-Website sẽ tự động deploy sau vài phút tại: https://thuexemayhanoi.github.io/blog/
-
-### 2. Thêm bài viết mới
-
-1. Tạo file markdown trong _posts/
-2. Tên file: YYYY-MM-DD-ten-bai-viet.md
-3. Front matter:
-
-layout: post
-title: "Tiêu đề bài viết"
-date: YYYY-MM-DD HH:MM:SS +0700
-author: "Nguyễn Tú"
-description: "Mô tả ngắn"
-categories: [Du lịch]
-tags: [tag1, tag2]
-reading_time: 5
-
-4. Viết nội dung
-5. Commit & push
-
-### 3. Cập nhật menu
-
-Sửa file _data/navigation.yml
-
-### 4. Cập nhật thông tin doanh nghiệp
-
-Sửa file _data/business.yml
-
----
-
-## Thông tin doanh nghiệp
-
-Thương hiệu: Nguyễn Tú
-Tên hiển thị: Thuê Xe Máy Hà Nội Nguyễn Tú
-Website: https://thuexemaynguyentu.com/
-Địa chỉ: 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam
-Điện thoại: 0942 467 674
-Email: nguyentuantu8x@gmail.com
-Zalo: https://zalo.me/0942467674
-Google Maps: https://maps.app.goo.gl/rj78cAggpN5kFD6ZA
-Giờ hoạt động: 09:00 - 21:00
-
----
-
-## Không được làm
-
-Không tạo .github/workflows/
-Không dùng GitHub Actions
-Không dùng React, Next.js, Vue, Astro
-Không dùng Bootstrap, Tailwind
-Không thay đổi GitHub Pages Settings
-Không hard-code NAP ở nhiều file
-Không bịa giá, đánh giá giả
-Không copy nguyên website chính
-
----
+Website se tu dong deploy khi push len branch main.
 
 URL: https://thuexemayhanoi.github.io/blog/
-Baseurl: /blog
-Language: vi-VN
-Theme: Jekyll (no theme, custom design)
 
----
+## Ghi chu quan trong
 
-© 2026 Nguyễn Tú. All rights reserved.
+- **Base URL:** /blog/ (khong hard-code duong dan)
+- **Logo:** IMG_2536.jpeg (44x44px trong header)
+- **Menu:** 2 tang toi da
+- **SEO:** Canonical tro den URL GitHub Pages
+- **Mobile:** Uu tien trai nghiem mobile
+- **Accessibility:** Ho tro keyboard navigation, focus visible
+- **Performance:** Khong framework, khong font ngoai khong can
+
+## Lich su
+
+- **09/2026:** Hoan thien phien ban Premium Ultra
