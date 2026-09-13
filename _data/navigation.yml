@@ -1,0 +1,92 @@
+main:
+  - name: "Trang chủ"
+    url: "/"
+    icon: "home"
+  
+  - name: "Giới thiệu"
+    url: "/gioi-thieu/"
+    icon: "info"
+  
+  - name: "Blog"
+    url: "/blog/"
+    icon: "blog"
+    children:
+      - name: "Du lịch"
+        url: "/du-lich/"
+        icon: "travel"
+      - name: "Kinh nghiệm"
+        url: "/kinh-nghiem/"
+        icon: "experience"
+      - name: "Chia sẻ"
+        url: "/chia-se/"
+        icon: "share"
+  
+  - name: "Bảng giá"
+    url: "/bang-gia/"
+    icon: "pricing"
+    children:
+      - name: "Xe số"
+        url: "/bang-gia-xe-so/"
+        icon: "motorcycle"
+      - name: "Xe ga"
+        url: "/bang-gia-xe-ga/"
+        icon: "scooter"
+      - name: "Xe điện"
+        url: "/bang-gia-xe-dien/"
+        icon: "electric"
+      - name: "Xe 50cc"
+        url: "/bang-gia-xe-50cc/"
+        icon: "50cc"
+  
+  - name: "Liên hệ"
+    url: "/lien-he/"
+    icon: "contact"
+
+footer:
+  - title: "NGUYỄN TÚ"
+    links:
+      - name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
+        url: "/"
+      - name: "Website chính"
+        url: "https://thuexemaynguyentu.com/"
+        external: true
+  
+  - title: "LIÊN KẾT"
+    links:
+      - name: "Trang chủ"
+        url: "/"
+      - name: "Giới thiệu"
+        url: "/gioi-thieu/"
+      - name: "Blog"
+        url: "/blog/"
+      - name: "Bảng giá"
+        url: "/bang-gia/"
+      - name: "Liên hệ"
+        url: "/lien-he/"
+  
+  - title: "BLOG"
+    links:
+      - name: "Du lịch"
+        url: "/du-lich/"
+      - name: "Kinh nghiệm"
+        url: "/kinh-nghiem/"
+      - name: "Chia sẻ"
+        url: "/chia-se/"
+  
+  - title: "BẢNG GIÁ"
+    links:
+      - name: "Xe số"
+        url: "/bang-gia-xe-so/"
+      - name: "Xe ga"
+        url: "/bang-gia-xe-ga/"
+      - name: "Xe điện"
+        url: "/bang-gia-xe-dien/"
+      - name: "Xe 50cc"
+        url: "/bang-gia-xe-50cc/"
+  
+  - title: "CHÍNH SÁCH"
+    links:
+      - name: "Bảo mật"
+        url: "/bao-mat/"
+      - name: "Điều khoản"
+        url: "/dieu-khoan/"
