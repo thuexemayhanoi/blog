@@ -1,61 +1,63 @@
 ---
 layout: page
-title: "Bảng giá xe ga"
-description: "Thông tin chi tiết về thuê xe ga (xe tay ga) từ Nguyễn Tú"
+title: "Bang gia xe ga - Thue Xe May Ha Noi Nguyen Tu"
+description: "Bang gia thue xe ga (automatic scooter) tai Ha Noi. Honda Vision, Air Blade, Click, Mio."
+lang: vi
+translation_key: xe-ga
 ---
 
+{% assign pricing = site.data.pricing %}
 {% assign business = site.data.business %}
 
-## Xe ga (Xe tay ga) - Thông tin chi tiết
+## Bang Gia Xe Ga
 
-Xe ga (xe tay ga) là loại xe hiện đại, thoải mái và dễ điều khiển, phù hợp cho cả nam và nữ.
+Xe ga (automatic scooter) la loai xe su dung hop so tu dong, nguoi lai chi can van ga la xe se di chuyen. Loai xe nay ngan cay pho bien do su tien loi.
 
-### Đặc điểm
+### Cac Mau Xe Ga
 
-- **Thoải mái:** Tư thế lái thẳng lưng, dễ chịu
-- **Dễ điều khiển:** Không cần sử dụng côn, phù hợp cho người mới
-- **Hiện đại:** Thiết kế trẻ trung, động cơ mạnh mẽ
-- **Phù hợp:** Cho thành phố và đường dài
-
-### Các mẫu xe tiêu biểu
-
-{% for vehicle in business.vehicle_types %}
-  {% if vehicle.name == "Xe tay ga" %}
-    {% if vehicle.examples.size > 0 %}
-- {{ vehicle.examples | join: '
-- ' }}
+<div class="pricing-table">
+  {% for vehicle in pricing.vehicles %}
+    {% if vehicle.category.vi == 'Xe ga' or vehicle.category.vi == 'Budget automatic scooter' %}
+    <div class="pricing-card glass-card">
+      <h3>{{ vehicle.name.vi }}</h3>
+      <p>{{ vehicle.description.vi }}</p>
+      <div class="price-grid">
+        {% if vehicle.rates.day.min %}
+        <div class="price-item">
+          <span class="price-label">Theo ngay:</span>
+          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.week.min %}
+        <div class="price-item">
+          <span class="price-label">Theo tuan:</span>
+          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.month.min %}
+        <div class="price-item">
+          <span class="price-label">Theo thang:</span>
+          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+        </div>
+        {% endif %}
+      </div>
+      <p class="note"><em>Tien dat coc: {{ vehicle.deposit.min }} - {{ vehicle.deposit.max }} VND</em></p>
+      {% if vehicle.popular %}
+      <span class="badge popular">Lua chon pho bien</span>
+      {% endif %}
+    </div>
     {% endif %}
-  {% endif %}
-{% endfor %}
+  {% endfor %}
+</div>
 
-### Hình thức thuê
+### Dac Diem
 
-{% for rental in business.rental_types %}
-- **{{ rental.name }}:** {{ rental.description }}
-{% endfor %}
+- Hien dai, su dung hop so tu dong
+- Tu the lai thang lung, thoai mai
+- De dieu khien
+- Phu hop cho nguoi moi hoac di trong pho
 
-### Khu vực phục vụ
-
-Chúng tôi phục vụ chủ yếu tại các quận:
-
-{% for area in business.areas %}
-- {{ area }}
-{% endfor %}
-
-### Lưu ý
-
-- Giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi
-- Vui lòng liên hệ để kiểm tra tình trạng xe hiện tại
-- Không giao xe ngoài giờ hoạt động ({{ business.hours }})
-
-<div class="cta-group" style="justify-content: center; margin-top: 2rem;">
-  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
-    Gọi kiểm tra giá
-  </a>
-  <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-    Nhắn Zalo
-  </a>
-  <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
-    Xem website chính
-  </a>
+<div class="cta-group">
+  <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Ve Bang Gia</a>
+  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Go de Dat Xe</a>
 </div>
