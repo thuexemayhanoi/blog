@@ -3,21 +3,4 @@ Allow: /
 
 Sitemap: https://thuexemayhanoi.github.io/blog/sitemap.xml
 
-# Crawl-delay: 5
-
-# Disallow crawling of specific files if needed
-# Disallow: /assets/
-# Disallow: /_includes/
-# Disallow: /_layouts/
-
-# Googlebot
-User-agent: Googlebot
-Allow: /
-
-# Bingbot
-User-agent: Bingbot
-Allow: /
-
-# Yandex
-User-agent: Yandex
-Allow: /
+# Crawl-delay: 0.5
