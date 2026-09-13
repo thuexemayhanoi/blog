@@ -1,6 +1,7 @@
 brand: "Nguyễn Tú"
 display_name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
 url: "https://thuexemaynguyentu.com/"
+logo: "/IMG_2536.jpeg"
 
 address:
   street: "112 Nguyễn Văn Cừ"
@@ -16,7 +17,7 @@ contact:
   email: "nguyentuantu8x@gmail.com"
   zalo: "https://zalo.me/0942467674"
   maps: "https://maps.app.goo.gl/rj78cAggpN5kFD6ZA"
-  
+
 hours: "09:00 - 21:00"
 
 services:
@@ -44,22 +45,27 @@ vehicle_types:
   - name: "Xe số"
     examples: ["Honda Wave", "Yamaha Sirius"]
     description: "Xe côn truyền thống, dễ điều khiển"
+    pricing_url: "/bang-gia-xe-so/"
   
   - name: "Xe tay ga"
     examples: ["Honda Vision", "Honda Air Blade", "Honda Click", "Yamaha Mio"]
     description: "Xe ga hiện đại, thoải mái"
+    pricing_url: "/bang-gia-xe-ga/"
   
   - name: "Xe 50cc"
     examples: ["Honda Cub 50cc", "Xe ga 50cc"]
     description: "Xe công suất nhỏ, phù hợp cho du khách"
+    pricing_url: "/bang-gia-xe-50cc/"
   
   - name: "Xe máy điện"
     examples: []
     description: "Xe thân thiện môi trường, không phát thải"
+    pricing_url: "/bang-gia-xe-dien/"
   
   - name: "Xe đạp điện"
     examples: []
     description: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
+    pricing_url: "/bang-gia-xe-dien/"
 
 rental_types:
   - name: "Theo ngày"
