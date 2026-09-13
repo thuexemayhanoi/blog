@@ -1,0 +1,35 @@
+<header class="site-header">
+  <div class="container">
+    <div class="header-content">
+      <a href="{{ '/' | relative_url }}" class="site-logo">
+        <span class="logo-text">{{ site.title }}</span>
+      </a>
+      
+      <nav class="main-nav">
+        <button class="mobile-menu-toggle" aria-label="Toggle menu">
+          <span class="hamburger"></span>
+        </button>
+        <ul class="nav-list">
+          <li><a href="{{ '/' | relative_url }}" class="{% if page.url == '/' %}active{% endif %}">Trang chủ</a></li>
+          <li><a href="{{ '/blog/' | relative_url }}" class="{% if page.url contains '/blog/' %}active{% endif %}">Blog</a></li>
+          <li><a href="{{ '/about/' | relative_url }}" class="{% if page.url contains '/about/' %}active{% endif %}">Giới thiệu</a></li>
+          <li><a href="{{ '/contact/' | relative_url }}" class="{% if page.url contains '/contact/' %}active{% endif %}">Liên hệ</a></li>
+          <li><a href="{{ site.business_url }}" target="_blank" rel="noopener noreferrer">Website {{ site.business_name }}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+
+<script>
+// Mobile menu toggle
+(function() {
+  const toggle = document.querySelector('.mobile-menu-toggle');
+  const nav = document.querySelector('.nav-list');
+  if (toggle && nav) {
+    toggle.addEventListener('click', function() {
+      nav.classList.toggle('active');
+    });
+  }
+})();
+</script>
