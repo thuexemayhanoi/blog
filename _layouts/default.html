@@ -5,30 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   
-  <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
-  
-  {% if page.description %}
-  <meta name="description" content="{{ page.description }}">
-  {% elsif site.description %}
-  <meta name="description" content="{{ site.description }}">
-  {% endif %}
-  
-  {% if page.url %}
-  <link rel="canonical" href="{{ page.url | absolute_url }}">
-  {% endif %}
-  
-  <!-- Open Graph -->
-  <meta property="og:site_name" content="{{ site.title }}">
-  <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% endif %}">
-  <meta property="og:url" content="{{ page.url | absolute_url }}">
-  <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-  <meta property="og:locale" content="{{ site.lang }}">
-  
-  <!-- Twitter Card -->
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.description %}{{ page.description }}{% elsif site.description %}{{ site.description }}{% endif %}">
+  {% include seo.html %}
   
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
@@ -36,74 +13,26 @@
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   
-  <!-- Preconnect -->
+  <!-- System Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  
-  <!-- Schema.org -->
-  {% if page.layout == 'post' %}
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "BlogPosting",
-    "headline": "{{ page.title }}",
-    "description": "{% if page.description %}{{ page.description }}{% endif %}",
-    "datePublished": "{{ page.date | date_to_xmlschema }}",
-    "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
-    "author": {
-      "@type": "Person",
-      "name": "{{ site.author }}"
-    },
-    "publisher": {
-      "@type": "Organization",
-      "name": "{{ site.business_display_name }}",
-      "url": "{{ site.business_url }}",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "{{ site.business_address }}"
-      },
-      "telephone": "{{ site.business_phone }}"
-    },
-    "mainEntityOfPage": {
-      "@type": "WebPage",
-      "@id": "{{ page.url | absolute_url }}"
-    }
-  }
-  </script>
-  {% endif %}
-  
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "{{ site.title }}",
-    "url": "{{ site.url }}{{ site.baseurl }}/",
-    "description": "{{ site.description }}"
-  }
-  </script>
-  
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Organization",
-    "name": "{{ site.business_display_name }}",
-    "url": "{{ site.business_url }}",
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "{{ site.business_address }}"
-    },
-    "telephone": "{{ site.business_phone }}",
-    "email": "{{ site.business_email }}"
-  }
-  </script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   {% include header.html %}
   
+  {% include quick-contact.html %}
+  
   <main>
+    {% if page.layout != 'home' and page.url != '/' %}
+      {% include breadcrumb.html %}
+    {% endif %}
     {{ content }}
   </main>
   
   {% include footer.html %}
+  
+  <!-- JavaScript -->
+  <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
 </body>
 </html>
