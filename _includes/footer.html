@@ -1,43 +1,81 @@
-<footer class="site-footer">
+<footer class="site-footer" role="contentinfo">
   <div class="container">
     <div class="footer-grid">
+      <!-- Column 1: Brand -->
       <div class="footer-col">
-        <h3>{{ site.business_display_name }}</h3>
+        <h3 class="footer-brand">{{ site.business_display_name }}</h3>
         <p>{{ site.description }}</p>
+        <div class="footer-social">
+          <a href="{{ site.business_url }}" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Website chính">
+            🌐 Website chính
+          </a>
+        </div>
       </div>
       
+      <!-- Column 2: Links -->
       <div class="footer-col">
-        <h4>Thông tin liên hệ</h4>
-        <address>
-          <p>📍 {{ site.business_address }}</p>
-          <p>📞 <a href="{{ site.business_phone_uri }}">{{ site.business_phone }}</a></p>
-          <p>✉️ <a href="mailto:{{ site.business_email }}">{{ site.business_email }}</a></p>
-          <p>🕒 {{ site.business_hours }}</p>
-        </address>
-      </div>
-      
-      <div class="footer-col">
-        <h4>Liên kết nhanh</h4>
+        <h4>LIÊN KẾT</h4>
         <ul class="footer-links">
-          <li><a href="{{ '/' | relative_url }}">Trang chủ</a></li>
-          <li><a href="{{ '/blog/' | relative_url }}">Blog</a></li>
-          <li><a href="{{ '/about/' | relative_url }}">Giới thiệu</a></li>
-          <li><a href="{{ '/contact/' | relative_url }}">Liên hệ</a></li>
+          {% assign nav = site.data.navigation.footer %}
+          {% for section in nav %}
+            {% if section.title == 'LIÊN KẾT' %}
+              {% for link in section.links %}
+                <li>
+                  <a href="{{ link.url | relative_url }}" {% if link.external %}target="_blank" rel="noopener noreferrer"{% endif %}>
+                    {{ link.name }}
+                  </a>
+                </li>
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
         </ul>
       </div>
       
+      <!-- Column 3: Blog -->
       <div class="footer-col">
-        <h4>Kết nối</h4>
+        <h4>BLOG</h4>
         <ul class="footer-links">
-          <li><a href="{{ site.business_zalo }}" target="_blank" rel="noopener noreferrer">Zalo</a></li>
-          <li><a href="{{ site.business_maps }}" target="_blank" rel="noopener noreferrer">Google Maps</a></li>
-          <li><a href="{{ site.business_url }}" target="_blank" rel="noopener noreferrer">Website chính</a></li>
+          {% for section in nav %}
+            {% if section.title == 'BLOG' %}
+              {% for link in section.links %}
+                <li>
+                  <a href="{{ link.url | relative_url }}">{{ link.name }}</a>
+                </li>
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </div>
+      
+      <!-- Column 4: Pricing -->
+      <div class="footer-col">
+        <h4>BẢNG GIÁ</h4>
+        <ul class="footer-links">
+          {% for section in nav %}
+            {% if section.title == 'BẢNG GIÁ' %}
+              {% for link in section.links %}
+                <li>
+                  <a href="{{ link.url | relative_url }}">{{ link.name }}</a>
+                </li>
+              {% endfor %}
+            {% endif %}
+          {% endfor %}
         </ul>
       </div>
     </div>
     
+    <!-- Footer Bottom -->
     <div class="footer-bottom">
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.business_display_name }}. All rights reserved.</p>
+      <div class="footer-legal">
+        {% for section in nav %}
+          {% if section.title == 'CHÍNH SÁCH' %}
+            {% for link in section.links %}
+              <a href="{{ link.url | relative_url }}">{{ link.name }}</a>
+            {% endfor %}
+          {% endif %}
+        {% endfor %}
+      </div>
+      <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.business_display_name }}. All rights reserved.</p>
     </div>
   </div>
 </footer>
