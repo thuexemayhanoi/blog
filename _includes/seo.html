@@ -1,0 +1,134 @@
+{% if page.title %}
+  {% assign title = page.title | strip %}
+{% else %}
+  {% assign title = site.title | strip %}
+{% endif %}
+
+{% if page.description %}
+  {% assign description = page.description | strip %}
+{% elsif site.description %}
+  {% assign description = site.description | strip %}
+{% else %}
+  {% assign description = '' %}
+{% endif %}
+
+{% assign business = site.data.business %}
+
+<!-- Primary Meta -->
+<title>{{ title }} - {{ site.title }}</title>
+<meta name="description" content="{{ description }}">
+
+<!-- Canonical -->
+{% if page.url %}
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+{% endif %}
+
+<!-- Mobile -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+
+<!-- Open Graph -->
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ title }} - {{ site.title }}">
+<meta property="og:description" content="{{ description }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
+<meta property="og:locale" content="{{ site.lang }}">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ title }} - {{ site.title }}">
+<meta name="twitter:description" content="{{ description }}">
+
+<!-- Robots -->
+<meta name="robots" content="index, follow">
+
+<!-- Schema.org -->
+{% if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.title }}",
+  "description": "{{ description }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ business.display_name }}",
+    "url": "{{ business.url }}",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "{{ business.address.full }}"
+    },
+    "telephone": "{{ business.contact.phone }}"
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url }}"
+  }
+}
+</script>
+{% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "{{ site.title }}",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "description": "{{ site.description }}"
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "{{ business.display_name }}",
+  "url": "{{ business.url }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ business.address.street }}",
+    "addressLocality": "{{ business.address.district }}",
+    "addressRegion": "{{ business.address.city }}",
+    "addressCountry": "{{ business.address.country }}"
+  },
+  "telephone": "{{ business.contact.phone }}",
+  "email": "{{ business.contact.email }}"
+}
+</script>
+
+{% if page.url contains '/blog/' or page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Trang chủ",
+      "item": "{{ site.url }}{{ site.baseurl }}/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Blog",
+      "item": "{{ site.url }}{{ site.baseurl }}/blog/"
+    }{% if page.categories %},{% for category in page.categories limit:1 %}
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "{{ category }}",
+      "item": "{{ site.url }}{{ site.baseurl }}/{{ category | slugify }}/"
+    }{% endfor %}{% endif %}
+  ]
+}
+</script>
+{% endif %}
