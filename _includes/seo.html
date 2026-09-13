@@ -44,12 +44,17 @@
 <!-- Hreflang for bilingual -->
 {% if is_vi %}
 <link rel="alternate" hreflang="vi" href="{{ page.url | absolute_url }}">
-<link rel="alternate" hreflang="en" href="{{ page.url | replace: '/blog/', '/blog/en/' | replace: '/', '/en/' | absolute_url }}">
+{% assign en_url = page.url | replace: '/blog/', '/blog/en/' %}
+{% unless en_url contains '/en/' %}
+  {% assign en_url = en_url | append: 'en/' %}
+{% endunless %}
+<link rel="alternate" hreflang="en" href="{{ en_url | absolute_url }}">
 <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
 {% else %}
-<link rel="alternate" hreflang="vi" href="{{ page.url | replace: '/blog/en/', '/blog/' | absolute_url }}">
 <link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
-<link rel="alternate" hreflang="x-default" href="{{ '/blog/' | absolute_url }}">
+{% assign vi_url = page.url | replace: '/blog/en/', '/blog/' | replace: '/en/', '/' %}
+<link rel="alternate" hreflang="vi" href="{{ vi_url | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
 {% endif %}
 
 <!-- Favicon -->
