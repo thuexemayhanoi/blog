@@ -3,6 +3,7 @@ layout: default
 ---
 
 {% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
 
 <article class="post-detail">
   <header class="post-header">
@@ -23,7 +24,13 @@ layout: default
         <span class="post-author">✍️ {{ page.author }}</span>
         {% endif %}
         {% if page.reading_time %}
-        <span class="reading-time">⏱️ {{ page.reading_time }} phut doc</span>
+        <span class="reading-time">⏱️ 
+          {% if current_lang == 'vi' %}
+            {{ page.reading_time }} phút đọc
+          {% else %}
+            {{ page.reading_time }} min read
+          {% endif %}
+        </span>
         {% endif %}
       </div>
     </div>
@@ -37,24 +44,50 @@ layout: default
     <div class="post-navigation">
       {% if page.previous %}
       <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
-        ← Bai truc: {{ page.previous.title }}
+        {% if current_lang == 'vi' %}
+          ← Bài trước: {{ page.previous.title }}
+        {% else %}
+          ← Previous: {{ page.previous.title }}
+        {% endif %}
       </a>
       {% endif %}
       
       {% if page.next %}
       <a href="{{ page.next.url | relative_url }}" class="nav-link next">
-        Bai sau: {{ page.next.title }} →
+        {% if current_lang == 'vi' %}
+          Bài sau: {{ page.next.title }} →
+        {% else %}
+          Next: {{ page.next.title }} →
+        {% endif %}
       </a>
       {% endif %}
     </div>
     
     <div class="post-cta glass-card">
-      <h3>Ban can thue xe may tai Ha Noi?</h3>
-      <p>Hay lien he voi <strong>{{ business.display_name }}</strong> de duoc tu van va ho tro tot nhat.</p>
+      <h3>
+        {% if current_lang == 'vi' %}
+          Bạn cần thuê xe máy tại Hà Nội?
+        {% else %}
+          Need to rent a motorcycle in Hanoi?
+        {% endif %}
+      </h3>
+      <p>
+        {% if current_lang == 'vi' %}
+          Hãy liên hệ với <strong>{{ business.display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.
+        {% else %}
+          Contact <strong>{{ business.display_name }}</strong> for the best advice and support.
+        {% endif %}
+      </p>
       <div class="cta-group">
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Go ngay</a>
+        {% if current_lang == 'vi' %}
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>
         <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
-        <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chinh</a>
+        <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
+        {% else %}
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Call now</a>
+        <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
+        <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
+        {% endif %}
       </div>
     </div>
   </div>
