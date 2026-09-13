@@ -1,63 +1,173 @@
 ---
 layout: page
-title: "Bảng giá"
-description: "Tham khảo bảng giá thuê xe máy các loại từ Nguyễn Tú"
+title: "Bang gia thue xe may Ha Noi"
+description: "Bang gia thue xe may tai Ha Noi. Gia ca minh bach, cap nhat moi nhat tu Nguyen Tu."
+lang: vi
+translation_key: pricing
 ---
 
+{% assign pricing = site.data.pricing %}
 {% assign business = site.data.business %}
 
-## Bảng giá thuê xe máy
+## Bang Gia Thue Xe May
 
-Dưới đây là thông tin về các loại xe mà chúng tôi cung cấp. Mức giá và tình trạng xe có thể thay đổi tùy theo thời điểm và loại xe cụ thể.
+Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham khao, gia thuc te can thay doi va can duoc xac nhan truc tiep voi Nguyen Tu truoc khi dat xe.
 
-## Các loại xe
+<!-- Rental Calculator -->
+{% include rental-calculator.html %}
 
-<div class="pricing-grid">
-  {% for vehicle in business.vehicle_types %}
-  <div class="pricing-card glass-card">
-    <h3>{{ vehicle.name }}</h3>
-    <p>{{ vehicle.description }}</p>
-    {% if vehicle.examples.size > 0 %}
-    <p><em>Ví dụ: {{ vehicle.examples | join: ', ' }}</em></p>
+### Bang Gia Theo Loai Xe
+
+#### Xe So (Manual Motorbike)
+
+<div class="pricing-table">
+  {% for vehicle in pricing.vehicles %}
+    {% if vehicle.category.vi == 'Xe so' %}
+    <div class="pricing-card glass-card">
+      <h3>{{ vehicle.name.vi }}</h3>
+      <p>{{ vehicle.description.vi }}</p>
+      <div class="price-grid">
+        {% if vehicle.rates.day.min %}
+        <div class="price-item">
+          <span class="price-label">Theo ngay:</span>
+          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.week.min %}
+        <div class="price-item">
+          <span class="price-label">Theo tuan:</span>
+          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.month.min %}
+        <div class="price-item">
+          <span class="price-label">Theo thang:</span>
+          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+        </div>
+        {% endif %}
+      </div>
+      <p class="note"><em>Tien dat coc: {{ vehicle.deposit.min }} - {{ vehicle.deposit.max }} VND</em></p>
+      {% if vehicle.popular %}
+      <span class="badge popular">Lua chon pho bien</span>
+      {% endif %}
+    </div>
     {% endif %}
-    <a href="{{ vehicle.pricing_url | relative_url }}" class="btn btn-outline">
-      Xem chi tiết
-    </a>
-  </div>
   {% endfor %}
 </div>
 
-## Hình thức thuê
+#### Xe Ga (Automatic Scooter)
 
-<div class="rental-grid">
-  {% for rental in business.rental_types %}
-  <div class="rental-card glass-card">
-    <h3>{{ rental.name }}</h3>
+<div class="pricing-table">
+  {% for vehicle in pricing.vehicles %}
+    {% if vehicle.category.vi == 'Xe ga' or vehicle.category.vi == 'Budget automatic scooter' %}
+    <div class="pricing-card glass-card">
+      <h3>{{ vehicle.name.vi }}</h3>
+      <p>{{ vehicle.description.vi }}</p>
+      <div class="price-grid">
+        {% if vehicle.rates.day.min %}
+        <div class="price-item">
+          <span class="price-label">Theo ngay:</span>
+          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.week.min %}
+        <div class="price-item">
+          <span class="price-label">Theo tuan:</span>
+          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.month.min %}
+        <div class="price-item">
+          <span class="price-label">Theo thang:</span>
+          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+        </div>
+        {% endif %}
+      </div>
+      <p class="note"><em>Tien dat coc: {{ vehicle.deposit.min }} - {{ vehicle.deposit.max }} VND</em></p>
+      {% if vehicle.popular %}
+      <span class="badge popular">Lua chon pho bien</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+#### Xe Dien (Electric Motorbike)
+
+<div class="pricing-table">
+  {% for vehicle in pricing.vehicles %}
+    {% if vehicle.category.vi == 'Xe may dien' %}
+    <div class="pricing-card glass-card">
+      <h3>{{ vehicle.name.vi }}</h3>
+      <p>{{ vehicle.description.vi }}</p>
+      <div class="price-grid">
+        {% if vehicle.rates.day.min %}
+        <div class="price-item">
+          <span class="price-label">Theo ngay:</span>
+          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.week.min %}
+        <div class="price-item">
+          <span class="price-label">Theo tuan:</span>
+          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+        </div>
+        {% endif %}
+        {% if vehicle.rates.month.min %}
+        <div class="price-item">
+          <span class="price-label">Theo thang:</span>
+          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+        </div>
+        {% endif %}
+      </div>
+      <p class="note"><em>Tien dat coc: {{ vehicle.deposit.min }} - {{ vehicle.deposit.max }} VND</em></p>
+      {% if vehicle.popular %}
+      <span class="badge popular">Lua chon pho bien</span>
+      {% endif %}
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+#### Xe Dap Dien (Electric Scooter)
+
+<div class="pricing-card glass-card">
+  <h3>Xe Dap Dien</h3>
+  <p>Nhe nhang, phu hop cho khoang cach ngan. Vui long lien he de biet gia hien tai.</p>
+  <p class="note"><em>{{ pricing.vehicles | where: "id", "electric-scooter" | first | property: "note.vi" | default: "Vui long lien he Nguyen Tu de kiem tra gia hien tai" }}</em></p>
+</div>
+
+### Loai Hinh Thue
+
+<div class="rental-types">
+  {% for rental in pricing.rental_types %}
+  <div class="rental-type">
+    <h4>{{ rental.name.vi }}</h4>
     <p>{{ rental.description }}</p>
   </div>
   {% endfor %}
 </div>
 
-## Lưu ý quan trọng
+### Luu Y Quan Trong
 
-<div class="feature-card glass-card" style="margin-top: 2rem;">
-  <h3>⚠️ Thông tin cần biết</h3>
-  <ul>
-    <li><strong>Giá thuê:</strong> Mức giá phụ thuộc vào loại xe, thời gian thuê và tình trạng xe hiện tại</li>
-    <li><strong>Tiền đặt cọc:</strong> Phụ thuộc vào loại xe và thời gian thuê</li>
-    <li><strong>Chi phí giao nhận:</strong> Có thể thay đổi tùy theo khu vực</li>
-    <li><strong>Xác nhận trước:</strong> Vui lòng liên hệ Nguyễn Tú để kiểm tra giá và tình trạng xe hiện tại trước khi đặt</li>
-  </ul>
-</div>
+- Tat ca gia deu la gia tham khao va co the thay doi tuy theo tinh hinh xe
+- Tien dat coc bat buoc cho tat ca cac hop dong thue
+- Phi giao nhan xe co the ap dung tuy thuoc vao vi tri
+- Vui long xac nhan gia cuoi cung va tinh trang xe truc tiep voi Nguyen Tu truoc khi dat xe
+- Thoi han thue: Toi thieu 1 ngay, toi da 365 ngay
+- Tat ca cac xe deu di kem mu bao hiem co ban
 
-<div class="cta-group" style="justify-content: center; margin-top: 2rem;">
-  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
-    Gọi kiểm tra giá
-  </a>
-  <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-    Nhắn Zalo
-  </a>
-  <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
-    Xem website chính
-  </a>
+### Huong Dan Dat Xe
+
+1. **Chon Xe**: Chon xe phu hop voi nhu cau cua ban
+2. **Kiem Tra Gia**: Su dung cong cu tinh gia hoac xem bang gia o tren
+3. **Lien He**: Goi dien, Zalo, hoac WhatsApp de xac nhan tinh trang xe
+4. **Xac Nhan Chi Tiet**: Dong y cho diem lay/tra xe va thoi gian
+5. **Dat Coc**: Bao dam hop dong thue bang tien dat coc
+6. **Nhan Xe**: Bat dau hanh trinh cua ban!
+
+<div class="cta-group">
+  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Go Ngay</a>
+  <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
+  <a href="{{ business.contact.whatsapp }}" class="btn btn-outline">WhatsApp</a>
 </div>
