@@ -6,6 +6,7 @@ description: "{{ site.description }}"
 
 {% assign business = site.data.business %}
 {% assign pricing = site.data.pricing %}
+{% assign current_lang = page.lang | default: site.lang %}
 
 <!-- Hero Section -->
 <section class="hero">
@@ -15,10 +16,17 @@ description: "{{ site.description }}"
       <p class="hero-subtitle">{{ site.description }}</p>
       
       <div class="hero-cta">
+        {% if current_lang == 'vi' %}
         <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Xem Blog</a>
-        <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-secondary">Xem Bang Gia</a>
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-outline">Go {{ business.contact.phone }}</a>
+        <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-secondary">Xem Bảng Giá</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-outline">Gọi {{ business.contact.phone }}</a>
         <a href="{{ business.contact.zalo }}" class="btn btn-outline">Zalo</a>
+        {% else %}
+        <a href="{{ '/en/blog/' | relative_url }}" class="btn btn-primary">View Blog</a>
+        <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-secondary">View Pricing</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-outline">Call {{ business.contact.phone }}</a>
+        <a href="{{ business.contact.zalo }}" class="btn btn-outline">Zalo</a>
+        {% endif %}
       </div>
     </div>
     
@@ -35,37 +43,68 @@ description: "{{ site.description }}"
 <!-- Quick Introduction -->
 <section class="section intro-section">
   <div class="container">
-    <h2>Ve {{ business.brand }}</h2>
+    {% if current_lang == 'vi' %}
+    <h2>Về {{ business.brand }}</h2>
     <p class="intro-text">
-      {{ business.display_name }} la don vi cung cap dich vu thue xe may uy tin tai Ha Noi.
+      {{ business.display_name }} là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội.
     </p>
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
-        <span class="feature-text">Xe chat luong</span>
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Xe chất lượng</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
-        <span class="feature-text">Gia ca minh bach</span>
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Giá cả minh bạch</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
-        <span class="feature-text">Giao nhan tan noi</span>
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Giao nhận tận nơi</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
-        <span class="feature-text">Gio hoat dong: {{ business.hours }}</span>
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Giờ hoạt động: {{ business.hours }}</span>
       </div>
     </div>
+    {% else %}
+    <h2>About {{ business.brand }}</h2>
+    <p class="intro-text">
+      {{ business.display_name }} is a trusted motorcycle rental service in Hanoi.
+    </p>
+    
+    <div class="intro-features">
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Quality vehicles</span>
+      </div>
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Transparent pricing</span>
+      </div>
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Delivery to your location</span>
+      </div>
+      <div class="intro-feature">
+        <span class="feature-icon">✅</span>
+        <span class="feature-text">Hours: {{ business.hours }}</span>
+      </div>
+    </div>
+    {% endif %}
   </div>
 </section>
 
 <!-- Services Section -->
 <section class="section services-section">
   <div class="container">
-    <h2>Dich vu chinh</h2>
-    <p>Chung toi cung cap da dang cac loai xe de dap ung moi nhu cau cua ban:</p>
+    {% if current_lang == 'vi' %}
+    <h2>Dịch vụ chính</h2>
+    <p>Chúng tôi cung cấp đa dạng các loại xe để đáp ứng mọi nhu cầu của bạn:</p>
+    {% else %}
+    <h2>Our Services</h2>
+    <p>We offer a variety of vehicles to meet all your needs:</p>
+    {% endif %}
     
     <div class="services-grid">
       {% for vehicle in business.vehicle_types %}
@@ -73,7 +112,13 @@ description: "{{ site.description }}"
         <h3>{{ vehicle.name }}</h3>
         <p>{{ vehicle.description }}</p>
         {% if vehicle.examples.size > 0 %}
-        <p class="examples"><em>Vi du: {{ vehicle.examples | join: ', ' }}</em></p>
+        <p class="examples"><em>
+          {% if current_lang == 'vi' %}
+            Ví dụ: {{ vehicle.examples | join: ', ' }}
+          {% else %}
+            Examples: {{ vehicle.examples | join: ', ' }}
+          {% endif %}
+        </em></p>
         {% endif %}
       </div>
       {% endfor %}
@@ -84,7 +129,11 @@ description: "{{ site.description }}"
 <!-- Latest Posts -->
 <section class="section posts-section">
   <div class="container">
-    <h2>Bai viet moi nhat</h2>
+    {% if current_lang == 'vi' %}
+    <h2>Bài viết mới nhất</h2>
+    {% else %}
+    <h2>Latest Posts</h2>
+    {% endif %}
     
     {% if site.posts.size > 0 %}
     <div class="post-grid">
@@ -96,16 +145,28 @@ description: "{{ site.description }}"
         <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
         <p class="post-date">{{ post.date | date: "%d/%m/%Y" }}</p>
         <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
-        <a href="{{ post.url | relative_url }}" class="read-more">Doc tiep</a>
+        {% if current_lang == 'vi' %}
+        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp →</a>
+        {% else %}
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        {% endif %}
       </article>
       {% endfor %}
     </div>
     
     <div class="text-center mt-4">
-      <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Xem tat ca bai viet</a>
+      {% if current_lang == 'vi' %}
+      <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Xem tất cả bài viết</a>
+      {% else %}
+      <a href="{{ '/en/blog/' | relative_url }}" class="btn btn-outline">View all posts</a>
+      {% endif %}
     </div>
     {% else %}
-    <p>Chua co bai viet nao. Hay quay lai sau!</p>
+    {% if current_lang == 'vi' %}
+    <p>Chưa có bài viết nào. Hãy quay lại sau!</p>
+    {% else %}
+    <p>No posts yet. Please check back later!</p>
+    {% endif %}
     {% endif %}
   </div>
 </section>
@@ -113,7 +174,11 @@ description: "{{ site.description }}"
 <!-- Blog Categories -->
 <section class="section categories-section bg-light">
   <div class="container">
-    <h2>Cac chu de blog</h2>
+    {% if current_lang == 'vi' %}
+    <h2>Các chủ đề blog</h2>
+    {% else %}
+    <h2>Blog Categories</h2>
+    {% endif %}
     
     <div class="categories-grid">
       {% assign nav = site.data.navigation.main %}
@@ -124,7 +189,12 @@ description: "{{ site.description }}"
             <h3>{{ child.name }}</h3>
             <p>
               {% assign category_posts = site.posts | where_exp: "post", "post.categories contains child.name" %}
-              {{ category_posts.size }} bai viet
+              {{ category_posts.size }} 
+              {% if current_lang == 'vi' %}
+                bài viết
+              {% else %}
+                posts
+              {% endif %}
             </p>
           </a>
           {% endfor %}
@@ -137,8 +207,13 @@ description: "{{ site.description }}"
 <!-- Pricing Preview -->
 <section class="section pricing-preview">
   <div class="container">
-    <h2>Bang gia</h2>
-    <p>Tham khao bang gia cac loai xe:</p>
+    {% if current_lang == 'vi' %}
+    <h2>Bảng giá</h2>
+    <p>Tham khảo bảng giá các loại xe:</p>
+    {% else %}
+    <h2>Pricing</h2>
+    <p>Check out our rental rates:</p>
+    {% endif %}
     
     <div class="pricing-grid">
       {% assign nav = site.data.navigation.main %}
@@ -147,7 +222,11 @@ description: "{{ site.description }}"
           {% for child in item.children %}
           <a href="{{ child.url | relative_url }}" class="pricing-card glass-card">
             <h3>{{ child.name }}</h3>
-            <p>Xem chi tiet</p>
+            {% if current_lang == 'vi' %}
+            <p>Xem chi tiết</p>
+            {% else %}
+            <p>View details</p>
+            {% endif %}
           </a>
           {% endfor %}
         {% endif %}
@@ -155,7 +234,11 @@ description: "{{ site.description }}"
     </div>
     
     <div class="text-center mt-4">
-      <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem toan bo bang gia</a>
+      {% if current_lang == 'vi' %}
+      <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem toàn bộ bảng giá</a>
+      {% else %}
+      <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-outline">View all pricing</a>
+      {% endif %}
     </div>
   </div>
 </section>
@@ -163,8 +246,13 @@ description: "{{ site.description }}"
 <!-- Service Areas -->
 <section class="section areas-section">
   <div class="container">
-    <h2>Khu vuc phuc vu</h2>
-    <p>Chung toi phuc vu chu yeu tai cac quan noi thanh Ha Noi:</p>
+    {% if current_lang == 'vi' %}
+    <h2>Khu vực phục vụ</h2>
+    <p>Chúng tôi phục vụ chủ yếu tại các quận nội thành Hà Nội:</p>
+    {% else %}
+    <h2>Service Areas</h2>
+    <p>We mainly serve in the central districts of Hanoi:</p>
+    {% endif %}
     
     <div class="areas-list">
       {% for area in business.areas %}
@@ -172,27 +260,55 @@ description: "{{ site.description }}"
       {% endfor %}
     </div>
     
-    <p class="note"><em>Luu y: Thoi gian va chi phi giao nhan xe co the thay doi tuy theo khu vuc. Vui long xac nhan truoc khi dat xe.</em></p>
+    {% if current_lang == 'vi' %}
+    <p class="note"><em>Lưu ý: Thời gian và chi phí giao nhận xe có thể thay đổi tùy theo khu vực. Vui lòng xác nhận trước khi đặt xe.</em></p>
+    {% else %}
+    <p class="note"><em>Note: Delivery times and fees may vary by area. Please confirm before booking.</em></p>
+    {% endif %}
   </div>
 </section>
 
 <!-- About Nguyen Tu -->
 <section class="section about-section bg-light">
   <div class="container">
-    <h2>Gioi thieu {{ business.brand }}</h2>
+    {% if current_lang == 'vi' %}
+    <h2>Giới thiệu {{ business.brand }}</h2>
+    {% else %}
+    <h2>About {{ business.brand }}</h2>
+    {% endif %}
     <div class="about-content">
       <div class="about-text">
-        <p><strong>{{ business.display_name }}</strong> la don vi cung cap dich vu thue xe may uy tin tai Ha Noi. Voi su tan tam va chuyen nghiep, chung toi luon dat loi ich cua khach hang len hang dau.</p>
-        <p>Chung toi cam ket:</p>
+        <p><strong>{{ business.display_name }}</strong>
+          {% if current_lang == 'vi' %}
+            là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.
+          {% else %}
+            is a trusted motorcycle rental service in Hanoi. With dedication and professionalism, we always prioritize customer benefits.
+          {% endif %}
+        </p>
+        {% if current_lang == 'vi' %}
+        <p>Chúng tôi cam kết:</p>
+        {% else %}
+        <p>We commit to:</p>
+        {% endif %}
         <ul class="commitments">
-          <li>Cung cap xe chat luong, duoc bao duong dinh ky</li>
-          <li>Gia ca minh bach, khong phat sinh phi an</li>
-          <li>Giao xe tan noi theo yeu cau</li>
+          {% if current_lang == 'vi' %}
+          <li>Cung cấp xe chất lượng, được bảo dưỡng định kỳ</li>
+          <li>Giá cả minh bạch, không phát sinh phí ẩn</li>
+          <li>Giao xe tận nơi theo yêu cầu</li>
+          {% else %}
+          <li>Provide quality vehicles with regular maintenance</li>
+          <li>Transparent pricing with no hidden fees</li>
+          <li>Deliver vehicles to your location upon request</li>
+          {% endif %}
         </ul>
       </div>
       
       <div class="about-contact">
-        <h3>Thong tin lien he</h3>
+        {% if current_lang == 'vi' %}
+        <h3>Thông tin liên hệ</h3>
+        {% else %}
+        <h3>Contact Information</h3>
+        {% endif %}
         <address>
           <p>📍 {{ business.address.full }}</p>
           <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
@@ -207,12 +323,22 @@ description: "{{ site.description }}"
 <!-- Final CTA -->
 <section class="section cta-section">
   <div class="container text-center">
-    <h2>Ban can thue xe may tai Ha Noi?</h2>
-    <p>Hay lien he voi {{ business.brand }} de duoc tu van va ho tro tot nhat.</p>
+    {% if current_lang == 'vi' %}
+    <h2>Bạn cần thuê xe máy tại Hà Nội?</h2>
+    <p>Hãy liên hệ với {{ business.brand }} để được tư vấn và hỗ trợ tốt nhất.</p>
     <div class="cta-group">
-      <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Go ngay {{ business.contact.phone }}</a>
+      <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay {{ business.contact.phone }}</a>
       <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
-      <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chinh</a>
+      <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
     </div>
+    {% else %}
+    <h2>Need to rent a motorcycle in Hanoi?</h2>
+    <p>Contact {{ business.brand }} for the best advice and support.</p>
+    <div class="cta-group">
+      <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Call now {{ business.contact.phone }}</a>
+      <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
+      <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
+    </div>
+    {% endif %}
   </div>
 </section>
