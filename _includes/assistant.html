@@ -1,0 +1,83 @@
+{% assign assistant = site.data.assistant %}
+{% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
+
+<!-- Assistant Toggle Button -->
+<button class="assistant-toggle" id="assistant-toggle" aria-label="{% if current_lang == 'vi' %}Mở trợ lý{% else %}Open assistant{% endif %}">
+  <span class="assistant-icon">🤖</span>
+  <span class="assistant-badge">1</span>
+</button>
+
+<!-- Assistant Panel -->
+<div class="assistant-panel glass-card" id="assistant-panel" role="dialog" aria-modal="true" aria-labelledby="assistant-title">
+  <div class="assistant-header">
+    <h3 id="assistant-title">
+      {% if current_lang == 'vi' %}
+        {{ assistant.assistant.name.vi }}
+      {% else %}
+        {{ assistant.assistant.name.en }}
+      {% endif %}
+    </h3>
+    <button class="assistant-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% endif %}">
+      ×
+    </button>
+  </div>
+  
+  <div class="assistant-body">
+    <div class="assistant-messages" id="assistant-messages">
+      <div class="assistant-message welcome">
+        <p>
+          {% if current_lang == 'vi' %}
+            {{ assistant.assistant.greeting.vi }}
+          {% else %}
+            {{ assistant.assistant.greeting.en }}
+          {% endif %}
+        </p>
+      </div>
+    </div>
+    
+    <div class="assistant-quick-questions">
+      <p class="quick-title">
+        {% if current_lang == 'vi' %}
+          Câu hỏi nhanh:
+        {% else %}
+          Quick questions:
+        {% endif %}
+      </p>
+      <div class="quick-buttons">
+        {% for q in assistant.quick_questions %}
+        <button 
+          class="quick-btn" 
+          data-question-id="{{ q.id }}"
+          data-lang="{{ current_lang }}"
+        >
+          {{ q.question[current_lang] }}
+        </button>
+        {% endfor %}
+      </div>
+    </div>
+    
+    <div class="assistant-input">
+      <input 
+        type="text" 
+        class="assistant-input-field" 
+        id="assistant-input"
+        placeholder="{% if current_lang == 'vi' %}{{ assistant.assistant.placeholder.vi }}{% else %}{{ assistant.assistant.placeholder.en }}{% endif %}"
+        aria-label="{% if current_lang == 'vi' %}Nhập câu hỏi{% else %}Type your question{% endif %}"
+      >
+      <button class="assistant-send" aria-label="{% if current_lang == 'vi' %}Gửi{% else %}Send{% endif %}">
+        →
+      </button>
+    </div>
+  </div>
+  
+  <div class="assistant-footer">
+    <p class="assistant-disclosure">
+      {% if current_lang == 'vi' %}
+        {{ assistant.assistant.description.vi }}
+      {% else %}
+        {{ assistant.assistant.description.en }}
+      {% endif %}
+    </p>
+  </div>
+</div>
