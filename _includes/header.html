@@ -77,11 +77,11 @@
         {% for item in nav %}
           {% if item.children %}
           <li class="has-submenu">
-            <button class="submenu-toggle" aria-expanded="false">
+            <button class="submenu-toggle" aria-expanded="false" {% if item.id == 'pricing' %}id="pricing-toggle"{% endif %}>
               <span>{{ item.name }}</span>
               <span class="submenu-arrow">▶</span>
             </button>
-            <ul class="submenu">
+            <ul class="submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %}>
               {% for child in item.children %}
               <li>
                 <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
