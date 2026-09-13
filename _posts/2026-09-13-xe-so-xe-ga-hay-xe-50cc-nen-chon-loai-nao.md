@@ -5,6 +5,8 @@ date: 2026-09-13 14:00:00 +0700
 author: "Nguyễn Tú"
 description: "So sánh ưu nhược điểm của xe số, xe ga và xe 50cc để giúp bạn lựa chọn phù hợp nhất"
 categories: [Chia sẻ]
+translation_key: xe-so-xe-ga-hay-xe-50cc
+lang: vi
 tags: [xe số, xe ga, xe 50cc, so sánh, lựa chọn]
 reading_time: 10
 ---
@@ -31,7 +33,7 @@ Xe số (xe côn) là loại xe phổ biến nhất tại Việt Nam, đặc bi�
 
 **1. Dễ dàng sửa chữa**
 
-Xe số có cấu tạo cơ khí đơn giản hơn xe ga, do đó việc sửa chữa và bảo dưỡng cũng dễ dàng hơn. Tại **{{ site.business_display_name }}**, chúng tôi có sẵn các phụ tùng thay thế cho hầu hết các loại xe số phổ biến.
+Xe số có cấu tạo cơ khí đơn giản hơn xe ga, do đó việc sửa chữa và bảo dưỡng cũng dễ dàng hơn. Tại **{{ site.data.business.display_name }}**, chúng tôi có sẵn các phụ tùng thay thế cho hầu hết các loại xe số phổ biến.
 
 **2. Tiết kiệm nhiên liệu**
 
@@ -218,7 +220,7 @@ Xe 50cc và xe số có giá thuê tương đương, trong khi xe ga có giá ca
 
 ## Kinh nghiệm từ chuyên gia tại Nguyễn Tú
 
-Dựa trên kinh nghiệm phục vụ hàng nghìn khách hàng, **{{ site.business_display_name }}** gợi ý:
+Dựa trên kinh nghiệm phục vụ hàng nghìn khách hàng, **{{ site.data.business.display_name }}** gợi ý:
 
 ### 1. Nếu bạn là du khách nước ngoài
 
@@ -298,22 +300,22 @@ Dựa trên kinh nghiệm phục vụ hàng nghìn khách hàng, **{{ site.busin
 
 ### 5. Tôi có thể thử tất cả các loại xe trước khi quyết định không?
 
-**Trả lời:** Tùy vào chính sách của đơn vị cho thuê. Tại **{{ site.business_display_name }}**, chúng tôi sẵn sàng tư vấn và giúp bạn lựa chọn loại xe phù hợp nhất dựa trên nhu cầu của bạn.
+**Trả lời:** Tùy vào chính sách của đơn vị cho thuê. Tại **{{ site.data.business.display_name }}**, chúng tôi sẵn sàng tư vấn và giúp bạn lựa chọn loại xe phù hợp nhất dựa trên nhu cầu của bạn.
 
 ## Kết luận
 
 Việc lựa chọn loại xe phù hợp phụ thuộc vào nhiều yếu tố: kinh nghiệm lái xe, mục đích sử dụng, ngân sách, và sở thích cá nhân. Hy vọng bài viết này đã giúp bạn có cái nhìn tổng quan về ưu nhược điểm của từng loại xe.
 
 **Lời khuyên cuối cùng:**
-- Nếu bạn không chắc chắn, hãy liên hệ với **{{ site.business_display_name }}** để được tư vấn trực tiếp
+- Nếu bạn không chắc chắn, hãy liên hệ với **{{ site.data.business.display_name }}** để được tư vấn trực tiếp
 - Luôn kiểm tra xe kỹ lưỡng trước khi nhận
 - Chọn loại xe phù hợp với khả năng và nhu cầu của bạn
 
 Nếu bạn có bất kỳ câu hỏi nào, hãy liên hệ:
 
-- 📞 Điện thoại: [{{ site.business_phone }}]({{ site.business_phone_uri }})
-- 💬 Zalo: [Nhắn tin]({{ site.business_zalo }})
-- ✉️ Email: [{{ site.business_email }}](mailto:{{ site.business_email }})
-- 🌐 Website: [{{ site.business_url }}]({{ site.business_url }})
+- 📞 Điện thoại: [{{ site.data.business.contact.phone }}]({{ site.data.business.contact.phone_uri }})
+- 💬 Zalo: [Nhắn tin]({{ site.data.business.contact.zalo }})
+- ✉️ Email: [{{ site.data.business.contact.email }}](mailto:{{ site.data.business.contact.email }})
+- 🌐 Website: [{{ site.data.business.url }}]({{ site.data.business.url }})
 
 Chúc bạn lựa chọn được loại xe phù hợp và có chuyến đi an toàn!
