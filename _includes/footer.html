@@ -1,62 +1,92 @@
+{% assign business = site.data.business %}
+{% assign nav = site.data.navigation %}
+
 <footer class="site-footer" role="contentinfo">
   <div class="container">
     <div class="footer-grid">
-      <!-- Column 1: Brand -->
+      <!-- Brand Column -->
       <div class="footer-col">
-        <h3 class="footer-brand">{{ site.business_display_name }}</h3>
-        <p>{{ site.description }}</p>
-        <div class="footer-social">
-          <a href="{{ site.business_url }}" target="_blank" rel="noopener noreferrer" class="social-link" aria-label="Website chính">
-            🌐 Website chính
+        <a href="{{ '/' | relative_url }}" class="footer-logo" aria-label="{{ business.display_name }} - Trang chu">
+          <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="48" height="48" class="footer-logo-img">
+          <span class="footer-brand-name">{{ business.display_name }}</span>
+        </a>
+        <p class="footer-tagline">{{ site.description }}</p>
+        
+        <div class="business-info">
+          <div class="info-item">
+            <span class="info-label">📍 Dia chi:</span>
+            <span class="info-value">{{ business.address.full }}</span>
+          </div>
+          <div class="info-item">
+            <span class="info-label">📞 Dien thoai:</span>
+            <a href="{{ business.contact.phone_uri }}" class="info-value">{{ business.contact.phone }}</a>
+          </div>
+          <div class="info-item">
+            <span class="info-label">✉️ Email:</span>
+            <a href="mailto:{{ business.contact.email }}" class="info-value">{{ business.contact.email }}</a>
+          </div>
+          <div class="info-item">
+            <span class="info-label">🕒 Gio hoat dong:</span>
+            <span class="info-value">{{ business.hours }}</span>
+          </div>
+        </div>
+        
+        <div class="social-links" style="margin-top: 1rem;">
+          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            💬 Zalo
+          </a>
+          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            📍 Google Maps
+          </a>
+          <a href="{{ business.url }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            🌐 Website chinh
           </a>
         </div>
       </div>
       
-      <!-- Column 2: Links -->
+      <!-- Main Navigation Links -->
       <div class="footer-col">
-        <h4>LIÊN KẾT</h4>
+        <h4>Lien ket</h4>
         <ul class="footer-links">
-          {% assign nav = site.data.navigation.footer %}
-          {% for section in nav %}
-            {% if section.title == 'LIÊN KẾT' %}
-              {% for link in section.links %}
-                <li>
-                  <a href="{{ link.url | relative_url }}" {% if link.external %}target="_blank" rel="noopener noreferrer"{% endif %}>
-                    {{ link.name }}
-                  </a>
-                </li>
+          {% for item in nav.main %}
+            {% if item.children == blank %}
+          <li>
+            <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+          </li>
+            {% endif %}
+          {% endfor %}
+          <li>
+            <a href="{{ business.url }}" target="_blank" rel="noopener noreferrer">Website chinh</a>
+          </li>
+        </ul>
+      </div>
+      
+      <!-- Blog Categories -->
+      <div class="footer-col">
+        <h4>Blog</h4>
+        <ul class="footer-links">
+          {% for item in nav.main %}
+            {% if item.name == 'Blog' %}
+              {% for child in item.children %}
+          <li>
+            <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
+          </li>
               {% endfor %}
             {% endif %}
           {% endfor %}
         </ul>
       </div>
       
-      <!-- Column 3: Blog -->
+      <!-- Pricing Links -->
       <div class="footer-col">
-        <h4>BLOG</h4>
+        <h4>Bang gia</h4>
         <ul class="footer-links">
-          {% for section in nav %}
-            {% if section.title == 'BLOG' %}
-              {% for link in section.links %}
-                <li>
-                  <a href="{{ link.url | relative_url }}">{{ link.name }}</a>
-                </li>
-              {% endfor %}
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </div>
-      
-      <!-- Column 4: Pricing -->
-      <div class="footer-col">
-        <h4>BẢNG GIÁ</h4>
-        <ul class="footer-links">
-          {% for section in nav %}
-            {% if section.title == 'BẢNG GIÁ' %}
-              {% for link in section.links %}
-                <li>
-                  <a href="{{ link.url | relative_url }}">{{ link.name }}</a>
-                </li>
+          {% for item in nav.main %}
+            {% if item.name == 'Bang gia' %}
+              {% for child in item.children %}
+          <li>
+            <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
+          </li>
               {% endfor %}
             {% endif %}
           {% endfor %}
@@ -67,15 +97,16 @@
     <!-- Footer Bottom -->
     <div class="footer-bottom">
       <div class="footer-legal">
-        {% for section in nav %}
-          {% if section.title == 'CHÍNH SÁCH' %}
-            {% for link in section.links %}
-              <a href="{{ link.url | relative_url }}">{{ link.name }}</a>
-            {% endfor %}
-          {% endif %}
-        {% endfor %}
+        <ul class="footer-legal-links">
+          <li>
+            <a href="{{ '/bao-mat/' | relative_url }}">Chinh sach bao mat</a>
+          </li>
+          <li>
+            <a href="{{ '/dieu-khoan/' | relative_url }}">Dieu khoan su dung</a>
+          </li>
+        </ul>
       </div>
-      <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ site.business_display_name }}. All rights reserved.</p>
+      <p class="copyright">&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}. All rights reserved.</p>
     </div>
   </div>
 </footer>
