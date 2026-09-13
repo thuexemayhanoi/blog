@@ -1,32 +1,35 @@
 {% assign business = site.data.business %}
-{% assign categories = site.data.categories %}
+{% assign nav = site.data.navigation.main %}
 
-<nav class="breadcrumb" aria-label="Đường dẫn">
+<nav class="breadcrumb" aria-label="Breadcrumbs">
   <ol>
     <li>
-      <a href="{{ '/' | relative_url }}" aria-label="Trang chủ">Trang chủ</a>
+      <a href="{{ '/' | relative_url }}" aria-label="Trang chu">
+        <span class="breadcrumb-icon">🏠</span>
+        <span>Trang chu</span>
+      </a>
     </li>
-    {% if page.url contains '/blog/' or page.layout == 'post' %}
-    <li>
-      <a href="{{ '/blog/' | relative_url }}" aria-label="Blog">Blog</a>
-    </li>
-    {% endif %}
-    {% if page.categories %}
-      {% for category in page.categories limit:1 %}
-        {% assign category_data = categories | where: "name", category | first %}
-        {% if category_data %}
-      <li>
-        <a href="{{ category_data.url | relative_url }}" aria-label="{{ category }}">{{ category }}</a>
-      </li>
-        {% else %}
-      <li>
-        <span>{{ category }}</span>
-      </li>
+    
+    {% if page.layout == 'post' %}
+      {% assign category = page.categories | first %}
+      {% for item in nav %}
+        {% if item.children %}
+          {% for child in item.children %}
+            {% if child.name == category %}
+            <li>
+              <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
+            </li>
+            {% endif %}
+          {% endfor %}
         {% endif %}
       {% endfor %}
-    {% endif %}
-    {% if page.title %}
-    <li aria-current="page">{{ page.title | split: ' - ' | first }}</li>
+    {% elsif page.layout == 'category' %}
+      <li aria-current="page">{{ page.category | default: page.title }}</li>
+    {% else %}
+      {% assign page_title = page.title | split: ' - ' | first %}
+      {% if page_title != 'Trang chu' and page_title != 'Home' %}
+      <li aria-current="page">{{ page_title }}</li>
+      {% endif %}
     {% endif %}
   </ol>
 </nav>
