@@ -1,68 +1,67 @@
 ---
 layout: page
-title: "Chính sách bảo mật"
-description: "Chính sách bảo mật thông tin cá nhân và dữ liệu người dùng"
+title: "Chinh sach bao mat - Thue Xe May Ha Noi Nguyen Tu"
+description: "Chinh sach bao mat ve thong tin ca nhan va dich vu thue xe may tai Ha Noi."
+lang: vi
+translation_key: privacy
 ---
 
-## Chính sách bảo mật
+{% assign business = site.data.business %}
 
-Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Chính sách này giải thích cách thức chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân.
+## Chinh Sach Bao Mat
 
-### Website tĩnh
+Cap nhat lan cuoi: Thang 9/2026
 
-Website này là một trang web tĩnh được host trên GitHub Pages. Chúng tôi không thu thập bất kỳ dữ liệu cá nhân nào thông qua các biểu mẫu hoặc hệ thống theo dõi trực tiếp trên website này.
+Cam on ban da chon Nguyen Tu Motorcycle Rental. Chung toi cam ket bao ve thong tin ca nhan cua ban va quyen rieng tu cua ban.
 
-### Thông tin được thu thập
+### Thong Tin Chung Toi Thu Thap
 
-Khi bạn truy cập và sử dụng website này:
+Chung toi co the thu thap nhung thong tin sau day khi ban su dung dich vu cua chung toi:
 
-- **Thông tin tự cung cấp:** Nếu bạn liên hệ với chúng tôi thông qua điện thoại, Zalo, email hoặc các kênh khác, thông tin bạn cung cấp sẽ được sử dụng để liên lạc và hỗ trợ bạn.
+- **Thong tin ca nhan:** Ten, so dien thoai, dia chi email va cac thong tin lien lac khac ma ban cung cap khi dat xe
+- **Thong tin ve viec thue xe:** Ngay thue, loai xe, dia diem lay/tra xe
+- **Thong tin thanh toan:** Chung toi khong luu tru thong tin the tin dung cua ban; viec thanh toan duoc xu ly truc tiep giua ban va nha cung cap dich vu thanh toan
+- **Du lieu truc tuyen:** Ban ghi cua cac cuoc tro chuyen tren dien thoai, Zalo, WhatsApp hoac email
 
-- **Thông tin từ dịch vụ bên thứ ba:** Khi bạn nhấp vào các liên kết đến Zalo, Google Maps, website chính hoặc các dịch vụ bên ngoài khác, bạn sẽ rời khỏi website này và chịu sự điều chỉnh của chính sách bảo mật của các dịch vụ đó.
+### Cach Chung Toi Su Dung Thong Tin Cua Ban
 
-### Sử dụng thông tin
+Chung toi su dung thong tin chung toi thu thap hoac nhan duoc de:
 
-Thông tin cá nhân bạn cung cấp sẽ chỉ được sử dụng cho các mục đích:
+- Cung cap, bao tri va cai thien dich vu thue xe cua chung toi
+- Xu ly cac dat xe cua ban va quan ly tai khoan cua ban
+- Lien lac voi ban ve viec dat xe va cung cap ho tro khach hang
+- Gui cho ban nhung thong tin quan trong ve viec thue xe va dich vu cua chung toi
+- Tra loi cac cau hoi va yeu cau cua ban
 
-- Liên lạc và hỗ trợ khách hàng
-- Cung cấp dịch vụ thuê xe
-- Phản hồi các yêu cầu và thắc mắc
+### Cach Chung Toi Chia Se Thong Tin Cua Ban
 
-### Chia sẻ thông tin
+Chung toi khong ban hoac trao doi thong tin ca nhan cua ban. Chung toi co the chia se thong tin cua ban:
 
-Chúng tôi không chia sẻ, bán hoặc cho thuê thông tin cá nhân của bạn cho bất kỳ bên thứ ba nào, trừ khi:
+- Voi su chap thuan cua ban
+- De tuan thuc cac nghia vu phap ly
+- De bao ve an toan va quyen loi cua cong ty, khach hang hoac cac ben khac
 
-- Có sự đồng ý của bạn
-- Được yêu cầu bởi pháp luật
+### Bao Mat Du Lieu
 
-### Cookie
+Chung toi thuc hien cac bien phap ky thuat va to chuc thich hop de bao ve thong tin ca nhan cua ban khoi viec truy cap, thay doi, tiet lo hoac pha huy khong duoc uy nhiem.
 
-Website hiện tại không sử dụng cookie để theo dõi người dùng. Nếu sau này chúng tôi thêm chức năng phân tích hoặc cookie, chính sách này sẽ được cập nhật.
+### Quyen Cua Ban
 
-### Liên kết bên ngoài
+Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day ve thong tin ca nhan cua minh:
 
-Website có thể chứa các liên kết đến các website bên ngoài. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc hoạt động của các website đó.
+- Quyen truy cap va nhan ban sao thong tin ca nhan cua minh
+- Quyen yeu cau hieu chinh thong tin khong chinh xac
+- Quyen yeu cau xoa thong tin ca nhan cua minh
+- Quyen han che hoac phan doi viec xu ly thong tin cua ban
 
-### Bảo mật dữ liệu
+### Lien He Voi Chung Toi
 
-Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin cá nhân khỏi truy cập trái phép, thất lạc, sử dụng sai mục đích hoặc tiết lộ.
+Neu ban co bat ky cau hoi hoac thac mac nao ve chinh sach bao mat nay hoac cac thuc hanh xu ly du lieu cua chung toi, vui long lien he:
 
-### Quyền của bạn
+- 📞 **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- 💬 **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- ✉️ **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
-Bạn có quyền:
+### Thay Doi Chinh Sach
 
-- Yêu cầu xem, sửa hoặc xóa thông tin cá nhân của mình
-- Từ chối cung cấp thông tin cá nhân (nhưng điều này có thể ảnh hưởng đến khả năng cung cấp dịch vụ)
-
-### Thay đổi chính sách
-
-Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Bất kỳ thay đổi nào cũng sẽ được đăng tải trên trang này.
-
-### Liên hệ
-
-Nếu bạn có câu hỏi về chính sách bảo mật, vui lòng liên hệ:
-
-- **Điện thoại:** [0942 467 674](tel:+84942467674)
-- **Email:** [nguyentuantu8x@gmail.com](mailto:nguyentuantu8x@gmail.com)
-
-Cập nhật lần cuối: {{ site.time | date: '%d/%m/%Y' }}
+Chung toi co the cap nhat chinh sach bao mat nay tu thoi gian den thoi gian. Chung toi se thong bao cho ban ve bat ky thay doi nao bang cach dang chinh sach bao mat moi tren trang nay.
