@@ -1,229 +1,133 @@
 {% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign is_vi = current_lang == 'vi' %}
 
-{% if page.title %}
-  {% assign title = page.title | strip %}
-{% else %}
-  {% assign title = site.title | strip %}
+<!-- Primary Meta Tags -->
+<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+
+{% if page.meta_title %}
+<meta name="title" content="{{ page.meta_title }}">
 {% endif %}
 
-{% if page.seo_title %}
-  {% assign seo_title = page.seo_title | strip %}
+<meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+
+{% if page.canonical_url %}
+<link rel="canonical" href="{{ page.canonical_url }}">
 {% else %}
-  {% assign seo_title = title %}
-{% endif %}
-
-{% if page.description %}
-  {% assign description = page.description | strip %}
-{% elsif site.description %}
-  {% assign description = site.description | strip %}
-{% else %}
-  {% assign description = '' %}
-{% endif %}
-
-<!-- Primary Meta -->
-<title>{{ seo_title }} | {{ site.title }}</title>
-<meta name="description" content="{{ description }}">
-
-<!-- Canonical -->
-{% if page.url %}
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% endif %}
 
-<!-- Mobile -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="HandheldFriendly" content="True">
-<meta name="MobileOptimized" content="320">
-
-<!-- Open Graph -->
-<meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ seo_title }} | {{ site.title }}">
-<meta property="og:description" content="{{ description }}">
-<meta property="og:url" content="{{ page.url | absolute_url }}">
+<!-- Open Graph / Facebook -->
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
-<meta property="og:locale" content="{{ site.lang }}">
-{% if page.layout == 'post' %}
-<meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+<meta property="og:site_name" content="{{ site.title }}">
+
+<!-- Logo for OG -->
+{% if business.logo %}
+<meta property="og:image" content="{{ business.logo | absolute_url }}">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+<meta property="og:image:type" content="image/jpeg">
 {% endif %}
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ seo_title }} | {{ site.title }}">
-<meta name="twitter:description" content="{{ description }}">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+
+{% if business.logo %}
+<meta name="twitter:image" content="{{ business.logo | absolute_url }}">
+{% endif %}
+
+<!-- Hreflang for bilingual -->
+{% if is_vi %}
+<link rel="alternate" hreflang="vi" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ page.url | replace: '/blog/', '/blog/en/' | replace: '/', '/en/' | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
+{% else %}
+<link rel="alternate" hreflang="vi" href="{{ page.url | replace: '/blog/en/', '/blog/' | absolute_url }}">
+<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
+<link rel="alternate" hreflang="x-default" href="{{ '/blog/' | absolute_url }}">
+{% endif %}
 
 <!-- Favicon -->
+{% if business.logo %}
 <link rel="icon" type="image/jpeg" href="{{ business.logo | relative_url }}">
+{% else %}
+<link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+{% endif %}
+
+<!-- Apple Touch Icon -->
+{% if business.logo %}
 <link rel="apple-touch-icon" href="{{ business.logo | relative_url }}">
-
-<!-- Open Graph Image -->
-<meta property="og:image" content="{{ business.logo | absolute_url }}">
-<meta property="og:image:alt" content="{{ business.display_name }}">
-<meta property="og:image:width" content="512">
-<meta property="og:image:height" content="512">
-
-<!-- Twitter Image -->
-<meta name="twitter:image" content="{{ business.logo | absolute_url }}">
-<meta name="twitter:image:alt" content="{{ business.display_name }}">
-
-<!-- Robots -->
-<meta name="robots" content="{% if page.noindex %}noindex, nofollow{% else %}index, follow{% endif %}">
-
-<!-- Schema.org -->
-{% if page.layout == 'post' %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BlogPosting",
-  "headline": "{{ page.title | escape }}",
-  "description": "{{ description | escape }}",
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ site.author | escape }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ business.display_name | escape }}",
-    "url": "{{ business.url | escape }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ business.logo | absolute_url }}",
-      "width": 512,
-      "height": 512
-    },
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "{{ business.address.full | escape }}",
-      "addressLocality": "{{ business.address.district | escape }}",
-      "addressRegion": "{{ business.address.city | escape }}",
-      "addressCountry": "{{ business.address.country | escape }}"
-    },
-    "telephone": "{{ business.contact.phone | escape }}",
-    "email": "{{ business.contact.email | escape }}"
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url | escape }}"
-  }
-}
-</script>
 {% endif %}
 
+<!-- Schema.org Markup -->
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "{{ site.title | escape }}",
-  "url": "{{ site.url }}{{ site.baseurl }}/",
-  "description": "{{ site.description | escape }}",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "{{ site.url }}{{ site.baseurl }}/blog/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
-  }
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "{{ business.display_name | escape }}",
-  "url": "{{ business.url | escape }}",
-  "logo": "{{ business.logo | absolute_url }}",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "{{ business.address.street | escape }}",
-    "addressLocality": "{{ business.address.district | escape }}",
-    "addressRegion": "{{ business.address.city | escape }}",
-    "addressCountry": "{{ business.address.country | escape }}"
-  },
-  "telephone": "{{ business.contact.phone | escape }}",
-  "email": "{{ business.contact.email | escape }}",
-  "sameAs": [
-    "{{ business.contact.zalo | escape }}",
-    "{{ business.url | escape }}"
-  ]
-}
-</script>
-
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "LocalBusiness",
-  "name": "{{ business.display_name | escape }}",
-  "url": "{{ business.url | escape }}",
-  "logo": "{{ business.logo | absolute_url }}",
-  "address": {
-    "@type": "PostalAddress",
-    "streetAddress": "{{ business.address.full | escape }}"
-  },
-  "telephone": "{{ business.contact.phone | escape }}",
-  "email": "{{ business.contact.email | escape }}",
-  "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-21:00",
-  "geo": {
-    "@type": "GeoCoordinates",
-    "latitude": "21.0307",
-    "longitude": "105.8508"
-  }
-}
-</script>
-
-{% if page.url contains '/blog/' or page.layout == 'post' %}
-{% assign categories = site.data.categories %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "BreadcrumbList",
-  "itemListElement": [
+  "@graph": [
     {
-      "@type": "ListItem",
-      "position": 1,
-      "name": "Trang chủ",
-      "item": "{{ site.url }}{{ site.baseurl }}/"
+      "@type": "Organization",
+      "@id": "{{ site.url | absolute_url }}#organization",
+      "name": "{{ business.display_name | default: site.title }}",
+      "description": "{{ site.description }}",
+      {% if business.logo %}
+      "logo": "{{ business.logo | absolute_url }}",
+      {% endif %}
+      "url": "{{ site.url | absolute_url }}",
+      "telephone": "{{ business.contact.phone | default: '' }}",
+      "email": "{{ business.contact.email | default: site.email }}"
     },
     {
-      "@type": "ListItem",
-      "position": 2,
-      "name": "Blog",
-      "item": "{{ site.url }}{{ site.baseurl }}/blog/"
-    }{% if page.categories %},{% for category in page.categories limit:1 %}{% assign category_data = categories | where: "name", category | first %}{% if category_data %}
+      "@type": "LocalBusiness",
+      "@id": "{{ site.url | absolute_url }}#localbusiness",
+      "name": "{{ business.display_name | default: site.title }}",
+      "description": "{{ site.description }}",
+      {% if business.logo %}
+      "image": "{{ business.logo | absolute_url }}",
+      {% endif %}
+      "url": "{{ site.url | absolute_url }}",
+      "telephone": "{{ business.contact.phone | default: '' }}",
+      "email": "{{ business.contact.email | default: site.email }}",
+      "priceRange": "{{ page.price_range | default: '150000-200000 VND' }}",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "{{ business.address.street | default: '' }}",
+        "addressLocality": "{{ business.address.city | default: 'Ha Noi' }}",
+        "addressRegion": "{{ business.address.region | default: 'Ha Noi' }}",
+        "addressCountry": "{{ business.address.country | default: 'Viet Nam' }}"
+      },
+      "openingHours": "{{ business.hours | default: 'Mo-Su 09:00-21:00' }}"
+    },
     {
-      "@type": "ListItem",
-      "position": 3,
-      "name": "{{ category | escape }}",
-      "item": "{{ site.url }}{{ site.baseurl }}{{ category_data.url }}"
-    }{% endif %}{% endfor %}{% endif %}
-  ]
-}
-</script>
-{% endif %}
-
-{% if page.layout == 'post' %}
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Article",
-  "headline": "{{ page.title | escape }}",
-  "description": "{{ description | escape }}",
-  "datePublished": "{{ page.date | date_to_xmlschema }}",
-  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
-  "author": {
-    "@type": "Person",
-    "name": "{{ site.author | escape }}"
-  },
-  "publisher": {
-    "@type": "Organization",
-    "name": "{{ business.display_name | escape }}",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "{{ business.logo | absolute_url }}"
+      "@type": "WebSite",
+      "@id": "{{ site.url | absolute_url }}#website",
+      "url": "{{ site.url | absolute_url }}",
+      "name": "{{ site.title }}",
+      "description": "{{ site.description }}"
     }
-  },
-  "mainEntityOfPage": {
-    "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url | escape }}"
-  }
+    {% if page.layout == 'post' %}
+    ,
+    {
+      "@type": "BlogPosting",
+      "@id": "{{ page.url | absolute_url }}#blogposting",
+      "headline": "{{ page.title }}",
+      "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 }}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+      "author": {
+        "@type": "Person",
+        "name": "{{ page.author | default: site.author }}"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "@id": "{{ site.url | absolute_url }}#organization"
+      }
+    }
+    {% endif %}
+  ]
 }
 </script>
-{% endif %}
