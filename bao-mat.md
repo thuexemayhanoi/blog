@@ -1,77 +1,68 @@
 ---
 layout: page
-title: "Chính sách bảo mật - Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Chính sách bảo mật thông tin cá nhân của Nguyễn Tú"
-permalink: /bao-mat/
+title: "Chính sách bảo mật"
+description: "Chính sách bảo mật thông tin cá nhân và dữ liệu người dùng"
 ---
 
-{% assign business = site.data.business %}
+## Chính sách bảo mật
 
-<section class="section">
-  <div class="container">
-    <h1>{{ page.title | split: ' - ' | first }}</h1>
-    <p class="page-description">{{ page.description }}</p>
-    
-    <div class="policy-content">
-      <p><strong>{{ business.display_name }}</strong> tôn trọng quyền riêng tư của bạn và cam kết bảo vệ thông tin cá nhân của bạn. Chính sách bảo mật này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin của bạn.</p>
-      
-      <h2>Thông tin chúng tôi thu thập</h2>
-      <p>Chúng tôi có thể thu thập các thông tin sau khi bạn liên hệ hoặc sử dụng dịch vụ:</p>
-      <ul>
-        <li><strong>Thông tin cá nhân:</strong> Tên, số điện thoại, địa chỉ email mà bạn cung cấp khi liên hệ</li>
-        <li><strong>Thông tin liên lạc:</strong> Thông tin bạn cung cấp thông qua biểu mẫu liên hệ hoặc cuộc gọi</li>
-      </ul>
-      
-      <h2>Cách chúng tôi sử dụng thông tin</h2>
-      <p>Thông tin thu thập được sử dụng để:</p>
-      <ul>
-        <li>Cung cấp dịch vụ thuê xe máy cho bạn</li>
-        <li>Liên lạc với bạn về dịch vụ và hỗ trợ</li>
-        <li>Cải thiện chất lượng dịch vụ</li>
-        <li>Gửi thông báo quan trọng về dịch vụ</li>
-      </ul>
-      
-      <h2>Chia sẻ thông tin</h2>
-      <p>Chúng tôi <strong>không bán, trao đổi hoặc cho thuê</strong> thông tin cá nhân của bạn cho bên thứ ba. Thông tin của bạn chỉ được chia sẻ trong các trường hợp sau:</p>
-      <ul>
-        <li>Khi có yêu cầu của pháp luật</li>
-        <li>Để bảo vệ quyền lợi hợp pháp của chúng tôi</li>
-        <li>Với sự đồng ý của bạn</li>
-      </ul>
-      
-      <h2>Bảo vệ thông tin</h2>
-      <p>Chúng tôi sử dụng các biện pháp bảo mật phù hợp để bảo vệ thông tin cá nhân của bạn khỏi truy cập, sửa đổi, tiết lộ hoặc phá hủy trái phép.</p>
-      
-      <h2>Liên kết bên ngoài</h2>
-      <p>Website của chúng tôi có thể chứa liên kết đến các website bên ngoài như:</p>
-      <ul>
-        <li><a href="{{ business.url }}" target="_blank" rel="noopener noreferrer">{{ business.url }}</a> (Website chính)</li>
-        <li><a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer">Zalo</a></li>
-        <li><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">Google Maps</a></li>
-      </ul>
-      <p>Chúng tôi không kiểm soát các website bên ngoài và không chịu trách nhiệm về chính sách bảo mật của họ.</p>
-      
-      <h2>Cookie</h2>
-      <p>Website hiện tại không sử dụng cookie để theo dõi người dùng. Chúng tôi chỉ sử dụng các công cụ phân tích cơ bản của GitHub Pages.</p>
-      
-      <h2>Quyền của bạn</h2>
-      <p>Bạn có quyền:</p>
-      <ul>
-        <li>Truy cập vào thông tin cá nhân của mình</li>
-        <li>Yêu cầu sửa đổi thông tin không chính xác</li>
-        <li>Yêu cầu xóa thông tin cá nhân</li>
-        <li>Từ chối nhận thông tin quảng cáo</li>
-      </ul>
-      
-      <h2>Thay đổi chính sách</h2>
-      <p>Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Bất kỳ thay đổi nào cũng sẽ được đăng tải trên trang này.</p>
-      
-      <h2>Liên hệ</h2>
-      <p>Nếu bạn có câu hỏi về chính sách bảo mật, vui lòng liên hệ:</p>
-      <div class="cta-group">
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi {{ business.contact.phone }}</a>
-        <a href="mailto:{{ business.contact.email }}" class="btn btn-secondary">Email</a>
-      </div>
-    </div>
-  </div>
-</section>
+Chúng tôi cam kết bảo vệ quyền riêng tư của người dùng. Chính sách này giải thích cách thức chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân.
+
+### Website tĩnh
+
+Website này là một trang web tĩnh được host trên GitHub Pages. Chúng tôi không thu thập bất kỳ dữ liệu cá nhân nào thông qua các biểu mẫu hoặc hệ thống theo dõi trực tiếp trên website này.
+
+### Thông tin được thu thập
+
+Khi bạn truy cập và sử dụng website này:
+
+- **Thông tin tự cung cấp:** Nếu bạn liên hệ với chúng tôi thông qua điện thoại, Zalo, email hoặc các kênh khác, thông tin bạn cung cấp sẽ được sử dụng để liên lạc và hỗ trợ bạn.
+
+- **Thông tin từ dịch vụ bên thứ ba:** Khi bạn nhấp vào các liên kết đến Zalo, Google Maps, website chính hoặc các dịch vụ bên ngoài khác, bạn sẽ rời khỏi website này và chịu sự điều chỉnh của chính sách bảo mật của các dịch vụ đó.
+
+### Sử dụng thông tin
+
+Thông tin cá nhân bạn cung cấp sẽ chỉ được sử dụng cho các mục đích:
+
+- Liên lạc và hỗ trợ khách hàng
+- Cung cấp dịch vụ thuê xe
+- Phản hồi các yêu cầu và thắc mắc
+
+### Chia sẻ thông tin
+
+Chúng tôi không chia sẻ, bán hoặc cho thuê thông tin cá nhân của bạn cho bất kỳ bên thứ ba nào, trừ khi:
+
+- Có sự đồng ý của bạn
+- Được yêu cầu bởi pháp luật
+
+### Cookie
+
+Website hiện tại không sử dụng cookie để theo dõi người dùng. Nếu sau này chúng tôi thêm chức năng phân tích hoặc cookie, chính sách này sẽ được cập nhật.
+
+### Liên kết bên ngoài
+
+Website có thể chứa các liên kết đến các website bên ngoài. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc hoạt động của các website đó.
+
+### Bảo mật dữ liệu
+
+Chúng tôi áp dụng các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin cá nhân khỏi truy cập trái phép, thất lạc, sử dụng sai mục đích hoặc tiết lộ.
+
+### Quyền của bạn
+
+Bạn có quyền:
+
+- Yêu cầu xem, sửa hoặc xóa thông tin cá nhân của mình
+- Từ chối cung cấp thông tin cá nhân (nhưng điều này có thể ảnh hưởng đến khả năng cung cấp dịch vụ)
+
+### Thay đổi chính sách
+
+Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Bất kỳ thay đổi nào cũng sẽ được đăng tải trên trang này.
+
+### Liên hệ
+
+Nếu bạn có câu hỏi về chính sách bảo mật, vui lòng liên hệ:
+
+- **Điện thoại:** [0942 467 674](tel:+84942467674)
+- **Email:** [nguyentuantu8x@gmail.com](mailto:nguyentuantu8x@gmail.com)
+
+Cập nhật lần cuối: {{ site.time | date: '%d/%m/%Y' }}
