@@ -1,165 +1,94 @@
+{% assign business = site.data.business %}
+{% assign nav = site.data.navigation.main %}
+
 <header class="site-header" role="banner">
   <div class="container">
     <div class="header-content">
-      <!-- Logo -->
-      <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }}">
-        <span class="logo-text">{{ site.business_display_name }}</span>
+      <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ business.display_name }} - Trang chủ">
+        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="44" height="44" class="logo-img">
+        <span class="logo-text">{{ business.brand }}</span>
       </a>
       
-      <!-- Desktop Navigation -->
       <nav class="main-nav" role="navigation" aria-label="Menu chính">
-        <ul class="nav-list">
-          {% assign nav = site.data.navigation.main %}
-          {% for item in nav %}
-            {% if item.children %}
-              <li class="nav-item dropdown" aria-haspopup="true">
-                <button 
-                  class="nav-link dropdown-toggle" 
-                  aria-expanded="false"
-                  aria-controls="dropdown-{{ forloop.index }}">
-                  <span>{{ item.name }}</span>
-                  <span class="dropdown-icon" aria-hidden="true">▼</span>
-                </button>
-                <ul class="dropdown-menu" id="dropdown-{{ forloop.index }}" role="menu">
-                  {% for child in item.children %}
-                    <li role="none">
-                      <a 
-                        href="{{ child.url | relative_url }}" 
-                        class="dropdown-item"
-                        role="menuitem"
-                        {% if child.url == page.url %}aria-current="page"{% endif %}>
-                        {{ child.name }}
-                      </a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              </li>
-            {% else %}
-              <li class="nav-item">
-                <a 
-                  href="{{ item.url | relative_url }}" 
-                  class="nav-link {% if item.url == page.url %}active{% endif %}"
-                  aria-current="{{ item.url == page.url | ternary: 'page', nil }}">
-                  {{ item.name }}
-                </a>
-              </li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-        
-        <!-- Mobile Menu Toggle -->
-        <button 
-          class="mobile-menu-toggle" 
-          aria-label="Mở menu"
-          aria-expanded="false"
-          aria-controls="mobile-menu">
-          <span class="hamburger" aria-hidden="true"></span>
+        <button class="mobile-menu-toggle" aria-label="Mở menu" aria-expanded="false" aria-controls="main-navigation">
+          <span class="hamburger"></span>
         </button>
-      </nav>
-      
-      <!-- Mobile Menu -->
-      <div class="mobile-menu" id="mobile-menu" role="navigation" aria-label="Menu di động">
-        <ul class="mobile-nav-list">
+        <ul class="nav-list" id="main-navigation" role="menubar">
           {% for item in nav %}
             {% if item.children %}
-              <li class="mobile-nav-item">
-                <button 
-                  class="mobile-nav-link submenu-toggle" 
-                  aria-expanded="false"
-                  aria-controls="mobile-submenu-{{ forloop.index }}">
-                  <span>{{ item.name }}</span>
-                  <span class="submenu-icon" aria-hidden="true">+</span>
-                </button>
-                <ul class="mobile-submenu" id="mobile-submenu-{{ forloop.index }}">
-                  {% for child in item.children %}
-                    <li>
-                      <a 
-                        href="{{ child.url | relative_url }}" 
-                        class="mobile-submenu-link"
-                        {% if child.url == page.url %}aria-current="page"{% endif %}>
-                        {{ child.name }}
-                      </a>
-                    </li>
-                  {% endfor %}
-                </ul>
-              </li>
+            <li class="dropdown" role="none">
+              <button class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="menuitem">
+                <span>{{ item.name }}</span>
+                <span class="dropdown-icon" aria-hidden="true">▼</span>
+              </button>
+              <ul class="dropdown-menu" role="menu">
+                {% for child in item.children %}
+                <li role="none">
+                  <a href="{{ child.url | relative_url }}" class="dropdown-item" role="menuitem" {% if page.url == child.url %}aria-current="page"{% endif %}>{{ child.name }}</a>
+                </li>
+                {% endfor %}
+              </ul>
+            </li>
             {% else %}
-              <li class="mobile-nav-item">
-                <a 
-                  href="{{ item.url | relative_url }}" 
-                  class="mobile-nav-link {% if item.url == page.url %}active{% endif %}"
-                  aria-current="{{ item.url == page.url | ternary: 'page', nil }}">
-                  {{ item.name }}
-                </a>
-              </li>
+            <li role="none">
+              <a href="{{ item.url | relative_url }}" role="menuitem" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.name }}</a>
+            </li>
             {% endif %}
           {% endfor %}
+          <li role="none">
+            <a href="{{ business.url }}" target="_blank" rel="noopener noreferrer" role="menuitem">Website chính</a>
+          </li>
         </ul>
-      </div>
+      </nav>
     </div>
   </div>
 </header>
 
-<script>
-// Mobile menu toggle
-(function() {
-  const mobileToggle = document.querySelector('.mobile-menu-toggle');
-  const mobileMenu = document.querySelector('.mobile-menu');
-  
-  if (mobileToggle && mobileMenu) {
-    mobileToggle.addEventListener('click', function() {
-      const isExpanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !isExpanded);
-      mobileMenu.classList.toggle('active');
-      document.body.classList.toggle('mobile-menu-open');
-    });
-  }
-  
-  // Mobile submenu toggle
-  const submenuToggles = document.querySelectorAll('.submenu-toggle');
-  submenuToggles.forEach(function(toggle) {
-    toggle.addEventListener('click', function() {
-      const isExpanded = this.getAttribute('aria-expanded') === 'true';
-      this.setAttribute('aria-expanded', !isExpanded);
-      const submenuId = this.getAttribute('aria-controls');
-      const submenu = document.getElementById(submenuId);
-      if (submenu) {
-        submenu.classList.toggle('active');
-        const icon = this.querySelector('.submenu-icon');
-        if (icon) {
-          icon.textContent = isExpanded ? '+' : '−';
-        }
-      }
-    });
-  });
-  
-  // Desktop dropdown hover
-  const dropdowns = document.querySelectorAll('.dropdown');
-  dropdowns.forEach(function(dropdown) {
-    const toggle = dropdown.querySelector('.dropdown-toggle');
-    const menu = dropdown.querySelector('.dropdown-menu');
-    
-    if (toggle && menu) {
-      dropdown.addEventListener('mouseenter', function() {
-        toggle.setAttribute('aria-expanded', 'true');
-        menu.classList.add('active');
-      });
-      
-      dropdown.addEventListener('mouseleave', function() {
-        toggle.setAttribute('aria-expanded', 'false');
-        menu.classList.remove('active');
-      });
-      
-      // Keyboard accessibility
-      toggle.addEventListener('keydown', function(e) {
-        if (e.key === 'Enter' || e.key === ' ') {
-          e.preventDefault();
-          const isExpanded = this.getAttribute('aria-expanded') === 'true';
-          this.setAttribute('aria-expanded', !isExpanded);
-          menu.classList.toggle('active');
-        }
-      });
-    }
-  });
-})();
-</script>
+<!-- Mobile Menu Overlay -->
+<div class="mobile-menu" role="dialog" aria-modal="true" aria-label="Menu di động">
+  <div class="mobile-menu-header">
+    <a href="{{ '/' | relative_url }}" class="mobile-logo" aria-label="Trang chủ">
+      <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
+      <span>{{ business.brand }}</span>
+    </a>
+    <button class="mobile-menu-close" aria-label="Đóng menu">
+      <span class="close-icon" aria-hidden="true">×</span>
+    </button>
+  </div>
+  <nav class="mobile-nav" role="navigation">
+    <ul class="mobile-nav-list">
+      {% for item in nav %}
+        {% if item.children %}
+        <li class="mobile-nav-item has-submenu">
+          <button class="submenu-toggle" aria-expanded="false" aria-controls="submenu-{{ item.name | slugify }}" role="menuitem">
+            <span>{{ item.name }}</span>
+            <span class="submenu-icon" aria-hidden="true">▶</span>
+          </button>
+          <ul class="mobile-submenu" id="submenu-{{ item.name | slugify }}" role="menu">
+            {% for child in item.children %}
+            <li role="none">
+              <a href="{{ child.url | relative_url }}" class="mobile-submenu-link" role="menuitem">{{ child.name }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </li>
+        {% else %}
+        <li class="mobile-nav-item">
+          <a href="{{ item.url | relative_url }}" class="mobile-nav-link" role="menuitem">{{ item.name }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      <li class="mobile-nav-item">
+        <a href="{{ business.url }}" target="_blank" rel="noopener noreferrer" class="mobile-nav-link" role="menuitem">Website chính</a>
+      </li>
+    </ul>
+  </nav>
+  <div class="mobile-menu-footer">
+    <a href="{{ business.contact.phone_uri }}" class="mobile-footer-btn">
+      <span>📞 {{ business.contact.phone }}</span>
+    </a>
+    <a href="{{ business.contact.zalo }}" class="mobile-footer-btn" target="_blank" rel="noopener noreferrer">
+      <span>💬 Nhắn Zalo</span>
+    </a>
+  </div>
+</div>
