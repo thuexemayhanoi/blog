@@ -1,54 +1,89 @@
 ---
 layout: page
-title: "Điều khoản sử dụng"
-description: "Điều khoản và điều kiện sử dụng website blog"
+title: "Dieu khoan su dung - Thue Xe May Ha Noi Nguyen Tu"
+description: "Dieu khoan va dieu kien ve dich vu thue xe may tai Ha Noi."
+lang: vi
+translation_key: terms
 ---
 
-## Điều khoản sử dụng
+{% assign business = site.data.business %}
 
-Vui lòng đọc kỹ các điều khoản sau đây trước khi sử dụng website này. Việc truy cập và sử dụng website đồng nghĩa với việc bạn chấp nhận các điều khoản này.
+## Dieu Khoan Su Dung
 
-### Giới thiệu
+Cap nhat lan cuoi: Thang 9/2026
 
-Website [Blog Thuê Xe Máy Hà Nội Nguyễn Tú]({{ site.url }}{{ site.baseurl }}) là một blog chia sẻ thông tin, kiến thức và kinh nghiệm về dịch vụ thuê xe máy tại Hà Nội. Website được vận hành bởi Nguyễn Tú.
+Vui long doc cac dieu khoan su dung sau day truoc khi su dung dich vu thue xe may cua chung toi.
 
-### Nội dung website
+### Hop Dong Thue Xe
 
-- **Thông tin tham khảo:** Tất cả nội dung trên website chỉ mang tính chất tham khảo. Chúng tôi không đảm bảo độ chính xác tuyệt đối của mọi thông tin.
+Bang cach thue xe may tu Nguyen Tu, ban dong y voi cac dieu khoan sau:
 
-- **Giá cả và tình trạng xe:** Giá thuê, tiền đặt cọc, tình trạng xe và chi phí giao nhận có thể thay đổi mà không cần thông báo trước. Khách hàng cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+1. **Giay phep lai xe hop le:** Ban phai co giay phep lai xe hop le phu hop voi loai xe ban thue
+2. **Yeu cau ve do tuoi:** Toi thieu 18 tuoi
+3. **Tien dat coc:** Tien dat coc bat buoc cho tat ca cac hop dong thue va se duoc hoan tra sau khi tra xe dung hen va xe khong bi hu hong
+4. **Thoi han thue:** Xe phai duoc tra lai dung thoi gian da thoa thuan
+5. **Tinh trang xe:** Xe phai duoc tra lai voi cung tinh trang nhu luc nhan xe, tru cac hao mon binh thuong
 
-- **Khu vực phục vụ:** Thông tin về khu vực phục vụ có thể thay đổi. Vui lòng liên hệ để xác nhận.
+### Trach Nhiem
 
-### Sử dụng nội dung
+**Trach nhiem cua ban:**
 
-- **Sử dụng cá nhân:** Bạn có thể sử dụng nội dung website cho mục đích cá nhân, phi thương mại.
+- Dieu khien xe mot an toan va tuan thuc tat ca cac luat giao thong
+- Su dung xe dung muc dich
+- Khong cho bat ky ai khac dieu khien xe
+- Bao cao ngay lap tuc bat ky tai nan, hu hong hoac su co ve ky thuat nao
+- Tra xe voi cung muc nhien lieu (hoac tra tien de nap them)
 
-- **Không sao chép toàn bộ:** Không sao chép toàn bộ hoặc phần lớn nội dung website mà không có sự cho phép.
+**Trach nhiem cua chung toi:**
 
-- **Trích dẫn:** Khi trích dẫn nội dung, vui lòng ghi rõ nguồn và liên kết về website.
+- Cung cap xe o tinh trang hoat dong tot
+- Cung cap bao hiem co ban
+- Cung cap mu bao hiem cho moi nguoi lai
+- San sang ho tro trong suot thoi gian ban thue xe
 
-### Liên kết bên ngoài
+### Viec Su Dung Bi Cam
 
-Website có thể chứa các liên kết đến các website bên ngoài do các tổ chức khác quản lý. Chúng tôi không kiểm soát và không chịu trách nhiệm về nội dung, chính sách bảo mật hoặc hoạt động của các website đó.
+Ban khong duoc:
 
-### Trách nhiệm
+- Su dung xe de dua xe, lai xe mau hoac bat ky hoat dong nao khong hop phap
+- Cho nhieu hanh khach hon so voi so ghe duoc thiet ke
+- Van chuyen cac chat de nguy hiem hoac bat hop phap
+- Thay doi hoac can thiep vao xe theo bat ky cach nao
+- Dua xe ra ngoai Viet Nam ma khong co su chap thuan truoc bang van ban
 
-- **Trách nhiệm của người dùng:** Bạn chịu hoàn toàn trách nhiệm về việc sử dụng website và thông tin trên website.
+### Phi va Chi Phi
 
-- **Hạn chế trách nhiệm:** Chúng tôi không chịu trách nhiệm về bất kỳ thiệt hại trực tiếp, gián tiếp, ngẫu nhiên, đặc biệt hoặc hậu quả nào phát sinh từ việc sử dụng hoặc không thể sử dụng website.
+Ban phai trach nhiem ve:
 
-- **Không tư vấn chuyên nghiệp:** Nội dung trên website không phải là lời khuyên chuyên nghiệp về pháp lý, tài chính, kỹ thuật hoặc bất kỳ lĩnh vực nào khác.
+- Phi thue theo thoa thuan
+- Tien dat coc theo yeu cau
+- Phi tra muon (neu co)
+- Chi phi sua chua (neu xe bi hu hong do loi cua ban)
+- Chi phi boi thuong toan bo (neu mat xe)
+- Bat ky khoan tien phat nao phat sinh trong thoi gian thue
 
-### Thay đổi điều khoản
+### Chinh Sach Huy Dat Xe
 
-Chúng tôi có thể cập nhật các điều khoản này theo thời gian. Bất kỳ thay đổi nào cũng sẽ được đăng tải trên trang này. Việc tiếp tục sử dụng website sau khi có thay đổi đồng nghĩa với việc bạn chấp nhận các điều khoản mới.
+- Huy dat xe truoc 24 gio: Hoan tra toan bo tien dat coc
+- Huy dat xe trong 24 gio: Mat 50% tien dat coc
+- Khong den: Mat toan bo tien dat coc
 
-### Liên hệ
+### Mien Trach Nhiem
 
-Nếu bạn có câu hỏi về điều khoản sử dụng, vui lòng liên hệ:
+Nguyen Tu Motorcycle Rental khong chiu trach nhiem ve:
 
-- **Điện thoại:** [0942 467 674](tel:+84942467674)
-- **Email:** [nguyentuantu8x@gmail.com](mailto:nguyentuantu8x@gmail.com)
+- Bat ky tai nan hoac thuong tich nao xay ra trong thoi gian thue
+- Mat mat hoac hu hong toi tai san ca nhan
+- Bat ky thiet hai nao giu an, tu phat, hoac he qua
 
-Cập nhật lần cuối: {{ site.time | date: '%d/%m/%Y' }}
+### Giai Quyet Tranh Chap
+
+Bat ky tranh chap nao phat sinh tu cac dieu khoan nay se duoc giai quyet thong qua viec dam phan giua cac ben. Neu dam phan that bai, tran chap se duoc giai quyet tai toa an Ha Noi, Viet Nam.
+
+### Lien He Voi Chung Toi
+
+Neu ban co bat ky cau hoi nao ve cac dieu khoan nay, vui long lien he:
+
+- 📞 **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- 💬 **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- ✉️ **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
