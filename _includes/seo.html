@@ -1,7 +1,15 @@
+{% assign business = site.data.business %}
+
 {% if page.title %}
   {% assign title = page.title | strip %}
 {% else %}
   {% assign title = site.title | strip %}
+{% endif %}
+
+{% if page.seo_title %}
+  {% assign seo_title = page.seo_title | strip %}
+{% else %}
+  {% assign seo_title = title %}
 {% endif %}
 
 {% if page.description %}
@@ -12,10 +20,8 @@
   {% assign description = '' %}
 {% endif %}
 
-{% assign business = site.data.business %}
-
 <!-- Primary Meta -->
-<title>{{ title }} - {{ site.title }}</title>
+<title>{{ seo_title }} | {{ site.title }}</title>
 <meta name="description" content="{{ description }}">
 
 <!-- Canonical -->
@@ -30,19 +36,36 @@
 
 <!-- Open Graph -->
 <meta property="og:site_name" content="{{ site.title }}">
-<meta property="og:title" content="{{ title }} - {{ site.title }}">
+<meta property="og:title" content="{{ seo_title }} | {{ site.title }}">
 <meta property="og:description" content="{{ description }}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:locale" content="{{ site.lang }}">
+{% if page.layout == 'post' %}
+<meta property="og:article:published_time" content="{{ page.date | date_to_xmlschema }}">
+{% endif %}
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ title }} - {{ site.title }}">
+<meta name="twitter:title" content="{{ seo_title }} | {{ site.title }}">
 <meta name="twitter:description" content="{{ description }}">
 
+<!-- Favicon -->
+<link rel="icon" type="image/jpeg" href="{{ business.logo | relative_url }}">
+<link rel="apple-touch-icon" href="{{ business.logo | relative_url }}">
+
+<!-- Open Graph Image -->
+<meta property="og:image" content="{{ business.logo | absolute_url }}">
+<meta property="og:image:alt" content="{{ business.display_name }}">
+<meta property="og:image:width" content="512">
+<meta property="og:image:height" content="512">
+
+<!-- Twitter Image -->
+<meta name="twitter:image" content="{{ business.logo | absolute_url }}">
+<meta name="twitter:image:alt" content="{{ business.display_name }}">
+
 <!-- Robots -->
-<meta name="robots" content="index, follow">
+<meta name="robots" content="{% if page.noindex %}noindex, nofollow{% else %}index, follow{% endif %}">
 
 <!-- Schema.org -->
 {% if page.layout == 'post' %}
@@ -50,27 +73,37 @@
 {
   "@context": "https://schema.org",
   "@type": "BlogPosting",
-  "headline": "{{ page.title }}",
-  "description": "{{ description }}",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ description | escape }}",
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "author": {
     "@type": "Person",
-    "name": "{{ site.author }}"
+    "name": "{{ site.author | escape }}"
   },
   "publisher": {
     "@type": "Organization",
-    "name": "{{ business.display_name }}",
-    "url": "{{ business.url }}",
+    "name": "{{ business.display_name | escape }}",
+    "url": "{{ business.url | escape }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ business.logo | absolute_url }}",
+      "width": 512,
+      "height": 512
+    },
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "{{ business.address.full }}"
+      "streetAddress": "{{ business.address.full | escape }}",
+      "addressLocality": "{{ business.address.district | escape }}",
+      "addressRegion": "{{ business.address.city | escape }}",
+      "addressCountry": "{{ business.address.country | escape }}"
     },
-    "telephone": "{{ business.contact.phone }}"
+    "telephone": "{{ business.contact.phone | escape }}",
+    "email": "{{ business.contact.email | escape }}"
   },
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "{{ page.url | absolute_url }}"
+    "@id": "{{ page.url | absolute_url | escape }}"
   }
 }
 </script>
@@ -80,9 +113,14 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "name": "{{ site.title }}",
+  "name": "{{ site.title | escape }}",
   "url": "{{ site.url }}{{ site.baseurl }}/",
-  "description": "{{ site.description }}"
+  "description": "{{ site.description | escape }}",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "{{ site.url }}{{ site.baseurl }}/blog/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
 }
 </script>
 
@@ -90,21 +128,49 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "name": "{{ business.display_name }}",
-  "url": "{{ business.url }}",
+  "name": "{{ business.display_name | escape }}",
+  "url": "{{ business.url | escape }}",
+  "logo": "{{ business.logo | absolute_url }}",
   "address": {
     "@type": "PostalAddress",
-    "streetAddress": "{{ business.address.street }}",
-    "addressLocality": "{{ business.address.district }}",
-    "addressRegion": "{{ business.address.city }}",
-    "addressCountry": "{{ business.address.country }}"
+    "streetAddress": "{{ business.address.street | escape }}",
+    "addressLocality": "{{ business.address.district | escape }}",
+    "addressRegion": "{{ business.address.city | escape }}",
+    "addressCountry": "{{ business.address.country | escape }}"
   },
-  "telephone": "{{ business.contact.phone }}",
-  "email": "{{ business.contact.email }}"
+  "telephone": "{{ business.contact.phone | escape }}",
+  "email": "{{ business.contact.email | escape }}",
+  "sameAs": [
+    "{{ business.contact.zalo | escape }}",
+    "{{ business.url | escape }}"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "{{ business.display_name | escape }}",
+  "url": "{{ business.url | escape }}",
+  "logo": "{{ business.logo | absolute_url }}",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "{{ business.address.full | escape }}"
+  },
+  "telephone": "{{ business.contact.phone | escape }}",
+  "email": "{{ business.contact.email | escape }}",
+  "openingHours": "Mo,Tu,We,Th,Fr,Sa,Su 09:00-21:00",
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "21.0307",
+    "longitude": "105.8508"
+  }
 }
 </script>
 
 {% if page.url contains '/blog/' or page.layout == 'post' %}
+{% assign categories = site.data.categories %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -121,14 +187,43 @@
       "position": 2,
       "name": "Blog",
       "item": "{{ site.url }}{{ site.baseurl }}/blog/"
-    }{% if page.categories %},{% for category in page.categories limit:1 %}
+    }{% if page.categories %},{% for category in page.categories limit:1 %}{% assign category_data = categories | where: "name", category | first %}{% if category_data %}
     {
       "@type": "ListItem",
       "position": 3,
-      "name": "{{ category }}",
-      "item": "{{ site.url }}{{ site.baseurl }}/{{ category | slugify }}/"
-    }{% endfor %}{% endif %}
+      "name": "{{ category | escape }}",
+      "item": "{{ site.url }}{{ site.baseurl }}{{ category_data.url }}"
+    }{% endif %}{% endfor %}{% endif %}
   ]
+}
+</script>
+{% endif %}
+
+{% if page.layout == 'post' %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": "{{ page.title | escape }}",
+  "description": "{{ description | escape }}",
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ site.author | escape }}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "{{ business.display_name | escape }}",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ business.logo | absolute_url }}"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ page.url | absolute_url | escape }}"
+  }
 }
 </script>
 {% endif %}
