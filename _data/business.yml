@@ -14,11 +14,14 @@ address:
 contact:
   phone: "0942 467 674"
   phone_uri: "tel:+84942467674"
+  whatsapp: "https://wa.me/84942467674"
   email: "nguyentuantu8x@gmail.com"
   zalo: "https://zalo.me/0942467674"
-  maps: "https://maps.app.goo.gl/rj78cAggpN5kFD6ZA"
+  maps: "https://maps.app.goo.gl/rQBfa43FA2WNnuSy9?g_st=ic"
 
 hours: "09:00 - 21:00"
+
+default_rental_days: 7
 
 services:
   - "Thuê xe số"
@@ -42,40 +45,75 @@ areas:
   - "Nội thành Hà Nội"
 
 vehicle_types:
-  - name: "Xe số"
+  - id: honda-wave
+    name: "Honda Wave"
+    type: "Xe số"
+    type_en: "Manual motorbike"
     examples: ["Honda Wave", "Yamaha Sirius"]
     description: "Xe côn truyền thống, dễ điều khiển"
+    description_en: "Traditional manual motorbike, easy to control"
     pricing_url: "/bang-gia-xe-so/"
   
-  - name: "Xe tay ga"
-    examples: ["Honda Vision", "Honda Air Blade", "Honda Click", "Yamaha Mio"]
+  - id: honda-vision
+    name: "Honda Vision"
+    type: "Xe ga"
+    type_en: "Automatic scooter"
+    examples: ["Honda Vision"]
     description: "Xe ga hiện đại, thoải mái"
+    description_en: "Modern automatic scooter, comfortable"
     pricing_url: "/bang-gia-xe-ga/"
   
-  - name: "Xe 50cc"
-    examples: ["Honda Cub 50cc", "Xe ga 50cc"]
-    description: "Xe công suất nhỏ, phù hợp cho du khách"
-    pricing_url: "/bang-gia-xe-50cc/"
+  - id: honda-airblade
+    name: "Honda Air Blade"
+    type: "Xe ga"
+    type_en: "Automatic scooter"
+    examples: ["Honda Air Blade"]
+    description: "Xe ga hiện đại, mạnh mẽ"
+    description_en: "Modern automatic scooter, powerful"
+    pricing_url: "/bang-gia-xe-ga/"
   
-  - name: "Xe máy điện"
+  - id: honda-click
+    name: "Honda Click / Yamaha Mio"
+    type: "Xe ga"
+    type_en: "Budget automatic scooter"
+    examples: ["Honda Click", "Yamaha Mio"]
+    description: "Xe ga giá rẻ, tiết kiệm"
+    description_en: "Budget automatic scooter, economical"
+    pricing_url: "/bang-gia-xe-ga/"
+  
+  - id: electric-bike
+    name: "Xe điện"
+    type: "Xe máy điện"
+    type_en: "Electric motorbike"
     examples: []
     description: "Xe thân thiện môi trường, không phát thải"
+    description_en: "Environmentally friendly electric motorbike, zero emissions"
     pricing_url: "/bang-gia-xe-dien/"
   
-  - name: "Xe đạp điện"
+  - id: electric-scooter
+    name: "Xe đạp điện"
+    type: "Xe đạp điện"
+    type_en: "Electric scooter"
     examples: []
     description: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
+    description_en: "Lightweight, suitable for short distances"
     pricing_url: "/bang-gia-xe-dien/"
 
 rental_types:
   - name: "Theo ngày"
+    name_en: "Daily rental"
     description: "Linh hoạt cho nhu cầu ngắn hạn"
+    description_en: "Flexible for short-term needs"
   
   - name: "Theo tuần"
+    name_en: "Weekly rental"
     description: "Tiết kiệm cho chuyến đi dài ngày"
+    description_en: "Economical for longer trips"
   
   - name: "Theo tháng"
+    name_en: "Monthly rental"
     description: "Giá ưu đãi cho thuê dài hạn"
+    description_en: "Discounted rates for long-term rental"
 
 notes:
   - "Tình trạng xe, giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi"
