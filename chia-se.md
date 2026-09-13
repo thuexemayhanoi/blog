@@ -1,52 +1,33 @@
 ---
 layout: category
-title: "Chia sẻ"
-description: "Bài hướng dẫn, mẹo sử dụng và kiến thức về phương tiện"
+title: "Chia se - Blog Nguyen Tu"
+description: "Cac loi khuyen va cam nang thu te cho viec thue xe may va di chuyen tai Ha Noi."
+lang: vi
+translation_key: sharing
+category: Chia se
 ---
 
-{% assign business = site.data.business %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Chia se'" | sort: "date", "desc" %}
 
-## Bài viết Chia sẻ
+## Bai Viet Chia Se
 
-Dưới đây là các bài viết chia sẻ hướng dẫn, mẹo sử dụng xe máy và kiến thức hữu ích về phương tiện.
+Cac loi khuyen thu te cho viec thue xe may va di chuyen tai Ha Noi:
 
-### Các bài viết mới nhất
-
-{% assign category_posts = site.posts | where_exp: "post", "post.categories contains 'Chia sẻ'" %}
-
-{% if category_posts.size > 0 %}
+{% if posts.size > 0 %}
 <div class="post-grid">
-  {% for post in category_posts limit:10 %}
+  {% for post in posts %}
   <article class="post-card glass-card">
-    {% if post.categories %}
-    <span class="post-category">{{ post.categories | first }}</span>
-    {% endif %}
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <p class="post-date">📅 {{ post.date | date: "%d/%m/%Y" }}</p>
-    <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
-    <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp →</a>
+    <p class="post-date">Dang ngay {{ post.date | date: "%d/%m/%Y" }}</p>
+    <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
+    <a href="{{ post.url | relative_url }}" class="read-more">Doc tiep</a>
   </article>
   {% endfor %}
 </div>
 {% else %}
-<p>Chưa có bài viết nào trong chủ đề này. Hãy quay lại sau!</p>
+<p>Chua co bai viet nao ve chia se. Hay quay lai sau!</p>
 {% endif %}
 
-### Chủ đề liên quan
-
-- [Du lịch]({{ '/du-lich/' | relative_url }})
-- [Kinh nghiệm]({{ '/kinh-nghiem/' | relative_url }})
-
-### Bạn có câu hỏi về xe máy?
-
-<div class="cta-group" style="justify-content: center; margin-top: 2rem;">
-  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
-    Gọi ngay {{ business.contact.phone }}
-  </a>
-  <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-    Nhắn Zalo
-  </a>
-  <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">
-    Website chính
-  </a>
+<div class="cta-group">
+  <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Ve Blog</a>
 </div>
