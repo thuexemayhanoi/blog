@@ -1,0 +1,101 @@
+--- 
+layout: default
+title: "Blog Thuê Xe Máy Hà Nội Nguyễn Tú"
+description: "{{ site.description }}"
+--- 
+
+<section class="hero">
+  <div class="container">
+    <h1>{{ site.title }}</h1>
+    <p class="subtitle">{{ site.description }}</p>
+    
+    <div class="cta-group">
+      <a href="{{ '/blog/' | relative_url }}" class="btn btn-primary">Xem bài viết</a>
+      <a href="{{ site.business_phone_uri }}" class="btn btn-secondary">Gọi {{ site.business_name }}</a>
+      <a href="{{ site.business_zalo }}" class="btn btn-secondary">Nhắn Zalo</a>
+      <a href="{{ site.business_url }}" class="btn btn-outline">Website chính</a>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Bài viết mới nhất</h2>
+    
+    {% if site.posts.size > 0 %}
+    <div class="post-grid">
+      {% for post in site.posts limit:6 %}
+      <article class="post-card">
+        <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+        <p class="post-date">{{ post.date | date: "%d/%m/%Y" }}</p>
+        <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
+        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
+      </article>
+      {% endfor %}
+    </div>
+    
+    {% if site.posts.size > 6 %}
+    <div class="text-center">
+      <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Xem tất cả bài viết</a>
+    </div>
+    {% endif %}
+    {% else %}
+    <p>Chưa có bài viết nào. Hãy quay lại sau!</p>
+    {% endif %}
+  </div>
+</section>
+
+<section class="section bg-light">
+  <div class="container">
+    <h2>Kinh nghiệm thuê xe</h2>
+    <p>Hướng dẫn chọn xe phù hợp, thủ tục thuê, và những lưu ý quan trọng khi thuê xe máy tại Hà Nội.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Dịch vụ thuê xe</h2>
+    <div class="feature-grid">
+      <div class="feature-card">
+        <h3>Thuê theo ngày</h3>
+        <p>Linh hoạt cho nhu cầu ngắn hạn</p>
+      </div>
+      <div class="feature-card">
+        <h3>Thuê theo tuần</h3>
+        <p>Tiết kiệm cho chuyến đi dài ngày</p>
+      </div>
+      <div class="feature-card">
+        <h3>Thuê theo tháng</h3>
+        <p>Giá ưu đãi cho thuê dài hạn</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section bg-light">
+  <div class="container">
+    <h2>Loại xe</h2>
+    <p>Chúng tôi cung cấp đa dạng loại xe: Xe số, xe tay ga, xe 50cc, xe máy điện, xe đạp điện.</p>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <h2>Khu vực phục vụ</h2>
+    <p>Giao xe tận nơi tại các quận nội thành Hà Nội: Long Biên, Bồ Đề, Gia Lâm, Hoàn Kiếm, Phố Cổ, Ba Đình, Tây Hồ và các khu vực lân cận.</p>
+  </div>
+</section>
+
+<section class="section bg-light">
+  <div class="container">
+    <h2>Thông tin liên hệ</h2>
+    <div class="contact-info">
+      <p><strong>{{ site.business_display_name }}</strong></p>
+      <p>📍 {{ site.business_address }}</p>
+      <p>📞 <a href="{{ site.business_phone_uri }}">{{ site.business_phone }}</a></p>
+      <p>✉️ <a href="mailto:{{ site.business_email }}">{{ site.business_email }}</a></p>
+      <p>🕒 {{ site.business_hours }}</p>
+      <p>📍 <a href="{{ site.business_maps }}" target="_blank">Xem trên Google Maps</a></p>
+    </div>
+  </div>
+</section>
