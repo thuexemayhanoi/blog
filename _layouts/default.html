@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <!DOCTYPE html>
 <html lang="{{ site.lang }}">
 <head>
@@ -7,23 +11,20 @@
   
   {% include seo.html %}
   
-  <!-- Favicon -->
-  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
-  
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
   
-  <!-- System Fonts -->
+  <!-- Preload fonts if needed -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
   {% include header.html %}
   
   {% include quick-contact.html %}
   
-  <main>
+  <main role="main">
     {% if page.layout != 'home' and page.url != '/' %}
       {% include breadcrumb.html %}
     {% endif %}
