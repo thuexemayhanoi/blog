@@ -91,7 +91,6 @@
 <script type="application/ld+json">
 {
   "@context": "https:/
-
 /schema.org",
   "@graph": [
     {
@@ -140,8 +139,7 @@
       "@type": "BlogPosting",
       "@id": "{{ page.url | absolute_url }}#blogposting",
       "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.exce
-r
+      "description": "{{ page.description | default: page.excer
 pt | strip_html | truncatewords: 50 }}",
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
