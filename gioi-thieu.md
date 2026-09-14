@@ -30,13 +30,13 @@ translation_key: about
 
 ### Thong Tin Lien He
 
-📍 **Dia chi**: {{ business.address.full }}
+{% include icon.html name="map-pin" size="16" %} **Dia chi**: {{ business.address.full }}
 
-📞 **Dien thoai**: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+{% include icon.html name="phone" size="16" %} **Dien thoai**: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
 
-✉️ **Email**: [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+{% include icon.html name="message" size="16" %} **Email**: [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
-🕒 **Gio hoat dong**: {{ business.hours }}
+{% include icon.html name="info" size="16" %} **Gio hoat dong**: {{ business.hours }}
 
 ### Cac Loai Xe Chinh
 
@@ -57,7 +57,8 @@ Chung toi chinh phuc vu tai cac quan noi thanh Ha Noi:
 - {{ area }}
 {% endfor %}
 
-**Luu y:** Thoi gian va chi phi giao nhan xe co the thay doi tuy theo khu vuc. Vui long xac nhan truoc khi dat xe.
+**Luu y:** Thoi gian va chi phi giao nhan xe co the thay doi tuy theo khu vuc. Vui long xac nh
+an truoc khi dat xe.
 
 ### Cam Ket Cua Chung Toi
 
