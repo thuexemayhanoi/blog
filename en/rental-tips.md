@@ -8,7 +8,7 @@ permalink: /en/rental-tips/
 category: Rental Tips
 ---
 
-{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Rental Tips' or post.categories contains 'Kinh nghiem'" | sort: "date", "desc" %}
+{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Rental Tips' or post.categories contains 'Kinh nghiem'" %}
 
 ## Rental Tips
 
