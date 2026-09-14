@@ -8,7 +8,7 @@ permalink: /en/guides/
 category: Guides
 ---
 
-{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Guides' or post.categories contains 'Chia se'" %}
+{% assign en_posts = site.posts | where: "lang", "en" %}
 
 ## Guides
 
@@ -17,12 +17,14 @@ Comprehensive guides to help you navigate Hanoi:
 {% if en_posts.size > 0 %}
 <div class="post-grid">
   {% for post in en_posts %}
+  {% if post.categories contains 'Guides' or post.categories contains 'Chia se' %}
   <article class="post-card glass-card">
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p class="post-date">Posted on {{ post.date | date: "%B %d, %Y" }}</p>
     <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
     <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
   </article>
+  {% endif %}
   {% endfor %}
 </div>
 {% else %}
