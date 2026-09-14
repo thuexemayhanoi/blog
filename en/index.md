@@ -54,9 +54,7 @@ permalink: /en/
         <span class="feature-icon">OK</span>
         <span class="feature-text">Transparent Pricing</span>
       </div>
-      <div class="intro-fe
-
-ature">
+      <div class="intro-feature">
         <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
       </div>
@@ -228,6 +226,5 @@ ature">
       <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
     </div>
- 
- </div>
+  </div>
 </section>
