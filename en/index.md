@@ -116,7 +116,8 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Categories -->
+<!-- Blog Cat
+egories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -228,5 +229,6 @@ permalink: /en/
     </div>
  
 
- </div>
+ 
+</div>
 </section>

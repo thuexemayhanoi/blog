@@ -41,7 +41,8 @@
 {% endif %}
 
 <!-- Hreflang for bilingual -->
-{% assign translations = site.data.translationsions %}
+{% assign translations = site.data.translat
+ionsions %}
 {% if page.translation_key %}
   {% assign translation = translations[page.translation_key] %}
   {% if translation %}
@@ -90,7 +91,8 @@
 <!-- Schema.org Markup -->
 <script type="application/ld+json">
 {
-  "@context": "https:/
+  "@context": "htt
+ps:/
 
 /schema.org",
   "@graph": [
@@ -140,9 +142,8 @@
       "@type": "BlogPosting",
       "@id": "{{ page.url | absolute_url }}#blogposting",
       "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.exce
-r
-pt | strip_html | truncatewords: 50 }}",
+      "description": "{{ page.description | default: page
+.excerpt | strip_html | truncatewords: 50 }}",
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
       "author": {
