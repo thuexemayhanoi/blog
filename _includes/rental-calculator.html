@@ -7,8 +7,10 @@
     <div class="calculator-card glass-card">
       <h2>
         {% if current_lang == 'vi' %}
+          {% include icon.html name="calculator" size="24" %}
           Tính giá thuê xe
         {% else %}
+          {% include icon.html name="calculator" size="24" %}
           Rental Price Calculator
         {% endif %}
       </h2>
@@ -103,7 +105,7 @@
         <!-- CTA Buttons -->
         <div class="calculator-cta">
           <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
-            <span>📞 </span>
+            {% include icon.html name="phone" size="18" %}
             {% if current_lang == 'vi' %}
               Gọi ngay
             {% else %}
@@ -111,7 +113,7 @@
             {% endif %}
           </a>
           <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-            <span>💬 </span>
+            {% include icon.html name="message" size="18" %}
             {% if current_lang == 'vi' %}
               Nhắn Zalo
             {% else %}
@@ -124,7 +126,7 @@
             target="_blank" 
             rel="noopener noreferrer"
           >
-            <span>📱 </span>
+            {% include icon.html name="whatsapp" size="18" %}
             {% if current_lang == 'vi' %}
               WhatsApp
             {% else %}
