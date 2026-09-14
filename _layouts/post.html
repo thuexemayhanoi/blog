@@ -19,12 +19,12 @@ layout: default
       <h1>{{ page.title }}</h1>
       
       <div class="post-meta">
-        <span class="post-date">{% include icon.html name="info" size="16" %} {{ page.date | date: "%d/%m/%Y" }}</span>
+        <span class="post-date">{% include icon.html name="calendar" size="16" %} {{ page.date | date: "%d/%m/%Y" }}</span>
         {% if page.author %}
-        <span class="post-author">{% include icon.html name="info" size="16" %} {{ page.author }}</span>
+        <span class="post-author">{% include icon.html name="pen" size="16" %} {{ page.author }}</span>
         {% endif %}
         {% if page.reading_time %}
-        <span class="reading-time">{% include icon.html name="info" size="16" %} 
+        <span class="reading-time">{% include icon.html name="clock" size="16" %} 
           {% if current_lang == 'vi' %}
             {{ page.reading_time }} phút đọc
           {% else %}
@@ -68,7 +68,8 @@ layout: default
         {% if current_lang == 'vi' %}
           Bạn cần thuê xe máy tại Hà Nội?
         {% else %}
-          Need to rent a motorcycle in Hanoi?
+          N
+eed to rent a motorcycle in Hanoi?
         {% endif %}
       </h3>
       <p>
