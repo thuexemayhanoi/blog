@@ -1,41 +1,42 @@
 {% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
 
-<!-- Desktop Floating Contact -->
-<div class="quick-contact-desktop">
-  <div class="quick-buttons">
-    <a href="{{ business.contact.phone_uri }}" class="quick-btn" title="Gọi {{ business.contact.phone }}">
-      <span class="quick-icon">📞</span>
+<!-- Desktop Floating Contact Rail -->
+<div class="contact-rail">
+  <div class="contact-rail__buttons">
+    <a href="{{ business.contact.phone_uri }}" class="contact-rail__btn" title="{% if current_lang == 'vi' %}Gọi {{ business.contact.phone }}{% else %}Call {{ business.contact.phone }}{% endif %}">
+      <span class="contact-rail__icon">📞</span>
     </a>
-    <a href="{{ business.contact.zalo }}" class="quick-btn" target="_blank" rel="noopener noreferrer" title="Zalo">
-      <span class="quick-icon">💬</span>
+    <a href="{{ business.contact.zalo }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}">
+      <span class="contact-rail__icon">💬</span>
     </a>
-    <a href="{{ business.contact.whatsapp }}" class="quick-btn" target="_blank" rel="noopener noreferrer" title="WhatsApp">
-      <span class="quick-icon">📱</span>
+    <a href="{{ business.contact.whatsapp }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}">
+      <span class="contact-rail__icon">📱</span>
     </a>
-    <a href="{{ business.contact.maps }}" class="quick-btn" target="_blank" rel="noopener noreferrer" title="Google Maps">
-      <span class="quick-icon">📍</span>
+    <a href="{{ business.contact.maps }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}">
+      <span class="contact-rail__icon">📍</span>
     </a>
   </div>
 </div>
 
 <!-- Mobile Bottom Bar -->
-<div class="quick-contact-mobile">
-  <div class="mobile-actions">
-    <a href="{{ business.contact.phone_uri }}" class="mobile-btn" aria-label="Gọi">
-      <span class="btn-icon">📞</span>
-      <span class="btn-text">Gọi</span>
+<div class="mobile-contact-bar">
+  <div class="mobile-contact-bar__actions">
+    <a href="{{ business.contact.phone_uri }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}">
+      <span class="mobile-contact-bar__icon">📞</span>
+      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}</span>
     </a>
-    <a href="{{ business.contact.zalo }}" class="mobile-btn" target="_blank" rel="noopener noreferrer" aria-label="Zalo">
-      <span class="btn-icon">💬</span>
-      <span class="btn-text">Zalo</span>
+    <a href="{{ business.contact.zalo }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}">
+      <span class="mobile-contact-bar__icon">💬</span>
+      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}</span>
     </a>
-    <a href="{{ business.contact.whatsapp }}" class="mobile-btn" target="_blank" rel="noopener noreferrer" aria-label="WhatsApp">
-      <span class="btn-icon">📱</span>
-      <span class="btn-text">WA</span>
+    <a href="{{ business.contact.whatsapp }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}">
+      <span class="mobile-contact-bar__icon">📱</span>
+      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}WA{% else %}WhatsApp{% endif %}</span>
     </a>
-    <a href="{{ business.contact.maps }}" class="mobile-btn" target="_blank" rel="noopener noreferrer" aria-label="Maps">
-      <span class="btn-icon">📍</span>
-      <span class="btn-text">Maps</span>
+    <a href="{{ business.contact.maps }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}">
+      <span class="mobile-contact-bar__icon">📍</span>
+      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}</span>
     </a>
   </div>
 </div>
