@@ -51,20 +51,20 @@ description: "{{ site.description }}"
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">X
 e chất lượng</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Giá cả minh bạch</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Giao nhận tận nơi</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Giờ hoạt động: {{ business.hours }}</span>
       </div>
     </div>
@@ -76,19 +76,19 @@ e chất lượng</span>
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Quality vehicles</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Transparent pricing</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Delivery to your location</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✓</span>
+        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Hours: {{ business.hours }}</span>
       </div>
     </div>
@@ -147,9 +147,9 @@ e chất lượng</span>
         <p class="post-date">{{ post.date | date: "%d/%m/%Y" }}</p>
         <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
         {% if current_lang == 'vi' %}
-        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp →</a>
+        <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp </a>
         {% else %}
-        <a href="{{ post.url | relative_url }}" class="read-more">Read more →</a>
+        <a href="{{ post.url | relative_url }}" class="read-more">Read more </a>
         {% endif %}
       </article>
       {% endfor %}
@@ -315,10 +315,10 @@ i>
         <h3>Contact Information</h3>
         {% endif %}
         <address>
-          <p> {{ business.address.full }}</p>
-          <p> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p> {{ business.hours }}</p>
+          <p>{% include icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
+          <p>{% include icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>{% include icon.html name="message" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>{% include icon.html name="info" size="16" %} {{ business.hours }}</p>
         </address>
       </div>
     </div>
