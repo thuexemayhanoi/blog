@@ -19,7 +19,7 @@
           document.documentElement.removeAttribute('data-theme');
         }
       } catch (e) {
-        console.warn('ThemeManager: localStorage not available', e);
+        document.documentElement.removeAttribute('data-theme');
       }
     },
     _bindToggle: function() {
@@ -45,18 +45,6 @@
       } catch (e) {
         console.warn('ThemeManager: Could not save theme', e);
       }
-    },
-    setTheme: function(theme) {
-      if (theme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark');
-      } else {
-        document.documentElement.removeAttribute('data-theme');
-      }
-      try {
-        localStorage.setItem(this.STORAGE_KEY, theme);
-      } catch (e) {
-        console.warn('ThemeManager: Could not save theme', e);
-      }
     }
   };
 
@@ -66,6 +54,7 @@
       this._bindClose();
       this._bindEscape();
       this._bindLinks();
+      this._bindScrollLock();
     },
     _bindOpen: function() {
       var openButtons = document.querySelectorAll('[data-mobile-menu-open]');
@@ -96,7 +85,7 @@
       });
     },
     _bindLinks: function() {
-      var menuLinks = document.querySelectorAll('.mobile-menu__nav-link');
+      var menuLinks = document.querySelectorAll('.mobile-submenu a, .mobile-menu__nav-link');
       var self = this;
       menuLinks.forEach(function(link) {
         link.addEventListener('click', function() {
@@ -104,42 +93,36 @@
         });
       });
     },
+    _bindScrollLock: function() {
+      var self = this;
+      var observer = new MutationObserver(function(mutations) {
+        if (document.body.classList.contains('mobile-menu-open')) {
+          document.body.style.overflow = 'hidden';
+        } else {
+          document.body.style.overflow = '';
+        }
+      });
+      observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+    },
     open: function() {
       document.body.classList.add('mobile-menu-open');
+      this._hideContactUI();
     },
     close: function() {
       document.body.classList.remove('mobile-menu-open');
-    }
-  };
-
-  var QuickContact = {
-    init: function() {
-      this._bindToggles();
+      this._showContactUI();
     },
-    _bindToggles: function() {
-      var menuToggle = document.querySelector('[data-mobile-menu-open]');
-      var assistantToggle = document.querySelector('[data-assistant-open]');
-      var self = this;
-      if (menuToggle) {
-        menuToggle.addEventListener('click', function() {
-          self._toggleVisibility(false);
-        });
-      }
-      if (assistantToggle) {
-        assistantToggle.addEventListener('click', function() {
-          self._toggleVisibility(false);
-        });
-      }
-    },
-    _toggleVisibility: function(show) {
+    _hideContactUI: function() {
       var mobileContactBar = document.querySelector('.mobile-contact-bar');
       var contactRail = document.querySelector('.contact-rail');
-      if (mobileContactBar) {
-        mobileContactBar.style.display = show ? '' : 'none';
-      }
-      if (contactRail) {
-        contactRail.style.display = show ? '' : 'none';
-      }
+      if (mobileContactBar) mobileContactBar.style.display = 'none';
+      if (contactRail) contactRail.style.display = 'none';
+    },
+    _showContactUI: function() {
+      var mobileContactBar = document.querySelector('.mobile-contact-bar');
+      var contactRail = document.querySelector('.contact-rail');
+      if (mobileContactBar) mobileContactBar.style.display = '';
+      if (contactRail) contactRail.style.display = '';
     }
   };
 
@@ -148,6 +131,7 @@
       this._bindOpen();
       this._bindClose();
       this._bindEscape();
+      this._bindScrollLock();
     },
     _bindOpen: function() {
       var openButtons = document.querySelectorAll('[data-assistant-open]');
@@ -177,13 +161,24 @@
         }
       });
     },
+    _bindScrollLock: function() {
+      var self = this;
+      var observer = new MutationObserver(function(mutations) {
+        if (document.body.classList.contains('assistant-open')) {
+          document.body.style.overflow = 'hidden';
+        } else {
+          document.body.style.overflow = '';
+        }
+      });
+      observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
+    },
     open: function() {
       document.body.classList.add('assistant-open');
-      QuickContact._toggleVisibility(false);
+      MobileMenu._hideContactUI();
     },
     close: function() {
       document.body.classList.remove('assistant-open');
-      QuickContact._toggleVisibility(true);
+      MobileMenu._showContactUI();
     }
   };
 
@@ -214,7 +209,6 @@
   function init() {
     ThemeManager.init();
     MobileMenu.init();
-    QuickContact.init();
     Assistant.init();
     Dropdown.init();
   }
@@ -224,4 +218,5 @@
   } else {
     init();
   }
+
 })();
