@@ -1,2 +1,11 @@
 main:
   - id: home
+    name:
+      vi: "Trang chủ"
+      en: "Home"
+    url:
+      vi: "/"
+      en: "/en/"
+    icon: "home"
+
+  - id: about
