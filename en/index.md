@@ -54,7 +54,9 @@ permalink: /en/
         <span class="feature-icon">OK</span>
         <span class="feature-text">Transparent Pricing</span>
       </div>
-      <div class="intro-feature">
+      <div class="intro-fe
+
+ature">
         <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
       </div>
@@ -126,13 +128,13 @@ permalink: /en/
       {% for item in nav %}
         {% if item.id == 'blog' %}
           {% for child in item.children %}
-          <a href="{{ '/en' | append: child.url.en | relative_url }}" class="category-card glass-card">
-            <h3>{{ child.name.en }}</h3>
+          <a href="{{ '/en' | append: child.url | relative_url }}" class="category-card glass-card">
+            <h3>{{ child.name }}</h3>
             <p>
-              {% assign category = child.name.en %}
+              {% assign category = child.name %}
               {% assign category_posts = site.posts | where: "lang", "en" %}
               {% for post in category_posts %}
-                {% if post.categories contains child.name.en %}
+                {% if post.categories contains child.name %}
                   {{ forloop.index }}
                 {% endif %}
               {% endfor %}
@@ -157,8 +159,8 @@ permalink: /en/
       {% for item in nav %}
         {% if item.id == 'pricing' %}
           {% for child in item.children %}
-          <a href="{{ '/en' | append: child.url.en | relative_url }}" class="pricing-card glass-card">
-            <h3>{{ child.name.en }}</h3>
+          <a href="{{ '/en' | append: child.url | relative_url }}" class="pricing-card glass-card">
+            <h3>{{ child.name }}</h3>
             <p>View details</p>
           </a>
           {% endfor %}
@@ -226,5 +228,6 @@ permalink: /en/
       <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
     </div>
-  </div>
+ 
+ </div>
 </section>
