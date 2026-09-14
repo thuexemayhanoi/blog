@@ -90,8 +90,7 @@
 <!-- Schema.org Markup -->
 <script type="application/ld+json">
 {
-  "@context": "https:/
-/schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
@@ -139,8 +138,7 @@
       "@type": "BlogPosting",
       "@id": "{{ page.url | absolute_url }}#blogposting",
       "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.excer
-pt | strip_html | truncatewords: 50 }}",
+      "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 }}",
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
       "author": {
