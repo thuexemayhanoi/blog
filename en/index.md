@@ -210,7 +210,7 @@ egories -->
         <address>
           <p>{% include icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
           <p>{% include icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>{% include icon.html name="contact" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
           <p>{% include icon.html name="clock" size="16" %} {{ business.hours }}</p>
         </address>
       </div>
