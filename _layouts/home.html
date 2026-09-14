@@ -52,8 +52,7 @@ description: "{{ site.description }}"
     <div class="intro-features">
       <div class="intro-feature">
         <span class="feature-icon">✅</span>
-        <span class="feature-text">X
-e chất lượng</span>
+        <span class="feature-text">Xe chất lượng</span>
       </div>
       <div class="intro-feature">
         <span class="feature-icon">✅</span>
@@ -112,8 +111,7 @@ e chất lượng</span>
       <div class="service-card glass-card">
         <h3>{{ vehicle.name }}</h3>
         <p>{{ vehicle.description }}</p>
-        {% if vehicle.examples.siz
-e > 0 %}
+        {% if vehicle.examples and vehicle.examples.size > 0 %}
         <p class="examples"><em>
           {% if current_lang == 'vi' %}
             Ví dụ: {{ vehicle.examples | join: ', ' }}
@@ -177,8 +175,7 @@ e > 0 %}
 <section class="section categories-section bg-light">
   <div class="container">
     {% if current_lang == 'vi' %}
-    <h
-2>Các chủ đề blog</h2>
+    <h2>Các chủ đề blog</h2>
     {% else %}
     <h2>Blog Categories</h2>
     {% endif %}
@@ -192,7 +189,7 @@ e > 0 %}
             <h3>{{ child.name }}</h3>
             <p>
               {% assign category = child.name %}
-          {% assign category_posts = current_posts | where: "categories", category %}
+              {% assign category_posts = site.posts | where: "categories", category %}
               {{ category_posts.size }} 
               {% if current_lang == 'vi' %}
                 bài viết
@@ -244,7 +241,6 @@ e > 0 %}
       <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-outline">View all pricing</a>
       {% endif %}
     </div>
-
   </div>
 </section>
 
@@ -299,8 +295,7 @@ e > 0 %}
           {% if current_lang == 'vi' %}
           <li>Cung cấp xe chất lượng, được bảo dưỡng định kỳ</li>
           <li>Giá cả minh bạch, không phát sinh phí ẩn</li>
-          <li>Giao xe tận nơi theo yêu c
-ầu</li>
+          <li>Giao xe tận nơi theo yêu cầu</li>
           {% else %}
           <li>Provide quality vehicles with regular maintenance</li>
           <li>Transparent pricing with no hidden fees</li>
