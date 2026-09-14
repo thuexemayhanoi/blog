@@ -7,12 +7,3 @@ main:
       vi: "/"
       en: "/en/"
     icon: "home"
-
-  - id: about
-    name:
-      vi: "Giới thiệu"
-      en: "About"
-    url:
-      vi: "/gioi-thieu/"
-      en: "/en/about/"
-    icon: "info"
