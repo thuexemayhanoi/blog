@@ -28,10 +28,12 @@ description: "{{ site.description }}"
         <a href="{{ business.contact.zalo }}" class="btn btn-outline">Zalo</a>
         {% endif %}
       </div>
+    </div>
     
     <!-- Premium Visual Card (CSS only) -->
     <div class="hero-visual">
       <div class="visual-card glass-card"></div>
+    </div>
   </div>
 </section>
 
@@ -52,7 +54,9 @@ description: "{{ site.description }}"
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
  
 
-       <span class="feature-text">Xe chất lượng</span>
+
+       <span class="feature-text">X
+e chất lượng</span>
       </div>
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
@@ -66,6 +70,7 @@ description: "{{ site.description }}"
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Giờ hoạt động: {{ business.hours }}</span>
       </div>
+    </div>
     {% else %}
     <h2>About {{ business.brand }}</h2>
     <p class="intro-text">
@@ -89,6 +94,7 @@ description: "{{ site.description }}"
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
         <span class="feature-text">Hours: {{ business.hours }}</span>
       </div>
+    </div>
     {% endif %}
   </div>
 </section>
@@ -124,6 +130,7 @@ et all your needs:</p>
       </div>
       {% endfor %}
     </div>
+  </div>
 </section>
 
 <!-- Latest Posts -->
@@ -163,7 +170,10 @@ et all your needs:</p>
     </div>
     {% else %}
     {% if current_lang == 'vi' %}
-    <p>Chưa có bài viết nào. Hãy quay lại sau!</p>
+    <p>Chư
+a 
+có
+ bài viết nào. Hãy quay lại sau!</p>
     {% else %}
     <p>No posts yet. Please check back later!</p>
     {% endif %}
@@ -202,6 +212,7 @@ et all your needs:</p>
         {% endif %}
       {% endfor %}
     </div>
+  </div>
 </section>
 
 <!-- Pricing Preview -->
@@ -233,8 +244,7 @@ et all your needs:</p>
       {% endfor %}
 
    
- <
-/div>
+ </div>
     
     <div class="text-center mt-4">
       {% if current_lang == 'vi' %}
@@ -243,6 +253,7 @@ et all your needs:</p>
       <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-outline">View all pricing</a>
       {% endif %}
     </div>
+  </div>
 </section>
 
 <!-- Service Areas -->
@@ -289,14 +300,17 @@ et all your needs:</p>
         </p>
         {% if current_lang == 'vi' %}
         <p>
-Chúng tôi cam kết:</p>
+Chú
+ng 
+tôi cam kết:</p>
         {% else %}
         <p>We commit to:</p>
         {% endif %}
         <ul class="commitments">
           {% if current_lang == 'vi' %}
           <li>Cung cấp xe chất lượng, được bảo dưỡng định kỳ</li>
-          <li>Giá cả minh bạch, không phát sinh phí ẩn</li>
+          <li>Giá cả minh bạch, không phát sinh phí ẩn</l
+i>
           <li>Giao xe tận nơi theo yêu cầu</li>
           {% else %}
           <li>Provide quality vehicles with regular maintenance</li>
@@ -319,6 +333,7 @@ Chúng tôi cam kết:</p>
           <p>{% include icon.html name="info" size="16" %} {{ business.hours }}</p>
         </address>
       </div>
+    </div>
   </div>
 </section>
 
@@ -334,9 +349,7 @@ Chúng tôi cam kết:</p>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
     </div>
     {% else %}
-    <h2>Need to rent a motorcycle in
- Han
-oi?<
+    <h2>Need to rent a motorcycle in Hanoi?<
 /h2>
     <p>Contact {{ business.brand }} for the best advice and support.</p>
     <div class="cta-group">
