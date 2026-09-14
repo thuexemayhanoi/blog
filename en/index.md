@@ -47,19 +47,19 @@ permalink: /en/
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
+        <span class="feature-icon">OK</span>
         <span class="feature-text">Quality Bikes</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
+        <span class="feature-icon">OK</span>
         <span class="feature-text">Transparent Pricing</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
+        <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
+        <span class="feature-icon">OK</span>
         <span class="feature-text">Hours: {{ business.hours }}</span>
       </div>
     </div>
@@ -116,7 +116,8 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Categories -->
+<!-- Blog Cat
+egories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -180,8 +181,7 @@ permalink: /en/
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span clas
-s="area-tag">{{ area }}</span>
+      <span class="area-tag">{{ area }}</span>
       {% endfor %}
     </div>
     
@@ -207,10 +207,10 @@ s="area-tag">{{ area }}</span>
       <div class="about-contact">
         <h3>Contact Information</h3>
         <address>
-          <p>{% include icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
-          <p>{% include icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>{% include icon.html name="message" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p>{% include icon.html name="info" size="16" %} {{ business.hours }}</p>
+          <p>📍 {{ business.address.full }}</p>
+          <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>🕒 {{ business.hours }}</p>
         </address>
       </div>
     </div>
