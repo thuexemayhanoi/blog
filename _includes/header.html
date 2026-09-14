@@ -1,7 +1,6 @@
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.main %}
 {% assign current_lang = page.lang | default: site.lang %}
-{% assign other_lang = current_lang == 'vi' ? 'en' : 'vi' %}
 
 <header class="site-header" role="banner">
   <div class="container">
@@ -38,8 +37,13 @@
         
         <div class="header-utilities">
           <div class="lang-switcher">
-            <a href="{% if current_lang == 'vi' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'vi' %}active{% endif %}">VI</a>
-            <a href="{% if current_lang == 'en' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'en' %}active{% endif %}">EN</a>
+            {% if current_lang == 'vi' %}
+            <a href="{{ '/' | relative_url }}" class="lang-btn active">VI</a>
+            <a href="{{ '/en/' | relative_url }}" class="lang-btn">EN</a>
+            {% else %}
+            <a href="{{ '/' | relative_url }}" class="lang-btn">VI</a>
+            <a href="{{ '/en/' | relative_url }}" class="lang-btn active">EN</a>
+            {% endif %}
           </div>
           <button class="theme-toggle" aria-label="Theme">
             <span class="sun">☀</span>
@@ -51,8 +55,13 @@
       
       <div class="mobile-utilities">
         <div class="lang-switcher">
-          <a href="{% if current_lang == 'vi' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'vi' %}active{% endif %}">VI</a>
-          <a href="{% if current_lang == 'en' %}{{ '/' | relative_url }}{% else %}{{ '/en/' | relative_url }}{% endif %}" class="lang-btn {% if current_lang == 'en' %}active{% endif %}">EN</a>
+          {% if current_lang == 'vi' %}
+          <a href="{{ '/' | relative_url }}" class="lang-btn active">VI</a>
+          <a href="{{ '/en/' | relative_url }}" class="lang-btn">EN</a>
+          {% else %}
+          <a href="{{ '/' | relative_url }}" class="lang-btn">VI</a>
+          <a href="{{ '/en/' | relative_url }}" class="lang-btn active">EN</a>
+          {% endif %}
         </div>
         <button class="theme-toggle">☀/☾</button>
         <button class="mobile-menu-toggle" aria-expanded="false">
@@ -73,30 +82,30 @@
       <button class="mobile-close">×</button>
     </div>
     <nav class="mobile-nav">
-      <ul>
+      <ul class="mobile-nav-list">
         {% for item in nav %}
           {% if item.children %}
-          <li class="has-submenu">
+          <li class="mobile-nav-item has-submenu">
             <button class="submenu-toggle" aria-expanded="false" {% if item.id == 'pricing' %}id="pricing-toggle"{% endif %}>
               <span>{{ item.name }}</span>
               <span class="submenu-arrow">▶</span>
             </button>
-            <ul class="submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %}>
+            <ul class="mobile-submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %}>
               {% for child in item.children %}
               <li>
-                <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
+                <a href="{{ child.url | relative_url }}" class="mobile-submenu-link">{{ child.name }}</a>
               </li>
               {% endfor %}
             </ul>
           </li>
           {% else %}
-          <li>
-            <a href="{{ item.url | relative_url }}">{{ item.name }}</a>
+          <li class="mobile-nav-item">
+            <a href="{{ item.url | relative_url }}" class="mobile-nav-link">{{ item.name }}</a>
           </li>
           {% endif %}
         {% endfor %}
-        <li>
-          <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}">💰 Tính giá</a>
+        <li class="mobile-nav-item">
+          <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="mobile-nav-link">💰 Tính giá</a>
         </li>
       </ul>
     </nav>
