@@ -61,7 +61,7 @@ Neu ban co bat ky cau hoi hoac thac mac nao ve chinh sach bao mat nay hoac cac t
 
 - {% include icon.html name="phone" size="16" %} **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
 - {% include icon.html name="message" size="16" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
-- {% include icon.html name="message" size="16" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- ✉️ **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
 ### Thay Doi Chinh Sach
 
