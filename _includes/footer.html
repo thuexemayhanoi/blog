@@ -1,5 +1,6 @@
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.footer %}
+{% assign current_lang = page.lang | default: 'vi' %}
 
 <footer class="site-footer" role="contentinfo">
   <div class="container">
@@ -12,40 +13,41 @@
         </a>
         <p class="brand-tagline">{{ site.description }}</p>
         <address class="business-address">
-          <p><strong>Địa chỉ:</strong> {{ business.address.full }}</p>
-          <p><strong>Điện thoại:</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p><strong>Email:</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p><strong>Giờ hoạt động:</strong> {{ business.hours }}</p>
+          <p><strong>{% if current_lang == 'vi' %}Địa chỉ:{% else %}Address:{% endif %}</strong> {{ business.address.full }}</p>
+          <p><strong>{% if current_lang == 'vi' %}Điện thoại:{% else %}Phone:{% endif %}</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p><strong>{% if current_lang == 'vi' %}Email:{% else %}Email:{% endif %}</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p><strong>{% if current_lang == 'vi' %}Giờ hoạt động:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
         </address>
         <div class="social-links">
-          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">💬 Zalo</a>
-          <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">📱 WhatsApp</a>
-          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">📍 Google Maps</a>
+          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">💬 {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}</a>
+          <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">📱 {% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}</a>
+          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">📍 {% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}</a>
         </div>
       </div>
       
       <!-- Links Columns -->
       {% for section in nav %}
       <div class="footer-col">
-        <h4>{{ section.title }}</h4>
+        <h4>{{ section.title[current_lang] }}</h4>
         <ul class="footer-links">
           {% for link in section.links %}
           <li>
             <a 
-              href="{{ link.url | relative_url }}" 
+              href="{% if link.url.vi or link.url.en %}{{ link.url[current_lang] | relative_url }}{% else %}{{ link.url | relative_url }}{% endif %}"
               {% if link.external %}target="_blank" rel="noopener noreferrer"{% endif %}
             >
-              {{ link.name }}
+              {{ link.name[current_lang] }}
             </a>
           </li>
           {% endfor %}
         </ul>
       </div>
       {% endfor %}
+
     </div>
     
     <div class="footer-bottom">
-      <p>&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}. All rights reserved.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {% if current_lang == 'vi' %}{{ business.display_name }}.{% else %}{{ business.display_name }}.{% endif %}</p>
     </div>
   </div>
 </footer>
