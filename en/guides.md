@@ -8,7 +8,7 @@ permalink: /en/guides/
 category: Guides
 ---
 
-{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Guides' or post.categories contains 'Chia se'" | sort: "date", "desc" %}
+{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Guides' or post.categories contains 'Chia se'" %}
 
 ## Guides
 
