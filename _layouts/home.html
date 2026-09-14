@@ -51,19 +51,20 @@ description: "{{ site.description }}"
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
-        <span class="feature-text">Xe chất lượng</span>
+        <span class="feature-icon">✓</span>
+        <span class="feature-text">X
+e chất lượng</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Giá cả minh bạch</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Giao nhận tận nơi</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Giờ hoạt động: {{ business.hours }}</span>
       </div>
     </div>
@@ -75,19 +76,19 @@ description: "{{ site.description }}"
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Quality vehicles</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Transparent pricing</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Delivery to your location</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">✅</span>
+        <span class="feature-icon">✓</span>
         <span class="feature-text">Hours: {{ business.hours }}</span>
       </div>
     </div>
@@ -174,7 +175,8 @@ description: "{{ site.description }}"
 <!-- Blog Categories -->
 <section class="section categories-section bg-light">
   <div class="container">
-    {% if current_lang == 'vi' %}
+    {% if current_l
+ang == 'vi' %}
     <h2>Các chủ đề blog</h2>
     {% else %}
     <h2>Blog Categories</h2>
@@ -238,7 +240,8 @@ description: "{{ site.description }}"
       {% if current_lang == 'vi' %}
       <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem toàn bộ bảng giá</a>
       {% else %}
-      <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-outline">View all pricing</a>
+      <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-outline">View a
+ll pricing</a>
       {% endif %}
     </div>
   </div>
@@ -294,7 +297,8 @@ description: "{{ site.description }}"
         <ul class="commitments">
           {% if current_lang == 'vi' %}
           <li>Cung cấp xe chất lượng, được bảo dưỡng định kỳ</li>
-          <li>Giá cả minh bạch, không phát sinh phí ẩn</li>
+          <li>Giá cả minh bạch, không phát sinh phí ẩn</l
+i>
           <li>Giao xe tận nơi theo yêu cầu</li>
           {% else %}
           <li>Provide quality vehicles with regular maintenance</li>
@@ -311,10 +315,10 @@ description: "{{ site.description }}"
         <h3>Contact Information</h3>
         {% endif %}
         <address>
-          <p>📍 {{ business.address.full }}</p>
-          <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p>🕒 {{ business.hours }}</p>
+          <p> {{ business.address.full }}</p>
+          <p> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p> {{ business.hours }}</p>
         </address>
       </div>
     </div>
@@ -343,3 +347,4 @@ description: "{{ site.description }}"
     {% endif %}
   </div>
 </section>
+
