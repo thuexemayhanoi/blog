@@ -1,0 +1,69 @@
+home:
+  vi: "/"
+  en: "/en/"
+
+blog:
+  vi: "/blog/"
+  en: "/en/blog/"
+
+about:
+  vi: "/gioi-thieu/"
+  en: "/en/about/"
+
+pricing:
+  vi: "/bang-gia/"
+  en: "/en/pricing/"
+
+contact:
+  vi: "/lien-he/"
+  en: "/en/contact/"
+
+travel:
+  vi: "/du-lich/"
+  en: "/en/travel/"
+
+rental-tips:
+  vi: "/kinh-nghiem/"
+  en: "/en/rental-tips/"
+
+guides:
+  vi: "/chia-se/"
+  en: "/en/guides/"
+
+privacy:
+  vi: "/bao-mat/"
+  en: "/en/privacy/"
+
+terms:
+  vi: "/dieu-khoan/"
+  en: "/en/terms/"
+
+# Vehicle pricing pages
+xe-so:
+  vi: "/bang-gia-xe-so/"
+  en: "/en/manual-motorbikes/"
+
+xe-ga:
+  vi: "/bang-gia-xe-ga/"
+  en: "/en/automatic-scooters/"
+
+xe-dien:
+  vi: "/bang-gia-xe-dien/"
+  en: "/en/electric-motorbikes/"
+
+xe-50cc:
+  vi: "/bang-gia-xe-50cc/"
+  en: "/en/electric-scooters/"
+
+# Blog posts
+goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi:
+  vi: "/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/"
+  en: "/en/hanoi-motorcycle-exploration-guide/"
+
+kinh-nghiem-thue-xe-may-ha-noi:
+  vi: "/kinh-nghiem-thue-xe-may-ha-noi/"
+  en: "/en/motorcycle-rental-experience-hanoi/"
+
+xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao:
+  vi: "/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+  en: "/en/manual-automatic-or-50cc-which-motorcycle-to-choose/"
