@@ -24,8 +24,11 @@ vehicles:
         min: null
         max: null
     deposit:
-      min: 1000000
-      max: 2000000
+      min: null
+      max: null
+    deposit_note:
+      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      en: "Deposit requirements must be confirmed directly."
     popular: true
     order: 1
   
@@ -50,8 +53,11 @@ vehicles:
         min: 1800000
         max: 2000000
     deposit:
-      min: 1500000
-      max: 2500000
+      min: null
+      max: null
+    deposit_note:
+      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      en: "Deposit requirements must be confirmed directly."
     popular: true
     order: 2
   
@@ -76,8 +82,11 @@ vehicles:
         min: 1400000
         max: 1400000
     deposit:
-      min: 1500000
-      max: 2500000
+      min: null
+      max: null
+    deposit_note:
+      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      en: "Deposit requirements must be confirmed directly."
     popular: true
     order: 3
   
@@ -102,8 +111,11 @@ vehicles:
         min: 1000000
         max: 1200000
     deposit:
-      min: 1000000
-      max: 2000000
+      min: null
+      max: null
+    deposit_note:
+      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      en: "Deposit requirements must be confirmed directly."
     popular: true
     order: 4
   
@@ -128,8 +140,11 @@ vehicles:
         min: 1400000
         max: 1400000
     deposit:
-      min: 1500000
-      max: 2500000
+      min: null
+      max: null
+    deposit_note:
+      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      en: "Deposit requirements must be confirmed directly."
     popular: true
     order: 5
   
@@ -156,6 +171,9 @@ vehicles:
     deposit:
       min: null
       max: null
+    deposit_note:
+      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
+      en: "Deposit requirements must be confirmed directly."
     popular: false
     order: 6
     note:
@@ -185,16 +203,16 @@ rental_types:
     days: 30
     order: 3
 
-# Delivery fees (one-way, VND)
-delivery_fees:
-  same_district: 0
-  nearby_districts: 20000
-  central_hanoi: 50000
-  outer_hanoi: 100000
+# Delivery fees - need to be confirmed directly
+# delivery_fees:
+#   same_district: 0
+#   nearby_districts: 20000
+#   central_hanoi: 50000
+#   outer_hanoi: 100000
 
 # Notes
 disclaimer:
-  vi: "Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe."
+  vi: "Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận xe cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe."
   en: "This is an estimated price based on the current reference rates. Vehicle availability, deposit, delivery fees and final rental price should be confirmed directly with Nguyen Tu before booking."
 
 currency: "VND"
