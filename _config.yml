@@ -1,44 +1,17 @@
 theme: minima
 lang: vi-VN
-title: "Thue Xe May Ha Noi Nguyen Tu"
+title: "Thuê Xe Máy Hà Nội Nguyễn Tú"
 email: nguyentuantu8x@gmail.com
-description: "Kinh nghiem thue xe may Ha Noi, chon xe, du lich, bang gia va huong dan di chuyen tu Nguyen Tu."
+description: "Kinh nghiệm thuê xe máy Hà Nội, chọn xe, du lịch, bảng giá và hướng dẫn di chuyển từ Nguyễn Tú."
 baseurl: "/blog"
 url: "https://thuexemayhanoi.github.io"
-author: "Nguyen Tu"
+author: "Nguyễn Tú"
 business_url: "https://thuexemaynguyentu.com/"
 
 # Jekyll settings
 plugins:
   - jekyll-sitemap
   - jekyll-feed
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      lang: "vi"
-  - scope:
-      path: "en"
-      type: "pages"
-    values:
-      layout: "page"
-      lang: "en"
-  - scope:
-      path: "_posts"
-      type: "posts"
-    values:
-      layout: "post"
-      lang: "vi"
-  - scope:
-      path: "en/_posts"
-      type: "posts"
-    values:
-      layout: "post"
-      lang: "en"
 
 # Exclude
 exclude:
@@ -52,7 +25,3 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - README.md
-  - LICENSE
-  - .git/
-  - .gitignore
