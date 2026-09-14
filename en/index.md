@@ -55,8 +55,6 @@ permalink: /en/
         <span class="feature-text">Transparent Pricing</span>
       </div>
       <div class="intro-fe
-
-
 ature">
         <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
@@ -119,8 +117,9 @@ ature">
   </div>
 </section>
 
-<!-- Blog C
-ategories -->
+<!-- Blog Cat
+
+egories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -184,8 +183,8 @@ ategories -->
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span cl
-ass="area-tag">{{ area }}</span>
+      <span cla
+ss="area-tag">{{ area }}</span>
       {% endfor %}
     </div>
     
@@ -233,5 +232,7 @@ ass="area-tag">{{ area }}</span>
     </div>
  
 
- </div>
+
+ 
+</div>
 </section>

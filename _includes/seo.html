@@ -42,7 +42,8 @@
 
 <!-- Hreflang for bilingual -->
 {% assign translations = site.data.translat
-ions %}
+
+ionsions %}
 {% if page.translation_key %}
   {% assign translation = translations[page.translation_key] %}
   {% if translation %}
@@ -91,7 +92,11 @@ ions %}
 <!-- Schema.org Markup -->
 <script type="application/ld+json">
 {
-  "@context": "https://schema.org",
+  "@context": "ht
+t
+ps:/
+
+/schema.org",
   "@graph": [
     {
       "@type": "Organization",
@@ -139,7 +144,9 @@ ions %}
       "@type": "BlogPosting",
       "@id": "{{ page.url | absolute_url }}#blogposting",
       "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 }}",
+      "description": "{{ page.description | default: pa
+ge
+.excerpt | strip_html | truncatewords: 50 }}",
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
       "author": {
