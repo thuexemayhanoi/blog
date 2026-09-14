@@ -11,7 +11,7 @@ layout: default
       {% if page.categories %}
       <div class="post-categories">
         {% for category in page.categories %}
-        <a href="{% case category %}{% when 'Du lịch' %}{{ '/du-lich/' | relative_url }}{% when 'Kinh nghiệm' %}{{ '/kinh-nghiem/' | relative_url }}{% when 'Chia sẻ' %}{{ '/chia-se/' | relative_url }}{% else %}{{ '/' | append: category | slugify | append: '/' | relative_url }}{% endcase %}" class="category-tag">{{ category }}</a>
+        <a href="{{ '/' | append: category | slugify | append: '/' | relative_url }}" class="category-tag">{{ category }}</a>
         {% endfor %}
       </div>
       {% endif %}
@@ -57,7 +57,8 @@ layout: default
         {% if current_lang == 'vi' %}
           Bài sau: {{ page.next.title }} {% include icon.html name="chevron-right" %}
         {% else %}
-          Next: {{ page.next.title }} {% include icon.html name="chevron-right" %}
+          Next: {{ page.next.tit
+le }} {% include icon.html name="chevron-right" %}
         {% endif %}
       </a>
       {% endif %}
@@ -68,7 +69,8 @@ layout: default
         {% if current_lang == 'vi' %}
           Bạn cần thuê xe máy tại Hà Nội?
         {% else %}
-          Need to rent a motorcycle in Hanoi?
+          N
+eed to rent a motorcycle in Hanoi?
         {% endif %}
       </h3>
       <p>
