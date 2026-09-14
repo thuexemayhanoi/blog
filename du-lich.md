@@ -8,7 +8,7 @@ category: Du lich
 ---
 
 {% assign current_lang = page.lang | default: site.lang %}
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Du lich'" %}
+{% assign posts = site.posts | where: "lang", "vi" %}
 
 ## Bai Viet Du Lich
 
@@ -17,12 +17,14 @@ Kham pha Ha Noi va nhung dia diem xung quanh voi nhung cam nang cua chung toi:
 {% if posts.size > 0 %}
 <div class="post-grid">
   {% for post in posts %}
+  {% if post.categories contains 'Du lich' %}
   <article class="post-card glass-card">
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p class="post-date">Dang ngay {{ post.date | date: "%d/%m/%Y" }}</p>
     <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
     <a href="{{ post.url | relative_url }}" class="read-more">Doc tiep</a>
   </article>
+  {% endif %}
   {% endfor %}
 </div>
 {% else %}
