@@ -7,7 +7,8 @@ translation_key: sharing
 category: Chia se
 ---
 
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Chia se'" | sort: "date", "desc" %}
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Chia se'" %}
 
 ## Bai Viet Chia Se
 
