@@ -7,7 +7,8 @@ translation_key: travel
 category: Du lich
 ---
 
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Du lich'" | sort: "date", "desc" %}
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Du lich'" %}
 
 ## Bai Viet Du Lich
 
