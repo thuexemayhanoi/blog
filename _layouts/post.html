@@ -11,7 +11,7 @@ layout: default
       {% if page.categories %}
       <div class="post-categories">
         {% for category in page.categories %}
-        <a href="{{ '/' | append: category | slugify | append: '/' | relative_url }}" class="category-tag">{{ category }}</a>
+        <a href="{% case category %}{% when 'Du lịch' %}/du-lich/{% when 'Kinh nghiệm' %}/kinh-nghiem/{% when 'Chia sẻ' %}/chia-se/{% else %}{{ category | slugify | prepend: "/" | append: "/" }}{% endcase %}" class="category-tag">{{ category }}</a>
         {% endfor %}
       </div>
       {% endif %}
