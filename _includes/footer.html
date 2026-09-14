@@ -4,99 +4,36 @@
 
 <footer class="site-footer" role="contentinfo">
   <div class="container">
-    <!-- Desktop Footer Grid -->
-    <div class="footer-grid desktop-footer">
-      <!-- Brand Column -->
-      <div class="footer-col brand-col">
-        <a href="{{ '/' | relative_url }}" class="footer-logo">
-          <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="48" height="48">
-          <span class="brand-name">{{ business.display_name }}</span>
-        </a>
-        <p class="brand-tagline">{{ site.description }}</p>
-        <address class="business-address">
-          <p><strong>{% if current_lang == 'vi' %}Dia chi:{% else %}Address:{% endif %}</strong> {{ business.address.full }}</p>
-          <p><strong>{% if current_lang == 'vi' %}Dien thoai:{% else %}Phone:{% endif %}</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p><strong>{% if current_lang == 'vi' %}Email:{% else %}Email:{% endif %}</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p><strong>{% if current_lang == 'vi' %}Gio hoat dong:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
-        </address>
-        <div class="social-links">
-          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
-            {% include icon.html name="message" size="18" %}
-            {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}
-          </a>
-          <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
-            {% include icon.html name="whatsapp" size="18" %}
-            {% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}
-          </a>
-          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
-            {% include icon.html name="map-pin" size="18" %}
-            {% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}
-          </a>
-        </div>
-      </div>
-      
-      <!-- Links Columns -->
-      {% for section in nav %}
-      <div class="footer-col">
-        <h4>{{ section.title[current_lang] }}</h4>
-        <ul class="footer-links" style="list-style: none; margin: 0; padding-left: 0;">
-          {% for link in section.links %}
-          <li>
-            <a 
-              {% if link.external %}
-                href="{{ link.url }}"
-                target="_blank" rel="noopener noreferrer"
-              {% else %}
-                href="{{ link.url[current_lang] | relative_url }}"
-              {% endif %}
-            >
-              {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
-              {{ link.name[current_lang] }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endfor %}
-    </div>
-    
     <!-- Mobile Footer Accordion -->
-    <div class="mobile-footer-accordion">
-      <div class="footer-col brand-col">
-        <a href="{{ '/' | relative_url }}" class="footer-logo">
-          <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="48" height="48">
-          <span class="brand-name">{{ business.display_name }}</span>
-        </a>
-        <p class="brand-tagline">{{ site.description }}</p>
-        <address class="business-address">
-          <p><strong>{% if current_lang == 'vi' %}Dia chi:{% else %}Address:{% endif %}</strong> {{ business.address.full }}</p>
-          <p><strong>{% if current_lang == 'vi' %}Dien thoai:{% else %}Phone:{% endif %}</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p><strong>{% if current_lang == 'vi' %}Email:{% else %}Email:{% endif %}</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p><strong>{% if current_lang == 'vi' %}Gio hoat dong:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
-        </address>
-        <div class="social-links">
-          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
-            {% include icon.html name="message" size="18" %}
-            Zalo
-          </a>
-          <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
-            {% include icon.html name="whatsapp" size="18" %}
-            WhatsApp
-          </a>
-          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
-            {% include icon.html name="map-pin" size="18" %}
-            Google Maps
-          </a>
+    <div class="mobile-footer">
+      <details class="footer-accordion" open>
+        <summary class="footer-accordion-title">{{ business.display_name }}</summary>
+        <div class="footer-accordion-content">
+          <p class="brand-tagline">{{ site.description }}</p>
+          <address class="business-address">
+            <p><strong>{% if current_lang == 'vi' %}Địa chỉ:{% else %}Address:{% endif %}</strong> {{ business.address.full }}</p>
+            <p><strong>{% if current_lang == 'vi' %}Điện thoại:{% else %}Phone:{% endif %}</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+            <p><strong>{% if current_lang == 'vi' %}Email:{% else %}Email:{% endif %}</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+            <p><strong>{% if current_lang == 'vi' %}Giờ hoạt động:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
+          </address>
+          <div class="social-links">
+            <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
+              {% include icon.html name="message" size="18" %} Zalo
+            </a>
+            <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
+              {% include icon.html name="whatsapp" size="18" %} WhatsApp
+            </a>
+            <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
+              {% include icon.html name="map-pin" size="18" %} Google Maps
+            </a>
+          </div>
         </div>
-      </div>
-      
+      </details>
+
       {% for section in nav %}
-      <details class="footer-accordion-item">
-        <summary class="footer-accordion-header">
-          <span>{{ section.title[current_lang] }}</span>
-          {% include icon.html name="chevron-down" size="16" class="accordion-icon" %}
-        </summary>
-        <ul class="footer-accordion-links" style="list-style: none; margin: 0; padding-left: 0;">
+      <details class="footer-accordion">
+        <summary class="footer-accordion-title">{{ section.title[current_lang] }}</summary>
+        <ul class="footer-links" style="list-style: none; margin: 0; padding-left: 0;">
           {% for link in section.links %}
           <li>
             <a 
@@ -117,65 +54,63 @@
       {% endfor %}
     </div>
     
-    <div class="footer-bottom">
-      <p>&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}.</p>
+    <!-- Desktop Footer -->
+    <div class="desktop-footer">
+      <div class="footer-grid">
+        <!-- Brand Column -->
+        <div class="footer-col brand-col">
+          <a href="{{ '/' | relative_url }}" class="footer-logo">
+            <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="48" height="48">
+            <span class="brand-name">{{ business.display_name }}</span>
+          </a>
+          <p class="brand-tagline">{{ site.description }}</p>
+          <address class="business-address">
+            <p><strong>{% if current_lang == 'vi' %}Địa chỉ:{% else %}Address:{% endif %}</strong> {{ business.address.full }}</p>
+            <p><strong>{% if current_lang == 'vi' %}Điện thoại:{% else %}Phone:{% endif %}</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+            <p><strong>{% if current_lang == 'vi' %}Email:{% else %}Email:{% endif %}</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+            <p><strong>{% if current_lang == 'vi' %}Giờ hoạt động:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
+          </address>
+          <div class="social-links">
+            <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
+              {% include icon.html name="message" size="18" %} Zalo
+            </a>
+            <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
+              {% include icon.html name="whatsapp" size="18" %} WhatsApp
+            </a>
+            <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
+              {% include icon.html name="map-pin" size="18" %} Google Maps
+            </a>
+          </div>
+        </div>
+
+        <!-- Links Columns -->
+        {% for section in nav %}
+        <div class="footer-col">
+          <h4>{{ section.title[current_lang] }}</h4>
+          <ul class="footer-links" style="list-style: none; margin: 0; padding-left: 0;">
+            {% for link in section.links %}
+            <li>
+              <a 
+                {% if link.external %}
+                  href="{{ link.url }}"
+                  target="_blank" rel="noopener noreferrer"
+                {% else %}
+                  href="{{ link.url[current_lang] | relative_url }}"
+                {% endif %}
+              >
+                {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
+                {{ link.name[current_lang] }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        {% endfor %}
+      </div>
+      
+      <div class="footer-bottom">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}.</p>
+      </div>
     </div>
   </div>
 </footer>
-
-<style>
-  .mobile-footer-accordion {
-    display: none;
-  }
-  
-  .footer-accordion-item {
-    margin-bottom: var(--space-md);
-  }
-  
-  .footer-accordion-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: var(--space-md);
-    cursor: pointer;
-    background: var(--bg-light);
-    border-radius: var(--radius-md);
-    font-weight: 600;
-  }
-  
-  .footer-accordion-header .accordion-icon {
-    transition: transform 0.2s ease;
-  }
-  
-  .footer-accordion-item[open] .footer-accordion-header .accordion-icon {
-    transform: rotate(180deg);
-  }
-  
-  .footer-accordion-links {
-    padding: var(--space-md);
-    background: var(--bg);
-    border-radius: 0 0 var(--radius-md) var(--radius-md);
-  }
-  
-  .footer-accordion-links li {
-    padding: var(--space-xs) 0;
-  }
-  
-  @media (max-width: 820px) {
-    .desktop-footer {
-      display: none;
-    }
-    
-    .mobile-footer-accordion {
-      display: block;
-    }
-    
-    .footer-grid {
-      display: none;
-    }
-    
-    .brand-col {
-      margin-bottom: var(--space-xl);
-    }
-  }
-</style>
