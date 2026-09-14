@@ -2,7 +2,7 @@
 {% assign business = site.data.business %}
 {% assign current_lang = page.lang | default: site.lang %}
 
-<section class="calculator-section" id="tinh-gia">
+<section class="calculator-section" id="{% if current_lang == 'en' %}rental-calculator{% else %}tinh-gia{% endif %}">
   <div class="container">
     <div class="calculator-card glass-card">
       <h2>
