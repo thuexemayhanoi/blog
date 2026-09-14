@@ -18,7 +18,7 @@
             <li class="dropdown">
               <button class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="menuitem">
                 <span>{{ item.name[current_lang] }}</span>
-                <span class="dropdown-icon">▼</span>
+                {% include icon.html name="chevron-down" size="16" class="dropdown-icon" %}
               </button>
               <ul class="dropdown-menu" role="menu">
                 {% for child in item.children %}
@@ -59,14 +59,18 @@
               {% endif %}
             {% endif %}
           </div>
-          <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chủ đề{% else %}Theme{% endif %}">
-            <span class="sun">☀</span>
-            <span class="moon">☾</span>
+          <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chuyển sang chế độ tối{% else %}Switch to dark mode{% endif %}" data-theme-toggle>
+            {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
+            {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
           </button>
           {% if current_lang == 'vi' %}
-            <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="calc-link" aria-label="Tính giá">💰</a>
+            <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="calc-link" aria-label="Tính giá">
+              {% include icon.html name="calculator" size="20" %}
+            </a>
           {% else %}
-            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="calc-link" aria-label="Calculate price">💰</a>
+            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="calc-link" aria-label="Calculate price">
+              {% include icon.html name="calculator" size="20" %}
+            </a>
           {% endif %}
         </div>
       </nav>
@@ -92,9 +96,12 @@
             {% endif %}
           {% endif %}
         </div>
-        <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chủ đề{% else %}Theme{% endif %}">☀/☾</button>
+        <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chuyển sang chế độ tối{% else %}Switch to dark mode{% endif %}" data-theme-toggle>
+          {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
+          {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
+        </button>
         <button class="mobile-menu-toggle" aria-expanded="false" aria-label="{% if current_lang == 'vi' %}Mở menu{% else %}Open menu{% endif %}">
-          <span class="hamburger"></span>
+          {% include icon.html name="menu" size="24" class="hamburger" %}
         </button>
       </div>
     </div>
@@ -108,22 +115,28 @@
         <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
         <span>{{ business.brand }}</span>
       </a>
-      <button class="mobile-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% endif %}">×</button>
+      <button class="mobile-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% endif %}">
+        {% include icon.html name="close" size="24" %}
+      </button>
     </div>
     <nav class="mobile-nav">
-      <ul class="mobile-nav-list">
+      <ul class="mobile-nav-list" style="list-style: none; margin: 0; padding-left: 0;">
         {% for item in nav %}
           {% if item.children %}
           <li class="mobile-nav-item has-submenu">
             <button class="submenu-toggle" aria-expanded="false" {% if item.id == 'pricing' %}id="pricing-toggle"{% endif %}>
+              {% include icon.html name=item.icon size="20" %}
               <span>{{ item.name[current_lang] }}</span>
-              <span class="submenu-arrow">▶</span>
+              {% include icon.html name="chevron-right" size="16" class="submenu-arrow" %}
             </button>
-            <ul class="mobile-submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %}>
+            <ul class="mobile-submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %} style="list-style: none; margin: 0; padding-left: 0;">
               {% for child in item.children %}
               <li>
                 {% assign child_url = child.url[current_lang] %}
-                <a href="{{ child_url | relative_url }}" class="mobile-submenu-link">{{ child.name[current_lang] }}</a>
+                <a href="{{ child_url | relative_url }}" class="mobile-submenu-link">
+                  {% include icon.html name=child.icon size="18" %}
+                  {{ child.name[current_lang] }}
+                </a>
               </li>
               {% endfor %}
             </ul>
@@ -131,24 +144,45 @@
           {% else %}
           <li class="mobile-nav-item">
             {% assign item_url = item.url[current_lang] %}
-            <a href="{{ item_url | relative_url }}" class="mobile-nav-link">{{ item.name[current_lang] }}</a>
+            <a href="{{ item_url | relative_url }}" class="mobile-nav-link">
+              {% include icon.html name=item.icon size="20" %}
+              {{ item.name[current_lang] }}
+            </a>
           </li>
           {% endif %}
         {% endfor %}
         <li class="mobile-nav-item">
           {% if current_lang == 'vi' %}
-            <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="mobile-nav-link">💰 Tính giá</a>
+            <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="mobile-nav-link">
+              {% include icon.html name="calculator" size="20" %}
+              Tính giá
+            </a>
           {% else %}
-            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="mobile-nav-link">💰 Calculate</a>
+            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="mobile-nav-link">
+              {% include icon.html name="calculator" size="20" %}
+              Calculate
+            </a>
           {% endif %}
         </li>
       </ul>
     </nav>
     <div class="mobile-footer">
-      <a href="{{ business.contact.phone_uri }}" class="action-btn">📞 {% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}</a>
-      <a href="{{ business.contact.zalo }}" class="action-btn">💬 {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}</a>
-      <a href="{{ business.contact.whatsapp }}" class="action-btn">📱 {% if current_lang == 'vi' %}WA{% else %}WhatsApp{% endif %}</a>
-      <a href="{{ business.contact.maps }}" class="action-btn">📍 {% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}</a>
+      <a href="{{ business.contact.phone_uri }}" class="action-btn">
+        {% include icon.html name="phone" size="20" %}
+        {% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}
+      </a>
+      <a href="{{ business.contact.zalo }}" class="action-btn">
+        {% include icon.html name="message" size="20" %}
+        {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}
+      </a>
+      <a href="{{ business.contact.whatsapp }}" class="action-btn">
+        {% include icon.html name="whatsapp" size="20" %}
+        {% if current_lang == 'vi' %}WA{% else %}WhatsApp{% endif %}
+      </a>
+      <a href="{{ business.contact.maps }}" class="action-btn">
+        {% include icon.html name="map-pin" size="20" %}
+        {% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}
+      </a>
     </div>
   </div>
 </div>
