@@ -7,6 +7,7 @@ translation_key: blog
 ---
 
 {% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
 
 ## Blog Cua Chung Toi
 
