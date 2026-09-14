@@ -1,5 +1,5 @@
 brand: "Nguyen Tu"
-display_name: "Thue Xe May Ha Noi Nguyen Tu"
+display_name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
 url: "https://thuexemaynguyentu.com/"
 logo: "/IMG_2536.jpeg"
 
@@ -22,58 +22,58 @@ contact:
 hours: "09:00 - 21:00"
 
 services:
-  - "Thue xe so"
-  - "Thue xe tay ga"
-  - "Thue xe may 50cc"
-  - "Thue xe may dien"
-  - "Thue xe dap dien"
-  - "Thue theo ngay"
-  - "Thue theo tuan"
-  - "Thue theo thang"
-  - "Giao nhan xe theo khu vuc tai Ha Noi"
+  - "Thuê xe số"
+  - "Thuê xe tay ga"
+  - "Thuê xe máy 50cc"
+  - "Thuê xe máy điện"
+  - "Thuê xe đạp điện"
+  - "Thuê theo ngày"
+  - "Thuê theo tuần"
+  - "Thuê theo tháng"
+  - "Giao nhận xe theo khu vực tại Hà Nội"
 
 areas:
-  - "Bo De"
-  - "Long Bien"
-  - "Gia Lam"
-  - "Hoan Kiem"
-  - "Pho Co"
-  - "Ba Dinh"
-  - "Tay Ho"
-  - "Noi thanh Ha Noi"
+  - "Bồ Đề"
+  - "Long Biên"
+  - "Gia Lâm"
+  - "Hoàn Kiếm"
+  - "Phố Cổ"
+  - "Ba Đình"
+  - "Tây Hồ"
+  - "Nội thành Hà Nội"
 
 vehicle_types:
-  - name: "Xe so"
+  - name: "Xe số"
     examples: ["Honda Wave", "Yamaha Sirius"]
-    description: "Xe con truyen thong, de dieu khien"
+    description: "Xe côn truyền thống, dễ điều khiển"
   
   - name: "Xe tay ga"
     examples: ["Honda Vision", "Honda Air Blade", "Honda Click", "Yamaha Mio"]
-    description: "Xe ga hien dai, thoai mai"
+    description: "Xe ga hiện đại, thoải mái"
   
   - name: "Xe 50cc"
     examples: ["Honda Cub 50cc", "Xe ga 50cc"]
-    description: "Xe cong suat nho, phu hop cho du khach"
+    description: "Xe công suất nhỏ, phù hợp cho du khách"
   
-  - name: "Xe may dien"
+  - name: "Xe máy điện"
     examples: []
-    description: "Xe than thien moi truong, khong phat thai"
+    description: "Xe thân thiện môi trường, không phát thải"
   
-  - name: "Xe dap dien"
+  - name: "Xe đạp điện"
     examples: []
-    description: "Nhe nhang, phu hop cho khoang cach ngan"
+    description: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
 
 rental_types:
-  - name: "Theo ngay"
-    description: "Linh hoat cho nhu cau ngan han"
+  - name: "Theo ngày"
+    description: "Linh hoạt cho nhu cầu ngắn hạn"
   
-  - name: "Theo tuan"
-    description: "Tiet kiem cho chuyen di dai ngay"
+  - name: "Theo tuần"
+    description: "Tiết kiệm cho chuyến đi dài ngày"
   
-  - name: "Theo thang"
-    description: "Gia uu dai cho thue dai han"
+  - name: "Theo tháng"
+    description: "Giá ưu đãi cho thuê dài hạn"
 
 notes:
-  - "Tinh trang xe, gia thue, tien dat coc va chi phi giao nhan co the thay doi"
-  - "Can xac nhan truc tiep voi Nguyen Tu truoc khi dat xe"
-  - "Khong giao xe ngoai gio hoat dong (09:00 - 21:00)"
+  - "Tình trạng xe, giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi"
+  - "Cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe"
+  - "Không giao xe ngoài giờ hoạt động (09:00 - 21:00)"
