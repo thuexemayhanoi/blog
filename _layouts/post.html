@@ -55,7 +55,8 @@ layout: default
       
       {% if prev_post %}
       <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
-        {% if current_lang == 'vi' %}          {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
+{% if current_lang == 'vi' %{% if current_lang == 'vi' %}
+          {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
         {% else %}
           {% include icon.html name="chevron-left" %} Previous: {{ prev_post.title }}
         {% endif %}
