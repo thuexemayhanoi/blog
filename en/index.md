@@ -77,7 +77,7 @@ permalink: /en/
       <div class="service-card glass-card">
         <h3>{{ vehicle.name }}</h3>
         <p>{{ vehicle.description }}</p>
-        {% if vehicle.examples.size > 0 %}
+        {% if vehicle.examples and vehicle.examples.size > 0 %}
         <p class="examples"><em>Examples: {{ vehicle.examples | join: ', ' }}</em></p>
         {% endif %}
       </div>
@@ -129,8 +129,14 @@ permalink: /en/
           <a href="{{ '/en' | append: child.url | relative_url }}" class="category-card glass-card">
             <h3>{{ child.name }}</h3>
             <p>
-              {% assign category_posts = site.posts | where_exp: "post", "post.categories contains child.name" | where: "lang", "en" %}
-              {{ category_posts.size }} posts
+              {% assign category = child.name %}
+              {% assign category_posts = site.posts | where: "lang", "en" %}
+              {% for post in category_posts %}
+                {% if post.categories contains child.name %}
+                  {{ forloop.index }}
+                {% endif %}
+              {% endfor %}
+              posts
             </p>
           </a>
           {% endfor %}
