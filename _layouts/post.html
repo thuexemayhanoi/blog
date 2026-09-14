@@ -4,7 +4,6 @@ layout: default
 
 {% assign business = site.data.business %}
 {% assign current_lang = page.lang | default: site.lang %}
-{% assign categories_map = site.data.categories %}
 
 <article class="post-detail">
   <header class="post-header">
@@ -12,18 +11,12 @@ layout: default
       {% if page.categories %}
       <div class="post-categories">
         {% for category in page.categories %}
-        {% assign category_url = '' %}
-        {% for cat in categories_map %}
-          {% if cat.name == category %}
-            {% assign category_url = cat.url %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
-        {% if category_url != '' %}
-        <a href="{{ category_url | relative_url }}" class="category-tag">{{ category }}</a>
-        {% else %}
-        <span class="category-tag">{{ category }}</span>
-        {% endif %}
+        <a href="{% case category %}
+  {% when 'Du lịch' %}/du-lich/
+  {% when 'Kinh nghiệm' %}/kinh-nghiem/
+  {% when 'Chia sẻ' %}/chia-se/
+  {% else %}{{ category | slugify | prepend: "/" | append: "/" | relative_url }}
+{% endcase %}" class="category-tag">{{ category }}</a>
         {% endfor %}
       </div>
       {% endif %}
@@ -54,16 +47,18 @@ layout: default
     </div>
     
     <div class="post-navigation">
-      {% assign same_lang_posts = site.posts | where: "lang", page.lang | sort: "date" | reverse %}
+      {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
+      {% assign same_lang_sorted = same_lang_posts | sort: "date", "desc" %}
       {% assign current_index = 0 %}
-      {% for post in same_lang_posts %}
+      {% for post in same_lang_sorted %}
         {% if post.url == page.url %}
           {% assign current_index = forloop.index0 %}
           {% break %}
         {% endif %}
       {% endfor %}
+      {% assign prev_post = same_lang_sorted[current_index | plus: 1] %}
+      {% assign next_post = same_lang_sorted[current_index | minus: 1] %}
       
-      {% assign prev_post = same_lang_posts[current_index - 1] %}
       {% if prev_post %}
       <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
         {% if current_lang == 'vi' %}
@@ -74,7 +69,6 @@ layout: default
       </a>
       {% endif %}
       
-      {% assign next_post = same_lang_posts[current_index + 1] %}
       {% if next_post %}
       <a href="{{ next_post.url | relative_url }}" class="nav-link next">
         {% if current_lang == 'vi' %}
@@ -91,7 +85,8 @@ layout: default
         {% if current_lang == 'vi' %}
           Bạn cần thuê xe máy tại Hà Nội?
         {% else %}
-          Need to rent a motorcycle in Hanoi?
+          N
+eed to rent a motorcycle in Hanoi?
         {% endif %}
       </h3>
       <p>
