@@ -210,8 +210,8 @@ s="area-tag">{{ area }}</span>
         <h3>Contact Information</h3>
         <address>
           <p>{% include icon.html name="map-pin" %} {{ business.address.full }}</p>
-          <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>{% include icon.html name="phone" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>{% include icon.html name="message" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
           <p>🕒 {{ business.hours }}</p>
         </address>
       </div>
