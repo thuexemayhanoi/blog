@@ -54,7 +54,8 @@ permalink: /en/
         <span class="feature-icon">OK</span>
         <span class="feature-text">Transparent Pricing</span>
       </div>
-      <div class="intro-feature">
+      <div class="intro-fe
+ature">
         <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
       </div>
@@ -116,7 +117,8 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Categories -->
+<!-- Blog Cat
+egories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -180,7 +182,9 @@ permalink: /en/
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span class="area-tag">{{ area }}</span>      {% endfor %}
+      <span clas
+s="area-tag">{{ area }}</span>
+      {% endfor %}
     </div>
     
     <p class="note"><em>Note: Delivery time and fees may vary depending on the area. Please confirm before booking.</em></p>
@@ -205,7 +209,7 @@ permalink: /en/
       <div class="about-contact">
         <h3>Contact Information</h3>
         <address>
-          <p>📍 {{ business.address.full }}</p>
+          <p>{% include icon.html name="map-pin" %} {{ business.address.full }}</p>
           <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
           <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
           <p>🕒 {{ business.hours }}</p>
@@ -227,4 +231,3 @@ permalink: /en/
     </div>
   </div>
 </section>
-
