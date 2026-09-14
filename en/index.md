@@ -116,8 +116,7 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Cat
-egories -->
+<!-- Blog Categories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -181,8 +180,7 @@ egories -->
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span class="area-tag">{{ area }}</span>
-      {% endfor %}
+      <span class="area-tag">{{ area }}</span>      {% endfor %}
     </div>
     
     <p class="note"><em>Note: Delivery time and fees may vary depending on the area. Please confirm before booking.</em></p>
@@ -207,10 +205,10 @@ egories -->
       <div class="about-contact">
         <h3>Contact Information</h3>
         <address>
-          <p>{% include icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
-          <p>{% include icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>{% include icon.html name="contact" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p>{% include icon.html name="clock" size="16" %} {{ business.hours }}</p>
+          <p>📍 {{ business.address.full }}</p>
+          <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>🕒 {{ business.hours }}</p>
         </address>
       </div>
     </div>
@@ -229,3 +227,4 @@ egories -->
     </div>
   </div>
 </section>
+
