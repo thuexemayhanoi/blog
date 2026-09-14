@@ -47,19 +47,19 @@ permalink: /en/
     
     <div class="intro-features">
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
+        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
         <span class="feature-text">Quality Bikes</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
+        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
         <span class="feature-text">Transparent Pricing</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
+        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
         <span class="feature-text">Delivery Service</span>
       </div>
       <div class="intro-feature">
-        <span class="feature-icon">OK</span>
+        <span class="feature-icon">{% include icon.html name="sparkles" size="18" %}</span>
         <span class="feature-text">Hours: {{ business.hours }}</span>
       </div>
     </div>
@@ -116,7 +116,8 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Categories -->
+<!-- Blog Cat
+egories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -180,7 +181,8 @@ permalink: /en/
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span class="area-tag">{{ area }}</span>
+      <span clas
+s="area-tag">{{ area }}</span>
       {% endfor %}
     </div>
     
