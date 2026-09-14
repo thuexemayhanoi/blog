@@ -116,8 +116,7 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog C
-ategories -->
+<!-- Blog Categories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -182,6 +181,7 @@ ategories -->
     <div class="areas-list">
       {% for area in business.areas %}
       <span cl
+
 ass="area-tag">{{ area }}</span>
       {% endfor %}
     </div>
@@ -229,6 +229,7 @@ ass="area-tag">{{ area }}</span>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
     </div>
  
+
 
  </div>
 </section>
