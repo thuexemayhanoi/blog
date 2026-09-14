@@ -8,6 +8,7 @@ permalink: /en/blog/
 ---
 
 {% assign business = site.data.business %}
+{% assign current_lang = page.lang | default: site.lang %}
 
 ## Our Blog
 
@@ -15,7 +16,7 @@ Welcome to the Nguyen Tu Motorcycle Rental blog! Here you will find useful infor
 
 ### Latest Posts
 
-{% assign en_posts = site.posts | where: "lang", "en" | sort: "date", "desc" %}
+{% assign en_posts = site.posts | where: "lang", "en" %}
 
 {% if en_posts.size > 0 %}
 <div class="post-grid">
