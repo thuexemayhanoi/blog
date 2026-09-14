@@ -5,16 +5,16 @@
 <div class="contact-rail">
   <div class="contact-rail__buttons">
     <a href="{{ business.contact.phone_uri }}" class="contact-rail__btn" title="{% if current_lang == 'vi' %}Gọi {{ business.contact.phone }}{% else %}Call {{ business.contact.phone }}{% endif %}">
-      <span class="contact-rail__icon">📞</span>
+      {% include icon.html name="phone" size="22" class="contact-rail__icon" %}
     </a>
     <a href="{{ business.contact.zalo }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}">
-      <span class="contact-rail__icon">💬</span>
+      {% include icon.html name="message" size="22" class="contact-rail__icon" %}
     </a>
     <a href="{{ business.contact.whatsapp }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}">
-      <span class="contact-rail__icon">📱</span>
+      {% include icon.html name="whatsapp" size="22" class="contact-rail__icon" %}
     </a>
     <a href="{{ business.contact.maps }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}">
-      <span class="contact-rail__icon">📍</span>
+      {% include icon.html name="map-pin" size="22" class="contact-rail__icon" %}
     </a>
   </div>
 </div>
@@ -23,19 +23,19 @@
 <div class="mobile-contact-bar">
   <div class="mobile-contact-bar__actions">
     <a href="{{ business.contact.phone_uri }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}">
-      <span class="mobile-contact-bar__icon">📞</span>
+      {% include icon.html name="phone" size="22" class="mobile-contact-bar__icon" %}
       <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}</span>
     </a>
     <a href="{{ business.contact.zalo }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}">
-      <span class="mobile-contact-bar__icon">💬</span>
+      {% include icon.html name="message" size="22" class="mobile-contact-bar__icon" %}
       <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}</span>
     </a>
     <a href="{{ business.contact.whatsapp }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}">
-      <span class="mobile-contact-bar__icon">📱</span>
+      {% include icon.html name="whatsapp" size="22" class="mobile-contact-bar__icon" %}
       <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}WA{% else %}WhatsApp{% endif %}</span>
     </a>
     <a href="{{ business.contact.maps }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}">
-      <span class="mobile-contact-bar__icon">📍</span>
+      {% include icon.html name="map-pin" size="22" class="mobile-contact-bar__icon" %}
       <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}</span>
     </a>
   </div>
