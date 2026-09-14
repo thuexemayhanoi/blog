@@ -60,8 +60,8 @@ ve thong tin ca nhan cua minh:
 Neu ban co bat ky cau hoi hoac thac mac nao ve chinh sach bao mat nay hoac cac thuc hanh xu ly du lieu cua chung toi, vui long lien he:
 
 - {% include icon.html name="phone" %} **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
-- 💬 **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
-- ✉️ **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- {% include icon.html name="message" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- {% include icon.html name="message" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
 ### Thay Doi Chinh Sach
 
