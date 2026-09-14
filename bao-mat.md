@@ -47,7 +47,8 @@ Chung toi thuc hien cac bien phap ky thuat va to chuc thich hop de bao ve thong 
 
 ### Quyen Cua Ban
 
-Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day ve thong tin ca nhan cua minh:
+Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day 
+ve thong tin ca nhan cua minh:
 
 - Quyen truy cap va nhan ban sao thong tin ca nhan cua minh
 - Quyen yeu cau hieu chinh thong tin khong chinh xac
@@ -58,9 +59,9 @@ Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day ve thong tin ca nh
 
 Neu ban co bat ky cau hoi hoac thac mac nao ve chinh sach bao mat nay hoac cac thuc hanh xu ly du lieu cua chung toi, vui long lien he:
 
-- 📞 **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
-- 💬 **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
-- ✉️ **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- {% include icon.html name="phone" size="16" %} **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- {% include icon.html name="message" size="16" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- {% include icon.html name="message" size="16" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
 ### Thay Doi Chinh Sach
 
