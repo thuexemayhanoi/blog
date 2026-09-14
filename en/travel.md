@@ -8,7 +8,7 @@ permalink: /en/travel/
 category: Travel
 ---
 
-{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Travel' or post.categories contains 'Du lich'" | sort: "date", "desc" %}
+{% assign en_posts = site.posts | where: "lang", "en" | where_exp: "post", "post.categories contains 'Travel' or post.categories contains 'Du lich'" %}
 
 ## Travel Articles
 
