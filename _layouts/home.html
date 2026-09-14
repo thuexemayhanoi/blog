@@ -7,6 +7,7 @@ description: "{{ site.description }}"
 {% assign business = site.data.business %}
 {% assign pricing = site.data.pricing %}
 {% assign current_lang = page.lang | default: site.lang %}
+{% assign current_posts = site.posts | where: "lang", current_lang %}
 
 <!-- Hero Section -->
 <section class="hero">
@@ -135,9 +136,9 @@ description: "{{ site.description }}"
     <h2>Latest Posts</h2>
     {% endif %}
     
-    {% if site.posts.size > 0 %}
+    {% if current_posts.size > 0 %}
     <div class="post-grid">
-      {% for post in site.posts limit:4 %}
+      {% for post in current_posts limit:4 %}
       <article class="post-card glass-card">
         {% if post.categories %}
         <span class="post-category">{{ post.categories | first }}</span>
@@ -188,7 +189,7 @@ description: "{{ site.description }}"
           <a href="{{ child.url | relative_url }}" class="category-card glass-card">
             <h3>{{ child.name }}</h3>
             <p>
-              {% assign category_posts = site.posts | where_exp: "post", "post.categories contains child.name" %}
+              {% assign category_posts = current_posts | where: "categories", child.name %}
               {{ category_posts.size }} 
               {% if current_lang == 'vi' %}
                 bài viết
@@ -240,6 +241,7 @@ description: "{{ site.description }}"
       <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-outline">View all pricing</a>
       {% endif %}
     </div>
+
   </div>
 </section>
 
