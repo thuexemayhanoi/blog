@@ -44,7 +44,8 @@ Chào mừng đến với blog của Nguyễn Tú Motorcycle Rental! Tại đây
       <a href="{{ child.url | relative_url }}" class="category-card glass-card">
         <h3>{{ child.name }}</h3>
         <p>
-          {% assign category_posts = current_posts | where: "categories", child.name %}
+          {% assign category = child.name %}
+          {% assign category_posts = current_posts | where: "categories", category %}
           {{ category_posts.size }} bài viết
         </p>
       </a>
