@@ -57,7 +57,6 @@ permalink: /en/
       <div class="intro-fe
 
 
-
 ature">
         <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
@@ -120,8 +119,7 @@ ature">
   </div>
 </section>
 
-<!-- Blog 
-C
+<!-- Blog C
 ategories -->
 <section class="section categories-section bg-light">
   <div class="container">
@@ -186,8 +184,8 @@ ategories -->
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span 
-class="area-tag">{{ area }}</span>
+      <span cl
+ass="area-tag">{{ area }}</span>
       {% endfor %}
     </div>
     
@@ -233,7 +231,6 @@ class="area-tag">{{ area }}</span>
       <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
     </div>
-
  
 
  </div>
