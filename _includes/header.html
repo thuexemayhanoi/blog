@@ -40,8 +40,7 @@
         
         <div class="header-utilities">
           <div class="lang-switcher">
-            {% assign translation = translations[page.translation_key]
- %}%}
+            {% assign translation = translations[page.translation_key] %}
             {% if current_lang == 'vi' %}
               {% if translation %}
                 <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
@@ -79,8 +78,7 @@
       <div class="mobile-utilities">
         <div class="lang-switcher">
           {% assign translation = translations[page.translation_key] %}
-          {%
- if current_lang == 'vi' %}
+          {% if current_lang == 'vi' %}
             {% if translation %}
               <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
               <a href="{{ translation.en | relative_url }}" class="lang-btn">EN</a>
@@ -160,8 +158,7 @@
               Tính giá
             </a>
           {% else %}
-            <a href="{{ '/en/pricing/#rental-calculato
-r' | relative_url }}" class="mobile-nav-link">
+            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="mobile-nav-link">
               {% include icon.html name="calculator" size="20" %}
               Calculate
             </a>
