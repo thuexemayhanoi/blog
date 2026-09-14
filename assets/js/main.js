@@ -42,9 +42,28 @@
           document.documentElement.removeAttribute('data-theme');
         }
         localStorage.setItem(this.STORAGE_KEY, newTheme);
+        this._updateThemeIcons();
       } catch (e) {
         console.warn('ThemeManager: Could not save theme', e);
       }
+    },
+    _updateThemeIcons: function() {
+      var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      var sunIcons = document.querySelectorAll('.theme-icon-sun');
+      var moonIcons = document.querySelectorAll('.theme-icon-moon');
+      var toggleButtons = document.querySelectorAll('[data-theme-toggle]');
+      
+      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block'; });
+      moonIcons.forEach(function(icon) { icon.style.display = isDark ? 'block' : 'none'; });
+      
+      toggleButtons.forEach(function(btn) {
+        var lang = document.documentElement.lang || document.body.className;
+        if (isDark) {
+          btn.setAttribute('aria-label', lang.includes('vi') ? 'Chuyển sang chế độ sáng' : 'Switch to light mode');
+        } else {
+          btn.setAttribute('aria-label', lang.includes('vi') ? 'Chuyển sang chế độ tối' : 'Switch to dark mode');
+        }
+      });
     }
   };
 
@@ -62,7 +81,8 @@
       openButtons.forEach(function(btn) {
         btn.addEventListener('click', function(e) {
           e.preventDefault();
-          self.open();
+          self.open(
+);
         });
       });
     },
@@ -120,7 +140,8 @@
     },
     _showContactUI: function() {
       var mobileContactBar = document.querySelector('.mobile-contact-bar');
-      var contactRail = document.querySelector('.contact-rail');
+      var contactRail = document.querySelector(
+'.contact-rail');
       if (mobileContactBar) mobileContactBar.style.display = '';
       if (contactRail) contactRail.style.display = '';
     }
@@ -188,7 +209,8 @@
     },
     _bindHover: function() {
       var navItems = document.querySelectorAll('.header__nav-item');
-      navItems.forEach(function(item) {
+  
+    navItems.forEach(function(item) {
         var dropdown = item.querySelector('.header__dropdown');
         if (dropdown) {
           item.addEventListener('mouseenter', function() {
