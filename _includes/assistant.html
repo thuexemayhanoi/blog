@@ -4,8 +4,11 @@
 
 <!-- Assistant Toggle Button -->
 <button class="assistant-toggle" id="assistant-toggle" aria-label="{% if current_lang == 'vi' %}Mở trợ lý{% else %}Open assistant{% endif %}">
-  <span class="assistant-icon">🤖</span>
-  <span class="assistant-badge">1</span>
+  <span class="assistant-icon">
+    {% include icon.html name="assistant" size="24" %}
+    {% include icon.html name="sparkles" size="14" class="sparkles-icon" %}
+  </span>
+  <span class="assistant-badge">0</span>
 </button>
 
 <!-- Assistant Panel -->
@@ -19,7 +22,7 @@
       {% endif %}
     </h3>
     <button class="assistant-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% endif %}">
-      ×
+      {% include icon.html name="close" size="20" %}
     </button>
   </div>
   
@@ -66,7 +69,7 @@
         aria-label="{% if current_lang == 'vi' %}Nhập câu hỏi{% else %}Type your question{% endif %}"
       >
       <button class="assistant-send" aria-label="{% if current_lang == 'vi' %}Gửi{% else %}Send{% endif %}">
-        →
+        {% include icon.html name="sparkles" size="18" %}
       </button>
     </div>
   </div>
