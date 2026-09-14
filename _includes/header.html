@@ -40,7 +40,7 @@
         
         <div class="header-utilities">
           <div class="lang-switcher">
-            {% assign translation = translations[page.translation_key] %}
+            {% assign translation = translations[page.translation_key] %}%}
             {% if current_lang == 'vi' %}
               {% if translation %}
                 <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
