@@ -1,6 +1,5 @@
 {% assign business = site.data.business %}
 {% assign current_lang = page.lang | default: site.lang %}
-{% assign is_vi = current_lang == 'vi' %}
 
 <!-- Primary Meta Tags -->
 <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -42,7 +41,7 @@
 {% endif %}
 
 <!-- Hreflang for bilingual -->
-{% if is_vi %}
+{% if current_lang == 'vi' %}
 <link rel="alternate" hreflang="vi" href="{{ page.url | absolute_url }}">
 {% assign en_url = page.url | replace: '/blog/', '/blog/en/' %}
 {% unless en_url contains '/en/' %}
