@@ -19,12 +19,12 @@ layout: default
       <h1>{{ page.title }}</h1>
       
       <div class="post-meta">
-        <span class="post-date">📅 {{ page.date | date: "%d/%m/%Y" }}</span>
+        <span class="post-date">{% include icon.html name="info" size="16" %} {{ page.date | date: "%d/%m/%Y" }}</span>
         {% if page.author %}
-        <span class="post-author">✍️ {{ page.author }}</span>
+        <span class="post-author">{% include icon.html name="info" size="16" %} {{ page.author }}</span>
         {% endif %}
         {% if page.reading_time %}
-        <span class="reading-time">⏱️ 
+        <span class="reading-time">{% include icon.html name="info" size="16" %} 
           {% if current_lang == 'vi' %}
             {{ page.reading_time }} phút đọc
           {% else %}
@@ -45,9 +45,9 @@ layout: default
       {% if page.previous %}
       <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
         {% if current_lang == 'vi' %}
-          ← Bài trước: {{ page.previous.title }}
+          {% include icon.html name="chevron-left" size="16" %} Bài trước: {{ page.previous.title }}
         {% else %}
-          ← Previous: {{ page.previous.title }}
+          {% include icon.html name="chevron-left" size="16" %} Previous: {{ page.previous.title }}
         {% endif %}
       </a>
       {% endif %}
@@ -55,9 +55,9 @@ layout: default
       {% if page.next %}
       <a href="{{ page.next.url | relative_url }}" class="nav-link next">
         {% if current_lang == 'vi' %}
-          Bài sau: {{ page.next.title }} →
+          Bài sau: {{ page.next.title }} {% include icon.html name="chevron-right" size="16" %}
         {% else %}
-          Next: {{ page.next.title }} →
+          Next: {{ page.next.title }} {% include icon.html name="chevron-right" size="16" %}
         {% endif %}
       </a>
       {% endif %}
