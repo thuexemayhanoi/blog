@@ -27,21 +27,25 @@
       
       <!-- Links Columns -->
       {% for section in nav %}
-      <div class="footer-col">
-        <h4>{{ section.title[current_lang] }}</h4>
-        <ul class="footer-links">
-          {% for link in section.links %}
-          <li>
-            <a 
-              href="{% if link.url.vi or link.url.en %}{{ link.url[current_lang] | relative_url }}{% else %}{{ link.url | relative_url }}{% endif %}"
-              {% if link.external %}target="_blank" rel="noopener noreferrer"{% endif %}
-            >
-              {{ link.name[current_lang] }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
+        <div class="footer-col">
+          <h4>{{ section.title[current_lang] }}</h4>
+          <ul class="footer-links">
+            {% for link in section.links %}
+            <li>
+              <a 
+                {% if link.external %}
+                  href="{{ link.url }}"
+                  target="_blank" rel="noopener noreferrer"
+                {% else %}
+                  href="{{ link.url[current_lang] | relative_url }}"
+                {% endif %}
+              >
+                {{ link.name[current_lang] }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
       {% endfor %}
 
     </div>
