@@ -16,19 +16,19 @@ Cam on ban da quan tam den dich vu thue xe may tai Ha Noi cua Nguyen Tu. Chung t
 
 <div class="contact-grid">
   <div class="contact-card glass-card">
-    <h3>📍 Dia Chi</h3>
+    <h3>{% include icon.html name="map-pin" size="20" %} Dia Chi</h3>
     <p>{{ business.address.full }}</p>
     <p><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">Xem tren Google Maps</a></p>
   </div>
   
   <div class="contact-card glass-card">
-    <h3>📞 Dien Thoai</h3>
+    <h3>{% include icon.html name="phone" size="20" %} Dien Thoai</h3>
     <p><a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
     <p>Gio lam viec: {{ business.hours }}</p>
   </div>
   
   <div class="contact-card glass-card">
-    <h3>✉️ Email</h3>
+    <h3>{% include icon.html name="message" size="20" %} Email</h3>
     <p><a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
     <p>Tra loi trong vòng 24 gio</p>
   </div>
@@ -38,17 +38,17 @@ Cam on ban da quan tam den dich vu thue xe may tai Ha Noi cua Nguyen Tu. Chung t
 
 <div class="social-grid">
   <a href="{{ business.contact.zalo }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>💬 Zalo</h3>
+    <h3>{% include icon.html name="message" size="20" %} Zalo</h3>
     <p>Nhan tin tren Zalo</p>
   </a>
   
   <a href="{{ business.contact.whatsapp }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>📱 WhatsApp</h3>
+    <h3>{% include icon.html name="whatsapp" size="20" %} WhatsApp</h3>
     <p>Nhan tin tren WhatsApp</p>
   </a>
   
   <a href="{{ business.url }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>🌐 Website</h3>
+    <h3>{% include icon.html name="external-link" size="20" %} Website</h3>
     <p>Truy cap website chinh</p>
   </a>
 </div>
@@ -64,7 +64,8 @@ Ban can su dung:
 
 #### Thoi gian thue toi thieu la bao nhieu?
 
-Thoi gian thue toi thieu la 1 ngay. Chung toi cung cap thue theo tuan va thang voi nhung uu dai ve gia.
+Thoi gian thue toi thieu
+ la 1 ngay. Chung toi cung cap thue theo tuan va thang voi nhung uu dai ve gia.
 
 #### Xe co bao hiem khong?
 
