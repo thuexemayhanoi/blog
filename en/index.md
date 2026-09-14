@@ -54,7 +54,10 @@ permalink: /en/
         <span class="feature-icon">OK</span>
         <span class="feature-text">Transparent Pricing</span>
       </div>
-      <div class="intro-feature">
+      <div class="intro-fe
+
+
+ature">
         <span class="feature-icon">OK</span>
         <span class="feature-text">Delivery Service</span>
       </div>
@@ -116,7 +119,8 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Categories -->
+<!-- Blog C
+ategories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -180,7 +184,8 @@ permalink: /en/
     
     <div class="areas-list">
       {% for area in business.areas %}
-      <span class="area-tag">{{ area }}</span>
+      <span cl
+ass="area-tag">{{ area }}</span>
       {% endfor %}
     </div>
     
