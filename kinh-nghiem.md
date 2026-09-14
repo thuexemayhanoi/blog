@@ -7,7 +7,8 @@ translation_key: experience
 category: Kinh nghiem
 ---
 
-{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Kinh nghiem'" | sort: "date", "desc" %}
+{% assign current_lang = page.lang | default: site.lang %}
+{% assign posts = site.posts | where_exp: "post", "post.categories contains 'Kinh nghiem'" %}
 
 ## Kinh Nghiem Thue Xe May
 
