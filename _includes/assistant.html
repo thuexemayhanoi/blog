@@ -44,10 +44,10 @@
           Quick questions:
         {% endif %}
       </p>
-      <div class="quick-buttons">
+      <div class="assistant-question-list">
         {% for q in assistant.quick_questions %}
         <button 
-          class="quick-btn" 
+          class="assistant-question-btn" 
           data-question-id="{{ q.id }}"
           data-lang="{{ current_lang }}"
         >
