@@ -1,120 +1,246 @@
 main:
   - id: home
-    name: "Trang chủ"
-    url: "/"
+    name:
+      vi: "Trang chủ"
+      en: "Home"
+    url:
+      vi: "/"
+      en: "/en/"
     icon: "home"
   
   - id: about
-    name: "Giới thiệu"
-    url: "/gioi-thieu/"
+    name:
+      vi: "Giới thiệu"
+      en: "About"
+    url:
+      vi: "/gioi-thieu/"
+      en: "/en/about/"
     icon: "info"
   
   - id: blog
-    name: "Blog"
-    url: "/blog/"
+    name:
+      vi: "Blog"
+      en: "Blog"
+    url:
+      vi: "/blog/"
+      en: "/en/blog/"
     icon: "blog"
     children:
       - id: travel
-        name: "Du lịch"
-        url: "/du-lich/"
+        name:
+          vi: "Du lịch"
+          en: "Travel"
+        url:
+          vi: "/du-lich/"
+          en: "/en/travel/"
         icon: "travel"
       - id: experience
-        name: "Kinh nghiệm"
-        url: "/kinh-nghiem/"
+        name:
+          vi: "Kinh nghiệm"
+          en: "Experience"
+        url:
+          vi: "/kinh-nghiem/"
+          en: "/en/rental-tips/"
         icon: "experience"
       - id: sharing
-        name: "Chia sẻ"
-        url: "/chia-se/"
+        name:
+          vi: "Chia sẻ"
+          en: "Sharing"
+        url:
+          vi: "/chia-se/"
+          en: "/en/guides/"
         icon: "share"
   
   - id: pricing
-    name: "Bảng giá"
-    url: "/bang-gia/"
+    name:
+      vi: "Bảng giá"
+      en: "Pricing"
+    url:
+      vi: "/bang-gia/"
+      en: "/en/pricing/"
     icon: "pricing"
     children:
       - id: xe-so
-        name: "Xe số"
-        url: "/bang-gia-xe-so/"
+        name:
+          vi: "Xe số"
+          en: "Manual Motorcycles"
+        url:
+          vi: "/bang-gia-xe-so/"
+          en: "/en/manual-motorbikes/"
         icon: "motorcycle"
       - id: xe-ga
-        name: "Xe ga"
-        url: "/bang-gia-xe-ga/"
+        name:
+          vi: "Xe ga"
+          en: "Automatic Scooters"
+        url:
+          vi: "/bang-gia-xe-ga/"
+          en: "/en/automatic-scooters/"
         icon: "scooter"
       - id: xe-dien
-        name: "Xe điện"
-        url: "/bang-gia-xe-dien/"
+        name:
+          vi: "Xe điện"
+          en: "Electric Motorcycles"
+        url:
+          vi: "/bang-gia-xe-dien/"
+          en: "/en/electric-motorbikes/"
         icon: "electric"
       - id: xe-50cc
-        name: "Xe 50cc"
-        url: "/bang-gia-xe-50cc/"
+        name:
+          vi: "Xe 50cc"
+          en: "50cc Scooters"
+        url:
+          vi: "/bang-gia-xe-50cc/"
+          en: "/en/electric-scooters/"
         icon: "50cc"
   
   - id: contact
-    name: "Liên hệ"
-    url: "/lien-he/"
+    name:
+      vi: "Liên hệ"
+      en: "Contact"
+    url:
+      vi: "/lien-he/"
+      en: "/en/contact/"
     icon: "contact"
 
 footer:
-  - title: "NGUYỄN TÚ"
+  - title:
+      vi: "NGUYỄN TÚ"
+      en: "NGUYEN TU"
     links:
-      - name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
+      - name:
+          vi: "Thuê Xe Máy Hà Nội Nguyễn Tú"
+          en: "Nguyen Tu Hanoi Motorcycle Rental"
         url: "/"
-      - name: "Website chính"
+      - name:
+          vi: "Website chính"
+          en: "Main Website"
         url: "https://thuexemaynguyentu.com/"
         external: true
   
-  - title: "LIÊN KẾT"
+  - title:
+      vi: "LIÊN KẾT"
+      en: "LINKS"
     links:
-      - name: "Trang chủ"
+      - name:
+          vi: "Trang chủ"
+          en: "Home"
         url: "/"
-      - name: "Giới thiệu"
-        url: "/gioi-thieu/"
-      - name: "Blog"
-        url: "/blog/"
-      - name: "Bảng giá"
-        url: "/bang-gia/"
-      - name: "Liên hệ"
-        url: "/lien-he/"
+      - name:
+          vi: "Giới thiệu"
+          en: "About"
+        url:
+          vi: "/gioi-thieu/"
+          en: "/en/about/"
+      - name:
+          vi: "Blog"
+          en: "Blog"
+        url:
+          vi: "/blog/"
+          en: "/en/blog/"
+      - name:
+          vi: "Bảng giá"
+          en: "Pricing"
+        url:
+          vi: "/bang-gia/"
+          en: "/en/pricing/"
+      - name:
+          vi: "Liên hệ"
+          en: "Contact"
+        url:
+          vi: "/lien-he/"
+          en: "/en/contact/"
   
-  - title: "BLOG"
+  - title:
+      vi: "BLOG"
+      en: "BLOG"
     links:
-      - name: "Du lịch"
-        url: "/du-lich/"
-      - name: "Kinh nghiệm"
-        url: "/kinh-nghiem/"
-      - name: "Chia sẻ"
-        url: "/chia-se/"
+      - name:
+          vi: "Du lịch"
+          en: "Travel"
+        url:
+          vi: "/du-lich/"
+          en: "/en/travel/"
+      - name:
+          vi: "Kinh nghiệm"
+          en: "Rental Tips"
+        url:
+          vi: "/kinh-nghiem/"
+          en: "/en/rental-tips/"
+      - name:
+          vi: "Chia sẻ"
+          en: "Guides"
+        url:
+          vi: "/chia-se/"
+          en: "/en/guides/"
   
-  - title: "BẢNG GIÁ"
+  - title:
+      vi: "BẢNG GIÁ"
+      en: "PRICING"
     links:
-      - name: "Xe số"
-        url: "/bang-gia-xe-so/"
-      - name: "Xe ga"
-        url: "/bang-gia-xe-ga/"
-      - name: "Xe điện"
-        url: "/bang-gia-xe-dien/"
-      - name: "Xe 50cc"
-        url: "/bang-gia-xe-50cc/"
+      - name:
+          vi: "Xe số"
+          en: "Manual Motorcycles"
+        url:
+          vi: "/bang-gia-xe-so/"
+          en: "/en/manual-motorbikes/"
+      - name:
+          vi: "Xe ga"
+          en: "Automatic Scooters"
+        url:
+          vi: "/bang-gia-xe-ga/"
+          en: "/en/automatic-scooters/"
+      - name:
+          vi: "Xe điện"
+          en: "Electric Motorcycles"
+        url:
+          vi: "/bang-gia-xe-dien/"
+          en: "/en/electric-motorbikes/"
+      - name:
+          vi: "Xe 50cc"
+          en: "50cc Scooters"
+        url:
+          vi: "/bang-gia-xe-50cc/"
+          en: "/en/electric-scooters/"
   
-  - title: "TIỆN ÍCH"
+  - title:
+      vi: "TIỆN ÍCH"
+      en: "UTILITIES"
     links:
-      - name: "Tính giá thuê"
-        url: "/bang-gia/#tinh-gia"
-      - name: "Trợ lý nhanh"
-        url: "/"
-      - name: "WhatsApp"
-        url: "https://wa.me/84942467674"
-        external: true
-      - name: "Zalo"
+      - name:
+          vi: "Tính giá thuê"
+          en: "Price Calculator"
+        url:
+          vi: "/bang-gia/#tinh-gia"
+          en: "/en/pricing/#calculate"
+      - name:
+          vi: "Zalo"
+          en: "Zalo"
         url: "https://zalo.me/0942467674"
         external: true
-      - name: "Google Maps"
+      - name:
+          vi: "WhatsApp"
+          en: "WhatsApp"
+        url: "https://wa.me/84942467674"
+        external: true
+      - name:
+          vi: "Google Maps"
+          en: "Google Maps"
         url: "https://maps.app.goo.gl/rQBfa43FA2WNnuSy9?g_st=ic"
         external: true
   
-  - title: "PHÁP LÝ"
+  - title:
+      vi: "PHÁP LÝ"
+      en: "LEGAL"
     links:
-      - name: "Chính sách bảo mật"
-        url: "/bao-mat/"
-      - name: "Điều khoản sử dụng"
-        url: "/dieu-khoan/"
+      - name:
+          vi: "Chính sách bảo mật"
+          en: "Privacy Policy"
+        url:
+          vi: "/bao-mat/"
+          en: "/en/privacy/"
+      - name:
+          vi: "Điều khoản dịch vụ"
+          en: "Terms of Service"
+        url:
+          vi: "/dieu-khoan/"
+          en: "/en/terms/"
