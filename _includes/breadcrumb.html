@@ -3,10 +3,10 @@
 {% assign current_lang = page.lang | default: 'vi' %}
 
 <nav class="breadcrumb" aria-label="{% if current_lang == 'vi' %}Đường dẫn{% else %}Breadcrumbs{% endif %}">
-  <ol>
+  <ol style="list-style: none; margin: 0; padding-left: 0;">
     <li>
       <a href="{{ '/' | relative_url }}" aria-label="{% if current_lang == 'vi' %}Trang chủ{% else %}Home{% endif %}">
-        <span class="breadcrumb-icon">🏠</span>
+        {% include icon.html name="home" size="16" class="breadcrumb-icon" %}
         <span>{% if current_lang == 'vi' %}Trang chủ{% else %}Home{% endif %}</span>
       </a>
     </li>
