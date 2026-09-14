@@ -52,7 +52,8 @@ description: "{{ site.description }}"
     <div class="intro-features">
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
-        <span class="feature-text">X
+ 
+       <span class="feature-text">X
 e chất lượng</span>
       </div>
       <div class="intro-feature">
@@ -104,7 +105,8 @@ e chất lượng</span>
     <p>Chúng tôi cung cấp đa dạng các loại xe để đáp ứng mọi nhu cầu của bạn:</p>
     {% else %}
     <h2>Our Services</h2>
-    <p>We offer a variety of vehicles to meet all your needs:</p>
+    <p>We offer a variety of vehicles to me
+et all your needs:</p>
     {% endif %}
     
     <div class="services-grid">
@@ -164,7 +166,8 @@ e chất lượng</span>
     </div>
     {% else %}
     {% if current_lang == 'vi' %}
-    <p>Chưa có bài viết nào. Hãy quay lại sau!</p>
+    <p>Chưa có
+ bài viết nào. Hãy quay lại sau!</p>
     {% else %}
     <p>No posts yet. Please check back later!</p>
     {% endif %}
@@ -175,8 +178,7 @@ e chất lượng</span>
 <!-- Blog Categories -->
 <section class="section categories-section bg-light">
   <div class="container">
-    {% if current_l
-ang == 'vi' %}
+    {% if current_lang == 'vi' %}
     <h2>Các chủ đề blog</h2>
     {% else %}
     <h2>Blog Categories</h2>
@@ -234,7 +236,8 @@ ang == 'vi' %}
           {% endfor %}
         {% endif %}
       {% endfor %}
-    </div>
+    <
+/div>
     
     <div class="text-center mt-4">
       {% if current_lang == 'vi' %}
@@ -290,7 +293,8 @@ ll pricing</a>
           {% endif %}
         </p>
         {% if current_lang == 'vi' %}
-        <p>Chúng tôi cam kết:</p>
+        <p>Chúng 
+tôi cam kết:</p>
         {% else %}
         <p>We commit to:</p>
         {% endif %}
@@ -337,7 +341,8 @@ i>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
     </div>
     {% else %}
-    <h2>Need to rent a motorcycle in Hanoi?</h2>
+    <h2>Need to rent a motorcycle in Hanoi?<
+/h2>
     <p>Contact {{ business.brand }} for the best advice and support.</p>
     <div class="cta-group">
       <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Call now {{ business.contact.phone }}</a>
