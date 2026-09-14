@@ -40,8 +40,7 @@
         
         <div class="header-utilities">
           <div class="lang-switcher">
-            {% assign translation = translations[page.translation_key]
- %}%}
+            {% assign translation = translations[page.translation_key] %}
             {% if current_lang == 'vi' %}
               {% if translation %}
                 <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
@@ -60,12 +59,12 @@
               {% endif %}
             {% endif %}
           </div>
-          <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chuyển sang chế độ tối{% else %}Switch to dark mode{% endif %}" data-theme-toggle>
+          <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chuyen sang che do toi{% else %}Switch to dark mode{% endif %}" data-theme-toggle>
             {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
             {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
           </button>
           {% if current_lang == 'vi' %}
-            <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="calc-link" aria-label="Tính giá">
+            <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="calc-link" aria-label="Tinh gia">
               {% include icon.html name="calculator" size="20" %}
             </a>
           {% else %}
@@ -79,8 +78,7 @@
       <div class="mobile-utilities">
         <div class="lang-switcher">
           {% assign translation = translations[page.translation_key] %}
-          {%
- if current_lang == 'vi' %}
+          {% if current_lang == 'vi' %}
             {% if translation %}
               <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
               <a href="{{ translation.en | relative_url }}" class="lang-btn">EN</a>
@@ -98,11 +96,11 @@
             {% endif %}
           {% endif %}
         </div>
-        <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chuyển sang chế độ tối{% else %}Switch to dark mode{% endif %}" data-theme-toggle>
+        <button class="theme-toggle" aria-label="{% if current_lang == 'vi' %}Chuyen sang che do toi{% else %}Switch to dark mode{% endif %}" data-theme-toggle>
           {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
           {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
         </button>
-        <button class="mobile-menu-toggle" aria-expanded="false" aria-label="{% if current_lang == 'vi' %}Mở menu{% else %}Open menu{% endif %}">
+        <button class="mobile-menu-toggle" aria-expanded="false" aria-label="{% if current_lang == 'vi' %}Mo menu{% else %}Open menu{% endif %}">
           {% include icon.html name="menu" size="24" class="hamburger" %}
         </button>
       </div>
@@ -117,8 +115,7 @@
         <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
         <span>{{ business.brand }}</span>
       </a>
-      <button class="mobile-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% en
-dif %}">
+      <button class="mobile-close" aria-label="{% if current_lang == 'vi' %}Dong{% else %}Close{% endif %}">
         {% include icon.html name="close" size="24" %}
       </button>
     </div>
@@ -158,11 +155,10 @@ dif %}">
           {% if current_lang == 'vi' %}
             <a href="{{ '/bang-gia/#tinh-gia' | relative_url }}" class="mobile-nav-link">
               {% include icon.html name="calculator" size="20" %}
-              Tính giá
+              Tinh gia
             </a>
           {% else %}
-            <a href="{{ '/en/pricing/#rental-calculato
-r' | relative_url }}" class="mobile-nav-link">
+            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="mobile-nav-link">
               {% include icon.html name="calculator" size="20" %}
               Calculate
             </a>
@@ -173,7 +169,7 @@ r' | relative_url }}" class="mobile-nav-link">
     <div class="mobile-footer">
       <a href="{{ business.contact.phone_uri }}" class="action-btn">
         {% include icon.html name="phone" size="20" %}
-        {% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}
+        {% if current_lang == 'vi' %}Goi{% else %}Call{% endif %}
       </a>
       <a href="{{ business.contact.zalo }}" class="action-btn">
         {% include icon.html name="message" size="20" %}
