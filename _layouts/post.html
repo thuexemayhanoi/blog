@@ -11,7 +11,7 @@ layout: default
       {% if page.categories %}
       <div class="post-categories">
         {% for category in page.categories %}
-        <a href="{{ '/' | append: category | slugify | append: '/' | relative_url }}" class="category-tag">{{ category }}</a>
+        <a href="{% case category %}{% when 'Du lịch' %}/du-lich/{% when 'Kinh nghiệm' %}/kinh-nghiem/{% when 'Chia sẻ' %}/chia-se/{% endcase %}" class="category-tag">{{ category }}</a>
         {% endfor %}
       </div>
       {% endif %}
@@ -42,23 +42,33 @@ layout: default
     </div>
     
     <div class="post-navigation">
-      {% if page.previous %}
-      <a href="{{ page.previous.url | relative_url }}" class="nav-link prev">
+      {% assign same_lang_posts = site.posts | where: "lang", page.lang | sort: "date", "desc" %}
+      {% assign current_index = 0 %}
+      {% for post in same_lang_posts %}
+        {% if post.url == page.url %}
+          {% assign current_index = forloop.index0 %}
+          {% break %}
+        {% endif %}
+      {% endfor %}
+      {% assign prev_post = same_lang_posts[current_index | plus: 1] %}
+      {% assign next_post = same_lang_posts[current_index | minus: 1] %}
+      
+      {% if prev_post %}
+      <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
         {% if current_lang == 'vi' %}
-          {% include icon.html name="chevron-left" %} Bài trước: {{ page.previous.title }}
+          {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
         {% else %}
-          {% include icon.html name="chevron-left" %} Previous: {{ page.previous.title }}
+          {% include icon.html name="chevron-left" %} Previous: {{ prev_post.title }}
         {% endif %}
       </a>
       {% endif %}
       
-      {% if page.next %}
-      <a href="{{ page.next.url | relative_url }}" class="nav-link next">
+      {% if next_post %}
+      <a href="{{ next_post.url | relative_url }}" class="nav-link next">
         {% if current_lang == 'vi' %}
-          Bài sau: {{ page.next.title }} {% include icon.html name="chevron-right" %}
+          Bài sau: {{ next_post.title }} {% include icon.html name="chevron-right" %}
         {% else %}
-          Next: {{ page.next.tit
-le }} {% include icon.html name="chevron-right" %}
+          Next: {{ next_post.title }} {% include icon.html name="chevron-right" %}
         {% endif %}
       </a>
       {% endif %}
@@ -69,8 +79,7 @@ le }} {% include icon.html name="chevron-right" %}
         {% if current_lang == 'vi' %}
           Bạn cần thuê xe máy tại Hà Nội?
         {% else %}
-          N
-eed to rent a motorcycle in Hanoi?
+          Need to rent a motorcycle in Hanoi?
         {% endif %}
       </h3>
       <p>
