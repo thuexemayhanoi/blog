@@ -19,33 +19,43 @@
           <p><strong>{% if current_lang == 'vi' %}Giờ hoạt động:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
         </address>
         <div class="social-links">
-          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">💬 {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}</a>
-          <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">📱 {% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}</a>
-          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">📍 {% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}</a>
+          <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            {% include icon.html name="message" size="18" %}
+            {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}
+          </a>
+          <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            {% include icon.html name="whatsapp" size="18" %}
+            {% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}
+          </a>
+          <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            {% include icon.html name="map-pin" size="18" %}
+            {% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}
+          </a>
         </div>
       </div>
       
       <!-- Links Columns -->
       {% for section in nav %}
-        <div class="footer-col">
-          <h4>{{ section.title[current_lang] }}</h4>
-          <ul class="footer-links">
-            {% for link in section.links %}
-            <li>
-              <a 
-                {% if link.external %}
-                  href="{{ link.url }}"
-                  target="_blank" rel="noopener noreferrer"
-                {% else %}
-                  href="{{ link.url[current_lang] | relative_url }}"
-                {% endif %}
-              >
-                {{ link.name[current_lang] }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
+      <div class="footer-col">
+        <h4>{{ section.title[current_lang] }}</h4>
+        <ul class="footer-links" style="list-style: none; margin: 0; padding-left: 0;">
+          {% for link in section.links %}
+          <li>
+            <a 
+              {% if link.external %}
+                href="{{ link.url }}"
+                target="_blank" rel="noopener noreferrer"
+              {% else %}
+                href="{{ link.url[current_lang] | relative_url }}"
+              {% endif %}
+            >
+              {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
+              {{ link.name[current_lang] }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
       {% endfor %}
 
     </div>
