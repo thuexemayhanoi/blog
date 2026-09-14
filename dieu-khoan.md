@@ -59,7 +59,8 @@ Ban phai trach nhiem ve:
 - Tien dat coc theo yeu cau
 - Phi tra muon (neu co)
 - Chi phi sua chua (neu xe bi hu hong do loi cua ban)
-- Chi phi boi thuong toan bo (neu mat xe)
+- Chi phi boi thuon
+g toan bo (neu mat xe)
 - Bat ky khoan tien phat nao phat sinh trong thoi gian thue
 
 ### Chinh Sach Huy Dat Xe
@@ -84,6 +85,6 @@ Bat ky tranh chap nao phat sinh tu cac dieu khoan nay se duoc giai quyet thong q
 
 Neu ban co bat ky cau hoi nao ve cac dieu khoan nay, vui long lien he:
 
-- 📞 **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
-- 💬 **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
-- ✉️ **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+- {% include icon.html name="phone" size="16" %} **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- {% include icon.html name="message" size="16" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
+- {% include icon.html name="message" size="16" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
