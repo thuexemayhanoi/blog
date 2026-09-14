@@ -1,5 +1,5 @@
 {% assign business = site.data.business %}
-{% assign current_lang = page.lang | default: site.lang %}
+{% assign current_lang = page.lang | default: 'vi' %}
 
 <!-- Primary Meta Tags -->
 <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -41,7 +41,8 @@
 {% endif %}
 
 <!-- Hreflang for bilingual -->
-{% assign translations = site.data.translations %}
+{% assign translations = site.data.translat
+ions %}
 {% if page.translation_key %}
   {% assign translation = translations[page.translation_key] %}
   {% if translation %}
@@ -92,6 +93,7 @@
 {
   "@context": "https:/
 
+
 /schema.org",
   "@graph": [
     {
@@ -140,7 +142,8 @@
       "@type": "BlogPosting",
       "@id": "{{ page.url | absolute_url }}#blogposting",
       "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.exce
+      "description": "{{ page.description | default: page.exc
+e
 r
 pt | strip_html | truncatewords: 50 }}",
       "datePublished": "{{ page.date | date_to_xmlschema }}",

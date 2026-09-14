@@ -6,7 +6,7 @@ description: "{{ site.description }}"
 
 {% assign business = site.data.business %}
 {% assign pricing = site.data.pricing %}
-{% assign current_lang = page.lang | default: site.lang %}
+{% assign current_lang = page.lang | default: 'vi' %}
 
 <!-- Hero Section -->
 <section class="hero">
@@ -53,6 +53,7 @@ description: "{{ site.description }}"
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
  
+
 
 
        <span class="feature-text">X
@@ -107,7 +108,8 @@ e chất lượng</span>
     <p>Chúng tôi cung cấp đa dạng các loại xe để đáp ứng mọi nhu cầu của bạn:</p>
     {% else %}
     <h2>Our Services</h2>
-    <p>We offer a variety of vehicles to 
+    <p>We offer a variety of vehicles to
+ 
 m
 e
 et all your needs:</p>
@@ -170,7 +172,8 @@ et all your needs:</p>
     </div>
     {% else %}
     {% if current_lang == 'vi' %}
-    <p>Chư
+    <p>C
+hư
 a 
 có
  bài viết nào. Hãy quay lại sau!</p>
@@ -241,7 +244,8 @@ có
           </a>
           {% endfor %}
         {% endif %}
-      {% endfor %}
+      {% endfor 
+%}
 
    
  </div>
@@ -299,7 +303,8 @@ có
           {% endif %}
         </p>
         {% if current_lang == 'vi' %}
-        <p>
+        
+<p>
 Chú
 ng 
 tôi cam kết:</p>
@@ -349,7 +354,8 @@ i>
       <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
     </div>
     {% else %}
-    <h2>Need to rent a motorcycle in Hanoi?<
+    <h2>Need to rent a motorcycl
+e in Hanoi?<
 /h2>
     <p>Contact {{ business.brand }} for the best advice and support.</p>
     <div class="cta-group">

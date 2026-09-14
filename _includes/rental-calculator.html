@@ -1,6 +1,6 @@
 {% assign pricing = site.data.pricing %}
 {% assign business = site.data.business %}
-{% assign current_lang = page.lang | default: site.lang %}
+{% assign current_lang = page.lang | default: 'vi' %}
 
 <section class="calculator-section" id="{% if current_lang == 'en' %}rental-calculator{% else %}tinh-gia{% endif %}">
   <div class="container">
@@ -47,7 +47,8 @@
         
         <!-- Days Input -->
         <div class="form-group">
-          <label for="days-input">
+ 
+         <label for="days-input">
             {% if current_lang == 'vi' %}
               Số ngày thuê
             {% else %}
@@ -98,7 +99,8 @@
           {% if current_lang == 'vi' %}
             <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.</p>
           {% else %}
-            <p>This is an estimated price based on the current reference rates. Vehicle availability, deposit, delivery fees and final rental price should be confirmed directly with Nguyen Tu before booking.</p>
+            <p>This is an estimated price based on the current reference rates. Vehicle availability, deposit, d
+elivery fees and final rental price should be confirmed directly with Nguyen Tu before booking.</p>
           {% endif %}
         </div>
         
