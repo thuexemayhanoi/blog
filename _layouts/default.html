@@ -1,44 +1,47 @@
 ---
-layout: none
+layout: compress
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang }}" data-theme="light">
+<html lang="{{ page.lang | default: 'vi' }}">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  
-  {% include seo.html %}
-  
-  <!-- CSS -->
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <meta name="description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/images/favicon.svg' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/tokens.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/components.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/css/responsive.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <script>
+    (function() {
+      var savedTheme = localStorage.getItem('nguyentu-theme');
+      if (savedTheme === 'dark') {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
+  {% seo %}
 </head>
-<body>
+<body class="{% if page.lang == 'en' %}en{% else %}vi{% endif %}">
   {% include header.html %}
-  
-  {% include quick-contact.html %}
-  
-  {% include assistant.html %}
-  
   <main>
-    {% if page.layout != 'home' and page.url != '/' %}
-      {% include breadcrumb.html %}
+    {% if page.layout == 'home' %}
+      {% include hero.html %}
     {% endif %}
     {{ content }}
   </main>
-  
   {% include footer.html %}
-  
-  <!-- JavaScript -->
-  <script>
-    // Global data for JavaScript modules
-    window.NGUYEN_TU_PRICING = {{ site.data.pricing | jsonify }};
-    window.NGUYEN_TU_BUSINESS = {{ site.data.business | jsonify }};
-    window.NGUYEN_TU_ASSISTANT = {{ site.data.assistant | jsonify }};
-    window.NGUYEN_TU_NAVIGATION = {{ site.data.navigation | jsonify }};
-  </script>
+  {% include contact-rail.html %}
+  {% include mobile-contact-bar.html %}
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
   <script src="{{ '/assets/js/calculator.js' | relative_url }}"></script>
-  <script src="{{ '/assets/js/assistant.js' | relative_url }}"></script>
 </body>
 </html>

@@ -1,0 +1,57 @@
+/* DIGITAL FLAGSHIP EXPERIENCE - Responsive Styles */
+/* Exactly 3 modes: PHONE, TABLET, DESKTOP */
+
+/* PHONE: 0-767px */
+@media (max-width: 767px) {
+  .header__inner { height: 56px; }
+  .header__logo-text { display: none; }
+  .header__nav { display: none; }
+  .header__lang-switcher { display: none; }
+  .header__hamburger { display: flex; }
+  .mobile-menu { transform: translateX(100%); }
+  .mobile-menu-open .mobile-menu { transform: translateX(0); }
+  .hero { padding: var(--spacing-2xl) 0; }
+  .hero__title { font-size: var(--font-size-2xl); }
+  .blog-grid, .services__grid, .pricing-grid { grid-template-columns: 1fr; }
+  .footer__grid { grid-template-columns: repeat(2, 1fr); gap: var(--spacing-lg); }
+  .footer__business-grid { grid-template-columns: 1fr; gap: var(--spacing-md); }
+  .contact-rail { display: none; }
+  .mobile-contact-bar { display: flex; }
+  main { padding-bottom: 70px; }
+  @media (max-width: 359px) {
+    .mobile-contact-bar__label { display: none; }
+    .mobile-contact-bar__btn { padding: var(--spacing-xs); }
+  }
+}
+
+/* TABLET: 768-1199px */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .header__nav { display: none; }
+  .header__hamburger { display: flex; }
+  .header__lang-switcher { display: flex; }
+  .mobile-menu { transform: translateX(100%); }
+  .mobile-menu-open .mobile-menu { transform: translateX(0); }
+  .blog-grid, .services__grid, .pricing-grid { grid-template-columns: repeat(2, 1fr); }
+  .footer__grid { grid-template-columns: repeat(3, 1fr); gap: var(--spacing-lg); }
+  .footer__business-grid { grid-template-columns: repeat(2, 1fr); gap: var(--spacing-md); }
+  .contact-rail { display: none; }
+  .mobile-contact-bar { display: flex; }
+  main { padding-bottom: 70px; }
+  .mobile-menu { width: min(420px, 90vw); box-shadow: var(--shadow-xl); }
+}
+
+/* DESKTOP: 1200px+ */
+@media (min-width: 1200px) {
+  .header__logo-text { display: block; }
+  .header__nav { display: flex; }
+  .header__hamburger { display: none; }
+  .header__lang-switcher { display: flex; }
+  .services__grid { grid-template-columns: repeat(4, 1fr); }
+  .blog-grid { grid-template-columns: repeat(3, 1fr); }
+  .pricing-grid { grid-template-columns: repeat(4, 1fr); }
+  .footer__grid { grid-template-columns: repeat(6, 1fr); gap: var(--spacing-xl); }
+  .footer__business-grid { grid-template-columns: repeat(4, 1fr); gap: var(--spacing-lg); }
+  .contact-rail { display: flex; }
+  .mobile-contact-bar { display: none; }
+  main { padding-bottom: 0; }
+}
