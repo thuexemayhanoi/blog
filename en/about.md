@@ -31,13 +31,13 @@ permalink: /en/about/
 
 ### Our Location
 
-📍 **Address**: {{ business.address.full }}
+{% include icon.html name="map-pin" size="16" %} **Address**: {{ business.address.full }}
 
-📞 **Phone**: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+{% include icon.html name="phone" size="16" %} **Phone**: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
 
-✉️ **Email**: [{{ business.contact.email }}](mailto:{{ business.contact.email }})
+{% include icon.html name="message" size="16" %} **Email**: [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
-🕒 **Hours**: {{ business.hours }}
+{% include icon.html name="info" size="16" %} **Hours**: {{ business.hours }}
 
 ### Contact Us
 
