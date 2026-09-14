@@ -16,12 +16,3 @@ main:
       vi: "/gioi-thieu/"
       en: "/en/about/"
     icon: "info"
-
-  - id: blog
-    name:
-      vi: "Blog"
-      en: "Blog"
-    url:
-      vi: "/blog/"
-      en: "/en/blog/"
-    icon: "blog"
