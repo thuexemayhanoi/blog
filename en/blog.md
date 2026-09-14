@@ -9,6 +9,7 @@ permalink: /en/blog/
 
 {% assign business = site.data.business %}
 {% assign current_lang = page.lang | default: site.lang %}
+{% assign current_posts = site.posts | where: "lang", "en" %}
 
 ## Our Blog
 
@@ -16,24 +17,22 @@ Welcome to the Nguyen Tu Motorcycle Rental blog! Here you will find useful infor
 
 ### Latest Posts
 
-{% assign en_posts = site.posts | where: "lang", "en" %}
-
-{% if en_posts.size > 0 %}
+{% if current_posts.size > 0 %}
 <div class="post-grid">
-  {% for post in en_posts %}
+  {% for post in current_posts %}
   <article class="post-card glass-card">
     {% if post.categories %}
     <span class="post-category">{{ post.categories | first }}</span>
     {% endif %}
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p class="post-date">Posted on {{ post.date | date: "%B %d, %Y" }}</p>
-    <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
+    <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
     <a href="{{ post.url | relative_url }}" class="read-more">Read more</a>
   </article>
   {% endfor %}
 </div>
 {% else %}
-<p>No posts available yet. Please check back soon!</p>
+<p>No posts yet. Please check back later!</p>
 {% endif %}
 
 ### Blog Categories
@@ -43,10 +42,11 @@ Welcome to the Nguyen Tu Motorcycle Rental blog! Here you will find useful infor
   {% for item in nav %}
     {% if item.id == 'blog' %}
       {% for child in item.children %}
-      <a href="{{ '/en' | append: child.url | relative_url }}" class="category-card glass-card">
+      <a href="{{ child.url | relative_url }}" class="category-card glass-card">
         <h3>{{ child.name }}</h3>
         <p>
-          {% assign category_posts = site.posts | where_exp: "post", "post.categories contains child.name" | where: "lang", "en" %}
+          {% assign category = child.name %}
+          {% assign category_posts = current_posts | where: "categories", category %}
           {{ category_posts.size }} posts
         </p>
       </a>
@@ -57,19 +57,19 @@ Welcome to the Nguyen Tu Motorcycle Rental blog! Here you will find useful infor
 
 ### About Our Blog
 
-Our blog covers various topics to help you make the most of your Hanoi motorcycle rental experience:
+Our blog covers diverse topics to help you make the most of your motorcycle rental experience in Hanoi:
 
-- **Travel (Du Lich)**: Discover the best routes and destinations around Hanoi
-- **Rental Tips (Kinh Nghiem)**: Learn how to rent a motorcycle safely and efficiently
-- **Guides (Chia Se)**: Practical advice for exploring Hanoi by motorcycle
+- **Travel**: Discover scenic routes and attractions around Hanoi
+- **Experience**: Learn how to rent motorcycles safely and efficiently
+- **Sharing**: Useful tips for getting around by motorcycle
 
 ### Subscribe
 
-Stay updated with our latest posts and rental tips. Bookmark this page and check back regularly!
+Bookmark this page and subscribe for the latest updates from Nguyen Tu!
 
-### Need a Motorcycle?
+### Need a Motorcycle in Hanoi?
 
-Ready to explore Hanoi on two wheels? Contact us now:
+Ready to explore Hanoi on two wheels? Contact us:
 
 <div class="cta-group">
   <a href="{{ '/en/pricing/' | relative_url }}" class="btn btn-primary">View Pricing</a>
