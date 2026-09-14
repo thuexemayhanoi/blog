@@ -40,7 +40,8 @@
         
         <div class="header-utilities">
           <div class="lang-switcher">
-            {% assign translation = translations[page.translation_key] %}
+            {% assign translation = translations[page.translation_key]
+ %}
             {% if current_lang == 'vi' %}
               {% if translation %}
                 <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
@@ -78,7 +79,8 @@
       <div class="mobile-utilities">
         <div class="lang-switcher">
           {% assign translation = translations[page.translation_key] %}
-          {% if current_lang == 'vi' %}
+          {% i
+f current_lang == 'vi' %}
             {% if translation %}
               <a href="{{ translation.vi | relative_url }}" class="lang-btn active">VI</a>
               <a href="{{ translation.en | relative_url }}" class="lang-btn">EN</a>
@@ -115,7 +117,8 @@
         <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="40" height="40">
         <span>{{ business.brand }}</span>
       </a>
-      <button class="mobile-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% endif %}">
+      <button class="mobile-close" aria-label="{% if current_lang == 'vi' %}Đóng{% else %}Close{% endi
+f %}">
         {% include icon.html name="close" size="24" %}
       </button>
     </div>
@@ -158,7 +161,8 @@
               Tính giá
             </a>
           {% else %}
-            <a href="{{ '/en/pricing/#rental-calculator' | relative_url }}" class="mobile-nav-link">
+            <a href="{{ '/en/pricing/#rental-calculator'
+ | relative_url }}" class="mobile-nav-link">
               {% include icon.html name="calculator" size="20" %}
               Calculate
             </a>
