@@ -116,8 +116,7 @@ permalink: /en/
   </div>
 </section>
 
-<!-- Blog Cat
-egories -->
+<!-- Blog Categories -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Blog Categories</h2>
@@ -208,10 +207,10 @@ s="area-tag">{{ area }}</span>
       <div class="about-contact">
         <h3>Contact Information</h3>
         <address>
-          <p>📍 {{ business.address.full }}</p>
-          <p>📞 <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-          <p>✉️ <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-          <p>🕒 {{ business.hours }}</p>
+          <p>{% include icon.html name="map-pin" size="16" %} {{ business.address.full }}</p>
+          <p>{% include icon.html name="phone" size="16" %} <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+          <p>{% include icon.html name="message" size="16" %} <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+          <p>{% include icon.html name="info" size="16" %} {{ business.hours }}</p>
         </address>
       </div>
     </div>
