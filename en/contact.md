@@ -17,19 +17,19 @@ Thank you for your interest in Nguyen Tu Motorcycle Rental. We are here to help 
 
 <div class="contact-grid">
   <div class="contact-card glass-card">
-    <h3>📍 Address</h3>
+    <h3>{% include icon.html name="map-pin" size="20" %} Address</h3>
     <p>{{ business.address.full }}</p>
     <p><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">View on Google Maps</a></p>
   </div>
   
   <div class="contact-card glass-card">
-    <h3>📞 Phone</h3>
+    <h3>{% include icon.html name="phone" size="20" %} Phone</h3>
     <p><a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
     <p>Available: {{ business.hours }}</p>
   </div>
   
   <div class="contact-card glass-card">
-    <h3>✉️ Email</h3>
+    <h3>{% include icon.html name="message" size="20" %} Email</h3>
     <p><a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
     <p>Response within 24 hours</p>
   </div>
@@ -39,17 +39,17 @@ Thank you for your interest in Nguyen Tu Motorcycle Rental. We are here to help 
 
 <div class="social-grid">
   <a href="{{ business.contact.zalo }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>💬 Zalo</h3>
+    <h3>{% include icon.html name="message" size="20" %} Zalo</h3>
     <p>Message us on Zalo</p>
   </a>
   
   <a href="{{ business.contact.whatsapp }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>📱 WhatsApp</h3>
+    <h3>{% include icon.html name="whatsapp" size="20" %} WhatsApp</h3>
     <p>Message us on WhatsApp</p>
   </a>
   
   <a href="{{ business.url }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
-    <h3>🌐 Website</h3>
+    <h3>{% include icon.html name="external-link" size="20" %} Website</h3>
     <p>Visit our main website</p>
   </a>
 </div>
@@ -62,7 +62,8 @@ You will need your passport or Vietnamese ID card. An international driving perm
 
 #### What is the minimum rental period?
 
-The minimum rental period is 1 day. We also offer weekly and monthly rates with discounts.
+The minimum rental period is 1 day. We also offer w
+eekly and monthly rates with discounts.
 
 #### Is insurance included?
 
