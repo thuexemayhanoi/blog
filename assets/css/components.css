@@ -104,8 +104,10 @@
   align-items: center;
   gap: var(--spacing-md);
   list-style: none;
-  margin: 0;
-  padding: 0;
+  margin: 0; padding
+
+
+ng: 0;
 }
 
 .nav-list li {
@@ -292,7 +294,7 @@ font-size: var(--font-size-sm);
 }
 
 .breadcrumb li {
-  display: inline-flex
+  display: inline-flex;
 
   align-items: center;
 }
@@ -398,8 +400,7 @@ font-size: var(--font-size-sm);
   padding: 0;
   background: var(--color
 -s
-urf
-ace-dark);
+urface-dark);
   border: 1px solid var(--color-border);
   border-radius: 50%;
   cursor: pointer;
@@ -453,8 +454,7 @@ ace-dark);
 }
 
 .submenu-arrow {
-  transition: transform var(--tran
-sition-fast);
+  transition: transform var(--transition-fast);
 }
 
 .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -549,8 +549,7 @@ gap: var(--spacing-xs);
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 50%;
-  box-shadow: var
-(
+  box-shadow: var(
 --shadow-md);
   text-decoration: none;
   transition: all var(--transition-fast);
@@ -598,8 +597,7 @@ gap: var(--spacing-xs);
   flex-direction: column;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing-xs) var
-(--s
+  padding: var(--spacing-xs) var(--s
 pacin
 g-sm);
   color: var(--color-text);
@@ -701,7 +699,7 @@ g-sm);
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  background
+  background:
  var(-
 -color-surface);
   border: 1px solid var(--color-border);
@@ -801,7 +799,7 @@ ground: var(--color-surface-dark);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--color-bor
+  border: 1px solid var(--color-border
 der);
  
  border-radius: var(--radius-md);
@@ -853,8 +851,7 @@ der);
   transition: all var(--transition-fast);
 }
 
-.assistant-se
-nd
+.assistant-send
 :hover {
   background: var(--color-primary-light);
 }
@@ -1045,8 +1042,7 @@ etween;
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  paddin
-g: var(--spacing-2xl) 0 var(--spacing-xl);
+  padding: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
@@ -1108,8 +1104,7 @@ g: var(--spacing-2xl) 0 var(--spacing-xl);
   display: flex;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(
---spacing
+  padding: var(--spacing
 -xs) var(-
 -spacing-sm);
   font-size: var(--font-size-sm);
