@@ -4,6 +4,7 @@ title: "Gioi thieu - Thue Xe May Ha Noi Nguyen Tu"
 description: "Gioi thieu ve dich vu thue xe may uy tin tai Ha Noi. Xe chat luong, gia ca minh bach, giao nhan tan noi."
 lang: vi
 translation_key: about
+permalink: /gioi-thieu/
 ---
 
 {% assign business = site.data.business %}
@@ -57,8 +58,7 @@ Chung toi chinh phuc vu tai cac quan noi thanh Ha Noi:
 - {{ area }}
 {% endfor %}
 
-**Luu y:** Thoi gian va chi phi giao nhan xe co the thay doi tuy theo khu vuc. Vui long xac nh
-an truoc khi dat xe.
+**Luu y:** Thoi gian va chi phi giao nhan xe co the thay doi tuy theo khu vuc. Vui long xac nhan truoc khi dat xe.
 
 ### Cam Ket Cua Chung Toi
 
