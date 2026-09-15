@@ -106,6 +106,10 @@
   .mobile-sub
 menu {
     list-style: none;
+    margin: 0;
+    padding-left: var(--spacing-lg);
+  }
+  
   .submenu-toggle {
     display: grid;
     grid-template-columns: 20px minmax(0, 1fr) 16px;
@@ -143,10 +147,6 @@ menu {
     background: var(--color-surface-dark);
   }
 
-    margin: 0;
-    padding-left: var(--spacing-lg);
-  }
-  
   .submenu-arrow {
     transition: transform var(--transition-fast);
   }
