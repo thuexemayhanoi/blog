@@ -1,36 +1,24 @@
 {% assign pricing = site.data.pricing %}
 {% assign business = site.data.business %}
-{% assign current_lang = page.lang | default: 'vi' %}
 
-<section class="calculator-section" id="{% if current_lang == 'en' %}rental-calculator{% else %}tinh-gia{% endif %}">
+<section class="calculator-section" id="tinh-gia">
   <div class="container">
     <div class="calculator-card glass-card">
       <h2>
-        {% if current_lang == 'vi' %}
-          {% include icon.html name="calculator" size="24" %}
-          Tính giá thuê xe
-        {% else %}
-          {% include icon.html name="calculator" size="24" %}
-          Rental Price Calculator
-        {% endif %}
+        {% include icon.html name="calculator" size="24" %}
+        Tính giá thuê xe
       </h2>
       
       <form class="calculator-form" id="rental-calculator">
         <!-- Vehicle Selection -->
         <div class="form-group">
-          <label for="vehicle-select">
-            {% if current_lang == 'vi' %}
-              Loại xe
-            {% else %}
-              Vehicle Type
-            {% endif %}
-          </label>
+          <label for="vehicle-select">Loại xe</label>
           <select id="vehicle-select" class="form-select">
             {% for vehicle in pricing.vehicles %}
             <option 
               value="{{ vehicle.id }}" 
-              data-name="{{ vehicle.name[current_lang] }}" 
-              data-category="{{ vehicle.category[current_lang] }}"
+              data-name="{{ vehicle.name.vi }}" 
+              data-category="{{ vehicle.category.vi }}"
               data-day-min="{{ vehicle.rates.day.min | default: 0 }}"
               data-day-max="{{ vehicle.rates.day.max | default: 0 }}"
               data-week-min="{{ vehicle.rates.week.min | default: 0 }}"
@@ -39,7 +27,7 @@
               data-month-max="{{ vehicle.rates.month.max | default: 0 }}"
               {% if vehicle.popular %}data-popular="true"{% endif %}
             >
-              {{ vehicle.name[current_lang] }} - {{ vehicle.category[current_lang] }}
+              {{ vehicle.name.vi }} - {{ vehicle.category.vi }}
             </option>
             {% endfor %}
           </select>
@@ -47,14 +35,7 @@
         
         <!-- Days Input -->
         <div class="form-group">
- 
-         <label for="days-input">
-            {% if current_lang == 'vi' %}
-              Số ngày thuê
-            {% else %}
-              Rental Days
-            {% endif %}
-          </label>
+          <label for="days-input">Số ngày thuê</label>
           <div class="input-with-buttons">
             <input 
               type="number" 
@@ -77,50 +58,25 @@
         <!-- Results -->
         <div class="calculator-results">
           <div class="result-item">
-            <span class="result-label">
-              {% if current_lang == 'vi' %}
-                Ước tính:
-              {% else %}
-                Estimated Price:
-              {% endif %}
-            </span>
-            <span class="result-value" id="estimated-price">
-              {% if current_lang == 'vi' %}
-                Chọn xe và ngày
-              {% else %}
-                Select vehicle and days
-              {% endif %}
-            </span>
+            <span class="result-label">Ước tính:</span>
+            <span class="result-value" id="estimated-price">Chọn xe và ngày</span>
           </div>
           <div class="result-breakdown" id="price-breakdown"></div>
         </div>
         
         <div class="calculator-disclaimer">
-          {% if current_lang == 'vi' %}
-            <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.</p>
-          {% else %}
-            <p>This is an estimated price based on the current reference rates. Vehicle availability, deposit, d
-elivery fees and final rental price should be confirmed directly with Nguyen Tu before booking.</p>
-          {% endif %}
+          <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.</p>
         </div>
         
         <!-- CTA Buttons -->
         <div class="calculator-cta">
           <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
             {% include icon.html name="phone" size="18" %}
-            {% if current_lang == 'vi' %}
-              Gọi ngay
-            {% else %}
-              Call Now
-            {% endif %}
+            Gọi ngay
           </a>
           <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
             {% include icon.html name="message" size="18" %}
-            {% if current_lang == 'vi' %}
-              Nhắn Zalo
-            {% else %}
-              Zalo
-            {% endif %}
+            Nhắn Zalo
           </a>
           <a 
             href="{{ business.contact.whatsapp }}?text={{ "Xin+chào+Nguyễn+Tú%2C+tôi+muốn+thuê+xe" | url_encode }}" 
@@ -129,11 +85,7 @@ elivery fees and final rental price should be confirmed directly with Nguyen Tu 
             rel="noopener noreferrer"
           >
             {% include icon.html name="whatsapp" size="18" %}
-            {% if current_lang == 'vi' %}
-              WhatsApp
-            {% else %}
-              WhatsApp
-            {% endif %}
+            WhatsApp
           </a>
         </div>
       </form>
