@@ -4,6 +4,7 @@ title: "Dieu khoan su dung - Thue Xe May Ha Noi Nguyen Tu"
 description: "Dieu khoan va dieu kien ve dich vu thue xe may tai Ha Noi."
 lang: vi
 translation_key: terms
+permalink: /dieu-khoan/
 ---
 
 {% assign business = site.data.business %}
@@ -59,8 +60,7 @@ Ban phai trach nhiem ve:
 - Tien dat coc theo yeu cau
 - Phi tra muon (neu co)
 - Chi phi sua chua (neu xe bi hu hong do loi cua ban)
-- Chi phi boi thuon
-g toan bo (neu mat xe)
+- Chi phi boi thuon toan bo (neu mat xe)
 - Bat ky khoan tien phat nao phat sinh trong thoi gian thue
 
 ### Chinh Sach Huy Dat Xe
