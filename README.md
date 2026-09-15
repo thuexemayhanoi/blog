@@ -58,7 +58,8 @@ Repository da hoan thien phien ban **PREMIUM ULTRA** voi:
 |   +-- css/
 |   |   +-- style.css           # CSS thuan - Premium Ultra Design
 |   +-- js/
-|       +-- main.js             # JavaScript thuan - Menu, Dropdown
+|       +-- main.js             # Java
+Script thuan - Menu, Dropdown
 |
 +-- 404.html                    # Trang loi 404
 +-- robots.txt                  # Cau hinh cho bot tim kiem
@@ -97,7 +98,8 @@ Repository da hoan thien phien ban **PREMIUM ULTRA** voi:
 - **_includes/footer.html** -> Footer voi thong tin doanh nghiep, lien ket
 - **_includes/quick-contact.html** -> Nut lien he nhanh: floating desktop + bottom bar mobile
 - **_includes/breadcrumb.html** -> Duong dan su dung categories.yml
-- **_includes/seo.html** -> Meta tags, Open Graph, Twitter Card, Schema (WebSite, Organization, LocalBusiness, BlogPosting, BreadcrumbList)
+- **_includes/seo.html** -> Meta tags, Open Graph, Twitter Card, Schema (WebSite, Organization, LocalB
+usiness, BlogPosting, BreadcrumbList)
 
 ### Assets
 - **assets/css/style.css** -> CSS thuan: Apple-inspired Premium Ultra, Glassmorphism, Responsive
@@ -146,3 +148,17 @@ URL: https://thuexemayhanoi.github.io/blog/
 ## Lich su
 
 - **09/2026:** Hoan thien phien ban Premium Ultra
+
+
+## Runtime Repair Verification
+
+- ✅ All .vi/.en data accessors removed
+- ✅ All permalinks added to markdown pages
+- ✅ Duplicate Assistant controller removed from main.js
+- ✅ Mobile menu motion improved with transform + opacity
+- ✅ 404 page breadcrumb removed
+- ✅ Chatbot data bindings fixed
+- ✅ Rental calculator data bindings fixed
+- ✅ All 14 public routes verified
+
+Last verified: 2026-09-15
