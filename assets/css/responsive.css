@@ -204,8 +204,7 @@ menu {
   }
   
   @media (max-width: 359px) {
-    .mobile-co
-ntact-bar__label {
+    .mobile-contact-bar__label {
       display: none;
     }
     
@@ -249,8 +248,7 @@ ntact-bar__label {
   
   .footer-links a {
     display: block;
-    padding: var(--spa
-cing-xs) 0;
+    padding: var(--spacing-xs) 0;
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
     text-decoration: none;
@@ -405,8 +403,7 @@ ing: var(--spacing-xs) var(--spacing-sm);
   }
   
   .about-content {
-    flex-direction: colum
-n;
+    flex-direction: column;
     gap: var(--spacing-lg);
   }
   
@@ -431,11 +428,10 @@ n;
   }
   
   .commitments li::before {
-    content: "✓";
+    content: "\2713";
     position: absolute;
     left: 0;
-    color: var
-(--color-success);
+    color: var(--color-success);
   }
   
   .cta-group {
@@ -538,8 +534,7 @@ padding-left: var(--spacing-lg);
   }
   
   .mobile-contact-bar {
-    display: f
-lex;
+    display: flex;
   }
   
   main {
@@ -600,8 +595,7 @@ lex;
     gap: var(--spacing-xl);
   }
   
-  .a
-bout-text,
+  .about-text,
   .about-contact {
     flex: 1;
   }
@@ -628,7 +622,7 @@ bout-text,
   }
   
   .commitments li::before {
-    content: "✓";
+    content: "\2713";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -779,7 +773,7 @@ grid-template-columns: repeat(4, 1fr);
   }
   
   .commitments li::before {
-    content: "✓";
+    content: "\2713";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -802,8 +796,7 @@ grid-template-columns: repeat(4, 1fr);
   
   .hero-cta {
     flex-wrap: wrap;
-    justify
--content: center;
+    justify-content: center;
     gap: var(--spacing-md);
   }
   
