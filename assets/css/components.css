@@ -485,7 +485,8 @@
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 50%;
-  box-shadow: var(--shadow-md);
+  box-shadow: var(
+--shadow-md);
   text-decoration: none;
   transition: all var(--transition-fast);
 }
@@ -576,8 +577,7 @@
   border: none;
   border-radius: 50%;
   box-shadow: var(--shadow-lg);
-  cursor: poi
-nter;
+  cursor: pointer;
   z-index: var(--z-fixed);
   transition: all var(--transition-normal);
 }
@@ -1074,7 +1074,8 @@ nter;
   margin-bottom: var(--spacing-sm);
 }
 
-.footer-bottom {
+.footer-bottom 
+{
   display: flex;
   justify-content: center;
   padding-top: var(--spacing-xl);
