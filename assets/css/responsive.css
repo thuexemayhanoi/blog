@@ -424,7 +424,8 @@
     width: 100%;
   }
   
-  .social-links {
+  .s
+ocial-links {
     justify-content: flex-start;
   }
   
@@ -756,7 +757,7 @@
     height: 40px;
   }
   
-  .calc-link {
+  ..calc-link {
     display: flex;
   }
   
@@ -887,7 +888,8 @@
   .hero-cta {
     flex-wrap: wrap;
     justify-content: center;
-    gap: var(--spacing-md);
+    gap: var
+(--spacing-md);
   }
   
   .hero-cta .btn {
