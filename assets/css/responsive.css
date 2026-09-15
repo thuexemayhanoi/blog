@@ -103,53 +103,15 @@
     padding-left: 0;
   }
   
-  .mobile-sub
-
-menu {
+  .mobile-submenu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
   }
   
-  .submenu-toggle {
-    display: grid;
-    grid-template-columns: 20px minmax(0, 1fr) 16px;
-    align-items: center;
-    column-gap: var(--spacing-sm);
-    text-align: left;
-    justify-content: initial;
-    width: 100%;
-    padding: var(--spacing-sm) var(--spacing-md);
-    background: transparent;
-    border: none;
-    cursor: pointer;
-  }
-
-  .submenu-toggle:hover {
-    background: var(--color-surface-dark);
-  }
-
-  .submenu-toggle .submenu-arrow {
-    justify-self: end;
-  }
-
-  .mobile-nav-link {
-    display: grid;
-    grid-template-columns: 20px 1fr;
-    align-items: center;
-    column-gap: var(--spacing-sm);
-    text-align: left;
-    padding: var(--spacing-sm) var(--spacing-md);
-    color: var(--color-text);
-    text-decoration: none;
-  }
-
-  .mobile-nav-link:hover {
-    background: var(--color-surface-dark);
-  }
-
   .submenu-arrow {
-    transition: transform var(--transition-fast);
+    transiti
+on: transform var(--transition-fast);
   }
   
   .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -171,7 +133,8 @@ menu {
   }
   
   .action-btn span {
-    font-size: var(--font-size-xxs);
+    font-size: var(--font-s
+ize-xxs);
   }
   
   .contact-rail {
@@ -248,11 +211,13 @@ menu {
   
   .footer-links a {
     display: block;
-    padding: var(--spacing-xs) 0;
+    padding: var(--spa
+cing-xs) 0;
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
     text-decoration: none;
-    transition: color var(--transition-fast);
+    t
+ransition: color var(--transition-fast);
   }
   
   .footer-links a:hover {
@@ -263,42 +228,6 @@ menu {
   .calculator-card {
     padding: 22px;
   }
-
-  /* Calculator Mobile UI */
-  .form-select,
-  .form-input {
-    min-height: 52px;
-    box-sizing: border-box;
-  }
-
-  .form-select {
-    height: 52px;
-    padding-top: 0;
-    padding-bottom: 0;
-    line-height: normal;
-  }
-
-  .day-btn {
-    min-width: 44px;
-    padding: var(--spacing-xs) var(--spacing-sm);
-    border: 1px solid var(--color-border);
-    border-radius: var(--radius-md);
-    background: var(--color-surface);
-    color: var(--color-text);
-    cursor: pointer;
-  }
-
-  .day-btn:hover {
-    background: var(--color-surface-dark);
-  }
-
-  .day-btn.selected,
-  .day-btn[aria-pressed="true"] {
-    background: var(--color-primary);
-    color: var(--color-primary-contrast);
-    border-color: var(--color-primary);
-  }
-
   
   .form-select,
   .form-input {
@@ -311,8 +240,7 @@ menu {
   
   .day-btn {
     min-width: 44px;
-    padd
-ing: var(--spacing-xs) var(--spacing-sm);
+    padding: var(--spacing-xs) var(--spacing-sm);
   }
   
   .calculator-cta {
@@ -320,7 +248,8 @@ ing: var(--spacing-xs) var(--spacing-sm);
   }
   
   .calculator-cta .btn {
-    width: 100%;
+    width: 1
+00%;
   }
   
   /* Assistant */
@@ -403,7 +332,8 @@ ing: var(--spacing-xs) var(--spacing-sm);
   }
   
   .about-content {
-    flex-direction: column;
+    flex-direction: colum
+n;
     gap: var(--spacing-lg);
   }
   
@@ -413,7 +343,8 @@ ing: var(--spacing-xs) var(--spacing-sm);
   }
   
   .social-links {
-    justify-content: flex-start;
+    jus
+tify-content: flex-start;
   }
   
   .commitments {
@@ -428,7 +359,7 @@ ing: var(--spacing-xs) var(--spacing-sm);
   }
   
   .commitments li::before {
-    content: "\2713";
+    content: "✓";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -555,8 +486,7 @@ lex;
   .footer-col h4 {
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-semibold);
-    color
-: var(--color-text);
+    color: var(--color-text);
   }
   
   .footer-links {
@@ -624,7 +554,7 @@ bout-text,
   }
   
   .commitments li::before {
-    content: "\2713";
+    content: "✓";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -662,7 +592,8 @@ bout-text,
   
   .theme-toggle {
     width: 40px;
-    height: 40px;
+    he
+ight: 40px;
   }
   
   .calc-link {
@@ -700,8 +631,7 @@ bout-text,
     grid-column: span 1;
   }
   
-  
-.footer-col h4 {
+  .footer-col h4 {
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-semibold);
     color: var(--color-text);
@@ -775,7 +705,7 @@ grid-template-columns: repeat(4, 1fr);
   }
   
   .commitments li::before {
-    content: "\2713";
+    content: "✓";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -798,7 +728,8 @@ grid-template-columns: repeat(4, 1fr);
   
   .hero-cta {
     flex-wrap: wrap;
-    justify-content: center;
+    justify
+-content: center;
     gap: var(--spacing-md);
   }
   
@@ -820,8 +751,7 @@ grid-template-columns: repeat(4, 1fr);
   }
   
   .mobile-menu {
-    opacity:
- 1;
+    opacity: 1;
     visibility: visible;
   }
   
