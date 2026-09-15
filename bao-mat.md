@@ -4,6 +4,7 @@ title: "Chinh sach bao mat - Thue Xe May Ha Noi Nguyen Tu"
 description: "Chinh sach bao mat ve thong tin ca nhan va dich vu thue xe may tai Ha Noi."
 lang: vi
 translation_key: privacy
+permalink: /bao-mat/
 ---
 
 {% assign business = site.data.business %}
@@ -47,8 +48,7 @@ Chung toi thuc hien cac bien phap ky thuat va to chuc thich hop de bao ve thong 
 
 ### Quyen Cua Ban
 
-Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day 
-ve thong tin ca nhan cua minh:
+Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day ve thong tin ca nhan cua minh:
 
 - Quyen truy cap va nhan ban sao thong tin ca nhan cua minh
 - Quyen yeu cau hieu chinh thong tin khong chinh xac
