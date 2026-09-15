@@ -59,6 +59,7 @@ Repository da hoan thien phien ban **PREMIUM ULTRA** voi:
 |   |   +-- style.css           # CSS thuan - Premium Ultra Design
 |   +-- js/
 |       +-- main.js             # Java
+
 Script thuan - Menu, Dropdown
 |
 +-- 404.html                    # Trang loi 404
@@ -98,7 +99,8 @@ Script thuan - Menu, Dropdown
 - **_includes/footer.html** -> Footer voi thong tin doanh nghiep, lien ket
 - **_includes/quick-contact.html** -> Nut lien he nhanh: floating desktop + bottom bar mobile
 - **_includes/breadcrumb.html** -> Duong dan su dung categories.yml
-- **_includes/seo.html** -> Meta tags, Open Graph, Twitter Card, Schema (WebSite, Organization, LocalB
+- **_includes/seo.html** -> Meta tags, Open Graph, Twitter Card, Schema (WebSite, Organization, Local
+B
 usiness, BlogPosting, BreadcrumbList)
 
 ### Assets
@@ -162,3 +164,5 @@ URL: https://thuexemayhanoi.github.io/blog/
 - ✅ All 14 public routes verified
 
 Last verified: 2026-09-15
+
+<!-- FIXED -->
