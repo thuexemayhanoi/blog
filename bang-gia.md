@@ -4,6 +4,7 @@ title: "Bang gia thue xe may Ha Noi"
 description: "Bang gia thue xe may tai Ha Noi. Gia ca minh bach, cap nhat moi nhat tu Nguyen Tu."
 lang: vi
 translation_key: pricing
+permalink: /bang-gia/
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -22,10 +23,10 @@ Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham kh
 
 <div class="pricing-table">
   {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category.vi == 'Xe so' %}
+    {% if vehicle.category == 'Xe so' %}
     <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name.vi }}</h3>
-      <p>{{ vehicle.description.vi }}</p>
+      <h3>{{ vehicle.name }}</h3>
+      <p>{{ vehicle.description }}</p>
       <div class="price-grid">
         {% if vehicle.rates.day.min %}
         <div class="price-item">
@@ -59,10 +60,10 @@ Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham kh
 
 <div class="pricing-table">
   {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category.vi == 'Xe ga' or vehicle.category.vi == 'Budget automatic scooter' %}
+    {% if vehicle.category == 'Xe ga' %}
     <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name.vi }}</h3>
-      <p>{{ vehicle.description.vi }}</p>
+      <h3>{{ vehicle.name }}</h3>
+      <p>{{ vehicle.description }}</p>
       <div class="price-grid">
         {% if vehicle.rates.day.min %}
         <div class="price-item">
@@ -96,10 +97,10 @@ Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham kh
 
 <div class="pricing-table">
   {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category.vi == 'Xe may dien' %}
+    {% if vehicle.category == 'Xe may dien' %}
     <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name.vi }}</h3>
-      <p>{{ vehicle.description.vi }}</p>
+      <h3>{{ vehicle.name }}</h3>
+      <p>{{ vehicle.description }}</p>
       <div class="price-grid">
         {% if vehicle.rates.day.min %}
         <div class="price-item">
@@ -134,7 +135,7 @@ Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham kh
 <div class="pricing-card glass-card">
   <h3>Xe Dap Dien</h3>
   <p>Nhe nhang, phu hop cho khoang cach ngan. Vui long lien he de biet gia hien tai.</p>
-  <p class="note"><em>{{ pricing.vehicles | where: "id", "electric-scooter" | first | property: "note.vi" | default: "Vui long lien he Nguyen Tu de kiem tra gia hien tai" }}</em></p>
+  <p class="note"><em>{{ pricing.vehicles | where: "id", "electric-scooter" | first | property: "note" | default: "Vui long lien he Nguyen Tu de kiem tra gia hien tai" }}</em></p>
 </div>
 
 ### Loai Hinh Thue
@@ -142,7 +143,7 @@ Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham kh
 <div class="rental-types">
   {% for rental in pricing.rental_types %}
   <div class="rental-type">
-    <h4>{{ rental.name.vi }}</h4>
+    <h4>{{ rental.name }}</h4>
     <p>{{ rental.description }}</p>
   </div>
   {% endfor %}
@@ -151,7 +152,7 @@ Tat ca gia deu duoc niem yet bang Dong Viet Nam (VND). Luu y: day la gia tham kh
 ### Luu Y Quan Trong
 
 - Tat ca gia deu la gia tham khao va co the thay doi tuy theo tinh hinh xe
-- Tien dat coc bat buoc cho tat ca cac hop dong thue
+- Tien dat coc bat buoc cho tat ca cac hop dong thue va se duoc hoan tra sau khi tra xe dung hen va xe khong bi hu hong
 - Phi giao nhan xe co the ap dung tuy thuoc vao vi tri
 - Vui long xac nhan gia cuoi cung va tinh trang xe truc tiep voi Nguyen Tu truoc khi dat xe
 - Thoi han thue: Toi thieu 1 ngay, toi da 365 ngay
