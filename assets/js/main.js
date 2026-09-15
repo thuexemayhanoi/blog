@@ -1,7 +1,7 @@
 /**
  * DIGITAL FLAGSHIP EXPERIENCE
  * FIXED: Removed duplicate Assistant controller - assistant.js is sole chatbot handler
- * Main JavaScript for NGUYỄN TÚ DIGITAL FLAGSHIP WORLD-CLASS EXPERIENCE
+ * Main JavaScript for NGUYEN TU DIGITAL FLAGSHIP WORLD-CLASS EXPERIENCE
  */
 
 (function() {
@@ -56,15 +56,14 @@
       var moonIcons = document.querySelectorAll('.theme-icon-moon');
       var toggleButtons = document.querySelectorAll('[data-theme-toggle]');
       
-      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block';
- });
+      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block'; });
       moonIcons.forEach(function(icon) { icon.style.display = isDark ? 'block' : 'none'; });
       
       toggleButtons.forEach(function(btn) {
         if (isDark) {
-          btn.setAttribute('aria-label', 'Chuyển sang chế độ sáng');
+          btn.setAttribute('aria-label', 'Chuyen sang che do sang');
         } else {
-          btn.setAttribute('aria-label', 'Chuyển sang chế độ tối');
+          btn.setAttribute('aria-label', 'Chuyen sang che do toi');
         }
       });
     }
@@ -122,8 +121,7 @@
       submenuToggles.forEach(function(toggle) {
         toggle.addEventListener('click', function(e) {
           e.preventDefault();
-         
- var expanded = this.getAttribute('aria-expanded') === 'true';
+          var expanded = this.getAttribute('aria-expanded') === 'true';
           this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         });
       });
@@ -174,8 +172,7 @@
         if (dropdownToggle && dropdownMenu) {
           dropdownItem.addEventListener('mouseenter', function() {
             dropdownMenu.style.opacity = '1';
-            dropdownMenu.style.visibil
-ity = 'visible';
+            dropdownMenu.style.visibility = 'visible';
             dropdownMenu.style.transform = 'translateY(0)';
           });
           dropdownItem.addEventListener('mouseleave', function() {
