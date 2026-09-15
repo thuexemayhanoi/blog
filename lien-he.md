@@ -4,6 +4,7 @@ title: "Lien he - Thue Xe May Ha Noi Nguyen Tu"
 description: "Thong tin lien he de thue xe may tai Ha Noi. Dien thoai, Zalo, WhatsApp, Google Maps."
 lang: vi
 translation_key: contact
+permalink: /lien-he/
 ---
 
 {% assign business = site.data.business %}
@@ -30,7 +31,7 @@ Cam on ban da quan tam den dich vu thue xe may tai Ha Noi cua Nguyen Tu. Chung t
   <div class="contact-card glass-card">
     <h3>{% include icon.html name="message" size="20" %} Email</h3>
     <p><a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-    <p>Tra loi trong vòng 24 gio</p>
+    <p>Tra loi trong vong 24 gio</p>
   </div>
 </div>
 
@@ -64,8 +65,7 @@ Ban can su dung:
 
 #### Thoi gian thue toi thieu la bao nhieu?
 
-Thoi gian thue toi thieu
- la 1 ngay. Chung toi cung cap thue theo tuan va thang voi nhung uu dai ve gia.
+Thoi gian thue toi thieu la 1 ngay. Chung toi cung cap thue theo tuan va thang voi nhung uu dai ve gia.
 
 #### Xe co bao hiem khong?
 
