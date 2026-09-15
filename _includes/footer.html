@@ -6,6 +6,9 @@
     <details class="footer-accordion" open>
       <summary class="footer-accordion-summary" aria-label="Menu chính">
         <span class="footer-accordion-title">Menu chính</span>
+        <span class="footer-accordion-chevron" aria-hidden="true">
+          {% include icon.html name="chevron-down" size="20" %}
+        </span>
       </summary>
       
       <div class="footer-grid">
@@ -25,15 +28,15 @@
           <div class="social-links">
             <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
               {% include icon.html name="message" size="18" %}
-              Zalo
+              <span>Zalo</span>
             </a>
             <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
               {% include icon.html name="whatsapp" size="18" %}
-              WhatsApp
+              <span>WhatsApp</span>
             </a>
             <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
               {% include icon.html name="map-pin" size="18" %}
-              Google Maps
+              <span>Google Maps</span>
             </a>
           </div>
         </div>
@@ -42,7 +45,7 @@
         {% for section in nav %}
         <div class="footer-col">
           <h4>{{ section.title }}</h4>
-          <ul class="footer-links" style="list-style: none; margin: 0; padding-left: 0;">
+          <ul class="footer-links">
             {% for link in section.links %}
             <li>
               <a 
