@@ -107,6 +107,7 @@
   margin: 0; padding
 
 
+
 ng: 0;
 }
 
@@ -198,6 +199,7 @@ ng: 0;
 .dropdown-item {
   display: block;
   padding: var(--spacing-sm) var(--spacing-md);
+
 
  
  
@@ -398,7 +400,7 @@ font-size: var(--font-size-sm);
   width: 40px;
   height: 40px;
   padding: 0;
-  background: var(--color
+  background: var(--color-surface-
 -s
 urface-dark);
   border: 1px solid var(--color-border);
@@ -501,7 +503,8 @@ urface-dark);
 .action-btn {
   display: flex;
   flex-direction: column;
-  align-items: center
+  align-items: cent
+er
 ;
   
 gap: var(--spacing-xs);
@@ -597,7 +600,8 @@ gap: var(--spacing-xs);
   flex-direction: column;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing-xs) var(--s
+  padding: var(--spacing-xs) var(-
+-s
 pacin
 g-sm);
   color: var(--color-text);
@@ -699,7 +703,8 @@ g-sm);
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  background:
+  backgroun
+d:
  var(-
 -color-surface);
   border: 1px solid var(--color-border);
@@ -799,7 +804,8 @@ ground: var(--color-surface-dark);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--color-border
+  border: 1px solid var(--color-
+border
 der);
  
  border-radius: var(--radius-md);
@@ -901,6 +907,7 @@ der);
 .calculator-form {
   display: flex;
   flex-direction: c
+
 olumn;
 
   gap: v
@@ -992,6 +999,7 @@ ar(--spacing-lg);
 .result-item {
   display: flex;
   justify
+
 -content
 : space-b
 etween;
@@ -1104,7 +1112,8 @@ etween;
   display: flex;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing
+  padding: var(
+--spacing
 -xs) var(-
 -spacing-sm);
   font-size: var(--font-size-sm);
@@ -1198,6 +1207,7 @@ tom
   transform: translateY(-1px);
   box-shadow: var(--shadow-md);
 }
+
 
 
 .btn-seco
