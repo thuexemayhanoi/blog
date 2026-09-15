@@ -110,8 +110,7 @@
   }
   
   .submenu-arrow {
-    transiti
-on: transform var(--transition-fast);
+    transition: transform var(--transition-fast);
   }
   
   .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -133,8 +132,7 @@ on: transform var(--transition-fast);
   }
   
   .action-btn span {
-    font-size: var(--font-s
-ize-xxs);
+    font-size: var(--font-size-xxs);
   }
   
   .contact-rail {
@@ -211,8 +209,7 @@ ize-xxs);
   
   .footer-links a {
     display: block;
-    padding: var(--spa
-cing-xs) 0;
+    padding: var(--spacing-xs) 0;
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
     text-decoration: none;
@@ -332,8 +329,7 @@ ransition: color var(--transition-fast);
   }
   
   .about-content {
-    flex-direction: colum
-n;
+    flex-direction: column;
     gap: var(--spacing-lg);
   }
   
@@ -343,8 +339,7 @@ n;
   }
   
   .social-links {
-    jus
-tify-content: flex-start;
+    justify-content: flex-start;
   }
   
   .commitments {
@@ -359,7 +354,7 @@ tify-content: flex-start;
   }
   
   .commitments li::before {
-    content: "✓";
+    content: "\2713";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -465,8 +460,7 @@ padding-left: var(--spacing-lg);
   }
   
   .mobile-contact-bar {
-    display: f
-lex;
+    display: flex;
   }
   
   main {
@@ -526,8 +520,7 @@ lex;
     gap: var(--spacing-xl);
   }
   
-  .a
-bout-text,
+  .about-text,
   .about-contact {
     flex: 1;
   }
@@ -554,7 +547,7 @@ bout-text,
   }
   
   .commitments li::before {
-    content: "✓";
+    content: "\2713";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -592,8 +585,7 @@ bout-text,
   
   .theme-toggle {
     width: 40px;
-    he
-ight: 40px;
+    height: 40px;
   }
   
   .calc-link {
@@ -705,7 +697,7 @@ grid-template-columns: repeat(4, 1fr);
   }
   
   .commitments li::before {
-    content: "✓";
+    content: "\2713";
     position: absolute;
     left: 0;
     color: var(--color-success);
