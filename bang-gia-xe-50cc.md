@@ -4,6 +4,7 @@ title: "Bang gia xe 50cc - Thue Xe May Ha Noi Nguyen Tu"
 description: "Bang gia thue xe 50cc tai Ha Noi. Phu hop cho du khach nuoc ngoai."
 lang: vi
 translation_key: xe-50cc
+permalink: /bang-gia-xe-50cc/
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -23,7 +24,7 @@ Xe 50cc la loai xe co dong co nho, cong suat duoi 50cc. Loai xe nay dac biet phu
 ### Gia Thue
 
 <div class="pricing-card glass-card">
-  <p>{{ pricing.vehicles | where: "id", "electric-scooter" | first | property: "note.vi" | default: "Vui long lien he Nguyen Tu de kiem tra gia hien tai" }}</p>
+  <p>{{ pricing.vehicles | where: "id", "electric-scooter" | first | property: "note" | default: "Vui long lien he Nguyen Tu de kiem tra gia hien tai" }}</p>
 </div>
 
 ### Luu Y
