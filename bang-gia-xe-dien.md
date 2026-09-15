@@ -4,6 +4,7 @@ title: "Bang gia xe dien - Thue Xe May Ha Noi Nguyen Tu"
 description: "Bang gia thue xe dien (electric motorbike) tai Ha Noi. Than thien voi moi truong."
 lang: vi
 translation_key: xe-dien
+permalink: /bang-gia-xe-dien/
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -17,10 +18,10 @@ Xe dien (electric motorbike) la phuong tien than thien voi moi truong, khong pha
 
 <div class="pricing-table">
   {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category.vi == 'Xe may dien' %}
+    {% if vehicle.category == 'Xe may dien' %}
     <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name.vi }}</h3>
-      <p>{{ vehicle.description.vi }}</p>
+      <h3>{{ vehicle.name }}</h3>
+      <p>{{ vehicle.description }}</p>
       <div class="price-grid">
         {% if vehicle.rates.day.min %}
         <div class="price-item">
