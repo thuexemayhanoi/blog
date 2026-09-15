@@ -5,6 +5,7 @@ description: "Kinh nghiem thue xe may tai Ha Noi, tu chon xe den su dung an toan
 lang: vi
 translation_key: experience
 category: Kinh nghiem
+permalink: /kinh-nghiem/
 ---
 
 {% assign current_lang = page.lang | default: site.lang %}
