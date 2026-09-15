@@ -203,7 +203,8 @@ ng: 0;
 
  
  
-font-size: var(--font-size-sm);
+f
+ont-size: var(--font-size-sm);
   color: var(--color-text);
   border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -296,7 +297,8 @@ font-size: var(--font-size-sm);
 }
 
 .breadcrumb li {
-  display: inline-flex;
+  display: inline-f
+lex;
 
   align-items: center;
 }
@@ -400,7 +402,10 @@ font-size: var(--font-size-sm);
   width: 40px;
   height: 40px;
   padding: 0;
-  background: var(--color-surface-dark);
+  background: var(--color
+-s
+urf
+ace-dark);
   border: 1px solid var(--color-border);
   border-radius: 50%;
   cursor: pointer;
@@ -454,7 +459,8 @@ font-size: var(--font-size-sm);
 }
 
 .submenu-arrow {
-  transition: transform var(--transition-fast);
+  transition: transform var(--tran
+sition-fast);
 }
 
 .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -501,7 +507,8 @@ font-size: var(--font-size-sm);
 .action-btn {
   display: flex;
   flex-direction: column;
-  align-items: center
+  align-items: cen
+ter
 ;
   
 gap: var(--spacing-xs);
@@ -550,7 +557,8 @@ gap: var(--spacing-xs);
   border: 1px solid var(--color-border);
   border-radius: 50%;
   box-shadow: var
-(--shadow-md);
+(
+--shadow-md);
   text-decoration: none;
   transition: all var(--transition-fast);
 }
@@ -598,7 +606,9 @@ gap: var(--spacing-xs);
   align-items: center;
   gap: var(--spacing-xs);
   padding: var(--spacing-xs) var
-(--spacing-sm);
+(--s
+pacin
+g-sm);
   color: var(--color-text);
   background: transparent;
   border: none;
@@ -642,7 +652,8 @@ gap: var(--spacing-xs);
   border: none;
   border-radius: 50%;
   box-shadow: var(--shadow-lg);
-  cursor: pointer;
+  cursor: p
+ointer;
   z-index: var(--z-fixed);
   transition: all var(--transition-normal);
 }
@@ -698,9 +709,9 @@ gap: var(--spacing-xs);
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  background:
- var(-
--color-surface);
+  backgr
+ound:
+ var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-xl);
   box-shadow: var(--shadow-xl);
@@ -750,7 +761,8 @@ gap: var(--spacing-xs);
 }
 
 .assistant-close:hover {
-  background: var(--color-surface-dark);
+  back
+ground: var(--color-surface-dark);
 }
 
 .assistant-body {
@@ -797,7 +809,9 @@ gap: var(--spacing-xs);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--col
+or-bor
+der);
  
  border-radius: var(--radius-md);
   cursor: pointer;
@@ -848,7 +862,8 @@ gap: var(--spacing-xs);
   transition: all var(--transition-fast);
 }
 
-.assistant-send
+.assistant-se
+nd
 :hover {
   background: var(--color-primary-light);
 }
@@ -897,9 +912,11 @@ gap: var(--spacing-xs);
 
 .calculator-form {
   display: flex;
-  flex-direction: column;
+  flex-direction: c
+olumn;
 
-  gap: var(--spacing-lg);
+  gap: v
+ar(--spacing-lg);
 }
 
 .form-group {
@@ -986,8 +1003,10 @@ gap: var(--spacing-xs);
 
 .result-item {
   display: flex;
-  justify-content
-: space-between;
+  justify
+-content
+: space-b
+etween;
   align-items: center;
   margin-bottom: var(--spacing-sm);
 }
@@ -1035,7 +1054,8 @@ gap: var(--spacing-xs);
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  padding: var(--spacing-2xl) 0 var(--spacing-xl);
+  paddin
+g: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
@@ -1097,8 +1117,9 @@ gap: var(--spacing-xs);
   display: flex;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing-xs) var(-
--spacing-sm);
+  padding: var(
+--spacing
+-xs) var(--spacing-sm);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface);
@@ -1146,7 +1167,7 @@ gap: var(--spacing-xs);
   margin-bottom: var(--spacing-sm);
 }
 
-.footer-bottom
+.footer-bottom 
 {
   display: flex;
   justify-content: center;
@@ -1191,7 +1212,8 @@ gap: var(--spacing-xs);
 }
 
 
-.btn-secondary {
+.btn-seco
+ndary {
   background-color: var(--color-surface);
   color: var(--color-text);
   border: 1px solid var(--color-border);
