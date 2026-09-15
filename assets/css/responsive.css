@@ -58,21 +58,40 @@
   
   .mobile-menu-toggle:hover {
     background: var(--color-surface-dark);
-  }
-  
+  } 
   .mobile-menu {
-    display: block;
-    transform: translateX(100%);
-    transition: transform var(--transition-normal);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: var(--z-modal-backdrop);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 220ms ease, visibility 220ms ease;
   }
   
   .mobile-menu-open .mobile-menu {
-    transform: translateX(0);
+    opacity: 1;
+    visibility: visible;
   }
   
   .mobile-menu-inner {
+    position: absolute;
+    top: 0;
+    left: 10px;
     width: min(380px, calc(100vw - 20px));
     max-height: calc(100dvh - 100px);
+    transform: translateX(24px) scale(.98);
+    opacity: 0;
+    transition: transform 220ms ease, opacity 220ms ease;
+  }
+  
+  .mobile-menu-open .mobile-menu-inner {
+    transform: translateX(0) scale(1);
+    opacity: 1;
   }
   
   .mobile-nav-list {
@@ -110,7 +129,8 @@
   }
   
   .action-btn span {
-    font-size: var(--font-size-xxs);
+    font-size: var(--font-s
+ize-xxs);
   }
   
   .contact-rail {
@@ -222,7 +242,8 @@
   }
   
   .calculator-cta .btn {
-    width: 100%;
+    width: 1
+00%;
   }
   
   /* Assistant */
@@ -343,7 +364,8 @@
   
   .cta-group .btn {
     width: 100%;
-  }
+ 
+ }
 }
 
 /* TABLET: 768-1199px */
@@ -380,22 +402,41 @@
   
   .mobile-utilities {
     display: none;
-  }
-  
+  } 
   .mobile-menu {
-    display: block;
-    transform: translateX(100%);
-    transition: transform var(--transition-normal);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: var(--z-modal-backdrop);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 220ms ease, visibility 220ms ease;
   }
   
   .mobile-menu-open .mobile-menu {
-    transform: translateX(0);
+    opacity: 1;
+    visibility: visible;
   }
   
   .mobile-menu-inner {
+    position: absolute;
+    top: 0;
+    left: 10px;
     width: min(420px, 90vw);
     max-height: calc(100dvh - 100px);
     box-shadow: var(--shadow-xl);
+    transform: translateX(24px) scale(.98);
+    opacity: 0;
+    transition: transform 220ms ease, opacity 220ms ease;
+  }
+  
+  .mobile-menu-open .mobile-menu-inner {
+    transform: translateX(0) scale(1);
+    opacity: 1;
   }
   
   .mobile-nav-list {
@@ -475,7 +516,8 @@
     gap: var(--spacing-xl);
   }
   
-  .about-text,
+  .a
+bout-text,
   .about-contact {
     flex: 1;
   }
@@ -614,7 +656,8 @@
   
   .intro-features {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    
+grid-template-columns: repeat(4, 1fr);
     gap: var(--spacing-md);
   }
   
@@ -679,5 +722,27 @@
   
   .hero-cta .btn {
     min-width: 160px;
+  }
+}
+
+/* ========================================
+   REDUCED MOTION SUPPORT
+   ======================================== */
+@media (prefers-reduced-motion: reduce) {
+  .mobile-menu,
+  .mobile-menu-inner,
+  .mobile-menu-open .mobile-menu,
+  .mobile-menu-open .mobile-menu-inner {
+    transition: none !important;
+  }
+  
+  .mobile-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .mobile-menu-inner {
+    transform: translateX(0) scale(1);
+    opacity: 1;
   }
 }
