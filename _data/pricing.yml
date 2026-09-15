@@ -4,15 +4,9 @@
 
 vehicles:
   - id: honda-wave
-    name:
-      vi: "Honda Wave"
-      en: "Honda Wave"
-    category:
-      vi: "Xe số"
-      en: "Manual motorbike"
-    description:
-      vi: "Xe côn truyền thống, dễ điều khiển"
-      en: "Traditional manual motorbike, easy to control"
+    name: "Honda Wave"
+    category: "Xe số"
+    description: "Xe côn truyền thống, dễ điều khiển"
     rates:
       day:
         min: 150000
@@ -26,22 +20,14 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note:
-      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
-      en: "Deposit requirements must be confirmed directly."
+    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: true
     order: 1
   
   - id: honda-vision
-    name:
-      vi: "Honda Vision"
-      en: "Honda Vision"
-    category:
-      vi: "Xe ga"
-      en: "Automatic scooter"
-    description:
-      vi: "Xe ga hiện đại, thoải mái"
-      en: "Modern automatic scooter, comfortable"
+    name: "Honda Vision"
+    category: "Xe ga"
+    description: "Xe ga hiện đại, thoải mái"
     rates:
       day:
         min: 200000
@@ -55,22 +41,14 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note:
-      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
-      en: "Deposit requirements must be confirmed directly."
+    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: true
     order: 2
   
   - id: honda-airblade
-    name:
-      vi: "Honda Air Blade"
-      en: "Honda Air Blade"
-    category:
-      vi: "Xe ga"
-      en: "Automatic scooter"
-    description:
-      vi: "Xe ga hiện đại, mạnh mẽ"
-      en: "Modern automatic scooter, powerful"
+    name: "Honda Air Blade"
+    category: "Xe ga"
+    description: "Xe ga hiện đại, mạnh mẽ"
     rates:
       day:
         min: 200000
@@ -84,22 +62,14 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note:
-      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
-      en: "Deposit requirements must be confirmed directly."
+    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: true
     order: 3
   
   - id: honda-click
-    name:
-      vi: "Honda Click / Yamaha Mio"
-      en: "Honda Click / Yamaha Mio"
-    category:
-      vi: "Xe ga"
-      en: "Budget automatic scooter"
-    description:
-      vi: "Xe ga giá rẻ, tiết kiệm"
-      en: "Budget automatic scooter, economical"
+    name: "Honda Click / Yamaha Mio"
+    category: "Xe ga"
+    description: "Xe ga giá rẻ, tiết kiệm"
     rates:
       day:
         min: 150000
@@ -113,22 +83,14 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note:
-      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
-      en: "Deposit requirements must be confirmed directly."
+    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: true
     order: 4
   
   - id: electric-bike
-    name:
-      vi: "Xe điện"
-      en: "Electric motorbike"
-    category:
-      vi: "Xe máy điện"
-      en: "Electric motorbike"
-    description:
-      vi: "Xe thân thiện môi trường, không phát thải"
-      en: "Environmentally friendly electric motorbike, zero emissions"
+    name: "Xe điện"
+    category: "Xe máy điện"
+    description: "Xe thân thiện môi trường, không phát thải"
     rates:
       day:
         min: 200000
@@ -142,22 +104,14 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note:
-      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
-      en: "Deposit requirements must be confirmed directly."
+    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: true
     order: 5
   
   - id: electric-scooter
-    name:
-      vi: "Xe đạp điện"
-      en: "Electric scooter"
-    category:
-      vi: "Xe đạp điện"
-      en: "Electric scooter"
-    description:
-      vi: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
-      en: "Lightweight, suitable for short distances"
+    name: "Xe đạp điện"
+    category: "Xe đạp điện"
+    description: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
     rates:
       day:
         min: null
@@ -171,35 +125,25 @@ vehicles:
     deposit:
       min: null
       max: null
-    deposit_note:
-      vi: "Tiền đặt cọc cần được xác nhận trực tiếp."
-      en: "Deposit requirements must be confirmed directly."
+    deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: false
     order: 6
-    note:
-      vi: "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
-      en: "Please contact Nguyen Tu to check current pricing"
+    note: "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
 
 # Rental type multipliers (for display purposes)
 rental_types:
   - id: day
-    name:
-      vi: "Theo ngày"
-      en: "Daily"
+    name: "Theo ngày"
     days: 1
     order: 1
   
   - id: week
-    name:
-      vi: "Theo tuần"
-      en: "Weekly"
+    name: "Theo tuần"
     days: 7
     order: 2
   
   - id: month
-    name:
-      vi: "Theo tháng"
-      en: "Monthly"
+    name: "Theo tháng"
     days: 30
     order: 3
 
@@ -211,9 +155,7 @@ rental_types:
 #   outer_hanoi: 100000
 
 # Notes
-disclaimer:
-  vi: "Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận xe cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe."
-  en: "This is an estimated price based on the current reference rates. Vehicle availability, deposit, delivery fees and final rental price should be confirmed directly with Nguyen Tu before booking."
+disclaimer: "Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận xe cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe."
 
 currency: "VND"
 currency_symbol: "đ"
