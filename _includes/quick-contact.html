@@ -1,19 +1,18 @@
 {% assign business = site.data.business %}
-{% assign current_lang = page.lang | default: site.lang %}
 
 <!-- Desktop Floating Contact Rail -->
 <div class="contact-rail">
   <div class="contact-rail__buttons">
-    <a href="{{ business.contact.phone_uri }}" class="contact-rail__btn" title="{% if current_lang == 'vi' %}Gọi {{ business.contact.phone }}{% else %}Call {{ business.contact.phone }}{% endif %}">
+    <a href="{{ business.contact.phone_uri }}" class="contact-rail__btn" title="Gọi {{ business.contact.phone }}">
       {% include icon.html name="phone" size="22" class="contact-rail__icon" %}
     </a>
-    <a href="{{ business.contact.zalo }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}">
+    <a href="{{ business.contact.zalo }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="Zalo">
       {% include icon.html name="message" size="22" class="contact-rail__icon" %}
     </a>
-    <a href="{{ business.contact.whatsapp }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}">
+    <a href="{{ business.contact.whatsapp }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="WhatsApp">
       {% include icon.html name="whatsapp" size="22" class="contact-rail__icon" %}
     </a>
-    <a href="{{ business.contact.maps }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="{% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}">
+    <a href="{{ business.contact.maps }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="Google Maps">
       {% include icon.html name="map-pin" size="22" class="contact-rail__icon" %}
     </a>
   </div>
@@ -22,21 +21,21 @@
 <!-- Mobile Bottom Bar -->
 <div class="mobile-contact-bar">
   <div class="mobile-contact-bar__actions">
-    <a href="{{ business.contact.phone_uri }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}">
+    <a href="{{ business.contact.phone_uri }}" class="mobile-contact-bar__btn" aria-label="Gọi">
       {% include icon.html name="phone" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Gọi{% else %}Call{% endif %}</span>
+      <span class="mobile-contact-bar__label">Gọi</span>
     </a>
-    <a href="{{ business.contact.zalo }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}">
+    <a href="{{ business.contact.zalo }}" class="mobile-contact-bar__btn" aria-label="Zalo">
       {% include icon.html name="message" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}</span>
+      <span class="mobile-contact-bar__label">Zalo</span>
     </a>
-    <a href="{{ business.contact.whatsapp }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}">
+    <a href="{{ business.contact.whatsapp }}" class="mobile-contact-bar__btn" aria-label="WhatsApp">
       {% include icon.html name="whatsapp" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}WA{% else %}WhatsApp{% endif %}</span>
+      <span class="mobile-contact-bar__label">WA</span>
     </a>
-    <a href="{{ business.contact.maps }}" class="mobile-contact-bar__btn" aria-label="{% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}">
+    <a href="{{ business.contact.maps }}" class="mobile-contact-bar__btn" aria-label="Maps">
       {% include icon.html name="map-pin" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">{% if current_lang == 'vi' %}Maps{% else %}Maps{% endif %}</span>
+      <span class="mobile-contact-bar__label">Maps</span>
     </a>
   </div>
 </div>
