@@ -203,8 +203,7 @@ ng: 0;
 
  
  
-  ont-size: var(--font-size-sm);
-
+font-size: var(--font-size-sm);
   color: var(--color-text);
   border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -297,8 +296,7 @@ ng: 0;
 }
 
 .breadcrumb li {
-  display: inline-f
-lex;
+  display: inline-flex;
 
   align-items: center;
 }
@@ -402,10 +400,8 @@ lex;
   width: 40px;
   height: 40px;
   padding: 0;
-  background: var(--color
--s
-urf
-ace-dark);
+  background: var(--color-s
+urface-dark);
   border: 1px solid var(--color-border);
   border-radius: 50%;
   cursor: pointer;
@@ -459,8 +455,7 @@ ace-dark);
 }
 
 .submenu-arrow {
-  transition: transform var(--tran
-sition-fast);
+  transition: transform var(--transition-fast);
 }
 
 .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -507,8 +502,7 @@ sition-fast);
 .action-btn {
   display: flex;
   flex-direction: column;
-  align-items: cen
-ter
+  align-items: center
 ;
   
 gap: var(--spacing-xs);
@@ -606,8 +600,7 @@ gap: var(--spacing-xs);
   align-items: center;
   gap: var(--spacing-xs);
   padding: var(--spacing-xs) var
-(--s
-pacin
+(--spacin
 g-sm);
   color: var(--color-text);
   background: transparent;
@@ -652,8 +645,7 @@ g-sm);
   border: none;
   border-radius: 50%;
   box-shadow: var(--shadow-lg);
-  cursor: p
-ointer;
+  cursor: pointer;
   z-index: var(--z-fixed);
   transition: all var(--transition-normal);
 }
@@ -709,10 +701,8 @@ ointer;
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  backgr
-ound:
- var(-
--color-surface);
+  background:
+ var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-xl);
   box-shadow: var(--shadow-xl);
@@ -762,8 +752,7 @@ ound:
 }
 
 .assistant-close:hover {
-  back
-ground: var(--color-surface-dark);
+  background: var(--color-surface-dark);
 }
 
 .assistant-body {
@@ -810,8 +799,7 @@ ground: var(--color-surface-dark);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--col
-or-bor
+  border: 1px solid var(--color-bor
 der);
  
  border-radius: var(--radius-md);
@@ -863,8 +851,7 @@ der);
   transition: all var(--transition-fast);
 }
 
-.assistant-se
-nd
+.assistant-send
 :hover {
   background: var(--color-primary-light);
 }
@@ -913,11 +900,9 @@ nd
 
 .calculator-form {
   display: flex;
-  flex-direction: c
-olumn;
+  flex-direction: column;
 
-  gap: v
-ar(--spacing-lg);
+  gap: var(--spacing-lg);
 }
 
 .form-group {
@@ -1004,10 +989,8 @@ ar(--spacing-lg);
 
 .result-item {
   display: flex;
-  justify
--content
-: space-b
-etween;
+  justify-content
+: space-between;
   align-items: center;
   margin-bottom: var(--spacing-sm);
 }
@@ -1055,8 +1038,7 @@ etween;
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  paddin
-g: var(--spacing-2xl) 0 var(--spacing-xl);
+  padding: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
@@ -1119,8 +1101,7 @@ g: var(--spacing-2xl) 0 var(--spacing-xl);
   align-items: center;
   gap: var(--spacing-xs);
   padding: var(
---spacing
--xs) var(-
+--spacing-xs) var(-
 -spacing-sm);
   font-size: var(--font-size-sm);
   color: var(--color-text);
@@ -1169,8 +1150,7 @@ g: var(--spacing-2xl) 0 var(--spacing-xl);
   margin-bottom: var(--spacing-sm);
 }
 
-.footer-bot
-tom 
+.footer-bottom 
 {
   display: flex;
   justify-content: center;
@@ -1215,10 +1195,8 @@ tom
 }
 
 
-.btn-seco
-ndary {
-  b
-ackground-color: var(--color-surface);
+.btn-secondary {
+  background-color: var(--color-surface);
   color: var(--color-text);
   border: 1px solid var(--color-border);
 }
