@@ -1,6 +1,7 @@
 /**
  * NGUYEN TU BLOG - Rule-based Assistant
  * No external APIs, pure JavaScript
+ * Vietnamese-only version
  */
 
 class NguyenTuAssistant {
@@ -12,7 +13,7 @@ class NguyenTuAssistant {
     this.sendBtn = document.querySelector('.assistant-send');
     this.closeBtn = document.querySelector('.assistant-close');
     
-    this.currentLang = document.documentElement.lang || 'vi';
+    this.currentLang = 'vi';
     this.quickQuestions = window.NGUYEN_TU_ASSISTANT?.quick_questions || [];
     this.business = window.NGUYEN_TU_BUSINESS || {};
     this.pricing = window.NGUYEN_TU_PRICING || {};
@@ -46,12 +47,11 @@ class NguyenTuAssistant {
       this.sendBtn.addEventListener('click', () => this.sendMessage());
     }
 
-    // Quick question buttons
-    document.querySelectorAll('.quick-btn[data-question-id]').forEach(btn => {
+    // Quick question buttons - FIXED: use .assistant-question-btn instead of .quick-btn
+    document.querySelectorAll('.assistant-question-btn[data-question-id]').forEach(btn => {
       btn.addEventListener('click', () => {
         const questionId = btn.dataset.questionId;
-        const lang = btn.dataset.lang || this.currentLang;
-        this.handleQuickQuestion(questionId, lang);
+        this.handleQuickQuestion(questionId);
       });
     });
 
@@ -108,9 +108,9 @@ class NguyenTuAssistant {
     }, 300);
   }
 
-  handleQuickQuestion(questionId, lang) {
-    const question = this.getQuestionText(questionId, lang);
-    const answer = this.getAnswerText(questionId, lang);
+  handleQuickQuestion(questionId) {
+    const question = this.getQuestionText(questionId);
+    const answer = this.getAnswerText(questionId);
 
     // Add user message
     this.addMessage(question, 'user');
@@ -126,20 +126,20 @@ class NguyenTuAssistant {
     }
   }
 
-  getQuestionText(questionId, lang) {
+  getQuestionText(questionId) {
     const qq = this.quickQuestions.find(q => q.id === questionId);
-    if (qq && qq.question && qq.question[lang]) {
-      return qq.question[lang];
+    if (qq && qq.question && qq.question.vi) {
+      return qq.question.vi;
     }
     return questionId;
   }
 
-  getAnswerText(questionId, lang) {
+  getAnswerText(questionId) {
     const qq = this.quickQuestions.find(q => q.id === questionId);
-    if (qq && qq.answer && qq.answer[lang]) {
-      return this.processTemplate(qq.answer[lang]);
+    if (qq && qq.answer && qq.answer.vi) {
+      return this.processTemplate(qq.answer.vi);
     }
-    return this.getNotFoundMessage(lang);
+    return this.getNotFoundMessage();
   }
 
   processQuestion(question) {
@@ -148,56 +148,37 @@ class NguyenTuAssistant {
 
     // Try to match with quick questions
     for (const qq of this.quickQuestions) {
-      const qText = qq.question[lang]?.toLowerCase() || '';
+      const qText = qq.question.vi?.toLowerCase() || '';
       if (normalized.includes(qText) || qText.includes(normalized)) {
-        return this.processTemplate(qq.answer[lang] || this.getNotFoundMessage(lang));
+        return this.processTemplate(qq.answer.vi || this.getNotFoundMessage());
       }
     }
 
-    // Try to match keywords
+    // Try to match keywords - Vietnamese only
     const keywords = {
-      vi: {
-        'bang gia': 'pricing',
-        'tinh gia': 'calculator',
-        'dia chi': 'address',
-        'gio mo cua': 'hours',
-        'xe so': 'honda-wave',
-        'xe ga': 'honda-vision',
-        'xe dien': 'electric-bike',
-        'xe 50cc': 'electric-scooter',
-        'thue tuan': 'weekly-rental',
-        'thue thang': 'monthly-rental',
-        'zalo': 'zalo',
-        'whatsapp': 'whatsapp',
-        'google maps': 'maps'
-      },
-      en: {
-        'pricing': 'pricing',
-        'calculate': 'calculator',
-        'address': 'address',
-        'hours': 'hours',
-        'manual': 'honda-wave',
-        'automatic': 'honda-vision',
-        'electric': 'electric-bike',
-        '50cc': 'electric-scooter',
-        'weekly': 'weekly-rental',
-        'monthly': 'monthly-rental',
-        'zalo': 'zalo',
-        'whatsapp': 'whatsapp',
-        'maps': 'maps'
-      }
+      'bang gia': 'pricing',
+      'tinh gia': 'calculator',
+      'dia chi': 'address',
+      'gio mo cua': 'hours',
+      'xe so': 'honda-wave',
+      'xe ga': 'honda-vision',
+      'xe dien': 'electric-bike',
+      'xe 50cc': 'electric-scooter',
+      'thue tuan': 'weekly-rental',
+      'thue thang': 'monthly-rental',
+      'zalo': 'zalo',
+      'whatsapp': 'whatsapp',
+      'google maps': 'maps'
     };
 
-    const langKeywords = keywords[lang.startsWith('vi') ? 'vi' : 'en'] || {};
-    
-    for (const [keyword, qid] of Object.entries(langKeywords)) {
+    for (const [keyword, qid] of Object.entries(keywords)) {
       if (normalized.includes(keyword)) {
-        return this.getAnswerText(qid, lang);
+        return this.getAnswerText(qid);
       }
     }
 
     // Default response
-    return this.getNotFoundMessage(lang);
+    return this.getNotFoundMessage();
   }
 
   processTemplate(template) {
@@ -224,20 +205,26 @@ class NguyenTuAssistant {
       processed = processed.replace(/{{s*business.hourss*}}/g, this.business.hours);
     }
 
-    // Replace relative_url filters
-    processed = processed.replace(/{{s*/(.+?)s*|s*relative_urls*}}/g, (match, path) => {
-      return path;
-    });
+    // Replace business.display_name
+    if (this.business.display_name) {
+      processed = processed.replace(/{{s*business.display_names*}}/g, this.business.display_name);
+    }
+
+    // Replace business.url
+    if (this.business.url) {
+      processed = processed.replace(/{{s*business.urls*}}/g, this.business.url);
+    }
+
+    // Replace site.url
+    if (window.NGUYEN_TU_BUSINESS && window.NGUYEN_TU_BUSINESS.url) {
+      processed = processed.replace(/{{s*site.urls*}}/g, window.NGUYEN_TU_BUSINESS.url);
+    }
 
     return processed;
   }
 
-  getNotFoundMessage(lang) {
-    const messages = {
-      vi: 'Minh chua co thong tin chac chan ve noi dung nay. Ban co the lien he Nguyen Tu qua Zalo, WhatsApp hoac dien thoai de xac nhan.',
-      en: 'I don't have a confirmed answer for that yet. Please contact Nguyen Tu by Zalo, WhatsApp or phone to confirm.'
-    };
-    return messages[lang.startsWith('vi') ? 'vi' : 'en'] || messages.en;
+  getNotFoundMessage() {
+    return 'Minh chua co thong tin chac chan ve noi dung nay. Ban co the lien he Nguyen Tu qua Zalo, WhatsApp hoac dien thoai de xac nhan.';
   }
 
   addMessage(text, type) {
