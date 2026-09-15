@@ -105,11 +105,7 @@
   gap: var(--spacing-md);
   list-style: none;
   margin: 0;
-  paddi
-
-
-
-ng: 0;
+  padding: 0;
 }
 
 .nav-list li {
@@ -203,8 +199,7 @@ ng: 0;
 
  
  
-f
-ont-size: var(--font-size-sm);
+font-size: var(--font-size-sm);
   color: var(--color-text);
   border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -297,7 +292,7 @@ ont-size: var(--font-size-sm);
 }
 
 .breadcrumb li {
-  display: inline-flex;
+  display: inline-flex
 
   align-items: center;
 }
@@ -506,8 +501,7 @@ sition-fast);
 .action-btn {
   display: flex;
   flex-direction: column;
-  align-items: cen
-ter
+  align-items: center
 ;
   
 gap: var(--spacing-xs);
@@ -651,8 +645,7 @@ g-sm);
   border: none;
   border-radius: 50%;
   box-shadow: var(--shadow-lg);
-  cursor: p
-ointer;
+  cursor: pointer;
   z-index: var(--z-fixed);
   transition: all var(--transition-normal);
 }
@@ -708,8 +701,7 @@ ointer;
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  backgr
-ound:
+  background
  var(-
 -color-surface);
   border: 1px solid var(--color-border);
@@ -809,8 +801,7 @@ ground: var(--color-surface-dark);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--col
-or-bor
+  border: 1px solid var(--color-bor
 der);
  
  border-radius: var(--radius-md);
