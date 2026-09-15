@@ -4,6 +4,7 @@ title: "Bang gia xe so - Thue Xe May Ha Noi Nguyen Tu"
 description: "Bang gia thue xe so (manual motorbike) tai Ha Noi. Honda Wave va cac mau xe khac."
 lang: vi
 translation_key: xe-so
+permalink: /bang-gia-xe-so/
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -17,10 +18,10 @@ Xe so (manual motorbike) la loai xe pho bien nhat tai Viet Nam, su dung hop so t
 
 <div class="pricing-table">
   {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category.vi == 'Xe so' %}
+    {% if vehicle.category == 'Xe so' %}
     <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name.vi }}</h3>
-      <p>{{ vehicle.description.vi }}</p>
+      <h3>{{ vehicle.name }}</h3>
+      <p>{{ vehicle.description }}</p>
       <div class="price-grid">
         {% if vehicle.rates.day.min %}
         <div class="price-item">
