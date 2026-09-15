@@ -1,1 +1,110 @@
-/* Test */
+/* DIGITAL FLAGSHIP EXPERIENCE - Responsive Styles */
+/* FIXED: Added transform + opacity animation for mobile menu motion */
+/* Exactly 3 modes: PHONE, TABLET, DESKTOP */
+
+/* Exactly 3 modes: PHONE, TABLET, DESKTOP */
+
+/* PHONE: 0-767px */
+@media (max-width: 767px) {
+  .site-header {
+    position: relative;
+  }
+  
+  .header-content {
+    height: 56px;
+  }
+  
+  .site-logo span {
+    display: none;
+  }
+  
+  .desktop-nav {
+    display: none;
+  }
+  
+  .header-utilities {
+    gap: var(--spacing-sm);
+  }
+  
+  .lang-switcher {
+    display: none;
+  }
+  
+  .theme-toggle {
+    width: 38px;
+    height: 38px;
+  }
+  
+  .calc-link {
+    display: none;
+  }
+  
+  .mobile-utilities {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+  }
+  
+  .mobile-menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+  }
+  
+  .mobile-menu-toggle:hover {
+    background: var(--color-surface-dark);
+  } 
+  .mobile-menu {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(4px);
+    z-index: var(--z-modal-backdrop);
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 220ms ease, visibility 220ms ease;
+  }
+  
+  .mobile-menu-open .mobile-menu {
+    opacity: 1;
+    visibility: visible;
+  }
+  
+  .mobile-menu-inner {
+    position: absolute;
+    top: 0;
+    left: 10px;
+    width: min(380px, calc(100vw - 20px));
+    max-height: calc(100dvh - 100px);
+    transform: translateX(24px) scale(.98);
+    opacity: 0;
+    transition: transform 220ms ease, opacity 220ms ease;
+  }
+  
+  .mobile-menu-open .mobile-menu-inner {
+    transform: translateX(0) scale(1);
+    opacity: 1;
+  }
+  
+  .mobile-nav-list {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+  
+  .mobile-submenu {
+    list-style: none;
+    margin: 0;
+    padding-left: var(--spacing-lg);
+  }
