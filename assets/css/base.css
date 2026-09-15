@@ -99,7 +99,8 @@ button:focus {
   gap: var(--spacing-sm);
   padding: var(--spacing-sm) var(--spacing-lg);
   font-size: var(--font-size-sm);
-  font-weight: var(--font-weight-semibold);
+  font-weight: 
+var(--font-weight-semibold);
   border-radius: var(--radius-md);
   transition: all var(--transition-fast);
 }

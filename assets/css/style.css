@@ -85,7 +85,8 @@
   --z-dropdown: 100;
   --z-sticky: 200;
   --z-fixed: 300;
-  --z-modal: 400;
+  --z-mod
+al: 400;
   --z-tooltip: 500;
 }
 
@@ -194,7 +195,8 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: var(--space-md);
 }
 
-h1 { font-size: var(--font-size-3xl); }
+h
+1 { font-size: var(--font-size-3xl); }
 h2 { font-size: var(--font-size-2xl); }
 h3 { font-size: var(--font-size-xl); }
 h4 { font-size: var(--font-size-lg); }
