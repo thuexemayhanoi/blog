@@ -203,8 +203,8 @@ ng: 0;
 
  
  
-f
-ont-size: var(--font-size-sm);
+  ont-size: var(--font-size-sm);
+
   color: var(--color-text);
   border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -607,7 +607,8 @@ gap: var(--spacing-xs);
   gap: var(--spacing-xs);
   padding: var(--spacing-xs) var
 (--s
-spacing-sm);
+pacin
+g-sm);
   color: var(--color-text);
   background: transparent;
   border: none;
@@ -809,7 +810,8 @@ ground: var(--color-surface-dark);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--color-border)
+  border: 1px solid var(--col
+or-bor
 der);
  
  border-radius: var(--radius-md);
@@ -861,7 +863,8 @@ der);
   transition: all var(--transition-fast);
 }
 
-.assistant-send
+.assistant-se
+nd
 :hover {
   background: var(--color-primary-light);
 }
@@ -1052,7 +1055,8 @@ etween;
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  padding: var(--spacing-2xl) 0 var(--spacing-xl);
+  paddin
+g: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
@@ -1165,7 +1169,8 @@ etween;
   margin-bottom: var(--spacing-sm);
 }
 
-.footer-bottom 
+.footer-bot
+tom 
 {
   display: flex;
   justify-content: center;
@@ -1212,7 +1217,8 @@ etween;
 
 .btn-seco
 ndary {
-  background-color: var(--color-surface);
+  b
+ackground-color: var(--color-surface);
   color: var(--color-text);
   border: 1px solid var(--color-border);
 }
