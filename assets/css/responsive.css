@@ -97,7 +97,8 @@
  grid-template-columns: 20px minmax(0, 1fr) 16px;
  align-items: center;
  column-gap: var(--spacing-sm);
- text-align: left;
+ text-align: le
+ft;
  justify-content: initial;
  width: 100%;
  padding: var(--spacing-sm) var(--spacing-md);
@@ -191,7 +192,8 @@ tact-bar__label {
  
  .footer-col h4 {
  font-size: var(--font-size-sm);
- font-weight: var(--font-weight-semibold);
+ font-weight: var(--font-we
+ight-semibold);
  color: var(--color-text);
  margin-bottom: var(--spacing-sm);}
  
@@ -294,7 +296,8 @@ tact-bar__label {
  flex: 0 0 auto;
  min-height: 40px;
  padding: 8px 16px;
- white-space: nowrap;
+ white-s
+pace: nowrap;
  border-radius: 999px;}
  
  .assistant-question-list-title {
@@ -403,7 +406,8 @@ social-links {
  transition: transform var(--transition-fast), box-shadow var(--transition-fast);}
  
  .phone-launcher__toggle:hover {
- transform: scale(1.05);
+ tra
+nsform: scale(1.05);
  box-shadow: var(--shadow-xl);}
  
  .phone-launcher__toggle:focus {
@@ -497,7 +501,8 @@ social-links {
  top: 0;
  left: 0;
  width: 100%;
- height: 100%;
+ height
+: 100%;
  background: rgba(0, 0, 0, 0.5);
  backdrop-filter: blur(4px);
  z-index: var(--z-modal-backdrop);
@@ -606,7 +611,8 @@ social-links {
  .commitments li {
  margin-bottom: var(--spacing-xs);
  padding-left: var(--spacing-md);
- position: relative;}
+ position: relativ
+e;}
  
  .commitments li::before {
  content: "\2713";
