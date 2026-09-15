@@ -720,16 +720,6 @@ ist-style: none;
     justify-content: center;
     gap: var(--spacing-sm);
   }
-
-  
-  /* Footer Accordion - TABLET */
-  .footer-accordion-summary {
-    display: none;
-  }
-  
-  .footer-accordion[open] .footer-grid {
-    display: grid;
-  }
 }
 
 /* DESKTOP: 1200px+ */
@@ -901,16 +891,6 @@ grid-template-columns: repeat(4, 1fr);
   
   .hero-cta .btn {
     min-width: 160px;
-  }
-
-  
-  /* Footer Accordion - DESKTOP */
-  .footer-accordion-summary {
-    display: none;
-  }
-  
-  .footer-accordion[open] .footer-grid {
-    display: grid;
   }
 }
 
