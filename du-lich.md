@@ -5,6 +5,7 @@ description: "Cam nang du lich va dia diem noi bat de kham pha Ha Noi va Viet Na
 lang: vi
 translation_key: travel
 category: Du lich
+permalink: /du-lich/
 ---
 
 {% assign current_lang = page.lang | default: site.lang %}
