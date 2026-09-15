@@ -1,4 +1,5 @@
 // DIGITAL FLAGSHIP EXPERIENCE - Rental Calculator
+// Vietnamese-only version
 
 (function() {
   'use strict';
@@ -43,8 +44,14 @@
       this._updateWhatsAppMessage(vehicle, days, minEstimate);
     },
     _getVehicleData: function(vehicleId) {
-      return window.NGUYEN_TU_PRICING && window.NGUYEN_TU_PRICING.vehicles
-        ? window.NGUYEN_TU_PRICING.vehicles[vehicleId] : null;
+      var vehicles = window.NGUYEN_TU_PRICING && window.NGUYEN_TU_PRICING.vehicles;
+      if (!vehicles) return null;
+      for (var i = 0; i < vehicles.length; i++) {
+        if (vehicles[i].id === vehicleId) {
+          return vehicles[i];
+        }
+      }
+      return null;
     },
     _hasValidPrices: function(vehicle) {
       if (!vehicle || !vehicle.rates) return false;
@@ -97,17 +104,16 @@
       var resultEl = document.querySelector('#estimated-price');
       var breakdownEl = document.querySelector('#price-breakdown');
       if (!resultEl) return;
-      var lang = document.documentElement.lang || document.querySelector('html').lang || 'vi';
-      resultEl.textContent = this._formatPrice(minEstimate, lang);
+      resultEl.textContent = this._formatPrice(minEstimate);
       if (breakdownEl && minEstimate !== null && maxEstimate !== null) {
         breakdownEl.innerHTML = '';
         var minItem = document.createElement('div');
         minItem.className = 'calculator__breakdown-item';
-        minItem.innerHTML = '<span>' + (lang === 'en' ? 'Minimum' : 'Tối thiểu') + '</span><span>' + this._formatPrice(minEstimate, lang) + '</span>';
+        minItem.innerHTML = '<span>Tối thiểu</span><span>' + this._formatPrice(minEstimate) + '</span>';
         breakdownEl.appendChild(minItem);
         var maxItem = document.createElement('div');
         maxItem.className = 'calculator__breakdown-item';
-        maxItem.innerHTML = '<span>' + (lang === 'en' ? 'Maximum' : 'Tối đa') + '</span><span>' + this._formatPrice(maxEstimate, lang) + '</span>';
+        maxItem.innerHTML = '<span>Tối đa</span><span>' + this._formatPrice(maxEstimate) + '</span>';
         breakdownEl.appendChild(maxItem);
         breakdownEl.style.display = 'block';
       }
@@ -116,29 +122,26 @@
       var resultEl = document.querySelector('#estimated-price');
       var breakdownEl = document.querySelector('#price-breakdown');
       if (!resultEl) return;
-      var lang = document.documentElement.lang || document.querySelector('html').lang || 'vi';
-      resultEl.textContent = lang === 'en' ? 'Contact Nguyễn Tú for current pricing' : 'Liên hệ Nguyễn Tú để kiểm tra giá hiện tại';
+      resultEl.textContent = 'Liên hệ Nguyễn Tú để kiểm tra giá hiện tại';
       if (breakdownEl) breakdownEl.style.display = 'none';
     },
-    _formatPrice: function(price, lang) {
-      if (price === null || price === undefined) return lang === 'en' ? 'N/A' : 'Không có';
-      if (lang === 'vi') return price.toLocaleString('vi-VN') + 'đ';
-      else return price.toLocaleString('en-US') + ' VND';
+    _formatPrice: function(price) {
+      if (price === null || price === undefined) return 'Không có';
+      return price.toLocaleString('vi-VN') + 'đ';
     },
     _updateWhatsAppMessage: function(vehicle, days, price) {
-      var vehicleName = vehicle ? (vehicle.name || (vehicle.id || 'vehicle')) : 'vehicle';
-      var lang = document.documentElement.lang || document.querySelector('html').lang || 'vi';
-      var whatsappBtn = document.querySelector('[data-whatsapp-calculator]');
-      if (!whatsappBtn) return;
-      var formattedPrice = price !== null ? this._formatPrice(price, lang) : (lang === 'en' ? 'N/A' : 'chưa có');
-      var message = lang === 'en'
-        ? 'Hello Nguyễn Tú, I would like to rent ' + vehicleName + ' for ' + days + ' days. The website estimate is ' + formattedPrice + '. Please confirm vehicle availability and the current price.'
-        : 'Xin chào Nguyễn Tú, tôi muốn thuê ' + vehicleName + ' trong ' + days + ' ngày. Giá website ước tính ' + formattedPrice + '. Vui lòng kiểm tra tình trạng xe và giá hiện tại.';
+      var vehicleName = vehicle ? (vehicle.name || (vehicle.id || 'xe')) : 'xe';
+      var formattedPrice = price !== null ? this._formatPrice(price) : 'chưa có';
+      var message = 'Xin chào Nguyễn Tú, tôi muốn thuê ' + vehicleName + ' trong ' + days + ' ngày. Giá website ước tính ' + formattedPrice + '. Vui lòng kiểm tra tình trạng xe và giá hiện tại.';
       var phoneNumber = window.NGUYEN_TU_BUSINESS && window.NGUYEN_TU_BUSINESS.contact && window.NGUYEN_TU_BUSINESS.contact.whatsapp
         ? window.NGUYEN_TU_BUSINESS.contact.whatsapp : '84942467674';
-      whatsappBtn.href = 'https://wa.me/' + phoneNumber + '?text=' + encodeURIComponent(message);
+      var whatsappBtn = document.querySelector('[data-whatsapp-calculator]');
+      if (whatsappBtn) {
+        whatsappBtn.href = 'https://wa.me/' + phoneNumber + '?text=' + encodeURIComponent(message);
+      }
     }
   };
+  
   function initCalculator() { Calculator.init(); }
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initCalculator);
