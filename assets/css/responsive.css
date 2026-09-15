@@ -103,7 +103,8 @@
     padding-left: 0;
   }
   
-  .mobile-submenu {
+  .mobile-sub
+menu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
@@ -202,7 +203,8 @@
   }
   
   @media (max-width: 359px) {
-    .mobile-contact-bar__label {
+    .mobile-con
+tact-bar__label {
       display: none;
     }
     
@@ -306,7 +308,8 @@
     padding: var(--spacing-xs) var(--spacing-sm);
   }
   
-  .calculator-cta {
+  .calculator
+-cta {
     flex-direction: column;
   }
   
@@ -892,8 +895,7 @@ social-links {
   
   .cta-group {
     flex-wrap: wrap;
-    justify-co
-ntent: center;
+    justify-content: center;
     gap: var(--spacing-sm);
   }
   
