@@ -5,6 +5,7 @@ description: "Cac loi khuyen va cam nang thu te cho viec thue xe may va di chuye
 lang: vi
 translation_key: sharing
 category: Chia se
+permalink: /chia-se/
 ---
 
 {% assign current_lang = page.lang | default: site.lang %}
