@@ -689,8 +689,7 @@ ointer;
 }
 
 .assistant-close:hover {
-  back
-ground: var(--color-surface-dark);
+  background: var(--color-surface-dark);
 }
 
 .assistant-body {
@@ -973,8 +972,7 @@ nd
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  paddin
-g: var(--spacing-2xl) 0 var(--spacing-xl);
+  padding: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
