@@ -772,7 +772,7 @@ grid-template-columns: repeat(4, 1fr);
   }
   
   .commitments li::before {
-    content: "\2713";
+    content: "✓";
     position: absolute;
     left: 0;
     color: var(--color-success);
