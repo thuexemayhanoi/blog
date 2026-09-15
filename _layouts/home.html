@@ -4,6 +4,8 @@ title: "{{ site.title }}"
 description: "{{ site.description }}"
 ---
 
+{% assign vi_posts = vi_posts | where: "lang", "vi" %}
+
 {% assign business = site.data.business %}
 {% assign pricing = site.data.pricing %}
 
@@ -54,7 +56,8 @@ description: "{{ site.description }}"
         <span class="feature-text">Giao nhận tận nơi</span>
       </div>
       <div class="intro-feature">
-        {% include icon.html name="sparkles" size="18" class="feature-icon" %}
+        {% include icon.html name="sparkles" size="18" class="feature-icon"
+ %}
         <span class="feature-text">Giờ hoạt động: {{ business.hours }}</span>
       </div>
     </div>
@@ -86,9 +89,9 @@ description: "{{ site.description }}"
   <div class="container">
     <h2>Bài viết mới nhất</h2>
     
-    {% if site.posts.size > 0 %}
+    {% if vi_posts.size > 0 %}
     <div class="post-grid">
-      {% for post in site.posts limit:4 %}
+      {% for post in vi_posts limit:4 %}
       <article class="post-card glass-card">
         {% if post.categories %}
         <span class="post-category">{{ post.categories | first }}</span>
@@ -117,14 +120,15 @@ description: "{{ site.description }}"
     
     <div class="categories-grid">
       {% assign nav = site.data.navigation.main %}
-      {% for item in nav %}
+      {% for item in
+ nav %}
         {% if item.id == 'blog' %}
           {% for child in item.children %}
           <a href="{{ child.url | relative_url }}" class="category-card glass-card">
             <h3>{{ child.name }}</h3>
             <p>
               {% assign category = child.name %}
-              {% assign category_posts = site.posts | where: "categories", category %}
+              {% assign category_posts = vi_posts | where: "categories", category %}
               {{ category_posts.size }} bài viết
             </p>
           </a>
@@ -182,7 +186,8 @@ description: "{{ site.description }}"
   <div class="container">
     <h2>Giới thiệu {{ business.brand }}</h2>
     <div class="about-content">
-      <div class="about-text">
+      <div cla
+ss="about-text">
         <p><strong>{{ business.display_name }}</strong> là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.</p>
         <p>Chúng tôi cam kết:</p>
         <ul class="commitments">
