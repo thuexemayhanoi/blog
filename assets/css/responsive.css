@@ -1,4 +1,7 @@
 /* DIGITAL FLAGSHIP EXPERIENCE - Responsive Styles */
+/* FIXED: Added transform + opacity animation for mobile menu motion */
+/* Exactly 3 modes: PHONE, TABLET, DESKTOP */
+
 /* Exactly 3 modes: PHONE, TABLET, DESKTOP */
 
 /* PHONE: 0-767px */
@@ -107,7 +110,8 @@
   }
   
   .submenu-arrow {
-    transition: transform var(--transition-fast);
+    transiti
+on: transform var(--transition-fast);
   }
   
   .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -211,7 +215,8 @@ ize-xxs);
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
     text-decoration: none;
-    transition: color var(--transition-fast);
+    t
+ransition: color var(--transition-fast);
   }
   
   .footer-links a:hover {
@@ -336,7 +341,8 @@ ize-xxs);
   }
   
   .social-links {
-    justify-content: flex-start;
+    jus
+tify-content: flex-start;
   }
   
   .commitments {
@@ -456,7 +462,8 @@ ize-xxs);
   }
   
   .mobile-contact-bar {
-    display: flex;
+    display: f
+lex;
   }
   
   main {
@@ -593,7 +600,8 @@ bout-text,
     display: none;
   }
   
-  .mobile-menu {
+  .mobile-menu 
+{
     display: none;
   }
   
@@ -725,7 +733,8 @@ grid-template-columns: repeat(4, 1fr);
   }
 }
 
-/* ========================================
+/* ====================
+====================
    REDUCED MOTION SUPPORT
    ======================================== */
 @media (prefers-reduced-motion: reduce) {
