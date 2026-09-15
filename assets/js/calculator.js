@@ -1,5 +1,7 @@
-// DIGITAL FLAGSHIP EXPERIENCE - Rental Calculator
-// Vietnamese-only version
+/**
+ * DIGITAL FLAGSHIP EXPERIENCE - Rental Calculator
+ * Vietnamese-only version
+ */
 
 (function() {
   'use strict';
@@ -10,6 +12,8 @@
     init: function() {
       this._bindForm();
       this._bindVehicleSelect();
+      this._bindQuickDays();
+      this._calculate();
     },
     _bindForm: function() {
       var form = document.querySelector('#rental-calculator');
@@ -21,6 +25,31 @@
       var vehicleSelect = document.querySelector('#vehicle-select');
       if (!vehicleSelect) return;
       vehicleSelect.addEventListener('change', this._handleVehicleChange.bind(this));
+    },
+    _bindQuickDays: function() {
+      var dayBtns = document.querySelectorAll('.day-btn');
+      var self = this;
+      dayBtns.forEach(function(btn) {
+        btn.addEventListener('click', function() {
+          var days = this.dataset.days;
+          var daysInput = document.querySelector('#days-input');
+          if (daysInput) {
+            daysInput.value = days;
+            self._calculate();
+            dayBtns.forEach(function(b) {
+              b.setAttribute('aria-pressed', 'false');
+              b.classList.remove('selected');
+            });
+            this.setAttribute('aria-pressed', 'true');
+            this.classList.add('selected');
+          }
+        });
+      });
+      var defaultBtn = document.querySelector('.day-btn[data-days="7"]');
+      if (defaultBtn) {
+        defaultBtn.setAttribute('aria-pressed', 'true');
+        defaultBtn.classList.add('selected');
+      }
     },
     _handleInput: function() { this._calculate(); },
     _handleVehicleChange: function() {
@@ -134,10 +163,10 @@
       var formattedPrice = price !== null ? this._formatPrice(price) : 'chua co';
       var message = 'Xin chao Nguyen Tu, toi muon thue ' + vehicleName + ' trong ' + days + ' ngay. Gia website uoc tinh ' + formattedPrice + '. Vui long kiem tra tinh trang xe va gia hien tai.';
       var phoneNumber = window.NGUYEN_TU_BUSINESS && window.NGUYEN_TU_BUSINESS.contact && window.NGUYEN_TU_BUSINESS.contact.whatsapp
-        ? window.NGUYEN_TU_BUSINESS.contact.whatsapp : '84942467674';
+        ? window.NGUYEN_TU_BUSINESS.contact.whatsapp : 'https://wa.me/84942467674';
       var whatsappBtn = document.querySelector('[data-whatsapp-calculator]');
       if (whatsappBtn) {
-        whatsappBtn.href = 'https://wa.me/' + phoneNumber + '?text=' + encodeURIComponent(message);
+        whatsappBtn.href = phoneNumber + '?text=' + encodeURIComponent(message);
       }
     }
   };
