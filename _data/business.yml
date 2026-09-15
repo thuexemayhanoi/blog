@@ -1,15 +1,15 @@
-brand: "Nguyen Tu"
-display_name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
+brand: "Nguyễn Tú"
+display_name: "Thue Xe May Ha Noi Nguyen Tu"
 url: "https://thuexemaynguyentu.com/"
 logo: "/IMG_2536.jpeg"
 
 address:
-  street: "112 Nguyen Van Cu"
-  district: "Bo De"
-  city: "Long Bien"
-  region: "Ha Noi"
-  country: "Viet Nam"
-  full: "112 Nguyen Van Cu, Bo De, Long Bien, Ha Noi, Viet Nam"
+  street: "112 Nguyễn Văn Cừ"
+  district: "Bồ Đề"
+  city: "Long Biên"
+  region: "Hà Nội"
+  country: "Việt Nam"
+  full: "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam"
 
 contact:
   phone: "0942 467 674"
@@ -22,58 +22,3 @@ contact:
 hours: "09:00 - 21:00"
 
 services:
-  - "Thuê xe số"
-  - "Thuê xe tay ga"
-  - "Thuê xe máy 50cc"
-  - "Thuê xe máy điện"
-  - "Thuê xe đạp điện"
-  - "Thuê theo ngày"
-  - "Thuê theo tuần"
-  - "Thuê theo tháng"
-  - "Giao nhận xe theo khu vực tại Hà Nội"
-
-areas:
-  - "Bồ Đề"
-  - "Long Biên"
-  - "Gia Lâm"
-  - "Hoàn Kiếm"
-  - "Phố Cổ"
-  - "Ba Đình"
-  - "Tây Hồ"
-  - "Nội thành Hà Nội"
-
-vehicle_types:
-  - name: "Xe số"
-    examples: ["Honda Wave", "Yamaha Sirius"]
-    description: "Xe côn truyền thống, dễ điều khiển"
-  
-  - name: "Xe tay ga"
-    examples: ["Honda Vision", "Honda Air Blade", "Honda Click", "Yamaha Mio"]
-    description: "Xe ga hiện đại, thoải mái"
-  
-  - name: "Xe 50cc"
-    examples: ["Honda Cub 50cc", "Xe ga 50cc"]
-    description: "Xe công suất nhỏ, phù hợp cho du khách"
-  
-  - name: "Xe máy điện"
-    examples: []
-    description: "Xe thân thiện môi trường, không phát thải"
-  
-  - name: "Xe đạp điện"
-    examples: []
-    description: "Nhẹ nhàng, phù hợp cho khoảng cách ngắn"
-
-rental_types:
-  - name: "Theo ngày"
-    description: "Linh hoạt cho nhu cầu ngắn hạn"
-  
-  - name: "Theo tuần"
-    description: "Tiết kiệm cho chuyến đi dài ngày"
-  
-  - name: "Theo tháng"
-    description: "Giá ưu đãi cho thuê dài hạn"
-
-notes:
-  - "Tình trạng xe, giá thuê, tiền đặt cọc và chi phí giao nhận có thể thay đổi"
-  - "Cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe"
-  - "Không giao xe ngoài giờ hoạt động (09:00 - 21:00)"
