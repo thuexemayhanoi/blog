@@ -215,40 +215,7 @@ tact-bar__label {
     }
   }
   
-  
   /* Mobile Footer Accordion */
-  .footer-accordion {
-    width: 100%;
-  }
-  
-  .footer-accordion-summary {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: var(--spacing-md);
-    cursor: pointer;
-    list-style: none;
-  }
-  
-  .footer-accordion-summary::-webkit-details-marker {
-    display: none;
-  }
-  
-  .footer-accordion-title {
-    font-size: var(--font-size-lg);
-    font-weight: var(--font-weight-semibold);
-    color: var(--color-text);
-  }
-  
-  .footer-accordion-chevron {
-    transition: transform var(--transition-fast);
-    color: var(--color-text-secondary);
-  }
-  
-  .footer-accordion[open] .footer-accordion-chevron {
-    transform: rotate(180deg);
-  }
-  
   .footer-grid {
     grid-template-columns: 1fr;
     gap: var(--spacing-lg);
@@ -263,7 +230,38 @@ tact-bar__label {
     border-bottom: none;
     padding-bottom: 0;
   }
-/* Calculator */
+  
+  .footer-col h4 {
+    font-size: var(--font-size-sm);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-text);
+    margin-bottom: var(--spacing-sm);
+  }
+  
+  .footer-links {
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+  }
+  
+  .footer-links li {
+    margin-bottom: var(--spacing-xs);
+  }
+  
+  .footer-links a {
+    display: block;
+    padding: var(--spacing-xs) 0;
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    transition: color var(--transition-fast);
+  }
+  
+  .footer-links a:hover {
+    color: var(--color-primary);
+  }
+  
+  /* Calculator */
   .calculator-card {
     padding: 22px;
   }
@@ -722,6 +720,16 @@ ist-style: none;
     justify-content: center;
     gap: var(--spacing-sm);
   }
+
+  
+  /* Footer Accordion - TABLET */
+  .footer-accordion-summary {
+    display: none;
+  }
+  
+  .footer-accordion[open] .footer-grid {
+    display: grid;
+  }
 }
 
 /* DESKTOP: 1200px+ */
@@ -893,6 +901,16 @@ grid-template-columns: repeat(4, 1fr);
   
   .hero-cta .btn {
     min-width: 160px;
+  }
+
+  
+  /* Footer Accordion - DESKTOP */
+  .footer-accordion-summary {
+    display: none;
+  }
+  
+  .footer-accordion[open] .footer-grid {
+    display: grid;
   }
 }
 
