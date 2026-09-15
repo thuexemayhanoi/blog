@@ -103,7 +103,8 @@
     padding-left: 0;
   }
   
-  .mobile-submenu {
+  .mobile-sub
+menu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
@@ -177,7 +178,7 @@
   }
   
   .mobile-contact-bar {
-    display: flex;
+    display: none;
   }
   
   .mobile-contact-bar__actions {
@@ -198,11 +199,12 @@
   }
   
   main {
-    padding-bottom: 70px;
+    padding-bottom: 80px;
   }
   
   @media (max-width: 359px) {
-    .mobile-contact-bar__label {
+    .mobile-con
+tact-bar__label {
       display: none;
     }
     
@@ -298,10 +300,6 @@
   }
 
   
-  .form-select,
-  .form-input {
-    height: 48px;
-  }
   
   .quick-days {
     flex-wrap: wrap;
@@ -309,7 +307,8 @@
   
   .day-btn {
     min-width: 44px;
-    padding: var(--spacing-xs) var(--spacing-sm);
+    paddin
+g: var(--spacing-xs) var(--spacing-sm);
   }
   
   .calculator-cta {
@@ -322,7 +321,7 @@
   
   /* Assistant */
   .assistant-toggle {
-    bottom: calc(78px + env(safe-area-inset-bottom));
+    bottom: 20px;
     width: 54px;
     height: 54px;
   }
@@ -428,7 +427,8 @@
     content: "\2713";
     position: absolute;
     left: 0;
-    color: var(--color-success);
+    color: va
+r(--color-success);
   }
   
   .cta-group {
@@ -440,10 +440,94 @@
     width: 100%;
  
  }
+
+  
+  /* Phone Launcher */
+  .phone-launcher {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    z-index: 1000;
+  }
+  
+  .phone-launcher__toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 56px;
+    height: 56px;
+    padding: 0;
+    background: var(--color-primary);
+    color: var(--color-primary-contrast);
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    box-shadow: var(--shadow-lg);
+    transition: transform var(--transition-fast), box-shadow var(--transition-fast);
+  }
+  
+  .phone-launcher__toggle:hover {
+    transform: scale(1.05);
+    box-shadow: var(--shadow-xl);
+  }
+  
+  .phone-launcher__toggle:focus {
+    outline: 2px solid var(--color-primary-dark);
+    outline-offset: 2px;
+  }
+  
+  .phone-launcher__actions {
+    position: absolute;
+    bottom: calc(100% + 12px);
+    left: 0;
+    width: 220px;
+    background: var(--color-surface);
+    border: 1px solid var(--color-border);
+    border-radius: var(--radius-lg);
+    box-shadow: var(--shadow-xl);
+    padding: 8px;
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(8px);
+    transition: opacity var(--transition-fast), visibility var(--transition-fast), transform var(--transition-fast);
+  }
+  
+  .phone-launcher__actions[hidden] {
+    display: none;
+  }
+  
+  .phone-launcher__actions:not([hidden]) {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+  
+  .phone-launcher__action {
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+    padding: var(--spacing-sm) var(--spacing-md);
+    color: var(--color-text);
+    text-decoration: none;
+    border-radius: var(--radius-md);
+    transition: background var(--transition-fast);
+    font-size: var(--font-size-sm);
+  }
+  
+  .phone-launcher__action:hover {
+    background: var(--color-surface-dark);
+    color: var(--color-primary);
+  }
+  
+  .phone-launcher__action:focus {
+    outline: 2px solid var(--color-primary);
+    outline-offset: -2px;
+  }
 }
 
 /* TABLET: 768-1199px */
 @media (min-width: 768px) and (max-width: 1199px) {
+  .phone-launcher { display: none; }
   .site-header {
     position: sticky;
     top: 0;
@@ -551,7 +635,8 @@ padding-left: var(--spacing-lg);
   .footer-col h4 {
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-semibold);
-    color: var(--color-text);
+    color
+: var(--color-text);
   }
   
   .footer-links {
@@ -633,6 +718,7 @@ padding-left: var(--spacing-lg);
 
 /* DESKTOP: 1200px+ */
 @media (min-width: 1200px) {
+  .phone-launcher { display: none; }
   .site-header {
     position: sticky;
     top: 0;
@@ -694,6 +780,7 @@ padding-left: var(--spacing-lg);
     grid-column: span 1;
   }
   
+
   .footer-col h4 {
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-semibold);
@@ -813,7 +900,8 @@ grid-template-columns: repeat(4, 1fr);
   }
   
   .mobile-menu {
-    opacity: 1;
+    opacit
+y: 1;
     visibility: visible;
   }
   
