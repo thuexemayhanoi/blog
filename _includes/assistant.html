@@ -13,7 +13,7 @@
 <!-- Assistant Panel -->
 <div class="assistant-panel glass-card" id="assistant-panel" role="dialog" aria-modal="true" aria-labelledby="assistant-title">
   <div class="assistant-header">
-    <h3 id="assistant-title">{{ assistant.assistant.name.vi }}</h3>
+    <h3 id="assistant-title">{{ assistant.assistant.name }}</h3>
     <button class="assistant-close" aria-label="Đóng" data-assistant-close>
       {% include icon.html name="close" size="20" %}
     </button>
@@ -22,7 +22,7 @@
   <div class="assistant-body">
     <div class="assistant-messages" id="assistant-messages">
       <div class="assistant-message welcome">
-        <p>{{ assistant.assistant.greeting.vi }}</p>
+        <p>{{ assistant.assistant.greeting }}</p>
       </div>
     </div>
     
@@ -33,9 +33,8 @@
         <button 
           class="assistant-question-btn" 
           data-question-id="{{ q.id }}"
-          data-lang="vi"
         >
-          {{ q.question.vi }}
+          {{ q.question }}
         </button>
         {% endfor %}
       </div>
@@ -46,16 +45,16 @@
         type="text" 
         class="assistant-input-field" 
         id="assistant-input"
-        placeholder="{{ assistant.assistant.placeholder.vi }}"
+        placeholder="{{ assistant.assistant.placeholder }}"
         aria-label="Nhập câu hỏi"
       >
-      <button class="assistant-send" aria-label="Gửi" data-assistant-open>
+      <button class="assistant-send" aria-label="Gửi">
         {% include icon.html name="sparkles" size="18" %}
       </button>
     </div>
   </div>
   
   <div class="assistant-footer">
-    <p class="assistant-disclosure">{{ assistant.assistant.description.vi }}</p>
+    <p class="assistant-disclosure">{{ assistant.assistant.description }}</p>
   </div>
 </div>

@@ -47,7 +47,7 @@ class NguyenTuAssistant {
       this.sendBtn.addEventListener('click', () => this.sendMessage());
     }
 
-    // Quick question buttons - FIXED: use .assistant-question-btn instead of .quick-btn
+    // Quick question buttons
     document.querySelectorAll('.assistant-question-btn[data-question-id]').forEach(btn => {
       btn.addEventListener('click', () => {
         const questionId = btn.dataset.questionId;
@@ -128,29 +128,28 @@ class NguyenTuAssistant {
 
   getQuestionText(questionId) {
     const qq = this.quickQuestions.find(q => q.id === questionId);
-    if (qq && qq.question && qq.question.vi) {
-      return qq.question.vi;
+    if (qq && qq.question) {
+      return qq.question;
     }
     return questionId;
   }
 
   getAnswerText(questionId) {
     const qq = this.quickQuestions.find(q => q.id === questionId);
-    if (qq && qq.answer && qq.answer.vi) {
-      return this.processTemplate(qq.answer.vi);
+    if (qq && qq.answer) {
+      return this.processTemplate(qq.answer);
     }
     return this.getNotFoundMessage();
   }
 
   processQuestion(question) {
-    const lang = this.currentLang;
     const normalized = question.toLowerCase().trim();
 
     // Try to match with quick questions
     for (const qq of this.quickQuestions) {
-      const qText = qq.question.vi?.toLowerCase() || '';
+      const qText = qq.question?.toLowerCase() || '';
       if (normalized.includes(qText) || qText.includes(normalized)) {
-        return this.processTemplate(qq.answer.vi || this.getNotFoundMessage());
+        return this.processTemplate(qq.answer || this.getNotFoundMessage());
       }
     }
 
@@ -224,7 +223,7 @@ class NguyenTuAssistant {
   }
 
   getNotFoundMessage() {
-    return 'Minh chua co thong tin chac chan ve noi dung nay. Ban co the lien he Nguyen Tu qua Zalo, WhatsApp hoac dien thoai de xac nhan.';
+    return 'Mình chưa có thông tin chắc chắn về nội dung này. Bạn có thể liên hệ Nguyễn Tú qua Zalo, WhatsApp hoặc điện thoại để xác nhận.';
   }
 
   addMessage(text, type) {
