@@ -17,8 +17,8 @@
             {% for vehicle in pricing.vehicles %}
             <option 
               value="{{ vehicle.id }}" 
-              data-name="{{ vehicle.name.vi }}" 
-              data-category="{{ vehicle.category.vi }}"
+              data-name="{{ vehicle.name }}" 
+              data-category="{{ vehicle.category }}"
               data-day-min="{{ vehicle.rates.day.min | default: 0 }}"
               data-day-max="{{ vehicle.rates.day.max | default: 0 }}"
               data-week-min="{{ vehicle.rates.week.min | default: 0 }}"
@@ -27,7 +27,7 @@
               data-month-max="{{ vehicle.rates.month.max | default: 0 }}"
               {% if vehicle.popular %}data-popular="true"{% endif %}
             >
-              {{ vehicle.name.vi }} - {{ vehicle.category.vi }}
+              {{ vehicle.name }} - {{ vehicle.category }}
             </option>
             {% endfor %}
           </select>
