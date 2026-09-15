@@ -104,6 +104,7 @@
   }
   
   .mobile-sub
+
 menu {
     list-style: none;
     margin: 0;
@@ -203,7 +204,8 @@ menu {
   }
   
   @media (max-width: 359px) {
-    .mobile-con
+    .mobile-co
+n
 tact-bar__label {
       display: none;
     }
@@ -213,7 +215,40 @@ tact-bar__label {
     }
   }
   
+  
   /* Mobile Footer Accordion */
+  .footer-accordion {
+    width: 100%;
+  }
+  
+  .footer-accordion-summary {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: var(--spacing-md);
+    cursor: pointer;
+    list-style: none;
+  }
+  
+  .footer-accordion-summary::-webkit-details-marker {
+    display: none;
+  }
+  
+  .footer-accordion-title {
+    font-size: var(--font-size-lg);
+    font-weight: var(--font-weight-semibold);
+    color: var(--color-text);
+  }
+  
+  .footer-accordion-chevron {
+    transition: transform var(--transition-fast);
+    color: var(--color-text-secondary);
+  }
+  
+  .footer-accordion[open] .footer-accordion-chevron {
+    transform: rotate(180deg);
+  }
+  
   .footer-grid {
     grid-template-columns: 1fr;
     gap: var(--spacing-lg);
@@ -228,38 +263,7 @@ tact-bar__label {
     border-bottom: none;
     padding-bottom: 0;
   }
-  
-  .footer-col h4 {
-    font-size: var(--font-size-sm);
-    font-weight: var(--font-weight-semibold);
-    color: var(--color-text);
-    margin-bottom: var(--spacing-sm);
-  }
-  
-  .footer-links {
-    list-style: none;
-    margin: 0;
-    padding-left: 0;
-  }
-  
-  .footer-links li {
-    margin-bottom: var(--spacing-xs);
-  }
-  
-  .footer-links a {
-    display: block;
-    padding: var(--spacing-xs) 0;
-    font-size: var(--font-size-sm);
-    color: var(--color-text-secondary);
-    text-decoration: none;
-    transition: color var(--transition-fast);
-  }
-  
-  .footer-links a:hover {
-    color: var(--color-primary);
-  }
-  
-  /* Calculator */
+/* Calculator */
   .calculator-card {
     padding: 22px;
   }
@@ -311,7 +315,8 @@ tact-bar__label {
 g: var(--spacing-xs) var(--spacing-sm);
   }
   
-  .calculator-cta {
+  .c
+alculator-cta {
     flex-direction: column;
   }
   
@@ -433,7 +438,8 @@ r(--color-success);
   
   .cta-group {
     flex-direction: column;
-    gap: var(--spacing-sm);
+    gap: var(--s
+pacing-sm);
   }
   
   .cta-group .btn {
@@ -520,7 +526,8 @@ r(--color-success);
   }
   
   .phone-launcher__action:focus {
-    outline: 2px solid var(--color-primary);
+    outline: 2px 
+solid var(--color-primary);
     outline-offset: -2px;
   }
 }
@@ -640,7 +647,8 @@ padding-left: var(--spacing-lg);
   }
   
   .footer-links {
-    list-style: none;
+    l
+ist-style: none;
     margin: 0;
     padding-left: 0;
   }
@@ -781,7 +789,8 @@ padding-left: var(--spacing-lg);
   }
   
 
-  .footer-col h4 {
+  .footer-co
+l h4 {
     font-size: var(--font-size-sm);
     font-weight: var(--font-weight-semibold);
     color: var(--color-text);
@@ -902,7 +911,8 @@ grid-template-columns: repeat(4, 1fr);
   .mobile-menu {
     opacit
 y: 1;
-    visibility: visible;
+    vi
+sibility: visible;
   }
   
   .mobile-menu-inner {
