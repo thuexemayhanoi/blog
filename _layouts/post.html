@@ -24,12 +24,8 @@ layout: default
         {% include icon.html name="pen" %} <span class="post-author">{{ page.author }}</span>
         {% endif %}
         {% if page.reading_time %}
-        {% include icon.html name="clock" %} <span class="reading-time"> 
-          {% if current_lang == 'vi' %}
-            {{ page.reading_time }} phút đọc
-          {% else %}
-            {{ page.reading_time }} min read
-          {% endif %}
+        {% include icon.html name="clock" %} <span class="reading-time">
+          {{ page.reading_time }} phút đọc
         </span>
         {% endif %}
       </div>
@@ -42,64 +38,40 @@ layout: default
     </div>
     
     <div class="post-navigation">
-      {% assign same_lang_posts = site.posts | where: "lang", page.lang | sort: "date", "desc" %}
+      {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
+      {% assign sorted_posts = same_lang_posts | sort: "date" | reverse %}
       {% assign current_index = 0 %}
-      {% for post in same_lang_posts %}
+      {% for post in sorted_posts %}
         {% if post.url == page.url %}
           {% assign current_index = forloop.index0 %}
           {% break %}
         {% endif %}
       {% endfor %}
-      {% assign prev_post = same_lang_posts[current_index | plus: 1] %}
-      {% assign next_post = same_lang_posts[current_index | minus: 1] %}
+      {% assign prev_index = current_index | plus: 1 %}
+      {% assign next_index = current_index | minus: 1 %}
+      {% assign prev_post = sorted_posts[prev_index] %}
+      {% assign next_post = sorted_posts[next_index] %}
       
       {% if prev_post %}
       <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
-        {% if current_lang == 'vi' %
-}
-          {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
-        {% else %}
-          {% include icon.html name="chevron-left" %} Previous: {{ prev_post.title }}
-        {% endif %}
+        {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
       </a>
       {% endif %}
       
       {% if next_post %}
       <a href="{{ next_post.url | relative_url }}" class="nav-link next">
-        {% if current_lang == 'vi' %}
-          Bài sau: {{ next_post.title }} {% include icon.html name="chevron-right" %}
-        {% else %}
-          Next: {{ next_post.title }} {% include icon.html name="chevron-right" %}
-        {% endif %}
+        Bài sau: {{ next_post.title }} {% include icon.html name="chevron-right" %}
       </a>
       {% endif %}
     </div>
     
     <div class="post-cta glass-card">
-      <h3>
-        {% if current_lang == 'vi' %}
-          Bạn cần thuê xe máy tại Hà Nội?
-        {% else %}
-          Need to rent a motorcycle in Hanoi?
-        {% endif %}
-      </h3>
-      <p>
-        {% if current_lang == 'vi' %}
-          Hãy liên hệ với <strong>{{ business.display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.
-        {% else %}
-          Contact <strong>{{ business.display_name }}</strong> for the best advice and support.
-        {% endif %}
-      </p>
+      <h3>Bạn cần thuê xe máy tại Hà Nội?</h3>
+      <p>Hãy liên hệ với <strong>{{ business.display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.</p>
       <div class="cta-group">
-        {% if current_lang == 'vi' %}
         <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>
         <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
         <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
-        {% else %}
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Call now</a>
-        <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
-        <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Main Website</a>
-        {% endif %}
       </div>
     </div>
   </div>
