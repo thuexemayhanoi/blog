@@ -1,41 +1,75 @@
 {% assign business = site.data.business %}
 
-<!-- Desktop Floating Contact Rail -->
-<div class="contact-rail">
-  <div class="contact-rail__buttons">
-    <a href="{{ business.contact.phone_uri }}" class="contact-rail__btn" title="Gọi {{ business.contact.phone }}">
-      {% include icon.html name="phone" size="22" class="contact-rail__icon" %}
+<!-- Mobile Phone Launcher - Lower Left -->
+<div class="phone-launcher" id="phoneLauncher">
+  <button class="phone-launcher__toggle" aria-label="Mở menu liên hệ" aria-expanded="false" aria-controls="phoneActions">
+    {% include icon.html name="phone" size="24" class="phone-launcher__icon" %}
+  </button>
+  <div class="phone-launcher__actions" id="phoneActions" role="menu" hidden>
+    <a href="{{ business.contact.phone_uri }}" class="phone-launcher__action" role="menuitem">
+      {% include icon.html name="phone" size="20" %}
+      <span>Gọi điện</span>
     </a>
-    <a href="{{ business.contact.zalo }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="Zalo">
-      {% include icon.html name="message" size="22" class="contact-rail__icon" %}
+    <a href="{{ business.contact.zalo }}" class="phone-launcher__action" target="_blank" rel="noopener noreferrer" role="menuitem">
+      {% include icon.html name="message" size="20" %}
+      <span>Zalo</span>
     </a>
-    <a href="{{ business.contact.whatsapp }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="WhatsApp">
-      {% include icon.html name="whatsapp" size="22" class="contact-rail__icon" %}
+    <a href="{{ business.contact.whatsapp }}" class="phone-launcher__action" target="_blank" rel="noopener noreferrer" role="menuitem">
+      {% include icon.html name="whatsapp" size="20" %}
+      <span>WhatsApp</span>
     </a>
-    <a href="{{ business.contact.maps }}" class="contact-rail__btn" target="_blank" rel="noopener noreferrer" title="Google Maps">
-      {% include icon.html name="map-pin" size="22" class="contact-rail__icon" %}
+    <a href="{{ business.contact.maps }}" class="phone-launcher__action" target="_blank" rel="noopener noreferrer" role="menuitem">
+      {% include icon.html name="map-pin" size="20" %}
+      <span>Bản đồ</span>
     </a>
   </div>
 </div>
 
-<!-- Mobile Bottom Bar -->
-<div class="mobile-contact-bar">
-  <div class="mobile-contact-bar__actions">
-    <a href="{{ business.contact.phone_uri }}" class="mobile-contact-bar__btn" aria-label="Gọi">
-      {% include icon.html name="phone" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">Gọi</span>
-    </a>
-    <a href="{{ business.contact.zalo }}" class="mobile-contact-bar__btn" aria-label="Zalo">
-      {% include icon.html name="message" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">Zalo</span>
-    </a>
-    <a href="{{ business.contact.whatsapp }}" class="mobile-contact-bar__btn" aria-label="WhatsApp">
-      {% include icon.html name="whatsapp" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">WA</span>
-    </a>
-    <a href="{{ business.contact.maps }}" class="mobile-contact-bar__btn" aria-label="Maps">
-      {% include icon.html name="map-pin" size="22" class="mobile-contact-bar__icon" %}
-      <span class="mobile-contact-bar__label">Maps</span>
-    </a>
-  </div>
-</div>
+<script>
+  (function() {
+    const launcher = document.getElementById('phoneLauncher');
+    const toggle = launcher.querySelector('.phone-launcher__toggle');
+    const actions = document.getElementById('phoneActions');
+    
+    function toggleActions() {
+      const isExpanded = toggle.getAttribute('aria-expanded') === 'true';
+      const newState = !isExpanded;
+      
+      toggle.setAttribute('aria-expanded', newState);
+      actions.hidden = !newState;
+      
+      if (newState) {
+        const firstAction = actions.querySelector('.phone-launcher__action');
+        if (firstAction) firstAction.focus();
+      }
+    }
+    
+    function closeActions() {
+      toggle.setAttribute('aria-expanded', 'false');
+      actions.hidden = true;
+    }
+    
+    toggle.addEventListener('click', function(e) {
+      e.stopPropagation();
+      toggleActions();
+    });
+    
+    document.addEventListener('click', function(e) {
+      if (!launcher.contains(e.target)) {
+        closeActions();
+      }
+    });
+    
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') {
+        closeActions();
+      }
+    });
+    
+    actions.addEventListener('click', function(e) {
+      if (e.target.classList.contains('phone-launcher__action')) {
+        closeActions();
+      }
+    });
+  })();
+</script>
