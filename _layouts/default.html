@@ -1,7 +1,7 @@
 ---
 ---
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: 'vi' }}">
+<html lang="vi">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
@@ -33,13 +33,13 @@
     window.NGUYEN_TU_NAVIGATION = {{ site.data.navigation | jsonify }};
   </script>
 </head>
-<body class="{% if page.lang == 'en' %}en{% else %}vi{% endif %}">
+<body class="vi">
   {% include header.html %}
   {% include quick-contact.html %}
   {% include assistant.html %}
   
   <main>
-    {% if page.layout != 'home' and page.url != '/' and page.url != '/en/' %}
+    {% if page.layout != 'home' and page.url != '/' %}
       {% include breadcrumb.html %}
     {% endif %}
     
