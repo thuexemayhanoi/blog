@@ -1,5 +1,8 @@
-// DIGITAL FLAGSHIP EXPERIENCE
-// Main JavaScript for NGUYỄN TÚ DIGITAL FLAGSHIP WORLD-CLASS EXPERIENCE
+/**
+ * DIGITAL FLAGSHIP EXPERIENCE
+ * FIXED: Removed duplicate Assistant controller - assistant.js is sole chatbot handler
+ * Main JavaScript for NGUYỄN TÚ DIGITAL FLAGSHIP WORLD-CLASS EXPERIENCE
+ */
 
 (function() {
   'use strict';
@@ -53,7 +56,8 @@
       var moonIcons = document.querySelectorAll('.theme-icon-moon');
       var toggleButtons = document.querySelectorAll('[data-theme-toggle]');
       
-      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block'; });
+      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block';
+ });
       moonIcons.forEach(function(icon) { icon.style.display = isDark ? 'block' : 'none'; });
       
       toggleButtons.forEach(function(btn) {
@@ -118,7 +122,8 @@
       submenuToggles.forEach(function(toggle) {
         toggle.addEventListener('click', function(e) {
           e.preventDefault();
-          var expanded = this.getAttribute('aria-expanded') === 'true';
+         
+ var expanded = this.getAttribute('aria-expanded') === 'true';
           this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         });
       });
@@ -169,7 +174,8 @@
         if (dropdownToggle && dropdownMenu) {
           dropdownItem.addEventListener('mouseenter', function() {
             dropdownMenu.style.opacity = '1';
-            dropdownMenu.style.visibility = 'visible';
+            dropdownMenu.style.visibil
+ity = 'visible';
             dropdownMenu.style.transform = 'translateY(0)';
           });
           dropdownItem.addEventListener('mouseleave', function() {
