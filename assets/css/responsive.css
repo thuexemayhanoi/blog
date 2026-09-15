@@ -103,8 +103,8 @@
     padding-left: 0;
   }
   
-  .mobile-sub
-menu {
+  .mobile-submenu {
+
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
@@ -203,8 +203,8 @@ menu {
   }
   
   @media (max-width: 359px) {
-    .mobile-con
-tact-bar__label {
+    .mobile-contact-bar__label {
+
       display: none;
     }
     
@@ -895,7 +895,8 @@ social-links {
   
   .cta-group {
     flex-wrap: wrap;
-    justify-content: center;
+    justify-co
+ntent: center;
     gap: var(--spacing-sm);
   }
   
