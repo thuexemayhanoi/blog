@@ -1,5 +1,4 @@
 {% assign business = site.data.business %}
-{% assign current_lang = page.lang | default: 'vi' %}
 
 <!-- Primary Meta Tags -->
 <title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
@@ -40,40 +39,9 @@
 <meta name="twitter:image" content="{{ business.logo | absolute_url }}">
 {% endif %}
 
-<!-- Hreflang for bilingual -->
-{% assign translations = site.data.translations %}
-{% if page.translation_key %}
-  {% assign translation = translations[page.translation_key] %}
-  {% if translation %}
-    {% if current_lang == 'vi' %}
+<!-- Hreflang for Vietnamese only -->
 <link rel="alternate" hreflang="vi" href="{{ page.url | absolute_url }}">
-<link rel="alternate" hreflang="en" href="{{ translation.en | absolute_url }}">
 <link rel="alternate" hreflang="x-default" href="{{ page.url | absolute_url }}">
-    {% else %}
-<link rel="alternate" hreflang="en" href="{{ page.url | absolute_url }}">
-<link rel="alternate" hreflang="vi" href="{{ translation.vi | absolute_url }}">
-<link rel="alternate" hreflang="x-default" href="{{ translation.vi | absolute_url }}">
-    {% endif %}
-  {% else %}
-    <!-- Fallback: no translation mapping -->
-<link rel="alternate" hreflang="{{ current_lang }}" href="{{ page.url | absolute_url }}">
-    {% if current_lang == 'vi' %}
-<link rel="alternate" hreflang="en" href="{{ '/en/' | absolute_url }}">
-    {% else %}
-<link rel="alternate" hreflang="vi" href="{{ '/' | absolute_url }}">
-    {% endif %}
-<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
-  {% endif %}
-{% else %}
-  <!-- Fallback: no translation_key -->
-<link rel="alternate" hreflang="{{ current_lang }}" href="{{ page.url | absolute_url }}">
-  {% if current_lang == 'vi' %}
-<link rel="alternate" hreflang="en" href="{{ '/en/' | absolute_url }}">
-  {% else %}
-<link rel="alternate" hreflang="vi" href="{{ '/' | absolute_url }}">
-  {% endif %}
-<link rel="alternate" hreflang="x-default" href="{{ '/' | absolute_url }}">
-{% endif %}
 
 <!-- Favicon -->
 {% if business.logo %}
@@ -90,10 +58,7 @@
 <!-- Schema.org Markup -->
 <script type="application/ld+json">
 {
-  "@context": "https:/
-
-
-/schema.org",
+  "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
@@ -141,10 +106,7 @@
       "@type": "BlogPosting",
       "@id": "{{ page.url | absolute_url }}#blogposting",
       "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.exc
-e
-r
-pt | strip_html | truncatewords: 50 }}",
+      "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 }}",
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
       "author": {
