@@ -1,4 +1,3 @@
-/* FIXED BY VIBE */
 /* DIGITAL FLAGSHIP EXPERIENCE - Responsive Styles */
 /* FIXED: Added transform + opacity animation for mobile menu motion */
 /* Exactly 3 modes: PHONE, TABLET, DESKTOP */
@@ -104,8 +103,7 @@
     padding-left: 0;
   }
   
-  .mobile-sub
-menu {
+  .mobile-submenu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
