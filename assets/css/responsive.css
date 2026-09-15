@@ -209,9 +209,7 @@
   
   .footer-links a {
     display: block;
-    padding: var(--spaci
-
-ng-xs) 0;
+    padding: var(--spacing-xs) 0;
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
     text-decoration: none;
@@ -331,8 +329,6 @@ ng-xs) 0;
   
   .about-content {
     flex-direction: column;
-
-
     gap: var(--spacing-lg);
   }
   
@@ -342,7 +338,8 @@ ng-xs) 0;
   }
   
   .social-links {
-    justify-content: flex-start;
+    jus
+tify-content: flex-start;
   }
   
   .commitments {
@@ -454,9 +451,7 @@ ng-xs) 0;
   .mobile-submenu {
     list-style: none;
     margin: 0;
-  
- 
- 
+    
 padding-left: var(--spacing-lg);
   }
   
@@ -590,9 +585,7 @@ padding-left: var(--spacing-lg);
   
   .theme-toggle {
     width: 40px;
-
-  
-  height: 40px;
+    height: 40px;
   }
   
   .calc-link {
@@ -727,9 +720,7 @@ grid-template-columns: repeat(4, 1fr);
   
   .hero-cta {
     flex-wrap: wrap;
-
-   
- justify-content: center;
+    justify-content: center;
     gap: var(--spacing-md);
   }
   
