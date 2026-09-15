@@ -1,13 +1,11 @@
-
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.footer %}
-{% assign current_lang = page.lang | default: 'vi' %}
 
 <footer class="site-footer" role="contentinfo">
   <div class="container">
     <details class="footer-accordion" open>
-      <summary class="footer-accordion-summary" aria-label="{% if current_lang == 'vi' %}Menu chính{% else %}Main Menu{% endif %}">
-        <span class="footer-accordion-title">{% if current_lang == 'vi' %}Menu chính{% else %}Main Menu{% endif %}</span>
+      <summary class="footer-accordion-summary" aria-label="Menu chính">
+        <span class="footer-accordion-title">Menu chính</span>
       </summary>
       
       <div class="footer-grid">
@@ -19,24 +17,23 @@
           </a>
           <p class="brand-tagline">{{ site.description }}</p>
           <address class="business-address">
-            <p><strong>{% if current_lang == 'vi' %}Địa chỉ:{% else %}Address:{% endif %}</strong> {{ business.address.full }}</p>
-            <p><strong>{% if current_lang == 'vi' %}Điện thoại:{% else %}Phone:{% endif %}</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-            <p><strong>{% if current_lang == 'vi' %}Email:{% else %}Email:{% endif %}</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-            <p><strong>{% if current_lang == 'vi' %}Giờ hoạt động:{% else %}Opening hours:{% endif %}</strong> {{ business.hours }}</p>
+            <p><strong>Địa chỉ:</strong> {{ business.address.full }}</p>
+            <p><strong>Điện thoại:</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+            <p><strong>Email:</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+            <p><strong>Giờ hoạt động:</strong> {{ business.hours }}</p>
           </address>
           <div class="social-links">
             <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
               {% include icon.html name="message" size="18" %}
-              {% if current_lang == 'vi' %}Zalo{% else %}Zalo{% endif %}
+              Zalo
             </a>
-            <a href="{{ busi
-ness.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
+            <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
               {% include icon.html name="whatsapp" size="18" %}
-              {% if current_lang == 'vi' %}WhatsApp{% else %}WhatsApp{% endif %}
+              WhatsApp
             </a>
             <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
               {% include icon.html name="map-pin" size="18" %}
-              {% if current_lang == 'vi' %}Google Maps{% else %}Google Maps{% endif %}
+              Google Maps
             </a>
           </div>
         </div>
@@ -44,7 +41,7 @@ ness.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="socia
         <!-- Links Columns -->
         {% for section in nav %}
         <div class="footer-col">
-          <h4>{{ section.title[current_lang] }}</h4>
+          <h4>{{ section.title }}</h4>
           <ul class="footer-links" style="list-style: none; margin: 0; padding-left: 0;">
             {% for link in section.links %}
             <li>
@@ -53,11 +50,11 @@ ness.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="socia
                   href="{{ link.url }}"
                   target="_blank" rel="noopener noreferrer"
                 {% else %}
-                  href="{{ link.url[current_lang] | relative_url }}"
+                  href="{{ link.url | relative_url }}"
                 {% endif %}
               >
                 {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
-                {{ link.name[current_lang] }}
+                {{ link.name }}
               </a>
             </li>
             {% endfor %}
@@ -66,7 +63,7 @@ ness.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="socia
         {% endfor %}
         
         <div class="footer-bottom">
-          <p>&copy; {{ site.time | date: '%Y' }} {% if current_lang == 'vi' %}{{ business.display_name }}.{% else %}{{ business.display_name }}.{% endif %}</p>
+          <p>&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}.</p>
         </div>
       </div>
     </details>
