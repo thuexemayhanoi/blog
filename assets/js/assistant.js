@@ -1,6 +1,6 @@
 /**
  * NGUYEN TU BLOG - Rule-based Assistant
- * FIXED: Removed all .vi accessors - now uses direct scalar access
+ * FIXED: Removed all .vi/.en accessors - now uses direct scalar access
  * No external APIs, pure JavaScript
  * Vietnamese-only version
  */
@@ -25,22 +25,18 @@ class NguyenTuAssistant {
   init() {
     if (!this.toggleBtn || !this.panel) return;
 
-    // Toggle panel
     this.toggleBtn.addEventListener('click', () => this.togglePanel());
     
-    // Close panel
     if (this.closeBtn) {
       this.closeBtn.addEventListener('click', () => this.closePanel());
     }
 
-    // Close on backdrop click
     this.panel.addEventListener('click', (e) => {
       if (e.target === this.panel) {
         this.closePanel();
       }
     });
 
-    // Send message
     if (this.input && this.sendBtn) {
       this.input.addEventListener('keypress', (e) => {
         if (e.key === 'Enter') this.sendMessage();
@@ -48,7 +44,6 @@ class NguyenTuAssistant {
       this.sendBtn.addEventListener('click', () => this.sendMessage());
     }
 
-    // Quick question buttons
     document.querySelectorAll('.assistant-question-btn[data-question-id]').forEach(btn => {
       btn.addEventListener('click', () => {
         const questionId = btn.dataset.questionId;
@@ -56,7 +51,6 @@ class NguyenTuAssistant {
       });
     });
 
-    // Close on Escape
     document.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && this.panel.classList.contains('active')) {
         this.closePanel();
@@ -65,20 +59,17 @@ class NguyenTuAssistant {
   }
 
   togglePanel() {
-    this.panel.classList.tog
-gle('active');
+    this.panel.classList.toggle('active');
     const isOpen = this.panel.classList.contains('active');
     
     if (isOpen) {
       this.toggleBtn.setAttribute('aria-expanded', 'true');
       document.body.classList.add('assistant-open');
       
-      // Focus input
       if (this.input) {
         setTimeout(() => this.input.focus(), 100);
       }
       
-      // Update badge
       this.updateBadge(0);
     } else {
       this.toggleBtn.setAttribute('aria-expanded', 'false');
@@ -98,13 +89,10 @@ gle('active');
     const question = this.input.value.trim();
     this.input.value = '';
 
-    // Add user message
     this.addMessage(question, 'user');
 
-    // Process and get answer
     const answer = this.processQuestion(question);
     
-    // Add assistant message
     setTimeout(() => {
       this.addMessage(answer, 'assistant');
     }, 300);
@@ -114,15 +102,12 @@ gle('active');
     const question = this.getQuestionText(questionId);
     const answer = this.getAnswerText(questionId);
 
-    // Add user message
     this.addMessage(question, 'user');
 
-    // Add assistant message
     setTimeout(() => {
       this.addMessage(answer, 'assistant');
     }, 300);
 
-    // Close panel on mobile
     if (window.innerWidth <= 768) {
       this.closePanel();
     }
@@ -145,10 +130,8 @@ gle('active');
   }
 
   processQuestion(question) {
-    const normalized = question.to
-LowerCase().trim();
+    const normalized = question.toLowerCase().trim();
 
-    // Try to match with quick questions
     for (const qq of this.quickQuestions) {
       const qText = qq.question?.toLowerCase() || '';
       if (normalized.includes(qText) || qText.includes(normalized)) {
@@ -156,7 +139,6 @@ LowerCase().trim();
       }
     }
 
-    // Try to match keywords - Vietnamese only
     const keywords = {
       'bang gia': 'pricing',
       'tinh gia': 'calculator',
@@ -179,55 +161,46 @@ LowerCase().trim();
       }
     }
 
-    // Default response
     return this.getNotFoundMessage();
   }
 
   processTemplate(template) {
-    // Replace business data placeholders
     let processed = template;
     
-    // Replace business.contact references
     if (this.business.contact) {
-      processed = processed.replace(/{{s*business.contact.phones*}}/g, this.business.contact.phone || '');
-      processed = processed.replace(/{{s*business.contact.phone_uris*}}/g, this.business.contact.phone_uri || '');
-      processed = processed.replace(/{{s*business.contact.zalos*}}/g, this.business.contact.zalo || '');
-      processed = processed.replace(/{{s*business.contact.whatsapps*}}/g, this.business.contact.whatsapp || '');
-      processed = processed.replace(/{{s*business.contact.mapss*}}/g, this.business.contact.maps || '');
-      processed = processed.replace(/{{s*business.contact.emails*}}/g, this.business.contact.email || '');
+      processed = processed.replace(/{{s*business\.contact\.phones*}}/g, this.business.contact.phone || '');
+      processed = processed.replace(/{{s*business\.contact\.phone_uris*}}/g, this.business.contact.phone_uri || '');
+      processed = processed.replace(/{{s*business\.contact\.zalos*}}/g, this.business.contact.zalo || '');
+      processed = processed.replace(/{{s*business\.contact\.whatsapps*}}/g, this.business.contact.whatsapp || '');
+      processed = processed.replace(/{{s*business\.contact\.mapss*}}/g, this.business.contact.maps || '');
+      processed = processed.replace(/{{s*business\.contact\.emails*}}/g, this.business.contact.email || '');
     }
 
-    // Replace business.address references
     if (this.business.address) {
-      processed = processed.replace(/{{s*business.addr
-ess.fulls*}}/g, this.business.address.full || '');
+      processed = processed.replace(/{{s*business\.address\.fulls*}}/g, this.business.address.full || '');
     }
 
-    // Replace business.hours
     if (this.business.hours) {
-      processed = processed.replace(/{{s*business.hourss*}}/g, this.business.hours);
+      processed = processed.replace(/{{s*business\.hourss*}}/g, this.business.hours);
     }
 
-    // Replace business.display_name
     if (this.business.display_name) {
-      processed = processed.replace(/{{s*business.display_names*}}/g, this.business.display_name);
+      processed = processed.replace(/{{s*business\.display_names*}}/g, this.business.display_name);
     }
 
-    // Replace business.url
     if (this.business.url) {
-      processed = processed.replace(/{{s*business.urls*}}/g, this.business.url);
+      processed = processed.replace(/{{s*business\.urls*}}/g, this.business.url);
     }
 
-    // Replace site.url
     if (window.NGUYEN_TU_BUSINESS && window.NGUYEN_TU_BUSINESS.url) {
-      processed = processed.replace(/{{s*site.urls*}}/g, window.NGUYEN_TU_BUSINESS.url);
+      processed = processed.replace(/{{s*site\.urls*}}/g, window.NGUYEN_TU_BUSINESS.url);
     }
 
     return processed;
   }
 
   getNotFoundMessage() {
-    return 'Mình chưa có thông tin chắc chắn về nội dung này. Bạn có thể liên hệ Nguyễn Tú qua Zalo, WhatsApp hoặc điện thoại để xác nhận.';
+    return 'Minh chua co thong tin chac chan ve noi dung nay. Ban co the lien he Nguyen Tu qua Zalo, WhatsApp hoac dien thoai de xac nhan.';
   }
 
   addMessage(text, type) {
@@ -240,7 +213,6 @@ ess.fulls*}}/g, this.business.address.full || '');
     this.messages.appendChild(messageDiv);
     this.messages.scrollTop = this.messages.scrollHeight;
 
-    // Update badge
     if (type === 'user') {
       const count = parseInt(this.toggleBtn.querySelector('.assistant-badge')?.textContent || '0');
       this.updateBadge(count + 1);
@@ -255,7 +227,6 @@ ess.fulls*}}/g, this.business.address.full || '');
   }
 }
 
-// Initialize assistant when DOM is ready
 document.addEventListener('DOMContentLoaded', () => {
   new NguyenTuAssistant();
 });
