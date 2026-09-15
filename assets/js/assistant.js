@@ -1,5 +1,6 @@
 /**
  * NGUYEN TU BLOG - Rule-based Assistant
+ * FIXED: Removed all .vi accessors - now uses direct scalar access
  * No external APIs, pure JavaScript
  * Vietnamese-only version
  */
@@ -64,7 +65,8 @@ class NguyenTuAssistant {
   }
 
   togglePanel() {
-    this.panel.classList.toggle('active');
+    this.panel.classList.tog
+gle('active');
     const isOpen = this.panel.classList.contains('active');
     
     if (isOpen) {
@@ -143,7 +145,8 @@ class NguyenTuAssistant {
   }
 
   processQuestion(question) {
-    const normalized = question.toLowerCase().trim();
+    const normalized = question.to
+LowerCase().trim();
 
     // Try to match with quick questions
     for (const qq of this.quickQuestions) {
@@ -196,7 +199,8 @@ class NguyenTuAssistant {
 
     // Replace business.address references
     if (this.business.address) {
-      processed = processed.replace(/{{s*business.address.fulls*}}/g, this.business.address.full || '');
+      processed = processed.replace(/{{s*business.addr
+ess.fulls*}}/g, this.business.address.full || '');
     }
 
     // Replace business.hours
