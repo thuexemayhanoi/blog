@@ -103,8 +103,7 @@
     padding-left: 0;
   }
   
-  .mobile-sub
-menu {
+  .mobile-submenu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
@@ -203,8 +202,7 @@ menu {
   }
   
   @media (max-width: 359px) {
-    .mobile-con
-tact-bar__label {
+    .mobile-contact-bar__label {
       display: none;
     }
     
@@ -308,8 +306,7 @@ tact-bar__label {
     padding: var(--spacing-xs) var(--spacing-sm);
   }
   
-  .calculator
--cta {
+  .calculator-cta {
     flex-direction: column;
   }
   
@@ -427,8 +424,8 @@ tact-bar__label {
     width: 100%;
   }
   
-  .s
-ocial-links {
+ 
+ .social-links {
     justify-content: flex-start;
   }
   
@@ -522,8 +519,8 @@ ocial-links {
   .phone-launcher__action {
     display: flex;
     align-items: center;
-    g
-ap: var(--spacing-sm);
+ 
+   gap: var(--spacing-sm);
     padding: var(--spacing-sm) var(--spacing-md);
     color: var(--color-text);
     text-decoration: none;
@@ -642,8 +639,7 @@ ap: var(--spacing-sm);
   }
   
   .contact-rail {
-    displ
-ay: none;
+    display: none;
   }
   
   .mobile-contact-bar {
@@ -753,7 +749,8 @@ ay: none;
   .site-header {
     position: sticky;
     top: 0;
-  }
+  
+}
   
   .header-content {
     height: 60px;
@@ -776,8 +773,7 @@ ay: none;
     height: 40px;
   }
   
-  .calc-l
-ink {
+  .calc-link {
     display: flex;
   }
   
@@ -908,8 +904,7 @@ ink {
   .hero-cta {
     flex-wrap: wrap;
     justify-content: center;
-    gap: var
-(--spacing-md);
+    gap: var(--spacing-md);
   }
   
   .hero-cta .btn {
