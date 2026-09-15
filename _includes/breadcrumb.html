@@ -1,13 +1,12 @@
 {% assign business = site.data.business %}
 {% assign nav = site.data.navigation.main %}
-{% assign current_lang = page.lang | default: 'vi' %}
 
-<nav class="breadcrumb" aria-label="{% if current_lang == 'vi' %}Đường dẫn{% else %}Breadcrumbs{% endif %}">
+<nav class="breadcrumb" aria-label="Đường dẫn">
   <ol style="list-style: none; margin: 0; padding-left: 0;">
     <li>
-      <a href="{{ '/' | relative_url }}" aria-label="{% if current_lang == 'vi' %}Trang chủ{% else %}Home{% endif %}">
+      <a href="{{ '/' | relative_url }}" aria-label="Trang chủ">
         {% include icon.html name="home" size="16" class="breadcrumb-icon" %}
-        <span>{% if current_lang == 'vi' %}Trang chủ{% else %}Home{% endif %}</span>
+        <span>Trang chủ</span>
       </a>
     </li>
     
@@ -16,9 +15,9 @@
       {% for item in nav %}
         {% if item.children %}
           {% for child in item.children %}
-            {% if child.name[current_lang] == category %}
+            {% if child.name == category %}
             <li>
-              <a href="{{ child.url[current_lang] | relative_url }}">{{ child.name[current_lang] }}</a>
+              <a href="{{ child.url | relative_url }}">{{ child.name }}</a>
             </li>
             {% endif %}
           {% endfor %}
@@ -28,7 +27,7 @@
       <li aria-current="page">{{ page.category | default: page.title }}</li>
     {% else %}
       {% assign page_title = page.title | split: ' - ' | first %}
-      {% if page_title != 'Trang chủ' and page_title != 'Home' %}
+      {% if page_title != 'Trang chủ' %}
       <li aria-current="page">{{ page_title }}</li>
       {% endif %}
     {% endif %}
