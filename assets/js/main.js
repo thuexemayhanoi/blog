@@ -53,8 +53,7 @@
       var moonIcons = document.querySelectorAll('.theme-icon-moon');
       var toggleButtons = document.querySelectorAll('[data-theme-toggle]');
       
-      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block';
- });
+      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block'; });
       moonIcons.forEach(function(icon) { icon.style.display = isDark ? 'block' : 'none'; });
       
       toggleButtons.forEach(function(btn) {
@@ -157,62 +156,6 @@
     }
   };
 
-  var Assistant = {
-    init: function() {
-      this._bindOpen();
-      this._bindClose();
-      this._bindEscape();
-      this._bindScrollLock();
-    },
-    _bindOpen: function() {
-      var openButtons = document.querySelectorAll('[data-assistant-open]');
-      var self = this;
-      openButtons.forEach(function(btn) {
-        btn.addEventListener('click', function(e) {
-          e.preventDefault();
-          self.open();
-        });
-      });
-    },
-    _bindClose: function() {
-      var closeButtons = document.querySelectorAll('[data-assistant-close]');
-      var self = this;
-      closeButtons.forEach(function(btn) {
-        btn.addEventListener('click', function(e) {
-          e.preventDefault();
-          self.close();
-        });
-      });
-    },
-    _bindEscape: function() {
-      var self = this;
-      document.addEventListener('keydown', function(e) {
-        if (e.key === 'Escape' && document.body.classList.contains('assistant-open')) {
-          self.close();
-        }
-      });
-    },
-    _bindScrollLock: function() {
-      var self = this;
-      var observer = new MutationObserver(function(mutations) {
-        if (document.body.classList.contains('assistant-open')) {
-          document.body.style.overflow = 'hidden';
-        } else {
-          document.body.style.overflow = '';
-        }
-      });
-      observer.observe(document.body, { attributes: true, attributeFilter: ['class'] });
-    },
-    open: function() {
-      document.body.classList.add('assistant-open');
-      MobileMenu._hideContactUI();
-    },
-    close: function() {
-      document.body.classList.remove('assistant-open');
-      MobileMenu._showContactUI();
-    }
-  };
-
   var Dropdown = {
     init: function() {
       this._bindHover();
@@ -242,7 +185,6 @@
   function init() {
     ThemeManager.init();
     MobileMenu.init();
-    Assistant.init();
     Dropdown.init();
   }
 
