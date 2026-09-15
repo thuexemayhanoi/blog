@@ -53,15 +53,15 @@
       var moonIcons = document.querySelectorAll('.theme-icon-moon');
       var toggleButtons = document.querySelectorAll('[data-theme-toggle]');
       
-      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block'; });
+      sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block';
+ });
       moonIcons.forEach(function(icon) { icon.style.display = isDark ? 'block' : 'none'; });
       
       toggleButtons.forEach(function(btn) {
-        var lang = document.documentElement.lang || document.body.className;
         if (isDark) {
-          btn.setAttribute('aria-label', lang.includes('vi') ? 'Chuyển sang chế độ sáng' : 'Switch to light mode');
+          btn.setAttribute('aria-label', 'Chuyển sang chế độ sáng');
         } else {
-          btn.setAttribute('aria-label', lang.includes('vi') ? 'Chuyển sang chế độ tối' : 'Switch to dark mode');
+          btn.setAttribute('aria-label', 'Chuyển sang chế độ tối');
         }
       });
     }
@@ -74,6 +74,7 @@
       this._bindEscape();
       this._bindLinks();
       this._bindScrollLock();
+      this._bindSubmenuToggles();
     },
     _bindOpen: function() {
       var openButtons = document.querySelectorAll('[data-mobile-menu-open]');
@@ -81,8 +82,7 @@
       openButtons.forEach(function(btn) {
         btn.addEventListener('click', function(e) {
           e.preventDefault();
-          self.open(
-);
+          self.open();
         });
       });
     },
@@ -105,11 +105,22 @@
       });
     },
     _bindLinks: function() {
-      var menuLinks = document.querySelectorAll('.mobile-submenu a, .mobile-menu__nav-link');
+      var menuLinks = document.querySelectorAll('.mobile-submenu a, .mobile-nav-link');
       var self = this;
       menuLinks.forEach(function(link) {
         link.addEventListener('click', function() {
           self.close();
+        });
+      });
+    },
+    _bindSubmenuToggles: function() {
+      var submenuToggles = document.querySelectorAll('.submenu-toggle');
+      var self = this;
+      submenuToggles.forEach(function(toggle) {
+        toggle.addEventListener('click', function(e) {
+          e.preventDefault();
+          var expanded = this.getAttribute('aria-expanded') === 'true';
+          this.setAttribute('aria-expanded', expanded ? 'false' : 'true');
         });
       });
     },
@@ -140,8 +151,7 @@
     },
     _showContactUI: function() {
       var mobileContactBar = document.querySelector('.mobile-contact-bar');
-      var contactRail = document.querySelector(
-'.contact-rail');
+      var contactRail = document.querySelector('.contact-rail');
       if (mobileContactBar) mobileContactBar.style.display = '';
       if (contactRail) contactRail.style.display = '';
     }
@@ -208,20 +218,21 @@
       this._bindHover();
     },
     _bindHover: function() {
-      var navItems = document.querySelectorAll('.header__nav-item');
-  
-    navItems.forEach(function(item) {
-        var dropdown = item.querySelector('.header__dropdown');
-        if (dropdown) {
-          item.addEventListener('mouseenter', function() {
-            dropdown.style.opacity = '1';
-            dropdown.style.visibility = 'visible';
-            dropdown.style.transform = 'translateY(0)';
+      var dropdowns = document.querySelectorAll('.dropdown');
+      
+      dropdowns.forEach(function(dropdownItem) {
+        var dropdownToggle = dropdownItem.querySelector('.dropdown-toggle');
+        var dropdownMenu = dropdownItem.querySelector('.dropdown-menu');
+        if (dropdownToggle && dropdownMenu) {
+          dropdownItem.addEventListener('mouseenter', function() {
+            dropdownMenu.style.opacity = '1';
+            dropdownMenu.style.visibility = 'visible';
+            dropdownMenu.style.transform = 'translateY(0)';
           });
-          item.addEventListener('mouseleave', function() {
-            dropdown.style.opacity = '';
-            dropdown.style.visibility = '';
-            dropdown.style.transform = '';
+          dropdownItem.addEventListener('mouseleave', function() {
+            dropdownMenu.style.opacity = '';
+            dropdownMenu.style.visibility = '';
+            dropdownMenu.style.transform = '';
           });
         }
       });
