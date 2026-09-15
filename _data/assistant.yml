@@ -5,7 +5,7 @@
 
 assistant:
   name: "Trợ lý Nguyễn Tú"
-  description: "Trợ lý trả lời tự động từ dữ liệu có sẵn trên website. Không sử dụng API AI."
+  description: "Trợ lý trả lời tự động dựa trên dữ liệu có sẵn trên website. Không sử dụng API AI."
   greeting: "Xin chào! Mình là trợ lý của Nguyễn Tú. Mình có thể giúp gì cho bạn?"
   placeholder: "Nhập câu hỏi của bạn..."
   not_found: "Mình chưa có thông tin chắc chắn về nội dung này. Bạn có thể liên hệ Nguyễn Tú qua Zalo, WhatsApp hoặc điện thoại để xác nhận."
@@ -14,11 +14,11 @@ assistant:
 quick_questions:
   - id: pricing
     question: "Bảng giá"
-    answer: "Bạn có thể xem bảng giá chi tiết tại [trang Bảng giá]({{ '/bang-gia/' | relative_url }}). Hoặc dùng công cụ tính giá ngay bên dưới."
+    answer: "Bạn có thể xem bảng giá chi tiết trên website hoặc dùng công cụ tính giá ngay bên dưới."
   
   - id: calculator
     question: "Tính giá"
-    answer: "Dùng công cụ [Tính giá thuê xe]({{ '/bang-gia/#tinh-gia' | relative_url }}) để ước tính chi phí thuê xe."
+    answer: "Dùng công cụ Tính giá thuê xe để ước tính chi phí thuê xe."
   
   - id: address
     question: "Địa chỉ"
@@ -30,35 +30,35 @@ quick_questions:
   
   - id: phone
     question: "Số điện thoại"
-    answer: "Số điện thoại: [{{ business.contact.phone }}]({{ business.contact.phone_uri }})"
+    answer: "Số điện thoại: {{ business.contact.phone }}"
   
   - id: zalo
     question: "Zalo"
-    answer: "Bạn có thể nhắn Zalo tại: [{{ business.contact.zalo }}]({{ business.contact.zalo }})"
+    answer: "Bạn có thể liên hệ Nguyễn Tú qua Zalo."
   
   - id: whatsapp
     question: "WhatsApp"
-    answer: "Bạn có thể nhắn WhatsApp tại: [{{ business.contact.whatsapp }}]({{ business.contact.whatsapp }})"
+    answer: "Bạn có thể liên hệ Nguyễn Tú qua WhatsApp."
   
   - id: maps
     question: "Google Maps"
-    answer: "Xem vị trí của chúng tôi trên: [Google Maps]({{ business.contact.maps }})"
+    answer: "Xem vị trí của chúng tôi trên Google Maps."
   
   - id: honda-wave
     question: "Xe số"
-    answer: "Xe số bao gồm Honda Wave, Yamaha Sirius. Giá thuê từ 150.000đ/ngày. [Xem chi tiết]({{ '/bang-gia-xe-so/' | relative_url }})"
+    answer: "Xe số bao gồm Honda Wave, Yamaha Sirius. Giá thuê từ 150.000đ/ngày."
   
   - id: honda-vision
     question: "Xe ga"
-    answer: "Xe ga bao gồm Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio. Giá thuê từ 150.000đ-200.000đ/ngày. [Xem chi tiết]({{ '/bang-gia-xe-ga/' | relative_url }})"
+    answer: "Xe ga bao gồm Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio. Giá thuê từ 150.000đ-200.000đ/ngày."
   
   - id: electric-bike
     question: "Xe điện"
-    answer: "Xe điện thân thiện môi trường. Giá thuê từ 200.000đ/ngày. [Xem chi tiết]({{ '/bang-gia-xe-dien/' | relative_url }})"
+    answer: "Xe điện thân thiện môi trường. Vui lòng liên hệ Nguyễn Tú để biết giá."
   
   - id: electric-scooter
     question: "Xe đạp điện"
-    answer: "Xe đạp điện nhẹ nhàng, phù hợp cho khoảng cách ngắn. Vui lòng liên hệ để biết giá."
+    answer: "Xe đạp điện nhẹ nhàng, phù hợp cho khoảng cách gần. Vui lòng liên hệ để biết giá."
   
   - id: daily-rental
     question: "Thuê theo ngày"
