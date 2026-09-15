@@ -209,12 +209,12 @@
   
   .footer-links a {
     display: block;
-    padding: var(--spacing-xs) 0;
+    padding: var(--spaci
+ng-xs) 0;
     font-size: var(--font-size-sm);
     color: var(--color-text-secondary);
     text-decoration: none;
-    t
-ransition: color var(--transition-fast);
+    transition: color var(--transition-fast);
   }
   
   .footer-links a:hover {
@@ -330,6 +330,7 @@ ransition: color var(--transition-fast);
   
   .about-content {
     flex-direction: column;
+
     gap: var(--spacing-lg);
   }
   
@@ -451,7 +452,8 @@ ransition: color var(--transition-fast);
   .mobile-submenu {
     list-style: none;
     margin: 0;
-    
+   
+ 
 padding-left: var(--spacing-lg);
   }
   
@@ -585,7 +587,8 @@ padding-left: var(--spacing-lg);
   
   .theme-toggle {
     width: 40px;
-    height: 40px;
+  
+  height: 40px;
   }
   
   .calc-link {
@@ -720,8 +723,8 @@ grid-template-columns: repeat(4, 1fr);
   
   .hero-cta {
     flex-wrap: wrap;
-    justify
--content: center;
+   
+ justify-content: center;
     gap: var(--spacing-md);
   }
   
