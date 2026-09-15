@@ -689,7 +689,8 @@ ointer;
 }
 
 .assistant-close:hover {
-  background: var(--color-surface-dark);
+  back
+ground: var(--color-surface-dark);
 }
 
 .assistant-body {
@@ -972,7 +973,8 @@ nd
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  padding: var(--spacing-2xl) 0 var(--spacing-xl);
+  paddin
+g: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
@@ -1082,7 +1084,8 @@ nd
   margin-bottom: var(--spacing-sm);
 }
 
-.footer-bottom {
+.footer-bottom 
+{
   display: flex;
   justify-content: center;
   padding-top: var(--spacing-xl);
