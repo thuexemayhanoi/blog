@@ -106,6 +106,7 @@
   list-style: none;
   margin: 0;
   paddi
+
 ng: 0;
 }
 
@@ -197,7 +198,8 @@ ng: 0;
 .dropdown-item {
   display: block;
   padding: var(--spacing-sm) var(--spacing-md);
-  f
+  
+f
 ont-size: var(--font-size-sm);
   color: var(--color-text);
   border-radius: var(--radius-sm);
@@ -269,6 +271,60 @@ ont-size: var(--font-size-sm);
   border-color: var(--color-primary);
 }
 
+
+
+/* ========================================
+   BREADCRUMB
+   ======================================== */
+.breadcrumb {
+  padding: var(--spacing-sm) var(--container-padding);
+  font-size: var(--font-size-sm);
+  color: var(--color-text-secondary);
+}
+
+.breadcrumb ol {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.breadcrumb li {
+  display: inline-flex;
+
+  align-items: center;
+}
+
+.breadcrumb li:not(:last-child)::after {
+  content: "›";
+  color: var(--color-text-muted);
+  margin: 0 var(--spacing-xs);
+}
+
+.breadcrumb a {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color var(--transition-fast);
+}
+
+.breadcrumb a:hover {
+  color: var(--color-primary);
+}
+
+.breadcrumb [aria-current="page"] {
+  color: var(--color-text);
+  font-weight: var(--font-weight-medium);
+}
+
+.breadcrumb-icon {
+  flex-shrink: 0;
+}
 /* ========================================
    MOBILE MENU
    ======================================== */
@@ -341,7 +397,8 @@ ont-size: var(--font-size-sm);
   width: 40px;
   height: 40px;
   padding: 0;
-  background: var(--color-surface-dark);
+  background: var(--color-surf
+ace-dark);
   border: 1px solid var(--color-border);
   border-radius: 50%;
   cursor: pointer;
@@ -444,7 +501,8 @@ sition-fast);
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: var(--spacing-xs);
+  
+gap: var(--spacing-xs);
   padding: var(--spacing-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
@@ -538,7 +596,8 @@ sition-fast);
   flex-direction: column;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing-xs) var(--spacing-sm);
+  padding: var(--spacing-xs) var(--spacin
+g-sm);
   color: var(--color-text);
   background: transparent;
   border: none;
@@ -639,7 +698,8 @@ ointer;
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  background: var(--color-surface);
+  background: var(-
+-color-surface);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-xl);
   box-shadow: var(--shadow-xl);
@@ -738,7 +798,8 @@ ground: var(--color-surface-dark);
   color: var(--color-text);
   background: var(--color-surface-dark);
   border: 1px solid var(--color-border);
-  border-radius: var(--radius-md);
+ 
+ border-radius: var(--radius-md);
   cursor: pointer;
   transition: all var(--transition-fast);
 }
@@ -838,7 +899,8 @@ nd
 .calculator-form {
   display: flex;
   flex-direction: column;
-  gap: var(--spacing-lg);
+  gap: v
+ar(--spacing-lg);
 }
 
 .form-group {
@@ -925,7 +987,8 @@ nd
 
 .result-item {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-b
+etween;
   align-items: center;
   margin-bottom: var(--spacing-sm);
 }
@@ -1036,7 +1099,8 @@ g: var(--spacing-2xl) 0 var(--spacing-xl);
   display: flex;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing-xs) var(--spacing-sm);
+  padding: var(--spacing-xs) var(-
+-spacing-sm);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface);
@@ -1130,7 +1194,8 @@ tom
 }
 
 .btn-secondary {
-  background-color: var(--color-surface);
+  b
+ackground-color: var(--color-surface);
   color: var(--color-text);
   border: 1px solid var(--color-border);
 }
