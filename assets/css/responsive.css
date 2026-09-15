@@ -202,7 +202,8 @@
   }
   
   @media (max-width: 359px) {
-    .mobile-contact-bar__label {
+    .mobile-con
+tact-bar__label {
       display: none;
     }
     
@@ -306,7 +307,8 @@
     padding: var(--spacing-xs) var(--spacing-sm);
   }
   
-  .calculator-cta {
+  .calculator
+-cta {
     flex-direction: column;
   }
   
@@ -519,7 +521,8 @@ ocial-links {
   .phone-launcher__action {
     display: flex;
     align-items: center;
-    gap: var(--spacing-sm);
+    g
+ap: var(--spacing-sm);
     padding: var(--spacing-sm) var(--spacing-md);
     color: var(--color-text);
     text-decoration: none;
@@ -624,7 +627,8 @@ ocial-links {
   }
   
   .contact-rail {
-    display: none;
+    displ
+ay: none;
   }
   
   .mobile-contact-bar {
@@ -757,7 +761,8 @@ ocial-links {
     height: 40px;
   }
   
-  .calc-link {
+  .calc-l
+ink {
     display: flex;
   }
   
