@@ -306,8 +306,7 @@
     padding: var(--spacing-xs) var(--spacing-sm);
   }
   
-  .calculator
--cta {
+  .calculator-cta {
     flex-direction: column;
   }
   
@@ -425,9 +424,7 @@
     width: 100%;
   }
   
- 
- .
-social-links {
+ .social-links {
     justify-content: flex-start;
   }
   
@@ -625,8 +622,7 @@ social-links {
   }
   
   .mobile-menu-open .mobile-menu-inner {
-    transform: translateX(
-0) scale(1);
+    transform: translateX(0) scale(1);
     opacity: 1;
   }
   
