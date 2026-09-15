@@ -105,7 +105,11 @@
   gap: var(--spacing-md);
   list-style: none;
   margin: 0;
-  padding: 0;
+  paddi
+
+
+
+ng: 0;
 }
 
 .nav-list li {
@@ -199,7 +203,8 @@
 
  
  
-font-size: var(--font-size-sm);
+f
+ont-size: var(--font-size-sm);
   color: var(--color-text);
   border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -396,7 +401,10 @@ font-size: var(--font-size-sm);
   width: 40px;
   height: 40px;
   padding: 0;
-  background: var(--color-surface-dark);
+  background: var(--color
+-s
+urf
+ace-dark);
   border: 1px solid var(--color-border);
   border-radius: 50%;
   cursor: pointer;
@@ -450,7 +458,8 @@ font-size: var(--font-size-sm);
 }
 
 .submenu-arrow {
-  transition: transform var(--transition-fast);
+  transition: transform var(--tran
+sition-fast);
 }
 
 .submenu-toggle[aria-expanded="true"] .submenu-arrow {
@@ -497,7 +506,8 @@ font-size: var(--font-size-sm);
 .action-btn {
   display: flex;
   flex-direction: column;
-  align-items: center
+  align-items: cen
+ter
 ;
   
 gap: var(--spacing-xs);
@@ -545,7 +555,9 @@ gap: var(--spacing-xs);
   background: var(--color-surface);
   border: 1px solid var(--color-border);
   border-radius: 50%;
-  box-shadow: var(--shadow-md);
+  box-shadow: var
+(
+--shadow-md);
   text-decoration: none;
   transition: all var(--transition-fast);
 }
@@ -639,7 +651,8 @@ g-sm);
   border: none;
   border-radius: 50%;
   box-shadow: var(--shadow-lg);
-  cursor: pointer;
+  cursor: p
+ointer;
   z-index: var(--z-fixed);
   transition: all var(--transition-normal);
 }
@@ -695,7 +708,8 @@ g-sm);
   right: 20px;
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
-  background:
+  backgr
+ound:
  var(-
 -color-surface);
   border: 1px solid var(--color-border);
@@ -747,7 +761,8 @@ g-sm);
 }
 
 .assistant-close:hover {
-  background: var(--color-surface-dark);
+  back
+ground: var(--color-surface-dark);
 }
 
 .assistant-body {
@@ -794,7 +809,9 @@ g-sm);
   font-size: var(--font-size-sm);
   color: var(--color-text);
   background: var(--color-surface-dark);
-  border: 1px solid var(--color-border);
+  border: 1px solid var(--col
+or-bor
+der);
  
  border-radius: var(--radius-md);
   cursor: pointer;
@@ -1037,7 +1054,8 @@ etween;
 .site-footer {
   background: var(--color-surface-dark);
   border-top: 1px solid var(--color-border);
-  padding: var(--spacing-2xl) 0 var(--spacing-xl);
+  paddin
+g: var(--spacing-2xl) 0 var(--spacing-xl);
 }
 
 .footer-grid {
