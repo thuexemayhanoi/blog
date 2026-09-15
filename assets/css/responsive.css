@@ -624,8 +624,7 @@ social-links {
   }
   
   .mobile-menu-open .mobile-menu-inner {
-    transform: translateX(
-0) scale(1);
+    transform: translateX(0) scale(1);
     opacity: 1;
   }
   
