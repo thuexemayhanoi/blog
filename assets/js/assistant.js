@@ -1,6 +1,5 @@
 /**
  * NGUYEN TU BLOG - Rule-based Assistant
- * FIXED: Removed all .vi/.en accessors - now uses direct scalar access
  * No external APIs, pure JavaScript
  * Vietnamese-only version
  */
@@ -108,9 +107,8 @@ class NguyenTuAssistant {
       this.addMessage(answer, 'assistant');
     }, 300);
 
-    if (window.innerWidth <= 768) {
-      this.closePanel();
-    }
+    // FIX F: Removed mobile auto-close behavior
+    // Panel stays open after clicking quick question
   }
 
   getQuestionText(questionId) {
@@ -130,10 +128,10 @@ class NguyenTuAssistant {
   }
 
   processQuestion(question) {
-    const normalized = question.toLowerCase().trim();
+    const normalized = this.normalizeVietnamese(question.toLowerCase().trim());
 
     for (const qq of this.quickQuestions) {
-      const qText = qq.question?.toLowerCase() || '';
+      const qText = this.normalizeVietnamese(qq.question?.toLowerCase() || '');
       if (normalized.includes(qText) || qText.includes(normalized)) {
         return this.processTemplate(qq.answer || this.getNotFoundMessage());
       }
@@ -156,7 +154,7 @@ class NguyenTuAssistant {
     };
 
     for (const [keyword, qid] of Object.entries(keywords)) {
-      if (normalized.includes(keyword)) {
+      if (normalized.includes(this.normalizeVietnamese(keyword))) {
         return this.getAnswerText(qid);
       }
     }
@@ -164,43 +162,70 @@ class NguyenTuAssistant {
     return this.getNotFoundMessage();
   }
 
+  normalizeVietnamese(text) {
+    // Simple normalization: lowercase and remove accents
+    // This is a simplified approach - for production, use a proper library
+    const accentMap = {
+      'á': 'a', 'à': 'a', 'ả': 'a', 'ã': 'a', 'ạ': 'a',
+      'ă': 'a', 'ắ': 'a', 'ằ': 'a', 'ẳ': 'a', 'ẵ': 'a', 'ặ': 'a',
+      'â': 'a', 'ấ': 'a', 'ầ': 'a', 'ẩ': 'a', 'ẫ': 'a', 'ậ': 'a',
+      'đ': 'd',
+      'é': 'e', 'è': 'e', 'ẻ': 'e', 'ẽ': 'e', 'ẹ': 'e',
+      'ê': 'e', 'ế': 'e', 'ề': 'e', 'ể': 'e', 'ễ': 'e', 'ệ': 'e',
+      'í': 'i', 'ì': 'i', 'ỉ': 'i', 'ĩ': 'i', 'ị': 'i',
+      'ó': 'o', 'ò': 'o', 'ỏ': 'o', 'õ': 'o', 'ọ': 'o',
+      'ô': 'o', 'ố': 'o', 'ồ': 'o', 'ổ': 'o', 'ỗ': 'o', 'ộ': 'o',
+      'ơ': 'o', 'ớ': 'o', 'ờ': 'o', 'ở': 'o', 'ỡ': 'o', 'ợ': 'o',
+      'ú': 'u', 'ù': 'u', 'ủ': 'u', 'ũ': 'u', 'ụ': 'u',
+      'ư': 'u', 'ứ': 'u', 'ừ': 'u', 'ử': 'u', 'ữ': 'u', 'ự': 'u',
+      'ý': 'y', 'ỳ': 'y', 'ỷ': 'y', 'ỹ': 'y', 'ỵ': 'y',
+      'Á': 'A', 'À': 'A', 'Ả': 'A', 'Ã': 'A', 'Ạ': 'A',
+      'Ă': 'A', 'Ắ': 'A', 'Ằ': 'A', 'Ẳ': 'A', 'Ẵ': 'A', 'Ặ': 'A',
+      'Â': 'A', 'Ấ': 'A', 'Ầ': 'A', 'Ẩ': 'A', 'Ẫ': 'A', 'Ậ': 'A',
+      'Đ': 'D',
+      'É': 'E', 'È': 'E', 'Ẻ': 'E', 'Ẽ': 'E', 'Ẹ': 'E',
+      'Ê': 'E', 'Ế': 'E', 'Ề': 'E', 'Ể': 'E', 'Ễ': 'E', 'Ệ': 'E',
+      'Í': 'I', 'Ì': 'I', 'Ỉ': 'I', 'Ĩ': 'I', 'Ị': 'I',
+      'Ó': 'O', 'Ò': 'O', 'Ỏ': 'O', 'Õ': 'O', 'Ọ': 'O',
+      'Ô': 'O', 'Ố': 'O', 'Ồ': 'O', 'Ổ': 'O', 'Ỗ': 'O', 'Ộ': 'O',
+      'Ơ': 'O', 'Ớ': 'O', 'Ờ': 'O', 'Ở': 'O', 'Ỡ': 'O', 'Ợ': 'O',
+      'Ú': 'U', 'Ù': 'U', 'Ủ': 'U', 'Ũ': 'U', 'Ụ': 'U',
+      'Ư': 'U', 'Ứ': 'U', 'Ừ': 'U', 'Ử': 'U', 'Ữ': 'U', 'Ự': 'U',
+      'Ý': 'Y', 'Ỳ': 'Y', 'Ỷ': 'Y', 'Ỹ': 'Y', 'Ỵ': 'Y'
+    };
+    
+    return text.split('').map(c => accentMap[c] || c).join('');
+  }
+
   processTemplate(template) {
+    // FIX E: Use correct template replacement with proper regex
     let processed = template;
     
-    if (this.business.contact) {
-      processed = processed.replace(/{{s*business\.contact\.phones*}}/g, this.business.contact.phone || '');
-      processed = processed.replace(/{{s*business\.contact\.phone_uris*}}/g, this.business.contact.phone_uri || '');
-      processed = processed.replace(/{{s*business\.contact\.zalos*}}/g, this.business.contact.zalo || '');
-      processed = processed.replace(/{{s*business\.contact\.whatsapps*}}/g, this.business.contact.whatsapp || '');
-      processed = processed.replace(/{{s*business\.contact\.mapss*}}/g, this.business.contact.maps || '');
-      processed = processed.replace(/{{s*business\.contact\.emails*}}/g, this.business.contact.email || '');
+    // Replacement map for business data
+    const replacements = {
+      '{{ business.contact.phone }}': this.business.contact?.phone || '',
+      '{{ business.contact.phone_uri }}': this.business.contact?.phone_uri || '',
+      '{{ business.contact.zalo }}': this.business.contact?.zalo || '',
+      '{{ business.contact.whatsapp }}': this.business.contact?.whatsapp || '',
+      '{{ business.contact.maps }}': this.business.contact?.maps || '',
+      '{{ business.contact.email }}': this.business.contact?.email || '',
+      '{{ business.address.full }}': this.business.address?.full || '',
+      '{{ business.hours }}': this.business.hours || '',
+      '{{ business.display_name }}': this.business.display_name || '',
+      '{{ business.url }}': this.business.url || ''
+    };
+    
+    // Apply replacements
+    for (const [placeholder, value] of Object.entries(replacements)) {
+      processed = processed.split(placeholder).join(value);
     }
-
-    if (this.business.address) {
-      processed = processed.replace(/{{s*business\.address\.fulls*}}/g, this.business.address.full || '');
-    }
-
-    if (this.business.hours) {
-      processed = processed.replace(/{{s*business\.hourss*}}/g, this.business.hours);
-    }
-
-    if (this.business.display_name) {
-      processed = processed.replace(/{{s*business\.display_names*}}/g, this.business.display_name);
-    }
-
-    if (this.business.url) {
-      processed = processed.replace(/{{s*business\.urls*}}/g, this.business.url);
-    }
-
-    if (window.NGUYEN_TU_BUSINESS && window.NGUYEN_TU_BUSINESS.url) {
-      processed = processed.replace(/{{s*site\.urls*}}/g, window.NGUYEN_TU_BUSINESS.url);
-    }
-
+    
     return processed;
   }
 
   getNotFoundMessage() {
-    return 'Minh chua co thong tin chac chan ve noi dung nay. Ban co the lien he Nguyen Tu qua Zalo, WhatsApp hoac dien thoai de xac nhan.';
+    // FIX G: Use accented Vietnamese fallback
+    return 'Mình chưa có thông tin chắc chắn về nội dung này. Bạn có thể liên hệ Nguyễn Tú qua Zalo, WhatsApp hoặc điện thoại để xác nhận.';
   }
 
   addMessage(text, type) {
