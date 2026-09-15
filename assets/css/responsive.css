@@ -757,7 +757,7 @@ ocial-links {
     height: 40px;
   }
   
-  ..calc-link {
+  .calc-link {
     display: flex;
   }
   
