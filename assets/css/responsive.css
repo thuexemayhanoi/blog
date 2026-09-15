@@ -103,7 +103,8 @@
     padding-left: 0;
   }
   
-  .mobile-submenu {
+  .mobile-sub
+menu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
@@ -542,6 +543,20 @@ ap: var(--spacing-sm);
   }
 }
 
+
+  
+  /* Breadcrumb - Mobile */
+  .breadcrumb {
+    padding: var(--spacing-xs) var(--container-padding);
+  }
+  
+  .breadcrumb ol {
+    gap: var(--spacing-xxs);
+  }
+  
+  .breadcrumb li:not(:last-child)::after {
+    margin: 0 var(--spacing-xxs);
+  }
 /* TABLET: 768-1199px */
 @media (min-width: 768px) and (max-width: 1199px) {
   .phone-launcher { display: none; }
