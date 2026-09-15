@@ -424,7 +424,9 @@
     width: 100%;
   }
   
- .social-links {
+ 
+ .
+social-links {
     justify-content: flex-start;
   }
   
@@ -622,7 +624,8 @@
   }
   
   .mobile-menu-open .mobile-menu-inner {
-    transform: translateX(0) scale(1);
+    transform: translateX(
+0) scale(1);
     opacity: 1;
   }
   
