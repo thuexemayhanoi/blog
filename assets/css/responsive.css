@@ -306,7 +306,9 @@
     padding: var(--spacing-xs) var(--spacing-sm);
   }
   
-  .calculator-cta {
+  .calculator
+
+-cta {
     flex-direction: column;
   }
   
@@ -425,7 +427,8 @@
   }
   
  
- .
+ 
+.
 social-links {
     justify-content: flex-start;
   }
@@ -521,6 +524,7 @@ social-links {
     display: flex;
     align-items: center;
  
+
   
  gap: var(--spacing-sm);
     padding: var(--spacing-sm) var(--spacing-md);
@@ -624,7 +628,8 @@ social-links {
   }
   
   .mobile-menu-open .mobile-menu-inner {
-    transform: translateX(
+    transform: translat
+eX(
 0) scale(1);
     opacity: 1;
   }
@@ -753,6 +758,7 @@ social-links {
     position: sticky;
     top: 0;
   
+
 }
  
  
@@ -892,7 +898,8 @@ social-links {
   
   .cta-group {
     flex-wrap: wrap;
-    justify-co
+    justi
+fy-co
 ntent: center;
     gap: var(--spacing-sm);
   }
