@@ -4,6 +4,7 @@ title: "Bang gia xe ga - Thue Xe May Ha Noi Nguyen Tu"
 description: "Bang gia thue xe ga (automatic scooter) tai Ha Noi. Honda Vision, Air Blade, Click, Mio."
 lang: vi
 translation_key: xe-ga
+permalink: /bang-gia-xe-ga/
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -17,10 +18,10 @@ Xe ga (automatic scooter) la loai xe su dung hop so tu dong, nguoi lai chi can v
 
 <div class="pricing-table">
   {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category.vi == 'Xe ga' or vehicle.category.vi == 'Budget automatic scooter' %}
+    {% if vehicle.category == 'Xe ga' %}
     <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name.vi }}</h3>
-      <p>{{ vehicle.description.vi }}</p>
+      <h3>{{ vehicle.name }}</h3>
+      <p>{{ vehicle.description }}</p>
       <div class="price-grid">
         {% if vehicle.rates.day.min %}
         <div class="price-item">
