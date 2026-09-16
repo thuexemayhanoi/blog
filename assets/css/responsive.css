@@ -518,7 +518,8 @@
   .phone-launcher__action {
     display: flex;
     align-items: center;
-    gap: var(--spacing-sm);
+    g
+ap: var(--spacing-sm);
     padding: var(--spacing-sm) var(--spacing-md);
     color: var(--color-text);
     text-decoration: none;
@@ -623,7 +624,8 @@
   }
   
   .contact-rail {
-    display: none;
+    displ
+ay: none;
   }
   
   .mobile-contact-bar {
@@ -887,7 +889,8 @@
   .hero-cta {
     flex-wrap: wrap;
     justify-content: center;
-    gap: var(--spacing-md);
+    gap: var
+(--spacing-md);
   }
   
   .hero-cta .btn {
