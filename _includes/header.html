@@ -80,7 +80,8 @@
               {% include icon.html name="chevron-right" size="16" class="submenu-arrow" %}
             </button>
             <ul class="mobile-submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %} style="list-style: none; margin: 0; padding-left: 0;">
-              {% for child in item.children %}
+    
+          {% for child in item.children %}
       
         <li>
                 <a href="{{ child.url | relative_url }}" class="mobile-submenu-link">

@@ -607,7 +607,27 @@ align-items: center;
   }
   
   .mobile-utilities {
-    display: none;
+    display: flex;
+    align-items: center;
+    gap: var(--spacing-sm);
+  }
+  
+  .mobile-menu-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    background: transparent;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    transition: all var(--transition-fast);
+  }
+  
+  .mobile-menu-toggle:hover {
+    background: var(--color-surface-dark);
   } 
   .mobile-menu {
     position: fixed;

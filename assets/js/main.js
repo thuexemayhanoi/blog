@@ -177,7 +177,8 @@
     },
     _hideContactUI: function() {
       var mobileContactBar = document.querySelector('.mobile-contact-bar');
-      var contactRail = document.querySelector('.contact-rail');
+      var
+ contactRail = document.querySelector('.contact-rail');
       if (mobileContactBar) mobileContactBar.style.display = 'none';
       if (contactRail) contactRail.style.display = 'none';
     },

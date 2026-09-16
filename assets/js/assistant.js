@@ -133,7 +133,8 @@ class NguyenTuAssistant {
     for (const qq of this.quickQuestions) {
       const qText = this.normalizeVietnamese(qq.question?.toLowerCase() || '');
       if (normalized.includes(qText) || qText.includes(normalized)) {
-        return this.processTemplate(qq.answer || this.getNotFoundMessage());
+        return this.processTemplate(qq.answer || this.getNotFoundMessage()
+);
       }
     }
 
@@ -186,7 +187,8 @@ class NguyenTuAssistant {
       'É': 'E', 'È': 'E', 'Ẻ': 'E', 'Ẽ': 'E', 'Ẹ': 'E',
       'Ê': 'E', 'Ế': 'E', 'Ề': 'E', 'Ể': 'E', 'Ễ': 'E', 'Ệ': 'E',
       'Í': 'I', 'Ì': 'I', 'Ỉ': 'I', 'Ĩ': 'I', 'Ị': 'I',
-      'Ó': 'O', 'Ò': 'O', 'Ỏ': 'O', 'Õ': 'O', 'Ọ': 'O',
+   
+   'Ó': 'O', 'Ò': 'O', 'Ỏ': 'O', 'Õ': 'O', 'Ọ': 'O',
       'Ô': 'O', 'Ố': 'O', 'Ồ': 'O', 'Ổ': 'O', 'Ỗ': 'O', 'Ộ': 'O',
       'Ơ': 'O', 'Ớ': 'O', 'Ờ': 'O', 'Ở': 'O', 'Ỡ': 'O', 'Ợ': 'O',
       'Ú': 'U', 'Ù': 'U', 'Ủ': 'U', 'Ũ': 'U', 'Ụ': 'U',
@@ -235,7 +237,8 @@ class NguyenTuAssistant {
     messageDiv.className = 'assistant-message ' + type;
     messageDiv.textContent = text;
     
-    this.messages.appendChild(messageDiv);
+    this.messages.
+appendChild(messageDiv);
     this.messages.scrollTop = this.messages.scrollHeight;
 
     if (type === 'user') {
