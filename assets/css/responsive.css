@@ -103,9 +103,7 @@
     padding-left: 0;
   }
   
-  .mobile-sub
-
-menu {
+  .mobile-submenu {
     list-style: none;
     margin: 0;
     padding-left: var(--spacing-lg);
@@ -204,9 +202,7 @@ menu {
   }
   
   @media (max-width: 359px) {
-    .mobile-co
-n
-tact-bar__label {
+    .mobile-contact-bar__label {
       display: none;
     }
     
@@ -316,8 +312,7 @@ tact-bar__label {
 
   .day-btn {
     min-width: 44px;
-    padding: var(--spacing-xs) var(--spac
-ing-sm);
+    padding: var(--spacing-xs) var(--spacing-sm);
     border: 1px solid var(--color-border);
     border-radius: var(--radius-md);
     background: var(--color-surface);
@@ -535,8 +530,7 @@ align-items: center;
     left: 0;
     width: 220px;
     background: var(--color-surface);
-    border
-: 1px solid var(--color-border);
+    border: 1px solid var(--color-border);
     border-radius: var(--radius-lg);
     box-shadow: var(--shadow-xl);
     padding: 8px;
@@ -635,8 +629,7 @@ align-items: center;
   }
   
   .mobile-menu-inner {
-    position: a
-bsolute;
+    position: absolute;
     top: 0;
     left: 10px;
     width: min(420px, 90vw);
@@ -756,8 +749,7 @@ bsolute;
   }
   
   .commitments li::before {
-    content: "
-\2713";
+    content: "\2713";
     position: absolute;
     left: 0;
     color: var(--color-success);
@@ -895,8 +887,7 @@ bsolute;
   }
   
   .commitments {
-    list-style: no
-ne;
+    list-style: none;
     padding-left: 0;
   }
   
@@ -931,8 +922,7 @@ ne;
   .hero-cta {
     flex-wrap: wrap;
     justify-content: center;
-    gap: var
-(--spacing-md);
+    gap: var(--spacing-md);
   }
   
   .hero-cta .btn {
@@ -949,15 +939,5 @@ ne;
   .mobile-menu-open .mobile-menu,
   .mobile-menu-open .mobile-menu-inner {
     transition: none !important;
-  }
-  
-  .mobile-menu {
-    opacity: 1;
-    visibility: visible;
-  }
-  
-  .mobile-menu-inner {
-    transform: translateX(0) scale(1);
-    opacity: 1;
   }
 }
