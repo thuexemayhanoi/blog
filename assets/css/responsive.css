@@ -34,6 +34,15 @@
     width: 38px;
     height: 38px;
   }
+  .business-status {
+    min-height: 36px;
+    padding: var(--spacing-xxs) var(--spacing-xs);
+    font-size: var(--font-size-xxs);
+  }
+
+  .mobile-hours-info {
+    padding: var(--spacing-xs) var(--spacing-md);
+  }
   
   .calc-link {
     display: none;

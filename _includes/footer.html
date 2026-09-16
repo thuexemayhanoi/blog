@@ -15,6 +15,12 @@
         <p><strong>Điện thoại:</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
         <p><strong>Email:</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
         <p><strong>Giờ hoạt động:</strong> {{ business.hours }}</p>
+        <p class="footer-business-status">
+          <span class="business-status" data-business-status data-status-full aria-live="polite">
+            <span class="business-status-dot" aria-hidden="true"></span>
+            <span class="business-status-text">Đang mở cửa</span>
+          </span>
+        </p>
       </address>
       <div class="social-links">
         <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">

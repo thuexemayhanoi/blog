@@ -131,6 +131,25 @@ footer:
         external: true
         icon: "map-pin"
 
+  - title: "HỒ SƠ & MẠNG XÃ HỘI"
+    links:
+      - name: "Facebook"
+        url: "https://www.facebook.com/chothuexemaynguyentu/"
+        external: true
+        icon: "external-link"
+      - name: "TripAdvisor"
+        url: "https://www.tripadvisor.com.vn/Attraction_Review-g21333608-d9826317-Reviews-Hanoi_Motorbike_Rental_Nguyen_Tu-Long_Bien_Hanoi.html"
+        external: true
+        icon: "external-link"
+      - name: "About.me"
+        url: "https://about.me/thuexemaynguyentu"
+        external: true
+        icon: "external-link"
+      - name: "Pinterest"
+        url: "https://www.pinterest.com/thuexemaynguyentu/"
+        external: true
+        icon: "external-link"
+
   - title: "PHÁP LÝ"
     links:
       - name: "Chính sách bảo mật"

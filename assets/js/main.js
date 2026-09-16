@@ -70,6 +70,48 @@
     }
   };
 
+  var BusinessStatus = {
+    OPEN_HOUR: 9,
+    CLOSE_HOUR: 21,
+    TIME_ZONE: 'Asia/Ho_Chi_Minh',
+    init: function() {
+      this._update();
+      var self = this;
+      window.setInterval(function() { self._update(); }, 60000);
+    },
+    _hanoiHour: function() {
+      try {
+        var formatter = new Intl.DateTimeFormat('en-US', {
+          timeZone: this.TIME_ZONE,
+          hour: 'numeric',
+          hour12: false
+        });
+        var hour = parseInt(formatter.format(new Date()), 10);
+        return isNaN(hour) ? -1 : hour;
+      } catch (e) {
+        return -1;
+      }
+    },
+    _isOpen: function() {
+      var hour = this._hanoiHour();
+      return hour >= this.OPEN_HOUR && hour < this.CLOSE_HOUR;
+    },
+    _update: function() {
+      var open = this._isOpen();
+      var badges = document.querySelectorAll('[data-business-status]');
+      badges.forEach(function(badge) {
+        badge.classList.toggle('is-open', open);
+        badge.classList.toggle('is-closed', !open);
+        var text = badge.querySelector('.business-status-text');
+        if (!text) return;
+        var full = badge.hasAttribute('data-status-full');
+        text.textContent = open
+          ? (full ? 'Đang mở cửa' : 'Đang mở')
+          : (full ? 'Đã đóng cửa · Mở cửa lúc 09:00' : 'Đã đóng');
+      });
+    }
+  };
+
   var MobileMenu = {
     init: function() {
       this._bindOpen();
@@ -251,6 +293,7 @@
   function init() {
     ThemeManager.init();
     MobileMenu.init();
+    BusinessStatus.init();
     Dropdown.init();
     FooterAccordion.init();
   }
