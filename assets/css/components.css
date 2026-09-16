@@ -18,18 +18,3 @@
   position: relative;
   overflow: hidden;
 }
-
-.theme-toggle:hover {
-  background: var(--color-surface-dark);
-  transform: scale(1.05);
-}
-
-.theme-toggle:active {
-  transform: scale(0.95);
-}
-
-.theme-icon {
-  position: absolute;
-  display: block;
-  transition: all var(--transition-normal);
-}
