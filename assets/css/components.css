@@ -105,6 +105,7 @@
 
 
 
+
 ng: 0;
 }
 
@@ -196,6 +197,7 @@ ing-md);
 
  
  
+
 font-size: var(--font-size-sm);
   color: var(--color-text);  border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -380,7 +382,8 @@ font-size: var(--font-size-sm);
 background: var(--col
 or-surface-
 -s
-urface-dark);
+urface-
+dark);
   border: 1px solid var(--color-border);  border-radius: 50%;
   cursor: pointer;
   transition: all var(--transition-fast);
@@ -473,12 +476,10 @@ urface-dark);
 
 .action-btn {
   display: flex;
-  flex-dir
-ection: column;
+  flex-direction: column;
   align-items: cent
 er;
-  
-gap: var(--spacing-xs);
+  gap: var(--spacing-xs);
   padding: var(--spacing-sm);
   color: var(--color-text);  background: var(--color-surface-dark);
   border: 1px solid var(--color-border);  border-radius: var(--radius-md);
@@ -568,7 +569,8 @@ ng-xs) var(-
 -s
 pacin
 g-sm);
-  color: var(--color-text);  background: transparent;
+  color
+: var(--color-text);  background: transparent;
   border: none;
   border-radius: var(--radius-md);
   cursor: pointer;
@@ -661,11 +663,11 @@ g-sm);
   bottom: 20px;
   right: 20px;
   width: min(400px, calc(100vw - 40px));
-  m
-ax-height: calc(100dvh - 200px)
+  max-height: calc(100dvh - 200px)
 ;
   background:
  var(--color-surface);
+
   border: 1px solid var(--color-border);  border-radius: var(--radius-xl);
   box-shadow: var(--shadow-xl);
   z-index: var(--z-modal);
@@ -760,7 +762,8 @@ r-surface-dark);
   border: 1px soli
 d var(--color-borderder);
  
- border-radius: var(--radius-md);
+ border-radius: va
+r(--radius-md);
   cursor: pointer;
   transition: all var(--transition-fast);
 }
@@ -855,7 +858,8 @@ olumn;
 ar(--spacing-lg);
 }
 
-.form-group {
+.form
+-group {
   display: flex;
   flex-direction: column;
   gap: var(--spacing-xs);
@@ -935,7 +939,8 @@ ar(--spacing-lg);
   justify-content: space-b
 etween;
   align-items: center;
-  margin-bottom: var(--spacing-sm);
+ 
+ margin-bottom: var(--spacing-sm);
 }
 
 .result-label {
@@ -1033,14 +1038,14 @@ etween;
 
 .social-link {
   display: flex;
-  ali
-gn-items: center;
+  align-items: center;
   gap: var(--spacing-xs)
 ;
   padding: var(--spacing
 -xs) var(-
 -spacing-sm);
-  font-size: var(--font-size-sm);
+  font-size: var(--font
+-size-sm);
   color: var(--color-text);  background: var(--color-surface);
   border: 1px solid var(--color-border);  border-radius: var(--radius-md);
   text-decoration: none;
@@ -1125,7 +1130,8 @@ r(--shadow-md);
 
 
 .btn-secondary {
-  background-color: var(--color-surface);  color: var(--color-text);
+  background-color: var(--color-surface);  color
+: var(--color-text);
   border: 1px solid var(--color-border);}
 
 .btn-secondary:hover {
