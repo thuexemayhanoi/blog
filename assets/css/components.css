@@ -10,7 +10,8 @@
   width: 40px;
   height: 40px;
   padding: 0;
-  background: var(--color-surface);  border: 1px solid var(--color-border); border-radius: 50%;
+  background: var(--color-surface);  border: 1px solid var(--color-border);
+  border-radius: 50%;
   cursor: pointer;
   transition: all var(--transition-normal);
   position: relative;
@@ -99,7 +100,7 @@
   align-items: center;
   gap: var(--spacing-md);
   list-style: none;
-  margin: 0; padding: 
+  margin: 0; padding
 
 ng: 0;
 }
@@ -116,11 +117,12 @@ ng: 0;
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-medium);
-  color: var(--color-text); background: transparent;
+  color: var(--color-text);  background: transparent;
   border: none;
   border-radius: var(--radius-md);
   cursor: pointer;
-  transition: all var(--transition-fast); white-space: nowrap;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
 }
 
 .nav-list a:hover,
@@ -165,7 +167,8 @@ ng: 0;
   left: 0;
   min-width: 200px;
   padding: var(--spacing-sm);
-  background-color: var(--color-surface);  border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  background-color: var(--color-surface);  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
   box-shadow: var(--shadow-lg);
   z-index: var(--z-dropdown);
   opacity: 0;
@@ -187,9 +190,7 @@ ng: 0;
 
 
 
- 
 
- 
 
 
 font-size: var(--font-size-sm);
@@ -222,13 +223,14 @@ font-size: var(--font-size-sm);
   padding: var(--spacing-xs) var(--spacing-sm);
   font-size: var(--font-size-xs);
   font-weight: var(--font-weight-semibold);
-  color: var(--color-text-secondary);  background: var(--color-surface-dark); border: 1px solid var(--color-border); border-radius: var(--radius-sm);
+  color: var(--color-text-secondary);  background: var(--color-surface-dark);
+  border: 1px solid var(--color-border);  border-radius: var(--radius-sm);
   text-decoration: none;
   transition: all var(--transition-fast);
 }
 
 .lang-btn:hover {
-  color: var(--color-text); background: var(--color-surface);
+  color: var(--color-text);  background: var(--color-surface);
 }
 
 .lang-btn.active {
@@ -241,7 +243,8 @@ font-size: var(--font-size-sm);
   justify-content: center;
   width: 40px;
   height: 40px;
-  color: var(--color-text); background: var(--color-surface-dark); border: 1px solid var(--color-border); border-radius: 50%;
+  color: var(--color-text);  background: var(--color-surface-dark);
+  border: 1px solid var(--color-border);  border-radius: 50%;
   text-decoration: none;
   transition: all var(--transition-fast);
 }
@@ -272,10 +275,10 @@ font-size: var(--font-size-sm);
 
 .breadcrumb li {
 
-  display: inline-flex;
+  display: inline
+-flex;
 
-  ali
-gn
+  align
 -items: center;
 }
 
@@ -332,7 +335,8 @@ gn
   left: 10px;
   width: min(380px, calc(100vw - 20px));
   max-height: calc(100dvh - 100px);
-  background: var(--color-surface);  border: 1px solid var(--color-border); border-radius: 24px;
+  background: var(--color-surface);  border: 1px solid var(--color-border);
+  border-radius: 24px;
   box-shadow: var(--shadow-xl);
   overflow-y: auto;
   transition: all var(--transition-normal);
@@ -370,10 +374,8 @@ gn
   width: 40px;
   height: 40px;
   padding: 0;
- background: var(--color-surface--s
-ur
-face-dark);
-  border: 1px solid var(--color-border); border-radius: 50%;
+ background: var(--color-surface--surface-dark);
+  border: 1px solid var(--color-border);  border-radius: 50%;
   cursor: pointer;
   transition: all var(--transition-fast);
 }
@@ -403,7 +405,7 @@ face-dark);
   width: 100%;
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: var(--font-size-sm);
-  color: var(--color-text); background: transparent;
+  color: var(--color-text);  background: transparent;
   border: none;
   border-radius: var(--radius-md);
   cursor: pointer;
@@ -467,10 +469,10 @@ face-dark);
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap:
- var(--spacing-xs);
+  gap: var(--spacing-xs);
   padding: var(--spacing-sm);
-  color: var(--color-text); background: var(--color-surface-dark); border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  color: var(--color-text);  background: var(--color-surface-dark);
+  border: 1px solid var(--color-border);  border-radius: var(--radius-md);
   text-decoration: none;
   transition: all var(--transition-fast);
   flex: 1;
@@ -505,8 +507,8 @@ face-dark);
   justify-content: center;
   width: 52px;
   height: 52px;
-  color: var(--color-text); background: var(--color-surface);
-  border: 1px solid var(--color-border); border-radius: 50%;
+  color: var(--color-text);  background: var(--color-surface);
+  border: 1px solid var(--color-border);  border-radius: 50%;
   box-shadow: var(--shadow-md);
   text-decoration: none;
   transition: all var(--transition-fast);
@@ -550,13 +552,9 @@ face-dark);
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: var(--spacing
--xs);
-  padding: var(--spaci
-ng-xs) var(--s
-pacin
-g-sm);
- colo
+  gap: var(--spacing-xs);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  colo
 r
 : var(--color-text);  background: transparent;
   border: none;
@@ -653,11 +651,10 @@ r
   width: min(400px, calc(100vw - 40px));
   max-height: calc(100dvh - 200px);
   background:
- var(--color-surf
-ace);
+ var(--color-surface);
 
 
-  border: 1px solid var(--color-border); border-radius: var(--radius-xl);
+  border: 1px solid var(--color-border);  border-radius: var(--radius-xl);
   box-shadow: var(--shadow-xl);
   z-index: var(--z-modal);
   opacity: 0;
@@ -746,12 +743,11 @@ ace);
 .assistant-question-btn {
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: var(--font-size-sm);
-  color: var(--color-text); background: var(--colo
-r-surface-dark);
-  border: 1px solid var(--color-border);
+  color: var(--color-text);  background: var(--color-surface-dark);
+  border: 1px soli
+d var(--color-borderder);
  
- border-ra
-dius: 
+ border-radius: 
 va
 r(--radius-md);
   cursor: pointer;
@@ -767,14 +763,15 @@ r(--radius-md);
   gap: var(--spacing-sm);
   margin-top: var(--spacing-md);
   padding: var(--spacing-sm);
-  background: var(--color-surface-dark); border: 1px solid var(--color-border); border-radius: var(--radius-lg);
+  background: var(--color-surface-dark);  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
 }
 
 .assistant-input-field {
   flex: 1;
   padding: var(--spacing-sm);
   font-size: var(--font-size-sm);
-  color: var(--color-text); background: transparent;
+  color: var(--color-text);  background: transparent;
   border: none;
   outline: none;
 }
@@ -816,7 +813,8 @@ r(--radius-md);
 }
 
 .calculator-card {
-  background: var(--color-surface);  border: 1px solid var(--color-border); border-radius: 24px;
+  background: var(--color-surface);  border: 1px solid var(--color-border);
+  border-radius: 24px;
   box-shadow: var(--shadow-md);
   padding: 28px;
   margin: 0 auto;
@@ -863,7 +861,8 @@ orm
 .form-input {
   padding: var(--spacing-md);
   font-size: var(--font-size-md);
-  color: var(--color-text); background: var(--color-surface-dark); border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  color: var(--color-text);  background: var(--color-surface-dark);
+  border: 1px solid var(--color-border);  border-radius: var(--radius-md);
   transition: all var(--transition-fast);
 }
 
@@ -901,7 +900,8 @@ orm
   padding: var(--spacing-xs) var(--spacing-sm);
   font-size: var(--font-size-sm);
   font-weight: var(--font-weight-medium);
-  color: var(--color-text); background: var(--color-surface-dark); border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  color: var(--color-text);  background: var(--color-surface-dark);
+  border: 1px solid var(--color-border);  border-radius: var(--radius-md);
   cursor: pointer;
   transition: all var(--transition-fast);
 }
@@ -924,8 +924,7 @@ orm
  flex;
   justify-content: space-b
 etween;
-  align-item
-s: cente
+  align-items: cente
 r;
  
  margin-bottom: var(--spacing-sm);
@@ -1028,13 +1027,10 @@ r;
   display: flex;
   align-items: center;
   gap: var(--spacing-xs);
-  padding: var(--spacing
--xs) var(--spacing-sm);
-  font-siz
-e: var(--font
--size-sm);
-  color: var(--color-text); background: var(--color-surface);
-  border: 1px solid var(--color-border); border-radius: var(--radius-md);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  font-size: var(--font-size-sm);
+  color: var(--color-text);  background: var(--color-surface);
+  border: 1px solid var(--color-border);  border-radius: var(--radius-md);
   text-decoration: none;
   transition: all var(--transition-fast);
 }
@@ -1098,7 +1094,8 @@ e: var(--font
   font-weight: var(--font-weight-semibold);
   border-radius: var(--radius-md);
   text-decoration: none;
-  transition: all var(--transition-fast); white-space: nowrap;
+  transition: all var(--transition-fast);
+  white-space: nowrap;
 }
 
 .btn-primary {
@@ -1109,14 +1106,15 @@ e: var(--font
 .btn-primary:hover {
   background-color: var(--color-primary-dark);
   transform: translateY(-1px);
-  box-shadow: var(--shadow-md)
+  box-shadow: va
+r(--shadow-md);
 }
 
 
 
 .btn-secondary {
-  background-color: var(--color-s
-urface); color: var(--color-text);
+  background-color: var(--color-surface); color
+: var(--color-text);
   border: 1px solid var(--color-border);}
 
 .btn-secondary:hover {
@@ -1148,7 +1146,8 @@ urface); color: var(--color-text);
    UTILITY CLASSES
    ======================================== */
 .glass-card {
-  background: var(--color-surface);  border: 1px solid var(--color-border); border-radius: var(--radius-lg);
+  background: var(--color-surface);  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
   box-shadow: var(--shadow-md);
 }
 
