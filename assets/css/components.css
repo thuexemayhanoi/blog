@@ -1141,7 +1141,8 @@ r(--shadow-md);
 
 .btn-secondary {
   background-color: var(--color-surface);  
-color: var(--color-text);
+color
+: var(--color-text);
   border: 1px solid var(--color-border);}
 
 .btn-secondary:hover {
