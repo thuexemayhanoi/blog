@@ -14,16 +14,19 @@
       this._bindToggle();
     },
     _applySavedTheme: function() {
+      var theme = 'light';
       try {
         var savedTheme = localStorage.getItem(this.STORAGE_KEY);
-        if (savedTheme === 'dark') {
-          document.documentElement.setAttribute('data-theme', 'dark');
-        } else {
-          document.documentElement.removeAttribute('data-theme');
+        if (savedTheme === 'dark' || savedTheme === 'light') {
+          theme = savedTheme;
+        } else if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
+          theme = 'dark';
         }
       } catch (e) {
-        document.documentElement.removeAttribute('data-theme');
+        theme = 'light';
       }
+      document.documentElement.setAttribute('data-theme', theme);
+      this._updateThemeIcons();
     },
     _bindToggle: function() {
       var toggleButtons = document.querySelectorAll('[data-theme-toggle]');
@@ -36,25 +39,22 @@
       });
     },
     toggle: function() {
+      var currentTheme = document.documentElement.getAttribute('data-theme');
+      var newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', newTheme);
       try {
-        var currentTheme = document.documentElement.getAttribute('data-theme');
-        var newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-        if (newTheme === 'dark') {
-          document.documentElement.setAttribute('data-theme', 'dark');
-        } else {
-          document.documentElement.removeAttribute('data-theme');
-        }
         localStorage.setItem(this.STORAGE_KEY, newTheme);
-        this._updateThemeIcons();
       } catch (e) {
         console.warn('ThemeManager: Could not save theme', e);
       }
+      this._updateThemeIcons();
     },
     _updateThemeIcons: function() {
       var isDark = document.documentElement.getAttribute('data-theme') === 'dark';
       var sunIcons = document.querySelectorAll('.theme-icon-sun');
       var moonIcons = document.querySelectorAll('.theme-icon-moon');
       var toggleButtons = document.querySelectorAll('[data-theme-toggle]')
+
 ;
       
       sunIcons.forEach(function(icon) { icon.style.display = isDark ? 'none' : 'block'; });
@@ -62,9 +62,9 @@
       
       toggleButtons.forEach(function(btn) {
         if (isDark) {
-          btn.setAttribute('aria-label', 'Chuyen sang che do sang');
+          btn.setAttribute('aria-label', 'Chuyển sang giao diện sáng');
         } else {
-          btn.setAttribute('aria-label', 'Chuyen sang che do toi');
+          btn.setAttribute('aria-label', 'Chuyển sang giao diện tối');
         }
       });
     }
@@ -74,6 +74,7 @@
     init: function() {
       this._bindOpen();
       this._bindClose();
+      this._bindOverlay();
       this._bindEscape();
       this._bindLinks();
       this._bindScrollLock();
@@ -99,6 +100,16 @@
         });
       });
     },
+    _bindOverlay: function() {
+      var self = this;
+      var overlay = document.querySelector('.mobile-menu');
+      if (!overlay) return;
+      overlay.addEventListener('click', function(e) {
+        if (!e.target.closest('.mobile-menu-inner')) {
+          self.close();
+        }
+      });
+    },
     _bindEscape: function() {
       var self = this;
       document.addEventListener('keydown', function(e) {
@@ -119,7 +130,8 @@
     _bindSubmenuToggles: function() {
       var submenuToggles = document.querySelectorAll('.submenu-toggle');
       var self = this;
-      submenuToggles.forEach(function(toggle) 
+      submenuToggles.forEach(function(toggle)
+ 
 {
         toggle.addEventListener('click', function(e) {
           e.preventDefault();
@@ -141,11 +153,27 @@
     },
     open: function() {
       document.body.classList.add('mobile-menu-open');
+      this._setToggleState(true);
       this._hideContactUI();
     },
     close: function() {
       document.body.classList.remove('mobile-menu-open');
+      this._setToggleState(false);
+      this._resetSubmenus();
       this._showContactUI();
+    },
+    _setToggleState: function(expanded) {
+      var openButtons = document.querySelectorAll('[data-mobile-menu-open]');
+      openButtons.forEach(function(btn) {
+        btn.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+        btn.setAttribute('aria-label', expanded ? 'Đóng menu' : 'Mở menu');
+      });
+    },
+    _resetSubmenus: function() {
+      var submenuToggles = document.querySelectorAll('.submenu-toggle');
+      submenuToggles.forEach(function(toggle) {
+        toggle.setAttribute('aria-expanded', 'false');
+      });
     },
     _hideContactUI: function() {
       var mobileContactBar = document.querySelector('.mobile-contact-bar');
@@ -172,8 +200,7 @@
         var dropdownToggle = dropdownItem.querySelector('.dropdown-toggle');
         var dropdownMenu = dropdownItem.querySelector('.dropdown-menu');
         if (dropdownToggle && dropdownMenu) {
-          dropdownItem.addEventListener('mouseenter', f
-unction() {
+          dropdownItem.addEventListener('mouseenter', function() {
             dropdownMenu.style.opacity = '1';
             dropdownMenu.style.visibility = 'visible';
             dropdownMenu.style.transform = 'translateY(0)';

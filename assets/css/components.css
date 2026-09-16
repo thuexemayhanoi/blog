@@ -109,6 +109,7 @@
 
 .nav-list li {
 
+
   position: relative;
 }
 
@@ -196,7 +197,8 @@
   display: block;
   padding: var(--spacing-sm) var(--spacing-md);
   font-size: var(--font-size-sm);
-  color: 
+  color:
+ 
 var(--color-text);
   border-radius: var(--radius-sm);
   transition: all var(--transition-fast);
@@ -294,7 +296,8 @@ var(--color-text);
   margin: 0 var(--spacing-xs);
 }
 
-.br
+.
+br
 eadcrumb a {
   display: inline-flex;
   align-items: center;
@@ -398,6 +401,7 @@ eadcrumb a {
 
 .mobile-nav {
   padding: var(--spacing-md);
+
 }
 
 
@@ -495,7 +499,8 @@ eadcrumb a {
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
   text-decoration: none;
-  transition: all var
+  transition: all
+ var
 (--transition-fast);
   flex: 1;
 }
@@ -596,7 +601,8 @@ eadcrumb a {
   transform: scale(0.95);
 }
 
-.mobile-contact-ba
+.mobile-conta
+ct-ba
 r__icon {
   width: 22px;
   height: 22px;
@@ -696,7 +702,8 @@ r__icon {
 }
 
 .assistant-open .assistant-toggle {
-  display: none;
+  display: no
+ne;
 }
 
 
@@ -794,7 +801,8 @@ r__icon {
   padding: var(--spacing-sm);
   background: var(--color-surface-dark);
   border: 1px solid var(--color-border);
-  border-radius: var(--radi
+  border-radius: var
+(--radi
 us-lg);
 }
 
@@ -897,7 +905,8 @@ us-lg);
   background: var(--color-surface-dark);
   border: 1px solid var(--color-border);
   border-radius: var(--radius-md);
-  transition: all var(--transition-fast);
+  transition: all var(--transition
+-fast);
 
 }
 
@@ -984,7 +993,8 @@ us-lg);
   color: var(--color-text-secondary);
 }
 
-.calculator-disclaimer
+.calculator-d
+isclaimer
  {
   font-size: var(--font-size-xs);
   color: var(--color-text-muted);
@@ -1098,7 +1108,8 @@ us-lg);
 .footer-links a {
   display: flex;
   align-items: center;
-  gap: var(--spacing-xs);
+  gap: var(--spacing-
+xs);
   padding: var(--spacing-xs) 0;
   font-size: var(--font-size-sm);
   color: var(--color-text-secondary);
@@ -1193,7 +1204,8 @@ us-lg);
 
 /* BUTTONS */
 .btn {
-  display: inline-flex;
+  display: inline
+-flex;
   align-items: center;
   justify-content: center;
   gap: var(--spacing-sm);
@@ -1265,7 +1277,9 @@ r(--radius-lg);
 
 /* COLLISION RULES */
 .mobile-menu-open .contact-rail,
-.mobile-menu-open .mobile-contact-bar {
+.mobile-menu-open .mobile-contact-bar,
+.mobile-menu-open .phone-launcher,
+.mobile-menu-open .assistant-toggle {
   display: none !important;
 }
 

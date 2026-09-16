@@ -50,7 +50,7 @@
           {% include icon.html name="sun" size="20" class="theme-icon theme-icon-sun" %}
           {% include icon.html name="moon" size="20" class="theme-icon theme-icon-moon" %}
         </button>
-        <button class="mobile-menu-toggle" aria-expanded="false" aria-label="Mở menu" data-mobile-menu-open>
+        <button class="mobile-menu-toggle" aria-expanded="false" aria-label="Mở menu" data-mobile-menu-open aria-controls="mobileMenu">
           {% include icon.html name="menu" size="24" class="hamburger" %}
         </button>
       </div>
@@ -58,7 +58,7 @@
   </div>
 </header>
 
-<div class="mobile-menu" role="dialog" aria-modal="true">
+<div class="mobile-menu" id="mobileMenu" role="dialog" aria-modal="true">
   <div class="mobile-menu-inner">
     <div class="mobile-header">
       <a href="{{ '/' | relative_url }}" class="mobile-logo">
@@ -81,7 +81,8 @@
             </button>
             <ul class="mobile-submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %} style="list-style: none; margin: 0; padding-left: 0;">
               {% for child in item.children %}
-              <li>
+      
+        <li>
                 <a href="{{ child.url | relative_url }}" class="mobile-submenu-link">
                   {% include icon.html name=child.icon size="18" %}
                   {{ child.name }}
