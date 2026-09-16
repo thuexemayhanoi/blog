@@ -46,7 +46,7 @@ quick_questions:
   
   - id: honda-wave
     question: "Xe số"
-    answer: "Xe số bao gồm Honda Wave, Yamaha Sirius. Giá thuê từ 150.000đ/ngày."
+    answer: "Xe số bao gồm Honda Wave. Giá thuê từ 150.000đ/ngày."
   
   - id: honda-vision
     question: "Xe ga"
@@ -66,8 +66,8 @@ quick_questions:
   
   - id: weekly-rental
     question: "Thuê theo tuần"
-    answer: "Thuê theo tuần tiết kiệm cho chuyến đi dài ngày. Giá ưu đãi hơn thuê theo ngày."
+    answer: "Thuê theo tuần phù hợp cho chuyến đi dài ngày. Giá thuê theo tuần tùy loại xe và được xác nhận khi liên hệ."
   
   - id: monthly-rental
     question: "Thuê theo tháng"
-    answer: "Thuê theo tháng có giá ưu đãi nhất. Phù hợp cho thuê dài hạn."
+    answer: "Thuê theo tháng phù hợp cho thuê dài hạn. Giá thuê theo tháng tùy loại xe và được xác nhận khi liên hệ."

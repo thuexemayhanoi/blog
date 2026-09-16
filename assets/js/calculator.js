@@ -138,11 +138,11 @@
         breakdownEl.innerHTML = '';
         var minItem = document.createElement('div');
         minItem.className = 'calculator__breakdown-item';
-        minItem.innerHTML = '<span>Toi thieu</span><span>' + this._formatPrice(minEstimate) + '</span>';
+        minItem.innerHTML = '<span>Tối thiểu</span><span>' + this._formatPrice(minEstimate) + '</span>';
         breakdownEl.appendChild(minItem);
         var maxItem = document.createElement('div');
         maxItem.className = 'calculator__breakdown-item';
-        maxItem.innerHTML = '<span>Toi da</span><span>' + this._formatPrice(maxEstimate) + '</span>';
+        maxItem.innerHTML = '<span>Tối đa</span><span>' + this._formatPrice(maxEstimate) + '</span>';
         breakdownEl.appendChild(maxItem);
         breakdownEl.style.display = 'block';
       }
@@ -151,17 +151,17 @@
       var resultEl = document.querySelector('#estimated-price');
       var breakdownEl = document.querySelector('#price-breakdown');
       if (!resultEl) return;
-      resultEl.textContent = 'Lien he Nguyen Tu de kiem tra gia hien tai';
+      resultEl.textContent = 'Liên hệ Nguyễn Tú để kiểm tra giá hiện tại';
       if (breakdownEl) breakdownEl.style.display = 'none';
     },
     _formatPrice: function(price) {
-      if (price === null || price === undefined) return 'Khong co';
+      if (price === null || price === undefined) return 'Chưa có giá';
       return price.toLocaleString('vi-VN') + 'd';
     },
     _updateWhatsAppMessage: function(vehicle, days, price) {
       var vehicleName = vehicle ? (vehicle.name || (vehicle.id || 'xe')) : 'xe';
-      var formattedPrice = price !== null ? this._formatPrice(price) : 'chua co';
-      var message = 'Xin chao Nguyen Tu, toi muon thue ' + vehicleName + ' trong ' + days + ' ngay. Gia website uoc tinh ' + formattedPrice + '. Vui long kiem tra tinh trang xe va gia hien tai.';
+      var formattedPrice = price !== null ? this._formatPrice(price) : 'chưa có';
+      var message = 'Xin chào Nguyễn Tú, tôi muốn thuê ' + vehicleName + ' trong ' + days + ' ngày. Giá website ước tính ' + formattedPrice + '. Vui lòng kiểm tra tình trạng xe và giá hiện tại.';
       var phoneNumber = window.NGUYEN_TU_BUSINESS && window.NGUYEN_TU_BUSINESS.contact && window.NGUYEN_TU_BUSINESS.contact.whatsapp
         ? window.NGUYEN_TU_BUSINESS.contact.whatsapp : 'https://wa.me/84942467674';
       var whatsappBtn = document.querySelector('[data-whatsapp-calculator]');

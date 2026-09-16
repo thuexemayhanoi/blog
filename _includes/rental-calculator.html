@@ -6,13 +6,13 @@
     <div class="calculator-card glass-card">
       <h2>
         {% include icon.html name="calculator" size="24" %}
-        Tinh gia thue xe
+        Tính giá thuê xe
       </h2>
       
       <form class="calculator-form" id="rental-calculator">
         <!-- Vehicle Selection -->
         <div class="form-group">
-          <label for="vehicle-select">Loai xe</label>
+          <label for="vehicle-select">Loại xe</label>
           <select id="vehicle-select" class="form-select">
             {% for vehicle in pricing.vehicles %}
             <option 
@@ -35,7 +35,7 @@
         
         <!-- Days Input -->
         <div class="form-group">
-          <label for="days-input">So ngay thue</label>
+          <label for="days-input">Số ngày thuê</label>
           <div class="input-with-buttons">
             <input 
               type="number" 
@@ -58,25 +58,25 @@
         <!-- Results -->
         <div class="calculator-results">
           <div class="result-item">
-            <span class="result-label">Uoc tinh:</span>
-            <span class="result-value" id="estimated-price">Chon xe va ngay</span>
+            <span class="result-label">Ước tính:</span>
+            <span class="result-value" id="estimated-price">Chọn xe và ngày</span>
           </div>
           <div class="result-breakdown" id="price-breakdown"></div>
         </div>
         
         <div class="calculator-disclaimer">
-          <p>Day la gia uoc tinh theo bang gia tham khao. Gia thuc te, tinh trang xe, tien dat coc va chi phi giao nhan can duoc xac nhan truc tiep voi Nguyen Tu truoc khi dat xe.</p>
+          <p>Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.</p>
         </div>
         
         <!-- CTA Buttons -->
         <div class="calculator-cta">
           <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">
             {% include icon.html name="phone" size="18" %}
-            Goi ngay
+            Gọi ngay
           </a>
           <a href="{{ business.contact.zalo }}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
             {% include icon.html name="message" size="18" %}
-            Nhan Zalo
+            Nhắn Zalo
           </a>
           <a 
             href="{{ business.contact.whatsapp }}" 

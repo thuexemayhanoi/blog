@@ -93,20 +93,21 @@ vehicles:
     description: "Xe thân thiện môi trường, không phát thải"
     rates:
       day:
-        min: 200000
-        max: 200000
+        min: null
+        max: null
       week:
-        min: 800000
-        max: 800000
+        min: null
+        max: null
       month:
-        min: 1400000
-        max: 1400000
+        min: null
+        max: null
     deposit:
       min: null
       max: null
     deposit_note: "Tiền đặt cọc cần được xác nhận trực tiếp."
     popular: true
     order: 5
+    note: "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
   
   - id: electric-scooter
     name: "Xe đạp điện"

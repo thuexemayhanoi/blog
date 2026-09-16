@@ -56,7 +56,10 @@ Repository da hoan thien phien ban **PREMIUM ULTRA** voi:
 |
 +-- assets/
 |   +-- css/
-|   |   +-- style.css           # CSS thuan - Premium Ultra Design
+|   |   +-- tokens.css          # Design tokens (mau, khoang cach, typography)
+|   |   +-- base.css            # CSS co ban, reset, typography
+|   |   +-- components.css      # CSS component (button, card, breadcrumb, ...)
+|   |   +-- responsive.css      # CSS responsive (mobile, tablet)
 |   +-- js/
 |       +-- main.js             # Java
 
@@ -104,7 +107,10 @@ B
 usiness, BlogPosting, BreadcrumbList)
 
 ### Assets
-- **assets/css/style.css** -> CSS thuan: Apple-inspired Premium Ultra, Glassmorphism, Responsive
+- **assets/css/tokens.css** -> Design tokens: mau sac, khoang cach, typography
+- **assets/css/base.css** -> CSS co ban: reset, typography, layout
+- **assets/css/components.css** -> CSS component: button, card, breadcrumb, calculator, ...
+- **assets/css/responsive.css** -> CSS responsive cho mobile va tablet
 - **assets/js/main.js** -> JavaScript thuan: Mobile menu, Dropdown, Keyboard navigation, Accessibility
 
 ### Noi dung

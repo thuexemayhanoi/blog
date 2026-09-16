@@ -1,13 +1,26 @@
 {% assign business = site.data.business %}
 
 <!-- Primary Meta Tags -->
-<title>{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}</title>
+{% assign seo_title = page.title %}
+{% if seo_title %}
+  {% unless seo_title contains site.title %}
+    {% assign seo_title = seo_title | append: ' - ' | append: site.title %}
+  {% endunless %}
+{% else %}
+  {% assign seo_title = site.title %}
+{% endif %}
+
+<title>{{ seo_title }}</title>
 
 {% if page.meta_title %}
 <meta name="title" content="{{ page.meta_title }}">
 {% endif %}
 
 <meta name="description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
+
+{% if page.robots %}
+<meta name="robots" content="{{ page.robots }}">
+{% endif %}
 
 {% if page.canonical_url %}
 <link rel="canonical" href="{{ page.canonical_url }}">
@@ -18,7 +31,7 @@
 <!-- Open Graph / Facebook -->
 <meta property="og:type" content="{% if page.layout == 'post' %}article{% else %}website{% endif %}">
 <meta property="og:url" content="{{ page.url | absolute_url }}">
-<meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:title" content="{{ seo_title }}">
 <meta property="og:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
 <meta property="og:site_name" content="{{ site.title }}">
 
@@ -32,7 +45,7 @@
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:title" content="{{ seo_title }}">
 <meta name="twitter:description" content="{{ page.description | default: page.excerpt | default: site.description | strip_html | truncatewords: 50 }}">
 
 {% if business.logo %}
@@ -62,26 +75,26 @@
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "{{ site.url | absolute_url }}#organization",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#organization",
       "name": "{{ business.display_name | default: site.title }}",
       "description": "{{ site.description }}",
       {% if business.logo %}
       "logo": "{{ business.logo | absolute_url }}",
       {% endif %}
-      "url": "{{ site.url | absolute_url }}",
-      "telephone": "{{ business.contact.phone | default: '' }}",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "telephone": "{{ business.contact.phone_uri | default: '' | remove: 'tel:' }}",
       "email": "{{ business.contact.email | default: site.email }}"
     },
     {
       "@type": "LocalBusiness",
-      "@id": "{{ site.url | absolute_url }}#localbusiness",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#localbusiness",
       "name": "{{ business.display_name | default: site.title }}",
       "description": "{{ site.description }}",
       {% if business.logo %}
       "image": "{{ business.logo | absolute_url }}",
       {% endif %}
-      "url": "{{ site.url | absolute_url }}",
-      "telephone": "{{ business.contact.phone | default: '' }}",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
+      "telephone": "{{ business.contact.phone_uri | default: '' | remove: 'tel:' }}",
       "email": "{{ business.contact.email | default: site.email }}",
       "priceRange": "{{ page.price_range | default: '150000-200000 VND' }}",
       "address": {
@@ -91,12 +104,25 @@
         "addressRegion": "{{ business.address.region | default: 'Ha Noi' }}",
         "addressCountry": "{{ business.address.country | default: 'Viet Nam' }}"
       },
-      "openingHours": "{{ business.hours | default: 'Mo-Su 09:00-21:00' }}"
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+          "opens": "09:00",
+          "closes": "21:00"
+        }
+      ],
+      "sameAs": [
+        "https://www.facebook.com/chothuexemaynguyentu/",
+        "https://www.tripadvisor.com.vn/Attraction_Review-g21333608-d9826317-Reviews-Hanoi_Motorbike_Rental_Nguyen_Tu-Long_Bien_Hanoi.html",
+        "https://about.me/thuexemaynguyentu",
+        "https://www.pinterest.com/thuexemaynguyentu/"
+      ]
     },
     {
       "@type": "WebSite",
-      "@id": "{{ site.url | absolute_url }}#website",
-      "url": "{{ site.url | absolute_url }}",
+      "@id": "{{ site.url }}{{ site.baseurl }}/#website",
+      "url": "{{ site.url }}{{ site.baseurl }}/",
       "name": "{{ site.title }}",
       "description": "{{ site.description }}"
     }
@@ -115,7 +141,7 @@
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "{{ site.url | absolute_url }}#organization"
+        "@id": "{{ site.url }}{{ site.baseurl }}/#organization"
       }
     }
     {% endif %}

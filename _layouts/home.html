@@ -39,9 +39,9 @@ description: "{{ site.description }}"
   <div class="container">
     <h2>Về {{ business.brand }}</h2>
     <p class="intro-text">
-      {{ business.display_name }} là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội.
+      {{ business.display_name }} cung cấp dịch vụ thuê xe máy tại Hà Nội với nhiều loại xe: xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện.
     </p>
-    
+
     <div class="intro-features">
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
@@ -185,7 +185,7 @@ description: "{{ site.description }}"
     <h2>Giới thiệu {{ business.brand }}</h2>
     <div class="about-content">
       <div class="about-text">
-        <p><strong>{{ business.display_name }}</strong> là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.</p>
+        <p><strong>{{ business.display_name }}</strong> cung cấp dịch vụ thuê xe máy tại Hà Nội với nhiều loại xe: xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện. Giá thuê và điều kiện thuê được xác nhận trực tiếp trước khi đặt xe.</p>
         <p>Thông tin cần biết khi thuê xe:</p>
         <ul class="commitments">
           <li>Nhiều loại xe để lựa chọn</li>
@@ -211,7 +211,7 @@ description: "{{ site.description }}"
 <section class="section cta-section">
   <div class="container text-center">
     <h2>Bạn cần thuê xe máy tại Hà Nội?</h2>
-    <p>Hãy liên hệ với {{ business.brand }} để được tư vấn và hỗ trợ tốt nhất.</p>
+    <p>Hãy liên hệ với {{ business.brand }} trong giờ hoạt động {{ business.hours }} để được hỗ trợ và xác nhận thông tin thuê xe.</p>
     <div class="cta-group">
       <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay {{ business.contact.phone }}</a>
       <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
