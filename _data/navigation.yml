@@ -59,60 +59,83 @@ footer:
     links:
       - name: "Thuê Xe Máy Hà Nội Nguyễn Tú"
         url: "/"
+        icon: "home"
       - name: "Website chính"
         url: "https://thuexemaynguyentu.com/"
         external: true
+        icon: "link"
 
   - title: "LIÊN KẾT"
     links:
       - name: "Trang chủ"
         url: "/"
+        icon: "home"
       - name: "Giới thiệu"
         url: "/gioi-thieu/"
+        icon: "info"
       - name: "Blog"
         url: "/blog/"
+        icon: "blog"
       - name: "Bảng giá"
         url: "/bang-gia/"
+        icon: "pricing"
       - name: "Liên hệ"
         url: "/lien-he/"
+        icon: "contact"
 
   - title: "BLOG"
     links:
       - name: "Du lịch"
         url: "/du-lich/"
+        icon: "travel"
       - name: "Kinh nghiệm"
         url: "/kinh-nghiem/"
+        icon: "experience"
       - name: "Chia sẻ"
         url: "/chia-se/"
+        icon: "share"
 
   - title: "BẢNG GIÁ"
     links:
       - name: "Xe số"
         url: "/bang-gia-xe-so/"
+        icon: "motorcycle"
       - name: "Xe ga"
         url: "/bang-gia-xe-ga/"
+        icon: "scooter"
       - name: "Xe điện"
         url: "/bang-gia-xe-dien/"
+        icon: "electric"
       - name: "Xe 50cc"
         url: "/bang-gia-xe-50cc/"
+        icon: "50cc"
 
   - title: "TIỆN ÍCH"
     links:
       - name: "Tính giá thuê"
         url: "/bang-gia/#tinh-gia"
+        icon: "calculator"
+      - name: "Gọi ngay"
+        url: "tel:+84942467674"
+        icon: "phone"
       - name: "Zalo"
         url: "https://zalo.me/0942467674"
         external: true
+        icon: "message"
       - name: "WhatsApp"
         url: "https://wa.me/84942467674"
         external: true
+        icon: "whatsapp"
       - name: "Google Maps"
         url: "https://maps.app.goo.gl/rQBfa43FA2WNnuSy9?g_st=ic"
         external: true
+        icon: "map-pin"
 
   - title: "PHÁP LÝ"
     links:
       - name: "Chính sách bảo mật"
         url: "/bao-mat/"
+        icon: "privacy"
       - name: "Điều khoản dịch vụ"
         url: "/dieu-khoan/"
+        icon: "terms"
