@@ -370,13 +370,9 @@ gn
   width: 40px;
   height: 40px;
   padding: 0;
- background: var(--col
-or-surface-
--s
+ background: var(--color-surface--s
 ur
-fac
-e-
-dark);
+face-dark);
   border: 1px solid var(--color-border); border-radius: 50%;
   cursor: pointer;
   transition: all var(--transition-fast);
@@ -557,8 +553,7 @@ dark);
   gap: var(--spacing
 -xs);
   padding: var(--spaci
-ng-xs) var(-
--s
+ng-xs) var(--s
 pacin
 g-sm);
  colo
@@ -1037,11 +1032,9 @@ r;
   gap: var(--spacing-xs)
 ;
   padding: var(--spacing
--xs) var(-
--spacing-sm);
+-xs) var(--spacing-sm);
   font-siz
-e: var(--
-font
+e: var(--font
 -size-sm);
   color: var(--color-text); background: var(--color-surface);
   border: 1px solid var(--color-border); border-radius: var(--radius-md);
