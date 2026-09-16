@@ -1,0 +1,20 @@
+# Publishing campaign configuration
+# Read by .github/workflows/publish-queue.yml before every publish attempt.
+# The workflow exits immediately while enabled is false.
+#
+# Activation checklist (requires explicit owner approval):
+#   1. Set enabled: true
+#   2. Set start_at to the local start time, format "YYYY-MM-DD HH:MM"
+#      (evaluated in Asia/Ho_Chi_Minh time)
+#   3. Optionally set end_at with the same format to hard-stop the campaign
+#
+# start_at and end_at stay empty until the owner approves a start time.
+
+campaign_id: hanoi-seo-480
+enabled: false
+max_posts: 480
+posts_per_day: 48
+interval_minutes: 30
+timezone: Asia/Ho_Chi_Minh
+start_at: ""
+end_at: ""

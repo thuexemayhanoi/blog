@@ -1,0 +1,200 @@
+name: Publish queued article
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Chay thu khong xuat ban bai nao (dry run)"
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-queue-singleton
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Ensure PyYAML available
+        run: python3 -c "import yaml" || pip3 install --quiet pyyaml
+
+      - name: Publish at most one due article
+        env:
+          TZ: Asia/Ho_Chi_Minh
+          DRY_RUN: ${{ inputs.dry_run == true }}
+        run: |
+          python3 - <<'PYEOF'
+          import datetime
+          import glob
+          import os
+          import subprocess
+          import sys
+
+          import yaml
+
+
+          def log(message):
+              print("[publish-queue] " + message)
+
+
+          def read_front_matter(path):
+              try:
+                  with open(path, encoding="utf-8") as handle:
+                      text = handle.read()
+              except OSError:
+                  return None, ""
+              if not text.startswith("---"):
+                  return None, text
+              parts = text.split("---", 2)
+              if len(parts) < 3:
+                  return None, text
+              try:
+                  data = yaml.safe_load(parts[1])
+              except yaml.YAMLError:
+                  return None, text
+              if not isinstance(data, dict):
+                  return None, text
+              return data, text
+
+
+          with open("_data/publishing.yml", encoding="utf-8") as handle:
+              config = yaml.safe_load(handle)
+
+          campaign_id = str(config.get("campaign_id", ""))
+          max_posts = int(config.get("max_posts", 480))
+          start_at = str(config.get("start_at") or "").strip()
+          end_at = str(config.get("end_at") or "").strip()
+          dry_run = os.environ.get("DRY_RUN", "false") == "true"
+
+          if not config.get("enabled", False):
+              log("campaign disabled")
+              sys.exit(0)
+
+          if not start_at:
+              log("campaign start time not set (start_at is empty)")
+              sys.exit(0)
+
+          now = datetime.datetime.now()
+          start_time = datetime.datetime.fromisoformat(start_at)
+          if now < start_time:
+              log("no article due: campaign start time has not arrived (start_at=%s)" % start_at)
+              sys.exit(0)
+
+          if end_at:
+              end_time = datetime.datetime.fromisoformat(end_at)
+              if now > end_time:
+                  log("campaign end reached (end_at=%s)" % end_at)
+                  sys.exit(0)
+
+          published = []
+          existing_titles = set()
+          existing_slugs = set()
+          existing_permalinks = set()
+          for path in sorted(glob.glob("_posts/*.md")):
+              data, _ = read_front_matter(path)
+              if data:
+                  if data.get("campaign") == campaign_id:
+                      published.append(path)
+                  title = str(data.get("title") or "").strip().lower()
+                  if title:
+                      existing_titles.add(title)
+                  permalink = str(data.get("permalink") or "").strip()
+                  if permalink:
+                      existing_permalinks.add(permalink)
+              name = os.path.basename(path)
+              if len(name) > 14 and name[:11].count("-") == 2:
+                  existing_slugs.add(name[11:-3])
+              else:
+                  existing_slugs.add(name[:-3])
+
+          if len(published) >= max_posts:
+              log("campaign maximum reached (%d/%d)" % (len(published), max_posts))
+              sys.exit(0)
+
+          queue = sorted(glob.glob("_queue/[0-9][0-9][0-9]-*.md"))
+          if not queue:
+              log("queue empty")
+              sys.exit(0)
+
+          selected = None
+          for candidate in queue:
+              data, text = read_front_matter(candidate)
+              if data is None:
+                  log("invalid front matter, skipped: " + candidate)
+                  continue
+              title = str(data.get("title") or "").strip()
+              slug = os.path.basename(candidate)[4:-3]
+              permalink = str(data.get("permalink") or "").strip()
+              if not title or not data.get("categories") or not data.get("description"):
+                  log("invalid front matter, skipped: " + candidate)
+                  continue
+              if title.lower() in existing_titles:
+                  log("duplicate prevented (title): " + candidate)
+                  continue
+              if slug in existing_slugs:
+                  log("duplicate prevented (slug): " + candidate)
+                  continue
+              if permalink and permalink in existing_permalinks:
+                  log("duplicate prevented (permalink): " + candidate)
+                  continue
+              selected = (candidate, text)
+              break
+
+          if selected is None:
+              log("no eligible article in queue (all invalid, empty or duplicates)")
+              sys.exit(0)
+
+          candidate, text = selected
+          slug = os.path.basename(candidate)[4:-3]
+          publish_date = now.strftime("%Y-%m-%d")
+          target = "_posts/%s-%s.md" % (publish_date, slug)
+          if os.path.exists(target):
+              log("duplicate prevented (filename): " + target)
+              sys.exit(0)
+
+          count = len(published) + 1
+          date_line = now.strftime("date: %Y-%m-%d %H:%M:00 +0700")
+          lines = text.split("\n")
+          if lines[0].strip() != "---":
+              log("unexpected file structure: " + candidate)
+              sys.exit(1)
+          lines.insert(1, date_line)
+          new_text = "\n".join(lines)
+          if not new_text.endswith("\n"):
+              new_text += "\n"
+
+          if dry_run:
+              log("dry run: would publish %s (%d/%d), no changes committed" % (target, count, max_posts))
+              sys.exit(0)
+
+          with open(target, "w", encoding="utf-8") as handle:
+              handle.write(new_text)
+          os.remove(candidate)
+
+          subprocess.run(["git", "config", "user.name", "publish-queue bot"], check=True)
+          subprocess.run(["git", "config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com"], check=True)
+          subprocess.run(["git", "add", "_queue", "_posts"], check=True)
+          commit_message = "Publish queued article: %s (%d/%d) [%s]" % (slug, count, max_posts, campaign_id)
+          result = subprocess.run(["git", "commit", "-m", commit_message], capture_output=True, text=True)
+          if result.returncode != 0:
+              log("git commit failed, no empty commit created: " + result.stderr.strip())
+              sys.exit(1)
+          subprocess.run(["git", "push"], check=True)
+          log("article published: %s (%d/%d)" % (target, count, max_posts))
+          log("committed and pushed: " + commit_message)
+          PYEOF
