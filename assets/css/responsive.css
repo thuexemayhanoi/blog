@@ -518,9 +518,7 @@
   .phone-launcher__action {
     display: flex;
     align-items: center;
-    g
-
-ap: var(--spacing-sm);
+    gap: var(--spacing-sm);
     padding: var(--spacing-sm) var(--spacing-md);
     color: var(--color-text);
     text-decoration: none;
@@ -625,9 +623,7 @@ ap: var(--spacing-sm);
   }
   
   .contact-rail {
-    disp
-l
-ay: none;
+    display: none;
   }
   
   .mobile-contact-bar {
@@ -760,8 +756,7 @@ ay: none;
     height: 40px;
   }
   
-  .calc
--link {
+  .calc-link {
     display: flex;
   }
   
@@ -892,9 +887,7 @@ ay: none;
   .hero-cta {
     flex-wrap: wrap;
     justify-content: center;
-    gap: v
-ar
-(--spacing-md);
+    gap: var(--spacing-md);
   }
   
   .hero-cta .btn {
