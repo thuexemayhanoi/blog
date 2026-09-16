@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Dieu khoan su dung - Thue Xe May Ha Noi Nguyen Tu"
-description: "Dieu khoan va dieu kien ve dich vu thue xe may tai Ha Noi."
+title: "Điều khoản sử dụng - Thuê Xe Máy Hà Nội Nguyễn Tú"
+description: "Điều khoản và điều kiện sử dụng dịch vụ thuê xe máy tại Hà Nội của Nguyễn Tú."
 lang: vi
 translation_key: terms
 permalink: /dieu-khoan/
@@ -9,82 +9,83 @@ permalink: /dieu-khoan/
 
 {% assign business = site.data.business %}
 
-## Dieu Khoan Su Dung
+## Điều khoản sử dụng
 
-Cap nhat lan cuoi: Thang 9/2026
+Cập nhật lần cuối: Tháng 9/2026
 
-Vui long doc cac dieu khoan su dung sau day truoc khi su dung dich vu thue xe may cua chung toi.
+Vui lòng đọc các điều khoản sử dụng sau trước khi sử dụng dịch vụ thuê xe máy của chúng tôi.
 
-### Hop Dong Thue Xe
+### Hợp đồng thuê xe
 
-Bang cach thue xe may tu Nguyen Tu, ban dong y voi cac dieu khoan sau:
+Bằng việc thuê xe máy từ Nguyễn Tú, bạn đồng ý với các điều khoản sau:
 
-1. **Giay phep lai xe hop le:** Ban phai co giay phep lai xe hop le phu hop voi loai xe ban thue
-2. **Yeu cau ve do tuoi:** Toi thieu 18 tuoi
-3. **Tien dat coc:** Tien dat coc bat buoc cho tat ca cac hop dong thue va se duoc hoan tra sau khi tra xe dung hen va xe khong bi hu hong
-4. **Thoi han thue:** Xe phai duoc tra lai dung thoi gian da thoa thuan
-5. **Tinh trang xe:** Xe phai duoc tra lai voi cung tinh trang nhu luc nhan xe, tru cac hao mon binh thuong
+1. **Giấy phép lái xe hợp lệ:** Bạn phải có giấy phép lái xe hợp lệ phù hợp với loại xe thuê (bắt buộc với xe trên 50cc)
+2. **Yêu cầu về độ tuổi:** Tối thiểu 18 tuổi
+3. **Tiền đặt cọc:** Tiền đặt cọc là bắt buộc cho tất cả các hợp đồng thuê, phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và hoàn trả khi bạn trả xe đúng hẹn, xe không có hư hỏng phát sinh
+4. **Thời hạn thuê:** Xe phải được trả lại đúng thời gian đã thỏa thuận
+5. **Tình trạng xe:** Xe phải được trả lại với tình trạng như lúc nhận xe, trừ các hao mòn bình thường
 
-### Trach Nhiem
+### Bảo hiểm
 
-**Trach nhiem cua ban:**
+Người thuê tự mua bảo hiểm cho bản thân khi cần. Nguyễn Tú không cung cấp bảo hiểm cho người thuê xe. Bạn nên cân nhắc mua bảo hiểm du lịch hoặc bảo hiểm tai nạn từ công ty bảo hiểm trước chuyến đi.
 
-- Dieu khien xe mot an toan va tuan thuc tat ca cac luat giao thong
-- Su dung xe dung muc dich
-- Khong cho bat ky ai khac dieu khien xe
-- Bao cao ngay lap tuc bat ky tai nan, hu hong hoac su co ve ky thuat nao
-- Tra xe voi cung muc nhien lieu (hoac tra tien de nap them)
+### Trách nhiệm
 
-**Trach nhiem cua chung toi:**
+**Trách nhiệm của bạn:**
 
-- Cung cap xe o tinh trang hoat dong tot
-- Cung cap bao hiem co ban
-- Cung cap mu bao hiem cho moi nguoi lai
-- San sang ho tro trong suot thoi gian ban thue xe
+- Điều khiển xe an toàn và tuân thủ tất cả luật giao thông
+- Sử dụng xe đúng mục đích đã thỏa thuận
+- Không cho bất kỳ ai khác điều khiển xe
+- Báo cáo ngay lập tức mọi tai nạn, hư hỏng hoặc sự cố kỹ thuật
+- Trả xe với cùng mức nhiên liệu (hoặc trả tiền để nạp thêm)
 
-### Viec Su Dung Bi Cam
+**Trách nhiệm của chúng tôi:**
 
-Ban khong duoc:
+- Cung cấp xe ở tình trạng hoạt động tốt, đã được kiểm tra trước khi giao
+- Ghi nhận tình trạng xe cùng bạn khi nhận xe để tránh tranh chấp khi trả xe
+- Hỗ trợ giải đáp và tư vấn trong giờ hoạt động {{ business.hours }} trong suốt thời gian bạn thuê xe
 
-- Su dung xe de dua xe, lai xe mau hoac bat ky hoat dong nao khong hop phap
-- Cho nhieu hanh khach hon so voi so ghe duoc thiet ke
-- Van chuyen cac chat de nguy hiem hoac bat hop phap
-- Thay doi hoac can thiep vao xe theo bat ky cach nao
-- Dua xe ra ngoai Viet Nam ma khong co su chap thuan truoc bang van ban
+### Việc sử dụng bị cấm
 
-### Phi va Chi Phi
+Bạn không được:
 
-Ban phai trach nhiem ve:
+- Sử dụng xe để đua, lái xe nhanh hoặc bất kỳ hoạt động nào không hợp pháp
+- Chở nhiều hành khách hơn số ghế được thiết kế
+- Vận chuyển các chất dễ nguy hiểm hoặc bất hợp pháp
+- Thay đổi hoặc can thiệp vào xe theo bất kỳ cách nào
+- Đưa xe ra ngoài Việt Nam mà không có sự chấp thuận trước bằng văn bản
 
-- Phi thue theo thoa thuan
-- Tien dat coc theo yeu cau
-- Phi tra muon (neu co)
-- Chi phi sua chua (neu xe bi hu hong do loi cua ban)
-- Chi phi boi thuon toan bo (neu mat xe)
-- Bat ky khoan tien phat nao phat sinh trong thoi gian thue
+### Phí và chi phí
 
-### Chinh Sach Huy Dat Xe
+Bạn chịu trách nhiệm về:
 
-- Huy dat xe truoc 24 gio: Hoan tra toan bo tien dat coc
-- Huy dat xe trong 24 gio: Mat 50% tien dat coc
-- Khong den: Mat toan bo tien dat coc
+- Phí thuê theo thỏa thuận khi đặt xe
+- Tiền đặt cọc theo yêu cầu
+- Phí trả xe trễ: 20.000đ mỗi giờ trễ; nếu trễ hơn 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000–200.000đ/ngày
+- Chi phí sửa chữa nếu xe bị hư hỏng do lỗi của bạn
+- Chi phí bồi thường theo giá thị trường nếu mất xe
+- Bất kỳ khoản tiền phạt nào phát sinh trong thời gian thuê
 
-### Mien Trach Nhiem
+### Hủy và thay đổi đặt xe
 
-Nguyen Tu Motorcycle Rental khong chiu trach nhiem ve:
+Nếu bạn cần hủy hoặc thay đổi lịch đặt xe, vui lòng liên hệ với chúng tôi sớm nhất có thể. Điều kiện hoàn trả tiền đặt cọc và các thay đổi về lịch được thỏa thuận rõ ràng với bạn khi đặt xe và khi nhận xe.
 
-- Bat ky tai nan hoac thuong tich nao xay ra trong thoi gian thue
-- Mat mat hoac hu hong toi tai san ca nhan
-- Bat ky thiet hai nao giu an, tu phat, hoac he qua
+### Miễn trừ trách nhiệm
 
-### Giai Quyet Tranh Chap
+Nguyễn Tú không chịu trách nhiệm về:
 
-Bat ky tranh chap nao phat sinh tu cac dieu khoan nay se duoc giai quyet thong qua viec dam phan giua cac ben. Neu dam phan that bai, tran chap se duoc giai quyet tai toa an Ha Noi, Viet Nam.
+- Bất kỳ tai nạn hoặc thương tích nào xảy ra trong thời gian thuê do lỗi của người điều khiển xe
+- Mất mát hoặc hư hỏng tài sản cá nhân của bạn trong chuyến đi
+- Chi phí phát sinh do bạn vi phạm luật giao thông trong thời gian thuê
 
-### Lien He Voi Chung Toi
+### Giải quyết tranh chấp
 
-Neu ban co bat ky cau hoi nao ve cac dieu khoan nay, vui long lien he:
+Bất kỳ tranh chấp nào phát sinh từ các điều khoản này sẽ được giải quyết trước hết thông qua trao đổi trực tiếp giữa hai bên. Nếu không đạt được thỏa thuận, tranh chấp sẽ được giải quyết theo quy định của pháp luật Việt Nam.
 
-- {% include icon.html name="phone" size="16" %} **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+### Liên hệ với chúng tôi
+
+Nếu bạn có bất kỳ câu hỏi nào về các điều khoản này, vui lòng liên hệ:
+
+- {% include icon.html name="phone" size="16" %} **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
 - {% include icon.html name="message" size="16" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
 - {% include icon.html name="message" size="16" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "404 - Trang khong ton tai"
+title: "404 - Trang không tồn tại"
 ---
 
 {% assign business = site.data.business %}
@@ -9,21 +9,21 @@ title: "404 - Trang khong ton tai"
   <div class="container">
     <div class="error-content glass-card">
       <h1>404</h1>
-      <h2>Trang khong ton tai</h2>
-      <p>Xin loi, trang ban dang tim kiem khong ton tai hoac da bi xoa.</p>
+      <h2>Trang không tồn tại</h2>
+      <p>Xin lỗi, trang bạn đang tìm kiếm không tồn tại hoặc đã bị xóa.</p>
       
       <div class="error-actions">
-        <a href="{{ '/' | relative_url }}" class="btn btn-primary">Ve trang chu</a>
+        <a href="{{ '/' | relative_url }}" class="btn btn-primary">Về trang chủ</a>
         <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Xem blog</a>
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-secondary">Lien he</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-secondary">Liên hệ</a>
       </div>
       
       <div class="error-suggestion">
-        <p>Ban co the thu:</p>
+        <p>Bạn có thể thử:</p>
         <ul style="list-style: none; padding: 0;">
-          <li>Kiem tra lai URL</li>
-          <li>Su dung menu dieu huong</li>
-          <li>Tim kiem tren website</li>
+          <li>Kiểm tra lại URL</li>
+          <li>Sử dụng menu điều hướng</li>
+          <li>Tìm kiếm trên website</li>
         </ul>
       </div>
     </div>

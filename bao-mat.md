@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Chinh sach bao mat - Thue Xe May Ha Noi Nguyen Tu"
-description: "Chinh sach bao mat ve thong tin ca nhan va dich vu thue xe may tai Ha Noi."
+title: "Chính sách bảo mật - Thuê Xe Máy Hà Nội Nguyễn Tú"
+description: "Chính sách bảo mật thông tin cá nhân của khách hàng khi sử dụng dịch vụ thuê xe máy tại Hà Nội."
 lang: vi
 translation_key: privacy
 permalink: /bao-mat/
@@ -9,60 +9,60 @@ permalink: /bao-mat/
 
 {% assign business = site.data.business %}
 
-## Chinh Sach Bao Mat
+## Chính sách bảo mật
 
-Cap nhat lan cuoi: Thang 9/2026
+Cập nhật lần cuối: Tháng 9/2026
 
-Cam on ban da chon Nguyen Tu Motorcycle Rental. Chung toi cam ket bao ve thong tin ca nhan cua ban va quyen rieng tu cua ban.
+Cảm ơn bạn đã chọn dịch vụ thuê xe máy của Nguyễn Tú. Trang này giải thích cách chúng tôi thu thập, sử dụng và bảo vệ thông tin cá nhân của bạn khi sử dụng dịch vụ.
 
-### Thong Tin Chung Toi Thu Thap
+### Thông tin chúng tôi thu thập
 
-Chung toi co the thu thap nhung thong tin sau day khi ban su dung dich vu cua chung toi:
+Chúng tôi có thể thu thập những thông tin sau khi bạn sử dụng dịch vụ:
 
-- **Thong tin ca nhan:** Ten, so dien thoai, dia chi email va cac thong tin lien lac khac ma ban cung cap khi dat xe
-- **Thong tin ve viec thue xe:** Ngay thue, loai xe, dia diem lay/tra xe
-- **Thong tin thanh toan:** Chung toi khong luu tru thong tin the tin dung cua ban; viec thanh toan duoc xu ly truc tiep giua ban va nha cung cap dich vu thanh toan
-- **Du lieu truc tuyen:** Ban ghi cua cac cuoc tro chuyen tren dien thoai, Zalo, WhatsApp hoac email
+- **Thông tin cá nhân:** Tên, số điện thoại, địa chỉ email và các thông tin liên lạc khác mà bạn cung cấp khi đặt xe
+- **Thông tin về việc thuê xe:** Ngày thuê, loại xe, địa điểm nhận và trả xe
+- **Thông tin thanh toán:** Chúng tôi không lưu trữ thông tin thẻ tín dụng của bạn; việc thanh toán được xử lý trực tiếp giữa bạn và nhà cung cấp dịch vụ thanh toán
+- **Dữ liệu trực tuyến:** Bản ghi của các cuộc trao đổi qua điện thoại, Zalo, WhatsApp hoặc email
 
-### Cach Chung Toi Su Dung Thong Tin Cua Ban
+### Cách chúng tôi sử dụng thông tin của bạn
 
-Chung toi su dung thong tin chung toi thu thap hoac nhan duoc de:
+Chúng tôi sử dụng thông tin thu thập được để:
 
-- Cung cap, bao tri va cai thien dich vu thue xe cua chung toi
-- Xu ly cac dat xe cua ban va quan ly tai khoan cua ban
-- Lien lac voi ban ve viec dat xe va cung cap ho tro khach hang
-- Gui cho ban nhung thong tin quan trong ve viec thue xe va dich vu cua chung toi
-- Tra loi cac cau hoi va yeu cau cua ban
+- Cung cấp, bảo trì và cải thiện dịch vụ thuê xe
+- Xử lý các đặt xe của bạn và quản lý hợp đồng thuê
+- Liên hệ với bạn về việc đặt xe và hỗ trợ khách hàng
+- Gửi cho bạn những thông tin quan trọng về việc thuê xe và dịch vụ
+- Trả lời các câu hỏi và yêu cầu của bạn
 
-### Cach Chung Toi Chia Se Thong Tin Cua Ban
+### Cách chúng tôi chia sẻ thông tin của bạn
 
-Chung toi khong ban hoac trao doi thong tin ca nhan cua ban. Chung toi co the chia se thong tin cua ban:
+Chúng tôi không bán hoặc trao đổi thông tin cá nhân của bạn. Chúng tôi chỉ có thể chia sẻ thông tin của bạn:
 
-- Voi su chap thuan cua ban
-- De tuan thuc cac nghia vu phap ly
-- De bao ve an toan va quyen loi cua cong ty, khach hang hoac cac ben khac
+- Với sự chấp thuận của bạn
+- Để tuân thủ các nghĩa vụ pháp lý
+- Để bảo vệ an toàn và quyền lợi chính đáng của khách hàng hoặc các bên liên quan
 
-### Bao Mat Du Lieu
+### Bảo mật dữ liệu
 
-Chung toi thuc hien cac bien phap ky thuat va to chuc thich hop de bao ve thong tin ca nhan cua ban khoi viec truy cap, thay doi, tiet lo hoac pha huy khong duoc uy nhiem.
+Chúng tôi thực hiện các biện pháp kỹ thuật và tổ chức phù hợp để bảo vệ thông tin cá nhân của bạn khỏi việc truy cập, thay đổi, tiết lộ hoặc phá hủy không được ủy quyền.
 
-### Quyen Cua Ban
+### Quyền của bạn
 
-Tuy thuoc vao vi tri cua ban, ban co the co cac quyen sau day ve thong tin ca nhan cua minh:
+Tùy theo quy định pháp luật hiện hành, bạn có thể có các quyền sau đối với thông tin cá nhân của mình:
 
-- Quyen truy cap va nhan ban sao thong tin ca nhan cua minh
-- Quyen yeu cau hieu chinh thong tin khong chinh xac
-- Quyen yeu cau xoa thong tin ca nhan cua minh
-- Quyen han che hoac phan doi viec xu ly thong tin cua ban
+- Quyền truy cập và nhận bản sao thông tin cá nhân của mình
+- Quyền yêu cầu hiệu chỉnh thông tin không chính xác
+- Quyền yêu cầu xóa thông tin cá nhân của mình
+- Quyền hạn chế hoặc phản đối việc xử lý thông tin của bạn
 
-### Lien He Voi Chung Toi
+### Liên hệ với chúng tôi
 
-Neu ban co bat ky cau hoi hoac thac mac nao ve chinh sach bao mat nay hoac cac thuc hanh xu ly du lieu cua chung toi, vui long lien he:
+Nếu bạn có bất kỳ câu hỏi hoặc thắc mắc nào về chính sách bảo mật này hoặc cách chúng tôi xử lý dữ liệu, vui lòng liên hệ:
 
-- {% include icon.html name="phone" %} **Dien thoai:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
+- {% include icon.html name="phone" %} **Điện thoại:** [{{ business.contact.phone }}]({{ business.contact.phone_uri }})
 - {% include icon.html name="message" %} **Zalo:** [{{ business.contact.zalo }}]({{ business.contact.zalo }})
 - {% include icon.html name="message" %} **Email:** [{{ business.contact.email }}](mailto:{{ business.contact.email }})
 
-### Thay Doi Chinh Sach
+### Thay đổi chính sách
 
-Chung toi co the cap nhat chinh sach bao mat nay tu thoi gian den thoi gian. Chung toi se thong bao cho ban ve bat ky thay doi nao bang cach dang chinh sach bao mat moi tren trang nay.
+Chúng tôi có thể cập nhật chính sách bảo mật này theo thời gian. Phiên bản mới nhất luôn được đăng trên trang này.

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Lien he - Thue Xe May Ha Noi Nguyen Tu"
-description: "Thong tin lien he de thue xe may tai Ha Noi. Dien thoai, Zalo, WhatsApp, Google Maps."
+title: "Liên hệ - Thuê Xe Máy Hà Nội Nguyễn Tú"
+description: "Thông tin liên hệ để thuê xe máy tại Hà Nội. Điện thoại, Zalo, WhatsApp, Google Maps và giờ hoạt động của Nguyễn Tú."
 lang: vi
 translation_key: contact
 permalink: /lien-he/
@@ -9,86 +9,97 @@ permalink: /lien-he/
 
 {% assign business = site.data.business %}
 
-## Lien He Voi Chung Toi
+## Liên hệ với Nguyễn Tú
 
-Cam on ban da quan tam den dich vu thue xe may tai Ha Noi cua Nguyen Tu. Chung toi o day de ho tro ban voi tat ca nhu cau thue xe may.
+Cảm ơn bạn quan tâm đến dịch vụ thuê xe máy tại Hà Nội của Nguyễn Tú. Chúng tôi sẵn sàng hỗ trợ các nhu cầu thuê xe trong giờ hoạt động, từ thuê theo ngày, tuần đến tháng.
 
-### Thong Tin Lien He
+### Thông tin liên hệ
 
 <div class="contact-grid">
   <div class="contact-card glass-card">
-    <h3>{% include icon.html name="map-pin" size="20" %} Dia Chi</h3>
+    <h3>{% include icon.html name="map-pin" size="20" %} Địa chỉ</h3>
     <p>{{ business.address.full }}</p>
-    <p><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">Xem tren Google Maps</a></p>
+    <p><a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer">Xem trên Google Maps</a></p>
   </div>
-  
+
   <div class="contact-card glass-card">
-    <h3>{% include icon.html name="phone" size="20" %} Dien Thoai</h3>
+    <h3>{% include icon.html name="phone" size="20" %} Điện thoại</h3>
     <p><a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-    <p>Gio lam viec: {{ business.hours }}</p>
+    <p>Giờ hoạt động: {{ business.hours }}</p>
   </div>
-  
+
   <div class="contact-card glass-card">
     <h3>{% include icon.html name="message" size="20" %} Email</h3>
     <p><a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-    <p>Tra loi trong vong 24 gio</p>
+    <p>Vui lòng để lại số điện thoại để chúng tôi liên hệ lại trong giờ hoạt động.</p>
   </div>
 </div>
 
-### Ket Noi Voi Chung Toi
+### Kết nối với chúng tôi
 
 <div class="social-grid">
   <a href="{{ business.contact.zalo }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
     <h3>{% include icon.html name="message" size="20" %} Zalo</h3>
-    <p>Nhan tin tren Zalo</p>
+    <p>Nhắn tin trên Zalo</p>
   </a>
-  
+
   <a href="{{ business.contact.whatsapp }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
     <h3>{% include icon.html name="whatsapp" size="20" %} WhatsApp</h3>
-    <p>Nhan tin tren WhatsApp</p>
+    <p>Nhắn tin trên WhatsApp</p>
   </a>
-  
+
   <a href="{{ business.url }}" class="social-card glass-card" target="_blank" rel="noopener noreferrer">
     <h3>{% include icon.html name="external-link" size="20" %} Website</h3>
-    <p>Truy cap website chinh</p>
+    <p>Truy cập website chính</p>
   </a>
 </div>
 
-### Cau Hoi Thuong Gap
+### Câu hỏi thường gặp
 
-#### Toi can nhung giay to nao de thue xe may?
+#### Tôi cần những giấy tờ nào để thuê xe máy?
 
-Ban can su dung:
-- Chung minh nhan dan / Can cuoc cong dan (cho nguoi Viet Nam)
-- Ho chieu (cho du khach nuoc ngoai)
-- Giay phep lai xe (neu thue xe tren 50cc)
+Bạn cần xuất trình khi nhận xe:
 
-#### Thoi gian thue toi thieu la bao nhieu?
+- Chứng minh nhân dân hoặc căn cước công dân (khách Việt Nam)
+- Hộ chiếu (khách nước ngoài)
+- Giấy phép lái xe phù hợp nếu thuê xe trên 50cc
 
-Thoi gian thue toi thieu la 1 ngay. Chung toi cung cap thue theo tuan va thang voi nhung uu dai ve gia.
+Người thuê cần đủ 18 tuổi trở lên.
 
-#### Xe co bao hiem khong?
+#### Thời gian thuê tối thiểu là bao nhiêu?
 
-Co. Tat ca cac xe deu di kem bao hiem co ban. Ban nen kiem tra ky pham vi bao hiem truoc khi thue.
+Thời gian thuê tối thiểu là 1 ngày. Chúng tôi nhận thuê theo tuần và theo tháng, mức giá cho từng loại xe được niêm yết tại trang [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}).
 
-#### Ban co giao xe den noi toi khong?
+#### Xe có bảo hiểm không?
 
-Co. Chung toi co dich vu giao xe tan noi tai cac khu vuc phuc vu. Phi giao xe co the ap dung tuy thuoc vao khoang cach.
+Người thuê tự mua bảo hiểm cho bản thân khi cần. Nguyễn Tú không cung cấp bảo hiểm cho người thuê xe. Bạn nên cân nhắc mua bảo hiểm du lịch hoặc bảo hiểm tai nạn từ công ty bảo hiểm trước chuyến đi.
 
-#### Toi co the huy dat xe khong?
+#### Có giao xe đến nơi tôi không?
 
-Co. Vui long lien he voi chung toi cach som nhat neu ban can huy ho thay doi lich dat xe.
+Chúng tôi nhận giao xe trong khu vực phục vụ quanh Hà Nội. Thời gian và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe. Không giao xe máy ngoài giờ hoạt động {{ business.hours }}.
 
-#### Phuong thuc thanh toan nao duoc chap nhan?
+#### Tiền đặt cọc là bao nhiêu?
 
-Chung toi chap nhan tien mat (VND) va cac hinh thuc thanh toan di dong. Vui long xac nhan phuong thuc thanh toan khi dat xe.
+Tiền đặt cọc phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và hoàn trả khi bạn trả xe đúng hẹn, xe không có hư hỏng phát sinh.
 
-### San Sang Dat Xe?
+#### Tôi có thể hủy hoặc thay đổi lịch đặt xe không?
 
-Lien he voi chung toi ngay de dat xe:
+Có. Vui lòng liên hệ với chúng tôi sớm nhất có thể nếu bạn cần hủy hoặc thay đổi lịch đặt xe. Điều kiện hoàn trả tiền đặt cọc được thỏa thuận rõ ràng khi nhận xe.
+
+#### Phương thức thanh toán nào được chấp nhận?
+
+Chúng tôi nhận thanh toán bằng tiền mặt (VND) và các hình thức thanh toán di động phổ biến. Vui lòng xác nhận phương thức thanh toán với chúng tôi khi đặt xe.
+
+#### Trả xe trễ giờ thì sao?
+
+Phí trả xe trễ là 20.000đ mỗi giờ trễ. Nếu trễ hơn 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000–200.000đ/ngày. Hãy chủ động báo trước nếu có thay đổi lịch trình.
+
+### Sẵn sàng đặt xe?
+
+Liên hệ với chúng tôi trong giờ hoạt động để đặt xe:
 
 <div class="cta-group">
-  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary btn-large">Go {{ business.contact.phone }}</a>
-  <a href="{{ business.contact.zalo }}" class="btn btn-secondary btn-large">Nhan tin tren Zalo</a>
-  <a href="{{ business.contact.whatsapp }}" class="btn btn-outline btn-large">Nhan tin tren WhatsApp</a>
+  <a href="{{ business.contact.phone_uri }}" class="btn btn-primary btn-large">Gọi {{ business.contact.phone }}</a>
+  <a href="{{ business.contact.zalo }}" class="btn btn-secondary btn-large">Nhắn tin trên Zalo</a>
+  <a href="{{ business.contact.whatsapp }}" class="btn btn-outline btn-large">Nhắn tin trên WhatsApp</a>
 </div>
