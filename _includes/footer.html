@@ -3,72 +3,92 @@
 
 <footer class="site-footer" role="contentinfo">
   <div class="container">
-    <details class="footer-accordion" open>
-      <summary class="footer-accordion-summary" aria-label="Menu chính">
-        <span class="footer-accordion-title">Menu chính</span>
-        <span class="footer-accordion-chevron" aria-hidden="true">
-          {% include icon.html name="chevron-down" size="20" %}
-        </span>
-      </summary>
-      
-      <div class="footer-grid">
-        <!-- Brand Column -->
-        <div class="footer-col brand-col">
-          <a href="{{ '/' | relative_url }}" class="footer-logo">
-            <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="48" height="48">
-            <span class="brand-name">{{ business.display_name }}</span>
-          </a>
-          <p class="brand-tagline">{{ site.description }}</p>
-          <address class="business-address">
-            <p><strong>Địa chỉ:</strong> {{ business.address.full }}</p>
-            <p><strong>Điện thoại:</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
-            <p><strong>Email:</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
-            <p><strong>Giờ hoạt động:</strong> {{ business.hours }}</p>
-          </address>
-          <div class="social-links">
-            <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
-              {% include icon.html name="message" size="18" %}
-              <span>Zalo</span>
-            </a>
-            <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
-              {% include icon.html name="whatsapp" size="18" %}
-              <span>WhatsApp</span>
-            </a>
-            <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
-              {% include icon.html name="map-pin" size="18" %}
-              <span>Google Maps</span>
-            </a>
-          </div>
-        </div>
-        
-        <!-- Links Columns -->
-        {% for section in nav %}
-        <div class="footer-col">
-          <h4>{{ section.title }}</h4>
-          <ul class="footer-links">
-            {% for link in section.links %}
-            <li>
-              <a 
-                {% if link.external %}
-                  href="{{ link.url }}"
-                  target="_blank" rel="noopener noreferrer"
-                {% else %}
-                  href="{{ link.url | relative_url }}"
-                {% endif %}
-              >
-                {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
-                {{ link.name }}
-              </a>
-            </li>
-            {% endfor %}
-          </ul>
-        </div>
-        {% endfor %}
-        
-        <div class="footer-bottom">
-          <p>&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}.</p>
-        </div>
+    <!-- Brand Column - Always Visible -->
+    <div class="footer-col brand-col">
+      <a href="{{ '/' | relative_url }}" class="footer-logo">
+        <img src="{{ business.logo | relative_url }}" alt="{{ business.display_name }}" width="48" height="48">
+        <span class="brand-name">{{ business.display_name }}</span>
+      </a>
+      <p class="brand-tagline">{{ site.description }}</p>
+      <address class="business-address">
+        <p><strong>Địa chỉ:</strong> {{ business.address.full }}</p>
+        <p><strong>Điện thoại:</strong> <a href="{{ business.contact.phone_uri }}">{{ business.contact.phone }}</a></p>
+        <p><strong>Email:</strong> <a href="mailto:{{ business.contact.email }}">{{ business.contact.email }}</a></p>
+        <p><strong>Giờ hoạt động:</strong> {{ business.hours }}</p>
+      </address>
+      <div class="social-links">
+        <a href="{{ business.contact.zalo }}" target="_blank" rel="noopener noreferrer" class="social-link">
+          {% include icon.html name="message" size="18" %}
+          <span>Zalo</span>
+        </a>
+        <a href="{{ business.contact.whatsapp }}" target="_blank" rel="noopener noreferrer" class="social-link">
+          {% include icon.html name="whatsapp" size="18" %}
+          <span>WhatsApp</span>
+        </a>
+        <a href="{{ business.contact.maps }}" target="_blank" rel="noopener noreferrer" class="social-link">
+          {% include icon.html name="map-pin" size="18" %}
+          <span>Google Maps</span>
+        </a>
       </div>
-    </details>
+    </div>
+
+    <!-- Footer Grid with Independent Accordion Groups -->
+    <div class="footer-grid">
+      {% for section in nav %}
+      {% if section.title != "NGUYỄN TÚ" %}
+      <details class="footer-section">
+        <summary class="footer-section-summary">
+          <span class="footer-section-title">{{ section.title }}</span>
+          <span class="footer-section-chevron" aria-hidden="true">
+            {% include icon.html name="chevron-down" size="18" %}
+          </span>
+        </summary>
+        <ul class="footer-links">
+          {% for link in section.links %}
+          <li>
+            <a 
+              {% if link.external %}
+                href="{{ link.url }}"
+                target="_blank" rel="noopener noreferrer"
+              {% else %}
+                href="{{ link.url | relative_url }}"
+              {% endif %}
+            >
+              {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
+              {{ link.name }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </details>
+      {% else %}
+      <!-- NGUYỄN TÚ section - render as normal column -->
+      <div class="footer-col">
+        <h4>{{ section.title }}</h4>
+        <ul class="footer-links">
+          {% for link in section.links %}
+          <li>
+            <a 
+              {% if link.external %}
+                href="{{ link.url }}"
+                target="_blank" rel="noopener noreferrer"
+              {% else %}
+                href="{{ link.url | relative_url }}"
+              {% endif %}
+            >
+              {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
+              {{ link.name }}
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {{ site.time | date: '%Y' }} {{ business.display_name }}.</p>
+    </div>
   </div>
 </footer>
