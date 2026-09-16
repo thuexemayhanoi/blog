@@ -36,7 +36,7 @@
     <div class="footer-grid">
       {% for section in nav %}
       {% if section.title != "NGUYỄN TÚ" %}
-      <details class="footer-section">
+      <details class="footer-section" open>
         <summary class="footer-section-summary">
           <span class="footer-section-title">{{ section.title }}</span>
           <span class="footer-section-chevron" aria-hidden="true">
@@ -61,29 +61,6 @@
           {% endfor %}
         </ul>
       </details>
-      {% else %}
-      <!-- NGUYỄN TÚ section - render as normal column -->
-      <div class="footer-col">
-        <h4>{{ section.title }}</h4>
-        <ul class="footer-links">
-          {% for link in section.links %}
-          <li>
-            <a 
-              {% if link.external %}
-                href="{{ link.url }}"
-                target="_blank" rel="noopener noreferrer"
-              {% else %}
-                href="{{ link.url | relative_url }}"
-              {% endif %}
-            >
-              {% if link.icon %}{% include icon.html name=link.icon size="16" %}{% endif %}
-              {{ link.name }}
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      {% endif %}
       {% endfor %}
     </div>
 
