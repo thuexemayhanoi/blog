@@ -4,7 +4,7 @@ title: "{{ site.title }}"
 description: "{{ site.description }}"
 ---
 
-{% assign vi_posts = vi_posts | where: "lang", "vi" %}
+{% assign vi_posts = site.posts | where: "lang", "vi" %}
 
 {% assign business = site.data.business %}
 {% assign pricing = site.data.pricing %}
@@ -45,15 +45,15 @@ description: "{{ site.description }}"
     <div class="intro-features">
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
-        <span class="feature-text">Xe chất lượng</span>
+        <span class="feature-text">Nhiều loại xe</span>
       </div>
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
-        <span class="feature-text">Giá cả minh bạch</span>
+        <span class="feature-text">Giá và điều kiện được xác nhận trước khi đặt</span>
       </div>
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
-        <span class="feature-text">Giao nhận tận nơi</span>
+        <span class="feature-text">Có hỗ trợ giao nhận theo khu vực</span>
       </div>
       <div class="intro-feature">
         {% include icon.html name="sparkles" size="18" class="feature-icon" %}
@@ -119,8 +119,7 @@ description: "{{ site.description }}"
     
     <div class="categories-grid">
       {% assign nav = site.data.navigation.main %}
-      {% for item in
- nav %}
+      {% for item in nav %}
         {% if item.id == 'blog' %}
           {% for child in item.children %}
           <a href="{{ child.url | relative_url }}" class="category-card glass-card">
@@ -183,16 +182,15 @@ description: "{{ site.description }}"
 <!-- About Nguyen Tu -->
 <section class="section about-section bg-light">
   <div class="container">
-    <h2>Giới thiệu {{ business.brand }}
-</h2>
+    <h2>Giới thiệu {{ business.brand }}</h2>
     <div class="about-content">
       <div class="about-text">
         <p><strong>{{ business.display_name }}</strong> là đơn vị cung cấp dịch vụ thuê xe máy uy tín tại Hà Nội. Với sự tận tâm và chuyên nghiệp, chúng tôi luôn đặt lợi ích của khách hàng lên hàng đầu.</p>
-        <p>Chúng tôi cam kết:</p>
+        <p>Thông tin cần biết khi thuê xe:</p>
         <ul class="commitments">
-          <li>Cung cấp xe chất lượng, được bảo dưỡng định kỳ</li>
-          <li>Giá cả minh bạch, không phát sinh phí ẩn</li>
-          <li>Giao xe tận nơi theo yêu cầu</li>
+          <li>Nhiều loại xe để lựa chọn</li>
+          <li>Giá và điều kiện thuê được xác nhận trước khi đặt xe</li>
+          <li>Có hỗ trợ giao nhận theo khu vực; thời gian và chi phí giao nhận cần xác nhận trước. Không giao xe máy ngoài giờ hoạt động.</li>
         </ul>
       </div>
       
