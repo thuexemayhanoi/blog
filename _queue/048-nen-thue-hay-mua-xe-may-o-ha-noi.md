@@ -36,7 +36,7 @@ Với xe thuê, cửa hàng chịu trách nhiệm bảo dưỡng định kỳ to
 
 Mua xe mới hoặc cũ đều cần làm giấy tờ, chốt giá, kiểm tra tình trạng xe nếu mua xe cũ, và thời gian đầu tiên bạn phải tự làm quen với chiếc xe đó. Thuê xe thì thủ tục gọn hơn nhiều: đến cửa hàng trong giờ làm việc, chọn dòng xe phù hợp, để lại giấy tờ hoặc đặt cọc theo quy định của cửa hàng, nhận xe và bắt đầu đi. Khi trả xe, bạn nhận lại giấy tờ hoặc tiền cọc sau khi hai bên cùng kiểm tra hiện trạng xe.
 
-Về đặt cọc khi thuê, mức phổ biến dao động từ một đến ba triệu đồng tùy dòng xe và thời gian thuê, kèm theo việc để lại một giấy tờ tùy thân. Đây là khoản bạn nhận lại đầy đủ khi trả xe đúng hiện trạng, nên hãy hỏi rõ điều kiện nhận lại cọc trước khi ký nhận xe. Những chi tiết này nên được hỏi thẳng tại quầy để tránh hiểu nhầm sau này.
+Về đặt cọc khi thuê, mức phổ biến dao động từ hai đến năm triệu đồng tùy dòng xe và thời gian thuê, kèm theo việc để lại một giấy tờ tùy thân. Đây là khoản bạn nhận lại đầy đủ khi trả xe đúng hiện trạng, nên hãy hỏi rõ điều kiện nhận lại cọc trước khi ký nhận xe. Những chi tiết này nên được hỏi thẳng tại quầy để tránh hiểu nhầm sau này.
 
 Nếu bạn ở Hà Nội dưới vài tháng, phần giấy tờ và thủ tục của việc mua xe thường không đáng để đổi lấy khoản tiết kiệm so với thuê. Ngược lại, nếu bạn định cư dài hạn, sắm một chiếc xe riêng sẽ dần rẻ hơn thuê theo thời gian, vì chi phí thuê cộng dồn qua nhiều tháng sẽ vượt qua khoản đầu tư ban đầu.
 

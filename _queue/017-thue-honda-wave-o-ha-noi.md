@@ -66,7 +66,7 @@ Vài mẹo nhỏ cho Wave trong phố: về số thấp sớm khi vào cua hẹp
 
 ## Giấy tờ khi thuê Wave
 
-Wave là xe số trên 50cc, vì vậy người thuê cần giấy phép lái xe hợp lệ, bên cạnh CCCD hoặc hộ chiếu và đủ 18 tuổi. Khách nước ngoài lưu ý về giấy phép lái xe quốc tế và quy định chuyển đổi, chi tiết đã có trong bài viết về thuê xe cho người nước ngoài. Mức đặt cọc tham khảo từ 1.000.000đ đến 3.000.000đ tùy dòng xe, được hoàn khi trả xe đúng tình trạng.
+Wave là xe số trên 50cc, vì vậy người thuê cần giấy phép lái xe hợp lệ, bên cạnh CCCD hoặc hộ chiếu và đủ 18 tuổi. Khách nước ngoài lưu ý về giấy phép lái xe quốc tế và quy định chuyển đổi, chi tiết đã có trong bài viết về thuê xe cho người nước ngoài. Mức đặt cọc tham khảo từ 2.000.000đ đến 5.000.000đ tùy dòng xe, được hoàn khi trả xe đúng tình trạng.
 
 Nếu bạn muốn xem các dòng xe số khác hoặc so sánh chi tiết giá theo tuần, tháng, trang [bảng giá thuê xe số]( {{ '/bang-gia-xe-so/' | relative_url }} ) có thông tin đầy đủ.
 

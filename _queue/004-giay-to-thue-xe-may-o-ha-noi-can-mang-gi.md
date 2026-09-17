@@ -42,7 +42,7 @@ Với khách nước ngoài, giấy phép lái xe quốc tế (IDP) chỉ đư�
 
 ## Tiền đặt cọc khi nhận xe
 
-Bên cạnh giấy tờ, hầu hết hợp đồng thuê xe đều kèm tiền đặt cọc. Mức tham khảo phổ biến từ 1.000.000 đến 3.000.000 đồng tùy loại xe và thời gian thuê, và mức chính xác luôn được xác nhận trực tiếp trước khi đặt xe. Một số cửa hàng giữ kèm giấy tờ tùy thân thay cho tiền cọc, nhưng cách an toàn và phổ biến hơn vẫn là cọc bằng tiền để bạn giữ hết giấy tờ của mình. Bạn có thể đọc chi tiết hơn trong bài về tiền đặt cọc khi thuê xe máy để biết các hình thức cọc và cách bảo vệ quyền lợi của mình.
+Bên cạnh giấy tờ, hầu hết hợp đồng thuê xe đều kèm tiền đặt cọc. Mức tham khảo phổ biến từ 2.000.000 đến 5.000.000 đồng tùy loại xe và thời gian thuê, và mức chính xác luôn được xác nhận trực tiếp trước khi đặt xe. Một số cửa hàng giữ kèm giấy tờ tùy thân thay cho tiền cọc, nhưng cách an toàn và phổ biến hơn vẫn là cọc bằng tiền để bạn giữ hết giấy tờ của mình. Bạn có thể đọc chi tiết hơn trong bài về tiền đặt cọc khi thuê xe máy để biết các hình thức cọc và cách bảo vệ quyền lợi của mình.
 
 ## Nên chuẩn bị gì trước khi đến cửa hàng
 
