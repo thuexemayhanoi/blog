@@ -50,7 +50,7 @@ Mưa lớn là tình huống thử thách nhất cho mọi phương án di chuy�
 
 Đi xe công nghệ, bạn là hành khách, rủi ro điều khiển thuộc về người lái. Tự lái, an toàn của bạn phụ thuộc vào kỹ năng, tình trạng xe và ý thức giao thông. Với người mới đến Hà Nội, chưa quen mật độ giao thông dày đặc, vài tuần đầu đi xe công nghệ để quan sát dòng xe cũng là cách làm khôn ngoan, sau đó mới chuyển sang thuê tự lái khi đã quen mặt đường.
 
-Nếu chọn thuê tự lái, hãy kiểm tra kỹ xe khi nhận: phanh, đèn, còi, gương, áp suất lốp. Mũ bảo hiểm luôn được kèm theo khi thuê. Với xe trên 50cc, người lái cần có giấy phép lái xe hợp lệ, kể cả người Việt và khách nước ngoài. Và hãy nhớ rằng bảo hiểm thương mại cho người ngồi trên xe không được cửa hàng cung cấp, bạn cần tự chuẩn bị nếu muốn có lớp bảo vệ này.
+Nếu chọn thuê tự lái, hãy kiểm tra kỹ xe khi nhận: phanh, đèn, còi, gương, áp suất lốp. Hỏi trước về mũ bảo hiểm khi thuê. Với xe trên 50cc, người lái cần có giấy phép lái xe hợp lệ, kể cả người Việt và khách nước ngoài. Và hãy nhớ rằng bảo hiểm thương mại cho người ngồi trên xe không được cửa hàng cung cấp, bạn cần tự chuẩn bị nếu muốn có lớp bảo vệ này.
 
 ## Khi nào chọn phương án nào
 

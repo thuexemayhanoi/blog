@@ -72,7 +72,7 @@ Thêm găng tay, kính, và áo mưa theo mùa. Nếu đi nhóm, thống nhất 
 
 ## Đồ bảo hộ khi thuê xe
 
-Cửa hàng cho thuê xe máy thường có mũ bảo hiểm đi kèm xe. Khi nhận, hãy kiểm tra mũ như kiểm tra xe: quai còn chắc, lớp trong còn nguyên, không có vết nứt. Nếu mũ không đạt các điểm này, yêu cầu đổi chiếc khác; đây là yêu cầu hoàn toàn chính đáng. Nếu bạn có mũ riêng vừa cỡ, mang theo vẫn là lựa chọn tốt nhất, vì không mũ nào vừa bằng mũ bạn đã quen đeo.
+Hỏi trước xem mũ bảo hiểm có đi kèm xe không. Nếu có, hãy kiểm tra mũ như kiểm tra xe: quai còn chắc, lớp trong còn nguyên, không có vết nứt. Nếu mũ không đạt các điểm này, yêu cầu đổi chiếc khác; đây là yêu cầu hoàn toàn chính đáng. Nếu bạn có mũ riêng vừa cỡ, mang theo vẫn là lựa chọn tốt nhất, vì không mũ nào vừa bằng mũ bạn đã quen đeo.
 
 Bạn có thể hỏi trước về mũ đi kèm khi đặt xe qua Zalo hoặc điện thoại. Thông tin liên hệ của Thuê Xe Máy Hà Nội Nguyễn Tú, ở 112 Nguyễn Văn Cừ, Long Biên, có đầy đủ trên trang [liên hệ]({{ '/lien-he/' | relative_url }}), cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày.
 

@@ -69,7 +69,7 @@ Kiểm tra mức xăng qua kim hoặc đèn báo, và hỏi rõ nguyên tắc tr
 
 Với xe số, nhìn dây xích: không bị khô dầu trầm trọng, không chùng quá mức. Khi chạy thử, nghe xem xích có tiếng lạch cạch rõ rệt không. Phuộc ga và bàn đạp phải hoạt động mượt, không bị kẹt nửa chừng. Vòng xoay tay ga phải trả về vị trí ban đầu ngay khi buông tay.
 
-Khoang để chân và cốp xe: mở cốp thử, kiểm tra khóa cốp, và hỏi xem mũ bảo hiểm đi kèm xe là chiếc nào, đã được vệ sinh chưa. Mũ bảo hiểm là trang bị bắt buộc khi tham gia giao thông ở Việt Nam, nên thử đội luôn xem size vừa vặn hay không.
+Khoang để chân và cốp xe: mở cốp thử, kiểm tra khóa cốp, và hỏi xem xe có đi kèm mũ bảo hiểm không, nếu có thì là chiếc nào và đã được vệ sinh chưa. Mũ bảo hiểm là trang bị bắt buộc khi tham gia giao thông ở Việt Nam, nên thử đội luôn xem size vừa vặn hay không.
 
 ## Chạy thử một vòng ngắn
 
@@ -84,7 +84,7 @@ Phát hiện vấn đề ở vòng chạy thử, hãy yêu cầu đổi xe hoặ
 
 ## Ghi nhận vào biên bản giao nhận
 
-Sau khi kiểm tra, mọi ghi chú cần nằm trong biên bản: tình trạng ngoại thất, vết xước có sẵn, mức xăng, loại mũ bảo hiểm đi kèm, thời gian nhận và dự kiến trả. Nếu bạn đã chụp ảnh, việc lưu ảnh theo ngày trên điện thoại là bằng chứng đối chiếu tốt khi trả xe.
+Sau khi kiểm tra, mọi ghi chú cần nằm trong biên bản: tình trạng ngoại thất, vết xước có sẵn, mức xăng, mũ bảo hiểm đi kèm nếu có, thời gian nhận và dự kiến trả. Nếu bạn đã chụp ảnh, việc lưu ảnh theo ngày trên điện thoại là bằng chứng đối chiếu tốt khi trả xe.
 
 Cuối cùng, đọc kỹ các điều khoản trong biên bản trước khi ký, đặc biệt các khoản về phí trả muộn và trách nhiệm hư hỏng. Hỏi ngay điều gì chưa rõ. Một bản biên bản rõ ràng là nền tảng để cả hai bên yên tâm trong suốt thời gian thuê.
 

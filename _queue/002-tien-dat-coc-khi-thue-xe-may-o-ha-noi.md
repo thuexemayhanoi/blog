@@ -26,7 +26,7 @@ Tùy cửa hàng và tùy khách, việc đặt cọc thường rơi vào một 
 - Giữ giấy tờ tùy thân. Nhiều cửa hàng chấp nhận giữ CCCD hoặc hộ chiếu thay cho tiền cọc, hoặc kết hợp giữa một phần tiền và giấy tờ. Với khách quốc tế, hộ chiếu là giấy tờ thường được yêu cầu.
 - Chuyển khoản hoặc đặt cọc trước từ xa nếu bạn muốn giữ xe trước cho một mốc thời gian cụ thể.
 
-Mỗi hình thức có cái hợp lý riêng. Giữ giấy tờ giúp bạn không phải mang theo tiền lẻ lớn, nhưng cũng có nghĩa bạn cần có kế hoạch lấy lại giấy tờ đúng giờ. Cọc tiền mặt thì rõ ràng, dễ đối chiếu, nhưng bạn nên nhận giấy xác nhận hoặc ghi lại số tiền đã giao.
+Mỗi hình thức có cái hợp lý riêng. Hình thức cọc bằng giấy tờ giúp bạn không phải mang theo tiền lẻ lớn, nhưng cũng đòi hỏi kế hoạch lấy lại giấy tờ đúng giờ. Cọc tiền mặt thì rõ ràng, dễ đối chiếu, nhưng bạn nên nhận giấy xác nhận hoặc ghi lại số tiền đã giao.
 
 ## Điều gì ảnh hưởng đến mức đặt cọc
 

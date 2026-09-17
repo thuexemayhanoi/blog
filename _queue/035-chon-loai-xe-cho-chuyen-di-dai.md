@@ -46,7 +46,7 @@ Một điểm hay bị bỏ qua: sự tương xứng giữa tầm vóc người 
 
 Với chuyến hai ngày trở lên, hỏi giá theo tuần thay vì cộng dồn theo ngày: phần lớn các dòng thuê tuần đều rẻ hơn đáng kể so với lũy kế ngày. Cách tính này cũng cho bạn sự chủ động lịch trình: chuyến đi kéo dài thêm một ngày vì thời tiết hoặc vì muốn ở thêm, không biến thành bài toán tính lại tiền gấp gáp.
 
-Khi đặt xe cho chuyến dài, nói rõ với cửa hàng lộ trình dự kiến và số ngày: cửa hàng sẽ chuẩn bị xe đã kiểm tra tổng thể, pha đủ nhớt và bơm đủ lốp cho chặng dài, cũng như tư vấn thêm về dòng xe hợp tuyến. Đặt xe trước qua Zalo hoặc điện thoại giúp chắc chắn có đúng dòng mình muốn vào đúng ngày cần, nhất là các dịp cuối tuần cao điểm.
+Khi đặt xe cho chuyến dài, nói rõ với cửa hàng lộ trình dự kiến và số ngày: cửa hàng sẽ chuẩn bị xe đã kiểm tra tổng thể, pha đủ nhớt và bơm đủ lốp cho chặng dài, cũng như tư vấn thêm về dòng xe hợp tuyến. Đặt xe trước qua Zalo hoặc điện thoại giúp chủ động chọn đúng dòng mình muốn vào đúng ngày cần, nhất là các dịp cuối tuần cao điểm.
 
 ## Chi phí thuê tham khảo theo dòng
 

@@ -60,7 +60,7 @@ mũ bảo hiểm.
 Việt Nam quy định giao thông bên đường bên phải, giống phần lớn châu Âu lục địa nhưng trái với Anh, Úc, Nhật hay Thái Lan. Vài quy tắc cần nhớ:
 
 - Luôn đi bên phải theo chiều mình hướng tới.
-- Mũ bảo hiểm bắt buộc với mọi người ngồi trên xe, và mũ bảo hiểm luôn đi kèm xe khi nhận.
+- Mũ bảo hiểm bắt buộc với mọi người ngồi trên xe; hãy hỏi trước khi nhận xe để biết trang bị nào đi kèm.
 - Không sử dụng điện thoại khi đang lái xe.
 - Tốc độ trong khu đô thị bị giới hạn ở mức thấp, và với giao thông Hà Nội, tốc độ thực tế của dòng xe thường đã ở mức an toàn.
 

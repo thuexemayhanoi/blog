@@ -48,7 +48,7 @@ Thủ tục thuê xe ở cửa hàng không phức tạp nhưng bắt buộc có
 
 ## An toàn khi di chuyển giờ cao điểm
 
-Giờ tan học ở Hà Nội, đặc biệt khu vực các trường đại học quanh đường Giải Phóng, Nhân Văn, Trần Đại Nghĩa hoặc các cổng trường trên địa bàn Long Biên, Gia Lâm, mật độ xe tăng vọt. Ba nguyên tắc cần nhớ: giữ khoảng cách an toàn với xe phía trước, không vượt phải trong đoạn ngã tư, và luôn mặc mũ bảo hiểm đạt chuẩn. Mũ bảo hiểm được cửa hàng kèm theo khi nhận xe, nhưng nếu bạn đi học hàng ngày, đầu tư một mũ vừa đầu mình sẽ thoải mái và an toàn hơn.
+Giờ tan học ở Hà Nội, đặc biệt khu vực các trường đại học quanh đường Giải Phóng, Nhân Văn, Trần Đại Nghĩa hoặc các cổng trường trên địa bàn Long Biên, Gia Lâm, mật độ xe tăng vọt. Ba nguyên tắc cần nhớ: giữ khoảng cách an toàn với xe phía trước, không vượt phải trong đoạn ngã tư, và luôn mặc mũ bảo hiểm đạt chuẩn. Hỏi trước về mũ bảo hiểm khi nhận xe; nếu bạn đi học hàng ngày, đầu tư một mũ vừa đầu mình sẽ thoải mái và an toàn hơn.
 
 Trời mưa bất chợt là tình huống sinh viên hay gặp nhất. Nên để sẵn áo mưa mỏng gọn trong cốp, hạ tốc độ, tránh phanh gấp trên vệt bánh xe cũ đang ướt. Khi đường ngập, không cố chạy qua đoạn nước sâu vì nước vào máy xe thuê có thể gây hư hỏng phải bồi thường.
 

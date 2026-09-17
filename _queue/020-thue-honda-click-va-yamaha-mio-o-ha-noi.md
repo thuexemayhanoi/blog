@@ -64,7 +64,7 @@ Về bảo quản khi thuê dài ngày: kiểm tra lốp, đèn và phanh theo t
 
 Thủ tục thuê hai dòng xe này không khác các dòng khác: mang theo giấy tờ tùy thân, kiểm tra xe cùng người giao xe, ghi nhận tình trạng xăng và các vết trầy sẵn có, sau đó ký biên bản và nhận chìa khóa. Cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày, không giao xe ngoài giờ hoạt động, nên hãy sắp xếp giờ nhận và trả xe trong khung này.
 
-Nếu bạn muốn chắc chắn có xe đúng đời xe mong muốn, đặc biệt vào mùa cao điểm du lịch hoặc cuối tuần, hãy đặt trước qua điện thoại hoặc Zalo một vài ngày. Khi đặt trước, cung cấp sẵn thông tin loại xe, thời gian thuê và giờ nhận xe dự kiến để cửa hàng chuẩn bị. Cách đặt xe chi tiết từng bước đã được hướng dẫn trong bài viết về đặt xe máy trước từ xa.
+Nếu bạn muốn chủ động chọn đúng đời xe mong muốn, đặc biệt vào mùa cao điểm du lịch hoặc cuối tuần, hãy đặt trước qua điện thoại hoặc Zalo một vài ngày. Khi đặt trước, cung cấp sẵn thông tin loại xe, thời gian thuê và giờ nhận xe dự kiến để cửa hàng chuẩn bị. Cách đặt xe chi tiết từng bước đã được hướng dẫn trong bài viết về đặt xe máy trước từ xa.
 
 ## Tóm lại
 

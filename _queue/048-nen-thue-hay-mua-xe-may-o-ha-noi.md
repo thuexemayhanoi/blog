@@ -34,9 +34,9 @@ Với xe thuê, cửa hàng chịu trách nhiệm bảo dưỡng định kỳ to
 
 ## Thủ tục nhanh hay chậm
 
-Mua xe mới hoặc cũ đều cần làm giấy tờ, chốt giá, kiểm tra tình trạng xe nếu mua xe cũ, và thời gian đầu tiên bạn phải tự làm quen với chiếc xe đó. Thuê xe thì thủ tục gọn hơn nhiều: đến cửa hàng trong giờ làm việc, chọn dòng xe phù hợp, để lại giấy tờ hoặc đặt cọc theo quy định của cửa hàng, nhận xe và bắt đầu đi. Khi trả xe, bạn nhận lại giấy tờ hoặc tiền cọc sau khi hai bên cùng kiểm tra hiện trạng xe.
+Mua xe mới hoặc cũ đều cần làm giấy tờ, chốt giá, kiểm tra tình trạng xe nếu mua xe cũ, và thời gian đầu tiên bạn phải tự làm quen với chiếc xe đó. Thuê xe thì thủ tục gọn hơn nhiều: đến cửa hàng trong giờ làm việc, chọn dòng xe phù hợp, đặt cọc theo quy định của cửa hàng, nhận xe và bắt đầu đi. Khi trả xe, bạn nhận lại tiền cọc sau khi hai bên cùng kiểm tra hiện trạng xe.
 
-Về đặt cọc khi thuê, mức phổ biến dao động từ hai đến năm triệu đồng tùy dòng xe và thời gian thuê, kèm theo việc để lại một giấy tờ tùy thân. Đây là khoản bạn nhận lại đầy đủ khi trả xe đúng hiện trạng, nên hãy hỏi rõ điều kiện nhận lại cọc trước khi ký nhận xe. Những chi tiết này nên được hỏi thẳng tại quầy để tránh hiểu nhầm sau này.
+Về đặt cọc khi thuê, mức phổ biến dao động từ hai đến năm triệu đồng tùy dòng xe và thời gian thuê, và mức chính xác được xác nhận trực tiếp với cửa hàng. Đây là khoản bạn nhận lại đầy đủ khi trả xe đúng hiện trạng, nên hãy hỏi rõ điều kiện nhận lại cọc trước khi ký nhận xe. Những chi tiết này nên được hỏi thẳng tại quầy để tránh hiểu nhầm sau này.
 
 Nếu bạn ở Hà Nội dưới vài tháng, phần giấy tờ và thủ tục của việc mua xe thường không đáng để đổi lấy khoản tiết kiệm so với thuê. Ngược lại, nếu bạn định cư dài hạn, sắm một chiếc xe riêng sẽ dần rẻ hơn thuê theo thời gian, vì chi phí thuê cộng dồn qua nhiều tháng sẽ vượt qua khoản đầu tư ban đầu.
 
@@ -48,7 +48,7 @@ Một lợi ích ít được nhắc đến của việc thuê: bạn luôn đi 
 
 ## Những chi phí ẩn cần nhớ
 
-Dù thuê hay mua, hãy tính cả các chi phí quanh xe: nón bảo hiểm đạt chuẩn cho mình và người đi cùng, áo mưa cho mùa hạ đổ mưa bất chợt, tiền gửi xe khi dừng ở khu vực trung tâm, và phần xăng hoặc điện nạp trong từng ngày. Với xe thuê, các chi phí nhiên liệu trong thời gian thuê thường do khách chi trả, còn nón bảo hiểm thường được cửa hàng hỗ trợ sẵn, bạn nên hỏi trước khi nhận xe để biết chính xác những gì đi kèm.
+Dù thuê hay mua, hãy tính cả các chi phí quanh xe: nón bảo hiểm đạt chuẩn cho mình và người đi cùng, áo mưa cho mùa hạ đổ mưa bất chợt, tiền gửi xe khi dừng ở khu vực trung tâm, và phần xăng hoặc điện nạp trong từng ngày. Với xe thuê, các chi phí nhiên liệu trong thời gian thuê thường do khách chi trả, còn nón bảo hiểm, bạn nên hỏi trước khi nhận xe để biết chính xác những gì đi kèm.
 
 Mùa đông Hà Nội lạnh, tay lái sớm muộn cũng sờ vào kim loại buốt giá; găng tay xe máy là khoản đầu tư nhỏ nhưng hữu ích cho cả người thuê lẫn người mua. Đi đường trường, một chiếc ba lô nhẹ đeo vững còn hơn vali cồng kềnh buộc sau yên, chi tiết này ảnh hưởng đến sự cân bằng của xe nhiều hơn ta tưởng.
 
