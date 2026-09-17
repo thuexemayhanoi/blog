@@ -70,6 +70,8 @@ Nếu chưa tự tin, hãy luyện vòng quanh khu vực vắng xe gần nơi nh
 
 Trong khu phố cổ và quanh Hồ Gươm, nhiều đoạn đường đi bộ hoặc hạn chế xe vào một số khung giờ cuối tuần. Hãy để ý biển báo và chuẩn bị phương án gửi xe rồi đi bộ: các bãi gửi xe ở Hà Nội rất phổ biến và rẻ. Bạn có thể đọc thêm kinh nghiệm gửi xe ở Hà Nội để biết các hình thức gửi phổ biến và lưu ý khi dùng bãi gửi tự phục vụ.
 
+Gửi xe ở Hà Nội có một khác biệt nhỏ so với nhiều nước: hầu hết bãi gửi giao xe bằng chìa khóa trực tiếp thay vì thẻ từ, nên hãy nhớ lấy đủ chìa khi rời bãi. Giá gửi thường được niêm yết ngay tại đầu bãi, bạn nên chuẩn bị tiền lẻ. Ở khu phố cổ, nhiều đoạn đường cấm xe máy theo giờ hoặc biến thành đường đi bộ vào cuối tuần, nên hãy canh giờ và tuyến đường kỹ trước khi di chuyển vào vùng lõi. Nếu không chắc khu vực nào được phép vào, cứ đỗ xe ở bãi ngoài rìa và đi bộ vào, vừa an toàn vừa khỏi lo bị nhắc nhở.
+
 ## Bảo hiểm và sức khỏe khi di chuyển
 
 Một điểm đáng lưu ý cho khách quốc tế: bảo hiểm cho người thuê xe không do cửa hàng cung cấp, bạn nên tự cân nhắc mua bảo hiểm du lịch hoặc bảo hiểm tai nạn phù hợp trước khi sử dụng dịch vụ. Mang theo số điện thoại khẩn cấp của đại sứ quán hoặc công ty bảo hiểm, và lưu số điện thoại cửa hàng để liên hệ khi cần hỗ trợ về xe.
@@ -84,5 +86,4 @@ Thời gian hoạt động của cửa hàng từ 09:00 đến 21:00 hàng ngày
 
 ## Tóm lại
 
-Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({
-% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi lên đường.
+Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi lên đường.

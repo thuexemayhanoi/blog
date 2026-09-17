@@ -44,7 +44,9 @@ Sau cuộc gọi, nên gửi thêm một tin nhắn Zalo tóm tắt nội dung �
 
 Danh sách kiểm tra ngắn trước khi đồng ý đặt: giá thuê theo đúng thời gian mình chọn, mức đặt cọc và hình thức hoàn cọc, giấy tờ bắt buộc mang theo, chính sách về xăng khi nhận và khi trả, quy định về giờ trả xe trễ, và nếu cần giao xe đến địa chỉ thì khu vực nào được nhận, thời gian nhận trong giờ mở cửa cùng chi phí phát sinh nếu có. Những câu hỏi này đều được giải đáp trước khi bạn đưa ra bất kỳ khoản tiền nào.
 
-Đặc biệt lưu ý hai điểm về giờ. Thứ nhất, cửa hàng mở cửa 09:00 đến 21:00 hằng ngày, mọi lịch nhận và trả xe đều nằm trong khung này, nên nếu chuyến bay của bạn hạ cánh trước 09:00, hãy tính phương án di chuyển trước rồi đến cửa hàng sau giờ mở cửa. Thứ hai, trả xe trễ được tính phát sinh theo mức tham khảo 20.000đ mỗi giờ và quá sáu tiếng tính thêm một ngày thuê khoảng 150.000đ đến 200.000đ tùy dòng xe, vì vậy hãy hỏi rõ và đặt lịch trả xe có khoảng dư.
+Đặc biệt lưu ý hai điểm về giờ. Thứ nhất, cửa hàng mở cửa 09:00 đến 21:00 hằng ngày, mọi lịch nhận và trả xe đều nằm trong khung này, nên nếu chuyến bay của bạn hạ cánh trước 09:00, hãy tính phương án di chuyển trước rồi đến cửa hàng sau giờ mở cửa. Thứ hai, trả xe trễ có thể phát sinh phí theo mức được thỏa thuận khi nhận xe, và quá sáu tiếng có thể tính thêm một ngày thuê khoảng 150.000đ đến 200.000đ tùy dòng xe, vì vậy hãy hỏi rõ và đặt lịch trả xe có khoảng dư.
+
+Đặt lịch trả xe dư thêm ba mươi phút so với dự kiến cũng là cách nhẹ nhàng để tránh mọi khoản phát sinh do kẹt xe trên đường về.
 
 ## Đặt hộ và đặt cho nhóm đi nhiều người
 

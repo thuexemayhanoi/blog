@@ -36,7 +36,7 @@ Sinh viên nữ thường chuộng xe ga vì yên thấp, chân chống dễ ch�
 
 ## Chi phí thuê tham khảo và các khoản đi kèm
 
-Ngoài tiền thuê, sinh viên cần dự trù thêm: tiền xăng tùy quãng đường, tiền gửi xe ở bãi trường và khu vực đi qua, tiền đặt cọc khi nhận xe. Mức đặt cọc tham khảo dao động từ 2.000.000đ đến 5.000.000đ tùy loại xe và được hoàn lại khi trả xe đúng tình trạng. Khoản cọc này đôi khi là rào cản lớn nhất với sinh viên, vì vậy hãy hỏi rõ trước mức cọc của từng loại xe để chuẩn bị, hoặc cân nhắc chọn dòng xe có mức cọc thấp hơn nếu ngân sách hạn chế.
+Ngoài tiền thuê, sinh viên cần dự trù thêm: tiền xăng tùy quãng đường, tiền gửi xe ở bãi trường và khu vực đi qua, tiền đặt cọc khi nhận xe. Mức đặt cọc tham khảo dao động từ 1.000.000đ đến 3.000.000đ tùy loại xe và được hoàn lại khi trả xe đúng tình trạng. Khoản cọc này đôi khi là rào cản lớn nhất với sinh viên, vì vậy hãy hỏi rõ trước mức cọc của từng loại xe để chuẩn bị, hoặc cân nhắc chọn dòng xe có mức cọc thấp hơn nếu ngân sách hạn chế.
 
 Một kinh nghiệm nhỏ: giữ lại biên nhận hoặc tin nhắn xác nhận việc thuê, chụp lại tình trạng xe khi nhận để có căn cứ so sánh khi trả. Chi tiết về quy trình nhận và trả xe đã được tổng hợp trong mục [kinh nghiệm thuê xe máy]( {{ '/kinh-nghiem/' | relative_url }} ) trên trang.
 

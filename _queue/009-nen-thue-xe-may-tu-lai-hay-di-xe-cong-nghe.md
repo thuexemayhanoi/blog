@@ -44,6 +44,8 @@ Mưa to, nắng gắt là lúc sự khác biệt rõ nhất. Đi xe công nghệ
 
 Về sự cố: xe công nghệ hỏng giữa đường là trách nhiệm của tài xế và nền tảng. Xe thuê tự lái hỏng giữa đường, bạn cần liên hệ cửa hàng để được hướng dẫn xử lý, không tự tháo sửa. Đây cũng là lý do nên thuê ở nơi có kênh liên hệ rõ ràng. Nếu muốn tìm hiểu thêm về cách hoạt động của cửa hàng, trang [giới thiệu]( {{ '/gioi-thieu/' | relative_url }} ) có thông tin chi tiết.
 
+Mưa lớn là tình huống thử thách nhất cho mọi phương án di chuyển. Xe công nghệ hiếm khi gọi được ngay khi mưa to, còn đi xe máy trong mưa đòi hỏi áo mưa và sự cẩn trọng. Nếu lịch trình của bạn dày đặc và rơi vào mùa mưa, hãy chừa sẵn khoảng dư ba mươi phút cho mỗi chặng quan trọng. Với những ngày nắng gắt giữa hè, xe máy có lợi thế cơ động nhưng bạn cần chuẩn bị kem chống nắng và uống đủ nước khi di chuyển xa. Lên kế hoạch di chuyển sớm buổi sáng hoặc sau bốn giờ chiều cũng là cách tránh được cái nóng gay gắt nhất trong ngày.
+
 ## An toàn và trách nhiệm
 
 Đi xe công nghệ, bạn là hành khách, rủi ro điều khiển thuộc về người lái. Tự lái, an toàn của bạn phụ thuộc vào kỹ năng, tình trạng xe và ý thức giao thông. Với người mới đến Hà Nội, chưa quen mật độ giao thông dày đặc, vài tuần đầu đi xe công nghệ để quan sát dòng xe cũng là cách làm khôn ngoan, sau đó mới chuyển sang thuê tự lái khi đã quen mặt đường.
