@@ -26,7 +26,8 @@ Với khách nước ngoài, giấy tờ xác minh danh tính bắt buộc là h
 
 Đây là điểm quan trọng nhất khách quốc tế cần nắm: theo quy định giao thông của Việt Nam, điều khiển xe máy trên 50cc yêu cầu giấy phép lái xe phù hợp. Với khách nước ngoài:
 
-- Nếu bạn có giấy phép lái xe quốc tế (IDP): IDP chỉ có hiệu lực khi quốc gia cấp phép và Việt Nam cùng tham gia công ước tương ứng, và bạn phải mang kèm giấy phép lái quốc gia gốc. Hãy kiểm tra kỹ xem IDP của mình có được công nhận tại Việt Nam hay không trước chuyến đi.
+- Nếu bạn có giấy phép lái xe quốc tế (IDP): IDP chỉ có hiệu lực khi quốc gia cấp phép và Việt Nam cùng tham gia công ước tương ứng, và bạn phải mang kèm giấy phép lái quốc gia gốc. Hãy kiểm tra kỹ xem IDP của mình có được công nhận tại Việt Nam hay không t
+rước chuyến đi.
 - Nếu bạn có giấy phép lái xe do Việt Nam cấp (khả thi với expat cư trú lâu dài): giấy phép này sử dụng bình thường.
 - Nếu không có giấy phép lái hiệu lực tại Việt Nam: nhóm xe 50cc là lựa chọn phù hợp, vì dòng xe này không yêu cầu giấy phép lái theo quy định hiện hành, miễn là bạn đủ tự tin với kỹ năng lái của mình.
 
@@ -51,7 +52,8 @@ Giao thông Hà Nội có vài đặc điểm cần làm quen trong ngày đầu
 - Đèn đỏ vẫn có người rẽ phải hoặc luồn lách: quan sát tổng thể thay vì chỉ tin tín hiệu đèn.
 - Người đi bộ băng đường khá phổ biến: giảm tốc trong khu đông người, đặc biệt khu phố cổ và quanh chợ.
 
-Nguyên tắc an toàn số một cho khách mới: giữ tốc độ thấp, đi theo dòng xe, không cố vượt, và luôn đội mũ bảo hiểm.
+Nguyên tắc an toàn số một cho khách mới: giữ tốc độ thấp, đi theo dòng xe, không cố vượt, và luôn đội 
+mũ bảo hiểm.
 
 ## Đi bên đường nào và những quy tắc cơ bản
 
@@ -68,6 +70,12 @@ Nếu chưa tự tin, hãy luyện vòng quanh khu vực vắng xe gần nơi nh
 
 Trong khu phố cổ và quanh Hồ Gươm, nhiều đoạn đường đi bộ hoặc hạn chế xe vào một số khung giờ cuối tuần. Hãy để ý biển báo và chuẩn bị phương án gửi xe rồi đi bộ: các bãi gửi xe ở Hà Nội rất phổ biến và rẻ. Bạn có thể đọc thêm kinh nghiệm gửi xe ở Hà Nội để biết các hình thức gửi phổ biến và lưu ý khi dùng bãi gửi tự phục vụ.
 
+## Bảo hiểm và sức khỏe khi di chuyển
+
+Một điểm đáng lưu ý cho khách quốc tế: bảo hiểm cho người thuê xe không do cửa hàng cung cấp, bạn nên tự cân nhắc mua bảo hiểm du lịch hoặc bảo hiểm tai nạn phù hợp trước khi sử dụng dịch vụ. Mang theo số điện thoại khẩn cấp của đại sứ quán hoặc công ty bảo hiểm, và lưu số điện thoại cửa hàng để liên hệ khi cần hỗ trợ về xe.
+
+Nếu bạn định đi cùng người ngồi sau, hãy chắc chắn người đó cũng đội mũ bảo hiểm và thống nhất trước các tín hiệu đơn giản khi cần dừng hoặc rẽ. Sự phối hợp nhịp nhàng giữa hai người trên xe giúp tránh phần lớn các tình huống mất thăng bằng ở tốc độ thấp.
+
 ## Liên hệ và hỗ trợ trong thời gian thuê
 
 Trước và trong suốt thời gian thuê, bạn có thể liên hệ cửa hàng qua điện thoại, Zalo hoặc WhatsApp để hỏi tình trạng xe, giá hiện hành hoặc được hỗ trợ khi cần. Mọi thắc mắc về giấy tờ và điều kiện thuê đều được xác nhận trực tiếp trước khi bạn đặt xe, và thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}).
@@ -76,4 +84,5 @@ Thời gian hoạt động của cửa hàng từ 09:00 đến 21:00 hàng ngày
 
 ## Tóm lại
 
-Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi lên đường.
+Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({
+% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi lên đường.

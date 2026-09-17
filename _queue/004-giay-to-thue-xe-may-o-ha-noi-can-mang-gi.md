@@ -26,7 +26,8 @@ Thẻ căn cước gắn chip cũng được dùng như CCCD thường. Điều 
 
 ## Giấy tờ với khách nước ngoài
 
-Khách quốc tế đến Hà Nội cần mang hộ chiếu gốc còn hiệu lực, kể cả khi chỉ thuê xe trong một ngày. Hộ chiếu là căn cứ xác minh danh tính phổ biến nhất với khách nước ngoài. Ngoài hộ chiếu, bạn nên chuẩn bị sẵn thông tin nơi lưu trú tại Hà Nội vì một số cửa hàng sẽ hỏi để ghi vào biên bản.
+Khách quốc tế đến Hà Nội cần mang hộ chiếu gốc còn hiệu lực, kể cả khi chỉ thuê xe trong một ngày. Hộ chiếu là căn cứ xác minh danh tính phổ biến nhất với khách nước ngoài. Ngoài hộ chiếu, bạn nên chuẩn bị sẵn thông tin nơi lưu trú tại Hà Nội vì một số cửa hàng sẽ hỏi 
+để ghi vào biên bản.
 
 Với khách nước ngoài đang sinh sống và làm việc lâu dài tại Việt Nam, thẻ tạm trú hoặc CCCD dành cho người nước ngoài cũng là giấy tờ hợp lệ để xác minh danh tính. Nếu bạn không chắc loại giấy tờ mình có được chấp nhận hay không, cứ nhắn tin hoặc gọi trước để hỏi rõ, đừng để lúc nhận xe mới phát hiện thiếu.
 
@@ -49,7 +50,8 @@ Trước khi đến nhận xe, danh sách kiểm tra nhanh gồm:
 
 1. Giấy tờ tùy thân gốc (CCCD hoặc hộ chiếu).
 2. Giấy phép lái xe còn hiệu lực nếu thuê xe trên 50cc.
-3. Tiền đặt cọc theo mức đã thỏa thuận.
+3. Tiền đặt cọc theo mức đã thỏa thu
+ận.
 4. Đã xác nhận trước giờ nhận xe trong khung hoạt động từ 09:00 đến 21:00.
 5. Đã rõ loại xe mình cần và thời gian thuê dự kiến.
 
@@ -71,7 +73,8 @@ Sau khi trả xe và hoàn tất hợp đồng, bạn có thể hỏi cửa hàn
 
 Khi thuê dài hạn theo tuần hoặc theo tháng, quy định giấy tờ không thay đổi so với thuê theo ngày: vẫn cần giấy tờ tùy thân gốc và bằng lái phù hợp. Tuy nhiên với hợp đồng dài ngày, một số cửa hàng lập biên bản chi tiết hơn về tình trạng xe ban đầu để thuận tiện khi trả xe, vì xe sử dụng lâu ngày sẽ có hao mòn tự nhiên nhiều hơn.
 
-Với trường hợp một người đặt xe cho người khác dùng, người thực tế điều khiển xe vẫn phải có đầy đủ giấy tờ và là người ký hợp đồng. Không cho người khác điều khiển xe trong thời gian thuê là một điều khoản cơ bản của mọi hợp đồng thuê xe.
+Với trường hợp một người đặt xe cho người khác dùng, người thực tế điều khiển xe vẫn phải có đầy đủ giấy tờ và là người ký hợp đồng. Không cho người khác điều khiển xe trong thời gian
+ thuê là một điều khoản cơ bản của mọi hợp đồng thuê xe.
 
 ## Tóm lại
 

@@ -31,7 +31,8 @@ Trường hợp bất khả kháng không thể trả đúng giờ:
 
 - Phí trễ được tính 20.000 đồng cho mỗi giờ muộn.
 - Nếu trễ quá 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000 đến 200.000 đồng mỗi ngày.
-- Cách tốt nhất vẫn là thông báo sớm nhất có thể: nhắn tin hoặc gọi ngay khi biết mình sẽ trễ để cửa hàng sắp xếp lịch xe và xác nhận mức phí phát sinh.
+- Cách tốt nhất vẫn là thông báo sớm nhất có thể: nhắn tin hoặc gọi ngay 
+khi biết mình sẽ trễ để cửa hàng sắp xếp lịch xe và xác nhận mức phí phát sinh.
 
 Nhiều tranh chấp phát sinh không phải do phí trễ, mà do khách trễ giờ rồi im lặng hy vọng không ai để ý. Sự minh bạch từ đầu luôn là lựa chọn ít tốn kém nhất.
 
@@ -57,7 +58,8 @@ Trường hợp xe gặp sự cố ngoài ý muốn như thủng lốp giữa đ
 
 Sau khi kiểm tra xong và không còn điểm cần làm rõ, tiền đặt cọc được hoàn trả đầy đủ theo đúng phương thức bạn đã cọc. Nếu bạn cọc bằng tiền mặt, nhận lại tiền mặt; nếu chuyển khoản, việc hoàn cũng qua chuyển khoản. Đếm hoặc kiểm tra số tiền trước khi rời cửa hàng, và giữ biên bản trả xe có xác nhận của cả hai bên.
 
-Nếu có khoản khấu trừ, yêu cầu ghi rõ lý do và mức trừ vào biên bản: vết xước ở vị trí nào, chi phí dự kiến bao nhiêu. Một biên bản hoàn chỉnh giúp bạn có căn cứ theo dõi và so sánh nếu cần.
+Nếu có khoản khấu trừ, yêu cầu ghi 
+rõ lý do và mức trừ vào biên bản: vết xước ở vị trí nào, chi phí dự kiến bao nhiêu. Một biên bản hoàn chỉnh giúp bạn có căn cứ theo dõi và so sánh nếu cần.
 
 ## Gia hạn thuê thêm
 

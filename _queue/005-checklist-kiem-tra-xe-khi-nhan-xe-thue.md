@@ -22,54 +22,54 @@ Nguyên tắc vàng: mọi thứ bạn thấy hôm nay, hãy để nó được 
 
 Đi một vòng quanh xe, quan sát từng bộ phận theo thứ tự:
 
-- Đầu xe, chắn перед, cổ trước: các vết trầy, nứt nhựa, móp méo.
+- Đầu xe, chắn trước, cổ trước: các vết trầy, nứt nhựa, móp méo.
 - Hai bên hông và tem xe: vết xước dài, chỗ sơn bong.
-- Đuôi xe, chắn sau, багаe sau: chú ý các vết cọ xát thường gặp khi đỗ xe sát nhau.
-- Yên xe: vết rách, chỗ rách chỉ đường viền.
+- Đuôi xe, chắn sau, baga sau: chú ý các vết cọ xát thường gặp khi đỗ xe sát nhau.
+- Yên xe: vết rách, chỗ bung chỉ đường viền.
 - Chân chống: thử dựng xe lên chân chính và chân phụ, kiểm tra độ chắc.
 
-Nếu phát hiện vết xước, hãy chỉ cho nhân viên cùng xem và đề nghị ghi vào biên bản. Ngày nay chụp ảnh bằng điện thoại là cách nhanh nhất: chụp tổng thể bốn phía xe và chụp cận từng chi tiết có vấn đề, kèm thời gian chụp mặc định trên máy.
+Nếu phát hiện vết xước, hãy chỉ cho nhân viên cùng xem và đề nghị ghi vào biên bản. Ngày nay chụp ảnh bằng điện thoại là cách nhanh nhất: chụp tổng thể bốn phía xe và chụp cận từng chi tiết có vấn đề, kèm thời gian chụp mặc định trên máy. Ảnh chụp ngày nhận xe là bằng chứng khách quan khó tranh cãi hơn mọi lời mô tả.
 
 ## Đèn, còi và gương
 
 Bật chìa khóa và kiểm tra lần lượt:
 
-- Đèn pha, đèn cốt, đèn xinhan trước và sau: bật từng loại, quan sát cả hai bên.
+- Đèn pha, đèn cốt, đèn xi nhan trước và sau: bật từng loại, quan sát cả hai bên.
 - Đèn phanh: bóp phanh tay và đạp phanh chân, nhờ người xem đèn sau có sáng hay tự quan sát phản chiếu.
 - Còi: bấm thử vài lần, nghe âm thanh có rõ và đều không.
 - Đồng hồ điện tử hoặc kim: kiểm tra đèn báo và kim xăng hoạt động.
 - Gương chiếu hậu: chỉnh về góc nhìn của mình, xem mặt gương có nứt, khung gương có lỏng không.
 
-Nhóm này nhanh mà quan trọng: đèn và còi là thiết bị an toàn bắt buộc khi lưu thông, và nếu hỏng giữa chừng bạn mới phát hiện thì đã ảnh hưởng chuyến đi.
+Nhóm này nhanh mà quan trọng: đèn và còi là thiết bị an toàn bắt buộc khi lưu thông, và nếu hỏng giữa chừng bạn mới phát hiện thì đã ảnh hưởng chuyến đi. Đèn xi nhan một bên chập chờn là lỗi hay gặp nhưng dễ bỏ sót nếu không bật thử đủ hai bên.
 
 ## Phanh trước và phanh sau
 
 Phanh là bộ phận cần thử kỹ nhất. Cách kiểm tra khi xe chưa lăn bánh:
 
 - Bóp phanh tay: độ cứng nên tăng dần, không bị nhũn xuống khi giữ lâu.
-- Đạp phanh chân: cảm giác đầm, không bị nhún lún.
-- Vặn nhẹ tay ga khi xe đang dựng chân chống (chỉ với xe số và ga, không tải nặng): nghe tiếng động cơ đều.
+- Đạp phanh chân: cảm giác đầm chắc, không bị nhún lún.
+- Vặn nhẹ tay ga khi xe đang dựng chân chống (chỉ với xe số và xe ga, không tải nặng): nghe tiếng động cơ đều.
 
-Sau đó, khi chạy thử, phanh nhẹ ở tốc độ thấp để cảm nhận độ ăn phanh. Xe bị đà phanh kéo lệch về một bên, tiếng rít bất thường khi phanh, hoặc cần phanh phải bóp sát tay mới có tác dụng đều là dấu hiệu cần báo ngay cho cửa hàng đổi xe hoặc kiểm tra lại trước khi nhận.
+Sau đó, khi chạy thử, phanh nhẹ ở tốc độ thấp để cảm nhận độ ăn phanh. Xe bị đà phanh kéo lệch về một bên, tiếng rít bất thường khi phanh, hoặc cần phanh phải bóp sát tay mới có tác dụng đều là dấu hiệu cần báo ngay cho cửa hàng đổi xe hoặc kiểm tra lại trước khi nhận. Đừng chấp nhận lời hứa sửa sau: mọi vấn đề an toàn nên được xử lý trước khi xe rời cửa hàng.
 
 ## Lốp và bánh xe
 
 Quan sát bốn điểm tiếp xúc duy nhất giữa xe và mặt đường:
 
 - Áp suất lốp: lốp non nhìn rõ bằng mắt thường, ấn thử mép lốp để cảm nhận độ căng. Nếu nghi ngờ, nhờ cửa hàng bơm đạt chuẩn trước khi bạn nhận xe.
-- độ mòn gai lốp: các rãnh还应 còn sâu, không bị mòn nhẵn locally.
-- Vết nứt, mỏng thành lốp, đoạn vá cũ: hỏi rõ vị trí đã vá để theo dõi thêm.
+- Độ mòn gai lốp: các rãnh còn sâu và đều, không bị mòn nhẵn ở một vùng.
+- Vết nứt, mỏng thành lốp, đoạn vá cũ: hỏi rõ vị trí đã vá để theo dõi thêm trong chuyến đi.
 - Bánh xe quay đều, không bị lệch tâm nhìn từ phía trước.
 
-Bạn có thể đọc thêm bài về áp suất lốp xe máy để hiểu vì sao chỉ số này ảnh hưởng trực tiếp đến an toàn và mức tiêu hao xăng.
+Lốp là chi tiết ảnh hưởng trực tiếp đến độ bám đường, đặc biệt khi đường ướt. Bạn có thể đọc thêm bài về áp suất lốp xe máy để hiểu vì sao chỉ số này ảnh hưởng đến cả an toàn lẫn mức tiêu hao xăng.
 
 ## Mức xăng, dây xích và khoang để chân
 
-Kiểm tra mức xăng qua kim hoặc đèn báo, và hỏi rõ nguyên tắc trả xăng: thông thường bạn nhận xe ở mức nào thì trả ở mức đó, hoặc theo thỏa thuận ghi trong biên bản. Việc này tránh mất thời gian tranh luận lúc trả xe.
+Kiểm tra mức xăng qua kim hoặc đèn báo, và hỏi rõ nguyên tắc trả xăng: thông thường bạn nhận xe ở mức nào thì trả ở mức đó, hoặc theo thỏa thuận ghi trong biên bản. Việc này tránh mất thời gian tranh luận lúc trả xe. Ghi lại mức xăng ban đầu bằng cách chụp ảnh đồng hồ.
 
-Với xe số, nhìn dây xích: không bị khô dầu trầm trọng, không chùng quá mức. Khi chạy thử, nghe xem xích có tiếng lạch cạch rõ rệt không. Phễu ga và bàn đạp phải hoạt động mượt, không bị kẹt nửa chừng.
+Với xe số, nhìn dây xích: không bị khô dầu trầm trọng, không chùng quá mức. Khi chạy thử, nghe xem xích có tiếng lạch cạch rõ rệt không. Phuộc ga và bàn đạp phải hoạt động mượt, không bị kẹt nửa chừng. Vòng xoay tay ga phải trả về vị trí ban đầu ngay khi buông tay.
 
-Khoang để chân và cốp xe: mở cốp thử, kiểm tra khóa cốp, và hỏi xem mũ bảo hiểm đi kèm xe là chiếc nào, đã được vệ sinh chưa. Mũ bảo hiểm là trang bị bắt buộc khi tham gia giao thông ở Việt Nam.
+Khoang để chân và cốp xe: mở cốp thử, kiểm tra khóa cốp, và hỏi xem mũ bảo hiểm đi kèm xe là chiếc nào, đã được vệ sinh chưa. Mũ bảo hiểm là trang bị bắt buộc khi tham gia giao thông ở Việt Nam, nên thử đội luôn xem size vừa vặn hay không.
 
 ## Chạy thử một vòng ngắn
 
@@ -80,7 +80,7 @@ Nếu điều kiện cho phép, hãy chạy thử quanh khu vực cửa hàng m�
 - Xe bị rung bất thường ở tốc độ thấp.
 - Côn (với xe số) có bị trượt khi tăng ga đột ngột không.
 
-Phát hiện vấn đề ở vòng chạy thử, hãy yêu cầu đổi xe hoặc sửa trước khi ký biên bản. Sau khi đã ký nhận, mọi trục trặc phát sinh thường xử lý theo quy trình báo cửa hàng, sẽ phiền hơn nhiều so với đổi xe ngay từ đầu.
+Phát hiện vấn đề ở vòng chạy thử, hãy yêu cầu đổi xe hoặc sửa trước khi ký biên bản. Sau khi đã ký nhận, mọi trục trặc phát sinh thường xử lý theo quy trình báo cửa hàng, sẽ phiền hơn nhiều so với đổi xe ngay từ đầu. Nếu cửa hàng có nhiều xe cùng dòng, đừng ngại yêu cầu chiếc khác khi chiếc đầu còn dấu hiệu đáng lo.
 
 ## Ghi nhận vào biên bản giao nhận
 
