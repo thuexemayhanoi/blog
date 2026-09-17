@@ -18,7 +18,7 @@
 # the workflow schedule remains authoritative.
 
 campaign_id: hanoi-seo-480
-enabled: false
+enabled: true
 max_posts: 48
 posts_per_day: 48
 interval_minutes: 30
