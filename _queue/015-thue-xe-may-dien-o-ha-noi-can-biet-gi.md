@@ -60,6 +60,8 @@ Kiểm tra khi nhận xe điện cần thêm ba điểm so với xe xăng: màn 
 
 Khi trả xe, hỏi rõ yêu cầu mức pin hoàn trả: một số nơi yêu cầu sạc đầy trước khi trả, số khác chỉ yêu cầu mức pin tương đương khi nhận. Đây thuộc nhóm câu hỏi nên hỏi trước khi đặt cọc, cùng giá thuê, thời gian sạc và địa điểm sạc hỗ trợ.
 
+Trước khi trả xe điện, hãy hỏi trước cửa hàng về mức pin kỳ vọng khi trả để chủ động sạc lại. Bạn cũng nên lau sạch xe nếu đi đường đất, kiểm tra lại lốp bằng mắt và chắc chắn rằng không còn phụ kiện nào của bạn trong cốp. Những việc nhỏ này giúp lần trả xe nhanh gọn và không phát sinh trao đổi thêm.
+
 ## Tóm lại
 
 Thuê xe máy điện ở Hà Nội hợp lý khi quãng đường của bạn rõ ràng, vừa phải và bạn có phương án sạc ổn định. Hỏi trước về quãng đường thực tế, thời gian sạc và giá tại thời điểm thuê là ba câu hỏi bắt buộc. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên sẵn sàng tư vấn, liên hệ Zalo hoặc điện thoại 0942 467 674 trong giờ 09:00 đến 21:00 hằng ngày, hoặc xem thêm thông tin tại trang [liên hệ]( {{ '/lien-he/' | relative_url }} ).

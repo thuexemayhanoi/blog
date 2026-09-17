@@ -64,9 +64,11 @@ Xe ga có ưu thế rõ khi gửi xe ở các bãi phố: không lo nghiêng đ�
 
 Cốp dưới yên là nơi giữ đồ tốt nhất: áo mưa, giấy tờ photo, đồ có giá trị nên cất trong cốp và khóa lại mỗi lần rời xe, kể cả chỉ xuống mua nước hai phút. Đồ trên giỏ trước hoặc móc sau dễ bị giật trong phố đông.
 
+Khi gửi xe ga ở bãi, hãy để cốp khóa yên luôn, tránh treo túi nhẹ ở móc phía trước vì dễ văng khi qua ổ gà. Cốp xe ga chứa vừa một cái nón và một ba lô nhỏ là mức an toàn thoải mái nhất cho chuyến đi phố.
+
 ## Chi phí theo tuần và tháng
 
-Nếu bạn ở Hà Nội trên một tuần và di chuyển hằng ngày, thuê theo tuần hoặc tháng giảm chi phí rõ rệt so với cộng dồn giá ngày. Ví dụ với Click hoặc Mio, bảy ngày giá ngày tương đương hơn một triệu đồng, trong khi gói tuần chỉ khoảng 600.000đ đến 700.000đ. Với Vision, gói tháng 1.800.000đ đến 2.000.000đ so với giá ngày nhân ba mươi là khoảng cách lớn. Khi cân nhắc thuê dài, hãy hỏi thêm về điều kiện đặt cọc, thường tham khảo từ 2.000.000đ đến 5.000.000đ tùy dòng xe, và quy trình hoàn cọc khi trả xe.
+Nếu bạn ở Hà Nội trên một tuần và di chuyển hằng ngày, thuê theo tuần hoặc tháng giảm chi phí rõ rệt so với cộng dồn giá ngày. Ví dụ với Click hoặc Mio, bảy ngày giá ngày tương đương hơn một triệu đồng, trong khi gói tuần chỉ khoảng 600.000đ đến 700.000đ. Với Vision, gói tháng 1.800.000đ đến 2.000.000đ so với giá ngày nhân ba mươi là khoảng cách lớn. Khi cân nhắc thuê dài, hãy hỏi thêm về điều kiện đặt cọc, thường tham khảo từ 1.000.000đ đến 3.000.000đ tùy dòng xe, và quy trình hoàn cọc khi trả xe.
 
 Thuê dài ngày cũng nên hỏi rõ về việc bảo dưỡng giữa kỳ: nếu thuê một tháng mà xe đến kỳ thay nhớt, bên nào chịu chi phí và xe được thay ở đâu. Câu hỏi này thuộc nhóm nên hỏi trước khi đặt cọc, cùng giá, mức xăng nhận và trả, để khỏi phát sinh hiểu lầm.
 

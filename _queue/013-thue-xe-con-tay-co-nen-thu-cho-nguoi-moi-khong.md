@@ -46,6 +46,8 @@ Nguyên tắc an toàn khi tập: luôn đeo mũ bảo hiểm đạt chuẩn, m�
 
 Một lời thẳng thắn: tự học côn tay trên xe thuê trong phố đông không phải phương án tốt. Nếu nghiêm túc muốn thành thạo, hãy học trên xe của người quen hoặc tìm lớp dạy lái có xe tập riêng, sau đó mới thuê để trải nghiệm thực tế.
 
+Khi tập, hãy chọn đoạn đường vắng vào sáng sớm, ví dụ khu vực ngoại ô hoặc sân tập rộng, và mang đủ đồ bảo hộ. Chỉ cần nắm được nhịp ra vào côn và cách giữ số hợp lý ở tốc độ thấp, phần còn lại của việc lái xe côn sẽ tiến bộ nhanh qua từng buổi tập.
+
 ## Chi phí và tình trạng xe sẵn có
 
 Khác với các dòng xe số và xe ga phổ thông có bảng giá niêm yết rõ ràng, xe côn tay là dòng đặc thù, ít cửa hàng cho thuê thường xuyên. Nếu bạn có nhu cầu cụ thể, cách duy nhất chính xác là liên hệ trực tiếp để hỏi tình trạng xe sẵn có và giá tại thời điểm đó. Với nhu cầu di chuyển thông thường, các dòng xe số như Honda Wave với mức tham khảo khoảng 150.000đ mỗi ngày hoặc các dòng xe ga đã có giá công khai trong trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ) là lựa chọn thiết thực hơn.

@@ -64,6 +64,8 @@ Nếu nghiêng về dòng xe điện, bạn có thể xem cách xác nhận giá
 
 Một cân nhắc cuối cùng: nếu chuyến đi của bạn xen kẽ giữa quãng ngắn trong phố và vài chặng dài hơn, đừng chọn dòng chỉ vì một đầu nhu cầu. Hãy chọn theo chặng khó nhất trong ngày, vì xe quá nhỏ khi phải chạy chặng lớn là rủi ro an toàn, còn xe quá lớn cho nhu cầu nhỏ chỉ là mất tiện lợi.
 
+Tóm lại, nếu điểm đến của bạn chủ yếu trong bán kính vài km quanh nơi ở, xe đạp điện nhẹ nhàng và dễ gửi là lựa chọn đáng cân nhắc. Nếu bạn cần vượt cầu, đi đường trường ngắn hoặc chở thêm người, xe máy điện cho cảm giác đầm và ổn định hơn. Cả hai đều cần kế hoạch sạc rõ ràng: hỏi trước cửa hàng về quãng đường thực tế của từng dòng và chỗ sạc gần khu vực bạn lưu trú trước khi chốt lựa chọn.
+
 ## Tóm lại
 
 Xe đạp điện cho quãng đường ngắn, một người, không cần giấy phép, ưu tiên nhẹ nhàng. Xe máy điện cho nhu cầu gần xe máy: nhanh hơn, xa hơn, chở được hai người, cần giấy phép tùy dòng. Hãy chọn theo quãng đường thực tế của mình thay vì theo vẻ ngoài của xe. Với bất kỳ dòng nào, liên hệ trước qua Zalo hoặc điện thoại 0942 467 674 để xác nhận tình trạng xe sẵn có và giá tại thời điểm thuê. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên mở cửa 09:00 đến 21:00 hằng ngày.
