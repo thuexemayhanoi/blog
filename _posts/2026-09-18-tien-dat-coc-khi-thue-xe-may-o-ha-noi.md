@@ -1,4 +1,5 @@
 ---
+date: 2026-09-18 03:09:00 +0700
 layout: post
 title: "Tiền đặt cọc khi thuê xe máy ở Hà Nội: cần biết gì trước khi đưa tiền"
 author: "Nguyễn Tú"
