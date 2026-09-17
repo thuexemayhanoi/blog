@@ -33,6 +33,9 @@ jobs:
       - name: Ensure PyYAML available
         run: python3 -c "import yaml" || pip3 install --quiet pyyaml
 
+      - name: Validate queue articles against owner facts
+        run: node scripts/validate-queue.js _queue
+
       - name: Publish at most one due article
         env:
           TZ: Asia/Ho_Chi_Minh

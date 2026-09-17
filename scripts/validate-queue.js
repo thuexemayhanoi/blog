@@ -1,17 +1,26 @@
 #!/usr/bin/env node
 // validate-queue.js — campaign hanoi-seo-480 queue article validator
-// Source of truth for business facts. Run: node scripts/validate-queue.js <dir-with-queue-md-files>
+// Source of truth: git-hub-maintainer-v-2 Knowledge (OWNER-APPROVED facts).
+// A validator must NEVER redefine business facts; this file only encodes them.
+// Run: node scripts/validate-queue.js <dir-with-queue-md-files>
 //
-// OWNER-AUTHORITATIVE FACTS (override all assumptions; do not "fix" these away):
+// OWNER-AUTHORITATIVE FACTS:
 //   - Deposit: 2.000.000–5.000.000 VND depending on vehicle/case. NOT 1–3 million.
-//   - Late return: 20.000 VND per late hour. If more than 6 hours late, an
-//     additional full rental day may apply, approx. 150.000–200.000 VND
-//     depending on vehicle. These figures are OWNER-APPROVED, never "invented".
-//   - Rental prices: Wave 150k/day; Vision & Air Blade 200k/day, 800k/week;
-//     Click/Mio 150k/day, 600–700k/week; Vision 800k–1M/week, 1.8–2M/month;
-//     Click/Mio 1–1.2M/month; Air Blade 1.4M/month; xe điện -> "liên hệ để xác nhận".
+//   - Late return: 20.000 VND per late hour. More than 6 hours late may add one
+//     additional full rental day, approx. 150.000–200.000 VND depending on vehicle.
+//   - Honda Wave: ONLY 150.000đ/day approved. NO Wave weekly/monthly price
+//     (including 700.000đ/tuần) unless the owner explicitly approves one.
+//   - Nguyễn Tú does NOT provide motorbike insurance to renters.
+//   - No refund entitlement for unused rental time (early return).
+//   - Do NOT claim Nguyễn Tú retains passport/CCCD/identity documents.
+//   - Do NOT claim helmets are included unless owner-approved (ask-first phrasing is fine).
+//   - No free delivery, no fixed delivery fee, no guaranteed availability,
+//     no guaranteed rescue/availability times.
+//   - Rental prices: Wave 150k/day; Vision 200k/day, 800k–1M/week, 1.8–2M/month;
+//     Air Blade 200k/day, 800k/week, 1.4M/month; Click/Mio 150k/day, 600–700k/week,
+//     1–1.2M/month; xe điện / xe đạp điện / 50cc -> contact, never invent a price.
 //   - Phone 0942 467 674; address 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội;
-//   - Hours 09:00–21:00; no delivery outside opening hours.
+//     hours 09:00–21:00; no delivery outside opening hours.
 'use strict';
 const fs = require('fs');
 const path = require('path');
@@ -20,7 +29,7 @@ const dir = process.argv[2] || '.';
 const files = fs.readdirSync(dir)
   .filter(n => /^[0-9]{3}-.*\.md$/.test(n))
   .sort();
-if (!files.length) { console.error('No queue files found in ' + dir); process.exit(2); }
+if (!files.length) { console.log('No queue article files found (queue empty) - validation skipped'); process.exit(0); }
 
 const ALLOWED_PAGES = ['/bang-gia/','/bang-gia-xe-so/','/bang-gia-xe-ga/','/bang-gia-xe-50cc/','/bang-gia-xe-dien/','/lien-he/','/gioi-thieu/','/kinh-nghiem/','/du-lich/','/chia-se/'];
 const ALLOWED_POSTS = ['2026-09-13-kinh-nghiem-thue-xe-may-ha-noi','2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao','2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi'];
@@ -44,6 +53,36 @@ const WRONG_DEPOSIT = [
 // Late-fee lines (context: trễ/muộn + phí/giá/tiền or "phí trễ").
 const LATE_CONTEXT = /(trễ|muộn)[^\n]{0,60}(phí|giá|tiền)|(phí|tiền)[^\n]{0,20}(trễ|muộn)|phí trễ/i;
 const APPROVED_LATE_AMOUNTS = new Set(['20.000', '150.000', '200.000']);
+
+// Honda Wave: only 150.000đ/day. No Wave weekly/monthly numeric price.
+const WAVE_DAILY_ONLY = 150000;
+const DEPOSIT_ENDPOINTS = new Set(['2.000.000', '5.000.000']);
+
+// Insurance: Nguyễn Tú does NOT provide motorbike insurance.
+// Helmet mentions are stripped first so "mũ/nón bảo hiểm" never triggers this gate.
+const INSURANCE_CLAIM = /(cung cấp|đi kèm|bao gồm|bồi thường|chi trả|được tặng|covered)/i;
+const INSURANCE_NEGATION = /(không|chưa|tự (chuẩn bị|cân nhắc|mua)|nên mua|mua bảo hiểm|tự lo)/i;
+
+// Refund: no refund merely for returning the vehicle early / unused rental time.
+const REFUND_PROMISE = /(hoàn|trả lại)[^\n]{0,60}(tiền thuê|khoản thuê|ngày chưa dùng|thời gian chưa dùng|phần (thuê|còn lại của khoản thuê))/i;
+const REFUND_NEGATION = /(không|trừ khi|phải hỏi|tùy)/i;
+
+// Identity-document retention claims (question forms and generic market
+// statements about "some shops" are allowed; claims about this shop are not).
+const ID_CLAIM = /(để lại (một )?(giấy tờ|cccd|hộ chiếu|căn cước|giấy tờ tùy thân))|((giữ|thu) (kèm |gốc |lại )?(giấy tờ|cccd|hộ chiếu|căn cước|giấy tờ tùy thân))|kèm theo việc để lại/i;
+const ID_ALLOWED = /(hỏi|hay không|một số cửa hàng|nhiều cửa hàng|một vài|có nơi|tùy cửa hàng|tùy thỏa thuận)/i;
+
+// Helmet inclusion claims (ask-first / conditional phrasing is allowed).
+const HELMET_TERM = /(mũ|nón)\s*bảo hiểm/i;
+const HELMET_CLAIM = /(luôn (đi kèm|được)|được (cửa hàng )?kèm theo|kèm sẵn|hỗ trợ sẵn|thường có [^\n]{0,15}đi kèm|đi kèm xe)/i;
+const HELMET_ALLOWED = /(hỏi|nếu có|không\b|chưa)/i;
+
+// Availability guarantees.
+const AVAIL_GUARANTEE = /(chắc chắn có (xe|đúng xe|đúng dòng))|(luôn có sẵn xe)|(đảm bảo (có xe|sẵn xe|tình trạng xe))|(sẵn sàng phục vụ)|(không bao giờ hết xe)/i;
+
+// Delivery: free or fixed-fee delivery (free is also banned by UNSAFE "miễn phí").
+const DELIVERY_CLAIM = /(miễn phí[^\n]{0,25}giao)|(giao[^\n]{0,15}miễn phí)|(phí giao[^\n]{0,20}\d)|(giao xe tận nơi miễn)/i;
+
 // Amounts allowed anywhere (rental prices, deposits, late fees, monthly, derived, small cash).
 const KNOWN_AMOUNTS = new Set([
   '1.000','2.000','3.000','5.000','10.000','15.000','20.000','50.000','100.000',
@@ -51,6 +90,12 @@ const KNOWN_AMOUNTS = new Set([
   '750.000','800.000','1.000.000','1.200.000','1.400.000','1.500.000','1.800.000',
   '2.000.000','5.000.000','2.100.000','4.000.000','6.000.000',
 ]);
+
+// Split a line into sentences (numbers like 150.000đ do not end a sentence
+// because the dot is never followed by whitespace).
+function sentences(line) {
+  return line.split(/(?<=[.!?:;])\s+/).filter(Boolean);
+}
 
 const titles = new Map();
 const slugs = new Map();
@@ -155,6 +200,63 @@ for (const n of files) {
   // 12. amount sanity warnings
   for (const a of body.match(/\d{1,3}(?:\.\d{3})+/g) || []) {
     if (!KNOWN_AMOUNTS.has(a)) warns.push('UNUSUAL amount ' + a);
+  }
+
+  // 13. Honda Wave daily-only price gate (sentence level)
+  for (let i = 0; i < lines.length; i++) {
+    for (const s of sentences(lines[i])) {
+      if (!/wave/i.test(s)) continue;
+      if (/700\.000/.test(s)) { errs.push('WAVE 700.000đ/tuần NOT APPROVED line ' + (i+1) + ': ' + s.slice(0,80)); continue; }
+      if (!/(tuần|tháng)/i.test(s)) continue;
+      const amounts = (s.match(/\d{1,3}(?:\.\d{3})+/g) || [])
+        .filter(a => !DEPOSIT_ENDPOINTS.has(a) && a !== '150.000');
+      if (amounts.length) errs.push('WAVE weekly/monthly numeric price NOT APPROVED line ' + (i+1) + ': ' + s.slice(0,80));
+    }
+  }
+
+  // 14. insurance gate (helmet terms stripped so "mũ bảo hiểm" cannot trigger it)
+  for (let i = 0; i < lines.length; i++) {
+    const L2 = lines[i].replace(/(mũ|nón)\s*bảo hiểm/gi, '');
+    if (!/bảo hiểm/i.test(L2)) continue;
+    if (INSURANCE_CLAIM.test(L2) && !INSURANCE_NEGATION.test(L2)) {
+      errs.push('INSURANCE PROVISION CLAIM line ' + (i+1) + ': ' + lines[i].slice(0,80));
+    }
+  }
+
+  // 15. unused-rental-time refund gate
+  for (let i = 0; i < lines.length; i++) {
+    if (REFUND_PROMISE.test(lines[i]) && !REFUND_NEGATION.test(lines[i])) {
+      errs.push('REFUND PROMISE (unused rental time) line ' + (i+1) + ': ' + lines[i].slice(0,80));
+    }
+  }
+
+  // 16. identity-document retention gate
+  for (let i = 0; i < lines.length; i++) {
+    if (ID_CLAIM.test(lines[i]) && !ID_ALLOWED.test(lines[i])) {
+      errs.push('ID RETENTION CLAIM line ' + (i+1) + ': ' + lines[i].slice(0,80));
+    }
+  }
+
+  // 17. helmet inclusion gate
+  for (let i = 0; i < lines.length; i++) {
+    const L = lines[i];
+    if (HELMET_TERM.test(L) && HELMET_CLAIM.test(L) && !HELMET_ALLOWED.test(L)) {
+      errs.push('HELMET INCLUSION CLAIM line ' + (i+1) + ': ' + L.slice(0,80));
+    }
+  }
+
+  // 18. availability guarantee gate
+  for (let i = 0; i < lines.length; i++) {
+    if (AVAIL_GUARANTEE.test(lines[i])) {
+      errs.push('AVAILABILITY GUARANTEE line ' + (i+1) + ': ' + lines[i].slice(0,80));
+    }
+  }
+
+  // 19. delivery fee gate
+  for (let i = 0; i < lines.length; i++) {
+    if (DELIVERY_CLAIM.test(lines[i])) {
+      errs.push('DELIVERY FEE CLAIM line ' + (i+1) + ': ' + lines[i].slice(0,80));
+    }
   }
 
   if (errs.length) { failed++; console.log('FAIL ' + n); errs.forEach(e => console.log('   - ' + e)); }
