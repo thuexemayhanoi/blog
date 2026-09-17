@@ -1,4 +1,5 @@
 ---
+date: 2026-09-18 05:50:00 +0700
 layout: post
 title: "Thuê xe máy theo ngày, theo tuần hay theo tháng: nên chọn kiểu nào"
 author: "Nguyễn Tú"
