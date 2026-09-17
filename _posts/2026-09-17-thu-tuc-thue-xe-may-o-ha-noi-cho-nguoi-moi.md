@@ -1,4 +1,5 @@
 ---
+date: 2026-09-17 22:39:00 +0700
 layout: post
 title: "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê"
 author: "Nguyễn Tú"
