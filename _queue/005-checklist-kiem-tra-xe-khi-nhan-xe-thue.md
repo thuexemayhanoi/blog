@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Checklist kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ"
+title: "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ"
 author: "Nguyễn Tú"
 description: "Danh sách kiểm tra chi tiết khi nhận xe thuê tại cửa hàng: ngoại thất, đèn, phanh, lốp, còi, gương, mức xăng và cách ghi nhận hư hỏng sẵn có vào biên bản giao nhận."
 categories: [Kinh nghiệm]
@@ -10,13 +10,13 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Khoảnh khắc đứng trước chiếc xe sắp nhận là lúc quan trọng nhất của cả quá trình thuê. Kiểm tra xe kỹ trong năm đến mười phút đầu tiên giúp bạn tránh mọi tranh chấp về sau: mọi vết xước, mọi trục trặc nhỏ đều được ghi nhận rõ ràng ngay từ đầu. Bài viết này cung cấp một checklist thực tế để bạn tự tin nhận xe, kể cả khi chưa từng thuê xe máy lần nào.
+Khoảnh khắc đứng trước chiếc xe sắp nhận là lúc quan trọng nhất của cả quá trình thuê. Kiểm tra xe kỹ trong năm đến mười phút đầu tiên giúp bạn tránh mọi tranh chấp về sau: mọi vết xước, mọi trục trặc nhỏ đều được ghi nhận rõ ràng ngay từ đầu. Bài viết này cung cấp một danh sách kiểm tra thực tế để bạn tự tin nhận xe, kể cả khi chưa từng thuê xe máy lần nào.
 
 ## Vì sao phải kiểm tra xe trước khi nhận
 
 Xe cho thuê được nhiều người sử dụng liên tiếp, nên hao mòn và vết xước nhỏ là chuyện bình thường. Vấn đề chỉ nảy sinh khi không ai ghi nhận rõ trạng thái ban đầu: vết trầy có sẵn hôm trước có thể bị hiểu nhầm là do bạn gây ra hôm sau. Biên bản giao nhận có ghi chú tình trạng xe chính là lá chắn bảo vệ cả bạn và cửa hàng.
 
-Nguyên tắc vàng: mọi thứ bạn thấy hôm nay, hãy để nó được ghi lại hôm nay. Đừng ngại hỏi lại nếu nhân viên có vẻ vội. Một cửa hàng làm việc bài bản sẽ luôn sẵn lòng cùng bạn đi hết checklist này.
+Nguyên tắc vàng: mọi thứ bạn thấy hôm nay, hãy để nó được ghi lại hôm nay. Đừng ngại hỏi lại nếu nhân viên có vẻ vội. Một cửa hàng làm việc bài bản sẽ luôn sẵn lòng cùng bạn đi hết danh sách này.
 
 ## Kiểm tra ngoại thất và vết xước sẵn có
 
@@ -87,6 +87,8 @@ Phát hiện vấn đề ở vòng chạy thử, hãy yêu cầu đổi xe hoặ
 Sau khi kiểm tra, mọi ghi chú cần nằm trong biên bản: tình trạng ngoại thất, vết xước có sẵn, mức xăng, loại mũ bảo hiểm đi kèm, thời gian nhận và dự kiến trả. Nếu bạn đã chụp ảnh, việc lưu ảnh theo ngày trên điện thoại là bằng chứng đối chiếu tốt khi trả xe.
 
 Cuối cùng, đọc kỹ các điều khoản trong biên bản trước khi ký, đặc biệt các khoản về phí trả muộn và trách nhiệm hư hỏng. Hỏi ngay điều gì chưa rõ. Một bản biên bản rõ ràng là nền tảng để cả hai bên yên tâm trong suốt thời gian thuê.
+
+Một mẹo nhỏ khi ghi biên bản: chụp ảnh kèm theo từng mục đã ghi, sắp xếp theo đúng thứ tự các dòng trong biên bản. Khi cần đối chiếu lúc trả xe, bạn chỉ việc lướt theo thứ tự ảnh thay vì đọc lại toàn bộ. Nếu biên bản viết tay, hãy đảm bảo chữ viết rõ ràng, số công tơ mét và mức xăng được ghi đủ, không viết tắt kiểu chỉ mình bạn hiểu. Đừng ngại yêu cầu ghi thêm các chi tiết bạn thấy cần như tình trạng gương hay độ mòn má phanh, vì biên bản càng chi tiết, cả hai bên càng dễ thống nhất khi trả xe. Đây cũng là lúc thuận tiện để hỏi lại mức xăng trả và giờ làm việc của cửa hàng.
 
 ## Tóm lại
 

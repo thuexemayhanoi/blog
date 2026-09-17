@@ -16,7 +16,7 @@ Trong mọi cuộc trao đổi về việc thuê xe máy, tiền đặt cọc g�
 
 Hiểu một cách đơn giản, tiền đặt cọc là khoản bảo đảm để hai bên yên tâm thực hiện thỏa thuận. Với cửa hàng, chiếc xe họ giao cho bạn là tài sản có giá trị, và khoản cọc giúp bảo đảm xe sẽ được trả lại đúng hẹn, đúng tình trạng. Với bạn, việc trả cọc cũng là cách xác nhận bạn nghiêm túc với lịch trình của mình.
 
-Khoản cọc không phải là chi phí thuê xe. Khi bạn trả xe đúng cam kết, tiền cọc được hoàn lại đầy đủ. Nó chỉ trở thành nguồn bù đắp nếu có phát sinh hư hỏng do lỗi sử dụng hoặc nếu xe không được trả theo thỏa thuận. Đó là lý do mức cọc thường tương xứng với giá trị chiếc xe bạn nhận: thuê một chiếc xe ga đời mới thường đi kèm mức cọc cao hơn thuê một chiếc xe số phổ thông.
+Khoản cọc không phải là chi phí thuê xe. Khi bạn trả xe đúng hẹn, tiền cọc được hoàn lại đầy đủ. Nó chỉ trở thành nguồn bù đắp nếu có phát sinh hư hỏng do lỗi sử dụng hoặc nếu xe không được trả theo thỏa thuận. Đó là lý do mức cọc thường tương xứng với giá trị chiếc xe bạn nhận: thuê một chiếc xe ga đời mới thường đi kèm mức cọc cao hơn thuê một chiếc xe số phổ thông.
 
 ## Các hình thức đặt cọc phổ biến
 
@@ -33,7 +33,7 @@ Mỗi hình thức có cái hợp lý riêng. Giữ giấy tờ giúp bạn khô
 Không có một mức cọc cố áp dụng cho mọi trường hợp. Những yếu tố thường ảnh hưởng đến con số này gồm:
 
 - Loại xe. Xe càng đắt tiền, giá trị tài sản càng cao thì khoản bảo đảm thường càng lớn.
-- Thời gian thuê. Thuê một ngày và thuê cả tháng là hai cam kết khác nhau về mức độ rủi ro, nên mức cọc có thể được cân nhắc khác nhau.
+- Thời gian thuê. Thuê một ngày và thuê cả tháng là hai khoản khác nhau về mức độ rủi ro, nên mức cọc có thể được cân nhắc khác nhau.
 - Hình thức nhận xe. Nhận tại cửa hàng và yêu cầu giao xe đến tận nơi là hai phương thức khác nhau, và điều kiện kèm theo cũng khác.
 - Lịch trình của bạn. Nếu bạn dự định đi xa Hà Nội hoặc di chuyển nhiều trong ngày, hãy nói rõ để hai bên thống nhất điều khoản phù hợp.
 
@@ -69,7 +69,7 @@ Những việc này mất chưa đến năm phút nhưng giúp mọi tranh chấ
 - Trầy xước, móp méo mới xuất hiện so với thời điểm nhận xe mà không được thông báo.
 - Mất phụ kiện đi kèm như gương, chìa khóa, giấy tờ xe.
 - Trả xe muộn hơn giờ thỏa thuận mà không báo trước.
-- Trả xe ở tình trạng sạch sẽ kém hẳn hoặc xăng thấp hơn mức cam kết.
+- Trả xe ở tình trạng sạch sẽ kém hẳn hoặc xăng thấp hơn mức đã thỏa thuận.
 
 Ngược lại, những hao mòn tự nhiên trong quá trình sử dụng bình thường, như mòn lốp ở mức thông thường hay bụi bẩn sau một ngày đi đường dài, không phải là lý do khấu trừ. Nếu bạn cảm thấy không chắc về ranh giới này, hãy hỏi trước khi nhận xe.
 
@@ -89,6 +89,6 @@ Nguyên tắc chung cho mọi thời lượng thuê vẫn là minh bạch: mọi
 
 ## Tóm lại
 
-Tiền đặt cọc là phần tất yếu của thủ tục thuê xe máy, và nó không có gì đáng lo nếu được thỏa thuận rõ ràng từ đầu. Ba nguyên tắc cần nhớ: hỏi mức cọc và điều kiện hoàn trước khi đưa tiền, ghi lại tình trạng xe lúc nhận bằng hình ảnh, và trả xe đúng cam kết. Làm được ba việc đó, khoản cọc gần như luôn quay về tay bạn trọn vẹn.
+Tiền đặt cọc là phần tất yếu của thủ tục thuê xe máy, và nó không có gì đáng lo nếu được thỏa thuận rõ ràng từ đầu. Ba nguyên tắc cần nhớ: hỏi mức cọc và điều kiện hoàn trước khi đưa tiền, ghi lại tình trạng xe lúc nhận bằng hình ảnh, và trả xe đúng hẹn. Làm được ba việc đó, khoản cọc gần như luôn quay về tay bạn trọn vẹn.
 
 Nếu bạn còn câu hỏi về mức cọc cho một dòng xe cụ thể hoặc cho lịch trình của mình, hãy liên hệ trực tiếp. Mọi con số và điều khoản đều được xác nhận rõ ràng trước khi bạn quyết định. Thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}), và bạn cũng có thể đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm tổng quan trước khi đặt xe.

@@ -95,7 +95,7 @@ Lưu ý quan trọng về khung giờ: cửa hàng hoạt động từ 09:00 đ�
 
 ## Vài lưu ý cuối
 
-Thủ tục thuê xe máy nhìn chung không phức tạp, nhưng chất lượng trải nghiệm phụ thuộc vào việc bạn chuẩn bị kỹ từ đầu. Tóm lại, hãy nhớ bảy bước: liên hệ trước, mang đủ giấy tờ, chọn xe theo nhu cầu, kiểm tra xe kỹ, thỏa thuận rõ ràng, chốt giờ nhận trả, và trả xe đúng cam kết.
+Thủ tục thuê xe máy nhìn chung không phức tạp, nhưng chất lượng trải nghiệm phụ thuộc vào việc bạn chuẩn bị kỹ từ đầu. Tóm lại, hãy nhớ bảy bước: liên hệ trước, mang đủ giấy tờ, chọn xe theo nhu cầu, kiểm tra xe kỹ, thỏa thuận rõ ràng, chốt giờ nhận trả, và trả xe đúng hẹn.
 
 Nếu bạn vẫn còn băn khoăn về loại xe hay điều khoản thuê, đừng ngại gọi trực tiếp. Mọi thắc mắc về giá, tình trạng xe và điều kiện thuê đều được xác nhận trực tiếp qua điện thoại hoặc Zalo trước khi bạn quyết định đặt xe. Danh bạ và thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}).
 

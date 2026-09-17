@@ -42,7 +42,7 @@ Với khách nước ngoài, giấy phép lái xe quốc tế (IDP) chỉ đư�
 
 ## Tiền đặt cọc khi nhận xe
 
-Bên cạnh giấy tờ, hầu hết hợp đồng thuê xe đều kèm tiền đặt cọc. Mức tham khảo phổ biến từ 2.000.000 đến 5.000.000 đồng tùy loại xe và thời gian thuê, và mức chính xác luôn được xác nhận trực tiếp trước khi đặt xe. Một số cửa hàng giữ kèm giấy tờ tùy thân thay cho tiền cọc, nhưng cách an toàn và phổ biến hơn vẫn là cọc bằng tiền để bạn giữ hết giấy tờ của mình. Bạn có thể đọc chi tiết hơn trong bài về tiền đặt cọc khi thuê xe máy để biết các hình thức cọc và cách bảo vệ quyền lợi của mình.
+Bên cạnh giấy tờ, hầu hết hợp đồng thuê xe đều kèm tiền đặt cọc. Mức tham khảo phổ biến từ 1.000.000 đến 3.000.000 đồng tùy loại xe và thời gian thuê, và mức chính xác luôn được xác nhận trực tiếp trước khi đặt xe. Một số cửa hàng giữ kèm giấy tờ tùy thân thay cho tiền cọc, nhưng cách an toàn và phổ biến hơn vẫn là cọc bằng tiền để bạn giữ hết giấy tờ của mình. Bạn có thể đọc chi tiết hơn trong bài về tiền đặt cọc khi thuê xe máy để biết các hình thức cọc và cách bảo vệ quyền lợi của mình.
 
 ## Nên chuẩn bị gì trước khi đến cửa hàng
 
@@ -56,6 +56,8 @@ Trước khi đến nhận xe, danh sách kiểm tra nhanh gồm:
 5. Đã rõ loại xe mình cần và thời gian thuê dự kiến.
 
 Chuẩn bị đủ năm mục này, việc giao nhận xe thường chỉ mất ít phút. Ngược lại, thiếu một trong các mục trên có thể khiến bạn phải quay về hoặc chờ người nhà gửi thêm giấy tờ.
+
+Ngoài giấy tờ, bạn nên chuẩn bị thêm vài thứ nhỏ để thủ tục nhận xe nhanh hơn. Lưu sẵn địa chỉ cửa hàng và số điện thoại hỗ trợ vào điện thoại, chụp ảnh giấy tờ tùy thân để dự phòng khi cần đối chiếu thông tin, và chuẩn bị sẵn tiền mặt hoặc thẻ cho khoản đặt cọc. Nếu bạn đặt xe trước qua Zalo, hãy chụp lại đoạn tin nhắn xác nhận loại xe và giá để đối chiếu khi đến nhận. Với khách nước ngoài, nên lưu sẵn địa chỉ nơi lưu trú viết bằng tiếng Việt để điền vào biên bản nhanh hơn. Những chuẩn bị nhỏ này giúp bạn nhận xe gọn gàng trong vài phút và có thêm thời gian kiểm tra xe kỹ trước khi lăn bánh.
 
 ## Nếu quên giấy tờ thì làm thế nào
 
