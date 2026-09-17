@@ -9,6 +9,13 @@
 #   3. Optionally set end_at with the same format to hard-stop the campaign
 #
 # start_at and end_at stay empty until the owner approves a start time.
+#
+# Informational schedule settings (posts_per_day, interval_minutes, timezone):
+# these describe the publishing cadence but do not drive it. The actual
+# schedule is the cron trigger in .github/workflows/publish-queue.yml
+# (every 30 minutes, Asia/Ho_Chi_Minh). The publisher validates these values
+# against the workflow and logs a warning if they drift out of sync;
+# the workflow schedule remains authoritative.
 
 campaign_id: hanoi-seo-480
 enabled: false

@@ -25,7 +25,7 @@ jobs:
     timeout-minutes: 10
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           ref: main
           fetch-depth: 1
@@ -42,6 +42,7 @@ jobs:
           import datetime
           import glob
           import os
+          import re
           import subprocess
           import sys
 
@@ -72,6 +73,29 @@ jobs:
               return data, text
 
 
+          def slug_from_post_filename(name):
+              match = re.match(r"^\d{4}-\d{2}-\d{2}-(.+)\.md$", name)
+              if match:
+                  return match.group(1)
+              return name[:-3] if name.endswith(".md") else name
+
+
+          def slug_from_queue_filename(name):
+              match = re.match(r"^\d{1,4}-(.+)\.md$", name)
+              if match:
+                  return match.group(1)
+              return name[:-3] if name.endswith(".md") else name
+
+
+          def normalize_url(value):
+              value = str(value or "").strip()
+              if not value:
+                  return ""
+              if len(value) > 1 and value.endswith("/"):
+                  value = value[:-1]
+              return value
+
+
           with open("_data/publishing.yml", encoding="utf-8") as handle:
               config = yaml.safe_load(handle)
 
@@ -80,6 +104,22 @@ jobs:
           start_at = str(config.get("start_at") or "").strip()
           end_at = str(config.get("end_at") or "").strip()
           dry_run = os.environ.get("DRY_RUN", "false") == "true"
+
+          # Informational settings: the real schedule is the cron trigger of
+          # this workflow (every 30 minutes, Asia/Ho_Chi_Minh). Validate the
+          # informational values against the workflow and warn on any drift.
+          expected_interval_minutes = 30
+          expected_timezone = "Asia/Ho_Chi_Minh"
+          expected_posts_per_day = 48
+          interval_minutes = int(config.get("interval_minutes", expected_interval_minutes) or expected_interval_minutes)
+          posts_per_day = int(config.get("posts_per_day", expected_posts_per_day) or expected_posts_per_day)
+          config_timezone = str(config.get("timezone", expected_timezone) or expected_timezone)
+          if interval_minutes != expected_interval_minutes:
+              log("WARNING: interval_minutes=%d in publishing.yml does not match the workflow cron (every %d minutes); the workflow cron is authoritative" % (interval_minutes, expected_interval_minutes))
+          if config_timezone != expected_timezone:
+              log("WARNING: timezone=%s in publishing.yml does not match the workflow timezone (%s); the workflow timezone is authoritative" % (config_timezone, expected_timezone))
+          if posts_per_day != expected_posts_per_day:
+              log("WARNING: posts_per_day=%d in publishing.yml does not match the workflow capacity (%d posts per day at one post every 30 minutes); the workflow cron is authoritative" % (posts_per_day, expected_posts_per_day))
 
           if not config.get("enabled", False):
               log("campaign disabled")
@@ -104,7 +144,7 @@ jobs:
           published = []
           existing_titles = set()
           existing_slugs = set()
-          existing_permalinks = set()
+          existing_urls = set()
           for path in sorted(glob.glob("_posts/*.md")):
               data, _ = read_front_matter(path)
               if data:
@@ -113,14 +153,13 @@ jobs:
                   title = str(data.get("title") or "").strip().lower()
                   if title:
                       existing_titles.add(title)
-                  permalink = str(data.get("permalink") or "").strip()
+                  permalink = normalize_url(data.get("permalink"))
                   if permalink:
-                      existing_permalinks.add(permalink)
-              name = os.path.basename(path)
-              if len(name) > 14 and name[:11].count("-") == 2:
-                  existing_slugs.add(name[11:-3])
-              else:
-                  existing_slugs.add(name[:-3])
+                      existing_urls.add(permalink)
+                  canonical = normalize_url(data.get("canonical"))
+                  if canonical:
+                      existing_urls.add(canonical)
+              existing_slugs.add(slug_from_post_filename(os.path.basename(path)))
 
           if len(published) >= max_posts:
               log("campaign maximum reached (%d/%d)" % (len(published), max_posts))
@@ -138,8 +177,9 @@ jobs:
                   log("invalid front matter, skipped: " + candidate)
                   continue
               title = str(data.get("title") or "").strip()
-              slug = os.path.basename(candidate)[4:-3]
-              permalink = str(data.get("permalink") or "").strip()
+              slug = slug_from_queue_filename(os.path.basename(candidate))
+              permalink = normalize_url(data.get("permalink"))
+              canonical = normalize_url(data.get("canonical"))
               if not title or not data.get("categories") or not data.get("description"):
                   log("invalid front matter, skipped: " + candidate)
                   continue
@@ -149,8 +189,11 @@ jobs:
               if slug in existing_slugs:
                   log("duplicate prevented (slug): " + candidate)
                   continue
-              if permalink and permalink in existing_permalinks:
+              if permalink and permalink in existing_urls:
                   log("duplicate prevented (permalink): " + candidate)
+                  continue
+              if canonical and canonical in existing_urls:
+                  log("duplicate prevented (canonical): " + candidate)
                   continue
               selected = (candidate, text)
               break
@@ -160,7 +203,7 @@ jobs:
               sys.exit(0)
 
           candidate, text = selected
-          slug = os.path.basename(candidate)[4:-3]
+          slug = slug_from_queue_filename(os.path.basename(candidate))
           publish_date = now.strftime("%Y-%m-%d")
           target = "_posts/%s-%s.md" % (publish_date, slug)
           if os.path.exists(target):
@@ -173,7 +216,31 @@ jobs:
           if lines[0].strip() != "---":
               log("unexpected file structure: " + candidate)
               sys.exit(1)
-          lines.insert(1, date_line)
+
+          # Date safety: if the queued front matter already contains a date
+          # key, replace it in place instead of inserting a second one, so
+          # the published file always has exactly one valid date field.
+          front_matter_end = None
+          for index in range(1, len(lines)):
+              if lines[index].strip() == "---":
+                  front_matter_end = index
+                  break
+          if front_matter_end is None:
+              log("unexpected file structure (missing closing front matter delimiter): " + candidate)
+              sys.exit(1)
+
+          date_indices = [index for index in range(1, front_matter_end) if re.match(r"^date\s*:", lines[index])]
+          if date_indices:
+              lines[date_indices[0]] = date_line
+              for index in reversed(date_indices[1:]):
+                  del lines[index]
+              if len(date_indices) > 1:
+                  log("replaced %d existing date fields with one valid date in: %s" % (len(date_indices), candidate))
+              else:
+                  log("updated existing date field in: " + candidate)
+          else:
+              lines.insert(1, date_line)
+
           new_text = "\n".join(lines)
           if not new_text.endswith("\n"):
               new_text += "\n"
