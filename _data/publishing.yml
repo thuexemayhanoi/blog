@@ -18,10 +18,10 @@
 # the workflow schedule remains authoritative.
 
 campaign_id: hanoi-seo-480
-enabled: false
-max_posts: 480
+enabled: true
+max_posts: 1
 posts_per_day: 48
 interval_minutes: 30
 timezone: Asia/Ho_Chi_Minh
-start_at: ""
+start_at: "2026-09-17 10:00"
 end_at: ""
