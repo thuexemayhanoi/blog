@@ -2,7 +2,7 @@ name: Publish queued article
 
 on:
   schedule:
-    - cron: "17,47 * * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -99,6 +99,39 @@ jobs:
               return value
 
 
+          def parse_publish_datetime(value):
+              # Robustly parse a post date that PyYAML may return either as
+              # a datetime object (possibly timezone-aware) or as a string
+              # like "2026-09-17 22:39:00 +0700". Always return a naive
+              # datetime in Asia/Ho_Chi_Minh local time, or None.
+              local_tz = datetime.timezone(datetime.timedelta(hours=7))
+              if isinstance(value, datetime.datetime):
+                  if value.tzinfo is None:
+                      return value
+                  return value.astimezone(local_tz).replace(tzinfo=None)
+              if isinstance(value, datetime.date):
+                  return datetime.datetime(value.year, value.month, value.day)
+              if not value:
+                  return None
+              text = str(value).strip()
+              formats = [
+                  "%Y-%m-%d %H:%M:%S %z",
+                  "%Y-%m-%d %H:%M:%S",
+                  "%Y-%m-%d %H:%M",
+                  "%Y-%m-%dT%H:%M:%S%z",
+                  "%Y-%m-%dT%H:%M:%S",
+              ]
+              for fmt in formats:
+                  try:
+                      parsed = datetime.datetime.strptime(text, fmt)
+                  except ValueError:
+                      continue
+                  if parsed.tzinfo is not None:
+                      parsed = parsed.astimezone(local_tz).replace(tzinfo=None)
+                  return parsed
+              return None
+
+
           with open("_data/publishing.yml", encoding="utf-8") as handle:
               config = yaml.safe_load(handle)
 
@@ -108,9 +141,11 @@ jobs:
           end_at = str(config.get("end_at") or "").strip()
           dry_run = os.environ.get("DRY_RUN", "false") == "true"
 
-          # Informational settings: the real schedule is the cron trigger of
-          # this workflow (every 30 minutes, Asia/Ho_Chi_Minh). Validate the
-          # informational values against the workflow and warn on any drift.
+          # Schedule architecture: the cron trigger polls every 5 minutes and
+          # is only a resilience mechanism. The authoritative publication
+          # spacing is interval_minutes below (minimum minutes between two
+          # campaign posts, Asia/Ho_Chi_Minh). interval_minutes is enforced
+          # by the due gate in this publisher, not by the cron schedule.
           expected_interval_minutes = 30
           expected_timezone = "Asia/Ho_Chi_Minh"
           expected_posts_per_day = 48
@@ -118,11 +153,11 @@ jobs:
           posts_per_day = int(config.get("posts_per_day", expected_posts_per_day) or expected_posts_per_day)
           config_timezone = str(config.get("timezone", expected_timezone) or expected_timezone)
           if interval_minutes != expected_interval_minutes:
-              log("WARNING: interval_minutes=%d in publishing.yml does not match the workflow cron (every %d minutes); the workflow cron is authoritative" % (interval_minutes, expected_interval_minutes))
+              log("WARNING: interval_minutes=%d in publishing.yml differs from the expected %d minutes; interval_minutes is the authoritative publication spacing enforced by the due gate" % (interval_minutes, expected_interval_minutes))
           if config_timezone != expected_timezone:
               log("WARNING: timezone=%s in publishing.yml does not match the workflow timezone (%s); the workflow timezone is authoritative" % (config_timezone, expected_timezone))
           if posts_per_day != expected_posts_per_day:
-              log("WARNING: posts_per_day=%d in publishing.yml does not match the workflow capacity (%d posts per day at one post every 30 minutes); the workflow cron is authoritative" % (posts_per_day, expected_posts_per_day))
+              log("WARNING: posts_per_day=%d in publishing.yml does not match the theoretical capacity (%d posts per day at one post every %d minutes)" % (posts_per_day, expected_posts_per_day, interval_minutes))
 
           if not config.get("enabled", False):
               log("campaign disabled")
@@ -145,6 +180,7 @@ jobs:
                   sys.exit(0)
 
           published = []
+          latest_publish_time = None
           existing_titles = set()
           existing_slugs = set()
           existing_urls = set()
@@ -153,6 +189,9 @@ jobs:
               if data:
                   if data.get("campaign") == campaign_id:
                       published.append(path)
+                      published_at = parse_publish_datetime(data.get("date"))
+                      if published_at is not None and (latest_publish_time is None or published_at > latest_publish_time):
+                          latest_publish_time = published_at
                   title = str(data.get("title") or "").strip().lower()
                   if title:
                       existing_titles.add(title)
@@ -167,6 +206,17 @@ jobs:
           if len(published) >= max_posts:
               log("campaign maximum reached (%d/%d)" % (len(published), max_posts))
               sys.exit(0)
+
+          # Due gate: enforce the real publication spacing (interval_minutes)
+          # based on the actual publication time of the most recent campaign
+          # article. The cron only polls frequently; it never controls the
+          # publication interval. At most one article is ever published per
+          # run, so missed polls never cause catch-up publishing.
+          if latest_publish_time is not None:
+              next_due = latest_publish_time + datetime.timedelta(minutes=interval_minutes)
+              if now < next_due:
+                  log("no article due: latest campaign post published at %s; next due at %s" % (latest_publish_time.strftime("%Y-%m-%d %H:%M:%S"), next_due.strftime("%Y-%m-%d %H:%M:%S")))
+                  sys.exit(0)
 
           queue = sorted(glob.glob("_queue/[0-9][0-9][0-9]-*.md"))
           if not queue:

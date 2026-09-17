@@ -11,11 +11,13 @@
 # start_at and end_at stay empty until the owner approves a start time.
 #
 # Informational schedule settings (posts_per_day, interval_minutes, timezone):
-# these describe the publishing cadence but do not drive it. The actual
-# schedule is the cron trigger in .github/workflows/publish-queue.yml
-# (every 30 minutes, Asia/Ho_Chi_Minh). The publisher validates these values
-# against the workflow and logs a warning if they drift out of sync;
-# the workflow schedule remains authoritative.
+# interval_minutes is the authoritative minimum publication spacing between
+# two campaign articles, enforced by the due gate in
+# .github/workflows/publish-queue.yml. The workflow cron polls every 5
+# minutes only as a resilience mechanism and does not control the
+# publication interval. posts_per_day is the theoretical maximum at the
+# 30-minute interval. The publisher validates these values and logs a
+# warning if they drift out of sync.
 
 campaign_id: hanoi-seo-480
 enabled: true
