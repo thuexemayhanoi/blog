@@ -31,7 +31,7 @@ Một lưu ý về giờ cao điểm: từ 7 giờ đến 8 giờ 30 sáng và 1
 
 ## Phố đi bộ cuối tuần quanh Hồ Gươm
 
-Vào tối thứ Sáu, thứ Bảy và Chủ nhật, các tuyến phố quanh hồ được chặn để dành riêng cho người đi bộ. Đây là một trong những hoạt động văn hóa đặc sắc nhất của Hà Nội: đường phố biến thành không gian mở với nhạc đường phố, trò chơi dân gian, biểu diễn nghệ thuật và hàng nghìn người dân dạo bước.
+Vào tối thứ Sáu, thứ Bảy và Chủ nhật, các tuyến phố quanh hồ được chặn để dành riêng cho người đi bộ. Đây là một trong những hoạt động văn hóa đặc sắc nhất của Hà Nội: đường phố biến thành không gian mở với nhạc đường phố, trò chơi dân gian, biểu diễn nghệ thuật và rất đông người dân dạo bước.
 
 Điều này đồng nghĩa xe máy không vào được khu vực bị chặn, và bạn cần gửi xe ở các bãi ngoài rìa. Các bãi gửi lớn thường nằm ở đầu các tuyến phố dẫn vào khu đi bộ. Vài gợi ý khi đi phố đi bộ:
 

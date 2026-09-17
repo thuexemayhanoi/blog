@@ -30,7 +30,7 @@ Bên dưới chân cầu phía bờ tây là bãi sông rộng, nơi người d�
 
 ## Chợ Long Biên: nhịp sống đầu mối của Hà Nội
 
-Cách đầu cầu phía bờ đông không xa, chợ Long Biên là chợ đầu mối lớn của Hà Nội, nơi rau củ từ các tỉnh lên mỗi đêm và phân phối đi toàn thành phố từ trước rạng đông. Chợ đông và nhộn nhất từ khoảng 1 giờ đến 7 giờ sáng, với hàng nghìn xe tải, xe máy chở hàng tấp nập.
+Cách đầu cầu phía bờ đông không xa, chợ Long Biên là chợ đầu mối lớn của Hà Nội, nơi rau củ từ các tỉnh lên mỗi đêm và phân phối đi toàn thành phố từ trước rạng đông. Chợ đông và nhộn nhất từ khoảng 1 giờ đến 7 giờ sáng, với vô số xe tải, xe máy chở hàng tấp nập.
 
 Đi xe máy vào khu chợ cần thận trọng hơn mọi nơi khác trong thành phố:
 

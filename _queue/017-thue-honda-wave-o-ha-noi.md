@@ -62,9 +62,11 @@ Gửi xe: Wave nhẹ và phổ biến, bãi gửi nào cũng quen loại xe này
 
 Trời mưa: hạ tốc độ, tránh phanh gấp trên vệt bánh xe cũ đang ướt, và không chạy vào đoạn ngập sâu. Nguyên tắc này đúng với mọi dòng xe, nhưng với xe số bạn còn thêm một lưu ý nhỏ là tránh để nước tràn vào hộp gió khi đi qua vũng lớn.
 
+Vài mẹo nhỏ cho Wave trong phố: về số thấp sớm khi vào cua hẹp, tận dụng độ bốc của máy số để vượt nhanh ở đoạn ngắn, và giữ vòng tua vừa phải thay vì ép ga liên tục. Wave nhẹ nên rất dễ luồn lách, nhưng chính độ nhẹ này cũng khiến xe dễ bị gió giật khi chạy qua cầu lớn, hãy giữ tay lái chắc ở những đoạn đó.
+
 ## Giấy tờ khi thuê Wave
 
-Wave là xe số trên 50cc, vì vậy người thuê cần giấy phép lái xe hợp lệ, bên cạnh CCCD hoặc hộ chiếu và đủ 18 tuổi. Khách nước ngoài lưu ý về giấy phép lái xe quốc tế và quy định chuyển đổi, chi tiết đã có trong bài viết về thuê xe cho người nước ngoài. Mức đặt cọc tham khảo từ 2.000.000đ đến 5.000.000đ tùy dòng xe, được hoàn khi trả xe đúng tình trạng.
+Wave là xe số trên 50cc, vì vậy người thuê cần giấy phép lái xe hợp lệ, bên cạnh CCCD hoặc hộ chiếu và đủ 18 tuổi. Khách nước ngoài lưu ý về giấy phép lái xe quốc tế và quy định chuyển đổi, chi tiết đã có trong bài viết về thuê xe cho người nước ngoài. Mức đặt cọc tham khảo từ 1.000.000đ đến 3.000.000đ tùy dòng xe, được hoàn khi trả xe đúng tình trạng.
 
 Nếu bạn muốn xem các dòng xe số khác hoặc so sánh chi tiết giá theo tuần, tháng, trang [bảng giá thuê xe số]( {{ '/bang-gia-xe-so/' | relative_url }} ) có thông tin đầy đủ.
 
