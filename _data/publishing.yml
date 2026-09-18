@@ -20,7 +20,7 @@
 # warning if they drift out of sync.
 
 campaign_id: hanoi-seo-480
-enabled: true
+enabled: false
 max_posts: 48
 posts_per_day: 48
 interval_minutes: 30
