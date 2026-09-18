@@ -94,3 +94,38 @@ Quy tắc nội dung: chỉ dùng dữ liệu kinh doanh đã xác minh (giờ 0
 | 226 | giu-khoang-cach-voi-xe-tai-xe-container | Khoảng cách với xe tải, container | 160, 113 | Góc mù xe lớn chưa có bài riêng |
 | 227 | qua-khu-vuc-truong-hoc-gio-tan-hoc | Qua trường học giờ tan học | 066, 113 | Mốc thời gian đông người bộ hành quanh trường |
 | 228 | ky-nang-day-va-di-chuyen-xe-may-khong-no | Đẩy và di chuyển xe không nổ được | 139, 091 | 139 xử lý không nổ máy; bài này kỹ năng đẩy xe an toàn |
+
+## Kế hoạch 229-258 (đợt 30 bài tiếp theo)
+
+| Số | Slug | Truy vấn chính | Bài gần nhất | Vì sao khác biệt |
+|---|---|---|---|---|
+| 229 | yen-xe-uot-hoac-ban-sau-troi-mua-va-cach-xu-ly | Yên xe ướt, bẩn sau mưa | 206, 197 | 206 đồ bảo hộ ướt; bài này bề mặt yên xe và vết bẩn ngoài trời |
+| 230 | nhan-xe-giao-tan-noi-tai-chung-cu-va-toa-nha | Giao xe tận nơi tại chung cư | 138, 204 | 138 thỏa thuận giao xe; bài này khâu vào cổng, bảo vệ, điểm hẹn trong tòa nhà |
+| 231 | gui-xe-tam-khi-vao-lam-viec-lat-vat | Gửi xe tạm khi làm việc lặt vặt | 203, 171 | 203 vé gửi dài ngày; bài này lần dừng 5-10 phút và chỗ để tạm đúng mực |
+| 232 | sap-xep-thu-tu-cac-diem-dung-trong-ngay | Sắp xếp thứ tự các điểm dừng trong ngày | 134, 113 | 134 công việc linh hoạt; bài này nguyên tắc xếp thứ tự điểm chừng cho mọi mục đích |
+| 233 | khong-de-xe-no-may-khi-cho-lau | Để xe nổ máy khi chờ | chưa có | Thói quen tắt máy khi chờ: an toàn, tiết kiệm, phòng mất xe |
+| 234 | doi-noi-lam-viec-giua-ky-thue-xe-may | Đổi nơi làm việc giữa kỳ thuê | 126, 205 | 126 chọn cửa hàng gần đâu; 205 chuyển chỗ ở; bài này chuyển nơi làm việc |
+| 235 | tu-lieu-ca-nhan-sau-ky-thue-xe-may | Tư liệu cá nhân sau kỳ thuê | 198, 96 | 198 ước lượng quãng đường trong kỳ; bài này lưu trữ tổng kết cho kỳ sau |
+| 236 | kiem-tra-xe-sau-khi-bi-nguoi-khac-dich-chuyen | Xe bị người khác dịch chuyển | 224, 201 | 224 nhớ vị trí; 201 gương lỏng tự nhiên; bài này kiểm tra sau khi xe bị xê dịch |
+| 237 | deo-balo-nang-khi-di-xe-may | Đeo balo nặng khi đi xe máy | 158, 112 | 158/112 đồ trên xe; bài này trọng lượng đeo trên người |
+| 238 | chay-thu-tuyen-moi-truoc-ngay-dau-tien | Chạy thử tuyến mới trước ngày đầu | 088, 120 | 088 đi lại hằng ngày; bài này buổi chạy thử chủ đích trước lịch thật |
+| 239 | cho-nguoi-lon-tuoi-ngoi-sau-xe-may | Chở người lớn tuổi ngồi sau | 104, 065 | 104 người lớn tuổi tự lái; 065 người ngồi sau chung; bài này cụ thể người già yếu |
+| 240 | duong-tron-sau-mua-o-ga-va-vet-dau | Đường trơn sau mưa, ổ gà, vết dầu | 148, 175 | 148 ngập nước; 175 chọn tuyến; bài này nhận diện bẫy trơn khi mặt đường ướt |
+| 241 | de-xe-thue-qua-dem-ngoai-troi-o-khu-tro | Để xe qua đêm ngoài trời ở khu trọ | 197, 131 | 197 nắng ban ngày; 131 xe không dùng lâu; bài này qua đêm sương ẩm và áo trùm |
+| 242 | doan-ruoc-le-hoi-tren-duong-va-cach-xu-ly | Gặp đoàn rước, lễ hội trên đường | 174, 167 | 174 đường đóng tạm; 167 phố đi bộ; bài này đoàn người di động không báo trước |
+| 243 | can-thi-kinh-can-va-thi-giac-khi-di-xe-may | Cận thị, kính và thị giác khi lái | 172, 223 | 172 kính mũ mờ; bài này kính chỉnh thị lực và điều kiện thấy rõ mới đi |
+| 244 | lich-su-trao-doi-voi-noi-cho-thue-xe-may | Lịch sử trao đổi với nơi cho thuê | 163, 152 | 163 trình bày sự cố; 152 chứng từ tháng; bài này lưu tin nhắn, thỏa thuận suốt kỳ |
+| 245 | giay-dep-khi-di-xe-may-thuc-te | Giày dép khi đi xe máy | 164, 154 | 164 trang phục dài; bài này dụng cụ chân tiếp hệ thống điều khiển |
+| 246 | qua-duong-ray-tau-hoa-an-toan | Qua đường ray tàu hỏa | 183, 92 | 183 qua cầu; bài này giao cắt đường ray quanh khu Gia Lâm, Long Biên |
+| 247 | sau-khi-nga-xe-nhe-kiem-tra-va-bao-cua-hang | Sau khi ngã xe nhẹ | 116, 191 | 116 va chạm với người khác; bài này tự kiểm tra người và xe sau ngã |
+| 248 | thoi-quen-liac-guong-va-quan-sat-phia-sau | Thói quen liếc gương, quan sát phía sau | 169, 201 | 169 chỉnh gương; 201 gương lỏng; bài này kỹ năng dùng gương khi lái |
+| 249 | mu-bao-hiem-khi-xuong-xe-de-o-dau | Mũ bảo hiểm khi xuống xe để đâu | 195, 106 | 195 vệ sinh mũ; bài này cất mũ khi đỗ xe, phòng mất và vệ sinh |
+| 250 | gui-xe-o-diem-tham-quan-quanh-ha-noi | Gửi xe ở điểm tham quan | 196, các bài khu vực | Bài khu vực nêu lịch trình; bài này quy tắc gửi xe khi đi tham quan |
+| 251 | tai-nghe-dien-thoai-khi-di-xe-may | Tai nghe, điện thoại khi lái | 156 | 156 giá đỡ điện thoại; bài này máy nghe âm thanh và sự tập trung |
+| 252 | tre-ngu-gat-tren-xe-may-xu-ly-the-nao | Trẻ ngủ gật trên xe máy | 066, 220 | 066 trẻ em an toàn chung; bài này tình huống trẻ buồn ngủ cụ thể |
+| 253 | tien-le-va-thoi-quen-chi-tieu-nho-khi-di-xe | Tiền lẻ khi đi xe máy | 127 | 127 chi phí kỳ thuê; bài này khoản nhỏ hằng ngày: gửi xe, nước, xăng |
+| 254 | tong-kiem-ky-thue-truoc-khi-quyet-dinh-gia-han | Tổng kết kỳ thuê trước khi gia hạn | 079, 96 | 079 thủ tục gia hạn; bài này đánh giá dùng thực tế trước quyết định |
+| 255 | dem-phao-hoa-o-ha-noi-di-xe-may-the-nao | Đêm pháo hoa ở Hà Nội | 167, 217 | 167 phố đi bộ; 217 đêm muộn; bài này đông người đột biến do sự kiện |
+| 256 | doc-mat-duong-tranh-o-ga-va-do-vat-roi | Đọc mặt đường: ổ gà, vật rơi | 175, 240 | 175 chọn tuyến theo mặt đường; bài này kỹ năng quan sát và né trong cự ly ngắn |
+| 257 | nga-tu-khong-den-tin-hieu-di-xe-may-the-nao | Ngã tư không đèn tín hiệu | 107, 187 | 107 vòng xuyến; 187 rẽ trái có đèn; bài này giao cắt không tín hiệu |
+| 258 | hai-nguoi-dung-chung-mot-xe-thue-trong-nha | Hai người dùng chung một xe thuê | 100, 202 | 100 cho người ngoài mượn; bài này vợ chồng, người trong nhà dùng chung |
