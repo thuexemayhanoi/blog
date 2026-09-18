@@ -24,7 +24,7 @@ Một lưu ý riêng cho mùa mưa: giá đỡ mở để điện thoại trần
 
 Nhu cầu sạc giữa ngày rất thực tế khi bạn dùng bản đồ liên tục, vì màn hình bật dài khiến pin tụt nhanh. Một số xe tay ga có ổ cắm sạc hoặc cổng USB, nhưng không phải xe thuê nào cũng có; hãy hỏi cửa hàng khi nhận xe. Nếu xe không có, phương án phổ biến là pin dự phòng nhỏ để trong cốp, kèm dây ngắn vừa đủ. Chọn pin dự phòng có dung lượng vừa phải để đỡ nặng, và nhớ mang theo khi rời xe, vì cốp xe đậu ngoài đường không phải nơi cất giữ đồ giá trị.
 
-Thói quen tốt là sạc điện thoại vào các lúc xe đỗ lâu: lúc làm việc, lúc ăn trưa, lúc về nhà. Cố gắng không vừa chạy vừa cắm dây nối sang pin trong túi áo, vì dây lỏng dễ vướng tay lái khi quay đầu. Nếu bắt buộc phải sạc khi di chuyển, bố trí dây chạy phía trong, băng qua vai thay vì lơ lửng giữa người và tay lái.
+Thói quen tốt là sạc điện thoại vào các lúc xe đỗ lâu: lúc làm việc, lúc ăn trưa, lúc về nhà. Không sạc điện thoại khi xe đang chạy: dây sạc nối từ người sang xe dễ vướng tay lái khi quay đầu, và việc cắm rút dây khi di chuyển bản thân đã là một thao tác phân tán chú ý. Cần thêm pin cho chặng chiều, hãy cắm máy vào pin dự phòng trong lúc nghỉ trưa, hoặc trong lúc chờ ở một điểm dừng, khi xe đã dựng hẳn.
 
 ## Kỷ luật thao tác: chỉ chạm khi xe dừng hẳn
 
@@ -36,7 +36,7 @@ Nếu bạn đi với người ngồi sau, có thể nhờ họ thao tác bản 
 
 ## Cài đặt giảm phân tán trước khi xuất phát
 
-Một lớp chuẩn bị nữa diễn ra trước khi lên xe. Khởi động bản đồ và nhập điểm đến khi còn đứng ở nhà hoặc chỗ gửi xe, để xe chạy là chỉ việc theo lộ trình. Bật chế độ hướng dẫn bằng giọng nói, để bạn nghe thay vì nhìn. Tắt thông báo của các ứng dụng không cần thiết trong giờ đi lại, hoặc bật chế độ tập trung của điện thoại. Những cài đặt này mất vài phút một lần nhưng cắt đi phần lớn lý do khiến tay phải rời tay lái.
+Một lớp chuẩn bị nữa diễn ra trước khi lên xe. Khởi động bản đồ và nhập điểm đến khi còn đứng ở nhà hoặc chỗ gửi xe, để khi xe chạy là chỉ việc theo lộ trình đã cài sẵn mà không cần chạm vào máy. Tắt thông báo của các ứng dụng không cần thiết trong giờ đi lại, hoặc bật chế độ tập trung của điện thoại. Lưu ý riêng về âm thanh: người điều khiển xe mô tô, xe gắn máy không được sử dụng thiết bị âm thanh, trừ thiết bị trợ thính, theo Luật Trật tự, an toàn giao thông đường bộ năm 2024 và Nghị định 168/2024, nên không đeo tai nghe khi chạy xe. Vì thế, mọi thiết lập cần thiết cho chuyến đi nên hoàn tất từ trước: lộ trình, điểm đến, các lựa chọn dừng chân, để trên đường bạn không có lý do gì phải nhìn xuống màn hình hay tháo một bên tai nghe để nghe chỉ đường.
 
 Nên lưu sẵn một vài điểm đến thường dùng: chỗ làm, nhà, địa chỉ cửa hàng cho thuê xe. Khi cần gọi lại lộ trình quen, chỉ hai thao tác thay vì gõ địa chỉ giữa đường. Với người thuê dài hạn, địa chỉ cửa hàng nên nằm trong danh bạ gọi nhanh cùng số điện thoại hỗ trợ để khi xe có sự cố bạn gọi được ngay mà không phải tìm.
 
