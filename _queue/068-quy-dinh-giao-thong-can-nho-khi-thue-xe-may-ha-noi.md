@@ -14,7 +14,9 @@ Chạy xe máy thuê ở Hà Nội nghĩa là bạn chịu trách nhiệm pháp 
 
 ## Giấy tờ bắt buộc khi lưu thông
 
-Khi chạy xe máy, bạn cần mang theo bộ giấy tờ gồm: giấy phép lái xe phù hợp với loại xe, căn cước công dân hoặc giấy tờ tùy thân, và giấy đăng ký xe. Với xe thuê, giấy đăng ký thường là bản photo có công chứng do cửa hàng cung cấp kèm hợp đồng thuê: hãy nhận và giữ kỹ bộ giấy này trong cốp, vì thiếu giấy đăng ký khi bị kiểm tra là một lỗi thật.
+Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, đang có hiệu lực, người điều khiển xe máy khi lưu thông phải mang theo các giấy tờ liên quan đến việc lái xe, gồm: giấy phép lái xe còn hiệu lực, còn điểm và phù hợp với loại xe; giấy đăng ký xe; và chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của chủ xe còn hiệu lực. Căn cước công dân không nằm trong bộ giấy tờ bắt buộc phải có chỉ để vận hành xe máy, dù mang theo giấy tờ tùy thân vẫn hữu ích trong nhiều tình huống, và các giấy tờ nêu trên có thể được tích hợp, xuất trình qua tài khoản định danh điện tử theo quy định hiện hành.
+
+Với xe thuê, giấy tờ về xe là điểm cần hỏi rõ từng cửa hàng, vì cách bố trí giấy tờ tùy theo tình trạng pháp lý của từng chiếc xe. Theo quy định hiện hành, khi lưu thông người lái xuất trình bản gốc giấy đăng ký xe, và bản sao chứng thực giấy đăng ký chỉ được dùng trong một số trường hợp cụ thể do luật định, chẳng hạn xe đang được tổ chức tín dụng giữ bản gốc kèm giấy biên nhận. Vì vậy đừng coi việc xe thuê đi kèm bản photo công chứng là điều mặc định: hãy hỏi trước cửa hàng cung cấp giấy tờ gì khi giao xe và giữ bộ giấy đó cẩn thận trong kỳ thuê.
 
 Người nước ngoài cần thêm hộ chiếu và các giấy tờ liên quan đến giấy phép lái xe của mình. Quy định về giấy phép lái cho người nước ngoài tại Việt Nam có nhiều trường hợp, và việc bạn có được lái xe máy hay không phụ thuộc vào loại giấy phép đang giữ. Hỏi rõ cửa hàng thuê xe trước khi đặt cọc để tránh nhận xe rồi mới phát hiện mình không đủ điều kiện lưu thông.
 
@@ -28,9 +30,9 @@ Với người thuê xe, hậu quả còn vượt ra ngoài khoản phạt: tai 
 
 ## Tốc độ và làn đường
 
-Tốc độ tối đa cho xe máy trong nội thành thường là 40 km một giờ, và trên các tuyến ngoại thành hoặc quốc lộ là cao hơn theo biển báo. Trong thực tế phố xá Hà Nội, dòng xe hiếm khi cho phép bạn chạm tới ngưỡng này, nhưng các trục đường thoáng như đường đê hay vành đai có thể khiến tay ga tự do hơn dự kiến. Giữ mắt đến biển báo tốc độ, nhất là sau các khúc cua và khi đường vắng tạo cảm giác an toàn giả.
+Về tốc độ, mức tối đa cho xe máy tùy thuộc vào loại đường, khu vực và biển báo trên từng tuyến: trong khu đông dân cư, giới hạn thường thấp hơn ngoài khu đông dân cư, và trên nhiều tuyến Hà Nội có biển báo tốc độ riêng. Cách làm đúng là để mắt đến biển báo tốc độ ở mọi đoạn, nhất là sau các khúc cua và khi đường vắng tạo cảm giác an toàn giả trên các trục thoáng như đường đê hay vành đai. Quy định tốc độ có thể thay đổi, nên người lái nên kiểm tra quy định hiện hành và làm theo biển báo trên tuyến đường thực tế.
 
-Về làn đường, xe máy được phép di chuyển trên phần đường dành cho xe máy, sát mép phải của mặt đường theo hướng đi. Lỗi hay gặp của người mới là chạy giữa làn ô tô hoặc đi ngược chiều trên các đường một chiều. Các con phố một chiều của Hà Nội, đặc biệt trong phố cổ, là cạm bẫy quen thuộc: hãy để ý kỹ biển báo cấm chiều ngay từ đầu mỗi con phố, và khi lỡ đi vào đường một chiều, cách xử lý an toàn là đi chậm sát lề về hướng cấm cho đến ngã tư gần nhất chứ không quay đầu đột ngột.
+Về làn đường, xe máy được phép di chuyển trên phần đường dành cho xe máy, sát mép phải của mặt đường theo hướng đi. Lỗi hay gặp của người mới là chạy giữa làn ô tô hoặc đi ngược chiều trên các đường một chiều. Các con phố một chiều của Hà Nội, đặc biệt trong phố cổ, là cạm bẫy quen thuộc: hãy để ý kỹ biển báo cấm chiều ngay từ đầu mỗi con phố, và khi lỡ đi vào đường một chiều, cách xử lý an toàn là giảm tốc, bật đèn và tìm điểm an toàn hợp pháp để rẽ vào lề hoặc quay đầu, tuyệt đối không quay đầu đột ngột giữa dòng.
 
 ## Đèn đỏ và các tín hiệu giao thông
 
@@ -42,7 +44,7 @@ Một điểm đặc thù Hà Nội: nhiều ngã tư nhỏ không có đèn, ho
 
 Đỗ xe trên vỉa hè đúng nơi quy định và không chắn lối đi là yêu cầu chung, dù thực tế phố xá Hà Nội linh hoạt về điểm này. Nguyên tắc của người thuê xe: đỗ ở các bãi gửi xe có người trông khi có thể, với phí thường từ 5.000đ đến 10.000đ một lượt, vì xe thuê đi kèm trách nhiệm tài sản lớn hơn xe của chính bạn. Khi đỗ tạm bên đường, chọn nơi không chắn cửa nhà, không đè vạch kẻ và không đứng ở vùng mù của các khúc cua.
 
-Sử dụng điện thoại khi đang lái xe cũng là hành vi bị xử phạt. Nếu cần xem bản đồ, hãy dừng hẳn ở nơi an toàn rồi mới nhìn điện thoại. Với người nước ngoài đang chạy Google Maps giữa phố lạ, cám dỗ này rất lớn, và giải pháp thực tế là đặt máy nghe trong tai một bên để nghe chỉ dẫn, hoặc dừng lại sau mỗi chặng để kiểm tra hướng đi.
+Sử dụng điện thoại và các thiết bị âm thanh như tai nghe khi đang lái xe cũng là hành vi bị xử phạt theo quy định hiện hành. Nếu cần xem hoặc nghe chỉ đường, hãy dừng xe tại vị trí an toàn trước khi thao tác với điện thoại hoặc thiết bị. Với người nước ngoài đang chạy ứng dụng bản đồ giữa phố lạ, cám dỗ này rất lớn, và giải pháp thực tế là nghe chỉ dẫn qua loa ngoài ở âm lượng vừa đủ hoặc dừng lại sau mỗi chặng để kiểm tra hướng đi.
 
 ## Xe thuê và trách nhiệm pháp lý
 
@@ -52,7 +54,7 @@ Tương tự, trong các vụ va chạm, các thông tin của bạn trong hợp
 
 ## Tóm lại
 
-Các quy định cốt lõi cần nhớ: đủ bộ giấy tờ và mũ bảo hiểm, không tiêu thụ đồ uống có cồn trước khi lái, tuân thủ tốc độ và làn đường, tôn trọng đèn tín hiệu và đỗ xe đúng nơi. Với người thuê xe, tuân thủ quy định còn là bảo vệ tài chính trực tiếp. Để hỏi về các giấy tờ cửa hàng cung cấp kèm xe thuê, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), và tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm toàn bộ quy trình trước khi nhận xe.
+Các quy định cốt lõi cần nhớ: đủ bộ giấy tờ liên quan đến việc lái xe và mũ bảo hiểm, không tiêu thụ đồ uống có cồn trước khi lái, tuân thủ tốc độ và làn đường, tôn trọng đèn tín hiệu và đỗ xe đúng nơi. Lưu ý rằng quy định có thể thay đổi; người lái nên kiểm tra quy định hiện hành và biển báo trên tuyến đường thực tế. Với người thuê xe, tuân thủ quy định còn là bảo vệ tài chính trực tiếp. Để hỏi về các giấy tờ cửa hàng cung cấp kèm xe thuê, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), và tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm toàn bộ quy trình trước khi nhận xe.
 
 ## Một vài điểm thực tế hay bị hỏi
 

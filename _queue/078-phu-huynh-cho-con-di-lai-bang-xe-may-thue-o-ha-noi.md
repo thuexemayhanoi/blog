@@ -26,7 +26,7 @@ Trước khi xe về tay con, hãy ngồi lại thống nhất các quy tắc b�
 
 Điểm về mũ bảo hiểm cần đầu tư đúng mức: mua cho con chiếc mũ đạt chuẩn vừa đầu, thay vì để dùng loại mũ mỏng đi kèm. Đầu của con là thứ không có phiên bản thay thế, và khoản đầu tư vài trăm nghìn cho mũ tốt là khoản chi trả lãi nhất trong toàn bộ câu chuyện này. Thói quen thắt quai kín cũng cần được nhắc lại, vì mũ không thắt quai trượt khỏi vị trí ngay khi có va chạm.
 
-Về mặt pháp lý, phụ huynh cần chắc chắn con có giấy phép lái xe hợp lệ cho loại xe định thuê trước khi đặt cọc. Việc con đủ tuổi nhưng chưa có bằng, hoặc thuê dòng xe vượt phân khối bằng cấp, là một rủi ro pháp lý và bảo hiểm không đáng nhận. Kiểm tra kỹ yêu cầu giấy tờ khi thuê, và nếu con chưa đủ điều kiện, giải pháp trung gian là các dòng xe điện hoặc xe đạp điện cho khoảng cách ngắn trong thời gian chờ.
+Về mặt pháp lý, phụ huynh cần chắc chắn con có giấy phép lái xe hợp lệ cho loại xe định thuê trước khi đặt cọc. Việc con đủ tuổi nhưng chưa có bằng, hoặc thuê dòng xe vượt phân khối bằng cấp, là một rủi ro pháp lý và bảo hiểm không đáng nhận. Kiểm tra kỹ yêu cầu giấy tờ khi thuê, và nếu chưa đủ điều kiện điều khiển dòng xe dự định thuê, hãy chọn loại phương tiện mà người sử dụng thực sự đủ điều kiện điều khiển theo độ tuổi, phân loại xe, công suất và quy định hiện hành, vì xe máy điện hoặc xe đạp điện cũng có thể thuộc diện yêu cầu bằng lái, độ tuổi hoặc phân loại riêng tùy mức công suất.
 
 ## Chọn dòng xe và hình thức thuê phù hợp
 
