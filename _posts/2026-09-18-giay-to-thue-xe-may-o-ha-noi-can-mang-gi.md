@@ -1,4 +1,5 @@
 ---
+date: 2026-09-18 07:50:00 +0700
 layout: post
 title: "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng"
 author: "Nguyễn Tú"
