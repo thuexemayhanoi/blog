@@ -72,11 +72,23 @@ description: "{{ site.description }}"
     <div class="services-grid">
       {% for vehicle in business.vehicle_types %}
       <div class="service-card glass-card">
-        <h3>{{ vehicle.name }}</h3>
-        <p>{{ vehicle.description }}</p>
-        {% if vehicle.examples and vehicle.examples.size > 0 %}
-        <p class="examples"><em>Ví dụ: {{ vehicle.examples | join: ', ' }}</em></p>
+        {% if vehicle.image %}
+        <div class="service-card-media">
+          <img
+            src="{{ vehicle.image | relative_url }}"
+            alt="{{ vehicle.image_alt | default: vehicle.name | escape }}"
+            loading="lazy"
+            decoding="async"
+            class="service-card-image">
+        </div>
         {% endif %}
+        <div class="service-card-body">
+          <h3>{{ vehicle.name }}</h3>
+          <p>{{ vehicle.description }}</p>
+          {% if vehicle.examples and vehicle.examples.size > 0 %}
+          <p class="examples"><em>Ví dụ: {{ vehicle.examples | join: ', ' }}</em></p>
+          {% endif %}
+        </div>
       </div>
       {% endfor %}
     </div>

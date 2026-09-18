@@ -26,6 +26,8 @@ vehicle_types:
     description: "Xe số vận hành tiết kiệm xăng, phù hợp cả di chuyển nội thành và các chuyến đi dài."
     examples:
       - "Honda Wave"
+    image: "/assets/images/services/xe-so-honda-wave.jpeg"
+    image_alt: "Honda Wave - xe số"
   - name: "Xe tay ga"
     description: "Xe tay ga thao tác đơn giản, phù hợp khi di chuyển trong điều kiện đông đúc."
     examples:
@@ -33,12 +35,20 @@ vehicle_types:
       - "Honda Air Blade"
       - "Honda Click"
       - "Yamaha Mio"
+    image: "/assets/images/services/xe-tay-ga-honda-vision.jpeg"
+    image_alt: "Honda Vision - xe tay ga"
   - name: "Xe 50cc"
     description: "Xe 50cc nhẹ, dễ điều khiển, phù hợp quãng đường ngắn trong nội thành. Giá thuê liên hệ trực tiếp."
+    image: "/assets/images/services/xe-50cc.jpeg"
+    image_alt: "Xe 50cc"
   - name: "Xe máy điện"
     description: "Xe máy điện chạy bằng pin, vận hành êm. Giá thuê liên hệ trực tiếp."
+    image: "/assets/images/services/xe-may-dien.jpeg"
+    image_alt: "Xe máy điện"
   - name: "Xe đạp điện"
     description: "Xe đạp điện chạy bằng pin, phù hợp quãng đường ngắn. Giá thuê liên hệ trực tiếp."
+    image: "/assets/images/services/xe-dap-dien.jpeg"
+    image_alt: "Xe đạp điện"
 
 areas:
   - "Long Biên"
