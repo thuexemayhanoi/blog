@@ -59,3 +59,38 @@ Quy tắc nội dung: chỉ dùng dữ liệu kinh doanh đã xác minh (giờ 0
 
 - Đã viết: 001, 002, 003, 011, 014, 021, 025, 039 (8/48)
 - Còn lại: 40 bài sẽ được viết theo từng lô sau khi chủ sở hữu duyệt mẫu bài.
+
+## Planning matrix 199–228 (batch 4)
+
+| # | Slug | Intent | Closest existing | Why distinct |
+|---|------|--------|------------------|--------------|
+| 199 | kiem-tra-ga-de-may-coi-va-xi-nhan-khi-nhan-xe-thue | Kiểm tra chức năng ga, đề, còi, xi nhan lúc nhận xe | 117, 162 | 117 là hồ sơ bàn giao, 162 là kiểm tra định kỳ cuối tuần; bài này là bài thử chức năng trước khi rời cửa hàng |
+| 200 | nap-van-lop-va-ap-suat-lop-xe-thue | Nắp van, áp suất lốp xe thuê | 192 | 192 về lốp mòn; bài này về van, nắp van, thói quen bổ tí |
+| 201 | guong-chieu-hau-bi-long-giua-ky-thue | Gương bị lỏng giữa kỳ thuê | 169, 151 | 169 chỉnh gương đúng cách; bài này xử lý gương lỏng, rung khi đang thuê |
+| 202 | giu-chia-khoa-xe-thue-kho-va-an-toan | Giữ chìa khóa khô, an toàn | 146 | 146 về mất khóa; bài này phòng mất và giữ khóa tốt |
+| 203 | the-ve-gui-xe-khi-di-xe-may-thue | Quản lý thẻ, vé gửi xe hằng ngày | 115 | 115 về gửi xe ban đêm; bài này về vòng thẻ vé trong ngày |
+| 204 | gui-xe-thue-tai-chung-cu-va-toa-nha-van-phong | Thủ tục gửi xe tại chung cư, tòa nhà | 135 | 135 chọn nơi gửi dài hạn; bài này về thủ tục đăng ký, thẻ từ với xe thuê |
+| 205 | chuyen-cho-o-giua-ky-thue-xe-may | Chuyển chỗ ở giữa kỳ thuê | 120, 142 | 120 chuyển đến Hà Nội lần đầu; bài này dọn nhà giữa kỳ thuê |
+| 206 | xu-ly-ao-mua-va-do-bao-ho-uot | Xử lý áo mưa, đồ bảo hộ ướt | 154 | 154 mang đồ che theo người; bài này xử lý sau khi về |
+| 207 | bao-ve-giay-to-khoi-mua-khi-di-xe-may | Bảo vệ giấy tờ khỏi mưa | 137 | 137 quản lý giấy tờ xe; bài này bảo vệ vật lý giấy tờ cá nhân |
+| 208 | cho-laptop-an-toan-tren-xe-may-thue | Chở laptop an toàn | 112 | 112 dụng cụ làm việc chung; bài này chuyên laptop |
+| 209 | cho-may-anh-thiet-bi-quay-phim-tren-xe-may | Chở máy ảnh, thiết bị quay phim | 158 | 158 đồ dài, đồ dễ vỡ; bài này trang bị quay phim |
+| 210 | cho-do-an-thuc-uong-khong-do-vang | Chở đồ ăn thức uống không đổ văng | 111 | 111 đi chợ mua sắm; bài này hộp đựng, chất lỏng |
+| 211 | xuat-phat-buoi-sang-som-bang-xe-thue | Xuất phát sáng sớm | 176, 129 | 176 sương mù; bài này kế hoạch xuất phát sớm nói chung |
+| 212 | khong-phu-thuoc-mot-ung-dung-ban-do | Không phụ thuộc một ứng dụng bản đồ | 99 | 99 dùng bản đồ an toàn; bài này dự phòng ứng dụng và offline |
+| 213 | checklist-nhan-xe-may-dien-thue | Checklist nhận xe điện | 122, 155 | 122 kế hoạch pin; bài này vòng kiểm tra lúc nhận xe |
+| 214 | sac-va-gui-xe-dien-noi-cong-cong | Sạc, gửi xe điện nơi công cộng | 123 | 123 chọn xe điện; bài này phép lịch sự và an toàn khi sạc |
+| 215 | ho-so-hoa-don-khi-thue-xe-cho-cong-viec | Hồ sơ, hóa đơn cho công việc | 152 | 152 chứng từ thanh toán tháng; bài này nhu cầu hóa đơn, báo cáo chi phí |
+| 216 | checklist-ngay-tra-xe-may-thue | Checklist ngày trả xe | 81, 117, 129 | Tổng hợp ngày cuối kỳ: đồ, xe, giấy tờ, giờ |
+| 217 | di-xe-may-ban-dem-muon-o-ha-noi | Đi xe ban đêm muộn | 115, 114 | 115 gửi xe đêm; bài này kỹ năng chạy đêm |
+| 218 | di-xe-thue-khi-troi-tro-lanh-dot-ngot | Trời trở lạnh đột ngột | 072, 177 | 072 mùa hè, 177 nắng chói; bài này rét đột ngột |
+| 219 | cho-hanh-ly-vali-tren-xe-may-thue | Chở hành lý, vali | 158, 111 | Hành lý chuyển điểm nghỉ, không phải đồ chợ hay đồ dài |
+| 220 | cho-do-dung-cho-em-be-tren-xe-may | Chở đồ dùng cho em bé | 066 | 066 trẻ em ngồi trên xe; bài này đồ của bé như hành lý |
+| 221 | danh-ba-diem-sua-xe-cay-xang-tuyen-thuong-di | Bản đồ hỗ trợ trên tuyến thường đi | 179, 145 | 179 danh bạ khẩn cấp; bài này điểm sửa xe, cây xăng trên tuyến |
+| 222 | cho-tru-tam-khi-mua-lon-dang-giua-duong | Chỗ trú tạm khi mưa lớn | 144, 148 | 144 quyết định đi hay không; bài này chọn chỗ trú khi đã dừng |
+| 223 | ngay-bui-mu-o-ha-noi-di-xe-may | Ngày bụi mù | 172, 176 | 172 kính mũ mờ sương; bài này bụi mù không khí |
+| 224 | nho-vi-tri-xe-trong-bai-gui-lon | Nhớ vị trí xe trong bãi gửi lớn | 115, 179 | Kỹ năng thực tế chưa có bài riêng |
+| 225 | di-xe-may-den-benh-vien-o-ha-noi | Đi xe máy đến bệnh viện | 161 | 161 y tế mini trên xe; bài này gửi xe và di chuyển đến cơ sở y tế |
+| 226 | giu-khoang-cach-voi-xe-tai-xe-container | Khoảng cách với xe tải, container | 160, 113 | Góc mù xe lớn chưa có bài riêng |
+| 227 | qua-khu-vuc-truong-hoc-gio-tan-hoc | Qua trường học giờ tan học | 066, 113 | Mốc thời gian đông người bộ hành quanh trường |
+| 228 | ky-nang-day-va-di-chuyen-xe-may-khong-no | Đẩy và di chuyển xe không nổ được | 139, 091 | 139 xử lý không nổ máy; bài này kỹ năng đẩy xe an toàn |
