@@ -34,11 +34,11 @@ Một vài nhận xét thực tế từ kiểu ước này: quãng đường ng�
 
 Biết quãng đường hằng ngày giúp chọn giữa thuê theo ngày, tuần hay tháng. Với người đi đều đặn mỗi ngày trong nhiều tuần, gói tuần hoặc tháng là một hướng đáng cân nhắc; cách tính cụ thể của từng gói cần được xác nhận trực tiếp với cửa hàng trước khi quyết định. Với người chỉ đi đột xuất vài ngày, thuê theo ngày vẫn là lựa chọn đơn giản, không cần gói dài hạn.
 
-Quãng đường còn quyết định thời điểm đổi loại xe trong đầu. Người đi quãng ngắn, đông đúc, chậm, thường hợp với xe nhỏ gọn dễ luồn và dễ đỗ. Người đi quãng dài mỗi ngày, lên ngoại thành hoặc chạy tuyến quốc lộ giáp ranh, thường muốn xe có yên cao hơn, giảm xóc tốt hơn, để ít mệt lưng. Đây là chuyện đáng nói rõ với cửa hàng khi đặt xe, kèm con số quãng đường ước lượng của bạn.
+Quãng đường còn quyết định thời điểm đổi loại xe trong đầu. Người đi quãng ngắn, đông đúc, chậm, thường hợp với xe nhỏ gọn, dễ xoay trở và đỗ trong điều kiện đô thị. Người đi quãng dài mỗi ngày, lên ngoại thành hoặc chạy tuyến quốc lộ giáp ranh, thường muốn xe có yên cao hơn, giảm xóc tốt hơn, để ít mệt lưng. Đây là chuyện đáng nói rõ với cửa hàng khi đặt xe, kèm con số quãng đường ước lượng của bạn.
 
 ## Đổ xăng theo quãng đường, không theo cảm giác
 
-Khi đã ước được quãng đường ngày, việc đổ xăng chuyển từ cảm giác sang kế hoạch. Dung tích bình và mức tiêu hao khác nhau giữa các dòng xe, nên tần suất ghé trạm của mỗi người cũng khác. Chi phí mỗi lần đổ phụ thuộc giá xăng tại thời điểm và mức tiêu hao của từng xe, nên không có số chung nào đáng nêu; điều đáng có là thói quen: đổ trước khi đèn báo mức xăng dự trữ sáng lên, và đừng để cạn thật rồi mới đi tìm trạm ở đoạn đường lạ.
+Khi đã ước được quãng đường ngày, việc đổ xăng chuyển từ cảm giác sang kế hoạch. Dung tích bình và mức tiêu hao khác nhau giữa các dòng xe, nên tần suất ghé trạm của mỗi người cũng khác. Chi phí mỗi lần đổ phụ thuộc giá xăng tại thời điểm và mức tiêu hao của từng xe, nên không có số chung nào đáng nêu; điều đáng có là thói quen: theo dõi mức nhiên liệu của chiếc xe cụ thể mình đang đi, vì đèn và kim báo nhiên liệu khác nhau giữa các dòng xe, và chủ động tiếp nhiên liệu trước khi mức nhiên liệu xuống quá thấp, đừng để cạn thật rồi mới đi tìm trạm ở đoạn đường lạ.
 
 Sự quen thuộc với khu vực mình hay đi là tài sản thật khi lên kế hoạch xăng: bạn biết sẵn vài trạm trên tuyến thường lệ. Nếu kế hoạch có chuyến xa đến vùng lạ, nên đổ đầy trước khi rời khu vực quen thuộc, vì chờ đến khi báo xăng mới tìm trạm ở vùng lạ thường là lúc dễ bị động nhất. Chi phí xăng thực tế thay đổi theo thời điểm, địa điểm, quãng đường và mức sử dụng, nên hãy để con số của chính bạn, ghi qua vài ngày đầu, làm chuẩn.
 

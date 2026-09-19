@@ -18,7 +18,7 @@ Nhiều người đến Hà Nội làm việc hoặc học tập lên kế hoạ
 
 ## Chọn xe thuê phù hợp cho việc luyện tập
 
-Việc trung tâm sát hạch dùng loại xe nào cho bài thi cần hỏi trực tiếp cơ quan tổ chức thi hoặc trung tâm đào tạo, vì phần này có thể thay đổi theo quy định và theo từng địa điểm. Với mục tiêu luyện tập, xe số nhỏ gọn thường là lựa chọn hợp lý hơn xe tay ga: trọng lượng nhẹ, yên thấp, dễ chống chân, và cho phép tập các thao tác ga, ly hợp ở tốc độ chậm. Khi trao đổi với cửa hàng thuê, nói rõ mục đích luyện tập để được gợi ý dòng xe nhỏ nhẹ; đây cũng là dịp hỏi về các quy định của cửa hàng đối với việc luyện tập, bởi một cú ngã khi tập có thể gây trầy xước xe, và điều khoản liên quan đến hư hỏng nên được rõ ràng ngay từ đầu.
+Việc trung tâm sát hạch dùng loại xe nào cho bài thi cần hỏi trực tiếp cơ quan tổ chức thi hoặc trung tâm đào tạo, vì phần này có thể thay đổi theo quy định và theo từng địa điểm. Với mục tiêu luyện tập, xe số nhỏ gọn thường là lựa chọn hợp lý hơn xe tay ga: trọng lượng nhẹ, yên thấp, dễ chống chân, và thuận tiện cho việc tập điều khiển ga, phanh và giữ thăng bằng ở tốc độ chậm; việc luyện vào số và điều khiển ly hợp chỉ áp dụng khi chiếc xe đó thực sự có ly hợp điều khiển bằng tay, vì không phải xe số nào cũng có cơ cấu này. Khi trao đổi với cửa hàng thuê, nói rõ mục đích luyện tập để được gợi ý dòng xe nhỏ nhẹ; đây cũng là dịp hỏi về các quy định của cửa hàng đối với việc luyện tập, bởi một cú ngã khi tập có thể gây trầy xước xe, và điều khoản liên quan đến hư hỏng nên được rõ ràng ngay từ đầu.
 
 Cũng nên nhớ rằng luyện tập và đi thi dùng hai chiếc xe khác nhau, nên mục tiêu luyện không phải làm quen đúng một chiếc xe, mà làm quen đúng các cảm giác: điểm cân bằng của xe đi cực chậm, độ ăn ga, hành trình phanh sau.
 
@@ -36,7 +36,7 @@ Phần lý thuyết của kỳ thi A1 phủ các quy tắc giao thông, biển b
 
 ## Kỳ thi ngày thi: những chi tiết thực tế
 
-Ngày thi, đến sớm để đăng ký thủ tục, nghe phổ biến thể lệ và làm quen mặt bằng. Khi lên xe thi, hai phút đầu tiên dành để chỉnh gương và cảm ga xe: xe thi được nhiều người dùng, mỗi người chỉnh lại một kiểu, và bỏ qua bước này khiến bạn thi bằng chiếc xe chưa từng làm quen. Trong bài thi, đi chậm hơn mức bạn thấy cần: hầu hết các lỗi trừ điểm đến từ vội chứ không phải từ chậm. Nếu một hạng mục bị lỗi, bình tĩnh làm tiếp các hạng mục còn lại thay vì để tâm lý lan sang toàn bài. Kết quả thi và các bước xin cấp giấy phép sau khi đỗ cần được theo dõi theo hướng dẫn của cơ quan tổ chức thi hiện thời.
+Ngày thi, đến sớm để đăng ký thủ tục, nghe phổ biến thể lệ và làm quen mặt bằng. Khi lên xe thi, hai phút đầu tiên dành để chỉnh gương và cảm ga xe: xe thi được nhiều người dùng, mỗi người chỉnh lại một kiểu, và bỏ qua bước này khiến bạn thi bằng chiếc xe chưa từng làm quen. Trong bài thi, giữ tốc độ chậm và đều hơn mức bạn thấy cần, vì vội khiến các thao tác dồn dập và khó sửa kịp; các lỗi trừ điểm cụ thể theo hạng mục nào thì phụ thuộc thể lệ chấm hiện hành của kỳ thi. Nếu một hạng mục bị lỗi, bình tĩnh làm tiếp các hạng mục còn lại thay vì để tâm lý lan sang toàn bài. Kết quả thi và các bước xin cấp giấy phép sau khi đỗ cần được theo dõi theo hướng dẫn của cơ quan tổ chức thi hiện thời.
 
 ## Sau khi có bằng: những điều đáng biết
 
@@ -48,4 +48,4 @@ Luyện sa hình có mức ngã nhẹ gần như là một phần tất yếu c�
 
 ## Giờ tập trên xe thuê là giờ đáng đồng tiền
 
-Việc dùng xe thuê để luyện tập cho kỳ thi A1 là hoàn toàn khả thi nếu làm đúng cách: chọn xe số nhẹ, tìm mặt bằng hợp lệ, luyện từng nhóm kỹ năng có chủ đích, và học lý thuyết song song. Khoản đầu tư này có hai lợi nhuận: một tấm bằng đúng luật và một nền tảng kỹ năng thực thụ. Người coi giai đoạn ôn thi là dịp rèn lại toàn diện kỹ năng lái, thay vì chỉ lo từng phần thi, sẽ thấy tiền thuê xe giờ tập là khoản chi đáng giá nhất trong toàn bộ quá trình.
+Việc dùng xe thuê để luyện tập cho kỳ thi A1 có thể là một phương án trong một số trường hợp nếu pháp luật, địa điểm tập và điều kiện thuê đều cho phép: chọn xe phù hợp, tìm mặt bằng hợp lệ, luyện từng nhóm kỹ năng có chủ đích, và học lý thuyết song song. Khoản đầu tư này có hai lợi nhuận: một tấm bằng đúng luật và một nền tảng kỹ năng thực thụ. Người coi giai đoạn ôn thi là dịp rèn lại toàn diện kỹ năng lái, thay vì chỉ lo từng phần thi, sẽ thấy tiền thuê xe giờ tập là khoản chi đáng giá nhất trong toàn bộ quá trình.

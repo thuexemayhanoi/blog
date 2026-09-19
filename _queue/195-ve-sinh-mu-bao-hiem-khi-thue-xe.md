@@ -38,7 +38,7 @@ Người thuê xe dài hạn nên cân nhắc mua mũ riêng sau vài tuần, v�
 
 ## Nơi để mũ qua đêm: quyết định nhỏ ảnh hưởng lớn
 
-Nơi để mũ khi không dùng cũng là một phần của việc vệ sinh: mũ để trong cốp xe qua đêm ở môi trường ẩm sẽ có mùi nhanh gấp nhiều lần mũ treo thoáng khí. Nếu chỗ ở của bạn có ban công có mái, treo mũ ở đó là phương án chuẩn: thoáng gió, không mưa nắng trực tiếp. Nếu phải để trong phòng, chọn giá hoặc móc gần cửa sổ, tránh tủ kín và tránh gầm giường. Với người sống chung phòng trọ, một móc mũ tường rẻ tiền giải quyết trọn vẹn chuyện này. Nguyên tắc duy nhất cần nhớ là mũ cần khô và thoáng sau mỗi ngày dùng, và mọi nơi để mũ thỏa mãn hai điều đó đều được.
+Nơi để mũ khi không dùng cũng là một phần của việc vệ sinh: mũ để trong cốp xe qua đêm ở môi trường ẩm dễ phát sinh mùi hơn so với mũ treo nơi thoáng khí. Nếu chỗ ở của bạn có ban công có mái, treo mũ ở đó là phương án chuẩn: thoáng gió, không mưa nắng trực tiếp. Nếu phải để trong phòng, chọn giá hoặc móc gần cửa sổ, tránh tủ kín và tránh gầm giường. Với người sống chung phòng trọ, một móc mũ tường rẻ tiền giải quyết trọn vẹn chuyện này. Nguyên tắc duy nhất cần nhớ là mũ cần khô và thoáng sau mỗi ngày dùng, và mọi nơi để mũ thỏa mãn hai điều đó đều được.
 
 ## Ba mốc vệ sinh đáng nhớ trong kỳ thuê tháng
 

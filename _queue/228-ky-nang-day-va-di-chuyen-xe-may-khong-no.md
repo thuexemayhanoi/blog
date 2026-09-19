@@ -15,11 +15,11 @@ Xe máy đột ngột không nổ được máy giữa đường là tình huố
 
 ## Dắt xe đúng cách: tư thế và lực
 
-Đẩy một chiếc xe máy từ ba mươi đến hơn một trăm ki lô gam khác hẳn đạp xe đạp. Đứng bên trái xe, tay trái nắm chốt lái, tay phải đỡ phần khung sau chắc chắn của xe, và giữ xe hơi nghiêng về phía mình để trọng tâm dồn vào chân bạn chứ không phải vào cổ tay. Đi bộ chậm, đều, nhìn xa phía trước khoảng vài mét thay vì nhìn xuống bánh xe. Sai lầm phổ biến là dùng lực tay kéo các tấm ốp hoặc phần nhô ra của xe, vừa khó điều khiển vừa dễ làm hỏng chi tiết; chỉ nắm vào các điểm kết cấu chắc chắn. Trước khi lăn bánh, hãy tắt khóa điện của xe để đề phòng xoay nhầm ga hoặc chạm nhầm vào cơ cấu khởi động. Khi cần quay đầu xe, đừng xoay người quanh xe mà hãy bước quanh xe, giữ xe ở tư thế nghiêng dốc về mình.
+Đẩy một chiếc xe máy từ ba mươi đến hơn một trăm ki lô gam khác hẳn đạp xe đạp. Tư thế dắt nên chỉnh theo trọng lượng và thiết kế của từng xe: nắm chắc các điểm kết cấu chắc chắn như chốt lái và khung sau, dùng cả hai tay khi tình huống cần mức kiểm soát cao, và giữ trọng tâm dồn về chân mình thay vì vào cổ tay. Đi bộ chậm, đều, nhìn xa phía trước khoảng vài mét thay vì nhìn xuống bánh xe. Sai lầm phổ biến là dùng lực tay kéo các tấm ốp hoặc phần nhô ra của xe, vừa khó điều khiển vừa dễ làm hỏng chi tiết; chỉ nắm vào các điểm kết cấu chắc chắn. Trước khi lăn bánh, hãy tắt khóa điện của xe để đề phòng xoay nhầm ga hoặc chạm nhầm vào cơ cấu khởi động. Khi cần quay đầu xe, đừng xoay người quanh xe mà hãy bước quanh xe và giữ xe ở tư thế ổn định.
 
 ## Dắt xe qua đường đông và ngã tư
 
-Nguyên tắc quan trọng nhất khi dắt bộ xe qua đường: chỉ tự mình băng qua ở những điểm an toàn, và nếu đoạn đường đông không có khoảng trống đủ, đừng băng qua bằng mọi giá. Xe dắt bộ di chuyển chậm, khó tăng tốc thoát ra, nên hãy chọn điểm băng qua có đèn tín hiệu, có vạch sang đường, hoặc đoạn đường thẳng vắng đủ dài để quan sát cả hai hướng; ở nơi có lối vòng qua đoạn đông, việc đi vòng thêm vài phút luôn đáng giá hơn việc dắt xe chen qua dòng xe chạy. Nếu kẹt giữa đường vì dòng xe không đứt, dừng hẳn ở vạch phân làn, đứng yên chờ, không cố len tiếp trong tư thế dắt nửa chừng. Buổi tối hoặc trời mưa, hãy hạn chế tối đa việc dắt xe qua đường: người khác khó nhìn thấy bạn, và khi không có điểm băng an toàn, dừng lại ở lề an toàn và chờ thường đúng hơn mọi sự nhanh nhẹn.
+Nguyên tắc quan trọng nhất khi dắt bộ xe qua đường: chỉ tự mình băng qua ở những điểm an toàn, và nếu đoạn đường đông không có khoảng trống đủ, đừng băng qua bằng mọi giá. Xe dắt bộ di chuyển chậm, khó tăng tốc thoát ra, nên hãy chọn điểm băng qua có đèn tín hiệu, có vạch sang đường, hoặc đoạn đường thẳng vắng đủ dài để quan sát cả hai hướng; ở nơi có lối vòng qua đoạn đông, việc đi vòng thêm vài phút luôn đáng giá hơn việc dắt xe chen qua dòng xe chạy. Nếu kẹt giữa đường vì dòng xe không đứt, hãy dừng ở vị trí an toàn gần nhất có thể, giữ xe thẳng đứng và chờ khoảng trống, không cố len tiếp trong tư thế dắt nửa chừng. Buổi tối hoặc trời mưa, hãy hạn chế tối đa việc dắt xe qua đường: người khác khó nhìn thấy bạn, và khi không có điểm băng an toàn, dừng lại ở lề an toàn và chờ thường đúng hơn mọi sự nhanh nhẹn.
 
 ## Vỉa hè cao và những chỗ không nên tự mình dắt xe qua
 
@@ -31,7 +31,7 @@ Dốc dài là tình huống nguy hiểm nhất khi dắt bộ xe: trọng lư�
 
 ## Đặt xe an toàn khi phải bỏ lại tìm giúp
 
-Có lúc phương án tốt là đỗ xe ở nơi an toàn rồi đi bộ hoặc gọi điện tìm hỗ trợ. Khi đó, chọn chỗ đặt xe quan trọng hơn nghĩ nhanh được: lề đường rộng, tránh miệng cống và vạch kẻ, tránh đầu ngõ ra vào, và tuyệt đối không đặt xe ở khúc cua hoặc sau các xe tải đỗ, nơi người đi sau không nhìn thấy. Khóa cổ, khóa lái, rút chìa và cất vào người, gập gương. Nếu có thể, đặt xe hướng vuông góc với lề để chiếm ít diện tích trong tầm nhìn của người khác. Với xe thuê, chụp vài tấm ảnh vị trí xe và xung quanh trước khi rời đi, vừa để nhớ chỗ, vừa để trao đổi với nơi cho thuê nếu có tình huống phát sinh.
+Có lúc phương án tốt là đỗ xe ở nơi an toàn rồi đi bộ hoặc gọi điện tìm hỗ trợ. Khi đó, chọn chỗ đặt xe quan trọng hơn nghĩ nhanh được: lề đường rộng, tránh miệng cống và vạch kẻ, tránh đầu ngõ ra vào, và tuyệt đối không đặt xe ở khúc cua hoặc sau các xe tải đỗ, nơi người đi sau không nhìn thấy. Khóa cổ, khóa lái, rút chìa và cất vào người, gập gương. Đặt xe theo hướng và vị trí hợp pháp, tuân theo vạch kẻ và biển báo tại nơi đó, sao cho xe chiếm ít diện tích và người đi phía sau nhìn thấy được. Với xe thuê, chụp vài tấm ảnh vị trí xe và xung quanh trước khi rời đi, vừa để nhớ chỗ, vừa để trao đổi với nơi cho thuê nếu có tình huống phát sinh.
 
 ## Khi nào nên ngừng cố gắng và liên hệ
 
@@ -47,7 +47,7 @@ Hai người dắt một chiếc xe không nổ dễ hơn một người rất n
 
 ## Vài điều nhỏ nhưng dễ quên
 
-Trước khi bắt đầu dắt bộ một đoạn dài, xếp lại đồ đạc cho gọn nhẹ: phần nặng trong cốp nên lấy ra mang theo tay nếu có thể, giữ cho trọng tâm xe thấp và dễ điều khiển hơn. Đêm tối nên bật đèn hoặc dùng đèn điện thoại cầm tay ở những đoạn không được chiếu sáng, để người đi phía sau nhìn thấy bạn từ xa. Với thời tiết nắng gắt, dắt bộ một đoạn dài mệt không kém chạy xe, nên uống nước trước khi bắt đầu và chọn phần đường có bóng râm nếu có thể chọn. Và nếu xe phải dắt bộ đi sửa, hãy nhớ gọi nơi cho thuê trước, vì nhiều khi họ có phương án nhanh hơn bạn nghĩ, và bạn đỡ mất công dắt cả một quãng dài không cần thiết.
+Trước khi bắt đầu dắt bộ một đoạn dài, xếp lại đồ đạc cho gọn nhẹ: phần nặng trong cốp nên lấy ra mang theo tay nếu có thể, giữ cho trọng tâm xe thấp và dễ điều khiển hơn. Đêm tối nên ưu tiên đoạn đường có chiếu sáng và mặc đồ màu sáng để người đi phía sau nhìn thấy bạn từ xa; tránh vừa dắt xe vừa cầm đèn điện thoại, vì một tay bị chiếm khiến việc giữ xe khó hơn. Với thời tiết nắng gắt, dắt bộ một đoạn dài mệt không kém chạy xe, nên uống nước trước khi bắt đầu và chọn phần đường có bóng râm nếu có thể chọn. Và nếu xe phải dắt bộ đi sửa, hãy nhớ gọi nơi cho thuê trước, vì họ có thể có phương án phù hợp với tình huống, và bạn đỡ mất công dắt cả một quãng dài không cần thiết.
 
 ## Kết lại
 

@@ -35,7 +35,7 @@ Có những tình huống người cần đi khám không ngồi vững trên xe
 
 ## Giữ khoảng cách với các phương tiện đặc biệt
 
-Quanh bệnh viện, bạn sẽ gặp xe cấp cứu ra vào với tần suất cao hơn mọi khu vực khác trong thành phố. Khi nghe còi hiệu lệnh, hãy khẩn trương tránh sang phần đường bên phải và dừng hẳn nếu cần, kể cả khi đèn xanh, để xe cấp cứu vào cổng nhanh nhất. Trong bãi gửi, đừng đỗ chắn các lối dành riêng cho xe cấp cứu dù chỉ vài phút, vì những phút đó có thể ảnh hưởng trực tiếp đến người bệnh khác. Khi ra về giờ đông, chú ý các ca bệnh chuyển tuyến được khiêng qua lối đi giữa dòng xe; giảm tốc và nhường đường là cách ứng xử đúng ở khu vực này. Thói quen quan sát xa hơn bình thường ở quanh cổng bệnh viện giúp bạn phản ứng kịp với những tình huống bất ngờ.
+Quanh bệnh viện, bạn sẽ gặp xe cấp cứu ra vào với tần suất cao hơn mọi khu vực khác trong thành phố. Khi có tín hiệu của xe ưu tiên, hãy nhận biết sớm qua còi và đèn báo, giảm tốc độ và nhường đường khẩn trương nhưng bình tĩnh, theo biển báo, làn đường và người điều khiển giao thông tại chỗ; không chen lên phía trước, không cắt ngang hướng đi của xe cấp cứu, và tránh mọi thao tác gấp có thể tạo thêm nguy hiểm mới cho người xung quanh. Trong bãi gửi, đừng đỗ chắn các lối dành riêng cho xe cấp cứu dù chỉ vài phút, vì những phút đó có thể ảnh hưởng trực tiếp đến người bệnh khác. Khi ra về giờ đông, chú ý các ca bệnh chuyển tuyến được khiêng qua lối đi giữa dòng xe; giảm tốc và nhường đường là cách ứng xử đúng ở khu vực này. Thói quen quan sát xa hơn bình thường ở quanh cổng bệnh viện giúp bạn phản ứng kịp với những tình huống bất ngờ.
 
 ## Trở về: khi người vừa khám xong thường mệt
 
