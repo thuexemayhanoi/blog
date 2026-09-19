@@ -21,7 +21,7 @@
 
 campaign_id: hanoi-seo-480
 enabled: false
-max_posts: 48
+max_posts: 480
 posts_per_day: 48
 interval_minutes: 30
 timezone: Asia/Ho_Chi_Minh
