@@ -219,3 +219,58 @@ Quy tắc nội dung: chỉ dùng dữ liệu kinh doanh đã xác minh (giờ 0
 | 336 | can-xe-truoc-9-gio-sang | Cần xe trước 9 giờ sáng | 129, 280 | 129 giờ nhận trả, 280 thông tin đặt xe; bài này nhận tối hôm trước trong khung giờ hoạt động |
 | 337 | nhieu-chuyen-ngan-trong-ngay | Nhiều chuyến ngắn trong ngày | 114, 232 | 114 mệt mỏi đường dài, 232 thứ tự điểm dừng; bài này mệt tích lũy từ nhiều chuyến ngắn |
 | 338 | duong-vang-mat-dien-dem-toi | Đường vắng vì mất điện ban đêm | 217, 261 | 217 đêm muộn, 261 đèn yếu; bài này khu mất điện: đèn pin, tốc độ, nhận diện chướng ngại |
+
+## Kế hoạch 339–388 (đợt 50 bài tiếp theo)
+
+| Số | Slug | Truy vấn / intent chính | Bài gần nhất | Vì sao khác biệt |
+|---|---|---|---|---|
+| 339 | thue-xe-may-cho-nhung-ngay-thi-cu-quan-trong | Thuê xe máy cho những ngày thi cử quan trọng | 312, 88 | 312 đi học buổi tối thường ngày; bài này ngày thi: giờ gấp, giấy tờ, phương án dự phòng nếu xe trục trặc đúng buổi sáng |
+| 340 | di-xe-may-den-dam-gio-dam-tang-vung-ven-ha-noi | Đi xe máy đến đám giỗ, đám tang vùng ven Hà Nội | 332 | 332 đám cưới tiệc tùng về khuya; bài này tang lễ: xuất phát sớm, đi đoàn, trang phục, giữ giờ giấc nghiêm |
+| 341 | di-lai-bang-xe-may-khi-chan-tay-bi-thuong-tam-thoi | Đi lại khi chân hoặc tay bị thương tạm thời | 188, 190 | 188 mang thai, 190 ốm thuốc buồn ngủ; bài này băng bột, nạng, đánh giá tự lái hay ngồi sau |
+| 342 | lam-quen-xe-con-tay-thue-lan-dau | Làm quen xe côn tay thuê lần đầu | 130 | 130 chuyển từ xe số sang xe ga; bài này xe côn: phối hợp côn ga, vào số, chết máy giữa phố |
+| 343 | cho-do-hinh-tru-va-do-de-lan-tren-xe-may | Chở đồ hình trụ, đồ dễ lăn trên xe máy | 275, 321 | 275 vật dài, 321 nội thất; bài này vật tròn lăn: bình nước, thùng giấy, kỹ thuật chặn lăn |
+| 344 | xu-ly-dinh-vi-lech-giua-khu-pho-cao-tang | Xử lý khi định vị lệch giữa khu phố cao tầng | 212, 279 | 212 không phụ thuộc một ứng dụng; 279 điện thoại hết pin; bài này GPS lệch do nhà cao, đối chiếu mốc thực |
+| 345 | thue-xe-may-giup-khach-nuoc-ngoai-den-tham-nha | Thuê xe máy giúp khách nước ngoài đến thăm nhà | 54, 87 | 54, 87 người nước ngoài tự thuê; bài này vai chủ nhà đặt giúp: ngôn ngữ, giấy tờ, giao xe hộ |
+| 346 | thue-xe-may-theo-tuan-cho-tho-ve-lam-nha | Thuê xe theo tuần cho thợ về làm nhà | 112 | 112 chở dụng cụ làm việc; bài này nhu cầu đội thi công nhiều xe, nhiều tuần, quản lý bài bản |
+| 347 | can-roi-ha-noi-dot-xuat-giua-ky-thue-xe | Cần rời Hà Nội đột ngột giữa kỳ thuê xe | 96, 142 | 96 trả sớm phần ngày chưa dùng, 142 đổi địa điểm trả; bài này tất toán gấp vì chuyến bay, việc đột xuất |
+| 348 | mat-mu-bao-hiem-giua-ky-thue-xe | Mất mũ bảo hiểm giữa kỳ thuê xe | 85, 195, 249 | 85 mũ riêng, 195 vệ sinh mũ, 249 để mũ đúng chỗ; bài này mất mũ: giải pháp tạm, mua lại, thỏa thuận với cửa hàng |
+| 349 | chia-se-vi-tri-voi-nguoi-than-khi-di-khuya | Chia sẻ vị trí với người thân khi đi khuya | 217, 255 | 217 về muộn an toàn, 255 đêm pháo hoa; bài này công cụ chia sẻ vị trí trực tiếp, điểm hẹn, kiểm tra định kỳ |
+| 350 | di-xe-may-khi-co-viec-gap-can-den-ngay | Việc gấp cần đến ngay: đi nhanh mà vẫn an toàn | 337 | 337 quản lý nhiều chuyến ngắn bình thường; bài này tâm lý vội, cám dỗ tốc độ, cách mua thời gian không liều |
+| 351 | di-xe-may-don-ca-sinh-giua-dem | Đi xe máy đón ca sinh giữa đêm | 225 | 225 đến bệnh viện khi có kế hoạch; bài này ca sinh bất chợt nửa đêm, tỉnh táo, gửi xe đêm, đồ đạc |
+| 352 | cho-chay-theo-xe-xu-ly-the-nao | Chó chạy theo xe: xử lý thế nào | 307 | 307 người và vật xuất hiện đột ngột chung; bài này động vật đuổi theo sau, phản xạ đúng, không phanh gấp |
+| 353 | bi-va-quet-roi-bo-di-xu-ly-tung-buoc | Bị va quẹt rồi bỏ đi: xử lý từng bước | 116 | 116 va chạm nhẹ hai bên dừng lại; bài này bên gây việc bỏ chạy: ghi biển số, hiện trường, trình báo |
+| 354 | giay-to-dinh-danh-dien-tu-khi-di-xe-thue | Giấy tờ định danh điện tử khi đi xe thuê | 108, 137 | 108, 137 bị kiểm tra và quản lý giấy tờ vật lý; bài này ứng dụng định danh, tình huống mất mạng, pin |
+| 355 | bi-phat-nguoi-qua-camera-giua-ky-thue | Bị phạt nguội qua camera giữa kỳ thuê | 268 | 268 nhận biết làn cấm để tránh; bài này xử lý khi thông báo phạt đã tới: xác định lỗi, nộp phạt, báo cửa hàng |
+| 356 | chay-xe-sang-som-ve-lang-nghe-vung-ven-ha-noi | Chạy xe sáng sớm về làng nghề vùng ven Hà Nội | 250, 157 | 250 gửi xe điểm tham quan, 157 đường đê ven sông; bài này tuyến làng nghề gộp một sáng, khung giờ mở cửa |
+| 357 | mua-phin-gio-bac-keo-dai-cach-di-xe | Mưa phùn gió bấc kéo dài cả tuần: cách đi xe | 72, 148, 176 | 72 mưa giông mùa hè, 148 ngập nước, 176 sương mù; bài này ẩm ướt dai dẳng: đồ không khô, kính mờ, giữ sức |
+| 358 | ngoi-sau-xe-may-an-toan-khi-khong-tu-lai | Làm hành khách ngồi sau an toàn khi không tự lái | 329, 315 | 329 mũ bảo hiểm người sau, 315 người sau say bia mất tập trung; bài này hành khách chủ động: tư thế, bám, quan sát |
+| 359 | cho-tre-moi-lon-du-tuoi-ngoi-sau-lan-dau | Chở trẻ mới lớn đủ tuổi ngồi sau lần đầu | 066, 252 | 066 trẻ em chung, 252 trẻ ngủ gật; bài này giai đoạn chuyển tiếp: giao quy tắc, tập đoạn ngắn, chạy chậm |
+| 360 | dua-don-con-hai-chieu-truong-xa-bang-xe-thue | Đưa đón con trường xa bằng xe thuê tháng | 227 | 227 kỹ năng qua khu trường học tan giờ; bài này lịch hai chiều hằng ngày, thời gian chờ, gói thuê tháng |
+| 361 | khoa-co-hoa-dien-bi-ket-giua-ky-thue | Khóa cổ hoặc khóa điện bị kẹt giữa kỳ thuê | 146, 150 | 146 mất chìa khóa, 150 ắc quy yếu khóa từ; bài này chìa có mà không xoay được: xử lý nhẹ, không liều |
+| 362 | dong-ho-bao-xang-sai-tren-xe-ga-cu | Đồng hồ báo xăng sai trên xe ga cũ | 147, 84 | 147 hết xăng và đổ nhầm loại, 84 quy ước xăng nhận trả; bài này kim báo sai: ước lượng bằng km, quy tắc đổ sớm |
+| 363 | di-xe-may-khi-vua-ve-tu-chuyen-bay-dai | Đi xe máy khi vừa về từ chuyến bay dài | 190, 114 | 190 ốm thuốc, 114 mệt đường dài; bài này mệt lệch múi giờ sau bay, nên nghỉ, khi nào đủ tỉnh để cầm lái |
+| 364 | chay-xe-sang-som-quanh-ho-ne-dong-nguoi-tap-the-duc | Chạy xe sáng sớm quanh hồ, né dòng người tập thể dục | 167, 211 | 167 phố đi bộ cuối tuần, 211 xuất phát sáng sớm; bài này tuyến quanh hồ giờ tập: dòng người, làn đi, tốc độ thấp |
+| 365 | dien-thoai-roi-xuong-duong-giua-chuyen-di | Điện thoại rơi xuống đường giữa chuyến đi | 156, 279 | 156 giá đỡ và sạc điện thoại, 279 điện thoại hết pin khi định vị; bài này điện thoại rơi giữa dòng xe: quay lại lấy an toàn |
+| 366 | chay-xe-om-cong-nghe-thoi-vu-bang-xe-thue | Chạy xe ôm công nghệ thời vụ bằng xe thuê | 301 | 301 giao hàng bằng xe thuê; bài này chở người: ứng dụng, giờ cao điểm, bảo quản sức, an toàn hành khách |
+| 367 | qua-hoi-cho-phien-vung-ven-bang-xe-may | Qua hội chợ phiên vùng ven bằng xe máy | 186 | 186 chợ tạm và họp chợ sáng sớm nội thành; bài này chợ phiên định kỳ lớn: hàng tràn đường, người đông đặc biệt |
+| 368 | san-may-ngoai-o-sang-som-bang-xe-may | Săn mây ngoại ô sáng sớm bằng xe máy | 356, 250 | 356 làng nghề, 250 điểm tham quan; bài này ngắm mây trên cao: xuất phát trước sáng, đường dốc đèo ngắn, về trưa |
+| 369 | ngay-khong-khi-o-nhiem-nang-di-xe-may-the-nao | Ngày không khí ô nhiễm nặng: đi xe máy thế nào | 223 | 223 ngày bụi mù tầm nhìn; bài này chỉ số ô nhiễm: khẩu trang, kính, giờ né đỉnh ô nhiễm, sức khỏe đường hô hấp |
+| 370 | kinh-mu-bao-hiem-tray-loe-sang-khi-chay-dem | Kính mũ bảo hiểm trầy, loe sáng khi chạy đêm | 172 | 172 kính mũ mờ hơi nước; bài này vết trầy làm đèn loe sáng ban đêm: xử lý, hạn chế, khi nào cần thay kính |
+| 371 | doi-be-trap-dam-cuoi-sang-song-voi-xe-may | Đội bê tráp đám cưới sáng sớm với xe máy | 332 | 332 đi đám cưới về khuya; bài này đứng trong đội tráp: đồng phục, giờ gấp, chở tráp an toàn, đi đoàn |
+| 372 | xich-xe-may-tuot-hoac-lung-giua-duong | Xích xe máy tuột hoặc lỏng giữa đường | 286, 145 | 286 thủng lốp, 145 đồ nghề mini; bài này xích: dấu hiệu lỏng, tiếng kêu, xử lý tạm và báo cửa hàng |
+| 373 | thue-xe-may-di-chup-anh-cuoi-da-ngoai | Thuê xe máy đi chụp ảnh cưới dã ngoại | 209, 330 | 209 chở máy ảnh, 330 dừng chụp ảnh an toàn; bài này lịch chụp nhiều điểm, váy cưới trên xe, thỏa thuận giờ |
+| 374 | gui-xe-o-ben-xe-khi-di-xe-khach-ve-que | Gửi xe ở bến xe khi đi xe khách về quê | 296 | 296 đi xe máy ra ga và bến xe đón tàu; bài này gửi xe qua đêm nhiều ngày ở bến, an toàn, thủ tục |
+| 375 | mo-hoi-tay-va-do-bam-tay-lai-khi-di-xe | Mồ hôi tay và độ bám tay lái khi đi xe | 245, 237 | 245 giày dép, 237 ba lô nặng; bài này bàn tay trơn, găng tay, thời tiết oi, cảm nhận tay lái trượt dần |
+| 376 | nguoi-ngoi-sau-chi-duong-cach-giao-tiep | Người ngồi sau chỉ đường: cách giao tiếp hai chiều | 212, 325 | 212 tự định vị, 325 người sau làm mất tập trung; bài này chia việc lái và việc chỉ đường, câu lệnh ngắn rõ |
+| 377 | chay-xe-toi-cho-hoa-tet-o-ha-noi | Chạy xe tới chợ hoa Tết ở Hà Nội | 60, 291 | 60 thuê xe dịp Tết, 291 chở hoa cây cảnh; bài này chợ hoa Tết đêm cuối tháng: đông đặc biệt, chở hoa đào quất |
+| 378 | chay-xe-sang-toi-cho-dau-moi-mua-ra-si | Chạy xe sáng tới chợ đầu mối mua rau sỉ | 111, 378 không trùng | 111 chở đồ chợ thông thường; bài này chợ đầu mối giờ sớm: thùng xốp, hàng nặng, đường ướt rác rau |
+| 379 | dau-bat-thuong-xuat-hien-giua-duong-dung-o-dau | Đau bất thường xuất hiện giữa đường: dừng ở đâu | 161, 190 | 161 bộ y tế mini, 190 đi khi đang ốm; bài này cơn đau xuất hiện lúc đang chạy: nhận diện, vị trí dừng an toàn |
+| 380 | mang-tien-dat-coc-di-giao-dich-an-toan | Mang tiền đặt cọc đi giao dịch an toàn | 133 | 133 chính sách đặt cọc và hoàn tất; bài này an toàn khi mang khoản cọc trên người, đối soát, nhận lại minh bạch |
+| 381 | di-xe-may-kem-tre-tap-xe-dap-o-khu-dan-cu | Đi xe máy kèm trẻ tập xe đạp ở khu dân cư | 227, 259 | 227 qua khu trường học, 259 trẻ ngủ gật; bài này người lớn đi xe kèm sau trẻ tập xe đạp: chọn đường, khoảng cách |
+| 382 | cho-do-tiep-te-cho-gia-dinh-co-em-be-moi-sinh | Chở đồ tiếp tế cho gia đình có em bé mới sinh | 220, 382 không trùng | 220 đồ dùng cho em bé khi đi cùng; bài này chuyến tiếp tế tới nhà có sản phụ: đồ đông, giờ phép, đi bệnh viện |
+| 383 | thue-xe-may-di-chup-anh-ky-yeu-nhom-ban | Thuê xe máy đi chụp ảnh kỷ yếu nhóm bạn | 159, 373 | 159 đi theo nhóm bạn bè, 373 chụp ảnh cưới; bài này kỷ yếu: nhiều bạn nhiều xe, trang phục đồng phục, đạo cụ |
+| 384 | di-xe-may-khi-mat-ngu-vi-con-nho-quay-dem | Đi xe máy khi mất ngủ vì con nhỏ quấy đêm | 190, 114 | 190 ốm thuốc buồn ngủ, 114 mệt đường dài; bài này thiếu ngủ kéo dài của phụ huynh: dấu hiệu gật, biện pháp thực tế |
+| 385 | di-xe-may-ngay-mung-1-va-ram-thang | Đi xe máy ngày mùng 1 và rằm tháng | 111, 377 | 111 chở đồ chợ, 377 chợ hoa Tết; bài này chợ ngày vía: đông sớm, đồ cúng, nhang hộp dễ vỡ |
+| 386 | xe-may-dien-thue-di-mua-lanh-pin-tu-nhanh | Xe máy điện thuê đi mùa lạnh: pin tụ nhanh | 122, 155, 285 | 122 kế hoạch pin, 155 pin yếu giữa kỳ, 285 xe điện trong mưa; bài này nhiệt độ thấp làm pin tụ: ước lại quãng đường |
+| 387 | di-xe-may-tham-gia-hoat-dong-tinh-nguyen | Đi xe máy tham gia hoạt động tình nguyện | 57, 301 | 57 nhóm gia đình bạn bè đi lại cùng nhau, 301 giao hàng; bài này chở hàng quyên góp, lịch dồn dập, nhiều điểm |
+| 388 | thoi-quen-kiem-tra-60-giay-truoc-moi-sang | Thói quen kiểm tra 60 giây trước mỗi sáng | 162, 199 | 162 kiểm tra cuối tuần, 199 kiểm tra khi nhận xe; bài này vòng kiểm nhanh mỗi sáng: đèn, còi, phanh, áp suất bằng mắt |
