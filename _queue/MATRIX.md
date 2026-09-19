@@ -129,3 +129,38 @@ Quy tắc nội dung: chỉ dùng dữ liệu kinh doanh đã xác minh (giờ 0
 | 256 | doc-mat-duong-tranh-o-ga-va-do-vat-roi | Đọc mặt đường: ổ gà, vật rơi | 175, 240 | 175 chọn tuyến theo mặt đường; bài này kỹ năng quan sát và né trong cự ly ngắn |
 | 257 | nga-tu-khong-den-tin-hieu-di-xe-may-the-nao | Ngã tư không đèn tín hiệu | 107, 187 | 107 vòng xuyến; 187 rẽ trái có đèn; bài này giao cắt không tín hiệu |
 | 258 | hai-nguoi-dung-chung-mot-xe-thue-trong-nha | Hai người dùng chung một xe thuê | 100, 202 | 100 cho người ngoài mượn; bài này vợ chồng, người trong nhà dùng chung |
+
+## Kế hoạch 259–288 (đợt 30 bài tiếp theo)
+
+| Số | Slug | Truy vấn / intent chính | Bài gần nhất | Vì sao chủ đề mới khác biệt |
+|---|---|---|---|---|
+| 259 | de-xe-may-buoi-sang-lanh-o-ha-noi | Đề xe máy buổi sáng lạnh | 199 | 199 nổ máy buổi sáng; bài này đề xe và chở máy khi trời lạnh |
+| 260 | xi-nhan-hong-giua-duong-xu-ly-the-nao | Xi nhan hỏng giữa đường | 201 | 201 gương hỏng; bài này hệ thống báo hiệu rẽ và cách di chuyển tạm |
+| 261 | den-pha-yeu-truoc-chuyen-di-chieu-toi | Đèn pha yếu trước chuyến đêm | 217 | 217 đi đêm; bài này phát hiện và xử lý đèn yếu trước khi lên đường |
+| 262 | gio-chang-vang-tam-nhin-kho-khi-di-xe-may | Giờ chạng vạng khó nhìn | 211 | 211 xuất phát sớm; bài này khung giờ giao sáng tối và tầm nhìn |
+| 263 | xe-thue-nghi-vai-ngay-khong-dung-lam-gi | Xe thuê nghỉ vài ngày | 131, 233 | 131 xe không dùng lâu; bài này các bước chuẩn bị cho xe nghỉ giữa kỳ |
+| 264 | do-xe-duoi-cay-lau-ngay-nhua-cay-phan-chim | Đỗ xe dưới cây lâu ngày | 197 | 197 nắng; bài này nhựa cây, nhện, chim và lớp bẩn khó tẩy |
+| 265 | moc-treo-do-tren-xe-may-dung-the-nao | Móc treo đồ trên xe máy | 112 | 112 chở đồ chung; bài này dùng móc đúng cách, trọng tâm và giới hạn |
+| 266 | day-thun-day-buoc-do-vuong-banh-xe | Dây thun dây buộc vướng bánh xe | 106, 265 | 106 buộc đồ an toàn; bài này nguy cơ dây lọt vào bánh và kiểm tra |
+| 267 | do-xe-gan-khu-vuc-thi-cong | Đỗ xe gần khu thi công | 171 | 171 xây dựng và bụi; bài này chọn vị trí đỗ quanh công trường |
+| 268 | lan-xe-buyt-va-cac-lan-cam-nhan-biet-the-nao | Làn xe buýt và làn cấm | 175 | 175 chọn tuyến; bài này nhận biết làn dành riêng và né đúng lúc |
+| 269 | bao-vi-tri-chinh-xac-khi-xe-thue-su-co-giua-duong | Báo vị trí khi sự cố giữa đường | 191 | 191 xử lý không nổ máy; bài này kỹ năng mô tả vị trí cho nơi hỗ trợ |
+| 270 | ghi-gio-nhan-xe-va-tra-xe-thoi-quen-nho | Ghi giờ nhận và trả xe | 075 | 075 quy định giờ; bài này thói quen ghi mốc giờ hai bên cùng thấy |
+| 271 | giu-bang-chung-thanh-toan-khi-thue-xe | Giữ bằng chứng thanh toán | 244 | 244 lưu trao đổi; bài này chứng từ tiền: cọc, gia hạn, đối chiếu |
+| 272 | doi-so-dien-thoai-giua-ky-thue | Đổi số điện thoại giữa kỳ thuê | 244 | 244 kênh liên lạc chung; bài này đổi số và giữ liên lạc liền mạch |
+| 273 | di-vang-ha-noi-nhieu-ngay-trong-ky-thue | Đi vắng nhiều ngày trong kỳ thuê | 119, 263 | 263 xe nghỉ vài ngày; bài này đi vắng xa: báo trước, nhờ kiểm tra |
+| 274 | suong-mu-buoi-sang-di-xe-may-the-nao | Sương mù buổi sáng | 218 | 218 trời lạnh; bài này tầm nhìn giảm và tốc độ theo lượng thấy được |
+| 275 | cho-vat-dai-tren-xe-may-an-toan | Chở vật dài trên xe máy | 237, 112 | 112/237 balo đồ nặng; bài này kiểm soát hai đầu vật dài |
+| 276 | di-nhom-nhieu-xe-may-giu-lien-lac | Đi nhóm nhiều xe giữ liên lạc | 242 | 242 đoàn rước ngoài ý muốn; bài này tự tổ chức đoàn xe của mình |
+| 277 | bi-kiem-tra-giay-to-khi-di-xe-thue | Bị kiểm tra giấy tờ xe thuê | 125 | 125 giấy tờ cần mang; bài này ứng xử khi bị dừng kiểm tra giữa đường |
+| 278 | rua-xe-thue-o-tram-rua-nen-hay-khong | Rửa xe thuê ở trạm rửa | 097 | 097 giữ gìn xe; bài này quyết định rửa và cách rửa an toàn |
+| 279 | dien-thoai-het-pin-khi-dang-dinh-vi | Điện thoại hết pin khi đang định vị | 099, 212 | 212 không phụ thuộc một ứng dụng; bài này hết pin hoàn toàn giữa đường |
+| 280 | thong-tin-nen-chuan-bi-khi-nhan-dat-xe | Thông tin chuẩn bị khi đặt xe | 064 | 064 đặt xe chung; bài này bộ câu hỏi và thông tin trước cuộc gọi |
+| 281 | lam-quen-xe-may-dien-lan-dau | Làm quen xe máy điện lần đầu | 130 | 130 xe điện chọn thuê; bài này trải nghiệm chuyển từ xe xăng sang điện |
+| 282 | nguoi-lam-hybrid-thue-xe-cho-ngay-den-cong-ty | Người làm hybrid thuê xe đi công ty | 165 | 165 thuê xe đi làm chung; bài này lịch xen kẽ và bài toán chi phí |
+| 283 | thue-xe-khi-xe-rieng-dang-sua-chua | Thuê xe khi xe riêng đang sửa | 069 | 069 lý do thuê xe; bài này kỳ thuê thay thế và điều chỉnh thói quen |
+| 284 | thue-xe-trai-nghiem-truoc-khi-mua-xe-rieng | Thuê xe trải nghiệm trước khi mua | 101 | 101 mua hay thuê; bài này dùng thuê như buổi thử trước quyết định mua |
+| 285 | xe-may-dien-di-trong-mua-luu-y | Xe máy điện đi trong mưa | 097, 281 | 281 làm quen xe điện; bài này nước, ngập, pin ẩm và sạc an toàn |
+| 286 | thung-lop-giua-duong-xu-ly-the-nao | Thủng lốp giữa đường | 192 | 192 sự cố chung; bài này trình tự xử lý lốp mất hơi đến điểm vá |
+| 287 | len-lich-di-lai-theo-du-bao-thoi-tiet | Lên lịch đi lại theo dự báo thời tiết | 154 | 154 theo mùa; bài này đọc dự báo theo giờ và xếp việc theo độ nhạy |
+| 288 | duong-mot-chieu-va-cam-re-o-pho-dong | Đường một chiều và cấm rẽ phố đông | 175 | 175 chọn tuyến; bài này hệ thống một chiều khu phố cổ và đi nhầm xử lý sao |
