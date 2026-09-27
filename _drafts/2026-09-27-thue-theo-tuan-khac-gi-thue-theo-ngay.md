@@ -17,7 +17,7 @@ Nhiều khách đứng trước lựa chọn thuê xe tuần hay ngày mà chỉ
 
 ## Khác biệt thuê tuần về cách tính giá
 
-Khác biệt thuê tuần rõ nhất nằm ở giá. Thuê ngày tính theo đơn giá mỗi ngày, phù hợp nhu cầu ngắn nhưng cộng dồn nhanh nếu kéo dài. Thuê tuần đưa ra giá gói cho trọn bảy ngày, thường thấp hơn tổng tiền bảy ngày lẻ. Lấy ví dụ từ bảng giá đã duyệt của Nguyễn Tú: Honda Vision có giá ngày 200.000đ, tức bảy ngày lẻ là 1.400.000đ, trong khi gói tuần của dòng xe này dao động 800.000đ đến 1.000.000đ. Tương tự, Honda Air Blade ngày 200.000đ, bảy ngày lẻ là 1.400.000đ so với gói tuần 800.000đ. Nhóm Honda Click và Yamaha Mio ngày 150.000đ, bảy ngày lẻ 1.050.000đ so với tuần 600.000đ đến 700.000đ.
+Khác biệt thuê tuần rõ nhất nằm ở giá. Thuê ngày tính theo đơn giá mỗi ngày, phù hợp nhu cầu ngắn nhưng cộng dồn nhanh nếu kéo dài. Thuê tuần đưa ra giá gói cho trọn bảy ngày, thường thấp hơn tổng tiền bảy ngày lẻ. Lấy ví dụ từ bảng giá đã duyệt của Nguyễn Tú: Honda Vision có giá ngày 200.000 đ, trong khi gói tuần của dòng xe này dao động 800.000 đ đến 1.000.000 đ. Tương tự, Honda Air Blade ngày 200.000 đ so với gói tuần 800.000 đ, nhóm Honda Click và Yamaha Mio ngày 150.000 đ so với tuần 600.000 đ đến 700.000 đ. Với bất kỳ dòng xe nào trong nhóm này, bảy ngày thuê lẻ đều vượt xa mức gói tuần.
 
 Nói cách khác, càng cần xe liên tục, chênh lệch giữa thuê tuần và thuê ngày càng nghiêng về phía thuê tuần. Ngược lại, nếu bạn chỉ cần xe ba bốn ngày, thuê ngày lẻ thường gọn hơn vì gói tuần không chia nhỏ. Các mức trên là khung tại thời điểm tham khảo, tiền đặt cọc cần xác nhận trực tiếp với cửa hàng, và bạn nên đối chiếu mới nhất tại trang [bảng giá](/blog/bang-gia/).
 
@@ -39,7 +39,7 @@ Với khách công tác dài ngày, lợi thế thuê tuần là ổn định v�
 
 Ngược lại, thuê ngày giữ lợi thế cho nhóm chỉ cần xe vài ngày: linh hoạt nhận thêm, trả sớm, đổi xe giữa chừng mà không bị ràng bởi gói. Nếu lịch của bạn rời rạc, đừng ngại thuê ngày lẻ dù tổng giá cao hơn chút, vì phần chênh được đổi bằng sự linh hoạt.
 
-## Cách quyết định nhanh trong ba câu hỏi
+## Quyết định thuê xe tuần hay ngày trong ba câu hỏi
 
 Một cách gọn để chọn: thứ nhất, trong bảy ngày tới bạn cần xe bao nhiêu ngày? Dưới bốn ngày thì thuê ngày lẻ, từ năm ngày trở lên thì tính gói tuần. Thứ hai, bạn có cần giữ nguyên một chiếc xe không? Cần thì tuần, không cần thì ngày. Thứ ba, bạn có thể nhận trả xe đúng giờ mở cửa từ 09:00 đến 21:00 không? Thuê tuần đòi bạn có mặt đầu kỳ và cuối kỳ, nếu lịch không chắc thì thuê ngày linh hoạt hơn.
 
