@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra.md",
+  "source_path": "_posts/2026-09-27-chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra.md",
   "content_sha256": "78a6b619fadf373cf7378c74e5391fa417eeed4f642fcf584ad1d8a1868e1343",
-  "matrix_row_sha256": "085c151bcc04cf6f9bfb3a17d8d4f220ea0dcdfa705a5251c383c5513fa8790c",
-  "result": "PASS"
+  "matrix_row_sha256": "73cb3926de7c7356b38dfbb854f4101f801b5285683b35b37370b97d3aa98190",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:01:38+00:00"
 }

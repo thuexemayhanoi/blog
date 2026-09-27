@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-thue-bi-mat-trinh-tu-bao-va-trach-nhiem.md",
+  "source_path": "_posts/2026-09-27-xe-thue-bi-mat-trinh-tu-bao-va-trach-nhiem.md",
   "content_sha256": "0047c76bea8c99d9f645f7df5f7455530f7ba7c823053108353f9425a2e74ab2",
-  "matrix_row_sha256": "4ed505e7974dfcb7ec2c6ab7866ff590d9ad5b5f6bdb758d4d491ee10e876bbd",
-  "result": "PASS"
+  "matrix_row_sha256": "6341c4228b1d98acba0d75241e186ebec63a3890d26a57048e1b7a46bbaadf6b",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:01:38+00:00"
 }

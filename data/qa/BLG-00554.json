@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-thue-bi-csgt-giu-thu-tuc-lay-lai.md",
+  "source_path": "_posts/2026-09-27-xe-thue-bi-csgt-giu-thu-tuc-lay-lai.md",
   "content_sha256": "68b1da3dfff1aae83ac569da13a22673fbea59d44a4ec3e58201485b7bb87e30",
-  "matrix_row_sha256": "a201ca673dd30ea29291b8bf37eebd90330fc79d62640121b23b726eb484f0fb",
-  "result": "PASS"
+  "matrix_row_sha256": "eab2c16d8c65b293c02b6925c12545a30d734a6c8eeb10008e2d5eeded4fcc07",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:01:39+00:00"
 }

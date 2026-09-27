@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc.md",
+  "source_path": "_posts/2026-09-27-xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc.md",
   "content_sha256": "bf25598d125a3aa84e7c84f34d0044654f494284dbd4ffbdb070678f8f9c956e",
-  "matrix_row_sha256": "5ab36c76d3b724fb63307db708b9f61d39aefbc274f5b2c719badcb056166b25",
-  "result": "PASS"
+  "matrix_row_sha256": "0d8b4687e39122ca6a6a447a807c7dbba05be5ab092f4aa48c7353ce8eecdae8",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:01:38+00:00"
 }

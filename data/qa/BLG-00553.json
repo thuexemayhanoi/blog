@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-thue-bi-tai-nan-cac-buoc-ngay-sau-va-cham.md",
+  "source_path": "_posts/2026-09-27-xe-thue-bi-tai-nan-cac-buoc-ngay-sau-va-cham.md",
   "content_sha256": "057c08c1ed411e4bce8bf9f377fd539c8cc8f840b6aafbad54a212a9671962f2",
-  "matrix_row_sha256": "8b30f670f18b1137889908b5f0b383cfe4cd1efb594fcd4c0e70a28484ce224a",
-  "result": "PASS"
+  "matrix_row_sha256": "97762f79fa358053b4174369c8bf725c1c8422808f28816be205a1f0b6bd4b8c",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:01:38+00:00"
 }
