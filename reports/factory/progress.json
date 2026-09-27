@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-27T21:02:19+00:00",
+  "generated_at": "2026-09-27T21:06:02+00:00",
   "data_through": "2026-09-27",
-  "data_fingerprint": "1973491ad31f6270c2fe92d5a6fa276f0b5ea579b03d8aa340919a143fd9c34f",
-  "matrix_sha256": "714d9f95eb40d59428e162b347a4c6c65cc3cfab2990c860a8a120654bb4ce38",
+  "data_fingerprint": "fd0b48ab6017a0a2f5eacf05b03f02224c6f732f09e7191bd1509b874bbc5398",
+  "matrix_sha256": "0e513a07480fa615f8c7d26b9cb96f9a63b0838d325912d3248e241c291b6e7b",
   "taxonomy_sha256": "c05884b3eec013799e914af13cd9a393ea1065fe49fbc3ea313374c5ee7ccab3",
   "inventory_sha256": "21af2f34621ba2d7b9dddbd19191a48c491e8cfdab9f46e3ac65946719656d94",
   "generated_by": "scripts/factory/generate-reports.py (từ dữ liệu thật, bảo toàn tiến độ)",
@@ -14,11 +14,11 @@
     "legacy_review": 10,
     "legacy_existing": 473,
     "planned_total": 383,
-    "writing": 5,
+    "writing": 0,
     "qa": 0,
-    "pass": 0,
+    "pass": 3,
     "published": 70,
-    "repair": 0,
+    "repair": 2,
     "blocked": 1,
     "fail": 0,
     "planned_claimable": 383
@@ -29,7 +29,7 @@
   },
   "published_through_factory": 70,
   "audit": {
-    "repair_pending": 0,
+    "repair_pending": 2,
     "review_pending": 10,
     "post_publish_audit_pending": 0
   },
