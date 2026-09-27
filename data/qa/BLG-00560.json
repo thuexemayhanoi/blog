@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00560",
   "title": "Xe số là gì và ai nên thuê",
-  "scored_at": "2026-09-27T21:13:54+00:00",
+  "scored_at": "2026-09-27T21:15:00+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1216,
+  "word_count": 1221,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-xe-so-la-gi-va-ai-nen-thue.md",
-  "content_sha256": "e2aeb202d8228e24fb295d6b4b754497bc52f8913818756d096bb015983a0945",
+  "content_sha256": "9c1eb52bb23cc6c2690257e235615261e9fbc2f77c801dc4cf6a8bbebc4087ac",
   "matrix_row_sha256": "35b5ecf9a8eb3e1f72fa74c623c80b88b2f4deb6d729d12380be20532c4d7395",
-  "result": "REPAIR"
+  "result": "PASS"
 }

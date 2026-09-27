@@ -1,11 +1,8 @@
 {
-  "run_at": "2026-09-27T21:13:54+00:00",
+  "run_at": "2026-09-27T21:15:00+00:00",
   "op": "qa",
   "outcomes": {
-    "BLG-00560": "REPAIR",
-    "BLG-00561": "REPAIR",
-    "BLG-00562": "PASS",
-    "BLG-00563": "PASS",
-    "BLG-00564": "PASS"
+    "BLG-00560": "PASS",
+    "BLG-00561": "REPAIR"
   }
 }
