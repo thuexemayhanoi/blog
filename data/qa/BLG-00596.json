@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-air-blade-khac-gi-xe-ga-pho-thong.md",
+  "source_path": "_posts/2026-09-27-honda-air-blade-khac-gi-xe-ga-pho-thong.md",
   "content_sha256": "b2440917441495f8a7aa28e36e195451904da455f9d0c3241aaf8fccc5155321",
-  "matrix_row_sha256": "2892bc2fa4be7f82ce98cc72f00eb0ea440b802177edf04f39d933f06d849882",
-  "result": "PASS"
+  "matrix_row_sha256": "2b29c5541ee5dd6e4f7a6715de8c2e190612abaaf5b3a8d735f431ba6edc7277",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:07+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-honda-air-blade-chay-uong-truong-co-ang-khong.md",
+  "source_path": "_posts/2026-09-27-thue-honda-air-blade-chay-uong-truong-co-ang-khong.md",
   "content_sha256": "86b75359759737e4ff1ddca79c9fbc8d3013834ed20f5517dac4df83827872d3",
-  "matrix_row_sha256": "c1b03dc5addb6a1a94cdcb573f785d95ef6e651a905244618feecf9d1f3ff8c3",
-  "result": "PASS"
+  "matrix_row_sha256": "831868d674b44ec34072b6a46c69fbd1415ba8b2ac6fa0541015c73a5768d2b3",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:07+00:00"
 }

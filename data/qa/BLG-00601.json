@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-click-trong-pho-co-nho-hep.md",
+  "source_path": "_posts/2026-09-27-honda-click-trong-pho-co-nho-hep.md",
   "content_sha256": "34b5fdd2e24c199f8f8dea3c662aca9fcc23dd295744b3d790aa468279613386",
-  "matrix_row_sha256": "231acfc3140a64f94ae1dd4ca46615c317cbd79a82bae4d91626bc7be9bfa884",
-  "result": "PASS"
+  "matrix_row_sha256": "8e66b92273020108211ef47880f8194c866376fb82a32e1c4444888fb35eacbf",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:08+00:00"
 }

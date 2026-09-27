@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-click-gon-nhe-hop-ai.md",
+  "source_path": "_posts/2026-09-27-honda-click-gon-nhe-hop-ai.md",
   "content_sha256": "b4b53e315e4bbf2bf75b4369d5c65c0419d7167233c3908ffebd0e16bd42e09b",
-  "matrix_row_sha256": "9e416394efa5c78e0c41636b10ca0fa2e7fba7119a23304ad309dc843d8d818e",
-  "result": "PASS"
+  "matrix_row_sha256": "720d2e4a4f525fda780175fac999fd060890ec57652ead83a63af9885a8520bd",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:08+00:00"
 }

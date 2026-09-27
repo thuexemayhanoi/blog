@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-honda-vision-i-lam-noi-o-trai-nghiem-thuc-te.md",
+  "source_path": "_posts/2026-09-27-thue-honda-vision-i-lam-noi-o-trai-nghiem-thuc-te.md",
   "content_sha256": "29f0bce008e2a2ea3c7aeefca4fed2f1ca9813ded4c7aa4d9dadcd8328394c50",
-  "matrix_row_sha256": "c112f9ee4d9e5fde80921dffa0c5ba4bb84b8cf864d0583b1ee578c091b30bde",
-  "result": "PASS"
+  "matrix_row_sha256": "b7446d235a6f0adf8262ef57c8abed4ed1c4ba0707b0dfb75f8f89c2db507da7",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:07+00:00"
 }

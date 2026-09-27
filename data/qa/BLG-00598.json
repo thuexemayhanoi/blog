@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-air-blade-i-cap-voi-chuyen-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-27-air-blade-i-cap-voi-chuyen-cuoi-tuan.md",
   "content_sha256": "bbd0be32811a8e4ef3dc07bca33ed9760747336c63b95bd0f51913ed1d1bc190",
-  "matrix_row_sha256": "3a453946f60b0362d3f20aaf95564c333319d8da94414bd62c3f5b7941b9ff73",
-  "result": "PASS"
+  "matrix_row_sha256": "537fe9e0fd4be082593c4ce499c8ab5dc5c8802b036779aee0dcf957662133d1",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:07+00:00"
 }

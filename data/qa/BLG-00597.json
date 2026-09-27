@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-air-blade-cho-nguoi-thich-chay-khoe.md",
+  "source_path": "_posts/2026-09-27-honda-air-blade-cho-nguoi-thich-chay-khoe.md",
   "content_sha256": "19e878105928569cce170225c922772f26fd351978a31245ef7b946f8cfb31cc",
-  "matrix_row_sha256": "7f031aa23260bdd12a52da9f5436c22230819d2dfbc4baaaf07806f7442e180c",
-  "result": "PASS"
+  "matrix_row_sha256": "cd62f3ea48db509813dab7f6aaa5a5509b5071db0c16ae544e34152d3d13af64",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:07+00:00"
 }

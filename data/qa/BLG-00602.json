@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-so-sanh-honda-click-va-yamaha-mio-khi-thue.md",
+  "source_path": "_posts/2026-09-27-so-sanh-honda-click-va-yamaha-mio-khi-thue.md",
   "content_sha256": "2940a2dd715813105cf56962ec992f96bf24a3e1205d51fa110a35af5c2e5cce",
-  "matrix_row_sha256": "d913748b0fb9a73cc5a013e65afd6df1472ef60a9a5d859d5af85cf6b69277dd",
-  "result": "PASS"
+  "matrix_row_sha256": "1522caa68e575748a5734057a5da811008bb28e0e48a1a92420a013b8920ae05",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:08+00:00"
 }

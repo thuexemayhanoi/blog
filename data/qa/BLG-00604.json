@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-yamaha-sirius-voi-honda-wave-chon-nao.md",
+  "source_path": "_posts/2026-09-27-yamaha-sirius-voi-honda-wave-chon-nao.md",
   "content_sha256": "2a475787f1844dc41b716c2433e6838617e6a80fbe2ce96ec5b91c6984288a6d",
-  "matrix_row_sha256": "d8fde08d1025196bafa9634d19180915484479656c45a81579a91636b7d242dc",
-  "result": "PASS"
+  "matrix_row_sha256": "de71d50ff4d7f15be2db604694fdae816b4a41abb7a0e988ae75c2ee7e031504",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:08+00:00"
 }

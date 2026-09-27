@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-yamaha-sirius-khi-nao-ang-thue.md",
+  "source_path": "_posts/2026-09-27-yamaha-sirius-khi-nao-ang-thue.md",
   "content_sha256": "bd7d4c2bb7a81e2fa1e27d0bc97faa1d65b950d8cec5a17603d80e3e2875119f",
-  "matrix_row_sha256": "ba1e837cb7356cbb80b8f91e0ce87ab2cba68b747551f130b315516e41575d3f",
-  "result": "PASS"
+  "matrix_row_sha256": "27d659e1686fa01d13c09bccc365f250f61bd3b70df13f717117f21ed7a160ad",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:14:08+00:00"
 }
