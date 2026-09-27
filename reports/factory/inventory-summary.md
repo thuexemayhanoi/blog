@@ -1,6 +1,6 @@
 # Tóm tắt kiểm kê nội dung hiện có
 
-Sinh bởi `scripts/factory/generate-reports.py` từ `data/content-inventory.csv`. Ngày sinh: 2026-09-20T00:00:00+00:00.
+Sinh bởi `scripts/factory/generate-reports.py` từ `data/content-inventory.csv`. Mốc dữ liệu (bài mới nhất): 2026-09-27.
 
 Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào taxonomy (từ `data/state/existing-map.json`, URL giữ nguyên).
 

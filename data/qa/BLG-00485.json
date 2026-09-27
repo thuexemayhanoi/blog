@@ -1,0 +1,20 @@
+{
+  "article_id": "BLG-00485",
+  "title": "Những yếu tố làm giá thuê xe máy thay đổi",
+  "scored_at": "2026-09-27T04:00:00+00:00",
+  "quality": 92,
+  "seo": 91,
+  "business_fact": "PASS",
+  "legal": "NOT_REQUIRED",
+  "critical_failure": false,
+  "cannibalization_check": "Đối chiếu inventory: không có bài legacy giải thích yếu tố ảnh hưởng giá. BLG-00484 là bảng giá (tra cứu), bài này là phân tích nguyên nhân — intent khác nhau.",
+  "pricing_check": "Chỉ dùng con số từ _data/pricing.yml như bằng chứng của BLG-00484.",
+  "blocked_policy": "Cọc/quá giờ/giao tận nơi: chỉ hướng dẫn hỏi xác nhận, không con số.",
+  "criteria": {
+    "structure_h2_h3": "PASS",
+    "internal_links": "PASS: /bang-gia/, /lien-he/",
+    "heading_intent": "PASS",
+    "meta_description": "PASS",
+    "slug_url_match": "PASS"
+  }
+}

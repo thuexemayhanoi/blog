@@ -1,0 +1,20 @@
+{
+  "article_id": "BLG-00493",
+  "title": "Cách so sánh báo giá thuê xe giữa các cửa hàng",
+  "scored_at": "2026-09-27T04:00:00+00:00",
+  "quality": 91,
+  "seo": 90,
+  "business_fact": "PASS",
+  "legal": "NOT_REQUIRED",
+  "critical_failure": false,
+  "cannibalization_check": "Đối chiếu inventory: không có bài legacy về so sánh báo giá giữa các cửa hàng. Không cạnh tranh BLG-00484 (bảng giá) hay BLG-00485 (yếu tố giá).",
+  "pricing_check": "Chỉ dùng con số từ _data/pricing.yml làm mốc đối chiếu, không giới thiệu bảng giá của bên ngoài.",
+  "blocked_policy": "Cọc/phí trễ: nêu rõ từng nơi có điều khoản riêng, phải xác nhận trực tiếp, không con số.",
+  "criteria": {
+    "structure_h2_h3": "PASS",
+    "internal_links": "PASS: /bang-gia/, /gioi-thieu/, /lien-he/",
+    "heading_intent": "PASS",
+    "meta_description": "PASS",
+    "slug_url_match": "PASS"
+  }
+}

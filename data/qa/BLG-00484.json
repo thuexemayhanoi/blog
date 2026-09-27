@@ -1,0 +1,20 @@
+{
+  "article_id": "BLG-00484",
+  "title": "Bảng giá thuê xe máy tại Hà Nội theo loại xe",
+  "scored_at": "2026-09-27T04:00:00+00:00",
+  "quality": 92,
+  "seo": 91,
+  "business_fact": "PASS",
+  "legal": "NOT_REQUIRED",
+  "critical_failure": false,
+  "cannibalization_check": "Đối chiếu inventory: không có bài legacy nào là bảng giá theo loại xe. Bài 'Xe số, xe ga hay xe 50cc: Nên chọn loại nào?' so sánh loại xe để chọn, không báo giá; trang /bang-gia/ là công cụ + bảng giá dịch vụ, không phải bài cẩm nang. Không trùng intent.",
+  "pricing_check": "Toàn bộ con số lấy từ _data/pricing.yml (Wave 150k/ngày; Vision 200k/ngày, 800k–1tr/tuần, 1.8–2tr/tháng; Air Blade 200k/ngày, 800k/tuần, 1.4tr/tháng; Click/Mio 150k/ngày, 600–700k/tuần, 1–1.2tr/tháng; xe điện/xe đạp điện = liên hệ). Không thêm con số chưa duyệt.",
+  "blocked_policy": "Tiền đặt cọc, phí giao nhận, tính quá giờ: chỉ nói 'cần xác nhận trực tiếp', không có con số (policy-conflicts.md BLOCKED).",
+  "criteria": {
+    "structure_h2_h3": "PASS",
+    "internal_links": "PASS: /bang-gia/, /lien-he/",
+    "heading_intent": "PASS",
+    "meta_description": "PASS",
+    "slug_url_match": "PASS"
+  }
+}

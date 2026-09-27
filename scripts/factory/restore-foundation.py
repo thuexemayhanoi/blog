@@ -85,6 +85,10 @@ rows = []
 title_re = re.compile(r'^title:\s*["\']?(.+?)["\']?\s*$', re.MULTILINE)
 cat_re = re.compile(r'^categories:\s*\[?["\']?([^"\'\],]+)', re.MULTILINE)
 date_re = re.compile(r'^date:\s*(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})(?::(\d{2}))?\s*([+-]\d{2})(\d{2})?', re.MULTILINE)
+# bài factory (có article_id:) KHÔNG thuộc legacy inventory — validate.py
+# kiểm chứng riêng đối chiếu matrix PUBLISHED; legacy = không có article_id.
+post_files = [fn for fn in post_files
+              if not re.search(r'^article_id:', open(os.path.join('_posts', fn), encoding='utf-8').read()[:2000], re.M)]
 for fn in post_files:
     m = re.match(r'^(\d{4})-(\d{2})-(\d{2})-(.+)\.md$', fn)
     if not m:
