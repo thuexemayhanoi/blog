@@ -33,6 +33,12 @@ Tại cửa hàng, hãy cùng nhân viên đi vòng kiểm tra xe. Chỉ ra ản
 
 Nếu trong chuyến đi xe từng gặp sự cố như xì lốp đã vá, hay đèn bị cháy đã thay, hãy nói rõ trong biên bản để lưu vết. Những ghi chú nhỏ này bảo vệ bạn nếu sau đó có câu hỏi về tình trạng xe. Khách thuê nhiều ngày nên hỏi luôn về phiếu xác nhận đã trả xe, vì một số cửa hàng ghi lại việc trả vào hồ sơ để lần thuê sau nhanh hơn.
 
+## Những tranh chấp thường gặp và cách tránh
+
+Tranh chấp số một là vết xước phát sinh trong chuyến đi mà khách không nhận ra, thường ở vị trí gương, đầu xe và hông xe. Cách tránh là chụp đủ góc lúc nhận xe và giữ ảnh trên điện thoại đến khi trả xong. Tranh chấp số hai là mức xăng trả thiếu, dễ xảy ra khi kim xăng giữa vạch. Cách tránh là hỏi cửa hàng quy ước cụ thể, ví dụ đầy bình hay vạch giữa, và chụp ảnh bình xăng lúc nhận cùng lúc trả. Tranh chấp số ba là mũ bảo hiểm bị mưa làm ẩm hoặc mất phụ kiện như kính che, nên kiểm tra mũ cùng nhân viên khi trả.
+
+Tranh chấp số bốn là giờ trả trễ phát sinh thêm ngày thuê. Nếu bạn nhận xe lúc mười giờ sáng, nhiều cửa hàng tính ngày thuê theo khung hai mươi tư giờ, nghĩa là trả sau mười giờ sáng hôm sau có thể bị tính thêm một ngày. Cách tránh là hỏi rõ cách tính giờ ngay khi nhận xe, và chủ động nhắn cửa hàng nếu có nguy cơ trễ. Tranh chấp số năm là cọc hoàn chậm vì khách rời cửa hàng trước khi xác nhận chuyển khoản về. Sau khi ký biên bản, hãy chờ vài phút để xác nhận tiền đã về tài khoản trước khi đi.
+
 ## Chuẩn bị chuyến thuê lần sau
 
 Ngay khi trả xe, nếu bạn dự định thuê tiếp trong tuần, hãy hỏi luôn cửa hàng về kiểu thuê theo tuần hoặc theo tháng, vì giá thuê theo tháng thường thấp hơn giá theo ngày nhân số ngày. Cửa hàng cũng nhận đặt xe trước, nên bạn có thể giữ ngay xe cho đợt sử dụng sắp tới mà không cần chờ. Đây cũng là lúc hỏi thêm các dòng xe khác như xe 50cc hoặc xe máy điện nếu nhu cầu của bạn thay đổi, ví dụ chuyển sang đi nội thành ngắn.

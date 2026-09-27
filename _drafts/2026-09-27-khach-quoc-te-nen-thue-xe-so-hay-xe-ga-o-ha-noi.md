@@ -39,6 +39,14 @@ Dù chọn loại nào, hãy dành mười lăm phút đầu để làm quen tro
 
 Về trang phục, mang giày kín mũi và quần dài thay vì dép lê, đặc biệt khi lái xe số vì chân phải đặt lên cần đề nhiều lần. Khách quốc tế hay đi giày thể thao nên thường đã sẵn sàng, nhưng nếu bạn đi sandal thì nên đổi trước khi nhận xe. Mũ bảo hiểm luôn mang theo dù quãng đường ngắn, và chọn mũ còn quai chắc thay vì mũ đã cũ.
 
+## Những tình huống thường gặp của khách quốc tế khi lái xe Hà Nội
+
+Tình huống đầu tiên là bối rối trước mật độ xe ở vòng xuyến và ngã tư lớn. Khách quốc tế quen khái niệm làn đường rõ ràng sẽ thấy giao thông Hà Nội thoạt nhìn hỗn loạn, nhưng thực tế có nhịp riêng: mọi người đi chậm, giữ khoảng cách nhỏ nhưng đều quan sát nhau. Lời khuyên thực tế là giữ tốc độ ngang với dòng xe, không phanh gấp, và luôn ra tín hiệu bằng tay hoặc còi trước khi chuyển hướng. Tình huống thứ hai là đi vào giờ cao điểm buổi sáng và buổi tối, khi xe buýt và xe tải chiếm nhiều diện tích đường. Nếu chuyến đi chỉ vì tham quan, hãy né hai khung giờ này, hoặc chọn xe ga nhỏ để luồn lách dễ hơn trong dòng xe dày.
+
+Tình huống thứ ba là trời mưa bất chợt, đặc biệt vào mùa hè. Đường trơn khiến bánh xe ga dễ trượt hơn xe số khi vào cua. Nếu dự báo có mưa, ưu tiên xe số hoặc giảm tốc rõ rệt, mang áo mưa gấp gọn trong cốp. Tình huống thứ tư là đỗ xe trong phố cổ, nơi chỗ đỗ chật chội. Xe ga với thân nhỏ như Vision hoặc Click dễ đưa vào khe đỗ hơn xe số có gương rộng, và đây cũng là lý do nhiều khách quốc tế chọn xe ga khi chủ yếu đi khu phố cổ và hồ Gươm.
+
+Cuối cùng là câu hỏi về mũ bảo hiểm cho người ngồi sau. Dù đi hai người trên một xe, cả hai đều cần mũ, và bạn nên hỏi cửa hàng chuẩn bị sẵn hai mũ khi đặt xe. Hỏi trước luôn nhanh hơn là đến cửa hàng rồi mới xin thêm.
+
 ## Kết luận
 
 Khách quốc tế thuê xe số hay ga ở Hà Nội nên quyết định dựa trên thói quen lái và cung đường: xe ga cho ai quen scooter và đi nội thành, xe số cho ai muốn ổn định trên đường trường. Hãy kể rõ kinh nghiệm và lộ trình khi liên hệ cửa hàng để được gợi ý đúng xe, và luôn dành thời gian chạy thử trước khi chính thức nhận xe di chuyển trong phố.

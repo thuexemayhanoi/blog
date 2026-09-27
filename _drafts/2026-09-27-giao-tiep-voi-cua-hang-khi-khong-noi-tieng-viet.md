@@ -33,6 +33,14 @@ Tại cửa hàng, hãy dùng điện thoại làm công cụ trung gian. Mở �
 
 Nếu cần, hãy hỏi cửa hàng cách liên hệ khi xe gặp sự cố giữa đường. Lưu số Zalo và số điện thoại của cửa hàng vào danh bạ, và nhắn ngay khi có vấn đề thay vì gọi, vì tin nhắn giúp cả hai bên dùng công cụ dịch dễ hơn. Hầu hết sự cố nhỏ như xì lốp hoặc hết xăng đều xử lý được nếu bạn báo sớm và mô tả được vị trí của mình.
 
+## Mẫu câu tiếng Việt dùng được ngay
+
+Nếu bạn muốn tự nói vài câu tiếng Việt, hãy học bốn mẫu ngắn sau. Thứ nhất: tôi muốn thuê xe máy một ngày. Thứ hai: cho tôi xem bảng giá. Thứ ba: tôi trả xe lúc năm giờ chiều. Thứ tư: cảm ơn anh, cảm ơn chị. Bốn mẫu này che phần lớn tình huống tại quầy, và người Hà Nội rất sẵn lòng khi khách quốc tế cố nói tiếng Việt, dù phát âm chưa chuẩn. Nói chậm, chỉ vào vật bạn muốn thuê, và mỉm cười là đủ để mọi trao đổi trở nên dễ chịu.
+
+Ngoài ra hãy lưu vài cặp từ đối chiếu trên điện thoại để dùng khi lái: vá lốp là fix flat tyre, khóa xe là key, và giao xe là delivery. Khi cần dừng hỏi đường, hãy dừng hẳn vào lề, gỡ mũ và hỏi từng chữ một. Người đi đường Hà Nội thường giúp nhiệt tình, nhưng đừng vừa lái vừa hỏi vì dễ mất tập trung và gây nguy hiểm cho hai bên.
+
+Một lưu ý nhỏ về thanh toán: hỏi trước cửa hàng nhận tiền mặt hay chuyển khoản, và với khách quốc tế nên hỏi đơn vị tiền tệ nào được chấp nhận khi đặt cọc. Nắm rõ điểm này ngay từ đầu giúp bạn tránh tình huống thiếu tiền mặt lúc trả xe khi cần hoàn cọc bằng tiền.
+
 ## Về Thuê Xe Máy Hà Nội Nguyễn Tú
 
 Cửa hàng đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 mỗi ngày. Khách quốc tế có thể liên hệ trước qua số 0942 467 674 hoặc Zalo để hỏi giá và giữ xe. Bảng giá theo ngày gồm các mức thông dụng như Honda Wave và nhóm Honda Click hoặc Yamaha Mio khoảng 150.000 đồng mỗi ngày, Honda Vision khoảng 200.000 đồng mỗi ngày, Honda Air Blade khoảng 200.000 đồng mỗi ngày. Mức cọc và giá theo tuần, theo tháng sẽ được xác nhận trực tiếp khi liên hệ. Cửa hàng cho thuê từ xe số, xe tay ga đến xe 50cc và xe máy điện, phù hợp nhiều nhu cầu di chuyển của khách quốc tế ở Hà Nội, từ đi phố cổ đến chạy vùng ven.

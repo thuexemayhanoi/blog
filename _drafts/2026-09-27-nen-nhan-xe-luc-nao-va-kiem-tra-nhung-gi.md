@@ -37,6 +37,14 @@ Mười phút cuối cùng là chạy thử. Mượn xe đi một vòng ngắn t
 
 Nếu bạn thuê xe nhiều ngày, hãy hỏi luôn những điểm cần lưu ý giữa kỳ: nơi rửa xe gần, trạm xăng quen, và cách báo khi phải di chuyển ra ngoài khu vực dự kiến. Chuẩn bị trước các thông tin này giúp bạn tự tin hơn trong suốt kỳ thuê.
 
+## Những sai lầm thường gặp khi nhận xe
+
+Sai lầm phổ biến nhất là ký biên bản trước khi kiểm tra xe. Một khi đã ký, mọi hư hỏng phát hiện sau đó đều khó phân định trách nhiệm. Quy tắc đơn giản: kiểm tra hết, chụp ảnh xong, rồi mới ký. Sai lầm thứ hai là không chụp đủ góc: nhiều khách chỉ chụp mặt bên, quên đầu xe, đuôi xe và gầm. Hãy chụp ít nhất sáu góc: trước, sau, hai bên hông, đồng hồ, và bình xăng. Sai lầm thứ ba là nhận xe khi trời đã tối mà không có đèn pin, khiến vết xước nhỏ lẫn trong bóng tối.
+
+Sai lầm thứ tư là không hỏi rõ khung giờ cửa hàng mở khi bạn dự định trả xe sớm hoặc trễ. Nếu bạn phải bay sáng sớm và cửa hàng mở lúc 09:00, hãy thống nhất trước phương án trả xe, ví dụ trả tối hôm trước. Sai lầm thứ năm là bỏ qua việc kiểm tra gương chiếu hậu, một chi tiết nhỏ nhưng ảnh hưởng trực tiếp khi lưu thông trong phố đông. Gương lỏng hoặc nứt đều nên được đổi ngay tại quầy trước khi nhận xe.
+
+Cuối cùng, nhiều khách quên mang đủ giấy tờ khi đến nhận, ví dụ chỉ mang bản photo hộ chiếu. Hãy kiểm tra giấy tờ theo danh sách trước khi xuất phát: giấy tờ tùy thân bản chính, giấy phép lái xe, và bản photo dự phòng. Chuẩn bị giấy tờ đầy đủ giúp khâu nhận xe gọn trong mười phút.
+
 ## Về cửa hàng cho thuê tại Long Biên
 
 Thuê Xe Máy Hà Nội Nguyễn Tú đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày. Cửa hàng cho thuê nhiều dòng xe gồm xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện. Mức giá thông dụng theo ngày: Honda Wave và nhóm Honda Click hoặc Yamaha Mio khoảng 150.000 đồng, Honda Vision khoảng 200.000 đồng, Honda Air Blade khoảng 200.000 đồng. Giá theo tuần, theo tháng và mức đặt cọc sẽ được xác nhận trực tiếp khi bạn liên hệ 0942 467 674 hoặc nhắn Zalo trước chuyến đi.
