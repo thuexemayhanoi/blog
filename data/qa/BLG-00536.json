@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban.md",
+  "source_path": "_posts/2026-09-27-khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban.md",
   "content_sha256": "326b2454cac57f6b640757a0ea434d5b84aee4b444b268defd324f7ae046ad05",
-  "matrix_row_sha256": "fad651668d7c46847dfc1ef76c0940f58d80bd4e905c7b25bd2fb0a861674cf0",
-  "result": "PASS"
+  "matrix_row_sha256": "79c1ced810cb891a09b9f156e01b4fcf5212ba4c677acbb48ab4168a6244735c",
+  "result": "PASS",
+  "published_at": "2026-09-27T19:40:08+00:00"
 }

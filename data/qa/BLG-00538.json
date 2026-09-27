@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-i-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can.md",
+  "source_path": "_posts/2026-09-27-i-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can.md",
   "content_sha256": "ff2b32eb3079d17a63d75e4c9618a1aaa81da9920c1dc2152260d3b1612a656a",
-  "matrix_row_sha256": "35faa014c67bb84afedc9e6dac2661dae2f3a6a6ad3bd902efa98d4b6847651b",
-  "result": "PASS"
+  "matrix_row_sha256": "000bb07d5d5b0b4d17caf9ed96b4ff8a8e592f30846dc08c099a7d67640a2afa",
+  "result": "PASS",
+  "published_at": "2026-09-27T19:40:09+00:00"
 }

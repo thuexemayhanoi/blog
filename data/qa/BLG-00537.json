@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-mu-bao-hiem-cho-nguoi-thue-xe-quoc-te.md",
+  "source_path": "_posts/2026-09-27-mu-bao-hiem-cho-nguoi-thue-xe-quoc-te.md",
   "content_sha256": "dd0e03aa06e70171e65f39e8d85a180a37c1992294c61068237a34ccf78758a9",
-  "matrix_row_sha256": "d752db8f900f0efe1d7ef4283986b7712f894d10f7f745c27cb27d493ef7f4ae",
-  "result": "PASS"
+  "matrix_row_sha256": "99879196dc0b1cf9b6f25211ee6439ba7437940c754a95f5b73ceef83d9f5be9",
+  "result": "PASS",
+  "published_at": "2026-09-27T19:40:08+00:00"
 }

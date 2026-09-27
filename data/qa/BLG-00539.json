@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-khach-quoc-te-thue-xe-may-o-ha-noi-can-giay-to-gi.md",
+  "source_path": "_posts/2026-09-27-khach-quoc-te-thue-xe-may-o-ha-noi-can-giay-to-gi.md",
   "content_sha256": "d0661ec3e8884481ac2b325860d2008e423cd7d218cc24e255a74fcff1646701",
-  "matrix_row_sha256": "494db5f1d95bcdcb72453827f518073c93c0c725d75c07179838f819688044d5",
-  "result": "PASS"
+  "matrix_row_sha256": "18126d2610c23d2154da7bc646d318d5fa0fad8fc6be91cc2a79bbf9f485a850",
+  "result": "PASS",
+  "published_at": "2026-09-27T19:40:09+00:00"
 }

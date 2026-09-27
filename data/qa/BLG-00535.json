@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam.md",
+  "source_path": "_posts/2026-09-27-giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam.md",
   "content_sha256": "0fef94805f379624f8ddc59d8f85c47fe0cadcd407aac643f07ff3f83cd6038a",
-  "matrix_row_sha256": "8e560d93ed5f285e910377670cb0f0dbe5874f6874bd8629e1056076df84395e",
-  "result": "PASS"
+  "matrix_row_sha256": "d58117dcea5c12d568188ef95a5b1adb8832cd99697daa752a1e7106da10f61e",
+  "result": "PASS",
+  "published_at": "2026-09-27T19:40:08+00:00"
 }
