@@ -1,24 +1,24 @@
 {
   "article_id": "BLG-00539",
   "title": "Khách quốc tế thuê xe máy ở Hà Nội cần giấy tờ gì",
-  "scored_at": "2026-09-27T19:32:17+00:00",
+  "scored_at": "2026-09-27T19:32:54+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
     "draft_date": true,
     "slug_match": true,
     "permalink_canonical": true,
-    "word_count": true,
+    "word_count": false,
     "title_match": true,
     "description_length": true,
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
     "headings_intent": true,
-    "links_matrix_required": true,
+    "links_matrix_required": false,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": true,
+    "links_routes_valid": false,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,9 +29,12 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1208,
+  "word_count": 958,
   "word_target": 1400,
-  "bad_routes": [],
+  "bad_routes": [
+    "/blog/chia-se/2026/09/18/cach-dat-xe-may-truoc-tu-xa/",
+    "/blog/kinh-nghiem/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
+  ],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -39,9 +42,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": false,
+  "critical_failure": true,
   "source_path": "_drafts/2026-09-27-khach-quoc-te-thue-xe-may-o-ha-noi-can-giay-to-gi.md",
-  "content_sha256": "9232c281d377cccbc46d03ea1c49b5eb5bd5265466c600621f0bc83bd818f149",
+  "content_sha256": "e03c4beb2c56368ddc98105cfa402fb663a84b6174ec63c377d38bb73dfe8957",
   "matrix_row_sha256": "494db5f1d95bcdcb72453827f518073c93c0c725d75c07179838f819688044d5",
-  "result": "PASS"
+  "result": "REPAIR"
 }
