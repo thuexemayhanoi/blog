@@ -23,7 +23,7 @@ Với mỗi ngày tuyến xa, hãy chốt trước quãng đường mục tiêu 
 
 ## Chọn xe cho chuyến đi 7 ngày
 
-Bảy ngày liên tục đòi loại xe bền và thoải mái hơn nhu cầu đi lại nội thành. Xe số như Wave nhẹ và bền đường trường, hợp ai quen ngồi tư thế đứng pedal, dễ len qua đường cong. Xe ga như Vision hay Air Blade cho tư thế ngồi thoải mái hơn trên quãng dài và cốp rộng hơn cho đồ đạc. Nếu nhóm có người không quen đường trường, ưu tiên xe ga để bớt mỏi tay trái. Cách cân nhắc giữa hai loại được phân tích kỹ trong bài [chọn loại xe cho chuyến đi dài](/blog/chia-se/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/).
+Bảy ngày liên tục đòi loại xe bền và thoải mái hơn nhu cầu đi lại nội thành. Xe số như Wave nhẹ và bền đường trường, hợp người quen tư thế ngồi của xe số, dễ len qua đường cong. Xe ga như Vision hay Air Blade cho tư thế ngồi thoải mái hơn trên quãng dài và cốp rộng hơn cho đồ đạc. Nếu nhóm có người không quen đường trường, ưu tiên xe ga để bớt mỏi tay trái. Cách cân nhắc giữa hai loại được phân tích kỹ trong bài [chọn loại xe cho chuyến đi dài](/blog/chia-se/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/).
 
 Với chuyến bảy ngày, thuê theo tuần gần như luôn hợp hơn thuê từng ngày lẻ, vì giá gói tuần thấp hơn tổng tiền ngày và bạn giữ nguyên một chiếc xe quen tay cả hành trình. Hình thức thuê tuần và nhóm khách phù hợp được mô tả trong bài [thuê xe máy theo tuần phù hợp nhu cầu nào](/blog/thue-xe/2026/09/27/thue-xe-may-theo-tuan-phu-hop-nhu-cau-nao/).
 
