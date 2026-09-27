@@ -15,7 +15,7 @@ article_id: BLG-00590
 
 Người chưa từng đi xe máy nhiều khi tìm thuê lần đầu ở Hà Nội hay được gợi ý thuê honda wave cho người mới, và điều đó không phải ngẫu nhiên. Wave nhẹ, yên thấp, thao tác trực quan và dễ làm quen hơn hầu hết các dòng xe khác trong tầm giá phổ thông. Tuy nhiên, người mới vẫn cần biết mình sắp phải làm quen với gì, vì xe số có côn và chân số, khác biệt với hình dung của khá nhiều người mới. Bài viết này lý giải vì sao Wave hay được chọn cho người mới tập lái, trình tự tập an toàn, và những câu hỏi nên hỏi cửa hàng trước khi nhận xe.
 
-## Vì sao Wave dễ lái hơn cho người mới
+## Vì sao thuê honda wave cho người mới là gợi ý phổ biến
 
 Thứ nhất là trọng lượng và kích thước: Wave thuộc nhóm xe máy nhẹ nhất, yên thấp nên hai bàn chân chạm đất chắc chắn khi dừng, điều quan trọng nhất với người mới vì đa số ngã xe ở tình huống dừng đỏ và đặt chân. Thứ hai là trọng tâm thấp, xe đứng vững khi đẩy, rẽ và vào ngõ chật hẹp. Thứ ba là ga nhẹ và phản ứng tuyến tính: vặn một chút xe đi một chút, không bị hiện tượng giật của một số xe đã dùng lâu. Kết hợp lại, wave dễ lái gần như ngay từ buổi đầu, kể cả với người chưa từng điều khiển xe máy bao giờ.
 

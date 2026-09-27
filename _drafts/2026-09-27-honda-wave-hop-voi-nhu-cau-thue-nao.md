@@ -15,7 +15,7 @@ article_id: BLG-00586
 
 Khi đứng trước lựa chọn thuê honda wave, câu hỏi đầu tiên của người thuê hiếm khi là xe có đẹp không, mà là dòng xe này hợp với nhu cầu đi lại của mình hay không. Wave là dòng xe số phổ biến nhất ở Việt Nam, dễ tìm phụ tùng, dễ sử dụng và ít hỏng vặt, nhưng không phải nhu cầu nào nó cũng là câu trả lời tốt nhất. Bài viết này đi qua từng nhóm nhu cầu thực tế ở Hà Nội, từ đi làm hằng ngày, chạy đường trường đến chở đồ, để bạn tự đối chiếu trước khi đặt xe.
 
-## Đặc điểm honda wave tạo nên sức hút khi thuê
+## Vì sao thuê honda wave được nhiều người chọn
 
 Wave là xe số tay côn có kết cấu đơn giản: động cơ nhẹ, khung xe gọn, trọng lượng thấp hơn hẳn các dòng xe ga cùng thời. Chính nhờ kết cấu đó mà Wave tiết kiệm xăng thuộc hàng tốt nhất trong các loại xe máy chạy xăng, một điểm cộng lớn khi bạn đi lại hằng ngày quãng đường dài. Thao tác số càng, chân đề của xe số cho cảm giác kiểm soát xe rõ rệt khi leo dốc hoặc chạy tốc độ ổn định trên đường trường, điều mà xe ga với bộ truyền vô cấp khó làm được cùng mức. Chi tiết hơn về dòng xe này nằm ở [chủ đề Honda Wave](/blog/xe-may/honda-wave/), nơi tổng hợp các bài viết về cách dùng và bảo dưỡng xe.
 
