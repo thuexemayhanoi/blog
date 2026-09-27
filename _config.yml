@@ -18,6 +18,7 @@ plugins:
 
 # Exclude
 exclude:
+  - AGENTS.md
   - .sass-cache/
   - .jekyll-cache/
   - docs/

@@ -25,7 +25,7 @@ Ngoài ra, dòng xe được chọn ảnh hưởng trực tiếp đến giá. Xe
 
 Để có khung so sánh, dưới đây là mức giá tham khảo theo ngày tại Thuê Xe Máy Hà Nội Nguyễn Tú, địa chỉ 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội. Xe số Honda Wave có mức tham khảo 150.000 đồng mỗi ngày. Nhóm xe ga phổ biến như Honda Vision và Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày. Honda Click và Yamaha Mio nằm ở mức 150.000 đồng mỗi ngày, tương đương nhóm xe số phổ thông.
 
-Với xe máy điện và xe đạp điện, giá thay đổi theo model và tình trạng pin, nên cần gọi trực tiếp để biết mức hiện hành. Toàn bộ khung giá theo dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/blog/bang-gia/), còn tổng quan nhóm giá thuê theo từng loại xe nằm trong chuyên mục [giá thuê xe máy](/thue-xe/gia-thue/).
+Với xe máy điện và xe đạp điện, giá thay đổi theo model và tình trạng pin, nên cần gọi trực tiếp để biết mức hiện hành. Toàn bộ khung giá theo dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/blog/bang-gia/), còn tổng quan nhóm giá thuê theo từng loại xe nằm trong chuyên mục [giá thuê xe máy](/blog/thue-xe/gia-thue/).
 
 Những mức trên là mức tham khảo cho ngày thường. Khi nhu cầu dịp lễ tăng, mức giá thực tế có thể thay đổi, và khoản đặt cọc được xác nhận trực tiếp khi bạn liên hệ. Vì vậy không nên lấy mức tham khảo làm giá chốt cuối cùng cho các ngày cao điểm.
 

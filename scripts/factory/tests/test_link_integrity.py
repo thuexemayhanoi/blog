@@ -19,6 +19,7 @@ import csv
 import io
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -316,6 +317,82 @@ class QaRouteEvidence(unittest.TestCase):
         self.assertEqual(ev['checks']['links_routes_valid'], False)
         self.assertIn('/blog/khong-ton-tai-route-xyz/', ev['bad_routes'])
         self.assertNotIn('/blog/bang-gia/#tinh-gia', ev['bad_routes'])
+
+
+# ------------------------------------------------------------------ R8-R11
+class SiteIntegrity(unittest.TestCase):
+    """Bảo vệ vĩnh viễn sau đợt sửa link toàn site 2026-09-27:
+
+    R8  mọi bài trong _posts KHÔNG còn liên kết nội bộ thiếu /blog
+    R9  AGENTS.md bị exclude khỏi build công khai (không render /blog/AGENTS/)
+    R10 mọi internal_links của matrix resolves vào route truth
+    R11 generate-topic-hubs idempotent: hub được tham chiếu phải tồn tại
+    """
+
+    POST_LINK = re.compile(r'\]\(\s*/(?!blog)[^)\s]+')
+
+    def test_r8_published_posts_no_prefixless_links(self):
+        posts_dir = os.path.join(ROOT, '_posts')
+        bad = []
+        for fn in sorted(os.listdir(posts_dir)):
+            text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+            body = text.split('---', 2)[2] if text.count('---') >= 2 else text
+            for m in self.POST_LINK.finditer(body):
+                bad.append((fn, m.group(0)))
+        self.assertEqual(bad, [], 'liên kết thiếu /blog trong _posts: %s' % bad[:10])
+
+    def test_r9_agents_md_excluded_from_public_build(self):
+        cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
+        self.assertTrue(re.search(r'^exclude:.*', cfg, re.M), 'thiếu exclude trong _config.yml')
+        m = re.search(r'^exclude:\n((?:  - .*\n)+)', cfg, re.M)
+        self.assertIn('AGENTS.md', m.group(1), 'AGENTS.md phải nằm trong exclude')
+        self.assertTrue(os.path.exists(os.path.join(ROOT, 'AGENTS.md')),
+                        'AGENTS.md vẫn phải tồn tại trong repository')
+
+    def test_r10_matrix_internal_links_resolve_to_route_truth(self):
+        work, tmp = fresh_copy()
+        try:
+            code = ('import importlib.util as u, json\n'
+                    's = u.spec_from_file_location("fo", '
+                    '"scripts/factory/factory-operator.py")\n'
+                    'm = u.module_from_spec(s)\n'
+                    's.loader.exec_module(m)\n'
+                    'm.BASEURL = m._site_baseurl()\n'
+                    'print(json.dumps(sorted(list(m.canonical_routes()))))\n')
+            rr = run(work, '-c', code)
+            self.assertEqual(rr.returncode, 0, rr.stderr)
+            routes = set(json.loads(rr.stdout))
+            bad = []
+            with open(os.path.join(work, 'data/content-matrix.csv'),
+                      encoding='utf-8') as f:
+                for row in csv.DictReader(f):
+                    for l in (row['internal_links'] or '').split(';'):
+                        l = l.strip().rstrip(';').strip()
+                        if not l:
+                            continue
+                        if not l.startswith('/blog'):
+                            bad.append((row['id'], row['status'], l, 'thiếu /blog'))
+                            continue
+                        route = l.split('#', 1)[0]
+                        if not route.endswith('/'):
+                            route += '/'
+                        if route not in routes:
+                            bad.append((row['id'], row['status'], l, 'route không tồn tại'))
+            self.assertEqual(bad, [], 'matrix links lệch route truth: %s' % bad[:10])
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    def test_r11_topic_hubs_exist_and_generator_idempotent(self):
+        work, tmp = fresh_copy()
+        try:
+            r1 = run(work, 'scripts/factory/generate-topic-hubs.py')
+            self.assertEqual(r1.returncode, 0, r1.stdout + r1.stderr)
+            self.assertIn('idempotent', r1.stdout + ('hub mới' if False else ''))
+            r2 = run(work, 'scripts/factory/generate-topic-hubs.py')
+            self.assertEqual(r2.returncode, 0, r2.stdout + r2.stderr)
+            self.assertIn('OK: mọi hub', r2.stdout)
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
 
 
 if __name__ == '__main__':
