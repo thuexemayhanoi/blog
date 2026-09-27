@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00512",
   "title": "Nên thử xe như thế nào khi nhận xe máy thuê",
-  "scored_at": "2026-09-27T16:36:27+00:00",
+  "scored_at": "2026-09-27T16:42:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 980,
+  "word_count": 982,
   "word_target": 1100,
-  "bad_routes": [
-    "/blog/kinh%20nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-nen-thu-xe-nhu-the-nao-khi-nhan-xe-may-thue.md",
-  "content_sha256": "b221956c9f22bd0a835242faa17b66f8bb13bd3ce54b5b55a217fc9ec32f7c56",
+  "content_sha256": "fba9495561119de6cceb27de004125e81420460f23767671814662da6a8a5717",
   "matrix_row_sha256": "857e9b153ce03e93f7e1763c3c468bde38d66d4292f018acf35f51b8c28ca60a",
-  "result": "REPAIR"
+  "result": "PASS"
 }

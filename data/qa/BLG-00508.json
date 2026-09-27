@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00508",
   "title": "Bảo lưu và đổi lịch nhận xe",
-  "scored_at": "2026-09-27T16:36:27+00:00",
+  "scored_at": "2026-09-27T16:42:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1149,
+  "word_count": 1152,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/chia%20se/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-bao-luu-va-oi-lich-nhan-xe.md",
-  "content_sha256": "eae83bb74404169faa909af4d362a35ac59d7c35cdca23292514ce8e42a372c3",
+  "content_sha256": "e7ba522165e63933a099fad7a8c29a99a28ef7b656adb410e48e8adaef65bab9",
   "matrix_row_sha256": "9fd054631c420f5be2ba8695cc2c713d8b458492efecb4ebb407d475ae9f089b",
-  "result": "REPAIR"
+  "result": "PASS"
 }

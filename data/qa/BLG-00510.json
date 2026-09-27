@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00510",
   "title": "Chuẩn bị giấy tờ gì trước khi đến cửa hàng thuê xe",
-  "scored_at": "2026-09-27T16:36:27+00:00",
+  "scored_at": "2026-09-27T16:42:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 963,
+  "word_count": 965,
   "word_target": 1100,
-  "bad_routes": [
-    "/blog/kinh%20nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe.md",
-  "content_sha256": "c6a69eae67d2089b4c2f12262e2ad1677b9425f1b17475defa4d1c02ceb52ced",
+  "content_sha256": "63828c60fe9ba802ca000ea502315a8bef72c43e82e1c50a319f41469e3950de",
   "matrix_row_sha256": "9cfa240282efc2c49595d92f96eb5351fd3b5815163a4a6aab02712e2e6221f8",
-  "result": "REPAIR"
+  "result": "PASS"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00514",
   "title": "Thời gian tính một ngày thuê xe tính từ khi nào",
-  "scored_at": "2026-09-27T16:36:27+00:00",
+  "scored_at": "2026-09-27T16:42:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1046,
+  "word_count": 1047,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/kinh%20nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-thoi-gian-tinh-mot-ngay-thue-xe-tinh-tu-khi-nao.md",
-  "content_sha256": "15f2f33ee436da55c25b0e1e5b61cabfd4f09bb6909c44a984e4dae8d89dc44b",
+  "content_sha256": "dab6180d17272fa2017ac3f8601f3b5af9ae815aad35295465d7faac3d585381",
   "matrix_row_sha256": "6db73b2366646ff0307833ad8eb88684617346ceefe49eeb79e9015e84054609",
-  "result": "REPAIR"
+  "result": "PASS"
 }

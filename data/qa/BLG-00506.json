@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00506",
   "title": "Thuê xe máy cho người nước ngoài: thủ tục riêng",
-  "scored_at": "2026-09-27T16:36:27+00:00",
+  "scored_at": "2026-09-27T16:42:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1178,
+  "word_count": 1179,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/chia%20se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng.md",
-  "content_sha256": "08d0237cfea302d1e3e594923a78f31c8084032a0fb50108bd9ef54253a6c1a7",
+  "content_sha256": "6427d2464c28c431049d7bf8def9cd61084f14406b223411de376635b6474956",
   "matrix_row_sha256": "36e95e4da720b73db397dfa9ff8d11eeab1df5b38096f31c9566e5ecb2c1e21a",
-  "result": "REPAIR"
+  "result": "PASS"
 }

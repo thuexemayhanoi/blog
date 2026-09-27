@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00509",
   "title": "Những câu nên hỏi cửa hàng trước khi thuê",
-  "scored_at": "2026-09-27T16:36:27+00:00",
+  "scored_at": "2026-09-27T16:42:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1040,
+  "word_count": 1037,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/kinh%20nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-nhung-cau-nen-hoi-cua-hang-truoc-khi-thue.md",
-  "content_sha256": "fa34ad5feed348e14bf32dabdb8d8e982d6f4760746c5d83772e4e0f8808578a",
+  "content_sha256": "40de8d6c626ec668b2979ef61a1c1ad9b5875ee80a8bf094c442ec6fe2becc11",
   "matrix_row_sha256": "f10f5c038b22097d3c127bd3e649058a6d0ea482d782615e0ceacac5c2aa4250",
-  "result": "REPAIR"
+  "result": "PASS"
 }
