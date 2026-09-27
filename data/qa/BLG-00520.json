@@ -1,14 +1,14 @@
 {
   "article_id": "BLG-00520",
   "title": "Chăm xe trong suốt tuần thuê",
-  "scored_at": "2026-09-27T17:42:58+00:00",
+  "scored_at": "2026-09-27T17:48:09+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
     "draft_date": true,
     "slug_match": true,
     "permalink_canonical": true,
-    "word_count": false,
+    "word_count": true,
     "title_match": true,
     "description_length": true,
     "description_keyword": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,12 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 951,
+  "word_count": 1087,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/chia-se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/",
-    "/blog/ky-nang/cho-do-va-hanh-li/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -42,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-cham-xe-trong-suot-tuan-thue.md",
-  "content_sha256": "2d7e139d2eccbc26326c49fa1822f19f14141c228e5b54eb15b51b17b279f34c",
+  "content_sha256": "231e3ec71cb8be4d12916ccda49c1e593f6c232b14468075899a1c745b2194a9",
   "matrix_row_sha256": "38394b01083318393fa5624bdfac31d2f01bc246cd892ebe139b7a19fe182471",
-  "result": "REPAIR"
+  "result": "PASS"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00515",
   "title": "Thuê xe theo ngày nên nhận xe buổi nào tiện",
-  "scored_at": "2026-09-27T17:42:58+00:00",
+  "scored_at": "2026-09-27T17:48:09+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,11 +14,11 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1150,
+  "word_count": 1159,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/chia-se/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-thue-xe-theo-ngay-nen-nhan-xe-buoi-nao-tien.md",
-  "content_sha256": "c90201ed68eb62565cefdf61298146bb280bf5c8f6d3da500ee5ce6ad6857172",
+  "content_sha256": "c7ad455e7a0ca9f02e1153c1e552441fa89846c9859483c6d1c9c4cdcff74b32",
   "matrix_row_sha256": "1a18e2ef73c185c699762f5c9afd918e06532a5cbf47ef837e57cebbee75bc61",
-  "result": "REPAIR"
+  "result": "PASS"
 }
