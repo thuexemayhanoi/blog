@@ -20,18 +20,42 @@ lenh nao chua implement. Chay tu goc repository.
 - python3 scripts/factory/refill-queue.py --plan
   In claimable, min_ready_queue (100), refill_target (300).
 - python3 scripts/factory/refill-queue.py --verify
-  Kiem toan bo gate G1-G7 cho ledger refill-candidates.json.
-  CI chay lenh nay o moi push (factory-capacity-validate.yml).
-- python3 scripts/factory/refill-queue.py --commit --yes
-  CHI CHAY KHI OWNER PHE DUYET: merge ledger vao
-  data/state/matrix-seed.json. Sau do buoc buoc:
+  Kiem toan bo gate G1-G8 cho ledger refill-candidates.json.
+  PURE VALIDATION: khong ghi ledger/matrix/checkpoint, khong gan ID.
+  exit 0 = PASS; khac 0 = gate violation thuc su.
+- python3 scripts/factory/refill-queue.py --verify --report -
+  In bao cao ra stdout (CI gan vao $GITHUB_STEP_SUMMARY).
+  Khong bao gio commit bao cao tu CI.
+- python3 scripts/factory/refill-queue.py --verify --report PATH
+  Operator ghi bao cao deterministic ra file (truong hop
+  operator chu dong, khong phai CI).
+- python3 scripts/factory/refill-queue.py --dry-run
+  Sinh candidate trong memory (khong ghi): generated/accepted/
+  rejected. Cay lam viec KHONG doi sau dry-run.
+- python3 scripts/factory/refill-queue.py --selftest
+  9 test tieu cuc (dup intent/kw/slug/title, sai child,
+  word_target nong, capacity overflow, candidate_id trung).
+- python3 scripts/factory/refill-queue.py --refill --yes
+  CHI CHAY KHI OWNER PHE DUYET: materialize ledger vao
+  data/state/matrix-seed.json (kiem writer lock + transaction
+  truoc khi doi du lieu, xac nhan lai gate sau merge).
+  Sau do buoc buoc:
   python3 scripts/factory/generate-matrix.py
   roi commit matrix + seed + bao cao.
+  (--commit --yes van hoat dong nhu alias cu.)
 
-Gate G1-G7 (khong ha nguong): child ton tai + headroom;
-kw unique trong child; intent unique trong child; slug
-unique toan matrix; word_target >= 1.200; candidate_id
-unique; child thuoc taxonomy (ke thua source policy).
+Gate G1-G8 (khong ha nguong): child ton tai + headroom (G1);
+kw unique trong child (G2); intent unique trong child (G3);
+slug unique toan matrix (G4); canonical + output_path unique (G4b);
+word_target >= 1.200 (G5); candidate_id unique (G6);
+child thuoc taxonomy, ke thua source policy (G7);
+title khong trung toan matrix (G8).
+
+LUU Y CI: workflow factory-capacity-validate.yml la
+READ-ONLY (permissions: contents: read), khong bao gio
+commit/push ve main. Refill --verify chi in log/step summary.
+Thay doi trang thai (matrix, seed, ledger, checkpoint) chi
+xay ra qua lenh operator chu dong.
 
 ## 3. Claim
 

@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "note": "Refill staging ledger (smoke test 2026-09-27). Candidates STAGED, chua materialize vao matrix. Duyet gate boi refill-queue.py --verify (CI).",
+    "note": "Refill staging ledger. Candidates STAGED, chua materialize vao matrix. Duyet gate boi refill-queue.py --verify. 2026-09-27: backfill word_target thuc te (>=1200) cho 28 candidate roi cuoc smoke test de du lieu du day khong phai ha nguong gate.",
     "created": "2026-09-27",
     "smoke_test": true,
     "status": "STAGED_NOT_MATERIALIZED",
@@ -40,7 +40,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người mới thuê xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-003",
@@ -73,7 +74,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách thuê xe đi phố",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-005",
@@ -89,7 +91,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người đi xa bằng xe điện",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-006",
@@ -105,7 +108,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người phượt xe số",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1400
     },
     {
       "candidate_id": "CAND-2026-001-007",
@@ -121,7 +125,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "chủ xe và khách thuê",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-008",
@@ -137,7 +142,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người đi xe hằng ngày",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1400
     },
     {
       "candidate_id": "CAND-2026-001-009",
@@ -153,7 +159,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách thuê xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-010",
@@ -169,7 +176,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người sống và du lịch Hà Nội",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-011",
@@ -185,7 +193,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "gia đình cuối tuần",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-012",
@@ -201,7 +210,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người thích chụp ảnh",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-013",
@@ -217,7 +227,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "du khách và nhiếp ảnh",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-014",
@@ -233,7 +244,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người phượt 1 ngày",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1400
     },
     {
       "candidate_id": "CAND-2026-001-015",
@@ -249,7 +261,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người đi lễ đầu năm",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1400
     },
     {
       "candidate_id": "CAND-2026-001-016",
@@ -265,7 +278,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người phượt cuối tuần",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1400
     },
     {
       "candidate_id": "CAND-2026-001-017",
@@ -281,7 +295,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người lái xe phổ thông",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-018",
@@ -297,7 +312,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người đi phố",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-019",
@@ -313,7 +329,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người chở hàng nhỏ",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-020",
@@ -329,7 +346,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách du lịch ngủ lại phố cổ",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-021",
@@ -345,7 +363,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách thuê ngắn hạn",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-022",
@@ -361,7 +380,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người mới thuê xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-023",
@@ -377,7 +397,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người chưa có GPLX",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1400
     },
     {
       "candidate_id": "CAND-2026-001-024",
@@ -393,7 +414,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách phân vân chọn xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-025",
@@ -409,7 +431,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách thuê xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-026",
@@ -425,7 +448,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người mới thuê xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-001-027",
@@ -441,23 +465,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "con cháu thuê hộ người thân",
-      "location_scope": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-001-028",
-      "child_id": "C-THUE-DIA-DIEM",
-      "title": "Thuê xe máy gần ga Hà Nội để đi đâu cho tiện",
-      "intent": "Tìm nơi thuê xe máy gần ga Hà Nội và lợi ích",
-      "kw": "thuê xe máy gần ga hà nội",
-      "kw2": [
-        "thuê xe quanh ga hà nội"
-      ],
-      "links": [
-        "/thue-xe/thue-theo-dia-diem/"
-      ],
-      "subtopic": "refill-2026-09-27",
-      "audience": "khách tàu đến Hà Nội",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-029",
@@ -473,7 +482,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "khách thuê xe",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     },
     {
       "candidate_id": "CAND-2026-001-030",
@@ -489,7 +499,8 @@
       ],
       "subtopic": "refill-2026-09-27",
       "audience": "người chuẩn bị chuyến xa",
-      "location_scope": 1400
+      "location_scope": 1400,
+      "word_target": 1300
     }
   ],
   "rejected": [
@@ -522,6 +533,11 @@
       "title": "Cách tra phạt nguội xe máy",
       "child_id": "C-XE-GA",
       "reason": "WRONG_CLUSTER: chu de thuoc C-PHAT-NGUOI, dat sai child nen loai bo"
+    },
+    {
+      "candidate_id": "CAND-2026-001-028",
+      "title": "Thuê xe máy gần ga Hà Nội để đi đâu cho tiện",
+      "reason": "DUPLICATE_PRIMARY_KEYWORD: kw \"thuê xe máy gần ga hà nội\" trùng BLG-00905 (cạnh tranh cùng ý định trong C-THUE-DIA-DIEM) — gate G2 từ chối đúng, loại candidate."
     }
   ]
 }

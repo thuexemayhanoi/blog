@@ -55,12 +55,18 @@ Cum lon nhan nhieu (vi du C-THUE-GIA 300), cum hep nhan it
 - Khi claimable PLANNED < 100: sinh candidate den ~300.
 - KHONG bao gio sinh 9.000 hang mot luc.
 - Candidate staged trong data/state/refill-candidates.json;
-  gate G1-G7 kiem boi scripts/factory/refill-queue.py
-  --verify (chay trong CI, read-only).
+  gate G1-G8 kiem boi scripts/factory/refill-queue.py
+  --verify (PURE validation, chay trong CI, read-only;
+  --report - in ra stdout cho step summary, khong bao gio
+  commit ve main tu CI).
   Candidate bi loai: ghi ro ly do trong phan rejected.
   KHONG ha nguong chat luong de lap day capacity.
-- Materialization (refill --commit --yes) chi chay khi owner
-  phe duyet: append vao data/state/matrix-seed.json roi
+- Them: --dry-run (in-memory, cay lam viec khong doi),
+  --selftest (9 test tieu cuc va xung dot).
+- Materialization (refill --refill --yes, operator-only,
+  kiem writer lock + transaction truoc khi doi du lieu)
+  chi chay khi owner phe duyet: append vao
+  data/state/matrix-seed.json roi
   generate-matrix.py sinh lai matrix (idempotent, CI kiem).
 
 ## Batch / run model
@@ -94,7 +100,17 @@ chat luong noi dung, legal freshness, factory state.
 - scripts/factory/capacity-audit.py: kiem mo hinh vs matrix.
 - scripts/factory/queue.py: view queue phia tren matrix.
 - scripts/factory/refill-queue.py: lazy refill (plan/verify/
-  commit).
+  dry-run/selftest/refill).
 - scripts/factory/sitemap-plan.py: du do shard sitemap.
 - .github/workflows/factory-capacity-validate.yml: CI read-only
-  cho toan bo tren.
+  (contents: read, KHONG commit bao cao ve main) cho toan bo
+  tren: capacity audit, queue stats, refill verify + idempotency,
+  collision selftest, dry-run sach cay lam viec, sitemap plan.
+
+## So huu production engine (ownership guard)
+
+- .github/workflows/publish-queue.yml + _data/publishing.yml:
+  LEGACY-SUPERSEDED, dang enabled: false. Chi la campaign cu
+  duoc giu lai lam tai lieu; KHONG duoc bat lai song song voi
+  factory 10K. Factory 10K (writer lock + transaction + publish
+  gate) la engine duy nhat so huu production.

@@ -28,7 +28,9 @@ Cap nhat: 2026-09-27. Nguon tien do: reports/factory/progress.json
 - data/content-matrix.csv: 942 hang = materialized manifest.
 - data/factory-capacity.json: mo hinh nang luc va nguong refill.
 - data/state/refill-candidates.json: staging ledger cua refill
-  (smoke test 2026-09-27: 30 candidate staged, 5 rejected ghi ro).
+  (cap nhat 2026-09-27: 29 candidate staged, 6 rejected ghi ro
+  ly do - word_target backfill >= 1.200, CAND-2026-001-028
+  moved rejected do dup kw voi BLG-00905).
 - KHONG tao bang su that thu hai; queue chi la view
   (scripts/factory/queue.py).
 
@@ -39,5 +41,13 @@ Cap nhat: 2026-09-27. Nguon tien do: reports/factory/progress.json
 - Queue: 455 PLANNED claimable - chua can refill
   (min_ready_queue 100). Co che refill da duoc chung minh
   bang smoke test va gate CI.
+- Run sua workflow 2026-09-27: factory-capacity-validate.yml
+  duoc sua lai (nguyen nhan loi jobs=[] la line-continuation
+  lam hong YAML block scalar). CI validation bay gio
+  READ-ONLY (contents: read, khong commit bao cao ve main);
+  refill-queue.py co them --dry-run / --selftest /
+  --report -; smoke tests A-L PASS local.
 - Scheduler: CHUA tao (dung). READY_FOR_SCHEDULING chi bao khi
   moi gate xanh.
+- Pilot: CHUA chay (dung). Khi owner phe duyet: 3-5 bai that,
+  QA + publish gate + CI + Pages + kiem live, roi dung.

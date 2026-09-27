@@ -1,8 +1,9 @@
 name: Factory capacity validate
 
 # Kiem chu mo hinh nang luc 10K + queue layer + refill ledger.
-# Refill verify ghi bao cao deterministic; neu bao cao doi thi CI
-# commit lai (commit-if-diff) de operator doc duoc ket qua.
+# Workflow validation la READ-ONLY: khong bao gio commit/push ve main.
+# Ket qua chi dua ra log va step summary. Bao cao trong repo chi duoc
+# tao boi lenh operator co chu dong (refill-queue.py --verify --report).
 
 on:
   push:
@@ -11,10 +12,10 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 concurrency:
-  group: factory-capacity-report
+  group: factory-capacity-validate
   cancel-in-progress: false
 
 jobs:
@@ -37,37 +38,49 @@ jobs:
       - name: Queue stats (view over matrix)
         run: python3 scripts/factory/queue.py --stats
 
-      - name: Refill ledger verify (writes deterministic report)
+      - name: Refill verification (pure, read-only)
         run: |
-          set +e
-          python3 scripts/factory/refill-queue.py --verify
-          code=$?
-          echo "verify_exit=$code" >> "$GITHUB_ENV"
-          exit 0
+          set -e
+          python3 scripts/factory/refill-queue.py --verify --report - >> "$GITHUB_STEP_SUMMARY"
+          echo "OK: refill gates PASS (G1-G8)"
 
-      - name: Commit verify report if changed
+      - name: Refill idempotency (verify twice, same output)
         run: |
-          git config user.name "factory-capacity-bot"
-          git config user.email \
-            "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/factory/refill-verify.md
-          if git diff --cached --quiet; then
-            echo "report khong doi - khong commit"
-            exit 0
-          fi
-          git commit -m "ci: refill verify report (deterministic)"
-          git push origin HEAD:main || \
-            (git pull --rebase origin main \
-             && git push origin HEAD:main)
+          set -e
+          python3 scripts/factory/refill-queue.py --verify --report - > /tmp/verify_1.txt
+          python3 scripts/factory/refill-queue.py --verify --report - > /tmp/verify_2.txt
+          diff /tmp/verify_1.txt /tmp/verify_2.txt
+          echo "OK: verify deterministic (2 lan giong het)"
 
-      - name: Verify must pass
+      - name: Collision gates selftest (negative tests)
         run: |
-          if [ "$verify_exit" != "0" ]; then
-            echo "FAIL: refill gate violations - xem \
-reports/factory/refill-verify.md"
+          set -e
+          python3 scripts/factory/refill-queue.py --selftest
+          python3 scripts/factory/refill-queue.py --dry-run
+
+      - name: Working tree must be unchanged after dry-run
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "FAIL: dry-run lam thay doi cay lam viec"
+            git status --porcelain
             exit 1
           fi
-          echo "OK: refill gates PASS"
+          echo "OK: dry-run read-only, working tree sach"
 
       - name: Sitemap 10K plan
         run: python3 scripts/factory/sitemap-plan.py
+
+      - name: Final summary
+        run: |
+          {
+            echo "## Factory capacity validate - PASS"
+            echo "- Capacity audit: PASS (10000 = 9517 child + 483 legacy)"
+            echo "- Queue stats: PASS"
+            echo "- Refill verify G1-G8: PASS"
+            echo "- Refill idempotency: PASS"
+            echo "- Collision selftest: PASS"
+            echo "- Dry-run read-only: PASS"
+            echo "- Sitemap 10K plan: PASS"
+            echo "- Validation workflow: READ-ONLY (khong commit ve main)"
+          } >> "$GITHUB_STEP_SUMMARY"

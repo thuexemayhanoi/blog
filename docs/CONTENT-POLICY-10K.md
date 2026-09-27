@@ -22,6 +22,10 @@ thich ngon ngu nang luc va rang buoc khi scale len 10.000.
   trung tu khoa, trung slug, cannibalization sibling.
 - Candidate bi loai bo duoc ghi ro ly do trong
   data/state/refill-candidates.json (phan rejected).
+- CI validation la READ-ONLY (contents: read): khong commit
+  bao cao ve main, khong doi matrix/seed/checkpoint/lock.
+  Materialization (refill --refill --yes) chi la lenh
+  operator chu dong, sau khi kiem writer lock + transaction.
 
 ## 3. Su that kinh doanh
 

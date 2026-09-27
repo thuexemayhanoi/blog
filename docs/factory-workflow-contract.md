@@ -4,6 +4,13 @@
 cho BẤT KỲ trình điều phối ngoài nào (scheduler) sau này. Lượt chạy này KHÔNG
 lập lịch — chỉ chốt hợp đồng.
 
+Quy tắc so huu engine: engine 10K (writer lock + transaction + publish gate
++ lazy refill) la engine duy nhat so huu production. Workflow cu
+publish-queue.yml + _data/publishing.yml la LEGACY-SUPERSEDED, giu
+enabled: false, KHONG duoc bat lai song song. CI validation
+(factory-capacity-validate.yml) la READ-ONLY: khong bao gio commit/push
+ve main; bao cao trong repo chi sinh boi lenh operator chu dong.
+
 ## 1. Vòng đời một RUN (bắt buộc theo thứ tự)
 
 ```
