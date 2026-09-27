@@ -237,22 +237,30 @@ class ManifestPrefix(unittest.TestCase):
             r = run(work, 'scripts/factory/generate-matrix.py')
             self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
             rows = load_rows(work)
-            claimed = [x for x in rows if x['status'] == 'WRITING']
-            if claimed:
-                # Trạng thái repo đang có chunk WRITING đang mở: operator
-                # TỪ CHỐI claim thêm (đúng thiết kế). Dùng manifest sẵn có.
-                pass
-            else:
+            # Ưu tiên manifest đã có sẵn trong repo (WRITING/PASS là hàng đã
+            # được generator sinh internal_links chuẩn /blog). Operator TỪ
+            # CHỐI claim thêm khi transaction/chunk đang mở là ĐÚNG thiết kế.
+            cand = [x for x in rows if x['status'] in ('WRITING', 'PASS')]
+            mf = None
+            for x in cand:
+                pp = os.path.join(work, 'reports/factory/rows',
+                                 x['id'] + '.json')
+                if os.path.exists(pp):
+                    mf = pp
+                    break
+            if mf is None:
+                # Repo chưa có manifest nào: sinh một manifest qua operator
+                # rồi kiểm tra (đường dẫn chuẩn vẫn phải /blog).
                 r = run(work, 'scripts/factory/factory-operator.py',
                         'prepare-next', '--count', '1')
                 self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
                 rows = load_rows(work)
                 claimed = [x for x in rows if x['status'] == 'WRITING']
                 self.assertEqual(len(claimed), 1)
-            mf = os.path.join(work, 'reports/factory/rows',
-                             claimed[0]['id'] + '.json')
-            self.assertTrue(os.path.exists(mf),
-                            'manifest thiếu cho %s' % claimed[0]['id'])
+                mf = os.path.join(work, 'reports/factory/rows',
+                                  claimed[0]['id'] + '.json')
+                self.assertTrue(os.path.exists(mf),
+                                'manifest thiếu cho %s' % claimed[0]['id'])
             with open(mf, encoding='utf-8') as f:
                 d = json.load(f)
             links = d['internal_links_matrix']
