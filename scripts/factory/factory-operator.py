@@ -345,7 +345,10 @@ def vnd_amounts(body):
 
 
 def internal_links_in(body):
-    return re.findall(r'\]\((/[^)#\s]+)\)', body)
+    # cho phép neo # (anchor): matrix có liên kết bắt buộc dạng
+    # /bang-gia/#tinh-gia — regex cũ loại '#' khiến QA không bao giờ thấy
+    # liên kết này, dù trang đích tồn tại và hợp lệ.
+    return re.findall(r'\]\((/[^)\s]+)\)', body)
 
 
 def qa_check_one(row, rows, biz, tax):
