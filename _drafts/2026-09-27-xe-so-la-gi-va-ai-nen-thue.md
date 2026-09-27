@@ -23,15 +23,17 @@ Cấu tạo đơn giản kéo theo hai hệ quả đáng chú ý với người 
 
 ## Ưu và nhược điểm khi chọn thuê xe số
 
-Ưu điểm nổi bật nhất của xe số là tiết kiệm xăng và bền theo thời gian. Cùng một lượng xăng, xe số thường đi được quãng đường hơn xe ga ở điều kiện chạy phố hỗn hợp, vì tổn hao của bộ truyền cơ khí thấp hơn. Xe số cũng có mô men kéo tốt ở vòng tua thấp, giúp xe leo dốc thoát hơn, đặc biệt khi chở thêm người. Giá thuê xe số thường cũng thấp hơn xe ga cùng độ tuổi, nên với kỳ thuê dài, chênh lệch cộng dồn thành một khoản đáng kể.
+Ưu điểm nổi bật nhất của xe số là tiết kiệm xăng và bền theo thời gian. Cùng mộ
+t lượng xăng, xe số thường đi được quãng đường hơn xe ga ở điều kiện chạy phố hỗn hợp, vì tổn hao của bộ truyền cơ khí thấp hơn. Xe số cũng có mô men kéo tốt ở vòng tua thấp, giúp xe leo dốc thoát hơn, đặc biệt khi chở thêm người. Giá thuê xe số thường cũng thấp hơn xe ga cùng độ tuổi, nên với kỳ thuê dài, chênh lệch cộng dồn thành một khoản đáng kể.
 
 Nhược điểm cũng rõ ràng. Đi xe số vất vả hơn trong đoạn kẹt xe nặng: bạn phải bóp côn, về số, nhích từng nhịp cùng dòng xe, bàn chân trái làm việc gần như liên tục. Xe số thường không có cốp rộng như xe ga, chỉ có một hộc nhỏ để vài vật lặt vặt, nên người cần chở nhiều đồ nên cân nhắc. Với khách quen xe ga, việc chuyển sang xe số cần vài chục ki lô mét làm quen, và ai không muốn học thêm thao tác mới thì xe ga vẫn là lựa chọn hợp lý hơn. Bạn có thể xem thêm so sánh giữa các loại xe trong chủ đề [xe số](/blog/xe-may/xe-so/) và trang tổng quan [xe máy và các dòng xe](/blog/xe-may/) của cửa hàng.
 
-## Ai nên thuê xe số ở Hà Nội
+## Ai nên thuê xe số Hà Nội: nhóm phù hợp nhất
 
 Nhóm phù hợp nhất với xe số là người quen tay lái xe số, ví dụ khách lớn tuổi đi xe số cả đời, người quê lên Hà Nội làm việc, hay người từng đi xe số hồi sinh viên. Với nhóm này, xe số gần như là phần mở dài của cơ thể: thao tác ăn vào, không phải nghĩ, và họ tận dụng trọn giá thuê thấp cộng mức tiêu hao xăng ít. Nhóm thứ hai là khách đi chặng xa hoặc chặng nhiều dốc, ví dụ chạy Hà Nội đi các huyện vùng đồi phía tây như Ba Vì, hoặc đi các tỉnh lân cận cuối tuần. Mô men kéo của xe số ở dốc là lợi thế thật, không phải cảm giác.
 
-Nhóm thứ ba là khách muốn tiết kiệm tối đa trong kỳ thuê dài. Với kỳ thuê theo tuần hoặc theo tháng để đi làm, chênh lệch giữa dòng xe rẻ và dòng xe ga nhân theo số ngày là con số cụ thể trong chi phí sinh hoạt. Muốn soạn giá thuê theo từng dòng xe, bạn xem trực tiếp trang [bảng giá xe số](/blog/bang-gia-xe-so/) của cửa hàng, nơi giá được cập nhật theo từng mẫu hiện có. Còn nhóm không nên chọn xe số là khách chưa từng đi xe số và chỉ thuê trong một hai ngày: thời gian làm quen thao tác đạp số có thể làm kỳ thuê ngắn mất phần thoải mái, và xe ga sẽ nhàn hơn.
+Nhóm thứ ba là khách muốn tiết kiệm tối đa trong kỳ thuê dài. Với kỳ thuê theo tuần hoặc theo tháng để đi làm, chênh lệch giữa dòng xe rẻ và dòng xe ga nhân theo số ngày là con số cụ thể trong chi phí sinh hoạt. Muốn soạn giá thuê theo từng dòng xe, bạn xem trực tiếp trang [bảng giá xe số](/blog/bang-gia-xe-so/) của cửa hàng, nơi giá được cập nhật theo từng mẫu hiện có. Còn nhóm không nên chọn xe số là khách chưa từng đi xe số và chỉ thuê trong một hai ngày: thời gian làm que
+n thao tác đạp số có thể làm kỳ thuê ngắn mất phần thoải mái, và xe ga sẽ nhàn hơn.
 
 ## Trả lời vài câu hỏi hay gặp về xe số
 
