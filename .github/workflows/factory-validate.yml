@@ -43,18 +43,6 @@ jobs:
             exit 1
           fi
 
-      - name: Validate foundation (exit 0 PASS / 1 FAIL / 2 BLOCKED)
-        run: |
-          set +e
-          python3 scripts/factory/validate.py
-          code=$?
-          if [ $code -eq 1 ]; then
-            echo "FAIL: validator nền tảng lỗi."; exit 1
-          elif [ $code -eq 2 ]; then
-            echo "::error title=MATRIX BLOCKED::data/content-matrix.csv còn thiếu — CI cố ý đỏ cho tới khi matrix được khôi phục hoặc chủ xe duyệt tái sinh (xem reports/factory/matrix-recovery-blocked.md)"
-            exit 1
-          fi
-
       - name: Manifest smoke test (BLOCKED is expected while matrix is missing)
         run: |
           set +e
@@ -85,4 +73,16 @@ jobs:
             echo "OK: liên kết chủ đề có baseurl đúng."
           else
             echo "FAIL: liên kết chủ đề thiếu baseurl /blog."; exit 1
+          fi
+
+      - name: Validate foundation (exit 0 PASS / 1 FAIL / 2 BLOCKED - last step on purpose)
+        run: |
+          set +e
+          python3 scripts/factory/validate.py
+          code=$?
+          if [ $code -eq 1 ]; then
+            echo "FAIL: validator nền tảng lỗi."; exit 1
+          elif [ $code -eq 2 ]; then
+            echo "::error title=MATRIX BLOCKED::data/content-matrix.csv còn thiếu — CI cố ý đỏ cho tới khi matrix được khôi phục hoặc chủ xe duyệt tái sinh (xem reports/factory/matrix-recovery-blocked.md)"
+            exit 1
           fi
