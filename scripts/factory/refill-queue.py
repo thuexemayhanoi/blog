@@ -484,7 +484,11 @@ def acquire_atomic_lock(holder, start_head):
                            'writer song song.'},
                   open(LOCK_JSON, 'w', encoding='utf-8'),
                   ensure_ascii=False, indent=2)
-    return release()
+    # TRA VE CALLBACK (KHONG GOI): release chi duoc goi trong finally
+    # cua mode_refill. Neu goi release() tai day, khoa se bi nha ngay
+    # khi acquire xong va section duoc bao ve chay KHONG giu khoa
+    # (bug da sua 2026-09-27: return release() -> return release).
+    return release
 
 
 def txn_inactive():

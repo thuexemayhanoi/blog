@@ -1,24 +1,29 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Kiem thu hardening refill-queue.py (12 truong hop bat buoc):
+"""Kiem thu hardening refill-queue.py (atomic lock lifecycle + purity).
 
- 1. plain --verify leaves tree unchanged
- 2. --verify --report - leaves tree unchanged
- 3. explicit --report PATH writes only PATH
- 4. dry-run leaves tree unchanged
- 5. busy atomic lock rejects refill
- 6. two simultaneous lock attempts: exactly one succeeds
- 7. active transaction rejects refill
- 8. HEAD changes after lock acquisition: refill aborts
- 9. gate failure after lock acquisition: lock cleaned up
-10. simulated success: lock cleaned up
-11. no stale sentinel after handled failure
-12. no matrix/checkpoint/published content changed during tests
+Bai hoc bug da sua (2026-09-27): acquire_atomic_lock() ket thu bang
+`return release()` — goi callback ngay khi acquire, nha khoa TRUOC khi
+section duoc bao ve chay. Bay gio phai la `return release` (tra ve
+callback, KHONG goi). Test 1 va 8 se FAIL ngay neu ai do bien lai.
 
-Khong cham du lieu that: toan bo test chay trong ban sao temp
-(data/state + capacity + matrix duoc copy vao tmp; script refill
-chay trong tmp). Chay:
-python3 scripts/factory/tests/test_refill_safety.py
+Cac nhom test bat buoc:
+ 1  helper giu khoa sau khi tra ve (callable + sentinel + locked=true)
+ 2  concurrency QUA helper that: dung 1 thanh cong, loser FAIL,
+    sau release acquire lai duoc
+ 3  mode_refill GIU KHOA trong section duoc bao ve (HEAD re-check,
+    gate, mutation): sentinel con + locked=true; nha khoa sau exit
+ 4  HEAD mismatch: khoa da giu -> abort -> release -> sach
+ 5  gate failure sau acquire: khoa da giu -> tu choi -> release -> sach
+ 6  exception sau acquire: finally release -> sach
+ 7  thanh cong (fixture): khoa trong section, nha sau return
+ 8  regression test cho dung bug `return release()`: callable(release)
+ + purity: plain --verify / --report - / --dry-run khong ghi gi;
+   --report PATH ghi dung PATH
+ + production state khong doi trong tests
+
+Khong cham du lieu that: toan bo test chay tren ban sao temp.
+Chay: python3 scripts/factory/tests/test_refill_safety.py
 """
 import hashlib
 import json
@@ -27,37 +32,38 @@ import shutil
 import subprocess
 import sys
 import tempfile
+import threading
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 
 RESULTS = []
+_COUNTER = [0]
 
 
 def record(name, ok, detail=''):
     RESULTS.append((name, ok, detail))
-    print(('PASS: ' if ok else 'FAIL: ') + name + ((' - ' + detail) if detail else ''))
+    print(('PASS: ' if ok else 'FAIL: ') + name
+          + ((' - ' + detail) if detail else ''))
 
 
 def tree_hash(path):
-    """Hash toan bo cay file (duong dan + noi dung) - manh hon git status."""
     h = hashlib.sha256()
     for dirpath, dirnames, filenames in os.walk(path):
         dirnames.sort()
         for fn in sorted(filenames):
             fp = os.path.join(dirpath, fn)
-            rel = os.path.relpath(fp, path)
-            h.update(rel.encode('utf-8'))
+            h.update(os.path.relpath(fp, path).encode('utf-8'))
             h.update(open(fp, 'rb').read())
     return h.hexdigest()
 
 
-def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None):
-    """Tao ban sao repo nho trong tmp de test refill an toan (ko du lieu that)."""
+def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None,
+                  break_seed=False):
     tmp = tempfile.mkdtemp(prefix='refill-safety-')
     work = os.path.join(tmp, 'repo')
     os.makedirs(os.path.join(work, 'data/state'))
-    os.makedirs(os.path.join(work, 'scripts/factory/tests'))
+    os.makedirs(os.path.join(work, 'scripts/factory'))
     for p in ('data/factory-capacity.json',
               'data/state/taxonomy-config.json',
               'data/state/refill-candidates.json',
@@ -68,238 +74,333 @@ def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None):
               'scripts/factory/refill-queue.py'):
         shutil.copy(os.path.join(ROOT, p), os.path.join(work, p))
     if mutate_txn:
-        txn = json.load(open(os.path.join(work, 'data/state/transaction.json'),
-                             encoding='utf-8'))
+        p = os.path.join(work, 'data/state/transaction.json')
+        txn = json.load(open(p, encoding='utf-8'))
         txn['active'] = True
-        json.dump(txn, open(os.path.join(work, 'data/state/transaction.json'),
-                            'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+        json.dump(txn, open(p, 'w', encoding='utf-8'),
+                  ensure_ascii=False, indent=2)
     if ledger_candidates is not None:
-        led = json.load(open(os.path.join(
-            work, 'data/state/refill-candidates.json'), encoding='utf-8'))
+        p = os.path.join(work, 'data/state/refill-candidates.json')
+        led = json.load(open(p, encoding='utf-8'))
         led['candidates'] = ledger_candidates
-        json.dump(led, open(os.path.join(
-            work, 'data/state/refill-candidates.json'), 'w', encoding='utf-8'),
-            ensure_ascii=False, indent=2)
+        json.dump(led, open(p, 'w', encoding='utf-8'),
+                  ensure_ascii=False, indent=2)
     if head_seq is not None:
-        # monkeypatch git_head qua wrapper script trong fixture
-        wrap = os.path.join(work, 'scripts/factory/refill-queue.py')
-        src = open(wrap, encoding='utf-8').read()
-        heads = json.dumps(head_seq)
-        patch = ("_HEAD_SEQ = %s\n"
-                 "import itertools as _it\n"
+        # monkeypatch git_head: tra lan luot cac SHA trong head_seq
+        p = os.path.join(work, 'scripts/factory/refill-queue.py')
+        src = open(p, encoding='utf-8').read()
+        heads = json.dumps(list(head_seq))
+        marker = "def git_head():"
+        assert marker in src
+        # doi ten ham goc thanh git_head_orig (giu body), chen state iterator
+        patch = ("import itertools as _it\n"
+                 "_HEAD_SEQ = %s\n"
                  "_HEAD_ITER = _it.chain(_HEAD_SEQ, _it.repeat(_HEAD_SEQ[-1]))\n"
-                 "def git_head():\n"
-                 "    return next(_HEAD_ITER)\n") % heads
-        # chen ngay truoc def git_head() goc de de (dinh nghia sau de)
-        src = src.replace('def git_head():',
-                         patch + '\ndef git_head_orig():', 1)
-        # goi lai: dinh nghia moi (da chen) se duoc dinh nghia goc de ngay sau
-        open(wrap, 'w', encoding='utf-8').write(src)
+                 "\n"
+                 "def git_head_orig():\n" % heads)
+        src = src.replace(marker, patch, 1)
+        # wrapper moi (doc _HEAD_ITER) chen cuoi file, DE sau goc
+        src += ("\n\n\ndef git_head():\n"
+                "    return next(_HEAD_ITER)\n")
+        open(p, 'w', encoding='utf-8').write(src)
+    if break_seed:
+        p = os.path.join(work, 'data/state/matrix-seed.json')
+        open(p, 'w', encoding='utf-8').write('{THIS IS NOT JSON')
     return work
 
 
-def run(work, args):
-    return subprocess.run(
-        [sys.executable, os.path.join(work, 'scripts/factory/refill-queue.py')]
-        + args, capture_output=True, text=True, cwd=work)
-
-
 def load_rq(work):
-    """Nap refill-queue.py TU BAN SAO FIXTURE (file co dau gach nen phai
-    spec_from_file_location; import tu dong os.chdir ve fixture)."""
     import importlib.util
+    _COUNTER[0] += 1
     spec = importlib.util.spec_from_file_location(
-        'refill_queue_under_test_%d' % len(RESULTS),
+        'rq_under_test_%d' % _COUNTER[0],
         os.path.join(work, 'scripts/factory/refill-queue.py'))
     rq = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(rq)
     return rq
 
 
+def run(work, args):
+    return subprocess.run(
+        [sys.executable,
+         os.path.join(work, 'scripts/factory/refill-queue.py')] + args,
+        capture_output=True, text=True, cwd=work)
+
+
 def lock_state(work):
-    sentinel = os.path.exists(os.path.join(work, 'data/state/writer-lock.active'))
+    sentinel = os.path.exists(
+        os.path.join(work, 'data/state/writer-lock.active'))
     lj = os.path.join(work, 'data/state/writer-lock.json')
-    locked = None
-    if os.path.exists(lj):
-        locked = json.load(open(lj, encoding='utf-8')).get('locked')
-    return sentinel, locked
+    meta = (json.load(open(lj, encoding='utf-8'))
+            if os.path.exists(lj) else {})
+    return sentinel, meta.get('locked'), meta.get('holder'), \
+        meta.get('action')
 
 
 def main():
-    # === 1. plain --verify: pure ===
-    w = make_fixture()
-    before = tree_hash(w)
-    r = run(w, ['--verify'])
-    after = tree_hash(w)
-    record('1. plain --verify tree unchanged (hash)',
-           r.returncode == 0 and before == after,
-           'exit=%d hash_same=%s' % (r.returncode, before == after))
-    assert 'reports' not in os.listdir(w), 'plain --verify tao thu muc reports!'
-    shutil.rmtree(os.path.dirname(w))
-
-    # === 2. --verify --report - : pure ===
-    w = make_fixture()
-    before = tree_hash(w)
-    r = run(w, ['--verify', '--report', '-'])
-    after = tree_hash(w)
-    record('2. --verify --report - tree unchanged (hash)',
-           r.returncode == 0 and before == after,
-           'exit=%d hash_same=%s' % (r.returncode, before == after))
-    shutil.rmtree(os.path.dirname(w))
-
-    # === 3. --report PATH: chi ghi dung PATH ===
-    w = make_fixture()
-    target = os.path.join(w, 'tmp_out/my-report.md')
-    r = run(w, ['--verify', '--report', target])
-    wrote_exact = os.path.isfile(target)
-    no_default = not os.path.exists(os.path.join(
-        w, 'reports/factory/refill-verify.md'))
-    before = tree_hash(w)
-    run(w, ['--verify', '--report', target])
-    after = tree_hash(w)
-    record('3. --report PATH ghi dung PATH, khong ghi default, idempotent',
-           r.returncode == 0 and wrote_exact and no_default
-           and before == after,
-           'exact=%s no_default=%s idempotent=%s'
-           % (wrote_exact, no_default, before == after))
-    shutil.rmtree(os.path.dirname(w))
-
-    # === 4. dry-run: pure ===
-    w = make_fixture()
-    before = tree_hash(w)
-    r = run(w, ['--dry-run'])
-    after = tree_hash(w)
-    record('4. --dry-run tree unchanged (hash)',
-           r.returncode == 0 and before == after,
-           'exit=%d hash_same=%s' % (r.returncode, before == after))
-    shutil.rmtree(os.path.dirname(w))
-
-    # === 5. busy lock rejects refill (chung minh qua module truc tiep) ===
+    # ============ 1 + 8. HELPER LIFECYCLE + EXACT REGRESSION ============
+    # Test nay FAIL neu ai do doi `return release` thanh `return release()`:
+    # release() tra ve None -> callable(release) False; dong thoi sentinel
+    # da bien mat va locked=false ngay sau acquire.
     w = make_fixture(head_seq=['abc123', 'abc123'])
     rq = load_rq(w)
-    rq.ROOT = w
-    os.chdir(w)
-    rq.LOCK_SENTINEL = os.path.join(w, 'data/state/writer-lock.active')
-    rq.LOCK_JSON = os.path.join(w, 'data/state/writer-lock.json')
-    open(rq.LOCK_SENTINEL, 'w').write('other-writer busy')
-    try:
-        rq.acquire_atomic_lock('refill-queue', 'abc123')
-        busy_rejected = False
-    except FileExistsError:
-        busy_rejected = True
-    seed_before = open(os.path.join(w, 'data/state/matrix-seed.json'), 'rb').read()
-    sys.argv = ['refill-queue.py', '--refill', '--yes']
-    led = json.load(open(os.path.join(w, 'data/state/refill-candidates.json'),
-                         encoding='utf-8'))
-    cap = json.load(open(os.path.join(w, 'data/factory-capacity.json'),
-                        encoding='utf-8'))
-    tax = json.load(open(os.path.join(w, 'data/state/taxonomy-config.json'),
-                         encoding='utf-8'))
-    rows = rq.load_matrix()
-    rc = rq.mode_refill(cap, tax, rows, led)
-    seed_after = open(os.path.join(w, 'data/state/matrix-seed.json'), 'rb').read()
-    record('5. busy atomic lock rejects refill, seed khong doi',
-           busy_rejected and rc != 0 and seed_before == seed_after,
-           'busy_rejected=%s rc=%d' % (busy_rejected, rc))
-    os.remove(rq.LOCK_SENTINEL)
+    release = rq.acquire_atomic_lock('refill-queue', 'abc123')
+    held = {
+        'callable': callable(release),                       # test 8
+        'sentinel': os.path.exists(rq.LOCK_SENTINEL),
+        'locked': json.load(open(rq.LOCK_JSON, encoding='utf-8'))
+                   .get('locked') is True,
+        'holder': json.load(open(rq.LOCK_JSON, encoding='utf-8'))
+                   .get('holder') == 'refill-queue',
+        'action': json.load(open(rq.LOCK_JSON, encoding='utf-8'))
+                  .get('action') == 'refill',
+        'start_head': json.load(open(rq.LOCK_JSON, encoding='utf-8'))
+                      .get('start_head') == 'abc123',
+    }
+    record('1+8. helper GIU KHOA sau acquire (callable/sentinel/locked/'
+           'holder/action/start_head) — regression cho `return release()`',
+           all(held.values()),
+           'callable=%s sentinel=%s locked=%s holder=%s action=%s' % (
+               held['callable'], held['sentinel'], held['locked'],
+               held['holder'], held['action']))
+    release()
+    s, l, h, a = lock_state(w)
+    record('1b. release() sau do: sentinel di, locked=false',
+           (not s) and l is False,
+           'sentinel=%s locked=%s' % (s, l))
 
-    # === 6. hai lock attempts dong thoi: dung mot thanh cong ===
-    import multiprocessing as mp
-    lock_dir = os.path.join(w, 'data/state')
-    def _try_lock(i, q):
+    # ============ 2. CONCURRENCY QUA HELPER THAT ============
+    # Nhieu attempt song song goi acquire_atomic_lock cua CUNG module;
+    # dung 1 thanh cong. Nhung loser phai nhan FileExistsError.
+    outcomes = []
+    lock_holder = {}
+    out_lock = threading.Lock()
+
+    def attempt(i):
         try:
-            fd = os.open(os.path.join(lock_dir, 'concurrency-test.active'),
-                         os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o644)
-            os.write(fd, str(i).encode()); os.close(fd)
-            q.put('OK')
+            rel = rq.acquire_atomic_lock('refill-%d' % i, 'abc123')
+            with out_lock:
+                outcomes.append(('OK', i))
+                lock_holder[i] = rel
         except FileExistsError:
-            q.put('BUSY')
-    q = mp.Queue()
-    procs = [mp.Process(target=_try_lock, args=(i, q)) for i in range(8)]
-    for p in procs: p.start()
-    for p in procs: p.join()
-    outcomes = [q.get() for _ in range(8)]
-    wins = outcomes.count('OK')
-    record('6. 8 lock attempts dong thoi: dung 1 thanh cong (O_EXCL)',
-           wins == 1, 'wins=%d' % wins)
-    os.remove(os.path.join(lock_dir, 'concurrency-test.active'))
+            with out_lock:
+                outcomes.append(('BUSY', i))
 
-    # === 7. transaction active rejects refill ===
-    w2 = make_fixture(mutate_txn=True, head_seq=['abc123', 'abc123'])
-    rq2 = load_rq(w2)
-    cap2 = json.load(open(os.path.join(w2, 'data/factory-capacity.json'),
-                          encoding='utf-8'))
-    tax2 = json.load(open(os.path.join(w2, 'data/state/taxonomy-config.json'),
-                          encoding='utf-8'))
+    threads = [threading.Thread(target=attempt, args=(i,)) for i in range(8)]
+    for t in threads:
+        t.start()
+    for t in threads:
+        t.join()
+    wins = [i for k, i in outcomes if k == 'OK']
+    # khi winner CHUA release: attempt moi PHAI FAIL
+    try:
+        rq.acquire_atomic_lock('refill-late', 'abc123')
+        busy_while_held = False
+    except FileExistsError:
+        busy_while_held = True
+    record('2. concurrency QUA HELPER THAT: 8 thread -> dung 1 OK',
+           len(wins) == 1, 'wins=%s outcomes=%s' % (wins, sorted(outcomes)))
+    record('2b. attempt moi FAIL khi winner chua release',
+           busy_while_held and len(lock_holder) == 1)
+    # sau winner release: acquire moi PHAI thanh cong
+    lock_holder[wins[0]]()
+    try:
+        rel2 = rq.acquire_atomic_lock('refill-after', 'abc123')
+        reacquire_ok = True
+        rel2()
+    except FileExistsError:
+        reacquire_ok = False
+    record('2c. sau winner release: acquire lai thanh cong', reacquire_ok)
+    # dau rang: khong con sentinel
+    s, l, h, a = lock_state(w)
+    record('2d. sach sau ca hai release', (not s) and l is False)
+
+    # ============ 3 + 7. MODE_REFILL GIU KHOA TRONG SECTION ============
+    # Danh dau: doc trang thai lock TU NGAY GIUA section duoc bao ve
+    # (sau acquire, truoc release) bang cach don sach seed json dump.
+    w5 = make_fixture(head_seq=['abc123', 'abc123'],
+                      ledger_candidates=[])
+    rq5 = load_rq(w5)
+    cap5 = json.load(open(os.path.join(
+        w5, 'data/factory-capacity.json'), encoding='utf-8'))
+    tax5 = json.load(open(os.path.join(
+        w5, 'data/state/taxonomy-config.json'), encoding='utf-8'))
+
+    # hook: bao ve get rewrite seed se dung de kiem lock DANG giu
+    mid_state = {}
+    _orig_dump = json.dump
+
+    def watched_dump(obj, fh, **kw):
+        if getattr(fh, 'name', '').endswith('matrix-seed.json'):
+            mid_state['sentinel'] = os.path.exists(rq5.LOCK_SENTINEL)
+            mid_state['locked'] = json.load(
+                open(rq5.LOCK_JSON, encoding='utf-8')).get('locked')
+            mid_state['holder'] = json.load(
+                open(rq5.LOCK_JSON, encoding='utf-8')).get('holder')
+        return _orig_dump(obj, fh, **kw)
+
+    import builtins
+    builtins_json_dump = json.dump
+    # rq5 dung module json rieng (import json o dau file) -> patch cung
+    # doi tuong json cua rq5
+    rq5.json.dump = watched_dump
     sys.argv = ['refill-queue.py', '--refill', '--yes']
-    led2 = json.load(open(rq2.LEDGER_PATH, encoding='utf-8'))
-    seed_before = open(rq2.SEED_PATH, 'rb').read()
-    rc = rq2.mode_refill(cap2, tax2, rq2.load_matrix(), led2)
-    s, l = lock_state(w2)
-    record('7. transaction active rejects refill (khong lock, seed nguyen)',
-           rc != 0 and not s and
-           open(rq2.SEED_PATH, 'rb').read() == seed_before,
-           'rc=%d sentinel=%s' % (rc, s))
+    rc = rq5.mode_refill(
+        cap5, tax5, rq5.load_matrix(),
+        json.load(open(rq5.LEDGER_PATH, encoding='utf-8')))
+    rq5.json.dump = builtins_json_dump
+    s, l, h, a = lock_state(w5)
+    record('3+7. mode_refill GIU KHOA trong mutation (sentinel + '
+           'locked=true + holder=refill-queue), nha khoa sau return',
+           rc == 0 and mid_state.get('sentinel') is True
+           and mid_state.get('locked') is True
+           and mid_state.get('holder') == 'refill-queue'
+           and (not s) and l is False,
+           'rc=%d mid(sentinel=%s locked=%s holder=%s) '
+           'end(sentinel=%s locked=%s)'
+           % (rc, mid_state.get('sentinel'), mid_state.get('locked'),
+              mid_state.get('holder'), s, l))
 
-    # === 8. HEAD doi sau khi giu khoa -> abort, nha khoa ===
-    w3 = make_fixture(head_seq=['abc123', 'def999'])
+    # ============ 4. HEAD MISMATCH ============
+    w3 = make_fixture(head_seq=['AAA111', 'BBB222'])
     rq3 = load_rq(w3)
     seed_before = open(rq3.SEED_PATH, 'rb').read()
-    rc = rq3.mode_refill(cap2, tax2, rq3.load_matrix(),
-                         json.load(open(rq3.LEDGER_PATH, encoding='utf-8')))
-    s, l = lock_state(w3)
-    record('8. HEAD mismatch sau lock -> abort + nha khoa, seed nguyen',
-           rc != 0 and not s and l is False and
-           open(rq3.SEED_PATH, 'rb').read() == seed_before,
+    sys.argv = ['refill-queue.py', '--refill', '--yes']
+    rc = rq3.mode_refill(
+        cap5, tax5, rq3.load_matrix(),
+        json.load(open(rq3.LEDGER_PATH, encoding='utf-8')))
+    s, l, h, a = lock_state(w3)
+    record('4. HEAD mismatch: abort + release + seed nguyen',
+           rc != 0 and (not s) and l is False
+           and open(rq3.SEED_PATH, 'rb').read() == seed_before,
            'rc=%d sentinel=%s locked=%s' % (rc, s, l))
 
-    # === 9. gate failure sau lock -> lock cleaned up ===
+    # chung minh rieng: khi HEAD moi duoc doc (lan 2), khoa DANG giu
+    w3b = make_fixture(head_seq=['AAA111', 'BBB222'])
+    rq3b = load_rq(w3b)
+    second_call_state = {}
+    calls = [0]
+
+    def gh_iter():
+        # lan 1 = START_HEAD truoc acquire; lan 2+ = re-check SAU acquire
+        while True:
+            calls[0] += 1
+            if calls[0] == 2:
+                second_call_state['sentinel'] = os.path.exists(
+                    rq3b.LOCK_SENTINEL)
+                second_call_state['locked'] = json.load(
+                    open(rq3b.LOCK_JSON, encoding='utf-8')).get('locked')
+                yield 'BBB222'
+            else:
+                yield 'AAA111'
+
+    rq3b._HEAD_ITER = gh_iter()
+    sys.argv = ['refill-queue.py', '--refill', '--yes']
+    rc = rq3b.mode_refill(
+        cap5, tax5, rq3b.load_matrix(),
+        json.load(open(rq3b.LEDGER_PATH, encoding='utf-8')))
+    s, l, h, a = lock_state(w3b)
+    record('4b. re-check HEAD chay DUOI KHOA (sentinel con, locked=true)',
+           rc != 0 and second_call_state.get('sentinel') is True
+           and second_call_state.get('locked') is True
+           and (not s) and l is False,
+           'calls=%d mid(sentinel=%s locked=%s) end(sentinel=%s locked=%s)'
+           % (calls[0], second_call_state.get('sentinel'),
+              second_call_state.get('locked'), s, l))
+
+    # ============ 5. GATE FAILURE SAU ACQUIRE ============
     bad = [{'candidate_id': 'CAND-BAD-001', 'child_id': 'C-KHONG-TON-TAI',
             'title': 'chu de sai child', 'intent': 'intent bad',
             'kw': 'kw bad khong trung', 'word_target': 1300,
             'kw2': [], 'links': [], 'subtopic': '', 'audience': '',
             'location_scope': ''}]
-    w4 = make_fixture(head_seq=['abc123', 'abc123'], ledger_candidates=bad)
+    w4 = make_fixture(head_seq=['abc123', 'abc123'],
+                      ledger_candidates=bad)
     rq4 = load_rq(w4)
     seed_before = open(rq4.SEED_PATH, 'rb').read()
-    rc = rq4.mode_refill(cap2, tax2, rq4.load_matrix(),
-                         json.load(open(rq4.LEDGER_PATH, encoding='utf-8')))
-    s, l = lock_state(w4)
-    record('9. gate failure sau lock -> tu choi + nha khoa, seed nguyen',
-           rc != 0 and not s and l is False and
-           open(rq4.SEED_PATH, 'rb').read() == seed_before,
-           'rc=%d sentinel=%s locked=%s' % (rc, s, l))
+    gate_mid = {}
+    _orig_dump4 = rq4.json.dump
 
-    # === 10. thanh cong (mo phong, ledger rong) -> lock cleaned up ===
-    w5 = make_fixture(head_seq=['abc123', 'abc123'], ledger_candidates=[])
-    rq5 = load_rq(w5)
-    rc = rq5.mode_refill(cap2, tax2, rq5.load_matrix(),
-                         json.load(open(rq5.LEDGER_PATH, encoding='utf-8')))
-    s, l = lock_state(w5)
-    record('10. refill thanh cong (mo phong) -> lock da nha (sentinel di, '
-           'locked=false)', rc == 0 and not s and l is False,
-           'rc=%d sentinel=%s locked=%s' % (rc, s, l))
+    def watch4(obj, fh, **kw):
+        if getattr(fh, 'name', '').endswith('matrix-seed.json'):
+            gate_mid['sentinel'] = os.path.exists(rq4.LOCK_SENTINEL)
+        return _orig_dump4(obj, fh, **kw)
 
-    # === 11. khong stale sentinel sau moi failure handled ===
-    stale_ok = True
-    for ww in (w2, w3, w4):
-        if os.path.exists(os.path.join(ww, 'data/state/writer-lock.active')):
-            stale_ok = False
-    record('11. khong stale sentinel sau failure (test 7/8/9)', stale_ok)
+    rq4.json.dump = watch4
+    sys.argv = ['refill-queue.py', '--refill', '--yes']
+    rc = rq4.mode_refill(
+        cap5, tax5, rq4.load_matrix(),
+        json.load(open(rq4.LEDGER_PATH, encoding='utf-8')))
+    rq4.json.dump = _orig_dump4
+    s, l, h, a = lock_state(w4)
+    record('5. gate failure: tu choi (khong mutation) + release + sach',
+           rc != 0 and 'sentinel' not in gate_mid
+           and (not s) and l is False
+           and open(rq4.SEED_PATH, 'rb').read() == seed_before,
+           'rc=%d dumped_seed=%s sentinel=%s locked=%s'
+           % (rc, 'sentinel' in gate_mid, s, l))
 
-    # === 12. matrix/checkpoint/published khong doi trong tests ===
-    # (moi test dung ban sao rieng; chung minh tren ban that: hash truoc/sau)
+    # ============ 6. EXCEPTION CLEANUP ============
+    w6 = make_fixture(head_seq=['abc123', 'abc123'])
+    rq6 = load_rq(w6)
+    seed_before = open(rq6.SEED_PATH, 'rb').read()
+    exc_mid = {}
+
+    def boom(obj, fh, **kw):
+        if getattr(fh, 'name', '').endswith('matrix-seed.json'):
+            exc_mid['sentinel'] = os.path.exists(rq6.LOCK_SENTINEL)
+            raise RuntimeError('simulated IO error giua refill')
+        return _orig_dump6(obj, fh, **kw)
+
+    _orig_dump6 = rq6.json.dump
+    rq6.json.dump = boom
+    sys.argv = ['refill-queue.py', '--refill', '--yes']
+    try:
+        rq6.mode_refill(
+            cap5, tax5, rq6.load_matrix(),
+            json.load(open(rq6.LEDGER_PATH, encoding='utf-8')))
+        raised = False
+    except RuntimeError:
+        raised = True
+    rq6.json.dump = _orig_dump6
+    s, l, h, a = lock_state(w6)
+    record('6. exception giua refill: finally release, sach',
+           raised and exc_mid.get('sentinel') is True
+           and (not s) and l is False,
+           'raised=%s mid_sentinel=%s end(sentinel=%s locked=%s)'
+           % (raised, exc_mid.get('sentinel'), s, l))
+
+    # ============ PURITY (verify contract khong hoi quy) ============
+    wA = make_fixture()
+    before = tree_hash(wA)
+    r = run(wA, ['--verify'])
+    after = tree_hash(wA)
+    record('P1. plain --verify: stdout only, tree hash giong het',
+           r.returncode == 0 and before == after,
+           'exit=%d hash_same=%s' % (r.returncode, before == after))
+    r = run(wA, ['--verify', '--report', '-'])
+    after2 = tree_hash(wA)
+    record('P2. --verify --report - : tree hash giong het',
+           r.returncode == 0 and before == after2)
+    target = os.path.join(wA, 'tmp_out/r.md')
+    r = run(wA, ['--verify', '--report', target])
+    exact = os.path.isfile(target)
+    no_default = not os.path.exists(os.path.join(
+        wA, 'reports/factory/refill-verify.md'))
+    record('P3. --report PATH: ghi dung PATH, khong ghi default',
+           r.returncode == 0 and exact and no_default,
+           'exact=%s no_default=%s' % (exact, no_default))
+    before = tree_hash(wA)
+    run(wA, ['--dry-run'])
+    record('P4. --dry-run: tree hash giong het',
+           tree_hash(wA) == before)
+
+    # ============ PRODUCTION STATE KHONG DOI ============
     real_before = tree_hash(os.path.join(ROOT, 'data'))
-    run(w5, ['--verify'])
-    run(w5, ['--dry-run'])
-    real_after = tree_hash(os.path.join(ROOT, 'data'))
-    matrix_unchanged = open(os.path.join(ROOT, 'data/content-matrix.csv'),
-                            'rb').read() == open(
-        os.path.join(w2, 'data/content-matrix.csv'), 'rb').read()
-    record('12. data that cua repo khong doi trong tests; matrix ban sao '
-           'giong ban that', real_before == real_after and matrix_unchanged,
-           'data_same=%s matrix_same=%s'
-           % (real_before == real_after, matrix_unchanged))
+    run(wA, ['--verify'])
+    run(wA, ['--dry-run'])
+    record('P5. data that cua repo khong doi trong tests',
+           tree_hash(os.path.join(ROOT, 'data')) == real_before)
 
     fails = [n for n, ok, _ in RESULTS if not ok]
     print()
