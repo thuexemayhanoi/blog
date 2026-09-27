@@ -19,11 +19,11 @@ Câu hỏi nên thuê hay mua xe máy không có đáp án chung, vì hai lựa 
 
 Chi phí thuê dài hạn đơn giản và dễ dự đoán. Theo bảng giá đã duyệt của Nguyễn Tú, gói tháng của nhóm Honda Click và Yamaha Mio khoảng 1.000.000đ đến 1.200.000đ, Honda Air Blade 1.400.000đ, Honda Vision từ 1.800.000đ đến 2.000.000đ. Trừ phần xăng và phí gửi xe nơi bạn đi lại, gần như không phát sinh thêm khoản bắt buộc nào: đăng ký, đăng kiểm, bảo hiểm bắt buộc và bảo dưỡng định kỳ thuộc phía chủ xe. Tiền đặt cọc cần xác nhận trực tiếp với cửa hàng trước khi nhận xe.
 
-Ưu điểm lớn nhất của thuê tháng là tính dự đoán: mỗi tháng bạn biết trước đúng số tiền phải trả, không có khoản tua bất ngờ như xe cũ hỏng máy giữa năm. Muốn đối chiếu giá theo từng dòng xe, xem trang [bảng giá](/blog/bang-gia/) để có khung mới nhất.
+Ưu điểm lớn nhất của thuê tháng là tính dự đoán: mỗi tháng bạn biết trước đúng số tiền phải trả, không có khoản phát sinh bất ngờ như xe cũ hỏng máy giữa năm. Muốn đối chiếu giá theo từng dòng xe, xem trang [bảng giá](/blog/bang-gia/) để có khung mới nhất.
 
 ## Các khoản phải trả khi mua xe cũ
 
-Mua xe cũ không dừng ở giá xe ghi trên tin rao. Sau tiền mua là loạt chi phí kèm theo: làm lại giấy tờ nếu xe đứng tên người khác, đăng kiểm đến kỳ, bảo hiểm bắt buộc, và gần như luôn phải thay nhớt, lốp, accumulator hay căng xích ngay tuần đầu vì xe cũ khó biết rõ lịch sử. Khoản lớn nhất thường là rủi ro ẩn: mua phải xe từng gặp va chạm lớn, máy уже, hoặc giấy tờ không rõ ràng thì tiền sửa dồn dập có thể ngang giá một chiếc xe khác.
+Mua xe cũ không dừng ở giá xe ghi trên tin rao. Sau tiền mua là loạt chi phí kèm theo: làm lại giấy tờ nếu xe đứng tên người khác, đăng kiểm đến kỳ, bảo hiểm bắt buộc, và gần như luôn phải thay nhớt, lốp, ắc quy hay căng xích ngay tuần đầu vì xe cũ khó biết rõ lịch sử. Khoản lớn nhất thường là rủi ro ẩn: mua phải xe từng gặp va chạm lớn, máy cũ, hoặc giấy tờ không rõ ràng thì tiền sửa dồn dập có thể ngang giá một chiếc xe khác.
 
 Đổi lại, nếu xe ổn, sau một hai năm tiền mua đã được chia nhỏ ra mỗi tháng và thấp hơn giá thuê, và xe là tài sản của bạn, muốn đi xa, muốn tân trang hay bán lại đều tự quyết. Đây là lý do mua thắng thuê khi bạn chắc chắn ở lại và đi lại nhiều năm.
 

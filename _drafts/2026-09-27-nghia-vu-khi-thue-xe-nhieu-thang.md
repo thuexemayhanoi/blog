@@ -19,7 +19,7 @@ Thuê xe máy nhiều tháng khác thuê vài ngày ở một điểm: hai bên 
 
 Xe thuê nhiều tháng là xe bạn dùng hằng ngày, nhưng quyền sở hữu vẫn thuộc bên cho thuê. Nghĩa vụ đi kèm là giữ xe trong tình trạng vận hành bình thường: không cho người khác chạy khi chưa được phép, không tháo lắp phụ kiện, không mang xe đi những địa hình mà xe không được thiết kế. Nếu bạn phải vắng Hà Nội vài tuần, đừng để xe nằm hở ngoài trời hay mượn tạm cho người khác; báo cửa hàng và hỏi phương án giữ xe trong kỳ nghỉ.
 
-Giữ xe cũng là giữ giấy. Hợp đồng dài hạn, giấy tờ xe nếu bên cho thuê giao kèm, đều cần được cất cẩn thận và trả đủ lúc hết kỳ. Mất giấy tờ giữa chừng là phiếu to corrections hai bên đều mất công, nên thói quen tốt là chụp lưu toàn bộ hồ sơ trên điện thoại ngay ngày nhận.
+Giữ xe cũng là giữ giấy. Hợp đồng dài hạn, giấy tờ xe nếu bên cho thuê giao kèm, đều cần được cất cẩn thận và trả đủ lúc hết kỳ. Mất giấy tờ giữa chừng là rắc rối lớn khiến hai bên đều mất công xử lý, nên thói quen tốt là chụp lưu toàn bộ hồ sơ trên điện thoại ngay ngày nhận.
 
 ## Bảo dưỡng xe thuê dài hạn: ai chịu gì
 
