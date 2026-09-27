@@ -136,6 +136,66 @@ json.dump(bad, open(os.path.join(work,'data/qa/BLG-91001.json'),'w',encoding='ut
 r = run(['--draft','_drafts/2026-09-27-sim-blg-91001.md','--id','BLG-91001','--dry-run'])
 assert r.returncode == 1 and 'business_fact' in r.stdout, r.stdout
 
+# ============ OWNERSHIP-SAFE LOCK (hardening, đồng bộ refill-queue) ============
+# Nap gate module TU fixture (chay acquire_lock truc tiep, deterministic, khong sleep)
+import importlib.util as _ilu
+_spec = _ilu.spec_from_file_location('gate_under_test', GATE)
+gate = _ilu.module_from_spec(_spec)
+_spec.loader.exec_module(gate)
+
+LJ = os.path.join(work, 'data/state/writer-lock.json')
+LS = os.path.join(work, 'data/state/writer-lock.active')
+
+def meta():
+    return json.load(open(LJ, encoding='utf-8'))
+
+# A1: metadata write failure ngay sau khi tao sentinel -> cleanup
+gate._write_json_atomic.__globals__  # dam bao ton tai
+_wja = gate._write_json_atomic
+def _boom(path, obj):
+    if path.endswith('writer-lock.json') and obj.get('locked'):
+        raise OSError('simulated metadata write failure')
+    return _wja(path, obj)
+gate._write_json_atomic = _boom
+a1_raised = False
+try:
+    gate.acquire_lock('writer-A1')
+except OSError:
+    a1_raised = True
+gate._write_json_atomic = _wja
+assert a1_raised, 'A1: acquire phai raise khi metadata fail'
+assert not os.path.exists(LS), 'A1: sentinel phai duoc cleanup'
+assert json.load(open(LJ, encoding='utf-8'))['locked'] is False, 'A1: metadata locked=false'
+print('PASS: A1 — metadata fail sau sentinel: raise + cleanup sentinel + metadata hop le locked=false')
+
+# A2: writer A release muon KHONG pha lock cua writer B
+# khoi phuc trang thai sach
+meta_reset = {'locked': False, 'holder': None, 'acquired_at': None,
+              'expires_at': None, 'updated_at': now_iso() if False else '2026-09-27T00:00:00+00:00',
+              'note': 'reset'}
+gate._write_json_atomic(LJ, meta_reset)
+rel_a = gate.acquire_lock('writer-A')
+tok_a = meta()['token']
+# mo phong A ket thuc/mat sentinel (crash), metadata van token A
+os.remove(LS)
+# writer B acquire lai (sentinel di -> O_EXCL thanh cong)
+rel_b = gate.acquire_lock('writer-B')
+tok_b = meta()['token']
+assert tok_a != tok_b, 'A2: token phai khac nhau'
+# release A (token cu) duoc goi MUON sau khi B giu khoa
+rel_a()
+assert os.path.exists(LS), 'A2: sentinel cua B KHONG duoc xoa boi release A'
+m = meta()
+assert m['locked'] is True and m['holder'] == 'writer-B' and m['token'] == tok_b, \
+    'A2: metadata cua B KHONG duoc de locked=false boi release A'
+print('PASS: A2 — release A (token cu) muon: sentinel B con, locked=true, holder/token dung B')
+
+# A2 release dung token: B release -> sach
+rel_b()
+assert not os.path.exists(LS), 'A2b: sentinel phai di khi release dung token'
+assert meta()['locked'] is False, 'A2b: metadata locked=false khi release dung token'
+print('PASS: A2b — release dung token: sentinel di, locked=false')
+
 shutil.rmtree(tmp)
 print('PASS: gate từ chối thiếu bằng chứng / điểm thấp / trạng thái chưa PASS / business FAIL; '
       'dry-run không đổi dữ liệu; STALE_QA_EVIDENCE khi nội dung đổi sau QA; '

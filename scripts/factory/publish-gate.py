@@ -65,31 +65,98 @@ def fail(msgs, release=None):
     sys.exit(1)
 
 
+def _write_json_atomic(path, obj):
+    """Ghi JSON an toan: ghi file .tmp, flush, fsync, os.replace (atomic
+    rename). Khong bao gio de writer-lock.json o trang thai nua chua."""
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8') as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, path)
+
+
+def _unlocked_meta(note):
+    return {'locked': False, 'holder': None, 'acquired_at': None,
+            'expires_at': None, 'updated_at': now_iso(),
+            'note': note}
+
+
 def acquire_lock(holder):
     """O_EXCL sentinel: hai tiến trình không thể cùng tạo tệp -> không race.
-    Trả về hàm release(); nếu không acquire được -> fail an toàn."""
+    Trả về hàm release(); nếu không acquire được -> fail an toàn.
+
+    OWNERSHIP TOKEN (đồng bộ với refill-queue.py): mỗi lần acquire sinh
+    token UUID riêng; sentinel chứa token; writer-lock.json lưu cùng
+    token. release() chỉ thao khi token khớp — writer cũ gọi release
+    muộn KHÔNG xóa sentinel hay ghi locked=false đè metadata của writer
+    mới (token khác -> NO-OP an toàn).
+
+    PARTIAL FAILURE: lỗi sau khi tạo sentinel nhưng trước khi acquire
+    hoàn tất -> cleanup sentinel do chính writer này vừa tạo, đưa
+    metadata về unlocked nhất quán (atomic write), re-raise."""
+    import uuid
+    token = uuid.uuid4().hex
     try:
         fd = os.open(LOCK_FILE, os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o644)
-        os.write(fd, (holder + ' ' + now_iso()).encode('utf-8'))
-        os.close(fd)
     except FileExistsError:
         fail(['writer-lock đang bị giữ (sentinel %s tồn tại) — từ chối, không promote.' % LOCK_FILE])
-    # đồng bộ writer-lock.json cho công cụ khác (không dùng làm điều kiện race)
-    json.dump({'locked': True, 'holder': holder, 'acquired_at': now_iso(),
-               'expires_at': None, 'updated_at': now_iso(),
-               'note': 'Sentinel thật: data/state/writer-lock.active (O_EXCL).'},
-              open(LOCK, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
-
-    def release():
+    # từ sau điểm này mọi lỗi phải cleanup sentinel + metadata rồi re-raise
+    try:
+        os.write(fd, token.encode('utf-8'))
+        os.close(fd)
+    except Exception:
+        try:
+            os.close(fd)
+        except OSError:
+            pass
+        try:
+            os.remove(LOCK_FILE)  # sentinel do chính writer này vừa tạo
+        except FileNotFoundError:
+            pass
+        _write_json_atomic(LOCK, _unlocked_meta(
+            'Lock acquire thất bại giữa chừng — cleanup partial failure.'))
+        raise
+    try:
+        _write_json_atomic(LOCK, {
+            'locked': True, 'holder': holder, 'acquired_at': now_iso(),
+            'expires_at': None, 'updated_at': now_iso(),
+            'token': token,
+            'note': 'Sentinel thật: data/state/writer-lock.active (O_EXCL).'})
+    except Exception:
         try:
             os.remove(LOCK_FILE)
         except FileNotFoundError:
             pass
-        json.dump({'locked': False, 'holder': None, 'acquired_at': None,
-                   'expires_at': None, 'updated_at': now_iso(),
-                   'note': 'Lock phải được giữ trong suốt một chunk và nhả khi checkpoint an toàn. '
-                           'Không bao giờ chạy hai writer song song.'},
-                  open(LOCK, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+        _write_json_atomic(LOCK, _unlocked_meta(
+            'Lock acquire thất bại giữa chừng — cleanup partial failure.'))
+        raise
+
+    def release():
+        """Chỉ thao lock khi token sentinel (hoặc token metadata khi
+        sentinel đã mất) khớp token của writer này. Token khác -> NO-OP,
+        không mutate sentinel/metadata của writer mới."""
+        try:
+            with open(LOCK_FILE, encoding='utf-8') as f:
+                cur = f.read().strip()
+        except FileNotFoundError:
+            # sentinel không còn: nếu metadata token khớp token này thì
+            # đưa metadata về unlocked; token khác -> NO-OP.
+            try:
+                meta = json.load(open(LOCK, encoding='utf-8'))
+            except FileNotFoundError:
+                return
+            if meta.get('token') == token:
+                _write_json_atomic(LOCK, _unlocked_meta(
+                    'Lock đã được release (sentinel không còn, token khớp).'))
+            return
+        if cur != token:
+            # sentinel thuộc writer khác -> NO-OP an toàn
+            return
+        os.remove(LOCK_FILE)
+        _write_json_atomic(LOCK, _unlocked_meta(
+            'Lock phải được giữ trong suốt một chunk và nhả khi checkpoint an toàn. '
+            'Không bao giờ chạy hai writer song song.'))
     return release
 
 

@@ -64,7 +64,7 @@ Cum lon nhan nhieu (vi du C-THUE-GIA 300), cum hep nhan it
   KHONG ha nguong chat luong de lap day capacity.
 - Them: --dry-run (in-memory, cay lam viec khong doi),
   --selftest (9 test tieu cuc va xung dot),
-  tests/test_refill_safety.py (12 test hardening: purity,
+  tests/test_refill_safety.py (Refill lock-safety hardening suite: purity,
   atomic lock, HEAD re-check, cleanup).
 - Materialization (refill --refill --yes, operator-only)
   chi chay khi owner phe duyet, trong clone git: doc START_HEAD,

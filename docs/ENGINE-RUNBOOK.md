@@ -38,7 +38,7 @@ lenh nao chua implement. Chay tu goc repository.
   9 test tieu cuc (dup intent/kw/slug/title, sai child,
   word_target nong, capacity overflow, candidate_id trung).
 - python3 scripts/factory/tests/test_refill_safety.py
-  12 test hardening: verify/dry-run purity (hash cay),
+  Refill lock-safety hardening suite: verify/dry-run purity (hash cay),
   --report PATH dung path, O_EXCL atomic lock, 8 lock
   attempts dong thoi -> 1 thanh cong, transaction guard,
   HEAD mismatch abort, cleanup sau failure/success,

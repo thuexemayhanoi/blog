@@ -99,7 +99,7 @@ jobs:
             echo "- Plain --verify purity: PASS"
             echo "- Refill idempotency: PASS"
             echo "- Collision selftest: PASS"
-            echo "- Lock-safety tests (12): PASS"
+            echo "- Lock-safety suite: PASS"
             echo "- Dry-run read-only: PASS"
             echo "- Sitemap 10K plan: PASS"
             echo "- Validation workflow: READ-ONLY (khong commit ve main)"
