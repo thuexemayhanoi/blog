@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-iem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han.md",
+  "source_path": "_posts/2026-09-27-iem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han.md",
   "content_sha256": "ee427de9e1194629e4bc78a9ba846dcb3da19c490e51c3886a872888ba42b2e9",
-  "matrix_row_sha256": "22368c2e78a3b2fe3935d6769946b493a5c9d006a829796140e70fd22464dedf",
-  "result": "PASS"
+  "matrix_row_sha256": "e0184c870735a7eca0e62359ba9a6045b77c6c8b40adf9ca5445c8f0233b4441",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }

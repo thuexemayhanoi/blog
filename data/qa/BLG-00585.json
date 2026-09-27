@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-ap-ien-cho-hoc-sinh-sinh-vien.md",
+  "source_path": "_posts/2026-09-27-xe-ap-ien-cho-hoc-sinh-sinh-vien.md",
   "content_sha256": "f1611f2774b5410a95edf1ac557b33e92555f419a2c7fe1144070b3f1b54288d",
-  "matrix_row_sha256": "ce44403a95d3fabc88d1752ddcc85fd05cae9dc737fd26e9ae8818526d09cac4",
-  "result": "PASS"
+  "matrix_row_sha256": "8abc32f7ec4bf5fb66a54369c768e2a67cfd055016dc7b45203d99a1e2d365fc",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }

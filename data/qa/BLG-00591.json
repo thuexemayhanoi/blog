@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-vision-hop-voi-ai-khi-thue.md",
+  "source_path": "_posts/2026-09-27-honda-vision-hop-voi-ai-khi-thue.md",
   "content_sha256": "a9a69fe0e6e01b1bfbf9f6859639b3d554fddb32de037fd4d0c7fef35d7e6dbe",
-  "matrix_row_sha256": "c238ff21b65f46abd202800e3b149ee952ad2c087cea926a6b3f37bf24d9a2df",
-  "result": "PASS"
+  "matrix_row_sha256": "803bfdce1f9d0267499a01822e6309fea85171ada3e8f784ddc991fa6f5d584e",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }

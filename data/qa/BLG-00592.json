@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-vision-i-pho-nhe-va-tien-the-nao.md",
+  "source_path": "_posts/2026-09-27-honda-vision-i-pho-nhe-va-tien-the-nao.md",
   "content_sha256": "6346328a8f78d6410c117a574eb8d36ccfd56fdf62df0f8c7162bd9afe8670f3",
-  "matrix_row_sha256": "91ea5174ed9229f38f6454c0ae3014a6690330ad17fdbabd71506e588520d245",
-  "result": "PASS"
+  "matrix_row_sha256": "43e4fbf67f116dcab5a36740ed76d7cead032f743a53c7c8e9a20c1c66b1b178",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }

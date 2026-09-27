@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-khoang-o-cua-honda-vision-chua-uoc-gi.md",
+  "source_path": "_posts/2026-09-27-khoang-o-cua-honda-vision-chua-uoc-gi.md",
   "content_sha256": "e2775790b471cf5eaa7ee46882eeeef0b67c2c98ce1efc6aa8d0392849d1a881",
-  "matrix_row_sha256": "b70932add1ba9a818c411411ec32966970a335b5b5c40ea7df605ea147d722d3",
-  "result": "PASS"
+  "matrix_row_sha256": "8be4585bc47fd1812bf8e477b06129fc76fd7478b7e2752d2945ed51a8d6f720",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:35+00:00"
 }

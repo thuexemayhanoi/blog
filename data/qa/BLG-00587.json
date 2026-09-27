@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-wave-cho-hanh-trinh-dai-ngay.md",
+  "source_path": "_posts/2026-09-27-honda-wave-cho-hanh-trinh-dai-ngay.md",
   "content_sha256": "511bccbbcaf1904e264ef055a505cd2de360a2a9a896ae24e3eed67904267f78",
-  "matrix_row_sha256": "a171b722c0fcecad3cbd3ef6192d654f248c4e4420e7ce94760e5df1c4591515",
-  "result": "PASS"
+  "matrix_row_sha256": "17051309ff8f4bf300c22b97ce860f4960ef30ef2d5a7a81138563c6fb121803",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }

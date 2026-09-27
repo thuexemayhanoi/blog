@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-wave-hop-voi-nhu-cau-thue-nao.md",
+  "source_path": "_posts/2026-09-27-honda-wave-hop-voi-nhu-cau-thue-nao.md",
   "content_sha256": "387b2f3fa2759bb9436ee1828faca7602042c1fba8e51c5b680a83e30522d80d",
-  "matrix_row_sha256": "0bbc2d939807292e6f43d61f4344b52cd34ef0456828db68eedf622bfea6319b",
-  "result": "PASS"
+  "matrix_row_sha256": "bb59446ea2fbe9e9a4a57426266383241e60837b2d1cb86a979fde12463b3305",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }

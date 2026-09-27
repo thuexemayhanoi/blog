@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-honda-vision-voi-nu-gioi-i-lam-hang-ngay.md",
+  "source_path": "_posts/2026-09-27-honda-vision-voi-nu-gioi-i-lam-hang-ngay.md",
   "content_sha256": "bc63eedf886e50530973c819e5286d21a2d42238326318c8114ecb605e7623a9",
-  "matrix_row_sha256": "87a5816017884e663fed51751270ac068cc3ddc4bb0956b7843b71ffcf57ad10",
-  "result": "PASS"
+  "matrix_row_sha256": "516494cd9fc0938fbe2421ac06d056c8000fc161d48f6e0f7586ccafc9db866a",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:35+00:00"
 }

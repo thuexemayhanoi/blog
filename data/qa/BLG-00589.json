@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh.md",
+  "source_path": "_posts/2026-09-27-khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh.md",
   "content_sha256": "4bbdbf8558dcdaa497f065322f51c7a33ccea32c7caaf9eeed4b80dde3ad7da2",
-  "matrix_row_sha256": "5b5cc7f77a96ddd418fca327e9884fd15b4104330700e4771b1609951a8b1eb4",
-  "result": "PASS"
+  "matrix_row_sha256": "4086c6e11faa995884c2e7307419c2001e12997e1dc6a3bea229b7417115b2a5",
+  "result": "PASS",
+  "published_at": "2026-09-27T23:04:34+00:00"
 }
