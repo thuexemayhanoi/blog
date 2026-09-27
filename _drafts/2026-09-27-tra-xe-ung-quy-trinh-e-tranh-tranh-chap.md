@@ -21,7 +21,8 @@ Trả xe gọn gàng bắt đầu từ trước khi bạn phi tới cửa hàng.
 
 Về tình trạng xe, tự soát lại một vòng theo chính checklist bạn dùng lúc nhận: đèn, còi, phanh, gương, xăng. Nếu xe có phát sinh hư hỏng giữa kỳ mà bạn đã báo cho cửa hàng, mang theo tin nhắn đã trao đổi làm dữ kiện. Nếu xe bẩn vì mưa đường quê hoặc bụi đường trường, qua một lượt rửa trước khi trả, vì bụi đất che vết xước mới và khiến việc đối chiếu ảnh khó hơn.
 
-Một điểm hay quên: gom hết đồ đạc trong cốp và thùng xe. Gọn lại mũ bảo hiểm, áo mưa, đồ nghề nếu bạn mượn của cửa hàng. Kiểm tra xăng theo thỏa thuận ban đầu, thường là trả xe với lượng xăng tương đương lúc nhận; cách chắc nhất là chụp ảnh đồng hồ xăng lúc nhận và đối chiếu lại.
+Một điểm hay quên: gom hết đồ đạc trong cốp và thùng xe. Gọn lại mũ bảo hiểm, áo mưa, đồ nghề nếu bạn mượn của cửa hàng. Kiểm tra xăn
+g theo thỏa thuận ban đầu, thường là trả xe với lượng xăng tương đương lúc nhận; cách chắc nhất là chụp ảnh đồng hồ xăng lúc nhận và đối chiếu lại.
 
 ## Trình tự trả xe tại cửa hàng
 
@@ -40,7 +41,8 @@ Giả sử trên thân xe xuất hiện một vết xước không có trong ả
 
 Nếu bạn tin vết đã có nhưng không được ghi lúc nhận do lượt qua, bài học là của lần sau chứ không giúp được lần này, vì bằng chứng chỉ có ảnh ngày nhận. Vì vậy nhấn một lần nữa: chất lượng của buổi trả phụ thuộc gần như hoàn toàn vào chất lượng của buổi nhận. Người đã ghi và chụp đủ lúc nhận thì buổi trả gần như không có gì để cãi.
 
-Với những hư hỏng thuộc phần vận hành, như xẹp lốp hay khô xích giữa kỳ, việc bạn có báo kịp thời cho cửa hàng hay không sẽ quyết định mức trách nhiệm. Đây là chủ đề của bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia%20se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/),đáng đọc ngay cả khi kỳ thuê của bạn đang êm ru.
+Với những hư hỏng thuộc phần vận hành, như xẹp lốp hay khô xích giữa kỳ, việc bạn có báo kịp thời cho cửa hàng hay không sẽ quyết định mức trách nhiệm. Đây là chủ đề của bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia%20se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/),đáng đọc ngay cả khi kỳ
+ thuê của bạn đang êm ru.
 
 ## Đóng kết biên nhận và nhận lại giấy tờ
 
@@ -56,4 +58,5 @@ Nếu bạn nhận xe tại một điểm và trả ở điểm khác, hoặc c�
 
 Sau khi mọi thứ khép lại, việc duy nhất còn lại là tự nhìn lại kỳ thuê của mình: xe có ổn không, thủ tục có mượt không. Những trải nghiệm đó là dữ liệu cho lần thuê sau. Quy trình chuẩn cho cả vòng nhận và trả được tổng hợp tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), phần hướng dẫn từng bước cho người mới thuê nằm trong bài [thủ tục thuê xe máy ở Hà Nội](/blog/kinh%20nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/), và bối cảnh chung của loại hình dịch vụ này nằm trong cẩm nang [thuê xe máy](/blog/thue-xe/).
 
-Trả xe chuẩn không phảilễ thủ thừa, mà là cách bạn đóng một giao dịch cho xong, giữ quan hệ tốt cho lần thuê kế tiếp trên địa bàn Hà Nội.
+Trả xe chuẩn kh
+ông phảinghi thức thừa thừa, mà là cách bạn đóng một giao dịch cho xong, giữ quan hệ tốt cho lần thuê kế tiếp trên địa bàn Hà Nội.
