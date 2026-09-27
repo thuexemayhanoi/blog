@@ -65,6 +65,25 @@ def slugify(s):
     return re.sub(r'\s+', '-', s)[:80].strip('-')
 
 
+def canonical_internal_link(link):
+    """Chuẩn hoá liên kết nội bộ về URL công khai có baseurl /blog.
+
+    Site chạy dưới baseurl /blog (xem _config.yml): liên kết root-relative
+    thiếu /blog (dạng /thue-xe/...) là URL 404 thật. Seed cho phép cả hai
+    dạng lịch sử; NGUỒN SINH MATRIX phải phát ra đúng một dạng canonical
+    /blog/... cho mọi hàng planned (idempotent).
+    """
+    link = (link or '').strip()
+    if (not link or link.startswith('#')
+            or link.startswith(('http://', 'https://', 'mailto:', 'tel:'))):
+        return link
+    if not link.startswith('/'):
+        link = '/' + link
+    if link.startswith('/blog/'):
+        return link
+    return '/blog' + link
+
+
 def read_sources():
     tax = json.load(open(TAX_PATH, encoding='utf-8'))
     inv = list(csv.DictReader(open(INV_PATH, encoding='utf-8')))
@@ -194,7 +213,8 @@ def main():
                 'expected_url': '/blog/%s/{date}/%s/' % (cat, slug),
                 'output_path': '_posts/{date}-%s.md' % slug,
                 'canonical_url': '/blog/%s/{date}/%s/' % (cat, slug),
-                'internal_links': '; '.join(o['links']),
+                'internal_links': '; '.join(
+                    canonical_internal_link(l) for l in o['links']),
                 'source_required': str(child['source_required']).lower(),
                 'legal_risk': child['legal_risk'],
                 'batch': '',
@@ -276,6 +296,10 @@ def main():
             if o['status'] not in ('PLANNED',):
                 for k in ('status', 'expected_url', 'output_path', 'canonical_url', 'batch', 'batch_id', 'repair_count', 'published_date', 'published_commit_sha', 'notes'):
                     r[k] = o.get(k, r[k])   # cột v2 cũ có thể thiếu: giữ giá trị sinh mới
+                # hàng PUBLISHED không được ghi đè sau khi xuất bản:
+                # internal_links giữ nguyên bằng chứng tại thời điểm promote.
+                if o['status'] == 'PUBLISHED' and o.get('internal_links'):
+                    r['internal_links'] = o['internal_links']
 
     fields = ['id', 'status', 'title', 'intent', 'primary_keyword', 'secondary_keywords',
               'parent_id', 'child_id', 'group', 'expected_url', 'output_path',

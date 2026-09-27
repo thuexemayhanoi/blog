@@ -308,6 +308,96 @@ HANOI_MARKERS = [
 ]
 
 
+
+# ---------------------------------------------------- canonical route truth
+# Base URL của site (GitHub Pages Jekyll): mọi liên kết nội bộ công khai
+# PHẢI bắt đầu bằng /blog. Route thật sinh deterministic từ repository:
+# frontmatter permalink của mọi trang + URL Jekyll của bài legacy.
+# KHÔNG gọi network — route được kiểm against cây nguồn.
+
+def _site_baseurl():
+    cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
+    m = re.search(r'^baseurl:\s*["\']?([^"\'\s#]+)', cfg, re.M)
+    if not m or not m.group(1).startswith('/'):
+        raise SystemExit('QA: không đọc được baseurl /blog từ _config.yml')
+    return m.group(1).rstrip('/')
+
+
+BASEURL = None
+_ROUTES = None
+
+
+def canonical_routes():
+    """Tập route công khai dạng baseurl-đầy-đủ (/blog/...) từ repo truth."""
+    global BASEURL, _ROUTES
+    if _ROUTES is not None:
+        return _ROUTES
+    BASEURL = _site_baseurl()
+    routes = set()
+    excluded = {'scripts', 'assets', 'data', 'reports', 'docs', 'en',
+                '_queue', '_drafts', 'gemfiles', 'node_modules',
+                'vendor', '.git', '.jekyll-cache', '.sass-cache',
+                '__pycache__'}
+    for root, dirs, files in os.walk(ROOT):
+        dirs[:] = [d for d in dirs if d not in excluded]
+        for fn in files:
+            if not fn.endswith(('.md', '.html')):
+                continue
+            path = os.path.join(root, fn)
+            try:
+                text = open(path, encoding='utf-8').read()[:2500]
+            except (OSError, UnicodeDecodeError):
+                continue
+            pm = re.search(r'^permalink:\s*(/\S+)', text, re.M)
+            if pm:
+                routes.add(BASEURL + pm.group(1))
+    # bài legacy _posts không có permalink: URL do Jekyll tính
+    # /blog/<category>/<Y>/<M>/<D>/<slug>/ (kèm biến thể lệch ngày UTC
+    # vì Jekyll chuẩn hoá timezone — thêm cả hai để không false FAIL).
+    posts_dir = os.path.join(ROOT, '_posts')
+    for fn in sorted(os.listdir(posts_dir)):
+        head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+        if re.search(r'^permalink:', head, re.M):
+            continue
+        cm = re.search(r'^categories:\s*\[[^\]]*\]', head, re.M)
+        dm = re.search(r'^date:\s*(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})'
+                       r'(?::(\d{2}))?\s*([+-]\d{2})(\d{2})?', head, re.M)
+        if not (cm and dm):
+            continue
+        cat = re.sub(r'^categories:\s*\[\s*|\s*\]\s*$', '', cm.group(0)).strip()
+        y, mo, d = dm.group(1), dm.group(2), dm.group(3)
+        slug = fn[11:-3]
+        base = '%s/%s/' % (BASEURL, cat)
+        routes.add('%s%s/%s/%s/%s/' % (base, y, mo, d, slug))
+        # biến thể UTC (+07:00 phổ biến của site này -> ngày trừ 1)
+        try:
+            import datetime as _dt
+            off = int(dm.group(7))
+            t = _dt.datetime(int(y), int(mo), int(d)) - _dt.timedelta(hours=off)
+            routes.add('%s%04d/%02d/%02d/%s/' % (base, t.year, t.month, t.day, slug))
+        except Exception:
+            pass
+    _ROUTES = routes
+    return routes
+
+
+def link_route_ok(link):
+    """Liên kết nội bộ chỉ PASS khi (1) có đủ baseurl /blog và
+    (2) trỏ tới route thật trong cây nguồn. Anchor được tách trước
+    khi đối chiếu; liên kết ngoài/anchor thuần không thuộc site."""
+    link = (link or '').strip()
+    if (not link or link.startswith('#')
+            or link.startswith(('http://', 'https://', 'mailto:', 'tel:'))):
+        return True
+    if BASEURL is None:
+        canonical_routes()   # khởi tạo BASEURL + route truth lần đầu
+    if not link.startswith(BASEURL + '/'):
+        return False
+    route = link.split('#', 1)[0]
+    if not route.endswith('/'):
+        route += '/'
+    return route in canonical_routes()
+
 def norm_title(t):
     return re.sub(r'[^\w\sàáảãạăằắẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]',
                  '', (t or '').lower()).strip()
@@ -420,12 +510,16 @@ def qa_check_one(row, rows, biz, tax):
                                           for r in required)
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
-    hub = re.sub(r'^/blog', '', parents[row['parent_id']]['hub_url'])
-    child_hub = children[row['child_id']].get('hub_url')
-    if child_hub:
-        child_hub = re.sub(r'^/blog', '', child_hub)
+    # hub trong taxonomy là URL công khai dạng /blog/... — liên kết trong
+    # bài PHẢI mang đúng baseurl, không strip /blog nữa (QA hardening:
+    # prefix khớp kiểu cũ cho /thue-xe/... chạy 404 là lỗi thật).
+    hub = parents[row['parent_id']]['hub_url']
     checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
     checks['links_count'] = 3 <= len(links) <= 8
+    # route thật từ repository truth — liên kết chỉ PASS khi có /blog
+    # VÀ trỏ tới route tồn tại (không chấp nhận khớp prefix suông).
+    checks['links_routes_valid'] = all(link_route_ok(l) for l in links)
+    ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)))
     checks['no_hardcoded_blog'] = not re.search(r'\]\(.*\/blog\/blog', body) \
         and '/blog/blog/' not in body
 
@@ -476,7 +570,8 @@ def qa_check_one(row, rows, biz, tax):
         legal = 'NOT_REQUIRED'
 
     critical = not (checks['business_amounts'] and checks['forbidden_claims']
-                    and checks['phone_ok'] and checks['no_placeholder'])
+                    and checks['phone_ok'] and checks['no_placeholder']
+                    and checks['links_routes_valid'])
 
     # ---- điểm theo trọng số QUALITY-RUBRIC.md
     q_crit = [('intent_opening', 25), ('hanoi_example', 25),
@@ -872,6 +967,7 @@ def op_verify(args):
         ['scripts/factory/tests/test_publish_gate.py'],
         ['scripts/factory/tests/test_refill_safety.py'],
         ['scripts/factory/tests/test_operator.py'],
+        ['scripts/factory/tests/test_link_integrity.py'],
     ]
     failed = []
     for cmd in steps:
