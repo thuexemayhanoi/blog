@@ -103,3 +103,15 @@ matrix hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
   (Hợp đồng resume: `docs/RECOVERY.md`.)
 - KHÔNG force push; push chỉ fast-forward, conflict thì fetch/rebase
   bounded 5 lần, vẫn conflict → STOP.
+
+## Ghi nhận pilot 2026-09-27 (5 bài, không bật hourly)
+
+- Chuỗi lệnh chạy đúng luồng: `prepare-next` (5) -> writer ngoài viết
+  draft -> `qa` (5/5 PASS: quality/seo >= 90, business_fact PASS,
+  legal NOT_REQUIRED) -> `publish` (5/5 qua publish-gate, QA evidence
+  được gate đồng bộ `source_path` + `matrix_row_sha256` sau promote).
+- Bài xuất bản: BLG-00486..BLG-00490 (C-THUE-GIA). Checkpoint:
+  last_completed BLG-00490, next_claimable BLG-00491. Transaction
+  active=false, writer-lock sạch, lệnh đã xóa sau xử lý.
+- CƠ CHẾ HOURLY CHƯA BẬT: không cron, publish-queue.yml (legacy) vẫn
+  disabled. Bật hourly chỉ sau quyết định riêng của chủ xe.
