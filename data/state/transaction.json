@@ -1,6 +1,6 @@
 {
   "active": false,
-  "updated_at": "2026-09-27T13:03:12+00:00",
+  "updated_at": "2026-09-27T13:52:24+00:00",
   "pending": null,
   "history": [
     {
@@ -88,6 +88,39 @@
       "result": "PUBLISHED",
       "commit_sha": "92034380f0d60d515efa7e15ef9c44b75680b0d6",
       "finished_at": "2026-09-27T13:03:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00495",
+      "started_at": "2026-09-27T13:52:24+00:00",
+      "source": "_drafts/2026-09-27-gia-thue-xe-may-dip-le-tet-co-thay-oi-khong.md",
+      "destination": "_posts/2026-09-27-gia-thue-xe-may-dip-le-tet-co-thay-oi-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3333eaceb56f53e730832289e1257fc0231c5a86",
+      "finished_at": "2026-09-27T13:52:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00496",
+      "started_at": "2026-09-27T13:52:24+00:00",
+      "source": "_drafts/2026-09-27-du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em.md",
+      "destination": "_posts/2026-09-27-du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3333eaceb56f53e730832289e1257fc0231c5a86",
+      "finished_at": "2026-09-27T13:52:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00497",
+      "started_at": "2026-09-27T13:52:24+00:00",
+      "source": "_drafts/2026-09-27-gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao.md",
+      "destination": "_posts/2026-09-27-gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3333eaceb56f53e730832289e1257fc0231c5a86",
+      "finished_at": "2026-09-27T13:52:24+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

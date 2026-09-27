@@ -38,8 +38,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-gia-thue-xe-may-dip-le-tet-co-thay-oi-khong.md",
+  "source_path": "_posts/2026-09-27-gia-thue-xe-may-dip-le-tet-co-thay-oi-khong.md",
   "content_sha256": "5414d76fce024612e0e426e01996b7665c72feea26a7eccadf93f036a48769d6",
-  "matrix_row_sha256": "1a9d505673596813bd443a73e3932d8f59b89370801ba0381a6a71ae726e8725",
-  "result": "PASS"
+  "matrix_row_sha256": "5fce53ee4e8f7adb469e0db4dbb40b26b3094830108b574d674fe24e876ed3ea",
+  "result": "PASS",
+  "published_at": "2026-09-27T13:52:24+00:00"
 }

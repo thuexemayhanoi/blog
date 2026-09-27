@@ -38,8 +38,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em.md",
+  "source_path": "_posts/2026-09-27-du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em.md",
   "content_sha256": "a9aa800161b66c431b214a46d9492efde828e1e5feeb24adeec69423af2506a2",
-  "matrix_row_sha256": "170fb677c0797b061bd2a2de866f6f167133da2b6b04d423ae4cb44e6baba5f0",
-  "result": "PASS"
+  "matrix_row_sha256": "ebde20c4b78671d1d69147c30f793f94c307dae81a89fb6b5b511963f9c08d9f",
+  "result": "PASS",
+  "published_at": "2026-09-27T13:52:24+00:00"
 }
