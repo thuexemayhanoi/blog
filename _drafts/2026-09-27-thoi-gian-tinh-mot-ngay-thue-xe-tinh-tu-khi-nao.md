@@ -19,7 +19,7 @@ Khách thuê xe hay mặc định rằng một ngày thuê là hai mươi bốn 
 
 Mỗi cửa hàng chọn một quy ước, và cả ba đều hợp lý nếu được nói rõ từ đầu:
 
-- Khung hai mươi bốn giờ: một ngày tính từ giờ nhận xe, hết khung đó là quá một ngày, bất kể nhận sáng hay chiều.
+- Khung hai mươi bốn giờ: một ngày tính từ giờ nhận xe, hết khung đó là quá một ngày, kể cả nhận sáng hay chiều.
 - Ngày lịch: một ngày là một ngày trên lịch, nhận hôm nay và trả trước giờ đóng cửa hôm sau là một ngày, kể cả nhận buổi chiều.
 - Tính theo buổi: nửa ngày cho kỳ thuê dưới một ngày, hoặc tách buổi sáng buổi chiều giá khác nhau.
 
@@ -27,7 +27,7 @@ Ba kiểu này cho ba kết quả khác nhau cho cùng lịch trình. Ví dụ n
 
 Cửa hàng ở Hà Nội, kể cả khu Long Biên quanh Nguyễn Văn Cừ, thường dùng kiểu ngày lịch vì dễ ghi sổ và khớp giờ mở cửa. Nhưng đừng đoán: hỏi thẳng bằng một câu cụ thể nêu ở phần dưới.
 
-## Hỏi đúng để biết cách tính của nơi mình thuê
+## Hỏi đúng để biết cách tính ngày thuê xe của nơi mình thuê
 
 Câu hỏi chung chung kiểu một ngày tính thế nào thường nhận câu trả lời chung chung. Cách hỏi chuẩn là đặt một ví dụ cụ thể và yêu cầu trả lời theo ví dụ đó:
 
@@ -55,7 +55,7 @@ Trả trễ là vùng xám dễ phát sinh chi phí nhất. Các quy ước thư
 
 Nếu lịch trình của bạn hay trễ đường đi, ví dụ chạy về từ ngoại ô Hà Nội giờ tan tầm, hãy chủ động đặt khung trả rộng hơn: thuê tới thứ Hai sáng thay vì Chủ Nhật tối, để phần dư đó là khoảng đệm. Chi phí một buổi đệm thường nhỏ hơn nhiều so với một lần tính trễ ngoài dự kiến.
 
-Trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) tổng hợp thông tin về hình thức thuê ngắn ngày, trong đó cách tính ngày là phần cốt lõi. Bài về [thủ tục thuê xe máy](/blog/kinh%20nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) mô tả nơi các mốc thời gian này được ghi trong quy trình chuẩn, và cẩm nang [thuê xe máy](/blog/thue-xe/) là bối cảnh chung cho mọi kỳ thuê tại Hà Nội.
+Trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) tổng hợp thông tin về hình thức thuê ngắn ngày, trong đó cách tính ngày là phần cốt lõi. Phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) mô tả nơi các mốc thời gian này được ghi trong quy trình chuẩn, và cẩm nang [thuê xe máy](/blog/thue-xe/) là bối cảnh chung cho mọi kỳ thuê tại Hà Nội.
 
 ## Kết: một ngày thuê bắt đầu từ sự rõ ràng
 
