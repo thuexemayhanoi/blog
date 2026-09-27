@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00583",
   "title": "Xe đạp điện có cần bằng lái không",
-  "scored_at": "2026-09-27T22:20:13+00:00",
+  "scored_at": "2026-09-27T22:21:11+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -23,7 +23,7 @@
     "cannibalization": true,
     "intent_opening": true,
     "hanoi_example": true,
-    "reads_naturally_proxy": false,
+    "reads_naturally_proxy": true,
     "no_placeholder": true,
     "business_amounts": true,
     "forbidden_claims": true,
@@ -35,13 +35,13 @@
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 80,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-xe-ap-ien-co-can-bang-lai-khong.md",
-  "content_sha256": "0e3c447939f57f22b761a03f46feb8d86a7fab75404a16999c5c85c076599b4d",
+  "content_sha256": "922c9f2f1fc416477d5f20135ae77bece6d105484e8dd0602f1cafaa5d2eed4a",
   "matrix_row_sha256": "029bc563e6d7167f00b6eb4ca42d83a6834f462a65d7a6eddb79948d5dc58737",
-  "result": "REPAIR"
+  "result": "PASS"
 }
