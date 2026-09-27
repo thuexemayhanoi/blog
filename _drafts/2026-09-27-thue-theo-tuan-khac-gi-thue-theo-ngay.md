@@ -33,6 +33,12 @@ Với thuê ngày, xe về cửa hàng mỗi tối, nên việc căng xích, bó
 
 Trước khi nhận xe tuần, hãy chốt với cửa hàng: nếu giữa kỳ xe cần căng xích hay thay bóng đèn thì ai chịu, bảo dưỡng ở đâu, và có được đổi xe nếu hỏng lớn không. Hỏi trước năm phút này giúp tránh mọi hiểu lầm khi sự cố thật sự xảy ra.
 
+## Hai tình huống mẫu để đối chiếu
+
+Tình huống một: một nhân viên công tác ở Hà Nội từ thứ Hai đến thứ Sáu, cần xe đi lại mỗi ngày. Thuê ngày năm lần liên tiếp vừa tốn công nhận trả vừa tốn tiền hơn gói tuần rõ rệt; thuê tuần là phương án hiển nhiên. Tình huống hai: một nhóm bạn chỉ cần xe cho thứ Bảy và Chủ nhật đi ngoại thành. Thuê hai ngày lẻ gọn hơn nhiều so với gói tuần, vì năm ngày còn lại của gói không dùng tới mà vẫn trả đủ.
+
+Hai tình huống này cho thấy cùng một câu hỏi mà đáp án trái nhau: quyết định nằm ở mật độ sử dụng thực tế chứ không phải ở sở thích hình thức. Trước khi quyết, mở lịch tuần của mình ra và tô màu những ngày thực sự cần xe; bản đồ màu đó thường tự nói lên lựa chọn đúng.
+
 ## Lợi thế thuê tuần cho từng nhóm khách
 
 Với khách công tác dài ngày, lợi thế thuê tuần là ổn định và tiết kiệm: một chiếc xe quen tay suốt tuần với giá gói thấp hơn. Với khách du lịch ở lại nhiều ngày, lợi thế là tự do: muốn đi ngoại thành hay tỉnh lân cận cũng không phải cân nhắc tiền ngày. Với người mới chuyển đến Hà Nội, thuê tuần là giai đoạn quá độ lý tưởng để làm quen đường sá trước khi quyết định mua xe riêng.

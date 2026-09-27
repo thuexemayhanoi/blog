@@ -39,6 +39,10 @@ Chủ cửa hàng muốn nhận lại xe tốt, nên phần lớn sẵn sàng h�
 
 Nếu giữa tuần xe phải bảo dưỡng lớn, hãy chụp ảnh hiện trạng và giữ hóa đơn, rồi báo cửa hàng trước khi tự ý sửa ở nơi không liên kết. Cách làm rõ ràng đó bảo vệ cả hai bên khi đối chiếu lúc trả xe.
 
+## Một tuần mẫu chia nhỏ theo ngày
+
+Để dễ hình dung, hãy xem một tuần thuê điển hình. Ngày một: nhận xe, kiểm tra kỹ, ghi vết sẵn có, hỏi số báo sự cố. Ngày hai và ba: rà nhanh mỗi sáng, chú ý xích và lốp vì xe đang vào nhịp chạy. Ngày bốn: giữa tuần, dành thêm vài phút lau bụi bẩn quanh vành và tra lại dầu xích nếu được hướng dẫn. Ngày năm và sáu: tiếp tục rà sáng, nghe mọi tiếng lạ mới. Ngày bảy: tổng rà lần cuối, bơm lốp, lau xe rồi trả đúng giờ hẹn. Chia nhỏ như vậy, chăm xe không còn là gánh nặng mà chỉ là vài phút mỗi ngày.
+
 ## Trả xe tuần trong tình trạng đẹp
 
 Ngày cuối kỳ, dành mười phút tổng rà lại: xích căng vừa, lốp non thì bơm trước khi đi trả, cốp xe rút hết đồ cá nhân, và lau qua lớp bụi dày nếu xe đi đường nhiều. Xe trả sạch giúp việc đối chiếu vết xước nhanh hơn, và chủ cửa hàng ghi nhận ngay bạn là khách giữ xe tốt. Không cần tân trang gì cầu kỳ, chỉ cần thể hiện rằng chiếc xe được chăm trong tuần.
