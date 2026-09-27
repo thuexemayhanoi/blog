@@ -1,6 +1,6 @@
 ---
 layout: hub
-title: "thue-xe - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
+title: "Thuê xe máy Hà Nội - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
 description: "Tất tần tật về thuê xe máy ở Hà Nội: giá, thủ tục, đặt cọc, thuê ngày/tuần/tháng, nhận trả xe và xử lý sự cố."
 lang: vi
 permalink: /thue-xe/

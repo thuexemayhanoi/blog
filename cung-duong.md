@@ -1,6 +1,6 @@
 ---
 layout: hub
-title: "cung-duong - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
+title: "Cung đường & hành trình - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
 description: "Lộ trình và cung đường phượt từ Hà Nội: nội thành, cuối tuần, Mai Châu, Mộc Châu, Hà Giang và các tỉnh phía Bắc."
 lang: vi
 permalink: /cung-duong/

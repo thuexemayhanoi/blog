@@ -1,6 +1,6 @@
 ---
 layout: hub
-title: "xe-may - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
+title: "Xe máy & dòng xe - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
 description: "Kiến thức về các dòng xe cho thuê: xe số, xe ga, xe 50cc, xe điện và các mẫu Honda Wave, Vision, Air Blade, Click, Yamaha Sirius."
 lang: vi
 permalink: /xe-may/

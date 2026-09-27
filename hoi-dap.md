@@ -1,6 +1,6 @@
 ---
 layout: hub
-title: "hoi-dap - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
+title: "Hỏi đáp thuê xe máy - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
 description: "Giải đáp nhanh mọi câu hỏi về giá thuê, thủ tục, pháp lý, chọn xe, sự cố và người mới thuê xe máy."
 lang: vi
 permalink: /hoi-dap/

@@ -15,8 +15,7 @@ layout: default
       {% for post in site.posts %}
         {% assign mychild = post.child_id %}
         {% if mychild == nil %}
-          {% assign pslug = post.url | split: '/' | last %}
-          {% assign m = site.data.factory-map[pslug] %}
+          {% assign m = site.data.factory-map[post.slug] %}
           {% if m %}{% assign mychild = m.c %}{% endif %}
         {% endif %}
         {% if mychild == page.child_id %}

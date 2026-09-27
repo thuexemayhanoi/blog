@@ -1,6 +1,6 @@
 ---
 layout: hub
-title: "ky-nang - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
+title: "Kỹ năng & tình huống - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú"
 description: "Kỹ năng lái xe máy, xử lý tình huống giao thông, thời tiết xấu, chở đồ, gửi xe và giữ sức khỏe khi di chuyển."
 lang: vi
 permalink: /ky-nang/
