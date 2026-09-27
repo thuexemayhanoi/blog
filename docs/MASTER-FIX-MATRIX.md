@@ -17,13 +17,23 @@ Mỗi hàng: lỗi → nguyên nhân → tệp/commit sửa → kiểm thử →
 | C1 | Validator queue cũ chỉ nhận `NNN-slug.md`; "skipped" bị hiểu là PASS toàn `_posts` | Hai campaign trộn lẫn | Tách trong `docs/CONTENT-FACTORY.md`, `AGENTS.md`, `reports/factory/policy-conflicts.md`; CI factory riêng | Đọc docs + CI | N/A | VERIFIED |
 | C2 | Xung đột chính sách nội bộ (cọc 2–5 triệu, phí trễ 20k/giờ chỉ có trong validator cũ) | Hai nguồn fact khác nhau trong /blog | `reports/factory/policy-conflicts.md`: ghi từng nguồn, BLOCKED, không tự chọn | Đối chiếu 3 nguồn | N/A | BLOCKED (chờ chủ xe quyết định) |
 | C3 | Không có vùng nháp không deploy | Chưa có `_drafts/` | Tạo `_drafts/` + mẫu; CI build chứng minh nháp không vào sitemap/output | CI build + grep | Xem mục E cuối file | VERIFIED |
-| C4 | Gate chỉ dựa Pages build success | Thiếu CI validator | `.github/workflows/factory-validate.yml`: restore idempotent, report khớp dữ liệu, validate, build, nháp, hub | Chạy workflow thật trên GitHub | Xem mục E cuối file | PENDING |
+| C4 | Gate chỉ dựa Pages build success | Thiếu CI validator | `.github/workflows/factory-validate.yml`: restore idempotent, report khớp dữ liệu, validate, build, nháp, hub | Chạy workflow thật trên GitHub | Run 36299837072 tại HEAD 1bb9f129c9: mọi bước bằng chứng SUCCESS; chỉ "Validate foundation" fail đúng chủ đích vì matrix BLOCKED | VERIFIED (đỏ có chủ đích, không bị che) |
 | A5 | Audit cũ ghi sai định dạng URL legacy (`/blog/YYYY/MM/DD/slug/`) | URL thật do Jekyll sinh gồm tên danh mục có dấu + ngày frontmatter chuẩn hoá UTC: `/blog/kinh nghiệm/2026/09/17/...` | `restore-foundation.py` + `validate.py` ghi đúng quy tắc thật; inventory ghi URL thật | Đối chiếu 483/483 URL với `sitemap.xml` công khai: khớp 100% | Live: mọi URL inventory trả 200 | VERIFIED |
 | D1 | Thiếu AGENTS.md; README lỗi thời; docs trùng lặp | Chưa chuẩn hóa | `AGENTS.md`, `README.md`, docs cập nhật; `docs/mistral/README.md` thành con trỏ | Đọc lại | N/A | VERIFIED |
 
-## E. Kiểm tra live sau deploy (cập nhật sau khi Pages deploy xong)
+## E. Kiểm tra live sau deploy — kết quả thật tại HEAD 1bb9f129c9
 
-Trạng thái: PENDING cho tới khi kiểm tra live xong. Các URL sẽ kiểm: trang chủ, `/blog/chu-de/`, 7 hub cha, 39 hub con, bài đại diện, sitemap.
+Pages deploy run 36299836303: success. Factory validate run 36299837072: các bước bằng chứng đều SUCCESS; chỉ bước "Validate foundation" thất bại đúng chủ đích (matrix BLOCKED, exit 2).
+
+Kiểm tra live ngày 27/09/2026, tất cả trả 200:
+
+- Trang chủ `/blog/`, `/blog/chu-de/` (H1 "Tất cả chủ đề cẩm nang" render đúng, link có tiền tố `/blog/`).
+- 7 hub cha: thue-xe, kinh-nghiem, an-toan-phap-ly, cung-duong, du-lich và 2 hub còn lại — H1 hiển thị tên chủ đề tiếng Việt, không còn slug thô.
+- Hub con mới tạo: `/blog/xe-may/honda-wave/` (H1 "Honda Wave", bài `2026/09/18/thue-honda-wave-o-ha-noi` render trong danh sách), `/blog/an-toan-phap-ly/bien-bao/`, `/blog/du-lich/ngoai-thanh/`, `/blog/cung-duong/cung-duong-noi-thanh/`.
+- Bài legacy URL định dạng thật: `/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/` → 200.
+- `sitemap.xml`: 544 loc, 483 URL bài, không có `_drafts` (grep `mau-nhap-bai-moi` = 0).
+
+Không kiểm được trong lần này (không có môi trường): Safari/iPhone thực, Lighthouse/Core Web Vitals đo thật — NOT VERIFIED.
 
 ## Mục tiêu tiếp theo (không tự thực hiện khi chưa được giao)
 
