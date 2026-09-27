@@ -692,15 +692,8 @@ def op_publish(args):
                   'KHÔNG nhận hàng mới. Resume: qa -> publish lại.' % aid)
             return 1
         ok_ids.append(aid)
-    # sau promote: sinh reports (kèm matrix-report) + verify chuẩn
-    run_reports()
-    v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
-                       capture_output=True, text=True)
-    print(v.stdout[-1500:])
-    if v.returncode != 0:
-        print('publish: validate.py FAIL sau promote — dừng, KHÔNG rollback '
-              'tay; chạy recover/verify trước khi làm tiếp.')
-        return 1
+    # sau promote: chốt checkpoint TRƯỚC (xóa in_progress_chunk) rồi mới
+    # sinh reports — nếu không latest.md sẽ giữ chunk đã xong (stale).
     cp = read_json(CP)
     rows2 = load_matrix()
     still = [r['id'] for r in rows2
@@ -710,6 +703,14 @@ def op_publish(args):
         return 1
     cp['in_progress_chunk'] = None
     update_checkpoint(cp, rows2)
+    run_reports()
+    v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
+                       capture_output=True, text=True)
+    print(v.stdout[-1500:])
+    if v.returncode != 0:
+        print('publish: validate.py FAIL sau promote — dừng, KHÔNG rollback '
+              'tay; chạy recover/verify trước khi làm tiếp.')
+        return 1
     print('publish: PUBLISHED %s' % ','.join(ok_ids))
     return 0
 
