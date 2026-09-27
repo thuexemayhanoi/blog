@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00590",
   "title": "Thuê Honda Wave cho người mới: vì sao hay được chọn",
-  "scored_at": "2026-09-27T22:41:29+00:00",
+  "scored_at": "2026-09-27T23:03:23+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-thue-honda-wave-cho-nguoi-moi-vi-sao-hay-uoc-chon.md",
-  "content_sha256": "ff3952bb8d4d5ceeddb9ed43cc521521d23879cde9082189c311bf37e9947d84",
+  "content_sha256": "40d8a525332ac658b0e76720d3a7215acb946f9a497a13dfe13bcffdc72a7267",
   "matrix_row_sha256": "d2d7874dc28cf76e41be9c9d724d256c5272901baf0c4d49b8d782b456cabca3",
   "result": "PASS"
 }
