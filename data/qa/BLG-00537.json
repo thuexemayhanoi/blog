@@ -1,14 +1,14 @@
 {
   "article_id": "BLG-00537",
   "title": "Mũ bảo hiểm cho người thuê xe quốc tế",
-  "scored_at": "2026-09-27T19:24:38+00:00",
+  "scored_at": "2026-09-27T19:32:17+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
     "draft_date": true,
     "slug_match": true,
     "permalink_canonical": true,
-    "word_count": false,
+    "word_count": true,
     "title_match": true,
     "description_length": true,
     "description_keyword": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 899,
+  "word_count": 1114,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-mu-bao-hiem-cho-nguoi-thue-xe-quoc-te.md",
-  "content_sha256": "a4f110df4091a7f3bdb2e47ec11b08c2c8780ef2671af0faec3d4f03311e14c6",
+  "content_sha256": "dd0e03aa06e70171e65f39e8d85a180a37c1992294c61068237a34ccf78758a9",
   "matrix_row_sha256": "d752db8f900f0efe1d7ef4283986b7712f894d10f7f745c27cb27d493ef7f4ae",
   "result": "PASS"
 }

@@ -1,14 +1,14 @@
 {
   "article_id": "BLG-00538",
   "title": "Đi xe máy từ Hà Nội ra Nội Bài hoặc các tỉnh lân cận",
-  "scored_at": "2026-09-27T19:24:38+00:00",
+  "scored_at": "2026-09-27T19:32:17+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
     "draft_date": true,
     "slug_match": true,
     "permalink_canonical": true,
-    "word_count": false,
+    "word_count": true,
     "title_match": true,
     "description_length": true,
     "description_keyword": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 852,
+  "word_count": 1057,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-i-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can.md",
-  "content_sha256": "9d658891d38be865fe085fead95c7deeb8461fad218d6a160f0c1f32a54ff926",
+  "content_sha256": "ff2b32eb3079d17a63d75e4c9618a1aaa81da9920c1dc2152260d3b1612a656a",
   "matrix_row_sha256": "35faa014c67bb84afedc9e6dac2661dae2f3a6a6ad3bd902efa98d4b6847651b",
   "result": "PASS"
 }
