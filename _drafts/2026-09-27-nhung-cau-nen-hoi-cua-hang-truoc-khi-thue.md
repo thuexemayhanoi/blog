@@ -15,7 +15,7 @@ article_id: BLG-00509
 
 Khách hàng hay cảm thấy ngại hỏi nhiều khi thuê xe máy, sợ bị coi là khó tính. Nhưng người thuê thường xuyên nói ngược lại: cửa hàng nghiêm túc luôn sẵn lòng trả lời, và chính những câu hỏi trước khi thuê xe quyết định kỳ thuê có suôn sẻ hay không. Bài này tổng hợp thành một danh sách câu hỏi trước khi thuê xe máy, chia theo nhóm chủ đề, để bạn mang theo điện thoại và lần lượt hỏi, không bỏ sót phần nào quan trọng.
 
-## Nhóm câu hỏi về giá và cách tính tiền
+## Nhóm câu hỏi trước khi thuê xe về giá và cách tính tiền
 
 Giá niêm yết chỉ là điểm bắt đầu. Điều cần làm rõ là toàn bộ cách tính, không chỉ con số cuối. Bạn nên hỏi:
 
@@ -48,7 +48,7 @@ Với tình trạng xe, đừng chỉ hỏi xe mới hay cũ, vì đó là khái
 - Nếu chiếc giao ra có trục trặc trong ngày đầu, tôi được đổi xe khác không?
 - Khi trả xe, việc kiểm tra diễn ra thế nào, có đối chiếu ảnh chụp ngày nhận không?
 
-Câu hỏi về đổi xe giữa kỳ đáng giá hơn nhiều so với vẻ ngoài của nó. Một số cửa hàng cho đổi ngay tại quầy, số khác xử lý theo từng tình huống. Biết trước cách xử lý giúp bạn không bối rối khi xe có vấn đề giữa đường. Cách kiểm tra xe kỹ càng khi nhận được mô tả trong bài [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh%20nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), phần chuẩn bị cho cả vòng nhận và trả nằm tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/).
+Câu hỏi về đổi xe giữa kỳ đáng giá hơn nhiều so với vẻ ngoài của nó. Một số cửa hàng cho đổi ngay tại quầy, số khác xử lý theo từng tình huống. Biết trước cách xử lý giúp bạn không bối rối khi xe có vấn đề giữa đường. Cách kiểm tra xe kỹ càng khi nhận được mô tả trong trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), phần chuẩn bị cho cả vòng nhận và trả cũng nằm tại trang này.
 
 ## Nhóm câu hỏi về hỗ trợ giữa kỳ thuê
 
