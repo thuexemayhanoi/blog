@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nguoi-moi-lai-xe-may-nen-tap-voi-xe-so-khong.md",
+  "source_path": "_posts/2026-09-27-nguoi-moi-lai-xe-may-nen-tap-voi-xe-so-khong.md",
   "content_sha256": "81be0f7a3b3e3038eea66b709e523644efe1c79c5f580affefdb399bba6eab64",
-  "matrix_row_sha256": "6e73d7012684e0b1a1f2d376e939fd8ffe92b924329d1c5dd0fffbfe61ab313b",
-  "result": "PASS"
+  "matrix_row_sha256": "740c7c0c31966f06053c6f244b1b958c40046f6fb10d90d4d53cc941f2874d91",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:17:00+00:00"
 }

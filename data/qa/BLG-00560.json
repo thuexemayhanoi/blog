@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-so-la-gi-va-ai-nen-thue.md",
+  "source_path": "_posts/2026-09-27-xe-so-la-gi-va-ai-nen-thue.md",
   "content_sha256": "9c1eb52bb23cc6c2690257e235615261e9fbc2f77c801dc4cf6a8bbebc4087ac",
-  "matrix_row_sha256": "35b5ecf9a8eb3e1f72fa74c623c80b88b2f4deb6d729d12380be20532c4d7395",
-  "result": "PASS"
+  "matrix_row_sha256": "58410f4277018af645834826e500379964cf8ab5e7879292d9a85da18b6dcec8",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:17:00+00:00"
 }

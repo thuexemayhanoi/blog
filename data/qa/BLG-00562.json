@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-so-i-uong-eo-doc-co-on-khong.md",
+  "source_path": "_posts/2026-09-27-xe-so-i-uong-eo-doc-co-on-khong.md",
   "content_sha256": "bdce1f3813828e976595298c68b50d3db31e3945faa84c9480fe59c5819e6b89",
-  "matrix_row_sha256": "d548a7e07089dc487ef81e92c2d9f3e10d99a7ad47ca695ebf425cde7b574cd1",
-  "result": "PASS"
+  "matrix_row_sha256": "5d13821809eac8bcc32ecfba934f151932385f3b7e37a2a506a746061b237144",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:17:00+00:00"
 }

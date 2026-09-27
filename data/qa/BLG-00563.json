@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-so-tiet-kiem-xang-the-nao.md",
+  "source_path": "_posts/2026-09-27-xe-so-tiet-kiem-xang-the-nao.md",
   "content_sha256": "9d8bbf3777ee87558cbc16e1a8c5c29159ffb3a76c461da474c674e9f2348613",
-  "matrix_row_sha256": "824d5fae123e0ccde150541a18ef6aec296ce35945ebed287304d51ac5664b09",
-  "result": "PASS"
+  "matrix_row_sha256": "595e5a96e2853533e69f8d3f8418534a1561c4a3759014122b4a139bbe0bed92",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:17:00+00:00"
 }
