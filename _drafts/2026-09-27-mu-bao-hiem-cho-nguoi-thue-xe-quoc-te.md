@@ -31,6 +31,14 @@ Khách quốc tế có vòng đầu lớn hơn trung bình nên chủ động h�
 
 Ngoài ra đừng quên vệ sinh lớp lót trước khi dùng: một lớp lót sạch làm kỳ lái dễ chịu hơn nhiều dưới trời Hà Nội.
 
+## Vệ sinh và bảo quản mũ trong kỳ thuê dài
+
+Với kỳ thuê vài tuần, việc vệ sinh mũ định kỳ đáng lên kế hoạch. Lớp lót của mũ sau vài ngày đội giữa trời nóng sẽ thấm mồ hôi và bốc mùi, nên mỗi ba bốn ngày bạn nên tháo lớp lót theo hướng dẫn của nhà sản xuất, giặt nhẹ bằng xà phòng trung tính, phơi trong bóng rợ cho khô hẳn rồi lắp lại. Không dùng máy giặt hay sấy nóng, vì nhiệt độ cao làm lớp xốp bên trong biến dạng, mất khả năng hấp thụ xung lực.
+
+Phần vỏ mũ thì lau bằng khăn ẩm sau mỗi ngày chạy bụi. Nếu mũ bị rơi từ độ cao ngang vai trở xuống đất, bạn nên đề nghị cửa hàng đổi mũ khác cho phần còn lại của kỳ thuê, vì một số vỏ mũ sau khi va đập có thể giảm khả năng bảo vệ mà mắt thường không nhìn thấy được.
+
+Khi đỗ xe, không treo mũ trên gương hay để trên yên xe giữa trời nắng gắt: lớp vỏ nhựa bị soi nóng liên tục sẽ giòn đi theo thời gian. Cách tốt nhất là mang mũ theo người hoặc bỏ vào cốm xe khi rời xe lâu.
+
 ## Thói quen đội mũ đúng cách mỗi ngày
 
 Đội mũ chỉ có ý nghĩa khi đeo đúng. Dây khóa phải kéo sát, không buông ròng. Mũ phải nằm ngang trán, không trùm ngược ra sau gáy. Nhiều khách có thói quen đội hờ khi trời nóng, kiểu đội này không giữ được mũ khi có va chạm.

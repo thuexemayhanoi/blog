@@ -37,6 +37,14 @@ Tại nơi giao nhau không có đèn, phương tiện đến trước có quy�
 
 Muốn hệ thống lại toàn bộ nhóm quy tắc, bạn có thể đọc tổng quan tại trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/) và [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) của chuyên mục an toàn pháp lý.
 
+## Lộ trình học luật giao thông cho khách quốc tế trong ba ngày đầu
+
+Ngày đầu, hãy chỉ lái trong phạm vi quanh nơi lưu trú, chọn giờ vắng như sáng sớm hoặc sau hai giờ chiều, và tập đọc biển theo từng nhóm hình dạng. Mục tiêu của ngày đầu không phải đi xa, mà là phản xạ nhận biển cấm và biển một chiều trong tích tắc.
+
+Ngày hai, bạn thử một lộ trình dài hơn qua hai quận, ví dụ từ khu Long Biên qua cầu rồi dọc bờ sông, nơi có đủ loại làn, vạch sơn và ngã tư đèn đỏ. Chạy chậm hơn tốc độ dòng xe một chút, giữ khoảng cách với xe trước, và để ý cách người bản địa nhường đường cho xe buýt rẽ vào điểm dừng.
+
+Ngày ba, bạn đã đủ tự tin để ghép các cung đường có nút giao thông và đường hẹp. Nguyên tắc suốt ba ngày là không chạy theo xe bản địa với tốc độ cao, không vượt ở đường hẹp, và luôn bấm còi nhẹ trước khi vượt ở điểm khuất tầm nhìn. Sau ba ngày, phần lớn khách quốc tế nhận thấy quy tắc đã trở thành phản xạ, và chuyến đi bắt đầu thú vị thay vì căng thẳng.
+
 ## Vài thói quen giúp khách quốc tế an toàn trong tuần đầu
 
 Ba thói quen nhỏ tạo khác biệt lớn. Một là giữ khoảng cách với xe buýt khi chúng áp sát lề để đón khách, vì buýt luôn ưu tiên rà vào điểm dừng. Hai là không bấm còi liên tục như một số tài xế bản địa, mà dùng còi đúng lúc cần báo hiệu. Ba là giảm tốc về mức đi bộ khi qua chợ, cổng trường hay hẻm đông người, nơi người đi bộ thường cắt ngang.

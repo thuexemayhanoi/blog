@@ -31,6 +31,14 @@ Nhiều cửa hàng giữ lại một giấy tờ làm bảo đảm trong kỳ t
 
 Nếu buộc phải để lại giấy tờ, hãy chọn loại ít dùng nhất trong kỳ nghỉ và chụp lại toàn bộ giấy tờ trước khi giao. Khi nhận lại, kiểm tra đầy đủ trang và con dấu trước khi rời cửa hàng.
 
+## Khách quốc tế thuê xe máy cần gì khi liên hệ đặt xe trước
+
+Đặt xe từ xa giúp bạn xử lý toàn bộ khâu giấy tờ trước khi đến nơi. Trong tin nhắn đầu tiên gửi qua Zalo hoặc điện thoại 0942 467 674, bạn nên gói gọn bốn nhóm thông tin: quốc tịch và loại thị thực đang dùng, ảnh hộ chiếu còn thấy rõ họ tên và hạn sử dụng, ảnh giấy phép lái cả hai mặt, và ngày nhận trả xe kèm loại xe mong muốn. Có đủ bốn nhóm này, chủ xe trả lời được ngay hai câu quan trọng nhất: bạn có đủ điều kiện tự lái loại xe đó không, và cửa hàng cần giữ gì làm bảo đảm.
+
+Nếu giấy phép của bạn cần bản dịch công chứng, khoảng thời gian đặt trước chính là lúc để hoàn tất việc này, thay vì lúng túng ở quầy nhận xe. Với khách đến trong mùa cao điểm, đặt trước còn giúp bạn chắc chắn có xe đúng ngày cần, thay vì đi hết cửa hàng này đến cửa hàng khác giữa mùa khan xe.
+
+Ngoài ra, việc đặt trước cho phép bạn hỏi kỹ hơn về điều khoản: ai chịu trách nhiệm nếu xe hỏng giữa đường, quy trình liên hệ khi cần hỗ trợ trong giờ làm việc, và cách tính ngày thuê khi nhận sáng trả chiều. Một tin nhắn hỏi rõ trước đáng giá hơn nhiều lần đi lại vì hiểu lầm sau này.
+
 ## Biên nhận thuê xe và những gì cần ghi rõ
 
 Một biên nhận viết rõ ràng giúp bạn tránh rắc rối sau này. Khi ký, hãy chắc chắn biên nhận ghi: họ tên người thuê và số hộ chiếu, biển số xe, giờ nhận giờ trả, tình trạng xe khi giao, mũ bảo hiểm kèm theo, và điều khoản về hỏng hóc. Nếu có điểm nào không ghi, đề nghị bổ sung trước khi ký. Với khách quốc tế, một bản song ngữ là điều nên yêu cầu ngay từ đầu.

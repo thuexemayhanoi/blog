@@ -23,6 +23,14 @@ Nếu bạn chưa quen điều kiện thuê xe với quốc tịch ngoài Việt
 
 Từ khu Long Biên ra Nội Bài, lộ trình thông dụng đi theo hướng cầu Đông Trù hoặc đường Quốc lộ 3 rồi rẽ theo quốc lộ đi sân bay, tổng quãng đường dài hơn cao tốc nhưng phù hợp xe máy. Với các tỉnh như Bắc Ninh hay Hưng Yên, quốc lộ 1A, quốc lộ 5 và các tỉnh lộ là trục chính, đường rộng, đông xe nhưng nhịp di chuyển đều.
 
+## Quy hoạch một ngày đi Nội Bài bằng xe máy
+
+Một kế hoạch hợp lý cho chặng Nội Bài là xuất phát từ khu Long Biên khoảng sáu giờ sáng, khi đường quốc lộ còn vắng và không khí mát. Bạn đi hướng cầu Đông Trù, nối vào trục quốc lộ dẫn ra sân bay, tính trước tổng thời gian di chuyển gần một tiếng rưỡi cho quãng đường loại này, chưa kể thời gian dừng nghỉ.
+
+Dọc quốc lộ có các điểm dừng nghỉ như trạm xăng và quán nước ven đường. Hãy chọn điểm dừng có bóng cây hoặc mái che, đỗ xe nơi thoáng thấy được từ chỗ ngồi, và luôn khóa cổm xe rồi mang theo mũ bảo hiểm. Với khách quốc tế, mang theo nước lọc và khăn ướt trong cốm xe là hai món đáng giá giữa mùa nóng.
+
+Chiều về, tránh khung cao điểm sau giờ tan tầm, khi xe tải và xe khách tràn xuống quốc lộ. Nếu bay vào buổi trưa và cần đến sân bay trước, hãy cộng thêm một tiếng cho lưu thông dày đặc, và báo trước giờ nhận trả xe với chủ xe để không vướng ngoài giờ làm việc 09:00–21:00.
+
 ## Giữ nhịp nghỉ và tự nhận biết mệt mỏi
 
 Với khách chưa quen đường trường Việt Nam, mỗi 45 đến 60 phút nên dừng một lần. Chạy xe máy tiêu hao tập trung nhiều hơn lái ô tô, và phần lớn sự cố của người mới xảy ra ở giờ thứ hai liên tục. Khi dừng, uống nước, vươn vai và kiểm tra nhanh xe: lốp, đèn, còi, gương.

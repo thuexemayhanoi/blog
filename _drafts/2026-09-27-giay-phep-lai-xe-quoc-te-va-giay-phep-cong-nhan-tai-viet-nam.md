@@ -33,6 +33,14 @@ Khi liên hệ thuê xe, bạn nên chụp trước cả hai mặt giấy phép 
 
 Quy định về giấy tờ lưu thông có thể thay đổi theo từng thời kỳ, vì vậy trước mỗi chuyến đi, bạn nên kiểm tra lại văn bản hiện hành do cơ quan có thẩm quyền ban hành thay vì dựa hoàn toàn vào thông tin cũ.
 
+## Các tình huống đặc biệt về giấy phép
+
+Một vài tình huống hay gặp khiến khách quốc tế lúng túng. Nếu bạn định ở Hà Nội dài hạn, ví dụ trên sáu tháng, việc đổi sang giấy phép lái xe Việt Nam thường là hướng đi rõ ràng nhất: bạn mang hộ chiếu, thị thực dài hạn và giấy phép gốc đến cơ quan quản lý giao thông để làm thủ tục theo quy định hiện hành. Quy trình này không dành cho khách du lịch ngắn hạn.
+
+Nếu bạn mới lấy lại giấy phép sau khi mất ở nước ngoài, hãy chắc chắn bản sao tạm thời của bạn có ghi rõ hạng xe, vì chỉ số hiệu văn bản không đủ để cửa hàng xác nhận bạn đủ điều kiện lái xe máy.
+
+Với khách mang hai quốc tịch, dùng đúng một bộ giấy tờ nhất quán cho toàn bộ kỳ thuê là điều nên làm: hộ chiếu nào dùng để nhập cảnh thì dùng giấy phép tương ứng, tránh nhầm lẫn khiến biên nhận thuê xe ghi lệch người thuê.
+
 ## Xác nhận với cửa hàng thuê xe trước khi nhận xe
 
 Dù giấy phép của bạn hợp lệ về mặt pháp lý, quyết định cuối cùng giao xe hay không vẫn thuộc về chủ xe. Vì vậy bước quan trọng nhất không phải là mang theo giấy phép đúng, mà là xác nhận trước. Khi nhắn cho Nguyễn Tú qua Zalo hoặc điện thoại 0942 467 674, bạn nên gửi kèm ảnh hộ chiếu, ảnh giấy phép lái và loại xe định thuê. Chủ xe sẽ phản hồi đúng loại xe phù hợp, ví dụ xe số hay xe ga, và nói rõ yêu cầu giấy tờ kèm theo.
