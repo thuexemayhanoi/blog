@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00566",
   "title": "Xe tay ga phù hợp với ai khi thuê",
-  "scored_at": "2026-09-27T21:41:08+00:00",
+  "scored_at": "2026-09-27T21:41:56+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
