@@ -26,7 +26,7 @@
 
 ## Sai số ma trận
 
-Chạy `python3 scripts/factory/validate.py` (từ gốc repository). Nếu ma trận thiếu/hỏng: KHÔNG tự sinh lại toàn bộ; khôi phục từ lịch sử git commit gần nhất còn hợp lệ.
+Chạy `python3 scripts/factory/validate.py` (từ gốc repository). Nếu ma trận thiếu/hỏng: KHÔNG tự sinh lại toàn bộ; khôi phục từ lịch sử git commit gần nhất còn hợp lệ. Hiện ma trận BLOCKED (chưa từng được commit): xem `reports/factory/matrix-recovery-blocked.md`, không tạo matrix mới rồi gọi là khôi phục.
 
 ## Bài đã push nhưng Pages build lỗi
 

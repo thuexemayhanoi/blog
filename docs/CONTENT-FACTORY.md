@@ -1,56 +1,62 @@
 # CONTENT FACTORY — quy trình vận hành
 
-## Kiến trúc
+Mục tiêu: sản xuất nội dung chất lượng có kiểm chứng cho blog, không phá nội dung legacy.
 
-- `data/content-matrix.csv` — ma trận canonical 10.000 hàng, đúng một lần duy nhất, ID ổn định `BLG-00001..BLG-10000`.
-- `data/content-taxonomy.json` — taxonomy máy đọc được: 7 parent hub, 51 child hub, ID ổn định (`P-*`, `C-*`).
-- `data/content-inventory.csv` — kiểm kê 483 bài legacy, mọi bài đều đã ánh xạ vào taxonomy, URL giữ nguyên.
+Đầu vào: taxonomy, inventory, business facts, state. Nguồn chuẩn: xem `AGENTS.md` mục 1.
+
+## Kiến trúc dữ liệu
+
+- `data/content-taxonomy.json` — 7 parent hub, 51 child hub. KHÔI PHỤC từ seed `data/state/taxonomy-config.json` (commit gốc), bằng `scripts/factory/restore-foundation.py`. Không sửa tay.
+- `data/content-inventory.csv` — 483 bài legacy, 100% ánh xạ taxonomy, URL giữ nguyên. Khôi phục từ `data/state/existing-map.json` + `_posts/`.
+- `_data/factory-taxonomy.yml`, `_data/factory-map.yml` — sinh cho layout hub (`hub.html`, `topic.html`). Không sửa tay.
+- `data/content-matrix.csv` — BLOCKED: chưa từng được commit, không khôi phục được. Bằng chứng: `reports/factory/matrix-recovery-blocked.md`. Không nhận hàng PLANNED, không tự sinh matrix mới rồi gọi là khôi phục.
 - `data/state/` — `checkpoint.json`, `writer-lock.json`, `transaction.json`.
-- `reports/factory/` — `progress.json`, `latest.md`, `content-hierarchy.md`, `inventory-summary.md`, `business-fact-conflicts.md`.
-- `scripts/factory/` — `manifest.py` (sinh manifest mỗi bài), `validate.py` (validator nền tảng).
-- `data/state/foundation-seed/` — dữ liệu gốc đã dùng để bootstrap (chỉ để tra cứu, không chỉnh sửa).
+- `reports/factory/` — sinh từ dữ liệu thật bằng `scripts/factory/generate-reports.py`, không ghi tay.
 
-## Batches
+## Trạng thái hợp lệ hàng (khi có matrix)
 
-200 batch × 50 hàng (`BATCH-001..BATCH-200`), gán theo ID tăng dần. Một chunk chạy tối đa 10 bài. Batch trộn đủ loại chủ đề, không gom toàn bộ bài pháp lý vào một batch.
+`PLANNED → WRITING → QA → PASS → PUBLISHED`, và `REVIEW`, `REPAIR`, `BLOCKED`, `FAIL`, `EXISTING`. Batch 50 hàng/batch, ID tăng dần.
 
-## Vòng lặp sản xuất mỗi chunk
+## Vòng đời một bài (quy trình bắt buộc, có bằng chứng từng bước)
 
-WRITE/REPAIR → ARTICLE QUALITY SCORE → SEO SCORE BEFORE → SAFE OPTIMIZATION → SEO SCORE AFTER → BUSINESS FACT CHECK → LEGAL/SOURCE CHECK → CANNIBALIZATION CHECK → PUBLISH (chỉ bài đủ điều kiện) → POST-PUBLISH AUDIT → UPDATE MATRIX → UPDATE REPORTS → CHECKPOINT.
+1. Viết trong `_drafts/` (KHÔNG deploy, không vào sitemap, không vào danh sách bài — CI kiểm chứng bằng build).
+2. Kiểm tra nội dung/nguồn: đọc lại, kiểm tra nguồn trích dẫn khi `source_required`.
+3. Chấm QUALITY và SEO theo `docs/QUALITY-RUBRIC.md` (≥90/≥90). Điểm nội bộ, không phải điểm Google. Đánh giá nội dung cần AI/người đọc — kiểm tra tự động chỉ là điều kiện cần.
+4. Tối ưu an toàn (không nhồi từ khóa, không đổi ý tiêu đề).
+5. BUSINESS FACT CHECK: mọi con số khớp `data/business-facts.json`; xung đột chính sách xem `reports/factory/policy-conflicts.md` (BLOCKED thì không viết).
+6. LEGAL/SOURCE CHECK theo `docs/ARTICLE-RULES.md` mục Pháp lý (CLAIM → SUBJECT → CONDITION → QUY ĐỊNH HIỆN HÀNH → PHIÊN BẢN CÓ HIỆU LỰC → NGUỒN CHÍNH THỨC). Không chắc chắn → REVIEW/BLOCKED.
+7. Chống trùng (cannibalization): đối chiếu tiêu đề chuẩn hóa + intent với bài đã xuất bản trong cùng child.
+8. PUBLISH: promote `_drafts/` → `_posts/` với frontmatter đầy đủ, permalink đúng taxonomy. Một commit có thể rollback sạch.
+9. BUILD/DEPLOY: Pages build, CI factory-validate xanh (trừ BLOCKED matrix đã biết).
+10. Kiểm tra live: URL thật trả 200, title/meta/canonical đúng, có trong sitemap, hiển thị đúng ở hub cha/hub con.
 
-## Transaction an toàn
+Kết quả mong đợi mỗi bài: đủ 5 điều kiện gate (xem `AGENTS.md` mục 5). FAIL bất kỳ → giữ trong `_drafts/`, ghi REPAIR, không hạ gate.
 
-1. Trước khi mutate: ghi `data/state/transaction.json` (`active: true`, mô tả bước).
-2. Sau khi xong: cập nhật matrix/report/checkpoint, rồi đóng transaction (`active: false`).
-3. Chạy sau thấy `active: true`: recover/hoàn tất giao dịch đó TRƯỚC, không nhận việc mới.
+## Chunk
 
-## Lock
+Một chunk tối đa 10 bài. Chỉ nhận chunk khi: transaction inactive, lock tự do, checkpoint cho phép, matrix có hàng claimable (hiện BLOCKED). Self-healing theo thứ tự: pending transaction → chunk dở → REPAIR → REVIEW (cần đọc nội dung, không tự động) → POST_AUDIT/FRESHNESS quá hạn → PLANNED mới.
 
-- Lấy lock (`locked: true`, `holder`, `acquired_at`, `expires_at`) trước khi nhận chunk; nhả lock khi checkpoint xong. Không bao giờ hai writer trên cùng ID.
+## Transaction + lock (an toàn)
 
-## Self-healing (thứ tự ưu tiên)
+1. Trước khi mutate: ghi `transaction.json` `active: true`, mô tả bước.
+2. Xong: cập nhật report/checkpoint rồi đóng transaction.
+3. Chạy sau thấy `active: true`: recover trước khi làm việc mới.
+4. Lock giữ trong suốt chunk, nhả khi checkpoint an toàn. Không hai writer trên cùng bài.
 
-1. Pending transaction (recover trước hết)
-2. Chunk chưa hoàn tất
-3. Hàng REPAIR
-4. Hàng REVIEW (hiện có 10 hàng legacy REVIEW do trùng cannibalization_key — so sánh nội dung, đề xuất merge/redirect nội bộ, KHÔNG đổi URL legacy)
-5. POST_AUDIT quá hạn, LEGAL/FRESHNESS quá hạn
-6. Hàng PLANNED mới theo `batch_id` tăng dần
+## Dừng an toàn và rollback
 
-## Tiêu chí dừng an toàn
+Điều kiện dừng và rollback: xem `AGENTS.md` mục 6 và `docs/RECOVERY.md`. Checkpoint luôn ghi sau mỗi chunk; resume từ checkpoint, không restart.
 
-Runtime gần giới hạn, CI lỗi, transaction không thể hòa giải, conflict Git, business fact không kiểm chứng được, legal claim không kiểm chứng được, hay QA hỏng hệ thống: hoàn tất bước an toàn hiện tại → checkpoint → reports → nhả lock (nếu an toàn) → chỉ push phần xanh.
+## CI/CD
 
-## Hoàn tất factory
+- `.github/workflows/factory-validate.yml`: restore idempotent + report khớp dữ liệu + validate.py + build Jekyll + nháp không deploy + hub render. CI đỏ với "MATRIX BLOCKED" là có chủ đích.
+- `.github/workflows/publish-queue.yml`: CHỈ campaign cũ hanoi-seo-480 (tệp `NNN-slug.md` trong `_queue/`). Queue hiện rỗng bài → không xuất bản gì. Kết quả "skipped" của validator cũ KHÔNG dùng để tuyên bố `_posts` PASS.
+- Pages build success KHÔNG đủ để tuyên bố hoàn thành; phải kiểm tra runtime.
 
-Khi không còn hàng actionable: không tạo việc mới, không restart hàng đã xong, không dựng lại ma trận, ghi báo cáo tổng kết rồi thoát sạch.
+## Scheduler
+
+TODO/NOT IMPLEMENTED: chưa có scheduler cho factory. Không tuyên bố "chạy nền 09:00 hằng ngày" khi chưa có scheduler thật trong repo này.
 
 ## Báo cáo mỗi lần chạy
 
-- MAIN HEAD (SHA), GitHub Pages run ID, BUILD status, DEPLOY status.
-- Tệp thực sự thay đổi; kiểm tra runtime đã làm (URL công khai, mobile 390px, menu/footer/breadcrumb, calculator/chatbot).
-- Không hủy chỉ vì "build thành công": phải kiểm tra runtime thật.
-
-## Không tạo nội dung rác
-
-Mỗi hàng PLANNED là một ý định tìm kiếm hoặc vấn đề người dùng riêng biệt. Không quay tiêu đề, không doorway spam, không lấp đầy số lượng. Nếu thiếu chủ đề chất lượng, cải thiện taxonomy thay vì hạ chuẩn.
+MAIN HEAD, Pages run ID, BUILD/DEPLOY status, tệp thay đổi, kiểm tra runtime, trạng thái BLOCKED. Ghi vào `reports/factory/latest.md` bằng `generate-reports.py` + phần chạy tay có bằng chứng.

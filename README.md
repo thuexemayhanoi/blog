@@ -1,174 +1,43 @@
-# Blog Thue Xe May Ha Noi Nguyen Tu
+# Blog Thuê Xe Máy Hà Nội Nguyễn Tú
 
-Day la repository dung de hoc va xay dung blog bang GitHub Pages.
+Jekyll/GitHub Pages. URL: https://thuexemayhanoi.github.io/blog/ · Base URL: `/blog` · Ngôn ngữ công khai: chỉ tiếng Việt. Website doanh nghiệp chính: https://thuexemaynguyentu.com/
 
-## Website
+Agent làm việc trong repo đọc `AGENTS.md` trước. Tài liệu vận hành đầy đủ nằm trong `docs/`; report trong `reports/factory/`.
 
-- **URL:** https://thuexemayhanoi.github.io/blog/
-- **Website doanh nghiep chinh:** https://thuexemaynguyentu.com/
+## Dữ liệu kinh doanh của blog (giữ nguyên, không đồng bộ từ /shop)
 
-## Muc tieu hoc
+- Thuơng hiệu: Nguyễn Tú — Thuê Xe Máy Hà Nội Nguyễn Tú
+- Địa chỉ: 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội
+- Điện thoại/Zalo/WhatsApp: 0942 467 674
+- Giờ hoạt động: 09:00–21:00
+- Bảng giá: `_data/pricing.yml` (nguồn chuẩn), hiển thị qua trang `/bang-gia/`
+- Blog và shop là hai bên kinh doanh khác nhau: KHÔNG coi khác biệt dữ liệu giữa hai site là lỗi, KHÔNG đồng bộ.
 
-- Hieu tung file trong mot blog GitHub Pages.
-- Hieu tung thu muc dung de lam gi.
-- Hoc tung buoc, moi lan chi them mot phan nho.
-- Sau khi hieu cau truc co ban moi lam giao dien, bai viet va SEO.
+## Cấu trúc chính
 
-## Trang thai hien tai
+- `_posts/` — 483 bài legacy (URL `/blog/YYYY/MM/DD/slug/`, giữ nguyên). Bài mới cũng phẳng ở đây, permalink theo taxonomy.
+- `_drafts/` — vùng nháp KHÔNG deploy; chỉ promote sang `_posts` khi qua đủ gate.
+- `thue-xe/`, `xe-may/`, `an-toan-phap-ly/`, `du-lich/`, `cung-duong/`, `ky-nang/`, `hoi-dap/` — trang hub cha và hub con (39 hub con có nội dung).
+- `_data/` — cấu hình site + `factory-taxonomy.yml`, `factory-map.yml` (sinh tự động, không sửa tay).
+- `data/` — dữ liệu nền factory: taxonomy, inventory, business facts, state (checkpoint/lock/transaction), seed.
+- `scripts/factory/` — restore, sinh report, validator, manifest.
+- `docs/` — tài liệu vận hành. `docs/mistral/README.md` chỉ trỏ về nguồn chuẩn.
+- `reports/factory/` — report sinh từ dữ liệu thật + các báo cáo BLOCKED.
+- `.github/workflows/` — `factory-validate.yml` (gate CI), `publish-queue.yml` (campaign cũ hanoi-seo-480, queue hiện rỗng bài).
 
-Repository da hoan thien phien ban **PREMIUM ULTRA** voi:
-- Thiet ke Apple-inspired, Premium Glass
-- Responsive hoan chinh
-- SEO toi uu
-- Accessibility tot
-- Performance cao
+## Lệnh kiểm tra bắt buộc
 
-## Cau truc thu muc
+```bash
+python3 scripts/factory/restore-foundation.py   # idempotent
+python3 scripts/factory/generate-reports.py     # idempotent
+python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED(matrix)
+```
 
-/
-+-- README.md                    # Tai lieu huong dan
-+-- _config.yml                 # Cau hinh toan site (Jekyll)
-+-- IMG_2536.jpeg               # Logo thuong hieu
-|
-+-- _data/
-|   +-- business.yml            # Thong tin doanh nghiep (NAP, lien he)
-|   +-- categories.yml          # Danh muc bai viet voi URL tuong minh
-|   +-- navigation.yml          # Menu dieu huong
-|
-+-- _includes/
-|   +-- breadcrumb.html         # Duong dan (Breadcrumb)
-|   +-- footer.html             # Footer website
-|   +-- header.html             # Header voi menu desktop/mobile
-|   +-- quick-contact.html      # Nut lien he nhanh (desktop + mobile)
-|   +-- seo.html                # Meta tags, Open Graph, Schema
-|
-+-- _layouts/
-|   +-- category.html           # Layout cho trang danh muc
-|   +-- default.html            # Layout goc
-|   +-- home.html               # Layout trang chu
-|   +-- page.html               # Layout cho cac trang noi dung
-|   +-- post.html               # Layout cho bai blog
-|
-+-- _posts/
-|   +-- 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi.md
-|   +-- 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi.md
-|   +-- 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao.md
-|
-+-- assets/
-|   +-- css/
-|   |   +-- tokens.css          # Design tokens (mau, khoang cach, typography)
-|   |   +-- base.css            # CSS co ban, reset, typography
-|   |   +-- components.css      # CSS component (button, card, breadcrumb, ...)
-|   |   +-- responsive.css      # CSS responsive (mobile, tablet)
-|   +-- js/
-|       +-- main.js             # Java
+Trạng thái hiện tại: nền đã khôi phục (taxonomy 7 cha/51 con, inventory 483 bài legacy, mapping hub hoạt động); ma trận 10.000 hàng BLOCKED — xem `reports/factory/matrix-recovery-blocked.md`. CI factory cố ý đỏ với lý do MATRIX BLOCKED cho tới khi matrix được giải quyết.
 
-Script thuan - Menu, Dropdown
-|
-+-- 404.html                    # Trang loi 404
-+-- robots.txt                  # Cau hinh cho bot tim kiem
-+-- index.md                    # Trang chu
-+-- blog.md                     # Trang danh sach bai viet
-+-- gioi-thieu.md               # Trang gioi thieu
-+-- lien-he.md                  # Trang lien he
-+-- du-lich.md                  # Danh muc: Du lich
-+-- kinh-nghiem.md             # Danh muc: Kinh nghiem
-+-- chia-se.md                  # Danh muc: Chia se
-+-- bang-gia.md                 # Trang bang gia tong quan
-+-- bang-gia-xe-so.md           # Bang gia: Xe so
-+-- bang-gia-xe-ga.md           # Bang gia: Xe ga
-+-- bang-gia-xe-dien.md         # Bang gia: Xe dien
-+-- bang-gia-xe-50cc.md         # Bang gia: Xe 50cc
-+-- bao-mat.md                  # Chinh sach bao mat
-+-- dieu-khoan.md               # Dieu khoan su dung
+## Quy tắc bất di bất dịch
 
-## Giai thich tung file
-
-### Cau hinh
-- **_config.yml** -> Cau hinh toan site: tieu de, mo ta, ngon ngu, URL, plugin
-- **_data/business.yml** -> Thong tin doanh nghiep: ten, dia chi, dien thoai, email, Zalo, Google Maps
-- **_data/categories.yml** -> Danh muc bai viet voi URL tuong minh (tranh slugify tu dong)
-- **_data/navigation.yml** -> Menu dieu huong cho header va footer
-
-### Layout
-- **_layouts/default.html** -> Layout goc, chua header, footer, SEO
-- **_layouts/home.html** -> Layout trang chu voi cac section
-- **_layouts/page.html** -> Layout cho cac trang noi dung
-- **_layouts/post.html** -> Layout cho bai blog
-- **_layouts/category.html** -> Layout cho trang danh muc
-
-### Includes
-- **_includes/header.html** -> Header voi logo, menu desktop (dropdown), menu mobile overlay
-- **_includes/footer.html** -> Footer voi thong tin doanh nghiep, lien ket
-- **_includes/quick-contact.html** -> Nut lien he nhanh: floating desktop + bottom bar mobile
-- **_includes/breadcrumb.html** -> Duong dan su dung categories.yml
-- **_includes/seo.html** -> Meta tags, Open Graph, Twitter Card, Schema (WebSite, Organization, Local
-B
-usiness, BlogPosting, BreadcrumbList)
-
-### Assets
-- **assets/css/tokens.css** -> Design tokens: mau sac, khoang cach, typography
-- **assets/css/base.css** -> CSS co ban: reset, typography, layout
-- **assets/css/components.css** -> CSS component: button, card, breadcrumb, calculator, ...
-- **assets/css/responsive.css** -> CSS responsive cho mobile va tablet
-- **assets/js/main.js** -> JavaScript thuan: Mobile menu, Dropdown, Keyboard navigation, Accessibility
-
-### Noi dung
-- **index.md** -> Trang chu
-- **blog.md** -> Trang danh sach tat ca bai viet
-- **gioi-thieu.md** -> Trang gioi thieu
-- **lien-he.md** -> Trang lien he
-- **du-lich.md, kinh-nghiem.md, chia-se.md** -> Trang danh muc
-- **bang-gia*.md** -> Trang bang gia cac loai xe
-- **bao-mat.md, dieu-khoan.md** -> Trang phap ly
-- **_posts/*.md** -> Bai blog
-
-## Cong nghe su dung
-
-- **Jekyll** - Static site generator
-- **GitHub Pages** - Hosting (branch main, folder root)
-- **HTML5** - Semantic HTML
-- **CSS3** - Thuan, khong framework
-- **JavaScript** - Thuan, khong library
-- **Liquid** - Template engine cua Jekyll
-
-## Plugin
-
-- **jekyll-sitemap** -> Tu dong sinh sitemap.xml
-- **jekyll-feed** -> Tu dong sinh RSS feed
-
-## Khoi chay
-
-Website se tu dong deploy khi push len branch main.
-
-URL: https://thuexemayhanoi.github.io/blog/
-
-## Ghi chu quan trong
-
-- **Base URL:** /blog/ (khong hard-code duong dan)
-- **Logo:** IMG_2536.jpeg (44x44px trong header)
-- **Menu:** 2 tang toi da
-- **SEO:** Canonical tro den URL GitHub Pages
-- **Mobile:** Uu tien trai nghiem mobile
-- **Accessibility:** Ho tro keyboard navigation, focus visible
-- **Performance:** Khong framework, khong font ngoai khong can
-
-## Lich su
-
-- **09/2026:** Hoan thien phien ban Premium Ultra
-
-
-## Runtime Repair Verification
-
-- ✅ All .vi/.en data accessors removed
-- ✅ All permalinks added to markdown pages
-- ✅ Duplicate Assistant controller removed from main.js
-- ✅ Mobile menu motion improved with transform + opacity
-- ✅ 404 page breadcrumb removed
-- ✅ Chatbot data bindings fixed
-- ✅ Rental calculator data bindings fixed
-- ✅ All 14 public routes verified
-
-Last verified: 2026-09-15
-
-<!-- FIXED -->
+- Không đổi URL legacy, không xóa/đổi tên bài, không noindex hàng loạt.
+- Không bịa khuyến mại, phí giao cố định, số lượng khách, số năm kinh nghiệm, xếp hạng, cam kết, 24/7.
+- Không hạ gate để PASS; không ghi kết quả khi chưa chạy thật (NOT VERIFIED nếu chưa kiểm tra).
+- Hoàn thành một sửa lỗi phải có: tệp nguồn thay đổi, commit mới, Pages build + deploy thành công, kiểm tra runtime (mobile ~390px gồm menu/calculator/chatbot/footer).

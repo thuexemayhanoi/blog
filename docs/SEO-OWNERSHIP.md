@@ -27,6 +27,8 @@ Mỗi bài sở hữu một `cannibalization_key` (child_id + primary keyword ch
 
 Xử lý: audit từng cặp, phân biệt intent bằng cách viết lại phần mô tả intent (không đổi URL), hoặc đề xuất merge nội bộ. Không được tạo thêm bài thứ ba cho intent đã có.
 
+Lưu ý 2026-09-27: việc đọc và phân biệt nội dung từng cặp cần AI/người đọc, không tự động hóa được; chưa thực hiện trong lần chạy này. Ma trận còn BLOCKED nên `cannibalization_key` chưa kiểm tra được bằng validator cho hàng mới.
+
 ## Liên kết nội bộ
 
 Bài → child hub → parent hub → 2–4 bài liên quan. Trang thương mại (/bang-gia/, /lien-he/) chỉ khi ngữ cảnh hỗ trợ chuyển đổi. Không tạo mạng anchor text khớp chính xác hàng loạt.

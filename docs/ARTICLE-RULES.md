@@ -2,6 +2,8 @@
 
 Áp dụng cho mọi bài factory. Vi phạm mức BLOCKED: không xuất bản.
 
+Bài mới viết trong `_drafts/` (không deploy); chỉ promote sang `_posts/` khi qua đủ gate trong `docs/CONTENT-FACTORY.md`. Nội dung chạm khoảng đặt cọc/phí trễ/bảo hiểm đang BLOCKED: xem `reports/factory/policy-conflicts.md` — không nêu con số cho tới khi chủ xe quyết định.
+
 ## Ngôn ngữ và định dạng
 
 - Tiếng Việt 100%, giữ nguyên dấu. Không đưa UI tiếng Anh vào bài.

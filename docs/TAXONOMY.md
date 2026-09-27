@@ -16,12 +16,12 @@ Blog → Parent hub → Child hub → Bài viết.
 | P-KY-NANG | `ky-nang` | /blog/ky-nang/ | Kỹ năng lái, tình huống, thời tiết, chở đồ, gửi xe, sức khỏe |
 | P-HOI-DAP | `hoi-dap` | /blog/hoi-dap/ | Hỏi đáp giá, thủ tục, pháp lý, chọn xe, sự cố, người mới |
 
-51 child hub: xem `data/content-taxonomy.json` (mục `children`, mỗi mục có `parent_id`, `slug`, `hub_url`, `existing_count`, `planned_count`, `status`).
+51 child hub: xem `data/content-taxonomy.json` (mục `children`, mỗi mục có `parent_id`, `slug`, `hub_url`, `description`, `planned_target`, `source_required`, `legal_risk`). Tệp được khôi phục từ seed `data/state/taxonomy-config.json` bằng `scripts/factory/restore-foundation.py`; không sửa tay.
 
 ## Quy tắc
 
 - Mỗi hàng ma trận thuộc đúng MỘT parent và MỘT child. Không có hàng mồ côi, không child mồ côi.
-- Child chưa có bài (status `hidden`) không có trang công khai cho tới khi có nội dung hữu ích. Trang hub hiện tại chỉ render child có bài đã xuất bản.
+- Child chưa có bài (status `hidden`) không có trang công khai cho tới khi có nội dung hữu ích. Trang hub hiện tại chỉ render child có bài đã xuất bản (39/51 child có trang công khai; 12 child chưa có bài nên chưa có trang).
 - Kích thước cụm lành: ~30–400 bài. Ngưỡng rà soát: <10 = TOO_SMALL, >600 = TOO_LARGE. Hiện tại cụm nhỏ nhất 115, lớn nhất 357.
 - Danh mục Jekyll legacy (Du lịch / Kinh nghiệm / Chia sẻ) vẫn giữ nguyên URL; bài legacy được ánh xạ logic vào taxonomy mới mà không đổi URL.
 
