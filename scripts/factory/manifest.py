@@ -11,6 +11,10 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--id', required=True, help='BLG-XXXXX')
     args = ap.parse_args()
+    if not os.path.exists('data/content-matrix.csv'):
+        print('BLOCKED: data/content-matrix.csv THIẾT — chưa từng được commit, không thể khôi phục '
+              '(xem reports/factory/matrix-recovery-blocked.md). Không sinh manifest cho hàng PLANNED.')
+        sys.exit(2)
     tax = json.load(open('data/content-taxonomy.json', encoding='utf-8'))
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}

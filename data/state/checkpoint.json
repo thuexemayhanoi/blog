@@ -1,17 +1,18 @@
 {
   "factory_version": 1,
   "capacity": 10000,
-  "updated_at": "2026-09-27T03:20:00+00:00",
-  "last_run_id": "bootstrap-2026-09-27",
-  "status": "BOOTSTRAPPED",
+  "updated_at": "2026-09-20T00:00:00+00:00",
+  "last_run_id": "restore-foundation-2026-09-20",
+  "status": "PARTIAL_BLOCKED",
+  "matrix_status": "BLOCKED_MISSING",
   "last_completed_article_id": null,
   "last_batch_id": null,
-  "next_claimable_id": "BLG-00484",
+  "next_claimable_id": null,
   "counts": {
-    "total": 10000,
+    "legacy_total": 483,
     "existing": 473,
     "review": 10,
-    "planned": 9517,
+    "planned": null,
     "writing": 0,
     "qa": 0,
     "pass": 0,
@@ -20,7 +21,7 @@
     "blocked": 0,
     "fail": 0
   },
-  "resume_point": "Nền factory đã bootstrap. Chưa có bài nào được sản xuất qua factory. Hàng EXISTING đã ánh xạ vào taxonomy, URL giữ nguyên. Ưu tiên tiếp theo: xử lý các hàng REVIEW (cannibalization) trước, sau đó nhận chunk tối đa 10 hàng PLANNED theo batch_id tăng dần từ BLG-00484.",
+  "resume_point": "BLOCKED: data/content-matrix.csv chưa từng được commit nên không thể khôi phục (bằng chứng: reports/factory/matrix-recovery-blocked.md). Chưa nhận được hàng PLANNED nào. Việc có thể làm không phụ thuộc matrix: audit 10 hàng legacy REVIEW theo cặp trong docs/SEO-OWNERS.md; sửa link/hub/SEO; quyết định của chủ xe về tái sinh matrix từ seed data/state/taxonomy-config.json (là matrix MỚI, phải được duyệt, không phải khôi phục).",
   "rules": {
     "max_chunk": 10,
     "publish_requires": "QUALITY>=90 AND SEO>=90 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE"

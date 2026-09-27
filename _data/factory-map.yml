@@ -1,0 +1,1451 @@
+# Sinh bởi scripts/factory/restore-foundation.py từ data/state/existing-map.json.
+# slug bài legacy -> p(parent_id), c(child_id). Không sửa tay.
+goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+kinh-nghiem-thue-xe-may-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao:
+  p: P-XE-MAY
+  c: C-XE-50CC
+thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+an-toan-khi-chay-xe-duong-truong:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ap-suat-lop-xe-may-kiem-tra-the-nao:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+cach-dat-xe-may-truoc-tu-xa:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+cau-long-bien-va-khu-long-bien-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-NOI-THANH
+cham-soc-day-xich-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+checklist-kiem-tra-xe-khi-nhan-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+cho-hanh-ly-an-toan-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+chon-loai-xe-cho-chuyen-di-dai:
+  p: P-THUE-XE
+  c: C-THUE-TUAN
+chuan-bi-chuyen-di-gan-ha-noi-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+dau-hieu-xe-thue-can-bao-cua-hang-ngay:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+den-xe-va-tam-nhin-khi-di-xe-may-ban-dem:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+di-xe-may-o-ha-noi-mua-dong:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-o-ha-noi-ngay-mua:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+do-bao-ho-khi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+giay-to-thue-xe-may-o-ha-noi-can-mang-gi:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+gui-xe-o-ha-noi-meo-thuc-te:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+kham-pha-gia-lam-va-ven-song-hong-bang-xe-may:
+  p: P-DU-LICH
+  c: C-HO-TAY
+kham-pha-khu-ba-dinh-bang-xe-may:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+kham-pha-khu-hoan-kiem-bang-xe-may:
+  p: P-DU-LICH
+  c: C-PHO-CO
+kham-pha-khu-tay-ho-bang-xe-may:
+  p: P-DU-LICH
+  c: C-HO-TAY
+kham-pha-pho-co-ha-noi-bang-xe-may:
+  p: P-DU-LICH
+  c: C-PHO-CO
+kiem-tra-xe-truoc-moi-chuyen-di:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+kinh-nghiem-do-xang-va-nghi-tuyen:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+lai-xe-trong-pho-co-gio-cao-diem:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+nen-thue-hay-mua-xe-may-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+nen-thue-xe-may-tu-lai-hay-di-xe-cong-nghe:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+phan-biet-xe-dap-dien-va-xe-may-dien:
+  p: P-XE-MAY
+  c: C-XE-DAP-DIEN
+quang-duong-hop-ly-trong-ngay-khi-di-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+quy-trinh-tra-xe-thue-dung-cach-tranh-tranh-chap:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+sac-pin-xe-may-dien-dung-cach:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+thay-nhot-dinh-ky-cho-xe-may:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+thoi-tiet-va-ke-hoach-chuyen-di-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-honda-air-blade-o-ha-noi:
+  p: P-XE-MAY
+  c: C-HONDA-AIR-BLADE
+thue-honda-click-va-yamaha-mio-o-ha-noi:
+  p: P-XE-MAY
+  c: C-HONDA-CLICK
+thue-honda-vision-o-ha-noi:
+  p: P-XE-MAY
+  c: C-HONDA-VISION
+thue-honda-wave-o-ha-noi:
+  p: P-XE-MAY
+  c: C-HONDA-WAVE
+thue-xe-con-tay-co-nen-thu-cho-nguoi-moi-khong:
+  p: P-XE-MAY
+  c: C-XE-GA
+thue-xe-may-cho-sinh-vien-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+thue-xe-may-dien-o-ha-noi-can-biet-gi:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+thue-xe-may-ha-noi-cho-nguoi-nuoc-ngoai:
+  p: P-THUE-XE
+  c: C-THUE-QUOC-TE
+thue-xe-may-theo-ngay-tuan-hay-thang:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+thue-xe-tay-ga-o-ha-noi-phu-hop-voi-ai:
+  p: P-XE-MAY
+  c: C-XE-GA
+tien-dat-coc-khi-thue-xe-may-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-DAT-COC
+xe-50cc-co-phu-hop-voi-ban-khong:
+  p: P-XE-MAY
+  c: C-XE-50CC
+xe-so-uu-va-nhuoc-diem-khi-thue-o-ha-noi:
+  p: P-XE-MAY
+  c: C-XE-SO
+ac-quy-xe-tay-ga-yeu-va-khoa-tu:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+an-toan-khi-chay-xe-may-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+anh-chi-shipper-di-cuoc-cuoi-ngay:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ba-me-di-cho-cuoi-tuan-cho-ca-nha:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+ban-do-dan-vao-ngo-cut:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+ban-do-offline-vung-ven-song-yeu:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+bao-duong-giua-ky-thue-xe-dai-han:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+bao-hiem-cho-nguoi-thue-xe-may-o-ha-noi:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+bao-hiem-lun-mam-xe-sau-mua-to:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+bao-quan-xe-thue-khi-khong-dung-nhieu-ngay:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+bao-ve-giay-to-khoi-mua-khi-di-xe-may:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+bao-vi-tri-chinh-xac-khi-xe-thue-su-co-giua-duong:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+bi-dung-kiem-tra-giay-to-khi-di-xe-thue:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+bi-kiem-tra-giay-to-khi-di-xe-thue:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+bi-phat-nguoi-qua-camera-giua-ky-thue:
+  p: P-PHAP-LY
+  c: C-PHAT-NGUOI
+bi-va-quet-roi-bo-di-xu-ly-tung-buoc:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+bien-bao-giao-thong-thuong-gap-khi-di-trong-pho:
+  p: P-PHAP-LY
+  c: C-BIEN-BAO
+bo-do-che-mua-che-nang-mang-tren-xe-ca-ngay:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+bo-do-nghe-sua-xe-mini-khi-di-xe-thue-dai-han:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+bo-y-te-mini-tren-xe-may-cho-nguoi-di-duong-nhieu:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+buoi-toi-chay-xe-giai-toa-dau-oc:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+cach-danh-gia-cua-hang-cho-thue-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+cam-giac-lang-xe-khi-di-qua-vung-co-gio-ngang:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+cam-nhan-do-an-phanh-dinh-ky-tren-xe-may-thue:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+can-ho-tro-ngoai-gio-hoat-dong:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+can-roi-ha-noi-dot-xuat-giua-ky-thue-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+can-thi-kinh-can-va-thi-giac-khi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+can-xe-truoc-9-gio-sang:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+cau-be-trung-hoc-di-xe-may-toan-truong:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+cau-hoi-thuong-gap-khi-thue-xe-may-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+cham-soc-xe-thue-sau-khi-di-mua:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+chay-pho-ngam-den-tet:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chay-thu-tuyen-moi-truoc-ngay-dau-tien:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-chieu-toi-mua-dong-lanh-buot:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chay-xe-dung-o-do-chen-lan-xe-dung:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-duong-lang-duong-trong-khu-vuc-moi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-giua-cong-bao-lon-mua-he:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chay-xe-khi-dau-nhot-bao-ky-han:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+chay-xe-may-tren-duong-doc-va-cau-vuot:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-om-cong-nghe-thoi-vu-bang-xe-thue:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+chay-xe-qua-cau-vong-kinh-ha-noi-ban-dem:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-qua-do-duong-dang-sua-ne-tranh:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-sang-som-co-vang-suong:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chay-xe-sang-som-quanh-ho-ne-dong-nguoi-tap-the-duc:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+chay-xe-sang-som-ve-lang-nghe-vung-ven-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chay-xe-sang-toi-cho-dau-moi-mua-ra-si:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chay-xe-toi-cho-hoa-tet-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+chay-xe-tren-duong-da-dam-soi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+checklist-ngay-tra-xe-may-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+checklist-nhan-xe-may-dien-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+chi-phi-thue-xe-may-o-ha-noi-toan-canh:
+  p: P-THUE-XE
+  c: C-THUE-GIA
+chia-lan-voi-xe-dap-xe-dien:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+chia-se-vi-tri-voi-nguoi-than-khi-di-khuya:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+chien-luoc-di-xe-gio-cao-diem-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chinh-guong-chieu-hau-xe-may-dung-cach:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+cho-banh-keo-dai-hoi-lang-xom:
+  p: P-DU-LICH
+  c: C-NGOAI-THANH
+cho-binh-nuoc-lon-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-cay-canh-nho-mua-vuon:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-chay-theo-xe-xu-ly-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+cho-do-an-thuc-uong-khong-do-vang:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-di-cam-trai-picnic:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-di-cho-va-mua-sam-bang-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+cho-do-di-tap-the-thao:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-dien-tu-gia-dung-kho-vo:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-dung-cho-em-be-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-hinh-tru-va-do-de-lan-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-noi-that-nho-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-do-tiep-te-cho-gia-dinh-co-em-be-moi-sinh:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-dung-cu-lam-viec-tren-xe-may-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+cho-hanh-ly-vali-tren-xe-may-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-hoa-va-cay-canh-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-hop-qua-le-cuoi-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+cho-laptop-an-toan-tren-xe-may-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-long-chim-di-dao-sang:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+cho-may-anh-thiet-bi-quay-phim-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-nguoi-khac-muon-xe-thue-trach-nhiem:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+cho-nguoi-lon-tuoi-di-kham-benh-dinh-ky:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+cho-nguoi-lon-tuoi-ngoi-sau-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+cho-qua-tai-tren-xe-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-thu-cung-tren-xe-may-an-toan-cho-ca-hai:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+cho-tre-em-di-xe-may-thue-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+cho-tre-moi-lon-du-tuoi-ngoi-sau-lan-dau:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+cho-tru-tam-khi-mua-lon-dang-giua-duong:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+cho-vat-dai-tren-xe-may-an-toan:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+chon-cua-hang-gan-nha-hay-gan-noi-lam-viec:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+chon-tuyen-di-xe-may-theo-tinh-trang-mat-duong-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+chon-xe-theo-voc-dang-va-chieu-cao-yen:
+  p: P-XE-MAY
+  c: C-XE-GA
+chong-buon-ngu-khi-chay-xe-buoi-trua:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+chup-anh-khi-nhan-va-tra-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+chuyen-cho-o-giua-ky-thue-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+chuyen-den-ha-noi-di-chuyen-tuan-dau:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+chuyen-di-chua-huong-mua-le-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chuyen-di-chua-tam-chuc-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chuyen-hen-ho-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+chuyen-tu-xe-so-sang-xe-tay-ga:
+  p: P-XE-MAY
+  c: C-XE-SO
+co-xe-keo-dai-khi-troi-am:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+con-trung-bay-vao-mat:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+danh-ba-diem-sua-xe-cay-xang-tuyen-thuong-di:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+danh-ba-khan-cap-va-phuong-an-du-phong-khi-di-xe-may-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+dat-xe-giup-nguoi-lon-tuoi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+dau-bat-thuong-xuat-hien-giua-duong-dung-o-dau:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+dau-lung-vai-co-khi-di-xe-may-hang-ngay-nguyen-nhan-va-cach-giam:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+dau-mat-luc-chieu-nang-nhin-thang:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+day-nguoi-khac-lai-tren-xe-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+day-thun-day-buoc-do-vuong-banh-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+de-xe-may-buoi-sang-lanh-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+de-xe-may-thue-duoi-nang-ca-ngay-anh-huong-va-cach-bao-ve:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+de-xe-thue-qua-dem-ngoai-troi-o-khu-tro:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+de-xe-tren-do-doc-nho-va-len-xe-tro-lai:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+dem-phao-hoa-o-ha-noi-di-xe-may-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+den-bao-va-tieng-keu-bat-thuong-tren-xe-tay-ga-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+den-chieu-choi-tu-xe-nguoc-chieu:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+den-pha-yeu-dan-tu-vang-buon:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+den-pha-yeu-truoc-chuyen-di-chieu-toi:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+deo-balo-nang-khi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+di-an-uong-co-con-ve-nha-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+di-chuyen-theo-ca-lam-viec-voi-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+di-dam-cuoc-tiec-tung-va-ruou-bia:
+  p: P-PHAP-LY
+  c: C-NOI-DO-CONG
+di-do-son-hai-ngay-bang-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+di-ho-nui-coc-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+di-lai-bang-xe-may-khi-chan-tay-bi-thuong-tam-thoi:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+di-lai-hang-ngay-cho-nguoi-moi-den-ha-noi-lam-viec:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-nhom-nhieu-xe-may-giu-lien-lac:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+di-qua-vong-xuyen-va-nut-giao-lon-o-ha-noi:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+di-tam-dao-bang-xe-may-tu-ha-noi:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+di-trang-an-ninh-binh-qua-dem-bang-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+di-vang-ha-noi-nhieu-ngay-trong-ky-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-khi-dang-tuc-gian:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+di-xe-may-ban-dem-muon-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-den-benh-vien-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-den-dam-gio-dam-tang-vung-ven-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-don-ca-sinh-giua-dem:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-dot-gion-lanh-ve-dem-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-kem-tre-tap-xe-dap-o-khu-dan-cu:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+di-xe-may-khi-co-viec-gap-can-den-ngay:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-khi-dang-om-hoac-dung-thuoc-gay-buon-ngu:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+di-xe-may-khi-gio-lon-va-gio-ngang-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-khi-mac-vay-va-trang-phuc-dai-cac-meo-thuc-te:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-khi-mat-ngu-vi-con-nho-quay-dem:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-khi-troi-mua-rau-rau-nang:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-khi-vua-ve-tu-chuyen-bay-dai:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+di-xe-may-ngay-mung-1-va-ram-thang:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-ngay-troi-quang-nang-gac:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-nguoc-nang-buoi-sang-chieu-giam-choi-va-giu-an-toan:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-qua-cho-tam-va-duong-hop-cho-sang-som-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-qua-gam-cau-va-ham-chui-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-ra-ga-va-ben-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-tham-gia-hoat-dong-tinh-nguyen:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-theo-nhom-ban-be-ky-nang-phoi-hop:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-thue-buoi-sang-suong-mu-tam-nhin-thap-can-lam-gi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-may-thue-qua-khu-vuc-thi-cong-duong-bo-an-toan:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-vao-ngo-hem-pho-co-sang-chieu:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-may-xuyen-quan-qua-cau-long-bien:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-sau-khi-ngoi-lau-o-may-tinh:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+di-xe-thue-khi-troi-tro-lanh-dot-ngot:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-thue-qua-duong-ngap-nuoc-sau-mua:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+di-xe-tim-phong-tro-moi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+dien-thoai-het-pin-khi-dang-dinh-vi:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+dien-thoai-roi-xuong-duong-giua-chuyen-di:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+dien-thoai-tren-xe-may-gia-do-sac-va-thoi-quen-an-toan:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+dieu-chinh-thoi-gian-thue-giua-ky:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+dieu-kien-do-tuoi-khi-thue-va-lai-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+dinh-huong-o-ha-noi-bang-moc-lon-song-cau-va-vanh-dai:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+do-xe-duoi-cay-lau-ngay-nhua-cay-phan-chim:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+do-xe-gan-khu-vuc-thi-cong:
+  p: P-XE-MAY
+  c: C-XE-GA
+do-xe-roi-di-bo-phan-cuoi:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+do-xe-tren-duong-doc:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+doan-ruoc-le-hoi-tren-duong-va-cach-xu-ly:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+doc-dau-hieu-lop-xe-may-mon-khi-nao-can-bao-cua-hang-thue:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+doc-hieu-dieu-khoan-hop-dong-thue-xe:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+doc-mat-duong-tranh-o-ga-va-do-vat-roi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+doi-be-trap-dam-cuoi-sang-song-voi-xe-may:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+doi-dia-diem-tra-xe-giua-ky-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+doi-noi-lam-viec-giua-ky-thue-xe-may:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+doi-so-dien-thoai-giua-ky-thue:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+doi-xe-giua-ky-thue-khi-co-viec-doi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+doi-xe-giua-ky-thue-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+don-phong-tro-bang-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+dong-ho-bao-xang-sai-tren-xe-ga-cu:
+  p: P-XE-MAY
+  c: C-XE-GA
+du-lich-ha-noi-mot-tuan-bang-xe-may:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+dua-don-con-hai-chieu-truong-xa-bang-xe-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+dua-nguoi-nha-xuat-vien-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+dung-ban-do-an-toan-tren-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+dung-coi-xe-may-khi-nao:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+dung-den-do-chon-vi-tri:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+dung-tich-cop-xe-va-kha-nang-chua-do:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+dung-xe-chup-anh-an-toan:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+dung-xe-dung-vach-trang-do-xe-keo-dai:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+dung-xe-thue-cho-cong-viec-linh-hoat:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+duong-be-tong-re-xu-khi-di-vung-ven:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+duong-bi-dong-tam-va-duong-tranh-khi-di-xe-may-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+duong-mot-chieu-va-cam-re-o-pho-dong:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+duong-tron-sau-mua-o-ga-va-vet-dau:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+duong-vang-mat-dien-dem-toi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+gan-phu-kien-them-len-xe-thue-nen-hay-khong:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+ghi-chep-hanh-trinh-de-toi-uu-tuyen-di:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+ghi-gio-nhan-xe-va-tra-xe-thoi-quen-nho:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+gia-han-thue-xe-may-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+giai-quyet-tranh-chap-hu-hong-khi-tra-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+giao-nhan-xe-ngay-mua:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+giao-xe-cho-nguoi-than-di-tinh-lau-dai:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+giay-dep-khi-di-xe-may-thuc-te:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+giay-to-can-mang-khi-di-xe-may-thuong-ngay:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+giay-to-dinh-danh-dien-tu-khi-di-xe-thue:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+gio-chang-vang-tam-nhin-kho-khi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+giu-bang-chung-thanh-toan-khi-thue-xe:
+  p: P-THUE-XE
+  c: C-THUE-GIA
+giu-chia-khoa-xe-thue-kho-va-an-toan:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+giu-do-cong-so-sach-se-gon-gang-khi-di-lam-bang-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+giu-khoang-cach-voi-xe-tai-xe-container:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+giu-tai-san-ca-nhan-an-toan-khi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+go-giam-toc-va-barie-ngo:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+gom-chuyen-di-de-giam-quang-duong-moi-ngay:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+gui-xe-ban-dem-va-an-toan-xe-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-dai-han-o-noi-o-va-noi-lam-viec:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+gui-xe-o-ben-xe-khi-di-xe-khach-ve-que:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-o-cho-doc-va-via-he-hep-chon-vi-tri-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-o-diem-tham-quan-quanh-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-o-trung-tam-thuong-mai:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-tam-khi-vao-lam-viec-lat-vat:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-thue-tai-chung-cu-va-toa-nha-van-phong:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+gui-xe-trong-ham-toa-nha-doc-ham-va-cua-hep-can-luu-y:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+guong-chieu-hau-bi-long-giua-ky-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+hai-nguoi-dung-chung-mot-xe-thue-trong-nha:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+het-xang-va-do-nham-loai-xang-khi-di-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+hieu-lam-pho-bien-ve-thue-xe-may-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+ho-quan-son-mot-ngay-di-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+ho-so-ban-giao-va-phan-loai-tray-xuoc:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+ho-so-hoa-don-khi-thue-xe-cho-cong-viec:
+  p: P-THUE-XE
+  c: C-THUE-GIA
+hop-dong-thue-xe-may-can-co-nhung-gi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+ket-hop-tau-dien-va-xe-may-thue-khi-di-lam-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+kham-pha-lang-co-duong-lam-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+khi-nao-chon-xe-dien-thay-xe-xang:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+khi-nao-thuyet-phu-cha-me-giao-lai-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+khi-xe-thue-ton-nhien-lieu-bat-thuong:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+khoa-co-hoa-dien-bi-ket-giua-ky-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+khong-de-xe-no-may-khi-cho-lau:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+khong-phu-thuoc-mot-ung-dung-ban-do:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+khung-ke-hoach-thue-xe-dai-han-nhieu-thang:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+kiem-tra-ga-de-may-coi-va-xi-nhan-khi-nhan-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+kiem-tra-xe-sau-khi-bi-nguoi-khac-dich-chuyen:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+kinh-mu-bao-hiem-bi-mo-suong-khi-di-xe-may:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+kinh-mu-bao-hiem-tray-loe-sang-khi-chay-dem:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+ky-nang-day-va-di-chuyen-xe-may-khong-no:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ky-nang-di-xe-tren-duong-de-va-duong-ven-song:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ky-nang-phanh-gap-an-toan-tren-xe-may:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+ky-nang-qua-cau-o-ha-noi-khi-di-xe-may-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ky-nang-vao-ngo-hep-va-ra-vao-cong-nha:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ky-thue-xe-bi-gian-doan-dot-xuat-om-cong-tac-viec-gia-dinh:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+lai-lai-xe-sau-nhieu-nam-khong-lai:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+lam-cha-lan-dau-di-xe-can-ky-hon:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+lam-giao-hang-bang-xe-may-thue:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+lam-quen-xe-con-tay-thue-lan-dau:
+  p: P-XE-MAY
+  c: C-XE-GA
+lam-quen-xe-dap-dien-thue:
+  p: P-XE-MAY
+  c: C-XE-DAP-DIEN
+lam-quen-xe-may-dien-lan-dau:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+lan-xe-buyt-va-cac-lan-cam-nhan-biet-the-nao:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+lang-gom-bat-trang-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+lap-ke-hoach-pin-xe-dien-hang-ngay:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+lap-tuyen-duong-xe-may-tranh-duong-cam-va-cao-toc:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+len-lich-di-lai-theo-du-bao-thoi-tiet:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+len-xuong-via-he-me-cao:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+lich-su-trao-doi-voi-noi-cho-thue-xe-may:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+lui-va-quay-dau-xe-trong-ngo-hep:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+luyen-tap-thi-bang-lai-a1-bang-xe-may-thue-duoc-khong-va-nen-the-nao:
+  p: P-PHAP-LY
+  c: C-GPLX
+mang-can-xang-du-phong-duoc-khong:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+mang-do-dai-va-do-de-vo-tren-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+mang-tien-dat-coc-di-giao-dich-an-toan:
+  p: P-THUE-XE
+  c: C-THUE-DAT-COC
+mat-chia-khoa-xe-thue-xu-ly-the-nao:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+mat-duong-vua-trai-nhua-moi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+mat-mu-bao-hiem-giua-ky-thue-xe:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+mat-tap-trung-vi-nghe-tai-nghe-khi-di-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+mat-vi-giay-to-ca-nhan-giua-ky-thue:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+mo-hoi-tay-va-do-bam-tay-lai-khi-di-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+moc-treo-do-tren-xe-may-dung-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-CHO-DO
+mot-nam-di-xe-thue-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+mu-bao-hiem-cho-nguoi-ngoi-sau:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+mu-bao-hiem-khi-xuong-xe-de-o-dau:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+mu-bao-hiem-rieng-khi-di-xe-thue:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+mua-nom-am-uot-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+mua-phin-gio-bac-keo-dai-cach-di-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+mua-thu-hoa-sua-di-xe-toi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+mua-thu-la-roi-doan-duong-tron:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+mua-xe-rieng-ket-thuc-ky-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+mui-bat-thuong-tren-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+nap-van-lop-va-ap-suat-lop-xe-thue:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+nen-di-xe-hay-khong-khi-thoi-tiet-xau:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+nga-tu-khong-den-tin-hieu-di-xe-may-the-nao:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+ngay-bui-mu-o-ha-noi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+ngay-dau-tien-co-xe-thue-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ngay-khong-khi-o-nhiem-nang-di-xe-may-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+ngoi-sau-xe-may-an-toan-khi-khong-tu-lai:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+nguoi-lam-hybrid-thue-xe-cho-ngay-den-cong-ty:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+nguoi-moi-di-lam-ra-nha-trong-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+nguoi-ngoi-sau-chi-duong-cach-giao-tiep:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+nguoi-ngoi-sau-lam-hoa-tieu:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+nguoi-say-ruou-ngoi-sau:
+  p: P-PHAP-LY
+  c: C-NOI-DO-CONG
+nha-co-khach-o-vai-tuan:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+nha-thue-hai-xe-may-cung-luc:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+nhan-bien-lua-dao-khi-dat-xe-may-online-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+nhan-xe-giao-tan-noi-tai-chung-cu-va-toa-nha:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+nhieu-chuyen-ngan-trong-ngay:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+nho-nguoi-than-nhan-tra-xe-thue-ho:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+nho-vi-tri-xe-trong-bai-gui-lon:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+nhung-cau-hoi-nen-hoi-truoc-khi-thue-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+nhung-loi-lai-xe-thuong-gap-cua-nguoi-moi-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+nhung-sai-lam-thuong-gap-khi-thue-xe-may-o-ha-noi:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+nhuong-duong-cho-xe-uu-tien:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+nui-tram-chua-thay-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+ong-ba-cao-tuoi-di-xe-dap-dien-mua-sang:
+  p: P-XE-MAY
+  c: C-XE-DAP-DIEN
+phan-loai-xe-dien-va-yeu-cau-giay-phep:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+pho-di-bo-cuoi-tuan-o-ha-noi-va-chuyen-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+phoi-hop-cam-va-xi-nhan-khi-di-do:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+phu-huynh-cho-con-di-lai-bang-xe-may-thue-o-ha-noi:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+phu-nu-mang-thai-va-viec-di-xe-may-o-ha-noi-nhung-dieu-can-can-nho:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+pin-xe-dien-yeu-giua-ky-thue-dau-hieu-va-phuong-an:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+qua-duong-ray-tau-hoa-an-toan:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+qua-hoi-cho-phien-vung-ven-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+qua-khu-cong-nghiep-gio-tan-ca:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+qua-khu-vuc-truong-hoc-gio-tan-hoc:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+qua-pha-bang-xe-may:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+quan-ly-chi-phi-phat-sinh-trong-ky-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+quan-ly-giay-to-xe-trong-ky-thue-dai-han:
+  p: P-PHAP-LY
+  c: C-GIAY-TO
+quen-do-tren-xe-thue-sau-khi-tra-xe-xu-ly-the-nao:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+quy-dinh-giao-thong-can-nho-khi-thue-xe-may-ha-noi:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+quy-dinh-mu-bao-hiem-va-trang-phuc-di-xe:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+quy-uoc-xang-khi-nhan-va-tra-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+quyet-dinh-thue-ngay-hay-thue-tuan-cho-ke-hoach-dai:
+  p: P-THUE-XE
+  c: C-THUE-TUAN
+re-trai-tai-nga-tu-dong-o-ha-noi-ky-nang-va-quy-tac-an-toan:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+rua-xe-thue-khi-nao-va-nhu-the-nao:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+rua-xe-thue-o-tram-rua-nen-hay-khong:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+sac-va-gui-xe-dien-noi-cong-cong:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+sai-lam-di-chuyen-cua-nguoi-moi-den-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+san-may-ngoai-o-sang-som-bang-xe-may:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+sap-xep-gio-nhan-va-tra-xe:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+sap-xep-thu-tu-cac-diem-dung-trong-ngay:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+sau-khi-nga-xe-nhe-kiem-tra-va-bao-cua-hang:
+  p: P-XE-MAY
+  c: C-XE-50CC
+sau-khi-tra-xe-di-lai-the-nao:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+sinh-vien-di-hoc-buoi-toi:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+suong-mu-buoi-sang-di-xe-may-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+tai-nghe-dien-thoai-khi-di-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+tap-lam-quen-xe-may-thue-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+thanh-co-loa-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+thanh-toan-tien-thue-hang-thang-va-giu-chung-tu:
+  p: P-THUE-XE
+  c: C-THUE-GIA
+the-ve-gui-xe-khi-di-xe-may-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-GUI-XE
+thoi-quen-kiem-tra-60-giay-truoc-moi-sang:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+thoi-quen-kiem-tra-xe-cuoi-tuan-cho-nguoi-thue-dai-han:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+thoi-quen-liac-guong-va-quan-sat-phia-sau:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+thong-tin-nen-chuan-bi-khi-nhan-dat-xe:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+thu-tuc-khi-co-tai-nan-nhe-voi-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+thue-xe-cho-ban-than-toi-tu-khac-tinh:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+thue-xe-ga-hay-xe-so-theo-thang:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+thue-xe-khi-xe-rieng-dang-sua-chua:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+thue-xe-may-bi-mat-xe-xu-ly-the-nao:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+thue-xe-may-cho-khach-o-nha-tro-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-xe-may-cho-nguoi-ngoi-sau-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+thue-xe-may-cho-nhung-ngay-thi-cu-quan-trong:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+thue-xe-may-cuoi-tuan-o-ha-noi:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+thue-xe-may-dai-han-cho-nguoi-nuoc-ngoai-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-QUOC-TE
+thue-xe-may-di-ba-vi-mot-ngay:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+thue-xe-may-di-chup-anh-cuoi-da-ngoai:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+thue-xe-may-di-chup-anh-ky-yeu-nhom-ban:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+thue-xe-may-di-lien-tinh-tu-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-xe-may-di-phong-van-xin-viec:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-xe-may-dip-le-30-4-va-2-9-o-ha-noi-chuan-bi-the-nao:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+thue-xe-may-gia-re-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-GIA
+thue-xe-may-giao-xe-tan-noi-o-ha-noi:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+thue-xe-may-giup-khach-nuoc-ngoai-den-tham-nha:
+  p: P-THUE-XE
+  c: C-THUE-QUOC-TE
+thue-xe-may-ha-noi-du-lich-2-3-ngay:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+thue-xe-may-khi-xe-nha-dang-bao-duong:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+thue-xe-may-mua-he-o-ha-noi:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+thue-xe-may-o-bo-de-long-bien:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-xe-may-o-ha-noi-cho-nguoi-lon-tuoi:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+thue-xe-may-o-ha-noi-cho-nhom-va-gia-dinh:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-xe-may-o-ha-noi-cho-nu:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+thue-xe-may-o-ha-noi-di-cong-tac:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+thue-xe-may-o-ha-noi-dip-tet:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+thue-xe-may-quan-hoan-kiem-gan-pho-co:
+  p: P-DU-LICH
+  c: C-PHO-CO
+thue-xe-may-quan-tay-ho-cho-nguoi-nuoc-ngoai:
+  p: P-THUE-XE
+  c: C-THUE-QUOC-TE
+thue-xe-may-thang-o-ha-noi-cho-cong-viec-dai-han:
+  p: P-THUE-XE
+  c: C-THUE-THANG
+thue-xe-may-theo-ngay-va-tra-xe-tre-gio:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+thue-xe-may-theo-tuan-cho-tho-ve-lam-nha:
+  p: P-THUE-XE
+  c: C-THUE-TUAN
+thue-xe-may-tu-lai-o-ha-noi-can-biet-gi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+thue-xe-may-tu-san-bay-noi-bai-ve-ha-noi:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+thue-xe-qua-dem-nhan-toi-tra-sang:
+  p: P-THUE-XE
+  c: C-THUE-NGAY
+thue-xe-trai-nghiem-truoc-khi-mua-xe-rieng:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+thung-lop-giua-duong-xu-ly-the-nao:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+tien-dat-coc-trong-thue-dai-han-hoan-tat:
+  p: P-THUE-XE
+  c: C-THUE-DAT-COC
+tien-le-va-thoi-quen-chi-tieu-nho-khi-di-xe:
+  p: P-THUE-XE
+  c: C-THUE-GIA
+tieng-hu-khi-phanh-co-y-nghia-gi:
+  p: P-XE-MAY
+  c: C-BAO-DUONG
+tinh-chi-phi-xang-xe-may-mot-thang-di-lai:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+tong-kiem-ky-thue-truoc-khi-quyet-dinh-gia-han:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+tra-xe-sat-cuoi-gio-hoat-dong:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+tra-xe-som-va-cau-hoi-hoan-tien:
+  p: P-THUE-XE
+  c: C-THUE-NHAN-TRA
+tranh-met-moi-khi-chay-xe-duong-dai:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+tre-ngu-gat-tren-xe-may-xu-ly-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+trinh-bay-su-co-voi-cua-hang-cho-thue-xe-ro-rang-va-day-du:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+troi-nom-di-xe-may-the-nao:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+tru-giua-va-chong-chan-xe-may-dung-dung-loai-dung-luc:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+tu-lieu-ca-nhan-sau-ky-thue-xe-may:
+  p: P-HOI-DAP
+  c: C-HD-NGUOI-MOI
+tu-the-va-ve-sinh-khi-di-xe-may-lau:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+tu-tin-lai-sau-mot-lan-nga:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+uoc-luong-quang-duong-di-moi-ngay-voi-xe-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+vao-cu-toi-khi-troi-mua-nhe:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+ve-huu-va-viec-di-lai-bang-xe-may:
+  p: P-KY-NANG
+  c: C-KY-NANG-SUC-KHOE
+ve-sinh-mu-bao-hiem-khi-thue-xe:
+  p: P-PHAP-LY
+  c: C-BAO-HIEM
+vet-dau-loang-duoi-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+vi-sao-khong-nen-cho-binh-ga-tren-xe:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+viet-kieu-ve-tham-nha-thue-xe-may:
+  p: P-THUE-XE
+  c: C-THUE-QUOC-TE
+vong-ho-dong-mo-suoi-hai-bang-xe-may:
+  p: P-CUNG-DUONG
+  c: C-CD-CUOI-TUAN
+vuot-tam-ly-ngai-duong-lon:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+xac-nhan-giao-xe-tan-noi-nhung-gi-can-thong-nhat:
+  p: P-THUE-XE
+  c: C-THUE-THU-TUC
+xe-50cc-va-quy-dinh-bang-lai:
+  p: P-PHAP-LY
+  c: C-GPLX
+xe-ba-gac-tren-duong:
+  p: P-PHAP-LY
+  c: C-QUY-DINH
+xe-bi-keo-lech-mot-ben:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xe-hong-giua-duong-xu-ly-an-toan:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xe-may-dien-di-trong-mua-luu-y:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+xe-may-dien-thue-di-mua-lanh-pin-tu-nhanh:
+  p: P-XE-MAY
+  c: C-XE-DIEN
+xe-may-thue-hay-phuong-tien-khac-o-ha-noi:
+  p: P-DU-LICH
+  c: C-DIEM-DEN
+xe-rung-giat-khi-tang-toc:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+xe-so-de-bi-chet-may-o-den-do:
+  p: P-XE-MAY
+  c: C-XE-SO
+xe-thue-hu-hong-trach-nhiem-cua-nguoi-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xe-thue-nghi-vai-ngay-khong-dung-lam-gi:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+xi-nhan-hong-giua-duong-xu-ly-the-nao:
+  p: P-PHAP-LY
+  c: C-PHAT-NGUOI
+xich-xe-may-tuot-hoac-lung-giua-duong:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xu-ly-ao-mua-va-do-bao-ho-uot:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET
+xu-ly-dinh-vi-lech-giua-khu-pho-cao-tang:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xu-ly-khi-bi-can-phat-giua-duong:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+xu-ly-khi-xe-thue-khong-no-may-duoc:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xu-ly-nguoi-vat-xuat-hien-dot-ngot:
+  p: P-KY-NANG
+  c: C-KY-NANG-TINH-HUONG
+xu-ly-thung-lop-khi-di-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xu-ly-va-cham-nhe-bang-xe-thue:
+  p: P-THUE-XE
+  c: C-THUE-SU-CO
+xuat-phat-buoi-sang-som-bang-xe-thue:
+  p: P-KY-NANG
+  c: C-KY-NANG-CO-BAN
+yen-xe-uot-hoac-ban-sau-troi-mua-va-cach-xu-ly:
+  p: P-KY-NANG
+  c: C-KY-NANG-THOI-TIET

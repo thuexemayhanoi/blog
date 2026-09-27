@@ -1,0 +1,206 @@
+# Sinh bởi scripts/factory/restore-foundation.py từ data/state/taxonomy-config.json.
+# child_id -> p(parent_id), s(slug), t(title). Không sửa tay.
+C-THUE-GIA:
+  p: P-THUE-XE
+  s: gia-thue
+  t: "Giá thuê xe máy"
+C-THUE-THU-TUC:
+  p: P-THUE-XE
+  s: thu-tuc
+  t: "Thủ tục thuê xe"
+C-THUE-NGAY:
+  p: P-THUE-XE
+  s: thue-ngay
+  t: "Thuê xe theo ngày"
+C-THUE-TUAN:
+  p: P-THUE-XE
+  s: thue-tuan
+  t: "Thuê xe theo tuần"
+C-THUE-THANG:
+  p: P-THUE-XE
+  s: thue-thang
+  t: "Thuê xe theo tháng"
+C-THUE-DAT-COC:
+  p: P-THUE-XE
+  s: dat-coc
+  t: "Đặt cọc & giữ giấy tờ"
+C-THUE-QUOC-TE:
+  p: P-THUE-XE
+  s: khach-quoc-te
+  t: "Thuê xe cho khách quốc tế"
+C-THUE-NHAN-TRA:
+  p: P-THUE-XE
+  s: nhan-tra-xe
+  t: "Nhận xe & trả xe"
+C-THUE-SU-CO:
+  p: P-THUE-XE
+  s: su-co
+  t: "Sự cố khi thuê xe"
+C-XE-SO:
+  p: P-XE-MAY
+  s: xe-so
+  t: "Xe số"
+C-XE-GA:
+  p: P-XE-MAY
+  s: xe-ga
+  t: "Xe tay ga"
+C-XE-50CC:
+  p: P-XE-MAY
+  s: xe-50cc
+  t: "Xe 50cc"
+C-XE-DIEN:
+  p: P-XE-MAY
+  s: xe-dien
+  t: "Xe máy điện"
+C-XE-DAP-DIEN:
+  p: P-XE-MAY
+  s: xe-dap-dien
+  t: "Xe đạp điện"
+C-HONDA-WAVE:
+  p: P-XE-MAY
+  s: honda-wave
+  t: "Honda Wave"
+C-HONDA-VISION:
+  p: P-XE-MAY
+  s: honda-vision
+  t: "Honda Vision"
+C-HONDA-AIR-BLADE:
+  p: P-XE-MAY
+  s: honda-air-blade
+  t: "Honda Air Blade"
+C-HONDA-CLICK:
+  p: P-XE-MAY
+  s: honda-click
+  t: "Honda Click"
+C-YAMAHA-SIRIUS:
+  p: P-XE-MAY
+  s: yamaha-sirius
+  t: "Yamaha Sirius"
+C-BAO-DUONG:
+  p: P-XE-MAY
+  s: bao-duong-xe
+  t: "Bảo dưỡng xe máy"
+C-GPLX:
+  p: P-PHAP-LY
+  s: giay-phep-lai-xe
+  t: "Giấy phép lái xe"
+C-BAO-HIEM:
+  p: P-PHAP-LY
+  s: bao-hiem
+  t: "Bảo hiểm xe máy"
+C-NOI-DO-CONG:
+  p: P-PHAP-LY
+  s: noi-do-cong
+  t: "Nồng độ cồn"
+C-PHAT-NGUOI:
+  p: P-PHAP-LY
+  s: phat-nguoi
+  t: "Phạt nguội"
+C-BIEN-BAO:
+  p: P-PHAP-LY
+  s: bien-bao
+  t: "Biển báo giao thông"
+C-GIAY-TO:
+  p: P-PHAP-LY
+  s: giay-to
+  t: "Giấy tờ xe & cá nhân"
+C-QUY-DINH:
+  p: P-PHAP-LY
+  s: quy-dinh-giao-thong
+  t: "Quy định giao thông"
+C-DIEM-DEN:
+  p: P-DU-LICH
+  s: diem-den
+  t: "Điểm đến Hà Nội"
+C-BAO-TANG:
+  p: P-DU-LICH
+  s: bao-tang
+  t: "Bảo tàng"
+C-PHO-CO:
+  p: P-DU-LICH
+  s: pho-co
+  t: "Phố cổ Hoàn Kiếm"
+C-HO-TAY:
+  p: P-DU-LICH
+  s: ho-tay
+  t: "Hồ Tây & lân cận"
+C-LONG-BIEN:
+  p: P-DU-LICH
+  s: long-bien
+  t: "Long Biên & Gia Lâm"
+C-NGOAI-THANH:
+  p: P-DU-LICH
+  s: ngoai-thanh
+  t: "Ngoại thành Hà Nội"
+C-CD-NOI-THANH:
+  p: P-CUNG-DUONG
+  s: cung-duong-noi-thanh
+  t: "Cung đường nội thành"
+C-CD-CUOI-TUAN:
+  p: P-CUNG-DUONG
+  s: cung-duong-cuoi-tuan
+  t: "Cung đường cuối tuần"
+C-CD-MAI-CHAU:
+  p: P-CUNG-DUONG
+  s: mai-chau
+  t: "Mai Châu"
+C-CD-MOC-CHAU:
+  p: P-CUNG-DUONG
+  s: moc-chau
+  t: "Mộc Châu"
+C-CD-HA-GIANG:
+  p: P-CUNG-DUONG
+  s: ha-giang
+  t: "Hà Giang"
+C-CD-PHO-BAC:
+  p: P-CUNG-DUONG
+  s: cung-duong-pho-bac
+  t: "Cung đường các tỉnh phía Bắc"
+C-KY-NANG-CO-BAN:
+  p: P-KY-NANG
+  s: ky-nang-lai-co-ban
+  t: "Kỹ năng lái cơ bản"
+C-KY-NANG-TINH-HUONG:
+  p: P-KY-NANG
+  s: tinh-huong-giao-thong
+  t: "Tình huống giao thông"
+C-KY-NANG-THOI-TIET:
+  p: P-KY-NANG
+  s: thoi-tiet-va-duong-sa
+  t: "Thời tiết & đường sá"
+C-KY-NANG-CHO-DO:
+  p: P-KY-NANG
+  s: cho-do-va-hanh-ly
+  t: "Chở đồ & hành lý"
+C-KY-NANG-GUI-XE:
+  p: P-KY-NANG
+  s: gui-xe-va-giu-xe
+  t: "Gửi xe & giữ xe"
+C-KY-NANG-SUC-KHOE:
+  p: P-KY-NANG
+  s: suc-khoe-khi-lai-xe
+  t: "Sức khỏe khi lái xe"
+C-HD-GIA:
+  p: P-HOI-DAP
+  s: hoi-dap-gia
+  t: "Hỏi đáp về giá"
+C-HD-THU-TUC:
+  p: P-HOI-DAP
+  s: hoi-dap-thu-tuc
+  t: "Hỏi đáp thủ tục"
+C-HD-PHAP-LY:
+  p: P-HOI-DAP
+  s: hoi-dap-phap-ly
+  t: "Hỏi đáp pháp lý"
+C-HD-CHON-XE:
+  p: P-HOI-DAP
+  s: hoi-dap-chon-xe
+  t: "Hỏi đáp chọn xe"
+C-HD-SU-CO:
+  p: P-HOI-DAP
+  s: hoi-dap-su-co
+  t: "Hỏi đáp sự cố"
+C-HD-NGUOI-MOI:
+  p: P-HOI-DAP
+  s: hoi-dap-nguoi-moi
+  t: "Hỏi đáp người mới"

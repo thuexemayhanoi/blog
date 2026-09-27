@@ -1,6 +1,8 @@
 # Tóm tắt kiểm kê nội dung hiện có
 
-Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào taxonomy (`data/content-inventory.csv`).
+Sinh bởi `scripts/factory/generate-reports.py` từ `data/content-inventory.csv`. Ngày sinh: 2026-09-20T00:00:00+00:00.
+
+Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào taxonomy (từ `data/state/existing-map.json`, URL giữ nguyên).
 
 ## Theo danh mục Jekyll hiện tại
 
@@ -8,7 +10,7 @@ Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào t
 - Chia sẻ: 112
 - Du lịch: 39
 
-## Theo parent hub mới
+## Theo parent hub
 
 - P-KY-NANG: 239
 - P-THUE-XE: 117
@@ -18,7 +20,7 @@ Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào t
 - P-DU-LICH: 17
 - P-CUNG-DUONG: 11
 
-## Số từ
+## Số từ (đếm thô từ markdown)
 
 - Trung bình: 1584 từ/bài
 - Nhỏ nhất: 1500, lớn nhất: 2356
