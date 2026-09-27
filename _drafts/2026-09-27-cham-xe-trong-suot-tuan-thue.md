@@ -31,7 +31,7 @@ Cách để xe mỗi đêm cũng là một phần chăm xe. Chọn chỗ có má
 
 Xe nói với bạn bằng tiếng và cảm giác. Tiếng lục cục gần bánh trước khi qua ổ gà là dấu hiệu vành hoặc phanh; tiếng rít khi bóp phanh là má phanh mòn; ga giật nhẹ lúc tăng tốc có thể là xích khô hoặc bu-gi đến kỳ thay. Trong tuần thuê, mọi dấu hiệu mới xuất hiện đều đáng ghi nhớ: xảy ra lúc nào, tiếng thế nào, ở tốc độ bao nhiêu. Ghi chú ngắn trên điện thoại giúp bạn mô tả chính xác khi báo cửa hàng.
 
-Một số dấu hiệu cần báo ngay chứ không đợi giữa tuần: máy nóng bất thường dù chạy đường thường, đèn báo nhớt sáng nếu xe có, hoặc tay lái đu đưa khi buông hai tay ở tốc độ chậm. Với những dấu hiệu cần can thiệp sớm, bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/thue-xe/2026/09/27/dau-hieu-xe-thue-can-bao-cua-hang-ngay-if/) không tồn tại, hãy đọc bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia-se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/) để biết ngưỡng nào nên dừng xe và gọi.
+Một số dấu hiệu cần báo ngay chứ không đợi giữa tuần: máy nóng bất thường dù chạy đường thường, đèn báo nhớt sáng nếu xe có, hoặc tay lái đu đưa khi buông hai tay ở tốc độ chậm. Để biết ngưỡng nào nên dừng xe và gọi cửa hàng, đọc bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia-se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/) và làm theo trình tự ở đó.
 
 ## Phối hợp với cửa hàng suốt kỳ thuê
 
