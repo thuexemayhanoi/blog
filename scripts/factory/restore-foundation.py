@@ -82,6 +82,8 @@ child_by_id = {c['child_id']: c for c in children}
 
 rows = []
 title_re = re.compile(r'^title:\s*["\']?(.+?)["\']?\s*$', re.MULTILINE)
+cat_re = re.compile(r'^categories:\s*\[?["\']?([^"\'\],]+)', re.MULTILINE)
+date_re = re.compile(r'^date:\s*(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})(?::(\d{2}))?\s*([+-]\d{2})(\d{2})?', re.MULTILINE)
 for fn in post_files:
     m = re.match(r'^(\d{4})-(\d{2})-(\d{2})-(.+)\.md$', fn)
     if not m:
@@ -98,11 +100,27 @@ for fn in post_files:
     text = open(os.path.join('_posts', fn), encoding='utf-8').read()
     tm = title_re.search(text[:2000])
     title = (tm.group(1) if tm else '').strip()
+    cm = cat_re.search(text[:2000])
+    category = (cm.group(1) if cm else '').strip()
+    if not category: die('thiếu categories tại %s' % fn)
+    dm = date_re.search(text[:2000])
+    if not dm: die('thiếu date hợp lệ tại %s' % fn)
+    # URL dùng ngày frontmatter sau khi Jekyll chuẩn hoá về UTC
+    # (ví dụ 2026-09-20 01:10 +0700 -> 2026-09-19 18:10 UTC -> URL .../2026/09/19/...)
+    import datetime as _dt
+    off_h, off_m = int(dm.group(7)), int(dm.group(8) or 0)
+    sign = 1 if dm.group(7).startswith('+') else -1
+    fdt = _dt.datetime(int(dm.group(1)), int(dm.group(2)), int(dm.group(3)),
+                       int(dm.group(4)), int(dm.group(5)), int(dm.group(6) or 0)) - sign * _dt.timedelta(hours=abs(off_h), minutes=off_m)
+    y, mo, d = '%04d' % fdt.year, '%02d' % fdt.month, '%02d' % fdt.day
+    # URL legacy THẬT do Jekyll sinh (permalink pretty gồm tên danh mục có dấu):
+    # /blog/{Danh mục}/YYYY/MM/DD/slug/ — giữ nguyên, không đổi.
     rows.append({
         'source_path': '_posts/' + fn,
         'slug': slug,
         'published_date': emap_dates[di],
-        'current_url': '/blog/%s/%s/%s/%s/' % (m.group(1), m.group(2), m.group(3), slug),
+        'category': category,
+        'current_url': '/blog/%s/%s/%s/%s/%s/' % (category.lower(), y, mo, d, slug),
         'likely_parent': pid,
         'likely_child': cid,
         'title': title,

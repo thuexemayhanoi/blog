@@ -28,7 +28,7 @@ Blog → Parent hub → Child hub → Bài viết.
 ## URL công khai
 
 - Bài mới: `/blog/{parent_slug}/{child_slug}/{article_slug}/` — viết bằng `permalink` trong frontmatter, tệp nguồn vẫn phẳng trong `_posts/`.
-- Bài legacy: giữ nguyên URL `/blog/YYYY/MM/DD/slug/`.
+- Bài legacy: giữ nguyên URL THẬT đang công khai `/blog/{danh mục có dấu}/{YYYY}/{MM}/{DD}/{slug}/` (ví dụ `/blog/kinh nghiệm/2026/09/13/.../`), trong đó ngày là ngày frontmatter sau khi Jekyll chuẩn hoá về UTC. Định dạng này do `permalink: pretty` + `categories` sinh ra từ trước — KHÔNG đổi. Kiểm chứng: toàn bộ 483 URL khớp `sitemap.xml` công khai (validator đối chiếu).
 - Trang hub: `/blog/{parent_slug}/`, trang child: `/blog/{parent_slug}/{child_slug}/`, trang tổng: `/blog/chu-de/`.
 
 ## Breadcrumb

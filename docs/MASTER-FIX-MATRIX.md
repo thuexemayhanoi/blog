@@ -18,6 +18,7 @@ Mỗi hàng: lỗi → nguyên nhân → tệp/commit sửa → kiểm thử →
 | C2 | Xung đột chính sách nội bộ (cọc 2–5 triệu, phí trễ 20k/giờ chỉ có trong validator cũ) | Hai nguồn fact khác nhau trong /blog | `reports/factory/policy-conflicts.md`: ghi từng nguồn, BLOCKED, không tự chọn | Đối chiếu 3 nguồn | N/A | BLOCKED (chờ chủ xe quyết định) |
 | C3 | Không có vùng nháp không deploy | Chưa có `_drafts/` | Tạo `_drafts/` + mẫu; CI build chứng minh nháp không vào sitemap/output | CI build + grep | Xem mục E cuối file | VERIFIED |
 | C4 | Gate chỉ dựa Pages build success | Thiếu CI validator | `.github/workflows/factory-validate.yml`: restore idempotent, report khớp dữ liệu, validate, build, nháp, hub | Chạy workflow thật trên GitHub | Xem mục E cuối file | PENDING |
+| A5 | Audit cũ ghi sai định dạng URL legacy (`/blog/YYYY/MM/DD/slug/`) | URL thật do Jekyll sinh gồm tên danh mục có dấu + ngày frontmatter chuẩn hoá UTC: `/blog/kinh nghiệm/2026/09/17/...` | `restore-foundation.py` + `validate.py` ghi đúng quy tắc thật; inventory ghi URL thật | Đối chiếu 483/483 URL với `sitemap.xml` công khai: khớp 100% | Live: mọi URL inventory trả 200 | VERIFIED |
 | D1 | Thiếu AGENTS.md; README lỗi thời; docs trùng lặp | Chưa chuẩn hóa | `AGENTS.md`, `README.md`, docs cập nhật; `docs/mistral/README.md` thành con trỏ | Đọc lại | N/A | VERIFIED |
 
 ## E. Kiểm tra live sau deploy (cập nhật sau khi Pages deploy xong)

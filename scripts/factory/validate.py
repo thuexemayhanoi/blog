@@ -14,7 +14,7 @@ Kiểm tra theo thứ tự, báo thiếu tệp rõ ràng thay vì crash:
   6. State + report phản ánh đúng số liệu thực (không nhận PASS tay).
   7. data/content-matrix.csv nếu có: kiểm tra toàn bộ như cũ (ID, batch, canonical...).
 """
-import csv, json, os, sys, collections
+import csv, json, os, re, sys, collections
 
 ERRORS, WARNS, BLOCKED = [], [], []
 def err(m): ERRORS.append(m)
@@ -93,9 +93,41 @@ for r in inv:
         err('inventory ánh xạ không hợp lệ: %s' % r['slug'])
     elif children[r['likely_child']]['parent_id'] != r['likely_parent']:
         err('inventory child/parent lệch nhau: %s' % r['slug'])
-    # URL legacy: phải đúng dạng sinh từ tên tệp và KHÔNG đổi
-    want = '/blog/%s/%s/' % (r['source_path'][7:17].replace('-', '/'), r['source_path'][18:-3])
-    if r['current_url'] != want: err('URL legacy sai tại %s: %s' % (r['slug'], r['current_url']))
+# URL legacy: đúng dạng Jekyll sinh. Quy tắc (phải khớp restore-foundation.py):
+# /blog/{danh mục slug, chữ thường}/{Y}/{M}/{D}/{slug}/ với Y/M/D là ngày frontmatter
+# sau khi Jekyll chuẩn hoá về UTC.
+import datetime as _dt
+date_re = re.compile(r'^date:\s*(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})(?::(\d{2}))?\s*([+-]\d{2})(\d{2})?', re.MULTILINE)
+def legacy_url(path, category, slug):
+    dm = date_re.search(open(path, encoding='utf-8').read()[:2000])
+    if not dm: return None
+    off_h, off_m = int(dm.group(7)), int(dm.group(8) or 0)
+    sign = 1 if dm.group(7).startswith('+') else -1
+    fdt = _dt.datetime(int(dm.group(1)), int(dm.group(2)), int(dm.group(3)),
+                       int(dm.group(4)), int(dm.group(5)), int(dm.group(6) or 0)) - sign * _dt.timedelta(hours=abs(off_h), minutes=off_m)
+    return '/blog/%s/%04d/%02d/%02d/%s/' % (category.lower(), fdt.year, fdt.month, fdt.day, slug)
+for r in inv:
+    want = legacy_url(r['source_path'], r['category'], r['slug'])
+    if want is None:
+        err('không đọc được date frontmatter tại %s' % r['slug']); break
+    if r['current_url'] != want:
+        err('URL legacy sai tại %s: %s (mong đợi %s)' % (r['slug'], r['current_url'], want))
+        break
+
+# Đối chiếu một lần với sitemap công khai (nếu có mạng)
+import urllib.request, urllib.parse as up
+try:
+    sm = urllib.request.urlopen('https://thuexemayhanoi.github.io/blog/sitemap.xml', timeout=30).read().decode('utf-8')
+    live = set(re.findall(r'<loc>([^<]+)</loc>', sm))
+    inv_urls = set('https://thuexemayhanoi.github.io' + up.quote(r['current_url'], safe='/:') for r in inv)
+    miss = [u for u in inv_urls if u not in live]
+    if miss:
+        err('%d/%d URL legacy không khớp sitemap công khai (ví dụ: %s)' % (len(miss), len(inv_urls), sorted(miss)[0]))
+    extra = [u for u in live if '/2026/' in u and u not in inv_urls]
+    if extra:
+        err('sitemap có %d URL bài không nằm trong inventory (ví dụ: %s)' % (len(extra), sorted(extra)[0]))
+except Exception as e:
+    warn('không kiểm tra được sitemap live (%s) — chỉ kiểm tra URL cục bộ' % e)
 
 # ---------------- 4. _data cho layout
 ft = open('_data/factory-taxonomy.yml', encoding='utf-8').read()
