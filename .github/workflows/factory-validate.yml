@@ -124,7 +124,7 @@ jobs:
         run: |
           test -f "_site/kinh-nghiem/trang/2/index.html" || { echo "FAIL: thiếu trang phân hạng /kinh-nghiem/trang/2/"; exit 1; }
           test -f "_site/ky-nang/tinh-huong-giao-thong/trang/2/index.html" || { echo "FAIL: thiếu trang phân hạng topic"; exit 1; }
-          grep -q "article-body" _site/kinh-nghiem/trang/2/index.html || { echo "FAIL: listing thiếu layout bài"; exit 1; }
+          grep -q "post-card" _site/kinh-nghiem/trang/2/index.html || { echo "FAIL: listing thiếu thẻ bài (post-card)"; exit 1; }
           # bài mẫu: breadcrumb taxonomy + TOC + prose
           A=_site/thue-xe/2026/09/27/bang-gia-thue-xe-may-tai-ha-noi-theo-loai-xe/index.html
           test -f "$A" || { echo "FAIL: thiếu bài factory"; exit 1; }
