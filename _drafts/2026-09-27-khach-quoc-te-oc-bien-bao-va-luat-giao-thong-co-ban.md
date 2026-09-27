@@ -23,7 +23,7 @@ Biển báo ở Việt Nam dùng hình dạng và màu sắc theo hệ thống c
 
 Khách quốc tế nên dành vài phút đứng quan sát một ngã tư đông để soi các nhóm biển này trong thực tế. Cách học nhanh nhất là ghép biển báo với hành vi của dòng xe quanh mình, vì tài xế bản địa phản ánh gần đúng ý nghĩa từng biển.
 
-## Luật giao thông cho khách quốc tế: chiều đường và làn xe máy
+## Quy tắc chiều đường và làn xe máy
 
 Điểm khác biệt dễ thấy nhất ở Hà Nội là làn đường dành riêng cho xe máy ở nhiều trục lớn, tách biệt với làn ô tô bằng vạch sơn và đôi khi bằng dải phân cách cứng. Khi lưu thông trên các trục như Nguyễn Văn Cừ, Giải Phóng hay Trường Chinh, bạn nên đi đúng làn xe máy thay vì len giữa ô tô.
 
@@ -37,11 +37,19 @@ Tại nơi giao nhau không có đèn, phương tiện đến trước có quy�
 
 Muốn hệ thống lại toàn bộ nhóm quy tắc, bạn có thể đọc tổng quan tại trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/) và [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) của chuyên mục an toàn pháp lý.
 
+## Lộ trình học luật giao thông cho khách quốc tế trong ba ngày đầu
+
+Ngày đầu, hãy chỉ lái trong phạm vi quanh nơi lưu trú, chọn giờ vắng như sáng sớm hoặc sau hai giờ chiều, và tập đọc biển theo từng nhóm hình dạng. Mục tiêu của ngày đầu không phải đi xa, mà là phản xạ nhận biển cấm và biển một chiều trong tích tắc.
+
+Ngày hai, bạn thử một lộ trình dài hơn qua hai quận, ví dụ từ khu Long Biên qua cầu rồi dọc bờ sông, nơi có đủ loại làn, vạch sơn và ngã tư đèn đỏ. Chạy chậm hơn tốc độ dòng xe một chút, giữ khoảng cách với xe trước, và để ý cách người bản địa nhường đường cho xe buýt rẽ vào điểm dừng.
+
+Ngày ba, bạn đã đủ tự tin để ghép các cung đường có nút giao thông và đường hẹp. Nguyên tắc suốt ba ngày là không chạy theo xe bản địa với tốc độ cao, không vượt ở đường hẹp, và luôn bấm còi nhẹ trước khi vượt ở điểm khuất tầm nhìn. Sau ba ngày, phần lớn khách quốc tế nhận thấy quy tắc đã trở thành phản xạ, và chuyến đi bắt đầu thú vị thay vì căng thẳng.
+
 ## Vài thói quen giúp khách quốc tế an toàn trong tuần đầu
 
 Ba thói quen nhỏ tạo khác biệt lớn. Một là giữ khoảng cách với xe buýt khi chúng áp sát lề để đón khách, vì buýt luôn ưu tiên rà vào điểm dừng. Hai là không bấm còi liên tục như một số tài xế bản địa, mà dùng còi đúng lúc cần báo hiệu. Ba là giảm tốc về mức đi bộ khi qua chợ, cổng trường hay hẻm đông người, nơi người đi bộ thường cắt ngang.
 
-Ngoài ra hãy tranh thủ tập dượt trên đường ít xe trước khi qua cầu hoặc vào khu đông. Cách chuẩn bị cho chuyến đi bằng xe máy, kể cả việc kiểm tra xe trước mỗi chuyến, được mô tả trong bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh-nghiem/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Quy tắc hiện hành có thể được sửa đổi theo thời gian, nên bạn cũng nên đối chiếu văn bản mới nhất trước chuyến đi dài.
+Ngoài ra hãy tranh thủ tập dượt trên đường ít xe trước khi qua cầu hoặc vào khu đông. Cách chuẩn bị cho chuyến đi bằng xe máy, kể cả việc kiểm tra xe trước mỗi chuyến, được mô tả trong bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Quy tắc hiện hành có thể được sửa đổi theo thời gian, nên bạn cũng nên đối chiếu văn bản mới nhất trước chuyến đi dài.
 
 ## Tóm tắt cho người mới lái xe ở Hà Nội
 
