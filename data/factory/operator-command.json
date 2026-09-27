@@ -1,4 +1,4 @@
 {
-  "op": "prepare-next",
-  "count": 5
+  "op": "publish",
+  "ids": "BLG-00545,BLG-00546,BLG-00547,BLG-00548,BLG-00549"
 }
