@@ -43,6 +43,10 @@ jobs:
       - name: Doc gia lap lenh operator (whitelist, Node)
         run: |
           set -eu
+          if [ ! -f data/factory/operator-command.json ]; then
+            echo "khong co lenh operator (file command khong ton tai) - skip"
+            exit 0
+          fi
           node -e '
             const fs = require("fs");
             const cmd = JSON.parse(fs.readFileSync("data/factory/operator-command.json", "utf8"));
@@ -56,27 +60,27 @@ jobs:
           '
           echo "operator op=$OP ids=$IDS count=$COUNT"
 
-      - name: Preflight: engine invariant (khong bao gio bypass)
+      - name: Preflight - engine invariant (khong bao gio bypass)
         run: python3 scripts/factory/validate.py
 
-      - name: Preflight: trang thai engine (read-only)
+      - name: Preflight - trang thai engine read-only
         run: python3 scripts/factory/factory-operator.py status
 
-      - name: Preflight: recover transaction neu treo
+      - name: Preflight - recover transaction neu treo
         run: |
           code=0
           python3 scripts/factory/factory-operator.py recover || code=$?
           echo "recover exit: $code"
           if [ "$code" != "0" ]; then
-            echo "::error::transaction/lock khong the recover an toan — STOP"
+            echo "::error::transaction/lock khong the recover an toan - STOP"
             exit 1
           fi
 
-      - name: op: status
+      - name: op status
         if: env.OP == 'status'
         run: python3 scripts/factory/factory-operator.py status
 
-      - name: op: prepare-next
+      - name: op prepare-next
         if: env.OP == 'prepare-next'
         run: |
           if [ -n "$COUNT" ]; then
@@ -85,7 +89,7 @@ jobs:
             python3 scripts/factory/factory-operator.py prepare-next
           fi
 
-      - name: op: qa
+      - name: op qa
         if: env.OP == 'qa'
         run: |
           code=0
@@ -96,7 +100,7 @@ jobs:
           fi
           echo "qa exit: $code (REPAIR rows duoc ghi, khong fatal)"
 
-      - name: op: publish
+      - name: op publish
         if: env.OP == 'publish'
         run: |
           set -eu
@@ -104,22 +108,22 @@ jobs:
           python3 scripts/factory/factory-operator.py publish --ids "$IDS"
           python3 scripts/factory/factory-operator.py verify
 
-      - name: op: requeue
+      - name: op requeue
         if: env.OP == 'requeue'
         run: |
           set -eu
           if [ -z "$IDS" ]; then echo "::error::requeue requires ids"; exit 1; fi
           python3 scripts/factory/factory-operator.py requeue --ids "$IDS"
 
-      - name: op: verify
+      - name: op verify
         if: env.OP == 'verify'
         run: python3 scripts/factory/factory-operator.py verify
 
-      - name: op: refill
+      - name: op refill
         if: env.OP == 'refill'
         run: python3 scripts/factory/factory-operator.py refill
 
-      - name: op: reports
+      - name: op reports
         if: env.OP == 'reports'
         run: python3 scripts/factory/factory-operator.py reports
 
@@ -147,5 +151,5 @@ jobs:
               exit 0
             fi
           done
-          echo "::error::push conflict khong giai quyet duoc sau 5 lan — STOP, khong force push"
+          echo "::error::push conflict khong giai quyet duoc sau 5 lan - STOP, khong force push"
           exit 1
