@@ -27,7 +27,7 @@ Vài từ khóa tiếng Việt đơn giản giúp bạn ở cửa hàng thuận 
 
 Một cách hiệu quả nữa là ghi sẵn danh sách câu hỏi theo thứ tự: giá bao nhiêu một ngày, cọc bao nhiêu, trả xe lúc mấy giờ, xăng trả ở mức nào, và nếu xe hỏng thì liên hệ ai. Có danh sách này trên điện thoại, bạn sẽ không quên câu quan trọng nào khi đứng trước quầy, và mỗi câu chỉ cần dịch một lần là dùng được cho cả chuyến.
 
-## Các bước tại cửa hàng cho khách không rành tiếng Việt
+## Thuê xe máy khi không nói tiếng Việt: các bước tại cửa hàng
 
 Tại cửa hàng, hãy dùng điện thoại làm công cụ trung gian. Mở ứng dụng dịch sẵn câu cần nói, giữ điện thoại cho nhân viên xem, và để họ gõ trả lời nếu cần. Các bước thuê xe luôn theo trình tự giống nhau: xuất trình giấy tờ, chọn xe, thống nhất giá và cọc, ký biên bản, rồi nhận xe và mũ bảo hiểm. Vì trình tự cố định, bạn có thể quan sát khách khác hoặc nhờ cửa hàng chỉ từng bước. Khi ký biên bản, chụp lại toàn bộ trang giấy để có bản lưu trên điện thoại, và chụp ảnh hiện trạng xe trước khi nhận. Đây là thói quen giúp bạn khi trả xe tránh tranh chấp về vết xước không phải do bạn gây ra.
 
@@ -44,6 +44,13 @@ Một lưu ý nhỏ về thanh toán: hỏi trước cửa hàng nhận tiền m
 ## Về Thuê Xe Máy Hà Nội Nguyễn Tú
 
 Cửa hàng đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 mỗi ngày. Khách quốc tế có thể liên hệ trước qua số 0942 467 674 hoặc Zalo để hỏi giá và giữ xe. Bảng giá theo ngày gồm các mức thông dụng như Honda Wave và nhóm Honda Click hoặc Yamaha Mio khoảng 150.000 đồng mỗi ngày, Honda Vision khoảng 200.000 đồng mỗi ngày, Honda Air Blade khoảng 200.000 đồng mỗi ngày. Mức cọc và giá theo tuần, theo tháng sẽ được xác nhận trực tiếp khi liên hệ. Cửa hàng cho thuê từ xe số, xe tay ga đến xe 50cc và xe máy điện, phù hợp nhiều nhu cầu di chuyển của khách quốc tế ở Hà Nội, từ đi phố cổ đến chạy vùng ven.
+
+
+## Xem thêm
+
+- [Thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/)
+- [Thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/)
+- [Giấy tờ cần mang khi thuê xe](/blog/an-toan-phap-ly/giay-to/)
 
 ## Kết luận
 

@@ -27,7 +27,7 @@ Hãy tính giờ sao cho về đến cửa hàng trước giờ đóng ít nhấ
 
 Trên đường về, đi chậm hơn bình thường một chút. Ba mươi phút cuối không phải lúc thử tốc độ, vì một vết xước sát giờ trả sẽ khiến toàn bộ quá trình kiểm tra phức tạp hơn. Cẩn thận ở đoạn ngõ hẹp và chỗ đỗ dày, đây là vị trí xe hay bị xước nhất.
 
-## Tại cửa hàng: kí biên bản trả xe và nhận lại cọc
+## Tại cửa hàng: kí biên bản trả xe thuê máy và nhận lại cọc
 
 Tại cửa hàng, hãy cùng nhân viên đi vòng kiểm tra xe. Chỉ ra ảnh chụp lúc nhận để đối chiếu từng vết xước. Kiểm tra lại đèn, còi, phanh cùng nhân viên để xác nhận xe vận hành bình thường. Sau đó hoàn tất thủ tục: kí biên bản trả xe, ghi giờ trả, và nhận lại giấy tờ hoặc tiền đặt cọc đã ký giữ. Chụp lại trang biên bản đã ký. Nếu cọc trả bằng tiền mặt, đếm lại ngay tại quầy. Nếu cọc qua chuyển khoản, xác nhận đã nhận tiền trên điện thoại trước khi rời cửa hàng.
 
@@ -46,6 +46,13 @@ Ngay khi trả xe, nếu bạn dự định thuê tiếp trong tuần, hãy hỏ
 ## Về Thuê Xe Máy Hà Nội Nguyễn Tú
 
 Cửa hàng đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 mỗi ngày. Khách thuê có thể liên hệ 0942 467 674 hoặc Zalo để hỏi giá và đặt xe trước. Giá thuê theo ngày tham khảo: Honda Wave và nhóm Honda Click hoặc Yamaha Mio khoảng 150.000 đồng mỗi ngày, Honda Vision khoảng 200.000 đồng mỗi ngày, Honda Air Blade khoảng 200.000 đồng mỗi ngày. Mức cọc và giá thuê dài hạn được xác nhận trực tiếp khi liên hệ. Cửa hàng cho thuê nhiều dòng xe gồm xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện phục vụ nhiều nhu cầu từ đi phố đến chạy ven đô.
+
+
+## Xem thêm
+
+- [Quy trình nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/)
+- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
+- [Xử lý sự cố trong chuyến thuê](/blog/thue-xe/su-co/)
 
 ## Kết luận
 

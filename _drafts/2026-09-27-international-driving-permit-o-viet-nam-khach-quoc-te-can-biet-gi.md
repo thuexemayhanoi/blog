@@ -49,6 +49,13 @@ Mức giá thuê theo ngày dao động tùy dòng xe: Honda Wave và nhóm Hond
 
 Ba lỗi gặp nhiều nhất là: mang IDP nhưng quên giấy phép gốc; mang bản photo mà không có bản chính để đối chiếu; và để giấy tờ trong cốp xe khi đi vào phố. Lỗi thứ tư cũng rất phổ biến: chọn xe hạng lớn hơn hạng được cấp phép. Cả bốn lỗi đều tránh được nếu bạn chuẩn bị một túi giấy tờ cố định, luôn đeo cùng mình, và kiểm tra hạng xe trước khi đặt. Nếu không chắc giấy tờ của mình có đủ điều kiện, hãy hỏi cửa hàng trước qua tin nhắn kèm ảnh chụp giấy phép để được xác nhận sớm.
 
+
+## Xem thêm
+
+- [Thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/)
+- [Hạng giấy phép lái xe khi thuê xe máy](/blog/an-toan-phap-ly/giay-phep-lai-xe/)
+- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
+
 ## Kết luận
 
 International driving permit việt nam là giấy tờ quan trọng hàng đầu mà khách quốc tế cần nắm trước khi thuê xe máy tại Hà Nội. Hãy xác nhận nhóm giấy phép của mình thuộc diện được chấp nhận, kiểm tra hạng xe khớp với xe định thuê, chuẩn bị bản dịch công chứng nếu cần, và luôn mang theo bản gốc khi lưu thông. Chuẩn bị giấy tờ đầy đủ trước khi đến cửa hàng sẽ giúp bạn nhận xe nhanh và yên tâm hơn trong suốt chuyến đi.

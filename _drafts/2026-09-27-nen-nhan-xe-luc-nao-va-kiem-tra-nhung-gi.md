@@ -49,6 +49,13 @@ Cuối cùng, nhiều khách quên mang đủ giấy tờ khi đến nhận, ví
 
 Thuê Xe Máy Hà Nội Nguyễn Tú đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày. Cửa hàng cho thuê nhiều dòng xe gồm xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện. Mức giá thông dụng theo ngày: Honda Wave và nhóm Honda Click hoặc Yamaha Mio khoảng 150.000 đồng, Honda Vision khoảng 200.000 đồng, Honda Air Blade khoảng 200.000 đồng. Giá theo tuần, theo tháng và mức đặt cọc sẽ được xác nhận trực tiếp khi bạn liên hệ 0942 467 674 hoặc nhắn Zalo trước chuyến đi.
 
+
+## Xem thêm
+
+- [Nhận xe và trả xe đúng quy trình](/blog/thue-xe/nhan-tra-xe/)
+- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
+- [Thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/)
+
 ## Kết luận
 
 Nên nhận xe thuê máy vào khung giờ đủ sáng, trước 16:00, và kiểm tra phanh, đèn, xích, lốp, vết xước cùng giấy tờ trước khi ký biên bản. Chụp ảnh hiện trạng và mức xăng tại thời điểm nhận là thói quen nhỏ nhưng giúp chuyến thuê xe của bạn suôn sẻ từ đầu đến cuối.
