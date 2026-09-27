@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au.md",
+  "source_path": "_posts/2026-09-27-thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au.md",
   "content_sha256": "c211c2c871d00f85fa55c2029bc772788144df53d049bf99a5b95e635b322052",
-  "matrix_row_sha256": "a7f48170606022b84a2c2f712cbe6f27fb89f75f6619c8eb5b8b3d6266afd74e",
-  "result": "PASS"
+  "matrix_row_sha256": "2f85d4c47006eda03032701f5af846602e0c4333ff095870c6c1c89757343c2c",
+  "result": "PASS",
+  "published_at": "2026-09-27T14:35:23+00:00"
 }

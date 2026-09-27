@@ -1,6 +1,6 @@
 {
   "active": false,
-  "updated_at": "2026-09-27T13:52:24+00:00",
+  "updated_at": "2026-09-27T14:35:23+00:00",
   "pending": null,
   "history": [
     {
@@ -121,6 +121,39 @@
       "result": "PUBLISHED",
       "commit_sha": "3333eaceb56f53e730832289e1257fc0231c5a86",
       "finished_at": "2026-09-27T13:52:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00498",
+      "started_at": "2026-09-27T14:35:23+00:00",
+      "source": "_drafts/2026-09-27-cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that.md",
+      "destination": "_posts/2026-09-27-cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bf19c998e438ba965d3725b5c0bcd8e310c04e65",
+      "finished_at": "2026-09-27T14:35:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00499",
+      "started_at": "2026-09-27T14:35:23+00:00",
+      "source": "_drafts/2026-09-27-thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au.md",
+      "destination": "_posts/2026-09-27-thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bf19c998e438ba965d3725b5c0bcd8e310c04e65",
+      "finished_at": "2026-09-27T14:35:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00500",
+      "started_at": "2026-09-27T14:35:23+00:00",
+      "source": "_drafts/2026-09-27-giay-to-can-mang-khi-i-thue-xe-may.md",
+      "destination": "_posts/2026-09-27-giay-to-can-mang-khi-i-thue-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bf19c998e438ba965d3725b5c0bcd8e310c04e65",
+      "finished_at": "2026-09-27T14:35:23+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that.md",
+  "source_path": "_posts/2026-09-27-cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that.md",
   "content_sha256": "13da7a7e46ae02338a17728741ee574699bab579a473b51b695e0614ed7031a4",
-  "matrix_row_sha256": "1ab455fd8735b3fbd449c913594eff3697544a37ed4539db1813e52383fe5134",
-  "result": "PASS"
+  "matrix_row_sha256": "583533db5b153d0da0745defc3811de572d3243d80c2afc0d06b512f8ad18b3a",
+  "result": "PASS",
+  "published_at": "2026-09-27T14:35:23+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-giay-to-can-mang-khi-i-thue-xe-may.md",
+  "source_path": "_posts/2026-09-27-giay-to-can-mang-khi-i-thue-xe-may.md",
   "content_sha256": "211380c2ce62a5fab1046c2b4600ffac541fcac7145067b91106aaa4e0b59bf8",
-  "matrix_row_sha256": "0ad0da0905a26b3bf1599b12c1ecd6cd62ff02e69be70db52ffcdaad03fbf56b",
-  "result": "PASS"
+  "matrix_row_sha256": "724c2f32302dc9e5fe7cabd9c99fd6ac3b3b4e36863d8bb1511b145b5bdf5b9b",
+  "result": "PASS",
+  "published_at": "2026-09-27T14:35:23+00:00"
 }
