@@ -1,0 +1,34 @@
+---
+layout: default
+---
+<section class="section page-section">
+  <div class="container">
+    {% include topic-breadcrumb.html %}
+    <h1>{{ page.title | split: ' - ' | first }}</h1>
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+    {{ content }}
+    <h2>Bài viết trong chủ đề</h2>
+    <div class="post-grid">
+      {% assign found = 0 %}
+      {% for post in site.posts %}
+        {% assign mychild = post.child_id %}
+        {% if mychild == nil %}
+          {% assign pslug = post.url | split: '/' | last %}
+          {% assign m = site.data.factory-map[pslug] %}
+          {% if m %}{% assign mychild = m.c %}{% endif %}
+        {% endif %}
+        {% if mychild == page.child_id %}
+        <article class="post-card glass-card">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
+          <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+        </article>
+        {% assign found = found | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    <p><a href="{{ page.parent_slug | prepend: '/' | append: '/' | relative_url }}">Xem tất cả chủ đề trong {{ page.parent_title }}</a></p>
+  </div>
+</section>

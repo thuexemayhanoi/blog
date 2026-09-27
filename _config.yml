@@ -20,6 +20,9 @@ plugins:
 exclude:
   - .sass-cache/
   - .jekyll-cache/
+  - docs/
+  - data/
+  - reports/
   - en/
   - gemfiles/
   - Gemfile

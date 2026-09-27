@@ -10,22 +10,42 @@ main:
     icon: "info"
 
   - id: blog
-    name: "Blog"
-    url: "/blog/"
+    name: "Cẩm nang"
+    url: "/chu-de/"
     icon: "blog"
     children:
-      - id: travel
+      - id: cam-nang
+        name: "Tất cả chủ đề"
+        url: "/chu-de/"
+        icon: "sparkles"
+      - id: thue-xe
+        name: "Thuê xe"
+        url: "/thue-xe/"
+        icon: "pricing"
+      - id: xe-may
+        name: "Xe máy"
+        url: "/xe-may/"
+        icon: "blog"
+      - id: an-toan
+        name: "An toàn & pháp lý"
+        url: "/an-toan-phap-ly/"
+        icon: "terms"
+      - id: du-lich
         name: "Du lịch"
         url: "/du-lich/"
         icon: "travel"
-      - id: experience
-        name: "Kinh nghiệm"
-        url: "/kinh-nghiem/"
-        icon: "experience"
-      - id: sharing
-        name: "Chia sẻ"
-        url: "/chia-se/"
-        icon: "share"
+      - id: cung-duong
+        name: "Cung đường"
+        url: "/cung-duong/"
+        icon: "map-pin"
+      - id: ky-nang
+        name: "Kỹ năng"
+        url: "/ky-nang/"
+        icon: "info"
+      - id: hoi-dap
+        name: "Hỏi đáp"
+        url: "/hoi-dap/"
+        icon: "message"
 
   - id: pricing
     name: "Bảng giá"
@@ -73,9 +93,6 @@ footer:
       - name: "Giới thiệu"
         url: "/gioi-thieu/"
         icon: "info"
-      - name: "Blog"
-        url: "/blog/"
-        icon: "blog"
       - name: "Bảng giá"
         url: "/bang-gia/"
         icon: "pricing"
@@ -83,32 +100,62 @@ footer:
         url: "/lien-he/"
         icon: "contact"
 
-  - title: "BLOG"
+  - title: "CẨM NANG"
     links:
-      - name: "Du lịch"
+      - name: "Tất cả chủ đề"
+        url: "/chu-de/"
+        icon: "sparkles"
+      - name: "Thuê xe máy"
+        url: "/thue-xe/"
+        icon: "pricing"
+      - name: "Xe máy & dòng xe"
+        url: "/xe-may/"
+        icon: "blog"
+      - name: "An toàn & pháp lý"
+        url: "/an-toan-phap-ly/"
+        icon: "terms"
+      - name: "Du lịch Hà Nội"
         url: "/du-lich/"
         icon: "travel"
+      - name: "Cung đường"
+        url: "/cung-duong/"
+        icon: "map-pin"
+      - name: "Kỹ năng"
+        url: "/ky-nang/"
+        icon: "info"
+      - name: "Hỏi đáp"
+        url: "/hoi-dap/"
+        icon: "message"
+
+  - title: "CHỦ ĐỀ NỔI BẬT"
+    links:
+      - name: "Thủ tục thuê xe"
+        url: "/thue-xe/thu-tuc/"
+        icon: "info"
+      - name: "Thuê xe theo tháng"
+        url: "/thue-xe/thue-thang/"
+        icon: "pricing"
+      - name: "Xe máy điện"
+        url: "/xe-may/xe-dien/"
+        icon: "message"
+      - name: "Tình huống giao thông"
+        url: "/ky-nang/tinh-huong-giao-thong/"
+        icon: "info"
+      - name: "Giấy phép lái xe"
+        url: "/an-toan-phap-ly/giay-phep-lai-xe/"
+        icon: "terms"
+      - name: "Cung đường cuối tuần"
+        url: "/cung-duong/cung-duong-cuoi-tuan/"
+        icon: "map-pin"
+
+  - title: "DANH MỤC CŨ"
+    links:
       - name: "Kinh nghiệm"
         url: "/kinh-nghiem/"
-        icon: "experience"
+        icon: "info"
       - name: "Chia sẻ"
         url: "/chia-se/"
-        icon: "share"
-
-  - title: "BẢNG GIÁ"
-    links:
-      - name: "Xe số"
-        url: "/bang-gia-xe-so/"
-        icon: "motorcycle"
-      - name: "Xe ga"
-        url: "/bang-gia-xe-ga/"
-        icon: "scooter"
-      - name: "Xe điện"
-        url: "/bang-gia-xe-dien/"
-        icon: "electric"
-      - name: "Xe 50cc"
-        url: "/bang-gia-xe-50cc/"
-        icon: "50cc"
+        icon: "blog"
 
   - title: "TIỆN ÍCH"
     links:

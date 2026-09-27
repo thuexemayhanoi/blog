@@ -1,0 +1,58 @@
+---
+layout: default
+---
+<section class="section page-section">
+  <div class="container">
+    {% include topic-breadcrumb.html %}
+    <h1>{{ page.title | split: ' - ' | first }}</h1>
+    {% if page.description %}
+    <p class="page-description">{{ page.description }}</p>
+    {% endif %}
+    {{ content }}
+    <h2>Chủ đề con</h2>
+    <ul class="topic-list">
+      {% for pair in site.data.factory-taxonomy %}
+        {% assign cid = pair[0] %}
+        {% assign node = pair[1] %}
+        {% if node.p == page.parent_id %}
+          {% assign cnt = 0 %}
+          {% for post in site.posts %}
+            {% assign mychild = post.child_id %}
+            {% if mychild == nil %}
+              {% assign pslug = post.url | split: '/' | last %}
+              {% assign m = site.data.factory-map[pslug] %}
+              {% if m %}{% assign mychild = m.c %}{% endif %}
+            {% endif %}
+            {% if mychild == cid %}{% assign cnt = cnt | plus: 1 %}{% endif %}
+          {% endfor %}
+          {% if cnt > 0 %}
+          <li>
+            <a href="{{ page.parent_slug | prepend: '/' | append: '/' | append: node.s | relative_url }}">{{ node.t }}</a>
+            <span>({{ cnt }} bài)</span>
+          </li>
+          {% endif %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+    <h2>Bài viết mới trong chủ đề</h2>
+    <div class="post-grid">
+      {% assign shown = 0 %}
+      {% for post in site.posts %}
+        {% assign myparent = post.parent_id %}
+        {% if myparent == nil %}
+          {% assign pslug = post.url | split: '/' | last %}
+          {% assign m = site.data.factory-map[pslug] %}
+          {% if m %}{% assign myparent = m.p %}{% endif %}
+        {% endif %}
+        {% if myparent == page.parent_id and shown < 6 %}
+        <article class="post-card glass-card">
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
+          <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+        </article>
+        {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

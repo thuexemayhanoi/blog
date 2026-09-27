@@ -1,0 +1,16 @@
+{% assign business = site.data.business %}
+<nav class="breadcrumb" aria-label="Đường dẫn">
+  <ol>
+    <li>
+      <a href="{{ '/' | relative_url }}" aria-label="Trang chủ">
+        {% include icon.html name="home" size="16" class="breadcrumb-icon" %}
+        <span>Trang chủ</span>
+      </a>
+    </li>
+    <li><a href="{{ '/chu-de/' | relative_url }}">Cẩm nang</a></li>
+    {% if page.parent_id %}
+    <li><a href="{{ page.parent_slug | prepend: '/' | append: '/' | relative_url }}">{{ page.parent_title }}</a></li>
+    {% endif %}
+    <li aria-current="page">{{ page.title | split: ' - ' | first }}</li>
+  </ol>
+</nav>

@@ -1,0 +1,7 @@
+{
+  "active": false,
+  "updated_at": "2026-09-27T03:20:00+00:00",
+  "pending": null,
+  "history": [],
+  "note": "Ghi transaction trước khi mutate. Nếu pending khác null ở lần chạy sau: recover/hoàn tất trước khi làm việc mới."
+}

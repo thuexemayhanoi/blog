@@ -1,0 +1,46 @@
+{
+  "generated_at": "2026-09-27T03:20:00+00:00",
+  "capacity": 10000,
+  "factory_version": 1,
+  "rows": {
+    "total": 10000,
+    "existing": 473,
+    "review": 10,
+    "planned": 9517,
+    "writing": 0,
+    "qa": 0,
+    "pass": 0,
+    "published": 0,
+    "repair": 0,
+    "blocked": 0,
+    "fail": 0
+  },
+  "published_through_factory": 0,
+  "audit": {
+    "repair_pending": 0,
+    "review_pending": 10,
+    "post_publish_audit_pending": 0
+  },
+  "quality": {
+    "average_quality": null,
+    "average_seo_before": null,
+    "average_seo_after": null
+  },
+  "legal": {
+    "claims_fresh": 0,
+    "claims_stale": 0
+  },
+  "pilot": {
+    "rows": 480,
+    "reconciled_existing": 480,
+    "review": 0,
+    "planned_new": 0
+  },
+  "batches": {
+    "total": 200,
+    "rows_per_batch": 50,
+    "completed": 0
+  },
+  "last_completed_article_id": null,
+  "resume_point": "Nền factory đã bootstrap. Chưa có bài nào được sản xuất qua factory. Hàng EXISTING đã ánh xạ vào taxonomy, URL giữ nguyên. Ưu tiên tiếp theo: xử lý các hàng REVIEW (cannibalization) trước, sau đó nhận chunk tối đa 10 hàng PLANNED theo batch_id tăng dần từ BLG-00484."
+}

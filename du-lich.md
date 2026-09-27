@@ -132,3 +132,23 @@ Xem thêm [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}), [kinh 
   <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Về blog</a>
   <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi để đặt xe</a>
 </div>
+
+
+## Chủ đề con trong Du lịch
+
+Chuyên mục Du lịch được chia thành các chủ đề nhỏ để dễ theo dõi:
+
+{% for pair in site.data.factory-taxonomy %}
+  {% assign node = pair[1] %}
+  {% if node.p == "P-DU-LICH" %}
+    {% assign cnt = 0 %}
+    {% for post in site.posts %}
+      {% assign pslug2 = post.url | split: '/' | last %}
+      {% assign m = site.data.factory-map[pslug2] %}
+      {% if m and m.c == pair[0] %}{% assign cnt = cnt | plus: 1 %}{% endif %}
+    {% endfor %}
+    {% if cnt > 0 %}
+- [{{ node.t }}]({{ "/du-lich/" | append: node.s | append: "/" | relative_url }}) ({{ cnt }} bài)
+    {% endif %}
+  {% endif %}
+{% endfor %}
