@@ -15,7 +15,7 @@ article_id: BLG-00513
 
 Trong các hình thức thuê xe máy, thuê theo ngày là lựa chọn phổ biến nhất, nhưng cũng là hình thức bị hiểu sai nhiều nhất. Nhiều người chọn thuê xe máy theo ngày vì nghe nói rẻ, rồi khi tính ra lại tốn hơn thuê theo tuần; số khác cần xe mỗi ngày đi làm lại cứ thuê lẻ từng ngày vì không biết mình hợp với gói dài hạn hơn. Bài này giúp bạn trả lời câu hỏi thuê theo ngày hợp với ai, bằng cách soi từng nhóm nhu cầu thực tế ở Hà Nội, đối chiếu với các kỳ thuê khác, và chốt cách tính ngày rõ ràng để khỏi tranh cãi lúc trả.
 
-## Thuê xe máy theo ngày hợp với nhóm nhu cầu nào
+## Thuê theo ngày hợp với nhóm nhu cầu nào
 
 Thuê theo ngày phát huy tác dụng tốt nhất với các nhu cầu ngắn, rõ ràng thời điểm, và không lặp lại đều đặn. Bốn nhóm điển hình:
 
@@ -62,4 +62,4 @@ Một thói quen nhỏ giúp mọi thứ suôn sẻ: khi nhận xe, chụp lại
 
 ## Kết: chọn kỳ thuê theo đúng nhu cầu
 
-Thuê xe máy theo ngày không tốt hay x hơn hoặc kém các kỳ khác; nó chỉ hợp khi thời gian dùng xe của bạn ngắn, rõ ràng và không lặp lại. Xác định đúng nhóm nhu cầu của mình trước, rồi chọn kỳ thuê khớp, bạn sẽ vừa tối ưu chi phí vừatránh  phiền thủ tục. Và dù chọn kỳ nào, hãy chốt trước cách tính ngày và ghi lại bằng văn bản, vì đó là phần quyết định kỳ thuê của bạn có trọn vẹn hay không.
+Thuê xe máy theo ngày không hơn kém gì so với các kỳ thuê khác; nó chỉ hợp khi thời gian dùng xe của bạn ngắn, rõ ràng và không lặp lại. Xác định đúng nhóm nhu cầu của mình trước, rồi chọn kỳ thuê khớp, bạn sẽ vừa tối ưu chi phí vừatránh  phiền thủ tục. Và dù chọn kỳ nào, hãy chốt trước cách tính ngày và ghi lại bằng văn bản, vì đó là phần quyết định kỳ thuê của bạn có trọn vẹn hay không.
