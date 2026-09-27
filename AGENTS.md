@@ -15,14 +15,14 @@ Kho: `thuexemayhanoi/blog` · Nhánh: `main` · Site: https://thuexemayhanoi.git
 9. `reports/factory/policy-conflicts.md` — xung đột chính sách đang BLOCKED
 10. `reports/factory/progress.json` → `data/state/checkpoint.json`
 11. `data/state/transaction.json` → `data/state/writer-lock.json`
-12. `reports/factory/matrix-recovery-blocked.md` — trạng thái matrix (BLOCKED)
+12. `reports/factory/matrix-recovery-blocked.md` — lịch sử matrix: đã giải quyết bằng TẠO MỚI được chủ xe duyệt
 13. `docs/RECOVERY.md` — phục hồi sự cố; `docs/SEO-*.md` khi làm SEO
 
 Nguồn dữ liệu chuẩn (source of truth), theo thứ tự ưu tiên:
 - Dữ liệu kinh doanh: `_data/business.yml`, `_data/pricing.yml` → kết xuất `data/business-facts.json`.
 - Taxonomy: `data/state/taxonomy-config.json` (seed, không chỉnh sửa) → `data/content-taxonomy.json` (khôi phục từ seed).
 - Ánh xạ bài legacy: `data/state/existing-map.json` → `data/content-inventory.csv`.
-- Ma trận 10.000 hàng: HIỆN BLOCKED (chưa từng commit, không khôi phục được — xem mục 8).
+- Ma trận nội dung: ĐÃ ĐƯỢC CHỦ XE DUYỆT TẠO MỚI (2026-09-27, KHÔNG PHẢI KHÔI PHỤC NGUYÊN BẢN): 833 hàng = 473 EXISTING + 10 REVIEW + 350 planned ban đầu (3 đã PUBLISHED). Chênh 6.220 hàng so với tổng planned_target 6.570 trong seed taxonomy: BÁO THIẾU, không đệm hàng rỗng. Sinh lại bằng `scripts/factory/generate-matrix.py` (idempotent, giữ trạng thái runtime).
 
 ## 2. Phạm vi: CHỈ repo blog này
 
@@ -49,7 +49,8 @@ Từ gốc repository:
 - `python3 scripts/factory/manifest.py --id BLG-XXXXX` — sinh manifest một hàng (yêu cầu matrix).
 - `node scripts/validate-queue.js _queue` — CHỈ cho campaign cũ hanoi-seo-480 (tệp `NNN-slug.md`). "skipped" khi queue rỗng KHÔNG nghĩa là `_posts` PASS.
 
-CI (`.github/workflows/factory-validate.yml`) chạy các lệnh trên + build Jekyll + kiểm tra nháp không deploy. CI ĐỎ với lý do "MATRIX BLOCKED" là có chủ đích cho tới khi matrix được giải quyết (xem mục 8). Không chỉ dựa vào Pages build success để tuyên bố hoàn thành.
+CI (`.github/workflows/factory-validate.yml`) chạy restore + reports + matrix idempotent + tests + build Jekyll + kiểm tra nháp không deploy + validate. Từ khi matrix được duyệt TẠO MỚI, CI phải XANH (validate exit 0). Không chỉ dựa vào Pages build success để tuyên bố hoàn thành.
+- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote: chỉ nhận hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥90, seo ≥90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure). Từ chối mọi trạng thái khác, tự chốt ngày thật vào URL, cập nhật checkpoint.
 
 ## 5. Tiêu chí xuất bản (gate)
 
@@ -82,7 +83,7 @@ Rollback: không force push. Revert commit qua commit mới; khôi phục report
 
 ## 8. Trạng thái BLOCKED hiện tại (phải đọc)
 
-- `data/content-matrix.csv`: BLOCKED — chưa từng được commit, không khôi phục được từ bất kỳ nguồn nào được phép truy cập. Bằng chứng và hai phương án (chủ xe cấp bản gốc, hoặc duyệt tái sinh matrix MỚI từ seed): `reports/factory/matrix-recovery-blocked.md`. Không nhận hàng PLANNED cho tới khi giải quyết. Tạo matrix mới rồi gọi là "khôi phục" là BỊ CẤM.
+- `data/content-matrix.csv`: ĐÃ GIẢI QUYẾT — chủ xe duyệt TẠO MỚI ngày 2026-09-27 (không tìm được bản gốc). Đây là ma trận MỚI, không phải khôi phục. Chi tiết sinh/tái sinh: `reports/factory/matrix-report.md` và `scripts/factory/generate-matrix.py`. Gọi matrix mới là "khôi phục nguyên bản" vẫn là BỊ CẤM.
 - Xung đột chính sách (khoảng đặt cọc, phí trễ, bảo hiểm/mũ bảo hiểm): BLOCKED — `reports/factory/policy-conflicts.md`.
 - 10 hàng legacy REVIEW (cặp cannibalization): cần đọc nội dung từng cặp để xử lý, không tự động hóa được: danh sách trong `docs/SEO-OWNERSHIP.md`.
 

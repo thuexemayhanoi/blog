@@ -30,10 +30,11 @@ Agent làm việc trong repo đọc `AGENTS.md` trước. Tài liệu vận hàn
 ```bash
 python3 scripts/factory/restore-foundation.py   # idempotent
 python3 scripts/factory/generate-reports.py     # idempotent
-python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED(matrix)
+python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED(thiếu matrix)
+python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX  # promote qua cổng (chỉ hàng PASS + bằng chứng QA)
 ```
 
-Trạng thái hiện tại: nền đã khôi phục (taxonomy 7 cha/51 con, inventory 483 bài legacy, mapping hub hoạt động); ma trận 10.000 hàng BLOCKED — xem `reports/factory/matrix-recovery-blocked.md`. CI factory cố ý đỏ với lý do MATRIX BLOCKED cho tới khi matrix được giải quyết.
+Trạng thái hiện tại: nền đã khôi phục (taxonomy 7 cha/51 con, inventory 483 bài legacy, mapping hub hoạt động). Ma trận nội dung đã được chủ xe duyệt TẠO MỚI 2026-09-27 (833 hàng = 473 EXISTING + 10 REVIEW + 350 PLANNED; chi tiết `reports/factory/matrix-report.md`) — KHÔNG PHẢI KHÔI PHỤC NGUYÊN BẢN, bản gốc không tìm thấy. CI factory XANH (validate exit 0). Chunk đầu 3 bài C-THUE-GIA đã PUBLISHED qua publish gate; tiến độ trong `reports/factory/latest.md`.
 
 ## Quy tắc bất di bất dịch
 

@@ -26,15 +26,15 @@ Mục tiêu: sản xuất nội dung chất lượng có kiểm chứng cho blog
 5. BUSINESS FACT CHECK: mọi con số khớp `data/business-facts.json`; xung đột chính sách xem `reports/factory/policy-conflicts.md` (BLOCKED thì không viết).
 6. LEGAL/SOURCE CHECK theo `docs/ARTICLE-RULES.md` mục Pháp lý (CLAIM → SUBJECT → CONDITION → QUY ĐỊNH HIỆN HÀNH → PHIÊN BẢN CÓ HIỆU LỰC → NGUỒN CHÍNH THỨC). Không chắc chắn → REVIEW/BLOCKED.
 7. Chống trùng (cannibalization): đối chiếu tiêu đề chuẩn hóa + intent với bài đã xuất bản trong cùng child.
-8. PUBLISH: promote `_drafts/` → `_posts/` với frontmatter đầy đủ, permalink đúng taxonomy. Một commit có thể rollback sạch.
-9. BUILD/DEPLOY: Pages build, CI factory-validate xanh (trừ BLOCKED matrix đã biết).
+8. PUBLISH QUA CỔNG CỨNG: `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX`. Gate kiểm tra máy: hàng matrix phải PASS, bằng chứng `data/qa/<id>.json` (quality ≥90, seo ≥90, business_fact PASS, legal PASS|NOT_REQUIRED, critical_failure false), lock tự do, transaction không treo, slug khớp output_path. Đạt: gate tự chuyển draft → `_posts/`, chốt ngày thật vào URL (bỏ placeholder `{date}`), chuyển matrix → PUBLISHED, cập nhật checkpoint. Không đạt: giữ nguyên trong `_drafts/`, exit 1, không đổi gì. Đã kiểm chứng gate từ chối trạng thái PLANNED/WRITING/QA, thiếu bằng chứng, điểm thấp, business FAIL (xem `scripts/factory/tests/test_publish_gate.py`). Một commit có thể rollback sạch.
+9. BUILD/DEPLOY: Pages build, CI factory-validate xanh (matrix đã được duyệt TẠO MỚI — validate phải exit 0).
 10. Kiểm tra live: URL thật trả 200, title/meta/canonical đúng, có trong sitemap, hiển thị đúng ở hub cha/hub con.
 
 Kết quả mong đợi mỗi bài: đủ 5 điều kiện gate (xem `AGENTS.md` mục 5). FAIL bất kỳ → giữ trong `_drafts/`, ghi REPAIR, không hạ gate.
 
 ## Chunk
 
-Một chunk tối đa 10 bài. Chỉ nhận chunk khi: transaction inactive, lock tự do, checkpoint cho phép, matrix có hàng claimable (hiện BLOCKED). Self-healing theo thứ tự: pending transaction → chunk dở → REPAIR → REVIEW (cần đọc nội dung, không tự động) → POST_AUDIT/FRESHNESS quá hạn → PLANNED mới.
+Một chunk tối đa 10 bài. Chỉ nhận chunk khi: transaction inactive, lock tự do, checkpoint cho phép, matrix có hàng claimable (hiện CÓ — checkpoint `next_claimable_id` tính từ matrix thật). Chunk chạy thật 2026-09-27: BLG-00484/00485/00493 (3 bài, cùng C-THUE-GIA, không trùng intent) qua toàn chu trình write → QA evidence → gate → PUBLISHED → deploy → live 200 + sitemap. Kiểm chứng bài factory trong `_posts` phải khớp hàng matrix PUBLISHED: `validate.py` tự FAIL khi có `_posts` mang article_id không hợp lệ. Self-healing theo thứ tự: pending transaction → chunk dở → REPAIR → REVIEW (cần đọc nội dung, không tự động) → POST_AUDIT/FRESHNESS quá hạn → PLANNED mới.
 
 ## Transaction + lock (an toàn)
 
@@ -60,3 +60,7 @@ TODO/NOT IMPLEMENTED: chưa có scheduler cho factory. Không tuyên bố "chạ
 ## Báo cáo mỗi lần chạy
 
 MAIN HEAD, Pages run ID, BUILD/DEPLOY status, tệp thay đổi, kiểm tra runtime, trạng thái BLOCKED. Ghi vào `reports/factory/latest.md` bằng `generate-reports.py` + phần chạy tay có bằng chứng.
+
+## Vòng đời đầy đủ (đã chạy thật 2026-09-27)
+
+claim (từ `next_claimable_id` trong checkpoint, tối đa 10 bài/chunk) → viết `_drafts/YYYY-MM-DD-slug.md` (frontmatter đủ, `article_id`, permalink đúng taxonomy) → QA + chấm điểm, ghi `data/qa/<id>.json` → set hàng matrix PASS → `publish-gate.py` promote → chạy `restore-foundation.py` + `generate-reports.py` → commit theo nhóm → CI xanh → Pages deploy → kiểm tra live (200, sitemap, hub, canonical). Resume: checkpoint giữ `last_completed_article_id` + `in_progress_chunk`; `generate-reports.py` không bao giờ reset tiến độ (kiểm chứng trong `scripts/factory/tests/test_reports_resume.py`). Rollback: revert commit promote, chạy lại `generate-reports.py`; KHÔNG force push.

@@ -37,3 +37,13 @@ Commit nền tảng `2bc2999d58ad018b75b16c9620e7af391595868f` ghi trong `report
   2. Chủ xe duyệt TÁI SINH ma trận mới từ seed `data/state/taxonomy-config.json` (là ma trận mới, không phải khôi phục) → cần ghi rõ đây là quyết định tạo mới và duyệt lại toàn bộ chỉ tiêu.
 
 Trong lúc chờ: mọi sửa khác (hub, liên kết, SEO, CI, tài liệu) đã thực hiện độc lập với matrix.
+
+## GIẢI QUYẾT — TẠO MỚI được chủ xe duyệt (2026-09-27)
+
+Chủ xe xác nhận không tìm được bản gốc và phê duyệt TẠO MỚI `data/content-matrix.csv` từ taxonomy, seed (`data/state/matrix-seed.json`) và inventory đã kiểm chứng. Ghi rõ: đây là ma trận MỚI, KHÔNG PHẢI khôi phục nguyên bản.
+
+- 833 hàng: 473 EXISTING (URL/mapping/ID legacy giữ nguyên) + 10 REVIEW (giữ nguyên, không tự PASS) + 350 PLANNED (mỗi hàng một intent riêng).
+- Chống trùng kiểm máy: id/slug/output_path/canonical duy nhất; trong cùng child không trùng intent/từ khóa chuẩn hoá; 483 URL legacy khớp inventory 100%.
+- Chênh 6.220 hàng so với planned_target trong seed taxonomy: BÁO THIẾU, không đệm hàng rỗng (làm khác sẽ tạo hàng nghìn bài gần giống nhau — điều cấm).
+- Sinh/tái sinh: `scripts/factory/generate-matrix.py` (idempotent — chạy lại không mất trạng thái PUBLISHED/PASS đã chốt). Báo cáo: `reports/factory/matrix-report.md`.
+- Lần chạy đầu tiên sau duyệt: chunk 3 bài BLG-00484/00485/00493 đã qua publish gate và PUBLISHED (xem `data/qa/`, checkpoint).
