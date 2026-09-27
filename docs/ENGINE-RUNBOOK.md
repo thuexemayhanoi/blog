@@ -14,6 +14,13 @@ lenh nao chua implement. Chay tu goc repository.
   Queue: claimable PLANNED, headroom tung child.
 - python3 scripts/factory/queue.py --needs-refill
   exit 0 = can refill; exit 1 = khong can.
+- python3 scripts/factory/factory-operator.py status
+  Trang thai engine (checkpoint/transaction/lock/matrix) cho operator.
+  Vong van hanh day du: docs/PROC-PUBLISH.md.
+  Ops whitelist: status, prepare-next, qa, publish, recover, requeue,
+  verify, refill, reports. Lenh day qua
+  data/factory/operator-command.json; workflow factory-operator.yml
+  la TAY deterministic (khong AI, khong secret AI, khong cron).
 
 ## 2. Queue refill (lazy, chi khi can)
 

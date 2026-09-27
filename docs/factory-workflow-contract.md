@@ -11,6 +11,16 @@ enabled: false, KHONG duoc bat lai song song. CI validation
 (factory-capacity-validate.yml) la READ-ONLY: khong bao gio commit/push
 ve main; bao cao trong repo chi sinh boi lenh operator chu dong.
 
+Trinh dieu phoi hien tai: FACTORY OPERATOR (docs/PROC-PUBLISH.md).
+Writer ngoai (AI hoac nguoi, chi can GitHub read/write) day lenh
+whitelist vao data/factory/operator-command.json; workflow
+factory-operator.yml (concurrency group blog-factory-production,
+cancel-in-progress: false) thuc thi qua
+scripts/factory/factory-operator.py + engine chuan. Actions la
+deterministic hands: KHONG AI, KHONG API AI, KHONG secret AI,
+KHONG viet prose. Van KHONG co cron — chay theo lenh; hourly
+production chi khi pilot 5/5 PASS va duoc phe duyet rieng.
+
 ## 1. Vòng đời một RUN (bắt buộc theo thứ tự)
 
 ```

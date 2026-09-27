@@ -50,8 +50,9 @@ Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp di�
 - KHÔNG bịa dữ liệu kinh doanh/pháp lý/địa phương — nguồn chuẩn: `data/business-facts.json`; pháp lý: nguồn chính thức theo `docs/SOURCE-RESEARCH.md`.
 - KHÔNG tự đổi trạng thái REVIEW/BLOCKED.
 - KHÔNG publish thẳng vào `_posts/` ngoài publish gate.
+- Vận hành qua factory operator (docs/PROC-PUBLISH.md): writer ngoài chỉ đẩy lệnh whitelist vào `data/factory/operator-command.json`; GitHub Actions `factory-operator.yml` là deterministic hands — KHÔNG AI trong Actions, KHÔNG gọi API AI, KHÔNG secret AI, KHÔNG viết prose. External AI vẫn là writer duy nhất; engine chuẩn là nguồn sự thật duy nhất.
 - KHÔNG sinh bài đệm để tiến gần 10.000 — 10K là trần, không phải chỉ tiêu.
-- KHÔNG tuyên bố có scheduler khi chưa có — hiện CHƯA có scheduler factory; `publish-queue.yml` là campaign LEGACY đã tắt, không phải scheduler.
+- KHÔNG tuyên bố có scheduler khi chưa có — hiện CHƯA có scheduler factory (không cron, không hourly); vận hành theo LỆNH operator (docs/PROC-PUBLISH.md); `publish-queue.yml` là campaign LEGACY đã tắt, không phải scheduler.
 - Không push file truncate; kiểm tra tính toàn vẹn trước push.
 - Không ghi PASS/VERIFIED khi chưa chạy thật; mục chưa kiểm tra ghi NOT VERIFIED.
 

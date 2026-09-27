@@ -39,7 +39,11 @@ Số liệu matrix/queue/checkpoint thay đổi theo từng lần chạy. Tài l
 - `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
 - `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
 - `reports/factory/` — report sinh từ dữ liệu thật.
-- `.github/workflows/` — `factory-validate.yml` + `factory-capacity-validate.yml` (CI read-only, gate xanh), `pages` (deploy), `publish-queue.yml` (campaign LEGACY hanoi-seo-480, đã tắt — KHÔNG phải scheduler của factory).
+- `.github/workflows/` — `factory-validate.yml` + `factory-capacity-validate.yml` (CI read-only, gate xanh), `factory-operator.yml` (TAY deterministic của writer ngoài — xem `docs/PROC-PUBLISH.md`), `pages` (deploy), `publish-queue.yml` (campaign LEGACY hanoi-seo-480, đã tắt — KHÔNG phải scheduler của factory).
+
+## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
+
+EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → đẩy lệnh whitelist vào `data/factory/operator-command.json` → GitHub Actions `factory-operator.yml` (checkout + Python + Node, KHÔNG AI, KHÔNG secret AI) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy theo lệnh.
 
 ## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 
@@ -72,4 +76,5 @@ python3 scripts/factory/refill-queue.py --verify  # gate refill G1-G8 (read-only
 | `docs/SOURCE-RESEARCH.md` | chính sách nghiên cứu/nguồn (A/B/C) |
 | `docs/INTERNAL-LINKING.md` | chính sách liên kết nội bộ/reverse-link |
 | `docs/factory-workflow-contract.md` | hợp đồng scheduler/run/chunk |
+| `docs/PROC-PUBLISH.md` | vòng vận hành factory-operator (writer ngoài + Actions) |
 | `docs/TAXONOMY.md` | cấu trúc chủ đề |

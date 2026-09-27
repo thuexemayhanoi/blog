@@ -1,0 +1,151 @@
+name: Factory Operator
+
+# TAY DETERMINISTIC CHO WRITER NGOAI (docs/PROC-PUBLISH.md).
+# Writer ngoai (AI hoac nguoi, chi can GitHub read/write) day mot lenh
+# whitelist vao data/factory/operator-command.json; workflow nay la
+# moi truong thuc thi: checkout + Python + Node + tooling chuan cua
+# /blog. KHONG chua AI, KHONG goi API AI, KHONG chua secret AI,
+# KHONG viet prose bai. Engine chuan (writer lock + transaction +
+# checkpoint + publish-gate.py + refill-queue.py + matrix + QA
+# evidence) van la nguon su that duy nhat. publish-queue.yml (legacy)
+# giu disabled, khong duoc bat lai song song. Khong cron: chay theo
+# lenh, khong theo lich (pilot chua bat hourly production).
+
+on:
+  push:
+    branches: [main]
+    paths: ['data/factory/operator-command.json']
+
+concurrency:
+  group: blog-factory-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  operate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Doc gia lap lenh operator (whitelist, Node)
+        run: |
+          set -eu
+          node -e '
+            const fs = require("fs");
+            const cmd = JSON.parse(fs.readFileSync("data/factory/operator-command.json", "utf8"));
+            const OPS = ["status","prepare-next","qa","publish","recover","requeue","verify","refill","reports"];
+            if (!OPS.includes(cmd.op)) { console.error("unsupported op: " + cmd.op); process.exit(1); }
+            if (cmd.ids && !/^[A-Z0-9,-]+$/.test(cmd.ids)) { console.error("bad ids"); process.exit(1); }
+            if (cmd.count !== undefined && (!Number.isInteger(cmd.count) || cmd.count < 1 || cmd.count > 10)) { console.error("bad count"); process.exit(1); }
+            fs.appendFileSync(process.env.GITHUB_ENV, "OP=" + cmd.op + "\n");
+            fs.appendFileSync(process.env.GITHUB_ENV, "IDS=" + (cmd.ids || "") + "\n");
+            fs.appendFileSync(process.env.GITHUB_ENV, "COUNT=" + (cmd.count || "") + "\n");
+          '
+          echo "operator op=$OP ids=$IDS count=$COUNT"
+
+      - name: Preflight: engine invariant (khong bao gio bypass)
+        run: python3 scripts/factory/validate.py
+
+      - name: Preflight: trang thai engine (read-only)
+        run: python3 scripts/factory/factory-operator.py status
+
+      - name: Preflight: recover transaction neu treo
+        run: |
+          code=0
+          python3 scripts/factory/factory-operator.py recover || code=$?
+          echo "recover exit: $code"
+          if [ "$code" != "0" ]; then
+            echo "::error::transaction/lock khong the recover an toan — STOP"
+            exit 1
+          fi
+
+      - name: op: status
+        if: env.OP == 'status'
+        run: python3 scripts/factory/factory-operator.py status
+
+      - name: op: prepare-next
+        if: env.OP == 'prepare-next'
+        run: |
+          if [ -n "$COUNT" ]; then
+            python3 scripts/factory/factory-operator.py prepare-next --count "$COUNT"
+          else
+            python3 scripts/factory/factory-operator.py prepare-next
+          fi
+
+      - name: op: qa
+        if: env.OP == 'qa'
+        run: |
+          code=0
+          if [ -n "$IDS" ]; then
+            python3 scripts/factory/factory-operator.py qa --ids "$IDS" || code=$?
+          else
+            python3 scripts/factory/factory-operator.py qa || code=$?
+          fi
+          echo "qa exit: $code (REPAIR rows duoc ghi, khong fatal)"
+
+      - name: op: publish
+        if: env.OP == 'publish'
+        run: |
+          set -eu
+          if [ -z "$IDS" ]; then echo "::error::publish requires ids"; exit 1; fi
+          python3 scripts/factory/factory-operator.py publish --ids "$IDS"
+          python3 scripts/factory/factory-operator.py verify
+
+      - name: op: requeue
+        if: env.OP == 'requeue'
+        run: |
+          set -eu
+          if [ -z "$IDS" ]; then echo "::error::requeue requires ids"; exit 1; fi
+          python3 scripts/factory/factory-operator.py requeue --ids "$IDS"
+
+      - name: op: verify
+        if: env.OP == 'verify'
+        run: python3 scripts/factory/factory-operator.py verify
+
+      - name: op: refill
+        if: env.OP == 'refill'
+        run: python3 scripts/factory/factory-operator.py refill
+
+      - name: op: reports
+        if: env.OP == 'reports'
+        run: python3 scripts/factory/factory-operator.py reports
+
+      - name: Xoa lenh da xu ly + commit/push output deterministic
+        run: |
+          set -eu
+          git config user.name "factory-operator-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git rm -f --ignore-unmatch --quiet data/factory/operator-command.json || true
+          rm -f data/factory/operator-command.json
+          git rm -r -q --cached scripts/factory/__pycache__ scripts/factory/tests/__pycache__ 2>/dev/null || true
+          if git diff --quiet && git diff --cached --quiet && [ -z "$(git ls-files --others --exclude-standard)" ]; then
+            echo "nothing to commit"
+            exit 0
+          fi
+          git add -A
+          git commit -m "factory-operator: ${OP} (deterministic outputs of canonical tooling only)"
+          if git push; then
+            exit 0
+          fi
+          for i in 1 2 3 4 5; do
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; exit 1; }
+            if git push; then
+              exit 0
+            fi
+          done
+          echo "::error::push conflict khong giai quyet duoc sau 5 lan — STOP, khong force push"
+          exit 1
