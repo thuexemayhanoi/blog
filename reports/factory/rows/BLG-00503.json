@@ -1,0 +1,146 @@
+{
+  "article_id": "BLG-00503",
+  "status": "WRITING",
+  "title": "Nhận xe tại cửa hàng hay giao xe tận nơi",
+  "intent": "So sánh nhận tại cửa hàng với giao xe",
+  "primary_keyword": "giao xe tận nơi hay tự đến nhận",
+  "secondary_keywords": [
+    "nhận xe tại cửa hàng",
+    "hình thức nhận xe"
+  ],
+  "group": "THUE",
+  "taxonomy": {
+    "parent_id": "P-THUE-XE",
+    "parent_hub": "Thuê xe máy Hà Nội",
+    "parent_hub_url": "/blog/thue-xe/",
+    "child_id": "C-THUE-THU-TUC",
+    "child_hub": "Thủ tục thuê xe",
+    "child_hub_url": "/blog/thue-xe/thu-tuc/"
+  },
+  "expected_url": "/blog/thue-xe/2026/09/27/nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi/",
+  "output_path": "_posts/{date}-nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi.md",
+  "draft_path": "_drafts/2026-09-27-nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi.md",
+  "canonical_url": "/blog/thue-xe/2026/09/27/nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi/",
+  "internal_links_matrix": [
+    "/blog/thue-xe/nhan-tra-xe/",
+    "/blog/lien-he/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "giao xe tan noi hay tu en nhan",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "low",
+  "research_class": "A",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00004",
+      "title": "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê",
+      "url": "/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
+    },
+    {
+      "id": "BLG-00007",
+      "title": "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe",
+      "url": "/blog/chia sẻ/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
+    },
+    {
+      "id": "BLG-00009",
+      "title": "Chăm sóc dây xích xe máy: nhận biết xích khô và cách xử lý đúng",
+      "url": "/blog/chia sẻ/2026/09/18/cham-soc-day-xich-xe-may/"
+    },
+    {
+      "id": "BLG-00010",
+      "title": "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ",
+      "url": "/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
+    },
+    {
+      "id": "BLG-00012",
+      "title": "Chọn loại xe cho chuyến đi dài: xe số hay xe ga hợp với đường trường",
+      "url": "/blog/chia sẻ/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/"
+    },
+    {
+      "id": "BLG-00014",
+      "title": "Danh sách đồ cho chuyến đi một ngày bằng xe máy: gọn nhẹ nhưng đủ dùng",
+      "url": "/blog/chia sẻ/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00015",
+      "title": "Dấu hiệu xe thuê cần báo cửa hàng ngay",
+      "url": "/blog/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/"
+    },
+    {
+      "id": "BLG-00027",
+      "title": "Kiểm tra xe trước mỗi chuyến đi: quy trình hai phút cho mọi người",
+      "url": "/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 90,
+    "seo_min": 90,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "bab1253f5f93840111b366eb540cc2225af421c6c0ba53019b7676a502df891b",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
