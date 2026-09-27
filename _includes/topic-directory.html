@@ -4,7 +4,10 @@
   seed) + số bài đếm thật từ site.posts qua _data/factory-map.yml.
   Không dùng số bài kế hoạch làm số đã xuất bản; chủ đề chưa có bài ghi rõ.
   Hoạt động không cần JavaScript (details/summary + link thật trong HTML).
+  Tham số: open (mặc định true) — false nếu muốn thẻ đóng gọn (ví dụ homepage).
 {% endcomment %}
+
+{% assign td_open = include.open %}
 
 <div class="topic-directory">
   {% assign groups = "P-THUE-XE,P-XE-MAY,P-PHAP-LY,P-DU-LICH,P-CUNG-DUONG,P-KY-NANG,P-HOI-DAP" | split: ',' %}
@@ -55,7 +58,11 @@
       {% if mp == pid %}{% assign g_posts = g_posts | plus: 1 %}{% endif %}
     {% endfor %}
 
+    {% if td_open == false %}
+    <details class="topic-card">
+    {% else %}
     <details class="topic-card" open>
+    {% endif %}
       <summary class="topic-card__summary">
         <span class="topic-card__icon">
           {% include icon.html name=g_icon size="22" %}

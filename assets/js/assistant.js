@@ -249,8 +249,13 @@ appendChild(messageDiv);
 
   updateBadge(count) {
     const badge = this.toggleBtn.querySelector('.assistant-badge');
-    if (badge) {
-      badge.textContent = count > 0 ? count : '';
+    if (!badge) return;
+    if (count > 0) {
+      badge.textContent = count;
+      badge.hidden = false;
+    } else {
+      badge.textContent = '';
+      badge.hidden = true;
     }
   }
 }

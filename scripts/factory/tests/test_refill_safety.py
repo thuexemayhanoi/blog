@@ -395,6 +395,79 @@ def main():
     record('P4. --dry-run: tree hash giong het',
            tree_hash(wA) == before)
 
+    # ============ A1. PARTIAL FAILURE CLEANUP ============
+    # metadata dump fail ngay sau khi tao sentinel -> phai cleanup:
+    # sentinel di, writer-lock.json unlocked nhat quan.
+    wA1 = make_fixture(head_seq=['abc123', 'abc123'])
+    rqA1 = load_rq(wA1)
+    _orig_wja = rqA1._write_json_atomic
+
+    def boom_meta(path, obj):
+        if path.endswith('writer-lock.json') and obj.get('locked'):
+            raise OSError('simulated metadata write failure')
+        return _orig_wja(path, obj)
+
+    rqA1._write_json_atomic = boom_meta
+    a1_raised = False
+    try:
+        rqA1.acquire_atomic_lock('refill-queue', 'abc123')
+    except OSError:
+        a1_raised = True
+    rqA1._write_json_atomic = _orig_wja
+    s, l, h, a = lock_state(wA1)
+    record('A1. metadata fail sau sentinel: cleanup (sentinel di, '
+           'locked=false nhat quan)',
+           a1_raised and (not s) and l is False,
+           'raised=%s sentinel=%s locked=%s' % (a1_raised, s, l))
+
+    # A1b: sentinel ghi loi (fd write fail) -> cung phai cleanup
+    wA1b = make_fixture(head_seq=['abc123', 'abc123'])
+    rqA1b = load_rq(wA1b)
+    a1b_ok = True
+    try:
+        rqA1b.acquire_atomic_lock('refill-queue', 'abc123')
+        rel1b = None
+    except Exception:
+        a1b_ok = (not os.path.exists(rqA1b.LOCK_SENTINEL))
+    record('A1b. acquire binh thuong khong pha gi (sentinel con)',
+           os.path.exists(rqA1b.LOCK_SENTINEL) if 'rel1b' is None else True)
+
+    # ============ A2. OWNERSHIP TOKEN RACE ============
+    # writer cu (token cu) release SAU khi writer moi da acquire lai:
+    # release cu KHONG duoc xoa sentinel moi / khong de locked=false.
+    wA2 = make_fixture(head_seq=['abc123', 'abc123'])
+    rqA2 = load_rq(wA2)
+    rel_old = rqA2.acquire_atomic_lock('refill-old', 'abc123')
+    # lay token old tu metadata
+    tok_old = json.load(open(rqA2.LOCK_JSON, encoding='utf-8'))['token']
+    rel_old()  # writer cu hoan thanh, nha khoa
+    # writer moi acquire lai
+    rel_new = rqA2.acquire_atomic_lock('refill-new', 'abc123')
+    tok_new = json.load(open(rqA2.LOCK_JSON, encoding='utf-8'))['token']
+    assert tok_new != tok_old
+    # release callback CU (token old) duoc goi TRE sau khi writer moi giu khoa
+    rel_old()
+    s, l, h, a = lock_state(wA2)
+    record('A2. release cu (token cu) KHONG pha khoa moi: sentinel con, '
+           'locked=true, holder=refill-new',
+           s and l is True and h == 'refill-new',
+           'sentinel=%s locked=%s holder=%s' % (s, l, h))
+    rel_new()
+    s, l, h, a = lock_state(wA2)
+    record('A2b. release moi (token dung): khoa sach',
+           (not s) and l is False)
+
+    # A2c: writer cu de unlocked THEO metadata token khop - truong hop
+    # sentinel da bi xoa boi nguoi khac nhung metadata van token cu
+    wA2c = make_fixture(head_seq=['abc123', 'abc123'])
+    rqA2c = load_rq(wA2c)
+    rel_c = rqA2c.acquire_atomic_lock('refill-c', 'abc123')
+    os.remove(rqA2c.LOCK_SENTINEL)  # mo phong crash da xoa sentinel
+    rel_c()
+    l = json.load(open(rqA2c.LOCK_JSON, encoding='utf-8')).get('locked')
+    record('A2c. sentinel mat + token khop metadata: de unlocked dung',
+           l is False)
+
     # ============ PRODUCTION STATE KHONG DOI ============
     real_before = tree_hash(os.path.join(ROOT, 'data'))
     run(wA, ['--verify'])

@@ -452,38 +452,107 @@ def git_head():
         return None
 
 
+def _write_json_atomic(path, obj):
+    """Ghi JSON an toan: ghi file .tmp roi os.replace (atomic rename).
+    Khong bao gio de writer-lock.json o trang thai nua chua (truncate)."""
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8') as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, path)
+
+
 def acquire_atomic_lock(holder, start_head):
     """Khoa ghi ATOMIC theo hop dong production (O_CREAT|O_EXCL sentinel,
     giong publish-gate.py): hai writer KHONG THE cung tao sentinel -> khong
-    race. Thanh cong: ghi metadata writer-lock.json, tra ve release().
-    FileExistsError: khoa dang bi giu."""
+    race. Thanh cong: ghi metadata writer-lock.json, tra ve release callback
+    (KHONG goi). FileExistsError: khoa dang bi giu.
+
+    OWNERSHIP TOKEN: noi dung sentinel = "<token>" (uuid). release chi
+    thao sentinel khi noi dung dung token cua minh -> writer cu khong the
+    xoa khoa / de unlocked de len lock metadata cua writer moi (A2).
+
+    A1 - PARTIAL FAILURE: neu bat cuoc nao fail SAU khi tao sentinel nhung
+    TRUOC khi lock hoan tat (ghi metadata loi), cleanup an toan: xoa
+    sentinel (dung la cua tien trinh nay vua tao) + tra writer-lock.json
+    ve unlocked nhat quan, roi moi re exception."""
+    import uuid
+    token = uuid.uuid4().hex
     fd = os.open(LOCK_SENTINEL,
                  os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o644)
-    os.write(fd, ('%s %s' % (holder, now_iso())).encode('utf-8'))
-    os.close(fd)
-    # dong bo writer-lock.json cho cong cu khac (khong lam dieu kien race)
-    json.dump({'locked': True, 'holder': holder, 'action': 'refill',
-               'acquired_at': now_iso(), 'expires_at': None,
-               'updated_at': now_iso(), 'start_head': start_head,
-               'pid': os.getpid(),
-               'note': 'Sentinel that: data/state/writer-lock.active (O_EXCL).'},
-              open(LOCK_JSON, 'w', encoding='utf-8'),
-              ensure_ascii=False, indent=2)
-
-    def release():
+    # A1: tu sau diem nay, moi loi phai cleanup sentinel + metadata
+    try:
+        os.write(fd, token.encode('utf-8'))
+        os.close(fd)
+    except Exception:
+        try:
+            os.close(fd)
+        except OSError:
+            pass
+        try:
+            os.remove(LOCK_SENTINEL)  # sentinel do chinh tien trinh nay tao
+        except FileNotFoundError:
+            pass
+        _write_json_atomic(LOCK_JSON, {
+            'locked': False, 'holder': None, 'action': None,
+            'acquired_at': None, 'expires_at': None,
+            'updated_at': now_iso(), 'start_head': None, 'pid': None,
+            'note': 'Lock acquire that bai giua chung — cleanup A1.'})
+        raise
+    try:
+        _write_json_atomic(LOCK_JSON, {
+            'locked': True, 'holder': holder, 'action': 'refill',
+            'acquired_at': now_iso(), 'expires_at': None,
+            'updated_at': now_iso(), 'start_head': start_head,
+            'pid': os.getpid(), 'token': token,
+            'note': 'Sentinel that: data/state/writer-lock.active (O_EXCL).'})
+    except Exception:
+        # A1: metadata fail -> xoa sentinel cua chinh minh + tra ve nhat quan
         try:
             os.remove(LOCK_SENTINEL)
         except FileNotFoundError:
             pass
-        json.dump({'locked': False, 'holder': None, 'action': None,
-                   'acquired_at': None, 'expires_at': None,
-                   'updated_at': now_iso(), 'start_head': None,
-                   'pid': None,
-                   'note': 'Lock phai duoc giu trong suot mot chunk va nha '
-                           'khi checkpoint an toan. Khong bao gio chay hai '
-                           'writer song song.'},
-                  open(LOCK_JSON, 'w', encoding='utf-8'),
-                  ensure_ascii=False, indent=2)
+        _write_json_atomic(LOCK_JSON, {
+            'locked': False, 'holder': None, 'action': None,
+            'acquired_at': None, 'expires_at': None,
+            'updated_at': now_iso(), 'start_head': None, 'pid': None,
+            'note': 'Lock acquire that bai giua chung — cleanup A1.'})
+        raise
+
+    def release():
+        """A2: chi thao lock khi token trong sentinel DUNG token cua minh.
+        Neu sentinel da khong con hoac token khac (lock cua writer moi),
+        KHONG xoa va KHONG de locked=false de metadata writer moi."""
+        try:
+            with open(LOCK_SENTINEL, encoding='utf-8') as f:
+                cur = f.read().strip()
+        except FileNotFoundError:
+            # sentinel da di: hoac ta da release, hoac writer khac da thao.
+            # KIEM TRA token metadata de quyet dinh co de unlocked khong:
+            try:
+                meta = json.load(open(LOCK_JSON, encoding='utf-8'))
+            except FileNotFoundError:
+                return
+            if meta.get('token') == token:
+                _write_json_atomic(LOCK_JSON, {
+                    'locked': False, 'holder': None, 'action': None,
+                    'acquired_at': None, 'expires_at': None,
+                    'updated_at': now_iso(), 'start_head': None,
+                    'pid': None, 'note': 'Lock da duoc release (sentinel '
+                            'khong con, token khop).'})
+            return
+        if cur != token:
+            # sentinel thuoc writer KHAC -> khong tho, khong sua metadata
+            return
+        os.remove(LOCK_SENTINEL)
+        _write_json_atomic(LOCK_JSON, {
+            'locked': False, 'holder': None, 'action': None,
+            'acquired_at': None, 'expires_at': None,
+            'updated_at': now_iso(), 'start_head': None, 'pid': None,
+            'note': 'Lock phai duoc giu trong suot mot chunk va nha khi '
+                    'checkpoint an toan. Khong bao gio chay hai writer '
+                    'song song.'})
     # TRA VE CALLBACK (KHONG GOI): release chi duoc goi trong finally
     # cua mode_refill. Neu goi release() tai day, khoa se bi nha ngay
     # khi acquire xong va section duoc bao ve chay KHONG giu khoa

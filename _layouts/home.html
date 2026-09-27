@@ -124,27 +124,14 @@ description: "{{ site.description }}"
   </div>
 </section>
 
-<!-- Blog Categories -->
+<!-- Blog Topics (card theo nhom cha, so bai that tu factory-map) -->
 <section class="section categories-section bg-light">
   <div class="container">
     <h2>Các chủ đề blog</h2>
-    
-    <div class="categories-grid">
-      {% assign nav = site.data.navigation.main %}
-      {% for item in nav %}
-        {% if item.id == 'blog' %}
-          {% for child in item.children %}
-          <a href="{{ child.url | relative_url }}" class="category-card glass-card">
-            <h3>{{ child.name }}</h3>
-            <p>
-              {% assign category = child.name %}
-              {% assign category_posts = vi_posts | where: "categories", category %}
-              {{ category_posts.size }} bài viết
-            </p>
-          </a>
-          {% endfor %}
-        {% endif %}
-      {% endfor %}
+    <p class="section-description">Cẩm nang được tổ chức theo nhóm chủ đề. Số bài hiển thị là số bài đã xuất bản thật.</p>
+    {% include topic-directory.html open=false %}
+    <div class="text-center mt-4">
+      <a href="{{ '/chu-de/' | relative_url }}" class="btn btn-outline">Xem tất cả chủ đề</a>
     </div>
   </div>
 </section>
@@ -153,22 +140,34 @@ description: "{{ site.description }}"
 <section class="section pricing-preview">
   <div class="container">
     <h2>Bảng giá</h2>
-    <p>Tham khảo bảng giá các loại xe:</p>
-    
+    <p class="section-description">Tham khảo bảng giá theo từng loại xe. Giá thuê cụ thể được xác nhận khi liên hệ.</p>
+
     <div class="pricing-grid">
       {% assign nav = site.data.navigation.main %}
       {% for item in nav %}
         {% if item.id == 'pricing' %}
           {% for child in item.children %}
-          <a href="{{ child.url | relative_url }}" class="pricing-card glass-card">
-            <h3>{{ child.name }}</h3>
-            <p>Xem chi tiết</p>
-          </a>
+            {% assign vt = business.vehicle_types | where: "name", child.name | first %}
+            <a href="{{ child.url | relative_url }}" class="pricing-card glass-card">
+              <span class="pricing-card__icon">
+                {% include icon.html name=child.icon size="26" %}
+              </span>
+              <span class="pricing-card__body">
+                <span class="pricing-card__title">{{ child.name }}</span>
+                {% if vt and vt.description %}
+                <span class="pricing-card__desc">{{ vt.description | truncatewords: 14 }}</span>
+                {% endif %}
+                <span class="pricing-card__cta">Xem bảng giá</span>
+              </span>
+              <span class="pricing-card__chevron" aria-hidden="true">
+                {% include icon.html name="chevron-right" size="18" %}
+              </span>
+            </a>
           {% endfor %}
         {% endif %}
       {% endfor %}
     </div>
-    
+
     <div class="text-center mt-4">
       <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem toàn bộ bảng giá</a>
     </div>

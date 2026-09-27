@@ -176,3 +176,13 @@ button:focus {
 
 .flex { display: flex; }
 .grid { display: grid; }
+/* Floating launchers (phone trái, trợ lý phải) không che nội dung cuối trang */
+@media (max-width: 767px) {
+  body {
+    scroll-padding-bottom: calc(76px + env(safe-area-inset-bottom, 0px));
+  }
+
+  .site-footer {
+    padding-bottom: calc(76px + env(safe-area-inset-bottom, 0px));
+  }
+}

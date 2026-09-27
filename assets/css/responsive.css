@@ -357,15 +357,21 @@
     width: 100%;
   }
   
-  /* Assistant */
+  /* Assistant — pill gọn trên mobile, chừa safe-area, không che CTA */
   .assistant-toggle {
-    bottom: 20px;
-    width: 54px;
-    height: 54px;
+    bottom: calc(16px + env(safe-area-inset-bottom, 0px));
+    right: max(16px, env(safe-area-inset-right, 0px));
+    height: 44px;
+    padding: 0 14px 0 12px;
+    gap: 6px;
+  }
+
+  .assistant-toggle__label {
+    font-size: var(--font-size-xs);
   }
   
   .assistant-panel {
-    bottom: 20px;
+    bottom: calc(72px + env(safe-area-inset-bottom, 0px));
     right: 10px;
     left: 10px;
     width: auto;
