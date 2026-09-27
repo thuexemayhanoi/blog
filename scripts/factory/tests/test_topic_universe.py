@@ -173,9 +173,19 @@ check(n_exp > 0, 'seed có hàng mở rộng được ghi nhận: %d' % n_exp)
 
 # --- 6. kế hoạch lô + schema v2
 planned = [r for r in matrix1 if r['status'] == 'PLANNED']
-ok_batch = all(r['batch_id'] == 'B%03d' % (i // 50 + 1)
-               for i, r in enumerate(planned))
-check(ok_batch, 'batch_id nhóm đúng 50 hàng PLANNED theo thứ tự id')
+# batch_id là số lô cố định theo hàng (idempotent): hàng PLANNED đã có lô
+# KHÔNG bị đánh lại khi hàng khác rời PLANNED (WRITING/QA/PASS/PUBLISHED).
+old_plan = {r['id']: r['batch_id'] for r in matrix0
+            if r['status'] == 'PLANNED' and r.get('batch_id')}
+stable = all(r['batch_id'] == old_plan[r['id']]
+             for r in planned if r['id'] in old_plan)
+check(stable, 'batch_id hàng PLANNED giữ nguyên khi tái sinh (idempotent theo hàng)')
+ok_fmt = all(re.match(r'^B\d{3}$', r['batch_id'] or '') for r in planned)
+check(ok_fmt, 'mọi hàng PLANNED có batch_id hợp lệ Bxxx')
+new_rows = [r for r in planned if r['id'] not in old_plan]
+new_nums = [int(r['batch_id'][1:]) for r in new_rows]
+ok_seq = all(new_nums[i] <= new_nums[i + 1] for i in range(len(new_nums) - 1))
+check(ok_seq, 'batch_id hàng PLANNED mới không giảm theo thứ tự id (không đan xen)')
 missing = [r['id'] for r in planned
            if not all(r[c].strip() for c in ('slug', 'search_intent', 'parent_hub',
                                              'child_cluster', 'cannibalization_key',

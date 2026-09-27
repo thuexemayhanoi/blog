@@ -267,6 +267,12 @@ def main():
             o = old_rows.get(r['id'])
             if o is None:
                 continue
+            # batch_id đã gán của hàng PLANNED cũng được giữ nguyên: đánh số
+            # lô theo "50 hàng PLANNED kế tiếp" bị trôi khi hàng rời PLANNED
+            # (WRITING/QA/PASS/PUBLISHED) — làm mất tính idempotent. batch_id
+            # là số lô cố định theo hàng, không đánh lại.
+            if o.get('batch_id'):
+                r['batch_id'] = o['batch_id']
             if o['status'] not in ('PLANNED',):
                 for k in ('status', 'expected_url', 'output_path', 'canonical_url', 'batch', 'batch_id', 'repair_count', 'published_date', 'published_commit_sha', 'notes'):
                     r[k] = o.get(k, r[k])   # cột v2 cũ có thể thiếu: giữ giá trị sinh mới
@@ -283,9 +289,19 @@ def main():
     # ---- kế hoạch lô (batch plan): nhóm 50 hàng PLANNED theo thứ tự id, B001...
     # hàng đã có batch_id runtime (WRITING/QA/PASS/PUBLISHED...) giữ nguyên.
     planned_seq = [r for r in rows if r['status'] == 'PLANNED']
-    for i, r in enumerate(planned_seq):
+    # hàng mới (chưa có batch_id) được đánh lô TIẾP THEO sau lô lớn nhất đã
+    # tồn tại — không tái sử dụng số lô của hàng runtime giữ nguyên.
+    have = set()
+    for r in rows:
+        bm = re.match(r'^B(\d+)$', r['batch_id'] or '')
+        if bm:
+            have.add(int(bm.group(1)))
+    base = max(have) if have else 0
+    n_new = 0
+    for r in planned_seq:
         if not r['batch_id']:
-            r['batch_id'] = 'B%03d' % (i // 50 + 1)
+            r['batch_id'] = 'B%03d' % (base + n_new // 50 + 1)
+            n_new += 1
 
     with open(OUT_PATH, 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=fields)

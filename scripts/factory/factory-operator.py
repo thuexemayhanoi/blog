@@ -573,13 +573,20 @@ def op_qa(args, biz, tax):
 def run_reports():
     """Sinh lại reports/factory chuẩn từ dữ liệu thật (deterministic).
     Bắt buộc sau mọi op đổi state để reports committed không lệch CI
-    (factory-validate đối chiếu stable fields)."""
+    (factory-validate đối chiếu stable fields). Kèm generate-matrix.py:
+    script idempotent, sinh lại matrix-report.md khớp đếm trạng thái
+    hiện tại (PLANNED/PASS/PUBLISHED) — không đụng dữ liệu hàng."""
     r = subprocess.run([sys.executable, 'scripts/factory/generate-reports.py'],
                        capture_output=True, text=True)
     print(r.stdout[-600:])
     if r.returncode != 0:
         print(r.stderr[-600:])
-    return r.returncode
+    m = subprocess.run([sys.executable, 'scripts/factory/generate-matrix.py'],
+                       capture_output=True, text=True)
+    print(m.stdout[-400:])
+    if m.returncode != 0:
+        print(m.stderr[-600:])
+    return r.returncode or m.returncode
 
 
 def op_status(args):
@@ -685,9 +692,8 @@ def op_publish(args):
                   'KHÔNG nhận hàng mới. Resume: qa -> publish lại.' % aid)
             return 1
         ok_ids.append(aid)
-    # sau promote: sinh reports + verify chuẩn
-    subprocess.run([sys.executable, 'scripts/factory/generate-reports.py'],
-                   check=True)
+    # sau promote: sinh reports (kèm matrix-report) + verify chuẩn
+    run_reports()
     v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
                        capture_output=True, text=True)
     print(v.stdout[-1500:])

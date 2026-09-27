@@ -329,6 +329,20 @@ def main():
             w.writeheader()
             w.writerows(rows)
 
+        # ---- đồng bộ bằng chứng QA sau promote (gate là chủ sở hữu của
+        # chuyển tiếp WRITING/PASS -> PUBLISHED): hàng matrix được chốt
+        # {date} thật và nguồn chuyển _drafts -> _posts, nên vân tay hàng
+        # và source_path trong bằng chứng phải được làm mới cùng lúc.
+        # Nội dung bài không đổi khi move -> content_sha256 giữ nguyên.
+        qap = os.path.join(QA_DIR, aid + '.json')
+        if os.path.exists(qap):
+            qev = json.load(open(qap, encoding='utf-8'))
+            qev['source_path'] = dest
+            qev['matrix_row_sha256'] = matrix_row_sha256(
+                next(r for r in rows if r['id'] == aid))
+            qev['published_at'] = now_iso()
+            _write_json_atomic(qap, qev)
+
         cp = json.load(open(CP, encoding='utf-8'))
         planned_left = [r['id'] for r in rows if r['status'] == 'PLANNED']
         cp['last_completed_article_id'] = aid
