@@ -1,7 +1,8 @@
 name: Factory capacity validate
 
 # Kiem chu mo hinh nang luc 10K + queue layer + refill ledger.
-# Read-only: khong ghi, khong deploy. Script chi exit 0/1.
+# Refill verify ghi bao cao deterministic; neu bao cao doi thi CI
+# commit lai (commit-if-diff) de operator doc duoc ket qua.
 
 on:
   push:
@@ -10,7 +11,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: factory-capacity-report
+  cancel-in-progress: false
 
 jobs:
   capacity:
@@ -32,8 +37,37 @@ jobs:
       - name: Queue stats (view over matrix)
         run: python3 scripts/factory/queue.py --stats
 
-      - name: Refill ledger verify (smoke test gates G1-G7)
-        run: python3 scripts/factory/refill-queue.py --verify
+      - name: Refill ledger verify (writes deterministic report)
+        run: |
+          set +e
+          python3 scripts/factory/refill-queue.py --verify
+          code=$?
+          echo "verify_exit=$code" >> "$GITHUB_ENV"
+          exit 0
+
+      - name: Commit verify report if changed
+        run: |
+          git config user.name "factory-capacity-bot"
+          git config user.email \
+            "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/factory/refill-verify.md
+          if git diff --cached --quiet; then
+            echo "report khong doi - khong commit"
+            exit 0
+          fi
+          git commit -m "ci: refill verify report (deterministic)"
+          git push origin HEAD:main || \
+            (git pull --rebase origin main \
+             && git push origin HEAD:main)
+
+      - name: Verify must pass
+        run: |
+          if [ "$verify_exit" != "0" ]; then
+            echo "FAIL: refill gate violations - xem \
+reports/factory/refill-verify.md"
+            exit 1
+          fi
+          echo "OK: refill gates PASS"
 
       - name: Sitemap 10K plan
         run: python3 scripts/factory/sitemap-plan.py
