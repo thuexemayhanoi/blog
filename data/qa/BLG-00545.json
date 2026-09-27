@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xang-khi-nhan-va-khi-tra-xe-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-27-xang-khi-nhan-va-khi-tra-xe-xu-ly-the-nao.md",
   "content_sha256": "9d967b6f14b8a588aec6908611c5e8eb323e767673bd32bf52d3348fbd882a48",
-  "matrix_row_sha256": "6dd5a728d6072975758dd795271f477afc2f5bd8851a95c41dc93c54a60377ff",
-  "result": "PASS"
+  "matrix_row_sha256": "4adbddb8d974ad9ed68056dc8e20311c279f7f44228784208a96bf09c696facd",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:38:06+00:00"
 }

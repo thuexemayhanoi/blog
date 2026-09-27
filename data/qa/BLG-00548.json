@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang.md",
+  "source_path": "_posts/2026-09-27-checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang.md",
   "content_sha256": "62b0601a14461ee95089329b14c3035c0359358c255c5dc463d6b90de3ad5fbc",
-  "matrix_row_sha256": "401a97720acbe93451657a458319b8a80b73723cbd9f2ddc19289f6bdc618232",
-  "result": "PASS"
+  "matrix_row_sha256": "19034b88f875299d21a60390e1e8f993ed96e9b5861bcd7b58d988f0666d05cc",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:38:07+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung.md",
+  "source_path": "_posts/2026-09-27-ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung.md",
   "content_sha256": "34fe7e3190fe781206118ee2bec57718473f9c53395610abc8c5b5ce02c01fab",
-  "matrix_row_sha256": "384b719f029b4fcd1009d498d71d3ba9b8b4816f457d591bad2e270ca7e423b8",
-  "result": "PASS"
+  "matrix_row_sha256": "81dcaedd53345ff6b61b14e86bb6a8a21e22ce2f6d011fd9c063ee357f92704b",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:38:06+00:00"
 }

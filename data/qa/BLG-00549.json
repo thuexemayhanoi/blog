@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi.md",
+  "source_path": "_posts/2026-09-27-tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi.md",
   "content_sha256": "136a965849013ff1814ea41cbdc5491c9b454e467b7eb97853fd8307fce4294d",
-  "matrix_row_sha256": "a7934137db0a507ab3684e04794519333205ed72459f0112ba9effd0bdab6bc8",
-  "result": "PASS"
+  "matrix_row_sha256": "3a1fb8a0e2123be3d68b6b2fdfb993eba94443e710461ac9c06c2d0280b357be",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:38:07+00:00"
 }
