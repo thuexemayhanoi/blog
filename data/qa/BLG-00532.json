@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi.md",
+  "source_path": "_posts/2026-09-27-at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi.md",
   "content_sha256": "7a51efde6deab5d1c192d3e6c06ab3f05f6e7b80266d231026e27ed4e57a4ec2",
-  "matrix_row_sha256": "eddb5d274dfd5b2639a27879024d720efb32ac4ac386c9b97cab002831c27a8a",
-  "result": "PASS"
+  "matrix_row_sha256": "1b5715d117fc465fbbf59d2fb9116131e651c1ca8b197b8e3b4386ceff515e3f",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

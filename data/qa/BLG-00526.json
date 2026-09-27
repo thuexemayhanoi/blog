@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-thang-cho-khach-nuoc-ngoai-song-o-ha-noi.md",
+  "source_path": "_posts/2026-09-27-thue-xe-thang-cho-khach-nuoc-ngoai-song-o-ha-noi.md",
   "content_sha256": "51f174b841251a6aae1affa621606ed78c58605fc83f7ced958bdb2da0963652",
-  "matrix_row_sha256": "029148f806babcc4fec0a67518fc83db0a73c0290605caaaba66506ef2d0a203",
-  "result": "PASS"
+  "matrix_row_sha256": "d3b605119e205b39f240a34f71f01bfdced95fe396f4cde81c8912bc7dc30476",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nhan-lai-tien-coc-khi-tra-xe-ieu-kien-thuong-gap.md",
+  "source_path": "_posts/2026-09-27-nhan-lai-tien-coc-khi-tra-xe-ieu-kien-thuong-gap.md",
   "content_sha256": "f8c46812ab3be016e721eeea54946f8b01bfe0a0dad5a895c2ea5f3ea7b89cf6",
-  "matrix_row_sha256": "d97c375d0c15b93da95099671e7137002f3c89733243f03192b819c3153cecf6",
-  "result": "PASS"
+  "matrix_row_sha256": "ea728b526ac2658ab520b2b3efe9052dbbce682231094963b2eea057ea9c391e",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

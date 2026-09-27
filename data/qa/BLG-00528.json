@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-giu-giay-to-thay-at-coc-nen-hay-khong.md",
+  "source_path": "_posts/2026-09-27-giu-giay-to-thay-at-coc-nen-hay-khong.md",
   "content_sha256": "d8200f58dbf2a83afa957ca19c84bfbe36e3df77bca4562d1a94396a89f9d3b0",
-  "matrix_row_sha256": "14c9c44818974212bc49da99e6d32995c306996893136ba3e707d9c927059697",
-  "result": "PASS"
+  "matrix_row_sha256": "e5a3e48e3207d4f1cfd41505ac78d4826f0252f2aafcf9bd87437bbcfee3a5a1",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

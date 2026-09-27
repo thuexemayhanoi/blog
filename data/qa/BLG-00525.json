@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-gia-han-hop-ong-thue-xe-theo-thang.md",
+  "source_path": "_posts/2026-09-27-gia-han-hop-ong-thue-xe-theo-thang.md",
   "content_sha256": "4391af8c87c19fbcefe15313221aeeb79a4d1b89b919b87c22e7cf938e9ccf7e",
-  "matrix_row_sha256": "d5e2f03964fd63e4d895968bf23035b8722816b87fe5204b06a9ff7564756114",
-  "result": "PASS"
+  "matrix_row_sha256": "37f03836fc9b353449fdde48427c5c2dec56ab530f18caa5a7489d8809cd72c7",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

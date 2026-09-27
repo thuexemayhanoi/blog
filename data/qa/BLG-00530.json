@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-tranh-chap-ve-coc-nen-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-27-tranh-chap-ve-coc-nen-xu-ly-the-nao.md",
   "content_sha256": "d13ad792c5f799816f0fc5c191aca4b829a5ed7400e0bf023fa691783c1e4978",
-  "matrix_row_sha256": "5471de5cde73b8746aa03e6f9d2441cd591e31079d0773d786b797e0e45cd81d",
-  "result": "PASS"
+  "matrix_row_sha256": "923114e7655755a6e337b8abab5caf2d3af87069d1530f4ea99eae7105a4189d",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-at-coc-bang-chuyen-khoan-hay-tien-mat.md",
+  "source_path": "_posts/2026-09-27-at-coc-bang-chuyen-khoan-hay-tien-mat.md",
   "content_sha256": "677a63858765755a7b563ab97472c005da557092c2f14da94466e443e0f2a8e3",
-  "matrix_row_sha256": "fcdeab16daeb168757172868d27ae08a2d672191a7931a5ac7293a8c7a53a3bb",
-  "result": "PASS"
+  "matrix_row_sha256": "18d935f2c6fd69953ce741dc6889ef76c19ccf5681db267a383fd2705ae708f4",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

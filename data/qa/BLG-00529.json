@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-ieu-kien-nhan-lai-tien-coc-u.md",
+  "source_path": "_posts/2026-09-27-ieu-kien-nhan-lai-tien-coc-u.md",
   "content_sha256": "293c6963308ab58ab67e5d611d92aeab235253ad2b73e26d1d8bc4f6ad5ec4a6",
-  "matrix_row_sha256": "d13bc1bc7313c0b5d15b4cd45bd921805f8937a116a1cdfc9884e29869bed8bf",
-  "result": "PASS"
+  "matrix_row_sha256": "7b6ac83a2171a06e51006c8a994690ab386b799c1ec710b79840bd65f886d5e9",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }

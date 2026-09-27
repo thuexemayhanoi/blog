@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi.md",
+  "source_path": "_posts/2026-09-27-nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi.md",
   "content_sha256": "041131e0e9a484c567b1d966b9c9f74a0e2f4d539f403e0af206333ef8521a02",
-  "matrix_row_sha256": "067f912b47c6d975eabfd447a63d12e9380473f52257eafa0035f493f1ad9e2e",
-  "result": "PASS"
+  "matrix_row_sha256": "c8afb9126049624e054c6655e06f4f67082817a097c3f2b2618266a6d745d9b0",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:04+00:00"
 }

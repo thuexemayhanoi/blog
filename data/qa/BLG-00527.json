@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-at-coc-khi-thue-xe-may-hoat-ong-the-nao.md",
+  "source_path": "_posts/2026-09-27-at-coc-khi-thue-xe-may-hoat-ong-the-nao.md",
   "content_sha256": "a6f2b05a78f273bb2287c8dcae0caf9730a3e4ceadc950d0f56ab669a7c8c2b0",
-  "matrix_row_sha256": "121989738d4aa41dee25122769723a0548ecd1b6e7c4a65aa9d579b87aabde4c",
-  "result": "PASS"
+  "matrix_row_sha256": "edfa09871ba65334b8b3ba59f1f22aac58d200629053299dc5c1dc12236f2252",
+  "result": "PASS",
+  "published_at": "2026-09-27T18:42:03+00:00"
 }
