@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00527",
   "title": "Đặt cọc khi thuê xe máy hoạt động thế nào",
-  "scored_at": "2026-09-27T18:10:02+00:00",
+  "scored_at": "2026-09-27T18:11:10+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,11 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1038,
+  "word_count": 1039,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/thue-xe/2026/09/27/giu-giay-to-thay-at-coc-nen-hay-khong/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -41,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-at-coc-khi-thue-xe-may-hoat-ong-the-nao.md",
-  "content_sha256": "25d9923cb50d5c736f26406ae010ae238506b04cce718ae51debeb488ca7622c",
+  "content_sha256": "a6f2b05a78f273bb2287c8dcae0caf9730a3e4ceadc950d0f56ab669a7c8c2b0",
   "matrix_row_sha256": "121989738d4aa41dee25122769723a0548ecd1b6e7c4a65aa9d579b87aabde4c",
-  "result": "REPAIR"
+  "result": "PASS"
 }

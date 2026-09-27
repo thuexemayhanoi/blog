@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00528",
   "title": "Giữ giấy tờ thay đặt cọc: nên hay không",
-  "scored_at": "2026-09-27T18:10:02+00:00",
+  "scored_at": "2026-09-27T18:11:10+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,11 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1030,
+  "word_count": 1029,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -41,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-giu-giay-to-thay-at-coc-nen-hay-khong.md",
-  "content_sha256": "72884682f4852a08886e8c2278c35cf3334c34b07c6ef0200b87fe2891f46e9e",
+  "content_sha256": "d8200f58dbf2a83afa957ca19c84bfbe36e3df77bca4562d1a94396a89f9d3b0",
   "matrix_row_sha256": "14c9c44818974212bc49da99e6d32995c306996893136ba3e707d9c927059697",
-  "result": "REPAIR"
+  "result": "PASS"
 }

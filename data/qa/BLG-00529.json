@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00529",
   "title": "Điều kiện nhận lại tiền cọc đủ",
-  "scored_at": "2026-09-27T18:10:02+00:00",
+  "scored_at": "2026-09-27T18:11:10+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,11 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1030,
+  "word_count": 1034,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -41,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-27-ieu-kien-nhan-lai-tien-coc-u.md",
-  "content_sha256": "d4f26e0a95b7cc032670cffb370ebff1209f908d70b5bdd3a12a47cc236068f6",
+  "content_sha256": "293c6963308ab58ab67e5d611d92aeab235253ad2b73e26d1d8bc4f6ad5ec4a6",
   "matrix_row_sha256": "d13bc1bc7313c0b5d15b4cd45bd921805f8937a116a1cdfc9884e29869bed8bf",
-  "result": "REPAIR"
+  "result": "PASS"
 }
