@@ -35,7 +35,7 @@ Giá thuê tuần thường rẻ hơn tiền ngày nhân bảy, vì khách thuê
 
 Thuê tuần là mối quan hệ dài hơn, nên lúc nhận xe cần chốt kỹ hơn thuê ngày. Thứ nhất, cách tính tuần: tính theo bảy ngày lịch hay hai mươi tư tiếng nhân bảy, và trả sớm có điều chỉnh không. Thứ hai, trách nhiệm bảo dưỡng giữa kỳ: xe chạy cả tuần có thể tới lượt căng xích, thay nhớt, nên hỏi rõ ai chịu phần này và ở đâu. Thứ ba, trường hợp hỏng hóc giữa tuần: quy trình báo, thời gian xử lý, có xe thay thế không. Thứ tư, giờ nhận và trả xe trong phạm vi khung 09:00 đến 21:00.
 
-Với bất kỳ kỳ thuê nào, hãy kiểm tra xe kỹ trước khi ký nhận. Hướng dẫn [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) liệt kê từng chi tiết cần soi, từ vết xước sẵn có đến cốp và đèn xi nhan, và các bước đó càng quan trọng hơn khi bạn sẽ giữ xe suốt bảy ngày.
+Với bất kỳ kỳ thuê nào, hãy kiểm tra xe kỹ trước khi ký nhận. Hướng dẫn [kiểm tra xe trước khi ký nhận](/blog/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) liệt kê từng chi tiết cần soi, từ vết xước sẵn có đến cốp và đèn xi nhan, và các bước đó càng quan trọng hơn khi bạn sẽ giữ xe suốt bảy ngày.
 
 ## So sánh nhanh với các hình thức khác
 
