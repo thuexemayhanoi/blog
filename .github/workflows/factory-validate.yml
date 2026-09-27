@@ -28,7 +28,7 @@ jobs:
 
       - name: Foundation files must match committed seeds (no drift)
         run: |
-          if [ -n "$(git status --porcelain data/ _data/factory-taxonomy.yml _data/factory-map.yml)" ]; then
+          if [ -n "$(git status --porcelain data/ _data/factory-taxonomy.yml _data/factory-map.yml _data/factory-parents.yml)" ]; then
             echo "FAIL: restore-foundation.py sinh ra khác biệt với tệp đã commit — chạy lại script và commit kết quả."
             git status --porcelain data/ _data/factory-taxonomy.yml _data/factory-map.yml
             exit 1

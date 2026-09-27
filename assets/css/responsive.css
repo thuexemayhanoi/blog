@@ -207,7 +207,7 @@
   }
   
   main {
-    padding-bottom: 80px;
+    padding-bottom: calc(96px + env(safe-area-inset-bottom, 0px));
   }
   
   @media (max-width: 359px) {
@@ -502,9 +502,9 @@ align-items: center;
   /* Phone Launcher */
   .phone-launcher {
     position: fixed;
-    bottom: 20px;
-    left: 20px;
-    z-index: 1000;
+    bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+    left: max(16px, env(safe-area-inset-left, 0px));
+    z-index: var(--z-fixed);
   }
   
   .phone-launcher__toggle {
@@ -968,5 +968,21 @@ align-items: center;
   .mobile-menu-open .mobile-menu,
   .mobile-menu-open .mobile-menu-inner {
     transition: none !important;
+  }
+}
+/* ============================================
+   TOPIC DIRECTORY — responsive
+   1 cột < 768px; 2 cột 768–1199px; 3 cột >= 1200px.
+   ============================================ */
+@media (min-width: 768px) {
+  .topic-directory {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: var(--spacing-md);
+  }
+}
+
+@media (min-width: 1200px) {
+  .topic-directory {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }

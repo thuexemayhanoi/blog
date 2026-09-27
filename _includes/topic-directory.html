@@ -1,0 +1,107 @@
+{% comment %}
+  TOPIC DIRECTORY — thành phần dùng chung cho trang /chu-de/ và các trang
+  cần danh mục chủ đề dạng card. Dữ liệu: _data/factory-taxonomy.yml (sinh từ
+  seed) + số bài đếm thật từ site.posts qua _data/factory-map.yml.
+  Không dùng số bài kế hoạch làm số đã xuất bản; chủ đề chưa có bài ghi rõ.
+  Hoạt động không cần JavaScript (details/summary + link thật trong HTML).
+{% endcomment %}
+
+<div class="topic-directory">
+  {% assign groups = "P-THUE-XE,P-XE-MAY,P-PHAP-LY,P-DU-LICH,P-CUNG-DUONG,P-KY-NANG,P-HOI-DAP" | split: ',' %}
+  {% for pid in groups %}
+
+    {% assign gp = site.data.factory-parents[pid] %}
+    {% assign g_slug = gp.s %}
+    {% assign g_title = gp.t %}
+    {% assign g_icon = nil %}
+    {% assign g_desc = nil %}
+    {% case pid %}
+      {% when 'P-THUE-XE' %}
+        {% assign g_icon = 'pricing' %}
+        {% assign g_desc = 'Giá, thủ tục, đặt cọc, thuê ngày/tuần/tháng, nhận trả xe và xử lý sự cố.' %}
+      {% when 'P-XE-MAY' %}
+        {% assign g_icon = 'sparkles' %}
+        {% assign g_desc = 'Xe số, xe ga, xe 50cc, xe điện và các mẫu Honda Wave, Vision, Air Blade, Click, Yamaha Sirius.' %}
+      {% when 'P-PHAP-LY' %}
+        {% assign g_icon = 'info' %}
+        {% assign g_desc = 'Giấy phép lái xe, bảo hiểm, nồng độ cồn, phạt nguội, biển báo và quy định giao thông.' %}
+      {% when 'P-DU-LICH' %}
+        {% assign g_icon = 'travel' %}
+        {% assign g_desc = 'Điểm đến, bảo tàng, phố cổ, Hồ Tây, Long Biên và ngoại thành Hà Nội.' %}
+      {% when 'P-CUNG-DUONG' %}
+        {% assign g_icon = 'map-pin' %}
+        {% assign g_desc = 'Lộ trình nội thành, cuối tuần, Mai Châu, Mộc Châu, Hà Giang và các tỉnh phía Bắc.' %}
+      {% when 'P-KY-NANG' %}
+        {% assign g_icon = 'pen' %}
+        {% assign g_desc = 'Kỹ năng lái, xử lý tình huống, thời tiết xấu, chở đồ, gửi xe và giữ sức khỏe.' %}
+      {% when 'P-HOI-DAP' %}
+        {% assign g_icon = 'message' %}
+        {% assign g_desc = 'Trả lời nhanh câu hỏi về giá, thủ tục, pháp lý, chọn xe, sự cố và người mới.' %}
+    {% endcase %}
+
+    {% assign g_children = 0 %}
+    {% assign g_posts = 0 %}
+    {% for pair in site.data.factory-taxonomy %}
+      {% if pair[1].p == pid %}
+        {% assign g_children = g_children | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+    {% for post in site.posts %}
+      {% assign mp = post.parent_id %}
+      {% if mp == nil %}
+        {% assign m = site.data.factory-map[post.slug] %}
+        {% if m %}{% assign mp = m.p %}{% endif %}
+      {% endif %}
+      {% if mp == pid %}{% assign g_posts = g_posts | plus: 1 %}{% endif %}
+    {% endfor %}
+
+    <details class="topic-card" open>
+      <summary class="topic-card__summary">
+        <span class="topic-card__icon">
+          {% include icon.html name=g_icon size="22" %}
+        </span>
+        <span class="topic-card__heading">
+          <span class="topic-card__title">{{ g_title }}</span>
+          <span class="topic-card__meta">{{ g_children }} chủ đề · {{ g_posts }} bài đã xuất bản</span>
+        </span>
+        <span class="topic-card__chevron" aria-hidden="true">
+          {% include icon.html name="chevron-down" size="18" %}
+        </span>
+      </summary>
+      <div class="topic-card__body">
+        <p class="topic-card__desc">{{ g_desc }}</p>
+        <div class="topic-card__rows">
+          {% for pair in site.data.factory-taxonomy %}
+            {% assign cid = pair[0] %}
+            {% assign node = pair[1] %}
+            {% if node.p == pid %}
+              {% assign cnt = 0 %}
+              {% for post in site.posts %}
+                {% assign mychild = post.child_id %}
+                {% if mychild == nil %}
+                  {% assign m = site.data.factory-map[post.slug] %}
+                  {% if m %}{% assign mychild = m.c %}{% endif %}
+                {% endif %}
+                {% if mychild == cid %}{% assign cnt = cnt | plus: 1 %}{% endif %}
+              {% endfor %}
+              <a class="topic-row" href="{{ g_slug | prepend: '/' | append: '/' | append: node.s | relative_url }}">
+                <span class="topic-row__title">{{ node.t }}</span>
+                {% if cnt > 0 %}
+                  <span class="topic-row__count">{{ cnt }} bài</span>
+                {% else %}
+                  <span class="topic-row__count topic-row__count--empty">Chưa có bài</span>
+                {% endif %}
+                <span class="topic-row__chevron" aria-hidden="true">
+                  {% include icon.html name="chevron-right" size="16" %}
+                </span>
+              </a>
+            {% endif %}
+          {% endfor %}
+        </div>
+        <a class="topic-card__all" href="{{ g_slug | prepend: '/' | append: '/' | relative_url }}">
+          Xem tất cả chủ đề trong nhóm này
+        </a>
+      </div>
+    </details>
+  {% endfor %}
+</div>

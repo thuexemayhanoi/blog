@@ -46,7 +46,8 @@ REQUIRED = [
     'scripts/factory/validate.py', 'scripts/factory/manifest.py',
     'scripts/factory/restore-foundation.py', 'scripts/factory/generate-reports.py',
     'scripts/factory/generate-matrix.py', 'scripts/factory/publish-gate.py',
-    '_data/factory-taxonomy.yml', '_data/factory-map.yml',
+    '_data/factory-taxonomy.yml', '_data/factory-map.yml', '_data/factory-parents.yml',
+    '_includes/topic-directory.html',
 ]
 for p in REQUIRED:
     if not os.path.exists(p):

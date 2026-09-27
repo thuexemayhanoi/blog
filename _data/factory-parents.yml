@@ -1,0 +1,23 @@
+# Sinh bởi scripts/factory/restore-foundation.py từ data/state/taxonomy-config.json.
+# parent_id -> s(slug), t(title). Không sửa tay.
+P-THUE-XE:
+  s: thue-xe
+  t: "Thuê xe máy Hà Nội"
+P-XE-MAY:
+  s: xe-may
+  t: "Xe máy & dòng xe"
+P-PHAP-LY:
+  s: an-toan-phap-ly
+  t: "An toàn & pháp lý"
+P-DU-LICH:
+  s: du-lich
+  t: "Du lịch Hà Nội"
+P-CUNG-DUONG:
+  s: cung-duong
+  t: "Cung đường & hành trình"
+P-KY-NANG:
+  s: ky-nang
+  t: "Kỹ năng & tình huống"
+P-HOI-DAP:
+  s: hoi-dap
+  t: "Hỏi đáp thuê xe máy"

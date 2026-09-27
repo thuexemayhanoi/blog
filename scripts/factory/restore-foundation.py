@@ -14,6 +14,7 @@ Sinh ra (idempotent, không bịa dữ liệu):
   - data/content-inventory.csv       (kiểm kê 483 bài legacy, URL giữ nguyên)
   - _data/factory-taxonomy.yml      (child_id -> parent/slug/title cho layout hub)
   - _data/factory-map.yml           (slug bài legacy -> parent/child cho layout hub)
+  - _data/factory-parents.yml       (parent_id -> slug/title cho topic-directory)
 
 LƯU Ý QUAN TRỌNG: data/content-matrix.csv KHÔNG thể khôi phục từ nguồn nào
 đã commit (không có trong lịch sử git, không có trong seed). Script này KHÔNG
@@ -150,7 +151,13 @@ with open('_data/factory-map.yml', 'w', encoding='utf-8') as f:
 print('=== RESTORE FOUNDATION ===')
 print('taxonomy: %d parent, %d child (khôi phục từ seed)' % (len(parents), len(children)))
 print('inventory: %d bài legacy, URL giữ nguyên' % len(rows))
-print('_data/factory-taxonomy.yml + _data/factory-map.yml: đã sinh')
+with open('_data/factory-parents.yml', 'w', encoding='utf-8') as f:
+    f.write('# Sinh bởi scripts/factory/restore-foundation.py từ data/state/taxonomy-config.json.\n')
+    f.write('# parent_id -> s(slug), t(title). Không sửa tay.\n')
+    for p in parents:
+        f.write('%s:\n  s: %s\n  t: "%s"\n' % (p['parent_id'], p['slug'], p['title']))
+
+print('_data/factory-taxonomy.yml + _data/factory-map.yml + _data/factory-parents.yml: đã sinh')
 if not os.path.exists('data/content-matrix.csv'):
     print('BLOCKED: data/content-matrix.csv không thể khôi phục từ nguồn đã commit — xem reports/factory/matrix-recovery-blocked.md')
 print('KẾT QUẢ: PASS')
