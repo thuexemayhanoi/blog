@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi.md",
+  "source_path": "_posts/2026-09-27-khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi.md",
   "content_sha256": "a8bda6a22c6d1ee068aebeb9d0a8d90f2731e6c00862ef0c31487b638fdcada7",
-  "matrix_row_sha256": "7a37f809e7ca7b460793e7ed41ce1622a73feffc6f20b37d23d49ca880b8291d",
-  "result": "PASS"
+  "matrix_row_sha256": "c2c6cb911bec3eb98060354acdb8f6032c4d26816b292527c49f661843bfd942",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:12+00:00"
 }

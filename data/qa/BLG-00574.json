@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-o-an-toan-cua-xe-50cc-trong-pho-ha-noi.md",
+  "source_path": "_posts/2026-09-27-o-an-toan-cua-xe-50cc-trong-pho-ha-noi.md",
   "content_sha256": "f762bfb4d7d8040ff197eab92759cab3d10f725d32bc7a61714cdffb7f0f2864",
-  "matrix_row_sha256": "4a2f6015d578ac64ef0cdf73a5fadb186fa9b01adccbee5eaa854ae8f08b1f03",
-  "result": "PASS"
+  "matrix_row_sha256": "b42a1c6e36c6550673ab4dfbfe2e7fa295827e7c5b0d7403808efe55574ae51d",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:13+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-50cc-voi-nguoi-chua-tung-lai-xe.md",
+  "source_path": "_posts/2026-09-27-xe-50cc-voi-nguoi-chua-tung-lai-xe.md",
   "content_sha256": "671220272be05b9a1bb4280041d1fd0eae6a55aee70d196bb0d83ad0a60030c9",
-  "matrix_row_sha256": "a021da12699323b31d3b3c0e69efdc420b3379cc04f43a36a21dfc70bd4c3b3d",
-  "result": "PASS"
+  "matrix_row_sha256": "362fa4625164b479fe65e9688fdbedbb77e3e76afd43e50f457031aad1e71bf5",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:13+00:00"
 }

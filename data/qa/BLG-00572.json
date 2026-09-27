@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-co-can-bang-lai-khi-i-xe-50cc-khong.md",
+  "source_path": "_posts/2026-09-27-co-can-bang-lai-khi-i-xe-50cc-khong.md",
   "content_sha256": "14e9f1ff3ab4c5bbb9c10639a99bd398210567e17d9e0799762f3113a80afb9a",
-  "matrix_row_sha256": "c3347021695411cd86534d1f02c18ccb79a22504851adb14c2cd6228e6965bcc",
-  "result": "PASS"
+  "matrix_row_sha256": "01476b222ae0b1c067d97fc7bf65536b6e7260396dddb5a114e79c0e983af3db",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:13+00:00"
 }

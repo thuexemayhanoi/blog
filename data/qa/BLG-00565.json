@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-ai-nen-thue-xe-so-va-vi-sao.md",
+  "source_path": "_posts/2026-09-27-ai-nen-thue-xe-so-va-vi-sao.md",
   "content_sha256": "7b6d925e0ebba4c55a47dd9eebcbd405efc428e7642bac8ba27fa23471c65168",
-  "matrix_row_sha256": "d8c05a2d46a09ee5e7c5031981047d814b806342009632e699ea95f2bf9c5654",
-  "result": "PASS"
+  "matrix_row_sha256": "647ea8e7bad566f31b876225e6b765375e09d38b49b7e75c4eabc3de997073df",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:12+00:00"
 }

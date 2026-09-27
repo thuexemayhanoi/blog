@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-lai-xe-ga-trong-pho-ong-meo-giu-an-toan.md",
+  "source_path": "_posts/2026-09-27-lai-xe-ga-trong-pho-ong-meo-giu-an-toan.md",
   "content_sha256": "e98329a5aa155edf41646aab9c63e238db1f3914475a35a5090d14c284188565",
-  "matrix_row_sha256": "15bdc535c6bbbd9d06761002024c83583e353c84135d4c6dcb5645816743b4de",
-  "result": "PASS"
+  "matrix_row_sha256": "971db976fc64e83e6f31e905c0ac44d8bb126f8889272b0e62d896ad6b94bf73",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:12+00:00"
 }

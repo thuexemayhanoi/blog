@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-ga-va-xe-so-tren-uong-truong-khac-biet-ra-sao.md",
+  "source_path": "_posts/2026-09-27-xe-ga-va-xe-so-tren-uong-truong-khac-biet-ra-sao.md",
   "content_sha256": "b527dd82be7d2d99433f6fb883837f0c44b41c317c28ca38eb5dfa49eec7057e",
-  "matrix_row_sha256": "8053c6ff7fc3760c608d35a049c3dd7e87413d3177d6da7f17de88327f6405e2",
-  "result": "PASS"
+  "matrix_row_sha256": "6829f05cd345ef02800f54ef0eebdf8005aeeb7d7f0c1717fcf6e7dbc1c0acd2",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:13+00:00"
 }

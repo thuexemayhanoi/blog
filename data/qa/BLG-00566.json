@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-tay-ga-phu-hop-voi-ai-khi-thue.md",
+  "source_path": "_posts/2026-09-27-xe-tay-ga-phu-hop-voi-ai-khi-thue.md",
   "content_sha256": "24d73efdc7136dc97e6ca1c4e89b09f58d9106e12939a60aa36062e937838e58",
-  "matrix_row_sha256": "8ff8d907a6bd4edc71827233e1b1c6b97f8237fd6905d01924fa13c1fb125fe6",
-  "result": "PASS"
+  "matrix_row_sha256": "bcffc3105a97ae05129e5a17e0ddd269bd896883237a2e89e1c7a1298b023d5a",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:08:12+00:00"
 }
