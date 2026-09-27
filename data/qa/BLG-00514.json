@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thoi-gian-tinh-mot-ngay-thue-xe-tinh-tu-khi-nao.md",
+  "source_path": "_posts/2026-09-27-thoi-gian-tinh-mot-ngay-thue-xe-tinh-tu-khi-nao.md",
   "content_sha256": "dab6180d17272fa2017ac3f8601f3b5af9ae815aad35295465d7faac3d585381",
-  "matrix_row_sha256": "6db73b2366646ff0307833ad8eb88684617346ceefe49eeb79e9015e84054609",
-  "result": "PASS"
+  "matrix_row_sha256": "717f07aa6c4327c6917972394f38499645715d38fbe8339fd7020f2907057c9f",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:36:00+00:00"
 }

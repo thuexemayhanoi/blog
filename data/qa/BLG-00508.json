@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-bao-luu-va-oi-lich-nhan-xe.md",
+  "source_path": "_posts/2026-09-27-bao-luu-va-oi-lich-nhan-xe.md",
   "content_sha256": "e7ba522165e63933a099fad7a8c29a99a28ef7b656adb410e48e8adaef65bab9",
-  "matrix_row_sha256": "9fd054631c420f5be2ba8695cc2c713d8b458492efecb4ebb407d475ae9f089b",
-  "result": "PASS"
+  "matrix_row_sha256": "091f677879e1e0fe032423695a4000872b4ac4c0e8038b38631d3b7559fda578",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

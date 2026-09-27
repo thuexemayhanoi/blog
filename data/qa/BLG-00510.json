@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe.md",
+  "source_path": "_posts/2026-09-27-chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe.md",
   "content_sha256": "63828c60fe9ba802ca000ea502315a8bef72c43e82e1c50a319f41469e3950de",
-  "matrix_row_sha256": "9cfa240282efc2c49595d92f96eb5351fd3b5815163a4a6aab02712e2e6221f8",
-  "result": "PASS"
+  "matrix_row_sha256": "3fde62e7410d72c9ef7ee760c7a34ddac2f3ffe588a44751a3bb4ecf144a80f6",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

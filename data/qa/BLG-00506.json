@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng.md",
+  "source_path": "_posts/2026-09-27-thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng.md",
   "content_sha256": "6427d2464c28c431049d7bf8def9cd61084f14406b223411de376635b6474956",
-  "matrix_row_sha256": "36e95e4da720b73db397dfa9ff8d11eeab1df5b38096f31c9566e5ecb2c1e21a",
-  "result": "PASS"
+  "matrix_row_sha256": "9a641ef5e502e2694da5bec763cab24f4fa8cdb4fb6024ab7011984a5ead8a0f",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

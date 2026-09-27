@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-quy-trinh-at-xe-truoc-qua-ien-thoai-chot-truoc-ieu-gi.md",
+  "source_path": "_posts/2026-09-27-quy-trinh-at-xe-truoc-qua-ien-thoai-chot-truoc-ieu-gi.md",
   "content_sha256": "43d2e883e467c4733f53014bc2a8847ef5fc5c79b9714420da18fb43ce8adcf1",
-  "matrix_row_sha256": "441b9bffeebae22eadb0c336fbf30975f46104137d537e5322973cff7bf94b47",
-  "result": "PASS"
+  "matrix_row_sha256": "444bf2b61334296389e453ebcef7606d97f4d7b3b1699613bed771b947b76b00",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

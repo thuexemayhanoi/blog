@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-tra-xe-ung-quy-trinh-e-tranh-tranh-chap.md",
+  "source_path": "_posts/2026-09-27-tra-xe-ung-quy-trinh-e-tranh-tranh-chap.md",
   "content_sha256": "e352a28f298d1bea6c4d83ddf1ea7daa6803a580385e23b7c8f29e999eb8a846",
-  "matrix_row_sha256": "7faa3a933abe2ac1a8ce4661c5432b12d075e12ed4d5303d3ad5b850ace3fc2d",
-  "result": "PASS"
+  "matrix_row_sha256": "c225739af919b7f52a7b8502e96bd730b707da3a88a33de77b9d4ac80bd30074",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

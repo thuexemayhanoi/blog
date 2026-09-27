@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nhung-cau-nen-hoi-cua-hang-truoc-khi-thue.md",
+  "source_path": "_posts/2026-09-27-nhung-cau-nen-hoi-cua-hang-truoc-khi-thue.md",
   "content_sha256": "40de8d6c626ec668b2979ef61a1c1ad9b5875ee80a8bf094c442ec6fe2becc11",
-  "matrix_row_sha256": "f10f5c038b22097d3c127bd3e649058a6d0ea482d782615e0ceacac5c2aa4250",
-  "result": "PASS"
+  "matrix_row_sha256": "ec36de32fa0e0b6a3205ccd04b3d09301a682902f4c7ff01daad60bfc822d4d0",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

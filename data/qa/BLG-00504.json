@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-kiem-tra-xe-truoc-khi-ky-nhan.md",
+  "source_path": "_posts/2026-09-27-kiem-tra-xe-truoc-khi-ky-nhan.md",
   "content_sha256": "7b554010e429c5f7991a9d5208f1033291348cebf17810c58cf9774ab81aa4b7",
-  "matrix_row_sha256": "c67751c18bf5b97bcc5b4a557cdc0404208f80e47cfddccfc2ec7376509804a9",
-  "result": "PASS"
+  "matrix_row_sha256": "be35c5541cb60f479acdf5dbc9a3d17598f2810187081a1035e1a2ca3fcad9b8",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

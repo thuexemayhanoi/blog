@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nen-thu-xe-nhu-the-nao-khi-nhan-xe-may-thue.md",
+  "source_path": "_posts/2026-09-27-nen-thu-xe-nhu-the-nao-khi-nhan-xe-may-thue.md",
   "content_sha256": "fba9495561119de6cceb27de004125e81420460f23767671814662da6a8a5717",
-  "matrix_row_sha256": "857e9b153ce03e93f7e1763c3c468bde38d66d4292f018acf35f51b8c28ca60a",
-  "result": "PASS"
+  "matrix_row_sha256": "46e732e318f9088efcc791199b689a60d6c94aaf1ab803dfdfa91bae7aa6a610",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:35:59+00:00"
 }

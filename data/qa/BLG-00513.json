@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-may-theo-ngay-hop-ong-voi-ai.md",
+  "source_path": "_posts/2026-09-27-thue-xe-may-theo-ngay-hop-ong-voi-ai.md",
   "content_sha256": "703347e4d47b6c8e3b70885de122052bec84954d699907d33ec51087a50123da",
-  "matrix_row_sha256": "05b1f62dbf148b832255260e8e361bdb5469bebd186d2cc98f18c52813a92e18",
-  "result": "PASS"
+  "matrix_row_sha256": "22fdda9d3d3ac9746e7079acc3adf678f023bb7510b45e20a071660e7608d1e4",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:36:00+00:00"
 }
