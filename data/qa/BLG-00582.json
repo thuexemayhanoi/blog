@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-ap-ien-khac-gi-xe-may-ien.md",
+  "source_path": "_posts/2026-09-27-xe-ap-ien-khac-gi-xe-may-ien.md",
   "content_sha256": "c1dd409c01567d4e8cd380160b595e056316c1d42a2d03fd5ffd04a42e13d842",
-  "matrix_row_sha256": "1fc47365edb1c3532d6f23b465ee0013d436c6f8efd307f3677c2eb1083826e6",
-  "result": "PASS"
+  "matrix_row_sha256": "e6b629868f61339cc1e54b20a53f64f7a5d2d735bfa12e2be9080be86b605017",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:54+00:00"
 }

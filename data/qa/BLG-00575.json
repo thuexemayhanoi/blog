@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly.md",
+  "source_path": "_posts/2026-09-27-thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly.md",
   "content_sha256": "2dbbcea684ce02784b67ea3d22abb4cc48fb28b6cc1f89c5beca984e4236761b",
-  "matrix_row_sha256": "5f6c993682390a2b7809e24e2c093f560c23fa2bc48a57ff1c3e8b4c35b677cc",
-  "result": "PASS"
+  "matrix_row_sha256": "2d7b267be2d3de06c605e5d3a296ae8d826878f09fa49512ff5e040bd365ee73",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:54+00:00"
 }

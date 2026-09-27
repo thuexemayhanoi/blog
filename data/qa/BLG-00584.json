@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom.md",
+  "source_path": "_posts/2026-09-27-thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom.md",
   "content_sha256": "cc84705312c62d381d70ee84a49039f0e30929523b4f699ed82252f9bae741a7",
-  "matrix_row_sha256": "8c2670f189bf57773255f8b965b096f99c46ff2c931cd8aebee2a384f7c910c0",
-  "result": "PASS"
+  "matrix_row_sha256": "746e228ddad8015f1dd472fb19f1224bf94f41d77606783245dd18714691700e",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:55+00:00"
 }

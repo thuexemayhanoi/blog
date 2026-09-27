@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-ap-ien-co-can-bang-lai-khong.md",
+  "source_path": "_posts/2026-09-27-xe-ap-ien-co-can-bang-lai-khong.md",
   "content_sha256": "922c9f2f1fc416477d5f20135ae77bece6d105484e8dd0602f1cafaa5d2eed4a",
-  "matrix_row_sha256": "029bc563e6d7167f00b6eb4ca42d83a6834f462a65d7a6eddb79948d5dc58737",
-  "result": "PASS"
+  "matrix_row_sha256": "a09ec92cd60d4def2e5a29405a27d9a5d8b6971c6ab1f77fd1eb64a5de7f0691",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:55+00:00"
 }

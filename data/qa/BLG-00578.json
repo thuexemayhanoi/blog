@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau.md",
+  "source_path": "_posts/2026-09-27-sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau.md",
   "content_sha256": "3e5e5702f30b477e8d631443508b061a08f07eff8c93e47ab0c79e3f8bc9f125",
-  "matrix_row_sha256": "36165f55a1cae43082c5ab887e1f7dee88cced38792d0a3e73f453f99b45e26e",
-  "result": "PASS"
+  "matrix_row_sha256": "993e9282d651a30f09f30d1e49b2b1bf3e0759aca12261e07e49ce4ebaa0f429",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:54+00:00"
 }

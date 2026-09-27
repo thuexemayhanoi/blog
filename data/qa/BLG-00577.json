@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-quang-uong-mot-lan-sac-cua-xe-may-ien.md",
+  "source_path": "_posts/2026-09-27-quang-uong-mot-lan-sac-cua-xe-may-ien.md",
   "content_sha256": "77412f13fa7fc789cda02de28838101ff60b97771f17cca6a4c4860123a5b295",
-  "matrix_row_sha256": "a0e335df250773d6443df23a7c0a83c96130b61d6fecd5b8d6cc373f42dd7bbc",
-  "result": "PASS"
+  "matrix_row_sha256": "2d7e80f0f97a17c11983414fea96a814156042823047d27e2701af441d15ab8c",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:54+00:00"
 }

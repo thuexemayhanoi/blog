@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-may-ien-o-ha-noi-can-biet-gi.md",
+  "source_path": "_posts/2026-09-27-thue-xe-may-ien-o-ha-noi-can-biet-gi.md",
   "content_sha256": "1406426ae2c3aaffc911cca5c12a8ebb7ce2fcac710a3b58f4105af51c1c2e04",
-  "matrix_row_sha256": "8e4d715cc34accc64ebe526bc10e7366ad2a41e7adb9e17d9f1d13a79ae01ce3",
-  "result": "PASS"
+  "matrix_row_sha256": "c6db41e29f25fba14bc521eae76e62ee2146b002f2a32e149d5fe9d9461382c7",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:54+00:00"
 }

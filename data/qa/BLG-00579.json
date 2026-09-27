@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-may-ien-voi-xe-xang-chon-nao-khi-thue.md",
+  "source_path": "_posts/2026-09-27-xe-may-ien-voi-xe-xang-chon-nao-khi-thue.md",
   "content_sha256": "85114071fe4fed7c869332ae7be072bb8bb93fb31fe2159a791404ddf2bc0785",
-  "matrix_row_sha256": "82c9509e551db5bfc4c590224c625df9f4a89ee3e40b44ab7b192eb12d826b48",
-  "result": "PASS"
+  "matrix_row_sha256": "a33b3296912890067872e8f2a179c1f504bb7a864c3231370ef554e296783c14",
+  "result": "PASS",
+  "published_at": "2026-09-27T22:21:54+00:00"
 }
