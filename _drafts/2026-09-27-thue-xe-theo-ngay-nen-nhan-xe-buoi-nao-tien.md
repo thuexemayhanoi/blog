@@ -17,9 +17,9 @@ Thuê xe máy theo ngày nghe thì đơn giản, nhưng ngay câu hỏi đầu t
 
 ## Nhận xe buổi sáng: đi được trọn vẹn một ngày
 
-Nhận xe ngay sau khi cửa hàng mở cửa, thường từ 09:00, là lựa chọn tối ưu cho hầu hết nhu cầu thuê theo ngày. Bạn có trọn vẹn khoảng mười hai tiếng sáng để di chuyển: kịp đi làm, kịp chạy việc xa trong nội thành lẫn vùng ven, và kịp trả xe trước 21:00 mà không phải vội vàng. Với khách thuê xe để đi chơi cuối tuần hoặc đi công việc gấp, nhận sáng gần như luôn là phương án hợp lý hơn.
+Nhận xe ngay sau khi cửa hàng mở cửa, thường từ 09:00, là lựa chọn tối ưu cho hầu hết nhu cầu thuê theo ngày. Bạn có trọn vẹn khoảng mười hai tiếng ban ngày để di chuyển: kịp đi làm, kịp chạy việc xa trong nội thành lẫn vùng ven, và kịp trả xe trước 21:00 mà không phải vội vàng. Với khách thuê xe để đi chơi cuối tuần hoặc đi công việc gấp, nhận sáng gần như luôn là phương án hợp lý hơn.
 
-Một lợi thế ít người để ý của buổi sáng: cửa hàng thường còn nhiều xe để chọn. Nếu bạn đến muộn, chiếc xe ưng ý có thể đã bị khách trước lấy. Buổi sáng cũng là lúc xe vừa được kiểm tra và lau sạch sau ngày hôm trước, nên việc soi tình trạng xe dễ hơn. Trước khi Bolt chìa, hãy dành vài phút chạy thử quanh khu phố vắng cạnh cửa hàng, nhất là khi bạn thuê ở khu Bồ Đề, Long Biên nơi nhiều tuyến ngõ đủ yên tĩnh để chạy thử.
+Một lợi thế ít người để ý của buổi sáng: cửa hàng thường còn nhiều xe để chọn. Nếu bạn đến muộn, chiếc xe ưng ý có thể đã bị khách trước lấy. Buổi sáng cũng là lúc xe vừa được kiểm tra và lau sạch sau ngày hôm trước, nên việc soi tình trạng xe dễ hơn. Trước khi bốc chìa, hãy dành vài phút chạy thử quanh khu phố vắng cạnh cửa hàng, nhất là khi bạn thuê ở khu Bồ Đề, Long Biên nơi nhiều tuyến ngõ đủ yên tĩnh để chạy thử.
 
 Điểm cần cân nhắc duy nhất của nhận sáng: nếu bạn chỉ cần xe cho buổi chiều, tiền ngày thuê vẫn tính cho cả ngày. Trường hợp đó, cân nhắc phương án nhận chiều như dưới đây.
 
@@ -37,7 +37,7 @@ Nghĩ cả về khung giờ trả xe. Cửa hàng làm việc từ 09:00 đến 
 
 ## Tránh nhận xe sát giờ đóng cửa
 
-Một khung giờ nên tránh tuyệt đối: sát thời điểm đóng của, khoảng sau 20:00. Nhận xe gấp trong mười lăm phút cuối ngày, bạn không còn thời gian kiểm tra xe kỹ, không được chạy thử, và mọi vết xước sẵn có dễ bị bỏ qua. Sang hôm sau phát hiện ra thì đã muộn: giấy nhận đã ký từ tối trước. Quy trình kiểm tra xe khi thuê cần tối thiểu vài phút thật sự, không thể làm trong lúc chủ xe sắp hạ cửa cuốn.
+Một khung giờ nên tránh tuyệt đối: sát thời điểm đóng cửa, khoảng sau 20:00. Nhận xe gấp trong mười lăm phút cuối ngày, bạn không còn thời gian kiểm tra xe kỹ, không được chạy thử, và mọi vết xước sẵn có dễ bị bỏ qua. Sang hôm sau phát hiện ra thì đã muộn: giấy nhận đã ký từ tối trước. Quy trình kiểm tra xe khi thuê cần tối thiểu vài phút thật sự, không thể làm trong lúc chủ xe sắp hạ cửa cuốn.
 
 Trường hợp bất đắc dĩ phải nhận tối, hãy nhờ cửa hàng ghi rõ tình trạng xe vào biên nhận, chụp ảnh hai hông, đầu, đuôi xe ngay tại chỗ và gửi cho bên cho thuê. Bộ ảnh đó là bằng chứng cho cả hai bên khi bạn trả xe vào sáng hôm sau.
 
