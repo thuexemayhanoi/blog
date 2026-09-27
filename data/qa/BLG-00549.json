@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00549",
   "title": "Trả xe thuê sớm hơn dự kiến: hỏi trước điều gì",
-  "scored_at": "2026-09-27T20:15:19+00:00",
+  "scored_at": "2026-09-27T20:15:44+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
