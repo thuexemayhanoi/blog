@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-may-theo-tuan-phu-hop-nhu-cau-nao.md",
+  "source_path": "_posts/2026-09-27-thue-xe-may-theo-tuan-phu-hop-nhu-cau-nao.md",
   "content_sha256": "d47c7ac30f479bc3cee4eb844fc70e8bfb5c88d42e02ac40a14777990bbe593b",
-  "matrix_row_sha256": "59fd600f0595360156d3b522424caf99c2989b9f21a0e73737636f97e0fc79c5",
-  "result": "PASS"
+  "matrix_row_sha256": "f114c238fc5a05cd49e3cc049c4abcfbb64e202f9626d73983f0c60dd01718de",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

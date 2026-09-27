@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-theo-ngay-ket-hop-gui-xe-quanh-thanh-pho.md",
+  "source_path": "_posts/2026-09-27-thue-xe-theo-ngay-ket-hop-gui-xe-quanh-thanh-pho.md",
   "content_sha256": "597608266c5ae244c12059c81e3459bffa36e1afc6f86cd34cce76a4dd241999",
-  "matrix_row_sha256": "8510d27420612228206509f8e2128ddae8e9fc848dc6305fedc81b9591996b73",
-  "result": "PASS"
+  "matrix_row_sha256": "d2793e0ed9130683a3b9c1e091519e24200403e7ba294d4113930eab966b6e9f",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

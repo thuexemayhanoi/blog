@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-cham-xe-trong-suot-tuan-thue.md",
+  "source_path": "_posts/2026-09-27-cham-xe-trong-suot-tuan-thue.md",
   "content_sha256": "231e3ec71cb8be4d12916ccda49c1e593f6c232b14468075899a1c745b2194a9",
-  "matrix_row_sha256": "38394b01083318393fa5624bdfac31d2f01bc246cd892ebe139b7a19fe182471",
-  "result": "PASS"
+  "matrix_row_sha256": "f6d32f4a1ea73fd0f4f9fa9eb41b708a148ee6ba421a1476d9be1fe9fe4c0962",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-ke-hoach-chuyen-i-7-ngay-quanh-ha-noi-bang-xe-may.md",
+  "source_path": "_posts/2026-09-27-ke-hoach-chuyen-i-7-ngay-quanh-ha-noi-bang-xe-may.md",
   "content_sha256": "fe48d31d41d6119ed196b810c3fb15d59b5a62c6b50b670014a48ab45aaae7b3",
-  "matrix_row_sha256": "db093f5861e1fb70c0c3940f3d16e9338aa9c9ab1f7b38177bd9b4230d1efdc7",
-  "result": "PASS"
+  "matrix_row_sha256": "c1409c946dc98c5d58cf9c8298ae5f9011e6385cefd2fbe577b2c0e2638cbcdf",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

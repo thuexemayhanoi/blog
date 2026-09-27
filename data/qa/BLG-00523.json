@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-chi-phi-thue-xe-thang-so-voi-mua-xe-cu.md",
+  "source_path": "_posts/2026-09-27-chi-phi-thue-xe-thang-so-voi-mua-xe-cu.md",
   "content_sha256": "2c55a0afe88373c9b1f514bd2ee37f1e5d788029402418e65a4a242351c5e51f",
-  "matrix_row_sha256": "8e8a1905fd019bed54557a44472c70a1824998e2af8cb49ffbb2d81787f92f7d",
-  "result": "PASS"
+  "matrix_row_sha256": "7f80cd721ff4b557f0fe304ae5e786b412c1a935fba837a47382c20dbdb67906",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

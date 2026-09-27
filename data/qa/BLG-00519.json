@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-theo-tuan-khac-gi-thue-theo-ngay.md",
+  "source_path": "_posts/2026-09-27-thue-theo-tuan-khac-gi-thue-theo-ngay.md",
   "content_sha256": "a07d2d2465c46198bda60276197d952f5a7282078c78643ab4d92ea4624a526a",
-  "matrix_row_sha256": "38168b06aebb3fe3dfdd157e0f34ae9f1939fe12774d29635f246651b33ede68",
-  "result": "PASS"
+  "matrix_row_sha256": "e3496ee461bb6504411e857a5118151fafa482b1ebb1a3a8efb235ae5d29708f",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

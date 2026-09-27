@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nghia-vu-khi-thue-xe-nhieu-thang.md",
+  "source_path": "_posts/2026-09-27-nghia-vu-khi-thue-xe-nhieu-thang.md",
   "content_sha256": "150bd4c5013ecd65ebf63ae9b9be446e5ef7d8cdb101922fbeea1fb3e16677d2",
-  "matrix_row_sha256": "753a7a70a31729081bdeb7a1c6e2966f2f4b133c447ad9c40438b8691b61fc2e",
-  "result": "PASS"
+  "matrix_row_sha256": "1f779889706e2a371429c01bc139b2b2a43e4f7d2ca8d8ffaf45498a36b3de1b",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:01+00:00"
 }

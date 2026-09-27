@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-theo-ngay-nen-nhan-xe-buoi-nao-tien.md",
+  "source_path": "_posts/2026-09-27-thue-xe-theo-ngay-nen-nhan-xe-buoi-nao-tien.md",
   "content_sha256": "c7ad455e7a0ca9f02e1153c1e552441fa89846c9859483c6d1c9c4cdcff74b32",
-  "matrix_row_sha256": "1a18e2ef73c185c699762f5c9afd918e06532a5cbf47ef837e57cebbee75bc61",
-  "result": "PASS"
+  "matrix_row_sha256": "ac3898fad70608433dc1c939a3aa94b48d965b3835777aec2437d68c61736d7a",
+  "result": "PASS",
+  "published_at": "2026-09-27T17:49:00+00:00"
 }
