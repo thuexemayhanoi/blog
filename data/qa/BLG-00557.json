@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai.md",
+  "source_path": "_posts/2026-09-27-xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai.md",
   "content_sha256": "1ae7e9a5022a4e01ca487757483d738a2b3011148734d26fbaa1b493597f5ae2",
-  "matrix_row_sha256": "8094e12ad2d98218c8d4df0581ef9e481caf477d07eea0bbabd69fd6e02b42f3",
-  "result": "PASS"
+  "matrix_row_sha256": "2a8e008dc8e4d6b8d8e50cf65898820ad8f46a752541893084dac4583f67f6f8",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:07:32+00:00"
 }

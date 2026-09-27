@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-xe-thue-bi-mat-trom-trinh-tu-can-lam.md",
+  "source_path": "_posts/2026-09-27-xe-thue-bi-mat-trom-trinh-tu-can-lam.md",
   "content_sha256": "ba610938b37a5f2770d9eea0b87de63d291d4d83135d22730b0e7c8c6eaba126",
-  "matrix_row_sha256": "81be5df52d45860815a98f8941a55e709d49f3823c39fa739b7852d2581a87c2",
-  "result": "PASS"
+  "matrix_row_sha256": "f7a2cfd025766b227aab8165632d7f8c1be834cb458b70a10080e1b023bbe6fc",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:07:32+00:00"
 }

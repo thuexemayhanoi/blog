@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-hong-nhe-do-su-dung-thong-thuong-ai-chiu.md",
+  "source_path": "_posts/2026-09-27-hong-nhe-do-su-dung-thong-thuong-ai-chiu.md",
   "content_sha256": "3d73b410e7ed0e36b24a20f199edfbeeb9b4e1456fa281f6d452f1d799ab02cb",
-  "matrix_row_sha256": "171401342e582601d5454b58c1f2e9f8351460d72e8e7a540c04b6c10e7267f7",
-  "result": "PASS"
+  "matrix_row_sha256": "3caf43d0a99038cf7cdf82748158a9f2f2808b9f33fcac65b9e696046f2532cd",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:07:32+00:00"
 }

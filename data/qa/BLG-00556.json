@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nho-cuu-ho-xe-may-thue-o-ha-noi.md",
+  "source_path": "_posts/2026-09-27-nho-cuu-ho-xe-may-thue-o-ha-noi.md",
   "content_sha256": "af148b56bd103291c6dab2ef1a14c51541923733d05883eb94c084351aba4891",
-  "matrix_row_sha256": "1c6d1e1e0b44342997ed25202f65bac9209e971ee790e42a8d6aaa42a0c715e5",
-  "result": "PASS"
+  "matrix_row_sha256": "13b0cdf100bd1fca683de0c0e37c0a4deeee6c8a9ca43c26c16c847a34e7aa60",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:07:32+00:00"
 }

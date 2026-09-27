@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay.md",
+  "source_path": "_posts/2026-09-27-tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay.md",
   "content_sha256": "e5789b6b7611771032b2ee9e8a5f897317b50bf5960366bc7146afbab5a3fc32",
-  "matrix_row_sha256": "5a97e92ce69dc94cb49585e9899ffc7ef012a55a3b67c9e7ea0483bb470779c9",
-  "result": "PASS"
+  "matrix_row_sha256": "ab9d9b83a75c22bc5481b100ca6dd3e00d8082ebc635992876547b143d2bd7eb",
+  "result": "PASS",
+  "published_at": "2026-09-27T21:07:32+00:00"
 }

@@ -1,21 +1,15 @@
 {
   "factory_version": 2,
   "capacity": 10000,
-  "updated_at": "2026-09-27T21:06:49+00:00",
-  "last_run_id": "operator-prepare-next",
+  "updated_at": "2026-09-27T21:07:32+00:00",
+  "last_run_id": "publish-gate-BLG-00559",
   "status": "PARTIAL_BLOCKED",
   "matrix_status": "PRESENT_CREATED_NEW",
   "matrix_note": "TẠO MỚI 2026-09-27 theo phê duyệt của chủ xe từ seed đã kiểm chứng — KHÔNG PHẢI KHÔI PHỤC NGUYÊN BẢN. Bằng chứng: reports/factory/matrix-recovery-blocked.md.",
-  "last_completed_article_id": "BLG-00554",
+  "last_completed_article_id": "BLG-00559",
   "last_batch_id": null,
   "next_claimable_id": "BLG-00560",
-  "in_progress_chunk": [
-    "BLG-00555",
-    "BLG-00556",
-    "BLG-00557",
-    "BLG-00558",
-    "BLG-00559"
-  ],
+  "in_progress_chunk": null,
   "counts": {
     "legacy_total": 483,
     "existing": 473,
@@ -23,8 +17,8 @@
     "planned": 383,
     "writing": 0,
     "qa": 0,
-    "pass": 5,
-    "published": 70,
+    "pass": 0,
+    "published": 75,
     "repair": 0,
     "blocked": 1,
     "fail": 0
