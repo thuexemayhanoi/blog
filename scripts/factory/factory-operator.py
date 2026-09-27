@@ -586,7 +586,15 @@ def run_reports():
     print(m.stdout[-400:])
     if m.returncode != 0:
         print(m.stderr[-600:])
-    return r.returncode or m.returncode
+    # listing/hub tĩnh cũng là output deterministic của tooling chuẩn:
+    # bài mới xuất bản đổi đếm/phân trang -> sinh lại kèm mọi op đổi state.
+    l = subprocess.run([sys.executable,
+                        'scripts/factory/generate-listing-pages.py'],
+                       capture_output=True, text=True)
+    print(l.stdout[-400:])
+    if l.returncode != 0:
+        print(l.stderr[-600:])
+    return r.returncode or m.returncode or l.returncode
 
 
 def op_status(args):
