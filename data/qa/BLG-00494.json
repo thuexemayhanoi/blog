@@ -38,8 +38,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-cach-dung-may-tinh-gia-thue-xe-may.md",
+  "source_path": "_posts/2026-09-27-cach-dung-may-tinh-gia-thue-xe-may.md",
   "content_sha256": "589f74e30060c26e0cec318eacae3e5489a859d75bb39a6be5804ec316625c35",
-  "matrix_row_sha256": "86e8989eb42fc62309b51bd1c9e39431341cf75a88f73168b7d257768af76f8a",
-  "result": "PASS"
+  "matrix_row_sha256": "354739b96ff7c1129975e048420bf9553233c45727cd6d390ad6b0bb07b3ef1a",
+  "result": "PASS",
+  "published_at": "2026-09-27T13:03:12+00:00"
 }

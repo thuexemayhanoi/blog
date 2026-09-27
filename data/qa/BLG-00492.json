@@ -38,8 +38,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-phi-phat-sinh-khi-thue-xe-may-can-biet-truoc.md",
+  "source_path": "_posts/2026-09-27-phi-phat-sinh-khi-thue-xe-may-can-biet-truoc.md",
   "content_sha256": "bfa8942a7c834d87a0af9dcb282982bae37f186db1b53836ffb4924952f5728c",
-  "matrix_row_sha256": "2b08ad1d67665c3c134a03afa5f6c46da8e6d664b7b4f0ddba18e6cb241fbf84",
-  "result": "PASS"
+  "matrix_row_sha256": "3abee5fa7c1fcbf1113e33c74e35a840901c3ade8ce1a350fcfe9a5e8f555ded",
+  "result": "PASS",
+  "published_at": "2026-09-27T13:03:12+00:00"
 }

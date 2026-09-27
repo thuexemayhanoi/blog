@@ -1,6 +1,6 @@
 {
   "active": false,
-  "updated_at": "2026-09-27T12:24:23+00:00",
+  "updated_at": "2026-09-27T13:03:12+00:00",
   "pending": null,
   "history": [
     {
@@ -55,6 +55,39 @@
       "result": "PUBLISHED",
       "commit_sha": "46090adabb134244ec9e13c905eb17b4f8f0d4f4",
       "finished_at": "2026-09-27T12:24:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00491",
+      "started_at": "2026-09-27T13:03:12+00:00",
+      "source": "_drafts/2026-09-27-gia-thue-xe-may-ien-o-ha-noi.md",
+      "destination": "_posts/2026-09-27-gia-thue-xe-may-ien-o-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "92034380f0d60d515efa7e15ef9c44b75680b0d6",
+      "finished_at": "2026-09-27T13:03:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00492",
+      "started_at": "2026-09-27T13:03:12+00:00",
+      "source": "_drafts/2026-09-27-phi-phat-sinh-khi-thue-xe-may-can-biet-truoc.md",
+      "destination": "_posts/2026-09-27-phi-phat-sinh-khi-thue-xe-may-can-biet-truoc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "92034380f0d60d515efa7e15ef9c44b75680b0d6",
+      "finished_at": "2026-09-27T13:03:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00494",
+      "started_at": "2026-09-27T13:03:12+00:00",
+      "source": "_drafts/2026-09-27-cach-dung-may-tinh-gia-thue-xe-may.md",
+      "destination": "_posts/2026-09-27-cach-dung-may-tinh-gia-thue-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "92034380f0d60d515efa7e15ef9c44b75680b0d6",
+      "finished_at": "2026-09-27T13:03:12+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
