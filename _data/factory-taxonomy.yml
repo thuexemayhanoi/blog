@@ -204,3 +204,23 @@ C-HD-NGUOI-MOI:
   p: P-HOI-DAP
   s: hoi-dap-nguoi-moi
   t: "Hỏi đáp người mới"
+C-THUE-DOI-TUONG:
+  p: P-THUE-XE
+  s: thue-theo-doi-tuong
+  t: "Thuê xe theo đối tượng"
+C-THUE-DIA-DIEM:
+  p: P-THUE-XE
+  s: thue-theo-dia-diem
+  t: "Thuê xe theo địa điểm"
+C-XE-LUA-CHON:
+  p: P-XE-MAY
+  s: chon-loai-xe
+  t: "Chọn loại xe khi thuê"
+C-XE-KHAC-PHUC:
+  p: P-XE-MAY
+  s: xu-ly-su-co-xe
+  t: "Xử lý sự cố xe máy thuê"
+C-XE-SO-SANH:
+  p: P-XE-MAY
+  s: so-sanh-xe
+  t: "So sánh khi thuê xe máy"

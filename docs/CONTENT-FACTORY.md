@@ -80,3 +80,23 @@ Writer CHỈ sản xuất NỘI DUNG ngữ nghĩa của bài. Layout sở hữu 
   typography, bài viết liên quan, CTA, footer — từ `_layouts/post.html` + CSS
   dùng chung. Markup bài chỉ là Markdown ngữ nghĩa: h2/h3, p, ul/ol, table,
   blockquote.
+## Mở rộng vũ trụ chủ đề 10K (2026-09-27, đợt 2)
+
+- `scripts/factory/expand-topic-universe.py`: cổng scoring (usefulness>=70,
+  distinct>=80, depth>=70, cannibalization<=30, feasibility PASS/REVIEW) +
+  chống trùng máy (intent, keyword, slug, legacy-title) trước khi vào seed.
+  Idempotent; CI chặn drift. Báo cáo: `reports/factory/topic-universe.md`.
+- Taxonomy: 7 parent / 56 child (5 child mới, 51 child gốc giữ nguyên
+  id/slug). EDITORIAL_TARGET: 6.980. Không doorway theo tên quận, không
+  biến thể model, không FAQ hàng loạt — các nhóm bị từ chối liệt kê trong
+  báo cáo với lý do.
+- Matrix schema v2: thêm slug, search_intent, parent_hub, child_cluster,
+  subtopic, audience, location_scope, commercial_intent,
+  cannibalization_key, word_target, batch_id, repair_count, published_date,
+  published_commit_sha, notes. Hàng runtime không bị reset khi tái sinh.
+- Kế hoạch lô: batch_id B### nhóm 50 hàng PLANNED theo thứ tự id.
+- Lỗi dữ liệu đã chứng minh: BLG-00507 trùng slug legacy BLG-00044 →
+  BLOCKED (giữ ID, chặn sản xuất, chờ chủ xe quyết định).
+- Hợp đồng quy trình sản xuất (chunk 3–5, tối đa 10, mục tiêu RUN 20–50
+  bài PUBLISHED, stop conditions, self-healing): `docs/factory-workflow-contract.md`.
+  Chưa lập lịch — phải chờ lệnh chủ xe.

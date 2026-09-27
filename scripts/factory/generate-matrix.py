@@ -82,6 +82,8 @@ def legacy_rows(tax, inv):
     review_ids = [5, 17, 18, 53, 227, 228, 410, 411, 423, 424]
     rows = []
     by_slug = {r['slug']: r for r in inv}
+    parent_slugs = {p['parent_id']: p['slug'] for p in tax['parents']}
+    child_titles = {c['child_id']: c['title'] for c in tax['children']}
     for n, fname in enumerate(files, start=1):
         slug = fname[11:-3]
         r = by_slug[slug]
@@ -104,6 +106,22 @@ def legacy_rows(tax, inv):
             'legal_risk': '',
             'batch': '',
             'source': 'legacy:_posts/' + fname,
+            # ---- cột mở rộng (schema v2): suy dẫn từ dữ liệu có sẵn
+            'slug': slug,
+            'search_intent': '(legacy) ' + r['title'],
+            'parent_hub': parent_slugs.get(r['likely_parent'], ''),
+            'child_cluster': child_titles.get(r['likely_child'], ''),
+            'subtopic': '',
+            'audience': '',
+            'location_scope': '',
+            'commercial_intent': '',
+            'cannibalization_key': '',
+            'word_target': '',
+            'batch_id': '',
+            'repair_count': '',
+            'published_date': '',
+            'published_commit_sha': '',
+            'notes': '',
         })
     return rows
 
@@ -112,6 +130,7 @@ def expand_child(child, spec):
     """Sinh hàng PLANNED cho một child từ seed (entities × angles hoặc rows)."""
     pid, cid = child['parent_id'], child['child_id']
     out = []
+    # entities × angles (schema cũ) — không dùng else: một child có thể có CẢ HAI
     if 'entities' in spec:
         for ent in spec['entities']:
             for ang in spec['angles']:
@@ -122,11 +141,16 @@ def expand_child(child, spec):
                 links = list(ang.get('links', [])) + list(ent.get('links', []))
                 out.append({'title': title, 'intent': intent, 'kw': kw, 'kw2': kw2,
                             'links': links, 'group': spec.get('group', '')})
-    else:
-        for r in spec['rows']:
-            out.append({'title': r['title'], 'intent': r['intent'], 'kw': r['kw'],
-                        'kw2': r.get('kw2', []), 'links': r.get('links', []),
-                        'group': spec.get('group', '')})
+    # rows tay (schema cũ) + hàng mở rộng có metadata (schema v2)
+    for r in spec.get('rows', []):
+        out.append({'title': r['title'], 'intent': r['intent'], 'kw': r['kw'],
+                    'kw2': r.get('kw2', []), 'links': r.get('links', []),
+                    'group': spec.get('group', ''),
+                    # metadata mở rộng (schema v2) — hàng cũ không có thì để rỗng
+                    'subtopic': r.get('subtopic', ''),
+                    'audience': r.get('audience', ''),
+                    'location_scope': r.get('location_scope', ''),
+                    'word_target': r.get('word_target', '')})
     for o in out:
         o['parent_id'] = pid
         o['child_id'] = cid
@@ -175,6 +199,22 @@ def main():
                 'legal_risk': child['legal_risk'],
                 'batch': '',
                 'source': 'planned:matrix-seed/' + cid,
+                # ---- cột mở rộng (schema v2)
+                'slug': slug,
+                'search_intent': o['intent'],
+                'parent_hub': parents[o['parent_id']]['slug'],
+                'child_cluster': child['title'],
+                'subtopic': o.get('subtopic', ''),
+                'audience': o.get('audience', ''),
+                'location_scope': o.get('location_scope', ''),
+                'commercial_intent': child.get('commercial_level', ''),
+                'cannibalization_key': norm(o['kw']),
+                'word_target': o.get('word_target', '') or 1200,
+                'batch_id': '',   # gán sau (nhóm 50 hàng theo thứ tự id)
+                'repair_count': '',
+                'published_date': '',
+                'published_commit_sha': '',
+                'notes': '',
             }
             rows.append(row)
             next_id += 1
@@ -228,13 +268,25 @@ def main():
             if o is None:
                 continue
             if o['status'] not in ('PLANNED',):
-                for k in ('status', 'expected_url', 'output_path', 'canonical_url', 'batch'):
-                    r[k] = o[k]
+                for k in ('status', 'expected_url', 'output_path', 'canonical_url', 'batch', 'batch_id', 'repair_count', 'published_date', 'published_commit_sha', 'notes'):
+                    r[k] = o.get(k, r[k])   # cột v2 cũ có thể thiếu: giữ giá trị sinh mới
 
     fields = ['id', 'status', 'title', 'intent', 'primary_keyword', 'secondary_keywords',
               'parent_id', 'child_id', 'group', 'expected_url', 'output_path',
               'canonical_url', 'internal_links', 'source_required', 'legal_risk',
-              'batch', 'source']
+              'batch', 'source',
+              # ---- schema v2: cột kế hoạch/điều hành theo hợp đồng 10K
+              'slug', 'search_intent', 'parent_hub', 'child_cluster', 'subtopic',
+              'audience', 'location_scope', 'commercial_intent',
+              'cannibalization_key', 'word_target', 'batch_id', 'repair_count',
+              'published_date', 'published_commit_sha', 'notes']
+    # ---- kế hoạch lô (batch plan): nhóm 50 hàng PLANNED theo thứ tự id, B001...
+    # hàng đã có batch_id runtime (WRITING/QA/PASS/PUBLISHED...) giữ nguyên.
+    planned_seq = [r for r in rows if r['status'] == 'PLANNED']
+    for i, r in enumerate(planned_seq):
+        if not r['batch_id']:
+            r['batch_id'] = 'B%03d' % (i // 50 + 1)
+
     with open(OUT_PATH, 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=fields)
         w.writeheader()

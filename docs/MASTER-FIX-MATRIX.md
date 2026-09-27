@@ -88,3 +88,21 @@ package install bị chặn). Tất cả kiểm tra là DOM/HTML/CSS tĩnh + CI 
 Jekyll (đúng họ engine với Pages). ẢNH CHỤP MÀN HÌNH trước/sau: KHÔNG CÓ.
 Safari/iPhone: NOT VERIFIED. Lighthouse/CWV: NOT MEASURED. Mọi kết luận responsive
 (375/390/430/768/1024/1440) là phân tích breakpoint CSS, không phải kiểm tra thị giác.
+
+## H. Đợt mở rộng vũ trụ chủ đề 10K (2026-09-27, lượt 2)
+
+- H1. Taxonomy 7 parent / 51 → 56 child (5 child mới, không đổi child gốc).
+- H2. 110 ứng viên chủ đề thật qua cổng scoring; 11 bị từ chối (trùng
+  intent/keyword/slug); 2 gỡ bỏ vì trùng bài legacy (cannibalization);
+  các nhóm bị cấm vĩnh viễn (doorway quận, biến thể model, synonym spin,
+  best-X-in-Y, 24/7, mức cọc bịa, FAQ hàng loạt) liệt kê trong
+  `reports/factory/topic-universe.md`.
+- H3. Matrix 833 → 942 hàng: 473 EXISTING + 10 REVIEW + 455 PLANNED +
+  3 PUBLISHED + 1 BLOCKED (BLG-00507, lỗi slug trùng legacy đã chứng minh).
+- H4. Schema v2: 16 cột kế hoạch/điều hành mới; batch_id 50 hàng/lô.
+- H5. CI mới: bước expand idempotency + test_topic_universe.py.
+- H6. Hợp đồng scheduler chốt tại `docs/factory-workflow-contract.md`;
+  KHÔNG lập lịch trong lượt này; KHÔNG sản xuất hàng loạt.
+- H7. Đánh giá trung thực: legacy 483 + EDITORIAL_TARGET 6.980 = 7.463 <
+  10.000. Taxonomy vẫn không thể đạt 10.000 hợp lệ. RESERVED_CAPACITY
+  9.057 chỉ dành cho chủ đề thật sau này — KHÔNG ĐỆM.

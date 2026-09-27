@@ -108,3 +108,15 @@ taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng; muốn tăng phải mở
 
 REVIEW legacy: phân tích bằng chứng từng cặp trong `reports/factory/review-pairs.md`
 (8 SAFE_DISTINCT, 1 cặp MERGE_CANDIDATE chờ chủ xe). Matrix giữ nguyên 10 hàng REVIEW, KHÔNG tự PASS.
+## 11. Mở rộng chủ đề 10K (đợt 2, 2026-09-27)
+
+- Mở rộng chủ đề CHỈ qua `scripts/factory/expand-topic-universe.py` (cổng
+  scoring + chống trùng). KHÔNG thêm tay vào matrix-seed hay taxonomy-config.
+- Matrix schema v2 có thêm cột kế hoạch (audience, location_scope,
+  batch_id, word_target...). `generate-matrix.py` bảo toàn trạng thái
+  runtime (status/URL/batch_id/repair_count/...).
+- BLG-00507: BLOCKED vì trùng slug legacy BLG-00044 — KHÔNG claim hàng này.
+- Hợp đồng scheduler: `docs/factory-workflow-contract.md` (chunk 3–5, tối
+  đa 10, RUN 20–50 PUBLISHED, stop conditions). Chưa lập lịch.
+- Trạng thái tổng: 942 hàng (473 EXISTING, 10 REVIEW, 455 PLANNED,
+  3 PUBLISHED, 1 BLOCKED). 10.000 là trần, KHÔNG phải chỉ tiêu phải nhồi.

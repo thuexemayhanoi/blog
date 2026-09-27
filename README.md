@@ -31,7 +31,9 @@ Agent làm việc trong repo đọc `AGENTS.md` trước. Tài liệu vận hàn
 python3 scripts/factory/restore-foundation.py   # idempotent
 python3 scripts/factory/generate-reports.py     # idempotent
 python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED(thiếu matrix)
-python3 scripts/factory/generate-listing-pages.py  # trang phân hạng tĩnh (idempotent)
+python3 scripts/factory/generate-listing-pages.py
+python3 scripts/factory/generate-listing-pages.py
+python3 scripts/factory/expand-topic-universe.py  # mở rộng chủ đề (idempotent)
 python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX  # promote qua cổng (chỉ hàng PASS + bằng chứng QA)
 ```
 

@@ -83,10 +83,20 @@ jobs:
           python3 scripts/factory/manifest.py --id BLG-00484 | grep -q "article_id" \
             || { echo "FAIL: manifest.py không sinh được manifest."; exit 1; }
 
-      - name: Factory tests (resume giữ tiến độ + publish gate từ chối bài lỗi)
+      - name: Topic universe must be idempotent (no drift)
+        run: |
+          python3 scripts/factory/expand-topic-universe.py
+          if [ -n "$(git status --porcelain data/state/taxonomy-config.json data/state/matrix-seed.json reports/factory/topic-universe.md)" ]; then
+            echo "FAIL: expand-topic-universe.py sinh ra khác biệt với tệp đã commit (idempotency bị vỡ)."
+            git status --porcelain data/state/taxonomy-config.json data/state/matrix-seed.json
+            exit 1
+          fi
+
+      - name: Factory tests (resume giữ tiến độ + publish gate + topic universe)
         run: |
           python3 scripts/factory/tests/test_reports_resume.py
           python3 scripts/factory/tests/test_publish_gate.py
+          python3 scripts/factory/tests/test_topic_universe.py
 
       - name: Listing pages must match generator (no drift)
         run: |

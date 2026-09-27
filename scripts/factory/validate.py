@@ -7,7 +7,8 @@ Mã thoát: 0 = PASS, 1 = FAIL, 2 = BLOCKED (thiếu dữ liệu nền không th
 
 Kiểm tra theo thứ tự, báo thiếu tệp rõ ràng thay vì crash:
   1. Tệp nền tảng bắt buộc tồn tại.
-  2. Taxonomy (khôi phục từ seed) nhất quán: 7 parent, 51 child, ID/slug/hub_url.
+  2. Taxonomy (khôi phục từ seed) nhất quán: 7 parent, >= 51 child (51 gốc
+     không đổi; child mở rộng phải khớp seed taxonomy-config 1-1).
   3. Inventory khớp 100% _posts/ thực tế; URL legacy không đổi.
   4. _data/factory-taxonomy.yml và _data/factory-map.yml khớp taxonomy/inventory.
   5. Trang hub công khai cho mọi child có bài; frontmatter đúng.
@@ -65,9 +66,13 @@ seed = json.load(open('data/state/taxonomy-config.json', encoding='utf-8'))
 parents = {p['parent_id']: p for p in tax['parents']}
 children = {c['child_id']: c for c in tax['children']}
 if len(parents) != 7: err('taxonomy phải có đúng 7 parent, có %d' % len(parents))
-if len(children) != 51: err('taxonomy phải có đúng 51 child, có %d' % len(children))
-if len(seed['parents']) != 7 or len(seed['children']) != 51:
-    err('seed taxonomy-config.json sai cấu trúc 7/51')
+if len(children) < 51: err('taxonomy bị mất child (phải >= 51, có %d)' % len(children))
+# child mở rộng (được phê duyệt trong expansion) phải khớp seed 1-1
+if len(children) != len(seed['children']):
+    err('taxonomy children (%d) != seed children (%d)' % (len(children), len(seed['children'])))
+# không đổi child gốc: 51 child đầu của seed giữ nguyên id/slug
+if len(seed['children']) < 51:
+    err('seed taxonomy-config.json mất child gốc (phải >= 51)')
 for c in tax['children']:
     if c['parent_id'] not in parents: err('child %s không thuộc parent hợp lệ' % c['child_id'])
     p = parents[c['parent_id']]
@@ -193,6 +198,12 @@ if os.path.exists(MATRIX):
     for key in ('output_path','canonical_url'):
         vals = [r[key] for r in mrows]
         if len(set(vals)) != len(vals): err('matrix %s trùng' % key)
+    # ---- kế hoạch lô: nhóm 50 hàng PLANNED theo thứ tự id, B001... (đ deterministic)
+    _pl = [r for r in mrows if r['status'] == 'PLANNED' and r.get('batch_id')]
+    for _i, _r in enumerate(_pl):
+        if _r['batch_id'] != 'B%03d' % (_i // 50 + 1):
+            err('batch_id PLANNED lệch quy tắc 50 hàng/lô tại %s (%s)' % (_r['id'], _r['batch_id']))
+            break
     legacy = [r for r in mrows if r['source'].startswith('legacy:')]
     if len(legacy) != len(inv): err('matrix legacy rows != inventory: %d/%d' % (len(legacy), len(inv)))
     inv_by_slug = {r['slug']: r for r in inv}
@@ -217,6 +228,22 @@ if os.path.exists(MATRIX):
                 err('PLANNED %s source_required lệch taxonomy' % r['id'])
             if r['legal_risk'] != ch['legal_risk']:
                 err('PLANNED %s legal_risk lệch taxonomy' % r['id'])
+            # ---- schema v2 (hợp đồng 10K)
+            for col in ('slug', 'search_intent', 'parent_hub', 'child_cluster',
+                        'cannibalization_key', 'word_target', 'batch_id'):
+                if col not in r or not r[col].strip():
+                    err('PLANNED %s thiếu cột schema v2: %s' % (r['id'], col))
+            if r['search_intent'] != r['intent']:
+                err('PLANNED %s search_intent != intent' % r['id'])
+            if r['cannibalization_key'] != r['cannibalization_key'].lower().strip():
+                err('PLANNED %s cannibalization_key chưa chuẩn hoá' % r['id'])
+            try:
+                if int(r['word_target']) < 800:
+                    err('PLANNED %s word_target < 800' % r['id'])
+            except ValueError:
+                err('PLANNED %s word_target không phải số' % r['id'])
+            if r['batch_id'] and not re.match(r'^B\d{3}$', r['batch_id']):
+                err('PLANNED %s batch_id sai dạng B###' % r['id'])
     # bài factory trong _posts (có article_id:) phải là hàng PUBLISHED của matrix,
     # output_path khớp tệp thật, expected_url đã chốt ngày thật (không còn {date}).
     mpub = {r['id']: r for r in mrows if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:')}
