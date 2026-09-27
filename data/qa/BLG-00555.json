@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00555",
   "title": "Hỏng nhẹ do sử dụng thông thường ai chịu",
-  "scored_at": "2026-09-27T21:06:01+00:00",
+  "scored_at": "2026-09-27T21:06:49+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -22,26 +22,26 @@
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
-    "hanoi_example": false,
+    "hanoi_example": true,
     "reads_naturally_proxy": true,
     "no_placeholder": true,
     "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1352,
+  "word_count": 1379,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 75,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-hong-nhe-do-su-dung-thong-thuong-ai-chiu.md",
-  "content_sha256": "6cfa0a103b64ad3ab66a00953823c6a80b4474ea8a4eb878c71c71c91b035899",
+  "content_sha256": "3d73b410e7ed0e36b24a20f199edfbeeb9b4e1456fa281f6d452f1d799ab02cb",
   "matrix_row_sha256": "171401342e582601d5454b58c1f2e9f8351460d72e8e7a540c04b6c10e7267f7",
-  "result": "REPAIR"
+  "result": "PASS"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00557",
   "title": "Xe thuê hỏng giữa chuyến đi: trách nhiệm thuộc về ai",
-  "scored_at": "2026-09-27T21:06:02+00:00",
+  "scored_at": "2026-09-27T21:06:49+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -22,26 +22,26 @@
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
-    "hanoi_example": false,
+    "hanoi_example": true,
     "reads_naturally_proxy": true,
     "no_placeholder": true,
     "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1318,
+  "word_count": 1358,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 75,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-27-xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai.md",
-  "content_sha256": "a1b324e1a57d7245d0a2ce1cf7c33e87c622d5449835e9a55b734cca86f57440",
+  "content_sha256": "1ae7e9a5022a4e01ca487757483d738a2b3011148734d26fbaa1b493597f5ae2",
   "matrix_row_sha256": "8094e12ad2d98218c8d4df0581ef9e481caf477d07eea0bbabd69fd6e02b42f3",
-  "result": "REPAIR"
+  "result": "PASS"
 }
