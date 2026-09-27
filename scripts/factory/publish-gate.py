@@ -325,7 +325,7 @@ def main():
                 r['canonical_url'] = r['expected_url']
         fields = list(rows[0].keys())
         with open(MATRIX, 'w', encoding='utf-8', newline='') as f:
-            w = csv.DictWriter(f, fieldnames=fields)
+            w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
             w.writeheader()
             w.writerows(rows)
 

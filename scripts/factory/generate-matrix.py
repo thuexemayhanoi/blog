@@ -328,7 +328,7 @@ def main():
             n_new += 1
 
     with open(OUT_PATH, 'w', encoding='utf-8', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=fields)
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
         w.writeheader()
         w.writerows(rows)
 

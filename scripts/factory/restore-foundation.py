@@ -135,7 +135,7 @@ if len(rows) != len(post_files):
     die('inventory lệch số tệp _posts')
 
 with open('data/content-inventory.csv', 'w', encoding='utf-8', newline='') as f:
-    w = csv.DictWriter(f, fieldnames=list(rows[0].keys()))
+    w = csv.DictWriter(f, fieldnames=list(rows[0].keys()), lineterminator='\n')
     w.writeheader()
     w.writerows(rows)
 

@@ -99,7 +99,7 @@ def load_matrix():
 def save_matrix(rows):
     fields = list(rows[0].keys())
     with open(MATRIX, 'w', encoding='utf-8', newline='') as f:
-        w = csv.DictWriter(f, fieldnames=fields)
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
         w.writeheader()
         w.writerows(rows)
 
