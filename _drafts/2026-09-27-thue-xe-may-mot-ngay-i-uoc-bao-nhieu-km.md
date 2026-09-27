@@ -21,6 +21,8 @@ Với người đi trong nội thành và vùng ven Hà Nội, một ngày thuê
 
 Con số chính xác hơn phụ thuộc loại xe. Xe số kiểu Wave gọn, nhẹ, bền đường trường. Xe ga kiểu Vision hay Air Blade mạnh hơn chút nhưng phải chú ý mát máy khi bám dốc dài liên tục. Khi chọn xe cho hành trình của mình, đừng chỉ nhìn giá thuê theo ngày mà quên hỏi loại xe đó có hợp đường bạn định đi hay không.
 
+Một cách ước nhanh cho lịch của chính bạn: liệt kê các điểm đến rồi ước khoảng cách giữa từng cặp điểm trên bản đồ, cộng thêm khoảng dư cho việc đi lại trong ngày. Con số tự tính đó, đặt cạnh dải khuyến nghị trên, thường cho biết ngay kế hoạch của bạn ở mức thoải mái hay đã quá tải. Nếu kế hoạch vượt 300 km, cân nhắc tách thành hai ngày hoặc thuê theo tuần thay vì cố gom một ngày.
+
 ## Giới hạn km khi thuê xe: hỏi trước, đừng đoán
 
 Không phải cửa hàng nào cũng hạn mức quãng đường, nhưng một số nơi quy định mức km tối đa mỗi ngày kèm phụ phí nếu vượt. Vì vậy giới hạn km khi thuê xe là chi tiết phải hỏi rõ ngay lúc nhận xe: có khống chế km không, nếu có thì bao nhiêu, vượt thì tính tiếp thế nào. Hỏi một phút lúc đầu luôn rẻ hơn tranh luận lúc trả xe.
@@ -31,7 +33,7 @@ Ngoài mức km, cũng hỏi xem tổng km có được ghi vào biên nhận kh
 
 Xe cho thuê mỗi ngày đều được chủ cửa hàng kiểm tra, nhưng một ngày bị ép quá 400 đến 500 km với tốc độ cao liên tục là bài kiểm tra sức bền mà kể cả xe riêng cũng mệt, huống chi xe thuê khác hẳn xe quen dùng. Hậu quả thường gặp: máy nóng, xích giãn, lốp non nhanh hơn bình thường, và xác suất hỏng hóc giữa đường tăng rõ rệt. Dọc các tuyến ra các tỉnh, thợ sửa xe không phải lúc nào cũng gần, và thời gian chờ đủ để phá lịch trình cả nhóm.
 
-Đi quá tải còn ảnh hưởng trực tiếp an toàn của bạn: tay lái và phản xạ chậm dần sau nhiều tiếng cầm ga, nhất là chiều tối tầm nhìn giảm. Nếu bạn muốn hiểu thêm về dấu hiệu xe bất thường cần báo cửa hàng ngay trong kỳ thuê, xem thêm bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia-se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/). Phát hiện sớm luôn nhẹ hơn xử lý muộn.
+Đi quá tải còn ảnh hưởng trực tiếp an toàn của bạn: tay lái và phản xạ chậm dần sau nhiều tiếng cầm ga, nhất là chiều tối tầm nhìn giảm. Nếu giữa đường xe có dấu hiệu lạ, đừng cố chạy tiếp: dừng lại, gọi cửa hàng và làm theo hướng dẫn xử lý cơ bản trong trang [xử lý sự cố xe](/blog/xe-may/xu-ly-su-co-xe/). Phát hiện sớm luôn nhẹ hơn xử lý muộn.
 
 ## Gợi ý lịch trình theo quãng đường cho khu vực Hà Nội
 
