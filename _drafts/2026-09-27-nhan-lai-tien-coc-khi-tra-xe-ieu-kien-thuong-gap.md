@@ -17,13 +17,14 @@ Khoản cọc được hoàn trả khi kết thúc kỳ thuê là điều khách
 
 Bài này điểm qua các điều kiện thường gặp kèm theo cách chuẩn bị để quá trình hoàn cọc diễn ra suôn sẻ cho cả hai bên. Nếu bạn chưa rõ bản chất khoản tiền này, hãy đọc trước tổng quan về [đặt cọc khi thuê xe máy](/blog/thue-xe/dat-coc/).
 
-## Điều kiện hoàn cọc cơ bản khi trả xe
+## Điều kiện nhận lại tiền cọc khi trả xe cơ bản
 
 Điều kiện đầu tiên là trả xe đúng thời gian và đúng địa điểm đã thỏa thuận. Hợp đồng thuê ngắn hạn thường tính theo ngày, vì vậy trả trễ vài giờ có thể ảnh hưởng đến số tiền hoàn lại theo cách tính của từng cửa hàng. Tốt nhất là chủ động nhắn tin xác nhận trước giờ trả và đến sớm hơn một chút để có thời gian kiểm tra xe.
 
 Điều kiện thứ hai là tình trạng xe. Xe được hoàn trong trạng thái sử dụng bình thường: máy vẫn nổ, đèn còi còn hoạt động, không thiếu phụ kiện như gương, chìa khóa hay giấy tờ kèm theo. Vết trầy nhẹ do sử dụng hàng ngày thường nằm trong phạm vi chấp nhận, còn hư hỏng do va chạm, rơi xe hay làm mất phụ kiện thì thường phải bàn bạc thêm.
 
-Điều kiện thứ ba là đầy đủ chứng từ. Bạn cần mang theo biên nhận cọc đã ký lúc nhận xe, trả lại đúng giấy tờ đã mượn kèm nếu có, và xuất trình định danh khi nhận tiền. Nếu khoản cọc được giao bằng chuyển khoản, chủ xe thường hoàn lại qua đúng kênh đó để hai bên có chứng cứ đối chiếu.
+Điều kiện thứ ba là đầy đủ chứ
+ng từ. Bạn cần mang theo biên nhận cọc đã ký lúc nhận xe, trả lại đúng giấy tờ đã mượn kèm nếu có, và xuất trình định danh khi nhận tiền. Nếu khoản cọc được giao bằng chuyển khoản, chủ xe thường hoàn lại qua đúng kênh đó để hai bên có chứng cứ đối chiếu.
 
 ## Quy trình kiểm tra xe khi trả
 
@@ -39,7 +40,8 @@ Có vài tình huống khiến khoản hoàn trả bị trừ đi một phần. 
 
 Với mỗi trường hợp, bạn nên yêu cầu chủ xe giải thích rõ căn cứ trừ: mức thiệt hại thể hiện ở đâu, thiệt hại đó ảnh hưởng thế nào tới khả năng cho thuê tiếp, và con số trừ được tính ra sao. Một cửa hàng minh bạch sẽ chỉ ra cụ thể từng hư hỏng thay vì đưa ra một con số chốt.
 
-Lưu ý rằng khoản trừ cần tương xứng với thiệt hại thực tế. Nếu hai bên bất đồng về mức trừ, cách tốt nhất là đối chiếu bộ ảnh chụp khi nhận xe và giữ thái độ bình tĩnh, tập trung vào bằng chứng thay vì cảm xúc. Khi cần, hãy đối chiếu lại [quy trình nhận và trả xe](/blog/thue-xe/nhan-tra-xe/) đã chốt từ đầu để hai bên cùng dựa vào một chuẩn mực chung.
+Lưu ý rằng khoản trừ cần tương xứng với thiệt hại thực tế. Nếu hai bên bất đồng về mức trừ, cách tốt nhất là đối c
+hiếu bộ ảnh chụp khi nhận xe và giữ thái độ bình tĩnh, tập trung vào bằng chứng thay vì cảm xúc. Khi cần, hãy đối chiếu lại [quy trình nhận và trả xe](/blog/thue-xe/nhan-tra-xe/) đã chốt từ đầu để hai bên cùng dựa vào một chuẩn mực chung.
 
 ## Cách chuẩn bị để nhận lại đủ tiền
 

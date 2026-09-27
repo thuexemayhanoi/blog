@@ -25,7 +25,8 @@ Một chi tiết thường bị quên: giờ trả xe cũng quan trọng như ng
 
 ## Điều kiện thứ hai: giữ đúng hiện trạng xe
 
-Hiện trạng xe là thứ khó tranh luận nhất nếu được ghi nhận rõ từ đầu. Vết xước mới trên tay lái, gương chiếu hậu bị mẻ, bọc yên bị rách: tất cả đều là đối tượng so sánh khi trả xe. Vì vậy, bước quan trọng nhất để hoàn cọc đủ diễn ra từ lúc nhận xe, khi bạn cùng cửa hàng kiểm tra theo [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) và chụp ảnh toàn diện.
+Hiện trạ
+ng xe là thứ khó tranh luận nhất nếu được ghi nhận rõ từ đầu. Vết xước mới trên tay lái, gương chiếu hậu bị mẻ, bọc yên bị rách: tất cả đều là đối tượng so sánh khi trả xe. Vì vậy, bước quan trọng nhất để hoàn cọc đủ diễn ra từ lúc nhận xe, khi bạn cùng cửa hàng kiểm tra theo [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) và chụp ảnh toàn diện.
 
 Trong suốt kỳ thuê, hãy báo ngay các dấu hiệu bất thường của xe theo gợi ý trong bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/), thay vì âm thầm mang đi sửa. Sửa tự động khi chưa hỏi có thể tạo ra thiệt hại chồng thiệt hại, và khi trả xe, phần chi phí này sẽ được đối chiếu với khoản cọc.
 
@@ -39,7 +40,8 @@ Bị trừ cọc không phải lúc nào cũng do lỗi lớn. Ba nhóm tình hu
 
 Bộ chứng từ của một người thuê xe cẩn thận gồm: biên nhận cọc ghi rõ số tiền và ngày, ảnh chụp hiện trạng xe khi nhận, và các tin nhắn trao đổi về sự cố nếu có. Khi trả xe, hãy cùng cửa hàng kiểm tra lần cuối theo đúng quy trình trong bài [trả xe đúng quy trình để tránh tranh chấp](/blog/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/), và chụp lại ảnh lần cuối trước khi bàn giao.
 
-Nếu mọi điều kiện đều đạt mà hoàn cọc chưa diễn ra ngay, hãy hỏi rõ thời gian hoàn và hình thức hoàn. Câu hỏi này nên đặt từ lúc nhận xe, vì mỗi cửa hàng có quy trình riêng. Với giao dịch chuyển khoản, hãy xác nhận lại số tài khoản của bạn ngay tại chỗ.
+Nếu mọi điều kiện đều đạt mà hoàn cọc chưa diễn ra ngay, hãy hỏi rõ thời gian hoàn và hình thức hoàn. Câu hỏi này nên đặt từ lúc nhận xe, vì mỗi cửa h
+àng có quy trình riêng. Với giao dịch chuyển khoản, hãy xác nhận lại số tài khoản của bạn ngay tại chỗ.
 
 ## Cách trao đổi để nhận lại tiền cọc thuê xe khi có khác biệt
 
@@ -47,6 +49,6 @@ Nếu có bất đồng về mức trừ hoặc thời gian hoàn, cách trình 
 
 Một chi tiết nhỏ mà hữu ích: hãy chọn thời điểm trao đổi khi cửa hàng không đông khách, ví dụ buổi sáng ngay khi mở cửa. Cuộc nói chuyện giữa hai người tỉnh táo luôn hiệu quả hơn cuộc tranh luận trước mặt ba bốn khách đang chờ nhận xe.
 
-Cần hỏi rõ điều khoản cọc trước khi thuê, hãy trao đổi trực tiếp với cửa hàng qua trang [liên hệ](/blog/lien-he/) tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Mục [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/) giải thích toàn bộ cơ chế bảo đảm, còn trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/) đi sát các quy trình ở hai đầu hợp đồng. Muốn hiểu cơ chế đặt cọc từ gốc, xem thêm [đặt cọc khi thuê xe máy hoạt động thế nào](/blog/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/).
+Cần hỏi rõ điều khoản cọc trước khi thuê, hãy trao đổi trực tiếp với cửa hàng qua trang [liên hệ](/blog/lien-he/) tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên. Mục [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/) giải thích toàn bộ cơ chế bảo đảm, còn trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/) đi sát các quy trình ở hai đầu hợp đồng. Muốn hiểu cơ chế đặt cọc từ gốc, hãy đọc kỹ hướng dẫn [thủ tục thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/).
 
 Cuối cùng, một nguyên tắc nhỏ để bạn luôn hoàn cọc đủ: hãy thuê như thể mình sẽ phải trả lại thứ mình mượn. Cách sử dụng cẩn thận trong kỳ thuê là điều kiện số một, mọi chứng từ chỉ là lớp bảo vệ thứ hai.

@@ -25,7 +25,8 @@ Vì vậy, phần đầu tiên của việc xử lý tranh chấp là tự hỏi
 
 Cuộc trao đổi đầu tiên nên bắt đầu bằng vật chứng: đặt biên nhận và ảnh chụp lên bàn, đi từng mục so sánh. Vết xước trên tay lái là vết cũ có trong ảnh ngày nhận hay vết mới? Mức trừ được tính theo chi phí sửa chữa thực tế hay con số phóng đại? Khi trao đổi có căn cứ, phần lớn tranh chấp thu hẹp lại đúng chỗ thật sự còn chưa thống nhất.
 
-Cần lưu ý ngôn ngữ: mô tả sự việc, không quy kết động cơ. Câu "vết xước này có trong ảnh ngày nhận rồi" mạnh hơn nhiều so với câu "anh cố tình ép tôi". Cửa hàng cũng là người cần giữ uy tín, nên một trao đổi chuyên nghiệp thường được đáp lại bằng chuyên nghiệp.
+Cần l
+ưu ý ngôn ngữ: mô tả sự việc, không quy kết động cơ. Câu "vết xước này có trong ảnh ngày nhận rồi" mạnh hơn nhiều so với câu "anh cố tình ép tôi". Cửa hàng cũng là người cần giữ uy tín, nên một trao đổi chuyên nghiệp thường được đáp lại bằng chuyên nghiệp.
 
 ## Bước hai: đề xuất phương án cụ thể
 
@@ -43,9 +44,10 @@ Một điều nên tránh: đừng để cảm xúc dẫn dắt bạn qua các b
 
 ## Phòng tránh cho lần thuê sau
 
-Mọi tranh chấp về cọc đều dễ phòng hơn dễ xử. Lần thuê sau, hãy làm ba việc từ ngày đầu: chụp ảnh hiện trạng xe chi tiết theo đúng cách làm với [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/); yêu cầu biên nhận cọc ghi rõ số tiền, ngày, họ tên; và hỏi trước điều kiện hoàn cọc cũng như cách xử lý hư hỏng.
+Mọi tranh chấp về cọc đều dễ phòng hơn dễ xử. Lần thuê sau, hãy làm ba việc từ ngày đầu: chụp ảnh
+ hiện trạng xe chi tiết theo đúng cách làm với [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/); yêu cầu biên nhận cọc ghi rõ số tiền, ngày, họ tên; và hỏi trước điều kiện hoàn cọc cũng như cách xử lý hư hỏng.
 
-Cơ chế đặt cọc vận hành ra sao nằm trong bài [đặt cọc khi thuê xe máy hoạt động thế nào](/blog/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/), còn điều kiện để được hoàn đủ nằm trong bài [điều kiện nhận lại tiền cọc đủ](/blog/thue-xe/2026/09/27/ieu-kien-nhan-lai-tien-coc-u/). Khi trả xe, làm đúng quy trình bàn giao cũng giúp bạn không tạo khe hở cho tranh chấp, xem [trả xe đúng quy trình để tránh tranh chấp](/blog/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
+Cơ chế đặt cọc vận hành ra sao nằm trong mục tổng hợp [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/), còn điều kiện để được hoàn đủ tiền cọc khi trả xe nằm trong trang quy trình [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/). Khi trả xe, làm đúng quy trình bàn giao cũng giúp bạn không tạo khe hở cho tranh chấp, xem [trả xe đúng quy trình để tránh tranh chấp](/blog/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/).
 
 Cần trao đổi với cửa hàng, thông tin nằm tại trang [liên hệ](/blog/lien-he/) ghi địa chỉ 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, và mục [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/) tổng hợp đầy đủ các bài về bảo đảm khi thuê xe tại Hà Nội.
 

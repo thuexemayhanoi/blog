@@ -21,7 +21,8 @@ Bài này so sánh hai hình thức đặt cọc thường gặp, chỉ ra ưu �
 
 Chuyển khoản là hình thức được nhiều người trẻ và khách thuê từ xa ưa chuộng. Lợi thế lớn nhất của cách này là minh bạch: giao dịch được ngân hàng ghi lại rõ ràng, có thời gian, có số tiền, có tên người gửi. Khi đến kỳ nhận lại, nếu chủ xe hoàn trả qua đúng tài khoản đó, bạn có chứng cứ rất cụ thể về toàn bộ quá trình nhận và trả cọc.
 
-Chuyển khoản cũng giúp bạn đặt xe từ trước mà không cần di chuyển. Bạn có thể đang ở quận khác hoặc mới sắp xếp lên Hà Nội mà vẫn giữ được xe vì đã chuyển cọc trước. Với người thuê ngắn hạn chỉ cần xe trong một hai ngày, việc không phải mang theo tiền mặt cũng nhẹ nhàng hơn, tránh được rủi ro để quên ví hoặc mất trộm trên đường đi.
+Chuyển khoản cũng giúp bạn đặt xe từ trước mà không cần di chuyển. Bạn có thể đang ở quận khác hoặc mới sắp xếp lên Hà Nội mà vẫn giữ được xe vì đã chuyển cọc trước. Với người thuê ngắn hạn chỉ cần xe trong một hai ngày, việc không phải mang theo tiền mặt cũng nhẹ nhàng hơn, tránh được rủi ro để quên ví hoặc mất trộm trên đường đi
+.
 
 Một điểm cộng nữa là tính trực quan: sao kê ngân hàng nói lên đúng khoản tiền đã giao, không có chuyện nhầm lẫn giữa các mệnh giá giấy bạc khi đếm tại quầy. Với những bạn lần đầu thuê xe và chưa quen các [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), chứng từ ngân hàng là điểm tựa tâm lý rất ổn.
 
@@ -39,9 +40,10 @@ Dù chọn cách nào, có vài nguyên tắc bạn nên nhớ. Với chuyển k
 
 Bạn cũng nên hỏi trước chủ xe về cách hoàn trả: hoàn bằng đúng hình thức nhận hay được phép đổi, hoàn trong bao lâu sau khi trả xe, và có cần thông báo trước hay không. Các thông tin này nên được thống nhất từ đầu để tránh tranh luận ở cuối kỳ thuê. Nếu khoản cọc được xác nhận trực tiếp với chủ xe khi bạn hỏi giá, thì hình thức giao và hoàn cũng nên được hỏi rõ trong cùng lúc đó.
 
-Một lưu ý nhỏ: với chuyển khoản, hãy chuyển từ tài khoản đứng tên bạn để chứng cứ liên hệ với giấy tờ bạn để lại. Nếu dùng tài khoản của người thân, nên ghi chú trong nội dung chuyển kèm tên người thuê. Với tiền mặt, nếu số tiền lớn, hãy đếm lại trước mặt chủ xe và cùng điểm chứng kiến biên nhận.
+Một 
+lưu ý nhỏ: với chuyển khoản, hãy chuyển từ tài khoản đứng tên bạn để chứng cứ liên hệ với giấy tờ bạn để lại. Nếu dùng tài khoản của người thân, nên ghi chú trong nội dung chuyển kèm tên người thuê. Với tiền mặt, nếu số tiền lớn, hãy đếm lại trước mặt chủ xe và cùng điểm chứng kiến biên nhận.
 
-## Nên chọn hình thức nào cho phù hợp
+## Nên chọn hình thức đặt cọc thuê xe nào cho phù hợp
 
 Nếu bạn thuê từ xa, muốn giữ xe trước hoặc đơn giản là quen dùng ngân hàng, chuyển khoản phù hợp hơn. Nếu bạn thuê trực tiếp trong ngày, muốn giao dịch nhanh gọn tại quầy và nhận lại ngay khi trả xe, tiền mặt thuận tiện hơn. Nhiều khách ở Hà Nội kết hợp cả hai: chuyển khoản trước để giữ xe, rồi đối chiếu biên nhận khi đến nhận xe trực tiếp.
 
