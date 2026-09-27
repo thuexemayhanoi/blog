@@ -198,11 +198,17 @@ if os.path.exists(MATRIX):
     for key in ('output_path','canonical_url'):
         vals = [r[key] for r in mrows]
         if len(set(vals)) != len(vals): err('matrix %s trùng' % key)
-    # ---- kế hoạch lô: nhóm 50 hàng PLANNED theo thứ tự id, B001... (đ deterministic)
-    _pl = [r for r in mrows if r['status'] == 'PLANNED' and r.get('batch_id')]
-    for _i, _r in enumerate(_pl):
-        if _r['batch_id'] != 'B%03d' % (_i // 50 + 1):
-            err('batch_id PLANNED lệch quy tắc 50 hàng/lô tại %s (%s)' % (_r['id'], _r['batch_id']))
+    # ---- kế hoạch lô (batch plan): batch_id là thuộc tính TĨNH gán lúc sinh
+    # matrix (generate-matrix.py gán theo vị trí trong tập PLANNED lúc sinh).
+    # Khi hàng được claim thành WRITING/QA/PASS/PUBLISHED, tập PLANNED hiện tại
+    # thay đổi, nên KHÔNG được tính lại vị trí lô từ tập PLANNED hiện hành
+    # (sẽ báo lỗi giả sau khi claim). Bất biến kiểm được: thứ tự batch_id theo
+    # id phải không giảm (các lô không xen kẽ nhau).
+    _pl = [r for r in mrows if r.get('batch_id')]
+    for _i in range(1, len(_pl)):
+        if _pl[_i]['batch_id'] < _pl[_i - 1]['batch_id']:
+            err('batch_id xen kẽ/lệch thứ tự tại %s (%s sau %s)'
+                % (_pl[_i]['id'], _pl[_i]['batch_id'], _pl[_i - 1]['batch_id']))
             break
     legacy = [r for r in mrows if r['source'].startswith('legacy:')]
     if len(legacy) != len(inv): err('matrix legacy rows != inventory: %d/%d' % (len(legacy), len(inv)))

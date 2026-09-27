@@ -33,8 +33,11 @@ for fn in os.listdir(os.path.join(ROOT, '_posts')):
         shutil.copy(os.path.join(ROOT, '_posts', fn), os.path.join(work, '_posts', fn))
 os.makedirs(os.path.join(work, 'reports/factory'))
 for fn in os.listdir(os.path.join(ROOT, 'reports/factory')):
-    shutil.copy(os.path.join(ROOT, 'reports/factory', fn),
-                os.path.join(work, 'reports/factory', fn))
+    src = os.path.join(ROOT, 'reports/factory', fn)
+    if os.path.isdir(src):
+        # reports/factory/rows/ (manifest writer export) không thuộc fixture test
+        continue
+    shutil.copy(src, os.path.join(work, 'reports/factory', fn))
 # restore-foundation ghi vào _data/
 os.makedirs(os.path.join(work, '_data'))
 
@@ -194,7 +197,8 @@ for cid, spec in seed['children'].items():
         if 'scores' not in r:
             old_titles.add(norm(r['title']))
 matrix_titles = {norm(r['title']) for r in matrix1
-                  if r['status'] in ('PLANNED', 'PUBLISHED', 'BLOCKED')}
+                  if r['status'] in ('PLANNED', 'WRITING', 'QA', 'PASS',
+                                     'REPAIR', 'PUBLISHED', 'BLOCKED')}
 lost = [t for t in old_titles if t not in matrix_titles]
 check(not lost, 'hàng seed cũ không bị mất sau mở rộng (%s)' % (lost[:2] or 'PASS'))
 

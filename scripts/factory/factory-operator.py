@@ -417,8 +417,10 @@ def qa_check_one(row, rows, biz, tax):
                                           for r in required)
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
-    hub = parents[row['parent_id']]['hub_url']
+    hub = re.sub(r'^/blog', '', parents[row['parent_id']]['hub_url'])
     child_hub = children[row['child_id']].get('hub_url')
+    if child_hub:
+        child_hub = re.sub(r'^/blog', '', child_hub)
     checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
     checks['links_count'] = 3 <= len(links) <= 8
     checks['no_hardcoded_blog'] = not re.search(r'\]\(.*\/blog\/blog', body) \
