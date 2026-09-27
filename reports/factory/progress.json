@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T12:24:23+00:00",
+  "generated_at": "2026-09-27T12:29:17+00:00",
   "data_through": "2026-09-27",
   "data_fingerprint": "ebf271fa56b87c75722f219ac9b109eed017de02ebcb122aa76268e049c25ac6",
   "matrix_sha256": "bdcdab188a458828592a0fdbd0cd14603024e66b8b3ec1900e417fab90077709",
@@ -46,13 +46,7 @@
     "last_completed_article_id": "BLG-00490",
     "last_batch_id": null,
     "next_claimable_id": "BLG-00491",
-    "in_progress_chunk": [
-      "BLG-00486",
-      "BLG-00487",
-      "BLG-00488",
-      "BLG-00489",
-      "BLG-00490"
-    ]
+    "in_progress_chunk": null
   },
   "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận chunk tối đa 10 hàng PLANNED bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart."
 }
