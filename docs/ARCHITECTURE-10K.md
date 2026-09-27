@@ -8,12 +8,15 @@ khong sao chep noi dung hoac du lieu kinh doanh).
 CAPACITY -> TAXONOMY BUDGETS -> MANIFEST/QUEUE -> CLAIM BATCH
 -> VALIDATE INTENT -> WRITE -> QA -> PUBLISH -> NEXT BATCH
 
-Muc tieu 10.000 la NANG LUC ENGINE, khong phai yeu cau tao
-10.000 hang de bai viet truoc khi factory "san sang".
+NANG LUC ENGINE 10.000 cung la CHI TIÊU SAN XUAT theo quyet
+dinh chu xe 2026-09-27: chien dich hoan thanh khi dat 10.000 bai
+HOP LE PUBLISHED (khong phai 10.000 hang materialized truoc khi
+factory "san sang"). Khong ha gate, khong dem that de lap day chi tieu.
 
 ## Bon khai niem bat buoc phan biet
 
-- HARD_CAPACITY = 10.000: tran ky thuat.
+- HARD_CAPACITY = 10.000: tran ky thuat va chi tieu san xuat
+  (quyet dinh chu xe 2026-09-27: 10.000 bai hop le PUBLISHED).
 - EDITORIAL_CAPACITY = 10.000: da phan bo (56 child tong 9.517
   + legacy 483), tin vao data/factory-capacity.json.
 - MATERIALIZED_MANIFEST: so luong hang matrix thuc te LUON doc tu
@@ -48,7 +51,8 @@ Cum lon nhan nhieu (vi du C-THUE-GIA 300), cum hep nhan it
   (--stats, --needs-refill) doc truc tiep tu matrix.
 - Moi chu de materialized phai qua gate: intent unique,
   keyword unique, khong trung legacy, khong cannibalization
-  sibling, canonical/output_path unique, legal feasible,
+  sibling, canonical/output_path unique, legal fe
+asible,
   depth feasible (word_target >= 1.200).
 
 ## Lazy refill (materialization)
@@ -97,7 +101,8 @@ Cum lon nhan nhieu (vi du C-THUE-GIA 300), cum hep nhan it
 
 ## Scale gates (milestone audit day du)
 
-500 -> 1000 -> 2000 -> 5000 -> 10000. Tai moi moc chay audit:
+500 -> 1000 
+-> 2000 -> 5000 -> 10000. Tai moi moc chay audit:
 duplicate intent, cannibalization, broken links, sitemap,
 indexability, build size, CI duration, Pages deploy,
 chat luong noi dung, legal freshness, factory state.

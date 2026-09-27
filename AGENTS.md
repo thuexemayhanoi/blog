@@ -51,7 +51,7 @@ Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp di�
 - KHÔNG tự đổi trạng thái REVIEW/BLOCKED.
 - KHÔNG publish thẳng vào `_posts/` ngoài publish gate.
 - Vận hành qua factory operator (docs/PROC-PUBLISH.md): writer ngoài chỉ đẩy lệnh whitelist vào `data/factory/operator-command.json`; GitHub Actions `factory-operator.yml` là deterministic hands — KHÔNG AI trong Actions, KHÔNG gọi API AI, KHÔNG secret AI, KHÔNG viết prose. External AI vẫn là writer duy nhất; engine chuẩn là nguồn sự thật duy nhất.
-- KHÔNG sinh bài đệm để tiến gần 10.000 — 10K là trần, không phải chỉ tiêu.
+- KHÔNG sinh bài đệm để tiến gần 10.000. QUYẾT ĐỊNH CHỦ XE 2026-09-27: 10.000 bài HỢP LỆ PUBLISHED là CHỈ TIÊU sản xuất của một chiến dịch liên tục duy nhất (không chỉ là trần kỹ thuật). Chỉ bài đạt đủ gate mới tính vào chỉ tiêu; KHÔNG hạ gate, KHÔNG sinh bài đệm để chạy theo chỉ tiêu. Khi hàng PLANNED cạn, mở rộng vũ trụ chủ đề qua gate chuẩn.
 - KHÔNG tuyên bố có scheduler khi chưa có — hiện CHƯA có scheduler factory (không cron, không hourly); vận hành theo LỆNH operator (docs/PROC-PUBLISH.md); `publish-queue.yml` là campaign LEGACY đã tắt, không phải scheduler.
 - Không push file truncate; kiểm tra tính toàn vẹn trước push.
 - Không ghi PASS/VERIFIED khi chưa chạy thật; mục chưa kiểm tra ghi NOT VERIFIED.
@@ -97,4 +97,4 @@ Bắt buộc trong báo cáo cuối: MAIN HEAD (SHA), GitHub Pages run ID, BUILD
 
 Ba mốc KHÔNG dùng lẫn: `generated_at` (giờ chạy report — đổi mỗi lần chạy); `data_through` (ngày bài mới nhất — chỉ đổi khi nội dung đổi); `checkpoint.updated_at` (giờ state factory đổi vật lý — report KHÔNG nâng). Bằng chứng deterministic: `data_fingerprint`, `matrix_sha256`, `taxonomy_sha256`, `inventory_sha256` trong progress.json.
 
-Năng lực (báo đúng, không đệm — số hiện hành LUÔN đọc `reports/factory/matrix-report.md`): HARD_CAPACITY 10.000 là TRẦN kỹ thuật, không phải chỉ tiêu biên tập; EDITORIAL_TARGET (tổng planned_target taxonomy) luôn nhỏ hơn trần; phần chênh chỉ dành cho chủ đề MỚI thật qua gate. Đạt 10.000 không phải điều kiện hoàn thành.
+Năng lực (báo đúng, không đệm — số hiện hành LUÔN đọc `reports/factory/matrix-report.md`): HARD_CAPACITY 10.000 là TRẦN kỹ thuật VÀ, theo quyết định chủ xe 2026-09-27, là CHỈ TIÊU sản xuất: chiến dịch hoàn thành khi đạt 10.000 bài hợp lệ PUBLISHED (không phải khi matrix đầy). EDITORIAL_TARGET (tổng planned_target taxonomy) luôn nhỏ hơn trần; phần chênh chỉ dành cho chủ đề MỚI thật qua gate. KHÔNG hạ gate để đạt chỉ tiêu; không đạt do hết chủ đề hợp lệ → mở rộng vũ trụ chủ đề qua gate chuẩn rồi tiếp tục.

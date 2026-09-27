@@ -10,7 +10,7 @@ Blog nội dung SEO cho dịch vụ cho thuê xe máy tại Hà Nội, tách bi�
 
 ## Kiến trúc & khái niệm 10K
 
-- Content Factory hỗ trợ TỐI ĐA 10.000 bài hợp lệ (HARD CAPACITY — trần kỹ thuật, KHÔNG phải chỉ tiêu phải nhịp đầy).
+- Content Factory hỗ trợ TỐI ĐA 10.000 bài hợp lệ (HARD CAPACITY — trần kỹ thuật). Quyết định chủ xe 2026-09-27: 10.000 bài hợp lệ PUBLISHED là CHỈ TIÊU sản xuất của một chiến dịch liên tục — không đệm, không hạ gate, đạt bằng chủ đề hợp lệ qua gate mở rộng.
 - Chủ đề mở rộng LAZY: chỉ sinh candidate khi queue PLANNED tụt dưới ngưỡng, và chỉ nhận chủ đề có ý định tìm kiếm thật, qua các gate chống trùng (G1–G8). Chi tiết kiến trúc: `docs/ARCHITECTURE-10K.md`; chính sách biên tập/scale: `docs/CONTENT-POLICY-10K.md`.
 - Bài xuất bản qua publish gate (quality ≥ 90, seo ≥ 90, business fact + legal PASS, hash bằng chứng khớp). Chi tiết: `docs/CONTENT-FACTORY.md`, `docs/QUALITY-RUBRIC.md`.
 
@@ -22,7 +22,8 @@ Số liệu matrix/queue/checkpoint thay đổi theo từng lần chạy. Tài l
 - `data/state/transaction.json` + `data/state/writer-lock.json` — transaction và ownership-safe writer lock.
 - `reports/factory/progress.json` — vân tay dữ liệu (data_fingerprint, matrix_sha256...).
 - `reports/factory/matrix-report.md` — báo cáo năng lực matrix hiện hành (HARD_CAPACITY, EDITORIAL_TARGET, CURRENT_VALID_ROWS...).
-- `reports/factory/latest.md` — nhật ký chạy gần nhất.
+- `reports/factory/latest.md` — nhật ký chạy gần n
+hất.
 
 ## Dữ liệu kinh doanh (business facts) — nguồn chuẩn duy nhất
 
@@ -43,7 +44,8 @@ Số liệu matrix/queue/checkpoint thay đổi theo từng lần chạy. Tài l
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 
-EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → đẩy lệnh whitelist vào `data/factory/operator-command.json` → GitHub Actions `factory-operator.yml` (checkout + Python + Node, KHÔNG AI, KHÔNG secret AI) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy theo lệnh.
+EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → đẩy lệnh whitelist vào `data/factory/operator-command.json` → GitHub Actions `factory-operator.yml` (checkout + Python + Node, KHÔNG AI, KHÔNG secret AI) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy the
+o lệnh.
 
 ## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 

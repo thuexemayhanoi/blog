@@ -13,8 +13,12 @@ thich ngon ngu nang luc va rang buoc khi scale len 10.000.
   tai lieu tinh; doc dong nay la vi du mau, con so thuc luon doc
   tu bao cao sinh tu dong.
 - CAM noi: "10.000 article matrix complete" hoac bat ky cau nao
-  ngam 10.000 chu de da ton tai. 9.058 con lai la
+  ngam 10.000 chu de da ton tai. Phan chua materialized la
   UNMATERIALIZED CAPACITY, khong phai "missing rows".
+- QUYET DINH CHU XE 2026-09-27: 10.000 bai HOP LE PUBLISHED la CHI
+  TIEU san xuat (target), khong chi tran ky thuat. Chi bai qua du
+  gate moi dem vao chi tieu; khong ha gate, khong dem bai dem.
+  Het hang PLANNED hop le -> mo rong vu tru chu de qua gate G1-G8.
 - Mot child co editorial_capacity 300 va moi materialized
   vai chuc bai la BINH THUONG. Capacity khong bang noi dung.
 
@@ -45,7 +49,8 @@ thich ngon ngu nang luc va rang buoc khi scale len 10.000.
 ## 4. Phap ly va nguon
 
 - Hang source_required=true phai doi chieu nguon chinh thong
-  khi viet; khong co nguong -> REVIEW/BLOCKED, KHONG bia
+  khi
+ viet; khong co nguong -> REVIEW/BLOCKED, KHONG bia
   muc phat hien hanh.
 - Khong keu khong vi pham luat giao thong Viet Nam.
 - Child phap ly ke thua source policy tu taxonomy; refill
