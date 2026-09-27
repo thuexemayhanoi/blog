@@ -563,7 +563,10 @@ def op_qa(args, biz, tax):
         write_json_atomic(os.path.join('reports/factory', 'qa-outcome.json'),
                           {'run_at': now_iso(), 'op': 'qa',
                            'outcomes': outcomes})
-        run_reports()
+        if run_reports_checked('qa') != 0:
+            return 1
+        if validate_or_stop('qa') != 0:
+            return 1
         print('qa: xong %d hàng, kết quả: %s'
               % (len(outcomes), json.dumps(outcomes, ensure_ascii=False)))
         return 0
@@ -598,6 +601,32 @@ def run_reports():
     if l.returncode != 0:
         print(l.stderr[-600:])
     return r.returncode or m.returncode or l.returncode
+
+
+def run_reports_checked(ctx):
+    """run_reports() BAT BUOC thanh cong sau moi op doi state — KHONG
+    bao gio nuot ma tra ve. Neu FAIL: op phai DUNG (return 1), khong
+    khai thanh cong, khong sang phase san xuat khac. State da doi tren
+    dia nhung workflow dung truoc buoc commit -> khong bao gio commit
+    state lech; lan chay sau resume tu repository truth."""
+    rc = run_reports()
+    if rc != 0:
+        print('%s: run_reports FAIL (rc=%d) — DỪNG, KHÔNG khai thành '
+              'công. Chạy reports/verify trước khi làm tiếp.' % (ctx, rc))
+        return 1
+    return 0
+
+
+def validate_or_stop(ctx):
+    """validate.py chuan sau khi op doi state — FAIL thi DUNG, KHÔNG
+    rollback tay (docs/RECOVERY.md)."""
+    v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
+                       capture_output=True, text=True)
+    print(v.stdout[-1500:])
+    if v.returncode != 0:
+        print('%s: validate.py FAIL sau khi đổi state — DỪNG, KHÔNG '
+              'rollback tay; chạy recover/verify trước khi làm tiếp.' % ctx)
+    return v.returncode
 
 
 def op_status(args):
@@ -664,7 +693,10 @@ def op_prepare_next(args, biz, tax):
         for c in chunk:
             path = export_manifest(c, tax, biz, rows, d)
             print('manifest: %s' % path)
-        run_reports()
+        if run_reports_checked('prepare-next') != 0:
+            return 1
+        if validate_or_stop('prepare-next') != 0:
+            return 1
         print('prepare-next: claim %d hàng: %s' % (len(ids), ','.join(ids)))
         return 0
     finally:
@@ -714,13 +746,9 @@ def op_publish(args):
         return 1
     cp['in_progress_chunk'] = None
     update_checkpoint(cp, rows2)
-    run_reports()
-    v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
-                       capture_output=True, text=True)
-    print(v.stdout[-1500:])
-    if v.returncode != 0:
-        print('publish: validate.py FAIL sau promote — dừng, KHÔNG rollback '
-              'tay; chạy recover/verify trước khi làm tiếp.')
+    if run_reports_checked('publish') != 0:
+        return 1
+    if validate_or_stop('publish') != 0:
         return 1
     print('publish: PUBLISHED %s' % ','.join(ok_ids))
     return 0
@@ -756,7 +784,12 @@ def op_requeue(args):
                 print('requeue: %s -> WRITING (repair_count=%d)' % (aid, n + 1))
         save_matrix(rows)
         update_checkpoint(cp, rows)
-        return 0
+        # requeue là state mutation: bat ky op doi state phai de lai
+        # matrix + checkpoint + reports + listing/index da tai sinh va
+        # validate — neu regeneration/validation FAIL thi dung an toan.
+        if run_reports_checked('requeue') != 0:
+            return 1
+        return validate_or_stop('requeue')
     finally:
         release()
 
@@ -794,6 +827,11 @@ def op_recover(args):
         txn['pending'] = None
         txn['updated_at'] = now_iso()
         write_json_atomic(TXN, txn)
+        # state mutation (PUBLISHED + checkpoint) -> resync + validate
+        if run_reports_checked('recover') != 0:
+            return 1
+        if validate_or_stop('recover') != 0:
+            return 1
         print('recover: transaction hoàn tất (đích đã tồn tại): %s' % dest)
         return 0
     if draft and os.path.exists(draft):
@@ -815,6 +853,11 @@ def op_recover(args):
         txn['pending'] = None
         txn['updated_at'] = now_iso()
         write_json_atomic(TXN, txn)
+        # state mutation (row ve QA + checkpoint) -> resync + validate
+        if run_reports_checked('recover') != 0:
+            return 1
+        if validate_or_stop('recover') != 0:
+            return 1
         print('recover: transaction rollback (chưa promote): %s' % draft)
         return 0
     print('recover: transaction active nhưng không suy luận được trạng thái '
@@ -864,10 +907,10 @@ def op_refill(args):
         if rr.returncode != 0:
             print('refill: refill-queue.py FAIL — dừng.')
             return 1
-        v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
-                           capture_output=True, text=True)
-        print(v.stdout[-800:])
-        return v.returncode
+        # refill them hang PLANNED -> matrix-report/doi dem phai tai sinh
+        if run_reports_checked('refill') != 0:
+            return 1
+        return validate_or_stop('refill')
     finally:
         release()
 
