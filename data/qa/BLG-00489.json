@@ -38,8 +38,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-so-sanh-gia-thue-xe-so-va-xe-tay-ga.md",
+  "source_path": "_posts/2026-09-27-so-sanh-gia-thue-xe-so-va-xe-tay-ga.md",
   "content_sha256": "87301dd9bc3afa7adb4ecc39f41414a3c9ca40b2f9515543d480888ae653e666",
-  "matrix_row_sha256": "78d5355319399b3e398f86eed934a9e12190dfb3626c8da4aaaa0760a84d8409",
-  "result": "PASS"
+  "matrix_row_sha256": "d0db3ca1e414cbf6e6cd65c55e0f6b2875eb74a04c8d98d9018eb78b1f3bf9e1",
+  "result": "PASS",
+  "published_at": "2026-09-27T12:24:23+00:00"
 }

@@ -38,8 +38,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-gia-thue-xe-may-theo-tuan-o-ha-noi.md",
+  "source_path": "_posts/2026-09-27-gia-thue-xe-may-theo-tuan-o-ha-noi.md",
   "content_sha256": "35e31205088803a37200e4eadef6f4d36d1eab1b93552a6023c7998cd864b2da",
-  "matrix_row_sha256": "7af741865d3f401e3c464542a2c3ccbb0ef40973b6972007fd6e9149cf61bcae",
-  "result": "PASS"
+  "matrix_row_sha256": "6adcfde357c5bc395eebc0de5c00beaccc4e221ef18aa6cf908bee4bd6e6d15f",
+  "result": "PASS",
+  "published_at": "2026-09-27T12:24:23+00:00"
 }
