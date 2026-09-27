@@ -13,15 +13,16 @@ child_id: C-XE-GA
 article_id: BLG-00567
 ---
 
-Đi xe tay ga giữa giờ cao điểm ở Hà Nội, lúc dòng xe đặc kín trên các trục như Nguyễn Văn Cừ, Chương Dương hay Giải Phóng, là một trải nghiệm khác hẳn với chạy đường vắng. Xe ga nhàn tay nhưng cũng dễ khiến người lái chủ quan vì không phải thao tác côn số. Bài viết này tổng hợp các mẹo giữ an toàn khi lái xe ga trong phố đông, từ cách giữ khoảng cách đến cách dùng phanh và chọn vị trí trên đường, để mỗi chuyến đi qua phố đều kết thúc nhẹ nhàng.
+Lái xe ga trong phố đông giữa giờ cao điểm ở Hà Nội, lúc dòng xe đặc kín trên các trục như Nguyễn Văn Cừ, Chương Dương hay Giải Phóng, là trải nghiệm khác hẳn với chạy đường vắng. Xe ga nhàn tay nhưng cũng dễ khiến người lái chủ quan vì không phải thao tác côn số. Bài viết này tổng hợp các mẹo giữ an toàn khi lái xe ga trong phố đông, từ cách giữ khoảng cách đến cách dùng phanh và chọn vị trí trên đường, để mỗi chuyến đi qua phố đều kết thúc nhẹ nhàng.
 
-## Vì sao xe ga trong phố đông cần mẹo riêng
+## Vì sao lái xe ga trong phố đông cần mẹo riêng
 
 Đặc tính của xe ga là ga và phanh nằm cả ở tay phải, phản ứng tăng giảm tốc rất nhanh, thả ga là máy hãm lại ngay. Trong phố đông, dòng xe liên tục ép sát, xe buýt chiếm làn, taxi tránh khách rẻ hú sang, phản ứng nhanh này là lợi thế nhưng cũng là rủi ro nếu tay lái thiếu kỷ luật. Người đi xe ga dễ rơi vào hai thói quen nguy hiểm: thứ nhất là vặn ga thoải mái vì máy nhàn, thứ hai là phanh gấp vì để xe quá sát phía trước. Các mẹo dưới đây giúp giữ hai thói quen đó trong khuôn khổ an toàn.
 
 ## Giữ khoảng cách an toàn và quan sát xa
 
-Nguyên tắc số một trong phố đông là giữ khoảng cách với xe phía trước đủ để dừng được mà không phanh gấp. Với xe ga, khoảng cách này nên rộng hơn chút so với xe số vì bạn có xu hướng đi đều ga thay vì chuẩn bị về số. Quan sát không chỉ nhìn bánh xe trước mặt mà nhìn xa hai ba xe về phía trước: thấy đèn phanh của xe container sáng là bạn đã nhả ga sớm, không cần chờ đến lúc xe sát mình. Định kỳ liếc gương hai bên, nhất là trước khi rẽ hoặc đổi làn, vì xe máy luồn lách trong phố Hà Nội thường xuất hiện từ điểm mù rất gần. Khi dừng đèn đỏ, tránh dừng sát đuôi xe tải lớn để còn lối thoát nếu có xe phía sau không phanh kịp.
+Nguyên tắc số một trong phố đông là giữ khoảng cách với xe phía trước đủ để dừng được mà không phanh gấp. Với xe ga, khoảng cách này nên rộng hơn chút so với xe số vì bạn có xu hướng đi đều ga thay vì chuẩn bị về số. Quan sát không chỉ nhìn bánh xe trước mặt mà nhìn xa hai ba xe về phía trước: thấy đèn phanh của xe container sáng là bạn đã nhả ga sớm, không cần chờ đến lúc xe sát mình. Định kỳ liếc gương hai bên, nhất là trước khi rẽ hoặc đổi làn,
+ vì xe máy luồn lách trong phố Hà Nội thường xuất hiện từ điểm mù rất gần. Khi dừng đèn đỏ, tránh dừng sát đuôi xe tải lớn để còn lối thoát nếu có xe phía sau không phanh kịp.
 
 ## Dùng ga và phanh xe ga đúng cách
 
@@ -33,7 +34,12 @@ Trong phố đông, vị trí trên đường quan trọng không kém tốc đ�
 
 ## Trang bị và tâm thế khi đi phố
 
-An toàn trong phố đông không chỉ nằm ở tay lái. Mũ bảo hiểm đạt chuẩn là điều kiện bắt buộc, cầm chắc quai trước khi lăn bánh. Áo mưa loại riêng cho xe máy tiện hơn áo dệt mưa trùm rộng vì bạn phải ra vào xe nhiều lần giữa phố. Đèn xe luôn bật kể cả ban ngày giúp các phương tiện khác nhìn thấy mình sớm hơn. Về tâm thế, hãy chấp nhận rằng đi phố đông thì chậm là bình thường: hơn nhau vài phút chẳng đáng để đổi lấy cú ngã giữa dòng xe. Nếu bạn mới thuê xe ga và chưa quen tay ga của chiếc xe đó, dành vài phút chạy thử trong ngõ vắng trước khi hòa vào dòng xe chính. Người hay đi trong khung giờ cao điểm cũng nên mặc trang phục gọn gàng, đi giày bệt bám chắc, vì phản ứng giữ thăng bằng trong phố đôi khi phải đặt chân xuống đường rất nhanh.
+An toàn trong phố đông không chỉ nằm ở tay lái. Mũ bảo hiểm đạt chuẩn là điều kiện bắt buộc, cầm chắc quai trước khi lăn bánh. Áo mưa loại riêng cho xe máy tiện hơn áo dệt mưa trùm rộng vì bạn phải ra vào xe nhiều lần giữa phố. Đèn xe luôn bật kể cả ban ngày giúp các phương tiện khác nhìn thấy mình sớm hơn. Về tâm thế, hãy chấp nhận rằng đi phố đông thì chậm là bình thường: hơn nhau vài phút chẳng đáng để đổi lấy cú ngã giữa dòng xe. Nếu bạn mới thuê xe ga và chưa quen tay ga của chiếc xe đó, dành vài phút chạy thử
+ trong ngõ vắng trước khi hòa vào dòng xe chính.
+
+Người hay đi trong khung giờ cao điểm cũng nên mặc trang phục gọn gàng, đi giày bệt bám chắc, vì phản ứng giữ thăng bằng trong phố đôi khi phải đặt chân xuống đường rất nhanh.
+
+Một lưu ý cuối về khoảng cách ngang: trong phố đông, phần lớn va chạm nhẹ xảy ra khi hai xe quá sát nhau lúc dừng hoặc rẽ, chứ không phải chỉ do chạy nhanh. Khi dừng đèn đỏ, đừng để bản thân bị kẹt giữa hai xe đang đứng, và nên chừa lối thoát về phía trước nếu có thể. Kết hợp với các mẹo trên, mỗi chuyến đi giờ cao điểm qua nội thành sẽ bớt căng thẳng hơn hẳn.
 
 ## Tóm lại
 

@@ -13,15 +13,16 @@ child_id: C-XE-GA
 article_id: BLG-00568
 ---
 
-Một trong những lý do lớn nhất khiến người thuê xe máy ở Hà Nội chọn xe ga thay vì xe số là khoang để đồ dưới yên. Nhưng cốp xe ga thật sự chở được gì, đủ cho nhu cầu đi chợ, đi làm hay chuyến cuối tuần quanh các vùng ngoại thành không, thì không phải ai cũng hình dung chính xác. Bài viết này mô tả khả năng chứa thực tế của khoang đồ xe ga, cách xếp đồ cho gọn, và những điều cần tránh khi chở đồ bằng xe ga.
+Một trong những lý do lớn nhất khiến người thuê xe máy ở Hà Nội chọn xe ga thay vì xe số là khoang đồ xe ga dưới yên. Nhưng cốp xe ga thật sự chở được gì, đủ cho nhu cầu đi chợ, đi làm hay chuyến cuối tuần quanh các vùng ngoại thành không, thì không phải ai cũng hình dung chính xác. Bài viết này mô tả khả năng chứa thực tế của khoang đồ xe ga, cách xếp đồ cho gọn, và những điều cần tránh khi chở đồ bằng xe ga.
 
-## Khoang dưới yên xe ga chứa được những gì
+## Khoang đồ xe ga chứa được những gì
 
 Với các dòng xe ga phổ thông hay gặp ở các cửa hàng cho thuê như Honda Vision, Honda Air Blade hay Honda Click, khoang dưới yên có dung tích khoảng mười tám lít, hình dáng sâu và hẹp dần về phía dưới. Kinh nghiệm thực tế cho thấy cốp này nhét vừa một mũ bảo hiểm nửa đầu kèm ít đồ nhỏ, hoặc nếu không để mũ thì chứa được một túi hàng chợ cỡ trung, một bộ áo mưa gấp, một bình nước và vài tập tài liệu. Nếu bạn đi làm, cốp đủ cho một máy tính bảng mỏng đặt trong túi chống sốc cứng, hộp cơm trưa và một chiếc áo gió. Điểm cần nhớ là giới hạn của cốp nằm ở chiều cao: đồ cao như chai nước cỡ lớn hay hộp vuông cồng kềnh thường không khép được nắp yên.
 
 ## Những đồ nên để và không nên để trong cốp
 
-Nên để trong cốp những gì có giá trị và cần tránh nắng mưa: giấy tờ tùy thân, ví tiền, điện thoại khi xuống xe mua đồ, mũ bảo hiểm dự phòng. Cốp che mưa tốt nhưng không kín nước tuyệt đối trong mưa to hay đường ngập, nên đồ điện tử và giấy tờ quan trọng nên bỏ thêm vào túi ni lông trước khi cho vào. Không nên để trong cốp lâu các thực phẩm dễ hỏng vì bên trong kín và nóng lên khi xe chạy lâu. Không để can xăng dự phòng hay vật dễ vỡ chảy trong cốp, vì một khi rò rỉ sẽ thấm vào toàn bộ đồ khác. Cuối cùng, dù cốp khóa được, đừng coi đó là tủ sắt: đồ giá trị cao vẫn nên mang theo người khi đỗ xe lâu ở khu đông người qua lại.
+Nên để trong cốp những gì có giá trị và cần tránh nắng mưa: giấy tờ tùy thân, ví tiền, điện thoại khi xuống xe mua đồ, mũ bảo hiểm dự phòng. Cốp che mưa tốt nhưng không kín nước tuyệt đối trong mưa to hay đường ngập, nên đồ điện tử và giấy tờ quan trọng nên bỏ thêm vào túi ni lông trước khi cho vào. Không nên để trong cốp lâu các thực 
+phẩm dễ hỏng vì bên trong kín và nóng lên khi xe chạy lâu. Không để can xăng dự phòng hay vật dễ vỡ chảy trong cốp, vì một khi rò rỉ sẽ thấm vào toàn bộ đồ khác. Cuối cùng, dù cốp khóa được, đừng coi đó là tủ sắt: đồ giá trị cao vẫn nên mang theo người khi đỗ xe lâu ở khu đông người qua lại.
 
 ## Mẹo xếp đồ gọn trong khoang xe ga
 
@@ -33,7 +34,10 @@ Khi cần chở nhiều hơn cốp cho phép, ví dụ chuyến hai ngày cuối
 
 ## Cân nhắc nhu cầu chở đồ khi chọn thuê xe
 
-Trước khi đặt xe, hãy ước lượng đồ đạc bạn mang theo trong ngày: một balo cá nhân hay hai túi hàng, mũ bảo hiểm riêng hay dùng mũ của cửa hàng, có hộp cơm, máy tính hay không. Nếu khối lượng thường xuyên vượt khả năng cốp, một dòng xe ga có thân rộng với hộp đồ sau sẽ nhàn hơn so với cốp gắn thêm, còn nếu chỉ vác một balo thì bất kỳ dòng xe ga phổ thông nào cũng dư sức. Nhớ rằng đồ đạc cũng ảnh hưởng an toàn: xe chở nặng phanh dài hơn, vào cua đuổi hơn, vì vậy cách xếp đồ hợp lý cũng là một phần của tay lái an toàn.
+Trước khi đặt xe, hãy ước lượng đồ đạc bạn mang theo trong ngày: một balo cá nhân hay hai túi hàng, mũ bảo hiểm riêng hay dùng mũ của cửa hàng, có hộp cơm, máy tính hay không. Nếu khối lượng thường xuyên vượt khả năng cốp, một dòng xe ga có thân rộng với hộp đồ sau sẽ nhàn hơn so với cốp gắn thêm, còn nếu chỉ vác một balo 
+thì bất kỳ dòng xe ga phổ thông nào cũng dư sức. Nhớ rằng đồ đạc cũng ảnh hưởng an toàn: xe chở nặng phanh dài hơn, vào cua đuổi hơn, vì vậy cách xếp đồ hợp lý cũng là một phần của tay lái an toàn.
+
+Ngoài ra, hãy tập thói quen kiểm tra cốp trước khi trả xe: nhiều người để quên đồ trong khoang dưới yên sau chuyến đi, từ mũ bảo hiểm, áo mưa đến giấy tờ. Trước khi giao xe lại cho cửa hàng, mở nắp yên xem một lượt cuối. Đồ để quên trong cốp là tình huống cửa hàng gặp đều đặn, nên tự kiểm tra là cách chắc chắn nhất. Nếu bạn thuê nhiều ngày liên tục, nên dọn cốp mỗi tối để đồ không bị dồn nát và giữ sự gọn gàng cho những chuyến sau.
 
 ## Tóm lại
 
