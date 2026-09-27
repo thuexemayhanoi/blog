@@ -33,6 +33,7 @@ Ba câu hỏi nên hỏi cửa hàng: thứ nhất, xe này có phải xe số v
 
 Ngoài ra, đừng ngại nói rõ với cửa hàng bạn là người mới: cửa hàng sẽ chọn chiếc xe dễ điều khiển nhất, chỉnh gương và hướng dẫn kỹ hơn, thậm chí cho chạy thử lâu hơn trong sân. Việc khai thật trình độ của mình không làm bạn mất điểm, ngược lại giúp cả hai bên an toàn hơn trong suốt kỳ thuê. Các bước chuẩn bị giấy tờ khi đến cửa hàng đã có hướng dẫn riêng ở [mục kinh nghiệm](/blog/kinh-nghiem/).
 
+
 ## Một vài lỗi người mới hay mắc với xe số
 
 Lỗi phổ biến nhất là chết máy ở đèn đỏ vì thả côn nhanh; cách xử lý là bình tĩnh bóp côn, đề lại máy, không vì vội mà hoảng loạn ga. Lỗi thứ hai là về số sai khi đang chạy, gây tiếng lục cục; nếu không chắc, về từng số một và nghe nhịp máy. Lỗi thứ ba là dùng phanh trước quá mạnh khi đường ướt; nguyên tắc là phanh sau trước, phanh trước sau, luôn để xe đứng thẳng khi phanh gấp. Lỗi thứ tư là nhìn xuống chân số khi vào số thay vì nhìn đường; chân số có thể cảm nhận bằng chân, giữ mắt nhìn phía trước luôn.
