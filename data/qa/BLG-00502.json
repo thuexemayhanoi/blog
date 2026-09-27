@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-at-xe-may-truoc-qua-ien-thoai-hoac-zalo.md",
+  "source_path": "_posts/2026-09-27-at-xe-may-truoc-qua-ien-thoai-hoac-zalo.md",
   "content_sha256": "f5b077d103ba31e44be796e4a2668349d5524c6530eb0d94f9a58db7102b59a1",
-  "matrix_row_sha256": "a94431f2c7e72bb8da0011dad8e25a5bf1920ded100e2e4f1ec8affe877e89ba",
-  "result": "PASS"
+  "matrix_row_sha256": "4e361e1860701a31204881058d5aeb2c9480354eaaad39e220f3bb8b0c78eb3d",
+  "result": "PASS",
+  "published_at": "2026-09-27T15:14:19+00:00"
 }

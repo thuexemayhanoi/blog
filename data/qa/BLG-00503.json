@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi.md",
+  "source_path": "_posts/2026-09-27-nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi.md",
   "content_sha256": "a0c47d5cb6d5a01ab03776ddbf820b8fa56d9a86cb0ae55de994447ee863e464",
-  "matrix_row_sha256": "bab1253f5f93840111b366eb540cc2225af421c6c0ba53019b7676a502df891b",
-  "result": "PASS"
+  "matrix_row_sha256": "769d4adb44b77980840893470fe7087a4399fe83b433210d5c2c4c8406a3479a",
+  "result": "PASS",
+  "published_at": "2026-09-27T15:14:19+00:00"
 }

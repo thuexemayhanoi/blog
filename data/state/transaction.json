@@ -1,6 +1,6 @@
 {
   "active": false,
-  "updated_at": "2026-09-27T14:35:23+00:00",
+  "updated_at": "2026-09-27T15:14:19+00:00",
   "pending": null,
   "history": [
     {
@@ -154,6 +154,39 @@
       "result": "PUBLISHED",
       "commit_sha": "bf19c998e438ba965d3725b5c0bcd8e310c04e65",
       "finished_at": "2026-09-27T14:35:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00501",
+      "started_at": "2026-09-27T15:14:19+00:00",
+      "source": "_drafts/2026-09-27-thue-xe-may-can-hop-ong-khong.md",
+      "destination": "_posts/2026-09-27-thue-xe-may-can-hop-ong-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3b12cdeb27fb1ae5bb1d0b740d18600127fa442b",
+      "finished_at": "2026-09-27T15:14:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00502",
+      "started_at": "2026-09-27T15:14:19+00:00",
+      "source": "_drafts/2026-09-27-at-xe-may-truoc-qua-ien-thoai-hoac-zalo.md",
+      "destination": "_posts/2026-09-27-at-xe-may-truoc-qua-ien-thoai-hoac-zalo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3b12cdeb27fb1ae5bb1d0b740d18600127fa442b",
+      "finished_at": "2026-09-27T15:14:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00503",
+      "started_at": "2026-09-27T15:14:19+00:00",
+      "source": "_drafts/2026-09-27-nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi.md",
+      "destination": "_posts/2026-09-27-nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3b12cdeb27fb1ae5bb1d0b740d18600127fa442b",
+      "finished_at": "2026-09-27T15:14:19+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-may-can-hop-ong-khong.md",
+  "source_path": "_posts/2026-09-27-thue-xe-may-can-hop-ong-khong.md",
   "content_sha256": "cac2b4d8c91940b200e3adc661d6b5a6418757b6d6210659e1245ccdf674eba1",
-  "matrix_row_sha256": "639641a27e07b72d972d4ca8b268c4245d73133da45f97490fdca535101fc182",
-  "result": "PASS"
+  "matrix_row_sha256": "86242828dc6d8dc5e6df862f2f7e42e75eb658819791e77f3e78f8839aad5939",
+  "result": "PASS",
+  "published_at": "2026-09-27T15:14:19+00:00"
 }
