@@ -1,0 +1,39 @@
+name: Factory capacity validate
+
+# Kiem chu mo hinh nang luc 10K + queue layer + refill ledger.
+# Read-only: khong ghi, khong deploy. Script chi exit 0/1.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  capacity:
+    name: Capacity model + queue + refill gates
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Capacity audit (model vs matrix)
+        run: python3 scripts/factory/capacity-audit.py
+
+      - name: Queue stats (view over matrix)
+        run: python3 scripts/factory/queue.py --stats
+
+      - name: Refill ledger verify (smoke test gates G1-G7)
+        run: python3 scripts/factory/refill-queue.py --verify
+
+      - name: Sitemap 10K plan
+        run: python3 scripts/factory/sitemap-plan.py
