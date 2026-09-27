@@ -44,6 +44,19 @@ jobs:
           python3 scripts/factory/refill-queue.py --verify --report - >> "$GITHUB_STEP_SUMMARY"
           echo "OK: refill gates PASS (G1-G8)"
 
+      - name: Plain verify must be pure (no file writes)
+        run: |
+          set -e
+          python3 scripts/factory/refill-queue.py --verify > /dev/null
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "FAIL: plain --verify lam ban working tree"
+            git status --porcelain
+            git diff --exit-code
+            exit 1
+          fi
+          git diff --exit-code
+          echo "OK: plain --verify read-only, working tree sach"
+
       - name: Refill idempotency (verify twice, same output)
         run: |
           set -e
@@ -57,6 +70,11 @@ jobs:
           set -e
           python3 scripts/factory/refill-queue.py --selftest
           python3 scripts/factory/refill-queue.py --dry-run
+
+      - name: Refill lock-safety tests (atomic lock, purity)
+        run: |
+          set -e
+          python3 scripts/factory/tests/test_refill_safety.py
 
       - name: Working tree must be unchanged after dry-run
         run: |
@@ -78,8 +96,10 @@ jobs:
             echo "- Capacity audit: PASS (10000 = 9517 child + 483 legacy)"
             echo "- Queue stats: PASS"
             echo "- Refill verify G1-G8: PASS"
+            echo "- Plain --verify purity: PASS"
             echo "- Refill idempotency: PASS"
             echo "- Collision selftest: PASS"
+            echo "- Lock-safety tests (12): PASS"
             echo "- Dry-run read-only: PASS"
             echo "- Sitemap 10K plan: PASS"
             echo "- Validation workflow: READ-ONLY (khong commit ve main)"

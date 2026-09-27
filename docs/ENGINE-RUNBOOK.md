@@ -21,24 +21,36 @@ lenh nao chua implement. Chay tu goc repository.
   In claimable, min_ready_queue (100), refill_target (300).
 - python3 scripts/factory/refill-queue.py --verify
   Kiem toan bo gate G1-G8 cho ledger refill-candidates.json.
-  PURE VALIDATION: khong ghi ledger/matrix/checkpoint, khong gan ID.
+  PURE VALIDATION: in ket qua ra stdout, KHONG ghi file nao,
+  khong ghi ledger/matrix/checkpoint, khong gan ID.
   exit 0 = PASS; khac 0 = gate violation thuc su.
 - python3 scripts/factory/refill-queue.py --verify --report -
-  In bao cao ra stdout (CI gan vao $GITHUB_STEP_SUMMARY).
-  Khong bao gio commit bao cao tu CI.
+  In bao cao deterministic ra stdout (CI gan vao
+  $GITHUB_STEP_SUMMARY). Khong bao gio commit bao cao tu CI.
 - python3 scripts/factory/refill-queue.py --verify --report PATH
-  Operator ghi bao cao deterministic ra file (truong hop
-  operator chu dong, khong phai CI).
+  Chi khi operator truyen PATH ro rang: ghi bao cao
+  deterministic dung PATH do. KHONG co duong dan mac dinh —
+  khong co --report thi khong file nao duoc tao.
 - python3 scripts/factory/refill-queue.py --dry-run
   Sinh candidate trong memory (khong ghi): generated/accepted/
   rejected. Cay lam viec KHONG doi sau dry-run.
 - python3 scripts/factory/refill-queue.py --selftest
   9 test tieu cuc (dup intent/kw/slug/title, sai child,
   word_target nong, capacity overflow, candidate_id trung).
+- python3 scripts/factory/tests/test_refill_safety.py
+  12 test hardening: verify/dry-run purity (hash cay),
+  --report PATH dung path, O_EXCL atomic lock, 8 lock
+  attempts dong thoi -> 1 thanh cong, transaction guard,
+  HEAD mismatch abort, cleanup sau failure/success,
+  khong stale sentinel.
 - python3 scripts/factory/refill-queue.py --refill --yes
-  CHI CHAY KHI OWNER PHE DUYET: materialize ledger vao
-  data/state/matrix-seed.json (kiem writer lock + transaction
-  truoc khi doi du lieu, xac nhan lai gate sau merge).
+  CHI CHAY KHI OWNER PHE DUYET, trong clone git (can doc
+  git HEAD): materialize ledger vao data/state/matrix-seed.json.
+  Thu tu: doc START_HEAD; transaction phai inactive; ACQUIRE
+  KHOA ATOMIC O_CREAT|O_EXCL sentinel (busy -> tu choi, khong
+  mutate); re-check HEAD (doi -> nha khoa, STOP, khong
+  auto-merge); re-run gate; mutate seed; validate; NHA KHOA
+  trong finally dam bao (moi loi/exception deu nha khoa).
   Sau do buoc buoc:
   python3 scripts/factory/generate-matrix.py
   roi commit matrix + seed + bao cao.

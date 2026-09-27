@@ -56,17 +56,24 @@ Cum lon nhan nhieu (vi du C-THUE-GIA 300), cum hep nhan it
 - KHONG bao gio sinh 9.000 hang mot luc.
 - Candidate staged trong data/state/refill-candidates.json;
   gate G1-G8 kiem boi scripts/factory/refill-queue.py
-  --verify (PURE validation, chay trong CI, read-only;
-  --report - in ra stdout cho step summary, khong bao gio
-  commit ve main tu CI).
+  --verify (PURE validation, chay trong CI, read-only:
+  mac dinh in stdout va KHONG ghi file nao; --report - stdout;
+  --report PATH chi ghi dung PATH duoc yeu cau ro rang,
+  khong bao gio commit ve main tu CI).
   Candidate bi loai: ghi ro ly do trong phan rejected.
   KHONG ha nguong chat luong de lap day capacity.
 - Them: --dry-run (in-memory, cay lam viec khong doi),
-  --selftest (9 test tieu cuc va xung dot).
-- Materialization (refill --refill --yes, operator-only,
-  kiem writer lock + transaction truoc khi doi du lieu)
-  chi chay khi owner phe duyet: append vao
-  data/state/matrix-seed.json roi
+  --selftest (9 test tieu cuc va xung dot),
+  tests/test_refill_safety.py (12 test hardening: purity,
+  atomic lock, HEAD re-check, cleanup).
+- Materialization (refill --refill --yes, operator-only)
+  chi chay khi owner phe duyet, trong clone git: doc START_HEAD,
+  transaction phai inactive, ACQUIRE KHOA ATOMIC
+  O_CREAT|O_EXCL sentinel (cung hop dong publish-gate.py,
+  hai writer khong the cung giu khoa), re-check HEAD sau khi
+  giu khoa (doi -> nha khoa, STOP, khong auto-merge),
+  re-run gate, append vao data/state/matrix-seed.json,
+  validate, nha khoa trong finally dam bao;
   generate-matrix.py sinh lai matrix (idempotent, CI kiem).
 
 ## Batch / run model

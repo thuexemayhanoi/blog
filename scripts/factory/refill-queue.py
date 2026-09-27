@@ -9,10 +9,13 @@
 #                                       KHONG append, KHONG gan ID, KHONG sua
 #                                       matrix/checkpoint/ledger. exit 0 = PASS,
 #                                       khac 0 = gate violation that.
-#                                       --report - in bao cao ra stdout (CI ghi
-#                                       vao GITHUB_STEP_SUMMARY); mac dinh ghi
-#                                       reports/factory/refill-verify.md (che do
-#                                       operator). CI KHONG BAO GIO commit bao cao.
+#                                       Mac dinh in bao cao ra stdout va KHONG
+#                                       ghi bat ky file nao (pure by default).
+#                                       --report - : in ra stdout, zero file.
+#                                       --report PATH : chi ghi dung PATH duoc
+#                                       yeu cau ro rang (khong co duong dan
+#                                       mac dinh). CI KHONG BAO GIO commit
+#                                       bao cao.
 #   refill-queue.py --dry-run [--n N]   sinh N candidate IN-MEMORY tu pool
 #                                       determinist, chay gate, in
 #                                       generated/accepted/rejected. Cay lam
@@ -22,9 +25,16 @@
 #                                       output_path, legacy overlap, capacity
 #                                       overflow, word_target nong.
 #   refill-queue.py --refill --yes      OPERATOR-ONLY: materialize ledger vao
-#                                       matrix-seed. Truoc khi mutate: khoa ghi
-#                                       writer an toan, transaction khong active,
-#                                       capacity con > 0. (alias cu: --commit --yes)
+#                                       matrix-seed. Truoc khi mutate: doc
+#                                       START_HEAD (git), transaction phai
+#                                       inactive; ACQUIRE KHOA ATOMIC
+#                                       O_CREAT|O_EXCL sentinel (giong
+#                                       publish-gate.py, hai writer khong the
+#                                       cung giu khoa); re-check HEAD sau khi
+#                                       giu khoa (doi -> nha khoa, STOP);
+#                                       re-run gate; mutate; validate;
+#                                       nha khoa trong finally DAM BAO.
+#                                       (alias cu: --commit --yes)
 #
 # Gate (KHONG ha nguong):
 #  G1 child ton tai + headroom editorial_capacity
@@ -56,7 +66,9 @@ SEED_PATH = 'data/state/matrix-seed.json'
 LOCK_JSON = 'data/state/writer-lock.json'
 LOCK_SENTINEL = 'data/state/writer-lock.active'
 TXN_PATH = 'data/state/transaction.json'
-REPORT_PATH = 'reports/factory/refill-verify.md'
+# LUU Y: --verify KHONG co duong dan bao cao mac dinh (pure by default).
+# reports/factory/refill-verify.md chi duoc ghi khi operator truyen
+# --report reports/factory/refill-verify.md ro rang.
 MIN_WORD = 1200
 
 
@@ -203,7 +215,8 @@ def mode_plan(cap, rows):
 
 
 def mode_verify(cap, tax, rows, ledger, report_path):
-    """PURE: khong sua gi. Report theo --report (mac dinh file, '-' = stdout)."""
+    """PURE: khong sua gi, khong ghi file nao tru khi --report PATH ro rang.
+    report_path None hoac '-' = stdout; PATH = ghi dung PATH do."""
     tax_kids = set(c[0] for c in tax['children'])
     child_caps = cap['child_editorial_capacity']
     midx = build_matrix_indexes(rows)
@@ -224,12 +237,16 @@ def mode_verify(cap, tax, rows, ledger, report_path):
                                   staged_child, None, None)
     passed = not errors
     report = render_report(passed, cands, ledger.get('rejected', []), errors)
-    if report_path == '-':
+    if report_path is None or report_path == '-':
+        # PURE: stdout, KHONG ghi file
         print(report)
     else:
-        os.makedirs('reports/factory', exist_ok=True)
-        open(REPORT_PATH, 'w', encoding='utf-8').write(report)
-        print('report            : %s' % REPORT_PATH)
+        # chi khi operator yeu cau ro --report PATH
+        d = os.path.dirname(report_path)
+        if d:
+            os.makedirs(d, exist_ok=True)
+        open(report_path, 'w', encoding='utf-8').write(report)
+        print('report            : %s' % report_path)
     print('=== REFILL VERIFY (gate G1-G8) ===')
     print('candidates staged : %d' % len(cands))
     print('rejected recorded : %d' % len(ledger.get('rejected', [])))
@@ -418,14 +435,56 @@ def mode_selftest(cap, tax, rows):
     return 0
 
 
-def writer_lock_safe():
-    """Kiem tra writer lock an toan truoc khi operator mutate."""
-    lock = json.load(open(LOCK_JSON, encoding='utf-8'))
-    if lock.get('locked'):
-        return False, 'writer-lock.json dang locked (holder %s)' % lock.get('holder')
-    if os.path.exists(LOCK_SENTINEL):
-        return False, 'sentinel %s ton tai (writer dang chay)' % LOCK_SENTINEL
-    return True, None
+def now_iso():
+    import datetime
+    return datetime.datetime.now(datetime.timezone.utc).isoformat(
+        timespec='seconds')
+
+
+def git_head():
+    """HEAD hien tai tu git (rev-parse). None = khong co git/repo -> tu choi."""
+    try:
+        import subprocess
+        out = subprocess.run(['git', 'rev-parse', 'HEAD'],
+                             capture_output=True, text=True, timeout=5)
+        return out.stdout.strip() or None
+    except Exception:
+        return None
+
+
+def acquire_atomic_lock(holder, start_head):
+    """Khoa ghi ATOMIC theo hop dong production (O_CREAT|O_EXCL sentinel,
+    giong publish-gate.py): hai writer KHONG THE cung tao sentinel -> khong
+    race. Thanh cong: ghi metadata writer-lock.json, tra ve release().
+    FileExistsError: khoa dang bi giu."""
+    fd = os.open(LOCK_SENTINEL,
+                 os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o644)
+    os.write(fd, ('%s %s' % (holder, now_iso())).encode('utf-8'))
+    os.close(fd)
+    # dong bo writer-lock.json cho cong cu khac (khong lam dieu kien race)
+    json.dump({'locked': True, 'holder': holder, 'action': 'refill',
+               'acquired_at': now_iso(), 'expires_at': None,
+               'updated_at': now_iso(), 'start_head': start_head,
+               'pid': os.getpid(),
+               'note': 'Sentinel that: data/state/writer-lock.active (O_EXCL).'},
+              open(LOCK_JSON, 'w', encoding='utf-8'),
+              ensure_ascii=False, indent=2)
+
+    def release():
+        try:
+            os.remove(LOCK_SENTINEL)
+        except FileNotFoundError:
+            pass
+        json.dump({'locked': False, 'holder': None, 'action': None,
+                   'acquired_at': None, 'expires_at': None,
+                   'updated_at': now_iso(), 'start_head': None,
+                   'pid': None,
+                   'note': 'Lock phai duoc giu trong suot mot chunk va nha '
+                           'khi checkpoint an toan. Khong bao gio chay hai '
+                           'writer song song.'},
+                  open(LOCK_JSON, 'w', encoding='utf-8'),
+                  ensure_ascii=False, indent=2)
+    return release()
 
 
 def txn_inactive():
@@ -436,67 +495,100 @@ def txn_inactive():
 
 
 def mode_refill(cap, tax, rows, ledger):
-    """OPERATOR-ONLY: materialize ledger vao matrix-seed (co lock check)."""
+    """OPERATOR-ONLY: materialize ledger vao matrix-seed.
+    Thu tu (hop dong hardening):
+      1. START_HEAD = git rev-parse HEAD (None -> tu choi, khong mutate)
+      2. transaction phai inactive
+      3. acquire khoa atomic O_EXCL (busy -> STOP, khong mutate)
+      4. ghi metadata lock (holder=refill, start_head, pid)
+      5. re-read HEAD; khac START_HEAD -> release + STOP
+      6. chay lai gate; loi -> release + STOP
+      7. mutate seed; moi exception -> release (finally)
+    """
     if '--yes' not in sys.argv:
         print('REFILL (materialize) can --yes (operator phe duyet)')
         return 2
-    # kiem tra an toan truoc khi mutate
-    ok, why = writer_lock_safe()
-    if not ok:
-        print('REFILL TU CHOI: %s' % why)
+    start_head = git_head()
+    if not start_head:
+        print('REFILL TU CHOI: khong doc duoc git HEAD (khong o repo git) — '
+              'refill chi chay trong clone that')
         return 1
     ok, why = txn_inactive()
     if not ok:
         print('REFILL TU CHOI: %s' % why)
         return 1
-    materialized = len(rows)
-    if materialized + len(ledger['candidates']) > cap['hard_capacity']:
-        print('REFILL TU CHOI: vuot hard_capacity (%d + %d > %d)'
-              % (materialized, len(ledger['candidates']),
-                 cap['hard_capacity']))
-        return 1
-    # verify lai gate truoc khi materialize (khong cho ledger sau vao matrix)
-    tax_kids = set(c[0] for c in tax['children'])
-    child_caps = cap['child_editorial_capacity']
-    midx = build_matrix_indexes(rows)
-    seen = {'kw': {}, 'intent': {}, 'slug': set(), 'out': set(),
-             'cid': set()}
-    staged_child = {}
-    pslug = {p[0]: p[2] for p in tax['parents']}
-    cparent = {c[0]: c[1] for c in tax['children']}
-    errors = []
-    for c in ledger['candidates']:
-        c['_cat'] = pslug.get(cparent.get(c['child_id'], ''), '_')
-        errors += check_candidate(c, midx, seen, tax_kids, child_caps,
-                                  staged_child, None, None)
-    if errors:
-        print('REFILL TU CHOI: ledger khong qua gate (%d violation)'
-              % len(errors))
-        for e in errors[:10]:
-            print(' -', e)
-        return 1
-    seed = json.load(open(SEED_PATH, encoding='utf-8'))
-    added = 0
-    for c in ledger['candidates']:
-        spec = seed['children'].setdefault(c['child_id'],
-                                           {'group': '', 'rows': []})
-        spec.setdefault('rows', [])
-        if any(norm(r['title']) == norm(c['title']) for r in spec['rows']):
-            continue  # idempotent
-        spec['rows'].append({
-            'title': c['title'], 'intent': c['intent'], 'kw': c['kw'],
-            'kw2': c.get('kw2', []), 'links': c.get('links', []),
-            'subtopic': c.get('subtopic', ''),
-            'audience': c.get('audience', ''),
-            'location_scope': c.get('location_scope', ''),
-            'word_target': c.get('word_target', 1200)})
-        added += 1
-    with open(SEED_PATH, 'w', encoding='utf-8') as f:
-        json.dump(seed, f, ensure_ascii=False, indent=2)
-        f.write('\n')
-    print('REFILL: +%d rows vao matrix-seed' % added)
-    print('BUOC KE: chay generate-matrix.py roi commit matrix + seed + bao cao')
-    return 0
+    release = None
+    try:
+        # 3-4. KHOA ATOMIC: O_EXCL sentinel + metadata
+        try:
+            release = acquire_atomic_lock('refill-queue', start_head)
+        except FileExistsError:
+            print('REFILL TU CHOI: writer-lock dang bi giu (sentinel %s ton '
+                  'tai) — tu choi, khong mutate' % LOCK_SENTINEL)
+            return 1
+        # 5-6. HEAD re-check SAU khi giu khoa
+        if git_head() != start_head:
+            print('REFILL TU CHOI: HEAD main da doi giua refill (%s -> %s) — '
+                  'nha khoa, khong auto-merge/rebase' % (start_head,
+                                                         git_head()))
+            return 1
+        materialized = len(rows)
+        if materialized + len(ledger['candidates']) > cap['hard_capacity']:
+            print('REFILL TU CHOI: vuot hard_capacity (%d + %d > %d)'
+                  % (materialized, len(ledger['candidates']),
+                     cap['hard_capacity']))
+            return 1
+        # 7. verify lai gate truoc khi materialize
+        tax_kids = set(c[0] for c in tax['children'])
+        child_caps = cap['child_editorial_capacity']
+        midx = build_matrix_indexes(rows)
+        seen = {'kw': {}, 'intent': {}, 'slug': set(), 'out': set(),
+                 'cid': set()}
+        staged_child = {}
+        pslug = {p[0]: p[2] for p in tax['parents']}
+        cparent = {c[0]: c[1] for c in tax['children']}
+        errors = []
+        for c in ledger['candidates']:
+            c['_cat'] = pslug.get(cparent.get(c['child_id'], ''), '_')
+            errors += check_candidate(c, midx, seen, tax_kids, child_caps,
+                                      staged_child, None, None)
+        if errors:
+            print('REFILL TU CHOI: ledger khong qua gate (%d violation)'
+                  % len(errors))
+            for e in errors[:10]:
+                print(' -', e)
+            return 1
+        # 8. mutate seed (da giu khoa atomic)
+        seed = json.load(open(SEED_PATH, encoding='utf-8'))
+        added = 0
+        for c in ledger['candidates']:
+            spec = seed['children'].setdefault(c['child_id'],
+                                               {'group': '', 'rows': []})
+            spec.setdefault('rows', [])
+            if any(norm(r['title']) == norm(c['title'])
+                   for r in spec['rows']):
+                continue  # idempotent
+            spec['rows'].append({
+                'title': c['title'], 'intent': c['intent'], 'kw': c['kw'],
+                'kw2': c.get('kw2', []), 'links': c.get('links', []),
+                'subtopic': c.get('subtopic', ''),
+                'audience': c.get('audience', ''),
+                'location_scope': c.get('location_scope', ''),
+                'word_target': c.get('word_target', 1200)})
+            added += 1
+        with open(SEED_PATH, 'w', encoding='utf-8') as f:
+            json.dump(seed, f, ensure_ascii=False, indent=2)
+            f.write('\n')
+        # 9. validate mutation: seed parse lai duoc va children ok
+        json.load(open(SEED_PATH, encoding='utf-8'))
+        print('REFILL: +%d rows vao matrix-seed' % added)
+        print('BUOC KE: chay generate-matrix.py roi commit matrix + seed + '
+              'bao cao')
+        return 0
+    finally:
+        # 12. nha khoa DAM BAO (moi exit path thanh cong/loi/exception)
+        if release is not None:
+            release()
 
 
 def main():
@@ -516,9 +608,14 @@ def main():
         sys.exit(mode_dry_run(cap, tax, rows, ledger, n))
     if mode == '--verify':
         ledger = json.load(open(LEDGER_PATH, encoding='utf-8'))
-        report = REPORT_PATH
+        # PURE by default: khong --report = stdout, khong ghi file nao.
+        # --report - : stdout. --report PATH : ghi dung PATH do.
+        report = None
         if '--report' in sys.argv:
             report = sys.argv[sys.argv.index('--report') + 1]
+            if report != '-' and (not report or os.path.isdir(report)):
+                print('FAIL: --report can PATH hop le hoac \"-\"')
+                sys.exit(2)
         sys.exit(mode_verify(cap, tax, rows, ledger, report))
     if mode in ('--refill', '--commit'):
         ledger = json.load(open(LEDGER_PATH, encoding='utf-8'))
