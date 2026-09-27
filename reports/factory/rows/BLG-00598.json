@@ -1,0 +1,145 @@
+{
+  "article_id": "BLG-00598",
+  "status": "WRITING",
+  "title": "Air Blade đi cặp với chuyến cuối tuần",
+  "intent": "Đánh giá Air Blade cho chuyến cuối tuần",
+  "primary_keyword": "air blade cuối tuần",
+  "secondary_keywords": [
+    "air blade đường trường"
+  ],
+  "group": "XE",
+  "taxonomy": {
+    "parent_id": "P-XE-MAY",
+    "parent_hub": "Xe máy & dòng xe",
+    "parent_hub_url": "/blog/xe-may/",
+    "child_id": "C-HONDA-AIR-BLADE",
+    "child_hub": "Honda Air Blade",
+    "child_hub_url": "/blog/xe-may/honda-air-blade/"
+  },
+  "expected_url": "/blog/xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/",
+  "output_path": "_posts/{date}-air-blade-i-cap-voi-chuyen-cuoi-tuan.md",
+  "draft_path": "_drafts/2026-09-27-air-blade-i-cap-voi-chuyen-cuoi-tuan.md",
+  "canonical_url": "/blog/xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/",
+  "internal_links_matrix": [
+    "/blog/xe-may/honda-air-blade/",
+    "/blog/cung-duong/cung-duong-cuoi-tuan/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "air blade cuoi tuan",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "A",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00003",
+      "title": "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?",
+      "url": "/blog/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+    },
+    {
+      "id": "BLG-00006",
+      "title": "Áp suất lốp xe máy: kiểm tra thế nào và vì sao quan trọng hơn bạn nghĩ",
+      "url": "/blog/chia sẻ/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/"
+    },
+    {
+      "id": "BLG-00016",
+      "title": "Đèn xe và tầm nhìn khi đi xe máy ban đêm",
+      "url": "/blog/chia sẻ/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/"
+    },
+    {
+      "id": "BLG-00033",
+      "title": "Xe đạp điện và xe máy điện khác nhau thế nào: chọn theo nhu cầu thực tế",
+      "url": "/blog/chia sẻ/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/"
+    },
+    {
+      "id": "BLG-00036",
+      "title": "Sạc pin xe máy điện đúng cách",
+      "url": "/blog/chia sẻ/2026/09/18/sac-pin-xe-may-dien-dung-cach/"
+    },
+    {
+      "id": "BLG-00037",
+      "title": "Thay nhớt định kỳ cho xe máy: kỳ hạn, dấu hiệu và ai chịu khi đi xe thuê",
+      "url": "/blog/chia sẻ/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/"
+    },
+    {
+      "id": "BLG-00039",
+      "title": "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông",
+      "url": "/blog/chia sẻ/2026/09/18/thue-honda-air-blade-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00040",
+      "title": "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố",
+      "url": "/blog/chia sẻ/2026/09/18/thue-honda-click-va-yamaha-mio-o-ha-noi/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 90,
+    "seo_min": 90,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "3a453946f60b0362d3f20aaf95564c333319d8da94414bd62c3f5b7941b9ff73",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
