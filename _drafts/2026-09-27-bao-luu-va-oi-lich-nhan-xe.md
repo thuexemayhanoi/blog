@@ -19,7 +19,7 @@ Kế hoạch đi Hà Nội của bạn thay đổi: chuyến bay dời giờ, c�
 
 Nguyên tắc đầu tiên của việc đổi lịch là thời gian. Cửa hàng giữ xe cho bạn dựa trên lịch đã hẹn, nghĩa là khung giờ đó không cho khách khác. Báo sớm khiến bên cho thuê sắp xếp lại được xe cho các đơn khác, và vì thế cũng dễ dàng thông cảm cho lịch mới của bạn. Ngược lại, báo sát giờ hẹn nhận khiến xe đã bị giữ suýt không dùng được, và cửa hàng có quyền tính phí giữ chỗ trong những trường hợp đã thỏa thuận trước.
 
-Mốc báo nên tính theo khoảng cách thời gian với giờ hẹn. Với kỳ thuê ngày thường, một ngày trước là hợp lý. Với mùa cao điểm, ví dụ dịp lễ quanh Hà Nội khi nhu cầu thuê tăng, nên báo sớm hơn nữa. Nếu bạn đã đặt trước qua điện thoại hoặc nhắn tin, bài [đặt xe máy trước từ xa](/blog/chia%20se/2026/09/18/cach-dat-xe-may-truoc-tu-xa/) giải thích phần giữ chỗ ban đầu, sẽ giúp bạn biết mình đang đổi từ vị trí nào.
+Mốc báo nên tính theo khoảng cách thời gian với giờ hẹn. Với kỳ thuê ngày thường, một ngày trước là hợp lý. Với mùa cao điểm, ví dụ dịp lễ quanh Hà Nội khi nhu cầu thuê tăng, nên báo sớm hơn nữa. Nếu bạn đã đặt trước qua điện thoại hoặc nhắn tin, phần giữ chỗ ban đầu được giải thích trong [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/), giúp bạn biết mình đang đổi từ vị trí nào.
 
 Một điểm nhỏ nhưng quan trọng: đổi lịch bằng văn bản nhắn tin luôn tốt hơn cuộc gọi suông, vì tin nhắn tự lưu lại thời điểm báo. Nếu buộc phải gọi, sau đó gửi một tin xác nhận lại nội dung đã trao đổi. Hỏi lại xem yêu cầu đổi lịch đã được ghi vào sổ của cửa hàng chưa, để không rơi vào khe giữa hai bên cùng nghĩ rằng bên kia đã xử.
 
@@ -36,7 +36,7 @@ Gửi trọn trong một tin nhắn thay vì rải ra nhiều tin, vì tin rời
 
 Sau khi gửi, chờ xác nhận. Xác nhận cần nêu rõ lịch nhận mới, và tốt nhất là lặp lại các điều khoản không đổi. Một câu chốt chuẩn có thể là: đã đổi lịch nhận xe sang ngày mới giờ mới, các điều khoản còn lại giữ nguyên như ban đầu. Chụp lại màn hình xác nhận đó.
 
-## Bảo lưu xe trong bao lâu là hợp lý
+## Bảo lưu và đổi lịch nhận xe thuê trong bao lâu là hợp lý
 
 Bảo lưu là việc cửa hàng tiếp tục giữ xe cho bạn qua khung giờ đã hẹn, trong thời gian chờ lịch mới chốt. Đây là phần thiện chí hai chiều. Về phía khách, không nên kỳ vọng bảo lưu vô thời hạn: xe là tài sản kinh doanh, giữ quá lâu nghĩa là cửa hàng mất cơ hội cho thuê khác. Về phía cửa hàng, giữ xe trong một khoảng hợp lý cho khách đang trao đổi đổi lịch là cách giữ quan hệ lâu dài.
 
