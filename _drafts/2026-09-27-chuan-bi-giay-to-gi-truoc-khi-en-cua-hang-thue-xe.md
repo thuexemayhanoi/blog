@@ -13,7 +13,7 @@ child_id: C-THUE-THU-TUC
 article_id: BLG-00510
 ---
 
-Chuyện phổ biến nhất ở các cửa hàng cho thuê xe máy là khách đến rồi mới phát hiện thiếu giấy tờ: mang căn cận nhưng quên giấy phép lái, hoặc mang đủ nhưng bị bản photo mờ không đọc nổi số. Kết quả là một chuyến ra khỏi nhà phí công. Cách tránh đơn giản: chuẩn bị giấy tờ cần khi thuê xe máy từ trước, theo đúng danh sách mà bài này cung cấp, kèm cách xử lý từng tình huống hay gặp.
+Khách đến cửa hàng rồi mới phát hiện thiếu giấy tờ là chuyện phổ biến: mang căn cận nhưng quên giấy phép lái, hoặc photo mờ không đọc nổi số. Để không phí một chuyến đi, hãy chuẩn bị giấy tờ cần khi thuê xe máy từ trước theo đúng danh sách trong bài này, kèm cách xử lý từng tình huống hay gặp ở Hà Nội.
 
 ## Bộ giấy tờ tối thiểu khi thuê xe máy
 
@@ -28,7 +28,8 @@ Với khách chưa đủ tuổi có giấy phép lái xe máy nhưng vẫn cần
 
 ## Bản gốc, bản photo và cách cửa hàng giữ giấy tờ
 
-Mỗi cửa hàng có chính sách giữ giấy tờ khác nhau: có nơi giữ bản gốc trong kỳ thuê, có nơi chỉ giữ bản photo kèm chụp ảnh. Cả hai cách đều có lý do riêng, và bạn nên hỏi chính sách này trước khi đến. Ba điểm nên làm rõ:
+Mỗi cửa hàng có chính sách 
+giữ giấy tờ khác nhau: có nơi giữ bản gốc trong kỳ thuê, có nơi chỉ giữ bản photo kèm chụp ảnh. Cả hai cách đều có lý do riêng, và bạn nên hỏi chính sách này trước khi đến. Ba điểm nên làm rõ:
 
 - Họ giữ bản gốc hay bản photo, và trả lại ngay khi trả xe chứ.
 - Nếu giữ bản gốc, biên nhận có ghi rõ việc giữ giấy tờ nào không.
@@ -49,7 +50,8 @@ Ngoài hai giấy tờ chính, vài thứ nhỏ giúp buổi thuê xe nhanh hơn
 
 Nếu bạn thuê hộ người khác, ví dụ con hoặc người già trong nhà, hãy đến cùng hoặc chuẩn bị sẵn giấy tờ photo của người thực sự điều khiển. Cửa hàng ghi biên nhận theo người chịu trách nhiệm chính, và người đó cần là người cầm lái chính trong kỳ thuê.
 
-Phần giải thích rộng hơn về các loại giấy tờ liên quan tới xe và cá nhân nằm trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/). Ai lần đầu thuê nên đọc trước bài [thủ tục thuê xe máy ở Hà Nội](/blog/kinh%20nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) để nắm trình tự từ lúc tới cửa hàng tới lúc nhận chìa, và tra cứu quy trình chuẩn tại phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Phần giải thích rộng hơn về các loại giấy tờ liên quan tới xe và cá nhân nằm trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/). Ai lần đầu thuê nên đọc trước bài [thủ tục thuê xe máy ở Hà Nội](/blog/kinh%20nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) để nắm trình tự từ lúc tới cửa hàng tới lúc nhận chìa, và tra cứu quy trình chuẩn tại phần [thủ tục thuê
+ xe](/blog/thue-xe/thu-tuc/).
 
 ## Nếu giấy tờ đang bị giữ hoặc không mang theo
 
