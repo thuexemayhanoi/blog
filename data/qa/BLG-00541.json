@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-khach-quoc-te-nen-thue-xe-so-hay-xe-ga-o-ha-noi.md",
+  "source_path": "_posts/2026-09-27-khach-quoc-te-nen-thue-xe-so-hay-xe-ga-o-ha-noi.md",
   "content_sha256": "f4da1af333b036b2e775437b20a183b868cbc13e242f205097c25a63e9265364",
-  "matrix_row_sha256": "1228e1bc84c68035c7d91505ca8322f5e811fae6b620b524a2ab97fff00658f0",
-  "result": "PASS"
+  "matrix_row_sha256": "cf76da3b29bccf3021eaf8291cd23b41cc548de3c8865d87a81085748611485b",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:07:35+00:00"
 }

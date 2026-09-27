@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-international-driving-permit-o-viet-nam-khach-quoc-te-can-biet-gi.md",
+  "source_path": "_posts/2026-09-27-international-driving-permit-o-viet-nam-khach-quoc-te-can-biet-gi.md",
   "content_sha256": "3a291d0f5688dcf1eccff67c82d423b26a8771ebbdf308b5fd98347c2298df17",
-  "matrix_row_sha256": "9ea77aa3722e34dae23e994493d894eb4f69a2b3df189f6c30765acefd00982d",
-  "result": "PASS"
+  "matrix_row_sha256": "afda5fa0f1b607f925a5999f8bfb7942149c9acc0c3e233f644c80266c23f5a0",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:07:34+00:00"
 }

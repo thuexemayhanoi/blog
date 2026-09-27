@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-tra-xe-viec-can-lam-30-phut-cuoi.md",
+  "source_path": "_posts/2026-09-27-tra-xe-viec-can-lam-30-phut-cuoi.md",
   "content_sha256": "1c3b37f095795a7383207a108ac979ca98496567e01dc198cda75dde1e744fca",
-  "matrix_row_sha256": "f396766cd42e37aeed2cf13f0c2996d519017b65ed697a65e84222ca1bcf88f5",
-  "result": "PASS"
+  "matrix_row_sha256": "e35279b68114426ea6b90eedab4aca22cf67c4878f48d8098c2501b804a378e3",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:07:36+00:00"
 }

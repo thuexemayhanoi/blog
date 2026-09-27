@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-giao-tiep-voi-cua-hang-khi-khong-noi-tieng-viet.md",
+  "source_path": "_posts/2026-09-27-giao-tiep-voi-cua-hang-khi-khong-noi-tieng-viet.md",
   "content_sha256": "2c832abf75392ce73c11552cd53517f7f54a34ada3044e77f6887c6cce3629fc",
-  "matrix_row_sha256": "090415015ad918540382e3a5ecd2de35d34eedbb7054ff299b9d797eb18fe1ba",
-  "result": "PASS"
+  "matrix_row_sha256": "b6abcd4ea47e5f92628d9f8cbbc23f61258d60ba9c7a9997aec5bc16bb63d7a5",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:07:35+00:00"
 }

@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 33
   size: 12
-  total: 386
+  total: 391
 chia-se:
   pages: 10
   size: 12
@@ -24,6 +24,10 @@ topic:
     pages: 5
     size: 24
     total: 97
+  thue-xe_nhan-tra-xe:
+    pages: 2
+    size: 24
+    total: 26
   thue-xe_su-co:
     pages: 2
     size: 24

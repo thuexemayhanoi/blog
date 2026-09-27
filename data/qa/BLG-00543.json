@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-nen-nhan-xe-luc-nao-va-kiem-tra-nhung-gi.md",
+  "source_path": "_posts/2026-09-27-nen-nhan-xe-luc-nao-va-kiem-tra-nhung-gi.md",
   "content_sha256": "5c33bc904b0456a4f994d35e420d3bc6003997fc86c2ee1eed3090b0b4a192bb",
-  "matrix_row_sha256": "99c355fc63fa9bc3685da015df9f6c21bd4ae72471332cb2cd89e1be65d95afd",
-  "result": "PASS"
+  "matrix_row_sha256": "dc24f8c35ce36f1f046993e5b6276f19a0b3ae0d51fa9c7ef9def3270f6cc480",
+  "result": "PASS",
+  "published_at": "2026-09-27T20:07:35+00:00"
 }
