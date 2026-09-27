@@ -1696,3 +1696,382 @@
 [data-theme="dark"] .topic-list li > span {
   background: rgba(255, 255, 255, 0.08);
 }
+
+/* ============================================================
+   ARTICLE BODY — hệ thống đọc bài dùng chung (483 legacy + factory)
+   Nguồn: _layouts/post.html, _includes/article-breadcrumb.html,
+   _includes/related-articles.html
+   ============================================================ */
+
+/* Header bài viết */
+.post-header {
+  background: var(--color-gray-100);
+  border-bottom: 1px solid var(--color-border);
+  padding: var(--spacing-md) 0;
+  margin-bottom: var(--spacing-lg);
+}
+
+[data-theme="dark"] .post-header {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.post-header h1 {
+  font-size: var(--font-size-2xl);
+  line-height: var(--line-height-tight);
+  margin: var(--spacing-sm) 0;
+  max-width: 760px;
+}
+
+.post-dek {
+  font-size: var(--font-size-md);
+  color: var(--color-text-secondary);
+  line-height: var(--line-height-normal);
+  max-width: 720px;
+  margin: 0 0 var(--spacing-sm);
+}
+
+.post-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm) var(--spacing-md);
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-sm);
+}
+
+.post-meta .icon {
+  width: 14px;
+  height: 14px;
+  vertical-align: -2px;
+}
+
+/* Prose: KHÔNG kéo giãn chữ ngang màn hình rộng */
+.article-body {
+  max-width: 760px;
+  margin: 0 auto;
+  font-size: 1.0625rem;   /* ~17px mobile */
+  line-height: 1.7;
+  color: var(--color-text);
+}
+
+.article-body p {
+  margin: 0 0 var(--spacing-md);
+  overflow-wrap: break-word;
+}
+
+.article-body h2,
+.article-body h3,
+.article-body h4 {
+  line-height: var(--line-height-tight);
+  overflow-wrap: break-word;
+}
+
+.article-body h2 {
+  font-size: var(--font-size-xl);
+  margin: var(--spacing-xl) 0 var(--spacing-sm);
+}
+
+.article-body h3 {
+  font-size: var(--font-size-lg);
+  margin: var(--spacing-lg) 0 var(--spacing-xs);
+}
+
+.article-body h4 {
+  font-size: var(--font-size-md);
+  margin: var(--spacing-md) 0 var(--spacing-xs);
+}
+
+.article-body a {
+  color: var(--color-primary-dark);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.article-body a:hover,
+.article-body a:focus-visible {
+  color: var(--color-primary);
+}
+
+.article-body strong {
+  font-weight: var(--font-weight-semibold);
+}
+
+.article-body ul,
+.article-body ol {
+  padding-left: 1.4em;
+  margin: 0 0 var(--spacing-md);
+}
+
+.article-body li {
+  margin-bottom: var(--spacing-xs);
+}
+
+.article-body blockquote {
+  margin: 0 0 var(--spacing-md);
+  padding: var(--spacing-sm) var(--spacing-md);
+  border-left: 4px solid var(--color-primary);
+  background: var(--color-gray-100);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  color: var(--color-text-secondary);
+}
+
+[data-theme="dark"] .article-body blockquote {
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Bảng responsive: cuộn NGANG TRONG KHUNG BẢNG, body không tràn */
+.article-body table {
+  display: block;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-collapse: collapse;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 0 var(--spacing-md);
+  font-size: 0.9375rem;   /* không thu nhỏ quá mức */
+}
+
+.article-body th,
+.article-body td {
+  border: 1px solid var(--color-border);
+  padding: var(--spacing-xs) var(--spacing-sm);
+  text-align: left;
+  vertical-align: top;
+}
+
+.article-body th {
+  background: var(--color-gray-100);
+  font-weight: var(--font-weight-semibold);
+}
+
+[data-theme="dark"] .article-body th {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.article-body figure {
+  margin: 0 0 var(--spacing-md);
+}
+
+.article-body figcaption {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  margin-top: var(--spacing-xs);
+}
+
+.article-body hr {
+  border: 0;
+  border-top: 1px solid var(--color-border);
+  margin: var(--spacing-lg) 0;
+}
+
+.article-body code {
+  background: var(--color-gray-100);
+  border-radius: var(--radius-sm);
+  padding: 1px 5px;
+  font-size: 0.9em;
+}
+
+[data-theme="dark"] .article-body code {
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.article-body pre {
+  background: var(--color-gray-100);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-sm);
+  overflow-x: auto;
+  line-height: 1.5;
+}
+
+[data-theme="dark"] .article-body pre {
+  background: rgba(255, 255, 255, 0.06);
+}
+
+/* TOC build-time (details/summary, không JS) */
+.article-toc {
+  max-width: 760px;
+  margin: 0 auto var(--spacing-lg);
+  font-size: var(--font-size-sm);
+}
+
+.article-toc details {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  background: var(--color-gray-100);
+  padding: var(--spacing-xs) var(--spacing-md);
+}
+
+[data-theme="dark"] .article-toc details {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.article-toc summary {
+  font-weight: var(--font-weight-semibold);
+  cursor: pointer;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+}
+
+.article-toc ol {
+  margin: var(--spacing-xs) 0;
+  padding-left: 1.3em;
+}
+
+.article-toc li {
+  margin-bottom: 6px;
+}
+
+.article-toc a {
+  color: var(--color-primary-dark);
+  text-decoration: none;
+}
+
+.article-toc a:hover,
+.article-toc a:focus-visible {
+  text-decoration: underline;
+}
+
+/* Bài viết liên quan */
+.article-related {
+  max-width: 760px;
+  margin: var(--spacing-xl) auto;
+}
+
+.article-related h2 {
+  font-size: var(--font-size-xl);
+  margin-bottom: var(--spacing-sm);
+}
+
+.article-related .post-card {
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  padding: var(--spacing-md);
+  background: transparent;
+}
+
+.article-related .post-card h3 {
+  font-size: var(--font-size-md);
+  margin: 0 0 var(--spacing-xs);
+}
+
+.article-related .post-card .post-date {
+  font-size: var(--font-size-xs);
+  color: var(--color-text-secondary);
+  margin: 0 0 var(--spacing-xs);
+}
+
+/* Điều hướng bài trước/sau */
+.post-navigation {
+  max-width: 760px;
+  margin: var(--spacing-lg) auto;
+  display: grid;
+  gap: var(--spacing-sm);
+}
+
+.nav-link {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  min-height: 44px;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: var(--font-size-sm);
+  overflow-wrap: break-word;
+}
+
+.nav-link:hover,
+.nav-link:focus-visible {
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
+}
+
+/* CTA cuối bài: tiết chế, không lặp nhiều khối */
+.post-cta {
+  max-width: 760px;
+  margin: var(--spacing-xl) auto;
+  padding: var(--spacing-lg) var(--spacing-md);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  background: var(--color-gray-100);
+}
+
+[data-theme="dark"] .post-cta {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.post-cta h3 {
+  margin: 0 0 var(--spacing-xs);
+  font-size: var(--font-size-lg);
+}
+
+.post-cta p {
+  margin: 0 0 var(--spacing-md);
+  color: var(--color-text-secondary);
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-normal);
+}
+
+.post-cta .cta-group {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.post-cta .btn {
+  min-height: 44px;
+}
+
+/* Lưới thẻ bài dùng chung (listing + bài liên quan) */
+.post-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--spacing-md);
+}
+
+@media (min-width: 640px) {
+  .post-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (min-width: 1024px) {
+  .post-grid { grid-template-columns: repeat(3, 1fr); }
+}
+
+/* Phân trang tĩnh (link crawlable, không JS) */
+.pagination {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-xs);
+  margin: var(--spacing-lg) 0;
+}
+
+.pagination .page-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 44px;
+  min-height: 44px;
+  padding: var(--spacing-xs) var(--spacing-sm);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  text-decoration: none;
+  color: var(--color-text);
+  font-size: var(--font-size-sm);
+}
+
+.pagination a.page-link:hover,
+.pagination a.page-link:focus-visible {
+  border-color: var(--color-primary);
+  color: var(--color-primary-dark);
+}
+
+.pagination span[aria-current="page"] {
+  background: var(--color-primary);
+  border-color: var(--color-primary);
+  color: #fff;
+  font-weight: var(--font-weight-semibold);
+}

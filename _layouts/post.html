@@ -2,41 +2,77 @@
 layout: default
 ---
 
+{% comment %}
+LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
+- breadcrumb taxonomy (frontmatter parent_id/child_id hoặc factory-map),
+- header sạch: H1, mô tả, ngày, tác giả (khi thật), thời gian đọc (tính thật),
+- TOC build-time (details/summary, chỉ hiện khi >= 4 H2, không cần JS),
+- prose max-width ~760px, typography thống nhất (CSS chia sẻ components.css),
+- bảng responsive (cuộn ngang trong khung bảng, không tràn body),
+- bài viết liên quan theo ngữ cảnh + CTA tiết chế chỉ dùng dữ liệu /blog.
+{% endcomment %}
+
 {% assign business = site.data.business %}
-{% assign current_lang = page.lang | default: 'vi' %}
+
+{%- comment -%} taxonomy của bài (factory frontmatter hoặc map legacy) {%- endcomment -%}
+{% assign art_parent_id = page.parent_id %}
+{% assign art_child_id = page.child_id %}
+{% if art_parent_id == nil or art_child_id == nil %}
+  {% assign am = site.data.factory-map[page.slug] %}
+  {% if am %}
+    {% if art_parent_id == nil %}{% assign art_parent_id = am.p %}{% endif %}
+    {% if art_child_id == nil %}{% assign art_child_id = am.c %}{% endif %}
+  {% endif %}
+{% endif %}
+
+{%- comment -%} thời gian đọc TÍNH THẬT từ nội dung (~200 từ/phút) {%- endcomment -%}
+{% assign art_words = content | strip_html | split: ' ' | size %}
+{% assign art_reading = art_words | divided_by: 200 | at_least: 1 %}
+
+{%- comment -%} TOC: tách theo '<h2 id="' do kramdown sinh — build-time, không JS {%- endcomment -%}
+{% assign art_h2s = content | split: '<h2 id="' %}
+{% assign art_h2_count = art_h2s.size | minus: 1 %}
 
 <article class="post-detail">
   <header class="post-header">
     <div class="container">
-      {% if page.categories %}
-      <div class="post-categories">
-        {% for category in page.categories %}
-        <a href="{% case category %}{% when 'Du lịch' %}/du-lich/{% when 'Kinh nghiệm' %}/kinh-nghiem/{% when 'Chia sẻ' %}/chia-se/{% endcase %}" class="category-tag">{{ category }}</a>
-        {% endfor %}
-      </div>
-      {% endif %}
-      
+      {% include article-breadcrumb.html %}
       <h1>{{ page.title }}</h1>
-      
+      {% if page.description %}
+      <p class="post-dek">{{ page.description }}</p>
+      {% endif %}
       <div class="post-meta">
-        {% include icon.html name="calendar" %} <span class="post-date">{{ page.date | date: "%d/%m/%Y" }}</span>
+        <span class="post-date">{% include icon.html name="calendar" %} {{ page.date | date: "%d/%m/%Y" }}</span>
         {% if page.author %}
-        {% include icon.html name="pen" %} <span class="post-author">{{ page.author }}</span>
+        <span class="post-author">{% include icon.html name="pen" %} {{ page.author }}</span>
         {% endif %}
-        {% if page.reading_time %}
-        {% include icon.html name="clock" %} <span class="reading-time">
-          {{ page.reading_time }} phút đọc
-        </span>
-        {% endif %}
+        <span class="reading-time">{% include icon.html name="clock" %} {{ art_reading }} phút đọc ({{ art_words }} từ)</span>
       </div>
     </div>
   </header>
-  
+
   <div class="container">
-    <div class="post-content">
+    {% if art_h2_count >= 4 %}
+    <nav class="article-toc" aria-label="Mục lục">
+      <details open>
+        <summary>Mục lục</summary>
+        <ol>
+          {% for h2 in art_h2s offset: 1 %}
+            {% comment %}mỗi mảnh: "id">Tiêu đề</h2>...phần còn lại đến h2 kế tiếp{% endcomment %}
+            {% assign h2_head = h2 | split: '</h2>' | first %}
+            {% assign h2_id = h2_head | split: '"' | first %}
+            {% assign h2_text = h2_head | split: '">' | last %}
+            <li><a href="#{{ h2_id }}">{{ h2_text | strip_html | strip }}</a></li>
+          {% endfor %}
+        </ol>
+      </details>
+    </nav>
+    {% endif %}
+
+    <div class="post-content article-body">
       {{ content }}
     </div>
-    
+
     <div class="post-navigation">
       {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
       {% assign sorted_posts = same_lang_posts | sort: "date" | reverse %}
@@ -51,27 +87,28 @@ layout: default
       {% assign next_index = current_index | minus: 1 %}
       {% assign prev_post = sorted_posts[prev_index] %}
       {% assign next_post = sorted_posts[next_index] %}
-      
       {% if prev_post %}
       <a href="{{ prev_post.url | relative_url }}" class="nav-link prev">
         {% include icon.html name="chevron-left" %} Bài trước: {{ prev_post.title }}
       </a>
       {% endif %}
-      
       {% if next_post %}
       <a href="{{ next_post.url | relative_url }}" class="nav-link next">
         Bài sau: {{ next_post.title }} {% include icon.html name="chevron-right" %}
       </a>
       {% endif %}
     </div>
-    
-    <div class="post-cta glass-card">
+
+    {% assign art_cat = page.categories | first %}
+    {% include related-articles.html parent_id=art_parent_id child_id=art_child_id category=art_cat %}
+
+    <div class="post-cta">
       <h3>Bạn cần thuê xe máy tại Hà Nội?</h3>
-      <p>Hãy liên hệ với <strong>{{ business.display_name }}</strong> để được tư vấn và hỗ trợ tốt nhất.</p>
+      <p>Liên hệ <strong>{{ business.display_name }}</strong> để biết tình trạng xe và điều kiện cho kỳ thuê của bạn. Các khoản như tiền đặt cọc hoặc phát sinh cần xác nhận trực tiếp trước khi đặt.</p>
       <div class="cta-group">
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi ngay</a>
+        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi {{ business.contact.phone }}</a>
         <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
-        <a href="{{ business.url }}" class="btn btn-outline" target="_blank" rel="noopener noreferrer">Website chính</a>
+        <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem bảng giá</a>
       </div>
     </div>
   </div>

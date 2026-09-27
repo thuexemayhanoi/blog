@@ -61,3 +61,30 @@ Không kiểm được trong lần này (không có môi trường): Safari/iPho
 3. Mở rộng `matrix-seed.json` thêm chủ đề thật cho 6.220 hàng còn thiếu khi có yêu cầu.
 4. GSC/post-publish tracking: TODO/NOT IMPLEMENTED (chưa có quyền truy cập).
 5. Lighthouse/CWV, Safari/iPhone: chưa có môi trường đo.
+
+## G. Đợt hardening cuối 2026-09-27 (BODY UI + capacity semantics + factory safety)
+
+| ID | Lỗi | Sửa | Kiểm thử | Trạng thái |
+|---|---|---|---|---|
+| G1 | Matrix "10.000 hàng" nhưng taxonomy chỉ có planned_target 6.570 (483 legacy + 6.570 = 7.053 < 10.000) — ngữ nghĩa sai | Định nghĩa 6 khái niệm riêng trong `reports/factory/matrix-report.md`: HARD_CAPACITY 10.000, EDITORIAL_TARGET 6.570, CURRENT_VALID_ROWS 833, CURRENT_SEEDED_ROWS 350, RESERVED_CAPACITY 9.167, MISSING_VALID_TOPIC_SPACE 6.223. KHÔNG đệm; ghi rõ taxonomy hiện tại không thể đạt 10.000, muốn tăng phải chủ đề thật | generate-matrix idempotent, CI no-drift | VERIFIED |
+| G2 | progress.json dùng ngày bài cũ làm generated_at; CI ép report byte-identical | Ba mốc tách bạch: generated_at = giờ chạy thật, data_through = mốc dữ liệu, checkpoint.updated_at = mốc state (report không nâng). Bằng chứng deterministic: data_fingerprint/matrix_sha256/taxonomy_sha256/inventory_sha256; CI so vân tay thay vì byte | test_reports_resume.py: generated_at đổi giữa 2 lần chạy, data_through + vân tay ổn định, checkpoint/lock/transaction không bị đụng | VERIFIED |
+| G3 | Bằng chứng QA không gắn nội dung — QA cũ có thể duyệt bài đã sửa | data/qa/*.json thêm source_path, content_sha256 (SHA-256 nội dung sau sửa cuối), matrix_row_sha256 (vân tay hàng). validate.py kiểm lại hash của mọi bài PUBLISHED | validate PASS; kiểm chứng âm: sửa tệp/nội dung → validate FAIL | VERIFIED |
+| G4 | Publish gate không giữ lock (chỉ đọc check — race 2 writer) | Gate v3: acquire O_EXCL sentinel `writer-lock.active` TRƯỚC mọi kiểm tra; từ chối STALE_QA_EVIDENCE (đổi nội dung sau QA) và MATRIX_ROW_MISMATCH (đổi hàng sau QA); APPEND transaction history (giới hạn 50, có commit_sha/rollback) thay vì reset | test_publish_gate.py: thêm 4 kịch bản âm — thiếu hash, stale content, row mismatch, lock bị giữ | VERIFIED |
+| G5 | BODY bài viết chưa có hệ thống (483 bài legacy + factory chung một layout mộc) | `_layouts/post.html` mới: breadcrumb taxonomy (JSON-LD khớp hiển thị, legacy giải qua factory-map), H1/dek/meta, thời gian đọc TÍNH THẬT, TOC build-time (details/summary, chỉ hiện >=4 H2, không JS), prose max-width 760px, bảng cuộn trong khung, bài liên quan theo child→parent→category, CTA tiết chế không bịa | CI render checks + live HTML | VERIFIED (kiểm tra cấu trúc/DOM/CSS; trình duyệt thật xem mục dưới) |
+| G6 | Kinh nghiệm (335 bài), Chia sẻ (112), Du lịch (39), topic tới 97 bài render hết trong MỘT trang | `scripts/factory/generate-listing-pages.py`: trang tĩnh 12 bài/trang (danh mục) + 24 bài/trang (chủ đề), `_listing/` + `_data/listing-index.yml`, link đánh số crawlable, không JS load-more. Trang gốc hiển thị trang 1 + nav | CI no-drift + build check + live 200 | VERIFIED |
+| G7 | 10 hàng REVIEW legacy chưa có bằng chứng phân loại | `reports/factory/review-pairs.md`: 4 cặp SAFE_DISTINCT (8 bài), 1 cặp MERGE_CANDIDATE thật (đổi xe giữa kỳ) — chờ chủ xe chọn canonical + redirect. KHÔNG tự PASS, matrix giữ nguyên 10 REVIEW | Đọc nội dung từng cặp, đối chiếu heading/keyword | VERIFIED (phân tích xong; quyết định merge là của chủ xe) |
+| G8 | Writer chưa có hợp đồng UI | docs/CONTENT-FACTORY.md mục "Hợp đồng writer": chỉ nội dung ngữ nghĩa, không CSS riêng, không markup thiết kế, layout sở hữu UI | Đọc docs | VERIFIED |
+
+### Kiểm kê migration bài cũ (phần 17)
+
+486 tệp _posts (483 legacy + 3 factory): quét inline `<style>`/`style=` = 0 tệp.
+Phân loại: 486/486 INHERITS_CANONICAL_LAYOUT, 0 INLINE_STYLE_CONFLICT,
+0 SPECIAL_LAYOUT, 0 MANUAL_REVIEW. Không bài nào bị sửa nội dung; URL legacy giữ nguyên (0 đổi).
+
+### Visual QA — KHÔNG THỂ THỰC HIỆN TRONG MÔI TRƯỜNG NÀY
+
+Môi trường sandbox không có trình duyệt thật (không cài được Chromium/Playwright —
+package install bị chặn). Tất cả kiểm tra là DOM/HTML/CSS tĩnh + CI build engine
+Jekyll (đúng họ engine với Pages). ẢNH CHỤP MÀN HÌNH trước/sau: KHÔNG CÓ.
+Safari/iPhone: NOT VERIFIED. Lighthouse/CWV: NOT MEASURED. Mọi kết luận responsive
+(375/390/430/768/1024/1440) là phân tích breakpoint CSS, không phải kiểm tra thị giác.

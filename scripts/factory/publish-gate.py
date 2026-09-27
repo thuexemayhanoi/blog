@@ -1,36 +1,40 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""PUBLISH GATE - kiểm tra trạng thái + bằng chứng TRƯỚC khi promote.
+"""PUBLISH GATE cứng v3 — kiểm tra trạng thái + bằng chứng GẮNG VỚI NỘI DUNG.
 
-Cổng xuất bản cứng (không chỉ hướng dẫn bằng văn bản). Lệnh:
+Lệnh:
 
   python3 scripts/factory/publish-gate.py --draft _drafts/2026-09-27-slug.md --id BLG-00484
 
-Điều kiện promote (tất cả phải đúng, không hạ ngưỡng):
-  1. Matrix có hàng --id ở trạng thái PASS (writer tự set sau khi QA xong;
-     WRITING/QA bị từ chối).
-  2. Bằng chứng chấm điểm tồn tại: data/qa/<id>.json với quality >= 90,
-     seo >= 90, business_fact = PASS, legal = PASS|NOT_REQUIRED,
-     critical_failure = false. Điểm nội bộ, không phải điểm Google.
-  3. Draft tồn tại, có frontmatter đầy đủ, không chứa placeholder nháp.
-  4. Writer-lock đang tự do; transaction được ghi active trong lúc gate chạy
-     (nhanh, tự đóng lại nếu mọi thứ PASS).
-  5. Chỉ khi TẤT CẢ điều kiện đúng: chuyển draft sang _posts/ với tên tệp
-     đúng ngày, cập nhật trạng thái matrix -> PUBLISHED, cập nhật checkpoint
-     (last_completed_article_id, next_claimable_id, updated_at = giờ chạy thật).
+Chuỗi promote an toàn (theo đúng thứ tự, không rút ngắn):
+  1. atomically ACQUIRE writer lock (O_EXCL — hai writer không thể cùng thấy
+     "lock tự do").
+  2. kiểm tra không có transaction conflicting đang active.
+  3. kiểm tra hàng matrix = PASS.
+  4. kiểm tra bằng chứng data/qa/<id>.json: quality>=90, seo>=90,
+     business_fact=PASS, legal=PASS|NOT_REQUIRED, critical_failure=false.
+  5. GẮNG VỚI NỘI DUNG: sha256 draft HIỆN TẠI phải == qa.content_sha256
+     (khớp -> QA chấm đúng nội dung này; lệch -> STALE_QA_EVIDENCE, từ chối).
+  6. GẮNG VỚI HÀNG MATRIX: vân tay (title/intent/keyword/URL/path) của hàng
+     hiện tại phải == qa.matrix_row_sha256 (lệch sau QA -> từ chối).
+  7. mở transaction, promote draft -> _posts/, matrix -> PUBLISHED (chốt ngày
+     thật vào URL), cập nhật checkpoint (updated_at = giờ chạy thật).
+  8. APPEND vào transaction history (không reset), đóng transaction, RELEASE lock.
 
-FAIL bất kỳ: giữ draft trong _drafts/, ghi rõ lý do, exit 1. Không đổi gì.
+FAIL bất kỳ: trả draft về _drafts/ nếu đã dời, đóng transaction, RELEASE lock, exit 1.
 Rollback: revert commit promote; chạy lại generate-reports.py.
 """
-import argparse, csv, datetime, json, os, re, shutil, sys
+import argparse, csv, datetime, hashlib, json, os, re, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.chdir(ROOT)
 MATRIX = 'data/content-matrix.csv'
 QA_DIR = 'data/qa'
 LOCK = 'data/state/writer-lock.json'
+LOCK_FILE = 'data/state/writer-lock.active'  # atomic O_EXCL sentinel
 TXN = 'data/state/transaction.json'
 CP = 'data/state/checkpoint.json'
+HISTORY_MAX = 50
 
 QUALITY_MIN = 90
 SEO_MIN = 90
@@ -40,11 +44,76 @@ def now_iso():
     return datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%S+00:00')
 
 
-def fail(msgs):
+def sha256_file(path):
+    return hashlib.sha256(open(path, 'rb').read()).hexdigest()
+
+
+def matrix_row_sha256(r):
+    """Vân tay hàng matrix — trùng định nghĩa khi QA chấm (docs/CONTENT-FACTORY.md)."""
+    basis = {k: r[k] for k in ('title', 'intent', 'primary_keyword',
+                               'expected_url', 'output_path', 'canonical_url')}
+    return hashlib.sha256(json.dumps(basis, ensure_ascii=False, sort_keys=True)
+                          .encode('utf-8')).hexdigest()
+
+
+def fail(msgs, release=None):
     print('=== PUBLISH GATE: TỪ CHỐI ===')
     for m in msgs:
         print('FAIL:', m)
+    if release is not None:
+        release()
     sys.exit(1)
+
+
+def acquire_lock(holder):
+    """O_EXCL sentinel: hai tiến trình không thể cùng tạo tệp -> không race.
+    Trả về hàm release(); nếu không acquire được -> fail an toàn."""
+    try:
+        fd = os.open(LOCK_FILE, os.O_CREAT | os.O_EXCL | os.O_WRONLY, 0o644)
+        os.write(fd, (holder + ' ' + now_iso()).encode('utf-8'))
+        os.close(fd)
+    except FileExistsError:
+        fail(['writer-lock đang bị giữ (sentinel %s tồn tại) — từ chối, không promote.' % LOCK_FILE])
+    # đồng bộ writer-lock.json cho công cụ khác (không dùng làm điều kiện race)
+    json.dump({'locked': True, 'holder': holder, 'acquired_at': now_iso(),
+               'expires_at': None, 'updated_at': now_iso(),
+               'note': 'Sentinel thật: data/state/writer-lock.active (O_EXCL).'},
+              open(LOCK, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+    def release():
+        try:
+            os.remove(LOCK_FILE)
+        except FileNotFoundError:
+            pass
+        json.dump({'locked': False, 'holder': None, 'acquired_at': None,
+                   'expires_at': None, 'updated_at': now_iso(),
+                   'note': 'Lock phải được giữ trong suốt một chunk và nhả khi checkpoint an toàn. '
+                           'Không bao giờ chạy hai writer song song.'},
+                  open(LOCK, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    return release
+
+
+def txn_append(txn, entry, active, pending=None):
+    """APPEND history (có giới hạn), KHÔNG reset history cũ."""
+    hist = txn.get('history') or []
+    hist.append(entry)
+    txn['active'] = active
+    txn['updated_at'] = now_iso()
+    txn['pending'] = pending
+    txn['history'] = hist[-HISTORY_MAX:]
+    txn['note'] = txn.get('note') or ('Ghi transaction trước khi mutate. Nếu pending khác null '
+                                      'ở lần chạy sau: recover/hoàn tất trước khi làm việc mới.')
+    json.dump(txn, open(TXN, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+
+
+def commit_sha():
+    try:
+        import subprocess
+        out = subprocess.run(['git', 'rev-parse', 'HEAD'], capture_output=True,
+                             text=True, timeout=5)
+        return out.stdout.strip() or None
+    except Exception:
+        return None
 
 
 def main():
@@ -54,22 +123,47 @@ def main():
     ap.add_argument('--dry-run', action='store_true')
     args = ap.parse_args()
     errs = []
+    aid = args.id
+    holder = 'publish-gate-%s' % aid
 
-    # 1. matrix hàng PASS
+    # 1. acquire lock TRƯỚC mọi kiểm tra (race-safe)
+    if args.dry_run:
+        # dry-run: chỉ đọc, không giữ lock lâu — vẫn kiểm tra lock không bị giữ
+        if os.path.exists(LOCK_FILE):
+            fail(['writer-lock đang bị giữ — từ chối dry-run.'])
+    else:
+        release = acquire_lock(holder)
+
+    def cleanup():
+        if not args.dry_run:
+            try:
+                release()
+            except NameError:
+                pass
+
+    # 2. transaction conflicting?
+    txn = json.load(open(TXN, encoding='utf-8')) if os.path.exists(TXN) else {
+        'active': False, 'updated_at': now_iso(), 'pending': None, 'history': []}
+    if txn.get('active'):
+        fail(['transaction đang active (%s) — recover/hoàn tất trước khi promote.'
+              % txn.get('pending')], release=cleanup if not args.dry_run else None)
+
+    # 3. matrix hàng PASS
     if not os.path.exists(MATRIX):
-        fail(['matrix thiếu — không thể promote'])
+        fail(['matrix thiếu — không thể promote'], release=cleanup if not args.dry_run else None)
     with open(MATRIX, encoding='utf-8', newline='') as f:
         rows = list(csv.DictReader(f))
-    row = next((r for r in rows if r['id'] == args.id), None)
+    row = next((r for r in rows if r['id'] == aid), None)
     if row is None:
-        fail(['không tìm thấy %s trong matrix' % args.id])
+        fail(['không tìm thấy %s trong matrix' % aid], release=cleanup if not args.dry_run else None)
     if row['status'] != 'PASS':
-        fail(['trạng thái %s là %s — gate chỉ promote hàng PASS (WRITING/QA/PLANNED bị từ chối)' % (args.id, row['status'])])
+        fail(['trạng thái %s là %s — gate chỉ promote hàng PASS (WRITING/QA/PLANNED bị từ chối)'
+              % (aid, row['status'])], release=cleanup if not args.dry_run else None)
 
-    # 2. bằng chứng QA
-    qa_path = os.path.join(QA_DIR, args.id + '.json')
+    # 4. bằng chứng QA
+    qa_path = os.path.join(QA_DIR, aid + '.json')
     if not os.path.exists(qa_path):
-        fail(['thiếu bằng chứng chấm điểm: %s' % qa_path])
+        fail(['thiếu bằng chứng chấm điểm: %s' % qa_path], release=cleanup if not args.dry_run else None)
     qa = json.load(open(qa_path, encoding='utf-8'))
     if qa.get('quality', 0) < QUALITY_MIN:
         errs.append('quality %s < %d' % (qa.get('quality'), QUALITY_MIN))
@@ -82,69 +176,85 @@ def main():
     if qa.get('critical_failure', True):
         errs.append('critical_failure phải là false')
     if errs:
-        fail(errs)
+        fail(errs, release=cleanup if not args.dry_run else None)
 
-    # 3. draft
+    # 5. draft tồn tại + frontmatter + KHÔNG placeholder
     if not os.path.exists(args.draft) or not args.draft.startswith('_drafts/'):
-        fail(['draft không tồn tại hoặc không nằm trong _drafts/: %s' % args.draft])
+        fail(['draft không tồn tại hoặc không nằm trong _drafts/: %s' % args.draft],
+             release=cleanup if not args.dry_run else None)
     text = open(args.draft, encoding='utf-8').read()
     fm = re.match(r'^---\n(.*?)\n---', text, re.S)
     if not fm:
-        fail(['draft thiếu frontmatter'])
+        fail(['draft thiếu frontmatter'], release=cleanup if not args.dry_run else None)
     front = fm.group(1)
     for field in ('title:', 'date:', 'categories:', 'description:'):
         if field not in front:
-            fail(['draft thiếu frontmatter: %s' % field])
+            fail(['draft thiếu frontmatter: %s' % field], release=cleanup if not args.dry_run else None)
     if 'MẪU NHẬP BÀI' in text or 'lorem' in text.lower():
-        fail(['draft còn placeholder nháp'])
+        fail(['draft còn placeholder nháp'], release=cleanup if not args.dry_run else None)
 
-    # 4. lock + transaction
-    lock = json.load(open(LOCK, encoding='utf-8'))
-    if lock.get('locked'):
-        fail(['writer-lock đang bị giữ bởi %s' % lock.get('holder')])
-    txn = json.load(open(TXN, encoding='utf-8'))
-    if txn.get('active'):
-        fail(['transaction đang active — recover trước khi promote'])
+    # 6. GẮNG NỘI DUNG: sha256 draft hiện tại == qa.content_sha256
+    draft_sha = sha256_file(args.draft)
+    if not qa.get('content_sha256'):
+        fail(['bằng chứng QA thiếu content_sha256 (bắt buộc từ phiên bản gate v3)'],
+             release=cleanup if not args.dry_run else None)
+    if draft_sha != qa['content_sha256']:
+        fail(['STALE_QA_EVIDENCE: sha256 draft (%s) != qa.content_sha256 (%s) — '
+              'nội dung đã đổi sau khi QA chấm. Chấm lại QA trước khi promote.'
+              % (draft_sha[:12], qa['content_sha256'][:12])],
+             release=cleanup if not args.dry_run else None)
 
-    # ngày xuất bản = ngày trong tên draft (YYYY-MM-DD-slug.md); matrix chỉ lưu
-    # placeholder {date} cho tới khi promote (chốt ngày thật tại đây).
+    # 7. GẮNG HÀNG MATRIX: vân tay hàng hiện tại == qa.matrix_row_sha256
+    if not qa.get('matrix_row_sha256'):
+        fail(['bằng chứng QA thiếu matrix_row_sha256 (bắt buộc từ phiên bản gate v3)'],
+             release=cleanup if not args.dry_run else None)
+    row_fp = matrix_row_sha256(row)
+    if row_fp != qa['matrix_row_sha256']:
+        fail(['MATRIX_ROW_MISMATCH: vân tay hàng matrix (%s) != qa.matrix_row_sha256 (%s) — '
+              'title/slug/URL/intent/keyword đổi sau khi QA. Cập nhật QA hoặc hàng matrix.'
+              % (row_fp[:12], qa['matrix_row_sha256'][:12])],
+             release=cleanup if not args.dry_run else None)
+
+    # 8. slug/đường dẫn khớp hàng matrix
     dm = re.match(r'(\d{4}-\d{2}-\d{2})-', os.path.basename(args.draft))
     if not dm:
-        fail(['tên draft phải dạng YYYY-MM-DD-slug.md: %s' % args.draft])
+        fail(['tên draft phải dạng YYYY-MM-DD-slug.md: %s' % args.draft],
+             release=cleanup if not args.dry_run else None)
     date_part = dm.group(1)
-    # slug hàng matrix: _posts/{date}-slug.md (chưa promote) hoặc đã có ngày thật
     op = row['output_path']
     if op.startswith('_posts/{date}-'):
         slug_want = op[len('_posts/{date}-'):-3]
     else:
         om = re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+\.md)$', op)
         if not om:
-            fail(['output_path matrix sai định dạng: %s' % op])
+            fail(['output_path matrix sai định dạng: %s' % op],
+                 release=cleanup if not args.dry_run else None)
         slug_want = om.group(1)[:-3]
     slug_have = os.path.basename(args.draft)[11:-3]
     if slug_have != slug_want:
-        fail(['slug draft (%s) != slug matrix (%s)' % (slug_have, slug_want)])
+        fail(['slug draft (%s) != slug matrix (%s)' % (slug_have, slug_want)],
+             release=cleanup if not args.dry_run else None)
     dest = '_posts/%s-%s.md' % (date_part, slug_want)
 
-    # ghi transaction active trong lúc promote
-    if not args.dry_run:
-        txn = {'active': True, 'updated_at': now_iso(),
-               'pending': {'step': 'promote %s' % args.id, 'draft': args.draft},
-               'history': []}
-        json.dump(txn, open(TXN, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+    if args.dry_run:
+        print('=== PUBLISH GATE: DRY-RUN PASS (không đổi gì) ===')
+        print('sẽ promote %s -> %s' % (args.draft, dest))
+        return
+
+    # 9. mở transaction -> promote -> đóng, append history
+    entry = {'article_id': aid, 'started_at': now_iso(),
+             'source': args.draft, 'destination': dest,
+             'result': None, 'commit_sha': commit_sha()}
+    txn_append(txn, entry, active=True, pending={'step': 'promote %s' % aid, 'draft': args.draft})
 
     try:
-        if args.dry_run:
-            print('=== PUBLISH GATE: DRY-RUN PASS (không đổi gì) ===')
-            print('sẽ promote %s -> %s' % (args.draft, dest))
-            return
-        # 5. promote
         shutil.move(args.draft, dest)
         for r in rows:
-            if r['id'] == args.id:
+            if r['id'] == aid:
                 r['status'] = 'PUBLISHED'
                 r['output_path'] = dest
-                r['expected_url'] = r['expected_url'].replace('{date}', '%s/%s/%s' % (date_part[:4], date_part[5:7], date_part[8:]))
+                r['expected_url'] = r['expected_url'].replace(
+                    '{date}', '%s/%s/%s' % (date_part[:4], date_part[5:7], date_part[8:]))
                 r['canonical_url'] = r['expected_url']
         fields = list(rows[0].keys())
         with open(MATRIX, 'w', encoding='utf-8', newline='') as f:
@@ -152,28 +262,36 @@ def main():
             w.writeheader()
             w.writerows(rows)
 
-        # checkpoint
         cp = json.load(open(CP, encoding='utf-8'))
         planned_left = [r['id'] for r in rows if r['status'] == 'PLANNED']
-        cp['last_completed_article_id'] = args.id
+        cp['last_completed_article_id'] = aid
         cp['next_claimable_id'] = planned_left[0] if planned_left else None
-        cp['updated_at'] = now_iso()
-        cp['last_run_id'] = 'publish-gate-' + args.id
+        cp['updated_at'] = now_iso()  # state đổi vật lý — giờ thật
+        cp['last_run_id'] = 'publish-gate-' + aid
         cp['counts']['planned'] = sum(1 for r in rows if r['status'] == 'PLANNED')
         cp['counts']['published'] = sum(1 for r in rows if r['status'] == 'PUBLISHED')
         json.dump(cp, open(CP, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
 
-        txn = {'active': False, 'updated_at': now_iso(), 'pending': None, 'history': []}
-        json.dump(txn, open(TXN, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+        entry['finished_at'] = now_iso()
+        entry['result'] = 'PUBLISHED'
+        entry['destination'] = dest
+        entry['rollback'] = 'revert commit promote; chạy lại generate-reports.py'
+        txn['history'][-1] = entry
+        txn_append(txn, None, active=False, pending=None)
+        release()
         print('=== PUBLISH GATE: PROMOTED ===')
         print('%s -> %s' % (args.draft, dest))
-        print('checkpoint: last_completed=%s next_claimable=%s' % (args.id, cp['next_claimable_id']))
+        print('checkpoint: last_completed=%s next_claimable=%s' % (aid, cp['next_claimable_id']))
+        print('history: %d mục (không reset)' % len(txn['history']))
     except Exception:
-        # nếu dở dang: trả draft về _drafts/
+        # dở dang: trả draft về _drafts/, ghi history FAIL, đóng transaction, release lock
         if os.path.exists(dest) and not os.path.exists(args.draft):
             shutil.move(dest, args.draft)
-        txn = {'active': False, 'updated_at': now_iso(), 'pending': None, 'history': []}
-        json.dump(txn, open(TXN, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+        entry['finished_at'] = now_iso()
+        entry['result'] = 'FAIL'
+        txn['history'][-1] = entry
+        txn_append(txn, None, active=False, pending=None)
+        release()
         raise
 
 

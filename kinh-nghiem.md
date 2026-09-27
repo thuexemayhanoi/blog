@@ -20,17 +20,26 @@ Thuê xe máy tại Hà Nội không khó, nhưng nếu bạn nắm trước quy
 
 {% if posts.size > 0 %}
 <div class="post-grid">
-  {% for post in posts %}
+  {% assign _shown = 0 %}
+{% for post in posts %}
   {% if post.categories contains 'Kinh nghiệm' %}
+  {% if _shown < 12 %}
   <article class="post-card glass-card">
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
     <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
     <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
   </article>
+  {% assign _shown = _shown | plus: 1 %}
+  {% endif %}
   {% endif %}
   {% endfor %}
 </div>
+{% assign _li = site.data.listing-index.kinh-nghiem %}
+{% if _li and _li.pages > 1 %}
+{% capture _base %}/kinh-nghiem/{% endcapture %}
+{% include pagination-nav.html base=_base page_num=1 total_pages=_li.pages %}
+{% endif %}
 {% else %}
 <p>Chưa có bài viết nào về kinh nghiệm. Hãy quay lại sau!</p>
 {% endif %}

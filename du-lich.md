@@ -22,17 +22,26 @@ Chuyên mục này tổng hợp các bài viết du lịch của chúng tôi, k�
 
 {% if posts.size > 0 %}
 <div class="post-grid">
-  {% for post in posts %}
+  {% assign _shown = 0 %}
+{% for post in posts %}
   {% if post.categories contains 'Du lịch' %}
+  {% if _shown < 12 %}
   <article class="post-card glass-card">
     <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
     <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
     <p>{{ post.excerpt | strip_html | truncatewords:30 }}</p>
     <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
   </article>
+  {% assign _shown = _shown | plus: 1 %}
+  {% endif %}
   {% endif %}
   {% endfor %}
 </div>
+{% assign _li = site.data.listing-index.du-lich %}
+{% if _li and _li.pages > 1 %}
+{% capture _base %}/du-lich/{% endcapture %}
+{% include pagination-nav.html base=_base page_num=1 total_pages=_li.pages %}
+{% endif %}
 {% else %}
 <p>Chưa có bài viết nào về du lịch. Hãy quay lại sau!</p>
 {% endif %}

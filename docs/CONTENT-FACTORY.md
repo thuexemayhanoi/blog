@@ -22,6 +22,7 @@ Mục tiêu: sản xuất nội dung chất lượng có kiểm chứng cho blog
 1. Viết trong `_drafts/` (KHÔNG deploy, không vào sitemap, không vào danh sách bài — CI kiểm chứng bằng build).
 2. Kiểm tra nội dung/nguồn: đọc lại, kiểm tra nguồn trích dẫn khi `source_required`.
 3. Chấm QUALITY và SEO theo `docs/QUALITY-RUBRIC.md` (≥90/≥90). Điểm nội bộ, không phải điểm Google. Đánh giá nội dung cần AI/người đọc — kiểm tra tự động chỉ là điều kiện cần.
+3b. GHI BẰNG CHỨNG GẮNG VỚI NỘI DUNG (bắt buộc từ 2026-09-27): `data/qa/<id>.json` phải có `source_path`, `content_sha256` (SHA-256 tệp draft SAU SỬA ĐỔI CUỐI), `matrix_row_sha256` (vân tay hàng matrix: title/intent/keyword/URL/path). Gate tái tính cả hai hash trước promote: đổi nội dung sau QA → STALE_QA_EVIDENCE, đổi hàng matrix → MATRIX_ROW_MISMATCH. Công thức vân tay hàng: SHA-256 của JSON sort-keys các trường `title, intent, primary_keyword, expected_url, output_path, canonical_url`.
 4. Tối ưu an toàn (không nhồi từ khóa, không đổi ý tiêu đề).
 5. BUSINESS FACT CHECK: mọi con số khớp `data/business-facts.json`; xung đột chính sách xem `reports/factory/policy-conflicts.md` (BLOCKED thì không viết).
 6. LEGAL/SOURCE CHECK theo `docs/ARTICLE-RULES.md` mục Pháp lý (CLAIM → SUBJECT → CONDITION → QUY ĐỊNH HIỆN HÀNH → PHIÊN BẢN CÓ HIỆU LỰC → NGUỒN CHÍNH THỨC). Không chắc chắn → REVIEW/BLOCKED.
@@ -64,3 +65,18 @@ MAIN HEAD, Pages run ID, BUILD/DEPLOY status, tệp thay đổi, kiểm tra runt
 ## Vòng đời đầy đủ (đã chạy thật 2026-09-27)
 
 claim (từ `next_claimable_id` trong checkpoint, tối đa 10 bài/chunk) → viết `_drafts/YYYY-MM-DD-slug.md` (frontmatter đủ, `article_id`, permalink đúng taxonomy) → QA + chấm điểm, ghi `data/qa/<id>.json` → set hàng matrix PASS → `publish-gate.py` promote → chạy `restore-foundation.py` + `generate-reports.py` → commit theo nhóm → CI xanh → Pages deploy → kiểm tra live (200, sitemap, hub, canonical). Resume: checkpoint giữ `last_completed_article_id` + `in_progress_chunk`; `generate-reports.py` không bao giờ reset tiến độ (kiểm chứng trong `scripts/factory/tests/test_reports_resume.py`). Rollback: revert commit promote, chạy lại `generate-reports.py`; KHÔNG force push.
+
+## Hợp đồng writer bài factory (bắt buộc từ 2026-09-27)
+
+Writer CHỈ sản xuất NỘI DUNG ngữ nghĩa của bài. Layout sở hữu toàn bộ UI:
+
+- KHÔNG tự viết CSS toàn cục hoặc inline style.
+- KHÔNG lặp markup thiết kế (card/grid/breadcrumb/TOC đã có trong layout).
+- KHÔNG nhúng ảnh trang trí tùy tiện — chỉ ảnh thật có trong repo và có alt.
+- KHÔNG tự cài điều hướng bài viết (layout có sẵn bài trước/sau + liên quan).
+- Frontmatter bắt buộc: title, date, categories, description, lang, permalink
+  đúng taxonomy, parent_id, child_id, article_id.
+- Bài thừa hưởng tự động: header + breadcrumb taxonomy, TOC, bảng responsive,
+  typography, bài viết liên quan, CTA, footer — từ `_layouts/post.html` + CSS
+  dùng chung. Markup bài chỉ là Markdown ngữ nghĩa: h2/h3, p, ul/ol, table,
+  blockquote.

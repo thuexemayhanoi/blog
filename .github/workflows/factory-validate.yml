@@ -34,12 +34,38 @@ jobs:
             exit 1
           fi
 
-      - name: Generate reports (must match committed reports)
+      - name: Generate reports (stable fields must match committed)
         run: |
+          cp reports/factory/progress.json /tmp/progress_committed.json
+          cp data/state/checkpoint.json /tmp/checkpoint_committed.json
           python3 scripts/factory/generate-reports.py
-          if [ -n "$(git status --porcelain reports/ data/state/checkpoint.json)" ]; then
-            echo "FAIL: report/checkpoint lệch dữ liệu thật — chạy lại generate-reports.py và commit kết quả."
-            git status --porcelain reports/ data/state/checkpoint.json
+          python3 - <<'PY'
+          import json, sys
+          # generated_at = giờ chạy thật -> KHÔNG đối chiếu byte-đối-byte.
+          # Đối chiếu phần còn lại + vân tay dữ liệu (bằng chứng cùng dữ liệu).
+          new = json.load(open('reports/factory/progress.json'))
+          old = json.load(open('/tmp/progress_committed.json'))
+          ignore = {'generated_at'}
+          diff = {k for k in set(old) | set(new)
+                  if k not in ignore and old.get(k) != new.get(k)}
+          if diff:
+              print('FAIL: report lệch dữ liệu thật ở các trường:', sorted(diff)); sys.exit(1)
+          for k in ('data_fingerprint','matrix_sha256','taxonomy_sha256','inventory_sha256'):
+              if new.get(k) != old.get(k):
+                  print('FAIL: vân tay dữ liệu đổi:', k); sys.exit(1)
+          cpn = json.load(open('data/state/checkpoint.json'))
+          cpo = json.load(open('/tmp/checkpoint_committed.json'))
+          # checkpoint.updated_at chỉ đổi khi state đổi vật lý; report generation không nâng
+          if cpn.get('updated_at') != cpo.get('updated_at'):
+              print('FAIL: report generation nâng checkpoint.updated_at'); sys.exit(1)
+          for k in ('last_completed_article_id','last_batch_id','next_claimable_id','in_progress_chunk'):
+              if cpn.get(k) != cpo.get(k):
+                  print('FAIL: report generation reset tiến độ:', k); sys.exit(1)
+          print('OK: report khớp dữ liệu thật; generated_at chỉ là giờ chạy; vân tay ổn định.')
+          PY
+          if [ -n "$(git status --porcelain reports/factory/inventory-summary.md reports/factory/content-hierarchy.md reports/factory/latest.md)" ]; then
+            echo "FAIL: các report markdown lệch dữ liệu thật — chạy lại generate-reports.py và commit kết quả."
+            git status --porcelain reports/factory
             exit 1
           fi
 
@@ -61,6 +87,15 @@ jobs:
         run: |
           python3 scripts/factory/tests/test_reports_resume.py
           python3 scripts/factory/tests/test_publish_gate.py
+
+      - name: Listing pages must match generator (no drift)
+        run: |
+          python3 scripts/factory/generate-listing-pages.py
+          if [ -n "$(git status --porcelain listing _data/listing-index.yml)" ]; then
+            echo "FAIL: trang phân hạng lệch số bài thật — chạy lại generate-listing-pages.py và commit kết quả."
+            git status --porcelain listing _data/listing-index.yml
+            exit 1
+          fi
 
       - name: Build site (Jekyll, same engine family as Pages)
         uses: actions/jekyll-build-pages@v1
@@ -84,6 +119,26 @@ jobs:
           else
             echo "FAIL: liên kết chủ đề thiếu baseurl /blog."; exit 1
           fi
+
+      - name: Article layout + pagination must render (no JS-only routes)
+        run: |
+          test -f "_site/kinh-nghiem/trang/2/index.html" || { echo "FAIL: thiếu trang phân hạng /kinh-nghiem/trang/2/"; exit 1; }
+          test -f "_site/ky-nang/tinh-huong-giao-thong/trang/2/index.html" || { echo "FAIL: thiếu trang phân hạng topic"; exit 1; }
+          grep -q "article-body" _site/kinh-nghiem/trang/2/index.html || { echo "FAIL: listing thiếu layout bài"; exit 1; }
+          # bài mẫu: breadcrumb taxonomy + TOC + prose
+          A=_site/thue-xe/2026/09/27/bang-gia-thue-xe-may-tai-ha-noi-theo-loai-xe/index.html
+          test -f "$A" || { echo "FAIL: thiếu bài factory"; exit 1; }
+          grep -q "article-body" "$A" || { echo "FAIL: bài không dùng article-body"; exit 1; }
+          grep -q "BreadcrumbList" "$A" || { echo "FAIL: thiếu JSON-LD breadcrumb"; exit 1; }
+          grep -q "Bài viết liên quan" "$A" || { echo "FAIL: thiếu bài viết liên quan"; exit 1; }
+          # bài legacy: breadcrumb giải qua factory-map
+          B=_site/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/index.html
+          if [ -f "$B" ]; then
+            grep -q "BreadcrumbList" "$B" || { echo "FAIL: bài legacy thiếu breadcrumb JSON-LD"; exit 1; }
+          fi
+          grep -q "Mục lục" "$A" || { echo "FAIL: thiếu TOC cho bài nhiều mục"; exit 1; }
+          grep -q 'class="pagination"' _site/kinh-nghiem/index.html || { echo "FAIL: trang gốc kinh-nghiem thiếu phân trang"; exit 1; }
+          echo "OK: article layout + TOC + related + pagination render."
 
       - name: Validate foundation (exit 0 PASS / 1 FAIL - last step on purpose)
         run: |

@@ -15,7 +15,7 @@ Kiểm tra theo thứ tự, báo thiếu tệp rõ ràng thay vì crash:
   7. data/content-matrix.csv (schema TẠO MỚI): ID/URL/canonical duy nhất,
      legacy 483 hàng khớp inventory, 10 REVIEW không bị đổi, PLANNED đủ dữ liệu.
 """
-import csv, json, os, re, sys, collections
+import csv, json, os, re, sys, collections, hashlib
 
 ERRORS, WARNS, BLOCKED = [], [], []
 def err(m): ERRORS.append(m)
@@ -238,6 +238,28 @@ if os.path.exists(MATRIX):
     orphan = [aid for aid in mpub if aid not in seen_aids]
     if orphan:
         err('matrix PUBLISHED %s không có tệp _posts tương ứng' % ', '.join(sorted(orphan)))
+    # bằng chứng QA gắn với nội dung: mọi bài factory PUBLISHED phải có
+    # data/qa/<id>.json với content_sha256 khớp tệp _posts hiện tại và
+    # matrix_row_sha256 khớp vân tay hàng matrix hiện tại (gate v3).
+    def _row_fp(mr):
+        import hashlib as _h
+        basis = {k: mr[k] for k in ('title','intent','primary_keyword',
+                                    'expected_url','output_path','canonical_url')}
+        return _h.sha256(json.dumps(basis, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
+    for aid, mr in mpub.items():
+        qap = os.path.join('data/qa', aid + '.json')
+        if not os.path.exists(qap):
+            err('bài PUBLISHED %s thiếu bằng chứng QA %s' % (aid, qap)); continue
+        qa = json.load(open(qap, encoding='utf-8'))
+        if not qa.get('content_sha256') or not qa.get('matrix_row_sha256'):
+            err('QA %s thiếu content_sha256/matrix_row_sha256 (bắt buộc từ gate v3)' % aid); continue
+        real_sha = hashlib.sha256(open(mr['output_path'], 'rb').read()).hexdigest()
+        if real_sha != qa['content_sha256']:
+            err('QA %s content_sha256 không khớp tệp %s (nội dung đổi sau QA?)' % (aid, mr['output_path']))
+        if _row_fp(mr) != qa['matrix_row_sha256']:
+            err('QA %s matrix_row_sha256 không khớp hàng matrix hiện tại' % aid)
+        if not qa.get('source_path') or qa['source_path'] != mr['output_path']:
+            err('QA %s source_path (%s) != output_path matrix (%s)' % (aid, qa.get('source_path'), mr['output_path']))
     if cp['counts'].get('existing') != mstat.get('EXISTING', 0): err('checkpoint existing lệch matrix')
     if cp['counts'].get('review') != mstat.get('REVIEW', 0): err('checkpoint review lệch matrix')
     if cp['counts'].get('planned') != mstat.get('PLANNED', 0): err('checkpoint planned lệch matrix')

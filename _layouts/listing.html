@@ -1,0 +1,35 @@
+---
+layout: default
+---
+{% comment %}
+Trang danh sách phân trang theo DANH MỤC Jekyll (sinh bởi
+scripts/factory/generate-listing-pages.py trong _listing/<slug>/<n>.md).
+Số bài mỗi trang: page_size frontmatter (12). Không JS.
+{% endcomment %}
+<section class="section page-section">
+  <div class="container">
+    {% include breadcrumb.html %}
+    <h1>{{ page.category | default: page.title | split: ' - ' | first }}</h1>
+    <p class="page-description">Trang {{ page.page_num }} / {{ page.total_pages }}.</p>
+    {% assign offset = page.page_num | minus: 1 | times: page.page_size %}
+    {% assign limit_to = offset | plus: page.page_size %}
+    <div class="post-grid">
+      {% assign shown = 0 %}
+      {% for post in site.posts %}
+        {% if post.categories contains page.category %}
+          {% if shown >= offset and shown < limit_to %}
+          <article class="post-card glass-card">
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
+            <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+            <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
+          </article>
+          {% endif %}
+          {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% assign pg_base = page.permalink | split: 'trang/' | first %}
+    {% include pagination-nav.html base=pg_base page_num=page.page_num total_pages=page.total_pages %}
+  </div>
+</section>

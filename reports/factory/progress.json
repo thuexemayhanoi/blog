@@ -1,6 +1,10 @@
 {
-  "generated_at": "2026-09-27T00:00:00+00:00",
+  "generated_at": "2026-09-27T07:25:02+00:00",
   "data_through": "2026-09-27",
+  "data_fingerprint": "8a577da0470598c655ceb18ddf94353ee85452c454b1fc55d5e87f9acb957660",
+  "matrix_sha256": "73e5fb453976fee75822bf1e1b2c3157d0979f82ded366f652bb24a9c522a55a",
+  "taxonomy_sha256": "aa1a1b652322f1cf032f7e5abcb52c2c3d2b908f6c1d6f12dea2b3050aff82f6",
+  "inventory_sha256": "def86c1da1d7af51abc6a659b4b71b0d32fc112e0d2b0a39ad140b6375f7fea4",
   "generated_by": "scripts/factory/generate-reports.py (từ dữ liệu thật, bảo toàn tiến độ)",
   "capacity": 10000,
   "matrix_status": "PRESENT_CREATED_NEW",

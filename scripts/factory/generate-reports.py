@@ -12,14 +12,27 @@ Nguyên tắc tiến độ (bắt buộc):
   last_batch_id, next_claimable_id, in_progress_chunk, updated_at,
   last_run_id, status của checkpoint hiện có. Tính lại các counts từ matrix.
 - KHÔNG đụng data/state/writer-lock.json và data/state/transaction.json.
-- Phân biệt hai mốc thời gian:
-  + data_through = ngày bài mới nhất trong dữ liệu (dùng làm mốc dữ liệu).
-  + checkpoint.updated_at = thời điểm lượt chạy mới nhất; script chỉ nâng lên
-    khi dữ liệu mới hơn, không kéo lùi về ngày bài cũ khi chạy lại.
-- Idempotent: chạy lại khi dữ liệu không đổi cho kết quả byte-đối-byte.
+- BA mốc thời gian riêng biệt, KHÔNG dùng lẫn:
+  + generated_at = thời điểm chạy report THẬT (đồng hồ thật, mỗi lần chạy mới).
+  + data_through = ngày bài mới nhất mà dữ liệu đại diện (chỉ đổi khi nội dung đổi).
+  + checkpoint.updated_at = thời điểm trạng thái factory đổi vật lý gần nhất
+    (publish/claim...); report generation KHÔNG tự nâng.
+- Do generated_at là giờ chạy thật, các lần chạy khác nhau KHÔNG byte-identical
+  về trường này. Tính deterministic thay bằng vân tay dữ liệu:
+  matrix_sha256, taxonomy_sha256, inventory_sha256, data_fingerprint
+  (cùng dữ liệu -> cùng vân tay). CI đối chiếu vân tay, không đối chiếu giờ.
+- KHÔNG đụng data/state/writer-lock.json và data/state/transaction.json.
 """
-import csv, json, os, re, sys, collections
+import csv, json, os, re, sys, collections, hashlib
 import datetime
+
+
+def sha256_file(path):
+    return hashlib.sha256(open(path, 'rb').read()).hexdigest()
+
+
+def now_iso():
+    return datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%S+00:00')
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 os.chdir(ROOT)
@@ -32,6 +45,15 @@ children = {c['child_id']: c for c in tax['children']}
 MATRIX = 'data/content-matrix.csv'
 MATRIX_MISSING = not os.path.exists(MATRIX)
 matrix_rows = []
+MATRIX_SHA256 = None
+if not MATRIX_MISSING:
+    MATRIX_SHA256 = sha256_file(MATRIX)
+TAXONOMY_SHA256 = sha256_file('data/content-taxonomy.json')
+INVENTORY_SHA256 = sha256_file('data/content-inventory.csv')
+# vân tay dữ liệu tổng hợp: matrix + taxonomy + inventory (bỏ qua state runtime)
+DATA_FINGERPRINT = hashlib.sha256(
+    (str(MATRIX_SHA256) + TAXONOMY_SHA256 + INVENTORY_SHA256).encode('utf-8')).hexdigest()
+GENERATED_AT = now_iso()  # giờ chạy report THẬT (khác data_through)
 if not MATRIX_MISSING:
     with open(MATRIX, encoding='utf-8', newline='') as f:
         matrix_rows = list(csv.DictReader(f))
@@ -85,9 +107,9 @@ def preserve(key, default):
 checkpoint = {
     'factory_version': 2,
     'capacity': 10000,
-    # updated_at: KHÔNG lấy ngày bài cũ làm mốc lượt chạy mới. Chỉ nâng mốc,
-    # không kéo lùi — lượt chạy thật (publish) ghi mốc mới hơn sẽ được giữ.
-    'updated_at': max(prev.get('updated_at', DATA_TS) or DATA_TS, DATA_TS),
+    # updated_at: mốc lần state đổi VẬT LÝ gần nhất (publish/claim ghi giờ thật).
+    # Report generation KHÔNG nâng mốc này — giữ nguyên giá trị cũ nếu có.
+    'updated_at': prev.get('updated_at') or GENERATED_AT,
     'last_run_id': preserve('last_run_id', 'matrix-init-' + data_through),
     'status': preserve('status', 'READY' if not MATRIX_MISSING else 'PARTIAL_BLOCKED'),
     'matrix_status': 'BLOCKED_MISSING' if MATRIX_MISSING else 'PRESENT_CREATED_NEW',
@@ -133,8 +155,14 @@ with open(CP, 'w', encoding='utf-8') as f:
 
 # ---------------- progress.json
 progress = {
-    'generated_at': DATA_TS,
+    # generated_at = giờ chạy report thật; data_through = mốc dữ liệu.
+    # Hai giá trị này KHÔNG được dùng lẫn cho nhau.
+    'generated_at': GENERATED_AT,
     'data_through': data_through,
+    'data_fingerprint': DATA_FINGERPRINT,
+    'matrix_sha256': MATRIX_SHA256,
+    'taxonomy_sha256': TAXONOMY_SHA256,
+    'inventory_sha256': INVENTORY_SHA256,
     'generated_by': 'scripts/factory/generate-reports.py (từ dữ liệu thật, bảo toàn tiến độ)',
     'capacity': 10000,
     'matrix_status': checkpoint['matrix_status'],
@@ -238,5 +266,8 @@ print('legacy: %d (EXISTING %d, REVIEW %d)' % (len(inv), len(inv) - len(review_s
 print('matrix: %s | trạng thái: %s' % (checkpoint['matrix_status'], dict(mstat)))
 print('tiến độ bảo toàn: last_completed=%s chunk=%s next_claimable=%s' % (
     checkpoint['last_completed_article_id'], checkpoint['in_progress_chunk'], checkpoint['next_claimable_id']))
-print('mốc dữ liệu: %s | updated_at: %s' % (data_through, checkpoint['updated_at']))
+print('mốc dữ liệu: %s | generated_at: %s | checkpoint.updated_at: %s' % (
+    data_through, GENERATED_AT, checkpoint['updated_at']))
+print('vân tay: matrix=%s... data_fingerprint=%s...' % (
+    (MATRIX_SHA256 or '-')[:12], DATA_FINGERPRINT[:12]))
 print('KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)')

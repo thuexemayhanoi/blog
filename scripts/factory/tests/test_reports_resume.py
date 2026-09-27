@@ -87,10 +87,20 @@ def run():
     assert r.returncode == 0, r.stdout + r.stderr
     return json.load(open(os.path.join(work,'data/state/checkpoint.json'), encoding='utf-8'))
 
+# lock + transaction KHÔNG bị report generation đụng tới
+json.dump({'locked': False, 'holder': None}, open(os.path.join(work,'data/state/writer-lock.json'),'w',encoding='utf-8'))
+json.dump({'active': False, 'pending': None, 'history': [{'article_id':'BLG-90005','result':'PUBLISHED'}]},
+          open(os.path.join(work,'data/state/transaction.json'),'w',encoding='utf-8'))
+lock_before = open(os.path.join(work,'data/state/writer-lock.json'), encoding='utf-8').read()
+txn_before = open(os.path.join(work,'data/state/transaction.json'), encoding='utf-8').read()
+
 cp1 = run()
 cp_before = open(os.path.join(work,'data/state/checkpoint.json'), encoding='utf-8').read()
+prog1 = json.load(open(os.path.join(work,'reports/factory/progress.json'), encoding='utf-8'))
+import time as _t; _t.sleep(1.1)
 cp2 = run()
 cp2_raw = open(os.path.join(work,'data/state/checkpoint.json'), encoding='utf-8').read()
+prog2 = json.load(open(os.path.join(work,'reports/factory/progress.json'), encoding='utf-8'))
 
 # 1. counts từ matrix THẬT (không ép 0)
 exp = {'WRITING':1,'QA':1,'REPAIR':1,'PASS':1,'PUBLISHED':1,'PLANNED':1,'FAIL':1,'BLOCKED':1}
@@ -109,8 +119,26 @@ assert cp1['last_run_id'] == 'publish-gate-BLG-90005'
 # 3. updated_at không bị kéo lùi về ngày bài cũ (data_through của 40 bài cũ < 09:00 ngày 27)
 assert cp1['updated_at'] == '2026-09-27T09:00:00+00:00', cp1['updated_at']
 
-# 4. idempotent: chạy lại cho checkpoint byte-đối-byte giống
+# 4. idempotent về STATE: chạy lại cho checkpoint byte-đối-byte giống
 assert cp2_raw == cp_before, 'chạy lại generate-reports.py làm thay đổi checkpoint'
 
+# 5. BA mốc thời gian: generated_at = giờ chạy thật (đổi giữa 2 lần chạy),
+#    data_through = mốc dữ liệu (không đổi khi nội dung không đổi),
+#    checkpoint.updated_at = mốc state (report KHÔNG nâng)
+assert prog2['generated_at'] > prog1['generated_at'], (
+    'generated_at phải là giờ chạy thật — phải đổi giữa hai lần chạy (%s vs %s)' % (
+        prog1['generated_at'], prog2['generated_at']))
+assert prog1['data_through'] == prog2['data_through'], 'data_through đổi dù nội dung không đổi'
+assert prog2['data_fingerprint'] == prog1['data_fingerprint'], 'vân tay dữ liệu đổi dù dữ liệu không đổi'
+assert prog2['checkpoint_progress']['last_completed_article_id'] == 'BLG-90005'
+assert cp2['updated_at'] == '2026-09-27T09:00:00+00:00', (
+    'report generation không được nâng checkpoint.updated_at: %s' % cp2['updated_at'])
+
+# 6. lock/transaction untouched bởi report generation
+assert open(os.path.join(work,'data/state/writer-lock.json'), encoding='utf-8').read() == lock_before
+assert open(os.path.join(work,'data/state/transaction.json'), encoding='utf-8').read() == txn_before
+
 shutil.rmtree(tmp)
-print('PASS: chạy lại generate-reports.py không mất tiến độ; counts từ matrix thật; idempotent.')
+print('PASS: chạy lại generate-reports.py không mất tiến độ; counts từ matrix thật; '
+      'generated_at đổi theo giờ chạy thật, data_through/vân tay ổn định khi dữ liệu không đổi; '
+      'checkpoint.updated_at + lock + transaction không bị report đụng.')

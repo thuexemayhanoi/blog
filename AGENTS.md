@@ -46,11 +46,12 @@ Từ gốc repository:
 - `python3 scripts/factory/restore-foundation.py` — khôi phục/sinh taxonomy, inventory, `_data/factory-*`. Idempotent: chạy hai lần cho kết quả giống hệt.
 - `python3 scripts/factory/generate-reports.py` — sinh report + checkpoint từ dữ liệu thật. Idempotent.
 - `python3 scripts/factory/validate.py` — mã 0 PASS, 1 FAIL, 2 BLOCKED (thiếu matrix).
+- `python3 scripts/factory/generate-listing-pages.py` — sinh trang phân hạng tĩnh (`_listing/`, 12 bài/trang danh mục, 24 bài/trang chủ đề) + `_data/listing-index.yml`. Idempotent; chạy lại và commit khi số bài đổi.
 - `python3 scripts/factory/manifest.py --id BLG-XXXXX` — sinh manifest một hàng (yêu cầu matrix).
 - `node scripts/validate-queue.js _queue` — CHỈ cho campaign cũ hanoi-seo-480 (tệp `NNN-slug.md`). "skipped" khi queue rỗng KHÔNG nghĩa là `_posts` PASS.
 
 CI (`.github/workflows/factory-validate.yml`) chạy restore + reports + matrix idempotent + tests + build Jekyll + kiểm tra nháp không deploy + validate. Từ khi matrix được duyệt TẠO MỚI, CI phải XANH (validate exit 0). Không chỉ dựa vào Pages build success để tuyên bố hoàn thành.
-- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote: chỉ nhận hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥90, seo ≥90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure). Từ chối mọi trạng thái khác, tự chốt ngày thật vào URL, cập nhật checkpoint.
+- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote v3: chỉ nhận hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥90, seo ≥90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure, `content_sha256` khớp SHA-256 draft hiện tại, `matrix_row_sha256` khớp vân tay hàng). Đổi nội dung sau QA → STALE_QA_EVIDENCE; đổi hàng matrix → MATRIX_ROW_MISMATCH. Gate tự GIỮ writer lock (sentinel O_EXCL `data/state/writer-lock.active`), mở transaction, promote, APPEND transaction history (không reset), nhả lock.
 
 ## 5. Tiêu chí xuất bản (gate)
 
@@ -90,3 +91,20 @@ Rollback: không force push. Revert commit qua commit mới; khôi phục report
 ## 9. Bàn giao mỗi lần chạy
 
 Bắt buộc trong báo cáo cuối: MAIN HEAD (SHA), GitHub Pages run ID, BUILD/DEPLOY status, tệp thực sự thay đổi, các kiểm tra runtime đã làm (URL công khai, mobile ~390px, menu/footer/breadcrumb, calculator/chatbot), và trạng thái các mục BLOCKED. Không ghi Safari/iPhone khi chưa thật sự test trên đó.
+
+## 10. Ngữ nghĩa thời gian & năng lực (đợt hardening 2026-09-27)
+
+Ba mốc thời gian KHÔNG dùng lẫn:
+- `generated_at` (progress.json) = giờ chạy report thật — đổi mỗi lần chạy; KHÔNG yêu cầu byte-identical.
+- `data_through` = ngày bài mới nhất trong dữ liệu — chỉ đổi khi nội dung đổi.
+- `checkpoint.updated_at` = giờ state factory đổi vật lý gần nhất (publish/claim) — report generation KHÔNG nâng.
+Bằng chứng deterministic: `data_fingerprint`, `matrix_sha256`, `taxonomy_sha256`, `inventory_sha256` trong progress.json; CI đối chiếu vân tay thay vì byte.
+
+Ngữ nghĩa năng lực matrix (báo đúng, không đệm — `reports/factory/matrix-report.md`):
+HARD_CAPACITY 10.000 (trần kỹ thuật) | EDITORIAL_TARGET 6.570 (planned_target taxonomy) |
+CURRENT_VALID_ROWS 833 | CURRENT_SEEDED_ROWS 350 | RESERVED_CAPACITY 9.167 |
+MISSING_VALID_TOPIC_SPACE 6.223. Legacy 483 + EDITORIAL_TARGET 6.570 = 7.053 < 10.000:
+taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng; muốn tăng phải mở rộng seed bằng chủ đề thật. Đạt 10.000 không phải điều kiện hoàn thành.
+
+REVIEW legacy: phân tích bằng chứng từng cặp trong `reports/factory/review-pairs.md`
+(8 SAFE_DISTINCT, 1 cặp MERGE_CANDIDATE chờ chủ xe). Matrix giữ nguyên 10 hàng REVIEW, KHÔNG tự PASS.

@@ -1,0 +1,33 @@
+{% comment %}
+Link phân trang tĩnh — mọi trang là HTML thật, link crawlable, không JS.
+Vào (include params): base (đường dẫn gốc có / cuối, ví dụ /kinh-nghiem/),
+page_num (nil = trang gốc = trang 1), total_pages.
+Trang 1 = trang gốc; tệp phụ bắt đầu /trang/2/.
+{% endcomment %}
+{% assign pg_base = include.base %}
+{% assign pn = include.page_num | default: 1 %}
+{% assign pg_total = include.total_pages | default: 1 %}
+{% if pg_total > 1 %}
+{% assign prev_n = pn | minus: 1 %}
+{% assign next_n = pn | plus: 1 %}
+{% capture prev_url %}{{ pg_base }}trang/{{ prev_n }}/{% endcapture %}
+{% capture next_url %}{{ pg_base }}trang/{{ next_n }}/{% endcapture %}
+<nav class="pagination" aria-label="Phân trang">
+  {% if prev_n >= 2 %}
+  <a class="page-link" href="{{ prev_url | relative_url }}">Trang trước</a>
+  {% elsif pn == 2 %}
+  <a class="page-link" href="{{ pg_base | relative_url }}">Trang trước</a>
+  {% endif %}
+  {% for n in (1..pg_total) %}
+    {% capture n_url %}{{ pg_base }}trang/{{ n }}/{% endcapture %}
+    {% if n == 1 %}
+      {% if pn == 1 %}<span class="page-link" aria-current="page">1</span>
+      {% else %}<a class="page-link" href="{{ pg_base | relative_url }}">1</a>{% endif %}
+    {% elsif pn == n %}<span class="page-link" aria-current="page">{{ n }}</span>
+    {% else %}<a class="page-link" href="{{ n_url | relative_url }}">{{ n }}</a>{% endif %}
+  {% endfor %}
+  {% if next_n <= pg_total %}
+  <a class="page-link" href="{{ next_url | relative_url }}">Trang sau</a>
+  {% endif %}
+</nav>
+{% endif %}

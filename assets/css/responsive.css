@@ -986,3 +986,55 @@ align-items: center;
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
+
+/* ============================================================
+   ARTICLE BODY — responsive (375/390/430 -> 1440)
+   ============================================================ */
+@media (max-width: 767px) {
+  .article-body,
+  .article-toc,
+  .post-navigation,
+  .post-cta,
+  .article-related {
+    max-width: 100%;
+  }
+
+  .article-body {
+    font-size: 1rem;            /* 16px mobile */
+    line-height: 1.75;
+  }
+
+  .post-header h1 {
+    font-size: var(--font-size-xl);
+  }
+
+  .post-dek {
+    font-size: var(--font-size-sm);
+  }
+
+  .article-related .post-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (min-width: 768px) {
+  .article-body {
+    font-size: 1.0625rem;      /* 17px desktop */
+    line-height: 1.7;
+  }
+
+  .article-related .post-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (min-width: 1024px) {
+  .article-related .post-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Đảm bảo mọi phần tử prose không tràn ngang (bảng cuộn trong khung) */
+.article-body > * {
+  max-width: 100%;
+}

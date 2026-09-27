@@ -249,7 +249,30 @@ def main():
         by_child[r['child_id']] = by_child.get(r['child_id'], 0) + 1
     targets = {c['child_id']: c['planned_target'] for c in tax['children']}
 
+    # ---------------- ngữ nghĩa năng lực (capacity semantics) — KHÔNG đệm
+    HARD_CAPACITY = 10000          # trần kỹ thuật của factory (không đổi)
+    EDITORIAL_TARGET = sum(targets.values())  # chỉ tiêu chủ đề đã kiểm chứng trong taxonomy
+    current_valid = len(rows)  # mọi hàng hiện tại đều là ý định hợp lệ, không hàng đệm
+    current_seeded = sum(1 for r in rows if r['source'].startswith('planned:'))  # mọi hàng seed mới (PLANNED + PUBLISHED)
+    legacy_n = legacy_n_ = sum(1 for r in rows if r['source'].startswith('legacy:'))
+    reserved = HARD_CAPACITY - legacy_n - current_seeded  # chỗ còn lại cho chủ đề mới thật
+    gap = EDITORIAL_TARGET - current_seeded  # thiếu so với chỉ tiêu đã kiểm chứng
     lines = ['# Báo cáo matrix — TẠO MỚI (không phải khôi phục)', '',
+             '## Ngữ nghĩa năng lực (báo đúng, không đệm)', '',
+             '| Khái niệm | Giá trị | Ý nghĩa |', '|---|---|---|',
+             '| HARD_CAPACITY | %d | Trần kỹ thuật của factory, KHÔNG phải chỉ tiêu biên tập. |' % HARD_CAPACITY,
+             '| EDITORIAL_TARGET | %d | Tổng planned_target trong taxonomy — chỉ tiêu chủ đề đã kiểm chứng. |' % EDITORIAL_TARGET,
+             '| CURRENT_VALID_ROWS | %d | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |' % current_valid,
+             '| CURRENT_SEEDED_ROWS | %d | Hàng planned mới đã có ý định riêng. |' % current_seeded,
+             '| RESERVED_CAPACITY | %d | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |' % reserved,
+             '| MISSING_VALID_TOPIC_SPACE | %d | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |' % gap,
+             '',
+             'Lưu ý trung thực: %d (legacy) + %d (EDITORIAL_TARGET) = %d < HARD_CAPACITY %d. '
+             'Taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng. Muốn tăng phải mở rộng seed bằng chủ đề '
+             'thật (khác biệt ý định, không hoán đổi tên/từ). Đạt HARD_CAPACITY không phải điều kiện '
+             'hoàn thành của matrix; điều kiện là mọi hàng đều hợp lệ và chống trùng PASS.' % (
+                 legacy_n, EDITORIAL_TARGET, legacy_n + EDITORIAL_TARGET, HARD_CAPACITY),
+             '',
              MATRIX_CREATED_NOTE + '.', '',
              'Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.json` '
              '(cấu hình do người biên soạn) + taxonomy + inventory. Idempotent.', '',

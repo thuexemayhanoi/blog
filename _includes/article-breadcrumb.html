@@ -1,0 +1,55 @@
+{% comment %}
+Breadcrumb phân cấp taxonomy cho trang bài viết:
+Trang chủ -> Cẩm nang (/chu-de/) -> Parent -> Child -> Bài.
+Nguồn: page.parent_id / page.child_id (bài factory); bài legacy giải qua
+site.data.factory-map (theo slug) — KHÔNG đổi URL bài.
+JSON-LD BreadcrumbList khớp breadcrumb hiển thị.
+{% endcomment %}
+{% assign bc_parent_id = page.parent_id %}
+{% assign bc_child_id = page.child_id %}
+{% if bc_parent_id == nil or bc_child_id == nil %}
+  {% assign bc_map = site.data.factory-map[page.slug] %}
+  {% if bc_map %}
+    {% if bc_parent_id == nil %}{% assign bc_parent_id = bc_map.p %}{% endif %}
+    {% if bc_child_id == nil %}{% assign bc_child_id = bc_map.c %}{% endif %}
+  {% endif %}
+{% endif %}
+{% assign bc_parent = site.data.factory-parents[bc_parent_id] %}
+{% assign bc_child_node = site.data.factory-taxonomy[bc_child_id] %}
+{% capture bc_parent_url %}/{{ bc_parent.s }}/{% endcapture %}
+{% if bc_parent and bc_child_node %}
+  {% capture bc_child_url %}/{{ bc_parent.s }}/{{ bc_child_node.s }}/{% endcapture %}
+{% endif %}
+<nav class="breadcrumb" aria-label="Đường dẫn">
+  <ol>
+    <li>
+      <a href="{{ '/' | relative_url }}" aria-label="Trang chủ">
+        {% include icon.html name="home" size="16" class="breadcrumb-icon" %}
+        <span>Trang chủ</span>
+      </a>
+    </li>
+    <li><a href="{{ '/chu-de/' | relative_url }}">Cẩm nang</a></li>
+    {% if bc_parent %}
+    <li><a href="{{ bc_parent_url | relative_url }}">{{ bc_parent.t }}</a></li>
+    {% if bc_child_node %}
+    <li><a href="{{ bc_child_url | relative_url }}">{{ bc_child_node.t }}</a></li>
+    {% endif %}
+    {% endif %}
+    <li aria-current="page">{{ page.title | split: ' - ' | first }}</li>
+  </ol>
+</nav>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": {{ '/' | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 2, "name": "Cẩm nang", "item": {{ '/chu-de/' | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 3, "name": {{ bc_parent.t | jsonify }}, "item": {{ bc_parent_url | absolute_url | jsonify }}},
+    {% if bc_child_node %}{"@type": "ListItem", "position": 4, "name": {{ bc_child_node.t | jsonify }}, "item": {{ bc_child_url | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 5, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+    {% else %}{"@type": "ListItem", "position": 4, "name": {{ page.title | jsonify }}, "item": {{ page.url | absolute_url | jsonify }}}
+    {% endif %}
+  ]
+}
+</script>

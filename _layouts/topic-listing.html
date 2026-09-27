@@ -1,0 +1,50 @@
+---
+layout: default
+---
+{% comment %}
+Trang danh sách phân trang theo CHỦ ĐỀ CON (sinh bởi
+scripts/factory/generate-listing-pages.py trong _listing/topic/.../<n>.md).
+Lọc bài qua child_id (frontmatter hoặc factory-map), 24 bài/trang, không JS.
+{% endcomment %}
+{% assign tl_parent = site.data.factory-parents[page.parent_id] %}
+{% assign tl_child = site.data.factory-taxonomy[page.child_id] %}
+<section class="section page-section">
+  <div class="container">
+    <nav class="breadcrumb" aria-label="Đường dẫn">
+      <ol>
+        <li><a href="{{ '/' | relative_url }}">Trang chủ</a></li>
+        <li><a href="{{ '/chu-de/' | relative_url }}">Cẩm nang</a></li>
+        {% capture tl_hub %}/{{ tl_parent.s }}/{{ tl_child.s }}/{% endcapture %}
+        <li><a href="{{ tl_hub | relative_url }}">{{ tl_child.t }}</a></li>
+        <li aria-current="page">Trang {{ page.page_num }}</li>
+      </ol>
+    </nav>
+    <h1>{{ tl_child.t | default: page.title | split: ' - ' | first }}</h1>
+    <p class="page-description">Trang {{ page.page_num }} / {{ page.total_pages }}.</p>
+    {% assign offset = page.page_num | minus: 1 | times: page.page_size %}
+    {% assign limit_to = offset | plus: page.page_size %}
+    <div class="post-grid">
+      {% assign shown = 0 %}
+      {% for post in site.posts %}
+        {% assign p_child = post.child_id %}
+        {% if p_child == nil %}
+          {% assign m = site.data.factory-map[post.slug] %}
+          {% if m %}{% assign p_child = m.c %}{% endif %}
+        {% endif %}
+        {% if p_child == page.child_id %}
+          {% if shown >= offset and shown < limit_to %}
+          <article class="post-card glass-card">
+            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+            <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
+            <p>{{ post.excerpt | strip_html | truncatewords: 25 }}</p>
+            <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
+          </article>
+          {% endif %}
+          {% assign shown = shown | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    </div>
+    {% capture pg_base %}/{{ tl_parent.s }}/{{ tl_child.s }}/{% endcapture %}
+    {% include pagination-nav.html base=pg_base page_num=page.page_num total_pages=page.total_pages %}
+  </div>
+</section>

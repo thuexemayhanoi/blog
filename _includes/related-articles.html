@@ -1,0 +1,53 @@
+{% comment %}
+Bài viết liên quan — chọn theo ngữ cảnh, KHÔNG ngẫu nhiên:
+1) cùng child_id (frontmatter hoặc factory-map), 2) cùng parent_id,
+3) cùng danh mục Jekyll. Tối đa 4 bài, không tự link. Thẻ chỉ chữ.
+{% endcomment %}
+{% assign rel_parent_id = include.parent_id %}
+{% assign rel_child_id = include.child_id %}
+{% assign rel_cat = include.category %}
+{% assign rel_same_child = '' | split: '' %}
+{% assign rel_same_parent = '' | split: '' %}
+{% assign rel_same_cat = '' | split: '' %}
+{% for post in site.posts %}
+  {% if post.url == page.url %}{% continue %}{% endif %}
+  {% assign p_parent = post.parent_id %}
+  {% assign p_child = post.child_id %}
+  {% if p_parent == nil or p_child == nil %}
+    {% assign m = site.data.factory-map[post.slug] %}
+    {% if m %}
+      {% if p_parent == nil %}{% assign p_parent = m.p %}{% endif %}
+      {% if p_child == nil %}{% assign p_child = m.c %}{% endif %}
+    {% endif %}
+  {% endif %}
+  {% if p_child == rel_child_id and rel_same_child.size < 4 %}
+    {% assign rel_same_child = rel_same_child | push: post %}
+  {% elsif p_parent == rel_parent_id and rel_same_parent.size < 4 %}
+    {% assign rel_same_parent = rel_same_parent | push: post %}
+  {% elsif rel_cat and post.categories contains rel_cat and rel_same_cat.size < 4 %}
+    {% assign rel_same_cat = rel_same_cat | push: post %}
+  {% endif %}
+{% endfor %}
+{% assign related = rel_same_child %}
+{% assign maxp = 4 | minus: related.size %}
+{% for post in rel_same_parent limit: maxp %}
+  {% assign related = related | push: post %}
+{% endfor %}
+{% assign maxc = 4 | minus: related.size %}
+{% for post in rel_same_cat limit: maxc %}
+  {% assign related = related | push: post %}
+{% endfor %}
+{% if related.size > 0 %}
+<section class="article-related" aria-labelledby="related-heading">
+  <h2 id="related-heading">Bài viết liên quan</h2>
+  <div class="post-grid">
+    {% for post in related limit: 4 %}
+    <article class="post-card">
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
+      <p>{{ post.excerpt | strip_html | truncatewords: 20 }}</p>
+    </article>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
