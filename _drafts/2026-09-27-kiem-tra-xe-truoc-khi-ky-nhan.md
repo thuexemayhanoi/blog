@@ -25,7 +25,8 @@ Ba lý do khiến người thuê thường lướt qua bước này: vội vì x
 
 Bắt đầu bằng việc đứng cách xe vài bước để nhìn tổng thể. Những điểm cần dừng lại:
 
-- Đầu xe và cản: vết nứt, ố mép, đèn trước còn nguyên hay đã mờ.
+- Đầu xe và cản: vết nứt, ố mép, đèn trước c
+òn nguyên hay đã mờ.
 - Thân xe hai bên: lần tìm vết xước, móp nhỏ, đặc biệt gần điểm thường bị dựng xe sát tường.
 - Đuôi xe: đèn hậu, biển số thẳng hay cong, baga có chắc không.
 - Bánh xe: vỏ còn gai hay đã mòn bằng, thành lốp có vết cắt, vàm thẳng hay lệch.
@@ -47,7 +48,8 @@ Nhún xe: đè mạnh xuống yên rồi buông ra, xe nảy lên xuống tối 
 
 ## Chạy thử quanh một vòng ngắn
 
-Chỉ kiểm tra tĩnh là chưa đủ, vì nhiều lỗi chỉ lộ ra khi xe lăn bánh. Nếu cửa hàng cho phép, chạy một vòng ngắn trong khuôn viên hoặc con phố vắng cạnh cửa hàng. Trong vòng chạy thử, chú ý: tay lái có bị lệch hay kéo về một bên, phanh có kêu rít, xích có lật cật, và máy có giữ được vòng tua ổn ở tốc độ chậm. Nếu cửa hàng ở khu Long Biên, Bồ Đề, nhiều ngõ quanh đó đủ vắng để chạy thử an toàn mà không phải ra đường lớn.
+Chỉ kiểm tra tĩnh là chưa đủ, vì nhiều lỗi chỉ lộ ra khi xe lăn bánh. Nếu cửa hàng cho phép, chạy một vòn
+g ngắn trong khuôn viên hoặc con phố vắng cạnh cửa hàng. Trong vòng chạy thử, chú ý: tay lái có bị lệch hay kéo về một bên, phanh có kêu rít, xích có lật cật, và máy có giữ được vòng tua ổn ở tốc độ chậm. Nếu cửa hàng ở khu Long Biên, Bồ Đề, nhiều ngõ quanh đó đủ vắng để chạy thử an toàn mà không phải ra đường lớn.
 
 Lỗi phát hiện trong lúc chạy thử vẫn chưa thuộc về bạn, miễn là chưa ký. Đó chính là lý do trình tự đúng phải là: soi tĩnh, chạy thử, rồi mới ký. Đổi lại nếu mọi thứ ổn, bạn ký nhận với tâm thế rõ ràng về tình trạng xe.
 
@@ -55,6 +57,6 @@ Lỗi phát hiện trong lúc chạy thử vẫn chưa thuộc về bạn, miễ
 
 Biên nhận ghi nhận kiểm tra cần có ít nhất: ngày giờ nhận, biển số, các vết hư sẵn có liệt kê cụ thể, mức xăng hiện có, và hai bên xác nhận. Chụp ảnh xe từ nhiều góc: đầu, đuôi, hai hông, cốp, đồng hồ, và riêng cận cảnh từng vết hư. Gửi bộ ảnh cho chủ cửa hàng qua tin nhắn luôn tại chỗ, để bản ghi có thời gian và không thể tranh cãi về sau.
 
-Nhiều người nghĩ bước này quá cẩn thận, cho đến lúc trả xe. Nếu bạn tò mò chuyện gì xảy ra sau khi mình đã yên tâm chạy xe đi khắp Hà Nội, đọc thêm bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia%20se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/) để biết những tình huống giữa kỳ thuê nào cần báo ngay. Ai thích đối chiếu theo danh sách tổng hợp hơn thì xem bài [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh%20nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/). Quy trình nhận và trả chuẩn của bên cho thuê được mô tả tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), còn bối cảnh chung của việc thuê xe máy ở Hà Nội nằm trong cẩm nang [thuê xe máy](/blog/thue-xe/).
+Nhiều người nghĩ bước này quá cẩn thận, cho đến lúc trả xe. Nếu bạn tò mò chuyện gì xảy ra sau khi mình đã yên tâm chạy xe đi khắp Hà Nội, xem thêm phần [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) để biết những tình huống giữa kỳ thuê nào cần báo ngay. Ai thích đối chiếu theo danh sách tổng hợp hơn thì xem phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/). Quy trình nhận và trả chuẩn của bên cho thuê được mô tả tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), còn bối cảnh chung của việc thuê xe máy ở Hà Nội nằm trong cẩm nang [thuê xe máy](/blog/thue-xe/).
 
 Kiểm tra kỹ năm phút đầu luôn rẻ hơn tranh cãi một giờ cuối kỳ. Sau khi đã ký, mọi thứ bạn chưa kịp ghi sẽ trở thành phần rủi ro của chính bạn.
