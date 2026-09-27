@@ -1,6 +1,6 @@
 {
-  "article_id": "BLG-00575",
-  "title": "Thuê xe 50cc khi chưa có bằng: lưu ý pháp lý",
+  "article_id": "BLG-00581",
+  "title": "Thuê xe điện trong nội đô Hà Nội: những điều cần biết",
   "scored_at": "2026-09-27T22:20:12+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
@@ -29,8 +29,8 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1093,
-  "word_target": 1200,
+  "word_count": 1165,
+  "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
@@ -40,8 +40,8 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly.md",
-  "content_sha256": "2dbbcea684ce02784b67ea3d22abb4cc48fb28b6cc1f89c5beca984e4236761b",
-  "matrix_row_sha256": "5f6c993682390a2b7809e24e2c093f560c23fa2bc48a57ff1c3e8b4c35b677cc",
+  "source_path": "_drafts/2026-09-27-thue-xe-ien-trong-noi-o-ha-noi-nhung-ieu-can-biet.md",
+  "content_sha256": "b10fb9afbc7b3595669e40c0db3d8c712d2f7108ef4df0dfae3f60e6a80654c7",
+  "matrix_row_sha256": "3541f418265d4520f53a819eb47377128b491dae716e0882462cdbda1b51f301",
   "result": "PASS"
 }

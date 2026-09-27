@@ -1,7 +1,7 @@
 {
-  "article_id": "BLG-00575",
-  "title": "Thuê xe 50cc khi chưa có bằng: lưu ý pháp lý",
-  "scored_at": "2026-09-27T22:20:12+00:00",
+  "article_id": "BLG-00582",
+  "title": "Xe đạp điện khác gì xe máy điện",
+  "scored_at": "2026-09-27T22:20:13+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1093,
+  "word_count": 1042,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -40,8 +40,8 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly.md",
-  "content_sha256": "2dbbcea684ce02784b67ea3d22abb4cc48fb28b6cc1f89c5beca984e4236761b",
-  "matrix_row_sha256": "5f6c993682390a2b7809e24e2c093f560c23fa2bc48a57ff1c3e8b4c35b677cc",
+  "source_path": "_drafts/2026-09-27-xe-ap-ien-khac-gi-xe-may-ien.md",
+  "content_sha256": "c1dd409c01567d4e8cd380160b595e056316c1d42a2d03fd5ffd04a42e13d842",
+  "matrix_row_sha256": "1fc47365edb1c3532d6f23b465ee0013d436c6f8efd307f3677c2eb1083826e6",
   "result": "PASS"
 }

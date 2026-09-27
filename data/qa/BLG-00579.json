@@ -1,6 +1,6 @@
 {
-  "article_id": "BLG-00575",
-  "title": "Thuê xe 50cc khi chưa có bằng: lưu ý pháp lý",
+  "article_id": "BLG-00579",
+  "title": "Xe máy điện với xe xăng: chọn nào khi thuê",
   "scored_at": "2026-09-27T22:20:12+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1093,
+  "word_count": 1042,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -40,8 +40,8 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly.md",
-  "content_sha256": "2dbbcea684ce02784b67ea3d22abb4cc48fb28b6cc1f89c5beca984e4236761b",
-  "matrix_row_sha256": "5f6c993682390a2b7809e24e2c093f560c23fa2bc48a57ff1c3e8b4c35b677cc",
+  "source_path": "_drafts/2026-09-27-xe-may-ien-voi-xe-xang-chon-nao-khi-thue.md",
+  "content_sha256": "85114071fe4fed7c869332ae7be072bb8bb93fb31fe2159a791404ddf2bc0785",
+  "matrix_row_sha256": "82c9509e551db5bfc4c590224c625df9f4a89ee3e40b44ab7b192eb12d826b48",
   "result": "PASS"
 }
