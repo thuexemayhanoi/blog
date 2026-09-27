@@ -19,9 +19,9 @@ Câu hỏi thuê honda vision hợp với ai không chỉ là chuyện xe đẹp
 
 Vision là xe ga không số: chỉ cần vặn ga là đi, không tay côn, không chân số, nên trước hết nó hợp với người muốn thao tác đơn giản. Yên xe thấp và hẹp vừa vặn, hai chân người có vóc dáng trung bình đặt xuống đất dễ dàng khi dừng đèn đỏ. Trọng lượng nhẹ thuộc nhóm thấp nhất của xe ga, giúp xe lắt léo trong ngõ và nhẹ công đẩy khi cần. Cốp dưới yên rộng so với thân xe, đủ cho mũ bảo hiểm nửa đầu và vài món đồ cá nhân. Ba đặc tính đó gộp lại tạo nên một dòng xe ga dễ dùng cho phố, và các bài khác về dòng này nằm ở [chủ đề Honda Vision](/blog/xe-may/honda-vision/).
 
-Điểm cần cân nhắc nằm ở cấu trúc xe ga: bộ truyền vô cấp tiêu thụ thêm một phần năng lượng nên Vision xăng hơn xe số cùng phân khối, và nếu bạn đi quãng đường rất dài hằng ngày, khác biệt chi phí xăng sẽ cộng dồn. Xe ga cũng đòi hỏi bảo dưỡng dây curoa định kỳ, khoản mà xe số không có. Đây không phải nhược điểm nghiêm trọng, chỉ là điều kiện của dòng xe ga mà người thuê nên biết trước.
+Điểm cần cân nhắc nằm ở cấu trúc xe ga: bộ truyền vô cấp tiêu thụ thêm một phần năng lượng nên Vision xăng hơn xe số cùng phân khối, và nếu bạn đi quãng đường rất dài hằng ngày, khác biệt chi phí xăng sẽ cộng dồn. Xe ga cũng đòi hỏi bảo dưỡng dây curoa định kỳ, khoản mà xe số không có. Đây không phải nhược điểm nghiêm trọng, chỉ là điều kiện của dòng xe ga mà người thuê nên biết trước khi quyết định chọn dòng nào cho kỷ thuê của mình.
 
-## Vision hợp ai: từng nhóm nhu cầu cụ thể
+## Thuê honda vision hợp ai: từng nhóm nhu cầu cụ thể
 
 Nhóm hợp nhất là người đi phố hằng ngày với quãng đường vừa: nhân viên văn phòng từ Hà Đông, Cầu Giấy vào trung tâm, người bán hàng chạy nhiều điểm trong nội thành, người đi học thêm từng buổi. Với nhịp dừng đèn đỏ dày đặc của Hà Nội, không phải thao tác côn số giúp tay chân đỡ mỏi rõ rệt. Nhóm thứ hai là nữ giới ưa xe nhẹ dễ đẩy, yên vừa độ cao: Vision gần như là lựa chọn tiêu biểu cho nhóm này. Nhóm thứ ba là người mới tập đi xe máy: xe ga nói chung và Vision nói riêng có thao tác đơn giản nhất để làm quen.
 
