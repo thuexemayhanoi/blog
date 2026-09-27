@@ -58,7 +58,7 @@ jobs:
             fs.appendFileSync(process.env.GITHUB_ENV, "IDS=" + (cmd.ids || "") + "\n");
             fs.appendFileSync(process.env.GITHUB_ENV, "COUNT=" + (cmd.count || "") + "\n");
           '
-          echo "operator op=$OP ids=$IDS count=$COUNT"
+          echo "operator command accepted (op/ids/count export cho cac step sau)"
 
       - name: Preflight - engine invariant (khong bao gio bypass)
         run: python3 scripts/factory/validate.py
