@@ -37,7 +37,7 @@ Với hàng `source_required = true` (toàn bộ parent `an-toan-phap-ly` và c�
 - Tiêu đề giữ nguyên `title` trong ma trận (chỉ cho phép thêm dấu câu nhẹ, không đổi ý).
 - `primary_keyword` và `secondary_keywords` dùng đúng như manifest; không nhồi từ khóa.
 - Meta description 140–160 ký tự, chứa primary keyword tự nhiên.
-- Liên kết nội bộ: child hub → parent hub → 2–4 bài liên quan; liên kết thương mại (`/bang-gia/`, `/lien-he/`) chỉ khi có ngữ cảnh. Không link wheel, không anchor text khớp chính xác hàng loạt.
+- Liên kết nội bộ: theo canonical docs/INTERNAL-LINKING.md (child hub → parent hub → bài liên quan; chọn link trong lúc viết bài). Liên kết thương mại (`/bang-gia/`, `/lien-he/`) chỉ khi có ngữ cảnh. Không link wheel, không anchor text khớp chính xác hàng loạt.
 - Canonical: `canonical_url` trong ma trận. Không tạo URL trùng.
 
 ## Chất lượng (ngưỡng xuất bản 90/100)

@@ -5,9 +5,13 @@ thich ngon ngu nang luc va rang buoc khi scale len 10.000.
 
 ## 1. Ngon ngu trung thuc ve nang luc (BAT BUOC)
 
-- NOI DUNG: "Factory hard capacity: 10.000; Editorial
-  capacity allocated: 10.000; Materialized validated topics:
-  942; Published: 3."
+- NOI DUNG mau (doc so lieu tai moi lan noi): "Factory hard
+  capacity: 10.000; Editorial capacity allocated: 10.000;
+  Materialized validated topics: <doc tu
+  reports/factory/matrix-report.md>; Published: <doc tu
+  reports/factory/matrix-report.md>." KHONG hardcode so dong vao
+  tai lieu tinh; doc dong nay la vi du mau, con so thuc luon doc
+  tu bao cao sinh tu dong.
 - CAM noi: "10.000 article matrix complete" hoac bat ky cau nao
   ngam 10.000 chu de da ton tai. 9.058 con lai la
   UNMATERIALIZED CAPACITY, khong phai "missing rows".
@@ -57,8 +61,12 @@ thich ngon ngu nang luc va rang buoc khi scale len 10.000.
 
 ## 6. Lien ket va SEO
 
-- 3-5 lien ket ngu canh moi bai: child hub -> parent hub ->
-  bai cung cum. Breadcrumb/TOC/related/footer khong tinh.
+- Lien ket noi bo theo canonical: docs/INTERNAL-LINKING.md
+  (3-5 lien ket ngu canh moi bai: child hub -> parent hub ->
+  bai cung cum; thuc hien TRONG luc viet bai). Breadcrumb/TOC/
+  related/footer khong tinh.
+- Nghien cuu nguon khi viet: docs/SOURCE-RESEARCH.md
+  (3 lop: tinh / hien tai dia diem / phap ly).
 - Khong do 10.000 link vao menu/footer; dieu huong cong khai
   theo hub + phan trang (xem factory-workflow-contract.md
   muc 10).

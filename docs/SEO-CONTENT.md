@@ -9,9 +9,9 @@ Nguồn chuẩn: manifest hàng (khi có matrix), taxonomy (`data/content-taxono
 - Intent: mỗi bài đúng MỘT intent (informational/commercial) theo child hub; không viết bài trùm chặn hub.
 - Title: giữ ý manifest; H2/H3 theo cấu trúc trả lời intent; một H1 duy nhất do layout render.
 - Description: 140–160 ký tự, có primary keyword tự nhiên.
-- Internal links: bài → child hub → parent hub → 2–4 bài liên quan; link thương mại (`/bang-gia/`, `/lien-he/`) chỉ khi có ngữ cảnh; mọi link nội bộ qua `relative_url`, không hardcode `/blog` hai lần.
+- Internal links: theo canonical docs/INTERNAL-LINKING.md (bài → child hub → parent hub → bài liên quan; chọn trong lúc viết bài); link thương mại chỉ khi có ngữ cảnh; mọi link nội bộ qua `relative_url`, không hardcode `/blog` hai lần.
 - Cannibalization: đối chiếu tiêu đề chuẩn hóa + primary keyword + intent với bài đã xuất bản trong cùng child trước khi xuất bản; trùng mạnh → REVIEW. 10 cặp legacy REVIEW hiện đang chờ đọc nội dung (BLOCKED cho tự động hóa, danh sách trong `docs/SEO-OWNERSHIP.md`).
-- Tác giả và nguồn: author "Nguyễn Tú"; claim pháp lý phải có nguồn chính thức (xem `docs/ARTICLE-RULES.md`); không bịa trích dẫn khách hàng.
+- Tác giả và nguồn: author "Nguyễn Tú"; claim pháp lý phải có nguồn chính thức (lớp nghiên cứu theo `docs/SOURCE-RESEARCH.md`, quy tắc bài viết: `docs/ARTICLE-RULES.md`); không bịa trích dẫn khách hàng.
 
 ## Kiểm tra trước xuất bản
 

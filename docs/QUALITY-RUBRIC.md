@@ -21,7 +21,7 @@ Tổng < 90 → REPAIR, giữ `_drafts/`. Critical failure (bịa dữ liệu ki
 | Title đúng intent, không đổi ý so với manifest, ≤ 60 ký tự hiển thị hợp lý | 20 | Title render |
 | Meta description 140–160 ký tự, chứa primary keyword tự nhiên | 15 | Meta render |
 | Heading H2/H3 phủ intent + từ khóa phụ tự nhiên, không nhồi | 20 | Outline |
-| Liên kết nội bộ: child hub → parent hub → 2–4 bài liên quan; thương mại chỉ khi có ngữ cảnh | 15 | Danh sách link render + đích 200 |
+| Liên kết nội bộ theo canonical docs/INTERNAL-LINKING.md (child hub → parent hub → bài liên quan; thương mại chỉ khi có ngữ cảnh) | 15 | Danh sách link render + đích 200 |
 | Không cannibalization: tiêu đề chuẩn hóa + intent không trùng bài đã xuất bản cùng child | 20 | Kết quả đối chiếu + `cannibalization_key` (khi có matrix) |
 | URL/canonical đúng taxonomy, một H1, hình có alt khi có | 10 | Render + sitemap |
 

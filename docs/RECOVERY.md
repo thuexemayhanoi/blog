@@ -14,7 +14,11 @@
 
 ## Lock treo (`locked: true` nhưng chủ không hoạt động)
 
-- Kiểm tra `expires_at` đã quá hạn và không có commit mới của chủ lock → ghi đè lock với `holder` mới, ghi rõ lý do vào `note` + thời điểm.
+Lock dùng sentinel `data/state/writer-lock.active` (O_CREAT|O_EXCL) + ownership token UUID (xem docs/ENGINE-RUNBOOK.md). Không bao giờ force-unlock ownership không rõ ràng.
+
+- Nếu có chủ lock rõ ràng (holder, token, started_at): liên hệ chủ lock trước; chỉ can thiệp khi `expires_at` đã quá hạn, chủ không còn commit/hoạt động, và có bằng chứng.
+- Ghi đè lock chỉ khi sentinel không tồn tại nhưng `writer-lock.json` còn `locked: true` mồ côi (crash giữa acquire): đặt metadata về unlocked nhất quán, ghi rõ lý do + thời điểm vào `note`.
+- Không xóa sentinel còn sống của writer khác; không gọi release với token không phải của mình (release là no-op an toàn khi token lệch).
 
 ## Chunk dở
 
@@ -26,7 +30,21 @@
 
 ## Sai số ma trận
 
-Chạy `python3 scripts/factory/validate.py` (từ gốc repository). Nếu ma trận thiếu/hỏng: KHÔNG tự sinh lại toàn bộ; khôi phục từ lịch sử git commit gần nhất còn hợp lệ. Hiện ma trận BLOCKED (chưa từng được commit): xem `reports/factory/matrix-recovery-blocked.md`, không tạo matrix mới rồi gọi là khôi phục.
+Chạy `python3 scripts/factory/validate.py` (từ gốc repository). Nếu ma trận thiếu/hỏng: KHÔNG tự sinh lại toàn bộ; khôi phục từ lịch sử git commit gần nhất còn hợp lệ. Ma trận đã được commit và có chủ sở hữu: mọi chỉnh sửa theo hợp đồng trong docs/factory-workflow-contract.md; nếu ma trận từng được đánh dấu BLOCKED, xem `reports/factory/matrix-recovery-blocked.md` và không tự tạo matrix mới rồi gọi là khôi phục.
+
+## Hợp đồng resume (tiếp tục một factory duy nhất)
+
+Mọi lần chạy — dù bởi agent hay scheduler trong tương lai — đều chỉ là một lần tiếp tục của MỘT factory tồn tại dai dẳng. Không khởi động lại từ đầu.
+
+Nếu lỗi xảy ra tại bài thứ N (ví dụ bài 2.437): không quay lại bài 1. Thứ tự xử lý lỗi:
+
+```
+RECOVER -> RESUME -> REPAIR -> VERIFY -> NEW WORK
+```
+
+- Phục hồi transaction/lock an toàn theo các mục trên.
+- Đọc checkpoint, resume đúng item/chunk dang dở.
+- Không bỏ qua transaction hỏng để giữ throughput; không nhận chunk mới khi còn transaction treo.
 
 ## Bài đã push nhưng Pages build lỗi
 

@@ -1,122 +1,99 @@
-# AGENTS.md — hợp đồng vận hành cho agent làm việc trong thuexemayhanoi/blog
+# AGENTS.md — hợp đồng bắt buộc cho agent tự trị trong thuexemayhanoi/blog
 
 Kho: `thuexemayhanoi/blog` · Nhánh: `main` · Site: https://thuexemayhanoi.github.io/blog/ · Base URL: `/blog` · Ngôn ngữ công khai: chỉ tiếng Việt.
 
-## 1. Thứ tự đọc bắt buộc mỗi lần chạy
+Mọi agent tự trị (AI, scheduler tương lai, operator) PHẢI đọc file này trước. Vi phạm hợp đồng này là lỗi vận hành, không phải tối ưu.
 
-1. `AGENTS.md` (file này)
-2. `README.md`
-3. `docs/CONTENT-FACTORY.md` — quy trình vận hành factory, gate xuất bản
-4. `docs/TAXONOMY.md` — kiến trúc chủ đề 7 cha / 51 con
-5. `docs/ARTICLE-RULES.md` — quy tắc viết bài
-6. `data/content-taxonomy.json` — taxonomy máy đọc được
-7. `data/content-inventory.csv` — kiểm kê 483 bài legacy
-8. `data/business-facts.json` — nguồn chuẩn dữ liệu kinh doanh
-9. `reports/factory/policy-conflicts.md` — xung đột chính sách đang BLOCKED
-10. `reports/factory/progress.json` → `data/state/checkpoint.json`
-11. `data/state/transaction.json` → `data/state/writer-lock.json`
-12. `reports/factory/matrix-recovery-blocked.md` — lịch sử matrix: đã giải quyết bằng TẠO MỚI được chủ xe duyệt
-13. `docs/RECOVERY.md` — phục hồi sự cố; `docs/SEO-*.md` khi làm SEO
+## 1. Thứ bậc nguồn chân lý (authority hierarchy)
 
-Nguồn dữ liệu chuẩn (source of truth), theo thứ tự ưu tiên:
-- Dữ liệu kinh doanh: `_data/business.yml`, `_data/pricing.yml` → kết xuất `data/business-facts.json`.
-- Taxonomy: `data/state/taxonomy-config.json` (seed, không chỉnh sửa) → `data/content-taxonomy.json` (khôi phục từ seed).
-- Ánh xạ bài legacy: `data/state/existing-map.json` → `data/content-inventory.csv`.
-- Ma trận nội dung: ĐÃ ĐƯỢC CHỦ XE DUYỆT TẠO MỚI (2026-09-27, KHÔNG PHẢI KHÔI PHỤC NGUYÊN BẢN): 833 hàng = 473 EXISTING + 10 REVIEW + 350 planned ban đầu (3 đã PUBLISHED). Chênh 6.220 hàng so với tổng planned_target 6.570 trong seed taxonomy: BÁO THIẾU, không đệm hàng rỗng. Sinh lại bằng `scripts/factory/generate-matrix.py` (idempotent, giữ trạng thái runtime).
+Khi các nguồn mâu thuẫn, tin theo thứ tự ưu tiên giảm dần:
 
-## 2. Phạm vi: CHỈ repo blog này
+1. Repository/runtime truth (git HEAD, dữ liệu thật tại thời điểm chạy).
+2. `data/state/*` (checkpoint, transaction, writer-lock) — trạng thái factory duy nhất.
+3. Report sinh bằng máy: `reports/factory/progress.json`, `matrix-report.md`, `latest.md`.
+4. Hợp đồng/tài liệu chuẩn: `AGENTS.md`, `docs/*` (mỗi mối quan tâm một chủ sở hữu — bảng trong README.md).
+5. Report lịch sử (báo cáo chạy cũ).
+6. Trí nhớ hội thoại (conversation memory) — KHÔNG BAO GIỜ là nguồn chân lý.
 
-- Blog và shop là hai bên kinh doanh khác nhau trong gia đình. KHÔNG đồng bộ dữ liệu từ `thuexemayhanoi/shop` (hoặc website /shop). Khác biệt dữ liệu giữa blog và shop KHÔNG phải lỗi.
-- Dữ liệu kinh doanh hiện tại của /blog (điện thoại 0942 467 674, 112 Nguyễn Văn Cừ Bồ Đề Long Biên Hà Nội, giờ 09:00–21:00, bảng giá `_data/pricing.yml`, chính sách) được GIỮ NGUYÊN.
-- Nếu dữ liệu bên trong chính /blog mâu thuẫn với nhau: ghi rõ từng nguồn trong `reports/factory/policy-conflicts.md`, đánh dấu BLOCKED, KHÔNG tự chọn nguồn, KHÔNG bịa chính sách. Chỉ chủ xe quyết định.
+Tuyến chiến:
+- Dữ liệu kinh doanh: `_data/business.yml`, `_data/pricing.yml` → kết xuất `data/business-facts.json`. Chỉ những file này là chuẩn giá/giờ/địa chỉ/chính sách.
+- Trạng thái factory: checkpoint + transaction + ownership-safe writer lock là chuẩn. Số liệu runtime (hàng matrix, PLANNED, PUBLISHED...) KHÔNG tin từ prose docs — đọc `data/state/checkpoint.json`, `reports/factory/matrix-report.md`, `reports/factory/progress.json`.
 
-## 3. Lấy trạng thái, lock, transaction, checkpoint
+## 2. Vòng đời bắt buộc mỗi lần chạy
 
-Thứ tự đọc khi bắt đầu: `data/state/transaction.json` → `data/state/checkpoint.json` → `data/state/writer-lock.json` → `reports/factory/progress.json`.
+```
+RECOVER (hòa giải transaction/lock treo nếu có)
+→ READ CURRENT STATE (checkpoint, matrix, queue)
+→ RESEARCH WHEN REQUIRED (theo docs/SOURCE-RESEARCH.md: lớp B/C bắt buộc tra cứu)
+→ RESUME EXISTING WORK (chunk dở trước khi nhận việc mới)
+→ CLAIM SAFE CHUNK (3–5, tối đa 10; theo next_claimable_id)
+→ PLAN INTERNAL LINKS (theo docs/INTERNAL-LINKING.md, TRƯỚC KHI viết)
+→ WRITE (trong _drafts/, KHÔNG đụng _posts/)
+→ FACT CHECK (business facts → data/business-facts.json)
+→ SOURCE VERIFY (legal/hiện hành → nguồn chính thức, docs/SOURCE-RESEARCH.md)
+→ QA (rubric docs/QUALITY-RUBRIC.md, bằng chứng hash)
+→ REPAIR (nếu < 90: sửa rồi chấm lại, không cộng bù)
+→ PUBLISH GATE (scripts/factory/publish-gate.py — cổng duy nhất vào _posts/)
+→ CHECKPOINT (cập nhật checkpoint/report)
+→ COMMIT → CI/PAGES VERIFY (Factory validate + Factory capacity validate + Pages đều SUCCESS + kiểm tra live)
+```
 
-Quy tắc:
-- Transaction `active: true` → recover/hoàn tất GIAO DỊCH ĐÓ trước, không nhận việc mới (xem `docs/RECOVERY.md`).
-- Writer-lock `locked: true` → không chạy writer thứ hai trên cùng bài/chunk. Lấy lock trước khi nhận chunk, nhả lock sau khi checkpoint an toàn.
-- Checkpoint là điểm resume duy nhất. KHÔNG restart factory, KHÔNG dựng lại ma trận từ đầu.
-- Không chạy hai writer trên cùng một bài bất kể hoàn cảnh.
+Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp diễn của MỘT factory duy nhất — không phải lần chạy mới. Lỗi ở bài 2.437 không quay lại bài 1: RECOVER → RESUME → REPAIR → VERIFY → NEW WORK (`docs/RECOVERY.md`).
 
-## 4. Lệnh kiểm tra bắt buộc (phải chạy thật, không khai báo)
+## 3. Quy tắc cứng (vi phạm = dừng)
 
-Từ gốc repository:
-- `python3 scripts/factory/restore-foundation.py` — khôi phục/sinh taxonomy, inventory, `_data/factory-*`. Idempotent: chạy hai lần cho kết quả giống hệt.
-- `python3 scripts/factory/generate-reports.py` — sinh report + checkpoint từ dữ liệu thật. Idempotent.
-- `python3 scripts/factory/validate.py` — mã 0 PASS, 1 FAIL, 2 BLOCKED (thiếu matrix).
-- `python3 scripts/factory/generate-listing-pages.py` — sinh trang phân hạng tĩnh (`_listing/`, 12 bài/trang danh mục, 24 bài/trang chủ đề) + `_data/listing-index.yml`. Idempotent; chạy lại và commit khi số bài đổi.
-- `python3 scripts/factory/manifest.py --id BLG-XXXXX` — sinh manifest một hàng (yêu cầu matrix).
-- `node scripts/validate-queue.js _queue` — CHỈ cho campaign cũ hanoi-seo-480 (tệp `NNN-slug.md`). "skipped" khi queue rỗng KHÔNG nghĩa là `_posts` PASS.
+- KHÔNG restart factory từ đầu; KHÔNG dựng lại matrix từ đầu.
+- KHÔNG tin số đếm stale trong prose docs — luôn đọc data/state + report sinh máy.
+- KHÔNG claim quá giới hạn chunk chuẩn (3–5, tối đa 10 bài/chunk).
+- KHÔNG chạy hai writer song song: lock sentinel `data/state/writer-lock.active` tạo bằng O_CREAT|O_EXCL, mỗi lần acquire sinh ownership token UUID (sentinel chứa token, `writer-lock.json` lưu cùng token); release chỉ thao khi token khớp — KHÔNG force-unlock lock của chủ khác/không rõ ownership (mức override duy nhất: `docs/RECOVERY.md` mục lock treo có bằng chứng quá hạn).
+- KHÔNG hạ ngưỡng QA (quality ≥ 90, seo ≥ 90, business_fact/legal PASS-FAIL).
+- KHÔNG bịa dữ liệu kinh doanh/pháp lý/địa phương — nguồn chuẩn: `data/business-facts.json`; pháp lý: nguồn chính thức theo `docs/SOURCE-RESEARCH.md`.
+- KHÔNG tự đổi trạng thái REVIEW/BLOCKED.
+- KHÔNG publish thẳng vào `_posts/` ngoài publish gate.
+- KHÔNG sinh bài đệm để tiến gần 10.000 — 10K là trần, không phải chỉ tiêu.
+- KHÔNG tuyên bố có scheduler khi chưa có — hiện CHƯA có scheduler factory; `publish-queue.yml` là campaign LEGACY đã tắt, không phải scheduler.
+- Không push file truncate; kiểm tra tính toàn vẹn trước push.
+- Không ghi PASS/VERIFIED khi chưa chạy thật; mục chưa kiểm tra ghi NOT VERIFIED.
 
-CI (`.github/workflows/factory-validate.yml`) chạy restore + reports + matrix idempotent + tests + build Jekyll + kiểm tra nháp không deploy + validate. Từ khi matrix được duyệt TẠO MỚI, CI phải XANH (validate exit 0). Không chỉ dựa vào Pages build success để tuyên bố hoàn thành.
-- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote v3: chỉ nhận hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥90, seo ≥90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure, `content_sha256` khớp SHA-256 draft hiện tại, `matrix_row_sha256` khớp vân tay hàng). Đổi nội dung sau QA → STALE_QA_EVIDENCE; đổi hàng matrix → MATRIX_ROW_MISMATCH. Gate tự GIỮ writer lock (sentinel O_EXCL `data/state/writer-lock.active`), mở transaction, promote, APPEND transaction history (không reset), nhả lock.
+## 4. Phạm vi: CHỈ repo blog này
 
-## 5. Tiêu chí xuất bản (gate)
+- Blog và `/shop` là hai bên kinh doanh khác nhau. KHÔNG đồng bộ dữ liệu từ `thuexemayhanoi/shop`; khác biệt dữ liệu giữa hai site KHÔNG phải lỗi.
+- Xung đột dữ liệu bên trong chính /blog: ghi từng nguồn vào `reports/factory/policy-conflicts.md`, đánh dấu BLOCKED, KHÔNG tự chọn nguồn, KHÔNG bịa chính sách. Chỉ chủ xe quyết định.
 
-Xuất bản một bài qua factory yêu cầu TẤT CẢ:
-- QUALITY ≥ 90/100 VÀ SEO ≥ 90/100 (rubric trong `docs/QUALITY-RUBRIC.md`; đây là điểm nội bộ, không phải điểm Google).
-- BUSINESS FACT PASS: mọi con số/khẳng định kinh doanh truy được về `data/business-facts.json`.
-- LEGAL PASS hoặc NOT REQUIRED (theo `source_required`/`legal_risk` của child trong taxonomy).
-- KHÔNG critical failure. Không hạ ngưỡng, không hạ gate để lấy PASS.
-- Kiểm tra tự động (validator, độ dài, từ khóa) KHÔNG thay thế đánh giá nội dung: chất lượng và tính đúng pháp lý phải do AI/người đọc xác nhận, có bằng chứng.
+## 5. Trạng thái, lock, transaction, checkpoint
 
-Vòng đời một bài: viết trong `_drafts/` (KHÔNG deploy) → kiểm tra nội dung/nguồn → chấm QUALITY + SEO → tối ưu an toàn → business facts → legal/source → chống trùng (cannibalization) → promote sang `_posts/` → build/deploy → kiểm tra live (URL thật, title/meta/canonical, sitemap).
+Đọc theo thứ tự: `data/state/transaction.json` → `data/state/checkpoint.json` → `data/state/writer-lock.json` → `reports/factory/progress.json`.
 
-## 6. Điều kiện dừng an toàn và rollback
+- Transaction `active: true` → recover/hoàn tất GIAO DỊCH ĐÓ trước (`docs/RECOVERY.md`).
+- Writer-lock `locked: true` hoặc sentinel tồn tại → KHÔNG chạy writer thứ hai. Lấy lock trước khi mutate, nhả lock trong finally có kiểm ownership token.
+- Checkpoint là điểm resume duy nhất (`next_claimable_id`, `last_completed_article_id`).
 
-Dừng ngay khi: transaction không thể hòa giải, conflict Git, CI đỏ không phải lý do đã biết, business fact/legal claim không kiểm chứng được, QA hỏng hệ thống. Hoàn tất bước an toàn hiện tại → cập nhật checkpoint/report → nhả lock (nếu an toàn) → chỉ push phần xanh.
+## 6. Lệnh kiểm tra bắt buộc (chạy thật, không khai báo — danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 
-Rollback: không force push. Revert commit qua commit mới; khôi phục report/checkpoint bằng cách chạy lại `generate-reports.py`; bài đã promote nhầm → đưa về `_drafts/` bằng commit revert. Chi tiết: `docs/RECOVERY.md`.
+- `python3 scripts/factory/validate.py` — 0 PASS / 1 FAIL / 2 BLOCKED.
+- `python3 scripts/factory/capacity-audit.py`, `queue.py --stats`, `refill-queue.py --verify` — audit read-only.
+- `python3 scripts/factory/generate-matrix.py` — tái sinh matrix idempotent, bảo toàn trạng thái runtime.
+- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote v3: hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥ 90, seo ≥ 90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure, `content_sha256` khớp draft, `matrix_row_sha256` khớp vân tay hàng). Gate tự giữ ownership-safe writer lock, mở transaction, promote, APPEND history, nhả lock.
+- CI: `factory-validate.yml` + `factory-capacity-validate.yml` (read-only, không bao giờ commit về main) + Pages. CI XANH + Pages deploy là điều kiện cần; kiểm tra runtime live là điều kiện đủ trước khi tuyên bố hoàn thành.
 
-## 7. Quy tắc cứng với nội dung hiện có
+## 7. Điều kiện xuất bản (gate)
 
-- KHÔNG viết lại bài EXISTING/PUBLISHED trừ khi có yêu cầu audit mới.
-- KHÔNG đổi URL legacy (`/blog/YYYY/MM/DD/slug/`), KHÔNG xóa, KHÔNG đổi tên tệp `_posts/`, KHÔNG noindex hàng loạt.
-- KHÔNG tự tăng lịch xuất bản, không bật lại campaign cũ, không tạo lịch trùng.
-- 483 bài legacy phải còn nguyên sau mỗi lần chạy (validator kiểm tra).
-- Bài mới: `_posts/` phẳng, tên `YYYY-MM-DD-slug.md`, permalink theo taxonomy, frontmatter đủ (xem `docs/ARTICLE-RULES.md`).
-- Không push file bị cắt (truncate): dùng checkout/blob đầy đủ, kiểm tra tính toàn vẹn trước push.
-- KHÔNG tuyên bố chạy nền/scheduler khi chưa có scheduler thật. Hiện KHÔNG có scheduler riêng cho factory; workflow `publish-queue.yml` chỉ thuộc campaign cũ (queue rỗng bài thì không xuất bản gì).
-- Không bịa: khuyến mại, phí giao xe cố định, số lượng khách, số năm kinh nghiệm, xếp hạng, cam kết, hỗ trợ 24/7, đánh giá khách hàng, review/rating trong schema, hứa thứ hạng.
-- Không ghi PASS/VERIFIED khi chưa chạy thật. Mục chưa kiểm tra ghi NOT VERIFIED; phần chưa triển khai ghi TODO/NOT IMPLEMENTED.
+Xuất bản một bài yêu cầu TẤT CẢ: QUALITY ≥ 90/100 VÀ SEO ≥ 90/100 (rubric `docs/QUALITY-RUBRIC.md` — điểm nội bộ, không phải điểm Google); BUSINESS FACT PASS (truy về `data/business-facts.json`); LEGAL PASS hoặc NOT_REQUIRED (theo `source_required`/`legal_risk`); KHÔNG critical failure. Kiểm tra tự động KHÔNG thay thế đánh giá nội dung bởi AI/người đọc có bằng chứng. Nội dung chạm khoảng đặt cọc/phí trễ/bảo hiểm đang BLOCKED: xem `reports/factory/policy-conflicts.md` — không nêu con số cho tới khi chủ xe quyết định.
 
-## 8. Trạng thái BLOCKED hiện tại (phải đọc)
+## 8. Nội dung hiện có
 
-- `data/content-matrix.csv`: ĐÃ GIẢI QUYẾT — chủ xe duyệt TẠO MỚI ngày 2026-09-27 (không tìm được bản gốc). Đây là ma trận MỚI, không phải khôi phục. Chi tiết sinh/tái sinh: `reports/factory/matrix-report.md` và `scripts/factory/generate-matrix.py`. Gọi matrix mới là "khôi phục nguyên bản" vẫn là BỊ CẤM.
-- Xung đột chính sách (khoảng đặt cọc, phí trễ, bảo hiểm/mũ bảo hiểm): BLOCKED — `reports/factory/policy-conflicts.md`.
-- 10 hàng legacy REVIEW (cặp cannibalization): cần đọc nội dung từng cặp để xử lý, không tự động hóa được: danh sách trong `docs/SEO-OWNERSHIP.md`.
+- KHÔNG viết lại bài EXISTING/PUBLISHED trừ khi có yêu cầu audit mới; KHÔNG đổi URL legacy, KHÔNG xóa/đổi tên `_posts/`, KHÔNG noindex hàng loạt; legacy phải còn nguyên sau mỗi lần chạy (validator kiểm).
+- Bài mới: `_posts/` phẳng, `YYYY-MM-DD-slug.md`, permalink theo taxonomy, frontmatter đủ (`docs/ARTICLE-RULES.md`).
+- Mở rộng chủ đề CHỈ qua `scripts/factory/expand-topic-universe.py` hoặc refill qua gate G1–G8 (`docs/ENGINE-RUNBOOK.md`). KHÔNG thêm tay vào matrix-seed/taxonomy-config.
+- BLG-00507 BLOCKED (trùng slug legacy) — KHÔNG claim.
+- 10 hàng legacy REVIEW: cần đọc từng cặp, không tự động hóa (`docs/SEO-OWNERSHIP.md`, `reports/factory/review-pairs.md`).
 
 ## 9. Bàn giao mỗi lần chạy
 
-Bắt buộc trong báo cáo cuối: MAIN HEAD (SHA), GitHub Pages run ID, BUILD/DEPLOY status, tệp thực sự thay đổi, các kiểm tra runtime đã làm (URL công khai, mobile ~390px, menu/footer/breadcrumb, calculator/chatbot), và trạng thái các mục BLOCKED. Không ghi Safari/iPhone khi chưa thật sự test trên đó.
+Bắt buộc trong báo cáo cuối: MAIN HEAD (SHA), GitHub Pages run ID, BUILD/DEPLOY status, tệp thực sự thay đổi, các kiểm tra runtime đã làm (URL công khai, mobile ~390px: menu/footer/breadcrumb/calculator/chatbot), trạng thái các mục BLOCKED. Không ghi Safari/iPhone khi chưa thật sự test trên đó.
 
-## 10. Ngữ nghĩa thời gian & năng lực (đợt hardening 2026-09-27)
+## 10. Ngữ nghĩa thời gian & năng lực
 
-Ba mốc thời gian KHÔNG dùng lẫn:
-- `generated_at` (progress.json) = giờ chạy report thật — đổi mỗi lần chạy; KHÔNG yêu cầu byte-identical.
-- `data_through` = ngày bài mới nhất trong dữ liệu — chỉ đổi khi nội dung đổi.
-- `checkpoint.updated_at` = giờ state factory đổi vật lý gần nhất (publish/claim) — report generation KHÔNG nâng.
-Bằng chứng deterministic: `data_fingerprint`, `matrix_sha256`, `taxonomy_sha256`, `inventory_sha256` trong progress.json; CI đối chiếu vân tay thay vì byte.
+Ba mốc KHÔNG dùng lẫn: `generated_at` (giờ chạy report — đổi mỗi lần chạy); `data_through` (ngày bài mới nhất — chỉ đổi khi nội dung đổi); `checkpoint.updated_at` (giờ state factory đổi vật lý — report KHÔNG nâng). Bằng chứng deterministic: `data_fingerprint`, `matrix_sha256`, `taxonomy_sha256`, `inventory_sha256` trong progress.json.
 
-Ngữ nghĩa năng lực matrix (báo đúng, không đệm — `reports/factory/matrix-report.md`):
-HARD_CAPACITY 10.000 (trần kỹ thuật) | EDITORIAL_TARGET 6.570 (planned_target taxonomy) |
-CURRENT_VALID_ROWS 833 | CURRENT_SEEDED_ROWS 350 | RESERVED_CAPACITY 9.167 |
-MISSING_VALID_TOPIC_SPACE 6.223. Legacy 483 + EDITORIAL_TARGET 6.570 = 7.053 < 10.000:
-taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng; muốn tăng phải mở rộng seed bằng chủ đề thật. Đạt 10.000 không phải điều kiện hoàn thành.
-
-REVIEW legacy: phân tích bằng chứng từng cặp trong `reports/factory/review-pairs.md`
-(8 SAFE_DISTINCT, 1 cặp MERGE_CANDIDATE chờ chủ xe). Matrix giữ nguyên 10 hàng REVIEW, KHÔNG tự PASS.
-## 11. Mở rộng chủ đề 10K (đợt 2, 2026-09-27)
-
-- Mở rộng chủ đề CHỈ qua `scripts/factory/expand-topic-universe.py` (cổng
-  scoring + chống trùng). KHÔNG thêm tay vào matrix-seed hay taxonomy-config.
-- Matrix schema v2 có thêm cột kế hoạch (audience, location_scope,
-  batch_id, word_target...). `generate-matrix.py` bảo toàn trạng thái
-  runtime (status/URL/batch_id/repair_count/...).
-- BLG-00507: BLOCKED vì trùng slug legacy BLG-00044 — KHÔNG claim hàng này.
-- Hợp đồng scheduler: `docs/factory-workflow-contract.md` (chunk 3–5, tối
-  đa 10, RUN 20–50 PUBLISHED, stop conditions). Chưa lập lịch.
-- Trạng thái tổng: 942 hàng (473 EXISTING, 10 REVIEW, 455 PLANNED,
-  3 PUBLISHED, 1 BLOCKED). 10.000 là trần, KHÔNG phải chỉ tiêu phải nhồi.
+Năng lực (báo đúng, không đệm — số hiện hành LUÔN đọc `reports/factory/matrix-report.md`): HARD_CAPACITY 10.000 là TRẦN kỹ thuật, không phải chỉ tiêu biên tập; EDITORIAL_TARGET (tổng planned_target taxonomy) luôn nhỏ hơn trần; phần chênh chỉ dành cho chủ đề MỚI thật qua gate. Đạt 10.000 không phải điều kiện hoàn thành.

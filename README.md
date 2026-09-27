@@ -2,46 +2,74 @@
 
 Jekyll/GitHub Pages. URL: https://thuexemayhanoi.github.io/blog/ · Base URL: `/blog` · Ngôn ngữ công khai: chỉ tiếng Việt. Website doanh nghiệp chính: https://thuexemaynguyentu.com/
 
-Agent làm việc trong repo đọc `AGENTS.md` trước. Tài liệu vận hành đầy đủ nằm trong `docs/`; report trong `reports/factory/`.
+Agent làm việc trong repo đọc `AGENTS.md` TRƯỚC. Tài liệu vận hành chuẩn nằm trong `docs/` (bản đồ tài liệu ở cuối file này); report sinh từ dữ liệu thật trong `reports/factory/`.
 
-## Dữ liệu kinh doanh của blog (giữ nguyên, không đồng bộ từ /shop)
+## /blog là gì
 
-- Thuơng hiệu: Nguyễn Tú — Thuê Xe Máy Hà Nội Nguyễn Tú
-- Địa chỉ: 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội
-- Điện thoại/Zalo/WhatsApp: 0942 467 674
-- Giờ hoạt động: 09:00–21:00
-- Bảng giá: `_data/pricing.yml` (nguồn chuẩn), hiển thị qua trang `/bang-gia/`
-- Blog và shop là hai bên kinh doanh khác nhau: KHÔNG coi khác biệt dữ liệu giữa hai site là lỗi, KHÔNG đồng bộ.
+Blog nội dung SEO cho dịch vụ cho thuê xe máy tại Hà Nội, tách biệt với website kinh doanh chính. Chạy trên Jekyll, deploy bằng GitHub Pages, nội dung tiếng Việt 100%, kiến trúc hub theo taxonomy 7 nhóm cha. Phần vận hành dài hạn là một Content Factory: sinh chủ đề, viết, QA, promote qua publish gate, xuất bản có checkpoint.
+
+## Kiến trúc & khái niệm 10K
+
+- Content Factory hỗ trợ TỐI ĐA 10.000 bài hợp lệ (HARD CAPACITY — trần kỹ thuật, KHÔNG phải chỉ tiêu phải nhịp đầy).
+- Chủ đề mở rộng LAZY: chỉ sinh candidate khi queue PLANNED tụt dưới ngưỡng, và chỉ nhận chủ đề có ý định tìm kiếm thật, qua các gate chống trùng (G1–G8). Chi tiết kiến trúc: `docs/ARCHITECTURE-10K.md`; chính sách biên tập/scale: `docs/CONTENT-POLICY-10K.md`.
+- Bài xuất bản qua publish gate (quality ≥ 90, seo ≥ 90, business fact + legal PASS, hash bằng chứng khớp). Chi tiết: `docs/CONTENT-FACTORY.md`, `docs/QUALITY-RUBRIC.md`.
+
+## Trạng thái động (dynamic state) — đọc tại nguồn, KHÔNG tin số trong prose docs
+
+Số liệu matrix/queue/checkpoint thay đổi theo từng lần chạy. Tài liệu tĩnh (README, docs) KHÔNG hardcode các con số này. Luôn đọc trực tiếp:
+
+- `data/state/checkpoint.json` — điểm resume, counts theo trạng thái.
+- `data/state/transaction.json` + `data/state/writer-lock.json` — transaction và ownership-safe writer lock.
+- `reports/factory/progress.json` — vân tay dữ liệu (data_fingerprint, matrix_sha256...).
+- `reports/factory/matrix-report.md` — báo cáo năng lực matrix hiện hành (HARD_CAPACITY, EDITORIAL_TARGET, CURRENT_VALID_ROWS...).
+- `reports/factory/latest.md` — nhật ký chạy gần nhất.
+
+## Dữ liệu kinh doanh (business facts) — nguồn chuẩn duy nhất
+
+- `_data/business.yml`, `_data/pricing.yml` → kết xuất `data/business-facts.json`. Mọi con số trong bài phải truy về đây.
+- Thương hiệu: Nguyễn Tú — Thuê Xe Máy Hà Nội Nguyễn Tú · 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội · 0942 467 674 · 09:00–21:00.
+- Blog và `/shop` là hai bên kinh doanh khác nhau: khác biệt dữ liệu giữa hai site KHÔNG phải lỗi, KHÔNG đồng bộ.
 
 ## Cấu trúc chính
 
-- `_posts/` — 483 bài legacy (URL `/blog/YYYY/MM/DD/slug/`, giữ nguyên). Bài mới cũng phẳng ở đây, permalink theo taxonomy.
-- `_drafts/` — vùng nháp KHÔNG deploy; chỉ promote sang `_posts` khi qua đủ gate.
-- `thue-xe/`, `xe-may/`, `an-toan-phap-ly/`, `du-lich/`, `cung-duong/`, `ky-nang/`, `hoi-dap/` — trang hub cha và hub con (39 hub con có nội dung).
+- `_posts/` — bài đã xuất bản (legacy giữ URL `/blog/YYYY/MM/DD/slug/` nguyên vĩnh viễn; bài mới phẳng, permalink theo taxonomy).
+- `_drafts/` — vùng nháp KHÔNG deploy; chỉ promote qua `scripts/factory/publish-gate.py`.
+- `thue-xe/`, `xe-may/`, `an-toan-phap-ly/`, `du-lich/`, `cung-duong/`, `ky-nang/`, `hoi-dap/` — trang hub cha/hub con.
 - `_data/` — cấu hình site + `factory-taxonomy.yml`, `factory-map.yml` (sinh tự động, không sửa tay).
-- `data/` — dữ liệu nền factory: taxonomy, inventory, business facts, state (checkpoint/lock/transaction), seed.
-- `scripts/factory/` — restore, sinh report, validator, manifest.
-- `docs/` — tài liệu vận hành. `docs/mistral/README.md` chỉ trỏ về nguồn chuẩn.
-- `reports/factory/` — report sinh từ dữ liệu thật + các báo cáo BLOCKED.
-- `.github/workflows/` — `factory-validate.yml` (gate CI), `publish-queue.yml` (campaign cũ hanoi-seo-480, queue hiện rỗng bài).
+- `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
+- `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
+- `reports/factory/` — report sinh từ dữ liệu thật.
+- `.github/workflows/` — `factory-validate.yml` + `factory-capacity-validate.yml` (CI read-only, gate xanh), `pages` (deploy), `publish-queue.yml` (campaign LEGACY hanoi-seo-480, đã tắt — KHÔNG phải scheduler của factory).
 
-## Lệnh kiểm tra bắt buộc
+## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 
 ```bash
-python3 scripts/factory/restore-foundation.py   # idempotent
-python3 scripts/factory/generate-reports.py     # idempotent
-python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED(thiếu matrix)
-python3 scripts/factory/generate-listing-pages.py
-python3 scripts/factory/generate-listing-pages.py
-python3 scripts/factory/expand-topic-universe.py  # mở rộng chủ đề (idempotent)
-python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX  # promote qua cổng (chỉ hàng PASS + bằng chứng QA)
+python3 scripts/factory/validate.py             # 0=PASS 1=FAIL 2=BLOCKED
+python3 scripts/factory/capacity-audit.py       # audit mo hinh nang luc
+python3 scripts/factory/queue.py --stats        # queue (view tren matrix)
+python3 scripts/factory/refill-queue.py --verify  # gate refill G1-G8 (read-only)
 ```
 
-Trạng thái hiện tại: nền đã khôi phục (taxonomy 7 cha/51 con, inventory 483 bài legacy, mapping hub hoạt động). Ma trận nội dung đã được chủ xe duyệt TẠO MỚI 2026-09-27 (833 hàng = 473 EXISTING + 10 REVIEW + 350 PLANNED; chi tiết `reports/factory/matrix-report.md`) — KHÔNG PHẢI KHÔI PHỤC NGUYÊN BẢN, bản gốc không tìm thấy. CI factory XANH (validate exit 0). Chunk đầu 3 bài C-THUE-GIA đã PUBLISHED qua publish gate; tiến độ trong `reports/factory/latest.md`.
-
-## Quy tắc bất di bất dịch
+## Quy tắc bất di bất dịch (bản đầy đủ: AGENTS.md)
 
 - Không đổi URL legacy, không xóa/đổi tên bài, không noindex hàng loạt.
 - Không bịa khuyến mại, phí giao cố định, số lượng khách, số năm kinh nghiệm, xếp hạng, cam kết, 24/7.
-- Không hạ gate để PASS; không ghi kết quả khi chưa chạy thật (NOT VERIFIED nếu chưa kiểm tra).
-- Hoàn thành một sửa lỗi phải có: tệp nguồn thay đổi, commit mới, Pages build + deploy thành công, kiểm tra runtime (mobile ~390px gồm menu/calculator/chatbot/footer).
+- Không hạ gate/QA để PASS; không ghi kết quả khi chưa chạy thật.
+- Hoàn thành một sửa lỗi phải có: tệp nguồn thay đổi, commit mới, Pages build + deploy thành công, kiểm tra runtime (mobile ~390px: menu/calculator/chatbot/footer).
+
+## Bản đồ tài liệu chuẩn (mỗi mối quan tâm MỘT chủ sở hữu)
+
+| Tài liệu | Sở hữu |
+|---|---|
+| `AGENTS.md` | hợp đồng bắt buộc cho mọi agent tự trị |
+| `docs/ARCHITECTURE-10K.md` | kiến trúc/năng lực/mở rộng lazy |
+| `docs/CONTENT-FACTORY.md` | state machine end-to-end |
+| `docs/ARTICLE-RULES.md` | quy tắc dựng bài |
+| `docs/CONTENT-POLICY-10K.md` | chính sách biên tập/scale/chống trùng |
+| `docs/QUALITY-RUBRIC.md` | hợp đồng chấm QA |
+| `docs/ENGINE-RUNBOOK.md` | lệnh thực thi/operator |
+| `docs/RECOVERY.md` | crash/lỗi/phục hồi/resume |
+| `docs/SOURCE-RESEARCH.md` | chính sách nghiên cứu/nguồn (A/B/C) |
+| `docs/INTERNAL-LINKING.md` | chính sách liên kết nội bộ/reverse-link |
+| `docs/factory-workflow-contract.md` | hợp đồng scheduler/run/chunk |
+| `docs/TAXONOMY.md` | cấu trúc chủ đề |

@@ -1,7 +1,10 @@
 # PROJECT STATUS — BLOG 10K CAPACITY FACTORY
 
-Cap nhat: 2026-09-27. Nguon tien do: reports/factory/progress.json
+Cap nhat: 2026-09-27. Nguoc tien do: reports/factory/progress.json
 (tu sinh tu du lieu that) + data/state/checkpoint.json.
+Day la BAN CHUP (snapshot) tai thoi diem ghi tren; so lieu hien
+hanh LUON doc tu: data/state/checkpoint.json,
+reports/factory/progress.json, reports/factory/matrix-report.md.
 
 ## Ngu doc trung thuc (BAI BAC, KHONG PHA che)
 

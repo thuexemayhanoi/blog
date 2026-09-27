@@ -16,7 +16,9 @@ Muc tieu 10.000 la NANG LUC ENGINE, khong phai yeu cau tao
 - HARD_CAPACITY = 10.000: tran ky thuat.
 - EDITORIAL_CAPACITY = 10.000: da phan bo (56 child tong 9.517
   + legacy 483), tin vao data/factory-capacity.json.
-- MATERIALIZED_MANIFEST = 942: chu de that da kiem chung.
+- MATERIALIZED_MANIFEST: so luong hang matrix thuc te LUON doc tu
+  reports/factory/matrix-report.md (snapshot tai thoi diem ghi
+  tai lieu khong duoc coi la chan ly dong thai).
 - PUBLISHED = 3 factory (+ 473 legacy song).
 
 Phan con lai 9.058 la UNMATERIALIZED CAPACITY: khoang trong
