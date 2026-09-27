@@ -74,7 +74,10 @@ def read_sources():
 
 def legacy_rows(tax, inv):
     """483 hàng legacy: id theo thứ tự tên tệp _posts/ (đúng bằng chứng cũ)."""
-    files = sorted(os.listdir('_posts'))
+    # bài factory (có article_id:) không thuộc legacy inventory — bỏ qua ở đây,
+    # chúng là hàng planned:PUBLISHED của matrix, không phải bài legacy.
+    files = [fn for fn in sorted(os.listdir('_posts'))
+             if not re.search(r'^article_id:', open(os.path.join('_posts', fn), encoding='utf-8').read()[:2000], re.M)]
     assert len(files) == len(inv) == 483, 'inventory/_posts lệch nhau'
     review_ids = [5, 17, 18, 53, 227, 228, 410, 411, 423, 424]
     rows = []
@@ -213,6 +216,20 @@ def main():
         for e in errors[:20]:
             print(' -', e)
         sys.exit(1)
+
+    # --- giữ trạng thái runtime của hàng planned khi tái sinh (idempotent):
+    # PUBLISHED/PASS/WRITING/QA... và ngày thật đã chốt khi promote không được
+    # reset về PLANNED/{date} placeholder. Chỉ áp cho id trùng.
+    if os.path.exists(OUT_PATH):
+        with open(OUT_PATH, encoding='utf-8', newline='') as f:
+            old_rows = {r['id']: r for r in csv.DictReader(f)}
+        for r in rows:
+            o = old_rows.get(r['id'])
+            if o is None:
+                continue
+            if o['status'] not in ('PLANNED',):
+                for k in ('status', 'expected_url', 'output_path', 'canonical_url', 'batch'):
+                    r[k] = o[k]
 
     fields = ['id', 'status', 'title', 'intent', 'primary_keyword', 'secondary_keywords',
               'parent_id', 'child_id', 'group', 'expected_url', 'output_path',

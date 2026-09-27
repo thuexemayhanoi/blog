@@ -86,12 +86,19 @@ for cid, c in children.items():
 
 # ---------------- 3. inventory
 inv = list(csv.DictReader(open('data/content-inventory.csv', encoding='utf-8')))
-post_files = sorted(os.listdir('_posts'))
-if len(inv) != len(post_files):
-    err('inventory != số tệp _posts: %d/%d' % (len(inv), len(post_files)))
+# tách legacy / factory: factory có article_id:, chỉ hợp lệ khi là hàng PUBLISHED
+# của matrix (kiểm ở phần matrix bên dưới); inventory chỉ chứa legacy.
+def _is_factory(fn):
+    return re.search(r'^article_id:', open('_posts/' + fn, encoding='utf-8').read()[:2000], re.M)
+legacy_files = [fn for fn in sorted(os.listdir('_posts')) if not _is_factory(fn)]
+factory_files = [fn for fn in sorted(os.listdir('_posts')) if _is_factory(fn)]
+if len(inv) != len(legacy_files):
+    err('inventory != số tệp _posts legacy: %d/%d' % (len(inv), len(legacy_files)))
 inv_paths = set(r['source_path'] for r in inv)
-for fn in post_files:
+for fn in legacy_files:
     if '_posts/' + fn not in inv_paths: err('chưa ánh xạ: _posts/%s' % fn)
+if factory_files and not os.path.exists('data/content-matrix.csv'):
+    err('có %d bài factory nhưng thiếu matrix' % len(factory_files))
 for r in inv:
     if r['likely_parent'] not in parents or r['likely_child'] not in children:
         err('inventory ánh xạ không hợp lệ: %s' % r['slug'])
@@ -210,6 +217,27 @@ if os.path.exists(MATRIX):
                 err('PLANNED %s source_required lệch taxonomy' % r['id'])
             if r['legal_risk'] != ch['legal_risk']:
                 err('PLANNED %s legal_risk lệch taxonomy' % r['id'])
+    # bài factory trong _posts (có article_id:) phải là hàng PUBLISHED của matrix,
+    # output_path khớp tệp thật, expected_url đã chốt ngày thật (không còn {date}).
+    mpub = {r['id']: r for r in mrows if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:')}
+    seen_aids = set()
+    for fn in factory_files:
+        am = re.search(r'^article_id:\s*(BLG-\d+)', open('_posts/' + fn, encoding='utf-8').read()[:2000], re.M)
+        if not am:
+            err('bài factory _posts/%s thiếu article_id' % fn); continue
+        aid = am.group(1)
+        if aid in seen_aids: err('article_id trùng giữa các tệp factory: %s' % aid)
+        seen_aids.add(aid)
+        mr = mpub.get(aid)
+        if mr is None:
+            err('bài factory %s (_posts/%s) không phải hàng PUBLISHED trong matrix' % (aid, fn)); continue
+        if mr['output_path'] != '_posts/' + fn:
+            err('bài factory %s: output_path matrix (%s) != tệp thật (_posts/%s)' % (aid, mr['output_path'], fn))
+        if '{date}' in mr['expected_url'] or '{date}' in mr['output_path']:
+            err('bài factory %s vẫn còn placeholder {{date}} trong URL/đường dẫn' % aid)
+    orphan = [aid for aid in mpub if aid not in seen_aids]
+    if orphan:
+        err('matrix PUBLISHED %s không có tệp _posts tương ứng' % ', '.join(sorted(orphan)))
     if cp['counts'].get('existing') != mstat.get('EXISTING', 0): err('checkpoint existing lệch matrix')
     if cp['counts'].get('review') != mstat.get('REVIEW', 0): err('checkpoint review lệch matrix')
     if cp['counts'].get('planned') != mstat.get('PLANNED', 0): err('checkpoint planned lệch matrix')
