@@ -15,7 +15,7 @@ article_id: BLG-00513
 
 Trong các hình thức thuê xe máy, thuê theo ngày là lựa chọn phổ biến nhất, nhưng cũng là hình thức bị hiểu sai nhiều nhất. Nhiều người chọn thuê xe máy theo ngày vì nghe nói rẻ, rồi khi tính ra lại tốn hơn thuê theo tuần; số khác cần xe mỗi ngày đi làm lại cứ thuê lẻ từng ngày vì không biết mình hợp với gói dài hạn hơn. Bài này giúp bạn trả lời câu hỏi thuê theo ngày hợp với ai, bằng cách soi từng nhóm nhu cầu thực tế ở Hà Nội, đối chiếu với các kỳ thuê khác, và chốt cách tính ngày rõ ràng để khỏi tranh cãi lúc trả.
 
-## Thuê theo ngày hợp với nhóm nhu cầu nào
+## Thuê xe máy theo ngày hợp với nhóm nhu cầu nào
 
 Thuê theo ngày phát huy tác dụng tốt nhất với các nhu cầu ngắn, rõ ràng thời điểm, và không lặp lại đều đặn. Bốn nhóm điển hình:
 
@@ -28,7 +28,8 @@ Thuê theo ngày phát huy tác dụng tốt nhất với các nhu cầu ngắn,
 
 ## Khi nào thuê theo ngày lại không hợp
 
-Mặt trái của thuê theo ngày nằm ở tính lặp lại. Nếu bạn cần xe liên tục bốn ngày trở lên cho cùng một nhu cầu, việc thuê lẻ từng ngày thường tốn hơn so với một gói theo tuần, và lại mất công làm thủ tục mỗi lần. Tương tự, người cần xe đi làm hằng ngày trong nhiều tuần liên tiếp thuộc nhóm nên chuyển sang thuê theo tháng, vừa nhẹ chi phí vừatránh  thủ tục lặp lại.
+Mặt trái của thuê theo ngày nằm ở tính lặp lại. Nếu bạn c
+ần xe liên tục bốn ngày trở lên cho cùng một nhu cầu, việc thuê lẻ từng ngày thường tốn hơn so với một gói theo tuần, và lại mất công làm thủ tục mỗi lần. Tương tự, người cần xe đi làm hằng ngày trong nhiều tuần liên tiếp thuộc nhóm nên chuyển sang thuê theo tháng, vừa nhẹ chi phí vừatránh  thủ tục lặp lại.
 
 Ba dấu hiệu cho thấy bạn nên đổi sang kỳ thuê dài hơn:
 
@@ -51,7 +52,8 @@ Trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) tổng hợp thông tin ri
 Phần dễ tranh cãi nhất của thuê theo ngày không phải giá, mà là ranh giới một ngày. Mỗi cửa hàng có quy ước riêng, nên cần hỏi và ghi rõ trước khi ký. Các kiểu thường gặp:
 
 - Tính theo khung hai mươi bốn giờ kể từ lúc nhận xe.
-- Tính theo ngày lịch: nhận buổi sáng hôm nay, trả trước giờ đóng cửa hôm sau là một ngày.
+- Tính theo ngày lịch: nhận 
+buổi sáng hôm nay, trả trước giờ đóng cửa hôm sau là một ngày.
 - Tính theo buổi: có nơi tách giá nửa ngày cho kỳ thuê rất ngắn.
 
 Ba cách này cho kết quả khác nhau rõ rệt nếu bạn nhận xe buổi chiều và trả buổi tối hôm sau. Hỏi cụ thể: nếu tôi nhận lúc hai giờ chiều hôm nay, tới bao giờ vẫn tính một ngày. Câu trả lời nên được ghi lại vào biên nhận hoặc tin nhắn. Cũng hỏi luôn quy ước trả trễ: trễ một tiếng tính thế nào, trễ quá nửa ngày có bị tính thêm ngày mới không.
