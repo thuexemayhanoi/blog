@@ -1,1 +1,4 @@
-{"op": "prepare-next", "count": 3}
+{
+  "op": "prepare-next",
+  "count": 3
+}
