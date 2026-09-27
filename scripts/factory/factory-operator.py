@@ -560,6 +560,7 @@ def op_qa(args, biz, tax):
         write_json_atomic(os.path.join('reports/factory', 'qa-outcome.json'),
                           {'run_at': now_iso(), 'op': 'qa',
                            'outcomes': outcomes})
+        run_reports()
         print('qa: xong %d hàng, kết quả: %s'
               % (len(outcomes), json.dumps(outcomes, ensure_ascii=False)))
         return 0
@@ -568,6 +569,18 @@ def op_qa(args, biz, tax):
 
 
 # ---------------------------------------------------------------- ops
+
+def run_reports():
+    """Sinh lại reports/factory chuẩn từ dữ liệu thật (deterministic).
+    Bắt buộc sau mọi op đổi state để reports committed không lệch CI
+    (factory-validate đối chiếu stable fields)."""
+    r = subprocess.run([sys.executable, 'scripts/factory/generate-reports.py'],
+                       capture_output=True, text=True)
+    print(r.stdout[-600:])
+    if r.returncode != 0:
+        print(r.stderr[-600:])
+    return r.returncode
+
 
 def op_status(args):
     cp = read_json(CP)
@@ -633,6 +646,7 @@ def op_prepare_next(args, biz, tax):
         for c in chunk:
             path = export_manifest(c, tax, biz, rows, d)
             print('manifest: %s' % path)
+        run_reports()
         print('prepare-next: claim %d hàng: %s' % (len(ids), ','.join(ids)))
         return 0
     finally:
