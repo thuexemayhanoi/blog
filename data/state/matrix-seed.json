@@ -1,0 +1,3572 @@
+{
+ "_meta": {
+  "note": "Cấu hình seed cho matrix TẠO MỚI (không phải khôi phục). Mỗi hàng/combô là một ý định tìm kiếm riêng; không sinh bằng đổi vài từ. Mở rộng bằng cách thêm chủ đề thật, không đệm cho đủ chỉ tiêu.",
+  "approved_by_owner": "2026-09-27",
+  "idempotent": true
+ },
+ "children": {
+  "C-THUE-GIA": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Bảng giá thuê xe máy tại Hà Nội theo loại xe",
+     "intent": "Tìm bảng giá thuê xe máy Hà Nội theo từng loại xe",
+     "kw": "bảng giá thuê xe máy hà nội",
+     "kw2": [
+      "giá thuê xe máy",
+      "giá thuê xe theo loại xe"
+     ],
+     "links": [
+      "/bang-gia/",
+      "/thue-xe/gia-thue/"
+     ]
+    },
+    {
+     "title": "Những yếu tố làm giá thuê xe máy thay đổi",
+     "intent": "Hiểu yếu tố ảnh hưởng giá thuê xe máy",
+     "kw": "yếu tố ảnh hưởng giá thuê xe máy",
+     "kw2": [
+      "giá thuê cao thấp vì sao",
+      "mùa cao điểm thuê xe"
+     ],
+     "links": [
+      "/thue-xe/gia-thue/",
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Giá thuê xe máy theo ngày ở Hà Nội",
+     "intent": "Xem giá thuê xe máy theo ngày",
+     "kw": "giá thuê xe máy theo ngày",
+     "kw2": [
+      "thuê xe ngày giá bao nhiêu"
+     ],
+     "links": [
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Giá thuê xe máy theo tuần ở Hà Nội",
+     "intent": "Xem giá thuê xe máy theo tuần",
+     "kw": "giá thuê xe máy theo tuần",
+     "kw2": [
+      "thuê xe 1 tuần giá"
+     ],
+     "links": [
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Giá thuê xe máy theo tháng ở Hà Nội",
+     "intent": "Xem giá thuê xe máy theo tháng",
+     "kw": "giá thuê xe máy theo tháng",
+     "kw2": [
+      "thuê xe dài hạn giá"
+     ],
+     "links": [
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "So sánh giá thuê xe số và xe tay ga",
+     "intent": "So sánh giá thuê xe số với xe ga",
+     "kw": "giá thuê xe số vs xe ga",
+     "kw2": [
+      "thuê xe ga đắt hơn"
+     ],
+     "links": [
+      "/bang-gia-xe-so/",
+      "/bang-gia-xe-ga/"
+     ]
+    },
+    {
+     "title": "Giá thuê xe 50cc ở Hà Nội",
+     "intent": "Xem giá thuê xe 50cc",
+     "kw": "giá thuê xe 50cc",
+     "kw2": [
+      "thuê xe 50cc giá bao nhiêu"
+     ],
+     "links": [
+      "/bang-gia-xe-50cc/"
+     ]
+    },
+    {
+     "title": "Giá thuê xe máy điện ở Hà Nội",
+     "intent": "Xem giá thuê xe máy điện",
+     "kw": "giá thuê xe máy điện",
+     "kw2": [
+      "thuê xe điện giá"
+     ],
+     "links": [
+      "/bang-gia-xe-dien/"
+     ]
+    },
+    {
+     "title": "Phí phát sinh khi thuê xe máy cần biết trước",
+     "intent": "Biết các khoản phí phát sinh có thể có khi thuê xe",
+     "kw": "phí phát sinh khi thuê xe máy",
+     "kw2": [
+      "trễ giờ trả xe",
+      "hư hỏng xe"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Cách so sánh báo giá thuê xe giữa các cửa hàng",
+     "intent": "Biết cách so sánh báo giá thuê xe máy",
+     "kw": "so sánh giá thuê xe máy",
+     "kw2": [
+      "báo giá thuê xe",
+      "giá trọn gói"
+     ],
+     "links": [
+      "/bang-gia/",
+      "/gioi-thieu/"
+     ]
+    },
+    {
+     "title": "Cách dùng máy tính giá thuê xe máy",
+     "intent": "Biết cách dùng công cụ tính giá thuê xe",
+     "kw": "tính giá thuê xe máy",
+     "kw2": [
+      "máy tính giá thuê xe",
+      "calculator giá thuê"
+     ],
+     "links": [
+      "/bang-gia/#tinh-gia"
+     ]
+    },
+    {
+     "title": "Giá thuê xe máy dịp lễ tết có thay đổi không",
+     "intent": "Hiểu biến động giá thuê xe dịp cao điểm",
+     "kw": "giá thuê xe máy dịp lễ",
+     "kw2": [
+      "thuê xe tết",
+      "mùa cao điểm giá thuê"
+     ],
+     "links": [
+      "/thue-xe/gia-thue/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-THU-TUC": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Thủ tục thuê xe máy ở Hà Nội cho người lần đầu",
+     "intent": "Hiểu quy trình thuê xe máy từ A-Z",
+     "kw": "thủ tục thuê xe máy hà nội",
+     "kw2": [
+      "các bước thuê xe",
+      "quy trình thuê xe"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Giấy tờ cần mang khi đi thuê xe máy",
+     "intent": "Biết giấy tờ cần thiết khi thuê xe",
+     "kw": "giấy tờ thuê xe máy",
+     "kw2": [
+      "cccd thuê xe",
+      "cần gì khi thuê xe"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/",
+      "/thue-xe/thu-tuc/"
+     ]
+    },
+    {
+     "title": "Thuê xe máy cần hợp đồng không",
+     "intent": "Hiểu vai trò hợp đồng khi thuê xe",
+     "kw": "hợp đồng thuê xe máy",
+     "kw2": [
+      "biên nhận thuê xe",
+      "điều khoản hợp đồng thuê xe"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/dieu-khoan/"
+     ]
+    },
+    {
+     "title": "Đặt xe máy trước qua điện thoại hoặc Zalo",
+     "intent": "Biết cách đặt xe trước từ xa",
+     "kw": "đặt xe máy trước",
+     "kw2": [
+      "đặt xe qua zalo",
+      "đặt xe qua điện thoại"
+     ],
+     "links": [
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Nhận xe tại cửa hàng hay giao xe tận nơi",
+     "intent": "So sánh nhận tại cửa hàng với giao xe",
+     "kw": "giao xe tận nơi hay tự đến nhận",
+     "kw2": [
+      "nhận xe tại cửa hàng",
+      "hình thức nhận xe"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/",
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Kiểm tra xe trước khi ký nhận",
+     "intent": "Biết checklist kiểm tra xe khi nhận",
+     "kw": "kiểm tra xe khi thuê",
+     "kw2": [
+      "checklist nhận xe",
+      "hư hỏng sẵn có"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Trả xe đúng quy trình để tránh tranh chấp",
+     "intent": "Biết việc cần làm trước và khi trả xe",
+     "kw": "quy trình trả xe thuê",
+     "kw2": [
+      "trả xe sạch",
+      "tránh tranh chấp khi trả xe"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Thuê xe máy cho người nước ngoài: thủ tục riêng",
+     "intent": "Hiểu thủ tục thuê xe cho khách quốc tế",
+     "kw": "thuê xe máy cho người nước ngoài",
+     "kw2": [
+      "passport thuê xe",
+      "expat thuê xe hà nội"
+     ],
+     "links": [
+      "/thue-xe/khach-quoc-te/",
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Thuê xe máy cho sinh viên ở Hà Nội",
+     "intent": "Hiểu điều kiện thuê xe cho sinh viên",
+     "kw": "thuê xe máy cho sinh viên",
+     "kw2": [
+      "sinh viên thuê xe",
+      "thuê xe học sinh"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Bảo lưu và đổi lịch nhận xe",
+     "intent": "Biết cách đổi lịch nhận đã đặt",
+     "kw": "đổi lịch nhận xe thuê",
+     "kw2": [
+      "hoãn nhận xe",
+      "bảo lưu xe"
+     ],
+     "links": [
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Những câu nên hỏi cửa hàng trước khi thuê",
+     "intent": "Có danh sách câu hỏi cần hỏi trước khi thuê",
+     "kw": "câu hỏi trước khi thuê xe",
+     "kw2": [
+      "hỏi gì khi thuê xe máy"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/dieu-khoan/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-NGAY": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Thuê xe máy theo ngày: hợp đồng với ai",
+     "intent": "Hiểu thuê xe máy theo ngày phù hợp nhu cầu nào",
+     "kw": "thuê xe máy theo ngày",
+     "kw2": [
+      "thuê xe 1 ngày",
+      "giá thuê theo ngày"
+     ],
+     "links": [
+      "/bang-gia/",
+      "/thue-xe/thue-ngay/"
+     ]
+    },
+    {
+     "title": "Thời gian tính một ngày thuê xe tính từ khi nào",
+     "intent": "Hiểu cách tính ngày thuê",
+     "kw": "cách tính ngày thuê xe",
+     "kw2": [
+      "một ngày thuê tính thế nào",
+      "quá giờ trả xe"
+     ],
+     "links": [
+      "/thue-xe/thue-ngay/"
+     ]
+    },
+    {
+     "title": "Thuê xe theo ngày nên nhận xe buổi nào tiện",
+     "intent": "Biết chọn thời điểm nhận xe hợp lý khi thuê theo ngày",
+     "kw": "thời điểm nhận xe thuê theo ngày",
+     "kw2": [
+      "nhận xe sáng hay chiều"
+     ],
+     "links": [
+      "/thue-xe/thue-ngay/"
+     ]
+    },
+    {
+     "title": "Thuê xe máy một ngày đi được bao nhiêu km",
+     "intent": "Biết quãng đường hợp lý khi thuê theo ngày",
+     "kw": "thuê xe 1 ngày đi bao xa",
+     "kw2": [
+      "giới hạn km khi thuê xe"
+     ],
+     "links": [
+      "/thue-xe/thue-ngay/",
+      "/cung-duong/"
+     ]
+    },
+    {
+     "title": "Thuê xe theo ngày kết hợp gửi xe quanh thành phố",
+     "intent": "Biết kết hợp thuê ngày với chi phí gửi xe",
+     "kw": "thuê xe theo ngày và gửi xe",
+     "kw2": [
+      "chi phí gửi xe hà nội"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/",
+      "/thue-xe/thue-ngay/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-TUAN": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Thuê xe máy theo tuần phù hợp nhu cầu nào",
+     "intent": "Hiểu thuê xe theo tuần hợp với ai",
+     "kw": "thuê xe máy theo tuần",
+     "kw2": [
+      "thuê xe 7 ngày",
+      "giá thuê tuần"
+     ],
+     "links": [
+      "/thue-xe/thue-tuan/",
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Thuê theo tuần khác gì thuê theo ngày",
+     "intent": "So sánh thuê tuần với thuê ngày",
+     "kw": "thuê xe tuần hay ngày",
+     "kw2": [
+      "khác biệt thuê tuần",
+      "lợi thế thuê tuần"
+     ],
+     "links": [
+      "/thue-xe/thue-ngay/"
+     ]
+    },
+    {
+     "title": "Chăm xe trong suốt tuần thuê",
+     "intent": "Biết cách giữ xe tốt khi thuê cả tuần",
+     "kw": "chăm xe máy khi thuê tuần",
+     "kw2": [
+      "kiểm tra xe giữa tuần"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Kế hoạch chuyến đi 7 ngày quanh Hà Nội bằng xe máy",
+     "intent": "Lập kế hoạch chuyến đi 1 tuần bằng xe thuê",
+     "kw": "chuyến đi 7 ngày bằng xe máy",
+     "kw2": [
+      "lịch trình tuần phượt"
+     ],
+     "links": [
+      "/cung-duong/",
+      "/thue-xe/thue-tuan/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-THANG": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Thuê xe máy theo tháng cho người sống và làm việc ở Hà Nội",
+     "intent": "Hiểu thuê tháng cho nhu cầu đi làm",
+     "kw": "thuê xe máy theo tháng",
+     "kw2": [
+      "thuê xe dài hạn",
+      "thuê xe đi làm"
+     ],
+     "links": [
+      "/thue-xe/thue-thang/",
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Chi phí thuê xe tháng so với mua xe cũ",
+     "intent": "So sánh thuê tháng với mua xe",
+     "kw": "thuê xe tháng hay mua xe",
+     "kw2": [
+      "chi phí thuê dài hạn",
+      "nên thuê hay mua xe máy"
+     ],
+     "links": [
+      "/thue-xe/thue-thang/"
+     ]
+    },
+    {
+     "title": "Nghĩa vụ khi thuê xe nhiều tháng",
+     "intent": "Hiểu nghĩa vụ và lưu ý khi thuê dài hạn",
+     "kw": "lưu ý thuê xe nhiều tháng",
+     "kw2": [
+      "hợp đồng dài hạn",
+      "bảo dưỡng xe thuê dài hạn"
+     ],
+     "links": [
+      "/thue-xe/thue-thang/",
+      "/dieu-khoan/"
+     ]
+    },
+    {
+     "title": "Gia hạn hợp đồng thuê xe theo tháng",
+     "intent": "Biết cách gia hạn thuê dài hạn",
+     "kw": "gia hạn thuê xe máy",
+     "kw2": [
+      "kéo dài hợp đồng thuê xe"
+     ],
+     "links": [
+      "/thue-xe/thue-thang/",
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Thuê xe tháng cho khách nước ngoài sống ở Hà Nội",
+     "intent": "Hiểu thuê tháng cho expat",
+     "kw": "thuê xe máy cho expat",
+     "kw2": [
+      "expat thuê xe tháng hà nội"
+     ],
+     "links": [
+      "/thue-xe/khach-quoc-te/",
+      "/thue-xe/thue-thang/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-DAT-COC": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Đặt cọc khi thuê xe máy hoạt động thế nào",
+     "intent": "Hiểu cơ chế đặt cọc khi thuê xe",
+     "kw": "đặt cọc thuê xe máy",
+     "kw2": [
+      "tiền cọc thuê xe",
+      "hoàn cọc"
+     ],
+     "links": [
+      "/thue-xe/dat-coc/",
+      "/thue-xe/thu-tuc/"
+     ]
+    },
+    {
+     "title": "Giữ giấy tờ thay đặt cọc: nên hay không",
+     "intent": "So sánh giữ giấy tờ với đặt cọc tiền",
+     "kw": "giữ giấy tờ khi thuê xe",
+     "kw2": [
+      "cọc tiền hay giữ giấy tờ"
+     ],
+     "links": [
+      "/thue-xe/dat-coc/",
+      "/an-toan-phap-ly/giay-to/"
+     ]
+    },
+    {
+     "title": "Điều kiện nhận lại tiền cọc đủ",
+     "intent": "Biết điều kiện hoàn cọc",
+     "kw": "nhận lại tiền cọc thuê xe",
+     "kw2": [
+      "bị trừ cọc",
+      "hoàn cọc đủ"
+     ],
+     "links": [
+      "/thue-xe/dat-coc/",
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Tranh chấp về cọc nên xử lý thế nào",
+     "intent": "Biết cách xử lý khi tranh chấp cọc",
+     "kw": "tranh chấp tiền cọc thuê xe",
+     "kw2": [
+      "cọc bị giữ"
+     ],
+     "links": [
+      "/thue-xe/dat-coc/",
+      "/dieu-khoan/"
+     ]
+    },
+    {
+     "title": "Đặt cọc bằng chuyển khoản hay tiền mặt",
+     "intent": "So sánh hình thức đặt cọc",
+     "kw": "hình thức đặt cọc thuê xe",
+     "kw2": [
+      "cọc chuyển khoản",
+      "biên nhận cọc"
+     ],
+     "links": [
+      "/thue-xe/dat-coc/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-QUOC-TE": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Người nước ngoài thuê xe máy ở Hà Nội cần gì",
+     "intent": "Hiểu điều kiện thuê xe cho khách quốc tế",
+     "kw": "người nước ngoài thuê xe máy hà nội",
+     "kw2": [
+      "thuê xe cho foreigner",
+      "điều kiện thuê xe quốc tế"
+     ],
+     "links": [
+      "/thue-xe/khach-quoc-te/"
+     ]
+    },
+    {
+     "title": "Giấy phép lái xe quốc tế và giấy phép công nhận tại Việt Nam",
+     "intent": "Biết loại giấy phép lái được công nhận cho khách quốc tế",
+     "kw": "giấy phép lái xe quốc tế việt nam",
+     "kw2": [
+      "idl việt nam",
+      "giấy phép lái công nhận"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Khách quốc tế đọc biển báo và luật giao thông cơ bản",
+     "intent": "Nắm quy tắc giao thông cơ bản cho khách quốc tế",
+     "kw": "luật giao thông cho khách quốc tế",
+     "kw2": [
+      "biển báo cho người nước ngoài"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Mũ bảo hiểm cho người thuê xe quốc tế",
+     "intent": "Hiểu quy định mũ bảo hiểm khi thuê xe",
+     "kw": "mũ bảo hiểm khi thuê xe",
+     "kw2": [
+      "mũ bảo hiểm cho khách quốc tế"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/",
+      "/thue-xe/khach-quoc-te/"
+     ]
+    },
+    {
+     "title": "Đi xe máy từ Hà Nội ra Nội Bài hoặc các tỉnh lân cận",
+     "intent": "Biết lưu ý chạy xe đường dài cho khách quốc tế",
+     "kw": "chạy xe máy đường dài cho người nước ngoài",
+     "kw2": [
+      "đường cao tốc xe máy"
+     ],
+     "links": [
+      "/thue-xe/khach-quoc-te/",
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-NHAN-TRA": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Nên nhận xe lúc nào và kiểm tra những gì",
+     "intent": "Biết cách nhận xe đúng quy trình",
+     "kw": "nhận xe thuê máy",
+     "kw2": [
+      "checklist nhận xe",
+      "nhận xe lúc nào"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Trả xe: việc cần làm 30 phút cuối",
+     "intent": "Biết việc cần làm trước khi trả xe",
+     "kw": "trả xe thuê máy",
+     "kw2": [
+      "dọn xe trước khi trả",
+      "kí biên bản trả xe"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Xăng khi nhận và khi trả xe xử lý thế nào",
+     "intent": "Hiểu quy định xăng khi nhận trả xe",
+     "kw": "xăng khi thuê xe máy",
+     "kw2": [
+      "trả xe có đầy xăng không"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Ghi hình xe khi nhận và trả để làm bằng chứng",
+     "intent": "Biết cách lưu bằng chứng tình trạng xe",
+     "kw": "quay video khi nhận xe thuê",
+     "kw2": [
+      "bằng chứng hư hỏng xe thuê"
+     ],
+     "links": [
+      "/thue-xe/nhan-tra-xe/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Biên bản giao nhận xe chứa những gì",
+     "intent": "Hiểu nội dung biên bản giao nhận",
+     "kw": "biên bản giao nhận xe",
+     "kw2": [
+      "nội dung biên bản nhận xe"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    }
+   ]
+  },
+  "C-THUE-SU-CO": {
+   "group": "THUE",
+   "rows": [
+    {
+     "title": "Xe thuê bị hỏng giữa đường: xử lý từng bước",
+     "intent": "Biết xử lý khi xe thuê hỏng giữa đường",
+     "kw": "xe thuê hỏng giữa đường",
+     "kw2": [
+      "xe máy thuê bị hỏng",
+      "sự cố khi thuê xe"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Xe thuê bị mất: trình tự báo và trách nhiệm",
+     "intent": "Hiểu trách nhiệm khi mất xe thuê",
+     "kw": "mất xe thuê máy",
+     "kw2": [
+      "trách nhiệm mất xe thuê",
+      "báo công an mất xe"
+     ],
+     "links": [
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Xe thuê bị tai nạn: các bước ngay sau va chạm",
+     "intent": "Biết các bước sau tai nạn với xe thuê",
+     "kw": "tai nạn với xe thuê",
+     "kw2": [
+      "va chạm khi thuê xe",
+      "bảo hiểm tai nạn xe thuê"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/an-toan-phap-ly/bao-hiem/"
+     ]
+    },
+    {
+     "title": "Xe thuê bị CSGT giữ: thủ tục lấy lại",
+     "intent": "Hiểu khi xe thuê bị tạm giữ",
+     "kw": "xe thuê bị tạm giữ",
+     "kw2": [
+      "csgt giữ xe thuê",
+      "lấy lại xe bị giữ"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Hỏng nhẹ do sử dụng thông thường ai chịu",
+     "intent": "Phân biệt hư hỏng thông thường với do người thuê",
+     "kw": "hỏng xe ai chịu trách nhiệm",
+     "kw2": [
+      "mòn lốp xe thuê",
+      "hỏng tự nhiên khi thuê xe"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/dieu-khoan/"
+     ]
+    },
+    {
+     "title": "Nhờ cứu hộ xe máy thuê ở Hà Nội",
+     "intent": "Biết cách gọi cứu hộ cho xe thuê",
+     "kw": "cứu hộ xe máy hà nội",
+     "kw2": [
+      "cứu hộ xe thuê"
+     ],
+     "links": [
+      "/lien-he/"
+     ]
+    }
+   ]
+  },
+  "C-XE-SO": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Xe số là gì và ai nên thuê",
+     "intent": "Hiểu đặc điểm xe số và đối tượng phù hợp",
+     "kw": "thuê xe số hà nội",
+     "kw2": [
+      "xe số là gì",
+      "ai hợp xe số"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/bang-gia-xe-so/"
+     ]
+    },
+    {
+     "title": "Kỹ thuật lên xuống số xe máy số",
+     "intent": "Biết cách lên xuống số đúng",
+     "kw": "cách lên số xe máy",
+     "kw2": [
+      "đi xe số",
+      "đạp số máy"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Xe số đi đường đèo dốc có ổn không",
+     "intent": "Hiểu khả năng xe số trên đường dốc",
+     "kw": "xe số đi đèo",
+     "kw2": [
+      "chạy dốc bằng xe số"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/cung-duong/"
+     ]
+    },
+    {
+     "title": "Xe số tiết kiệm xăng thế nào",
+     "intent": "Hiểu mức tiêu hao xăng của xe số",
+     "kw": "xe số tốn xăng không",
+     "kw2": [
+      "xe số tiết kiệm xăng"
+     ],
+     "links": [
+      "/xe-may/xe-so/"
+     ]
+    },
+    {
+     "title": "Người mới lái xe máy nên tập với xe số không",
+     "intent": "Biết xe số có phù hợp người mới học",
+     "kw": "người mới nên đi xe số",
+     "kw2": [
+      "học xe máy bằng xe số"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/",
+      "/xe-may/xe-so/"
+     ]
+    }
+   ]
+  },
+  "C-XE-GA": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Xe tay ga phù hợp với ai khi thuê",
+     "intent": "Hiểu đặc điểm xe ga và đối tượng phù hợp",
+     "kw": "thuê xe tay ga hà nội",
+     "kw2": [
+      "xe ga phù hợp ai",
+      "đặc điểm xe ga"
+     ],
+     "links": [
+      "/xe-may/xe-ga/",
+      "/bang-gia-xe-ga/"
+     ]
+    },
+    {
+     "title": "Lái xe ga trong phố đông: mẹo giữ an toàn",
+     "intent": "Biết mẹo lái xe ga trong phố",
+     "kw": "lái xe ga trong phố",
+     "kw2": [
+      "xe ga phố đông"
+     ],
+     "links": [
+      "/xe-may/xe-ga/",
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Khoang để đồ dưới yên xe ga chở được gì",
+     "kw2": [
+      "chở đồ bằng xe ga"
+     ],
+     "intent": "Biết khả năng chở đồ của xe ga",
+     "kw": "khoang đồ xe ga",
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/",
+      "/xe-may/xe-ga/"
+     ]
+    },
+    {
+     "title": "Xe ga và xe số trên đường trường: khác biệt ra sao",
+     "intent": "So sánh xe ga với xe số trên đường trường",
+     "kw": "xe ga hay xe số đường trường",
+     "kw2": [
+      "chạy trường bằng xe ga"
+     ],
+     "links": [
+      "/xe-may/xe-ga/",
+      "/xe-may/xe-so/"
+     ]
+    },
+    {
+     "title": "Xe ga cho nữ giới đi lại hằng ngày",
+     "intent": "Hiểu lựa chọn xe ga cho nữ",
+     "kw": "xe ga cho nữ",
+     "kw2": [
+      "xe ga nhẹ cho nữ"
+     ],
+     "links": [
+      "/xe-may/xe-ga/"
+     ]
+    }
+   ]
+  },
+  "C-XE-50CC": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Xe 50cc là gì và đi được những đâu",
+     "intent": "Hiểu khả năng và giới hạn xe 50cc",
+     "kw": "xe 50cc là gì",
+     "kw2": [
+      "đi đâu bằng xe 50cc",
+      "giới hạn xe 50cc"
+     ],
+     "links": [
+      "/xe-may/xe-50cc/",
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Có cần bằng lái khi đi xe 50cc không",
+     "intent": "Hiểu yêu cầu giấy phép với xe 50cc",
+     "kw": "xe 50cc cần bằng lái không",
+     "kw2": [
+      "thẻ 50cc",
+      "điều kiện lái xe 50cc"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/",
+      "/xe-may/xe-50cc/"
+     ]
+    },
+    {
+     "title": "Xe 50cc với người chưa từng lái xe",
+     "intent": "Đánh giá xe 50cc cho người mới",
+     "kw": "xe 50cc cho người mới",
+     "kw2": [
+      "học lái bằng xe 50cc"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/",
+      "/xe-may/xe-50cc/"
+     ]
+    },
+    {
+     "title": "Độ an toàn của xe 50cc trong phố Hà Nội",
+     "intent": "Hiểu an toàn khi đi xe 50cc trong phố",
+     "kw": "an toàn xe 50cc",
+     "kw2": [
+      "xe 50cc có an toàn không"
+     ],
+     "links": [
+      "/xe-may/xe-50cc/",
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    }
+   ]
+  },
+  "C-XE-DIEN": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Thuê xe máy điện ở Hà Nội cần biết gì",
+     "intent": "Hiểu đặc thù thuê xe điện",
+     "kw": "thuê xe máy điện hà nội",
+     "kw2": [
+      "đặc thù xe điện",
+      "thuê xe điện"
+     ],
+     "links": [
+      "/xe-may/xe-dien/",
+      "/bang-gia-xe-dien/"
+     ]
+    },
+    {
+     "title": "Quãng đường một lần sạc của xe máy điện",
+     "intent": "Hiểu quãng đường thực tế xe điện",
+     "kw": "quãng đường xe máy điện",
+     "kw2": [
+      "đi bao xa bằng xe điện",
+      "pin xe điện"
+     ],
+     "links": [
+      "/xe-may/xe-dien/"
+     ]
+    },
+    {
+     "title": "Sạc xe máy điện khi thuê: ở đâu và mất bao lâu",
+     "intent": "Biết cách sạc xe điện khi thuê",
+     "kw": "sạc xe máy điện",
+     "kw2": [
+      "cứu hộ sạc xe điện",
+      "thời gian sạc"
+     ],
+     "links": [
+      "/xe-may/xe-dien/"
+     ]
+    },
+    {
+     "title": "Xe máy điện với xe xăng: chọn nào khi thuê",
+     "intent": "So sánh xe điện với xe xăng khi thuê",
+     "kw": "xe điện hay xe xăng khi thuê",
+     "kw2": [
+      "so sánh xe điện xe xăng"
+     ],
+     "links": [
+      "/xe-may/xe-dien/",
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Chi phí vận hành xe máy điện so với xe xăng",
+     "intent": "So sánh chi phí vận hành hai loại xe",
+     "kw": "chi phí xe máy điện",
+     "kw2": [
+      "tiền điện vs tiền xăng"
+     ],
+     "links": [
+      "/xe-may/xe-dien/",
+      "/thue-xe/gia-thue/"
+     ]
+    }
+   ]
+  },
+  "C-XE-DAP-DIEN": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Xe đạp điện khác gì xe máy điện",
+     "intent": "Phân biệt xe đạp điện với xe máy điện",
+     "kw": "xe đạp điện và xe máy điện",
+     "kw2": [
+      "khác biệt xe đạp điện",
+      "nên thuê loại nào"
+     ],
+     "links": [
+      "/xe-may/xe-dap-dien/",
+      "/xe-may/xe-dien/"
+     ]
+    },
+    {
+     "title": "Xe đạp điện có cần bằng lái không",
+     "intent": "Hiểu yêu cầu giấy phép xe đạp điện",
+     "kw": "xe đạp điện cần bằng lái không",
+     "kw2": [
+      "điều kiện đi xe đạp điện"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/",
+      "/xe-may/xe-dap-dien/"
+     ]
+    },
+    {
+     "title": "Thuê xe đạp điện đi quanh phố cổ và hồ Gươm",
+     "intent": "Hiểu dùng xe đạp điện trong khu trung tâm",
+     "kw": "thuê xe đạp điện hà nội",
+     "kw2": [
+      "đi phố cổ bằng xe đạp điện"
+     ],
+     "links": [
+      "/xe-may/xe-dap-dien/",
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "Xe đạp điện cho học sinh sinh viên",
+     "intent": "Hiểu xe đạp điện cho đối tượng học sinh",
+     "kw": "xe đạp điện cho học sinh",
+     "kw2": [
+      "xe đạp điện sinh viên"
+     ],
+     "links": [
+      "/xe-may/xe-dap-dien/"
+     ]
+    }
+   ]
+  },
+  "C-HONDA-WAVE": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Honda Wave hợp với nhu cầu thuê nào",
+     "intent": "Hiểu Honda Wave hợp nhu cầu nào",
+     "kw": "thuê honda wave",
+     "kw2": [
+      "wave hợp ai",
+      "đặc điểm honda wave"
+     ],
+     "links": [
+      "/xe-may/honda-wave/",
+      "/bang-gia-xe-so/"
+     ]
+    },
+    {
+     "title": "Honda Wave cho hành trình dài ngày",
+     "intent": "Đánh giá Wave cho chuyến dài",
+     "kw": "honda wave đi xa",
+     "kw2": [
+      "wave chạy trường"
+     ],
+     "links": [
+      "/xe-may/honda-wave/",
+      "/cung-duong/"
+     ]
+    },
+    {
+     "title": "Điểm mạnh bền bỉ của Honda Wave khi thuê dài hạn",
+     "intent": "Hiểu ưu thế Wave khi thuê dài hạn",
+     "kw": "honda wave bền không",
+     "kw2": [
+      "wave thuê tháng"
+     ],
+     "links": [
+      "/xe-may/honda-wave/",
+      "/thue-xe/thue-thang/"
+     ]
+    },
+    {
+     "title": "Khởi động và khắc phục máy Honda Wave mùa lạnh",
+     "intent": "Biết mẹo dùng Wave mùa đông",
+     "kw": "khởi động honda wave",
+     "kw2": [
+      "wave khó đề máy"
+     ],
+     "links": [
+      "/xe-may/honda-wave/"
+     ]
+    }
+   ]
+  },
+  "C-HONDA-VISION": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Honda Vision hợp với ai khi thuê",
+     "intent": "Hiểu Vision hợp đối tượng nào",
+     "kw": "thuê honda vision",
+     "kw2": [
+      "vision hợp ai",
+      "đặc điểm vision"
+     ],
+     "links": [
+      "/xe-may/honda-vision/",
+      "/bang-gia-xe-ga/"
+     ]
+    },
+    {
+     "title": "Honda Vision đi phố: nhẹ và tiện thế nào",
+     "intent": "Đánh giá Vision trong phố",
+     "kw": "honda vision đi phố",
+     "kw2": [
+      "vision trong phố đông"
+     ],
+     "links": [
+      "/xe-may/honda-vision/"
+     ]
+    },
+    {
+     "title": "Honda Vision với nữ giới đi làm hằng ngày",
+     "intent": "Hiểu Vision cho nữ đi làm",
+     "kw": "honda vision cho nữ",
+     "kw2": [
+      "vision đi làm"
+     ],
+     "links": [
+      "/xe-may/honda-vision/"
+     ]
+    },
+    {
+     "title": "Khoang đồ của Honda Vision chứa được gì",
+     "intent": "Hiểu khả năng chở đồ của Vision",
+     "kw": "khoang đồ honda vision",
+     "kw2": [
+      "vision chở đồ"
+     ],
+     "links": [
+      "/xe-may/honda-vision/",
+      "/ky-nang/cho-do-va-hanh-ly/"
+     ]
+    }
+   ]
+  },
+  "C-HONDA-AIR-BLADE": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Honda Air Blade khác gì xe ga phổ thông",
+     "intent": "Hiểu khác biệt Air Blade",
+     "kw": "thuê honda air blade",
+     "kw2": [
+      "air blade khác gì",
+      "đặc điểm air blade"
+     ],
+     "links": [
+      "/xe-may/honda-air-blade/",
+      "/bang-gia-xe-ga/"
+     ]
+    },
+    {
+     "title": "Honda Air Blade cho người thích chạy khoẻ",
+     "intent": "Đánh giá Air Blade cho người thích tốc độ",
+     "kw": "air blade chạy khoẻ",
+     "kw2": [
+      "air blade máy mạnh"
+     ],
+     "links": [
+      "/xe-may/honda-air-blade/"
+     ]
+    },
+    {
+     "title": "Air Blade đi cặp với chuyến cuối tuần",
+     "intent": "Đánh giá Air Blade cho chuyến cuối tuần",
+     "kw": "air blade cuối tuần",
+     "kw2": [
+      "air blade đường trường"
+     ],
+     "links": [
+      "/xe-may/honda-air-blade/",
+      "/cung-duong/cung-duong-cuoi-tuan/"
+     ]
+    }
+   ]
+  },
+  "C-HONDA-CLICK": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Honda Click gọn nhẹ hợp ai",
+     "intent": "Hiểu Click hợp đối tượng nào",
+     "kw": "thuê honda click",
+     "kw2": [
+      "click hợp ai",
+      "đặc điểm click"
+     ],
+     "links": [
+      "/xe-may/honda-click/",
+      "/bang-gia-xe-ga/"
+     ]
+    },
+    {
+     "title": "Honda Click trong phố cổ nhỏ hẹp",
+     "intent": "Đánh giá Click cho phố nhỏ",
+     "kw": "honda click phố cổ",
+     "kw2": [
+      "click đi phố nhỏ"
+     ],
+     "links": [
+      "/xe-may/honda-click/",
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "So sánh Honda Click và Yamaha Mio khi thuê",
+     "intent": "So sánh Click với Mio",
+     "kw": "click hay mio",
+     "kw2": [
+      "yamaha mio",
+      "so sánh xe ga nhỏ"
+     ],
+     "links": [
+      "/xe-may/honda-click/"
+     ]
+    }
+   ]
+  },
+  "C-YAMAHA-SIRIUS": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Yamaha Sirius khi nào đáng thuê",
+     "intent": "Hiểu Sirius hợp nhu cầu nào",
+     "kw": "thuê yamaha sirius",
+     "kw2": [
+      "sirius hợp ai",
+      "đặc điểm sirius"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/bang-gia-xe-so/"
+     ]
+    },
+    {
+     "title": "Yamaha Sirius với Honda Wave: chọn nào",
+     "intent": "So sánh Sirius với Wave",
+     "kw": "sirius hay wave",
+     "kw2": [
+      "so sánh sirius wave"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/xe-may/honda-wave/"
+     ]
+    },
+    {
+     "title": "Sirius cho chặng đường trường quãng ngắn",
+     "intent": "Đánh giá Sirius đường trường",
+     "kw": "yamaha sirius đường trường",
+     "kw2": [
+      "sirius chạy trường"
+     ],
+     "links": [
+      "/cung-duong/"
+     ]
+    }
+   ]
+  },
+  "C-BAO-DUONG": {
+   "group": "XE",
+   "rows": [
+    {
+     "title": "Bảo dưỡng định kỳ xe máy gồm những gì",
+     "intent": "Hiểu nội dung bảo dưỡng định kỳ",
+     "kw": "bảo dưỡng xe máy định kỳ",
+     "kw2": [
+      "những gì cần bảo dưỡng",
+      "bảo dưỡng gồm gì"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Lốp xe máy khi nào cần thay",
+     "intent": "Biết thời điểm thay lốp",
+     "kw": "khi nào thay lốp xe máy",
+     "kw2": [
+      "mòn lốp",
+      "đổi lốp xe"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Dầu máy xe máy đổi sau bao lâu",
+     "intent": "Hiểu chu kỳ thay dầu máy",
+     "kw": "thay dầu máy xe máy",
+     "kw2": [
+      "chu kỳ thay dầu",
+      "đổi dầu máy"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Ổ kim và xích xe máy căng đúng cách",
+     "intent": "Biết cách chỉnh xích xe",
+     "kw": "căng xích xe máy",
+     "kw2": [
+      "chỉnh ổ kim",
+      "xịch xe bị lỏng"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Ắc quy xe máy yếu: dấu hiệu và xử lý",
+     "intent": "Nhận biết và xử lý ắc quy yếu",
+     "kw": "ắc quy xe máy yếu",
+     "kw2": [
+      "dấu hiệu ắc quy hết",
+      "khó đề máy"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Phanh xe máy đĩa và bố: kiểm tra thế nào",
+     "intent": "Biết kiểm tra phanh",
+     "kw": "kiểm tra phanh xe máy",
+     "kw2": [
+      "phanh đĩa",
+      "phanh bố"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/",
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Đèn xe máy mờ và cách khắc phục",
+     "intent": "Xử lý đèn xe mờ",
+     "kw": "đèn xe máy mờ",
+     "kw2": [
+      "đèn pha yếu",
+      "càng sáng đèn"
+     ],
+     "links": [
+      "/xe-may/bao-duong-xe/"
+     ]
+    }
+   ]
+  },
+  "C-GPLX": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Các hạng bằng lái xe máy tại Việt Nam",
+     "intent": "Hiểu các hạng giấy phép lái xe máy",
+     "kw": "các hạng bằng lái xe máy",
+     "kw2": [
+      "bằng a1 a2",
+      "hạng bằng lái"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Thi bằng lái A1: quy trình hiện hành",
+     "intent": "Hiểu quy trình thi bằng A1",
+     "kw": "thi bằng lái a1",
+     "kw2": [
+      "quy trình thi a1",
+      "sát hạch a1"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Đổi bằng lái khi giấy hết hạn",
+     "intent": "Hiểu đổi bằng lái hết hạn",
+     "kw": "đổi bằng lái hết hạn",
+     "kw2": [
+      "gia hạn bằng lái",
+      "bằng hết hạn đi xe"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Đi xe máy không bằng lái bị xử lý thế nào",
+     "intent": "Hiểu mức xử phạt đi xe không bằng lái",
+     "kw": "không bằng lái bị phạt thế nào",
+     "kw2": [
+      "xử phạt không có bằng lái"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Bằng lái được cấp ở nước ngoài dùng được không",
+     "intent": "Hiểu công nhận bằng lái nước ngoài",
+     "kw": "bằng lái nước ngoài dùng được không",
+     "kw2": [
+      "công nhận gplx nước ngoài"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/",
+      "/thue-xe/khach-quoc-te/"
+     ]
+    },
+    {
+     "title": "Sát hạch lý thuyết A1: những câu hay gặp",
+     "intent": "Biết nội dung sát hạch lý thuyết",
+     "kw": "lý thuyết bằng lái a1",
+     "kw2": [
+      "câu hỏi sát hạch a1"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Mất bằng lái xe máy: xin cấp lại thế nào",
+     "intent": "Biết xin cấp lại bằng lái bị mất",
+     "kw": "mất bằng lái xin lại",
+     "kw2": [
+      "cấp lại bằng lái"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    }
+   ]
+  },
+  "C-BAO-HIEM": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Bảo hiểm trách nhiệm dân sự xe máy là gì",
+     "intent": "Hiểu bảo hiểm TNDS bắt buộc",
+     "kw": "bảo hiểm trách nhiệm dân sự xe máy",
+     "kw2": [
+      "bảo hiểm bắt buộc xe máy",
+      "tnds xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bao-hiem/"
+     ]
+    },
+    {
+     "title": "Mua bảo hiểm xe máy ở đâu và hiệu lực ra sao",
+     "intent": "Biết cách mua bảo hiểm bắt buộc",
+     "kw": "mua bảo hiểm xe máy",
+     "kw2": [
+      "hiệu lực bảo hiểm xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bao-hiem/"
+     ]
+    },
+    {
+     "title": "Không có bảo hiểm xe máy bị phạt thế nào",
+     "intent": "Hiểu xử phạt khi thiếu bảo hiểm",
+     "kw": "không bảo hiểm xe máy bị phạt",
+     "kw2": [
+      "phạt không có bảo hiểm"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bao-hiem/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Bảo hiểm tự nguyện cho xe máy có đáng không",
+     "intent": "Hiểu bảo hiểm tự nguyện",
+     "kw": "bảo hiểm tự nguyện xe máy",
+     "kw2": [
+      "bảo hiểm vật chất xe"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bao-hiem/"
+     ]
+    },
+    {
+     "title": "Tai nạn xảy ra với xe thuê: bảo hiểm chi trả phần nào",
+     "intent": "Hiểu bảo hiểm trong tình huống xe thuê",
+     "kw": "bảo hiểm xe thuê tai nạn",
+     "kw2": [
+      "chi trả bảo hiểm tai nạn"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bao-hiem/",
+      "/thue-xe/su-co/"
+     ]
+    }
+   ]
+  },
+  "C-NOI-DO-CONG": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Quy định nồng độ cồn khi lái xe hiện hành",
+     "intent": "Hiểu quy định nồng độ cồn",
+     "kw": "quy định nồng độ cồn",
+     "kw2": [
+      "nồng độ cồn bị phạt",
+      "giới hạn cồn"
+     ],
+     "links": [
+      "/an-toan-phap-ly/noi-do-cong/"
+     ]
+    },
+    {
+     "title": "Mức phạt nồng độ cồn xe máy mới nhất",
+     "intent": "Biết mức phạt vi phạm nồng độ cồn",
+     "kw": "mức phạt nồng độ cồn xe máy",
+     "kw2": [
+      "phạt cồn xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/noi-do-cong/"
+     ]
+    },
+    {
+     "title": "Bia rượu chiều nào hôm sau còn bị phát hiện",
+     "intent": "Hiểu khả năng còn cồn hôm sau",
+     "kw": "uống bia hôm sau còn cồn không",
+     "kw2": [
+      "còn cồn ngày hôm sau"
+     ],
+     "links": [
+      "/an-toan-phap-ly/noi-do-cong/"
+     ]
+    },
+    {
+     "title": "Trình chủ xe thuê khi bị xử lý nồng độ cồn",
+     "intent": "Biết trách nhiệm khi vi phạm với xe thuê",
+     "kw": "đi xe thuê vi phạm nồng độ cồn",
+     "kw2": [
+      "trách nhiệm người thuê vi phạm"
+     ],
+     "links": [
+      "/an-toan-phap-ly/noi-do-cong/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Đo nồng độ cồn: quyền và trình tự",
+     "intent": "Hiểu trình tự đo nồng độ cồn",
+     "kw": "trình tự đo nồng độ cồn",
+     "kw2": [
+      "quyền khi bị đo cồn"
+     ],
+     "links": [
+      "/an-toan-phap-ly/noi-do-cong/"
+     ]
+    }
+   ]
+  },
+  "C-PHAT-NGUOI": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Phạt nguội là gì và xe máy có bị không",
+     "intent": "Hiểu cơ chế phạt nguội",
+     "kw": "phạt nguội xe máy",
+     "kw2": [
+      "phạt nguội là gì",
+      "xe máy có bị phạt nguội không"
+     ],
+     "links": [
+      "/an-toan-phap-ly/phat-nguoi/"
+     ]
+    },
+    {
+     "title": "Tra cứu phạt nguội bằng cách nào",
+     "intent": "Biết cách tra phạt nguội",
+     "kw": "tra cứu phạt nguội",
+     "kw2": [
+      "kiểm tra phạt nguội xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/phat-nguoi/"
+     ]
+    },
+    {
+     "title": "Nhận thông báo phạt nguội của xe thuê xử lý thế nào",
+     "intent": "Hiểu xử lý phạt nguội với xe thuê",
+     "kw": "phạt nguội xe thuê",
+     "kw2": [
+      "xe thuê bị phạt nguội ai chịu"
+     ],
+     "links": [
+      "/an-toan-phap-ly/phat-nguoi/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Nộp phạt nguội trễ có bị cộng thêm không",
+     "intent": "Hiểu nộp phạt trễ",
+     "kw": "nộp phạt nguội trễ",
+     "kw2": [
+      "hạn nộp phạt nguội"
+     ],
+     "links": [
+      "/an-toan-phap-ly/phat-nguoi/"
+     ]
+    },
+    {
+     "title": "Phạt nguội lỗi nào thường gặp với xe máy",
+     "intent": "Biết các lỗi phạt nguội thường gặp",
+     "kw": "lỗi phạt nguội thường gặp",
+     "kw2": [
+      "vạch kẻ đường",
+      "đèn đỏ xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/phat-nguoi/"
+     ]
+    }
+   ]
+  },
+  "C-BIEN-BAO": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Biển báo cấm xe máy thường gặp",
+     "intent": "Nhận biết biển cấm liên quan xe máy",
+     "kw": "biển báo cấm xe máy",
+     "kw2": [
+      "đường cấm xe máy",
+      "biển cấm xe"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/"
+     ]
+    },
+    {
+     "title": "Biển báo hiệu lệnh cần tuân thủ khi đi xe",
+     "intent": "Hiểu nhóm biển hiệu lệnh",
+     "kw": "biển báo hiệu lệnh",
+     "kw2": [
+      "biển phải đi theo"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/"
+     ]
+    },
+    {
+     "title": "Biển chỉ dẫn và biển phụ hiểu thế nào",
+     "intent": "Hiểu nhóm biển chỉ dẫn",
+     "kw": "biển chỉ dẫn",
+     "kw2": [
+      "biển phụ",
+      "biển kèm theo"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/"
+     ]
+    },
+    {
+     "title": "Biển báo nguy hiểm trên đường trường",
+     "intent": "Nhận biết biển nguy hiểm đường trường",
+     "kw": "biển báo nguy hiểm",
+     "kw2": [
+      "biển đường trơn",
+      "biển dốc"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/",
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Vạch kẻ đường xe máy phải đi thế nào",
+     "intent": "Hiểu vạch kẻ đường",
+     "kw": "vạch kẻ đường",
+     "kw2": [
+      "làn xe máy",
+      "vạch liền vạch đứt"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/"
+     ]
+    },
+    {
+     "title": "Biển báo khu vực phố đi bộ",
+     "intent": "Hiểu biển phố đi bộ",
+     "kw": "biển phố đi bộ",
+     "kw2": [
+      "khu đi bộ hà nội",
+      "xe vào phố đi bộ"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/",
+      "/du-lich/pho-co/"
+     ]
+    }
+   ]
+  },
+  "C-GIAY-TO": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Giấy tờ bắt buộc mang theo khi lái xe máy",
+     "intent": "Biết bộ giấy tờ bắt buộc",
+     "kw": "giấy tờ khi lái xe máy",
+     "kw2": [
+      "cần mang gì khi đi xe",
+      "hồ sơ xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/"
+     ]
+    },
+    {
+     "title": "Cà vạt xe và đăng ký xe khác nhau thế nào",
+     "intent": "Phân biệt đăng ký xe với cà vạt",
+     "kw": "cà vạt xe là gì",
+     "kw2": [
+      "đăng ký xe máy",
+      "khác nhau cà vạt đăng ký"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/"
+     ]
+    },
+    {
+     "title": "Tem kiểm định xe máy còn hiệu lực ra sao",
+     "intent": "Hiểu tem kiểm định",
+     "kw": "tem kiểm định xe máy",
+     "kw2": [
+      "hiệu lực kiểm định",
+      "tem hết hạn"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/"
+     ]
+    },
+    {
+     "title": "Thiếu giấy tờ xe máy bị xử lý ra sao",
+     "intent": "Hiểu xử phạt thiếu giấy tờ",
+     "kw": "thiếu giấy tờ xe máy phạt",
+     "kw2": [
+      "quên bằng lái"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Giấy tờ xe thuê cần có mặt khi bị kiểm tra",
+     "intent": "Biết giấy tờ xe thuê cần mang",
+     "kw": "giấy tờ khi thuê xe máy",
+     "kw2": [
+      "xe thuê cần giấy gì"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/",
+      "/thue-xe/thu-tuc/"
+     ]
+    }
+   ]
+  },
+  "C-QUY-DINH": {
+   "group": "PHAP-LY",
+   "rows": [
+    {
+     "title": "Quy định mới về xe máy cần biết",
+     "intent": "Nắm quy định giao thông hiện hành cho xe máy",
+     "kw": "quy định về xe máy",
+     "kw2": [
+      "luật đường bộ xe máy",
+      "quy định hiện hành"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Mũ bảo hiểm đạt chuẩn và quy định đội mũ",
+     "intent": "Hiểu quy định mũ bảo hiểm",
+     "kw": "quy định mũ bảo hiểm",
+     "kw2": [
+      "mũ đạt chuẩn",
+      "đội mũ khi đi xe"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Xe máy có được vào cao tốc không",
+     "intent": "Hiểu quy định cao tốc với xe máy",
+     "kw": "xe máy vào cao tốc",
+     "kw2": [
+      "cấm xe máy cao tốc",
+      "đường cao tốc"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Chở người trên xe máy: quy định hiện hành",
+     "intent": "Hiểu quy định chở người trên xe",
+     "kw": "quy định chở người trên xe máy",
+     "kw2": [
+      "chở 2 người trên xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Đèn tín hiệu và còi xe máy theo quy định",
+     "intent": "Hiểu quy định đèn còi",
+     "kw": "đèn còi xe máy quy định",
+     "kw2": [
+      "đèn chiếu sáng xe"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Xe máy điện và quy định quản lý phương tiện",
+     "intent": "Hiểu quản lý xe điện",
+     "kw": "quy định xe máy điện",
+     "kw2": [
+      "đăng ký xe điện"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/",
+      "/xe-may/xe-dien/"
+     ]
+    },
+    {
+     "title": "Nghị định xử phạt vi phạm giao thông xe máy",
+     "intent": "Hiểu khung xử phạt vi phạm xe máy",
+     "kw": "xử phạt vi phạm giao thông xe máy",
+     "kw2": [
+      "khung phạt xe máy",
+      "nghị định xử phạt"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    }
+   ]
+  },
+  "C-DIEM-DEN": {
+   "group": "DU-LICH",
+   "entities": [
+    {
+     "name": "Văn Miếu - Quốc Tử Giám"
+    },
+    {
+     "name": "Hoàng thành Thăng Long"
+    },
+    {
+     "name": "chùa Một Cột"
+    },
+    {
+     "name": "Bảo tàng Dân tộc học Việt Nam"
+    },
+    {
+     "name": "Cầu Long Biên"
+    },
+    {
+     "name": "Làng gốm Bát Tràng"
+    },
+    {
+     "name": "Đầm Sen Tây Hồ"
+    },
+    {
+     "name": "Công viên Thủ Lệ"
+    },
+    {
+     "name": "K9 và Đường Hồ Chí Minh tại Ba Vì"
+    },
+    {
+     "name": "Chùa Trấn Quốc"
+    },
+    {
+     "name": "Làng hoa Nhật Tân"
+    },
+    {
+     "name": "Khu Hồ Gươm và Tháp Rùa"
+    },
+    {
+     "name": "Vườn hoa Hùng Vương"
+    },
+    {
+     "name": "Bãi sông Hồng trong nội đô"
+    },
+    {
+     "name": "Vườn Quốc gia Ba Vì"
+    }
+   ],
+   "angles": [
+    {
+     "title": "Đến {e} bằng xe máy: gửi xe và đường đi",
+     "intent": "Biết đường đi và chỗ gửi xe khi đến {e}",
+     "kw": "đến {e} bằng xe máy",
+     "kw2": [
+      "gửi xe {e}",
+      "đường đi {e}"
+     ],
+     "links": [
+      "/du-lich/diem-den/"
+     ]
+    },
+    {
+     "title": "Kinh nghiệm ghé thăm {e} nửa ngày",
+     "intent": "Lên kế hoạch nửa ngày tham quan {e}",
+     "kw": "kinh nghiệm đi {e}",
+     "kw2": [
+      "tham quan {e}",
+      "lịch trình {e}"
+     ],
+     "links": [
+      "/du-lich/diem-den/"
+     ]
+    },
+    {
+     "title": "Những lưu ý khi chạy xe quanh {e}",
+     "intent": "Biết lưu ý giao thông quanh khu vực {e}",
+     "kw": "lưu ý chạy xe gần {e}",
+     "kw2": [
+      "giao thông quanh {e}",
+      "đường quanh {e} đông"
+     ],
+     "links": [
+      "/du-lich/diem-den/",
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    }
+   ]
+  },
+  "C-BAO-TANG": {
+   "group": "DU-LICH",
+   "entities": [
+    {
+     "name": "Bảo tàng Lịch sử Quốc gia"
+    },
+    {
+     "name": "Bảo tàng Phụ nữ Việt Nam"
+    },
+    {
+     "name": "Bảo tàng Mỹ thuật Việt Nam"
+    },
+    {
+     "name": "Bảo tàng Không khí - Không gian Sao"
+    },
+    {
+     "name": "Bảo tàng Quân y"
+    },
+    {
+     "name": "Bảo tàng Hà Nội"
+    },
+    {
+     "name": "Bảo tàng Con rối Việt Nam"
+    },
+    {
+     "name": "Bảo tàng Đường sắt Việt Nam"
+    }
+   ],
+   "angles": [
+    {
+     "title": "Ghé {e} bằng xe máy: gửi xe và giờ mở cửa",
+     "intent": "Biết cách đến {e} bằng xe máy và gửi xe",
+     "kw": "đến {e}",
+     "kw2": [
+      "gửi xe {e}",
+      "giờ mở cửa {e}"
+     ],
+     "links": [
+      "/du-lich/"
+     ]
+    },
+    {
+     "title": "Trải nghiệm {e}: nên đi cùng ai và lúc nào",
+     "intent": "Biết cách trải nghiệm {e} hợp lý",
+     "kw": "trải nghiệm {e}",
+     "kw2": [
+      "tham quan {e} lúc nào",
+      "vé {e}"
+     ],
+     "links": [
+      "/du-lich/"
+     ]
+    }
+   ]
+  },
+  "C-PHO-CO": {
+   "group": "DU-LICH",
+   "rows": [
+    {
+     "title": "Chạy xe máy trong phố cổ: giờ nào nên tránh",
+     "intent": "Biết khung giờ phố cổ đông để tránh",
+     "kw": "chạy xe trong phố cổ",
+     "kw2": [
+      "giờ đông phố cổ",
+      "xe máy phố cổ"
+     ],
+     "links": [
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "Gửi xe quanh Hồ Gươm giá và vị trí",
+     "intent": "Biết vị trí gửi xe quanh Hồ Gươm",
+     "kw": "gửi xe hồ gươm",
+     "kw2": [
+      "bãi gửi xe quanh hồ gươm",
+      "gửi xe phố cổ"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/",
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "Phố đi bộ cuối tuần và xe máy để đâu",
+     "intent": "Biết để xe khi phố đi bộ hoạt động",
+     "kw": "phố đi bộ hồ gươm xe máy",
+     "kw2": [
+      "đường_BOOK hoạch phố đi bộ",
+      "xe máy phố đi bộ"
+     ],
+     "links": [
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "Đường 36 phố phường chạy xe kiểu gì",
+     "intent": "Hiểu cách di chuyển trong ngõ phố cổ",
+     "kw": "36 phố phường đi xe máy",
+     "kw2": [
+      "ngõ phố cổ",
+      "đường phố cổ nhỏ"
+     ],
+     "links": [
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "Ăn uống quanh phố cổ để xe ở đâu",
+     "intent": "Biết chỗ để xe khi ăn uống phố cổ",
+     "kw": "để xe ăn uống phố cổ",
+     "kw2": [
+      "gửi xe khi ăn phố cổ"
+     ],
+     "links": [
+      "/du-lich/pho-co/",
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Chụp ảnh phố cổ với xe máy đẹp ở đâu",
+     "intent": "Biết góc chụp ảnh phố cổ",
+     "kw": "chụp ảnh phố cổ hà nội",
+     "kw2": [
+      "góc chụp hồ gươm"
+     ],
+     "links": [
+      "/du-lich/pho-co/"
+     ]
+    }
+   ]
+  },
+  "C-HO-TAY": {
+   "group": "DU-LICH",
+   "rows": [
+    {
+     "title": "Chạy vòng Hồ Tây cung đường và điểm dừng",
+     "intent": "Biết cung đường chạy quanh Hồ Tây",
+     "kw": "chạy vòng hồ tây",
+     "kw2": [
+      "cung đường hồ tây",
+      "đi quanh hồ tây"
+     ],
+     "links": [
+      "/du-lich/ho-tay/"
+     ]
+    },
+    {
+     "title": "Gửi xe khi đi dạo bờ Hồ Tây",
+     "intent": "Biết chỗ gửi xe quanh Hồ Tây",
+     "kw": "gửi xe hồ tây",
+     "kw2": [
+      "bãi xe hồ tây"
+     ],
+     "links": [
+      "/du-lich/ho-tay/",
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Quán nghề và điểm dừng chân quanh Hồ Tây chạy xe ghé",
+     "intent": "Biết điểm dừng quanh Hồ Tây",
+     "kw": "điểm dừng quanh hồ tây",
+     "kw2": [
+      "quán quanh hồ tây"
+     ],
+     "links": [
+      "/du-lich/ho-tay/"
+     ]
+    },
+    {
+     "title": "Đường Nguyễn Hoàng và khu Tribeca chạy xe buổi tối",
+     "intent": "Hiểu khu Hồ Tây buổi tối với xe máy",
+     "kw": "hồ tây buổi tối",
+     "kw2": [
+      "chạy xe đêm hồ tây"
+     ],
+     "links": [
+      "/du-lich/ho-tay/"
+     ]
+    },
+    {
+     "title": "Từ Hồ Tây vào phố cổ mất bao lâu bằng xe máy",
+     "intent": "Biết thời gian di chuyển Hồ Tây vào phố cổ",
+     "kw": "từ hồ tây vào phố cổ",
+     "kw2": [
+      "đường từ hồ tây vào trung tâm"
+     ],
+     "links": [
+      "/du-lich/ho-tay/",
+      "/du-lich/pho-co/"
+     ]
+    }
+   ]
+  },
+  "C-LONG-BIEN": {
+   "group": "DU-LICH",
+   "rows": [
+    {
+     "title": "Long Biên chạy xe máy: những cung đường đáng thử",
+     "intent": "Biết cung đường Long Biên đáng chạy",
+     "kw": "chạy xe long biên",
+     "kw2": [
+      "cung đường long biên",
+      "long biên đi đâu"
+     ],
+     "links": [
+      "/du-lich/long-bien/"
+     ]
+    },
+    {
+     "title": "Chợ đêm Long Biên và chỗ để xe",
+     "intent": "Biết chợ đêm Long Biên và để xe",
+     "kw": "chợ đêm long biên",
+     "kw2": [
+      "để xe chợ long biên"
+     ],
+     "links": [
+      "/du-lich/long-bien/",
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Từ Long Biên chạy ra khu ven sông Hồng",
+     "intent": "Biết đường ven sông từ Long Biên",
+     "kw": "ven sông hồng long biên",
+     "kw2": [
+      "đường đê long biên"
+     ],
+     "links": [
+      "/du-lich/long-bien/"
+     ]
+    },
+    {
+     "title": "Gia Lâm và các làng nghề gần đó chạy xe nửa ngày",
+     "intent": "Biết các làng nghề Gia Lâm đi nửa ngày",
+     "kw": "làng nghề gia lâm",
+     "kw2": [
+      "bát tràng gia lâm",
+      "cuộc đi nửa ngày gia lâm"
+     ],
+     "links": [
+      "/du-lich/long-bien/"
+     ]
+    },
+    {
+     "title": "Thuê xe ở Long Biên đi vào nội đô thuận tiện thế nào",
+     "intent": "Hiểu lợi thế thuê xe ở Long Biên",
+     "kw": "thuê xe long biên",
+     "kw2": [
+      "thuê xe máy gần long biên"
+     ],
+     "links": [
+      "/du-lich/long-bien/",
+      "/thue-xe/"
+     ]
+    }
+   ]
+  },
+  "C-NGOAI-THANH": {
+   "group": "DU-LICH",
+   "rows": [
+    {
+     "title": "Ba Vì nửa ngày bằng xe máy từ Hà Nội",
+     "intent": "Lên kế hoạch đi Ba Vì bằng xe máy",
+     "kw": "đi ba vì bằng xe máy",
+     "kw2": [
+      "ba vì nửa ngày",
+      "đường đi ba vì"
+     ],
+     "links": [
+      "/du-lich/ngoai-thanh/"
+     ]
+    },
+    {
+     "title": "Đường về Sơn Tây và Đường Làng Ước Mơ",
+     "intent": "Biết cung đường Sơn Tây",
+     "kw": "đường sơn tây",
+     "kw2": [
+      "cung đường ước mơ",
+      "chạy xe sơn tây"
+     ],
+     "links": [
+      "/du-lich/ngoai-thanh/"
+     ]
+    },
+    {
+     "title": "Đồng Mô và hồ Suối Hai chạy xe cuối tuần",
+     "intent": "Biết điểm cuối tuần Đồng Mô",
+     "kw": "đồng mô chạy xe",
+     "kw2": [
+      "hồ suối hai",
+      "điểm dã ngoại gần hà nội"
+     ],
+     "links": [
+      "/du-lich/ngoai-thanh/"
+     ]
+    },
+    {
+     "title": "Làng văn hóa các dân tộc và vườn quốc gia Ba Vì",
+     "intent": "Biết điểm tham quan Ba Vì",
+     "kw": "làng văn hóa ba vì",
+     "kw2": [
+      "vqg ba vì",
+      "điểm đến ba vì"
+     ],
+     "links": [
+      "/du-lich/ngoai-thanh/"
+     ]
+    },
+    {
+     "title": "Sóc Sơn và hồ Đồng Đò chạy xe tránh xa phố",
+     "intent": "Biết cung đường Sóc Sơn",
+     "kw": "chạy xe sóc sơn",
+     "kw2": [
+      "hồ đồng đò",
+      "đường sóc sơn"
+     ],
+     "links": [
+      "/du-lich/ngoai-thanh/"
+     ]
+    },
+    {
+     "title": "Đường đê sông Hồng chạy xe ngoại thành",
+     "intent": "Biết cung đường đê sông Hồng",
+     "kw": "đường đê sông hồng chạy xe",
+     "kw2": [
+      "chạy xe trên đê"
+     ],
+     "links": [
+      "/du-lich/ngoai-thanh/"
+     ]
+    }
+   ]
+  },
+  "C-CD-NOI-THANH": {
+   "group": "CUNG-DUONG",
+   "rows": [
+    {
+     "title": "Cung đường chạy xe vòng trung tâm Hà Nội sáng sớm",
+     "intent": "Biết cung đường sáng sớm nội đô",
+     "kw": "chạy xe sáng sớm hà nội",
+     "kw2": [
+      "cung đường nội đô",
+      "đi xe buổi sớm"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-noi-thanh/"
+     ]
+    },
+    {
+     "title": "Cung vòng Hồ Gươm - Hồ Tây một buổi chiều",
+     "intent": "Biết cung nối Hồ Gươm Hồ Tây",
+     "kw": "cung hồ gươm hồ tây",
+     "kw2": [
+      "đi xe liên hồ"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-noi-thanh/"
+     ]
+    },
+    {
+     "title": "Chạy xe dọc sông Hồng nội đô",
+     "intent": "Biết cung ven sông nội đô",
+     "kw": "chạy xe ven sông hồng",
+     "kw2": [
+      "cung ven đô",
+      "đường ven đê nội thành"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-noi-thanh/"
+     ]
+    },
+    {
+     "title": "Cung qua cầu Long Biên và quận Hà Đông",
+     "intent": "Biết cung Nam Từ Liêm Hà Đông",
+     "kw": "chạy xe hà đông",
+     "kw2": [
+      "cung cầu giấy hà đông"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-noi-thanh/"
+     ]
+    },
+    {
+     "title": "Cung nội thành cho người mới chạy lần đầu",
+     "intent": "Chọn cung dễ cho người mới",
+     "kw": "cung đường cho người mới",
+     "kw2": [
+      "chạy xe lần đầu hà nội"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-noi-thanh/",
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    }
+   ]
+  },
+  "C-CD-CUOI-TUAN": {
+   "group": "CUNG-DUONG",
+   "entities": [
+    {
+     "name": "Tam Cốc - Bích Động"
+    },
+    {
+     "name": "Chùa Hương"
+    },
+    {
+     "name": "Tràng An"
+    },
+    {
+     "name": "Cúc Phương"
+    },
+    {
+     "name": "Hồ Lục Quân"
+    },
+    {
+     "name": "Khu du lịch Đồng Mô"
+    },
+    {
+     "name": "Đảo Cốm và Bãi trước sông Đáy"
+    }
+   ],
+   "angles": [
+    {
+     "title": "Chạy xe từ Hà Nội đến {e} cuối tuần",
+     "intent": "Biết cung đường từ Hà Nội đến {e}",
+     "kw": "chạy xe đến {e}",
+     "kw2": [
+      "cung đường {e}",
+      "đi {e} bằng xe máy"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-cuoi-tuan/"
+     ]
+    },
+    {
+     "title": "Điểm nghỉ chân trên đường đến {e}",
+     "intent": "Biết điểm dừng trên đường đến {e}",
+     "kw": "nghỉ chân đường đi {e}",
+     "kw2": [
+      "điểm dừng {e}",
+      "cà phê trên đường {e}"
+     ],
+     "links": [
+      "/cung-duong/cung-duong-cuoi-tuan/"
+     ]
+    }
+   ]
+  },
+  "C-CD-MAI-CHAU": {
+   "group": "CUNG-DUONG",
+   "rows": [
+    {
+     "title": "Cung Hà Nội Mai Châu qua Cao tốc Hòa Bình",
+     "intent": "Biết cung đến Mai Châu",
+     "kw": "hà nội mai châu",
+     "kw2": [
+      "cung mai châu",
+      "mai châu bao xa"
+     ],
+     "links": [
+      "/cung-duong/mai-chau/"
+     ]
+    },
+    {
+     "title": "Tháng Mười và bản Lác Mai Châu nên đi lúc nào",
+     "intent": "Chọn thời điểm đi Mai Châu",
+     "kw": "mai châu nên đi tháng nào",
+     "kw2": [
+      "thời điểm mai châu",
+      "mùa lúa mai châu"
+     ],
+     "links": [
+      "/cung-duong/mai-chau/"
+     ]
+    },
+    {
+     "title": "Chạy xe máy qua đèo Thung Khe an toàn thế nào",
+     "intent": "Biết chạy đèo Thung Khe an toàn",
+     "kw": "đèo thung khe",
+     "kw2": [
+      "chạy đèo an toàn",
+      "đèo trên đường mai châu"
+     ],
+     "links": [
+      "/cung-duong/mai-chau/",
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Nghỉ ở Mai Châu khi đi bằng xe máy",
+     "intent": "Biết chỗ nghỉ Mai Châu",
+     "kw": "nghỉ mai châu",
+     "kw2": [
+      "homestay mai châu"
+     ],
+     "links": [
+      "/cung-duong/mai-chau/"
+     ]
+    }
+   ]
+  },
+  "C-CD-MOC-CHAU": {
+   "group": "CUNG-DUONG",
+   "rows": [
+    {
+     "title": "Cung Hà Nội Mộc Châu qua quốc lộ 6",
+     "intent": "Biết cung đến Mộc Châu",
+     "kw": "hà nội mộc châu",
+     "kw2": [
+      "cung mộc châu",
+      "mộc châu bao xa"
+     ],
+     "links": [
+      "/cung-duong/moc-chau/"
+     ]
+    },
+    {
+     "title": "Mộc Châu mùa hoa mận trắng đi tháng mấy",
+     "intent": "Chọn mùa hoa Mộc Châu",
+     "kw": "mộc châu mùa hoa mận",
+     "kw2": [
+      "hoa mận mộc châu tháng mấy"
+     ],
+     "links": [
+      "/cung-duong/moc-chau/"
+     ]
+    },
+    {
+     "title": "Đồi chè Mộc Châu và cánh đồng nghiên",
+     "intent": "Biết điểm đến Mộc Châu",
+     "kw": "đồi chè mộc châu",
+     "kw2": [
+      "cánh đồng nghiên mộc châu"
+     ],
+     "links": [
+      "/cung-duong/moc-chau/"
+     ]
+    },
+    {
+     "title": "Chạy xe máy Mộc Châu trong 2 ngày",
+     "intent": "Lịch trình 2 ngày Mộc Châu",
+     "kw": "mộc châu 2 ngày",
+     "kw2": [
+      "lịch trình mộc châu"
+     ],
+     "links": [
+      "/cung-duong/moc-chau/"
+     ]
+    },
+    {
+     "title": "Đèo dốc trên đường Mộc Châu và cách vào số",
+     "intent": "Biết chạy dốc Mộc Châu",
+     "kw": "đèo mộc châu",
+     "kw2": [
+      "chạy dốc mộc châu",
+      "vào số khi xuống dốc"
+     ],
+     "links": [
+      "/cung-duong/moc-chau/",
+      "/xe-may/xe-so/"
+     ]
+    }
+   ]
+  },
+  "C-CD-HA-GIANG": {
+   "group": "CUNG-DUONG",
+   "rows": [
+    {
+     "title": "Chuẩn bị xe máy đi Hà Giang từ nhà xe thuê",
+     "intent": "Biết chuẩn bị xe đi Hà Giang",
+     "kw": "chuẩn bị xe đi hà giang",
+     "kw2": [
+      "xe máy đi hà giang",
+      "thuê xe đi hà giang"
+     ],
+     "links": [
+      "/cung-duong/ha-giang/",
+      "/thue-xe/"
+     ]
+    },
+    {
+     "title": "Cung tam giác Mậu Duệ Phó Bảng Lô Xô đi thế nào",
+     "intent": "Hiểc các cung chính Hà Giang",
+     "kw": "cung hà giang",
+     "kw2": [
+      "tam giác mậu",
+      "phó bảng",
+      "lô xô"
+     ],
+     "links": [
+      "/cung-duong/ha-giang/"
+     ]
+    },
+    {
+     "title": "Chạy đèo Mã Pí Lèng bằng xe số an toàn",
+     "intent": "Biết chạy Mã Pí Lèng an toàn",
+     "kw": "mã pí lèng xe máy",
+     "kw2": [
+      "chạy đèo hà giang",
+      "an toàn đèo mã pí lèng"
+     ],
+     "links": [
+      "/cung-duong/ha-giang/",
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Thẻ thông hành và giấy tờ khi đi Hà Giang",
+     "intent": "Biết thủ tục giấy tờ vùng biên Hà Giang",
+     "kw": "thẻ thông hành hà giang",
+     "kw2": [
+      "giấy tờ vùng biên"
+     ],
+     "links": [
+      "/cung-duong/ha-giang/",
+      "/an-toan-phap-ly/giay-to/"
+     ]
+    },
+    {
+     "title": "Xe ga đi được Hà Giang không",
+     "intent": "Đánh giá xe ga cho cung Hà Giang",
+     "kw": "xe ga đi hà giang",
+     "kw2": [
+      "xe ga đường núi"
+     ],
+     "links": [
+      "/cung-duong/ha-giang/",
+      "/xe-may/xe-ga/"
+     ]
+    }
+   ]
+  },
+  "C-CD-PHO-BAC": {
+   "group": "CUNG-DUONG",
+   "entities": [
+    {
+     "name": "Pác Bó và thác Bản Giốc Cao Bằng"
+    },
+    {
+     "name": "Ba Bể"
+    },
+    {
+     "name": "Yên Tử"
+    },
+    {
+     "name": "Côn Sơn - Kiếp Bạc"
+    },
+    {
+     "name": "Chùa Hương - Mỹ Đức"
+    },
+    {
+     "name": "Cửa Lò"
+    },
+    {
+     "name": "Sầm Sơn"
+    },
+    {
+     "name": "Thiên Cầm"
+    },
+    {
+     "name": "Kỳ Sơn và Hòa Bình thượng nguồn"
+    }
+   ],
+   "angles": [
+    {
+     "title": "Chạy xe máy từ Hà Nội lên {e}",
+     "intent": "Biết cung từ Hà Nội đến {e}",
+     "kw": "hà nội đến {e}",
+     "kw2": [
+      "chạy xe {e}",
+      "cung đường {e}"
+     ],
+     "links": [
+      "/cung-duong/cac-tinh-phia-bac/"
+     ]
+    },
+    {
+     "title": "Kinh nghiệm đường đến {e}: xăng và nghỉ",
+     "intent": "Biết kinh nghiệm tiếp tế trên đường {e}",
+     "kw": "kinh nghiệm đi {e}",
+     "kw2": [
+      "trạm xăng đường {e}",
+      "nghỉ đêm {e}"
+     ],
+     "links": [
+      "/cung-duong/cac-tinh-phia-bac/"
+     ]
+    }
+   ]
+  },
+  "C-KY-NANG-CO-BAN": {
+   "group": "KY-NANG",
+   "rows": [
+    {
+     "title": "Vào ga và trả ga mượt cho người mới",
+     "intent": "Tập thao tác ga cho người mới",
+     "kw": "cách vào ga xe máy",
+     "kw2": [
+      "nhả ga",
+      "thao tác ga"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Phanh trước phanh sau dùng thế nào",
+     "intent": "Hiểu kỹ thuật phanh",
+     "kw": "phanh trước phanh sau",
+     "kw2": [
+      "cách phanh xe máy",
+      "phanh an toàn"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Làm quen xe máy lạ trước khi lên đường",
+     "intent": "Biết cách làm quen xe mới",
+     "kw": "làm quen xe máy lạ",
+     "kw2": [
+      "chạy thử xe máy",
+      "đọc vị xe lạ"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/",
+      "/thue-xe/nhan-tra-xe/"
+     ]
+    },
+    {
+     "title": "Ra vào làn đường đúng cách",
+     "intent": "Biết quy tắc chuyển làn",
+     "kw": "chuyển làn đường",
+     "kw2": [
+      "ra vào làn",
+      "nhường đường"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Quay đầu xe máy trong phố",
+     "intent": "Biết cách quay đầu an toàn",
+     "kw": "quay đầu xe máy",
+     "kw2": [
+      "quay xe trong phố",
+      "nơi cho quay đầu"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Giữ khoảng cách với xe container trong nội đô",
+     "intent": "Biết xử lý khi đi cạnh xe lớn",
+     "kw": "đi cạnh xe container",
+     "kw2": [
+      "góc mù xe tải",
+      "khoảng cách xe lớn"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Đề tanh và đề máy mùa đông",
+     "intent": "Biết mẹo đề máy mùa lạnh",
+     "kw": "đề máy mùa đông",
+     "kw2": [
+      "xe khó đề",
+      "đề xe mùa lạnh"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    }
+   ]
+  },
+  "C-KY-NANG-TINH-HUONG": {
+   "group": "KY-NANG",
+   "rows": [
+    {
+     "title": "Xử lý khi xe máy phía trước ngắt đầu",
+     "intent": "Biết phản xạ khi xe trước phanh gấp",
+     "kw": "xe trước phanh gấp",
+     "kw2": [
+      "ngắt đầu là gì",
+      "phản xạ lái xe"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Đi qua giao lộ không đèn xanh",
+     "intent": "Biết cách qua giao lộ không đèn",
+     "kw": "giao lộ không đèn",
+     "kw2": [
+      "nhường ai",
+      "giao lộ không tín hiệu"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Tránh góc mù xe tải ở vòng xuyến",
+     "intent": "Biết vòng xuyến với xe lớn",
+     "kw": "vòng xuyến xe tải",
+     "kw2": [
+      "góc mù vòng xuyến",
+      "qua vòng xuyến"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Lốp bị xì đang đi: giữ xe thế nào",
+     "intent": "Xử lý xì lốp khi đang chạy",
+     "kw": "lốp xe xì đang đi",
+     "kw2": [
+      "lốp xì giữa đường",
+      "xe mất lái"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Đi sau xe buýt đúng khoảng cách",
+     "intent": "Biết khoảng cách với xe buýt",
+     "kw": "đi sau xe buýt",
+     "kw2": [
+      "khoảng cách xe buýt"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Người đi bộ bỗng xuất hiện: cách phản ứng",
+     "intent": "Biết phản ứng với người đi bộ",
+     "kw": "người đi bộ băng đường",
+     "kw2": [
+      "phản xạ khi gặp người đi bộ"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Xe tải chuyển làn đột ngột tránh sao",
+     "intent": "Biết tránh xe chuyển làn đột ngột",
+     "kw": "xe tải chuyển làn",
+     "kw2": [
+      "tránh va xe lớn"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    }
+   ]
+  },
+  "C-KY-NANG-THOI-TIET": {
+   "group": "KY-NANG",
+   "rows": [
+    {
+     "title": "Chạy xe máy trời mưa lớn: giảm tốc và đèn",
+     "intent": "Biết chạy xe trong mưa lớn",
+     "kw": "chạy xe trời mưa",
+     "kw2": [
+      "lái xe mưa lớn",
+      "mưa to chạy xe"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Đường trơn và vũng nước qua thế nào",
+     "intent": "Biết xử lý đường trơn",
+     "kw": "đường trơn trượt",
+     "kw2": [
+      "vũng nước trên đường",
+      "đường ướt"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Sương mù sáng sớm trên đường đèo",
+     "intent": "Biết chạy trong sương mù",
+     "kw": "chạy xe sương mù",
+     "kw2": [
+      "mù trên đèo",
+      "tầm nhìn hạn chế"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Trời nắng gắt và say nắng khi chạy xe",
+     "intent": "Biết chống say nắng khi chạy xe",
+     "kw": "say nắng khi chạy xe",
+     "kw2": [
+      "chạy xe nắng gắt",
+      "mắt chói nắng"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/",
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Đường đá dăm và đường vùng núi",
+     "intent": "Biết chạy đường đá dăm",
+     "kw": "đường đá dăm",
+     "kw2": [
+      "đường vùng núi",
+      "đường sỏi đá"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Chạy xe ban đêm trong nội đô",
+     "intent": "Biết chạy xe đêm nội đô",
+     "kw": "chạy xe ban đêm",
+     "kw2": [
+      "đèn xe ban đêm",
+      "lái đêm hà nội"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    },
+    {
+     "title": "Gió lớn và cơn giông giữa đường",
+     "intent": "Biết xử lý gió giông",
+     "kw": "chạy xe gió lớn",
+     "kw2": [
+      "giông khi đang chạy xe"
+     ],
+     "links": [
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    }
+   ]
+  },
+  "C-KY-NANG-CHO-DO": {
+   "group": "KY-NANG",
+   "rows": [
+    {
+     "title": "Buộc đồ sau xe máy đúng cách",
+     "intent": "Biết cách buộc đồ phía sau",
+     "kw": "buộc đồ sau xe máy",
+     "kw2": [
+      "cột đồ lên xe",
+      "chở hành lý xe máy"
+     ],
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/"
+     ]
+    },
+    {
+     "title": "Đeo ba lô khi chạy xe dài hay buộc sau",
+     "intent": "So sánh đeo balo với buộc đồ",
+     "kw": "đeo ba lô chạy xe",
+     "kw2": [
+      "balo hay buộc sau xe",
+      "đeo balo đi xa"
+     ],
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/"
+     ]
+    },
+    {
+     "title": "Chở người phía sau an toàn khi đi đôi",
+     "intent": "Biết chở người sau an toàn",
+     "kw": "chở người sau xe máy",
+     "kw2": [
+      "đi đôi xe máy",
+      "chở bạn cùng xe"
+     ],
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/",
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Hộp giữ mũ và đồ nhỏ trên xe ga",
+     "intent": "Biết chứa đồ nhỏ trên xe",
+     "kw": "hộp đồ xe máy",
+     "kw2": [
+      "chứa mũ bảo hiểm",
+      "hook mũ xe ga"
+     ],
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/"
+     ]
+    },
+    {
+     "title": "Cho đồ khi trời mưa: cách bọc kín",
+     "intent": "Biết bọc đồ khi mưa",
+     "kw": "bọc đồ trên xe mưa",
+     "kw2": [
+      "túi nilon đồ",
+      "che đồ khi mưa"
+     ],
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/",
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    }
+   ]
+  },
+  "C-KY-NANG-GUI-XE": {
+   "group": "KY-NANG",
+   "rows": [
+    {
+     "title": "Gửi xe máy quanh trung tâm giá và vị trí",
+     "intent": "Biết bãi gửi xe trung tâm",
+     "kw": "gửi xe máy trung tâm",
+     "kw2": [
+      "bãi xe quanh hồ gươm",
+      "giá gửi xe hà nội"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Gửi xe qua đêm có được không",
+     "intent": "Hiểu gửi xe qua đêm",
+     "kw": "gửi xe qua đêm",
+     "kw2": [
+      "để xe qua đêm hà nội"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Giữ xe máy an toàn trước nhà dân khu phố cổ",
+     "intent": "Biết để xe trước nhà phố cổ",
+     "kw": "giữ xe phố cổ",
+     "kw2": [
+      "để xe trước nhà dân",
+      "gửi xe phố cổ"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/",
+      "/du-lich/pho-co/"
+     ]
+    },
+    {
+     "title": "Chống trộm xe máy khi để ngoài đường",
+     "intent": "Biết chống trộm xe máy",
+     "kw": "chống trộm xe máy",
+     "kw2": [
+      "khóa xe máy",
+      "để xe ngoài đường"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Giữ mũ bảo hiểm khi xuống xe đi bộ",
+     "intent": "Biết cách giữ mũ khi rời xe",
+     "kw": "giữ mũ bảo hiểm",
+     "kw2": [
+      "mang mũ theo hay để trên xe",
+      "còng mũ"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Xe máy thuê để ở bãi gửi có an toàn không",
+     "intent": "Hiểu rủi ro khi để xe thuê ở bãi",
+     "kw": "để xe thuê ở bãi gửi",
+     "kw2": [
+      "trách nhiệm bãi gửi",
+      "xe thuê bị mất ở bãi"
+     ],
+     "links": [
+      "/ky-nang/gui-xe-va-giu-xe/",
+      "/thue-xe/su-co/"
+     ]
+    }
+   ]
+  },
+  "C-KY-NANG-SUC-KHOE": {
+   "group": "KY-NANG",
+   "rows": [
+    {
+     "title": "Uống nước và nghỉ đúng nhịp khi chạy xe đường dài",
+     "intent": "Biết nhịp nghỉ đường dài",
+     "kw": "nghỉ khi chạy xe đường dài",
+     "kw2": [
+      "uống nước khi chạy xe",
+      "mệt khi lái xe"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/"
+     ]
+    },
+    {
+     "title": "Chứng say xe khi ngồi sau và cách hạn chế",
+     "intent": "Hiểu say xe khi đi sau",
+     "kw": "say xe khi ngồi sau",
+     "kw2": [
+      "chống say xe máy"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/"
+     ]
+    },
+    {
+     "title": "Đau lưng và đau cổ khi chạy xe dài",
+     "intent": "Biết tư thế ngồi giảm đau lưng",
+     "kw": "đau lưng khi chạy xe",
+     "kw2": [
+      "tư thế ngồi xe máy",
+      "đau cổ chạy xe"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/"
+     ]
+    },
+    {
+     "title": "Chạy xe khi đang mệt hay thiếu ngủ: rủi ro",
+     "intent": "Hiểu rủi ro lái khi thiếu ngủ",
+     "kw": "chạy xe khi thiếu ngủ",
+     "kw2": [
+      "lái xe mệt"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/"
+     ]
+    },
+    {
+     "title": "Mũ bảo hiểm sạch và sức khỏe da đầu",
+     "intent": "Biết giữ mũ sạch",
+     "kw": "giữ mũ bảo hiểm sạch",
+     "kw2": [
+      "mũ bốc mùi",
+      "vệ sinh mũ bảo hiểm"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/"
+     ]
+    },
+    {
+     "title": "Ăn nhẹ trước chuyến xe dài buổi sáng",
+     "intent": "Biết chuẩn bị thể lực trước chuyến dài",
+     "kw": "ăn trước khi chạy xe dài",
+     "kw2": [
+      "chạy xe bụng đói"
+     ],
+     "links": [
+      "/ky-nang/suc-khoe-khi-lai-xe/"
+     ]
+    }
+   ]
+  },
+  "C-HD-GIA": {
+   "group": "HOI-DAP",
+   "rows": [
+    {
+     "title": "Thuê xe máy ở Hà Nội giá bao nhiêu một ngày",
+     "intent": "Trả lời nhanh câu hỏi giá thuê theo ngày",
+     "kw": "thuê xe máy hà nội bao nhiêu tiền 1 ngày",
+     "kw2": [
+      "giá thuê mỗi ngày"
+     ],
+     "links": [
+      "/bang-gia/",
+      "/hoi-dap/hoi-dap-gia/"
+     ]
+    },
+    {
+     "title": "Thuê xe tuần có rẻ hơn thuê ngày không",
+     "intent": "Trả lời so sánh giá tuần ngày",
+     "kw": "thuê xe tuần rẻ hơn không",
+     "kw2": [
+      "giá tuần so ngày"
+     ],
+     "links": [
+      "/bang-gia/",
+      "/thue-xe/thue-tuan/"
+     ]
+    },
+    {
+     "title": "Giá thuê xe máy có gồm mũ bảo hiểm không",
+     "intent": "Trả lời mũ bảo hiểm trong giá thuê",
+     "kw": "giá thuê có gồm mũ không",
+     "kw2": [
+      "mũ bảo hiểm kèm xe"
+     ],
+     "links": [
+      "/bang-gia/",
+      "/hoi-dap/hoi-dap-gia/"
+     ]
+    },
+    {
+     "title": "Có phát sinh thêm tiền nào ngoài giá niêm yết không",
+     "intent": "Trả lời khoản phát sinh ngoài giá",
+     "kw": "thuê xe có phát sinh gì",
+     "kw2": [
+      "phí ngoài giá thuê"
+     ],
+     "links": [
+      "/bang-gia/"
+     ]
+    },
+    {
+     "title": "Trẻ dưới bao nhiêu tuổi thuê xe được không",
+     "intent": "Trả lời điều kiện độ tuổi thuê xe",
+     "kw": "mấy tuổi được thuê xe máy",
+     "kw2": [
+      "độ tuổi thuê xe"
+     ],
+     "links": [
+      "/hoi-dap/hoi-dap-gia/",
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    }
+   ]
+  },
+  "C-HD-THU-TUC": {
+   "group": "HOI-DAP",
+   "rows": [
+    {
+     "title": "Thuê xe máy cần những giấy tờ gì",
+     "intent": "Trả lời nhanh giấy tờ thuê xe",
+     "kw": "thuê xe máy cần giấy tờ gì",
+     "kw2": [
+      "chứng minh nhân dân thuê xe"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/hoi-dap/hoi-dap-thu-tuc/"
+     ]
+    },
+    {
+     "title": "Chỉ có CCCD photo có thuê được xe không",
+     "intent": "Trả lời câu giấy tờ photo",
+     "kw": "cccd photo thuê xe được không",
+     "kw2": [
+      "giấy tờ bản photo"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/"
+     ]
+    },
+    {
+     "title": "Không có bằng lái có thuê được xe máy không",
+     "intent": "Trả lời thuê xe khi không bằng lái",
+     "kw": "không bằng lái thuê xe được không",
+     "kw2": [
+      "thuê xe không cần bằng"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Bao nhiêu tuổi mới được thuê xe máy",
+     "intent": "Trả lời giới hạn tuổi thuê xe",
+     "kw": "bao nhiêu tuổi được thuê xe",
+     "kw2": [
+      "tuổi thuê xe máy"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/"
+     ]
+    },
+    {
+     "title": "Đặt xe trước bao lâu thì nên",
+     "intent": "Trả lời thời điểm đặt xe",
+     "kw": "đặt xe trước bao lâu",
+     "kw2": [
+      "thuê xe gấp có được không"
+     ],
+     "links": [
+      "/lien-he/"
+     ]
+    }
+   ]
+  },
+  "C-HD-PHAP-LY": {
+   "group": "HOI-DAP",
+   "rows": [
+    {
+     "title": "Xe 50cc có cần bằng lái không",
+     "intent": "Trả lời nhanh bằng lái xe 50cc",
+     "kw": "xe 50cc cần bằng lái không",
+     "kw2": [
+      "thẻ 50cc"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/"
+     ]
+    },
+    {
+     "title": "Người nước ngoài bằng lái nước ngoài đi xe được không",
+     "intent": "Trả lời bằng lái cho khách quốc tế",
+     "kw": "bằng lái nước ngoài đi được không",
+     "kw2": [
+      "idl việt nam"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-phep-lai-xe/",
+      "/thue-xe/khach-quoc-te/"
+     ]
+    },
+    {
+     "title": "Chở 2 người trên xe máy có bị phạt không",
+     "intent": "Trả lời chở người trên xe",
+     "kw": "chở 2 người có phạt không",
+     "kw2": [
+      "chở người trên xe máy"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Xe máy thuê bị phạt nguội ai nộp phạt",
+     "intent": "Trả lời trách nhiệm phạt nguội xe thuê",
+     "kw": "phạt nguội xe thuê ai chịu",
+     "kw2": [
+      "người thuê hay cửa hàng"
+     ],
+     "links": [
+      "/an-toan-phap-ly/phat-nguoi/",
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Đi xe không mũ bảo hiểm phạt bao nhiêu",
+     "intent": "Trả lời mức phạt không mũ",
+     "kw": "không mũ bảo hiểm phạt bao nhiêu",
+     "kw2": [
+      "phạt không đội mũ"
+     ],
+     "links": [
+      "/an-toan-phap-ly/quy-dinh-giao-thong/"
+     ]
+    },
+    {
+     "title": "Xe thuê không có đăng ký xe có bị giữ không",
+     "intent": "Trả lời giấy tờ xe thiếu khi thuê",
+     "kw": "xe thuê không đăng ký xe",
+     "kw2": [
+      "thiếu giấy tờ xe thuê"
+     ],
+     "links": [
+      "/an-toan-phap-ly/giay-to/",
+      "/thue-xe/thu-tuc/"
+     ]
+    }
+   ]
+  },
+  "C-HD-CHON-XE": {
+   "group": "HOI-DAP",
+   "rows": [
+    {
+     "title": "Năm 2026 nên thuê xe số hay xe ga",
+     "intent": "Trả lời chọn xe số hay ga",
+     "kw": "nên thuê xe số hay xe ga",
+     "kw2": [
+      "xe nào dễ đi hơn"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/xe-may/xe-ga/"
+     ]
+    },
+    {
+     "title": "Người mới biết lái nên thuê xe nào",
+     "intent": "Trả lời xe cho người mới",
+     "kw": "người mới thuê xe nào",
+     "kw2": [
+      "xe dễ đi cho người mới"
+     ],
+     "links": [
+      "/xe-may/xe-50cc/",
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Nữ đi làm hằng ngày nên thuê xe gì",
+     "intent": "Trả lời xe cho nữ đi làm",
+     "kw": "xe máy cho nữ đi làm",
+     "kw2": [
+      "xe ga cho nữ"
+     ],
+     "links": [
+      "/xe-may/xe-ga/"
+     ]
+    },
+    {
+     "title": "Hai người đi du lịch nên thuê xe nào",
+     "intent": "Trả lời xe cho cặp đôi đi chơi",
+     "kw": "thuê xe cho 2 người",
+     "kw2": [
+      "xe mạnh chở 2 người"
+     ],
+     "links": [
+      "/xe-may/honda-air-blade/"
+     ]
+    },
+    {
+     "title": "Đi xa ngoài tỉnh nên thuê xe gì",
+     "intent": "Trả lời xe cho cung đường xa",
+     "kw": "đi xa nên thuê xe nào",
+     "kw2": [
+      "xe đường trường"
+     ],
+     "links": [
+      "/xe-may/xe-so/",
+      "/cung-duong/"
+     ]
+    },
+    {
+     "title": "Sinh viên nên thuê xe số hay đạp điện",
+     "intent": "Trả lời xe cho sinh viên",
+     "kw": "sinh viên thuê xe gì",
+     "kw2": [
+      "xe rẻ cho sinh viên"
+     ],
+     "links": [
+      "/xe-may/xe-dap-dien/"
+     ]
+    }
+   ]
+  },
+  "C-HD-SU-CO": {
+   "group": "HOI-DAP",
+   "rows": [
+    {
+     "title": "Xe thuê chết máy giữa đường gọi ai",
+     "intent": "Trả lời nhanh khi xe chết máy",
+     "kw": "xe thuê chết máy gọi ai",
+     "kw2": [
+      "cứu hộ xe thuê"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/lien-he/"
+     ]
+    },
+    {
+     "title": "Xe thuê bị thủng lốp ai sửa",
+     "intent": "Trả lời trách nhiệm thủng lốp",
+     "kw": "xe thuê thủng lốp",
+     "kw2": [
+      "thủng lốp ai chịu"
+     ],
+     "links": [
+      "/thue-xe/su-co/"
+     ]
+    },
+    {
+     "title": "Đổ nhầm xăng xe máy điện thì sao",
+     "intent": "Trả lời sự cố nạp sai xe điện",
+     "kw": "đổ nhầm xăng xe điện",
+     "kw2": [
+      "sự cố xe điện"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/xe-may/xe-dien/"
+     ]
+    },
+    {
+     "title": "Xe máy thuê phanh yếu phải làm gì",
+     "intent": "Trả lời khi phanh xe thuê yếu",
+     "kw": "phanh xe máy yếu",
+     "kw2": [
+      "phanh không ăn",
+      "séc xi phanh"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/xe-may/bao-duong-xe/"
+     ]
+    },
+    {
+     "title": "Xe máy ướt nước mưa ngập đề không nổ",
+     "intent": "Trả lời xe đã chết máy sau mưa",
+     "kw": "xe chết máy sau mưa",
+     "kw2": [
+      "xe ngập nước đề không",
+      "xử lý xe ướt"
+     ],
+     "links": [
+      "/thue-xe/su-co/",
+      "/ky-nang/thoi-tiet-va-duong-sa/"
+     ]
+    }
+   ]
+  },
+  "C-HD-NGUOI-MOI": {
+   "group": "HOI-DAP",
+   "rows": [
+    {
+     "title": "Lần đầu thuê xe máy nên chuẩn bị gì",
+     "intent": "Trả lời chuẩn bị lần đầu thuê",
+     "kw": "lần đầu thuê xe máy",
+     "kw2": [
+      "chuẩn bị gì khi thuê xe lần đầu"
+     ],
+     "links": [
+      "/thue-xe/thu-tuc/",
+      "/hoi-dap/hoi-dap-nguoi-moi/"
+     ]
+    },
+    {
+     "title": "Chưa từng đi xe máy có nên thuê ngày đầu ở Hà Nội",
+     "intent": "Trả lời băn khoăn người chưa biết lái",
+     "kw": "chưa biết lái có nên thuê xe",
+     "kw2": [
+      "học xe trước khi thuê"
+     ],
+     "links": [
+      "/ky-nang/ky-nang-lai-co-ban/"
+     ]
+    },
+    {
+     "title": "Đi xe máy Hà Nội đáng sợ thật không",
+     "intent": "Trả lời lo lắng giao thông Hà Nội",
+     "kw": "đi xe ở hà nội có đáng sợ không",
+     "kw2": [
+      "giao thông hà nội khó đi"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/"
+     ]
+    },
+    {
+     "title": "Một mình nữ thuê xe máy an toàn không",
+     "intent": "Trả lời an toàn cho nữ đi một mình",
+     "kw": "nữ đi xe máy một mình",
+     "kw2": [
+      "an toàn cho nữ"
+     ],
+     "links": [
+      "/ky-nang/tinh-huong-giao-thong/",
+      "/ky-nang/gui-xe-va-giu-xe/"
+     ]
+    },
+    {
+     "title": "Ba lô và đồ đạc lần đầu thuê xe nên mang gì",
+     "intent": "Trả lời chuẩn bị đồ đạc khi thuê",
+     "kw": "mang gì khi thuê xe máy",
+     "kw2": [
+      "đồ cần mang đi thuê xe"
+     ],
+     "links": [
+      "/ky-nang/cho-do-va-hanh-ly/"
+     ]
+    },
+    {
+     "title": "Tài xế mới với biển báo khó hiểu",
+     "intent": "Trả lời biển báo cho người mới",
+     "kw": "biển báo cho người mới",
+     "kw2": [
+      "đọc biển báo lần đầu"
+     ],
+     "links": [
+      "/an-toan-phap-ly/bien-bao/"
+     ]
+    }
+   ]
+  }
+ }
+}

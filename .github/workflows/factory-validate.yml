@@ -43,14 +43,24 @@ jobs:
             exit 1
           fi
 
-      - name: Manifest smoke test (BLOCKED is expected while matrix is missing)
+      - name: Generate matrix (must be idempotent, committed file wins)
         run: |
-          set +e
-          python3 scripts/factory/manifest.py --id BLG-00484
-          code=$?
-          if [ $code -eq 1 ]; then
-            echo "FAIL: manifest.py lỗi không lường trước."; exit 1
+          python3 scripts/factory/generate-matrix.py
+          if [ -n "$(git status --porcelain data/content-matrix.csv reports/factory/matrix-report.md)" ]; then
+            echo "FAIL: generate-matrix.py sinh ra khác biệt với tệp đã commit."
+            git status --porcelain data/content-matrix.csv reports/factory/matrix-report.md
+            exit 1
           fi
+
+      - name: Manifest smoke test (matrix TẠO MỚI)
+        run: |
+          python3 scripts/factory/manifest.py --id BLG-00484 | grep -q "article_id" \
+            || { echo "FAIL: manifest.py không sinh được manifest."; exit 1; }
+
+      - name: Factory tests (resume giữ tiến độ + publish gate từ chối bài lỗi)
+        run: |
+          python3 scripts/factory/tests/test_reports_resume.py
+          python3 scripts/factory/tests/test_publish_gate.py
 
       - name: Build site (Jekyll, same engine family as Pages)
         uses: actions/jekyll-build-pages@v1
@@ -75,14 +85,12 @@ jobs:
             echo "FAIL: liên kết chủ đề thiếu baseurl /blog."; exit 1
           fi
 
-      - name: Validate foundation (exit 0 PASS / 1 FAIL / 2 BLOCKED - last step on purpose)
+      - name: Validate foundation (exit 0 PASS / 1 FAIL - last step on purpose)
         run: |
           set +e
           python3 scripts/factory/validate.py
           code=$?
-          if [ $code -eq 1 ]; then
-            echo "FAIL: validator nền tảng lỗi."; exit 1
-          elif [ $code -eq 2 ]; then
-            echo "::error title=MATRIX BLOCKED::data/content-matrix.csv còn thiếu — CI cố ý đỏ cho tới khi matrix được khôi phục hoặc chủ xe duyệt tái sinh (xem reports/factory/matrix-recovery-blocked.md)"
+          if [ $code -ne 0 ]; then
+            echo "FAIL: validator nền tảng (mã $code)."
             exit 1
           fi

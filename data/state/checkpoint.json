@@ -1,18 +1,20 @@
 {
-  "factory_version": 1,
+  "factory_version": 2,
   "capacity": 10000,
   "updated_at": "2026-09-20T00:00:00+00:00",
   "last_run_id": "restore-foundation-2026-09-20",
   "status": "PARTIAL_BLOCKED",
-  "matrix_status": "BLOCKED_MISSING",
+  "matrix_status": "PRESENT_CREATED_NEW",
+  "matrix_note": "TẠO MỚI 2026-09-27 theo phê duyệt của chủ xe từ seed đã kiểm chứng — KHÔNG PHẢI KHÔI PHỤC NGUYÊN BẢN. Bằng chứng: reports/factory/matrix-recovery-blocked.md.",
   "last_completed_article_id": null,
   "last_batch_id": null,
-  "next_claimable_id": null,
+  "next_claimable_id": "BLG-00484",
+  "in_progress_chunk": null,
   "counts": {
     "legacy_total": 483,
     "existing": 473,
     "review": 10,
-    "planned": null,
+    "planned": 350,
     "writing": 0,
     "qa": 0,
     "pass": 0,
@@ -21,9 +23,10 @@
     "blocked": 0,
     "fail": 0
   },
-  "resume_point": "BLOCKED: data/content-matrix.csv chưa từng được commit nên không thể khôi phục (bằng chứng: reports/factory/matrix-recovery-blocked.md). Chưa nhận được hàng PLANNED nào. Việc có thể làm không phụ thuộc matrix: audit 10 hàng legacy REVIEW theo cặp trong docs/SEO-OWNERS.md; sửa link/hub/SEO; quyết định của chủ xe về tái sinh matrix từ seed data/state/taxonomy-config.json (là matrix MỚI, phải được duyệt, không phải khôi phục).",
+  "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận chunk tối đa 10 hàng PLANNED bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart.",
   "rules": {
     "max_chunk": 10,
-    "publish_requires": "QUALITY>=90 AND SEO>=90 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE"
+    "publish_requires": "QUALITY>=90 AND SEO>=90 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE",
+    "evidence": "data/qa/<BLG-ID>.json (bắt buộc khi promote, kiểm bởi scripts/factory/publish-gate.py)"
   }
 }

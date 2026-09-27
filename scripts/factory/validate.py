@@ -12,7 +12,8 @@ Kiểm tra theo thứ tự, báo thiếu tệp rõ ràng thay vì crash:
   4. _data/factory-taxonomy.yml và _data/factory-map.yml khớp taxonomy/inventory.
   5. Trang hub công khai cho mọi child có bài; frontmatter đúng.
   6. State + report phản ánh đúng số liệu thực (không nhận PASS tay).
-  7. data/content-matrix.csv nếu có: kiểm tra toàn bộ như cũ (ID, batch, canonical...).
+  7. data/content-matrix.csv (schema TẠO MỚI): ID/URL/canonical duy nhất,
+     legacy 483 hàng khớp inventory, 10 REVIEW không bị đổi, PLANNED đủ dữ liệu.
 """
 import csv, json, os, re, sys, collections
 
@@ -25,29 +26,31 @@ def blocked(m): BLOCKED.append(m)
 REQUIRED = [
     'data/content-taxonomy.json',
     'data/content-inventory.csv',
+    'data/content-matrix.csv',
     'data/state/checkpoint.json',
     'data/state/writer-lock.json',
     'data/state/transaction.json',
     'data/state/taxonomy-config.json',
     'data/state/existing-map.json',
+    'data/state/matrix-seed.json',
     'data/business-facts.json',
     'reports/factory/progress.json',
     'reports/factory/latest.md',
     'reports/factory/content-hierarchy.md',
     'reports/factory/inventory-summary.md',
+    'reports/factory/matrix-report.md',
     'reports/factory/matrix-recovery-blocked.md',
     'reports/factory/policy-conflicts.md',
     'docs/mistral/README.md', 'docs/CONTENT-FACTORY.md', 'docs/ARTICLE-RULES.md',
     'docs/TAXONOMY.md', 'docs/SEO-OWNERSHIP.md', 'docs/RECOVERY.md',
     'scripts/factory/validate.py', 'scripts/factory/manifest.py',
     'scripts/factory/restore-foundation.py', 'scripts/factory/generate-reports.py',
+    'scripts/factory/generate-matrix.py', 'scripts/factory/publish-gate.py',
     '_data/factory-taxonomy.yml', '_data/factory-map.yml',
 ]
 for p in REQUIRED:
     if not os.path.exists(p):
-        if p in ('data/content-matrix.csv',):
-            continue
-        err('THIẾU TỆP NỀN TẢNG: %s (chạy: python3 scripts/factory/restore-foundation.py)' % p)
+        err('THIẾU TỆP NỀN TẢNG: %s (chạy: python3 scripts/factory/restore-foundation.py và generate-matrix.py)' % p)
 
 if ERRORS:
     print('=== VALIDATE FOUNDATION ===')
@@ -123,7 +126,13 @@ try:
     miss = [u for u in inv_urls if u not in live]
     if miss:
         err('%d/%d URL legacy không khớp sitemap công khai (ví dụ: %s)' % (len(miss), len(inv_urls), sorted(miss)[0]))
-    extra = [u for u in live if '/2026/' in u and u not in inv_urls]
+    allowed_new = set()
+    if os.path.exists('data/content-matrix.csv'):
+        with open('data/content-matrix.csv', encoding='utf-8', newline='') as f:
+            for mr in csv.DictReader(f):
+                if mr['status'] == 'PUBLISHED' and mr['source'].startswith('planned:') and '{date}' not in mr['expected_url']:
+                    allowed_new.add('https://thuexemayhanoi.github.io' + up.quote(mr['expected_url'], safe='/:'))
+    extra = [u for u in live if '/2026/' in u and u not in inv_urls and u not in allowed_new]
     if extra:
         err('sitemap có %d URL bài không nằm trong inventory (ví dụ: %s)' % (len(extra), sorted(extra)[0]))
 except Exception as e:
@@ -163,47 +172,48 @@ if lock.get('locked') is not False: warn('writer-lock đang bị giữ: kiểm t
 txn = json.load(open('data/state/transaction.json', encoding='utf-8'))
 if txn.get('active'): err('transaction đang treo active=true — cần recover trước khi sản xuất')
 
-# ---------------- 7. matrix (nếu có)
+# ---------------- 7. matrix (schema TẠO MỚI - generate-matrix.py)
 MATRIX = 'data/content-matrix.csv'
 mstat = None
 if os.path.exists(MATRIX):
     with open(MATRIX, encoding='utf-8', newline='') as f:
-        rows = list(csv.DictReader(f))
-    if len(rows) != 10000: err('matrix số hàng != 10000: %d' % len(rows))
-    ids = [r['id'] for r in rows]
-    expected = ['BLG-%05d' % i for i in range(1, 10001)]
-    if ids != expected: err('matrix ID không phải BLG-00001..BLG-10000 đúng thứ tự')
-    dupc = [k for k, v in collections.Counter(r['canonical_url'] for r in rows).items() if v > 1]
-    if dupc: err('matrix canonical_url trùng: %d' % len(dupc))
-    batches = collections.Counter(r['batch_id'] for r in rows)
-    if len(batches) != 200: err('matrix số batch != 200: %d' % len(batches))
-    for i, r in enumerate(rows):
-        if r['batch_id'] != 'BATCH-%03d' % (i // 50 + 1):
-            err('matrix batch sai thứ tự tại %s' % r['id']); break
+        mrows = list(csv.DictReader(f))
+    mstat = collections.Counter(r['status'] for r in mrows)
     stat_valid = {'PLANNED','WRITING','QA','PASS','PUBLISHED','REVIEW','REPAIR','BLOCKED','FAIL','EXISTING'}
-    mstat = collections.Counter()
-    can_seen = {}
-    for r in rows:
+    ids = [r['id'] for r in mrows]
+    if len(set(ids)) != len(ids): err('matrix id trùng')
+    for key in ('output_path','canonical_url'):
+        vals = [r[key] for r in mrows]
+        if len(set(vals)) != len(vals): err('matrix %s trùng' % key)
+    legacy = [r for r in mrows if r['source'].startswith('legacy:')]
+    if len(legacy) != len(inv): err('matrix legacy rows != inventory: %d/%d' % (len(legacy), len(inv)))
+    inv_by_slug = {r['slug']: r for r in inv}
+    for r in legacy:
+        iv = inv_by_slug.get(os.path.basename(r['output_path'])[11:-3])
+        if not iv: err('matrix legacy không khớp inventory: %s' % r['id']); break
+        if r['expected_url'] != iv['current_url'] or r['canonical_url'] != iv['current_url']:
+            err('matrix legacy URL đổi so với inventory: %s' % r['id']); break
+        if r['status'] not in ('EXISTING','REVIEW'):
+            err('matrix legacy status phải EXISTING/REVIEW: %s=%s' % (r['id'], r['status'])); break
+    rv = [r for r in legacy if r['status']=='REVIEW']
+    if len(rv) != 10: err('matrix REVIEW legacy phải đúng 10 hàng (không tự PASS), có %d' % len(rv))
+    for r in mrows:
         if r['status'] not in stat_valid: err('matrix status không hợp lệ: %s' % r['status'])
-        mstat[r['status']] += 1
         if r['parent_id'] not in parents or r['child_id'] not in children:
             err('matrix parent/child không hợp lệ tại %s' % r['id'])
-        k = r['cannibalization_key']
-        if k in can_seen:
-            if r['status'] == 'PLANNED': err('PLANNED %s trùng cannibalization_key với %s' % (r['id'], can_seen[k]))
-            else: warn('cannibalization REVIEW: %s và %s' % (can_seen[k], r['id']))
-        else:
-            can_seen[k] = r['id']
         if r['status'] == 'PLANNED':
-            p, c = parents[r['parent_id']], children[r['child_id']]
-            want = '/%s/%s/%s/' % (p['slug'], c['slug'], r['slug'])
-            if r['output_path'] != want: err('matrix output_path sai tại %s' % r['id'])
-            if r['canonical_url'] != 'https://thuexemayhanoi.github.io/blog' + want:
-                err('matrix canonical_url sai tại %s' % r['id'])
-    if cp['counts'].get('existing') != mstat.get('EXISTING', 0) + mstat.get('PUBLISHED', 0) + mstat.get('REVIEW', 0):
-        err('checkpoint lệch trạng thái matrix')
+            if not r['intent'].strip() or not r['primary_keyword'].strip() or not r['internal_links'].strip():
+                err('PLANNED %s thiếu intent/từ khóa/liên kết nội bộ' % r['id'])
+            ch = children[r['child_id']]
+            if r['source_required'] != str(ch['source_required']).lower():
+                err('PLANNED %s source_required lệch taxonomy' % r['id'])
+            if r['legal_risk'] != ch['legal_risk']:
+                err('PLANNED %s legal_risk lệch taxonomy' % r['id'])
+    if cp['counts'].get('existing') != mstat.get('EXISTING', 0): err('checkpoint existing lệch matrix')
+    if cp['counts'].get('review') != mstat.get('REVIEW', 0): err('checkpoint review lệch matrix')
+    if cp['counts'].get('planned') != mstat.get('PLANNED', 0): err('checkpoint planned lệch matrix')
 else:
-    blocked('data/content-matrix.csv THIẾU — chưa từng được commit, không thể khôi phục. Bằng chứng và hướng xử lý: reports/factory/matrix-recovery-blocked.md. Không nhận hàng PLANNED. Đây là BLOCKED có chủ đích, không phải PASS.')
+    blocked('data/content-matrix.csv THIẾT — không thể khôi phục bản gốc. Bằng chứng: reports/factory/matrix-recovery-blocked.md. Đây là BLOCKED có chủ đích, không phải PASS.')
 
 print('=== VALIDATE FOUNDATION ===')
 print('Taxonomy: %d parent / %d child | Inventory: %d bài legacy | Matrix: %s' % (

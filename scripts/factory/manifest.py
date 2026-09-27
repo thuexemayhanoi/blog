@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """Sinh manifest cho một hàng ma trận - BLOG FACTORY.
 Chạy: python3 scripts/factory/manifest.py --id BLG-00484
-Manifest là dữ liệu bắt buộc writer phải tuân theo: category/parent/child/
-canonical/output_path KHÔNG được tự bịa.
+Manifest là dữ liệu bắt buộc writer phải tuân theo: parent/child/canonical/
+output_path KHÔNG được tự bịa. Schema matrix TẠO MỚI (generate-matrix.py).
 """
 import argparse, csv, json, sys, os
 
@@ -12,8 +12,8 @@ def main():
     ap.add_argument('--id', required=True, help='BLG-XXXXX')
     args = ap.parse_args()
     if not os.path.exists('data/content-matrix.csv'):
-        print('BLOCKED: data/content-matrix.csv THIẾT — chưa từng được commit, không thể khôi phục '
-              '(xem reports/factory/matrix-recovery-blocked.md). Không sinh manifest cho hàng PLANNED.')
+        print('BLOCKED: data/content-matrix.csv THIẾT — không thể khôi phục bản gốc '
+              '(xem reports/factory/matrix-recovery-blocked.md).')
         sys.exit(2)
     tax = json.load(open('data/content-taxonomy.json', encoding='utf-8'))
     parents = {p['parent_id']: p for p in tax['parents']}
@@ -27,36 +27,30 @@ def main():
                     'article_id': r['id'],
                     'status': r['status'],
                     'title': r['title'],
+                    'intent': r['intent'],
                     'primary_keyword': r['primary_keyword'],
-                    'secondary_keywords': r['secondary_keywords'].split('|') if r['secondary_keywords'] else [],
-                    'search_intent': r['search_intent'],
+                    'secondary_keywords': r['secondary_keywords'].split('; ') if r['secondary_keywords'] else [],
+                    'group': r['group'],
                     'parent_id': r['parent_id'],
                     'parent_hub': p['title'],
                     'parent_hub_url': p['hub_url'],
                     'child_id': r['child_id'],
                     'child_hub': c['title'],
                     'child_hub_url': c['hub_url'],
-                    'audience': r['audience'],
-                    'location_scope': r['location_scope'],
                     'output_path': r['output_path'],
-                    'source_path': r['source_path'],
                     'canonical_url': r['canonical_url'],
-                    'breadcrumb_path': r['breadcrumb_path'],
-                    'internal_links': r['internal_links'].split('|') if r['internal_links'] else [],
-                    'commercial_target': '/bang-gia/' if r['commercial_intent'] in ('high', 'medium') else None,
+                    'internal_links': r['internal_links'].split('; ') if r['internal_links'] else [],
+                    'commercial_target': '/bang-gia/' if c['search_intent'] == 'commercial' else None,
                     'business_fact_policy': {
                         'source': 'data/business-facts.json',
-                        'rules': biz['content_rules'],
+                        'rules': biz.get('content_rules', biz),
                     },
-                    'source_requirement': r['source_required'],
-                    'legal_requirement': {
+                    'source_requirement': {
+                        'required': r['source_required'] == 'true',
                         'legal_risk': r['legal_risk'],
-                        'format': 'CLAIM -> SUBJECT -> CONDITION -> CURRENT RULE -> EFFECTIVE VERSION -> PRIMARY SOURCE' if r['source_required'] else 'NOT_REQUIRED',
+                        'format': 'CLAIM -> SUBJECT -> CONDITION -> QUY ĐỊNH HIỆN HÀNH -> PHIÊN BẢN CÓ HIỆU LỰC -> NGUỒN CHÍNH THỨC' if r['source_required'] == 'true' else 'NOT_REQUIRED',
                     },
-                    'word_target': int(r['word_target']),
-                    'batch_id': r['batch_id'],
-                    'cannibalization_key': r['cannibalization_key'],
-                    'notes': r['notes'],
+                    'notes': 'URL dự kiến chứa {date}: chốt ngày thật khi promote qua publish-gate.py.',
                 }, ensure_ascii=False, indent=2))
                 return
     sys.exit('Không tìm thấy %s trong data/content-matrix.csv' % args.id)
