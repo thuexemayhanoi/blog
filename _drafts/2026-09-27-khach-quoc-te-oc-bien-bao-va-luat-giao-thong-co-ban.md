@@ -41,7 +41,7 @@ Muốn hệ thống lại toàn bộ nhóm quy tắc, bạn có thể đọc t�
 
 Ba thói quen nhỏ tạo khác biệt lớn. Một là giữ khoảng cách với xe buýt khi chúng áp sát lề để đón khách, vì buýt luôn ưu tiên rà vào điểm dừng. Hai là không bấm còi liên tục như một số tài xế bản địa, mà dùng còi đúng lúc cần báo hiệu. Ba là giảm tốc về mức đi bộ khi qua chợ, cổng trường hay hẻm đông người, nơi người đi bộ thường cắt ngang.
 
-Ngoài ra hãy tranh thủ tập dượt trên đường ít xe trước khi qua cầu hoặc vào khu đông. Cách chuẩn bị cho chuyến đi bằng xe máy, kể cả việc kiểm tra xe trước mỗi chuyến, được mô t trong bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh-nghiem/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Quy tắc hiện hành có thể được sửa đổi theo thời gian, nên bạn cũng nên đối chiếu văn bản mới nhất trước chuyến đi dài.
+Ngoài ra hãy tranh thủ tập dượt trên đường ít xe trước khi qua cầu hoặc vào khu đông. Cách chuẩn bị cho chuyến đi bằng xe máy, kể cả việc kiểm tra xe trước mỗi chuyến, được mô t trong bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Quy tắc hiện hành có thể được sửa đổi theo thời gian, nên bạn cũng nên đối chiếu văn bản mới nhất trước chuyến đi dài.
 
 ## Tóm tắt cho người mới lái xe ở Hà Nội
 

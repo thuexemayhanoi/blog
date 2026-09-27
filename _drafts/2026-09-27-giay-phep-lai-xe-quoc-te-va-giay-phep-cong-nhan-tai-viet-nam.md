@@ -43,7 +43,7 @@ Giờ làm việc của cửa hàng là 09:00–21:00 hằng ngày tại 112 Ngu
 
 Trường hợp giấy phép không phù hợp, bạn vẫn có vài lựa chọn thực tế. Một là chuyển sang xe đạp điện hoặc xe máy điện phân khối nhỏ nếu đúng nhu cầu di chuyển gần, sau khi hỏi chủ xe về điều kiện cụ thể. Hai là dùng phương án di chuyển khác cho những chặng xa và chỉ thuê xe máy ở những chặng bạn đủ điều kiện lái.
 
-Ba là học hỏi từ những khách đã đi trước: cách đặt xe từ xa qua Zalo được mô t chi tiết trong bài [đặt xe máy trước từ xa](/blog/chia-se/2026/09/18/cach-dat-xe-may-truoc-tu-xa/), trong đó có cả việc gửi giấy tờ chụp sẵn để chủ xe duyệt trước.
+Ba là học hỏi từ những khách đã đi trước: cách đặt xe từ xa qua Zalo được mô t chi tiết trong bài [đặt xe máy trước từ xa](/blog/chia sẻ/2026/09/18/cach-dat-xe-may-truoc-tu-xa/), trong đó có cả việc gửi giấy tờ chụp sẵn để chủ xe duyệt trước.
 
 Điều nên tránh là mượn giấy phép của người khác hoặc thuê xe ở chỗ không hỏi giấy tờ. Hai tình huống này đều tạo rủi ro cho chính bạn khi lưu thông trên đường.
 

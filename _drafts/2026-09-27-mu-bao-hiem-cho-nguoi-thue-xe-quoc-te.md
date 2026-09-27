@@ -37,7 +37,7 @@ Ngoài ra đừng quên vệ sinh lớp lót trước khi dùng: một lớp ló
 
 Với người ngồi sau, thường là bạn cùng đi trong nhóm, hãy kiểm tra mũ cho họ như kiểm tra cho chính mình. Trẻ em đi kèm cần mũ cỡ nhỏ và luôn ngồi giữa hai người lớn trên xe, theo quy tắc an toàn hiện hành. Nếu bạn định chở thêm người, hỏi trước chủ xe xem xe thuê có đủ điều kiện chở hai người an toàn không.
 
-Trước mỗi chuyến đi dài, việc kiểm tra tổng thể xe và trang bị được tóm tắt trong bài [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh-nghiem/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), trong đó mũ luôn là mục đầu tiên.
+Trước mỗi chuyến đi dài, việc kiểm tra tổng thể xe và trang bị được tóm tắt trong bài [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), trong đó mũ luôn là mục đầu tiên.
 
 ## Mũ, trời nóng và câu hỏi thực tế của khách quốc tế
 

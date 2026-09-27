@@ -21,7 +21,7 @@ Nếu bạn mới bắt đầu tìm hiểu, hãy mở chuyên mục [thuê xe ch
 
 Giấy tờ đầu tiên và không thể thay thế là hộ chiếu còn hiệu lực, kèm thị thực hoặc giấy tờ nhập cảnh phù hợp. Cửa hàng cần hộ chiếu để xác minh danh tính như với căn cước của khách nội địa. Giấy tờ thứ hai là giấy phép lái xe phù hợp với loại xe định thuê: giấy phép lái xe quốc tế theo công ước, giấy phép Việt Nam nếu có, hoặc bản dịch công chứng đi kèm giấy phép nước ngoài tùy yêu cầu từng cửa hàng.
 
-Giấy tờ thứ ba là giấy tờ xác nhận nơi lưu trú, như thẻ khách sạn hoặc xác nhận tạm trú. Không phải cửa hàng nào cũng đòi nhóm này, nhưng khi có tranh chấp hay cần liên hệ gấp, địa chỉ lưu trú là thông tin đầu tiên được tra. Chi tiết về loại giấy phép được công nhận được tách riêng trong bài [giấy phép lái xe quốc tế tại Việt Nam](/blog/thue-xe/2026/09/27/giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam/), bạn nên đọc trước khi chuẩn bị hồ sơ.
+Giấy tờ thứ ba là giấy tờ xác nhận nơi lưu trú, như thẻ khách sạn hoặc xác nhận tạm trú. Không phải cửa hàng nào cũng đòi nhóm này, nhưng khi có tranh chấp hay cần liên hệ gấp, địa chỉ lưu trú là thông tin đầu tiên được tra. Yêu cầu về loại giấy phép lái được chấp nhận được tách riêng trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), bạn nên đọc trước khi chuẩn bị hồ sơ.
 
 Cuối cùng là biên nhận thuê xe, văn bản do cửa hàng viết khi giao xe, ghi rõ tên xe, biển số, giờ giao và giờ trả. Đây là thứ bạn nên giữ kỹ suốt kỳ thuê.
 
@@ -35,7 +35,7 @@ Nếu buộc phải để lại giấy tờ, hãy chọn loại ít dùng nhất
 
 Một biên nhận viết rõ ràng giúp bạn tránh rắc rối sau này. Khi ký, hãy chắc chắn biên nhận ghi: họ tên người thuê và số hộ chiếu, biển số xe, giờ nhận giờ trả, tình trạng xe khi giao, mũ bảo hiểm kèm theo, và điều khoản về hỏng hóc. Nếu có điểm nào không ghi, đề nghị bổ sung trước khi ký. Với khách quốc tế, một bản song ngữ là điều nên yêu cầu ngay từ đầu.
 
-Cách soạn một cuộc thuê suôn sẻ, kể cả gửi giấy tờ chụp trước qua Zalo, được mô t trong bài [đặt xe máy trước từ xa](/blog/chia-se/2026/09/18/cach-dat-xe-may-truoc-tu-xa/). Trình tự chuẩn bị khi đến nhận xe nằm trong [thủ tục thuê xe máy ở Hà Nội](/blog/kinh-nghiem/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/), áp dụng được cho cả khách quốc tế với vài điểm khác về giấy tờ như bài này đã nêu.
+Cách soạn một cuộc thuê suôn sẻ, kể cả gửi giấy tờ chụp trước qua Zalo, được mô t trong bài [đặt xe máy trước từ xa](/blog/chia sẻ/2026/09/18/cach-dat-xe-may-truoc-tu-xa/). Trình tự chuẩn bị khi đến nhận xe nằm trong [thủ tục thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/), áp dụng được cho cả khách quốc tế với vài điểm khác về giấy tờ như bài này đã nêu.
 
 ## Giữ giấy tờ an toàn suốt kỳ thuê
 

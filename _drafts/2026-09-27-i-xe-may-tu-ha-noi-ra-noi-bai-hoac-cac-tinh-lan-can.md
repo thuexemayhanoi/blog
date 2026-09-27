@@ -29,11 +29,11 @@ Với khách chưa quen đường trường Việt Nam, mỗi 45 đến 60 phút
 
 Trời nắng mạnh ở miền Bắc thường vào khung 11:00 đến 15:00, nên nếu được, hãy xuất phát sớm và nghỉ trưa ở điểm dừng. Đây cũng là dịp ghép các quán ăn địa phương vào lộ trình, thay vì cố chạy liên tục cho xong chặng.
 
-Trước mỗi chuyến đi xa, bạn nên làm quen quy trình chuẩn bị tổng thể như mô t trong bài [chọn loại xe cho chuyến đi dài](/blog/chia-se/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/), kể cả việc hỏi chủ xe xem dòng xe mình thuê bền thế nào cho quãng đường dự kiến.
+Trước mỗi chuyến đi xa, bạn nên làm quen quy trình chuẩn bị tổng thể như mô t trong bài [chọn loại xe cho chuyến đi dài](/blog/chia sẻ/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/), kể cả việc hỏi chủ xe xem dòng xe mình thuê bền thế nào cho quãng đường dự kiến.
 
 ## Chuẩn bị xe và giấy tờ cho chặng dài
 
-Xe thuê trong phố thường phù hợp chặng 30 đến 50 kilômét mỗi ngày. Khi định đi chặng dài, hãy nói rõ với chủ xe để được gợi ý dòng xe phù hợp, ví dụ xe số thay vì xe ga nếu lộ trình có đoạn đường xấu. Kiểm tra lốp trước khi nhận xe và mang theo số điện thoại cửa hàng để hỏi khi có dấu hiệu bất thường trên đường. Bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia-se/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/) liệt kê các triệu chứng không nên bỏ qua.
+Xe thuê trong phố thường phù hợp chặng 30 đến 50 kilômét mỗi ngày. Khi định đi chặng dài, hãy nói rõ với chủ xe để được gợi ý dòng xe phù hợp, ví dụ xe số thay vì xe ga nếu lộ trình có đoạn đường xấu. Kiểm tra lốp trước khi nhận xe và mang theo số điện thoại cửa hàng để hỏi khi có dấu hiệu bất thường trên đường. Bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/) liệt kê các triệu chứng không nên bỏ qua.
 
 Giấy tờ thì giữ bản cầm tay khi lưu thông ngoài thành phố: hộ chiếu, giấy phép lái xe được công nhận và biên nhận thuê xe. Ở các chốt giao thông trên quốc lộ, khách quốc tế lái xe máy có thể được kiểm tra giấy tờ như mọi người khác.
 
