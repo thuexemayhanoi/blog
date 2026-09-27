@@ -17,13 +17,14 @@ Với người đi lại chủ yếu trong nội thành, câu chuyện honda vis
 
 ## Nhẹ và nhỏ: lợi thế trong ngõ và chỗ để xe
 
-Điểm nổi nhất của Vision trong usage phố là kích thước: xe ngắn, hẹp, bán kính quay đầu nhỏ, nên vào ngõ hai mét vẫn xoay trở được, luồn qua các đoạn có xe đỗ hai bên mà không phải xuống đẩy. Trọng lượng nhẹ giúp xe dễ đẩy lên vỉa hè khi gửi xe vỉa hè dạng bậc, và cả với nhà trọ có bậc cao ở các phố cổ. Với người thuê ở khu Hoàn Kiếm, Hai Bà Trưng vốn thiếu chỗ để xe, một chiếc xe gọn luôn dễ sắp chỗ hơn hẳn xe lớn.
+Điểm nổi nhất của Vision trong sử dụng phố là kích thước: xe ngắn, hẹp, bán kính quay đầu nhỏ, nên vào ngõ hai mét vẫn xoay trở được, luồn qua các đoạn có xe đỗ hai bên mà không phải xuống đẩy. Trọng lượng nhẹ giúp xe dễ đẩy lên vỉa hè khi gửi xe vỉa hè dạng bậc, và cả với nhà trọ có bậc cao ở các phố cổ. Với người thuê ở khu Hoàn Kiếm, Hai Bà Trưng vốn thiếu chỗ để xe, một chiếc xe gọn luôn dễ sắp chỗ hơn hẳn xe lớn.
 
 Yên thấp là lợi thế thứ hai: dừng đèn đỏ ở phố là chuyện mỗi vài trăm mét, người lái đặt chân xuống liên tục; yên thấp cộng với trọng lượng nhẹ khiến mỗi lần dừng nhẹ nhàng, kể cả với người có vóc dáng nhỏ. Khả năng này làm Vision đặc biệt hợp với nhịp giao thông nội thành, nơi xe máy hiếm khi chạy trọn tốc độ và thời gian dừng chiếm tỷ lệ lớn hành trình. Tổng quan dòng xe ở [chủ đề Honda Vision](/blog/xe-may/honda-vision/).
 
 ## Thao tác xe ga trong nhịp dừng đi liên tục
 
-Xe ga không côn không số, nên trong nhịp dừng đi liên tục của phố, người lái chỉ việc thả ga, bóp phanh, rồi vặn ga đi lại, không có khâu về số hay bóp côn. Với buổi đi hằng ngày nhiều chặng, khác biệt về độ mỏi tay chân so với xe số là rõ rệt, và đây là lý do lớn nhất khiến dân phố chuộng xe ga. Ga của Vision phản ứng tuyến tính, vặn nhẹ đi nhẹ, phù hợp kiểu chạy nhích từng mét lúc tan tầm.
+Xe ga không côn không số, nên trong nhịp dừng đi liên tục 
+của phố, người lái chỉ việc thả ga, bóp phanh, rồi vặn ga đi lại, không có khâu về số hay bóp côn. Với buổi đi hằng ngày nhiều chặng, khác biệt về độ mỏi tay chân so với xe số là rõ rệt, và đây là lý do lớn nhất khiến dân phố chuộng xe ga. Ga của Vision phản ứng tuyến tính, vặn nhẹ đi nhẹ, phù hợp kiểu chạy nhích từng mét lúc tan tầm.
 
 Kèm theo đó là hai lưu ý của xe ga khi đường ướt hoặc sạn: bánh xe ga dễ trượt hơn nếu vặn ga gấp khi vừa buông phanh, nên trong phố mưa, giữ nguyên tắc ga mượt và phanh sớm. Ở các đoạn đang thi công nhiều sạn, giảm tốc trước và đi thẳng xe, tránh đổi hướng gấp giữa đoạn trơn. Các kỹ năng chạy phố và thời tiết đã được tổng hợp ở [mục kinh nghiệm](/blog/kinh-nghiem/) nếu bạn muốn đọc thêm cho đầy đủ.
 
@@ -31,11 +32,12 @@ Kèm theo đó là hai lưu ý của xe ga khi đường ướt hoặc sạn: b�
 
 Một buổi đi phố của người Hà Nội thường không chỉ có người: có túi hàng chợ, laptop, hộp cơm, áo mưa. Cốp dưới yên của Vision rộng so với thân xe, đủ cho mũ bảo hiểm nửa đầu cùng vài món đồ nhỏ, hoặc một túi hàng vừa nếu lấy mũ ra. Với nhu cầu chở nhiều hơn, treo móc trước hoặc buộc sau yên là hai vị trí hợp lý, và nhớ phân bố cân đối để không làm lệch tay lái. Nếu bạn hay chở đồ cồng kềnh, nên đọc thêm về [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/) để biết cách buộc chắc và những gì không nên treo vào xe.
 
-Ngược lại với ưu điểm cốp là tải trọng: xe nhẹ nên chở hai người lớn lên dốc cầu hoặc dốc hầm sẽ yếu hơn xe số, và đi hai trong phố đông cần giữ khoảng cách xa hơn khi phanh vì tải nặng khiến bánh ôm đất kém hơn. Nói chung, Vision hợp đi một người kèm đồ vừa phải, đúng kiểu usage phố phổ biến nhất.
+Ngược lại với ưu điểm cốp là tải trọng: xe nhẹ nên chở hai người lớn lên dốc cầu hoặc dốc hầm sẽ yếu hơn xe số, và đi hai trong phố đông cần giữ khoảng cách xa hơn khi phanh vì tải nặng khiến bánh ôm đất kém hơn. Nói chung, Vision hợp đi một người kèm đồ vừa phải, đúng kiểu sử dụng phố phổ biến nhất.
 
 ## Những quãng phố Vision thể hiện kém
 
-Thành thật mà nói, có vài tình huống phố mà dòng xe này không phải lựa chọn tốt nhất. Đoạn đường có ổ gà sâu liên tục: xe ga nhẹ với bánh nhỏ sẽ truyền rung lên người nhiều hơn xe số bánh lớn. Đoạn ngập nước sau mưa lớn: xe ga có ống gió thấp hơn, nên với các hầm ngập thường xuyên, cần đi chậm đều và tránh dòng xe lớn phun nước. Đoạn lên dốc chở nặng đã nói ở trên. Nếu lộ trình hằng ngày của bạn rơi nhiều vào các tình huống này, nên cân nhắc dòng khác hoặc hỏi ý kiến cửa hàng dựa trên cung đường thật của mình.
+Thành thật mà nói, có vài tình huống phố mà dòng xe này không phải lựa chọn tốt nhất. Đoạn đường có ổ gà sâu liên tục: xe ga nhẹ với bánh nhỏ sẽ truyền rung lên người nhiều hơn xe số bánh lớn. Đoạn ngập nước sau mưa lớn: xe ga có ống gió thấp hơn, nên với các hầm ngập thường xuyên, cần đi chậm đều và tránh dòng xe lớn phun nước. Đoạn lên dốc chở nặng đã
+ nói ở trên. Nếu lộ trình hằng ngày của bạn rơi nhiều vào các tình huống này, nên cân nhắc dòng khác hoặc hỏi ý kiến cửa hàng dựa trên cung đường thật của mình.
 
 Ba tình huống đó chiếm phần nhỏ trong tổng thể lộ trình nội thành, nên đa số người đi phố vẫn thấy Vision tiện hơn khó chịu. Điều đáng làm là mô tả đúng cung đường cho cửa hàng khi thuê: câu trả lời của tư vấn viên sẽ chính xác hơn bất kỳ bài viết chung nào.
 
