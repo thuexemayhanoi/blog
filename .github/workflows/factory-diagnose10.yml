@@ -1,7 +1,7 @@
 name: Factory Diagnose
 
 # TEMPORARY read-only diagnostic (pattern factory-diagnose1-9).
-# Chay scripts/factory/diagnose-publish.py (read-only) va commit evidence.
+# Chay scripts/factory/diagnose-publish.py va commit evidence.
 
 on:
   push:
@@ -25,18 +25,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      - name: Run read-only diagnose
+      - name: Run diagnose v8 (real op publish, restore after)
         run: |
           set +e
-          python3 scripts/factory/diagnose-publish.py > data/factory/diagnose-publish-dryrun.txt 2>&1
-          echo "diagnise_exit=$?"
+          python3 scripts/factory/diagnose-publish.py
+          echo "diagnose_exit=$?"
           cat data/factory/diagnose-publish-dryrun.txt
       - name: Commit evidence
         run: |
           git config user.name "factory-operator-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -f data/factory/diagnose-publish-dryrun.txt
-          git commit -m "factory: diagnose v3 post-promote simulation evidence (read-only)"
+          git commit -m "factory: diagnose v8 real op publish output evidence (read-only)"
           for i in 1 2 3; do
             git pull --rebase origin main || true
             if git push; then exit 0; fi
