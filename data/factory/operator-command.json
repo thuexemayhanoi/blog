@@ -1,0 +1,6 @@
+{
+  "op": "qa",
+  "ids": "BLG-00723,BLG-00724",
+  "command_id": "qa-chunk3-repair1-723-724",
+  "coordinator": "campaign10k-run1"
+}
