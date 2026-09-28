@@ -1,7 +1,7 @@
 name: factory-diagnose3
 
-# CHE DO DOC THOAT (read-only diagnostic) — pattern factory-diagnose2.
-# Lan 2: rut gon output (bo ResourceWarning) de file nho, doc duoc tu ngoai.
+# Read-only diagnostic lan 3: isolate which test module kills CWD,
+# va chinh xac dong loi syntax trong test_qa_modes.py.
 
 on:
   push:
@@ -29,31 +29,34 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Chay chan doan va QA op trong workspace (khong push state)
+      - name: Isolate test modules
         run: |
           set +e
-          OUT=reports/factory/diagnose-2026-09-28.txt
-          COMPACT=reports/factory/diagnose-2026-09-28-compact.txt
+          OUT=reports/factory/diagnose-2026-09-28-compact.txt
           mkdir -p reports/factory
           {
-            echo "=== diagnose3b $(date -u +%Y-%m-%dT%H:%M:%SZ) HEAD=$(git rev-parse HEAD) ==="
-            echo "=== [3] unittest discover scripts/factory/tests ==="
-            python3 -m unittest discover -s scripts/factory/tests -p 'test_*.py' -v 2>&1 | grep -v -E 'ResourceWarning|tracemalloc|mode=.r.|^  text = open'
-            echo "tests_exit=${PIPESTATUS[0]}"
-            echo "=== [4] QA op (workspace only, KHONG commit) ==="
-            python3 scripts/factory/factory-operator.py qa --scope fast --ids BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629,BLG-00630,BLG-00631,BLG-00632,BLG-00633,BLG-00634 2>&1 | tail -n 120
-            echo "qa_exit=${PIPESTATUS[0]}"
-            echo "=== end diagnose3b ==="
-          } > "$COMPACT" 2>&1
-          cp "$COMPACT" "$OUT"
+            echo "=== diagnose3c $(date -u +%H:%M:%SZ) HEAD=$(git rev-parse HEAD) ==="
+            echo "--- py_compile test_qa_modes.py ---"
+            python3 -m py_compile scripts/factory/tests/test_qa_modes.py 2>&1 | head -n 10
+            echo "--- sed 55..70 test_qa_modes.py ---"
+            sed -n "55,70p" scripts/factory/tests/test_qa_modes.py
+            for m in test_hardening test_link_integrity test_operator test_publish_gate test_qa_modes test_refill_safety test_reports_resume test_topic_universe; do
+              echo "--- module $m (process rieng) ---"
+              python3 -m unittest discover -s scripts/factory/tests -p "$m.py" -v 2>&1 | grep -v -E "ResourceWarning|tracemalloc|mode=.r.|^  text = open" | tail -n 12
+              echo "exit=$?"
+            done
+            echo "--- full discover (tuong tu verify) ---"
+            python3 -m unittest discover -s scripts/factory/tests -p "test_*.py" 2>&1 | grep -v -E "ResourceWarning|tracemalloc|mode=.r.|^  text = open" | tail -n 30
+            echo "=== end diagnose3c ==="
+          } > "$OUT" 2>&1
 
-      - name: Commit chi file output diagnose (khong commit state production)
+      - name: Commit chi file output diagnose
         run: |
           set -eu
           git config user.name "factory-diagnose-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -- .
           git clean -fd scripts data _drafts _posts reports/factory/rows || true
-          git add reports/factory/diagnose-2026-09-28.txt reports/factory/diagnose-2026-09-28-compact.txt
-          git commit -m "factory-diagnose3: compact capture tests/qa (read-only diagnostic, temporary)"
+          git add reports/factory/diagnose-2026-09-28-compact.txt
+          git commit -m "factory-diagnose3: module isolation + syntax pinpoint (read-only, temporary)"
           git push
