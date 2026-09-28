@@ -1,0 +1,57 @@
+name: Diag factory tests
+
+# Workflow TẠM THỜI, chỉ tồn tại trên branch diag/factory-verify.
+# Mục đích: chạy đúng 6 lệnh của step "Factory tests" trong
+# factory-validate.yml trên runner thật, ghi TOÀN BỘ output vào
+# DIAG-FACTORY-TESTS.log và commit log về chính branch này để đọc
+# được công khai (API log cần token). Không đụng main, không đụng PR #1.
+
+on:
+  push:
+    branches: [diag/factory-verify]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  diag:
+    name: Chạy 6 test step Factory tests và commit log
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Môi trường runner
+        run: |
+          date -u
+          python3 --version
+          git --version
+          echo "TZ=[$TZ] HOME=[$HOME] LANG=[$LANG]"
+          df -h /tmp | tail -1
+
+      - name: Chạy 6 test ghi log đầy đủ
+        run: |
+          set +e
+          LOG=DIAG-FACTORY-TESTS.log
+          : > "$LOG"
+          for t in workflow_syntax publish_flow push_rebase_overlap reports_resume publish_gate topic_universe; do
+            echo "=== BEGIN test_$t $(date -u +%H:%M:%S) ===" >> "$LOG"
+            python3 "scripts/factory/tests/test_$t.py" >> "$LOG" 2>&1
+            echo "=== END test_$t exit=$? $(date -u +%H:%M:%S) ===" >> "$LOG"
+          done
+          cat "$LOG"
+
+      - name: Commit log về branch (skip CI để không lặp)
+        run: |
+          git config user.name "diag-bot"
+          git config user.email "diag@example.com"
+          git add DIAG-FACTORY-TESTS.log
+          git commit -m "diag: kết quả 6 test trên runner [skip ci]" || echo "không có gì để commit"
+          git push
