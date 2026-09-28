@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nghi-inh-xu-phat-vi-pham-giao-thong-xe-may.md",
+  "source_path": "_posts/2026-09-28-nghi-inh-xu-phat-vi-pham-giao-thong-xe-may.md",
   "content_sha256": "b1c06bc2de5c6a1fac5c7efe46bedfb0a35e44f1eecad9e2950909eb10f55ed2",
-  "matrix_row_sha256": "7ce42856cee6534028e1f49d3c9b0dc0b74edc0d8477800d5c034edc90acffa0",
-  "result": "PASS"
+  "matrix_row_sha256": "35fbc0aa34a26c7dba3c428d554c8e1ee47aeac8f44eae6197403130ca8f998f",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "6efa7e6e540aa84716e03c5c78e1b3a396b5ee809886c55a4eafa06133bf23ae",
-  "matrix_row_sha256": "b764fcf053f1e70d8c2185893ad0ec4be2a201954cd1d5b3c83e375fe57d5095",
-  "result": "PASS"
+  "matrix_row_sha256": "e10504cda1ea36c0e54b2504677b974975c7a54267e98fc7ea095e5dde820512",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:42+00:00"
 }

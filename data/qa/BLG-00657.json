@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-xe-may-ien-va-quy-inh-quan-ly-phuong-tien.md",
+  "source_path": "_posts/2026-09-28-xe-may-ien-va-quy-inh-quan-ly-phuong-tien.md",
   "content_sha256": "d3a71175f5590f58764c5d19af5689af96c5192478e5ff484dadbbb650ee5127",
-  "matrix_row_sha256": "53f57d922a1d2f7ee1c8f790c72fad75b6ccc24074bd7a91a55a73ea0cf9e2e0",
-  "result": "PASS"
+  "matrix_row_sha256": "a7dee857538141a0adef3f86c81868e0eee678b45262d0730b94145ae4ac4d7d",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }

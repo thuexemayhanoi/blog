@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-van-mieu-quoc-tu-giam.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-van-mieu-quoc-tu-giam.md",
   "content_sha256": "edeed7476354bea950e22e0e4e4d4c5e6b1b98b7add13936831402023e6b3cae",
-  "matrix_row_sha256": "c0b94bdcae4b5a6cdd0f2b82523e896f5376f4fb9243baa4470286da41c6c31e",
-  "result": "PASS"
+  "matrix_row_sha256": "767c20e871fce00db927f8be4d5f040c85e4e1731b7285f59fc4d8928d7fdbfe",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:42+00:00"
 }

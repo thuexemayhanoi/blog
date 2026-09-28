@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-van-mieu-quoc-tu-giam-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-van-mieu-quoc-tu-giam-nua-ngay.md",
   "content_sha256": "846beb6db406998f727ade291761dec8ccd773e27f746904a80e101617fb0eac",
-  "matrix_row_sha256": "f33d2621d6076b14dab31bc45bc5ce16d819e66b0228fe637f6c91aa3b791c04",
-  "result": "PASS"
+  "matrix_row_sha256": "7af1d7c99563d38fa32ee251bea1405094af9ea2fd2f57175fc2f30bac402c06",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }

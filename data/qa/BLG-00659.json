@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nong-o-con-khi-lai-xe-may-quy-inh-hien-hanh-can-nguon-chinh-thong.md",
+  "source_path": "_posts/2026-09-28-nong-o-con-khi-lai-xe-may-quy-inh-hien-hanh-can-nguon-chinh-thong.md",
   "content_sha256": "9b85b74a485e9c828d438d2feb73362256dc9406a4b485abc86e78574c0494e0",
-  "matrix_row_sha256": "39ff005fd9bba0ef9e417fdf5393f4ca8f18c1aee6c01b9c79082daaf8c15d04",
-  "result": "PASS"
+  "matrix_row_sha256": "d907ee3980f54db339ae4b87914d3bb609c26243833709464f0c7ca76582f83b",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }

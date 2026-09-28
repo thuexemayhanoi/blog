@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "804be4728543442401f2bc90fb63aad71db4407030d75a7be17298436f943e44",
-  "matrix_row_sha256": "b69acb5836a5490d9f55bc94b36495ec9f5668d64af9c5819bed25fa4df6ac22",
-  "result": "PASS"
+  "matrix_row_sha256": "8b20a7133cb6e4418f768511985a929d1eed04da9fc53db6131e330635a77920",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }

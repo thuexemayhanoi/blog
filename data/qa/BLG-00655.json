@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cho-nguoi-tren-xe-may-quy-inh-hien-hanh.md",
+  "source_path": "_posts/2026-09-28-cho-nguoi-tren-xe-may-quy-inh-hien-hanh.md",
   "content_sha256": "aaebf12965f854c05424e60f300a71efd97fe9cadf7bd4a760aca1cd4583f23f",
-  "matrix_row_sha256": "b10c2f8982c8e376834881d87cae93fc328c0cac8b956d81f8051c7191ffe407",
-  "result": "PASS"
+  "matrix_row_sha256": "c9ca776fdbd5ccabd5f934b85b41442c0c4dca28b08d27d3904254160ed2d0d3",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }

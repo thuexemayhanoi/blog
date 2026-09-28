@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-tin-hieu-va-coi-xe-may-theo-quy-inh.md",
+  "source_path": "_posts/2026-09-28-en-tin-hieu-va-coi-xe-may-theo-quy-inh.md",
   "content_sha256": "2f53a5d4e8ba6d4563f99337774a96827f8331b2d8d75d923772963f178dcacc",
-  "matrix_row_sha256": "f5c202f71caf8528a362905113bc31d6136e0d2f73d9d0c6d417ea3015a55e7a",
-  "result": "PASS"
+  "matrix_row_sha256": "48533f2f4d9df8bb8b637b19771fde89df071b86e5cbb1a3de73f0c9aa9f7702",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:24:41+00:00"
 }
