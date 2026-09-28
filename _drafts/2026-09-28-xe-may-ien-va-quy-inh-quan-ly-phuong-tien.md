@@ -12,7 +12,7 @@ parent_id: P-PHAP-LY
 child_id: C-QUY-DINH
 article_id: BLG-00657
 ---
-Xe máy điện bán chạy, nhưng rất nhiều người ngồi trên xe vẫn chưa rõ dòng xe của mình thuộc diện quản lý nào: có phải đăng ký không, cần giấy phép lái xe loại gì, và khác gì xe đạp điện. Bài này gom lại quy định hiện hành về quản lý phương tiện dành cho xe máy điện, kèm phần thực tế dành cho khách định thuê loại xe này chạy quanh Hà Nội.
+Quy định xe máy điện hiện hành chưa được nhiều người nắm rõ, dù dòng xe này bán chạy: có phải đăng ký không, cần giấy phép lái xe loại gì, và khác gì xe đạp điện. Bài này gom lại quy định hiện hành về quản lý phương tiện dành cho xe máy điện, kèm phần thực tế dành cho khách định thuê loại xe này chạy quanh Hà Nội.
 
 ## Xe máy điện là xe gì trong phân loại
 
@@ -20,11 +20,13 @@ Nguyên tắc của quy định hiện hành là phân loại theo đặc điể
 
 Cùng dòng điện nhưng xe đạp điện có bàn đạp hỗ trợ, tốc độ và công suất thấp hơn ngưỡng quy định, được xem là xe đạp: không cần đăng ký biển số và người điều khiển không cần giấy phép lái xe. Ranh giới giữa hai nhóm nằm ở thông số kỹ thuật theo quy chuẩn hiện hành, và khi mua hoặc thuê, cách kiểm tra nhanh nhất là xem giấy tờ xe và hỏi rõ cửa hàng dòng xe của bạn rơi vào nhóm nào.
 
-## Đăng ký và biển số xe máy điện
+## Quy định xe máy điện về đăng ký và biển số
 
 Xe máy điện thuộc diện phải đăng ký phải được cơ quan công an cấp đăng ký xe và gắn biển số trước khi lưu thông, tương tự mô tô xăng. Hồ sơ đăng ký gồm giấy tờ chứng minh nguồn gốc xe, như hóa đơn và giấy chứng nhận kiểm định, cùng giấy tờ tùy thân của chủ xe; trình tự nộp hồ sơ theo hướng dẫn của cơ quan đăng ký xe hiện hành. Biển số xe máy điện gắn phía sau xe và phải giữ nguyên vẹn khi lưu thông.
 
 Hai điều người dùng hay bỏ qua: thứ nhất, gắn biển tạm hoặc không gắn biển sau khi mua xe mới vẫn là lưu thông xe chưa đủ điều kiện; thứ hai, biển bị che, mờ hoặc bẻ gãy cũng dẫn tới bị dừng xe xử lý. Với xe đã qua sử dụng, người mua hoặc thuê dài hạn cần kiểm tra đăng ký còn hiệu lực và thông tin chủ khớp với xe thực tế.
+
+Sau khi đăng ký, chủ xe nhận giấy chứng nhận đăng ký kèm biển số gắn sẵn. Khi cho thuê hoặc cho mượn xe, giấy đăng ký nên đi cùng xe theo thỏa thuận của hai bên để người điều khiển xuất trình khi được yêu cầu; không ít tranh cãi khi dừng xe phát sinh từ việc một bên giữ giấy còn bên kia giữ xe. Với xe mua cũ, trước khi trả tiền nên đối chiếu số khung, số máy trên đăng ký với xe thật, và kiểm tra đăng ký chưa bị tẩy xóa hay ép dán.
 
 ## Giấy phép lái xe và trang bị khi lưu thông
 

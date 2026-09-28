@@ -3,7 +3,7 @@ date: 2026-09-28 09:00:00 +0700
 layout: post
 title: "Đèn tín hiệu và còi xe máy theo quy định"
 author: "Nguyễn Tú"
-description: "Đèn còi xe máy theo quy định hiện hành: xe máy bắt buộc có những thiết bị đèn nào, khi nào dùng đèn gần đèn xa, dùng còi thế nào để an toàn và không bị xử phạt."
+description: "Đèn còi xe máy quy định hiện hành: xe máy bắt buộc có những thiết bị đèn nào, khi nào dùng đèn gần đèn xa và bấm còi thế nào cho đúng luật, an toàn."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [đèn còi xe máy quy định, đèn chiếu sáng xe, còi xe máy, thuê xe máy Hà Nội]
@@ -12,9 +12,9 @@ parent_id: P-PHAP-LY
 child_id: C-QUY-DINH
 article_id: BLG-00656
 ---
-Đèn và còi là hai thiết bị nhỏ nhất trên xe máy nhưng lại thuộc nhóm bắt buộc theo quy định. Nhiều người chỉ nhớ đến chúng khi xe xuống đèn hoặc khi bị dừng xe kiểm tra. Bài này tóm lại quy định hiện hành về đèn tín hiệu, đèn chiếu sáng và còi trên xe máy: xe phải có những gì, dùng đúng lúc nào, và hành vi nào dễ dẫn tới xử phạt khi bạn đang đi xe giữa Hà Nội.
+Đèn còi xe máy quy định như thế nào là câu hỏi ít ai nhớ tới, cho tới khi xe xuống đèn hoặc bị dừng xe kiểm tra. Bài này tóm lại quy định hiện hành về đèn tín hiệu, đèn chiếu sáng và còi trên xe máy: xe phải có những gì, dùng đúng lúc nào, và hành vi nào dễ dẫn tới xử phạt khi bạn đang đi xe giữa Hà Nội.
 
-## Xe máy bắt buộc có những đèn nào
+## Đèn còi xe máy quy định bắt buộc những thiết bị nào
 
 Theo quy định về phương tiện giao thông đường bộ, xe máy khi lưu thông phải được trang bị đầy đủ và hoạt động tốt hệ thống đèn chiếu sáng, gồm đèn pha dùng để chiếu xa và đèn chiếu gần dùng trong đô thị, cùng đèn báo rẽ và đèn phanh phía sau. Đèn chiếu gần và đèn chiếu sáng phía sau phải là màu quy định; đèn rẽ phải nhấp nháy đúng nhịp khi bật. Còi xe phải là loại có cường độ âm phù hợp với quy chuẩn kỹ thuật đối với xe mô tô.
 
@@ -22,8 +22,7 @@ Với xe máy điện, nguyên tắc không thay đổi: xe vẫn phải có đ�
 
 ## Dùng đèn đúng lúc nào
 
-Quy định hiện hành yêu cầu bật đèn chiếu sáng khi trời tối hoặc khi sương mù, thời tiết giảm tầm nhìn, và khi phương tiện chạy trong hầm đường bộ. Trong đô thị hoặc trên đường có ánh sáng đủ, xe máy chỉ dùng đèn chiếu gần; đèn pha chỉ dùng khi đường vắng hoặc tầm nh
-ìn bị che khuất, và tuyệt đối không chỉnh đèn chiếu thẳng gây chói mắt xe ngược chiều. Đèn báo rẽ phải bật trước khi chuyển hướng đủ sớm để người cùng chiều nhận biết.
+Quy định hiện hành yêu cầu bật đèn chiếu sáng khi trời tối hoặc khi sương mù, thời tiết giảm tầm nhìn, và khi phương tiện chạy trong hầm đường bộ. Trong đô thị hoặc trên đường có ánh sáng đủ, xe máy chỉ dùng đèn chiếu gần; đèn pha chỉ dùng khi đường vắng hoặc tầm nhìn bị che khuất, và tuyệt đối không chỉnh đèn chiếu thẳng gây chói mắt xe ngược chiều. Đèn báo rẽ phải bật trước khi chuyển hướng đủ sớm để người cùng chiều nhận biết.
 
 Ba sai lầm thường gặp ở Hà Nội: một là chạy đêm chỉ dựa đèn điện thoại thay vì đèn chiếu sáng của xe; hai là bật đèn pha ngay giữa phố sáng gây chói; ba là để hỏng đèn phanh sau mà không biết, bởi người lái ít khi quan sát phía sau xe mình. Thói quen kiểm tra trước mỗi chuyến đi tối chỉ mất một phút nhưng giúp tránh cả lỗi vi phạm lẫn va chạm từ phía sau.
 
@@ -37,8 +36,7 @@ Không nên dùng còi liên tục, dài hơi hoặc bấm còi tỏ thái độ
 
 Không sử dụng đèn chiếu sáng khi chạy trong điều kiện bắt buộc, dùng đèn không đúng hoặc sử dụng còi không đúng quy định là các hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ, bị xử phạt theo khung hiện hành tại Nghị định 168/2024/NĐ-CP và có thể kèm trừ điểm giấy phép lái xe theo chế độ điểm hiện hành. Mức cụ thể thay đổi theo từng kỳ văn bản, nên khi cần tra cứu chính xác, hãy đọc trực tiếp nghị định trên cổng thông tin điện tử Chính phủ thay vì tin lại con số rải trên mạng xã hội.
 
-Riêng với xe thuê, nếu phá
-t hiện đèn hoặc còi không hoạt động ngay khi nhận xe, hãy yêu cầu bên cho thuê đổi xe hoặc khắc phục trước khi ký biên bản giao nhận. Bằng chứng ghi hình tình trạng xe lúc nhận sẽ giúp phân định trách nhiệm rõ hơn, theo kinh nghiệm đã chia sẻ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
+Riêng với xe thuê, nếu phát hiện đèn hoặc còi không hoạt động ngay khi nhận xe, hãy yêu cầu bên cho thuê đổi xe hoặc khắc phục trước khi ký biên bản giao nhận. Bằng chứng ghi hình tình trạng xe lúc nhận sẽ giúp phân định trách nhiệm rõ hơn, theo kinh nghiệm đã chia sẻ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
 
 ## Ghép với tín hiệu và biển báo
 

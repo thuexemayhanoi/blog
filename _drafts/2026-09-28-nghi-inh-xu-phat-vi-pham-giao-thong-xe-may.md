@@ -12,7 +12,7 @@ parent_id: P-PHAP-LY
 child_id: C-QUY-DINH
 article_id: BLG-00658
 ---
-Khi bị CSGT lập biên bản, câu hỏi đầu tiên của người đi xe máy thường là: phạt theo nghị định nào, bao nhiêu tiền, và có bị trừ điểm hay tước giấy phép lái xe không. Văn bản đang điều chỉnh các vi phạm của xe máy hiện nay là Nghị định 168/2024/NĐ-CP, có hiệu lực từ ngày 01/01/2025 và thay thế Nghị định 100/2019/NĐ-CP. Bài này giải thích cấu trúc của khung xử phạt dành cho xe máy và những điểm người thuê xe cần nắm để không đọc nhầm mức phạt.
+Xử phạt vi phạm giao thông xe máy hiện được tính theo Nghị định 168/2024/NĐ-CP, nên khi bị CSGT lập biên bản, câu hỏi đầu tiên của người đi xe máy thường là: phạt theo nghị định nào, bao nhiêu tiền, và có bị trừ điểm hay tước giấy phép lái xe không. Nghị định này có hiệu lực từ ngày 01/01/2025 và thay thế Nghị định 100/2019/NĐ-CP. Bài này giải thích cấu trúc của khung xử phạt dành cho xe máy và những điểm người thuê xe cần nắm để không đọc nhầm mức phạt.
 
 ## Nghị định 168/2024 thay đổi gì
 
@@ -24,7 +24,7 @@ Nghị định 168/2024/NĐ-CP tổ chức lại khung xử phạt vi phạm gia
 
 Ngoài phạt tiền, nhiều lỗi của người đi xe máy còn bị trừ điểm giấy phép lái xe theo chế độ điểm hiện hành. Cách vận hành tóm tắt: giấy phép lái xe có số điểm nhất định cho mỗi chu kỳ; mỗi vi phạm bị trừ số điểm tương ứng theo bảng quy định; khi điểm bị trừ hết, người lái không còn giấy phép lái xe hợp lệ và phải đáp ứng các điều kiện quy định mới được cấp lại. Với người đi xe hằng ngày ở Hà Nội, hệ quả này nặng hơn khoản tiền, vì mất giấy phép theo chu kỳ đồng nghĩa mất phương tiện đi làm.
 
-Cũng vì thế, khi nhận biên bản, nên đọc kỹ mục hình thức bổ sung, không chỉ mục số tiền. Nếu trong biên bản ghi trừ điểm, số điểm đó ảnh hưởng cả chu kỳ lái còn lại của bạn, và lỗi nhỏ lặp lại vài lần có thể cộng dồn thành mất giấy phép.
+Cũng vì thế, khi nhận biên bản, nên đọc kỹ mục hình thức bổ sung, không chỉ mục số tiền. Nếu trong biên bản ghi trừ điểm, số điểm đó ảnh hưởng cả chu kỳ lái còn lại của bạn, và lỗi nhỏ lặp lại vài lần có thể cộng dồn thành mất giấy phép. Nếu không đồng ý với nội dung biên bản, người bị xử phạt có quyền trình bày ý kiến và ghi rõ nội dung trình bày trước khi ký; trường hợp không đồng ý với quyết định xử phạt, có thể khiếu nại theo trình tự pháp luật hiện hành. Cách thực tế nhất là đọc kỹ biên bản ngay tại chỗ: họ tên, số giấy phép lái xe, hành vi bị ghi và điều khoản áp dụng, vì thông tin sai đều phải sửa bằng thủ tục về sau. Nộp phạt đúng nơi ghi trên biên bản và giữ biên lai cho tới khi hồ sơ được xóa.
 
 ## Các lỗi xe máy thường bị xử lý
 

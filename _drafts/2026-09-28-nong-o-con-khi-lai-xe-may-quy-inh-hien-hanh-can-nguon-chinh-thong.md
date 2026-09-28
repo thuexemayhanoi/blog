@@ -12,7 +12,7 @@ parent_id: P-PHAP-LY
 child_id: C-QUY-DINH
 article_id: BLG-00659
 ---
-Mức phạt nồng độ cồn là chủ đề bị chia sẻ nhiều và cũng bị sai nhiều nhất trên mạng xã hội, bởi khung phạt đã thay đổi qua hai kỳ nghị định. Điều quan trọng cần nắm trước cả con số là quy định hiện hành cấm tuyệt đối: từ khi Luật Trật tự, an toàn giao thông đường bộ 2024 có hiệu lực, người điều khiển phương tiện không được lái xe khi trong máu hoặc hơi thở còn nồng độ cồn, không còn ngưỡng cho phép nào để tranh luận. Bài này nói về cấu trúc của quy định, và quan trọng hơn, tra cứu ở đâu cho đúng.
+Nồng độ cồn khi lái xe máy là chủ đề bị chia sẻ nhiều và cũng bị sai nhiều nhất trên mạng xã hội, bởi khung phạt đã thay đổi qua hai kỳ nghị định. Điều quan trọng cần nắm trước cả con số là quy định hiện hành cấm tuyệt đối: từ khi Luật Trật tự, an toàn giao thông đường bộ 2024 có hiệu lực, người điều khiển phương tiện không được lái xe khi trong máu hoặc hơi thở còn nồng độ cồn, không còn ngưỡng cho phép nào để tranh luận. Bài này nói về cấu trúc của quy định, và quan trọng hơn, tra cứu ở đâu cho đúng.
 
 ## Quy định cấm hiện hành nói gì
 
@@ -28,7 +28,7 @@ Khi gặp tin về mức phạt cồn, ba bước kiểm chứng nhanh:
 - Đọc trực tiếp trên cổng thông tin điện tử Chính phủ, nơi đăng văn bản gốc kèm các văn bản sửa đổi; tra theo số hiệu nghị định là chính xác nhất.
 - Đối chiếu ngày có hiệu lực: mức phạt áp dụng theo văn bản hiệu lực tại thời điểm vi phạm, không phải theo thời điểm bạn đọc tin.
 
-Với người hay phải đối chiếu pháp luật giao thông, nên lưu lại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) làm điểm tra cứu định kỳ, vì các quy định về nồng độ cồn, mũ bảo hiểm và giấy tờ đều được tổng hợp tại một chỗ.
+Với người hay phải đối chiếu pháp luật giao thông, nên lưu lại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) làm điểm tra cứu định kỳ, vì các quy định về nồng độ cồn, mũ bảo hiểm và giấy tờ đều được tổng hợp tại một chỗ. Một thói quen nhỏ đáng hình thành: lưu lại đường dẫn văn bản gốc bạn từng đối chiếu, kèm ngày tra cứu. Khi cần bàn về mức phạt, căn cứ kèm ngày tra cứu luôn thuyết phục hơn một con số rỉ tai nhau; với nhóm bạn đi cùng hoặc người quản lý xe của cơ quan, chia sẻ đúng đường dẫn văn bản cũng tránh được chuyện chụp lại màn hình một bài báo dẫn văn bản đã cũ.
 
 ## Vì sao cấm tuyệt đối với xe máy
 
