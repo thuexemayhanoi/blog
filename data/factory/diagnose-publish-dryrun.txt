@@ -1,4 +1,4 @@
-  File "/home/runner/work/blog/blog/scripts/factory/diagnose-publish.py", line 92
-    rc = run([sys.executab
-         ^^^
-SyntaxError: invalid syntax. Did you mean 'True'?
+  File "/home/runner/work/blog/blog/scripts/factory/diagnose-publish.py", line 67
+    row["output_path"] = dest
+                             ^
+IndentationError: unindent does not match any outer indentation level
