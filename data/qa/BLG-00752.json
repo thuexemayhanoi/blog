@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-doc-song-hong-noi-o.md",
+  "source_path": "_posts/2026-09-28-chay-xe-doc-song-hong-noi-o.md",
   "content_sha256": "75b2d8099d59bb64ed4348044bbb8d506ff9e745779289d8a39929772bf722a4",
-  "matrix_row_sha256": "63133fce7f1d704e095783c5d549c7450699fe45b51e84a5dad6f99b2176533e",
-  "result": "PASS"
+  "matrix_row_sha256": "5fab724694761d9b613a4be0b55825f1923f84071831bd415c554c5dba90fb74",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:54:36+00:00"
 }

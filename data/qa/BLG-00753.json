@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-qua-cau-long-bien-va-quan-ha-ong.md",
+  "source_path": "_posts/2026-09-28-cung-qua-cau-long-bien-va-quan-ha-ong.md",
   "content_sha256": "7a213dace968f609c7d1ad69f9a608916220212bf077652848684303b3e7cd46",
-  "matrix_row_sha256": "69ed338df977e802b3713235817a23218a0645b2395ae45d77a25d553060e74f",
-  "result": "PASS"
+  "matrix_row_sha256": "5b5f41f6ec28d5c7e97ead59525d51551e569bffbe8c377318a7a6fc91bc2207",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:54:36+00:00"
 }

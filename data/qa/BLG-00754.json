@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-noi-thanh-cho-nguoi-moi-chay-lan-au.md",
+  "source_path": "_posts/2026-09-28-cung-noi-thanh-cho-nguoi-moi-chay-lan-au.md",
   "content_sha256": "b73a41e313acc080560eae39e3c02154e4839d05b1c48b101e74f43c4f697acd",
-  "matrix_row_sha256": "e71273d686d4755cf1d55f38b982c5886055df242dee84ab96e76c2ed5e06a2d",
-  "result": "PASS"
+  "matrix_row_sha256": "0e18e9e008010ce5903a87f9083781ef344c2c98a29728189275badf85955c33",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:54:36+00:00"
 }

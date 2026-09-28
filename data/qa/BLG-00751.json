@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-vong-ho-guom-ho-tay-mot-buoi-chieu.md",
+  "source_path": "_posts/2026-09-28-cung-vong-ho-guom-ho-tay-mot-buoi-chieu.md",
   "content_sha256": "d40bfead855d6a3cec9450fbd0f995f01003ebe66876720d496121b633ae9db4",
-  "matrix_row_sha256": "400c7ca011fd398fa0e212877d34fcd615779614cf344932b1558aafa86b2348",
-  "result": "PASS"
+  "matrix_row_sha256": "91e941f577e3fb7f18a2283d3af7462fe43a801baf508694deb2f9c24789b625",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:54:36+00:00"
 }

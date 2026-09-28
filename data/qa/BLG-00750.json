@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som.md",
+  "source_path": "_posts/2026-09-28-cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som.md",
   "content_sha256": "6764b80219adb8b76cfc0c0360694a50f558268871ee5bae3759aa1e2d1a2ee8",
-  "matrix_row_sha256": "e6d9f93688b0f6e33e9b74ebafb3d845f3edb0312bed3a552d84771ebb071743",
-  "result": "PASS"
+  "matrix_row_sha256": "fd5bbcaad916bdebfc85d9b6b7ce74b14a89dce8f502f4a38105c8c229b059aa",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:54:35+00:00"
 }
