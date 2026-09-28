@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-o-kim-va-xich-xe-may-cang-ung-cach.md",
-  "content_sha256": "290f67c89893ac4b0e17f83b48c486493bbf9d19119ede590f9f659ee0f3c1d9",
+  "content_sha256": "67620f20e5cca141d7cbba3a2672374cf15dbce2d49e720dd54d0d4abfbbdaed",
   "matrix_row_sha256": "8cf1a3d4a9d622c5a316db6df52a5273d75ec327de6dab81873e04deeb02c5f1",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

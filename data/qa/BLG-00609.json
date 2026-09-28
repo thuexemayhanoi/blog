@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-dau-may-xe-may-oi-sau-bao-lau.md",
-  "content_sha256": "8862c8c74aa4484e51cff3d9c22c24dc58d66b0dc44490fef9e2e7f9e4857be4",
+  "content_sha256": "e25c6b76866884048c2afad4d8ffb75b739015efed0395472afdc7087abb52c0",
   "matrix_row_sha256": "95b198954014a2c3b6b5ce5d1277294db630af80b460b35d4e5c4e7a1db21fe0",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-ac-quy-xe-may-yeu-dau-hieu-va-xu-ly.md",
-  "content_sha256": "d4c87bef6218edb733b9ea40e7f9e8437210dfb5e5f374b7de19087cb638003f",
+  "content_sha256": "b0131438f85a7943d7facf2d3d6a52362f2dc4124cdcc5e0f968f74d008e2cc8",
   "matrix_row_sha256": "461e6179032726d71fcde1b6060b895200b35a891ef0d69c85753b80f4c08ec3",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

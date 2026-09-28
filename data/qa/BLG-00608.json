@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-lop-xe-may-khi-nao-can-thay.md",
-  "content_sha256": "656ae5d61a97fdfdad8cb23a875b509f293b101f03cfa7a72a23ed3b42717c1d",
+  "content_sha256": "9419dcd8fb5b3f3cf7e0adcfa9efd93234d8728a68b2be87655dceecfcf7ac33",
   "matrix_row_sha256": "b0bface8bd0dff1ac0789e3710d3c0620e525c0a9007dc4e755a2ad9379cb5d6",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

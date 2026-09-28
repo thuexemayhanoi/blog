@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-bao-duong-inh-ky-xe-may-gom-nhung-gi.md",
-  "content_sha256": "913bd54109554a230c21f5ab1b93108ac1a6452be4364f4ba0cfe4a4a0969086",
+  "content_sha256": "ad4c767e6b05baa4dc8ac22d0c98b66e53d95ed3fdc992621af8c754e6e95a48",
   "matrix_row_sha256": "4bd9f5b036b32e4057ee91d0ff2634e0c1b1a8acbe2c635b5a5ea6969da75201",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

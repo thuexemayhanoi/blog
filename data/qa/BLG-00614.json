@@ -43,8 +43,9 @@
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md",
-  "content_sha256": "830a7ff9b4a0523dbf80f09be1074492e41d40262a15c5f56bb3d74d72c3a8e0",
+  "content_sha256": "bf9f0b71b546bce2ba5b5cd27d013792924aa2f75bbcb14266e08b0586d4d740",
   "matrix_row_sha256": "422dc09cf140cf824fb940ed118346b0d02c580d0ce5d038936f05dc985ca38a",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

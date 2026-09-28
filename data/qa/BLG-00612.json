@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-phanh-xe-may-ia-va-bo-kiem-tra-the-nao.md",
-  "content_sha256": "3331724ec71ace7dd118f2dccee177cce8373ffd5dfb6fff4619352d263a5c8b",
+  "content_sha256": "2b353f3a9f9210569c46212576f5e008e5959a8e93906b7fa1231fc80454e445",
   "matrix_row_sha256": "df070f614f452ac825eedb0620faa30d85f6b6db637068d02a1b6a6a6839eca6",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:39+00:00"
+  "published_at": "2026-09-28T00:34:39+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }

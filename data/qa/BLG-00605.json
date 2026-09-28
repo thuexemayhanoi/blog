@@ -41,8 +41,9 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-09-27-sirius-cho-chang-uong-truong-quang-ngan.md",
-  "content_sha256": "8e6365c57689515deb1757d41357f8f9829c00c0b98b45e084d36cc526f179f2",
+  "content_sha256": "f3776917a143560095f7693fb2c3a746eb0538b721029db419c3a596a65285a3",
   "matrix_row_sha256": "2e562ee4986a546e36085184a85d3ee69ac06a39458d55a4b28a826baab1e68c",
   "result": "PASS",
-  "published_at": "2026-09-28T00:34:38+00:00"
+  "published_at": "2026-09-28T00:34:38+00:00",
+  "hash_sync_note": "cap nhat sau repair-frontmatter 2026-09-28 (chen xuong dong sau --- dong)"
 }
