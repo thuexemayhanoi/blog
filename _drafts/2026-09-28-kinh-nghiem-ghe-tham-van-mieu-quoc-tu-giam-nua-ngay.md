@@ -20,7 +20,8 @@ Văn Miếu được vua Lý Thánh Tông cho xây năm 1070, vốn là nơi th�
 
 ## Lịch trình Văn Miếu - Quốc Tử Giám: khung thời gian vàng của buổi sáng
 
-Khu di tích mở cửa đón khách từ buổi sáng, và khoảng một tới hai giờ đầu luôn là thời gian thoáng nhất trong ngày: khách đoàn chưa tới, sân gạch chưa đông, ánh sáng chéo làm màu lá và mái ngói lên ảnh rất đẹp. Nếu khởi hành từ Long Biên bằng xe máy, rời cửa hàng lúc tám giờ đồng nghĩa sẽ tới nơi trước giờ khách đông nhất, gửi xe dễ và có nguyên khuôn viên gần như riêng cho mình. Buổi chiều cũng tham quan được, nhưng sau ba giờ ánh sáng đã ngắn hơn, đặc biệt về mùa đông.
+Khu di tích mở cửa đón khách từ buổi sáng, và khoảng một tới hai giờ đầu luôn là thời gian thoáng nhất trong ngày: 
+khách đoàn chưa tới, sân gạch chưa đông, ánh sáng chéo làm màu lá và mái ngói lên ảnh rất đẹp. Nếu khởi hành từ Long Biên bằng xe máy, rời cửa hàng lúc tám giờ đồng nghĩa sẽ tới nơi trước giờ khách đông nhất, gửi xe dễ và có nguyên khuôn viên gần như riêng cho mình. Buổi chiều cũng tham quan được, nhưng sau ba giờ ánh sáng đã ngắn hơn, đặc biệt về mùa đông.
 
 Về mùa: tháng ba, tư khi thời tiết chuyển nắng nhẹ và các cây cổ thụ trong khuôn viên ra lá mới là giai đoạn đẹp nhất; tháng sáu bảy nắng gắt giữa trưa nên nên chuyển lịch sang sáng sớm. Cuối tuần đông khách hơn ngày thường; nếu chọn ngày thường, gần như mọi góc trong khuôn viên đều có thể đứng ngắm mà không chen.
 
@@ -32,13 +33,18 @@ Khu Thái Học phía sau trưng bày về lịch sử Quốc Tử Giám và gi�
 
 ## Kết hợp điểm lân cận trong nửa ngày
 
-Sau khoảng hai giờ trong khuôn viên, nửa ngày còn lại nên dùng cho một trong hai hướng. Hướng một: thong thả quanh các phố sách Nguyễn Văn Chảm, khu quán cà phê gần đó để nghỉ giữa buổi rồi ăn trưa ở khu Đống Đa. Hướng hai: di chuyển sang khu Ba Đình, lịch trình chi tiết cho hướng này xem trong bài [khám phá khu Ba Đình bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/). Nếu thích nhịp phố hồ và hàng quán, tham khảo khung lịch trình trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
+Sau khoảng hai giờ trong khuôn viên, nửa ngày còn lại nên dùng cho một trong hai hướng. Hướng một: thong thả quanh các phố sách Nguyễn Văn Chảm, khu quán cà phê gần đó để nghỉ giữa buổi rồi ăn trưa ở khu Đống Đa. Hướng hai: di chuyển sang khu Ba Đình, lịch trình chi tiết cho hướng này xem trong bài [khám phá khu Ba Đình bằng xe máy](/blog/du lị
+ch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/). Nếu thích nhịp phố hồ và hàng quán, tham khảo khung lịch trình trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
 
 Với khách thuê xe máy cho cả lịch trình dài hơn, kinh nghiệm dành cho một tuần ở Hà Nội được tóm tắt trong bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du lịch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
 
 ## Sắp xếp đi lại và chi phí nhỏ
 
-Đi bằng xe máy thì khoảng cách Long Biên tới Văn Miếu chỉ mất chừng hai mươi phút ngoài giờ cao điểm. Gửi xe quanh cổng chính thuận tiện, mang theo tiền lẻ cho phí gửi xe và giá vé tham quan; cả hai loại phí đều nhỏ nhưng thay đổi theo thời điểm, nên kiểm tra thông tin hiện hành trước chuyến đi. Nếu đi nhóm nhiều người, hẹn điểm đón tập trung trên một trục lớn gần đó như Nguyễn Thái Học thay vì đợi nhau ngay trước cổng, vì đoạn trước cổng dễ tắc khi khách đông. Về đồ mang theo, một bình nước nhỏ, mũ che nắng và giày bệt là ba thứ đáng có: trong khuôn viên chủ yếu đi bộ trên nền gạch, các ghế ngồi rải rác quanh Hồ Văn đủ nghỉ giữa chặng. Nếu đi cùng trẻ nhỏ, dãy bia tiến sĩ dễ thành một trò chơi tìm tên: cho bé đếm số bia và tìm quê quán gần nhất với quê mình, một cách nhẹ nhàng để trẻ ngồi yên khi người lớn đọc.
+Đi bằng xe máy thì khoảng cách Long Biên tới Văn Miếu chỉ mất chừng hai mươi phút ngoài giờ cao điểm. Gửi xe quanh cổng chính thuận tiện, mang theo tiền lẻ cho phí gửi xe và giá vé tham quan; cả hai loại phí đều nhỏ nhưng thay đổi theo thời điểm, nên kiểm tra thông tin hiện hành trước chuyến đi. Nếu đi nhóm nhiều người, hẹn điểm đón tập trung trên một trục lớn gần đó như Nguyễn Thái Học thay vì đợi nhau ngay trước cổng, vì đoạn trước cổng dễ tắc khi khách đông. Về đồ mang theo, một bình nước nhỏ, mũ che nắng và giày bệt là ba thứ đáng có: trong khuôn viên chủ yếu đi bộ trên nền gạch, các ghế ngồi rải rác quanh Hồ Văn đủ nghỉ giữa chặng.
+
+Nếu đi cùng trẻ nhỏ, dãy bia tiến sĩ dễ thành một trò chơi tìm tên: cho bé đếm số bia và tìm quê quán gần nhất với quê mình, một cách nhẹ nhàng để trẻ ngồi yên khi người lớn đọc.
+
+Trước khi chốt lịch, nên xem thêm khung tổng quan tại trang [du lịch](/blog/du-lich/) và kinh nghiệm di chuyển trong khu phố cổ ở trang [phố cổ](/blog/du-lich/pho-co/) để ghép điểm cho hợp lý.
 
 ## Kết luận về nửa ngày ở Văn Miếu
 

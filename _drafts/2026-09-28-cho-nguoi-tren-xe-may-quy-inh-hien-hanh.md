@@ -22,7 +22,8 @@ Ngoại lệ chỉ được đặt ra cho những tình huống luật gọi tê
 
 ## Vì sao quy định siết một người
 
-Nghe khắt khe, nhưng căn cứ của quy định là đặc tính vận hành của xe hai bánh. Xe máy giữ thăng bằng bằng bánh xe và trọng tâm di chuyển; mỗi kilôgam thêm lên yên sau đều dịch chuyển trọng tâm, kéo dài quãng đường phanh và làm xe kém ổn định khi vào cua. Một xe vốn phanh được trong chừng mười mét có thể cần dài hơn rõ rệt khi chở hai người lớn, mà người ngồi sau thường không kịp phản ứng kịp như người lái.
+Nghe khắt khe, nhưng căn cứ của quy định là đặc tính vận hành của xe hai bánh. Xe máy giữ thăng bằng bằng bánh xe và trọng tâm di chuyển; mỗi kilôgam thêm lên yên sau đều dịch chuyển trọng tâm, kéo dài quãng đường phanh và làm xe kém ổn đ
+ịnh khi vào cua. Một xe vốn phanh được trong chừng mười mét có thể cần dài hơn rõ rệt khi chở hai người lớn, mà người ngồi sau thường không kịp phản ứng kịp như người lái.
 
 Yếu tố thứ hai là tầm kiểm soát. Người điều khiển xe máy quan sát gương, nghiêng người và chống chân khi dừng đỏ. Khi chở quá số người cho phép, mọi thao tác này đều bị chi phối bởi chuyển động của người ngồi sau. Thực tế nhiều vụ ngã tại chỗ rẽ hoặc khi tránh ổ gà ở Hà Nội liên quan tới xe chở hai người mà người sau không giữ tư thế. Quy định một người vì vậy không nhằm gây khó, mà giữ xe trong ngưỡng an toàn mà nhà sản xuất thiết kế.
 
@@ -38,15 +39,16 @@ Một điểm nữa đáng lưu ý: chở theo hai người trở lên, tức t�
 
 ## Vi phạm bị xử lý thế nào
 
-Chở người quá số người được phép là hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ, bị xử phạt theo khung hiện hành tại Nghị định 168/2024/NĐ-CP, văn bản có hiệu lực từ ngày 01/01/2025 và thay thế Nghị định 100/2019/NĐ-CP. Ngoài khoản tiền phạt, người vi phạm còn có thể bị áp dụng hình thức bổ sung là trừ điểm giấy phép lái xe theo chế độ điểm hiện hành; khi số điểm bị trừ hết, người lái không còn đủ điều kiện lái xe cho tới khi đáp ứng điều kiện cấp lại theo quy định.
+Chở người quá số người được phép là hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ, bị xử phạt theo khung hiện hành tại Nghị định 168/2024/NĐ-CP, văn bản có hiệu lực từ ngày 01/01/2025 và thay thế Nghị định 100/2019/NĐ-CP. Ngoài khoản tiền phạt, người vi phạm còn có thể bị áp dụng hình thức bổ sung là trừ điểm giấy phép lái xe theo chế độ điểm hiện hành; khi số điểm bị trừ hết, người lái không còn đủ điều kiện lái xe cho tới khi đáp ứng điề
+u kiện cấp lại theo quy định.
 
 Không nên đoán con số phạt theo tin nhắn hay bài chia sẻ cũ, vì khung phạt được điều chỉnh theo từng kỳ văn bản. Khi cần đối chiếu, hãy tra trực tiếp nghị định hiện hành trên cổng thông tin điện tử Chính phủ hoặc trang của cơ quan quản lý giao thông. Nếu bạn bị dừng xe khi đang chở người thân đi cấp cứu, hãy trình bày tình huống kèm bằng chứng để người xử lý xem xét theo đúng ngoại lệ của luật.
 
 ## Người thuê xe cần lưu ý gì
 
-Với khách thuê xe máy ở Hà Nội, có ba điểm đáng chuẩn bị trước khi nhận xe. Thứ nhất, hợp đồng thuê tính theo mỗi xe, nhưng lỗi vi phạm khi lưu thông thuộc về người điều khiển, nên đừng vì xe thuê mà chủ quan chở thêm người khi không thuộc ngoại lệ. Thứ hai, nếu dự định chở trẻ em dưới 14 tuổi đi cùng, hãy báo trước để chọn xe có yên sau phù hợp và mũ bảo hiểm_size trẻ em. Thứ ba, khi bị dừng kiểm tra giấy tờ, cách trình bày đúng trình tự đã được tóm tắt trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
+Với khách thuê xe máy ở Hà Nội, có ba điểm đáng chuẩn bị trước khi nhận xe. Thứ nhất, hợp đồng thuê tính theo mỗi xe, nhưng lỗi vi phạm khi lưu thông thuộc về người điều khiển, nên đừng vì xe thuê mà chủ quan chở thêm người khi không thuộc ngoại lệ. Thứ hai, nếu dự định chở trẻ em dưới 14 tuổi đi cùng, hãy báo trước để chọn xe có yên sau phù hợp và mũ bảo hiểm đạt chuẩn cho trẻ em. Thứ ba, khi bị dừng kiểm tra giấy tờ, cách trình bày đúng trình tự đã được tóm tắt trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
 
-Danh mục giấy tờ cần mang khi đến cửa hàng cũng nên kiểm tra trước, xem chi tiết trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/). Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Danh mục giấy tờ cần mang khi đến cửa hàng cũng nên kiểm tra trước, xem chi tiết trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/). Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/); toàn bộ nhóm chủ đề pháp lý đặt tại trang [an toàn & pháp lý](/blog/an-toan-phap-ly/), còn nếu xe thuê dính thông báo phạt qua camera giữa kỳ thuê, cách đối chiếu và xử lý đã tóm tắt tại trang [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về chở người trên xe máy
 
@@ -54,6 +56,7 @@ Mô tô hai bánh chở một người, trừ người bệnh đi cấp cứu, t
 
 ## Nguồn tham khảo
 
-Văn bản chính thức: [Luật Trật tự, an toàn giao thông đường bộ 2024](https://vanban.chinhphu.vn/?pageid=27160) trên cổng thông tin điện tử Chính phủ.
+Văn bản chính thức: [Luật Trật tự, an toàn giao thông đường bộ 2024](h
+ttps://vanban.chinhphu.vn/?pageid=27160) trên cổng thông tin điện tử Chính phủ.
 
 Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

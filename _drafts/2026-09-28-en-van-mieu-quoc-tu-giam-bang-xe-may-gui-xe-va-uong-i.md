@@ -18,7 +18,8 @@ article_id: BLG-00660
 
 Khu di tích nằm trên phố Quốc Tử Giám, phường Văn Miếu, tiếp giáp các trục Nguyễn Thái Học, Văn Miếu và Tôn Đức Thắng, thuộc vùng trung tâm nên gần như mọi lộ trình của Hà Nội đều có thể bám vào một trong các trục lớn để tới nơi. Cổng chính đón khách đặt trên phố Quốc Tử Giám, phía trước có không gian gửi xe và vỉa hè rộng so với mặt bằng chung của khu phố. Việc cần làm trước khi khởi hành chỉ là xác định giờ mở cửa hiện hành của khu di tích, vì giờ nhận khách có thể thay đổi theo thời điểm trong năm.
 
-Từ khu Bồ Đề, Long Biên, khoảng cách tới Văn Miếu không xa nhưng cắt qua nhiều nút giao đông. Cách đi thuận nhất là bám trục Nguyễn Văn Cừ sang sông, theo các trục đường lớn phía Hoàn Kiếm, Đống Đa như Bà Triệu rồi rẽ vào khu vực Nguyễn Khuyến, Quốc Tử Giám. Trong giờ cao điểm buổi sáng và chiều tối, nên tính thêm thời gian dừng đèn ở các ngã tư lớn như Hàng Xanh hay ngã tư Bà Triệu - Trần Hưng Đạo.
+Từ khu Bồ Đề, Long Biên, khoảng cách tới Văn Miếu không xa nhưng cắt qua nhiều nút giao đông. Cách đi thuận nhất là bám trục Nguyễn Văn Cừ sang sông, theo các trục đường lớn phía Hoàn Kiếm, Đống Đa như Bà Triệu rồi rẽ vào khu vực Nguyễn Khuyến, Quốc Tử Giám. Trong giờ cao điểm buổi sáng và chiều tối, nên tính thêm thời gian dừng đèn ở các ngã tư lớn như Hàng Xanh hay ngã tư Bà Triệu - Trần 
+Hưng Đạo.
 
 ## Vài nét về Văn Miếu - Quốc Tử Giám
 
@@ -34,13 +35,14 @@ Một lưu ý thực tế: cuối tuần và các dịp lễ, lượng khách đ
 
 Bên trong, dòng khách đi theo trục từ cổng chính qua Hồ Văn tới Khuê Văn Các, rồi đến khu nhà bia Tiến sĩ và khu Thái Học phía sau. Từng khu mang một tầng nghĩa riêng: Hồ Văn là khoảng lặng xanh giữa phố, Khuê Văn Các là biểu tượng quen thuộc in trên tờ giấy bạc hai chục nghìn, dãy bia đá khắc tên các tiến sĩ là minh chứng cho nền khoa bảng gần bảy thế kỷ của Quốc Tử Giám. Cuối khuôn viên là không gian trưng bày về lịch sử giáo dục, nơi dừng hợp lý trước khi vòng ra.
 
-Chu kỳ tham quan trọn vẹn thường cần khoảng một giờ rưỡi tới hai giờ, đi chậm và đọc bia. Vì mặt đường trong khuôn viên là gạch và sỏi, giày đế bằng thoải mái hơn giày cao gót. Các điểm tham quan lân cận có thể ghép trong cùng buổi như khu Ba Đình, hướng dẫn chi tiết trong bài [khám phá khu Ba Đình bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), hoặc thả bộ khu phố cổ theo kinh nghiệm trong bài [khám phá Phố Cổ Hà Nội bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/).
+Chu kỳ tham quan trọn vẹn thường cần khoảng một giờ rưỡi tới hai giờ, đi chậm và đọc bia. Vì mặt đường trong khuôn viên là gạch và sỏi, giày đế b
+ằng thoải mái hơn giày cao gót. Các điểm tham quan lân cận có thể ghép trong cùng buổi như khu Ba Đình, hướng dẫn chi tiết trong bài [khám phá khu Ba Đình bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), hoặc thả bộ khu phố cổ theo kinh nghiệm trong bài [khám phá Phố Cổ Hà Nội bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/).
 
-## Chạy xe quanh khu vực cần lưu ý gì
+## Chạy xe thế nào khi đến Văn Miếu - Quốc Tử Giám bằng xe máy
 
 Vài tuyến quanh Văn Miếu là đường một chiều hoặc đổi chiều theo giờ, nên nếu không quen, hãy đi chậm theo dòng xe địa phương thay vì bám sát chỉ dẫn của ứng dụng bản đồ. Các đoạn vỉa hè quanh khu di tích thường kín người đi bộ vào giờ tham quan; không chạy xe lên vỉa hè để tránh tắc. Gửi xe xong, hầu hết hành trình tham quan đều đi bộ, nên mũ bảo hiểm nên cất vào cốp hoặc mang theo để tránh bỏ quên.
 
-Gợi ý các điểm đến quanh Hà Nội cho người mới đi xe máy xem trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Danh mục điểm đến du lịch bằng xe máy đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Gợi ý các điểm đến quanh Hà Nội cho người mới đi xe máy xem trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Danh mục điểm đến du lịch bằng xe máy đặt tại trang [điểm đến](/blog/du-lich/diem-den/); tổng quan nhóm chủ đề xem tại trang [du lịch](/blog/du-lich/), còn các tình huống đường đông người đi bộ quanh di tích được phân tích tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
 
 ## Kết luận về đi Văn Miếu bằng xe máy
 

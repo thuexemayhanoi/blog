@@ -22,7 +22,8 @@ Cùng dòng điện nhưng xe đạp điện có bàn đạp hỗ trợ, tốc �
 
 ## Quy định xe máy điện về đăng ký và biển số
 
-Xe máy điện thuộc diện phải đăng ký phải được cơ quan công an cấp đăng ký xe và gắn biển số trước khi lưu thông, tương tự mô tô xăng. Hồ sơ đăng ký gồm giấy tờ chứng minh nguồn gốc xe, như hóa đơn và giấy chứng nhận kiểm định, cùng giấy tờ tùy thân của chủ xe; trình tự nộp hồ sơ theo hướng dẫn của cơ quan đăng ký xe hiện hành. Biển số xe máy điện gắn phía sau xe và phải giữ nguyên vẹn khi lưu thông.
+Xe máy điện thuộc diện phải đăng ký phải được cơ quan công an cấp đăng ký xe và gắn biển số trước khi lưu thông, tương tự mô tô xăng. Hồ sơ đăng ký gồm giấy tờ chứng minh nguồn gốc xe, như hóa đơn 
+và giấy chứng nhận kiểm định, cùng giấy tờ tùy thân của chủ xe; trình tự nộp hồ sơ theo hướng dẫn của cơ quan đăng ký xe hiện hành. Biển số xe máy điện gắn phía sau xe và phải giữ nguyên vẹn khi lưu thông.
 
 Hai điều người dùng hay bỏ qua: thứ nhất, gắn biển tạm hoặc không gắn biển sau khi mua xe mới vẫn là lưu thông xe chưa đủ điều kiện; thứ hai, biển bị che, mờ hoặc bẻ gãy cũng dẫn tới bị dừng xe xử lý. Với xe đã qua sử dụng, người mua hoặc thuê dài hạn cần kiểm tra đăng ký còn hiệu lực và thông tin chủ khớp với xe thực tế.
 
@@ -36,9 +37,10 @@ Về tín hiệu giao thông, xe máy điện chịu đủ mọi quy tắc như 
 
 ## Người thuê xe máy điện cần biết
 
-Khi thuê, ba câu nên hỏi cửa hàng trước khi nhận xe: xe thuộc diện đăng ký biển số hay không; đăng ký và bảo hiểm xe còn hiệu lực đến hết kỳ thuê chưa; sạc xe ở đâu trong thời gian thuê, một lần sạc chạy được quãng đường bao nhiêu. Câu trả lời cụ thể giúp bạn tránh bị dừng xe vì giấy tờ xe không hợp lệ giữa kỳ thuê, tương tự các tình huống đã nêu trong bài [bị kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/).
+Khi thuê, ba câu nên hỏi cửa hàng trước khi nhận xe: xe thuộc diện đăng ký biển số hay không; đăng ký và bảo hiểm xe còn hiệu lực đến hết kỳ thuê chưa; sạc xe ở đâu 
+trong thời gian thuê, một lần sạc chạy được quãng đường bao nhiêu. Câu trả lời cụ thể giúp bạn tránh bị dừng xe vì giấy tờ xe không hợp lệ giữa kỳ thuê, tương tự các tình huống đã nêu trong bài [bị kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/).
 
-Danh mục giấy tờ cá nhân cần mang theo khi đến cửa hàng thuê xe, xem chi tiết trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/). Tổng quan về dòng xe điện cho thuê ở Hà Nội đặt tại trang [xe điện](/blog/xe-may/xe-dien/), còn các quy định giao thông áp dụng cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Danh mục giấy tờ cá nhân cần mang theo khi đến cửa hàng thuê xe, xem chi tiết trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/). Tổng quan về dòng xe điện cho thuê ở Hà Nội đặt tại trang [xe điện](/blog/xe-may/xe-dien/), còn các quy định giao thông áp dụng cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Danh mục giấy tờ bắt buộc mang theo khi lưu thông được gom tại trang [giấy tờ](/blog/an-toan-phap-ly/giay-to/), và toàn bộ nhóm chủ đề đặt tại trang [an toàn & pháp lý](/blog/an-toan-phap-ly/).
 
 ## Kết luận về xe máy điện và quy định
 
