@@ -91,7 +91,13 @@ def first_published_planned(fx):
                 if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:'))
 
 
-# draft mẫu đạt gate cho hàng cho trước (word_target nhỏ để test gọn)
+# draft mẫu đạt gate cho hàng cho trước. Sau QA hardening của engine,
+# draft mẫu PHẢI: (i) permalink gốc-tương-đối — bóc tiền tố /blog khỏi
+# canonical_url (baseurl chỉ thêm khi render); (ii) chứa đủ liên kết theo
+# cột internal_links của chính hàng đó + hub cha, tổng 3-8 liên kết hợp
+# lệ; (iii) đủ số từ trong dải word_target ±15% của hàng — phần đệm là
+# prose Việt trung lập, câu duy nhất, đoạn dưới 160 từ, không số tiền,
+# không số điện thoại, không cam kết (forbidden_claims).
 DRAFT_TMPL = """---
 date: {date} 09:00:00 +0700
 layout: post
@@ -118,11 +124,7 @@ lực. Thiếu giấy này, cán bộ xử phạt sẽ lập biên bản theo qu
 
 ## Cần làm gì khi thiếu bảo hiểm
 
-Bạn nên [xem chủ đề bảo hiểm](/blog/an-toan-phap-ly/bao-hiem/) và đối
-chiếu [quy định giao thông](/blog/an-toan-phap-ly/
-quy-dinh-giao-thong/),
-đồng thời quay lại [trang thuê xe](/blog/thue-xe/) để đọc nhóm bài liên
-quan trước khi tiếp tục hành trình.
+{links_md}
 
 ## Nguồn tham khảo
 
@@ -132,6 +134,27 @@ Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn b�
 trước khi áp dụng.
 """
 
+FILLER_SUBJ = ['Người lái xe', 'Người thuê xe', 'Người đi đường',
+               'Người mới lái xe', 'Khách thuê xe cuối tuần',
+               'Người đi làm buổi sáng']
+FILLER_VERB = ['nên kiểm tra', 'nên đối chiếu', 'nên chuẩn bị',
+               'nên lưu ý', 'nên xem lại', 'nên sắp xếp']
+FILLER_OBJ = ['giấy tờ cá nhân trước khi xuất phát',
+              'trạng thái đèn và còi của xe',
+              'lốp và áp suất bánh trước chuyến đi dài',
+              'tuyến đường dự phòng khi trung tâm ùn tắc',
+              'thời tiết trong ngày để chọn giờ đi hợp lý',
+              'nơi gửi xe an toàn gần điểm đến']
+
+
+def _hub_url(fx, parent_id):
+    tax = json.load(open(os.path.join(fx, 'data/content-taxonomy.json'),
+                         encoding='utf-8'))
+    for p in tax.get('parents', []):
+        if p.get('parent_id') == parent_id:
+            return p.get('hub_url')
+    return None
+
 
 def make_draft(fx, row):
     d = '2026-09-28'
@@ -139,11 +162,59 @@ def make_draft(fx, row):
     desc = ('%s: cách xác định trường hợp thiếu bảo hiểm khi lưu thông ở Hà Nội, '
             'thủ tục cần làm và nguồn văn bản chính thức để đối chiếu.'
             % row['primary_keyword'])
+    required = [l for l in (row['internal_links'].split('; ')
+                            if row['internal_links'] else []) if l]
+    hub = _hub_url(fx, row['parent_id'])
+    links = list(required)
+    if hub and not any(l.startswith(hub) for l in links):
+        links.append(hub)
+    backup = [x for x in (hub, '/blog/an-toan-phap-ly/', '/blog/thue-xe/')
+              if x]
+    for cand in backup:
+        if len(links) >= 3:
+            break
+        if not any(l == cand for l in links):
+            links.append(cand)
+    links = links[:8]
+    anchors = ['xem nhóm bài liên quan', 'đọc chủ đề hướng dẫn',
+               'đối chiếu trang chủ đề', 'xem thêm bài cùng chủ đề',
+               'tham khảo trang chủ đề', 'đọc nhóm bài liên quan',
+               'xem chủ đề tổng hợp', 'đối chiếu nhóm bài liên quan']
+    parts = ['[%s](%s)' % (anchors[i % len(anchors)], l)
+             for i, l in enumerate(links)]
+    links_md = ('Người thuê xe nên đọc lần lượt ' + ', '.join(parts[:-1])
+                + ' và ' + parts[-1] + ' trước khi tiếp tục hành trình.')
     text = DRAFT_TMPL.format(
         date=d, title=row['title'], desc=desc, tag='bao-hiem',
         kw=row['primary_keyword'],
-        permalink=row['canonical_url'].replace('{date}', '2026/09/28'),
-        parent_id=row['parent_id'], child_id=row['child_id'], aid=row['id'])
+        permalink=re.sub(r'^/blog', '',
+                         row['canonical_url'].replace('{date}', '2026/09/28')),
+        parent_id=row['parent_id'], child_id=row['child_id'], aid=row['id'],
+        links_md=links_md)
+    # đệm prose đến đúng dải word_target ±15% của hàng (engine đọc lại
+    # word_target từ matrix được sinh lại từ seed, không dùng chỉ số cố định)
+    target = int(row['word_target'] or 1200)
+    fm_end = text.index('\n---\n') + len('\n---\n')
+    body = text[fm_end:]
+    words = len(body.split())
+    i = 0
+    extra = []
+    while words < target and i < 216:
+        para = []
+        for _ in range(6):
+            if words >= target or i >= 216:
+                break
+            s = '%s %s %s.' % (
+                FILLER_SUBJ[i % len(FILLER_SUBJ)],
+                FILLER_VERB[(i // len(FILLER_SUBJ)) % len(FILLER_VERB)],
+                FILLER_OBJ[(i // (len(FILLER_SUBJ) * len(FILLER_VERB)))
+                           % len(FILLER_OBJ)])
+            para.append(s)
+            words += len(s.split())
+            i += 1
+        extra.append(' '.join(para))
+    if extra:
+        text = text[:fm_end] + body + '\n\n' + '\n\n'.join(extra)
     if len(desc) < 140:
         desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
     if len(desc) < 140:
@@ -366,7 +437,8 @@ class TestManualProductionFlow(FxTestCase):
         r = self.operator('prepare-next', '--count', '15')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         rows = matrix_rows(self.fx)
-        self.assertEqual(len([x for x in rows if x['status'] == 'WRITING']), 10)
+        self.assertEqual(len([x for x in rows i
+f x['status'] == 'WRITING']), 10)
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
         self.assertEqual(len(cp['in_progress_chunk']), 10)
         # next_claimable nhảy đúng: 10 ID đầu (theo thứ tự id)
@@ -379,7 +451,7 @@ class TestManualProductionFlow(FxTestCase):
         r = self.validate('full')
         self.assertEqual(r.returncode, 1)   # FULL phát hiện
         row = first_writing(self.fx)
-        set_word_target(self.fx, row['id'], 100)
+        # make_draft tự đệm prose tới đúng dải word_target ±15% của hàng
         make_draft(self.fx, row)
         r = self.operator('qa', '--scope', 'fast', '--ids', row['id'])
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
