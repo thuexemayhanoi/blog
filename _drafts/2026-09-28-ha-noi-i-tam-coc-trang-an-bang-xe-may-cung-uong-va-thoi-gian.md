@@ -43,6 +43,12 @@ Xuất phát sáu rưỡi đến bảy giờ sáng là đẹp nhất: khách t�
 
 Chiều về đoạn 1A hướng bắc có lúc đông xe, khách tránh chạy sát giờ tối muộn; mắt đã mỏi sau cả ngày ngoài trời, một lần dừng uống nước ở Phủ Lý giúp tỉnh táo cho chặng cuối.
 
+## Thuyền Tràng An và Tam Cốc chạy bao lâu
+
+Hai khu thuyền nằm sát nhau nhưng trải nghiệm khác nhau, nên khách cần chọn trước thay vì ôm cả hai trong một ngày. Ở Tràng An, thuyền chạy theo tuyến xuyên qua các hang động đá vôi ngập nước và các đền cổ trong vùng danh thắng; mỗi thuyền chở khoảng bốn khách và một người lái, trọn tuyến kéo dài khoảng ba tiếng đồng hồ. Ở Tam Cốc, thuyền đi trên dòng sông Ngô Đồng, xuyên qua ba hang động liền kề, hai bên bờ là cánh đồng lúa; trọn đoạn chèo khoảng hai tiếng. Khoảng cuối tháng 5 và đầu tháng 6, khi lúa ở vùng Tam Cốc chín vàng, là lúc cảnh sông đẹp nhất trong năm, cũng là lúc đông khách nhất.
+
+Vì thời gian trên thuyền dài như vậy, lịch đi và về trong ngày bằng xe máy chỉ nên chọn một trong hai khu. Đi Tràng An thì đặt trọn buổi sáng và một phần buổi trưa; đi Tam Cốc thì gộp thêm buổi chiều thăm Bích Động gần đó. Muốn chơi cả hai khu thì phải ngủ lại Ninh Bình, hôm sau chạy về; chạy gấp cả hai trong một ngày dễ dẫn đến về đêm trên quốc lộ, phần đường không nên đi khi đã mệt. Cuối tuần lượng khách tăng nhanh, khách tự lái xe máy đến nên dự kiến xếp hàng mua vé lâu hơn ngày thường; mùa hè nắng gắt, các khung giờ thuyền buổi sáng mát và thoáng hơn, càng cần xuất phát từ Hà Nội thật sớm. Trước khi lên thuyền, gửi xe và mũ bảo hiểm ở bãi giữ xe cạnh khu du lịch, mang theo nước uống vì tuyến thuyền khá dài.
+
 ## Lưu ý cho xe máy chạy cung một trăm ki-lô-mét
 
 Trước chuyến đi, khách kiểm tra nhớm xích, dầu máy, phanh, lốp và đèn xe; đổ xăng đầy trước khi rời các quận nội thành. Mũ bảo hiểm đạt chuẩn, áo mưa theo mùa, chai nước và điện thoại sạc đầy pin. Khách cần chuẩn bị tinh thần chạy đường trường: giữa trưa nắng lớn thì nghỉ trưa, mưa to thì đợi, vì mặt đường 1A sau mưa trơn và ùn tắc chỗ ngập nước.
