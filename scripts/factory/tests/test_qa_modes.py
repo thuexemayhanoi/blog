@@ -59,7 +59,8 @@ def cp_json(fx, rel):
 def write_json(fx, rel, obj):
     p = os.path.join(fx, rel)
     tmp = p + '.tmp'
-    with open(tmp, 'w', encoding='utf-8') as f:
+    wit
+h open(tmp, 'w', encoding='utf-8') as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
     os.replace(tmp, p)
 
@@ -119,7 +120,8 @@ lực. Thiếu giấy này, cán bộ xử phạt sẽ lập biên bản theo qu
 ## Cần làm gì khi thiếu bảo hiểm
 
 Bạn nên [xem chủ đề bảo hiểm](/blog/an-toan-phap-ly/bao-hiem/) và đối
-chiếu [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/),
+chiếu [quy định giao thông](/blog/an-toan-phap-ly/
+quy-dinh-giao-thong/),
 đồng thời quay lại [trang thuê xe](/blog/thue-xe/) để đọc nhóm bài liên
 quan trước khi tiếp tục hành trình.
 
@@ -172,7 +174,8 @@ class FxTestCase(unittest.TestCase):
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
         # hermetic: fixture KHÔNG mang draft của repo thựt — mọi draft
         # cần cho test đều do make_draft() tạo trong fixture. Trạng thái
-        # WRITING của repo thựt có thể đã có draft (writer đã push), làm
+        # WRITING của repo thựt có thể đã có draft (writer đã
+ push), làm
         # lệch tiền đề "WRITING chưa có draft" của release-chunk
         # và prepare-next trong bộ test này.
         drafts_dir = os.path.join(self.fx, '_drafts')
@@ -192,12 +195,65 @@ class FxTestCase(unittest.TestCase):
     def operator(self, *args):
         return self.py('scripts/factory/factory-operator.py', *args)
 
+    def pause_in_progress_chunk(self):
+        """Hermetic: repo thật có thể đang giữ in_progress_chunk với hàng
+        đã claim/chưa publish (WRITING/QA/REPAIR/PASS) — prepare-next đúng
+        chuẩn TỪ CHỐI claim mới (resume-first). Fixture mô phỏng pause an
+        toàn: trả hàng chunk chưa PUBLISHED về PLANNED (đúng trạng thái
+        trước khi claim), xóa chunk + evidence QA của các hàng đó, đồng bộ
+        checkpoint + outputs deterministic (không đụng repo thật)."""
+        rows = matrix_rows(self.fx)
+        cp = cp_json(self.fx, 'data/state/checkpoint.json')
+        chunk = cp.get('in_progress_chunk') or []
+        if not chunk:
+            return
+        reset_ids = [r['id'] for r in rows
+                     if r['id'] in chunk
+                     and r['status'] in ('WRITING', 'QA', 'REPAIR', 'PASS')]
+        if not reset_ids:
+            return
+        for r in rows:
+            if r['id'] in reset_ids:
+                r['status'] = 'PLANNED'
+        save_matrix(self.fx, rows)
+        for aid in reset_ids:
+            evp = os.path.join(self.fx, 'data', 'qa', aid + '.json')
+            if os.path.exists(evp):
+                os.remove(evp)
+        counts = {}
+        for r in rows:
+            counts[r['status']] = counts.get(r['status'], 0) + 1
+        cp['in_progress_chunk'] = None
+        nc = min(reset_ids)
+        cur = cp.get('next_claimable_id')
+        if cur is None or nc < cur:
+            cp['next_claimable_id'] = nc
+        cp['counts'] = {'legacy_total': cp['counts'].get('legacy_total', 483),
+                        'existing': counts.get('EXISTING', 0),
+                        'review': counts.get('REVIEW', 0),
+                        'planned': counts.get('PLANNED', 0),
+                        'writing': counts.get('WRITING', 0),
+                        'qa': counts.get('QA', 0),
+                        'pass': counts.get('PASS', 0),
+                        'published': counts.get('PUBLISHED', 0),
+                        'repair': counts.get('REPAIR', 0),
+                        'blocked': counts.get('BLOCKED', 0),
+                        'fail': counts.get('FAIL', 0)}
+        write_json(self.fx, 'data/state/checkpoint.json', cp)
+        for script in ('generate-reports.py', 'generate-matrix.py',
+                       'generate-listing-pages.py'):
+            rr = self.py('scripts/factory/' + script)
+            self.assertEqual(rr.returncode, 0,
+                             script + ': ' + rr.stdout + rr.stderr)
+
     def ensure_writing_chunk(self, count=10):
         """Test resume/release cần trạng thái 'đang làm chunk'. Repository
-        thật có thể đang PAUSED (0 WRITING sau release-chunk) — khi đó claim
-        lại count hàng TRONG FIXTURE (không đụng repo thật) để test độc lập
-        với trạng thái sống."""
+        thật có thể đang PAUSED (0 WRITING sau release-chunk) hoặc đang giữ
+        chunk chờ publish (hàng QA/REPAIR/PASS) — khi đó pause chunk trong
+        FIXTURE rồi claim lại count hàng (không đụng repo thật) để test
+        độc lập với trạng thái sống."""
         if not any(r['status'] == 'WRITING' for r in matrix_rows(self.fx)):
+            self.pause_in_progress_chunk()
             r = self.operator('prepare-next', '--count', str(count))
             self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
@@ -220,7 +276,8 @@ class TestScopeGating(FxTestCase):
     def test_site_wide_legacy_url_breaks_deep_and_full_not_fast(self):
         corrupt_legacy_url(self.fx)
         r = self.validate('chunk')
-        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual(r.returncode
+, 0, r.stdout + r.stderr)
         r = self.validate('batch')
         self.assertEqual(r.returncode, 1)
         self.assertIn('URL legacy sai', r.stdout)
@@ -266,7 +323,8 @@ class TestReleaseChunk(FxTestCase):
         self.assertIsNone(cp['in_progress_chunk'])
         self.assertEqual(cp['next_claimable_id'], min(writing))
         self.assertEqual(cp['counts']['planned'], planned_before + len(writing))
-        self.assertEqual(cp['counts']['writing'], 0)
+        self.ass
+ertEqual(cp['counts']['writing'], 0)
 
     def test_release_keeps_rows_with_drafts(self):
         self.ensure_writing_chunk()
@@ -311,7 +369,8 @@ class TestManualProductionFlow(FxTestCase):
         r = self.operator('prepare-next', '--count', '15')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         rows = matrix_rows(self.fx)
-        self.assertEqual(len([x for x in rows if x['status'] == 'WRITING']), 10)
+        self.assertEqual(len([x for x in rows i
+f x['status'] == 'WRITING']), 10)
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
         self.assertEqual(len(cp['in_progress_chunk']), 10)
         # next_claimable nhảy đúng: 10 ID đầu (theo thứ tự id)
@@ -350,7 +409,8 @@ class TestManualProductionFlow(FxTestCase):
         # phá meta description (ngắn, thiếu từ khóa) -> seo < 90 -> REPAIR,
         # KHÔNG hạ ngưỡng
         text = open(p, encoding='utf-8').read()
-        text = re.sub(r'^description: .*$', 'description: "ngắn"',
+        text = re.sub(r'^description: .*$', 
+'description: "ngắn"',
                       text, count=1, flags=re.M)
         open(p, 'w', encoding='utf-8').write(text)
         r = self.operator('qa', '--scope', 'fast', '--ids', row['id'])
@@ -396,7 +456,8 @@ class TestManualProductionFlow(FxTestCase):
         pub = first_published_planned(self.fx)
         txn = cp_json(self.fx, 'data/state/transaction.json')
         txn['active'] = True
-        txn['pending'] = {'article_id': pub['id'], 'step': 'promote',
+        txn['pending'
+] = {'article_id': pub['id'], 'step': 'promote',
                           'destination': pub['output_path'],
                           'source': '_drafts/2026-09-27-x.md'}
         write_json(self.fx, 'data/state/transaction.json', txn)
