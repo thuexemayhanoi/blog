@@ -1,56 +1,9 @@
-DIAGNOSE v9 - real op publish with exact comma ids (throwaway, no push)
-head=c695a1829abdf458ab7fa5051b9c3b94ad55fb9e
+DIAGNOSE v10 - full post-op workflow sequence (no push)
+orig_head=a5f681a7723bace36e620676a3fa2ff36d9b395b
 
-=== factory-operator.py publish --ids <10 comma ids> ===
+=== STEP 1: op publish ===
 publish exit=0
---- stdout ---
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md -> _posts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md
-checkpoint: last_completed=BLG-00635 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md -> _posts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md
-checkpoint: last_completed=BLG-00636 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md -> _posts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md
-checkpoint: last_completed=BLG-00637 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md -> _posts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md
-checkpoint: last_completed=BLG-00638 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md -> _posts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md
-checkpoint: last_completed=BLG-00639 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md -> _posts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md
-checkpoint: last_completed=BLG-00640 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md -> _posts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md
-checkpoint: last_completed=BLG-00641 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md -> _posts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md
-checkpoint: last_completed=BLG-00642 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md -> _posts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md
-checkpoint: last_completed=BLG-00643 next_claimable=BLG-00645
-history: 50 mục (không reset)
-
-=== PUBLISH GATE: PROMOTED ===
-_drafts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md -> _posts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md
+-uong-truong.md
 checkpoint: last_completed=BLG-00644 next_claimable=BLG-00645
 history: 50 mục (không reset)
 
@@ -58,7 +11,7 @@ history: 50 mục (không reset)
 legacy: 483 (EXISTING 473, REVIEW 10)
 matrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
 tiến độ bảo toàn: last_completed=BLG-00644 chunk=None next_claimable=BLG-00645
-mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T07:45:14+00:00 | checkpoint.updated_at: 2026-09-28T07:45:14+00:00
+mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T07:46:11+00:00 | checkpoint.updated_at: 2026-09-28T07:46:11+00:00
 vân tay: matrix=5802f6cb3ac6... data_fingerprint=e726ca0737ad...
 KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
 
@@ -87,7 +40,7 @@ KẾT QUẢ: PASS (0 cảnh báo)
 
 publish: PUBLISHED BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644 (mode=fast)
 
---- stderr ---
+stderr tail: 
 
 
 
@@ -99,87 +52,136 @@ publish: PUBLISHED BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,B
 
 
 
+=== STEP 2: xoa lenh ===
+rm exit=0 done
 
-=== git status --porcelain after op ===
- M _data/listing-index.yml
- D _drafts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md
- D _drafts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md
- D _drafts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md
- D _drafts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md
- D _drafts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md
- D _drafts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md
- D _drafts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md
- D _drafts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md
- D _drafts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md
- D _drafts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md
- M data/content-matrix.csv
- M data/qa/BLG-00635.json
- M data/qa/BLG-00636.json
- M data/qa/BLG-00637.json
- M data/qa/BLG-00638.json
- M data/qa/BLG-00639.json
- M data/qa/BLG-00640.json
- M data/qa/BLG-00641.json
- M data/qa/BLG-00642.json
- M data/qa/BLG-00643.json
- M data/qa/BLG-00644.json
- M data/state/checkpoint.json
- M data/state/transaction.json
- M data/state/writer-lock.json
- M listing/kinh-nghiem/10.md
- M listing/kinh-nghiem/11.md
- M listing/kinh-nghiem/12.md
- M listing/kinh-nghiem/13.md
- M listing/kinh-nghiem/14.md
- M listing/kinh-nghiem/15.md
- M listing/kinh-nghiem/16.md
- M listing/kinh-nghiem/17.md
- M listing/kinh-nghiem/18.md
- M listing/kinh-nghiem/19.md
- M listing/kinh-nghiem/2.md
- M listing/kinh-nghiem/20.md
- M listing/kinh-nghiem/21.md
- M listing/kinh-nghiem/22.md
- M listing/kinh-nghiem/23.md
- M listing/kinh-nghiem/24.md
- M listing/kinh-nghiem/25.md
- M listing/kinh-nghiem/26.md
- M listing/kinh-nghiem/27.md
- M listing/kinh-nghiem/28.md
- M listing/kinh-nghiem/29.md
- M listing/kinh-nghiem/3.md
- M listing/kinh-nghiem/30.md
- M listing/kinh-nghiem/31.md
- M listing/kinh-nghiem/32.md
- M listing/kinh-nghiem/33.md
- M listing/kinh-nghiem/34.md
- M listing/kinh-nghiem/35.md
- M listing/kinh-nghiem/36.md
- M listing/kinh-nghiem/37.md
- M listing/kinh-nghiem/38.md
- M listing/kinh-nghiem/39.md
- M listing/kinh-nghiem/4.md
- M listing/kinh-nghiem/40.md
- M listing/kinh-nghiem/5.md
- M listing/kinh-nghiem/6.md
- M listing/kinh-nghiem/7.md
- M listing/kinh-nghiem/8.md
- M listing/kinh-nghiem/9.md
- M reports/factory/latest.md
- M reports/factory/progress.json
-?? _posts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md
-?? _posts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md
-?? _posts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md
-?? _posts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md
-?? _posts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md
-?? _posts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md
-?? _posts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md
-?? _posts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md
-?? _posts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md
-?? _posts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md
-?? listing/kinh-nghiem/41.md
+=== STEP 3: verify chuan (workflow stage) ===
+verified_tree=b91e160bfba5bd17a30fb1f0948d51948c89325f
+verify exit=1
+--- verify stdout ---
+$ python3 scripts/factory/validate.py --scope chunk -> 0
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 0, "blocked": 0}
+KẾT QUẢ: PASS (0 cảnh báo)
 
+$ python3 scripts/factory/capacity-audit.py -> 0
+=== CAPACITY AUDIT ===
+hard_capacity          : 10000
+editorial allocated    : 10000 (children 9517 + legacy 483)
+materialized topics    : 942
+unmaterialized capacity: 9058
+published (factory)    : 160
+legacy existing        : 473
+claimable PLANNED      : 298 (min_ready_queue 100)
+needs refill           : NO
+RESULT: PASS
 
-=== restore workspace (no state pushed) ===
-git reset exit=0
-git clean exit=0
+$ python3 scripts/factory/tests/test_publish_gate.py -> 0
+PASS: A1 — metadata fail sau sentinel: raise + cleanup sentinel + metadata hop le locked=false
+PASS: A2 — release A (token cu) muon: sentinel B con, locked=true, holder/token dung B
+PASS: A2b — release dung token: sentinel di, locked=false
+PASS: gate từ chối thiếu bằng chứng / điểm thấp / trạng thái chưa PASS / business FAIL; dry-run không đổi dữ liệu; STALE_QA_EVIDENCE khi nội dung đổi sau QA; MATRIX_ROW_MISMATCH khi hàng đổi sau QA; writer-lock bị giữ thì từ chối.
+
+$ python3 scripts/factory/tests/test_refill_safety.py -> 0
+nel=False locked=False)
+PASS: P1. plain --verify: stdout only, tree hash giong het - exit=0 hash_same=True
+PASS: P2. --verify --report - : tree hash giong het
+PASS: P3. --report PATH: ghi dung PATH, khong ghi default - exact=True no_default=True
+PASS: P4. --dry-run: tree hash giong het
+PASS: A1. metadata fail sau sentinel: cleanup (sentinel di, locked=false nhat quan) - raised=True sentinel=False locked=False
+PASS: A1b. acquire binh thuong khong pha gi (sentinel con)
+PASS: A2. release cu (token cu) KHONG pha khoa moi: sentinel con, locked=true, holder=refill-new - sentinel=True locked=True holder=refill-new
+PASS: A2b. release moi (token dung): khoa sach
+PASS: A2c. sentinel mat + token khop metadata: de unlocked dung
+PASS: P5. data that cua repo khong doi trong tests
+
+KET QUA: PASS (21/21)
+
+$ python3 scripts/factory/tests/test_operator.py -> 0
+
+$ python3 scripts/factory/tests/test_link_integrity.py -> 0
+
+$ python3 scripts/factory/tests/test_qa_modes.py -> 1
+
+=== QUEUE STATS (view over matrix) ===
+claimable PLANNED : 298
+min_ready_queue    : 100
+refill_target      : 300
+next refill need   : 2
+--- per-child: materialized / editorial capacity ---
+C-BAO-DUONG               20 /   191 (con 171)
+C-BAO-HIEM                16 /   177 (con 161)
+C-BAO-TANG                17 /   123 (con 106)
+C-BIEN-BAO                 7 /   136 (con 129)
+C-CD-CUOI-TUAN            29 /   177 (con 148)
+C-CD-HA-GIANG              6 /   109 (con 103)
+C-CD-MAI-CHAU              5 /   109 (con 104)
+C-CD-MOC-CHAU              6 /   109 (con 103)
+C-CD-NOI-THANH             6 /   136 (con 130)
+C-CD-PHO-BAC              19 /   123 (con 104)
+C-DIEM-DEN                58 /   232 (con 174)
+C-GIAY-TO                 13 /   150 (con 137)
+C-GPLX                    11 /   205 (con 194)
+C-HD-CHON-XE               7 /   123 (con 116)
+C-HD-GIA                   6 /   123 (con 117)
+C-HD-NGUOI-MOI            26 /   123 (con 97)
+C-HD-PHAP-LY               7 /   123 (con 116)
+C-HD-SU-CO                 5 /   123 (con 118)
+C-HD-THU-TUC               6 /   123 (con 117)
+C-HO-TAY                   8 /   136 (con 128)
+C-HONDA-AIR-BLADE          5 /   150 (con 145)
+C-HONDA-CLICK              4 /   136 (con 132)
+C-HONDA-VISION             6 /   164 (con 158)
+C-HONDA-WAVE               6 /   164 (con 158)
+C-KY-NANG-CHO-DO          29 /   177 (con 148)
+C-KY-NANG-CO-BAN          45 /   245 (con 200)
+C-KY-NANG-GUI-XE          26 /   164 (con 138)
+C-KY-NANG-SUC-KHOE        30 /   150 (con 120)
+C-KY-NANG-THOI-TIET       51 /   204 (con 153)
+C-KY-NANG-TINH-HUONG     106 /   245 (con 139)
+C-LONG-BIEN                6 /   150 (con 144)
+C-NGOAI-THANH              8 /   150 (con 142)
+C-NOI-DO-CONG              8 /   164 (con 156)
+C-PHAT-NGUOI               8 /   164 (con 156)
+C-PHO-CO                  10 /   150 (con 140)
+C-QUY-DINH                21 /   204 (con 183)
+C-THUE-DAT-COC            10 /   205 (con 195)
+C-THUE-DIA-DIEM            9 /    95 (con 86)
+C-THUE-DOI-TUONG           8 /   109 (con 101)
+C-THUE-GIA                21 /   300 (con 279)
+C-THUE-NGAY               18 /   245 (con 227)
+C-THUE-NHAN-TRA           32 /   245 (con 213)
+C-THUE-QUOC-TE            14 /   191 (con 177)
+C-THUE-SU-CO              40 /   245 (con 205)
+C-THUE-THANG              18 /   273 (con 255)
+C-THUE-THU-TUC            33 /   273 (con 240)
+C-THUE-TUAN                7 /   232 (con 225)
+C-XE-50CC                  8 /   191 (con 183)
+C-XE-DAP-DIEN              7 /   136 (con 129)
+C-XE-DIEN                 17 /   218 (con 201)
+C-XE-GA                   11 /   218 (con 207)
+C-XE-KHAC-PHUC            10 /   123 (con 113)
+C-XE-LUA-CHON             10 /   109 (con 99)
+C-XE-SO                    9 /   218 (con 209)
+C-XE-SO-SANH               9 /   123 (con 114)
+C-YAMAHA-SIRIUS            4 /   136 (con 132)
+
+verify: FAIL ở ['scripts/factory/tests/test_qa_modes.py'] (mode=fast)
+
+--- verify stderr ---
+
+tree_after_verify=b91e160bfba5bd17a30fb1f0948d51948c89325f
+tree_match=True
+
+=== STEP 4: commit local (no push) ===
+tree_pre_commit=b91e160bfba5bd17a30fb1f0948d51948c89325f match=True
+diff_cached_quiet: diff_exit=1
+commit exit=128 out=HEAD^tree
+head_tree=b91e160bfba5bd17a30fb1f0948d51948c89325f match_verified=True
+
+=== restore ===
+reset exit=0
+clean exit=0
