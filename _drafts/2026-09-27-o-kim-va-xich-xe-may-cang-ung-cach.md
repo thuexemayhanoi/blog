@@ -11,7 +11,7 @@ permalink: /xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-ung-cach/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-00610
----
+---Căng xích xe máy đúng cách là kỹ năng đơn giản nhưng nhiều người bỏ qua, khiến xích bị lỏng hoặc căng quá đều mòn nhanh hỏng.
 
 Xích và ổ kim là bộ truyền lực quen thuộc trên xe số: bàn đạp hoặc động cơ quay, lực đi qua xích tới bánh sau và xe tiến về trước. Chính vì làm việc liên tục dưới nhiệt độ và bụi, xích là chi tiết cần chăm sóc thường xuyên nhất. Căng xích quá lỏng, xe giật, có tiếng lạch cạch; căng quá, xích và ổ kim mòn nhanh, nặng hơn có thể làm đứt xích giữa đường. Bài viết này hướng dẫn cách kiểm tra, căng xích đúng chuẩn và bảo dưỡng ổ kim cho bền.
 
@@ -54,7 +54,7 @@ Nhiều người vì muốn chắc ăn nên căng xích quá mức, tưởng xí
 
 - Mỗi tuần: lau sạch và tra dầu xích, kiểm tra độ căng.
 - Mỗi 500 km đi bụi hoặc mưa: tra lại dầu.
-- Mỗi 8.000 đến 12.000 km: cân nhắc thay xích và cả bánh răng nếu mòn.
+- Mỗi 8000 đến 12000 km: cân nhắc thay xích và cả bánh răng nếu mòn.
 - Khi thay xích: thay cả ổ kim và cân nhắc thay dĩa sau nếu răng mòn.
 
 Xích là bộ phận của nhóm bảo dưỡng định kỳ, bạn xem thêm hướng dẫn tổng hợp tại trang [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/).
@@ -72,3 +72,7 @@ Với xe thuê, việc căng xích do cửa hàng lo trước khi giao, nhưng t
 Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra và tra dầu xích định kỳ cho toàn bộ xe cho thuê trước khi giao khách, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi về dòng xe sẵn hoặc mang xe bản thân đến nhờ kiểm tra nhanh. Thêm các bài về cấu kiện xe tại trang [xe máy và dòng xe](/blog/xe-may/).
 
 Căng xích đúng cách không phải việc làm một lần rồi xong, mà là thói quen tuần vài phút. Xích khỏe, ổ kim bôi trơn tốt thì bàn đạp nhẹ, xe bốc và bạn bớt nguy cơ đứt xích giữa chặng.
+
+## Kết luận về căng xích xe máy
+
+Căng xích xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.
