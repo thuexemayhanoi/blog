@@ -1,0 +1,555 @@
+=== diagnose7 HEAD=537d2d444e05a7521668013a215329eabeba90dc ===
+--- py_compile per module ---
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_hardening'compile_done test_hardening.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_link_integrity'compile_done test_link_integrity.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_operator'compile_done test_operator.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_publish_gate'compile_done test_publish_gate.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_qa_modes'compile_done test_qa_modes.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_refill_safety'compile_done test_refill_safety.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_reports_resume'compile_done test_reports_resume.py
+[Errno 2] No such file or directory: 'scripts/factory/tests/test_topic_universe'compile_done test_topic_universe.py
+--- op qa (tai tao evidence run #114) ---
+qa BLG-00625: PASS quality=100 seo=100
+qa BLG-00626: PASS quality=100 seo=100
+qa BLG-00627: PASS quality=100 seo=100
+qa BLG-00628: PASS quality=100 seo=100
+qa BLG-00629: PASS quality=100 seo=100
+qa BLG-00630: PASS quality=100 seo=100
+qa BLG-00631: PASS quality=100 seo=100
+qa BLG-00632: PASS quality=100 seo=100
+qa BLG-00633: PASS quality=100 seo=100
+qa BLG-00634: PASS quality=100 seo=100
+3, REVIEW 10)
+matrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 140, 'BLOCKED': 1, 'PASS': 10, 'PLANNED': 308}
+tiến độ bảo toàn: last_completed=BLG-00624 chunk=['BLG-00625', 'BLG-00626', 'BLG-00627', 'BLG-00628', 'BLG-00629', 'BLG-00630', 'BLG-00631', 'BLG-00632', 'BLG-00633', 'BLG-00634'] next_claimable=BLG-00635
+mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T05:14:57+00:00 | checkpoint.updated_at: 2026-09-28T05:14:57+00:00
+vân tay: matrix=6a5232909f4f... data_fingerprint=e1306b4f15b0...
+KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
+
+=== GENERATE MATRIX ===
+tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 308)
+chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
+thiếu so với planned_target 6980: 6672 hàng (báo thiếu, không đệm)
+
+g
+chia-se: 112 bài -> 10 trang
+du-lich: 41 bài -> 4 trang
+topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
+topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
+topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
+topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
+topic thue-xe/su-co: 40 bài -> 2 trang
+topic thue-xe/thu-tuc: 32 bài -> 2 trang
+KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
+
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 140, 'BLOCKED': 1, 'PASS': 10, 'PLANNED': 308}
+WARN: writer-lock đang bị giữ: kiểm tra writer sống
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
+KẾT QUẢ: PASS (1 cảnh báo)
+
+qa: xong 10 hàng (mode=fast), kết quả: {"BLG-00625": "PASS", "BLG-00626": "PASS", "BLG-00627": "PASS", "BLG-00628": "PASS", "BLG-00629": "PASS", "BLG-00630": "PASS", "BLG-00631": "PASS", "BLG-00632": "PASS", "BLG-00633": "PASS", "BLG-00634": "PASS"}
+qa_exit=0
+--- per-module unittest ---
+--- module test_hardening.py ---
+test_s5_report_failure_stops_prepare_next (test_hardening.PrepareNextHardening.test_s5_report_failure_stops_prepare_next) ... FAIL
+test_s6a_rebase_conflict_stops (test_hardening.PushBlockSim.test_s6a_rebase_conflict_stops) ... ok
+test_s6b_clean_rebase_verifies_before_push (test_hardening.PushBlockSim.test_s6b_clean_rebase_verifies_before_push) ... ok
+test_s6c_verify_fail_after_rebase_stops (test_hardening.PushBlockSim.test_s6c_verify_fail_after_rebase_stops) ... ok
+test_s6d_tree_mismatch_stops_before_commit (test_hardening.PushBlockSim.test_s6d_tree_mismatch_stops_before_commit) ... ok
+test_s6e_first_push_success (test_hardening.PushBlockSim.test_s6e_first_push_success) ... ok
+test_s1_repair_outcome_nonfatal (test_hardening.QaHardening.test_s1_repair_outcome_nonfatal) ... ok
+test_s2_report_generator_failure_stops_qa (test_hardening.QaHardening.test_s2_report_generator_failure_stops_qa) ... ok
+test_s4_qa_crash_is_fatal (test_hardening.QaHardening.test_s4_qa_crash_is_fatal) ... ok
+test_s8_recover_reports_failure_stops (test_hardening.RecoverHardening.test_s8_recover_reports_failure_stops) ... ok
+test_s3_listing_generator_failure_stops_requeue (test_hardening.RequeueHardening.test_s3_listing_generator_failure_stops_requeue) ... ok
+test_s7_no_ai_no_second_publisher (test_hardening.StaticContract.test_s7_no_ai_no_second_publisher) ... ok
+test_s7_publish_queue_disabled (test_hardening.StaticContract.test_s7_publish_queue_disabled) ... ok
+test_s7_qa_step_fatal_crash (test_hardening.StaticContract.test_s7_qa_step_fatal_crash) ... ok
+test_s7_workflow_invariants (test_hardening.StaticContract.test_s7_workflow_invariants) ... ok
+
+======================================================================
+FAIL: test_s5_report_failure_stops_prepare_next (test_hardening.PrepareNextHardening.test_s5_report_failure_stops_prepare_next)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/tests/test_hardening.py", line 230, in test_s5_report_failure_stops_prepare_next
+    self.assertIn('run_reports FAIL', r.stdout)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'run_reports FAIL' not found in '=== OPERATOR: TỪ CHỐI AN TOÀN ===\ncòn 10 hàng chưa xong (BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629...) — hoàn tất/QA/publish trước khi claim mới (không bỏ qua việc dở để lấy throughput).\n'
+
+----------------------------------------------------------------------
+Ran 15 tests in 9.602s
+
+FAILED (failures=1)
+module_done test_hardening.py
+--- module test_link_integrity.py ---
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+  text = open(os.path.join(posts_dir, fn), encoding='utf-8').read()
+ok
+  cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
+ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 7.336s
+
+OK
+module_done test_link_integrity.py
+--- module test_operator.py ---
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  open(draft, 'rb').read()).hexdigest(),
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(bad)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(bad)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(good)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+ok
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(bad)
+ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 0.224s
+
+OK
+module_done test_operator.py
+--- module test_publish_gate.py ---
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+NO TESTS RAN
+PASS: A1 — metadata fail sau sentinel: raise + cleanup sentinel + metadata hop le locked=false
+PASS: A2 — release A (token cu) muon: sentinel B con, locked=true, holder/token dung B
+PASS: A2b — release dung token: sentinel di, locked=false
+PASS: gate từ chối thiếu bằng chứng / điểm thấp / trạng thái chưa PASS / business FAIL; dry-run không đổi dữ liệu; STALE_QA_EVIDENCE khi nội dung đổi sau QA; MATRIX_ROW_MISMATCH khi hàng đổi sau QA; writer-lock bị giữ thì từ chối.
+module_done test_publish_gate.py
+--- module test_qa_modes.py ---
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  rows = list(csv.DictReader(open(p, encoding='utf-8')))
+  encoding='utf-8').write(text)
+FAIL
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  encoding='utf-8').write(text)
+  text = open(p, encoding='utf-8').read()
+  open(p, 'w', encoding='utf-8').write(text)
+ok
+test_lock_blocks_second_writer (test_qa_modes.TestManualProductionFlow.test_lock_blocks_second_writer) ... ok
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ok
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ok
+test_threshold_constants_unchanged (test_qa_modes.TestManualProductionFlow.test_threshold_constants_unchanged) ... ok
+test_published_not_regressed_by_qa (test_qa_modes.TestReleaseChunk.test_published_not_regressed_by_qa) ... ok
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  encoding='utf-8').write(text)
+ok
+test_release_refuses_published (test_qa_modes.TestReleaseChunk.test_release_refuses_published) ... ok
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ok
+test_bad_scope_rejected (test_qa_modes.TestScopeGating.test_bad_scope_rejected) ... ok
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  qa = json.load(open(p, encoding='utf-8'))
+  json.dump(qa, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+ok
+test_sections_by_scope (test_qa_modes.TestScopeGating.test_sections_by_scope) ... ok
+  rows = list(csv.DictReader(open(p, encoding='utf-8')))
+ok
+
+======================================================================
+FAIL: test_fast_qa_publishes_while_full_audit_fails (test_qa_modes.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py", line 388, in test_fast_qa_publishes_while_full_audit_fails
+    self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     'PASS')
+                     ^^^^^^^
+AssertionError: 'REPAIR' != 'PASS'
+- REPAIR
++ PASS
+
+
+----------------------------------------------------------------------
+Ran 14 tests in 21.317s
+
+FAILED (failures=1)
+module_done test_qa_modes.py
+--- module test_refill_safety.py ---
+/home/runner/work/blog/blog/scripts/factory/tests/test_refill_safety.py:433: SyntaxWarning: "is" with 'str' literal. Did you mean "=="?
+  os.path.exists(rqA1b.LOCK_SENTINEL) if 'rel1b' is None else True)
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+NO TESTS RAN
+module_done test_refill_safety.py
+--- module test_reports_resume.py ---
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+NO TESTS RAN
+PASS: chạy lại generate-reports.py không mất tiến độ; counts từ matrix thật; generated_at đổi theo giờ chạy thật, data_through/vân tay ổn định khi dữ liệu không đổi; checkpoint.updated_at + lock + transaction không bị report đụng.
+module_done test_reports_resume.py
+--- module test_topic_universe.py ---
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+NO TESTS RAN
+PASS: expand-topic-universe.py idempotent (chạy lại không đổi gì)
+PASS: checkpoint/writer-lock/transaction byte-identical sau mở rộng
+PASS: generate-matrix.py idempotent sau mở rộng (byte-identical)
+PASS: 483 hàng legacy giữ nguyên id/URL/trạng thái (không đổi)
+PASS: REVIEW giữ đúng 10 hàng, không tự PASS
+PASS: PUBLISHED giữ nguyên, không reshuffle
+PASS: chống trùng id/slug/URL/canonical/intent/keyword toàn matrix (PASS)
+PASS: không hai hàng mở rộng trùng tiêu đề chuẩn hoá (chống spam)
+PASS: seed có hàng mở rộng được ghi nhận: 109
+PASS: batch_id hàng PLANNED giữ nguyên khi tái sinh (idempotent theo hàng)
+PASS: mọi hàng PLANNED có batch_id hợp lệ Bxxx
+PASS: batch_id hàng PLANNED mới không giảm theo thứ tự id (không đan xen)
+PASS: mọi hàng PLANNED có đủ cột schema v2 (PASS)
+PASS: search_intent khớp intent trên mọi hàng PLANNED
+PASS: word_target >= 800 trên mọi hàng PLANNED
+PASS: hàng seed cũ không bị mất sau mở rộng (PASS)
+
+KẾT QUẢ: PASS (mở rộng idempotent, neo nguyên, chống trùng + chống spam PASS)
+module_done test_topic_universe.py
+--- full discover (tuong tu verify) ---
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+  open(draft, 'rb').read()).hexdigest(),
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(bad)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(bad)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(good)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(FRONT + BODY)
+  'w', encoding='utf-8').write(bad)
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  rows = list(csv.DictReader(open(p, encoding='utf-8')))
+  encoding='utf-8').write(text)
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  encoding='utf-8').write(text)
+  text = open(p, encoding='utf-8').read()
+  open(p, 'w', encoding='utf-8').write(text)
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  encoding='utf-8').write(text)
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+  qa = json.load(open(p, encoding='utf-8'))
+  json.dump(qa, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+  rows = list(csv.DictReader(open(p, encoding='utf-8')))
+.
+======================================================================
+FAIL: test_s5_report_failure_stops_prepare_next (test_hardening.PrepareNextHardening.test_s5_report_failure_stops_prepare_next)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/tests/test_hardening.py", line 230, in test_s5_report_failure_stops_prepare_next
+    self.assertIn('run_reports FAIL', r.stdout)
+    ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: 'run_reports FAIL' not found in '=== OPERATOR: TỪ CHỐI AN TOÀN ===\ncòn 10 hàng chưa xong (BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629...) — hoàn tất/QA/publish trước khi claim mới (không bỏ qua việc dở để lấy throughput).\n'
+
+======================================================================
+FAIL: test_fast_qa_publishes_while_full_audit_fails (test_qa_modes.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py", line 388, in test_fast_qa_publishes_while_full_audit_fails
+    self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     'PASS')
+                     ^^^^^^^
+AssertionError: 'REPAIR' != 'PASS'
+- REPAIR
++ PASS
+
+
+----------------------------------------------------------------------
+Ran 55 tests in 37.837s
+
+FAILED (failures=2)
+PASS: A1 — metadata fail sau sentinel: raise + cleanup sentinel + metadata hop le locked=false
+PASS: A2 — release A (token cu) muon: sentinel B con, locked=true, holder/token dung B
+PASS: A2b — release dung token: sentinel di, locked=false
+PASS: gate từ chối thiếu bằng chứng / điểm thấp / trạng thái chưa PASS / business FAIL; dry-run không đổi dữ liệu; STALE_QA_EVIDENCE khi nội dung đổi sau QA; MATRIX_ROW_MISMATCH khi hàng đổi sau QA; writer-lock bị giữ thì từ chối.
+PASS: chạy lại generate-reports.py không mất tiến độ; counts từ matrix thật; generated_at đổi theo giờ chạy thật, data_through/vân tay ổn định khi dữ liệu không đổi; checkpoint.updated_at + lock + transaction không bị report đụng.
+PASS: expand-topic-universe.py idempotent (chạy lại không đổi gì)
+PASS: checkpoint/writer-lock/transaction byte-identical sau mở rộng
+PASS: generate-matrix.py idempotent sau mở rộng (byte-identical)
+PASS: 483 hàng legacy giữ nguyên id/URL/trạng thái (không đổi)
+PASS: REVIEW giữ đúng 10 hàng, không tự PASS
+PASS: PUBLISHED giữ nguyên, không reshuffle
+PASS: chống trùng id/slug/URL/canonical/intent/keyword toàn matrix (PASS)
+PASS: không hai hàng mở rộng trùng tiêu đề chuẩn hoá (chống spam)
+PASS: seed có hàng mở rộng được ghi nhận: 109
+PASS: batch_id hàng PLANNED giữ nguyên khi tái sinh (idempotent theo hàng)
+PASS: mọi hàng PLANNED có batch_id hợp lệ Bxxx
+PASS: batch_id hàng PLANNED mới không giảm theo thứ tự id (không đan xen)
+PASS: mọi hàng PLANNED có đủ cột schema v2 (PASS)
+PASS: search_intent khớp intent trên mọi hàng PLANNED
+PASS: word_target >= 800 trên mọi hàng PLANNED
+PASS: hàng seed cũ không bị mất sau mở rộng (PASS)
+
+KẾT QUẢ: PASS (mở rộng idempotent, neo nguyên, chống trùng + chống spam PASS)
+--- factory-operator verify --scope chunk (giong step Verify cua run #114) ---
+PASS: P4. --dry-run: tree hash giong het
+PASS: A1. metadata fail sau sentinel: cleanup (sentinel di, locked=false nhat quan) - raised=True sentinel=False locked=False
+PASS: A1b. acquire binh thuong khong pha gi (sentinel con)
+PASS: A2. release cu (token cu) KHONG pha khoa moi: sentinel con, locked=true, holder=refill-new - sentinel=True locked=True holder=refill-new
+PASS: A2b. release moi (token dung): khoa sach
+PASS: A2c. sentinel mat + token khop metadata: de unlocked dung
+PASS: P5. data that cua repo khong doi trong tests
+
+KET QUA: PASS (21/21)
+
+$ python3 scripts/factory/tests/test_operator.py -> 0
+
+$ python3 scripts/factory/tests/test_link_integrity.py -> 0
+
+$ python3 scripts/factory/tests/test_qa_modes.py -> 1
+
+=== QUEUE STATS (view over matrix) ===
+claimable PLANNED : 308
+min_ready_queue    : 100
+refill_target      : 300
+next refill need   : 0
+--- per-child: materialized / editorial capacity ---
+C-BAO-DUONG               20 /   191 (con 171)
+C-BAO-HIEM                16 /   177 (con 161)
+C-BAO-TANG                17 /   123 (con 106)
+C-BIEN-BAO                 7 /   136 (con 129)
+C-CD-CUOI-TUAN            29 /   177 (con 148)
+C-CD-HA-GIANG              6 /   109 (con 103)
+C-CD-MAI-CHAU              5 /   109 (con 104)
+C-CD-MOC-CHAU              6 /   109 (con 103)
+C-CD-NOI-THANH             6 /   136 (con 130)
+C-CD-PHO-BAC              19 /   123 (con 104)
+C-DIEM-DEN                58 /   232 (con 174)
+C-GIAY-TO                 13 /   150 (con 137)
+C-GPLX                    11 /   205 (con 194)
+C-HD-CHON-XE               7 /   123 (con 116)
+C-HD-GIA                   6 /   123 (con 117)
+C-HD-NGUOI-MOI            26 /   123 (con 97)
+C-HD-PHAP-LY               7 /   123 (con 116)
+C-HD-SU-CO                 5 /   123 (con 118)
+C-HD-THU-TUC               6 /   123 (con 117)
+C-HO-TAY                   8 /   136 (con 128)
+C-HONDA-AIR-BLADE          5 /   150 (con 145)
+C-HONDA-CLICK              4 /   136 (con 132)
+C-HONDA-VISION             6 /   164 (con 158)
+C-HONDA-WAVE               6 /   164 (con 158)
+C-KY-NANG-CHO-DO          29 /   177 (con 148)
+C-KY-NANG-CO-BAN          45 /   245 (con 200)
+C-KY-NANG-GUI-XE          26 /   164 (con 138)
+C-KY-NANG-SUC-KHOE        30 /   150 (con 120)
+C-KY-NANG-THOI-TIET       51 /   204 (con 153)
+C-KY-NANG-TINH-HUONG     106 /   245 (con 139)
+C-LONG-BIEN                6 /   150 (con 144)
+C-NGOAI-THANH              8 /   150 (con 142)
+C-NOI-DO-CONG              8 /   164 (con 156)
+C-PHAT-NGUOI               8 /   164 (con 156)
+C-PHO-CO                  10 /   150 (con 140)
+C-QUY-DINH                21 /   204 (con 183)
+C-THUE-DAT-COC            10 /   205 (con 195)
+C-THUE-DIA-DIEM            9 /    95 (con 86)
+C-THUE-DOI-TUONG           8 /   109 (con 101)
+C-THUE-GIA                21 /   300 (con 279)
+C-THUE-NGAY               18 /   245 (con 227)
+C-THUE-NHAN-TRA           32 /   245 (con 213)
+C-THUE-QUOC-TE            14 /   191 (con 177)
+C-THUE-SU-CO              40 /   245 (con 205)
+C-THUE-THANG              18 /   273 (con 255)
+C-THUE-THU-TUC            33 /   273 (con 240)
+C-THUE-TUAN                7 /   232 (con 225)
+C-XE-50CC                  8 /   191 (con 183)
+C-XE-DAP-DIEN              7 /   136 (con 129)
+C-XE-DIEN                 17 /   218 (con 201)
+C-XE-GA                   11 /   218 (con 207)
+C-XE-KHAC-PHUC            10 /   123 (con 113)
+C-XE-LUA-CHON             10 /   109 (con 99)
+C-XE-SO                    9 /   218 (con 209)
+C-XE-SO-SANH               9 /   123 (con 114)
+C-YAMAHA-SIRIUS            4 /   136 (con 132)
+
+verify: FAIL ở ['scripts/factory/tests/test_qa_modes.py'] (mode=chunk)
+verify_exit=0
+--- validate --scope chunk ---
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 140, 'BLOCKED': 1, 'PASS': 10, 'PLANNED': 308}
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 0, "blocked": 0}
+KẾT QUẢ: PASS (0 cảnh báo)
+=== end diagnose7 ===
