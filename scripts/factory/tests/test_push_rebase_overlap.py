@@ -74,6 +74,10 @@ class PushRebaseOverlapTest(unittest.TestCase):
         base = tempfile.mkdtemp(prefix='push-rebase-')
         self.addCleanup(shutil.rmtree, base, ignore_errors=True)
         self.origin = os.path.join(base, 'origin.git')
+        # git khong tao thu muc cwd — tao truoc khi init --bare trong do
+        # (bug chi phat hien tren runner co git: sandbox khong co git
+        # nen test skip, loi cwd khong ton tai khong bao gio bi bat).
+        os.makedirs(self.origin)
         git(self.origin, 'init', '--bare', '-b', 'main')
         self.fx = os.path.join(base, 'repo')
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
