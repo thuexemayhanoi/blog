@@ -1,95 +1,120 @@
-DIAGNOSE v11 - test_qa_modes stderr on post-promote state
-orig_head=f906b59ca759e3ee68adc5ed6913388ffc95e893
+DIAGNOSE v12 - why fixture draft for next chunk scores REPAIR
+orig_head=c4f253ba969295012d78a2305e084f521b43c2c2
 publish exit=0
 
-=== test_qa_modes.py on post-promote tree ===
-exit=1
---- stdout ---
+prepare-next exit=0
+4 trang
+topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
+topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
+topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
+topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
+topic thue-xe/su-co: 40 bài -> 2 trang
+topic thue-xe/thu-tuc: 32 bài -> 2 trang
+KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
 
---- stderr ---
-g: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:225: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-5e1u2nmu/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
-  encoding='utf-8').write(text)
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-FAIL
-test_fast_qa_repair_when_seo_below_threshold (__main__.TestManualProductionFlow.test_fast_qa_repair_when_seo_below_threshold) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
-  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:151: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/data/content-taxonomy.json' mode='r' encoding='utf-8'>
-  tax = json.load(open(os.path.join(fx, 'data/content-taxonomy.json'),
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:225: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
-  encoding='utf-8').write(text)
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:478: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='r' encoding='utf-8'>
-  text = open(p, encoding='utf-8').read()
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:482: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
-  open(p, 'w', encoding='utf-8').write(text)
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
-test_lock_blocks_second_writer (__main__.TestManualProductionFlow.test_lock_blocks_second_writer) ... ok
-test_prepare_next_resumes_writing_first_and_clamps_10 (__main__.TestManualProductionFlow.test_prepare_next_resumes_writing_first_and_clamps_10) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ygfunpl8/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
-  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
-test_recover_completes_hanging_transaction (__main__.TestManualProductionFlow.test_recover_completes_hanging_transaction) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-y_y6h9xw/repo/data/state/transaction.json' mode='r' encoding='utf-8'>
-  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
-test_threshold_constants_unchanged (__main__.TestManualProductionFlow.test_threshold_constants_unchanged) ... ok
-test_published_not_regressed_by_qa (__main__.TestReleaseChunk.test_published_not_regressed_by_qa) ... ok
-test_release_keeps_rows_with_drafts (__main__.TestReleaseChunk.test_release_keeps_rows_with_drafts) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-n0cr5teu/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
-  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:151: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-n0cr5teu/repo/data/content-taxonomy.json' mode='r' encoding='utf-8'>
-  tax = json.load(open(os.path.join(fx, 'data/content-taxonomy.json'),
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:225: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-n0cr5teu/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
-  encoding='utf-8').write(text)
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
-test_release_refuses_published (__main__.TestReleaseChunk.test_release_refuses_published) ... ok
-test_release_writing_rows_without_drafts (__main__.TestReleaseChunk.test_release_writing_rows_without_drafts) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-_hm35b4s/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
-  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
-test_bad_scope_rejected (__main__.TestScopeGating.test_bad_scope_rejected) ... ok
-test_qa_evidence_outside_chunk_ignored_by_fast (__main__.TestScopeGating.test_qa_evidence_outside_chunk_ignored_by_fast) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ermmsapr/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
-  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:80: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ermmsapr/repo/data/qa/BLG-00484.json' mode='r' encoding='utf-8'>
-  qa = json.load(open(p, encoding='utf-8'))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:82: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ermmsapr/repo/data/qa/BLG-00484.json' mode='w' encoding='utf-8'>
-  json.dump(qa, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
-test_sections_by_scope (__main__.TestScopeGating.test_sections_by_scope) ... ok
-test_site_wide_legacy_url_breaks_deep_and_full_not_fast (__main__.TestScopeGating.test_site_wide_legacy_url_breaks_deep_and_full_not_fast) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:70: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-zmfdh8fu/repo/data/content-inventory.csv' mode='r' encoding='utf-8'>
-  rows = list(csv.DictReader(open(p, encoding='utf-8')))
-ResourceWarning: Enable tracemalloc to get the object allocation traceback
-ok
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'WRITING': 10, 'PLANNED': 288}
+WARN: writer-lock đang bị giữ: kiểm tra writer sống
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
+KẾT QUẢ: PASS (1 cảnh báo)
 
-======================================================================
-FAIL: test_fast_qa_publishes_while_full_audit_fails (__main__.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails)
-----------------------------------------------------------------------
-Traceback (most recent call last):
-  File "/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py", line 459, in test_fast_qa_publishes_while_full_audit_fails
-    self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
-    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-                     'PASS')
-                     ^^^^^^^
-AssertionError: 'REPAIR' != 'PASS'
-- REPAIR
-+ PASS
+prepare-next: claim 10 hàng: BLG-00645,BLG-00646,BLG-00647,BLG-00648,BLG-00649,BLG-00650,BLG-00651,BLG-00652,BLG-00653,BLG-00654 (mode=fast)
 
+row=BLG-00645
+keyword=vạch kẻ đường
+word_target=1200
+internal_links=/blog/an-toan-phap-ly/bien-bao/
+canonical_url=/blog/an-toan-phap-ly/{date}/vach-ke-uong-xe-may-phai-i-the-nao/
+draft=/tmp/tmp3og7q8jr/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md
+qa exit=0
+--- qa stdout tail ---
+qa BLG-00645: REPAIR quality=100 seo=85 fails=['description_length']
+atrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'REPAIR': 1, 'WRITING': 9, 'PLANNED': 288}
+tiến độ bảo toàn: last_completed=BLG-00644 chunk=['BLG-00645', 'BLG-00646', 'BLG-00647', 'BLG-00648', 'BLG-00649', 'BLG-00650', 'BLG-00651', 'BLG-00652', 'BLG-00653', 'BLG-00654'] next_claimable=BLG-00655
+mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T07:49:47+00:00 | checkpoint.updated_at: 2026-09-28T07:49:47+00:00
+vân tay: matrix=81cdd0539005... data_fingerprint=b33a1edc3703...
+KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
 
-----------------------------------------------------------------------
-Ran 14 tests in 18.819s
+=== GENERATE MATRIX ===
+tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 288)
+chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
+thiếu so với planned_target 6980: 6692 hàng (báo thiếu, không đệm)
 
-FAILED (failures=1)
+g
+chia-se: 112 bài -> 10 trang
+du-lich: 41 bài -> 4 trang
+topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
+topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
+topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
+topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
+topic thue-xe/su-co: 40 bài -> 2 trang
+topic thue-xe/thu-tuc: 32 bài -> 2 trang
+KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
 
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'REPAIR': 1, 'WRITING': 9, 'PLANNED': 288}
+WARN: writer-lock đang bị giữ: kiểm tra writer sống
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
+KẾT QUẢ: PASS (1 cảnh báo)
+
+qa: xong 1 hàng (mode=fast), kết quả: {"BLG-00645": "REPAIR"}
+
+--- qa stderr tail ---
+
+--- qa evidence ---
+{
+  "article_id": "BLG-00645",
+  "title": "Vạch kẻ đường xe máy phải đi thế nào",
+  "scored_at": "2026-09-28T07:49:47+00:00",
+  "scorer": "operator-qa-deterministic-v1",
+  "checks": {
+    "frontmatter_fields": true,
+    "draft_date": true,
+    "slug_match": true,
+    "permalink_canonical": true,
+    "word_count": true,
+    "title_match": true,
+    "description_length": false,
+    "description_keyword": true,
+    "h2_min": true,
+    "no_h1_in_body": true,
+    "headings_intent": true,
+    "links_matrix_required": true,
+    "links_parent_hub": true,
+    "links_count": true,
+    "links_routes_valid": true,
+    "no_hardcoded_blog": true,
+    "cannibalization": true,
+    "intent_opening": true,
+    "hanoi_example": true,
+    "reads_naturally_proxy": true,
+    "no_placeholder": true,
+    "business_amounts": true,
+    "forbidden_claims": true,
+    "phone_ok": true,
+    "legal_source": true,
+    "legal_disclaimer": true
+  },
+  "word_count": 1202,
+  "word_target": 1200,
+  "bad_routes": [],
+  "cannibalization_clash": [],
+  "non_approved_amounts": [],
+  "forbidden_hits": [],
+  "quality": 100,
+  "seo": 85,
+  "business_fact": "PASS",
+  "legal": "PASS",
+  "critical_failure": false,
+  "source_path": "_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md",
+  "content_sha256": "e2b5f3b699eb9e49ffb90297652eeb002c82bc8318e87cdd4f8a4e3673de67d3",
+  "matrix_row_sha256": "9423913ac5e3f25507c83fb3442821076add85a4735c2d00692192cff57a92ea",
+  "result": "REPAIR"
+}
 
 reset exit=0
 clean exit=0
