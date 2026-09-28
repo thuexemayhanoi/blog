@@ -29,7 +29,7 @@ Khi gặp tin về mức phạt cồn, ba bước kiểm chứng nhanh:
 - Đọc trực tiếp trên cổng thông tin điện tử Chính phủ, nơi đăng văn bản gốc kèm các văn bản sửa đổi; tra theo số hiệu nghị định là chính xác nhất.
 - Đối chiếu ngày có hiệu lực: mức phạt áp dụng theo văn bản hiệu lực tại thời điểm vi phạm, không phải theo thời điểm bạn đọc tin.
 
-Với người hay phải đối chiếu pháp luật giao thông, nên lưu lại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) làm điểm tra cứu định kỳ, vì các quy định về nồng độ cồn, mũ bảo hiểm và giấy tờ đều được tổng hợp tại một chỗ; trang gốc của cả nhóm chủ đề pháp lý đặt tại [an toàn & pháp lý](/blog/an-toan-phap-ly/), còn trình tự xử lý thông báo phạt qua camera xem tại trang [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/). Một thói quen nhỏ đáng hình thành: lưu lại đường dẫn văn bản gốc bạn từng đối chiếu, kèm ngày tra cứu. Khi cần bàn về mức phạt, căn cứ kèm ngày tra cứu luôn thuyết phục hơn một con số rỉ tai nhau; với nhóm bạn đi cùng hoặc người quản lý xe của cơ quan, chia sẻ đúng đường dẫn văn bản cũng tránh được chuyện chụp lại màn hình một bài báo dẫn văn bản đã cũ.
+Với người hay phải đối chiếu pháp luật giao thông, nên lưu lại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) làm điểm tra cứu định kỳ, vì các quy định về nồng độ cồn, mũ bảo hiểm và giấy tờ đều được tổng hợp tại một chỗ. Một thói quen nhỏ đáng hình thành: lưu lại đường dẫn văn bản gốc bạn từng đối chiếu, kèm ngày tra cứu. Khi cần bàn về mức phạt, căn cứ kèm ngày tra cứu luôn thuyết phục hơn một con số rỉ tai nhau; với nhóm bạn đi cùng hoặc người quản lý xe của cơ quan, chia sẻ đúng đường dẫn văn bản cũng tránh được chuyện chụp lại màn hình một bài báo dẫn văn bản đã cũ.
 
 ## Vì sao cấm tuyệt đối với xe máy
 
@@ -40,7 +40,7 @@ Xe máy không có khung bảo vệ, không có dây an toàn; khi phản ứng 
 
 ## Người thuê xe cần chuẩn bị gì
 
-Trước một ngày hội họp có bia rượu, hãy chốt trước ai lái về; nếu cả nhóm đều uống, đặt xe công nghệ hoặc để xe qua đêm ở điểm gửi rồi quay lại lấy hôm sau. Nếu đang giữ xe thuê qua đêm ở ngoài, báo cửa hàng để chốt điều kiện trả xe và giữ gìn xe đúng cam kết. Danh mục giấy tờ cần mang khi đi xe thuê xem trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/), còn xử lý khi nhận thông báo phạt nguội giữa kỳ thuê tóm tắt trong bài [bị phạt nguội qua camera giữa kỳ thuê](/blog/kinh nghiệm/2026/09/19/bi-phat-nguoi-qua-camera-giua-ky-thue/).
+Trước một ngày hội họp có bia rượu, hãy chốt trước ai lái về; nếu cả nhóm đều uống, đặt xe công nghệ hoặc để xe qua đêm ở điểm gửi rồi quay lại lấy hôm sau. Nếu đang giữ xe thuê qua đêm ở ngoài, báo cửa hàng để chốt điều kiện trả xe và giữ gìn xe đúng cam kết. Danh mục giấy tờ cần mang khi đi xe thuê xem trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), còn xử lý khi nhận thông báo phạt nguội giữa kỳ thuê tóm tắt trong bài [nhận thông báo phạt nguội của xe thuê xử lý thế nào](/blog/an-toan-phap-ly/2026/09/28/nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao/).
 
 ## Kết luận về nồng độ cồn khi lái xe máy
 

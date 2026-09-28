@@ -33,18 +33,15 @@ Khu Thái Học phía sau trưng bày về lịch sử Quốc Tử Giám và gi�
 
 ## Kết hợp điểm lân cận trong nửa ngày
 
-Sau khoảng hai giờ trong khuôn viên, nửa ngày còn lại nên dùng cho một trong hai hướng. Hướng một: thong thả quanh các phố sách Nguyễn Văn Chảm, khu quán cà phê gần đó để nghỉ giữa buổi rồi ăn trưa ở khu Đống Đa. Hướng hai: di chuyển sang khu Ba Đình, lịch trình chi tiết cho hướng này xem trong bài [khám phá khu Ba Đình bằng xe máy](/blog/du lị
-ch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/). Nếu thích nhịp phố hồ và hàng quán, tham khảo khung lịch trình trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du lịch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
+Sau khoảng hai giờ trong khuôn viên, nửa ngày còn lại nên dùng cho một trong hai hướng. Hướng một: thong thả quanh các phố sách Nguyễn Văn Chảm, khu quán cà phê gần đó để nghỉ giữa buổi rồi ăn trưa ở khu Đống Đa. Hướng hai: di chuyển sang khu Ba Đình, lịch trình chi tiết cho hướng này xem tại trang [du lịch Hà Nội](/blog/du-lich/). Nếu thích nhịp phố hồ và hàng quán, tham khảo khung lịch trình tại trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
 
-Với khách thuê xe máy cho cả lịch trình dài hơn, kinh nghiệm dành cho một tuần ở Hà Nội được tóm tắt trong bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du lịch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Với khách thuê xe máy cho cả lịch trình dài hơn, các câu hỏi về thuê xe cho chuyến dài được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
 
 ## Sắp xếp đi lại và chi phí nhỏ
 
-Đi bằng xe máy thì khoảng cách Long Biên tới Văn Miếu chỉ mất chừng hai mươi phút ngoài giờ cao điểm. Gửi xe quanh cổng chính thuận tiện, mang theo tiền lẻ cho phí gửi xe và giá vé tham quan; cả hai loại phí đều nhỏ nhưng thay đổi theo thời điểm, nên kiểm tra thông tin hiện hành trước chuyến đi. Nếu đi nhóm nhiều người, hẹn điểm đón tập trung trên một trục lớn gần đó như Nguyễn Thái Học thay vì đợi nhau ngay trước cổng, vì đoạn trước cổng dễ tắc khi khách đông. Về đồ mang theo, một bình nước nhỏ, mũ che nắng và giày bệt là ba thứ đáng có: trong khuôn viên chủ yếu đi bộ trên nền gạch, các ghế ngồi rải rác quanh Hồ Văn đủ nghỉ giữa chặng.
+Đi bằng xe máy thì khoảng cách Long Biên tới Văn Miếu chỉ mất chừng hai mươi phút ngoài giờ cao điểm. Gửi xe quanh cổng chính thuận tiện, mang theo tiền lẻ cho phí gửi xe và giá vé tham quan; cả hai loại phí đều nhỏ nhưng thay đổi theo thời điểm, nên kiểm tra thông tin hiện hành trước chuyến đi. Nếu đi nhóm nhiều người, hẹn điểm đón tập trung trên một trục lớn gần đó như Nguyễn Thái Học thay vì đợi nhau ngay trước cổng, vì đoạn trước cổng dễ tắc khi khách đông.
 
-Nếu đi cùng trẻ nhỏ, dãy bia tiến sĩ dễ thành một trò chơi tìm tên: cho bé đếm số bia và tìm quê quán gần nhất với quê mình, một cách nhẹ nhàng để trẻ ngồi yên khi người lớn đọc.
-
-Trước khi chốt lịch, nên xem thêm khung tổng quan tại trang [du lịch](/blog/du-lich/) và kinh nghiệm di chuyển trong khu phố cổ ở trang [phố cổ](/blog/du-lich/pho-co/) để ghép điểm cho hợp lý.
+Về đồ mang theo, một bình nước nhỏ, mũ che nắng và giày bệt là ba thứ đáng có: trong khuôn viên chủ yếu đi bộ trên nền gạch, các ghế ngồi rải rác quanh Hồ Văn đủ nghỉ giữa chặng. Nếu đi cùng trẻ nhỏ, dãy bia tiến sĩ dễ thành một trò chơi tìm tên: cho bé đếm số bia và tìm quê quán gần nhất với quê mình, một cách nhẹ nhàng để trẻ ngồi yên khi người lớn đọc.
 
 ## Kết luận về nửa ngày ở Văn Miếu
 

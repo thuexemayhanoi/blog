@@ -22,8 +22,7 @@ Với xe máy điện, nguyên tắc không thay đổi: xe vẫn phải có đ�
 
 ## Dùng đèn đúng lúc nào
 
-Quy định hiện hành yêu cầu bật đèn chiếu sáng khi trời tối hoặc khi sương mù, thời tiết giảm tầm nhìn, và khi phương tiện chạy trong hầm đường bộ. Trong đô thị hoặc trên đường có ánh sáng đủ, xe máy chỉ dùng đèn chiếu gần; đèn pha chỉ dùng khi đường vắng hoặc tầm nhìn bị che khuất, và tuyệt đối không chỉnh đèn chiế
-u thẳng gây chói mắt xe ngược chiều. Đèn báo rẽ phải bật trước khi chuyển hướng đủ sớm để người cùng chiều nhận biết.
+Quy định hiện hành yêu cầu bật đèn chiếu sáng khi trời tối hoặc khi sương mù, thời tiết giảm tầm nhìn, và khi phương tiện chạy trong hầm đường bộ. Trong đô thị hoặc trên đường có ánh sáng đủ, xe máy chỉ dùng đèn chiếu gần; đèn pha chỉ dùng khi đường vắng hoặc tầm nhìn bị che khuất, và tuyệt đối không chỉnh đèn chiếu thẳng gây chói mắt xe ngược chiều. Đèn báo rẽ phải bật trước khi chuyển hướng đủ sớm để người cùng chiều nhận biết.
 
 Ba sai lầm thường gặp ở Hà Nội: một là chạy đêm chỉ dựa đèn điện thoại thay vì đèn chiếu sáng của xe; hai là bật đèn pha ngay giữa phố sáng gây chói; ba là để hỏng đèn phanh sau mà không biết, bởi người lái ít khi quan sát phía sau xe mình. Thói quen kiểm tra trước mỗi chuyến đi tối chỉ mất một phút nhưng giúp tránh cả lỗi vi phạm lẫn va chạm từ phía sau.
 
@@ -38,11 +37,11 @@ Không nên dùng còi liên tục, dài hơi hoặc bấm còi tỏ thái độ
 Không sử dụng đèn chiếu sáng khi chạy trong điều kiện bắt buộc, dùng đèn không đúng hoặc sử dụng còi không đúng quy định là các hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ, bị xử phạt theo khung hiện hành tại Nghị định 168/2024/NĐ-CP và có thể kèm trừ điểm giấy phép lái xe theo chế độ điểm hiện hành. Mức cụ thể thay đổi theo từng kỳ văn bản, nên khi cần tra cứu chính xác, hãy đọc trực tiếp nghị định trên cổng thông tin điện tử Chính phủ thay vì tin lại con số rải trên mạng xã hội.
 
 Riêng với xe thuê, nếu phát hiện đèn hoặc còi không hoạt động ngay khi nhận xe
-, hãy yêu cầu bên cho thuê đổi xe hoặc khắc phục trước khi ký biên bản giao nhận. Bằng chứng ghi hình tình trạng xe lúc nhận sẽ giúp phân định trách nhiệm rõ hơn, theo kinh nghiệm đã chia sẻ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
+, hãy yêu cầu bên cho thuê đổi xe hoặc khắc phục trước khi ký biên bản giao nhận. Bằng chứng ghi hình tình trạng xe lúc nhận sẽ giúp phân định trách nhiệm rõ hơn, theo kinh nghiệm đã chia sẻ trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/blog/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
 
 ## Ghép với tín hiệu và biển báo
 
-Đèn và còi chỉ có ý nghĩa khi kết hợp đúng tín hiệu giao thông. Đèn đỏ luôn phải dừng hẳn sau vạch, đèn vàng không phải là tín hiệu tăng tốc, và khi rẽ phải bật đủ sớm đèn báo rẽ cho người cùng dòng xe nhận biết. Cách đọc biển báo cấm và hiệu lệnh thường gặp khi chạy trong phố đã được tóm tắt trong bài [biển báo giao thông thường gặp khi đi trong phố](/blog/kinh nghiệm/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/). Tổng hợp các quy định cho người đi xe máy đặt tại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/); danh mục biển báo cấm và hiệu lệnh cần thuộc nằm ở trang [biển báo](/blog/an-toan-phap-ly/bien-bao/), còn toàn bộ nhóm chủ đề pháp lý cho người đi xe gom tại trang [an toàn & pháp lý](/blog/an-toan-phap-ly/).
+Đèn và còi chỉ có ý nghĩa khi kết hợp đúng tín hiệu giao thông. Đèn đỏ luôn phải dừng hẳn sau vạch, đèn vàng không phải là tín hiệu tăng tốc, và khi rẽ phải bật đủ sớm đèn báo rẽ cho người cùng dòng xe nhận biết. Cách đọc biển báo cấm và hiệu lệnh thường gặp khi chạy trong phố đã được tóm tắt trong bài [biển báo cấm xe máy thường gặp](/blog/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/). Tổng hợp các quy định cho người đi xe máy đặt tại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về đèn và còi xe máy
 
