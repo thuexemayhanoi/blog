@@ -24,7 +24,7 @@ Ngày thường quanh năm, làng vắng và dễ chịu: chủ vườn có th�
 
 Buổi nên bắt đầu từ mép ngõ đầu cho tới các dãy vườn trong: đi chậm, hỏi thăm trước khi vào vườn nhà người ta, vì các vườn là nơi làm việc chứ không phải điểm tham quan có vé. Mùa đào, các vựa đào thế và đào cành xếp thành hàng dài: khách chọn cây nên xem dáng, gốc và độ phân cành ngay tại vựa, hỏi rõ cách vận chuyển và cách chăm hồi sau khi về. Các loại hoa cắt cánh như hồng và cúc thường bó tại chỗ, mua xong nên để vào cốp ngay hoặc nhờ vựa bó chặt lại cho gọn.
 
-Phần chụp ảnh nên xin chủ vườn: một góc vườn đào trước nắng sớm, một góc luống hồng trước nắng sớm, hoặc dải trên đê nhìn xuống các nhà kính. Đứng trên đê chụp toàn cảnh làng lúc sương còn là góc dễ lấy nhất, không cần vào sâu vườn ai. Chi tiết các lối vào làng từ trục Âu Cơ và chỗ gửi xe ven ngõ được kể trong bài [khám phá khu Tây Hồ bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/), nơi có cả các điểm ven sông cùng hướng để ghép chuỗi trong một ngày.
+Phần chụp ảnh nên xin chủ vườn: một góc vườn đào trước nắng sớm, một góc luống hồng trước nắng sớm, hoặc dải trên đê nhìn xuống các nhà kính. Đứng trên đê chụp toàn cảnh làng lúc sương còn là góc dễ lấy nhất, không cần vào sâu vườn ai. Chi tiết các lối vào làng từ trục Âu Cơ và các lưu ý đường đê được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), còn các điểm cùng khu ven sông nằm trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/) để ghép chuỗi trong một ngày.
 
 ## Mua hoa và chở hoa về
 

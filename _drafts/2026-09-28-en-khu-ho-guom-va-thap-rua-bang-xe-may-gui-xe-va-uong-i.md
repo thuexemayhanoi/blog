@@ -30,7 +30,7 @@ Quanh hồ có các phố chạy theo vành như Đinh Tiên Hoàng, Lê Thái T
 
 Chỗ gửi xe quanh Hồ Gươm theo mô hình bãi trong ngõ phố cổ: các bãi nằm sâu trong các ngõ nhỏ nối quanh vành hồ, ngày thường hay còn chỗ, tối cuối tuần và dịp lễ kín nhanh theo khung chiều. Mức phí giữ xe máy dạng nhỏ lẻ, có bãi tính theo lượt, có bãi tính theo giờ: hỏi giá trước khi để, và nên chọn bãi có người trông trực tiếp cùng biển ghi giá. Đưa xe vào ngõ bãi cần đi chậm vì ngõ hẹp hai chiều, trong bãi để theo hướng người trông chỉ, chốt cổ và khóa từ, chụp lại vị trí kèm biển số rồi mới đi bộ ra hồ. Trước khi rời bãi, khách nên chụp lại biển tên ngõ: các ngõ phố cổ quanh hồ na ná nhau, có ảnh là tìm lại lối vào nhanh hơn hẳn.
 
-Cuối buổi lấy xe theo giờ tan tầm có khi phải chờ lượt trong bãi: chủ động đến sớm hơn giờ dự định trả xe để giữ lịch trình. Nếu định cả buổi ở quanh hồ, nên giữ nguyên một chỗ trong bãi thay vì dời xe theo từng điểm: mọi điểm quanh hồ đều đi bộ được trong khoảng ngắn. Khách thuê xe cần mang giấy tờ theo người, không để trong cốp. Kinh nghiệm gửi xe quanh khu phố cổ được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), nơi có cả lịch trình ghép các điểm quanh khu cho một ngày.
+Cuối buổi lấy xe theo giờ tan tầm có khi phải chờ lượt trong bãi: chủ động đến sớm hơn giờ dự định trả xe để giữ lịch trình. Nếu định cả buổi ở quanh hồ, nên giữ nguyên một chỗ trong bãi thay vì dời xe theo từng điểm: mọi điểm quanh hồ đều đi bộ được trong khoảng ngắn. Khách thuê xe cần mang giấy tờ theo người, không để trong cốp. Kinh nghiệm gửi xe quanh khu phố cổ được kể trong trang [Phố Cổ](/blog/du-lich/pho-co/), nơi có thêm các gợi ý ghép điểm quanh khu cho một ngày.
 
 ## Khung giờ đẹp quanh hồ
 

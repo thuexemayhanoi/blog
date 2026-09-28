@@ -30,7 +30,7 @@ Ngày rằm và mùng một đầu tháng, dòng khách lễ tới chùa dày t�
 
 Bãi xe cạnh khu là lựa chọn chính: ngày thường thoáng, ngày lễ rằm kín nhanh theo khung. Mức phí giữ xe máy nhỏ lẻ, hỏi giá trước khi đưa xe vẫn là thói quen nên giữ. Khi bãi đông, người trông hay hướng dẫn xếp chéo góc để tận dụng chỗ: để theo đúng hướng chỉ dẫn, chốt cổ và khóa từ, chụp lại vị trí và biển số rồi mới đi vào khu. Đừng tự xếp thêm hàng đè lên nan xe xe khác, vì lấy xe lúc về dễ va chóng mạn.
 
-Khách ghép thêm dạo quanh hồ sau khi tham quan nên giữ nguyên chỗ trong bãi cạnh khu thay vì dời xe theo từng điểm chụp: di chuyển ngắn bằng đi bộ vừa an toàn vừa không mất công gửi lại nhiều lần. Kinh nghiệm giữ xe tại các điểm ven hồ được kể trong bài [khám phá khu Tây Hồ bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/), và các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Khách ghép thêm dạo quanh hồ sau khi tham quan nên giữ nguyên chỗ trong bãi cạnh khu thay vì dời xe theo từng điểm chụp: di chuyển ngắn bằng đi bộ vừa an toàn vừa không mất công gửi lại nhiều lần. Kinh nghiệm giữ xe tại các điểm ven hồ được kể trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), và các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
 
 ## Mưa và đường ven hồ
 

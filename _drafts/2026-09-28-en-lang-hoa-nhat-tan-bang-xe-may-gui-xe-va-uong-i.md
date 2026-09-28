@@ -30,7 +30,7 @@ Lên đê là lối đi đẹp nhất để thấy toàn cảnh làng: đường
 
 Chỗ để xe quanh làng theo mô hình đơn giản: các khoảng sân trống trước vựa lớn nhận giữ xe ngày thường, còn ngày cao điểm quanh Tết, dòng xe nhiều khiến các khoảng này kín nhanh, người ta nối nhau đỗ ven đê và ven ngõ theo hướng của người dân hướng dẫn. Mức phí giữ xe máy dạng nhỏ lẻ, đổi theo ngày cao điểm: hỏi giá trước khi để là thói quen nên giữ, và nên để xe nơi có người trông trực tiếp hơn là mép đê vắng. Khi để ven ngõ, ép sát lề hẳn để không chặn dòng xe chở hoa ra vào.
 
-Xe máy thuê cần kiểm tra nhanh trước khi vào khu: đèn, còi, phanh, áp suất lốp, vì ngõ nhỏ có dòng xe hai chiều liên tục. Cất mũ vào cốp, chụp vị trí và biển số xe trước khi đi vào vườn. Ai định mua hoa về nên tính sẵn chỗ để hoa: cốp xe máy chứa được vài cành nhỏ, bó lớn nên nhờ vựa bó chặt lại hoặc thuê xe chở về, đừng vác bó đào lớn trên tay lái vì gió và tầm nhìn bị che. Kinh nghiệm các cung quanh ven sông được kể trong bài [khám phá khu Tây Hồ bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/).
+Xe máy thuê cần kiểm tra nhanh trước khi vào khu: đèn, còi, phanh, áp suất lốp, vì ngõ nhỏ có dòng xe hai chiều liên tục. Cất mũ vào cốp, chụp vị trí và biển số xe trước khi đi vào vườn. Ai định mua hoa về nên tính sẵn chỗ để hoa: cốp xe máy chứa được vài cành nhỏ, bó lớn nên nhờ vựa bó chặt lại hoặc thuê xe chở về, đừng vác bó đào lớn trên tay lái vì gió và tầm nhìn bị che. Kinh nghiệm các cung ven sông cùng hướng Tây Hồ nằm trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), dùng tham khảo khi ghép thêm điểm quanh khu.
 
 ## Mùa hoa và khung giờ đẹp
 

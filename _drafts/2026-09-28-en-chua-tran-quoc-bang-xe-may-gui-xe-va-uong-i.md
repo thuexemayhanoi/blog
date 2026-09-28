@@ -30,7 +30,7 @@ Từ khu trung tâm Hoàn Kiếm, cung ngắn nhất đi hướng tây bắc qua
 
 Chỗ gửi xe thuận tiện nhất là bãi cạnh khu chùa: ngày thường bãi thường xuyên có chỗ, ngày rằm và cuối tuần bãi kín nhanh theo khung sáng, khách tới khung đó nên đi sớm hơn dự kiến một chút. Mức phí giữ xe máy ở đây dạng nhỏ lẻ; thói quen hỏi giá trước khi đưa xe vẫn nên giữ, nhất là khi để cả buổi ghép thêm dạo bờ hồ. Xe vào bãi để theo hướng người trông chỉ dẫn, chốt cổ, khóa từ và chụp lại vị trí kèm biển số trước khi đi vào khu tham quan. Trước khi rời bãi, khách nên chụp lại biển ghi giá hoặc ghi nhớ khung giá đã hỏi để khỏi tranh luận lúc lấy xe giờ đông.
 
-Xe máy thuê cần một vòng kiểm tra nhanh trước khi rời điểm xuất phát: đèn, còi, phanh, áp suất lốp, vì các trục quanh hồ có đoạn dòng nhanh và khách hay chạy liên tục giữa nhiều điểm trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội mỗi khi lăn bánh kể cả đoạn nối giữa bãi và cổng chùa. Kinh nghiệm giữ xe tại các điểm tham quan ven hồ được kể trong bài [khám phá khu Tây Hồ bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/), nơi có thêm các điểm cùng khu để ghép chuỗi.
+Xe máy thuê cần một vòng kiểm tra nhanh trước khi rời điểm xuất phát: đèn, còi, phanh, áp suất lốp, vì các trục quanh hồ có đoạn dòng nhanh và khách hay chạy liên tục giữa nhiều điểm trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội mỗi khi lăn bánh kể cả đoạn nối giữa bãi và cổng chùa. Kinh nghiệm giữ xe tại các điểm tham quan ven hồ được kể trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), nơi có thêm các điểm cùng khu để ghép chuỗi.
 
 ## Khung giờ đẹp quanh hồ
 

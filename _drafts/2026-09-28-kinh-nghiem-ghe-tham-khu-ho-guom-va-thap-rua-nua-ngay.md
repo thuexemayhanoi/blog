@@ -24,7 +24,7 @@ Khung trưa chỉ hợp khách nghỉ trong quán: nắng quanh hồ lên cao, �
 
 Vòng quanh hồ nên đi theo chiều người dạo: xuất phát từ mép hồ gần bãi gửi xe, đi qua các dải cây ven vành, dừng ở góc nhìn Tháp Rùa giữa mặt nước, rồi qua Cầu Thê Húc màu đỏ sang khu đền phía đảo phía bắc hồ. Vòng dạo nên cùng một chiều với dòng người để khỏi đối đầu dòng ngược tại các đoạn dải ven mép nước, ghé từng điểm ngắn, để phần cuối buổi cho đoạn vành hồ ngắm đèn lên. Cầu cong bằng gỗ, bậc vành cầu hẹp: giữ balo gọn khi qua cầu vì hai chiều người đối đầu liên tục, khách mang trẻ nhỏ nên dắt tay qua từng bậc. Trong khu đền, giữ trang phục kín đáo và trật tự như mọi nơi thờ tự, tham quan chừng nửa tiếng là đủ phần chính.
 
-Phần còn lại của buổi dành cho dạo phố cổ quanh hồ: các phố cổ như Hàng Đào, Hàng Mã có mặt hàng và các góc phố cũ hợp chụp ảnh, ghé cà phê trong ngõ là cách nghỉ giữa buổi chuẩn của khu. Chi tiết các trục đường vào, chỗ gửi xe trong ngõ và các khung giờ đông được kể trong bài [khám phá Phố Cổ Hà Nội bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/), còn lịch trình cả khu phố cổ được xếp trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
+Phần còn lại của buổi dành cho dạo phố cổ quanh hồ: các phố cổ như Hàng Đào, Hàng Mã có mặt hàng và các góc phố cũ hợp chụp ảnh, ghé cà phê trong ngõ là cách nghỉ giữa buổi chuẩn của khu. Chi tiết các trục đường vào, chỗ gửi xe trong ngõ và các khung giờ đông được kể trong trang [Phố Cổ](/blog/du-lich/pho-co/), còn cách xử lý các tình huống phố đông quanh khu hồ được phân tích tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
 
 ## Ăn uống và nghỉ giữa buổi
 

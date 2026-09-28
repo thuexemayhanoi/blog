@@ -16,7 +16,7 @@ Kinh nghiệm đi Chùa Trấn Quốc trong nửa ngày là bài học về ch�
 
 ## Nửa ngày ở Trấn Quốc nên bắt đầu từ lúc nào
 
-Khung sáng sớm cho buổi trọn nhất: xuất phát khi phố chưa đông, tới đầu đường Thanh Niên sau chừng mười lăm phút, bãi xe còn thoáng, và khu chùa chưa dày dòng khách. Nắng đầu ngày qua vườn cây và mặt hồ lặng là hai thứ quyết định ảnh đẹp tại đây, nên khách chụp ảnh nên coi khung này là khung chính. Khung chiều muộn mát hơn và hợp khách thích ngược sáng trên mặt nước, nhưng khung này bờ hồ đông dạo mát, gửi xe và di chuyển chậm hơn khung sáng.
+Khung sáng sớm cho buổi trọn nhất: xuất phát khi phố chưa đông, tới đầu đường Thanh Niên sau chừng mười lăm phút, bãi xe còn thoáng, và khu chùa chưa dày dòng khách. Nắng đầu ngày qua vườn cây và mặt hồ lặng là hai thứ quyết định ảnh đẹp tại đây, nên khách chụp ảnh nên coi khung này là khung chính. Khung chiều muộn mát hơn và hợp khách thích ngược sáng trên mặt nước, nhưng khung này bờ hồ đông dạo mát, gửi xe và di chuyển chậm hơn khung sáng. Ai đi mùa đông lạnh nên cân nhắc khung giữa sáng, khi nắng đã lên đủ ấm mà khu chùa chưa vào nhịp đông cuối buổi chiều.
 
 Nửa ngày chiều chỉ nên chọn khi lịch trình cả ngày không còn chỗ khác: trời chạng vạng và buồn, ảnh không được như khung sáng, nhưng trải nghiệm đi bộ quanh khu vẫn đáng giá. Ngày rằm đầu tháng và mùa lễ, dòng khách tới lễ dài từ sáng sớm: khách đi tham quan chụp ảnh nên né khung đó, chớ không phải chỉ né khung trưa.
 
@@ -30,7 +30,7 @@ Nửa tiếng đầu trong khu là phần tham quan chính, phần còn lại c�
 
 Sau tham quan, các quán ven đường quanh khu hai hồ là điểm nghỉ dễ chịu: có quán ngồi trong nhà mát, có quán bàn ven hồ hợp khách chờ khung chiều. Chọn quán có chỗ để xe trong khuôn viên hoặc bãi giữ gần trước khi ngồi, vì đoạn ven đường cuối tuần đông xe dừng tạm. Bữa nhẹ kiểu này thường là phở, bánh cuốn hoặc cà phê; khách đi nhóm đông nên gọi trước để khỏi chờ lâu giữa khung đông.
 
-Một thói quen nhỏ đáng mang theo: nước uống và khăn ướt cho trẻ, vì vòng quanh bờ hồ ít chỗ mua giữa các đoạn dạo. Một phần đáng đi khác của buổi là dải ven Hồ Trúc Bạch phía đối diện đường: các quán nhỏ ven mép nước nhìn sang bán đảo, nơi khách né được nắng gắt mà vẫn giữ được mặt hồ trong khung ảnh. Đoạn này hợp khung chiều khi nắng đổ sang bờ Hồ Tây, đi bộ thêm vài phút từ cổng khu chùa là tới. Mùa hè nắng gắt sau mười giờ sáng, phần ăn uống nên chọn chỗ có quạt hoặc điều hòa thay vì bàn ven hồ trực tiếp nắng. Các trải nghiệm ăn uống quanh khu hồ khác nằm trong bài [khám phá khu Tây Hồ bằng xe máy](/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/), dùng tham khảo khi ghép chuỗi nhiều điểm.
+Một thói quen nhỏ đáng mang theo: nước uống và khăn ướt cho trẻ, vì vòng quanh bờ hồ ít chỗ mua giữa các đoạn dạo. Một phần đáng đi khác của buổi là dải ven Hồ Trúc Bạch phía đối diện đường: các quán nhỏ ven mép nước nhìn sang bán đảo, nơi khách né được nắng gắt mà vẫn giữ được mặt hồ trong khung ảnh. Đoạn này hợp khung chiều khi nắng đổ sang bờ Hồ Tây, đi bộ thêm vài phút từ cổng khu chùa là tới. Mùa hè nắng gắt sau mười giờ sáng, phần ăn uống nên chọn chỗ có quạt hoặc điều hòa thay vì bàn ven hồ trực tiếp nắng. Các trải nghiệm ăn uống quanh khu hồ khác nằm trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), dùng tham khảo khi ghép chuỗi nhiều điểm.
 
 ## Chuẩn bị gì trước khi nổ máy đi
 
