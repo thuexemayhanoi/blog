@@ -82,19 +82,6 @@ def corrupt_published_qa_hash(fx, aid):
     json.dump(qa, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
 
 
-
-def ensure_writing_chunk(fx):
-    """Hermetic: nếu bản sao chưa có hàng WRITING (repo thật có thể đang
-    PAUSED), claim chunk qua op chuẩn prepare-next để test có chunk làm việc."""
-    rows = matrix_rows(fx)
-    if any(r['status'] == 'WRITING' for r in rows):
-        return matrix_rows(fx)
-    r = run_py(['scripts/factory/factory-operator.py', 'prepare-next',
-                '--count', '10'], fx)
-    assert r.returncode == 0, r.stdout[-2000:] + r.stderr[-500:]
-    return matrix_rows(fx)
-
-
 def first_writing(fx):
     return next(r for r in matrix_rows(fx) if r['status'] == 'WRITING')
 
@@ -192,6 +179,15 @@ class FxTestCase(unittest.TestCase):
     def operator(self, *args):
         return self.py('scripts/factory/factory-operator.py', *args)
 
+    def ensure_writing_chunk(self, count=10):
+        """Test resume/release cần trạng thái 'đang làm chunk'. Repository
+        thật có thể đang PAUSED (0 WRITING sau release-chunk) — khi đó claim
+        lại count hàng TRONG FIXTURE (không đụng repo thật) để test độc lập
+        với trạng thái sống."""
+        if not any(r['status'] == 'WRITING' for r in matrix_rows(self.fx)):
+            r = self.operator('prepare-next', '--count', str(count))
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
 
 class TestScopeGating(FxTestCase):
 
@@ -219,12 +215,12 @@ class TestScopeGating(FxTestCase):
         self.assertEqual(r.returncode, 1)
 
     def test_qa_evidence_outside_chunk_ignored_by_fast(self):
+        self.ensure_writing_chunk()
         pub = first_published_planned(self.fx)
         corrupt_published_qa_hash(self.fx, pub['id'])
-        outside = next(r_['id'] for r_ in matrix_rows(self.fx)
-                      if r_['status'] in ('PLANNED', 'WRITING'))
+        writing = first_writing(self.fx)
         # FAST (chunk, theo checkpoint chunk hiện tại) không kiểm bài ngoài chunk
-        r = self.validate('chunk', outside)
+        r = self.validate('chunk', writing['id'])
         self.assertEqual(r.returncode, 0, r.stdout)
         # FAST khi bài đó nằm trong ids -> phải FAIL
         r = self.validate('chunk', pub['id'])
@@ -241,14 +237,12 @@ class TestScopeGating(FxTestCase):
 
 class TestReleaseChunk(FxTestCase):
 
-    def setUp(self):
-        super().setUp()
-        self.before = ensure_writing_chunk(self.fx)
-
     def test_release_writing_rows_without_drafts(self):
+        self.ensure_writing_chunk()
         rows = matrix_rows(self.fx)
         writing = [r['id'] for r in rows if r['status'] == 'WRITING']
         self.assertEqual(len(writing), 10)
+        planned_before = sum(1 for r in rows if r['status'] == 'PLANNED')
         r = self.operator('release-chunk')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         rows = matrix_rows(self.fx)
@@ -258,12 +252,11 @@ class TestReleaseChunk(FxTestCase):
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
         self.assertIsNone(cp['in_progress_chunk'])
         self.assertEqual(cp['next_claimable_id'], min(writing))
-        planned_before = sum(1 for r_ in self.before if r_['status'] == 'PLANNED')
-        writing_before = sum(1 for r_ in self.before if r_['status'] == 'WRITING')
-        self.assertEqual(cp['counts']['planned'], planned_before + writing_before)
+        self.assertEqual(cp['counts']['planned'], planned_before + len(writing))
         self.assertEqual(cp['counts']['writing'], 0)
 
     def test_release_keeps_rows_with_drafts(self):
+        self.ensure_writing_chunk()
         rows = matrix_rows(self.fx)
         keep = first_writing(self.fx)
         make_draft(self.fx, keep)
@@ -295,7 +288,7 @@ class TestReleaseChunk(FxTestCase):
 class TestManualProductionFlow(FxTestCase):
 
     def test_prepare_next_resumes_writing_first_and_clamps_10(self):
-        ensure_writing_chunk(self.fx)
+        self.ensure_writing_chunk()
         # còn hàng WRITING -> từ chối nhận mới (resume-first)
         r = self.operator('prepare-next', '--count', '5')
         self.assertEqual(r.returncode, 1)
@@ -313,10 +306,10 @@ class TestManualProductionFlow(FxTestCase):
                             for _ in [0]))
 
     def test_fast_qa_publishes_while_full_audit_fails(self):
+        self.ensure_writing_chunk()
         corrupt_legacy_url(self.fx)          # lỗi toàn site
         r = self.validate('full')
         self.assertEqual(r.returncode, 1)   # FULL phát hiện
-        ensure_writing_chunk(self.fx)
         row = first_writing(self.fx)
         set_word_target(self.fx, row['id'], 100)
         make_draft(self.fx, row)
@@ -337,7 +330,7 @@ class TestManualProductionFlow(FxTestCase):
         self.assertTrue(os.path.exists(os.path.join(self.fx, m['output_path'])))
 
     def test_fast_qa_repair_when_seo_below_threshold(self):
-        ensure_writing_chunk(self.fx)
+        self.ensure_writing_chunk()
         row = first_writing(self.fx)
         set_word_target(self.fx, row['id'], 100)
         p = make_draft(self.fx, row)
