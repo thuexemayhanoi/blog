@@ -1,0 +1,6 @@
+{
+  "op": "qa",
+  "ids": "BLG-00760,BLG-00761,BLG-00762,BLG-00763,BLG-00764",
+  "command_id": "campaign10k-r3-chunk9-qa",
+  "coordinator": "vibe-campaign10k-round3"
+}
