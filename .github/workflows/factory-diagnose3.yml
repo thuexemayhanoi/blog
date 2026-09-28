@@ -1,7 +1,9 @@
 name: factory-diagnose3
 
-# Read-only diagnostic lan 3: isolate which test module kills CWD,
-# va chinh xac dong loi syntax trong test_qa_modes.py.
+# Read-only diagnostic lan 5: per-module unittest isolation tren HEAD hien tai
+# sau repair 67749d11. Commit step dung lai pattern da chung thuc thanh cong
+# cua run 2 (add -> commit -> push), pull --rebase dat TRUOC khi stage de
+# tranh loi "cannot rebase: uncommitted changes".
 
 on:
   push:
@@ -32,32 +34,34 @@ jobs:
       - name: Isolate test modules
         run: |
           set +e
-          OUT=reports/factory/diagnose-2026-09-28-iso4.txt
+          OUT=reports/factory/diagnose-2026-09-28-iso5.txt
           mkdir -p reports/factory
           {
-            echo "=== diagnose4 $(date -u +%H:%M:%SZ) HEAD=$(git rev-parse HEAD) ==="
-            echo "--- py_compile test_qa_modes.py ---"
-            python3 -m py_compile scripts/factory/tests/test_qa_modes.py 2>&1 | head -n 10
-            echo "--- sed 55..70 test_qa_modes.py ---"
-            sed -n "55,70p" scripts/factory/tests/test_qa_modes.py
+            echo "=== diagnose5 $(date -u +%H:%M:%SZ) HEAD=$(git rev-parse HEAD) ==="
+            echo "--- py_compile tung module ---"
+            for m in test_hardening test_link_integrity test_operator test_publish_gate test_qa_modes test_refill_safety test_reports_resume test_topic_universe; do
+              python3 -m py_compile "scripts/factory/tests/$m.py" 2>&1 | head -n 6
+            done
             for m in test_hardening test_link_integrity test_operator test_publish_gate test_qa_modes test_refill_safety test_reports_resume test_topic_universe; do
               echo "--- module $m (process rieng) ---"
-              python3 -m unittest discover -s scripts/factory/tests -p "$m.py" -v 2>&1 | grep -v -E "ResourceWarning|tracemalloc|mode=.r.|^  text = open" | tail -n 40
-              echo "exit=$?"
+              python3 -m unittest discover -s scripts/factory/tests -p "$m.py" -v 2>&1 | grep -v -E "ResourceWarning|tracemalloc|mode=.r.|^  text = open" | tail -n 45
             done
             echo "--- full discover (tuong tu verify) ---"
-            python3 -m unittest discover -s scripts/factory/tests -p "test_*.py" 2>&1 | grep -v -E "ResourceWarning|tracemalloc|mode=.r.|^  text = open" | tail -n 60
-            echo "=== end diagnose4 ==="
+            python3 -m unittest discover -s scripts/factory/tests -p "test_*.py" 2>&1 | grep -v -E "ResourceWarning|tracemalloc|mode=.r.|^  text = open" | tail -n 70
+            echo "=== end diagnose5 ==="
           } > "$OUT" 2>&1
+          echo "--- git status sau isolate ---" >> "$OUT"
+          git status --short >> "$OUT" 2>&1
+          ls -la reports/factory >> "$OUT" 2>&1
 
       - name: Commit chi file output diagnose
         run: |
           set -eu
+          OUT=reports/factory/diagnose-2026-09-28-iso5.txt
           git config user.name "factory-diagnose-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git checkout -- .
-          git clean -fd scripts data _drafts _posts reports/factory/rows || true
-          git add reports/factory/diagnose-2026-09-28-iso4.txt
-          git pull --rebase origin main || { git rebase --abort; echo "rebase conflict - skip push"; exit 0; }
-          git commit -m "factory-diagnose3: module isolation + syntax pinpoint (read-only, temporary)"
+          git pull --rebase origin main
+          git checkout -- . || true
+          git add "$OUT"
+          git commit -m "factory-diagnose5: per-module isolation output (read-only, temporary)"
           git push
