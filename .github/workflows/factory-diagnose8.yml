@@ -1,10 +1,8 @@
 name: factory-diagnose8
 
-# Read-only diagnostic lan 8: test_fast_qa_publishes_while_full_audit_fails
-# FAIL (REPAIR != PASS) tai verify cua run #114 va diagnose7. Reproduce tung
-# buoc cua test trong fixture (copy repo, xoa drafts, pause chunk, claim 10,
-# corrupt legacy url, make_draft, qa fast) va dump FULL stdout + evidence
-# data/qa/<id>.json + matrix row de biet ly do REPAIR.
+# Read-only diagnostic lan 8 (thu 2): lay full evidence ly do REPAIR cua
+# test_fast_qa_publishes_while_full_audit_fails (verify blocker run #114).
+# Python embedding qua base64 de tranh van de indent YAML cua lan dau.
 
 on:
   push:
@@ -40,89 +38,10 @@ jobs:
           {
             echo "=== diagnose8 HEAD=$(git rev-parse HEAD) ==="
             echo "--- don test goc -v ---"
-            python3 -m unittest scripts.factory.tests.test_qa_modes.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails -v 2>&1 | tail -n 40
+            python3 scripts/factory/tests/test_qa_modes.py TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails -v 2>&1 | tail -n 40
             echo "--- tung buoc trong fixture ---"
-            python3 - <<'PYEOF'
-import json, os, shutil, sys, tempfile, csv
-sys.path.insert(0, os.path.join(os.getcwd(), 'scripts/factory/tests'))
-import test_qa_modes as T
-
-base = tempfile.mkdtemp(prefix='diag8-')
-fx = os.path.join(base, 'repo')
-shutil.copytree(T.ROOT, fx, ignore=T.IGNORE)
-for fn in os.listdir(os.path.join(fx, '_drafts')):
-    os.remove(os.path.join(fx, '_drafts', fn))
-
-def py(*args):
-    import subprocess
-    return subprocess.run([sys.executable] + list(args), capture_output=True, text=True, cwd=fx)
-
-# 1) pause real chunk state (rows PASS -> PLANNED) giong pause_in_progress_chunk
-rows = T.matrix_rows(fx)
-cp = T.cp_json(fx, 'data/state/checkpoint.json')
-chunk = cp.get('in_progress_chunk') or []
-reset_ids = [r['id'] for r in rows if r['id'] in chunk and r['status'] in ('WRITING','QA','REPAIR','PASS')]
-print('chunk=', chunk)
-print('reset_ids=', reset_ids)
-for r in rows:
-    if r['id'] in reset_ids:
-        r['status'] = 'PLANNED'
-T.save_matrix(fx, rows)
-for aid in reset_ids:
-    evp = os.path.join(fx, 'data', 'qa', aid + '.json')
-    if os.path.exists(evp):
-        os.remove(evp)
-cp['in_progress_chunk'] = None
-nc = min(reset_ids) if reset_ids else None
-cur = cp.get('next_claimable_id')
-if nc and (cur is None or nc < cur):
-    cp['next_claimable_id'] = nc
-T.write_json(fx, 'data/state/checkpoint.json', cp)
-for script in ('generate-reports.py', 'generate-matrix.py', 'generate-listing-pages.py'):
-    rr = py('scripts/factory/' + script)
-    print('gen', script, rr.returncode, (rr.stdout + rr.stderr)[-300:] if rr.returncode else 'ok')
-
-# 2) prepare-next 10
-r = py('scripts/factory/factory-operator.py', 'prepare-next', '--count', '10')
-print('prepare-next rc=', r.returncode)
-print(r.stdout[-1500:])
-print(r.stderr[-800:])
-
-# 3) corrupt legacy url
-T.corrupt_legacy_url(fx)
-r = py('scripts/factory/validate.py', '--scope', 'full')
-print('validate full rc=', r.returncode)
-
-# 4) draft cho hang WRITING dau tien
-row = T.first_writing(fx)
-print('row id=', row['id'], 'keyword=', row['primary_keyword'], 'canonical=', row['canonical_url'], 'output_path=', row['output_path'])
-T.set_word_target(fx, row['id'], 100)
-draft = T.make_draft(fx, row)
-print('draft=', draft)
-text = open(draft, encoding='utf-8').read()
-print('draft word count ~=', len(text.split()))
-
-# 5) qa fast
-r = py('scripts/factory/factory-operator.py', 'qa', '--scope', 'fast', '--ids', row['id'])
-print('qa rc=', r.returncode)
-print('--- qa stdout FULL ---')
-print(r.stdout)
-print('--- qa stderr ---')
-print(r.stderr[-3000:])
-
-# 6) evidence
-evp = os.path.join(fx, 'data', 'qa', row['id'] + '.json')
-if os.path.exists(evp):
-    print('--- evidence', row['id'], '---')
-    print(open(evp, encoding='utf-8').read())
-rows = T.matrix_rows(fx)
-for x in rows:
-    if x['id'] == row['id']:
-        print('--- matrix row sau qa ---')
-        print(json.dumps(x, ensure_ascii=False, indent=1))
-shutil.rmtree(base, ignore_errors=True)
-
-PYEOF
+            echo "aW1wb3J0IGpzb24sIG9zLCBzaHV0aWwsIHN5cywgdGVtcGZpbGUsIHN1YnByb2Nlc3MKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguam9pbihvcy5nZXRjd2QoKSwgJ3NjcmlwdHMvZmFjdG9yeS90ZXN0cycpKQppbXBvcnQgdGVzdF9xYV9tb2RlcyBhcyBUCgpiYXNlID0gdGVtcGZpbGUubWtkdGVtcChwcmVmaXg9J2RpYWc4LScpCmZ4ID0gb3MucGF0aC5qb2luKGJhc2UsICdyZXBvJykKc2h1dGlsLmNvcHl0cmVlKFQuUk9PVCwgZngsIGlnbm9yZT1ULklHTk9SRSkKZm9yIGZuIGluIG9zLmxpc3RkaXIob3MucGF0aC5qb2luKGZ4LCAnX2RyYWZ0cycpKToKICAgIG9zLnJlbW92ZShvcy5wYXRoLmpvaW4oZngsICdfZHJhZnRzJywgZm4pKQoKZGVmIHB5KCphcmdzKToKICAgIHJldHVybiBzdWJwcm9jZXNzLnJ1bihbc3lzLmV4ZWN1dGFibGVdICsgbGlzdChhcmdzKSwgY2FwdHVyZV9vdXRwdXQ9VHJ1ZSwgdGV4dD1UcnVlLCBjd2Q9ZngpCgpyb3dzID0gVC5tYXRyaXhfcm93cyhmeCkKY3AgPSBULmNwX2pzb24oZngsICdkYXRhL3N0YXRlL2NoZWNrcG9pbnQuanNvbicpCmNodW5rID0gY3AuZ2V0KCdpbl9wcm9ncmVzc19jaHVuaycpIG9yIFtdCnJlc2V0X2lkcyA9IFtyWydpZCddIGZvciByIGluIHJvd3MgaWYgclsnaWQnXSBpbiBjaHVuayBhbmQgclsnc3RhdHVzJ10gaW4gKCdXUklUSU5HJywnUUEnLCdSRVBBSVInLCdQQVNTJyldCnByaW50KCdjaHVuaz0nLCBjaHVuaykKcHJpbnQoJ3Jlc2V0X2lkcz0nLCByZXNldF9pZHMpCmZvciByIGluIHJvd3M6CiAgICBpZiByWydpZCddIGluIHJlc2V0X2lkczoKICAgICAgICByWydzdGF0dXMnXSA9ICdQTEFOTkVEJwpULnNhdmVfbWF0cml4KGZ4LCByb3dzKQpmb3IgYWlkIGluIHJlc2V0X2lkczoKICAgIGV2cCA9IG9zLnBhdGguam9pbihmeCwgJ2RhdGEnLCAncWEnLCBhaWQgKyAnLmpzb24nKQogICAgaWYgb3MucGF0aC5leGlzdHMoZXZwKToKICAgICAgICBvcy5yZW1vdmUoZXZwKQpjcFsnaW5fcHJvZ3Jlc3NfY2h1bmsnXSA9IE5vbmUKbmMgPSBtaW4ocmVzZXRfaWRzKSBpZiByZXNldF9pZHMgZWxzZSBOb25lCmN1ciA9IGNwLmdldCgnbmV4dF9jbGFpbWFibGVfaWQnKQppZiBuYyBhbmQgKGN1ciBpcyBOb25lIG9yIG5jIDwgY3VyKToKICAgIGNwWyduZXh0X2NsYWltYWJsZV9pZCddID0gbmMKVC53cml0ZV9qc29uKGZ4LCAnZGF0YS9zdGF0ZS9jaGVja3BvaW50Lmpzb24nLCBjcCkKZm9yIHNjcmlwdCBpbiAoJ2dlbmVyYXRlLXJlcG9ydHMucHknLCAnZ2VuZXJhdGUtbWF0cml4LnB5JywgJ2dlbmVyYXRlLWxpc3RpbmctcGFnZXMucHknKToKICAgIHJyID0gcHkoJ3NjcmlwdHMvZmFjdG9yeS8nICsgc2NyaXB0KQogICAgcHJpbnQoJ2dlbicsIHNjcmlwdCwgcnIucmV0dXJuY29kZSwgKHJyLnN0ZG91dCArIHJyLnN0ZGVycilbLTMwMDpdIGlmIHJyLnJldHVybmNvZGUgZWxzZSAnb2snKQoKciA9IHB5KCdzY3JpcHRzL2ZhY3RvcnkvZmFjdG9yeS1vcGVyYXRvci5weScsICdwcmVwYXJlLW5leHQnLCAnLS1jb3VudCcsICcxMCcpCnByaW50KCdwcmVwYXJlLW5leHQgcmM9Jywgci5yZXR1cm5jb2RlKQpwcmludChyLnN0ZG91dFstMTUwMDpdKQpwcmludChyLnN0ZGVyclstODAwOl0pCgpULmNvcnJ1cHRfbGVnYWN5X3VybChmeCkKciA9IHB5KCdzY3JpcHRzL2ZhY3RvcnkvdmFsaWRhdGUucHknLCAnLS1zY29wZScsICdmdWxsJykKcHJpbnQoJ3ZhbGlkYXRlIGZ1bGwgcmM9Jywgci5yZXR1cm5jb2RlKQoKcm93ID0gVC5maXJzdF93cml0aW5nKGZ4KQpwcmludCgncm93IGlkPScsIHJvd1snaWQnXSwgJ2tleXdvcmQ9Jywgcm93WydwcmltYXJ5X2tleXdvcmQnXSwgJ2Nhbm9uaWNhbD0nLCByb3dbJ2Nhbm9uaWNhbF91cmwnXSwgJ291dHB1dF9wYXRoPScsIHJvd1snb3V0cHV0X3BhdGgnXSkKVC5zZXRfd29yZF90YXJnZXQoZngsIHJvd1snaWQnXSwgMTAwKQpkcmFmdCA9IFQubWFrZV9kcmFmdChmeCwgcm93KQpwcmludCgnZHJhZnQ9JywgZHJhZnQpCnRleHQgPSBvcGVuKGRyYWZ0LCBlbmNvZGluZz0ndXRmLTgnKS5yZWFkKCkKcHJpbnQoJ2RyYWZ0IHdvcmQgY291bnQgfj0nLCBsZW4odGV4dC5zcGxpdCgpKSkKCnIgPSBweSgnc2NyaXB0cy9mYWN0b3J5L2ZhY3Rvcnktb3BlcmF0b3IucHknLCAncWEnLCAnLS1zY29wZScsICdmYXN0JywgJy0taWRzJywgcm93WydpZCddKQpwcmludCgncWEgcmM9Jywgci5yZXR1cm5jb2RlKQpwcmludCgnLS0tIHFhIHN0ZG91dCBGVUxMIC0tLScpCnByaW50KHIuc3Rkb3V0KQpwcmludCgnLS0tIHFhIHN0ZGVyciAtLS0nKQpwcmludChyLnN0ZGVyclstMzAwMDpdKQoKZXZwID0gb3MucGF0aC5qb2luKGZ4LCAnZGF0YScsICdxYScsIHJvd1snaWQnXSArICcuanNvbicpCmlmIG9zLnBhdGguZXhpc3RzKGV2cCk6CiAgICBwcmludCgnLS0tIGV2aWRlbmNlJywgcm93WydpZCddLCAnLS0tJykKICAgIHByaW50KG9wZW4oZXZwLCBlbmNvZGluZz0ndXRmLTgnKS5yZWFkKCkpCnJvd3MgPSBULm1hdHJpeF9yb3dzKGZ4KQpmb3IgeCBpbiByb3dzOgogICAgaWYgeFsnaWQnXSA9PSByb3dbJ2lkJ106CiAgICAgICAgcHJpbnQoJy0tLSBtYXRyaXggcm93IHNhdSBxYSAtLS0nKQogICAgICAgIHByaW50KGpzb24uZHVtcHMoeCwgZW5zdXJlX2FzY2lpPUZhbHNlLCBpbmRlbnQ9MSkpCnNodXRpbC5ybXRyZWUoYmFzZSwgaWdub3JlX2Vycm9ycz1UcnVlKQo=" | base64 -d > /tmp/diag8.py
+            python3 /tmp/diag8.py 2>&1
             echo "=== end diagnose8 ==="
           } > "$OUT" 2>&1
 
