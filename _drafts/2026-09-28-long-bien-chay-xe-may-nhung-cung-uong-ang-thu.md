@@ -38,9 +38,11 @@ Cung thứ tư băng qua sông sang Gia Lâm: khách chọn cầu Long Biên n�
 
 Lưu ý chung khi chạy xuyên sông: các cây cầu vào khung 17 giờ chiều đông xe về phía bờ nam, khách nên tránh khung này hoặc chấp nhận đi chậm trong làn hẹp. Trên cầu không dừng xe chụp ảnh giữa làn, muốn ngắm sông khách nên xuống tới bờ rồi đi bộ lại đoạn đầu cầu.
 
-## Chọn cung theo khung giờ và trình độ
+## Chạy xe Long Biên: chọn cung theo khung giờ và trình độ
 
-Khách mới chạy nội đô nên bắt đầu bằng cung phố cổ Long Biên: đường ngắn, có chỗ gửi xe quen thuộc, dễ quay về nếu chưa quen đường. Cung đê ven sông hợp khách đã cầm lái chắc, vì đường đê nhỏ và không có vạch phân làn rõ. Cung ruộng và cung Gia Lâm phù hợp khách có nửa ngày rảnh và xe đã kiểm tra nhớt, đèn. Khách chạy nhiều cung trong một buổi nên ghép ăn sáng hoặc ăn trưa vào đầu cầu: khu phố quanh đầu bờ bắc có các quán mở từ sáng, dừng đúng một lần thay vì rải nhiều lần dọc đường giúp giữ nhịp chuyến đi. Các lưu ý nền tảng cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn khách xếp chuỗi cung vào lịch dài ngày đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), tổng quan chủ đề tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách mới chạy nội đô nên bắt đầu bằng cung phố cổ Long Biên: đường ngắn, có chỗ gửi xe quen thuộc, dễ quay về nếu chưa quen đường. Cung đê ven sông hợp khách đã cầm lái chắc, vì đường đê nhỏ và không có vạch phân làn rõ. Cung ruộng và cung Gia Lâm phù hợp khách có nửa ngày rảnh và xe đã kiểm tra nhớt, đèn. Khách chạy nhiều cung trong một buổi nên ghép ăn sáng hoặc ăn trưa vào đầu cầu: khu phố quanh đầu bờ bắc có các quán mở từ sáng, dừng đúng một lần thay vì rải nhiều lần dọc đường giúp giữ nhịp chuyến đi.
+
+Các lưu ý nền tảng cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn khách xếp chuỗi cung vào lịch dài ngày đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), tổng quan chủ đề tại trang [du lịch Hà Nội](/blog/du-lich/).
 
 ## Kết luận về các cung đường Long Biên
 

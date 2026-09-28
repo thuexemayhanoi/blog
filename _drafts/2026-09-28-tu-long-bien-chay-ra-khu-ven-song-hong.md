@@ -20,7 +20,7 @@ Ven sông Hồng Long Biên là chuỗi bãi bồi, bãi cỏ và thửa rau tr�
 
 Hệ thống đê sông Hồng phía Long Biên chạy dải liên tục theo dòng sông, mặt đê rộng vừa xe hai bánh, thân đê hai bên là dải cây và bãi bồi. Khách mới lần đầu nên chạy một khúc ngắn trước, quen mặt đường và mật độ người, rồi mới kéo dài hành trình theo đê ra xa hơn, vì đường đê không có vạch phân làn và phần đông người đi trên đê là dân địa phương đi làm, đi chợ. Dọc các lối lên đê có thưa thớt vài tạp hóa và quán nước nhỏ, khách muốn có bữa sáng ven sông nên mua bánh mì hoặc đồ ăn gói mang theo rồi tự tìm chỗ ngồ trên bãi, vì hàng nấu nóng trên đê gần như không có.
 
-## Điểm dừng ven sông đáng giá
+## Khu ven sông Hồng Long Biên: điểm dừng đáng giá
 
 Các đoạn bãi trống nơi có lối xuống bãi bồi là điểm dừng chính của cung này: khách để xe ở chân đê hoặc sát mép đường đê rồi bộ xuống bãi, mùa cạn bãi rộng có chỗ ngồi cỏ, mùa nước lên mép bãi hẹp và trơn nên khách chỉ đứng trên đê ngắm. Buổi sáng sớm, sông còn lớp sương mỏng và dòng nước màu phù sa, khung 6 giờ đến 8 giờ là đẹp nhất trong ngày cho ai thích chụp ảnh.
 

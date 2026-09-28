@@ -20,7 +20,7 @@ Khung gọn nhất cho buổi sáng: 5 giờ 30 đến 6 giờ nhận xe và xu�
 
 Khách muốn nửa ngày buổi chiều phải tính ngược: xuất phát 12 giờ 30, lên núi khoảng 15 giờ, nhưng mây núi thường dày dần về chiều và đoạn dốc xuống lúc chạng vạng cần thêm chắc tay, nên buổi sáng vẫn là lựa chọn an toàn hơn cho người đi nửa ngày. Khoảng cách từ trung tâm Hà Nội tới khu vực Ba Vì chừng năm mươi cây số trở lên tùy điểm đích, khách cộng thêm thời gian cho đoạn cuối vào khu vực núi. Khách đi theo nhóm nên hẹn chung một điểm đích rõ ràng thay vì rải nhau giữa đường, vì sóng điện thoại một số khúc quãng huyện chập chờn, các nhóm rẽ nhau giữa cung rất dễ mất liên lạc.
 
-## Tuyến đường từ Hà Nội ra Ba Vì
+## Đi Ba Vì bằng xe máy: tuyến đường từ Hà Nội
 
 Tuyến quen thuộc nhất là theo đại lộ Thăng Long hướng tây: đường rộng, thẳng, ít đèn đỏ so với các trục nội thành, khách mới chạy xe đường dài cũng dễ giữ nhịp. Cuối đại lộ, khách theo các đường kết nối về hướng khu vực Sơn Tây, Ba Vì, các khúc nối này mặt đường hẹp hơn, có đoạn qua thị trấn cần hạ tốc. Tuyến thứ hai là đường 32, ngắn hơn một chút nhưng đông xe hơn và có nhiều đoạn qua phố, hợp cho khách quen đường.
 

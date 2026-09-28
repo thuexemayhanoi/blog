@@ -14,7 +14,7 @@ article_id: BLG-00742
 ---
 Cầu Long Biên đi xe máy là một trong những quãng đường nên thử nhất Hà Nội: cây cầu thép hơn trăm tuổi bắc qua sông Hồng, xe chạy giữa các dầm sắt gồ ghề nghe tiếng gỗ lót bánh xe, hai bên là mặt sông rộng và dải bãi bồi chạy dải tới chân trời. Quãng cầu chỉ khoảng một cây số nhưng cho trải nghiệm khác hẳn mọi con phố nội địa, và hai đầu cầu nối tiếp bằng các đoạn ven sông đáng dừng. Bài này đi trọn hành trình: chuẩn bị trước khi lên cầu, cảm giác trên cầu, và các điểm dừng ven sông hai bên.
 
-## Cảm giác qua cầu: nhịp gỗ, dầm thép và gió sông
+## Cầu Long Biên đi xe máy: nhịp gỗ, dầm thép và gió sông
 
 Cầu Long Biên được xây dựng từ cuối thế kỷ 19 và đứng qua nhiều lần sửa, nên khí chất của nó là của một công trình già: dầm thép đinh tán dày đặc, nhịp cầu lồi lõm theo từng đoạn, và mặt đường cho xe hai bánh lát bằng các tấm gỗ nằm so le. Xe máy chạy lên cầu nghe rõ tiếng bánh xe gõ xuống mặt gỗ, tiếng này cộng với gió sông tạo nên thứ âm thanh không lẫn được với bất kỳ cầu nào khác của thành phố.
 

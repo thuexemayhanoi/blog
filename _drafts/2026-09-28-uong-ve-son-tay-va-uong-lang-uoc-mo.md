@@ -12,7 +12,7 @@ parent_id: P-DU-LICH
 child_id: C-NGOAI-THANH
 article_id: BLG-00744
 ---
-Đường về Sơn Tây là một trong những cung chạy xe được người Hà Nội nhắc nhiều nhất mỗi mùa cuối tuần: từ nội đô men theo hướng tây, phố dần nhường chỗ cho đồng ruộng, làng gạo và các trục thẳng dài, điểm đến quen thuộc của cung này là thị xã Sơn Tây và đoạn Đường Làng Ước Mơ quanh khu chân núi phía tây. Bài này đi trọn lộ trình, kể rõ từng loại mặt đường, các điểm dừng đáng giá và những điều cần biết trước khi chạy cung này vào khung cuối tuần đông người.
+Đường Sơn Tây là một trong những cung chạy xe được người Hà Nội nhắc nhiều nhất mỗi mùa cuối tuần: từ nội đô men theo hướng tây, phố dần nhường chỗ cho đồng ruộng, làng gạo và các trục thẳng dài, điểm đến quen thuộc của cung này là thị xã Sơn Tây và đoạn Đường Làng Ước Mơ quanh khu chân núi phía tây. Bài này đi trọn lộ trình, kể rõ từng loại mặt đường, các điểm dừng đáng giá và những điều cần biết trước khi chạy cung này vào khung cuối tuần đông người.
 
 ## Lộ trình từ Hà Nội về Sơn Tây
 

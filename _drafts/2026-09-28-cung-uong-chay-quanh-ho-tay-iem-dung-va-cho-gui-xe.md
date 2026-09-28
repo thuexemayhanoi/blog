@@ -12,9 +12,9 @@ parent_id: P-DU-LICH
 child_id: C-HO-TAY
 article_id: BLG-00736
 ---
-Cung đường chạy quanh hồ Tây là một trong những vòng chạy xe máy dễ chịu nhất Hà Nội: hồ rộng nên một vòng men bờ dài chừng hơn chục cây số, đi được trong khoảng một tiếng rảnh rang nếu chỉ chạy qua, hoặc nửa buổi nếu ghé các điểm dừng. Bài này đi theo thứ tự một vòng hồ, chỉ rõ từng điểm dừng đáng giá và chỗ gửi xe tại mỗi điểm để khách không phải bỏ dở chuyến vì lo chuyện để xe.
+Cung đường quanh hồ Tây là một trong những vòng chạy xe máy dễ chịu nhất Hà Nội: hồ rộng nên một vòng men bờ dài chừng hơn chục cây số, đi được trong khoảng một tiếng rảnh rang nếu chỉ chạy qua, hoặc nửa buổi nếu ghé các điểm dừng. Bài này đi theo thứ tự một vòng hồ, chỉ rõ từng điểm dừng đáng giá và chỗ gửi xe tại mỗi điểm để khách không phải bỏ dở chuyến vì lo chuyện để xe.
 
-## Hướng chạy và cách chia vòng hồ
+## Cung đường quanh hồ Tây: hướng chạy và cách chia vòng
 
 Điểm xuất phát tiện nhất là góc đông nam hồ, nơi đường Thanh Niên chạy giữa Hồ Tây và hồ Trúc Bạch: khách gửi xe ở khu vực gần chùa Trấn Quốc, dạo đảo chùa rồi lên xe chạy theo đường Âu Cơ men bờ đông lên phía bắc. Từ Âu Cơ, vòng hồ nối qua các khu Xuân La, Nhật Tân ở bờ bắc, men đường ven hồ phía tây rồi trở về các phường Quảng An, Thụy Khuê ở bờ nam trước khi khép vòng. Chạy theo chiều ngược lại cũng được, nhưng chiều đông nam trước giúp khách dồn phần phố đông vào lúc đầu chuyến, quãng còn lại đi qua các đoạn đường hồ thoáng vắng dễ chạy hơn.
 
