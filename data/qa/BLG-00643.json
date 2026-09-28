@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md",
+  "source_path": "_posts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md",
   "content_sha256": "511d07962fddc0ccd85531ca8fa45c7e10a9f9017ca1098ff4f112d91d39ce8d",
-  "matrix_row_sha256": "45d05d1ffe9dbd5295d20982569edf3b23ae76a145bc61b5d680f6a64ce1dbfb",
-  "result": "PASS"
+  "matrix_row_sha256": "e98074c16f2cd4a39b84c4d0e7f18afcc3da54d45ee0897f07659d4bef27107a",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md",
+  "source_path": "_posts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md",
   "content_sha256": "d1bb8e7ebff7ee13c6ff1d6633e3b658600c2ba0f17246e2bded630691707cbd",
-  "matrix_row_sha256": "9252a772034e91c2dc81e8e5d586208b96d4e4d87dd1ad2d94e27b077ec65f02",
-  "result": "PASS"
+  "matrix_row_sha256": "f001d23f1c0c2d9b46b3f4f1da696fd7c96a97efb29d0faa81f00fd56097bd2d",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }

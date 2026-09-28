@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md",
+  "source_path": "_posts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md",
   "content_sha256": "521c4387b6c957626997e0671b32e60884ed4e7e0d3864cf98e70bf4f5af3829",
-  "matrix_row_sha256": "d6e70ceb49481a36f99e8e398e3512ead8ed170690595edc2711c1ae14b9b61c",
-  "result": "PASS"
+  "matrix_row_sha256": "3b42109338bb8fe9c1c2adc83429557eff0b08bc274ad9c2aa4081f7c7fcbf3a",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }

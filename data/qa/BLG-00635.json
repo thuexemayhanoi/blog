@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md",
+  "source_path": "_posts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md",
   "content_sha256": "9465a5a85b82f55f27c99f3bc626885e4780cf6b826cfb4faf43faa0fdb66a5d",
-  "matrix_row_sha256": "4022e05a4e5403a489e25a4311937a32693fa381ef93ba0a9d8889b1e8852048",
-  "result": "PASS"
+  "matrix_row_sha256": "b69210411beee67b4d8009e94554ed9710a547d457285d857995da5ace41c58c",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:30+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md",
+  "source_path": "_posts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md",
   "content_sha256": "612c0e862abcdccfe89d2776eac0880e4e64dcb9246fb139164a136234557271",
-  "matrix_row_sha256": "5eb6d55716a01080fdeabeca93d6c6bf82fad8cad321fc01395fe148a9e680cd",
-  "result": "PASS"
+  "matrix_row_sha256": "4a04920c8e87697e7c99bbc9762e187fdfba27979720adf18cbbe9c507b50d90",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }

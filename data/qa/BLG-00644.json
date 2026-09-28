@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md",
+  "source_path": "_posts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md",
   "content_sha256": "a7ab5a56334f8c1d37989ac8822df8ba3a9ba3b65edf064c7c3285289f1d62bd",
-  "matrix_row_sha256": "f77d25e1f23e1cf78bdd378a5c9c85a0b733091a228a467493fb9c81fd7524f4",
-  "result": "PASS"
+  "matrix_row_sha256": "42dec3acb70f7cfa3b23720a11e7c335f4372ab36d504f4f630863e3fb395185",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md",
+  "source_path": "_posts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md",
   "content_sha256": "d2bff5143b5806ab382c6bd6a14455aab3a2102806b390dd87e33286997d6343",
-  "matrix_row_sha256": "87a39979e461d40cdee8ddac485795caa2925deba7936c93a6c3d21b11ab4604",
-  "result": "PASS"
+  "matrix_row_sha256": "59d7448728cebcd70330cd5c57a5e8e5c8046e7acb66a36e7a1655f9211b2e0f",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:30+00:00"
 }

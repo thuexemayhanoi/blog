@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md",
+  "source_path": "_posts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md",
   "content_sha256": "b4b75bf59f20ce821f0773f380e6b5b976d95f84e4a00cc87b245511c761dd40",
-  "matrix_row_sha256": "cc102916e088bff7a796103de9578660994f937c6fd59daa7cdac9f4d3dad11a",
-  "result": "PASS"
+  "matrix_row_sha256": "602adbfc4117e2baf39a83c5633a440c14cdc2c81c61c2833ec8c22760322db4",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }

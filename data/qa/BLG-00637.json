@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md",
   "content_sha256": "aeec2945aa8db64eceb511a1286c781f4aadbf2901bb85286075bf859477c0fa",
-  "matrix_row_sha256": "73e47aa2ac81b5299ae140eca6d6b1145fc58c85ee39d133abe5b96264d7d5da",
-  "result": "PASS"
+  "matrix_row_sha256": "63634dbb987ad378b605fa0d70e87b0d8d7a7fa8b5555e7bdc899b7265adb3dd",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:30+00:00"
 }

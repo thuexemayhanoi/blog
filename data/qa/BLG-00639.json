@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md",
+  "source_path": "_posts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md",
   "content_sha256": "06f1df08484b5c9524e4160b5da7e23dca1a61de10d846530eba7e454bd36152",
-  "matrix_row_sha256": "cbdbc48d0da8963d4387ebd41b36b4fa15ffb9cf7df4e20b93bed35685f54ef5",
-  "result": "PASS"
+  "matrix_row_sha256": "37c1a4d66c32bfb24cf69eb9a8ada8bad3b66d940f941643fe043f6617200a75",
+  "result": "PASS",
+  "published_at": "2026-09-28T07:53:31+00:00"
 }
