@@ -1,0 +1,24 @@
+=== REPAIR FRONTMATTER ===
+checked=624 fixed=8
+fixed: _posts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md
+fixed: _posts/2026-09-27-bao-duong-inh-ky-xe-may-gom-nhung-gi.md
+fixed: _posts/2026-09-27-sirius-cho-chang-uong-truong-quang-ngan.md
+fixed: _posts/2026-09-27-dau-may-xe-may-oi-sau-bao-lau.md
+fixed: _posts/2026-09-27-lop-xe-may-khi-nao-can-thay.md
+fixed: _posts/2026-09-27-ac-quy-xe-may-yeu-dau-hieu-va-xu-ly.md
+fixed: _posts/2026-09-27-o-kim-va-xich-xe-may-cang-ung-cach.md
+fixed: _posts/2026-09-27-phanh-xe-may-ia-va-bo-kiem-tra-the-nao.md
+=== VALIDATE FOUNDATION ===
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 130, 'BLOCKED': 1, 'WRITING': 10, 'PLANNED': 318}
+FAIL: sitemap có 8 URL bài không nằm trong inventory (ví dụ: https://thuexemayhanoi.github.io/blog/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/)
+FAIL: QA BLG-00605 content_sha256 không khớp tệp _posts/2026-09-27-sirius-cho-chang-uong-truong-quang-ngan.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00607 content_sha256 không khớp tệp _posts/2026-09-27-bao-duong-inh-ky-xe-may-gom-nhung-gi.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00608 content_sha256 không khớp tệp _posts/2026-09-27-lop-xe-may-khi-nao-can-thay.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00609 content_sha256 không khớp tệp _posts/2026-09-27-dau-may-xe-may-oi-sau-bao-lau.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00610 content_sha256 không khớp tệp _posts/2026-09-27-o-kim-va-xich-xe-may-cang-ung-cach.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00611 content_sha256 không khớp tệp _posts/2026-09-27-ac-quy-xe-may-yeu-dau-hieu-va-xu-ly.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00612 content_sha256 không khớp tệp _posts/2026-09-27-phanh-xe-may-ia-va-bo-kiem-tra-the-nao.md (nội dung đổi sau QA?)
+FAIL: QA BLG-00614 content_sha256 không khớp tệp _posts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md (nội dung đổi sau QA?)
+KẾT QUẢ: FAIL
+VALIDATE_EXIT=1

@@ -11,7 +11,8 @@ permalink: /xe-may/2026/09/27/sirius-cho-chang-uong-truong-quang-ngan/
 parent_id: P-XE-MAY
 child_id: C-YAMAHA-SIRIUS
 article_id: BLG-00605
----Yamaha Sirius đường trường là trọng tâm của bài viết này: chiếc xe số phổ biến có đủ sức cho chặng quãng ngắn, và cần chuẩn bị gì trước khi lên đường.
+---
+Yamaha Sirius đường trường là trọng tâm của bài viết này: chiếc xe số phổ biến có đủ sức cho chặng quãng ngắn, và cần chuẩn bị gì trước khi lên đường.
 
 Yamaha Sirius là dòng xe số quen thuộc trên phố Việt Nam, nhưng khi nhắc đến đường trường, nhiều người vẫn băn khoăn liệu xe số nhỏ gọn này có gánh được những chặng quãng ngắn hay không. Trên thực tế, với quãng đường từ Hà Nội đi các tỉnh lân cận như Bắc Ninh, Hưng Yên, Hà Nam hay Thái Nguyên, cự ly khoảng 40 đến 100 km, Sirius vẫn là lựa chọn khả dụng nếu bạn chuẩn bị đúng cách. Bài viết này phân tích điểm mạnh, điểm hạn chế của Sirius trên chặng trường ngắn và những điều cần làm trước khi xuất phát.
 

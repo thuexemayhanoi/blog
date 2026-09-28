@@ -11,7 +11,8 @@ permalink: /an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/
 parent_id: P-PHAP-LY
 child_id: C-GPLX
 article_id: BLG-00614
----Các hạng bằng lái xe máy tại Việt Nam được phân theo dung tích xi lanh, và hiểu rõ phân loại này giúp bạn chọn đúng hồ sơ khi làm thủ tục.
+---
+Các hạng bằng lái xe máy tại Việt Nam được phân theo dung tích xi lanh, và hiểu rõ phân loại này giúp bạn chọn đúng hồ sơ khi làm thủ tục.
 
 Ở Việt Nam, điều khiển xe mô tô, xe gắn máy trên đường bộ yêu cầu giấy phép lái xe đúng hạng. Những ai chuẩn bị thi bằng, hoặc mới đến tuổi đủ điều kiện lái xe, thường hỏi: các hạng bằng lái xe máy gồm những gì, hạng nào lái được xe nào, và tuổi tối thiểu là bao nhiêu. Bài viết này giải thích các hạng bằng lái xe máy theo quy định hiện hành, cùng điều kiện thi và những điểm cần lưu ý cho người thuê xe.
 

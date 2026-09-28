@@ -11,7 +11,8 @@ permalink: /xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-ung-cach/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-00610
----Căng xích xe máy đúng cách là kỹ năng đơn giản nhưng nhiều người bỏ qua, khiến xích bị lỏng hoặc căng quá đều mòn nhanh hỏng.
+---
+Căng xích xe máy đúng cách là kỹ năng đơn giản nhưng nhiều người bỏ qua, khiến xích bị lỏng hoặc căng quá đều mòn nhanh hỏng.
 
 Xích và ổ kim là bộ truyền lực quen thuộc trên xe số: bàn đạp hoặc động cơ quay, lực đi qua xích tới bánh sau và xe tiến về trước. Chính vì làm việc liên tục dưới nhiệt độ và bụi, xích là chi tiết cần chăm sóc thường xuyên nhất. Căng xích quá lỏng, xe giật, có tiếng lạch cạch; căng quá, xích và ổ kim mòn nhanh, nặng hơn có thể làm đứt xích giữa đường. Bài viết này hướng dẫn cách kiểm tra, căng xích đúng chuẩn và bảo dưỡng ổ kim cho bền.
 

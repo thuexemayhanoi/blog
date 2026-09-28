@@ -11,7 +11,8 @@ permalink: /xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-00611
----Ắc quy xe máy yếu thường báo trước bằng những dấu hiệu nhỏ, và nhận biết sớm giúp bạn tránh cảnh xe chết máy giữa đường.
+---
+Ắc quy xe máy yếu thường báo trước bằng những dấu hiệu nhỏ, và nhận biết sớm giúp bạn tránh cảnh xe chết máy giữa đường.
 
 Có những sáng mùa đông bạn vặn chìa, máy quay lờ đờ rồi im luôn, đó thường là ắc quy yếu. Trên xe tay ga, ắc quy còn nuôi cả hệ thống điện, nên khi ắc quy yếu, đèn mờ, còi nhỏ, chìa từ không nhận. Nhận sớm dấu hiệu ắc quy yếu giúp bạn không bị đứng giữa phố lúc sáng sớm. Bài viết này tổng hợp dấu hiệu, nguyên nhân và cách xử lý đúng.
 

@@ -1,6 +1,0 @@
-=== VALIDATE FOUNDATION ===
-Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
-Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 130, 'BLOCKED': 1, 'WRITING': 10, 'PLANNED': 318}
-FAIL: sitemap có 8 URL bài không nằm trong inventory (ví dụ: https://thuexemayhanoi.github.io/blog/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/)
-KẾT QUẢ: FAIL
-VALIDATE_EXIT=1

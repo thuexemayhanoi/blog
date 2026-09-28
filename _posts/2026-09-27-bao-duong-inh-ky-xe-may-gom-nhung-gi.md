@@ -11,7 +11,8 @@ permalink: /xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-00607
----Bảo dưỡng xe máy định kỳ là việc duy trì xe theo chu kỳ gồm kiểm tra, thay thế và vệ sinh các hạng mục quan trọng, giúp chiếc xe luôn vận hành ổn định.
+---
+Bảo dưỡng xe máy định kỳ là việc duy trì xe theo chu kỳ gồm kiểm tra, thay thế và vệ sinh các hạng mục quan trọng, giúp chiếc xe luôn vận hành ổn định.
 
 Nhiều người chỉ nhớ đến xe khi nó hỏng, trong khi phần lớn sự cố có thể tránh được nếu bảo dưỡng định kỳ đúng lúc. Bảo dưỡng định kỳ xe máy không phức tạp: chủ yếu là kiểm tra, vệ sinh và thay thế những chi tiết hao mòn theo thời gian. Bài viết này liệt kê đầy đủ các hạng mục, chu kỳ tham khảo và cách áp dụng cho cả xe riêng lẫn xe thuê.
 

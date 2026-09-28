@@ -11,7 +11,8 @@ permalink: /xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-00612
----Kiểm tra phanh xe máy định kỳ là việc không nên trì hoãn, vì phanh là bộ phận quyết định an toàn của mọi chuyến đi trong đô thị.
+---
+Kiểm tra phanh xe máy định kỳ là việc không nên trì hoãn, vì phanh là bộ phận quyết định an toàn của mọi chuyến đi trong đô thị.
 
 Phanh là hệ thống an toàn quan trọng nhất của xe, nhưng cũng là hệ thống hay bị xem nhẹ nhất, vì hư hỏng của nó không có đèn báo như nhớt hay xăng. May mắn là phanh đĩa lẫn phanh bố đều có dấu hiệu nhận biết bằng tai, tay và mắt thường. Bài viết này hướng dẫn cách kiểm tra hai loại phanh phổ biến trên xe máy và thời điểm cần thay từng bộ phận.
 

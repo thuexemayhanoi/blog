@@ -11,7 +11,8 @@ permalink: /xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/
 parent_id: P-XE-MAY
 child_id: C-BAO-DUONG
 article_id: BLG-00609
----Thay dầu máy xe máy đúng chu kỳ là việc bảo dưỡng cơ bản nhất quyết định tuổi thọ động cơ, và bài này tóm tắt mốc thời gian cùng cách chọn dầu.
+---
+Thay dầu máy xe máy đúng chu kỳ là việc bảo dưỡng cơ bản nhất quyết định tuổi thọ động cơ, và bài này tóm tắt mốc thời gian cùng cách chọn dầu.
 
 Dầu máy là thứ "máu" nuôi động cơ xe: bôi trơn, làm mát, làm sạch và chống rỉ. Nhớt cũ mất chức năng này thì các chi tiết kim loại bên trong bắt đầu mài mòn nhau. Vậy đổi dầu máy xe máy sau bao lâu là đúng, và làm sao biết nhớt đã hỏng? Bài viết này đưa chu kỳ tham khảo, dấu hiệu nhận biết và các sai lầm thường gặp.
 
