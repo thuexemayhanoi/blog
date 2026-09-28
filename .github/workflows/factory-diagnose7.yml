@@ -1,0 +1,82 @@
+name: factory-diagnose7
+
+# Read-only diagnostic lan 7: run #114 op qa thanh cong nhung Verify FAIL
+# tren HEAD c431f72 (sau repair test_qa_modes + test_publish_gate tai d82a5f2).
+# Muc tieu: (1) tai tao qa evidence chunk BLG-00625..00634, (2) reproduce
+# verify --scope chunk de bat dung test/step fail, (3) commit CHI file output
+# (pattern run-2/run-6 da chung thuc, pull --rebase TRUOC stage).
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/factory-diagnose7.yml']
+
+concurrency:
+  group: factory-diagnose7
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Reproduce qa + verify
+        run: |
+          set +e
+          OUT=reports/factory/diagnose-2026-09-28-iso7.txt
+          mkdir -p reports/factory
+          {
+            echo "=== diagnose7 HEAD=$(git rev-parse HEAD) ==="
+            echo "--- py_compile per module ---"
+            for m in test_hardening test_link_integrity test_operator test_publish_gate test_qa_modes test_refill_safety test_reports_resume test_topic_universe; do
+              python3 -m py_compile "scripts/factory/tests/$m" 2>&1 | head -n 6
+              echo "compile_done $m.py"
+            done
+            echo "--- op qa (tai tao evidence run #114) ---"
+            python3 scripts/factory/factory-operator.py qa --scope fast --ids BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629,BLG-00630,BLG-00631,BLG-00632,BLG-00633,BLG-00634 2>&1 | tail -n 120
+            echo "qa_exit=$?"
+            echo "--- per-module unittest ---"
+            for m in test_hardening test_link_integrity test_operator test_publish_gate test_qa_modes test_refill_safety test_reports_resume test_topic_universe; do
+              echo "--- module $m.py ---"
+              python3 -m unittest discover -s scripts/factory/tests -p "$m.py" -v 2>&1 | grep -v -E "ResourceWarning|tracemalloc" | tail -n 60
+              echo "module_done $m.py"
+            done
+            echo "--- full discover (tuong tu verify) ---"
+            python3 -m unittest discover -s scripts/factory/tests -p "test_*.py" 2>&1 | grep -v -E "ResourceWarning|tracemalloc" | tail -n 150
+            echo "--- factory-operator verify --scope chunk (giong step Verify cua run #114) ---"
+            python3 scripts/factory/factory-operator.py verify --scope chunk 2>&1 | tail -n 80
+            echo "verify_exit=$?"
+            echo "--- validate --scope chunk ---"
+            python3 scripts/factory/validate.py --scope chunk 2>&1 | tail -n 40
+            echo "=== end diagnose7 ==="
+          } > "$OUT" 2>&1
+
+      - name: Commit chi file output diagnose
+        run: |
+          set -eu
+          OUT=reports/factory/diagnose-2026-09-28-iso7.txt
+          git config user.name "factory-diagnose-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -- . || true
+          git clean -fd scripts data _drafts _posts reports/factory/rows || true
+          git pull --rebase origin main
+          git add "$OUT"
+          git commit -m "factory-diagnose7: qa evidence + verify reproduction tren c431f72 (read-only, temporary)"
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            sleep 5
+          done
+          if [ "$ok" != "1" ]; then echo "push khong thanh cong sau 3 lan"; exit 1; fi
