@@ -21,14 +21,22 @@ viết lại logic), trên bare origin + clone làm việc:
 
 Không đụng production: mọi thứ trong temp dir, origin là bare repo cục bộ.
 
+CHẨN ĐOÁN QUA ANNOTATIONS: test này chạy trên runner mà logs khó tải
+theo API (cần quyền admin). Khi fail, mọi traceback + stdout/stderr
+của git được phát dưới dạng workflow annotations (::error::) — đọc
+được qua check-run annotations API công khai. KHÔNG đổi bất kỳ assertion
+hay logic kiểm thử nào; chỉ bổ sung lớp phát chi tiết.
+
 Chạy: python3 scripts/factory/tests/test_push_rebase_overlap.py
 """
+import functools
 import json
 import os
 import shutil
 import subprocess
 import sys
 import tempfile
+import traceback
 import unittest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
@@ -43,6 +51,25 @@ WF = os.path.join(ROOT, '.github', 'workflows', 'factory-operator.yml')
 C1 = {'op': 'status', 'command_id': 'c1-old'}
 C2 = {'op': 'status', 'command_id': 'c2-new', 'coordinator': 'coordinator-2'}
 CMD_REL = 'data/factory/operator-command.json'
+
+
+def _annotate(text, kind='error'):
+    """Phát chi tiết dưới dạng workflow annotation để đọc được qua
+    check-run annotations API ngay cả khi không tải được log."""
+    text = str(text).replace('\r', ' ').replace('\n', ' | ')
+    total = (len(text) + 999) // 1000
+    for i in range(0, len(text), 1000):
+        print('::%s::[diag %d/%d] %s'
+              % (kind, i // 1000 + 1, total, text[i:i + 1000]))
+
+
+def _env_probe():
+    """Chỉ thông tin môi trường git của runner (mức notice, không làm fail)."""
+    if not GIT:
+        return
+    r = subprocess.run(['git', '--version'], capture_output=True, text=True)
+    _annotate('git version: %s %s' % (r.stdout.strip(), r.stderr.strip()),
+              'notice')
 
 
 def _block(step_fragment):
@@ -62,6 +89,9 @@ def git(cwd, *args):
     r = subprocess.run(['git'] + list(args), cwd=cwd,
                        capture_output=True, text=True)
     if r.returncode != 0:
+        _annotate('git %s (cwd=%s) THẤT BẠI rc=%s STDOUT=%s STDERR=%s'
+                  % (' '.join(args), cwd, r.returncode, r.stdout[-1500:],
+                     r.stderr[-1500:]))
         raise AssertionError('git %s FAIL:\n%s%s'
                              % (' '.join(args), r.stdout, r.stderr))
     return r
@@ -203,11 +233,46 @@ class PushRebaseOverlapTest(unittest.TestCase):
         self.assertIn('FINAL_PUSHED_HEAD', r.stdout)
         self.assertEqual(len(self._origin_log('factory-operator:')), 1)
         self.assertEqual(len(self._origin_log('coordinator:')), 1)
-        # lệnh C1 đã tiêu thụ, không còn file lệnh trên origin
-        r2 = git(self.fx, 'cat-file', '-e', 'origin/main:' + CMD_REL,
-                 check=False)
+        # lệnh C1 đã tiêu thụ, không còn file lệnh trên origin.
+        # KHÔNG dùng helper git() ở đây: cat-file -e PHẢI thất bại (file
+        # đã bị xóa trên origin) — helper sẽ raise AssertionError với
+        # mọi lệnh thoát khác 0. Chạy trực tiếp subprocess và đòi hỏi
+        # returncode khác 0. (Bug cũ: git(..., check=False) — helper
+        # không có tham số check -> TypeError trên runner có git thật;
+        # sandbox không có git nên lớp skip và bug không bao giờ bị
+        # bắt khi chạy cục bộ.)
+        r2 = subprocess.run(
+            ['git', 'cat-file', '-e', 'origin/main:' + CMD_REL],
+            cwd=self.fx, capture_output=True, text=True)
         self.assertNotEqual(r2.returncode, 0)
 
 
+def _diag_wrap(fn):
+    """Phát traceback đầy đủ qua annotation khi test fail — KHÔNG đổi
+    assertion, KHÔNG nuốt lỗi (re-raise giữ nguyên semantics exit code)."""
+    @functools.wraps(fn)
+    def wrapper(self):
+        try:
+            return fn(self)
+        except Exception:
+            _annotate('TEST %s TRACEBACK: %s'
+                      % (fn.__name__, traceback.format_exc()))
+            raise
+    return wrapper
+
+
+for _attr in list(vars(PushRebaseOverlapTest)):
+    if _attr.startswith('test_'):
+        setattr(PushRebaseOverlapTest, _attr,
+                _diag_wrap(getattr(PushRebaseOverlapTest, _attr)))
+
+
 if __name__ == '__main__':
-    unittest.main(verbosity=2)
+    _env_probe()
+    suite = unittest.defaultTestLoader.loadTestsFromTestCase(
+        PushRebaseOverlapTest)
+    runner = unittest.TextTestRunner(verbosity=2)
+    result = runner.run(suite)
+    for _t, _txt in list(result.errors) + list(result.failures):
+        _annotate('KẾT QUẢ CHI TIẾT %s: %s' % (_t.id(), _txt))
+    sys.exit(0 if result.wasSuccessful() else 1)
