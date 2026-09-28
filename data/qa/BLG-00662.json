@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00662",
   "title": "Những lưu ý khi chạy xe quanh Văn Miếu - Quốc Tử Giám",
-  "scored_at": "2026-09-28T11:11:57+00:00",
+  "scored_at": "2026-09-28T11:21:09+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1051,
+  "word_count": 1053,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-van-mieu-quoc-tu-giam.md",
-  "content_sha256": "62793befaf6d415b32fc12d4ac25e7f6ffa607f4b855b52938c537350b9b4813",
+  "content_sha256": "edeed7476354bea950e22e0e4e4d4c5e6b1b98b7add13936831402023e6b3cae",
   "matrix_row_sha256": "c0b94bdcae4b5a6cdd0f2b82523e896f5376f4fb9243baa4470286da41c6c31e",
-  "result": "REPAIR"
+  "result": "PASS"
 }

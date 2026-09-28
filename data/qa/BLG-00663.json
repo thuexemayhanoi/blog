@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00663",
   "title": "Đến Hoàng thành Thăng Long bằng xe máy: gửi xe và đường đi",
-  "scored_at": "2026-09-28T11:11:57+00:00",
+  "scored_at": "2026-09-28T11:21:09+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -36,12 +36,12 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i.md",
-  "content_sha256": "0aaa040ee99048827549c63901070fe2f33a270b6a2df602cf1c0ed55ecfad5c",
+  "content_sha256": "6efa7e6e540aa84716e03c5c78e1b3a396b5ee809886c55a4eafa06133bf23ae",
   "matrix_row_sha256": "b764fcf053f1e70d8c2185893ad0ec4be2a201954cd1d5b3c83e375fe57d5095",
-  "result": "REPAIR"
+  "result": "PASS"
 }
