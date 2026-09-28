@@ -1,0 +1,6 @@
+{
+  "op": "qa",
+  "ids": "BLG-00778",
+  "command_id": "campaign10k-r5-chunk1-qa2",
+  "coordinator": "campaign-10k-round5"
+}
