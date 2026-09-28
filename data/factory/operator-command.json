@@ -1,1 +1,0 @@
-{"op":"qa","ids":"BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644","scope":"fast","note":"force re-score PASS rows with explicit ids — refresh content_sha256/matrix fingerprints for publish retry"}
