@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-mu-bao-hiem-at-chuan-va-quy-inh-oi-mu.md",
+  "source_path": "_posts/2026-09-28-mu-bao-hiem-at-chuan-va-quy-inh-oi-mu.md",
   "content_sha256": "9d80bef2130042d77c381809b898d4d53752fbfb768bf705d18a7f04eb0c8f9f",
-  "matrix_row_sha256": "40a69bfdb5d84d71f576f4ad7fe62644d20469203fc2722886b6909628e8afb7",
-  "result": "PASS"
+  "matrix_row_sha256": "9f2557fce5a3630d5ef7ccef5ee20f797c85fc5cb28e77442580c169e82ea15f",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

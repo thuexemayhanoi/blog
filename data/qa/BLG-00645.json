@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md",
+  "source_path": "_posts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md",
   "content_sha256": "9592a0102b524470f58847ccc02ed073b3ebcb6fc097efdc7c991545dbe77480",
-  "matrix_row_sha256": "9423913ac5e3f25507c83fb3442821076add85a4735c2d00692192cff57a92ea",
-  "result": "PASS"
+  "matrix_row_sha256": "36aba49d4cd693cb286d81dba61f4bd9e6d5a20bac8fe16e9d985dd4cdc80fc2",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra.md",
+  "source_path": "_posts/2026-09-28-giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra.md",
   "content_sha256": "2b6e57f69f5f49a559ec5108988a6333ea0cbe330e54062302c7e803f457c7fd",
-  "matrix_row_sha256": "e135f5f1663da5ac553115dfe7df04a88583f2207e4df1ff242f9af281a2d7d9",
-  "result": "PASS"
+  "matrix_row_sha256": "24f0bc15c26a8d98360274f16684715c6e34a4ef6ed19914ab6ede701b5a689d",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

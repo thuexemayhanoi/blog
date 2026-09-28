@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ca-vat-xe-va-ang-ky-xe-khac-nhau-the-nao.md",
+  "source_path": "_posts/2026-09-28-ca-vat-xe-va-ang-ky-xe-khac-nhau-the-nao.md",
   "content_sha256": "64587eba8f28c925dae0069861f13271c973b5fed357b9087f18c634dd905417",
-  "matrix_row_sha256": "fac9585a19599fcc6c3aa38a2323f4ff693d34adf754aef738717fb091d73973",
-  "result": "PASS"
+  "matrix_row_sha256": "283770b85ea7755b34b6435a54353c8148f89f368bdeed80ea4ef8d9587c6315",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

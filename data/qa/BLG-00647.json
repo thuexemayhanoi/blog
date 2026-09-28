@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-giay-to-bat-buoc-mang-theo-khi-lai-xe-may.md",
+  "source_path": "_posts/2026-09-28-giay-to-bat-buoc-mang-theo-khi-lai-xe-may.md",
   "content_sha256": "0c408c38d59c374f58afc2e17791f1ad855c9038e143497c1970926f1769fea7",
-  "matrix_row_sha256": "0ffe3ea48e70aedcfe92decd50f4912e22539c51d2cb6f7c0355060da7e1666d",
-  "result": "PASS"
+  "matrix_row_sha256": "2785c3f35a537a2e1ef3ee14b5d2af9dc03b5a8358c7d740cc2c1ae4955fc010",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-tem-kiem-inh-xe-may-con-hieu-luc-ra-sao.md",
+  "source_path": "_posts/2026-09-28-tem-kiem-inh-xe-may-con-hieu-luc-ra-sao.md",
   "content_sha256": "6b31c12898b7061afb4d851cf61e4e603263d943dde7a05ddc24a7876bf299a5",
-  "matrix_row_sha256": "cb3a0d313b12e8f5bb53ce647b537e90cbbc77e6e13c0256d9c8f8db9add25d4",
-  "result": "PASS"
+  "matrix_row_sha256": "bac51b5af5eb37c01f7315cd01e3ee25b47c921792cdc18d31a5d5f6917a18dc",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

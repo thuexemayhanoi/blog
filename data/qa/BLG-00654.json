@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-xe-may-co-uoc-vao-cao-toc-khong.md",
+  "source_path": "_posts/2026-09-28-xe-may-co-uoc-vao-cao-toc-khong.md",
   "content_sha256": "9d9e9363b7959deb60b03f5ac15e5f87b8e675e27fe82b65b07c23e4779b7131",
-  "matrix_row_sha256": "53e33d13384639f409bb8e2f9cd95e46e7944d7e09e5be5eb541a131183da5fe",
-  "result": "PASS"
+  "matrix_row_sha256": "fef548a58dcde00dde20a8f437089056e7f1a4b0e1546f432fdba0e39e00dfb8",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:27+00:00"
 }

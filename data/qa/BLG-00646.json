@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bien-bao-khu-vuc-pho-i-bo.md",
+  "source_path": "_posts/2026-09-28-bien-bao-khu-vuc-pho-i-bo.md",
   "content_sha256": "e7f2786c9945d1e35a67ecf86bef6f528ebbe747790daf21407c403a5b4ce5e3",
-  "matrix_row_sha256": "468f981d09889c83d3ee725fe95749d0918d8d3769c781906417775e719a8646",
-  "result": "PASS"
+  "matrix_row_sha256": "db1cc149fda67f58a76ebebadc07fc8d15c778fdd731285ea6e67d00599c410c",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-quy-inh-moi-ve-xe-may-can-biet.md",
+  "source_path": "_posts/2026-09-28-quy-inh-moi-ve-xe-may-can-biet.md",
   "content_sha256": "c83b52bc0d15a721cf2834be23bab7bc36ff5f18dba0f912625ade3b40c7934e",
-  "matrix_row_sha256": "7620348e16776866c1232714cae5d32ef9591267f386ce466ca42e03a2558693",
-  "result": "PASS"
+  "matrix_row_sha256": "8433a1cb78fb2cd6a293dc192b8fc8818c0280c995c4b9fb7f912ea716f58c66",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-thieu-giay-to-xe-may-bi-xu-ly-ra-sao.md",
+  "source_path": "_posts/2026-09-28-thieu-giay-to-xe-may-bi-xu-ly-ra-sao.md",
   "content_sha256": "1976fe85cf2ce8d4099a26e05cc8c1d5489414bf087c267b742dcf454e819d79",
-  "matrix_row_sha256": "a7d9d6f54f6753bb31760617f2991ab9418a4b62d7737a24b0b638c7a431b804",
-  "result": "PASS"
+  "matrix_row_sha256": "c14c427db22be1167252ff904853834d9fe7b24a849cfdd16f3008484ab7916b",
+  "result": "PASS",
+  "published_at": "2026-09-28T09:05:26+00:00"
 }
