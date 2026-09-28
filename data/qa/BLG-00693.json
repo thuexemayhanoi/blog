@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00693",
   "title": "Đến Khu Hồ Gươm và Tháp Rùa bằng xe máy: gửi xe và đường đi",
-  "scored_at": "2026-09-28T12:30:07+00:00",
+  "scored_at": "2026-09-28T12:34:07+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,11 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1068,
+  "word_count": 1062,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -41,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-28-en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i.md",
-  "content_sha256": "f07c3e9bf5f6b3c28c1211a8aaa8e450ed315b5ebfc5f4daef65c1e29468d3a3",
+  "content_sha256": "6a59127c84b35b73eff78ff64a05ffd6064679746d76552ddb4a551393fdf6ab",
   "matrix_row_sha256": "964036842b46c7598685e5f68d6582b35257031d896ab3ad7acd7596e9a3ec0d",
-  "result": "REPAIR"
+  "result": "PASS"
 }

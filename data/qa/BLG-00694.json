@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00694",
   "title": "Kinh nghiệm ghé thăm Khu Hồ Gươm và Tháp Rùa nửa ngày",
-  "scored_at": "2026-09-28T12:30:07+00:00",
+  "scored_at": "2026-09-28T12:34:07+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,12 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1031,
+  "word_count": 1026,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/",
-    "/blog/du-lich/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -42,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-khu-ho-guom-va-thap-rua-nua-ngay.md",
-  "content_sha256": "e0a22e01a874315081b529da09b5207becb37a5f7b8866a8d45e524fc887e309",
+  "content_sha256": "c67c1ffbfa51c354543ec36cc4da44e120af702895bf83bc273b84978c8a6ebf",
   "matrix_row_sha256": "d0ba750d0c79753df19ae300823441fb7af1019426444cba0d77b75c8fbae557",
-  "result": "REPAIR"
+  "result": "PASS"
 }

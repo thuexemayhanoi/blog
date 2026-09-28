@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00690",
   "title": "Đến Làng hoa Nhật Tân bằng xe máy: gửi xe và đường đi",
-  "scored_at": "2026-09-28T12:30:07+00:00",
+  "scored_at": "2026-09-28T12:34:07+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,11 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1048,
+  "word_count": 1054,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -41,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-28-en-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-uong-i.md",
-  "content_sha256": "46c5192541045458bb1694ef18195ecbd51bf2ff95432a7cdc2c09333d8f76ae",
+  "content_sha256": "f6e840decd09b1fb3030dd618fdfb53217a53e7ca90e0cbae2809990a09c828b",
   "matrix_row_sha256": "d539f6d861590d434aae9d0b11cc8bf39d71373631d50a83d4d8a6aa0a813df5",
-  "result": "REPAIR"
+  "result": "PASS"
 }

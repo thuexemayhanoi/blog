@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00687",
   "title": "Đến Chùa Trấn Quốc bằng xe máy: gửi xe và đường đi",
-  "scored_at": "2026-09-28T12:30:07+00:00",
+  "scored_at": "2026-09-28T12:34:07+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,11 +29,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1059,
+  "word_count": 1054,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/du-lich/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
@@ -41,9 +39,9 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-28-en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i.md",
-  "content_sha256": "02420a83c4e5e623103014b7432b04b332760ead750e522aaf827a44330d584c",
+  "content_sha256": "8b58a1011cb19d16ae69020e742c0cdcdf6bd16af5f39bf73823f3f63638bdec",
   "matrix_row_sha256": "e78e2b075f088a4dab4e3bc2a7dbf2d9407e5a01b4a6080526eb87d5eddced70",
-  "result": "REPAIR"
+  "result": "PASS"
 }

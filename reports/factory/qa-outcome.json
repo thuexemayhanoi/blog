@@ -1,16 +1,16 @@
 {
-  "run_at": "2026-09-28T12:30:07+00:00",
+  "run_at": "2026-09-28T12:34:07+00:00",
   "op": "qa",
   "outcomes": {
     "BLG-00685": "PASS",
     "BLG-00686": "PASS",
-    "BLG-00687": "REPAIR",
-    "BLG-00688": "REPAIR",
-    "BLG-00689": "REPAIR",
-    "BLG-00690": "REPAIR",
-    "BLG-00691": "REPAIR",
+    "BLG-00687": "PASS",
+    "BLG-00688": "PASS",
+    "BLG-00689": "PASS",
+    "BLG-00690": "PASS",
+    "BLG-00691": "PASS",
     "BLG-00692": "PASS",
-    "BLG-00693": "REPAIR",
-    "BLG-00694": "REPAIR"
+    "BLG-00693": "PASS",
+    "BLG-00694": "PASS"
   }
 }
