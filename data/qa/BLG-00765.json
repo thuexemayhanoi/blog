@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00765",
   "title": "Chạy xe từ Hà Nội đến Khu du lịch Đồng Mô cuối tuần",
-  "scored_at": "2026-09-28T22:58:09+00:00",
+  "scored_at": "2026-09-28T23:02:30+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1028,
+  "word_count": 1031,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-khu-du-lich-ong-mo-cuoi-tuan.md",
-  "content_sha256": "6b50e901d254307e94a2c3ba8be3e8bae43197aeb787c39de597a60ee6525d61",
+  "content_sha256": "5ce60fdf9df3831d4af7d4b9cac3d032917c504a79deefb625dd506e514ca6a3",
   "matrix_row_sha256": "db932e38efe3ddec8b1cf459da4e6da846b46a1b35fc4434158a18cdef9fd01b",
-  "result": "REPAIR"
+  "result": "PASS"
 }

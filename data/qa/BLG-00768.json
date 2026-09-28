@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00768",
   "title": "Điểm nghỉ chân trên đường đến Đảo Cốm và Bãi trước sông Đáy",
-  "scored_at": "2026-09-28T22:58:09+00:00",
+  "scored_at": "2026-09-28T23:02:30+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1038,
+  "word_count": 1046,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-iem-nghi-chan-tren-uong-en-ao-com-va-bai-truoc-song-ay.md",
-  "content_sha256": "eff97d768d763b218862fbecd90c0cfab0d65f15ded6bf2acc49ba823f4b0284",
+  "content_sha256": "570dd96e5c866074fc3afa646a971f436d1dd967407608d36b955cfabe0b89d1",
   "matrix_row_sha256": "9162d30094b5f25a59cf5934958fbfa15cfbf839a8581a1e452525c0e3b55a0c",
-  "result": "REPAIR"
+  "result": "PASS"
 }
