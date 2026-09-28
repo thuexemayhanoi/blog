@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00739",
   "title": "Từ Long Biên chạy ra khu ven sông Hồng",
-  "scored_at": "2026-09-28T20:56:36+00:00",
+  "scored_at": "2026-09-28T21:00:03+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1052,
+  "word_count": 1056,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-tu-long-bien-chay-ra-khu-ven-song-hong.md",
-  "content_sha256": "aade8b811a7d0cc955b027ec8e8d595cd7502b2d2b83f26c4a658db6a9f0c065",
+  "content_sha256": "afad13907b7b4017eaee1c5e7f90514c9465869f4d0cb6519cb5f251ecb92c89",
   "matrix_row_sha256": "781b9a2f218d362c3c034513f3bf6068ea69fce51951abe0892801cef9f03ab3",
-  "result": "REPAIR"
+  "result": "PASS"
 }

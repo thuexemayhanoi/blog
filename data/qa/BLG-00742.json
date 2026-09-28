@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00742",
   "title": "Cầu Long Biên và đường ven sông: trải nghiệm đi xe máy",
-  "scored_at": "2026-09-28T20:56:36+00:00",
+  "scored_at": "2026-09-28T21:00:03+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1074,
+  "word_count": 1076,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may.md",
-  "content_sha256": "e096fd878eaae6c1d1a3dccd757aab05bf96ee4648bc9a7122cebf5dbd490dc8",
+  "content_sha256": "b7d7be5afee5917ffea48ae698f207f0729f81b27259008de915b368fd72c9d4",
   "matrix_row_sha256": "426fa176a9eccdd6016b8409c7d96d3ab72d5898a95a10f24902a2e22d7e22b4",
-  "result": "REPAIR"
+  "result": "PASS"
 }
