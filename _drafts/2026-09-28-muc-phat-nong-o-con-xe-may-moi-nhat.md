@@ -19,11 +19,11 @@ Mức phạt nồng độ cồn xe máy mới nhất hiện được tính theo 
 
 Theo khoản 6 Điều 7 Nghị định 168/2024/NĐ-CP, người điều khiển xe máy vi phạm nồng độ cồn bị xử phạt theo ba mức:
 
-- Mức 1: nồng độ cồn chưa vượt quá 50 miligam trong 100 mililít máu, hoặc chưa vượt quá 0,25 miligam trong một lít khí thở. Phạt tiền từ 2.000.000 đồng đến 3.000.000 đồng, kèm trừ điểm giấy phép lái xe theo quy định hiện hành.
-- Mức 2: nồng độ cồn vượt quá 50 miligam nhưng chưa vượt quá 80 miligam trong 100 mililít máu, hoặc vượt quá 0,25 miligam nhưng chưa vượt quá 0,4 miligam trong một lít khí thở. Phạt tiền từ 6.000.000 đồng đến 8.000.000 đồng.
-- Mức 3: nồng độ cồn vượt quá 80 miligam trong 100 mililít máu, hoặc vượt quá 0,4 miligam trong một lít khí thở. Phạt tiền từ 8.000.000 đồng đến 10.000.000 đồng và tước giấy phép lái xe từ 22 tháng đến 24 tháng.
+- Mức 1: nồng độ cồn chưa vượt quá 50 miligam trong 100 mililít máu, hoặc chưa vượt quá 0,25 miligam trong một lít khí thở. Phạt tiền từ 2 triệu đồng đến 3 triệu đồng, kèm trừ điểm giấy phép lái xe theo quy định hiện hành.
+- Mức 2: nồng độ cồn vượt quá 50 miligam nhưng chưa vượt quá 80 miligam trong 100 mililít máu, hoặc vượt quá 0,25 miligam nhưng chưa vượt quá 0,4 miligam trong một lít khí thở. Phạt tiền từ 6 triệu đồng đến 8 triệu đồng.
+- Mức 3: nồng độ cồn vượt quá 80 miligam trong 100 mililít máu, hoặc vượt quá 0,4 miligam trong một lít khí thở. Phạt tiền từ 8 triệu đồng đến 10 triệu đồng và tước giấy phép lái xe từ 22 tháng đến 24 tháng.
 
-Khung phạt này được kế thừa và tổ chức lại từ Nghị định 100/2019/NĐ-CP trước đây, kèm cơ chế trừ điểm giấy phép lái xe theo chế độ mới; điểm khác biệt quan trọng nhất nằm ở nền tảng: từ 01/01/2025, mọi mức cồn đều bị cấm ở cấp luật, nên không còn tranh luận về ngưỡng cho phép. Cơ sở của quy định cấm là Luật Trật tự an toàn giao thông đường bộ 2024, nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, đã được giới thiệu trong bài [quy định nồng độ cồn khi lái xe hiện hành](/blog/an-toan-phap-ly/2026/09/28/quy-inh-nong-o-con-khi-lai-xe-hien-hanh/). Mức phạt có thể thay đổi theo văn bản mới, nên hãy kiểm tra nghị định hiện hành tại thời điểm tra cứu.
+Khung phạt này được kế thừa và tổ chức lại từ Nghị định 100/2019/NĐ-CP trước đây, kèm cơ chế trừ điểm giấy phép lái xe theo chế độ mới; điểm khác biệt quan trọng nhất nằm ở nền tảng: từ 01/01/2025, mọi mức cồn đều bị cấm ở cấp luật, nên không còn tranh luận về ngưỡng cho phép. Cơ sở của quy định cấm là Luật Trật tự an toàn giao thông đường bộ 2024, nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, đã được giới thiệu trong bài [quy định nồng độ cồn khi lái xe hiện hành](/blog/an-toan-phap-ly/). Mức phạt có thể thay đổi theo văn bản mới, nên hãy kiểm tra nghị định hiện hành tại thời điểm tra cứu.
 
 ## Điểm dễ nhầm
 
@@ -37,7 +37,7 @@ Ba nhầm lẫn thường gặp khi đọc khung phạt:
 
 Ngoài phạt tiền, người vi phạm thuộc mức 1 và mức 2 bị trừ điểm giấy phép lái xe theo chế độ điểm hiện hành, còn ở mức 3 bị tước giấy phép lái xe 22 đến 24 tháng. Với người đi xe phục vụ công việc hoặc sinh hoạt hằng ngày ở Hà Nội, việc mất giấy phép lái theo tháng là hệ quả nặng hơn nhiều khoản tiền phạt, vì nó đảo lộn toàn bộ phương án di chuyển trong thời gian bị tước.
 
-Nếu đang đi xe thuê khi bị xử lý, bạn cần thông báo cho cửa hàng theo đúng trình tự trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/). Còn nếu định uống ở tiệc, cách an toàn nhất vẫn là không tự lái về sau đó, như kinh nghiệm đã chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh%20nghi%E1%BB%87m/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
+Nếu đang đi xe thuê khi bị xử lý, bạn cần thông báo cho cửa hàng theo đúng trình tự trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Còn nếu định uống ở tiệc, cách an toàn nhất vẫn là không tự lái về sau đó, như kinh nghiệm đã chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
 
 ## Điểm chung của các kỳ quy định
 
@@ -56,3 +56,9 @@ Nhóm chủ đề này được tổng hợp trong trang [nồng độ cồn](/b
 ## Kết luận về mức phạt nồng độ cồn xe máy
 
 Khung phạt hiện hành theo Nghị định 168/2024/NĐ-CP gồm ba mức từ 2 đến 10 triệu đồng, kèm trừ điểm hoặc tước giấy phép lái xe 22 đến 24 tháng ở mức cao nhất. Không uống trước khi lái là cách duy nhất chắc chắn. Khi cần thuê xe máy ở Hà Nội cho lịch trình rõ ràng, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, giờ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

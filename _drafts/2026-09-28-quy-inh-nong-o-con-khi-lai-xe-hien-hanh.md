@@ -23,7 +23,7 @@ Nền tảng của quy định hiện hành là Luật Trật tự an toàn giao
 
 ## Cách đọc các mức vi phạm
 
-Cùng có hiệu lực từ 01/01/2025, Nghị định 168/2024/NĐ-CP quy định mức xử phạt theo ba mức nồng độ cồn đối với người điều khiển xe máy, tính theo lượng cồn trong máu hoặc trong một lít khí thở. Mức xử phạt tiền tăng dần theo mức nồng độ, và ở mức cao nhất còn kèm hình thức tước giấy phép lái xe. Các con số cụ thể từng mức đã được cập nhật trong bài [mức phạt nồng độ cồn xe máy mới nhất](/blog/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/); điểm cần ghi nhớ ở đây là cấu trúc ba mức và việc mọi mức vi phạm đều bị xử phạt, không có mức nào được bỏ qua.
+Cùng có hiệu lực từ 01/01/2025, Nghị định 168/2024/NĐ-CP quy định mức xử phạt theo ba mức nồng độ cồn đối với người điều khiển xe máy, tính theo lượng cồn trong máu hoặc trong một lít khí thở. Mức xử phạt tiền tăng dần theo mức nồng độ, và ở mức cao nhất còn kèm hình thức tước giấy phép lái xe. Các con số cụ thể từng mức đã được cập nhật trong bài [mức phạt nồng độ cồn xe máy mới nhất](/blog/an-toan-phap-ly/noi-do-cong/); điểm cần ghi nhớ ở đây là cấu trúc ba mức và việc mọi mức vi phạm đều bị xử phạt, không có mức nào được bỏ qua.
 
 Ngoài xử phạt hành chính, vi phạm nồng độ cồn khi gây hậu quả nghiêm trọng còn có thể dẫn đến trách nhiệm hình sự theo quy định hiện hành. Mức phạt và quy định có thể thay đổi theo văn bản pháp luật mới, nên bạn nên đối chiếu văn bản gốc tại thời điểm cần.
 
@@ -33,7 +33,7 @@ Người điều khiển phương tiện cơ giới khi tham gia giao thông thu
 
 Cần nói rõ một hiểu lầm phổ biến: quy định cấm không có ngoại lệ cho quãng đường ngắn. Nhiều người cho rằng chỉ đi vài phố, đưa bạn về rồi quay lại thì không sao, nhưng thiết bị đo không hỏi bạn định đi bao xa, và kết quả dương tính được lập biên bản bất kể cự ly. Tương tự, việc đồng ý của chủ xe cho bạn đi xe thuê cũng không tạo ra ngoại lệ nào, vì trách nhiệm vi phạm hình thành trên người điều khiển tại thời điểm kiểm tra.
 
-Nếu bạn định ăn uống có dùng đồ có cồn, cách xử lý an toàn duy nhất theo quy định hiện hành là không tự lái xe về sau đó: gọi xe khác, nhờ người chưa uống chở, hoặc để xe lại và lấy vào hôm sau sau khi chắc chắn cơ thể hết cồn. Kinh nghiệm xử lý tình huống sau bữa ăn đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh%20nghi%E1%BB%87m/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
+Nếu bạn định ăn uống có dùng đồ có cồn, cách xử lý an toàn duy nhất theo quy định hiện hành là không tự lái xe về sau đó: gọi xe khác, nhờ người chưa uống chở, hoặc để xe lại và lấy vào hôm sau sau khi chắc chắn cơ thể hết cồn. Kinh nghiệm xử lý tình huống sau bữa ăn đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
 
 ## Người thuê xe cần lưu ý
 
@@ -43,8 +43,14 @@ Ba việc thực tế giúp khách thuê tránh rắc rối với quy định n�
 - Uống tối muộn thì sáng hôm sau vẫn cẩn trọng: cơ thể mỗi người xử lý cồn khác nhau, không có công thức chính xác cho thời gian hết cồn, nên nếu còn cảm giác ảnh hưởng thì không cầm lái.
 - Tính trước phương án về: trước buổi tiệc, chốt trước cách về nhà bằng phương tiện khác hoặc người chưa uống.
 
-Trường hợp không may bị xử lý vi phạm nồng độ cồn khi đang đi xe thuê, cách trình bày với cửa hàng và các bước tiếp theo nằm trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/). Chủ đề được tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
+Trường hợp không may bị xử lý vi phạm nồng độ cồn khi đang đi xe thuê, cách trình bày với cửa hàng và các bước tiếp theo nằm trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Chủ đề được tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
 
 ## Kết luận về quy định nồng độ cồn
 
 Quy định hiện hành cấm điều khiển xe máy khi trong máu hoặc hơi thở có nồng độ cồn theo Luật Trật tự an toàn giao thông đường bộ 2024, kèm ba mức xử phạt theo Nghị định 168/2024/NĐ-CP. Cách an toàn duy nhất là không lái sau khi dùng đồ có cồn. Khi cần thuê xe máy ở Hà Nội cho các kế hoạch đi lại rõ ràng, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, giờ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

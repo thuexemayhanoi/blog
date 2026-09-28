@@ -15,11 +15,11 @@ article_id: BLG-00631
 
 Uống bia hôm sau còn cồn không là câu hỏi nghiêm túc hơn nhiều người nghĩ: từ 01/01/2025, quy định hiện hành cấm điều khiển xe máy khi trong máu hoặc hơi thở có nồng độ cồn, và đã có không ít người ngủ dậy vẫn đo dương tính sau đêm ăn uống. Bài này giải thích vì sao chuyện đó xảy ra và cách xử lý an toàn.
 
-## Vì sao hôm sau vẫn còn cồn
+## Vì sao uống bia hôm sau còn cồn không
 
 Cồn trong đồ uống không biến mất sau một giấc ngủ, mà được cơ thể xử lý dần theo thời gian. Tốc độ này phụ thuộc nhiều yếu tố: lượng đồ uống dùng vào buổi tối, loại đồ uống, thể trọng và thể trạng từng người, thức ăn ăn kèm, và giờ dừng uống. Vì không có công thức chính xác áp cho tất cả mọi người, một người hết cồn sau vài tiếng, người khác sang trưa hôm sau vẫn còn nồng độ trong máu. Câu trả lời ngắn gọn cho câu hỏi trong tiêu đề: có khả năng còn, và bạn không thể tự đo bằng cảm giác.
 
-Điểm nguy hiểm nằm ở chỗ cơ thể sau giấc ngủ vẫn có thể mang nồng độ cồn đủ để thiết bị đo ghi nhận, trong khi người ta chủ quan cho rằng đã tỉnh hoàn toàn. Quy định hiện hành theo Luật Trật tự an toàn giao thông đường bộ 2024 không cần bạn cảm thấy say: chỉ cần nồng độ cồn trong máu hoặc khí thở vượt ngưỡng đo được, bạn đã vi phạm và bị xử phạt theo ba mức của Nghị định 168/2024/NĐ-CP, với mức phạt tiền và tước giấy phép lái xe chi tiết trong bài [mức phạt nồng độ cồn xe máy mới nhất](/blog/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/).
+Điểm nguy hiểm nằm ở chỗ cơ thể sau giấc ngủ vẫn có thể mang nồng độ cồn đủ để thiết bị đo ghi nhận, trong khi người ta chủ quan cho rằng đã tỉnh hoàn toàn. Quy định hiện hành theo Luật Trật tự an toàn giao thông đường bộ 2024 không cần bạn cảm thấy say: chỉ cần nồng độ cồn trong máu hoặc khí thở vượt ngưỡng đo được, bạn đã vi phạm và bị xử phạt theo ba mức của Nghị định 168/2024/NĐ-CP, với mức phạt tiền và tước giấy phép lái xe chi tiết trong bài [mức phạt nồng độ cồn xe máy mới nhất](/blog/an-toan-phap-ly/noi-do-cong/).
 
 ## Những đêm uống dễ dẫn tới sáng mai còn cồn
 
@@ -37,10 +37,10 @@ Ngược lại, một ly bia nhẹ trong bữa ăn sớm và kết thúc trướ
 Trước khi cầm lại tay lái sau một đêm uống, ba lựa chọn theo thứ tự an toàn:
 
 - Không lái nếu còn cảm giác bất thường: đầu nặng, chưa tỉnh táo hoàn toàn, thì coi như chưa hết cồn và đi bằng phương tiện khác.
-- Cẩn trọng với xe máy thuê: nếu bạn thuê xe qua đêm, hãy báo cửa hàng để chốt phương án giữ xe thêm hoặc nhận lại vào buổi chiều, thay vì mạo hiểm đi lúc sáng sớm; cách trao đổi với cửa hàng được nêu trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/).
+- Cẩn trọng với xe máy thuê: nếu bạn thuê xe qua đêm, hãy báo cửa hàng để chốt phương án giữ xe thêm hoặc nhận lại vào buổi chiều, thay vì mạo hiểm đi lúc sáng sớm; cách trao đổi với cửa hàng được nêu trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/).
 - Kéo dài khoảng cách thời gian: mỗi giờ thêm nữa giữa lúc dừng uống và lúc lên xe đều giảm rủi ro; không có mức rút gọn an toàn cho tất cả mọi người, nên hãy giữ biên độ rộng.
 
-Kinh nghiệm thực tế khi dự tiệc ở Hà Nội đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh%20nghi%E1%BB%87m/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/), từ chốt phương án về đến giữ xe qua đêm.
+Kinh nghiệm thực tế khi dự tiệc ở Hà Nội đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/), từ chốt phương án về đến giữ xe qua đêm.
 
 ## Quy định liên quan cần nhớ
 
@@ -51,3 +51,9 @@ Một thói quen đáng tập là tính lịch của cả buổi tối trước 
 ## Kết luận về hôm sau còn cồn
 
 Sau đêm ăn uống, hôm sau cơ thể vẫn có thể còn nồng độ cồn đủ bị phát hiện, vì tốc độ xử lý cồn khác nhau ở mỗi người và không đoán được bằng cảm giác. An toàn nhất là không lái khi còn nghi ngờ và dành thời gian biên độ rộng. Cần thuê xe máy ở Hà Nội với lịch trình linh hoạt, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, giờ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

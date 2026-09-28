@@ -30,13 +30,13 @@ Trước khi xuống tiền, bốn dấu hiệu nên kiểm tra:
 - Lớp lót trong liền lạc, không xô lệch; vỏ mũ không nứt, không biến dạng, không có dấu hiệu đã từng chịu va đập mạnh.
 - Kích cỡ vừa đầu người đội: mũ rộng bị xê dịch che mắt khi đi, mũ chật gây đau sau chặng dài, cả hai đều làm giảm hiệu quả bảo vệ.
 
-Mũ đã qua tai nạn hoặc rơi từ độ cao lớn nên thay mới dù nhìn còn nguyên, vì lớp hấp thụ xung lực bên trong có thể đã mất khả năng làm việc. Kinh nghiệm chọn mũ cho người ngồi sau và việc mang mũ riêng khi đi xe thuê đã được chia sẻ trong bài [mũ bảo hiểm của riêng bạn khi đi xe thuê](/blog/kinh%20nghi%E1%BB%87m/2026/09/20/mu-bao-hiem-rieng-khi-di-xe-thue/).
+Mũ đã qua tai nạn hoặc rơi từ độ cao lớn nên thay mới dù nhìn còn nguyên, vì lớp hấp thụ xung lực bên trong có thể đã mất khả năng làm việc. Kinh nghiệm chọn mũ cho người ngồi sau và việc mang mũ riêng khi đi xe thuê đã được chia sẻ trong bài [mũ bảo hiểm của riêng bạn khi đi xe thuê](/blog/kinh nghiệm/2026/09/20/mu-bao-hiem-rieng-khi-di-xe-thue/).
 
 ## Hệ quả pháp lý khi đội mũ không đúng
 
-Nghị định 168/2024/NĐ-CP, có hiệu lực từ 01/01/2025, xử phạt nghiêm hành vi liên quan tới mũ bảo hiểm: người điều khiển xe máy không đội mũ bảo hiểm hoặc đội mũ không cài quai đúng quy cách, và người được chở trên xe không đội mũ hoặc đội mũ không cài quai, đều bị phạt tiền từ 400.000 đồng đến 600.000 đồng theo điểm h và điểm i khoản 2 Điều 7 của nghị định. Việc đội mũ không đạt quy chuẩn kỹ thuật quốc gia hiện hành cũng thuộc diện bị xử lý theo quy định hiện hành. Mức phạt và quy chuẩn có thể thay đổi theo văn bản mới, nên đối chiếu bản gốc khi cần.
+Nghị định 168/2024/NĐ-CP, có hiệu lực từ 01/01/2025, xử phạt nghiêm hành vi liên quan tới mũ bảo hiểm: người điều khiển xe máy không đội mũ bảo hiểm hoặc đội mũ không cài quai đúng quy cách, và người được chở trên xe không đội mũ hoặc đội mũ không cài quai, đều bị phạt tiền từ 400 nghìn đồng đến 600 nghìn đồng theo điểm h và điểm i khoản 2 Điều 7 của nghị định. Việc đội mũ không đạt quy chuẩn kỹ thuật quốc gia hiện hành cũng thuộc diện bị xử lý theo quy định hiện hành. Mức phạt và quy chuẩn có thể thay đổi theo văn bản mới, nên đối chiếu bản gốc khi cần.
 
-Con số 400.000 đến 600.000 đồng lớn hơn nhiều giá một chiếc mũ đạt chuẩn thông thường, chưa kể chấn thương đầu khi không có mũ đạt chuẩn có thể gây hậu quả không đo được bằng tiền. Cách đội đúng: đội thẳng mũ che trán, kéo quai qua tai, cài khóa và chỉnh dây siết vừa khít, đủ lắc mạnh đầu mà mũ không xê dịch.
+Con số 400 nghìn đến 600 nghìn đồng lớn hơn nhiều giá một chiếc mũ đạt chuẩn thông thường, chưa kể chấn thương đầu khi không có mũ đạt chuẩn có thể gây hậu quả không đo được bằng tiền. Cách đội đúng: đội thẳng mũ che trán, kéo quai qua tai, cài khóa và chỉnh dây siết vừa khít, đủ lắc mạnh đầu mà mũ không xê dịch.
 
 ## Người thuê xe nên làm gì
 
@@ -51,4 +51,10 @@ Các kỹ năng cơ bản khi vận hành xe máy an toàn được tổng hợp
 
 ## Kết luận về mũ bảo hiểm đạt chuẩn
 
-Mũ bảo hiểm hợp lệ cho người đi xe máy tại Việt Nam phải đạt quy chuẩn QCVN 2:2021/BKHCN, ban hành kèm Thông tư 04/2021/TT-BKHCN; không đội mũ hoặc đội không cài quai bị phạt từ 400.000 đến 600.000 đồng theo Nghị định 168/2024/NĐ-CP. Kiểm tra nhãn, quai và độ vừa trước mỗi chuyến đi. Cần thuê xe máy ở Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, giờ 09:00 đến 21:00, điện thoại 0942 467 674.
+Mũ bảo hiểm hợp lệ cho người đi xe máy tại Việt Nam phải đạt quy chuẩn QCVN 2:2021/BKHCN, ban hành kèm Thông tư 04/2021/TT-BKHCN; không đội mũ hoặc đội không cài quai bị phạt từ 400 nghìn đến 600 nghìn đồng theo Nghị định 168/2024/NĐ-CP. Kiểm tra nhãn, quai và độ vừa trước mỗi chuyến đi. Cần thuê xe máy ở Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, giờ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

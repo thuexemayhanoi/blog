@@ -19,7 +19,7 @@ Bảo hiểm xe máy khi thuê là mối quan tâm thực tế của khách đi 
 
 Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới được quy định tại Nghị định 67/2023/NĐ-CP, có hiệu lực từ ngày 06/09/2023. Loại bảo hiểm này chi trả cho thiệt hại mà xe gây ra cho bên thứ ba trong thời hạn hợp đồng, với giới hạn trách nhiệm đối với thiệt hại về sức khỏe, tính mạng của mỗi người trong một vụ tai nạn là 150 triệu đồng theo nghị định. Nó không chi trả cho hư hỏng của chính chiếc xe hay thương tích của người lái.
 
-Bản chất của loại bảo hiểm này, cách nó vận hành khi có tai nạn và giới hạn chi trả chi tiết đã được phân tích trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/2026/09/28/bao-hiem-trach-nhiem-dan-su-xe-may-la-gi/). Trong phạm vi bài này, trọng tâm là góc nhìn của người thuê.
+Bản chất của loại bảo hiểm này, cách nó vận hành khi có tai nạn và giới hạn chi trả chi tiết đã được phân tích trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/). Trong phạm vi bài này, trọng tâm là góc nhìn của người thuê.
 
 ## Ba điều khách thuê kiểm tra khi nhận xe
 
@@ -38,7 +38,7 @@ Nguyên tắc chung theo quy định hiện hành: vi phạm giao thông của a
 - Với bên thứ ba bị hại: bảo hiểm trách nhiệm dân sự của chủ xe chi trả trong giới hạn; người thuê là người trực tiếp gây tai nạn thì gánh phần vượt giới hạn theo quy định pháp luật.
 - Với cửa hàng cho thuê: hư hỏng của xe trong kỳ thuê được xử lý theo hợp đồng thuê giữa hai bên, tùy thỏa thuận về trách nhiệm hư hỏng ghi khi nhận xe.
 
-Chính sách cụ thể của từng cửa hàng về phần chi phí khách phải chịu khi làm hỏng xe cần xác nhận trực tiếp với nơi thuê, vì đây là thỏa thuận hợp đồng, không có mức chung áp cho mọi cửa hàng. Trường hợp tai nạn có người bị thương, trình tự xử lý tại hiện trường giữ vai trò quyết định, bạn có thể xem chi tiết trong bài [tai nạn xảy ra với xe thuê: bảo hiểm chi trả phần nào](/blog/an-toan-phap-ly/2026/09/28/tai-nan-xay-ra-voi-xe-thue-bao-hiem-chi-tra-phan-nao/).
+Chính sách cụ thể của từng cửa hàng về phần chi phí khách phải chịu khi làm hỏng xe cần xác nhận trực tiếp với nơi thuê, vì đây là thỏa thuận hợp đồng, không có mức chung áp cho mọi cửa hàng. Trường hợp tai nạn có người bị thương, trình tự xử lý tại hiện trường giữ vai trò quyết định, bạn có thể xem chi tiết trong bài [tai nạn xảy ra với xe thuê: bảo hiểm chi trả phần nào](/blog/thue-xe/su-co/).
 
 ## Ba câu nên hỏi cửa hàng
 
@@ -53,3 +53,9 @@ Ba câu này mất chưa đến hai phút nhưng giúp bạn biết trước quy
 ## Kết luận về bảo hiểm xe máy khi thuê
 
 Khách thuê xe máy không phải mua bảo hiểm mới, nhưng phải kiểm tra tem bảo hiểm còn hiệu lực, hỏi rõ quy trình hỗ trợ khi có sự cố và thỏa thuận hư hỏng với cửa hàng trước khi nhận xe. Khi cần thuê xe máy ở Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội làm việc từ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

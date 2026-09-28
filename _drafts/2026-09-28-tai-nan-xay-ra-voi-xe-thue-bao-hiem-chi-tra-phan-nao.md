@@ -19,7 +19,7 @@ Bảo hiểm xe thuê tai nạn chi trả phần nào là câu hỏi xuất hi�
 
 Mọi xe máy tham gia giao thông tại Việt Nam phải có bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe theo Nghị định 67/2023/NĐ-CP, hiệu lực từ ngày 06/09/2023. Lớp bảo hiểm này chi trả cho thiệt hại mà xe gây ra cho bên thứ ba: người đi đường bị thương, tài sản của người khác bị hư hại trong vụ tai nạn do xe gây ra. Nghị định quy định giới hạn trách nhiệm đối với thiệt hại về sức khỏe, tính mạng của mỗi người bị thiệt hại trong một vụ tai nạn là 150 triệu đồng, kèm giới hạn trách nhiệm đối với thiệt hại về tài sản theo quy định tại nghị định.
 
-Điểm mấu chốt với xe thuê: hợp đồng bảo hiểm đứng tên chủ xe, tức cửa hàng cho thuê, nhưng khi xe gây tai nạn, người trực tiếp điều khiển là người thuê. Bảo hiểm chi trả phần trách nhiệm dân sự của chủ xe theo quy định; phần thiệt hại vượt quá giới hạn trách nhiệm bảo hiểm thì người gây thiệt hại phải bồi thường theo quy định của pháp luật dân sự. Chi tiết cơ chế này nằm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/2026/09/28/bao-hiem-trach-nhiem-dan-su-xe-may-la-gi/).
+Điểm mấu chốt với xe thuê: hợp đồng bảo hiểm đứng tên chủ xe, tức cửa hàng cho thuê, nhưng khi xe gây tai nạn, người trực tiếp điều khiển là người thuê. Bảo hiểm chi trả phần trách nhiệm dân sự của chủ xe theo quy định; phần thiệt hại vượt quá giới hạn trách nhiệm bảo hiểm thì người gây thiệt hại phải bồi thường theo quy định của pháp luật dân sự. Chi tiết cơ chế này nằm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/).
 
 ## Lớp hai: hư hỏng của chính chiếc xe thuê
 
@@ -50,3 +50,9 @@ Kiến thức nền về nhóm chủ đề này nằm trong trang [bảo hiểm 
 ## Kết luận về bảo hiểm xe thuê tai nạn
 
 Khi tai nạn xảy ra với xe thuê, bảo hiểm bắt buộc trách nhiệm dân sự chi trả phần thiệt hại cho bên thứ ba trong giới hạn theo Nghị định 67/2023/NĐ-CP; hư hỏng của xe tính theo hợp đồng thuê; phần vượt giới hạn và các khoản phạt thuộc người vi phạm. Việc đầu tiên sau tai nạn là báo cảnh sát nếu có người bị thương và gọi ngay cho cửa hàng. Cần thuê xe máy ở Hà Nội với hướng dẫn rõ ràng khi có sự cố, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, điện thoại 0942 467 674, giờ làm việc 09:00 đến 21:00.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

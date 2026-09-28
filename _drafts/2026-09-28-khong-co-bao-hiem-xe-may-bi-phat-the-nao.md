@@ -21,7 +21,7 @@ Bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới là
 
 ## Mức phạt cụ thể
 
-Theo khoản 2 Điều 18 Nghị định 168/2024/NĐ-CP, người điều khiển xe máy không có giấy chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự còn hiệu lực, không mang theo giấy chứng nhận còn hiệu lực, hoặc sử dụng giấy chứng nhận đã hết hiệu lực, bị phạt tiền từ 200.000 đồng đến 300.000 đồng. Đây là khung phạt mới, cao hơn khung 100.000 đến 200.000 đồng áp dụng trước ngày 01/01/2025 theo Nghị định 100/2019/NĐ-CP, cho thấy nhà làm luật siết chặt hơn hành vi đi xe không bảo hiểm.
+Theo khoản 2 Điều 18 Nghị định 168/2024/NĐ-CP, người điều khiển xe máy không có giấy chứng nhận bảo hiểm bắt buộc trách nhiệm dân sự còn hiệu lực, không mang theo giấy chứng nhận còn hiệu lực, hoặc sử dụng giấy chứng nhận đã hết hiệu lực, bị phạt tiền từ 200 nghìn đồng đến 300 nghìn đồng. Đây là khung phạt mới, cao hơn khung 100 nghìn đến 200 nghìn đồng áp dụng trước ngày 01/01/2025 theo Nghị định 100/2019/NĐ-CP, cho thấy nhà làm luật siết chặt hơn hành vi đi xe không bảo hiểm.
 
 So để dễ hình dung: tiền phạt hiện hành tương đương tiền thuê một chiếc xe số phổ thông khoảng một ngày ở Hà Nội, nhưng khác ở chỗ khoản tiền này không đổi lại được thứ gì, chỉ trả cho một sai lầm có thể tránh hoàn toàn. Mức phạt và quy định có thể thay đổi theo văn bản mới, nên bạn nên kiểm tra nghị định hiện hành tại thời điểm đi xe.
 
@@ -39,7 +39,7 @@ Với người thuê xe, trách nhiệm có bảo hiểm thuộc về xe, nhưng
 - Hỏi cửa hàng cho thuê xem tem bảo hiểm nằm ở đâu trên từng loại xe trong đội xe, vì vị trí dán tem ở cốp trước, cốp sau hoặc dưới yên khác nhau theo dòng xe.
 - Khi bị dừng xe kiểm tra giấy tờ, giữ bình tĩnh và xuất trình tem theo hướng dẫn, vì giấy chứng nhận bảo hiểm là một trong những giấy tờ cơ bản theo quy định hiện hành.
 
-Câu hỏi về phạm vi chi trả của bảo hiểm khi đi xe thuê nằm ngoài phạm vi bài này; bạn có thể đọc thêm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/2026/09/28/bao-hiem-trach-nhiem-dan-su-xe-may-la-gi/).
+Câu hỏi về phạm vi chi trả của bảo hiểm khi đi xe thuê nằm ngoài phạm vi bài này; bạn có thể đọc thêm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/).
 
 ## Nếu không may bị phạt
 
@@ -49,4 +49,10 @@ Tổng hợp kiến thức về nhóm chủ đề này nằm trong trang [bảo 
 
 ## Kết luận về không bảo hiểm xe máy bị phạt
 
-Không có bảo hiểm xe máy hiện bị phạt từ 200.000 đến 300.000 đồng theo Nghị định 168/2024/NĐ-CP, cao gấp đôi khung cũ. Trước mỗi chuyến đi, kể cả với xe thuê, bạn hãy dành vài giây xem tem bảo hiểm còn hiệu lực. Nếu cần thuê xe máy ở Hà Nội với đội xe đầy đủ giấy tờ, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+Không có bảo hiểm xe máy hiện bị phạt từ 200 nghìn đến 300 nghìn đồng theo Nghị định 168/2024/NĐ-CP, cao gấp đôi khung cũ. Trước mỗi chuyến đi, kể cả với xe thuê, bạn hãy dành vài giây xem tem bảo hiểm còn hiệu lực. Nếu cần thuê xe máy ở Hà Nội với đội xe đầy đủ giấy tờ, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

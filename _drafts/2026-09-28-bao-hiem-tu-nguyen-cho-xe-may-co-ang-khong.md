@@ -17,7 +17,7 @@ Bảo hiểm tự nguyện xe máy có đáng mua không là câu hỏi của ng
 
 ## Phân biệt hai lớp bảo hiểm
 
-Trước hết cần tách bạch hai khái niệm hay bị nhầm lẫn. Bảo hiểm bắt buộc trách nhiệm dân sự, quy định tại Nghị định 67/2023/NĐ-CP có hiệu lực từ ngày 06/09/2023, chỉ chi trả cho thiệt hại mà xe của bạn gây ra cho bên thứ ba trong giới hạn trách nhiệm theo nghị định, ví dụ thiệt hại về sức khỏe, tính mạng của người bị tai nạn do xe gây ra. Loại này không chi trả cho hư hỏng của chính chiếc xe và thương tích của người lái. Bạn có thể xem lại chi tiết trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/2026/09/28/bao-hiem-trach-nhiem-dan-su-xe-may-la-gi/).
+Trước hết cần tách bạch hai khái niệm hay bị nhầm lẫn. Bảo hiểm bắt buộc trách nhiệm dân sự, quy định tại Nghị định 67/2023/NĐ-CP có hiệu lực từ ngày 06/09/2023, chỉ chi trả cho thiệt hại mà xe của bạn gây ra cho bên thứ ba trong giới hạn trách nhiệm theo nghị định, ví dụ thiệt hại về sức khỏe, tính mạng của người bị tai nạn do xe gây ra. Loại này không chi trả cho hư hỏng của chính chiếc xe và thương tích của người lái. Bạn có thể xem lại chi tiết trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/).
 
 Bảo hiểm tự nguyện là lớp bổ sung do chủ xe tự quyết định mua, phổ biến nhất là bảo hiểm vật chất xe: khi xe bị hư hỏng do va chạm, cháy, hoặc một số rủi ro theo điều khoản hợp đồng, doanh nghiệp bảo hiểm chi trả chi phí sửa chữa trong phạm vi và mức khấu trừ đã thỏa thuận. Ngoài ra thị trường còn có các gói tự nguyện bảo hiểm tai nạn người ngồi trên xe. Phí, mức chi trả và điều khoản loại trừ thay đổi theo từng doanh nghiệp bảo hiểm, nên bạn đọc kỹ đề nghị bảo hiểm trước khi ký.
 
@@ -49,3 +49,9 @@ Với khách thuê xe máy, đầu bài không phải mua bảo hiểm mà là h
 ## Kết luận về bảo hiểm tự nguyện xe máy
 
 Bảo hiểm tự nguyện xe máy đáng hay không phụ thuộc giá trị xe, phạm vi chi trả và mức khấu trừ của từng gói, không phải câu trả lời đúng cho tất cả mọi người. Người thuê xe thì ưu tiên hỏi rõ trách nhiệm với cửa hàng trước khi nhận xe. Nếu cần thuê xe máy ở Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội làm việc từ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

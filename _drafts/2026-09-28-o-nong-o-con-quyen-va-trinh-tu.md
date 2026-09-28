@@ -17,9 +17,9 @@ Trình tự đo nồng độ cồn không còn là thủ tục xa lạ với ng�
 
 ## Kiểm tra diễn ra theo trình tự nào
 
-Một cuộc kiểm tra nồng độ cồn đối với người điều khiển xe máy thường diễn ra theo các bước: lực lượng chức năng ra hiệu lệnh dừng xe tại điểm kiểm tra, mời người điều khiển trình giấy tờ theo quy định, sau đó mời thổi vào thiết bị đo nồng độ cồn khí thở. Kết quả hiện trên thiết bị là căn cứ để xác định mức vi phạm: chưa vượt 0,25 miligam trong một lít khí thở là mức 1, vượt 0,25 nhưng chưa vượt 0,4 miligam là mức 2, vượt 0,4 miligam là mức 3, theo cách phân mức tại khoản 6 Điều 7 Nghị định 168/2024/NĐ-CP. Với cách tính theo máu, các mức tương ứng là 50 và 80 miligam trong 100 mililít. Khung tiền phạt từng mức được cập nhật trong bài [mức phạt nồng độ cồn xe máy mới nhất](/blog/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/).
+Một cuộc kiểm tra nồng độ cồn đối với người điều khiển xe máy thường diễn ra theo các bước: lực lượng chức năng ra hiệu lệnh dừng xe tại điểm kiểm tra, mời người điều khiển trình giấy tờ theo quy định, sau đó mời thổi vào thiết bị đo nồng độ cồn khí thở. Kết quả hiện trên thiết bị là căn cứ để xác định mức vi phạm: chưa vượt 0,25 miligam trong một lít khí thở là mức 1, vượt 0,25 nhưng chưa vượt 0,4 miligam là mức 2, vượt 0,4 miligam là mức 3, theo cách phân mức tại khoản 6 Điều 7 Nghị định 168/2024/NĐ-CP. Với cách tính theo máu, các mức tương ứng là 50 và 80 miligam trong 100 mililít. Khung tiền phạt từng mức được cập nhật trong bài [mức phạt nồng độ cồn xe máy mới nhất](/blog/an-toan-phap-ly/noi-do-cong/).
 
-Cơ sở pháp lý của việc cấm và kiểm tra là Luật Trật tự an toàn giao thông đường bộ 2024, nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, được phân tích trong bài [quy định nồng độ cồn khi lái xe hiện hành](/blog/an-toan-phap-ly/2026/09/28/quy-inh-nong-o-con-khi-lai-xe-hien-hanh/). Trình tự nghiệp vụ chi tiết do lực lượng chức năng thực hiện theo quy định chuyên ngành hiện hành.
+Cơ sở pháp lý của việc cấm và kiểm tra là Luật Trật tự an toàn giao thông đường bộ 2024, nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, được phân tích trong bài [quy định nồng độ cồn khi lái xe hiện hành](/blog/an-toan-phap-ly/). Trình tự nghiệp vụ chi tiết do lực lượng chức năng thực hiện theo quy định chuyên ngành hiện hành.
 
 ## Quyền của người bị kiểm tra
 
@@ -40,8 +40,14 @@ Cũng cần tránh các mẹo dân gian trước điểm kiểm tra, từ ngậm
 
 ## Sau khi có kết quả
 
-Nếu kết quả dưới mọi mức: bạn được tiếp tục hành trình; giữ giấy tờ đầy đủ và đi tiếp an toàn. Nếu bị lập biên bản: đọc kỹ nội dung, chụp lưu toàn bộ văn bản, hỏi rõ thủ tục nhận lại xe nếu xe bị tạm giữ, và nộp phạt đúng hạn. Nếu đang đi xe thuê, gọi ngay cho cửa hàng để thông báo và thỏa thuận tiếp theo, như đã nêu chi tiết trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/). Các kinh nghiệm sau buổi ăn uống cũng như giữ xe qua đêm nằm trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh%20nghi%E1%BB%87m/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/), chủ đề tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
+Nếu kết quả dưới mọi mức: bạn được tiếp tục hành trình; giữ giấy tờ đầy đủ và đi tiếp an toàn. Nếu bị lập biên bản: đọc kỹ nội dung, chụp lưu toàn bộ văn bản, hỏi rõ thủ tục nhận lại xe nếu xe bị tạm giữ, và nộp phạt đúng hạn. Nếu đang đi xe thuê, gọi ngay cho cửa hàng để thông báo và thỏa thuận tiếp theo, như đã nêu chi tiết trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Các kinh nghiệm sau buổi ăn uống cũng như giữ xe qua đêm nằm trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/), chủ đề tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
 
 ## Kết luận về trình tự đo nồng độ cồn
 
 Cuộc kiểm tra đi qua các bước dừng xe, trình giấy tờ, thổi đo và lập biên bản nếu vi phạm; người bị kiểm tra có quyền yêu cầu xuất trình thẻ công vụ, chứng kiến thao tác, ghi ý kiến và nhận văn bản hợp lệ. Hợp tác đúng trình tự và không lái sau khi dùng đồ có cồn là hai việc bạn kiểm soát được hoàn toàn. Cần thuê xe máy ở Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, giờ 09:00 đến 21:00, điện thoại 0942 467 674.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) trên cổng thông tin điện tứ Chính phủ.
+
+Lưu ý: mức phạt và quy định có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.

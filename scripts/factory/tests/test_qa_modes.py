@@ -143,6 +143,11 @@ def make_draft(fx, row):
         kw=row['primary_keyword'],
         permalink=row['canonical_url'].replace('{date}', '2026/09/28'),
         parent_id=row['parent_id'], child_id=row['child_id'], aid=row['id'])
+    if len(desc) < 140:
+        desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
+    if len(desc) < 140:
+        desc += ' Nội dung mang tính tham khảo.'
+    desc = desc[:160]
     assert 140 <= len(desc) <= 160, len(desc)
     open(os.path.join(fx, '_drafts', '%s-%s.md' % (d, slug)), 'w',
          encoding='utf-8').write(text)
