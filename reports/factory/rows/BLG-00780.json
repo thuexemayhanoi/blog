@@ -1,0 +1,144 @@
+{
+  "article_id": "BLG-00780",
+  "status": "WRITING",
+  "title": "Mộc Châu mùa hoa mận trắng đi tháng mấy",
+  "intent": "Chọn mùa hoa Mộc Châu",
+  "primary_keyword": "mộc châu mùa hoa mận",
+  "secondary_keywords": [
+    "hoa mận mộc châu tháng mấy"
+  ],
+  "group": "CUNG-DUONG",
+  "taxonomy": {
+    "parent_id": "P-CUNG-DUONG",
+    "parent_hub": "Cung đường & hành trình",
+    "parent_hub_url": "/blog/cung-duong/",
+    "child_id": "C-CD-MOC-CHAU",
+    "child_hub": "Mộc Châu",
+    "child_hub_url": "/blog/cung-duong/moc-chau/"
+  },
+  "expected_url": "/blog/cung-duong/2026/09/28/moc-chau-mua-hoa-man-trang-i-thang-may/",
+  "output_path": "_posts/{date}-moc-chau-mua-hoa-man-trang-i-thang-may.md",
+  "draft_path": "_drafts/2026-09-28-moc-chau-mua-hoa-man-trang-i-thang-may.md",
+  "canonical_url": "/blog/cung-duong/2026/09/28/moc-chau-mua-hoa-man-trang-i-thang-may/",
+  "internal_links_matrix": [
+    "/blog/cung-duong/moc-chau/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "moc chau mua hoa man",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00008",
+      "title": "Cầu Long Biên và khu Long Biên bằng xe máy: trải nghiệm đáng đi ở Hà Nội",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00030",
+      "title": "Lên kế hoạch chuyến cuối tuần bằng xe máy: sắp xếp hai ngày gọn gàng",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00055",
+      "title": "Bà mẹ đi chợ cuối tuần cho cả nhà",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/19/ba-me-di-cho-cuoi-tuan-cho-ca-nha/"
+    },
+    {
+      "id": "BLG-00171",
+      "title": "Đi hồ Núi Cốc Thái Nguyên bằng xe máy",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/19/di-ho-nui-coc-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00176",
+      "title": "Đi Tam Đảo bằng xe máy từ Hà Nội",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/"
+    },
+    {
+      "id": "BLG-00307",
+      "title": "Làng gốm Bát Tràng bằng xe máy",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/19/lang-gom-bat-trang-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00358",
+      "title": "Núi Trầm chùa Thầy bằng xe máy",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/19/nui-tram-chua-thay-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00392",
+      "title": "Thành Cổ Loa bằng xe máy",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/19/thanh-co-loa-bang-xe-may/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 90,
+    "seo_min": 90,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "e37f18ac9c620006d82b49d683b11247a57d7a7cd85e2da48598b1431d9c1463",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
