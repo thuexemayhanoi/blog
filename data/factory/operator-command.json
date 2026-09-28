@@ -1,1 +1,6 @@
-{"op":"publish","ids":"BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644","scope":"fast"}
+{
+  "op": "publish",
+  "ids": "BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644",
+  "scope": "fast",
+  "note": "re-dispatch after root-cause repair eb7409d8 (test_qa_modes make_draft desc padding); verify --scope fast proven green post-publish (ddce2bc evidence)"
+}
