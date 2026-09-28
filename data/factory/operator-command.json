@@ -1,0 +1,6 @@
+{
+  "op": "qa",
+  "ids": "BLG-00736,BLG-00737,BLG-00739,BLG-00741,BLG-00742,BLG-00743,BLG-00744",
+  "command_id": "qa-chunk5-repair1-BLG-00736-744",
+  "coordinator": "campaign10k-run2"
+}
