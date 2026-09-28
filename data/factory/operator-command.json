@@ -1,6 +1,0 @@
-{
-  "op": "qa",
-  "ids": "BLG-00775,BLG-00776,BLG-00777,BLG-00778,BLG-00779",
-  "command_id": "campaign10k-r5-chunk1-qa",
-  "coordinator": "campaign-10k-round5"
-}
