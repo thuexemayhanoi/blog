@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00698",
   "title": "Những lưu ý khi chạy xe quanh Vườn hoa Hùng Vương",
-  "scored_at": "2026-09-28T17:57:01+00:00",
+  "scored_at": "2026-09-28T18:06:53+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1051,
+  "word_count": 1060,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-vuon-hoa-hung-vuong.md",
-  "content_sha256": "335659f69aa774472cab37273ce649e85d1b979bab28a1adf71db7a38316451d",
+  "content_sha256": "9598c1e8ba17d907aa1f807b514de3065bb8d285a8946c13345f6dd9c606c973",
   "matrix_row_sha256": "2d1a7d70175e633dd29bd6e076ae10c5c01a1984a0b841300ff7fea215bbf5c1",
-  "result": "REPAIR"
+  "result": "PASS"
 }

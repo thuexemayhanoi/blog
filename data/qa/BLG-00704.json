@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00704",
   "title": "Những lưu ý khi chạy xe quanh Vườn Quốc gia Ba Vì",
-  "scored_at": "2026-09-28T17:57:01+00:00",
+  "scored_at": "2026-09-28T18:06:53+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1030,
+  "word_count": 1038,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-vuon-quoc-gia-ba-vi.md",
-  "content_sha256": "cb5e421cfa16c073f13156ae56d0dd8d950337d76c4c7561be5d2e0a320b15e3",
+  "content_sha256": "4c4d51deb307afb3cbc88878a65123b3e917bc56eb3027775d6bde4d35387068",
   "matrix_row_sha256": "282dced1022c5d94f46ac5479edeb5ae7a6cf8bf14bdd20159858a64aceff84f",
-  "result": "REPAIR"
+  "result": "PASS"
 }
