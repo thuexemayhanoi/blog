@@ -1,11 +1,7 @@
 name: factory-diagnose3
 
-# CHE DO DOC THOAT (read-only diagnostic) — theo pattern factory-diagnose2
-# da dung trong repo (commit e0233475/70556418, xoa sau khi chan doan xong).
-# Muc dich: bat chinh xac nguyen nhan Factory Operator run FAIL tren lenh
-# qa BLG-00625..00634 (lan 4, HEAD 450ca06) khi log khong the doc tu ngoai.
-# Chi commit file output diagnose; KHONG doi state production, KHONG day
-# matrix/checkpoint/qa evidence nao.
+# CHE DO DOC THOAT (read-only diagnostic) — pattern factory-diagnose2.
+# Lan 2: rut gon output (bo ResourceWarning) de file nho, doc duoc tu ngoai.
 
 on:
   push:
@@ -33,27 +29,23 @@ jobs:
         with:
           python-version: "3.x"
 
-      - name: Chay chan doan read-only va QA op trong workspace (khong push state)
+      - name: Chay chan doan va QA op trong workspace (khong push state)
         run: |
           set +e
           OUT=reports/factory/diagnose-2026-09-28.txt
+          COMPACT=reports/factory/diagnose-2026-09-28-compact.txt
           mkdir -p reports/factory
           {
-            echo "=== diagnose3 $(date -u +%Y-%m-%dT%H:%M:%SZ) HEAD=$(git rev-parse HEAD) ==="
-            echo "=== [1] validate.py --scope chunk ==="
-            python3 scripts/factory/validate.py --scope chunk
-            echo "validate_chunk_exit=$?"
-            echo "=== [2] factory-operator.py status ==="
-            python3 scripts/factory/factory-operator.py status
-            echo "status_exit=$?"
+            echo "=== diagnose3b $(date -u +%Y-%m-%dT%H:%M:%SZ) HEAD=$(git rev-parse HEAD) ==="
             echo "=== [3] unittest discover scripts/factory/tests ==="
-            python3 -m unittest discover -s scripts/factory/tests -p 'test_*.py' -v
-            echo "tests_exit=$?"
-            echo "=== [4] QA op (workspace only, se KHONG duoc commit) ==="
-            python3 scripts/factory/factory-operator.py qa --scope fast --ids BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629,BLG-00630,BLG-00631,BLG-00632,BLG-00633,BLG-00634
-            echo "qa_exit=$?"
-            echo "=== end diagnose3 ==="
-          } > "$OUT" 2>&1
+            python3 -m unittest discover -s scripts/factory/tests -p 'test_*.py' -v 2>&1 | grep -v -E 'ResourceWarning|tracemalloc|mode=.r.|^  text = open'
+            echo "tests_exit=${PIPESTATUS[0]}"
+            echo "=== [4] QA op (workspace only, KHONG commit) ==="
+            python3 scripts/factory/factory-operator.py qa --scope fast --ids BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629,BLG-00630,BLG-00631,BLG-00632,BLG-00633,BLG-00634 2>&1 | tail -n 120
+            echo "qa_exit=${PIPESTATUS[0]}"
+            echo "=== end diagnose3b ==="
+          } > "$COMPACT" 2>&1
+          cp "$COMPACT" "$OUT"
 
       - name: Commit chi file output diagnose (khong commit state production)
         run: |
@@ -62,6 +54,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git checkout -- .
           git clean -fd scripts data _drafts _posts reports/factory/rows || true
-          git add reports/factory/diagnose-2026-09-28.txt
-          git commit -m "factory-diagnose3: capture validate/tests/qa output (read-only diagnostic, temporary)"
+          git add reports/factory/diagnose-2026-09-28.txt reports/factory/diagnose-2026-09-28-compact.txt
+          git commit -m "factory-diagnose3: compact capture tests/qa (read-only diagnostic, temporary)"
           git push
