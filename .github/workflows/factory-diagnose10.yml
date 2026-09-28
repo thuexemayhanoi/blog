@@ -1,0 +1,83 @@
+name: Factory Diagnose
+
+# TEMPORARY read-only diagnostic (pattern factory-diagnose1-9 da dung truoc do).
+# KHONG AI, KHONG mutate: chi publish-gate.py --dry-run (read-only) cho tung
+# bai BLG-00635..00644 va commit evidence ra file de doc duoc.
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/factory-diagnose10.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: blog-factory-production
+  cancel-in-progress: false
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Dry-run publish gate tung bai (read-only)
+        run: |
+          set +e
+          OUT=data/factory/diagnose-publish-dryrun.txt
+          {
+            echo "# Diagnose publish BLG-00635..00644 — dry-run read-only"
+            git rev-parse HEAD
+            python3 scripts/factory/factory-operator.py status
+            for id in BLG-00635 BLG-00636 BLG-00637 BLG-00638 BLG-00639 BLG-00640 BLG-00641 BLG-00642 BLG-00643 BLG-00644; do
+              echo ""
+              echo "=== $id ==="
+              python3 scripts/factory/factory-operator.py 2>&1 | head -5 || true
+              python3 - "$id" <<'PY'
+import csv, glob, json, re, sys, hashlib, os
+aid = sys.argv[1]
+rows = list(csv.DictReader(open('data/content-matrix.csv', encoding='utf-8', newline='')))
+row = next((r for r in rows if r['id'] == aid), None)
+print('row_status=' + (row['status'] if row else 'MISSING'))
+if row is None:
+    sys.exit(0)
+slug = row['output_path']
+if slug.startswith('_posts/{date}-'):
+    slug = slug[len('_posts/{date}-'):-3]
+else:
+    m = re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+)\.md$', slug)
+    slug = m.group(1) if m else None
+hits = sorted(glob.glob('_drafts/*-%s.md' % slug)) if slug else []
+print('find_draft=' + (hits[0] if hits else 'NONE'))
+print('slug=' + str(slug))
+qa = json.load(open('data/qa/%s.json' % aid, encoding='utf-8'))
+print('qa_scored_at=' + str(qa.get('scored_at')))
+print('qa_content_sha256=' + str(qa.get('content_sha256')))
+print('qa_matrix_row_sha256=' + str(qa.get('matrix_row_sha256')))
+basis = {k: row[k] for k in ('title', 'intent', 'primary_keyword', 'expected_url', 'output_path', 'canonical_url')}
+fp = hashlib.sha256(json.dumps(basis, ensure_ascii=False, sort_keys=True).encode('utf-8')).hexdigest()
+print('matrix_row_sha256_now=' + fp)
+if hits:
+    dsha = hashlib.sha256(open(hits[0], 'rb').read()).hexdigest()
+    print('draft_sha256_now=' + dsha)
+    print('sha_match=' + str(dsha == qa.get('content_sha256')))
+print('fp_match=' + str(fp == qa.get('matrix_row_sha256')))
+PY
+              echo "--- publish-gate dry-run ---"
+              python3 scripts/factory/publish-gate.py --draft "$(python3 -c "import csv,glob,re; rows=list(csv.DictReader(open('data/content-matrix.csv',encoding='utf-8',newline=''))); row=next(r for r in rows if r['id']=='$id'); s=row['output_path']; s=s[len('_posts/{date}-'):-3] if s.startswith('_posts/{date}-') else re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+)\.md$', s).group(1); print(sorted(glob.glob('_drafts/*-%s.md'%s))[0])")" --id "$id" --dry-run
+              echo "gate_exit=$?"
+            done
+          } > "$OUT" 2>&1
+          cat "$OUT"
+      - name: Commit evidence
+        run: |
+          git config user.name "factory-operator-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/factory/diagnose-publish-dryrun.txt
+          git commit -m "factory: diagnose publish gate dry-run BLG-00635..00644 (read-only evidence)"
+          git push
