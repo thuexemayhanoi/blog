@@ -1,20 +1,185 @@
-DIAGNOSE v8 - invoke real factory-operator publish (throwaway workspace, no push)
-head=4d6bb93030fd4b13fdae812e4bd0026cf04c63e2
+DIAGNOSE v9 - real op publish with exact comma ids (throwaway, no push)
+head=c695a1829abdf458ab7fa5051b9c3b94ad55fb9e
 
-=== factory-operator.py publish --ids BLG-00635..BLG-00644 ===
-publish exit=1
+=== factory-operator.py publish --ids <10 comma ids> ===
+publish exit=0
 --- stdout ---
-=== OPERATOR: TỪ CHỐI AN TOÀN ===
-publish: BLG-00635..BLG-00644 không có trong matrix
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md -> _posts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md
+checkpoint: last_completed=BLG-00635 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md -> _posts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md
+checkpoint: last_completed=BLG-00636 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md -> _posts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md
+checkpoint: last_completed=BLG-00637 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md -> _posts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md
+checkpoint: last_completed=BLG-00638 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md -> _posts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md
+checkpoint: last_completed=BLG-00639 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md -> _posts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md
+checkpoint: last_completed=BLG-00640 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md -> _posts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md
+checkpoint: last_completed=BLG-00641 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md -> _posts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md
+checkpoint: last_completed=BLG-00642 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md -> _posts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md
+checkpoint: last_completed=BLG-00643 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== PUBLISH GATE: PROMOTED ===
+_drafts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md -> _posts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md
+checkpoint: last_completed=BLG-00644 next_claimable=BLG-00645
+history: 50 mục (không reset)
+
+=== GENERATE REPORTS ===
+legacy: 483 (EXISTING 473, REVIEW 10)
+matrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
+tiến độ bảo toàn: last_completed=BLG-00644 chunk=None next_claimable=BLG-00645
+mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T07:45:14+00:00 | checkpoint.updated_at: 2026-09-28T07:45:14+00:00
+vân tay: matrix=5802f6cb3ac6... data_fingerprint=e726ca0737ad...
+KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
+
+=== GENERATE MATRIX ===
+tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 298)
+chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
+thiếu so với planned_target 6980: 6682 hàng (báo thiếu, không đệm)
+
+g
+chia-se: 112 bài -> 10 trang
+du-lich: 41 bài -> 4 trang
+topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
+topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
+topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
+topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
+topic thue-xe/su-co: 40 bài -> 2 trang
+topic thue-xe/thu-tuc: 32 bài -> 2 trang
+KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
+
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 0, "blocked": 0}
+KẾT QUẢ: PASS (0 cảnh báo)
+
+publish: PUBLISHED BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644 (mode=fast)
 
 --- stderr ---
 
 
+
+
+
+
+
+
+
+
+
+
 === git status --porcelain after op ===
+ M _data/listing-index.yml
+ D _drafts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md
+ D _drafts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md
+ D _drafts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md
+ D _drafts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md
+ D _drafts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md
+ D _drafts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md
+ D _drafts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md
+ D _drafts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md
+ D _drafts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md
+ D _drafts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md
+ M data/content-matrix.csv
+ M data/qa/BLG-00635.json
+ M data/qa/BLG-00636.json
+ M data/qa/BLG-00637.json
+ M data/qa/BLG-00638.json
+ M data/qa/BLG-00639.json
+ M data/qa/BLG-00640.json
+ M data/qa/BLG-00641.json
+ M data/qa/BLG-00642.json
+ M data/qa/BLG-00643.json
+ M data/qa/BLG-00644.json
+ M data/state/checkpoint.json
+ M data/state/transaction.json
+ M data/state/writer-lock.json
+ M listing/kinh-nghiem/10.md
+ M listing/kinh-nghiem/11.md
+ M listing/kinh-nghiem/12.md
+ M listing/kinh-nghiem/13.md
+ M listing/kinh-nghiem/14.md
+ M listing/kinh-nghiem/15.md
+ M listing/kinh-nghiem/16.md
+ M listing/kinh-nghiem/17.md
+ M listing/kinh-nghiem/18.md
+ M listing/kinh-nghiem/19.md
+ M listing/kinh-nghiem/2.md
+ M listing/kinh-nghiem/20.md
+ M listing/kinh-nghiem/21.md
+ M listing/kinh-nghiem/22.md
+ M listing/kinh-nghiem/23.md
+ M listing/kinh-nghiem/24.md
+ M listing/kinh-nghiem/25.md
+ M listing/kinh-nghiem/26.md
+ M listing/kinh-nghiem/27.md
+ M listing/kinh-nghiem/28.md
+ M listing/kinh-nghiem/29.md
+ M listing/kinh-nghiem/3.md
+ M listing/kinh-nghiem/30.md
+ M listing/kinh-nghiem/31.md
+ M listing/kinh-nghiem/32.md
+ M listing/kinh-nghiem/33.md
+ M listing/kinh-nghiem/34.md
+ M listing/kinh-nghiem/35.md
+ M listing/kinh-nghiem/36.md
+ M listing/kinh-nghiem/37.md
+ M listing/kinh-nghiem/38.md
+ M listing/kinh-nghiem/39.md
+ M listing/kinh-nghiem/4.md
+ M listing/kinh-nghiem/40.md
+ M listing/kinh-nghiem/5.md
+ M listing/kinh-nghiem/6.md
+ M listing/kinh-nghiem/7.md
+ M listing/kinh-nghiem/8.md
+ M listing/kinh-nghiem/9.md
+ M reports/factory/latest.md
+ M reports/factory/progress.json
+?? _posts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md
+?? _posts/2026-09-28-bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe.md
+?? _posts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md
+?? _posts/2026-09-28-bien-chi-dan-va-bien-phu-hieu-the-nao.md
+?? _posts/2026-09-28-khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong.md
+?? _posts/2026-09-28-nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao.md
+?? _posts/2026-09-28-nop-phat-nguoi-tre-co-bi-cong-them-khong.md
+?? _posts/2026-09-28-phat-nguoi-la-gi-va-xe-may-co-bi-khong.md
+?? _posts/2026-09-28-phat-nguoi-loi-nao-thuong-gap-voi-xe-may.md
+?? _posts/2026-09-28-tra-cuu-phat-nguoi-bang-cach-nao.md
+?? listing/kinh-nghiem/41.md
 
 
 === restore workspace (no state pushed) ===
 git reset exit=0
-HEAD is now at 4d6bb93 factory: diagnose v8 — invoke real factory-operator publish in throwaway workspace, capture op stdout (no state push)
 git clean exit=0
-
