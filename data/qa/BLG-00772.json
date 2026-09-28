@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may.md",
+  "source_path": "_posts/2026-09-28-ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may.md",
   "content_sha256": "ce872907ef956186ef90d0c058562a67372d24cd6d709c3e3941580c04967ad8",
-  "matrix_row_sha256": "fcb6cc583bc4e35c848ff851ee03da35902e9f2956264f2a194e47daf284d941",
-  "result": "PASS"
+  "matrix_row_sha256": "5abd59736eda3596cb61c3a29e984c6bc92c5a7295b3ca074d4b8d40340f785b",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:19:18+00:00"
 }

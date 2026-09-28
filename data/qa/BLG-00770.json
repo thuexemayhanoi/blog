@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ha-noi-i-tam-ao-bang-xe-may-len-doc-can-chuan-bi-gi.md",
+  "source_path": "_posts/2026-09-28-ha-noi-i-tam-ao-bang-xe-may-len-doc-can-chuan-bi-gi.md",
   "content_sha256": "3c07808a7eb16b4bdc4b12602a4914696f777518609310391468054ab82061e3",
-  "matrix_row_sha256": "339d80e307394974dc6e868fe77f34397d92889ae00241f51923b1be16da2a92",
-  "result": "PASS"
+  "matrix_row_sha256": "c686b7ec7f562d75573d8040a9e6f3767097840c870e66303782b8c41f7d479b",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:19:18+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chua-huong-bang-xe-may-tu-ha-noi-chuan-bi-truoc-khi-i.md",
+  "source_path": "_posts/2026-09-28-chua-huong-bang-xe-may-tu-ha-noi-chuan-bi-truoc-khi-i.md",
   "content_sha256": "fa5e683c74b72cd695f3f236b95eeb8355f6940e02d0446f1083be866358b70f",
-  "matrix_row_sha256": "8bd1913ce2e3a4731802ca06c81e26fde812f8dde58b85d635b397cc7fcc5db9",
-  "result": "PASS"
+  "matrix_row_sha256": "d0be7ca0c47e112efeca0ba30f96f4fc04f9404e824853723dbadbf20cd2a7f8",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:19:18+00:00"
 }

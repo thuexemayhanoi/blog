@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh.md",
+  "source_path": "_posts/2026-09-28-cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh.md",
   "content_sha256": "2a9dbf4257cf847edf16761d300ea94d62ac2d7eadded65a4c8c3e74c1e8d896",
-  "matrix_row_sha256": "f6a29e7a264e0e80cb32d9c736e09ee416d58da1b75620aa7ae8911f3782f2b2",
-  "result": "PASS"
+  "matrix_row_sha256": "bdbfbf1f4429225dd6bbd4b76d1828e0aeb50d08b3eb79f15fda4aa0dd746603",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:19:18+00:00"
 }
