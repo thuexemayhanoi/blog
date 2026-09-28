@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md",
+  "source_path": "_posts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md",
   "content_sha256": "830a7ff9b4a0523dbf80f09be1074492e41d40262a15c5f56bb3d74d72c3a8e0",
-  "matrix_row_sha256": "78db69b3d1bd4b114a529c49c481e67debb57c5de6b948ff2a2438ab2aa698b8",
-  "result": "PASS"
+  "matrix_row_sha256": "422dc09cf140cf824fb940ed118346b0d02c580d0ce5d038936f05dc985ca38a",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

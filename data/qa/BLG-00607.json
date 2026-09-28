@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-bao-duong-inh-ky-xe-may-gom-nhung-gi.md",
+  "source_path": "_posts/2026-09-27-bao-duong-inh-ky-xe-may-gom-nhung-gi.md",
   "content_sha256": "913bd54109554a230c21f5ab1b93108ac1a6452be4364f4ba0cfe4a4a0969086",
-  "matrix_row_sha256": "da51bf2a6fe934990bd6eef7ccb0067ed2e6a94bc8aadaf68170ebcb17d063b9",
-  "result": "PASS"
+  "matrix_row_sha256": "4bd9f5b036b32e4057ee91d0ff2634e0c1b1a8acbe2c635b5a5ea6969da75201",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

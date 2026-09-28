@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-o-kim-va-xich-xe-may-cang-ung-cach.md",
+  "source_path": "_posts/2026-09-27-o-kim-va-xich-xe-may-cang-ung-cach.md",
   "content_sha256": "290f67c89893ac4b0e17f83b48c486493bbf9d19119ede590f9f659ee0f3c1d9",
-  "matrix_row_sha256": "464eea44c39b2958b963d9c45fc6de21150d4bb068df10b47d3712e79a31e636",
-  "result": "PASS"
+  "matrix_row_sha256": "8cf1a3d4a9d622c5a316db6df52a5273d75ec327de6dab81873e04deeb02c5f1",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-dau-may-xe-may-oi-sau-bao-lau.md",
+  "source_path": "_posts/2026-09-27-dau-may-xe-may-oi-sau-bao-lau.md",
   "content_sha256": "8862c8c74aa4484e51cff3d9c22c24dc58d66b0dc44490fef9e2e7f9e4857be4",
-  "matrix_row_sha256": "80084b23770d111da1bb8e281619587210eb2c49edce52405dd2c36387426362",
-  "result": "PASS"
+  "matrix_row_sha256": "95b198954014a2c3b6b5ce5d1277294db630af80b460b35d4e5c4e7a1db21fe0",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

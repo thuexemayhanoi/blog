@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-thue-yamaha-sirius-dai-han-xe-so-ben-cho-nguoi-i-lam.md",
+  "source_path": "_posts/2026-09-27-thue-yamaha-sirius-dai-han-xe-so-ben-cho-nguoi-i-lam.md",
   "content_sha256": "29a12e4c7768a42a785e6a31db50899db19d4b9d4bf016570756fe3c2b8b47d9",
-  "matrix_row_sha256": "bdfad5a808fc469cc9cc4b1be2a4fafc167ebe74d9f79cec2c67207d345dbe6c",
-  "result": "PASS"
+  "matrix_row_sha256": "3d438348cbbd53efb47d87ac3750663e3f3eaf63cb028909e0a8c7810edea487",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:38+00:00"
 }

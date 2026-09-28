@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-ac-quy-xe-may-yeu-dau-hieu-va-xu-ly.md",
+  "source_path": "_posts/2026-09-27-ac-quy-xe-may-yeu-dau-hieu-va-xu-ly.md",
   "content_sha256": "d4c87bef6218edb733b9ea40e7f9e8437210dfb5e5f374b7de19087cb638003f",
-  "matrix_row_sha256": "575b9bf1f50d5953b932d4735e812cfc316f42d5bbd3dec5fd00e33c25e5a9b2",
-  "result": "PASS"
+  "matrix_row_sha256": "461e6179032726d71fcde1b6060b895200b35a891ef0d69c85753b80f4c08ec3",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

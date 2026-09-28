@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-en-xe-may-mo-va-cach-khac-phuc.md",
+  "source_path": "_posts/2026-09-27-en-xe-may-mo-va-cach-khac-phuc.md",
   "content_sha256": "c9cb231042c1c74eeb43435cd50f881191ffad7e28e5084219306698ed7748f8",
-  "matrix_row_sha256": "10088e8cfb47f5778ee6317f96a517853eefde09bbd8bb1c7f6ccb6bc4d281fc",
-  "result": "PASS"
+  "matrix_row_sha256": "bfda62b4eee6e3de833d2f56498ab6879dbd669cae65bde9967788b689540c98",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

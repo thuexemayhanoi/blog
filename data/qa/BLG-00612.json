@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-phanh-xe-may-ia-va-bo-kiem-tra-the-nao.md",
+  "source_path": "_posts/2026-09-27-phanh-xe-may-ia-va-bo-kiem-tra-the-nao.md",
   "content_sha256": "3331724ec71ace7dd118f2dccee177cce8373ffd5dfb6fff4619352d263a5c8b",
-  "matrix_row_sha256": "82dfce003276e59b35c1b2b8c7d0b740b4cdf2d9ad0d64bef29990a6a8ca73b1",
-  "result": "PASS"
+  "matrix_row_sha256": "df070f614f452ac825eedb0620faa30d85f6b6db637068d02a1b6a6a6839eca6",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-27-lop-xe-may-khi-nao-can-thay.md",
+  "source_path": "_posts/2026-09-27-lop-xe-may-khi-nao-can-thay.md",
   "content_sha256": "656ae5d61a97fdfdad8cb23a875b509f293b101f03cfa7a72a23ed3b42717c1d",
-  "matrix_row_sha256": "23d25853a613b2a6911cf1f949293e3230e9fde6ec3df7dce222f952f07b8c19",
-  "result": "PASS"
+  "matrix_row_sha256": "b0bface8bd0dff1ac0789e3710d3c0620e525c0a9007dc4e755a2ad9379cb5d6",
+  "result": "PASS",
+  "published_at": "2026-09-28T00:34:39+00:00"
 }
