@@ -8,10 +8,14 @@ chia-se:
   size: 12
   total: 112
 du-lich:
-  pages: 4
+  pages: 5
   size: 12
-  total: 46
+  total: 56
 topic:
+  du-lich_diem-den:
+    pages: 2
+    size: 24
+    total: 26
   ky-nang_ky-nang-lai-co-ban:
     pages: 2
     size: 24

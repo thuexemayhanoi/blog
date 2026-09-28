@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "35dbc6b10600f1620dfbc70b701b2ec456241f192dc7592797fe484596f3a323",
-  "matrix_row_sha256": "ee9d026704578de0b260910af172c47e9300151e68c64571a6a010c9d369866e",
-  "result": "PASS"
+  "matrix_row_sha256": "d6bffa4b629170bdad0d8dde5b9570a7f6eec9a2e8fb6860c67ef3d898fa4cd1",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:41:57+00:00"
 }

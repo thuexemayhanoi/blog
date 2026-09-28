@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "14ab96fe73c560133f75fd6770d95f3ea2e62577a47b4ee8998daf2796eaad32",
-  "matrix_row_sha256": "a2ffa5321353a55d4c3158e57fe3445894aafd71e2cd29e8d23cc8b1756c2bd1",
-  "result": "PASS"
+  "matrix_row_sha256": "e839b3ca82a12cf6375b59ccdfbdfd46d44c617347603079944c363be7898ee4",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:41:57+00:00"
 }

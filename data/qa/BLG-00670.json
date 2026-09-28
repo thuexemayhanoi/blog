@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-bao-tang-dan-toc-hoc-viet-nam-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-bao-tang-dan-toc-hoc-viet-nam-nua-ngay.md",
   "content_sha256": "e0e7409c1b31f66c929163fa0102c7ba3ed005ebd0f8365213dd7a94745ccc79",
-  "matrix_row_sha256": "26a36f25ceaeebbb6e4ab4c366d6b3de35a90c7be25444b214dca1b124d4e250",
-  "result": "PASS"
+  "matrix_row_sha256": "e2a2bf1a5e2a7a517ba04a0f85d68259611ddd5aa384b2cc4cf1ff501e8eb193",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:41:57+00:00"
 }

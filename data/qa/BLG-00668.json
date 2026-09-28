@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-chua-mot-cot.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-chua-mot-cot.md",
   "content_sha256": "90b8042a70cacca2cfd97347b7d7ee55d87e073d0d07f07b14033d74e4b531b2",
-  "matrix_row_sha256": "ff76d9ca9d2d21447246698457f5297536ea319e1ae03406bdc894c450c89588",
-  "result": "PASS"
+  "matrix_row_sha256": "ce0e921ac95efc2397a9cb597f02942f7f674f5ccce37f1ecbdffecb46655d5d",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:41:57+00:00"
 }

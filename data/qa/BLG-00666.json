@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-chua-mot-cot-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-chua-mot-cot-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "645cb85550c4b916183c162a396c45795140c25b0e28af3a413b5a9350392030",
-  "matrix_row_sha256": "5d699cdc3ec95270f375df765f06f01311450d088f9f8cd8cbe8bd77ea1b8cd9",
-  "result": "PASS"
+  "matrix_row_sha256": "b3a7c00a89f855be8e06eca8c6656bcb4e15cac05ea6a1b842151875103332f4",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:41:57+00:00"
 }

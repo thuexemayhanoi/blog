@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-cau-long-bien-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-cau-long-bien-nua-ngay.md",
   "content_sha256": "5ff8ca28095f5a25553c7133b19d089cc964b85fd4795a2a68e8996f02ce8f77",
-  "matrix_row_sha256": "6bc777a676dfdff658ab9811d9259e2bc31f83a127ff0a8e99f963321183318b",
-  "result": "PASS"
+  "matrix_row_sha256": "894b6e861fe8c31ccbcdd77fa2a4e6000f8a7f22c086d016d2c09add432f10f2",
+  "result": "PASS",
+  "published_at": "2026-09-28T11:41:57+00:00"
 }
