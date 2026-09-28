@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-thang-muoi-va-ban-lac-mai-chau-nen-i-luc-nao.md",
+  "source_path": "_posts/2026-09-28-thang-muoi-va-ban-lac-mai-chau-nen-i-luc-nao.md",
   "content_sha256": "d8fc80fda40d4c81caf39a74512f487da2047457fb5b36911c777241df5990ce",
-  "matrix_row_sha256": "70db0eeba8fc7ed4181d087dd370a9f5d53925f7b57f0d5c4f581cf516cc4dff",
-  "result": "PASS"
+  "matrix_row_sha256": "482c4d914416da82ac2782eff597717087385a7d1046b96f90f6b3f2860fef90",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:53:03+00:00"
 }

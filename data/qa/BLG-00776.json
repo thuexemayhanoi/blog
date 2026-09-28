@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-may-qua-eo-thung-khe-an-toan-the-nao.md",
+  "source_path": "_posts/2026-09-28-chay-xe-may-qua-eo-thung-khe-an-toan-the-nao.md",
   "content_sha256": "c43e17709b086d42980b4f0790c6f818f03bb6a603e051d2ef0b8a2accd778d5",
-  "matrix_row_sha256": "31562e552b322a442455e98e41102917c5f838a72e0d1fee64e0248822cf721c",
-  "result": "PASS"
+  "matrix_row_sha256": "d63ada73d11d8f68d68470a0c31cbf09c755eaa90bb46418f748bd35ddf5f254",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:53:04+00:00"
 }

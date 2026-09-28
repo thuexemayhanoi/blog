@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nghi-o-mai-chau-khi-i-bang-xe-may.md",
+  "source_path": "_posts/2026-09-28-nghi-o-mai-chau-khi-i-bang-xe-may.md",
   "content_sha256": "75ff2c43027bae767d894972582ee739247e7d71edfafa41278ba34d21c68f7d",
-  "matrix_row_sha256": "7015060e381003223678cb97b3a16205a488f393c1a48a0405fb993409e38975",
-  "result": "PASS"
+  "matrix_row_sha256": "834fbfc21517104b5e21a2abf47d0222a2f776f6278da2ff5039a01c2de59674",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:53:04+00:00"
 }

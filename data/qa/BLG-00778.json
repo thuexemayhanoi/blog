@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ha-noi-i-mai-chau-bang-xe-may-chuan-bi-cung-uong.md",
+  "source_path": "_posts/2026-09-28-ha-noi-i-mai-chau-bang-xe-may-chuan-bi-cung-uong.md",
   "content_sha256": "a15260c82651a37ff5f31962454ae0146a5f3521dbb1b6ea941bf11c00aa38ec",
-  "matrix_row_sha256": "ba7a5ed75a9bae311dc21493ac69b07860d9c1ef8cea05bba67b2e5c828c537a",
-  "result": "PASS"
+  "matrix_row_sha256": "76b53a16915c7f90c8f0e6e83c723900c47ad29cba290d930669dfd10459347d",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:53:04+00:00"
 }

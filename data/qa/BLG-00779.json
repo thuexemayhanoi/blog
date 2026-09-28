@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-ha-noi-moc-chau-qua-quoc-lo-6.md",
+  "source_path": "_posts/2026-09-28-cung-ha-noi-moc-chau-qua-quoc-lo-6.md",
   "content_sha256": "41d71548b86dadf77bb6122f685e986ff9f710fe707fde3cad4154041f2c831d",
-  "matrix_row_sha256": "40bd239390c2c36f5a4c073ae54d9f020e7f6e84e59683d3253cc48165d85fc6",
-  "result": "PASS"
+  "matrix_row_sha256": "a9f4e966c4be8827357c64789c5e00ff5e352ae55418a4d6a2e74bb983457e05",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:53:04+00:00"
 }
