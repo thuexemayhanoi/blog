@@ -1,13 +1,13 @@
 {
   "article_id": "BLG-00671",
   "title": "Những lưu ý khi chạy xe quanh Bảo tàng Dân tộc học Việt Nam",
-  "scored_at": "2026-09-28T11:37:09+00:00",
+  "scored_at": "2026-09-28T11:39:34+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
     "draft_date": true,
     "slug_match": true,
-    "permalink_canonical": false,
+    "permalink_canonical": true,
     "word_count": true,
     "title_match": true,
     "description_length": true,
@@ -15,10 +15,10 @@
     "h2_min": true,
     "no_h1_in_body": true,
     "headings_intent": true,
-    "links_matrix_required": false,
+    "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "intent_opening": true,
@@ -29,21 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1028,
+  "word_count": 1044,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/du-lic/diem-den/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 90,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
+  "critical_failure": false,
   "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-bao-tang-dan-toc-hoc-viet-nam.md",
-  "content_sha256": "20b2f02e3299333806cf86c3a1897d94ec71f9368bc763eaf000616b39972282",
+  "content_sha256": "5c8858c3156ddd0d989de480bca87ae9548eb5631a8269fa4908ee67ca7f9d71",
   "matrix_row_sha256": "28a17650441443be8538c7546bdf6e76e61900b53edbab05b09ae360e3ac4b2a",
-  "result": "REPAIR"
+  "result": "PASS"
 }

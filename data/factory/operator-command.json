@@ -1,6 +1,0 @@
-{
-  "op": "qa",
-  "ids": "BLG-00665,BLG-00666,BLG-00667,BLG-00668,BLG-00669,BLG-00670,BLG-00671,BLG-00672,BLG-00673,BLG-00674",
-  "scope": "fast",
-  "note": "qa fast chunk 2 cua cycle BLG-00655-BLG-00674, sua dau thanh dau o BLG-00672"
-}
