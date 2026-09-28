@@ -143,12 +143,12 @@ _spec = _ilu.spec_from_file_location('gate_under_test', GATE)
 gate = _ilu.module_from_spec(_spec)
 _spec.loader.exec_module(gate)
 # publish-gate.py os.chdir(ROOT) lúc import — ROOT của BẢN SAO work, nên
-# tiến trình test bị kéo cwd vào work rồi bị rmtree(tmp) cuối file xóa mất
-# cwd. Dưới unittest discover (module import trước khi chạy test), điều đó
-# làm os.getcwd() của các module sau (test_operator setUp) ENOENT. Khôi
-# phục cwd về repo thật ngay sau khi nạp gate; mọi đường dẫn phía dưới
-# đều tuyệt đối nên hành vi test không đổi.
-os.chdir(ROOT)
+# cwd hiện tại là work (fixture). acquire_lock ghi sentinel/metadata theo
+# cwd: nếu chdir về repo thật ở đây, lock bị ghi vào repo THẬT (rò rỉ
+# state vào bản sao của các module sau) và meta() mất token (KeyError).
+# Giữ cwd trong work cho đến hết; khôi phục cwd về repo thật SAU
+# rmtree(tmp) cuối file để module import sau (test_operator setUp
+# os.getcwd) không ENOENT.
 
 LJ = os.path.join(work, 'data/state/writer-lock.json')
 LS = os.path.join(work, 'data/state/writer-lock.active')
@@ -204,6 +204,7 @@ assert meta()['locked'] is False, 'A2b: metadata locked=false khi release dung t
 print('PASS: A2b — release dung token: sentinel di, locked=false')
 
 shutil.rmtree(tmp)
+os.chdir(ROOT)
 print('PASS: gate từ chối thiếu bằng chứng / điểm thấp / trạng thái chưa PASS / business FAIL; '
       'dry-run không đổi dữ liệu; STALE_QA_EVIDENCE khi nội dung đổi sau QA; '
       'MATRIX_ROW_MISMATCH khi hàng đổi sau QA; writer-lock bị giữ thì từ chối.')

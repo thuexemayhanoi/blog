@@ -366,8 +366,7 @@ class TestManualProductionFlow(FxTestCase):
         r = self.operator('prepare-next', '--count', '15')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         rows = matrix_rows(self.fx)
-        self.assertEqual(len([x for x in rows i
-f x['status'] == 'WRITING']), 10)
+        self.assertEqual(len([x for x in rows if x['status'] == 'WRITING']), 10)
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
         self.assertEqual(len(cp['in_progress_chunk']), 10)
         # next_claimable nhảy đúng: 10 ID đầu (theo thứ tự id)
