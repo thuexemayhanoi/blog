@@ -1,0 +1,145 @@
+name: factory-diagnose8
+
+# Read-only diagnostic lan 8: test_fast_qa_publishes_while_full_audit_fails
+# FAIL (REPAIR != PASS) tai verify cua run #114 va diagnose7. Reproduce tung
+# buoc cua test trong fixture (copy repo, xoa drafts, pause chunk, claim 10,
+# corrupt legacy url, make_draft, qa fast) va dump FULL stdout + evidence
+# data/qa/<id>.json + matrix row de biet ly do REPAIR.
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/factory-diagnose8.yml']
+
+concurrency:
+  group: factory-diagnose8
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Reproduce
+        run: |
+          set +e
+          OUT=reports/factory/diagnose-2026-09-28-iso8.txt
+          mkdir -p reports/factory
+          {
+            echo "=== diagnose8 HEAD=$(git rev-parse HEAD) ==="
+            echo "--- don test goc -v ---"
+            python3 -m unittest scripts.factory.tests.test_qa_modes.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails -v 2>&1 | tail -n 40
+            echo "--- tung buoc trong fixture ---"
+            python3 - <<'PYEOF'
+import json, os, shutil, sys, tempfile, csv
+sys.path.insert(0, os.path.join(os.getcwd(), 'scripts/factory/tests'))
+import test_qa_modes as T
+
+base = tempfile.mkdtemp(prefix='diag8-')
+fx = os.path.join(base, 'repo')
+shutil.copytree(T.ROOT, fx, ignore=T.IGNORE)
+for fn in os.listdir(os.path.join(fx, '_drafts')):
+    os.remove(os.path.join(fx, '_drafts', fn))
+
+def py(*args):
+    import subprocess
+    return subprocess.run([sys.executable] + list(args), capture_output=True, text=True, cwd=fx)
+
+# 1) pause real chunk state (rows PASS -> PLANNED) giong pause_in_progress_chunk
+rows = T.matrix_rows(fx)
+cp = T.cp_json(fx, 'data/state/checkpoint.json')
+chunk = cp.get('in_progress_chunk') or []
+reset_ids = [r['id'] for r in rows if r['id'] in chunk and r['status'] in ('WRITING','QA','REPAIR','PASS')]
+print('chunk=', chunk)
+print('reset_ids=', reset_ids)
+for r in rows:
+    if r['id'] in reset_ids:
+        r['status'] = 'PLANNED'
+T.save_matrix(fx, rows)
+for aid in reset_ids:
+    evp = os.path.join(fx, 'data', 'qa', aid + '.json')
+    if os.path.exists(evp):
+        os.remove(evp)
+cp['in_progress_chunk'] = None
+nc = min(reset_ids) if reset_ids else None
+cur = cp.get('next_claimable_id')
+if nc and (cur is None or nc < cur):
+    cp['next_claimable_id'] = nc
+T.write_json(fx, 'data/state/checkpoint.json', cp)
+for script in ('generate-reports.py', 'generate-matrix.py', 'generate-listing-pages.py'):
+    rr = py('scripts/factory/' + script)
+    print('gen', script, rr.returncode, (rr.stdout + rr.stderr)[-300:] if rr.returncode else 'ok')
+
+# 2) prepare-next 10
+r = py('scripts/factory/factory-operator.py', 'prepare-next', '--count', '10')
+print('prepare-next rc=', r.returncode)
+print(r.stdout[-1500:])
+print(r.stderr[-800:])
+
+# 3) corrupt legacy url
+T.corrupt_legacy_url(fx)
+r = py('scripts/factory/validate.py', '--scope', 'full')
+print('validate full rc=', r.returncode)
+
+# 4) draft cho hang WRITING dau tien
+row = T.first_writing(fx)
+print('row id=', row['id'], 'keyword=', row['primary_keyword'], 'canonical=', row['canonical_url'], 'output_path=', row['output_path'])
+T.set_word_target(fx, row['id'], 100)
+draft = T.make_draft(fx, row)
+print('draft=', draft)
+text = open(draft, encoding='utf-8').read()
+print('draft word count ~=', len(text.split()))
+
+# 5) qa fast
+r = py('scripts/factory/factory-operator.py', 'qa', '--scope', 'fast', '--ids', row['id'])
+print('qa rc=', r.returncode)
+print('--- qa stdout FULL ---')
+print(r.stdout)
+print('--- qa stderr ---')
+print(r.stderr[-3000:])
+
+# 6) evidence
+evp = os.path.join(fx, 'data', 'qa', row['id'] + '.json')
+if os.path.exists(evp):
+    print('--- evidence', row['id'], '---')
+    print(open(evp, encoding='utf-8').read())
+rows = T.matrix_rows(fx)
+for x in rows:
+    if x['id'] == row['id']:
+        print('--- matrix row sau qa ---')
+        print(json.dumps(x, ensure_ascii=False, indent=1))
+shutil.rmtree(base, ignore_errors=True)
+
+PYEOF
+            echo "=== end diagnose8 ==="
+          } > "$OUT" 2>&1
+
+      - name: Commit chi file output diagnose
+        run: |
+          set -eu
+          OUT=reports/factory/diagnose-2026-09-28-iso8.txt
+          git config user.name "factory-diagnose-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git checkout -- . || true
+          git clean -fd scripts data _drafts _posts reports/factory/rows || true
+          git pull --rebase origin main
+          git add "$OUT"
+          git commit -m "factory-diagnose8: reproduce REPAIR cua test_fast_qa voi full evidence (read-only, temporary)"
+          ok=0
+          for i in 1 2 3; do
+            if git pull --rebase origin main && git push; then ok=1; break; fi
+            sleep 5
+          done
+          if [ "$ok" != "1" ]; then echo "push khong thanh cong sau 3 lan"; exit 1; fi
