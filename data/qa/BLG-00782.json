@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-may-moc-chau-trong-2-ngay.md",
+  "source_path": "_posts/2026-09-28-chay-xe-may-moc-chau-trong-2-ngay.md",
   "content_sha256": "686bbc5c2ea9318d282f470df89c40d5525ea8a7908bc96cb888baae2d1cd98e",
-  "matrix_row_sha256": "4be15340c3fc21b7f0f397a99420908cc426313e16e89ed1b41f204a30b430db",
-  "result": "PASS"
+  "matrix_row_sha256": "b58019b37a4d4d2a936b46c375d49c376be0bc552d2dc24c7b72f79a83799246",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:59:15+00:00"
 }

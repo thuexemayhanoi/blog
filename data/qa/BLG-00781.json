@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-oi-che-moc-chau-va-canh-ong-nghien.md",
+  "source_path": "_posts/2026-09-28-oi-che-moc-chau-va-canh-ong-nghien.md",
   "content_sha256": "8d9f8f762cc195398af6c8c1826f2e21200d798f2af812e0aac38d630658a920",
-  "matrix_row_sha256": "beedd2e1c861220839951431bbf3d7364d0c0f302cc824ad415e5a4aab4bac47",
-  "result": "PASS"
+  "matrix_row_sha256": "4a719314520df379c992cb72147f2530b4dcd550e5b1c08f2a982ac874de6b04",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:59:15+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ha-noi-i-moc-chau-bang-xe-may-mua-hoa-len-uong-luc-nao.md",
+  "source_path": "_posts/2026-09-28-ha-noi-i-moc-chau-bang-xe-may-mua-hoa-len-uong-luc-nao.md",
   "content_sha256": "aa3593b2b4ac24aaaf36d09cf467691ea0f948419ccde9ef469cccce0444e3cb",
-  "matrix_row_sha256": "82011cad9895a106f05f6536415d49b11ac214ee953a3bd9352e022d07d3b903",
-  "result": "PASS"
+  "matrix_row_sha256": "e6ad99bbe23d06bd00d8bb1311e985cb16a0eed1d1e1203e63925d455346b371",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:59:15+00:00"
 }

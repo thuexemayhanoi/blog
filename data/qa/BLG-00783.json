@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-eo-doc-tren-uong-moc-chau-va-cach-vao-so.md",
+  "source_path": "_posts/2026-09-28-eo-doc-tren-uong-moc-chau-va-cach-vao-so.md",
   "content_sha256": "db6d60fb51e93d9b40f002768804ec674f133ee1ed4892132eaaffd466642f7a",
-  "matrix_row_sha256": "359b67351a5c9d7d551d0116c16c907759037e45fce6fa1c16735a796b25ddcd",
-  "result": "PASS"
+  "matrix_row_sha256": "dfdd1f66a336ed69a772997806987798b6e15f2080935f0a331a017fdbd40c11",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:59:15+00:00"
 }

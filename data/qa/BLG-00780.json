@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-moc-chau-mua-hoa-man-trang-i-thang-may.md",
+  "source_path": "_posts/2026-09-28-moc-chau-mua-hoa-man-trang-i-thang-may.md",
   "content_sha256": "6e5cacff3551d3e5909e6ccf95c1e03da08cdf7f63f5bbbbd7aa08b5d7789cfb",
-  "matrix_row_sha256": "e37f18ac9c620006d82b49d683b11247a57d7a7cd85e2da48598b1431d9c1463",
-  "result": "PASS"
+  "matrix_row_sha256": "cdaa1fd9473c274e242a8f38be8834e17dca67b3de51a0f1b2a6ba5b46bd08e3",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:59:14+00:00"
 }
