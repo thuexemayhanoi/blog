@@ -1,6 +1,0 @@
-{
-  "op": "prepare-next",
-  "count": 10,
-  "scope": "fast",
-  "note": "claim chunk 2 of cycle BLG-00635..00654 after chunk 1 published (c5b653a)"
-}

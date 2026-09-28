@@ -1,0 +1,145 @@
+{
+  "article_id": "BLG-00652",
+  "status": "WRITING",
+  "title": "Quy định mới về xe máy cần biết",
+  "intent": "Nắm quy định giao thông hiện hành cho xe máy",
+  "primary_keyword": "quy định về xe máy",
+  "secondary_keywords": [
+    "luật đường bộ xe máy",
+    "quy định hiện hành"
+  ],
+  "group": "PHAP-LY",
+  "taxonomy": {
+    "parent_id": "P-PHAP-LY",
+    "parent_hub": "An toàn & pháp lý",
+    "parent_hub_url": "/blog/an-toan-phap-ly/",
+    "child_id": "C-QUY-DINH",
+    "child_hub": "Quy định giao thông",
+    "child_hub_url": "/blog/an-toan-phap-ly/quy-dinh-giao-thong/"
+  },
+  "expected_url": "/blog/an-toan-phap-ly/2026/09/28/quy-inh-moi-ve-xe-may-can-biet/",
+  "output_path": "_posts/{date}-quy-inh-moi-ve-xe-may-can-biet.md",
+  "draft_path": "_drafts/2026-09-28-quy-inh-moi-ve-xe-may-can-biet.md",
+  "canonical_url": "/blog/an-toan-phap-ly/2026/09/28/quy-inh-moi-ve-xe-may-can-biet/",
+  "internal_links_matrix": [
+    "/blog/an-toan-phap-ly/quy-dinh-giao-thong/"
+  ],
+  "commercial_intent": "none",
+  "cannibalization_key": "quy inh ve xe may",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": true,
+  "legal_risk": "high",
+  "research_class": "C",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00020",
+      "title": "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng",
+      "url": "/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/"
+    },
+    {
+      "id": "BLG-00059",
+      "title": "Bảo hiểm cho người thuê xe máy ở Hà Nội: những điều cần hiểu rõ",
+      "url": "/blog/kinh nghiệm/2026/09/19/bao-hiem-cho-nguoi-thue-xe-may-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00060",
+      "title": "Xe lún mềm bất thường sau mưa to",
+      "url": "/blog/kinh nghiệm/2026/09/19/bao-hiem-lun-mam-xe-sau-mua-to/"
+    },
+    {
+      "id": "BLG-00062",
+      "title": "Bảo vệ giấy tờ và tài liệu khỏi mưa khi đi xe máy ở Hà Nội",
+      "url": "/blog/kinh nghiệm/2026/09/19/bao-ve-giay-to-khoi-mua-khi-di-xe-may/"
+    },
+    {
+      "id": "BLG-00064",
+      "title": "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì",
+      "url": "/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00065",
+      "title": "Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì",
+      "url": "/blog/kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/"
+    },
+    {
+      "id": "BLG-00066",
+      "title": "Bị phạt nguội qua camera giữa kỳ thuê",
+      "url": "/blog/kinh nghiệm/2026/09/19/bi-phat-nguoi-qua-camera-giua-ky-thue/"
+    },
+    {
+      "id": "BLG-00068",
+      "title": "Biển báo giao thông thường gặp khi đi trong phố",
+      "url": "/blog/kinh nghiệm/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 90,
+    "seo_min": 90,
+    "business_fact": "PASS",
+    "legal": "PASS"
+  },
+  "matrix_row_sha256": "7620348e16776866c1232714cae5d32ef9591267f386ce466ca42e03a2558693",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
