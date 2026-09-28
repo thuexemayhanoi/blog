@@ -55,6 +55,7 @@ import re
 import shutil
 import subprocess
 import sys
+import urllib.parse
 import uuid
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -217,16 +218,28 @@ def research_class(row, tax):
 
 # ---------------------------------------------------------------- manifests
 
+def public_url(url):
+    """URL công khai chính xác như site phục vụ (đồng nhất sitemap):
+    percent-encode khoảng trắng/Unicode, KHÔNG đổi slug. URL legacy
+    (ví dụ /blog/du lịch/2026/09/13/...) chỉ được encode — tuyệt đối
+    không tự viết lại thành /du-lich/ khi route đó không tồn tại."""
+    return urllib.parse.quote(url or '', safe='/:')
+
+
 def related_published(rows, row):
     out = []
+    seen = set()
     for r in rows:
         if r['id'] == row['id']:
             continue
         if r['status'] not in ('PUBLISHED', 'EXISTING'):
             continue
         if r['child_id'] == row['child_id'] or r['parent_id'] == row['parent_id']:
-            out.append({'id': r['id'], 'title': r['title'],
-                        'url': r['expected_url']})
+            url = public_url(r['expected_url'])
+            if url in seen:
+                continue
+            seen.add(url)
+            out.append({'id': r['id'], 'title': r['title'], 'url': url})
     return out[:8]
 
 
@@ -393,7 +406,11 @@ def canonical_routes():
                        r'(?::(\d{2}))?\s*([+-]\d{2})(\d{2})?', head, re.M)
         if not (cm and dm):
             continue
-        cat = re.sub(r'^categories:\s*\[\s*|\s*\]\s*$', '', cm.group(0)).strip()
+        # Jekyll lowercase category khi sinh URL (/kinh nghiệm/, /du lịch/)
+        # — không lowercase thì route truth lệch HOA/thường so với
+        # inventory/sitemap công khai và mọi link tới bài legacy FAIL.
+        cat = re.sub(r'^categories:\s*\[\s*|\s*\]\s*$', '',
+                     cm.group(0)).strip().lower()
         y, mo, d = dm.group(1), dm.group(2), dm.group(3)
         slug = fn[11:-3]
         base = '%s/%s/' % (BASEURL, cat)
@@ -422,7 +439,11 @@ def link_route_ok(link):
         canonical_routes()   # khởi tạo BASEURL + route truth lần đầu
     if not link.startswith(BASEURL + '/'):
         return False
-    route = link.split('#', 1)[0]
+    route = link.split('#', 1)[0].strip()
+    # URL legacy chứa khoảng trắng/Unicode: writer có thể viết dạng raw
+    # (/blog/du lịch/...) hoặc dạng percent-encoded (/blog/du%20l%E1%BB%8Bch/)
+    # — cả hai trỏ cùng một route thật; decode trước khi đối chiếu.
+    route = urllib.parse.unquote(route)
     if not route.endswith('/'):
         route += '/'
     return route in canonical_routes()
@@ -467,7 +488,15 @@ def internal_links_in(body):
     # cho phép neo # (anchor): matrix có liên kết bắt buộc dạng
     # /bang-gia/#tinh-gia — regex cũ loại '#' khiến QA không bao giờ thấy
     # liên kết này, dù trang đích tồn tại và hợp lệ.
-    return re.findall(r'\]\((/[^)\s]+)\)', body)
+    # URL legacy còn chứa khoảng trắng/Unicode thô (/blog/du lịch/...):
+    # phải thấy được liên kết đó thay vì bỏ qua (QA mù link thật).
+    # Title markdown (](url "tiêu đề")) bị tách trước khi đối chiếu.
+    links = []
+    for m in re.findall(r'\]\((/[^)]+)\)', body):
+        m = m.split(' "')[0].strip()
+        if m:
+            links.append(m)
+    return links
 
 
 def qa_check_one(row, rows, biz, tax):
@@ -1084,18 +1113,42 @@ def op_recover(args):
     return 1
 
 
+# Kiểm tra engine theo mức (docs/PROC-PUBLISH.md "QA modes").
+# fast = đủ cho từng chunk sản xuất: gate + operator + refill-safety
+# (nhẹ, không copy toàn repository). Các suite copy toàn repo
+# (link integrity, qa modes) chỉ chạy ở deep/full để FAST không bị
+# kẹt bởi kiểm tra toàn hệ thống. KHÔNG hạ ngưỡng, KHÔNG bỏ kiểm tra
+# hash/transaction/lock/refresh dữ liệu.
+VERIFY_TESTS_FAST = [
+    'scripts/factory/tests/test_publish_gate.py',
+    'scripts/factory/tests/test_operator.py',
+    'scripts/factory/tests/test_refill_safety.py',
+]
+VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
+    'scripts/factory/tests/test_link_integrity.py',
+    'scripts/factory/tests/test_qa_modes.py',
+]
+
+
+def verify_steps(mode):
+    """Danh sách lệnh kiểm tra cho op verify theo mức fast/deep/full.
+    full giữ NGUYÊN danh mục cũ (validate full + mọi test engine)."""
+    vscope = validate_scope_for_mode(mode) if mode in QA_MODES else mode
+    steps = [['scripts/factory/validate.py', '--scope', vscope],
+             ['scripts/factory/capacity-audit.py']]
+    if mode == 'fast':
+        tests = VERIFY_TESTS_FAST
+    else:
+        tests = VERIFY_TESTS_DEEP
+    steps += [[t] for t in tests]
+    steps.append(['scripts/factory/queue.py', '--stats'])
+    return steps
+
+
 def op_verify(args):
     mode = getattr(args, 'scope', None) or 'full'
     vscope = validate_scope_for_mode(mode) if mode in QA_MODES else mode
-    steps = [
-        ['scripts/factory/validate.py', '--scope', vscope],
-        ['scripts/factory/capacity-audit.py'],
-        ['scripts/factory/tests/test_publish_gate.py'],
-        ['scripts/factory/tests/test_refill_safety.py'],
-        ['scripts/factory/tests/test_operator.py'],
-        ['scripts/factory/tests/test_link_integrity.py'],
-        ['scripts/factory/tests/test_qa_modes.py'],
-    ]
+    steps = verify_steps(mode)
     failed = []
     for cmd in steps:
         r = subprocess.run([sys.executable] + cmd, capture_output=True, text=True)
@@ -1103,9 +1156,6 @@ def op_verify(args):
         print(r.stdout[-800:])
         if r.returncode != 0:
             failed.append(' '.join(cmd))
-    r = subprocess.run([sys.executable, 'scripts/factory/queue.py', '--stats'],
-                       capture_output=True, text=True)
-    print(r.stdout)
     if failed:
         print('verify: FAIL ở %s (mode=%s)' % (failed, mode))
         return 1

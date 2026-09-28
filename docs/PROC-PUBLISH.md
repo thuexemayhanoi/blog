@@ -42,7 +42,7 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 | `publish` | promote HÀNG PASS qua publish-gate.py | KHÔNG cơ chế promote thứ hai |
 | `recover` | phục hồi transaction treo | ownership không rõ → STOP |
 | `requeue` | REPAIR/FAIL → WRITING | tôn trọng budget repair (3) |
-| `verify` | validate + capacity-audit + queue + tests | `--scope fast\|deep\|full` (mặc định full); fast = validate chunk |
+| `verify` | validate + capacity-audit + queue + tests theo mức | `--scope fast\|deep\|full` (mặc định full); fast = validate chunk + test gate/operator/refill-safety; deep thêm test link integrity + qa modes |
 | `refill` | chỉ khi dưới ngưỡng, chạy refill-queue.py | lazy capacity 10K |
 | `reports` | sinh reports/factory chuẩn | generate-reports.py |
 | `release-chunk` | trả chunk WRITING chưa có draft về PLANNED | pause an toàn; hàng có draft/QA evidence được giữ nguyên |
@@ -65,9 +65,11 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 
 ## Quy trình một chunk
 
-1. Preflight (mỗi run): checkout main → đọc lệnh → `validate.py` →
-   `operator.py status` → `recover` (nếu transaction treo; ownership không
-   rõ → STOP).
+1. Preflight (mỗi run): checkout main → đọc lệnh → `operator.py status` →
+   `recover` TRƯỚC (nếu transaction treo; ownership không rõ → STOP).
+   KHÔNG chạy validate toàn site trước recover — khi transaction đang treo,
+   validate FAIL sẽ chặn recover mãi (deadlock). Mỗi op mutating tự
+   preflight `validate.py` theo scope của lệnh (mặc định chunk).
 2. `prepare-next` (count=5): engine từ chối nếu còn hàng WRITING/QA/
    REPAIR/PASS chưa xong; claim đúng từ `checkpoint.next_claimable_id`;
    chỉ nhận PLANNED; REVIEW/BLOCKED luôn được bảo vệ.
@@ -83,7 +85,8 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 6. Push lệnh `{"op":"publish","ids":"..."}`: từng hàng PASS qua
    `publish-gate.py` (lock + hash + transaction chuẩn) promote
    `_drafts/` → `_posts/`, chốt ngày thật vào URL, cập nhật matrix +
-   checkpoint; sau đó sinh reports + `verify`.
+   checkpoint; sau đó sinh reports + `verify` theo scope của lệnh
+   (lệnh sản xuất mặc định fast — xem QA modes bên dưới).
 7. Chờ CI xanh trên đúng HEAD (Factory validate + Factory capacity
    validate + Pages) và kiểm tra live URL 200 + sitemap.
 
@@ -118,6 +121,24 @@ matrix hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
   disabled. Bật hourly chỉ sau quyết định riêng của chủ xe.
 
 
+
+## Một coordinator duy nhất & vòng đời lệnh (chống lệnh chồng nhau)
+
+- Tại một thời điểm CHỈ MỘT coordinator được đẩy lệnh sản xuất vào
+  `data/factory/operator-command.json`. KHÔNG ghi đè file lệnh khi lệnh
+  trước chưa được tiêu thụ (run trước chưa commit xóa lệnh).
+- Trước khi dispatch lệnh mới: xác nhận run trước đã completed và ĐỌC LẠI
+  `data/state/checkpoint.json` (next_claimable_id, in_progress_chunk) —
+  không suy diễn từ bộ nhớ hội thoại.
+- Trường hợp `command_id` (tùy chọn, dạng `[A-Za-z0-9._-]{1,64}`) và
+  `coordinator` (tùy chọn): ghi vào lệnh để truy vết; commit output mang
+  theo command_id khi có.
+- Workflow chỉ serialized theo concurrency group; nếu vẫn có lệnh mới đến
+  giữa run, rebase CHỈ hòa giải conflict duy nhất trên chính file lệnh
+  (giữ lệnh mới của origin để run của nó tiêu thụ); conflict file khác
+  vẫn STOP, KHÔNG force push. Push chỉ fast-forward, rebase xong phải
+  verify lại trên trạng thái đã rebase.
+
 ## QA modes — FAST / DEEP / FULL (sản xuất thủ công, không tự lặp)
 
 Factory KHÔNG tự điều phối: không self-dispatch, không vòng lặp Actions
@@ -134,6 +155,13 @@ Tương đương qua operator: `{"op":"qa","ids":"...","scope":"fast"}` và
 `python3 scripts/factory/validate.py --scope chunk|batch|full`.
 
 ### FAST (mặc định — QA sản xuất mỗi chunk 10 bài)
+
+Mặc định FAST áp dụng NHẤT QUÁN cho lệnh sản xuất `prepare-next` / `qa` /
+`publish` ở CẢ preflight lẫn verify cuối run của factory-operator.yml:
+lệnh không chỉ định `scope` thì workflow tự đặt `scope=fast`. Chỉ khi
+người vận hành chỉ định rõ `deep`/`full` trong lệnh thì mới chạy mức đó.
+Op `verify` đứng riêng vẫn mặc định full. FULL giữ cho thay đổi
+engine/workflow và kiểm tra cuối đợt sửa.
 
 - QA deterministic TỪNG BÀI của chunk hiện tại: cấu trúc, frontmatter,
   H1/H2, title, meta description, canonical/permalink, taxonomy, link

@@ -26,7 +26,10 @@ production chi khi pilot 5/5 PASS va duoc phe duyet rieng.
 ```
 START
 → fetch HEAD main mới nhất
-→ chạy validate.py (exit 0 mới được tiếp tục)
+→ recover transaction nếu treo (TRƯ�C validate — validate FAIL khi
+  transaction treo sẽ chặn recover, tạo deadlock)
+→ chạy validate.py theo scope lệnh (lệnh sản xuất mặc định fast/chunk;
+  exit 0 mới được tiếp tục)
 → mua khóa ghi (writer lock, O_EXCL: data/state/writer-lock.active)
 → phục hồi transaction nếu active (recover)
 → đọc checkpoint (next_claimable_id) + matrix
@@ -43,6 +46,18 @@ START
 → nhả khóa
 → báo cáo
 ```
+
+## 1b. Mức kiểm tra theo lệnh (FAST/DEEP/FULL)
+
+- Lệnh sản xuất prepare-next/qa/publish mặc định FAST ở CẢ preflight và
+  verify cuối run; người vận hành chỉ định rõ deep/full khi cần soát rộng.
+- FAST vẫn giữ nguyên mọi ngưỡng và bằng chứng (quality/seo >= 90,
+  business_fact/legal PASS-FAIL, hash QA gắn nội dung, publish gate,
+  lock, transaction) — chỉ PHẠM VI validate nền tảng hẹp theo chunk.
+- FULL dùng cho: thay đổi engine/workflow, kiểm tra cuối đợt sửa, kiểm tra
+  định kỳ. KHÔNG bỏ publish gate, KHÔNG bỏ kiểm tra hash/transaction/lock.
+- Một coordinator duy nhất mỗi thời điểm; KHÔNG ghi đè operator-command.json
+  khi lệnh trước chưa được tiêu thụ (chi tiết: docs/PROC-PUBLISH.md).
 
 ## 2. Kích thước
 

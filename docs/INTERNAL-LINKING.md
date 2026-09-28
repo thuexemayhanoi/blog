@@ -30,6 +30,21 @@ bài mới
 - Xử lý các cơ hội reverse-link trong các đợt bảo trì có kiểm soát (maintenance batch nhỏ, có QA).
 - KHÔNG viết lại hàng trăm bài cũ một lúc; không tự động sửa hàng loạt bài published.
 
+## URL legacy chứa Unicode/khoảng trắng
+
+Một số URL bài legacy chứa khoảng trắng và chữ Việt chưa mã hoá, ví dụ
+`/blog/du lịch/2026/09/13/...` hay `/blog/kinh nghiệm/...` (URL thật,
+Jekyll lowercase category). Quy tắc:
+
+- Manifest (`internal_link_candidates`) cung cấp sẵn URL dạng
+  percent-encoded CHÍNH XÁC như site phục vụ (đồng nhất sitemap), ví dụ
+  `/blog/du%20l%E1%BB%8Bch/2026/09/13/...`. Writer dùng nguyên văn URL
+  này — KHÔNG bỏ phần mã hoá, KHÔNG tự viết lại thành `/du-lich/` khi
+  route đó không tồn tại.
+- QA (`links_routes_valid`) chấp nhận cả hai dạng: raw và percent-encoded,
+  nhưng LUÔN từ chối URL trỏ route không tồn tại (ví dụ tự bịa
+  `/blog/du-lich/...`). URL bài đã xuất bản KHÔNG được đổi.
+
 ## Kiểm soát chất lượng
 
 - Liên kết phải phục vụ người đọc, không phục vụ SEO cơ học.
