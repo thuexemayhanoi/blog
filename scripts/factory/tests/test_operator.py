@@ -206,5 +206,50 @@ class OperatorQATest(unittest.TestCase):
         self.assertEqual(op.norm_title('Giá thuê xe máy! '), 'giá thuê xe máy')
 
 
+
+class VerifyStepsTest(unittest.TestCase):
+    """verify_steps tách kiểm tra cần thiết mỗi chunk (FAST) khỏi kiểm tra
+    toàn hệ thống (DEEP/FULL). FAST không chạy suite copy toàn repository
+    (test_link_integrity, test_qa_modes); FULL giữ nguyên danh mục cũ
+    (validate full + mọi test engine + capacity-audit + queue)."""
+
+    def test_fast_steps_are_chunk_scoped(self):
+        steps = op.verify_steps('fast')
+        self.assertEqual(steps[0],
+                         ['scripts/factory/validate.py', '--scope', 'chunk'])
+        tests = [s[0] for s in steps
+                 if s[0].startswith('scripts/factory/tests/')]
+        self.assertNotIn('scripts/factory/tests/test_link_integrity.py', tests)
+        self.assertNotIn('scripts/factory/tests/test_qa_modes.py', tests)
+        self.assertIn('scripts/factory/tests/test_publish_gate.py', tests)
+        self.assertIn('scripts/factory/tests/test_workflow_syntax.py', tests)
+        self.assertIn(['scripts/factory/capacity-audit.py'], steps)
+        self.assertIn(['scripts/factory/queue.py', '--stats'], steps)
+
+    def test_full_keeps_whole_catalogue(self):
+        steps = op.verify_steps('full')
+        self.assertEqual(steps[0],
+                         ['scripts/factory/validate.py', '--scope', 'full'])
+        tests = sorted(s[0] for s in steps
+                       if s[0].startswith('scripts/factory/tests/'))
+        self.assertEqual(tests, sorted([
+            'scripts/factory/tests/test_publish_gate.py',
+            'scripts/factory/tests/test_operator.py',
+            'scripts/factory/tests/test_refill_safety.py',
+            'scripts/factory/tests/test_workflow_syntax.py',
+            'scripts/factory/tests/test_link_integrity.py',
+            'scripts/factory/tests/test_qa_modes.py',
+            'scripts/factory/tests/test_publish_flow.py',
+            'scripts/factory/tests/test_push_rebase_overlap.py',
+        ]))
+        self.assertIn(['scripts/factory/capacity-audit.py'], steps)
+        self.assertIn(['scripts/factory/queue.py', '--stats'], steps)
+
+    def test_deep_maps_to_batch(self):
+        steps = op.verify_steps('deep')
+        self.assertEqual(steps[0],
+                         ['scripts/factory/validate.py', '--scope', 'batch'])
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)

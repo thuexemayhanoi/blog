@@ -12,6 +12,21 @@ name: Factory Operator
 # enabled=false trong _data/publishing.yml). Khong cron: chay theo
 # lenh, khong theo lich.
 #
+# MUC FAST MAC DINH CHO LENH SAN XUAT (docs/PROC-PUBLISH.md "QA modes"):
+# prepare-next / qa / publish mac dinh FAST o CA preflight va verify — chi
+# khi lenh chi dinh ro scope khac thi moi chay deep/full. Op verify rieng
+# van mac dinh full. FULL danh cho thay doi engine/workflow va kiem tra
+# cuoi dot. KHONG ha nguong QA, KHONG bo publish gate, KHONG bo kiem tra
+# hash/transaction/lock.
+#
+# MOT COORDINATOR DUY NHAT (docs/PROC-PUBLISH.md): tai mot thoi diem chi
+# mot coordinator duoc day lenh san xuat vao data/factory/operator-command.json.
+# KHONG ghi de file lenh khi lenh truoc chua duoc tieu thu; phai cho run
+# truoc completed va doc lai checkpoint truoc khi dispatch lenh moi. Neu
+# van co lenh moi den giua run: rebase chi hoa giai duy nhat conflict tren
+# chinh file lenh (giu lenh moi cua origin), conflict khac van STOP,
+# KHONG force push.
+#
 # HOP DONG XAC THUC HEAD CUOI (final-head verification):
 # - Commit cua bot (GITHUB_TOKEN) KHONG kich hoat cac push workflow
 #   khac (Factory validate / capacity). Vi vay moi operator mutation
@@ -72,27 +87,35 @@ jobs:
             const cmd = JSON.parse(fs.readFileSync("data/factory/operator-command.json", "utf8"));
             const OPS = ["status","prepare-next","qa","publish","release-chunk","recover","requeue","verify","refill","reports"];
             const SCOPES = ["fast","deep","full"];
+            const PRODUCTION_OPS = ["prepare-next","qa","publish"];
             if (!OPS.includes(cmd.op)) { console.error("unsupported op: " + cmd.op); process.exit(1); }
             if (cmd.ids && !/^[A-Z0-9,-]+$/.test(cmd.ids)) { console.error("bad ids"); process.exit(1); }
             if (cmd.count !== undefined && (!Number.isInteger(cmd.count) || cmd.count < 1 || cmd.count > 10)) { console.error("bad count"); process.exit(1); }
             if (cmd.scope !== undefined && !SCOPES.includes(cmd.scope)) { console.error("bad scope"); process.exit(1); }
+            if (cmd.command_id !== undefined && !/^[A-Za-z0-9._-]{1,64}$/.test(String(cmd.command_id))) { console.error("bad command_id"); process.exit(1); }
+            if (cmd.coordinator !== undefined && typeof cmd.coordinator !== "string") { console.error("bad coordinator"); process.exit(1); }
+            // MUC FAST MAC DINH CHO LENH SAN XUAT: prepare-next/qa/publish
+            // mac dinh fast (validate scope chunk + verify fast). Chi khi
+            // nguoi van hanh chi dinh ro scope khac thi dung muc do. Op
+            // khac (verify/recover/...) giu mac dinh cu cua engine.
+            const effectiveScope = cmd.scope || (PRODUCTION_OPS.includes(cmd.op) ? "fast" : "");
             fs.appendFileSync(process.env.GITHUB_ENV, "OP=" + cmd.op + "\n");
             fs.appendFileSync(process.env.GITHUB_ENV, "IDS=" + (cmd.ids || "") + "\n");
             fs.appendFileSync(process.env.GITHUB_ENV, "COUNT=" + (cmd.count || "") + "\n");
-            fs.appendFileSync(process.env.GITHUB_ENV, "SCOPE=" + (cmd.scope || "") + "\n");
-            // scope validate: fast->chunk, deep->batch, mac dinh full
-            const VSC = cmd.scope === "fast" ? "chunk" : cmd.scope === "deep" ? "batch" : "full";
-            fs.appendFileSync(process.env.GITHUB_ENV, "VALIDATE_SCOPE=" + VSC + "\n");
+            fs.appendFileSync(process.env.GITHUB_ENV, "SCOPE=" + effectiveScope + "\n");
+            fs.appendFileSync(process.env.GITHUB_ENV, "COMMAND_ID=" + (cmd.command_id || "") + "\n");
           '
-          echo "operator command accepted (op/ids/count export cho cac step sau)"
-
-      - name: Preflight - engine invariant (khong bao gio bypass, theo scope lenh)
-        run: python3 scripts/factory/validate.py --scope ${VALIDATE_SCOPE}
+          echo "operator command accepted (op/ids/count/scope export cho cac step sau)"
 
       - name: Preflight - trang thai engine read-only
         run: python3 scripts/factory/factory-operator.py status
 
-      - name: Preflight - recover transaction neu treo
+      # Recover TRUOC moi op: buoc validate-full truoc recover la deadlock
+      # (transaction treo -> validate FAIL -> recover khong bao gio chay).
+      # factory-operator.py recover tu kiem tra lock/transaction, tu STOP
+      # khi ownership khong ro. Moi op mutating tu preflight (scope chunk)
+      # ben trong factory-operator.py.
+      - name: Recover transaction neu treo
         run: |
           code=0
           python3 scripts/factory/factory-operator.py recover || code=$?
@@ -110,9 +133,9 @@ jobs:
         if: env.OP == 'prepare-next'
         run: |
           if [ -n "$COUNT" ]; then
-            python3 scripts/factory/factory-operator.py prepare-next --count "$COUNT"
+            python3 scripts/factory/factory-operator.py prepare-next --count "$COUNT" ${SCOPE:+--scope $SCOPE}
           else
-            python3 scripts/factory/factory-operator.py prepare-next
+            python3 scripts/factory/factory-operator.py prepare-next ${SCOPE:+--scope $SCOPE}
           fi
 
       - name: op qa
@@ -129,7 +152,7 @@ jobs:
         run: |
           set -eu
           if [ -z "$IDS" ]; then echo "::error::publish requires ids"; exit 1; fi
-          python3 scripts/factory/factory-operator.py publish --ids "$IDS"
+          python3 scripts/factory/factory-operator.py publish --ids "$IDS" ${SCOPE:+--scope $SCOPE}
 
       - name: op requeue
         if: env.OP == 'requeue'
@@ -148,7 +171,7 @@ jobs:
 
       - name: op verify
         if: env.OP == 'verify'
-        run: python3 scripts/factory/factory-operator.py verify
+        run: python3 scripts/factory/factory-operator.py verify ${SCOPE:+--scope $SCOPE}
 
       - name: op refill
         if: env.OP == 'refill'
@@ -194,7 +217,7 @@ jobs:
             echo "khong co gi de commit"
             exit 0
           fi
-          git commit -m "factory-operator: ${OP} (deterministic outputs of canonical tooling only)"
+          git commit -m "factory-operator: ${OP}${COMMAND_ID:+ command ${COMMAND_ID}} (deterministic outputs of canonical tooling only)"
           if [ "$(git rev-parse HEAD^{tree})" != "$OPERATOR_VERIFIED_TREE" ]; then
             echo "::error::cay commit khac cay da verified — DUNG, khong push"
             exit 1
@@ -210,9 +233,26 @@ jobs:
             echo "::warning::origin/main doi giua chan (lan $i) — fetch, rebase roi VERIFY LAI toan bo trang thai rebase"
             git fetch origin main
             if ! git rebase origin/main; then
-              git rebase --abort || true
-              echo "::error::rebase conflict — STOP, KHONG force push; resume lan chay sau tu repository truth"
-              exit 1
+              # Chi mot truong hop duoc hoa giai deterministic: conflict
+              # DUY NHAT tren data/factory/operator-command.json. Run nay
+              # da xu ly lenh cu (commit cua run xoa file lenh); origin mang
+              # lenh MOI chua dispatch -> giu nguyen lenh moi cua origin
+              # (se duoc run cua no tieu thu). Conflict bat ky o file khac
+              # van STOP, KHONG force push.
+              CONFLICTS=$(git diff --name-only --diff-filter=U || true)
+              OTHER=""
+              if echo "$CONFLICTS" | grep -v '^data/factory/operator-command.json$' | grep -q .; then
+                OTHER="yes"
+              fi
+              if [ -n "$CONFLICTS" ] && [ -z "$OTHER" ]; then
+                git show origin/main:data/factory/operator-command.json > data/factory/operator-command.json
+                git add data/factory/operator-command.json
+                GIT_EDITOR=true git rebase --continue
+              else
+                git rebase --abort || true
+                echo "::error::rebase conflict — STOP, KHONG force push; resume lan chay sau tu repository truth"
+                exit 1
+              fi
             fi
             echo "OPERATOR_LOCAL_VERIFY_HEAD_POST_REBASE=$(git rev-parse HEAD)"
             python3 scripts/factory/factory-operator.py verify ${SCOPE:+--scope $SCOPE}

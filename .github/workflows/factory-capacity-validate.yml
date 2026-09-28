@@ -38,6 +38,9 @@ jobs:
       - name: Queue stats (view over matrix)
         run: python3 scripts/factory/queue.py --stats
 
+      - name: Workflow shell syntax (bash -n mọi khối run:)
+        run: python3 scripts/factory/tests/test_workflow_syntax.py
+
       - name: Refill verification (pure, read-only)
         run: |
           set -e

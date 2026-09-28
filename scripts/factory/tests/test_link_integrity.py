@@ -318,6 +318,27 @@ class QaRouteEvidence(unittest.TestCase):
         self.assertIn('/blog/khong-ton-tai-route-xyz/', ev['bad_routes'])
         self.assertNotIn('/blog/bang-gia/#tinh-gia', ev['bad_routes'])
 
+    def test_r7d_legacy_unicode_links_pass(self):
+        # link tới bài legacy (URL chứa khoảng trắng/Unicode, percent-encoded
+        # đúng như site phục vụ) PHẢI PASS links_routes_valid
+        r, ev = self._qa([
+            '/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
+            '/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/',
+            '/blog/lien-he/', '/blog/thue-xe/'])
+        self.assertEqual(ev['checks']['links_routes_valid'], True)
+        self.assertEqual(ev['bad_routes'], [])
+
+    def test_r7e_ascii_rewritten_legacy_link_fails(self):
+        # writer tự đổi /kinh nghiệm/ thành /kinh-nghiem/ (route không tồn
+        # tại) -> QA PHẢI bắt ra, không "tự sửa" bằng route bịa
+        r, ev = self._qa([
+            '/blog/kinh-nghiem/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
+            '/blog/lien-he/', '/blog/thue-xe/', '/blog/bang-gia/'])
+        self.assertEqual(ev['checks']['links_routes_valid'], False)
+        self.assertIn('/blog/kinh-nghiem/2026/09/17/'
+                      'thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
+                      ev['bad_routes'])
+
 
 # ------------------------------------------------------------------ R8-R11
 class SiteIntegrity(unittest.TestCase):
@@ -393,6 +414,64 @@ class SiteIntegrity(unittest.TestCase):
             self.assertIn('OK: mọi hub', r2.stdout)
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
+
+
+
+# ------------------------------------------------------------------ R12-R15
+class LegacyUnicodeLinks(unittest.TestCase):
+    """URL legacy chứa khoảng trắng/Unicode (ví dụ /blog/du lịch/...).
+
+    R12 route truth phải lowercase category như Jekyll/sitemap công khai;
+        link raw (chưa encode) và link percent-encoded đều PASS.
+    R13 KHÔNG tự viết lại /du lịch/ thành /du-lich/ — route đó không tồn
+        tại thì PHẢI FAIL (không được "sửa" bằng cách bịa route mới).
+    R14 internal_links_in nhìn thấy link raw chứa khoảng trắng và tách
+        được markdown title.
+    R15 manifest internal_link_candidates cung cấp URL percent-encoded
+        (markdown-safe, không chứa khoảng trắng thô) và URL đó hợp lệ.
+    """
+
+    RAW = '/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/'
+    RAW2 = '/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/'
+
+    def test_r12_legacy_unicode_route_ok(self):
+        r = probe(ROOT, "link_route_ok('%s')" % self.RAW)
+        self.assertIs(r, True)
+        q = probe(ROOT, "public_url('%s')" % self.RAW)
+        self.assertEqual(q, '/blog/du%20l%E1%BB%8Bch/2026/09/13/'
+                           'goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/')
+        r2 = probe(ROOT, "link_route_ok('%s')" % q)
+        self.assertIs(r2, True)
+        r3 = probe(ROOT, "link_route_ok('%s')" % self.RAW2)
+        self.assertIs(r3, True)
+
+    def test_r13_ascii_rewrite_must_fail(self):
+        # KHÔNG đổi /du lịch/ thành /du-lich/ khi route đó không tồn tại
+        r = probe(ROOT, "link_route_ok('/blog/du-lich/2026/09/13/"
+                        "goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/')")
+        self.assertIs(r, False)
+
+    def test_r14_internal_links_in_raw_space_and_title(self):
+        body = ('Xem [bài legacy](%s) và [bài khác](/blog/thue-xe/ '
+                '"tiêu đề") cùng [bài nữa](%s).' % (self.RAW2, self.RAW))
+        r = probe(ROOT, "internal_links_in(%r)" % body)
+        self.assertIn(self.RAW2, r)
+        self.assertIn(self.RAW, r)
+        self.assertIn('/blog/thue-xe/', r)
+        for l in r:
+            self.assertNotIn('"', l)
+
+    def test_r15_manifest_candidates_markdown_safe(self):
+        expr = ("related_published(m.load_matrix(), next(r for r in m.load_matrix() "
+                "if r['id'] == 'BLG-00695'))")
+        cands = probe(ROOT, expr)
+        self.assertTrue(cands, 'không có ứng viên liên kết')
+        for c in cands:
+            self.assertNotIn(' ', c['url'], 'URL chứa khoảng trắng thô')
+            self.assertTrue(all(ord(ch) < 128 for ch in c['url']),
+                            'URL chưa percent-encode Unicode')
+        ok = all(probe(ROOT, "link_route_ok(%r)" % c['url']) for c in cands)
+        self.assertIs(ok, True)
 
 
 if __name__ == '__main__':
