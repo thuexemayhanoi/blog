@@ -1,6 +1,0 @@
-{
-  "op": "prepare-next",
-  "count": 10,
-  "scope": "fast",
-  "note": "claim chunk 1 cua cycle moi, sau khi hoan thanh cycle BLG-00655-BLG-00674"
-}
