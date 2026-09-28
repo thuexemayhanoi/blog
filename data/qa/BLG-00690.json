@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "f6e840decd09b1fb3030dd618fdfb53217a53e7ca90e0cbae2809990a09c828b",
-  "matrix_row_sha256": "d539f6d861590d434aae9d0b11cc8bf39d71373631d50a83d4d8a6aa0a813df5",
-  "result": "PASS"
+  "matrix_row_sha256": "6540b82faac8a33c7a306811ff8c046d93c4a968d3c179f982c5824957f1a7b8",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:08+00:00"
 }

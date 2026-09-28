@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-khu-ho-guom-va-thap-rua-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-khu-ho-guom-va-thap-rua-nua-ngay.md",
   "content_sha256": "c67c1ffbfa51c354543ec36cc4da44e120af702895bf83bc273b84978c8a6ebf",
-  "matrix_row_sha256": "d0ba750d0c79753df19ae300823441fb7af1019426444cba0d77b75c8fbae557",
-  "result": "PASS"
+  "matrix_row_sha256": "8fb8d1dc5c4b181cc6a4a6102d875a5138a35c2cf654158657f490aa56d25e8b",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:09+00:00"
 }

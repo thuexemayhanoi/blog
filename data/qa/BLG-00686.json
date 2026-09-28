@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-k9-va-uong-ho-chi-minh-tai-ba-vi.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-k9-va-uong-ho-chi-minh-tai-ba-vi.md",
   "content_sha256": "1614df2dcc5156d060a6bbabcfb9cbf1c7532d5099e92af736d3e94978afb841",
-  "matrix_row_sha256": "1b227c28102c2dc37a79a47a041f36bf45e7bce1490374da495ea3af7b304afe",
-  "result": "PASS"
+  "matrix_row_sha256": "bcc2ca35c8afde6af8fa3bd06fd365761bace235a7670e8b0af53b4c88999d3f",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:08+00:00"
 }

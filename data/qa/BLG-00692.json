@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-lang-hoa-nhat-tan.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-lang-hoa-nhat-tan.md",
   "content_sha256": "5df7bae589ca770e523df3551deb3e96bc420c3ae6c058678699431bba8dee42",
-  "matrix_row_sha256": "04b5ae3031c51f38a65580e0df288e11d8326916efc80112a67ef5773049bcda",
-  "result": "PASS"
+  "matrix_row_sha256": "6f3865449134d2f7793c8cf224cd6f4dd7d3d76c86704842e2ab2df239375687",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:09+00:00"
 }

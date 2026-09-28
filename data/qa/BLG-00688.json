@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-chua-tran-quoc-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-chua-tran-quoc-nua-ngay.md",
   "content_sha256": "e6d296290ba46b9ed54e36f0d0b06be1d8155b01260145af0f841c3a7b667688",
-  "matrix_row_sha256": "382f9f203087b5a4670b3fee794622505f6f3e46f5d6f849c93bd854b6057990",
-  "result": "PASS"
+  "matrix_row_sha256": "1d668459156233266479703676b121bfdc865f9a9980d1d4e713d22e09ad5aff",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:08+00:00"
 }

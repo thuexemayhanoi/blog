@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "6a59127c84b35b73eff78ff64a05ffd6064679746d76552ddb4a551393fdf6ab",
-  "matrix_row_sha256": "964036842b46c7598685e5f68d6582b35257031d896ab3ad7acd7596e9a3ec0d",
-  "result": "PASS"
+  "matrix_row_sha256": "7d7e5b73980d46f0becdbb601e1e0d7c9cfbdbcb429e2d25f3f9c3f448f81b87",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:09+00:00"
 }

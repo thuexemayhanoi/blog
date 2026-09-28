@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "8b58a1011cb19d16ae69020e742c0cdcdf6bd16af5f39bf73823f3f63638bdec",
-  "matrix_row_sha256": "e78e2b075f088a4dab4e3bc2a7dbf2d9407e5a01b4a6080526eb87d5eddced70",
-  "result": "PASS"
+  "matrix_row_sha256": "9efc67ae69b33aa98d5714abdcc536a9b27d00c75242e88d470c85cf6e23ac47",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:08+00:00"
 }

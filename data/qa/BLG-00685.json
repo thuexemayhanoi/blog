@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-k9-va-uong-ho-chi-minh-tai-ba-vi-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-k9-va-uong-ho-chi-minh-tai-ba-vi-nua-ngay.md",
   "content_sha256": "6bc12ca2d860bb74e4da5dcaca211faca364fdc35eaf7a51a715956f850826d1",
-  "matrix_row_sha256": "36fff73bd7302eff669c21b203a8399c4d1c0798eea71b4d6a38588c3ed129e8",
-  "result": "PASS"
+  "matrix_row_sha256": "8e156e9f0e22ddbd07241ced42b3455ece57b0ea204445ef19d9385c00b13096",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:35:08+00:00"
 }
