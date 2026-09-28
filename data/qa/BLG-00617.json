@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-i-xe-may-khong-bang-lai-bi-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-28-i-xe-may-khong-bang-lai-bi-xu-ly-the-nao.md",
   "content_sha256": "08bd4714c726fe1292496c61ba6a0ce9f511098de86abd28e157567e270fb722",
-  "matrix_row_sha256": "374e9be340f4fc23d5b799242a8397b1af9c84dc2661dfc5998f78476f4cc6b7",
-  "result": "PASS"
+  "matrix_row_sha256": "17d06835fc43ceee535945e474c22b789ea3b874170ff99c05e255c21b673b57",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:13+00:00"
 }

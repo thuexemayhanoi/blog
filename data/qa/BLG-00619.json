@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-sat-hach-ly-thuyet-a1-nhung-cau-hay-gap.md",
+  "source_path": "_posts/2026-09-28-sat-hach-ly-thuyet-a1-nhung-cau-hay-gap.md",
   "content_sha256": "ca54e8d365596a3550603560b7cfeb6e94bf4151a94d2b8ab9017b88e370004f",
-  "matrix_row_sha256": "134fc4f580a879379aed07d2f4fcf6bb5d7b9e336747442b3ac030e286396572",
-  "result": "PASS"
+  "matrix_row_sha256": "29aa60a66e63626da48d7749441b3053cc1e3d9314343100b50acb35209e5e0a",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:14+00:00"
 }

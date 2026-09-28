@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong.md",
+  "source_path": "_posts/2026-09-28-bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong.md",
   "content_sha256": "fbae56b23fadcfda92228106eaf10f57cb75ba9a2f7f0cbc932fb3cd0cbf8fb8",
-  "matrix_row_sha256": "2c8ca22205f9f5fd025c387d1311a43800db6e068d4343683bc0d2ccfea853e0",
-  "result": "PASS"
+  "matrix_row_sha256": "ca17f97547ae126c17f2a9a93c25e03ee7a71b9a0d0212fc78d493ee8d222690",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:13+00:00"
 }

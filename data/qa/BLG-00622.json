@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-oi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban.md",
+  "source_path": "_posts/2026-09-28-oi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban.md",
   "content_sha256": "f97ae12c8e1265c9630c40f1fb21f8875de7cd253ff26caadba33d084cb9d75f",
-  "matrix_row_sha256": "aa7258cd3940e6699d3125d9178f0f03b8cc651086d4e1abdee1b7777770f449",
-  "result": "PASS"
+  "matrix_row_sha256": "0bb03673d0bdb0ee4c5428bf85dcfdf67e2d67bb775c63ee0fd28114c7f2599f",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:14+00:00"
 }

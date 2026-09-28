@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bang-lai-a1-ieu-khien-xe-may-pham-vi-nao.md",
+  "source_path": "_posts/2026-09-28-bang-lai-a1-ieu-khien-xe-may-pham-vi-nao.md",
   "content_sha256": "ef01f3d17308925d8b7cac7ebae83bb45bcbe1985fef4f42e904c9a393bd1afe",
-  "matrix_row_sha256": "9d5e5232c49a91f7641ad9f75b73a6fe089dd64fab333e072621708b99df1eb7",
-  "result": "PASS"
+  "matrix_row_sha256": "989c600e23a0c5e1ce335717cbff691c8cb3d055cae6df24dbbe9e4ed48d73b8",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:14+00:00"
 }

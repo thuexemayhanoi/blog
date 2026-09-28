@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao.md",
+  "source_path": "_posts/2026-09-28-mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao.md",
   "content_sha256": "53127aaa99aacc495a265b42891a9fba9fe6b800d90abc0f9270f79d83d3860d",
-  "matrix_row_sha256": "52d86aa1c20c8a6c72495c57a91f8276c7973ce92970747b6c7abac9ceca21dd",
-  "result": "PASS"
+  "matrix_row_sha256": "882383f38de0f26cc5209aedea9730f9baaa8822e297f4e5c7e73fab06e3e103",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:14+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-oi-bang-lai-khi-giay-het-han.md",
+  "source_path": "_posts/2026-09-28-oi-bang-lai-khi-giay-het-han.md",
   "content_sha256": "4627bb34854f8a4310ca2a1630ae2c49d34cf5066e94a449304b4ffbc8bdf788",
-  "matrix_row_sha256": "6cb1b5d6f796f7b67b8f5512e608b8b9e8db98ce90796cdb3af8597d796c8ea4",
-  "result": "PASS"
+  "matrix_row_sha256": "2e9d2c5c04da208b7dbe1812e98b4d4892c77f580458940df668a10aad7ccd3f",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:13+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bao-hiem-trach-nhiem-dan-su-xe-may-la-gi.md",
+  "source_path": "_posts/2026-09-28-bao-hiem-trach-nhiem-dan-su-xe-may-la-gi.md",
   "content_sha256": "ddc2233dd3c10e32df09d107c2b785eb30676cd98145b724125763d5c31c399d",
-  "matrix_row_sha256": "d5f42fe7b1b9912ed0fa4c6a152071ded259f5135808420da0cf0888adacb596",
-  "result": "PASS"
+  "matrix_row_sha256": "2b1d0ab41e3810947287f18dd081127299db9a5f1907cffa320bcd5dbc0d5cd8",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:14+00:00"
 }

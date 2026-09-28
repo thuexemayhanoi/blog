@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-thi-bang-lai-a1-quy-trinh-hien-hanh.md",
+  "source_path": "_posts/2026-09-28-thi-bang-lai-a1-quy-trinh-hien-hanh.md",
   "content_sha256": "947eb822a4509bda05c7899bdbfe2cdb4680dd389462df308cbceb2ccfdfa9a9",
-  "matrix_row_sha256": "e4ddb4c1637fe40a7f942930848cbc1d25edde6d79ce29054fa146eef51fa61c",
-  "result": "PASS"
+  "matrix_row_sha256": "8dc5574ddc380efb84398ffbc9ae4c48901f2547a87922db71aa03512fc6abd6",
+  "result": "PASS",
+  "published_at": "2026-09-28T01:54:13+00:00"
 }
