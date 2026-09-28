@@ -26,7 +26,9 @@ Bảo hiểm tự nguyện là lớp bổ sung do chủ xe tự quyết định 
 Không có đáp án chung cho mọi người, nhưng có thể soi theo ba tình huống cụ thể ở Hà Nội:
 
 - Xe phân khối lớn, chi phí phụ tùng cao: một vụ va chạm nhẹ ở ngã tư đông đúc cũng đủ kéo theo chi phí sửa cốp, thay vỏ đáng kể. Với xe giá trị cao, phí bảo hiểm vật chất xe thường nhỏ so với một lần đền đủ.
+
 - Xe số phổ thông đi hằng ngày trong phố: chi phí sửa chữa thường không lớn, và nếu bạn chấp nhận rủi ro tự trả thì phí bảo hiểm lặp lại mỗi năm có thể chưa tối ưu. Nhiều người ở nhóm này chọn không mua và tự để dành một khoản nhỏ dự phòng.
+
 - Người đi xe thuê: tài sản là của cửa hàng, trách nhiệm với hư hỏng giữa kỳ thuê tuân theo hợp đồng thuê xe, không phải theo hợp đồng bảo hiểm của bạn. Điều cần làm là hỏi rõ cửa hàng về quy định hư hỏng trước khi nhận xe, thay vì tự ý mua bảo hiểm cho xe không thuộc sở hữu mình.
 
 Trường hợp đi xe máy bị tai nạn có người thứ ba bị hại, bảo hiểm bắt buộc chi trả phần trách nhiệm dân sự trong giới hạn; phần vượt giới hạn thuộc về người gây thiệt hại. Bảo hiểm tự nguyện chỉ giúp khi đúng rủi ro và điều khoản nó bao gồm, và luôn có phần khấu trừ theo hợp đồng. Điều khoản và mức phí có thể thay đổi theo sản phẩm của từng doanh nghiệp bảo hiểm, nên hãy đối chiếu nội dung mới nhất trước khi quyết định.

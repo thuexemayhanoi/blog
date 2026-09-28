@@ -59,8 +59,7 @@ def cp_json(fx, rel):
 def write_json(fx, rel, obj):
     p = os.path.join(fx, rel)
     tmp = p + '.tmp'
-    wit
-h open(tmp, 'w', encoding='utf-8') as f:
+    with open(tmp, 'w', encoding='utf-8') as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
     os.replace(tmp, p)
 
@@ -174,8 +173,7 @@ class FxTestCase(unittest.TestCase):
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
         # hermetic: fixture KHÔNG mang draft của repo thựt — mọi draft
         # cần cho test đều do make_draft() tạo trong fixture. Trạng thái
-        # WRITING của repo thựt có thể đã có draft (writer đã
- push), làm
+        # WRITING của repo thựt có thể đã có draft (writer đã push), làm
         # lệch tiền đề "WRITING chưa có draft" của release-chunk
         # và prepare-next trong bộ test này.
         drafts_dir = os.path.join(self.fx, '_drafts')
@@ -323,8 +321,7 @@ class TestReleaseChunk(FxTestCase):
         self.assertIsNone(cp['in_progress_chunk'])
         self.assertEqual(cp['next_claimable_id'], min(writing))
         self.assertEqual(cp['counts']['planned'], planned_before + len(writing))
-        self.ass
-ertEqual(cp['counts']['writing'], 0)
+        self.assertEqual(cp['counts']['writing'], 0)
 
     def test_release_keeps_rows_with_drafts(self):
         self.ensure_writing_chunk()

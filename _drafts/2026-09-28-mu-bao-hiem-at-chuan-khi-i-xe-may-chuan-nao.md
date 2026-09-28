@@ -47,7 +47,7 @@ Với khách thuê xe máy, hai việc nên thực hiện:
 
 Một vài lưu ý nhỏ giúp chiếc mũ phục vụ bạn lâu: không để mũ nơi nắng gắt sau cửa kính vì nhiệt độ làm chai lớp hấp thụ xung lực, không treo mũ ở gương chiếu hậu rồi để rơi liên tục, và lau lớp lót định kỳ để mùi dễ chịu khi đội mỗi ngày. Chiếc mũ đạt chuẩn chỉ bảo vệ khi nó còn trong tình trạng đúng như khi xuất xưởng, nên những thói quen bảo quản đơn giản này đáng giá hơn mọi lời quảng cáo về độ bền.
 
-Các kỹ năng cơ bản khi vận hành xe máy an toàn được tổng hợp trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), còn nhóm chủ đề quy định liên quan nằm trong trang [nồng độ cồn và quy định giao thông](/blog/an-toan-phap-ly/noi-do-cong/).
+Các kỹ năng cơ bản khi vận hành xe máy an toàn được tổng hợp trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), nhóm chủ đề quy định giao thông nằm trong trang [nồng độ cồn và quy định giao thông](/blog/an-toan-phap-ly/noi-do-cong/), còn các chủ đề pháp lý khác được gộp trong trang [an toàn và pháp lý](/blog/an-toan-phap-ly/).
 
 ## Kết luận về mũ bảo hiểm đạt chuẩn
 

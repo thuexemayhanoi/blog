@@ -211,10 +211,14 @@ class PrepareNextHardening(unittest.TestCase):
     def test_s5_report_failure_stops_prepare_next(self):
         work, tmp = fresh_copy()
         try:
-            # hermetic: nếu matrix thật đang giữ chunk WRITING (chưa có
-            # draft), nhả về PLANNED qua op chuẩn để prepare-next tới được
-            # bước claim (nếu không op từ chối ở bước "còn hàng dở" — đúng
-            # engine, nhưng không phải thứ test này kiểm).
+            # hermetic: repo thật có thể đang giữ in_progress_chunk
+            # WRITING với draft đã push (BLG-00625..00634) — release-chunk
+            # bảo vệ hàng có draft nên phải bỏ draft trong bản sao fixture
+            # trước, nếu không prepare-next từ chối ở bước "còn hàng dở"
+            # (đúng engine, nhưng không phải thứ test này kiểm).
+            drafts_dir = os.path.join(work, '_drafts')
+            for fn in os.listdir(drafts_dir):
+                os.remove(os.path.join(drafts_dir, fn))
             r0 = run(work, 'scripts/factory/factory-operator.py',
                      'release-chunk')
             self.assertIn(r0.returncode, (0, 1), r0.stdout)

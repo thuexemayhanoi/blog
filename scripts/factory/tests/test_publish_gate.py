@@ -142,6 +142,13 @@ import importlib.util as _ilu
 _spec = _ilu.spec_from_file_location('gate_under_test', GATE)
 gate = _ilu.module_from_spec(_spec)
 _spec.loader.exec_module(gate)
+# publish-gate.py os.chdir(ROOT) lúc import — ROOT của BẢN SAO work, nên
+# tiến trình test bị kéo cwd vào work rồi bị rmtree(tmp) cuối file xóa mất
+# cwd. Dưới unittest discover (module import trước khi chạy test), điều đó
+# làm os.getcwd() của các module sau (test_operator setUp) ENOENT. Khôi
+# phục cwd về repo thật ngay sau khi nạp gate; mọi đường dẫn phía dưới
+# đều tuyệt đối nên hành vi test không đổi.
+os.chdir(ROOT)
 
 LJ = os.path.join(work, 'data/state/writer-lock.json')
 LS = os.path.join(work, 'data/state/writer-lock.active')
