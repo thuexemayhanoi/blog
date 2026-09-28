@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ghe-bao-tang-phu-nu-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua.md",
+  "source_path": "_posts/2026-09-28-ghe-bao-tang-phu-nu-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua.md",
   "content_sha256": "00259b0f3e431d40e37f4de8f7d05450b1527bc13056539b91e5a57f5f0b2ea7",
-  "matrix_row_sha256": "0a47f13ac057e2e5020127c7d26729cab874f81fb441d328847191b834c7bee9",
-  "result": "PASS"
+  "matrix_row_sha256": "a6abacec4b9933644502644e6d5db617dc7800af31501711d79ce03e790c5a37",
+  "result": "PASS",
+  "published_at": "2026-09-28T19:07:02+00:00"
 }

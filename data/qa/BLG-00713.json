@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ghe-bao-tang-khong-khi-khong-gian-sao-bang-xe-may-gui-xe-va-gio-mo-cua.md",
+  "source_path": "_posts/2026-09-28-ghe-bao-tang-khong-khi-khong-gian-sao-bang-xe-may-gui-xe-va-gio-mo-cua.md",
   "content_sha256": "84331112921787839df717e34fb13e9ffbd6fc5236e831152171d6c2b77b3e5a",
-  "matrix_row_sha256": "1fcf89147ef900209a80b7d086c0f2d23497f03dd0e240e3e966d437f8be5458",
-  "result": "PASS"
+  "matrix_row_sha256": "6b2628acf072d1ebfdd1324976aba7996fcc15cdf574f8016aa5f46674945e55",
+  "result": "PASS",
+  "published_at": "2026-09-28T19:07:02+00:00"
 }

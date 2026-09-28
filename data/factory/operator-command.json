@@ -1,7 +1,0 @@
-{
-  "op": "publish",
-  "ids": "BLG-00705,BLG-00706,BLG-00707,BLG-00708,BLG-00709,BLG-00710,BLG-00711,BLG-00712,BLG-00713,BLG-00714",
-  "scope": "fast",
-  "command_id": "publish-chunk2-BLG-00705-714",
-  "coordinator": "external-ai"
-}

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-trai-nghiem-bao-tang-my-thuat-viet-nam-nen-i-cung-ai-va-luc-nao.md",
+  "source_path": "_posts/2026-09-28-trai-nghiem-bao-tang-my-thuat-viet-nam-nen-i-cung-ai-va-luc-nao.md",
   "content_sha256": "c626e97cf4969bef710f5bb448421cd6524ad167b60c2ea679210cb8b3bcc3de",
-  "matrix_row_sha256": "60822996be3cb40fa325e04afb55c0550110cd501988fc6c5e43eda4f41cb90b",
-  "result": "PASS"
+  "matrix_row_sha256": "d6075ef4ab51cbf6a53bf095c2cdc2fa1809eeff4e729a74307e7fa4e212f920",
+  "result": "PASS",
+  "published_at": "2026-09-28T19:07:02+00:00"
 }

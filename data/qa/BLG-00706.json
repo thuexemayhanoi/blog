@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-am-thuc-ha-noi-theo-cung-uong-xe-may-i-au-an-gi.md",
+  "source_path": "_posts/2026-09-28-am-thuc-ha-noi-theo-cung-uong-xe-may-i-au-an-gi.md",
   "content_sha256": "3ed913d111ac344da3134608a0ea3a5aadccf6c41636067acb40c1ecc6f04399",
-  "matrix_row_sha256": "7565acd8469c0ab0fd82330b4c4a3dd3df2833291c29b9ab0ca3b7ed2cfb18e0",
-  "result": "PASS"
+  "matrix_row_sha256": "73273d4c9750194bdb3250855fcf9509e78b1e438ea2f94decfd21434f7cc755",
+  "result": "PASS",
+  "published_at": "2026-09-28T19:07:01+00:00"
 }

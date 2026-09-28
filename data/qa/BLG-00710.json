@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-trai-nghiem-bao-tang-phu-nu-viet-nam-nen-i-cung-ai-va-luc-nao.md",
+  "source_path": "_posts/2026-09-28-trai-nghiem-bao-tang-phu-nu-viet-nam-nen-i-cung-ai-va-luc-nao.md",
   "content_sha256": "058a33ee40b0f1c3d904e6dbe60d917b760d673b61354ef2c2d6e455a227d1a5",
-  "matrix_row_sha256": "5ff1e777f4cc85259e24e2d1567a334b1f66ea5b480fbe0d313ff05b785fcbf3",
-  "result": "PASS"
+  "matrix_row_sha256": "c10aa7660e05be6a287dbd6b2bd7f03ce9c401a78301ed7167fc57e9cfc035c7",
+  "result": "PASS",
+  "published_at": "2026-09-28T19:07:02+00:00"
 }

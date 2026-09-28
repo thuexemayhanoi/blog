@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-lich-trinh-nua-ngay-i-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio.md",
+  "source_path": "_posts/2026-09-28-lich-trinh-nua-ngay-i-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio.md",
   "content_sha256": "dac5fb7e61e4394e4a47c85c223c402f13a9c614dce20612d44188f2d615ded7",
-  "matrix_row_sha256": "bfd0f3845be79d66a2d70d04674422395192b41c793d36e5bfd7969296b15b45",
-  "result": "PASS"
+  "matrix_row_sha256": "e16a28e4c7b0d6d3c44cf52af4c5da7e45cbcca137540b59dfc90dfafe498a9a",
+  "result": "PASS",
+  "published_at": "2026-09-28T19:07:01+00:00"
 }
