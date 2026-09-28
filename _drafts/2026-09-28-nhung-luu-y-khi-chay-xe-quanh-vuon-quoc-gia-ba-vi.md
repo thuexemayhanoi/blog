@@ -14,7 +14,7 @@ article_id: BLG-00704
 ---
 Lưu ý chạy xe gần Vườn Quốc gia Ba Vì không nằm ở một ngã hay một khúc cua, mà nằm ở cả chặng đường lên vùng núi phía tây: hai tuyến từ Hà Nội có đoạn đông và đoạn nhanh, đường lên khu vườn quanh co theo triền đồi, và sương mù theo mùa che tầm nhìn bất kỳ lúc nào. Bài này gom các lưu ý theo từng chặng quanh khu, để ai chạy xe máy lên Ba Vì biết chỗ nào cần đề phòng và khung nào nên né.
 
-## Hai cung lên Ba Vì và các khúc cần đề phòng
+## Lưu ý chạy xe gần Vườn Quốc gia Ba Vì: hai cung lên và các khúc cần đề phòng
 
 Tuyến đại lộ Thăng Long thẳng và rộng, nhưng có đoạn dòng nhanh với xe tải lớn: giữ làn phải, không vượt ở các cụm giao lộ, và canh gương trước khi rẽ vào các đường nhánh xuống khu vực dân cư. Các cụm giao lộ lớn trên đại lộ có xe rẽ theo nhiều hướng: quan sát biển và xi nhan của xe quanh mình từ xa, đừng phán đoán hướng đi của xe tải. Tuyến quốc lộ 32 ngang các thị trấn như Trồi, Phùng: đoạn phố thị có dòng hai bánh dày và người băng đường, thả chậm qua các đoạn chợ ven và trường học trên trục.
 

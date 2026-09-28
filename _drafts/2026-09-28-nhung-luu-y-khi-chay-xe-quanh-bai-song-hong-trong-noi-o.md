@@ -14,7 +14,7 @@ article_id: BLG-00701
 ---
 Lưu ý chạy xe gần Bãi sông Hồng trong nội đô dồn vào ba lớp đường khác nhau: trục Âu Cơ nhiều dòng nhưng rộng, ngõ vào bãi nhỏ và hai chiều, còn đường trong bãi là đất đá thay đổi theo mưa và nước. Ba lớp này đan nhau trong một cung ngắn, nên bài này gom các lưu ý theo từng lớp, để ai chạy xe máy tới khu bãi ven sông phía Nhật Tân biết chỗ nào cần đề phòng và khung nào nên né.
 
-## Trục Âu Cơ và khung cuối tuần
+## Lưu ý chạy xe gần Bãi sông Hồng trong nội đô: trục Âu Cơ và khung cuối tuần
 
 Giao thông quanh Bãi sông Hồng trong nội đô mùa cao điểm nằm hết trên trục Âu Cơ: cuối tuần, dòng xe mang bạt và đồ dã ngoại đổ về phía Nhật Tân, chạy chậm và hay rẽ đột ngột vào các ngõ dẫn xuống bãi. Không bám sát xe trước vì người ta có thể phanh gấp ngay khi nhìn thấy lối rẽ quen; quan sát xi nhan sớm và giãn khoảng cách ở các đoạn ngõ dày. Đường quanh Bãi sông Hồng trong nội đô đông nhất vào khung xế chiều thứ Bảy và Chủ Nhật, khách muốn nhanh nên đi khung sáng sớm hoặc chờ sau tối.
 

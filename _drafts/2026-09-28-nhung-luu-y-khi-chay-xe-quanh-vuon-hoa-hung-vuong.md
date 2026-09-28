@@ -14,7 +14,7 @@ article_id: BLG-00698
 ---
 Lưu ý chạy xe gần Vườn hoa Hùng Vương tập trung quanh một trục đặc thù: phố Hùng Vương chạy giữa quần thể di tích Ba Đình, nơi dòng xe ngày thường thoáng nhưng khung có khách đoàn thăm Lăng và Phủ Chủ tịch lại dày thêm bất thường, và các lối quanh khu được quản lý chặt hơn hẳn phố thường. Bài này gom các lưu ý theo từng loại đoạn quanh vườn, để ai chạy xe máy tới khu biết chỗ nào cần đề phòng và khung nào nên né.
 
-## Trục Hùng Vương và dòng khách theo khung
+## Lưu ý chạy xe gần Vườn hoa Hùng Vương: trục Hùng Vương và dòng khách theo khung
 
 Trục Hùng Vương hai bên chủ yếu là công viên và cây xanh nên bản thân chạy dễ: lòng đường rộng, tầm nhìn thoáng, ít đoạn hàng quán lấn lề. Điểm cần đề phòng nằm ở nhịp: ngày khách đoàn về khu, dòng xe khách và xe theo đoàn nối dài quanh trục, dừng đỗ theo chỉ dẫn tại từng đoạn, người lái xe máy không nên bám sát đoàn vì đoàn có thể phanh gấp theo hiệu lệnh điều tiết. Các lối rẽ vào khu di tích quanh vườn có người hướng dẫn trong khung đó: đi theo chỉ dẫn, đừng tự rẽ tắt qua các cổng phụ đang đóng.
 

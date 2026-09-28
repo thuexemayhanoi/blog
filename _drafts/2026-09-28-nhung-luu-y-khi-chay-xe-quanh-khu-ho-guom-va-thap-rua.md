@@ -14,7 +14,7 @@ article_id: BLG-00695
 ---
 Lưu ý chạy xe gần Khu Hồ Gươm và Tháp Rùa không nằm ở một con đường mà nằm ở nhịp của cả khu trung tâm: vành đường ven hồ là dải xe dừng tạm ngắm Tháp Rùa, các phố quanh hồ phần lớn chạy một chiều, khung tan tầm dòng xe dày, còn tối cuối tuần quanh hồ chuyển thành khu phố đi bộ. Bài này gom các lưu ý theo từng loại đoạn quanh khu Hồ Gươm, để ai chạy xe máy tới Tháp Rùa biết chỗ nào cần đề phòng và khung nào nên né.
 
-## Vành ven hồ: dòng xe dừng tạm chụp ảnh
+## Lưu ý chạy xe gần Khu Hồ Gươm và Tháp Rùa: vành ven hồ dòng xe dừng tạm
 
 Đường Đinh Tiên Hoàng và Lê Thái Tổ chạy quanh vành hồ là đoạn đẹp nhất nhưng cũng dễ ách cục bộ nhất khu: hai chiều chạy chậm theo mặc định, mép ven đường có dòng xe máy dừng tạm chụp ảnh. Người sau không nhìn thấy điểm dừng của xe trước, nên qua các khúc có cảnh đẹp thì thả chậm và giãn khoảng cách, đừng bám sát vì xe trước có thể phanh gấp giữa lòng đường. Ai muốn dừng chụp ảnh nên lăn thêm một đoạn tới vỉa hè rộng hoặc gửi xe vào bãi rồi đi bộ ra mép hồ, tuyệt đối không ngang xe giữa vành ven.
 
