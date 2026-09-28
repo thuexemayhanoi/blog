@@ -1,0 +1,191 @@
+=== diagnose8 HEAD=11cbdc538fc254505479c3a6c0397a0f81ea7b58 ===
+--- don test goc -v ---
+test_fast_qa_publishes_while_full_audit_fails (__main__.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:70: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ekep_xk_/repo/data/content-inventory.csv' mode='r' encoding='utf-8'>
+  rows = list(csv.DictReader(open(p, encoding='utf-8')))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:154: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ekep_xk_/repo/_drafts/2026-09-28-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md' mode='w' encoding='utf-8'>
+  encoding='utf-8').write(text)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+FAIL
+
+======================================================================
+FAIL: test_fast_qa_publishes_while_full_audit_fails (__main__.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py", line 388, in test_fast_qa_publishes_while_full_audit_fails
+    self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     'PASS')
+                     ^^^^^^^
+AssertionError: 'REPAIR' != 'PASS'
+- REPAIR
++ PASS
+
+
+----------------------------------------------------------------------
+Ran 1 test in 1.715s
+
+FAILED (failures=1)
+--- tung buoc trong fixture ---
+chunk= ['BLG-00625', 'BLG-00626', 'BLG-00627', 'BLG-00628', 'BLG-00629', 'BLG-00630', 'BLG-00631', 'BLG-00632', 'BLG-00633', 'BLG-00634']
+reset_ids= ['BLG-00625', 'BLG-00626', 'BLG-00627', 'BLG-00628', 'BLG-00629', 'BLG-00630', 'BLG-00631', 'BLG-00632', 'BLG-00633', 'BLG-00634']
+gen generate-reports.py 0 ok
+gen generate-matrix.py 0 ok
+gen generate-listing-pages.py 0 ok
+prepare-next rc= 0
+sinh từ dữ liệu thật, tiến độ không reset)
+
+=== GENERATE MATRIX ===
+tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 308)
+chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
+thiếu so với planned_target 6980: 6672 hàng (báo thiếu, không đệm)
+
+g
+chia-se: 112 bài -> 10 trang
+du-lich: 41 bài -> 4 trang
+topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
+topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
+topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
+topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
+topic thue-xe/su-co: 40 bài -> 2 trang
+topic thue-xe/thu-tuc: 32 bài -> 2 trang
+KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
+
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 140, 'BLOCKED': 1, 'WRITING': 10, 'PLANNED': 308}
+WARN: writer-lock đang bị giữ: kiểm tra writer sống
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
+KẾT QUẢ: PASS (1 cảnh báo)
+
+prepare-next: claim 10 hàng: BLG-00625,BLG-00626,BLG-00627,BLG-00628,BLG-00629,BLG-00630,BLG-00631,BLG-00632,BLG-00633,BLG-00634 (mode=fast)
+
+
+validate full rc= 1
+row id= BLG-00625 keyword= không bảo hiểm xe máy bị phạt canonical= /blog/an-toan-phap-ly/{date}/khong-co-bao-hiem-xe-may-bi-phat-the-nao/ output_path= _posts/{date}-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md
+draft= /tmp/diag8-1nflpfup/repo/_drafts/2026-09-28-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md
+draft word count ~= 242
+qa rc= 0
+--- qa stdout FULL ---
+qa BLG-00625: REPAIR quality=100 seo=75 fails=['permalink_canonical', 'word_count', 'links_matrix_required', 'links_count']
+atrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 140, 'BLOCKED': 1, 'REPAIR': 1, 'WRITING': 9, 'PLANNED': 308}
+tiến độ bảo toàn: last_completed=BLG-00624 chunk=['BLG-00625', 'BLG-00626', 'BLG-00627', 'BLG-00628', 'BLG-00629', 'BLG-00630', 'BLG-00631', 'BLG-00632', 'BLG-00633', 'BLG-00634'] next_claimable=BLG-00635
+mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T05:30:38+00:00 | checkpoint.updated_at: 2026-09-28T05:30:38+00:00
+vân tay: matrix=946705d6f225... data_fingerprint=ce39df1ccfd0...
+KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
+
+=== GENERATE MATRIX ===
+tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 308)
+chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
+thiếu so với planned_target 6980: 6672 hàng (báo thiếu, không đệm)
+
+g
+chia-se: 112 bài -> 10 trang
+du-lich: 41 bài -> 4 trang
+topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
+topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
+topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
+topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
+topic thue-xe/su-co: 40 bài -> 2 trang
+topic thue-xe/thu-tuc: 32 bài -> 2 trang
+KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
+
+=== VALIDATE FOUNDATION (scope=chunk) ===
+Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
+Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
+Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 140, 'BLOCKED': 1, 'REPAIR': 1, 'WRITING': 9, 'PLANNED': 308}
+WARN: writer-lock đang bị giữ: kiểm tra writer sống
+SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
+KẾT QUẢ: PASS (1 cảnh báo)
+
+qa: xong 1 hàng (mode=fast), kết quả: {"BLG-00625": "REPAIR"}
+
+--- qa stderr ---
+
+--- evidence BLG-00625 ---
+{
+  "article_id": "BLG-00625",
+  "title": "Không có bảo hiểm xe máy bị phạt thế nào",
+  "scored_at": "2026-09-28T05:30:38+00:00",
+  "scorer": "operator-qa-deterministic-v1",
+  "checks": {
+    "frontmatter_fields": true,
+    "draft_date": true,
+    "slug_match": true,
+    "permalink_canonical": false,
+    "word_count": false,
+    "title_match": true,
+    "description_length": true,
+    "description_keyword": true,
+    "h2_min": true,
+    "no_h1_in_body": true,
+    "headings_intent": true,
+    "links_matrix_required": false,
+    "links_parent_hub": true,
+    "links_count": false,
+    "links_routes_valid": true,
+    "no_hardcoded_blog": true,
+    "cannibalization": true,
+    "intent_opening": true,
+    "hanoi_example": true,
+    "reads_naturally_proxy": true,
+    "no_placeholder": true,
+    "business_amounts": true,
+    "forbidden_claims": true,
+    "phone_ok": true,
+    "legal_source": true,
+    "legal_disclaimer": true
+  },
+  "word_count": 168,
+  "word_target": 100,
+  "bad_routes": [],
+  "cannibalization_clash": [],
+  "non_approved_amounts": [],
+  "forbidden_hits": [],
+  "quality": 100,
+  "seo": 75,
+  "business_fact": "PASS",
+  "legal": "PASS",
+  "critical_failure": false,
+  "source_path": "_drafts/2026-09-28-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md",
+  "content_sha256": "87cec5cab7f7456138dd74f5817e026bfddacccc3dcf330cfe1ca4d8c7b02210",
+  "matrix_row_sha256": "d6f68c9334d2cabe44a136784eb8169cd090462a4a0ed9dce48fbd94c4c844c9",
+  "result": "REPAIR"
+}
+--- matrix row sau qa ---
+{
+ "id": "BLG-00625",
+ "status": "REPAIR",
+ "title": "Không có bảo hiểm xe máy bị phạt thế nào",
+ "intent": "Hiểu xử phạt khi thiếu bảo hiểm",
+ "primary_keyword": "không bảo hiểm xe máy bị phạt",
+ "secondary_keywords": "phạt không có bảo hiểm",
+ "parent_id": "P-PHAP-LY",
+ "child_id": "C-BAO-HIEM",
+ "group": "PHAP-LY",
+ "expected_url": "/blog/an-toan-phap-ly/{date}/khong-co-bao-hiem-xe-may-bi-phat-the-nao/",
+ "output_path": "_posts/{date}-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md",
+ "canonical_url": "/blog/an-toan-phap-ly/{date}/khong-co-bao-hiem-xe-may-bi-phat-the-nao/",
+ "internal_links": "/blog/an-toan-phap-ly/bao-hiem/; /blog/an-toan-phap-ly/quy-dinh-giao-thong/",
+ "source_required": "true",
+ "legal_risk": "high",
+ "batch": "",
+ "source": "planned:matrix-seed/C-BAO-HIEM",
+ "slug": "khong-co-bao-hiem-xe-may-bi-phat-the-nao",
+ "search_intent": "Hiểu xử phạt khi thiếu bảo hiểm",
+ "parent_hub": "an-toan-phap-ly",
+ "child_cluster": "Bảo hiểm xe máy",
+ "subtopic": "",
+ "audience": "",
+ "location_scope": "",
+ "commercial_intent": "low",
+ "cannibalization_key": "khong bao hiem xe may bi phat",
+ "word_target": "1200",
+ "batch_id": "B003",
+ "repair_count": "",
+ "published_date": "",
+ "published_commit_sha": "",
+ "notes": "QA 2026-09-28T05:30:38+00:00 FAIL: permalink_canonical,word_count,links_matrix_required,links_count"
+}
+=== end diagnose8 ===
