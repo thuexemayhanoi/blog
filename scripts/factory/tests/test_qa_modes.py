@@ -170,6 +170,14 @@ class FxTestCase(unittest.TestCase):
         base = tempfile.mkdtemp(prefix='qa-modes-')
         self.fx = os.path.join(base, 'repo')
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
+        # hermetic: fixture KHÔNG mang draft của repo thựt — mọi draft
+        # cần cho test đều do make_draft() tạo trong fixture. Trạng thái
+        # WRITING của repo thựt có thể đã có draft (writer đã push), làm
+        # lệch tiền đề "WRITING chưa có draft" của release-chunk
+        # và prepare-next trong bộ test này.
+        drafts_dir = os.path.join(self.fx, '_drafts')
+        for fn in os.listdir(drafts_dir):
+            os.remove(os.path.join(drafts_dir, fn))
         self.addCleanup(shutil.rmtree, base, ignore_errors=True)
 
     def py(self, *args):
