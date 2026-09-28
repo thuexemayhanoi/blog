@@ -1,5 +1,5 @@
 {
   "op": "qa",
   "ids": "BLG-00615,BLG-00616,BLG-00617,BLG-00618,BLG-00619,BLG-00620,BLG-00621,BLG-00622,BLG-00623,BLG-00624",
-  "note": "retry attempt 2 after transient live-sitemap mid-deploy validate failure (run #96)"
+  "note": "qa chunk 2 cycle 6 retry 3: pages build of caa497e deployed successfully at ~00:50Z including chunk-1; earlier validate failures ran during that deploy window (stale live sitemap)"
 }
