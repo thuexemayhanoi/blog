@@ -41,7 +41,7 @@ Cũng cần biết biển phụ có thể ghép thành bảng phụ với nhiề
 
 ## Vì sao đọc đúng biển phụ giúp tránh phạt nguội
 
-Camera không phân biệt ý định: nếu bạn đi vào đường cấm mô tô trong khung giờ ghi ở biển phụ, thiết bị ghi hình vẫn lập hồ sơ như mọi vi phạm khác, và người nhận thông báo thường chỉ hiểu ra khi xem lại ảnh chụp. Do đó, thói quen đọc biển phụ là lớp phòng vệ cuối cùng trước khi vào đoạn đường có camera. Ba nhóm biển báo đường bộ, từ biển cấm, hiệu lệnh đến chỉ dẫn, đều được tổng hợp trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), còn quy trình xử lý khi nhận thông báo vi phạm qua camera nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
+Camera không phân biệt ý định: nếu bạn đi vào đường cấm mô tô trong khung giờ ghi ở biển phụ, thiết bị ghi hình vẫn lập hồ sơ như mọi vi phạm khác, và người nhận thông báo thường chỉ hiểu ra khi xem lại ảnh chụp. Do đó, thói quen đọc biển phụ là lớp phòng vệ cuối cùng trước khi vào đoạn đường có camera, bên cạnh việc nắm toàn bộ [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) hiện hành. Ba nhóm biển báo đường bộ, từ biển cấm, hiệu lệnh đến chỉ dẫn, đều được tổng hợp trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), còn quy trình xử lý khi nhận thông báo vi phạm qua camera nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về biển chỉ dẫn và biển phụ
 

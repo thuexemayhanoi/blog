@@ -31,7 +31,7 @@ Ví dụ dễ hình dung: một quyết định phạt 400 nghìn đồng để 
 
 Ngày nay bạn không cần đến trực tiếp cơ quan xử phạt mới nộp được tiền. Kênh chuyển khoản qua ngân hàng theo thông tin ghi trên quyết định là cách phổ biến nhất, sau đó bạn gửi lại giấy nộp tiền qua thư điện tử hoặc bưu điện để được cấp biên lai. Nộp qua dịch vụ bưu chính công ích cũng là lựa chọn được nhiều địa phương áp dụng cho hồ sơ gửi qua đường bưu điện.
 
-Một mẹo nhỏ: chụp lại quyết định xử phạt và lưu mã hồ sơ ngay khi nhận được. Khi tra soát tình trạng giải quyết, bạn chỉ cần đối chiếu mã hồ sơ là biết mình đã được xóa hay chưa, tránh tình trạng nộp tiền xong nhưng hồ sơ chưa được cập nhật.
+Một mẹo nhỏ: chụp lại quyết định xử phạt và lưu mã hồ sơ ngay khi nhận được. Khi tra soát tình trạng giải quyết, bạn chỉ cần đối chiếu mã hồ sơ là biết mình đã được xóa hay chưa, tránh tình trạng nộp tiền xong nhưng hồ sơ chưa được cập nhật. Khi đi làm việc với cơ quan xử phạt, bạn cũng nên mang đầy đủ giấy tờ tùy thân theo hướng dẫn trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
 
 ## Nộp trễ lâu hơn thì dẫn tới đâu
 
@@ -47,7 +47,7 @@ Tuy vậy, các trường hợp ngoại lệ này cần văn bản công nhận,
 
 ## Người thuê xe cần lưu ý gì
 
-Với người thuê xe máy ở Hà Nội, hồ sơ phạt nguội có thể đến sau kỳ thuê, nên cách tốt nhất là tra cứu theo biển số trong vài ngày sau khi trả xe và xử lý ngay nếu có kết quả. Đừng quên lưu hợp đồng thuê xe, vì đó là căn cứ đối chiếu trách nhiệm giữa người thuê và chủ xe khi có lỗi ghi qua camera. Cách thức tra cứu chi tiết nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/), còn các quy định giao thông chung nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Với người thuê xe máy ở Hà Nội, hồ sơ phạt nguội có thể đến sau kỳ thuê, nên cách tốt nhất là tra cứu theo biển số trong vài ngày sau khi trả xe và xử lý ngay nếu có kết quả. Đừng quên lưu hợp đồng thuê xe, vì đó là căn cứ đối chiếu trách nhiệm. Cách thức tra cứu chi tiết nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/), còn các quy định giao thông chung nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về nộp phạt nguội trễ
 

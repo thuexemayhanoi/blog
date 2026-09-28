@@ -3,7 +3,7 @@ date: 2026-09-28 09:00:00 +0700
 layout: post
 title: "Biển báo nguy hiểm trên đường trường"
 author: "Nguyễn Tú"
-description: "Biển báo nguy hiểm là biển tam giác nền vàng cảnh báo dốc, đường trơn, giao lộ nguy hiểm, nhận diện đúng nhóm cảnh báo theo QCVN 41:2019 khi đi xe máy đường trường."
+description: "Biển báo nguy hiểm là biển tam giác nền vàng cảnh báo dốc, đường trơn, giao lộ nguy hiểm trên đường trường theo QCVN 41:2019, nhận diện đúng khi đi xe máy."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [biển báo nguy hiểm, biển đường trơn, biển dốc, thuê xe máy Hà Nội]

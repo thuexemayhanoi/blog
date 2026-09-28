@@ -41,7 +41,7 @@ Một chi tiết thực tế: phạm vi hiệu lực của biển cấm dừng, 
 
 ## Biển cấm và trách nhiệm của người điều khiển
 
-Vi phạm biển cấm với xe máy hiện bị xử phạt theo Nghị định 168/2024/NĐ-CP, tùy lỗi cụ thể thuộc khung từ vài trăm nghìn đến vài triệu đồng, và nhiều vị trí đặt camera ghi liên tục nên khả năng nhận thông báo phạt nguội là rất cao. Trước pháp luật, không biết biển báo không phải lý do miễn trừ, vì người điều khiển phương tiện có nghĩa vụ quan sát và tuân thủ báo hiệu đường bộ. Chính vì vậy, đọc đúng nhóm biển cấm không chỉ là vấn đề pháp lý mà còn là cách tiết kiệm tiền và thời gian thật sự. Toàn bộ hệ thống biển báo, kể cả nhóm hiệu lệnh và chỉ dẫn, được tổng hợp trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), còn quy trình xử lý khi bị ghi lỗi qua camera nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
+Vi phạm biển cấm với xe máy hiện bị xử phạt theo Nghị định 168/2024/NĐ-CP trong hệ thống [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) hiện hành, tùy lỗi cụ thể thuộc khung từ vài trăm nghìn đến vài triệu đồng, và nhiều vị trí đặt camera ghi liên tục nên khả năng nhận thông báo phạt nguội là rất cao. Trước pháp luật, không biết biển báo không phải lý do miễn trừ, vì người điều khiển phương tiện có nghĩa vụ quan sát và tuân thủ báo hiệu đường bộ. Chính vì vậy, đọc đúng nhóm biển cấm không chỉ là vấn đề pháp lý mà còn là cách tiết kiệm tiền và thời gian thật sự. Toàn bộ hệ thống biển báo, kể cả nhóm hiệu lệnh và chỉ dẫn, được tổng hợp trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), còn quy trình xử lý khi bị ghi lỗi qua camera nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về biển báo cấm xe máy
 
