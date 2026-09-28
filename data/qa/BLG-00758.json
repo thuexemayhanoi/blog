@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-iem-nghi-chan-tren-uong-en-chua-huong.md",
+  "source_path": "_posts/2026-09-28-iem-nghi-chan-tren-uong-en-chua-huong.md",
   "content_sha256": "91c860b0fda2cd2e1f67c9a3c7af344cd796be7349495865129e8454992d7e06",
-  "matrix_row_sha256": "dcdaf922295939f9ebe9c6984d83cefcfc70032b6c2e75d933613692a8f1e711",
-  "result": "PASS"
+  "matrix_row_sha256": "a7c667c9ffc5bc5af45dcb501464c653fec573599089509fff23a60cdfb90f22",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:00:27+00:00"
 }

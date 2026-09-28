@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-chua-huong-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-chay-xe-tu-ha-noi-en-chua-huong-cuoi-tuan.md",
   "content_sha256": "2527004da848759a3b0ff944cd9ba4c3509f8b3901a3fc559400509c63b1343d",
-  "matrix_row_sha256": "4409749f7d8dcb541e8c19bdd4bc6ba7fd4e062b46eb9084a1049acb0976419b",
-  "result": "PASS"
+  "matrix_row_sha256": "4930ed3d30bd29cba08404f99761259fd179ff5413613138faa6198d877618da",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:00:27+00:00"
 }

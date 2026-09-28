@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-tam-coc-bich-ong-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-chay-xe-tu-ha-noi-en-tam-coc-bich-ong-cuoi-tuan.md",
   "content_sha256": "c5e875d07f7ca069651d98db475948f3fbe9b45ab9963022cbe90b60b2f7548a",
-  "matrix_row_sha256": "4f8db557b2ed04a1fcb083d4e948b7eab5ef1e26cbfdda08d48294005529963d",
-  "result": "PASS"
+  "matrix_row_sha256": "0a474b778dddd35ae15abbdc777f8dda568246823ac53beea3fd055feb887fc5",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:00:27+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-iem-nghi-chan-tren-uong-en-tam-coc-bich-ong.md",
+  "source_path": "_posts/2026-09-28-iem-nghi-chan-tren-uong-en-tam-coc-bich-ong.md",
   "content_sha256": "5357645599eea6921538b805a48b15bd96e946fe7475c5f9669d1a9cf9c465ba",
-  "matrix_row_sha256": "006a88a894dcb8680e05de48f0e08c8dee6d1fc6252da516510850712ff166c9",
-  "result": "PASS"
+  "matrix_row_sha256": "eb80028b63607c2104a8028168cc81ef31bde71252e8403fe58ba1c8532108fb",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:00:27+00:00"
 }

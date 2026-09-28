@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-trang-an-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-chay-xe-tu-ha-noi-en-trang-an-cuoi-tuan.md",
   "content_sha256": "bf9f586ed0ff1f8dfae14f0c6fb94afdc4792aa2e7db7cf9cb05e3229b116740",
-  "matrix_row_sha256": "60adb4c7b3542f575db6a5cb48e8976cfcf5a75fdf0f99be49654f477af98ccc",
-  "result": "PASS"
+  "matrix_row_sha256": "0af8690358613777e0adbabc41be24d2ebdb5a96922e7eece7c5af279203fc36",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:00:28+00:00"
 }
