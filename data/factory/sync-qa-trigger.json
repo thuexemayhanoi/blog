@@ -1,0 +1,5 @@
+{
+  "op": "sync-qa-hash",
+  "reason": "cap nhat content_sha256 sau repair frontmatter",
+  "date": "2026-09-28"
+}
