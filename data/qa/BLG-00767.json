@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-ao-com-va-bai-truoc-song-ay-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-chay-xe-tu-ha-noi-en-ao-com-va-bai-truoc-song-ay-cuoi-tuan.md",
   "content_sha256": "cc5f08b1558a318932987cbfef829c52d40e591427cc27c0cfd55ebf557e0153",
-  "matrix_row_sha256": "8eede1267d8d814deafea4a12363ba5f92afdc93527fae83339384385212d71d",
-  "result": "PASS"
+  "matrix_row_sha256": "21479fb1a367c9a6187b816ba5cd3c9d3198c2c2d0b90f35c422139acfb7ab5e",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:04:29+00:00"
 }

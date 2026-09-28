@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-khu-du-lich-ong-mo-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-chay-xe-tu-ha-noi-en-khu-du-lich-ong-mo-cuoi-tuan.md",
   "content_sha256": "5ce60fdf9df3831d4af7d4b9cac3d032917c504a79deefb625dd506e514ca6a3",
-  "matrix_row_sha256": "db932e38efe3ddec8b1cf459da4e6da846b46a1b35fc4434158a18cdef9fd01b",
-  "result": "PASS"
+  "matrix_row_sha256": "cc74da755881d86eb4e66575970e3654b79b64735efc78437f51a21c1a500803",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:04:29+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ha-noi-i-tam-coc-trang-an-bang-xe-may-cung-uong-va-thoi-gian.md",
+  "source_path": "_posts/2026-09-28-ha-noi-i-tam-coc-trang-an-bang-xe-may-cung-uong-va-thoi-gian.md",
   "content_sha256": "7de163b1a7c68fa6af1a4d90fa0802ff5879bd8df669965cac663f79f7929eb2",
-  "matrix_row_sha256": "261de2325d49c4256cd36c2d68024d4e84469e42671c963e9c02391db0497cfd",
-  "result": "PASS"
+  "matrix_row_sha256": "9b479dbe5317e3369cfb66bfb88b15b1369d210161e27f4c505fba010b8f32a5",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:04:29+00:00"
 }

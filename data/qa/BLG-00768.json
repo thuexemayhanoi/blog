@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-iem-nghi-chan-tren-uong-en-ao-com-va-bai-truoc-song-ay.md",
+  "source_path": "_posts/2026-09-28-iem-nghi-chan-tren-uong-en-ao-com-va-bai-truoc-song-ay.md",
   "content_sha256": "570dd96e5c866074fc3afa646a971f436d1dd967407608d36b955cfabe0b89d1",
-  "matrix_row_sha256": "9162d30094b5f25a59cf5934958fbfa15cfbf839a8581a1e452525c0e3b55a0c",
-  "result": "PASS"
+  "matrix_row_sha256": "fc666851ae313716119f79e86c2f42da30579c74f16b786ac32d26a5214d43f9",
+  "result": "PASS",
+  "published_at": "2026-09-28T23:04:29+00:00"
 }

@@ -10,8 +10,12 @@ chia-se:
 du-lich:
   pages: 13
   size: 12
-  total: 146
+  total: 151
 topic:
+  cung-duong_cung-duong-cuoi-tuan:
+    pages: 2
+    size: 24
+    total: 25
   du-lich_diem-den:
     pages: 3
     size: 24
