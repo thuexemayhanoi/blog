@@ -15,7 +15,7 @@ article_id: BLG-00766
 
 Cung lên Đồng Mô chỉ dài khoảng bốn mươi ki-lô-mét, ngắn hơn hẳn các cung đá vôi hay cung núi phía tây, nhưng nghỉ chân đường đi Khu du lịch Đồng Mô vẫn là chuyện đáng tính. Nhiều khách xuất phát sáng sớm sau một tuần làm việc, chạy chưa đầy một tiếng lưng đã mỏi; nhóm có trẻ nhỏ hoặc người lớn tuổi lại càng cần dừng đúng lúc, đúng chỗ. Bài này gợi ý điểm dừng cho cả hai tuyến lên hồ, cách chọn quán ven đường an toàn và khung giờ nghỉ cho thoải mái.
 
-## Cần dừng mấy lần trên cung đến Đồng Mô
+## Nghỉ chân đường đi Khu du lịch Đồng Mô: cần dừng mấy lần
 
 Với cung ngắn, một điểm dừng chính là đủ. Đi tuyến quốc lộ 32, khách dừng ở khu Phùng hoặc gần thị xã Sơn Tây, tức đã qua phần đường đông xe nhất của cung; đi đại lộ Thăng Long, khách dừng gần khu Hòa Lạc trước khi rẽ vào đường nhỏ về hồ. Dừng ở hai vị trí này, khách vừa kịp uống nước, nghỉ lưng vừa còn tỉnh táo cho đoạn vào hồ đường hẹp.
 
@@ -23,7 +23,8 @@ Nhóm có người lớn tuổi hoặc trẻ nhỏ đi cùng nên thêm một d�
 
 ## Chọn quán ven đường như thế nào cho an toàn
 
-Dọc quốc lộ 32, quán nước và quán cà phê khá dày từ Trôi đến Phùng. Khách ưu tiên quán có sân để xe trong khuôn viên, xe không phải lùi thẳng ra đường cái; quán có ghế tựa và mái che thật thay vì chỉ căng bạt mỏng; quán đông khách bản địa là dấu hiệu tin cậy nhất cho cả đồ uống lẫn thái độ chủ quán. Quán đơn độc nằm đoạn vắng nên bỏ qua, dù có treo biển mời khách.
+Dọc quốc lộ 32, quán nước và quán cà phê khá dày từ Trôi đến Phùng. Khách ưu tiên quán có sân để xe trong khuôn viên, xe không phải lùi thẳng ra đường cái; quán có ghế tựa và 
+mái che thật thay vì chỉ căng bạt mỏng; quán đông khách bản địa là dấu hiệu tin cậy nhất cho cả đồ uống lẫn thái độ chủ quán. Quán đơn độc nằm đoạn vắng nên bỏ qua, dù có treo biển mời khách.
 
 Đi đại lộ Thăng Long, quán tập trung quanh các ngã rẽ lớn gần Hòa Lạc. Khách đi nhóm nên cử một người vào hỏi trước chỗ ngồi và giá, rồi mới gọi cả nhóm vào, tránh dừng hàng loạt xe ngay mép đường lớn đang có xe tải và xe khách chạy nhanh.
 
@@ -39,7 +40,8 @@ Trẻ nhỏ và người dễ say xe nên ngồi thẳng lưng, thở thật ch�
 
 Ở mọi điểm dừng, khách để xe nơi nhìn thấy được từ chỗ ngồi, khóa cổ lẫn khóa càng, cất kín túi đồ trên giá sau. Bãi xe quán đông ngày cuối tuần, khách chụp lại vị trí xe với một vật mốc gần như cột điện, biển hiệu, gốc cây; cách này hữu ích khi hàng chục xe cùng kiểu cùng màu đỗ cạnh nhau.
 
-Khung nghỉ đẹp là trước chín giờ sáng và sau ba giờ chiều; nắng giữa trưa xuống nền đường cũ rất hầm, nghỉ lâu cũng không lấy lại được sức. Chiều về, khách đảo thứ tự: dừng ngắn ngay sau khi rời khu hồ, rồi chạy thẳng về nếu còn sức; ai về sau năm giờ chiều nên dừng thêm một lần giữa chặng cho tỉnh táo trước đoạn quốc lộ 32 đông xe buổi tối.
+Khung nghỉ đẹp là trước chín giờ sáng và sau ba giờ chiều; nắng giữa trưa xuống nền đường cũ rất hầm, nghỉ lâu cũng không lấy lại được sức. Chiều về, khách đảo thứ tự: dừng ngắn ngay sau khi rời khu hồ, rồi c
+hạy thẳng về nếu còn sức; ai về sau năm giờ chiều nên dừng thêm một lần giữa chặng cho tỉnh táo trước đoạn quốc lộ 32 đông xe buổi tối.
 
 Khách đi sớm về chiều cũng cần để ý ánh sáng: đoạn đầu quốc lộ 32 sáng sớm có sương, đèn xe phải sáng rõ trước khi rời phố; đoạn về chiều nắng ngược ở các giao cắt lớn, khách giảm tốc và nhìn kỹ trước khi rẽ vào quán ven đường. Đây là hai khung giờ khách hay chủ quan nhất trên cung ngắn.
 

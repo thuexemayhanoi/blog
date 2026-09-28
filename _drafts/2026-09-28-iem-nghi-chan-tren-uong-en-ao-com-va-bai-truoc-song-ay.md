@@ -15,13 +15,14 @@ article_id: BLG-00768
 
 Cung xuống bãi sông Đáy chỉ chừng bốn mươi ki-lô-mét, nhưng khách đi nhóm thường chở theo lều, bếp và thức ăn, xe nặng hơn ngày thường, nên nghỉ chân đường đi Đảo Cốm và Bãi trước sông Đáy vẫn đáng để tính kỹ. Điểm dừng đúng chỗ giúp khách mua đủ đồ tươi, uống nước và nghỉ lưng trước đoạn đê phải chạy chậm. Bài này gợi ý vị trí dừng theo từng chặng, cách chọn quán ven quốc lộ 1A và khung giờ nghỉ hợp lý cho chuyến picnic trong ngày.
 
-## Nên dừng ở đâu trên tuyến hướng nam
+## Nghỉ chân đường đi Đảo Cốm và Bãi trước sông Đáy: nên dừng ở đâu
 
 Khách xuất phát từ nội thành nên dừng một lần quanh khu Văn Điển hoặc Thường Tín, tức sau khi đã qua đoạn phố đông và trước khi lưng kịp mỏi. Khu vực này quán nước, quán cà phê và quán ăn sáng khá dày: nhóm chưa ăn sáng dừng ăn bún phở, nhóm đã ăn ở nhà dừng uống nước và nghỉ vài phút.
 
 Nhóm cần mua đồ tươi cho bữa nướng nên dừng lần hai ở khu chợ gần đường xuống bãi: thịt ướp sẵn, rau, than hoặc đá. Mua ở đây vừa tươi vừa đỡ chở đồ từ Hà Nội, xe nhẹ hơn ở chặng đầu lại có đủ đồ ở chặng cuối. Khách kiểm tra lại bếp, que nướng, khăn giấy và túi đựng rác ngay tại điểm dừng này.
 
-Khách dễ say xe hoặc đi cùng trẻ nhỏ nên dừng đủ lâu ở lần một, ngồi thẳng lưng, uống chút nước ấm rồi mới chạy tiếp; thuốc say xe dùng trước nửa tiếng theo chỉ dẫn trên hộp. Với nhóm có người lớn tuổi, quán có nhà vệ sinh sạch là điều kiện nên đặt lên đầu, quán đông khách ở thị trấn thường đáp ứng tốt hơn quán vắng ven đường.
+Khách dễ say xe hoặc đi cùng trẻ nhỏ nên dừng đủ lâu ở lần một, ngồi thẳng lưng, uống chút nước ấm rồi mới chạy tiếp; thuốc say xe dùng trước nửa tiếng theo chỉ dẫn trên hộp. Với nhóm có người lớn tuổi, quán có nhà vệ sinh sạch là điều kiện nên đặt lên đầu, quán đô
+ng khách ở thị trấn thường đáp ứng tốt hơn quán vắng ven đường.
 
 ## Chọn quán ven quốc lộ 1A ra sao
 
@@ -39,7 +40,8 @@ Nhóm thuê lều và bếp ở khu dịch vụ gần bãi thì gọi trước t
 
 ## Gửi xe, khung giờ và chiều về
 
-Ở quán ven đường, khách để xe nơi nhìn thấy được từ chỗ ngồi, khóa cổ lẫn khóa càng; ở chợ, gửi xe vào bãi có người trông giữ thay vì để giữa đường. Đồ quý mang theo người, không để trên yên xe ngay cả khi chỉ xuống mua nhanh một món đồ.
+Ở quán
+ ven đường, khách để xe nơi nhìn thấy được từ chỗ ngồi, khóa cổ lẫn khóa càng; ở chợ, gửi xe vào bãi có người trông giữ thay vì để giữa đường. Đồ quý mang theo người, không để trên yên xe ngay cả khi chỉ xuống mua nhanh một món đồ.
 
 Khung giờ dừng đẹp là trước chín giờ sáng và sau ba giờ chiều; trưa nắng gắt, quán ven quốc lộ ít bóng mát. Chiều về, khách dừng ăn tối nhẹ quanh Thường Tín hoặc Văn Điển rồi chạy nốt chặng về nội thành, tránh để bụng đói cộng đường đông gây mất tập trung trên đoạn cuối cung.
 

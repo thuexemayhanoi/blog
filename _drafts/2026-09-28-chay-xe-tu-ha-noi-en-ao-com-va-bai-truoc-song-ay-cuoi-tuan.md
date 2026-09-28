@@ -15,7 +15,7 @@ article_id: BLG-00767
 
 Đảo Cốm và Bãi trước sông Đáy là hai tên gọi quen thuộc của vùng bãi bồi ven sông Đáy ở phía nam ngoại thành Hà Nội, điểm cắm trại và picnic tự túc mà giới trẻ thành phố hay chọn cho những buổi cuối tuần không muốn chạy xa. Chạy xe đến Đảo Cốm và Bãi trước sông Đáy từ trung tâm thành phố dài chừng bốn mươi ki-lô-mét, cung ngắn hơn hẳn các bãi cắm ở Hòa Bình hay Ba Vì. Sông Đáy là dòng sông lớn chảy qua các huyện phía nam Hà Nội rồi về hướng Hà Nam, Ninh Bình; bãi bồi hai bờ phẳng và thoáng, hợp cho lều nhỏ và bếp nướng. Bài này nói rõ cung đường theo hướng nam, cách qua đường đê xuống bãi và những lưu ý cho chuyến trong ngày.
 
-## Cung đường từ Hà Nội theo hướng nam
+## Chạy xe đến Đảo Cốm và Bãi trước sông Đáy theo hướng nam
 
 Từ trung tâm thành phố, khách theo trục Giải Phóng hoặc các đường vành đai ra khu vực Văn Điển, sau đó chạy tiếp quốc lộ 1A qua Thường Tín về hướng Phú Xuyên. Đến địa phận ven sông Đáy, khách theo đường đê hoặc đường liên xã ra bãi; các lối xuống bãi nằm rải rác dọc đê, khách nên tra cứu trước địa chỉ khu vực mình định đến hoặc hỏi người bản địa ở chân đê.
 
@@ -36,6 +36,8 @@ Khách không tắm ở sông, vì dòng chảy có chỗ xoáy và nước đ�
 Trước khi dựng bếp, khách quét sạch lá khô quanh vị trí nướng, để bếp cách lều một khoảng và chuẩn bị sẵn xô nước hoặc chai nước lớn gần chỗ nướng để dập ngay khi tàn lửa bắn ra. Nhóm có ý định ở lại đến tối cần mang đủ đèn, nước và đồ ấm, vì vùng bãi sông về đêm hạ nhiệt nhanh hơn hẳn nội thành; nhóm chỉ đi trong ngày thì dọn trước khi trời tối để còn thấy rõ mặt đê trên chặng về.
 
 ## Giờ đi về và lưu ý chung
+
+Trước chuyến đi, khách kiểm tra lốp, phanh và đèn, vì xe chở lều và bếp nặng hơn ngày thường, mòn lốp và mòn phanh sẽ lộ rõ hơn trên đường đất. Xăng đổ đầy ở khu vực Văn Điển hoặc gần chân đê; trên đê hầu như không có cây xăng, khách không để cạn giữa chặng. Mũ bảo hiểm cài quai đúng cách, cọc lều và đồ chơi của trẻ buộc chặt vào giỏ sau, tránh rơi vãi trên quốc lộ. Nhóm đi lần đầu nên đi hai xe trở lên để còn trông xe và hỗ trợ nhau khi xe lún ở bãi.
 
 Khung giờ hợp lý: xuất phát bảy giờ sáng, tới bãi trước chín giờ, chơi và ăn trưa đến ba giờ chiều rồi thu dọn lên đường. Đường đê và đường đất lúc chạng vạng tối khó nhìn, khách không nên để lỡ tối; chiều chủ nhật quốc lộ 1A hướng về Hà Nội đông, khách về sớm hoặc dừng ăn tối ở chợ quê rồi lên đường.
 

@@ -15,11 +15,12 @@ article_id: BLG-00765
 
 Khu du lịch Đồng Mô nằm ở phía tây Hà Nội, vùng giáp ranh giữa thị xã Sơn Tây và huyện Ba Vì, dưới chân dãy núi Ba Vì. Từ trung tâm thành phố, cung chạy xe đến Khu du lịch Đồng Mô dài khoảng bốn mươi ki-lô-mét, xe máy mất chừng một tiếng đến một tiếng rưỡi tùy tuyến và tùy điểm xuất phát. Đây là một trong những cung cuối tuần ngắn nhất mà khách ở Hà Nội có thể đi trọn trong một ngày: sáng ra đi, chiều tối về, không cần nghỉ lại. Bài này đi qua hai tuyến lên hồ, cách chia chặng theo thời gian và những lưu ý riêng cho người đi xe máy.
 
-## Đồng Mô ở đâu và đi bằng đường nào
+## Chạy xe đến Khu du lịch Đồng Mô bằng đường nào
 
 Hồ Đồng Mô là hồ chứa lớn phía tây thủ đô, mặt nước ôm các đảo nhỏ, phía xa là dãy Ba Vì. Khách ở khu vực Cầu Giấy, Nam Từ Liêm đi quốc lộ 32 là tiện nhất: từ cầu vượt Mai Dịch chạy thẳng qua Trôi, Phùng đến thị xã Sơn Tây, đến ngã tư Sơn Lộc rẽ trái vào quốc lộ 21, chạy thêm chừng bảy ki-lô-mét là tới ven hồ. Khách ở các quận phía tây, tây nam thành phố thường chọn đại lộ Thăng Long: đường rộng, làn xe máy tách riêng, đến khu Hòa Lạc rồi theo biển chỉ dẫn rẽ về phía làng Văn hóa – Du lịch các dân tộc Việt Nam ở bờ nam hồ.
 
-Cả hai tuyến đều không được chuyển lên tuyến cao tốc chạy song song, vì xe máy bị cấm trên cao tốc. Khách lần đầu chạy xa nên đi đại lộ Thăng Long vì ít giao cắt, dễ giữ nhịp; khách quen quốc lộ thì tuyến 32 ngắn hơn chút và dọc đường có đủ quán nước, xưởng vá xe nếu cần.
+Cả hai tuyến đều không được chuyển lên tuyến cao tốc chạy song song, vì xe máy bị cấm trên cao tốc. Khách lần đầu chạy xa nên đi đại lộ Thăng Long vì ít giao cắt, dễ giữ nhịp; khách quen quốc lộ thì tuyến 32 ngắn hơn chút và dọc đường có đủ quán nước, xưởng vá xe nếu cần
+.
 
 ## Thời gian chạy theo từng chặng
 
@@ -33,7 +34,8 @@ Cả hai tuyến đều không được chuyển lên tuyến cao tốc chạy s
 
 Bờ nam hồ gần làng Văn hóa – Du lịch các dân tộc Việt Nam, nơi tái hiện kiến trúc và sinh hoạt của các cộng đồng dân tộc; khách còn thời gian có thể kết hợp tham quan. Chiều ở vùng chân núi nhiều gió, mùa hè dễ chịu hơn hẳn nội thành, mùa đông sương sớm dày nên khách mang áo mỏng. Khách định picnic nên sơ chế đồ ăn từ Hà Nội, quanh thị xã Sơn Tây có quán cơm, quán phở cho ai muốn ăn nóng trước khi vào hồ.
 
-Theo mùa, trải nghiệm ven hồ cũng đổi khác. Mùa thu sang đông, trời trong, nắng nhẹ, khung sáng sớm hợp chụp ảnh và đạp xe quanh hồ; mùa hè trưa nắng gắt nhưng dưới bóng cây ven hồ vẫn mát, khách dời khung chơi sang sớm và chiều. Mùa mưa, giông thường kéo về buổi chiều, khách để ý dự báo; nhóm đang ở ngoài bãi thì dời về chỗ có mái che đợi cơn mưa qua rồi hẳn lên đường, tránh chạy trong mưa trên đoạn quốc lộ 21 trơn.
+Theo mùa, trải nghiệm ven hồ cũng đổi khác. Mùa thu sang đông, trời trong, nắng nhẹ, khung sáng sớm hợp chụp ảnh và đạp xe quanh hồ; mùa hè trưa nắng gắt nhưng dưới bóng cây ven hồ vẫn mát, khách dời khung chơi sang sớm và chiều. Mùa mưa, giông thường kéo về buổi chiều, khách để ý dự báo; nhóm đang ở ngoài bãi thì dời về chỗ có mái che đợi cơn mưa qua rồi hẳn lên đường, tránh chạy trong mưa trên đoạn quốc lộ 21 
+trơn.
 
 ## Giờ đi về và lưu ý cho xe máy
 
