@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-am-sen-tay-ho.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-am-sen-tay-ho.md",
   "content_sha256": "1ce5542d3014132022cb7f1c04ddb1da18751949df7e09f24ed710cf292d4234",
-  "matrix_row_sha256": "bfac0f1c219fe26d93360971b46a1ae63454e2bbbdd505bbcf5284c8a094f2e2",
-  "result": "PASS"
+  "matrix_row_sha256": "3980f89e6ca2c32f5ed91521ae2dcae2e6c007c7cd622ca9c012b73ef560066b",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:09+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-lang-gom-bat-trang.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-lang-gom-bat-trang.md",
   "content_sha256": "97f9afeea3be76abaf97b27d2fb47639a0216bd27bfd517702af65d450ace9f2",
-  "matrix_row_sha256": "8955eb5193ac1cb095036f972a7726662b6c6d72a1138c3daee28cd9d4c1dac0",
-  "result": "PASS"
+  "matrix_row_sha256": "b8a375375c978ec9f6b0c44184573ae36e7d5dcecfb88a9ecae1f5db20766d39",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:08+00:00"
 }

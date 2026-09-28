@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-am-sen-tay-ho-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-am-sen-tay-ho-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "882c6dd8d5ca4773876a33b7ea609b0076562a8cf6a9bc380bf772e8a9b50739",
-  "matrix_row_sha256": "d5173043c50aabbbc69e4bfc2663ac6861e764d8725bb2881d62be9bf2630f8d",
-  "result": "PASS"
+  "matrix_row_sha256": "33d22eecd5115457118c3bed61ff9e743170a9679baffcc330182c5fde9de802",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:08+00:00"
 }

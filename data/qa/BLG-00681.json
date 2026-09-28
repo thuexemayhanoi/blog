@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-cong-vien-thu-le-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-cong-vien-thu-le-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "bea8622ca381907882e48d0ed2014f7aa5572501f86f2a243cfb61f2820c9e3d",
-  "matrix_row_sha256": "7c8eb086ecd2245aea85d80a34d878bf9cde0b8db13f01d7574d3e37f84bdfb4",
-  "result": "PASS"
+  "matrix_row_sha256": "0991720fa83386f5660e6eab80504f94df7b12e0cbfe650fd6bd78536b40e438",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:09+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-am-sen-tay-ho-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-am-sen-tay-ho-nua-ngay.md",
   "content_sha256": "ab05519490debc6ec4d893a0420a9e7f81a44794bf250621c21153aa4af44a61",
-  "matrix_row_sha256": "f564be3e4101af9e8f09d0b8e85a8b5993cfbd6d33d4959c6f73f9b412f811e6",
-  "result": "PASS"
+  "matrix_row_sha256": "bff6b705b60a13ab594830111f706612e3bb79cfd19bd8535bb164a6bd95b075",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:09+00:00"
 }

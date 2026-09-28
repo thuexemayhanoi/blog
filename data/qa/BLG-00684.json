@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-k9-va-uong-ho-chi-minh-tai-ba-vi-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-k9-va-uong-ho-chi-minh-tai-ba-vi-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "ce9ec6c83cf750beb017c517888191ec0cac58c77107a939f2536a1d13140a76",
-  "matrix_row_sha256": "a056dc0f6efedae7203e3e3415c6b085a70f1fbd1b0d4aea8d1c3b8edc877563",
-  "result": "PASS"
+  "matrix_row_sha256": "7c93e60839a82e5f4544a553a12462d8f8865131ab2ecd28f51edbef02803f90",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:09+00:00"
 }

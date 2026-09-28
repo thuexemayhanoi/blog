@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-lang-gom-bat-trang-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-lang-gom-bat-trang-nua-ngay.md",
   "content_sha256": "e845e5e830899dfad749a4e2277f888807e6e5cc5214aa4d251e54c9fd0fc897",
-  "matrix_row_sha256": "ab7c9509128400cc7b659fa5e65aa00499bb975ec93832adb7b637874a1bbeca",
-  "result": "PASS"
+  "matrix_row_sha256": "d75fd121933fbee66126560a84b8d18fb31da1b237b91cd8d7b93e9ed445752e",
+  "result": "PASS",
+  "published_at": "2026-09-28T12:18:08+00:00"
 }
