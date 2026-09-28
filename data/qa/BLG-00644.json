@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00644",
   "title": "Biển báo nguy hiểm trên đường trường",
-  "scored_at": "2026-09-28T06:24:26+00:00",
+  "scored_at": "2026-09-28T06:37:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -10,7 +10,7 @@
     "permalink_canonical": true,
     "word_count": true,
     "title_match": true,
-    "description_length": false,
+    "description_length": true,
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
@@ -38,12 +38,12 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 85,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-bien-bao-nguy-hiem-tren-uong-truong.md",
-  "content_sha256": "220f871577605c2e581bd118a469b9f44a24296ba85062572f0b763edd8863fc",
+  "content_sha256": "a7ab5a56334f8c1d37989ac8822df8ba3a9ba3b65edf064c7c3285289f1d62bd",
   "matrix_row_sha256": "f77d25e1f23e1cf78bdd378a5c9c85a0b733091a228a467493fb9c81fd7524f4",
-  "result": "REPAIR"
+  "result": "PASS"
 }

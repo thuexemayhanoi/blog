@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00641",
   "title": "Biển báo cấm xe máy thường gặp",
-  "scored_at": "2026-09-28T06:24:26+00:00",
+  "scored_at": "2026-09-28T06:37:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -17,7 +17,7 @@
     "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
-    "links_count": false,
+    "links_count": true,
     "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
@@ -31,19 +31,19 @@
     "legal_source": true,
     "legal_disclaimer": true
   },
-  "word_count": 1112,
+  "word_count": 1121,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 85,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-bien-bao-cam-xe-may-thuong-gap.md",
-  "content_sha256": "ece66dca3ad3aa1afa7c5b58aba16823cffb39324042a83bca11d9bd6fe6aadd",
+  "content_sha256": "b4b75bf59f20ce821f0773f380e6b5b976d95f84e4a00cc87b245511c761dd40",
   "matrix_row_sha256": "cc102916e088bff7a796103de9578660994f937c6fd59daa7cdac9f4d3dad11a",
-  "result": "REPAIR"
+  "result": "PASS"
 }
