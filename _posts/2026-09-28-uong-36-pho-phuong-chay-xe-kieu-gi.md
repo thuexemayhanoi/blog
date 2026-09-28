@@ -7,7 +7,7 @@ description: "36 phố phường đi xe máy thế nào cho dễ chịu: cách c
 categories: [Du lịch]
 lang: vi
 tags: [36 phố phường đi xe máy, ngõ phố cổ, đường phố cổ nhỏ, thuê xe máy Hà Nội]
-permalink: /du-lich/2026/09/28/uong-36-pho-phuong-chay-xe-kieu-gi.md
+permalink: /du-lich/2026/09/28/uong-36-pho-phuong-chay-xe-kieu-gi/
 parent_id: P-DU-LICH
 child_id: C-PHO-CO
 article_id: BLG-00727

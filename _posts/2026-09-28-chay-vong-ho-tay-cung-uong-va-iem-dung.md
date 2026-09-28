@@ -7,7 +7,7 @@ description: "Chạy vòng Hồ Tây bằng xe máy: cung đường quanh hồ c
 categories: [Du lịch]
 lang: vi
 tags: [chạy vòng hồ tây, cung đường hồ tây, đi quanh hồ tây, thuê xe máy Hà Nội]
-permalink: /du-lich/2026/09/28/chay-vong-ho-tay-cung-uong-va-iem-dung.md
+permalink: /du-lich/2026/09/28/chay-vong-ho-tay-cung-uong-va-iem-dung/
 parent_id: P-DU-LICH
 child_id: C-HO-TAY
 article_id: BLG-00731

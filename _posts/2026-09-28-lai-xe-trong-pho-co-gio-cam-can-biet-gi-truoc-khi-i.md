@@ -7,7 +7,7 @@ description: "Đường phố cổ cấm xe máy theo khung: cách hiểu các d
 categories: [Du lịch]
 lang: vi
 tags: [đường phố cổ cấm xe máy, giờ cấm xe phố cổ, đi xe trong khu phố cổ, thuê xe máy Hà Nội]
-permalink: /du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i.md
+permalink: /du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i/
 parent_id: P-DU-LICH
 child_id: C-PHO-CO
 article_id: BLG-00730
