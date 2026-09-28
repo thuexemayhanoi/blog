@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-gia-lam-va-cac-lang-nghe-gan-o-chay-xe-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-gia-lam-va-cac-lang-nghe-gan-o-chay-xe-nua-ngay.md",
   "content_sha256": "e13086bea7f5e8a9d749d79b180bfad862c046a697d652a17b41e69e07e838d6",
-  "matrix_row_sha256": "2e6aab1a955b310417507d14187855d3ba9e2abe0832781a4fd52002fb39671b",
-  "result": "PASS"
+  "matrix_row_sha256": "ccf5ad12c101f6bd7d7abf7de365acd7ebfde13b6c366ae00015d691f2770306",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

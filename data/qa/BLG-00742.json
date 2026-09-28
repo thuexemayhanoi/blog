@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may.md",
+  "source_path": "_posts/2026-09-28-cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may.md",
   "content_sha256": "b7d7be5afee5917ffea48ae698f207f0729f81b27259008de915b368fd72c9d4",
-  "matrix_row_sha256": "426fa176a9eccdd6016b8409c7d96d3ab72d5898a95a10f24902a2e22d7e22b4",
-  "result": "PASS"
+  "matrix_row_sha256": "b7e2f03ea7c219cea66d74a807aa2231ff9d0938fa9e8dc57bfd966296835696",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

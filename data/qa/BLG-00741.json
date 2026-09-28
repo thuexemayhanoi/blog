@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-thue-xe-o-long-bien-i-vao-noi-o-thuan-tien-the-nao.md",
+  "source_path": "_posts/2026-09-28-thue-xe-o-long-bien-i-vao-noi-o-thuan-tien-the-nao.md",
   "content_sha256": "2dcf504ce63abd1eb64e4393f6edf2644f14ead7bef8b2d2b7761274db995776",
-  "matrix_row_sha256": "b9c782ba6a13d491dc4bff24288d464b3629c922e75448aca9db574adbe0fc42",
-  "result": "PASS"
+  "matrix_row_sha256": "4c672efae98367a325426447f81e9663681179692a2c3160efada0c4ee8af11a",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

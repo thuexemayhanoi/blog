@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe.md",
+  "source_path": "_posts/2026-09-28-cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe.md",
   "content_sha256": "906da0d5fdf8d115f8a375877856958eb7e4d045b75fc05e2dd9460321d1377e",
-  "matrix_row_sha256": "46c0d6c314eeaafb3e8dd92182f502ec22a214ddde4a457aa224fa56abe0e3d9",
-  "result": "PASS"
+  "matrix_row_sha256": "90b69653b225d1500b649b024a73084b20bac8b58b8c5b55b670b427a74f43c3",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

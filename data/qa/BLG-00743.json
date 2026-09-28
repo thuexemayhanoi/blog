@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ba-vi-nua-ngay-bang-xe-may-tu-ha-noi.md",
+  "source_path": "_posts/2026-09-28-ba-vi-nua-ngay-bang-xe-may-tu-ha-noi.md",
   "content_sha256": "b8e5b5268db1cc3c103aa2974edced03ad33b390b816034d76d656ac7f7d8630",
-  "matrix_row_sha256": "789a947b51b4874f49792ce73412c7a650d03e4fecf5793ed7ce92d400478158",
-  "result": "PASS"
+  "matrix_row_sha256": "2776f33e4a0f94e540072bf835f0348ebe52a44b4df6bf65c6616260f00eae7b",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-uong-ve-son-tay-va-uong-lang-uoc-mo.md",
+  "source_path": "_posts/2026-09-28-uong-ve-son-tay-va-uong-lang-uoc-mo.md",
   "content_sha256": "695e807b69cbe9c2449e30eda24dddd1c35cf3bf3323a0b59c399aa4c108336d",
-  "matrix_row_sha256": "3857fa34dea7b901b8943802b7eb265b901c300f687487fd6ec9c6521d8455ca",
-  "result": "PASS"
+  "matrix_row_sha256": "19de7a46c649c0d36503f0702d933def85925afd738acc0aa6ab202c94b4c073",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cho-em-long-bien-va-cho-e-xe.md",
+  "source_path": "_posts/2026-09-28-cho-em-long-bien-va-cho-e-xe.md",
   "content_sha256": "bfbea744616787edacf896b5c531582c77b863212762f6aabbb489face04d6c3",
-  "matrix_row_sha256": "23ba321330a969918e1b0de8d9fee225be100e012b49f50b2ac17fd5534c465a",
-  "result": "PASS"
+  "matrix_row_sha256": "48eea3651fdb3085f3d9b17150de028a30f220a7f5af842ed0f7c6d018caec0d",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

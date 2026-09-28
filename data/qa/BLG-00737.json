@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-long-bien-chay-xe-may-nhung-cung-uong-ang-thu.md",
+  "source_path": "_posts/2026-09-28-long-bien-chay-xe-may-nhung-cung-uong-ang-thu.md",
   "content_sha256": "2322079d99a082ebef98167cacc1e4d8a5898b730c5cb76b0e4e0f795f06e77d",
-  "matrix_row_sha256": "1ac4d366f0b988793c306fe595df17f80144cdc631c1807e39433b43b936da80",
-  "result": "PASS"
+  "matrix_row_sha256": "36fe024adfd5c1b2639a2ad859ab7471bc06bd0e52e997403ab0c22a861942d8",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

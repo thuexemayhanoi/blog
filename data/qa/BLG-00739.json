@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-tu-long-bien-chay-ra-khu-ven-song-hong.md",
+  "source_path": "_posts/2026-09-28-tu-long-bien-chay-ra-khu-ven-song-hong.md",
   "content_sha256": "afad13907b7b4017eaee1c5e7f90514c9465869f4d0cb6519cb5f251ecb92c89",
-  "matrix_row_sha256": "781b9a2f218d362c3c034513f3bf6068ea69fce51951abe0892801cef9f03ab3",
-  "result": "PASS"
+  "matrix_row_sha256": "671df9b3ccbe570ba1e1dbd1491a0783ee27d028ff4ba590b15ea230b6ce80b4",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:55+00:00"
 }

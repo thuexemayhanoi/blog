@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-tu-ho-tay-vao-pho-co-mat-bao-lau-bang-xe-may.md",
+  "source_path": "_posts/2026-09-28-tu-ho-tay-vao-pho-co-mat-bao-lau-bang-xe-may.md",
   "content_sha256": "c4e5dd53e9b21695105ae80fa9d8d5c3ec7981702e94397ddaa5111775f7fd97",
-  "matrix_row_sha256": "905df360c41190201464320f1c2b5d3eac2d1bc05060e34345c47ae0444ed15c",
-  "result": "PASS"
+  "matrix_row_sha256": "8e555158d541d390c305c8c888208defa13f93a62b8b186f53bc6ac8f3cf784e",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:00:54+00:00"
 }
