@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i.md",
+  "source_path": "_posts/2026-09-28-lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i.md",
   "content_sha256": "5bd3e6cfb602f98422357408574cafba8980353772cc0d7a939dd3ead6f181b4",
-  "matrix_row_sha256": "1f29af1891bd9881a831083230b71e429152b3953ed92c7b7ada8f95c1d658f2",
-  "result": "PASS"
+  "matrix_row_sha256": "1279e3638dd746b49531a3efefc445b6530c41ad28823649b7f074ab803515ba",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:35+00:00"
 }

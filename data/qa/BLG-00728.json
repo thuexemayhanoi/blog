@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-an-uong-quanh-pho-co-e-xe-o-au.md",
+  "source_path": "_posts/2026-09-28-an-uong-quanh-pho-co-e-xe-o-au.md",
   "content_sha256": "c94e9c694657785070af5aa5a439eccfabdc60ea9dc5660a484401e69f2b2147",
-  "matrix_row_sha256": "16950e9362e0823dccf7ea316d73aec906a1cddfda52dc7014b35bfe6de0e657",
-  "result": "PASS"
+  "matrix_row_sha256": "4ec83195d985d43227f1af4a92c4b28127999b381ee91d07241f9d3ba528c25e",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:35+00:00"
 }

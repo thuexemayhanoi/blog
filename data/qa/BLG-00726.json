@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-pho-i-bo-cuoi-tuan-va-xe-may-e-au.md",
+  "source_path": "_posts/2026-09-28-pho-i-bo-cuoi-tuan-va-xe-may-e-au.md",
   "content_sha256": "c44d9fde0ac077afaac5699973ec95329b7c0d62c0a26fd7088e7ffcb7810afe",
-  "matrix_row_sha256": "cb700da3bdd573929ccc1266dbcf2c525983858670fefe4125c5a090c3316b87",
-  "result": "PASS"
+  "matrix_row_sha256": "4df6eadebf991f4ecf3f0c065606f62333bfa303789d32789be3c57b4be5f76c",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:35+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-quan-nghe-va-iem-dung-chan-quanh-ho-tay-chay-xe-ghe.md",
+  "source_path": "_posts/2026-09-28-quan-nghe-va-iem-dung-chan-quanh-ho-tay-chay-xe-ghe.md",
   "content_sha256": "1cdd098585eb22e525744ecf0ddf44274db890876ca5ad944960fe167217602a",
-  "matrix_row_sha256": "5d3fa2a6f5f4542e40e7ade4cb902c8755a3526dedef0557d79be896db902bcd",
-  "result": "PASS"
+  "matrix_row_sha256": "d86227e7b65743d493c5eb0607c04826f890ad5e6bc9e588de10189359e7fd73",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:36+00:00"
 }

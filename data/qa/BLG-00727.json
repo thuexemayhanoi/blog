@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-uong-36-pho-phuong-chay-xe-kieu-gi.md",
+  "source_path": "_posts/2026-09-28-uong-36-pho-phuong-chay-xe-kieu-gi.md",
   "content_sha256": "6e3dc98b831cfdb61cc1cd59ba87276682203c0bee5e47a307c2ef16fbd851a6",
-  "matrix_row_sha256": "5301c8ee69c50976ba4e87718afdb9639dc5d4f8de06301ff77237d84b9c7cb0",
-  "result": "PASS"
+  "matrix_row_sha256": "a0f73d443c815ad9601e604ddcbb63977421f5a12075d6af3724f95fdbecfc61",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:35+00:00"
 }

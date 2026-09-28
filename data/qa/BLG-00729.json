@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chup-anh-pho-co-voi-xe-may-ep-o-au.md",
+  "source_path": "_posts/2026-09-28-chup-anh-pho-co-voi-xe-may-ep-o-au.md",
   "content_sha256": "3f3c73130073854a84779ed2a86091d6b976909a6f3727eeac5095f83248658c",
-  "matrix_row_sha256": "622f702866e518fdd67ffed437183d7b633a90f78c9c75c782515c3063c598a3",
-  "result": "PASS"
+  "matrix_row_sha256": "f65cd9dae993da7804ff7eaf10bbab46a3c27fb012e22e869b4d339ad2533255",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:35+00:00"
 }

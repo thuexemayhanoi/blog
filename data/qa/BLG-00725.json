@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-gui-xe-quanh-ho-guom-gia-va-vi-tri.md",
+  "source_path": "_posts/2026-09-28-gui-xe-quanh-ho-guom-gia-va-vi-tri.md",
   "content_sha256": "86b15bc4bb98a88d457c625c8fd58657cb8f698cf84b1dcdd45e0a59204ff4dd",
-  "matrix_row_sha256": "44538d0c0cad54d3861feee1ad94b35c244f9ab4c61d82fa1cddcf6359ff24c8",
-  "result": "PASS"
+  "matrix_row_sha256": "8ee3051a208b55ff55644ca4ab1f82e51fac90dadf8b25124c275137973b79df",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:35+00:00"
 }

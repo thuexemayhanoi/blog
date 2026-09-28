@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-uong-nguyen-hoang-va-khu-tribeca-chay-xe-buoi-toi.md",
+  "source_path": "_posts/2026-09-28-uong-nguyen-hoang-va-khu-tribeca-chay-xe-buoi-toi.md",
   "content_sha256": "966ec5353ea81d64fadc265b2f8f1f5fab3b8e70a1b319c0752023cab70f8a56",
-  "matrix_row_sha256": "35c5bd79f05cc5858350155985474f3c7dc4ae987c8532830186780ef8e802ed",
-  "result": "PASS"
+  "matrix_row_sha256": "09dc29a58ccbef92bc48eb0b80864ec159ffa4e8059400c189e535d65cee7f47",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:24:36+00:00"
 }
