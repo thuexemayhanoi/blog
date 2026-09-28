@@ -23,7 +23,8 @@ Với xe máy, vạch kẻ đường đặc biệt quan trọng vì xe hai bánh
 
 ## Các loại vạch thường gặp
 
-Vạch đứt là vạch phân chia các làn đường cùng chiều, cho phép xe đi đè lên khi chuyển làn an toàn. Đây là vạch thân thiện nhất với người đi xe máy: bạn có thể vượt xe chậm phía trước khi vạch đứt và tầm nhìn thông thoáng. Ngược lại, vạch liền là vạch phân chia làn không được đi đè lên, nghĩa là không được vượt hay lấn sang làn bên cạnh trong suốt chiều dài vạch. Nếu đi đè vạch liền khi chuyển hướng hoặc chạy kẹt giữa hai làn, bạn đã vi phạm và có thể bị ghi hình qua camera như mọi lỗi khác.
+Vạch đứt là vạch phân chia các làn đường cùng chiều, cho phép xe đi đè lên khi chuyển làn an toàn. Đây là vạch thân thiện nhất với người đi xe máy: bạn có thể vượt xe chậm phía trư
+ớc khi vạch đứt và tầm nhìn thông thoáng. Ngược lại, vạch liền là vạch phân chia làn không được đi đè lên, nghĩa là không được vượt hay lấn sang làn bên cạnh trong suốt chiều dài vạch. Nếu đi đè vạch liền khi chuyển hướng hoặc chạy kẹt giữa hai làn, bạn đã vi phạm và có thể bị ghi hình qua camera như mọi lỗi khác.
 
 Vạch liền kép thường gặp trên đường lớn hoặc đường hai chiều xa vùng dân cư: tuyệt đối không được cắt qua để vượt xe hoặc quay đầu. Ngoài ra còn có mũi tên chỉ hướng trên mặt đường, buộc người lái phải theo đúng hướng mũi tên chỉ, vạch chữ X màu vàng tại khu vực giao cắt đường sắt, và vạch dành cho người đi bộ qua đường tại nút giao, nơi xe phải dừng trước vạch khi đèn đỏ hoặc khi người đang sang đường.
 
@@ -37,11 +38,12 @@ Một hiểu lầm phổ biến là xe máy được phép luồn giữa hai là
 
 ## Vùng vạch cần đặc biệt chú ý ở Hà Nội
 
-Ở các tuyến như trục Nguyễn Văn Cừ hướng về cầu Long Biên hoặc các nút giao lớn quanh khu vực Bồ Đề, Long Biên, vạch kẻ phân định rõ làn rẽ, làn thẳng và làn xe máy. Người thuê xe lần đầu đi các tuyến này dễ bị động vì chưa quen vị trí vạch. Cách xử lý đơn giản: giảm tốc độ khi tới gần nút giao, đọc sớm vạch và mũi tên để chọn làn đúng trước khi tới vạch dừng, vì sang làn sát vạch liền vừa nguy hiểm vừa vi phạm.
+Ở các tuyến như trục Nguyễn Văn Cừ hướng về cầu Long Biên hoặc các nút giao lớn quanh khu vực Bồ Đề, Long Biên, vạch kẻ phân định rõ làn rẽ, làn
+ thẳng và làn xe máy. Người thuê xe lần đầu đi các tuyến này dễ bị động vì chưa quen vị trí vạch. Cách xử lý đơn giản: giảm tốc độ khi tới gần nút giao, đọc sớm vạch và mũi tên để chọn làn đúng trước khi tới vạch dừng, vì sang làn sát vạch liền vừa nguy hiểm vừa vi phạm.
 
 ## Người thuê xe cần lưu ý
 
-Khi nhận xe thuê, hãy chạy thử vài cây số trên đường vắng để quen phản ứng ga và phanh trước khi vào đường đông. Trên đường, giữ khoảng cách với xe phía trước, tuân thủ vạch và không cố luồn khi dòng xe dồn ứ. Thói quen đi đúng làn không chỉ giúp tránh bị xử phạt mà còn giảm nguy cơ va chạm. Nhóm bài về [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/) giải nghĩa từng loại biển thường gặp, còn tổng hợp các quy định hiện hành nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Khi nhận xe thuê, hãy chạy thử vài cây số trên đường vắng để quen phản ứng ga và phanh trước khi vào đường đông. Trên đường, giữ khoảng cách với xe phía trước, tuân thủ vạch và không cố luồn khi dòng xe dồn ứ. Thói quen đi đúng làn không chỉ giúp tránh bị xử phạt mà còn giảm nguy cơ va chạm. Nhóm bài về [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/) giải nghĩa từng loại biển thường gặp, còn tổng hợp các quy định hiện hành nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông dành cho người đi xe máy, còn mẹo lái xe thực dụng được tổng hợp trong trang [kinh nghiệm](/blog/kinh-nghiem/).
 
 ## Kết luận về vạch kẻ đường
 

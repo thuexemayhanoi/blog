@@ -25,6 +25,7 @@ Khác với bằng lái hay đăng ký, tem gắn trực tiếp trên xe, nên k
 Khi nhìn tem kiểm định xe máy, cần chú ý những thông tin sau:
 
 - Tình trạng vật lý: tem còn nguyên vẹn, không bong tróc, không bị tẩy xóa hay dán đè, số trên tem đọc rõ.
+
 - Thời gian hiệu lực: ngày kiểm định và thời hạn hiệu lực được ghi trên tem và giấy chứng nhận kiểm định đi kèm; hết thời hạn là xe chưa đủ điều kiện lưu thông cho tới khi kiểm định lại.
 - Khớp thông tin: tem phải gắn đúng xe, biển số và số khung khớp với đăng ký, không mượn tem xe khác.
 - Chu kỳ tiếp theo: chủ xe cần theo dõi thời điểm kiểm định định kỳ kế tiếp để chủ động mang xe đi kiểm định sớm.
@@ -39,11 +40,12 @@ Cách xử lý đúng khi tem sắp hết hạn là đặt lịch kiểm định
 
 ## Xe thuê và tem kiểm định
 
-Với khách thuê xe máy ở Hà Nội, tem kiểm định là phần cửa hàng lo, nhưng người đi đường vẫn là người bị dừng kiểm tra. Vì vậy trước khi nhận xe, hãy nhìn nhanh tem còn hiệu lực không, tem có gắn chắc trên xe không và giấy tờ kèm xe có ghi thông tin khớp không. Nếu thấy tem gần hết hạn, nên đề nghị cửa hàng cho xe khác hoặc xác nhận xe sẽ được kiểm định lại trong kỳ thuê. Đây cũng là lý do nên thuê ở địa chỉ rõ ràng, có thể đến trực tiếp để kiểm tra xe như tại khu vực Long Biên, thay vì nhận xe qua trung gian không rõ nguồn gốc xe.
+Với khách thuê xe máy ở Hà Nội, tem kiểm định là phần cửa hàng lo, nhưng người đi đường vẫn là người bị dừng kiểm tra. Vì vậy trước khi nhận xe, hãy nhìn nhanh tem còn hiệu lực không, tem có 
+gắn chắc trên xe không và giấy tờ kèm xe có ghi thông tin khớp không. Nếu thấy tem gần hết hạn, nên đề nghị cửa hàng cho xe khác hoặc xác nhận xe sẽ được kiểm định lại trong kỳ thuê. Đây cũng là lý do nên thuê ở địa chỉ rõ ràng, có thể đến trực tiếp để kiểm tra xe như tại khu vực Long Biên, thay vì nhận xe qua trung gian không rõ nguồn gốc xe.
 
 Ngoài tem, khi nhận xe thuê cũng nên thử phanh, bóp còi, bật đèn trước khi lăn bánh, vì những hạng mục này chính là thứ lượt kiểm định rà soát, và việc thử trực tiếp cho bạn cảm nhận hiện trạng thật của xe.
 
-Các chủ đề giấy tờ liên quan khi đi xe máy được tổng hợp trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/), còn tình huống bị dừng kiểm tra giấy tờ khi đi xe thuê được nói kỹ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
+Các chủ đề giấy tờ liên quan khi đi xe máy được tổng hợp trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/), còn tình huống bị dừng kiểm tra giấy tờ khi đi xe thuê được nói kỹ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông dành cho người đi xe máy, còn tổng quan các thủ tục khi thuê xe nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
 
 ## Kết luận về tem kiểm định
 

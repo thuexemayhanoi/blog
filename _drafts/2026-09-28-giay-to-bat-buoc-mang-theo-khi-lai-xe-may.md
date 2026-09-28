@@ -13,13 +13,14 @@ child_id: C-GIAY-TO
 article_id: BLG-00647
 ---
 
-Ra đường với một chiếc xe máy mà thiếu giấy tờ là một trong những lỗi phổ biến nhất khiến người lái bị xử phạt dù không hề đi sai luật. Không ít người chỉ nhớ mang chìa khóa mà quên rằng bộ giấy tờ đi kèm xe mới là thứ cơ quan chức năng yêu cầu xuất trình đầu tiên. Bài này liệt kê đầy đủ giấy tờ bắt buộc phải mang theo khi lái xe máy theo quy định hiện hành, phân biệt bản gốc với tài khoản định danh điện tử, và chỉ ra những điều người thuê xe cần chủ động hỏi trước khi nhận xe.
+Thiếu đúng một loại trong bộ giấy tờ khi lái xe máy là một trong những lỗi phổ biến nhất khiến người lái bị xử phạt dù không hề đi sai luật. Không ít người chỉ nhớ mang chìa khóa mà quên rằng bộ giấy tờ đi kèm xe mới là thứ cơ quan chức năng yêu cầu xuất trình đầu tiên. Bài này liệt kê đầy đủ giấy tờ bắt buộc phải mang theo khi lái xe máy theo quy định hiện hành, phân biệt bản gốc với tài khoản định danh điện tử, và chỉ ra những điều người thuê xe cần chủ động hỏi trước khi nhận xe.
 
 ## Bộ giấy tờ bắt buộc khi lái xe máy
 
 Theo quy định hiện hành, người điều khiển xe máy tham gia giao thông phải mang theo đủ các giấy tờ sau. Thứ nhất là giấy phép lái xe phù hợp với loại xe đang điều khiển, ví dụ bằng A1 cho xe máy phổ thông hoặc hạng tương ứng với xe phân khối lớn. Thứ hai là giấy chứng nhận đăng ký xe của chính chiếc xe đang đi, vì đăng ký là chứng cứ xe được phép lưu thông và là căn cứ xác định chủ xe khi có vi phạm bị camera ghi lại. Thứ ba là giấy tờ tùy thân như căn cước công dân, phục vụ xác minh người khi làm việc với cơ quan chức năng.
 
-Thứ tư là giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của chủ xe cơ giới. Với xe máy, bảo hiểm trách nhiệm dân sự là loại bắt buộc theo quy định, và việc không có bảo hiểm hợp lệ khi lưu thông là vi phạm hành chính. Ngoài nhóm bốn loại chính, nếu xe là xe chuyên dùng hoặc đã qua cải tạo thì phải kèm theo giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường còn hiệu lực.
+Thứ tư là giấy chứng nhận bảo hiểm trách nhiệm dân sự bắt buộc của chủ xe cơ giới. Với xe máy, bảo hiểm trách nhiệm dân sự là loại bắt buộc theo quy định, và việc không có bảo hiểm hợp lệ khi lưu thông là vi phạm hành chính. Ngoài nhóm bốn loại chính, nếu xe là xe chuyên dùng hoặc đã qua cải tạo thì phải kèm theo giấy chứng nhận kiểm định an toàn kỹ thuật và bảo vệ môi trường còn
+ hiệu lực.
 
 ## Bản gốc hay tài khoản định danh điện tử
 
@@ -35,11 +36,14 @@ Giấy phép lái xe chứng nhận bạn đủ điều kiện điều khiển l
 
 Nếu phát hiện quên giấy tờ sau khi đã lên đường, cách an toàn là quay về lấy thay vì liều mình tiếp tục lộ trình, vì mỗi đoạn đường qua nút giao đều có thể gặp chốt kiểm tra. Nếu giấy phép lái xe bị mất, bạn cần làm thủ tục cấp lại theo quy định và không điều khiển xe trong thời gian chưa có bằng hợp lệ, kể cả khi đã từng thi đỗ. Với đăng ký xe bị mất, chủ xe cần khai báo và xin cấp lại dấu và giấy đăng ký mới trước khi xe lưu thông trở lại.
 
-Trường hợp bị tạm giữ giấy tờ hoặc phương tiện do vi phạm, người lái sẽ nhận biên bản ghi rõ thời hạn giải quyết; việc đi xe tiếp trong thời gian đó cần tính toán cẩn thận, vì tiếp tục vi phạm khi đang bị tạm giữ giấy tờ sẽ khiến tình huống phức tạp hơn. Với xe thuê, mọi tình huống mất hoặc bị giữ giấy tờ của xe cần được thông báo ngay cho nơi cho thuê để hai bên phối hợp xử lý, tránh phát sinh hiểu lầm về trách nhiệm sau này.
+Trường hợp bị tạm giữ giấy
+ tờ hoặc phương tiện do vi phạm, người lái sẽ nhận biên bản ghi rõ thời hạn giải quyết; việc đi xe tiếp trong thời gian đó cần tính toán cẩn thận, vì tiếp tục vi phạm khi đang bị tạm giữ giấy tờ sẽ khiến tình huống phức tạp hơn. Với xe thuê, mọi tình huống mất hoặc bị giữ giấy tờ của xe cần được thông báo ngay cho nơi cho thuê để hai bên phối hợp xử lý, tránh phát sinh hiểu lầm về trách nhiệm sau này.
 
 ## Người thuê xe cần chủ động hỏi gì
 
 Với người thuê xe máy, bộ giấy tờ có điểm khác biệt: xe và giấy đăng ký thuộc về nơi cho thuê, còn bạn là người điều khiển. Trước khi nhận xe, hãy yêu cầu xem đăng ký xe hoặc bản điện tử kèm xe, hỏi rõ xe có bảo hiểm trách nhiệm dân sự còn hiệu lực hay không và đề nghị bản sao kèm theo để mang theo khi đi. Về phía mình, bạn cần mang bằng lái hợp lệ và căn cước công dân. Khi bị kiểm tra, người điều khiển phải xuất trình đủ bộ: giấy tờ của xe và giấy tờ của người cầm lái. Nhóm bài về [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/) đi sâu vào từng tình huống, còn thủ tục thuê xe đầy đủ được tóm tắt ở trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+
+Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông dành cho người đi xe, còn mẹo lái thực dụng nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
 
 ## Kết luận về giấy tờ khi lái xe máy
 

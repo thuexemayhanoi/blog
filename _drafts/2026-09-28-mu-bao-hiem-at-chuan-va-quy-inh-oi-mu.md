@@ -12,7 +12,7 @@ parent_id: P-PHAP-LY
 child_id: C-QUY-DINH
 article_id: BLG-00653
 ---
-Câu hỏi về mũ bảo hiểm không nằm ở chỗ có nên đội hay không, mà ở chỗ đội mũ nào, đội thế nào và ai bị ràng buộc. Quy định hiện hành xử lý cả ba khía cạnh đó, và phần lớn vi phạm bắt nguồn từ những chi tiết nhỏ tưởng như hình thức: quai không cài, mũ lỏng, mũ không đạt chuẩn. Bài này tách riêng phần quy định pháp lý về đội mũ khỏi chuyện chọn mua mũ, để bạn kiểm tra lại thói quen của mình mỗi lần lên yên xe.
+Câu hỏi về mũ bảo hiểm không nằm ở chỗ có nên đội hay không, mà ở chỗ đội mũ nào, đội thế nào và ai bị ràng buộc. Quy định mũ bảo hiểm hiện hành xử lý cả ba khía cạnh đó, và phần lớn vi phạm bắt nguồn từ những chi tiết nhỏ tưởng như hình thức: quai không cài, mũ lỏng, mũ không đạt chuẩn. Bài này tách riêng phần quy định pháp lý về đội mũ khỏi chuyện chọn mua mũ, để bạn kiểm tra lại thói quen của mình mỗi lần lên yên xe.
 
 ## Ai bắt buộc phải đội mũ
 
@@ -22,7 +22,8 @@ Việc đội mũ đúng quy định không chỉ là điều kiện tránh bị
 
 ## Mũ đạt chuẩn là mũ như thế nào
 
-Mũ bảo hiểm đạt chuẩn là mũ được sản xuất, nhập khẩu theo quy chuẩn kỹ thuật quốc gia về mũ bảo hiểm dành cho người đi xe máy, với nhãn mác và nguồn gốc rõ ràng theo quy định. Khi mua hoặc khi kiểm tra mũ sẵn có, cần lưu ý:
+Mũ bảo hiểm đạt chuẩn là mũ được sản xuất, nhập khẩu theo quy chuẩn kỹ thuật quốc gia về mũ bảo hiểm dành cho người đi xe máy, với nhãn mác và nguồn gốc rõ ràng theo quy định. Khi mua hoặc khi kiểm tra mũ sẵn có, cần
+ lưu ý:
 
 - Mũ có ghi nhãn thông tin sản phẩm hợp lệ, nguồn gốc rõ ràng, không phải mũ trôi nổi không nhãn.
 - Lõi mũ không bị biến dạng, rìa mũ không sứt mẻ, dây đai và khoá còn chắc chắn.
@@ -41,15 +42,16 @@ Một thói quen hay gặp khác là đội mũ lệch về sau gáy cho thoáng
 
 Nhóm hay bị bỏ quên nhất là trẻ em và người ngồi sau. Trẻ em cần mũ cỡ trẻ em, có lõi giảm chấn và quai riêng, chứ không phải mũ người lớn thắt chặt tạm cho vừa; mũ quá rộng tuột khỏi đầu lúc va chạm thì gần như vô dụng. Người ngồi sau cũng phải đội đúng quy cách như người lái, vì trong tai nạn, người ngồi sau thường bị hất văng theo quán tính và chạm đất không kém nguy hiểm hơn người lái.
 
-Với gia đình chở trẻ nhỏ, nên chọn mũ quai chặt nhưng không gây khó chịu, tập cho trẻ quen đội mũ từ chặng ngắn, để thói quen hình thành tự nhiên thay vì trở thành cuộc vật lộn mỗi lần lên xe.
+Với gia đình chở trẻ nhỏ, nên chọn mũ quai chặt nhưng không gây khó chịu, tập cho trẻ quen đội mũ từ chặng ngắn, để thói quen hình thành tự nhiên thay vì trở t
+hành cuộc vật lộn mỗi lần lên xe.
 
 ## Người thuê xe nên chuẩn bị gì
 
 Với khách thuê xe máy, mũ bảo hiểm là trang bị đi kèm thường do cửa hàng cấp, nhưng trách nhiệm đội đúng vẫn thuộc về người lên yên. Trước khi nhận xe, hãy chọn mũ vừa đầu, kiểm tra quai và khoá còn chắc, từ chối mũ nứt vỡ hoặc dơ bẩn quá mức. Nếu bạn có mũ riêng vừa đầu và quen đội, mang theo là phương án tốt nhất.
 
-Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), bao gồm cả nhóm quy định về trang bị khi lưu thông.
+Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), bao gồm cả nhóm quy định về trang bị khi lưu thông. Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông, còn mẹo lái xe an toàn nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
 
-## Kết luận về quy định đội mũ
+## Kết luận về quy định mũ bảo hiểm khi đi xe
 
 Quy định về mũ bảo hiểm hiện hành gồm ba lớp: ai cũng phải đội, mũ phải đạt chuẩn kỹ thuật, và phải đội đúng quy cách cài quai. Với người thuê xe, kiểm tra mũ lúc nhận và cài quai mỗi lần lên xe là hai thói quen nhỏ, rẻ nhất và hiệu quả nhất trong toàn bộ các quy định giao thông mà bạn cần nhớ.
 
