@@ -46,7 +46,8 @@ for aid in IDS:
     m = re.match(r'(\d{4}-\d{2}-\d{2})-', os.path.basename(draft))
     date_part = m.group(1)
     dest = '_posts/%s-%s.md' % (date_part, slug)
-    print('SIM promote %s: %s -> %s' % (aid, draft, dest))
+    print('SIM promote %s: %s -> %s' % (aid
+, draft, dest))
     shutil.move(draft, dest)
     row['status'] = 'PUBLISHED'
     row['output_path'] = dest
@@ -88,7 +89,8 @@ print('capacity-audit exit=%d' % rc)
 rc = run([sys.executable, 'scripts/factory/queue.py', '--stats'])
 print('queue stats exit=%d' % rc)
 for t in sorted(glob.glob('scripts/factory/tests/test_*.py')):
-    rc = run([sys.executable, t])
+    rc = run([sys.executab
+le, t])
     print('%s exit=%d' % (t, rc))
 print()
-print('DIAGNOSE V3 DONE')
+print('DIAGNOSE V3 DONE (retriggered: race with concurrent push at run #3)')

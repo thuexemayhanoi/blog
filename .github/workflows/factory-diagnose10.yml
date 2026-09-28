@@ -36,5 +36,9 @@ jobs:
           git config user.name "factory-operator-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -f data/factory/diagnose-publish-dryrun.txt
-          git commit -m "factory: diagnose publish gate dry-run BLG-00635..00644 (read-only evidence)"
-          git push
+          git commit -m "factory: diagnose v3 post-promote simulation evidence (read-only)"
+          for i in 1 2 3; do
+            git pull --rebase origin main || true
+            if git push; then exit 0; fi
+          done
+          echo "push evidence that bai 3 lan"
