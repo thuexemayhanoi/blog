@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00723",
   "title": "Ghé bảo tàng Hà Nội bằng xe máy: giữ xe ở đâu",
-  "scored_at": "2026-09-28T20:00:53+00:00",
+  "scored_at": "2026-09-28T20:01:58+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 949,
+  "word_count": 951,
   "word_target": 1100,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-ghe-bao-tang-ha-noi-bang-xe-may-giu-xe-o-au.md",
-  "content_sha256": "32b8ac710bf42e91fd48d7a3e9df6203081123206847288cd8be89410dd26855",
+  "content_sha256": "e5a2c424ad6ad5f7227310d133e0598cbcb3e45b7e8cccd23343570a22ae0212",
   "matrix_row_sha256": "050ddb90a6fcc3abee0434263654b27b872359e94f77ca6d10042801fa6c02dc",
-  "result": "REPAIR"
+  "result": "PASS"
 }
