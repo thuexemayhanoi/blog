@@ -1,120 +1,58 @@
-DIAGNOSE v12 - why fixture draft for next chunk scores REPAIR
-orig_head=c4f253ba969295012d78a2305e084f521b43c2c2
-publish exit=0
+DIAGNOSE v13 - engine description_length criterion vs fixture desc
+L523:     checks['description_length'] = 140 <= len(desc) <= 160
+L609:     s_crit = [('title_match', 20), ('description_length', 15),
 
-prepare-next exit=0
-4 trang
-topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
-topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
-topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
-topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
-topic thue-xe/su-co: 40 bài -> 2 trang
-topic thue-xe/thu-tuc: 32 bài -> 2 trang
-KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
+=== context around description_length checks ===
+L508:                                row['canonical_url'].replace('{date}', date_url))
+L509:     checks['permalink_canonical'] = front and front.get('permalink') == \
+L510:         expected_permalink
+L511: 
+L512:     # ---- words
+L513:     words = body.split()
+L514:     target = int(row['word_target'] or 1200)
+L515:     checks['word_count'] = abs(len(words) - target) <= 0.15 * target
+L516:     ev['word_count'] = len(words)
+L517:     ev['word_target'] = target
+L518: 
+L519:     # ---- SEO checks
+L520:     checks['title_match'] = front and norm_title(front.get('title', '')) == \
+L521:         norm_title(row['title'])
+L522:     desc = front.get('description', '') if front else ''
+L523:     checks['description_length'] = 140 <= len(desc) <= 160
+L524:     checks['description_keyword'] = (row['primary_keyword'] or '').lower() in desc.lower()
+L525:     h2s = re.findall(r'^##\s+(.+)$', body, re.M)
+L526:     h3s = re.findall(r'^###\s+(.+)$', body, re.M)
+L527:     checks['h2_min'] = len(h2s) >= 2
+L528:     checks['no_h1_in_body'] = not re.search(r'^#\s+\S', body, re.M)
+---
+L594:         checks['legal_source'] = bool(GOV_SOURCE_RE.search(body))
+L595:         checks['legal_disclaimer'] = LEGAL_DISCLAIMER in body
+L596:         legal = 'PASS' if (checks['legal_source'] and checks['legal_disclaimer']) \
+L597:             else 'FAIL'
+L598:     else:
+L599:         legal = 'NOT_REQUIRED'
+L600: 
+L601:     critical = not (checks['business_amounts'] and checks['forbidden_claims']
+L602:                     and checks['phone_ok'] and checks['no_placeholder']
+L603:                     and checks['links_routes_valid'])
+L604: 
+L605:     # ---- điểm theo trọng số QUALITY-RUBRIC.md
+L606:     q_crit = [('intent_opening', 25), ('hanoi_example', 25),
+L607:               ('reads_naturally_proxy', 20), ('business_amounts', 20),
+L608:               ('no_placeholder', 10)]
+L609:     s_crit = [('title_match', 20), ('description_length', 15),
+L610:               ('headings_intent', 20), ('links_count', 15),
+L611:               ('cannibalization', 20), ('permalink_canonical', 10)]
+L612:     quality = sum(w for k, w in q_crit if checks.get(k))
+L613:     seo = sum(w for k, w in s_crit if checks.get(k))
+L614:     # business_fact là cổng PASS-FAIL riêng; chỉ tính điểm khi cổng sạch
+---
 
-=== VALIDATE FOUNDATION (scope=chunk) ===
-Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
-Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
-Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'WRITING': 10, 'PLANNED': 288}
-WARN: writer-lock đang bị giữ: kiểm tra writer sống
-SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
-KẾT QUẢ: PASS (1 cảnh báo)
+=== fixture descs for next-chunk rows ===
+prepare-next exit=1
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/diagnose-publish.py", line 45, in <module>
+    row = [x for x in rows if x["status"] == "WRITING"][k]
+          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
+IndexError: list index out of range
 
-prepare-next: claim 10 hàng: BLG-00645,BLG-00646,BLG-00647,BLG-00648,BLG-00649,BLG-00650,BLG-00651,BLG-00652,BLG-00653,BLG-00654 (mode=fast)
-
-row=BLG-00645
-keyword=vạch kẻ đường
-word_target=1200
-internal_links=/blog/an-toan-phap-ly/bien-bao/
-canonical_url=/blog/an-toan-phap-ly/{date}/vach-ke-uong-xe-may-phai-i-the-nao/
-draft=/tmp/tmp3og7q8jr/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md
-qa exit=0
---- qa stdout tail ---
-qa BLG-00645: REPAIR quality=100 seo=85 fails=['description_length']
-atrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'REPAIR': 1, 'WRITING': 9, 'PLANNED': 288}
-tiến độ bảo toàn: last_completed=BLG-00644 chunk=['BLG-00645', 'BLG-00646', 'BLG-00647', 'BLG-00648', 'BLG-00649', 'BLG-00650', 'BLG-00651', 'BLG-00652', 'BLG-00653', 'BLG-00654'] next_claimable=BLG-00655
-mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T07:49:47+00:00 | checkpoint.updated_at: 2026-09-28T07:49:47+00:00
-vân tay: matrix=81cdd0539005... data_fingerprint=b33a1edc3703...
-KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
-
-=== GENERATE MATRIX ===
-tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 288)
-chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
-thiếu so với planned_target 6980: 6692 hàng (báo thiếu, không đệm)
-
-g
-chia-se: 112 bài -> 10 trang
-du-lich: 41 bài -> 4 trang
-topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
-topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
-topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
-topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
-topic thue-xe/su-co: 40 bài -> 2 trang
-topic thue-xe/thu-tuc: 32 bài -> 2 trang
-KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
-
-=== VALIDATE FOUNDATION (scope=chunk) ===
-Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
-Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
-Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'REPAIR': 1, 'WRITING': 9, 'PLANNED': 288}
-WARN: writer-lock đang bị giữ: kiểm tra writer sống
-SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 1, "blocked": 0}
-KẾT QUẢ: PASS (1 cảnh báo)
-
-qa: xong 1 hàng (mode=fast), kết quả: {"BLG-00645": "REPAIR"}
-
---- qa stderr tail ---
-
---- qa evidence ---
-{
-  "article_id": "BLG-00645",
-  "title": "Vạch kẻ đường xe máy phải đi thế nào",
-  "scored_at": "2026-09-28T07:49:47+00:00",
-  "scorer": "operator-qa-deterministic-v1",
-  "checks": {
-    "frontmatter_fields": true,
-    "draft_date": true,
-    "slug_match": true,
-    "permalink_canonical": true,
-    "word_count": true,
-    "title_match": true,
-    "description_length": false,
-    "description_keyword": true,
-    "h2_min": true,
-    "no_h1_in_body": true,
-    "headings_intent": true,
-    "links_matrix_required": true,
-    "links_parent_hub": true,
-    "links_count": true,
-    "links_routes_valid": true,
-    "no_hardcoded_blog": true,
-    "cannibalization": true,
-    "intent_opening": true,
-    "hanoi_example": true,
-    "reads_naturally_proxy": true,
-    "no_placeholder": true,
-    "business_amounts": true,
-    "forbidden_claims": true,
-    "phone_ok": true,
-    "legal_source": true,
-    "legal_disclaimer": true
-  },
-  "word_count": 1202,
-  "word_target": 1200,
-  "bad_routes": [],
-  "cannibalization_clash": [],
-  "non_approved_amounts": [],
-  "forbidden_hits": [],
-  "quality": 100,
-  "seo": 85,
-  "business_fact": "PASS",
-  "legal": "PASS",
-  "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md",
-  "content_sha256": "e2b5f3b699eb9e49ffb90297652eeb002c82bc8318e87cdd4f8a4e3673de67d3",
-  "matrix_row_sha256": "9423913ac5e3f25507c83fb3442821076add85a4735c2d00692192cff57a92ea",
-  "result": "REPAIR"
-}
-
-reset exit=0
-clean exit=0
