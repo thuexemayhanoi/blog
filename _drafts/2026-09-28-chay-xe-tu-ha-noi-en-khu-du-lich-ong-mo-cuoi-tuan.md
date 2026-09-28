@@ -33,6 +33,8 @@ Cả hai tuyến đều không được chuyển lên tuyến cao tốc chạy s
 
 Bờ nam hồ gần làng Văn hóa – Du lịch các dân tộc Việt Nam, nơi tái hiện kiến trúc và sinh hoạt của các cộng đồng dân tộc; khách còn thời gian có thể kết hợp tham quan. Chiều ở vùng chân núi nhiều gió, mùa hè dễ chịu hơn hẳn nội thành, mùa đông sương sớm dày nên khách mang áo mỏng. Khách định picnic nên sơ chế đồ ăn từ Hà Nội, quanh thị xã Sơn Tây có quán cơm, quán phở cho ai muốn ăn nóng trước khi vào hồ.
 
+Theo mùa, trải nghiệm ven hồ cũng đổi khác. Mùa thu sang đông, trời trong, nắng nhẹ, khung sáng sớm hợp chụp ảnh và đạp xe quanh hồ; mùa hè trưa nắng gắt nhưng dưới bóng cây ven hồ vẫn mát, khách dời khung chơi sang sớm và chiều. Mùa mưa, giông thường kéo về buổi chiều, khách để ý dự báo; nhóm đang ở ngoài bãi thì dời về chỗ có mái che đợi cơn mưa qua rồi hẳn lên đường, tránh chạy trong mưa trên đoạn quốc lộ 21 trơn.
+
 ## Giờ đi về và lưu ý cho xe máy
 
 Khung giờ đẹp nhất là xuất phát bảy giờ sáng, tới hồ khoảng tám rưỡi, chơi và nghỉ đến ba giờ chiều rồi lên đường về, về tới Hà Nội trước sáu giờ tối. Đoạn quốc lộ 21 vào hồ vắng dân cư về đêm, đèn đường thưa, khách không nên để lỡ tối; ai về trễ thì mặc áo phản quang, bật đèn và đi chậm.

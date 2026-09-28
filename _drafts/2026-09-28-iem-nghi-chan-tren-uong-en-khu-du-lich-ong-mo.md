@@ -33,10 +33,14 @@ Khách chưa ăn sáng ở nhà có thể dừng ăn bún, phở ở cụm Phùn
 
 Nước lọc mang theo từ nhà, mua thêm ở quán có tủ mát. Trời nóng, khách uống từng ngụm nhỏ nhiều lần thay vì cạn một ly đầy; đầu đông lạnh, gọi trà gừng hoặc nước ấm. Khách định picnic ven hồ có thể ghé chợ Sơn Tây mua thêm trái cây, bánh trước khi rẽ vào hồ, rẻ và tươi hơn mua ở nội thành.
 
+Trẻ nhỏ và người dễ say xe nên ngồi thẳng lưng, thở thật chậm ở điểm dừng mười lăm phút rồi mới lên đường; khách mang theo thuốc say xe dùng trước nửa tiếng theo chỉ dẫn trên hộp. Nhóm đi cùng người lớn tuổi cần chỗ dừng có nhà vệ sinh sạch, đây cũng là lý do nên chọn quán đông khách ở thị trấn thay vì quán vắng ven đường.
+
 ## Gửi xe khi dừng và khung giờ nghỉ
 
 Ở mọi điểm dừng, khách để xe nơi nhìn thấy được từ chỗ ngồi, khóa cổ lẫn khóa càng, cất kín túi đồ trên giá sau. Bãi xe quán đông ngày cuối tuần, khách chụp lại vị trí xe với một vật mốc gần như cột điện, biển hiệu, gốc cây; cách này hữu ích khi hàng chục xe cùng kiểu cùng màu đỗ cạnh nhau.
 
 Khung nghỉ đẹp là trước chín giờ sáng và sau ba giờ chiều; nắng giữa trưa xuống nền đường cũ rất hầm, nghỉ lâu cũng không lấy lại được sức. Chiều về, khách đảo thứ tự: dừng ngắn ngay sau khi rời khu hồ, rồi chạy thẳng về nếu còn sức; ai về sau năm giờ chiều nên dừng thêm một lần giữa chặng cho tỉnh táo trước đoạn quốc lộ 32 đông xe buổi tối.
+
+Khách đi sớm về chiều cũng cần để ý ánh sáng: đoạn đầu quốc lộ 32 sáng sớm có sương, đèn xe phải sáng rõ trước khi rời phố; đoạn về chiều nắng ngược ở các giao cắt lớn, khách giảm tốc và nhìn kỹ trước khi rẽ vào quán ven đường. Đây là hai khung giờ khách hay chủ quan nhất trên cung ngắn.
 
 Cung ngắn nhưng dừng đúng chỗ vẫn là khác biệt giữa một buổi đi chơi nhẹ nhàng và một buổi về nhà mệt rã. Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Cách xếp lịch cho chuyến một ngày nằm ở bài [Lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/); khách muốn thêm ý tưởng đi chơi quanh thành phố đọc bài [Cầu Long Biên và khu Long Biên bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/); các cung cuối tuần khác gom ở trang [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
