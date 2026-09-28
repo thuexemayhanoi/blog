@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-vuon-quoc-gia-ba-vi-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-vuon-quoc-gia-ba-vi-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "2a6a2633a031d1f6be482bf64ae4ff27660ccc03d8821c32b001d3fda91e4cd5",
-  "matrix_row_sha256": "1b33fde9274701422709230505841ba3b628591bc2bc1885c7b3eaa896784d4b",
-  "result": "PASS"
+  "matrix_row_sha256": "d610fb13c9356eb51ffcb4b1289e785c4675d9cbd98b49482af36bada3ae0ed7",
+  "result": "PASS",
+  "published_at": "2026-09-28T18:12:16+00:00"
 }

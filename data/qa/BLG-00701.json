@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-bai-song-hong-trong-noi-o.md",
+  "source_path": "_posts/2026-09-28-nhung-luu-y-khi-chay-xe-quanh-bai-song-hong-trong-noi-o.md",
   "content_sha256": "119f452b6b3edc344e06ab0dcf7506b029493cd24a0c2fa33fe49afa00e9d6ce",
-  "matrix_row_sha256": "8c56d19b04694a191663dce0193b374689df9dadc2258b10dd13dc9a34aab64a",
-  "result": "PASS"
+  "matrix_row_sha256": "d2cb1e8742761635f1093935353845ddb040ba39e8a040994a7ee0ea775e0e5d",
+  "result": "PASS",
+  "published_at": "2026-09-28T18:12:16+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-vuon-quoc-gia-ba-vi-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-vuon-quoc-gia-ba-vi-nua-ngay.md",
   "content_sha256": "bc0f09a021782c8ee95bb7fec2587e5ea9212a1f636447337e1cbe4d8c83916f",
-  "matrix_row_sha256": "9fab1b3761ac277e888fd1bac6f0094746ef34ab621123e16b034c1c292331f5",
-  "result": "PASS"
+  "matrix_row_sha256": "c1c136a34b383445ebc3095e6e16bd8120ca5d4af2045f82cb0e77224f6c5d49",
+  "result": "PASS",
+  "published_at": "2026-09-28T18:12:16+00:00"
 }

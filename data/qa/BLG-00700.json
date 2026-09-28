@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-kinh-nghiem-ghe-tham-bai-song-hong-trong-noi-o-nua-ngay.md",
+  "source_path": "_posts/2026-09-28-kinh-nghiem-ghe-tham-bai-song-hong-trong-noi-o-nua-ngay.md",
   "content_sha256": "edb9176020b6420584977526742dbb4104c6b78477996b592d62ee2129e1f298",
-  "matrix_row_sha256": "f68ca0cb327afd4124bbb7739668138d6887ef440e4f5e37338ad8c3e4da2880",
-  "result": "PASS"
+  "matrix_row_sha256": "94f06a03355366909e8472a79fdd495ee8ebe9177ab753d576fe8c7819ce2caa",
+  "result": "PASS",
+  "published_at": "2026-09-28T18:12:16+00:00"
 }

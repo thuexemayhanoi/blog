@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-en-vuon-hoa-hung-vuong-bang-xe-may-gui-xe-va-uong-i.md",
+  "source_path": "_posts/2026-09-28-en-vuon-hoa-hung-vuong-bang-xe-may-gui-xe-va-uong-i.md",
   "content_sha256": "c59d74aab32454d7749dcc003a943f1e9f5d66d3b92b714ba32a7c282987a500",
-  "matrix_row_sha256": "dd7b3fe84670da395eff71f5723d6433a967dffebaa2e4d82f73ff10219f3df6",
-  "result": "PASS"
+  "matrix_row_sha256": "57f13e82e4d39af6b4ce01e18e95217ed14ce1f6dfa6d2efe60e1363360f74b2",
+  "result": "PASS",
+  "published_at": "2026-09-28T18:12:16+00:00"
 }
