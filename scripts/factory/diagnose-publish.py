@@ -1,9 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""DIAGNOSE v4 read-only: simulate post-promote state of
-BLG-00635..00644 locally, then run the exact follow-up steps of
-op publish + verify. Runner-local mutations only; evidence file
-is the only committed artifact. Delete after use."""
+"""DIAGNOSE v7: post-promote simulation + ALL follow-up steps
+including generate-listing-pages.py. Runner-local only; the
+evidence txt is the only committed artifact. Delete after use."""
 
 import csv
 import datetime
@@ -25,9 +24,9 @@ PY = sys.executable
 def run(cmd):
     r = subprocess.run(cmd, capture_output=True, text=True)
     print("$ " + " ".join(cmd) + " -> exit %d" % r.returncode)
-    print(r.stdout[-3000:])
+    print(r.stdout[-2500:])
     if r.stderr:
-        print("STDERR: " + r.stderr[-3000:])
+        print("STDERR: " + r.stderr[-2500:])
     return r.returncode
 
 def now_iso():
@@ -63,8 +62,7 @@ for aid in IDS:
     print("SIM %s: %s -> %s" % (aid, draft, dest))
     shutil.move(draft, dest)
     row["status"] = "PUBLISHED"
- 
-   row["output_path"] = dest
+    row["output_path"] = dest
     rep = "%s/%s/%s" % (date_part[:4], date_part[5:7],
                         date_part[8:])
     row["expected_url"] = row["expected_url"].replace(
@@ -104,22 +102,21 @@ json.dump(cp, fh, ensure_ascii=False, indent=2)
 fh.close()
 
 print()
-print("=== POST-PROMOTE CHECKS (op publish + verify order) ===")
+print("=== POST-PROMOTE CHECKS ===")
 rc = run([PY, "scripts/factory/generate-reports.py"])
 print("generate-reports exit=%d" % rc)
+rc = run([PY, "scripts/factory/generate-listing-pages.py"])
+print("generate-listing exit=%d" % rc)
 rc = run([PY, "scripts/factory/validate.py",
           "--scope", "chunk"])
 print("validate chunk exit=%d" % rc)
 rc = run([PY, "scripts/factory/capacity-audit.py"])
 print("capacity-audit exit=%d" % rc)
-rc = run([PY, "scripts/factory/generate-listing-pages.py"])
-print("listing exit=%d" % rc)
 rc = run([PY, "scripts/factory/queue.py", "--stats"])
 print("queue stats exit=%d" % rc)
 for t in sorted(glob.glob(
         "scripts/factory/tests/test_*.py")):
-    rc = run([PY
-, t])
+    rc = run([PY, t])
     print("%s exit=%d" % (t, rc))
 print()
-print("DIAGNOSE V4 DONE")
+print("DIAGNOSE V7 DONE")
