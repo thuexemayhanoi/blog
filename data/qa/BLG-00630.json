@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-muc-phat-nong-o-con-xe-may-moi-nhat.md",
+  "source_path": "_posts/2026-09-28-muc-phat-nong-o-con-xe-may-moi-nhat.md",
   "content_sha256": "b2979161bfb4fb123e5dfc77796130e6da3636a2cd085b01352245cc589db310",
-  "matrix_row_sha256": "e25a5eaca4015c12f2495dac2e520c2fa2e726460e5406a36db835382dd2c827",
-  "result": "PASS"
+  "matrix_row_sha256": "cbf9c0d5cfcdbe75aaf6b66dbc675d6c549ac2e42bbe78e7ab37bfee7d6896d2",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:35+00:00"
 }

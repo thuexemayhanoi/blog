@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-o-nong-o-con-quyen-va-trinh-tu.md",
+  "source_path": "_posts/2026-09-28-o-nong-o-con-quyen-va-trinh-tu.md",
   "content_sha256": "6193bb42e9dbe1c1918ba4f42b59cd2a002beb54cbcb397e1f6fce2507882aab",
-  "matrix_row_sha256": "7ba6d2315ea34108411dba829ba3a86fcfccc983b53b67522bafc70d0f552f4f",
-  "result": "PASS"
+  "matrix_row_sha256": "67e381bfaf2ca6123a69e89e11c7b7d4095091ecbe4f2be5762d9bafc5a32cee",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:35+00:00"
 }

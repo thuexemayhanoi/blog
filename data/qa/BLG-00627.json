@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-tai-nan-xay-ra-voi-xe-thue-bao-hiem-chi-tra-phan-nao.md",
+  "source_path": "_posts/2026-09-28-tai-nan-xay-ra-voi-xe-thue-bao-hiem-chi-tra-phan-nao.md",
   "content_sha256": "bc0d399fecbb2e9883f8e62aaf40d95598ff6a5695f3e33499b72e4ba27a3c66",
-  "matrix_row_sha256": "8cc774233f70fdf56895879b72a333b0d38018d12c3bd7c3f26c1c9b06622c4d",
-  "result": "PASS"
+  "matrix_row_sha256": "1c36fad314b009924561c9c5af4cf35578a278e9da2f680afcdf53fc6137e541",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:34+00:00"
 }

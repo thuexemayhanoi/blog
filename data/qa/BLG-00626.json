@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bao-hiem-tu-nguyen-cho-xe-may-co-ang-khong.md",
+  "source_path": "_posts/2026-09-28-bao-hiem-tu-nguyen-cho-xe-may-co-ang-khong.md",
   "content_sha256": "cea5952e07b0ae27d037039bcdb8ebad4b5eee6492db1964990f4aac308895d6",
-  "matrix_row_sha256": "4977d59a94c56faf91214c9f0de5cd5a55dd9726dd32fcd7dea30320331faee4",
-  "result": "PASS"
+  "matrix_row_sha256": "8361a6b0d26f142883a6c22e3e76aee847a57399e0bf3d419fbc4e00252f8c65",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:34+00:00"
 }

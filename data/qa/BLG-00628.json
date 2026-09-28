@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bao-hiem-trach-nhiem-dan-su-voi-xe-may-khach-thue-can-biet-gi.md",
+  "source_path": "_posts/2026-09-28-bao-hiem-trach-nhiem-dan-su-voi-xe-may-khach-thue-can-biet-gi.md",
   "content_sha256": "7ab995abb48e6f3f3ef59e98e4c36890b496bf9c64fd709bd97946c61b529396",
-  "matrix_row_sha256": "ab8f173ffb826455b7989b9011785e3ae9397ba2fe150bd7a791b7438497015f",
-  "result": "PASS"
+  "matrix_row_sha256": "6b11682c3daad52079d07c3d91665d8ecf7dc1b499bc7f9ff52ceefc22aa619d",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:34+00:00"
 }

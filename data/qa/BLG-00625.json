@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md",
+  "source_path": "_posts/2026-09-28-khong-co-bao-hiem-xe-may-bi-phat-the-nao.md",
   "content_sha256": "8a4268ac680c9ed61eca8255215c068ad69cd9190ee7b7a7a621935d78c7c253",
-  "matrix_row_sha256": "d6f68c9334d2cabe44a136784eb8169cd090462a4a0ed9dce48fbd94c4c844c9",
-  "result": "PASS"
+  "matrix_row_sha256": "fd0b6465bb93f7380a014e39e9b9caf1c04b926c148a271049f7af428528c9aa",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:34+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-bia-ruou-chieu-nao-hom-sau-con-bi-phat-hien.md",
+  "source_path": "_posts/2026-09-28-bia-ruou-chieu-nao-hom-sau-con-bi-phat-hien.md",
   "content_sha256": "aff84c35aebc0c3f953230f237c50dd451cc99d891702c7fa97b896c6d753009",
-  "matrix_row_sha256": "5a404d77ef02b8cf94891258e76fd8638a232c0b90a642fb681cf5090d780c28",
-  "result": "PASS"
+  "matrix_row_sha256": "1792fa1d7f96676bb06e6d31a705a2d22b29509a6bc3029312a45a9d0a320f98",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:35+00:00"
 }

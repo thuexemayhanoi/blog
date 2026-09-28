@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-quy-inh-nong-o-con-khi-lai-xe-hien-hanh.md",
+  "source_path": "_posts/2026-09-28-quy-inh-nong-o-con-khi-lai-xe-hien-hanh.md",
   "content_sha256": "375aeeac99b032a92ed82881e55a71b2cf54eae98c4fe90c48e5f93df4c96605",
-  "matrix_row_sha256": "14d42b0bf28e35bf3a780bab0cac22ff1f234bd0ce22bde148755bfa69b0c526",
-  "result": "PASS"
+  "matrix_row_sha256": "203a19d73fd3379acc2b274947a1b6cf85c6f3d316c735808d31b6a27832f9c5",
+  "result": "PASS",
+  "published_at": "2026-09-28T06:13:34+00:00"
 }
