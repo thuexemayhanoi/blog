@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-tu-ha-noi-en-ho-luc-quan-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-chay-xe-tu-ha-noi-en-ho-luc-quan-cuoi-tuan.md",
   "content_sha256": "95f955fb8278c7c2e73f35698a0bba33237e9ab3ca1c031b625699b4ce28006f",
-  "matrix_row_sha256": "bbdf2a83643974551f97af970be17d02ace702ccf2848d455407db6c13147c59",
-  "result": "PASS"
+  "matrix_row_sha256": "545f639a92b5dfaa3e320f84d92f9322b867b9719c8b1c0e3b8f5d5622bb4ffd",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:12:09+00:00"
 }

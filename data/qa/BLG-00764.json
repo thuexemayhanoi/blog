@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-iem-nghi-chan-tren-uong-en-ho-luc-quan.md",
+  "source_path": "_posts/2026-09-28-iem-nghi-chan-tren-uong-en-ho-luc-quan.md",
   "content_sha256": "f10e90d5bb60c5901dd376dea88a68b63487fbd6dff9fc73733f9ab1c1dbac12",
-  "matrix_row_sha256": "9c09663e040da1729ed59dc9556343b69c10594ed1486dd9c921226d10b11188",
-  "result": "PASS"
+  "matrix_row_sha256": "671771a03cefdbd87a797d7a6193351fcf0a7e18a455d83d32f670df7acbb87c",
+  "result": "PASS",
+  "published_at": "2026-09-28T22:12:09+00:00"
 }
