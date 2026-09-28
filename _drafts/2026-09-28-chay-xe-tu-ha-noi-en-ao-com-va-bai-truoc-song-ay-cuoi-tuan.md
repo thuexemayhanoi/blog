@@ -33,9 +33,13 @@ Bãi rộng phẳng hợp trải thảm, cắm lều nhỏ và tổ chức bếp
 
 Khách không tắm ở sông, vì dòng chảy có chỗ xoáy và nước đục quanh năm; trông chừng trẻ nhỏ không lại gần mép nước, neo lều và cắm cọc chắc trước khi chơi. Tối ở bãi vắng, khách mang đèn pin, giữ khoảng cách giữa các nhóm và không mở loa lớn làm ảnh hưởng dân cư hai bên đê.
 
+Trước khi dựng bếp, khách quét sạch lá khô quanh vị trí nướng, để bếp cách lều một khoảng và chuẩn bị sẵn xô nước hoặc chai nước lớn gần chỗ nướng để dập ngay khi tàn lửa bắn ra. Nhóm có ý định ở lại đến tối cần mang đủ đèn, nước và đồ ấm, vì vùng bãi sông về đêm hạ nhiệt nhanh hơn hẳn nội thành; nhóm chỉ đi trong ngày thì dọn trước khi trời tối để còn thấy rõ mặt đê trên chặng về.
+
 ## Giờ đi về và lưu ý chung
 
 Khung giờ hợp lý: xuất phát bảy giờ sáng, tới bãi trước chín giờ, chơi và ăn trưa đến ba giờ chiều rồi thu dọn lên đường. Đường đê và đường đất lúc chạng vạng tối khó nhìn, khách không nên để lỡ tối; chiều chủ nhật quốc lộ 1A hướng về Hà Nội đông, khách về sớm hoặc dừng ăn tối ở chợ quê rồi lên đường.
+
+Ngày thường bãi vắng hơn hẳn cuối tuần, nhóm thích yên tĩnh có thể dời lịch sang sáng sớm thứ bảy; ngày lễ bãi đông, khách nên đến sớm để chọn chỗ đẹp và để xe gọn. Mùa nước lớn đầu hè, một phần bãi sát mép nước bị ngập, khách hỏi người ở chân đê về chỗ khô ráo trước khi xuống.
 
 Đồ mang theo: lều, bạt, bếp hoặc than, thức ăn sơ chế sẵn từ Hà Nội, nước đủ cho cả nhóm, thuốc chống côn trùng, đèn pin và áo mưa. Điện thoại sạc đầy pin, vì sóng ở bãi có chỗ yếu. Khách đi nhóm nên phân công người giữ xe và giữ đồ khi cả nhóm xuống bãi chụp ảnh.
 
