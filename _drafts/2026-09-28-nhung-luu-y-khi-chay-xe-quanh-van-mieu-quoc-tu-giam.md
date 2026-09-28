@@ -20,10 +20,9 @@ Buổi sáng sớm, các phố quanh Văn Miếu thoáng và dễ chạy. Từ k
 
 Cuối tuần và ngày lễ, một phần vỉa hè quanh khu vực trở thành không gian đi bộ; dòng người băng ngang ở các đoạn trước cổng tăng mạnh. Quy tắc an toàn khi chạy qua các đoạn này là giảm tốc sớm, không bấm còi trong khu đông người, và ưu tiên nhường người đi bộ tại các điểm băng qua tự phát. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
 
-## Giao thông quanh Văn Miếu - Quốc Tử Giám: một chiều và nút giao
+## Lưu ý chạy xe gần Văn Miếu - Quốc Tử Giám: một chiều và nút giao
 
-Một số tuyến quanh Văn
- Miếu tổ chức theo chiều cố định hoặc đổi chiều theo giờ, điển hình là các đoạn ngắn nối từ các trục lớn vào phố Quốc Tử Giám. Cách xử lý an toàn cho người không thuộc khu vực: bám theo dòng xe của người địa phương, đi chậm khi vào đoạn lạ, và không quay đầu giữa đoạn phố hẹp. Ứng dụng bản đồ giúp tìm đúng tuyến cho phép xe máy, nhưng hãy chọn chế độ phương tiện là xe máy rồi dò lại lộ trình trước khi lăn bánh.
+Một số tuyến quanh Văn Miếu tổ chức theo chiều cố định hoặc đổi chiều theo giờ, điển hình là các đoạn ngắn nối từ các trục lớn vào phố Quốc Tử Giám. Cách xử lý an toàn cho người không thuộc khu vực: bám theo dòng xe của người địa phương, đi chậm khi vào đoạn lạ, và không quay đầu giữa đoạn phố hẹp. Ứng dụng bản đồ giúp tìm đúng tuyến cho phép xe máy, nhưng hãy chọn chế độ phương tiện là xe máy rồi dò lại lộ trình trước khi lăn bánh.
 
 Về điểm đỗ tạm: trước cổng chính thường có luồng xe taxi và xe đưa đón khách đoàn; không dừng chờ ngay trước cổng vì dễ bị dòng xe sau ép. Cách gọn nhất vẫn là dựng xe ở bãi gửi rồi đi bộ lại cổng, vừa an toàn cho xe, vừa không cản luồng giao thông của khu phố.
 

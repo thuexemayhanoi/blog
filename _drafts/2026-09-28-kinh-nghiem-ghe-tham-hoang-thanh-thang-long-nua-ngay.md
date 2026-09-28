@@ -18,8 +18,7 @@ Kinh nghiệm đi Hoàng thành Thăng Long trong nửa ngày là vừa đủ n�
 
 Khung sáng ưu việt hơn cho khu di tích này. Khu trung tâm Hoàng thành Thăng Long phần lớn là không gian ngoài trời, nắng gắt về mùa hè và gió lạnh về mùa đông, nên thời tiết dịu của khung tám tới mười một giờ là hợp lý nhất. Sáng sớm còn giúp bạn né được các đoàn khách lớn, phần lớn tới sau chín giờ rưỡi. Nếu chọn khung chiều, nên bắt đầu ngay giờ mở cửa buổi chiều để kịp trước khi một số không gian ngừng đón khách. Về thời tiết, quanh Ba Đình ít bóng mát hơn khu phố cổ, nên mùa hè khung tám giờ tới mười giờ là khoảng dễ chịu nhất; mùa đông nên mang lớp mỏng vì gió trong khuôn viên mạnh hơn hẳn ngoài trục đường. Trời mưa nhỏ vẫn tham quan được phần di chỉ ngoài trời, nhưng nền gạch trơn nên đi chậm từng bước.
 
-Về mùa: mùa thu từ tháng chín tới mười một là giai đoạn đẹp nhất quanh Ba Đình, lá vàng trên các trục lớn như Hoàng Hoa Thám thêm chất cho buổi chiều. Mùa hè nên chuyển lịch sang thật sớm; mùa đông thì mang theo lớp mỏng vì khoảng ngoài trời trong khuôn viên lạnh nhanh
- sau ba giờ chiều.
+Về mùa: mùa thu từ tháng chín tới mười một là giai đoạn đẹp nhất quanh Ba Đình, lá vàng trên các trục lớn như Hoàng Hoa Thám thêm chất cho buổi chiều. Mùa hè nên chuyển lịch sang thật sớm; mùa đông thì mang theo lớp mỏng vì khoảng ngoài trời trong khuôn viên lạnh nhanh sau ba giờ chiều.
 
 ## Lịch trình Hoàng thành Thăng Long: trình tự điểm chính trong khuôn viên
 
@@ -41,7 +40,7 @@ Khu trung tâm Hoàng thành Thăng Long gắn với mốc dời đô năm 1010 
 
 Nếu khởi hành sớm và kết thúc khu di tích trước mười một giờ, phần còn lại của buổi có thể dùng cho vùng Ba Đình: các tuyến lá vàng quanh Hoàng Hoa Thám, Bảo tàng lịch sử quân sự hoặc chỉ cần thong thả quanh các trục lớn chụp ảnh. Khung lịch trình cho cả vùng được tóm tắt tại trang [du lịch Hà Nội](/blog/du-lich/). Với khách có nhiều ngày ở Hà Nội, nên đặt Hoàng thành trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
 
-## Đi lại bằng xe máy và những việc nhỏ nên làm trước
+## Kinh nghiệm đi Hoàng thành Thăng Long: đi lại bằng xe máy và những việc nhỏ nên làm trước
 
 Từ Long Biên, đi bằng xe máy mất khoảng hai mươi lăm tới ba mươi phút ngoài giờ cao điểm; gửi xe ở khu gần cổng chính trên phố Hoàng Diệu rồi đi bộ toàn bộ trong khuôn viên. Trước khi khởi hành, kiểm tra giờ mở cửa hiện hành của khu di tích, chuẩn bị tiền lẻ cho phí gửi xe và vé tham quan, và mang giày đế bệt vì mặt gạch đá trong khu trơn khi mưa.
 

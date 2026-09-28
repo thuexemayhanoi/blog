@@ -28,7 +28,7 @@ Cũng vì thế, khi nhận biên bản, nên đọc kỹ mục hình thức b�
 
 Cách thực tế nhất là đọc kỹ biên bản ngay tại chỗ: họ tên, số giấy phép lái xe, hành vi bị ghi và điều khoản áp dụng, vì thông tin sai đều phải sửa bằng thủ tục về sau. Nộp phạt đúng nơi ghi trên biên bản và giữ biên lai cho tới khi hồ sơ được xóa.
 
-## Các lỗi xe máy thường bị xử lý
+## Các lỗi thường gặp khi xử phạt vi phạm giao thông xe máy
 
 Theo dõi thực tế dừng xe ở các ngã tư Hà Nội, các lỗi thuộc khung xử phạt xe máy gặp nhiều nhất gồm: không đội mũ bảo hiểm hoặc đội không cài quai; chở quá số người được phép; không giữ đúng làn đường hoặc đi ngược chiều; không tuân thủ đèn tín hiệu; không mang giấy tờ xe theo quy định; và vi phạm nồng độ cồn, nhóm lỗi có khung phạt tiền cao nhất kèm tước giấy phép lái xe ở mức nghiêm trọng. Với khách thuê xe, việc không mang đủ giấy tờ xe và đăng ký không khớp tình trạng xe là hai lỗi phát sinh từ khâu nhận xe, hoàn toàn phòng tránh được nếu kiểm tra trước.
 

@@ -18,8 +18,7 @@ article_id: BLG-00660
 
 Khu di tích nằm trên phố Quốc Tử Giám, phường Văn Miếu, tiếp giáp các trục Nguyễn Thái Học, Văn Miếu và Tôn Đức Thắng, thuộc vùng trung tâm nên gần như mọi lộ trình của Hà Nội đều có thể bám vào một trong các trục lớn để tới nơi. Cổng chính đón khách đặt trên phố Quốc Tử Giám, phía trước có không gian gửi xe và vỉa hè rộng so với mặt bằng chung của khu phố. Việc cần làm trước khi khởi hành chỉ là xác định giờ mở cửa hiện hành của khu di tích, vì giờ nhận khách có thể thay đổi theo thời điểm trong năm.
 
-Từ khu Bồ Đề, Long Biên, khoảng cách tới Văn Miếu không xa nhưng cắt qua nhiều nút giao đông. Cách đi thuận nhất là bám trục Nguyễn Văn Cừ sang sông, theo các trục đường lớn phía Hoàn Kiếm, Đống Đa như Bà Triệu rồi rẽ vào khu vực Nguyễn Khuyến, Quốc Tử Giám. Trong giờ cao điểm buổi sáng và chiều tối, nên tính thêm thời gian dừng đèn ở các ngã tư lớn như Hàng Xanh hay ngã tư Bà Triệu - Trần 
-Hưng Đạo.
+Từ khu Bồ Đề, Long Biên, khoảng cách tới Văn Miếu không xa nhưng cắt qua nhiều nút giao đông. Cách đi thuận nhất là bám trục Nguyễn Văn Cừ sang sông, theo các trục đường lớn phía Hoàn Kiếm, Đống Đa như Bà Triệu rồi rẽ vào khu vực Nguyễn Khuyến, Quốc Tử Giám. Trong giờ cao điểm buổi sáng và chiều tối, nên tính thêm thời gian dừng đèn ở các ngã tư lớn như Hàng Xanh hay ngã tư Bà Triệu - Trần Hưng Đạo.
 
 ## Vài nét về Văn Miếu - Quốc Tử Giám
 
@@ -37,7 +36,7 @@ Bên trong, dòng khách đi theo trục từ cổng chính qua Hồ Văn tới 
 
 Chu kỳ tham quan trọn vẹn thường cần khoảng một giờ rưỡi tới hai giờ, đi chậm và đọc bia. Vì mặt đường trong khuôn viên là gạch và sỏi, giày đế bằng thoải mái hơn giày cao gót. Các điểm tham quan lân cận có thể ghép trong cùng buổi như khu Ba Đình, hướng dẫn chi tiết tại trang [du lịch Hà Nội](/blog/du-lich/), hoặc thả bộ khu phố cổ theo kinh nghiệm chia sẻ tại trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
 
-## Chạy xe quanh khu vực cần lưu ý gì
+## Đến Văn Miếu - Quốc Tử Giám bằng xe máy: chạy xe quanh khu vực cần lưu ý gì
 
 Vài tuyến quanh Văn Miếu là đường một chiều hoặc đổi chiều theo giờ, nên nếu không quen, hãy đi chậm theo dòng xe địa phương thay vì bám sát chỉ dẫn của ứng dụng bản đồ. Các đoạn vỉa hè quanh khu di tích thường kín người đi bộ vào giờ tham quan; không chạy xe lên vỉa hè để tránh tắc. Gửi xe xong, hầu hết hành trình tham quan đều đi bộ, nên mũ bảo hiểm nên cất vào cốp hoặc mang theo để tránh bỏ quên.
 
