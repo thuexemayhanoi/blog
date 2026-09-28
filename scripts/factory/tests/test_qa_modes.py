@@ -59,7 +59,8 @@ def cp_json(fx, rel):
 def write_json(fx, rel, obj):
     p = os.path.join(fx, rel)
     tmp = p + '.tmp'
-    with open(tmp, 'w', encoding='utf-8') as f:
+    wit
+h open(tmp, 'w', encoding='utf-8') as f:
         json.dump(obj, f, ensure_ascii=False, indent=2)
     os.replace(tmp, p)
 
@@ -169,7 +170,8 @@ def make_draft(fx, row):
     links = list(required)
     if hub and not any(l.startswith(hub) for l in links):
         links.append(hub)
-    backup = [x for x in (hub, '/blog/an-toan-phap-ly/', '/blog/thue-xe/')
+    backup = [x for x in (hub, '/blog/an-toa
+n-phap-ly/', '/blog/thue-xe/')
               if x]
     for cand in backup:
         if len(links) >= 3:
@@ -215,7 +217,8 @@ def make_draft(fx, row):
             i += 1
         extra.append(' '.join(para))
     if extra:
-        text = text[:fm_end] + body + '\n\n' + '\n\n'.join(extra)
+        text = text[:fm_en
+d] + body + '\n\n' + '\n\n'.join(extra)
     if len(desc) < 140:
         desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
     if len(desc) < 140:
@@ -267,7 +270,8 @@ class FxTestCase(unittest.TestCase):
 
     def pause_in_progress_chunk(self):
         """Hermetic: repo thật có thể đang giữ in_progress_chunk với hàng
-        đã claim/chưa publish (WRITING/QA/REPAIR/PASS) — prepare-next đúng
+        đã claim/chưa publish (WRITI
+NG/QA/REPAIR/PASS) — prepare-next đúng
         chuẩn TỪ CHỐI claim mới (resume-first). Fixture mô phỏng pause an
         toàn: trả hàng chunk chưa PUBLISHED về PLANNED (đúng trạng thái
         trước khi claim), xóa chunk + evidence QA của các hàng đó, đồng bộ
@@ -309,7 +313,8 @@ class FxTestCase(unittest.TestCase):
                         'repair': counts.get('REPAIR', 0),
                         'blocked': counts.get('BLOCKED', 0),
                         'fail': counts.get('FAIL', 0)}
-        write_json(self.fx, 'data/state/checkpoint.json', cp)
+        write
+_json(self.fx, 'data/state/checkpoint.json', cp)
         for script in ('generate-reports.py', 'generate-matrix.py',
                        'generate-listing-pages.py'):
             rr = self.py('scripts/factory/' + script)
@@ -444,7 +449,8 @@ class TestManualProductionFlow(FxTestCase):
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
         self.assertEqual(len(cp['in_progress_chunk']), 10)
         # next_claimable nhảy đúng: 10 ID đầu (theo thứ tự id)
-        self.assertTrue(all(cp['next_claimable_id'] not in cp['in_progress_chunk']
+        se
+lf.assertTrue(all(cp['next_claimable_id'] not in cp['in_progress_chunk']
                             for _ in [0]))
 
     def test_fast_qa_publishes_while_full_audit_fails(self):
@@ -484,7 +490,8 @@ class TestManualProductionFlow(FxTestCase):
                       text, count=1, flags=re.M)
         open(p, 'w', encoding='utf-8').write(text)
         r = self.operator('qa', '--scope', 'fast', '--ids', row['id'])
-        self.assertEqual(r.returncode, 0)
+       
+ self.assertEqual(r.returncode, 0)
         self.assertIn('REPAIR', r.stdout)
         rows = matrix_rows(self.fx)
         self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
