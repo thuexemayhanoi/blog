@@ -12,7 +12,7 @@ parent_id: P-DU-LICH
 child_id: C-DIEM-DEN
 article_id: BLG-00660
 ---
-Văn Miếu - Quốc Tử Giám là điểm dừng gần như mặc định của bất kỳ ai muốn tìm nét Hà Nội xưa trong một buổi chiều. Khuôn viên không quá rộng nhưng nằm giữa trục phố đông, nên nếu đi bằng xe máy, hai câu hỏi thực tế nhất là đi đường nào cho thuận và gửi xe ở đâu cho yên tâm. Bài này đi theo đúng trình tự một chuyến thăm bằng xe hai bánh: từ khi rời cửa hàng thuê xe ở Long Biên tới khi dựng xe trước cổng khu di tích.
+Đến Văn Miếu - Quốc Tử Giám bằng xe máy là lựa chọn của phần lớn khách tự đi, vì khu di tích nằm giữa trục phố trung tâm của Hà Nội. Khuôn viên không quá rộng nhưng nằm giữa trục phố đông, nên nếu đi bằng xe máy, hai câu hỏi thực tế nhất là đi đường nào cho thuận và gửi xe ở đâu cho yên tâm. Bài này đi theo đúng trình tự một chuyến thăm bằng xe hai bánh: từ khi rời cửa hàng thuê xe ở Long Biên tới khi dựng xe trước cổng khu di tích.
 
 ## Văn Miếu - Quốc Tử Giám ở đâu
 
@@ -20,12 +20,15 @@ Khu di tích nằm trên phố Quốc Tử Giám, phường Văn Miếu, tiếp 
 
 Từ khu Bồ Đề, Long Biên, khoảng cách tới Văn Miếu không xa nhưng cắt qua nhiều nút giao đông. Cách đi thuận nhất là bám trục Nguyễn Văn Cừ sang sông, theo các trục đường lớn phía Hoàn Kiếm, Đống Đa như Bà Triệu rồi rẽ vào khu vực Nguyễn Khuyến, Quốc Tử Giám. Trong giờ cao điểm buổi sáng và chiều tối, nên tính thêm thời gian dừng đèn ở các ngã tư lớn như Hàng Xanh hay ngã tư Bà Triệu - Trần Hưng Đạo.
 
-## Gửi x
-e quanh khu vực
+## Vài nét về Văn Miếu - Quốc Tử Giám
+
+Văn Miếu được xây dựng năm 1070 dưới thời vua Lý Thánh Tông, và chỉ vài năm sau, Quốc Tử Giám - trường học cao cấp đầu tiên của nước Đại Việt - được lập ngay bên cạnh để dạy học trò của kinh thành. Suốt các triều Lý, Trần, Lê, nơi đây giữ vai trò trung tâm đào tạo và tổ chức khoa thi; riêng từ thời Lê Thánh Tông, mỗi khoa thi tiến sĩ đều cho dựng bia đá khắc tên người đỗ, và tập hợp bia đó vẫn được bảo tồn trong khuôn viên ngày nay. Hiểu trước bối cảnh này, khi đi qua từng khu, bạn thấy không chỉ một danh thắng đẹp mà một dòng chảy học vấn kéo dài gần một nghìn năm của Thăng Long.
+
+## Gửi xe Văn Miếu - Quốc Tử Giám ở đâu quanh cổng chính
 
 Xung quanh cổng chính có bãi gửi xe dành cho khách tham quan, mở theo giờ của khu di tích; ngoài ra vỉa hè các đoạn phố lân cận cũng có dịch vụ giữ xe của dân cư. Mức giá gửi xe là khoản chi phí nhỏ nhưng thay đổi theo thời điểm, nên chuẩn bị tiền lẻ và hỏi giá trước khi dựng xe. Với xe máy thuê, ba điểm đáng làm ngay khi giao xe: khóa cổ, khóa từ nếu xe có, và chụp lại vị trí xe để dễ tìm khi lấy.
 
-Một lưu ý thực tế: cuối tuần và các dịp lễ, lượng khách đổ về khu vực này tăng mạnh, bãi gửi dễ kín chỗ từ giữa buổi sáng. Nếu lịch trình dẽ dời, đi sớm buổi sáng vừa tránh ếu chỗ gửi, vừa tham quan lúc khuôn viên thoáng và ánh sáng đẹp cho ảnh.
+Một lưu ý thực tế: cuối tuần và các dịp lễ, lượng khách đổ về khu vực này tăng mạnh, bãi gửi dễ kín chỗ từ giữa buổi sáng. Nếu lịch trình dễ dời, đi sớm buổi sáng vừa tránh hết chỗ gửi, vừa tham quan lúc khuôn viên thoáng và ánh sáng đẹp cho ảnh.
 
 ## Tham quan gì trong khuôn viên
 
@@ -35,8 +38,7 @@ Chu kỳ tham quan trọn vẹn thường cần khoảng một giờ rưỡi t�
 
 ## Chạy xe quanh khu vực cần lưu ý gì
 
-Vài tuyến quanh Văn Miếu là đường một chiều hoặc đổi chiều theo giờ, nên nếu không quen, hãy đi chậm theo dòng xe địa phương thay vì bám sát chỉ dẫn của ứng dụng bản đồ. Các đoạn vỉa hè quanh khu di tích thường kín người đi bộ vào giờ tham quan; không chạy xe lê
-n vỉa hè để tránh tắc. Gửi xe xong, hầu hết hành trình tham quan đều đi bộ, nên mũ bảo hiểm nên cất vào cốp hoặc mang theo để tránh bỏ quên.
+Vài tuyến quanh Văn Miếu là đường một chiều hoặc đổi chiều theo giờ, nên nếu không quen, hãy đi chậm theo dòng xe địa phương thay vì bám sát chỉ dẫn của ứng dụng bản đồ. Các đoạn vỉa hè quanh khu di tích thường kín người đi bộ vào giờ tham quan; không chạy xe lên vỉa hè để tránh tắc. Gửi xe xong, hầu hết hành trình tham quan đều đi bộ, nên mũ bảo hiểm nên cất vào cốp hoặc mang theo để tránh bỏ quên.
 
 Gợi ý các điểm đến quanh Hà Nội cho người mới đi xe máy xem trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Danh mục điểm đến du lịch bằng xe máy đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
 
