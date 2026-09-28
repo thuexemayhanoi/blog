@@ -44,7 +44,7 @@ Không nên đoán con số phạt theo tin nhắn hay bài chia sẻ cũ, vì k
 
 ## Người thuê xe cần lưu ý gì
 
-Với khách thuê xe máy ở Hà Nội, có ba điểm đáng chuẩn bị trước khi nhận xe. Thứ nhất, hợp đồng thuê tính theo mỗi xe, nhưng lỗi vi phạm khi lưu thông thuộc về người điều khiển, nên đừng vì xe thuê mà chủ quan chở thêm người khi không thuộc ngoại lệ. Thứ hai, nếu dự định chở trẻ em dưới 14 tuổi đi cùng, hãy báo trước để chọn xe có yên sau phù hợp và mũ bảo hiểm_size trẻ em. Thứ ba, khi bị dừng kiểm tra giấy tờ, cách trình bày đúng trình tự đã được tóm tắt trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
+Với khách thuê xe máy ở Hà Nội, có ba điểm đáng chuẩn bị trước khi nhận xe. Thứ nhất, hợp đồng thuê tính theo mỗi xe, nhưng lỗi vi phạm khi lưu thông thuộc về người điều khiển, nên đừng vì xe thuê mà chủ quan chở thêm người khi không thuộc ngoại lệ. Thứ hai, nếu dự định chở trẻ em dưới 14 tuổi đi cùng, hãy báo trước để chọn xe có yên sau phù hợp và mũ bảo hiểm đạt chuẩn cho trẻ. Thứ ba, khi bị dừng kiểm tra giấy tờ, cách trình bày đúng trình tự đã được tóm tắt trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/).
 
 Danh mục giấy tờ cần mang khi đến cửa hàng cũng nên kiểm tra trước, xem chi tiết trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/). Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
 
