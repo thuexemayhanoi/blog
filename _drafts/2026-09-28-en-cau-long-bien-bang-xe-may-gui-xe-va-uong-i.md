@@ -16,13 +16,13 @@ article_id: BLG-00672
 
 ## Cầu Long Biên ở đâu và đường nào lên cầu
 
-Cầu Long Biên bắc qua sông Hồng nối phố Chương Dương Đô bên bờ Hoàn Kiếm với phố Ngọc Lâm bên bờ Long Biên. Đường lên cầu từ phía Long Biên bắt đầu từ khu Ngô Gia Tự, Ngọc Lâm; từ phía Hoàn Kiếm, cửa vào cầu đặt cuối phố Hàng Đâu, Chương Dương. Vì cầu chỉ cho phép xe máy, xe đạp và người đi bộ, khi theo ứng dụng bản đồ cần chọn chế độ phương tiện là xe máy, nếu không lộ trình có thể nhảy sang cầu Chương Dương dành cho ô tô.
+Cầu Long Biên bắc qua sông Hồng nối phố Chương Dương Đô bên bờ Hoàn Kiếm với phố Ngọc Lâm bên bờ Long Biên. Đường lên cầu từ phía Long Biên bắt đầu từ khu Ngô Gia Tự, Ngọc Lâm; từ phía Hoàn Kiếm, cửa vào cầu đặt cuối phố Hàng Đậu, Chương Dương. Vì cầu chỉ cho phép xe máy, xe đạp và người đi bộ, khi theo ứng dụng bản đồ cần chọn chế độ phương tiện là xe máy, nếu không lộ trình có thể nhảy sang cầu Chương Dương dành cho ô tô.
 
-Từ khu Bồ Đề, Long Biên, chỉ cần bám trục Ngô Gia Tự hướng sông là tới chân cầu, quãng đường chưa tới mười phút chạy xe; khách từ các quận khác qua bờ Hoàn Kiếm nên đi theo trục Hàng Đâu, gần cuối phố phía sông. Vì cầu một làn mỗi chiều và làn hẹp, nhịp xe giờ cao điểm trên cầu chật, nên nếu chỉ đi tham quan, khung sáng sớm cuối tuần là dễ chịu nhất; ngược lại, khung chiều muộn đông người đi bộ ngắm hoàng hôn, nên ai muốn chạy thoáng nên tránh đúng khung đó.
+Từ khu Bồ Đề, Long Biên, chỉ cần bám trục Ngô Gia Tự hướng sông là tới chân cầu, quãng đường chưa tới mười phút chạy xe; khách từ các quận khác qua bờ Hoàn Kiếm nên đi theo trục Hàng Đậu, gần cuối phố phía sông. Vì cầu một làn mỗi chiều và làn hẹp, nhịp xe giờ cao điểm trên cầu chật, nên nếu chỉ đi tham quan, khung sáng sớm cuối tuần là dễ chịu nhất; ngược lại, khung chiều muộn đông người đi bộ ngắm hoàng hôn, nên ai muốn chạy thoáng nên tránh đúng khung đó.
 
 ## Gửi xe Cầu Long Biên ở đâu
 
-Hai đầu cầu đều có bãi gửi xe của dân cư, mở quanh khung ngày; bờ Long Biên có bãi rộng sát chân cầu gần khu chợ Long Biên, bờ Hoàn Kiếm có các bãi nhỏ quanh khu Hàng Đâu. Với xe máy thuê, ba điểm đáng làm ngay khi giao xe: khóa cổ, khóa từ nếu xe có, và chụp lại vị trí xe để dễ tìm khi lấy. Phí gửi xe là khoản nhỏ nhưng thay đổi theo thời điểm, nên chuẩn bị tiền lẻ và hỏi giá trước khi dựng xe, đồng thời hỏi luôn giờ đóng bãi nếu định ở lại chân cầu tới tối.
+Hai đầu cầu đều có bãi gửi xe của dân cư, mở quanh khung ngày; bờ Long Biên có bãi rộng sát chân cầu gần khu chợ Long Biên, bờ Hoàn Kiếm có các bãi nhỏ quanh khu Hàng Đậu. Với xe máy thuê, ba điểm đáng làm ngay khi giao xe: khóa cổ, khóa từ nếu xe có, và chụp lại vị trí xe để dễ tìm khi lấy. Phí gửi xe là khoản nhỏ nhưng thay đổi theo thời điểm, nên chuẩn bị tiền lẻ và hỏi giá trước khi dựng xe, đồng thời hỏi luôn giờ đóng bãi nếu định ở lại chân cầu tới tối.
 
 Nếu mục đích là đi bộ trên cầu ngắm hoàng hôn, gửi xe một đầu cầu rồi đi bộ qua cầu và vòng về theo đường bộ là cách nhiều khách ưa, vì đi bộ trên làn dành riêng an toàn hơn dừng xe giữa cầu. Danh sách giấy tờ nên mang khi đi xe thuê được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu chợ chân cầu thỉnh thoảng có kiểm tra.
 
