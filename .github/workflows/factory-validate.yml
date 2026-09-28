@@ -95,6 +95,8 @@ jobs:
       - name: Factory tests (resume giữ tiến độ + publish gate + topic universe)
         run: |
           python3 scripts/factory/tests/test_workflow_syntax.py
+          python3 scripts/factory/tests/test_publish_flow.py
+          python3 scripts/factory/tests/test_push_rebase_overlap.py
           python3 scripts/factory/tests/test_reports_resume.py
           python3 scripts/factory/tests/test_publish_gate.py
           python3 scripts/factory/tests/test_topic_universe.py

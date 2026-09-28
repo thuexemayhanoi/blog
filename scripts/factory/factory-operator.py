@@ -1128,6 +1128,8 @@ VERIFY_TESTS_FAST = [
 VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
     'scripts/factory/tests/test_link_integrity.py',
     'scripts/factory/tests/test_qa_modes.py',
+    'scripts/factory/tests/test_publish_flow.py',
+    'scripts/factory/tests/test_push_rebase_overlap.py',
 ]
 
 

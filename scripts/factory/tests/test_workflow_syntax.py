@@ -21,6 +21,7 @@ Chạy: python3 scripts/factory/tests/test_workflow_syntax.py
 import glob
 import os
 import re
+import shlex
 import subprocess
 import tempfile
 import unittest
@@ -134,16 +135,55 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
         self.assertEqual(bash_n(FIXED_PUBLISH_LINE), 0,
                          'dòng publish đã sửa vẫn sai cú pháp')
 
-    def test_scope_expansion_keeps_command_valid(self):
-        """Dạng sử dụng thật của các bước op: biến diễn ra khi SCOPE
-        có/không giá trị thì dòng lệnh vẫn hợp lệ."""
-        for scope in ('', 'fast', 'deep', 'full'):
-            cmd = ('python3 scripts/factory/factory-operator.py '
-                   'verify ${SCOPE:+--scope $SCOPE}')
-            rc = bash_n(cmd)
-            self.assertEqual(rc, 0,
-                             'cú pháp hỏng khi SCOPE=%r' % scope)
-
-
+    def test_scope_expansion_argv_matches_expected(self):
+        """THỰC THI dòng lệnh của bước op (python3 được thay bằng stub ghi
+        argv) với SCOPE rỗng/fast/deep/full — đối chiếu argv THẬT, không
+        chỉ cú pháp: SCOPE rỗng thì KHÔNG có --scope, SCOPE có giá trị
+        thì đúng cặp --scope <giá trị>."""
+        verify_line = ('python3 scripts/factory/factory-operator.py '
+                       'verify ${SCOPE:+--scope $SCOPE}')
+        with tempfile.TemporaryDirectory() as td:
+            log = os.path.join(td, 'argv.log')
+            stub = os.path.join(td, 'python3')
+            with open(stub, 'w', encoding='utf-8') as f:
+                f.write('#!/bin/sh\n'
+                        'printf %s "$@" >> %s\n'
+                        'exit 0\n'
+                        % (shlex.quote('%s\\n'), shlex.quote(log)))
+            os.chmod(stub, 0o755)
+            env = dict(os.environ,
+                       PATH=td + os.pathsep + os.environ.get('PATH', ''))
+            cases = [
+                ('', FIXED_PUBLISH_LINE, {'IDS': 'BLG-001,BLG-002'},
+                 ['scripts/factory/factory-operator.py', 'publish',
+                  '--ids', 'BLG-001,BLG-002']),
+                ('fast', FIXED_PUBLISH_LINE, {'IDS': 'BLG-001,BLG-002'},
+                 ['scripts/factory/factory-operator.py', 'publish',
+                  '--ids', 'BLG-001,BLG-002', '--scope', 'fast']),
+                ('deep', FIXED_PUBLISH_LINE, {'IDS': 'BLG-001'},
+                 ['scripts/factory/factory-operator.py', 'publish',
+                  '--ids', 'BLG-001', '--scope', 'deep']),
+                ('', verify_line, {},
+                 ['scripts/factory/factory-operator.py', 'verify']),
+                ('full', verify_line, {},
+                 ['scripts/factory/factory-operator.py', 'verify',
+                  '--scope', 'full']),
+            ]
+            for scope, line, extra, _want in cases:
+                env2 = dict(env, SCOPE=scope)
+                env2.update(extra)
+                r = subprocess.run(['bash', '-c', line], env=env2, cwd=td,
+                                   capture_output=True, text=True)
+                self.assertEqual(r.returncode, 0,
+                                 'SCOPE=%r: %s' % (scope, r.stderr))
+            with open(log, encoding='utf-8') as f:
+                got = f.read().splitlines()
+            i = 0
+            for _scope, _line, _extra, want in cases:
+                argv = got[i:i + len(want)]
+                i += len(want)
+                self.assertEqual(argv, want,
+                                 'argv lệch (kỳ vọng %r, nhận %r)'
+                                 % (want, argv))
 if __name__ == '__main__':
     unittest.main(verbosity=2)

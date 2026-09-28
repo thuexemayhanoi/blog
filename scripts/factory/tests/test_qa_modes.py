@@ -319,15 +319,26 @@ class FxTestCase(unittest.TestCase):
                              script + ': ' + rr.stdout + rr.stderr)
 
     def ensure_writing_chunk(self, count=10):
-        """Test resume/release cần trạng thái 'đang làm chunk'. Repository
-        thật có thể đang PAUSED (0 WRITING sau release-chunk) hoặc đang giữ
-        chunk chờ publish (hàng QA/REPAIR/PASS) — khi đó pause chunk trong
-        FIXTURE rồi claim lại count hàng (không đụng repo thật) để test
-        độc lập với trạng thái sống."""
-        if not any(r['status'] == 'WRITING' for r in matrix_rows(self.fx)):
-            self.pause_in_progress_chunk()
-            r = self.operator('prepare-next', '--count', str(count))
-            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        """Test resume/release cần trạng thái 'đang làm chunk' HOÀN TOÀN do
+        fixture tự tạo. Repository thật có thể đang giữ chunk HỢP LỆ giữa
+        đợt (hàng WRITING/QA/REPAIR/PASS, kèm draft/evidence QA) — nếu các
+        hàng đó rò vào fixture thì operator đúng chuẩn từ chối/đếm sai so
+        với kỳ vọng của test. Hermetic: đưa MỌI hàng đang làm của fixture
+        vào in_progress_chunk (chỉ trong fixture), pause an toàn (trả về
+        PLANNED, xóa evidence QA đúng các hàng đó — draft đã bị setUp xóa)
+        rồi claim lại đúng count hàng. FULL verify phải chạy được cả khi
+        repo thật đang có chunk đang làm."""
+        rows = matrix_rows(self.fx)
+        doing = [r['id'] for r in rows
+                 if r['status'] in ('WRITING', 'QA', 'REPAIR', 'PASS')]
+        if doing:
+            cp = cp_json(self.fx, 'data/state/checkpoint.json')
+            chunk = set(cp.get('in_progress_chunk') or []) | set(doing)
+            cp['in_progress_chunk'] = sorted(chunk)
+            write_json(self.fx, 'data/state/checkpoint.json', cp)
+        self.pause_in_progress_chunk()
+        r = self.operator('prepare-next', '--count', str(count))
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
 
 class TestScopeGating(FxTestCase):
