@@ -25,9 +25,10 @@ Về mùa: mùa thu từ tháng chín tới mười một là giai đoạn đẹ
 Lịch trình khuyến nghị theo hướng cổng chính trên phố Hoàng Diệu:
 
 - Bắt đầu từ Đoan Môn, cổng chính của hoàng thành xưa, để có định không gian tổng thể trước khi đi sâu.
-- Nền Điện Kính Thiên với đôi rồng đá, điểm dừng chụp ảnh và cũng là nơi giải thích phần kiến trúc cung điện qua các thời kỳ.
+- Nền Điện Kính Thiên với đôi rồng đá, điểm dừng chụp ảnh và cũng là nơi giải thíc
+h phần kiến trúc cung điện qua các thời kỳ.
 - Khu Hậu Lâu và đoạn tường thành, cổng Bắc Ga để thấy lớp kiến trúc thời Nguyễn chồng lên nền Thăng Long cũ.
-- Khu khai quật 18 Hoàng Diệu phía trong, nơi trình bày các tầng di chỉ; đây là phần nên dành thời gian nhất vì it nơi nào ở Hà Nội cho thấy lịch sử xếp tầng rõ như ở đây.
+- Khu khai quật 18 Hoàng Diệu phía trong, nơi trình bày các tầng di chỉ; đây là phần nên dành thời gian nhất vì ít nơi nào ở Hà Nội cho thấy lịch sử xếp tầng rõ như ở đây.
 - Kết thúc bằng không gian trưng bày và vườn di tích, chỗ nghỉ chân trước khi ra.
 
 Với trình tự này, một vòng tham quan cần khoảng một giờ rưỡi tới hai giờ. Nên mang theo nước vì quầy phục vụ trong khu khuôn viên không mở quanh năm, và hỏi giá vé cùng giờ ngừng bán vé tại quầy khi vào.
@@ -41,5 +42,6 @@ Nếu khởi hành sớm và kết thúc khu di tích trước mười một gi�
 Từ Long Biên, đi bằng xe máy mất khoảng hai mươi lăm tới ba mươi phút ngoài giờ cao điểm; gửi xe ở khu gần cổng chính trên phố Hoàng Diệu rồi đi bộ toàn bộ trong khuôn viên. Trước khi khởi hành, kiểm tra giờ mở cửa hiện hành của khu di tích, chuẩn bị tiền lẻ cho phí gửi xe và vé tham quan, và mang giày đế bệt vì mặt gạch đá trong khu trơn khi mưa. Với khách thuê xe, mang theo đầy đủ giấy tờ theo danh mục trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/), vì khu vực Ba Đình thỉnh thoảng có các chốt kiểm tra giấy tờ.
 
 ## Kết luận về nửa ngày ở Hoàng thành
+
 
 Chốt lại: chọn khung sáng, đi theo trình tự Đoan Môn, Điện Kính Thiên, Hậu Lâu tới khu 18 Hoàng Diệu, dành khoảng hai giờ, và dùng phần nửa ngày còn lại cho vùng Ba Đình. Đi bằng xe máy từ Long Biên giúp bạn chủ động hoàn toàn nhịp lịch trình. Khi cần thuê xe máy tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.

@@ -20,7 +20,8 @@ Khu di tích nằm trên phố Quốc Tử Giám, phường Văn Miếu, tiếp 
 
 Từ khu Bồ Đề, Long Biên, khoảng cách tới Văn Miếu không xa nhưng cắt qua nhiều nút giao đông. Cách đi thuận nhất là bám trục Nguyễn Văn Cừ sang sông, theo các trục đường lớn phía Hoàn Kiếm, Đống Đa như Bà Triệu rồi rẽ vào khu vực Nguyễn Khuyến, Quốc Tử Giám. Trong giờ cao điểm buổi sáng và chiều tối, nên tính thêm thời gian dừng đèn ở các ngã tư lớn như Hàng Xanh hay ngã tư Bà Triệu - Trần Hưng Đạo.
 
-## Gửi xe quanh khu vực
+## Gửi x
+e quanh khu vực
 
 Xung quanh cổng chính có bãi gửi xe dành cho khách tham quan, mở theo giờ của khu di tích; ngoài ra vỉa hè các đoạn phố lân cận cũng có dịch vụ giữ xe của dân cư. Mức giá gửi xe là khoản chi phí nhỏ nhưng thay đổi theo thời điểm, nên chuẩn bị tiền lẻ và hỏi giá trước khi dựng xe. Với xe máy thuê, ba điểm đáng làm ngay khi giao xe: khóa cổ, khóa từ nếu xe có, và chụp lại vị trí xe để dễ tìm khi lấy.
 
@@ -34,7 +35,8 @@ Chu kỳ tham quan trọn vẹn thường cần khoảng một giờ rưỡi t�
 
 ## Chạy xe quanh khu vực cần lưu ý gì
 
-Vài tuyến quanh Văn Miếu là đường một chiều hoặc đổi chiều theo giờ, nên nếu không quen, hãy đi chậm theo dòng xe địa phương thay vì bám sát chỉ dẫn của ứng dụng bản đồ. Các đoạn vỉa hè quanh khu di tích thường kín người đi bộ vào giờ tham quan; không chạy xe lên vỉa hè để tránh tắc. Gửi xe xong, hầu hết hành trình tham quan đều đi bộ, nên mũ bảo hiểm nên cất vào cốp hoặc mang theo để tránh bỏ quên.
+Vài tuyến quanh Văn Miếu là đường một chiều hoặc đổi chiều theo giờ, nên nếu không quen, hãy đi chậm theo dòng xe địa phương thay vì bám sát chỉ dẫn của ứng dụng bản đồ. Các đoạn vỉa hè quanh khu di tích thường kín người đi bộ vào giờ tham quan; không chạy xe lê
+n vỉa hè để tránh tắc. Gửi xe xong, hầu hết hành trình tham quan đều đi bộ, nên mũ bảo hiểm nên cất vào cốp hoặc mang theo để tránh bỏ quên.
 
 Gợi ý các điểm đến quanh Hà Nội cho người mới đi xe máy xem trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Danh mục điểm đến du lịch bằng xe máy đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
 

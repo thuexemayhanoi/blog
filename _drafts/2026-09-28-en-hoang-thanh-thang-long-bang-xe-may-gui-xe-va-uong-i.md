@@ -22,7 +22,8 @@ Về danh tiếng: khu trung tâm Hoàng thành Thăng Long được UNESCO ghi 
 
 ## Đường đi bằng xe máy từ Long Biên
 
-Từ Bồ Đề, Long Biên, lộ trình thuận nhất bám theo trục Nguyễn Sơn hoặc Ngô Gia Tự tới cầu, sang sông rồi theo các trục lớn hướng Ba Đình như Trần Phú, Hùng Vương để vào khu vực Hoàng Hoa Thám - Hoàng Diệu. Toàn bộ tuyến ngoài giờ cao điểm mất khoảng hai mươi lăm tới ba mươi phút; trong giờ cao điểm sáng và chiều, nên cộng thêm thời gian dừng đèn ở các nút giao lớn dọc trục. Ứng dụng bản đồ chọn chế độ xe máy giúp tránh các đoạn cấm hai bánh quanh khu Ba Đình, vốn có một số đoạn chỉ dành cho ô tô.
+Từ Bồ Đề, Long Biên, lộ trình thuận nhất bám theo trục Nguyễn Sơn hoặc Ngô Gia Tự tới cầu, sang sông rồi theo các trục lớn hướng Ba Đình 
+như Trần Phú, Hùng Vương để vào khu vực Hoàng Hoa Thám - Hoàng Diệu. Toàn bộ tuyến ngoài giờ cao điểm mất khoảng hai mươi lăm tới ba mươi phút; trong giờ cao điểm sáng và chiều, nên cộng thêm thời gian dừng đèn ở các nút giao lớn dọc trục. Ứng dụng bản đồ chọn chế độ xe máy giúp tránh các đoạn cấm hai bánh quanh khu Ba Đình, vốn có một số đoạn chỉ dành cho ô tô.
 
 Khu vực quanh Hoàng thành có nhiều đoạn một chiều và đường nhỏ; nếu đi cùng nhóm, hẹn đón ở một trục lớn gần đó như Hoàng Hoa Thám thay vì tụ ngay trước cổng, vì đoạn trước cổng không có chỗ dừng chờ.
 
@@ -34,9 +35,10 @@ Sau khi gửi xe, toàn bộ hành trình tham quan trong khuôn viên đều đ
 
 ## Điểm chính trong khuôn viên
 
-Hành trình tham quan thường bắt đầu từ Đoan Môn, cổng chính hướng nam của hoàng thành xưa, rồi tới nền Điện Kính Thiên với hai rồng đá thừa kế từ thời Lê, khu Hậu Lâu phía góc đông bắc, và đoạn tường thành cùng cổng Bắc Ga mang kiến trúc thời Nguyễn. Phía sau là khu khai quật khảo cổ 18 Hoàng Diệu, nơi trưng bày các tầng di chỉ từ thời Thăng Long qua các triều đại. Với trọn vẹn hiểu biết, nên đi theo trình tự này để thấy rõ lớp lớp lịch sử: mỗi bước trong khuôn viên là một深度 khác của Hà Nội.
+Hành trình tham quan thường bắt đầu từ Đoan Môn, cổng chính hướng nam của hoàng thành xưa, rồi tới nền Điện Kính Thiên với hai rồng đá thừa kế từ thời Lê, khu Hậu Lâu phía góc đông bắc, và đoạn tường thành cùng cổng Bắc Ga mang kiến trúc thời Nguyễn. Phía sau là khu khai quật khảo cổ 18 Hoàng Diệu, nơi trưng bày các tầng di chỉ từ thời Thăng Long qua các triều đại. Với trọn vẹn hiểu biết, nên đi theo trình tự này để thấy rõ lớp lớp lịch sử: mỗi bước trong khuôn viên là một tầng sâu khác của Hà Nội.
 
-Một vòng tham quan chậm rãi cần khoảng một giờ rưỡi tới hai giờ. Nếu khởi hành từ Long Biên lúc tám giờ, tới nơi lúc chín, bạn vẫn kịp về qua khu Ba Đình ăn trưa, hoặc ghép thăm các điểm quanh Ba Đình theo hướng dẫn trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Một vòng tham quan chậm rãi cần khoảng một giờ rưỡi tới hai giờ. Nếu khởi hành từ Long Biên lúc tám giờ, tới nơi lúc chín, bạn vẫn kịp về qua khu Ba Đình ăn trưa, hoặc 
+ghép thăm các điểm quanh Ba Đình theo hướng dẫn trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
 
 ## Kết luận về đi Hoàng thành bằng xe máy
 
