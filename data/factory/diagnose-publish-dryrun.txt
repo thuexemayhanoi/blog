@@ -1,187 +1,95 @@
-DIAGNOSE v10 - full post-op workflow sequence (no push)
-orig_head=a5f681a7723bace36e620676a3fa2ff36d9b395b
-
-=== STEP 1: op publish ===
+DIAGNOSE v11 - test_qa_modes stderr on post-promote state
+orig_head=f906b59ca759e3ee68adc5ed6913388ffc95e893
 publish exit=0
--uong-truong.md
-checkpoint: last_completed=BLG-00644 next_claimable=BLG-00645
-history: 50 mục (không reset)
 
-=== GENERATE REPORTS ===
-legacy: 483 (EXISTING 473, REVIEW 10)
-matrix: PRESENT_CREATED_NEW | trạng thái: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
-tiến độ bảo toàn: last_completed=BLG-00644 chunk=None next_claimable=BLG-00645
-mốc dữ liệu: 2026-09-28 | generated_at: 2026-09-28T07:46:11+00:00 | checkpoint.updated_at: 2026-09-28T07:46:11+00:00
-vân tay: matrix=5802f6cb3ac6... data_fingerprint=e726ca0737ad...
-KẾT QUẢ: PASS (report sinh từ dữ liệu thật, tiến độ không reset)
+=== test_qa_modes.py on post-promote tree ===
+exit=1
+--- stdout ---
 
-=== GENERATE MATRIX ===
-tổng: 942 (EXISTING 473, REVIEW 10, PLANNED 298)
-chống trùng: PASS (id/slug/canonical/output_path/keyword/intent)
-thiếu so với planned_target 6980: 6682 hàng (báo thiếu, không đệm)
+--- stderr ---
+g: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:225: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-5e1u2nmu/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
+  encoding='utf-8').write(text)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+FAIL
+test_fast_qa_repair_when_seo_below_threshold (__main__.TestManualProductionFlow.test_fast_qa_repair_when_seo_below_threshold) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:151: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/data/content-taxonomy.json' mode='r' encoding='utf-8'>
+  tax = json.load(open(os.path.join(fx, 'data/content-taxonomy.json'),
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:225: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
+  encoding='utf-8').write(text)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:478: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='r' encoding='utf-8'>
+  text = open(p, encoding='utf-8').read()
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:482: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-a62ss6u7/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
+  open(p, 'w', encoding='utf-8').write(text)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_lock_blocks_second_writer (__main__.TestManualProductionFlow.test_lock_blocks_second_writer) ... ok
+test_prepare_next_resumes_writing_first_and_clamps_10 (__main__.TestManualProductionFlow.test_prepare_next_resumes_writing_first_and_clamps_10) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ygfunpl8/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_recover_completes_hanging_transaction (__main__.TestManualProductionFlow.test_recover_completes_hanging_transaction) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-y_y6h9xw/repo/data/state/transaction.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_threshold_constants_unchanged (__main__.TestManualProductionFlow.test_threshold_constants_unchanged) ... ok
+test_published_not_regressed_by_qa (__main__.TestReleaseChunk.test_published_not_regressed_by_qa) ... ok
+test_release_keeps_rows_with_drafts (__main__.TestReleaseChunk.test_release_keeps_rows_with_drafts) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-n0cr5teu/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:151: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-n0cr5teu/repo/data/content-taxonomy.json' mode='r' encoding='utf-8'>
+  tax = json.load(open(os.path.join(fx, 'data/content-taxonomy.json'),
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:225: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-n0cr5teu/repo/_drafts/2026-09-28-vach-ke-uong-xe-may-phai-i-the-nao.md' mode='w' encoding='utf-8'>
+  encoding='utf-8').write(text)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_release_refuses_published (__main__.TestReleaseChunk.test_release_refuses_published) ... ok
+test_release_writing_rows_without_drafts (__main__.TestReleaseChunk.test_release_writing_rows_without_drafts) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-_hm35b4s/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_bad_scope_rejected (__main__.TestScopeGating.test_bad_scope_rejected) ... ok
+test_qa_evidence_outside_chunk_ignored_by_fast (__main__.TestScopeGating.test_qa_evidence_outside_chunk_ignored_by_fast) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:56: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ermmsapr/repo/data/state/checkpoint.json' mode='r' encoding='utf-8'>
+  return json.load(open(os.path.join(fx, rel), encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:80: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ermmsapr/repo/data/qa/BLG-00484.json' mode='r' encoding='utf-8'>
+  qa = json.load(open(p, encoding='utf-8'))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:82: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-ermmsapr/repo/data/qa/BLG-00484.json' mode='w' encoding='utf-8'>
+  json.dump(qa, open(p, 'w', encoding='utf-8'), ensure_ascii=False, indent=2)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
+test_sections_by_scope (__main__.TestScopeGating.test_sections_by_scope) ... ok
+test_site_wide_legacy_url_breaks_deep_and_full_not_fast (__main__.TestScopeGating.test_site_wide_legacy_url_breaks_deep_and_full_not_fast) ... /home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py:70: ResourceWarning: unclosed file <_io.TextIOWrapper name='/tmp/qa-modes-zmfdh8fu/repo/data/content-inventory.csv' mode='r' encoding='utf-8'>
+  rows = list(csv.DictReader(open(p, encoding='utf-8')))
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+ok
 
-g
-chia-se: 112 bài -> 10 trang
-du-lich: 41 bài -> 4 trang
-topic ky-nang/ky-nang-lai-co-ban: 35 bài -> 2 trang
-topic ky-nang/thoi-tiet-va-duong-sa: 41 bài -> 2 trang
-topic ky-nang/tinh-huong-giao-thong: 97 bài -> 5 trang
-topic thue-xe/nhan-tra-xe: 32 bài -> 2 trang
-topic thue-xe/su-co: 40 bài -> 2 trang
-topic thue-xe/thu-tuc: 32 bài -> 2 trang
-KẾT QUẢ: PASS (trang tĩnh, link crawlable, idempotent)
-
-=== VALIDATE FOUNDATION (scope=chunk) ===
-Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
-Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
-Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
-SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 0, "blocked": 0}
-KẾT QUẢ: PASS (0 cảnh báo)
-
-publish: PUBLISHED BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644 (mode=fast)
-
-stderr tail: 
+======================================================================
+FAIL: test_fast_qa_publishes_while_full_audit_fails (__main__.TestManualProductionFlow.test_fast_qa_publishes_while_full_audit_fails)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/runner/work/blog/blog/scripts/factory/tests/test_qa_modes.py", line 459, in test_fast_qa_publishes_while_full_audit_fails
+    self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
+    ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                     'PASS')
+                     ^^^^^^^
+AssertionError: 'REPAIR' != 'PASS'
+- REPAIR
++ PASS
 
 
+----------------------------------------------------------------------
+Ran 14 tests in 18.819s
+
+FAILED (failures=1)
 
 
-
-
-
-
-
-
-
-=== STEP 2: xoa lenh ===
-rm exit=0 done
-
-=== STEP 3: verify chuan (workflow stage) ===
-verified_tree=b91e160bfba5bd17a30fb1f0948d51948c89325f
-verify exit=1
---- verify stdout ---
-$ python3 scripts/factory/validate.py --scope chunk -> 0
-=== VALIDATE FOUNDATION (scope=chunk) ===
-Phạm vi đã chạy: required_files,taxonomy,inventory_structure,layout_data,hubs,state_report,matrix_structure,matrix_published_files,qa_evidence_chunk
-Taxonomy: 7 parent / 56 child | Inventory: 483 bài legacy | Matrix: CÓ
-Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 160, 'BLOCKED': 1, 'PLANNED': 298}
-SUMMARY_JSON: {"scope": "chunk", "sections_run": ["required_files", "taxonomy", "inventory_structure", "layout_data", "hubs", "state_report", "matrix_structure", "matrix_published_files", "qa_evidence_chunk"], "errors": 0, "warnings": 0, "blocked": 0}
-KẾT QUẢ: PASS (0 cảnh báo)
-
-$ python3 scripts/factory/capacity-audit.py -> 0
-=== CAPACITY AUDIT ===
-hard_capacity          : 10000
-editorial allocated    : 10000 (children 9517 + legacy 483)
-materialized topics    : 942
-unmaterialized capacity: 9058
-published (factory)    : 160
-legacy existing        : 473
-claimable PLANNED      : 298 (min_ready_queue 100)
-needs refill           : NO
-RESULT: PASS
-
-$ python3 scripts/factory/tests/test_publish_gate.py -> 0
-PASS: A1 — metadata fail sau sentinel: raise + cleanup sentinel + metadata hop le locked=false
-PASS: A2 — release A (token cu) muon: sentinel B con, locked=true, holder/token dung B
-PASS: A2b — release dung token: sentinel di, locked=false
-PASS: gate từ chối thiếu bằng chứng / điểm thấp / trạng thái chưa PASS / business FAIL; dry-run không đổi dữ liệu; STALE_QA_EVIDENCE khi nội dung đổi sau QA; MATRIX_ROW_MISMATCH khi hàng đổi sau QA; writer-lock bị giữ thì từ chối.
-
-$ python3 scripts/factory/tests/test_refill_safety.py -> 0
-nel=False locked=False)
-PASS: P1. plain --verify: stdout only, tree hash giong het - exit=0 hash_same=True
-PASS: P2. --verify --report - : tree hash giong het
-PASS: P3. --report PATH: ghi dung PATH, khong ghi default - exact=True no_default=True
-PASS: P4. --dry-run: tree hash giong het
-PASS: A1. metadata fail sau sentinel: cleanup (sentinel di, locked=false nhat quan) - raised=True sentinel=False locked=False
-PASS: A1b. acquire binh thuong khong pha gi (sentinel con)
-PASS: A2. release cu (token cu) KHONG pha khoa moi: sentinel con, locked=true, holder=refill-new - sentinel=True locked=True holder=refill-new
-PASS: A2b. release moi (token dung): khoa sach
-PASS: A2c. sentinel mat + token khop metadata: de unlocked dung
-PASS: P5. data that cua repo khong doi trong tests
-
-KET QUA: PASS (21/21)
-
-$ python3 scripts/factory/tests/test_operator.py -> 0
-
-$ python3 scripts/factory/tests/test_link_integrity.py -> 0
-
-$ python3 scripts/factory/tests/test_qa_modes.py -> 1
-
-=== QUEUE STATS (view over matrix) ===
-claimable PLANNED : 298
-min_ready_queue    : 100
-refill_target      : 300
-next refill need   : 2
---- per-child: materialized / editorial capacity ---
-C-BAO-DUONG               20 /   191 (con 171)
-C-BAO-HIEM                16 /   177 (con 161)
-C-BAO-TANG                17 /   123 (con 106)
-C-BIEN-BAO                 7 /   136 (con 129)
-C-CD-CUOI-TUAN            29 /   177 (con 148)
-C-CD-HA-GIANG              6 /   109 (con 103)
-C-CD-MAI-CHAU              5 /   109 (con 104)
-C-CD-MOC-CHAU              6 /   109 (con 103)
-C-CD-NOI-THANH             6 /   136 (con 130)
-C-CD-PHO-BAC              19 /   123 (con 104)
-C-DIEM-DEN                58 /   232 (con 174)
-C-GIAY-TO                 13 /   150 (con 137)
-C-GPLX                    11 /   205 (con 194)
-C-HD-CHON-XE               7 /   123 (con 116)
-C-HD-GIA                   6 /   123 (con 117)
-C-HD-NGUOI-MOI            26 /   123 (con 97)
-C-HD-PHAP-LY               7 /   123 (con 116)
-C-HD-SU-CO                 5 /   123 (con 118)
-C-HD-THU-TUC               6 /   123 (con 117)
-C-HO-TAY                   8 /   136 (con 128)
-C-HONDA-AIR-BLADE          5 /   150 (con 145)
-C-HONDA-CLICK              4 /   136 (con 132)
-C-HONDA-VISION             6 /   164 (con 158)
-C-HONDA-WAVE               6 /   164 (con 158)
-C-KY-NANG-CHO-DO          29 /   177 (con 148)
-C-KY-NANG-CO-BAN          45 /   245 (con 200)
-C-KY-NANG-GUI-XE          26 /   164 (con 138)
-C-KY-NANG-SUC-KHOE        30 /   150 (con 120)
-C-KY-NANG-THOI-TIET       51 /   204 (con 153)
-C-KY-NANG-TINH-HUONG     106 /   245 (con 139)
-C-LONG-BIEN                6 /   150 (con 144)
-C-NGOAI-THANH              8 /   150 (con 142)
-C-NOI-DO-CONG              8 /   164 (con 156)
-C-PHAT-NGUOI               8 /   164 (con 156)
-C-PHO-CO                  10 /   150 (con 140)
-C-QUY-DINH                21 /   204 (con 183)
-C-THUE-DAT-COC            10 /   205 (con 195)
-C-THUE-DIA-DIEM            9 /    95 (con 86)
-C-THUE-DOI-TUONG           8 /   109 (con 101)
-C-THUE-GIA                21 /   300 (con 279)
-C-THUE-NGAY               18 /   245 (con 227)
-C-THUE-NHAN-TRA           32 /   245 (con 213)
-C-THUE-QUOC-TE            14 /   191 (con 177)
-C-THUE-SU-CO              40 /   245 (con 205)
-C-THUE-THANG              18 /   273 (con 255)
-C-THUE-THU-TUC            33 /   273 (con 240)
-C-THUE-TUAN                7 /   232 (con 225)
-C-XE-50CC                  8 /   191 (con 183)
-C-XE-DAP-DIEN              7 /   136 (con 129)
-C-XE-DIEN                 17 /   218 (con 201)
-C-XE-GA                   11 /   218 (con 207)
-C-XE-KHAC-PHUC            10 /   123 (con 113)
-C-XE-LUA-CHON             10 /   109 (con 99)
-C-XE-SO                    9 /   218 (con 209)
-C-XE-SO-SANH               9 /   123 (con 114)
-C-YAMAHA-SIRIUS            4 /   136 (con 132)
-
-verify: FAIL ở ['scripts/factory/tests/test_qa_modes.py'] (mode=fast)
-
---- verify stderr ---
-
-tree_after_verify=b91e160bfba5bd17a30fb1f0948d51948c89325f
-tree_match=True
-
-=== STEP 4: commit local (no push) ===
-tree_pre_commit=b91e160bfba5bd17a30fb1f0948d51948c89325f match=True
-diff_cached_quiet: diff_exit=1
-commit exit=128 out=HEAD^tree
-head_tree=b91e160bfba5bd17a30fb1f0948d51948c89325f match_verified=True
-
-=== restore ===
 reset exit=0
 clean exit=0
