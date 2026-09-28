@@ -1,58 +1,33 @@
-DIAGNOSE v13 - engine description_length criterion vs fixture desc
-L523:     checks['description_length'] = 140 <= len(desc) <= 160
-L609:     s_crit = [('title_match', 20), ('description_length', 15),
+DIAGNOSE v14 - repair make_draft: pad desc BEFORE DRAFT_TMPL.format
+REMOVING old padding block (after format):
+    if len(desc) < 140:
+        desc += ' Nội dung mang tính tham khảo.'
+    desc = desc[:160]
+    assert 140 <= len(desc) <= 160, len(desc)
+INSERTING padded-desc block right after desc assignment, before format
 
-=== context around description_length checks ===
-L508:                                row['canonical_url'].replace('{date}', date_url))
-L509:     checks['permalink_canonical'] = front and front.get('permalink') == \
-L510:         expected_permalink
-L511: 
-L512:     # ---- words
-L513:     words = body.split()
-L514:     target = int(row['word_target'] or 1200)
-L515:     checks['word_count'] = abs(len(words) - target) <= 0.15 * target
-L516:     ev['word_count'] = len(words)
-L517:     ev['word_target'] = target
-L518: 
-L519:     # ---- SEO checks
-L520:     checks['title_match'] = front and norm_title(front.get('title', '')) == \
-L521:         norm_title(row['title'])
-L522:     desc = front.get('description', '') if front else ''
-L523:     checks['description_length'] = 140 <= len(desc) <= 160
-L524:     checks['description_keyword'] = (row['primary_keyword'] or '').lower() in desc.lower()
-L525:     h2s = re.findall(r'^##\s+(.+)$', body, re.M)
-L526:     h3s = re.findall(r'^###\s+(.+)$', body, re.M)
-L527:     checks['h2_min'] = len(h2s) >= 2
-L528:     checks['no_h1_in_body'] = not re.search(r'^#\s+\S', body, re.M)
----
-L594:         checks['legal_source'] = bool(GOV_SOURCE_RE.search(body))
-L595:         checks['legal_disclaimer'] = LEGAL_DISCLAIMER in body
-L596:         legal = 'PASS' if (checks['legal_source'] and checks['legal_disclaimer']) \
-L597:             else 'FAIL'
-L598:     else:
-L599:         legal = 'NOT_REQUIRED'
-L600: 
-L601:     critical = not (checks['business_amounts'] and checks['forbidden_claims']
-L602:                     and checks['phone_ok'] and checks['no_placeholder']
-L603:                     and checks['links_routes_valid'])
-L604: 
-L605:     # ---- điểm theo trọng số QUALITY-RUBRIC.md
-L606:     q_crit = [('intent_opening', 25), ('hanoi_example', 25),
-L607:               ('reads_naturally_proxy', 20), ('business_amounts', 20),
-L608:               ('no_placeholder', 10)]
-L609:     s_crit = [('title_match', 20), ('description_length', 15),
-L610:               ('headings_intent', 20), ('links_count', 15),
-L611:               ('cannibalization', 20), ('permalink_canonical', 10)]
-L612:     quality = sum(w for k, w in q_crit if checks.get(k))
-L613:     seo = sum(w for k, w in s_crit if checks.get(k))
-L614:     # business_fact là cổng PASS-FAIL riêng; chỉ tính điểm khi cổng sạch
----
-
-=== fixture descs for next-chunk rows ===
-prepare-next exit=1
-Traceback (most recent call last):
-  File "/home/runner/work/blog/blog/scripts/factory/diagnose-publish.py", line 45, in <module>
-    row = [x for x in rows if x["status"] == "WRITING"][k]
-          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^
-IndexError: list index out of range
-
+=== diff ===
+--- 
++++ 
+@@ -163,4 +163,10 @@
+             'thủ tục cần làm và nguồn văn bản chính thức để đối chiếu.'
+             % row['primary_keyword'])
++    if len(desc) < 140:
++        desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
++    if len(desc) < 140:
++        desc += ' Nội dung mang tính tham khảo.'
++    desc = desc[:160]
++    assert 140 <= len(desc) <= 160, len(desc)
+     required = [l for l in (row['internal_links'].split('; ')
+                             if row['internal_links'] else []) if l]
+@@ -218,8 +224,5 @@
+     if len(desc) < 140:
+         desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
+-    if len(desc) < 140:
+-        desc += ' Nội dung mang tính tham khảo.'
+-    desc = desc[:160]
+-    assert 140 <= len(desc) <= 160, len(desc)
++
+     open(os.path.join(fx, '_drafts', '%s-%s.md' % (d, slug)), 'w',
+          encoding='utf-8').write(text)
+py_compile exit=0 

@@ -162,6 +162,12 @@ def make_draft(fx, row):
     desc = ('%s: cách xác định trường hợp thiếu bảo hiểm khi lưu thông ở Hà Nội, '
             'thủ tục cần làm và nguồn văn bản chính thức để đối chiếu.'
             % row['primary_keyword'])
+    if len(desc) < 140:
+        desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
+    if len(desc) < 140:
+        desc += ' Nội dung mang tính tham khảo.'
+    desc = desc[:160]
+    assert 140 <= len(desc) <= 160, len(desc)
     required = [l for l in (row['internal_links'].split('; ')
                             if row['internal_links'] else []) if l]
     hub = _hub_url(fx, row['parent_id'])
@@ -217,10 +223,7 @@ def make_draft(fx, row):
         text = text[:fm_end] + body + '\n\n' + '\n\n'.join(extra)
     if len(desc) < 140:
         desc += ' Đối chiếu văn bản hiện hành trước khi áp dụng.'
-    if len(desc) < 140:
-        desc += ' Nội dung mang tính tham khảo.'
-    desc = desc[:160]
-    assert 140 <= len(desc) <= 160, len(desc)
+
     open(os.path.join(fx, '_drafts', '%s-%s.md' % (d, slug)), 'w',
          encoding='utf-8').write(text)
     return os.path.join(fx, '_drafts', '%s-%s.md' % (d, slug))
