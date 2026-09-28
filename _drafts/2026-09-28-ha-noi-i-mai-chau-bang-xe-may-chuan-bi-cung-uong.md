@@ -15,7 +15,7 @@ article_id: BLG-00778
 
 Hà Nội đi Mai Châu bằng xe máy dài chừng một trăm bốn mươi ki-lô-mét theo quốc lộ 6, chạy liên tục hết khoảng ba tiếng, cộng nghỉ chân là nửa ngày; khoảng cách đó không dài, nhưng một cung có đèo, có đoạn nhiều xe tải và có trạm xăng thưa thì phần quyết định chuyến đi êm hay vất vả nằm ở khâu chuẩn bị. Bài này gom các việc cần làm trước khi buông ga: tóm tắt cung đường mai châu, tính giờ khởi hành cho đúng ý đi mai châu bao lâu, kiểm tra xe và giấy tờ, xếp đồ mang theo, chọn điểm đổ xăng nghỉ chân, và phương án khi xe gặp sự cố giữa cung. Khách đọc trước và làm theo sẽ tránh được hai tình huống phổ biến nhất: chạy đến chân đèo mới biết phanh yếu, và khởi hành trễ khiến tới bản trong lúc trời tối.
 
-## Cung đường Hà Nội đi Mai Châu tóm tắt
+## Hà Nội đi Mai Châu bằng xe máy: cung đường tóm tắt
 
 Tuyến chuẩn của khách xe máy là quốc lộ 6 suốt chặng: từ Hà Nội qua khu Hà Đông, Chúc Sơn tới Lương Sơn, đến thành phố Hòa Bình, chạy tiếp qua vùng Cao Phong, Tân Lạc, leo đèo Thung Khe rồi xuống vào thung lũng Mai Châu. Xe máy không vào được đường cao tốc phía tây dành cho ô tô, nên quốc lộ 6 là cung đường mai châu duy nhất của xe hai bánh, và cũng là cung đẹp: ven suối, qua thung lũng lúa và một đoạn đèo đá vôi trắng. Đường hai bên nhiều đoạn làn hẹp, xe tải chạy nhiều, khách giữ mép phải và không ép sát khúc cua. Cung này được mô tả chi tiết theo từng chặng trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/blog/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/), còn bài này tập trung vào việc chuẩn bị trước khi xuất phát.
 
