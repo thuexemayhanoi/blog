@@ -1,5 +1,5 @@
 {
   "op": "qa",
   "ids": "BLG-00605,BLG-00606,BLG-00607,BLG-00608,BLG-00609,BLG-00610,BLG-00611,BLG-00612,BLG-00613,BLG-00614",
-  "note": "resume cycle 6 chunk 1 qa — run 2026-09-28 (retry operator run #89)"
+  "note": "qa cycle 6 chunk 1 after draft repairs; BLG-00613 rewritten (was corrupt)"
 }
