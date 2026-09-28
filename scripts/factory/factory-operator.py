@@ -1123,6 +1123,7 @@ VERIFY_TESTS_FAST = [
     'scripts/factory/tests/test_publish_gate.py',
     'scripts/factory/tests/test_operator.py',
     'scripts/factory/tests/test_refill_safety.py',
+    'scripts/factory/tests/test_workflow_syntax.py',
 ]
 VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
     'scripts/factory/tests/test_link_integrity.py',

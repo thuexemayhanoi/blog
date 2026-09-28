@@ -1,0 +1,149 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""Kiểm tra cú pháp shell của MỌI khối run: trong .github/workflows/*.yml.
+
+Bài học bug đã sửa (2026-09-28, PR #1): bước "op publish" trong
+factory-operator.yml có dấu " thừa cuối dòng
+(`... ${SCOPE:+--scope $SCOPE}"`) — bash -n từ chối ngay từ đầu nhưng
+workflow chỉ phát hiện khi chạy TỚI bước đó trong sản xuất, làm mất
+nguyên run operator. Từ đây mọi khối run: phải được kiểm bash -n
+trong CI (Factory validate) và trong verify FAST của từng lệnh
+sản xuất, KHÔNG đợi đến lúc bước đó thực sự chạy.
+
+Không cần pyyaml: trích khối run: theo indent (block scalar `|`/`>`
+hoặc inline), giống YAML engine của Actions xuất script. Mỗi khối
+được ghi ra file .sh rồi `bash -n` — bắt lỗi thiếu/thừa dấu ngoặc,
+error lambẹp vùng else/for, expansion sót công... (lỗi cú pháp, không
+phải lỗi logic runtime).
+
+Chạy: python3 scripts/factory/tests/test_workflow_syntax.py
+"""
+import glob
+import os
+import re
+import subprocess
+import tempfile
+import unittest
+
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
+    os.path.abspath(__file__)))))
+
+WORKFLOWS = os.path.join(ROOT, '.github', 'workflows')
+RUN_RE = re.compile(r'^([ \t]*)(?:- )?run:(.*)$')
+NAME_RE = re.compile(r'^\s*- name:\s*(.*)$')
+BLOCK_STYLES = ('|', '|-', '|+', '>', '>-', '>+')
+
+# Bug thực tế đã xảy ra: phải vẫn FAIL nếu ai đó biến lại dòng này.
+BROKEN_PUBLISH_LINE = (
+    'python3 scripts/factory/factory-operator.py '
+    'publish --ids "$IDS" ${SCOPE:+--scope $SCOPE}"')
+FIXED_PUBLISH_LINE = (
+    'python3 scripts/factory/factory-operator.py '
+    'publish --ids "$IDS" ${SCOPE:+--scope $SCOPE}')
+
+
+def extract_run_blocks(path):
+    """Trả về [(tên step, script, số dòng)] theo đúng indent YAML."""
+    with open(path, encoding='utf-8') as f:
+        lines = f.read().splitlines()
+    blocks = []
+    i = 0
+    while i < len(lines):
+        m = RUN_RE.match(lines[i])
+        if not m:
+            i += 1
+            continue
+        indent, rest = m.group(1), m.group(2).strip()
+        name = None
+        for j in range(i - 1, -1, -1):
+            nm = NAME_RE.match(lines[j])
+            if nm:
+                name = nm.group(1).strip()
+                break
+        if rest in BLOCK_STYLES + ('',):
+            j = i + 1
+            body = []
+            while j < len(lines):
+                ln = lines[j]
+                if ln.strip() == '':
+                    body.append('')
+                    j += 1
+                    continue
+                ind = len(ln) - len(ln.lstrip())
+                if ind <= len(indent):
+                    break
+                body.append(ln)
+                j += 1
+            nonblank = [b for b in body if b.strip()]
+            if nonblank:
+                strip = min(len(b) - len(b.lstrip()) for b in nonblank)
+                body = [b[strip:] if b.strip() else '' for b in body]
+            while body and body[-1] == '':
+                body.pop()
+            blocks.append((name, '\n'.join(body), i + 1))
+            i = j
+        else:
+            blocks.append((name, rest, i + 1))
+            i += 1
+    return blocks
+
+
+def bash_n(script):
+    """bash -n trả về returncode (0 = cú pháp đúng, !=0 = SAI)."""
+    fd, tmp = tempfile.mkstemp(suffix='.sh')
+    try:
+        with os.fdopen(fd, 'w', encoding='utf-8') as f:
+            f.write(script + '\n')
+        return subprocess.run(['bash', '-n', tmp],
+                              capture_output=True, text=True).returncode
+    finally:
+        os.unlink(tmp)
+
+
+class WorkflowShellSyntaxTest(unittest.TestCase):
+
+    def test_all_workflows_exist(self):
+        found = glob.glob(os.path.join(WORKFLOWS, '*.yml'))
+        self.assertGreaterEqual(len(found), 4,
+                                'thiếu workflow trong .github/workflows')
+
+    def test_every_run_block_passes_bash_n(self):
+        paths = sorted(glob.glob(os.path.join(WORKFLOWS, '*.yml')))
+        self.assertTrue(paths, 'không tìm thấy workflow nào')
+        checked = 0
+        for path in paths:
+            for name, script, lineno in extract_run_blocks(path):
+                checked += 1
+                rc = bash_n(script)
+                self.assertEqual(
+                    rc, 0,
+                    'CÚ PHÁP SHELL SAI: %s dòng %d (step %r)\n%s'
+                    % (os.path.basename(path), lineno, name, script))
+        # đầy đủ: phải có ít nhất khối run của operator workflow
+        self.assertGreaterEqual(checked, 30,
+                                'số khối run phát hiện bất thường '
+                                '(%d) — extractor có thể hỏng' % checked)
+
+    def test_regression_broken_publish_line_fails(self):
+        """Đúng bug dấu " thừa: bash -n PHẢI bắt. Nếu test này FAIL
+        nghĩa là bảo vệ (bash -n) không còn bắt được lớp lỗi này."""
+        self.assertNotEqual(bash_n(BROKEN_PUBLISH_LINE), 0,
+                            'bash -n không bắt được dòng publish lỗi')
+
+    def test_regression_fixed_publish_line_passes(self):
+        self.assertEqual(bash_n(FIXED_PUBLISH_LINE), 0,
+                         'dòng publish đã sửa vẫn sai cú pháp')
+
+    def test_scope_expansion_keeps_command_valid(self):
+        """Dạng sử dụng thật của các bước op: biến diễn ra khi SCOPE
+        có/không giá trị thì dòng lệnh vẫn hợp lệ."""
+        for scope in ('', 'fast', 'deep', 'full'):
+            cmd = ('python3 scripts/factory/factory-operator.py '
+                   'verify ${SCOPE:+--scope $SCOPE}')
+            rc = bash_n(cmd)
+            self.assertEqual(rc, 0,
+                             'cú pháp hỏng khi SCOPE=%r' % scope)
+
+
+if __name__ == '__main__':
+    unittest.main(verbosity=2)

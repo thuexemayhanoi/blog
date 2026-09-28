@@ -222,6 +222,7 @@ class VerifyStepsTest(unittest.TestCase):
         self.assertNotIn('scripts/factory/tests/test_link_integrity.py', tests)
         self.assertNotIn('scripts/factory/tests/test_qa_modes.py', tests)
         self.assertIn('scripts/factory/tests/test_publish_gate.py', tests)
+        self.assertIn('scripts/factory/tests/test_workflow_syntax.py', tests)
         self.assertIn(['scripts/factory/capacity-audit.py'], steps)
         self.assertIn(['scripts/factory/queue.py', '--stats'], steps)
 
@@ -235,6 +236,7 @@ class VerifyStepsTest(unittest.TestCase):
             'scripts/factory/tests/test_publish_gate.py',
             'scripts/factory/tests/test_operator.py',
             'scripts/factory/tests/test_refill_safety.py',
+            'scripts/factory/tests/test_workflow_syntax.py',
             'scripts/factory/tests/test_link_integrity.py',
             'scripts/factory/tests/test_qa_modes.py',
         ]))
