@@ -114,7 +114,8 @@ article_id: {aid}
 ---
 
 {kw} là câu hỏi của nhiều người đi xe máy quanh Hà Nội. Bài này tóm tắt
-cách nhận biết trường hợp thiếu bảo hiểm và việc cần làm tiếp theo.
+cách nhận biết trường hợp thiếu bảo hiểm và việc cần
+ làm tiếp theo.
 
 ## {kw} theo quy định hiện hành
 
@@ -351,7 +352,8 @@ class TestScopeGating(FxTestCase):
         self.assertEqual(r.returncode, 1)
         self.assertIn('URL legacy sai', r.stdout)
         r = self.validate('full')
-        self.assertEqual(r.returncode, 1)
+        self.assertEqual(r.returncode, 1
+)
 
     def test_qa_evidence_outside_chunk_ignored_by_fast(self):
         self.ensure_writing_chunk()
@@ -398,7 +400,8 @@ class TestReleaseChunk(FxTestCase):
         self.ensure_writing_chunk()
         rows = matrix_rows(self.fx)
         keep = first_writing(self.fx)
-        make_draft(self.fx, keep)
+        make_draft(self.fx, 
+keep)
         r = self.operator('release-chunk')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         rows = matrix_rows(self.fx)
@@ -437,8 +440,7 @@ class TestManualProductionFlow(FxTestCase):
         r = self.operator('prepare-next', '--count', '15')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         rows = matrix_rows(self.fx)
-        self.assertEqual(len([x for x in rows i
-f x['status'] == 'WRITING']), 10)
+        self.assertEqual(len([x for x in rows if x['status'] == 'WRITING']), 10)
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
         self.assertEqual(len(cp['in_progress_chunk']), 10)
         # next_claimable nhảy đúng: 10 ID đầu (theo thứ tự id)
@@ -528,7 +530,8 @@ f x['status'] == 'WRITING']), 10)
 ] = {'article_id': pub['id'], 'step': 'promote',
                           'destination': pub['output_path'],
                           'source': '_drafts/2026-09-27-x.md'}
-        write_json(self.fx, 'data/state/transaction.json', txn)
+        write_json(self.fx,
+ 'data/state/transaction.json', txn)
         r = self.operator('recover')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         self.assertIn('transaction hoàn tất', r.stdout)
