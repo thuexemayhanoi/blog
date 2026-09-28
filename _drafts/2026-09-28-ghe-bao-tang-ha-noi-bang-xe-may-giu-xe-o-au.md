@@ -26,7 +26,7 @@ Bốn việc nhanh dưới một phút này cứu khách rất nhiều khi lấy
 
 Khách thuê xe nên thêm một thói quen trước khi rời xe: kiểm tra đèn, còi, phanh và mức xăng ngay từ đầu buổi, để không phát hiện thiếu giữa đường về. Nếu trời nắng gắt và bãi cho phép, khách che yên hoặc chọn ô bóng râm, yên nóng gây bỏng rát khi lên xe giữa trưa. Chi tiết thói quen giữ xe và hành lý được kể kỹ trong trang [chỗ đổ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), khách mới chạy nội đô đọc thêm bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
 
-## Đi bảo tàng bằng xe: tính khung giờ quanh chuyện giữ xe
+## Bảo tàng Hà Nội đi xe máy: tính khung giờ quanh chuyện giữ xe
 
 Giữ xe gắn chặt với khung giờ: theo trang chính thức của bảo tàng, giờ mở từ 9 giờ tới 17 giờ các ngày thứ Ba tới Chủ nhật và nghỉ thứ Hai, nên khách đi bảo tàng bằng xe nên tính lịch khung đầu giờ sáng để bãi còn thoáng và đường vào vắng. Khách tới sát khung trưa dễ gặp bãi kín vòng ngoài theo chỉ dẫn và phải đi bộ thêm một đoạn nắng, không hợp khi dẫn trẻ nhỏ. Khung chiều muộn lại dính dòng tan tầm trên các trục về nội đô, nên đầu giờ sáng vẫn là lựa chọn lợi nhất cho cả xe lẫn lịch trình.
 

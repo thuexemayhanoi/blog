@@ -14,7 +14,7 @@ article_id: BLG-00724
 ---
 Chạy xe trong phố cổ dễ chịu hay không phụ thuộc gần như hoàn toàn vào khung giờ: cùng một tuyến phố, lúc vắng khách chạy thong dong tới từng ngõ, lúc đông chỉ chạy được theo tốc độ của dòng phía trước. Bài này xếp các khung giờ đông phố cổ nên tránh, khung đáng đi thay thế, và vài lưu ý riêng của khu phố nhỏ, đường hẹp, vỉa hè kín hàng quán.
 
-## Giờ đông phố cổ: khung tan tầm chiều là đỉnh của dòng xe
+## Chạy xe trong phố cổ: khung tan tầm chiều là đỉnh của dòng xe
 
 Khung đáng tránh nhất là chiều từ khoảng năm giờ tới hết bảy giờ tối: lúc này dòng xe máy và ô tô từ các khu làm việc chảy về trung tâm, các nút quanh Hồ Gươm và đầu các con phố cổ dày đặc, khách chạy xe trong khu này phần lớn thời gian chỉ nhích từng bước. Khung sáng từ khoảng bảy giờ rưỡi tới tám giờ rưỡi cũng vậy, khi dòng người đi làm và đưa trẻ tới trường tràn qua các phố, thêm các xe hàng giao hàng quán thành từng cụm chắn ngõ.
 
