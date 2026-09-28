@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ghe-bao-tang-ha-noi-bang-xe-may-gui-xe-va-gio-mo-cua.md",
+  "source_path": "_posts/2026-09-28-ghe-bao-tang-ha-noi-bang-xe-may-gui-xe-va-gio-mo-cua.md",
   "content_sha256": "7098d99392bdc484698a08be91802dd88636545a1ff3d2e8a888b93542ea2230",
-  "matrix_row_sha256": "a36b57bf99788f38c2d557e785fbfa125e50e8e78925a61ebcc7cf947850f9ec",
-  "result": "PASS"
+  "matrix_row_sha256": "bd6920184be6b22329c5d30c9f7724873869921e444f0ec23851962af036fb26",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:02:46+00:00"
 }

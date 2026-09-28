@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ghe-bao-tang-con-roi-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua.md",
+  "source_path": "_posts/2026-09-28-ghe-bao-tang-con-roi-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua.md",
   "content_sha256": "f0a6aae49a59fe46e737f698986000261c6f9c914afb0dc63a67cfa3b5bbe0f4",
-  "matrix_row_sha256": "e20aabfeba7d27f1f30c687af6ecda196a2a6f108abe19ffad02dac2f9128934",
-  "result": "PASS"
+  "matrix_row_sha256": "6fbb1bddd2cfde34ad02eb3e2e4ccf1b3099848ee8952356bad02647938e0a23",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:02:46+00:00"
 }

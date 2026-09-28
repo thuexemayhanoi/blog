@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-trai-nghiem-bao-tang-ha-noi-nen-i-cung-ai-va-luc-nao.md",
+  "source_path": "_posts/2026-09-28-trai-nghiem-bao-tang-ha-noi-nen-i-cung-ai-va-luc-nao.md",
   "content_sha256": "917180e56a0cf147814db6a02e70673db41eb4db5736e271ef1e541c9c86c591",
-  "matrix_row_sha256": "3390cf7ca657ae4cac8251937e92dd0739c74cf75aa7be54cf7a5668975b5530",
-  "result": "PASS"
+  "matrix_row_sha256": "ad3165128f0030971a75191011f90bb35f14ec966bb214b1159e66c37e153de5",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:02:46+00:00"
 }

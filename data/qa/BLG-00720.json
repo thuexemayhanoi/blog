@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-trai-nghiem-bao-tang-con-roi-viet-nam-nen-i-cung-ai-va-luc-nao.md",
+  "source_path": "_posts/2026-09-28-trai-nghiem-bao-tang-con-roi-viet-nam-nen-i-cung-ai-va-luc-nao.md",
   "content_sha256": "f6eaa624466fb5bb68badd734bcac8d3fafee8271ba71f5a1025dd1c2bc25979",
-  "matrix_row_sha256": "154ff1cec4afad9126f28f4eea7dcec360a804b9e291557232012ea4e4d8743c",
-  "result": "PASS"
+  "matrix_row_sha256": "3193e680fde2993bea8bbb8e4155d567354285590e8284fd74f6cef4bd7acf41",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:02:46+00:00"
 }

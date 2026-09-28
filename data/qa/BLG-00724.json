@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-xe-may-trong-pho-co-gio-nao-nen-tranh.md",
+  "source_path": "_posts/2026-09-28-chay-xe-may-trong-pho-co-gio-nao-nen-tranh.md",
   "content_sha256": "28843d62222f7efac53667ba2896a1c7f2192ddd3631aced07deb8ee9eae9151",
-  "matrix_row_sha256": "5be44a0be6d54086de9fb87bc59a5fe9add9c5e8d91d2d379872b993b7f00506",
-  "result": "PASS"
+  "matrix_row_sha256": "8e604523deb65187d9408e0c9aa316b5f54c8e86ef17ba3f514e2b0855676693",
+  "result": "PASS",
+  "published_at": "2026-09-28T20:02:46+00:00"
 }
