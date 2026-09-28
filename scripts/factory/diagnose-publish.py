@@ -1,6 +1,5 @@
-import subprocess, sys, os, json, shutil, tempfile, importlib.util, traceback
+import subprocess, sys, os, json, shutil, tempfile, importlib.util, re
 
-IDS = "BLG-00635,BLG-00636,BLG-00637,BLG-00638,BLG-00639,BLG-00640,BLG-00641,BLG-00642,BLG-00643,BLG-00644"
 LOG = []
 
 def log(s):
@@ -10,13 +9,23 @@ def run(cmd):
     p = subprocess.run(cmd, capture_output=True, text=True)
     return p.returncode, p.stdout, p.stderr
 
-log("DIAGNOSE v12 - why fixture draft for next chunk scores REPAIR")
-c, o, e = run(["git", "rev-parse", "HEAD"])
-ORIG = o.strip()
-log("orig_head=" + ORIG)
-c, o, e = run([sys.executable, "scripts/factory/factory-operator.py", "publish", "--ids", IDS])
-log("publish exit=" + str(c))
+log("DIAGNOSE v13 - engine description_length criterion vs fixture desc")
+src = open("scripts/factory/factory-operator.py", encoding="utf-8").read()
+lines = src.split(chr(10))
+for i, ln in enumerate(lines):
+    if "description_length" in ln or "description" in ln and ("len" in ln or "140" in ln or "160" in ln):
+        log("L" + str(i+1) + ": " + ln)
 log("")
+log("=== context around description_length checks ===")
+idxs = [i for i, ln in enumerate(lines) if "description_length" in ln]
+for i in idxs:
+    lo = max(0, i - 15)
+    hi = min(len(lines), i + 6)
+    for j in range(lo, hi):
+        log("L" + str(j+1) + ": " + lines[j])
+    log("---")
+log("")
+log("=== fixture descs for next-chunk rows ===")
 try:
     spec = importlib.util.spec_from_file_location("tqm", "scripts/factory/tests/test_qa_modes.py")
     m = importlib.util.module_from_spec(spec)
@@ -27,42 +36,25 @@ try:
     dd = os.path.join(fx, "_drafts")
     for fn in os.listdir(dd):
         os.remove(os.path.join(dd, fn))
-    def py(*a):
+    def py2(*a):
         return m.run_py(list(a), fx)
-    r = py("scripts/factory/factory-operator.py", "prepare-next", "--count", "10")
+    r = py2("scripts/factory/factory-operator.py", "prepare-next", "--count", "10")
     log("prepare-next exit=" + str(r.returncode))
-    log((r.stdout or "")[-1200:])
-    row = m.first_writing(fx)
-    log("row=" + row["id"])
-    log("keyword=" + str(row.get("primary_keyword")))
-    log("word_target=" + str(row.get("word_target")))
-    log("internal_links=" + str(row.get("internal_links")))
-    log("canonical_url=" + str(row.get("canonical_url")))
-    p = m.make_draft(fx, row)
-    log("draft=" + p)
-    r = py("scripts/factory/factory-operator.py", "qa", "--scope", "fast", "--ids", row["id"])
-    log("qa exit=" + str(r.returncode))
-    log("--- qa stdout tail ---")
-    log((r.stdout or "")[-5000:])
-    log("--- qa stderr tail ---")
-    log((r.stderr or "")[-2000:])
-    ev = os.path.join(fx, "data", "qa", row["id"] + ".json")
-    if os.path.exists(ev):
-        log("--- qa evidence ---")
-        log(open(ev, encoding="utf-8").read()[-9000:])
-    else:
-        log("no qa evidence file")
+    for k in range(3):
+        rows = m.matrix_rows(fx)
+        row = [x for x in rows if x["status"] == "WRITING"][k]
+        p = m.make_draft(fx, row)
+        text = open(p, encoding="utf-8").read()
+        mm = re.search(r"^description: (.*)$", text, flags=re.M)
+        d = mm.group(1)
+        log(row["id"] + " keyword=" + row["primary_keyword"])
+        log("  desc_len=" + str(len(d)) + " desc=" + d)
     shutil.rmtree(base, ignore_errors=True)
-except Exception:
-    log("EXCEPTION:")
-    log(traceback.format_exc()[-4000:])
-log("")
-c, o, e = run(["git", "reset", "--hard", ORIG])
-log("reset exit=" + str(c))
-c, o, e = run(["git", "clean", "-fd"])
-log("clean exit=" + str(c))
+except Exception as ex:
+    import traceback
+    log(traceback.format_exc()[-3000:])
 out = chr(10).join(LOG) + chr(10)
 with open("data/factory/diagnose-publish-dryrun.txt", "w", encoding="utf-8") as f:
     f.write(out)
 print(out)
-print("evidence written after restore")
+print("evidence written; workspace not mutated")
