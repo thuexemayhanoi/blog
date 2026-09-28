@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-lang-van-hoa-cac-dan-toc-va-vuon-quoc-gia-ba-vi.md",
+  "source_path": "_posts/2026-09-28-lang-van-hoa-cac-dan-toc-va-vuon-quoc-gia-ba-vi.md",
   "content_sha256": "63561b907faaf0349c2da61e68171e08e3b17055adfe2b2103dcd6edfd5c3b1b",
-  "matrix_row_sha256": "0d7a96b8cc1f059647e4f46111b5484d6ad96781d1020bbd681340b2849cb5bd",
-  "result": "PASS"
+  "matrix_row_sha256": "a98e69692bdb75e22399182412c5f217ac68a7b6c7b526c321a60274898a8013",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:09:09+00:00"
 }

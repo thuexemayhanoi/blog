@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-ong-mo-va-ho-suoi-hai-chay-xe-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-28-ong-mo-va-ho-suoi-hai-chay-xe-cuoi-tuan.md",
   "content_sha256": "4bcfdfb91a911ee8ea1d6824f348bd47a037586603e1986001071a03efcd7c3f",
-  "matrix_row_sha256": "8b21c24b804ac000b647b14938a294fd7141e8c94ca0f7f72f46916e2a4df297",
-  "result": "PASS"
+  "matrix_row_sha256": "9ea0aa5517aa19f9d102362528cc8e1ed19c9adfd319ece8a70d6b3174b94006",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:09:09+00:00"
 }

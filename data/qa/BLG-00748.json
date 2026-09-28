@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-uong-e-song-hong-chay-xe-ngoai-thanh.md",
+  "source_path": "_posts/2026-09-28-uong-e-song-hong-chay-xe-ngoai-thanh.md",
   "content_sha256": "c5e2b1093dbcc2d0b727786fcd27cf897ea069f743ea65dc34007a4163add77d",
-  "matrix_row_sha256": "b05e8755bb26e5d427d646e54a2c8474a7ed51af237de877bf76717fbfdc0bc8",
-  "result": "PASS"
+  "matrix_row_sha256": "d45cedf42f6a158fe92945e511d9f17222adaaec94c65413c20d39f7f1fec656",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:09:09+00:00"
 }

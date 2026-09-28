@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-soc-son-va-ho-ong-o-chay-xe-tranh-xa-pho.md",
+  "source_path": "_posts/2026-09-28-soc-son-va-ho-ong-o-chay-xe-tranh-xa-pho.md",
   "content_sha256": "8183d8c7a181ae701991e9be16ed89d0fa050d73bfe2be4ed58b0354d99db0e8",
-  "matrix_row_sha256": "5804199a4d1801caecce63bf1910fd164804aebb3f36be4e989816415f4f44b7",
-  "result": "PASS"
+  "matrix_row_sha256": "c474fb53c9415dd2e6e876df0ff8fdd6157eba16bbc53d461285ac546f512f67",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:09:09+00:00"
 }

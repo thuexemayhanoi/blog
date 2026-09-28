@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao.md",
+  "source_path": "_posts/2026-09-28-i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao.md",
   "content_sha256": "dccd601059673d5489cc838ed0820958948a833cda5574b0d8d74a4378b61274",
-  "matrix_row_sha256": "de87ee696a25570c79c7232cc0dffe485a5ed7d2f68bd876c0f9e1abe68af5de",
-  "result": "PASS"
+  "matrix_row_sha256": "7fd0225a5311ccc4bef7922d57d7433e2804f22911dc0aad5085a2044bc18038",
+  "result": "PASS",
+  "published_at": "2026-09-28T21:09:09+00:00"
 }
