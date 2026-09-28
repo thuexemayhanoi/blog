@@ -1,0 +1,6 @@
+{
+  "op": "prepare-next",
+  "count": 5,
+  "command_id": "campaign10k-r3-chunk8-prepare",
+  "coordinator": "vibe-campaign10k-round3"
+}
