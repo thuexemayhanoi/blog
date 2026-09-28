@@ -211,6 +211,13 @@ class PrepareNextHardening(unittest.TestCase):
     def test_s5_report_failure_stops_prepare_next(self):
         work, tmp = fresh_copy()
         try:
+            # hermetic: nếu matrix thật đang giữ chunk WRITING (chưa có
+            # draft), nhả về PLANNED qua op chuẩn để prepare-next tới được
+            # bước claim (nếu không op từ chối ở bước "còn hàng dở" — đúng
+            # engine, nhưng không phải thứ test này kiểm).
+            r0 = run(work, 'scripts/factory/factory-operator.py',
+                     'release-chunk')
+            self.assertIn(r0.returncode, (0, 1), r0.stdout)
             break_script(work, 'generate-reports.py')
             r = run(work, 'scripts/factory/factory-operator.py',
                     'prepare-next', '--count', '3')

@@ -5,9 +5,17 @@ lenh nao chua implement. Chay tu goc repository.
 
 ## 1. Preflight (truoc moi RUN / transaction)
 
-- python3 scripts/factory/validate.py
+- python3 scripts/factory/validate.py [--scope chunk|batch|full]
   Kiem nen tang (matrix, taxonomy, hash, lock, checkpoint).
+  scope chunk = FAST QA (chi chunk hien tai + nen bat buoc); batch =
+  DEEP (khong sitemap live); full (mac dinh) = toan bo + sitemap live.
   exit 0 moi duoc tiep tuc.
+- python3 scripts/factory/qa.py --mode fast|deep|full
+  QA thu cong 3 muc (docs/PROC-PUBLISH.md "QA modes"). fast = mac dinh
+  cho moi chunk 10 bai; KHONG tu chay tiep, KHONG self-dispatch.
+- python3 scripts/factory/factory-operator.py release-chunk
+  Pause san xuat an toan: tra hang WRITING chua co draft ve PLANNED,
+  giu nguyen hang co draft/QA evidence, bao ve PUBLISHED/REVIEW.
 - python3 scripts/factory/capacity-audit.py
   Kiem mo hinh nang luc 10K (tong phan bo, headroom child).
 - python3 scripts/factory/queue.py --stats

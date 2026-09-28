@@ -42,9 +42,10 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 | `publish` | promote HÀNG PASS qua publish-gate.py | KHÔNG cơ chế promote thứ hai |
 | `recover` | phục hồi transaction treo | ownership không rõ → STOP |
 | `requeue` | REPAIR/FAIL → WRITING | tôn trọng budget repair (3) |
-| `verify` | validate + capacity-audit + queue + tests | không mutate |
+| `verify` | validate + capacity-audit + queue + tests | `--scope fast\|deep\|full` (mặc định full); fast = validate chunk |
 | `refill` | chỉ khi dưới ngưỡng, chạy refill-queue.py | lazy capacity 10K |
 | `reports` | sinh reports/factory chuẩn | generate-reports.py |
+| `release-chunk` | trả chunk WRITING chưa có draft về PLANNED | pause an toàn; hàng có draft/QA evidence được giữ nguyên |
 
 Mọi op khác bị từ chối. KHÔNG bao giờ chạy shell tùy ý từ JSON.
 
@@ -115,3 +116,56 @@ matrix hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
   active=false, writer-lock sạch, lệnh đã xóa sau xử lý.
 - CƠ CHẾ HOURLY CHƯA BẬT: không cron, publish-queue.yml (legacy) vẫn
   disabled. Bật hourly chỉ sau quyết định riêng của chủ xe.
+
+
+## QA modes — FAST / DEEP / FULL (sản xuất thủ công, không tự lặp)
+
+Factory KHÔNG tự điều phối: không self-dispatch, không vòng lặp Actions
+chạy tiếp, không scheduling. Người vận hành (chủ xe hoặc agent theo lệnh
+tay "CONTINUE BLOG") tự quyết định khi nào chạy mức nào.
+
+Lệnh chuẩn:
+
+    python3 scripts/factory/qa.py --mode fast [--ids BLG-xxx,...]
+    python3 scripts/factory/qa.py --mode deep
+    python3 scripts/factory/qa.py --mode full
+
+Tương đương qua operator: `{"op":"qa","ids":"...","scope":"fast"}` và
+`python3 scripts/factory/validate.py --scope chunk|batch|full`.
+
+### FAST (mặc định — QA sản xuất mỗi chunk 10 bài)
+
+- QA deterministic TỪNG BÀI của chunk hiện tại: cấu trúc, frontmatter,
+  H1/H2, title, meta description, canonical/permalink, taxonomy, link
+  nội bộ (route thật + baseurl /blog), business facts (whitelist số tiền,
+  claims cấm, phone), cannibalization, legal/source gate khi bắt buộc,
+  quality/SEO theo rubric — KHÔNG đổi gì so với trước.
+- validate.py `--scope chunk`: nền bắt buộc (taxonomy, state, cấu trúc
+  matrix, đếm trạng thái) + bằng chứng QA của các bài trong chunk.
+- KHÔNG làm sau mỗi 10 bài: quét 483 bài legacy, sitemap live (mạng),
+  hash QA của MỌI bài PUBLISHED, crawl toàn site, graph cannibalization
+  toàn matrix. Phát hiện dấu hiệu hệ thống ở fast -> nâng lên deep/full,
+  KHÔNG hạ ngưỡng.
+- Ngưỡng giữ nguyên: quality >= 90, seo >= 90, business_fact/legal
+  PASS-FAIL, critical_failure = false.
+
+### DEEP (thủ công, ~mỗi 50 bài)
+
+Mọi thứ của fast + validate.py `--scope batch`: URL legacy, khớp
+matrix-inventory, hash QA toàn bộ PUBLISHED, hub pages + test link
+integrity. Không sitemap live.
+
+### FULL (thủ công, định kỳ / final verification)
+
+validate.py `--scope full`: toàn repository kèm đối chiếu sitemap
+live + capacity-audit + toàn bộ test. KHÔNG phải điều kiện xuất bản
+mỗi chunk.
+
+### Pause an toàn (release-chunk)
+
+    {"op":"release-chunk"}  hoặc  --ids BLG-xxx,...
+
+Trả các hàng WRITING/QA/REPAIR/PASS CHƯA CÓ draft về PLANNED, xóa
+in_progress_chunk, trả next_claimable_id về ID thấp nhất được nhả.
+Hàng đã có draft hoặc bằng chứng QA được GIỮ NGUYÊN (không vứt việc
+thật). PUBLISHED/EXISTING/REVIEW/BLOCKED luôn được bảo vệ.

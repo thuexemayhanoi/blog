@@ -70,18 +70,24 @@ jobs:
           node -e '
             const fs = require("fs");
             const cmd = JSON.parse(fs.readFileSync("data/factory/operator-command.json", "utf8"));
-            const OPS = ["status","prepare-next","qa","publish","recover","requeue","verify","refill","reports"];
+            const OPS = ["status","prepare-next","qa","publish","release-chunk","recover","requeue","verify","refill","reports"];
+            const SCOPES = ["fast","deep","full"];
             if (!OPS.includes(cmd.op)) { console.error("unsupported op: " + cmd.op); process.exit(1); }
             if (cmd.ids && !/^[A-Z0-9,-]+$/.test(cmd.ids)) { console.error("bad ids"); process.exit(1); }
             if (cmd.count !== undefined && (!Number.isInteger(cmd.count) || cmd.count < 1 || cmd.count > 10)) { console.error("bad count"); process.exit(1); }
+            if (cmd.scope !== undefined && !SCOPES.includes(cmd.scope)) { console.error("bad scope"); process.exit(1); }
             fs.appendFileSync(process.env.GITHUB_ENV, "OP=" + cmd.op + "\n");
             fs.appendFileSync(process.env.GITHUB_ENV, "IDS=" + (cmd.ids || "") + "\n");
             fs.appendFileSync(process.env.GITHUB_ENV, "COUNT=" + (cmd.count || "") + "\n");
+            fs.appendFileSync(process.env.GITHUB_ENV, "SCOPE=" + (cmd.scope || "") + "\n");
+            // scope validate: fast->chunk, deep->batch, mac dinh full
+            const VSC = cmd.scope === "fast" ? "chunk" : cmd.scope === "deep" ? "batch" : "full";
+            fs.appendFileSync(process.env.GITHUB_ENV, "VALIDATE_SCOPE=" + VSC + "\n");
           '
           echo "operator command accepted (op/ids/count export cho cac step sau)"
 
-      - name: Preflight - engine invariant (khong bao gio bypass)
-        run: python3 scripts/factory/validate.py
+      - name: Preflight - engine invariant (khong bao gio bypass, theo scope lenh)
+        run: python3 scripts/factory/validate.py --scope ${VALIDATE_SCOPE}
 
       - name: Preflight - trang thai engine read-only
         run: python3 scripts/factory/factory-operator.py status
@@ -113,11 +119,10 @@ jobs:
         if: env.OP == 'qa'
         run: |
           set -eu
-          if [ -n "$IDS" ]; then
-            python3 scripts/factory/factory-operator.py qa --ids "$IDS"
-          else
-            python3 scripts/factory/factory-operator.py qa
-          fi
+          ARGS=""
+          if [ -n "$SCOPE" ]; then ARGS="$ARGS --scope $SCOPE"; fi
+          if [ -n "$IDS" ]; then ARGS="$ARGS --ids $IDS"; fi
+          python3 scripts/factory/factory-operator.py qa $ARGS
 
       - name: op publish
         if: env.OP == 'publish'
@@ -132,6 +137,14 @@ jobs:
           set -eu
           if [ -z "$IDS" ]; then echo "::error::requeue requires ids"; exit 1; fi
           python3 scripts/factory/factory-operator.py requeue --ids "$IDS"
+
+      - name: op release-chunk
+        if: env.OP == 'release-chunk'
+        run: |
+          set -eu
+          ARGS=""
+          if [ -n "$IDS" ]; then ARGS="--ids $IDS"; fi
+          python3 scripts/factory/factory-operator.py release-chunk $ARGS
 
       - name: op verify
         if: env.OP == 'verify'
@@ -159,7 +172,7 @@ jobs:
           echo "OPERATOR_VERIFIED_TREE=$VERIFIED_TREE" >> "$GITHUB_ENV"
           echo "OPERATOR_LOCAL_VERIFY_HEAD=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
           echo "OPERATOR_LOCAL_VERIFY_TREE=$VERIFIED_TREE"
-          python3 scripts/factory/factory-operator.py verify
+          python3 scripts/factory/factory-operator.py verify ${SCOPE:+--scope $SCOPE}
           find scripts -name '__pycache__' -type d -prune -exec rm -rf {} + 2>/dev/null || true
           git add -A
           if [ "$(git write-tree)" != "$VERIFIED_TREE" ]; then
@@ -202,7 +215,7 @@ jobs:
               exit 1
             fi
             echo "OPERATOR_LOCAL_VERIFY_HEAD_POST_REBASE=$(git rev-parse HEAD)"
-            python3 scripts/factory/factory-operator.py verify
+            python3 scripts/factory/factory-operator.py verify ${SCOPE:+--scope $SCOPE}
             find scripts -name '__pycache__' -type d -prune -exec rm -rf {} + 2>/dev/null || true
             if ! git diff --quiet || ! git diff --cached --quiet; then
               echo "::error::trang thai sau rebase khong clean — STOP, KHONG push state chua hoa giai"

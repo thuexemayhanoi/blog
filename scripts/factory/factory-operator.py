@@ -18,13 +18,28 @@ Mọi thao tác là deterministic trên engine chuẩn của /blog:
 Ops whitelist:
   status                                  — in trạng thái (read-only)
   prepare-next [--count N]                — claim N hàng PLANNED (mặc định 5, tối đa 10)
-  qa [--ids ID1,ID2]                      — QA deterministic cho hàng WRITING/QA/REPAIR
-  publish --ids ID1,ID2                   — promote hàng PASS qua publish-gate.py
+  qa [--ids ID1,ID2] [--scope fast|deep|full]
+                                          — QA deterministic cho hàng WRITING/QA/REPAIR
+  publish --ids ID1,ID2 [--scope fast|deep|full]
+                                          — promote hàng PASS qua publish-gate.py
+  release-chunk [--ids ID1,ID2]           — trả chunk WRITING chưa có draft về PLANNED
+                                            (pause an toàn: KHÔNG đụng hàng có draft/QA)
   recover                                — phục hồi transaction treo theo RECOVERY.md
   requeue --ids ID1                       — REPAIR/FAIL -> WRITING (tôn trọng budget)
-  verify                                 — validate + capacity-audit + queue + tests
+  verify [--scope fast|deep|full]        — validate + capacity-audit + queue + tests
   refill                                 — chỉ khi dưới ngưỡng, chạy refill-queue.py
   reports                                — sinh reports/factory/*.md chuẩn
+
+QA SCOPE (docs/PROC-PUBLISH.md "QA modes" — sản xuất thủ công, KHÔNG tự lặp):
+  fast (mặc định)  — validate.py --scope chunk: CHỈ chunk hiện tại + nền bắt
+                     buộc. Đây là QA sản xuất cho mỗi chunk 10 bài; KHÔNG
+                     chạy audit toàn site. Ngưỡng KHÔNG đổi: quality>=90,
+                     seo>=90, business_fact/legal PASS-FAIL giữ nguyên.
+  deep             — validate.py --scope batch: nền + inventory/matrix/hub
+                     rộng hơn, không quét sitemap live. Chạy thủ công (~50 bài).
+  full             — validate.py --scope full: toàn repository kèm sitemap
+                     live. Chạy thủ công/định kỳ; KHÔNG phải điều kiện xuất
+                     bản mỗi chunk.
 
 Thoát: 0 = thành công; 1 = từ chối an toàn (không mutate); 2 = lỗi dữ liệu.
 """
@@ -58,6 +73,15 @@ DEFAULT_CHUNK = 5
 REPAIR_BUDGET = 3
 QUALITY_MIN = 90
 SEO_MIN = 90
+
+# QA modes (docs/PROC-PUBLISH.md): fast = validate scope chunk (mặc định cho
+# sản xuất 10 bài), deep = scope batch, full = scope full. KHÔNG hạ ngưỡng.
+QA_MODES = ('fast', 'deep', 'full')
+
+
+def validate_scope_for_mode(mode):
+    """Map QA mode -> validate.py scope. Chế độ lạ -> full (an toàn)."""
+    return {'fast': 'chunk', 'deep': 'batch'}.get(mode, 'full')
 
 # ---------------------------------------------------------------- engine load
 
@@ -137,13 +161,18 @@ def with_lock(holder):
 
 # ---------------------------------------------------------------- preflight
 
-def preflight(require_clean_txn=True):
-    """Kiểm tra trước mọi op mutating. Trả về (txn, cp, rows)."""
-    ok = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
+def preflight(require_clean_txn=True, scope='chunk'):
+    """Kiểm tra trước mọi op mutating. Trả về (txn, cp, rows).
+
+    scope: phạm vi validate.py (chunk/batch/full). Mặc định 'chunk' —
+    FAST QA: chỉ chunk hiện tại + nền bắt buộc, KHÔNG audit toàn site
+    cho mỗi chunk 10 bài (docs/PROC-PUBLISH.md). Ngưỡng QA không đổi."""
+    ok = subprocess.run([sys.executable, 'scripts/factory/validate.py',
+                         '--scope', scope],
                         capture_output=True, text=True)
     if ok.returncode != 0:
         print(ok.stdout[-2000:])
-        bail('validate.py FAIL — không được mutate khi engine lệch.')
+        bail('validate.py FAIL (scope=%s) — không được mutate khi engine lệch.' % scope)
 
     txn = read_json(TXN, {'active': False, 'pending': None, 'history': []})
     if require_clean_txn and txn.get('active'):
@@ -607,7 +636,11 @@ def qa_check_one(row, rows, biz, tax):
 
 
 def op_qa(args, biz, tax):
-    txn, cp, rows = preflight()
+    mode = getattr(args, 'scope', None) or 'fast'
+    if mode not in QA_MODES:
+        bail('qa: scope phải là %s' % ','.join(QA_MODES))
+    vscope = validate_scope_for_mode(mode)
+    txn, cp, rows = preflight(scope=vscope)
     ids = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
     if not ids:
         ids = [r['id'] for r in rows if r['status'] in ('WRITING', 'QA', 'REPAIR')]
@@ -660,10 +693,11 @@ def op_qa(args, biz, tax):
                            'outcomes': outcomes})
         if run_reports_checked('qa') != 0:
             return 1
-        if validate_or_stop('qa') != 0:
+        if validate_or_stop('qa', vscope) != 0:
             return 1
-        print('qa: xong %d hàng, kết quả: %s'
-              % (len(outcomes), json.dumps(outcomes, ensure_ascii=False)))
+        print('qa: xong %d hàng (mode=%s), kết quả: %s'
+              % (len(outcomes), mode,
+                 json.dumps(outcomes, ensure_ascii=False)))
         return 0
     finally:
         release()
@@ -712,15 +746,18 @@ def run_reports_checked(ctx):
     return 0
 
 
-def validate_or_stop(ctx):
+def validate_or_stop(ctx, scope='chunk'):
     """validate.py chuan sau khi op doi state — FAIL thi DUNG, KHÔNG
-    rollback tay (docs/RECOVERY.md)."""
-    v = subprocess.run([sys.executable, 'scripts/factory/validate.py'],
+    rollback tay (docs/RECOVERY.md). scope mặc định 'chunk' (FAST QA):
+    chunk 10 bài không bị chặn bởi audit toàn site."""
+    v = subprocess.run([sys.executable, 'scripts/factory/validate.py',
+                        '--scope', scope],
                        capture_output=True, text=True)
     print(v.stdout[-1500:])
     if v.returncode != 0:
-        print('%s: validate.py FAIL sau khi đổi state — DỪNG, KHÔNG '
-              'rollback tay; chạy recover/verify trước khi làm tiếp.' % ctx)
+        print('%s: validate.py FAIL (scope=%s) sau khi đổi state — DỪNG, '
+              'KHÔNG rollback tay; chạy recover/verify trước khi làm tiếp.'
+              % (ctx, scope))
     return v.returncode
 
 
@@ -753,7 +790,9 @@ def op_status(args):
 
 
 def op_prepare_next(args, biz, tax):
-    txn, cp, rows = preflight()
+    mode = getattr(args, 'scope', None) or 'fast'
+    vscope = validate_scope_for_mode(mode)
+    txn, cp, rows = preflight(scope=vscope)
     count = min(int(args.count or DEFAULT_CHUNK), MAX_CHUNK)
     if count < 1:
         bail('count phải >= 1')
@@ -790,9 +829,10 @@ def op_prepare_next(args, biz, tax):
             print('manifest: %s' % path)
         if run_reports_checked('prepare-next') != 0:
             return 1
-        if validate_or_stop('prepare-next') != 0:
+        if validate_or_stop('prepare-next', vscope) != 0:
             return 1
-        print('prepare-next: claim %d hàng: %s' % (len(ids), ','.join(ids)))
+        print('prepare-next: claim %d hàng: %s (mode=%s)'
+              % (len(ids), ','.join(ids), mode))
         return 0
     finally:
         release()
@@ -802,7 +842,9 @@ def op_publish(args):
     if not args.ids:
         bail('publish yêu cầu --ids (chỉ promote hàng PASS do caller cung cấp)')
     ids = [i.strip() for i in args.ids.split(',') if i.strip()]
-    txn, cp, rows = preflight()
+    mode = getattr(args, 'scope', None) or 'fast'
+    vscope = validate_scope_for_mode(mode)
+    txn, cp, rows = preflight(scope=vscope)
     by_id = {r['id']: r for r in rows}
     for aid in ids:
         row = by_id.get(aid)
@@ -843,10 +885,83 @@ def op_publish(args):
     update_checkpoint(cp, rows2)
     if run_reports_checked('publish') != 0:
         return 1
-    if validate_or_stop('publish') != 0:
+    if validate_or_stop('publish', vscope) != 0:
         return 1
-    print('publish: PUBLISHED %s' % ','.join(ok_ids))
+    print('publish: PUBLISHED %s (mode=%s)' % (','.join(ok_ids), mode))
     return 0
+
+
+def op_release_chunk(args):
+    """PAUSE sản xuất an toàn: trả các hàng WRITING/QA/REPAIR/PASS CHƯA CÓ
+    draft (chưa có việc thật) về PLANNED, xóa in_progress_chunk, trả
+    next_claimable_id về ID thấp nhất được nhả. KHÔNG bao giờ đụng hàng:
+      - đã có draft trong _drafts/ (việc thật — giữ nguyên)
+      - đã có bằng chứng QA data/qa/<id>.json (đã chấm — giữ nguyên)
+      - PUBLISHED/EXISTING/REVIEW/BLOCKED/PLANNED (được bảo vệ)
+    Dùng để dừng sản xuất giữa chừng mà không mất gì (docs/RECOVERY.md)."""
+    ids = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
+    txn, cp, rows = preflight()
+    releasable_status = ('WRITING', 'QA', 'REPAIR', 'PASS')
+    if ids:
+        targets = [r for r in rows if r['id'] in ids]
+    else:
+        chunk = set(cp.get('in_progress_chunk') or [])
+        targets = [r for r in rows if r['id'] in chunk] if chunk else \
+                  [r for r in rows if r['status'] in releasable_status]
+    if not targets:
+        print('release-chunk: không có hàng nào trong chunk đang làm — không có gì nhả.')
+        return 0
+    holder = 'operator-release-%s' % uuid.uuid4().hex[:8]
+    release = with_lock(holder)
+    try:
+        released, kept = [], []
+        for r in targets:
+            if r['status'] not in releasable_status:
+                print('release-chunk: %s trạng thái %s được bảo vệ — bỏ qua'
+                      % (r['id'], r['status']))
+                continue
+            draft, _slug = find_draft(r)
+            has_qa = os.path.exists(os.path.join(QA_DIR, r['id'] + '.json'))
+            if draft is not None or has_qa:
+                kept.append(r['id'])
+                print('release-chunk: %s có draft/QA evidence — GIỮ NGUYÊN '
+                      '(không vứt việc thật)' % r['id'])
+                continue
+            r['status'] = 'PLANNED'
+            r['notes'] = (r['notes'] + ' | ' if r['notes'] else '') + \
+                'release-chunk %s: trả về PLANNED (pause sản xuất, chưa có draft)' % now_iso()
+            released.append(r['id'])
+        if not released:
+            print('release-chunk: toàn bộ hàng trong chunk có draft/QA — '
+                  'KHÔNG nhả gì (việc thật phải được hoàn tất).')
+            return 0
+        save_matrix(rows)
+        # checkpoint: chunk còn hàng nào giữ lại không? nếu hết -> xóa chunk
+        still = [r['id'] for r in rows
+                 if r['status'] in releasable_status
+                 and r['id'] in set(cp.get('in_progress_chunk') or [])]
+        released_set = set(released)
+        if not still:
+            cp['in_progress_chunk'] = None
+        else:
+            cp['in_progress_chunk'] = still
+        prev_next = cp.get('next_claimable_id')
+        lowest = min(released)
+        if not prev_next or lowest < prev_next:
+            cp['next_claimable_id'] = lowest
+        cp['last_run_id'] = 'operator-release-chunk'
+        update_checkpoint(cp, rows)
+        if run_reports_checked('release-chunk') != 0:
+            return 1
+        if validate_or_stop('release-chunk') != 0:
+            return 1
+        print('release-chunk: trả PLANNED %s (giữ nguyên %s) — sản xuất '
+              'PAUSED, next_claimable=%s'
+              % (','.join(released), ','.join(kept) or 'không',
+                 cp.get('next_claimable_id')))
+        return 0
+    finally:
+        release()
 
 
 def op_requeue(args):
@@ -904,7 +1019,8 @@ def op_recover(args):
     aid = pend.get('article_id') or (pend.get('step') or '').replace('promote ', '')
     dest = pend.get('destination')
     draft = pend.get('draft')
-    entry = txn['history'][-1] if txn.get('history') else {}
+    # history có thể chứa mục null (bản ghi cũ) — lấy mục thật cuối cùng
+    entry = next((h for h in reversed(txn.get('history') or []) if h), {})
     dest = dest or entry.get('destination')
     draft = draft or entry.get('source')
     if dest and os.path.exists(dest):
@@ -916,8 +1032,12 @@ def op_recover(args):
         save_matrix(rows)
         cp = read_json(CP)
         update_checkpoint(cp, rows)
-        txn['history'][-1] = dict(entry, result='RECOVERED_COMPLETED',
-                                   finished_at=now_iso())
+        if not txn.get('history'):
+            txn['history'] = []
+        txn['history'][-1 if txn['history'] else 0] = dict(
+            entry, result='RECOVERED_COMPLETED', finished_at=now_iso())
+        if not txn['history']:
+            txn['history'].append(entry)
         txn['active'] = False
         txn['pending'] = None
         txn['updated_at'] = now_iso()
@@ -942,8 +1062,12 @@ def op_recover(args):
         save_matrix(rows)
         cp = read_json(CP)
         update_checkpoint(cp, rows)
-        txn['history'][-1] = dict(entry, result='RECOVERED_ROLLED_BACK',
-                                  finished_at=now_iso())
+        if not txn.get('history'):
+            txn['history'] = []
+        txn['history'][-1 if txn['history'] else 0] = dict(
+            entry, result='RECOVERED_ROLLED_BACK', finished_at=now_iso())
+        if not txn['history']:
+            txn['history'].append(entry)
         txn['active'] = False
         txn['pending'] = None
         txn['updated_at'] = now_iso()
@@ -961,13 +1085,16 @@ def op_recover(args):
 
 
 def op_verify(args):
+    mode = getattr(args, 'scope', None) or 'full'
+    vscope = validate_scope_for_mode(mode) if mode in QA_MODES else mode
     steps = [
-        ['scripts/factory/validate.py'],
+        ['scripts/factory/validate.py', '--scope', vscope],
         ['scripts/factory/capacity-audit.py'],
         ['scripts/factory/tests/test_publish_gate.py'],
         ['scripts/factory/tests/test_refill_safety.py'],
         ['scripts/factory/tests/test_operator.py'],
         ['scripts/factory/tests/test_link_integrity.py'],
+        ['scripts/factory/tests/test_qa_modes.py'],
     ]
     failed = []
     for cmd in steps:
@@ -980,9 +1107,10 @@ def op_verify(args):
                        capture_output=True, text=True)
     print(r.stdout)
     if failed:
-        print('verify: FAIL ở %s' % failed)
+        print('verify: FAIL ở %s (mode=%s)' % (failed, mode))
         return 1
-    print('verify: PASS (validate + capacity-audit + queue + tests)')
+    print('verify: PASS (mode=%s: validate --scope %s + capacity-audit + queue + tests)'
+          % (mode, vscope))
     return 0
 
 
@@ -1024,6 +1152,7 @@ OPS = {
     'prepare-next': op_prepare_next,
     'qa': op_qa,
     'publish': op_publish,
+    'release-chunk': op_release_chunk,
     'recover': op_recover,
     'requeue': op_requeue,
     'verify': op_verify,
@@ -1037,14 +1166,19 @@ def main():
     ap.add_argument('op', choices=sorted(OPS))
     ap.add_argument('--ids')
     ap.add_argument('--count', type=int)
+    ap.add_argument('--scope', choices=list(QA_MODES) + ['chunk', 'batch', 'full'],
+                    default=None,
+                    help='QA mode fast/deep/full (hoặc scope validate trực tiếp)')
     args = ap.parse_args()
+    if args.op == 'qa' and args.scope in ('chunk', 'batch', 'full'):
+        args.scope = {'chunk': 'fast', 'batch': 'deep'}.get(args.scope, args.scope)
     biz = read_json('data/business-facts.json', {})
     tax = read_json('data/content-taxonomy.json', {})
     build_amount_whitelist(biz)
     fn = OPS[args.op]
     if args.op == 'status':
         return fn(args)
-    if args.op in ('verify', 'reports', 'recover'):
+    if args.op in ('verify', 'reports', 'recover', 'release-chunk'):
         return fn(args)
     # các op còn lại cần biz/tax
     if args.op in ('prepare-next', 'qa'):
