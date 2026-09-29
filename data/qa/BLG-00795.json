@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00795",
   "title": "Chạy xe máy từ Hà Nội lên Yên Tử",
-  "scored_at": "2026-09-29T00:59:23+00:00",
+  "scored_at": "2026-09-29T01:11:00+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -36,12 +36,12 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-yen-tu.md",
-  "content_sha256": "d6d8d8317411cd8ac3081a93dbf6d43ae3e4a307133491cb0e223688a3043e45",
+  "content_sha256": "c26997a669b0a770933beda968b6afdeaa5a7f9cadbff6bad5829d24c204aa29",
   "matrix_row_sha256": "bd3cfcab7beb69ba76ab0e2f2f801388ef80ae4113f9c89b733491ec2446232c",
-  "result": "REPAIR"
+  "result": "PASS"
 }

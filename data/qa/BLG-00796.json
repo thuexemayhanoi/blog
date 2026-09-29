@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00796",
   "title": "Kinh nghiệm đường đến Yên Tử: xăng và nghỉ",
-  "scored_at": "2026-09-29T00:59:23+00:00",
+  "scored_at": "2026-09-29T01:11:00+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -36,12 +36,12 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-yen-tu-xang-va-nghi.md",
-  "content_sha256": "1320089147deff334f74a75f9f263654174c69cb96d9e33979ba5582f28b69e5",
+  "content_sha256": "87194c3d7376c56788e05abff4457366d200093d5a9d02dbde1675b66ea0e04e",
   "matrix_row_sha256": "f4656707cc061e300d534b904ee3d525c8646abbb2ad5fbd06f3d6bda804598a",
-  "result": "REPAIR"
+  "result": "PASS"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00797",
   "title": "Chạy xe máy từ Hà Nội lên Côn Sơn - Kiếp Bạc",
-  "scored_at": "2026-09-29T00:59:23+00:00",
+  "scored_at": "2026-09-29T01:11:00+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1104,
+  "word_count": 1105,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-con-son-kiep-bac.md",
-  "content_sha256": "b25fe9ddb4bb287abe4a5bd362afc07f2b235723c54b28e10232c994c0b665dd",
+  "content_sha256": "559ec698b14de5d2c3a260c8b897db67bdf065a1b8fa7f1eba32e373243886b8",
   "matrix_row_sha256": "ddd92aaf3db13944fed0907af3f9c9163c40893923c194db83e6c3aa80c11c4a",
-  "result": "REPAIR"
+  "result": "PASS"
 }
