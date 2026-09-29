@@ -27,7 +27,7 @@ Một trong những trải nghiệm đặc trưng khi ở Long Biên là chạy 
 
 Chạy lên phía cầu Nhật Tân, bạn có thể dừng ở khu vực bãi rộng gần cầu để ngắm hoàng hôn. Từ Bồ Đề, quãng đường này không xa và đường dễ đi. Nếu mang theo máy ảnh, đây là một trong những góc chụp đẹp và ít đông người nhất của Hà Nội.
 
-Về phía đông, từ Bồ Đề bạn dễ dàng tiến ra Gia Lâm, đất ven đô với các làng nghề và vườn cây. Một buổi sáng chạy xe ra phía này, ghé chợ Trâu Quỳ hoặc dạo quanh các con đường làng, là một lịch trình nhẹ nhàng cho ngày cuối tuần. Bạn có thể tham khảo thêm các gợi ý khám phá trong bài [gợi ý khám phá Hà Nội bằng xe máy]({% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}).
+Về phía đông, từ Bồ Đề bạn dễ dàng tiến ra Gia Lâm, đất ven đô với các làng nghề và vườn cây. Một buổi sáng chạy xe ra phía này, ghé chợ Trâu Quỳ hoặc dạo quanh các con đường làng, là một lịch trình nhẹ nhàng cho ngày cuối tuần. Bạn có thể tham khảo thêm các gợi ý khám phá trong bài [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/).
 
 ## Ai nên thuê xe ở Bồ Đề
 

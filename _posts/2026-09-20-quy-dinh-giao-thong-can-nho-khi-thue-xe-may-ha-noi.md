@@ -55,7 +55,7 @@ Tương tự, trong các vụ va chạm, các thông tin của bạn trong hợp
 
 ## Tóm lại
 
-Các quy định cốt lõi cần nhớ: đủ bộ giấy tờ liên quan đến việc lái xe và mũ bảo hiểm, không tiêu thụ đồ uống có cồn trước khi lái, tuân thủ tốc độ và làn đường, tôn trọng đèn tín hiệu và đỗ xe đúng nơi. Lưu ý rằng quy định có thể thay đổi; người lái nên kiểm tra quy định hiện hành và biển báo trên tuyến đường thực tế. Với người thuê xe, tuân thủ quy định còn là bảo vệ tài chính trực tiếp. Để hỏi về các giấy tờ cửa hàng cung cấp kèm xe thuê, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), và tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm toàn bộ quy trình trước khi nhận xe.
+Các quy định cốt lõi cần nhớ: đủ bộ giấy tờ liên quan đến việc lái xe và mũ bảo hiểm, không tiêu thụ đồ uống có cồn trước khi lái, tuân thủ tốc độ và làn đường, tôn trọng đèn tín hiệu và đỗ xe đúng nơi. Lưu ý rằng quy định có thể thay đổi; người lái nên kiểm tra quy định hiện hành và biển báo trên tuyến đường thực tế. Với người thuê xe, tuân thủ quy định còn là bảo vệ tài chính trực tiếp. Để hỏi về các giấy tờ cửa hàng cung cấp kèm xe thuê, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), và tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm toàn bộ quy trình trước khi nhận xe.
 
 ## Một vài điểm thực tế hay bị hỏi
 

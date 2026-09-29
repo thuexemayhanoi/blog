@@ -53,7 +53,7 @@ Khi qua các đoạn đường đông như giờ tan tầm, người sau là m�
 
 ## Tóm lại
 
-Chở người sau trên xe máy thuê an toàn khi bạn chọn dòng xe phù hợp, trang bị đủ mũ bảo hiểm cho cả hai, thống nhất tín hiệu giao tiếp và giữ nhịp phanh đều đặn. Hai người trên một chiếc xe là cách di chuyển gắn kết của Hà Nội, và làm đúng các điều cơ bản sẽ biến nó thành phần dễ chịu nhất của chuyến đi. Để hỏi về các dòng xe chở hai người thoải mái, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Chở người sau trên xe máy thuê an toàn khi bạn chọn dòng xe phù hợp, trang bị đủ mũ bảo hiểm cho cả hai, thống nhất tín hiệu giao tiếp và giữ nhịp phanh đều đặn. Hai người trên một chiếc xe là cách di chuyển gắn kết của Hà Nội, và làm đúng các điều cơ bản sẽ biến nó thành phần dễ chịu nhất của chuyến đi. Để hỏi về các dòng xe chở hai người thoải mái, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Trước khi xuất phát cùng người sau
 

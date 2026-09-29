@@ -55,7 +55,7 @@ Quan trọng nhất, đừng để sự cố nhỏ làm hỏng tâm trạng cả
 
 ## Tóm lại
 
-Đi Hà Nội theo nhóm bằng xe máy trơn tru khi bạn đặt người dẫn đường và áp sát rõ ràng, chọn cùng dòng xe cho cả đoàn, giữ nhịp di chuyển theo thành viên chậm nhất và thống nhất trước mọi điểm hẹn. Để được tư vấn phương án thuê xe số lượng lớn, mức cọc cho nhóm và giao xe tận nơi cho cả đoàn, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi đặt xe cho cả nhóm.
+Đi Hà Nội theo nhóm bằng xe máy trơn tru khi bạn đặt người dẫn đường và áp sát rõ ràng, chọn cùng dòng xe cho cả đoàn, giữ nhịp di chuyển theo thành viên chậm nhất và thống nhất trước mọi điểm hẹn. Để được tư vấn phương án thuê xe số lượng lớn, mức cọc cho nhóm và giao xe tận nơi cho cả đoàn, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) trước khi đặt xe cho cả nhóm.
 
 ## Chuẩn bị trước ngày nhận xe cho nhóm
 

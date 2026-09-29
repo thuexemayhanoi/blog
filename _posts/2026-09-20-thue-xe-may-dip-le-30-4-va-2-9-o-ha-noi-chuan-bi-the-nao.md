@@ -41,7 +41,7 @@ Ngược với ngày nhận là ngày trả: cuối kỳ lễ, hầu hết khác
 
 ## Những lưu ý nhỏ riêng của mùa hai tháng chín
 
-Kỳ lễ tháng chín thường rơi vào đợt nắng cuối hè hoặc những cơn mưa đầu mùa thu, thời tiết giao thoa dễ thay đổi trong ngày. Đi xe dịp này nên mang theo cả áo chống nắng và áo mưa gấp. Nắng chiều tháng chín vẫn chói, còn mưa đến đột ngột và to nhanh; nếu gặp cơn mưa giữa chặng ngoại thành, tìm mái che và chờ, vì phần lớn các cơn mưa đầu thu đi nhanh. Tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi xe máy trong mưa và các điều kiện thời tiết giao mùa để có cách xử lý chi tiết. Nếu bạn mới thuê xe lần đầu đúng dịp lễ và chưa quen đường sá Hà Nội, [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) là bài nên đọc trước ngày nhận xe.
+Kỳ lễ tháng chín thường rơi vào đợt nắng cuối hè hoặc những cơn mưa đầu mùa thu, thời tiết giao thoa dễ thay đổi trong ngày. Đi xe dịp này nên mang theo cả áo chống nắng và áo mưa gấp. Nắng chiều tháng chín vẫn chói, còn mưa đến đột ngột và to nhanh; nếu gặp cơn mưa giữa chặng ngoại thành, tìm mái che và chờ, vì phần lớn các cơn mưa đầu thu đi nhanh. Tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi xe máy trong mưa và các điều kiện thời tiết giao mùa để có cách xử lý chi tiết. Nếu bạn mới thuê xe lần đầu đúng dịp lễ và chưa quen đường sá Hà Nội, [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) là bài nên đọc trước ngày nhận xe.
 
 ## Đi nhóm bạn bè dịp lễ: thống nhất từ đầu để khỏi mất nhau
 

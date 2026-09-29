@@ -35,7 +35,7 @@ Ngày chủ nhật nên khởi hành sớm hơn, vì đây là ngày đẹp nh�
 
 Trưa chủ nhật, hãy chọn một quán ăn ở khu Quảng An hoặc trên đường về trung tâm. Buổi chiều, nếu còn sức, một chặng ngắn ra phía Gia Lâm, các con đường làng và chợ Trâu Quỳ cho bạn thấy một Hà Nội khác, chậm và chân quê. Trở về trước 17 giờ để tránh dòng xe chiều chủ nhật, trả xe đúng hẹn và nhận lại cọc, kết thúc hai ngày nghỉ gọn gàng.
 
-Nếu bạn thích sự hưng phấn hơn sự thư giãn, hai ngày cũng đủ cho một chuyến chạy xa: sáng thứ bảy đi Sơn Tây hoặc Chương Mỹ, nghỉ lại đó một đêm, và chiều chủ nhật về Hà Nội. Với các hành trình liên tỉnh, hãy báo trước với cửa hàng để chọn xe có tình trạng tốt, và mang theo đủ đồ dự phòng cho thời tiết. Các gợi ý khám phá chi tiết hơn cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy]({% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}).
+Nếu bạn thích sự hưng phấn hơn sự thư giãn, hai ngày cũng đủ cho một chuyến chạy xa: sáng thứ bảy đi Sơn Tây hoặc Chương Mỹ, nghỉ lại đó một đêm, và chiều chủ nhật về Hà Nội. Với các hành trình liên tỉnh, hãy báo trước với cửa hàng để chọn xe có tình trạng tốt, và mang theo đủ đồ dự phòng cho thời tiết. Các gợi ý khám phá chi tiết hơn cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/).
 
 ## Chi phí của một cuối tuần
 
@@ -51,7 +51,7 @@ Trước khi trả xe, ghé đổ xăng về mức đã nhận, dọn lại cố
 
 Đó là cách một chiếc xe máy thuê làm được nhiều hơn nhiệm vụ chở bạn từ điểm này đến điểm khác: nó biến hai ngày nghỉ thông thường thành một hành trình nhỏ có cấu trúc, có kỷ niệm và có kết thúc trọn vẹn. Cuối tuần kế tiếp, một hướng đi khác lại mở ra với cùng một cách bắt đầu.
 
-Để đặt xe cho cuối tuần, nhất là các dịp lễ khi nhu cầu tăng, hãy liên hệ sớm qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem trước [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để chọn dòng xe hợp với kế hoạch của mình.
+Để đặt xe cho cuối tuần, nhất là các dịp lễ khi nhu cầu tăng, hãy liên hệ sớm qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem trước [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để chọn dòng xe hợp với kế hoạch của mình.
 
 ## Những nguyên tắc nhỏ cho thuê ngắn ngày
 

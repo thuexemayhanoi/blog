@@ -51,7 +51,7 @@ Cuối cùng, tiết kiệm lớn nhất đôi khi không nằm ở giá thuê m
 
 Sau khi so sánh và chọn được nơi thuê phù hợp, hãy chốt các thông tin bằng văn bản hoặc tin nhắn: giá theo thời gian thuê, mức cọc, thời gian nhận và trả xe, tình trạng xăng, và số điện thoại liên hệ khi cần hỗ trợ. Cửa hàng hoạt động từ 09:00 đến 21:00 hàng ngày, vì vậy hãy sắp xếp mọi giao dịch trong khung giờ này, kể cả giao xe đến tận nơi.
 
-Mọi thắc mắc về giá của từng dòng xe cụ thể, bạn có thể hỏi trực tiếp qua điện thoại hoặc Zalo thông qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm tổng quan trước khi đi vào chi tiết. Giá rẻ thực sự là mức giá mà bạn hiểu rõ vì sao nó rẻ, và biết chắc phần nào mình nhận được.
+Mọi thắc mắc về giá của từng dòng xe cụ thể, bạn có thể hỏi trực tiếp qua điện thoại hoặc Zalo thông qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm tổng quan trước khi đi vào chi tiết. Giá rẻ thực sự là mức giá mà bạn hiểu rõ vì sao nó rẻ, và biết chắc phần nào mình nhận được.
 
 ## Giá thuê rẻ và chi phí thực tế bạn trả
 

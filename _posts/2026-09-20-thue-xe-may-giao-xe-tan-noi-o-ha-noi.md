@@ -39,7 +39,7 @@ Nhiều người lỏng tay hơn khi nhận xe tại nhà so với khi đến c�
 
 Hãy đi quanh xe, kiểm tra vết trầy xước, thử phanh, đèn, còi và nổ máy nghe tiếng chạy. Người giao xe sẽ ghi các vết xước có sẵn vào biên bản, và bạn nên chụp ảnh xe từ nhiều góc trước khi để họ rời đi. Ảnh chụp tại thời điểm nhận xe là bằng chứng tốt nhất khi có tranh luận lúc trả xe về các hư hỏng có từ trước hay phát sinh trong thời gian thuê.
 
-Xăng cũng cần thống nhất ngay. Hỏi xe đang ở mức nào và yêu cầu chỉ trạm xăng gần nhất trong trường hợp bạn cần đổ ngay. Với xe điện hoặc xe 50cc, hãy hỏi rõ cách sạc hoặc trạm sạc gần địa điểm của bạn, vì các dòng xe này có đặc thù vận hành riêng được trình bày trong bài so sánh [xe số, xe tay ga và xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}).
+Xăng cũng cần thống nhất ngay. Hỏi xe đang ở mức nào và yêu cầu chỉ trạm xăng gần nhất trong trường hợp bạn cần đổ ngay. Với xe điện hoặc xe 50cc, hãy hỏi rõ cách sạc hoặc trạm sạc gần địa điểm của bạn, vì các dòng xe này có đặc thù vận hành riêng được trình bày trong bài so sánh [xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/).
 
 ## Trả xe tại địa điểm của bạn
 

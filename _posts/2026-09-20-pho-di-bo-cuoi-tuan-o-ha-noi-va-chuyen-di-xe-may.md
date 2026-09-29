@@ -43,7 +43,7 @@ Nếu bạn đi cùng trẻ nhỏ, khu vực có các hoạt động dành riên
 
 ## Kết hợp phố đi bộ với chặng xe đêm về
 
-Chặng về sau phố đi bộ thường là chặng đường dễ mệt nhất trong tuần của người đi xe: muộn, người đã đuối sức sau nhiều giờ dạo bộ, và đường về có đoạn vắng. Đi chậm, bật đèn đủ sáng, và nếu mệt rõ thì nghỉ một chút ở quán nước trước khi lên xe. Người mới lái xe ở Hà Nội nên tránh khung 22:00 về qua các trục đông xe sau đêm đi bộ; đường quen và đèn đường tốt là hai tiêu chí chọn tuyến về lúc đó. Những kinh nghiệm đi đêm và tầm nhìn khi chạy xe được bàn kỹ trong bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), còn các gợi ý chơi cuối tuần khác quanh thành phố nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}) và mục [du lịch]( {{ '/du-lich/' | relative_url }}).
+Chặng về sau phố đi bộ thường là chặng đường dễ mệt nhất trong tuần của người đi xe: muộn, người đã đuối sức sau nhiều giờ dạo bộ, và đường về có đoạn vắng. Đi chậm, bật đèn đủ sáng, và nếu mệt rõ thì nghỉ một chút ở quán nước trước khi lên xe. Người mới lái xe ở Hà Nội nên tránh khung 22:00 về qua các trục đông xe sau đêm đi bộ; đường quen và đèn đường tốt là hai tiêu chí chọn tuyến về lúc đó. Những kinh nghiệm đi đêm và tầm nhìn khi chạy xe được bàn kỹ trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), còn các gợi ý chơi cuối tuần khác quanh thành phố nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) và mục [du lịch]( {{ '/du-lich/' | relative_url }}).
 
 ## Lên kế hoạch cho cả buổi tối
 

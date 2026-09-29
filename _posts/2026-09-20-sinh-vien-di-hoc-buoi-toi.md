@@ -47,4 +47,4 @@ Bộ đồ để trong cốp xe cho sinh viên đi ca tối nên gồm: áo mưa
 
 ## Kết lại
 
-Đi học ca tối an toàn nằm ở đi nhóm khi có thể, giữ thói quen báo giờ về, quản lý chi phí xăng xe như một mục ngân sách riêng, và chuẩn bị cốp xe đủ đồ cho các tình huống đêm. Nếu bạn là sinh viên đang cần thuê xe theo tháng cho học kỳ sắp tới, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú để trao đổi nhu cầu cụ thể, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về đi lại hằng ngày của sinh viên.
+Đi học ca tối an toàn nằm ở đi nhóm khi có thể, giữ thói quen báo giờ về, quản lý chi phí xăng xe như một mục ngân sách riêng, và chuẩn bị cốp xe đủ đồ cho các tình huống đêm. Nếu bạn là sinh viên đang cần thuê xe theo tháng cho học kỳ sắp tới, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú để trao đổi nhu cầu cụ thể, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về đi lại hằng ngày của sinh viên.

@@ -47,7 +47,7 @@ Nên nhớ mức chi phí rửa xe thay đổi theo thời điểm và khu vực
 
 ## Chuẩn bị cho tuần kế tiếp
 
-Phút cuối của buổi cuối tuần nên dành cho việc nhìn về phía trước: tuần sau có đi xa không, có chở nặng không, có dự kiến mưa lớn không. Câu trả lời sẽ quyết định thêm vài việc nhỏ: đổ thêm xăng, siết lại dây buộc đồ, kiểm tra áo mưa, hoặc báo trước với cửa hàng nếu tuần sau cần đổi xe phù hợp hơn. Sự chuẩn bị hướng về trước này biến việc kiểm tra từ bảo trì thủ tục thành công cụ quản lý cả kỳ thuê của mình. Nếu bạn sắp bắt đầu một kỳ thuê dài hạn, các bước chọn xe và làm việc với cửa hàng được tóm tắt trong bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), và các dòng xe phù hợp theo nhu cầu xem được tại trang [bảng giá]( {{ '/bang-gia/' | relative_url }}).
+Phút cuối của buổi cuối tuần nên dành cho việc nhìn về phía trước: tuần sau có đi xa không, có chở nặng không, có dự kiến mưa lớn không. Câu trả lời sẽ quyết định thêm vài việc nhỏ: đổ thêm xăng, siết lại dây buộc đồ, kiểm tra áo mưa, hoặc báo trước với cửa hàng nếu tuần sau cần đổi xe phù hợp hơn. Sự chuẩn bị hướng về trước này biến việc kiểm tra từ bảo trì thủ tục thành công cụ quản lý cả kỳ thuê của mình. Nếu bạn sắp bắt đầu một kỳ thuê dài hạn, các bước chọn xe và làm việc với cửa hàng được tóm tắt trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), và các dòng xe phù hợp theo nhu cầu xem được tại trang [bảng giá]( {{ '/bang-gia/' | relative_url }}).
 
 ## Bản ghi tuần và vai trò của nó khi trả xe
 

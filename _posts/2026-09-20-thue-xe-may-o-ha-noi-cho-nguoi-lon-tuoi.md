@@ -51,4 +51,4 @@ Cuối cùng, một điều nên nói thẳng: thuê và chạy xe máy ở tu�
 
 ## Tóm lại
 
-Người lớn tuổi thuê xe máy hoàn toàn khả thi khi chọn xe nhẹ yên thấp, đi khung giờ vắng và tuyến thoáng, trang bị bảo vệ thật chuẩn, và trung thực với các giới hạn về thể lực. Hãy trao đổi thẳng với cửa hàng về nhu cầu để được tư vấn đúng xe, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các dòng và gói, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm quy trình, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần bàn về dòng xe phù hợp.
+Người lớn tuổi thuê xe máy hoàn toàn khả thi khi chọn xe nhẹ yên thấp, đi khung giờ vắng và tuyến thoáng, trang bị bảo vệ thật chuẩn, và trung thực với các giới hạn về thể lực. Hãy trao đổi thẳng với cửa hàng về nhu cầu để được tư vấn đúng xe, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các dòng và gói, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm quy trình, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần bàn về dòng xe phù hợp.

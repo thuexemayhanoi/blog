@@ -43,7 +43,7 @@ Ngày ba là ngày của các cung đường rộng rãi. Buổi sáng, qua cầ
 
 Tiếp tục lên phía Gia Lâm, bạn có thể ghé chợ Trâu Quỳ hoặc các con đường làng quanh khu vực, nơi nhịp sống ven đô vẫn giữ nhiều nét xưa. Trưa quay về khu Bồ Đề ăn uống, nơi tập trung nhiều quán bình dân của người địa phương. Buổi chiều, tùy thời gian bay hoặc về, bạn có thể ghé vài điểm mua quà trong phố cổ trước khi trả xe.
 
-Nếu chuyến đi của bạn chỉ có hai ngày, hãy gộp ngày hai và ngày ba: sáng hồ Tây, chiều cầu Long Biên và đường đê, bỏ qua các điểm xa hơn. Ngược lại, nếu có thêm thời gian, các hướng ngoại ô như núi Ba Vì phía tây hoặc các làng nghề phía bắc xứng đáng một ngày riêng. Bạn có thể tham khảo thêm các gợi ý khám phá cho người mới trong bài [gợi ý khám phá Hà Nội bằng xe máy]({% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}).
+Nếu chuyến đi của bạn chỉ có hai ngày, hãy gộp ngày hai và ngày ba: sáng hồ Tây, chiều cầu Long Biên và đường đê, bỏ qua các điểm xa hơn. Ngược lại, nếu có thêm thời gian, các hướng ngoại ô như núi Ba Vì phía tây hoặc các làng nghề phía bắc xứng đáng một ngày riêng. Bạn có thể tham khảo thêm các gợi ý khám phá cho người mới trong bài [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/).
 
 ## Chi phí và chuẩn bị
 
@@ -55,7 +55,7 @@ Về chuẩn bị, ba món đáng mang theo là áo mưa mỏng, kem chống n�
 
 ## Tóm lại
 
-Một lịch trình hai đến ba ngày ở Hà Nội chạy trơn tru khi bạn chia thành phố theo hướng, ghép điểm trong và ngoài trời, và để dành thời gian trống. Xe máy thuê cho bạn sự linh hoạt để thực hiện cả ba nguyên tắc này. Để được tư vấn dòng xe phù hợp với lịch trình cụ thể của mình, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi đặt xe.
+Một lịch trình hai đến ba ngày ở Hà Nội chạy trơn tru khi bạn chia thành phố theo hướng, ghép điểm trong và ngoài trời, và để dành thời gian trống. Xe máy thuê cho bạn sự linh hoạt để thực hiện cả ba nguyên tắc này. Để được tư vấn dòng xe phù hợp với lịch trình cụ thể của mình, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) trước khi đặt xe.
 
 ## Nếu thời tiết không hợp tác
 

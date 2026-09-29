@@ -53,7 +53,7 @@ Với người mới và chưa tự tin, có một đường lối phổ biến:
 
 ## Bước tiếp theo
 
-Để so sánh con số cụ thể theo tháng giữa các dòng xe, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) với các mức tham khảo theo ngày, tuần và tháng, và [bảng giá xe số]( {{ '/bang-gia-xe-so/' | relative_url }}) cùng [bảng giá xe ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) cho từng nhóm. Bài về sự khác biệt giữa [xe số, xe tay ga và xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) cho bức tranh tổng thể hơn, còn nếu muốn trao đổi dòng xe hợp với tuyến đường đi làm cụ thể của mình, hãy hỏi qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
+Để so sánh con số cụ thể theo tháng giữa các dòng xe, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) với các mức tham khảo theo ngày, tuần và tháng, và [bảng giá xe số]( {{ '/bang-gia-xe-so/' | relative_url }}) cùng [bảng giá xe ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) cho từng nhóm. Bài về sự khác biệt giữa [xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) cho bức tranh tổng thể hơn, còn nếu muốn trao đổi dòng xe hợp với tuyến đường đi làm cụ thể của mình, hãy hỏi qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
 
 Xe ga hay xe số theo tháng không phải câu hỏi thị giác, mà là câu hỏi về ba mươi lần đi làm mỗi tháng. Chọn theo tuyến đường, đồ đạc và ngân sách của chính mình, bạn sẽ không phải đổi ý giữa kỳ.
 ## Hai tình huống biên đáng suy nghĩ

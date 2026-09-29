@@ -53,7 +53,7 @@ Người thuê dài hạn nên thêm thói quen: mỗi lần gia hạn hoặc đ
 
 ## Đặt giờ giấc vào bức tranh thuê xe
 
-Giờ nhận trả xe là phần dễ nhất của việc thuê để làm đúng, và cũng dễ nhất để làm sai bằng cách không nghĩ tới. Trước khi chốt kỳ thuê tiếp theo, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các gói theo thời gian, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về quy trình an toàn, và nếu lịch trình của bạn đặc biệt, ca đêm hoặc chuyến sớm, hãy trao đổi trước qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để biết những gì sắp xếp được.
+Giờ nhận trả xe là phần dễ nhất của việc thuê để làm đúng, và cũng dễ nhất để làm sai bằng cách không nghĩ tới. Trước khi chốt kỳ thuê tiếp theo, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các gói theo thời gian, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về quy trình an toàn, và nếu lịch trình của bạn đặc biệt, ca đêm hoặc chuyến sớm, hãy trao đổi trước qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để biết những gì sắp xếp được.
 
 Mười phút lên lịch giờ giấc đầu kỳ thuê đổi lấy việc mọi khung giờ còn lại của kỳ thuê tự trôi qua. Trong danh sách những việc đáng làm cho một kỳ thuê suôn sẻ, đây là việc rẻ nhất.
 ## Ví dụ ba lịch trình thật và cách chúng được xếp
