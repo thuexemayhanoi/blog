@@ -46,4 +46,4 @@ Ngoài bốn nhóm trên, phần chênh lệch thực tế thường nằm ở c
 
 ## Cách dùng hiểu biết này khi thuê
 
-Trước khi hỏi giá, hãy tự khoanh vùng: dòng xe mình cần, số ngày chắc chắn, thời điểm nhận xe. Sau đó mở [bảng giá]( {{ '/bang-gia/' | relative_url }} ) lấy mức tham khảo, rồi gọi hoặc nhắn Zalo cho [Nguyễn Tú]( {{ '/lien-he/' | relative_url }} ) trong giờ 09:00–21:00 để xác nhận các khoản chưa niêm yết. Khi mọi con số rõ ràng trước khi đặt, bạn sẽ không bị bất ngờ lúc trả xe. Nếu cần tổng quan từ đầu, đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Trước khi hỏi giá, hãy tự khoanh vùng: dòng xe mình cần, số ngày chắc chắn, thời điểm nhận xe. Sau đó mở [bảng giá]( {{ '/bang-gia/' | relative_url }} ) lấy mức tham khảo, rồi gọi hoặc nhắn Zalo cho [Nguyễn Tú]( {{ '/lien-he/' | relative_url }} ) trong giờ 09:00–21:00 để xác nhận các khoản chưa niêm yết. Khi mọi con số rõ ràng trước khi đặt, bạn sẽ không bị bất ngờ lúc trả xe. Nếu cần tổng quan từ đầu, đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).

@@ -88,7 +88,7 @@ Hai nhóm xe này phục vụ các nhu cầu khác nhau:
 - **Xe số** tiết kiệm xăng hơn, giá thuê thấp hơn, phù hợp người quen tay lái và chuyến đi dài.
 - **Xe ga** dễ lái hơn, không cần phối hợp côn số, tư thế ngồi thoải mái hơn, phù hợp người mới và di chuyển trong phố.
 
-Nếu bạn vẫn phân vân, bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/blog/' | relative_url }}) trên blog của chúng tôi so sánh chi tiết ba nhóm xe này. Bạn cũng nên đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ '/kinh-nghiem/' | relative_url }}) trước khi quyết định.
+Nếu bạn vẫn phân vân, bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}) trên blog của chúng tôi so sánh chi tiết ba nhóm xe này. Bạn cũng nên đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ '/kinh-nghiem/' | relative_url }}) trước khi quyết định.
 
 ## Honda Wave: mẫu xe số tiêu biểu
 

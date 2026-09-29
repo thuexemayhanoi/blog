@@ -30,7 +30,7 @@ Trước khi xuống tiền, bốn dấu hiệu nên kiểm tra:
 - Lớp lót trong liền lạc, không xô lệch; vỏ mũ không nứt, không biến dạng, không có dấu hiệu đã từng chịu va đập mạnh.
 - Kích cỡ vừa đầu người đội: mũ rộng bị xê dịch che mắt khi đi, mũ chật gây đau sau chặng dài, cả hai đều làm giảm hiệu quả bảo vệ.
 
-Mũ đã qua tai nạn hoặc rơi từ độ cao lớn nên thay mới dù nhìn còn nguyên, vì lớp hấp thụ xung lực bên trong có thể đã mất khả năng làm việc. Kinh nghiệm chọn mũ cho người ngồi sau và việc mang mũ riêng khi đi xe thuê đã được chia sẻ trong bài [mũ bảo hiểm của riêng bạn khi đi xe thuê](/blog/kinh nghiệm/2026/09/20/mu-bao-hiem-rieng-khi-di-xe-thue/).
+Mũ đã qua tai nạn hoặc rơi từ độ cao lớn nên thay mới dù nhìn còn nguyên, vì lớp hấp thụ xung lực bên trong có thể đã mất khả năng làm việc. Kinh nghiệm chọn mũ cho người ngồi sau và việc mang mũ riêng khi đi xe thuê đã được chia sẻ trong bài [mũ bảo hiểm của riêng bạn khi đi xe thuê](/blog/chia sẻ/2026/09/19/mu-bao-hiem-rieng-khi-di-xe-thue/).
 
 ## Hệ quả pháp lý khi đội mũ không đúng
 

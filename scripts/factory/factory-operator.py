@@ -390,8 +390,8 @@ def canonical_routes():
                 text = open(path, encoding='utf-8').read()[:2500]
             except (OSError, UnicodeDecodeError):
                 continue
-            pm = re.search(r'^permalink:\s*(/\S+)', text, re.M)
-            if pm:
+            pm = re.search(r'^permalink:\s*(/\S*)', text, re.M)
+            if pm and pm.group(1):
                 routes.add(BASEURL + pm.group(1))
     # bài legacy _posts không có permalink: URL do Jekyll tính
     # /blog/<category>/<Y>/<M>/<D>/<slug>/ (kèm biến thể lệch ngày UTC

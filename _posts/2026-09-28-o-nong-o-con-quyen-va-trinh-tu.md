@@ -40,7 +40,7 @@ Cũng cần tránh các mẹo dân gian trước điểm kiểm tra, từ ngậm
 
 ## Sau khi có kết quả
 
-Nếu kết quả dưới mọi mức: bạn được tiếp tục hành trình; giữ giấy tờ đầy đủ và đi tiếp an toàn. Nếu bị lập biên bản: đọc kỹ nội dung, chụp lưu toàn bộ văn bản, hỏi rõ thủ tục nhận lại xe nếu xe bị tạm giữ, và nộp phạt đúng hạn. Nếu đang đi xe thuê, gọi ngay cho cửa hàng để thông báo và thỏa thuận tiếp theo, như đã nêu chi tiết trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Các kinh nghiệm sau buổi ăn uống cũng như giữ xe qua đêm nằm trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/), chủ đề tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
+Nếu kết quả dưới mọi mức: bạn được tiếp tục hành trình; giữ giấy tờ đầy đủ và đi tiếp an toàn. Nếu bị lập biên bản: đọc kỹ nội dung, chụp lưu toàn bộ văn bản, hỏi rõ thủ tục nhận lại xe nếu xe bị tạm giữ, và nộp phạt đúng hạn. Nếu đang đi xe thuê, gọi ngay cho cửa hàng để thông báo và thỏa thuận tiếp theo, như đã nêu chi tiết trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Các kinh nghiệm sau buổi ăn uống cũng như giữ xe qua đêm nằm trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/), chủ đề tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
 
 ## Kết luận về trình tự đo nồng độ cồn
 

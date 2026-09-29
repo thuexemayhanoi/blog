@@ -33,7 +33,7 @@ Người điều khiển phương tiện cơ giới khi tham gia giao thông thu
 
 Cần nói rõ một hiểu lầm phổ biến: quy định cấm không có ngoại lệ cho quãng đường ngắn. Nhiều người cho rằng chỉ đi vài phố, đưa bạn về rồi quay lại thì không sao, nhưng thiết bị đo không hỏi bạn định đi bao xa, và kết quả dương tính được lập biên bản bất kể cự ly. Tương tự, việc đồng ý của chủ xe cho bạn đi xe thuê cũng không tạo ra ngoại lệ nào, vì trách nhiệm vi phạm hình thành trên người điều khiển tại thời điểm kiểm tra.
 
-Nếu bạn định ăn uống có dùng đồ có cồn, cách xử lý an toàn duy nhất theo quy định hiện hành là không tự lái xe về sau đó: gọi xe khác, nhờ người chưa uống chở, hoặc để xe lại và lấy vào hôm sau sau khi chắc chắn cơ thể hết cồn. Kinh nghiệm xử lý tình huống sau bữa ăn đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
+Nếu bạn định ăn uống có dùng đồ có cồn, cách xử lý an toàn duy nhất theo quy định hiện hành là không tự lái xe về sau đó: gọi xe khác, nhờ người chưa uống chở, hoặc để xe lại và lấy vào hôm sau sau khi chắc chắn cơ thể hết cồn. Kinh nghiệm xử lý tình huống sau bữa ăn đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/).
 
 ## Người thuê xe cần lưu ý
 

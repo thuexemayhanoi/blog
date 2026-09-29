@@ -38,7 +38,7 @@ Trình tự bạn nên theo sau khi bị xử lý nồng độ cồn khi đi xe 
 - Đọc kỹ biên bản và quyết định xử phạt: họ tên, số quyết định, mức phạt, thời hạn nộp, nơi nộp đều ghi trên văn bản; chụp ảnh lưu lại toàn bộ.
 - Nộp phạt đúng hạn theo hướng dẫn trên quyết định để không phát sinh các biện pháp cưỡng chế thi hành quyết định xử phạt theo quy định hiện hành.
 - Hoàn tất nghĩa vụ theo hợp đồng thuê với cửa hàng: trả xe đúng thỏa thuận mới, đối chiếu hiện trạng xe, thanh toán phần chi phí phát sinh nếu có theo hợp đồng.
-- Rút kinh nghiệm cho các lần sau: người lái không dùng đồ có cồn, và nếu định dùng thì chốt trước phương án về như kinh nghiệm trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
+- Rút kinh nghiệm cho các lần sau: người lái không dùng đồ có cồn, và nếu định dùng thì chốt trước phương án về như kinh nghiệm trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/).
 
 Trường hợp xe bị tạm giữ, thời điểm và điều kiện nhận lại xe thực hiện theo quyết định của cơ quan chức năng, không theo thỏa thuận giữa hai bên, nên hãy hỏi rõ người lập biên bản về thủ tục nhận xe. Các tình huống sự cố khác trong kỳ thuê được tổng hợp trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
 

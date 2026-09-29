@@ -40,7 +40,7 @@ Trước khi cầm lại tay lái sau một đêm uống, ba lựa chọn theo t
 - Cẩn trọng với xe máy thuê: nếu bạn thuê xe qua đêm, hãy báo cửa hàng để chốt phương án giữ xe thêm hoặc nhận lại vào buổi chiều, thay vì mạo hiểm đi lúc sáng sớm; cách trao đổi với cửa hàng được nêu trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/).
 - Kéo dài khoảng cách thời gian: mỗi giờ thêm nữa giữa lúc dừng uống và lúc lên xe đều giảm rủi ro; không có mức rút gọn an toàn cho tất cả mọi người, nên hãy giữ biên độ rộng.
 
-Kinh nghiệm thực tế khi dự tiệc ở Hà Nội đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/), từ chốt phương án về đến giữ xe qua đêm.
+Kinh nghiệm thực tế khi dự tiệc ở Hà Nội đã được chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/), từ chốt phương án về đến giữ xe qua đêm.
 
 ## Quy định liên quan cần nhớ
 

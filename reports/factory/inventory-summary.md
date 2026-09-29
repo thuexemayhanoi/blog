@@ -22,7 +22,7 @@ Số bài legacy trong `_posts/`: 483. Tất cả đã được ánh xạ vào t
 
 ## Số từ (đếm thô từ markdown)
 
-- Trung bình: 1584 từ/bài
+- Trung bình: 1585 từ/bài
 - Nhỏ nhất: 1500, lớn nhất: 2356
 
 Không bài legacy nào bị đổi URL. Không bài nào bị xóa hay đổi tên.

@@ -158,6 +158,6 @@ Giờ hoạt động 09:00 – 21:00 hằng ngày. Không giao xe máy ngoài gi
 Xem thêm [bảng giá]({{ '/bang-gia/' | relative_url }}), [du lịch Hà Nội bằng xe máy]({{ '/du-lich/' | relative_url }}) hoặc [giới thiệu về Nguyễn Tú]({{ '/gioi-thieu/' | relative_url }}).
 
 <div class="cta-group">
-  <a href="{{ '/blog/' | relative_url }}" class="btn btn-outline">Về blog</a>
+  <a href="{{ '/bai-viet/' | relative_url }}" class="btn btn-outline">Về blog</a>
   <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi để đặt xe</a>
 </div>

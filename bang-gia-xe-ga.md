@@ -90,7 +90,7 @@ Cặp xe ga nhỏ gọn, giá thuê thấp nhất trong nhóm xe ga (150.000đ/n
 - Người đi làm, đi học cần xe dễ sử dụng hằng ngày
 - Khách đi đôi trong nội thành
 
-Nếu bạn chạy đường dài hoặc muốn tối ưu chi phí nhiên liệu, [xe số]({{ '/bang-gia-xe-so/' | relative_url }}) có thể phù hợp hơn. So sánh chi tiết giữa các nhóm xe trong bài [xe số, xe ga hay xe 50cc]({{ '/blog/' | relative_url }}).
+Nếu bạn chạy đường dài hoặc muốn tối ưu chi phí nhiên liệu, [xe số]({{ '/bang-gia-xe-so/' | relative_url }}) có thể phù hợp hơn. So sánh chi tiết giữa các nhóm xe trong bài [xe số, xe ga hay xe 50cc]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}).
 
 ## Thuê xe ga theo tuần và tháng
 

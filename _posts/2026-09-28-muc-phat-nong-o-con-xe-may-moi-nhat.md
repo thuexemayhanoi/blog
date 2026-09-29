@@ -37,7 +37,7 @@ Ba nhầm lẫn thường gặp khi đọc khung phạt:
 
 Ngoài phạt tiền, người vi phạm thuộc mức 1 và mức 2 bị trừ điểm giấy phép lái xe theo chế độ điểm hiện hành, còn ở mức 3 bị tước giấy phép lái xe 22 đến 24 tháng. Với người đi xe phục vụ công việc hoặc sinh hoạt hằng ngày ở Hà Nội, việc mất giấy phép lái theo tháng là hệ quả nặng hơn nhiều khoản tiền phạt, vì nó đảo lộn toàn bộ phương án di chuyển trong thời gian bị tước.
 
-Nếu đang đi xe thuê khi bị xử lý, bạn cần thông báo cho cửa hàng theo đúng trình tự trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Còn nếu định uống ở tiệc, cách an toàn nhất vẫn là không tự lái về sau đó, như kinh nghiệm đã chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/20/di-an-uong-co-con-ve-nha-the-nao/).
+Nếu đang đi xe thuê khi bị xử lý, bạn cần thông báo cho cửa hàng theo đúng trình tự trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Còn nếu định uống ở tiệc, cách an toàn nhất vẫn là không tự lái về sau đó, như kinh nghiệm đã chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/).
 
 ## Điểm chung của các kỳ quy định
 

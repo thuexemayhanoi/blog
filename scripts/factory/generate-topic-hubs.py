@@ -9,9 +9,12 @@ hub phải được sinh TRƯỚC khi bài được xuất bản.
 
 Giải pháp nguồn (root-cause), deterministic + idempotent:
 quét internal_links mọi hàng matrix (PLANNED/WRITING/QA/REPAIR/PASS/PUBLISHED),
-rút gọn về route hub dạng /<parent>/<child>/ theo taxonomy; với mỗi hub
-(a) được matrix tham chiếu và (b) chưa có tệp <parent>/<child>.md — sinh
-trang hub tối thiển từ taxonomy (layout topic chuẩn của site).
+rút gọn về route hub dạng /<parent>/<child>/ theo taxonomy; ĐỒNG THỜI yêu
+cầu hub cho MỌI child của taxonomy — vì topic-directory (homepage, /chu-de/)
+và article-breadcrumb render link toàn bộ children, một child thiếu hub là
+link 404 công khai ngay cả khi chưa có bài nào gắn child đó. Với mỗi hub
+chưa có tệp <parent>/<child>.md — sinh trang hub tối thiển từ taxonomy
+(layout topic chuẩn của site).
 
 Không đụng: checkpoint, writer-lock, transaction, REVIEW, PUBLISHED nội dung.
 
@@ -38,8 +41,10 @@ def main():
         pslug = parents[c['parent_id']]['slug']
         by_route['/%s/%s/' % (pslug, c['slug'])] = (pslug, c)
 
+    # Mọi child taxonomy đều cần hub: topic-directory (homepage, /chu-de/)
+    # và breadcrumb render link toàn bộ children — thiếu hub = 404 công khai.
+    required = set(by_route)
     rows = list(csv.DictReader(open(MATRIX, encoding='utf-8')))
-    required = set()
     for r in rows:
         if r['status'] not in LINK_STATUS:
             continue

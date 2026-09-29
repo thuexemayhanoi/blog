@@ -80,7 +80,7 @@ Không giao xe máy ngoài giờ hoạt động. Thời gian và chi phí giao n
 - **[Xe ga]({{ '/bang-gia-xe-ga/' | relative_url }}):** tự động, nhanh hơn, cần giấy phép lái xe, phù hợp đa số nhu cầu.
 - **[Xe số]({{ '/bang-gia-xe-so/' | relative_url }}):** tiết kiệm xăng nhất, cần kỹ năng côn số, phù hợp đường dài.
 
-Chi tiết so sánh ba nhóm xe được trình bày trong bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/blog/' | relative_url }}).
+Chi tiết so sánh ba nhóm xe được trình bày trong bài viết [Xe số, xe ga hay xe 50cc: nên chọn loại nào?]({{ '/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/' | relative_url }}).
 
 ## Kinh nghiệm lái xe 50cc cho du khách nước ngoài
 
