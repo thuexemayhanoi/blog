@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi.md",
+  "source_path": "_posts/2026-09-29-en-pha-xe-thue-khong-sang-khi-i-em-kiem-tra-gi.md",
   "content_sha256": "f1baeec74683bb3f3bd20a33a9127b7d98bad229361d12e7d92a0514d12b30ec",
-  "matrix_row_sha256": "0b9590f80065322a87d763b998fc0f2f42aa21ab41526a6044d93518b4a23927",
-  "result": "PASS"
+  "matrix_row_sha256": "dff450d1cf744e88ca2734f263c983781b2db2d3aa277deb12f494b8f6e20669",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

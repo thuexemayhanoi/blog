@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo.md",
+  "source_path": "_posts/2026-09-29-mat-chia-khoa-xe-may-thue-cac-buoc-tiep-theo.md",
   "content_sha256": "7e549d88605e99ea7cae789d5049863ad883c0e780d6ea2603c2353b017bceeb",
-  "matrix_row_sha256": "61273b52cf316c459516827a570537bf9b8f7278022f645b328c1872fa22cbaa",
-  "result": "PASS"
+  "matrix_row_sha256": "1dbba435f1e049b6b42f7ef08115afc2f1086ce506cd33e9df31dd37d17277cc",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

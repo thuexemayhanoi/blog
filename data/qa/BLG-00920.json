@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao.md",
+  "source_path": "_posts/2026-09-29-xe-ga-tiet-kiem-xang-khi-i-noi-o-la-dong-nao.md",
   "content_sha256": "dd2b84f7b4d113a9f8837912ef753838a8ad5323c6ea1cd8b47e94c7e2d43318",
-  "matrix_row_sha256": "04571bb4682365ccd500cb347cc12b2f58d10c49cf719a4dda16030b57ff0844",
-  "result": "PASS"
+  "matrix_row_sha256": "ea1e505d21d5cb4d7299b929a8fc872efa7e8da03b8e882699b4c29d70e9e668",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:17+00:00"
 }

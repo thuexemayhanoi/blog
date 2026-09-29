@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-mua-mua-lon-nen-thue-dong-xe-may-nao.md",
+  "source_path": "_posts/2026-09-29-mua-mua-lon-nen-thue-dong-xe-may-nao.md",
   "content_sha256": "d62d9311601df18df1432e565e78c647c11e1ab2def92993b9926b69ea38e476",
-  "matrix_row_sha256": "85e0ee316593f5953d31372a782646a6d006233d99b82e2c9382140bdffcffe6",
-  "result": "PASS"
+  "matrix_row_sha256": "4448b32947e4fa82417cf1b01cd096356740a0253c6ccdd7517dee7a3530a10b",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-co-nen-thue-xe-cao-cap-khi-chi-i-pho-co.md",
+  "source_path": "_posts/2026-09-29-co-nen-thue-xe-cao-cap-khi-chi-i-pho-co.md",
   "content_sha256": "1b03a8bdde5e74722360604c876dcfd26f6a271846ea134d913b8c5ed0a3e521",
-  "matrix_row_sha256": "f2feb982a77b10b4c10087da5ad215c935b2f742de83421a8f85f049a86bb0be",
-  "result": "PASS"
+  "matrix_row_sha256": "14b2cf20186725db5479fad04a0a629be76b58d5ab23b92e562530438aca32d4",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

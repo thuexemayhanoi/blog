@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-may-thue-khong-no-may-xu-ly-tung-buoc.md",
+  "source_path": "_posts/2026-09-29-xe-may-thue-khong-no-may-xu-ly-tung-buoc.md",
   "content_sha256": "04beae45e914957f9521d89c1ba3dbd9e804edecf3872938064da0ec7909a56f",
-  "matrix_row_sha256": "340e38351c0cdd507363df644d49bb9c8001ae26c3d149c2b264de26e8ef5ced",
-  "result": "PASS"
+  "matrix_row_sha256": "c36ea1bd73a0d0fb9f22aea650c9ddb12673e0db2edc0b468ce23163de207431",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

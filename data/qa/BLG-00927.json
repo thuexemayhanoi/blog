@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly.md",
+  "source_path": "_posts/2026-09-29-ac-quy-xe-thue-yeu-e-khong-no-nhan-biet-va-xu-ly.md",
   "content_sha256": "2de9fbf27381c5f8e0875fd12bf5483d7c1220d600af7cc895d84aac6068874b",
-  "matrix_row_sha256": "e6328cfc910f36c06cb66ffec8893622409e08853d81c84f83cb3a7ae3700181",
-  "result": "PASS"
+  "matrix_row_sha256": "02ad16b607fe8efde2db7d16beaaf33221b2a3e1eb9c1e67571be5dce88f1fab",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

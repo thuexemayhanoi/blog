@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap.md",
+  "source_path": "_posts/2026-09-29-xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap.md",
   "content_sha256": "b64277e3932e1b1ebb059cbb548c64598528cdd38302444b86f357eb5c06acb5",
-  "matrix_row_sha256": "559c18ad3714013dbdb4f4e99dea7f1b4047882ed1358706290251076ec24315",
-  "result": "PASS"
+  "matrix_row_sha256": "da6bd7a2b393ec93a9f67e37e4852c6a76b97ffb5009468bee6eb9b6f7dc5537",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }

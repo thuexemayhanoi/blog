@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-uong-truong-thue-xe-so-hay-xe-ga.md",
+  "source_path": "_posts/2026-09-29-i-uong-truong-thue-xe-so-hay-xe-ga.md",
   "content_sha256": "5c6df2e047a3c2ed3941e0118562aa759206d8f7a55769616416d00b0de988df",
-  "matrix_row_sha256": "fa0952e5a96c0d757c325097c0e8721d2d691f0a347c4eb7760e45c567bdb409",
-  "result": "PASS"
+  "matrix_row_sha256": "e0a1fbf0e26dd633f0bcb94504ee93e69ae3fc3c838c82240b05ec9b1a1ee97d",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:17+00:00"
 }

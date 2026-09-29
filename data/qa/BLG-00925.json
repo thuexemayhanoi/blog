@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-ang-i-xe-thue-bi-xit-lop-lam-gi-ngay.md",
+  "source_path": "_posts/2026-09-29-ang-i-xe-thue-bi-xit-lop-lam-gi-ngay.md",
   "content_sha256": "0388a5bfe3c72809c85497f7564871655b53fa40e36a66775a341f1dcc5fcccf",
-  "matrix_row_sha256": "924e8cffd60f861a12e691515583aa0f84d48aaf548021923675ae1f32010f04",
-  "result": "PASS"
+  "matrix_row_sha256": "349015b672b29fe99b4d82435f2d92b67fed75ec204ecfc79d0d2700a200b9ae",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:48:18+00:00"
 }
