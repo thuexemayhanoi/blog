@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00818",
   "title": "Lên dốc và xuống dốc bằng xe số khi mới lái",
-  "scored_at": "2026-09-29T02:10:23+00:00",
+  "scored_at": "2026-09-29T02:10:53+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1036,
+  "word_count": 1038,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-len-doc-va-xuong-doc-bang-xe-so-khi-moi-lai.md",
-  "content_sha256": "232994b28b17ef5a667234cff80de52b0edbb000dc7d90baa7da45559bb2031c",
+  "content_sha256": "084cce6d44bcc18c298db83f19cdfefe5f665edeb8a9d0d7f32fcde2de115a32",
   "matrix_row_sha256": "21c80e2999a74707470af6897fd797b3d69d071801ff5d2f0f183c26565d3fb1",
   "result": "PASS"
 }
