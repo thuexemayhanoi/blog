@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-gui-xe-o-khu-vuc-khong-co-bai-giu-xe-phuong-an-nao.md",
+  "source_path": "_posts/2026-09-29-gui-xe-o-khu-vuc-khong-co-bai-giu-xe-phuong-an-nao.md",
   "content_sha256": "e0b4c7dae052219eecd53c8f5db176ec4d2e8802f43ef36dda431fc1e254b170",
-  "matrix_row_sha256": "0b6b64f0a5b6b5cd921abed5e39e75cd8c1e6903b0a77e3f47d439c637780cfc",
-  "result": "PASS"
+  "matrix_row_sha256": "739d166fa010eb6fbd6b7169412cbe89c7c12a73384279aeb1d99ff431f02e33",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:02:29+00:00"
 }

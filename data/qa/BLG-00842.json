@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-hop-giu-mu-va-o-nho-tren-xe-ga.md",
+  "source_path": "_posts/2026-09-29-hop-giu-mu-va-o-nho-tren-xe-ga.md",
   "content_sha256": "d2452d354ecfd54f4e0a79bf85b89cc8a02b52ad78a9b7d6cc5aa9d3c9c40112",
-  "matrix_row_sha256": "14f0e63d18e339aaa86714f2561fb1dc042b4f6770787dbdf63ca9d16cd30a69",
-  "result": "PASS"
+  "matrix_row_sha256": "d3d2771ab0d5f46c8f612ea2240ceddde9520df0fe0f7c95d1dd170e0be41970",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:02:29+00:00"
 }

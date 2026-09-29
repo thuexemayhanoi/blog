@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-cho-nguoi-phia-sau-an-toan-khi-i-oi.md",
+  "source_path": "_posts/2026-09-29-cho-nguoi-phia-sau-an-toan-khi-i-oi.md",
   "content_sha256": "cbd00afe4afed421aedbd1aa9678c6ae8c9ea914f7f25709150a7d650092e70b",
-  "matrix_row_sha256": "b71f4d0c2c7050db6e20feff7dd244fe9b92abc49b90d53e4e407303255951bf",
-  "result": "PASS"
+  "matrix_row_sha256": "baf7a1195356c7633afb3b9632c4197cfa684ff8418dcfe3457684197c0fe8ae",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:02:29+00:00"
 }

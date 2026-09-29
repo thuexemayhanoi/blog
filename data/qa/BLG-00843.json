@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-cho-o-khi-troi-mua-cach-boc-kin.md",
+  "source_path": "_posts/2026-09-29-cho-o-khi-troi-mua-cach-boc-kin.md",
   "content_sha256": "ad8ae092bcd2aa1c3b80e0a933e2e36e9716f8eb63645774c466435e057de551",
-  "matrix_row_sha256": "bcee8867439d1cec1bbd3843e55f03b5a1c8fa30c6a7aa802e0626bc85f337f7",
-  "result": "PASS"
+  "matrix_row_sha256": "5dc122a81fd9d9b255de0a15613586414a3737ab188016dfc34031720efafc51",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:02:29+00:00"
 }

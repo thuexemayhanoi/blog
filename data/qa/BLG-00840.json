@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau.md",
+  "source_path": "_posts/2026-09-29-eo-ba-lo-khi-chay-xe-dai-hay-buoc-sau.md",
   "content_sha256": "61ebd943779326d1627d450996b84887dd4fabbc25d63b5f0b94ca290c5f24af",
-  "matrix_row_sha256": "cafa0e568302c863e63a2554a8e87417f6af1caa3bdd4bfd73a6806f9775ec7e",
-  "result": "PASS"
+  "matrix_row_sha256": "2e8f01212619bf20f78f6de2d9cdc4f2140c92055db8386f5601234199f4bedc",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:02:29+00:00"
 }
