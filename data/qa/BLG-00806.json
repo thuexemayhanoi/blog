@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-thien-cam-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-thien-cam-xang-va-nghi.md",
   "content_sha256": "3fffc63e347c701758aed58ce4768bc375084a038bcab3e14b33bfd2ebc5a170",
-  "matrix_row_sha256": "43c41502b6e1e4270e83600a93e5fb1f42cfbf7c965df68a802248c646a23b49",
-  "result": "PASS"
+  "matrix_row_sha256": "e1b3aaa34eb3a4703e3179635afa7158de5600adcdfd98cef4ef16680d7314f6",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:52:21+00:00"
 }

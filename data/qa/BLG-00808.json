@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-ky-son-va-hoa-binh-thuong-nguon-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-ky-son-va-hoa-binh-thuong-nguon-xang-va-nghi.md",
   "content_sha256": "80a0b0dd95c9bbc783e6724cf7e8b84763dda1f59dc2acebbc143a256d88c13b",
-  "matrix_row_sha256": "2011d8fdce3a503519ce28232e764d74373474bd333f11b2c1dc5e62184e239d",
-  "result": "PASS"
+  "matrix_row_sha256": "6b38905694baae23ea871ee4275cb8ea21007d418d2c47e56563c3749ede911d",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:52:22+00:00"
 }

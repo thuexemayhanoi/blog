@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-ky-son-va-hoa-binh-thuong-nguon.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-tu-ha-noi-len-ky-son-va-hoa-binh-thuong-nguon.md",
   "content_sha256": "409292ed4c7ab72c2687dc95121e082ef9fdde553c20e6282426b9e2d81beab4",
-  "matrix_row_sha256": "9b88d6d325f1ae3c0950a5dcf27f0dd3f922855759df683b9a78b41b98f028bc",
-  "result": "PASS"
+  "matrix_row_sha256": "df3c41a855cc5c1f296d1893132c5ea53633ee729ccb57edb069d05af5cfaccc",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:52:22+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-thien-cam.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-tu-ha-noi-len-thien-cam.md",
   "content_sha256": "53dfed498e839ea1a447ceba4587a3f50f9f5fd84f435f8571fc27526355b0df",
-  "matrix_row_sha256": "3898c142ba2770f9f2515a93a484cecfd3a7c8f31ced155a04186848b0e09dd8",
-  "result": "PASS"
+  "matrix_row_sha256": "fb0d256c20e719c9442564d2d034722e11950d9104704c567aeacf0add4cd624",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:52:21+00:00"
 }
