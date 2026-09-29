@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi.md",
+  "source_path": "_posts/2026-09-29-e-xe-va-vao-so-1-thao-tac-co-ban-cho-nguoi-moi.md",
   "content_sha256": "dbad2aad33bb7aab0981b078463f32b738370694b79dffe1291f46ba9979ab99",
-  "matrix_row_sha256": "be116178a0eaaed9b98f115974f9e20d780a0ac46df00f65f9e6e52a0e93adab",
-  "result": "PASS"
+  "matrix_row_sha256": "3aeabb7e120b53b863a73e4804ab854f7726186e75b6d02513eeb58879448c8d",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:12:54+00:00"
 }

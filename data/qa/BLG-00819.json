@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may.md",
+  "source_path": "_posts/2026-09-29-quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may.md",
   "content_sha256": "c84f06c7910c6ce2fac9711498d977493ada2953edf0b61b7e26ec3675a7b8be",
-  "matrix_row_sha256": "5e09d3f2b46337575913b9f561d8ba3632a31a2d1ad4e111ff03e531a8f75df9",
-  "result": "PASS"
+  "matrix_row_sha256": "ed7e4d178b2b68897428a68fdaf98ad3078207dc28216765a62b6f74da2e4b24",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:12:54+00:00"
 }

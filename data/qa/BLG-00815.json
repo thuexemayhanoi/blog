@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-giu-khoang-cach-voi-xe-container-trong-noi-o.md",
+  "source_path": "_posts/2026-09-29-giu-khoang-cach-voi-xe-container-trong-noi-o.md",
   "content_sha256": "ba1c22a4cb717189b8543e73c40fb90e746e92856c5b6e43ecdb03ca4d7d37a1",
-  "matrix_row_sha256": "6bedaa2cca36c25d93043d0791afeecda349672f577ddd1b2115d3bd6d483e1e",
-  "result": "PASS"
+  "matrix_row_sha256": "06cb6d19ce9d4af4f4b4ed36633677914c10be5c3fea92b00356a6393e4375bb",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:12:54+00:00"
 }

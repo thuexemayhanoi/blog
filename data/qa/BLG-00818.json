@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-len-doc-va-xuong-doc-bang-xe-so-khi-moi-lai.md",
+  "source_path": "_posts/2026-09-29-len-doc-va-xuong-doc-bang-xe-so-khi-moi-lai.md",
   "content_sha256": "084cce6d44bcc18c298db83f19cdfefe5f665edeb8a9d0d7f32fcde2de115a32",
-  "matrix_row_sha256": "21c80e2999a74707470af6897fd797b3d69d071801ff5d2f0f183c26565d3fb1",
-  "result": "PASS"
+  "matrix_row_sha256": "59d405dd1a1bdb9d9b67daa8f6aaa31498beefe9c2c6ec54b34d86df869c8834",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:12:54+00:00"
 }
