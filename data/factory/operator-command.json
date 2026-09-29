@@ -1,0 +1,6 @@
+{
+  "op": "publish",
+  "ids": "BLG-00810,BLG-00811,BLG-00812,BLG-00813,BLG-00814",
+  "command_id": "campaign10k-resume-chunk4-publish",
+  "coordinator": "campaign-10k-round6"
+}
