@@ -11,6 +11,10 @@ business_url: "https://thuexemaynguyentu.com/"
 # Permalinks configuration
 permalink: pretty
 
+# Render bài có ngày ở tương lai gần (mốc đăng 09:00 +0700)
+# để bài đã qua publish gate hiển thị ngay trên GitHub Pages.
+future: true
+
 # Jekyll settings
 plugins:
   - jekyll-sitemap
