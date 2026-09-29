@@ -27,8 +27,10 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+print('::notice::[diag] pubflow: pre-import', flush=True)
 from test_qa_modes import (FxTestCase, cp_json, first_writing, make_draft,
                             matrix_rows)
+print('::notice::[diag] pubflow: import ok', flush=True)
 
 
 def sha256_file(path):
@@ -50,6 +52,7 @@ def op_module(fx):
 class SuccessFlowTest(FxTestCase):
 
     def test_draft_pass_qa_then_publish_verifies_everything(self):
+        print('::notice::[diag] pubflow: test body start', flush=True)
         # 1. chunk 1 hàng, hoàn toàn do fixture tạo (hermetic)
         self.ensure_writing_chunk(count=1)
         row = first_writing(self.fx)
@@ -123,4 +126,8 @@ class SuccessFlowTest(FxTestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(verbosity=2)
+    try:
+        unittest.main(verbosity=2)
+    except SystemExit as e:
+        print('::notice::[diag] pubflow exit: %r' % (e,), flush=True)
+        raise

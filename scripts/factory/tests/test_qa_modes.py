@@ -102,6 +102,7 @@ def borrow_planned_row(fx):
     rows = matrix_rows(fx)
     if any(r['status'] == 'PLANNED' for r in rows):
         return
+    print('::notice::[diag] borrow_planned_row: borrowing', flush=True)
     cp = cp_json(fx, 'data/state/checkpoint.json')
     cands = [x for x in rows
              if x['status'] == 'PUBLISHED'
@@ -142,6 +143,7 @@ def borrow_planned_row(fx):
                    'generate-listing-pages.py'):
         rr = run_py(['scripts/factory/' + script], fx)
         assert rr.returncode == 0, script + ': ' + rr.stdout + rr.stderr
+    print('::notice::[diag] borrow_planned_row: done', flush=True)
 
 
 # draft mẫu đạt gate cho hàng cho trước. Sau QA hardening của engine,
@@ -390,9 +392,12 @@ class FxTestCase(unittest.TestCase):
             cp['in_progress_chunk'] = sorted(chunk)
             write_json(self.fx, 'data/state/checkpoint.json', cp)
         self.pause_in_progress_chunk()
+        print('::notice::[diag] ensure_writing_chunk: paused', flush=True)
         # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
         borrow_planned_row(self.fx)
         r = self.operator('prepare-next', '--count', str(count))
+        print('::notice::[diag] ensure_writing_chunk: prepare-next rc=%s'
+              % r.returncode, flush=True)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
 
