@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chung-say-xe-khi-ngoi-sau-va-cach-han-che.md",
+  "source_path": "_posts/2026-09-29-chung-say-xe-khi-ngoi-sau-va-cach-han-che.md",
   "content_sha256": "9376adf4ffa3e4d22a8b02562dd76ab1d6d25f4295ab2996131126fadee8fcc3",
-  "matrix_row_sha256": "8516bd1da0741a39eebf2d7b3f5abc3d994ba4c64eaffd700525612d36b2ac59",
-  "result": "PASS"
+  "matrix_row_sha256": "c429cc128d589a53c36e7514510cf1ebc1c25401d10aa647d96e36fb096c092c",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:21:10+00:00"
 }

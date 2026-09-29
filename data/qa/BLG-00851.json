@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe.md",
+  "source_path": "_posts/2026-09-29-chong-trom-xe-may-khi-thue-khoa-va-cach-o-xe.md",
   "content_sha256": "1d3adc9f487e0c2a27618c51fe666c288785e24be407be548842923622648553",
-  "matrix_row_sha256": "6930c896035ffc10a5adbf2cc9d0d48c135245e621748f4d24318553e92eebcd",
-  "result": "PASS"
+  "matrix_row_sha256": "76d4e791bb90f134d336032bf185775d280b3bfbc527f19295cedd7972a41b22",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:21:10+00:00"
 }

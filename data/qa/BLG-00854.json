@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-au-lung-va-au-co-khi-chay-xe-dai.md",
+  "source_path": "_posts/2026-09-29-au-lung-va-au-co-khi-chay-xe-dai.md",
   "content_sha256": "211035a07e68dd424e5fdab2427f1d82b713d039da7a4e2f5ac809a05679d47b",
-  "matrix_row_sha256": "61913f33086d832975b13d49f0455eb9b7ad9abfb157f2ed75eeecf4592198aa",
-  "result": "PASS"
+  "matrix_row_sha256": "cec52531fd6c4128f359267fbe8c73180d82c8ed35ece361bb971c7a8a337650",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:21:10+00:00"
 }

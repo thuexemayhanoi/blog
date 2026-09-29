@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-may-thue-e-o-bai-gui-co-an-toan-khong.md",
+  "source_path": "_posts/2026-09-29-xe-may-thue-e-o-bai-gui-co-an-toan-khong.md",
   "content_sha256": "004582a5191c11182bd80c1c78feeb40a929045bea0e0bc1947c381ac3d4c7d1",
-  "matrix_row_sha256": "979e4ac5c508ff0e4e0394e7d7fcb9667e759aa5246f6e77a06783ccfa2a6a47",
-  "result": "PASS"
+  "matrix_row_sha256": "fa99c155de96ed61d2391c361396ec2c46a93c856e6a327d9dc6290fd949b43f",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:21:10+00:00"
 }

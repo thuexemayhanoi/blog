@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai.md",
+  "source_path": "_posts/2026-09-29-uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai.md",
   "content_sha256": "620c47889574ed44b5da6137de1a81a0e23b776544257dba603d885545dc8f0f",
-  "matrix_row_sha256": "336ba1f228136a1b5072087f4920f3895dcd8e790b2fa4640e0a72fa466a5f5d",
-  "result": "PASS"
+  "matrix_row_sha256": "df837f3c988e7a10ef1c448260ca8649293944adafde2a4a544c6efc3f4078fe",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:21:10+00:00"
 }
