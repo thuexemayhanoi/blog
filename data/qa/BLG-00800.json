@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-chua-huong-my-uc-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-chua-huong-my-uc-xang-va-nghi.md",
   "content_sha256": "d53ac35fa91c6e656ceb9289c3ac4e4df11cfccb909afa27d326138443ef7167",
-  "matrix_row_sha256": "0d7d040065399e260563bf340f99f7d6ae3da206d9d7d68b51993e01de82d3a3",
-  "result": "PASS"
+  "matrix_row_sha256": "48164c4df51d09ab5d15b50ae5cd42266daf8ee20ad60646a96b7da136cb4b65",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:17:59+00:00"
 }

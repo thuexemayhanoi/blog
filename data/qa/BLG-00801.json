@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-cua-lo.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-tu-ha-noi-len-cua-lo.md",
   "content_sha256": "7f74768cb6e9cfab5cbde7ff1c07cfd6293bcdb5aebbc563317cef539527269f",
-  "matrix_row_sha256": "859c01e5c32126afbcbf3199651dcddb45c7e7e020f9078fa0e98be6e91118d0",
-  "result": "PASS"
+  "matrix_row_sha256": "e27521fbb09f5aad68901a5d5de67a2c3c64729b1d3a023c6052a96ea138cde9",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:17:59+00:00"
 }

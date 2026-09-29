@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-sam-son.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-tu-ha-noi-len-sam-son.md",
   "content_sha256": "5cd8d073eeacd1c3a56ba9519cec03b0b1b53fef02bf3549c221506087700272",
-  "matrix_row_sha256": "400419817bef467c6a5f9fabe6081e73979d02e31922ddcd360bd2d533cba544",
-  "result": "PASS"
+  "matrix_row_sha256": "880fb258bc44f731dd39b11e886f0eb9c1daa99991aa62d3dcf28783d5880ac4",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:18:00+00:00"
 }

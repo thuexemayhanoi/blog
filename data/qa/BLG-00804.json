@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-sam-son-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-sam-son-xang-va-nghi.md",
   "content_sha256": "44497f57f59a2831a3ce07fc4ea22db18b0842b0dbfd24626cac08e5eb62d62c",
-  "matrix_row_sha256": "67c0d005c58e39c6b138f419a8bdf69b4909a52fdc86893a8edcb9126eb16fd5",
-  "result": "PASS"
+  "matrix_row_sha256": "78a3dae870b96dd003525ba6b70464be36fcda03089a3156b056ce427e3f73ad",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:18:00+00:00"
 }
