@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-xe-khong-mu-bao-hiem-phat-bao-nhieu.md",
+  "source_path": "_posts/2026-09-29-i-xe-khong-mu-bao-hiem-phat-bao-nhieu.md",
   "content_sha256": "634ee787876608172e39c35f976390df80b2fd6ec9b8a8a4ca1c85d48bb639b1",
-  "matrix_row_sha256": "d55f21721351c6dd7a330ea57150432f0f760e41912d7351857205c1d7c847c0",
-  "result": "PASS"
+  "matrix_row_sha256": "9072c46bf78971496ad3f27582fed66f4e1e9b85179d52e035d77be2363ad7b1",
+  "result": "PASS",
+  "published_at": "2026-09-29T04:45:05+00:00"
 }

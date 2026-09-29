@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-may-thue-bi-phat-nguoi-ai-nop-phat.md",
+  "source_path": "_posts/2026-09-29-xe-may-thue-bi-phat-nguoi-ai-nop-phat.md",
   "content_sha256": "12834f1af3af1b981e1e5a0ebb8c1483cf0dfdad2e65a33879067cdc798dc92b",
-  "matrix_row_sha256": "2125238616a55e02719b8d4f149ee86d9237f25286b4f70bf85240237077e67c",
-  "result": "PASS"
+  "matrix_row_sha256": "6521b29b5d8ec9aa8ee8f1c20e5cd7515c3dbe784ca6e1b25f58fa425835aeda",
+  "result": "PASS",
+  "published_at": "2026-09-29T04:45:05+00:00"
 }

@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-50cc-co-can-bang-lai-khong.md",
+  "source_path": "_posts/2026-09-29-xe-50cc-co-can-bang-lai-khong.md",
   "content_sha256": "5995352d6752bfa9e983be6035e9fb8e44e39562ebd57ac2f56d228d259ce1eb",
-  "matrix_row_sha256": "f0c90268477bf9992f0a0f2d525172878ca0dfb69530945b665a78ff6000a327",
-  "result": "PASS"
+  "matrix_row_sha256": "5ef0281e0b7faf1e6f183babb5fe00dd62c5cf97ca90dd2ea0414dbd1246747d",
+  "result": "PASS",
+  "published_at": "2026-09-29T04:45:05+00:00"
 }

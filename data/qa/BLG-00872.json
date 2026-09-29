@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-cho-2-nguoi-tren-xe-may-co-bi-phat-khong.md",
+  "source_path": "_posts/2026-09-29-cho-2-nguoi-tren-xe-may-co-bi-phat-khong.md",
   "content_sha256": "01ea831d18814ea7986820086d768fc44751c5b4a003fd616ceb316fb635b06e",
-  "matrix_row_sha256": "51a65b7c0838c3692b3580e474826c2a079a409283d4b50ac8d308d2c6a827da",
-  "result": "PASS"
+  "matrix_row_sha256": "6d587f05aa0f4d89db3bf0fdd78f97095b304fcc7854bb6cca09ccb3a263e176",
+  "result": "PASS",
+  "published_at": "2026-09-29T04:45:05+00:00"
 }

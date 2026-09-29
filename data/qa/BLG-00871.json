@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong.md",
+  "source_path": "_posts/2026-09-29-nguoi-nuoc-ngoai-bang-lai-nuoc-ngoai-i-xe-uoc-khong.md",
   "content_sha256": "cad1c31d8c3d0f77f06ac58557126acb993fdc4af7a2dd802d04f35647642bc5",
-  "matrix_row_sha256": "f70cc84df899b096ee7d7c9bf8056f36ae8e3ebfd9575031d5d925057fb2a0be",
-  "result": "PASS"
+  "matrix_row_sha256": "28519321b8173748c97e8ce9fb93493727e15e321c9f3887f34f6f6da1623503",
+  "result": "PASS",
+  "published_at": "2026-09-29T04:45:05+00:00"
 }
