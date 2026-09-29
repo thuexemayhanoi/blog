@@ -76,7 +76,7 @@ Xe máy điện và xe đạp điện thường dùng lốp nhỏ hơn và áp s
 
 ## Kiểm tra áp suất như một phần của thói quen trước chuyến đi
 
-Để không phải nhớ từng việc riêng lẻ, hãy gộp kiểm tra lốp vào quy trình hai phút trước mỗi chuyến đi quan trọng: nhìn hai bánh xe, bóp thử hoặc đo áp suất nếu lâu chưa kiểm tra, thử phanh trước sau, xem đèn, chỉnh gương. Quy trình ngắn này bao trùm phần lớn sự cố phổ biến nhất của xe hai bánh. Bạn có thể tham khảo danh sách kiểm tra chi tiết hơn trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), vốn dành riêng cho lúc nhận xe thuê.
+Để không phải nhớ từng việc riêng lẻ, hãy gộp kiểm tra lốp vào quy trình hai phút trước mỗi chuyến đi quan trọng: nhìn hai bánh xe, bóp thử hoặc đo áp suất nếu lâu chưa kiểm tra, thử phanh trước sau, xem đèn, chỉnh gương. Quy trình ngắn này bao trùm phần lớn sự cố phổ biến nhất của xe hai bánh. Bạn có thể tham khảo danh sách kiểm tra chi tiết hơn trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), vốn dành riêng cho lúc nhận xe thuê.
 
 ## Sai lầm thường gặp khi bơm lốp
 

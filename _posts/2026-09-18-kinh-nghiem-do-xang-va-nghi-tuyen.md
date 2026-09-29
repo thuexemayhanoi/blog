@@ -84,7 +84,7 @@ Tránh dừng ngay sau đỉnh dốc, ngay đầu khúc cua, hoặc trên phần
 
 Mỗi lần nghỉ dài là một dịp kiểm tra nhanh chiếc xe thuê. Một vòng quanh xe chỉ mất hai phút: nhìn lốp trước sau có bị non bất thường không, xem dây xích còn dầu và không quá chùng, thử phanh trước sau, soi đèn trước và đèn hậu, kiểm tra gương còn cố định ở góc nhìn của bạn. Quy trình hai phút này càng có giá trị trên đường trường, nơi mỗi sự cố nhỏ cũng tốn kém nhiều thời gian hơn trong phố.
 
-Bạn có thể tham khảo thêm cách chuẩn bị tổng thể cho chuyến đi gần Hà Nội trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài viết thực tế trong mục [chia sẻ]({{ '/chia-se/' | relative_url }}) của chúng tôi.
+Bạn có thể tham khảo thêm cách chuẩn bị tổng thể cho chuyến đi gần Hà Nội trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài viết thực tế trong mục [chia sẻ]({{ '/chia-se/' | relative_url }}) của chúng tôi.
 
 ## Tóm lại
 

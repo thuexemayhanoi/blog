@@ -100,6 +100,8 @@ jobs:
           python3 scripts/factory/tests/test_reports_resume.py
           python3 scripts/factory/tests/test_publish_gate.py
           python3 scripts/factory/tests/test_topic_universe.py
+          python3 scripts/factory/tests/test_link_integrity.py
+          python3 scripts/factory/tests/test_built_links.py
 
       - name: Listing pages must match generator (no drift)
         run: |
@@ -115,6 +117,14 @@ jobs:
         with:
           source: ./
           destination: ./_site
+
+      - name: Built-site link integrity (internal 404 chặn build)
+        run: |
+          # Quét TOÀN BỘ HTML trong _site: mọi href/src/canonical/pagination/
+          # breadcrumb/related/CTA phải resolve; /blog/blog/ = FAIL; legacy
+          # Unicode URL được percent-decode (không accept ascii rewrite);
+          # matrix internal_links phải resolve vào cây đã build.
+          python3 scripts/factory/check-built-links.py --site ./_site
 
       - name: Drafts must not be deployed (no draft in sitemap or output)
         run: |

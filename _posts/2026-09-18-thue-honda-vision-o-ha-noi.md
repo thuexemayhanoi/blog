@@ -53,7 +53,7 @@ So với Honda Wave ở cùng khoảng giá tham khảo thấp, Vision thắng v
 
 So với Air Blade cùng mức 200.000đ mỗi ngày, Air Blade mạnh và chắc hơn, phù hợp khách thích cảm giác lái thể thao hoặc thường chở nặng, nhưng xe to và nặng hơn, người vóc dáng nhỏ sẽ thấy kém linh hoạt ở chỗ hẹp. So với Honda Click hoặc Yamaha Mio ở mức 150.000đ mỗi ngày, hai dòng này nhỏ nhắn tương đương Vision nhưng cốp và yên thường hẹp hơn, phù hợp khách đi một người và muốn tối ưu chi phí.
 
-Nếu bạn còn phân vân giữa xe số và xe ga nói chung, bài viết [xe số, xe ga hay xe 50cc: nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ) đã phân tích chi tiết ưu nhược điểm từng loại theo nhu cầu đi lại thực tế ở Hà Nội.
+Nếu bạn còn phân vân giữa xe số và xe ga nói chung, bài viết [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) đã phân tích chi tiết ưu nhược điểm từng loại theo nhu cầu đi lại thực tế ở Hà Nội.
 
 ## Kinh nghiệm chạy Vision trong phố Hà Nội
 
@@ -67,7 +67,7 @@ Khi gửi xe ở phố cổ hoặc trung tâm, ghi nhớ vị trí bãi gửi v�
 
 ## Những điểm lưu ý trước khi nhận xe Vision
 
-Kiểm tra xe kỹ trước khi nhận: đèn trước sau, còi, phanh tay, phanh chân, mức xăng trên kim đồng hồ, tình trạng lốp và các vết trầy xước sẵn có trên thân xe. Yêu cầu người giao xe ghi lại tình trạng xe để tránh tranh chấp khi trả. Danh sách chi tiết các điểm cần kiểm tra đã được tổng hợp trong bài [kinh nghiệm thuê xe máy tại Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %} ).
+Kiểm tra xe kỹ trước khi nhận: đèn trước sau, còi, phanh tay, phanh chân, mức xăng trên kim đồng hồ, tình trạng lốp và các vết trầy xước sẵn có trên thân xe. Yêu cầu người giao xe ghi lại tình trạng xe để tránh tranh chấp khi trả. Danh sách chi tiết các điểm cần kiểm tra đã được tổng hợp trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 Chở đúng số người theo quy định, không chở quá tải vì máy nhỏ sẽ nhanh nóng và giảm tuổi thọ. Nếu có kế hoạch chạy xa ngoài thành phố hoặc chở hành lý cồng kềnh, nên trao đổi trước với cửa hàng để được tư vấn dòng xe phù hợp hơn. Mọi thắc mắc về giá, tình trạng xe sẵn có hoặc thủ tục nhận xe đều được giải đáp qua điện thoại hoặc Zalo tại trang [liên hệ]( {{ '/lien-he/' | relative_url }} ).
 

@@ -52,6 +52,6 @@ Nguyên tắc cuối: toàn bộ bộ đồ che mưa nắng nằm trong một t�
 
 Túi đồ mưa nắng cũng nên đi kèm một khăn nhỏ lau tay và mặt, vì tay ướt trượt tay lái, và lau tay trước khi cầm lại tay lái sau khi tháo áo mưa là một thói quen an toàn thật, không phải sự cầu kỳ. Với người thuê dài hạn, bộ túi này là một phần của túi đồ nghề đã bàn ở bài khác, và cả hai túi cùng chiếm chưa đến một phần tư dung tích cốp của một chiếc xe tay ga phổ thông.
 
-Để chuẩn bị đầy đủ cho kỳ dài hạn, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về quy trình và các thói quen đầu kỳ, xem [bảng giá]( {{ '/bang-gia/' | relative_url }}) khi chọn dòng xe có cốp phù hợp với cách mang đồ của bạn, và tìm hiểu thêm các kinh nghiệm đi xe theo mùa trong mục [chia sẻ]( {{ '/chia-se/' | relative_url }}).
+Để chuẩn bị đầy đủ cho kỳ dài hạn, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về quy trình và các thói quen đầu kỳ, xem [bảng giá]( {{ '/bang-gia/' | relative_url }}) khi chọn dòng xe có cốp phù hợp với cách mang đồ của bạn, và tìm hiểu thêm các kinh nghiệm đi xe theo mùa trong mục [chia sẻ]( {{ '/chia-se/' | relative_url }}).
 
 Thời tiết Hà Nội không chờ ai chuẩn bị xong, nhưng người có bộ đồ đúng trong cốp gần như không bao giờ bị thời tiết bắt gặp; họ chỉ bị nhắc nhở rằng hôm nay cần mặc thêm một lớp.

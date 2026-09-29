@@ -29,7 +29,7 @@ Câu hỏi thường gặp là: nếu cần tiết kiệm, sao không thuê xe s
 
 Xe ga nhỏ như Click hay Mio bỏ hoàn toàn thao tác đó: bóp phanh, dừng, đèn xanh bóp ga đi tiếp. Với người đi phố nhiều, tín hiệu đèn đỏ dày đặc, sự khác biệt về độ mệt mỏi giữa xe số và xe ga tích lũy rất rõ vào cuối ngày. Ngoài ra cốp dưới yên của xe ga chứa được mũ bảo hiểm khi xuống xe đi bộ, trong khi xe số phải mang mũ theo tay hoặc móc ngoài.
 
-Với người đã quen xe số, việc chuyển sang xe ga nhỏ gần như không cần thời gian làm quen. Chiều ngược lại cũng đúng. Nếu bạn phân vân lâu hơn, bài viết [xe số, xe ga hay xe 50cc: nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ) phân tích chi tiết từng tình huống.
+Với người đã quen xe số, việc chuyển sang xe ga nhỏ gần như không cần thời gian làm quen. Chiều ngược lại cũng đúng. Nếu bạn phân vân lâu hơn, bài viết [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) phân tích chi tiết từng tình huống.
 
 ## Giá thuê Click và Mio tham khảo
 

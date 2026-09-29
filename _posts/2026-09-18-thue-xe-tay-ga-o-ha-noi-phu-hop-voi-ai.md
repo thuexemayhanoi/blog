@@ -29,7 +29,7 @@ Nhóm thứ hai là khách ưu tiên sự tiện nghi: cốp dưới yên của 
 
 Nhóm thứ ba là người nhẹ cân, bao gồm nhiều khách nữ, chuộng yên xe thấp, chân chống bên dễ chống và trọng lượng nhẹ. Các dòng như Vision, Click, Mio có yên thấp và trọng lượng nhẹ trong nhóm xe ga, dễ điều khiển hơn hẳn các dòng xe ga lớn.
 
-Ngược lại, nếu bạn định chạy đường trường dài liên tục, chở nặng hoặc đi trên đường xấu nhiều, xe số thường bền và ổn định hơn. Phân tích chi tiết giữa các loại xe đã có trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ).
+Ngược lại, nếu bạn định chạy đường trường dài liên tục, chở nặng hoặc đi trên đường xấu nhiều, xe số thường bền và ổn định hơn. Phân tích chi tiết giữa các loại xe đã có trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/).
 
 ## Các dòng xe ga hay thuê và giá tham khảo
 

@@ -49,7 +49,7 @@ Nhóm hợp nhất: người đi quãng đường ngắn, đều đặn, dự đ
 
 Nhóm nên cân nhắc kỹ: người đi nhiều chặng không đoán trước được, chạy việc giao hàng cả ngày với quãng đường lớn, hoặc định chạy xa ngoài thành phố. Với những nhu cầu này, xe xăng với việc đổ xăng nhanh và hệ thống trạm phủ khắp vẫn tiện hơn.
 
-Nếu bạn đi chủ yếu trong phố và quan tâm độ nhẹ, dễ lái, dòng xe 50cc chạy xăng cũng là một phương án đáng xem, đã có phân tích trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ).
+Nếu bạn đi chủ yếu trong phố và quan tâm độ nhẹ, dễ lái, dòng xe 50cc chạy xăng cũng là một phương án đáng xem, đã có phân tích trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/).
 
 ## Giấy phép lái xe với xe máy điện
 

@@ -70,7 +70,7 @@ Về giấy tờ, theo quy định hiện hành tại Việt Nam, xe dưới 50c
 - So với xe số phổ thông như Honda Wave: xe số mạnh hơn, bền hơn và hợp đường dài hơn, nhưng nặng hơn và cần quen cần số. Người mới hoàn toàn thường thấy xe 50cc dễ bắt đầu hơn.
 - So với xe đạp điện: xe đạp điện cũng nhẹ và hợp quãng ngắn, nhưng phụ thuộc pin và thời gian sạc. Xe 50cc chỉ cần đổ xăng là đi tiếp. Ngược lại, xe điện không phát thải và vận hành êm hơn.
 
-Bài viết [xe số, xe ga hay xe 50cc nên chọn loại nào]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) trên blog đã so sánh chi tiết ba dòng này theo từng nhóm nhu cầu, bạn có thể tham khảo để có quyết định trọn vẹn hơn.
+Bài viết [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) trên blog đã so sánh chi tiết ba dòng này theo từng nhóm nhu cầu, bạn có thể tham khảo để có quyết định trọn vẹn hơn.
 
 ## Khi nào không nên chọn xe 50cc
 

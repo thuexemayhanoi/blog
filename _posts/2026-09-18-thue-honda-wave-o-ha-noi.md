@@ -35,7 +35,7 @@ Nhóm hợp nhất: khách đi một mình hoặc hai người nhẹ, quãng đ�
 
 Nhóm thứ hai: khách định chạy xa ngoài thành phố. Xe số bền, máy gọn nhẹ, hệ thống làm mát bằng gió đơn giản, Wave là dòng được nhiều khách chọn cho các chuyến đường trường gần. Tuy nhiên với hành lý nhiều hoặc hai người to cao chạy đường dài, một dòng xe lớn hơn sẽ thoải mái hơn.
 
-Nhóm cân nhắc: khách chỉ quen xe ga và ngại thao tác côn chân. Nếu bạn chưa từng lái xe số, một buổi làm quen là đủ, nhưng nếu hoàn toàn không muốn động vào cần côn, các dòng xe ga với giá tham khảo từ 150.000đ đến 200.000đ mỗi ngày là lựa chọn thoải mái hơn. Chi tiết so sánh đã có trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ).
+Nhóm cân nhắc: khách chỉ quen xe ga và ngại thao tác côn chân. Nếu bạn chưa từng lái xe số, một buổi làm quen là đủ, nhưng nếu hoàn toàn không muốn động vào cần côn, các dòng xe ga với giá tham khảo từ 150.000đ đến 200.000đ mỗi ngày là lựa chọn thoải mái hơn. Chi tiết so sánh đã có trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/).
 
 ## So nhanh Wave với các dòng xe ga hay thuê
 

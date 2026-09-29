@@ -53,7 +53,7 @@ Quy trình hai phút trên áp dụng cho mọi xe. Riêng khi nhận xe thuê, 
 - Hỏi cửa hàng về các điểm đã có sẵn: vết xước, chi tiết bị mờ, lỗi nhỏ đã biết. Ghi các điểm này vào biên bản nhận xe.
 - Nghe máy nổ thử và chạy chậm một vòng quanh khu vực cửa hàng trước khi ra đường lớn, để cảm ứng ga, phanh, độ nặng tay lái của chính chiếc xe này.
 
-Ba việc này không mất quá năm phút, và chúng chuyển toàn bộ rủi ro hiểu lầm lúc trả xe về gần bằng không. Trình tự nhận xe đầy đủ hơn đã được trình bày trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) của chúng tôi.
+Ba việc này không mất quá năm phút, và chúng chuyển toàn bộ rủi ro hiểu lầm lúc trả xe về gần bằng không. Trình tự nhận xe đầy đủ hơn đã được trình bày trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) của chúng tôi.
 
 ## Đưa thành thói quen
 

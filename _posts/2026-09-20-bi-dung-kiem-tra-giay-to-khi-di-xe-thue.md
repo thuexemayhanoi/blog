@@ -49,4 +49,4 @@ Một câu hỏi tế nhị hơn: có nên giải thích rằng mình không bi�
 
 ## Tóm lại
 
-Mỗi lần bị dừng kiểm tra đều nhanh gọn nếu giấy tờ sẵn sàng: giấy phép lái mang theo người, giấy tờ xe biết nằm ở đâu trong cốp, hợp đồng thuê lưu trong điện thoại, và thái độ bình tĩnh phối hợp. Chuẩn bị ngay từ buổi nhận xe là toàn bộ bí quyết. Hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm quy trình nhận xe chuẩn, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần hỏi về các giấy tờ được bàn giao kèm xe trước khi nhận.
+Mỗi lần bị dừng kiểm tra đều nhanh gọn nếu giấy tờ sẵn sàng: giấy phép lái mang theo người, giấy tờ xe biết nằm ở đâu trong cốp, hợp đồng thuê lưu trong điện thoại, và thái độ bình tĩnh phối hợp. Chuẩn bị ngay từ buổi nhận xe là toàn bộ bí quyết. Hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm quy trình nhận xe chuẩn, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần hỏi về các giấy tờ được bàn giao kèm xe trước khi nhận.

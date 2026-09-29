@@ -87,4 +87,4 @@ Thời gian hoạt động của cửa hàng từ 09:00 đến 21:00 hàng ngày
 
 ## Tóm lại
 
-Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi lên đường.
+Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) trước khi lên đường.

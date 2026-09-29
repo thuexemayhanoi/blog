@@ -27,7 +27,7 @@ Mùa đông, sương mù rạng sáng trên đường đê và đường trườ
 
 ## Bước 3: kiểm tra xe trước khi xuất phát
 
-Kiểm tra xe là bước không được bỏ qua, đặc biệt với xe thuê. Danh sách kiểm tra gồm: áp suất và độ mòn lốp, phanh trước phanh sau, đèn còi, gương, dây xích với xe số, mức xăng, và không có tiếng kêu bất thường khi chạy thử vài vòng quanh phố. Mọi điểm bất thường ghi vào biên bản nhận xe ngay tại cửa hàng. Nếu cần ôn lại quy trình nhận xe, bài [kinh nghiệm thuê xe máy tại Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %} ) có phần hướng dẫn chi tiết.
+Kiểm tra xe là bước không được bỏ qua, đặc biệt với xe thuê. Danh sách kiểm tra gồm: áp suất và độ mòn lốp, phanh trước phanh sau, đèn còi, gương, dây xích với xe số, mức xăng, và không có tiếng kêu bất thường khi chạy thử vài vòng quanh phố. Mọi điểm bất thường ghi vào biên bản nhận xe ngay tại cửa hàng. Nếu cần ôn lại quy trình nhận xe, bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) có phần hướng dẫn chi tiết.
 
 Với chuyến đi xa hơn năm mươi cây số, nói chuyện với cửa hàng thuê xe về lịch trình của bạn: quãng đường, số ngày và địa bàn. Cửa hàng sẽ tư vấn dòng xe phù hợp với tuyến, và một số nhu cầu đặc biệt có thể có phương án hỗ trợ. Trao đổi trước luôn dễ hơn xử lý sự cố giữa đường.
 

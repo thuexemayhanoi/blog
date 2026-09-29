@@ -63,7 +63,7 @@ Chùa Trấn Quốc ở đầu đường Thanh Niên là ngôi chùa cổ trên 
 
 Hồ Trúc Bạch ở phía đông đường Thanh Niên nhỏ và im hơn Hồ Tây, quanh hồ có các quán cà phê và món ăn truyền thống lâu đời. Đây là điểm dừng chân ăn uống hợp lý sau một vòng hồ.
 
-Phía bắc, qua cầu Nhật Tân là khu làng hoa Nhật Tân, nơi trồng đào và hoa cảnh nổi tiếng của Hà Nội. Vào dịp trước Tết, khu này rực rỡ nhất; những thời điểm khác trong năm, nơi đây vẫn là không gian đồng quê hiếm hoi còn lại gần nội thành. Kinh nghiệm kết hợp các khu vực lân cận trong một tuyến đã được tóm tắt trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %} ).
+Phía bắc, qua cầu Nhật Tân là khu làng hoa Nhật Tân, nơi trồng đào và hoa cảnh nổi tiếng của Hà Nội. Vào dịp trước Tết, khu này rực rỡ nhất; những thời điểm khác trong năm, nơi đây vẫn là không gian đồng quê hiếm hoi còn lại gần nội thành. Kinh nghiệm kết hợp các khu vực lân cận trong một tuyến đã được tóm tắt trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/).
 
 ## Lưu ý an toàn khi chạy xe quanh khu hồ
 

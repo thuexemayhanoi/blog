@@ -51,7 +51,7 @@ Chi phí thuê cũng khác nhau giữa các dòng xe, vì vậy hãy đối chi�
 - Mức xăng hiện tại trong bình, và hỏi rõ khi trả xe cần đổ lại bao nhiêu.
 - Nếu là xe điện, pin còn bao nhiêu phần trăm và xe chạy được khoảng bao xa.
 
-Mọi hư hỏng sẵn có nên được chỉ ra cho người giao xe cùng biết, và tốt nhất là ghi lại bằng vài tấm ảnh. Thói quen nhỏ này giúp bạn tránh tranh chấp khi trả xe. Bạn có thể đọc thêm phần kiểm tra xe chi tiết trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để có danh sách đầy đủ hơn.
+Mọi hư hỏng sẵn có nên được chỉ ra cho người giao xe cùng biết, và tốt nhất là ghi lại bằng vài tấm ảnh. Thói quen nhỏ này giúp bạn tránh tranh chấp khi trả xe. Bạn có thể đọc thêm phần kiểm tra xe chi tiết trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để có danh sách đầy đủ hơn.
 
 ## Bước 5: Thỏa thuận giá, đặt cọc và điều khoản
 

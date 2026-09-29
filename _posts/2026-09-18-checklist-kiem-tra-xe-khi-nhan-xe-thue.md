@@ -93,4 +93,4 @@ Một mẹo nhỏ khi ghi biên bản: chụp ảnh kèm theo từng mục đã 
 
 ## Tóm lại
 
-Kiểm tra xe khi nhận không mất nhiều thời gian nếu bạn theo đúng trình tự: ngoại thất, đèn còi, phanh, lốp, xăng, chạy thử, rồi ghi biên bản. Mười phút cẩn thận lúc đầu tiết kiệm hàng giờ giải thích về sau. Nếu bạn muốn nắm tổng quan toàn bộ quy trình thuê xe, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), và tham khảo thêm các bài viết thực tế trong mục [kinh nghiệm]({{ '/kinh-nghiem/' | relative_url }}) trước chuyến đi của mình.
+Kiểm tra xe khi nhận không mất nhiều thời gian nếu bạn theo đúng trình tự: ngoại thất, đèn còi, phanh, lốp, xăng, chạy thử, rồi ghi biên bản. Mười phút cẩn thận lúc đầu tiết kiệm hàng giờ giải thích về sau. Nếu bạn muốn nắm tổng quan toàn bộ quy trình thuê xe, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), và tham khảo thêm các bài viết thực tế trong mục [kinh nghiệm]({{ '/kinh-nghiem/' | relative_url }}) trước chuyến đi của mình.

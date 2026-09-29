@@ -47,7 +47,7 @@ Nhóm thứ hai là khách công tác dài ngày. Với mức tháng tham khảo
 
 Nhóm thứ ba là khách muốn trải nghiệm cảm giác lái thể thao trong ngân sách hợp lý. Nếu bạn vốn quen xe lớn hoặc thích phong cách mạnh mẽ, Air Blade mang lại phần lớn sự thú vị đó mà không phải trả mức giá của các dòng xe cao cấp hơn hẳn.
 
-Ngược lại, nếu bạn là người mới biết lái, có vóc dáng nhỏ, hoặc chủ yếu đi một mình trong ngõ nhỏ, các dòng ga nhỏ như Vision, Click hoặc Mio sẽ dễ xử lý hơn. Bài [xe số, xe ga hay xe 50cc: nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ) có thêm phần so sánh để bạn tự chọn.
+Ngược lại, nếu bạn là người mới biết lái, có vóc dáng nhỏ, hoặc chủ yếu đi một mình trong ngõ nhỏ, các dòng ga nhỏ như Vision, Click hoặc Mio sẽ dễ xử lý hơn. Bài [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) có thêm phần so sánh để bạn tự chọn.
 
 ## Kinh nghiệm lái Air Blade trong phố
 

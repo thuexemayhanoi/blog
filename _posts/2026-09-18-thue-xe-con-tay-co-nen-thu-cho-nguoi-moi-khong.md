@@ -59,7 +59,7 @@ Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, p
 
 Xe ga: dễ nhất, không côn, phù hợp nội thành và người hoàn toàn mới, cốp rộng, giá thuê từ khoảng 150.000đ mỗi ngày tùy dòng. Xe số: trung bình, côn chân nhịp nhàng, bền, rẻ xăng, phù hợp cả phố và đường trường. Xe côn tay: khó nhất, đòi hỏi kỹ năng và luyện tập, mang lại cảm giác lái thú vị nhất trên đường đẹp nhưng không hợp với người mới trong điều kiện phố đông.
 
-Nếu bạn vẫn phân vân giữa các dòng phổ thông, bài [xe số, xe ga hay xe 50cc nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ) phân tích chi tiết hơn theo từng nhu cầu.
+Nếu bạn vẫn phân vân giữa các dòng phổ thông, bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) phân tích chi tiết hơn theo từng nhu cầu.
 
 ## Tóm lại
 

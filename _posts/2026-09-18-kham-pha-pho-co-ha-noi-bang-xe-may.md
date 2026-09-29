@@ -43,7 +43,7 @@ Các bãi gửi xe trong và quanh Phố Cổ chủ yếu là bãi nhỏ trong n
 
 Một số bãi tự phục vụ yêu cầu bạn tự dựng xe và giữ chìa khóa, một số bãi có người trông coi và giữ chìa. Với bãi giữ chìa, hãy nhớ nhận phiếu hoặc vé gửi; với bãi tự phục vụ, chụp ảnh biển số và vị trí xe để tránh mất thời gian tìm lại trong hàng trăm chiếc xe giống nhau.
 
-Không gửi xe lấn chiếm vỉa hè hoặc trước cửa nhà dân: các tuyến phố cổ được quản lý chặt, xe để sai quy định có thể bị nhắc nhở hoặc dời đi. Mẹo chung: chọn một bãi làm điểm neo cố định cho cả ngày thay vì gửi rải rác nhiều nơi. Phố Cổ đi bộ được trong bán kính nhỏ, một bãi gửi gần chợ Đồng Xuân hoặc gần Hồ Gươm đủ để bạn thăm cả khu mà chỉ gửi xe một lần. Kinh nghiệm chọn điểm gửi xe quanh các khu tham quan lớn của Hà Nội được tóm tắt trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %} ).
+Không gửi xe lấn chiếm vỉa hè hoặc trước cửa nhà dân: các tuyến phố cổ được quản lý chặt, xe để sai quy định có thể bị nhắc nhở hoặc dời đi. Mẹo chung: chọn một bãi làm điểm neo cố định cho cả ngày thay vì gửi rải rác nhiều nơi. Phố Cổ đi bộ được trong bán kính nhỏ, một bãi gửi gần chợ Đồng Xuân hoặc gần Hồ Gươm đủ để bạn thăm cả khu mà chỉ gửi xe một lần. Kinh nghiệm chọn điểm gửi xe quanh các khu tham quan lớn của Hà Nội được tóm tắt trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/).
 
 ## Lịch trình gợi ý một ngày
 

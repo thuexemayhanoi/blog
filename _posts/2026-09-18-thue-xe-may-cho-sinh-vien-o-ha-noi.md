@@ -33,7 +33,7 @@ Cách so sánh đơn giản: lấy giá tháng chia cho số ngày thực tế b
 
 Với đường phố đông, khoảng cách ngắn và tốc độ thấp, xe số hoặc xe ga nhỏ gọn là hai lựa chọn thực tế nhất. Xe số như Honda Wave nhẹ, chắc chắn, dễ sửa, phù hợp nếu bạn quen vận hành tay côn và muốn chi phí thấp nhất. Xe ga như Vision, Click, Mio tiện việc khi phải dừng đèn đỏ liên tục trong giờ tan học, không cần thao tác côn, lại có cốp đựng đồ dưới yên.
 
-Sinh viên nữ thường chuộng xe ga vì yên thấp, chân chống dễ chống và trọng lượng nhẹ. Sinh viên nam đi làm thêm giao hàng, chạy việc nhiều hơn thì xe số bền bỉ theo thời gian dài. Nếu bạn chưa có giấy phép lái xe, lưu ý rằng theo quy định hiện hành xe trên 50cc cần giấy phép lái xe hợp lệ, còn xe 50cc không bắt buộc. Bạn có thể đọc thêm phân tích trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]( {% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %} ) để hiểu rõ hơn trước khi chọn.
+Sinh viên nữ thường chuộng xe ga vì yên thấp, chân chống dễ chống và trọng lượng nhẹ. Sinh viên nam đi làm thêm giao hàng, chạy việc nhiều hơn thì xe số bền bỉ theo thời gian dài. Nếu bạn chưa có giấy phép lái xe, lưu ý rằng theo quy định hiện hành xe trên 50cc cần giấy phép lái xe hợp lệ, còn xe 50cc không bắt buộc. Bạn có thể đọc thêm phân tích trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) để hiểu rõ hơn trước khi chọn.
 
 ## Chi phí thuê tham khảo và các khoản đi kèm
 

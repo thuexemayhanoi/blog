@@ -51,7 +51,7 @@ Với loại giữ vé giấy, giữ vé cẩn thận như tiền mặt. Nếu l
 
 Cuối tuần, các bãi quanh điểm tham quan đông từ giữa sáng. Đi sớm không chỉ giúp tránh kẹt xe trên đường mà còn giúp có chỗ gửi xe thoải mái. Nếu bãi chính đã đầy, nhân viên thường chỉ hướng bãi phụ gần đó, hãy hỏi thay vì tự tìm vòng vòng.
 
-Với xe máy thuê, có một lưu ý thêm: một số bãi yêu cầu đối chiếu số khung hoặc kiểm tra giấy tờ khi nghi ngờ xe không phải của người lấy. Mang theo giấy tờ tùy thân và biên bản thuê xe khi đi tham quan giúp việc nhận lại xe suôn sẻ. Về cách quản lý giấy tờ khi thuê xe, bạn có thể xem lại bài [kinh nghiệm thuê xe máy tại Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %} ).
+Với xe máy thuê, có một lưu ý thêm: một số bãi yêu cầu đối chiếu số khung hoặc kiểm tra giấy tờ khi nghi ngờ xe không phải của người lấy. Mang theo giấy tờ tùy thân và biên bản thuê xe khi đi tham quan giúp việc nhận lại xe suôn sẻ. Về cách quản lý giấy tờ khi thuê xe, bạn có thể xem lại bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Những rắc rối thường gặp và cách xử lý
 

@@ -68,7 +68,7 @@ Các khung này chỉ mang tính tham khảo. Hãy đặt thể lực của chí
 
 ## Quãng đường và việc thuê xe
 
-Nếu đi bằng xe thuê, quãng đường dự kiến còn ảnh hưởng tới loại xe bạn nên chọn và cách tính giá thuê. Chuyến ngắn trong ngày, hầu như dòng xe nào trong danh mục của cửa hàng cũng đáp ứng được. Chuyến dài hoặc đi nhiều ngày, nên trao đổi trực tiếp với cửa hàng để chọn dòng xe phù hợp và hỏi rõ điều khoản khi dùng xe chạy đường dài. Bạn có thể xem trước các dòng xe và mức giá tại trang [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}), hoặc tham khảo trình tự thuê từ đầu đến cuối trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) của chúng tôi.
+Nếu đi bằng xe thuê, quãng đường dự kiến còn ảnh hưởng tới loại xe bạn nên chọn và cách tính giá thuê. Chuyến ngắn trong ngày, hầu như dòng xe nào trong danh mục của cửa hàng cũng đáp ứng được. Chuyến dài hoặc đi nhiều ngày, nên trao đổi trực tiếp với cửa hàng để chọn dòng xe phù hợp và hỏi rõ điều khoản khi dùng xe chạy đường dài. Bạn có thể xem trước các dòng xe và mức giá tại trang [bảng giá thuê xe máy]({{ '/bang-gia/' | relative_url }}), hoặc tham khảo trình tự thuê từ đầu đến cuối trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) của chúng tôi.
 
 Một lưu ý nhỏ: khi trả xe thuê, mức xăng cần về lại mức ban đầu, vì vậy hãy cộng lượng xăng cho cả chặng về vào ước tính của bạn, tránh đổ dư hoặc thiếu ở phút cuối.
 
