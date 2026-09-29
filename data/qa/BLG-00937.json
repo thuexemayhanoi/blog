@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-va-i-taxiung-dung-chi-phi-i-lai-noi-thanh.md",
   "content_sha256": "7c585a9671bae4d9e9852f0f0f65309fab1d012ae2657a68bf453c59791be1b4",
-  "matrix_row_sha256": "fa244bd55a02137f6aca292cf07acabbc080d543a6835b673599a082dd150412",
-  "result": "PASS"
+  "matrix_row_sha256": "2f98dafb797ba4ed6c3002c5a9c59076bb8193a6cf3293bbf4c191ae16bb1670",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

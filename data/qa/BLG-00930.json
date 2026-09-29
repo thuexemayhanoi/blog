@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-thue-rung-giat-khi-tang-toc-co-nen-tiep-tuc-i.md",
+  "source_path": "_posts/2026-09-29-xe-thue-rung-giat-khi-tang-toc-co-nen-tiep-tuc-i.md",
   "content_sha256": "1d29fcda62067c4f9cebbb67cd5e0bb92d936f55e8da88941aaf59eae1ba0d21",
-  "matrix_row_sha256": "ea12e681c35e18d55a426e8f98b030184c0151d91b0f74c894a7b688c7d85c27",
-  "result": "PASS"
+  "matrix_row_sha256": "97e1776d17ede2e0f9844eaf61dabf053a9f62cb95b333afdf8f7acc32ffbc1c",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

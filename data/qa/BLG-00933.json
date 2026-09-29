@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-bao-cua-hang-ngay-khi-nao-trong-luc-thue-xe.md",
+  "source_path": "_posts/2026-09-29-bao-cua-hang-ngay-khi-nao-trong-luc-thue-xe.md",
   "content_sha256": "b1809b5451bf0a6288e34943aed8e273fbef5e4dfa6f8f3759ab7f48db42529a",
-  "matrix_row_sha256": "777ea9fc6505ad073476d2ca731808bb7881f4cfa95f82c446db9a87efc45e78",
-  "result": "PASS"
+  "matrix_row_sha256": "fda318155c336df93a058b76114abad30f1d8a770324f2f84b3bb7ab44c8892b",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

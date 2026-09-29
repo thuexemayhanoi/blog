@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-mua-cao-iem-va-mua-thap-iem-gia-thue-khac-nhau-ra-sao.md",
+  "source_path": "_posts/2026-09-29-mua-cao-iem-va-mua-thap-iem-gia-thue-khac-nhau-ra-sao.md",
   "content_sha256": "82a51120c8ebba03c23b674ad9db66c47470a0065f5b1eb0f67adc803860505e",
-  "matrix_row_sha256": "b25bae746abc1894bfefbbcd112b40b9b38870ecd70f71133488fc6c979dff0e",
-  "result": "PASS"
+  "matrix_row_sha256": "833a8550ffc93fa4d1444f5aea844804992d3376b22189094a4089e7b84ca639",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:03+00:00"
 }

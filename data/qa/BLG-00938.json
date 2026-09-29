@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-theo-thang-3-thang-va-1-thang-nen-chon-kieu-nao.md",
+  "source_path": "_posts/2026-09-29-thue-theo-thang-3-thang-va-1-thang-nen-chon-kieu-nao.md",
   "content_sha256": "171d9fcf5247a14116118cb8c39614f616281119d35a04e0d9c1109ec9058da4",
-  "matrix_row_sha256": "4bc8ce1210e4912f8821c15db9e165ebd92b9ead7c491bf6e8bbf74bd3670c2c",
-  "result": "PASS"
+  "matrix_row_sha256": "db3a1b5f450e4a3e7db6f88ac56f18434374735402a1112c59329a753a96004b",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-29-phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao.md",
   "content_sha256": "242d5693d5f812956025e413b8a406de3b49b6c67fee8024117a75de63197825",
-  "matrix_row_sha256": "5ec89d801084bcecc22d67dcf426f3dae4a4ae13228fdf821acaea2f461f6bd6",
-  "result": "PASS"
+  "matrix_row_sha256": "0982325c8ac3c6457defcf5e32cf911b25b24d2cb839e4547c2e8c6ab196498a",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

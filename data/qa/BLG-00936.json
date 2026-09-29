@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-theo-ngay-va-thue-theo-tuan-chi-phi-khac-nhau-the-nao.md",
+  "source_path": "_posts/2026-09-29-thue-theo-ngay-va-thue-theo-tuan-chi-phi-khac-nhau-the-nao.md",
   "content_sha256": "d95b389059e279044c5d1a26740e31ab5613f14dca5f6f85df78e1b7c68f4493",
-  "matrix_row_sha256": "94a1d8c76b786c476c0cf621d9daf8899efa618c5450075bb2f40cf5acd83201",
-  "result": "PASS"
+  "matrix_row_sha256": "2da78fd82b5c95d64d405abeb60a5f1c0e800e2850ec5f1e56ddb0aff3323aa5",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-honda-vision-va-honda-air-blade-thue-dong-nao-phu-hop.md",
+  "source_path": "_posts/2026-09-29-honda-vision-va-honda-air-blade-thue-dong-nao-phu-hop.md",
   "content_sha256": "0bd30a0342a629510266e4229872c745efce163f915c7ce547d57dd92bb93976",
-  "matrix_row_sha256": "88765616c6799741874284f25245dd215de2b2204ea30a5965288eab87a28b0f",
-  "result": "PASS"
+  "matrix_row_sha256": "5593685648f73fbb029f69a71e3f2efdaa3b49530dccfc3a203211b98df0539a",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

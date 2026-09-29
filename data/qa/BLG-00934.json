@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-honda-wave-va-yamaha-sirius-thue-dong-nao.md",
+  "source_path": "_posts/2026-09-29-honda-wave-va-yamaha-sirius-thue-dong-nao.md",
   "content_sha256": "2392def2a041396960b30edf8f5894f1a4f923bbf6e12b712929c67bd660559e",
-  "matrix_row_sha256": "981920d766c60fc005e07d15c5f6e96d511b4f8173c3c4910758ecdbc6a51486",
-  "result": "PASS"
+  "matrix_row_sha256": "b76a72ce110b73a69b9b420b87da9ef8fcd091910846b6addd5f0fd8131cac26",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }

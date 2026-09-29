@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nhan-nham-xe-so-voi-xe-a-at-oi-xe-the-nao.md",
+  "source_path": "_posts/2026-09-29-nhan-nham-xe-so-voi-xe-a-at-oi-xe-the-nao.md",
   "content_sha256": "207821c03046abd53fc9ef5b56a4ca86c0f4790238589736337e677a0b780feb",
-  "matrix_row_sha256": "3bd0c99e1f9b6fcc779c7a66fe67fe1847c15fc6414ec8206a22046f46718fd7",
-  "result": "PASS"
+  "matrix_row_sha256": "639deed2b9c81c2d44a5e19d7f7352e6d3e4fa5422caef672d25d824ab8c464b",
+  "result": "PASS",
+  "published_at": "2026-09-29T19:17:02+00:00"
 }
