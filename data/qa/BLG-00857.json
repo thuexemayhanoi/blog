@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-an-nhe-truoc-chuyen-xe-dai-buoi-sang.md",
+  "source_path": "_posts/2026-09-29-an-nhe-truoc-chuyen-xe-dai-buoi-sang.md",
   "content_sha256": "b655c6d6e5d00c3f74f51f606be8a99d1a88b93aa7b6163419a5e4c03e9b035d",
-  "matrix_row_sha256": "230833ec453f90fb8e94b3e6c270589d07a50f85c470f9d96e2f4d8cf6bcb81f",
-  "result": "PASS"
+  "matrix_row_sha256": "3cb1588030343a443c4d28bffd85e95ba7915ca5b07e8d770bbeec338863bbad",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:30:25+00:00"
 }

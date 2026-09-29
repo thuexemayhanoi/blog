@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-o-ha-noi-gia-bao-nhieu-mot-ngay.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-o-ha-noi-gia-bao-nhieu-mot-ngay.md",
   "content_sha256": "f1a9a2da2bd8fcc8dd77c0a1681b84956d9e1349afdf8d2685d6e552c7bc2ca3",
-  "matrix_row_sha256": "ee497a898678381d247c09972c82279d8a01507e16f0a0043c1dcd7589b6213a",
-  "result": "PASS"
+  "matrix_row_sha256": "2244f6645689df5065b7cd749c0ed9ad72e1bd4a5b9f2f41c97e284a6414c1af",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:30:25+00:00"
 }

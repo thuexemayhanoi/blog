@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro.md",
+  "source_path": "_posts/2026-09-29-chay-xe-khi-ang-met-hay-thieu-ngu-rui-ro.md",
   "content_sha256": "a357b8faab78dd50eaf2e57be9565772710affe9bc31a1a334db2b09e9d2d66b",
-  "matrix_row_sha256": "297b8ffb30dc68b6cf17c51a969d3d8e44b6307b4a327d5b6f97b70b8f1722f7",
-  "result": "PASS"
+  "matrix_row_sha256": "3454d27b3c43aea42fe236466ff910fae9b43d165596def6f7420ec0b625bb07",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:30:24+00:00"
 }

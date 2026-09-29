@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-tuan-co-re-hon-thue-ngay-khong.md",
+  "source_path": "_posts/2026-09-29-thue-xe-tuan-co-re-hon-thue-ngay-khong.md",
   "content_sha256": "a14627764c8a1d7dad840d90edcdef8ab545bcc3f85e79eb9949b8006894ff91",
-  "matrix_row_sha256": "85d3203d05cabdb87f155961a1464976ba247e0705a54ec30f75f74d5b57a326",
-  "result": "PASS"
+  "matrix_row_sha256": "58f8a395444369bacdacd09b49d7fcbf26f9ddc3e4592c7cf6a2ce54c961aca5",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:30:25+00:00"
 }

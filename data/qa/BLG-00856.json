@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-au.md",
+  "source_path": "_posts/2026-09-29-mu-bao-hiem-sach-va-suc-khoe-da-au.md",
   "content_sha256": "eab12d59eb794a990754d95e428389b0f93d9249cb0457aad969748492f31779",
-  "matrix_row_sha256": "71252d373b281cde6aff6a1d1d068759d055f3ec8a52b7fa99ad9c1f7939e2a0",
-  "result": "PASS"
+  "matrix_row_sha256": "5acdd570c5679f349439a1f72dd21b0427ec97f2f7621ce0f909db1edc0f00c7",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:30:25+00:00"
 }
