@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-o-nham-xang-xe-may-ien-thi-sao.md",
+  "source_path": "_posts/2026-09-29-o-nham-xang-xe-may-ien-thi-sao.md",
   "content_sha256": "4a5a73f9a1f9ff8a1a61bd62c65cebd51d6df90d62ea65d706af962ada8f2380",
-  "matrix_row_sha256": "2b65ce1c63d809a82212bcbc17ecfc648bb9972a8f21b4c3ec48134443fdc483",
-  "result": "PASS"
+  "matrix_row_sha256": "b02e3d54458175ee4d2c3d1bec5d793f360a659121c67560666cc989f6a316c2",
+  "result": "PASS",
+  "published_at": "2026-09-29T10:22:23+00:00"
 }

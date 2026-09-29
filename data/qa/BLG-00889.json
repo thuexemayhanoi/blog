@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-lan-au-thue-xe-may-nen-chuan-bi-gi.md",
+  "source_path": "_posts/2026-09-29-lan-au-thue-xe-may-nen-chuan-bi-gi.md",
   "content_sha256": "769f745097be4d872aa6cc8cd6e1d5b4daefd1803de38b820d3692cc96d947df",
-  "matrix_row_sha256": "e2c567a4da40b4290fcc3da2a8e126a842084ed86db8f4ca5f3e8f62c1a10ce1",
-  "result": "PASS"
+  "matrix_row_sha256": "77cfe229e32db83e74dc17f0b6a6e7bfb25c1ef96601d84e8742fb8b2c9885c5",
+  "result": "PASS",
+  "published_at": "2026-09-29T10:22:23+00:00"
 }
