@@ -15,7 +15,7 @@ article_id: BLG-00787
 
 Mã Pí Lèng xe máy là một trong những trải nghiệm được nói nhiều nhất khi nhắc tới đèo Hà Giang: đèo trên trục quốc lộ 4C nối phố Đồng Văn với thị trấn Mèo Vạc, đường vắt qua vách đá, một bên là núi dựng, một bên là thung sâu nhìn xuống dòng Nho Quế. Đèo cao, cua gấp và thời tiết đổi nhanh, nên chạy đèo này bằng xe số đòi hỏi kỹ năng vào số đúng chứ không chỉ là can đảm. Bài này nói các chặng chính của đèo, cách vào số khi lên và khi xuống, xử lý sương mù và gió, cùng những chỗ dừng ven đèo hợp lệ. Khách đọc trước sẽ chạy đèo một cách chắc chắn, và phần ngắm cảnh sẽ còn nguyên sự choáng ngợp.
 
-## Chạy đèo Hà Giang: các chặng chính của Mã Pí Lèng
+## Chạy đèo Hà Giang bằng Mã Pí Lèng xe máy: các chặng chính
 
 Từ phố Đồng Văn, khách đi theo hướng Mèo Vạc trên quốc lộ 4C; sau các chặng dốc nối tiếp là vùng đèo chính, nơi đường uốn quanh vách và tầm nhìn mở ra thung sâu ven sông Nho Quế. Chặng lên đèo có nhiều dốc dài nối liền cua gấp; đỉnh đèo có đoạn đường hẹp và thường đông người dừng ngắm cảnh, nên khách canh tốc thấp từ xa thay vì phanh gấp sát chỗ đông. Chặng xuống về phía Mèo Vạc là phần dễ hỏng chuyến nhất: dốc dài, bánh xe liên tục, và có khúc cua ngoặt gắt sau các đoạn thẳng tưởng thoáng. Toàn đèo không dài lắm so với các cung lớn, nhưng mật độ cua trên mỗi ki-lô-mét cao, nên khách tính đèo theo số cua chứ đừng tính theo ki-lô-mét.
 
