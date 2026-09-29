@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-xe-ga-i-uoc-ha-giang-khong.md",
+  "source_path": "_posts/2026-09-28-xe-ga-i-uoc-ha-giang-khong.md",
   "content_sha256": "34969e115548e62bef423392101c0e280b59acca38aa840007ad8f533673a35e",
-  "matrix_row_sha256": "6a12c7691ba047f377ed78b628593c8bdb07427aca804ce454b1748c9490a90a",
-  "result": "PASS"
+  "matrix_row_sha256": "f833ce99d9cf201ace667f7072dc68873d27fc7c2d1c7e270b8d632fc7a6d2c8",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:06:02+00:00"
 }

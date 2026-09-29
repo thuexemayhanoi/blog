@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chay-eo-ma-pi-leng-bang-xe-so-an-toan.md",
+  "source_path": "_posts/2026-09-28-chay-eo-ma-pi-leng-bang-xe-so-an-toan.md",
   "content_sha256": "42da8a99a77201102e3a395e0b642049842db203d974a7e1d803250226ae3690",
-  "matrix_row_sha256": "c286120d806f303b4197a44279bc5539b326ed4cc3cdad30cc3b0d6d421424aa",
-  "result": "PASS"
+  "matrix_row_sha256": "cfba0d740fbf9376b43660fdf3d46035a71a678d8e4ffaaa057a6c438da27bcc",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:06:02+00:00"
 }

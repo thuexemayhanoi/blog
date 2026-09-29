@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-cung-tam-giac-mau-due-pho-bang-lo-xo-i-the-nao.md",
+  "source_path": "_posts/2026-09-28-cung-tam-giac-mau-due-pho-bang-lo-xo-i-the-nao.md",
   "content_sha256": "5fd59712bc004a77d97a328a9b0949700335be47da92537a32153cb88f38b55c",
-  "matrix_row_sha256": "fd7285c4072f7cd96c282a1fe686c3ef69756f6c9cf367aebb7ad02193046826",
-  "result": "PASS"
+  "matrix_row_sha256": "843530df58c1acf3b817709079d362d170a96431daea3cd49ad9a642e2e4fe06",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:06:02+00:00"
 }

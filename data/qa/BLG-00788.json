@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-the-thong-hanh-va-giay-to-khi-i-ha-giang.md",
+  "source_path": "_posts/2026-09-28-the-thong-hanh-va-giay-to-khi-i-ha-giang.md",
   "content_sha256": "01c9c8587fbd3d79edced66a561e3e140d4c93cb239581a4bcc53fe04c44a6bb",
-  "matrix_row_sha256": "69a278c43c7547c0b54696cedca5cdfecdbd871b9ea3e37518118b6e0c2e1030",
-  "result": "PASS"
+  "matrix_row_sha256": "f65554d2b7460ad76e03f4c25caeb2eab49aa0d63a85892a7b5aace60c55adc0",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:06:02+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-28-chuan-bi-xe-may-i-ha-giang-tu-nha-xe-thue.md",
+  "source_path": "_posts/2026-09-28-chuan-bi-xe-may-i-ha-giang-tu-nha-xe-thue.md",
   "content_sha256": "cb1f30b494ed8ab545a912940f3046f0c3c040e8398794f717484d16bcb8f32c",
-  "matrix_row_sha256": "92959b3aefdd22dbc9cb7c5b90461d59f2c40b38adcb552356403372ea028b04",
-  "result": "PASS"
+  "matrix_row_sha256": "8cac6d739fe694ae928ccc6dc6eb3304f769a9d85b6ceba330785bbe7d7803c2",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:06:02+00:00"
 }

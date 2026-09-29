@@ -1,6 +1,0 @@
-{
-    "op": "publish",
-    "ids": "BLG-00785,BLG-00786,BLG-00787,BLG-00788,BLG-00789",
-    "command_id": "campaign10k-r5-chunk3-publish",
-    "coordinator": "campaign-10k-round5"
-}
