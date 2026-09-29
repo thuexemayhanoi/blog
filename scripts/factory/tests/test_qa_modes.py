@@ -91,39 +91,43 @@ def first_published_planned(fx):
                 if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:'))
 
 
-def borrow_planned_row(fx):
+def borrow_planned_row(fx, count=1):
     """Hermetic khi queue cạn: repo thật có thể đã publish hết hàng planned
-    (không còn PLANNED, không còn chunk đang làm). Mượn MỘT hàng
-    planned:PUBLISHED của BẢN SAO về đúng trạng thái TRƯỚC promote: xóa
-    bài _posts + evidence QA tương ứng trong bản sao, trả hàng về PLANNED,
-    hạ in_progress_chunk, đồng bộ checkpoint và tái sinh outputs
-    deterministic (như pause an toàn). No-op khi còn hàng PLANNED thật.
+    (không còn PLANNED, không còn chunk đang làm). Mượn ĐỦ `count` hàng
+    planned:PUBLISHED của BẢN SAO về đúng trạng thái TRƯỚC promote (top-up:
+    chỉ mượn phần thiếu so với số hàng PLANNED đã có): xóa bài _posts +
+    evidence QA tương ứng trong bản sao, trả hàng về PLANNED, hạ
+    in_progress_chunk, đồng bộ checkpoint và tái sinh outputs
+    deterministic (như pause an toàn). No-op khi đã đủ hàng PLANNED thật.
     Repo thật KHÔNG bị đụng."""
     rows = matrix_rows(fx)
-    if any(r['status'] == 'PLANNED' for r in rows):
+    need = count - sum(1 for r in rows if r['status'] == 'PLANNED')
+    if need <= 0:
         return
-    print('::notice::[diag] borrow_planned_row: borrowing', flush=True)
     cp = cp_json(fx, 'data/state/checkpoint.json')
     cands = [x for x in rows
              if x['status'] == 'PUBLISHED'
              and x['source'].startswith('planned:')]
-    assert cands, 'không còn PLANNED và không có hàng planned:PUBLISHED để mượn'
-    r = cands[0]
-    post = os.path.join(fx, r['output_path'])
-    if os.path.exists(post):
-        os.remove(post)
-    evp = os.path.join(fx, 'data', 'qa', r['id'] + '.json')
-    if os.path.exists(evp):
-        os.remove(evp)
+    assert len(cands) >= need, ('không còn đủ hàng planned:PUBLISHED để '
+                                'mượn (cần %d, có %d)' % (need, len(cands)))
+    taken = cands[:need]
+    for r in taken:
+        post = os.path.join(fx, r['output_path'])
+        if os.path.exists(post):
+            os.remove(post)
+        evp = os.path.join(fx, 'data', 'qa', r['id'] + '.json')
+        if os.path.exists(evp):
+            os.remove(evp)
+    taken_ids = set(r['id'] for r in taken)
     for x in rows:
-        if x['id'] == r['id']:
+        if x['id'] in taken_ids:
             x['status'] = 'PLANNED'
     save_matrix(fx, rows)
     counts = {}
     for x in rows:
         counts[x['status']] = counts.get(x['status'], 0) + 1
     cp['in_progress_chunk'] = None
-    nc = r['id']
+    nc = min(x['id'] for x in taken)
     cur = cp.get('next_claimable_id')
     if cur is None or nc < cur:
         cp['next_claimable_id'] = nc
@@ -143,7 +147,6 @@ def borrow_planned_row(fx):
                    'generate-listing-pages.py'):
         rr = run_py(['scripts/factory/' + script], fx)
         assert rr.returncode == 0, script + ': ' + rr.stdout + rr.stderr
-    print('::notice::[diag] borrow_planned_row: done', flush=True)
 
 
 # draft mẫu đạt gate cho hàng cho trước. Sau QA hardening của engine,
@@ -392,15 +395,9 @@ class FxTestCase(unittest.TestCase):
             cp['in_progress_chunk'] = sorted(chunk)
             write_json(self.fx, 'data/state/checkpoint.json', cp)
         self.pause_in_progress_chunk()
-        print('::notice::[diag] ensure_writing_chunk: paused', flush=True)
-        # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
-        borrow_planned_row(self.fx)
+        # Queue cạn (không đủ PLANNED): mượn thêm hàng trong bản sao.
+        borrow_planned_row(self.fx, count)
         r = self.operator('prepare-next', '--count', str(count))
-        if r.returncode != 0:
-            fails = [ln for ln in r.stdout.splitlines()
-                     if ln.startswith('FAIL:')][:4]
-            print('::notice::[diag] prepare-next rc=%s fails=%r tail=%r'
-                  % (r.returncode, fails, r.stdout[-200:]), flush=True)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
 

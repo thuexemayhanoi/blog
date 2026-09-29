@@ -282,7 +282,9 @@ def main():
     # reset về PLANNED/{date} placeholder. Chỉ áp cho id trùng.
     if os.path.exists(OUT_PATH):
         with open(OUT_PATH, encoding='utf-8', newline='') as f:
-            old_rows = {r['id']: r for r in csv.DictReader(f)}
+            _old = list(csv.DictReader(f))
+        old_rows = {r['id']: r for r in _old}
+        old_pos = {r['id']: i for i, r in enumerate(_old)}
         for r in rows:
             o = old_rows.get(r['id'])
             if o is None:
@@ -300,6 +302,12 @@ def main():
                 # internal_links giữ nguyên bằng chứng tại thời điểm promote.
                 if o['status'] == 'PUBLISHED' and o.get('internal_links'):
                     r['internal_links'] = o['internal_links']
+        # Giữ nguyên thứ tự hàng của file cũ (idempotent): tái sinh theo
+        # seed có thể đổi thứ tự file khi seed bổ sung hàng giữa các
+        # child, làm lệch bất biến "batch_id không giảm theo thứ tự
+        # file" mà validate kiểm ở mọi scope. Hàng đã có giữ vị trí cũ;
+        # hàng mới (id chưa có trong file cũ) nối cuối theo thứ tự sinh.
+        rows.sort(key=lambda r: old_pos.get(r['id'], len(old_pos)))
 
     fields = ['id', 'status', 'title', 'intent', 'primary_keyword', 'secondary_keywords',
               'parent_id', 'child_id', 'group', 'expected_url', 'output_path',
