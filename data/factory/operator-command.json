@@ -1,0 +1,6 @@
+{
+  "op": "prepare-next",
+  "count": 5,
+  "command_id": "campaign10k-resume-chunk13-prepare",
+  "coordinator": "campaign-10k-round6"
+}
