@@ -37,7 +37,7 @@ Người thuê xe thường mang theo nhiều đồ hơn bình thường: mũ b�
 
 Một là để bằng lái và căn cước công dân trong cùng một ngăn cố định của ví, mỗi lần đổi quần áo là kiểm tra lại. Hai là chụp ảnh hai mặt giấy phép lái xe, lưu vào một album riêng trên điện thoại để khi cần đối chiếu thông tin là có ngay. Ba là đặt ba vật bất li thân lên bàn trước cửa ra vào mỗi tối: điện thoại, ví, chìa khóa xe, và mỗi sáng cầm đủ ba vật mới nổ máy. Việc kiểm tra chỉ mất khoảng mười giây mỗi ngày nhưng giúp bạn không bao giờ rơi vào tình huống quên bằng lái làm sao không kịp nữa giữa đường.
 
-## Hỏi nhanh về quên bằng lái trên xe thuê
+## Quên bằng lái làm sao và các câu hỏi thường gặp
 
 Ảnh bằng lái trên điện thoại có thay thế được bản gốc không? Trong nhiều trường hợp người có thẩm quyền kiểm tra thêm dữ liệu trên hệ thống, song bạn vẫn nên chuẩn bị tinh thần là ảnh chỉ hỗ trợ giải trình chứ không thay thế bản gốc.
 
