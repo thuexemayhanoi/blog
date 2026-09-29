@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan.md",
+  "source_path": "_posts/2026-09-29-ket-xe-gio-cao-iem-noi-thanh-ky-nang-i-xe-may-an-toan.md",
   "content_sha256": "d04466afe3f42a9f270077abc2f00388fe0572942ab9092257ed76d0b8e2a294",
-  "matrix_row_sha256": "8d80d58681def18a788cbe9f97dae1e093343633092732843bd4f39f63637988",
-  "result": "PASS"
+  "matrix_row_sha256": "8e876726b05ecb152b931bb2662b07cc16dbb8c3770d0ce0bd21bc35f9b37d86",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:33:54+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-tai-chuyen-lan-ot-ngot-tranh-sao.md",
+  "source_path": "_posts/2026-09-29-xe-tai-chuyen-lan-ot-ngot-tranh-sao.md",
   "content_sha256": "768a1a5d92ec1125323595e07fd20cedecd38ea2e048cb4608f983eb4d383943",
-  "matrix_row_sha256": "ce5c92cf03191b451247e20ccd5b70951feaef1e5bd526475492a451814a57e0",
-  "result": "PASS"
+  "matrix_row_sha256": "5eb610cb8f9fcdbd3c6f87a91ee6ec114dded7695f5b337b8bab8a521db3b13b",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:33:54+00:00"
 }

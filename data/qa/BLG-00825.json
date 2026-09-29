@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nguoi-i-bo-bong-xuat-hien-cach-phan-ung.md",
+  "source_path": "_posts/2026-09-29-nguoi-i-bo-bong-xuat-hien-cach-phan-ung.md",
   "content_sha256": "6581c95a18ce35e1ef4b37a7f1643da39687e2f4831e685cbefb329b4cb0b0dd",
-  "matrix_row_sha256": "21f61dce9ac565f8c0caca9d9fad472295970c31c263b9f6a94371ea6a99ce9b",
-  "result": "PASS"
+  "matrix_row_sha256": "6748221d177055fd18bfb928b94e6ef988ce834b2a9eaff6c77553c861bcbdc8",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:33:53+00:00"
 }

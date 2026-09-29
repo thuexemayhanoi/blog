@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-troi-mua-lon-giam-toc-va-en.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-troi-mua-lon-giam-toc-va-en.md",
   "content_sha256": "b4976219954237230403b239a15a5d50d6f50d23f2298d79727675250b9968a8",
-  "matrix_row_sha256": "b74017a228df0f051479e4bbaf5a9e61fd8d78de012295527155b3cfb948294e",
-  "result": "PASS"
+  "matrix_row_sha256": "c573718be37133cb98b80ba249a9307d13c512ddb73410403aae6c994ea8d340",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:33:54+00:00"
 }
