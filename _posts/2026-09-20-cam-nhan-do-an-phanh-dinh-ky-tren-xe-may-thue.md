@@ -37,7 +37,7 @@ Với xe thuê, phanh thuộc nhóm bộ phận không nên tự tháo vặn. Vi
 
 ## Ghi chép nhỏ trong suốt kỳ thuê dài hạn
 
-Với kỳ thuê nhiều tuần, đáng mở một ghi chú nhỏ trong điện thoại về chiếc xe: hôm nào phát hiện gì, tiếng gì, cảm giác phanh thay đổi ra sao. Các ghi chú dòng một này giúp bạn nhận ra xu hướng mà trí nhớ hàng ngày dễ bỏ sót, và khi trao đổi với cửa hàng, chuỗi ghi chép theo thời gian là mô tả tốt nhất mà một thợ nào cũng thích nhận. Đây cũng là cách bạn tự bảo vệ mình: nếu có tranh luận về tình trạng xe lúc trả, các ghi chú kèm ngày tháng cho thấy bạn đã báo sớm và đều đặn. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc các bộ phận khác của xe thuê, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) cho các bước kiểm tra buổi nhận xe.
+Với kỳ thuê nhiều tuần, đáng mở một ghi chú nhỏ trong điện thoại về chiếc xe: hôm nào phát hiện gì, tiếng gì, cảm giác phanh thay đổi ra sao. Các ghi chú dòng một này giúp bạn nhận ra xu hướng mà trí nhớ hàng ngày dễ bỏ sót, và khi trao đổi với cửa hàng, chuỗi ghi chép theo thời gian là mô tả tốt nhất mà một thợ nào cũng thích nhận. Đây cũng là cách bạn tự bảo vệ mình: nếu có tranh luận về tình trạng xe lúc trả, các ghi chú kèm ngày tháng cho thấy bạn đã báo sớm và đều đặn. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc các bộ phận khác của xe thuê, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) cho các bước kiểm tra buổi nhận xe.
 
 ## Truyền cảm nhận phanh cho người ngồi sau
 

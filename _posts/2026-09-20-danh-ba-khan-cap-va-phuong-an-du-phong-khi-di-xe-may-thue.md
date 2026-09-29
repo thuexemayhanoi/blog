@@ -43,7 +43,7 @@ Người đi xe máy nhiều giờ mỗi ngày trong khí hậu Hà Nội dễ g
 
 ## Khi điện thoại là phương án duy nhất: hãy cho nó phương án riêng
 
-Hầu hết mọi phương án dự phòng hiện đại đều phụ thuộc chiếc điện thoại: bản đồ, danh bạ, ví điện tử. Vì vậy, chiếc điện thoại cần dự phòng của riêng nó. Sạc dự phòng sạc đầy mỗi tối là bước căn bản. Tải sẵn bản đồ ngoại tuyến cho khu vực hay đi giúp bạn không chết máy định vị khi vùng mạng yếu. Ghi số của cửa hàng thuê và một người thân ra giấy như đã nói ở trên là lớp cuối. Người hay đi đường dài còn có thói quen tắt bớt các ứng dụng chạy ngầm trước chặng xa để pin trụ lâu hơn. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về các tình huống sự cố thường gặp, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) nếu bạn mới thuê xe và muốn nắm các lưu ý nền tảng.
+Hầu hết mọi phương án dự phòng hiện đại đều phụ thuộc chiếc điện thoại: bản đồ, danh bạ, ví điện tử. Vì vậy, chiếc điện thoại cần dự phòng của riêng nó. Sạc dự phòng sạc đầy mỗi tối là bước căn bản. Tải sẵn bản đồ ngoại tuyến cho khu vực hay đi giúp bạn không chết máy định vị khi vùng mạng yếu. Ghi số của cửa hàng thuê và một người thân ra giấy như đã nói ở trên là lớp cuối. Người hay đi đường dài còn có thói quen tắt bớt các ứng dụng chạy ngầm trước chặng xa để pin trụ lâu hơn. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về các tình huống sự cố thường gặp, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) nếu bạn mới thuê xe và muốn nắm các lưu ý nền tảng.
 
 ## Rà soát lại danh bạ mỗi tháng một lần
 

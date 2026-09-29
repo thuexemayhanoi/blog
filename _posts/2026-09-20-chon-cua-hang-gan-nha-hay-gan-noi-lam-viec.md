@@ -51,7 +51,7 @@ Cách thực dụng để quyết định: vẽ tuyến đi lại hằng ngày c
 
 ## Kết hợp với việc chọn dòng xe và gói giá
 
-Vị trí cửa hàng là một biến số trong bài toán lớn hơn gồm dòng xe, gói giá và điều khoản. Xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh các gói theo tháng giữa các dòng, đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về quy trình thuê an toàn, và nếu bạn quanh khu vực Long Biên, Gia Lâm hoặc các khu phía Đông, có thể tham khảo thêm bài về [thuê xe máy ở khu Bồ Đề Long Biên]( {{ '/kinh-nghiem/' | relative_url }}). Với câu hỏi về khung giờ, giao nhận và các điều kiện cụ thể, trang [liên hệ]( {{ '/lien-he/' | relative_url }}) là nơi trao đổi trực tiếp trước khi chốt.
+Vị trí cửa hàng là một biến số trong bài toán lớn hơn gồm dòng xe, gói giá và điều khoản. Xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh các gói theo tháng giữa các dòng, đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về quy trình thuê an toàn, và nếu bạn quanh khu vực Long Biên, Gia Lâm hoặc các khu phía Đông, có thể tham khảo thêm bài về [thuê xe máy ở khu Bồ Đề Long Biên]( {{ '/kinh-nghiem/' | relative_url }}). Với câu hỏi về khung giờ, giao nhận và các điều kiện cụ thể, trang [liên hệ]( {{ '/lien-he/' | relative_url }}) là nơi trao đổi trực tiếp trước khi chốt.
 
 Cửa hàng gần không phải cửa hàng tốt, và cửa hàng tốt không nhất thiết gần. Người thuê dài hạn chọn được cả hai, hoặc biết mình đánh đổi gì để chọn đúng ưu tiên của chính mình.
 ## Khi điều kiện thay đổi giữa kỳ dài hạn

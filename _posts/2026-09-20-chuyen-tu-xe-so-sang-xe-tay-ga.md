@@ -53,7 +53,7 @@ Người chuyển từ xe số thường kiểm tra xe ga qua lăng kính kinh n
 
 ## Kết lại: cho bản thân một tuần
 
-Chuyển từ xe số sang xe ga không khó, nhưng không tức thời: nó cần một tuần của sự chủ động. Tập ba thao tác trước khi ra đường, đi chậm hơn phản xạ cũ mách bảo, xuất phát sớm, và kết thúc tuần đầu bằng một chuyến đi dài nhẹ nhàng để thưởng thức thứ mà xe số không cho: sự êm và sự rảnh của hai bàn chân. Với những ai cân nhắc trước khi thuê, bài về [xe số, xe tay ga và xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) cho bức tranh chọn lựa, [bảng giá thuê xe ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) cho mức tham khảo, và trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để hỏi về những dòng xe ga nhẹ nhàng cho người mới chuyển.
+Chuyển từ xe số sang xe ga không khó, nhưng không tức thời: nó cần một tuần của sự chủ động. Tập ba thao tác trước khi ra đường, đi chậm hơn phản xạ cũ mách bảo, xuất phát sớm, và kết thúc tuần đầu bằng một chuyến đi dài nhẹ nhàng để thưởng thức thứ mà xe số không cho: sự êm và sự rảnh của hai bàn chân. Với những ai cân nhắc trước khi thuê, bài về [xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) cho bức tranh chọn lựa, [bảng giá thuê xe ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) cho mức tham khảo, và trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để hỏi về những dòng xe ga nhẹ nhàng cho người mới chuyển.
 
 Mười năm xe số không bị lãng phí khi bạn lên xe ga: mọi kỹ năng quan sát, giữ khoảng cách và đọc đường đều theo bạn sang. Chỉ có hai bàn chân và bàn tay ga cần học lại, và chúng học nhanh hơn bạn nghĩ.
 ## Về tâm lý của tuần chuyển đổi

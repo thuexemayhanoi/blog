@@ -57,7 +57,7 @@ Hỏi: Tôi đi tỉnh xa được không? Trả lời: Với các chặng ven t
 
 ## Còn thắc mắc thì hỏi ở đâu
 
-Mọi câu hỏi cụ thể nhất, từ tình trạng xe hiện có đến phương án cho lịch trình đặc biệt, đều được giải đáp nhanh qua điện thoại hoặc Zalo số 0942 467 674, trong khung giờ từ 09:00 đến 21:00 hàng ngày. Bạn cũng có thể xem trước [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), trang [liên hệ]( {{ '/lien-he/' | relative_url }}), hoặc đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để có bối cảnh đầy đủ trước khi gọi.
+Mọi câu hỏi cụ thể nhất, từ tình trạng xe hiện có đến phương án cho lịch trình đặc biệt, đều được giải đáp nhanh qua điện thoại hoặc Zalo số 0942 467 674, trong khung giờ từ 09:00 đến 21:00 hàng ngày. Bạn cũng có thể xem trước [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), trang [liên hệ]( {{ '/lien-he/' | relative_url }}), hoặc đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để có bối cảnh đầy đủ trước khi gọi.
 
 Hỏi: Tôi muốn thuê hai chiếc trở lên cho nhóm thì thế nào? Trả lời: Hoàn toàn được, nhưng hãy báo trước số lượng và dòng xe để cửa hàng chuẩn bị. Với nhóm đông, mức cọc tính theo từng xe, và việc một người đứng ra chốt toàn bộ giúp quá trình nhận xe nhanh hơn. Kinh nghiệm đi lại theo nhóm được trình bày chi tiết trong các bài viết về thuê xe cho nhóm và gia đình.
 

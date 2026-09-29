@@ -45,7 +45,7 @@ Chỉnh đúng gương mới là một nửa; nửa còn lại là cách dùng. 
 
 Trẻ nhỏ và người mới tập đi xe máy hay mắc lỗi ngược lại: chỉ nhìn gương mà quên liếc vai, hoặc nhìn gương quá lâu khiến xe trôi lệch làn. Nếu bạn đang giúp một người nhà làm quen với xe, hãy tập cho họ chu trình ngắn: gương, vai, tín hiệu, hành động. Bốn bước lặp lại thành phản xạ là nền tảng an toàn khi đi trong phố đông. Các tình huống giao thông đặc thù của thủ đô được chia sẻ thêm trong nhóm bài tại mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}).
 
-Với người mới đến Hà Nội và bắt đầu một kỳ thuê dài hạn, việc làm quen xe trong hai mươi bốn giờ đầu, trong đó có chỉnh gương, là một trong những việc đáng làm sớm. Các nguyên tắc tổng quát khi nhận xe nằm trong bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}). Gương chiếm đúng ba mươi giây trong quy trình kiểm tra nhanh mỗi sáng nhưng trả lại giá trị suốt cả ngày.
+Với người mới đến Hà Nội và bắt đầu một kỳ thuê dài hạn, việc làm quen xe trong hai mươi bốn giờ đầu, trong đó có chỉnh gương, là một trong những việc đáng làm sớm. Các nguyên tắc tổng quát khi nhận xe nằm trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/). Gương chiếm đúng ba mươi giây trong quy trình kiểm tra nhanh mỗi sáng nhưng trả lại giá trị suốt cả ngày.
 
 ## Gương và các tình huống đặc biệt
 

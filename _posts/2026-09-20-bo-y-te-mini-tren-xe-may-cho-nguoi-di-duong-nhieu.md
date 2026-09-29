@@ -41,7 +41,7 @@ Về thay mới, gạc và băng có hạn dùng in trên bao bì, nước muố
 
 Cần nói thẳng phần này. Bộ y tế mini không thay thế cấp cứu. Các tình huống cần gọi cấp cứu hoặc nhờ người đưa đến cơ sở y tế ngay: chấn mạnh vào đầu dù người còn tỉnh, mất ý thức dù chỉ vài giây, đau dữ dội ở ngực hoặc bụng, gãy xương rõ ràng, vết thương chảy máu nhiều không cầm. Trong những trường hợp này, việc đúng là gọi hỗ trợ và giữ người bị nạn nằm bất động, không cho uống gì, không di chuyển nếu nghi chấn thương cột sống.
 
-Với tai nạn có người khác liên quan, giữ bình tĩnh, đưa xe và người vào lề an toàn trước, rồi mới trao đổi. Va chạm nhẹ không thương tích thì ghi lại thông tin và hình ảnh hiện trường. Nếu bạn đang đi xe thuê, báo cửa hàng sau khi ổn định tình huống người bị ảnh hưởng; một số quy trình về va chạm khi dùng xe thuê được nói rõ hơn trong bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Với tai nạn có người khác liên quan, giữ bình tĩnh, đưa xe và người vào lề an toàn trước, rồi mới trao đổi. Va chạm nhẹ không thương tích thì ghi lại thông tin và hình ảnh hiện trường. Nếu bạn đang đi xe thuê, báo cửa hàng sau khi ổn định tình huống người bị ảnh hưởng; một số quy trình về va chạm khi dùng xe thuê được nói rõ hơn trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Gắn bộ y tế vào thói quen đi đường
 

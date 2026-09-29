@@ -47,4 +47,4 @@ Nếu kế hoạch của bạn gồm chở hàng cồng kềnh hoặc đi xa v�
 
 ## Kết lại
 
-Giới hạn chở của xe máy không phải con số trên giấy mà là lúc phanh còn đủ, tay lái còn nhẹ, và xe còn giữ thăng bằng khi dừng. Vượt quá mức đó, chi phí thật nằm ở rủi ro chứ không ở khoản tiết kiệm được. Nếu bạn cần tư vấn loại xe phù hợp với nhu cầu chở của mình, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chở đồ và đi lại an toàn.
+Giới hạn chở của xe máy không phải con số trên giấy mà là lúc phanh còn đủ, tay lái còn nhẹ, và xe còn giữ thăng bằng khi dừng. Vượt quá mức đó, chi phí thật nằm ở rủi ro chứ không ở khoản tiết kiệm được. Nếu bạn cần tư vấn loại xe phù hợp với nhu cầu chở của mình, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chở đồ và đi lại an toàn.

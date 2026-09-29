@@ -41,7 +41,7 @@ Nếu đau kéo dài, tê lan xuống chân, hoặc đau tăng dần theo tuần
 
 ## Tổ hợp lại thành thói quen hằng ngày
 
-Tóm lại, việc giảm đau lưng vai cổ cho người đi xe nhiều gồm bốn lớp: chỉnh xe cho vừa người ngay buổi đầu, giữ tư thế trung tính khi lái, giãn cơ theo nhịp chặng, và rèn sức bền ngoài giờ. Không lớp nào thay thế được lớp khác, nhưng cùng làm thì sau vài tuần, phần lớn cảm giác mỏi quen thuộc sẽ nhạt đi. Cơ thể là công cụ làm việc của người đi đường, và chăm nó cũng là một dạng bảo dưỡng phương tiện. Bạn có thể tham khảo thêm [chia sẻ]( {{ '/chia-se/' | relative_url }}) về các trải nghiệm đi lại dài hạn, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về việc chọn xe phù hợp với nhu cầu và thân hình.
+Tóm lại, việc giảm đau lưng vai cổ cho người đi xe nhiều gồm bốn lớp: chỉnh xe cho vừa người ngay buổi đầu, giữ tư thế trung tính khi lái, giãn cơ theo nhịp chặng, và rèn sức bền ngoài giờ. Không lớp nào thay thế được lớp khác, nhưng cùng làm thì sau vài tuần, phần lớn cảm giác mỏi quen thuộc sẽ nhạt đi. Cơ thể là công cụ làm việc của người đi đường, và chăm nó cũng là một dạng bảo dưỡng phương tiện. Bạn có thể tham khảo thêm [chia sẻ]( {{ '/chia-se/' | relative_url }}) về các trải nghiệm đi lại dài hạn, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về việc chọn xe phù hợp với nhu cầu và thân hình.
 
 ## Mưa gió và cơ bắp: mùa đông của người đi xe
 

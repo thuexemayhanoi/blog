@@ -51,7 +51,7 @@ Nếu lỡ làm rơi đồ gây trầy xước nhẹ xe, cách xử lý trung th
 
 Người thuê theo tháng nên hình thành thói quen kiểm tra sau mỗi chuyến mua sắm lớn: quai túi còn buộc chặt không, có túi nào chảy nước không, giá sau có lỏng sau lần chở nặng không. Ba mươi giây kiểm tra giúp phát hiện sớm những hư hỏng nhỏ trước khi chúng lớn lên, và giữ chiếc xe ở tình trạng tốt suốt kỳ thuê.
 
-Nếu nhu cầu chở đồ là thường xuyên và khối lượng lớn, hãy cân nhắc chọn dòng xe có cốp rộng hoặc có sẵn thùng sau khi thuê, và tham khảo [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh giữa các dòng. Bài viết về cách [chọn giữa xe số, xe tay ga và xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) cũng phân tích thêm về đặc điểm chứa đồ của từng loại. Với câu hỏi về xe có trang bị thùng hay giá để đồ, hãy hỏi trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) trước khi đặt.
+Nếu nhu cầu chở đồ là thường xuyên và khối lượng lớn, hãy cân nhắc chọn dòng xe có cốp rộng hoặc có sẵn thùng sau khi thuê, và tham khảo [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh giữa các dòng. Bài viết về cách [chọn giữa xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) cũng phân tích thêm về đặc điểm chứa đồ của từng loại. Với câu hỏi về xe có trang bị thùng hay giá để đồ, hãy hỏi trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) trước khi đặt.
 
 Chở đồ đi chợ là việc nhỏ, nhưng làm đúng mỗi ngày giúp kỳ thuê xe của bạn không có sự cố đáng nhớ nào, và đó chính là mục tiêu thực tế nhất của người đi xe thuê.
 ## Xếp đồ khi có người ngồi sau cùng đi chợ

@@ -55,7 +55,7 @@ Với người thuê dài hạn, khuôn lịch trình này còn giúp ước lư
 
 Chiến lược giờ cao điểm nên được tính ngay từ lúc chọn loại xe thuê. Xe ga nhàn hơn trong dòng xe dừng đi liên tục, cốp kín giữ đồ khô khi mưa bất chợt; xe số rẻ hơn theo ngày và nhẹ hơn khi luồn lách, nhưng đòi hỏi thể lực trên tuyến nhiều đèn đỏ. So sánh chi phí theo tháng giữa các dòng tại [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) giúp quyết định dựa trên tổng thể chứ không chỉ giá niêm yết.
 
-Với người mới đến Hà Nội, bài viết về [khám phá Hà Nội bằng xe máy cho người mới]({% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}) là nền tảng tốt trước khi đi sâu vào chiến lược cao điểm. Còn những câu hỏi về loại xe phù hợp tuyến đường cụ thể của bạn, hãy hỏi qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để được tư vấn trước khi nhận xe.
+Với người mới đến Hà Nội, bài viết về [khám phá Hà Nội bằng xe máy cho người mới]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) là nền tảng tốt trước khi đi sâu vào chiến lược cao điểm. Còn những câu hỏi về loại xe phù hợp tuyến đường cụ thể của bạn, hãy hỏi qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để được tư vấn trước khi nhận xe.
 
 Giờ cao điểm là phần tất yếu của việc sống và làm việc ở Hà Nội, nhưng với chiến lược đúng, nó chỉ còn là khoảng thời gian ngồi trên yên xe và nghe thành phố thở.
 ## Những sai lầm thường thấy trong giờ cao điểm

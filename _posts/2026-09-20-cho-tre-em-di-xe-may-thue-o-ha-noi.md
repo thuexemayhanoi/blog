@@ -55,7 +55,7 @@ Cuối cùng, hãy nhớ rằng trẻ học từ cha mẹ: con thấy bạn đ�
 
 ## Tóm lại
 
-Cho trẻ đi xe máy thuê an toàn khi trang bị đúng cỡ, chọn xe và tuyến phù hợp, lái dịu hơn bình thường và chuẩn bị tinh thần cho con. Mọi thắc mắc về ghế chuyên dụng, mũ trẻ em và dòng xe phù hợp cho gia đình đều được giải đáp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Bạn cũng có thể xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) và tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) khi lên kế hoạch cho chuyến đi của cả nhà.
+Cho trẻ đi xe máy thuê an toàn khi trang bị đúng cỡ, chọn xe và tuyến phù hợp, lái dịu hơn bình thường và chuẩn bị tinh thần cho con. Mọi thắc mắc về ghế chuyên dụng, mũ trẻ em và dòng xe phù hợp cho gia đình đều được giải đáp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Bạn cũng có thể xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) và tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) khi lên kế hoạch cho chuyến đi của cả nhà.
 
 ## Câu hỏi phụ huynh hay hỏi nhất
 
