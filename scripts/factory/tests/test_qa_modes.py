@@ -91,6 +91,59 @@ def first_published_planned(fx):
                 if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:'))
 
 
+def borrow_planned_row(fx):
+    """Hermetic khi queue cạn: repo thật có thể đã publish hết hàng planned
+    (không còn PLANNED, không còn chunk đang làm). Mượn MỘT hàng
+    planned:PUBLISHED của BẢN SAO về đúng trạng thái TRƯỚC promote: xóa
+    bài _posts + evidence QA tương ứng trong bản sao, trả hàng về PLANNED,
+    hạ in_progress_chunk, đồng bộ checkpoint và tái sinh outputs
+    deterministic (như pause an toàn). No-op khi còn hàng PLANNED thật.
+    Repo thật KHÔNG bị đụng."""
+    rows = matrix_rows(fx)
+    if any(r['status'] == 'PLANNED' for r in rows):
+        return
+    cp = cp_json(fx, 'data/state/checkpoint.json')
+    cands = [x for x in rows
+             if x['status'] == 'PUBLISHED'
+             and x['source'].startswith('planned:')]
+    assert cands, 'không còn PLANNED và không có hàng planned:PUBLISHED để mượn'
+    r = cands[0]
+    post = os.path.join(fx, r['output_path'])
+    if os.path.exists(post):
+        os.remove(post)
+    evp = os.path.join(fx, 'data', 'qa', r['id'] + '.json')
+    if os.path.exists(evp):
+        os.remove(evp)
+    for x in rows:
+        if x['id'] == r['id']:
+            x['status'] = 'PLANNED'
+    save_matrix(fx, rows)
+    counts = {}
+    for x in rows:
+        counts[x['status']] = counts.get(x['status'], 0) + 1
+    cp['in_progress_chunk'] = None
+    nc = r['id']
+    cur = cp.get('next_claimable_id')
+    if cur is None or nc < cur:
+        cp['next_claimable_id'] = nc
+    cp['counts'] = {'legacy_total': cp['counts'].get('legacy_total', 483),
+                    'existing': counts.get('EXISTING', 0),
+                    'review': counts.get('REVIEW', 0),
+                    'planned': counts.get('PLANNED', 0),
+                    'writing': counts.get('WRITING', 0),
+                    'qa': counts.get('QA', 0),
+                    'pass': counts.get('PASS', 0),
+                    'published': counts.get('PUBLISHED', 0),
+                    'repair': counts.get('REPAIR', 0),
+                    'blocked': counts.get('BLOCKED', 0),
+                    'fail': counts.get('FAIL', 0)}
+    write_json(fx, 'data/state/checkpoint.json', cp)
+    for script in ('generate-reports.py', 'generate-matrix.py',
+                   'generate-listing-pages.py'):
+        rr = run_py(['scripts/factory/' + script], fx)
+        assert rr.returncode == 0, script + ': ' + rr.stdout + rr.stderr
+
+
 # draft mẫu đạt gate cho hàng cho trước. Sau QA hardening của engine,
 # draft mẫu PHẢI: (i) permalink gốc-tương-đối — bóc tiền tố /blog khỏi
 # canonical_url (baseurl chỉ thêm khi render); (ii) chứa đủ liên kết theo
@@ -337,6 +390,8 @@ class FxTestCase(unittest.TestCase):
             cp['in_progress_chunk'] = sorted(chunk)
             write_json(self.fx, 'data/state/checkpoint.json', cp)
         self.pause_in_progress_chunk()
+        # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
+        borrow_planned_row(self.fx)
         r = self.operator('prepare-next', '--count', str(count))
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 

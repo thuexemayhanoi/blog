@@ -26,6 +26,10 @@ import sys
 import tempfile
 import unittest
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+
+from test_qa_modes import borrow_planned_row
+
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 PY = sys.executable
@@ -252,6 +256,8 @@ class ManifestPrefix(unittest.TestCase):
             if mf is None:
                 # Repo chưa có manifest nào: sinh một manifest qua operator
                 # rồi kiểm tra (đường dẫn chuẩn vẫn phải /blog).
+                # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
+                borrow_planned_row(work)
                 r = run(work, 'scripts/factory/factory-operator.py',
                         'prepare-next', '--count', '1')
                 self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
@@ -278,6 +284,8 @@ class QaRouteEvidence(unittest.TestCase):
     def _qa(self, links):
         work, tmp = fresh_copy()
         try:
+            # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
+            borrow_planned_row(work)
             row = first_planned(work)
             set_status(work, row['id'], 'WRITING')
             write_draft(work, row, draft_body(row, links))
