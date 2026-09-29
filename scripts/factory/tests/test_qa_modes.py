@@ -396,8 +396,11 @@ class FxTestCase(unittest.TestCase):
         # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
         borrow_planned_row(self.fx)
         r = self.operator('prepare-next', '--count', str(count))
-        print('::notice::[diag] prepare-next rc=%s out=%r err=%r'
-              % (r.returncode, r.stdout[-320:], r.stderr[-320:]), flush=True)
+        if r.returncode != 0:
+            fails = [ln for ln in r.stdout.splitlines()
+                     if ln.startswith('FAIL:')][:4]
+            print('::notice::[diag] prepare-next rc=%s fails=%r tail=%r'
+                  % (r.returncode, fails, r.stdout[-200:]), flush=True)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
 
