@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi.md",
   "content_sha256": "9df384c0bee62ae789cf1d3009d4a53c076e00d99b0d37e19b9abf9c578b5f10",
-  "matrix_row_sha256": "2e2c5fc8a1356c6a70c0cedb5d8e2b2ef5d4b4b3961a89a54849fcf30f69b41e",
-  "result": "PASS"
+  "matrix_row_sha256": "fa72724b621cfcb3a29645c9c46a3757b71ca852d519c2c1b6167226961872a9",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:11+00:00"
 }

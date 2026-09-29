@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi.md",
   "content_sha256": "75695a3df7b22696b93c3946b6f73d630dcff676bfb1f4eb70aa45fd47de6aae",
-  "matrix_row_sha256": "508cb3a20924a773e891fb81e3bfd64c04db8d2791a1b69c194f749d3788b7b2",
-  "result": "PASS"
+  "matrix_row_sha256": "8ccb5274dd7d1cf99bdb5ec883678fec564fcca337d3f39f171990baac7af500",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:09+00:00"
 }

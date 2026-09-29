@@ -1,118 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-29T17:07:26+00:00",
+  "updated_at": "2026-09-29T17:22:11+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00885",
-      "started_at": "2026-09-29T10:22:23+00:00",
-      "source": "_drafts/2026-09-29-xe-thue-bi-thung-lop-ai-sua.md",
-      "destination": "_posts/2026-09-29-xe-thue-bi-thung-lop-ai-sua.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d21a118a6e28f9803109653a987865a18aa99ff3",
-      "finished_at": "2026-09-29T10:22:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00886",
-      "started_at": "2026-09-29T10:22:23+00:00",
-      "source": "_drafts/2026-09-29-o-nham-xang-xe-may-ien-thi-sao.md",
-      "destination": "_posts/2026-09-29-o-nham-xang-xe-may-ien-thi-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d21a118a6e28f9803109653a987865a18aa99ff3",
-      "finished_at": "2026-09-29T10:22:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00887",
-      "started_at": "2026-09-29T10:22:23+00:00",
-      "source": "_drafts/2026-09-29-xe-may-thue-phanh-yeu-phai-lam-gi.md",
-      "destination": "_posts/2026-09-29-xe-may-thue-phanh-yeu-phai-lam-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d21a118a6e28f9803109653a987865a18aa99ff3",
-      "finished_at": "2026-09-29T10:22:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00888",
-      "started_at": "2026-09-29T10:22:23+00:00",
-      "source": "_drafts/2026-09-29-xe-may-uot-nuoc-mua-ngap-e-khong-no.md",
-      "destination": "_posts/2026-09-29-xe-may-uot-nuoc-mua-ngap-e-khong-no.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d21a118a6e28f9803109653a987865a18aa99ff3",
-      "finished_at": "2026-09-29T10:22:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00889",
-      "started_at": "2026-09-29T10:22:23+00:00",
-      "source": "_drafts/2026-09-29-lan-au-thue-xe-may-nen-chuan-bi-gi.md",
-      "destination": "_posts/2026-09-29-lan-au-thue-xe-may-nen-chuan-bi-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d21a118a6e28f9803109653a987865a18aa99ff3",
-      "finished_at": "2026-09-29T10:22:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00890",
-      "started_at": "2026-09-29T14:06:29+00:00",
-      "source": "_drafts/2026-09-29-chua-tung-i-xe-may-co-nen-thue-ngay-au-o-ha-noi.md",
-      "destination": "_posts/2026-09-29-chua-tung-i-xe-may-co-nen-thue-ngay-au-o-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "80818187c16f854be79f4c8d92bd3cafa795c760",
-      "finished_at": "2026-09-29T14:06:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00891",
-      "started_at": "2026-09-29T14:06:30+00:00",
-      "source": "_drafts/2026-09-29-i-xe-may-ha-noi-ang-so-that-khong.md",
-      "destination": "_posts/2026-09-29-i-xe-may-ha-noi-ang-so-that-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "80818187c16f854be79f4c8d92bd3cafa795c760",
-      "finished_at": "2026-09-29T14:06:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00892",
-      "started_at": "2026-09-29T14:06:30+00:00",
-      "source": "_drafts/2026-09-29-mot-minh-nu-thue-xe-may-an-toan-khong.md",
-      "destination": "_posts/2026-09-29-mot-minh-nu-thue-xe-may-an-toan-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "80818187c16f854be79f4c8d92bd3cafa795c760",
-      "finished_at": "2026-09-29T14:06:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00893",
-      "started_at": "2026-09-29T14:06:30+00:00",
-      "source": "_drafts/2026-09-29-ba-lo-va-o-ac-lan-au-thue-xe-nen-mang-gi.md",
-      "destination": "_posts/2026-09-29-ba-lo-va-o-ac-lan-au-thue-xe-nen-mang-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "80818187c16f854be79f4c8d92bd3cafa795c760",
-      "finished_at": "2026-09-29T14:06:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00894",
-      "started_at": "2026-09-29T14:06:30+00:00",
-      "source": "_drafts/2026-09-29-tai-xe-moi-voi-bien-bao-kho-hieu.md",
-      "destination": "_posts/2026-09-29-tai-xe-moi-voi-bien-bao-kho-hieu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "80818187c16f854be79f4c8d92bd3cafa795c760",
-      "finished_at": "2026-09-29T14:06:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00895",
       "started_at": "2026-09-29T14:06:30+00:00",
@@ -275,6 +165,116 @@
       "result": "PUBLISHED",
       "commit_sha": "cfd2ad7e5932500de8707eb3be153bee4cb9b67d",
       "finished_at": "2026-09-29T17:07:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00910",
+      "started_at": "2026-09-29T17:22:08+00:00",
+      "source": "_drafts/2026-09-29-thue-xe-may-quanh-ho-guom-dip-cuoi-tuan.md",
+      "destination": "_posts/2026-09-29-thue-xe-may-quanh-ho-guom-dip-cuoi-tuan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00911",
+      "started_at": "2026-09-29T17:22:08+00:00",
+      "source": "_drafts/2026-09-29-chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung.md",
+      "destination": "_posts/2026-09-29-chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00912",
+      "started_at": "2026-09-29T17:22:08+00:00",
+      "source": "_drafts/2026-09-29-thue-xe-may-o-khu-long-bien-ven-song-hong.md",
+      "destination": "_posts/2026-09-29-thue-xe-may-o-khu-long-bien-ven-song-hong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00913",
+      "started_at": "2026-09-29T17:22:09+00:00",
+      "source": "_drafts/2026-09-29-thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi.md",
+      "destination": "_posts/2026-09-29-thue-xe-may-khu-vuc-gia-lam-phia-ong-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00914",
+      "started_at": "2026-09-29T17:22:10+00:00",
+      "source": "_drafts/2026-09-29-xe-so-hay-xe-ga-cho-nguoi-moi-biet-lai-khi-thue.md",
+      "destination": "_posts/2026-09-29-xe-so-hay-xe-ga-cho-nguoi-moi-biet-lai-khi-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00915",
+      "started_at": "2026-09-29T17:22:10+00:00",
+      "source": "_drafts/2026-09-29-thue-xe-ien-hay-xe-xang-khi-i-trong-noi-o-ha-noi.md",
+      "destination": "_posts/2026-09-29-thue-xe-ien-hay-xe-xang-khi-i-trong-noi-o-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00916",
+      "started_at": "2026-09-29T17:22:10+00:00",
+      "source": "_drafts/2026-09-29-chua-co-bang-lai-thue-xe-50cc-hay-cho-lay-bang-a1.md",
+      "destination": "_posts/2026-09-29-chua-co-bang-lai-thue-xe-50cc-hay-cho-lay-bang-a1.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00917",
+      "started_at": "2026-09-29T17:22:10+00:00",
+      "source": "_drafts/2026-09-29-chon-xe-theo-chieu-cao-yen-xe-bao-nhieu-la-vua.md",
+      "destination": "_posts/2026-09-29-chon-xe-theo-chieu-cao-yen-xe-bao-nhieu-la-vua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00918",
+      "started_at": "2026-09-29T17:22:11+00:00",
+      "source": "_drafts/2026-09-29-thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi.md",
+      "destination": "_posts/2026-09-29-thue-xe-may-cho-nguoi-thu-hai-can-luu-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:11+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00919",
+      "started_at": "2026-09-29T17:22:11+00:00",
+      "source": "_drafts/2026-09-29-i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao.md",
+      "destination": "_posts/2026-09-29-i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2cff08bc760d0a60ccc760f5e1668b03ec6f34b7",
+      "finished_at": "2026-09-29T17:22:11+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

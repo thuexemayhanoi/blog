@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung.md",
+  "source_path": "_posts/2026-09-29-chay-vong-ho-tay-bang-xe-may-thue-cung-uong-va-iem-dung.md",
   "content_sha256": "91b640371f9612ed9a54dd6dc216f7f6b96d4c5c356fe521a68602fc67c546c2",
-  "matrix_row_sha256": "efea706206ff0e9213a3ea387370ae2efa53892b7caee16b3eb604d79eab74d9",
-  "result": "PASS"
+  "matrix_row_sha256": "4dd3315bdf3cda3c313e0cde167322c10aa17b681fa2a75723c0a65f1ff7195b",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:08+00:00"
 }

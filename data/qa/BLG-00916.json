@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chua-co-bang-lai-thue-xe-50cc-hay-cho-lay-bang-a1.md",
+  "source_path": "_posts/2026-09-29-chua-co-bang-lai-thue-xe-50cc-hay-cho-lay-bang-a1.md",
   "content_sha256": "1cf191ac2484eed64dce17c76f3720a499c3f66683aefd5691a0c701d0db1098",
-  "matrix_row_sha256": "540d9d1c9844efd6c3b5804f0b27f77bd0f8680178c85fd7b6b469593b15dfca",
-  "result": "PASS"
+  "matrix_row_sha256": "fa65325a7565b0f838fcec17ddfc461d85ad0010c4e9037bd3fb12d2306b87d5",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:10+00:00"
 }

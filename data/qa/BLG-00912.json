@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-o-khu-long-bien-ven-song-hong.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-o-khu-long-bien-ven-song-hong.md",
   "content_sha256": "419df2e91d8d4707cc2952a7d5994ee0e994ab9fcf20303fb0398594eb7b8f28",
-  "matrix_row_sha256": "9a997a8da387b0fa7f3c27f73079487875254b3bb0c7a3b72c18d065fc0cb942",
-  "result": "PASS"
+  "matrix_row_sha256": "183a5a88921a5f365b6f80a8242987760181415ac95404dfa4a3f9e40f0ca464",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:09+00:00"
 }

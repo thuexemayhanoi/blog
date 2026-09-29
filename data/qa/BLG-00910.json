@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-quanh-ho-guom-dip-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-quanh-ho-guom-dip-cuoi-tuan.md",
   "content_sha256": "11663c4bab3ae48eafbca4cb3a4166b1d4f7045936bb1a31805e241badb608d2",
-  "matrix_row_sha256": "c24822ea6b211d35bf58719df958352531f344666ec957b74b5bde11502aefef",
-  "result": "PASS"
+  "matrix_row_sha256": "5ce20a5658e9ef0bc635e21cf44783d7f10fe53e924a3192a69e8bc3ba7afc40",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:08+00:00"
 }

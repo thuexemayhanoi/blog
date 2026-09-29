@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-so-hay-xe-ga-cho-nguoi-moi-biet-lai-khi-thue.md",
+  "source_path": "_posts/2026-09-29-xe-so-hay-xe-ga-cho-nguoi-moi-biet-lai-khi-thue.md",
   "content_sha256": "2b1351db25407fa65f371fad8e56471480c8b9d2d7c37663ce432ae63668aafe",
-  "matrix_row_sha256": "b680867ab687e0618a780cc0c94e353aa766f7e692174f3a375bb5cc3e89bf61",
-  "result": "PASS"
+  "matrix_row_sha256": "749ec4a39d425c53625b4fd15a891a8ede5c7ce0d97c4a1ebe77c00614d27d3f",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:10+00:00"
 }

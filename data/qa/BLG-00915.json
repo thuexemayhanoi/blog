@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-ien-hay-xe-xang-khi-i-trong-noi-o-ha-noi.md",
+  "source_path": "_posts/2026-09-29-thue-xe-ien-hay-xe-xang-khi-i-trong-noi-o-ha-noi.md",
   "content_sha256": "406717999af0fe004317b40f4141eb12883fc2c69a199323ad2c82a67aa73aad",
-  "matrix_row_sha256": "964f1cea639a37c629f98823a90ecc9f3f430ec67d972755f3a220b168984173",
-  "result": "PASS"
+  "matrix_row_sha256": "09b2d0da4747b13ba3d8b4b2adc857e3a84929c1f4bc2a7e544c9e033efa33a8",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:10+00:00"
 }

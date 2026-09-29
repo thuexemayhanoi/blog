@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao.md",
+  "source_path": "_posts/2026-09-29-i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao.md",
   "content_sha256": "7e169fd8a174d5e86b623651ab85c1ac8e5155de5754f3ae914d3acc9d786de6",
-  "matrix_row_sha256": "effe8c26967f63ef99bc886e233af82cea69acd3bbc1dfa1394d3a2567042943",
-  "result": "PASS"
+  "matrix_row_sha256": "8e470ae8be32e63597a477d363dbd7b3aad8a8b380ae2ca190c45dc0aae9a2b6",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:11+00:00"
 }

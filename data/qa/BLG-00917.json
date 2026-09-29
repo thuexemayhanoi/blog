@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chon-xe-theo-chieu-cao-yen-xe-bao-nhieu-la-vua.md",
+  "source_path": "_posts/2026-09-29-chon-xe-theo-chieu-cao-yen-xe-bao-nhieu-la-vua.md",
   "content_sha256": "f2a0a320bbaae0dbdf0f78ce0ab9fe78a006788a6df5710e93b9a33ee626d291",
-  "matrix_row_sha256": "0f5747422551b9102c2e39d7da0778d20c2152dd79e1a626ee1da1890f669168",
-  "result": "PASS"
+  "matrix_row_sha256": "4e2db05d11abcff5ed18e72ff889f44f6327ff6050caa1fc84efdc302a4fb8e4",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:22:10+00:00"
 }
