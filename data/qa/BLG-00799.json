@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00799",
   "title": "Chạy xe máy từ Hà Nội lên Chùa Hương - Mỹ Đức",
-  "scored_at": "2026-09-29T00:56:57+00:00",
+  "scored_at": "2026-09-29T00:59:23+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -21,7 +21,7 @@
     "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
-    "intent_opening": false,
+    "intent_opening": true,
     "hanoi_example": true,
     "reads_naturally_proxy": true,
     "no_placeholder": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1076,
+  "word_count": 1092,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 75,
+  "quality": 100,
   "seo": 80,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-chua-huong-my-uc.md",
-  "content_sha256": "dd3266c09da453c618f7cb25eb30d1f0c1bfc2cbff83f324533dc5c05ef6bb0c",
+  "content_sha256": "b176b07e0f1d87ec1b2c53e81c09c369a32b0d40560c7ea67831300b1ac21d12",
   "matrix_row_sha256": "233021baceb5e7a3e1606bd5e273817c8556293be2c06cd2b857e20e398d158d",
   "result": "REPAIR"
 }
