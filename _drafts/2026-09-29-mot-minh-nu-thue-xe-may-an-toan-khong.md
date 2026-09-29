@@ -23,7 +23,7 @@ Thói quen quan trọng nhất là biết trước mình sẽ đi đâu, vào gi
 
 ## Chọn tuyến và khung giờ chủ động
 
-Với chuyến đi một mình, ưu tiên các tuyến quen, đường rộng và đủ đèn. Nếu phải đi sau trời tối, chọn trục chính đông người qua lại thay vì ngõ vắng. Tránh con đường không rõ tình trạng chỉ vì nó ngắn hơn vài phút; thời gian tiết kiệm được không xứng với việc phải lượn lờ một mình trên đoạn không an toàn.
+Với chuyến đi một mình, ưu tiên các tuyến quen, đường rộng và đủ đèn. Nếu phải đi sau trời tối, chọn trục chính đông người qua lại thay vì ngõ vắng. Tránh con đường không rõ tình trạng chỉ vì nó ngắn hơn vài phút; thời gian tiết kiệm được không xứng với việc phải vòng vèo một mình trên đoạn không an toàn.
 
 Về khung giờ, sắp xếp để hoàn tất các chặng xa trước khi quá khuya. Nếu lịch trình ép bạn về muộn, hãy báo cho người thân biết lộ trình và thời gian dự kiến, và duy trì thói quen chia sẻ vị trí khi di chuyển đêm. Cách làm điều này gọn gàng đã được hướng dẫn trong bài về [chia sẻ vị trí với người thân khi đi khuya](/blog/chia%20s%E1%BA%BB/2026/09/19/chia-se-vi-tri-voi-nguoi-than-khi-di-khuya/), một công cụ nhỏ nhưng đáng giá cho cả gia đình bạn.
 
@@ -47,4 +47,4 @@ Các tình huống như qua ngã tư đông, mưa bất chợt, hay chạy gần
 
 Yên xe vừa tầm chân chạm đất là tiêu chí quan trọng nhất với đa số nữ đi một mình. Xe nhẹ, yên thấp giúp bạn tự tin khi dừng đèn đỏ, đề pa và quay đầu xe. Trong các dòng xe cho thuê phổ biến, xe số cỡ nhỏ hoặc xe ga cỡ nhẹ thường là lựa chọn dễ làm quen, còn nếu bạn cần chở nhiều đồ thì nên cân nhắc xe có cốp lớn ngay từ lúc thuê.
 
-Khi nhận xe, kiểm tra phanh, còi, đèn và gương như mọi người, nhưng thêm một bước nữa: chỉnh gương và độ cao yên ngay tại cửa hàng, để xe thực sự vừa với mình. Người thấp cmap nên thử đề pa và đặt hai chân chạm đất trước khi rời đi, nếu thấy đạp cho tới thì đổi ngay mẫu khác, đừng ngại. Các băn khoăn khác của người mới thuê xe lần đầu được giải đáp trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn các câu hỏi rộng hơn nằm trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/). Đi một mình an toàn không phải là không bao giờ gặp chuyện, mà là mọi chuyện có thể gặp đều đã có sẵn phương án.
+Khi nhận xe, kiểm tra phanh, còi, đèn và gương như mọi người, nhưng thêm một bước nữa: chỉnh gương và độ cao yên ngay tại cửa hàng, để xe thực sự vừa với mình. Người thấp nhỏ nên thử đề pa và đặt hai chân chạm đất trước khi rời đi, nếu thấy đạp cho tới thì đổi ngay mẫu khác, đừng ngại. Các băn khoăn khác của người mới thuê xe lần đầu được giải đáp trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn các câu hỏi rộng hơn nằm trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/). Đi một mình an toàn không phải là không bao giờ gặp chuyện, mà là mọi chuyện có thể gặp đều đã có sẵn phương án.

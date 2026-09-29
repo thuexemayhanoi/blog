@@ -23,7 +23,7 @@ Thực tế là mỗi ngày hàng triệu người vẫn đi xe máy làm việc
 
 ## Điều gì khiến người mới thấy khó chịu nhất
 
-Ba thứ gây khó chịu nhiều nhất cho người mới là giờ cao điểm, đường một chiều và ngã tư nhiều làn. Giờ cao điểm sáng và chiều, dòng xe dày gấp bội, khoảng cách giữa các xe co hẹp, và người mới hay bị cuốn theo tốc độ chung. Đường một chiều khiến bạn đi vòng nếu ngoan cố, và việc rẽ sai ở khu phố cổ có thể đẩy bạn ra xa mục tiêu hàng vài con phố.
+Ba thứ gây khó chịu nhiều nhất cho người mới là giờ cao điểm, đường một chiều và ngã tư nhiều làn. Giờ cao điểm sáng và chiều, dòng xe dày gấp bội, khoảng cách giữa các xe co hẹp, và người mới hay bị cuốn theo tốc độ chung. Đường một chiều khiến bạn phải đi vòng nếu cố băng thẳng, và việc rẽ sai ở khu phố cổ có thể đẩy bạn ra xa mục tiêu hàng vài con phố.
 
 Tiếng còi cũng là thứ khiến nhiều người tưởng rằng mình đang bị trách mắng. Thực tế, còi ở Hà Nội nhiều khi chỉ là cách người đi đường báo hiệu sự hiện diện của họ, giống một câu nói rằng có xe đang tới gần. Hiểu được điều này giúp bạn bớt căng thẳng đáng kể, vì không phải tiếng còi nào cũng nhắm vào bạn.
 
