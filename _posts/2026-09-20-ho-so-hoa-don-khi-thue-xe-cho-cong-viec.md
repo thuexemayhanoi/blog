@@ -21,7 +21,8 @@ Mỗi cửa hàng có cách hỗ trợ giấy tờ khác nhau, nên đừng mặ
 
 ## Các khoản nên ghi lại từ đầu kỳ thuê
 
-Một hồ sơ chi tiêu rõ ràng thường gồm các dòng: ngày nhận xe, ngày trả xe, loại xe, giá thuê theo thỏa thuận, tiền đặt cọc, các khoản phát sinh nếu có như phụ trễ trả xe, và các thay đổi giữa kỳ như đổi xe hay gia hạn. Với mỗi dòng, giấy tờ tương ứng là biên nhận, tin nhắn xác nhận giá, hoặc xác nhận đặt cọc. Ngay ngày nhận xe, bạn nên có sẵn tin nhắn hoặc giấy ghi rõ loại xe, kỳ thuê và giá đã thống nhất.
+Một hồ sơ chi tiêu rõ ràng thường gồm các dòng: ngày nhận xe, ngày trả xe, loại xe, giá
+ thuê theo thỏa thuận, tiền đặt cọc, các khoản phát sinh nếu có như phụ trễ trả xe, và các thay đổi giữa kỳ như đổi xe hay gia hạn. Với mỗi dòng, giấy tờ tương ứng là biên nhận, tin nhắn xác nhận giá, hoặc xác nhận đặt cọc. Ngay ngày nhận xe, bạn nên có sẵn tin nhắn hoặc giấy ghi rõ loại xe, kỳ thuê và giá đã thống nhất.
 
 Đặt cọc là khoản cần lưu ý riêng: ghi rõ số tiền, ngày giao, ngày nhận lại và tình trạng hoàn trả. Việc ghi chép này không phải vì thiếu tin tưởng, mà vì số tiền đặt cọc không nhỏ, và một dòng ghi rõ giúp cả hai bên nhẹ đầu khi tất toán cuối kỳ. Nếu có trừ lại phần nào do sự cố, yêu cầu ghi rõ lý do vào bản tất toán.
 
@@ -35,7 +36,8 @@ Với các đơn vị yêu cầu nhật ký sử dụng xe, nhờ cửa hàng x�
 
 Đi lại nhiều bằng xe máy nghĩa là giấy tờ gặp đủ loại rủi ro: mưa, đổ cà phê, bỏ quên trong cốp xe. Chuyên mục bảo vệ giấy tờ khỏi mưa khi đi xe máy đã bàn kỹ về túi niêm và cách xếp cốp; với giấy tờ phục vụ công việc, hãy áp dụng nghiêm hơn một mức: mỗi giấy tờ quan trọng chụp lưu một bản trên điện thoại ngay khi nhận, để bản vật lý chỉ là bản trình bày còn bản số luôn có sẵn.
 
-Không đựng giấy tờ công việc lẫn vé gửi xe, vé xăng trong cùng một túi rộng: các mẩu giấy nhỏ sẽ trộn lẫn và mất phần nhiều. Một phong bì hoặc túi nhỏ riêng cho kỳ thuê, dán nhãn theo tháng, là cách phân loại rẻ nhất và hiệu quả nhất mà dân văn phòng đi nhiều đều dùng.
+Không đựng giấy tờ công việc lẫn vé gửi xe, vé xăng trong cùng một túi rộng: các mẩu giấy nhỏ sẽ trộn lẫn và mất phần nhiều. Một phong bì hoặc túi nhỏ ri
+êng cho kỳ thuê, dán nhãn theo tháng, là cách phân loại rẻ nhất và hiệu quả nhất mà dân văn phòng đi nhiều đều dùng.
 
 ## Tất toán cuối kỳ: trình tự gọn gàng
 
@@ -49,7 +51,8 @@ Công việc hiếm khi diễn ra đúng kế hoạch, và kỳ thuê cũng vậ
 
 Riêng với việc gia hạn kỳ thuê, nên xác nhận lại trước ngày hết hạn dự kiến, đừng để quá mới nhắn. Việc xác nhận sớm giúp cửa hàng chủ động lịch xe, và giúp bạn yên tâm rằng mức giá gia hạn đã được chốt bằng văn bản trước khi bạn tiếp tục sử dụng. Nếu đơn vị của bạn cần phân tách chi phí theo dự án hoặc theo tháng, hãy đề nghị cửa hàng ghi chú thêm dòng phân tách đó vào biên nhận cuối kỳ, vì ghi chú lúc đó dễ hơn nhiều so với bổ sung sau khi giấy đã xuất.
 
-Với người đi công việc bằng xe máy trong nhiều tháng liên tiếp, một bảng tổng kết nhỏ cuối mỗi tháng giúp hết sức: số ngày dùng xe, tổng chi thuê, tổng chi xăng và gửi xe, các khoản phát sinh. Bảng này lấy trực tiếp từ ghi chép hằng ngày nên chỉ mất vài phút tổng hợp, nhưng nó là thứ tài liệu giúp bạn hoặc bộ phận tài chính đối chiếu nhanh mà không phải mở lại từng tờ vé lẻ.
+Với người đi công việc bằng xe máy trong nhiều tháng liên tiếp, một bảng tổng kết nhỏ cuối mỗi tháng giúp hết sức: số ngày dùng xe, tổng chi thuê, tổng chi xăng và gử
+i xe, các khoản phát sinh. Bảng này lấy trực tiếp từ ghi chép hằng ngày nên chỉ mất vài phút tổng hợp, nhưng nó là thứ tài liệu giúp bạn hoặc bộ phận tài chính đối chiếu nhanh mà không phải mở lại từng tờ vé lẻ.
 
 ## Bảo mật thông tin trên giấy tờ đi đường
 
@@ -59,4 +62,4 @@ Với các tài liệu nhạy cảm, chỉ mang theo bản cần dùng trong ng�
 
 ## Chuẩn bị tốt từ đầu khiến cuối kỳ nhẹ tênh
 
-Hồ sơ chi tiêu cho việc thuê xe đi công việc không phải chuyện giấy tờ phức tạp, mà là một chuỗi thói quen nhỏ: hỏi giấy tờ trước khi đặt, ghi giá và cọc bằng tin nhắn, ghi chép hằng ngày, giữ giấy khô và tất toán có bản xác nhận. Làm đều các bước này, kỳ thuê dài vài tuần cũng chỉ cần một phong bì mỏng để chứa toàn bộ bằng chứng. Nếu bạn định thuê xe máy dài hạn cho công việc và cần trao đổi trước về hóa đơn, biên nhận và cách ghi nhận chi tiêu, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú để xác nhận các nội dung cụ thể. Đừng quên đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để kỳ thuê của bạn suôn sẻ từ đầu đến cuối.
+Hồ sơ chi tiêu cho việc thuê xe đi công việc không phải chuyện giấy tờ phức tạp, mà là một chuỗi thói quen nhỏ: hỏi giấy tờ trước khi đặt, ghi giá và cọc bằng tin nhắn, ghi chép hằng ngày, giữ giấy khô và tất toán có bản xác nhận. Làm đều các bước này, kỳ thuê dài vài tuần cũng chỉ cần một phong bì mỏng để chứa toàn bộ bằng chứng. Nếu bạn định thuê xe máy dài hạn cho công việc và cần trao đổi trước về hóa đơn, biên nhận và cách ghi nhận chi tiêu, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú để xác nhận các nội dung cụ thể. Đừng quên đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để kỳ thuê của bạn suôn sẻ từ đầu đến cuối.

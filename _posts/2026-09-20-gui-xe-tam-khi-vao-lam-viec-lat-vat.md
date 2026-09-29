@@ -20,7 +20,8 @@ Chỗ để xe năm phút nên thỏa ba điều: không chắn ai, không ở n
 
 ## Chỗ nào không nên để dù chỉ một phút
 
-Vài vị trí cần tránh tuyệt đối kể cả cho lần dừng nhanh nhất: trên vạch kẻ phân làn, trong ngã tư, trên vỉa hè có biển cấm, trước cổng trường lúc sắp tan học, và các lối ra vào của trạm cứu thương. Cả những chỗ hợp pháp nhưng dễ gây chuyện cũng nên cân nhắc: trước cửa hàng vàng, trước cây ATM đang có người giao dịch, hoặc sát mép đường lúc giờ cao điểm, nơi dòng xe máy lách sát vào tận vỉa hè. Quy tắc tự hỏi đơn giản: nếu chiếc xe của mình đứng đó, có ai phải vòng qua nó không, và nếu có, người đó là xe tải hay là bà cụ đẩy xe? Câu trả lời quyết định việc dừng hay đi thêm một đoạn.
+Vài vị trí cần tránh tuyệt đối kể cả cho lần dừng nhanh nhất: trên vạch kẻ phân làn, trong ngã tư, trên vỉa hè có biển cấm, trước cổng trường lúc sắp tan học, và các lối ra vào của trạm cứu thương. Cả những chỗ hợp pháp nhưng dễ gây chuyện cũng nên cân nhắc: trư
+ớc cửa hàng vàng, trước cây ATM đang có người giao dịch, hoặc sát mép đường lúc giờ cao điểm, nơi dòng xe máy lách sát vào tận vỉa hè. Quy tắc tự hỏi đơn giản: nếu chiếc xe của mình đứng đó, có ai phải vòng qua nó không, và nếu có, người đó là xe tải hay là bà cụ đẩy xe? Câu trả lời quyết định việc dừng hay đi thêm một đoạn.
 
 ## Khóa xe trong ba mươi giây
 
@@ -32,7 +33,8 @@ Câu hỏi năm phút này xảy ra hàng ngày: mũ để trong cốp, treo lê
 
 ## Mua đồ mang lên xe: nghĩ đến lúc trả tiền
 
-Nghệ thuật dừng ngắn còn nằm ở khâu chuẩn bị trước khi vào quán. Biết trước mình mua gì, chuẩn bị sẵn tiền gần đúng, và nếu mua đồ nhiều hoặc chất lỏng, nghĩ trước chỗ để lên xe: cốp còn chỗ không, hay cần mang theo một túi nilon nhỏ để buộc gọn. Người hay quên là người mua xong mới lục lọi xem để đâu, đứng giữa vỉa hè với hai tay ôm đồ trong lúc xe vẫn chưa mở khóa. Với các lần nhận hàng ship hoặc mua đồ ăn nóng, một nguyên tắc nhỏ giữ an toàn: chỉ bốc đồ khi đã ngồi lên xe và dựng chân chống xong, không vừa đứng lom khom buộc túi giữa vỉa hè với dòng xe sau lưng. Các cách chở đồ ăn thức uống an toàn có một bài riêng, nhưng ở khía cạnh lần dừng, phần chuẩn bị chỗ để trước khi mua là công đoạn thuộc về đây.
+Nghệ thuật dừng ngắn còn nằm ở khâu chuẩn bị trước khi vào quán. Biết trước mình mua gì, chuẩn bị sẵn tiền gần đúng, và nếu mua đồ nhiều hoặc chất lỏng, nghĩ trước chỗ để lên xe: cốp còn chỗ không, hay cần mang theo một túi nilon nhỏ để buộc gọn. Người hay quên là người mua xong mới lục l
+ọi xem để đâu, đứng giữa vỉa hè với hai tay ôm đồ trong lúc xe vẫn chưa mở khóa. Với các lần nhận hàng ship hoặc mua đồ ăn nóng, một nguyên tắc nhỏ giữ an toàn: chỉ bốc đồ khi đã ngồi lên xe và dựng chân chống xong, không vừa đứng lom khom buộc túi giữa vỉa hè với dòng xe sau lưng. Các cách chở đồ ăn thức uống an toàn có một bài riêng, nhưng ở khía cạnh lần dừng, phần chuẩn bị chỗ để trước khi mua là công đoạn thuộc về đây.
 
 ## Gửi xe có vé ở các lần dừng ngắn
 
@@ -44,8 +46,9 @@ Kế hoạch năm phút nhiều khi thành ba mươi: xếp hàng lâu, quên ma
 
 ## Ứng xử với người cùng dừng
 
-Các lần dừng ngắn thường xảy ra ở nơi nhiều người cùng dừng, và phần ứng xử đóng góp vào sự suôn sẻ chung hơn tưởng tượng. Khi lấy xe ra, đừng đẩy vẹt các xe khác sang một bên để chèn mình ra: cầm chắc xe của người khác và dịch nhẹ nếu thật sự cần, hoặc chờ chủ xe đến. Khi thấy một chiếc xe ngã đổ trong đám xe đỗ, đặt dậy cũng là chuyện nên làm, một hành động nhỏ mà người ta nhớ. Khi người trông xe nhắc chỗ để chưa đúng, điều chỉnh thay vì tranh luận, vì họ nhìn thấy dòng xe toàn khu tốt hơn bạn. Chuỗi ứng xử nhỏ này, lặp lại mỗi ngày, chính là phần khiến các khu dừng ngắn quanh nhà bạn ngày càng dễ chịu hơn.
+Các lần dừng ngắn thường xảy ra ở nơi nhiều người cùng dừng, và phần ứng xử đ
+óng góp vào sự suôn sẻ chung hơn tưởng tượng. Khi lấy xe ra, đừng đẩy vẹt các xe khác sang một bên để chèn mình ra: cầm chắc xe của người khác và dịch nhẹ nếu thật sự cần, hoặc chờ chủ xe đến. Khi thấy một chiếc xe ngã đổ trong đám xe đỗ, đặt dậy cũng là chuyện nên làm, một hành động nhỏ mà người ta nhớ. Khi người trông xe nhắc chỗ để chưa đúng, điều chỉnh thay vì tranh luận, vì họ nhìn thấy dòng xe toàn khu tốt hơn bạn. Chuỗi ứng xử nhỏ này, lặp lại mỗi ngày, chính là phần khiến các khu dừng ngắn quanh nhà bạn ngày càng dễ chịu hơn.
 
 ## Kết lại
 
-Dừng ngắn là phần bị xem nhẹ nhất của việc đi xe máy, nhưng lại là phần lặp lại nhiều nhất: chọn chỗ không chắn ai và không nguy hiểm, khóa đủ bước trong ba mươi giây, giữ chìa và mũ theo thói quen cố định, và chuẩn bị chỗ để đồ trước khi mua. Nếu bạn đang tìm một chiếc xe máy thuê để đi lại hằng ngày quanh Hà Nội với nhiều việc lặt vặt, hãy trao đổi với Nguyễn Tú qua trang [xlienhe]( {{ '/lien-he/' | relative_url }}) về loại xe và kỳ thuê phù hợp. Đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để từng chặng trong ngày đều gọn gàng.
+Dừng ngắn là phần bị xem nhẹ nhất của việc đi xe máy, nhưng lại là phần lặp lại nhiều nhất: chọn chỗ không chắn ai và không nguy hiểm, khóa đủ bước trong ba mươi giây, giữ chìa và mũ theo thói quen cố định, và chuẩn bị chỗ để đồ trước khi mua. Nếu bạn đang tìm một chiếc xe máy thuê để đi lại hằng ngày quanh Hà Nội với nhiều việc lặt vặt, hãy trao đổi với Nguyễn Tú qua trang [xlienhe]( {{ '/lien-he/' | relative_url }}) về loại xe và kỳ thuê phù hợp. Đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để từng chặng trong ngày đều gọn gàng.

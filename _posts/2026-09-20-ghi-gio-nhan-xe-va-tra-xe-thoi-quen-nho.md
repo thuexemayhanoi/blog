@@ -19,7 +19,8 @@ Nguyên tắc chung của thuê xe theo ngày là một ngày bằng hai mươi 
 
 ## Ghi giờ lúc nhận xe
 
-Ngay khi đứng trước cửa hàng nhận xe, mở ghi chú điện thoại và viết một dòng: ngày, giờ, địa điểm nhận xe, biển số. Chụp màn hình đồng hồ nếu muốn tuyệt đối. Đây là động tác mười giây, nhưng nó cố định mốc thời gian theo cách không thể tranh cãi. Nếu nơi cho thuê giao xe tận nơi, giờ ghi là giờ xe tới tay bạn, và cũng nên ghi luôn tên người giao nếu tiện. Mốc giờ nhận còn dùng cho các việc khác trong kỳ: tính khi nào cần đổ xăng, nhớ lại quãng thời gian từ lần trao đổi trước, và đối chiếu nếu có bất đồng về số ngày tính tiền lúc trả.
+Ngay khi đứng trước cửa hàng nhận xe, mở ghi chú điện thoại và viết một dòng: ngày, giờ, địa điểm nhận xe, biển số. Chụp màn hình đồng hồ nếu muốn tuyệt đối. Đây là động tác mười giây, nhưng nó cố định mốc thời gian theo cách không thể tranh cãi. 
+Nếu nơi cho thuê giao xe tận nơi, giờ ghi là giờ xe tới tay bạn, và cũng nên ghi luôn tên người giao nếu tiện. Mốc giờ nhận còn dùng cho các việc khác trong kỳ: tính khi nào cần đổ xăng, nhớ lại quãng thời gian từ lần trao đổi trước, và đối chiếu nếu có bất đồng về số ngày tính tiền lúc trả.
 
 ## Ghi giờ lúc trả xe
 
@@ -31,7 +32,8 @@ Lý do trực tiếp mà giờ giấc được tính kỹ là phí trễ. Phần
 
 ## Cảnh báo giờ trả cho chính mình
 
-Bản ghi giờ chỉ có tác dụng nếu bạn nhìn lại nó. Hai cách nhắc mình đơn giản: đặt lịch nhắc trên điện thoại cho buổi sáng ngày trả, trước giờ gốc khoảng ba tiếng, đủ thời gian để rửa xe, thu dọn đồ và di chuyển; và ghi giờ trả vào cùng ghi chú với giờ nhận ngay từ đầu, để mỗi lần mở ghi chú kỳ thuê là thấy cả mốc đang tới. Với kỳ thuê dài, đầu tiên là đặt nhắc ở giữa kỳ để nhìn lại tổng thể tiến độ sử dụng, như đã bàn trong các bài về quản lý kỳ thuê. Hệ thống nhắc nhỏ này biến việc trả đúng giờ từ một phán đoán vào phút chót thành một kế hoạch đã có sẵn.
+Bản ghi giờ chỉ có tác dụng nếu bạn nhìn lại nó. Hai cách nhắc mình đơn giản: đặt lịch nhắc trên điện thoại cho buổi sáng ngày trả, trước giờ gốc khoảng ba tiếng, đủ thời gian để rửa xe, thu dọn đồ và di chuyển; và ghi giờ trả vào cùng ghi chú với giờ nhận ngay từ đầu, để mỗi lần mở ghi chú kỳ thuê là thấy cả mốc đang tới. Với kỳ thuê dài, đầu tiên là đặt nhắc ở giữa kỳ để nhìn lại tổng thể tiến độ sử dụng, như đã bàn trong các bài về quản lý kỳ thuê. H
+ệ thống nhắc nhỏ này biến việc trả đúng giờ từ một phán đoán vào phút chót thành một kế hoạch đã có sẵn.
 
 ## Những ghi chú nên đi kèm giờ
 
@@ -47,8 +49,9 @@ Một số kỳ thuê dài có nhiều lần giao dịch nhỏ giữa kỳ: đ�
 
 ## Đồng bộ giờ giấc với nơi cho thuê
 
-Một lưu ý nhỏ nhưng dễ bỏ qua: đồng hồ của bạn và cách tính giờ của nơi cho thuê cần cùng một mốc. Giờ mở cửa của nơi cho thuê là khung giờ bạn nên xếp mọi mốc nhận và trả vào trong đó, vì các cuộc giao xe ngoài khung giờ này thường không thể sắp xếp như trong giờ làm việc bình thường. Trước ngày trả, hãy xác nhận lại lần cuối bằng tin nhắn về giờ dự kiến trả và địa điểm, để hai bên cùng chốt theo cùng một con số. Nếu có chuyện khiến bạn có thể về trễ hơn giờ đã nhắc, một tin nhắn sớm vẫn luôn tốt hơn một lời giải thích muộn. Các quy định về phí giờ trễ, nếu có, cũng được tính theo mốc thời gian mà hai bên đã thống nhất, vì vậy việc giữ mốc chung rõ ràng bảo vệ cả hai phía.
+Một lưu ý nhỏ nhưng dễ bỏ qua: đồng hồ của 
+bạn và cách tính giờ của nơi cho thuê cần cùng một mốc. Giờ mở cửa của nơi cho thuê là khung giờ bạn nên xếp mọi mốc nhận và trả vào trong đó, vì các cuộc giao xe ngoài khung giờ này thường không thể sắp xếp như trong giờ làm việc bình thường. Trước ngày trả, hãy xác nhận lại lần cuối bằng tin nhắn về giờ dự kiến trả và địa điểm, để hai bên cùng chốt theo cùng một con số. Nếu có chuyện khiến bạn có thể về trễ hơn giờ đã nhắc, một tin nhắn sớm vẫn luôn tốt hơn một lời giải thích muộn. Các quy định về phí giờ trễ, nếu có, cũng được tính theo mốc thời gian mà hai bên đã thống nhất, vì vậy việc giữ mốc chung rõ ràng bảo vệ cả hai phía.
 
 ## Kết lại
 
-Ghi giờ nhận và trả xe là thói quen mười giây chữa trước hầu hết các tranh luận về thời gian trong thuê xe: ghi mười giây lúc nhận, đặt nhắc trước ngày trả, ghi và xác nhận bằng tin nhắn lúc trả, và giữ mọi mốc giao dịch giữa kỳ trong cùng một ghi chú. Người thuê chuyên nghiệp không phải người không bao giờ trễ, mà là người mọi mốc thời gian của họ đều rõ ràng với cả hai bên. Nếu bạn chuẩn bị một kỳ thuê mới và muốn rõ ràng các mốc giờ giấc, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các [chia sẻ]( {{ '/chia-se/' | relative_url }}) về quản lý kỳ thuê.
+Ghi giờ nhận và trả xe là thói quen mười giây chữa trước hầu hết các tranh luận về thời gian trong thuê xe: ghi mười giây lúc nhận, đặt nhắc trước ngày trả, ghi và xác nhận bằng tin nhắn lúc trả, và giữ mọi mốc giao dịch giữa kỳ trong cùng một ghi chú. Người thuê chuyên nghiệp không phải người không bao giờ trễ, mà là người mọi mốc thời gian của họ đều rõ ràng với cả hai bên. Nếu bạn chuẩn bị một kỳ thuê mới và muốn rõ ràng các mốc giờ giấc, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các [chia sẻ]( {{ '/chia-se/' | relative_url }}) về quản lý kỳ thuê.

@@ -19,7 +19,8 @@ Mưa ở Hà Nội thường đến theo cơn, nặng trong hai mươi phút r�
 
 ## Kiểm tra xe ở nơi khô và đủ sáng
 
-Điều quan trọng nhất khi nhận xe ngày mưa là tuyệt đối không kiểm tra giữa trời đang mưa. Nước chảy trên mặt vá kéo dài các vết trầy thành những dải loang, khiến bạn không phân biệt được vết cũ và vết mới. Hãy yêu cầu đưa xe vào hiên khô, hoặc chờ đến khi mưa tạnh rồi lau khô xe trước khi cùng đi vòng quanh nó. Ánh sáng cũng cần đủ, vì ngày mưa thường tối, mà ánh sáng đèn điện lệch góc có thể che mất vết móp ở mép yên hoặc càng xe. Nếu điểm giao nhận không có chỗ khô, đề nghị dời sang một địa điểm gần đó có mái che. Một lần kiểm tra kỹ lúc nhận đáng giá hơn rất nhiều so với một cuộc trao đổi về trách nhiệm lúc trả xe.
+Điều quan trọng nhất khi nhận xe ngày mưa là tuyệt đối không kiểm tra giữa trời đang mưa. Nước chảy trên mặt vá kéo dài các vết trầy thành những dải loang, khiến bạn không phân biệt được vết cũ và vết mới. Hãy yêu cầu đưa xe vào hiên khô, hoặc chờ đến khi mưa tạnh rồi lau khô xe trước khi cùng đi vòng quanh nó. Ánh sáng cũng cần đủ, vì ngày mưa thường tối, mà ánh sáng đèn điện lệch góc có thể che mất vết móp ở mép yên hoặc càng xe. Nếu điểm giao nhận không có chỗ khô, đề 
+nghị dời sang một địa điểm gần đó có mái che. Một lần kiểm tra kỹ lúc nhận đáng giá hơn rất nhiều so với một cuộc trao đổi về trách nhiệm lúc trả xe.
 
 ## Chụp ảnh hiện trạng ngay khi nhận
 
@@ -35,7 +36,8 @@ Nhận xe ngày mưa thì chặng đi đầu tiên cũng ướt. Trước khi đ
 
 ## Thảo luận trước về kịch bản mưa khi trả xe
 
-Nếu kỳ thuê của bạn nhiều ngày, trời mưa vào ngày trả xe là kịch bản rất dễ xảy ra. Hãy trao đổi trước qua tin nhắn: nếu mưa lớn vào giờ hẹn trả, hai bên có thể dời sang giờ khác trong ngày hay không. Việc thống nhất sớm giúp bạn không phải phân vân giữa chạy xe trong mưa dày để đúng giờ, và việc tự ý trả muộn. Ghi nhớ rằng trả xe muộn thường phát sinh phí theo giờ, nên chủ động thông báo sớm luôn có lợi hơn im lặng rồi mới giải thích sau. Trao đổi trước cũng giúp nơi cho thuê sắp xếp người kiểm tra xe có thời gian và không gian khô ráo để làm việc kỹ.
+Nếu kỳ thuê của bạn nhiều ngày, trời 
+mưa vào ngày trả xe là kịch bản rất dễ xảy ra. Hãy trao đổi trước qua tin nhắn: nếu mưa lớn vào giờ hẹn trả, hai bên có thể dời sang giờ khác trong ngày hay không. Việc thống nhất sớm giúp bạn không phải phân vân giữa chạy xe trong mưa dày để đúng giờ, và việc tự ý trả muộn. Ghi nhớ rằng trả xe muộn thường phát sinh phí theo giờ, nên chủ động thông báo sớm luôn có lợi hơn im lặng rồi mới giải thích sau. Trao đổi trước cũng giúp nơi cho thuê sắp xếp người kiểm tra xe có thời gian và không gian khô ráo để làm việc kỹ.
 
 ## Các lỗi hay gặp khi giao nhận vội
 
@@ -47,8 +49,9 @@ Cuộc trao đổi ngày mưa nên có mối liên lạc rõ ràng. Nếu bạn 
 
 ## Trường hợp giao xe tận nơi trong mưa
 
-Một số nơi nhận giao xe đến địa chỉ bạn yêu cầu, và ngày mưa là lúc nên trao đổi kỹ về điểm giao cụ thể. Người giao xe khó gọi điện khi đang chạy dưới mưa, nên hãy mô tả điểm hẹn thật rõ: cổng số mấy, cạnh biển hiệu nào, phía nào của đường. Nếu bạn ở trong chung cư, hẹn ở sảnh tầng trệt thường tiện cho cả hai bên, vì nơi đó khô ráo và đủ rộng để kiểm tra xe kỹ. Nếu bạn ở trong ngõ nhỏ dễ ngập, hãy nói rõ để hai bên chọn đầu ngõ thay vì vào sâu. Chi phí và thời gian giao xe đến tận nơi cần xác nhận trực tiếp với nơi cho thuê, không nên mặc định theo suy đoán. Khi xe đến, đừng vội ký nhận hay xác nhận qua tin nhắn chỉ vì thấy người giao đang ướt; vẫn dành vài phút cho việc khởi động, thử phanh, soi đèn và xi nhan ngay tại chỗ có mái che. Lịch sự trong trường hợp này là giữ cho cả hai bên đều làm đúng quy trình, chứ không phải rút ngắn quy trình để người kia khỏi đứng lâu dưới mưa. Sau khi nhận, gửi một tin nhắn ngắn xác nhận đã nhận xe đủ số lượng chìa và giấy tờ đi kèm nếu có, để cuộc giao dịch khép lại rõ ràng.
+Một số nơi nhận giao xe đến địa chỉ bạn yêu cầu, và ngày mưa là lúc nên trao đổi kỹ về điểm giao cụ thể. Người giao xe khó gọi điện khi đang chạy dưới mưa, nên hãy mô tả điểm hẹn thật rõ: cổng số mấy, cạnh biển hiệu nào, phía nào của đường. Nếu bạn ở trong chung cư, hẹn ở sảnh tầng trệt thường tiện cho cả hai bên, vì nơi đó khô ráo và đủ rộng để kiểm tra xe kỹ. Nếu bạn ở trong ngõ nhỏ d
+ễ ngập, hãy nói rõ để hai bên chọn đầu ngõ thay vì vào sâu. Chi phí và thời gian giao xe đến tận nơi cần xác nhận trực tiếp với nơi cho thuê, không nên mặc định theo suy đoán. Khi xe đến, đừng vội ký nhận hay xác nhận qua tin nhắn chỉ vì thấy người giao đang ướt; vẫn dành vài phút cho việc khởi động, thử phanh, soi đèn và xi nhan ngay tại chỗ có mái che. Lịch sự trong trường hợp này là giữ cho cả hai bên đều làm đúng quy trình, chứ không phải rút ngắn quy trình để người kia khỏi đứng lâu dưới mưa. Sau khi nhận, gửi một tin nhắn ngắn xác nhận đã nhận xe đủ số lượng chìa và giấy tờ đi kèm nếu có, để cuộc giao dịch khép lại rõ ràng.
 
 ## Kết lại
 
-Giao nhận xe ngày mưa xoay quanh ba nguyên tắc: kiểm tra ở nơi khô và đủ sáng, chụp ảnh hiện trạng lúc nhận, và trao đổi bằng tin nhắn về mọi thay đổi giờ giấc điểm hẹn. Nếu bạn sắp cần xe trong những ngày mưa nhiều, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) trước để thống nhất điểm hẹn có mái che, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về các tình huống giao nhận thực tế.
+Giao nhận xe ngày mưa xoay quanh ba nguyên tắc: kiểm tra ở nơi khô và đủ sáng, chụp ảnh hiện trạng lúc nhận, và trao đổi bằng tin nhắn về mọi thay đổi giờ giấc điểm hẹn. Nếu bạn sắp cần xe trong những ngày mưa nhiều, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) trước để thống nhất điểm hẹn có mái che, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về các tình huống giao nhận thực tế.

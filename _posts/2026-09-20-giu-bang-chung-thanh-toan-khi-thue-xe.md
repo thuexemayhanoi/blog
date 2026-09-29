@@ -19,7 +19,8 @@ Bản ghi chuyển khoản là một dữ liệu khách quan mà cả hai bên �
 
 ## Những thông tin cần lưu cho mỗi khoản
 
-Một bằng chứng thanh toán đầy đủ thường gồm số tiền, thời gian, tên tài khoản nhận, và nội dung chuyển khoản. Trong đó nội dung chuyển khoản là chi tiết đáng quan tâm nhất, vì nó là lời ghi chú của chính bạn về mục đích khoản tiền. Hãy tập thói quen điền nội dung rõ ràng ngay từ đầu, ví dụ ghi tên và số điện thoại đặt xe, kèm mục đích như tiền cọc hay tiền thuê tuần. Nếu bạn chuyển nhiều khoản trong một kỳ, nội dung phân loại giúp bạn về sau không phải đoán khoản này là gì. Sau khi chuyển xong, chụp lại màn hình xác nhận hoặc lưu số biên lai vào ghi chú, kèm một dòng mô tả của riêng bạn về khoản đó theo cách bạn nhớ được.
+Một bằng chứng thanh toán đầy đủ thường gồm số tiền, thời gian, tên tài khoản nhận, và nội dung chuyển khoản. Trong đó nội dung chuyển khoản là chi tiết đáng quan tâm nhất, vì nó là lời ghi chú của chính bạn v
+ề mục đích khoản tiền. Hãy tập thói quen điền nội dung rõ ràng ngay từ đầu, ví dụ ghi tên và số điện thoại đặt xe, kèm mục đích như tiền cọc hay tiền thuê tuần. Nếu bạn chuyển nhiều khoản trong một kỳ, nội dung phân loại giúp bạn về sau không phải đoán khoản này là gì. Sau khi chuyển xong, chụp lại màn hình xác nhận hoặc lưu số biên lai vào ghi chú, kèm một dòng mô tả của riêng bạn về khoản đó theo cách bạn nhớ được.
 
 ## Nơi lưu trữ bằng chứng
 
@@ -31,7 +32,8 @@ Với tiền cọc, vai trò của bằng chứng thanh toán càng rõ. Cọc l
 
 ## Thanh toán bằng tiền mặt khi nào và lưu gì
 
-Không phải mọi khoản đều qua ngân hàng, nhất là các khoản nhỏ trong ngày hoặc khi bạn ghé trực tiếp. Với tiền mặt, bằng chứng của bạn chính là ghi chú: thời gian, số tiền, người nhận, và mục đích. Nghe có vẻ thủ công, nhưng một dòng ghi năm giây sau khi giao dịch lại chính là thứ bạn tìm khi có câu hỏi hai tuần sau. Nếu khoản tiền mặt có giá trị lớn hoặc gắn với một thay đổi quan trọng như gia hạn kỳ thuê, một tin nhắn xác nhận gửi cho nơi cho thuê ngay sau đó là cách biến giao dịch riêng tư thành bản ghi hai bên cùng thấy. Tin nhắn đó không cần dài, chỉ cần đủ các mệnh đề số tiền và mục đích để không còn cách hiểu thứ hai.
+Không phải mọi khoản đều qua ngân hàng, nhất là các khoản nhỏ trong ngày hoặc khi bạn ghé trực tiếp. Với tiền mặt, bằng
+ chứng của bạn chính là ghi chú: thời gian, số tiền, người nhận, và mục đích. Nghe có vẻ thủ công, nhưng một dòng ghi năm giây sau khi giao dịch lại chính là thứ bạn tìm khi có câu hỏi hai tuần sau. Nếu khoản tiền mặt có giá trị lớn hoặc gắn với một thay đổi quan trọng như gia hạn kỳ thuê, một tin nhắn xác nhận gửi cho nơi cho thuê ngay sau đó là cách biến giao dịch riêng tư thành bản ghi hai bên cùng thấy. Tin nhắn đó không cần dài, chỉ cần đủ các mệnh đề số tiền và mục đích để không còn cách hiểu thứ hai.
 
 ## Gắn bằng chứng với các mốc của kỳ thuê
 
@@ -43,7 +45,8 @@ Bằng chứng thanh toán phát huy tác dụng lớn nhất khi nó được �
 
 ## Bảo mật khi lưu và chia sẻ bằng chứng
 
-Ảnh chụp màn hình chuyển khoản có thể chứa thông tin tài khoản cá nhân của bạn, vì vậy chỉ chia sẻ với đúng người cần xem, thường là nơi cho thuê khi đối chiếu, hoặc bộ phận kế toán nếu bạn thuê vì công việc. Tránh đăng các ảnh này lên nhóm chung hoặc gửi cho nhiều người không liên quan. Khi gửi, bạn có thể che phần số dư nếu không liên quan đến việc đối chiếu. Các ghi chú tài chính nói chung nên nằm trong một ứng dụng có khóa riêng nếu điện thoại hay được mượn. Đây không phải sự cẩn trọng thái quá ở Hà Nội, mà chỉ là thói quen số hóa đúng mức: giữ đủ thứ cần dùng, chia sẻ đúng lúc, và không để lộ phần thừa.
+Ảnh chụp màn hình chuyển khoản có thể chứa thông tin tài khoản cá nhân của bạn, vì vậy chỉ chia sẻ với đ
+úng người cần xem, thường là nơi cho thuê khi đối chiếu, hoặc bộ phận kế toán nếu bạn thuê vì công việc. Tránh đăng các ảnh này lên nhóm chung hoặc gửi cho nhiều người không liên quan. Khi gửi, bạn có thể che phần số dư nếu không liên quan đến việc đối chiếu. Các ghi chú tài chính nói chung nên nằm trong một ứng dụng có khóa riêng nếu điện thoại hay được mượn. Đây không phải sự cẩn trọng thái quá ở Hà Nội, mà chỉ là thói quen số hóa đúng mức: giữ đủ thứ cần dùng, chia sẻ đúng lúc, và không để lộ phần thừa.
 
 ## Sau khi kỳ thuê kết thúc
 
@@ -51,4 +54,4 @@ Nhiều người xóa bộ bằng chứng ngay khi trả xe xong, nhưng nên gi
 
 ## Kết lại
 
-Giữ bằng chứng thanh toán khi thuê xe máy gồm ba việc đơn giản: ghi nội dung chuyển khoản rõ ràng ngay khi chuyển, lưu ảnh hoặc biên lai vào một nơi có cấu trúc, và gắn các khoản với mốc thời gian của kỳ thuê. Tiền cọc, tiền gia hạn và các khoản phát sinh đều trở nên dễ trao đổi khi cả hai bên cùng nhìn thấy bản ghi thay vì cùng cố nhớ. Nếu bạn chuẩn bị một kỳ thuê mới và muốn rõ ràng về các khoản thanh toán, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các [chia sẻ]( {{ '/chia-se/' | relative_url }}) về quản lý kỳ thuê.
+Giữ bằng chứng thanh toán khi thuê xe máy gồm ba việc đơn giản: ghi nội dung chuyển khoản rõ ràng ngay khi chuyển, lưu ảnh hoặc biên lai vào một nơi có cấu trúc, và gắn các khoản với mốc thời gian của kỳ thuê. Tiền cọc, tiền gia hạn và các khoản phát sinh đều trở nên dễ trao đổi khi cả hai bên cùng nhìn thấy bản ghi thay vì cùng cố nhớ. Nếu bạn chuẩn bị một kỳ thuê mới và muốn rõ ràng về các khoản thanh toán, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các [chia sẻ]( {{ '/chia-se/' | relative_url }}) về quản lý kỳ thuê.

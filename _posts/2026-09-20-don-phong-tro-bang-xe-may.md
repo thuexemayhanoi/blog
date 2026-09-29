@@ -19,7 +19,8 @@ Nhóm một là đồ nặng và không sợ va: sách, nồi, hộp nhựa đ�
 
 ## Đóng gói theo kích thước chuẩn của cốp và sàn xe
 
-Hãy đóng gói theo chiếc xe, không theo thùng đồ. Một chiếc xe ga có cốp sau vừa một hộp giấy cỡ trung, sàn trước vừa thêm một túi nhỏ hoặc thùng các-tông mỏng, và chỗ để chân người ngồi sau vừa hai túi nilon nén. Đó là giới hạn thực tế cho một chuyến đi an toàn. Các túi nilon to cần buộc miệng lại thành nút chắc, gấp gọn góc để không bay, và ước lượng sao tổng chiều rộng đồ không vượt quá vai bạn khi ngồi trên xe. Đồ vượt quá giới hạn đó nên chờ chuyến sau hoặc gửi tạm, thay vì cố chất thêm một tầng. Một mẹo nhỏ của người hay chuyển trọ là dùng lại các thùng sữa các-tông cỡ vừa thay vì túi nilon, vì thùng chồng lên nhau ổn định hơn hẳn, dễ buộc, và khi đến nơi mới còn dùng được để chứa tiếp đồ.
+Hãy đóng gói theo chiếc xe, không theo thùng đồ. Một chiếc xe ga có cốp sau vừa một hộp giấy cỡ trung, sàn trước vừa thêm một túi nhỏ hoặc thùng các-tông mỏng, và chỗ để chân người ngồi sau vừa hai túi nilon nén. Đó là giới hạn thực tế cho một chuyến đi an toàn. Các túi nilon to cần buộc miệng lại thành nút chắc, gấp gọn góc để không bay, và ước lượng sao tổng chiều rộng đồ không vượt quá vai bạn khi ngồi trên xe. Đồ vượt quá giới hạn đó nên chờ chuyến sau hoặc gửi tạm, t
+hay vì cố chất thêm một tầng. Một mẹo nhỏ của người hay chuyển trọ là dùng lại các thùng sữa các-tông cỡ vừa thay vì túi nilon, vì thùng chồng lên nhau ổn định hơn hẳn, dễ buộc, và khi đến nơi mới còn dùng được để chứa tiếp đồ.
 
 ## Chọn giờ dọn và tuyến đi
 
@@ -31,7 +32,8 @@ Nguyên tắc số một khi chất đồ: trọng lượng thấp và sát tr�
 
 ## Chở các loại đồ khó
 
-Nồi cơm điện và bình nóng lạnh mini nên để trong thùng các-tông và chèn giấy, vì vỏ nhựa dễ nứt khi va. Gương và khung ảnh bọc giấy báo hai lớp và chở thẳng đứng giữa hai túi mềm. Chậu cây nhỏ xếp vào thùng thấp và chèn chặt. Còn lại là những món không nên chở bằng xe máy dù bạn muốn: nệm lớn, tủ gỗ, bàn ghế rời. Với các món này, thuê xe ôm công nghệ chở đồ hoặc rủ bạn có xe thùng giúp một chuyến là quyết định rẻ hơn so với rủi ro đánh rơi giữa đường. Biết giới hạn của xe máy cũng là một phần kỹ năng.
+Nồi cơm điện và bình nóng lạnh mini nên để trong thùng các-tông và chèn giấy, vì vỏ nhựa dễ nứt khi va. Gương và khung ảnh bọc giấy báo hai lớp và chở thẳng đứng giữa hai túi mềm. Chậu cây nhỏ xếp vào thùng thấp và chèn chặt. Còn lại là những món không nên chở bằng xe máy dù bạn muốn: nệm lớn, tủ gỗ, bàn ghế rời. Với các món này, thuê xe ôm công nghệ chở đồ 
+hoặc rủ bạn có xe thùng giúp một chuyến là quyết định rẻ hơn so với rủi ro đánh rơi giữa đường. Biết giới hạn của xe máy cũng là một phần kỹ năng.
 
 ## Thuê xe máy có cốp lớn khi dọn nhà
 
@@ -43,7 +45,8 @@ Dọn nhà bằng một mình và một chiếc xe là kịch bản tốn nhất
 
 ## Bảo vệ tài sản nhỏ và giấy tờ
 
-Túi đựng giấy tờ, thẻ ngân hàng và đồ nhỏ có giá trị nên đi cùng người, không để trong cốp xe qua nhiều chuyến, vì lúc dọn nhà là lúc bạn dễ quên nhất: chốt cửa, khóa trọ, trả phòng, vác đồ. Chuẩn bị một túi nhỏ đeo chéo chứa toàn bộ nhóm này và luôn mang theo người. Đồ điện tử như máy tính cũng nên chở riêng một chuyến cuối, được bọc kỹ, thay vì trộn lẫn trong các thùng lộn xộn. Nếu dọn nhà xa hơn mười cây số và phải qua các đoạn vắng, cân nhắc dừng nghỉ giữa đường thay vì cố chạy hết quãng với xe nặng, vì hai mươi phút nghỉ giữa chuyến giữ tay lái ổn định cho nửa quãng đường còn lại.
+Túi đựng giấy tờ, thẻ ngân hàng và đồ nhỏ có giá trị nên đi cùng người, không để trong cốp xe qua nhiều chuyến, vì lúc dọn nhà là lúc bạn dễ quên nhất: chốt cửa, khóa trọ, trả phòng, vác đồ. Chuẩn bị một túi nhỏ đeo chéo chứa toàn bộ nhóm này và luôn mang theo người. Đồ điện tử như máy tính cũng nên chở riêng một chuyến cuối, được bọc kỹ, thay vì trộn lẫn trong các thùng lộn xộn. Nếu dọn nhà xa hơn mười cây số và phải qua các đoạn vắng, cân nhắc dừng nghỉ giữa đường thay vì cố chạy hết quãng với xe nặng, vì hai mươi phút nghỉ giữa chuyến giữ tay lái ổn địn
+h cho nửa quãng đường còn lại.
 
 ## Trả phòng trống và bàn giao cuối
 
@@ -51,4 +54,4 @@ Chuyến cuối cùng thường không phải là chuyến chở đồ, mà là 
 
 ## Kết lại
 
-Dọn phòng trọ bằng xe máy là bài toán chia nhỏ: nhóm đồ, đóng gói theo xe, đi giờ vắng, buộc chắc bằng hai vòng dây, và luôn giữ đồ giá trị theo người. Nếu bạn cần một chiếc xe có cốp rộng cho kỳ chuyển nhà sắp tới, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chở đồ trên xe máy.
+Dọn phòng trọ bằng xe máy là bài toán chia nhỏ: nhóm đồ, đóng gói theo xe, đi giờ vắng, buộc chắc bằng hai vòng dây, và luôn giữ đồ giá trị theo người. Nếu bạn cần một chiếc xe có cốp rộng cho kỳ chuyển nhà sắp tới, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chở đồ trên xe máy.

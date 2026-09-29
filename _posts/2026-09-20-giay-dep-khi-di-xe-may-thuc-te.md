@@ -21,7 +21,8 @@ Yêu cầu số một với giày đi xe không nằm ở vẻ ngoài mà ở đ
 
 Không phải dép nào cũng như nhau trên yên xe. Dép có quai ngang hoặc quai sau giữ chặt bàn chân vẫn chấp nhận được cho các chặng ngắn, nhưng dép lơ ở mũi chân, loại chỉ có một cái kẹp ngón, là lựa chọn tồi nhất: một cú xóc, một pha phanh nhẹ hoặc một lần xuống xe vội đều có thể tuột dép đúng lúc chân cần bám bàn đạp. Vấn đề không phải là dép hay giày, mà là đôi chân có được giữ chắc trên bàn đạp hay không. Với các chuyến dài hoặc đi đường nhiều xe cộ, giày kín có khoá hoặc buộc dây luôn là lựa chọn an toàn hơn, dù nó mất vài phút mang vào hơn.
 
-## Công sở, phố đi bộ và các bộ quần áo riêng
+## Công sở,
+ phố đi bộ và các bộ quần áo riêng
 
 Thực tế Hà Nội là nhiều người đi xe trong trang phục công sở, và đôi giày da mũi nhọn hay đôi giày cao gót không được thiết kế cho bàn đạp. Nếu công việc đòi hỏi trang phục thế này, hãy cân nhắc mang giày công sở trong cốp và đi bằng đôi giày mềm trên đường, hoặc chọn các dòng giày da mũi tròn đế bám có thể dùng được cho cả hai vai trò. Với các chuyến đi chơi, câu chuyện nhẹ hơn, nhưng vẫn đáng suy nghĩ: đôi dép đẹp cho buổi cà phê có thể là đôi dép tệ cho nửa tiếng chạy xe tới đó, và giải pháp thường chỉ là một cặp dép mỏng mang theo.
 
@@ -35,7 +36,8 @@ Mùa mưa, chân ướt gần như là chuyện chắc chắn, và vấn đề k
 
 ## Bàn đạp, càng ốp chân và các điểm ma sát
 
-Giày đi xe còn tương tác với các bộ phận của xe: bàn đạp có răng bám có thể mài mòn đế giày mềm, càng ốp chân nóng lên dưới nắng có thể làm khó chịu qua các loại giày mỏng, và các cạnh kim loại của cần số đối với xe số có thể cọ vào mũi giày. Với xe thuê, hãy quan sát các điểm tiếp xúc này trong ngày đầu: nếu bàn đạp quá sắc hoặc càng ốp có cạnh lởm, đó là điều đáng báo nơi cho thuê thay vì âm thầm chịu. Về phía mình, các đôi giày có mũi gia cố hoặc đế dày hơn chịu được các ma sát này tốt hơn các đôi giày mỏng manh.
+Giày đi xe còn tương tác với các bộ phận của xe: bàn đạp có răng bám có thể mài mòn đế giày mềm, càng ốp chân nóng lên dưới nắng có thể làm khó chịu qua các loại giày mỏng, và các cạnh kim loại của cần số đối với xe số có t
+hể cọ vào mũi giày. Với xe thuê, hãy quan sát các điểm tiếp xúc này trong ngày đầu: nếu bàn đạp quá sắc hoặc càng ốp có cạnh lởm, đó là điều đáng báo nơi cho thuê thay vì âm thầm chịu. Về phía mình, các đôi giày có mũi gia cố hoặc đế dày hơn chịu được các ma sát này tốt hơn các đôi giày mỏng manh.
 
 ## Đi bộ nhiều trong ngày và sự linh hoạt của giày
 
@@ -47,7 +49,8 @@ Giày đi xe hàng ngày bẩn nhanh gấp nhiều lần giày chỉ đi bộ, v
 
 ## Chân đau và các vấn đề nhỏ tích tụ
 
-Đi xe máy nhiều giờ mỗi ngày với đôi giày không hợp có thể tạo ra các vấn đề nhỏ tích tụ: đau nhức phía trước bàn chân do các ngón bị ép, mòn da ở gót do ma sát, và tê bì ở mu bàn chân vì quai dép hoặc cổ giày quá chật. Các dấu hiệu này thường âm ỉ và bị coi là chuyện bình thường của người đi nhiều, nhưng chúng là tín hiệu của sự kết hợp chưa đúng giữa bàn chân và đôi giày. Khi xuất hiện, hãy điều chỉnh sớm: lót thêm lớp đế mềm, đổi cặp tất dày hơn hoặc mỏng hơn, hoặc đổi hẳn loại giày cho phần còn lại của kỳ. Bàn chân là điểm tiếp xúc gần như duy nhất điều khiển cả ga lẫn phanh sau, nên tình trạng của nó ảnh hưởng trực tiếp đến chất lượng điều khiển xe.
+Đi xe máy nhiều giờ mỗi ngày với đôi giày không hợp có thể tạo ra các vấn đề nhỏ tích tụ: đau nhức phía trước bàn chân do các ngón bị ép, mòn da ở gót do ma sát, và tê bì ở mu bàn chân vì quai dép hoặc cổ giày quá chật. Các dấu hiệu này thường âm ỉ và bị coi là chuyện bình thường của người đi nhiều, nhưng chúng là tín hiệu của sự kết hợp chưa đúng giữa bàn chân và đôi giày. Khi xuất hiện, hãy điều chỉnh sớm: lót thêm lớp đế mềm, đổi cặp tất dày hơn hoặc mỏng hơn, hoặc đổi
+ hẳn loại giày cho phần còn lại của kỳ. Bàn chân là điểm tiếp xúc gần như duy nhất điều khiển cả ga lẫn phanh sau, nên tình trạng của nó ảnh hưởng trực tiếp đến chất lượng điều khiển xe.
 
 ## Giày dép và trang phục mưa
 
@@ -55,4 +58,4 @@ Khi mặc áo mưa đi xe, đôi giày thường là bộ phận bị bỏ quên
 
 ## Kết lại
 
-Chọn giày dép đi xe máy là chuyện của an toàn và sự tiện dụng: đế bám trên cả đường khô lẫn ướt, bàn chân giữ chắc, giữ ấm mùa đông, thoáng mùa hè, và một phương án dự phòng cho mùa mưa. Nếu bạn cần tư vấn thêm về các phụ kiện nhỏ nên có khi thuê xe máy ở Hà Nội, liên hệ Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Đọc thêm bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để chuẩn bị tốt hơn cho các chuyến đi. Đôi chân vững trên bàn đạp là phần gốc của mọi tay lái vững.
+Chọn giày dép đi xe máy là chuyện của an toàn và sự tiện dụng: đế bám trên cả đường khô lẫn ướt, bàn chân giữ chắc, giữ ấm mùa đông, thoáng mùa hè, và một phương án dự phòng cho mùa mưa. Nếu bạn cần tư vấn thêm về các phụ kiện nhỏ nên có khi thuê xe máy ở Hà Nội, liên hệ Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Đọc thêm bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để chuẩn bị tốt hơn cho các chuyến đi. Đôi chân vững trên bàn đạp là phần gốc của mọi tay lái vững.

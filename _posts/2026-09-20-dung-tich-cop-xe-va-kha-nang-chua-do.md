@@ -21,7 +21,8 @@ Giá trị thực của cốp dưới yên nằm ở những tình huống đi�
 
 Lưu ý rằng cốp xe ga có giới hạn tải trọng, thường được ghi trong tài liệu của hãng. Chất quá nhiều đồ nặng hoặc cứng nhọn có thể làm cong nắp cốp, hỏng bản lề hoặc cấn khóa. Với xe thuê, những hư hỏng này thuộc phạm vi trách nhiệm của người thuê, nên hãy xếp đồ gọn, món nặng đặt xuống dưới, món nhẹ phía trên, và không nhồi tới mức phải ép mới đóng được nắp.
 
-## Xe số: nhỏ gọn nhưng không có cốp kín
+## Xe số: 
+nhỏ gọn nhưng không có cốp kín
 
 Xe số như Honda Wave không có cốp dưới yên. Không gian để đồ gồm móc treo phía trước, bệ để chân và nếu xe có, giá sau hoặc hộp đồ gắn thêm. Điều này có nghĩa mọi thứ bạn mang theo đều nằm ngoài trời, hoặc phải đeo trên người.
 
@@ -37,7 +38,8 @@ Sinh viên và người đi học thường mang sách vở và bình nước. B
 
 Người đi chợ và nấu ăn hằng ngày là nhóm cảm nhận rõ sự khác biệt giữa các loại xe. Hai túi rau thịt treo hai bên ghi đông là hình ảnh quen thuộc, nhưng an toàn hơn là thùng sau hoặc cốp lớn. Đồ mua sẵn để trong cốp tránh nắng, tránh mưa và không rơi vãi khi qua ổ gà, điều mà túi nilon treo trước rất dễ gặp.
 
-Người làm công việc phải mang theo dụng cụ nhỏ, chẳng hạn thợ sửa chữa, nhân viên sự kiện hay người làm đẹp, cần tính đến cả kích thước và trọng lượng đồ nghề. Cốp xe ga chứa được hộp dụng cụ cỡ nhỏ, nhưng dụng cụ dài hoặc nặng nên để ở bệ chân sau với dây buộc, và cần hỏi trước cửa hàng về việc chở loại hàng này.
+Người làm công việc phải mang theo dụng cụ nhỏ, chẳng hạn thợ sửa chữa, nhân viên sự kiện hay người làm đẹp, cần tính đến cả kích thước và trọng lư
+ợng đồ nghề. Cốp xe ga chứa được hộp dụng cụ cỡ nhỏ, nhưng dụng cụ dài hoặc nặng nên để ở bệ chân sau với dây buộc, và cần hỏi trước cửa hàng về việc chở loại hàng này.
 
 ## Những gì nên mang theo người, không để trên xe
 
@@ -55,7 +57,8 @@ Nếu phát hiện cốp khó mở hoặc bản lề lệch, báo ngay cho cửa
 
 Tóm lại, nếu lịch trình của bạn gồm nhiều lần gửi xe, đi khi trời hay mưa, hoặc mang theo đồ cá nhân giá trị, ưu tiên xe tay ga có cốp dưới yên. Nếu bạn chủ yếu đeo balo và cần mức giá thuê thấp, xe số đủ dùng và nhẹ hơn khi luồn lách. Bạn có thể tham khảo [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh chi phí giữa các dòng theo thời gian thuê.
 
-Nếu chưa chắc loại nào phù hợp với lịch trình của mình, bài viết về sự khác biệt giữa [xe số, xe tay ga và xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) sẽ giúp bạn có cái nhìn tổng thể hơn. Với nhu cầu cụ thể về xe có giá để đồ hoặc thùng sau, hãy [liên hệ trực tiếp]( {{ '/lien-he/' | relative_url }}) để hỏi về tình trạng xe sẵn có trước khi đặt.
+Nếu chưa chắc loại nào phù hợp với lịch trình của 
+mình, bài viết về sự khác biệt giữa [xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) sẽ giúp bạn có cái nhìn tổng thể hơn. Với nhu cầu cụ thể về xe có giá để đồ hoặc thùng sau, hãy [liên hệ trực tiếp]( {{ '/lien-he/' | relative_url }}) để hỏi về tình trạng xe sẵn có trước khi đặt.
 
 Khả năng chứa đồ là thứ bạn dùng mỗi ngày nhiều lần, chứ không phải một lần. Chọn đúng loại xe theo nhu cầu thực của mình là cách đơn giản nhất để kỳ thuê trôi qua suôn sẻ.
 ## Sắp xếp đồ trong cốp theo nguyên tắc an toàn

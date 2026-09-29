@@ -19,7 +19,8 @@ Hầu hết bãi xe trung tâm dùng vé từ tự động hoặc vé điện t�
 
 ## Ghi nhớ vị trí: ba mốc để không lạc
 
-Cách ghi nhớ vị trí xe hiệu quả nhất là dùng ba mốc theo thứ tự: màu vùng gửi, số cột hoặc số khu gần nhất, và một vật cố định dễ thấy như thang bộ hành hay biển hướng dẫn. Nhiều bãi chia vùng theo màu và số, ví dụ khu B tầng hai, và ghi lại cụm đó vào điện thoại hoặc chụp ảnh biển khu vực ngay khi xuống xe. Ảnh chụp vị trí đáng giá hơn trí nhớ, vì sau hai tiếng mua sắm và hai tầng bãi đi lên xuống, trí nhớ về chỗ để xe thường bị ghi đè bởi các thông tin khác. Nếu bãi không có biển khu vực, chụp ảnh hướng nhìn từ xe về phía lối ra.
+Cách ghi nhớ vị trí xe hiệu quả nhất là dùng ba mốc theo thứ tự: màu vùng gửi, số cột hoặc số khu gần nhất, và một vật cố định dễ thấy như thang bộ hành hay biển hướng dẫn. Nhiều bãi chia vùng theo màu và số, ví dụ khu B tầng hai, và ghi lại cụm đó vào điện thoại hoặc chụp ảnh biển khu vực ngay khi xuống xe. Ảnh chụp vị trí đáng giá hơn trí nhớ, vì sau hai tiếng mua sắm và hai tầng bãi đi lên xuống, tr
+í nhớ về chỗ để xe thường bị ghi đè bởi các thông tin khác. Nếu bãi không có biển khu vực, chụp ảnh hướng nhìn từ xe về phía lối ra.
 
 ## Giờ đóng cửa của bãi và của trung tâm
 
@@ -31,7 +32,8 @@ Ba giờ mua sắm đồng nghĩa với ba tiếng đồ đạc nằm trong cố
 
 ## Khi ra xe: đối chiếu vé và kiểm tra nhanh
 
-Khi ra, đưa vé tại quầy, thanh toán phí gửi, và trước khi đẩy xe đi, dành ba mươi giây kiểm tra xe. Đây là thói quen đáng hình thành với mọi xe thuê: nhìn vòng quanh xe xem có vết mới nào không, thử phanh, và nhìn xuống mặt đất dưới xe xem có dấu rò rỉ gì không. Bãi gửi đông là nơi các pha phanh gấp và chạm nhẹ dễ xảy ra khi người ta ra vào chen chúc, và phát hiện sớm tại chỗ giúp việc trao đổi với bãi gửi hoặc nơi cho thuê minh bạch hơn hẳn so với phát hiện ở nhà. Nếu có bất thường, chụp ảnh tại chỗ và báo cho quản lý bãi trước khi rời đi.
+Khi ra, đưa vé tại quầy, thanh toán phí gửi, và trước khi đẩy xe đi, dành ba mươi giây kiểm tra xe. Đây là thói quen đáng hình thành với mọi xe thuê: nhìn vòng quanh xe xem có vết mới nào không, thử phanh, và nhìn xuống mặt đất dưới xe xem có dấu rò rỉ gì không. Bãi gửi đông là nơi các pha phanh gấp và chạm nhẹ dễ xảy ra khi người ta ra vào chen chúc, và phát hiện sớm tại chỗ giúp việc trao đổi với bãi gửi hoặc nơi cho thuê minh bạch hơn hẳn so với phát hiện ở nhà. Nếu có bất thường, chụp ảnh tại chỗ và bá
+o cho quản lý bãi trước khi rời đi.
 
 ## Mất vé và nhầm xe: xử lý thế nào
 
@@ -47,8 +49,9 @@ Cuối tuần, bãi xe trung tâm đầy từ giữa sáng, và các khu gửi x
 
 ## Với người đi xe thuê lần đầu đến bãi lớn
 
-Người đi xe thuê khi vào bãi lớn nên làm thêm một việc mà chủ xe riêng không cần: chụp ảnh hiện trạng xe trước khi gửi và sau khi lấy, ở cùng các góc. Lý do là trách nhiệm về vết trầy trên xe thuê thuộc về kỳ thuê của bạn, và hai bộ ảnh đó giúp bạn tự bảo vệ mình trong mọi tình huống trao đổi sau này. Lưu vé gửi cùng điện thoại trong túi kín, vì vé cũng là một loại giấy tờ của chuyến đi. Cuối cùng, khi có thắc mắc về phí gửi hay quy định bãi, hỏi trực tiếp nhân viên ở quầy thay vì quan sát phỏng đoán theo người khác, vì mỗi trung tâm có cách tính khác nhau.
+Người đi xe thuê khi vào bãi lớn nên làm thêm một việc mà chủ xe riêng không cần: chụp ảnh hiện trạng xe trước k
+hi gửi và sau khi lấy, ở cùng các góc. Lý do là trách nhiệm về vết trầy trên xe thuê thuộc về kỳ thuê của bạn, và hai bộ ảnh đó giúp bạn tự bảo vệ mình trong mọi tình huống trao đổi sau này. Lưu vé gửi cùng điện thoại trong túi kín, vì vé cũng là một loại giấy tờ của chuyến đi. Cuối cùng, khi có thắc mắc về phí gửi hay quy định bãi, hỏi trực tiếp nhân viên ở quầy thay vì quan sát phỏng đoán theo người khác, vì mỗi trung tâm có cách tính khác nhau.
 
 ## Kết lại
 
-Gửi xe ở trung tâm thương mại gọn lại thành ba thói quen: chụp biển số và vị trí xe ngay khi gửi, ghi nhớ cổng vào hợp hướng đi, và kiểm tra nhanh xe trước khi rời bãi. Nếu bạn đang thuê xe để đi mua sắm hoặc gặp gỡ ở các khu trung tâm, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về gửi xe và đi lại trong phố.
+Gửi xe ở trung tâm thương mại gọn lại thành ba thói quen: chụp biển số và vị trí xe ngay khi gửi, ghi nhớ cổng vào hợp hướng đi, và kiểm tra nhanh xe trước khi rời bãi. Nếu bạn đang thuê xe để đi mua sắm hoặc gặp gỡ ở các khu trung tâm, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về gửi xe và đi lại trong phố.

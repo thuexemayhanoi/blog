@@ -19,7 +19,8 @@ Vào giờ chạng vạng, ánh sáng mặt trời đi theo góc xiên rất th�
 
 ## Bật đèn xe sớm hơn cảm giác cần thiết
 
-Quy tắc đơn giản nhất cho giờ chạng vạng là bật đèn trước khi bạn thấy cần. Lý do không phải để bạn nhìn đường, mà để người khác nhìn thấy bạn. Một chiếc xe máy không bật đèn trong giờ chuyển tối gần như hòa vào nền đường với người lái xe ô tô đang nhìn ngược chiều nắng. Bật đèn sớm không tốn gì và không làm ai khó chịu. Tương tự vào buổi sáng sớm chạng vạng, nhất là khi có sương mỏng, đèn xe giúp định vị của bạn rõ ràng hơn với người cùng đường. Đây là thói quen đáng giá gần như mọi loại thời tiết và mùa trong năm.
+Quy tắc đơn giản nhất cho giờ chạng vạng là bật đèn trước khi bạn thấy cần. Lý do không phải để bạn nhìn đường, mà để người khác nhìn thấy bạn. Một chiếc xe máy không bật đèn trong giờ chuyển tối gần như hòa vào nền đường với người lái xe ô tô đang nhìn ngược chiều nắng. Bật đèn sớm không tốn gì và không làm ai khó chịu. T
+ương tự vào buổi sáng sớm chạng vạng, nhất là khi có sương mỏng, đèn xe giúp định vị của bạn rõ ràng hơn với người cùng đường. Đây là thói quen đáng giá gần như mọi loại thời tiết và mùa trong năm.
 
 ## Kính mũ và các vấn đề thị giác trong giờ này
 
@@ -33,7 +34,8 @@ Giờ chạng vạng chiều cũng là giờ tan học, tan làm, và lượng n
 
 Vì mọi tín hiệu thị giác đều chậm hơn một nhịp, tốc độ và khoảng cách là hai thứ bạn có thể chủ động. Đi chậm hơn tốc độ thường ngày khoảng một mức giúp bạn có thêm thời gian xử lý những thứ nhìn thấy muộn. Khoảng cách với xe trước nên để rộng hơn bình thường, vì đèn phanh của họ cũng đang khó thấy với bạn như đèn của bạn khó thấy với người khác. Tránh vượt ở các đoạn nhìn ngược nắng. Những điều chỉnh nhỏ này cộng lại tạo nên khác biệt lớn trong một khung giờ mà mọi người đều đang nhìn kém như nhau.
 
-## Những đoạn đường cần lưu ý hơn cả
+## Những đoạn đường cần lưu ý hơn
+ cả
 
 Một số loại đoạn đường đáng gạch đầu dòng cho giờ chạng vạng. Các đoạn ngược hướng mặt trời lúc hoàng hôn, thường là hướng Tây, nơi mọi thứ phía trước chỉ là bóng đen trên nền chói. Đường nhiều cây to, bóng râm và nắng đan nhau thành các sọc sáng tối khiến mắt liên tục điều chỉnh. Các ngõ nhỏ và hẻm chợt tối hơn hẳn so với đường lớn khi bước vào từ chiều muộn. Đoạn thi công thiếu đèn cảnh báo. Quen với các điểm này trên tuyến thường đi giúp bạn chủ động giảm tốc trước, thay vì phát hiện và phanh gấp giữa sọc nắng.
 
@@ -49,7 +51,8 @@ Với người thuê xe, hai việc chuẩn bị đáng làm. Một, khi nhận 
 
 ## Mưa phùn kết hợp chạng vạng: cộng hưởng xấu
 
-Trường hợp đáng kể riêng là chạng vạng kèm mưa phùn, kiểu thời tiết rất phổ biến vào cuối năm ở Hà Nội. Mưa phùn làm mặt đường ẩm, kính visor dính lớp nước lăn không rơi, và ánh sáng xiên buổi chiều tán xạ trên màn nước nhỏ kia thành một lớp loá mỏng. Tầm nhìn trong tình huống này kém hơn cả mưa to có gió thổi khô kính. Nếu bị kẹt đúng khung giờ này, giảm tốc mạnh hơn nữa, bật đèn, lau visor tại điểm dừng thay vì vừa đi vừa dùng tay gạt, và chấp nhận đến nơi muộn hơn dự kiến. Không có cuộc hẹn nào quan trọng bằng việc nhìn rõ mình đang đi về đâu.
+Trường hợp đáng kể riêng là chạng vạng kèm mưa phùn, kiểu thời tiết rất phổ biến vào cuối năm ở Hà Nội. Mưa phùn làm mặt đường ẩm, kính visor dính lớp nước lăn không rơi, và ánh sáng xiên buổi chiều tán xạ trên màn nước nhỏ kia thành một lớp loá mỏng. Tầm nhìn trong tình huống này kém hơn cả mưa to có gió thổi khô kính. Nếu bị kẹt đúng khung giờ này, giảm tốc
+ mạnh hơn nữa, bật đèn, lau visor tại điểm dừng thay vì vừa đi vừa dùng tay gạt, và chấp nhận đến nơi muộn hơn dự kiến. Không có cuộc hẹn nào quan trọng bằng việc nhìn rõ mình đang đi về đâu.
 
 ## Về nhà an toàn trong khung giờ này
 
@@ -57,4 +60,4 @@ Cuối cùng, hãy nhìn lại cách kết thúc ngày: phần lớn người đ
 
 ## Kết lại
 
-Giờ chạng vạng là khoảng thời gian ngắn nhưng thống kê tai nạn của nó không ngắn như thời lượng, vì tầm nhìn của tất cả mọi người cùng giảm một lúc. Bật đèn sớm, giảm một mức tốc độ, để rộng khoảng cách, cảnh giác với người đi bộ và xe không đèn, và chuẩn bị đèn kỹ khi nhận xe thuê là cách biến giờ chuyển sáng tối thành chỉ một đoạn đường bình thường. Mọi thắc mắc về việc chuẩn bị xe cho lịch trình đi sớm về muộn, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, tham khảo [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc đọc thêm các [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi xe trong các điều kiện đặc biệt.
+Giờ chạng vạng là khoảng thời gian ngắn nhưng thống kê tai nạn của nó không ngắn như thời lượng, vì tầm nhìn của tất cả mọi người cùng giảm một lúc. Bật đèn sớm, giảm một mức tốc độ, để rộng khoảng cách, cảnh giác với người đi bộ và xe không đèn, và chuẩn bị đèn kỹ khi nhận xe thuê là cách biến giờ chuyển sáng tối thành chỉ một đoạn đường bình thường. Mọi thắc mắc về việc chuẩn bị xe cho lịch trình đi sớm về muộn, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, tham khảo [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc đọc thêm các [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi xe trong các điều kiện đặc biệt.

@@ -21,7 +21,8 @@ Tin nhắn hỏi cũng nên ghi cụ thể: món gì, gắn vào đâu, bằng c
 
 ## Nhóm phụ kiện an toàn: tháo lắp không để dấu
 
-Nhóm đầu tiên gồm các món gắn bằng lực kẹp hoặc dây, không khoan, không dán, không thay thế bộ phận gốc: móc treo túi loại cài vào thanh sau, lưới chằng cốp sau bằng dây thun có móc, túi vải cài vào phía trước, ốp silicon quanh chìa khóa. Các món này có thể tháo gỡ hoàn toàn không vết, và rủi ro duy nhất của chúng là làm hỏng gì đó khi dùng sai cách, ví dụ treo quá nặng làm cong móc hoặc lưới chằng quá căng làm xước lớp nhựa dưới. Khi tháo trước ngày trả xe, lau sạch vùng tiếp xúc là đủ.
+Nhóm đầu tiên g
+ồm các món gắn bằng lực kẹp hoặc dây, không khoan, không dán, không thay thế bộ phận gốc: móc treo túi loại cài vào thanh sau, lưới chằng cốp sau bằng dây thun có móc, túi vải cài vào phía trước, ốp silicon quanh chìa khóa. Các món này có thể tháo gỡ hoàn toàn không vết, và rủi ro duy nhất của chúng là làm hỏng gì đó khi dùng sai cách, ví dụ treo quá nặng làm cong móc hoặc lưới chằng quá căng làm xước lớp nhựa dưới. Khi tháo trước ngày trả xe, lau sạch vùng tiếp xúc là đủ.
 
 Nhóm này vẫn nên báo cửa hàng một lần, nhưng ở mức thông báo kèm mô tả, vì trọng lượng thêm vào sau xe về nguyên tắc cũng thay đổi xử lý xe: một túiheavy chằng sau làm xe nặng đuôi, và người đi cần tự điều chỉnh cảm giác lái theo đồ mình mang.
 
@@ -33,7 +34,8 @@ Hộp đựng sau loại có đế vặn ốc là bước khác biệt thật: n
 
 ## Nhóm tuyệt đối tránh
 
-Danh sách ngắn nhưng dứt khoát. Không gắn đèn pha bổ sung nối vào hệ thống điện xe: việc th đấu dây sai có thể cháy mạch, và đèn tự chế chiếu sai góc còn gây nguy hiểm cho người ngược chiều. Không gắn còi to hoặc hệ thống âm thanh: cùng vấn đề điện và tiếng ồn ngoài quy định. Không thay linh kiện gốc như gương, chắn bùn, bạc quang bằng phụ kiện tự mua giữa kỳ, kể cả khi món cũ đã xước: việc thay là việc của cửa hàng, và bạn chỉ việc báo. Không dán decal hay film trang trí dùng keo mạnh: các keo này để lại vệt và kéo theo lớp sơn khi bóc, biến một chi tiết trang trí vui thành một khoản bồi thường. Không sơn, dí lại màu bất kỳ bộ phận nào.
+Danh sách ngắn nhưng dứt khoát. Không gắn đèn pha bổ sung nối vào hệ thống điện xe: việc t
+h đấu dây sai có thể cháy mạch, và đèn tự chế chiếu sai góc còn gây nguy hiểm cho người ngược chiều. Không gắn còi to hoặc hệ thống âm thanh: cùng vấn đề điện và tiếng ồn ngoài quy định. Không thay linh kiện gốc như gương, chắn bùn, bạc quang bằng phụ kiện tự mua giữa kỳ, kể cả khi món cũ đã xước: việc thay là việc của cửa hàng, và bạn chỉ việc báo. Không dán decal hay film trang trí dùng keo mạnh: các keo này để lại vệt và kéo theo lớp sơn khi bóc, biến một chi tiết trang trí vui thành một khoản bồi thường. Không sơn, dí lại màu bất kỳ bộ phận nào.
 
 Cách nghĩ gọn: phụ kiện tốt cho xe thuê là phụ kiện tháo ra không ai biết nó từng ở đó; mọi thứ để lại dấu vết đều cần sự đồng ý của người sở hữu.
 
@@ -46,12 +48,13 @@ Cũng nhắc luôn: pin điện thoại và pin xe là hai thứ dễ cạn cùn
 
 ## Mưa nắng và phụ kiện: hai món đáng mang hơn mọi món gắn
 
-Thay vì gắn thêm đồ lên xe, có hai món mang theo giải quyết được phần lớn nhu cầu mà không đụng đến một con ốc. Món thứ nhất là tấm bạt hoặc áo che xe loại gấp gọn, dùng che yên và tay lái khi đỗ ngoài mưa và nắng, bảo vệ cả phần da yên lẫn đồ điện tử của chính bạn. Món thứ hai là giá đỡ điện thoại dạng dây quấn túi, loại tháo trong ba mươi giây và không để lại vết hằn, đáp ứng đủ nhu cầu nhìn bản đồ lúc dừng. Hai món này cùng túi đồ nghề và túi đồ mưa chiếm ít chỗ trong cốp, và chúng cho bạn chín mươi phần trăm lợi ích của các phụ kiện gắn cố định mà không đổi lấy bất kỳ vết nào trên xe. Người hay cân nhắc mua đồ gắn nên bắt đầu từ hai món mang theo này, và phần lớn sẽ thấy không cần thêm gì nữa.
+Thay vì gắn thêm đồ lên xe, có hai món mang theo giải quyết được phần lớn nhu cầu mà không đụng đến một con ốc. Món thứ nhất là tấm bạt hoặc áo che xe loại gấp gọn, dùng che yên và tay lái khi đỗ ngoài mưa và nắng, bảo vệ cả phần da yên lẫn đồ điện tử của chính bạn. Món thứ hai là giá đỡ điện thoại dạng dây quấn túi, lo
+ại tháo trong ba mươi giây và không để lại vết hằn, đáp ứng đủ nhu cầu nhìn bản đồ lúc dừng. Hai món này cùng túi đồ nghề và túi đồ mưa chiếm ít chỗ trong cốp, và chúng cho bạn chín mươi phần trăm lợi ích của các phụ kiện gắn cố định mà không đổi lấy bất kỳ vết nào trên xe. Người hay cân nhắc mua đồ gắn nên bắt đầu từ hai món mang theo này, và phần lớn sẽ thấy không cần thêm gì nữa.
 
 ## Kết thúc kỳ thuê: trả xe về hiện trạng
 
 Dù đã hỏi và được gắn thứ gì, ngày trước khi trả xe là ngày tháo sạch mọi thứ của bạn. Tháo từ từ, kiểm tra vùng tiếp xúc có vết hằn không, lau sạch bụi và keo còn dính, và mang đi toàn bộ đồ cá nhân trong cốp, kể cả túi nilon rỗng và vé gửi xe cũ. Sau khi tháo, tự đi một vòng quanh xe trong ánh sáng tốt và chụp lại bộ ảnh cuối kỳ; so với album ngày nhận, và nếu có vết hằn nào do phụ kiện để lại, chủ động nhắn cửa hàng trước giờ hẹn kèm ảnh và lời giải thích. Sự chủ động ở bước này luôn được đón nhận dễ hơn sự bị phát hiện.
 
-Để hiểu rõ hơn phần trách nhiệm và hiện trạng xe trong suốt kỳ thuê, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}); các bài về hồ sơ bàn giao và phân loại trầy xước trong [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) sẽ giúp bạn ghi nhận đúng hiện trạng từ đầu; và mọi câu hỏi về phụ kiện cho dòng xe cụ thể, gửi trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) trước khi mua bất cứ món gì.
+Để hiểu rõ hơn phần trách nhiệm và hiện trạng xe trong suốt kỳ thuê, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/); các bài về hồ sơ bàn giao và phân loại trầy xước trong [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) sẽ giúp bạn ghi nhận đúng hiện trạng từ đầu; và mọi câu hỏi về phụ kiện cho dòng xe cụ thể, gửi trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) trước khi mua bất cứ món gì.
 
 Chiếc xe thuê có thể thành quen theo thời gian, nhưng nó chỉ thành của bạn theo hợp đồng; giữ ranh giới ấy qua từng món đồ gắn thêm là cách thuê dài hạn ba tháng mà kết thúc êm đẹp như ngày đầu.

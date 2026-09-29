@@ -19,7 +19,8 @@ Rời khỏi các trục chính của Hà Nội sau mười giờ đêm, thành 
 
 ## Đọc mặt đường trong bóng tối
 
-Trên đường có đèn, mắt đọc đường qua màu sắc và hình khối. Trong bóng tối với đèn pha, cách đọc đổi hẳn: mặt đường tốt phản chiếu đều và sáng, các vệt tối dài là vệt bánh xe hoặc rãnh lún, các vệt tối lấm chấm là sỏi hoặc ổ gà, và các vệt sáng bất thường ngang đường có thể là vạch sơn hoặc miếng tôn vá đường, thứ trơn khi ướt. Kỹ năng quan trọng nhất là đọc theo khoảng: những gì hiện rõ trong vũng sáng của đèn pha cách bạn ba mươi mét thì bạn đã gần tới nó ở tốc độ bốn mươi km một giờ, và mọi quyết định về hướng phải được ra trước đó. Vì thế nguyên tắc vàng của đường vắng: tốc độ phải thấp tới mức mọi thứ bạn nhìn thấy trong vũng sáng đều còn thời gian xử lý, và khi không nhìn thấy gì, chậm tới mức không cần nhìn thấy cũng ổn.
+Trên đường có đèn, mắt đọc đường qua màu sắc và hình khối. Trong bóng tối với đèn pha, cách đọc đổi hẳn: mặt đường tốt phản chiếu đều và sáng, các vệt tối dài là vệt bánh xe hoặc rãnh lún, các vệt tối lấm chấ
+m là sỏi hoặc ổ gà, và các vệt sáng bất thường ngang đường có thể là vạch sơn hoặc miếng tôn vá đường, thứ trơn khi ướt. Kỹ năng quan trọng nhất là đọc theo khoảng: những gì hiện rõ trong vũng sáng của đèn pha cách bạn ba mươi mét thì bạn đã gần tới nó ở tốc độ bốn mươi km một giờ, và mọi quyết định về hướng phải được ra trước đó. Vì thế nguyên tắc vàng của đường vắng: tốc độ phải thấp tới mức mọi thứ bạn nhìn thấy trong vũng sáng đều còn thời gian xử lý, và khi không nhìn thấy gì, chậm tới mức không cần nhìn thấy cũng ổn.
 
 ## Ảnh đèn ngược chiều trên đường vắng
 
@@ -27,7 +28,8 @@ Trên đường vắng, các xe ngược chiều thưa nhưng mỗi xe là một
 
 ## Các ảo giác của đường vắng
 
-Bóng đêm tạo các ảo giác kinh điển mà người đi đêm nhiều ai cũng từng gặp. Ảo giác khoảng cách: một vũng sáng từ cửa hàng ven đường trông như ngã rẽ gần, thực ra còn xa, và ngược lại, các đoạn cong khuất trông như đường thẳng trong tối. Ảo giác chuyển động: đom đóm, đèn đốt ruộng hoặc đèn nhà xa trông như đèn xe, khiến bạn phán đoán sai có xe ngược chiều hay không. Ảo giác điểm dừng: các đoạn đường quen ban đêm dài hơn cảm giác ban ngày, và người mệt có xu hướng nghĩ sắp tới nơi rồi để duy trì tốc độ. Thuốc chung cho cả ba ảo giác là một quy tắc cứng: trong bóng tối, mọi phán đoán khoảng cách và hình khối chỉ tin được khi vào trong vũng sáng của đèn pha mình, trước đó đều là giả thuyết cần đi chậm để kiểm chứng.
+Bóng đêm tạo các ảo giác kinh điển mà người đi đêm nhiều ai cũng từng gặp. Ảo giác khoảng cách: một vũng sáng từ cửa hàng ven đường trông như ngã rẽ gần, thực ra còn xa, và ngược lại, các đoạn cong khuất trông như đường thẳng trong tối. Ảo giác chuyển động: đom đóm, đèn đốt ruộng hoặc đèn nhà xa trông như đèn xe, khiến bạn phán đoán sai có xe ngược chiều hay không. Ảo giác điểm dừng: các đoạn đường quen ban đêm dài hơn cảm giác ban ngày, và người mệt có xu hướng nghĩ sắp tới nơi rồi để duy trì tốc độ. Thuốc chung cho cả ba ảo giác là một quy tắc cứng: trong bóng tối, mọi phán đoán khoảng cách và hình khối chỉ tin được khi vào trong vũng sáng của đèn pha mình, trước đó đều là giả thuyết cần đi
+ chậm để kiểm chứng.
 
 ## Người và xe không đèn trên đường vắng
 
@@ -39,7 +41,8 @@ Rủi ro đặc trưng của các tuyến ven đêm: người đi bộ không đ
 
 ## Mưa phùn và sương trên đường vắng
 
-Hai dạng thời tiết làm đường vắng đêm tệ nhất. Mưa phùn: mặt đường có lớp nước mỏng đều, đèn pha bị phản xạ tán loạn thành màn sáng trắng, và phần đường ướt không phân biệt được với khô, vì thế mọi đoạn đều đi theo kiểu trơn. Sương dày: các giải sương thấp ven ruộng giảm tầm nhìn đèn xuống vài mét, và sương còn làm ướt mặt đường một cách vô hình. Với cả hai, giải pháp giống nhau: hạ tốc về mức nhìn được quãng phanh thật sự của mình, mở đèn cốt thay vì chiếu xa vì chiếu xa phản xạ mạnh hơn vào màn sương, và nếu sương dày đặc, dừng chờ ở điểm có mái, vì các giải sương thường qua trong một quãng ngắn.
+Hai dạng thời tiết làm đường vắng đêm tệ nhất. Mưa phùn: mặt đường có lớp nước mỏng đều, đèn pha bị phản xạ tán loạn thành màn sáng trắng, và phần đường ướt không phân biệt được với khô, vì thế mọi đoạn đều đi theo kiểu trơn. Sương dày: các giải sương thấp ven ruộng giảm tầm nhìn đèn xuống vài mét, và sương còn làm ướt mặt đường một cách vô hình. Với cả hai, giải pháp giống nhau: hạ tốc về mức nhìn được quãng phanh thật sự của mình, mở đèn cốt thay vì chiếu xa vì chiếu xa phản xạ mạnh hơn vào màn sương, và nếu sương dày đặc, dừng chờ ở điểm có mái, vì các giải 
+sương thường qua trong một quãng ngắn.
 
 ## Trang phục cho chuyến đêm vắng
 
@@ -47,4 +50,4 @@ Hai dạng thời tiết làm đường vắng đêm tệ nhất. Mưa phùn: m�
 
 ## Kết lại
 
-Đường vắng thiếu đèn về đêm đòi hỏi đèn xe tốt, cách đọc mặt đường bằng vũng sáng, kỹ năng né nguồn sáng ngược chiều, và sự trung thực về mệt mỏi của chính mình. Tốc độ luôn theo điều kiện nhìn thấy, và dừng khi buồn ngủ là kỹ năng, không phải yếu đuối. Nếu bạn có các chuyến về khuya qua tuyến vắng và cần một chiếc xe đèn tốt, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi lại an toàn vào ban đêm.
+Đường vắng thiếu đèn về đêm đòi hỏi đèn xe tốt, cách đọc mặt đường bằng vũng sáng, kỹ năng né nguồn sáng ngược chiều, và sự trung thực về mệt mỏi của chính mình. Tốc độ luôn theo điều kiện nhìn thấy, và dừng khi buồn ngủ là kỹ năng, không phải yếu đuối. Nếu bạn có các chuyến về khuya qua tuyến vắng và cần một chiếc xe đèn tốt, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi lại an toàn vào ban đêm.

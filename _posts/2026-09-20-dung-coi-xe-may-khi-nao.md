@@ -19,7 +19,8 @@ Còi phát huy tác dụng trong ba loại tình huống. Thứ nhất, cảnh b
 
 ## Những kiểu bấm còi vô nghĩa
 
-Kiểu phổ biến nhất: bấm còi dài vào người đã đi tiếp và không thể làm gì khác, ví dụ bấm sau lưng dòng xe đang dừng ở đèn đỏ. Loại còi này không thay đổi tình huống nào, chỉ góp phần làm các đầu óc xung quanh thêm căng thẳng. Kiểu thứ hai: bấm liên tục khi phía trước có người luồn lách, trong khi bản thân hoàn toàn có thể giảm tốc và theo sau an toàn. Kiểu thứ ba: bấm chào hỏi bạn trên đường, bấm giục người quen trước cổng nhà. Toàn bộ các kiểu này dùng còi như phương tiện thể hiện cảm xúc cá nhân, và vấn đề không chỉ là ồn: mỗi tiếng còi vô nghĩa làm môi trường giao thông kém dễ đọc đi một chút, vì người ta dần học cách bỏ qua mọi tiếng còi, kể cả các tiếng còi cảnh báo thật.
+Kiểu phổ biến nhất: bấm còi dài vào người đã đi tiếp và không thể làm gì khác, ví dụ bấm sau lưng dòng xe đang dừng ở đèn đỏ. Loại còi này không thay đổi tình huống nào, chỉ gó
+p phần làm các đầu óc xung quanh thêm căng thẳng. Kiểu thứ hai: bấm liên tục khi phía trước có người luồn lách, trong khi bản thân hoàn toàn có thể giảm tốc và theo sau an toàn. Kiểu thứ ba: bấm chào hỏi bạn trên đường, bấm giục người quen trước cổng nhà. Toàn bộ các kiểu này dùng còi như phương tiện thể hiện cảm xúc cá nhân, và vấn đề không chỉ là ồn: mỗi tiếng còi vô nghĩa làm môi trường giao thông kém dễ đọc đi một chút, vì người ta dần học cách bỏ qua mọi tiếng còi, kể cả các tiếng còi cảnh báo thật.
 
 ## Còi ngắn, còi sớm, thay vì còi dài, còi muộn
 
@@ -31,7 +32,8 @@ Các khu dân cư về đêm, khu vực bệnh viện, khu vực trường học
 
 ## Thay quan sát cho còi
 
-Nhu cầu bấm còi giảm mạnh khi người lái đọc được giao thông phía trước sớm. Kỹ năng là nhìn xa hơn chiếc xe ngay trước mặt: quan sát dải hai mươi ba mươi mét phía trước, để ý các tín hiệu nhỏ như xe đỗ nghiêng chuẩn bị lùi, người bộ hành đổi hướng đầu nhìn sang bên kia đường, xe máy phía trước bắt đầu lệch vạch. Nhìn được sớm, bạn có cả quãng đường để giảm tốc hoặc đổi vị trí, và còi trở thành lựa chọn chứ không phải phản xạ. Đây cũng là lý do người đi đường lâu năm bấm còi ít hơn người mới: họ không đi qua ít tình huống hơn, họ chỉ nhìn thấy các tình huống sớm hơn.
+Nhu cầu bấm còi giảm mạnh khi người lái đọc được giao thông phía trước sớm. Kỹ năng là nhìn xa hơn chiếc x
+e ngay trước mặt: quan sát dải hai mươi ba mươi mét phía trước, để ý các tín hiệu nhỏ như xe đỗ nghiêng chuẩn bị lùi, người bộ hành đổi hướng đầu nhìn sang bên kia đường, xe máy phía trước bắt đầu lệch vạch. Nhìn được sớm, bạn có cả quãng đường để giảm tốc hoặc đổi vị trí, và còi trở thành lựa chọn chứ không phải phản xạ. Đây cũng là lý do người đi đường lâu năm bấm còi ít hơn người mới: họ không đi qua ít tình huống hơn, họ chỉ nhìn thấy các tình huống sớm hơn.
 
 ## Còi trong các tình huống đặc biệt
 
@@ -43,7 +45,8 @@ Người ngồi sau thường có góc nhìn mà người lái không có: phía
 
 ## Còi với xe thuê
 
-Với xe thuê, kiểm tra còi là một mục trong buổi nhận xe: bấm thử cả hai mức nếu xe có, nghe xem tiếng còi có đủ to và rõ không. Còi yếu trên xe máy đi trong dòng giao thông dày là một bất lợi thật sự, vì phần lớn tín hiệu phòng ngừa của xe máy là âm thanh chứ không phải kích thước. Nếu còi hỏng giữa kỳ thuê, báo nơi cho thuê để được hướng dẫn, không tự tháo lắp hệ thống điện trên xe thuê. Trước khi nhận, cũng nên biết vị trí nút còi của loại xe mình thuê, vì xe ga và xe số đặt nút còi khác nhau, và trong tình huống cần cảnh báo gấp, nửa giây lúng túng tìm nút là thời gian không có.
+Với xe thuê, kiểm tra còi là một mục trong buổi nhận xe: bấm thử cả hai mức nếu xe có, nghe xem tiếng còi có đủ to và rõ không. Còi yếu trên xe máy đi trong dòng giao thông dày là một bất lợi thật sự, vì phần lớn tín hiệu phòng ngừa của xe máy là âm thanh chứ không phải kích thước. Nếu còi hỏng giữa kỳ thuê, báo nơi cho thuê để được hướng dẫn, không tự tháo lắp hệ thống điện trên xe thuê
+. Trước khi nhận, cũng nên biết vị trí nút còi của loại xe mình thuê, vì xe ga và xe số đặt nút còi khác nhau, và trong tình huống cần cảnh báo gấp, nửa giây lúng túng tìm nút là thời gian không có.
 
 ## Thói quen còi của từng loại người đi đường
 
@@ -51,4 +54,4 @@ Quan sát đủ lâu sẽ thấy mỗi người có chữ ký còi riêng: ngư�
 
 ## Kết lại
 
-Còi dùng đúng là tín hiệu ngắn, sớm và trong tình huống thật sự cần cảnh báo, còn lại là việc của quan sát chủ động và tốc độ phù hợp. Giảm còi vô nghĩa giúp mọi tiếng còi còn lại có giá trị hơn, kể cả của chính bạn. Nếu bạn cần thuê xe máy ở Hà Nội và muốn nhận một chiếc xe đầy đủ chức năng còi đèn, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về kỹ năng đi lại trong thành phố.
+Còi dùng đúng là tín hiệu ngắn, sớm và trong tình huống thật sự cần cảnh báo, còn lại là việc của quan sát chủ động và tốc độ phù hợp. Giảm còi vô nghĩa giúp mọi tiếng còi còn lại có giá trị hơn, kể cả của chính bạn. Nếu bạn cần thuê xe máy ở Hà Nội và muốn nhận một chiếc xe đầy đủ chức năng còi đèn, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về kỹ năng đi lại trong thành phố.

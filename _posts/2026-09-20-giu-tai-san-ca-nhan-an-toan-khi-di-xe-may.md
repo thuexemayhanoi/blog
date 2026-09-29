@@ -17,7 +17,8 @@ Hà Nội an toàn hơn danh tiếng của nó về trộm cắp, nhưng dòng x
 
 Quy tắc nền tảng: mọi vật có giá trị nằm trong cốp hoặc túi kín phía trong, không trên người theo cách có thể bị giật. Túi xách có quai điền balo đeo hờ một bên vai là vật mời gọi số một; nếu bắt buộc phải đeo túi, hãy đeo chéo qua vai, quay phần túi về phía trước bụng, và đậy khóa kéo về phía trong. Tốt hơn nữa với người thuê xe: cốp xe máy là nơi gửi túi chuẩn, miễn là cốp khóa được và bạn không để đồ lộ ra khi mở cốp nơi công cộng.
 
-Điện thoại là mục tiêu thứ hai. Thói quen cầm điện thoại trên tay khi dừng đèn đỏ, để nghe nhạc hoặc xem bản đồ, vừa vi phạm quy định về sử dụng thiết bị khi điều khiển xe vừa trưng ra đúng thứ kẻ giật đang tìm. Điện thoại khi đang di chuyển nằm trong túi quần trước có khóa hoặc cốp; khi cần dùng, dừng hẳn vào lề hoặc quán, rồi mới lấy ra. Người mới đến hay giữ điện thoại trên tay vì sợ lạc đường, và đây chính là lúc giải pháp nghe chỉ dẫn bằng loa ngoài của ứng dụng bản đồ trở nên hữu ích: tai rảnh để nghe, tay rảnh để lái, túi kín để chứa.
+Điện thoại là mục tiêu thứ hai. Thói quen cầm điện thoại trên tay khi dừng đèn đỏ, để nghe nhạc hoặc xem bản đồ, vừa vi phạm quy định về sử dụng thiết bị khi điều khiển xe vừa trưng ra đúng thứ kẻ giật đang tìm. Điện thoại khi đang di chuyển nằm trong túi quần trước có khóa hoặc cốp; khi cần dùng, dừng hẳn vào lề hoặc quán, rồi mới lấy ra. Người mới đến hay giữ điện thoại trên tay vì sợ lạc đường, và đây chính là lúc giải pháp ngh
+e chỉ dẫn bằng loa ngoài của ứng dụng bản đồ trở nên hữu ích: tai rảnh để nghe, tay rảnh để lái, túi kín để chứa.
 
 Ví tiền, thẻ và giấy tờ tùy thân nên chia hai nơi: bộ dùng hằng ngày trong túi áo trong hoặc túi quần trước, bộ còn lại cất trong cốp hoặc tại chỗ ở. Chia hai nơi nghĩa là một lần mất không cuốn trọn cả bộ, và bạn luôn còn phương tiện thanh toán và giấy tờ để xử lý tình huống.
 
@@ -29,7 +30,8 @@ Ba quy tắc phòng tránh tổng quát đứng trên mọi tình huống: chở
 
 ## Giữ đồ ở bãi gửi xe và khi rời xe
 
-Bãi gửi xe là nơi mất mát phổ biến nhất không phải vì trộm mà vì quên: quên mũ, quên áo mưa, quên túi ni lông đồ đạc trên giá sau xe. Quy tắc: mỗi lần xuống xe, thực hiện nghi thức ba giây gồm nhìn giá sau, nhìn cốp, nhìn ghế trước. Ba giây đó thu hồi phần lớn mọi thứ hay bỏ quên. Về vé gửi xe, cất vào ví ngay khi nhận thay vì kẹp trên yên, vì mất vé là một khoản phí nhỏ nhưng không cần thiết.
+Bãi gửi xe là nơi mất mát phổ biến nhất không phải vì trộm mà vì quên: quên mũ, quên áo mưa, quên túi ni lông đồ đạc trên giá sau xe. Quy tắc: mỗi lần xuống xe, thực hiện nghi thức ba giây gồm nhìn giá sau, nhìn cốp, nhìn ghế trước. Ba giây đó thu hồi phần lớn mọi thứ hay bỏ quên. Về vé gửi xe, cất vào ví ngay khi nhận thay vì kẹp trên yên, vì mất vé là một khoản 
+phí nhỏ nhưng không cần thiết.
 
 Với đồ trong cốp khi gửi xe qua ngày: cốp xe máy không phải két sắt, và đồ giá trị như máy ảnh, máy tính bảng nên theo người hoặc cất tại chỗ ở. Nếu bắt buộc để trong cốp, chọn bãi gửi có người trông thường trực, và đừng mở cốp soi đồ trước mặt bãi: hành động đó báo hiệu cho người quan sát vị trí và giá trị tài sản của bạn. Nguyên tắc cự ly vàng của tài sản: càng ít người biết bạn đang mang gì, càng an toàn.
 
@@ -43,10 +45,11 @@ Với du khách, thêm hai điều. Thứ nhất, hộ chiếu không nên theo 
 
 Cuối cùng, một điều cần nói cho cân bằng: các rủi ro trên là thiểu số trong tổng số chuyến đi, và đa số người sống ở Hà Nội nhiều năm chưa từng chứng kiến một vụ giật nào. Mục tiêu của các thói quen này không phải khiến bạn đi đường trong lo sợ, mà là để bạn dốc toàn bộ sự chú ý vào việc lái xe, phần quan trọng nhất của an toàn, thay vì chia trí vì lo đồ đạc.
 
-Một câu hỏi thực tế: nếu chẳng may bị giật mất túi có giấy tờ thì làm gì ngay trong giờ đầu? Bước một, dừng ở nơi an toàn và kiểm tra bản thân trước khi kiểm tra đồ, vì va chạm kéo theo cú giật đôi khi để lại trầy xước bạn chưa nhận ra do hoảng. Bước hai, khóa các tài khoản có thể bị lợi dụng: gọi tổng đài ngân hàng khóa thẻ, và kích hoạt khóa từ xa điện thoại nếu thiết bị bị mất theo túi. Bước ba, trình báo cơ quan công an gần nhất để được lập biên bản, thứ bạn sẽ cần cho mọi thủ tục sau. Bước bốn, với giấy tờ tùy thân, lên kế hoạch cấp lại theo hướng dẫn của cơ quan chức năng. Bốn bước này không đòi hỏi sự bình tĩnh siêu nhân, chỉ cần bạn đã đọc qua một lần trước khi cần.
+Một câu hỏi thực tế: nếu chẳng may bị giật mất túi có giấy tờ thì làm gì ngay trong giờ đầu? Bước một, dừng ở 
+nơi an toàn và kiểm tra bản thân trước khi kiểm tra đồ, vì va chạm kéo theo cú giật đôi khi để lại trầy xước bạn chưa nhận ra do hoảng. Bước hai, khóa các tài khoản có thể bị lợi dụng: gọi tổng đài ngân hàng khóa thẻ, và kích hoạt khóa từ xa điện thoại nếu thiết bị bị mất theo túi. Bước ba, trình báo cơ quan công an gần nhất để được lập biên bản, thứ bạn sẽ cần cho mọi thủ tục sau. Bước bốn, với giấy tờ tùy thân, lên kế hoạch cấp lại theo hướng dẫn của cơ quan chức năng. Bốn bước này không đòi hỏi sự bình tĩnh siêu nhân, chỉ cần bạn đã đọc qua một lần trước khi cần.
 
 Một ghi chú cho người thuê xe trong tình huống đó: nếu túi mất chứa giấy tờ đã ghi trong hợp đồng thuê, hãy báo ngay cho cửa hàng kèm biên bản của công an; sự chủ động báo tin sớm luôn giúp mọi việc xử lý sau đó suôn sẻ hơn so với việc để bên cho thuê phát hiện trước.
 
 ## Tóm lại
 
-Giữ tài sản khi đi xe máy dựa trên vài phản xạ: đồ giá trị trong cốp hoặc túi kín phía trong, điện thoại không trên tay khi dừng, chia giấy tờ và tiền hai nơi, nghi thức ba giây mỗi lần xuống xe, khóa hai lớp mỗi khi rời xe, và cảnh giác ở đoạn vắng khuya. Hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm quy trình thuê chuẩn, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần trao đổi trước khi đặt xe.
+Giữ tài sản khi đi xe máy dựa trên vài phản xạ: đồ giá trị trong cốp hoặc túi kín phía trong, điện thoại không trên tay khi dừng, chia giấy tờ và tiền hai nơi, nghi thức ba giây mỗi lần xuống xe, khóa hai lớp mỗi khi rời xe, và cảnh giác ở đoạn vắng khuya. Hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm quy trình thuê chuẩn, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần trao đổi trước khi đặt xe.

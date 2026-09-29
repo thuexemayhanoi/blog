@@ -19,7 +19,8 @@ Một bộ hồ sơ bàn giao tối thiểu gồm ba phần. Phần một: bộ 
 
 Bộ ảnh theo trình tự cố định nghĩa là: bắt đầu từ đầu xe, chụp thẳng mặt trước, rồi quay vòng theo một chiều, mỗi góc một tấm, cộng thêm các cận cảnh cốp, khóa, bệ để chân, và gần cuối là bảng đồng hồ và mực xăng. Chụp theo cùng trình tự mỗi lần, tới ngày trả xe bạn có thể so sánh ảnh với ảnh, góc với góc, thay vì lục lọi trong hàng trăm tấm ảnh ngẫu nhiên.
 
-Người thuê dài hạn nên thêm phần tư: ghi chú ngày tháng mỗi lần xe có sự kiện mới trong kỳ thuê, từ cú ngã nhẹ trong bãi gửi tới lần vá lốp. Hồ sơ sống này không cần dài dòng; một dòng mỗi sự kiện là đủ, nhưng có ngày tháng và mô tả ngắn, nó trở thành dòng thời gian của chiếc xe trong thời gian ở với bạn.
+Người thuê dài hạn nên thêm phần tư: ghi chú ngày tháng mỗi lần xe có sự kiện mới trong kỳ thuê, từ cú ngã nhẹ trong bãi gửi tới lần vá lốp. Hồ sơ sống này không cần dài dòng; một dòng mỗi sự kiện là đủ, nhưng có ngày tháng và mô tả ngắn, nó trở thành dòng thời gian của chiếc xe trong thời gian ở với 
+bạn.
 
 ## Phân loại trầy xước: bốn mức thực dụng
 
@@ -33,7 +34,8 @@ Một câu hỏi thực tế: hồ sơ này có cần bên cho thuê xác nhận
 
 Phần chức năng của hồ sơ quan trọng không kém phần ngoại hình, vì nó quyết định an toàn của chính bạn trong kỳ thuê. Trình tự kiểm tra nhanh: bắt máy thử, nghe tiếng máy đều; vặn ga nhẹ xem xe phản ứng thế nào; bóp hai phanh khi đẩy xe tiến nhẹ; bật hết các đèn và còi, nhờ người hoặc dùng camera điện thoại để xác nhận phía sau; vặn ghi đông trái phải hết cỡ nghe có kẹt không; và lắc nhẹ đầu xe kiểm tra độ lỏng của cổ trước.
 
-Với xe ga, thêm kiểm tra cốp mở đóng, khóa từ xa nếu có, và chân chống tự tắt máy khi gài chống. Với xe số, kiểm tra cần sang số qua từng số khi đẩy nhẹ xe, và phanh sau bằng bàn chân phải. Với xe điện, ghi lại phần trăm pin lúc nhận và hỏi rõ rằng giới hạn quãng đường thực tế của chiếc xe cụ thể này, vì pin cũ xuống cấp chạy ít hơn công bố.
+Với xe ga, thêm kiểm tra cốp mở đóng, khóa từ xa nếu có, và chân chống tự tắt máy khi gài chống. Với xe số, kiểm tra cần sang số qua từng số khi đẩy nhẹ xe, và phanh sau bằng bàn chân phải. Với xe điện, ghi lại p
+hần trăm pin lúc nhận và hỏi rõ rằng giới hạn quãng đường thực tế của chiếc xe cụ thể này, vì pin cũ xuống cấp chạy ít hơn công bố.
 
 Mọi phát hiện lúc kiểm tra nên ghi thẳng vào hồ sơ và báo người giao xe trước khi ký nhận. Nhiều người ngại hỏi vì sợ phiền, nhưng một câu hỏi buổi sáng rẻ hơn một cuộc tranh luận buổi chiều. Người giao xe cũng thường đánh giá cao người thuê biết kiểm tra, vì nó cho thấy xe sẽ được chăm sóc trong kỳ thuê.
 
@@ -49,11 +51,12 @@ Nếu giữa kỳ có va chạm làm hỏng xe, nguyên tắc báo ngay trong ng
 
 Ngày trả, hồ sơ phát huy trọn giá trị. Trình tự gợi ý: trước khi đi trả, tự đi vòng quanh xe với bộ ảnh ngày nhận và so sánh; lau bụi và rửa xe nhẹ nếu cần, bởi chiếc xe sạch làm mọi vết xước hiện rõ, tránh việc vết bùn che mất vết trầy khiến hai bên tranh cãi về chuyện không có. Tại cửa hàng, cùng nhau xem xe, mở bộ ảnh ra đối chiếu từng góc, và chỉ tập trung vào những khác biệt thật.
 
-Nếu có vết xước mới phát sinh trong kỳ thuê thuộc trách nhiệm của bạn, nói thẳng ngay với dữ kiện trong tay: đây là vết phát sinh ở sự kiện ngày nào, đây là ảnh trước sau. Người trung thực với hồ sơ rõ ràng thường nhận được cách tính toán thiện chí từ cửa hàng, vì mọi thứ minh bạch từ đầu.
+Nếu có vết xước mới phát sinh trong kỳ thuê thuộc trách nhiệm của bạn, nói thẳng ngay với dữ kiện trong tay: đây là vết phát sinh ở sự kiện ngày nào, đây là ảnh trước sau. Ngườ
+i trung thực với hồ sơ rõ ràng thường nhận được cách tính toán thiện chí từ cửa hàng, vì mọi thứ minh bạch từ đầu.
 
 Trước khi ký biên bản trả xe, chắc chắn tài sản cá nhân đã lấy hết khỏi cốp, chìa khóa giao lại đủ theo số ghi trong hợp đồng, và giấy tờ xe bàn giao lại đúng bộ đã nhận. Ngày cuối đẹp là ngày hai bên ký nhanh và cả hai cùng thấy nhẹ người.
 
-Để hiểu rộng hơn về khuôn khổ trách nhiệm, đọc bài về [trách nhiệm khi xe thuê bị hư hỏng]( {{ '/kinh-nghiem/' | relative_url }}), và về [quy trình chụp ảnh khi nhận và trả xe]( {{ '/kinh-nghiem/' | relative_url }}). Bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) đặt hồ sơ bàn giao vào bức tranh chung của một kỳ thuê suôn sẻ. Với câu hỏi về mẫu ghi nhận hoặc những gì cần kiểm trước khi nhận, trang [liên hệ]( {{ '/lien-he/' | relative_url }}) là nơi hỏi trực tiếp trước ngày nhận xe.
+Để hiểu rộng hơn về khuôn khổ trách nhiệm, đọc bài về [trách nhiệm khi xe thuê bị hư hỏng]( {{ '/kinh-nghiem/' | relative_url }}), và về [quy trình chụp ảnh khi nhận và trả xe]( {{ '/kinh-nghiem/' | relative_url }}). Bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) đặt hồ sơ bàn giao vào bức tranh chung của một kỳ thuê suôn sẻ. Với câu hỏi về mẫu ghi nhận hoặc những gì cần kiểm trước khi nhận, trang [liên hệ]( {{ '/lien-he/' | relative_url }}) là nơi hỏi trực tiếp trước ngày nhận xe.
 
 Hai mươi phút lập hồ sơ ngày nhận xe là khoản thời gian sinh lời cao nhất trong cả kỳ thuê. Nó không làm xe đẹp hơn, nhưng nó làm mọi cuộc nói chuyện về chiếc xe sau này trở nên ngắn và dễ chịu.
 ## Hồ sơ điện tử: lưu ở đâu và lưu bao lâu

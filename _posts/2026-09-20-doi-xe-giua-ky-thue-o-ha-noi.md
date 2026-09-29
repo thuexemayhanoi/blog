@@ -19,7 +19,8 @@ Trước khi bàn thủ tục, hãy xác định nhu cầu đổi là thật hay
 
 Ngược lại, các lý do thẩm mỹ như màu xe không đẹp trong ảnh, hoặc cảm tính như thấy xe khác trông mới hơn, thường không đáng để làm phiền cửa hàng. Chiếc xe đang chạy tốt vẫn là lựa chọn tốt nhất cho phần còn lại của kỳ thuê, và việc đổi kéo theo các thủ tục nhỏ có thể làm gián đoạn ngày của bạn. Hãy cân nhắc kỹ trước khi đưa ra yêu cầu, để mỗi lần đổi đều có lý do đáng giá.
 
-Trường hợp biên giới cần phân biệt: xe có dấu hiệu bất thường như tiếng kêu lạ, phanh yếu hay đèn không sáng. Đây không phải là lý do đổi xe ngay lập tức, mà là lý do báo cửa hàng ngay lập tức. Nhiều vấn đề nhỏ được xử lý trong vài phút hoặc vài giờ, nhanh hơn việc làm thủ tục đổi xe, và cách xử lý đúng đã được trình bày trong bài về dấu hiệu xe cần báo cửa hàng. Chỉ khi vấn đề không khắc phục được kịp thời, đổi xe mới thành phương án chính.
+Trường hợp biên giới cần phân biệt: xe có dấu hiệu bất thường như tiếng kêu lạ, phanh yếu hay đèn không sáng. Đây không phải là lý do đổi xe ngay lập tức, mà là lý do báo cửa hàng ngay lập tức. Nhiều vấn đề nhỏ được xử lý trong vài phút hoặc vài giờ, nhanh hơn việc làm thủ tụ
+c đổi xe, và cách xử lý đúng đã được trình bày trong bài về dấu hiệu xe cần báo cửa hàng. Chỉ khi vấn đề không khắc phục được kịp thời, đổi xe mới thành phương án chính.
 
 ## Cách trao đổi với cửa hàng
 
@@ -33,7 +34,8 @@ Khi trao đổi, hãy nói rõ ba thông tin: lý do cần đổi, dòng xe mong
 
 Khi đến cửa hàng đổi xe, quy trình thường gồm: kiểm tra tình trạng xe cũ theo biên bản, tất toán phần chi phí chênh lệch nếu có, và giao xe mới kèm hợp đồng hoặc phụ lục mới. Về chi phí, các khoản cần làm rõ gồm: giá thuê của dòng xe mới tính từ thời điểm đổi, phần tiền đã trả cho dòng xe cũ được xử lý thế nào, và khoản cọc có được chuyển tiếp hay cần đối chiếu lại. Khoản đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp, nên khi đổi sang dòng xe khác, mức cọc tham chiếu có thể khác.
 
-Trên chiếc xe mới, hãy làm đúng bộ kiểm tra như lần nhận xe đầu tiên, thậm chí kỹ hơn vì bạn đang giữa chuyến đi và không có nhiều thời gian làm quen. Nổ máy nghe tiếng máy, bóp hai phanh, thử tay ga, bật đèn còi, kiểm tra gương và lốp, hỏi mức xăng, và chụp ảnh vòng quanh xe. Bộ ảnh lần nhận xe thứ hai quan trọng ngang lần đầu, vì nó là mốc tham chiếu cho tình trạng chiếc xe mới cho đến khi bạn trả. Đừng để thói quen làm lần hai lỏng hơn lần đầu.
+Trên chiếc xe mới, hãy làm đúng bộ kiểm tra như lần nhận xe đầu tiên, thậm chí kỹ hơn vì b
+ạn đang giữa chuyến đi và không có nhiều thời gian làm quen. Nổ máy nghe tiếng máy, bóp hai phanh, thử tay ga, bật đèn còi, kiểm tra gương và lốp, hỏi mức xăng, và chụp ảnh vòng quanh xe. Bộ ảnh lần nhận xe thứ hai quan trọng ngang lần đầu, vì nó là mốc tham chiếu cho tình trạng chiếc xe mới cho đến khi bạn trả. Đừng để thói quen làm lần hai lỏng hơn lần đầu.
 
 Nếu bạn có đồ đạc trong cốp hoặc balo trên xe cũ, kiểm tra kỹ trước khi giao xe cũ lại: gầm yên, cốp, móc treo, túi đồ. Đây là lúc các vật nhỏ như khóa, sạc điện thoại, giấy gửi xe dễ bị bỏ quên nhất, và lấy lại sau khi xe đã được xếp vào vị trí khác thường mất nhiều thời gian hơn bạn tưởng. Một phút dọn đồ cẩn thận là một phút đáng giá.
 
@@ -47,10 +49,11 @@ Về giấy tờ, việc đổi xe cần được phản ánh trên văn bản: 
 
 ## Khi nào đổi xe không phải lựa chọn tốt
 
-Có những tình huống đổi xe không đáng. Nếu kỳ thuê chỉ còn một ngày và nhu cầu mới chỉ kéo dài vài giờ, gọi xe công nghệ cho phần chặng đặc biệt đó thường gọn hơn đổi xe. Nếu dòng xe mong muốn không có sẵn, cân nhắc dòng tương đương thay vì chờ, vì thời gian chờ cũng là chi phí. Và nếu lý do đổi chỉ là muốn trải nghiệm dòng khác, hãy để ý đó cho lần thuê sau, ghi lại để tham khảo khi đặt xe lần tới.
+Có những tình
+ huống đổi xe không đáng. Nếu kỳ thuê chỉ còn một ngày và nhu cầu mới chỉ kéo dài vài giờ, gọi xe công nghệ cho phần chặng đặc biệt đó thường gọn hơn đổi xe. Nếu dòng xe mong muốn không có sẵn, cân nhắc dòng tương đương thay vì chờ, vì thời gian chờ cũng là chi phí. Và nếu lý do đổi chỉ là muốn trải nghiệm dòng khác, hãy để ý đó cho lần thuê sau, ghi lại để tham khảo khi đặt xe lần tới.
 
-Cách tốt nhất để giảm nhu cầu đổi xe là chọn đúng từ đầu. Trước khi nhận xe, dành vài phút hình dung cả kỳ thuê: đi đâu, chở ai, chạy bao xa, vào khung giờ nào. Câu hỏi đơn giản này lọc bỏ phần lớn các lựa chọn sai, và các dòng xe phù hợp với từng nhu cầu đã được so sánh trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}). Mức giá tham khảo của từng dòng được liệt kê trong [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để bạn cân đối từ đầu.
+Cách tốt nhất để giảm nhu cầu đổi xe là chọn đúng từ đầu. Trước khi nhận xe, dành vài phút hình dung cả kỳ thuê: đi đâu, chở ai, chạy bao xa, vào khung giờ nào. Câu hỏi đơn giản này lọc bỏ phần lớn các lựa chọn sai, và các dòng xe phù hợp với từng nhu cầu đã được so sánh trong bài [xe số, xe ga hay xe 50cc nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/). Mức giá tham khảo của từng dòng được liệt kê trong [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để bạn cân đối từ đầu.
 
 ## Tóm lại
 
-Đổi xe giữa kỳ thuê là việc bình thường khi có lý do thật: nhu cầu thay đổi, sự cố kỹ thuật, hoặc kỳ thuê kéo dài. Cách làm đúng gồm liên hệ trước, mô tả rõ nhu cầu, tất toán và lập văn bản cho xe mới, kiểm tra kỹ như lần đầu và chụp ảnh lại từ đầu đến cuối. Mọi thắc mắc về quy trình đổi xe và tình trạng xe sẵn có đều được giải đáp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), và để nắm quy trình thuê đầy đủ, hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Đổi xe giữa kỳ thuê là việc bình thường khi có lý do thật: nhu cầu thay đổi, sự cố kỹ thuật, hoặc kỳ thuê kéo dài. Cách làm đúng gồm liên hệ trước, mô tả rõ nhu cầu, tất toán và lập văn bản cho xe mới, kiểm tra kỹ như lần đầu và chụp ảnh lại từ đầu đến cuối. Mọi thắc mắc về quy trình đổi xe và tình trạng xe sẵn có đều được giải đáp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), và để nắm quy trình thuê đầy đủ, hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).

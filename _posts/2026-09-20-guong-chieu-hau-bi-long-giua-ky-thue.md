@@ -21,7 +21,8 @@ Thói quen đáng có là nhìn gương ngay khi vừa lên xe, trước khi n�
 
 ## Vì sao gương lỏng là chuyện của an toàn
 
-Dễ coi gương lỏng là phiền toái thẩm mỹ, nhưng góc nhìn sau lưng là thông tin được sử dụng liên tục khi đi trong phố: chuyển làn, rẽ, tránh, đều bắt đầu bằng một cái nhìn gương. Gương rung làm mất nửa giây nhìn rõ; gương trôi giữa chặng làm bạn nhìn vào khoảng trống sai; gương xệ hẳn biến phần sau thành vùng mù. Trong ba tình huống đó, người lái thường bù bằng ngoái đầu nhanh, và động tác ngoái ở tốc độ đô thị tự nó là một phân tâm.
+Dễ coi gương lỏng là phiền toái thẩm mỹ, nhưng góc nhìn sau lưng là thông tin được sử dụng liên tục khi đi trong 
+phố: chuyển làn, rẽ, tránh, đều bắt đầu bằng một cái nhìn gương. Gương rung làm mất nửa giây nhìn rõ; gương trôi giữa chặng làm bạn nhìn vào khoảng trống sai; gương xệ hẳn biến phần sau thành vùng mù. Trong ba tình huống đó, người lái thường bù bằng ngoái đầu nhanh, và động tác ngoái ở tốc độ đô thị tự nó là một phân tâm.
 
 Có một điểm cần nói thẳng: đi với gương xệ hẳn hoặc không dùng được là đi trong trạng thái thiếu an toàn, và không nên kéo dài. Nếu gương rơi luôn cần trong kỳ thuê, dừng dùng xe cho đến khi xử lý xong, vì đó là điều kiện tối thiểu của một chiếc xe đủ an toàn để lưu thông.
 
@@ -35,7 +36,8 @@ Va chạm là nguyên nhân rõ nhất: cú chạm cửa cổng, cọ cột bãi
 
 Nếu gương trôi nhẹ, biện pháp tạm duy nhất an toàn là chỉnh lại góc và đi chậm hơn, giữ khoảng cách lớn hơn với dòng xe, bù cho phần thông tin bị thiếu. Với gương rung, một mẩu băng dính hoặc miếng xốp nhỏ kẹp tại mối nối có thể giảm rung trong chặng về nhà, nhưng đây là giải pháp một buổi, không phải giải pháp một tuần.
 
-Việc đáng tránh là tháo rời cần gương hoặc tự siết ốc bên trong nếu bạn không rõ kết cấu: ren gương mòn dễ hỏng hơn nếu siết sai hướng hoặc sai lực, và một cần gương bị ren hỏng sẽ phải thay cả cụm. Trên xe thuê, ranh giới an toàn là mọi thao tác không làm thay đổi kết cấu: chỉnh góc thì được, tháo siết thì nên để cửa hàng hoặc điểm sửa xe quyết.
+Việc đáng tránh là tháo rời cần gương hoặc tự siết ốc bên trong nếu bạn không rõ kết cấu: ren gương mòn dễ hỏng hơn nếu siết sai hướng hoặc sai lực, và một cần gương bị ren hỏng sẽ phải thay cả cụm. Trên xe thuê, ranh giới an toàn là mọi thao tác không làm thay đổi kết cấu: chỉnh góc thì được, tháo siết thì nên để cửa hàng ho
+ặc điểm sửa xe quyết.
 
 ## Báo cửa hàng: nói gì để được xử lý nhanh
 
@@ -51,11 +53,12 @@ Với gương lỏng không rõ nguyên nhân, cách trung thực nhất là bá
 
 ## Chỉnh lại góc sau khi siết: một phút đáng giá
 
-Sau khi gương được siết hoặc thay, đừng vội lên xe đi luôn; dành một phút chỉnh lại góc đúng với vóc dáng và tư thế ngồi của bạn. Nguyên tắc chỉnh đã được bàn riêng, nhưng có một điểm nhắc lại được nhiều lần mà không thừa: góc gương đúng là góc nhìn từ tư thế ngồi thật, không phải tư thế nghiêng người để "kiểm tra". Ngồi lên yên như mọi ngày, hai tay đặt lên tay lái, rồi nhìn gương trái: mép trong của hình ảnh nên bắt lấy một phần yên sau, phần còn lại là làn đường bên trái. Làm tương tự với gương phải. Với gương cong, hình ảnh sẽ dày hơn và mép có biến dạng nhẹ ở rìa, đó là đặc tính của kính chứ không phải lỗi chỉnh.
+Sau khi gương được siết hoặc thay, đừng vội lên xe đi luôn; dành một phút chỉnh lại góc đúng với vóc dáng và tư thế ngồi của bạn. Nguyên tắc chỉnh đã được bàn riêng, nhưng có một điểm nhắc lại được nhiều lần mà không thừa: góc gương đúng là góc nhìn từ tư thế ngồi thật, không phải tư thế nghiêng người để "kiểm tra". Ngồi lên yên như m
+ọi ngày, hai tay đặt lên tay lái, rồi nhìn gương trái: mép trong của hình ảnh nên bắt lấy một phần yên sau, phần còn lại là làn đường bên trái. Làm tương tự với gương phải. Với gương cong, hình ảnh sẽ dày hơn và mép có biến dạng nhẹ ở rìa, đó là đặc tính của kính chứ không phải lỗi chỉnh.
 
 Nếu bạn hay chở người ngồi sau hoặc balo lớn, đáng chỉnh gương trong cả hai trạng thái: một mình và có tải, vì tư thế ngồi và độ cao mắt thay đổi ít nhiều theo tải. Chỉnh lại sau mỗi lần siết cũng là dịp kiểm tra cơ chế giữ: vặn nhẹ gương qua lại vài độ và xem nó có đứng yên ở góc mới không. Một gương vừa được siết đúng sẽ giữ góc qua cả tuần đường xấu; nếu lại trôi ngay trong hai ngày, đó là dấu hiệu ren hoặc cơ chế đã mòn thật sự và cần thay, không phải siết nữa.
 
 
 ## Mắt sau của bạn đáng được sửa đúng chỗ
 
-Gương lỏng là một trong những sự cố nhỏ nhất của kỳ thuê xe, nhưng cũng là sự cố cho thấy rõ cách hai bên làm việc với nhau: báo sớm, mô tả rõ, xử lý đúng phần cứng. Một cần gương được siết đúng trong năm phút đổi lại nhiều tuần nhìn rõ phía sau, và đó là khoản trao đổi rẻ nhất có thể tưởng tượng trong toàn bộ câu chuyện an toàn khi đi xe. Nếu bạn đang trong kỳ thuê dài hạn và cần báo một vấn đề về gương hoặc các bộ phận khác của xe, thông tin [liên hệ]( {{ '/lien-he/' | relative_url }}) của Nguyễn Tú luôn tiếp nhận trao đổi trong giờ làm việc hằng ngày. Bạn cũng nên đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc xe thuê trong kỳ dài hạn.
+Gương lỏng là một trong những sự cố nhỏ nhất của kỳ thuê xe, nhưng cũng là sự cố cho thấy rõ cách hai bên làm việc với nhau: báo sớm, mô tả rõ, xử lý đúng phần cứng. Một cần gương được siết đúng trong năm phút đổi lại nhiều tuần nhìn rõ phía sau, và đó là khoản trao đổi rẻ nhất có thể tưởng tượng trong toàn bộ câu chuyện an toàn khi đi xe. Nếu bạn đang trong kỳ thuê dài hạn và cần báo một vấn đề về gương hoặc các bộ phận khác của xe, thông tin [liên hệ]( {{ '/lien-he/' | relative_url }}) của Nguyễn Tú luôn tiếp nhận trao đổi trong giờ làm việc hằng ngày. Bạn cũng nên đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc xe thuê trong kỳ dài hạn.

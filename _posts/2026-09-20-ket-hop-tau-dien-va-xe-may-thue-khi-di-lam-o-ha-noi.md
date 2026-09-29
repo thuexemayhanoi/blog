@@ -21,7 +21,8 @@ Mỗi phương thức có đoạn đường mình mạnh nhất. Tàu điện m�
 
 ## Gửi xe tại ga: điểm mấu chốt của mô hình
 
-Khâu gửi xe quanh nhà ga quyết định sự tiện lợi của cả mô hình. Các bãi gửi xe gần nhà ga thường đông vào giờ cao điểm, và điều bạn cần quan sát khi khảo sát không chỉ là giá gửi mà ba điều: bãi có đầy lúc mấy giờ, lấy xe buổi tối có nhanh không, và bãi có mở khung giờ bạn đi làm về. Giá gửi xe tại các điểm quanh ga thay đổi theo thời điểm và từng bãi, nên hãy hỏi trực tiếp và ghi nhớ con số của mình; chi phí thực tế thay đổi theo thời điểm, địa điểm, quãng đường và mức sử dụng.
+Khâ
+u gửi xe quanh nhà ga quyết định sự tiện lợi của cả mô hình. Các bãi gửi xe gần nhà ga thường đông vào giờ cao điểm, và điều bạn cần quan sát khi khảo sát không chỉ là giá gửi mà ba điều: bãi có đầy lúc mấy giờ, lấy xe buổi tối có nhanh không, và bãi có mở khung giờ bạn đi làm về. Giá gửi xe tại các điểm quanh ga thay đổi theo thời điểm và từng bãi, nên hãy hỏi trực tiếp và ghi nhớ con số của mình; chi phí thực tế thay đổi theo thời điểm, địa điểm, quãng đường và mức sử dụng.
 
 Một kinh nghiệm nhỏ từ người đi tàu điện hằng ngày: chọn bãi gửi tuy xa ga vài chục mét hơn nhưng rộng và thoát xe nhanh, thay vì bãi sát cửa ga lúc nào cũng xếp hàng. Vài phút đi bộ thêm đổi lấy mười phút không xếp hàng lấy xe buổi tối là một thương lượng đáng giá. Ngoài ra nên để ý lối ra vào bãi có thuận chiều với hướng bạn đến không, vì có bãi buộc vòng ngược lại đường một chiều lúc giờ đông.
 
@@ -33,7 +34,8 @@ Cũng nên có phương án dự phòng cho ngày tàu trì hoãn hoặc bãi g�
 
 ## Trả xe thuê và mô hình hỗn hợp
 
-Có một cấu trúc đáng cân nhắc nếu bạn định thuê xe dài hạn để phục vụ mô hình này: thay vì thuê một chiếc phục vụ mọi ngày, hãy nhìn lại lịch sử đi lại của mình. Với người mà phần lớn các ngày trong tuần đều ổn với tàu điện và chỉ cần xe cho hai đầu, nhu cầu xe máy thực chất là nhu cầu ngắn và linh hoạt. Vài người chọn thuê theo tuần hoặc theo tháng và để xe hầu như chỉ chạy hai chặng ngắn mỗi ngày, giữ tổng số kilômét thấp và xe bền; số khác kết hợp thuê ngắn ngày cho các tuần cần di chuyển nhiều. Cách nào đúng phụ thuộc lịch trình của bạn, và câu hỏi đáng đặt cho cửa hàng khi thuê là các gói theo tuần hoặc theo tháng áp dụng thế nào cho dòng xe bạn cần, cùng tiền đặt cọc tương ứng. Giá tham khảo các dòng xe được liệt kê tại trang [bảng giá]( {{ '/bang-gia/' | relative_url }}), và giá thực tế cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Có một cấu trúc đáng cân nhắc nếu bạn định thuê xe dài hạn để phục vụ mô hình này: thay vì thuê một chiếc phục vụ mọi ngày, hãy nhìn lại lịch sử đi lại của
+ mình. Với người mà phần lớn các ngày trong tuần đều ổn với tàu điện và chỉ cần xe cho hai đầu, nhu cầu xe máy thực chất là nhu cầu ngắn và linh hoạt. Vài người chọn thuê theo tuần hoặc theo tháng và để xe hầu như chỉ chạy hai chặng ngắn mỗi ngày, giữ tổng số kilômét thấp và xe bền; số khác kết hợp thuê ngắn ngày cho các tuần cần di chuyển nhiều. Cách nào đúng phụ thuộc lịch trình của bạn, và câu hỏi đáng đặt cho cửa hàng khi thuê là các gói theo tuần hoặc theo tháng áp dụng thế nào cho dòng xe bạn cần, cùng tiền đặt cọc tương ứng. Giá tham khảo các dòng xe được liệt kê tại trang [bảng giá]( {{ '/bang-gia/' | relative_url }}), và giá thực tế cần xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 ## Ngày cuối tuần và các chuyến không theo lịch
 
@@ -41,7 +43,8 @@ Mô hình tàu điện cộng xe máy không chỉ dành cho đi làm. Cuối tu
 
 ## Một vài thói quen nhỏ giúp mô hình trơn tru
 
-Chuẩn bị sẵn thẻ hoặc mã thanh toán cho tàu điện, kèm phương án dự phòng khi hệ thống trục trặc. Vài người ghi chú giờ các chuyến tàu sát khung giờ mình hay đi để căn giờ ra nhà chính xác hơn, thay vì đứng chờ mòn mỏi trên tầng chờ. Mùa mưa nên mang theo áo mưa gấp gọn trong cốp xe cả những ngày định đi tàu suốt, vì chặng từ ga về nhà vẫn phải chạy xe dưới trời có thể mưa bất cứ lúc nào. Giữ chìa khóa xe ở ngăn cố định của balo hoặc túi để không lục tìm mỗi tối. Chọn mũ bảo hiểm loại gọn dễ treo ở xe, vì mũ cồng kềnh khó cất ở bãi gửi nhỏ. Ghi nhớ vị trí để xe trong bãi bằng một mốc cố định, ví dụ cột số hay hàng cây, vì sau tám tiếng làm việc, các dãy xe trong bãi nhìn nhau đều như tạc. Và cuối cùng, luôn để năm phút dự phòng trong mỗi khâu chuyển đổi; năm phút ấy là giá của sự bình tĩnh. Người mới làm quen với việc đi lại quanh Hà Nội có thể đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm các nguyên tắc chung trước khi dựng mô hình riêng cho mình.
+Chuẩn bị sẵn thẻ hoặc mã thanh toán cho tàu điện, kèm phương án dự phòng khi hệ thống trục trặc. Vài người ghi chú giờ các chuyến tàu sát khung giờ mình hay đi để căn giờ ra nhà chính xác hơn, thay vì đứng chờ mòn mỏi trên tầng chờ. Mùa mưa nên mang theo áo mưa gấp gọn trong cốp xe cả những ngày định đi tàu suốt, vì chặng từ ga về nhà vẫn phải chạy xe dưới trời có thể mưa bất cứ lúc nào. Giữ chìa khóa xe ở ngăn cố định của balo hoặc túi để không lục tìm mỗi tối. Chọn mũ bảo hiểm loại gọn dễ treo ở xe, vì mũ cồng kềnh khó cất ở bãi gửi nhỏ. Ghi nhớ vị trí để xe trong bãi bằng một mốc cố định, ví dụ cột số hay hàng cây, vì sau tám tiếng làm việc, các dãy xe trong bãi nhìn nhau đều như tạc. Và 
+cuối cùng, luôn để năm phút dự phòng trong mỗi khâu chuyển đổi; năm phút ấy là giá của sự bình tĩnh. Người mới làm quen với việc đi lại quanh Hà Nội có thể đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm các nguyên tắc chung trước khi dựng mô hình riêng cho mình.
 
 ## Khi mô hình không còn phù hợp
 

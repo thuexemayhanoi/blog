@@ -19,7 +19,8 @@ Vạch dừng tồn tại để người đi bộ có lối qua và để các x
 
 ## Tránh vùng mù của xe tải và xe buýt
 
-Vùng mù của xe tải là khoảng không gian mà tài xế không nhìn thấy bạn qua gương, thường ở ngay sát bên phải đầu xe và phía sau sát thân xe. Khi dừng đèn đỏ, nếu thấy mình đứng song song với thùng xe tải hoặc giữa hai bánh sau của nó, hãy chủ động tụt lại hoặc tiến lên để tài xế nhìn thấy bạn trong gương. Cách kiểm tra đơn giản: nếu bạn không nhìn thấy gương của xe tải, tài xế cũng không nhìn thấy bạn. Đây là quy tắc đáng khắc cốt ghi tâm với người đi xe máy ở các giao lộ lớn có nhiều xe hạng nặng, vì pha xe tải rẽ phải không thấy xe máy bên trong là một trong những loại tai nạn điển hình nhất ở đô thị.
+Vùng mù của xe tải là khoảng không gian mà tài xế không nhìn thấy bạn qua gương, thường ở ngay sát bên phải đầu xe và phía sau sát thân xe. Khi dừng đèn đỏ, nếu thấy mình đứng song song với thùng xe tải hoặc giữa hai bánh sau của nó, hãy chủ động tụt lại hoặc tiến lên để tài xế nhìn thấy bạn trong gương. Cách kiểm tra đơn giản: nếu bạn k
+hông nhìn thấy gương của xe tải, tài xế cũng không nhìn thấy bạn. Đây là quy tắc đáng khắc cốt ghi tâm với người đi xe máy ở các giao lộ lớn có nhiều xe hạng nặng, vì pha xe tải rẽ phải không thấy xe máy bên trong là một trong những loại tai nạn điển hình nhất ở đô thị.
 
 ## Chọn làn đứng theo hướng đi tiếp theo
 
@@ -31,7 +32,8 @@ Khoảng cách dọc với xe trước cần năm mét, và khoảng cách ngang
 
 ## Đèn xanh: xuất phát theo thứ tự và quan sát hai bên
 
-Đèn xanh không đồng nghĩa với đường trống. Ở nhiều giao lộ Hà Nội, giây đèn xanh đầu tiên vẫn còn các xe hướng khác đang dồn dập qua nốt, và các người đi bộ còn kẹt giữa đường vội băng hết. Khi xuất phát, hãy để dòng xe bên trái mình đi trước nửa nhịp, liếc gương trái, và tiến với ga nhẹ thay vì mở to hết cỡ. Nếu bạn đứng sau một xe tải chở hàng cao che tầm nhìn, tuyệt đối không lách lên ngang hàng nó ngay tại giao lộ, vì bạn sẽ mất hoàn toàn khả năng thấy tình huống phía trước. Kiên nhẫn nửa nhịp đèn xanh không làm bạn muộn, nhưng giúp bạn thấy được những gì tài xế khác đang làm.
+Đèn xanh không đồng nghĩa với đường trống. Ở nhiều giao lộ Hà Nội, giây đèn xanh đầu tiên vẫn còn các xe hướng khác đang dồn dập qua nốt, và các người đi bộ còn kẹt giữa đường vội băng hết. Khi xuất phát, hãy để dòng xe bên trái mình đi trước nửa nhịp, liếc gương trái, và tiến với ga nhẹ thay vì mở to hết cỡ. Nếu bạn đứng sau một xe tải chở hàng cao che tầm nhìn, tuyệt đối không lách lên ngang hàng nó ngay tại giao lộ, vì bạn sẽ mất hoàn toàn
+ khả năng thấy tình huống phía trước. Kiên nhẫn nửa nhịp đèn xanh không làm bạn muộn, nhưng giúp bạn thấy được những gì tài xế khác đang làm.
 
 ## Trời mưa và sáng sớm: dừng khác bình thường
 
@@ -43,7 +45,8 @@ Xe chở thêm người hoặc đồ nặng cần dừng sớm và đứng ổn 
 
 ## Khi đèn hỏng hoặc cảnh sát điều tiết
 
-Không phải giao lộ nào cũng có đèn hoạt động đều đặn, và khi đèn đỏ nhấp nháy hoặc tắt hẳn, cách ứng xử cần đổi ngay: giảm tốc từ xa, dừng hẳn nếu thấy dòng xe hướng khác đang qua, và quan sát người điều tiết giao thông nếu có. Khi có cảnh sát đứng giữa giao lộ, tín hiệu của người điều tiết ưu tiên trên đèn, nên nhìn tay họ thay vì nhìn đèn. Một chi tiết hay bị bỏ qua là khi đèn vừa chuyển lại hoạt động bình thường, giao lộ thường rối trong hai ba chu kỳ đầu vì các xe đang kẹt giữa ngã tư; lúc đó cách an toàn nhất là giữ khoảng cách lớn với các xe phía trước và không cố lách lên. Sự kiên nhẫn ở các giao lộ nửa hoạt động luôn được đền bù bằng việc đi qua được mà không va chạm.
+Không phải giao lộ nào cũng có đèn hoạt động đều đặn, và khi đèn đỏ nhấp nháy hoặc tắt hẳn, cách ứng xử cần đổi ngay: giảm tốc từ xa, dừng hẳn nếu thấy dòng xe hướng khác đang qua, và quan sát người điều tiết giao thông nếu có. Khi có cảnh sát đứng giữa giao lộ, tín hiệu của người điều tiết ưu tiên trên đèn, nên nhìn tay họ thay vì nhìn đèn. Một chi tiết hay bị bỏ qua là khi đèn vừa chuyển lại hoạt động bình thường, giao lộ thường rối trong hai ba chu kỳ đầu vì các xe đang kẹt giữa ngã tư; lúc đó cách an toàn nhất là giữ khoảng cách lớn với các xe phía trước và không cố lách lên. Sự kiên nhẫn ở các giao lộ nửa hoạt động luôn được đền bù bằng
+ việc đi qua được mà không va chạm.
 
 ## Thói quen đáng có: nhìn gương ngay khi dừng
 
@@ -51,4 +54,4 @@ Ngay khi xe đứng hẳn, liếc gương trái một lần để biết có xe 
 
 ## Kết lại
 
-Dừng đèn đỏ an toàn nằm ở các lựa chọn cụ thể: sau vạch, cách xe trước vài mét, tránh vùng mù xe lớn, chọn làn theo hướng đi, và nhìn gương khi đứng. Xuất phát thì từ tốn theo dòng xe và quan sát hai bên. Nếu bạn đang làm quen lại với phố xá hoặc cần một chiếc xe để luyện các kỹ năng đi phố, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về kỹ năng đi lại trong thành phố.
+Dừng đèn đỏ an toàn nằm ở các lựa chọn cụ thể: sau vạch, cách xe trước vài mét, tránh vùng mù xe lớn, chọn làn theo hướng đi, và nhìn gương khi đứng. Xuất phát thì từ tốn theo dòng xe và quan sát hai bên. Nếu bạn đang làm quen lại với phố xá hoặc cần một chiếc xe để luyện các kỹ năng đi phố, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về kỹ năng đi lại trong thành phố.

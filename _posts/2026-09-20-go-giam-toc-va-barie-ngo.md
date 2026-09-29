@@ -19,7 +19,8 @@ Nguyên tắc vàng: phanh xong trước khi chạm gờ, và nhả phanh ngay t
 
 ## Tư thế qua gờ: đứng nhẹ trên yên
 
-Khi qua gờ liên tiếp hoặc gờ cao, tư thế giữ vai và lưng khỏe là đứng nhẹ trên yên: hai chân đạp chắc lên bậc, gót hơi hạ, thân người nhấc nhẹ khỏi yên bằng lực chân, đầu gối và khuỷu tay mềm như hai lò xo. Tư thế này chuyển lực xóc vào chân và tay thay vì cột sống, và giữ trọng tâm ổn định giữa xe. Sai lầm phổ biến là ngồi chặt xuống yên và ghì cứng tay lái, vì lúc đó toàn bộ cú dội truyền thẳng lên lưng và cổ tay, mệt nhanh và đau lâu. Với gờ thấp rải rác, không cần đứng lên, chỉ cần đầu gối hơi nhấc khỏi tư thế ngồi chôn. Người chở người ngồi sau cần nhắc người sau cũng nhấc nhẹ, vì người sau không thấy gờ trước và thường bị bất ngờ vào đúng khoảnh khắc xe nảy.
+Khi qua gờ liên tiếp hoặc gờ cao, tư thế giữ vai và lưng khỏe là đứng nhẹ trên yên: hai chân đạp chắc lên bậc, gót hơi hạ, thân người nhấc nhẹ khỏi yên bằng lực chân, đầu gối và khuỷu tay mềm như hai lò xo. Tư thế này chuyển lực xóc vào chân và tay thay vì cột sống, và giữ trọ
+ng tâm ổn định giữa xe. Sai lầm phổ biến là ngồi chặt xuống yên và ghì cứng tay lái, vì lúc đó toàn bộ cú dội truyền thẳng lên lưng và cổ tay, mệt nhanh và đau lâu. Với gờ thấp rải rác, không cần đứng lên, chỉ cần đầu gối hơi nhấc khỏi tư thế ngồi chôn. Người chở người ngồi sau cần nhắc người sau cũng nhấc nhẹ, vì người sau không thấy gờ trước và thường bị bất ngờ vào đúng khoảnh khắc xe nảy.
 
 ## Gờ giảm tốc và đồ đạc trên xe
 
@@ -31,7 +32,8 @@ Barrier ở các khu đô thị và khu tập thể có quy tắc riêng. Chậm
 
 ## Các loại gờ và mức độ chú ý khác nhau
 
-Không phải gờ nào cũng như gờ nào. Gờ sơn nổi màu vàng trắng thường vừa phải và thấy từ xa. Gờ bê tông nguyên khối ở các ngõ và khu công nghiệp cao và cứng hơn hẳn, cần giảm tốc mạnh. Các gờ tự chế bằng nhựa đường đổ dặm cao không đều, nguy hiểm nhất vào ban đêm vì khó thấy và thường có mép sắc. Gờ ở trước cổng trường học và bệnh viện cần đặc biệt cẩn thận vì xung quanh có người đi bộ, và thường có thêm các biển báo cùng vạch kẻ xuất hiện đột ngột sau gờ. Một thói quen đáng hình thành: nhớ vị trí các gờ trên tuyến đi hằng ngày, vì biết trước giúp bạn phanh sớm một cách nhịp nhàng thay vì phanh giật cục khi gờ hiện ra trong tầm đèn.
+Không phải gờ nào cũng như gờ nào. Gờ sơn nổi màu vàng trắng thường vừa phải và thấy từ xa
+. Gờ bê tông nguyên khối ở các ngõ và khu công nghiệp cao và cứng hơn hẳn, cần giảm tốc mạnh. Các gờ tự chế bằng nhựa đường đổ dặm cao không đều, nguy hiểm nhất vào ban đêm vì khó thấy và thường có mép sắc. Gờ ở trước cổng trường học và bệnh viện cần đặc biệt cẩn thận vì xung quanh có người đi bộ, và thường có thêm các biển báo cùng vạch kẻ xuất hiện đột ngột sau gờ. Một thói quen đáng hình thành: nhớ vị trí các gờ trên tuyến đi hằng ngày, vì biết trước giúp bạn phanh sớm một cách nhịp nhàng thay vì phanh giật cục khi gờ hiện ra trong tầm đèn.
 
 ## Trẻ nhỏ và người lớn tuổi khi qua các điểm xóc
 
@@ -43,8 +45,9 @@ Mưa làm mặt gờ và hai bên nó trơn, vì nước đọng theo rãnh bán
 
 ## Kiểm tra xe sau các cung đường nhiều gờ
 
-Tuyến đi qua khu công nghiệp hoặc các tuyến ngoại thành có mật độ gờ dày, và sau mỗi chặng dài như vậy, xe của bạn tích lũy các xóc đáng kể. Vài điểm tự kiểm tra sau chuyến đi: bắt ga linh hoạt không, dây xích có bị căng quá hoặc lỏng quá sau các cú nảy không, vành bánh có cảm giác đập nhẹ khi phanh không, và các ốc của gương, tay lái có lỏng không. Với xe thuê, nếu nhận thấy bất thường sau một ngày đi nhiều gờ, chụp lại và báo ngay cho nơi cho thuê, vì các hỏng hóc kiểu lỏng ốc và lệch vành sửa rất rẻ nếu xử lý sớm, nhưng thành to nếu để kệ thêm vài ngày. Cách báo tốt kèm mô tả cụ thể vị trí tiếng kêu hoặc cảm giác đập, giúp nơi cho thuê đoán đúng bộ phận cần xem mà không phải tháo toàn bộ xe để tìm.
+Tuyến đi qua khu công nghiệp hoặc các tuyến ngoại thành có mật độ gờ 
+dày, và sau mỗi chặng dài như vậy, xe của bạn tích lũy các xóc đáng kể. Vài điểm tự kiểm tra sau chuyến đi: bắt ga linh hoạt không, dây xích có bị căng quá hoặc lỏng quá sau các cú nảy không, vành bánh có cảm giác đập nhẹ khi phanh không, và các ốc của gương, tay lái có lỏng không. Với xe thuê, nếu nhận thấy bất thường sau một ngày đi nhiều gờ, chụp lại và báo ngay cho nơi cho thuê, vì các hỏng hóc kiểu lỏng ốc và lệch vành sửa rất rẻ nếu xử lý sớm, nhưng thành to nếu để kệ thêm vài ngày. Cách báo tốt kèm mô tả cụ thể vị trí tiếng kêu hoặc cảm giác đập, giúp nơi cho thuê đoán đúng bộ phận cần xem mà không phải tháo toàn bộ xe để tìm.
 
 ## Kết lại
 
-Qua gờ giảm tốc êm nằm ở phanh sớm và nhả phanh trước khi chạm, tư thế đứng nhẹ hai chân, và kiểm tra dây buộc sau các chuỗi gờ. Qua barrier nằm ở chậm lại từ xa, đợi thanh lên hẳn, và nhường người đi bộ. Nếu bạn cần một chiếc xe giữ được độ êm cho các tuyến đi lại hằng ngày, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về kỹ năng đi lại trong đô thị.
+Qua gờ giảm tốc êm nằm ở phanh sớm và nhả phanh trước khi chạm, tư thế đứng nhẹ hai chân, và kiểm tra dây buộc sau các chuỗi gờ. Qua barrier nằm ở chậm lại từ xa, đợi thanh lên hẳn, và nhường người đi bộ. Nếu bạn cần một chiếc xe giữ được độ êm cho các tuyến đi lại hằng ngày, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về kỹ năng đi lại trong đô thị.

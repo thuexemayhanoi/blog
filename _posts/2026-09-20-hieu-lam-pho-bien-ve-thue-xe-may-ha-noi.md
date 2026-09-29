@@ -19,7 +19,8 @@ Hiểu lầm đầu tiên: phải nộp hẳn bản gốc giấy tờ tùy thân
 
 Hiểu lầm thứ hai: đặt cọc là khoản phí thêm, mất luôn khi trả xe. Không đúng bản chất: cọc là tiền giữ chỗ cho trách nhiệm, hoàn lại khi mọi thứ đối chiếu khớp. Cách nhìn đúng là cọc giống tiền thuê nhà: bạn nhận lại khi kết thúc sạch sẽ. Điều cần làm là nhận hóa đơn hoặc xác nhận giao dịch cọc, và giữ đến khi đã nhận đủ tiền lại.
 
-Hiểu lầm thứ ba: hợp đồng chỉ là thủ tục. Ngược lại, hợp đồng là thứ bảo vệ bạn nhiều nhất: nó ghi mức xăng lúc nhận, tình trạng xe, mức tính giờ trễ và phạm vi sử dụng. Người thuê đọc kỹ hợp đồng luôn ít tranh chấp hơn người thuê chỉ nghe nói miệng rồi ký.
+Hiểu lầm thứ ba: hợp đồng chỉ là thủ tục. Ngược lại, hợp đồng là thứ bảo vệ bạn nhiều nhất: nó ghi mức
+ xăng lúc nhận, tình trạng xe, mức tính giờ trễ và phạm vi sử dụng. Người thuê đọc kỹ hợp đồng luôn ít tranh chấp hơn người thuê chỉ nghe nói miệng rồi ký.
 
 ## Hiểu lầm về dịch vụ
 
@@ -31,7 +32,8 @@ Hiểu lầm thứ sáu: cửa hàng cho thuê sẽ lo hết nếu có sự cố
 
 ## Hiểu lầm về giá và chi phí
 
-Hiểu lầm thứ bảy: giá thuê ngày giống nhau ở mọi nơi và mọi mùa. Giá khác nhau theo dòng xe, theo gói ngày tuần tháng, và theo tình trạng xe cụ thể. Ví dụ theo bảng giá tham khảo: Honda Wave 150.000đ một ngày; Vision 200.000đ một ngày với các gói tuần 800.000đ đến 1.000.000đ và gói tháng 1.800.000đ đến 2.000.000đ; Air Blade 200.000đ một ngày, 800.000đ một tuần, 1.400.000đ một tháng; Click và Mio 150.000đ một ngày với gói tuần 600.000đ đến 700.000đ và gói tháng 1.000.000đ đến 1.200.000đ. Đây là giá ước tính theo bảng giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
+Hiểu lầm thứ bảy: giá thuê ngày giống nhau ở mọi nơi và mọi mùa. Giá khác nhau theo dòng xe, theo gói ngày tuần tháng, và theo tình trạng xe cụ thể. Ví dụ theo bảng giá tham khảo: Honda Wave 150.000đ một ngày; Vision 200.000đ một ngày với các gói tuần 800.000đ đến 1.000.000đ và gói tháng 1.800.000đ đến 2.000.000đ; Air Blade 200.000đ một ngày, 800.000đ một tuần, 1.400.000đ một tháng; Click và Mio 150.000đ một ngày với gói tuần 600.000đ đến 700.000đ và gói tháng 1.000.000đ đến 1.200.000đ. Đây là giá ước tính theo bảng gi
+á tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
 Hiểu lầm thứ tám: trả xe sớm thì được hoàn phần tiền ngày chưa dùng. Phần lớn hợp đồng thuê theo ngày không hoàn tiền cho thời gian không sử dụng, giống cách khách sạn không hoàn tiền nếu bạn trả phòng sớm. Vì vậy, nếu lịch trình còn chưa chắc, thuê ngắn rồi gia hạn thường hợp lý hơn thuê dài rồi bỏ dở. Bài về trả xe sớm và câu hỏi hoàn tiền trình bày kỹ hướng xử lý tình huống này.
 
@@ -41,7 +43,8 @@ Hiểu lầm thứ chín: trễ trả xe chút chút chắc không sao. Mức ph
 
 Hiểu lầm thứ mười: đường Hà Nội hỗn loạn nên cứ mạnh dạn là được. Hà Nội đông nhưng có trật tự riêng, và người sống sót trong dòng xe đó là người đi dự đoán được, giữ làn và giảm tốc trước giao cắt, không phải người liều. Bài về an toàn khi chạy xe máy ở Hà Nội tổng hợp các quy tắc này đầy đủ. Hiểu lầm thứ mười một: với du khách, không cần quan tâm giấy phép lái xe. Sai: điều kiện giấy phép áp dụng cho mọi người điều khiển xe lưu thông tại Việt Nam, kể cả khách nước ngoài, và các yêu cầu theo loại giấy phép hiện có có thể thay đổi, nên cần kiểm tra quy định hiện hành từ nguồn chính thức trước khi thuê. Hiểu lầm thứ mười hai: mưa tí thì thôi mũ, gần thì thôi khóa. Hai thứ bỏ qua trong năm phút lười chính là hai thứ mà mọi báo cáo an toàn giao thông đều chỉ ra là quyết định giữa vô sự và có sự.
 
-Một cách nhìn cuối cùng để giải nốt các hiểu lầm còn lại: hãy đối chiếu mọi lời khuyên nghe được, kể cả lời từ bài viết này, với chính hợp đồng trước mặt bạn. Hợp đồng là văn bản hai bên ký, và điều gì không nằm trong đó thì chưa phải thỏa thuận. Thói quen hỏi lại một câu ngắn trước khi ký, ví dụ về giờ trả, mức xăng, hay phạm vi chạy, mất mười giây nhưng thay cho cả một buổi tranh luận sau này. Người thuê kỹ tính không phải người khó tính, mà là người không cần may mắn.
+Một cách nhìn cuối cùng để giải nốt các hiểu lầm còn lại: hãy đối chiếu mọi lời khuyên nghe được, kể cả lời từ bài viết này, với chính hợp đồng trước mặt bạn. Hợp đồng là văn bản hai bên ký, và điều gì không nằm trong đó thì chưa phải thỏa thuận. Thói quen hỏi lại một câu ngắn trước khi ký, ví dụ về giờ trả, mức xăng, hay phạm vi chạy, mất mười giây nhưng thay c
+ho cả một buổi tranh luận sau này. Người thuê kỹ tính không phải người khó tính, mà là người không cần may mắn.
 
 Cũng nên nói rõ một điều về tâm lý: nỗi lo lớn nhất của người mới thuê thường không phải tiền, mà là sợ bị lừa. Cách hóa giải không phải là mặc định nghi ngờ mọi thứ, mà là chọn cửa hàng có quy trình minh bạch từ bước đầu tiên: báo giá rõ ràng khi hỏi, hợp đồng có đầy đủ các điều khoản cơ bản, và hướng dẫn trung thực về những gì cửa hàng không làm được. Sự minh bạch về giới hạn, ví dụ không giao xe ngoài giờ mở cửa, chính là dấu hiệu của một nơi đáng thuê hơn là những lời hứa trơn tru.
 
@@ -49,4 +52,4 @@ Và một hiểu lầm phụ nữa đáng đính chính: thuê xe máy chỉ dà
 
 ## Tóm lại
 
-Các hiểu lầm về thuê xe máy đều có chung gốc: tưởng quy trình còn tự phát như trước. Thực tế là hợp đồng rõ, cọc được hoàn, bản gốc giấy tờ do bạn giữ, giao nhận có điều kiện, và trách nhiệm phân theo lỗi. Hãy bắt đầu từ [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm quy trình chuẩn, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các dòng và gói, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để hỏi trực tiếp bất kỳ điều gì còn chưa rõ.
+Các hiểu lầm về thuê xe máy đều có chung gốc: tưởng quy trình còn tự phát như trước. Thực tế là hợp đồng rõ, cọc được hoàn, bản gốc giấy tờ do bạn giữ, giao nhận có điều kiện, và trách nhiệm phân theo lỗi. Hãy bắt đầu từ [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm quy trình chuẩn, xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các dòng và gói, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để hỏi trực tiếp bất kỳ điều gì còn chưa rõ.

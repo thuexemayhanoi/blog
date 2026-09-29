@@ -19,7 +19,8 @@ Trong khu dân cư, tiếng máy xe nổ trong yên tĩnh có thể vang xa hơn
 
 ## Nhiên liệu và túi tiền
 
-Máy xe ở trạng thái nổ không tải vẫn tiêu tốn nhiên liệu, chậm nhưng chắc, và các khoảng chờ năm mười phút lặp lại mỗi ngày sẽ cộng thành một lượng đáng kể trong tháng. Không có con số chung cho mọi xe vì mức tiêu hao khi đứng yên khác nhau tùy dòng máy và tình trạng xe, nhưng hướng chung là rõ: đứng càng lâu thì càng phí. Với xe của mình, người ta dễ bỏ qua, nhưng với xe thuê, việc tiết kiệm nhiên liệu còn liên quan đến việc trả xe với mức nhiên liệu đúng như thỏa thuận ban đầu với nơi cho thuê. Tắt máy khi chờ là một trong những cách đơn giản nhất để không hụt nhiên liệu vào cuối kỳ.
+Máy xe ở trạng thái nổ không tải vẫn tiêu tốn nhiên liệu, chậm nhưng chắc, và các khoảng chờ năm mười phút lặp lại mỗi ngày sẽ cộng thành một lượng đáng kể trong tháng. Không có con số chung cho mọi xe vì mức tiêu hao khi đứng yên khác nhau tùy dòng máy và tình trạng xe, nhưng hướng chung là rõ: đứng càng lâu thì càng phí. Với xe của mình, người ta dễ bỏ qua, nhưng với xe thuê, việc tiết kiệm nhiên liệu còn liên quan đến việc trả xe với mức nhiên liệu đúng như
+ thỏa thuận ban đầu với nơi cho thuê. Tắt máy khi chờ là một trong những cách đơn giản nhất để không hụt nhiên liệu vào cuối kỳ.
 
 ## Máy nóng và các lần chờ kéo dài
 
@@ -35,7 +36,8 @@ Tắt máy khi chờ nên đi kèm vài thói quen nhỏ: rút chìa khóa, kéo
 
 ## Các tình huống chờ quen thuộc
 
-Ba tình huống chờ lâu hay gặp nhất là chờ người ở cổng chung cư, chờ đầu ngõ và chờ nơi đón nhóm. Với cổng chung cư, hãy đỗ lệch khỏi lối xe ra vào và tắt máy hẳn, vì các xe ra vào liên tục không cần thêm một chiếc xe đang nổ chặn tầm nhìn. Với đầu ngõ, đỗ sát lề một bên và chú ý không chắn lối đi bộ. Với điểm đón nhóm, hãy thống nhất trước giờ và điểm cụ thể, đến sớm thì tắt máy, xuống xe và chờ thư thái. Trong mọi tình huống, nguyên tắc chung là: đến sớm thoải mái hơn đến đúng giờ trong vội vàng, và tắt máy biến khoảng chờ thành khoảng nghỉ thật sự.
+Ba tình huống chờ lâu
+ hay gặp nhất là chờ người ở cổng chung cư, chờ đầu ngõ và chờ nơi đón nhóm. Với cổng chung cư, hãy đỗ lệch khỏi lối xe ra vào và tắt máy hẳn, vì các xe ra vào liên tục không cần thêm một chiếc xe đang nổ chặn tầm nhìn. Với đầu ngõ, đỗ sát lề một bên và chú ý không chắn lối đi bộ. Với điểm đón nhóm, hãy thống nhất trước giờ và điểm cụ thể, đến sớm thì tắt máy, xuống xe và chờ thư thái. Trong mọi tình huống, nguyên tắc chung là: đến sớm thoải mái hơn đến đúng giờ trong vội vàng, và tắt máy biến khoảng chờ thành khoảng nghỉ thật sự.
 
 ## Chờ trong mưa và trời xấu
 
@@ -47,7 +49,8 @@ Nếu bạn mới nhận xe và thấy máy đề có tiếng lạ, đề chậm
 
 ## Một thói quen nhỏ tích lũy lớn
 
-Tắt máy khi chờ là loại thói quen không có ngày tập, chỉ có lần bắt đầu. Chọn một tuần, chủ động tắt máy ở mọi lần chờ quá một phút, và để ý xem mình bớt được bao nhiêu lần nghe tiếng máy ù ù dưới yên. Hầu hết mọi người sau một tuần đều thấy việc tắt máy thành phản xạ, và cảm giác chờ người bớt căng thẳng hẳn vì không còn tiếng máy giục giã. Với khách thuê xe dài ngày, thói quen này còn là cách tự chứng minh sự cẩn trọng với chiếc xe không phải của mình.
+Tắt máy khi chờ là loại thói quen không có ngày tập, chỉ có lần bắt đầu. Chọn một tuần, chủ động tắt máy ở mọi lần chờ quá một phút, và để ý xem mình bớt được bao nhiêu lần nghe tiếng máy ù ù dưới yên. Hầu hết mọi người sau một tuần đều thấy việc tắt máy thành phản xạ, và cảm giác chờ người bớt căng thẳng hẳn vì không còn tiếng máy giục giã. Với khách thuê x
+e dài ngày, thói quen này còn là cách tự chứng minh sự cẩn trọng với chiếc xe không phải của mình.
 
 
 ## Chờ người quen và chờ người lạ
@@ -56,4 +59,4 @@ Có một khác biệt tinh tế giữa chờ người quen và chờ người l
 
 ## Kết lại
 
-Tắt máy khi chờ lâu là việc nhỏ với lợi ích chạm đến nhiều phía: không làm phiền xung quanh, đỡ tốn nhiên liệu, đỡ nóng máy và giảm rủi ro xe bị lấy đi khi không trông chừng. Hãy thử thói quen này ngay trong kỳ thuê xe sắp tới. Nếu cần tư vấn thêm về tình trạng máy của xe thuê, liên hệ Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Đọc thêm bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để có góc nhìn tổng thể hơn về việc giữ xe thuê bền đẹp suốt kỳ.
+Tắt máy khi chờ lâu là việc nhỏ với lợi ích chạm đến nhiều phía: không làm phiền xung quanh, đỡ tốn nhiên liệu, đỡ nóng máy và giảm rủi ro xe bị lấy đi khi không trông chừng. Hãy thử thói quen này ngay trong kỳ thuê xe sắp tới. Nếu cần tư vấn thêm về tình trạng máy của xe thuê, liên hệ Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Đọc thêm bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để có góc nhìn tổng thể hơn về việc giữ xe thuê bền đẹp suốt kỳ.

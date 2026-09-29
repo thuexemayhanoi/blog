@@ -20,7 +20,8 @@ Một chiếc xe tải đầy hàng khi chạy năm mươi ki lô mét một gi�
 
 ## Các điểm mù của xe tải mà người đi xe máy hay nằm vào
 
-Xe tải có những vùng mà người lái không nhìn thấy được qua gương, và tên gọi điểm mù không phải nói quá. Vùng ngay sát sau đuôi xe, hai bên hông sát bánh sau, và phần trước đầu xe ở độ cao thấp là những chỗ xe máy biến mất hoàn toàn khỏi tầm mắt người lái. Trường hợp hay gặp ở Hà Nội là xe máy tấp vào sát hông phải một chiếc container đang chờ đèn đỏ, đúng vùng gương của xe không soi tới. Khi đèn xanh, tài xế rết xe sang phải để cua và không hề biết có xe máy ở đó. Cách tránh đơn giản: nếu buộc phải dừng cạnh xe lớn, hãy dừng lệch về phía sau, nơi tài xế nhìn thấy được trong gương, hoặc tốt hơn là dừng hẳn sau đuôi xe một khoảng. Nghe động cơ và nhìn bánh xe trước khi gần bất kỳ chiếc xe tải nào đang dừng, vì đó là tín hiệu sớm nhất cho thấy xe chuẩn bị lăn.
+Xe tải có những vùng mà người lái không nhìn thấy được qua gương, và tên gọi điểm mù không phải nói quá. Vùng ngay sát sau đuôi xe, hai bên hông sát bánh sau,
+ và phần trước đầu xe ở độ cao thấp là những chỗ xe máy biến mất hoàn toàn khỏi tầm mắt người lái. Trường hợp hay gặp ở Hà Nội là xe máy tấp vào sát hông phải một chiếc container đang chờ đèn đỏ, đúng vùng gương của xe không soi tới. Khi đèn xanh, tài xế rết xe sang phải để cua và không hề biết có xe máy ở đó. Cách tránh đơn giản: nếu buộc phải dừng cạnh xe lớn, hãy dừng lệch về phía sau, nơi tài xế nhìn thấy được trong gương, hoặc tốt hơn là dừng hẳn sau đuôi xe một khoảng. Nghe động cơ và nhìn bánh xe trước khi gần bất kỳ chiếc xe tải nào đang dừng, vì đó là tín hiệu sớm nhất cho thấy xe chuẩn bị lăn.
 
 ## Đừng đi giữa hai xe lớn
 
@@ -28,7 +29,8 @@ Một tình huống nguy hiểm bậc nhất là kẹt giữa xe tải phía tr�
 
 ## Cách vượt xe tải và xe container
 
-Khi vượt xe tải trên đường nhiều làn, vượt bên trái là lựa chọn chuẩn, và điều quan trọng nhất là hoàn tất cú vượt nhanh, dứt khoát, không đi song song trong điểm mù dài hàng trăm mét. Trước khi vượt, nhìn gương để chắc không có xe khác đang vượt bạn, bật xi nhan, rồi vượt với tốc độ chênh đủ lớn. Không vượt xe tải ở đoạn đường cong, đoạn tầm nhìn hẹp, ngã tư hoặc nơi vạch liền, vì những chỗ đó chính là nơi xe tải bất ngờ rết hoặc phanh. Đặc biệt đừng bao giờ vượt bên phải một xe tải đang gần ngã tư hoặc đoạn rẽ vào cổng, vì đó là hướng xe sẽ quét sang. Nếu xe tải đang vượt xe khác và chiếm phần đường của bạn, đừng ganh đua để chen lên; giảm tốc nhường xe về làn của mình rồi mới tính tiếp. Hà Nội có nhiều đoạn đường từ địa phương ra quốc lộ, nơi xe tải ra vào cổng dày đặc, và ở đó kiên nhẫn đáng giá hơn vài chục giây.
+Khi vượt xe tải trên đường nhiều làn, vượt bên trái là lựa chọn chuẩn, và điều quan trọng nhất là hoàn tất cú vượt nhanh, dứt khoát, không đi song song trong điểm mù dài hàng trăm mét. Trước khi vượt, nhìn gương để chắc không có xe khác đang vượt bạn, bật xi nhan, rồi vượt với tốc độ chênh đủ lớn. Không vượt xe tải ở đoạn đường cong, đoạn tầm nhìn hẹp, ngã tư hoặc nơi vạch liền, vì những chỗ đó chính là nơi xe tải bất ngờ rết hoặc phanh. Đặc biệt đừng bao giờ vượt bên phải một xe tải đang gần ngã tư hoặc đoạn rẽ vào cổng, vì đó là hướng xe sẽ quét sang. Nếu xe tải đang vượt xe khác và chiếm phần đường của bạn, đừ
+ng ganh đua để chen lên; giảm tốc nhường xe về làn của mình rồi mới tính tiếp. Hà Nội có nhiều đoạn đường từ địa phương ra quốc lộ, nơi xe tải ra vào cổng dày đặc, và ở đó kiên nhẫn đáng giá hơn vài chục giây.
 
 ## Quanh khu vực cảng, bến xe và cổng công trường
 
@@ -40,7 +42,8 @@ Mưa và đèn thời gian muộn làm mọi khoảng cách an toàn đều ph�
 
 ## Lời nhắc cho người thuê xe ít kinh nghiệm
 
-Người mới lái xe máy ở Hà Nội, kể cả người có bằng lái nhưng ít đi đường nhiều xe tải, thường ước lượng sai khoảng cách vì chưa quen kích thước xe nặng. Nếu bạn thuê xe máy trong những ngày đầu đến thành phố và chưa quen các tuyến nhiều xe container, hãy chọn khung giờ vắng hơn, đi theo dòng xe máy đông thay vì len vào dòng xe ô tô, và tạm bỏ qua suy nghĩ phải đi nhanh cho kịp. Chậm hơn mười phút vẫn tốt hơn nhiều rủi ro không đáng có. Kinh nghiệm làm quen với đường sá Hà Nội được chia sẻ trong bài gợi ý khám phá thành phố bằng xe máy cho người mới, một bài viết đáng đọc trước những chuyến đi đầu tiên.
+Người mới lái xe máy ở Hà Nội, kể cả người có bằng lái nhưng ít đi đường nhiều xe tải, thường ước lượng sai khoảng cách vì chưa quen kích thước xe nặng. Nếu bạn thuê xe máy trong những ngày đầu đến thành phố và chưa quen các tuyến nhiều xe
+ container, hãy chọn khung giờ vắng hơn, đi theo dòng xe máy đông thay vì len vào dòng xe ô tô, và tạm bỏ qua suy nghĩ phải đi nhanh cho kịp. Chậm hơn mười phút vẫn tốt hơn nhiều rủi ro không đáng có. Kinh nghiệm làm quen với đường sá Hà Nội được chia sẻ trong bài gợi ý khám phá thành phố bằng xe máy cho người mới, một bài viết đáng đọc trước những chuyến đi đầu tiên.
 
 ## Một thói quen nhỏ: nhìn gương xe tải
 
@@ -48,4 +51,4 @@ Một cách kiểm tra nhanh bạn có nằm trong tầm nhìn của tài xế h
 
 ## Kết lại
 
-Giữ khoảng cách với xe tải và xe container không phải là sợ hãi xe lớn, mà là hiểu rõ nó nhìn không thấy bạn ở đâu và cần bao nhiêu không gian để dừng. Tránh điểm mù, không kẹt giữa hai xe nặng, vượt dứt khoát từ bên trái, chờ xe quẹt cổng, và nhân đôi khoảng cách khi mưa tối: những thói quen này áp dụng được ngay từ chuyến đi đầu tiên. Nếu bạn đang tìm một chiếc xe máy ổn định để đi lại ở Hà Nội, hãy trao đổi với Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) về nhu cầu của mình. Đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để mỗi chuyến đi đều an toàn hơn.
+Giữ khoảng cách với xe tải và xe container không phải là sợ hãi xe lớn, mà là hiểu rõ nó nhìn không thấy bạn ở đâu và cần bao nhiêu không gian để dừng. Tránh điểm mù, không kẹt giữa hai xe nặng, vượt dứt khoát từ bên trái, chờ xe quẹt cổng, và nhân đôi khoảng cách khi mưa tối: những thói quen này áp dụng được ngay từ chuyến đi đầu tiên. Nếu bạn đang tìm một chiếc xe máy ổn định để đi lại ở Hà Nội, hãy trao đổi với Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) về nhu cầu của mình. Đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để mỗi chuyến đi đều an toàn hơn.

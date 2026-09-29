@@ -19,7 +19,8 @@ Mọi hợp đồng thuê xe đều có ngày trả dự kiến, và cửa hàng
 
 Ngược lại, việc gọi điện hoặc nhắn tin trước một hai ngày và thống nhất gia hạn đưa bạn vào vị thế tốt hơn nhiều. Bạn có thể thương lượng chuyển sang gói giá dài hạn cho phần thời gian thêm, chốt lại ngày trả mới bằng tin nhắn, và yên tâm rằng không có gì chồng chéo. Một phút chủ động đáng giá hơn nhiều lần gọi giải thích sau khi đã trễ.
 
-Ngoài ra, gia hạn đúng cách còn bảo vệ khoản cọc của bạn. Khoản đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp, và việc trả xe đúng hạn mới là điều kiện cơ bản để hoàn cọc suôn sẻ. Một kỳ thuê kéo dài lởm chởm vì không báo là kiểu tình huống dễ làm phần hoàn cọc bị dây dưa nhất, dù xe không hề hấn gì.
+Ngoài ra, gia hạn đúng cách còn bảo vệ khoản cọc của bạn. Khoản đặt cọc thông thường dao động từ 2.000.000đ đến 5.000.000đ tùy dòng xe và từng trường hợp, và việc trả xe đúng hạn mới là điều kiện cơ bản để hoàn cọc suôn sẻ. Một kỳ thuê k
+éo dài lởm chởm vì không báo là kiểu tình huống dễ làm phần hoàn cọc bị dây dưa nhất, dù xe không hề hấn gì.
 
 ## Chuyển gói giữa kỳ: tính thế nào cho hợp lý
 
@@ -33,7 +34,8 @@ Câu hỏi cần đặt khi thương lượng chuyển gói là: phần ngày đ
 
 Danh sách dưới đây là các điều kiện nên xác nhận lại trong lần thương lượng gia hạn, vì chúng có thể thay đổi khi kỳ thuê kéo dài. Thứ nhất là ngày trả mới, ghi kèm giờ cụ thể, không chỉ ngày. Thứ hai là cách tính giá cho toàn bộ kỳ thuê sau khi gộp. Thứ ba là khoản cọc: giữ nguyên hay cần bổ sung khi thời gian thuê dài lên, vì kỳ thuê dài hơn đồng nghĩa rủi ro tích lũy lớn hơn trong mắt của bên cho thuê.
 
-Thứ tư là phạm vi sử dụng: nếu ban đầu bạn chỉ định ở nội thành mà nay muốn đi các tỉnh lân cận, đây là lúc nói rõ, vì phạm vi địa lý thường được thỏa thuận riêng. Thứ năm là các vấn đề bảo dưỡng giữa kỳ: với kỳ thuê dài, một số cửa hàng đề nghị ghé kiểm tra xe giữa chừng, và việc thống nhất sẵn thời điểm thuận tiện cho cả hai bên tránh gián đoạn lịch trình của bạn.
+Thứ tư là phạm vi sử dụng: nếu ban đầu bạ
+n chỉ định ở nội thành mà nay muốn đi các tỉnh lân cận, đây là lúc nói rõ, vì phạm vi địa lý thường được thỏa thuận riêng. Thứ năm là các vấn đề bảo dưỡng giữa kỳ: với kỳ thuê dài, một số cửa hàng đề nghị ghé kiểm tra xe giữa chừng, và việc thống nhất sẵn thời điểm thuận tiện cho cả hai bên tránh gián đoạn lịch trình của bạn.
 
 Cuối cùng, đừng quên hỏi về tình trạng xe nếu bạn đã dùng qua những ngày mưa nhiều hoặc đường xấu. Việc chủ động đề nghị kiểm tra phanh, xích và lốp giữa kỳ thuê dài vừa bảo vệ an toàn của bạn, vừa cho cửa hàng thấy bạn là người trông xe tử tế, một chi tiết nhỏ nhưng có tác dụng thật khi cần thiện chí trong các tình huống về sau.
 
@@ -47,7 +49,8 @@ Một tình huống đặc biệt cần lưu ý: gia hạn vào ngày cửa hàn
 
 ## Tránh các hiểu lầm về gia hạn
 
-Hiểu lầm phổ biến nhất là nghĩ rằng cứ tiếp tục trả tiền là tự động được dùng tiếp. Thực tế, việc xe có sẵn cho kỳ gia hạn phụ thuộc vào tình trạng kinh doanh của từng thời điểm, và không cửa hàng nào có thể giữ xe vô thời hạn chờ quyết định của bạn. Đặt câu hỏi sớm luôn rẻ hơn giả định, đặc biệt vào mùa cao điểm du lịch khi xe được đặt kín lịch.
+Hiểu lầm phổ biến nhất là nghĩ rằng cứ tiếp tục trả tiền là tự động được dùng tiếp. Thực tế, việc xe có sẵn cho kỳ
+ gia hạn phụ thuộc vào tình trạng kinh doanh của từng thời điểm, và không cửa hàng nào có thể giữ xe vô thời hạn chờ quyết định của bạn. Đặt câu hỏi sớm luôn rẻ hơn giả định, đặc biệt vào mùa cao điểm du lịch khi xe được đặt kín lịch.
 
 Hiểu lầm thứ hai là nghĩ gia hạn luôn đắt hơn thuê mới từ đầu. Điều này chỉ đúng khi bạn so sai: cộng dồn giá ngày với gói tuần. Khi thương lượng chuyển gói đúng cách, phần lớn các kỳ thuê dài đều rẻ hơn tính lẻ, và đó chính là lý do mọi cuộc gọi gia hạn đều đáng thực hiện. Hiểu lầm thứ ba là nghĩ rằng cọc phải nộp thêm toàn bộ khi gia hạn. Việc cọc có cần bổ sung hay không tùy từng trường hợp, và đây là câu hỏi nên hỏi thẳng thay vì đoán.
 
@@ -55,4 +58,4 @@ Hiểu lầm cuối cùng, và cũng nguy hiểm nhất: nghĩ rằng giữ xe t
 
 ## Tóm lại
 
-Gia hạn thuê xe máy giữa kỳ là việc làm năm phút: gọi sớm, hỏi cách chuyển gói, chốt ngày trả mới và các điều kiện kèm theo bằng tin nhắn. Cách làm này giúp bạn tận dụng giá gói dài hạn, giữ nguyên thiện chí với cửa hàng và bảo vệ khoản cọc của mình. Để biết giá tham khảo theo ngày, tuần và tháng của từng dòng xe, hãy mở [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), và nếu cần bàn kế hoạch thuê dài ngay từ đầu, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Bạn cũng nên đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm toàn bộ quy trình từ đầu đến cuối.
+Gia hạn thuê xe máy giữa kỳ là việc làm năm phút: gọi sớm, hỏi cách chuyển gói, chốt ngày trả mới và các điều kiện kèm theo bằng tin nhắn. Cách làm này giúp bạn tận dụng giá gói dài hạn, giữ nguyên thiện chí với cửa hàng và bảo vệ khoản cọc của mình. Để biết giá tham khảo theo ngày, tuần và tháng của từng dòng xe, hãy mở [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), và nếu cần bàn kế hoạch thuê dài ngay từ đầu, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Bạn cũng nên đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm toàn bộ quy trình từ đầu đến cuối.

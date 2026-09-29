@@ -21,7 +21,8 @@ Chống chân nên nghiêng về phía dốc cao, nghiêng nhiều hơn mức th
 
 ## Vỉa hè hẹp: tính toán lối thoát trước khi hạ chống chân
 
-Vỉa hè hẹp ở khu phố cũ thường chỉ vừa một hàng xe. Trước khi hạ chống, hãy nhìn qua vai sau lưng: xe của bạn có chặn lối ra của xe đã đỗ trước không, và bạn có đủ chỗ để đẩy xe ra sau khi quay đầu xe về hướng đường không. Một mẹo nhỏ là luôn quay đầu xe ra phía đường, càng không phải đẩy lùi xe ra giữa dòng người đang đi.
+Vỉa hè hẹp ở khu phố cũ thường chỉ vừa một hàng xe. Trước khi hạ chống, hãy nhìn qua vai sau lưng: xe của bạn có chặn lối ra của xe đã đỗ trước không, và bạn có đủ chỗ để đẩy xe ra sau khi quay đầu xe về hướng đường không. Một mẹo nhỏ là luôn quay đầu xe ra p
+hía đường, càng không phải đẩy lùi xe ra giữa dòng người đang đi.
 
 Giữ khoảng cách với xe hai bên chừng một gang tay. Sát quá thì khi người cạnh kéo xe ra, chiếc của bạn dễ bị kéo đổ theo. Rộng quá thì bạn chiếm mất chỗ của người sau. Nếu vỉa hè gồ ghề, đặt chân chống xuống mặt phẳng nhất có thể tìm được, mảnh gạch vỡ hay cục đá nhỏ dưới chân chống có thể khiến xe tụt dần trong nhiều giờ.
 
@@ -39,7 +40,8 @@ Xe tay ga thuê thường nặng hơn xe bạn vẫn đi hằng ngày. Sau khi h
 
 ## Gửi xe trả tiền ở nơi dốc: chọn vị trí trong bãi
 
-Ngay cả khi có bãi gửi, trong bãi vẫn có những chỗ dốc nhẹ hoặc lòng chảo. Khi giao xe cho ông chú trông xe, bạn vẫn có quyền chọn vị trí nếu hỏi khéo. Nên yêu cầu vị trí cạnh mép, không nằm giữa dãy xe ba bốn lớp, bởi khi lấy xe giữa dãy, người trông xe phải kéo mấy chiếc khác ra rồi dựng lại trên mặt dốc, rủi ro trầy xước nằm ở chính khâu đó. Nhiều bãi còn có khu riêng cho xe tay ga nặng, mặt bằng phẳng hơn. Nếu phải gửi dài ngày, chụp ảnh xe từ hai phía trước khi rời đi, để có căn cứ so sánh khi nhận lại.
+Ngay cả khi có bãi g
+ửi, trong bãi vẫn có những chỗ dốc nhẹ hoặc lòng chảo. Khi giao xe cho ông chú trông xe, bạn vẫn có quyền chọn vị trí nếu hỏi khéo. Nên yêu cầu vị trí cạnh mép, không nằm giữa dãy xe ba bốn lớp, bởi khi lấy xe giữa dãy, người trông xe phải kéo mấy chiếc khác ra rồi dựng lại trên mặt dốc, rủi ro trầy xước nằm ở chính khâu đó. Nhiều bãi còn có khu riêng cho xe tay ga nặng, mặt bằng phẳng hơn. Nếu phải gửi dài ngày, chụp ảnh xe từ hai phía trước khi rời đi, để có căn cứ so sánh khi nhận lại.
 
 ## Trời mưa và mặt đường trơn: dốc càng cần cẩn trọng hơn
 
@@ -47,11 +49,12 @@ Mưa làm mặt dốc trơn, chân chống dễ trượt trên vệt rêu hoặc
 
 ## Một vài thói quen nhỏ đáng hình thành
 
-Tổng hợp lại, khi phải đỗ xe máy thuê ở địa hình khó, thứ tự suy nghĩ nên là: mặt phẳng trước, điểm tựa sau, hướng bánh kế tiếp, lối ra cuối cùng. Nếu bốn yếu tố này không cùng thỏa mãn, hãy chấp nhận đi thêm hai mươi mét tìm chỗ khác. Với xe thuê, một vết trầy do xe đổ khi đỗ có thể gây tranh luận khi trả xe, trong khi hai mươi mét đi bộ là cái giá rẻ. Bạn cũng nên tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) để có góc nhìn tổng thể về các tình huống thường gặp khi đi xe thuê, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) nếu bạn mới thuê xe lần đầu và chưa quen các lưu ý cơ bản.
+Tổng hợp lại, khi phải đỗ xe máy thuê ở địa hình khó, thứ tự suy nghĩ nên là: mặt phẳng trước, điểm tựa sau, hướng bánh kế tiếp, lối ra cuối cùng. Nếu bốn yếu tố này không cùng thỏa mãn, hãy chấp nhận đi thêm hai mươi mét tìm chỗ khác. Với xe thuê, một vết trầy do xe đổ khi đỗ có thể gây tranh luận khi trả xe, trong khi hai mươi mét đi bộ là cái giá rẻ. Bạn cũng nên tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) để có góc nhìn tổng thể về các tình huống thường gặp khi đi xe thuê, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) nếu bạn mới thuê xe lần đầu và chưa quen các lưu ý cơ bản.
 
 ## Khi vỉa hè đã kín: các lựa chọn thay thế
 
-Có những khung giờ mà mọi vỉa hè quanh khu bạn đến đều kín đặc. Lúc đó, thay vì cố nhồi chiếc xe vào khe hẹp, hãy nghĩ đến các lựa chọn khác. Thứ nhất là bãi gửi trả tiền quanh khu chợ, trường học, bệnh viện, nơi thường có người trông và mặt bằng được san khá phẳng; chi phí thay đổi theo từng khu vực và thời điểm. Thứ hai là các đoạn ngõ nhỏ phía sau dãy nhà chính, thường vắng hơn đường lớn, nhưng cần lưu ý ngõ hẹp khó quay đầu và bạn nên hỏi người dân xem chỗ đó có thuộc lối đi của nhà nào không. Thứ ba, một số tòa nhà, trung tâm thương mại cho phép gửi xe trong giờ hoạt động, mặt bằng hầm thường phẳng và có khe đánh dấu sẵn từng chỗ.
+Có những khung giờ mà mọi vỉa hè quanh khu bạn đến đều kín đặc. Lúc đó, thay vì cố nhồi chiếc xe vào khe hẹp, hãy nghĩ đến các lựa chọn khác. Thứ nhất là bãi gửi trả tiền quanh khu chợ, trường học, bệnh viện, nơi thường có người trông và mặt bằng được san khá phẳng; chi phí thay đổi
+ theo từng khu vực và thời điểm. Thứ hai là các đoạn ngõ nhỏ phía sau dãy nhà chính, thường vắng hơn đường lớn, nhưng cần lưu ý ngõ hẹp khó quay đầu và bạn nên hỏi người dân xem chỗ đó có thuộc lối đi của nhà nào không. Thứ ba, một số tòa nhà, trung tâm thương mại cho phép gửi xe trong giờ hoạt động, mặt bằng hầm thường phẳng và có khe đánh dấu sẵn từng chỗ.
 
 Giữa ba lựa chọn này, nếu bạn chỉ dừng dưới một giờ, bãi gửi gần nhất vẫn là phương án đáng tiền nhất: bạn đổi một khoản nhỏ lấy sự yên tâm và không mất mười phút vòng vo tìm chỗ. Nếu gửi cả buổi, hãy chọn nơi có mái che, đặc biệt vào mùa mưa, vì nước mưa tích trên yên và khóa cốp có thể gây khó chịu khi ra về. Trước khi rời bãi, người trông xe thường đưa một tấm vé nhỏ; cất kỹ tấm vé này vì đó là căn cứ nhận xe, và nếu đánh mất, bạn cần mô tả chính xác đặc điểm xe kèm giấy tờ tùy thân khi nhận lại. Với xe thuê, tốt hơn hết là chụp biển số và vài góc xe ngay khi giao, để mọi thủ tục sau đó thuận lợi.
 

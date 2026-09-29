@@ -23,7 +23,8 @@ Cuối cùng là thời điểm bắt đầu. Nếu bạn mới chuyển đến 
 
 ## Dự phòng cho những ngày xe không dùng được
 
-Kỳ dài hạn gần như chắc chắn có những ngày phát sinh: xe cần thay lốp, bạn đi công tác ba ngày, xe bị va quệt cần sửa. Kế hoạch dài hạn giỏi không loại bỏ những ngày này, mà dự trù cho chúng. Ba hình thức dự phòng thực tế: giữ lại tiền taxi của vài ngày trong ngân sách hàng tháng, biết trước tuyến xe buýt quen thuộc của mình, và hỏi cửa hàng từ đầu về chính sách khi xe cần sửa trong kỳ dài.
+Kỳ dài hạn gần 
+như chắc chắn có những ngày phát sinh: xe cần thay lốp, bạn đi công tác ba ngày, xe bị va quệt cần sửa. Kế hoạch dài hạn giỏi không loại bỏ những ngày này, mà dự trù cho chúng. Ba hình thức dự phòng thực tế: giữ lại tiền taxi của vài ngày trong ngân sách hàng tháng, biết trước tuyến xe buýt quen thuộc của mình, và hỏi cửa hàng từ đầu về chính sách khi xe cần sửa trong kỳ dài.
 
 Câu hỏi về sửa chữa đáng được đặt cụ thể: trong kỳ thuê dài, việc bảo dưỡng định kỳ như thay nhớt, chỉnh xích, châm áp suất lốp được cửa hàng hỗ trợ ra sao, và khi xe có trục trặc không do lỗi người dùng, quy trình xử lý là gì, mất bao nhiêu thời gian. Câu trả lời cho những câu hỏi này là phần thật của giá trị mà một cửa hàng cho thuê dài hạn mang lại, không chỉ con số giá thuê tháng.
 
@@ -35,7 +36,8 @@ Khuôn mẫu kiểm tra của người thuê dài hạn thường gồm ba tần
 
 Với xe máy điện, tầng hằng tháng thêm phần theo dõi pin: quãng đường thực tế đi được trên một lần sạc đầy có giảm dần không. Pin giảm dung lượng từ từ theo thời gian sử dụng, và ghi chú đơn giản mỗi tuần về tần suất sạc giúp bạn phát hiện sớm khi pin xuống cấp tới mức cần báo cửa hàng.
 
-Việc ghi lại các mốc này không cần sổ sách cầu kỳ. Một ghi chú trên điện thoại với những dòng ngày tháng là đủ. Điều quan trọng là tính đều đặn: chính sự đều đặn khiến những thay đổi nhỏ của chiếc xe hiện ra, giống như việc cân ký hằng tuần khiến bạn nhận ra xu hướng mà từng bữa ăn riêng lẻ không cho thấy.
+Việc ghi lại các mốc này không cần sổ sách cầu kỳ. Một ghi chú trên điện thoại với những dòng ngày tháng là đủ. Điều quan trọng là tính đều đặn: chính sự đều đặn
+ khiến những thay đổi nhỏ của chiếc xe hiện ra, giống như việc cân ký hằng tuần khiến bạn nhận ra xu hướng mà từng bữa ăn riêng lẻ không cho thấy.
 
 ## Quản lý chi phí toàn kỳ
 
@@ -53,7 +55,8 @@ Với người dự định thuê tiếp hoặc đổi xe sau kỳ này, tuần 
 
 ## Gắn khung kế hoạch với quyết định thuê
 
-Khung kế hoạch trên đây cô đọng lại thành một trang giấy: dòng thời gian các mốc kiểm tra, ngân sách ước tính ba lớp, các câu hỏi đã hỏi và câu trả lời của cửa hàng, và danh sách dự phòng. Người thuê theo tháng nhiều kỳ gần như luôn có một trang như vậy, dù có khi chỉ trong đầu. Để bắt đầu, hãy xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các mức tham khảo theo tháng của từng dòng, đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về bức tranh chung, và trao đổi trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) về các điều kiện của gói dài hạn trước khi ký.
+Khung kế hoạch trên đây cô đọng
+ lại thành một trang giấy: dòng thời gian các mốc kiểm tra, ngân sách ước tính ba lớp, các câu hỏi đã hỏi và câu trả lời của cửa hàng, và danh sách dự phòng. Người thuê theo tháng nhiều kỳ gần như luôn có một trang như vậy, dù có khi chỉ trong đầu. Để bắt đầu, hãy xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) cho các mức tham khảo theo tháng của từng dòng, đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về bức tranh chung, và trao đổi trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) về các điều kiện của gói dài hạn trước khi ký.
 
 Thuê dài hạn là hình thức đi lại gần giống sở hữu một chiếc xe nhất, nhưng không bị ràng buộc bởi nó. Làm chủ được khung kế hoạch, bạn hưởng trọn cái tốt của cả hai thế giới: sự linh hoạt của người thuê và sự ổn định của người có xe riêng.
 ## Khi kế hoạch gặp biến cố lớn
@@ -62,4 +65,5 @@ Khung kế hoạch đẹp nhất cũng có ngày bị biến cố lớn đâm xu
 
 Một biến cố khác là xe gặp sự cố lớn giữa kỳ, loại khiến xe phải nằm sửa nhiều ngày. Đây là lúc những câu hỏi đã hỏi đầu kỳ phát huy tác dụng: nếu bạn đã biết quy trình xử lý của cửa hàng, lúc sự cố xảy ra, bạn chỉ cần làm theo thay vì hoang mang. Nếu chưa kịp hỏi, thì nguyên tắc an toàn là giữ mọi hóa đơn và ghi chép, chụp hiện trạng xe trước khi giao đi sửa, và hỏi rõ ai chịu khoản nào trước khi đồng ý sửa, thay vì sau.
 
-Cuối cùng, kế hoạch dài hạn nên luôn có phương án rút lui đơn giản: nếu mọi thứ không suôn sẻ, chi phí tối đa bạn chấp nhận để thoát khỏi tình huống là gì, và bạn sẵn sàng chuyển sang phương án đi lại nào. Câu trả lời sẵn có cho câu hỏi này không bi quan, mà ngược lại, nó cho bạn sự tự tin để tiến hành kỳ dài hạn một cách thoải mái, vì biết rằng lối thoát đã được suy nghĩ sẵn.
+Cuối cùng, kế hoạch dài hạn nên luôn có phương án rút lui đơn giản: nếu mọi thứ không suôn sẻ, chi phí tối đa bạn chấp nhận để thoát khỏi tình 
+huống là gì, và bạn sẵn sàng chuyển sang phương án đi lại nào. Câu trả lời sẵn có cho câu hỏi này không bi quan, mà ngược lại, nó cho bạn sự tự tin để tiến hành kỳ dài hạn một cách thoải mái, vì biết rằng lối thoát đã được suy nghĩ sẵn.

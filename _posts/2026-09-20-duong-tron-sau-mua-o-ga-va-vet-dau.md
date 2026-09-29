@@ -19,7 +19,8 @@ Mưa lớn cuốn trôi bụi và rác nhưng lại để lại nhiều thứ kh
 
 ## Đọc ổ gà dưới lớp nước
 
-Ổ gà là nguy hiểm số một vì nó đội mũ ngụy trang: một vũng nước phẳng phiu có thể chỉ là mặt đường ướt, cũng có thể là hố sâu năm xen ti mét với mép sứt sắc. Các dấu hiệu giúp đoán: vũng nước có màu đục và sủi bong bóng nhỏ thường là ổ sâu, nước ở vùng lõm quanh miệng cống thường có dòng xoáy, và các vũng dài theo bánh xe của ô tô phía trước thường che đúng chuỗi ổ liên tiếp. Cách xử lý an toàn nhất là giảm tốc trước khi tới vũng, đi thẳng bánh qua chứ không né vội giữa chừng, và đứng nhẹ trên chân để hông hấp thụ cú xóc. Nếu dòng xe phía trước cùng lượn tránh về một bên, tin theo kinh nghiệm tập thể đó.
+Ổ gà là nguy hiểm số một vì nó đội mũ ngụy trang: một vũng nước phẳng phiu có thể chỉ là mặt đường ướt, cũng có thể là hố sâu năm xen ti mét với mép sứt sắc. Các dấu hiệu giúp đoán: vũng nước có màu đục và sủi bong bóng nhỏ thường là ổ sâu, nước ở vùng lõm quanh miệng cống thường có dòng xoáy, và các vũng dài theo bánh xe của ô tô phía trước thường che đúng chuỗi ổ liên tiếp. Cách xử lý an toàn nhất là giảm tốc trước khi tới vũng, đi thẳng bánh qua chứ không n
+é vội giữa chừng, và đứng nhẹ trên chân để hông hấp thụ cú xóc. Nếu dòng xe phía trước cùng lượn tránh về một bên, tin theo kinh nghiệm tập thể đó.
 
 ## Vệt dầu ở ngã tư và lối ra vào
 
@@ -35,7 +36,8 @@ Trên đường trơn, khoảng cách phanh dài hơn và tay lái nhạy hơn m
 
 ## Đi giữa dòng xe sau mưa
 
-Dòng xe sau mưa cũng thay đổi: mọi người cùng muốn về nhanh cho khô ráo, các ô tô bung tóe nước, và khoảng cách an toàn bị thu hẹp bởi tâm lý chung. Hãy chủ động nới rộng khoảng cách với xe phía trước hơn bình thường, vì vừa phanh dài hơn vừa cần thêm phản xạ cho các pha né ổ gà bất ngờ. Tránh đi sát vào mép đường nơi nước và bùn dồn về, và cũng tránh đi ngay vào vệt bánh xe của xe phía trước: đi lệch nửa bánh giúp nhìn được mặt đường sớm hơn và né được các ổ xe trước đã đi qua. Tạt nước từ xe bus hoặc xe tải khi vượt là chuyện khó tránh, hãy chấp nhận ướt thay vì níu tay lái né trong vô thức.
+Dòng xe
+ sau mưa cũng thay đổi: mọi người cùng muốn về nhanh cho khô ráo, các ô tô bung tóe nước, và khoảng cách an toàn bị thu hẹp bởi tâm lý chung. Hãy chủ động nới rộng khoảng cách với xe phía trước hơn bình thường, vì vừa phanh dài hơn vừa cần thêm phản xạ cho các pha né ổ gà bất ngờ. Tránh đi sát vào mép đường nơi nước và bùn dồn về, và cũng tránh đi ngay vào vệt bánh xe của xe phía trước: đi lệch nửa bánh giúp nhìn được mặt đường sớm hơn và né được các ổ xe trước đã đi qua. Tạt nước từ xe bus hoặc xe tải khi vượt là chuyện khó tránh, hãy chấp nhận ướt thay vì níu tay lái né trong vô thức.
 
 ## Đèn và tầm nhìn sau mưa
 
@@ -47,7 +49,8 @@ Mưa tạnh không đồng nghĩa tầm nhìn đã ổn: mưa tạt trên kính 
 
 ## Sau chuyến đi mưa: kiểm tra lại xe
 
-Chuyến đi trên đường mưa xong, hãy dành vài phút cho chiếc xe trước khi cất: lau khô các bộ phận điện như còi và đèn, kiểm tra phanh bằng vài cú bóp thử ở chỗ vắng, và phơi khô máy ở nơi thoáng nếu có thể. Đối với xe thuê, các kiểm tra này còn giúp phát hiện sớm bất thường do nước gây ra, như phanh ăn yếu hay đèn chập chờn, để báo nơi cho thuê kịp thời. Xe máy được đối xử tử tế sau mưa sẽ không để lại bất ngờ vào sáng hôm sau, và bất ngờ buổi sáng là loại tồi tệ nhất trong lịch trình của bất kỳ ai.
+Chuyến đi trên đường mưa xong, hãy dành vài phút cho chiếc xe trước khi cất: lau khô các bộ phận điện như còi và đèn, kiểm tra phanh bằng vài cú bóp thử ở chỗ vắng, và phơi khô máy ở nơi thoáng nếu có thể. Đối với xe thuê, các kiểm tra này còn giúp phát hiện sớm bất thườn
+g do nước gây ra, như phanh ăn yếu hay đèn chập chờn, để báo nơi cho thuê kịp thời. Xe máy được đối xử tử tế sau mưa sẽ không để lại bất ngờ vào sáng hôm sau, và bất ngờ buổi sáng là loại tồi tệ nhất trong lịch trình của bất kỳ ai.
 
 ## Lốp xe và việc tự kiểm tra trước mùa mưa
 
@@ -55,4 +58,4 @@ Trước mùa mưa, hãy dành một phút nhìn kỹ bộ lốp của chiếc x
 
 ## Kết lại
 
-Đường sau mưa ở Hà Nội đòi hỏi một lối đọc đường khác: nghi ngờ mọi vũng phẳng, né các vệt dầu nơi xe hay dừng, đi chậm và phanh dài, và chăm chút từ kính mũ tới đế giày. Nếu bạn cần tư vấn về tình trạng lốp hoặc phanh của xe thuê trong mùa mưa, liên hệ Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Đọc thêm bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để trang bị đầy đủ hơn cho các buổi đi đường ướt. Tốc độ thấp và đôi mắt nghi ngờ mặt đường là hai người bạn tốt nhất của bạn trong nửa giờ sau mưa.
+Đường sau mưa ở Hà Nội đòi hỏi một lối đọc đường khác: nghi ngờ mọi vũng phẳng, né các vệt dầu nơi xe hay dừng, đi chậm và phanh dài, và chăm chút từ kính mũ tới đế giày. Nếu bạn cần tư vấn về tình trạng lốp hoặc phanh của xe thuê trong mùa mưa, liên hệ Nguyễn Tú qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Đọc thêm bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) khác để trang bị đầy đủ hơn cho các buổi đi đường ướt. Tốc độ thấp và đôi mắt nghi ngờ mặt đường là hai người bạn tốt nhất của bạn trong nửa giờ sau mưa.
