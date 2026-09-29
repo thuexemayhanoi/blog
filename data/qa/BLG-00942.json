@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chi-phi-chay-xe-ien-va-xe-xang-khi-thue-theo-thang.md",
+  "source_path": "_posts/2026-09-29-chi-phi-chay-xe-ien-va-xe-xang-khi-thue-theo-thang.md",
   "content_sha256": "37b2bf3111ea072c3d78249eb3f3779ba8ac3dfaff6ae9ae099eeaa717bd971e",
-  "matrix_row_sha256": "ea6701856761a8a3693096b90bf928ef3e749567c509d1453a3ec7f2ab674b7f",
-  "result": "PASS"
+  "matrix_row_sha256": "3f73f608a3095ed2e2f44873e43364ee4133f1fd063a49810fffa3004790f414",
+  "result": "PASS",
+  "published_at": "2026-09-29T21:09:31+00:00"
 }

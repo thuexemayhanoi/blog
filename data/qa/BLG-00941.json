@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-so-sanh-at-coc-giua-cac-hinh-thuc-thue-xe-may.md",
+  "source_path": "_posts/2026-09-29-so-sanh-at-coc-giua-cac-hinh-thuc-thue-xe-may.md",
   "content_sha256": "4f998242864bf77a934152a3e92612d3f8ea0f2664fe6034612b980c51a12415",
-  "matrix_row_sha256": "38f592f0d3b61bd57b54c17312ad545811784f39b0c45427287eaafa3ffab185",
-  "result": "PASS"
+  "matrix_row_sha256": "4be039c99d8bfa50dcb96d650d994d52def88f077ea1b393690324848f9340e4",
+  "result": "PASS",
+  "published_at": "2026-09-29T21:09:31+00:00"
 }

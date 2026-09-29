@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-tu-lai-hay-i-xe-om-cong-nghe-trong-noi-o.md",
+  "source_path": "_posts/2026-09-29-thue-xe-tu-lai-hay-i-xe-om-cong-nghe-trong-noi-o.md",
   "content_sha256": "0b00f7d5879bf6eb7bcc2860f18dd151ccd3e1537dee109a64ab8141e26d86c0",
-  "matrix_row_sha256": "37b24b2a3caf3740ed02a00559664872f6abe60d26ebe07cd2764c36cdd20bf9",
-  "result": "PASS"
+  "matrix_row_sha256": "e193048630e86858403a8bdb38d6eeddc0163c404fae5a373a1de73cbe3ff812",
+  "result": "PASS",
+  "published_at": "2026-09-29T21:09:31+00:00"
 }
