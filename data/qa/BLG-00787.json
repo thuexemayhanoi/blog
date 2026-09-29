@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00787",
   "title": "Chạy đèo Mã Pí Lèng bằng xe số an toàn",
-  "scored_at": "2026-09-29T00:03:30+00:00",
+  "scored_at": "2026-09-29T00:05:19+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1052,
+  "word_count": 1054,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-28-chay-eo-ma-pi-leng-bang-xe-so-an-toan.md",
-  "content_sha256": "b36c2fbd5676be3aece3a365b2f11df86bc316ab209114df19e6515869e62ed9",
+  "content_sha256": "42da8a99a77201102e3a395e0b642049842db203d974a7e1d803250226ae3690",
   "matrix_row_sha256": "c286120d806f303b4197a44279bc5539b326ed4cc3cdad30cc3b0d6d421424aa",
-  "result": "REPAIR"
+  "result": "PASS"
 }
