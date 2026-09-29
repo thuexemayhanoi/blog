@@ -1,0 +1,7 @@
+{
+  "op": "publish",
+  "ids": "BLG-00900,BLG-00901,BLG-00902,BLG-00903,BLG-00904,BLG-00905,BLG-00906,BLG-00907,BLG-00908,BLG-00909",
+  "scope": "fast",
+  "command_id": "campaign10k-chunk21-publish",
+  "coordinator": "external-ai-writer"
+}
