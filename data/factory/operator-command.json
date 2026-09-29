@@ -1,7 +1,0 @@
-{
-  "op": "qa",
-  "ids": "BLG-00885,BLG-00886,BLG-00887,BLG-00888,BLG-00889",
-  "scope": "fast",
-  "command_id": "campaign10k-resume-chunk19-qa",
-  "coordinator": "vibe-writer"
-}
