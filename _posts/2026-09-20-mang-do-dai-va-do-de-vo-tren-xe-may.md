@@ -45,7 +45,7 @@ Cũng cần nói rõ một ranh giới pháp lý: chở hàng cồng kềnh vư�
 
 ## Tập dượt trước khi lên đường xa
 
-Nếu chuyến đi chở đồ quan trọng, hãy thử trước: buộc đồ xong, chạy một vòng ngắn quanh khu phố, qua vài khúc cua và một đoạn đường xấu gần nhà. Mọi vấn đề về dây buộc, trọng tâm hay tầm nhìn đều lộ ra trong vòng mười phút này, khi bạn còn gần nhà và còn thời gian chỉnh. Kiểm tra lại khả năng bóp phanh và chống chân có bị đồ che khuất không, vì nhiều vụ ngã nhẹ xảy ra chỉ vì người lái không với được chân chống xuống do túi đồ chặn. Cách chuẩn bị chuyến đi bằng xe máy cũng nằm trong nhóm kỹ năng nền tảng mà bạn có thể tham khảo thêm ở bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Nếu chuyến đi chở đồ quan trọng, hãy thử trước: buộc đồ xong, chạy một vòng ngắn quanh khu phố, qua vài khúc cua và một đoạn đường xấu gần nhà. Mọi vấn đề về dây buộc, trọng tâm hay tầm nhìn đều lộ ra trong vòng mười phút này, khi bạn còn gần nhà và còn thời gian chỉnh. Kiểm tra lại khả năng bóp phanh và chống chân có bị đồ che khuất không, vì nhiều vụ ngã nhẹ xảy ra chỉ vì người lái không với được chân chống xuống do túi đồ chặn. Cách chuẩn bị chuyến đi bằng xe máy cũng nằm trong nhóm kỹ năng nền tảng mà bạn có thể tham khảo thêm ở bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Chở đồ với người ngồi sau
 

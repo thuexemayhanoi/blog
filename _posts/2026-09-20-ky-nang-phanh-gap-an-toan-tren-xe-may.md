@@ -43,7 +43,7 @@ Trên xe số, phanh gấp đi kèm thao tác bóp côn để máy không chết
 
 ## Phanh gấp với người mới đi xe máy ở Hà Nội
 
-Người mới đến Hà Nội đi xe máy thường mất vài tuần để quen mật độ giao thông, và giai đoạn ấy là lúc rủi ro phanh sai cao nhất. Nếu bạn thuộc nhóm này, hãy hạ tốc độ di chuyển xuống mức mà mọi tình huống đều nằm trong tầm kiểm soát phanh của mình, và chọn giờ vắng để làm quen đường trong tuần đầu. Kinh nghiệm tổng quát khi bắt đầu thuê xe nằm trong bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), còn các nguyên tắc an toàn nền tảng khi chạy đường trường hoặc đường đông được bàn thêm trong nhóm bài chia sẻ tại mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}).
+Người mới đến Hà Nội đi xe máy thường mất vài tuần để quen mật độ giao thông, và giai đoạn ấy là lúc rủi ro phanh sai cao nhất. Nếu bạn thuộc nhóm này, hãy hạ tốc độ di chuyển xuống mức mà mọi tình huống đều nằm trong tầm kiểm soát phanh của mình, và chọn giờ vắng để làm quen đường trong tuần đầu. Kinh nghiệm tổng quát khi bắt đầu thuê xe nằm trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), còn các nguyên tắc an toàn nền tảng khi chạy đường trường hoặc đường đông được bàn thêm trong nhóm bài chia sẻ tại mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}).
 
 ## Lốp và phanh: hai biến số cần kiểm tra trước khi cần đến
 

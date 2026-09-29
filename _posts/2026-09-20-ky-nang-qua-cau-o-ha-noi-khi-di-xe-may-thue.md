@@ -43,7 +43,7 @@ Cầu Long Biên ngoài vai trò giao thông còn là điểm tham quan, nên d�
 
 ## Qua cầu đêm và ngày mưa
 
-Đêm trên cầu, gió mạnh hơn và đèn hậu nhòe hơn, nên khoảng cách dọc cần thêm một bậc. Đèn pha nên để chế độ gần trên cầu có người đi bộ hai bên. Ngày mưa, các đường rãnh thoát nước trên mặt cầu trở nên trơn nhất trong toàn bộ tuyến, và các vệt muội bẩn tích tụ lâu ngày ở đoạn chân cầu phanh nhiều cũng là điểm trượt kinh điển; vào cầu mưa bằng tốc độ thấp và phanh sớm nhẹ là cách duy nhất đáng tin. Bạn có thể đọc thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về các kỹ năng đi xe trong mưa và ban đêm, hoặc tham khảo [gợi ý khám phá Hà Nội bằng xe máy cho người mới]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}) nếu bạn mới đến và chưa thuộc các trục cầu chính của thành phố.
+Đêm trên cầu, gió mạnh hơn và đèn hậu nhòe hơn, nên khoảng cách dọc cần thêm một bậc. Đèn pha nên để chế độ gần trên cầu có người đi bộ hai bên. Ngày mưa, các đường rãnh thoát nước trên mặt cầu trở nên trơn nhất trong toàn bộ tuyến, và các vệt muội bẩn tích tụ lâu ngày ở đoạn chân cầu phanh nhiều cũng là điểm trượt kinh điển; vào cầu mưa bằng tốc độ thấp và phanh sớm nhẹ là cách duy nhất đáng tin. Bạn có thể đọc thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về các kỹ năng đi xe trong mưa và ban đêm, hoặc tham khảo [gợi ý khám phá Hà Nội bằng xe máy cho người mới]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) nếu bạn mới đến và chưa thuộc các trục cầu chính của thành phố.
 
 ## Làm quen một cây cầu mới trong buổi đầu
 

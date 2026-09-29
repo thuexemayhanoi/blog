@@ -49,7 +49,7 @@ Ghi lại các câu trả lời quan trọng bằng tin nhắn sau cuộc trao �
 
 ## Kết luận
 
-Danh sách câu hỏi trên nghe dài, nhưng trong thực tế, phần lớn được trả lời trong một cuộc gọi hoặc vài tin nhắn trước ngày nhận xe. Việc còn lại chỉ là đến, kiểm tra xe, ký hợp đồng và bắt đầu chuyến đi với tâm thế rõ ràng về mọi điều khoản. Để tập hợp các mức giá tham khảo trước khi gọi, bạn có thể xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), và mọi thắc mắc chi tiết được giải đáp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Kinh nghiệm tổng quan hơn về quy trình thuê nằm trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Danh sách câu hỏi trên nghe dài, nhưng trong thực tế, phần lớn được trả lời trong một cuộc gọi hoặc vài tin nhắn trước ngày nhận xe. Việc còn lại chỉ là đến, kiểm tra xe, ký hợp đồng và bắt đầu chuyến đi với tâm thế rõ ràng về mọi điều khoản. Để tập hợp các mức giá tham khảo trước khi gọi, bạn có thể xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), và mọi thắc mắc chi tiết được giải đáp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}). Kinh nghiệm tổng quan hơn về quy trình thuê nằm trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Kiểm tra xe: những gì mắt thường nhìn được
 

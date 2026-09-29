@@ -51,4 +51,4 @@ Hai xe thuê cùng lúc dễ bị nhầm tình trạng: xe này gió đầy, xe 
 
 ## Kết lại
 
-Thuê hai xe cùng lúc quản lý được tốt khi có một đầu mối rõ ràng, các thỏa thuận với nơi cho thuê được nói trước và ghi lại, chìa khóa được đánh dấu, và quy ước xử lý sự cố có sẵn trong nhóm. Nếu nhóm hoặc gia đình bạn cần thuê nhiều xe máy cùng lúc ở Hà Nội, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về kinh nghiệm thuê xe của người đi trước.
+Thuê hai xe cùng lúc quản lý được tốt khi có một đầu mối rõ ràng, các thỏa thuận với nơi cho thuê được nói trước và ghi lại, chìa khóa được đánh dấu, và quy ước xử lý sự cố có sẵn trong nhóm. Nếu nhóm hoặc gia đình bạn cần thuê nhiều xe máy cùng lúc ở Hà Nội, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về kinh nghiệm thuê xe của người đi trước.

@@ -51,4 +51,4 @@ Sau các cuộc gọi khẩn cấp, dành một giờ viết lại mọi việc 
 
 ## Kết lại
 
-Mất ví giữa kỳ thuê xe xử lý theo trình tự: khoanh vùng và gọi các điểm dừng, báo ngay cho nơi cho thuê, khóa thẻ trong giờ đầu, làm lại giấy tờ theo thứ tự ưu tiên, và ghi chép lại toàn bộ tiến trình. Nếu bạn có câu hỏi về thủ tục liên quan khi đang thuê xe của Nguyễn Tú, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) sớm, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về các tình huống đi lại thực tế.
+Mất ví giữa kỳ thuê xe xử lý theo trình tự: khoanh vùng và gọi các điểm dừng, báo ngay cho nơi cho thuê, khóa thẻ trong giờ đầu, làm lại giấy tờ theo thứ tự ưu tiên, và ghi chép lại toàn bộ tiến trình. Nếu bạn có câu hỏi về thủ tục liên quan khi đang thuê xe của Nguyễn Tú, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) sớm, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về các tình huống đi lại thực tế.

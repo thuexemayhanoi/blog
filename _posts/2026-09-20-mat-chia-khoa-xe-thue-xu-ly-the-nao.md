@@ -51,6 +51,6 @@ Nhiều câu chuyện tưởng mất chìa thực chất là chìa còn đó nh�
 
 Sau khi chuyện mất chìa được giải quyết, đáng gửi cho cửa hàng một tin nhắn ngắn xác nhận lại số chìa hiện có và tình trạng xe, để phần ghi chép hai bên khớp nhau trước ngày trả. Chi tiết vụn vặt kiểu này là thứ cứu bạn khỏi các cuộc tranh luận vào cuối kỳ, khi trí nhớ hai bên về việc có hay không chiếc chìa thứ hai đã mờ đi sau nhiều tháng. Người thuê chuyên nghiệp kết thúc mỗi sự cố bằng một dòng ghi chú, vì kỷ niệm về sự cố thì hết, còn ghi chú thì còn.
 
-Để hiểu toàn cảnh các trách nhiệm và hồ sơ trong kỳ thuê dài hạn, đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), xem cách quản lý giấy tờ và chìa đã bàn trong [kinh nghiệm thuê xe]( {{ '/kinh-nghiem/' | relative_url }}), và hỏi trước về chính sách chìa dự phòng qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) trước khi ký.
+Để hiểu toàn cảnh các trách nhiệm và hồ sơ trong kỳ thuê dài hạn, đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), xem cách quản lý giấy tờ và chìa đã bàn trong [kinh nghiệm thuê xe]( {{ '/kinh-nghiem/' | relative_url }}), và hỏi trước về chính sách chìa dự phòng qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) trước khi ký.
 
 Chiếc chìa nhỏ đến mức dễ coi thường, cho đến ngày nó vắng mặt; và người cho nó một nơi cư trú cố định suốt kỳ thuê gần như không bao giờ phải học bài học đó theo cách đắt đỏ.

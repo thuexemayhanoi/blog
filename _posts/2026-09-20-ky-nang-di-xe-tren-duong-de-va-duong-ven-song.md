@@ -39,7 +39,7 @@ Trước khi xuất phát, quyết định cung đường và chiều dài hợp
 
 Kiểm tra xe trước chuyến đi: áp suất lốp, mức xăng, đèn và đèn tín hiệu, và độ ăn phanh. Xe thuê tốt thường được bảo dưỡng định kỳ, nhưng kiểm tra nhanh năm phút trước mỗi chuyến xa là thói quen không thừa với bất kỳ chiếc xe nào. Với các cung đê dài, việc đổ xăng dự phòng ở các trạm lớn dọc đường giúp bạn không rơi vào thế bị động ở vùng ít trạm.
 
-Nên xác định trước vài điểm dừng chân thú vị: chợ quê sáng sớm, quán nước ven đê, bến đò ngang sông. Những điểm dừng như vậy vừa là chỗ nghỉ vừa là mốc định hướng, giúp bạn luôn biết mình đang ở đâu trên lộ trình. Bạn có thể tham khảo thêm các gợi ý khám phá Hà Nội bằng xe máy qua bài [gợi ý khám phá Hà Nội bằng xe máy]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}), hoặc xem thêm các tuyến đi trong mục [du lịch]( {{ '/du-lich/' | relative_url }}).
+Nên xác định trước vài điểm dừng chân thú vị: chợ quê sáng sớm, quán nước ven đê, bến đò ngang sông. Những điểm dừng như vậy vừa là chỗ nghỉ vừa là mốc định hướng, giúp bạn luôn biết mình đang ở đâu trên lộ trình. Bạn có thể tham khảo thêm các gợi ý khám phá Hà Nội bằng xe máy qua bài [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/), hoặc xem thêm các tuyến đi trong mục [du lịch]( {{ '/du-lich/' | relative_url }}).
 
 ## Những gì nên mang theo
 
@@ -49,7 +49,7 @@ Về quần áo, gió ven sông về chiều khá lạnh nhất là mùa đông,
 
 ## Tư thế và sức bền cho chuyến dài
 
-Đường đê mời gọi bạn chạy đều tay ga trong tiếng gió, nhưng sức bền của người lái mới là giới hạn thực sự. Cứ mỗi khoảng một tiếng, dừng nghỉ năm mười phút, xuống xe vươn vai, uống nước. Tư thế ngồi thẳng lưng, khuỷu tay hơi chùng, hai đầu gối kẹp nhẹ hông xe giúp bạn điều khiển ổn định và không mỏi. Tránh ngồi dồn về sau rồi vịn tay chết cứng vào tay lái, vì tư thế ấy khiến phản xạ chậm khi gặp chướng ngại. Những chia sẻ này nằm trong nhóm kỹ năng cơ bản mà bất kỳ ai mới bắt đầu đi xa bằng xe máy cũng nên nắm, bên cạnh [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Đường đê mời gọi bạn chạy đều tay ga trong tiếng gió, nhưng sức bền của người lái mới là giới hạn thực sự. Cứ mỗi khoảng một tiếng, dừng nghỉ năm mười phút, xuống xe vươn vai, uống nước. Tư thế ngồi thẳng lưng, khuỷu tay hơi chùng, hai đầu gối kẹp nhẹ hông xe giúp bạn điều khiển ổn định và không mỏi. Tránh ngồi dồn về sau rồi vịn tay chết cứng vào tay lái, vì tư thế ấy khiến phản xạ chậm khi gặp chướng ngại. Những chia sẻ này nằm trong nhóm kỹ năng cơ bản mà bất kỳ ai mới bắt đầu đi xa bằng xe máy cũng nên nắm, bên cạnh [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Những lỗi thường gặp của người mới đi đê
 

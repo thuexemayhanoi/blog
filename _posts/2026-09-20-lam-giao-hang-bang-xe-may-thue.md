@@ -51,4 +51,4 @@ Làm nghề ngoài đường, giấy tờ cá nhân và điện thoại là hai 
 
 ## Kết lại
 
-Làm giao hàng bằng xe máy thuê hợp lý khi chuẩn bị đủ ba thứ: xe phù hợp đã trao đổi kỹ với nơi cho thuê, cơ thể được quản lý như tài sản chính, và sổ chi tiêu rõ ràng để biết lời thật. Nếu bạn đang muốn thử nghề giao hàng và cần một chiếc xe tin cậy cho những tuần đầu, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về đi lại làm việc trong thành phố.
+Làm giao hàng bằng xe máy thuê hợp lý khi chuẩn bị đủ ba thứ: xe phù hợp đã trao đổi kỹ với nơi cho thuê, cơ thể được quản lý như tài sản chính, và sổ chi tiêu rõ ràng để biết lời thật. Nếu bạn đang muốn thử nghề giao hàng và cần một chiếc xe tin cậy cho những tuần đầu, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}) với Nguyễn Tú, đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), hoặc xem thêm các bài [chia sẻ]( {{ '/chia-se/' | relative_url }}) về đi lại làm việc trong thành phố.
