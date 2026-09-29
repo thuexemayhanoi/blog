@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-sinh-vien-nen-thue-xe-so-hay-ap-ien.md",
+  "source_path": "_posts/2026-09-29-sinh-vien-nen-thue-xe-so-hay-ap-ien.md",
   "content_sha256": "08e85c3caa4cea7104f9fde33694dabcad2be30ddabf9dd3fbe8afaad6925b00",
-  "matrix_row_sha256": "f9aa8b9ce541c0c3b017004c799fc56a0d8fa439811e7f7e123f7cf67548b34b",
-  "result": "PASS"
+  "matrix_row_sha256": "618bf3f608b8c3d866e465d46c6672011748eef66faceabf79e7876c4145c5d5",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:13:35+00:00"
 }

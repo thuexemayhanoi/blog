@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-xa-ngoai-tinh-nen-thue-xe-gi.md",
+  "source_path": "_posts/2026-09-29-i-xa-ngoai-tinh-nen-thue-xe-gi.md",
   "content_sha256": "bc78052bd44859cf53ea160cc7f3dadad259c37f34520fd1fb685d7e0d21dd56",
-  "matrix_row_sha256": "da56e80297828e637ae5f5ca8b65657aeb9a5c926c796a288a92ddd5a33146e3",
-  "result": "PASS"
+  "matrix_row_sha256": "a691a6344fe938f9abce8696f3d732b0b9e183967c8a592b8fa24c099fa7a4a2",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:13:35+00:00"
 }

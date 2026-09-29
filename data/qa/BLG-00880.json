@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-hai-nguoi-i-du-lich-nen-thue-xe-nao.md",
+  "source_path": "_posts/2026-09-29-hai-nguoi-i-du-lich-nen-thue-xe-nao.md",
   "content_sha256": "812eda22b21a7d1fed8bbdf8e283cf1189e96524000525b9bb3716447b477115",
-  "matrix_row_sha256": "fac3f5be48b74dbeba0ef7dc862666ff3d7c97fb5c723d221fe013da0cb7ea04",
-  "result": "PASS"
+  "matrix_row_sha256": "82d1d45cd23282fec0a902d32974b2de89fe4a547099578ab37ad5f66f80c832",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:13:34+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-thue-chet-may-giua-uong-goi-ai.md",
+  "source_path": "_posts/2026-09-29-xe-thue-chet-may-giua-uong-goi-ai.md",
   "content_sha256": "261ea01ed8feda8a90340b5f0cc3c06afa185f7085e849f14c8e36e314c3f772",
-  "matrix_row_sha256": "e5387a4df27d826484990b4730ced02b472e04901a086a231c81c9df3157fece",
-  "result": "PASS"
+  "matrix_row_sha256": "d0264a4a4c1f552848abbe0ada49d1de7f06c9a01265812f8bac3446acf3fad9",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:13:35+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao.md",
+  "source_path": "_posts/2026-09-29-chi-i-trong-noi-thanh-nen-thue-xe-may-loai-nao.md",
   "content_sha256": "90f68848f4b67bb191d21d8747577601f9d22c041e32c7939c1425f94d8fc621",
-  "matrix_row_sha256": "b5803770372c474edfe2fe960fc767dc63511f863549820ac328768132d57747",
-  "result": "PASS"
+  "matrix_row_sha256": "78e35e43222a350382561582728f9fb0c4cb298928fa137658891e4a4dab2526",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:13:35+00:00"
 }
