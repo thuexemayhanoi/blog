@@ -51,7 +51,7 @@ Trường hợp thực sự kẹt, bạn có thể nhờ người xung quanh ch�
 
 Người thuê xe đi làm thường có chu trình cố định: sáng xuất phát, trưa đỗ xe, tối về. Đặt các thói quen nhỏ vào đúng các mốc đó: kiểm tra pin trước khi xuất phát sáng, sạc lúc trưa, tháo máy khỏi giá đỡ và cất vào người khi đỗ lâu. Chỉ vài thao tác lặp lại đều đặn, và sau một tuần bạn không còn phải nghĩ đến chúng nữa. Chiếc điện thoại khi đó thật sự là công cụ phục vụ chuyến đi, thay vì là thứ kéo sự chú ý của bạn ra khỏi con đường.
 
-Đi xe trong thành phố đông đòi hỏi sự tập trung gần như tuyệt đối vào giao thông xung quanh. Mọi tiện ích công nghệ chỉ an toàn khi được dùng đúng lúc, và đúng lúc nghĩa là lúc xe không lăn bánh. Nếu bạn mới bắt đầu thời gian dài đi lại bằng xe máy ở Hà Nội, có thể đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) và các bài chia sẻ thực tế khác trên mục [chia sẻ]( {{ '/chia-se/' | relative_url }}) để xây dựng thói quen tốt từ ngày đầu.
+Đi xe trong thành phố đông đòi hỏi sự tập trung gần như tuyệt đối vào giao thông xung quanh. Mọi tiện ích công nghệ chỉ an toàn khi được dùng đúng lúc, và đúng lúc nghĩa là lúc xe không lăn bánh. Nếu bạn mới bắt đầu thời gian dài đi lại bằng xe máy ở Hà Nội, có thể đọc thêm [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) và các bài chia sẻ thực tế khác trên mục [chia sẻ]( {{ '/chia-se/' | relative_url }}) để xây dựng thói quen tốt từ ngày đầu.
 
 ## Công nghệ phục vụ người biết dừng đúng lúc
 

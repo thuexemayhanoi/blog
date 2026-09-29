@@ -33,7 +33,7 @@ Trong giờ chợ, làn xe máy thực tế không còn là làn kẻ vạch n�
 
 ## Các giờ nên tránh nếu không cần đi
 
-Mỗi khu chợ có giờ cao điểm riêng, thường rơi vào khung sáu đến bảy giờ rưỡi sáng, khi người đi làm và người đi chợ giao nhau. Nếu tuyến của bạn bắt buộc qua khu chợ, đi trước sáu giờ hoặc sau tám giờ thường thông thoáng hơn hẳn. Ngày cuối tuần, nhiều khu chợ họp muộn hơn và dài hơn, lấn sâu hơn vào giờ sáng. Đáng dành một buổi quan sát khu chợ trên tuyến của mình trong tuần đầu thuê xe: biết giờ nào đông, góc đường nào hàng chiếm nhiều, giúp bạn sắp xếp giờ đi thông minh suốt cả kỳ thuê. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi lại trong các khu dân cư, hoặc đọc [gợi ý khám phá Hà Nội bằng xe máy cho người mới]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}) nếu bạn mới đến và đang làm quen với nhịp sống đường phố của thành phố.
+Mỗi khu chợ có giờ cao điểm riêng, thường rơi vào khung sáu đến bảy giờ rưỡi sáng, khi người đi làm và người đi chợ giao nhau. Nếu tuyến của bạn bắt buộc qua khu chợ, đi trước sáu giờ hoặc sau tám giờ thường thông thoáng hơn hẳn. Ngày cuối tuần, nhiều khu chợ họp muộn hơn và dài hơn, lấn sâu hơn vào giờ sáng. Đáng dành một buổi quan sát khu chợ trên tuyến của mình trong tuần đầu thuê xe: biết giờ nào đông, góc đường nào hàng chiếm nhiều, giúp bạn sắp xếp giờ đi thông minh suốt cả kỳ thuê. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về đi lại trong các khu dân cư, hoặc đọc [gợi ý khám phá Hà Nội bằng xe máy cho người mới]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) nếu bạn mới đến và đang làm quen với nhịp sống đường phố của thành phố.
 
 ## Mùa mưa và chợ tạm
 

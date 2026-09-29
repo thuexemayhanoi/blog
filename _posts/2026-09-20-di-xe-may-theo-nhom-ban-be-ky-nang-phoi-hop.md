@@ -45,7 +45,7 @@ Trong phố đông giờ cao điểm, thậm chí có lúc mỗi người tự �
 
 ## Chuẩn bị chung trước chuyến đi
 
-Trước khi cả nhóm xuất phát, một vòng kiểm tra nhanh từng xe: xăng, đèn, xi nhan, áp lốp, và đồ bảo hộ của từng người. Nhóm chỉ an toàn khi chiếc xe yếu nhất cũng ổn. Xác nhận ai giữ bản đồ, ai giữ số điện thoại cửa hàng cho thuê xe, và ai mang theo bộ đồ nghề nhỏ. Những điều này mất mười phút nhưng định hình cả ngày. Nếu nhóm có người mới lái xe máy ở Hà Nội, nên đọc qua [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) cùng nhau trước chuyến đi, và với các chuyến chơi cuối tuần có thể tham khảo thêm [gợi ý khám phá Hà Nội bằng xe máy]( {% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}) để chọn tuyến phù hợp với trình độ của cả nhóm.
+Trước khi cả nhóm xuất phát, một vòng kiểm tra nhanh từng xe: xăng, đèn, xi nhan, áp lốp, và đồ bảo hộ của từng người. Nhóm chỉ an toàn khi chiếc xe yếu nhất cũng ổn. Xác nhận ai giữ bản đồ, ai giữ số điện thoại cửa hàng cho thuê xe, và ai mang theo bộ đồ nghề nhỏ. Những điều này mất mười phút nhưng định hình cả ngày. Nếu nhóm có người mới lái xe máy ở Hà Nội, nên đọc qua [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) cùng nhau trước chuyến đi, và với các chuyến chơi cuối tuần có thể tham khảo thêm [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) để chọn tuyến phù hợp với trình độ của cả nhóm.
 
 ## Tốc độ, đường và thời tiết thay đổi tính toán của đoàn
 

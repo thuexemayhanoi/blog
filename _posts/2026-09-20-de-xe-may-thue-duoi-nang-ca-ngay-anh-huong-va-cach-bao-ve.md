@@ -39,7 +39,7 @@ Với một số xe, việc đỗ nắng cả ngày còn kéo theo hiện tượ
 
 ## Chiều về: ba phút chăm xe sau ngày nắng
 
-Ba phút chiều về đáng dành cho: đổ chút nước lên yên và tay lái hoặc phủ khăn ướt để hạ nhiệt nhanh thay vì ngồi lên chịu; lau các vết bụi bám dầu vì nắng nung làm chúng khô cứng nhanh; kiểm tra áp suất lốp bằng cảm giác ấn, vì nhiệt làm áp suất tăng và lốp căng quá dễ gặp khi phanh gấp; và mở cốp hé cho thoáng nhiệt trước khi để đồ vào. Về lâu dài, rửa xe định kỳ bằng nước sạch là biện pháp bảo vệ sơn đơn giản nhất: lớp bụi cộng nắng là cặp đôi mài mòn sơn nhanh nhất. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc xe máy thuê theo mùa, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) cho các lưu ý nền tảng khi dùng xe dài hạn.
+Ba phút chiều về đáng dành cho: đổ chút nước lên yên và tay lái hoặc phủ khăn ướt để hạ nhiệt nhanh thay vì ngồi lên chịu; lau các vết bụi bám dầu vì nắng nung làm chúng khô cứng nhanh; kiểm tra áp suất lốp bằng cảm giác ấn, vì nhiệt làm áp suất tăng và lốp căng quá dễ gặp khi phanh gấp; và mở cốp hé cho thoáng nhiệt trước khi để đồ vào. Về lâu dài, rửa xe định kỳ bằng nước sạch là biện pháp bảo vệ sơn đơn giản nhất: lớp bụi cộng nắng là cặp đôi mài mòn sơn nhanh nhất. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc xe máy thuê theo mùa, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) cho các lưu ý nền tảng khi dùng xe dài hạn.
 
 ## Khi buôn bán bằng xe máy: nắng và hàng hóa
 

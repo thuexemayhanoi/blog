@@ -41,7 +41,7 @@ Quyết định khó nhất của buổi sáng sương mù không phải là đi
 
 ## Chuẩn bị tối thiểu trước buổi sáng sương mù
 
-Người biết trước sáng mai sẽ có sương thường chuẩn bị từ tối: để mũ ở nơi khô, lau kính mũ sạch, vì kính bẩn làm sương mù như đậm thêm một lớp. Kiểm tra đèn xe buổi nhận xe thuê trong ngày đầu, đừng đợi tới sáng sương mới phát hiện đèn gần một bên đã cháy. Quần áo sáng màu cũng giúp người khác thấy bạn sớm hơn trong tầm nhìn thấp. Nếu bạn phải đi sớm thường xuyên trong mùa, hãy nói với cửa hàng thuê xe để chọn chiếc xe có đèn sáng đều, một yêu cầu nhỏ nhưng ảnh hưởng lớn đến an toàn cả mùa đông. Bạn có thể xem thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về các tình huống thời tiết khác khi đi xe máy, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) nếu bạn mới thuê xe lần đầu và đang lựa chọn loại xe phù hợp cho mùa đông.
+Người biết trước sáng mai sẽ có sương thường chuẩn bị từ tối: để mũ ở nơi khô, lau kính mũ sạch, vì kính bẩn làm sương mù như đậm thêm một lớp. Kiểm tra đèn xe buổi nhận xe thuê trong ngày đầu, đừng đợi tới sáng sương mới phát hiện đèn gần một bên đã cháy. Quần áo sáng màu cũng giúp người khác thấy bạn sớm hơn trong tầm nhìn thấp. Nếu bạn phải đi sớm thường xuyên trong mùa, hãy nói với cửa hàng thuê xe để chọn chiếc xe có đèn sáng đều, một yêu cầu nhỏ nhưng ảnh hưởng lớn đến an toàn cả mùa đông. Bạn có thể xem thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về các tình huống thời tiết khác khi đi xe máy, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) nếu bạn mới thuê xe lần đầu và đang lựa chọn loại xe phù hợp cho mùa đông.
 
 ## Đi cùng dòng xe trong sương mù
 

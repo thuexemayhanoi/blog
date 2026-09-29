@@ -50,6 +50,6 @@ Một chi tiết hay bị quên khi đổi nơi trả: nếu bạn trả xe vào
 
 Khả năng này tồn tại và cần được lường trước: khoảng cách quá xa so với khu vực cửa hàng phục vụ, lịch ngày đó đã kín, hoặc thỏa thuận ban đầu có điều khoản cố định nơi trả. Lúc đó các phương án trung gian đáng cân nhắc: trả xe tại nhà của người thân nằm gần hơn, trả tại nơi làm việc, hoặc chính bạn chở xe về điểm gần nhất hai bên cùng thuận. Cửa hàng chủ yếu phục vụ trong nội thành Hà Nội và các khu vực lân cận, nên yêu cầu đổi về tận một địa chỉ ngoại ô xa có thể đơn giản là không khả thi, và biết điều này sớm giúp bạn chọn phương án thực tế thay vì níu một phương án không có.
 
-Để biết rõ hơn các điều kiện giao nhận theo khu vực trước khi cả kỳ thuê bắt đầu, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), xem [bảng giá]( {{ '/bang-gia/' | relative_url }}) khi cân nhắc gói thuê, và hỏi trực tiếp mọi câu về đổi nơi trả qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
+Để biết rõ hơn các điều kiện giao nhận theo khu vực trước khi cả kỳ thuê bắt đầu, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), xem [bảng giá]( {{ '/bang-gia/' | relative_url }}) khi cân nhắc gói thuê, và hỏi trực tiếp mọi câu về đổi nơi trả qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
 
 Đổi nơi trả xe không phải là nhờ vả lớn, nó chỉ cần được thực hiện như một thỏa thuận nhỏ: nói sớm, ghi rõ, và để cả hai bên biết chính xác mình sẽ đứng ở đâu vào giờ cuối cùng của kỳ thuê.

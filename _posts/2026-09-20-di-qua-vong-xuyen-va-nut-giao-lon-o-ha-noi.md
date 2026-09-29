@@ -49,4 +49,4 @@ Sau cùng, một lời về tâm lý: các vòng xuyến lớn lần đầu luô
 
 ## Tóm lại
 
-Qua vòng xuyến: nhường xe trong vòng khi vào, chọn làn theo hướng ra sớm, xi nhan khi ra, và chấp nhận chạy thêm một vòng nếu lỡ làn. Qua nút giao không đèn: đi theo dòng, giữ tốc độ dòng, không dừng giữa nút, và quan sát từ vỉa hè trước lần đầu. Luyện theo độ khó tăng dần tại một vòng quen. Hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước chuyến đi đầu tiên, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần trao đổi trước khi đặt xe.
+Qua vòng xuyến: nhường xe trong vòng khi vào, chọn làn theo hướng ra sớm, xi nhan khi ra, và chấp nhận chạy thêm một vòng nếu lỡ làn. Qua nút giao không đèn: đi theo dòng, giữ tốc độ dòng, không dừng giữa nút, và quan sát từ vỉa hè trước lần đầu. Luyện theo độ khó tăng dần tại một vòng quen. Hãy đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) trước chuyến đi đầu tiên, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần trao đổi trước khi đặt xe.

@@ -53,7 +53,7 @@ Lưu ý nhỏ với người đổi xe: hồ sơ bàn giao của bạn phải l�
 
 ## Ghi nhớ cuối cùng về thay đổi giữa kỳ
 
-Mọi thay đổi thời gian thuê đều là những cuộc đàm phán nhỏ, và những cuộc đàm phán nhỏ luôn suôn sẻ khi hai bên có thông tin sớm và rõ ràng. Để tự chuẩn bị, tham khảo [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) với các mức giá tham khảo theo ngày, tuần và tháng của từng dòng xe, và bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) cho khung cảnh chung. Khi cần trao đổi thay đổi cụ thể cho kỳ thuê của mình, trang [liên hệ]( {{ '/lien-he/' | relative_url }}) là kênh trực tiếp nhất.
+Mọi thay đổi thời gian thuê đều là những cuộc đàm phán nhỏ, và những cuộc đàm phán nhỏ luôn suôn sẻ khi hai bên có thông tin sớm và rõ ràng. Để tự chuẩn bị, tham khảo [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) với các mức giá tham khảo theo ngày, tuần và tháng của từng dòng xe, và bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) cho khung cảnh chung. Khi cần trao đổi thay đổi cụ thể cho kỳ thuê của mình, trang [liên hệ]( {{ '/lien-he/' | relative_url }}) là kênh trực tiếp nhất.
 
 Kỳ thuê linh hoạt theo cuộc sống là quyền lợi thật của việc thuê thay vì mua. Làm chủ cách thay đổi đúng quy trình, bạn giữ trọn sự linh hoạt đó mà không đánh đổi thiện chí của cửa hàng, thứ sẽ còn theo bạn qua nhiều kỳ thuê sau nữa.
 ## Ba tình huống thường gặp và cách nghĩ về chúng

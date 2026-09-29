@@ -41,7 +41,7 @@ Các đoạn thi công đang đào nền hoặc trải đá dăm sinh ra rất n
 
 ## Lựa chọn tuyến thay thế khi thi công dài ngày
 
-Trước các chuyến đi quan trọng như đi làm sáng sớm hay đi họp, hãy dành một phút kiểm tra xem tuyến quen thuộc có đang thi công đoạn nào không. Người quen đường ở Hà Nội thường có sẵn hai phương án đi cho mỗi chặng chính. Nếu đoạn thi công quá dài, quá hẹp hoặc phải đi qua nền đất, việc đi vòng thêm một cây số đường lớn thường nhanh hơn và an toàn hơn so với chen qua khu thi công, nhất là vào giờ cao điểm khi mọi người cùng dồn vào khe đường còn lại. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về cách chọn tuyến theo tình huống, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm các lưu ý ban đầu khi bắt đầu dùng xe thuê.
+Trước các chuyến đi quan trọng như đi làm sáng sớm hay đi họp, hãy dành một phút kiểm tra xem tuyến quen thuộc có đang thi công đoạn nào không. Người quen đường ở Hà Nội thường có sẵn hai phương án đi cho mỗi chặng chính. Nếu đoạn thi công quá dài, quá hẹp hoặc phải đi qua nền đất, việc đi vòng thêm một cây số đường lớn thường nhanh hơn và an toàn hơn so với chen qua khu thi công, nhất là vào giờ cao điểm khi mọi người cùng dồn vào khe đường còn lại. Bạn có thể tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về cách chọn tuyến theo tình huống, hoặc đọc [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm các lưu ý ban đầu khi bắt đầu dùng xe thuê.
 
 ## Qua khu thi công ban đêm
 
