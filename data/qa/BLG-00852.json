@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00852",
   "title": "Uống nước và nghỉ đúng nhịp khi chạy xe đường dài",
-  "scored_at": "2026-09-29T03:17:58+00:00",
+  "scored_at": "2026-09-29T03:19:54+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -28,10 +28,10 @@
     "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true,
-    "legal_source": false,
-    "legal_disclaimer": false
+    "legal_source": true,
+    "legal_disclaimer": true
   },
-  "word_count": 1052,
+  "word_count": 1114,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -40,10 +40,10 @@
   "quality": 100,
   "seo": 90,
   "business_fact": "PASS",
-  "legal": "FAIL",
+  "legal": "PASS",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-uong-nuoc-va-nghi-ung-nhip-khi-chay-xe-uong-dai.md",
-  "content_sha256": "c7fcbd076f08d5e712223cf10dd9a810bcb7fa9ff00a4d502460038f115b6ec4",
+  "content_sha256": "620c47889574ed44b5da6137de1a81a0e23b776544257dba603d885545dc8f0f",
   "matrix_row_sha256": "336ba1f228136a1b5072087f4920f3895dcd8e790b2fa4640e0a72fa466a5f5d",
-  "result": "REPAIR"
+  "result": "PASS"
 }
