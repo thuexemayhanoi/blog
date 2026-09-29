@@ -1,6 +1,0 @@
-{
-  "op": "prepare-next",
-  "count": 10,
-  "command_id": "campaign10k-chunk23-prepare",
-  "coordinator": "external-ai-writer"
-}
