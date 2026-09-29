@@ -41,7 +41,7 @@ Vào cua, người sau nhìn cùng hướng với người lái, nghiêng ngư�
 
 ## Đi đôi vào ban đêm và trời mưa
 
-Ban đêm, tầm nhìn thu hẹp, người sau không dùng điện thoại khi ngồi trên xe, vì ánh sáng màn hình làm mắt người lái chói và phân tâm. Cách giữ tầm nhìn khi đi xe máy ban đêm đã được bàn riêng trong bài [Đèn xe và tầm nhìn khi đi xe máy ban đêm](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/), bạn nên đọc trước khi đi đôi trong giờ tối.
+Ban đêm, tầm nhìn thu hẹp, người sau không dùng điện thoại khi ngồi trên xe, vì ánh sáng màn hình làm mắt người lái chói và phân tâm. Các nguyên tắc an toàn khi chạy xe đường trường vào ban đêm đã được bàn riêng trong bài [An toàn khi chạy xe đường trường](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/), bạn nên đọc trước khi đi đôi trong giờ tối.
 
 Trời mưa, mặt đường trơn, quãng phanh dài hơn, hai người nên ngồi khép hơn bình thường để trọng tâm gọn. Áo mưa của người sau không để phần vạt bay vào người lái. Không chở người sau khi còn chưa chắc tay mưa, và nếu bắt buộc phải đi, giảm tốc và tránh các mảng nước đọng trên đường.
 
