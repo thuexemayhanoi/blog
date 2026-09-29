@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao.md",
+  "source_path": "_posts/2026-09-29-i-san-bay-noi-bai-nen-thue-xe-may-tu-au-va-luc-nao.md",
   "content_sha256": "28869403d0948df3902c64621aee6fddab385605ded924b454fbd2bcdfec09a5",
-  "matrix_row_sha256": "f1be3ff97de62a0027f5abd202d6faab6671bb0b3f4542b74a2407ba5005f9e0",
-  "result": "PASS"
+  "matrix_row_sha256": "6e150dea827bf4d416fc4734d42a11e44586f4d58f35b4f6860534b036a72d09",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:26+00:00"
 }

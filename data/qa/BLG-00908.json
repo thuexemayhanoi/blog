@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-gan-ben-xe-giap-bat-cho-chuyen-ve-tinh.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-gan-ben-xe-giap-bat-cho-chuyen-ve-tinh.md",
   "content_sha256": "e0af0fe92fefb5e512510b0572da60d9ee58db943c96bb0ff3923ac2ae629a92",
-  "matrix_row_sha256": "1cdb48f7d6a39cc5c2332d9303331628b955737bf42da526b5b70e748ac40d9f",
-  "result": "PASS"
+  "matrix_row_sha256": "95d219eb03d35a8fb230697bf382d33da876795382ccd2dd40b127b5f48036c2",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:26+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-o-khu-pho-co-giu-xe-va-uong-cam-can-biet.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-o-khu-pho-co-giu-xe-va-uong-cam-can-biet.md",
   "content_sha256": "124a6482132eb8745f53930184c8baa45c9d5de588b151d1b6b13a89052ce884",
-  "matrix_row_sha256": "10eb88f91de651d0dac69745633ec0e912198e8ae77e57b4ba9e7a3fc084b8a5",
-  "result": "PASS"
+  "matrix_row_sha256": "e362c98ce022fefeb9b9a1a6026fa60d5302ea753dc7171c58505d2c04ace576",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:26+00:00"
 }

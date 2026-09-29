@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au.md",
   "content_sha256": "189dd3edc03790a7de1078bb4e4e06d442cf7f6476a7e19f3489dd4834b41045",
-  "matrix_row_sha256": "d9d864b2d0c45bf0ca5d68edfa01ea2c2ccf6b6573124253c1445caec3ee8ce7",
-  "result": "PASS"
+  "matrix_row_sha256": "a67201dbd0af32a8b9beb8ce5724f9ff4e2ae04c67f3d6339ad8ae0cc2a8309e",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:24+00:00"
 }

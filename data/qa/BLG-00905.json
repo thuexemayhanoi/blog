@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-gan-ga-ha-noi-lay-xe-som-nhat-luc-nao.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-gan-ga-ha-noi-lay-xe-som-nhat-luc-nao.md",
   "content_sha256": "3d71478d1a2677f95904ca6f9d05698ea28d975751bedd605e9ded13d94ac50e",
-  "matrix_row_sha256": "a8100e5206c716f27029c1ee4e92f9b4f4c0bdf083b7c5b8308e6d8ab4ada5d7",
-  "result": "PASS"
+  "matrix_row_sha256": "32014a1cc5eb71457218555ea6cdba15623114d16b54d63fa49d26edb0cb67f1",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:26+00:00"
 }

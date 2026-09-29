@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-can-xe-gap-trong-ngay-thue-xe-may-ngay-co-kho-khong.md",
+  "source_path": "_posts/2026-09-29-can-xe-gap-trong-ngay-thue-xe-may-ngay-co-kho-khong.md",
   "content_sha256": "e2b7813e0678c8bfd74797ba4ac3c553cefeede48402d6be6ad71355384ba58d",
-  "matrix_row_sha256": "284f4338145b1f5388eb96dc317ec7ada16e2c555b87aaf0d9a936ec42e66267",
-  "result": "PASS"
+  "matrix_row_sha256": "aac14fafed592466334b4b4a0b0de876cea29af58067c09e21708c9af401de36",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:25+00:00"
 }

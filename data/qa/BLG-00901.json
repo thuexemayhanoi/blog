@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nguoi-cao-tuoi-i-xe-may-thue-nen-chon-xe-nhu-the-nao.md",
+  "source_path": "_posts/2026-09-29-nguoi-cao-tuoi-i-xe-may-thue-nen-chon-xe-nhu-the-nao.md",
   "content_sha256": "506b552f043df2715703bc0225e5e3e1d49e0234c58b79420866c44efeb62e37",
-  "matrix_row_sha256": "1c09aaa4e595ab5bb56899572b1582e2ccb4b1371a6a3211bb91dbf3b2f0ad6b",
-  "result": "PASS"
+  "matrix_row_sha256": "545226c921a196f965a4f20e4ce0946dd4c185caceb2c85053b4d8ff378181dd",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:25+00:00"
 }

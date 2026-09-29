@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-gan-ben-xe-my-inh-nhung-ieu-can-biet.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-gan-ben-xe-my-inh-nhung-ieu-can-biet.md",
   "content_sha256": "dc8cfb4327d491243c846115aea475bb7fae93f3cd1b883f54b0576c71bd03ca",
-  "matrix_row_sha256": "eefb556cb4c4fcbb2d100ced4306f09e42122161af7011bc9e76381f68db7a23",
-  "result": "PASS"
+  "matrix_row_sha256": "1d70ae6020c27e10e96ae4afa24900d744a600fa026423ca970c113cec1d4d00",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:26+00:00"
 }

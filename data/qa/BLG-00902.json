@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nguoi-tu-tinh-ra-ha-noi-cong-tac.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-cho-nguoi-tu-tinh-ra-ha-noi-cong-tac.md",
   "content_sha256": "5c968f7ec0f972c5f104c8f36306bf628a3c48ae47cf40a817fe2b544a8840bf",
-  "matrix_row_sha256": "31031bee88fa1564dd29861069cc9608daa3f35971c158b0de4da57c423c3fda",
-  "result": "PASS"
+  "matrix_row_sha256": "9f4cbecb04ea82e1fa4480c53b2e9da6730d24b6b15c149bb85e05e8b92d6398",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:25+00:00"
 }

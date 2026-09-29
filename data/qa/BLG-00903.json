@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nhom-ban-i-phyt-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-cho-nhom-ban-i-phyt-cuoi-tuan.md",
   "content_sha256": "05f28c8302e2d7f317f3a29b23f8a0b51da2c8dce0580b0a1e601f0727d9a3b2",
-  "matrix_row_sha256": "d9512bcd51f50bf92b57a1e0e1e17b1da54c31176b99dc890cfda6218a5742fa",
-  "result": "PASS"
+  "matrix_row_sha256": "b1d18d410e1f22fbaf077d412acc07d663dce51f309cabbf99a51b7147910fd6",
+  "result": "PASS",
+  "published_at": "2026-09-29T17:07:25+00:00"
 }
