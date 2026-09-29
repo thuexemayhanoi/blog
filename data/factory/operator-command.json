@@ -1,0 +1,7 @@
+{
+  "op": "prepare-next",
+  "count": 10,
+  "scope": "fast",
+  "command_id": "campaign10k-chunk24-prepare",
+  "coordinator": "vibe-writer"
+}
