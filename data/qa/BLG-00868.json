@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-at-xe-truoc-bao-lau-thi-nen.md",
+  "source_path": "_posts/2026-09-29-at-xe-truoc-bao-lau-thi-nen.md",
   "content_sha256": "bc92dd52f9e3731a56688c5d2b17527627aec2836310b4153b47267e5718238b",
-  "matrix_row_sha256": "e404d2b6af95de883d8c6111f630cf3d71e205233ea5c43e7ae5095af8e3f219",
-  "result": "PASS"
+  "matrix_row_sha256": "30dca2644ae941c6a8a649faf49533d8d0669b20b81572964825f00ab612dde2",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:46:09+00:00"
 }

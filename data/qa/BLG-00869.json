@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-can-bao-nhieu-tuoi.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-can-bao-nhieu-tuoi.md",
   "content_sha256": "bc6d932ec48623d37695c2a8485708202af2e92bd80b7279806dce895f74b8cf",
-  "matrix_row_sha256": "f5d7cb63e59cadba9040973625a69bd3d49dbf81c2df58695342ad45e8826a0c",
-  "result": "PASS"
+  "matrix_row_sha256": "7d4b730784cb451546b4aefd7d162f3db9da6c9408b9dd10c895132af8b901ae",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:46:10+00:00"
 }

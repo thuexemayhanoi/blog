@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-bao-nhieu-tuoi-moi-uoc-thue-xe-may.md",
+  "source_path": "_posts/2026-09-29-bao-nhieu-tuoi-moi-uoc-thue-xe-may.md",
   "content_sha256": "4741a656d0ccb4af074d2d8734675753493db56ca4e1dfc5ba9ea0aa59461184",
-  "matrix_row_sha256": "83939a5f3b6a7e6241473b165ced7cad06f7538a366e2ad473bc09357eede33e",
-  "result": "PASS"
+  "matrix_row_sha256": "381337b4e415fbe44a4aa7888b9d5e7ee0d67cb3c5fc4a10bd6f6b6b87819d09",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:46:09+00:00"
 }

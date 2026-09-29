@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chi-co-cccd-photo-co-thue-uoc-xe-khong.md",
+  "source_path": "_posts/2026-09-29-chi-co-cccd-photo-co-thue-uoc-xe-khong.md",
   "content_sha256": "52388751a571ef968dbc123ac2268993725f2113bc9e36eb6f95180bd0960279",
-  "matrix_row_sha256": "354ddec6694da88b393a38f54881048776312f44c558fa41c74af31070ad375f",
-  "result": "PASS"
+  "matrix_row_sha256": "a63612cc7f36ae667f5c772aca9f6544f44740fb977f88929c9fb2546e6e36c6",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:46:09+00:00"
 }
