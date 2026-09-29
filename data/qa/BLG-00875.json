@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xe-thue-khong-co-ang-ky-xe-co-bi-giu-khong.md",
+  "source_path": "_posts/2026-09-29-xe-thue-khong-co-ang-ky-xe-co-bi-giu-khong.md",
   "content_sha256": "435938fc6e45b619be3f15d3a829a992ea7727d044b2f8c8afa1767444be4149",
-  "matrix_row_sha256": "02c33555c81d3fe346ef7fb3bf6458de111e38a91087d9ccd9b2796fb05cda6e",
-  "result": "PASS"
+  "matrix_row_sha256": "9fb7f3277f28e5e45f8fec6d35989d13f09fc3cdb4d2f6863e5e836350b8d016",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:01:19+00:00"
 }

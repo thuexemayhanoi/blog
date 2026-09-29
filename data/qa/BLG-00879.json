@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nu-i-lam-hang-ngay-nen-thue-xe-gi.md",
+  "source_path": "_posts/2026-09-29-nu-i-lam-hang-ngay-nen-thue-xe-gi.md",
   "content_sha256": "94a787dea4c1c8ca9a4c6a23bdd0947a9c5d5570f9b884c51ef288192d03c7fd",
-  "matrix_row_sha256": "9bda7a8207f720bcab4183b57d5ab893ca789cee348f0a5b0255f5842a4af109",
-  "result": "PASS"
+  "matrix_row_sha256": "3419f1a98660c301cf33cb918e7daa78bcaa4f1f2091d1863529220fc5375d53",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:01:20+00:00"
 }

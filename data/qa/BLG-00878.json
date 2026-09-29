@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nguoi-moi-biet-lai-nen-thue-xe-nao.md",
+  "source_path": "_posts/2026-09-29-nguoi-moi-biet-lai-nen-thue-xe-nao.md",
   "content_sha256": "61604d2923b149bf08ef077bb10a0c6efa49bdc7a9642054d271415fcccf7c48",
-  "matrix_row_sha256": "d26ad7698c00464a6e29776882eb67f4ff4a8b5b9de3262ee21bf2142c6014cb",
-  "result": "PASS"
+  "matrix_row_sha256": "9b86b9a75cdf2d8af474b1a3cf76fcf5119617651286f64f10f460c934cfb3d5",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:01:19+00:00"
 }

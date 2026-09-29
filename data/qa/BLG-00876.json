@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-quen-bang-lai-khi-ang-i-xe-thue-lam-gi-ngay.md",
+  "source_path": "_posts/2026-09-29-quen-bang-lai-khi-ang-i-xe-thue-lam-gi-ngay.md",
   "content_sha256": "703972f69b35a0ef644dfbe4ce5b48c1d4a3e6e4f163a266a340004f73dee583",
-  "matrix_row_sha256": "9a21ce130f119b8bd04f63cef90b8edcee77141676f6031dcf728be5da6e5235",
-  "result": "PASS"
+  "matrix_row_sha256": "883f77956bf65de9ecfee201e683ecbbb28744bf30db67b3e58497065111e366",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:01:19+00:00"
 }

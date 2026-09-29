@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nam-2026-nen-thue-xe-so-hay-xe-ga.md",
+  "source_path": "_posts/2026-09-29-nam-2026-nen-thue-xe-so-hay-xe-ga.md",
   "content_sha256": "306010067a36e83bdee7eb2c6b26e90a7f8c16544b116e34b453fae779ae81f8",
-  "matrix_row_sha256": "9ed2ec70b87134cddca3680088b895dcc7eb5976fef1bd80c7eab6f1ca4dcc6a",
-  "result": "PASS"
+  "matrix_row_sha256": "dc5d66bd33b6d163c4444be4c0d14f3b4cd184fef0d7c9c930d296265b057d10",
+  "result": "PASS",
+  "published_at": "2026-09-29T05:01:19+00:00"
 }
