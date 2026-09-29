@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-ra-vao-lan-uong-ung-cach.md",
+  "source_path": "_posts/2026-09-29-ra-vao-lan-uong-ung-cach.md",
   "content_sha256": "0c7f4b25b5c1ec54ae66d5f32d54db55ec3036fc83827fba969ed62c0b2b8c4e",
-  "matrix_row_sha256": "18898df4da2fbb7c43f6d3b51a2e47832b178878b2df7169d926de07a5d1edf4",
-  "result": "PASS"
+  "matrix_row_sha256": "3d19dca40afd58d3075184b4ee186414b3020fc5cf952d5b09c134b872308fef",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:01:22+00:00"
 }

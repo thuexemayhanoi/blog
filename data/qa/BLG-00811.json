@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-phanh-truoc-phanh-sau-dung-the-nao.md",
+  "source_path": "_posts/2026-09-29-phanh-truoc-phanh-sau-dung-the-nao.md",
   "content_sha256": "70a0dcd3a29e2b0623c3ec2bb1b7b2b63a14b9b56026fc4691accd0b3f1471d7",
-  "matrix_row_sha256": "c817c827f4a42bddb455a239442d722db11da5ec84c3fabd7bbd381d5299a5b1",
-  "result": "PASS"
+  "matrix_row_sha256": "281da54f98381a1e423a957cbcfa4f3fec7e42157b8830fb2356d160ec093dab",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:01:22+00:00"
 }

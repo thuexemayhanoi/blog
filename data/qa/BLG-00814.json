@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-quay-au-xe-may-trong-pho.md",
+  "source_path": "_posts/2026-09-29-quay-au-xe-may-trong-pho.md",
   "content_sha256": "d6681bf473797f6497d95265078801358f038452c168d8685961f43ca78f3bca",
-  "matrix_row_sha256": "381701734305a0f610b967048f847323a4c128e5d2b0c0e611c4700085ee8d31",
-  "result": "PASS"
+  "matrix_row_sha256": "0a01f0adb8466173fd95487b1a93a99d63832ef9aef419a19a5d8ed955dc5689",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:01:22+00:00"
 }

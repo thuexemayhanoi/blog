@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-lam-quen-xe-may-la-truoc-khi-len-uong.md",
+  "source_path": "_posts/2026-09-29-lam-quen-xe-may-la-truoc-khi-len-uong.md",
   "content_sha256": "6fde1bbaa804337615ce354f3a0440a9c4393f120b045939541b73b140ab5c2d",
-  "matrix_row_sha256": "7984a23f4e2723d6b314938286d60cabbc6668a0d928a170028c5e0add7e8e6c",
-  "result": "PASS"
+  "matrix_row_sha256": "9b1cae9a71283543bdde30e2ccaace367b4effb304dbfebe80baa7430f272532",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:01:22+00:00"
 }

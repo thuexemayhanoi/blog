@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-vao-ga-va-tra-ga-muot-cho-nguoi-moi.md",
+  "source_path": "_posts/2026-09-29-vao-ga-va-tra-ga-muot-cho-nguoi-moi.md",
   "content_sha256": "90ed4fd62e37515c344ddd2520f4e8aa51bb9840dd40f735e79fec10aae7d620",
-  "matrix_row_sha256": "30cea5083fe33b51d070f6446a51bae1f88987eafcc62f7e1c01089c201cb664",
-  "result": "PASS"
+  "matrix_row_sha256": "d95b730c3a626ff5ef02b788b3069476ebe64c966b81984af60a464285f886ed",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:01:22+00:00"
 }
