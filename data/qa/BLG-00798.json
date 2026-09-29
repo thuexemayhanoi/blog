@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-con-son-kiep-bac-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-con-son-kiep-bac-xang-va-nghi.md",
   "content_sha256": "bdd40d0a8e2976e3a8d1355df7951d9b065723340239cc06e6ee0d4d2dc2e3ba",
-  "matrix_row_sha256": "92a3818f96d6d12f25275ed3fb21e1d1bfd5eeed87f28f079d6b7a49d7558aa8",
-  "result": "PASS"
+  "matrix_row_sha256": "e9dfb00332531740123ab20a93b9c261c9510342c25c8e23afc41e82185851ff",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:12:15+00:00"
 }

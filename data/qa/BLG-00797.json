@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-con-son-kiep-bac.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-tu-ha-noi-len-con-son-kiep-bac.md",
   "content_sha256": "559ec698b14de5d2c3a260c8b897db67bdf065a1b8fa7f1eba32e373243886b8",
-  "matrix_row_sha256": "ddd92aaf3db13944fed0907af3f9c9163c40893923c194db83e6c3aa80c11c4a",
-  "result": "PASS"
+  "matrix_row_sha256": "d3e2201a99aa29bbded241993f4375aeca47a308afa8c7fcf7f46f54281bcdd3",
+  "result": "PASS",
+  "published_at": "2026-09-29T01:12:15+00:00"
 }
