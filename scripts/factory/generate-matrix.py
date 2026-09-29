@@ -318,22 +318,58 @@ def main():
               'audience', 'location_scope', 'commercial_intent',
               'cannibalization_key', 'word_target', 'batch_id', 'repair_count',
               'published_date', 'published_commit_sha', 'notes']
-    # ---- kế hoạch lô (batch plan): nhóm 50 hàng PLANNED theo thứ tự id, B001...
+    # ---- kế hoạch lô (batch plan): nhóm 50 hàng PLANNED, B001...
     # hàng đã có batch_id runtime (WRITING/QA/PASS/PUBLISHED...) giữ nguyên.
-    planned_seq = [r for r in rows if r['status'] == 'PLANNED']
-    # hàng mới (chưa có batch_id) được đánh lô TIẾP THEO sau lô lớn nhất đã
-    # tồn tại — không tái sử dụng số lô của hàng runtime giữ nguyên.
+    # Bất biến bắt buộc (validate.py, mọi scope): batch_id KHÔNG GIẢM theo
+    # thứ tự hàng trong file. Hàng PLANNED chưa có batch_id (sinh trước
+    # schema v2, hoặc được trả về PLANNED sau pause an toàn/borrow trong
+    # kiểm thử hermetic) có thể nằm GIỮA các hàng đã có lô — đánh "lô tiếp
+    # sau lô lớn nhất" sẽ phá bất biến ngay khi tái sinh. Quy tắc:
+    #   - hàng nằm TRƯỚC hàng đã có lô: nhận lô của đoạn hàng đã có lô
+    #     ngay sau nó (lô tự nhiên theo vị trí hàng, không bịa lô mới);
+    #     không tồn tại lô trong dải [lô lớn nhất trước nó, lô nhỏ nhất
+    #     sau nó] -> lỗi dữ liệu, exit 1 (không im lặng vá lô).
+    #   - hàng nối CUỐI file (refill/mở rộng seed): đánh lô tiếp sau lô
+    #     lớn nhất đã tồn tại, nhóm 50 hàng — hành vi cũ, không tái sử
+    #     dụng số lô của hàng runtime giữ nguyên.
     have = set()
     for r in rows:
         bm = re.match(r'^B(\d+)$', r['batch_id'] or '')
         if bm:
             have.add(int(bm.group(1)))
     base = max(have) if have else 0
+    batch_num = []
+    for r in rows:
+        bm = re.match(r'^B(\d+)$', r['batch_id'] or '')
+        batch_num.append(int(bm.group(1)) if bm else None)
+    suffix_min = [None] * (len(rows) + 1)
+    for i in range(len(rows) - 1, -1, -1):
+        b = batch_num[i]
+        nxt = suffix_min[i + 1]
+        suffix_min[i] = b if (b is not None and (nxt is None or b < nxt)) else nxt
+    prefix_max = [0] * (len(rows) + 1)
+    for i, b in enumerate(batch_num):
+        prefix_max[i + 1] = max(prefix_max[i], b if b is not None else 0)
     n_new = 0
-    for r in planned_seq:
-        if not r['batch_id']:
+    plan_errors = []
+    for i, r in enumerate(rows):
+        if r['status'] != 'PLANNED' or r['batch_id']:
+            continue
+        nxt = suffix_min[i + 1]
+        if nxt is not None:
+            if prefix_max[i] > nxt:
+                plan_errors.append('không có lô hợp lệ cho %s: lô trước %03d > lô sau %03d'
+                                   % (r['id'], prefix_max[i], nxt))
+                continue
+            r['batch_id'] = 'B%03d' % nxt
+        else:
             r['batch_id'] = 'B%03d' % (base + n_new // 50 + 1)
             n_new += 1
+    if plan_errors:
+        print('LỖI KẾ HOẠCH LÔ (batch plan):')
+        for e in plan_errors[:20]:
+            print(' -', e)
+        sys.exit(1)
 
     with open(OUT_PATH, 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
