@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong.md",
+  "source_path": "_posts/2026-09-29-chua-quen-xe-ga-lam-quen-trong-30-phut-truoc-khi-len-uong.md",
   "content_sha256": "fa9a2da1aa2a37681051726c5e8ca4fd385c43de68326fde4bd7aa9482e512c1",
-  "matrix_row_sha256": "515182bb7ad2474dd651400664a0753f6cb0e4b4a84a51df8736807655b4c909",
-  "result": "PASS"
+  "matrix_row_sha256": "4e953bb61b906057977ad50f73b0c8b69e4f8d2ba9d289c188f166d4a642331b",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

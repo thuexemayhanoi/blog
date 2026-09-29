@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-xe-may-ha-noi-ang-so-that-khong.md",
+  "source_path": "_posts/2026-09-29-i-xe-may-ha-noi-ang-so-that-khong.md",
   "content_sha256": "901d6ad6c1fd9c03a192a8616c1c22a658f65421fb6e9c4ed90b197809832900",
-  "matrix_row_sha256": "41ea803d14b94ac9a9b2d076670c5595a9ad76936444d04d64483d6fd04d7245",
-  "result": "PASS"
+  "matrix_row_sha256": "2da829704abea079fa226a4ffcc7a516b88c5265b8496d111fed81007670a889",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

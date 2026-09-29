@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-ba-lo-va-o-ac-lan-au-thue-xe-nen-mang-gi.md",
+  "source_path": "_posts/2026-09-29-ba-lo-va-o-ac-lan-au-thue-xe-nen-mang-gi.md",
   "content_sha256": "dead9c7835b12ace92ef97f56a5f9d79b907e763c3a76fbfc50840b8c75f824c",
-  "matrix_row_sha256": "2859c928ffb5252645df992b875f6be11035f5528864efd4e82068a338e993de",
-  "result": "PASS"
+  "matrix_row_sha256": "60cf24f847cedc4ff7c33348983bff266035c9766b81bc9dbf2d860db7e2d6c9",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chua-tung-i-xe-may-co-nen-thue-ngay-au-o-ha-noi.md",
+  "source_path": "_posts/2026-09-29-chua-tung-i-xe-may-co-nen-thue-ngay-au-o-ha-noi.md",
   "content_sha256": "7093b903625812280edd30b02a9a94202820280182bb3c579dcf465076db22fa",
-  "matrix_row_sha256": "94e6a5b77d68eb0268b83ba2cec3be20a30cefbcc0934bea99b8ed6cc388c756",
-  "result": "PASS"
+  "matrix_row_sha256": "9441e7d7f511fa88165388d82db8db1f3c8333946a723c49cb739d0c1ba09f70",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

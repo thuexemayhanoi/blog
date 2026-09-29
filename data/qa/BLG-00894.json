@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-tai-xe-moi-voi-bien-bao-kho-hieu.md",
+  "source_path": "_posts/2026-09-29-tai-xe-moi-voi-bien-bao-kho-hieu.md",
   "content_sha256": "6f8eb60ff20f7c43816c48fe2cc2907ffa53c12b8ba42fc55d8ae42291635453",
-  "matrix_row_sha256": "6f3d9efbf3e111ea4ccdfb150d62653fcf8289d390a25f262bd4fd06fdae12c5",
-  "result": "PASS"
+  "matrix_row_sha256": "71eb05457d28477cc0a1dfaeb213957f921dddb47c6193aed64e812697dbc73e",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

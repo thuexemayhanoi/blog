@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-mot-minh-nu-thue-xe-may-an-toan-khong.md",
+  "source_path": "_posts/2026-09-29-mot-minh-nu-thue-xe-may-an-toan-khong.md",
   "content_sha256": "406e70a4a065863120e7d37c2126596deb736d2f2f55366648751af25a54195d",
-  "matrix_row_sha256": "f6dc81fdeb42f3496678f4cd7e3457d1a6a35f2698fc2615cab27db138b387e4",
-  "result": "PASS"
+  "matrix_row_sha256": "f728781220e777a6453023adfcc4db163d8c35d903b9aceaddd7541036d695bb",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

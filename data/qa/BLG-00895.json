@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-lan-au-thue-xe-may-nhung-loi-nguoi-moi-hay-mac.md",
+  "source_path": "_posts/2026-09-29-lan-au-thue-xe-may-nhung-loi-nguoi-moi-hay-mac.md",
   "content_sha256": "9b1a6191ef449d0b2d0cea666082f4705bc11853ed3e3c9a6d0c8c7ccbd190a3",
-  "matrix_row_sha256": "6dcb763c5f112c3115430f5e88c0eb49c948739a091a1caab1efa776efa7e19f",
-  "result": "PASS"
+  "matrix_row_sha256": "33952ac315c76bc41219e47ef42374e70439e77f70fc409784e6072df20c4dea",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

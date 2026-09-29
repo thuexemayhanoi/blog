@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-cho-gia-inh-co-tre-nho-i-cung.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-cho-gia-inh-co-tre-nho-i-cung.md",
   "content_sha256": "489244efc0ea6e66e4ac82d385660041684b5dcd4a9ce4e6a7756208e5a7fc7d",
-  "matrix_row_sha256": "ca1818294a5d800cf1f84a1b0eb449769317fe32604fa209aceb53c82300b6e5",
-  "result": "PASS"
+  "matrix_row_sha256": "e35fef71fc19c2c47ab9cb2a7175ec0d7dc6531647e84d3f034d84ff5c2931b7",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

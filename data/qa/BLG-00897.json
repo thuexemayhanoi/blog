@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-dai-han-cho-nguoi-i-lam-trong-noi-thanh.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-dai-han-cho-nguoi-i-lam-trong-noi-thanh.md",
   "content_sha256": "96570e05981bc6a7d009ac3123db72d628aecf583bdd51eb4ebec70ed1eb9946",
-  "matrix_row_sha256": "b031cab6450b562c0d455f6aee0e2a2dabf8abab3f40496740eaf97de3397d0d",
-  "result": "PASS"
+  "matrix_row_sha256": "802422aecf041d29eedba70094ac9791effef91505254cc19bb2b40819ac6f7b",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }

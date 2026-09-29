@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-cho-cap-oi-i-choi-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-cho-cap-oi-i-choi-cuoi-tuan.md",
   "content_sha256": "bb3d8235a334c02b108b4fa3c4807bc71cfc23aab57448943428d1d55abd8507",
-  "matrix_row_sha256": "1c04bcb5fb042c9f6dc470b377653d834d772a1021858afc3a4bb8d74094321b",
-  "result": "PASS"
+  "matrix_row_sha256": "69f0b9cbf49dddfca054da2a732a7697c59c25958cbcf1aa47e585afe7e82f07",
+  "result": "PASS",
+  "published_at": "2026-09-29T14:06:30+00:00"
 }
