@@ -1,7 +1,0 @@
-{
-  "op": "qa",
-  "ids": "BLG-00910,BLG-00911,BLG-00912,BLG-00913,BLG-00914,BLG-00915,BLG-00916,BLG-00917,BLG-00918,BLG-00919",
-  "scope": "fast",
-  "command_id": "campaign10k-chunk22-qa",
-  "coordinator": "external-ai-writer"
-}
