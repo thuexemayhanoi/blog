@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-buoc-o-sau-xe-may-ung-cach.md",
+  "source_path": "_posts/2026-09-29-buoc-o-sau-xe-may-ung-cach.md",
   "content_sha256": "140d63bcfdac55f7fd3c784d6d20145a7d2cf564d9b347b02491e37947cbeb3e",
-  "matrix_row_sha256": "de2a0ab03dd06599d2409d0b006f9c341a0ef8774bd4fcf23444574479b2455f",
-  "result": "PASS"
+  "matrix_row_sha256": "c9416436bd283d4c237d473d1ef966b6356a3836e4809402c1f4fdb11a1b5ee0",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:51:02+00:00"
 }

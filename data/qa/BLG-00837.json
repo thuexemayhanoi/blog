@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-nang-nong-mua-he-ha-noi-i-xe-may-can-chu-y-gi.md",
+  "source_path": "_posts/2026-09-29-nang-nong-mua-he-ha-noi-i-xe-may-can-chu-y-gi.md",
   "content_sha256": "29f123b59cd8817e1639b2533aaa6c62b83701a9499c34169c41bd3075172fbb",
-  "matrix_row_sha256": "4b6f51656524933a082e9ef30622a08340a8e96848aefc9549c829ee42ba0a4c",
-  "result": "PASS"
+  "matrix_row_sha256": "e8515dd39006f04c9c9b0526c46670b2503d11f01cb9983e2fd9660e0b2a5971",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:51:01+00:00"
 }

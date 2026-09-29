@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-gio-lon-va-con-giong-giua-uong.md",
+  "source_path": "_posts/2026-09-29-gio-lon-va-con-giong-giua-uong.md",
   "content_sha256": "ce415b53943066aa8303f560ee5220d9c0d3327ff646845b9bc15fa49bb20075",
-  "matrix_row_sha256": "64a1d4a59f986858ec7fb2df05d20c092733cecf0629d57a92f52c75518d1cc3",
-  "result": "PASS"
+  "matrix_row_sha256": "152d2035c5ae5e90c66e868832c8095425196326d931a5706d53171ebec8da1c",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:51:01+00:00"
 }

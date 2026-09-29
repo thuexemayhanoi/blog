@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue.md",
+  "source_path": "_posts/2026-09-29-mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue.md",
   "content_sha256": "f505762291eac3f9e0201c5ceb904787e47657fe39880c80c4555565169f00e7",
-  "matrix_row_sha256": "8274b591806fd4878b7fb2f7e9738997b68649dae14bbc94fd95785cad0e146e",
-  "result": "PASS"
+  "matrix_row_sha256": "f7ee378f63f1ebfc8bdc5aa153a45c37b7e20797f603c774930cda4f77b84a6c",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:51:01+00:00"
 }

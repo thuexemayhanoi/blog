@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-troi-lanh-i-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao.md",
+  "source_path": "_posts/2026-09-29-troi-lanh-i-xe-may-sang-som-o-ha-noi-chuan-bi-the-nao.md",
   "content_sha256": "dad3b7cb670216a0b0c9feb560869d569a3707e3a8d73414a1454cd2218d82eb",
-  "matrix_row_sha256": "5920e7dc9b7037e134906e052e710fdf5ce5fed3f2ddf73ec0ef3d90bf0774e9",
-  "result": "PASS"
+  "matrix_row_sha256": "08d24da3f6721acfe5fb33268a7a6bb43709fc6027a22a27e54870c64c63a11b",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:51:01+00:00"
 }
