@@ -48,4 +48,6 @@ Một chi tiết nhỏ nữa là nên ghi nhớ hoặc đánh dấu vị trí đ
 
 Tóm lại, nhịp nghỉ và nước là hai thứ rẻ nhất giúp bạn chạy xa an toàn: dừng mỗi một đến hai tiếng, đi bộ nhẹ vài phút, uống nước từng ngụm trước khi khát, và nghỉ thật lâu khi thấy buồn ngủ. Các vấn đề sức khỏe khác khi cầm lái đã được gom trong nhóm [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/), bạn có thể đọc trước chuyến đi dài.
 
+Thông tin sức khỏe trong bài chỉ mang tính tham khảo, không thay thế ý kiến của nhân viên y tế. Khuyến cáo về nghỉ ngơi và dinh dưỡng cho từng người có thể thay đổi theo thể trạng, bạn nên đối chiếu hướng dẫn chính thức tại cổng thông tin của Bộ Y tế ([moh.gov.vn](https://moh.gov.vn/)) trước các chuyến đi đặc biệt.
+
  Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/).

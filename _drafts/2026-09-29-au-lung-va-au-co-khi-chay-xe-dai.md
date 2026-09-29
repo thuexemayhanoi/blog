@@ -42,9 +42,11 @@ Thêm một thói quen nhỏ là thay đổi điểm tựa lưng trên yên mỗ
 
 ## Khi cơn đau kéo dài
 
-Nếu cơn đau xuất hiện giữa chuyến và không dứt sau khi nghỉ dãn cơ, nên cân nhắc dừng hẳn hoặc đổi người lái, thay vì chạy tiếp nhờ chịu đựng. Đau đi kèm tê lan xuống chân hoặc đau nhói từng cơn là dấu hiệu nên để cơ thể nghỉ thật sự, và nếu kéo dài nhiều ngày thì nên hỏi ý kiến nhân viên y tế trước khi tiếp tục các chuyến dài.
+Nếu cơn đau xuất hiện giữa chuyến và không dứt sau khi nghỉ dãn cơ, nên cân nhắc dừng hẳn hoặc đổi người lái, thay vì chạy tiếp nhờ chịu đựng. Đau đi kèm tê lan xuống chân hoặc đau nhói từng cơn là dấu hiệu nên để cơ thể nghỉ thật sự, và nếu kéo dài nhiều ngày thì nên đi khám sớm.
 
 Giữa các chuyến dài, giấc ngủ đêm trước mỗi chặng quan trọng không kém tư thế trên yên, vì cơ thể hồi phục tại chỗ sau khi ngủ đủ mới chịu nổi tư thế ngồi nhiều giờ. Nếu bạn thường xuyên chạy cung xa vì việc, hãy sắp lịch nghỉ đêm hợp lý thay vì cố gộp quãng đường. Vai lưng căng cứng sau đêm thiếu ngủ gần như chắc chắn báo hiệu một chuyến đi mỏi.
+
+Thông tin về đau lưng và đau cổ trong bài chỉ mang tính tham khảo, không thay thế ý kiến của nhân viên y tế. Mức độ ảnh hưởng của tư thế lái tới mỗi người có thể thay đổi theo thể trạng, nếu cơn đau kéo dài hoặc kèm tê bì, bạn nên đi khám và đối chiếu hướng dẫn chính thức tại cổng thông tin của Bộ Y tế ([moh.gov.vn](https://moh.gov.vn/)).
 
 Tóm lại, đau lưng và đau cổ khi chạy xe dài giảm được bằng tư thế ngồi đúng, gương chỉnh đúng, dãn cơ mỗi lần nghỉ và xe hợp dáng người. Trước một chuyến dài sắp tới, bạn có thể đọc thêm phần [an toàn khi chạy xe đường trường](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/) và nhóm [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) để chuẩn bị trọn hơn.
 

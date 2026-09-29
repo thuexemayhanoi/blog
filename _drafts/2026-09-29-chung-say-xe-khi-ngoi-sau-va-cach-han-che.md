@@ -44,7 +44,9 @@ Nếu khó chịu kéo dài, đừng cố chịu tới nơi mà hãy nhờ dừn
 
 ## Khi chóng mặt giữa đường
 
-Sau khi tới nơi, người hay say xe nên nghỉ chừng mười lăm phút trước khi ăn uống, để cơ thể cân bằng lại trạng thái. Uống nước cũng nên từng ngụm nhỏ, không dồn một hơi, vì bụng đang nhạy cảm dễ phản ứng ngược nếu uống vội. Với những chuyến sau, việc áp dụng đều các bước chuẩn bị trên sẽ giúp quen dần: nhiều người ngồi sau bị giảm hẳn sau khi biết cách ngồi và nhìn đúng. Nếu say xe kéo dài bất thường kể cả khi đã chuẩn bị kỹ, bạn nên hỏi ý kiến nhân viên y tế trước các chuyến xa.
+Sau khi tới nơi, người hay say xe nên nghỉ chừng mười lăm phút trước khi ăn uống, để cơ thể cân bằng lại trạng thái. Uống nước cũng nên từng ngụm nhỏ, không dồn một hơi, vì bụng đang nhạy cảm dễ phản ứng ngược nếu uống vội. Với những chuyến sau, việc áp dụng đều các bước chuẩn bị trên sẽ giúp quen dần: nhiều người ngồi sau bị giảm hẳn sau khi biết cách ngồi và nhìn đúng.
+
+Lưu ý cuối cùng: nội dung về say xe trong bài mang tính tham khảo, không thay thế chẩn đoán. Tình trạng của mỗi người có thể thay đổi theo sức khỏe và độ tuổi, nếu say xe kéo dài hoặc kèm triệu chứng bất thường, bạn nên hỏi ý kiến nhân viên y tế và đối chiếu hướng dẫn chính thức tại trang của Bộ Y tế ([moh.gov.vn](https://moh.gov.vn/)).
 
 Tóm lại, say xe khi ngồi sau xe máy xử lý được bằng ba việc: chuẩn bị trước chuyến đi, ngồi đúng tư thế nhìn thẳng phía trước, và chủ động nghỉ đúng nhịp. Các vấn đề sức khỏe khi di chuyển khác đã được gom trong nhóm [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) cho bạn tham khảo trước mỗi chuyến.
 
