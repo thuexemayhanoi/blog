@@ -15,11 +15,12 @@ article_id: BLG-00797
 
 Hải Dương có hai cụm di tích mà khách xe máy Hà Nội đi được trọn một ngày: khu Côn Sơn ở Chí Linh với chùa cổ giữa rừng thông, và đền Kiếp Bạc thờ Hưng Đạo Đại Vương Trần Quốc Tuấn. Quãng Hà Nội đến Côn Sơn - Kiếp Bạc chỉ chừng sáu mươi ki-lô-mét, hai điểm cách nhau một chặng ngắn, nên đây là cung hợp khách muốn đi về trong ngày, kể cả nhóm có người mới chạy đường trường. Bài này nói hướng đi chính, cách thăm hai cụm, và lịch gợi ý cho một ngày.
 
-## Chạy xe máy từ Hà Nội lên Côn Sơn - Kiếp Bạc: hướng đi chính
+## Chạy xe máy từ Hà Nội đến Côn Sơn - Kiếp Bạc: hướng đi chính
 
 Cung chuẩn đi như sau: khách rời Hà Nội theo trục quốc lộ 1A hướng phía bắc qua Bắc Ninh, chạy tiếp qua khu vực Lim thuộc thị xã Việt Yên, rồi rẽ theo đường dẫn vào thành phố Chí Linh tới khu di tích Côn Sơn. Tổng khoảng cách vào khoảng sáu mươi ki-lô-mét tùy điểm xuất phát trong đô thị, tương ứng một giờ rưỡi đến hai giờ chạy thoải mái. Đường gần như toàn bộ là trục lớn, ít đèo và ít có đoạn khó; đây là một trong những cung dễ chạy nhất trong các điểm thăm quan quanh Hà Nội.
 
-Ba mốc đáng nhớ trên đường: mốc một là chặng qua Bắc Ninh, nơi khách canh xe tải và xe khách nhiều nhất, nên giữ mép phải và tránh đổi làn thiếu chú ý; mốc hai là khu Lim, nơi khách bắt đầu để ý biển chỉ dẫn rẽ vào Chí Linh và thường xuyên gặp các đoàn xe cùng hướng vào mùa lễ hội; mốc ba là đoạn cổng rừng thông báo hiệu khách đã tới sát khu di tích, chỗ này đường nhỏ nên khách giảm sẵn tốc độ từ trước. Ba mốc đó giúp khách mới chạy cũ
+Ba mốc đáng nhớ trên đường: mốc một là chặng qua Bắc Ninh, nơi khách canh xe tải và xe khách nhiều nhất, nên giữ mép phải và tránh đổi làn thiếu chú ý; mốc hai là khu Lim, nơi khách bắt đầu để ý biển chỉ dẫn rẽ vào Chí Linh và thường xuyên gặp các đoàn xe cùng hướng vào mùa lễ hội; mốc ba là đoạn cổng rừng thông báo hiệu khách đã tới sát khu di tích, chỗ này đường nhỏ nên khách giảm sẵn tốc độ từ trước
+. Ba mốc đó giúp khách mới chạy cũ
 ng không lo rẽ nhầm.
 
 Hai điều cần để ý trên chặng: một là các khung giờ cao điểm qua Bắc Ninh và Lim, khi xe tải, xe khách dày và có đoạn gộp làn; hai là khúc rẽ vào đường nhỏ đi Côn Sơn, biển chỉ dẫn có sẵn nhưng khách vẫn nên giảm tốc trước. Đường vào di tích qua đồng ruộng và phố nhỏ của Chí Linh, khách đi chậm, quan sát người đi bộ ven đường và tránh bấm còi gần nhà dân. Cuối đường, rừng thông hiện lên và khách gửi xe tại bãi cạnh khu di tích.
@@ -34,7 +35,8 @@ Khách đi mùa hội nên giữ chặt phiếu gửi xe và đồ đắt tiền
 
 ## Chặng từ Côn Sơn sang đền Kiếp Bạc
 
-Từ Côn Sơn, khách chạy tiếp về hướng thành phố Hải Dương: chặng này chừng hai chục ki-lô-mét, đường qua đồng và các xã nhỏ, có đoạn trục lớn xen đoạn phố thôn. Đền Kiếp Bạc nằm ven sông, là nơi thờ Hưng Đạo Đại Vương, vị danh tướng chỉ huy kháng chiến chống quân Nguyên thế kỷ mười ba; mùa hội truyền thống v
+Từ Côn Sơn, khách chạy tiếp về hướng thành phố Hải Dương: chặng này chừng hai chục ki-lô-mét, đường qua đồng và các xã nhỏ, có đoạn trục lớn xen đoạn phố thôn. Đền Kiếp Bạc nằm ven sông, là nơi thờ Hưng Đạo Đại Vương, vị danh tướng chỉ huy kháng chiến chống quân Nguyên thế
+ kỷ mười ba; mùa hội truyền thống v
 ào mùa thu, khách hành hương về đây rất đông, không khí lễ hội khác hẳn ngày thường.
 
 Ở đền, khách gửi xe tại bãi phía ngoài rồi đi bộ vào qua cổng: sân đền rộng, hai bên là nhà bia và vườn cổ; phần thăm thường mất khoảng một giờ. Khách nên canh giờ để khỏi bị vãn: đền đóng cửa chiều muộn, và phần đường về Hà Nội còn lại cần tính thêm giờ kẹt xe cuối tuần trên trục 1A.

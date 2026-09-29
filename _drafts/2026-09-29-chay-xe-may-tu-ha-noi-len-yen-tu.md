@@ -15,11 +15,12 @@ article_id: BLG-00795
 
 Quãng Hà Nội đến Yên Tử là một cung ngắn vừa đủ cho một ngày cuối tuần: khách rời thành phố sáng sớm, chạy theo trục quốc lộ quen thuộc, và có mặt ở chân ngọn núi thiền thuộc đất Quảng Ninh trước trưa. Yên Tử gắn với thiền phái Trúc Lâm do Phật hoàng Trần Nhân Tông sáng mở, mùa xuân sau tết khách hành hương rất đông, nên khách đi xe máy cần lên lịch sớm và biết trước từng chặng đường. Bài này nói hướng đi chính từ Hà Nội lên Yên Tử, những điểm cần để ý trên đường, và cách xếp giờ để một chuyến một ngày hoặc hai ngày đều thoải mái.
 
-## Chạy xe máy từ Hà Nội lên Yên Tử: hướng đi chính
+## Chạy xe máy từ Hà Nội đến Yên Tử: hướng đi chính
 
 Cung chuẩn đi như sau: khách rời Hà Nội theo hướng đông bắc qua Bắc Ninh trên trục quốc lộ 1A, tới khu vực Phả Lại thì rẽ vào quốc lộ 18, chạy tiếp qua Chí Linh, Đông Triều tới thành phố Uông Bí, rồi từ Uông Bí theo đường lên khu vực Thượng Yên Công ở chân núi Yên Tử. Tổng khoảng cách vào khoảng một trăm hai mươi đến một trăm ba mươi ki-lô-mét tùy điểm rẽ và điểm khởi hành trong thành phố, tương ứng ba đến ba giờ rưỡi chạy không vội. Đây là một trong những cung gần nhất so với các điểm núi nổi tiếng quanh Hà Nội, nên khách không cần khởi hành từ khuya vẫn kịp một buổi trên núi.
 
-Hai mốc đáng nhớ trên cung: mốc một là ngã rẽ Phả Lại, nơi khách rời trục 1A chuyển sang quốc lộ 18, ngã rẽ có biển chỉ dẫn nhưng giờ cao điểm xe đông nên khách giảm tốc trước; mốc hai là Uông Bí, thành phố nhỏ cuối cùng trước đoạn đường lên núi, nơi khách nên dừng ăn nhẹ và kiểm tra xăng lần cuối. Qua k
+Hai mốc đáng nhớ trên cung: mốc một là ngã rẽ Phả Lại, nơi khách rời trục 1A chuyển sang quốc lộ 18, ngã rẽ có biển chỉ dẫn nhưng giờ cao điểm xe đông nên khách giảm tốc trước; mốc hai là Uông Bí, thành phố nhỏ cuối cùng trước đoạn đường lên núi, nơi khách nên dừng ăn nhẹ và kiểm tra xăng lần
+ cuối. Qua k
 hỏi Uông Bí, đường hẹp dần và bắt đầu có đèo cua bám sườn, khách mở bản đồ trước khúc rẽ vào khu di tích để không phải dừng giữa dốc.
 
 ## Chặng quốc lộ 1A và quốc lộ 18: điểm cần để ý
@@ -36,7 +37,8 @@ Khách đi buổi sáng nên xuất phát sớm để có trọn vẹn phần n�
 
 ## Lịch gợi ý cho chuyến một ngày và hai ngày
 
-Với chuyến một ngày: khách 
+Với chuyến một
+ ngày: khách 
 khởi hành từ Hà Nội lúc năm rưỡi đến sáu giờ sáng, dừng ăn sáng ở Bắc Ninh hoặc Phả Lại, tới chân núi trước chín giờ, đi bộ hoặc đi cáp treo lên thăm tới chùa Đồng trước ba giờ chiều rồi xuống núi, dùng bữa tối tại Uông Bí và về Hà Nội trước chín giờ tối. Với chuyến hai ngày: chiều thứ bảy khách chạy lên nhận chỗ nghỉ ở Uông Bí hoặc gần khu di tích, dành nguyên buổi sáng chủ nhật cho phần núi, chiều chủ nhật thong thả trở về và tránh đoạn quốc lộ 1A vào khung giờ cuối tuần xe về thành phố dày đặc.
 
 Về mùa đi: mùa xuân sau tết là mùa hội, cảnh núi đẹp nhất nhưng đông người; mùa hè nắng lên cao nhưng rừng râm mát, hợp khách đi bộ dài; mùa đông hay có mây mù và rét, khách mang ấm và đi trong tầm nhìn rõ. Khách muốn so sánh với một cung núi ngắn khác gần Hà Nội có thể tham khảo bài [đi Tam Đảo bằng xe máy từ Hà Nội](/blog/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/), hoặc xem lại các hướng đi khác trong trang [cung đường phố núi phía bắc](/blog/cung-duong/cung-duong-pho-bac/).
