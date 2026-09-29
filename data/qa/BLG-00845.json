@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-gui-xe-may-quanh-trung-tam-gia-va-vi-tri.md",
+  "source_path": "_posts/2026-09-29-gui-xe-may-quanh-trung-tam-gia-va-vi-tri.md",
   "content_sha256": "a8e9b0eec2e4ee12dcd34cca04953223d5558ac28052d086142831ad94450617",
-  "matrix_row_sha256": "a2f3ac05cb608c1cca61fb0102f1b67e69b020dfce495265096793bf1f475242",
-  "result": "PASS"
+  "matrix_row_sha256": "2410926d09439f6642a6690ea5ab54446daff2b47806697e56ce870783aa6791",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:12:43+00:00"
 }

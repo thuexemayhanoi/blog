@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-giu-mu-bao-hiem-khi-xuong-xe-i-bo.md",
+  "source_path": "_posts/2026-09-29-giu-mu-bao-hiem-khi-xuong-xe-i-bo.md",
   "content_sha256": "563e73562ca9d5d83fe4e48d3aab04127cf4ab0ba7d8e2fd1a296e7b6d33a50c",
-  "matrix_row_sha256": "b5c7d5b67e7952eeeac9717f6bbd3a629b13d4b6a4e85b448751120f73b450e0",
-  "result": "PASS"
+  "matrix_row_sha256": "e1d3e12dbf7a918a273584027ba1ee9e7deb053719735f729ec00124da22e12e",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:12:44+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-gui-xe-qua-em-co-uoc-khong.md",
+  "source_path": "_posts/2026-09-29-gui-xe-qua-em-co-uoc-khong.md",
   "content_sha256": "28027d0551d1f3d4fc731f103c64974637e1938cb84530938682fdae9d8ee05d",
-  "matrix_row_sha256": "2be67b21b6e8c607fbedf89634ff3f9386bd0fa38337ce46a7e3ec043bb2d9f3",
-  "result": "PASS"
+  "matrix_row_sha256": "538e4ed808f5442e70a1a5a0ca3f8983d4dd0475b8ce04d7d75b8bf47e3fa3e1",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:12:43+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-giu-xe-may-an-toan-truoc-nha-dan-khu-pho-co.md",
+  "source_path": "_posts/2026-09-29-giu-xe-may-an-toan-truoc-nha-dan-khu-pho-co.md",
   "content_sha256": "631189b87d297d578c409b2373bf545b68612379294cb90595980a28cd31c3f3",
-  "matrix_row_sha256": "e7ed2d72c18d498e22e01d5931dbe38ebd7dfaceb278be9a1f286728eda40344",
-  "result": "PASS"
+  "matrix_row_sha256": "e3186023eed268e81cfe18a94b20b6cd69f987400cc881d0aac8397ecea5c13e",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:12:44+00:00"
 }
