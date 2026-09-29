@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-lop-bi-xi-ang-i-giu-xe-the-nao.md",
+  "source_path": "_posts/2026-09-29-lop-bi-xi-ang-i-giu-xe-the-nao.md",
   "content_sha256": "e68758c34101abfe019379cfe7688a1a9e28867b735896c06350c5697e9cc316",
-  "matrix_row_sha256": "6a2255fc91006c937d4a169046747a5a21204f66c41861e2b5dd263113e61853",
-  "result": "PASS"
+  "matrix_row_sha256": "b3b25b6e8cc30cfbf978cc12e8fd8ce9e86db6d2492978f55d8ebbbebd202423",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:22:37+00:00"
 }

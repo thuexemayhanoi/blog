@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-qua-giao-lo-khong-en-xanh.md",
+  "source_path": "_posts/2026-09-29-i-qua-giao-lo-khong-en-xanh.md",
   "content_sha256": "7af05adbde319ed815a44c88511775e9ee733d1e2df66b383a8d0256d02bdfb3",
-  "matrix_row_sha256": "572d612bd01e954a3fbad738b96bf9badb56a3f8b40d64073d1890fbc2cf7595",
-  "result": "PASS"
+  "matrix_row_sha256": "20059a378eded8113583d6ca7b7ccc48a25444a20165a63f5d638aa388400bfd",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:22:37+00:00"
 }

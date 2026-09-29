@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-tranh-goc-mu-xe-tai-o-vong-xuyen.md",
+  "source_path": "_posts/2026-09-29-tranh-goc-mu-xe-tai-o-vong-xuyen.md",
   "content_sha256": "dd872c2ebd637337e606cebba18b01b7fd31dc073fc3e0f216bee1da2e1318cc",
-  "matrix_row_sha256": "6c62f3ad681b6a31762037e17054e4669fa3871773b83fdc3576a836e1975175",
-  "result": "PASS"
+  "matrix_row_sha256": "d4f09ec1d8d9ea3f9bd4640242c715619d0d05a37a9387b2e7350e24137247a6",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:22:37+00:00"
 }

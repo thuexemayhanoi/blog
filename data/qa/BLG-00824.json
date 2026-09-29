@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-sau-xe-buyt-ung-khoang-cach.md",
+  "source_path": "_posts/2026-09-29-i-sau-xe-buyt-ung-khoang-cach.md",
   "content_sha256": "b33cf677250f61876c5e9f8889ef218cec4381462b141e542463b6e37c243bcc",
-  "matrix_row_sha256": "1ec5822dcd618b1ef4489c88c478c54b677f8da0b66a828a8591abc08f6f0529",
-  "result": "PASS"
+  "matrix_row_sha256": "2f2e7a70fe765da0552df59cf7e405a3226f334cb2d03431763de35ea3c8ca36",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:22:37+00:00"
 }

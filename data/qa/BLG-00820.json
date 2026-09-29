@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-xu-ly-khi-xe-may-phia-truoc-ngat-au.md",
+  "source_path": "_posts/2026-09-29-xu-ly-khi-xe-may-phia-truoc-ngat-au.md",
   "content_sha256": "9c4a9dade04d5b65209276f65d9face7c12ed34b872c22b5448bf6a5747730c4",
-  "matrix_row_sha256": "4ea272bd6f50dbd3a6e94f9501575e32e84a0c72ad282eadf29f52e48e3d5832",
-  "result": "PASS"
+  "matrix_row_sha256": "00f5defb3fc96efa23e5d03a461bba5b2b8159f380471282d9f24031fb17d847",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:22:37+00:00"
 }
