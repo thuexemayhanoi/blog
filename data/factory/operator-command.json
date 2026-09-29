@@ -1,0 +1,7 @@
+{
+  "op": "prepare-next",
+  "count": 10,
+  "scope": "fast",
+  "command_id": "prepare-chunk-910-919",
+  "coordinator": "vibe"
+}
