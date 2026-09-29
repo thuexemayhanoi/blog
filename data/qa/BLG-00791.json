@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-may-tu-ha-noi-len-pac-bo-va-thac-ban-gioc-cao-bang.md",
+  "source_path": "_posts/2026-09-29-chay-xe-may-tu-ha-noi-len-pac-bo-va-thac-ban-gioc-cao-bang.md",
   "content_sha256": "179bd200ba281d147473d1749a6904f85475ac6fab16d54f2ea60c00c9e901c1",
-  "matrix_row_sha256": "745afc19d57442963863c02738f6eb81951882f267e80c74b31513358d979b6f",
-  "result": "PASS"
+  "matrix_row_sha256": "73dba67a69f75b9c717933e163741a5da1302cdf46ef84390b7f131574bbca66",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:12:11+00:00"
 }

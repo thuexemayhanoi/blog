@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-ba-be-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-ba-be-xang-va-nghi.md",
   "content_sha256": "241749994f2cba58489437f94ad8a802f77c95a6ee2b2b24d7cfbb4e2f1b8928",
-  "matrix_row_sha256": "373f076a7ba0e682b9fa3a314dcac7231619fae6a3ffb71b8c31ea5a9ea29fa2",
-  "result": "PASS"
+  "matrix_row_sha256": "e56ac1b4d33867cee3282bfe969aec61e5052702618f3a4dd1327032466a721a",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:12:11+00:00"
 }

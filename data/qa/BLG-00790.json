@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-i-ha-giang-thue-xe-tu-ha-noi-hay-gui-xe-len-roi-thue-tai-cho.md",
+  "source_path": "_posts/2026-09-29-i-ha-giang-thue-xe-tu-ha-noi-hay-gui-xe-len-roi-thue-tai-cho.md",
   "content_sha256": "a67f1e55b6d0148387274e07bd372af942a62fa25ca3dedc3f91d2f50f5bb0eb",
-  "matrix_row_sha256": "629a9d28b7e3a5d36158ad1ce1682af3963348a38f19a752074d67e3cd4aa9a9",
-  "result": "PASS"
+  "matrix_row_sha256": "0e17fd9923a7c567c90d6f09e49b41c91c282bf6a423e8f4b500dfda22501c8d",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:12:11+00:00"
 }

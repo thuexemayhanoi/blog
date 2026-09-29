@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-kinh-nghiem-uong-en-pac-bo-va-thac-ban-gioc-cao-bang-xang-va-nghi.md",
+  "source_path": "_posts/2026-09-29-kinh-nghiem-uong-en-pac-bo-va-thac-ban-gioc-cao-bang-xang-va-nghi.md",
   "content_sha256": "c180f6a06ce7b915e3992649955005cb5bd952c1331a26c00a65fa5c77935b93",
-  "matrix_row_sha256": "254cb17440191fa10434e98c1b407a8b3c3cf0b03368b08b6b68fbb2550bea60",
-  "result": "PASS"
+  "matrix_row_sha256": "a8a070fd70a0865daa513c873b14eef5559b2e1a956fc526cf8b0595492180e5",
+  "result": "PASS",
+  "published_at": "2026-09-29T00:12:11+00:00"
 }
