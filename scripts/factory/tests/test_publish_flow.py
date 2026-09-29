@@ -27,7 +27,6 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-print('::notice::[diag] pubflow: start', flush=True)
 from test_qa_modes import (FxTestCase, cp_json, first_writing, make_draft,
                             matrix_rows)
 
@@ -58,7 +57,6 @@ class SuccessFlowTest(FxTestCase):
         published_before = sum(1 for r in matrix_rows(self.fx)
                                if r['status'] == 'PUBLISHED')
         cp_before = cp_json(self.fx, 'data/state/checkpoint.json')
-        print('::notice::[diag] pubflow step1 ok', flush=True)
 
         # 2. writer giao draft đạt chuẩn -> QA FAST chấm
         draft_path = make_draft(self.fx, row)
@@ -69,7 +67,6 @@ class SuccessFlowTest(FxTestCase):
         rows = matrix_rows(self.fx)
         self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
                          'PASS')
-        print('::notice::[diag] pubflow step2 ok', flush=True)
 
         # 3. bằng chứng QA: hash nội dung + vân tay hàng (gate sẽ gắn lại)
         ev_path = os.path.join(self.fx, 'data', 'qa', row['id'] + '.json')
@@ -78,13 +75,11 @@ class SuccessFlowTest(FxTestCase):
         self.assertTrue(ev.get('content_sha256'))
         self.assertTrue(ev.get('matrix_row_sha256'))
         self.assertEqual(ev['content_sha256'], sha256_file(draft_path))
-        print('::notice::[diag] pubflow step3 ok', flush=True)
 
         # 4. publish đúng quy trình (chỉ promote hàng PASS, gate tự kiểm)
         r = self.operator('publish', '--scope', 'fast', '--ids', row['id'])
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         self.assertIn('PUBLISHED', r.stdout)
-        print('::notice::[diag] pubflow step4 ok', flush=True)
 
         # 5. draft đã được xử lý: rời _drafts, bài thật vào _posts đúng chỗ
         self.assertFalse(os.path.exists(draft_path),
@@ -97,7 +92,6 @@ class SuccessFlowTest(FxTestCase):
         post_path = os.path.join(self.fx, m['output_path'])
         self.assertTrue(os.path.exists(post_path),
                         'thiếu bài thật tại %s' % m['output_path'])
-        print('::notice::[diag] pubflow step5 ok', flush=True)
 
         # 6. hash: bài xuất bản KHÔNG đổi nội dung sau QA
         self.assertEqual(sha256_file(post_path), ev['content_sha256'],
@@ -105,7 +99,6 @@ class SuccessFlowTest(FxTestCase):
         # bằng chứng QA giữ nguyên sau publish
         ev_after = json.load(open(ev_path, encoding='utf-8'))
         self.assertEqual(ev_after['content_sha256'], ev['content_sha256'])
-        print('::notice::[diag] pubflow step6 ok', flush=True)
 
         # 7. checkpoint: chunk chốt, đếm đúng, last_completed đúng bài
         cp = cp_json(self.fx, 'data/state/checkpoint.json')
@@ -115,7 +108,6 @@ class SuccessFlowTest(FxTestCase):
                          cp_before['counts']['published'] + 1)
         self.assertEqual(cp['counts']['published'], published_before + 1)
         self.assertEqual(cp['counts']['writing'], 0)
-        print('::notice::[diag] pubflow step7 ok', flush=True)
 
         # 8. route/sitemap: URL công khai của bài nằm trong route truth
         op = op_module(self.fx)
@@ -128,17 +120,7 @@ class SuccessFlowTest(FxTestCase):
         if not route.endswith('/'):
             route += '/'
         self.assertIn(route, op.canonical_routes())
-        print('::notice::[diag] pubflow step8 ok', flush=True)
 
 
 if __name__ == '__main__':
-    loader = unittest.TestLoader()
-    suite = loader.loadTestsFromModule(sys.modules['__main__'])
-    result = unittest.TextTestRunner(verbosity=2).run(suite)
-    if not result.wasSuccessful():
-        for t, tb in (result.errors + result.failures):
-            flat = tb[-1400:].replace('\r', '').replace('\n', ' | ')
-            for k in range(0, len(flat), 650):
-                print('::notice::[diag] pubflow %s p%d: %s'
-                      % (t, k // 650, flat[k:k + 650]), flush=True)
-        sys.exit(1)
+    unittest.main(verbosity=2)

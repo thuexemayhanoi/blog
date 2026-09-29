@@ -107,9 +107,18 @@ def borrow_planned_row(fx, count=1):
     cp = cp_json(fx, 'data/state/checkpoint.json')
     cands = [x for x in rows
              if x['status'] == 'PUBLISHED'
-             and x['source'].startswith('planned:')]
-    assert len(cands) >= need, ('không còn đủ hàng planned:PUBLISHED để '
-                                'mượn (cần %d, có %d)' % (need, len(cands)))
+             and x['source'].startswith('planned:')
+             # Hermetic đúng trạng thái trước promote: chỉ mượn hàng ĐÃ
+             # CÓ batch_id — hàng PLANNED thật luôn có batch_id (schema
+             # v2, validate.py bắt buộc). Mượn hàng planned:PUBLISHED
+             # không batch_id về PLANNED sẽ bị generate-matrix.py đánh
+             # lô mới sau max (ví dụ B011) ngay tại vị trí đầu file,
+             # phá bất biến "batch_id không giảm theo thứ tự file" mà
+             # validate.py kiểm ở mọi scope (fail tại BLG-00486).
+             and (x.get('batch_id') or '').strip()]
+    assert len(cands) >= need, ('không còn đủ hàng planned:PUBLISHED có '
+                                'batch_id để mượn (cần %d, có %d)'
+                                % (need, len(cands)))
     taken = cands[:need]
     for r in taken:
         post = os.path.join(fx, r['output_path'])
