@@ -51,7 +51,7 @@ Ngày trả xe dịp Tết thường rơi vào các khung giờ cao điểm, vì
 
 Nếu lịch trình của bạn xê dịch và không thể trả đúng hẹn, hãy nhắn cho cửa hàng ngay khi biết, thay vì chờ đến sát giờ. Sự chủ động này đặc biệt quan trọng dịp Tết, vì cửa hàng có thể đã hẹn khách khác nhận xe ngay sau bạn. Mọi thỏa thuận gia hạn hoặc đổi giờ trả đều nên được lưu bằng tin nhắn.
 
-Tết là dịp mà chiếc xe máy thuê gắn với nhiều kế hoạch gia đình, về quê và du xuân. Một kế hoạch đặt sớm, giấy tờ đầy đủ và các thỏa thuận rõ ràng giúp bạn tận hưởng trọn vẹn những ngày quý giá của dịp nghỉ này. Để hỏi về tình trạng xe và đặt trước cho dịp Tết, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Tết là dịp mà chiếc xe máy thuê gắn với nhiều kế hoạch gia đình, về quê và du xuân. Một kế hoạch đặt sớm, giấy tờ đầy đủ và các thỏa thuận rõ ràng giúp bạn tận hưởng trọn vẹn những ngày quý giá của dịp nghỉ này. Để hỏi về tình trạng xe và đặt trước cho dịp Tết, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Chi tiết nhỏ đáng chuẩn bị cho mùa Tết
 

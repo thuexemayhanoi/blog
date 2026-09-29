@@ -55,7 +55,7 @@ Với người công tác thường xuyên quay lại Hà Nội, việc lưu s�
 
 ## Tóm lại
 
-Người đi công tác nên chọn gói thuê khớp độ dài chuyến đi, hoàn thiện chứng từ ngay từ đầu, làm quen tuyến đường trong ngày đầu và báo sớm mọi thay đổi lịch trình. Để hỏi về gói tuần, gói tháng và phương án phù hợp với lịch công tác của bạn, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Người đi công tác nên chọn gói thuê khớp độ dài chuyến đi, hoàn thiện chứng từ ngay từ đầu, làm quen tuyến đường trong ngày đầu và báo sớm mọi thay đổi lịch trình. Để hỏi về gói tuần, gói tháng và phương án phù hợp với lịch công tác của bạn, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Một ngày công tác mẫu với xe máy thuê
 

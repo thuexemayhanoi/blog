@@ -43,7 +43,7 @@ Với người thuê tháng, chi phí đi lại cố định gồm tiền thuê,
 
 Hãy theo dõi chi phí trong tháng đầu để ước lượng chuẩn cho các tháng sau. Một ghi chú đơn giản về số tiền đổ xăng và gửi xe mỗi tuần cho bạn bức tranh đủ rõ mà không tốn công. Nếu công ty của bạn có chính sách hỗ trợ chi phí đi lại, hãy hỏi về chứng từ cần thiết ngay từ đầu, vì việc bổ sung hóa đơn sau này thường phiền phức hơn nhiều việc xin ngay khi thuê.
 
-Một cách tiết kiệm thực tế khác là chọn đúng dòng xe theo nhu cầu: nếu hằng ngày bạn chỉ chạy mười cây số trong nội thành, một chiếc xe số nhỏ gọn vừa rẻ vừa tiện; nếu chở đồ hoặc chạy các chặng dài hơn, xe tay ga xứng đáng khoản chênh lệch. Bài so sánh [xe số, xe tay ga và xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) phân tích kỹ các tiêu chí chọn này.
+Một cách tiết kiệm thực tế khác là chọn đúng dòng xe theo nhu cầu: nếu hằng ngày bạn chỉ chạy mười cây số trong nội thành, một chiếc xe số nhỏ gọn vừa rẻ vừa tiện; nếu chở đồ hoặc chạy các chặng dài hơn, xe tay ga xứng đáng khoản chênh lệch. Bài so sánh [xe số, xe tay ga và xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) phân tích kỹ các tiêu chí chọn này.
 
 ## Sinh hoạt với xe thuê dài hạn
 
@@ -57,6 +57,6 @@ Cuối cùng, hãy lưu mọi trao đổi với cửa hàng bằng tin nhắn: c
 
 Khi dự án kết thúc, hãy báo trước cho cửa hàng ít nhất một tuần về ngày trả xe dự kiến. Ngày trả, hai bên cùng kiểm tra tình trạng xe theo đúng biên bản giao nhận ban đầu, bạn nhận lại tiền cọc và giữ tin nhắn xác nhận hoàn tất. Nếu có các chi phí phát sinh được thỏa thuận, chúng nên được ghi rõ và thanh toán trọn vẹn trong buổi trả xe, không để dư nợ mơ hồ.
 
-Trải nghiệm trả xe gọn gàng cũng là dấu hiệu để bạn quyết định quay lại: người thuê dài hạn thường xây dựng quan hệ với cửa hàng, và các chuyến công tác sau tại Hà Nội thường bắt đầu bằng một tin nhắn đặt lại xe quen. Để hỏi về gói tháng hiện có và các điều kiện cụ thể, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Trải nghiệm trả xe gọn gàng cũng là dấu hiệu để bạn quyết định quay lại: người thuê dài hạn thường xây dựng quan hệ với cửa hàng, và các chuyến công tác sau tại Hà Nội thường bắt đầu bằng một tin nhắn đặt lại xe quen. Để hỏi về gói tháng hiện có và các điều kiện cụ thể, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) hoặc tham khảo [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 Một câu hỏi thực tế cuối cùng: thuê tháng có cần hợp đồng viết không? Câu trả lời là nên có, dù hình thức là bản giấy hay các điều khoản chốt qua tin nhắn được hai bên xác nhận. Hợp đồng dài hạn cần ghi rõ tên xe, biển số, giá tháng, tiền cọc, ngày bắt đầu, trách nhiệm các bên và cách liên hệ hỗ trợ. Một văn bản rõ ràng không phải dấu hiệu thiếu tin tưởng, mà là dấu hiệu cả hai bên nghiêm túc với một thỏa thuận kéo dài nhiều tháng.

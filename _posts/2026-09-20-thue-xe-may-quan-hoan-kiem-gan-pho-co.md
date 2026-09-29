@@ -35,7 +35,7 @@ Từ hồ Gươm, cung đường kinh điển nhất là chạy vòng quanh hồ
 
 Một hướng khác là chạy về phía tây bắc qua Hàng Cân, Cửa Nam lên hồ Tây. Quãng đường từ hồ Gươm đến hồ Tây không xa, và khi đến nơi bạn có thể chạy vòng quanh hồ, ghé các quán cà phê ven đường Trích Sài hoặc Quảng An. Buổi chiều muộn ở đây mát và thoáng, rất khác với không gian đông đúc của phố cổ.
 
-Với người thích khám phá văn hóa, hướng nam dẫn đến các phố nghề truyền thống và khu Văn Miếu. Bạn có thể tham khảo các hành trình phù hợp cho người mới trong bài [gợi ý khám phá Hà Nội bằng xe máy]({% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}) rồi điều chỉnh theo thời gian của mình.
+Với người thích khám phá văn hóa, hướng nam dẫn đến các phố nghề truyền thống và khu Văn Miếu. Bạn có thể tham khảo các hành trình phù hợp cho người mới trong bài [gợi ý khám phá Hà Nội bằng xe máy]({{ site.baseurl }}{% post_url 2026-09-13-goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi %}/) rồi điều chỉnh theo thời gian của mình.
 
 ## Gửi xe và các chi phí nhỏ quanh phố cổ
 
@@ -55,7 +55,7 @@ Cuối cùng, nếu bạn không quen chạy xe trong môi trường đông đú
 
 ## Tóm lại
 
-Thuê xe máy quanh Hoàn Kiếm giúp bạn di chuyển linh hoạt giữa các điểm trong trung tâm, nhưng thành công của chuyến đi nằm ở việc tôn trọng nhịp sống của khu phố cũ: chạy chậm, quan sát kỹ, gửi xe đúng nơi quy định và chọn khung giờ hợp lý. Để hỏi về tình trạng xe hiện có, mức cọc và cách tính giờ thuê, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) hoặc tham khảo thêm [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi quyết định.
+Thuê xe máy quanh Hoàn Kiếm giúp bạn di chuyển linh hoạt giữa các điểm trong trung tâm, nhưng thành công của chuyến đi nằm ở việc tôn trọng nhịp sống của khu phố cũ: chạy chậm, quan sát kỹ, gửi xe đúng nơi quy định và chọn khung giờ hợp lý. Để hỏi về tình trạng xe hiện có, mức cọc và cách tính giờ thuê, bạn có thể liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), xem [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }}) hoặc tham khảo thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) trước khi quyết định.
 
 ## Một ngày mẫu với xe máy quanh Hoàn Kiếm
 

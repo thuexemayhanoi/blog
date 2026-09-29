@@ -55,6 +55,6 @@ Hà Nội có những buổi mưa làm mọi kế hoạch giao xe ngoài trời 
 
 Buổi giao tận nơi kết thúc đúng nghĩa khi trên điện thoại của bạn có: ảnh hồ sơ xe và vết xước, ảnh giấy tờ xe, tin nhắn xác nhận ngày giờ và các điều khoản chính, và số điện thoại hỗ trợ trong kỳ thuê. Bộ này là bản ghi đầu kỳ của bạn, và nó phục vụ mọi tình huống từ giữa kỳ cho đến ngày trả. Nếu sau buổi giao bạn nhận ra điều gì chưa rõ, nhắn cửa hàng ngay trong ngày, khi trí nhớ cả hai bên còn tươi; câu hỏi tuần sau luôn khó trả lời hơn câu hỏi hôm nay.
 
-Để chuẩn bị kỹ hơn cho kỳ dài hạn, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về quy trình từ đầu, so sánh các dòng xe qua bài [xe số, xe ga hay xe 50cc]({% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}), và liên hệ trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để thống nhất mọi điều kiện giao xe tận nơi cho kỳ của bạn.
+Để chuẩn bị kỹ hơn cho kỳ dài hạn, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về quy trình từ đầu, so sánh các dòng xe qua bài [xe số, xe ga hay xe 50cc]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/), và liên hệ trực tiếp qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) để thống nhất mọi điều kiện giao xe tận nơi cho kỳ của bạn.
 
 Buổi giao xe tận nơi chỉ thoải mái như mức hai bên đã nói rõ trước đó; mỗi câu hỏi được hỏi trước buổi hẹn là một khả năng khó chịu được xóa khỏi buổi hẹn đó.

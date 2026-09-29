@@ -47,7 +47,7 @@ Lỗi thứ tư đặc trưng người thuê: chưa quen với chiếc xe mới,
 
 Trong bãi gửi đông, cách bạn dựng xe ảnh hưởng đến người trước và người sau. Để xe nghiêng quá rộng chiếm chỗ của xe bên cạnh, mũi xe lỏng chéo làm cả hàng khó lấy, và dừng chặn lối ra vào là những phiền toái nhỏ tạo nên trời chung của bãi gửi. Nguyên tắc đơn giản: dựng theo hàng, gọn về chiều ngang, và nếu phải để lâu qua đêm, ưu tiên trụ giữa để xe chịu được gió và các cú va nhẹ lúc người ta xếp hàng thêm vào ban tối.
 
-Với người mới bắt đầu thuê xe dài hạn ở Hà Nội, việc làm quen thao tác dựng xe nên nằm trong buổi đầu nhận xe cùng với chỉnh gương và kiểm tra phanh. Các bước chuẩn bị chung trước khi đưa xe về được kể trong bài [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}). Thói quen kiểm tra xe định kỳ, trong đó có các bộ phận giữ thăng bằng, được bàn trong nhóm bài chia sẻ tại mục [chia sẻ]( {{ '/chia-se/' | relative_url }}) dành cho người thuê dài hạn.
+Với người mới bắt đầu thuê xe dài hạn ở Hà Nội, việc làm quen thao tác dựng xe nên nằm trong buổi đầu nhận xe cùng với chỉnh gương và kiểm tra phanh. Các bước chuẩn bị chung trước khi đưa xe về được kể trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/). Thói quen kiểm tra xe định kỳ, trong đó có các bộ phận giữ thăng bằng, được bàn trong nhóm bài chia sẻ tại mục [chia sẻ]( {{ '/chia-se/' | relative_url }}) dành cho người thuê dài hạn.
 
 ## Trụ giữa với sức khỏe và vóc dáng người dùng
 

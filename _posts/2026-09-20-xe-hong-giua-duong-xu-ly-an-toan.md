@@ -51,4 +51,4 @@ Về chi phí sửa chữa, nguyên tắc chung trong các hợp đồng thuê l
 
 ## Tóm lại
 
-Xe hỏng giữa đường là tình huống khó chịu nhưng xử lý được sạch sẽ nếu theo đúng trình tự: dừng ở điểm an toàn, chẩn đoán nhanh mà không tự tháo, liên hệ cửa hàng với bốn thông tin cần thiết, và giữ bằng chứng cho mọi khoản chi. Hãy lưu số hỗ trợ ngay khi nhận xe, xem [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm các bước chuẩn bị từ đầu, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần trao đổi về quy trình hỗ trợ trước khi đặt xe.
+Xe hỏng giữa đường là tình huống khó chịu nhưng xử lý được sạch sẽ nếu theo đúng trình tự: dừng ở điểm an toàn, chẩn đoán nhanh mà không tự tháo, liên hệ cửa hàng với bốn thông tin cần thiết, và giữ bằng chứng cho mọi khoản chi. Hãy lưu số hỗ trợ ngay khi nhận xe, xem [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm các bước chuẩn bị từ đầu, và liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}) khi cần trao đổi về quy trình hỗ trợ trước khi đặt xe.

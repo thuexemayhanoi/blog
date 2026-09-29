@@ -53,7 +53,7 @@ Sai lầm hay gặp khi ước lượng là lấy thời gian ngồi trên xe nh
 
 Sau kỳ thuê, hãy dành vài phút ghi lại tổng quãng đường, số lần đổ xăng và những tuyến hay đi. Bản ghi nhỏ này là tư liệu tốt nhất cho lần thuê kế tiếp: bạn biết nên đặt xe bao nhiêu ngày, cần loại xe nào, và trao đổi với cửa hàng có căn cứ. Nếu giữ thói quen này, chỉ sau hai ba kỳ thuê, bạn sẽ có con số cá nhân đáng tin hơn bất kỳ bảng tham khảo nào.
 
-Với người thuê dài hạn, con số quãng đường còn là một căn cứ để trao đổi lịch kiểm tra, bảo dưỡng với cửa hàng: xe đi nhiều có thể cần được kiểm tra theo mức đi thực tế chứ không chỉ theo thời gian, tùy từng xe và hướng dẫn hiện hành. Bạn có thể đọc thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc xe máy thuê dài hạn, hoặc tham khảo [kinh nghiệm thuê xe máy ở Hà Nội]( {% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) cho các lưu ý nền tảng khi bắt đầu.
+Với người thuê dài hạn, con số quãng đường còn là một căn cứ để trao đổi lịch kiểm tra, bảo dưỡng với cửa hàng: xe đi nhiều có thể cần được kiểm tra theo mức đi thực tế chứ không chỉ theo thời gian, tùy từng xe và hướng dẫn hiện hành. Bạn có thể đọc thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chăm sóc xe máy thuê dài hạn, hoặc tham khảo [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) cho các lưu ý nền tảng khi bắt đầu.
 
 ## Biết mình đi bao nhiêu là thuê đúng chỗ
 

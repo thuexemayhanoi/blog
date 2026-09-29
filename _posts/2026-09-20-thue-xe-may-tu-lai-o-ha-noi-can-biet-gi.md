@@ -47,7 +47,7 @@ Nếu bạn mới làm quen với Hà Nội, hãy bắt đầu từ các tuyến
 
 Khu phố cổ nên đi vào buổi sáng sớm cuối tuần, khi các phố đi bộ còn vắng. Đây là lúc bạn có thể vừa rèn kỹ năng băng qua các ngã tư nhỏ, vừa ngắm được góc đời thường của Hà Nội. Ngược lại, giờ tan tầm từ 17 giờ đến 19 giờ là khoảng thời gian đông xe nhất trong ngày, người mới nên tránh nếu chưa thật sự tự tin.
 
-Khi đã ổn tay lái, bạn có thể chạy xa hơn: Sơn Tây, Chương Mỹ, hoặc các tuyến quốc lộ ven ngoại thành. Với các chặng này, hãy chọn xe tay ga phổ thông hoặc xe số bền bỉ, mang theo mũ bảo hiểm đạt chuẩn và nghỉ định kỳ. Kinh nghiệm chọn xe cho từng loại hành trình được chia sẻ thêm trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}).
+Khi đã ổn tay lái, bạn có thể chạy xa hơn: Sơn Tây, Chương Mỹ, hoặc các tuyến quốc lộ ven ngoại thành. Với các chặng này, hãy chọn xe tay ga phổ thông hoặc xe số bền bỉ, mang theo mũ bảo hiểm đạt chuẩn và nghỉ định kỳ. Kinh nghiệm chọn xe cho từng loại hành trình được chia sẻ thêm trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/).
 
 ## Một số tình huống và cách xử lý
 
