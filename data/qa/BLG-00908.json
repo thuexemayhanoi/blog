@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00908",
   "title": "Thuê xe máy gần bến xe Giáp Bát cho chuyến về tỉnh",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 983,
+  "word_count": 914,
   "word_target": 1000,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-thue-xe-may-gan-ben-xe-giap-bat-cho-chuyen-ve-tinh.md",
-  "content_sha256": "2ce5b1b9f3209d868f2ba649518c9c296dbf67adfe07053276f8519f4581202f",
+  "content_sha256": "e0af0fe92fefb5e512510b0572da60d9ee58db943c96bb0ff3923ac2ae629a92",
   "matrix_row_sha256": "1cdb48f7d6a39cc5c2332d9303331628b955737bf42da526b5b70e748ac40d9f",
   "result": "PASS"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00905",
   "title": "Thuê xe máy gần ga Hà Nội: lấy xe sớm nhất lúc nào",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 978,
+  "word_count": 940,
   "word_target": 1100,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-thue-xe-may-gan-ga-ha-noi-lay-xe-som-nhat-luc-nao.md",
-  "content_sha256": "38037bdaac076b400eeef68ab9f73806d9b51d990a3003a90f933cb870e509e0",
+  "content_sha256": "3d71478d1a2677f95904ca6f9d05698ea28d975751bedd605e9ded13d94ac50e",
   "matrix_row_sha256": "a8100e5206c716f27029c1ee4e92f9b4f4c0bdf083b7c5b8308e6d8ab4ada5d7",
   "result": "PASS"
 }

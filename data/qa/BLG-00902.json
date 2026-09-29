@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00902",
   "title": "Thuê xe máy cho người từ tỉnh ra Hà Nội công tác",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1091,
+  "word_count": 1078,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nguoi-tu-tinh-ra-ha-noi-cong-tac.md",
-  "content_sha256": "ee8953229a5c7e52b34b0d81703dcd00dc3eee3b96d3c57e9ea5e0c4c829ef1b",
+  "content_sha256": "5c968f7ec0f972c5f104c8f36306bf628a3c48ae47cf40a817fe2b544a8840bf",
   "matrix_row_sha256": "31031bee88fa1564dd29861069cc9608daa3f35971c158b0de4da57c423c3fda",
   "result": "PASS"
 }

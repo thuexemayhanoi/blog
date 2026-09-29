@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00904",
   "title": "Cần xe gấp trong ngày: thuê xe máy ngay có khó không",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 964,
+  "word_count": 869,
   "word_target": 1000,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-can-xe-gap-trong-ngay-thue-xe-may-ngay-co-kho-khong.md",
-  "content_sha256": "0191140dc74f0e1985923f65c35c9a66b3f1c85ad54f26c76648d17febe1e002",
+  "content_sha256": "e2b7813e0678c8bfd74797ba4ac3c553cefeede48402d6be6ad71355384ba58d",
   "matrix_row_sha256": "284f4338145b1f5388eb96dc317ec7ada16e2c555b87aaf0d9a936ec42e66267",
   "result": "PASS"
 }

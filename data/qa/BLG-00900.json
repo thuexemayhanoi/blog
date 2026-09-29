@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00900",
   "title": "Thuê xe máy cho người mới lấy bằng A1 lần đầu",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1188,
+  "word_count": 1073,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au.md",
-  "content_sha256": "1e819e711a708dd6e86011311d5645a68f3b78c012e3be90afb12ca9a3a0b6f2",
+  "content_sha256": "189dd3edc03790a7de1078bb4e4e06d442cf7f6476a7e19f3489dd4834b41045",
   "matrix_row_sha256": "d9d864b2d0c45bf0ca5d68edfa01ea2c2ccf6b6573124253c1445caec3ee8ce7",
   "result": "PASS"
 }

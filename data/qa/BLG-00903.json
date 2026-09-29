@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00903",
   "title": "Thuê xe máy cho nhóm bạn đi phýt cuối tuần",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1148,
+  "word_count": 1134,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-thue-xe-may-cho-nhom-ban-i-phyt-cuoi-tuan.md",
-  "content_sha256": "7514268a6e1eb7ac645b09b13436d5ca92cb8020643c487a54d4fd7c0bc405f5",
+  "content_sha256": "05f28c8302e2d7f317f3a29b23f8a0b51da2c8dce0580b0a1e601f0727d9a3b2",
   "matrix_row_sha256": "d9512bcd51f50bf92b57a1e0e1e17b1da54c31176b99dc890cfda6218a5742fa",
   "result": "PASS"
 }

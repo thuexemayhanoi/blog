@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00907",
   "title": "Thuê xe máy gần bến xe Mỹ Đình: những điều cần biết",
-  "scored_at": "2026-09-29T17:04:57+00:00",
+  "scored_at": "2026-09-29T17:05:57+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -29,7 +29,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1037,
+  "word_count": 984,
   "word_target": 1100,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,7 +41,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-29-thue-xe-may-gan-ben-xe-my-inh-nhung-ieu-can-biet.md",
-  "content_sha256": "698c77773074419ee77015c40b9ad6bd811011d616e6c362767f20140d47647d",
+  "content_sha256": "dc8cfb4327d491243c846115aea475bb7fae93f3cd1b883f54b0576c71bd03ca",
   "matrix_row_sha256": "eefb556cb4c4fcbb2d100ced4306f09e42122161af7011bc9e76381f68db7a23",
   "result": "PASS"
 }
