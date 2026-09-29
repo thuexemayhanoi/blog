@@ -1,0 +1,9 @@
+{
+  "article_id": "BLG-00868",
+  "title": "Đặt xe trước bao lâu thì nên",
+  "scored_at": "2026-09-29T03:42:49+00:00",
+  "scorer": "operator-qa-deterministic-v1",
+  "checks": {},
+  "result": "NO_DRAFT",
+  "message": "không tìm thấy draft _drafts/*-at-xe-truoc-bao-lau-thi-nen.md"
+}
