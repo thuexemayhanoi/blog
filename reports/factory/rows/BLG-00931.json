@@ -1,0 +1,146 @@
+{
+  "article_id": "BLG-00931",
+  "status": "WRITING",
+  "title": "Phanh xe thuê yếu và có tiếng kêu: xử lý thế nào",
+  "intent": "Tìm cách xử lý phanh yếu trên xe thuê",
+  "primary_keyword": "phanh xe máy yếu có tiếng kêu",
+  "secondary_keywords": [
+    "phát hiện phanh yếu",
+    "kiểm tra phanh khi nhận xe"
+  ],
+  "group": "XE",
+  "taxonomy": {
+    "parent_id": "P-XE-MAY",
+    "parent_hub": "Xe máy & dòng xe",
+    "parent_hub_url": "/blog/xe-may/",
+    "child_id": "C-XE-KHAC-PHUC",
+    "child_hub": "Xử lý sự cố xe máy thuê",
+    "child_hub_url": "/blog/xe-may/xu-ly-su-co-xe/"
+  },
+  "expected_url": "/blog/xe-may/2026/09/29/phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao/",
+  "output_path": "_posts/{date}-phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao.md",
+  "draft_path": "_drafts/2026-09-29-phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao.md",
+  "canonical_url": "/blog/xe-may/2026/09/29/phanh-xe-thue-yeu-va-co-tieng-keu-xu-ly-the-nao/",
+  "internal_links_matrix": [
+    "/blog/thue-xe/nhan-tra-xe/",
+    "/blog/ky-nang/ky-nang-lai-co-ban/"
+  ],
+  "commercial_intent": "medium",
+  "cannibalization_key": "phanh xe may yeu co tieng keu",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "low",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00003",
+      "title": "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+    },
+    {
+      "id": "BLG-00006",
+      "title": "Áp suất lốp xe máy: kiểm tra thế nào và vì sao quan trọng hơn bạn nghĩ",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/"
+    },
+    {
+      "id": "BLG-00016",
+      "title": "Đèn xe và tầm nhìn khi đi xe máy ban đêm",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/"
+    },
+    {
+      "id": "BLG-00033",
+      "title": "Xe đạp điện và xe máy điện khác nhau thế nào: chọn theo nhu cầu thực tế",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/"
+    },
+    {
+      "id": "BLG-00036",
+      "title": "Sạc pin xe máy điện đúng cách",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/"
+    },
+    {
+      "id": "BLG-00037",
+      "title": "Thay nhớt định kỳ cho xe máy: kỳ hạn, dấu hiệu và ai chịu khi đi xe thuê",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/"
+    },
+    {
+      "id": "BLG-00039",
+      "title": "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/thue-honda-air-blade-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00040",
+      "title": "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/thue-honda-click-va-yamaha-mio-o-ha-noi/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 90,
+    "seo_min": 90,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "5ec89d801084bcecc22d67dcf426f3dae4a4ae13228fdf821acaea2f461f6bd6",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
