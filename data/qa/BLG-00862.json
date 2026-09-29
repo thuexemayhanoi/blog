@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-tre-duoi-bao-nhieu-tuoi-thue-xe-uoc-khong.md",
+  "source_path": "_posts/2026-09-29-tre-duoi-bao-nhieu-tuoi-thue-xe-uoc-khong.md",
   "content_sha256": "113a83c8a63c9e8409d7c12205d380280246a4374cdf4e27aaaaf25c62f95ee3",
-  "matrix_row_sha256": "55dedb2c552de880efe9e0c211e9e80993c2f0a22a1ac9fa141fd58800f41c26",
-  "result": "PASS"
+  "matrix_row_sha256": "26706ad6a0e81a2acbfb45da1f88187efae0df9e809bf5429637f507881a3899",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:35:46+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-co-phat-sinh-them-tien-nao-ngoai-gia-niem-yet-khong.md",
+  "source_path": "_posts/2026-09-29-co-phat-sinh-them-tien-nao-ngoai-gia-niem-yet-khong.md",
   "content_sha256": "cdf8422b1c1b2bf2496dd3a06d7eee268698aa4b668c4b0791f8385c71d1eacd",
-  "matrix_row_sha256": "ef1b42972ca6bbab76519a6397dccacb1fc6676f6b2c424ad108cd255a5a484e",
-  "result": "PASS"
+  "matrix_row_sha256": "c3990a4f986c90fc2a2cbd1b316aaf9339bb3303bf58bffea2a34dea3cf41f45",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:35:46+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-gia-thue-xe-may-co-gom-mu-bao-hiem-khong.md",
+  "source_path": "_posts/2026-09-29-gia-thue-xe-may-co-gom-mu-bao-hiem-khong.md",
   "content_sha256": "a60c330e40230e9e09c74e1ca7fd3c88881aaec1ead6e7d55a93ff63cd032e1e",
-  "matrix_row_sha256": "ed38045d0067107635030eba4e86cf8e8afd00422827991de31c4091d55fcaa1",
-  "result": "PASS"
+  "matrix_row_sha256": "12d660d20d784dd23dc49105dc5d73dbaf023e18363e8534b96e64f582a99043",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:35:46+00:00"
 }

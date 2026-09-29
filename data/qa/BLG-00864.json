@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-can-nhung-giay-to-gi.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-can-nhung-giay-to-gi.md",
   "content_sha256": "86b7967e26eadc8d2bc53f36a7661c3fd1edf12da10a37515f43aa289ab6f585",
-  "matrix_row_sha256": "633b6ff661b367be08705903745585375cdad9dd7d22fd86498ff5a904cf026b",
-  "result": "PASS"
+  "matrix_row_sha256": "d535d5efa7a63f8bcfeac8f2b429c5b5d24cff0974e8ed78f2a58ced33769a8f",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:35:47+00:00"
 }

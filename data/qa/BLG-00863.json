@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-thue-xe-may-theo-ngay-tien-xang-tinh-the-nao.md",
+  "source_path": "_posts/2026-09-29-thue-xe-may-theo-ngay-tien-xang-tinh-the-nao.md",
   "content_sha256": "ceb7dcafbd25c25a870dec7039aec7b3066b7e3ffed49c1a7231c8c489edcafc",
-  "matrix_row_sha256": "4b7af021adcf48a1c9695f2e323619eb09c641265fc2b57fe25021004ffa80d0",
-  "result": "PASS"
+  "matrix_row_sha256": "f1f783db4dbb7dd3dd1ce7d902129277fedf8d3879e32aa84f33cdbcdd194bf8",
+  "result": "PASS",
+  "published_at": "2026-09-29T03:35:47+00:00"
 }
