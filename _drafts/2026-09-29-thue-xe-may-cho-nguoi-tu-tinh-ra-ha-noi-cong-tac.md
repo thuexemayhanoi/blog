@@ -21,7 +21,8 @@ Nếu lịch công tác đã biết trước, hãy gọi điện đặt xe ngay 
 
 Về giá tham chiếu hiện hành, dòng xe ga phổ thông như Honda Vision có mức thuê tuần khoảng 800.000 đồng trở lên tùy thời điểm, trong khi thuê theo ngày ở khoảng 200.000 đồng, còn dòng xe số nhẹ rẻ hơn nữa với khoảng 150.000 đồng mỗi ngày. Con số chính xác luôn nên xác nhận theo bảng giá tại thời điểm thuê, vì bảng giá có thể điều chỉnh theo mùa.
 
-Một lưu ý nhỏ với người từ tỉnh lên: hãy hỏi rõ giờ mở và giờ đóng của cửa hàng trước ngày trả xe, để không rơi vào cảnh xong họp muộn mà chẳng biết gửi xe ở đâu qua đêm. Gần cửa hàng ở 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên có nhiều điểm giữ xe qua đêm, nhưng hỏi trước vẫn hơn là vừa muộn việc vừa đi tìm chỗ gửi.
+Một lưu ý nhỏ với người từ tỉnh lên: hãy hỏi rõ giờ mở và giờ đóng của cửa hàng trước ngày trả xe, để không rơi vào cảnh xong họp muộn mà 
+chẳng biết gửi xe ở đâu qua đêm. Gần cửa hàng ở 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên có nhiều điểm giữ xe qua đêm, nhưng hỏi trước vẫn hơn là vừa muộn việc vừa đi tìm chỗ gửi.
 
 ## Chọn loại xe theo lịch trình công tác
 
@@ -35,13 +36,14 @@ Trường hợp bạn đi cùng đồng nghiệp, cân nhắc thuê hai xe thay 
 
 Người từ tỉnh lên thường xuống ở một trong ba điểm: bến xe Mỹ Đình, bến xe Giáp Bát, hoặc ga Hà Nội. Với bến Mỹ Đình, quãng về khu nội thành có thể bị kẹt ở các nút giao lớn vào giờ tan tầm, nên hãy dời giờ xuống xe hoặc đi vòng qua đường vành đai để né khung đông. Với ga Hà Nội, bạn đã ở sát trung tâm, quãng về khu ở lại thường chỉ mất dưới nửa tiếng nếu không dính giờ cao điểm.
 
-Hãy mở bản đồ trước khi lên đường và ghi sẵn hai tuyến: một tuyến chính, một tuyến dự phòng khi chính bị kẹt. Người lạ đường dễ vội vàng rẽ tắt theo mách của ứng dụng rồi sa vào ngõ cụt, nên kinh nghiệm của người đi công tác là ưu tiên các trục đường lớn có làn rõ ràng, chấp nhận xa hơn một chút nhưng đỡ phải xử lý tình huống trong ngõ nhỏ.
+Hãy mở bản đồ trước khi lên đường và ghi sẵn hai tuyến: một tuyến chính, một tuyến dự phòng khi chính bị kẹt. Ngư
+ời lạ đường dễ vội vàng rẽ tắt theo mách của ứng dụng rồi sa vào ngõ cụt, nên kinh nghiệm của người đi công tác là ưu tiên các trục đường lớn có làn rõ ràng, chấp nhận xa hơn một chút nhưng đỡ phải xử lý tình huống trong ngõ nhỏ.
 
 Một mẹo nhỏ nữa là chụp lại đường đi từ cửa hàng thuê xe về chỗ ở ngay buổi đầu tiên. Chạy mấy ngày, bạn sẽ thuộc dần các góc quen và không còn phụ thuộc hoàn toàn vào định vị, thứ hay cạn pin đúng lúc bạn cần nó nhất.
 
 ## Giữ xe an toàn suốt những ngày vắng nhà
 
-Xe thuê đi công tác thường để qua đêm nhiều ngày liền, nên lúc nhận xe hãy hỏi luôn xem khách sạn hoặc nhà nghỉ bạn ở có bãi giữ xe khép kín không, và giá gửi qua đêm được tính thế nào. Nếu nơi ở không có bãi xe, hãy ưu tiên gửi ở các bãi trữ xe có người trông cả đêm, kể cả khi phải đi bộ thêm vài phút, vì để xe trên vỉa hè qua đêm ở khu phố đông là cách nhanh nhất để sáng ra mất регистрацию thời gian làm việc vì sự cố nhỏ mà đáng lẽ không có.
+Xe thuê đi công tác thường để qua đêm nhiều ngày liền, nên lúc nhận xe hãy hỏi luôn xem khách sạn hoặc nhà nghỉ bạn ở có bãi giữ xe khép kín không, và giá gửi qua đêm được tính thế nào. Nếu nơi ở không có bãi xe, hãy ưu tiên gửi ở các bãi trữ xe có người trông cả đêm, kể cả khi phải đi bộ thêm vài phút, vì để xe trên vỉa hè qua đêm ở khu phố đông là cách nhanh nhất để sáng ra mất thêm thời gian xử lý sự cố nhỏ mà đáng lẽ không có.
 
 Lúc đỗ xe giữa ngày trước tòa nhà họp, hãy dùng ổ khóa cổ và khóa bánh mà cửa hàng phát kèm, khóa kép luôn đáng hơn một chiếc khóa đơn. Đừng để lộ điện thoại hay tài liệu trên yên, cốp xe cũng nên khóa kỹ, và giữ chìa khóa riêng chìa khóa xe khỏi chùm chìa phòng ở, để mất một món vẫn còn món khác. Một thói quen nhỏ trước khi rời xe là nhìn lại một vòng: đèn đã tắt, chìa còn đó, cổ xe đã đóng.
 
@@ -49,4 +51,5 @@ Lúc đỗ xe giữa ngày trước tòa nhà họp, hãy dùng ổ khóa cổ v
 
 Buổi nhận xe, người công tác nên hỏi gọn một lượt: xăng nhận ở vạch nào và trả ở vạch nào, giờ đóng cửa là mấy giờ, nếu về trễ thì gửi xe ở đâu, và tiền đã gồm những gì. Các bước chuẩn bị giấy tờ và ký nhận được mô tả trong phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), trong đó bạn cần mang căn cước công dân và bằng lái hợp lệ. Hãy chụp lại hiện trạng xe, đặc biệt các vết trầy sẵn có, để không phải tranh cãi lúc hoàn trả.
 
-Cuối cùng, trước ngày trả xe, hãy chủ động gọi xác nhận lại giờ trả và địa điểm, đặc biệt khi bạn muốn trả sớm để kịp chuyến xe khách về tỉnh. Tổng quan các nhóm khách hàng và bài viết liên quan nằm trong mục [thuê xe theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/), còn thông tin chung về dịch vụ nằm ở trang [thuê xe máy Hà Nội](/blog/thue-xe/). Chuẩn bị trước từng bước nhỏ, chuyến công tác của bạn sẽ gọn như chạy xe nhà.
+Cuối cùng, trước ngày trả xe, hãy chủ động gọi xác nhận lại giờ trả và địa điểm, đặc biệt khi bạn muốn trả sớm để kịp chuyến xe khách về tỉnh. Tổng quan các nhóm khách hàng và bài viết liên qu
+an nằm trong mục [thuê xe theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/), còn thông tin chung về dịch vụ nằm ở trang [thuê xe máy Hà Nội](/blog/thue-xe/). Chuẩn bị trước từng bước nhỏ, chuyến công tác của bạn sẽ gọn như chạy xe nhà.
