@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-troi-nang-gat-va-say-nang-khi-chay-xe.md",
+  "source_path": "_posts/2026-09-29-troi-nang-gat-va-say-nang-khi-chay-xe.md",
   "content_sha256": "c0e29f1a7bb3acd5fb3dbd9d5b0f2b080ff882c15eaf297160e4a8f26985209d",
-  "matrix_row_sha256": "88c358e7400576d54e08d1bbb1f706ee7b114d2a44b433c0a14180b6d99b02b0",
-  "result": "PASS"
+  "matrix_row_sha256": "6590a9a3c791c50afdaacf523f931c117a4c3184e2995440cb2766bd6827bd90",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:44:46+00:00"
 }

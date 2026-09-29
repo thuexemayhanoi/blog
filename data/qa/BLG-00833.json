@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-uong-a-dam-va-uong-vung-nui.md",
+  "source_path": "_posts/2026-09-29-uong-a-dam-va-uong-vung-nui.md",
   "content_sha256": "1eeda8433eae4c349b310324bddc2f8aa67f07ed50ab99188153f61c61c0040b",
-  "matrix_row_sha256": "fffdc3d010c55d5c411592b081ae5a07a8c8e689f8efcdf8f54c1c3065ec7c68",
-  "result": "PASS"
+  "matrix_row_sha256": "995fd233cc7c6625be537a33d5585de4cd3a2e7b54b5d3f8d8b9ca486c2991f7",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:44:46+00:00"
 }

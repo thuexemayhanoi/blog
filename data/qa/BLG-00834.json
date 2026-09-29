@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-chay-xe-ban-em-trong-noi-o.md",
+  "source_path": "_posts/2026-09-29-chay-xe-ban-em-trong-noi-o.md",
   "content_sha256": "378e6216622ce45f85cf0b1be4a20bc4fbff2769e7a47dca19ae36630b9b2a46",
-  "matrix_row_sha256": "570a1c120894fc02a5790f338bd0491b9352c7cea9f99a3f58e55abc4a002308",
-  "result": "PASS"
+  "matrix_row_sha256": "d9ef5be8191aa0df81ad1d6ee81be089cbe22c2aed2bdc9e61c63696e2fd46be",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:44:46+00:00"
 }

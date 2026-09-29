@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-29-suong-mu-sang-som-tren-uong-eo.md",
+  "source_path": "_posts/2026-09-29-suong-mu-sang-som-tren-uong-eo.md",
   "content_sha256": "59159442b76293878fe4e3d2b058ddc4e2c741df6a9bc2b4d4098f07499be608",
-  "matrix_row_sha256": "549e834a7b753cb31f9ab667656ad68fa202bba373c8069ead8d89b523630a6a",
-  "result": "PASS"
+  "matrix_row_sha256": "62486ceb706561c46f0c142dd9dff6e406342a3cce08bc1f982eac256c78e330",
+  "result": "PASS",
+  "published_at": "2026-09-29T02:44:46+00:00"
 }
