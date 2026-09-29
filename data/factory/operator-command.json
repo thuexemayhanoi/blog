@@ -1,0 +1,7 @@
+{
+  "op": "qa",
+  "ids": "BLG-00815,BLG-00816,BLG-00817,BLG-00818,BLG-00819",
+  "scope": "fast",
+  "command_id": "campaign10k-resume-chunk5-qa",
+  "coordinator": "campaign-10k-round6"
+}
