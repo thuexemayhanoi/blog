@@ -13,15 +13,16 @@ child_id: C-CD-PHO-BAC
 article_id: BLG-00799
 ---
 
-Chùa Hương ở huyện Mỹ Đức là một trong những điểm du lễ đông khách nhất quanh Hà Nội: mùa hội sau tết, dòng xe từ thành phố đổ về đây mỗi sáng cuối tuần. Cung đường chỉ chừng sáu mươi ki-lô-mét, dễ chạy, nhưng để có một ngày thăm quan thoải mái, khách xe máy cần biết đúng hướng rẽ, cách đi thuyền từ bến Bến Đức vào khu di tích, và khung giờ nên xuất phát. Bài này nói từng phần đó cho chuyến từ Hà Nội lên Chùa Hương - Mỹ Đức.
+Chùa Hương ở huyện Mỹ Đức là một trong những điểm du lễ đông khách nhất quanh Hà Nội: mùa hội sau tết, dòng xe từ thành phố đổ về đây mỗi sáng cuối tuần. Quãng Hà Nội đến Chùa Hương - Mỹ Đức chỉ chừng sáu mươi ki-lô-mét, đường dễ chạy, nhưng để có một ngày thăm quan thoải mái, khách xe máy cần biết đúng hướng rẽ, cách đi thuyền từ bến Bến Đức vào khu di tích, và khung giờ nên xuất phát. Bài này nói từng phần đó cho chuyến từ Hà Nội lên Chùa Hương - Mỹ Đức.
 
-## Từ Hà Nội đến Chùa Hương: hướng đi chính
+## Chạy xe máy từ Hà Nội lên Chùa Hương - Mỹ Đức: hướng đi chính
 
 Cung chuẩn đi như sau: khách rời đô thị theo trục phía nam của quốc lộ 1A, chạy tới khu vực Vạn Điểm thuộc Thường Tín, rẽ theo đường hướng Vân Đình của Ứng Hòa, rồi tiếp tục theo đường dẫn về khu bến thuyền Bến Đức thuộc Mỹ Đức. Tổng khoảng cách chừng sáu mươi ki-lô-mét tùy điểm xuất phát, tương ứng một giờ rưỡi đến hai giờ. Đường phần lớn là đường tỉnh khá rộng, ít xe tải lớn so với các trục quốc lộ, nên khách mới chạy cũng dễ chịu.
 
 Hai điều cần để ý: khúc rẽ ở Vạn Điểm có biển chỉ dẫn nhưng giờ sáng cuối tuần xe về chùa đông, khách giảm tốc và quan sát xe phía sau trước khi rẽ; và đoạn qua Vân Đình có chợ và phố nhỏ, khách đi chậm qua khu dân cư. Càng gần bến, hai bên đường xuất hiện các bảng chỉ dẫn gửi xe và ăn uống; khách nên gửi xe tại bãi chính gần bến thuyền, vừa an toàn vừa gần lối xuống thuyền.
 
-Với khách xuất phát từ các quận phía nam hoặc tây nam thành phố, đường ra Vạn Điểm còn ngắn hơn so với khách đi từ khu trung tâm, nên khách tính giờ khởi hành theo vị trí nhà mình thay vì theo một mốc chung. Cả nhóm hẹn tại một điểm dễ nhận biết như các cây xăng lớn quanh Vạn Điểm để ghép đoàn, khỏi ai cũng phải chờ ai trước ngã rẽ đông xe.
+Với khách xuất phát từ các quận phía nam hoặc tây nam thành phố, đường ra Vạn Điểm còn ngắn hơn so với khá
+ch đi từ khu trung tâm, nên khách tính giờ khởi hành theo vị trí nhà mình thay vì theo một mốc chung. Cả nhóm hẹn tại một điểm dễ nhận biết như các cây xăng lớn quanh Vạn Điểm để ghép đoàn, khỏi ai cũng phải chờ ai trước ngã rẽ đông xe.
 
 ## Từ Bến Đức vào khu di tích bằng thuyền
 
@@ -35,7 +36,8 @@ Khách nên để đồ đắt tiền theo người, mua vé và giữ phiếu c
 
 Mùa hội chùa Hương bắt đầu sau tết nguyên đán và kéo dài khoảng ba tháng, trong đó các cuối tuần từ tháng giêng tới tháng ba âm lịch là các khung đông nhất: xe máy, xe buýt và khách vãng lai đổ về bến từ sáng sớm. Khách đi mùa này nên xuất phát từ Hà Nội lúc sáu giờ hoặc sáu rưỡi sáng để tới bến trước tám giờ, nhận thuyền sớm và có nguyên ngày cho phần di tích. Giữa tuần vắng hơn hẳn, hợp khách rảnh ngày thường hoặc nhóm muốn yên tĩnh.
 
-Ngoài mùa hội, khu di tích vẫn mở đón khách nhưng vắng: mùa hè nắng lên cao, khách mang mũ và nước; những tháng cuối năm nước suối tụ lại, thuyền chạy theo lịch thưa hơn, khách nên hỏi trước ngày đi. Trời mưa lớn làm lối bộ trơn và màu suối đục, khách xem bản tin thời tiết trước ngày lên đường và linh hoạt đổi buổi nếu trùng đợt mưa rào dài.
+Ngoài mùa hội, khu di tích vẫn mở đón khách nhưng vắng: mùa hè nắng lên cao, khách mang mũ và nước; những tháng cuối năm n
+ước suối tụ lại, thuyền chạy theo lịch thưa hơn, khách nên hỏi trước ngày đi. Trời mưa lớn làm lối bộ trơn và màu suối đục, khách xem bản tin thời tiết trước ngày lên đường và linh hoạt đổi buổi nếu trùng đợt mưa rào dài.
 
 Một kinh nghiệm nhỏ mùa hội: khách tới bến sau mười giờ sáng thì phần động thường rất đông, nên đi thăm các chùa ngoài trước rồi sau hai giờ chiều mới vào động, khi các đoàn sáng bắt đầu rời khu. Chiều muộn, các lối bộ vắng và mát, hợp khách đi chậm; khách chỉ cần canh giờ thuyền cuối trong ngày để khỏi bị kẹt lại bến.
 
