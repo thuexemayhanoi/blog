@@ -27,6 +27,7 @@ import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+print('::notice::[diag] pubflow: start', flush=True)
 from test_qa_modes import (FxTestCase, cp_json, first_writing, make_draft,
                             matrix_rows)
 
@@ -123,4 +124,11 @@ class SuccessFlowTest(FxTestCase):
 
 
 if __name__ == '__main__':
-    unittest.main(verbosity=2)
+    loader = unittest.TestLoader()
+    suite = loader.loadTestsFromModule(sys.modules['__main__'])
+    result = unittest.TextTestRunner(verbosity=2).run(suite)
+    if not result.wasSuccessful():
+        for t, tb in (result.errors + result.failures):
+            print('::notice::[diag] pubflow %s: %s'
+                  % (t, tb[-1400:]), flush=True)
+        sys.exit(1)
