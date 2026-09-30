@@ -241,6 +241,7 @@ class VerifyStepsTest(unittest.TestCase):
             'scripts/factory/tests/test_qa_modes.py',
             'scripts/factory/tests/test_publish_flow.py',
             'scripts/factory/tests/test_push_rebase_overlap.py',
+            'scripts/factory/tests/test_refill_semantics.py',
         ]))
         self.assertIn(['scripts/factory/capacity-audit.py'], steps)
         self.assertIn(['scripts/factory/queue.py', '--stats'], steps)

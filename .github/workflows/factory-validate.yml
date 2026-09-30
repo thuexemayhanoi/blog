@@ -102,6 +102,8 @@ jobs:
           python3 scripts/factory/tests/test_topic_universe.py
           python3 scripts/factory/tests/test_link_integrity.py
           python3 scripts/factory/tests/test_built_links.py
+          python3 scripts/factory/tests/test_refill_safety.py
+          python3 scripts/factory/tests/test_refill_semantics.py
 
       - name: Listing pages must match generator (no drift)
         run: |

@@ -59,7 +59,7 @@ def tree_hash(path):
 
 
 def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None,
-                  break_seed=False):
+                  break_seed=False, with_sources=False):
     tmp = tempfile.mkdtemp(prefix='refill-safety-')
     work = os.path.join(tmp, 'repo')
     os.makedirs(os.path.join(work, 'data/state'))
@@ -73,6 +73,16 @@ def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None,
               'data/content-matrix.csv',
               'scripts/factory/refill-queue.py'):
         shutil.copy(os.path.join(ROOT, p), os.path.join(work, p))
+    if with_sources:
+        # mode_refill (hop dong moi) tai sinh matrix ngay sau khi ghi
+        # seed: fixture can generate-matrix.py + nguon cua no.
+        for sp in ('data/content-taxonomy.json',
+                   'data/content-inventory.csv',
+                   'scripts/factory/generate-matrix.py'):
+            shutil.copy(os.path.join(ROOT, sp), os.path.join(work, sp))
+        shutil.copytree(os.path.join(ROOT, '_posts'),
+                        os.path.join(work, '_posts'))
+        os.makedirs(os.path.join(work, 'reports/factory'))
     if mutate_txn:
         p = os.path.join(work, 'data/state/transaction.json')
         txn = json.load(open(p, encoding='utf-8'))
@@ -219,7 +229,7 @@ def main():
     # Danh dau: doc trang thai lock TU NGAY GIUA section duoc bao ve
     # (sau acquire, truoc release) bang cach don sach seed json dump.
     w5 = make_fixture(head_seq=['abc123', 'abc123'],
-                      ledger_candidates=[])
+                      with_sources=True)
     rq5 = load_rq(w5)
     cap5 = json.load(open(os.path.join(
         w5, 'data/factory-capacity.json'), encoding='utf-8'))

@@ -27,7 +27,12 @@ Ops whitelist:
   recover                                — phục hồi transaction treo theo RECOVERY.md
   requeue --ids ID1                       — REPAIR/FAIL -> WRITING (tôn trọng budget)
   verify [--scope fast|deep|full]        — validate + capacity-audit + queue + tests
-  refill                                 — chỉ khi dưới ngưỡng, chạy refill-queue.py
+  refill                                 — chỉ khi dưới ngưỡng: materialize ledger qua
+                                          refill-queue.py --refill --yes, tái sinh
+                                          matrix, cập nhật checkpoint; SUCCESS bắt
+                                          buộc tạo hàng PLANNED thật (semantic), hết
+                                          candidate STAGED -> NEEDS_TOPIC_EXPANSION
+                                          (exit 1, KHÔNG filler)
   reports                                — sinh reports/factory/*.md chuẩn
 
 QA SCOPE (docs/PROC-PUBLISH.md "QA modes" — sản xuất thủ công, KHÔNG tự lặp):
@@ -1130,6 +1135,7 @@ VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
     'scripts/factory/tests/test_qa_modes.py',
     'scripts/factory/tests/test_publish_flow.py',
     'scripts/factory/tests/test_push_rebase_overlap.py',
+    'scripts/factory/tests/test_refill_semantics.py',
 ]
 
 
@@ -1168,30 +1174,110 @@ def op_verify(args):
 
 
 def op_refill(args):
+    """Refill TẠO WORK THẬT (semantic contract, docs/PROC-PUBLISH.md).
+
+    Bug đã sửa 2026-09-30: bản trước chỉ chạy 'refill-queue.py' (không đối
+    số -> --plan, read-only) rồi trả 0 — workflow báo SUCCESS nhưng queue
+    không bao giờ có hàng PLANNED mới. Hợp đồng mới:
+      - SUCCESS bắt buộc: planned tăng, matrix tăng, seed tăng,
+        next_claimable_id != null, transaction inactive.
+      - Queue cần refill nhưng ledger hết candidate STAGED ->
+        NEEDS_TOPIC_EXPANSION (return 1, actionable; KHÔNG tạo filler).
+      - ĐÚNG MỘT LOCK OWNER: refill-queue.py --refill --yes tự acquire
+        sentinel O_EXCL bên trong; op KHÔNG giữ lock quanh lệnh này
+        (nested lock cùng sentinel = self-deadlock). Phần đuôi op
+        (checkpoint + reports) acquire lại SAU khi refill-queue release.
+    """
     r = subprocess.run([sys.executable, 'scripts/factory/queue.py',
                          '--needs-refill'], capture_output=True, text=True)
     print(r.stdout.strip())
     if r.returncode != 0:
         print('refill: chưa đến ngưỡng — KHÔNG refill (lazy capacity).')
         return 0
-    _txn, _cp, rows = preflight()
-    # refill-queue.py tự giữ khóa atomic riêng (O_EXCL trên cùng sentinel
-    # data/state/writer-lock.active) cho toàn bộ phase materialize + gate
-    # + HEAD re-check — KHÔNG bọc with_lock quanh subprocess: hai lớp cùng
-    # sentinel sẽ tự khóa chéo (FileExistsError) và refill luôn FAIL.
-    rr = subprocess.run([sys.executable, 'scripts/factory/refill-queue.py', '--refill', '--yes'],
+    _txn, cp, rows = preflight()
+    ledger = read_json('data/state/refill-candidates.json', {}) or {}
+    staged = ledger.get('candidates') or []
+    planned_before = sum(1 for x in rows if x['status'] == 'PLANNED')
+    matrix_rows_before = len(rows)
+    seed = read_json('data/state/matrix-seed.json', {}) or {}
+    seed_rows_before = sum(
+        len((spec or {}).get('rows', []))
+        for spec in (seed.get('children') or {}).values())
+    if not staged:
+        print('NEEDS_TOPIC_EXPANSION: queue cần refill nhưng ledger không '
+              'còn candidate STAGED — expand/stage topic thật (qua gate '
+              'G1-G8) trước khi refill lại. KHÔNG tạo filler, KHÔNG báo '
+              'SUCCESS giả.')
+        # an toàn: nếu đã có hàng PLANNED nhưng checkpoint chưa trỏ
+        # next_claimable (phần đuôi run trước đó dở dang), trỏ lại để
+        # writer tiếp tục — không mất việc đã materialize.
+        planned_now = [x['id'] for x in rows if x['status'] == 'PLANNED']
+        if planned_now and not cp.get('next_claimable_id'):
+            release = with_lock('operator-refill-%s' % uuid.uuid4().hex[:8])
+            try:
+                update_checkpoint(cp, rows,
+                                  {'next_claimable_id': planned_now[0]})
+            finally:
+                release()
+        return 1
+    # ĐÚNG MỘT LOCK OWNER: refill-queue materialize (seed + tái sinh matrix
+    # + ledger lifecycle STAGED->MATERIALIZED) dưới khóa của nó; op KHÔNG
+    # giữ khóa quanh lệnh này.
+    rr = subprocess.run([sys.executable,
+                         'scripts/factory/refill-queue.py',
+                         '--refill', '--yes'],
                         capture_output=True, text=True)
     print(rr.stdout[-2000:])
     if rr.returncode != 0:
-        print('refill: refill-queue.py FAIL — dừng.')
+        print(rr.stderr[-800:])
+        print('refill: refill-queue.py FAIL — DỪNG, KHÔNG khai thành công.')
         return 1
-    # refill them hang PLANNED -> matrix-report/doi dem phai tai sinh
+    # refill-queue đã release khóa của nó; op acquire lại cho phần đuôi
+    # (checkpoint + reports) — vẫn đúng một owner tại mỗi thời điểm.
     holder = 'operator-refill-%s' % uuid.uuid4().hex[:8]
     release = with_lock(holder)
     try:
+        rows_after = load_matrix()
+        planned_after = [x['id'] for x in rows_after
+                         if x['status'] == 'PLANNED']
+        seed_after = read_json('data/state/matrix-seed.json', {}) or {}
+        seed_rows_after = sum(
+            len((spec or {}).get('rows', []))
+            for spec in (seed_after.get('children') or {}).values())
+        txn_after = read_json(TXN, {}) or {}
+        # checkpoint: counts mới + next_claimable_id (work mới claim được)
+        update_checkpoint(cp, rows_after,
+                          {'next_claimable_id':
+                           (planned_after[0] if planned_after
+                            else cp.get('next_claimable_id'))})
         if run_reports_checked('refill') != 0:
             return 1
-        return validate_or_stop('refill')
+        if validate_or_stop('refill') != 0:
+            return 1
+        # SEMANTIC POSTCONDITION: SUCCESS chỉ được phép khi work thật được
+        # tạo (mục tiêu cuối: không bao giờ còn SUCCESS + planned không
+        # tăng + next_claimable=null).
+        ok = (len(planned_after) > planned_before
+              and len(rows_after) > matrix_rows_before
+              and seed_rows_after > seed_rows_before
+              and cp.get('next_claimable_id')
+              and not txn_after.get('active'))
+        if not ok:
+            print('REFILL FAIL: semantic postcondition không đạt '
+                  '(planned %d->%d, matrix %d->%d, seed %d->%d, '
+                  'next_claimable=%r, txn_active=%r) — KHÔNG khai thành '
+                  'công.' % (planned_before, len(planned_after),
+                             matrix_rows_before, len(rows_after),
+                             seed_rows_before, seed_rows_after,
+                             cp.get('next_claimable_id'),
+                             txn_after.get('active')))
+            return 1
+        print('refill: materialize OK — planned %d->%d, matrix %d->%d, '
+              'seed %d->%d, next_claimable_id=%s'
+              % (planned_before, len(planned_after), matrix_rows_before,
+                 len(rows_after), seed_rows_before, seed_rows_after,
+                 cp.get('next_claimable_id')))
+        return 0
     finally:
         release()
 

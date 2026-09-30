@@ -51,6 +51,7 @@ import csv
 import json
 import os
 import re
+import subprocess
 import sys
 import unicodedata
 
@@ -577,10 +578,20 @@ def mode_refill(cap, tax, rows, ledger):
       5. re-read HEAD; khac START_HEAD -> release + STOP
       6. chay lai gate; loi -> release + STOP
       7. mutate seed; moi exception -> release (finally)
+      8. tai sinh matrix (generate-matrix.py) VAN GIU KHOA; loi -> FAIL
+         (KHONG mark MATERIALIZED — candidate con STAGED de retry)
+      9. ledger lifecycle: STAGED -> MATERIALIZED (idempotent;
+         candidate da materialize khong bao gio bi coi la chua dung)
     """
     if '--yes' not in sys.argv:
         print('REFILL (materialize) can --yes (operator phe duyet)')
         return 2
+    if not ledger.get('candidates'):
+        print('REFILL TU CHOI: ledger khong con candidate STAGED — '
+              'NEEDS_TOPIC_EXPANSION: expand/stage topic THAT (qua '
+              'gate G1-G8) truoc khi refill lai. KHONG tao filler, '
+              'KHONG bao SUCCESS gia.')
+        return 1
     start_head = git_head()
     if not start_head:
         print('REFILL TU CHOI: khong doc duoc git HEAD (khong o repo git) — '
@@ -655,8 +666,50 @@ def mode_refill(cap, tax, rows, ledger):
         # 9. validate mutation: seed parse lai duoc va children ok
         json.load(open(SEED_PATH, encoding='utf-8'))
         print('REFILL: +%d rows vao matrix-seed' % added)
-        print('BUOC KE: chay generate-matrix.py roi commit matrix + seed + '
-              'bao cao')
+        # 10. TAI SINH MATRIX (van giu khoa): refill chi duoc phep
+        # thanh cong khi hang moi thuc su xuat hien trong matrix voi
+        # status PLANNED (muc tieu: KHONG BAO GIO con SUCCESS +
+        # planned khong tang).
+        planned_before = sum(1 for r in rows if r['status'] == 'PLANNED')
+        gm = subprocess.run([sys.executable,
+                             'scripts/factory/generate-matrix.py'],
+                            capture_output=True, text=True)
+        print(gm.stdout[-1500:])
+        if gm.returncode != 0:
+            print('REFILL FAIL: generate-matrix.py FAIL — KHONG mark '
+                  'MATERIALIZED (candidate con STAGED de retry sau khi '
+                  'sua nguyen nhan).')
+            print(gm.stderr[-800:])
+            return 1
+        planned_after = sum(1 for r in load_matrix()
+                            if r['status'] == 'PLANNED')
+        if added > 0 and planned_after <= planned_before:
+            print('REFILL FAIL: matrix khong co hang PLANNED moi '
+                  '(planned %d -> %d) — KHONG khai SUCCESS gia.'
+                  % (planned_before, planned_after))
+            return 1
+        # 11. LEDGER LIFECYCLE (idempotent): STAGED -> MATERIALIZED.
+        # Candidate da materialize khong bao gio bi coi la chua dung;
+        # refill lan sau TU CHOI neu khong co candidate STAGED moi
+        # (chong duplicate seed/matrix/slug/canonical/intent).
+        materialized = ledger.setdefault('materialized', [])
+        seen_ids = set(m.get('candidate_id') for m in materialized)
+        for c in ledger['candidates']:
+            if c.get('candidate_id') in seen_ids:
+                continue
+            mrec = {k: v for k, v in c.items() if k != '_cat'}
+            mrec['materialized_at'] = now_iso()
+            mrec['materialized_head'] = start_head
+            materialized.append(mrec)
+            seen_ids.add(c.get('candidate_id'))
+        ledger['candidates'] = []
+        ledger.setdefault('_meta', {})['status'] = 'MATERIALIZED'
+        ledger['_meta']['materialized_at'] = now_iso()
+        _write_json_atomic(LEDGER_PATH, ledger)
+        print('REFILL MATERIALIZED: %d candidate STAGED -> MATERIALIZED '
+              '(seed +%d rows, matrix planned %d -> %d)'
+              % (len(ledger['materialized']), added, planned_before,
+                 planned_after))
         return 0
     finally:
         # 12. nha khoa DAM BAO (moi exit path thanh cong/loi/exception)

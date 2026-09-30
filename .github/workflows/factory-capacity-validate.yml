@@ -79,6 +79,11 @@ jobs:
           set -e
           python3 scripts/factory/tests/test_refill_safety.py
 
+      - name: Refill semantic materialization tests (hermetic, temp fixture)
+        run: |
+          set -e
+          python3 scripts/factory/tests/test_refill_semantics.py
+
       - name: Working tree must be unchanged after dry-run
         run: |
           set -e
@@ -103,6 +108,7 @@ jobs:
             echo "- Refill idempotency: PASS"
             echo "- Collision selftest: PASS"
             echo "- Lock-safety suite: PASS"
+            echo "- Refill semantics suite: PASS"
             echo "- Dry-run read-only: PASS"
             echo "- Sitemap 10K plan: PASS"
             echo "- Validation workflow: READ-ONLY (khong commit ve main)"

@@ -175,7 +175,20 @@ jobs:
 
       - name: op refill
         if: env.OP == 'refill'
-        run: python3 scripts/factory/factory-operator.py refill
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py refill
+          # SEMANTIC GUARD: op refill chi duoc phep SUCCESS khi that su
+          # co hang PLANNED moi (muc tieu: KHONG BAO GIO con SUCCESS +
+          # PLANNED=0 + next_claimable=null). Neu ledger het candidate
+          # STAGED, operator tra NEEDS_TOPIC_EXPANSION (exit 1) —
+          # workflow FAIL chu ro, KHONG SUCCESS gia.
+          PLANNED=$(python3 -c "import csv; rows = list(csv.DictReader(open('data/content-matrix.csv', encoding='utf-8'))); print(sum(1 for r in rows if r['status'] == 'PLANNED'))")
+          if [ "$PLANNED" -le 0 ]; then
+            echo "::error::op refill ket thuc nhung PLANNED=0 — semantic FAIL (queue khong duoc nap hang moi); xem log operator va refill-candidates ledger."
+            exit 1
+          fi
+          echo "OK: op refill semantic — PLANNED=$PLANNED hang moi claim duoc"
 
       - name: op reports
         if: env.OP == 'reports'

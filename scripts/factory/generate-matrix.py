@@ -239,6 +239,42 @@ def main():
             rows.append(row)
             next_id += 1
 
+    # ---------------- id ổn định theo nội dung (fix refill 2026-09-30)
+    # Id theo vị trí sinh làm HÀNG CŨ TRƯỢT id khi seed nối thêm hàng
+    # vào child giữa danh mục (candidate refill chen vào child đã có):
+    # hàng sau vị trí chén nhận id của hàng khác → bước giữ trạng thái
+    # theo id gán status PUBLISHED/date nhầm sang hàng khác. Giờ đây:
+    #   - hàng tái sinh giữ id cũ theo title chuẩn hóa (title factory
+    #     là duy nhất — chống trùng đã kiểm ở dưới);
+    #   - hàng mới (refill) nhận id mới nối sau id factory lớn nhất
+    #     trong file cũ — KHÔNG recycle id đã dùng.
+    # Không có file cũ (lần sinh đầu) → giữ id theo vị trí như cũ.
+    if os.path.exists(OUT_PATH):
+        with open(OUT_PATH, encoding='utf-8', newline='') as f:
+            _prev = list(csv.DictReader(f))
+        prev_by_title = {}
+        prev_max = legacy_n
+        for o in _prev:
+            if not o['source'].startswith('planned:'):
+                continue
+            t = norm(o['title'])
+            if t and t not in prev_by_title:
+                prev_by_title[t] = o['id']
+            if o['id'].startswith('BLG-'):
+                try:
+                    prev_max = max(prev_max, int(o['id'][4:]))
+                except ValueError:
+                    pass
+        nxt = prev_max + 1
+        for r in rows:
+            if r['source'].startswith('planned:'):
+                t = norm(r['title'])
+                if t in prev_by_title:
+                    r['id'] = prev_by_title[t]
+                else:
+                    r['id'] = 'BLG-%05d' % nxt
+                    nxt += 1
+
     # ---------------- chống trùng toàn matrix
     errors = []
     seen_ids, seen_slug, seen_out, seen_canon = {}, {}, {}, {}
