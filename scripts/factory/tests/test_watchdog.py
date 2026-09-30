@@ -105,6 +105,33 @@ def set_checkpoint_age(work, age_h):
     write_json(work, 'data/state/checkpoint.json', cp)
 
 
+def claim_some_work(work, n=2):
+    """Fixture HERMETIC: tự nhận n hàng PLANNED -> WRITING + đặt
+    in_progress_chunk trong bản sao tạm — KHÔNG phụ thuộc trạng thái
+    production (queue thật có thể rỗng sau khi publish xong chunk)."""
+    p = os.path.join(work, 'data/content-matrix.csv')
+    rows = list(csv.DictReader(open(p, encoding='utf-8')))
+    claimed = []
+    for r in rows:
+        if len(claimed) >= n:
+            break
+        if r['status'] == 'PLANNED':
+            r['status'] = 'WRITING'
+            claimed.append(r['id'])
+    if not claimed:
+        raise AssertionError('fixture cần ít nhất 1 hàng PLANNED trong bản sao')
+    with open(p, 'w', encoding='utf-8', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=list(rows[0].keys()),
+                           lineterminator='\n')
+        w.writeheader()
+        w.writerows(rows)
+    cp = read_json(work, 'data/state/checkpoint.json')
+    cp['in_progress_chunk'] = claimed
+    cp['updated_at'] = NOW
+    write_json(work, 'data/state/checkpoint.json', cp)
+    return claimed
+
+
 def release_all_work(work):
     """Fixture: trả mọi hàng đang dở về PLANNED — queue rỗng cho test idle."""
     p = os.path.join(work, 'data/content-matrix.csv')
@@ -150,6 +177,8 @@ class WatchdogStateTest(unittest.TestCase):
     def test_02_healthy_idle_with_claimed_rows_but_fresh_state(self):
         # hàng WRITING còn (giữa 2 lệnh operator) nhưng checkpoint tươi
         # -> không kết tội stall: đây là nhịp nghỉ bình thường của writer.
+        # Fixture tự claim (hermetic) — không phụ thuộc queue production.
+        claim_some_work(self.work)
         set_checkpoint_age(self.work, 0)
         r = run_watchdog(self.work)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
@@ -182,6 +211,7 @@ class WatchdogStateTest(unittest.TestCase):
         self.assertEqual(state_of(r)['state'], 'HEALTHY_ACTIVE')
 
     def test_07_stale_lock_with_unfinished_work(self):
+        claim_some_work(self.work)
         set_lock(self.work, True, age_h=3)         # ngưỡng 2h + còn WRITING
         r = run_watchdog(self.work)
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
@@ -204,12 +234,14 @@ class WatchdogStateTest(unittest.TestCase):
 
     def test_09_stalled_active_chunk_abandoned(self):
         # còn WRITING, không lock/txn, checkpoint im lặng 7h (ngưỡng 6h)
+        claim_some_work(self.work)
         set_checkpoint_age(self.work, 7)
         r = run_watchdog(self.work)
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
         self.assertEqual(state_of(r)['state'], 'STALLED_ACTIVE')
 
     def test_10_stale_checkpoint_with_work(self):
+        claim_some_work(self.work)
         set_checkpoint_age(self.work, 25)          # ngưỡng 24h
         r = run_watchdog(self.work)
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
