@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-chay-xe-quanh-ho-tay-luc-hoang-hon-cung-uong-va-an-toan.md",
+  "source_path": "_posts/2026-09-30-chay-xe-quanh-ho-tay-luc-hoang-hon-cung-uong-va-an-toan.md",
   "content_sha256": "cf97d9d88e130258bbf95c82000e60aa70659b21b4dd43b58c5d48130ce7e018",
-  "matrix_row_sha256": "af71ae890501cae4438b6b22cc1ffe0a3d2d6b1ea3f52209bf296fc79c88f004",
-  "result": "PASS"
+  "matrix_row_sha256": "1adc6cbeb94a48ef1a5a1179d1cc6ffe26943e6ebe4d4aa191726d5da891242e",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:36:10+00:00"
 }

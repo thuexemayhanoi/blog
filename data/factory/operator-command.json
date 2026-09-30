@@ -1,7 +1,0 @@
-{
-  "op": "publish",
-  "ids": "BLG-00953,BLG-00954,BLG-00955,BLG-00956,BLG-00957",
-  "scope": "fast",
-  "command_id": "campaign10k-chunk28-publish",
-  "coordinator": "operator-handoff"
-}

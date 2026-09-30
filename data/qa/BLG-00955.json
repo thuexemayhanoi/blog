@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat.md",
+  "source_path": "_posts/2026-09-30-i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat.md",
   "content_sha256": "6c17e70c2cfabbb3246092e656a187f70be9633ac2a7cd7dfdf76f177f3db4e7",
-  "matrix_row_sha256": "f2fcd0bca353c92ae31c0f916aac77376b0b61ec33e036d51d4fe307e03f52d2",
-  "result": "PASS"
+  "matrix_row_sha256": "20f580751fda7da25a1858f79103e22a5a66f7eb2dc559ef10e2da256e388f4f",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:36:10+00:00"
 }

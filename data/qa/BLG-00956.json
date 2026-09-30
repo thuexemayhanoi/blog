@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-phuot-trang-an-cuoi-tuan-bang-xe-may-tu-ha-noi.md",
+  "source_path": "_posts/2026-09-30-phuot-trang-an-cuoi-tuan-bang-xe-may-tu-ha-noi.md",
   "content_sha256": "426b42d68fae4d2a1e62359bfa50b050f0746c2828be4f7270785350d86d7e82",
-  "matrix_row_sha256": "2aef68a8fb48feef8c68e4e1574e4d9d6f639cedc1da5c28a3b6a888b1b6d983",
-  "result": "PASS"
+  "matrix_row_sha256": "650129d60b99b5196036f0da24c561d206f4168a08bf729fa69a060ff9c71e28",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:36:10+00:00"
 }

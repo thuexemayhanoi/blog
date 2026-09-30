@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-i-xe-may-tham-bao-tang-dan-toc-hoc-viet-nam.md",
+  "source_path": "_posts/2026-09-30-i-xe-may-tham-bao-tang-dan-toc-hoc-viet-nam.md",
   "content_sha256": "2d13805c545605fe767aa433578b35c324a27d38fbedcee26de4926b43feff23",
-  "matrix_row_sha256": "d14e1f3ea8c8442be8c8f251127f2279e9565723a7679e671f9b5d9e86c63db5",
-  "result": "PASS"
+  "matrix_row_sha256": "bdf5661d1b99656272978ee5da2252edc1bc1d5fb985eeb97b4c5a44b0a2c83e",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:36:10+00:00"
 }

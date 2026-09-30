@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-chay-xe-may-i-chua-huong-cuoi-tuan.md",
+  "source_path": "_posts/2026-09-30-chay-xe-may-i-chua-huong-cuoi-tuan.md",
   "content_sha256": "cda3fd9977c28741183981523ac4a0a34a649e12fc5cdcfe389fad45c3d19c7e",
-  "matrix_row_sha256": "f4fd4f20185a583f6606d9066b739766825568e713ef3afc25c86430fd3ec54e",
-  "result": "PASS"
+  "matrix_row_sha256": "2553194651f4cae3f0e5a43c9e9c432dd6a3bad624067565c2552ce48c742002",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:36:10+00:00"
 }
