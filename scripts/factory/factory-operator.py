@@ -1175,16 +1175,20 @@ def op_refill(args):
         print('refill: chưa đến ngưỡng — KHÔNG refill (lazy capacity).')
         return 0
     _txn, _cp, rows = preflight()
+    # refill-queue.py tự giữ khóa atomic riêng (O_EXCL trên cùng sentinel
+    # data/state/writer-lock.active) cho toàn bộ phase materialize + gate
+    # + HEAD re-check — KHÔNG bọc with_lock quanh subprocess: hai lớp cùng
+    # sentinel sẽ tự khóa chéo (FileExistsError) và refill luôn FAIL.
+    rr = subprocess.run([sys.executable, 'scripts/factory/refill-queue.py', '--refill', '--yes'],
+                        capture_output=True, text=True)
+    print(rr.stdout[-2000:])
+    if rr.returncode != 0:
+        print('refill: refill-queue.py FAIL — dừng.')
+        return 1
+    # refill them hang PLANNED -> matrix-report/doi dem phai tai sinh
     holder = 'operator-refill-%s' % uuid.uuid4().hex[:8]
     release = with_lock(holder)
     try:
-        rr = subprocess.run([sys.executable, 'scripts/factory/refill-queue.py', '--refill', '--yes'],
-                            capture_output=True, text=True)
-        print(rr.stdout[-2000:])
-        if rr.returncode != 0:
-            print('refill: refill-queue.py FAIL — dừng.')
-            return 1
-        # refill them hang PLANNED -> matrix-report/doi dem phai tai sinh
         if run_reports_checked('refill') != 0:
             return 1
         return validate_or_stop('refill')
