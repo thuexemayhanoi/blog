@@ -3,1194 +3,13 @@
     "note": "Refill staging ledger. Candidates STAGED, chua materialize vao matrix. Duyet gate boi refill-queue.py --verify. 2026-09-30: stage them 66 candidate that (refill-2026-09-30) sau khi ledger het STAGED — NEEDS_TOPIC_EXPANSION.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "STAGED",
+    "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-09-30T01:13:25+00:00",
+    "materialized_at": "2026-09-30T18:45:31+00:00",
     "staged_at": "2026-09-30T17:05:00+00:00"
   },
-  "candidates": [
-    {
-      "candidate_id": "CAND-2026-09-30-001",
-      "child_id": "C-DIEM-DEN",
-      "title": "Đến Chợ Đồng Xuân bằng xe máy: gửi xe và đường đi",
-      "intent": "Biết đường đi và chỗ gửi xe khi đến Chợ Đồng Xuân",
-      "kw": "đến Chợ Đồng Xuân bằng xe máy",
-      "kw2": [
-        "gửi xe Chợ Đồng Xuân",
-        "đường đi Chợ Đồng Xuân"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-002",
-      "child_id": "C-DIEM-DEN",
-      "title": "Kinh nghiệm ghé thăm Chợ Đồng Xuân nửa ngày",
-      "intent": "Lên kế hoạch nửa ngày tham quan Chợ Đồng Xuân",
-      "kw": "kinh nghiệm đi Chợ Đồng Xuân",
-      "kw2": [
-        "tham quan Chợ Đồng Xuân",
-        "lịch trình Chợ Đồng Xuân"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-003",
-      "child_id": "C-DIEM-DEN",
-      "title": "Những lưu ý khi chạy xe quanh Chợ Đồng Xuân",
-      "intent": "Biết lưu ý giao thông quanh khu vực Chợ Đồng Xuân",
-      "kw": "lưu ý chạy xe gần Chợ Đồng Xuân",
-      "kw2": [
-        "giao thông quanh Chợ Đồng Xuân",
-        "đường quanh Chợ Đồng Xuân đông"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/",
-        "/blog/ky-nang/tinh-huong-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy tham quan",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-004",
-      "child_id": "C-DIEM-DEN",
-      "title": "Đến Nhà thờ Lớn Hà Nội bằng xe máy: gửi xe và đường đi",
-      "intent": "Biết đường đi và chỗ gửi xe khi đến Nhà thờ Lớn Hà Nội",
-      "kw": "đến Nhà thờ Lớn Hà Nội bằng xe máy",
-      "kw2": [
-        "gửi xe Nhà thờ Lớn Hà Nội",
-        "đường đi Nhà thờ Lớn Hà Nội"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-005",
-      "child_id": "C-DIEM-DEN",
-      "title": "Kinh nghiệm ghé thăm Nhà thờ Lớn Hà Nội nửa ngày",
-      "intent": "Lên kế hoạch nửa ngày tham quan Nhà thờ Lớn Hà Nội",
-      "kw": "kinh nghiệm đi Nhà thờ Lớn Hà Nội",
-      "kw2": [
-        "tham quan Nhà thờ Lớn Hà Nội",
-        "lịch trình Nhà thờ Lớn Hà Nội"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-006",
-      "child_id": "C-DIEM-DEN",
-      "title": "Những lưu ý khi chạy xe quanh Nhà thờ Lớn Hà Nội",
-      "intent": "Biết lưu ý giao thông quanh khu vực Nhà thờ Lớn Hà Nội",
-      "kw": "lưu ý chạy xe gần Nhà thờ Lớn Hà Nội",
-      "kw2": [
-        "giao thông quanh Nhà thờ Lớn Hà Nội",
-        "đường quanh Nhà thờ Lớn Hà Nội đông"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/",
-        "/blog/ky-nang/tinh-huong-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy tham quan",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-007",
-      "child_id": "C-DIEM-DEN",
-      "title": "Đến Bảo tàng Hỏa Lò bằng xe máy: gửi xe và đường đi",
-      "intent": "Biết đường đi và chỗ gửi xe khi đến Bảo tàng Hỏa Lò",
-      "kw": "đến Bảo tàng Hỏa Lò bằng xe máy",
-      "kw2": [
-        "gửi xe Bảo tàng Hỏa Lò",
-        "đường đi Bảo tàng Hỏa Lò"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-008",
-      "child_id": "C-DIEM-DEN",
-      "title": "Kinh nghiệm ghé thăm Bảo tàng Hỏa Lò nửa ngày",
-      "intent": "Lên kế hoạch nửa ngày tham quan Bảo tàng Hỏa Lò",
-      "kw": "kinh nghiệm đi Bảo tàng Hỏa Lò",
-      "kw2": [
-        "tham quan Bảo tàng Hỏa Lò",
-        "lịch trình Bảo tàng Hỏa Lò"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-009",
-      "child_id": "C-DIEM-DEN",
-      "title": "Những lưu ý khi chạy xe quanh Bảo tàng Hỏa Lò",
-      "intent": "Biết lưu ý giao thông quanh khu vực Bảo tàng Hỏa Lò",
-      "kw": "lưu ý chạy xe gần Bảo tàng Hỏa Lò",
-      "kw2": [
-        "giao thông quanh Bảo tàng Hỏa Lò",
-        "đường quanh Bảo tàng Hỏa Lò đông"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/",
-        "/blog/ky-nang/tinh-huong-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy tham quan",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-010",
-      "child_id": "C-DIEM-DEN",
-      "title": "Đến Nhà hát Lớn Hà Nội bằng xe máy: gửi xe và đường đi",
-      "intent": "Biết đường đi và chỗ gửi xe khi đến Nhà hát Lớn Hà Nội",
-      "kw": "đến Nhà hát Lớn Hà Nội bằng xe máy",
-      "kw2": [
-        "gửi xe Nhà hát Lớn Hà Nội",
-        "đường đi Nhà hát Lớn Hà Nội"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-011",
-      "child_id": "C-DIEM-DEN",
-      "title": "Kinh nghiệm ghé thăm Nhà hát Lớn Hà Nội nửa ngày",
-      "intent": "Lên kế hoạch nửa ngày tham quan Nhà hát Lớn Hà Nội",
-      "kw": "kinh nghiệm đi Nhà hát Lớn Hà Nội",
-      "kw2": [
-        "tham quan Nhà hát Lớn Hà Nội",
-        "lịch trình Nhà hát Lớn Hà Nội"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-012",
-      "child_id": "C-DIEM-DEN",
-      "title": "Những lưu ý khi chạy xe quanh Nhà hát Lớn Hà Nội",
-      "intent": "Biết lưu ý giao thông quanh khu vực Nhà hát Lớn Hà Nội",
-      "kw": "lưu ý chạy xe gần Nhà hát Lớn Hà Nội",
-      "kw2": [
-        "giao thông quanh Nhà hát Lớn Hà Nội",
-        "đường quanh Nhà hát Lớn Hà Nội đông"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/",
-        "/blog/ky-nang/tinh-huong-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy tham quan",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-013",
-      "child_id": "C-DIEM-DEN",
-      "title": "Đến Hồ Thiền Quang bằng xe máy: gửi xe và đường đi",
-      "intent": "Biết đường đi và chỗ gửi xe khi đến Hồ Thiền Quang",
-      "kw": "đến Hồ Thiền Quang bằng xe máy",
-      "kw2": [
-        "gửi xe Hồ Thiền Quang",
-        "đường đi Hồ Thiền Quang"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-014",
-      "child_id": "C-DIEM-DEN",
-      "title": "Kinh nghiệm ghé thăm Hồ Thiền Quang nửa ngày",
-      "intent": "Lên kế hoạch nửa ngày tham quan Hồ Thiền Quang",
-      "kw": "kinh nghiệm đi Hồ Thiền Quang",
-      "kw2": [
-        "tham quan Hồ Thiền Quang",
-        "lịch trình Hồ Thiền Quang"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-015",
-      "child_id": "C-DIEM-DEN",
-      "title": "Những lưu ý khi chạy xe quanh Hồ Thiền Quang",
-      "intent": "Biết lưu ý giao thông quanh khu vực Hồ Thiền Quang",
-      "kw": "lưu ý chạy xe gần Hồ Thiền Quang",
-      "kw2": [
-        "giao thông quanh Hồ Thiền Quang",
-        "đường quanh Hồ Thiền Quang đông"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/",
-        "/blog/ky-nang/tinh-huong-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy tham quan",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-016",
-      "child_id": "C-DIEM-DEN",
-      "title": "Đến Cột Cờ Hà Nội bằng xe máy: gửi xe và đường đi",
-      "intent": "Biết đường đi và chỗ gửi xe khi đến Cột Cờ Hà Nội",
-      "kw": "đến Cột Cờ Hà Nội bằng xe máy",
-      "kw2": [
-        "gửi xe Cột Cờ Hà Nội",
-        "đường đi Cột Cờ Hà Nội"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-017",
-      "child_id": "C-DIEM-DEN",
-      "title": "Kinh nghiệm ghé thăm Cột Cờ Hà Nội nửa ngày",
-      "intent": "Lên kế hoạch nửa ngày tham quan Cột Cờ Hà Nội",
-      "kw": "kinh nghiệm đi Cột Cờ Hà Nội",
-      "kw2": [
-        "tham quan Cột Cờ Hà Nội",
-        "lịch trình Cột Cờ Hà Nội"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nội địa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-018",
-      "child_id": "C-DIEM-DEN",
-      "title": "Những lưu ý khi chạy xe quanh Cột Cờ Hà Nội",
-      "intent": "Biết lưu ý giao thông quanh khu vực Cột Cờ Hà Nội",
-      "kw": "lưu ý chạy xe gần Cột Cờ Hà Nội",
-      "kw2": [
-        "giao thông quanh Cột Cờ Hà Nội",
-        "đường quanh Cột Cờ Hà Nội đông"
-      ],
-      "links": [
-        "/blog/du-lich/diem-den/",
-        "/blog/ky-nang/tinh-huong-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy tham quan",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-019",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Hà Nội đi Thung Nai bằng xe máy: cung đường và thời gian",
-      "intent": "Tìm cung đường Hà Nội đi Thung Nai bằng xe máy",
-      "kw": "hà nội đi Thung Nai bằng xe máy",
-      "kw2": [
-        "cung đường thung nai",
-        "thung nai hòa bình xe máy"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "cung đường Thung Nai",
-      "audience": "phượt thủ",
-      "location_scope": "hòa bình",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-020",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Nghỉ chân trên đường đi Thung Nai bằng xe máy",
-      "intent": "Biết điểm dừng trên đường đến Thung Nai",
-      "kw": "nghỉ chân đường đi Thung Nai",
-      "kw2": [
-        "điểm dừng đường Thung Nai",
-        "ăn uống trên đường Thung Nai"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "nghỉ chân Thung Nai",
-      "audience": "phượt thủ",
-      "location_scope": "hòa bình",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-021",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Hà Nội đi hồ Đại Lải bằng xe máy: cung đường và thời gian",
-      "intent": "Tìm cung đường Hà Nội đi hồ Đại Lải bằng xe máy",
-      "kw": "hà nội đi hồ Đại Lải bằng xe máy",
-      "kw2": [
-        "cung đường đại lại",
-        "đại lại vĩnh phúc xe máy"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "cung đường hồ Đại Lải",
-      "audience": "phượt thủ",
-      "location_scope": "vĩnh phúc",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-022",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Nghỉ chân trên đường đi hồ Đại Lải bằng xe máy",
-      "intent": "Biết điểm dừng trên đường đến hồ Đại Lải",
-      "kw": "nghỉ chân đường đi hồ Đại Lải",
-      "kw2": [
-        "điểm dừng đường hồ Đại Lải",
-        "ăn uống trên đường hồ Đại Lải"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "nghỉ chân hồ Đại Lải",
-      "audience": "phượt thủ",
-      "location_scope": "vĩnh phúc",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-023",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Hà Nội đi Suối Tơ bằng xe máy: cung đường và thời gian",
-      "intent": "Tìm cung đường Hà Nội đi Suối Tơ bằng xe máy",
-      "kw": "hà nội đi Suối Tơ bằng xe máy",
-      "kw2": [
-        "suối tơ quốc oai",
-        "đường đi suối tơ"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "cung đường Suối Tơ",
-      "audience": "phượt thủ",
-      "location_scope": "quốc oai",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-024",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Nghỉ chân trên đường đi Suối Tơ bằng xe máy",
-      "intent": "Biết điểm dừng trên đường đến Suối Tơ",
-      "kw": "nghỉ chân đường đi Suối Tơ",
-      "kw2": [
-        "điểm dừng đường Suối Tơ",
-        "ăn uống trên đường Suối Tơ"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "nghỉ chân Suối Tơ",
-      "audience": "phượt thủ",
-      "location_scope": "quốc oai",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-025",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Hà Nội đi Đền Sóc bằng xe máy: cung đường và thời gian",
-      "intent": "Tìm cung đường Hà Nội đi Đền Sóc bằng xe máy",
-      "kw": "hà nội đi Đền Sóc bằng xe máy",
-      "kw2": [
-        "đền sóc sóc sơn",
-        "đường lên đền sóc"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "cung đường Đền Sóc",
-      "audience": "phượt thủ",
-      "location_scope": "sóc sơn",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-026",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Nghỉ chân trên đường đi Đền Sóc bằng xe máy",
-      "intent": "Biết điểm dừng trên đường đến Đền Sóc",
-      "kw": "nghỉ chân đường đi Đền Sóc",
-      "kw2": [
-        "điểm dừng đường Đền Sóc",
-        "ăn uống trên đường Đền Sóc"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "nghỉ chân Đền Sóc",
-      "audience": "phượt thủ",
-      "location_scope": "sóc sơn",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-027",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Hà Nội đi Thác Bồ bằng xe máy: cung đường và thời gian",
-      "intent": "Tìm cung đường Hà Nội đi Thác Bồ bằng xe máy",
-      "kw": "hà nội đi Thác Bồ bằng xe máy",
-      "kw2": [
-        "thác bồ lương sơn",
-        "đường đi thác bồ"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "cung đường Thác Bồ",
-      "audience": "phượt thủ",
-      "location_scope": "hòa bình",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-028",
-      "child_id": "C-CD-CUOI-TUAN",
-      "title": "Nghỉ chân trên đường đi Thác Bồ bằng xe máy",
-      "intent": "Biết điểm dừng trên đường đến Thác Bồ",
-      "kw": "nghỉ chân đường đi Thác Bồ",
-      "kw2": [
-        "điểm dừng đường Thác Bồ",
-        "ăn uống trên đường Thác Bồ"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "nghỉ chân Thác Bồ",
-      "audience": "phượt thủ",
-      "location_scope": "hòa bình",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-029",
-      "child_id": "C-THUE-GIA",
-      "title": "Giá thuê xe máy theo giờ ở Hà Nội: khi nào đáng chọn",
-      "intent": "Tìm hiểu giá thuê xe máy theo giờ ở Hà Nội",
-      "kw": "giá thuê xe máy theo giờ",
-      "kw2": [
-        "thuê xe theo giờ hà nội"
-      ],
-      "links": [
-        "/blog/bang-gia/",
-        "/blog/thue-xe/thue-ngay/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách cần xe vài giờ trong ngày",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-030",
-      "child_id": "C-THUE-GIA",
-      "title": "Chi phí phát sinh khi thuê xe giao tận nơi ở Hà Nội",
-      "intent": "Hiểu các khoản chi phí khi thuê xe giao tận nơi",
-      "kw": "chi phí thuê xe giao tận nơi",
-      "kw2": [
-        "phí giao xe tận nơi"
-      ],
-      "links": [
-        "/blog/bang-gia/",
-        "/blog/thue-xe/thu-tuc/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách đặt xe từ xa",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-031",
-      "child_id": "C-THUE-GIA",
-      "title": "Giá thuê xe máy khác nhau giữa các khu vực Hà Nội",
-      "intent": "Hiểu sự khác biệt giá thuê xe máy theo khu vực Hà Nội",
-      "kw": "giá thuê xe máy theo khu vực hà nội",
-      "kw2": [
-        "thuê xe nội thành hay ngoại thành rẻ hơn"
-      ],
-      "links": [
-        "/blog/bang-gia/",
-        "/blog/thue-xe/gia-thue/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người mới đến Hà Nội",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-032",
-      "child_id": "C-THUE-GIA",
-      "title": "Chi phí thuê xe máy cho khách quốc tế ở Hà Nội",
-      "intent": "Tìm hiểu chi phí thuê xe máy cho khách quốc tế",
-      "kw": "chi phí thuê xe máy cho khách quốc tế",
-      "kw2": [
-        "giá thuê xe cho người nước ngoài"
-      ],
-      "links": [
-        "/blog/bang-gia/",
-        "/blog/thue-xe/khach-quoc-te/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách quốc tế du lịch",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-033",
-      "child_id": "C-THUE-GIA",
-      "title": "Giá thuê xe máy cao cấp khác xe phổ thông thế nào",
-      "intent": "Hiểu khác biệt giá thuê giữa xe cao cấp và xe phổ thông",
-      "kw": "giá thuê xe máy cao cấp",
-      "kw2": [
-        "thuê xe ga cao cấp hà nội"
-      ],
-      "links": [
-        "/blog/bang-gia/",
-        "/blog/xe-may/chon-loai-xe/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách muốn trải nghiệm xe cao cấp",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-034",
-      "child_id": "C-THUE-THU-TUC",
-      "title": "Hủy đặt xe máy thuê: nguyên tắc chung cần biết",
-      "intent": "Hiểu nguyên tắc chung khi hủy đặt xe máy thuê",
-      "kw": "hủy đặt xe máy thuê",
-      "kw2": [
-        "đặt xe rồi không đến nhận"
-      ],
-      "links": [
-        "/blog/thue-xe/thu-tuc/",
-        "/blog/thue-xe/dat-coc/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách đặt xe trước",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-035",
-      "child_id": "C-THUE-THU-TUC",
-      "title": "Thanh toán không tiền mặt khi thuê xe máy",
-      "intent": "Hiểu các hình thức thanh toán không tiền mặt khi thuê xe",
-      "kw": "thanh toán chuyển khoản thuê xe máy",
-      "kw2": [
-        "thuê xe thanh toán online"
-      ],
-      "links": [
-        "/blog/thue-xe/thu-tuc/",
-        "/blog/bang-gia/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách thuê ngày và dài hạn",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-036",
-      "child_id": "C-THUE-THU-TUC",
-      "title": "Thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì",
-      "intent": "Hiểu cách thuê xe máy cho đoàn nhiều người",
-      "kw": "thuê xe máy cho đoàn nhóm",
-      "kw2": [
-        "thuê nhiều xe máy cùng lúc"
-      ],
-      "links": [
-        "/blog/thue-xe/thu-tuc/",
-        "/blog/thue-xe/gia-thue/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người tổ chức đi đoàn",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-037",
-      "child_id": "C-THUE-THU-TUC",
-      "title": "Điều khoản bồi thường trong hợp đồng thuê xe máy",
-      "intent": "Hiểu điều khoản bồi thường hư hỏng trong hợp đồng thuê xe",
-      "kw": "điều khoản bồi thường hợp đồng thuê xe",
-      "kw2": [
-        "bồi thường hư hỏng xe thuê"
-      ],
-      "links": [
-        "/blog/thue-xe/thu-tuc/",
-        "/blog/thue-xe/su-co/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người thuê dài hạn",
-      "location_scope": "Hà Nội",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-038",
-      "child_id": "C-THUE-THANG",
-      "title": "Thuê xe máy theo tháng cho shipper ở Hà Nội",
-      "intent": "Tìm giải pháp thuê xe tháng cho shipper chạy đơn",
-      "kw": "thuê xe máy tháng cho shipper",
-      "kw2": [
-        "shipper thuê xe chạy đơn"
-      ],
-      "links": [
-        "/blog/thue-xe/thue-thang/",
-        "/blog/thue-xe/gia-thue/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "shipper giao hàng",
-      "location_scope": "Hà Nội",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-039",
-      "child_id": "C-THUE-THANG",
-      "title": "Thuê xe máy theo tháng cho thợ dịch vụ tại nhà",
-      "intent": "Tìm giải pháp thuê xe tháng cho thợ dịch vụ di động",
-      "kw": "thuê xe tháng cho thợ tại nhà",
-      "kw2": [
-        "thợ làm đẹp thuê xe máy"
-      ],
-      "links": [
-        "/blog/thue-xe/thue-thang/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "thợ nail và thợ tóc di động",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-040",
-      "child_id": "C-THUE-TUAN",
-      "title": "Thuê xe máy theo tuần cho du khách ở lại Hà Nội",
-      "intent": "Hiểu cách thuê xe tuần cho du khách dài ngày",
-      "kw": "thuê xe tuần cho du khách",
-      "kw2": [
-        "du khách thuê xe 1 tuần hà nội"
-      ],
-      "links": [
-        "/blog/thue-xe/thue-tuan/",
-        "/blog/du-lich/diem-den/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "du khách nghỉ dài",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-041",
-      "child_id": "C-THUE-TUAN",
-      "title": "Thuê xe máy theo tuần khi về quê ngắn ngày",
-      "intent": "Hiểu cách thuê xe tuần cho chuyến về quê",
-      "kw": "thuê xe tuần về quê",
-      "kw2": [
-        "thuê xe đi tỉnh 1 tuần"
-      ],
-      "links": [
-        "/blog/thue-xe/thue-tuan/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người lao động xa quê",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-042",
-      "child_id": "C-THUE-QUOC-TE",
-      "title": "Khách quốc tế tự lái xe máy từ Hà Nội đi Ninh Bình",
-      "intent": "Tìm hướng dẫn cho khách quốc tế tự lái đi Ninh Bình",
-      "kw": "khách quốc tế đi ninh bình bằng xe máy",
-      "kw2": [
-        "tự lái hà nội ninh bình"
-      ],
-      "links": [
-        "/blog/thue-xe/khach-quoc-te/",
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách quốc tế du lịch",
-      "location_scope": "hà nội ninh bình",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-043",
-      "child_id": "C-THUE-QUOC-TE",
-      "title": "Gửi xe ở Hà Nội: hướng dẫn cho khách quốc tế",
-      "intent": "Biết cách gửi xe cho khách quốc tế đi xe máy",
-      "kw": "gửi xe cho khách quốc tế",
-      "kw2": [
-        "bãi giữ xe hà nội người nước ngoài"
-      ],
-      "links": [
-        "/blog/thue-xe/khach-quoc-te/",
-        "/blog/ky-nang/gui-xe-va-giu-xe/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách quốc tế tự lái",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-044",
-      "child_id": "C-THUE-QUOC-TE",
-      "title": "Ứng dụng bản đồ tiếng Anh cho khách quốc tế thuê xe máy",
-      "intent": "Biết ứng dụng bản đồ phù hợp cho khách quốc tế",
-      "kw": "ứng dụng bản đồ cho khách quốc tế",
-      "kw2": [
-        "bản đồ tiếng anh hà nội"
-      ],
-      "links": [
-        "/blog/thue-xe/khach-quoc-te/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách quốc tế tự lái",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-045",
-      "child_id": "C-THUE-QUOC-TE",
-      "title": "Khách quốc tế thuê xe máy Hà Nội mùa mưa cần biết",
-      "intent": "Tìm lưu ý cho khách quốc tế thuê xe mùa mưa",
-      "kw": "khách quốc tế thuê xe mùa mưa",
-      "kw2": [
-        "người nước ngoài đi xe mùa mưa"
-      ],
-      "links": [
-        "/blog/thue-xe/khach-quoc-te/",
-        "/blog/ky-nang/thoi-tiet-va-duong-sa/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách quốc tế tự lái",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-046",
-      "child_id": "C-THUE-QUOC-TE",
-      "title": "Người nước ngoài bị dừng kiểm tra giấy tờ khi thuê xe máy",
-      "intent": "Biết cách xử lý khi khách quốc tế bị dừng kiểm tra giấy tờ",
-      "kw": "người nước ngoài bị kiểm tra giấy tờ",
-      "kw2": [
-        "bị dừng xe khách quốc tế"
-      ],
-      "links": [
-        "/blog/thue-xe/khach-quoc-te/",
-        "/blog/an-toan-phap-ly/giay-phep-lai-xe/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách quốc tế tự lái",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-047",
-      "child_id": "C-THUE-DAT-COC",
-      "title": "Đặt cọc khi thuê xe ga cao cấp ở Hà Nội",
-      "intent": "Hiểu cách đặt cọc khi thuê xe ga cao cấp",
-      "kw": "đặt cọc thuê xe ga cao cấp",
-      "kw2": [
-        "cọc thuê xe cao cấp"
-      ],
-      "links": [
-        "/blog/thue-xe/dat-coc/",
-        "/blog/xe-may/chon-loai-xe/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách thuê xe cao cấp",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-048",
-      "child_id": "C-THUE-DAT-COC",
-      "title": "Đặt cọc qua ví điện tử khi thuê xe máy",
-      "intent": "Hiểu đặt cọc qua ví điện tử khi thuê xe máy",
-      "kw": "đặt cọc qua ví điện tử",
-      "kw2": [
-        "cọc online thuê xe máy"
-      ],
-      "links": [
-        "/blog/thue-xe/dat-coc/",
-        "/blog/thue-xe/thu-tuc/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách thanh toán số",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-049",
-      "child_id": "C-THUE-DAT-COC",
-      "title": "Đặt cọc khi nhận xe máy giao tận nơi",
-      "intent": "Hiểu cách đặt cọc khi nhận xe giao tận nơi",
-      "kw": "đặt cọc khi giao xe tận nơi",
-      "kw2": [
-        "giao xe tận nơi cần cọc không"
-      ],
-      "links": [
-        "/blog/thue-xe/dat-coc/",
-        "/blog/thue-xe/thu-tuc/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "khách đặt xe từ xa",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-050",
-      "child_id": "C-KY-NANG-CO-BAN",
-      "title": "Kỹ thuật vượt xe an toàn trên đường",
-      "intent": "Biết cách vượt xe an toàn bằng xe máy",
-      "kw": "cách vượt xe an toàn",
-      "kw2": [
-        "vượt xe trên quốc lộ"
-      ],
-      "links": [
-        "/blog/ky-nang/ky-nang-lai-co-ban/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người mới đi xe máy",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-051",
-      "child_id": "C-KY-NANG-CO-BAN",
-      "title": "Giữ khoảng cách an toàn khi đi xe máy",
-      "intent": "Biết cách giữ khoảng cách an toàn với xe phía trước",
-      "kw": "khoảng cách an toàn xe máy",
-      "kw2": [
-        "quy tắc 2 giây xe máy"
-      ],
-      "links": [
-        "/blog/ky-nang/ky-nang-lai-co-ban/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người mới đi xe máy",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-052",
-      "child_id": "C-KY-NANG-CO-BAN",
-      "title": "Hạ dốc dài bằng xe ga an toàn",
-      "intent": "Biết kỹ thuật hạ dốc dài an toàn bằng xe ga",
-      "kw": "hạ dốc bằng xe ga",
-      "kw2": [
-        "đi dốc dài xe ga"
-      ],
-      "links": [
-        "/blog/ky-nang/ky-nang-lai-co-ban/",
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe ga cung đường đèo",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-053",
-      "child_id": "C-QUY-DINH",
-      "title": "Quy định tốc độ xe máy trong đô thị và ngoài đô thị",
-      "intent": "Hiểu quy định tốc độ áp dụng cho xe máy",
-      "kw": "quy định tốc độ xe máy",
-      "kw2": [
-        "giới hạn tốc độ đô thị xe máy"
-      ],
-      "links": [
-        "/blog/an-toan-phap-ly/quy-dinh-giao-thong/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người thuê xe máy",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-054",
-      "child_id": "C-QUY-DINH",
-      "title": "Quy định chở hàng cồng kềnh trên xe máy",
-      "intent": "Hiểu quy định chở hàng cồng kềnh trên xe máy",
-      "kw": "chở hàng cồng kềnh xe máy",
-      "kw2": [
-        "quy định chở hàng trên xe"
-      ],
-      "links": [
-        "/blog/an-toan-phap-ly/quy-dinh-giao-thong/",
-        "/blog/ky-nang/cho-do-va-hanh-ly/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người chở hàng bằng xe máy",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-055",
-      "child_id": "C-CD-NOI-THANH",
-      "title": "Cung đường cầu Nhật Tân ven sông Hồng chiều tối",
-      "intent": "Biết cung cầu Nhật Tân và ven sông Hồng buổi chiều tối",
-      "kw": "cung cầu nhật tân ven sông",
-      "kw2": [
-        "chạy xe cầu nhật tân"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-noi-thanh/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "cặp đôi đi chiều tối",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-056",
-      "child_id": "C-CD-NOI-THANH",
-      "title": "Cung đường hồ Linh Đàm bằng xe máy",
-      "intent": "Biết cung đường chạy quanh hồ Linh Đàm",
-      "kw": "cung hồ linh đàm",
-      "kw2": [
-        "chạy xe quanh hồ linh đàm"
-      ],
-      "links": [
-        "/blog/cung-duong/cung-duong-noi-thanh/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người mới chạy nội đô",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-057",
-      "child_id": "C-KY-NANG-GUI-XE",
-      "title": "Gửi xe ở khách sạn và nhà nghỉ khi đi xe máy",
-      "intent": "Biết cách gửi xe máy ở khách sạn và nhà nghỉ",
-      "kw": "gửi xe khách sạn",
-      "kw2": [
-        "để xe qua đêm nhà nghỉ"
-      ],
-      "links": [
-        "/blog/ky-nang/gui-xe-va-giu-xe/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi du lịch tự túc",
-      "location_scope": "Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-058",
-      "child_id": "C-BAO-HIEM",
-      "title": "Thủ tục bồi thường bảo hiểm TNDS khi va chạm",
-      "intent": "Hiểu thủ tục bồi thường bảo hiểm TNDS sau va chạm",
-      "kw": "bồi thường bảo hiểm tnds",
-      "kw2": [
-        "thủ tục bảo hiểm xe máy va chạm"
-      ],
-      "links": [
-        "/blog/an-toan-phap-ly/bao-hiem/",
-        "/blog/thue-xe/su-co/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy",
-      "location_scope": "Hà Nội",
-      "word_target": 1400
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-059",
-      "child_id": "C-GPLX",
-      "title": "Bị tạm giữ giấy phép lái xe máy: xử lý thế nào",
-      "intent": "Biết cách xử lý khi bị tạm giữ giấy phép lái xe máy",
-      "kw": "bị tạm giữ bằng lái xe máy",
-      "kw2": [
-        "khi nào bị tạm giữ gplx"
-      ],
-      "links": [
-        "/blog/an-toan-phap-ly/giay-phep-lai-xe/",
-        "/blog/an-toan-phap-ly/phat-nguoi/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi xe máy",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-060",
-      "child_id": "C-PHAT-NGUOI",
-      "title": "Nộp phạt nguội online: các bước cơ bản",
-      "intent": "Biết các bước nộp phạt nguội qua dịch vụ công trực tuyến",
-      "kw": "nộp phạt nguội online",
-      "kw2": [
-        "nộp phạt qua dịch vụ công"
-      ],
-      "links": [
-        "/blog/an-toan-phap-ly/phat-nguoi/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người bị phạt nguội",
-      "location_scope": "Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-061",
-      "child_id": "C-THUE-NGAY",
-      "title": "Thuê xe máy một ngày đi Phố Hiến Hưng Yên",
-      "intent": "Lên kế hoạch một ngày đi Phố Hiến bằng xe máy thuê",
-      "kw": "thuê xe ngày đi phố hiến",
-      "kw2": [
-        "hà nội phố hiến 1 ngày"
-      ],
-      "links": [
-        "/blog/thue-xe/thue-ngay/",
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi phượt ngày",
-      "location_scope": "hưng yên",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-062",
-      "child_id": "C-THUE-NGAY",
-      "title": "Thuê xe máy một ngày đi chùa Tây Phương",
-      "intent": "Lên kế hoạch một ngày đi chùa Tây Phương bằng xe máy thuê",
-      "kw": "thuê xe đi chùa tây phương",
-      "kw2": [
-        "hà nội chùa tây phương 1 ngày"
-      ],
-      "links": [
-        "/blog/thue-xe/thue-ngay/",
-        "/blog/cung-duong/cung-duong-cuoi-tuan/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "người đi phượt ngày",
-      "location_scope": "thạch thất",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-063",
-      "child_id": "C-CD-MOC-CHAU",
-      "title": "Thác Dải Yếm Mộc Châu bằng xe máy từ Hà Nội",
-      "intent": "Tìm cung đường Hà Nội đi thác Dải Yếm Mộc Châu",
-      "kw": "hà nội đi thác dải yếm",
-      "kw2": [
-        "thác dải yếm mộc châu"
-      ],
-      "links": [
-        "/blog/cung-duong/moc-chau/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "phượt thủ",
-      "location_scope": "mộc châu",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-064",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Bản Lác Mai Châu đi bằng xe máy: trải nghiệm bản làng",
-      "intent": "Tìm kinh nghiệm đi bản Lác Mai Châu bằng xe máy",
-      "kw": "bản lác mai châu xe máy",
-      "kw2": [
-        "mai châu bản lác"
-      ],
-      "links": [
-        "/blog/cung-duong/mai-chau/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "cặp đôi cuối tuần",
-      "location_scope": "mai châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-065",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Sông Nho Quế Hà Giang bằng xe máy: nhìn từ lên cao",
-      "intent": "Biết cách đi tới các điểm nhìn sông Nho Quế bằng xe máy",
-      "kw": "sông nho quế bằng xe máy",
-      "kw2": [
-        "điểm nhìn nho quế"
-      ],
-      "links": [
-        "/blog/cung-duong/ha-giang/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "phượt thủ",
-      "location_scope": "hà giang",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-09-30-066",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Chợ phiên Đồng Văn bằng xe máy cuối tuần",
-      "intent": "Biết lịch và trải nghiệm chợ phiên Đồng Văn",
-      "kw": "chợ phiên đồng văn",
-      "kw2": [
-        "chợ đá đồng văn"
-      ],
-      "links": [
-        "/blog/cung-duong/ha-giang/"
-      ],
-      "subtopic": "refill-2026-09-30",
-      "audience": "phượt thủ",
-      "location_scope": "hà giang",
-      "word_target": 1200
-    }
-  ],
+  "candidates": [],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
@@ -1780,6 +599,1318 @@
       "word_target": 1300,
       "materialized_at": "2026-09-30T01:13:25+00:00",
       "materialized_head": "24d018518fca41692bd0278520dfb29327d86566"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-001",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đến Chợ Đồng Xuân bằng xe máy: gửi xe và đường đi",
+      "intent": "Biết đường đi và chỗ gửi xe khi đến Chợ Đồng Xuân",
+      "kw": "đến Chợ Đồng Xuân bằng xe máy",
+      "kw2": [
+        "gửi xe Chợ Đồng Xuân",
+        "đường đi Chợ Đồng Xuân"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-002",
+      "child_id": "C-DIEM-DEN",
+      "title": "Kinh nghiệm ghé thăm Chợ Đồng Xuân nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày tham quan Chợ Đồng Xuân",
+      "kw": "kinh nghiệm đi Chợ Đồng Xuân",
+      "kw2": [
+        "tham quan Chợ Đồng Xuân",
+        "lịch trình Chợ Đồng Xuân"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-003",
+      "child_id": "C-DIEM-DEN",
+      "title": "Những lưu ý khi chạy xe quanh Chợ Đồng Xuân",
+      "intent": "Biết lưu ý giao thông quanh khu vực Chợ Đồng Xuân",
+      "kw": "lưu ý chạy xe gần Chợ Đồng Xuân",
+      "kw2": [
+        "giao thông quanh Chợ Đồng Xuân",
+        "đường quanh Chợ Đồng Xuân đông"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/",
+        "/blog/ky-nang/tinh-huong-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy tham quan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-004",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đến Nhà thờ Lớn Hà Nội bằng xe máy: gửi xe và đường đi",
+      "intent": "Biết đường đi và chỗ gửi xe khi đến Nhà thờ Lớn Hà Nội",
+      "kw": "đến Nhà thờ Lớn Hà Nội bằng xe máy",
+      "kw2": [
+        "gửi xe Nhà thờ Lớn Hà Nội",
+        "đường đi Nhà thờ Lớn Hà Nội"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-005",
+      "child_id": "C-DIEM-DEN",
+      "title": "Kinh nghiệm ghé thăm Nhà thờ Lớn Hà Nội nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày tham quan Nhà thờ Lớn Hà Nội",
+      "kw": "kinh nghiệm đi Nhà thờ Lớn Hà Nội",
+      "kw2": [
+        "tham quan Nhà thờ Lớn Hà Nội",
+        "lịch trình Nhà thờ Lớn Hà Nội"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-006",
+      "child_id": "C-DIEM-DEN",
+      "title": "Những lưu ý khi chạy xe quanh Nhà thờ Lớn Hà Nội",
+      "intent": "Biết lưu ý giao thông quanh khu vực Nhà thờ Lớn Hà Nội",
+      "kw": "lưu ý chạy xe gần Nhà thờ Lớn Hà Nội",
+      "kw2": [
+        "giao thông quanh Nhà thờ Lớn Hà Nội",
+        "đường quanh Nhà thờ Lớn Hà Nội đông"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/",
+        "/blog/ky-nang/tinh-huong-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy tham quan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-007",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đến Bảo tàng Hỏa Lò bằng xe máy: gửi xe và đường đi",
+      "intent": "Biết đường đi và chỗ gửi xe khi đến Bảo tàng Hỏa Lò",
+      "kw": "đến Bảo tàng Hỏa Lò bằng xe máy",
+      "kw2": [
+        "gửi xe Bảo tàng Hỏa Lò",
+        "đường đi Bảo tàng Hỏa Lò"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-008",
+      "child_id": "C-DIEM-DEN",
+      "title": "Kinh nghiệm ghé thăm Bảo tàng Hỏa Lò nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày tham quan Bảo tàng Hỏa Lò",
+      "kw": "kinh nghiệm đi Bảo tàng Hỏa Lò",
+      "kw2": [
+        "tham quan Bảo tàng Hỏa Lò",
+        "lịch trình Bảo tàng Hỏa Lò"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-009",
+      "child_id": "C-DIEM-DEN",
+      "title": "Những lưu ý khi chạy xe quanh Bảo tàng Hỏa Lò",
+      "intent": "Biết lưu ý giao thông quanh khu vực Bảo tàng Hỏa Lò",
+      "kw": "lưu ý chạy xe gần Bảo tàng Hỏa Lò",
+      "kw2": [
+        "giao thông quanh Bảo tàng Hỏa Lò",
+        "đường quanh Bảo tàng Hỏa Lò đông"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/",
+        "/blog/ky-nang/tinh-huong-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy tham quan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-010",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đến Nhà hát Lớn Hà Nội bằng xe máy: gửi xe và đường đi",
+      "intent": "Biết đường đi và chỗ gửi xe khi đến Nhà hát Lớn Hà Nội",
+      "kw": "đến Nhà hát Lớn Hà Nội bằng xe máy",
+      "kw2": [
+        "gửi xe Nhà hát Lớn Hà Nội",
+        "đường đi Nhà hát Lớn Hà Nội"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-011",
+      "child_id": "C-DIEM-DEN",
+      "title": "Kinh nghiệm ghé thăm Nhà hát Lớn Hà Nội nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày tham quan Nhà hát Lớn Hà Nội",
+      "kw": "kinh nghiệm đi Nhà hát Lớn Hà Nội",
+      "kw2": [
+        "tham quan Nhà hát Lớn Hà Nội",
+        "lịch trình Nhà hát Lớn Hà Nội"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-012",
+      "child_id": "C-DIEM-DEN",
+      "title": "Những lưu ý khi chạy xe quanh Nhà hát Lớn Hà Nội",
+      "intent": "Biết lưu ý giao thông quanh khu vực Nhà hát Lớn Hà Nội",
+      "kw": "lưu ý chạy xe gần Nhà hát Lớn Hà Nội",
+      "kw2": [
+        "giao thông quanh Nhà hát Lớn Hà Nội",
+        "đường quanh Nhà hát Lớn Hà Nội đông"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/",
+        "/blog/ky-nang/tinh-huong-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy tham quan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-013",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đến Hồ Thiền Quang bằng xe máy: gửi xe và đường đi",
+      "intent": "Biết đường đi và chỗ gửi xe khi đến Hồ Thiền Quang",
+      "kw": "đến Hồ Thiền Quang bằng xe máy",
+      "kw2": [
+        "gửi xe Hồ Thiền Quang",
+        "đường đi Hồ Thiền Quang"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-014",
+      "child_id": "C-DIEM-DEN",
+      "title": "Kinh nghiệm ghé thăm Hồ Thiền Quang nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày tham quan Hồ Thiền Quang",
+      "kw": "kinh nghiệm đi Hồ Thiền Quang",
+      "kw2": [
+        "tham quan Hồ Thiền Quang",
+        "lịch trình Hồ Thiền Quang"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-015",
+      "child_id": "C-DIEM-DEN",
+      "title": "Những lưu ý khi chạy xe quanh Hồ Thiền Quang",
+      "intent": "Biết lưu ý giao thông quanh khu vực Hồ Thiền Quang",
+      "kw": "lưu ý chạy xe gần Hồ Thiền Quang",
+      "kw2": [
+        "giao thông quanh Hồ Thiền Quang",
+        "đường quanh Hồ Thiền Quang đông"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/",
+        "/blog/ky-nang/tinh-huong-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy tham quan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-016",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đến Cột Cờ Hà Nội bằng xe máy: gửi xe và đường đi",
+      "intent": "Biết đường đi và chỗ gửi xe khi đến Cột Cờ Hà Nội",
+      "kw": "đến Cột Cờ Hà Nội bằng xe máy",
+      "kw2": [
+        "gửi xe Cột Cờ Hà Nội",
+        "đường đi Cột Cờ Hà Nội"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-017",
+      "child_id": "C-DIEM-DEN",
+      "title": "Kinh nghiệm ghé thăm Cột Cờ Hà Nội nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày tham quan Cột Cờ Hà Nội",
+      "kw": "kinh nghiệm đi Cột Cờ Hà Nội",
+      "kw2": [
+        "tham quan Cột Cờ Hà Nội",
+        "lịch trình Cột Cờ Hà Nội"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nội địa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-018",
+      "child_id": "C-DIEM-DEN",
+      "title": "Những lưu ý khi chạy xe quanh Cột Cờ Hà Nội",
+      "intent": "Biết lưu ý giao thông quanh khu vực Cột Cờ Hà Nội",
+      "kw": "lưu ý chạy xe gần Cột Cờ Hà Nội",
+      "kw2": [
+        "giao thông quanh Cột Cờ Hà Nội",
+        "đường quanh Cột Cờ Hà Nội đông"
+      ],
+      "links": [
+        "/blog/du-lich/diem-den/",
+        "/blog/ky-nang/tinh-huong-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy tham quan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-019",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi Thung Nai bằng xe máy: cung đường và thời gian",
+      "intent": "Tìm cung đường Hà Nội đi Thung Nai bằng xe máy",
+      "kw": "hà nội đi Thung Nai bằng xe máy",
+      "kw2": [
+        "cung đường thung nai",
+        "thung nai hòa bình xe máy"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "cung đường Thung Nai",
+      "audience": "phượt thủ",
+      "location_scope": "hòa bình",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-020",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Nghỉ chân trên đường đi Thung Nai bằng xe máy",
+      "intent": "Biết điểm dừng trên đường đến Thung Nai",
+      "kw": "nghỉ chân đường đi Thung Nai",
+      "kw2": [
+        "điểm dừng đường Thung Nai",
+        "ăn uống trên đường Thung Nai"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "nghỉ chân Thung Nai",
+      "audience": "phượt thủ",
+      "location_scope": "hòa bình",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-021",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi hồ Đại Lải bằng xe máy: cung đường và thời gian",
+      "intent": "Tìm cung đường Hà Nội đi hồ Đại Lải bằng xe máy",
+      "kw": "hà nội đi hồ Đại Lải bằng xe máy",
+      "kw2": [
+        "cung đường đại lại",
+        "đại lại vĩnh phúc xe máy"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "cung đường hồ Đại Lải",
+      "audience": "phượt thủ",
+      "location_scope": "vĩnh phúc",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-022",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Nghỉ chân trên đường đi hồ Đại Lải bằng xe máy",
+      "intent": "Biết điểm dừng trên đường đến hồ Đại Lải",
+      "kw": "nghỉ chân đường đi hồ Đại Lải",
+      "kw2": [
+        "điểm dừng đường hồ Đại Lải",
+        "ăn uống trên đường hồ Đại Lải"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "nghỉ chân hồ Đại Lải",
+      "audience": "phượt thủ",
+      "location_scope": "vĩnh phúc",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-023",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi Suối Tơ bằng xe máy: cung đường và thời gian",
+      "intent": "Tìm cung đường Hà Nội đi Suối Tơ bằng xe máy",
+      "kw": "hà nội đi Suối Tơ bằng xe máy",
+      "kw2": [
+        "suối tơ quốc oai",
+        "đường đi suối tơ"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "cung đường Suối Tơ",
+      "audience": "phượt thủ",
+      "location_scope": "quốc oai",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-024",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Nghỉ chân trên đường đi Suối Tơ bằng xe máy",
+      "intent": "Biết điểm dừng trên đường đến Suối Tơ",
+      "kw": "nghỉ chân đường đi Suối Tơ",
+      "kw2": [
+        "điểm dừng đường Suối Tơ",
+        "ăn uống trên đường Suối Tơ"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "nghỉ chân Suối Tơ",
+      "audience": "phượt thủ",
+      "location_scope": "quốc oai",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-025",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi Đền Sóc bằng xe máy: cung đường và thời gian",
+      "intent": "Tìm cung đường Hà Nội đi Đền Sóc bằng xe máy",
+      "kw": "hà nội đi Đền Sóc bằng xe máy",
+      "kw2": [
+        "đền sóc sóc sơn",
+        "đường lên đền sóc"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "cung đường Đền Sóc",
+      "audience": "phượt thủ",
+      "location_scope": "sóc sơn",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-026",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Nghỉ chân trên đường đi Đền Sóc bằng xe máy",
+      "intent": "Biết điểm dừng trên đường đến Đền Sóc",
+      "kw": "nghỉ chân đường đi Đền Sóc",
+      "kw2": [
+        "điểm dừng đường Đền Sóc",
+        "ăn uống trên đường Đền Sóc"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "nghỉ chân Đền Sóc",
+      "audience": "phượt thủ",
+      "location_scope": "sóc sơn",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-027",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi Thác Bồ bằng xe máy: cung đường và thời gian",
+      "intent": "Tìm cung đường Hà Nội đi Thác Bồ bằng xe máy",
+      "kw": "hà nội đi Thác Bồ bằng xe máy",
+      "kw2": [
+        "thác bồ lương sơn",
+        "đường đi thác bồ"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "cung đường Thác Bồ",
+      "audience": "phượt thủ",
+      "location_scope": "hòa bình",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-028",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Nghỉ chân trên đường đi Thác Bồ bằng xe máy",
+      "intent": "Biết điểm dừng trên đường đến Thác Bồ",
+      "kw": "nghỉ chân đường đi Thác Bồ",
+      "kw2": [
+        "điểm dừng đường Thác Bồ",
+        "ăn uống trên đường Thác Bồ"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "nghỉ chân Thác Bồ",
+      "audience": "phượt thủ",
+      "location_scope": "hòa bình",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-029",
+      "child_id": "C-THUE-GIA",
+      "title": "Giá thuê xe máy theo giờ ở Hà Nội: khi nào đáng chọn",
+      "intent": "Tìm hiểu giá thuê xe máy theo giờ ở Hà Nội",
+      "kw": "giá thuê xe máy theo giờ",
+      "kw2": [
+        "thuê xe theo giờ hà nội"
+      ],
+      "links": [
+        "/blog/bang-gia/",
+        "/blog/thue-xe/thue-ngay/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách cần xe vài giờ trong ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-030",
+      "child_id": "C-THUE-GIA",
+      "title": "Chi phí phát sinh khi thuê xe giao tận nơi ở Hà Nội",
+      "intent": "Hiểu các khoản chi phí khi thuê xe giao tận nơi",
+      "kw": "chi phí thuê xe giao tận nơi",
+      "kw2": [
+        "phí giao xe tận nơi"
+      ],
+      "links": [
+        "/blog/bang-gia/",
+        "/blog/thue-xe/thu-tuc/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách đặt xe từ xa",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-031",
+      "child_id": "C-THUE-GIA",
+      "title": "Giá thuê xe máy khác nhau giữa các khu vực Hà Nội",
+      "intent": "Hiểu sự khác biệt giá thuê xe máy theo khu vực Hà Nội",
+      "kw": "giá thuê xe máy theo khu vực hà nội",
+      "kw2": [
+        "thuê xe nội thành hay ngoại thành rẻ hơn"
+      ],
+      "links": [
+        "/blog/bang-gia/",
+        "/blog/thue-xe/gia-thue/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người mới đến Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-032",
+      "child_id": "C-THUE-GIA",
+      "title": "Chi phí thuê xe máy cho khách quốc tế ở Hà Nội",
+      "intent": "Tìm hiểu chi phí thuê xe máy cho khách quốc tế",
+      "kw": "chi phí thuê xe máy cho khách quốc tế",
+      "kw2": [
+        "giá thuê xe cho người nước ngoài"
+      ],
+      "links": [
+        "/blog/bang-gia/",
+        "/blog/thue-xe/khach-quoc-te/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách quốc tế du lịch",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-033",
+      "child_id": "C-THUE-GIA",
+      "title": "Giá thuê xe máy cao cấp khác xe phổ thông thế nào",
+      "intent": "Hiểu khác biệt giá thuê giữa xe cao cấp và xe phổ thông",
+      "kw": "giá thuê xe máy cao cấp",
+      "kw2": [
+        "thuê xe ga cao cấp hà nội"
+      ],
+      "links": [
+        "/blog/bang-gia/",
+        "/blog/xe-may/chon-loai-xe/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách muốn trải nghiệm xe cao cấp",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-034",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Hủy đặt xe máy thuê: nguyên tắc chung cần biết",
+      "intent": "Hiểu nguyên tắc chung khi hủy đặt xe máy thuê",
+      "kw": "hủy đặt xe máy thuê",
+      "kw2": [
+        "đặt xe rồi không đến nhận"
+      ],
+      "links": [
+        "/blog/thue-xe/thu-tuc/",
+        "/blog/thue-xe/dat-coc/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách đặt xe trước",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-035",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Thanh toán không tiền mặt khi thuê xe máy",
+      "intent": "Hiểu các hình thức thanh toán không tiền mặt khi thuê xe",
+      "kw": "thanh toán chuyển khoản thuê xe máy",
+      "kw2": [
+        "thuê xe thanh toán online"
+      ],
+      "links": [
+        "/blog/thue-xe/thu-tuc/",
+        "/blog/bang-gia/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách thuê ngày và dài hạn",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-036",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Thuê xe máy cho đoàn nhóm ở Hà Nội cần chuẩn bị gì",
+      "intent": "Hiểu cách thuê xe máy cho đoàn nhiều người",
+      "kw": "thuê xe máy cho đoàn nhóm",
+      "kw2": [
+        "thuê nhiều xe máy cùng lúc"
+      ],
+      "links": [
+        "/blog/thue-xe/thu-tuc/",
+        "/blog/thue-xe/gia-thue/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người tổ chức đi đoàn",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-037",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Điều khoản bồi thường trong hợp đồng thuê xe máy",
+      "intent": "Hiểu điều khoản bồi thường hư hỏng trong hợp đồng thuê xe",
+      "kw": "điều khoản bồi thường hợp đồng thuê xe",
+      "kw2": [
+        "bồi thường hư hỏng xe thuê"
+      ],
+      "links": [
+        "/blog/thue-xe/thu-tuc/",
+        "/blog/thue-xe/su-co/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người thuê dài hạn",
+      "location_scope": "Hà Nội",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-038",
+      "child_id": "C-THUE-THANG",
+      "title": "Thuê xe máy theo tháng cho shipper ở Hà Nội",
+      "intent": "Tìm giải pháp thuê xe tháng cho shipper chạy đơn",
+      "kw": "thuê xe máy tháng cho shipper",
+      "kw2": [
+        "shipper thuê xe chạy đơn"
+      ],
+      "links": [
+        "/blog/thue-xe/thue-thang/",
+        "/blog/thue-xe/gia-thue/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "shipper giao hàng",
+      "location_scope": "Hà Nội",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-039",
+      "child_id": "C-THUE-THANG",
+      "title": "Thuê xe máy theo tháng cho thợ dịch vụ tại nhà",
+      "intent": "Tìm giải pháp thuê xe tháng cho thợ dịch vụ di động",
+      "kw": "thuê xe tháng cho thợ tại nhà",
+      "kw2": [
+        "thợ làm đẹp thuê xe máy"
+      ],
+      "links": [
+        "/blog/thue-xe/thue-thang/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "thợ nail và thợ tóc di động",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-040",
+      "child_id": "C-THUE-TUAN",
+      "title": "Thuê xe máy theo tuần cho du khách ở lại Hà Nội",
+      "intent": "Hiểu cách thuê xe tuần cho du khách dài ngày",
+      "kw": "thuê xe tuần cho du khách",
+      "kw2": [
+        "du khách thuê xe 1 tuần hà nội"
+      ],
+      "links": [
+        "/blog/thue-xe/thue-tuan/",
+        "/blog/du-lich/diem-den/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "du khách nghỉ dài",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-041",
+      "child_id": "C-THUE-TUAN",
+      "title": "Thuê xe máy theo tuần khi về quê ngắn ngày",
+      "intent": "Hiểu cách thuê xe tuần cho chuyến về quê",
+      "kw": "thuê xe tuần về quê",
+      "kw2": [
+        "thuê xe đi tỉnh 1 tuần"
+      ],
+      "links": [
+        "/blog/thue-xe/thue-tuan/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người lao động xa quê",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-042",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Khách quốc tế tự lái xe máy từ Hà Nội đi Ninh Bình",
+      "intent": "Tìm hướng dẫn cho khách quốc tế tự lái đi Ninh Bình",
+      "kw": "khách quốc tế đi ninh bình bằng xe máy",
+      "kw2": [
+        "tự lái hà nội ninh bình"
+      ],
+      "links": [
+        "/blog/thue-xe/khach-quoc-te/",
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách quốc tế du lịch",
+      "location_scope": "hà nội ninh bình",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-043",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Gửi xe ở Hà Nội: hướng dẫn cho khách quốc tế",
+      "intent": "Biết cách gửi xe cho khách quốc tế đi xe máy",
+      "kw": "gửi xe cho khách quốc tế",
+      "kw2": [
+        "bãi giữ xe hà nội người nước ngoài"
+      ],
+      "links": [
+        "/blog/thue-xe/khach-quoc-te/",
+        "/blog/ky-nang/gui-xe-va-giu-xe/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách quốc tế tự lái",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-044",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Ứng dụng bản đồ tiếng Anh cho khách quốc tế thuê xe máy",
+      "intent": "Biết ứng dụng bản đồ phù hợp cho khách quốc tế",
+      "kw": "ứng dụng bản đồ cho khách quốc tế",
+      "kw2": [
+        "bản đồ tiếng anh hà nội"
+      ],
+      "links": [
+        "/blog/thue-xe/khach-quoc-te/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách quốc tế tự lái",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-045",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Khách quốc tế thuê xe máy Hà Nội mùa mưa cần biết",
+      "intent": "Tìm lưu ý cho khách quốc tế thuê xe mùa mưa",
+      "kw": "khách quốc tế thuê xe mùa mưa",
+      "kw2": [
+        "người nước ngoài đi xe mùa mưa"
+      ],
+      "links": [
+        "/blog/thue-xe/khach-quoc-te/",
+        "/blog/ky-nang/thoi-tiet-va-duong-sa/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách quốc tế tự lái",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-046",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Người nước ngoài bị dừng kiểm tra giấy tờ khi thuê xe máy",
+      "intent": "Biết cách xử lý khi khách quốc tế bị dừng kiểm tra giấy tờ",
+      "kw": "người nước ngoài bị kiểm tra giấy tờ",
+      "kw2": [
+        "bị dừng xe khách quốc tế"
+      ],
+      "links": [
+        "/blog/thue-xe/khach-quoc-te/",
+        "/blog/an-toan-phap-ly/giay-phep-lai-xe/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách quốc tế tự lái",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-047",
+      "child_id": "C-THUE-DAT-COC",
+      "title": "Đặt cọc khi thuê xe ga cao cấp ở Hà Nội",
+      "intent": "Hiểu cách đặt cọc khi thuê xe ga cao cấp",
+      "kw": "đặt cọc thuê xe ga cao cấp",
+      "kw2": [
+        "cọc thuê xe cao cấp"
+      ],
+      "links": [
+        "/blog/thue-xe/dat-coc/",
+        "/blog/xe-may/chon-loai-xe/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách thuê xe cao cấp",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-048",
+      "child_id": "C-THUE-DAT-COC",
+      "title": "Đặt cọc qua ví điện tử khi thuê xe máy",
+      "intent": "Hiểu đặt cọc qua ví điện tử khi thuê xe máy",
+      "kw": "đặt cọc qua ví điện tử",
+      "kw2": [
+        "cọc online thuê xe máy"
+      ],
+      "links": [
+        "/blog/thue-xe/dat-coc/",
+        "/blog/thue-xe/thu-tuc/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách thanh toán số",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-049",
+      "child_id": "C-THUE-DAT-COC",
+      "title": "Đặt cọc khi nhận xe máy giao tận nơi",
+      "intent": "Hiểu cách đặt cọc khi nhận xe giao tận nơi",
+      "kw": "đặt cọc khi giao xe tận nơi",
+      "kw2": [
+        "giao xe tận nơi cần cọc không"
+      ],
+      "links": [
+        "/blog/thue-xe/dat-coc/",
+        "/blog/thue-xe/thu-tuc/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "khách đặt xe từ xa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-050",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Kỹ thuật vượt xe an toàn trên đường",
+      "intent": "Biết cách vượt xe an toàn bằng xe máy",
+      "kw": "cách vượt xe an toàn",
+      "kw2": [
+        "vượt xe trên quốc lộ"
+      ],
+      "links": [
+        "/blog/ky-nang/ky-nang-lai-co-ban/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người mới đi xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-051",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Giữ khoảng cách an toàn khi đi xe máy",
+      "intent": "Biết cách giữ khoảng cách an toàn với xe phía trước",
+      "kw": "khoảng cách an toàn xe máy",
+      "kw2": [
+        "quy tắc 2 giây xe máy"
+      ],
+      "links": [
+        "/blog/ky-nang/ky-nang-lai-co-ban/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người mới đi xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-052",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Hạ dốc dài bằng xe ga an toàn",
+      "intent": "Biết kỹ thuật hạ dốc dài an toàn bằng xe ga",
+      "kw": "hạ dốc bằng xe ga",
+      "kw2": [
+        "đi dốc dài xe ga"
+      ],
+      "links": [
+        "/blog/ky-nang/ky-nang-lai-co-ban/",
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe ga cung đường đèo",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-053",
+      "child_id": "C-QUY-DINH",
+      "title": "Quy định tốc độ xe máy trong đô thị và ngoài đô thị",
+      "intent": "Hiểu quy định tốc độ áp dụng cho xe máy",
+      "kw": "quy định tốc độ xe máy",
+      "kw2": [
+        "giới hạn tốc độ đô thị xe máy"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/quy-dinh-giao-thong/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người thuê xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-054",
+      "child_id": "C-QUY-DINH",
+      "title": "Quy định chở hàng cồng kềnh trên xe máy",
+      "intent": "Hiểu quy định chở hàng cồng kềnh trên xe máy",
+      "kw": "chở hàng cồng kềnh xe máy",
+      "kw2": [
+        "quy định chở hàng trên xe"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/blog/ky-nang/cho-do-va-hanh-ly/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người chở hàng bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-055",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Cung đường cầu Nhật Tân ven sông Hồng chiều tối",
+      "intent": "Biết cung cầu Nhật Tân và ven sông Hồng buổi chiều tối",
+      "kw": "cung cầu nhật tân ven sông",
+      "kw2": [
+        "chạy xe cầu nhật tân"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-noi-thanh/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "cặp đôi đi chiều tối",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-056",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Cung đường hồ Linh Đàm bằng xe máy",
+      "intent": "Biết cung đường chạy quanh hồ Linh Đàm",
+      "kw": "cung hồ linh đàm",
+      "kw2": [
+        "chạy xe quanh hồ linh đàm"
+      ],
+      "links": [
+        "/blog/cung-duong/cung-duong-noi-thanh/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người mới chạy nội đô",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-057",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở khách sạn và nhà nghỉ khi đi xe máy",
+      "intent": "Biết cách gửi xe máy ở khách sạn và nhà nghỉ",
+      "kw": "gửi xe khách sạn",
+      "kw2": [
+        "để xe qua đêm nhà nghỉ"
+      ],
+      "links": [
+        "/blog/ky-nang/gui-xe-va-giu-xe/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi du lịch tự túc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-058",
+      "child_id": "C-BAO-HIEM",
+      "title": "Thủ tục bồi thường bảo hiểm TNDS khi va chạm",
+      "intent": "Hiểu thủ tục bồi thường bảo hiểm TNDS sau va chạm",
+      "kw": "bồi thường bảo hiểm tnds",
+      "kw2": [
+        "thủ tục bảo hiểm xe máy va chạm"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/bao-hiem/",
+        "/blog/thue-xe/su-co/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1400,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-059",
+      "child_id": "C-GPLX",
+      "title": "Bị tạm giữ giấy phép lái xe máy: xử lý thế nào",
+      "intent": "Biết cách xử lý khi bị tạm giữ giấy phép lái xe máy",
+      "kw": "bị tạm giữ bằng lái xe máy",
+      "kw2": [
+        "khi nào bị tạm giữ gplx"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/blog/an-toan-phap-ly/phat-nguoi/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-060",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Nộp phạt nguội online: các bước cơ bản",
+      "intent": "Biết các bước nộp phạt nguội qua dịch vụ công trực tuyến",
+      "kw": "nộp phạt nguội online",
+      "kw2": [
+        "nộp phạt qua dịch vụ công"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/phat-nguoi/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người bị phạt nguội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-061",
+      "child_id": "C-THUE-NGAY",
+      "title": "Thuê xe máy một ngày đi Phố Hiến Hưng Yên",
+      "intent": "Lên kế hoạch một ngày đi Phố Hiến bằng xe máy thuê",
+      "kw": "thuê xe ngày đi phố hiến",
+      "kw2": [
+        "hà nội phố hiến 1 ngày"
+      ],
+      "links": [
+        "/blog/thue-xe/thue-ngay/",
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi phượt ngày",
+      "location_scope": "hưng yên",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-062",
+      "child_id": "C-THUE-NGAY",
+      "title": "Thuê xe máy một ngày đi chùa Tây Phương",
+      "intent": "Lên kế hoạch một ngày đi chùa Tây Phương bằng xe máy thuê",
+      "kw": "thuê xe đi chùa tây phương",
+      "kw2": [
+        "hà nội chùa tây phương 1 ngày"
+      ],
+      "links": [
+        "/blog/thue-xe/thue-ngay/",
+        "/blog/cung-duong/cung-duong-cuoi-tuan/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "người đi phượt ngày",
+      "location_scope": "thạch thất",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-063",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Thác Dải Yếm Mộc Châu bằng xe máy từ Hà Nội",
+      "intent": "Tìm cung đường Hà Nội đi thác Dải Yếm Mộc Châu",
+      "kw": "hà nội đi thác dải yếm",
+      "kw2": [
+        "thác dải yếm mộc châu"
+      ],
+      "links": [
+        "/blog/cung-duong/moc-chau/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "phượt thủ",
+      "location_scope": "mộc châu",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-064",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Bản Lác Mai Châu đi bằng xe máy: trải nghiệm bản làng",
+      "intent": "Tìm kinh nghiệm đi bản Lác Mai Châu bằng xe máy",
+      "kw": "bản lác mai châu xe máy",
+      "kw2": [
+        "mai châu bản lác"
+      ],
+      "links": [
+        "/blog/cung-duong/mai-chau/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "cặp đôi cuối tuần",
+      "location_scope": "mai châu",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-065",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Sông Nho Quế Hà Giang bằng xe máy: nhìn từ lên cao",
+      "intent": "Biết cách đi tới các điểm nhìn sông Nho Quế bằng xe máy",
+      "kw": "sông nho quế bằng xe máy",
+      "kw2": [
+        "điểm nhìn nho quế"
+      ],
+      "links": [
+        "/blog/cung-duong/ha-giang/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "phượt thủ",
+      "location_scope": "hà giang",
+      "word_target": 1300,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
+    },
+    {
+      "candidate_id": "CAND-2026-09-30-066",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Chợ phiên Đồng Văn bằng xe máy cuối tuần",
+      "intent": "Biết lịch và trải nghiệm chợ phiên Đồng Văn",
+      "kw": "chợ phiên đồng văn",
+      "kw2": [
+        "chợ đá đồng văn"
+      ],
+      "links": [
+        "/blog/cung-duong/ha-giang/"
+      ],
+      "subtopic": "refill-2026-09-30",
+      "audience": "phượt thủ",
+      "location_scope": "hà giang",
+      "word_target": 1200,
+      "materialized_at": "2026-09-30T18:45:31+00:00",
+      "materialized_head": "9f83face4dd485da99cca53b59e6aad579ff784e"
     }
   ]
 }
