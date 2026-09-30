@@ -23,10 +23,12 @@
     "blocked": 1,
     "fail": 0
   },
-  "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận chunk tối đa 10 hàng PLANNED bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart.",
+  "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận cặp 2 hàng PLANNED (chunk_size trong data/factory/production-control.json) bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart.",
   "rules": {
     "max_chunk": 10,
-    "publish_requires": "QUALITY>=75 AND SEO>=75 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE",
+    "chunk_size": 2,
+    "production_control": "data/factory/production-control.json (enabled=true -> tiếp tục; enabled=false -> dừng trước khi claim cặp mới)",
+    "publish_requires": "QUALITY>=75 AND SEO>=70 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE",
     "evidence": "data/qa/<BLG-ID>.json (bắt buộc khi promote, kiểm bởi scripts/factory/publish-gate.py)"
   }
 }

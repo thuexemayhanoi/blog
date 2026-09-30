@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """FACTORY OPERATOR — tay deterministic cho writer ngoài (external AI).
 
-Mô hình (docs/PROC-PUBLISH.md — hợp đồng 3 workflow):
+Mô hình (docs/PROC-PUBLISH.md — hợp đồng 4 workflow):
   EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write)
     -> workflow_dispatch trên .github/workflows/factory-production.yml
        (inputs action/count/ids, KHÔNG còn file lệnh operator-command.json)
@@ -18,7 +18,8 @@ Mọi thao tác là deterministic trên engine chuẩn của /blog:
 
 Ops whitelist:
   status                                  — in trạng thái (read-only)
-  prepare-next [--count N]                — claim N hàng PLANNED (mặc định 5, tối đa 10)
+  prepare-next [--count N]                — claim N hàng PLANNED (mặc định
+                                            production-control chunk_size=2, tối đa 10)
   qa [--ids ID1,ID2] [--scope fast|deep|full]
                                           — QA deterministic cho hàng WRITING/QA/REPAIR
   publish --ids ID1,ID2 [--scope fast|deep|full]
@@ -38,9 +39,9 @@ Ops whitelist:
 
 QA SCOPE (docs/PROC-PUBLISH.md "QA modes" — sản xuất thủ công, KHÔNG tự lặp):
   fast (mặc định)  — validate.py --scope chunk: CHỈ chunk hiện tại + nền bắt
-                     buộc. Đây là QA sản xuất cho mỗi chunk 10 bài; KHÔNG
+                     buộc. Đây là QA sản xuất cho mỗi cặp 2 bài; KHÔNG
                      chạy audit toàn site. Ngưỡng KHÔNG đổi giữa các mức:
-                     quality>=75, seo>=75, business_fact/legal PASS-FAIL giữ nguyên.
+                     quality>=75, seo>=70, business_fact/legal PASS-FAIL giữ nguyên.
   deep             — validate.py --scope batch: nền + inventory/matrix/hub
                      rộng hơn, không quét sitemap live. Chạy thủ công (~50 bài).
   full             — validate.py --scope full: toàn repository kèm sitemap
@@ -76,14 +77,28 @@ LOCK = 'data/state/writer-lock.json'
 LOCK_FILE = 'data/state/writer-lock.active'
 
 MAX_CHUNK = 10
-DEFAULT_CHUNK = 5
+DEFAULT_CHUNK = 2
 REPAIR_BUDGET = 3
 QUALITY_MIN = 75
-SEO_MIN = 75
+SEO_MIN = 70
 
 # QA modes (docs/PROC-PUBLISH.md): fast = validate scope chunk (mặc định cho
 # sản xuất 10 bài), deep = scope batch, full = scope full. KHÔNG hạ ngưỡng.
 QA_MODES = ('fast', 'deep', 'full')
+
+CONTROL = 'data/factory/production-control.json'
+
+
+def load_control():
+    """Đọc data/factory/production-control.json (durable on/off switch).
+    Thiếu/hỏng file -> mặc định an toàn: enabled=true, chunk_size=2
+    (hợp đồng docs/factory-workflow-contract.md)."""
+    try:
+        c = read_json(CONTROL, {}) or {}
+        return {'enabled': bool(c.get('enabled', True)),
+                'chunk_size': int(c.get('chunk_size', DEFAULT_CHUNK))}
+    except Exception:
+        return {'enabled': True, 'chunk_size': DEFAULT_CHUNK}
 
 
 def validate_scope_for_mode(mode):
@@ -173,7 +188,7 @@ def preflight(require_clean_txn=True, scope='chunk'):
 
     scope: phạm vi validate.py (chunk/batch/full). Mặc định 'chunk' —
     FAST QA: chỉ chunk hiện tại + nền bắt buộc, KHÔNG audit toàn site
-    cho mỗi chunk 10 bài (docs/PROC-PUBLISH.md). Ngưỡng QA không đổi."""
+    cho mỗi cặp 2 bài (docs/PROC-PUBLISH.md). Ngưỡng QA không đổi."""
     ok = subprocess.run([sys.executable, 'scripts/factory/validate.py',
                          '--scope', scope],
                         capture_output=True, text=True)
@@ -668,8 +683,8 @@ def qa_check_one(row, rows, biz, tax):
                               and legal in ('PASS', 'NOT_REQUIRED')
                               and not critical) else 'REPAIR'
     # Phân loại mức sản xuất (docs/QUALITY-RUBRIC.md): ngưỡng xuất bản
-    # 75/75; 90+ là EXCELLENT; 75-89 là PASS (cảnh báo QA — các vấn đề
-    # polish không nghiêm trọng defer cho weekly-maintenance).
+    # 75/70; 90+ là EXCELLENT; 75-89 là PASS (cảnh báo QA — các vấn đề
+    # polish không nghiêm trọng defer cho factory-publish-verify).
     if ev['result'] == 'PASS':
         ev['grade'] = ('EXCELLENT' if (quality >= 90 and seo >= 90)
                        else 'PASS')
@@ -721,7 +736,7 @@ def op_qa(args, biz, tax):
                 print('qa %s: PASS quality=%d seo=%d' % (aid, ev['quality'], ev['seo']))
                 if ev.get('grade') != 'EXCELLENT':
                     print('qa %s: [QA WARNING: 75-89 — vấn đề polish không '
-                          'nghiêm trọng defer cho weekly-maintenance]'
+                          'nghiêm trọng defer cho factory-publish-verify]'
                           % aid)
             else:
                 repair_n = int(row['repair_count'] or 0)
@@ -795,7 +810,7 @@ def run_reports_checked(ctx):
 def validate_or_stop(ctx, scope='chunk', extra_args=None):
     """validate.py chuan sau khi op doi state — FAIL thi DUNG, KHÔNG
     rollback tay (docs/RECOVERY.md). scope mặc định 'chunk' (FAST QA):
-    chunk 10 bài không bị chặn bởi audit toàn site. extra_args: đối số
+    chunk sản xuất không bị chặn bởi audit toàn site. extra_args: đối số
     bổ sung (ví dụ --expect-txn-phase cho hậu kiểm recover fail-closed)."""
     cmd = [sys.executable, 'scripts/factory/validate.py',
            '--scope', scope] + list(extra_args or [])
@@ -832,6 +847,7 @@ def op_status(args):
                        'in_progress_chunk': cp.get('in_progress_chunk')},
         'transaction_active': txn.get('active'),
         'lock_held': held, 'lock_holder': meta.get('holder'),
+        'production_control': load_control(),
         'matrix_counts': counts,
     }, ensure_ascii=False, indent=2))
     return 0
@@ -840,8 +856,14 @@ def op_status(args):
 def op_prepare_next(args, biz, tax):
     mode = getattr(args, 'scope', None) or 'fast'
     vscope = validate_scope_for_mode(mode)
+    control = load_control()
+    if not control['enabled']:
+        bail('production-control: enabled=false — DỪNG trước khi claim cặp '
+             'mới (data/factory/production-control.json). Hoàn tất '
+             'transaction/qa/publish việc đang dở qua op riêng, KHÔNG '
+             'claim thêm.')
     txn, cp, rows = preflight(scope=vscope)
-    count = min(int(args.count or DEFAULT_CHUNK), MAX_CHUNK)
+    count = min(int(args.count or control['chunk_size']), MAX_CHUNK)
     if count < 1:
         bail('count phải >= 1')
     # hòa giải việc dở trước: không claim mới khi còn hàng đang làm

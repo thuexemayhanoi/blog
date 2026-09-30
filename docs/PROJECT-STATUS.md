@@ -45,7 +45,7 @@ reports/factory/progress.json, reports/factory/matrix-report.md.
   (min_ready_queue 100). Co che refill da duoc chung minh
   bang smoke test va gate CI.
 - Run sua workflow 2026-09-27 (lich su, workflow nay da retire
-  2026-09-30 trong hop dong 3 workflow — xem
+  2026-09-30 trong hop dong 4 workflow — xem
   docs/factory-workflow-contract.md): factory-capacity-validate.yml
   duoc sua lai (nguyen nhan loi jobs=[] la line-continuation
   lam hong YAML block scalar). CI validation bay gio

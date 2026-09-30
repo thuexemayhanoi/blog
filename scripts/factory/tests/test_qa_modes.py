@@ -8,7 +8,7 @@ Chứng minh (docs/PROC-PUBLISH.md "QA modes"):
   - FAST (scope chunk) CHỈ kiểm chunk hiện tại + nền bắt buộc: một lỗi
     toàn site (URL legacy sai, hash QA bài PUBLISHED ngoài chunk) KHÔNG
     chặn FAST, nhưng DEEP/FULL phát hiện được.
-  - FAST vẫn chấm đầy đủ từng bài (ngưỡng 75/75, legal, business facts)
+  - FAST vẫn chấm đầy đủ từng bài (ngưỡng 75/70, legal, business facts)
     và VẪN publish được khi FULL audit FAIL (lỗi ngoài chunk).
   - release-chunk: pause an toàn — chỉ trả hàng WRITING chưa có draft;
     hàng có draft/QA evidence được giữ; PUBLISHED không bị hạ.
@@ -561,7 +561,7 @@ class TestManualProductionFlow(FxTestCase):
         set_word_target(self.fx, row['id'], 100)
         p = make_draft(self.fx, row)
         # phá meta description (ngắn, thiếu từ khóa) + lệch title so với
-        # matrix -> seo < 75 -> REPAIR, KHÔNG hạ ngưỡng
+        # matrix -> seo < 70 -> REPAIR, KHÔNG hạ ngưỡng
         text = open(p, encoding='utf-8').read()
         text = re.sub(r'^description: .*$', 
 'description: "ngắn"',
@@ -578,9 +578,10 @@ class TestManualProductionFlow(FxTestCase):
                          'REPAIR')
 
     def test_threshold_constants_unchanged(self):
-        self.assertEqual(op_mod().SEO_MIN, 75)
+        self.assertEqual(op_mod().SEO_MIN, 70)
         self.assertEqual(op_mod().QUALITY_MIN, 75)
         self.assertEqual(op_mod().MAX_CHUNK, 10)
+        self.assertEqual(op_mod().DEFAULT_CHUNK, 2)
 
     def test_lock_blocks_second_writer(self):
         code = (

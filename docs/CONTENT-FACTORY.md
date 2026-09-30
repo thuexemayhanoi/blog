@@ -35,7 +35,7 @@ Kết quả mong đợi mỗi bài: đủ 5 điều kiện gate (xem `AGENTS.md`
 
 ## Chunk
 
-Một chunk tối đa 10 bài. Chỉ nhận chunk khi: transaction inactive, lock tự do, checkpoint cho phép, matrix có hàng claimable (hiện CÓ — checkpoint `next_claimable_id` tính từ matrix thật). Chunk chạy thật 2026-09-27: BLG-00484/00485/00493 (3 bài, cùng C-THUE-GIA, không trùng intent) qua toàn chu trình write → QA evidence → gate → PUBLISHED → deploy → live 200 + sitemap. Kiểm chứng bài factory trong `_posts` phải khớp hàng matrix PUBLISHED: `validate.py` tự FAIL khi có `_posts` mang article_id không hợp lệ. Self-healing theo thứ tự: pending transaction → chunk dở → REPAIR → REVIEW (cần đọc nội dung, không tự động) → POST_AUDIT/FRESHNESS quá hạn → PLANNED mới.
+Một cặp sản xuất mặc định 2 bài (production-control chunk_size; tối đa kỹ thuật 10). Chỉ nhận chunk khi: transaction inactive, lock tự do, checkpoint cho phép, matrix có hàng claimable (hiện CÓ — checkpoint `next_claimable_id` tính từ matrix thật). Chunk chạy thật 2026-09-27: BLG-00484/00485/00493 (3 bài, cùng C-THUE-GIA, không trùng intent) qua toàn chu trình write → QA evidence → gate → PUBLISHED → deploy → live 200 + sitemap. Kiểm chứng bài factory trong `_posts` phải khớp hàng matrix PUBLISHED: `validate.py` tự FAIL khi có `_posts` mang article_id không hợp lệ. Self-healing theo thứ tự: pending transaction → chunk dở → REPAIR → REVIEW (cần đọc nội dung, không tự động) → POST_AUDIT/FRESHNESS quá hạn → PLANNED mới.
 
 ## Transaction + lock (an toàn)
 
@@ -50,7 +50,7 @@ Một chunk tối đa 10 bài. Chỉ nhận chunk khi: transaction inactive, loc
 
 ## CI/CD
 
-- `.github/workflows/quality-gate.yml`: validate FAST (scope chunk) + build Jekyll + link integrity + nháp không deploy + hub sanity, trên mọi push/PR (read-only). Audit sâu (drift generators, verify FULL) nằm ở weekly-maintenance.yml.
+- `.github/workflows/quality-gate.yml`: validate FAST (scope chunk) + build Jekyll + link integrity + nháp không deploy + hub sanity, trên mọi push/PR (read-only). Audit sâu (drift generators, verify FULL) nằm ở factory-publish-verify.yml; liveness 6h ở factory-liveness.yml.
 - Campaign cũ hanoi-seo-480 đã retire cùng `publish-queue.yml`; `_data/publishing.yml` giữ `enabled: false`. Sản xuất chỉ qua `factory-production.yml` (docs/PROC-PUBLISH.md).
 - Pages build success KHÔNG đủ để tuyên bố hoàn thành; phải kiểm tra runtime.
 
@@ -97,6 +97,6 @@ Writer CHỈ sản xuất NỘI DUNG ngữ nghĩa của bài. Layout sở hữu 
 - Kế hoạch lô: batch_id B### nhóm 50 hàng PLANNED theo thứ tự id.
 - Lỗi dữ liệu đã chứng minh: BLG-00507 trùng slug legacy BLG-00044 →
   BLOCKED (giữ ID, chặn sản xuất, chờ chủ xe quyết định).
-- Hợp đồng quy trình sản xuất (chunk 3–5, tối đa 10, mục tiêu RUN 20–50
+- Hợp đồng quy trình sản xuất (cặp 2 bài liên tục theo production-control, tối đa kỹ thuật 10, mục tiêu RUN 20–50
   bài PUBLISHED, stop conditions, self-healing): `docs/factory-workflow-contract.md`.
   Chưa lập lịch — phải chờ lệnh chủ xe.

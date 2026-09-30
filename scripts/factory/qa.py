@@ -7,12 +7,12 @@ vòng lặp Actions tự chạy tiếp. Người vận hành (chủ xe / agent t
 tay "CONTINUE BLOG") tự quyết định khi nào chạy mức nào:
 
   python3 scripts/factory/qa.py --mode fast [--ids BLG-xxx,...]
-      MẶC ĐỊNH cho mỗi chunk 10 bài. QA deterministic từng bài (cấu
+      MẶC ĐỊNH cho mỗi cặp 2 bài. QA deterministic từng bài (cấu
       trúc, SEO on-page, link nội bộ, business facts, cannibalization,
       legal/source) + validate.py --scope chunk (chỉ chunk hiện tại +
       nền bắt buộc). KHÔNG quét legacy 483 bài, KHÔNG sitemap live,
       KHÔNG audit toàn site. Ngưỡng KHÔNG đổi giữa các mức: quality >= 75,
-      seo >= 75, business_fact/legal PASS-FAIL.
+      seo >= 70, business_fact/legal PASS-FAIL.
 
   python3 scripts/factory/qa.py --mode deep
       Sau ~50 bài hoặc khi cần soát rộng: everything của fast + hạng
@@ -26,7 +26,7 @@ tay "CONTINUE BLOG") tự quyết định khi nào chạy mức nào:
 
 QA từng bài (bằng chứng data/qa/<ID>.json) và publish gate KHÔNG đổi
 giữa các mức — chỉ phạm vi validate nền tảng thay đổi. Mức fast vẫn
-bắt buộc quality >= 75, seo >= 75, legal/source gate, business facts.
+bắt buộc quality >= 75, seo >= 70, legal/source gate, business facts.
 """
 import argparse
 import subprocess

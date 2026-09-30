@@ -7,7 +7,7 @@ workflow operator cũ có dấu " thừa cuối dòng
 (`... ${SCOPE:+--scope $SCOPE}"`) — bash -n từ chối ngay từ đầu nhưng
 workflow chỉ phát hiện khi chạy TỚI bước đó trong sản xuất, làm mất
 nguyên run operator. Từ đây mọi khối run: phải được kiểm bash -n
-trong verify FAST của factory-production.yml và weekly-maintenance.yml
+trong verify FAST của factory-production.yml và factory-publish-verify.yml
 sản xuất, KHÔNG đợi đến lúc bước đó thực sự chạy.
 
 Không cần pyyaml: trích khối run: theo indent (block scalar `|`/`>`
@@ -109,9 +109,9 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
                                 'thiếu workflow trong .github/workflows')
         names = sorted(os.path.basename(f) for f in found)
         self.assertEqual(
-            names, ['factory-production.yml', 'quality-gate.yml',
-                    'weekly-maintenance.yml'],
-            'hop dong 3 workflow (docs/factory-workflow-contract.md): '
+            names, ['factory-liveness.yml', 'factory-production.yml',
+                    'factory-publish-verify.yml', 'quality-gate.yml'],
+            'hop dong 4 workflow (docs/factory-workflow-contract.md): '
             'cac workflow cu phai duoc retire, khong them workflow moi')
 
     def test_every_run_block_passes_bash_n(self):

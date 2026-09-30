@@ -40,7 +40,7 @@ hất.
 - `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
 - `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
 - `reports/factory/` — report sinh từ dữ liệu thật.
-- `.github/workflows/` — đúng 3 workflow (docs/factory-workflow-contract.md): `quality-gate.yml` (CI FAST mọi push/PR, read-only), `factory-production.yml` (đường sản xuất workflow_dispatch — xem `docs/PROC-PUBLISH.md`), `weekly-maintenance.yml` (audit tuần read-only). Pages deploy bằng cơ chế built-in của GitHub.
+- `.github/workflows/` — đúng 4 workflow (docs/factory-workflow-contract.md): `quality-gate.yml` (CI FAST mọi push/PR, read-only), `factory-production.yml` (đường sản xuất workflow_dispatch, chunk 2 bài theo `data/factory/production-control.json` — xem `docs/PROC-PUBLISH.md`), `factory-liveness.yml` (liveness read-only mỗi 6 giờ), `factory-publish-verify.yml` (FULL audit read-only, dispatch). Pages deploy bằng cơ chế built-in của GitHub.
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 

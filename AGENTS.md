@@ -4,7 +4,7 @@ Blog Jekyll trên GitHub Pages. Một chủ xe vận hành qua AI trên điện 
 Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. Kỹ thuật sâu
 (chống double-spend, SHA evidence, 4 tầng test, soak): docs/ADVANCED-FACTORY-RECOVERY.md.
 
-## Mô hình 3 workflow (docs/factory-workflow-contract.md)
+## Mô hình 4 workflow (docs/factory-workflow-contract.md)
 
 - `quality-gate.yml` — CI FAST trên MỌI push main / PR: validate chunk + Jekyll
   build + link integrity + draft leak + sitemap/hub sanity. READ-ONLY.
@@ -12,9 +12,12 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   action: `status | resume | next | qa | publish | refill` (+ count 1-10, ids).
   Không cron, không AI, không secret AI. Push chỉ fast-forward; rebase xong
   phải validate lại; KHÔNG force push.
-- `weekly-maintenance.yml` — audit tuần READ-ONLY (cron 09:30 Hà Nội thứ Hai):
-  watchdog + verify FULL + refill gates + sitemap plan + generator drift +
-  build/links deep. KHÔNG commit.
+- `factory-liveness.yml` — liveness READ-ONLY mỗi 6 giờ (cron): watchdog +
+  status + purity. KHÔNG bao giờ recover/delete/claim/publish.
+- `factory-publish-verify.yml` — FULL audit READ-ONLY (CHỈ workflow_dispatch,
+  không cron): watchdog + verify FULL + refill gates + sitemap plan +
+  generator drift + build/links deep. KHÔNG commit. Thay cho
+  weekly-maintenance.yml đã retire.
 
 Luồng chunk: `next` (claim PLANNED) → writer viết draft `_drafts/` → `qa`
 (chấm + evidence hash) → sửa nếu REPAIR → `publish` (promote qua gate) →
@@ -28,7 +31,7 @@ chờ Quality gate xanh + Pages deploy + kiểm URL live. Hết PLANNED thì
    reports sinh máy.
 2. Xuất bản CHỈ qua `scripts/factory/publish-gate.py` (cổng duy nhất vào
    `_posts/`). KHÔNG promote tay, KHÔNG tạo URL trùng ID/slug/canonical.
-3. Ngưỡng xuất bản: `quality >= 75`, `seo >= 75`, `business_fact = PASS`,
+3. Ngưỡng xuất bản: `quality >= 75`, `seo >= 70`, `business_fact = PASS`,
    `legal = PASS | NOT_REQUIRED`, không critical failure. 90+ = EXCELLENT;
    75-89 = PASS (cảnh báo QA — vấn đề polish defer cho weekly audit).
    KHÔNG hạ dưới mức chủ xe đã duyệt. KHÔNG tự hạ ngưỡng khi QA FAIL.

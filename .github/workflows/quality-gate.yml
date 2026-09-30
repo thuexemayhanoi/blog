@@ -1,6 +1,6 @@
 name: Quality gate
 
-# CONG FAST CUA /blog (hop dong 3 workflow — docs/factory-workflow-contract.md).
+# CONG FAST CUA /blog (hop dong 4 workflow — docs/factory-workflow-contract.md).
 # Chay tren MOI push main + PR + dispatch: nhanh, READ-ONLY (contents: read),
 # khong bao gio commit/push ve main. Bai moi phai qua cong nay + Pages deploy.
 #
@@ -10,10 +10,11 @@ name: Quality gate
 #   - check-built-links.py: KHONG 404 noi bo trong cay da build
 #   - draft-leak: bai nhap khong duoc xuat ra site/sitemap
 #   - sanity sitemap/schema/hub render toi thieu
-# Audit nang (watchdog, verify full, refill, drift generators) thuoc
-# weekly-maintenance.yml (read-only, cron thu 2 hang tuan).
+# Audit nang (verify full, refill, drift generators) thuoc
+# factory-publish-verify.yml (read-only, workflow_dispatch); liveness
+# thuoc factory-liveness.yml (read-only, cron moi 6 gio).
 # San xuat (status/resume/next/qa/publish) thuoc factory-production.yml
-# (workflow_dispatch, tuan theo nguong 75/75 — docs/PROC-PUBLISH.md).
+# (workflow_dispatch, tuan theo nguong 75/70 — docs/PROC-PUBLISH.md).
 
 on:
   push:

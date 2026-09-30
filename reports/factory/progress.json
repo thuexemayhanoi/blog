@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:43:31+00:00",
+  "generated_at": "2026-09-30T16:00:18+00:00",
   "data_through": "2026-09-30",
   "data_fingerprint": "a503664fe77ff10890d288b8c494b9d59813dd74544f67a4414b7249dec4d5d0",
   "matrix_sha256": "120cc6b8355433e526de968cb7b9309399ee87aff28774b99f2f22d68deb3a64",
@@ -48,5 +48,5 @@
     "next_claimable_id": "BLG-00968",
     "in_progress_chunk": null
   },
-  "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận chunk tối đa 10 hàng PLANNED bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart."
+  "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận cặp 2 hàng PLANNED (chunk_size trong data/factory/production-control.json) bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart."
 }

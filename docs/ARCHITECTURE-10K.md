@@ -84,7 +84,7 @@ asible,
 
 ## Batch / run model
 
-- Mot transaction: 3-5 bai (toi da 10).
+- Mot transaction: cap 2 bai (chunk_size production-control; toi da 10).
 - Mot RUN: nhieu transaction; muc tieu mem 20-50 PUBLISHED/run.
 - Batch planning: 50 hang/lo, ~200 lo cho 10K; mot lo co the
   materialized mot phan (vi du B037: capacity 50,
@@ -106,7 +106,7 @@ asible,
 duplicate intent, cannibalization, broken links, sitemap,
 indexability, build size, CI duration, Pages deploy,
 chat luong noi dung, legal freshness, factory state.
-(Kiem tra trong weekly-maintenance.yml — audit FULL tuan, read-only.)
+(Kiem tra trong factory-publish-verify.yml — audit FULL theo yeu cau, read-only.)
 
 ## Cac thanh phan tri tue
 
@@ -116,7 +116,7 @@ chat luong noi dung, legal freshness, factory state.
 - scripts/factory/refill-queue.py: lazy refill (plan/verify/
   dry-run/selftest/refill).
 - scripts/factory/sitemap-plan.py: du do shard sitemap.
-- .github/workflows/weekly-maintenance.yml: audit tuan READ-ONLY
+- .github/workflows/factory-publish-verify.yml: FULL audit READ-ONLY (dispatch); factory-liveness.yml: liveness read-only moi 6 gio
   (contents: read, KHONG commit ve main) cho toan bo tren: capacity
   audit, queue stats, refill verify + selftest, sitemap plan,
   generator drift. Cong FAST moi push: quality-gate.yml.
@@ -124,7 +124,7 @@ chat luong noi dung, legal freshness, factory state.
 ## So huu production engine (ownership guard)
 
 - _data/publishing.yml: campaign LEGACY da retire cung
-  publish-queue.yml (hop dong 3 workflow), enabled: false vinh
+  publish-queue.yml (hop dong 4 workflow), enabled: false vinh
   vien. KHONG duoc bat lai song song voi
   factory 10K. Factory 10K (writer lock + transaction + publish
   gate) la engine duy nhat so huu production.

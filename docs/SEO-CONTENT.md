@@ -15,6 +15,6 @@ Nguồn chuẩn: manifest hàng (khi có matrix), taxonomy (`data/content-taxono
 
 ## Kiểm tra trước xuất bản
 
-Chấm theo `docs/QUALITY-RUBRIC.md` (SEO ≥ 75). Bằng chứng: outline, danh sách link render, kết quả đối chiếu cannibalization. Đánh giá "chất lượng thực sự" do AI/người đọc, không do script đếm từ khóa.
+Chấm theo `docs/QUALITY-RUBRIC.md` (SEO ≥ 70). Bằng chứng: outline, danh sách link render, kết quả đối chiếu cannibalization. Đánh giá "chất lượng thực sự" do AI/người đọc, không do script đếm từ khóa.
 
 Xử lý lỗi: SEO < 75 → tối ưu an toàn, chấm lại; cannibalization → REVIEW, không xuất bản bài thứ ba cho intent đã có.

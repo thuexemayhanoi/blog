@@ -1,0 +1,64 @@
+name: Factory liveness
+
+# LIVENESS READ-ONLY MOI 6 GIO (hop dong 4 workflow —
+# docs/factory-workflow-contract.md). Chi BAO CAO san xuat dam ruoi:
+# watchdog + trang thai engine + purity check. KHONG BAO GIO
+# recover/delete/claim/publish/refill; moi can thiep qua
+# factory-production.yml (workflow_dispatch).
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: factory-liveness
+  cancel-in-progress: false
+
+jobs:
+  liveness:
+    if: github.repository == 'thuexemayhanoi/blog'
+    name: Watchdog + engine status (read-only)
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Watchdog (bao cao liveness, khong sua gi)
+        run: |
+          set -eu
+          rc=0
+          python3 scripts/factory/watchdog.py || rc=$?
+          if [ "$rc" -ne 0 ]; then
+            echo "::warning::watchdog rc=$rc — san xuat co the dam ruoi (xem output tren). Liveness chi bao cao; moi can thiep qua factory-production.yml."
+          else
+            echo "OK: watchdog HEALTHY."
+          fi
+          {
+            echo "## Factory liveness"
+            echo ""
+            echo '```'
+            python3 scripts/factory/factory-operator.py status
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Purity check (liveness phai read-only)
+        run: |
+          set -eu
+          if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+            echo "FAIL: factory-liveness sua tep tracked — vi pham hop dong READ-ONLY."
+            git status --porcelain --untracked-files=no
+            exit 1
+          fi
+          echo "OK: factory-liveness READ-ONLY, working tree sach."

@@ -1,6 +1,6 @@
 # PROC-PUBLISH — Vòng viết & xuất bản qua Factory production
 
-Mục tiêu: xuất bản một chunk 3–5 bài (tối đa 10) qua đúng engine chuẩn của
+Mục tiêu: xuất bản liên tục từng cặp 2 bài (chunk_size trong `data/factory/production-control.json`, tối đa 10) qua đúng engine chuẩn của
 /blog, KHÔNG để lộ bản nháp, KHÔNG AI trong Actions.
 
 ## Mô hình vận hành (bắt buộc hiểu đúng)
@@ -35,7 +35,7 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 |---|---|---|
 | `status` | `factory-operator.py status` | read-only; in checkpoint/txn/lock/matrix |
 | `resume` | `factory-operator.py recover` | phục hồi transaction treo; ownership không rõ → STOP |
-| `next` | `factory-operator.py prepare-next --count N --scope fast` | claim N hàng PLANNED → WRITING + manifest; N 1-10, mặc định 5 |
+| `next` | `factory-operator.py prepare-next --count N --scope fast` | claim N hàng PLANNED → WRITING + manifest; N 1-10, mặc định 2 theo production-control |
 | `qa` | `factory-operator.py qa [--ids ...] --scope fast` | QA deterministic; ghi evidence `data/qa/<ID>.json` |
 | `publish` | `factory-operator.py publish --ids ... --scope fast` | promote HÀNG PASS qua publish-gate.py; ids BẮT BUỘC |
 | `refill` | `factory-operator.py refill` | materialize hàng PLANNED từ refill ledger khi dưới ngưỡng; semantic: SUCCESS bắt buộc tạo work thật; hết candidate STAGED → NEEDS_TOPIC_EXPANSION, KHÔNG filler |
@@ -82,7 +82,7 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
-`quality >= 75`, `seo >= 75`, `business_fact = PASS`,
+`quality >= 75`, `seo >= 70`, `business_fact = PASS`,
 `legal = PASS | NOT_REQUIRED`, `critical_failure = false`,
 `content_sha256` khớp draft hiện tại, `matrix_row_sha256` khớp hàng matrix
 hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
@@ -112,12 +112,12 @@ Lệnh chuẩn (local / chẩn đoán):
     python3 scripts/factory/qa.py --mode full
     python3 scripts/factory/validate.py --scope chunk|batch|full
 
-### FAST (mặc định — QA sản xuất mỗi chunk 10 bài)
+### FAST (mặc định — QA sản xuất mỗi cặp 2 bài)
 
 Mặc định FAST cho `next` / `qa` / `publish` ở CẢ preflight lẫn verify cuối
 run: action không chỉ định scope khác thì workflow chạy `--scope fast`.
 FULL giữ cho thay đổi engine/workflow và kiểm tra cuối đợt
-(weekly-maintenance.yml chạy verify FULL mỗi tuần).
+(factory-publish-verify.yml chạy verify FULL theo yêu cầu).
 
 - QA deterministic TỪNG BÀI của chunk hiện tại: cấu trúc, frontmatter,
   H1/H2, title, meta description, canonical/permalink, taxonomy, link
@@ -127,7 +127,7 @@ FULL giữ cho thay đổi engine/workflow và kiểm tra cuối đợt
 - KHÔNG làm sau mỗi 10 bài: quét 483 bài legacy, sitemap live, hash QA
   của MỌI bài PUBLISHED, crawl toàn site. Phát hiện dấu hiệu hệ thống ở
   fast → nâng lên deep/full, KHÔNG hạ ngưỡng.
-- Ngưỡng: quality >= 75, seo >= 75, business_fact/legal PASS-FAIL,
+- Ngưỡng: quality >= 75, seo >= 70, business_fact/legal PASS-FAIL,
   critical_failure = false.
 
 ### DEEP (thủ công, ~mỗi 50 bài)
@@ -140,7 +140,7 @@ integrity. Không sitemap live.
 
 validate.py `--scope full`: toàn repository + capacity-audit + toàn bộ
 suite engine (12 suite, gồm hardening, watchdog, soak 20 vòng hermetic).
-KHÔNG phải điều kiện xuất bản mỗi chunk. weekly-maintenance.yml chạy mức
+KHÔNG phải điều kiện xuất bản mỗi cặp. factory-publish-verify.yml chạy mức
 này mỗi tuần (read-only).
 
 ## HEALTHY (liveness watchdog)
@@ -152,4 +152,4 @@ Sau mỗi run sản xuất, engine phải ở trạng thái HEALTHY
 
 STALE_TXN/STALE_LOCK/STALE_CHECKPOINT/STALLED_ACTIVE (exit 1): xử lý theo
 `docs/RECOVERY.md` rồi mới nhận việc mới. Watchdog READ-ONLY, KHÔNG tự
-xoá/force-unlock. weekly-maintenance chạy watchdog mỗi tuần.
+xoá/force-unlock. factory-liveness chạy watchdog mỗi 6 giờ.

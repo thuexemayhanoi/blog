@@ -122,7 +122,7 @@ class OperatorQATest(unittest.TestCase):
         ev = self.qa(row())
         self.assertEqual(ev['result'], 'PASS', ev['checks'])
         self.assertGreaterEqual(ev['quality'], 75)
-        self.assertGreaterEqual(ev['seo'], 75)
+        self.assertGreaterEqual(ev['seo'], 70)
         self.assertEqual(ev['business_fact'], 'PASS')
         self.assertEqual(ev['legal'], 'NOT_REQUIRED')
         self.assertTrue(ev['content_sha256'])

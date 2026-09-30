@@ -1,18 +1,21 @@
 name: Factory production
 
-# DUONG SAN XUAT DUY NHAT cua /blog (hop dong 3 workflow —
+# DUONG SAN XUAT DUY NHAT cua /blog (hop dong 4 workflow —
 # docs/factory-workflow-contract.md). workflow_dispatch: chu xe hoac AI
 # coordinator dispatch TU GitHub UI/API voi action + count + ids; KHONG con
 # file lenh data/factory/operator-command.json, KHONG cron, KHONG AI, KHONG
 # secret AI. Workflow nay la moi truong thuc thi cho tooling chuan cua /blog
 # (factory-operator.py): writer lock + transaction + checkpoint +
-# publish-gate.py + refill-queue.py + QA evidence + nguong 75/75
-# (docs/PROC-PUBLISH.md).
+# publish-gate.py + refill-queue.py + QA evidence + nguong 75/70
+# (docs/PROC-PUBLISH.md). CAM KET SAN XUAT LIEN TIEC: doc
+# data/factory/production-control.json moi lan prepare-next (enabled=false
+# -> dung truoc khi claim cap moi; chunk_size=2).
 #
 # Ops (action -> factory-operator.py):
 #   status  — in trang thai engine (read-only)
 #   resume  — recover transaction/lock treo (FAIL-CLOSED, docs/RECOVERY.md)
-#   next    — prepare-next: claim N hang PLANNED (count 1-10, mac dinh 5)
+#   next    — prepare-next: claim N hang PLANNED (count 1-10, mac dinh
+#             production-control chunk_size = 2)
 #   qa      — QA deterministic cho hang WRITING/QA/REPAIR (--ids tuy chon)
 #   publish — promote hang PASS qua publish-gate.py (BU bat buoc --ids)
 #   refill  — materialize hang PLANNED moi tu refill ledger (semantic:
@@ -41,9 +44,9 @@ on:
         required: true
         type: string
       count:
-        description: 'So hang claim cho action=next (1-10, mac dinh 5)'
+        description: 'So hang claim cho action=next (1-10, mac dinh 2 theo production-control)'
         required: false
-        default: '5'
+        default: '2'
         type: string
       ids:
         description: 'BLG ids phan cach bang phay (qa/publish)'

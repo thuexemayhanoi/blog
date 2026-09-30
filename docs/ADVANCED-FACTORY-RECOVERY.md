@@ -1,6 +1,6 @@
 # ADVANCED FACTORY RECOVERY — kỹ thuật sâu của engine /blog
 
-Nơi hội tụ kỹ thuật đã dời khỏi AGENTS.md/PROC-PUBLISH.md sau hợp đồng 3
+Nơi hội tụ kỹ thuật đã dời khỏi AGENTS.md/PROC-PUBLISH.md sau hợp đồng 4
 workflow (2026-09-30). KHÔNG cần đọc để sản xuất hàng ngày — chỉ cần khi
 gỡ sự cố engine hoặc đổi workflow. Quy trình sự cố từng bước:
 docs/RECOVERY.md. Vận hành module: docs/ENGINE-RUNBOOK.md.
@@ -37,7 +37,7 @@ docs/RECOVERY.md. Vận hành module: docs/ENGINE-RUNBOOK.md.
 
 ## 4. Bảo vệ xuất bản (publish-gate.py — cổng duy nhất vào _posts/)
 
-Hàng phải PASS; quality >= 75, seo >= 75 (90+ = EXCELLENT, 75-89 = PASS +
+Hàng phải PASS; quality >= 75, seo >= 70 (90+ = EXCELLENT, 75-89 = PASS +
 cảnh báo QA defer polish cho weekly); business_fact PASS; legal
 PASS|NOT_REQUIRED; không critical failure; không trùng ID/slug/canonical;
 bài đã PUBLISHED không bao giờ bị ghi đè. Gate tự giữ lock, mở
@@ -52,7 +52,7 @@ transaction, promote, append history, nhả lock.
    CI + Pages deploy.
 4. Long-run/failure recovery — test_soak_recovery.py (20 vòng hermetic +
    failure injection), chạy trong `factory-operator.py verify --scope full`
-   (weekly-maintenance.yml).
+   (factory-publish-verify.yml — theo yêu cầu; liveness 6h ở factory-liveness.yml).
 
 FULL mạnh hơn DEEP, DEEP mạnh hơn FAST; KHÔNG hạ ngưỡng khi đổi mức.
 
@@ -75,7 +75,7 @@ FULL mạnh hơn DEEP, DEEP mạnh hơn FAST; KHÔNG hạ ngưỡng khi đổi m
   DUY NHẤT materialize candidate STAGED → PLANNED (refill-queue.py, gate
   G1-G8, semantic SUCCESS bắt buộc tạo work thật).
 - Refill khi cần (lazy): `factory-production.yml` action=refill. Kiểm tra
-  sức chứa/đúng đắn mỗi tuần: weekly-maintenance.yml (refill --verify,
+  sức chứa/đúng đắn khi cần: factory-publish-verify.yml (refill --verify,
   --selftest, sitemap-plan.py).
 - Không tự mở rộng topic khi hết candidate STAGED: op refill trả
   NEEDS_TOPIC_EXPANSION — mở rộng topic thật qua gate rồi mới refill.

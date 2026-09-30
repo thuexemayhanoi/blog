@@ -80,7 +80,7 @@ child thuoc taxonomy, ke thua source policy (G7);
 title khong trung toan matrix (G8).
 
 LUU Y CI: cac workflow read-only la quality-gate.yml (FAST moi push)
-va weekly-maintenance.yml (FULL audit tuan) — khong bao gio
+va factory-publish-verify.yml (FULL audit theo yeu cau) — khong bao gio
 commit/push ve main. Refill --verify chi in log/step summary.
 Thay doi trang thai (matrix, seed, ledger, checkpoint) chi
 xay ra qua lenh operator chu dong.
@@ -89,7 +89,7 @@ xay ra qua lenh operator chu dong.
 
 - Doc checkpoint: data/state/checkpoint.json
   (next_claimable_id, in_progress_chunk).
-- Claim 3-5 hang PLANNED (toi da 10) theo thu tu id,
+- Claim 2 hang PLANNED (chunk_size trong data/factory/production-control.json, toi da 10) theo thu tu id,
   giao batch_id 50 hang/lo (generate-matrix.py gan B001...).
 - KHONG restart hang PUBLISHED; KHONG doi trang thai REVIEW.
 
@@ -97,7 +97,7 @@ xay ra qua lenh operator chu dong.
 
 - Viet draft vao _drafts/ (KHONG dung _posts/).
 - QA + bang chung SHA: data/qa/<BLG-ID>.json
-  (quality >= 75, seo >= 75, business_fact PASS,
+  (quality >= 75, seo >= 70, business_fact PASS,
   legal PASS hoac NOT_REQUIRED, content_sha256 +
   matrix_row_sha256 khop).
 - Repair: QA -> REPAIR -> QA (toi da vai vong; repair rate
@@ -144,7 +144,7 @@ xay ra qua lenh operator chu dong.
   Pages PASS.
 
 - HOP DONG 3 WORKFLOW (2026-09-30, docs/factory-workflow-contract.md):
-  khong con workflow dinh ky 30 phut. weekly-maintenance.yml (cron
+  khong con workflow dinh ky 30 phut. factory-liveness.yml (cron 6 gio,
   tuan) la duy nhat chay dinh ky — READ-ONLY diagnostics, KHONG phai
   scheduler van hanh: khong mutate state, khong claim, khong publish.
   Van hanh san xuat chi theo dispatch tren factory-production.yml
@@ -155,7 +155,7 @@ xay ra qua lenh operator chu dong.
 
 - python3 scripts/factory/watchdog.py
   Kiem tra suc song engine: chi DOC state, khong ghi gi. Chay hang
-  tuan trong weekly-maintenance.yml + buoc purity (working tree
+  khi can trong factory-publish-verify.yml + buoc purity (working tree
   phai sach sau khi chay).
 
 Trang thai (uu tien tu tren xuong; exit 0 = HEALTHY, 1 = can can
@@ -192,7 +192,7 @@ thiep, 2 = loi du lieu):
   test_push_rebase_overlap.py. Chay trong DEEP/FULL.
 - Tang 3 PRODUCTION INVARIANT: validate.py (chunk/batch/full) +
   CI quality-gate.yml (FAST moi push) + Pages. Gate xuat ban tung
-  chunk = FAST; DEEP ~50 bai; FULL dinh ky (weekly-maintenance.yml).
+  chunk = FAST; DEEP ~50 bai; FULL chay theo yeu cau (factory-publish-verify.yml).
 - Tang 4 LONG-RUN/FAILURE RECOVERY: test_soak_recovery.py — 20 vong
   san xuat hermetic + failure injection (txn treo, reports hong,
   mat file _posts, lock treo, retry idempotent), bat bien moi vong

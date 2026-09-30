@@ -14,8 +14,9 @@ Phủ các kịch bản yêu cầu:
       --scope chunk TRƯỚC push; validate FAIL sau rebase => STOP;
       push đầu tiên thành công => FINAL_PUSHED_HEAD/ORIGIN_HEAD_AFTER.
       Không bao giờ force push (static).
-  S7  Static: hợp đồng 3 workflow (docs/factory-workflow-contract.md) —
-      quality-gate.yml FAST + READ-ONLY; weekly-maintenance.yml FULL
+  S7  Static: hợp đồng 4 workflow (docs/factory-workflow-contract.md) —
+      quality-gate.yml FAST + READ-ONLY; factory-liveness.yml 6h;
+      factory-publish-verify.yml FULL theo yêu cầu
       audit + READ-ONLY + cron tuần; factory-production.yml dispatch-only,
       contents: write, không AI secrets, publish-gate.py là người xuất bản
       duy nhất; các workflow/test đã retire KHÔNG quay lại;
@@ -613,21 +614,24 @@ class PushBlockSim(unittest.TestCase):
 
 # ------------------------------------------------------------------ S7
 class StaticContract(unittest.TestCase):
-    """Hợp đồng 3 workflow (docs/factory-workflow-contract.md):
+    """Hợp đồng 4 workflow (docs/factory-workflow-contract.md):
     quality-gate (FAST, read-only, mọi push/PR), factory-production
-    (dispatch-only, contents: write), weekly-maintenance (FULL audit,
-    read-only, cron tuần)."""
+    (dispatch-only, contents: write), factory-liveness (read-only,
+    cron 6 giờ, KHÔNG bao giờ recover), factory-publish-verify (FULL
+    audit, read-only, CHỈ workflow_dispatch)."""
 
-    def test_s7_three_workflow_contract(self):
+    def test_s7_four_workflow_contract(self):
         wf = sorted(f for f in os.listdir(os.path.join(ROOT,
                                                        '.github/workflows'))
                    if f.endswith('.yml'))
-        self.assertEqual(wf, ['factory-production.yml', 'quality-gate.yml',
-                              'weekly-maintenance.yml'])
+        self.assertEqual(wf, ['factory-liveness.yml',
+                              'factory-production.yml',
+                              'factory-publish-verify.yml',
+                              'quality-gate.yml'])
         # các workflow/test đã retire KHÔNG quay lại
         retired = ['factory-operator.yml', 'factory-validate.yml',
                    'factory-capacity-validate.yml', 'factory-watchdog.yml',
-                   'publish-queue.yml']
+                   'publish-queue.yml', 'weekly-maintenance.yml']
         for name in retired:
             self.assertFalse(
                 os.path.exists(os.path.join(ROOT, '.github/workflows', name)),
@@ -650,15 +654,18 @@ class StaticContract(unittest.TestCase):
         self.assertIn('pull_request:', y)  # trigger PR
         self.assertIn('workflow_dispatch:', y)
 
-    def test_s7_weekly_full_audit_readonly(self):
+    def test_s7_publish_verify_full_audit_readonly(self):
+        """factory-publish-verify.yml: FULL audit read-only, CHỈ
+        workflow_dispatch (không cron), cùng nội dung audit của
+        weekly-maintenance.yml đã retire."""
         with open(os.path.join(ROOT,
-                               '.github/workflows/weekly-maintenance.yml'),
+                               '.github/workflows/factory-publish-verify.yml'),
                   encoding='utf-8') as f:
             y = f.read()
         self.assertIn('contents: read', y)
         self.assertNotIn('contents: write', y)
         self.assertNotIn('git push', y)
-        self.assertIn('cron: "30 2 * * 1"', y)
+        self.assertNotIn('cron:', y)
         self.assertIn('workflow_dispatch:', y)
         self.assertIn('factory-operator.py verify --scope full', y)
         self.assertIn('scripts/factory/watchdog.py', y)
@@ -667,6 +674,27 @@ class StaticContract(unittest.TestCase):
         self.assertIn('sitemap-plan.py', y)
         self.assertIn('jekyll-build-pages', y)
         self.assertIn('check-built-links.py', y)
+
+    def test_s7_liveness_readonly_never_recovers(self):
+        """factory-liveness.yml: cron moi 6 gio, READ-ONLY thuần —
+        watchdog + status + purity; KHÔNG bao giờ recover/claim/publish."""
+        with open(os.path.join(ROOT,
+                               '.github/workflows/factory-liveness.yml'),
+                  encoding='utf-8') as f:
+            y = f.read()
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertNotIn('git push', y)
+        self.assertIn('cron: "0 */6 * * *"', y)
+        self.assertIn('workflow_dispatch:', y)
+        self.assertIn('scripts/factory/watchdog.py', y)
+        self.assertIn('factory-operator.py status', y)
+        code = '\n'.join(l for l in y.splitlines()
+                       if not l.strip().startswith('#'))
+        for bad in ('prepare-next', 'recover', '--refill',
+                    'release-chunk', 'requeue', 'publish --ids'):
+            self.assertNotIn(bad, code,
+                              'liveness KHONG duoc mutate: %s' % bad)
 
     def test_s7_production_dispatch_only(self):
         with open(os.path.join(ROOT,
@@ -709,7 +737,7 @@ class StaticContract(unittest.TestCase):
 
     def test_s7_no_ai_no_secrets(self):
         for wf in ('quality-gate.yml', 'factory-production.yml',
-                   'weekly-maintenance.yml'):
+                   'factory-liveness.yml', 'factory-publish-verify.yml'):
             with open(os.path.join(ROOT, '.github/workflows', wf),
                       encoding='utf-8') as f:
                 y = f.read()
