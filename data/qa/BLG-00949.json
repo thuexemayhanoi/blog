@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-cham-ac-quy-xe-may-vao-mua-ong-ha-noi.md",
+  "source_path": "_posts/2026-09-30-cham-ac-quy-xe-may-vao-mua-ong-ha-noi.md",
   "content_sha256": "0d75e03a8934c38fb14360ad6128e32868b8d2c0b4bb18eb490b55deed22eac2",
-  "matrix_row_sha256": "3521e9d6f62c6690b1468795f9d9fed152fd01a7b88df38187c4baf16266ea61",
-  "result": "PASS"
+  "matrix_row_sha256": "47b9feeb7199f50335080f829943c20de01f9f82a019f7bac1e75eb0122f07b6",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:21:15+00:00"
 }

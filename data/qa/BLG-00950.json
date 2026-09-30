@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-bao-hiem-tu-nguyen-xe-may-giup-gi-khi-va-cham.md",
+  "source_path": "_posts/2026-09-30-bao-hiem-tu-nguyen-xe-may-giup-gi-khi-va-cham.md",
   "content_sha256": "2dc69f678a03e2f8a19c5e402708812b91fde1e7b2ed31c3104811baacd3b6a3",
-  "matrix_row_sha256": "ac59ad1fe1211a01b6f365550929f9eca6674cc402e2cb1ad4640916d6f99e9a",
-  "result": "PASS"
+  "matrix_row_sha256": "11bd0306ec1a4fff7405ea215718a6abc74aee123edb92b69e9f2b0fa9c12786",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:21:15+00:00"
 }

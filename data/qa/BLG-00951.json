@@ -42,8 +42,9 @@
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-kiem-tra-phat-nguoi-xe-may-thue-bang-cach-nao.md",
+  "source_path": "_posts/2026-09-30-kiem-tra-phat-nguoi-xe-may-thue-bang-cach-nao.md",
   "content_sha256": "9a1d1daad2b69f31a4c865a96cb84064a4621696b36c57100cfb4ea776d79fdd",
-  "matrix_row_sha256": "cee10def2ee7d0d16fbb4f4f040445b663bb8d0eb81ae3f6ddde972af580949c",
-  "result": "PASS"
+  "matrix_row_sha256": "034facf635387718ba91c4bb76cd28a333b923e0bd7e16430278bb2a431631db",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:21:15+00:00"
 }

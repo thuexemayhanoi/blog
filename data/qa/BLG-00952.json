@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-uong-vong-ho-guom-buoi-sang-cho-nguoi-i-xe-may.md",
+  "source_path": "_posts/2026-09-30-uong-vong-ho-guom-buoi-sang-cho-nguoi-i-xe-may.md",
   "content_sha256": "a4706869139c84aaf6c0adc3edd6ec554e04ff0db144586e6d1c9bb9cad563c5",
-  "matrix_row_sha256": "ed78d85790680cadb0fcafc9cfb068cb1d126e5cc4f831efe35544d62076b8d7",
-  "result": "PASS"
+  "matrix_row_sha256": "c98a54c95e2347ee554344c634e6fc16d8915dfa7efcc9f0b05c6c5deb21073c",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:21:16+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-i-honda-wave-uong-eo-can-chuan-bi-gi.md",
+  "source_path": "_posts/2026-09-30-i-honda-wave-uong-eo-can-chuan-bi-gi.md",
   "content_sha256": "1efadcd0c702fc8eb9cfaad7f3494ff459d11cb8afc0d789679a9938b0353b6c",
-  "matrix_row_sha256": "ca1dde5254a7e82e83a0e07f0a0fc39afa7277b34516c662ca79bcaa2c7ee200",
-  "result": "PASS"
+  "matrix_row_sha256": "875f890958398ea7fe5699b712295f61b78d9436039b7790a299f78db12ed932",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:21:15+00:00"
 }
