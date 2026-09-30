@@ -1,16 +1,20 @@
 # Hợp đồng 4 workflow — thuexemayhanoi/blog
 
 Ngày chốt: 2026-09-30 (thay mô hình 5 workflow cũ; bản 4-workflow thay
-weekly-maintenance bằng factory-liveness + factory-publish-verify). Nguyên tắc: ít code,
-ít luật hơn khi cả hai đều an toàn; sản xuất → QA nhanh → publish → audit
-sâu định kỳ. Kỹ thuật sâu: docs/ADVANCED-FACTORY-RECOVERY.md.
+weekly-maintenance bằng factory-liveness + factory-publish-verify). Cập
+nhật Phase 1 cùng ngày: factory-production chuyển từ dispatch-only sang
+PUSH-DRIVEN theo mô hình /vanchinh (writer push draft `_drafts/` →
+workflow tự claim/QA/publish EXACT ID; dispatch chỉ còn op bảo trì).
+Nguyên tắc: ít code, ít luật hơn khi cả hai đều an toàn; sản xuất → QA
+nhanh → publish → audit sâu định kỳ. Kỹ thuật sâu:
+docs/ADVANCED-FACTORY-RECOVERY.md.
 
 ## 1. Danh sách workflow (CHÍNH XÁC 4)
 
 | Workflow | Trigger | Quyền | Phạm vi |
 |---|---|---|---|
 | `quality-gate.yml` | push main, pull_request, workflow_dispatch | `contents: read` | FAST: `validate.py --scope chunk` + Jekyll build (`actions/jekyll-build-pages@v1`) + `check-built-links.py` + draft-leak + sitemap/schema/hub sanity. READ-ONLY, KHÔNG commit. |
-| `factory-production.yml` | CHỈ workflow_dispatch (action `status\|resume\|next\|qa\|publish\|refill`, count 1-10 mặc định 2 theo `data/factory/production-control.json`, ids tùy chọn) | `contents: write` | Đường sản xuất DUY NHẤT: chạy `factory-operator.py` với `--scope fast`; recover trước mọi op mutating; push fast-forward, rebase xong validate chunk lại, conflict/FAIL → STOP, KHÔNG force push, tối đa 2 lần thử lại. |
+| `factory-production.yml` | push main theo paths `_drafts/**` (đường nóng exact-ID) + workflow_dispatch CHỈ op bảo trì `status\|recover\|refill\|diagnostics` | `contents: write` | Đường sản xuất DUY NHẤT (Phase 1, mô hình /vanchinh): push-selection.py chọn EXACT ID từ draft vừa push → `prepare-next --ids` → `qa --ids --scope fast` → `publish --ids` (hàng PASS) → light smoke; production-control enabled=false → exit sạch trước claim; recover trước mọi op mutating; push fast-forward, rebase xong validate chunk lại, conflict/FAIL → STOP, KHÔNG force push, tối đa 2 lần thử lại. KHÔNG verify full/soak/hardening trong hot path (đó là của factory-publish-verify). |
 | `factory-liveness.yml` | cron `0 */6 * * *` (mỗi 6 giờ) + workflow_dispatch | `contents: read` | Liveness READ-ONLY: `watchdog.py` + `factory-operator.py status` + purity check. CHỈ BÁO cáo sản xuất đâm ruồi; KHÔNG BAO GIỜ recover/delete/claim/publish. KHÔNG commit. |
 | `factory-publish-verify.yml` | CHỈ workflow_dispatch | `contents: read` | FULL audit READ-ONLY (theo yêu cầu, không cron): watchdog + `factory-operator.py verify --scope full` + refill-queue `--verify/--selftest` + `sitemap-plan.py` + generator drift + build/links deep + hub/pagination render. KHÔNG commit. |
 

@@ -1,32 +1,48 @@
 name: Factory production
 
 # DUONG SAN XUAT DUY NHAT cua /blog (hop dong 4 workflow —
-# docs/factory-workflow-contract.md). workflow_dispatch: chu xe hoac AI
-# coordinator dispatch TU GitHub UI/API voi action + count + ids; KHONG con
-# file lenh data/factory/operator-command.json, KHONG cron, KHONG AI, KHONG
-# secret AI. Workflow nay la moi truong thuc thi cho tooling chuan cua /blog
-# (factory-operator.py): writer lock + transaction + checkpoint +
-# publish-gate.py + refill-queue.py + QA evidence + nguong 75/70
-# (docs/PROC-PUBLISH.md). CAM KET SAN XUAT LIEN TIEC: doc
-# data/factory/production-control.json moi lan prepare-next (enabled=false
-# -> dung truoc khi claim cap moi; chunk_size=2).
+# docs/factory-workflow-contract.md). TU PHASE 1 (2026-09-30) duong
+# san xuat CHAY THEO PUSH theo mo hinh /vanchinh (docs/PROC-PUBLISH.md):
 #
-# Ops (action -> factory-operator.py):
-#   status  — in trang thai engine (read-only)
-#   resume  — recover transaction/lock treo (FAIL-CLOSED, docs/RECOVERY.md)
-#   next    — prepare-next: claim N hang PLANNED (count 1-10, mac dinh
-#             production-control chunk_size = 2)
-#   qa      — QA deterministic cho hang WRITING/QA/REPAIR (--ids tuy chon)
-#   publish — promote hang PASS qua publish-gate.py (BU bat buoc --ids)
-#   refill  — materialize hang PLANNED moi tu refill ledger (semantic:
-#             SUCCESS bat buoc tao work that; het candidate STAGED ->
-#             NEEDS_TOPIC_EXPANSION, KHONG filler)
+#   writer ngoai (Mistral) commit/push draft vao _drafts/ (toi da
+#   chunk_size = 2 ID moi lan push, theo data/factory/production-
+#   control.json) -> workflow TU DONG:
+#     1. chon EXACT ID tu file _drafts vua push
+#        (scripts/factory/push-selection.py: ID la/repair/no-op,
+#        tu choi >2 ID, ID lap, ID la, ID da PUBLISHED)
+#     2. production-control enabled=false -> EXIT SACH TRUOC KHI CLAIM
+#     3. recover transaction treo (FAIL-CLOSED, docs/RECOVERY.md;
+#        khong bao gio force-unlock ownership khong ro)
+#     4. prepare-next --ids — claim EXACT ID vua push, KHONG claim
+#        hang PLANNED khac, KHONG chuan bi hang khong co draft
+#     5. qa --ids --scope fast (nguong 75/70 KHONG doi,
+#        docs/PROC-PUBLISH.md)
+#     6. publish --ids — CHI hang PASS, QUA publish-gate.py (nguoi
+#        xuat ban DUY NHAT; hard gate giu nguyen: business_fact PASS,
+#        legal PASS/NOT_REQUIRED, khong critical failure, content_sha256
+#        + matrix_row_sha256 khop, chan trung ID/slug/canonical, chan
+#        placeholder, chan ghi de bai PUBLISHED, chan xung dot
+#        transaction/writer-lock)
+#     7. light smoke (validate.py --scope chunk + queue stats) —
+#        KHONG verify full, KHONG soak, KHONG hardening (do la cua
+#        factory-publish-verify.yml)
+#     8. commit + push fast-forward MOT LAN
+#     9. watchdog + status — txn inactive, lock sach, checkpoint on dinh
 #
-# Moi op san xuat chay --scope fast (validate chunk + suite nhanh).
-# Recover chay TRUOC moi op mutating (transaction treo khong deadlock
-# validate). BAI DA XUAT BAN khong bao gio bi de: publish-gate tu choi
-# promote trung ID/slug/canonical; publish-gate.py van la nguoi xuat ban
-# duy nhat.
+# KHONG can dispatch next/qa/publish cho cap bai thuong nua. Writer sua
+# draft REPAIR thi chi can push lai file do (repair push: QA/publish
+# EXACT ID sua, khong claim viec moi).
+#
+# workflow_dispatch chi con op BAO TRI (docs/PROC-PUBLISH.md):
+#   status       — in trang thai engine (read-only)
+#   recover      — recover transaction/lock treo (FAIL-CLOSED)
+#   refill       — materialize hang PLANNED khi het PLANNED (semantic:
+#                  SUCCESS bat buoc tao work that; het candidate STAGED
+#                  -> NEEDS_TOPIC_EXPANSION, KHONG filler)
+#   diagnostics  — chan doan read-only (validate chunk + queue stats)
+#
+# BAI DA XUAN BAN khong bao gio bi de: publish-gate tu choi promote
+# trung ID/slug/canonical; push-selection tu choi luon ID da PUBLISHED.
 #
 # HOP DONG PUSH (don gian, an toan):
 #   - commit roi push fast-forward; origin doi giua chan -> fetch + rebase
@@ -35,23 +51,20 @@ name: Factory production
 #     replay); lan chay sau resume tu repository truth
 #   - thu lai toi da 2 lan; FINAL_PUSHED_HEAD/ORIGIN_HEAD_AFTER in ra log
 #     de bao cao phan biet dung head da chay.
+#   - commit promote cua workflow (draft -> _posts, file draft bien mat)
+#     co the kich hoat lai workflow nay qua paths _drafts/**; lan do
+#     push-selection tra mode=skip -> workflow exit 0 sach, khong lam gi.
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - '_drafts/**'
   workflow_dispatch:
     inputs:
       action:
-        description: 'status | resume | next | qa | publish | refill'
+        description: 'status | recover | refill | diagnostics'
         required: true
-        type: string
-      count:
-        description: 'So hang claim cho action=next (1-10, mac dinh 2 theo production-control)'
-        required: false
-        default: '2'
-        type: string
-      ids:
-        description: 'BLG ids phan cach bang phay (qa/publish)'
-        required: false
-        default: ''
         type: string
 
 concurrency:
@@ -68,12 +81,12 @@ jobs:
     timeout-minutes: 30
     env:
       PYTHONDONTWRITEBYTECODE: '1'
-      ACTION: ${{ inputs.action }}
-      COUNT: ${{ inputs.count }}
-      IDS: ${{ inputs.ids }}
+      ACTION: ${{ inputs.action || 'push' }}
     steps:
-      - name: Checkout
+      - name: Checkout (fetch-depth 2 de doc diff HEAD~1)
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -81,65 +94,115 @@ jobs:
           python-version: "3.x"
 
       - name: Kiem tra input hop le
+        if: github.event_name == 'workflow_dispatch'
         run: |
           set -eu
           case "$ACTION" in
-            status|resume|next|qa|publish|refill) ;;
-            *) echo "::error::action khong ho tro: $ACTION"; exit 1 ;;
+            status|recover|refill|diagnostics) ;;
+            *) echo "::error::action khong ho tro: $ACTION (chi status|recover|refill|diagnostics)"; exit 1 ;;
           esac
-          if [ "$ACTION" = "next" ] && [ -n "$COUNT" ]; then
-            case "$COUNT" in
-              ''|*[!0-9]*) echo "::error::count phai la so: $COUNT"; exit 1 ;;
-            esac
-            if [ "$COUNT" -lt 1 ] || [ "$COUNT" -gt 10 ]; then
-              echo "::error::count ngoai khoang 1-10: $COUNT"; exit 1
-            fi
-          fi
-          if [ "$ACTION" = "publish" ] && [ -z "$IDS" ]; then
-            echo "::error::publish bat buoc ids"; exit 1
-          fi
-          echo "action=$ACTION count=$COUNT ids=$IDS"
+          echo "action=$ACTION"
 
       - name: Preflight - trang thai engine (read-only)
+        if: github.event_name == 'workflow_dispatch'
         run: python3 scripts/factory/factory-operator.py status
 
+      - name: Chon pham vi push (EXACT ID tu file _drafts vua push)
+        id: select
+        if: github.event_name == 'push'
+        run: |
+          set -eu
+          git diff --name-only --diff-filter=A HEAD~1 HEAD -- _drafts/ > /tmp/added.txt || true
+          git diff --name-only --diff-filter=M HEAD~1 HEAD -- _drafts/ > /tmp/modified.txt || true
+          echo "drafts added: $(wc -l < /tmp/added.txt || echo 0), modified: $(wc -l < /tmp/modified.txt || echo 0)"
+          python3 scripts/factory/push-selection.py --added /tmp/added.txt --modified /tmp/modified.txt | tee /tmp/selection.json
+          python3 - <<'EOF'
+          import json, os
+          sel = json.load(open('/tmp/selection.json'))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write('proceed=%s\n' % str(sel['proceed']).lower())
+              f.write('mode=%s\n' % sel['mode'])
+              f.write('claim_ids=%s\n' % ','.join(sel['claim_ids']))
+              f.write('qa_ids=%s\n' % ','.join(sel['qa_ids']))
+          label = 'push-%s-%s' % (sel['mode'],
+                                  ','.join(sel['claim_ids'] or sel['qa_ids']))
+          with open(os.environ['GITHUB_ENV'], 'a') as f:
+              f.write('COMMIT_LABEL=%s\n' % label)
+          print('selection: mode=%s claim=%s qa=%s refill_advised=%s'
+                % (sel['mode'], sel['claim_ids'], sel['qa_ids'],
+                   sel['refill_advised']))
+          if sel['mode'] == 'paused':
+              print('production-control: enabled=false — DUNG SACH TRUOC KHI CLAIM (khong QA/publish lan nay)')
+          if sel['refuse']:
+              raise SystemExit('REFUSED: %s' % sel['refuse'])
+          EOF
+
       - name: Recover transaction neu treo (truoc moi op mutating)
-        if: env.ACTION != 'status'
+        if: github.event_name == 'push' && steps.select.outputs.proceed == 'true'
         run: |
           set -eu
           python3 scripts/factory/factory-operator.py recover
 
-      - name: op status
-        if: env.ACTION == 'status'
-        run: python3 scripts/factory/factory-operator.py status
-
-      - name: op resume
-        if: env.ACTION == 'resume'
-        run: python3 scripts/factory/factory-operator.py recover
-
-      - name: op next
-        if: env.ACTION == 'next'
+      - name: Recover transaction truoc op refill (dispatch)
+        if: github.event_name == 'workflow_dispatch' && env.ACTION == 'refill'
         run: |
           set -eu
-          python3 scripts/factory/factory-operator.py prepare-next --count "$COUNT" --scope fast
+          python3 scripts/factory/factory-operator.py recover
+
+      - name: Claim EXACT ID vua push (KHONG claim hang PLANNED khac)
+        if: github.event_name == 'push' && steps.select.outputs.proceed == 'true' && steps.select.outputs.claim_ids != ''
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py prepare-next --ids "${{ steps.select.outputs.claim_ids }}" --scope fast
 
       - name: op qa
-        if: env.ACTION == 'qa'
+        if: github.event_name == 'push' && steps.select.outputs.proceed == 'true' && steps.select.outputs.qa_ids != ''
         run: |
           set -eu
-          ARGS="--scope fast"
-          if [ -n "$IDS" ]; then ARGS="$ARGS --ids $IDS"; fi
-          python3 scripts/factory/factory-operator.py qa $ARGS
+          python3 scripts/factory/factory-operator.py qa --ids "${{ steps.select.outputs.qa_ids }}" --scope fast
 
       - name: op publish
-        if: env.ACTION == 'publish'
+        if: github.event_name == 'push' && steps.select.outputs.proceed == 'true' && steps.select.outputs.qa_ids != ''
         run: |
           set -eu
-          python3 scripts/factory/factory-operator.py publish --ids "$IDS" --scope fast
+          PASS_IDS=$(python3 - <<'EOF'
+          import json
+          oc = json.load(open('reports/factory/qa-outcome.json'))
+          print(','.join(sorted(i for i, r in oc.get('outcomes', {}).items()
+                                if r == 'PASS')))
+          EOF
+          )
+          if [ -n "$PASS_IDS" ]; then
+            python3 scripts/factory/factory-operator.py publish --ids "$PASS_IDS" --scope fast
+          else
+            echo "khong co hang PASS trong lan QA nay — hang REPAIR cho writer sua draft roi push lai (repair push)"
+          fi
 
-      - name: op refill
-        if: env.ACTION == 'refill'
-        run: python3 scripts/factory/factory-operator.py refill
+      - name: Light smoke (validate chunk + queue stats, read-only)
+        if: github.event_name == 'push' && steps.select.outputs.proceed == 'true'
+        run: |
+          set -eu
+          python3 scripts/factory/validate.py --scope chunk
+          python3 scripts/factory/queue.py --stats
+
+      - name: op recover (dispatch)
+        if: github.event_name == 'workflow_dispatch' && env.ACTION == 'recover'
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py recover
+
+      - name: op refill (dispatch)
+        if: github.event_name == 'workflow_dispatch' && env.ACTION == 'refill'
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py refill
+
+      - name: op diagnostics (dispatch, read-only)
+        if: github.event_name == 'workflow_dispatch' && env.ACTION == 'diagnostics'
+        run: |
+          set -eu
+          python3 scripts/factory/validate.py --scope chunk
+          python3 scripts/factory/queue.py --stats
 
       - name: Commit va push fast-forward (rebase phai validate lai, khong force push)
         run: |
@@ -151,7 +214,7 @@ jobs:
             echo "khong co gi de commit"
             exit 0
           fi
-          git commit -m "factory-production: ${ACTION} (deterministic outputs of canonical tooling only)"
+          git commit -m "factory-production: ${COMMIT_LABEL:-$ACTION} (deterministic outputs of canonical tooling only)"
           if git push; then
             git fetch origin main
             git merge-base --is-ancestor HEAD origin/main
@@ -183,3 +246,10 @@ jobs:
           done
           echo "::error::push van conflict sau rebase + validate - STOP, khong force push"
           exit 1
+
+      - name: Xac nhan trang thai sach (txn inactive, lock sach, checkpoint on dinh)
+        if: github.event_name == 'workflow_dispatch' || steps.select.outputs.proceed == 'true'
+        run: |
+          set -eu
+          python3 scripts/factory/watchdog.py
+          python3 scripts/factory/factory-operator.py status

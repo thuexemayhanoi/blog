@@ -4,8 +4,11 @@
 
 Mô hình (docs/PROC-PUBLISH.md — hợp đồng 4 workflow):
   EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write)
-    -> workflow_dispatch trên .github/workflows/factory-production.yml
-       (inputs action/count/ids, KHÔNG còn file lệnh operator-command.json)
+    -> commit/push draft vào `_drafts/` (1-2 bài mỗi push)
+    -> factory-production.yml tự chạy đường nóng trên push main
+       (scripts/factory/push-selection.py chọn EXACT ID; KHÔNG cần
+       dispatch next/qa/publish cho cặp bài thường; workflow_dispatch
+       chỉ còn op bảo trì: status | recover | refill | diagnostics)
     -> GitHub Actions (checkout + Python + tooling chuẩn)
     -> scripts/factory/factory-operator.py (file này)
 
@@ -18,8 +21,10 @@ Mọi thao tác là deterministic trên engine chuẩn của /blog:
 
 Ops whitelist:
   status                                  — in trạng thái (read-only)
-  prepare-next [--count N]                — claim N hàng PLANNED (mặc định
+  prepare-next [--count N | --ids ID1,ID2]— claim N hàng PLANNED (mặc định
                                             production-control chunk_size=2, tối đa 10)
+                                            hoặc claim EXACT các ID writer đã push
+                                            (đường nóng push: --ids, tối đa chunk_size)
   qa [--ids ID1,ID2] [--scope fast|deep|full]
                                           — QA deterministic cho hàng WRITING/QA/REPAIR
   publish --ids ID1,ID2 [--scope fast|deep|full]
@@ -863,9 +868,7 @@ def op_prepare_next(args, biz, tax):
              'transaction/qa/publish việc đang dở qua op riêng, KHÔNG '
              'claim thêm.')
     txn, cp, rows = preflight(scope=vscope)
-    count = min(int(args.count or control['chunk_size']), MAX_CHUNK)
-    if count < 1:
-        bail('count phải >= 1')
+    explicit = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
     # hòa giải việc dở trước: không claim mới khi còn hàng đang làm
     unfinished = [r['id'] for r in rows
                   if r['status'] in ('WRITING', 'QA', 'REPAIR', 'PASS')]
@@ -873,11 +876,38 @@ def op_prepare_next(args, biz, tax):
         bail('còn %d hàng chưa xong (%s...) — hoàn tất/QA/publish '
              'trước khi claim mới (không bỏ qua việc dở để lấy throughput).'
              % (len(unfinished), ','.join(unfinished[:5])))
-    next_id = cp.get('next_claimable_id')
-    planned = [r for r in rows if r['status'] == 'PLANNED']
-    if next_id:
-        planned.sort(key=lambda r: (r['id'] != next_id, r['id']))
-    chunk = planned[:count]
+    if explicit:
+        # PUSH HOT PATH (factory-production.yml): claim EXACT các ID mà
+        # writer đã push draft (scripts/factory/push-selection.py đã chọn)
+        # — KHÔNG tự chọn hàng PLANNED khác, KHÔNG đụng hàng bảo vệ.
+        if len(explicit) > control['chunk_size']:
+            bail('prepare-next --ids: %d ID > chunk_size %d — tối đa %d '
+                 'bài mỗi push (data/factory/production-control.json).'
+                 % (len(explicit), control['chunk_size'],
+                    control['chunk_size']))
+        by_id = {r['id']: r for r in rows}
+        for aid in explicit:
+            row = by_id.get(aid)
+            if row is None:
+                bail('prepare-next --ids: %s không có trong matrix.' % aid)
+            if row['status'] != 'PLANNED':
+                bail('prepare-next --ids: %s trạng thái %s — chỉ claim hàng '
+                     'PLANNED có draft vừa push.' % (aid, row['status']))
+            draft, _slug = find_draft(row)
+            if draft is None:
+                bail('prepare-next --ids: %s chưa có draft trong _drafts/ '
+                     '(push-selection đã kiểm — không claim hàng không '
+                     'việc thật).' % aid)
+        chunk = [by_id[aid] for aid in explicit]
+    else:
+        count = min(int(args.count or control['chunk_size']), MAX_CHUNK)
+        if count < 1:
+            bail('count phải >= 1')
+        next_id = cp.get('next_claimable_id')
+        planned = [r for r in rows if r['status'] == 'PLANNED']
+        if next_id:
+            planned.sort(key=lambda r: (r['id'] != next_id, r['id']))
+        chunk = planned[:count]
     if not chunk:
         bail('không còn hàng PLANNED để claim.')
     holder = 'operator-prepare-%s' % uuid.uuid4().hex[:8]
@@ -1206,6 +1236,7 @@ VERIFY_TESTS_FAST = [
     'scripts/factory/tests/test_publish_gate.py',
     'scripts/factory/tests/test_operator.py',
     'scripts/factory/tests/test_refill_safety.py',
+    'scripts/factory/tests/test_push_selection.py',
     'scripts/factory/tests/test_workflow_syntax.py',
 ]
 VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [

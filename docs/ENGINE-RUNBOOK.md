@@ -25,11 +25,13 @@ lenh nao chua implement. Chay tu goc repository.
 - python3 scripts/factory/factory-operator.py status
   Trang thai engine (checkpoint/transaction/lock/matrix) cho operator.
   Vong van hanh day du: docs/PROC-PUBLISH.md.
-  Ops whitelist: status, prepare-next, qa, publish, recover, requeue,
-  verify, refill, reports. Lenh san xuat day qua workflow_dispatch
-  tren factory-production.yml (action status/resume/next/qa/publish/
-  refill — khong con file lenh operator-command.json); workflow la
-  TAY deterministic (khong AI, khong secret AI, khong cron).
+  Ops whitelist: status, prepare-next (—ids cho exact-ID claim), qa,
+  publish, recover, requeue, verify, refill, reports. TU PHASE 1 san
+  xuat CHAY THEO PUSH: writer push draft _drafts/ -> factory-production
+  yml tu dong (push-selection.py chon EXACT ID -> prepare-next --ids
+  -> qa --ids -> publish --ids --scope fast); workflow_dispatch chi
+  con op bao tri status/recover/refill/diagnostics. Workflow la TAY
+  deterministic (khong AI, khong secret AI, khong cron).
 
 ## 2. Queue refill (lazy, chi khi can)
 
@@ -147,8 +149,9 @@ xay ra qua lenh operator chu dong.
   khong con workflow dinh ky 30 phut. factory-liveness.yml (cron 6 gio,
   tuan) la duy nhat chay dinh ky — READ-ONLY diagnostics, KHONG phai
   scheduler van hanh: khong mutate state, khong claim, khong publish.
-  Van hanh san xuat chi theo dispatch tren factory-production.yml
-  (docs/PROC-PUBLISH.md). publish-queue.yml da retire (campaign
+  Van hanh san xuat theo PUSH tren factory-production.yml (draft
+  _drafts/ -> duong nong exact-ID; docs/PROC-PUBLISH.md), dispatch
+  chi con op bao tri. publish-queue.yml da retire (campaign
   legacy da tat).
 
 ## 10. Liveness watchdog (READ-ONLY)

@@ -616,9 +616,10 @@ class PushBlockSim(unittest.TestCase):
 class StaticContract(unittest.TestCase):
     """Hợp đồng 4 workflow (docs/factory-workflow-contract.md):
     quality-gate (FAST, read-only, mọi push/PR), factory-production
-    (dispatch-only, contents: write), factory-liveness (read-only,
-    cron 6 giờ, KHÔNG bao giờ recover), factory-publish-verify (FULL
-    audit, read-only, CHỈ workflow_dispatch)."""
+    (push main _drafts/** — đường nóng exact-ID — + dispatch chỉ bảo
+    trì status|recover|refill|diagnostics, contents: write),
+    factory-liveness (read-only, cron 6 giờ, KHÔNG bao giờ recover),
+    factory-publish-verify (FULL audit, read-only, CHỈ workflow_dispatch)."""
 
     def test_s7_four_workflow_contract(self):
         wf = sorted(f for f in os.listdir(os.path.join(ROOT,
@@ -696,31 +697,52 @@ class StaticContract(unittest.TestCase):
             self.assertNotIn(bad, code,
                               'liveness KHONG duoc mutate: %s' % bad)
 
-    def test_s7_production_dispatch_only(self):
+    def test_s7_production_push_hotpath(self):
+        """factory-production.yml (Phase 1, docs/PROC-PUBLISH.md): đường
+        nóng PUSH main theo paths _drafts/** — push-selection chọn
+        EXACT ID, claim prepare-next --ids, qa/publish --ids --scope
+        fast; workflow_dispatch CHỈ còn op bảo trì (next/qa/publish/
+        resume dispatch đã retire — KHÔNG quay lại)."""
         with open(os.path.join(ROOT,
                                '.github/workflows/factory-production.yml'),
                   encoding='utf-8') as f:
             y = f.read()
-        # chỉ workflow_dispatch, không push/PR/cron trigger
+        # trigger: push main paths _drafts/** + dispatch bảo trì
         self.assertIn('workflow_dispatch:', y)
+        self.assertIn('push:', y)
+        self.assertIn('branches: [main]', y)
+        self.assertIn('_drafts/**', y)
         self.assertNotIn('pull_request:', y)
         for line in y.splitlines():
             s = line.strip()
             if s.startswith('#') or not s:
                 continue
-            if s == 'branches: [main]':
-                self.fail('production workflow khong duoc trigger theo push')
             self.assertNotIn('cron', s.lower(),
                              'cron trong phan chay duoc: %s' % s)
+        self.assertIn("description: 'status | recover | refill | diagnostics'", y)
+        # dispatch sản xuất đã retire — chỉ còn op bảo trì
+        for bad in ('action khong ho tro: $ACTION (chi status|resume',
+                    "description: 'status | resume | next | qa | publish",
+                    'op next', 'op resume', 'prepare-next --count "$COUNT"'):
+            self.assertNotIn(bad, y, 'dispatch san xuat da retire: %s' % bad)
         self.assertIn('group: blog-factory-production', y)
         self.assertIn('cancel-in-progress: false', y)
         self.assertIn('contents: write', y)
         # recover TRUOC moi op mutating
         self.assertIn('factory-operator.py recover', y)
-        # ops san xuat chay --scope fast
+        # hot path: chon EXACT ID tu push, claim/QA/publish --ids fast
+        self.assertIn('push-selection.py', y)
+        self.assertIn('prepare-next --ids', y)
+        self.assertIn('qa --ids', y)
+        self.assertIn('publish --ids', y)
         self.assertIn('--scope fast', y)
         # push block: rebase phai validate lai, khong force push
         self.assertIn('validate.py --scope chunk', y)
+        # light smoke trong hot path — KHONG verify full/soak/hardening
+        for heavy in ('verify --scope full', 'test_soak', 'test_hardening',
+                      'capacity-audit'):
+            self.assertNotIn(heavy, y,
+                             'hot path KHONG chay audit nang: %s' % heavy)
         # tên step không chứa ": " (bug YAML startup)
         for line in y.splitlines():
             s = line.strip()

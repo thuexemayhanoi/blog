@@ -8,10 +8,12 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 
 - `quality-gate.yml` — CI FAST trên MỌI push main / PR: validate chunk + Jekyll
   build + link integrity + draft leak + sitemap/hub sanity. READ-ONLY.
-- `factory-production.yml` — đường sản xuất DUY NHẤT. `workflow_dispatch` với
-  action: `status | resume | next | qa | publish | refill` (+ count 1-10, ids).
-  Không cron, không AI, không secret AI. Push chỉ fast-forward; rebase xong
-  phải validate lại; KHÔNG force push.
+- `factory-production.yml` — đường sản xuất DUY NHẤT, PUSH-DRIVEN (Phase 1):
+  writer push draft `_drafts/` (tối đa chunk_size=2 ID) → workflow tự chọn
+  EXACT ID (`scripts/factory/push-selection.py`) → claim/QA/publish những ID
+  đó. `workflow_dispatch` chỉ còn op bảo trì: `status | recover | refill |
+  diagnostics`. Không cron, không AI, không secret AI. Push chỉ fast-forward;
+  rebase xong phải validate lại; KHÔNG force push.
 - `factory-liveness.yml` — liveness READ-ONLY mỗi 6 giờ (cron): watchdog +
   status + purity. KHÔNG bao giờ recover/delete/claim/publish.
 - `factory-publish-verify.yml` — FULL audit READ-ONLY (CHỈ workflow_dispatch,
@@ -19,10 +21,13 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   generator drift + build/links deep. KHÔNG commit. Thay cho
   weekly-maintenance.yml đã retire.
 
-Luồng chunk: `next` (claim PLANNED) → writer viết draft `_drafts/` → `qa`
-(chấm + evidence hash) → sửa nếu REPAIR → `publish` (promote qua gate) →
-chờ Quality gate xanh + Pages deploy + kiểm URL live. Hết PLANNED thì
-`refill` (ledger STAGED → PLANNED, KHÔNG filler).
+Luồng cặp bài (push-driven): writer đọc status/manifests → viết 2 draft
+`_drafts/` → push → workflow TỰ claim EXACT 2 ID → QA (chấm + evidence
+hash) → publish hàng PASS qua gate → sửa REPAIR thì chỉ cần push lại draft
+đã sửa (repair push) → chờ Quality gate xanh + Pages deploy + kiểm URL live.
+Trước khi chọn cặp tiếp theo: còn PLANNED < 2 thì dispatch `refill` (ledger
+STAGED → PLANNED, KHÔNG filler; hết candidate → NEEDS_TOPIC_EXPANSION,
+STOP và báo blocker).
 
 ## 10 quy tắc
 
@@ -43,9 +48,10 @@ chờ Quality gate xanh + Pages deploy + kiểm URL live. Hết PLANNED thì
 6. Một writer tại một thời điểm: writer-lock O_EXCL + ownership token;
    transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock
    lock của chủ khác.
-7. Sản xuất qua `factory-production.yml` (dispatch), KHÔNG chạy shell tùy
-   ý trong Actions. `recover` TRƯỚC mọi op mutating. Op FAIL → DỪNG, giữ
-   việc đã xong, resume từ repository truth.
+7. Sản xuất qua `factory-production.yml` (push `_drafts/` tự động, hoặc
+   dispatch bảo trì), KHÔNG chạy shell tùy ý trong Actions. `recover`
+   TRƯỚC mọi op mutating. Op FAIL → DỪNG, giữ việc đã xong, resume từ
+   repository truth.
 8. Mọi commit sản xuất là output deterministic của tooling chuẩn
    (`factory-operator.py`) — KHÔNG AI trong Actions, KHÔNG viết prose trong
    workflow, KHÔNG sửa nội dung đã PUBLISHED.

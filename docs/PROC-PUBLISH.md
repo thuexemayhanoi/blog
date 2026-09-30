@@ -7,11 +7,18 @@ Mục tiêu: xuất bản liên tục từng cặp 2 bài (chunk_size trong `dat
 
 ```
 EXTERNAL AI (writer/coordinator)      ← viết prose, điều phối
+   |  commit/push draft vào _drafts/ (tối đa chunk_size = 2 ID/push),
    |  chỉ cần GitHub read/write, KHÔNG cần git/Python/Node
    v
 GitHub Actions factory-production.yml ← MÔI TRƯỜNG THỰC THI
-   |  workflow_dispatch: action + count + ids (KHÔNG còn file lệnh
-   |  operator-command.json — dispatch input là kênh lệnh duy nhất)
+   |  PUSH main paths _drafts/** TỰ ĐỘNG CHẠY ĐƯỜNG NÓNG:
+   |  push-selection.py chọn EXACT ID (mới/repair/no-op; refuse >2 ID,
+   |  ID trùng, ID lạ, ID đã PUBLISHED) → production-control
+   |  enabled=false → exit sạch TRƯƠC khi claim → recover →
+   |  prepare-next --ids → qa --ids → publish --ids (hàng PASS)
+   |  → light smoke → commit/push một lần → watchdog
+   |  workflow_dispatch CHỈ còn op bảo trì (không còn next/qa/publish
+   |  dispatch cho cặp bài thường)
    v
 scripts/factory/factory-operator.py    ← TAY DETERMINISTIC
    v
@@ -29,20 +36,43 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
   secret AI, KHÔNG viết prose, KHÔNG bịa факт. Chỉ chạy tooling chuẩn.
 - ENGINE = nguồn sự thật: mọi mutation qua lock/transaction/gate chuẩn.
 
-## Actions của factory-production.yml (workflow_dispatch)
+## Đường nóng PUSH (sản xuất cặp bài thường — KHÔNG cần dispatch)
+
+Writer push draft vào `_drafts/` → workflow tự động trên push main
+(paths `_drafts/**`):
+
+1. `scripts/factory/push-selection.py` chọn EXACT ID từ file draft
+   ADDED/MODIFIED của push: mode NEW (hàng PLANNED có draft) → claim đúng
+   ID đó; mode REPAIR (hàng WRITING/QA/REPAIR/PASS) → chỉ QA/publish ID
+   sửa; mode SKIP (no-op) → exit 0. REFUSE (exit 3, fail-closed):
+   >2 ID (chunk_size), ID trùng, thiếu/sai `article_id`, ID không có
+   trong matrix, ID đã PUBLISHED/EXISTING (KHÔNG BAO GIỜ ghi đè), hàng
+   REVIEW/BLOCKED/FAIL, tên draft sai slug matrix, push trộn mới + repair.
+2. production-control `enabled=false` → exit SẠCH trước khi claim.
+3. `recover` trước mọi op mutating (FAIL-CLOSED).
+4. `prepare-next --ids` claim EXACT ID vừa push (KHÔNG claim hàng
+   PLANNED khác).
+5. `qa --ids --scope fast` (ngưỡng 75/70 KHÔNG đổi).
+6. `publish --ids` — chỉ hàng PASS của vòng QA đó, QUA publish-gate.py
+   (publish-gate vẫn là cơ chế promote DUY NHẤT; mọi hard gate giữ nguyên).
+7. Light smoke: `validate.py --scope chunk` + `queue.py --stats`
+   (KHÔNG verify full/soak/hardening).
+8. Commit + push fast-forward MỘT lần; watchdog xác nhận txn inactive,
+   lock sạch, checkpoint ổn định.
+
+## Actions bảo trì của factory-production.yml (workflow_dispatch)
 
 | Action | Lệnh engine | Ghi chú |
 |---|---|---|
 | `status` | `factory-operator.py status` | read-only; in checkpoint/txn/lock/matrix |
-| `resume` | `factory-operator.py recover` | phục hồi transaction treo; ownership không rõ → STOP |
-| `next` | `factory-operator.py prepare-next --count N --scope fast` | claim N hàng PLANNED → WRITING + manifest; N 1-10, mặc định 2 theo production-control |
-| `qa` | `factory-operator.py qa [--ids ...] --scope fast` | QA deterministic; ghi evidence `data/qa/<ID>.json` |
-| `publish` | `factory-operator.py publish --ids ... --scope fast` | promote HÀNG PASS qua publish-gate.py; ids BẮT BUỘC |
+| `recover` | `factory-operator.py recover` | phục hồi transaction treo; ownership không rõ → STOP |
 | `refill` | `factory-operator.py refill` | materialize hàng PLANNED từ refill ledger khi dưới ngưỡng; semantic: SUCCESS bắt buộc tạo work thật; hết candidate STAGED → NEEDS_TOPIC_EXPANSION, KHÔNG filler |
+| `diagnostics` | `validate.py --scope chunk` + `queue.py --stats` | chẩn đoán read-only |
 
-Các op khác của `factory-operator.py` (requeue, release-chunk, verify,
-reports) giữ nguyên cho chạy cục bộ/chẩn đoán; luồng sản xuất chuẩn chỉ
-dùng 6 action trên. Workflow tự chạy `recover` trước mọi op mutating.
+Các op `next`/`qa`/`publish` KHÔNG còn là action dispatch — cặp bài
+thường chạy qua đường nóng push; các op khác của `factory-operator.py`
+(requeue, release-chunk, verify, reports) giữ nguyên cho chạy cục bộ/
+chẩn đoán. Workflow tự chạy `recover` trước mọi op mutating.
 
 ## Manifest writer (export bởi prepare-next)
 
@@ -54,31 +84,35 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 `docs/INTERNAL-LINKING.md`), ngưỡng QA, vân tay hàng matrix
 (`matrix_row_sha256`).
 
-## Quy trình một chunk
+## Quy trình một cặp bài (push-driven)
 
-1. Preflight (mỗi run): checkout main → kiểm tra input → `status` →
-   `recover` TRƯỚC (transaction treo; ownership không rõ → STOP).
-   KHÔNG chạy validate toàn site trước recover — transaction treo sẽ
-   khiến validate FAIL chặn recover mãi (deadlock).
-2. `next` (count=5): engine từ chối nếu còn hàng WRITING/QA/REPAIR/PASS
-   chưa xong; claim đúng từ `checkpoint.next_claimable_id`; chỉ nhận
-   PLANNED; REVIEW/BLOCKED luôn được bảo vệ.
-3. Writer ngoài viết draft vào `_drafts/` (KHÔNG `_posts/`), tuân theo
+0. Trước khi chọn cặp tiếp theo: đọc `status` (dispatch) — nếu hàng
+   PLANNED còn claim được < 2, dispatch `refill` MỘT lần trước. Refill
+   SUCCESS (PLANNED thật tăng) → chọn cặp từ `next_claimable_id`/manifest
+   và làm tiếp; NEEDS_TOPIC_EXPANSION → STOP, báo đúng blocker
+   (hết candidate STAGED trong ledger — cần mở rộng topic qua gate),
+   KHÔNG tự tạo filler.
+1. Writer ngoài viết draft vào `_drafts/` (KHÔNG `_posts/`), tuân theo
    `docs/ARTICLE-RULES.md`, `docs/SOURCE-RESEARCH.md`,
-   `docs/INTERNAL-LINKING.md`, `docs/QUALITY-RUBRIC.md`, rồi push draft.
-4. `qa --ids ...`: QA chấm từng draft (cấu trúc, SEO on-page, link nội
-   bộ, business facts, cannibalization, legal/source), ghi evidence SHA
-   gắn với nội dung + hàng matrix. PASS → hàng PASS (90+ = EXCELLENT,
-   75-89 = PASS + cảnh báo QA — polish defer cho weekly audit); thiếu
-   điểm → REPAIR (writer sửa rồi qa lại); hết budget repair → BLOCKED.
-   QA không bao giờ tự hạ ngưỡng.
-5. Repair (nếu cần): writer chỉ sửa draft dính lỗi, push, chạy `qa` lại.
-6. `publish --ids ...`: từng hàng PASS qua `publish-gate.py`
+   `docs/INTERNAL-LINKING.md`, `docs/QUALITY-RUBRIC.md`; frontmatter bắt
+   buộc `article_id` đúng hàng matrix; tên file
+   `<YYYY-MM-DD>-<slug>.md` đúng slug hàng; commit/push 1-2 draft
+   (tối đa chunk_size = 2 ID mỗi push).
+2. Push tự kích hoạt đường nóng: selection → claim EXACT ID → QA chấm
+   từng draft (cấu trúc, SEO on-page, link nội bộ, business facts,
+   cannibalization, legal/source), ghi evidence SHA gắn với nội dung +
+   hàng matrix. PASS → hàng PASS (90+ = EXCELLENT, 75-89 = PASS + cảnh
+   báo QA — polish defer cho weekly audit); thiếu điểm → REPAIR (writer
+   sửa rồi push lại); hết budget repair → BLOCKED. QA không bao giờ tự
+   hạ ngưỡng.
+3. Repair (nếu cần): writer chỉ sửa draft dính lỗi rồi push lại —
+   repair push chỉ QA/publish EXACT ID đã sửa, KHÔNG claim việc mới.
+4. `publish --ids`: từng hàng PASS qua `publish-gate.py`
    (lock + hash + transaction chuẩn) promote `_drafts/` → `_posts/`, chốt
    ngày thật vào URL, cập nhật matrix + checkpoint; sinh reports +
    verify theo scope fast; workflow commit + push fast-forward.
-7. Chờ Quality gate xanh trên đúng HEAD + Pages deploy SUCCESS + kiểm tra
-   live URL 200 + sitemap. Hết PLANNED → `refill` rồi tiếp tục.
+5. Chờ Quality gate xanh trên đúng HEAD + Pages deploy SUCCESS + kiểm tra
+   live URL 200 + sitemap.
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
@@ -93,7 +127,9 @@ hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
 - Op nào FAIL → workflow DỪNG, KHÔNG claim hàng mới; phần việc đã xong
   an toàn được giữ. Ghi lại: ID lỗi, action lỗi, HEAD, checkpoint,
   transaction, lock, các ID chưa xong, lệnh resume chính xác.
-- Lần chạy sau: `resume` (recover) → hoàn tất việc dở → mới nhận việc mới.
+- Lần chạy sau: dispatch `recover` → hoàn tất việc dở → mới nhận việc mới.
+  Hàng PASS còn treo (QA xong nhưng chưa publish): push lại draft của ID
+  đó (repair push) — đường nóng QA lại rồi publish EXACT ID.
   (Hợp đồng resume: `docs/RECOVERY.md`.)
 - Push chỉ fast-forward; origin đổi giữa chừng → fetch + rebase + validate
   chunk lại rồi push (tối đa 2 lần); rebase conflict hoặc validate FAIL →
