@@ -40,7 +40,7 @@ Với hàng `source_required = true` (toàn bộ parent `an-toan-phap-ly` và c�
 - Liên kết nội bộ: theo canonical docs/INTERNAL-LINKING.md (child hub → parent hub → bài liên quan; chọn link trong lúc viết bài). Liên kết thương mại (`/bang-gia/`, `/lien-he/`) chỉ khi có ngữ cảnh. Không link wheel, không anchor text khớp chính xác hàng loạt.
 - Canonical: `canonical_url` trong ma trận. Không tạo URL trùng.
 
-## Chất lượng (ngưỡng xuất bản 90/100)
+## Chất lượng (ngưỡng xuất bản 75/100)
 
 - Mở bài nêu đúng vấn đề người dùng; thân bài giải quyết từng bước; có ví dụ Hà Nội thực tế.
 - Không lặp câu, không đệm rỗng, không tóm tắt vô nghĩa ở cuối.

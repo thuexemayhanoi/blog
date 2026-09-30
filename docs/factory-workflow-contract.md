@@ -51,7 +51,7 @@ START
 
 - Lệnh sản xuất prepare-next/qa/publish mặc định FAST ở CẢ preflight và
   verify cuối run; người vận hành chỉ định rõ deep/full khi cần soát rộng.
-- FAST vẫn giữ nguyên mọi ngưỡng và bằng chứng (quality/seo >= 90,
+- FAST vẫn giữ nguyên mọi ngưỡng và bằng chứng (quality/seo >= 75,
   business_fact/legal PASS-FAIL, hash QA gắn nội dung, publish gate,
   lock, transaction) — chỉ PHẠM VI validate nền tảng hẹp theo chunk.
 - FULL dùng cho: thay đổi engine/workflow, kiểm tra cuối đợt sửa, kiểm tra
@@ -100,7 +100,7 @@ ghi rõ lý do trong cột notes. Ví dụ đã có: BLG-00507 (trùng slug lega
 
 ## 6. Bằng chứng QA (bắt buộc với mọi bài PUBLISHED)
 
-quality >= 90, seo >= 90, business_fact PASS, legal PASS hoặc NOT_REQUIRED,
+quality >= 75, seo >= 75, business_fact PASS, legal PASS hoặc NOT_REQUIRED,
 critical_failure false; content_sha256 (SHA-256 tệp draft/_posts) và
 matrix_row_sha256 (SHA-256 JSON sort-keys của
 {title,intent,primary_keyword,expected_url,output_path,canonical_url}) phải khớp.

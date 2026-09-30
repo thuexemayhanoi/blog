@@ -11,8 +11,8 @@ tay "CONTINUE BLOG") tự quyết định khi nào chạy mức nào:
       trúc, SEO on-page, link nội bộ, business facts, cannibalization,
       legal/source) + validate.py --scope chunk (chỉ chunk hiện tại +
       nền bắt buộc). KHÔNG quét legacy 483 bài, KHÔNG sitemap live,
-      KHÔNG audit toàn site. Ngưỡng KHÔNG đổi: quality >= 90,
-      seo >= 90, business_fact/legal PASS-FAIL.
+      KHÔNG audit toàn site. Ngưỡng KHÔNG đổi giữa các mức: quality >= 75,
+      seo >= 75, business_fact/legal PASS-FAIL.
 
   python3 scripts/factory/qa.py --mode deep
       Sau ~50 bài hoặc khi cần soát rộng: everything của fast + hạng
@@ -26,7 +26,7 @@ tay "CONTINUE BLOG") tự quyết định khi nào chạy mức nào:
 
 QA từng bài (bằng chứng data/qa/<ID>.json) và publish gate KHÔNG đổi
 giữa các mức — chỉ phạm vi validate nền tảng thay đổi. Mức fast vẫn
-bắt buộc quality >= 90, seo >= 90, legal/source gate, business facts.
+bắt buộc quality >= 75, seo >= 75, legal/source gate, business facts.
 """
 import argparse
 import subprocess

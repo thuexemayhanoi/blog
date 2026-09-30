@@ -145,7 +145,7 @@ checkpoint = {
     ),
     'rules': {
         'max_chunk': 10,
-        'publish_requires': 'QUALITY>=90 AND SEO>=90 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE',
+        'publish_requires': 'QUALITY>=75 AND SEO>=75 AND BUSINESS_FACT PASS AND (LEGAL PASS OR NOT REQUIRED) AND NO CRITICAL FAILURE',
         'evidence': 'data/qa/<BLG-ID>.json (bắt buộc khi promote, kiểm bởi scripts/factory/publish-gate.py)',
     },
 }

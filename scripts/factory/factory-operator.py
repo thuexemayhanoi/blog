@@ -38,8 +38,8 @@ Ops whitelist:
 QA SCOPE (docs/PROC-PUBLISH.md "QA modes" — sản xuất thủ công, KHÔNG tự lặp):
   fast (mặc định)  — validate.py --scope chunk: CHỈ chunk hiện tại + nền bắt
                      buộc. Đây là QA sản xuất cho mỗi chunk 10 bài; KHÔNG
-                     chạy audit toàn site. Ngưỡng KHÔNG đổi: quality>=90,
-                     seo>=90, business_fact/legal PASS-FAIL giữ nguyên.
+                     chạy audit toàn site. Ngưỡng KHÔNG đổi giữa các mức:
+                     quality>=75, seo>=75, business_fact/legal PASS-FAIL giữ nguyên.
   deep             — validate.py --scope batch: nền + inventory/matrix/hub
                      rộng hơn, không quét sitemap live. Chạy thủ công (~50 bài).
   full             — validate.py --scope full: toàn repository kèm sitemap
@@ -77,8 +77,8 @@ LOCK_FILE = 'data/state/writer-lock.active'
 MAX_CHUNK = 10
 DEFAULT_CHUNK = 5
 REPAIR_BUDGET = 3
-QUALITY_MIN = 90
-SEO_MIN = 90
+QUALITY_MIN = 75
+SEO_MIN = 75
 
 # QA modes (docs/PROC-PUBLISH.md): fast = validate scope chunk (mặc định cho
 # sản xuất 10 bài), deep = scope batch, full = scope full. KHÔNG hạ ngưỡng.

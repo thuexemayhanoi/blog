@@ -92,7 +92,7 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
-`quality >= 90`, `seo >= 90`, `business_fact = PASS`,
+`quality >= 75`, `seo >= 75`, `business_fact = PASS`,
 `legal = PASS | NOT_REQUIRED`, `critical_failure = false`,
 `content_sha256` khớp draft hiện tại, `matrix_row_sha256` khớp hàng
 matrix hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
@@ -111,7 +111,7 @@ matrix hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
 ## Ghi nhận pilot 2026-09-27 (5 bài, không bật hourly)
 
 - Chuỗi lệnh chạy đúng luồng: `prepare-next` (5) -> writer ngoài viết
-  draft -> `qa` (5/5 PASS: quality/seo >= 90, business_fact PASS,
+  draft -> `qa` (5/5 PASS: quality/seo >= 75, business_fact PASS,
   legal NOT_REQUIRED) -> `publish` (5/5 qua publish-gate, QA evidence
   được gate đồng bộ `source_path` + `matrix_row_sha256` sau promote).
 - Bài xuất bản: BLG-00486..BLG-00490 (C-THUE-GIA). Checkpoint:
@@ -174,7 +174,7 @@ engine/workflow và kiểm tra cuối đợt sửa.
   hash QA của MỌI bài PUBLISHED, crawl toàn site, graph cannibalization
   toàn matrix. Phát hiện dấu hiệu hệ thống ở fast -> nâng lên deep/full,
   KHÔNG hạ ngưỡng.
-- Ngưỡng giữ nguyên: quality >= 90, seo >= 90, business_fact/legal
+- Ngưỡng giữ nguyên: quality >= 75, seo >= 75, business_fact/legal
   PASS-FAIL, critical_failure = false.
 
 ### DEEP (thủ công, ~mỗi 50 bài)

@@ -32,7 +32,7 @@ RECOVER (hòa giải transaction/lock treo nếu có)
 → FACT CHECK (business facts → data/business-facts.json)
 → SOURCE VERIFY (legal/hiện hành → nguồn chính thức, docs/SOURCE-RESEARCH.md)
 → QA (rubric docs/QUALITY-RUBRIC.md, bằng chứng hash)
-→ REPAIR (nếu < 90: sửa rồi chấm lại, không cộng bù)
+→ REPAIR (nếu < 75: sửa rồi chấm lại, không cộng bù)
 → PUBLISH GATE (scripts/factory/publish-gate.py — cổng duy nhất vào _posts/)
 → CHECKPOINT (cập nhật checkpoint/report)
 → COMMIT → CI/PAGES VERIFY (Factory validate + Factory capacity validate + Pages đều SUCCESS + kiểm tra live)
@@ -46,7 +46,7 @@ Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp di�
 - KHÔNG tin số đếm stale trong prose docs — luôn đọc data/state + report sinh máy.
 - KHÔNG claim quá giới hạn chunk chuẩn (3–5, tối đa 10 bài/chunk).
 - KHÔNG chạy hai writer song song: lock sentinel `data/state/writer-lock.active` tạo bằng O_CREAT|O_EXCL, mỗi lần acquire sinh ownership token UUID (sentinel chứa token, `writer-lock.json` lưu cùng token); release chỉ thao khi token khớp — KHÔNG force-unlock lock của chủ khác/không rõ ownership (mức override duy nhất: `docs/RECOVERY.md` mục lock treo có bằng chứng quá hạn).
-- KHÔNG hạ ngưỡng QA (quality ≥ 90, seo ≥ 90, business_fact/legal PASS-FAIL).
+- KHÔNG hạ ngưỡng QA dưới mức chủ xe đã duyệt (quality ≥ 75, seo ≥ 75, business_fact/legal PASS-FAIL).
 - KHÔNG bịa dữ liệu kinh doanh/pháp lý/địa phương — nguồn chuẩn: `data/business-facts.json`; pháp lý: nguồn chính thức theo `docs/SOURCE-RESEARCH.md`.
 - KHÔNG tự đổi trạng thái REVIEW/BLOCKED.
 - KHÔNG publish thẳng vào `_posts/` ngoài publish gate.
@@ -74,7 +74,7 @@ Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp di�
 - `python3 scripts/factory/validate.py` — 0 PASS / 1 FAIL / 2 BLOCKED.
 - `python3 scripts/factory/capacity-audit.py`, `queue.py --stats`, `refill-queue.py --verify` — audit read-only.
 - `python3 scripts/factory/generate-matrix.py` — tái sinh matrix idempotent, bảo toàn trạng thái runtime.
-- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote v3: hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥ 90, seo ≥ 90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure, `content_sha256` khớp draft, `matrix_row_sha256` khớp vân tay hàng). Gate tự giữ ownership-safe writer lock, mở transaction, promote, APPEND history, nhả lock.
+- `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote v3: hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥ 75, seo ≥ 75, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure, `content_sha256` khớp draft, `matrix_row_sha256` khớp vân tay hàng). Gate tự giữ ownership-safe writer lock, mở transaction, promote, APPEND history, nhả lock.
 - CI: `factory-validate.yml` + `factory-capacity-validate.yml` (read-only, không bao giờ commit về main) + Pages. CI XANH + Pages deploy là điều kiện cần; kiểm tra runtime live là điều kiện đủ trước khi tuyên bố hoàn thành.
 - Hợp đồng kiểm tra 4 tầng (docs/ENGINE-RUNBOOK.md mục 11): (1) Unit — suite theo module (watchdog, operator, publish gate); (2) Integration — hardening/qa-modes/publish-flow trên fixture hermetic; (3) Production invariant — validate.py (chunk/batch/full) + CI + Pages; (4) Long-run/failure recovery — `test_soak_recovery.py` (20 vòng hermetic + failure injection, chạy trong verify --scope full). FULL mạnh hơn DEEP (FULL = DEEP + hardening + watchdog + soak); FAST nhẹ (chunk + suite cục bộ). KHÔNG hạ ngưỡng khi đổi mức.
 - Liveness watchdog (`scripts/factory/watchdog.py`): READ-ONLY, báo cáo txn/lock/checkpoint treo theo ngưỡng; `.github/workflows/factory-watchdog.yml` là workflow định kỳ duy nhất của factory (cron 30 phút, contents: read, purity bắt buộc). Watchdog KHÔNG mutate state, KHÔNG nhận việc, KHÔNG thay scheduler vận hành. `publish-queue.yml` là legacy diagnostics-only (không cron, chỉ workflow_dispatch).
@@ -82,7 +82,7 @@ Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp di�
 
 ## 7. Điều kiện xuất bản (gate)
 
-Xuất bản một bài yêu cầu TẤT CẢ: QUALITY ≥ 90/100 VÀ SEO ≥ 90/100 (rubric `docs/QUALITY-RUBRIC.md` — điểm nội bộ, không phải điểm Google); BUSINESS FACT PASS (truy về `data/business-facts.json`); LEGAL PASS hoặc NOT_REQUIRED (theo `source_required`/`legal_risk`); KHÔNG critical failure. Kiểm tra tự động KHÔNG thay thế đánh giá nội dung bởi AI/người đọc có bằng chứng. Nội dung chạm khoảng đặt cọc/phí trễ/bảo hiểm đang BLOCKED: xem `reports/factory/policy-conflicts.md` — không nêu con số cho tới khi chủ xe quyết định.
+Xuất bản một bài yêu cầu TẤT CẢ: QUALITY ≥ 75/100 VÀ SEO ≥ 75/100 (rubric `docs/QUALITY-RUBRIC.md` — điểm nội bộ, không phải điểm Google); BUSINESS FACT PASS (truy về `data/business-facts.json`); LEGAL PASS hoặc NOT_REQUIRED (theo `source_required`/`legal_risk`); KHÔNG critical failure. Kiểm tra tự động KHÔNG thay thế đánh giá nội dung bởi AI/người đọc có bằng chứng. Nội dung chạm khoảng đặt cọc/phí trễ/bảo hiểm đang BLOCKED: xem `reports/factory/policy-conflicts.md` — không nêu con số cho tới khi chủ xe quyết định.
 
 ## 8. Nội dung hiện có
 

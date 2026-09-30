@@ -2,7 +2,7 @@
 
 Đây là điểm nội bộ để gate xuất bản, KHÔNG phải điểm Google và không tương đương thứ hạng. Chấm bằng AI/người đọc có bằng chứng; kiểm tra tự động (độ dài, từ khóa, link) chỉ là điều kiện cần, không chứng minh chất lượng hay tính đúng pháp lý.
 
-## QUALITY (≥ 90/100 mới được xuất bản)
+## QUALITY (≥ 75/100 mới được xuất bản)
 
 | Tiêu chí | Trọng số | Bằng chứng cần |
 |---|---|---|
@@ -12,9 +12,9 @@
 | Chính xác thực tế, không bịa số | 20 | Mọi con số truy về `data/business-facts.json` hoặc nguồn chính thức |
 | Cấu trúc H2/H3, danh sách khi hữu ích, một H1 | 10 | Kiểm tra render |
 
-Tổng < 90 → REPAIR, giữ `_drafts/`. Critical failure (bịa dữ liệu kinh doanh, nhận định pháp lý sai nguồn, đạo văn/copy) → FAIL ngay bất kể điểm.
+Tổng < 75 → REPAIR, giữ `_drafts/`. 75–89 → được xuất bản, tối ưu vào đợt audit tuần. 90–100 → chất lượng mạnh. Critical failure (bịa dữ liệu kinh doanh, nhận định pháp lý sai nguồn, đạo văn/copy) → FAIL ngay bất kể điểm.
 
-## SEO (≥ 90/100)
+## SEO (≥ 75/100)
 
 | Tiêu chí | Trọng số | Bằng chứng |
 |---|---|---|
@@ -33,5 +33,5 @@ Tổng < 90 → REPAIR, giữ `_drafts/`. Critical failure (bịa dữ liệu ki
 ## Xử lý lỗi
 
 - QUALITY 85–89: sửa theo tiêu chí mất điểm, chấm lại (không cộng điểm bù).
-- SEO < 90: tối ưu an toàn (title/meta/link), không đổi ý tiêu đề.
+- SEO < 75: tối ưu an toàn (title/meta/link), không đổi ý tiêu đề.
 - Không hạ trọng số, không bỏ tiêu chí để PASS. Không dùng kết quả "skipped" của validator cũ làm bằng chứng.

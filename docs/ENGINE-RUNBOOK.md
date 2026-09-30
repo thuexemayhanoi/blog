@@ -96,7 +96,7 @@ xay ra qua lenh operator chu dong.
 
 - Viet draft vao _drafts/ (KHONG dung _posts/).
 - QA + bang chung SHA: data/qa/<BLG-ID>.json
-  (quality >= 90, seo >= 90, business_fact PASS,
+  (quality >= 75, seo >= 75, business_fact PASS,
   legal PASS hoac NOT_REQUIRED, content_sha256 +
   matrix_row_sha256 khop).
 - Repair: QA -> REPAIR -> QA (toi da vai vong; repair rate

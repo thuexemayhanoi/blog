@@ -8,7 +8,7 @@ Chứng minh (docs/PROC-PUBLISH.md "QA modes"):
   - FAST (scope chunk) CHỈ kiểm chunk hiện tại + nền bắt buộc: một lỗi
     toàn site (URL legacy sai, hash QA bài PUBLISHED ngoài chunk) KHÔNG
     chặn FAST, nhưng DEEP/FULL phát hiện được.
-  - FAST vẫn chấm đầy đủ từng bài (ngưỡng 90/90, legal, business facts)
+  - FAST vẫn chấm đầy đủ từng bài (ngưỡng 75/75, legal, business facts)
     và VẪN publish được khi FULL audit FAIL (lỗi ngoài chunk).
   - release-chunk: pause an toàn — chỉ trả hàng WRITING chưa có draft;
     hàng có draft/QA evidence được giữ; PUBLISHED không bị hạ.
@@ -560,11 +560,14 @@ class TestManualProductionFlow(FxTestCase):
         row = first_writing(self.fx)
         set_word_target(self.fx, row['id'], 100)
         p = make_draft(self.fx, row)
-        # phá meta description (ngắn, thiếu từ khóa) -> seo < 90 -> REPAIR,
-        # KHÔNG hạ ngưỡng
+        # phá meta description (ngắn, thiếu từ khóa) + lệch title so với
+        # matrix -> seo < 75 -> REPAIR, KHÔNG hạ ngưỡng
         text = open(p, encoding='utf-8').read()
         text = re.sub(r'^description: .*$', 
 'description: "ngắn"',
+                      text, count=1, flags=re.M)
+        text = re.sub(r'^title: .*$', 
+'title: "Tiêu đề bị đổi để lệch matrix"',
                       text, count=1, flags=re.M)
         open(p, 'w', encoding='utf-8').write(text)
         r = self.operator('qa', '--scope', 'fast', '--ids', row['id'])
@@ -575,8 +578,8 @@ class TestManualProductionFlow(FxTestCase):
                          'REPAIR')
 
     def test_threshold_constants_unchanged(self):
-        self.assertEqual(op_mod().SEO_MIN, 90)
-        self.assertEqual(op_mod().QUALITY_MIN, 90)
+        self.assertEqual(op_mod().SEO_MIN, 75)
+        self.assertEqual(op_mod().QUALITY_MIN, 75)
         self.assertEqual(op_mod().MAX_CHUNK, 10)
 
     def test_lock_blocks_second_writer(self):

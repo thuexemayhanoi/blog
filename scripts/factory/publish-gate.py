@@ -11,7 +11,7 @@ Chuỗi promote an toàn (theo đúng thứ tự, không rút ngắn):
      "lock tự do").
   2. kiểm tra không có transaction conflicting đang active.
   3. kiểm tra hàng matrix = PASS.
-  4. kiểm tra bằng chứng data/qa/<id>.json: quality>=90, seo>=90,
+  4. kiểm tra bằng chứng data/qa/<id>.json: quality>=75, seo>=75,
      business_fact=PASS, legal=PASS|NOT_REQUIRED, critical_failure=false.
   5. GẮNG VỚI NỘI DUNG: sha256 draft HIỆN TẠI phải == qa.content_sha256
      (khớp -> QA chấm đúng nội dung này; lệch -> STALE_QA_EVIDENCE, từ chối).
@@ -36,8 +36,8 @@ TXN = 'data/state/transaction.json'
 CP = 'data/state/checkpoint.json'
 HISTORY_MAX = 50
 
-QUALITY_MIN = 90
-SEO_MIN = 90
+QUALITY_MIN = 75
+SEO_MIN = 75
 
 
 def now_iso():

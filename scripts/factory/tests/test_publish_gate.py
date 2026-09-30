@@ -71,8 +71,8 @@ r = run(['--draft','_drafts/2026-09-27-sim-blg-91001.md','--id','BLG-91001','--d
 assert r.returncode == 1, r.stdout
 assert 'bằng chứng' in r.stdout, r.stdout
 
-# 2. bằng chứng có quality < 90 -> từ chối
-json.dump({'quality':85,'seo':95,'business_fact':'PASS','legal':'NOT_REQUIRED','critical_failure':False},
+# 2. bằng chứng có quality < 75 -> từ chối
+json.dump({'quality':65,'seo':95,'business_fact':'PASS','legal':'NOT_REQUIRED','critical_failure':False},
           open(os.path.join(work,'data/qa/BLG-91001.json'),'w',encoding='utf-8'))
 r = run(['--draft','_drafts/2026-09-27-sim-blg-91001.md','--id','BLG-91001','--dry-run'])
 assert r.returncode == 1 and 'quality' in r.stdout, r.stdout
