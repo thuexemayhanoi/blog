@@ -33,8 +33,7 @@ name: Factory Operator
 #   duoc verify CHINH XAC tren dung trang thai se commit, TRUOC khi
 #   push: buoc "Verify chuan..." stage toan bo, chot van tay cay
 #   (git write-tree) vao OPERATOR_VERIFIED_TREE, chay canonical
-#   verify (validate + capacity-a
-udit + tests) roi kiem tra lai cay
+#   verify (validate + capacity-audit + tests) roi kiem tra lai cay
 #   khong doi. Buoc commit doi chuoi: commit phai co tree == cay da
 #   verify; push chi fast-forward. Neu origin/main doi giua chan:
 #   fetch -> rebase -> CHAY LAI canonical verify tren trang thai da
@@ -90,8 +89,7 @@ jobs:
             const SCOPES = ["fast","deep","full"];
             const PRODUCTION_OPS = ["prepare-next","qa","publish"];
             if (!OPS.includes(cmd.op)) { console.error("unsupported op: " + cmd.op); process.exit(1); }
-            if (cmd.ids && !/^[A-Z0-9,-]+$/.test(cmd.ids)) { consol
-e.error("bad ids"); process.exit(1); }
+            if (cmd.ids && !/^[A-Z0-9,-]+$/.test(cmd.ids)) { console.error("bad ids"); process.exit(1); }
             if (cmd.count !== undefined && (!Number.isInteger(cmd.count) || cmd.count < 1 || cmd.count > 10)) { console.error("bad count"); process.exit(1); }
             if (cmd.scope !== undefined && !SCOPES.includes(cmd.scope)) { console.error("bad scope"); process.exit(1); }
             if (cmd.command_id !== undefined && !/^[A-Za-z0-9._-]{1,64}$/.test(String(cmd.command_id))) { console.error("bad command_id"); process.exit(1); }
@@ -116,8 +114,7 @@ e.error("bad ids"); process.exit(1); }
       # (transaction treo -> validate FAIL -> recover khong bao gio chay).
       # factory-operator.py recover tu kiem tra lock/transaction, tu STOP
       # khi ownership khong ro. Moi op mutating tu preflight (scope chunk)
-      # ben trong factor
-y-operator.py.
+      # ben trong factory-operator.py.
       - name: Recover transaction neu treo
         run: |
           code=0
@@ -174,8 +171,7 @@ y-operator.py.
 
       - name: op verify
         if: env.OP == 'verify'
-        run: python3 scripts/factory/factory-operator.py verify 
-${SCOPE:+--scope $SCOPE}
+        run: python3 scripts/factory/factory-operator.py verify ${SCOPE:+--scope $SCOPE}
 
       - name: op refill
         if: env.OP == 'refill'
@@ -223,8 +219,7 @@ ${SCOPE:+--scope $SCOPE}
           echo "OPERATOR_LOCAL_VERIFY_HEAD=$(git rev-parse HEAD)" >> "$GITHUB_ENV"
           echo "OPERATOR_LOCAL_VERIFY_TREE=$VERIFIED_TREE"
           python3 scripts/factory/factory-operator.py verify ${SCOPE:+--scope $SCOPE}
-          find scripts -name '__pycache__' -type d -prune -exec rm -rf {} + 2
->/dev/null || true
+          find scripts -name '__pycache__' -type d -prune -exec rm -rf {} + 2>/dev/null || true
           git add -A
           if [ "$(git write-tree)" != "$VERIFIED_TREE" ]; then
             echo "::error::index doi sau verify — co output khong deterministic, KHONG push"
@@ -265,8 +260,7 @@ ${SCOPE:+--scope $SCOPE}
               # DUY NHAT tren data/factory/operator-command.json. Run nay
               # da xu ly lenh cu (commit cua run xoa file lenh); origin mang
               # lenh MOI chua dispatch -> giu nguyen lenh moi cua origin
-              # (se duoc run cua no tieu thu). Confl
-ict bat ky o file khac
+              # (se duoc run cua no tieu thu). Conflict bat ky o file khac
               # van STOP, KHONG force push.
               CONFLICTS=$(git diff --name-only --diff-filter=U || true)
               OTHER=""
