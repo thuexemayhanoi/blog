@@ -240,7 +240,6 @@ class VerifyStepsTest(unittest.TestCase):
             'scripts/factory/tests/test_link_integrity.py',
             'scripts/factory/tests/test_qa_modes.py',
             'scripts/factory/tests/test_publish_flow.py',
-            'scripts/factory/tests/test_push_rebase_overlap.py',
             'scripts/factory/tests/test_refill_semantics.py',
             # FULL mạnh hơn DEEP (hợp đồng 4 tầng): + hardening + watchdog
             # + soak (tầng 4: long-run/failure recovery 20 vòng hermetic).

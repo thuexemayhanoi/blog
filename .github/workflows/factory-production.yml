@@ -1,0 +1,175 @@
+name: Factory production
+
+# DUONG SAN XUAT DUY NHAT cua /blog (hop dong 3 workflow —
+# docs/factory-workflow-contract.md). workflow_dispatch: chu xe hoac AI
+# coordinator dispatch TU GitHub UI/API voi action + count + ids; KHONG con
+# file lenh data/factory/operator-command.json, KHONG cron, KHONG AI, KHONG
+# secret AI. Workflow nay la moi truong thuc thi cho tooling chuan cua /blog
+# (factory-operator.py): writer lock + transaction + checkpoint +
+# publish-gate.py + refill-queue.py + QA evidence + nguong 75/75
+# (docs/PROC-PUBLISH.md).
+#
+# Ops (action -> factory-operator.py):
+#   status  — in trang thai engine (read-only)
+#   resume  — recover transaction/lock treo (FAIL-CLOSED, docs/RECOVERY.md)
+#   next    — prepare-next: claim N hang PLANNED (count 1-10, mac dinh 5)
+#   qa      — QA deterministic cho hang WRITING/QA/REPAIR (--ids tuy chon)
+#   publish — promote hang PASS qua publish-gate.py (BU bat buoc --ids)
+#
+# Moi op san xuat chay --scope fast (validate chunk + suite nhanh).
+# Recover chay TRUOC moi op mutating (transaction treo khong deadlock
+# validate). BAI DA XUAT BAN khong bao gio bi de: publish-gate tu choi
+# promote trung ID/slug/canonical; publish-gate.py van la nguoi xuat ban
+# duy nhat.
+#
+# HOP DONG PUSH (don gian, an toan):
+#   - commit roi push fast-forward; origin doi giua chan -> fetch + rebase
+#   - sau rebase PHAI validate.py --scope chunk PASS truoc khi push lai
+#   - rebase conflict hoac validate FAIL = STOP (khong force push, khong
+#     replay); lan chay sau resume tu repository truth
+#   - thu lai toi da 2 lan; FINAL_PUSHED_HEAD/ORIGIN_HEAD_AFTER in ra log
+#     de bao cao phan biet dung head da chay.
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'status | resume | next | qa | publish'
+        required: true
+        type: string
+      count:
+        description: 'So hang claim cho action=next (1-10, mac dinh 5)'
+        required: false
+        default: '5'
+        type: string
+      ids:
+        description: 'BLG ids phan cach bang phay (qa/publish)'
+        required: false
+        default: ''
+        type: string
+
+concurrency:
+  group: blog-factory-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  operate:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+      ACTION: ${{ inputs.action }}
+      COUNT: ${{ inputs.count }}
+      IDS: ${{ inputs.ids }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Kiem tra input hop le
+        run: |
+          set -eu
+          case "$ACTION" in
+            status|resume|next|qa|publish) ;;
+            *) echo "::error::action khong ho tro: $ACTION"; exit 1 ;;
+          esac
+          if [ "$ACTION" = "next" ] && [ -n "$COUNT" ]; then
+            case "$COUNT" in
+              ''|*[!0-9]*) echo "::error::count phai la so: $COUNT"; exit 1 ;;
+            esac
+            if [ "$COUNT" -lt 1 ] || [ "$COUNT" -gt 10 ]; then
+              echo "::error::count ngoai khoang 1-10: $COUNT"; exit 1
+            fi
+          fi
+          if [ "$ACTION" = "publish" ] && [ -z "$IDS" ]; then
+            echo "::error::publish bat buoc ids"; exit 1
+          fi
+          echo "action=$ACTION count=$COUNT ids=$IDS"
+
+      - name: Preflight - trang thai engine (read-only)
+        run: python3 scripts/factory/factory-operator.py status
+
+      - name: Recover transaction neu treo (truoc moi op mutating)
+        if: env.ACTION != 'status'
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py recover
+
+      - name: op status
+        if: env.ACTION == 'status'
+        run: python3 scripts/factory/factory-operator.py status
+
+      - name: op resume
+        if: env.ACTION == 'resume'
+        run: python3 scripts/factory/factory-operator.py recover
+
+      - name: op next
+        if: env.ACTION == 'next'
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py prepare-next --count "$COUNT" --scope fast
+
+      - name: op qa
+        if: env.ACTION == 'qa'
+        run: |
+          set -eu
+          ARGS="--scope fast"
+          if [ -n "$IDS" ]; then ARGS="$ARGS --ids $IDS"; fi
+          python3 scripts/factory/factory-operator.py qa $ARGS
+
+      - name: op publish
+        if: env.ACTION == 'publish'
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py publish --ids "$IDS" --scope fast
+
+      - name: Commit va push fast-forward (rebase phai validate lai, khong force push)
+        run: |
+          set -eu
+          git config user.name "factory-operator-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "khong co gi de commit"
+            exit 0
+          fi
+          git commit -m "factory-production: ${ACTION} (deterministic outputs of canonical tooling only)"
+          if git push; then
+            git fetch origin main
+            git merge-base --is-ancestor HEAD origin/main
+            echo "FINAL_PUSHED_HEAD=$(git rev-parse HEAD)"
+            echo "ORIGIN_HEAD_AFTER=$(git rev-parse origin/main)"
+            exit 0
+          fi
+          for i in 1 2; do
+            echo "::warning::origin/main doi giua chan (lan $i) - fetch, rebase roi VALIDATE LAI trang thai rebase"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "::error::rebase conflict - STOP, khong force push; resume lan chay sau tu repository truth"
+              exit 1
+            fi
+            echo "OPERATOR_LOCAL_VERIFY_HEAD_POST_REBASE=$(git rev-parse HEAD)"
+            python3 scripts/factory/validate.py --scope chunk
+            if ! git diff --quiet || ! git diff --cached --quiet; then
+              echo "::error::trang thai sau rebase khong clean - STOP, khong push state chua hoa giai"
+              exit 1
+            fi
+            if git push; then
+              git fetch origin main
+              git merge-base --is-ancestor HEAD origin/main
+              echo "FINAL_PUSHED_HEAD=$(git rev-parse HEAD) (sau rebase, da validate lai)"
+              echo "ORIGIN_HEAD_AFTER=$(git rev-parse origin/main)"
+              exit 0
+            fi
+          done
+          echo "::error::push van conflict sau rebase + validate - STOP, khong force push"
+          exit 1

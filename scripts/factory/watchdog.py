@@ -6,8 +6,8 @@ Hợp đồng (docs/ENGINE-RUNBOOK.md mục 10):
   - CHỈ ĐỌC state (transaction/checkpoint/writer-lock/matrix). Không ghi,
     không mutate, không lock, không nhận việc, không tự recover — watchdog
     là hệ thống báo cáo, mọi can thiệp qua operator chuẩn (RECOVERY.md).
-  - Workflow định kỳ duy nhất của factory:
-    .github/workflows/factory-watchdog.yml (cron 30 phút, contents: read).
+  - Chạy định kỳ trong .github/workflows/weekly-maintenance.yml
+    (cron tuần, contents: read) — cùng purity check bắt buộc sau đó.
   - Sau watchdog bước purity bắt buộc: working tree phải sạch (bằng chứng
     READ-ONLY, không tự khai).
 

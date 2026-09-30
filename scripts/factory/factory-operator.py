@@ -2,10 +2,11 @@
 # -*- coding: utf-8 -*-
 """FACTORY OPERATOR — tay deterministic cho writer ngoài (external AI).
 
-Mô hình (docs/PROC-PUBLISH.md):
+Mô hình (docs/PROC-PUBLISH.md — hợp đồng 3 workflow):
   EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write)
-    -> data/factory/operator-command.json (whitelist op)
-    -> GitHub Actions (checkout + Python + Node + tooling chuẩn)
+    -> workflow_dispatch trên .github/workflows/factory-production.yml
+       (inputs action/count/ids, KHÔNG còn file lệnh operator-command.json)
+    -> GitHub Actions (checkout + Python + tooling chuẩn)
     -> scripts/factory/factory-operator.py (file này)
 
 File này KHÔNG chứa AI, KHÔNG viết prose bài, KHÔNG bịa số liệu.
@@ -666,6 +667,14 @@ def qa_check_one(row, rows, biz, tax):
                               and business_fact == 'PASS'
                               and legal in ('PASS', 'NOT_REQUIRED')
                               and not critical) else 'REPAIR'
+    # Phân loại mức sản xuất (docs/QUALITY-RUBRIC.md): ngưỡng xuất bản
+    # 75/75; 90+ là EXCELLENT; 75-89 là PASS (cảnh báo QA — các vấn đề
+    # polish không nghiêm trọng defer cho weekly-maintenance).
+    if ev['result'] == 'PASS':
+        ev['grade'] = ('EXCELLENT' if (quality >= 90 and seo >= 90)
+                       else 'PASS')
+    else:
+        ev['grade'] = 'REPAIR'
     return ev
 
 
@@ -709,8 +718,11 @@ def op_qa(args, biz, tax):
             if ev['result'] == 'PASS':
                 row['status'] = 'PASS'
                 outcomes[aid] = 'PASS'
-                print('qa %s: PASS quality=%d seo=%d'
-                      % (aid, ev['quality'], ev['seo']))
+                print('qa %s: PASS quality=%d seo=%d' % (aid, ev['quality'], ev['seo']))
+                if ev.get('grade') != 'EXCELLENT':
+                    print('qa %s: [QA WARNING: 75-89 — vấn đề polish không '
+                          'nghiêm trọng defer cho weekly-maintenance]'
+                          % aid)
             else:
                 repair_n = int(row['repair_count'] or 0)
                 row['status'] = 'REPAIR'
@@ -1178,7 +1190,6 @@ VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
     'scripts/factory/tests/test_link_integrity.py',
     'scripts/factory/tests/test_qa_modes.py',
     'scripts/factory/tests/test_publish_flow.py',
-    'scripts/factory/tests/test_push_rebase_overlap.py',
     'scripts/factory/tests/test_refill_semantics.py',
 ]
 # FULL mạnh hơn DEEP (hợp đồng 4 tầng — docs/ENGINE-RUNBOOK.md mục 11):

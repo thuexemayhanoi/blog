@@ -9,14 +9,17 @@ Phủ các kịch bản yêu cầu:
   S4  Draft hỏng UTF-8 => qa crash là FATAL; workflow qa step `set -eu`,
       không nuốt exit code.
   S5  generate-reports.py FAIL => prepare-next DỪNG, không claim.
-  S6  Push block (tách từ factory-operator.yml) mô phỏng bằng fake git:
-      rebase conflict => STOP; rebase sạch => verify lại TRƯỚC push;
-      verify FAIL sau rebase => STOP; tree khác tree đã verify => STOP.
-  S7  Static: workflow không force push, verify trước commit, không cron,
-      concurrency/permissions giữ nguyên, publish-queue.yml vẫn gated
-      enabled=false, _data/publishing.yml enabled: false. Thêm: publish-queue
-      legacy không cron, cổng factory-validate chạy hardening/watchdog,
-      watchdog workflow READ-ONLY.
+  S6  Push block (tách từ factory-production.yml) mô phỏng bằng fake git
+      + stub python3: rebase conflict => STOP; rebase sạch => validate.py
+      --scope chunk TRƯỚC push; validate FAIL sau rebase => STOP;
+      push đầu tiên thành công => FINAL_PUSHED_HEAD/ORIGIN_HEAD_AFTER.
+      Không bao giờ force push (static).
+  S7  Static: hợp đồng 3 workflow (docs/factory-workflow-contract.md) —
+      quality-gate.yml FAST + READ-ONLY; weekly-maintenance.yml FULL
+      audit + READ-ONLY + cron tuần; factory-production.yml dispatch-only,
+      contents: write, không AI secrets, publish-gate.py là người xuất bản
+      duy nhất; các workflow/test đã retire KHÔNG quay lại;
+      _data/publishing.yml enabled: false.
   S8  recover FAIL-CLOSED (docs/RECOVERY.md): reports hỏng => DỪNG rc=1
       (S8), transaction CHƯA đóng; sửa reports => recover lại đóng đúng
       (S8a); validate --expect-txn-phase chặt active+phase (S8b); trạng
@@ -403,7 +406,7 @@ class RecoverHardening(unittest.TestCase):
 
 # ------------------------------------------------------------------ S6
 def read_workflow():
-    with open(os.path.join(ROOT, '.github/workflows/factory-operator.yml'),
+    with open(os.path.join(ROOT, '.github/workflows/factory-production.yml'),
               encoding='utf-8') as f:
         return f.read()
 
@@ -424,8 +427,9 @@ def extract_run_block(text, step_marker):
     return '\n'.join(body) + '\n'
 
 
-FAKE_GIT = r'''#!/usr/bin/env python3
-import json, os, sys
+FAKE_GIT = '#!%s\n' % PY + r'''import json, os, sys
+# (shebang trinh thuc that - tranh de quy qua PATH khi bin/ chua
+# stub python3)
 argv = sys.argv[1:]
 scen = json.load(open(os.environ['FAKE_GIT_SCENARIO']))
 log = os.environ.get('FAKE_GIT_LOG')
@@ -448,19 +452,26 @@ sys.stderr.write('FAKE GIT: KHÔNG KỊCH BẢN CHO: %s\n' % argv)
 sys.exit(128)
 '''
 
-STUB_VERIFY = r'''#!/usr/bin/env python3
-import os, subprocess, sys
-log = os.environ['VERIFY_LOG']
-head = subprocess.run(['git', 'rev-parse', 'HEAD'],
-                      capture_output=True, text=True).stdout.strip()
-with open(log, 'a') as f:
-    f.write('VERIFY_HEAD=' + head + '\n')
+# STUB_PY = python3 gia: ghi argv vao verify log VA git log (de chung minh
+# thu tu goi), exit theo VERIFY_EXIT. Shebang dung trinh thuc that
+# (sys.executable) de tranh de quy qua PATH.
+STUB_PY = '#!%s\n' % PY + r"""import os, sys
+argv = sys.argv[1:]
+log = os.environ.get('FAKE_GIT_LOG')
+if log:
+    with open(log, 'a') as f:
+        f.write('CALL python3 ' + ' '.join(argv) + '\n')
+vlog = os.environ.get('VERIFY_LOG')
+if vlog:
+    with open(vlog, 'a') as f:
+        f.write(' '.join(argv) + '\n')
 sys.exit(int(os.environ.get('VERIFY_EXIT', '0')))
-'''
+"""
 
 
 class PushBlockSim(unittest.TestCase):
-    """Mô phỏng run-block commit/push bằng fake git (script theo kịch bản)."""
+    """Mô phỏng run-block commit/push của factory-production.yml bằng fake
+    git + stub python3 (validate.py --scope chunk sau rebase)."""
 
     def setUp(self):
         self.work, self.tmp = fresh_copy()
@@ -469,22 +480,16 @@ class PushBlockSim(unittest.TestCase):
         self.scen_path = os.path.join(self.tmp, 'scenario.json')
         self.git_log = os.path.join(self.tmp, 'git.log')
         self.verify_log = os.path.join(self.tmp, 'verify.log')
-        # thay factory-operator.py bằng stub verify (chỉ block push dùng nó)
-        stub = os.path.join(self.work, 'scripts/factory/factory-operator.py')
-        with open(stub, 'w', encoding='utf-8') as f:
-            f.write(STUB_VERIFY)
         self.block = extract_run_block(read_workflow(),
                                        'Commit va push fast-forward')
-        # kịch bản chung: config ×2, add, write-tree, diff --cached,
-        # commit, rev-parse HEAD^{tree} == VERIFIED_TREE
+        # kịch bản chung: config ×2, add, diff --cached (có thay đổi),
+        # commit
         self.common = [
             {'args': ['config'], 'exit': 0},
             {'args': ['config'], 'exit': 0},
             {'args': ['add'], 'exit': 0},
-            {'args': ['write-tree'], 'out': 'TREETREE\n', 'exit': 0},
             {'args': ['diff', '--cached', '--quiet'], 'exit': 1},
             {'args': ['commit'], 'exit': 0},
-            {'args': ['rev-parse'], 'out': 'TREETREE\n', 'exit': 0},
         ]
 
     def tearDown(self):
@@ -494,6 +499,10 @@ class PushBlockSim(unittest.TestCase):
         p = os.path.join(self.bin, 'git')
         with open(p, 'w', encoding='utf-8') as f:
             f.write(FAKE_GIT)
+        os.chmod(p, os.stat(p).st_mode | stat.S_IEXEC)
+        p = os.path.join(self.bin, 'python3')
+        with open(p, 'w', encoding='utf-8') as f:
+            f.write(STUB_PY)
         os.chmod(p, os.stat(p).st_mode | stat.S_IEXEC)
 
     def _run_block(self, extra_steps, env_extra=None):
@@ -509,8 +518,7 @@ class PushBlockSim(unittest.TestCase):
             'VERIFY_LOG': self.verify_log,
             'VERIFY_EXIT': '0',
             'GITHUB_ENV': '/dev/null',
-            'OP': 'qa',
-            'OPERATOR_VERIFIED_TREE': 'TREETREE',
+            'ACTION': 'qa',
         })
         env.update(env_extra or {})
         script = os.path.join(self.tmp, 'push_block.sh')
@@ -528,24 +536,22 @@ class PushBlockSim(unittest.TestCase):
             {'args': ['push'], 'exit': 1,
              'err': 'non-fast-forward\n'},
             {'args': ['fetch'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 1,
+            {'args': ['rebase'], 'exit': 1,
              'err': 'rebase conflict trong tệp production\n'},
-            {'args': ['rebase', '--abort'], 'exit': 0},
+            {'args': ['rebase'], 'exit': 0},
         ])
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
         self.assertIn('rebase conflict', r.stdout)
         self.assertNotIn('FINAL_PUSHED_HEAD', r.stdout)
         self.assertNotIn('--force', '\n'.join(self._git_calls()))
 
-    def test_s6b_clean_rebase_verifies_before_push(self):
+    def test_s6b_clean_rebase_validates_before_push(self):
         r = self._run_block([
             {'args': ['push'], 'exit': 1, 'err': 'non-fast-forward\n'},
             {'args': ['fetch'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 0,
-             'out': 'Successfully rebased\n'},
-            {'args': ['rev-parse', 'HEAD'], 'out': 'REBASED1\n', 'exit': 0},
-            # git rev-parse HEAD do STUB VERIFY gọi:
-            {'args': ['rev-parse', 'HEAD'], 'out': 'REBASED2\n', 'exit': 0},
+            {'args': ['rebase'], 'exit': 0, 'out': 'Successfully rebased\n'},
+            {'args': ['rev-parse'], 'out': 'REBASED1\n', 'exit': 0},
+            # python3 validate.py --scope chunk (stub, exit 0)
             {'args': ['diff', '--quiet'], 'exit': 0},
             {'args': ['diff', '--cached', '--quiet'], 'exit': 0},
             {'args': ['push'], 'exit': 0},
@@ -557,41 +563,40 @@ class PushBlockSim(unittest.TestCase):
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         self.assertIn('FINAL_PUSHED_HEAD=REBASED1', r.stdout)
         self.assertIn('ORIGIN_HEAD_AFTER=ORIGINB', r.stdout)
-        # verify phải chạy SAU rebase, TRƯỚC push — chứng minh qua log
+        # validate.py --scope chunk chạy đúng 1 lần, SAU rebase, TRƯỚC push
         with open(self.verify_log) as f:
             heads = [l for l in f.read().splitlines() if l]
-        self.assertEqual(len(heads), 1, 'verify đúng 1 lần sau rebase')
-        self.assertEqual(heads[0], 'VERIFY_HEAD=REBASED2')
+        self.assertEqual(heads,
+                         ['scripts/factory/validate.py --scope chunk'],
+                         'verify log phai dung 1 lan validate chunk')
         calls = self._git_calls()
         i_rebase = next(i for i, c in enumerate(calls)
                         if 'rebase origin/main' in c)
+        i_validate = next(i for i, c in enumerate(calls)
+                          if 'validate.py --scope chunk' in c)
         i_push = next(i for i, c in enumerate(calls)
                       if c == 'CALL push' and i > i_rebase)
-        # giữa rebase và push phải có rev-parse HEAD do verify gọi
-        self.assertTrue(any('rev-parse HEAD' in c for c in
-                            calls[i_rebase + 1:i_push]))
+        self.assertLess(i_rebase, i_validate)
+        self.assertLess(i_validate, i_push)
 
-    def test_s6c_verify_fail_after_rebase_stops(self):
+    def test_s6c_validate_fail_after_rebase_stops(self):
         r = self._run_block([
             {'args': ['push'], 'exit': 1, 'err': 'non-fast-forward\n'},
             {'args': ['fetch'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 0},
-            {'args': ['rev-parse', 'HEAD'], 'out': 'REBASED1\n', 'exit': 0},
-            {'args': ['rev-parse', 'HEAD'], 'out': 'REBASED1\n', 'exit': 0},
+            {'args': ['rebase'], 'exit': 0, 'out': 'Successfully rebased\n'},
+            {'args': ['rev-parse'], 'out': 'REBASED1\n', 'exit': 0},
         ], env_extra={'VERIFY_EXIT': '1'})
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
         calls = self._git_calls()
-        # KHÔNG có push nào sau rebase
         i_rebase = next(i for i, c in enumerate(calls)
                         if 'rebase origin/main' in c)
         self.assertFalse(any(c == 'CALL push' for c in calls[i_rebase:]))
 
-    def test_s6d_tree_mismatch_stops_before_commit(self):
-        r = self._run_block([], env_extra={'OPERATOR_VERIFIED_TREE': 'WRONG'})
-        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
-        self.assertIn('cay index khac cay da verified', r.stdout)
-        calls = self._git_calls()
-        self.assertFalse(any(c == 'CALL commit' for c in calls))
+    def test_s6d_no_force_push_static(self):
+        y = read_workflow()
+        self.assertNotIn('push -f', y)
+        self.assertNotIn('git push --force', y)
+        self.assertNotIn('--force', y.replace('force push', ''))
 
     def test_s6e_first_push_success(self):
         r = self._run_block([
@@ -608,47 +613,91 @@ class PushBlockSim(unittest.TestCase):
 
 # ------------------------------------------------------------------ S7
 class StaticContract(unittest.TestCase):
-    def test_s7_workflow_invariants(self):
-        y = read_workflow()
-        # không force push
-        self.assertNotIn('--force', y.replace('force push', ''))
-        self.assertNotIn('push -f', y)
-        self.assertNotIn('git push --force', y)
-        # cây đã verify so khớp ở verify step VÀ commit step
-        self.assertGreaterEqual(y.count('$OPERATOR_VERIFIED_TREE'), 2)
-        self.assertIn('$OPERATOR_VERIFIED_TREE',
-                      y[y.index('Commit va push fast-forward'):])
-        self.assertIn('OPERATOR_VERIFIED_TREE=',
-                      y[y.index('Verify chuan'):y.index(
-                          'Commit va push fast-forward')])
-        # verify TRƯỚC commit
-        i_verify = y.index('Verify chuan tren dung trang thai se commit')
-        i_commit = y.index('Commit va push fast-forward')
-        self.assertLess(i_verify, i_commit)
-        # bước xóa command file TRƯỚC verify (cây verify == cây commit)
-        i_rm = y.index('Xoa lenh da xu ly')
-        self.assertLess(i_rm, i_verify)
-        # không cron / schedule (không bật sản xuất hàng giờ)
+    """Hợp đồng 3 workflow (docs/factory-workflow-contract.md):
+    quality-gate (FAST, read-only, mọi push/PR), factory-production
+    (dispatch-only, contents: write), weekly-maintenance (FULL audit,
+    read-only, cron tuần)."""
+
+    def test_s7_three_workflow_contract(self):
+        wf = sorted(f for f in os.listdir(os.path.join(ROOT,
+                                                       '.github/workflows'))
+                   if f.endswith('.yml'))
+        self.assertEqual(wf, ['factory-production.yml', 'quality-gate.yml',
+                              'weekly-maintenance.yml'])
+        # các workflow/test đã retire KHÔNG quay lại
+        retired = ['factory-operator.yml', 'factory-validate.yml',
+                   'factory-capacity-validate.yml', 'factory-watchdog.yml',
+                   'publish-queue.yml']
+        for name in retired:
+            self.assertFalse(
+                os.path.exists(os.path.join(ROOT, '.github/workflows', name)),
+                'workflow da retire khong duoc quay lai: %s' % name)
+        self.assertFalse(os.path.exists(os.path.join(
+            ROOT, 'scripts/factory/tests/test_push_rebase_overlap.py')),
+            'test da retire khong duoc quay lai')
+
+    def test_s7_quality_gate_fast_readonly(self):
+        with open(os.path.join(ROOT, '.github/workflows/quality-gate.yml'),
+                  encoding='utf-8') as f:
+            y = f.read()
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertNotIn('git push', y)
+        self.assertIn('validate.py --scope chunk', y)
+        self.assertIn('jekyll-build-pages', y)
+        self.assertIn('check-built-links.py', y)
+        self.assertIn('push:', y)          # trigger push main
+        self.assertIn('pull_request:', y)  # trigger PR
+        self.assertIn('workflow_dispatch:', y)
+
+    def test_s7_weekly_full_audit_readonly(self):
+        with open(os.path.join(ROOT,
+                               '.github/workflows/weekly-maintenance.yml'),
+                  encoding='utf-8') as f:
+            y = f.read()
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertNotIn('git push', y)
+        self.assertIn('cron: "30 2 * * 1"', y)
+        self.assertIn('workflow_dispatch:', y)
+        self.assertIn('factory-operator.py verify --scope full', y)
+        self.assertIn('scripts/factory/watchdog.py', y)
+        self.assertIn('refill-queue.py --verify', y)
+        self.assertIn('--selftest', y)
+        self.assertIn('sitemap-plan.py', y)
+        self.assertIn('jekyll-build-pages', y)
+        self.assertIn('check-built-links.py', y)
+
+    def test_s7_production_dispatch_only(self):
+        with open(os.path.join(ROOT,
+                               '.github/workflows/factory-production.yml'),
+                  encoding='utf-8') as f:
+            y = f.read()
+        # chỉ workflow_dispatch, không push/PR/cron trigger
+        self.assertIn('workflow_dispatch:', y)
+        self.assertNotIn('pull_request:', y)
         for line in y.splitlines():
             s = line.strip()
             if s.startswith('#') or not s:
                 continue
+            if s == 'branches: [main]':
+                self.fail('production workflow khong duoc trigger theo push')
             self.assertNotIn('cron', s.lower(),
-                             'cron trong phần chạy được: %s' % s)
-            self.assertNotIn('schedule', s.lower(),
-                             'schedule trong phần chạy được: %s' % s)
-        # concurrency + permissions
+                             'cron trong phan chay duoc: %s' % s)
         self.assertIn('group: blog-factory-production', y)
         self.assertIn('cancel-in-progress: false', y)
         self.assertIn('contents: write', y)
-        # trigger chỉ theo command file
-        self.assertIn("paths: ['data/factory/operator-command.json']", y)
+        # recover TRUOC moi op mutating
+        self.assertIn('factory-operator.py recover', y)
+        # ops san xuat chay --scope fast
+        self.assertIn('--scope fast', y)
+        # push block: rebase phai validate lai, khong force push
+        self.assertIn('validate.py --scope chunk', y)
         # tên step không chứa ": " (bug YAML startup)
         for line in y.splitlines():
             s = line.strip()
             if s.startswith('- name: ') and ': ' in s[len('- name: '):]:
                 self.fail('tên step chứa ": ": %s' % s)
-        # PYTHONDONTWRITEBYTECODE để cây verify ổn định
         self.assertIn("PYTHONDONTWRITEBYTECODE: '1'", y)
 
     def test_s7_qa_step_fatal_crash(self):
@@ -658,61 +707,29 @@ class StaticContract(unittest.TestCase):
         self.assertIn('set -eu', seg)
         self.assertNotIn('|| code=$?', seg)
 
-    def test_s7_publish_queue_disabled(self):
-        with open(os.path.join(ROOT, '.github/workflows/publish-queue.yml'),
-                  encoding='utf-8') as f:
-            pq = f.read()
-        self.assertIn("config.get(\"enabled\", False)", pq)
-        with open(os.path.join(ROOT, '_data/publishing.yml'),
-                  encoding='utf-8') as f:
-            pub = f.read()
-        self.assertRegex(pub, r'(?m)^enabled:\s*false\s*$')
+    def test_s7_no_ai_no_secrets(self):
+        for wf in ('quality-gate.yml', 'factory-production.yml',
+                   'weekly-maintenance.yml'):
+            with open(os.path.join(ROOT, '.github/workflows', wf),
+                      encoding='utf-8') as f:
+                y = f.read()
+            for bad in ('api_key', 'API_KEY', 'sk-', 'OPENAI', 'MISTRAL',
+                        'anthropic', 'secrets.'):
+                self.assertNotIn(bad, y, '%s chua %s' % (wf, bad))
 
-    def test_s7_no_ai_no_second_publisher(self):
-        y = read_workflow()
-        for bad in ('api_key', 'API_KEY', 'sk-', 'OPENAI', 'MISTRAL',
-                    'anthropic', 'secrets.'):
-            self.assertNotIn(bad, y)
-        # publish-gate.py vẫn là người xuất bản duy nhất (tham chiếu canonical)
+    def test_s7_publish_gate_canonical(self):
+        """publish-gate.py vẫn là người xuất bản duy nhất (tham chiếu
+        canonical từ factory-operator.py)."""
         with open(os.path.join(ROOT, 'scripts/factory/factory-operator.py'),
                   encoding='utf-8') as f:
             opsrc = f.read()
         self.assertIn("'scripts/factory/publish-gate.py'", opsrc)
 
-
-    def test_s7_publish_queue_legacy_no_cron(self):
-        """publish-queue.yml là legacy diagnostics-only: cron ĐÃ BỎ (hợp
-        đồng hardening), chỉ còn workflow_dispatch chạy tay."""
-        with open(os.path.join(ROOT, '.github/workflows/publish-queue.yml'),
+    def test_s7_publishing_config_disabled(self):
+        with open(os.path.join(ROOT, '_data/publishing.yml'),
                   encoding='utf-8') as f:
-            pq = f.read()
-        self.assertNotIn('cron', pq)
-        self.assertNotIn('schedule:', pq)
-        self.assertIn('workflow_dispatch:', pq)
-        self.assertIn('LEGACY', pq)
-
-    def test_s7_factory_validate_gates_hardening(self):
-        """Cổng CI Factory validate PHẢI chạy tầng 1/2: test_hardening.py
-        + test_watchdog.py — không được tự ý tháo khỏi gate."""
-        with open(os.path.join(ROOT, '.github/workflows/factory-validate.yml'),
-                  encoding='utf-8') as f:
-            y = f.read()
-        self.assertIn('tests/test_hardening.py', y)
-        self.assertIn('tests/test_watchdog.py', y)
-
-    def test_s7_watchdog_workflow_readonly_contract(self):
-        """factory-watchdog.yml: workflow định kỳ duy nhất của factory,
-        READ-ONLY: contents: read, không write/push, purity bắt buộc."""
-        with open(os.path.join(ROOT, '.github/workflows/factory-watchdog.yml'),
-                  encoding='utf-8') as f:
-            w = f.read()
-        self.assertIn('contents: read', w)
-        self.assertNotIn('contents: write', w)
-        self.assertIn('cron: "*/30 * * * *"', w)
-        self.assertIn('workflow_dispatch', w)
-        self.assertIn('scripts/factory/watchdog.py', w)
-        self.assertIn('git status --porcelain', w)
-        self.assertNotIn('git push', w)
+            pub = f.read()
+        self.assertRegex(pub, r'(?m)^enabled:\s*false\s*$')
 
 
 if __name__ == '__main__':

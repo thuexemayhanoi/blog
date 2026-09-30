@@ -8,7 +8,8 @@ Mã thoát: 0 = PASS, 1 = FAIL, 2 = BLOCKED (thiếu dữ liệu nền không th
 
 PHẠM VI (scope) — xem docs/PROC-PUBLISH.md "QA modes":
   full  (mặc định): toàn bộ repository — mọi kiểm tra bên dưới, kèm đối
-        chiếu sitemap công khai (mạng). Dùng cho CI (factory-validate.yml)
+        chiếu sitemap công khai (mạng). Dùng cho CI (quality-gate.yml —
+        scope chunk) và kiểm tra định kỳ/final verification.
         và kiểm tra định kỳ/final verification. KHÔNG dùng làm điều kiện
         chặn mỗi chunk 10 bài.
   batch (DEEP QA): nền tảng + toàn bộ inventory/matrix/hub/state, KHÔNG

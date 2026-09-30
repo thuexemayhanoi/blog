@@ -3,11 +3,11 @@
 """Kiểm tra cú pháp shell của MỌI khối run: trong .github/workflows/*.yml.
 
 Bài học bug đã sửa (2026-09-28, PR #1): bước "op publish" trong
-factory-operator.yml có dấu " thừa cuối dòng
+workflow operator cũ có dấu " thừa cuối dòng
 (`... ${SCOPE:+--scope $SCOPE}"`) — bash -n từ chối ngay từ đầu nhưng
 workflow chỉ phát hiện khi chạy TỚI bước đó trong sản xuất, làm mất
 nguyên run operator. Từ đây mọi khối run: phải được kiểm bash -n
-trong CI (Factory validate) và trong verify FAST của từng lệnh
+trong verify FAST của factory-production.yml và weekly-maintenance.yml
 sản xuất, KHÔNG đợi đến lúc bước đó thực sự chạy.
 
 Không cần pyyaml: trích khối run: theo indent (block scalar `|`/`>`
@@ -105,8 +105,14 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
 
     def test_all_workflows_exist(self):
         found = glob.glob(os.path.join(WORKFLOWS, '*.yml'))
-        self.assertGreaterEqual(len(found), 4,
+        self.assertGreaterEqual(len(found), 3,
                                 'thiếu workflow trong .github/workflows')
+        names = sorted(os.path.basename(f) for f in found)
+        self.assertEqual(
+            names, ['factory-production.yml', 'quality-gate.yml',
+                    'weekly-maintenance.yml'],
+            'hop dong 3 workflow (docs/factory-workflow-contract.md): '
+            'cac workflow cu phai duoc retire, khong them workflow moi')
 
     def test_every_run_block_passes_bash_n(self):
         paths = sorted(glob.glob(os.path.join(WORKFLOWS, '*.yml')))
@@ -121,7 +127,7 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
                     'CÚ PHÁP SHELL SAI: %s dòng %d (step %r)\n%s'
                     % (os.path.basename(path), lineno, name, script))
         # đầy đủ: phải có ít nhất khối run của operator workflow
-        self.assertGreaterEqual(checked, 30,
+        self.assertGreaterEqual(checked, 15,
                                 'số khối run phát hiện bất thường '
                                 '(%d) — extractor có thể hỏng' % checked)
 

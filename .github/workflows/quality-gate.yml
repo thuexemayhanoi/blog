@@ -1,0 +1,92 @@
+name: Quality gate
+
+# CONG FAST CUA /blog (hop dong 3 workflow — docs/factory-workflow-contract.md).
+# Chay tren MOI push main + PR + dispatch: nhanh, READ-ONLY (contents: read),
+# khong bao gio commit/push ve main. Bai moi phai qua cong nay + Pages deploy.
+#
+# Pham vi FAST (san xuat hang ngay):
+#   - validate.py --scope chunk (nen + chunk hien tai)
+#   - Jekyll build cung dong may Pages (actions/jekyll-build-pages@v1)
+#   - check-built-links.py: KHONG 404 noi bo trong cay da build
+#   - draft-leak: bai nhap khong duoc xuat ra site/sitemap
+#   - sanity sitemap/schema/hub render toi thieu
+# Audit nang (watchdog, verify full, refill, drift generators) thuoc
+# weekly-maintenance.yml (read-only, cron thu 2 hang tuan).
+# San xuat (status/resume/next/qa/publish) thuoc factory-production.yml
+# (workflow_dispatch, tuan theo nguong 75/75 — docs/PROC-PUBLISH.md).
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: quality-gate
+  cancel-in-progress: false
+
+jobs:
+  fast-gate:
+    name: FAST validate + build + links
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate (FAST - scope chunk)
+        run: |
+          set -eu
+          python3 scripts/factory/validate.py --scope chunk
+
+      - name: Build site (Jekyll, same engine family as Pages)
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: ./
+          destination: ./_site
+
+      - name: Built-site link integrity (internal 404 chan build)
+        run: |
+          set -eu
+          python3 scripts/factory/check-built-links.py --site ./_site
+
+      - name: Drafts must not be deployed (no draft in sitemap or output)
+        run: |
+          set -eu
+          if grep -rq "mau-nhap-bai-moi" _site/sitemap.xml _site 2>/dev/null; then
+            echo "FAIL: bai nhap trong _drafts bi xuat ra site cong khai."; exit 1
+          fi
+
+      - name: Sitemap + schema + hub sanity
+        run: |
+          set -eu
+          test -f _site/sitemap.xml || { echo "FAIL: thieu sitemap.xml"; exit 1; }
+          URLS=$(grep -c "<loc>" _site/sitemap.xml || true)
+          echo "sitemap URLs: $URLS"
+          if [ "$URLS" -lt 100 ]; then
+            echo "FAIL: sitemap bat thuong (nho hon 100 URLs) — kiem router/sitemap."; exit 1
+          fi
+          grep -rq -m1 "schema.org" _site \
+            || { echo "FAIL: thieu JSON-LD schema.org tren site."; exit 1; }
+          for u in chu-de thue-xe xe-may an-toan-phap-ly cung-duong ky-nang hoi-dap; do
+            test -f "_site/$u/index.html" || { echo "FAIL: thieu hub cong khai /$u/"; exit 1; }
+          done
+          echo "OK: sitemap + schema + hub render."
+
+      - name: Working tree must be clean (read-only gate)
+        run: |
+          set -eu
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "FAIL: quality-gate lam ban working tree — vi pham hop dong READ-ONLY."
+            git status --porcelain
+            exit 1
+          fi
+          echo "OK: quality-gate READ-ONLY, working tree sach."
