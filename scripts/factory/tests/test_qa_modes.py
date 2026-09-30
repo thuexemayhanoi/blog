@@ -91,7 +91,7 @@ def first_published_planned(fx):
                 if r['status'] == 'PUBLISHED' and r['source'].startswith('planned:'))
 
 
-def borrow_planned_row(fx, count=1):
+def borrow_planned_row(fx, count=1, skip_ids=None):
     """Hermetic khi queue cạn: repo thật có thể đã publish hết hàng planned
     (không còn PLANNED, không còn chunk đang làm). Mượn ĐỦ `count` hàng
     planned:PUBLISHED của BẢN SAO về đúng trạng thái TRƯỚC promote (top-up:
@@ -99,15 +99,19 @@ def borrow_planned_row(fx, count=1):
     evidence QA tương ứng trong bản sao, trả hàng về PLANNED, hạ
     in_progress_chunk, đồng bộ checkpoint và tái sinh outputs
     deterministic (như pause an toàn). No-op khi đã đủ hàng PLANNED thật.
+    skip_ids: KHÔNG mượn lại những ID này (soak test dài nhiều vòng: mượn
+    lại hàng đã mượn tạo duplicate PUBLISHED trong transaction history).
     Repo thật KHÔNG bị đụng."""
     rows = matrix_rows(fx)
     need = count - sum(1 for r in rows if r['status'] == 'PLANNED')
     if need <= 0:
         return
+    skip = set(skip_ids or ())
     cp = cp_json(fx, 'data/state/checkpoint.json')
     cands = [x for x in rows
              if x['status'] == 'PUBLISHED'
              and x['source'].startswith('planned:')
+             and x['id'] not in skip
              # Hermetic đúng trạng thái trước promote: chỉ mượn hàng ĐÃ
              # CÓ batch_id — hàng PLANNED thật luôn có batch_id (schema
              # v2, validate.py bắt buộc). Mượn hàng planned:PUBLISHED

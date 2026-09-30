@@ -1,8 +1,14 @@
 name: Publish queued article
 
+# LEGACY diagnostics-only (hợp đồng hardening 2026-09-30): campaign
+# publish-queue là legacy, _data/publishing.yml vẫn enabled: false.
+# Bộ kích định thời ĐÃ BỎ — không còn poll 5 phút; chỉ giữ
+# workflow_dispatch để chạy chẩn đoán tay (dry_run). KHÔNG bao giờ bật
+# song song với factory-operator (publisher duy nhất:
+# scripts/factory/publish-gate.py; scheduler vận hành KHÔNG có —
+# watchdog là workflow định kỳ duy nhất và READ-ONLY).
+
 on:
-  schedule:
-    - cron: "*/5 * * * *"
   workflow_dispatch:
     inputs:
       dry_run:
@@ -141,11 +147,11 @@ jobs:
           end_at = str(config.get("end_at") or "").strip()
           dry_run = os.environ.get("DRY_RUN", "false") == "true"
 
-          # Schedule architecture: the cron trigger polls every 5 minutes and
-          # is only a resilience mechanism. The authoritative publication
-          # spacing is interval_minutes below (minimum minutes between two
-          # campaign posts, Asia/Ho_Chi_Minh). interval_minutes is enforced
-          # by the due gate in this publisher, not by the cron schedule.
+          # Dispatch architecture: this legacy publisher is dispatched
+          # manually via workflow_dispatch only (diagnostics, dry_run).
+          # The publication spacing reference is interval_minutes below
+          # (minimum minutes between two campaign posts,
+          # Asia/Ho_Chi_Minh), enforced by the due gate in this publisher.
           expected_interval_minutes = 30
           expected_timezone = "Asia/Ho_Chi_Minh"
           expected_posts_per_day = 48
@@ -207,11 +213,11 @@ jobs:
               log("campaign maximum reached (%d/%d)" % (len(published), max_posts))
               sys.exit(0)
 
-          # Due gate: enforce the real publication spacing (interval_minutes)
+          # Due gate: enforce the publication spacing (interval_minutes)
           # based on the actual publication time of the most recent campaign
-          # article. The cron only polls frequently; it never controls the
-          # publication interval. At most one article is ever published per
-          # run, so missed polls never cause catch-up publishing.
+          # article. At most one article is ever published per
+          # run, so repeated manual dispatches never cause catch-up
+          # publishing.
           if latest_publish_time is not None:
               next_due = latest_publish_time + datetime.timedelta(minutes=interval_minutes)
               if now < next_due:

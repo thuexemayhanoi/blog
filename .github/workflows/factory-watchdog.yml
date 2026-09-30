@@ -1,0 +1,61 @@
+name: Factory watchdog
+
+# LIVENESS WATCHDOG — workflow định kỳ DUY NHẤT của factory (read-only):
+# báo cáo transaction/writer-lock/checkpoint treo theo ngưỡng
+# (docs/ENGINE-RUNBOOK.md muc 10). KHÔNG mutate state, KHÔNG commit/push,
+# KHÔNG nhận việc, KHÔNG thay scheduler vận hành (docs/PROC-PUBLISH.md).
+# publish-queue.yml là legacy diagnostics-only (không cron).
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: factory-watchdog
+  cancel-in-progress: false
+
+jobs:
+  watchdog:
+    if: github.repository == 'thuexemayhanoi/blog'
+    name: Liveness check (read-only)
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run watchdog (READ-ONLY, exit 0=HEALTHY)
+        run: |
+          set -eu
+          set +e
+          python3 scripts/factory/watchdog.py
+          code=$?
+          set -e
+          if [ "$code" -eq 1 ]; then
+            echo "FAIL: watchdog không HEALTHY (mã 1 — txn/lock/checkpoint treo). Xem WATCHDOG_JSON ở trên và docs/RECOVERY.md."
+            exit 1
+          fi
+          if [ "$code" -ne 0 ]; then
+            echo "FAIL: watchdog lỗi dữ liệu (mã $code). Kiểm tra data/state/*."
+            exit 1
+          fi
+          echo "OK: watchdog HEALTHY."
+
+      - name: Watchdog purity (working tree phải sạch)
+        run: |
+          set -e
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "FAIL: watchdog làm bẩn working tree — vi phạm hợp đồng READ-ONLY."
+            git status --porcelain
+            exit 1
+          fi
+          echo "OK: watchdog READ-ONLY, working tree sạch."

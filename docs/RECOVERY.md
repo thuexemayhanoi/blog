@@ -32,6 +32,30 @@ Lock dùng sentinel `data/state/writer-lock.active` (O_CREAT|O_EXCL) + ownership
 
 Chạy `python3 scripts/factory/validate.py` (từ gốc repository). Nếu ma trận thiếu/hỏng: KHÔNG tự sinh lại toàn bộ; khôi phục từ lịch sử git commit gần nhất còn hợp lệ. Ma trận đã được commit và có chủ sở hữu: mọi chỉnh sửa theo hợp đồng trong docs/factory-workflow-contract.md; nếu ma trận từng được đánh dấu BLOCKED, xem `reports/factory/matrix-recovery-blocked.md` và không tự tạo matrix mới rồi gọi là khôi phục.
 
+## Hợp đồng fail-closed của recover (phase RECOVERY_VERIFYING)
+
+`factory-operator.py recover` là op FAIL-CLOSED — không bao giờ đóng
+transaction trước khi hậu kiểm PASS:
+
+1. Đọc transaction; lock đang giữ (ownership không rõ) → STOP rc=1.
+2. Suy luận trạng thái vật lý: đích tồn tại → hoàn tất (hàng → PUBLISHED);
+   draft còn → rollback (hàng PASS/QA/PUBLISHED → QA). Không suy luận được
+   → STOP rc=1, KHÔNG mutate gì.
+3. Hòa giải idempotent: chạy lại không mutate thêm (note guard `recover `,
+   trạng thái đã đúng thì giữ nguyên).
+4. MỞ phase `RECOVERY_VERIFYING` — transaction VẪN active (chưa đóng).
+5. Hậu kiểm: `run_reports_checked` (reports bắt buộc) + `validate.py
+   --scope chunk --expect-txn-phase RECOVERY_VERIFYING` (hợp đồng chặt:
+   active=true VÀ phase khớp; inactive/mismatch đều FAIL).
+6. CHỈ khi hậu kiểm PASS mới đóng transaction (history ghi
+   `RECOVERED_COMPLETED`/`RECOVERED_ROLLED_BACK`).
+
+Hậu kiểm FAIL → rc=1, transaction GIỮ NGUYÊN active + phase
+`RECOVERY_VERIFYING`; lần chạy sau chạy `recover` lại (idempotent), KHÔNG
+nhận việc mới khi còn transaction treo. Mọi op mutating khác chạy
+preflight validate không có `--expect-txn-phase` nên tự động bị chặn khi
+transaction còn treo — deadlock là chủ đích cho tới khi recover xanh.
+
 ## Hợp đồng resume (tiếp tục một factory duy nhất)
 
 Mọi lần chạy — dù bởi agent hay scheduler trong tương lai — đều chỉ là một lần tiếp tục của MỘT factory tồn tại dai dẳng. Không khởi động lại từ đầu.

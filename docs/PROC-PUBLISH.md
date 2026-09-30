@@ -42,7 +42,7 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 | `publish` | promote HÀNG PASS qua publish-gate.py | KHÔNG cơ chế promote thứ hai |
 | `recover` | phục hồi transaction treo | ownership không rõ → STOP |
 | `requeue` | REPAIR/FAIL → WRITING | tôn trọng budget repair (3) |
-| `verify` | validate + capacity-audit + queue + tests theo mức | `--scope fast\|deep\|full` (mặc định full); fast = validate chunk + test gate/operator/refill-safety; deep thêm test link integrity + qa modes |
+| `verify` | validate + capacity-audit + queue + tests theo mức | `--scope fast\|deep\|full` (mặc định full); fast = validate chunk + test gate/operator/refill-safety/workflow-syntax; deep thêm test link integrity + qa modes + publish flow + refill semantics; full = deep + test_hardening + test_watchdog + test_soak_recovery (12 suite — hợp đồng 4 tầng) |
 | `refill` | chỉ khi dưới ngưỡng, chạy refill-queue.py | lazy capacity 10K |
 | `reports` | sinh reports/factory chuẩn | generate-reports.py |
 | `release-chunk` | trả chunk WRITING chưa có draft về PLANNED | pause an toàn; hàng có draft/QA evidence được giữ nguyên |
@@ -187,7 +187,26 @@ integrity. Không sitemap live.
 
 validate.py `--scope full`: toàn repository kèm đối chiếu sitemap
 live + capacity-audit + toàn bộ test. KHÔNG phải điều kiện xuất bản
-mỗi chunk.
+mỗi chunk. FULL mạnh hơn DEEP: thêm tầng 1/2 (test_hardening, test
+watchdog) và tầng 4 (test_soak_recovery — 20 vòng hermetic + failure
+injection). CI Factory validate chạy test_hardening + test_watchdog
+trên mọi push/PR.
+
+## Hợp đồng 4 tầng + HEALTHY
+
+Sau mỗi run sản xuất, engine phải ở trạng thái HEALTHY của liveness
+watchdog (scripts/factory/watchdog.py — READ-ONLY):
+
+    python3 scripts/factory/watchdog.py    # HEALTHY_ACTIVE/HEALTHY_IDLE, exit 0
+
+- HEALTHY_IDLE: không transaction treo, không lock, không việc dở.
+- HEALTHY_ACTIVE: transaction/lock còn tươi (đang làm việc).
+- STALE_TXN/STALE_LOCK/STALE_CHECKPOINT/STALLED_ACTIVE (exit 1): xử lý
+  theo docs/RECOVERY.md rồi mới nhận việc mới.
+- Hợp đồng kiểm tra 4 tầng: (1) unit theo module; (2) integration trên
+  fixture hermetic; (3) production invariant (validate/CI/Pages);
+  (4) long-run/failure recovery (soak 20 vòng). Chi tiết:
+  docs/ENGINE-RUNBOOK.md mục 11. FAST < DEEP < FULL; KHÔNG hạ ngưỡng.
 
 ### Pause an toàn (release-chunk)
 

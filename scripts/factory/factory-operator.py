@@ -780,12 +780,14 @@ def run_reports_checked(ctx):
     return 0
 
 
-def validate_or_stop(ctx, scope='chunk'):
+def validate_or_stop(ctx, scope='chunk', extra_args=None):
     """validate.py chuan sau khi op doi state — FAIL thi DUNG, KHÔNG
     rollback tay (docs/RECOVERY.md). scope mặc định 'chunk' (FAST QA):
-    chunk 10 bài không bị chặn bởi audit toàn site."""
-    v = subprocess.run([sys.executable, 'scripts/factory/validate.py',
-                        '--scope', scope],
+    chunk 10 bài không bị chặn bởi audit toàn site. extra_args: đối số
+    bổ sung (ví dụ --expect-txn-phase cho hậu kiểm recover fail-closed)."""
+    cmd = [sys.executable, 'scripts/factory/validate.py',
+           '--scope', scope] + list(extra_args or [])
+    v = subprocess.run(cmd,
                        capture_output=True, text=True)
     print(v.stdout[-1500:])
     if v.returncode != 0:
@@ -1038,19 +1040,77 @@ def op_requeue(args):
         release()
 
 
+RECOVERY_VERIFYING = 'RECOVERY_VERIFYING'
+
+
+def _reconcile_recovered_row(aid, target, note):
+    """Hòa giải hàng matrix theo trạng thái vật lý — IDEMPOTENT: chạy lại
+    (resume giữa chừng) KHÔNG mutate thêm khi đã đúng (guard note
+    'recover ' tránh ghi đè note hai lần). Đồng bộ checkpoint counts."""
+    rows = load_matrix()
+    for r in rows:
+        if r['id'] != aid:
+            continue
+        if target == 'PUBLISHED':
+            if r['status'] != 'PUBLISHED':
+                r['status'] = 'PUBLISHED'
+        elif r['status'] in ('PASS', 'QA', 'PUBLISHED'):
+            r['status'] = 'QA'
+        if note and 'recover ' not in (r['notes'] or ''):
+            r['notes'] = (r['notes'] + ' | ' if r['notes'] else '') + note
+    save_matrix(rows)
+    cp = read_json(CP)
+    update_checkpoint(cp, rows)
+    return rows
+
+
+def _close_recovered_txn(txn, entry, result):
+    """Đóng transaction SAU HẬU KIỂM PASS — điểm fail-closed duy nhất.
+    KHÔNG bao giờ gọi trước khi run_reports + validate --expect-txn-phase
+    đều PASS (docs/RECOVERY.md "Hợp đồng fail-closed")."""
+    closed = dict(entry, result=result, finished_at=now_iso())
+    if txn.get('history'):
+        txn['history'][-1] = closed
+    else:
+        txn['history'] = [closed]
+    txn['active'] = False
+    txn['pending'] = None
+    txn.pop('phase', None)
+    txn['updated_at'] = now_iso()
+    write_json_atomic(TXN, txn)
+
+
 def op_recover(args):
+    """Recover FAIL-CLOSED (docs/RECOVERY.md): hòa giải vật lý theo sự
+    thật (đích tồn tại -> hoàn tất; draft còn -> rollback về QA), MỞ phase
+    RECOVERY_VERIFYING (transaction CHƯA đóng), hậu kiểm reports +
+    validate --expect-txn-phase; CHỈ khi hậu kiểm PASS mới đóng
+    transaction. Hậu kiểm FAIL -> return 1, transaction GIỮ NGUYÊN
+    active + phase RECOVERY_VERIFYING -> chạy recover lại (idempotent:
+    reconcile không mutate thêm). Ownership lock không rõ -> STOP."""
     txn = read_json(TXN, {'active': False, 'history': []})
     held, meta = lock_held_by_other()
     if held:
         print('recover: writer-lock đang giữ (holder=%s, expires=%s). '
               'Ownership không rõ -> STOP theo docs/RECOVERY.md; '
-              'KHÔNG force-unlock.' % (meta.get('holder'), meta.get('expires_at')))
+              'KHÔNG force-unlock.' % (meta.get('holder'),
+                                       meta.get('expires_at')))
         return 1
     if not txn.get('active'):
-        print('recover: transaction sạch (active=false) — không có gì phục hồi.')
+        if txn.get('phase') == RECOVERY_VERIFYING:
+            print('recover: phase %s nhưng active=false — dọn phase mồ côi.'
+                  % RECOVERY_VERIFYING)
+            txn.pop('phase', None)
+            txn.pop('recover_result', None)
+            txn['updated_at'] = now_iso()
+            write_json_atomic(TXN, txn)
+            return 0
+        print('recover: transaction sạch (active=false) — không có gì '
+              'phục hồi.')
         return 0
     pend = txn.get('pending') or {}
-    aid = pend.get('article_id') or (pend.get('step') or '').replace('promote ', '')
+    aid = pend.get('article_id') or (pend.get('step') or '').replace(
+        'promote ', '')
     dest = pend.get('destination')
     draft = pend.get('draft')
     # history có thể chứa mục null (bản ghi cũ) — lấy mục thật cuối cùng
@@ -1058,64 +1118,48 @@ def op_recover(args):
     dest = dest or entry.get('destination')
     draft = draft or entry.get('source')
     if dest and os.path.exists(dest):
-        # promote đã xảy ra vật lý -> hoàn tất đóng transaction
-        rows = load_matrix()
-        for r in rows:
-            if r['id'] == aid and r['status'] != 'PUBLISHED':
-                r['status'] = 'PUBLISHED'
-        save_matrix(rows)
-        cp = read_json(CP)
-        update_checkpoint(cp, rows)
-        if not txn.get('history'):
-            txn['history'] = []
-        txn['history'][-1 if txn['history'] else 0] = dict(
-            entry, result='RECOVERED_COMPLETED', finished_at=now_iso())
-        if not txn['history']:
-            txn['history'].append(entry)
-        txn['active'] = False
-        txn['pending'] = None
-        txn['updated_at'] = now_iso()
-        write_json_atomic(TXN, txn)
-        # state mutation (PUBLISHED + checkpoint) -> resync + validate
-        if run_reports_checked('recover') != 0:
-            return 1
-        if validate_or_stop('recover') != 0:
-            return 1
-        print('recover: transaction hoàn tất (đích đã tồn tại): %s' % dest)
-        return 0
-    if draft and os.path.exists(draft):
-        # chưa promote -> trả draft về _drafts/, đóng transaction
+        recover_result = 'RECOVERED_COMPLETED'
+    elif draft and os.path.exists(draft):
+        recover_result = 'RECOVERED_ROLLED_BACK'
         if dest and os.path.exists(dest):
             shutil.move(dest, draft)
-        rows = load_matrix()
-        for r in rows:
-            if r['id'] == aid and r['status'] in ('PASS', 'QA', 'PUBLISHED'):
-                r['status'] = 'QA'
-                r['notes'] = (r['notes'] + ' | ' if r['notes'] else '') + \
-                    'recover %s: promote dở, trả về QA' % now_iso()
-        save_matrix(rows)
-        cp = read_json(CP)
-        update_checkpoint(cp, rows)
-        if not txn.get('history'):
-            txn['history'] = []
-        txn['history'][-1 if txn['history'] else 0] = dict(
-            entry, result='RECOVERED_ROLLED_BACK', finished_at=now_iso())
-        if not txn['history']:
-            txn['history'].append(entry)
-        txn['active'] = False
-        txn['pending'] = None
-        txn['updated_at'] = now_iso()
-        write_json_atomic(TXN, txn)
-        # state mutation (row ve QA + checkpoint) -> resync + validate
-        if run_reports_checked('recover') != 0:
-            return 1
-        if validate_or_stop('recover') != 0:
-            return 1
-        print('recover: transaction rollback (chưa promote): %s' % draft)
-        return 0
-    print('recover: transaction active nhưng không suy luận được trạng thái '
-          'vật lý — STOP, không mutate thêm. Kiểm tra tay theo docs/RECOVERY.md.')
-    return 1
+    else:
+        print('recover: transaction active nhưng không suy luận được trạng '
+              'thái vật lý — STOP, không mutate thêm. Kiểm tra tay theo '
+              'docs/RECOVERY.md.')
+        return 1
+    # hòa giải idempotent; resume giữa chừng KHÔNG mutate thêm
+    note = 'recover %s: %s' % (
+        now_iso(), 'hoàn tất promote' if recover_result == 'RECOVERED_COMPLETED'
+        else 'promote dở, trả về QA')
+    _reconcile_recovered_row(aid, 'PUBLISHED'
+                             if recover_result == 'RECOVERED_COMPLETED'
+                             else 'QA', note)
+    # MỞ PHASE RECOVERY_VERIFYING — transaction CHƯA đóng (fail-closed)
+    txn['phase'] = RECOVERY_VERIFYING
+    txn['recover_result'] = recover_result
+    txn['updated_at'] = now_iso()
+    write_json_atomic(TXN, txn)
+    # hậu kiểm: reports bắt buộc + validate với hợp đồng phase chặt
+    if run_reports_checked('recover') != 0:
+        print('recover: HẬU KIỂM FAIL — transaction GIỮ NGUYÊN active, '
+              'phase=%s. Chạy recover lại sau khi sửa reports (idempotent).'
+              % RECOVERY_VERIFYING)
+        return 1
+    if validate_or_stop('recover', 'chunk',
+                        extra_args=['--expect-txn-phase',
+                                    RECOVERY_VERIFYING]) != 0:
+        print('recover: HẬU KIỂM FAIL — transaction GIỮ NGUYÊN active, '
+              'phase=%s. Chạy recover lại (idempotent).' % RECOVERY_VERIFYING)
+        return 1
+    # điểm DUY NHẤT được đóng transaction: sau hậu kiểm PASS
+    _close_recovered_txn(txn, entry, recover_result)
+    print('recover: %s — %s (hậu kiểm PASS — transaction đã đóng)'
+          % (recover_result,
+             'transaction hoàn tất (đích đã tồn tại): %s' % dest
+             if recover_result == 'RECOVERED_COMPLETED'
+             else 'transaction rollback (chưa promote): %s' % draft))
+    return 0
 
 
 # Kiểm tra engine theo mức (docs/PROC-PUBLISH.md "QA modes").
@@ -1137,6 +1181,14 @@ VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
     'scripts/factory/tests/test_push_rebase_overlap.py',
     'scripts/factory/tests/test_refill_semantics.py',
 ]
+# FULL mạnh hơn DEEP (hợp đồng 4 tầng — docs/ENGINE-RUNBOOK.md mục 11):
+# FULL = DEEP + hardening (unit/integration) + watchdog (unit) + soak
+# (tầng 4: long-run/failure recovery 20 vòng hermetic).
+VERIFY_TESTS_FULL = VERIFY_TESTS_DEEP + [
+    'scripts/factory/tests/test_hardening.py',
+    'scripts/factory/tests/test_watchdog.py',
+    'scripts/factory/tests/test_soak_recovery.py',
+]
 
 
 def verify_steps(mode):
@@ -1147,8 +1199,10 @@ def verify_steps(mode):
              ['scripts/factory/capacity-audit.py']]
     if mode == 'fast':
         tests = VERIFY_TESTS_FAST
-    else:
+    elif mode == 'deep':
         tests = VERIFY_TESTS_DEEP
+    else:
+        tests = VERIFY_TESTS_FULL
     steps += [[t] for t in tests]
     steps.append(['scripts/factory/queue.py', '--stats'])
     return steps

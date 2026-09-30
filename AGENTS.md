@@ -76,6 +76,9 @@ Mỗi lần scheduler tương lai được gọi chỉ là MỘT sự tiếp di�
 - `python3 scripts/factory/generate-matrix.py` — tái sinh matrix idempotent, bảo toàn trạng thái runtime.
 - `python3 scripts/factory/publish-gate.py --draft _drafts/<file>.md --id BLG-XXXXX` — cổng promote v3: hàng PASS + bằng chứng `data/qa/<id>.json` (quality ≥ 90, seo ≥ 90, business_fact PASS, legal PASS|NOT_REQUIRED, không critical failure, `content_sha256` khớp draft, `matrix_row_sha256` khớp vân tay hàng). Gate tự giữ ownership-safe writer lock, mở transaction, promote, APPEND history, nhả lock.
 - CI: `factory-validate.yml` + `factory-capacity-validate.yml` (read-only, không bao giờ commit về main) + Pages. CI XANH + Pages deploy là điều kiện cần; kiểm tra runtime live là điều kiện đủ trước khi tuyên bố hoàn thành.
+- Hợp đồng kiểm tra 4 tầng (docs/ENGINE-RUNBOOK.md mục 11): (1) Unit — suite theo module (watchdog, operator, publish gate); (2) Integration — hardening/qa-modes/publish-flow trên fixture hermetic; (3) Production invariant — validate.py (chunk/batch/full) + CI + Pages; (4) Long-run/failure recovery — `test_soak_recovery.py` (20 vòng hermetic + failure injection, chạy trong verify --scope full). FULL mạnh hơn DEEP (FULL = DEEP + hardening + watchdog + soak); FAST nhẹ (chunk + suite cục bộ). KHÔNG hạ ngưỡng khi đổi mức.
+- Liveness watchdog (`scripts/factory/watchdog.py`): READ-ONLY, báo cáo txn/lock/checkpoint treo theo ngưỡng; `.github/workflows/factory-watchdog.yml` là workflow định kỳ duy nhất của factory (cron 30 phút, contents: read, purity bắt buộc). Watchdog KHÔNG mutate state, KHÔNG nhận việc, KHÔNG thay scheduler vận hành. `publish-queue.yml` là legacy diagnostics-only (không cron, chỉ workflow_dispatch).
+- Factory-operator là đường sản xuất duy nhất; recover là op FAIL-CLOSED: phase `RECOVERY_VERIFYING`, transaction CHỈ đóng sau hậu kiểm reports + validate `--expect-txn-phase` PASS (docs/RECOVERY.md).
 
 ## 7. Điều kiện xuất bản (gate)
 
