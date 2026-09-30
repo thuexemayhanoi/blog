@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T19:31:27+00:00",
+  "updated_at": "2026-09-30T19:39:54+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00957",
-      "started_at": "2026-09-30T02:36:10+00:00",
-      "source": "_drafts/2026-09-30-chay-xe-may-i-chua-huong-cuoi-tuan.md",
-      "destination": "_posts/2026-09-30-chay-xe-may-i-chua-huong-cuoi-tuan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f2690ae701068764be62c005f09657d3509c0f4d",
-      "finished_at": "2026-09-30T02:36:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00958",
-      "started_at": "2026-09-30T02:58:37+00:00",
-      "source": "_drafts/2026-09-30-ha-noi-i-mai-chau-mua-lua-chin-bang-xe-may.md",
-      "destination": "_posts/2026-09-30-ha-noi-i-mai-chau-mua-lua-chin-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d452ca0c0a1aa70daa3cfcb68c175cd3ef24a0c3",
-      "finished_at": "2026-09-30T02:58:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00959",
       "started_at": "2026-09-30T02:58:37+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "a3a8cddc51c81524ca10160ae777e2b36ec0a2b2",
       "finished_at": "2026-09-30T19:31:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00982",
+      "started_at": "2026-09-30T19:39:54+00:00",
+      "source": "_drafts/2026-09-30-thue-xe-may-mot-ngay-i-chua-tay-phuong.md",
+      "destination": "_posts/2026-09-30-thue-xe-may-mot-ngay-i-chua-tay-phuong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e6d71708f393c38c0a2a778de48a6bbce48c8d3f",
+      "finished_at": "2026-09-30T19:39:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00983",
+      "started_at": "2026-09-30T19:39:54+00:00",
+      "source": "_drafts/2026-09-30-thue-xe-may-theo-tuan-cho-du-khach-o-lai-ha-noi.md",
+      "destination": "_posts/2026-09-30-thue-xe-may-theo-tuan-cho-du-khach-o-lai-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e6d71708f393c38c0a2a778de48a6bbce48c8d3f",
+      "finished_at": "2026-09-30T19:39:54+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
