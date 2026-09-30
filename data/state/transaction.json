@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T19:18:27+00:00",
+  "updated_at": "2026-09-30T19:25:15+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00953",
-      "started_at": "2026-09-30T02:36:10+00:00",
-      "source": "_drafts/2026-09-30-i-xe-may-tham-bao-tang-dan-toc-hoc-viet-nam.md",
-      "destination": "_posts/2026-09-30-i-xe-may-tham-bao-tang-dan-toc-hoc-viet-nam.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f2690ae701068764be62c005f09657d3509c0f4d",
-      "finished_at": "2026-09-30T02:36:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00954",
-      "started_at": "2026-09-30T02:36:10+00:00",
-      "source": "_drafts/2026-09-30-chay-xe-quanh-ho-tay-luc-hoang-hon-cung-uong-va-an-toan.md",
-      "destination": "_posts/2026-09-30-chay-xe-quanh-ho-tay-luc-hoang-hon-cung-uong-va-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f2690ae701068764be62c005f09657d3509c0f4d",
-      "finished_at": "2026-09-30T02:36:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00955",
       "started_at": "2026-09-30T02:36:10+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "97ee47d178b14a78fed0b2d487e7789388f606c1",
       "finished_at": "2026-09-30T19:18:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00978",
+      "started_at": "2026-09-30T19:25:15+00:00",
+      "source": "_drafts/2026-09-30-thanh-toan-khong-tien-mat-khi-thue-xe-may.md",
+      "destination": "_posts/2026-09-30-thanh-toan-khong-tien-mat-khi-thue-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ba166110da8c666cd629048ca37f8b60431f1771",
+      "finished_at": "2026-09-30T19:25:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00979",
+      "started_at": "2026-09-30T19:25:15+00:00",
+      "source": "_drafts/2026-09-30-thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi.md",
+      "destination": "_posts/2026-09-30-thue-xe-may-cho-oan-nhom-o-ha-noi-can-chuan-bi-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ba166110da8c666cd629048ca37f8b60431f1771",
+      "finished_at": "2026-09-30T19:25:15+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
