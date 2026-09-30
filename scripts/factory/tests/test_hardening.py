@@ -14,8 +14,13 @@ Phủ các kịch bản yêu cầu:
       verify FAIL sau rebase => STOP; tree khác tree đã verify => STOP.
   S7  Static: workflow không force push, verify trước commit, không cron,
       concurrency/permissions giữ nguyên, publish-queue.yml vẫn gated
-      enabled=false, _data/publishing.yml enabled: false.
-  S8  recover (đóng transaction dở) với reports hỏng => DỪNG rc=1.
+      enabled=false, _data/publishing.yml enabled: false. Thêm: publish-queue
+      legacy không cron, cổng factory-validate chạy hardening/watchdog,
+      watchdog workflow READ-ONLY.
+  S8  recover FAIL-CLOSED (docs/RECOVERY.md): reports hỏng => DỪNG rc=1
+      (S8), transaction CHƯA đóng; sửa reports => recover lại đóng đúng
+      (S8a); validate --expect-txn-phase chặt active+phase (S8b); trạng
+      thái vật lý không suy luận được => STOP không mutate (S8c).
 
 Chạy: python3 scripts/factory/tests/test_hardening.py (không đổi ROOT).
 """
@@ -263,6 +268,138 @@ class RecoverHardening(unittest.TestCase):
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
+
+    def test_s8a_recover_resume_closes_txn_only_after_postcheck(self):
+        """FAIL-CLOSED: hậu kiểm FAIL -> transaction GIỮ NGUYÊN active +
+        phase RECOVERY_VERIFYING; chạy recover lại sau khi sửa reports
+        (idempotent) -> CHỈ KHI ĐÓ transaction mới được đóng."""
+        work, tmp = fresh_copy()
+        try:
+            row = first_planned(work)
+            set_status(work, row['id'], 'QA')
+            draft = '_drafts/2026-09-27-recover-s8a.md'
+            with open(os.path.join(work, draft), 'w',
+                      encoding='utf-8') as f:
+                f.write('---\narticle_id: %s\ntitle: x\n---\nnội dung\n'
+                        % row['id'])
+            txn = {
+                'active': True,
+                'pending': {'article_id': row['id'],
+                            'step': 'promote %s' % row['id'],
+                            'destination': '_posts/2026-09-27-recover-s8a.md',
+                            'draft': draft},
+                'history': [{'destination':
+                             '_posts/2026-09-27-recover-s8a.md',
+                             'source': draft}],
+                'updated_at': '2026-09-30T00:00:00+00:00',
+            }
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      'w', encoding='utf-8') as f:
+                json.dump(txn, f, ensure_ascii=False, indent=2)
+            break_script(work, 'generate-reports.py')
+            r = run(work, 'scripts/factory/factory-operator.py', 'recover')
+            self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+            self.assertIn('run_reports FAIL', r.stdout)
+            self.assertNotIn('transaction đã đóng', r.stdout)
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      encoding='utf-8') as f:
+                txn1 = json.load(f)
+            self.assertTrue(txn1.get('active'),
+                            'FAIL-CLOSED bị phá: txn đóng trước hậu kiểm')
+            self.assertEqual(txn1.get('phase'), 'RECOVERY_VERIFYING')
+            self.assertEqual(txn1.get('recover_result'),
+                             'RECOVERED_ROLLED_BACK')
+            # sửa reports -> recover lại (resume idempotent) -> đóng txn
+            shutil.copy(os.path.join(ROOT, 'scripts/factory/',
+                                     'generate-reports.py'),
+                        os.path.join(work, 'scripts/factory/',
+                                     'generate-reports.py'))
+            r = run(work, 'scripts/factory/factory-operator.py', 'recover')
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+            self.assertIn('RECOVERED_ROLLED_BACK', r.stdout)
+            self.assertIn('transaction đã đóng', r.stdout)
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      encoding='utf-8') as f:
+                txn2 = json.load(f)
+            self.assertFalse(txn2.get('active'))
+            self.assertNotIn('phase', txn2)
+            self.assertEqual(txn2['history'][-1]['result'],
+                             'RECOVERED_ROLLED_BACK')
+            # idempotent: note recover không bị ghi hai lần
+            self.assertEqual(get_row(work, row['id'])['notes'].count('recover '), 1)
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    def test_s8b_expect_txn_phase_strict_contract(self):
+        """validate.py --expect-txn-phase: CHẶT — active=true VÀ phase khớp;
+        inactive/mismatch đều FAIL; không có flag thì active vẫn FAIL."""
+        work, tmp = fresh_copy()
+        try:
+            v = 'scripts/factory/validate.py'
+            # txn sạch + expect -> FAIL (không lỏng cho inactive)
+            r = run(work, v, '--scope', 'chunk',
+                    '--expect-txn-phase', 'RECOVERY_VERIFYING')
+            self.assertEqual(r.returncode, 1, r.stdout)
+            self.assertIn('transaction inactive', r.stdout)
+            # active + phase khớp -> PASS, SUMMARY_JSON mang expect_txn_phase
+            txn = {'active': True, 'pending': None, 'history': [],
+                   'phase': 'RECOVERY_VERIFYING',
+                   'updated_at': '2026-09-30T00:00:00+00:00',
+                   'note': 'hậu kiểm recover (fixture)'}
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      'w', encoding='utf-8') as f:
+                json.dump(txn, f, ensure_ascii=False, indent=2)
+            r = run(work, v, '--scope', 'chunk',
+                    '--expect-txn-phase', 'RECOVERY_VERIFYING')
+            self.assertEqual(r.returncode, 0, r.stdout)
+            self.assertIn('"expect_txn_phase": "RECOVERY_VERIFYING"', r.stdout)
+            # active + phase lệch -> FAIL
+            txn['phase'] = 'OTHER_PHASE'
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      'w', encoding='utf-8') as f:
+                json.dump(txn, f, ensure_ascii=False, indent=2)
+            r = run(work, v, '--scope', 'chunk',
+                    '--expect-txn-phase', 'RECOVERY_VERIFYING')
+            self.assertEqual(r.returncode, 1)
+            self.assertIn('!= --expect-txn-phase', r.stdout)
+            # active KHÔNG flag -> FAIL như hợp đồng cũ
+            r = run(work, v, '--scope', 'chunk')
+            self.assertEqual(r.returncode, 1)
+            self.assertIn('transaction đang treo', r.stdout)
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
+
+    def test_s8c_recover_unknown_physical_state_stops(self):
+        """Không suy luận được trạng thái vật lý -> STOP rc=1, KHÔNG mutate
+        matrix/transaction (không bịa phục hồi)."""
+        work, tmp = fresh_copy()
+        try:
+            row = first_planned(work)
+            before = get_row(work, row['id'])
+            txn = {
+                'active': True,
+                'pending': {'article_id': row['id'],
+                            'destination': '_posts/2026-09-27-mat-tich.md',
+                            'draft': '_drafts/mat-tich.md'},
+                'history': [{'destination': '_posts/2026-09-27-mat-tich.md',
+                             'source': '_drafts/mat-tich.md'}],
+                'updated_at': '2026-09-30T00:00:00+00:00',
+            }
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      'w', encoding='utf-8') as f:
+                json.dump(txn, f, ensure_ascii=False, indent=2)
+            r = run(work, 'scripts/factory/factory-operator.py', 'recover')
+            self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+            self.assertIn('không suy luận được', r.stdout)
+            with open(os.path.join(work, 'data/state/transaction.json'),
+                      encoding='utf-8') as f:
+                txn2 = json.load(f)
+            self.assertTrue(txn2.get('active'), 'txn bị đóng oan')
+            after = get_row(work, row['id'])
+            self.assertEqual(after['status'], before['status'])
+            self.assertEqual(after['notes'], before['notes'])
+        finally:
+            shutil.rmtree(tmp, ignore_errors=True)
 
 # ------------------------------------------------------------------ S6
 def read_workflow():
@@ -541,6 +678,41 @@ class StaticContract(unittest.TestCase):
                   encoding='utf-8') as f:
             opsrc = f.read()
         self.assertIn("'scripts/factory/publish-gate.py'", opsrc)
+
+
+    def test_s7_publish_queue_legacy_no_cron(self):
+        """publish-queue.yml là legacy diagnostics-only: cron ĐÃ BỎ (hợp
+        đồng hardening), chỉ còn workflow_dispatch chạy tay."""
+        with open(os.path.join(ROOT, '.github/workflows/publish-queue.yml'),
+                  encoding='utf-8') as f:
+            pq = f.read()
+        self.assertNotIn('cron', pq)
+        self.assertNotIn('schedule:', pq)
+        self.assertIn('workflow_dispatch:', pq)
+        self.assertIn('LEGACY', pq)
+
+    def test_s7_factory_validate_gates_hardening(self):
+        """Cổng CI Factory validate PHẢI chạy tầng 1/2: test_hardening.py
+        + test_watchdog.py — không được tự ý tháo khỏi gate."""
+        with open(os.path.join(ROOT, '.github/workflows/factory-validate.yml'),
+                  encoding='utf-8') as f:
+            y = f.read()
+        self.assertIn('tests/test_hardening.py', y)
+        self.assertIn('tests/test_watchdog.py', y)
+
+    def test_s7_watchdog_workflow_readonly_contract(self):
+        """factory-watchdog.yml: workflow định kỳ duy nhất của factory,
+        READ-ONLY: contents: read, không write/push, purity bắt buộc."""
+        with open(os.path.join(ROOT, '.github/workflows/factory-watchdog.yml'),
+                  encoding='utf-8') as f:
+            w = f.read()
+        self.assertIn('contents: read', w)
+        self.assertNotIn('contents: write', w)
+        self.assertIn('cron: "*/30 * * * *"', w)
+        self.assertIn('workflow_dispatch', w)
+        self.assertIn('scripts/factory/watchdog.py', w)
+        self.assertIn('git status --porcelain', w)
+        self.assertNotIn('git push', w)
 
 
 if __name__ == '__main__':

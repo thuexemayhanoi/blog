@@ -13,7 +13,7 @@ jobs:
   validate-foundation:
     name: Foundation + draft isolation
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
@@ -104,6 +104,8 @@ jobs:
           python3 scripts/factory/tests/test_built_links.py
           python3 scripts/factory/tests/test_refill_safety.py
           python3 scripts/factory/tests/test_refill_semantics.py
+          python3 scripts/factory/tests/test_hardening.py
+          python3 scripts/factory/tests/test_watchdog.py
 
       - name: Listing pages must match generator (no drift)
         run: |

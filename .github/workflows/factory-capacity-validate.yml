@@ -84,6 +84,11 @@ jobs:
           set -e
           python3 scripts/factory/tests/test_refill_semantics.py
 
+      - name: Watchdog fixture suite (read-only liveness, hermetic)
+        run: |
+          set -e
+          python3 scripts/factory/tests/test_watchdog.py
+
       - name: Working tree must be unchanged after dry-run
         run: |
           set -e
@@ -109,6 +114,7 @@ jobs:
             echo "- Collision selftest: PASS"
             echo "- Lock-safety suite: PASS"
             echo "- Refill semantics suite: PASS"
+            echo "- Watchdog fixture suite: PASS"
             echo "- Dry-run read-only: PASS"
             echo "- Sitemap 10K plan: PASS"
             echo "- Validation workflow: READ-ONLY (khong commit ve main)"

@@ -242,9 +242,30 @@ class VerifyStepsTest(unittest.TestCase):
             'scripts/factory/tests/test_publish_flow.py',
             'scripts/factory/tests/test_push_rebase_overlap.py',
             'scripts/factory/tests/test_refill_semantics.py',
+            # FULL mạnh hơn DEEP (hợp đồng 4 tầng): + hardening + watchdog
+            # + soak (tầng 4: long-run/failure recovery 20 vòng hermetic).
+            'scripts/factory/tests/test_hardening.py',
+            'scripts/factory/tests/test_watchdog.py',
+            'scripts/factory/tests/test_soak_recovery.py',
         ]))
         self.assertIn(['scripts/factory/capacity-audit.py'], steps)
         self.assertIn(['scripts/factory/queue.py', '--stats'], steps)
+
+    def test_full_is_stricter_than_deep(self):
+        """FULL phải chứa MỌI suite của DEEP và nhiều hơn (không giảm
+        kiểm tra khi nâng mức — hợp đồng 4 tầng)."""
+        def suites(mode):
+            return {s[0] for s in op.verify_steps(mode)
+                    if s[0].startswith('scripts/factory/tests/')}
+        deep, full = suites('deep'), suites('full')
+        self.assertGreaterEqual(full, deep)
+        self.assertGreater(full, deep)
+        for extra in ('test_hardening.py', 'test_watchdog.py',
+                      'test_soak_recovery.py'):
+            self.assertIn('scripts/factory/tests/' + extra, full)
+            self.assertNotIn('scripts/factory/tests/' + extra, deep)
+        fast = suites('fast')
+        self.assertGreaterEqual(deep, fast)
 
     def test_deep_maps_to_batch(self):
         steps = op.verify_steps('deep')

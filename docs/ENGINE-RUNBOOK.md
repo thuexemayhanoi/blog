@@ -141,3 +141,60 @@ xay ra qua lenh operator chu dong.
   refill PASS, claim PASS, lock PASS, transaction recovery
   PASS, QA hash gate PASS, publish gate PASS, CI PASS,
   Pages PASS.
+
+- NGOAI LE (hop dong hardening 2026-09-30): factory-watchdog.yml la
+  workflow dinh ky DUY NHAT cua factory (cron 30 phut) — READ-ONLY
+  diagnostics, KHONG phai scheduler van hanh: khong mutate state,
+  khong claim, khong publish. Van hanh san xuat van chi theo LENH
+  operator (docs/PROC-PUBLISH.md). publish-queue.yml la legacy
+  diagnostics-only (khong cron, chi workflow_dispatch).
+
+## 10. Liveness watchdog (READ-ONLY)
+
+- python3 scripts/factory/watchdog.py
+  Kiem tra suc song engine: chi DOC state, khong ghi gi. Workflow
+  factory-watchdog.yml chay 30 phut/lan + buoc purity (git status
+  --porcelain phai sach).
+
+Trang thai (uu tien tu tren xuong; exit 0 = HEALTHY, 1 = can can
+thiep, 2 = loi du lieu):
+
+| Trang thai            | Dieu kien                                    | Xu ly |
+|-----------------------|--------------------------------------------|-------|
+| DEGRADED_STATE_FILES  | state file thieu/hong JSON               | Kiem data/state/* |
+| STALE_TXN             | txn active >= 3h                           | operator recover |
+| STALE_LOCK            | lock treo >= 2h (BAT KY: con HAY 0 vie do) | RECOVERY.md (khong force-unlock) |
+| STALE_CHECKPOINT      | con vie do, checkpoint im lang >= 24h     | Kiem tay + verify |
+| STALLED_ACTIVE        | con vie do, khong lock/txn, im lang >= 6h | hoan tat hoac release-chunk |
+| HEALTHY_ACTIVE        | txn/lock con tuoi                         | Khong lam gi |
+| HEALTHY_IDLE          | khong viec do, khong txn/lock             | Khong lam gi |
+
+- BAT KY lock dang giu qua nguong (>= 2h) deu la STALE_LOCK exit 1, KE
+  CA khi 0 vie do: factory-operator preflight coi moi lock dang giu
+  (locked=true / sentinel writer-lock.active) la "dang chan" va tu choi
+  mutation -> lock mo coi stale KHONG phai HEALTHY_IDLE. Watchdog van
+  READ-ONLY: khong tu xoa, khong force-unlock — don qua operator chuan
+  (RECOVERY.md).
+- Nghieng: --lock-stale-hours/--txn-stale-hours/
+  --checkpoint-stale-hours/--active-stale-hours/--now (test),
+  WATCHDOG_JSON dong doc may.
+
+## 11. Hop dong kiem tra 4 tang
+
+- Tang 1 UNIT: test theo module tren fixture nho — test_watchdog.py,
+  test_publish_gate.py, test_operator.py, test_refill_safety.py,
+  test_workflow_syntax.py. Nhanh, chay trong verify FAST.
+- Tang 2 INTEGRATION: kich ban thao tac that tren ban sao hermetic —
+  test_hardening.py (S1-S8c), test_qa_modes.py, test_publish_flow.py,
+  test_link_integrity.py, test_refill_semantics.py,
+  test_push_rebase_overlap.py. Chay trong DEEP/FULL.
+- Tang 3 PRODUCTION INVARIANT: validate.py (chunk/batch/full) +
+  CI factory-validate.yml + factory-capacity-validate.yml + Pages.
+  Gate xuat ban tung chunk = FAST; DEEP ~50 bai; FULL dinh ky.
+- Tang 4 LONG-RUN/FAILURE RECOVERY: test_soak_recovery.py — 20 vong
+  san xuat hermetic + failure injection (txn treo, reports hong,
+  mat file _posts, lock treo, retry idempotent), bat bien moi vong
+  (lc exact, counts, history khong trung, production state nguyen ven).
+- Phan cap: FAST < DEEP < FULL (FULL = DEEP + test_hardening +
+  test_watchdog + test_soak_recovery, 12 suite). KHONG ha nguong,
+  KHONG bot kiem tra khi doi muc; nang muc khi phat hien he thong.

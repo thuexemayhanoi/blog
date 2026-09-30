@@ -50,6 +50,11 @@ os.chdir(ROOT)
 
 SCOPES = ('chunk', 'batch', 'full')
 
+# Hợp đồng phase chặt cho hậu kiểm recover (docs/RECOVERY.md): khi đặt,
+# transaction PHẢI active=true VÀ phase khớp — không lỏng (inactive/mismatch
+# đều FAIL). Chỉ op recover dùng để hậu kiểm TRƯỚC khi đóng transaction.
+EXPECT_TXN_PHASE = None
+
 ERRORS, WARNS, BLOCKED = [], [], []
 SECTIONS_RUN = []
 
@@ -254,7 +259,18 @@ def check_state(scope, inv):
     lock = json.load(open('data/state/writer-lock.json', encoding='utf-8'))
     if lock.get('locked') is not False: warn('writer-lock đang bị giữ: kiểm tra writer sống')
     txn = json.load(open('data/state/transaction.json', encoding='utf-8'))
-    if txn.get('active'): err('transaction đang treo active=true — cần recover trước khi sản xuất')
+    if EXPECT_TXN_PHASE:
+        # strict: active=true AND phase khớp — dùng cho hậu kiểm fail-closed
+        # của op recover (RECOVERY_VERIFYING); mọi lệch đều FAIL.
+        if not txn.get('active'):
+            err('--expect-txn-phase %s nhưng transaction inactive — không '
+                'được đóng transaction trước khi hậu kiểm PASS'
+                % EXPECT_TXN_PHASE)
+        elif (txn.get('phase') or '') != EXPECT_TXN_PHASE:
+            err('transaction phase %r != --expect-txn-phase %r'
+                % (txn.get('phase'), EXPECT_TXN_PHASE))
+    elif txn.get('active'):
+        err('transaction đang treo active=true — cần recover trước khi sản xuất')
     return cp
 
 
@@ -407,7 +423,12 @@ def main():
                     help='chunk = chỉ chunk hiện tại (FAST QA); batch = DEEP; full = toàn bộ (mặc định)')
     ap.add_argument('--ids', default='',
                     help='danh sách ID của chunk (phạm vi scope=chunk khi checkpoint trống)')
+    ap.add_argument('--expect-txn-phase', default=None,
+                    help='hợp đồng chặt: transaction phải active=true VÀ '
+                         'phase khớp (hậu kiểm recover, docs/RECOVERY.md)')
     args = ap.parse_args()
+    global EXPECT_TXN_PHASE
+    EXPECT_TXN_PHASE = args.expect_txn_phase
     ids = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
     out = run(args.scope, ids)
     if out is None or (isinstance(out, tuple) and out[0] is None and ERRORS):
@@ -427,7 +448,8 @@ def main():
     # tóm tắt máy đọc được cho test/report
     print('SUMMARY_JSON: %s' % json.dumps(
         {'scope': args.scope, 'sections_run': SECTIONS_RUN,
-         'errors': len(ERRORS), 'warnings': len(WARNS), 'blocked': len(BLOCKED)},
+         'errors': len(ERRORS), 'warnings': len(WARNS),
+         'blocked': len(BLOCKED), 'expect_txn_phase': EXPECT_TXN_PHASE},
         ensure_ascii=False))
     if ERRORS:
         print('KẾT QUẢ: FAIL'); sys.exit(1)
