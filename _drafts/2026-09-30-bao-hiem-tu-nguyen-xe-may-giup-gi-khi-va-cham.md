@@ -13,7 +13,7 @@ child_id: C-BAO-HIEM
 article_id: BLG-00950
 ---
 
-Va chạm giữa xe máy với xe khác là tình huống không ai muốn nhưng ai cũng nên hiểu trước: chi phí sửa xe, thuốc men và trách nhiệm với bên thứ ba có thể đến rất nhanh sau tiếng va chạm đầu tiên. Nhiều người chỉ biết trên xe có một lớp bảo hiểm, trong thực tế có hai lớp riêng biệt: bảo hiểm bắt buộc trách nhiệm dân sự mà xe máy nào cũng phải có, và lớp bảo hiểm tự nguyện do chủ xe mua thêm. Bài này trả lời bảo hiểm tự nguyện xe máy va chạm giúp được gì, nó khác lớp bắt buộc chỗ nào, và người đi xe máy thuê ở Hà Nội cần chú ý điều gì.
+Va chạm giữa xe máy với xe khác là tình huống không ai muốn nhưng ai cũng nên hiểu trước: chi phí sửa xe, thuốc men và trách nhiệm với bên thứ ba có thể đến rất nhanh sau tiếng va chạm đầu tiên, và bảo hiểm tự nguyện xe máy va chạm chi trả được bao nhiêu lại phụ thuộc vào gói mà chủ xe đã mua thêm. Nhiều người chỉ biết trên xe có một lớp bảo hiểm, trong thực tế có hai lớp riêng biệt: bảo hiểm bắt buộc trách nhiệm dân sự mà xe máy nào cũng phải có, và lớp bảo hiểm tự nguyện do chủ xe mua thêm. Bài này trả lời bảo hiểm tự nguyện xe máy va chạm giúp được gì, nó khác lớp bắt buộc chỗ nào, và người đi xe máy thuê ở Hà Nội cần chú ý điều gì.
 
 ## Hai lớp bảo hiểm khi có va chạm
 
@@ -25,7 +25,9 @@ Lớp thứ hai là bảo hiểm tự nguyện, do chủ xe tự quyết định
 
 Tùy gói đã mua, khi có va chạm, phần tự nguyện có thể chi trả cho: thương tích của người ngồi trên xe theo hạn mức tai nạn trong hợp đồng, chi phí sửa chữa hư hỏng của xe trong phạm vi rủi ro được bảo hiểm như va chạm, cháy, hoặc một số rủi ro khác ghi trong điều khoản, và phần trách nhiệm dân sự vượt giới hạn của bảo hiểm bắt buộc. Nghe có vẻ phủ hết, nhưng ba điểm thường bị bỏ qua cần đọc kỹ.
 
-Điểm một là điều khoản loại trừ: đa số gói không chi trả khi người lái cố ý gây thiệt hại, bỏ chạy sau tai nạn, hoặc vi phạm rõ quy định như sử dụng rượu bia khi điều khiển xe, tùy cách từng điều khoản ghi. Điểm hai là mức khấu trừ: hư hỏng nhỏ dưới mức khấu trừ sẽ không được chi, nên với xước nhẹ quanh phố, phần tự trả có khi vẫn rẻ hơn đi đòi bảo hiểm. Điểm ba là giấy tờ yêu cầu: hồ sơ bồi thường thường cần biên bản xử lý của cơ quan công an hoặc chứng từ sự cố theo đúng loại rủi ro, thiếu loại giấy tờ đúng quy định là lý do phổ biến khiến yêu cầu bị chậm hoặc từ chối. Điều khoản và mức phí có thể thay đổi theo sản phẩm của từng doanh nghiệp, nên hãy đối chiếu nội dung hợp đồng mới nhất trước khi quyết định mua.
+Điểm một là điều khoản loại trừ: đa số gói không chi trả khi người lái cố ý gây thiệt hại, bỏ chạy sau tai nạn, hoặc vi phạm rõ quy định như sử dụng rượu bia khi điều khiển xe, tùy cách từng điều khoản ghi. Điểm hai là mức khấu trừ: hư hỏng nhỏ dưới mức khấu trừ sẽ không được chi, nên với xước nhẹ quanh phố, phần tự trả có khi vẫn rẻ hơn đi đòi bảo hiểm.
+
+Điểm ba là giấy tờ yêu cầu: hồ sơ bồi thường thường cần biên bản xử lý của cơ quan công an hoặc chứng từ sự cố theo đúng loại rủi ro, thiếu loại giấy tờ đúng quy định là lý do phổ biến khiến yêu cầu bị chậm hoặc từ chối. Điều khoản và mức phí có thể thay đổi theo sản phẩm của từng doanh nghiệp, nên hãy đối chiếu nội dung hợp đồng mới nhất trước khi quyết định mua.
 
 ## Trình tự làm khi có va chạm
 

@@ -13,7 +13,7 @@ child_id: C-PHAT-NGUOI
 article_id: BLG-00951
 ---
 
-Hệ thống camera giám sát ở Hà Nội ngày càng phủ dày, và người đi xe máy thuê vì thế có một thói quen đáng hình thành: kiểm tra phạt nguội cho chiếc xe mình đang đi. Với xe của mình, việc tra cứu chỉ cần thói quen; với xe thuê, tra cứu còn giúp chốt thời điểm vi phạm trùng với kỳ thuê của bạn hay của người khác. Bài này hướng dẫn tra phạt nguội xe máy thuê qua các kênh chính thức, cách đọc kết quả, và cách đối chiếu với hợp đồng thuê xe để trách nhiệm được phân định đúng người.
+Tra phạt nguội xe máy thuê là thói quen đáng hình thành cho người đi xe ở Hà Nội, nơi hệ thống camera giám sát ngày càng phủ dày: với xe của mình, việc tra cứu chỉ cần thói quen; với xe thuê, tra cứu còn giúp chốt thời điểm vi phạm trùng với kỳ thuê của bạn hay của người khác. Bài này hướng dẫn tra phạt nguội xe máy thuê qua các kênh chính thức, cách đọc kết quả, và cách đối chiếu với hợp đồng thuê xe để trách nhiệm được phân định đúng người.
 
 ## Tra phạt nguội xe máy thuê qua kênh chính thức
 

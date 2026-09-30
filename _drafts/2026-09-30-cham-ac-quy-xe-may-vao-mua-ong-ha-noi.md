@@ -13,7 +13,7 @@ child_id: C-BAO-DUONG
 article_id: BLG-00949
 ---
 
-Mùa đông Hà Nội lạnh khô chuyển ẩm, và đó là khoảng thời gian ắc quy xe máy than phiền nhiều nhất: sáng ra vặn chìa, máy quay chậm hơn ngày thường, có hôm phải đạp đề vài lần mới nổ. Ắc quy yếu khi trời lạnh là hiện tượng có nguyên nhân vật lý rõ ràng, và chăm ắc quy xe máy mùa đông vì thế không phải là chờ đến lúc xe không nổ rồi mới mang đi sửa. Bài này giải thích vì sao ắc quy yếu vào mùa lạnh, những thói quen hằng ngày giúp ắc quy khỏe qua đông, và các dấu hiệu cho thấy ắc quy cần được kiểm tra ở Hà Nội.
+Chăm ắc quy xe máy mùa đông ở Hà Nội không phải là chờ đến lúc xe không nổ rồi mới mang đi sửa: ắc quy yếu khi trời lạnh là hiện tượng có nguyên nhân vật lý rõ ràng, và mùa lạnh khô chuyển ẩm cũng là khoảng thời gian ắc quy xe máy than phiền nhiều nhất, sáng ra vặn chìa, máy quay chậm hơn ngày thường, có hôm phải đạp đề vài lần mới nổ. Bài này giải thích vì sao ắc quy yếu vào mùa lạnh, những thói quen hằng ngày giúp ắc quy khỏe qua đông, và các dấu hiệu cho thấy ắc quy cần được kiểm tra ở Hà Nội.
 
 ## Vì sao chăm ắc quy xe máy mùa đông khác mùa hè
 
@@ -41,6 +41,8 @@ Một lưu ý nhỏ về cách đề máy mùa lạnh: vặn chìa để bật �
 
 ## Phòng tránh cho cả mùa đông
 
-Ba việc nhỏ giữ ắc quy ổn trong suốt mùa: đỗ xe chỗ khô, đi đủ quãng, và kiểm tra cọc ắc quy một lần giữa mùa. Mưa phùn của Hà Nội còn khiến các đầu nối và công tắc điện dễ ẩm, một lần lau khô và xịt bảo vệ đầu cọc giữa mùa giúp tiếp xúc ổn hơn khi trời lạnh đậm. Nếu bạn đi xe máy điện thì hệ pin hoạt động theo nguyên lý khác hẳn ắc quy khởi động, và cách chăm giữ được nêu trong bài [sạc pin xe máy điện đúng cách](/blog/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/). Còn với xe xăng, thói quen đề máy đúng cách, giữ lốp đủ áp suất để máy đỡ tải khi khởi động cũng góp phần đỡ cho ắc quy, chi tiết có trong bài [áp suất lốp xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/). Danh mục các việc bảo dưỡng định kỳ khác nằm trong chuyên mục [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/), thuộc [xe máy và dòng xe](/blog/xe-may/).
+Ba việc nhỏ giữ ắc quy ổn trong suốt mùa: đỗ xe chỗ khô, đi đủ quãng, và kiểm tra cọc ắc quy một lần giữa mùa. Mưa phùn của Hà Nội còn khiến các đầu nối và công tắc điện dễ ẩm, một lần lau khô và xịt bảo vệ đầu cọc giữa mùa giúp tiếp xúc ổn hơn khi trời lạnh đậm.
+
+Nếu bạn đi xe máy điện thì hệ pin hoạt động theo nguyên lý khác hẳn ắc quy khởi động, và cách chăm giữ được nêu trong bài [sạc pin xe máy điện đúng cách](/blog/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/). Còn với xe xăng, thói quen đề máy đúng cách, giữ lốp đủ áp suất để máy đỡ tải khi khởi động cũng góp phần đỡ cho ắc quy, chi tiết có trong bài [áp suất lốp xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/). Danh mục các việc bảo dưỡng định kỳ khác nằm trong chuyên mục [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/), thuộc [xe máy và dòng xe](/blog/xe-may/).
 
 Nếu bạn thuê xe trong mùa đông và muốn một chiếc đã được kiểm tra ắc quy trước khi giao, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Gọi trước khi đến để hỏi tình trạng kỹ thuật của xe, đặc biệt nếu bạn dự định đi sớm vào những buổi lạnh đậm.
