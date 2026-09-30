@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T19:39:54+00:00",
+  "updated_at": "2026-09-30T19:49:19+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00959",
-      "started_at": "2026-09-30T02:58:37+00:00",
-      "source": "_drafts/2026-09-30-gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao.md",
-      "destination": "_posts/2026-09-30-gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d452ca0c0a1aa70daa3cfcb68c175cd3ef24a0c3",
-      "finished_at": "2026-09-30T02:58:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00960",
-      "started_at": "2026-09-30T02:58:37+00:00",
-      "source": "_drafts/2026-09-30-chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi.md",
-      "destination": "_posts/2026-09-30-chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d452ca0c0a1aa70daa3cfcb68c175cd3ef24a0c3",
-      "finished_at": "2026-09-30T02:58:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00961",
       "started_at": "2026-09-30T02:58:37+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "e6d71708f393c38c0a2a778de48a6bbce48c8d3f",
       "finished_at": "2026-09-30T19:39:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00984",
+      "started_at": "2026-09-30T19:49:19+00:00",
+      "source": "_drafts/2026-09-30-thue-xe-may-theo-tuan-khi-ve-que-ngan-ngay.md",
+      "destination": "_posts/2026-09-30-thue-xe-may-theo-tuan-khi-ve-que-ngan-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "536629608ca0ba5f84b58a24dce9bb69a53c8750",
+      "finished_at": "2026-09-30T19:49:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00985",
+      "started_at": "2026-09-30T19:49:19+00:00",
+      "source": "_drafts/2026-09-30-thue-xe-may-theo-thang-cho-shipper-o-ha-noi.md",
+      "destination": "_posts/2026-09-30-thue-xe-may-theo-thang-cho-shipper-o-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "536629608ca0ba5f84b58a24dce9bb69a53c8750",
+      "finished_at": "2026-09-30T19:49:19+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
