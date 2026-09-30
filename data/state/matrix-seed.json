@@ -224,6 +224,22 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Giá thuê xe máy dịp Tết ở Hà Nội có tăng không",
+          "intent": "Tìm hiểu giá thuê xe máy dịp Tết ở Hà Nội",
+          "kw": "giá thuê xe máy tết hà nội",
+          "kw2": [
+            "thuê xe dịp tết giá bao nhiêu"
+          ],
+          "links": [
+            "/bang-gia/",
+            "/thue-xe/gia-thue/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách về quê và du lịch Tết",
+          "location_scope": "Hà Nội",
+          "word_target": 1400
         }
       ]
     },
@@ -441,6 +457,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Có shop nào cho thuê xe máy không cần đặt cọc ở Hà Nội không",
+          "intent": "Tìm hiểu điều kiện thuê xe không đặt cọc ở Hà Nội",
+          "kw": "thuê xe máy không cần đặt cọc",
+          "kw2": [
+            "thuê xe chỉ cần giấy tờ"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người mới thuê xe",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -907,6 +938,21 @@
             "cannibalization_risk": 15,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Khách quốc tế thuê xe máy cần giấy tờ gì",
+          "intent": "Tìm hiểu giấy tờ cần thiết khi khách quốc tế thuê xe máy",
+          "kw": "giấy tờ thuê xe máy cho khách quốc tế",
+          "kw2": [
+            "người nước ngoài thuê xe cần gì"
+          ],
+          "links": [
+            "/thue-xe/khach-quoc-te/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "du khách quốc tế",
+          "location_scope": "Hà Nội",
+          "word_target": 1400
         }
       ]
     },
@@ -1199,6 +1245,21 @@
             "cannibalization_risk": 10,
             "feasibility": "REVIEW"
           }
+        },
+        {
+          "title": "Xe thuê bị thủng lốp giữa đường xử lý thế nào",
+          "intent": "Tìm cách xử lý khi xe thuê bị thủng lốp giữa đường",
+          "kw": "xe thuê bị thủng lốp xử lý",
+          "kw2": [
+            "thủng lốp khi thuê xe"
+          ],
+          "links": [
+            "/thue-xe/su-co/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách thuê xe đi phố",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -1526,6 +1587,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Thuê xe máy điện chạy xa được bao nhiêu km",
+          "intent": "Tìm hiểu quãng đường chạy được của xe máy điện khi thuê",
+          "kw": "xe máy điện chạy được bao xa",
+          "kw2": [
+            "đi xa bằng xe điện"
+          ],
+          "links": [
+            "/bang-gia-xe-dien/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người đi xa bằng xe điện",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -1657,6 +1733,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Đi Honda Wave đường đèo cần chuẩn bị gì",
+          "intent": "Tìm hiểu cách chuẩn bị khi chạy Wave đường đèo",
+          "kw": "chạy honda wave đường đèo",
+          "kw2": [
+            "wave đi đèo lưu ý"
+          ],
+          "links": [
+            "/xe-may/honda-wave/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người phượt xe số",
+          "location_scope": 1400,
+          "word_target": 1400
         }
       ]
     },
@@ -1998,6 +2089,21 @@
           "links": [
             "/xe-may/bao-duong-xe/"
           ]
+        },
+        {
+          "title": "Chăm ắc quy xe máy vào mùa đông Hà Nội",
+          "intent": "Tìm cách chăm ắc quy xe máy mùa đông",
+          "kw": "chăm ắc quy xe máy mùa đông",
+          "kw2": [
+            "ắc quy yếu khi trời lạnh"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "chủ xe và khách thuê",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -2222,6 +2328,21 @@
             "cannibalization_risk": 10,
             "feasibility": "REVIEW"
           }
+        },
+        {
+          "title": "Bảo hiểm tự nguyện xe máy giúp gì khi va chạm",
+          "intent": "Tìm hiểu quyền lợi bảo hiểm tự nguyện xe máy khi va chạm",
+          "kw": "bảo hiểm tự nguyện xe máy va chạm",
+          "kw2": [
+            "bảo hiểm tự nguyện đền gì"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người đi xe hằng ngày",
+          "location_scope": 1400,
+          "word_target": 1400
         }
       ]
     },
@@ -2397,6 +2518,21 @@
             "cannibalization_risk": 12,
             "feasibility": "REVIEW"
           }
+        },
+        {
+          "title": "Kiểm tra phạt nguội xe máy thuê bằng cách nào",
+          "intent": "Tìm cách kiểm tra phạt nguội cho xe máy thuê",
+          "kw": "tra phạt nguội xe máy thuê",
+          "kw2": [
+            "xe thuê bị phạt nguội ai chịu"
+          ],
+          "links": [
+            "/an-toan-phap-ly/phat-nguoi/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách thuê xe",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -2792,6 +2928,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Đường vòng Hồ Gươm buổi sáng cho người đi xe máy",
+          "intent": "Tìm cung đường vòng Hồ Gươm buổi sáng bằng xe máy",
+          "kw": "vòng hồ gươm buổi sáng",
+          "kw2": [
+            "chạy xe quanh hồ gươm"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người sống và du lịch Hà Nội",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -2874,6 +3025,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Đi xe máy thăm Bảo tàng Dân tộc học Việt Nam",
+          "intent": "Tìm hướng dẫn đi xe máy đến Bảo tàng Dân tộc học",
+          "kw": "bảo tàng dân tộc học đi xe máy",
+          "kw2": [
+            "gửi xe bảo tàng dân tộc học"
+          ],
+          "links": [
+            "/du-lich/bao-tang/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "gia đình cuối tuần",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -3064,6 +3230,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Chạy xe quanh Hồ Tây lúc hoàng hôn: cung đường và an toàn",
+          "intent": "Tìm kinh nghiệm chạy xe quanh Hồ Tây lúc hoàng hôn",
+          "kw": "chạy xe quanh hồ tây",
+          "kw2": [
+            "đường ven hồ tây"
+          ],
+          "links": [
+            "/du-lich/ho-tay/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người thích chụp ảnh",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -3153,6 +3334,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Đi xe máy qua cầu Long Biên lúc nào đẹp nhất",
+          "intent": "Tìm thời điểm đẹp để đi xe máy qua cầu Long Biên",
+          "kw": "đi xe máy qua cầu long biên",
+          "kw2": [
+            "chụp ảnh cầu long biên"
+          ],
+          "links": [
+            "/du-lich/long-bien/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "du khách và nhiếp ảnh",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -3493,6 +3689,36 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Phượt Tràng An cuối tuần bằng xe máy từ Hà Nội",
+          "intent": "Tìm lộ trình phượt Tràng An cuối tuần bằng xe máy",
+          "kw": "phượt tràng an bằng xe máy",
+          "kw2": [
+            "hà nội đi tràng an xe máy"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người phượt 1 ngày",
+          "location_scope": 1400,
+          "word_target": 1400
+        },
+        {
+          "title": "Chạy xe máy đi Chùa Hương cuối tuần",
+          "intent": "Tìm kinh nghiệm chạy xe máy đi Chùa Hương",
+          "kw": "chạy xe máy đi chùa hương",
+          "kw2": [
+            "hà nội đi chùa hương"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người đi lễ đầu năm",
+          "location_scope": 1400,
+          "word_target": 1400
         }
       ]
     },
@@ -3570,6 +3796,21 @@
             "cannibalization_risk": 8,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Hà Nội đi Mai Châu mùa lúa chín bằng xe máy",
+          "intent": "Tìm kinh nghiệm chạy xe máy Hà Nội - Mai Châu mùa lúa chín",
+          "kw": "hà nội mai châu mùa lúa chín",
+          "kw2": [
+            "chạy xe đi mai châu"
+          ],
+          "links": [
+            "/cung-duong/mai-chau/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người phượt cuối tuần",
+          "location_scope": 1400,
+          "word_target": 1400
         }
       ]
     },
@@ -4136,6 +4377,21 @@
             "cannibalization_risk": 8,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Gặp đoàn rước trên đường hẹp xử lý thế nào",
+          "intent": "Tìm cách xử lý khi gặp đoàn rước trên đường hẹp",
+          "kw": "gặp đoàn rước trên đường",
+          "kw2": [
+            "lái xe gặp đoàn rước"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người lái xe phổ thông",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -4299,6 +4555,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Chạy xe máy khi mưa lớn ở Hà Nội: trú đâu và lưu ý gì",
+          "intent": "Tìm cách xử lý khi bị kẹt mưa lớn khi chạy xe",
+          "kw": "chạy xe máy khi mưa lớn",
+          "kw2": [
+            "trú mưa khi đi xe máy"
+          ],
+          "links": [
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người đi phố",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -4390,6 +4661,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Chở thùng hàng nặng trên xe máy an toàn",
+          "intent": "Tìm cách chở thùng hàng nặng an toàn trên xe máy",
+          "kw": "chở hàng nặng trên xe máy",
+          "kw2": [
+            "chở thùng hàng xe máy"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người chở hàng nhỏ",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -4494,6 +4780,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Gửi xe qua đêm ở phố cổ Hà Nội giá và lưu ý",
+          "intent": "Tìm hiểu giá và lưu ý gửi xe qua đêm phố cổ",
+          "kw": "gửi xe qua đêm phố cổ hà nội",
+          "kw2": [
+            "gửi xe qua đêm giá"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách du lịch ngủ lại phố cổ",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -4657,6 +4958,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Thuê xe máy 3 ngày giá có rẻ hơn không",
+          "intent": "Hỏi giá thuê xe máy 3 ngày có được ưu đãi",
+          "kw": "thuê xe máy 3 ngày giá",
+          "kw2": [
+            "thuê xe 3 ngày bao nhiêu"
+          ],
+          "links": [
+            "/bang-gia/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách thuê ngắn hạn",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -4744,6 +5060,21 @@
             "cannibalization_risk": 10,
             "feasibility": "REVIEW"
           }
+        },
+        {
+          "title": "Thuê xe máy cần mang hộ chiếu không",
+          "intent": "Hỏi liệu thuê xe máy có cần hộ chiếu hay không",
+          "kw": "thuê xe máy cần hộ chiếu không",
+          "kw2": [
+            "mang hộ chiếu thuê xe"
+          ],
+          "links": [
+            "/thue-xe/thu-tuc/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người mới thuê xe",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -4843,6 +5174,21 @@
             "cannibalization_risk": 12,
             "feasibility": "REVIEW"
           }
+        },
+        {
+          "title": "Đi xe máy thuê không có GPLX bị xử lý ra sao",
+          "intent": "Hỏi hậu quả pháp lý khi đi xe thuê không GPLX",
+          "kw": "đi xe thuê không giấy phép lái xe",
+          "kw2": [
+            "không gplx đi xe thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-phap-ly/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người chưa có GPLX",
+          "location_scope": 1400,
+          "word_target": 1400
         }
       ]
     },
@@ -4942,6 +5288,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Nên thuê Vision hay Air Blade khi đi phố",
+          "intent": "Hỏi nên chọn Vision hay Air Blade khi thuê đi phố",
+          "kw": "thuê vision hay air blade",
+          "kw2": [
+            "vision vs air blade thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-chon-xe/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách phân vân chọn xe",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -5008,6 +5369,21 @@
             "/thue-xe/su-co/",
             "/ky-nang/thoi-tiet-va-duong-sa/"
           ]
+        },
+        {
+          "title": "Xe thuê mất chìa khóa phải làm sao",
+          "intent": "Hỏi cách xử lý khi mất chìa khóa xe thuê",
+          "kw": "xe thuê mất chìa khóa",
+          "kw2": [
+            "mất chìa khóa xe máy thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-su-co/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách thuê xe",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -5131,6 +5507,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Lần đầu thuê xe máy ở Hà Nội nên hỏi gì",
+          "intent": "Hỏi những điều cần hỏi khi lần đầu thuê xe máy",
+          "kw": "lần đầu thuê xe máy hà nội",
+          "kw2": [
+            "kinh nghiệm thuê xe lần đầu"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-nguoi-moi/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người mới thuê xe",
+          "location_scope": 1400,
+          "word_target": 1200
         }
       ]
     },
@@ -5334,6 +5725,21 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Thuê xe máy cho người lớn tuổi ở Hà Nội",
+          "intent": "Tìm hiểu lựa chọn thuê xe máy cho người lớn tuổi",
+          "kw": "thuê xe máy cho người lớn tuổi",
+          "kw2": [
+            "xe máy phù hợp người già"
+          ],
+          "links": [
+            "/thue-xe/thue-theo-doi-tuong/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "con cháu thuê hộ người thân",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -6063,6 +6469,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Xe thuê chết máy giữa đường: tự xử hay gọi chủ xe",
+          "intent": "Tìm cách xử lý khi xe thuê chết máy giữa đường",
+          "kw": "xe thuê chết máy giữa đường",
+          "kw2": [
+            "xe máy thuê chết máy"
+          ],
+          "links": [
+            "/xe-may/xu-ly-su-co-xe/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "khách thuê xe",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     },
@@ -6290,6 +6711,21 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "So sánh Sirius và Wave khi thuê để đi xa",
+          "intent": "So sánh Yamaha Sirius và Honda Wave khi thuê đi xa",
+          "kw": "so sánh sirius và wave",
+          "kw2": [
+            "thuê sirius hay wave"
+          ],
+          "links": [
+            "/xe-may/so-sanh-xe/"
+          ],
+          "subtopic": "refill-2026-09-27",
+          "audience": "người chuẩn bị chuyến xa",
+          "location_scope": 1400,
+          "word_target": 1300
         }
       ]
     }
