@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T20:46:45+00:00",
+  "updated_at": "2026-09-30T20:47:32+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00978",
-      "started_at": "2026-09-30T19:25:15+00:00",
-      "source": "_drafts/2026-09-30-thanh-toan-khong-tien-mat-khi-thue-xe-may.md",
-      "destination": "_posts/2026-09-30-thanh-toan-khong-tien-mat-khi-thue-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ba166110da8c666cd629048ca37f8b60431f1771",
-      "finished_at": "2026-09-30T19:25:15+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00979",
       "started_at": "2026-09-30T19:25:15+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "de5df6d06f55908679cd3a15c6354a0fdaeee3f0",
       "finished_at": "2026-09-30T20:46:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01002",
+      "started_at": "2026-09-30T20:47:32+00:00",
+      "source": "_drafts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-cho-ong-xuan.md",
+      "destination": "_posts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-cho-ong-xuan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a4cf8b98da7455133f1ff7b4a94d26f19a6bee33",
+      "finished_at": "2026-09-30T20:47:32+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
