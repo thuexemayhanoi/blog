@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-gia-thue-xe-may-dip-tet-o-ha-noi-co-tang-khong.md",
+  "source_path": "_posts/2026-09-30-gia-thue-xe-may-dip-tet-o-ha-noi-co-tang-khong.md",
   "content_sha256": "20615e27b792deeadb7f2f31445e88064c7ca7f826ca9f93cf5c278dfb47d460",
-  "matrix_row_sha256": "4e810b1813ab7b9e1bf5bc6c4de9c1ec2727f57e633aea7301bd790a84f817ce",
-  "result": "PASS"
+  "matrix_row_sha256": "d73370e12b6d7ea3b0778f5b03790c450e84a2ca88a318984f0e7a2e4d5df8e7",
+  "result": "PASS",
+  "published_at": "2026-09-30T01:22:44+00:00"
 }

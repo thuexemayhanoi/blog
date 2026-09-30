@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-khach-quoc-te-thue-xe-may-can-giay-to-gi.md",
+  "source_path": "_posts/2026-09-30-khach-quoc-te-thue-xe-may-can-giay-to-gi.md",
   "content_sha256": "81666c251e81f9a911f9a9393be79a84910a811634769b3d40d0c5d18a725b0c",
-  "matrix_row_sha256": "55a11bcecc0c38823115d5c1a955384572762d1272724e1b0e9c84b5d10ebedc",
-  "result": "PASS"
+  "matrix_row_sha256": "862db6051099f126542d3c8dc1db418bb41897d22e5d0faabeed0dea2be4763d",
+  "result": "PASS",
+  "published_at": "2026-09-30T01:22:44+00:00"
 }

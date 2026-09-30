@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-co-shop-nao-cho-thue-xe-may-khong-can-at-coc-o-ha-noi-khong.md",
+  "source_path": "_posts/2026-09-30-co-shop-nao-cho-thue-xe-may-khong-can-at-coc-o-ha-noi-khong.md",
   "content_sha256": "7f05c2936e228dd1c5f3d4b567fb899e152645327f793fd3cc335affcc3ef6e9",
-  "matrix_row_sha256": "24f61d7b8d58b7f232cb7269faa5bbfc248fd421bd0457ebf90124c2a12e8b35",
-  "result": "PASS"
+  "matrix_row_sha256": "e223a360ca56fe4571b22c8d0b829157b2fa7c14f0b0d20772b0d8315a6315b5",
+  "result": "PASS",
+  "published_at": "2026-09-30T01:22:44+00:00"
 }

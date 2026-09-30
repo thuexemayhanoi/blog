@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-30-xe-thue-bi-thung-lop-giua-uong-xu-ly-the-nao.md",
   "content_sha256": "85ee8ba12d21f9b2f078c09fbe2d9a3d7a997917a6d623e2a689d68972fb3012",
-  "matrix_row_sha256": "4c6f896f59ad745e85a4a48b6ebf51a25fc8aca054643f03f52f28a051c31cbb",
-  "result": "PASS"
+  "matrix_row_sha256": "800f7d38acb047de0982bde9c483bdf3658dcaea10590ef6ee9fe6a8acc0fc7f",
+  "result": "PASS",
+  "published_at": "2026-09-30T01:22:44+00:00"
 }

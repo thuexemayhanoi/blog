@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km.md",
+  "source_path": "_posts/2026-09-30-thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km.md",
   "content_sha256": "f4426e60bf50ab01264a478cda3f4111429e58bb79eb08f8d39fb5e7da0bfeb8",
-  "matrix_row_sha256": "172f1e62371a693261e2b72434b60a9fac4317736e2c6ac4f0ad5b0304b3cfb4",
-  "result": "PASS"
+  "matrix_row_sha256": "5596fc58d0e0aab26e2fbb9e0d5a0964ee08cf92e811d11edce616e8b57a48d3",
+  "result": "PASS",
+  "published_at": "2026-09-30T01:22:44+00:00"
 }
