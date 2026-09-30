@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T20:44:34+00:00",
+  "updated_at": "2026-09-30T20:46:45+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00977",
-      "started_at": "2026-09-30T19:18:27+00:00",
-      "source": "_drafts/2026-09-30-huy-at-xe-may-thue-nguyen-tac-chung-can-biet.md",
-      "destination": "_posts/2026-09-30-huy-at-xe-may-thue-nguyen-tac-chung-can-biet.md",
-      "result": "PUBLISHED",
-      "commit_sha": "97ee47d178b14a78fed0b2d487e7789388f606c1",
-      "finished_at": "2026-09-30T19:18:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00978",
       "started_at": "2026-09-30T19:25:15+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "1ce71b240ccab2dc4e63c3954f029cf5e81c4b72",
       "finished_at": "2026-09-30T20:44:34+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01003",
+      "started_at": "2026-09-30T20:46:45+00:00",
+      "source": "_drafts/2026-09-30-en-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
+      "destination": "_posts/2026-09-30-en-nha-tho-lon-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "de5df6d06f55908679cd3a15c6354a0fdaeee3f0",
+      "finished_at": "2026-09-30T20:46:45+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
