@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00950",
   "title": "Bảo hiểm tự nguyện xe máy giúp gì khi va chạm",
-  "scored_at": "2026-09-30T02:16:56+00:00",
+  "scored_at": "2026-09-30T02:20:15+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -21,9 +21,9 @@
     "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
-    "intent_opening": false,
+    "intent_opening": true,
     "hanoi_example": true,
-    "reads_naturally_proxy": false,
+    "reads_naturally_proxy": true,
     "no_placeholder": true,
     "business_amounts": true,
     "forbidden_claims": true,
@@ -31,19 +31,19 @@
     "legal_source": true,
     "legal_disclaimer": true
   },
-  "word_count": 1248,
+  "word_count": 1273,
   "word_target": 1400,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 55,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "PASS",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-30-bao-hiem-tu-nguyen-xe-may-giup-gi-khi-va-cham.md",
-  "content_sha256": "5d111549e2da59d151a92f9d5e66497f89a9422769cbab301f04d7589a74fbde",
+  "content_sha256": "2dc69f678a03e2f8a19c5e402708812b91fde1e7b2ed31c3104811baacd3b6a3",
   "matrix_row_sha256": "ac59ad1fe1211a01b6f365550929f9eca6674cc402e2cb1ad4640916d6f99e9a",
-  "result": "REPAIR"
+  "result": "PASS"
 }

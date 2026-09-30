@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00949",
   "title": "Chăm ắc quy xe máy vào mùa đông Hà Nội",
-  "scored_at": "2026-09-30T02:16:56+00:00",
+  "scored_at": "2026-09-30T02:20:15+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -21,27 +21,27 @@
     "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
-    "intent_opening": false,
+    "intent_opening": true,
     "hanoi_example": true,
-    "reads_naturally_proxy": false,
+    "reads_naturally_proxy": true,
     "no_placeholder": true,
     "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1225,
+  "word_count": 1222,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 55,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-30-cham-ac-quy-xe-may-vao-mua-ong-ha-noi.md",
-  "content_sha256": "92d39fe9340df0dd735672d9af6774b0ae634ce2bade35b1c1d7b114f4a06e00",
+  "content_sha256": "0d75e03a8934c38fb14360ad6128e32868b8d2c0b4bb18eb490b55deed22eac2",
   "matrix_row_sha256": "3521e9d6f62c6690b1468795f9d9fed152fd01a7b88df38187c4baf16266ea61",
-  "result": "REPAIR"
+  "result": "PASS"
 }

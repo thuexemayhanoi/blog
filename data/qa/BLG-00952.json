@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00952",
   "title": "Đường vòng Hồ Gươm buổi sáng cho người đi xe máy",
-  "scored_at": "2026-09-30T02:16:56+00:00",
+  "scored_at": "2026-09-30T02:20:15+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -21,7 +21,7 @@
     "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
-    "intent_opening": false,
+    "intent_opening": true,
     "hanoi_example": true,
     "reads_naturally_proxy": true,
     "no_placeholder": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1081,
+  "word_count": 1080,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 75,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-30-uong-vong-ho-guom-buoi-sang-cho-nguoi-i-xe-may.md",
-  "content_sha256": "d77dbaf20951967624216e9483d023068ea44b540bed3bbc7e1d7553207c5d5d",
+  "content_sha256": "a4706869139c84aaf6c0adc3edd6ec554e04ff0db144586e6d1c9bb9cad563c5",
   "matrix_row_sha256": "ed78d85790680cadb0fcafc9cfb068cb1d126e5cc4f831efe35544d62076b8d7",
-  "result": "REPAIR"
+  "result": "PASS"
 }

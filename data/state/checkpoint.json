@@ -1,7 +1,7 @@
 {
   "factory_version": 2,
   "capacity": 10000,
-  "updated_at": "2026-09-30T02:16:56+00:00",
+  "updated_at": "2026-09-30T02:20:15+00:00",
   "last_run_id": "operator-prepare-next",
   "status": "PARTIAL_BLOCKED",
   "matrix_status": "PRESENT_CREATED_NEW",
@@ -23,9 +23,9 @@
     "planned": 19,
     "writing": 0,
     "qa": 0,
-    "pass": 1,
+    "pass": 5,
     "published": 463,
-    "repair": 4,
+    "repair": 0,
     "blocked": 1,
     "fail": 0
   },
