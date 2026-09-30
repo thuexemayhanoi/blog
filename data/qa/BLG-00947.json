@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-00947",
   "title": "Thuê xe máy điện chạy xa được bao nhiêu km",
-  "scored_at": "2026-09-30T01:17:17+00:00",
+  "scored_at": "2026-09-30T01:21:47+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -29,19 +29,19 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1335,
+  "word_count": 1342,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 80,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-09-30-thue-xe-may-ien-chay-xa-uoc-bao-nhieu-km.md",
-  "content_sha256": "36a5d8e6a4cafa2c79ba1d6ea4fafade86646bbef04c1501552040fee108e62b",
+  "content_sha256": "f4426e60bf50ab01264a478cda3f4111429e58bb79eb08f8d39fb5e7da0bfeb8",
   "matrix_row_sha256": "172f1e62371a693261e2b72434b60a9fac4317736e2c6ac4f0ad5b0304b3cfb4",
-  "result": "REPAIR"
+  "result": "PASS"
 }
