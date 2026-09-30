@@ -2,6 +2,8 @@
 
 Mỗi hàng: lỗi → nguyên nhân → tệp/commit sửa → kiểm thử → kết quả live → trạng thái. Trạng thái: VERIFIED / NOT VERIFIED / BLOCKED. Cập nhật sau mỗi lần chạy; không ghi PASS khi chưa kiểm tra.
 
+GHI CHÚ LỊCH SỬ (2026-09-30): các hàng nhắc tới workflow `factory-operator.yml` / `factory-validate.yml` / `factory-capacity-validate.yml` / `factory-watchdog.yml` / `publish-queue.yml` / `test_push_rebase_overlap.py` là mô hình TRƯỚC hợp đồng 3 workflow; các tệp đó đã retire (docs/factory-workflow-contract.md) — không phải lỗi, không cần sửa lại.
+
 | # | Lỗi | Nguyên nhân | Tệp/commit sửa | Kiểm thử | Kết quả live | Trạng thái |
 |---|---|---|---|---|---|---|
 | A1 | `data/content-matrix.csv` thiếu dù report cũ ghi "10.000 hàng" | Tệp sinh lúc bootstrap chưa bao giờ được commit; không có trong lịch sử git, nhánh, hay `data/state/foundation-seed/` (thư mục này cũng không tồn tại) | Không thể sửa bằng cách tạo matrix mới. Bằng chứng + phương án: `reports/factory/matrix-recovery-blocked.md` | `list_commits` đường dẫn: 0 kết quả; 20 ID ví dụ đối chiếu khớp ánh xạ tái tạo | N/A | BLOCKED (chờ chủ xe cấp bản gốc hoặc duyệt tái sinh matrix mới) |

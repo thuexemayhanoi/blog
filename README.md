@@ -40,11 +40,11 @@ hất.
 - `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
 - `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
 - `reports/factory/` — report sinh từ dữ liệu thật.
-- `.github/workflows/` — `factory-validate.yml` + `factory-capacity-validate.yml` (CI read-only, gate xanh), `factory-operator.yml` (TAY deterministic của writer ngoài — xem `docs/PROC-PUBLISH.md`), `pages` (deploy), `publish-queue.yml` (campaign LEGACY hanoi-seo-480, đã tắt — KHÔNG phải scheduler của factory).
+- `.github/workflows/` — đúng 3 workflow (docs/factory-workflow-contract.md): `quality-gate.yml` (CI FAST mọi push/PR, read-only), `factory-production.yml` (đường sản xuất workflow_dispatch — xem `docs/PROC-PUBLISH.md`), `weekly-maintenance.yml` (audit tuần read-only). Pages deploy bằng cơ chế built-in của GitHub.
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 
-EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → đẩy lệnh whitelist vào `data/factory/operator-command.json` → GitHub Actions `factory-operator.yml` (checkout + Python + Node, KHÔNG AI, KHÔNG secret AI) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy the
+EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → workflow_dispatch trên `factory-production.yml` (action status/resume/next/qa/publish/refill — KHÔNG AI, KHÔNG secret AI, KHÔNG cron) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy the
 o lệnh.
 
 ## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)

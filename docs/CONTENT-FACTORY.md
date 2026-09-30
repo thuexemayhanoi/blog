@@ -50,8 +50,8 @@ Một chunk tối đa 10 bài. Chỉ nhận chunk khi: transaction inactive, loc
 
 ## CI/CD
 
-- `.github/workflows/factory-validate.yml`: restore idempotent + report khớp dữ liệu + validate.py + build Jekyll + nháp không deploy + hub render. CI đỏ với "MATRIX BLOCKED" là có chủ đích.
-- `.github/workflows/publish-queue.yml`: CHỈ campaign cũ hanoi-seo-480 (tệp `NNN-slug.md` trong `_queue/`). Queue hiện rỗng bài → không xuất bản gì. Kết quả "skipped" của validator cũ KHÔNG dùng để tuyên bố `_posts` PASS.
+- `.github/workflows/quality-gate.yml`: validate FAST (scope chunk) + build Jekyll + link integrity + nháp không deploy + hub sanity, trên mọi push/PR (read-only). Audit sâu (drift generators, verify FULL) nằm ở weekly-maintenance.yml.
+- Campaign cũ hanoi-seo-480 đã retire cùng `publish-queue.yml`; `_data/publishing.yml` giữ `enabled: false`. Sản xuất chỉ qua `factory-production.yml` (docs/PROC-PUBLISH.md).
 - Pages build success KHÔNG đủ để tuyên bố hoàn thành; phải kiểm tra runtime.
 
 ## Scheduler

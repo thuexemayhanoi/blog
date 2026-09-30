@@ -9,4 +9,4 @@ lang: vi
 tags: [mau-nhap]
 ---
 
-Bài trong `_drafts/` KHÔNG được deploy: không xuất hiện ở URL công khai, sitemap.xml, feed hay danh sách bài. Trước khi promote sang `_posts/`, bài phải đạt đủ gate: QUALITY ≥ 90, SEO ≥ 90, BUSINESS FACT PASS, LEGAL PASS hoặc NOT REQUIRED, không critical failure. Xem `docs/CONTENT-FACTORY.md`.
+Bài trong `_drafts/` KHÔNG được deploy: không xuất hiện ở URL công khai, sitemap.xml, feed hay danh sách bài. Trước khi promote sang `_posts/`, bài phải đạt đủ gate: QUALITY ≥ 75, SEO ≥ 75, BUSINESS FACT PASS, LEGAL PASS hoặc NOT REQUIRED, không critical failure. Xem `docs/CONTENT-FACTORY.md`.

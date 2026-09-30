@@ -1,6 +1,7 @@
-# Publishing campaign configuration
-# Read by .github/workflows/publish-queue.yml before every publish attempt.
-# The workflow exits immediately while enabled is false.
+# Publishing campaign configuration (LEGACY — RETIRED)
+# publish-queue.yml was retired 2026-09-30 (3-workflow contract,
+# docs/factory-workflow-contract.md). Keep enabled: false permanently.
+# Production runs only via factory-production.yml workflow_dispatch.
 #
 # Activation checklist (requires explicit owner approval):
 #   1. Set enabled: true

@@ -106,7 +106,7 @@ asible,
 duplicate intent, cannibalization, broken links, sitemap,
 indexability, build size, CI duration, Pages deploy,
 chat luong noi dung, legal freshness, factory state.
-(Kiem tra trong factory-validate.yml + capacity-validate.yml.)
+(Kiem tra trong weekly-maintenance.yml — audit FULL tuan, read-only.)
 
 ## Cac thanh phan tri tue
 
@@ -116,15 +116,15 @@ chat luong noi dung, legal freshness, factory state.
 - scripts/factory/refill-queue.py: lazy refill (plan/verify/
   dry-run/selftest/refill).
 - scripts/factory/sitemap-plan.py: du do shard sitemap.
-- .github/workflows/factory-capacity-validate.yml: CI read-only
-  (contents: read, KHONG commit bao cao ve main) cho toan bo
-  tren: capacity audit, queue stats, refill verify + idempotency,
-  collision selftest, dry-run sach cay lam viec, sitemap plan.
+- .github/workflows/weekly-maintenance.yml: audit tuan READ-ONLY
+  (contents: read, KHONG commit ve main) cho toan bo tren: capacity
+  audit, queue stats, refill verify + selftest, sitemap plan,
+  generator drift. Cong FAST moi push: quality-gate.yml.
 
 ## So huu production engine (ownership guard)
 
-- .github/workflows/publish-queue.yml + _data/publishing.yml:
-  LEGACY-SUPERSEDED, dang enabled: false. Chi la campaign cu
-  duoc giu lai lam tai lieu; KHONG duoc bat lai song song voi
+- _data/publishing.yml: campaign LEGACY da retire cung
+  publish-queue.yml (hop dong 3 workflow), enabled: false vinh
+  vien. KHONG duoc bat lai song song voi
   factory 10K. Factory 10K (writer lock + transaction + publish
   gate) la engine duy nhat so huu production.

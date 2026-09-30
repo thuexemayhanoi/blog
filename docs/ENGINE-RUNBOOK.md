@@ -26,9 +26,10 @@ lenh nao chua implement. Chay tu goc repository.
   Trang thai engine (checkpoint/transaction/lock/matrix) cho operator.
   Vong van hanh day du: docs/PROC-PUBLISH.md.
   Ops whitelist: status, prepare-next, qa, publish, recover, requeue,
-  verify, refill, reports. Lenh day qua
-  data/factory/operator-command.json; workflow factory-operator.yml
-  la TAY deterministic (khong AI, khong secret AI, khong cron).
+  verify, refill, reports. Lenh san xuat day qua workflow_dispatch
+  tren factory-production.yml (action status/resume/next/qa/publish/
+  refill — khong con file lenh operator-command.json); workflow la
+  TAY deterministic (khong AI, khong secret AI, khong cron).
 
 ## 2. Queue refill (lazy, chi khi can)
 
@@ -78,8 +79,8 @@ word_target >= 1.200 (G5); candidate_id unique (G6);
 child thuoc taxonomy, ke thua source policy (G7);
 title khong trung toan matrix (G8).
 
-LUU Y CI: workflow factory-capacity-validate.yml la
-READ-ONLY (permissions: contents: read), khong bao gio
+LUU Y CI: cac workflow read-only la quality-gate.yml (FAST moi push)
+va weekly-maintenance.yml (FULL audit tuan) — khong bao gio
 commit/push ve main. Refill --verify chi in log/step summary.
 Thay doi trang thai (matrix, seed, ledger, checkpoint) chi
 xay ra qua lenh operator chu dong.
@@ -142,19 +143,20 @@ xay ra qua lenh operator chu dong.
   PASS, QA hash gate PASS, publish gate PASS, CI PASS,
   Pages PASS.
 
-- NGOAI LE (hop dong hardening 2026-09-30): factory-watchdog.yml la
-  workflow dinh ky DUY NHAT cua factory (cron 30 phut) — READ-ONLY
-  diagnostics, KHONG phai scheduler van hanh: khong mutate state,
-  khong claim, khong publish. Van hanh san xuat van chi theo LENH
-  operator (docs/PROC-PUBLISH.md). publish-queue.yml la legacy
-  diagnostics-only (khong cron, chi workflow_dispatch).
+- HOP DONG 3 WORKFLOW (2026-09-30, docs/factory-workflow-contract.md):
+  khong con workflow dinh ky 30 phut. weekly-maintenance.yml (cron
+  tuan) la duy nhat chay dinh ky — READ-ONLY diagnostics, KHONG phai
+  scheduler van hanh: khong mutate state, khong claim, khong publish.
+  Van hanh san xuat chi theo dispatch tren factory-production.yml
+  (docs/PROC-PUBLISH.md). publish-queue.yml da retire (campaign
+  legacy da tat).
 
 ## 10. Liveness watchdog (READ-ONLY)
 
 - python3 scripts/factory/watchdog.py
-  Kiem tra suc song engine: chi DOC state, khong ghi gi. Workflow
-  factory-watchdog.yml chay 30 phut/lan + buoc purity (git status
-  --porcelain phai sach).
+  Kiem tra suc song engine: chi DOC state, khong ghi gi. Chay hang
+  tuan trong weekly-maintenance.yml + buoc purity (working tree
+  phai sach sau khi chay).
 
 Trang thai (uu tien tu tren xuong; exit 0 = HEALTHY, 1 = can can
 thiep, 2 = loi du lieu):
@@ -189,8 +191,8 @@ thiep, 2 = loi du lieu):
   test_link_integrity.py, test_refill_semantics.py,
   test_push_rebase_overlap.py. Chay trong DEEP/FULL.
 - Tang 3 PRODUCTION INVARIANT: validate.py (chunk/batch/full) +
-  CI factory-validate.yml + factory-capacity-validate.yml + Pages.
-  Gate xuat ban tung chunk = FAST; DEEP ~50 bai; FULL dinh ky.
+  CI quality-gate.yml (FAST moi push) + Pages. Gate xuat ban tung
+  chunk = FAST; DEEP ~50 bai; FULL dinh ky (weekly-maintenance.yml).
 - Tang 4 LONG-RUN/FAILURE RECOVERY: test_soak_recovery.py — 20 vong
   san xuat hermetic + failure injection (txn treo, reports hong,
   mat file _posts, lock treo, retry idempotent), bat bien moi vong
