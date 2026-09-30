@@ -1,0 +1,7 @@
+{
+  "op": "publish",
+  "ids": "BLG-00943,BLG-00944,BLG-00945,BLG-00946,BLG-00947",
+  "scope": "fast",
+  "command_id": "campaign10k-chunk26-publish",
+  "coordinator": "vibe-operator-round5"
+}
