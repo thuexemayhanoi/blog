@@ -14,9 +14,12 @@ temp), kèm failure injection đúng hợp đồng:
   i=10  mất file _posts của bài PUBLISHED (borrow) -> preflight validate
         FAIL -> prepare-next TỪ CHỐI MUTATE ('không được mutate khi engine
         lệch'); khôi phục file -> chạy tiếp.
-  i=13  block 1: lock treo khi KHÔNG còn việc dở -> watchdog HEALTHY_IDLE
-        (không chặn sản xuất); block 2: lock treo khi chunk đang làm ->
-        STALE_LOCK + op qa TỪ CHỐI ('writer-lock đang được giữ', rc=1).
+  i=13  block 1: lock treo khi KHÔNG còn việc dở -> watchdog STALE_LOCK
+        (lock mồ côi: operator preflight vẫn chặn mutation khi lock còn
+        được giữ — KHÔNG phải HEALTHY_IDLE); test TỰ dọn lock fixture sau
+        đó (production code KHÔNG BAO GIỜ force-unlock). Block 2: lock treo
+        khi chunk đang làm -> STALE_LOCK + op qa TỪ CHỐI ('writer-lock
+        đang được giữ', rc=1).
   i=16  transaction treo 3h -> watchdog STALE_TXN -> recover rollback ->
         qa lại -> publish.
   i=19  retry idempotent: qa lại hàng PUBLISHED 'được bảo vệ' (rc=0),
@@ -92,7 +95,13 @@ class SoakRecoveryTest(FxTestCase):
                 if ln.startswith('WATCHDOG_JSON: ')]
         self.assertTrue(line, 'thiếu WATCHDOG_JSON: %r' % (r.stdout
                                                           + r.stderr))
-        return json.loads(line[0].split(': ', 1)[1])
+        st = json.loads(line[0].split(': ', 1)[1])
+        # hợp đồng exit watchdog: 0 = HEALTHY_*, khác 0 = cần can thiệp
+        self.assertEqual(r.returncode == 0,
+                         str(st.get('state', '')).startswith('HEALTHY'),
+                         'watchdog exit lệch hợp đồng: rc=%s state=%r'
+                         % (r.returncode, st.get('state')))
+        return st
 
     def write_txn_active(self, aid, draft, age_h):
         dest = '_posts/%s' % os.path.basename(draft)
@@ -226,12 +235,16 @@ class SoakRecoveryTest(FxTestCase):
     def do_round(self, i, expected_lc, t0):
         # ---- inject trước khi claim (queue rỗng ở đầu vòng)
         if i in INJECT_LOCK:
-            # block 1: lock treo + KHÔNG việc dở -> HEALTHY_IDLE
+            # block 1: lock treo + KHÔNG việc dở (mồ côi) -> STALE_LOCK:
+            # operator preflight chặn mutation khi lock còn được giữ, kể
+            # cả khi unfinished_work == 0 — KHÔNG phải HEALTHY_IDLE.
             self.inject_stale_lock()
             st = self.watchdog_state()
-            self.assertEqual(st['state'], 'HEALTHY_IDLE',
-                             'lock mồ côi không việc dở phải HEALTHY_IDLE: %r'
+            self.assertEqual(st['state'], 'STALE_LOCK',
+                             'lock mồ côi không việc dở phải STALE_LOCK: %r'
                              % st)
+            # test TỰ dọn lock fixture (hermetic) — production code không
+            # bao giờ tự force-unlock (docs/RECOVERY.md).
             self.clear_lock()
         if i in INJECT_MISSING_POST:
             # mất file _posts của bài borrow đã xuất bản -> engine lệch ->

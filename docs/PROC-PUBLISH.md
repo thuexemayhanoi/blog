@@ -201,6 +201,11 @@ watchdog (scripts/factory/watchdog.py — READ-ONLY):
 
 - HEALTHY_IDLE: không transaction treo, không lock, không việc dở.
 - HEALTHY_ACTIVE: transaction/lock còn tươi (đang làm việc).
+- Mọi lock còn giữ mà treo quá ngưỡng là KHÔNG KHỎE — STALE_LOCK (exit 1)
+  kể cả khi không còn việc dở (lock mồ côi): operator preflight chặn mọi
+  mutation mới khi `writer-lock.active` còn hoặc `writer-lock.json`
+  `locked: true`, nên lock mồ côi không bao giờ là HEALTHY_IDLE. Watchdog
+  không tự xoá/force-unlock — xử lý theo docs/RECOVERY.md.
 - STALE_TXN/STALE_LOCK/STALE_CHECKPOINT/STALLED_ACTIVE (exit 1): xử lý
   theo docs/RECOVERY.md rồi mới nhận việc mới.
 - Hợp đồng kiểm tra 4 tầng: (1) unit theo module; (2) integration trên

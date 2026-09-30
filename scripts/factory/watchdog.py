@@ -14,9 +14,12 @@ Hợp đồng (docs/ENGINE-RUNBOOK.md mục 10):
 Trạng thái (ưu tiên từ trên xuống):
   DEGRADED_STATE_FILES  — state file thiếu/hỏng JSON (exit 2).
   STALE_TXN             — transaction active quá ngưỡng (mặc định 3h) (exit 1).
-  STALE_LOCK            — lock treo quá ngưỡng (2h) VÀ còn việc dở (exit 1).
-                          Lock treo mà queue rỗng/không in-flight -> không
-                          chặn sản xuất -> HEALTHY_IDLE (orphan, ghi note).
+  STALE_LOCK            — MỌI lock còn giữ mà treo quá ngưỡng (2h) (exit 1),
+                          KỂ CẢ khi không còn việc dở (orphan): operator
+                          preflight chặn mọi mutation khi writer-lock.active
+                          tồn tại hoặc writer-lock.json locked=true nên
+                          lock mồ côi KHÔNG phải HEALTHY_IDLE. KHÔNG bao giờ
+                          tự xoá/force-unlock (docs/RECOVERY.md).
   STALE_CHECKPOINT      — còn việc dở nhưng checkpoint không cập nhật quá 24h.
   STALLED_ACTIVE        — còn việc dở, không lock, không txn, checkpoint im
                           lặng quá 6h (chunk claim rồi bỏ mặc).
@@ -190,12 +193,19 @@ def check(root, now, lock_stale_h, txn_stale_h, checkpoint_stale_h,
                 'exit': E_ATTENTION,
             })
             return out
-        # lock mồ côi nhưng KHÔNG còn việc dở -> không chặn sản xuất
+        # lock mồ côi quá hạn, KHÔNG còn việc dở — operator preflight vẫn
+        # chặn mutation khi writer-lock.active còn hoặc locked=true, nên
+        # lock mồ côi KHÔNG phải HEALTHY_IDLE; can thiệp theo RECOVERY.md,
+        # watchdog KHÔNG bao giờ tự xoá/force-unlock.
         out.update({
-            'state': 'HEALTHY_IDLE',
-            'note': 'lock mồ côi quá hạn nhưng không còn việc dở — '
-                    'engine nghỉ; dọn metadata khi tiếp tục làm việc.',
-            'exit': E_OK,
+            'state': 'STALE_LOCK',
+            'detail': 'writer-lock mồ côi treo %.1fh (ngưỡng %.1fh), không '
+                      'còn việc dở — operator preflight vẫn chặn mutation '
+                      'mới (lock còn được giữ): can thiệp theo '
+                      'docs/RECOVERY.md (KHÔNG tự xoá/force-unlock).'
+                      % (lock_age if lock_age is not None else -1,
+                         lock_stale_h),
+            'exit': E_ATTENTION,
         })
         return out
     if unfinished and stale(cp_age, checkpoint_stale_h):

@@ -16,6 +16,8 @@
 
 Lock dùng sentinel `data/state/writer-lock.active` (O_CREAT|O_EXCL) + ownership token UUID (xem docs/ENGINE-RUNBOOK.md). Không bao giờ force-unlock ownership không rõ ràng.
 
+Hợp đồng unhealthy: MỌI lock còn giữ mà treo quá ngưỡng (`--lock-stale-hours`, mặc định 2h) là KHÔNG KHỎE — watchdog báo `STALE_LOCK` (exit 1), KỂ CẢ khi hiện tại `unfinished_work == 0` (lock mồ côi). Lý do: operator preflight coi `writer-lock.active` tồn tại hoặc `writer-lock.json` `locked: true` là lock đang được giữ và chặn MỌI mutation tiếp theo, nên một lock mồ côi treo vẫn kìm sản xuất — nó KHÔNG phải `HEALTHY_IDLE`. Watchdog KHÔNG bao giờ tự xoá/force-unlock lock; mọi dọn lock phải qua mục này.
+
 - Nếu có chủ lock rõ ràng (holder, token, started_at): liên hệ chủ lock trước; chỉ can thiệp khi `expires_at` đã quá hạn, chủ không còn commit/hoạt động, và có bằng chứng.
 - Ghi đè lock chỉ khi sentinel không tồn tại nhưng `writer-lock.json` còn `locked: true` mồ côi (crash giữa acquire): đặt metadata về unlocked nhất quán, ghi rõ lý do + thời điểm vào `note`.
 - Không xóa sentinel còn sống của writer khác; không gọi release với token không phải của mình (release là no-op an toàn khi token lệch).

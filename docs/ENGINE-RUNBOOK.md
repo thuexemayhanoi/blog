@@ -163,14 +163,17 @@ thiep, 2 = loi du lieu):
 |-----------------------|--------------------------------------------|-------|
 | DEGRADED_STATE_FILES  | state file thieu/hong JSON               | Kiem data/state/* |
 | STALE_TXN             | txn active >= 3h                           | operator recover |
-| STALE_LOCK            | lock treo >= 2h VA con vie do              | RECOVERY.md (khong force-unlock) |
+| STALE_LOCK            | lock con giu, treo >= 2h (KE CA mo coi khong vie do) | RECOVERY.md (khong force-unlock) |
 | STALE_CHECKPOINT      | con vie do, checkpoint im lang >= 24h     | Kiem tay + verify |
 | STALLED_ACTIVE        | con vie do, khong lock/txn, im lang >= 6h | hoan tat hoac release-chunk |
 | HEALTHY_ACTIVE        | txn/lock con tuoi                         | Khong lam gi |
 | HEALTHY_IDLE          | khong viec do, khong txn/lock             | Khong lam gi |
 
-- Lock treo ma queue rong (khong in-flight) -> HEALTHY_IDLE (lock mo coi
-  khong chan san xuat); chi STALE_LOCK khi con vie do that su.
+- Moi lock con giu ma treo qua nguong -> STALE_LOCK (exit 1), KE CA lock
+  mo coi khi khong con vie do: operator preflight coi writer-lock.active
+  ton tai hoac writer-lock.json locked=true la lock dang giu va chan moi
+  mutation, nen lock mo coi KHONG phai HEALTHY_IDLE. Watchdog khong bao gio
+  tu xoa/force-unlock — can thiep theo docs/RECOVERY.md.
 - Nghieng: --lock-stale-hours/--txn-stale-hours/
   --checkpoint-stale-hours/--active-stale-hours/--now (test),
   WATCHDOG_JSON dong doc may.
