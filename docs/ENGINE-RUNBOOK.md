@@ -163,17 +163,18 @@ thiep, 2 = loi du lieu):
 |-----------------------|--------------------------------------------|-------|
 | DEGRADED_STATE_FILES  | state file thieu/hong JSON               | Kiem data/state/* |
 | STALE_TXN             | txn active >= 3h                           | operator recover |
-| STALE_LOCK            | lock con giu, treo >= 2h (KE CA mo coi khong vie do) | RECOVERY.md (khong force-unlock) |
+| STALE_LOCK            | lock treo >= 2h (BAT KY: con HAY 0 vie do) | RECOVERY.md (khong force-unlock) |
 | STALE_CHECKPOINT      | con vie do, checkpoint im lang >= 24h     | Kiem tay + verify |
 | STALLED_ACTIVE        | con vie do, khong lock/txn, im lang >= 6h | hoan tat hoac release-chunk |
 | HEALTHY_ACTIVE        | txn/lock con tuoi                         | Khong lam gi |
 | HEALTHY_IDLE          | khong viec do, khong txn/lock             | Khong lam gi |
 
-- Moi lock con giu ma treo qua nguong -> STALE_LOCK (exit 1), KE CA lock
-  mo coi khi khong con vie do: operator preflight coi writer-lock.active
-  ton tai hoac writer-lock.json locked=true la lock dang giu va chan moi
-  mutation, nen lock mo coi KHONG phai HEALTHY_IDLE. Watchdog khong bao gio
-  tu xoa/force-unlock — can thiep theo docs/RECOVERY.md.
+- BAT KY lock dang giu qua nguong (>= 2h) deu la STALE_LOCK exit 1, KE
+  CA khi 0 vie do: factory-operator preflight coi moi lock dang giu
+  (locked=true / sentinel writer-lock.active) la "dang chan" va tu choi
+  mutation -> lock mo coi stale KHONG phai HEALTHY_IDLE. Watchdog van
+  READ-ONLY: khong tu xoa, khong force-unlock — don qua operator chuan
+  (RECOVERY.md).
 - Nghieng: --lock-stale-hours/--txn-stale-hours/
   --checkpoint-stale-hours/--active-stale-hours/--now (test),
   WATCHDOG_JSON dong doc may.

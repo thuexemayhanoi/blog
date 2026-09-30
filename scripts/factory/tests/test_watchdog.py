@@ -187,14 +187,20 @@ class WatchdogStateTest(unittest.TestCase):
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
         self.assertEqual(state_of(r)['state'], 'STALE_LOCK')
 
-    def test_08_stale_orphan_lock_without_work_is_stale(self):
+    def test_08_stale_orphan_lock_without_work_is_stale_lock(self):
+        # Lock mồ côi stale + 0 việc dở: operator preflight vẫn coi lock
+        # đang giữ là held -> chặn mọi mutation -> KHÔNG THỂ là HEALTHY_IDLE.
         release_all_work(self.work)
         set_lock(self.work, True, age_h=3)         # lock mồ côi, queue rỗng
+        before = tree_digest(self.work)
         r = run_watchdog(self.work)
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
         st = state_of(r)
         self.assertEqual(st['state'], 'STALE_LOCK')
-        self.assertIn('lock mồ côi', r.stdout)
+        self.assertIn('mồ côi', r.stdout)
+        # READ-ONLY: watchdog KHÔNG tự xoá / force-unlock lock mồ côi
+        self.assertEqual(tree_digest(self.work), before,
+                         'watchdog ĐÃ WRITE — vi phạm hợp đồng READ-ONLY')
 
     def test_09_stalled_active_chunk_abandoned(self):
         # còn WRITING, không lock/txn, checkpoint im lặng 7h (ngưỡng 6h)
