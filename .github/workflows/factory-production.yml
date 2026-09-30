@@ -15,6 +15,9 @@ name: Factory production
 #   next    — prepare-next: claim N hang PLANNED (count 1-10, mac dinh 5)
 #   qa      — QA deterministic cho hang WRITING/QA/REPAIR (--ids tuy chon)
 #   publish — promote hang PASS qua publish-gate.py (BU bat buoc --ids)
+#   refill  — materialize hang PLANNED moi tu refill ledger (semantic:
+#             SUCCESS bat buoc tao work that; het candidate STAGED ->
+#             NEEDS_TOPIC_EXPANSION, KHONG filler)
 #
 # Moi op san xuat chay --scope fast (validate chunk + suite nhanh).
 # Recover chay TRUOC moi op mutating (transaction treo khong deadlock
@@ -34,7 +37,7 @@ on:
   workflow_dispatch:
     inputs:
       action:
-        description: 'status | resume | next | qa | publish'
+        description: 'status | resume | next | qa | publish | refill'
         required: true
         type: string
       count:
@@ -78,7 +81,7 @@ jobs:
         run: |
           set -eu
           case "$ACTION" in
-            status|resume|next|qa|publish) ;;
+            status|resume|next|qa|publish|refill) ;;
             *) echo "::error::action khong ho tro: $ACTION"; exit 1 ;;
           esac
           if [ "$ACTION" = "next" ] && [ -n "$COUNT" ]; then
@@ -130,6 +133,10 @@ jobs:
         run: |
           set -eu
           python3 scripts/factory/factory-operator.py publish --ids "$IDS" --scope fast
+
+      - name: op refill
+        if: env.ACTION == 'refill'
+        run: python3 scripts/factory/factory-operator.py refill
 
       - name: Commit va push fast-forward (rebase phai validate lai, khong force push)
         run: |
