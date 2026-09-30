@@ -1178,7 +1178,7 @@ def op_refill(args):
     holder = 'operator-refill-%s' % uuid.uuid4().hex[:8]
     release = with_lock(holder)
     try:
-        rr = subprocess.run([sys.executable, 'scripts/factory/refill-queue.py'],
+        rr = subprocess.run([sys.executable, 'scripts/factory/refill-queue.py', '--refill', '--yes'],
                             capture_output=True, text=True)
         print(rr.stdout[-2000:])
         if rr.returncode != 0:
