@@ -6,7 +6,7 @@ Sinh bởi `scripts/factory/generate-reports.py`. Mốc dữ liệu: 2026-09-30.
 - Matrix: TẠO MỚI theo phê duyệt chủ xe 2026-09-27 (không phải khôi phục) — 971 hàng tổng, phân tích chống trùng: `reports/factory/matrix-report.md`
 - Taxonomy: 7 parent hub, 56 child hub (khôi phục từ seed)
 - Inventory: 483 bài legacy, 100% ánh xạ, URL giữ nguyên
-- Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 463, 'BLOCKED': 1, 'WRITING': 5, 'PLANNED': 19}
+- Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 463, 'BLOCKED': 1, 'PASS': 1, 'REPAIR': 4, 'PLANNED': 19}
 - Tiến độ (bảo toàn, không reset): last_completed_article_id=BLG-00947, in_progress_chunk=['BLG-00948', 'BLG-00949', 'BLG-00950', 'BLG-00951', 'BLG-00952']
 - Bài xuất bản qua factory: 463
 - REVIEW legacy chờ xử lý: 10
