@@ -1,7 +1,0 @@
-{
-  "op": "qa",
-  "ids": "BLG-00958,BLG-00959,BLG-00960,BLG-00961,BLG-00962",
-  "scope": "fast",
-  "command_id": "campaign10k-chunk29-qa",
-  "coordinator": "vibe-operator-round5"
-}
