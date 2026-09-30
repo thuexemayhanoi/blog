@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y.md",
+  "source_path": "_posts/2026-09-30-gui-xe-qua-em-o-pho-co-ha-noi-gia-va-luu-y.md",
   "content_sha256": "1e8bdca6eb912336ed8bcf9b58e9c5629f53c12c43bc2f504f8439d276379e7f",
-  "matrix_row_sha256": "1e6067dc1178eb3a5df710cbe94d1cd56662641dd357127d2b51d8c2422b3964",
-  "result": "PASS"
+  "matrix_row_sha256": "405cc7bcb8f4c8a907ed4ae3842fd68621829ed2d082396b9d167073f041dff6",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:58:37+00:00"
 }

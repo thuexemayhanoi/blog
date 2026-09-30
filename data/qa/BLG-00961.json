@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-cho-thung-hang-nang-tren-xe-may-an-toan.md",
+  "source_path": "_posts/2026-09-30-cho-thung-hang-nang-tren-xe-may-an-toan.md",
   "content_sha256": "fb1f8872ef05839a63b940e4764318385b37350b0de81dd3bd7ae23c6b7c82b2",
-  "matrix_row_sha256": "c811c733c05f90d8053cdeea746cbc67769e6839131e39d1b6aa642b60b47d98",
-  "result": "PASS"
+  "matrix_row_sha256": "c6ba5960deff3d90da602a0de16e470e21a00d48267708aab0c4a702e68aa908",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:58:37+00:00"
 }

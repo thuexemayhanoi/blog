@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-ha-noi-i-mai-chau-mua-lua-chin-bang-xe-may.md",
+  "source_path": "_posts/2026-09-30-ha-noi-i-mai-chau-mua-lua-chin-bang-xe-may.md",
   "content_sha256": "1dbd8beaa6e17bed04925ae32c754365cf8c87aa1a062d2aec0b42ff76ef57d0",
-  "matrix_row_sha256": "3726e179cf4d79359fbbdf7e7ecdb3a68d1d94c8ed2d5798d00a17895c650ea4",
-  "result": "PASS"
+  "matrix_row_sha256": "4d1118136e7c3d4868b563bfda67fb8310596105db09f0c3c4ba8ebfdf049734",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:58:37+00:00"
 }

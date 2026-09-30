@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao.md",
+  "source_path": "_posts/2026-09-30-gap-oan-ruoc-tren-uong-hep-xu-ly-the-nao.md",
   "content_sha256": "7a1e84f391d8ee5a7ea5214be531da6b47236afb9540500d52b956c46fa26c80",
-  "matrix_row_sha256": "0c4ea2f41740d447101d0080f436c89d8611ebfbc2ea90c9d4ce4f5078949f60",
-  "result": "PASS"
+  "matrix_row_sha256": "a9195c5869496bd99f47deabae14311b5b0040e2adacf4c8d97bde89767eac13",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:58:37+00:00"
 }

@@ -40,8 +40,9 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-09-30-chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi.md",
+  "source_path": "_posts/2026-09-30-chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi.md",
   "content_sha256": "ba66e2fa2eaf96aa5703bb6e480c11aafa232f9cb6cda8a5970a717683ac289c",
-  "matrix_row_sha256": "4a59910424841fb93bcc51f1fb04a18813c83d3b24c9f4964552ad2d94afbdc7",
-  "result": "PASS"
+  "matrix_row_sha256": "35712c94f0820480b4bcc5aeab542d9ec101ee63a053c38f3f2566bdfc51e4c9",
+  "result": "PASS",
+  "published_at": "2026-09-30T02:58:37+00:00"
 }
