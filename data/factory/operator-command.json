@@ -1,0 +1,7 @@
+{
+  "op": "prepare-next",
+  "count": 5,
+  "scope": "fast",
+  "command_id": "campaign10k-chunk30-prepare",
+  "coordinator": "vibe-operator-round5"
+}
