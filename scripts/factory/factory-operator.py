@@ -1237,6 +1237,32 @@ def op_refill(args):
     holder = 'operator-refill-%s' % uuid.uuid4().hex[:8]
     release = with_lock(holder)
     try:
+        # Refill làm ĐỔI số hàng matrix/seed → report topic-universe (các
+        # số CURRENT_ROWS / CURRENT_SEEDED_ROWS / RESERVED_CAPACITY đọc
+        # từ matrix hiện tại) PHẢI được tái sinh trong CÙNG run. Không
+        # có bước này, bot commit đẩy report cũ (drift) và Factory
+        # validate fail ở bước "Topic universe must be idempotent".
+        # expand-topic-universe.py idempotent theo thiết kế: pool finite,
+        # nhận 0 khi đã dùng hết; nếu nó ghi thêm seed (mở rộng thật qua
+        # gate) thì tái sinh matrix NGAY để cây nhất quán trước reports.
+        seed_bytes_pre = open('data/state/matrix-seed.json', 'rb').read()
+        ex = subprocess.run([sys.executable,
+                             'scripts/factory/expand-topic-universe.py'],
+                            capture_output=True, text=True)
+        print(ex.stdout[-800:])
+        if ex.returncode != 0:
+            print('refill: expand-topic-universe.py FAIL khi refresh report '
+                  'topic-universe — DỪNG, KHÔNG khai thành công.')
+            return 1
+        if open('data/state/matrix-seed.json', 'rb').read() != seed_bytes_pre:
+            gm = subprocess.run([sys.executable,
+                                 'scripts/factory/generate-matrix.py'],
+                                capture_output=True, text=True)
+            print(gm.stdout[-500:])
+            if gm.returncode != 0:
+                print('refill: generate-matrix.py FAIL sau expand — DỪNG, '
+                      'KHÔNG khai thành công.')
+                return 1
         rows_after = load_matrix()
         planned_after = [x['id'] for x in rows_after
                          if x['status'] == 'PLANNED']

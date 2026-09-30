@@ -27,6 +27,10 @@ Cac nhom test (temp fixture, KHONG cham production state):
       lock sach
   T6  writer-lock dang bi writer khac giu -> tu choi an toan, khong
       mutate, khong force-unlock
+  T8  report topic-universe khong drift sau refill: op refill PHAI
+      refresh report trong cung run (regression 2026-09-30: bot commit
+      day report cu -> Factory validate fail "Topic universe must be
+      idempotent"); expand chay lai sau refill phai idempotent
   T7  (regression chinh, ngam trong T1): neu operator quay lai chi chay
       'refill-queue.py' --plan roi bao thanh cong, planned se khong tang
       -> semantic postcondition FAIL -> op tra rc=1 -> T1 FAIL
@@ -159,7 +163,8 @@ def make_fixture(ledger_candidates=None, head_seq=None):
               'scripts/factory/factory-operator.py',
               'scripts/factory/publish-gate.py',
               'scripts/factory/queue.py',
-              'scripts/factory/generate-matrix.py'):
+              'scripts/factory/generate-matrix.py',
+              'scripts/factory/expand-topic-universe.py'):
         shutil.copy(os.path.join(ROOT, p), os.path.join(work, p))
     # generate-matrix.py liet ke _posts/ va ghi reports/factory/
     shutil.copytree(os.path.join(ROOT, '_posts'), os.path.join(work, '_posts'))
@@ -375,6 +380,36 @@ def main():
     record('T1f. moi hang cu giu nguyen (id, title, status) — '
            'regression truot id khi tai sinh',
            not drift, 'drift=%d %s' % (len(drift), drift[:5]))
+
+    # ============ T8. REPORT TOPIC-UNIVERSE KHONG DRIFT SAU REFILL =====
+    # Regression 2026-09-30: refill làm đổi số hàng matrix/seed nhưng bot
+    # commit vẫn đẩy report topic-universe CŨ → Factory validate fail ở
+    # bước "Topic universe must be idempotent (no drift)". Op refill PHAI
+    # refresh report trong CÙNG run (expand idempotent, nhận 0 mới khi
+    # pool đã dùng hết). Với op refill cũ (không refresh), fixture không
+    # có report → test này FAIL.
+    tu = os.path.join(w1, 'reports/factory/topic-universe.md')
+    h_tu = file_hash(tu)
+    h_tax1 = file_hash(os.path.join(
+        w1, 'data/state/taxonomy-config.json'))
+    tu_txt = open(tu, encoding='utf-8').read() if h_tu else ''
+    row_line = ('| CURRENT_ROWS (matrix trước mở rộng) | %d |'
+                % after1['rows'])
+    ex8 = subprocess.run(
+        [sys.executable, 'scripts/factory/expand-topic-universe.py'],
+        cwd=w1, capture_output=True, text=True)
+    record('T8. sau refill: report topic-universe duoc op refresh '
+           '(CURRENT_ROWS=%d), expand chay lai idempotent khong drift'
+           % after1['rows'],
+           h_tu is not None
+           and row_line in tu_txt
+           and ex8.returncode == 0
+           and file_hash(tu) == h_tu
+           and file_hash(os.path.join(
+               w1, 'data/state/taxonomy-config.json')) == h_tax1
+           and file_hash(os.path.join(
+               w1, 'data/state/matrix-seed.json')) == after1['h_seed'],
+           'tu_exists=%s rc=%d' % (h_tu is not None, ex8.returncode))
 
     # ============ T3. REFILL LAN HAI: IDEMPOTENT, KHONG DUPLICATE ========
     rc3, _op3, out3 = run_op(w1)

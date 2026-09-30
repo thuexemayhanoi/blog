@@ -242,10 +242,16 @@ class ManifestPrefix(unittest.TestCase):
             r = run(work, 'scripts/factory/generate-matrix.py')
             self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
             rows = load_rows(work)
-            # Ưu tiên manifest đã có sẵn trong repo (WRITING/PASS là hàng đã
-            # được generator sinh internal_links chuẩn /blog). Operator TỪ
+            # Ưu tiên manifest đã có sẵn trong repo (WRITING/PASS/REPAIR là
+            # hàng đã được generator sinh internal_links chuẩn /blog).
+            # REPAIR cũng phải được dùng: giữa chunk (QA fail → repair)
+            # không còn hàng WRITING/PASS nào — nếu không, test rơi vào
+            # nhánh borrow + prepare-next và operator TỪ CHỐI vì chunk
+            # đang mở → Factory validate đỏ chỉ vì đang giữa chunk
+            # (state-dependent, không phải lỗi nội dung). Operator TỪ
             # CHỐI claim thêm khi transaction/chunk đang mở là ĐÚNG thiết kế.
-            cand = [x for x in rows if x['status'] in ('WRITING', 'PASS')]
+            cand = [x for x in rows if x['status']
+                    in ('WRITING', 'PASS', 'REPAIR')]
             mf = None
             for x in cand:
                 pp = os.path.join(work, 'reports/factory/rows',
