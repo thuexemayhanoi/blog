@@ -3,7 +3,7 @@
 Sinh boi scripts/factory/refill-queue.py --verify. Deterministic: chi phu thuoc matrix + ledger + capacity.
 CI chi IN bao cao (stdout/summary) - KHONG BAO GIO commit bao cao.
 
-- Candidates staged: 29
+- Candidates staged: 66
 - Rejected recorded: 6
 - Gate violations: 0
 - RESULT: PASS
@@ -16,35 +16,72 @@ CI chi IN bao cao (stdout/summary) - KHONG BAO GIO commit bao cao.
 
 | candidate | child | kw | word |
 |---|---|---|---|
-| CAND-2026-001-001 | C-THUE-GIA | giá thuê xe máy tết hà nội | 1400 |
-| CAND-2026-001-002 | C-THUE-THU-TUC | thuê xe máy không cần đặt cọc | 1300 |
-| CAND-2026-001-003 | C-THUE-QUOC-TE | giấy tờ thuê xe máy cho khách quốc tế | 1400 |
-| CAND-2026-001-004 | C-THUE-SU-CO | xe thuê bị thủng lốp xử lý | 1200 |
-| CAND-2026-001-005 | C-XE-DIEN | xe máy điện chạy được bao xa | 1300 |
-| CAND-2026-001-006 | C-HONDA-WAVE | chạy honda wave đường đèo | 1400 |
-| CAND-2026-001-007 | C-BAO-DUONG | chăm ắc quy xe máy mùa đông | 1300 |
-| CAND-2026-001-008 | C-BAO-HIEM | bảo hiểm tự nguyện xe máy va chạm | 1400 |
-| CAND-2026-001-009 | C-PHAT-NGUOI | tra phạt nguội xe máy thuê | 1200 |
-| CAND-2026-001-010 | C-DIEM-DEN | vòng hồ gươm buổi sáng | 1200 |
-| CAND-2026-001-011 | C-BAO-TANG | bảo tàng dân tộc học đi xe máy | 1300 |
-| CAND-2026-001-012 | C-HO-TAY | chạy xe quanh hồ tây | 1300 |
-| CAND-2026-001-013 | C-LONG-BIEN | đi xe máy qua cầu long biên | 1200 |
-| CAND-2026-001-014 | C-CD-CUOI-TUAN | phượt tràng an bằng xe máy | 1400 |
-| CAND-2026-001-015 | C-CD-CUOI-TUAN | chạy xe máy đi chùa hương | 1400 |
-| CAND-2026-001-016 | C-CD-MAI-CHAU | hà nội mai châu mùa lúa chín | 1400 |
-| CAND-2026-001-017 | C-KY-NANG-TINH-HUONG | gặp đoàn rước trên đường | 1200 |
-| CAND-2026-001-018 | C-KY-NANG-THOI-TIET | chạy xe máy khi mưa lớn | 1300 |
-| CAND-2026-001-019 | C-KY-NANG-CHO-DO | chở hàng nặng trên xe máy | 1200 |
-| CAND-2026-001-020 | C-KY-NANG-GUI-XE | gửi xe qua đêm phố cổ hà nội | 1200 |
-| CAND-2026-001-021 | C-HD-GIA | thuê xe máy 3 ngày giá | 1200 |
-| CAND-2026-001-022 | C-HD-THU-TUC | thuê xe máy cần hộ chiếu không | 1200 |
-| CAND-2026-001-023 | C-HD-PHAP-LY | đi xe thuê không giấy phép lái xe | 1400 |
-| CAND-2026-001-024 | C-HD-CHON-XE | thuê vision hay air blade | 1300 |
-| CAND-2026-001-025 | C-HD-SU-CO | xe thuê mất chìa khóa | 1200 |
-| CAND-2026-001-026 | C-HD-NGUOI-MOI | lần đầu thuê xe máy hà nội | 1200 |
-| CAND-2026-001-027 | C-THUE-DOI-TUONG | thuê xe máy cho người lớn tuổi | 1300 |
-| CAND-2026-001-029 | C-XE-KHAC-PHUC | xe thuê chết máy giữa đường | 1300 |
-| CAND-2026-001-030 | C-XE-SO-SANH | so sánh sirius và wave | 1300 |
+| CAND-2026-09-30-001 | C-DIEM-DEN | đến Chợ Đồng Xuân bằng xe máy | 1200 |
+| CAND-2026-09-30-002 | C-DIEM-DEN | kinh nghiệm đi Chợ Đồng Xuân | 1200 |
+| CAND-2026-09-30-003 | C-DIEM-DEN | lưu ý chạy xe gần Chợ Đồng Xuân | 1200 |
+| CAND-2026-09-30-004 | C-DIEM-DEN | đến Nhà thờ Lớn Hà Nội bằng xe máy | 1200 |
+| CAND-2026-09-30-005 | C-DIEM-DEN | kinh nghiệm đi Nhà thờ Lớn Hà Nội | 1200 |
+| CAND-2026-09-30-006 | C-DIEM-DEN | lưu ý chạy xe gần Nhà thờ Lớn Hà Nội | 1200 |
+| CAND-2026-09-30-007 | C-DIEM-DEN | đến Bảo tàng Hỏa Lò bằng xe máy | 1200 |
+| CAND-2026-09-30-008 | C-DIEM-DEN | kinh nghiệm đi Bảo tàng Hỏa Lò | 1200 |
+| CAND-2026-09-30-009 | C-DIEM-DEN | lưu ý chạy xe gần Bảo tàng Hỏa Lò | 1200 |
+| CAND-2026-09-30-010 | C-DIEM-DEN | đến Nhà hát Lớn Hà Nội bằng xe máy | 1200 |
+| CAND-2026-09-30-011 | C-DIEM-DEN | kinh nghiệm đi Nhà hát Lớn Hà Nội | 1200 |
+| CAND-2026-09-30-012 | C-DIEM-DEN | lưu ý chạy xe gần Nhà hát Lớn Hà Nội | 1200 |
+| CAND-2026-09-30-013 | C-DIEM-DEN | đến Hồ Thiền Quang bằng xe máy | 1200 |
+| CAND-2026-09-30-014 | C-DIEM-DEN | kinh nghiệm đi Hồ Thiền Quang | 1200 |
+| CAND-2026-09-30-015 | C-DIEM-DEN | lưu ý chạy xe gần Hồ Thiền Quang | 1200 |
+| CAND-2026-09-30-016 | C-DIEM-DEN | đến Cột Cờ Hà Nội bằng xe máy | 1200 |
+| CAND-2026-09-30-017 | C-DIEM-DEN | kinh nghiệm đi Cột Cờ Hà Nội | 1200 |
+| CAND-2026-09-30-018 | C-DIEM-DEN | lưu ý chạy xe gần Cột Cờ Hà Nội | 1200 |
+| CAND-2026-09-30-019 | C-CD-CUOI-TUAN | hà nội đi Thung Nai bằng xe máy | 1400 |
+| CAND-2026-09-30-020 | C-CD-CUOI-TUAN | nghỉ chân đường đi Thung Nai | 1200 |
+| CAND-2026-09-30-021 | C-CD-CUOI-TUAN | hà nội đi hồ Đại Lải bằng xe máy | 1400 |
+| CAND-2026-09-30-022 | C-CD-CUOI-TUAN | nghỉ chân đường đi hồ Đại Lải | 1200 |
+| CAND-2026-09-30-023 | C-CD-CUOI-TUAN | hà nội đi Suối Tơ bằng xe máy | 1400 |
+| CAND-2026-09-30-024 | C-CD-CUOI-TUAN | nghỉ chân đường đi Suối Tơ | 1200 |
+| CAND-2026-09-30-025 | C-CD-CUOI-TUAN | hà nội đi Đền Sóc bằng xe máy | 1400 |
+| CAND-2026-09-30-026 | C-CD-CUOI-TUAN | nghỉ chân đường đi Đền Sóc | 1200 |
+| CAND-2026-09-30-027 | C-CD-CUOI-TUAN | hà nội đi Thác Bồ bằng xe máy | 1400 |
+| CAND-2026-09-30-028 | C-CD-CUOI-TUAN | nghỉ chân đường đi Thác Bồ | 1200 |
+| CAND-2026-09-30-029 | C-THUE-GIA | giá thuê xe máy theo giờ | 1300 |
+| CAND-2026-09-30-030 | C-THUE-GIA | chi phí thuê xe giao tận nơi | 1300 |
+| CAND-2026-09-30-031 | C-THUE-GIA | giá thuê xe máy theo khu vực hà nội | 1300 |
+| CAND-2026-09-30-032 | C-THUE-GIA | chi phí thuê xe máy cho khách quốc tế | 1300 |
+| CAND-2026-09-30-033 | C-THUE-GIA | giá thuê xe máy cao cấp | 1300 |
+| CAND-2026-09-30-034 | C-THUE-THU-TUC | hủy đặt xe máy thuê | 1300 |
+| CAND-2026-09-30-035 | C-THUE-THU-TUC | thanh toán chuyển khoản thuê xe máy | 1300 |
+| CAND-2026-09-30-036 | C-THUE-THU-TUC | thuê xe máy cho đoàn nhóm | 1300 |
+| CAND-2026-09-30-037 | C-THUE-THU-TUC | điều khoản bồi thường hợp đồng thuê xe | 1400 |
+| CAND-2026-09-30-038 | C-THUE-THANG | thuê xe máy tháng cho shipper | 1400 |
+| CAND-2026-09-30-039 | C-THUE-THANG | thuê xe tháng cho thợ tại nhà | 1300 |
+| CAND-2026-09-30-040 | C-THUE-TUAN | thuê xe tuần cho du khách | 1300 |
+| CAND-2026-09-30-041 | C-THUE-TUAN | thuê xe tuần về quê | 1200 |
+| CAND-2026-09-30-042 | C-THUE-QUOC-TE | khách quốc tế đi ninh bình bằng xe máy | 1400 |
+| CAND-2026-09-30-043 | C-THUE-QUOC-TE | gửi xe cho khách quốc tế | 1200 |
+| CAND-2026-09-30-044 | C-THUE-QUOC-TE | ứng dụng bản đồ cho khách quốc tế | 1200 |
+| CAND-2026-09-30-045 | C-THUE-QUOC-TE | khách quốc tế thuê xe mùa mưa | 1300 |
+| CAND-2026-09-30-046 | C-THUE-QUOC-TE | người nước ngoài bị kiểm tra giấy tờ | 1300 |
+| CAND-2026-09-30-047 | C-THUE-DAT-COC | đặt cọc thuê xe ga cao cấp | 1300 |
+| CAND-2026-09-30-048 | C-THUE-DAT-COC | đặt cọc qua ví điện tử | 1200 |
+| CAND-2026-09-30-049 | C-THUE-DAT-COC | đặt cọc khi giao xe tận nơi | 1200 |
+| CAND-2026-09-30-050 | C-KY-NANG-CO-BAN | cách vượt xe an toàn | 1300 |
+| CAND-2026-09-30-051 | C-KY-NANG-CO-BAN | khoảng cách an toàn xe máy | 1300 |
+| CAND-2026-09-30-052 | C-KY-NANG-CO-BAN | hạ dốc bằng xe ga | 1300 |
+| CAND-2026-09-30-053 | C-QUY-DINH | quy định tốc độ xe máy | 1300 |
+| CAND-2026-09-30-054 | C-QUY-DINH | chở hàng cồng kềnh xe máy | 1300 |
+| CAND-2026-09-30-055 | C-CD-NOI-THANH | cung cầu nhật tân ven sông | 1200 |
+| CAND-2026-09-30-056 | C-CD-NOI-THANH | cung hồ linh đàm | 1200 |
+| CAND-2026-09-30-057 | C-KY-NANG-GUI-XE | gửi xe khách sạn | 1200 |
+| CAND-2026-09-30-058 | C-BAO-HIEM | bồi thường bảo hiểm tnds | 1400 |
+| CAND-2026-09-30-059 | C-GPLX | bị tạm giữ bằng lái xe máy | 1300 |
+| CAND-2026-09-30-060 | C-PHAT-NGUOI | nộp phạt nguội online | 1300 |
+| CAND-2026-09-30-061 | C-THUE-NGAY | thuê xe ngày đi phố hiến | 1300 |
+| CAND-2026-09-30-062 | C-THUE-NGAY | thuê xe đi chùa tây phương | 1300 |
+| CAND-2026-09-30-063 | C-CD-MOC-CHAU | hà nội đi thác dải yếm | 1300 |
+| CAND-2026-09-30-064 | C-CD-MAI-CHAU | bản lác mai châu xe máy | 1200 |
+| CAND-2026-09-30-065 | C-CD-HA-GIANG | sông nho quế bằng xe máy | 1300 |
+| CAND-2026-09-30-066 | C-CD-HA-GIANG | chợ phiên đồng văn | 1200 |
 
 ## Rejected (ghi lai ly do)
 
