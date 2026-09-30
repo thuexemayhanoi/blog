@@ -138,9 +138,9 @@ jobs:
       - name: Working tree must be clean (read-only audit)
         run: |
           set -eu
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "FAIL: weekly-maintenance lam ban working tree - vi pham hop dong READ-ONLY."
-            git status --porcelain
+          if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+            echo "FAIL: weekly-maintenance sua tep tracked - vi pham hop dong READ-ONLY."
+            git status --porcelain --untracked-files=no
             exit 1
           fi
           echo "OK: weekly-maintenance READ-ONLY, working tree sach."

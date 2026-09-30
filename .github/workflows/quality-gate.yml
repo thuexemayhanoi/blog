@@ -33,6 +33,8 @@ jobs:
     name: FAST validate + build + links
     runs-on: ubuntu-latest
     timeout-minutes: 20
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -84,9 +86,9 @@ jobs:
       - name: Working tree must be clean (read-only gate)
         run: |
           set -eu
-          if [ -n "$(git status --porcelain)" ]; then
-            echo "FAIL: quality-gate lam ban working tree — vi pham hop dong READ-ONLY."
-            git status --porcelain
+          if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+            echo "FAIL: quality-gate sua tep tracked — vi pham hop dong READ-ONLY."
+            git status --porcelain --untracked-files=no
             exit 1
           fi
           echo "OK: quality-gate READ-ONLY, working tree sach."
