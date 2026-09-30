@@ -25,14 +25,17 @@ Cac nhom test bat buoc:
 Khong cham du lieu that: toan bo test chay tren ban sao temp.
 Chay: python3 scripts/factory/tests/test_refill_safety.py
 """
+import csv
 import hashlib
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
 import threading
+import unicodedata
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
@@ -56,6 +59,62 @@ def tree_hash(path):
             h.update(os.path.relpath(fp, path).encode('utf-8'))
             h.update(open(fp, 'rb').read())
     return h.hexdigest()
+
+
+def _norm(s):
+    s = unicodedata.normalize('NFD', s or '')
+    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
+
+
+def synth_candidates(work, n=3):
+    """Candidate hop le G1-G8 tu sinh (hermetic): duong thanh cong
+    KHONG phu thuoc production ledger (sau refill that ledger rong,
+    operator verify full phai van PASS)."""
+    cap = json.load(open(os.path.join(
+        work, 'data/factory-capacity.json'), encoding='utf-8'))
+    tax = json.load(open(os.path.join(
+        work, 'data/state/taxonomy-config.json'), encoding='utf-8'))
+    tax2p = os.path.join(work, 'data/content-taxonomy.json')
+    tax2 = json.load(open(tax2p, encoding='utf-8')) \
+        if os.path.exists(tax2p) else {'children': []}
+    rows = list(csv.DictReader(open(
+        os.path.join(work, 'data/content-matrix.csv'),
+        encoding='utf-8', newline='')))
+    used = {}
+    for r in rows:
+        used[r['child_id']] = used.get(r['child_id'], 0) + 1
+    kids2 = set(c['child_id'] for c in tax2['children'])
+    cec = cap['child_editorial_capacity']
+    kids = ([c[0] for c in tax['children'] if c[0] in kids2]
+            if kids2 else [c[0] for c in tax['children']])
+    kid = max(kids, key=lambda k: cec.get(k, 0) - used.get(k, 0))
+    kw = set((r['child_id'], _norm(r['primary_keyword']))
+             for r in rows if r['primary_keyword'])
+    it = set((r['child_id'], _norm(r['intent']))
+             for r in rows if r['intent'])
+    titles = set(_norm(r['title']) for r in rows)
+    outs = set(r['output_path'] for r in rows)
+    cands = []
+    i = 0
+    while len(cands) < n:
+        i += 1
+        c = {'candidate_id': 'CAND-HERMETIC-%03d' % i,
+             'child_id': kid,
+             'title': 'Kiem thu hermetic refill lan %d' % i,
+             'intent': 'y dang kiem thu hermetic %d' % i,
+             'kw': 'hermetic refill kw %d' % i,
+             'kw2': [], 'links': [], 'subtopic': 'hermetic-test',
+             'audience': 'kiem thu tu dong', 'location_scope': 'Ha Noi',
+             'word_target': 1200}
+        if (_norm(c['title']) in titles
+                or (kid, _norm(c['kw'])) in kw
+                or (kid, _norm(c['intent'])) in it
+                or ('_posts/{date}-%s.md'
+                    % _norm(c['title']).replace(' ', '-')) in outs):
+            continue  # va cham hiem hoi: tang bien dem va thu lai
+        cands.append(c)
+    return cands
 
 
 def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None,
@@ -89,12 +148,13 @@ def make_fixture(mutate_txn=None, head_seq=None, ledger_candidates=None,
         txn['active'] = True
         json.dump(txn, open(p, 'w', encoding='utf-8'),
                   ensure_ascii=False, indent=2)
-    if ledger_candidates is not None:
-        p = os.path.join(work, 'data/state/refill-candidates.json')
-        led = json.load(open(p, encoding='utf-8'))
-        led['candidates'] = ledger_candidates
-        json.dump(led, open(p, 'w', encoding='utf-8'),
-                  ensure_ascii=False, indent=2)
+    if ledger_candidates is None:
+        ledger_candidates = synth_candidates(work)
+    p = os.path.join(work, 'data/state/refill-candidates.json')
+    led = json.load(open(p, encoding='utf-8'))
+    led['candidates'] = ledger_candidates
+    json.dump(led, open(p, 'w', encoding='utf-8'),
+              ensure_ascii=False, indent=2)
     if head_seq is not None:
         # monkeypatch git_head: tra lan luot cac SHA trong head_seq
         p = os.path.join(work, 'scripts/factory/refill-queue.py')

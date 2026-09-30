@@ -11,7 +11,8 @@ workflow bao SUCCESS nhung queue KHONG BAO GIO co hang PLANNED moi
   Het candidate STAGED -> NEEDS_TOPIC_EXPANSION (exit 1), KHONG filler.
 
 Cac nhom test (temp fixture, KHONG cham production state):
-  T1  happy path: 29 candidate STAGED -> op refill rc=0, seed/matrix/
+  T1  happy path: candidate STAGED (tu sinh hermetic) -> op refill
+      rc=0, seed/matrix/
       planned tang, next_claimable_id != null, txn inactive, lock sach,
       ledger STAGED -> MATERIALIZED
   T1b chong duplicate: id/slug/canonical/keyword/intent moi KHONG trung
@@ -33,15 +34,18 @@ Cac nhom test (temp fixture, KHONG cham production state):
 
 Chay: python3 scripts/factory/tests/test_refill_semantics.py
 """
+import csv
 import hashlib
 import importlib.util
 import io
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
+import unicodedata
 from contextlib import redirect_stdout
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
@@ -76,6 +80,62 @@ def file_hash(path):
     return hashlib.sha256(open(path, 'rb').read()).hexdigest()
 
 
+def _norm(s):
+    s = unicodedata.normalize('NFD', s or '')
+    s = ''.join(c for c in s if unicodedata.category(c) != 'Mn')
+    return re.sub(r'[^a-z0-9 ]', '', s.lower()).strip()
+
+
+def synth_candidates(work, n=3):
+    """Candidate hop le G1-G8 tu sinh (hermetic): T1 khong phu thuoc
+    production ledger (sau refill that ledger rong — operator verify
+    full chay tren state moi phai van PASS)."""
+    cap = json.load(open(os.path.join(
+        work, 'data/factory-capacity.json'), encoding='utf-8'))
+    tax = json.load(open(os.path.join(
+        work, 'data/state/taxonomy-config.json'), encoding='utf-8'))
+    tax2p = os.path.join(work, 'data/content-taxonomy.json')
+    tax2 = json.load(open(tax2p, encoding='utf-8')) \
+        if os.path.exists(tax2p) else {'children': []}
+    rows = list(csv.DictReader(open(
+        os.path.join(work, 'data/content-matrix.csv'),
+        encoding='utf-8', newline='')))
+    used = {}
+    for r in rows:
+        used[r['child_id']] = used.get(r['child_id'], 0) + 1
+    kids2 = set(c['child_id'] for c in tax2['children'])
+    cec = cap['child_editorial_capacity']
+    kids = ([c[0] for c in tax['children'] if c[0] in kids2]
+            if kids2 else [c[0] for c in tax['children']])
+    kid = max(kids, key=lambda k: cec.get(k, 0) - used.get(k, 0))
+    kw = set((r['child_id'], _norm(r['primary_keyword']))
+             for r in rows if r['primary_keyword'])
+    it = set((r['child_id'], _norm(r['intent']))
+             for r in rows if r['intent'])
+    titles = set(_norm(r['title']) for r in rows)
+    outs = set(r['output_path'] for r in rows)
+    cands = []
+    i = 0
+    while len(cands) < n:
+        i += 1
+        c = {'candidate_id': 'CAND-HERMETIC-%03d' % i,
+             'child_id': kid,
+             'title': 'Kiem thu hermetic refill lan %d' % i,
+             'intent': 'y dang kiem thu hermetic %d' % i,
+             'kw': 'hermetic refill kw %d' % i,
+             'kw2': [], 'links': [], 'subtopic': 'hermetic-test',
+             'audience': 'kiem thu tu dong', 'location_scope': 'Ha Noi',
+             'word_target': 1200}
+        if (_norm(c['title']) in titles
+                or (kid, _norm(c['kw'])) in kw
+                or (kid, _norm(c['intent'])) in it
+                or ('_posts/{date}-%s.md'
+                    % _norm(c['title']).replace(' ', '-')) in outs):
+            continue
+        cands.append(c)
+    return cands
+
+
 def make_fixture(ledger_candidates=None, head_seq=None):
     """Ban sao temp hoan chinh: op + engine + du lieu + _posts that.
 
@@ -104,12 +164,13 @@ def make_fixture(ledger_candidates=None, head_seq=None):
     # generate-matrix.py liet ke _posts/ va ghi reports/factory/
     shutil.copytree(os.path.join(ROOT, '_posts'), os.path.join(work, '_posts'))
     os.makedirs(os.path.join(work, 'reports/factory'))
-    if ledger_candidates is not None:
-        p = os.path.join(work, 'data/state/refill-candidates.json')
-        led = json.load(open(p, encoding='utf-8'))
-        led['candidates'] = ledger_candidates
-        json.dump(led, open(p, 'w', encoding='utf-8'),
-                  ensure_ascii=False, indent=2)
+    if ledger_candidates is None:
+        ledger_candidates = synth_candidates(work)
+    p = os.path.join(work, 'data/state/refill-candidates.json')
+    led = json.load(open(p, encoding='utf-8'))
+    led['candidates'] = ledger_candidates
+    json.dump(led, open(p, 'w', encoding='utf-8'),
+              ensure_ascii=False, indent=2)
     if head_seq is None:
         head_seq = _CONST_HEADS
     p = os.path.join(work, 'scripts/factory/refill-queue.py')
@@ -370,7 +431,8 @@ def main():
            and after4['h_ledger'] == before4['h_ledger']
            and after4['h_cp'] == before4['h_cp']
            and len(after4['staged']) == len(before4['staged'])
-           and len(after4['materialized']) == 0
+           and len(after4['materialized'])
+           == len(before4['materialized'])
            and lock_clean(w4),
            'rc=%d staged=%d materialized=%d'
            % (rc4, len(after4['staged']), len(after4['materialized'])))
