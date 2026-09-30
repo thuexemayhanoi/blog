@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T19:25:15+00:00",
+  "updated_at": "2026-09-30T19:31:27+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00955",
-      "started_at": "2026-09-30T02:36:10+00:00",
-      "source": "_drafts/2026-09-30-i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat.md",
-      "destination": "_posts/2026-09-30-i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f2690ae701068764be62c005f09657d3509c0f4d",
-      "finished_at": "2026-09-30T02:36:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00956",
-      "started_at": "2026-09-30T02:36:10+00:00",
-      "source": "_drafts/2026-09-30-phuot-trang-an-cuoi-tuan-bang-xe-may-tu-ha-noi.md",
-      "destination": "_posts/2026-09-30-phuot-trang-an-cuoi-tuan-bang-xe-may-tu-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f2690ae701068764be62c005f09657d3509c0f4d",
-      "finished_at": "2026-09-30T02:36:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00957",
       "started_at": "2026-09-30T02:36:10+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "ba166110da8c666cd629048ca37f8b60431f1771",
       "finished_at": "2026-09-30T19:25:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00980",
+      "started_at": "2026-09-30T19:31:27+00:00",
+      "source": "_drafts/2026-09-30-ieu-khoan-boi-thuong-trong-hop-ong-thue-xe-may.md",
+      "destination": "_posts/2026-09-30-ieu-khoan-boi-thuong-trong-hop-ong-thue-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a3a8cddc51c81524ca10160ae777e2b36ec0a2b2",
+      "finished_at": "2026-09-30T19:31:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00981",
+      "started_at": "2026-09-30T19:31:27+00:00",
+      "source": "_drafts/2026-09-30-thue-xe-may-mot-ngay-i-pho-hien-hung-yen.md",
+      "destination": "_posts/2026-09-30-thue-xe-may-mot-ngay-i-pho-hien-hung-yen.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a3a8cddc51c81524ca10160ae777e2b36ec0a2b2",
+      "finished_at": "2026-09-30T19:31:27+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
