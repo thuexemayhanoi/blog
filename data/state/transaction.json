@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T20:56:38+00:00",
+  "updated_at": "2026-09-30T20:58:42+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00987",
-      "started_at": "2026-09-30T19:57:52+00:00",
-      "source": "_drafts/2026-09-30-at-coc-khi-thue-xe-ga-cao-cap-o-ha-noi.md",
-      "destination": "_posts/2026-09-30-at-coc-khi-thue-xe-ga-cao-cap-o-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6d78eab7af680b1c5cd8986f830815a838399370",
-      "finished_at": "2026-09-30T19:57:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00988",
-      "started_at": "2026-09-30T20:03:10+00:00",
-      "source": "_drafts/2026-09-30-at-coc-qua-vi-ien-tu-khi-thue-xe-may.md",
-      "destination": "_posts/2026-09-30-at-coc-qua-vi-ien-tu-khi-thue-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7d4cf7422671f87b86d0274312616a1f3f9fde43",
-      "finished_at": "2026-09-30T20:03:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00989",
       "started_at": "2026-09-30T20:03:10+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6c80b564dc4ab054876b800a0ddbce829b47c068",
       "finished_at": "2026-09-30T20:56:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01012",
+      "started_at": "2026-09-30T20:58:42+00:00",
+      "source": "_drafts/2026-09-30-en-ho-thien-quang-bang-xe-may-gui-xe-va-uong-i.md",
+      "destination": "_posts/2026-09-30-en-ho-thien-quang-bang-xe-may-gui-xe-va-uong-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "46e420ec9cfac3378a644311c4fb406dbe9e8a0e",
+      "finished_at": "2026-09-30T20:58:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01013",
+      "started_at": "2026-09-30T20:58:42+00:00",
+      "source": "_drafts/2026-09-30-kinh-nghiem-ghe-tham-ho-thien-quang-nua-ngay.md",
+      "destination": "_posts/2026-09-30-kinh-nghiem-ghe-tham-ho-thien-quang-nua-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "46e420ec9cfac3378a644311c4fb406dbe9e8a0e",
+      "finished_at": "2026-09-30T20:58:42+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
