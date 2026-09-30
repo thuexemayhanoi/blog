@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T20:03:10+00:00",
+  "updated_at": "2026-09-30T20:10:28+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00965",
-      "started_at": "2026-09-30T12:37:55+00:00",
-      "source": "_drafts/2026-09-30-i-xe-may-thue-khong-co-gplx-bi-xu-ly-ra-sao.md",
-      "destination": "_posts/2026-09-30-i-xe-may-thue-khong-co-gplx-bi-xu-ly-ra-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": null,
-      "finished_at": "2026-09-30T12:37:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00966",
-      "started_at": "2026-09-30T12:37:55+00:00",
-      "source": "_drafts/2026-09-30-nen-thue-vision-hay-air-blade-khi-i-pho.md",
-      "destination": "_posts/2026-09-30-nen-thue-vision-hay-air-blade-khi-i-pho.md",
-      "result": "PUBLISHED",
-      "commit_sha": null,
-      "finished_at": "2026-09-30T12:37:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00967",
       "started_at": "2026-09-30T12:37:55+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "7d4cf7422671f87b86d0274312616a1f3f9fde43",
       "finished_at": "2026-09-30T20:03:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00990",
+      "started_at": "2026-09-30T20:10:28+00:00",
+      "source": "_drafts/2026-09-30-khach-quoc-te-tu-lai-xe-may-tu-ha-noi-i-ninh-binh.md",
+      "destination": "_posts/2026-09-30-khach-quoc-te-tu-lai-xe-may-tu-ha-noi-i-ninh-binh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "be2dec90b96527455953307f0773814220283868",
+      "finished_at": "2026-09-30T20:10:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-00991",
+      "started_at": "2026-09-30T20:10:28+00:00",
+      "source": "_drafts/2026-09-30-gui-xe-o-ha-noi-huong-dan-cho-khach-quoc-te.md",
+      "destination": "_posts/2026-09-30-gui-xe-o-ha-noi-huong-dan-cho-khach-quoc-te.md",
+      "result": "PUBLISHED",
+      "commit_sha": "be2dec90b96527455953307f0773814220283868",
+      "finished_at": "2026-09-30T20:10:28+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
