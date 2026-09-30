@@ -1,5 +1,5 @@
 {
   "op": "reports",
-  "command_id": "campaign10k-topic-universe-resync",
-  "coordinator": "vibe-operator-round3"
+  "command_id": "campaign10k-topic-universe-resync-r2",
+  "coordinator": "vibe-operator-round5"
 }
