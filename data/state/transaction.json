@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-09-30T20:58:42+00:00",
+  "updated_at": "2026-09-30T21:00:26+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-00989",
-      "started_at": "2026-09-30T20:03:10+00:00",
-      "source": "_drafts/2026-09-30-at-coc-khi-nhan-xe-may-giao-tan-noi.md",
-      "destination": "_posts/2026-09-30-at-coc-khi-nhan-xe-may-giao-tan-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7d4cf7422671f87b86d0274312616a1f3f9fde43",
-      "finished_at": "2026-09-30T20:03:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-00990",
-      "started_at": "2026-09-30T20:10:28+00:00",
-      "source": "_drafts/2026-09-30-khach-quoc-te-tu-lai-xe-may-tu-ha-noi-i-ninh-binh.md",
-      "destination": "_posts/2026-09-30-khach-quoc-te-tu-lai-xe-may-tu-ha-noi-i-ninh-binh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "be2dec90b96527455953307f0773814220283868",
-      "finished_at": "2026-09-30T20:10:28+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-00991",
       "started_at": "2026-09-30T20:10:28+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "46e420ec9cfac3378a644311c4fb406dbe9e8a0e",
       "finished_at": "2026-09-30T20:58:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01014",
+      "started_at": "2026-09-30T21:00:26+00:00",
+      "source": "_drafts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-ho-thien-quang.md",
+      "destination": "_posts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-ho-thien-quang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5a778f51aa686c3b3a3d9288c6d949a815626e86",
+      "finished_at": "2026-09-30T21:00:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01015",
+      "started_at": "2026-09-30T21:00:26+00:00",
+      "source": "_drafts/2026-09-30-en-cot-co-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
+      "destination": "_posts/2026-09-30-en-cot-co-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5a778f51aa686c3b3a3d9288c6d949a815626e86",
+      "finished_at": "2026-09-30T21:00:26+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
