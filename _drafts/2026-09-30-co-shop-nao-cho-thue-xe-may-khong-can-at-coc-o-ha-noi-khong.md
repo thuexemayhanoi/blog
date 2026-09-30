@@ -21,7 +21,7 @@ Một quy trình cho thuê xe máy thông thường gồm ba bước: trình gi�
 
 Điểm cần biết: không có quy định nào buộc mọi cửa hàng phải thu cọc theo một mức chung, cũng như không có quy định buộc phải thu cọc bằng tiền mặt. Thực tế ở Hà Nội có nhiều hình thức bảo đảm khác nhau tùy nơi, và mỗi cửa hàng tự quyết chính sách của mình. Vì vậy thuê xe máy không cần đặt cọc hay không phụ thuộc vào chính sách từng địa điểm, không thể khẳng định chung cho cả thành phố.
 
-## Các hình thức thay thế tiền cọc thường gặp
+## Thuê xe máy không cần đặt cọc: các hình thức bảo đảm thay thế
 
 Hình thức thứ nhất là giữ giấy tờ thay tiền: một số nơi nhận giấy tờ tùy thân bản gốc hoặc bản photo có công chứng làm bảo đảm trong thời gian thuê. Ưu điểm là bạn không cần mang theo tiền, nhược điểm là bạn không có giấy tờ gốc trong người suốt chuyến đi, điều cần cân nhắc nếu chuyến đi cần xuất trình giấy tờ ở khách sạn hay khi bị kiểm tra.
 

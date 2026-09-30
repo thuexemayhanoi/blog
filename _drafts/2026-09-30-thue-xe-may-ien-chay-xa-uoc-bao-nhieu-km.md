@@ -15,7 +15,7 @@ article_id: BLG-00947
 
 Xe máy điện ngày càng phổ biến trong đội xe cho thuê ở Hà Nội: chạy êm, không tốn tiền xăng lắt nhắt, và phù hợp quãng đường đi lại trong nội đô. Nhưng câu hỏi khiến nhiều người chần chừ nhất khi chọn dòng này vẫn là xe máy điện chạy được bao xa trong một lần sạc, đặc biệt khi lịch trình có cả những chuyến xa hơn quãng đường phố. Bài này giải thích vì sao con số quãng đường không cố định, những yếu tố nào làm nó thay đổi, và cách tính cho đúng kế hoạch của bạn trước khi nhận xe.
 
-## Vì sao không có một con số chung cho mọi dòng xe
+## Xe máy điện chạy được bao xa: vì sao không có một con số chung cho mọi dòng xe
 
 Quãng đường chạy được của xe máy điện phụ thuộc trước hết vào bình pin: xe dùng pin nhỏ kiểu xe đạp điện có quãng đường khác hẳn xe máy điện đời mới pin lớn, bài [phân biệt xe đạp điện và xe máy điện](/blog/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/) giải thích rõ khác biệt giữa hai nhóm này. Trong cùng một cửa hàng, các đời xe trong kho có thể khác nhau về dung lượng pin, số năm sử dụng pin và chế độ vận hành, nên hai chiếc xe trông giống nhau có thể cho quãng đường khác nhau. Vì vậy, khi hỏi đi xa bằng xe điện được không, câu trả lời có giá trị nhất luôn là con số cho đúng chiếc xe bạn sắp nhận, lấy trực tiếp từ cửa hàng, chứ không phải một mức trung bình chung cho cả nhóm xe điện.
 

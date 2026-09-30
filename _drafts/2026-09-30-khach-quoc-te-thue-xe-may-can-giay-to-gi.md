@@ -13,15 +13,17 @@ child_id: C-THUE-QUOC-TE
 article_id: BLG-00945
 ---
 
-Hà Nội đón lượng lớn khách quốc tế đến du lịch, công tác và thăm thân, và xe máy là phương tiện nhiều khách nước ngoài ưa chuộng để di chuyển trong thành phố. Tuy nhiên, khác với khách nội địa quen với quy trình thuê, khách quốc tế thường bối rối ở đúng một khâu: giấy tờ thuê xe máy cho khách quốc tế gồm những gì, và cần chuẩn bị trước khi đến cửa hàng ra sao. Bài này đi qua từng loại giấy tờ, từng bước chuẩn bị và những điểm cần xác nhận trước để cuộc thuê xe của người nước ngoài diễn ra gọn gàng.
+Hà Nội đón lượng lớn khách quốc tế đến du lịch và công tác, và xe máy là phương tiện nhiều khách nước ngoài ưa chuộng để di chuyển trong thành phố. Khác với khách nội địa, khách quốc tế thường bối rối ở đúng một khâu: giấy tờ thuê xe máy cho khách quốc tế gồm những gì, và cần chuẩn bị trước khi đến cửa hàng ra sao. Bài này đi qua từng loại giấy tờ, từng bước chuẩn bị và những điểm cần xác nhận trước để cuộc thuê xe của người nước ngoài diễn ra gọn gàng.
 
 ## Vì sao giấy tờ với khách quốc tế cần chuẩn bị kỹ hơn
 
-Với khách nội địa, giấy tờ thuê xe thường chỉ là một loại chứng minh nhân dụng để đối chiếu khi ký hợp đồng. Với khách quốc tế, giấy tờ làm thêm hai việc: xác định danh tính theo giấy tờ do nước ngoài cấp, và gắn với tình trạng lưu trú hợp pháp tại Việt Nam của người thuê trong thời gian thuê xe. Câu hỏi người nước ngoài thuê xe cần gì, vì thế, không dừng ở một danh sách giấy tờ cứng nhắc mà cần trả lời theo từng loại hình lưu trú và từng kế hoạch di chuyển. Cửa hàng cần ghi thông tin người thuê vào hợp đồng để quản lý tài sản, vì vậy giấy tờ không chỉ là thủ tục mà là điều kiện để hợp đồng có giá trị đối chiếu khi cần. Trình tự chung cho khách lần đầu thuê nằm trong bài [thủ tục thuê xe máy ở Hà Nội cho người mới](/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/).
+Với khách nội địa, giấy tờ thuê xe thường chỉ là một loại chứng minh nhân dụng để đối chiếu khi ký hợp đồng. Với khách quốc tế, giấy tờ làm thêm hai việc: xác định danh tính theo giấy tờ do nước ngoài cấp, và gắn với tình trạng lưu trú hợp pháp tại Việt Nam của người thuê trong thời gian thuê xe. Câu hỏi người nước ngoài thuê xe cần gì, vì thế, không dừng ở một danh sách giấy tờ cứng nhắc mà cần trả lời theo từng loại hình lưu trú và từng kế hoạch di chuyển. Cửa hàng cần ghi thông tin người thuê vào hợp đồng để quản lý tài sản, vì vậy giấy tờ không chỉ là thủ tục mà là điều kiện để hợp đồng có giá trị đối chiếu khi cần.
+
+Trình tự chung cho khách lần đầu thuê nằm trong bài [thủ tục thuê xe máy ở Hà Nội cho người mới](/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/).
 
 Điểm cần lưu ý đầu tiên: giấy tờ mang theo phải là bản gốc, không phải ảnh chụp trên điện thoại. Các cửa hàng cho thuê uy tín đều đối chiếu bản gốc trước khi giao xe, vì đây là cách bảo vệ cho cả hai bên. Chuyên mục [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) gom các điều kiện và lưu ý dành riêng cho nhóm khách nước ngoài, còn trang chủ đề [thuê xe máy Hà Nội](/blog/thue-xe/) giải thích trình tự thuê cho mọi đối tượng.
 
-## Bộ giấy tờ cơ bản cần mang theo
+## Bộ giấy tờ thuê xe máy cho khách quốc tế cần mang theo
 
 Thứ nhất là hộ chiếu còn hiệu lực, trang có ảnh và thông tin cá nhân. Hộ chiếu là giấy tờ định danh chuẩn của khách quốc tế khi làm mọi thủ tục tại Việt Nam, kể cả ký hợp đồng thuê xe. Nên mang theo cả trang có dấu nhập cảnh để trình khi được yêu cầu.
 

@@ -13,9 +13,9 @@ child_id: C-THUE-SU-CO
 article_id: BLG-00946
 ---
 
-Thủng lốp là sự cố xe máy phổ biến nhất trên đường Việt Nam: vệt đinh rơi từ xe chở hàng, ổ gà che miệng lốp va liếp, hoặc lốp mòn tự xịt giữa chừng. Với xe của mình, bạn có thể chậm rãi xử lý, nhưng tình huống thủng lốp khi thuê xe luôn căng hơn: xe không phải của mình, đang trong hợp đồng, và bạn không biết chi phí phát sinh ai chịu. Bài này xếp các bước xử lý đúng trình tự, từ lúc nghe tiếng xì tới lúc bàn giao xe lại cho cửa hàng.
+Thủng lốp là sự cố xe máy phổ biến nhất trên đường Việt Nam: vệt đinh rơi từ xe chở hàng, ổ gà che miệng lốp va liếp, hoặc lốp mòn tự xịt giữa chừng. Với xe của mình bạn có thể chậm rãi xử lý, nhưng xe thuê bị thủng lốp xử lý thế nào luôn là tình huống căng hơn: xe không phải của mình, đang trong hợp đồng, và bạn không biết chi phí phát sinh ai chịu. Bài này xếp các bước xử lý đúng trình tự, từ lúc nghe tiếng xì tới lúc bàn giao xe lại cho cửa hàng.
 
-## Bước một: giữ an toàn trước khi nghĩ đến xe
+## Xe thuê bị thủng lốp xử lý: bước một giữ an toàn trước khi nghĩ đến xe
 
 Ngay khi cảm giác xe đụng dội, tay lái nặng lệch hoặc nghe tiếng xì, đừng phanh gấp giữa làn đường. Giảm tốc độ từ từ, bật đèn xi nhan, quan sát gương rồi tấp vào lề hoặc vị trí đỗ an toàn. Nếu đang trên đường đông như các trục quanh phố cổ hay cầu Long Biên giờ cao điểm, dừng hẳn vào sát vỉa hè, bật đèn khẩn cấp nếu có, và đẩy xe ra khỏi phần đường xe chạy nếu có thể. An toàn của bạn và xe sau quan trọng hơn mọi thiệt hại của lốp.
 
