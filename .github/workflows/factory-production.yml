@@ -35,8 +35,7 @@ name: Factory production
 #
 # workflow_dispatch chi con op BAO TRI (docs/PROC-PUBLISH.md):
 #   status       — in trang thai engine (read-only)
-#   recover      — recover transaction/lock treo (FAIL-CLOSE
-D)
+#   recover      — recover transaction/lock treo (FAIL-CLOSED)
 #   refill       — materialize hang PLANNED khi het PLANNED (semantic:
 #                  SUCCESS bat buoc tao work that; het candidate STAGED
 #                  -> NEEDS_TOPIC_EXPANSION, KHONG filler)
@@ -109,8 +108,7 @@ jobs:
         if: github.event_name == 'workflow_dispatch'
         run: |
           set -eu
-          case "$AC
-TION" in
+          case "$ACTION" in
             status|recover|refill|diagnostics) ;;
             *) echo "::error::action khong ho tro: $ACTION (chi status|recover|refill|diagnostics)"; exit 1 ;;
           esac
@@ -154,8 +152,7 @@ TION" in
                    sel['refill_advised']))
           if sel['mode'] == 'paused':
               print('production-control: enabled=false — DUNG SACH TRUOC KHI CLAIM (khong QA/publish lan nay)')
-          if sel['refuse']
-:
+          if sel['refuse']:
               raise SystemExit('REFUSED: %s' % sel['refuse'])
           EOF
 
@@ -200,8 +197,7 @@ TION" in
             echo "khong co hang PASS trong lan QA nay — hang REPAIR cho writer sua draft roi push lai (repair push)"
           fi
 
-      - name: Light smoke (validate chunk + queue stats, read-only
-)
+      - name: Light smoke (validate chunk + queue stats, read-only)
         if: github.event_name == 'push' && steps.select.outputs.proceed == 'true'
         run: |
           set -eu
@@ -263,8 +259,7 @@ TION" in
             git fetch origin main
             if ! git rebase origin/main; then
               git rebase --abort || true
-       
-       echo "::error::rebase conflict - STOP, khong force push; resume lan chay sau tu repository truth"
+              echo "::error::rebase conflict - STOP, khong force push; resume lan chay sau tu repository truth"
               exit 1
             fi
             echo "OPERATOR_LOCAL_VERIFY_HEAD_POST_REBASE=$(git rev-parse HEAD)"

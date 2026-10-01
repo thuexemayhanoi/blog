@@ -44,8 +44,7 @@ refill — xem bước 0):
 
 1. `scripts/factory/push-selection.py` chọn EXACT ID từ file draft
    ADDED/MODIFIED của push: mode NEW (hàng PLANNED có draft) → claim đúng
-  
- ID đó; mode REPAIR (hàng WRITING/QA/REPAIR/PASS) → chỉ QA/publish ID
+   ID đó; mode REPAIR (hàng WRITING/QA/REPAIR/PASS) → chỉ QA/publish ID
    sửa; mode SKIP (no-op) → exit 0. REFUSE (exit 3, fail-closed):
    >2 ID (chunk_size), ID trùng, thiếu/sai `article_id`, ID không có
    trong matrix, ID đã PUBLISHED/EXISTING (KHÔNG BAO GIỜ ghi đè), hàng
@@ -82,8 +81,7 @@ chẩn đoán. Workflow tự chạy `recover` trước mọi op mutating.
 ## Manifest writer (export bởi prepare-next)
 
 Path: `reports/factory/rows/<BLG-ID>.json`. Writer ngoài đọc manifest và
-viết draft đúng `draft_path`. Manifest chứa: t
-itle/intent/keyword,
+viết draft đúng `draft_path`. Manifest chứa: title/intent/keyword,
 URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 `data/business-facts.json`), source_required/legal_risk/research_class
 (theo `docs/SOURCE-RESEARCH.md`), ứng viên liên kết nội bộ (theo
@@ -120,8 +118,7 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
    ngày thật vào URL, cập nhật matrix + checkpoint; sinh reports +
    verify theo scope fast; workflow commit + push fast-forward.
 5. Chờ Quality gate xanh trên đúng HEAD + Pages deploy SUCCESS + kiểm tra
-   live URL 200 + sitem
-ap.
+   live URL 200 + sitemap.
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
@@ -166,7 +163,6 @@ FULL giữ cho thay đổi engine/workflow và kiểm tra cuối đợt
 
 - QA deterministic TỪNG BÀI của chunk hiện tại: cấu trúc, frontmatter,
   H1/H2, title, meta description, canonical/permalink, taxonomy, link
-
   nội bộ (route thật + baseurl /blog), business facts, cannibalization,
   legal/source gate khi bắt buộc, quality/SEO theo rubric.
 - validate.py `--scope chunk`: nền bắt buộc + bằng chứng QA của chunk.
