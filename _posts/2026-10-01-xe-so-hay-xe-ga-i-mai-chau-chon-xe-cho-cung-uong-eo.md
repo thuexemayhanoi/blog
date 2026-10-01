@@ -8,7 +8,7 @@ categories: [Kinh nghiệm]
 lang: vi
 tags: [xe số hay xe ga đi mai châu, chọn xe đi mai châu, "thuê xe máy hà nội"]
 permalink: /cung-duong/2026/10/01/xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo/
-parent_id: P-DU-LICH
+parent_id: P-CUNG-DUONG
 child_id: C-CD-MAI-CHAU
 article_id: BLG-01059
 ---

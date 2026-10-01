@@ -8,7 +8,7 @@ categories: [Kinh nghiệm]
 lang: vi
 tags: [đi mai châu qua đèo thung khe, đèo thung khe chạy xe, "thuê xe máy hà nội"]
 permalink: /cung-duong/2026/10/01/i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo/
-parent_id: P-DU-LICH
+parent_id: P-CUNG-DUONG
 child_id: C-CD-MAI-CHAU
 article_id: BLG-01058
 ---

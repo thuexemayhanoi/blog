@@ -8,7 +8,7 @@ categories: [Kinh nghiệm]
 lang: vi
 tags: [đi công viên yên sở bằng xe máy, đỗ xe công viên yên sở, "thuê xe máy hà nội"]
 permalink: /cung-duong/2026/10/01/i-cong-vien-yen-so-bang-xe-may-cho-o-xe-va-uong-vao/
-parent_id: P-DU-LICH
+parent_id: P-CUNG-DUONG
 child_id: C-CD-NOI-THANH
 article_id: BLG-01057
 ---

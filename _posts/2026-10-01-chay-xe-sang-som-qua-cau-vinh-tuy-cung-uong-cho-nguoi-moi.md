@@ -8,7 +8,7 @@ categories: [Kinh nghiệm]
 lang: vi
 tags: [chạy xe sáng sớm cầu vĩnh tuy, cầu vĩnh tuy chạy xe buổi sáng, "thuê xe máy hà nội"]
 permalink: /cung-duong/2026/10/01/chay-xe-sang-som-qua-cau-vinh-tuy-cung-uong-cho-nguoi-moi/
-parent_id: P-DU-LICH
+parent_id: P-CUNG-DUONG
 child_id: C-CD-NOI-THANH
 article_id: BLG-01056
 ---
