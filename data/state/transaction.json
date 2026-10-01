@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T12:04:52+00:00",
+  "updated_at": "2026-10-01T12:11:40+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01067",
-      "started_at": "2026-10-01T08:18:26+00:00",
-      "source": "_drafts/2026-10-01-chon-xe-may-i-pu-luong-mua-mua-luu-y-uong-tron.md",
-      "destination": "_posts/2026-10-01-chon-xe-may-i-pu-luong-mua-mua-luu-y-uong-tron.md",
-      "result": "PUBLISHED",
-      "commit_sha": "697eed50bc30583cfd237266ac47f163ab305688",
-      "finished_at": "2026-10-01T08:18:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01068",
-      "started_at": "2026-10-01T08:25:25+00:00",
-      "source": "_drafts/2026-10-01-chinh-phuc-inh-mau-son-bang-xe-may-cung-uong-eo.md",
-      "destination": "_posts/2026-10-01-chinh-phuc-inh-mau-son-bang-xe-may-cung-uong-eo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "889a62efec4dcfde4f4cc1e630e45c9cd0f5489e",
-      "finished_at": "2026-10-01T08:25:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01069",
       "started_at": "2026-10-01T08:25:25+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "ce6c840ef95f5041826b99a9a580c3635048b129",
       "finished_at": "2026-10-01T12:04:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01106",
+      "started_at": "2026-10-01T12:11:40+00:00",
+      "source": "_drafts/2026-10-01-gui-xe-khi-ve-khuya-cho-giu-tan-noi-va-luu-y-an-toan.md",
+      "destination": "_posts/2026-10-01-gui-xe-khi-ve-khuya-cho-giu-tan-noi-va-luu-y-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bbf57691d776a9dec5cdc11587ae93e29216bd17",
+      "finished_at": "2026-10-01T12:11:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01107",
+      "started_at": "2026-10-01T12:11:40+00:00",
+      "source": "_drafts/2026-10-01-nguoi-ve-que-an-tet-thue-xe-may-nhan-xe-va-giu-xe-qua-le.md",
+      "destination": "_posts/2026-10-01-nguoi-ve-que-an-tet-thue-xe-may-nhan-xe-va-giu-xe-qua-le.md",
+      "result": "PUBLISHED",
+      "commit_sha": "bbf57691d776a9dec5cdc11587ae93e29216bd17",
+      "finished_at": "2026-10-01T12:11:40+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
