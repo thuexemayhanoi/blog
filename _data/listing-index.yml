@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 51
   size: 12
-  total: 603
+  total: 605
 chia-se:
   pages: 10
   size: 12
@@ -20,6 +20,10 @@ topic:
     pages: 2
     size: 24
     total: 41
+  cung-duong_cung-duong-pho-bac:
+    pages: 2
+    size: 24
+    total: 25
   du-lich_diem-den:
     pages: 4
     size: 24
