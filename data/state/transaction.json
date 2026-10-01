@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T03:40:01+00:00",
+  "updated_at": "2026-10-01T03:43:45+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01015",
-      "started_at": "2026-09-30T21:00:26+00:00",
-      "source": "_drafts/2026-09-30-en-cot-co-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
-      "destination": "_posts/2026-09-30-en-cot-co-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5a778f51aa686c3b3a3d9288c6d949a815626e86",
-      "finished_at": "2026-09-30T21:00:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01016",
-      "started_at": "2026-09-30T21:02:11+00:00",
-      "source": "_drafts/2026-09-30-kinh-nghiem-ghe-tham-cot-co-ha-noi-nua-ngay.md",
-      "destination": "_posts/2026-09-30-kinh-nghiem-ghe-tham-cot-co-ha-noi-nua-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "18877634e5627bc03498216e150b41af67d4088c",
-      "finished_at": "2026-09-30T21:02:11+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01017",
       "started_at": "2026-09-30T21:02:11+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "317dd5b862656761150573147cbf624acb5ec30b",
       "finished_at": "2026-10-01T03:40:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01040",
+      "started_at": "2026-10-01T03:43:44+00:00",
+      "source": "_drafts/2026-10-01-en-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-uong-i.md",
+      "destination": "_posts/2026-10-01-en-bao-tang-lich-su-quan-su-viet-nam-bang-xe-may-gui-xe-va-uong-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8ddc1739c6b21918d04d05a208b2b60f48e65671",
+      "finished_at": "2026-10-01T03:43:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01041",
+      "started_at": "2026-10-01T03:43:45+00:00",
+      "source": "_drafts/2026-10-01-kinh-nghiem-ghe-tham-bao-tang-lich-su-quan-su-viet-nam-nua-ngay.md",
+      "destination": "_posts/2026-10-01-kinh-nghiem-ghe-tham-bao-tang-lich-su-quan-su-viet-nam-nua-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8ddc1739c6b21918d04d05a208b2b60f48e65671",
+      "finished_at": "2026-10-01T03:43:45+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
