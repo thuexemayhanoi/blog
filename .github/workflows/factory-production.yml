@@ -49,6 +49,12 @@ name: Factory production
 #   la tool chuan: recover truoc, khoa atomic O_EXCL, transaction
 #   inactive, gate G1-G8, KHONG filler. Refill FAIL (het pool STAGED ->
 #   NEEDS_TOPIC_EXPANSION) chi ::warning, KHONG chan lan publish vua roi.
+#   TU 2026-10-01 STAGING BATCH writer-side (topic expansion that,
+#   giong tien le 2026-09-30): script scripts/factory/stage-refill-batch.py
+#   --all stage moi batch data/factory/refill-batches/*.json vao ledger
+#   candidates (idempotent theo candidate_id) TRUOC op refill; batch
+#   phai qua gate G1-G8 refill-queue.py --verify, FAIL -> rollback
+#   ledger + exit 1 (fail-closed). KHONG filler, KHONG exception gate.
 #   diagnostics  — chan doan read-only (validate chunk + queue stats)
 #
 # BAI DA XUAN BAN khong bao gio bi de: publish-gate tu choi promote
@@ -209,6 +215,9 @@ jobs:
         run: |
           set -eu
           python3 scripts/factory/factory-operator.py recover
+          if ls data/factory/refill-batches/*.json >/dev/null 2>&1; then
+            python3 scripts/factory/stage-refill-batch.py --all
+          fi
           rc=0
           python3 scripts/factory/factory-operator.py refill || rc=$?
           if [ "$rc" -ne 0 ]; then
