@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T11:57:34+00:00",
+  "updated_at": "2026-10-01T12:00:02+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01063",
-      "started_at": "2026-10-01T08:00:21+00:00",
-      "source": "_drafts/2026-10-01-vuot-doc-tham-ma-ha-giang-bang-xe-may-meo-len-doc.md",
-      "destination": "_posts/2026-10-01-vuot-doc-tham-ma-ha-giang-bang-xe-may-meo-len-doc.md",
-      "result": "PUBLISHED",
-      "commit_sha": "93e4d8d7ed089cf1ceb1c2a5db8cf979bfdde88a",
-      "finished_at": "2026-10-01T08:00:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01064",
-      "started_at": "2026-10-01T08:09:28+00:00",
-      "source": "_drafts/2026-10-01-chay-xe-may-tu-ha-noi-i-ha-long-chuan-bi-va-iem-dung.md",
-      "destination": "_posts/2026-10-01-chay-xe-may-tu-ha-noi-i-ha-long-chuan-bi-va-iem-dung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5675c6f416e07bc9daed0fc4e940ec339e08be69",
-      "finished_at": "2026-10-01T08:09:28+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01065",
       "started_at": "2026-10-01T08:09:28+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "127a72247fdd41e64ad83cf60488c51e81743ba8",
       "finished_at": "2026-10-01T11:57:34+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01088",
+      "started_at": "2026-10-01T12:00:02+00:00",
+      "source": "_drafts/2026-10-01-thue-xe-may-nguyen-tuan-cho-nguoi-o-lai-ha-noi-cong-tac.md",
+      "destination": "_posts/2026-10-01-thue-xe-may-nguyen-tuan-cho-nguoi-o-lai-ha-noi-cong-tac.md",
+      "result": "PUBLISHED",
+      "commit_sha": "74213f1a5e50e7d66d4bba207691d6c8e81a50d2",
+      "finished_at": "2026-10-01T12:00:02+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01089",
+      "started_at": "2026-10-01T12:00:02+00:00",
+      "source": "_drafts/2026-10-01-thue-xe-thang-chay-ship-chon-xe-ben-va-giu-lich-bao-duong.md",
+      "destination": "_posts/2026-10-01-thue-xe-thang-chay-ship-chon-xe-ben-va-giu-lich-bao-duong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "74213f1a5e50e7d66d4bba207691d6c8e81a50d2",
+      "finished_at": "2026-10-01T12:00:02+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
