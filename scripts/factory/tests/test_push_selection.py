@@ -38,7 +38,8 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 from test_qa_modes import (FxTestCase, borrow_planned_row, cp_json,
-                            make_draft, matrix_rows)
+                            make_draft, matrix_rows, save_matrix,
+                            write_json)
 
 REAL_GUARD_FILES = [
     'data/content-matrix.csv',
@@ -224,13 +225,28 @@ class PushHotPathTest(FxTestCase):
     # --------------------------------- 7. PLANNED=0 -> refill path
 
     def test_7_planned_zero_refill_advised_no_filler(self):
+        # hermetic: ÉP fixture về đúng tiền đề PLANNED=0 — repo thật có
+        # thể đã có hàng PLANNED lúc chép (snapshot drift, vd 20 hàng
+        # refill-2026-09-30); test KHÔNG được phụ thuộc trạng thái sản
+        # xuất thật. Hàng PLANNED fixture -> BLOCKED (được bảo vệ, không
+        # claim được) + đồng bộ checkpoint counts cho validate khớp.
+        rows = matrix_rows(self.fx)
+        n_planned = sum(1 for r in rows if r['status'] == 'PLANNED')
+        if n_planned:
+            for r in rows:
+                if r['status'] == 'PLANNED':
+                    r['status'] = 'BLOCKED'
+                    r['notes'] = (r['notes'] + ' | ' if r['notes'] else '') \
+                        + 'fixture test_7: ép planned=0 (hermetic)'
+            save_matrix(self.fx, rows)
+            cp = cp_json(self.fx, 'data/state/checkpoint.json')
+            cp['counts']['planned'] = 0
+            cp['counts']['blocked'] = int(cp['counts'].get('blocked', 0)) \
+                + n_planned
+            write_json(self.fx, 'data/state/checkpoint.json', cp)
+        self.assertEqual(len(planned_rows(self.fx)), 0)
         before = open(os.path.join(self.fx, 'data/content-matrix.csv'),
                       'rb').read()
-        # fixture sao chép repo thật: planned có thể đã = 0 (trạng thái
-        # thật hiện tại) — xác nhận tiền đề hermetic
-        self.assertEqual(len(planned_rows(self.fx)),
-                         sum(1 for r in matrix_rows(self.fx)
-                             if r['status'] == 'PLANNED'))
         rc, sel = selection(self.fx)  # push rỗng/no-op
         self.assertEqual(sel['mode'], 'skip')
         self.assertFalse(sel['proceed'])
@@ -266,6 +282,14 @@ class PushHotPathTest(FxTestCase):
         by_id = {x['id']: x for x in matrix_rows(self.fx)}
         self.assertEqual(by_id[target]['status'], 'REPAIR')
         self.assertEqual(by_id[unrelated]['status'], 'PASS')
+        # NO DRAFT BACKLOG: bài PASS phải được publish NGAY trong cùng
+        # vòng (workflow chỉ publish PASS_IDS từ qa-outcome), bài REPAIR
+        # giữ nguyên là mục tiêu repair duy nhất
+        r = self.operator('publish', '--ids', unrelated, '--scope', 'fast')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        self.assertEqual(by_id[unrelated]['status'], 'PUBLISHED')
+        self.assertEqual(by_id[target]['status'], 'REPAIR')
         # writer sửa đúng draft hỏng rồi push lại: REPAIR push
         make_draft(self.fx, by_id[target])
         rc, sel = selection(self.fx, modified=[draft_rel(by_id[target])])
@@ -280,7 +304,7 @@ class PushHotPathTest(FxTestCase):
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         by_id = {x['id']: x for x in matrix_rows(self.fx)}
         self.assertEqual(by_id[target]['status'], 'PUBLISHED')
-        self.assertEqual(by_id[unrelated]['status'], 'PASS')
+        self.assertEqual(by_id[unrelated]['status'], 'PUBLISHED')
 
     # ------------------------------- 9. transaction/lock conflict
 
