@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T12:11:40+00:00",
+  "updated_at": "2026-10-01T12:13:15+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01069",
-      "started_at": "2026-10-01T08:25:25+00:00",
-      "source": "_drafts/2026-10-01-chay-xe-len-mau-son-mua-suong-thoi-iem-va-luu-y.md",
-      "destination": "_posts/2026-10-01-chay-xe-len-mau-son-mua-suong-thoi-iem-va-luu-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "889a62efec4dcfde4f4cc1e630e45c9cd0f5489e",
-      "finished_at": "2026-10-01T08:25:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01070",
-      "started_at": "2026-10-01T08:34:05+00:00",
-      "source": "_drafts/2026-10-01-chay-xe-may-tu-ha-noi-i-bien-hai-tien-lo-trinh-hai-ngay.md",
-      "destination": "_posts/2026-10-01-chay-xe-may-tu-ha-noi-i-bien-hai-tien-lo-trinh-hai-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ddd333dbd34547f7fd04e2d8bf8fb330cf9da39e",
-      "finished_at": "2026-10-01T08:34:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01071",
       "started_at": "2026-10-01T08:34:05+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "bbf57691d776a9dec5cdc11587ae93e29216bd17",
       "finished_at": "2026-10-01T12:11:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01090",
+      "started_at": "2026-10-01T12:13:15+00:00",
+      "source": "_drafts/2026-10-01-at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao.md",
+      "destination": "_posts/2026-10-01-at-coc-thue-xe-bang-chuyen-khoan-giu-lai-bang-chung-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "274d2bcde5b9633ce3bdf6b93e4479f64b42217a",
+      "finished_at": "2026-10-01T12:13:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01091",
+      "started_at": "2026-10-01T12:13:15+00:00",
+      "source": "_drafts/2026-10-01-khach-quoc-te-thue-xe-may-ha-noi-giay-to-va-cach-trao-oi.md",
+      "destination": "_posts/2026-10-01-khach-quoc-te-thue-xe-may-ha-noi-giay-to-va-cach-trao-oi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "274d2bcde5b9633ce3bdf6b93e4479f64b42217a",
+      "finished_at": "2026-10-01T12:13:15+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
