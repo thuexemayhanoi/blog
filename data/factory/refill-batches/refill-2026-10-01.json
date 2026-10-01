@@ -394,11 +394,12 @@
     {
       "candidate_id": "CAND-2026-10-01-023",
       "child_id": "C-CD-MOC-CHAU",
-      "title": "Hà Nội đi Mộc Châu bằng xe máy: quãng đường và chỗ nghỉ chân",
-      "intent": "Tìm quãng đường và chỗ nghỉ chân khi đi Mộc Châu từ Hà Nội",
-      "kw": "hà nội đi mộc châu bằng xe máy",
+      "title": "Đổ xăng và nghỉ chân trên quốc lộ 6 đi Mộc Châu: các điểm dừng",
+      "intent": "Tìm các điểm đổ xăng và nghỉ chân an toàn trên quốc lộ 6 đi Mộc Châu",
+      "kw": "điểm đổ xăng trên đường đi mộc châu",
       "kw2": [
-        "đi mộc châu bao xa"
+        "trạm xăng trên quốc lộ 6",
+        "nghỉ chân trên đường đi mộc châu"
       ],
       "links": [
         "/cung-duong/cung-duong-cuoi-tuan/"
@@ -732,11 +733,12 @@
     {
       "candidate_id": "CAND-2026-10-01-042",
       "child_id": "C-XE-KHAC-PHUC",
-      "title": "Xe thuê chết máy giữa đường: các bước xử lý an toàn",
-      "intent": "Tìm các bước xử lý khi xe thuê chết máy giữa đường",
-      "kw": "xe thuê chết máy giữa đường",
+      "title": "Đang đi xe thuê có mùi khét: dừng xe và kiểm tra đâu",
+      "intent": "Tìm nguyên nhân mùi khét trên xe máy thuê và cách xử lý an toàn",
+      "kw": "xe máy thuê có mùi khét",
       "kw2": [
-        "xe máy chết máy phải làm sao"
+        "mùi khét khi đang đi xe",
+        "nguyên nhân xe máy có mùi khét"
       ],
       "links": [
         "/thue-xe/su-co/",
