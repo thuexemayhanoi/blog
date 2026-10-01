@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T02:38:05+00:00",
+  "updated_at": "2026-10-01T03:40:01+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01013",
-      "started_at": "2026-09-30T20:58:42+00:00",
-      "source": "_drafts/2026-09-30-kinh-nghiem-ghe-tham-ho-thien-quang-nua-ngay.md",
-      "destination": "_posts/2026-09-30-kinh-nghiem-ghe-tham-ho-thien-quang-nua-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "46e420ec9cfac3378a644311c4fb406dbe9e8a0e",
-      "finished_at": "2026-09-30T20:58:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01014",
-      "started_at": "2026-09-30T21:00:26+00:00",
-      "source": "_drafts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-ho-thien-quang.md",
-      "destination": "_posts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-ho-thien-quang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5a778f51aa686c3b3a3d9288c6d949a815626e86",
-      "finished_at": "2026-09-30T21:00:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01015",
       "started_at": "2026-09-30T21:00:26+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "3f401c5548ec3813480f1f322d4bddb0d45c7632",
       "finished_at": "2026-10-01T02:38:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01038",
+      "started_at": "2026-10-01T03:40:00+00:00",
+      "source": "_drafts/2026-10-01-en-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-uong-i.md",
+      "destination": "_posts/2026-10-01-en-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-uong-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "317dd5b862656761150573147cbf624acb5ec30b",
+      "finished_at": "2026-10-01T03:40:00+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01039",
+      "started_at": "2026-10-01T03:40:01+00:00",
+      "source": "_drafts/2026-10-01-kinh-nghiem-ghe-tham-bao-tang-thien-nhien-viet-nam-nua-ngay.md",
+      "destination": "_posts/2026-10-01-kinh-nghiem-ghe-tham-bao-tang-thien-nhien-viet-nam-nua-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "317dd5b862656761150573147cbf624acb5ec30b",
+      "finished_at": "2026-10-01T03:40:01+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
