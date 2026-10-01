@@ -30,14 +30,19 @@ lenh nao chua implement. Chay tu goc repository.
   xuat CHAY THEO PUSH: writer push draft _drafts/ -> factory-production
   yml tu dong (push-selection.py chon EXACT ID -> prepare-next --ids
   -> qa --ids -> publish --ids --scope fast); workflow_dispatch chi
-  con op bao tri status/recover/refill/diagnostics. Workflow la TAY
+  con op bao tri status/recover/refill/diagnostics. TU 2026-10-01
+  REFILL PUSH-DRIVEN: push _drafts/ HOAC data/factory/refill-
+  request.json ma push-selection bao refill_advised (claimable PLANNED
+  < chunk_size) va production-control enabled -> workflow TU CHAY op
+  refill chuan trong cung lan push. Workflow la TAY
   deterministic (khong AI, khong secret AI, khong cron).
 
 ## 2. Queue refill (lazy, chi khi can)
 
 - python3 scripts/factory/refill-queue.py --plan
   In claimable, min_ready_queue (100), refill_target (300).
-- python3 scripts/factory/refill-queue.py --verify
+- python3 scripts/factory/refill-qu
+eue.py --verify
   Kiem toan bo gate G1-G8 cho ledger refill-candidates.json.
   PURE VALIDATION: in ket qua ra stdout, KHONG ghi file nao,
   khong ghi ledger/matrix/checkpoint, khong gan ID.
@@ -75,7 +80,8 @@ lenh nao chua implement. Chay tu goc repository.
   (--commit --yes van hoat dong nhu alias cu.)
 
 Gate G1-G8 (khong ha nguong): child ton tai + headroom (G1);
-kw unique trong child (G2); intent unique trong child (G3);
+kw unique trong child (G2); in
+tent unique trong child (G3);
 slug unique toan matrix (G4); canonical + output_path unique (G4b);
 word_target >= 1.200 (G5); candidate_id unique (G6);
 child thuoc taxonomy, ke thua source policy (G7);
@@ -127,7 +133,8 @@ xay ra qua lenh operator chu dong.
 - Transaction active: phuc hoi truoc khi claim moi
   (xem docs/RECOVERY.md va hop dong quy trinh
   docs/factory-workflow-contract.md muc 5).
-- HEAD doi giua RUN: fetch lai, doi chieu truoc khi mutate.
+- HEAD doi giua RUN: fetch lai, doi chieu 
+truoc khi mutate.
 
 ## 8. Stop conditions (dung RUN ngay)
 
@@ -171,7 +178,8 @@ thiep, 2 = loi du lieu):
 | STALE_LOCK            | lock treo >= 2h (BAT KY: con HAY 0 vie do) | RECOVERY.md (khong force-unlock) |
 | STALE_CHECKPOINT      | con vie do, checkpoint im lang >= 24h     | Kiem tay + verify |
 | STALLED_ACTIVE        | con vie do, khong lock/txn, im lang >= 6h | hoan tat hoac release-chunk |
-| HEALTHY_ACTIVE        | txn/lock con tuoi                         | Khong lam gi |
+| HEALTHY_ACTIVE   
+     | txn/lock con tuoi                         | Khong lam gi |
 | HEALTHY_IDLE          | khong viec do, khong txn/lock             | Khong lam gi |
 
 - BAT KY lock dang giu qua nguong (>= 2h) deu la STALE_LOCK exit 1, KE

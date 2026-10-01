@@ -39,11 +39,13 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 ## Đường nóng PUSH (sản xuất cặp bài thường — KHÔNG cần dispatch)
 
 Writer push draft vào `_drafts/` → workflow tự động trên push main
-(paths `_drafts/**`):
+(paths `_drafts/**`, hoặc `data/factory/refill-request.json` khi cần
+refill — xem bước 0):
 
 1. `scripts/factory/push-selection.py` chọn EXACT ID từ file draft
    ADDED/MODIFIED của push: mode NEW (hàng PLANNED có draft) → claim đúng
-   ID đó; mode REPAIR (hàng WRITING/QA/REPAIR/PASS) → chỉ QA/publish ID
+  
+ ID đó; mode REPAIR (hàng WRITING/QA/REPAIR/PASS) → chỉ QA/publish ID
    sửa; mode SKIP (no-op) → exit 0. REFUSE (exit 3, fail-closed):
    >2 ID (chunk_size), ID trùng, thiếu/sai `article_id`, ID không có
    trong matrix, ID đã PUBLISHED/EXISTING (KHÔNG BAO GIỜ ghi đè), hàng
@@ -57,7 +59,10 @@ Writer push draft vào `_drafts/` → workflow tự động trên push main
    (publish-gate vẫn là cơ chế promote DUY NHẤT; mọi hard gate giữ nguyên).
 7. Light smoke: `validate.py --scope chunk` + `queue.py --stats`
    (KHÔNG verify full/soak/hardening).
-8. Commit + push fast-forward MỘT lần; watchdog xác nhận txn inactive,
+8. Khi selection báo `refill_advised` (claimable PLANNED < chunk_size):
+   op `refill` chuẩn tự chạy trong cùng lần push (sau light smoke, trước
+   commit — KHÔNG cần dispatch).
+9. Commit + push fast-forward MỘT lần; watchdog xác nhận txn inactive,
    lock sạch, checkpoint ổn định.
 
 ## Actions bảo trì của factory-production.yml (workflow_dispatch)
@@ -77,7 +82,8 @@ chẩn đoán. Workflow tự chạy `recover` trước mọi op mutating.
 ## Manifest writer (export bởi prepare-next)
 
 Path: `reports/factory/rows/<BLG-ID>.json`. Writer ngoài đọc manifest và
-viết draft đúng `draft_path`. Manifest chứa: title/intent/keyword,
+viết draft đúng `draft_path`. Manifest chứa: t
+itle/intent/keyword,
 URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 `data/business-facts.json`), source_required/legal_risk/research_class
 (theo `docs/SOURCE-RESEARCH.md`), ứng viên liên kết nội bộ (theo
@@ -86,12 +92,14 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 
 ## Quy trình một cặp bài (push-driven)
 
-0. Trước khi chọn cặp tiếp theo: đọc `status` (dispatch) — nếu hàng
-   PLANNED còn claim được < 2, dispatch `refill` MỘT lần trước. Refill
+0. Trước khi chọn cặp tiếp theo: nếu hàng PLANNED còn claim được < 2,
+   push cập nhật `data/factory/refill-request.json` (hoặc push cặp draft
+   kế tiếp — khi push-selection báo `refill_advised`, workflow tự chạy op
+   `refill` chuẩn trong cùng lần push, KHÔNG cần dispatch tay). Refill
    SUCCESS (PLANNED thật tăng) → chọn cặp từ `next_claimable_id`/manifest
-   và làm tiếp; NEEDS_TOPIC_EXPANSION → STOP, báo đúng blocker
-   (hết candidate STAGED trong ledger — cần mở rộng topic qua gate),
-   KHÔNG tự tạo filler.
+   và làm tiếp; NEEDS_TOPIC_EXPANSION → workflow chỉ cảnh báo; writer
+   STOP, báo đúng blocker (hết candidate STAGED trong ledger — cần mở
+   rộng topic qua gate), KHÔNG tự tạo filler.
 1. Writer ngoài viết draft vào `_drafts/` (KHÔNG `_posts/`), tuân theo
    `docs/ARTICLE-RULES.md`, `docs/SOURCE-RESEARCH.md`,
    `docs/INTERNAL-LINKING.md`, `docs/QUALITY-RUBRIC.md`; frontmatter bắt
@@ -112,7 +120,8 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
    ngày thật vào URL, cập nhật matrix + checkpoint; sinh reports +
    verify theo scope fast; workflow commit + push fast-forward.
 5. Chờ Quality gate xanh trên đúng HEAD + Pages deploy SUCCESS + kiểm tra
-   live URL 200 + sitemap.
+   live URL 200 + sitem
+ap.
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
@@ -157,6 +166,7 @@ FULL giữ cho thay đổi engine/workflow và kiểm tra cuối đợt
 
 - QA deterministic TỪNG BÀI của chunk hiện tại: cấu trúc, frontmatter,
   H1/H2, title, meta description, canonical/permalink, taxonomy, link
+
   nội bộ (route thật + baseurl /blog), business facts, cannibalization,
   legal/source gate khi bắt buộc, quality/SEO theo rubric.
 - validate.py `--scope chunk`: nền bắt buộc + bằng chứng QA của chunk.

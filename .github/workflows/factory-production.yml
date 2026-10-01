@@ -35,10 +35,21 @@ name: Factory production
 #
 # workflow_dispatch chi con op BAO TRI (docs/PROC-PUBLISH.md):
 #   status       — in trang thai engine (read-only)
-#   recover      — recover transaction/lock treo (FAIL-CLOSED)
+#   recover      — recover transaction/lock treo (FAIL-CLOSE
+D)
 #   refill       — materialize hang PLANNED khi het PLANNED (semantic:
 #                  SUCCESS bat buoc tao work that; het candidate STAGED
 #                  -> NEEDS_TOPIC_EXPANSION, KHONG filler)
+#
+#   TU 2026-10-01 REFILL PUSH-DRIVEN (tien hoa tuan tu cua duong nong,
+#   van tuan theo mo hinh /vanchinh): writer push _drafts/ HOAC cap nhat
+#   data/factory/refill-request.json; neu push-selection bao
+#   refill_advised (claimable PLANNED < chunk_size) va production-control
+#   enabled, workflow TU CHAY op refill trong CUNG lan push (sau light
+#   smoke, truoc commit — thay doi duoc commit cung lan). Op refill van
+#   la tool chuan: recover truoc, khoa atomic O_EXCL, transaction
+#   inactive, gate G1-G8, KHONG filler. Refill FAIL (het pool STAGED ->
+#   NEEDS_TOPIC_EXPANSION) chi ::warning, KHONG chan lan publish vua roi.
 #   diagnostics  — chan doan read-only (validate chunk + queue stats)
 #
 # BAI DA XUAN BAN khong bao gio bi de: publish-gate tu choi promote
@@ -60,6 +71,7 @@ on:
     branches: [main]
     paths:
       - '_drafts/**'
+      - 'data/factory/refill-request.json'
   workflow_dispatch:
     inputs:
       action:
@@ -97,7 +109,8 @@ jobs:
         if: github.event_name == 'workflow_dispatch'
         run: |
           set -eu
-          case "$ACTION" in
+          case "$AC
+TION" in
             status|recover|refill|diagnostics) ;;
             *) echo "::error::action khong ho tro: $ACTION (chi status|recover|refill|diagnostics)"; exit 1 ;;
           esac
@@ -124,8 +137,16 @@ jobs:
               f.write('mode=%s\n' % sel['mode'])
               f.write('claim_ids=%s\n' % ','.join(sel['claim_ids']))
               f.write('qa_ids=%s\n' % ','.join(sel['qa_ids']))
-          label = 'push-%s-%s' % (sel['mode'],
-                                  ','.join(sel['claim_ids'] or sel['qa_ids']))
+              f.write('refill_advised=%s\n' % str(sel['refill_advised']).lower())
+              f.write('planned_claimable=%s\n' % sel['planned_claimable'])
+              f.write('control_enabled=%s\n' % str(sel['control_enabled']).lower())
+          if sel['mode'] == 'skip':
+              label = ('refill-auto' if (sel['refill_advised'] and
+                                        sel['control_enabled'])
+                       else 'skip-noop')
+          else:
+              label = 'push-%s-%s' % (sel['mode'],
+                                      ','.join(sel['claim_ids'] or sel['qa_ids']))
           with open(os.environ['GITHUB_ENV'], 'a') as f:
               f.write('COMMIT_LABEL=%s\n' % label)
           print('selection: mode=%s claim=%s qa=%s refill_advised=%s'
@@ -133,7 +154,8 @@ jobs:
                    sel['refill_advised']))
           if sel['mode'] == 'paused':
               print('production-control: enabled=false — DUNG SACH TRUOC KHI CLAIM (khong QA/publish lan nay)')
-          if sel['refuse']:
+          if sel['refuse']
+:
               raise SystemExit('REFUSED: %s' % sel['refuse'])
           EOF
 
@@ -178,12 +200,26 @@ jobs:
             echo "khong co hang PASS trong lan QA nay — hang REPAIR cho writer sua draft roi push lai (repair push)"
           fi
 
-      - name: Light smoke (validate chunk + queue stats, read-only)
+      - name: Light smoke (validate chunk + queue stats, read-only
+)
         if: github.event_name == 'push' && steps.select.outputs.proceed == 'true'
         run: |
           set -eu
           python3 scripts/factory/validate.py --scope chunk
           python3 scripts/factory/queue.py --stats
+
+      - name: Refill canonical khi selection bao refill_advised (push-driven)
+        if: github.event_name == 'push' && steps.select.outputs.refill_advised == 'true' && steps.select.outputs.control_enabled == 'true'
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py recover
+          rc=0
+          python3 scripts/factory/factory-operator.py refill || rc=$?
+          if [ "$rc" -ne 0 ]; then
+            echo "::warning::refill rc=$rc - het candidate STAGED (NEEDS_TOPIC_EXPANSION?) hoac khoa/txn; bao writer. KHONG chan lan chay vua roi."
+          else
+            echo "refill: OK - da materialize them hang PLANNED (neu pool con)."
+          fi
 
       - name: op recover (dispatch)
         if: github.event_name == 'workflow_dispatch' && env.ACTION == 'recover'
@@ -227,7 +263,8 @@ jobs:
             git fetch origin main
             if ! git rebase origin/main; then
               git rebase --abort || true
-              echo "::error::rebase conflict - STOP, khong force push; resume lan chay sau tu repository truth"
+       
+       echo "::error::rebase conflict - STOP, khong force push; resume lan chay sau tu repository truth"
               exit 1
             fi
             echo "OPERATOR_LOCAL_VERIFY_HEAD_POST_REBASE=$(git rev-parse HEAD)"
@@ -248,7 +285,7 @@ jobs:
           exit 1
 
       - name: Xac nhan trang thai sach (txn inactive, lock sach, checkpoint on dinh)
-        if: github.event_name == 'workflow_dispatch' || steps.select.outputs.proceed == 'true'
+        if: github.event_name == 'workflow_dispatch' || steps.select.outputs.proceed == 'true' || (github.event_name == 'push' && steps.select.outputs.refill_advised == 'true' && steps.select.outputs.control_enabled == 'true')
         run: |
           set -eu
           python3 scripts/factory/watchdog.py
