@@ -3777,6 +3777,162 @@
           "audience": "gia đình cuối tuần",
           "location_scope": 1400,
           "word_target": 1300
+        },
+        {
+          "title": "Đến bảo tàng Thiên nhiên Việt Nam bằng xe máy: gửi xe và đường đi",
+          "intent": "Tìm cách gửi xe và đi đường tới bảo tàng Thiên nhiên Việt Nam bằng xe máy",
+          "kw": "gửi xe bảo tàng thiên nhiên việt nam",
+          "kw2": [
+            "đường đến bảo tàng thiên nhiên",
+            "đỗ xe bảo tàng thiên nhiên"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "gia đình có con nhỏ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Kinh nghiệm ghé thăm bảo tàng Thiên nhiên Việt Nam nửa ngày",
+          "intent": "Tìm kinh nghiệm tham quan bảo tàng Thiên nhiên Việt Nam trong nửa ngày",
+          "kw": "kinh nghiệm thăm bảo tàng thiên nhiên",
+          "kw2": [
+            "tham quan bảo tàng thiên nhiên mất bao lâu"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "gia đình có con nhỏ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đến bảo tàng Lịch sử Quân sự Việt Nam bằng xe máy: gửi xe và đường đi",
+          "intent": "Tìm cách gửi xe và đi đường tới bảo tàng Lịch sử Quân sự Việt Nam",
+          "kw": "gửi xe bảo tàng lịch sử quân sự",
+          "kw2": [
+            "đường đến bảo tàng lịch sử quân sự"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người yêu lịch sử",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Kinh nghiệm ghé thăm bảo tàng Lịch sử Quân sự Việt Nam nửa ngày",
+          "intent": "Tìm kinh nghiệm tham quan bảo tàng Lịch sử Quân sự Việt Nam trong nửa ngày",
+          "kw": "kinh nghiệm thăm bảo tàng lịch sử quân sự",
+          "kw2": [
+            "tham quan bảo tàng lịch sử quân sự nửa ngày"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người yêu lịch sử",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đến bảo tàng Hà Nội bằng xe máy: gửi xe và đường đi",
+          "intent": "Tìm cách gửi xe và đi đường tới bảo tàng Hà Nội bằng xe máy",
+          "kw": "gửi xe bảo tàng hà nội",
+          "kw2": [
+            "đường đến bảo tàng hà nội"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "du khách muốn hiểu Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Kinh nghiệm ghé thăm bảo tàng Hà Nội nửa ngày",
+          "intent": "Tìm kinh nghiệm tham quan bảo tàng Hà Nội trong nửa ngày",
+          "kw": "kinh nghiệm thăm bảo tàng hà nội",
+          "kw2": [
+            "tham quan bảo tàng hà nội mất bao lâu"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "du khách muốn hiểu Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đến bảo tàng Địa chất Việt Nam bằng xe máy: gửi xe và đường đi",
+          "intent": "Tìm cách gửi xe và đi đường tới bảo tàng Địa chất Việt Nam",
+          "kw": "gửi xe bảo tàng địa chất",
+          "kw2": [
+            "đường đến bảo tàng địa chất"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người yêu khoa học",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Kinh nghiệm ghé thăm bảo tàng Địa chất Việt Nam nửa ngày",
+          "intent": "Tìm kinh nghiệm tham quan bảo tàng Địa chất Việt Nam trong nửa ngày",
+          "kw": "kinh nghiệm thăm bảo tàng địa chất",
+          "kw2": [
+            "tham quan bảo tàng địa chất việt nam"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người yêu khoa học",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đến bảo tàng Văn học Việt Nam bằng xe máy: gửi xe và đường đi",
+          "intent": "Tìm cách gửi xe và đi đường tới bảo tàng Văn học Việt Nam",
+          "kw": "gửi xe bảo tàng văn học",
+          "kw2": [
+            "đường đến bảo tàng văn học"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người yêu văn học",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Kinh nghiệm ghé thăm bảo tàng Văn học Việt Nam nửa ngày",
+          "intent": "Tìm kinh nghiệm tham quan bảo tàng Văn học Việt Nam trong nửa ngày",
+          "kw": "kinh nghiệm thăm bảo tàng văn học",
+          "kw2": [
+            "tham quan bảo tàng văn học việt nam"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người yêu văn học",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -3879,6 +4035,38 @@
             "cannibalization_risk": 12,
             "feasibility": "REVIEW"
           }
+        },
+        {
+          "title": "Chợ hoa Hàng Mã mùa Tết bằng xe máy: đỗ xe và thời điểm đi",
+          "intent": "Tìm chỗ đỗ xe và thời điểm đi chợ hoa Hàng Mã mùa Tết",
+          "kw": "đi chợ hoa hàng mã bằng xe máy",
+          "kw2": [
+            "đỗ xe chợ hoa hàng mã"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người dân và du khách dịp Tết",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi cà phê phố cổ bằng xe máy: gửi xe ở đâu cho tiện",
+          "intent": "Tìm chỗ gửi xe khi đi cà phê phố cổ",
+          "kw": "gửi xe đi cà phê phố cổ",
+          "kw2": [
+            "đỗ xe phố cổ hoàn kiếm"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người thích cà phê phố cổ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -3982,6 +4170,22 @@
           "audience": "người thích chụp ảnh",
           "location_scope": 1400,
           "word_target": 1300
+        },
+        {
+          "title": "Ghé chùa Trấn Quốc bằng xe máy: gửi xe và đường đi",
+          "intent": "Tìm cách gửi xe và đi đường tới chùa Trấn Quốc bằng xe máy",
+          "kw": "gửi xe chùa trấn quốc",
+          "kw2": [
+            "đường đi chùa trấn quốc"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "du khách đến Hồ Tây",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4086,6 +4290,38 @@
           "audience": "du khách và nhiếp ảnh",
           "location_scope": 1400,
           "word_target": 1200
+        },
+        {
+          "title": "Sáng sớm ở chợ đầu mối Long Biên: đi xe máy và gửi xe",
+          "intent": "Tìm cách đi xe máy và gửi xe ở chợ đầu mối Long Biên sáng sớm",
+          "kw": "chợ đầu mối long biên sáng sớm",
+          "kw2": [
+            "đi chợ long biên sáng sớm"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người thích đi chợ sớm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe qua cầu Chương Dương ngắm hoàng hôn: cung đường và lưu ý",
+          "intent": "Tìm cung đường chạy xe qua cầu Chương Dương ngắm hoàng hôn",
+          "kw": "chạy xe qua cầu chương dương",
+          "kw2": [
+            "hoàng hôn trên cầu chương dương"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/tinh-huong-giao-thong/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người thích ngắm hoàng hôn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4187,6 +4423,53 @@
             "cannibalization_risk": 10,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Đi thành Cổ Loa bằng xe máy: cung đường và lưu ý chạy xe",
+          "intent": "Tìm cung đường đi thành Cổ Loa bằng xe máy",
+          "kw": "đi thành cổ loa bằng xe máy",
+          "kw2": [
+            "cổ loa cách trung tâm hà nội bao xa"
+          ],
+          "links": [
+            "/du-lich/diem-den/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "du khách thích văn hóa cổ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe đi chùa Thầy: gửi xe và thời điểm đẹp",
+          "intent": "Tìm chỗ gửi xe và thời điểm đẹp chạy xe đi chùa Thầy",
+          "kw": "chạy xe đi chùa thầy",
+          "kw2": [
+            "đường đi chùa thầy"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "du khách thích chùa chiền",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi Thiên Sơn Suối Ngọc bằng xe máy từ Hà Nội: lộ trình một ngày",
+          "intent": "Tìm lộ trình đi Thiên Sơn Suối Ngọc bằng xe máy trong một ngày",
+          "kw": "đi thiên sơn suối ngọc bằng xe máy",
+          "kw2": [
+            "thiên sơn suối ngọc cách hà nội bao xa"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/ky-nang/cho-do-va-hanh-ly/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "nhóm bạn cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4278,6 +4561,38 @@
           ],
           "subtopic": "refill-2026-09-30",
           "audience": "người mới chạy nội đô",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe sáng sớm qua cầu Vĩnh Tuy: cung đường cho người mới",
+          "intent": "Tìm cung đường chạy xe sáng sớm qua cầu Vĩnh Tuy",
+          "kw": "chạy xe sáng sớm cầu vĩnh tuy",
+          "kw2": [
+            "cầu vĩnh tuy chạy xe buổi sáng"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/tinh-huong-giao-thong/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người mới tập chạy xe",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi công viên Yên Sở bằng xe máy: chỗ đỗ xe và đường vào",
+          "intent": "Tìm chỗ đỗ xe và đường vào công viên Yên Sở bằng xe máy",
+          "kw": "đi công viên yên sở bằng xe máy",
+          "kw2": [
+            "đỗ xe công viên yên sở"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/cho-do-va-hanh-ly/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "gia đình cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -4753,6 +5068,38 @@
           "audience": "cặp đôi cuối tuần",
           "location_scope": "mai châu",
           "word_target": 1200
+        },
+        {
+          "title": "Đi Mai Châu qua đèo Thung Khe: chạy xe an toàn trên đèo",
+          "intent": "Tìm cách chạy xe an toàn qua đèo Thung Khe khi đi Mai Châu",
+          "kw": "đi mai châu qua đèo thung khe",
+          "kw2": [
+            "đèo thung khe chạy xe"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách phượt cuối tuần",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Xe số hay xe ga đi Mai Châu: chọn xe cho cung đường đèo",
+          "intent": "Tìm hiểu nên chọn xe số hay xe ga khi đi Mai Châu",
+          "kw": "xe số hay xe ga đi mai châu",
+          "kw2": [
+            "chọn xe đi mai châu"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/xe-may/chon-loai-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách phượt cuối tuần",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
         }
       ]
     },
@@ -4855,6 +5202,37 @@
           "audience": "phượt thủ",
           "location_scope": "mộc châu",
           "word_target": 1300
+        },
+        {
+          "title": "Đổ xăng và nghỉ chân trên quốc lộ 6 đi Mộc Châu: các điểm dừng",
+          "intent": "Tìm các điểm đổ xăng và nghỉ chân an toàn trên quốc lộ 6 đi Mộc Châu",
+          "kw": "điểm đổ xăng trên đường đi mộc châu",
+          "kw2": [
+            "trạm xăng trên quốc lộ 6",
+            "nghỉ chân trên đường đi mộc châu"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách du lịch vùng cao",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Tháng mấy chạy xe đi Mộc Châu đẹp nhất",
+          "intent": "Tìm thời điểm đẹp nhất trong năm để chạy xe đi Mộc Châu",
+          "kw": "tháng mấy đi mộc châu đẹp",
+          "kw2": [
+            "mộc châu mùa nào đẹp"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách du lịch vùng cao",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
         }
       ]
     },
@@ -4978,6 +5356,37 @@
           "audience": "phượt thủ",
           "location_scope": "hà giang",
           "word_target": 1200
+        },
+        {
+          "title": "Chạy xe máy lên Lũng Cú: chuẩn bị cho chặng đèo cuối",
+          "intent": "Tìm cách chuẩn bị chạy xe máy lên Lũng Cú",
+          "kw": "chạy xe máy lên lũng cú",
+          "kw2": [
+            "lũng cú đường có khó không"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "biker leo đèo",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Vượt dốc Thẩm Mã Hà Giang bằng xe máy: mẹo lên dốc",
+          "intent": "Tìm mẹo vượt dốc Thẩm Mã Hà Giang bằng xe máy",
+          "kw": "vượt dốc thẩm mã",
+          "kw2": [
+            "dốc thẩm mã khó không"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "biker leo đèo",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
         }
       ]
     },
@@ -5063,6 +5472,162 @@
             "cannibalization_risk": 8,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Chạy xe máy từ Hà Nội đi Hạ Long: chuẩn bị và điểm dừng",
+          "intent": "Tìm cách chuẩn bị chạy xe máy từ Hà Nội đi Hạ Long",
+          "kw": "chạy xe máy hà nội đi hạ long",
+          "kw2": [
+            "hà nội đi hạ long bao xa",
+            "điểm dừng chân khi đi hạ long"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách phượt cuối tuần",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Thuê xe máy đi Hạ Long ngày về: có đáng không",
+          "intent": "Tìm hiểu việc thuê xe máy đi Hạ Long trong một ngày",
+          "kw": "thuê xe máy đi hạ long ngày về",
+          "kw2": [
+            "đi hạ long trong một ngày"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách phượt cuối tuần",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi Pù Luông bằng xe máy: cung đường và điểm dừng chân",
+          "intent": "Tìm cung đường đi Pù Luông bằng xe máy và chỗ dừng chân",
+          "kw": "cung đường đi pù luông bằng xe máy",
+          "kw2": [
+            "hà nội đi pù luông bao xa"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách phượt thích núi rừng",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Chọn xe máy đi Pù Luông mùa mưa: lưu ý đường trơn",
+          "intent": "Tìm cách chọn xe máy đi Pù Luông khi trời mưa",
+          "kw": "đi pù luông mùa mưa",
+          "kw2": [
+            "chọn xe đi pù luông"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/xe-may/chon-loai-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách phượt thích núi rừng",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
+        },
+        {
+          "title": "Chinh phục đỉnh Mẫu Sơn bằng xe máy: cung đường đèo",
+          "intent": "Tìm cung đường và cách chinh phục đỉnh Mẫu Sơn bằng xe máy",
+          "kw": "chinh phục đỉnh mẫu sơn bằng xe máy",
+          "kw2": [
+            "mẫu sơn đường có khó không"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/xe-may/chon-loai-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "biker muốn thử đèo",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Chạy xe lên Mẫu Sơn mùa sương: thời điểm và lưu ý",
+          "intent": "Tìm thời điểm đẹp chạy xe lên Mẫu Sơn mùa sương",
+          "kw": "chạy xe lên mẫu sơn mùa sương",
+          "kw2": [
+            "mẫu sơn mùa nào đẹp"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "biker muốn thử đèo",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe máy từ Hà Nội đi biển Hải Tiến: lộ trình hai ngày",
+          "intent": "Tìm lộ trình chạy xe máy từ Hà Nội đi biển Hải Tiến trong hai ngày",
+          "kw": "chạy xe máy đi hải tiến",
+          "kw2": [
+            "hà nội đi hải tiến bao xa"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "nhóm bạn đi biển",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Kinh nghiệm thuê xe máy đi Hải Tiến mùa hè",
+          "intent": "Tìm kinh nghiệm thuê xe máy đi biển Hải Tiến mùa hè",
+          "kw": "thuê xe máy đi hải tiến",
+          "kw2": [
+            "đi biển hải tiến bằng xe máy"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "nhóm bạn đi biển",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi Đồ Sơn bằng xe máy từ Hà Nội: cung đường ven biển",
+          "intent": "Tìm cung đường đi Đồ Sơn bằng xe máy từ Hà Nội",
+          "kw": "đi đồ sơn bằng xe máy",
+          "kw2": [
+            "hà nội đi đồ sơn bao xa"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách du lịch biển",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1300
+        },
+        {
+          "title": "Chạy xe vòng quanh bán đảo Đồ Sơn: lưu ý đường ven biển",
+          "intent": "Tìm lưu ý khi chạy xe vòng quanh bán đảo Đồ Sơn",
+          "kw": "chạy xe vòng quanh đồ sơn",
+          "kw2": [
+            "đường ven biển đồ sơn"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách du lịch biển",
+          "location_scope": "Hà Nội và các tỉnh phía Bắc",
+          "word_target": 1200
         }
       ]
     },
@@ -6788,6 +7353,38 @@
           "audience": "con cháu thuê hộ người thân",
           "location_scope": 1400,
           "word_target": 1300
+        },
+        {
+          "title": "Sinh viên thuê xe máy theo tháng: chọn xe và tiết kiệm chi phí",
+          "intent": "Tìm cách sinh viên chọn xe máy thuê theo tháng",
+          "kw": "sinh viên thuê xe máy theo tháng",
+          "kw2": [
+            "thuê xe máy giá rẻ cho sinh viên"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/bang-gia/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "sinh viên",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy cho người đi làm: đi lại hàng ngày an toàn",
+          "intent": "Tìm hiểu thuê xe máy phục vụ đi làm hàng ngày",
+          "kw": "thuê xe máy cho người đi làm",
+          "kw2": [
+            "thuê xe đi làm hàng tháng"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người đi làm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7013,6 +7610,22 @@
             "cannibalization_risk": 15,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Thuê xe máy gần Times City: chỗ nhận xe và lưu ý",
+          "intent": "Tìm chỗ thuê xe máy gần Times City",
+          "kw": "thuê xe máy gần times city",
+          "kw2": [
+            "thuê xe quanh times city"
+          ],
+          "links": [
+            "/thue-xe/",
+            "/bang-gia/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách ở gần Times City",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7265,6 +7878,38 @@
             "cannibalization_risk": 12,
             "feasibility": "PASS"
           }
+        },
+        {
+          "title": "Chọn xe máy đi mưa nhiều: dòng xe phù hợp đường Hà Nội",
+          "intent": "Tìm dòng xe máy phù hợp khi đi mưa nhiều",
+          "kw": "chọn xe máy đi mưa",
+          "kw2": [
+            "loại xe nào đi mưa tốt"
+          ],
+          "links": [
+            "/xe-may/chon-loai-xe/",
+            "/ky-nang/thoi-tiet-va-duong-sa/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người đi xe mùa mưa",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chọn xe máy chở hai người đi cuối tuần: chỗ ngồi và chứa đồ",
+          "intent": "Tìm cách chọn xe máy chở hai người đi chơi cuối tuần",
+          "kw": "chọn xe máy chở hai người",
+          "kw2": [
+            "xe nào chở hai người thoải mái"
+          ],
+          "links": [
+            "/xe-may/chon-loai-xe/",
+            "/ky-nang/cho-do-va-hanh-ly/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "cặp đôi đi cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7532,6 +8177,69 @@
           "audience": "khách thuê xe",
           "location_scope": 1400,
           "word_target": 1300
+        },
+        {
+          "title": "Đang đi xe thuê có mùi khét: dừng xe và kiểm tra đâu",
+          "intent": "Tìm nguyên nhân mùi khét trên xe máy thuê và cách xử lý an toàn",
+          "kw": "xe máy thuê có mùi khét",
+          "kw2": [
+            "mùi khét khi đang đi xe",
+            "nguyên nhân xe máy có mùi khét"
+          ],
+          "links": [
+            "/thue-xe/su-co/",
+            "/ky-nang/tinh-huong-giao-thong/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách thuê xe đi phố",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Mất chìa khóa xe thuê: những việc cần làm ngay",
+          "intent": "Tìm những việc cần làm khi mất chìa khóa xe thuê",
+          "kw": "mất chìa khóa xe thuê",
+          "kw2": [
+            "mất chìa khóa xe máy thuê"
+          ],
+          "links": [
+            "/thue-xe/su-co/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách thuê xe đi phố",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe thuê không nổ máy buổi sáng: chẩn đoán nhanh trước khi gọi",
+          "intent": "Tìm cách chẩn đoán nhanh khi xe thuê không nổ máy buổi sáng",
+          "kw": "xe thuê không nổ máy buổi sáng",
+          "kw2": [
+            "xe máy không nổ máy sáng"
+          ],
+          "links": [
+            "/thue-xe/su-co/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách thuê theo tháng",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đèn phanh xe thuê yếu: kiểm tra trước khi nhận xe",
+          "intent": "Tìm cách kiểm tra đèn phanh trước khi nhận xe thuê",
+          "kw": "đèn phanh xe thuê yếu",
+          "kw2": [
+            "kiểm tra phanh xe máy thuê"
+          ],
+          "links": [
+            "/thue-xe/su-co/",
+            "/thue-xe/thu-tuc/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người mới thuê xe",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7774,6 +8482,54 @@
           "audience": "người chuẩn bị chuyến xa",
           "location_scope": 1400,
           "word_target": 1300
+        },
+        {
+          "title": "Wave hay Sirius khi thuê chạy phố: so sánh thực tế",
+          "intent": "So sánh Wave và Sirius khi thuê xe chạy phố",
+          "kw": "wave hay sirius khi thuê",
+          "kw2": [
+            "so sánh wave và sirius"
+          ],
+          "links": [
+            "/xe-may/chon-loai-xe/",
+            "/bang-gia/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách cân nhắc dòng xe",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga hay xe số cho người mới học lái: nên thuê dòng nào",
+          "intent": "Tìm hiểu nên thuê xe ga hay xe số khi mới học lái",
+          "kw": "xe ga hay xe số cho người mới",
+          "kw2": [
+            "người mới nên chạy xe gì"
+          ],
+          "links": [
+            "/xe-may/chon-loai-xe/",
+            "/an-toan-phap-ly/giay-phep-lai-xe/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "người mới học lái",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "So sánh chi phí thuê xe số và xe ga theo tháng",
+          "intent": "So sánh chi phí thuê xe số và xe ga trong một tháng",
+          "kw": "so sánh chi phí thuê xe số và xe ga",
+          "kw2": [
+            "thuê xe số rẻ hơn xe ga không"
+          ],
+          "links": [
+            "/xe-may/chon-loai-xe/",
+            "/thue-xe/thue-thang/"
+          ],
+          "subtopic": "refill-2026-10-01",
+          "audience": "khách cân nhắc dòng xe",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     }
