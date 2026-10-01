@@ -3,6 +3,6 @@
   "holder": null,
   "acquired_at": null,
   "expires_at": null,
-  "updated_at": "2026-10-01T02:11:36+00:00",
+  "updated_at": "2026-10-01T02:15:06+00:00",
   "note": "Lock phải được giữ trong suốt một chunk và nhả khi checkpoint an toàn. Không bao giờ chạy hai writer song song."
 }
