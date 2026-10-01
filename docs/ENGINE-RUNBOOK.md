@@ -30,12 +30,21 @@ lenh nao chua implement. Chay tu goc repository.
   xuat CHAY THEO PUSH: writer push draft _drafts/ -> factory-production
   yml tu dong (push-selection.py chon EXACT ID -> prepare-next --ids
   -> qa --ids -> publish --ids --scope fast); workflow_dispatch chi
-  con op bao tri status/recover/refill/diagnostics. TU 2026-10-01
-  REFILL PUSH-DRIVEN: push _drafts/ HOAC data/factory/refill-
-  request.json ma push-selection bao refill_advised (claimable PLANNED
-  < chunk_size) va production-control enabled -> workflow TU CHAY op
-  refill chuan trong cung lan push. Workflow la TAY
-  deterministic (khong AI, khong secret AI, khong cron).
+  con op bao tri status/recover/diagnostics. TU 2026-10-01 REFILL TACH
+  KHOI DUONG NONG PUBLISH: push-selection bao refill_advised (claimable
+  PLANNED < chunk_size) -> workflow CHI in ::warning nhaac writer/
+  coordinator kich hoat factory-refill.yml (dispatch refill hoac push
+  data/factory/refill-request.json / data/factory/refill-batches/**),
+  CHO refill success, FETCH MAIN, roi push cap ke tiep; mot batch refill
+  sai KHONG BAO GIO lam hong publish bai vua chay (cung concurrency
+  group nen refill va publish khong mutate state cung luc). TU
+  2026-10-01 BACKLOG RECOVERY (mo hinh /vanchinh): draft hop le sot
+  trong _drafts/ do pipeline truoc chet duoc nhan dien EXACT ID, CO
+  UU TIEN truoc bai moi (REPAIRABLE truoc, toi da chunk_size); draft
+  vua push bi hoan KHONG mat, tu thanh backlog lan ke tiep (commit
+  promote re-trigger, chuoi tu lanh); draft sot khong hop le bi bo
+  qua, khong chan publish; KHONG bao gio dung hang PUBLISHED. Workflow
+  la TAY deterministic (khong AI, khong secret AI, khong cron).
 
 ## 2. Queue refill (lazy, chi khi can)
 

@@ -1,0 +1,159 @@
+name: Factory refill
+
+# REFILL DEDICATED (hop dong 5 workflow — docs/factory-workflow-contract.md,
+# 2026-10-01). Refill KHONG THUOC DUONG NONG publish bai viet cua
+# factory-production.yml: mot batch refill sai KHONG BAO GIO lam hong
+# lan publish bai vua chay. Trigger:
+#   - workflow_dispatch action=refill (writer/coordinator tu kich hoat
+#     khi push-selection bao refill_advised: claimable PLANNED <
+#     chunk_size), HOAC
+#   - push main thay doi data/factory/refill-batches/** (writer stage
+#     batch moi) hoac data/factory/refill-request.json (writer bao can
+#     refill).
+# Sau refill SUCCESS: writer/coordinator FETCH MAIN roi moi push cap
+# 2 bai ke tiep.
+#
+# Trach nhiem DUY NHAT (moi buoc la tool chuan, KHONG AI, KHONG filler):
+#   1. recover transaction treo (FAIL-CLOSED, docs/RECOVERY.md)
+#   2. stage batch refill da duyet vao ledger qua gate G1-G8
+#      (scripts/factory/stage-refill-batch.py --all; idempotent theo
+#      candidate_id; gate FAIL -> ROLLBACK ledger nguyen ven + exit 1)
+#   3. canonical refill (scripts/factory/factory-operator.py refill —
+#      queue --needs-refill -> refill-queue.py --refill --yes khoa
+#      atomic O_EXCL -> semantic SUCCESS bat buoc tao hang PLANNED
+#      that; het candidate STAGED -> NEEDS_TOPIC_EXPANSION, exit 1)
+#   4. validate matrix/checkpoint (validate.py --scope chunk +
+#      queue.py --stats — read-only)
+#   5. commit + push fast-forward MOT LAN (deterministic refill state)
+#   6. watchdog + status — txn inactive, lock sach, checkpoint on dinh
+#
+# CONCURRENCY: CUNG group blog-factory-production voi
+# factory-production.yml — refill va publish KHONG BAO GIO mutate state
+# cung luc; mot run xep hang cho run kia (cancel-in-progress: false).
+#
+# KHONG: claim draft, QA, publish bai (do la cua factory-production);
+# verify full/soak/hardening (do la cua factory-publish-verify);
+# force push. Refill FAIL = workflow FAIL (signal ro rang cho writer:
+# sua batch roi stage lai, hoac mo rong topic that) — KHONG filler,
+# KHONG bao SUCCESS gia.
+
+on:
+  workflow_dispatch:
+    inputs:
+      action:
+        description: 'refill'
+        required: true
+        type: string
+  push:
+    branches: [main]
+    paths:
+      - 'data/factory/refill-request.json'
+      - 'data/factory/refill-batches/**'
+
+concurrency:
+  group: blog-factory-production
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  refill:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+      ACTION: ${{ inputs.action || 'refill' }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Kiem tra input hop le
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          set -eu
+          case "$ACTION" in
+            refill) ;;
+            *) echo "::error::action khong ho tro: $ACTION (chi refill; production/publish thuoc factory-production.yml)" ; exit 1 ;;
+          esac
+          echo "action=$ACTION"
+
+      - name: Recover transaction truoc refill (FAIL-CLOSED)
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py recover
+
+      - name: Stage batch refill da duyet (gate G1-G8, idempotent, FAIL = rollback)
+        run: |
+          set -eu
+          if ls data/factory/refill-batches/*.json >/dev/null 2>&1; then
+            python3 scripts/factory/stage-refill-batch.py --all
+          else
+            echo "khong co batch moi trong data/factory/refill-batches/ — khong co gi de stage (idempotent)"
+          fi
+
+      - name: Refill canonical (queue - ledger - matrix, semantic SUCCESS bat buoc tao work that)
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py refill
+
+      - name: Light validation (validate chunk + queue stats, read-only)
+        run: |
+          set -eu
+          python3 scripts/factory/validate.py --scope chunk
+          python3 scripts/factory/queue.py --stats
+
+      - name: Commit va push fast-forward (rebase phai validate lai, khong force push)
+        run: |
+          set -eu
+          git config user.name "factory-operator-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "khong co gi de commit (refill chua den nguong hoac khong tao thay doi)"
+            exit 0
+          fi
+          git commit -m "factory-refill: ${ACTION} (deterministic outputs of canonical tooling only)"
+          if git push; then
+            git fetch origin main
+            git merge-base --is-ancestor HEAD origin/main
+            echo "FINAL_PUSHED_HEAD=$(git rev-parse HEAD)"
+            echo "ORIGIN_HEAD_AFTER=$(git rev-parse origin/main)"
+            exit 0
+          fi
+          for i in 1 2; do
+            echo "::warning::origin/main doi giua chan (lan $i) - fetch, rebase roi VALIDATE LAI trang thai rebase"
+            git fetch origin main
+            if ! git rebase origin/main; then
+              git rebase --abort || true
+              echo "::error::rebase conflict - STOP, khong force push; resume lan chay sau tu repository truth"
+              exit 1
+            fi
+            echo "REFILL_LOCAL_VERIFY_HEAD_POST_REBASE=$(git rev-parse HEAD)"
+            python3 scripts/factory/validate.py --scope chunk
+            if ! git diff --quiet || ! git diff --cached --quiet; then
+              echo "::error::trang thai sau rebase khong clean - STOP, khong push state chua hoa giai"
+              exit 1
+            fi
+            if git push; then
+              git fetch origin main
+              git merge-base --is-ancestor HEAD origin/main
+              echo "FINAL_PUSHED_HEAD=$(git rev-parse HEAD) (sau rebase, da validate lai)"
+              echo "ORIGIN_HEAD_AFTER=$(git rev-parse origin/main)"
+              exit 0
+            fi
+          done
+          echo "::error::push van conflict sau rebase + validate - STOP, khong force push"
+          exit 1
+
+      - name: Xac nhan trang thai sach (txn inactive, lock sach, checkpoint on dinh)
+        run: |
+          set -eu
+          python3 scripts/factory/watchdog.py
+          python3 scripts/factory/factory-operator.py status

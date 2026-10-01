@@ -4,16 +4,28 @@ Blog Jekyll trên GitHub Pages. Một chủ xe vận hành qua AI trên điện 
 Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. Kỹ thuật sâu
 (chống double-spend, SHA evidence, 4 tầng test, soak): docs/ADVANCED-FACTORY-RECOVERY.md.
 
-## Mô hình 4 workflow (docs/factory-workflow-contract.md)
+## Mô hình 5 workflow (docs/factory-workflow-contract.md)
 
 - `quality-gate.yml` — CI FAST trên MỌI push main / PR: validate chunk + Jekyll
   build + link integrity + draft leak + sitemap/hub sanity. READ-ONLY.
 - `factory-production.yml` — đường sản xuất DUY NHẤT, PUSH-DRIVEN (Phase 1):
   writer push draft `_drafts/` (tối đa chunk_size=2 ID) → workflow tự chọn
   EXACT ID (`scripts/factory/push-selection.py`) → claim/QA/publish những ID
-  đó. `workflow_dispatch` chỉ còn op bảo trì: `status | recover | refill |
-  diagnostics`. Không cron, không AI, không secret AI. Push chỉ fast-forward;
+  đó. BACKLOG (mô hình /vanchinh): draft hợp lệ sót trong `_drafts/` do
+  pipeline trước chết được nhận diện EXACT ID, CÓ ƯU TIÊN trước bài mới,
+  tối đa chunk_size, hàng dở REPAIRABLE trước (engine resume-first), KHÔNG
+  bao giờ đụng hàng PUBLISHED; draft vừa push bị hoãn KHÔNG mất, tự thành
+  backlog lần kế tiếp. `workflow_dispatch` chỉ còn op bảo trì:
+  `status | recover | diagnostics` (refill thuộc factory-refill.yml).
+  Không cron, không AI, không secret AI. Push chỉ fast-forward;
   rebase xong phải validate lại; KHÔNG force push.
+- `factory-refill.yml` — refill DUY NHẤT, TÁCH khỏi đường nóng publish:
+  workflow_dispatch `refill` hoặc push `data/factory/refill-request.json` /
+  `data/factory/refill-batches/**`; recover → stage batch qua gate G1-G8
+  (FAIL → ROLLBACK, KHÔNG đụng publish) → op refill chuẩn → validate →
+  commit deterministic. CÙNG concurrency group với factory-production nên
+  refill và publish KHÔNG BAO GIỜ mutate state cùng lúc; batch refill sai
+  KHÔNG BAO GIỜ làm hỏng publish bài vừa chạy.
 - `factory-liveness.yml` — liveness READ-ONLY mỗi 6 giờ (cron): watchdog +
   status + purity. KHÔNG bao giờ recover/delete/claim/publish.
 - `factory-publish-verify.yml` — FULL audit READ-ONLY (CHỈ workflow_dispatch,
@@ -25,9 +37,11 @@ Luồng cặp bài (push-driven): writer đọc status/manifests → viết 2 dr
 `_drafts/` → push → workflow TỰ claim EXACT 2 ID → QA (chấm + evidence
 hash) → publish hàng PASS qua gate → sửa REPAIR thì chỉ cần push lại draft
 đã sửa (repair push) → chờ Quality gate xanh + Pages deploy + kiểm URL live.
-Trước khi chọn cặp tiếp theo: còn PLANNED < 2 thì dispatch `refill` (ledger
-STAGED → PLANNED, KHÔNG filler; hết candidate → NEEDS_TOPIC_EXPANSION,
-STOP và báo blocker).
+Trước khi chọn cặp tiếp theo: còn PLANNED < 2 thì kích hoạt
+`factory-refill.yml` (dispatch `refill` hoặc push refill-request/batch),
+CHỜ refill success, FETCH MAIN, rồi viết cặp kế tiếp (ledger STAGED →
+PLANNED, KHÔNG filler; hết candidate → NEEDS_TOPIC_EXPANSION, STOP và báo
+blocker).
 
 ## 10 quy tắc
 

@@ -14,12 +14,14 @@ Phủ các kịch bản yêu cầu:
       --scope chunk TRƯỚC push; validate FAIL sau rebase => STOP;
       push đầu tiên thành công => FINAL_PUSHED_HEAD/ORIGIN_HEAD_AFTER.
       Không bao giờ force push (static).
-  S7  Static: hợp đồng 4 workflow (docs/factory-workflow-contract.md) —
+  S7  Static: hợp đồng 5 workflow (docs/factory-workflow-contract.md) —
       quality-gate.yml FAST + READ-ONLY; factory-liveness.yml 6h;
       factory-publish-verify.yml FULL theo yêu cầu
-      audit + READ-ONLY + cron tuần; factory-production.yml dispatch-only,
-      contents: write, không AI secrets, publish-gate.py là người xuất bản
-      duy nhất; các workflow/test đã retire KHÔNG quay lại;
+      audit + READ-ONLY; factory-production.yml đường nóng push _drafts
+      (KHÔNG refill trong hot path), contents: write; factory-refill.yml
+      refill dedicated (cùng concurrency group production); không AI
+      secrets, publish-gate.py là người xuất bản duy nhất; các
+      workflow/test đã retire KHÔNG quay lại;
       _data/publishing.yml enabled: false.
   S8  recover FAIL-CLOSED (docs/RECOVERY.md): reports hỏng => DỪNG rc=1
       (S8), transaction CHƯA đóng; sửa reports => recover lại đóng đúng
@@ -614,20 +616,23 @@ class PushBlockSim(unittest.TestCase):
 
 # ------------------------------------------------------------------ S7
 class StaticContract(unittest.TestCase):
-    """Hợp đồng 4 workflow (docs/factory-workflow-contract.md):
+    """Hợp đồng 5 workflow (docs/factory-workflow-contract.md):
     quality-gate (FAST, read-only, mọi push/PR), factory-production
-    (push main _drafts/** — đường nóng exact-ID — + dispatch chỉ bảo
-    trì status|recover|refill|diagnostics, contents: write),
-    factory-liveness (read-only, cron 6 giờ, KHÔNG bao giờ recover),
-    factory-publish-verify (FULL audit, read-only, CHỈ workflow_dispatch)."""
+    (push main _drafts/** — đường nóng exact-ID + backlog, KHÔNG refill
+    trong hot path — + dispatch chỉ bảo trì status|recover|diagnostics,
+    contents: write), factory-refill (refill dedicated, CÙNG concurrency
+    group blog-factory-production, KHÔNG publish bài), factory-liveness
+    (read-only, cron 6 giờ, KHÔNG bao giờ recover), factory-publish-verify
+    (FULL audit, read-only, CHỈ workflow_dispatch)."""
 
-    def test_s7_four_workflow_contract(self):
+    def test_s7_five_workflow_contract(self):
         wf = sorted(f for f in os.listdir(os.path.join(ROOT,
                                                        '.github/workflows'))
                    if f.endswith('.yml'))
         self.assertEqual(wf, ['factory-liveness.yml',
                               'factory-production.yml',
                               'factory-publish-verify.yml',
+                              'factory-refill.yml',
                               'quality-gate.yml'])
         # các workflow/test đã retire KHÔNG quay lại
         retired = ['factory-operator.yml', 'factory-validate.yml',
@@ -719,7 +724,7 @@ class StaticContract(unittest.TestCase):
                 continue
             self.assertNotIn('cron', s.lower(),
                              'cron trong phan chay duoc: %s' % s)
-        self.assertIn("description: 'status | recover | refill | diagnostics'", y)
+        self.assertIn("description: 'status | recover | diagnostics'", y)
         # dispatch sản xuất đã retire — chỉ còn op bảo trì
         for bad in ('action khong ho tro: $ACTION (chi status|resume',
                     "description: 'status | resume | next | qa | publish",
@@ -749,6 +754,78 @@ class StaticContract(unittest.TestCase):
             if s.startswith('- name: ') and ': ' in s[len('- name: '):]:
                 self.fail('tên step chứa ": ": %s' % s)
         self.assertIn("PYTHONDONTWRITEBYTECODE: '1'", y)
+        # REFILL KHONG THUOC DUONG NONG (2026-10-01): production KHONG
+        # stage batch, KHONG chay canonical refill, KHONG trigger qua
+        # refill-request.json — refill thuoc factory-refill.yml
+        for refill_op in ('factory-operator.py refill', '--refill',
+                          'stage-refill-batch'):
+            self.assertNotIn(refill_op, y,
+                             'refill KHONG duoc chay trong factory-production: %s'
+                             % refill_op)
+        self.assertNotIn('data/factory/refill-request.json', y,
+                         'production KHONG trigger qua refill-request.json')
+
+    def test_s7_refill_workflow_contract(self):
+        """factory-refill.yml (docs/factory-workflow-contract.md):
+        refill DEDICATED — recover truoc, stage gate G1-G8, canonical
+        refill, light validation, commit deterministic; CÙNG concurrency
+        group blog-factory-production (refill va publish KHONG BAO GIO
+        mutate state cung luc); KHONG claim draft/QA/publish bai."""
+        with open(os.path.join(ROOT, '.github/workflows/factory-refill.yml'),
+                  encoding='utf-8') as f:
+            y = f.read()
+        self.assertIn('contents: write', y)
+        # CÙNG concurrency group voi factory-production — hai workflow
+        # KHONG BAO GIO mutate state cung luc
+        self.assertIn('group: blog-factory-production', y)
+        self.assertIn('cancel-in-progress: false', y)
+        # trigger: dispatch refill + push refill-batches/refill-request
+        self.assertIn('workflow_dispatch:', y)
+        self.assertIn('push:', y)
+        self.assertIn('branches: [main]', y)
+        self.assertIn('data/factory/refill-batches/**', y)
+        self.assertIn('data/factory/refill-request.json', y)
+        self.assertNotIn('pull_request:', y)
+        self.assertNotIn('_drafts/**', y,
+                         'refill KHONG trigger qua draft push (hot path '
+                         'thuoc factory-production)')
+        for line in y.splitlines():
+            s2 = line.strip()
+            if s2.startswith('#') or not s2:
+                continue
+            self.assertNotIn('cron', s2.lower(),
+                             'cron trong phan chay duoc: %s' % s2)
+        # trinh tu chuan: recover TRUOC, stage qua gate, refill canonical
+        self.assertIn('factory-operator.py recover', y)
+        self.assertIn('stage-refill-batch.py --all', y)
+        self.assertIn('factory-operator.py refill', y)
+        code_order = '\n'.join(l for l in y.splitlines()
+                               if not l.strip().startswith('#'))
+        self.assertLess(code_order.index('factory-operator.py recover'),
+                        code_order.index('factory-operator.py refill'),
+                        'recover phai truoc op refill')
+        # light validation + commit deterministic, khong audit nang
+        self.assertIn('validate.py --scope chunk', y)
+        self.assertIn('queue.py --stats', y)
+        self.assertIn('watchdog.py', y)
+        for heavy in ('verify --scope full', 'test_soak', 'test_hardening',
+                      'capacity-audit', 'check-built-links'):
+            self.assertNotIn(heavy, y,
+                             'refill KHONG chay audit nang: %s' % heavy)
+        # refill KHONG claim draft / QA / publish bai
+        code = '\n'.join(l for l in y.splitlines()
+                       if not l.strip().startswith('#'))
+        for bad in ('prepare-next', 'publish --ids', 'qa --ids'):
+            self.assertNotIn(bad, code,
+                             'refill KHONG duoc cham draft/publish: %s' % bad)
+        # push block: rebase phai validate lai, khong force push
+        self.assertNotIn('--force', y.replace('force push', ''))
+        # ten step khong chua ": " (bug YAML startup)
+        for line in y.splitlines():
+            s2 = line.strip()
+            if s2.startswith('- name: ') and ': ' in s2[len('- name: '):]:
+                self.fail('tên step chứa ": ": %s' % s2)
+        self.assertIn("PYTHONDONTWRITEBYTECODE: '1'", y)
 
     def test_s7_qa_step_fatal_crash(self):
         y = read_workflow()
@@ -759,7 +836,8 @@ class StaticContract(unittest.TestCase):
 
     def test_s7_no_ai_no_secrets(self):
         for wf in ('quality-gate.yml', 'factory-production.yml',
-                   'factory-liveness.yml', 'factory-publish-verify.yml'):
+                   'factory-liveness.yml', 'factory-publish-verify.yml',
+                   'factory-refill.yml'):
             with open(os.path.join(ROOT, '.github/workflows', wf),
                       encoding='utf-8') as f:
                 y = f.read()

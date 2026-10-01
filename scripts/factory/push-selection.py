@@ -16,24 +16,42 @@ của /vanchinh, tách khỏi git để test fixture được không cần git):
 Output: JSON trên stdout:
   {
     "proceed": bool,          # false => workflow không chạy op nào
-    "mode": "new"|"repair"|"paused"|"skip",
+    "mode": "new"|"repair"|"backlog"|"paused"|"skip",
     "claim_ids": [...],       # PLANNED -> WRITING (prepare-next --ids)
     "qa_ids": [...],          # mục tiêu QA/publish tường minh
     "refuse": null|"lý do",   # non-null => push vi phạm hợp đồng
     "control_enabled": bool,  # data/factory/production-control.json
     "chunk_size": int,
     "planned_claimable": int, # số hàng PLANNED còn claim được
-    "refill_advised": bool    # claimable PLANNED < chunk_size
+    "refill_advised": bool,  # claimable PLANNED < chunk_size
+    "backlog_ids": [...],     # draft hợp lệ còn sót (không thuộc push)
+    "deferred_pushed_ids": [...]  # draft vừa push bị hoãn vì backlog
   }
 
 Quy tắc chọn (fail-closed, matrix là nguồn sự thật):
   NEW:     draft của hàng PLANNED (file vừa push) -> claim EXACT ID đó.
   REPAIR:  draft của hàng WRITING/QA/REPAIR/PASS -> QA/publish EXACT ID,
            KHÔNG claim hàng PLANNED mới.
-  PAUSED:  production-control enabled=false và push là bài mới ->
-           workflow exit sạch TRƯỚC KHI claim (qa/publish việc dở
-           vẫn được phép theo hợp đồng engine).
-  SKIP:    không có draft nào trong push (no-op — vd commit tooling).
+  BACKLOG: draft HỢP LỆ còn sót trong `_drafts/` cho hàng chưa xong
+           (PLANNED/WRITING/QA/REPAIR/PASS) mà KHÔNG thuộc push này —
+           dấu hiệu một pipeline trước đã chết trước claim/QA/publish
+           (mô hình /vanchinh). Chọn TỐI ĐA chunk_size ID theo thứ tự
+           deterministic; còn hàng dở REPAIRABLE thì chunk CHỈ chứa hàng
+           dở đó (engine resume-first: prepare-next TỪ CHỐI claim mới
+           khi còn việc dở — hàng PLANNED sót đợi lần chạy kế tiếp,
+           chuỗi tự lành); claim/QA CHỈ những
+           ID có draft thật, KHÔNG BAO GIỜ claim hàng PLANNED khác.
+           BACKLOG CÓ ƯU TIÊN hơn bài mới: draft vừa push (hợp lệ)
+           được hoãn (deferred_pushed_ids) và tự thành backlog ở lần
+           chạy kế tiếp — commit promote (draft biến mất khỏi
+           `_drafts/`) kích hoạt lại workflow, chuỗi tự lành, mỗi lần
+           TỐI ĐA chunk_size. Draft sót KHÔNG hợp lệ (sai tên, thiếu
+           article_id, ID lạ, hàng PUBLISHED/được bảo vệ) bị BỎ QUA —
+           KHÔNG BAO GIỜ chặn publish vì một draft sót lỗi.
+  PAUSED:  production-control enabled=false và lần chạy cần claim bài
+           mới -> workflow exit sạch TRƯỚC KHI claim (qa/publish việc
+           dở vẫn được phép theo hợp đồng engine).
+  SKIP:    không có draft nào trong push và không còn backlog (no-op).
 
 Từ chối (refuse, exit 3 — không đổi gì):
   - draft thiếu/không đọc được frontmatter hoặc thiếu article_id hợp lệ
@@ -65,6 +83,7 @@ DRAFT_RE = re.compile(r'^_drafts/[^/]+\.md$')
 DRAFT_NAMED_RE = re.compile(r'^_drafts/(\d{4}-\d{2}-\d{2})-(.+)\.md$')
 FRONT_ID_RE = re.compile(r'^article_id:\s*(\S+)\s*$', re.M)
 REPAIRABLE = ('WRITING', 'QA', 'REPAIR', 'PASS')
+PROTECTED = ('PUBLISHED', 'EXISTING', 'REVIEW', 'BLOCKED', 'FAIL')
 
 
 def load_control():
@@ -112,6 +131,41 @@ def draft_article_id(draft_path):
     return m.group(1) if m else None
 
 
+def detect_backlog(by_id, exclude_paths):
+    """BACKLOG (mô hình /vanchinh): draft HỢP LỆ còn sót trong `_drafts/`
+    cho hàng chưa xong mà KHÔNG thuộc push này — pipeline trước chết
+    trước claim/QA/publish. Trả về danh sách article_id deterministic:
+    hàng đang dở (REPAIRABLE) trước, hàng PLANNED sau, trong mỗi nhóm
+    theo article_id. Draft không hợp lệ bị BỎ QUA (không chọn, cũng
+    KHÔNG chặn) — một draft sót lỗi KHÔNG BAO GIỜ làm hỏng publish."""
+    stranded = []
+    drafts_dir = os.path.join(ROOT, '_drafts')
+    if not os.path.isdir(drafts_dir):
+        return stranded
+    for fn in sorted(os.listdir(drafts_dir)):
+        rel = '_drafts/%s' % fn
+        if rel in exclude_paths:
+            continue
+        aid = draft_article_id(rel)
+        if not aid or not ID_RE.match(aid):
+            continue  # mẫu nháp / không phải draft factory
+        row = by_id.get(aid)
+        if row is None:
+            continue  # ID lạ — bỏ qua, không claim
+        if row['status'] in PROTECTED:
+            continue  # PUBLISHED/được bảo vệ — KHÔNG BAO GIỜ ghi đè
+        slug = row_slug(row)
+        m = DRAFT_NAMED_RE.match(rel)
+        if not m or not slug or m.group(2) != slug:
+            continue  # draft sót sai tên — không chọn được
+        if row['status'] == 'PLANNED':
+            stranded.append((1, aid))
+        else:  # WRITING/QA/REPAIR/PASS — việc dở có ưu tiên cao nhất
+            stranded.append((0, aid))
+    stranded.sort()
+    return [aid for _k, aid in stranded]
+
+
 def select(added, modified):
     control = load_control()
     by_id, rows = load_matrix()
@@ -121,6 +175,7 @@ def select(added, modified):
         'chunk_size': control['chunk_size'],
         'planned_claimable': sum(1 for r in rows if r['status'] == 'PLANNED'),
         'refill_advised': False,
+        'backlog_ids': [], 'deferred_pushed_ids': [],
     }
     out['refill_advised'] = out['planned_claimable'] < control['chunk_size']
 
@@ -132,7 +187,40 @@ def select(added, modified):
 
     # chỉ quan tâm file trong _drafts/; phần khác của push là no-op
     drafts = [(p, kind) for p, kind in touched if p.startswith('_drafts/')]
+    pushed_paths = set(p for p, _k in drafts)
+    backlog_ids = detect_backlog(by_id, pushed_paths)
+    out['backlog_ids'] = list(backlog_ids)
+
+    def take_backlog():
+        """BACKLOG CÓ ƯU TIÊN: claim/QA TỐI ĐA chunk_size draft sót hợp
+        lệ; phần còn lại đợi lần chạy sau (commit promote kích hoạt lại
+        workflow — chuỗi tự lành). KHÔNG claim hàng PLANNED không có
+        draft. Engine resume-first (factory-operator.py prepare-next TỪ
+        CHỐI claim mới khi còn hàng WRITING/QA/REPAIR/PASS chưa xong):
+        còn backlog REPAIRABLE thì chunk CHỈ chứa hàng dở đó; hàng
+        PLANNED sót đợi lần chạy kế tiếp (commit promote re-trigger)."""
+        out['mode'] = 'backlog'
+        by_status = {aid: by_id[aid]['status'] for aid in backlog_ids}
+        repairable = [i for i in backlog_ids if by_status[i] in REPAIRABLE]
+        if repairable:
+            chosen = repairable[:control['chunk_size']]
+        else:
+            chosen = backlog_ids[:control['chunk_size']]
+        if not control['enabled']:
+            # enabled=false: KHÔNG claim hàng PLANNED (dừng sạch trước
+            # claim); QA/publish việc dở REPAIRABLE vẫn hợp lệ
+            chosen = [i for i in chosen if by_status[i] in REPAIRABLE]
+            if not chosen:
+                out['mode'] = 'paused'
+                return out
+        out['claim_ids'] = [i for i in chosen if by_status[i] == 'PLANNED']
+        out['qa_ids'] = list(chosen)
+        out['proceed'] = True
+        return out
+
     if not drafts:
+        if backlog_ids:
+            return take_backlog()
         return out
 
     seen_paths = set()
@@ -194,9 +282,17 @@ def select(added, modified):
     if new_ids:
         if not control['enabled']:
             # enabled=false: DỪNG SẠCH trước khi claim — không refuse
-            # (đường nóng exit 0, không claim, không QA/publish lần này).
+            # (đường nóng exit 0, không claim, không QA/publish lần này;
+            # backlog nếu có được báo cáo để xử lý khi bật lại).
             out['mode'] = 'paused'
             return out
+        if backlog_ids:
+            # BACKLOG CÓ ƯU TIÊN hơn bài mới (repair trước việc mới):
+            # draft vừa push (hợp lệ) KHÔNG mất — được hoãn và tự thành
+            # backlog ở lần chạy kế tiếp; commit promote của chính lần
+            # này kích hoạt lại workflow (chuỗi tự lành).
+            out['deferred_pushed_ids'] = list(new_ids)
+            return take_backlog()
         out['mode'] = 'new'
         out['claim_ids'] = new_ids
         out['qa_ids'] = list(new_ids)

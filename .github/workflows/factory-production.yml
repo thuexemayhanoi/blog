@@ -1,28 +1,28 @@
 name: Factory production
 
-# DUONG SAN XUAT DUY NHAT cua /blog (hop dong 4 workflow —
-# docs/factory-workflow-contract.md). TU PHASE 1 (2026-09-30) duong
+# DUONG SAN XUAT DUY NHAT cua /blog (hop dong 5 workflow —
+# docs/factory-workflow-contract.md). Tu PHASE 1 (2026-09-30) duong
 # san xuat CHAY THEO PUSH theo mo hinh /vanchinh (docs/PROC-PUBLISH.md):
 #
 #   writer ngoai (Mistral) commit/push draft vao _drafts/ (toi da
 #   chunk_size = 2 ID moi lan push, theo data/factory/production-
 #   control.json) -> workflow TU DONG:
 #     1. chon EXACT ID tu file _drafts vua push
-#        (scripts/factory/push-selection.py: ID la/repair/no-op,
-#        tu choi >2 ID, ID lap, ID la, ID da PUBLISHED)
+#        (scripts/factory/push-selection.py: mode new/repair/backlog/
+#        skip, tu choi >2 ID, ID lap, ID la, ID da PUBLISHED)
 #     2. production-control enabled=false -> EXIT SACH TRUOC KHI CLAIM
 #     3. recover transaction treo (FAIL-CLOSED, docs/RECOVERY.md;
 #        khong bao gio force-unlock ownership khong ro)
-#     4. prepare-next --ids — claim EXACT ID vua push, KHONG claim
+#     4. prepare-next --ids — claim EXACT ID duoc chon, KHONG claim
 #        hang PLANNED khac, KHONG chuan bi hang khong co draft
 #     5. qa --ids --scope fast (nguong 75/70 KHONG doi,
 #        docs/PROC-PUBLISH.md)
-#     6. publish --ids — CHI hang PASS, QUA publish-gate.py (nguoi
-#        xuat ban DUY NHAT; hard gate giu nguyen: business_fact PASS,
-#        legal PASS/NOT_REQUIRED, khong critical failure, content_sha256
-#        + matrix_row_sha256 khop, chan trung ID/slug/canonical, chan
-#        placeholder, chan ghi de bai PUBLISHED, chan xung dot
-#        transaction/writer-lock)
+#     6. publish --ids — CHI hang PASS cua vong QA vua roi, QUA
+#        publish-gate.py (nguoi xuat ban DUY NHAT; hard gate giu
+#        nguyen: business_fact PASS, legal PASS/NOT_REQUIRED, khong
+#        critical failure, content_sha256 + matrix_row_sha256 khop,
+#        chan trung ID/slug/canonical, chan placeholder, chan ghi de
+#        bai PUBLISHED, chan xung dot transaction/writer-lock)
 #     7. light smoke (validate.py --scope chunk + queue stats) —
 #        KHONG verify full, KHONG soak, KHONG hardening (do la cua
 #        factory-publish-verify.yml)
@@ -33,28 +33,31 @@ name: Factory production
 # draft REPAIR thi chi can push lai file do (repair push: QA/publish
 # EXACT ID sua, khong claim viec moi).
 #
+# BACKLOG (mo hinh /vanchinh, 2026-10-01): neu pipeline truoc chet
+# truoc claim/QA/publish ma draft HOP LE con sot trong _drafts/ cho
+# hang PLANNED/WRITING/QA/REPAIR/PASS, push-selection tra mode=backlog:
+# claim/QA CHINH XAC TOI DA chunk_size ID do (hang dang do REPAIRABLE
+# truoc, roi hang PLANNED, theo article_id), KHONG bao gio claim hang
+# PLANNED khac. Backlog CO UU TIEN hon bai moi — draft vua push duoc
+# hoan (deferred_pushed_ids) va tu thanh backlog o lan chay ke tiep:
+# commit promote (draft bien mat khoi _drafts/) kich hoat lai workflow
+# nay, chuoi tu lanh, moi lan <= chunk_size.
+#
+# REFILL KHONG THUOC DUONG NONG (2026-10-01): factory-production KHONG
+# stage topic batch, KHONG chay canonical refill trong lan publish bai
+# viet. Refill co workflow rieng factory-refill.yml (cung concurrency
+# group blog-factory-production — refill va publish KHONG BAO GIO
+# mutate state cung luc). Khi push-selection bao refill_advised
+# (claimable PLANNED < chunk_size), workflow chi PHAT CANH BAO:
+# writer/coordinator tu trigger factory-refill (dispatch hoac push
+# data/factory/refill-batches/), CHO refill success, FETCH MAIN, roi
+# moi push cap 2 bai ke tiep. Refill FAIL (batch sai / het pool
+# STAGED -> NEEDS_TOPIC_EXPANSION) khong bao gio lam hong lan publish
+# bai vua chay.
+#
 # workflow_dispatch chi con op BAO TRI (docs/PROC-PUBLISH.md):
 #   status       — in trang thai engine (read-only)
 #   recover      — recover transaction/lock treo (FAIL-CLOSED)
-#   refill       — materialize hang PLANNED khi het PLANNED (semantic:
-#                  SUCCESS bat buoc tao work that; het candidate STAGED
-#                  -> NEEDS_TOPIC_EXPANSION, KHONG filler)
-#
-#   TU 2026-10-01 REFILL PUSH-DRIVEN (tien hoa tuan tu cua duong nong,
-#   van tuan theo mo hinh /vanchinh): writer push _drafts/ HOAC cap nhat
-#   data/factory/refill-request.json; neu push-selection bao
-#   refill_advised (claimable PLANNED < chunk_size) va production-control
-#   enabled, workflow TU CHAY op refill trong CUNG lan push (sau light
-#   smoke, truoc commit — thay doi duoc commit cung lan). Op refill van
-#   la tool chuan: recover truoc, khoa atomic O_EXCL, transaction
-#   inactive, gate G1-G8, KHONG filler. Refill FAIL (het pool STAGED ->
-#   NEEDS_TOPIC_EXPANSION) chi ::warning, KHONG chan lan publish vua roi.
-#   TU 2026-10-01 STAGING BATCH writer-side (topic expansion that,
-#   giong tien le 2026-09-30): script scripts/factory/stage-refill-batch.py
-#   --all stage moi batch data/factory/refill-batches/*.json vao ledger
-#   candidates (idempotent theo candidate_id) TRUOC op refill; batch
-#   phai qua gate G1-G8 refill-queue.py --verify, FAIL -> rollback
-#   ledger + exit 1 (fail-closed). KHONG filler, KHONG exception gate.
 #   diagnostics  — chan doan read-only (validate chunk + queue stats)
 #
 # BAI DA XUAN BAN khong bao gio bi de: publish-gate tu choi promote
@@ -69,18 +72,18 @@ name: Factory production
 #     de bao cao phan biet dung head da chay.
 #   - commit promote cua workflow (draft -> _posts, file draft bien mat)
 #     co the kich hoat lai workflow nay qua paths _drafts/**; lan do
-#     push-selection tra mode=skip -> workflow exit 0 sach, khong lam gi.
+#     push-selection tra mode=backlog (neu con draft sot hop le) hoac
+#     mode=skip -> workflow exit 0 sach, khong lam gi (khong de quy).
 
 on:
   push:
     branches: [main]
     paths:
       - '_drafts/**'
-      - 'data/factory/refill-request.json'
   workflow_dispatch:
     inputs:
       action:
-        description: 'status | recover | refill | diagnostics'
+        description: 'status | recover | diagnostics'
         required: true
         type: string
 
@@ -115,8 +118,8 @@ jobs:
         run: |
           set -eu
           case "$ACTION" in
-            status|recover|refill|diagnostics) ;;
-            *) echo "::error::action khong ho tro: $ACTION (chi status|recover|refill|diagnostics)"; exit 1 ;;
+            status|recover|diagnostics) ;;
+            *) echo "::error::action khong ho tro: $ACTION (chi status|recover|diagnostics; refill thuoc factory-refill.yml)" ; exit 1 ;;
           esac
           echo "action=$ACTION"
 
@@ -145,9 +148,7 @@ jobs:
               f.write('planned_claimable=%s\n' % sel['planned_claimable'])
               f.write('control_enabled=%s\n' % str(sel['control_enabled']).lower())
           if sel['mode'] == 'skip':
-              label = ('refill-auto' if (sel['refill_advised'] and
-                                        sel['control_enabled'])
-                       else 'skip-noop')
+              label = 'skip-noop'
           else:
               label = 'push-%s-%s' % (sel['mode'],
                                       ','.join(sel['claim_ids'] or sel['qa_ids']))
@@ -156,8 +157,24 @@ jobs:
           print('selection: mode=%s claim=%s qa=%s refill_advised=%s'
                 % (sel['mode'], sel['claim_ids'], sel['qa_ids'],
                    sel['refill_advised']))
+          if sel['mode'] == 'backlog':
+              print('backlog: xu ly %s truoc (pipeline truoc chet truoc '
+                    'claim/QA/publish); con sot: %s'
+                    % (sel['qa_ids'], sel['backlog_ids']))
+              if sel['deferred_pushed_ids']:
+                  print('backlog: draft vua push %s duoc HOAN — chung tu '
+                        'thanh backlog o lan chay ke tiep (commit promote '
+                        'kich hoat lai workflow), KHONG mat.'
+                        % ','.join(sel['deferred_pushed_ids']))
           if sel['mode'] == 'paused':
               print('production-control: enabled=false — DUNG SACH TRUOC KHI CLAIM (khong QA/publish lan nay)')
+          if sel['refill_advised'] and sel['mode'] != 'skip':
+              print('::warning::refill_advised (claimable PLANNED=%d < chunk_size=%d) '
+                    '— trigger factory-refill.yml (dispatch refill hoac push '
+                    'data/factory/refill-batches/), CHO refill success, FETCH '
+                    'MAIN, roi push cap 2 bai ke tiep. Refill KHONG chay trong '
+                    'workflow nay.'
+                    % (sel['planned_claimable'], sel['chunk_size']))
           if sel['refuse']:
               raise SystemExit('REFUSED: %s' % sel['refuse'])
           EOF
@@ -168,13 +185,7 @@ jobs:
           set -eu
           python3 scripts/factory/factory-operator.py recover
 
-      - name: Recover transaction truoc op refill (dispatch)
-        if: github.event_name == 'workflow_dispatch' && env.ACTION == 'refill'
-        run: |
-          set -eu
-          python3 scripts/factory/factory-operator.py recover
-
-      - name: Claim EXACT ID vua push (KHONG claim hang PLANNED khac)
+      - name: Claim EXACT ID duoc chon (push hoac backlog — KHONG claim hang PLANNED khac)
         if: github.event_name == 'push' && steps.select.outputs.proceed == 'true' && steps.select.outputs.claim_ids != ''
         run: |
           set -eu
@@ -210,33 +221,11 @@ jobs:
           python3 scripts/factory/validate.py --scope chunk
           python3 scripts/factory/queue.py --stats
 
-      - name: Refill canonical khi selection bao refill_advised (push-driven)
-        if: github.event_name == 'push' && steps.select.outputs.refill_advised == 'true' && steps.select.outputs.control_enabled == 'true'
-        run: |
-          set -eu
-          python3 scripts/factory/factory-operator.py recover
-          if ls data/factory/refill-batches/*.json >/dev/null 2>&1; then
-            python3 scripts/factory/stage-refill-batch.py --all
-          fi
-          rc=0
-          python3 scripts/factory/factory-operator.py refill || rc=$?
-          if [ "$rc" -ne 0 ]; then
-            echo "::warning::refill rc=$rc - het candidate STAGED (NEEDS_TOPIC_EXPANSION?) hoac khoa/txn; bao writer. KHONG chan lan chay vua roi."
-          else
-            echo "refill: OK - da materialize them hang PLANNED (neu pool con)."
-          fi
-
       - name: op recover (dispatch)
         if: github.event_name == 'workflow_dispatch' && env.ACTION == 'recover'
         run: |
           set -eu
           python3 scripts/factory/factory-operator.py recover
-
-      - name: op refill (dispatch)
-        if: github.event_name == 'workflow_dispatch' && env.ACTION == 'refill'
-        run: |
-          set -eu
-          python3 scripts/factory/factory-operator.py refill
 
       - name: op diagnostics (dispatch, read-only)
         if: github.event_name == 'workflow_dispatch' && env.ACTION == 'diagnostics'
@@ -289,7 +278,7 @@ jobs:
           exit 1
 
       - name: Xac nhan trang thai sach (txn inactive, lock sach, checkpoint on dinh)
-        if: github.event_name == 'workflow_dispatch' || steps.select.outputs.proceed == 'true' || (github.event_name == 'push' && steps.select.outputs.refill_advised == 'true' && steps.select.outputs.control_enabled == 'true')
+        if: github.event_name == 'workflow_dispatch' || steps.select.outputs.proceed == 'true'
         run: |
           set -eu
           python3 scripts/factory/watchdog.py

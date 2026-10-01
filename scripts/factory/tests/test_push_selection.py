@@ -366,5 +366,239 @@ class PushHotPathTest(FxTestCase):
         self.assertEqual(by_id[aid]['status'], 'PUBLISHED')
 
 
-if __name__ == '__main__':
-    unittest.main(verbosity=2)
+
+
+class BacklogSelectionTest(FxTestCase):
+    """Kịch bản 11-15: BACKLOG recovery (mô hình /vanchinh, 2026-10-01).
+
+    Pipeline trước chết trước claim/QA/publish để draft HỢP LỆ sót trong
+    `_drafts/` cho hàng PLANNED/WRITING/QA/REPAIR/PASS. Selection phải:
+    - phát hiện EXACT các ID có draft thật (tối đa chunk_size, REPAIRABLE
+      trước rồi PLANNED, theo article_id)
+    - KHÔNG BAO GIỜ claim hàng PLANNED không có draft
+    - backlog CÓ ƯU TIÊN hơn bài mới (draft vừa push được hoãn,
+      KHÔNG mất, tự thành backlog ở lần chạy kế tiếp)
+    - draft sót KHÔNG hợp lệ bị bỏ qua — KHÔNG chặn publish
+    - KHÔNG BAO GIỜ đụng hàng PUBLISHED.
+    """
+
+    def _borrow(self, count):
+        """Mượn `count` hàng PLANNED (hermetic, no-op khi repo còn dư) và
+        trả về ĐÚNG `count` hàng đầu theo article_id — KHÔNG dùng cả
+        40 hàng PLANNED thật của fixture."""
+        borrow_planned_row(self.fx, count=count)
+        rows = sorted(planned_rows(self.fx), key=lambda r: r['id'])
+        self.assertGreaterEqual(len(rows), count)
+        return rows[:count]
+
+    def _stranded(self, rows):
+        """Tạo draft 'sót' (không push) cho các hàng cho trước."""
+        for row in rows:
+            make_draft(self.fx, row)
+        return sorted(r['id'] for r in rows)
+
+    def _ops(self, sel):
+        """Chạy ĐÚNG chuỗi op của factory-production.yml sau selection:
+        claim CHỈ claim_ids (prepare-next), QA/publish qa_ids, publish
+        chỉ hàng PASS trong qa-outcome (A PASS + B REPAIR: publish A)."""
+        if sel['claim_ids']:
+            joined = ','.join(sel['claim_ids'])
+            r = self.operator('prepare-next', '--ids', joined,
+                              '--scope', 'fast')
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertTrue(sel['qa_ids'])
+        joined = ','.join(sel['qa_ids'])
+        r = self.operator('qa', '--ids', joined, '--scope', 'fast')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        oc = json.load(open(os.path.join(self.fx, 'reports/factory',
+                                         'qa-outcome.json'),
+                            encoding='utf-8'))
+        passed = sorted(i for i, v in oc.get('outcomes', {}).items()
+                        if v == 'PASS')
+        self.assertEqual(passed, sorted(sel['qa_ids']),
+                         'draft mẫu đạt gate phải PASS hết')
+        r = self.operator('publish', '--ids', ','.join(passed),
+                          '--scope', 'fast')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertIn('PUBLISHED', r.stdout)
+
+    # ------------------- 11. backlog có ưu tiên hơn bài mới
+
+    def test_11_backlog_priority_over_new_push(self):
+        # pipeline trước chết: draft A,B sót (hàng PLANNED còn nguyên)
+        rows = self._borrow(4)
+        stranded_ids = self._stranded(rows[:2])
+        # writer push cặp mới C,D (hợp lệ)
+        fresh = rows[2:]
+        for row in fresh:
+            make_draft(self.fx, row)
+        fresh_ids = sorted(r['id'] for r in fresh)
+        rc, sel = selection(self.fx, added=[draft_rel(r) for r in fresh])
+        self.assertEqual(sel['mode'], 'backlog')
+        self.assertTrue(sel['proceed'])
+        self.assertEqual(sel['claim_ids'], stranded_ids)
+        self.assertEqual(sel['qa_ids'], stranded_ids)
+        self.assertEqual(sel['deferred_pushed_ids'], fresh_ids)
+        self.assertEqual(sorted(sel['backlog_ids']), stranded_ids)
+        # chuỗi tự lành: hot path hoàn tất backlog; cặp vừa push trở
+        # thành backlog của lần chạy kế tiếp (KHÔNG yêu cầu writer
+        # viết lại draft đã push)
+        self._ops(sel)
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        for aid in stranded_ids:
+            self.assertEqual(by_id[aid]['status'], 'PUBLISHED')
+        for aid in fresh_ids:
+            self.assertEqual(by_id[aid]['status'], 'PLANNED',
+                            'draft hoãn KHÔNG bị claim oan')
+            self.assertTrue(os.path.exists(
+                os.path.join(self.fx, draft_rel(by_id[aid]))),
+                            'draft hoãn KHÔNG mất — KHÔNG yêu cầu writer '
+                            'viết lại draft đã push')
+        # lần chạy kế tiếp (push rỗng — như commit promote re-trigger):
+        # backlog pick đúng cặp bị hoãn
+        rc, sel2 = selection(self.fx)
+        self.assertEqual(sel2['mode'], 'backlog')
+        self.assertEqual(sel2['claim_ids'], fresh_ids)
+        self.assertEqual(sel2['qa_ids'], fresh_ids)
+        self.assertEqual(sel2['deferred_pushed_ids'], [])
+        self._ops(sel2)
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        for aid in fresh_ids:
+            self.assertEqual(by_id[aid]['status'], 'PUBLISHED')
+
+    # ------------------- 12. backlog cap chunk_size, thứ tự deterministic
+
+    def test_12_backlog_cap_chunk_size(self):
+        rows = self._borrow(3)
+        ids = self._stranded(rows)
+        rc, sel = selection(self.fx)  # push rỗng (vd commit promote)
+        self.assertEqual(sel['mode'], 'backlog')
+        self.assertTrue(sel['proceed'])
+        self.assertEqual(len(sel['qa_ids']), 2,
+                         'backlog tối đa chunk_size = 2 mỗi lần chạy')
+        self.assertEqual(sel['qa_ids'], ids[:2])
+        self.assertEqual(sel['claim_ids'], ids[:2])
+        self.assertEqual(sorted(sel['backlog_ids']), ids)
+        # KHÔNG claim hàng PLANNED không có draft
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        for aid in sel['claim_ids']:
+            self.assertTrue(os.path.exists(
+                os.path.join(self.fx, draft_rel(by_id[aid]))),
+                '%s bị claim nhưng KHÔNG có draft thật' % aid)
+
+    # ------------------- 13. việc dở REPAIRABLE trước hàng PLANNED
+
+    def test_13_backlog_repairable_first(self):
+        rows = self._borrow(3)
+        # hàng dở: claim rồi (WRITING) nhưng pipeline chết trước QA
+        w = rows[0]
+        make_draft(self.fx, w)
+        r = self.operator('prepare-next', '--ids', w['id'], '--scope', 'fast')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual([x['id'] for x in writing_rows(self.fx)], [w['id']])
+        # 2 hàng PLANNED khác cũng có draft sót
+        p_ids = self._stranded(rows[1:])
+        rc, sel = selection(self.fx)
+        self.assertEqual(sel['mode'], 'backlog')
+        self.assertTrue(sel['proceed'])
+        # REPAIRABLE (WRITING) trước — engine resume-first: còn việc dở
+        # thì chunk CHỈ chứa hàng dở (prepare-next TỪ CHỐI claim mới khi
+        # còn WRITING/QA/REPAIR/PASS); hàng PLANNED sót đợi lần kế tiếp
+        self.assertEqual(sel['qa_ids'], [w['id']])
+        self.assertEqual(sel['claim_ids'], [],
+                         'còn hàng WRITING chưa xong — KHÔNG claim mới')
+        # hot path: QA/publish đúng hàng dở; 2 hàng PLANNED có draft sót
+        # KHÔNG bị đụng (đợi lần sau)
+        self._ops(sel)
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        self.assertEqual(by_id[w['id']]['status'], 'PUBLISHED')
+        self.assertEqual(by_id[p_ids[0]]['status'], 'PLANNED')
+        self.assertEqual(by_id[p_ids[1]]['status'], 'PLANNED')
+        # lần chạy kế tiếp (không còn việc dở): backlog pick 2 hàng
+        # PLANNED sót theo article_id, cap chunk_size
+        rc, sel2 = selection(self.fx)
+        self.assertEqual(sel2['mode'], 'backlog')
+        self.assertEqual(sel2['claim_ids'], p_ids)
+        self.assertEqual(sel2['qa_ids'], p_ids)
+        self._ops(sel2)
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        for aid in p_ids:
+            self.assertEqual(by_id[aid]['status'], 'PUBLISHED')
+
+    # ------------------- 14. draft sót không hợp lệ bị BỎ QUA
+
+    def test_14_backlog_ignores_invalid_stranded_drafts(self):
+        rows = self._borrow(2)
+        good, other = rows
+        make_draft(self.fx, good)
+        drafts = os.path.join(self.fx, '_drafts')
+        # (a) file không phải draft factory (mẫu nháp — thiếu article_id)
+        with open(os.path.join(drafts, '2026-01-01-mau-nhap-bai-moi.md'),
+                  'w', encoding='utf-8') as f:
+            f.write('---\ntitle: "MẪU NHÁP — không xuất bản"\n---\n\n'
+                    'nội dung mẫu, không có article_id.\n')
+        # (b) draft có article_id hợp lệ nhưng SAI tên slug — không chọn
+        other_slug = other['output_path'][len('_posts/{date}-'):-3]
+        with open(os.path.join(drafts, '2026-09-28-sai-ten-%s.md' % other_slug),
+                  'w', encoding='utf-8') as f:
+            f.write('---\ntitle: "sai tên"\narticle_id: %s\n---\n'
+                    'nội dung.\n' % other['id'])
+        # (c) draft sót trỏ ID đã PUBLISHED — bỏ qua, KHÔNG ghi đè
+        pub = next(r for r in matrix_rows(self.fx)
+                   if r['status'] == 'PUBLISHED')
+        pub_slug = pub['output_path']
+        pub_slug = pub_slug[len('_posts/{date}-'):-3] \
+            if pub_slug.startswith('_posts/{date}-') else \
+            pub_slug[len('_posts/'):-3][pub_slug[len('_posts/'):-3].index('-') + 1:]
+        with open(os.path.join(drafts,
+                               '2026-09-28-%s.md' % pub_slug),
+                  'w', encoding='utf-8') as f:
+            f.write('---\ntitle: "ghi đè?"\narticle_id: %s\n---\n'
+                    'nội dung.\n' % pub['id'])
+        rc, sel = selection(self.fx)
+        self.assertEqual(sel['mode'], 'backlog')
+        self.assertEqual(sel['qa_ids'], [good['id']],
+                         'chỉ draft hợp lệ được chọn; draft lỗi bị bỏ qua, '
+                         'KHÔNG refuse')
+        self.assertEqual(sel['claim_ids'], [good['id']])
+        self.assertEqual(sel['refuse'], None)
+        # hàng PUBLISHED KHÔNG bị đụng
+        by_id = {x['id']: x for x in matrix_rows(self.fx)}
+        self.assertEqual(by_id[pub['id']]['status'], 'PUBLISHED')
+
+    # ------------------- 15. control=false: backlog PLANNED dừng sạch
+
+    def test_15_backlog_paused_when_control_disabled(self):
+        row = self._borrow(1)[0]
+        make_draft(self.fx, row)
+        cp = 'data/factory/production-control.json'
+        ctl = json.load(open(os.path.join(self.fx, cp), encoding='utf-8'))
+        ctl['enabled'] = False
+        write_json(self.fx, cp, ctl)
+        # push rỗng + backlog toàn PLANNED -> paused (KHÔNG claim khi tắt)
+        rc, sel = selection(self.fx)
+        self.assertEqual(sel['mode'], 'paused')
+        self.assertFalse(sel['proceed'])
+        self.assertEqual(sel['claim_ids'], [])
+        self.assertEqual([x['id'] for x in writing_rows(self.fx)], [],
+                          'enabled=false mà vẫn claim = fail-open BUG')
+        # enabled=false: prepare-next (claim mới) phải dừng sạch
+        r = self.operator('prepare-next', '--ids', row['id'],
+                          '--scope', 'fast')
+        self.assertNotEqual(r.returncode, 0,
+                            'prepare-next phải dừng khi enabled=false')
+        # enabled=false + hàng dở REPAIRABLE có draft: QA/publish việc
+        # dở vẫn hợp lệ (repair không bị chặn)
+        ctl['enabled'] = True
+        write_json(self.fx, cp, ctl)
+        r = self.operator('prepare-next', '--ids', row['id'],
+                          '--scope', 'fast')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        ctl['enabled'] = False
+        write_json(self.fx, cp, ctl)
+        rc, sel2 = selection(self.fx)
+        self.assertEqual(sel2['mode'], 'backlog')
+        self.assertTrue(sel2['proceed'])
+        self.assertEqual(sel2['claim_ids'], [],
+                          'enabled=false KHÔNG claim, chỉ QA/publish dở')
+        self.assertEqual(sel2['qa_ids'], [row['id']])

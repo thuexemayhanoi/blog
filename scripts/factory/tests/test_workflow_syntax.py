@@ -110,9 +110,11 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
         names = sorted(os.path.basename(f) for f in found)
         self.assertEqual(
             names, ['factory-liveness.yml', 'factory-production.yml',
-                    'factory-publish-verify.yml', 'quality-gate.yml'],
-            'hop dong 4 workflow (docs/factory-workflow-contract.md): '
-            'cac workflow cu phai duoc retire, khong them workflow moi')
+                    'factory-publish-verify.yml', 'factory-refill.yml',
+                    'quality-gate.yml'],
+            'hop dong 5 workflow (docs/factory-workflow-contract.md): '
+            'cac workflow cu phai duoc retire, khong them workflow moi '
+            'ngoai danh sach hop dong')
 
     def test_every_run_block_passes_bash_n(self):
         paths = sorted(glob.glob(os.path.join(WORKFLOWS, '*.yml')))

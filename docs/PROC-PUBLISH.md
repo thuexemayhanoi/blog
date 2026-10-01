@@ -12,11 +12,11 @@ EXTERNAL AI (writer/coordinator)      ← viết prose, điều phối
    v
 GitHub Actions factory-production.yml ← MÔI TRƯỜNG THỰC THI
    |  PUSH main paths _drafts/** TỰ ĐỘNG CHẠY ĐƯỜNG NÓNG:
-   |  push-selection.py chọn EXACT ID (mới/repair/no-op; refuse >2 ID,
-   |  ID trùng, ID lạ, ID đã PUBLISHED) → production-control
+   |  push-selection.py chọn EXACT ID (mới/repair/backlog/no-op; refuse
+   |  >2 ID, ID trùng, ID lạ, ID đã PUBLISHED) → production-control
    |  enabled=false → exit sạch TRƯƠC khi claim → recover →
-   |  prepare-next --ids → qa --ids → publish --ids (hàng PASS)
-   |  → light smoke → commit/push một lần → watchdog
+   |  prepare-next --ids (claim_ids) → qa --ids → publish --ids (hàng
+   |  PASS) → light smoke → commit/push một lần → watchdog
    |  workflow_dispatch CHỈ còn op bảo trì (không còn next/qa/publish
    |  dispatch cho cặp bài thường)
    v
@@ -39,30 +39,40 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 ## Đường nóng PUSH (sản xuất cặp bài thường — KHÔNG cần dispatch)
 
 Writer push draft vào `_drafts/` → workflow tự động trên push main
-(paths `_drafts/**`, hoặc `data/factory/refill-request.json` khi cần
-refill — xem bước 0):
+(paths `_drafts/**`):
 
 1. `scripts/factory/push-selection.py` chọn EXACT ID từ file draft
    ADDED/MODIFIED của push: mode NEW (hàng PLANNED có draft) → claim đúng
    ID đó; mode REPAIR (hàng WRITING/QA/REPAIR/PASS) → chỉ QA/publish ID
-   sửa; mode SKIP (no-op) → exit 0. REFUSE (exit 3, fail-closed):
+   sửa; mode BACKLOG (mô hình /vanchinh — xem phần BACKLOG bên dưới) →
+   hoàn tất draft hợp lệ sót trong `_drafts/`, CÓ ƯU TIÊN trước bài mới;
+   mode SKIP (no-op) → exit 0. REFUSE (exit 3, fail-closed):
    >2 ID (chunk_size), ID trùng, thiếu/sai `article_id`, ID không có
    trong matrix, ID đã PUBLISHED/EXISTING (KHÔNG BAO GIỜ ghi đè), hàng
    REVIEW/BLOCKED/FAIL, tên draft sai slug matrix, push trộn mới + repair.
 2. production-control `enabled=false` → exit SẠCH trước khi claim.
 3. `recover` trước mọi op mutating (FAIL-CLOSED).
-4. `prepare-next --ids` claim EXACT ID vừa push (KHÔNG claim hàng
-   PLANNED khác).
-5. `qa --ids --scope fast` (ngưỡng 75/70 KHÔNG đổi).
+4. `prepare-next --ids` claim CHỈ `claim_ids` (hàng PLANNED của selection;
+   KHÔNG claim hàng PLANNED khác, KHÔNG claim lại hàng đang dở).
+5. `qa --ids --scope fast` trên `qa_ids` (ngưỡng 75/70 KHÔNG đổi).
 6. `publish --ids` — chỉ hàng PASS của vòng QA đó, QUA publish-gate.py
    (publish-gate vẫn là cơ chế promote DUY NHẤT; mọi hard gate giữ nguyên).
 7. Light smoke: `validate.py --scope chunk` + `queue.py --stats`
    (KHÔNG verify full/soak/hardening).
 8. Khi selection báo `refill_advised` (claimable PLANNED < chunk_size):
-   op `refill` chuẩn tự chạy trong cùng lần push (sau light smoke, trước
-   commit — KHÔNG cần dispatch).
+   workflow CHỈ in `::warning` nhắc writer/coordinator kích hoạt
+   `factory-refill.yml` (workflow_dispatch `refill` hoặc push
+   `data/factory/refill-request.json` / `data/factory/refill-batches/**`),
+   CHỜ refill success, FETCH MAIN, rồi mới push cặp bài kế tiếp. Refill
+   KHÔNG còn chạy trong đường nóng publish — một batch refill sai
+   KHÔNG BAO GIỜ làm hỏng publish bài vừa chạy (refill thuộc
+   `factory-refill.yml`, cùng concurrency group nên hai workflow không
+   bao giờ mutate state cùng lúc).
 9. Commit + push fast-forward MỘT lần; watchdog xác nhận txn inactive,
-   lock sạch, checkpoint ổn định.
+   lock sạch, checkpoint ổn định. Commit promote (draft rời khỏi
+   `_drafts/`) re-trigger workflow: nếu còn backlog, chuỗi tự lành chạy
+   tiếp cặp kế tiếp; không còn → mode skip, exit 0, KHÔNG commit (không
+   đệ quy).
 
 ## Actions bảo trì của factory-production.yml (workflow_dispatch)
 
@@ -70,8 +80,16 @@ refill — xem bước 0):
 |---|---|---|
 | `status` | `factory-operator.py status` | read-only; in checkpoint/txn/lock/matrix |
 | `recover` | `factory-operator.py recover` | phục hồi transaction treo; ownership không rõ → STOP |
-| `refill` | `factory-operator.py refill` | materialize hàng PLANNED từ refill ledger khi dưới ngưỡng; semantic: SUCCESS bắt buộc tạo work thật; hết candidate STAGED → NEEDS_TOPIC_EXPANSION, KHÔNG filler |
 | `diagnostics` | `validate.py --scope chunk` + `queue.py --stats` | chẩn đoán read-only |
+
+Op `refill` KHÔNG còn là action dispatch của factory-production — refill
+thuộc workflow riêng `factory-refill.yml` (workflow_dispatch `refill`
+hoặc push `data/factory/refill-request.json` /
+`data/factory/refill-batches/**`): recover → stage batch qua gate G1-G8
+(FAIL → ROLLBACK ledger nguyên vẹn + exit 1) → `factory-operator.py
+refill` chuẩn → validate chunk + queue stats → commit deterministic.
+Semantic giữ nguyên: SUCCESS bắt buộc tạo work thật; hết candidate STAGED
+→ NEEDS_TOPIC_EXPANSION, KHÔNG filler.
 
 Các op `next`/`qa`/`publish` KHÔNG còn là action dispatch — cặp bài
 thường chạy qua đường nóng push; các op khác của `factory-operator.py`
@@ -91,13 +109,14 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 ## Quy trình một cặp bài (push-driven)
 
 0. Trước khi chọn cặp tiếp theo: nếu hàng PLANNED còn claim được < 2,
-   push cập nhật `data/factory/refill-request.json` (hoặc push cặp draft
-   kế tiếp — khi push-selection báo `refill_advised`, workflow tự chạy op
-   `refill` chuẩn trong cùng lần push, KHÔNG cần dispatch tay). Refill
-   SUCCESS (PLANNED thật tăng) → chọn cặp từ `next_claimable_id`/manifest
-   và làm tiếp; NEEDS_TOPIC_EXPANSION → workflow chỉ cảnh báo; writer
-   STOP, báo đúng blocker (hết candidate STAGED trong ledger — cần mở
-   rộng topic qua gate), KHÔNG tự tạo filler.
+   kích hoạt `factory-refill.yml` (workflow_dispatch `refill` hoặc push
+   `data/factory/refill-request.json` / batch đã duyệt vào
+   `data/factory/refill-batches/**`) rồi CHỜ refill success và FETCH MAIN.
+   Refill SUCCESS (PLANNED thật tăng) → chọn cặp từ
+   `next_claimable_id`/manifest và làm tiếp; NEEDS_TOPIC_EXPANSION →
+   refill STOP sạch (KHÔNG ảnh hưởng publish đã chạy); writer báo đúng
+   blocker (hết candidate STAGED trong ledger — cần mở rộng topic qua
+   gate), KHÔNG tự tạo filler.
 1. Writer ngoài viết draft vào `_drafts/` (KHÔNG `_posts/`), tuân theo
    `docs/ARTICLE-RULES.md`, `docs/SOURCE-RESEARCH.md`,
    `docs/INTERNAL-LINKING.md`, `docs/QUALITY-RUBRIC.md`; frontmatter bắt
@@ -119,6 +138,31 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
    verify theo scope fast; workflow commit + push fast-forward.
 5. Chờ Quality gate xanh trên đúng HEAD + Pages deploy SUCCESS + kiểm tra
    live URL 200 + sitemap.
+
+## BACKLOG recovery (mô hình /vanchinh — pipeline chết giữa chừng)
+
+Nếu pipeline trước chết SAU khi draft đã vào `_drafts/` nhưng TRƯỚC
+claim/QA/publish, các draft hợp lệ đó KHÔNG bao giờ bị viết lại: lần chạy
+kế tiếp của factory-production (push mới hoặc commit promote re-trigger)
+nhận diện EXACT các article ID có draft thật và hoàn tất chúng:
+
+- BACKLOG CÓ ƯU TIÊN trước bài mới: nếu vừa push cặp draft mới trong
+  khi còn backlog, selection hoãn cặp mới (`deferred_pushed_ids` —
+  KHÔNG mất, KHÔNG bị claim oan) và xử lý backlog trước. Commit promote
+  của chính lần chạy đó re-trigger workflow: cặp bị hoãn tự thành
+  backlog của lần kế tiếp (chuỗi tự lành, mỗi lần tối đa chunk_size).
+- Thứ tự deterministic: hàng đang dở REPAIRABLE (WRITING/QA/REPAIR/PASS)
+  trước rồi hàng PLANNED, trong mỗi nhóm theo article_id; tối đa
+  chunk_size mỗi lần. Engine resume-first: còn hàng dở thì chunk backlog
+  CHỈ chứa hàng dở (prepare-next TỪ CHỐI claim mới khi còn việc dở) —
+  hàng PLANNED sót đợi lần kế tiếp.
+- KHÔNG BAO GIỜ claim hàng PLANNED không có draft; KHÔNG BAO GIỜ đụng
+  hàng PUBLISHED (kể cả khi draft sót trỏ ID đã xuất bản).
+- Draft sót KHÔNG hợp lệ (mẫu nháp thiếu `article_id`, sai tên slug,
+  ID lạ, hàng được bảo vệ) bị BỎ QUA — KHÔNG chặn publish vì một draft
+  lỗi.
+- Repair có ưu tiên trước việc mới; KHÔNG yêu cầu writer tạo lại draft
+  đã push.
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
