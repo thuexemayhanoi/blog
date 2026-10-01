@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T04:22:33+00:00",
+  "updated_at": "2026-10-01T04:24:27+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01024",
-      "started_at": "2026-10-01T02:06:21+00:00",
-      "source": "_drafts/2026-10-01-ha-noi-i-suoi-to-bang-xe-may-cung-uong-va-thoi-gian.md",
-      "destination": "_posts/2026-10-01-ha-noi-i-suoi-to-bang-xe-may-cung-uong-va-thoi-gian.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a8b98402993f147eba9eb07ccd8af47ea662c97a",
-      "finished_at": "2026-10-01T02:06:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01025",
       "started_at": "2026-10-01T02:06:21+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "91bc0abc971b80b082fc509bf5568e7f9620bc27",
       "finished_at": "2026-10-01T04:22:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01049",
+      "started_at": "2026-10-01T04:24:26+00:00",
+      "source": "_drafts/2026-10-01-i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien.md",
+      "destination": "_posts/2026-10-01-i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien.md",
+      "result": "PUBLISHED",
+      "commit_sha": "69c56a26d30262ac4f62b41bf4e1bcfe1f4b05ff",
+      "finished_at": "2026-10-01T04:24:27+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
