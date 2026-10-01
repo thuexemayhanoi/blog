@@ -532,8 +532,12 @@ class BacklogSelectionTest(FxTestCase):
         good, other = rows
         make_draft(self.fx, good)
         drafts = os.path.join(self.fx, '_drafts')
-        # (a) file không phải draft factory (mẫu nháp — thiếu article_id)
-        with open(os.path.join(drafts, '2026-01-01-mau-nhap-bai-moi.md'),
+        # (a) file không phải draft factory (mẫu nháp — thiếu article_id).
+        # Ten file co y KHONG trung slug cua template that: scripts/
+        # KHONG nam trong exclude cua _config.yml nen Jekyll copy file
+        # test nay vao _site - quality gate draft-leak grep slug cua
+        # template tren TOAN BO _site, file test khong duoc chua slug do.
+        with open(os.path.join(drafts, '2026-01-01-mau-nhap-khong-xuat-ban.md'),
                   'w', encoding='utf-8') as f:
             f.write('---\ntitle: "MẪU NHÁP — không xuất bản"\n---\n\n'
                     'nội dung mẫu, không có article_id.\n')
