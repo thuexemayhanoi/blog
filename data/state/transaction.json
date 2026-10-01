@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T12:18:23+00:00",
+  "updated_at": "2026-10-01T12:24:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01073",
-      "started_at": "2026-10-01T08:46:41+00:00",
-      "source": "_drafts/2026-10-01-chay-xe-vong-quanh-ban-ao-o-son-luu-y-uong-ven-bien.md",
-      "destination": "_posts/2026-10-01-chay-xe-vong-quanh-ban-ao-o-son-luu-y-uong-ven-bien.md",
-      "result": "PUBLISHED",
-      "commit_sha": "295278cb1d3bcee2354d89fb1d167b15b35df939",
-      "finished_at": "2026-10-01T08:46:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01074",
-      "started_at": "2026-10-01T08:56:30+00:00",
-      "source": "_drafts/2026-10-01-sinh-vien-thue-xe-may-theo-thang-chon-xe-va-tiet-kiem-chi-phi.md",
-      "destination": "_posts/2026-10-01-sinh-vien-thue-xe-may-theo-thang-chon-xe-va-tiet-kiem-chi-phi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cd3e2cb6fc660ffabc83a9d08dbed2647ccb47c4",
-      "finished_at": "2026-10-01T08:56:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01075",
       "started_at": "2026-10-01T08:56:30+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "3d7fe34b10d3a29a97ab29e8ee7531b8bbb23755",
       "finished_at": "2026-10-01T12:18:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01102",
+      "started_at": "2026-10-01T12:24:36+00:00",
+      "source": "_drafts/2026-10-01-ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh.md",
+      "destination": "_posts/2026-10-01-ha-noi-i-ninh-binh-bang-xe-may-hai-ngay-chia-lo-trinh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "274d008750e063189bcd444ecdac6666311a17ee",
+      "finished_at": "2026-10-01T12:24:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01103",
+      "started_at": "2026-10-01T12:24:36+00:00",
+      "source": "_drafts/2026-10-01-xuong-doc-dai-bang-xe-so-phanh-hay-ve-so.md",
+      "destination": "_posts/2026-10-01-xuong-doc-dai-bang-xe-so-phanh-hay-ve-so.md",
+      "result": "PUBLISHED",
+      "commit_sha": "274d008750e063189bcd444ecdac6666311a17ee",
+      "finished_at": "2026-10-01T12:24:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
