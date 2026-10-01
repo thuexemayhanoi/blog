@@ -241,7 +241,18 @@ class SoakRecoveryTest(FxTestCase):
         if i in INJECT_MISSING_POST:
             # mất file _posts của bài borrow đã xuất bản -> engine lệch ->
             # preflight phải TỪ CHỐI MUTATE
-            victim_id = self.borrowed_ids[0]
+            # hermetic: khi repo thật còn nhiều hàng PLANNED, soak chưa
+            # cần borrow hàng nào (borrowed_ids rỗng) — dùng bài
+            # planned:PUBLISHED bất kỳ còn file _posts thật làm nạn nhân
+            if self.borrowed_ids:
+                victim_id = self.borrowed_ids[0]
+            else:
+                victim_id = next(
+                    r['id'] for r in matrix_rows(self.fx)
+                    if r['status'] == 'PUBLISHED'
+                    and r['source'].startswith('planned:')
+                    and os.path.exists(os.path.join(
+                        self.fx, r['output_path'])))
             rows = matrix_rows(self.fx)
             victim = next(r for r in rows if r['id'] == victim_id)
             vpath = os.path.join(self.fx, victim['output_path'])
