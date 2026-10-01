@@ -29,7 +29,7 @@ Một mẹo nhỏ cho người đi xe máy thuê: chọn quán trước rồi t�
 
 Với nhóm định ngồi cà phê nhiều giờ, nên hỏi trước giờ đóng cửa của bãi khi gửi xe: một số bãi nhỏ trong ngõ đóng sớm, và không ai muốn đang nhâm nhi ly cà phê tối thì phải vội chạy ra lấy xe. Các bãi quanh hồ Gươm và Đồng Xuân thường giữ xe muộn hơn, hợp với các buổi tối dài.
 
-Ba thói quen an toàn nên giữ mỗi buổi: khóa cổ xe mỗi lần hạ xe, mang theo đồ giá trị thay vì để trong cốp, và tránh để giấy tờ trên xe. Với xe máy thuê, thêm một bước kiểm tra đèn, còi và gương khi nhận xe để buổi tối về yên tâm hơn. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nhang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe thuê.
+Ba thói quen an toàn nên giữ mỗi buổi: khóa cổ xe mỗi lần hạ xe, mang theo đồ giá trị thay vì để trong cốp, và tránh để giấy tờ trên xe. Với xe máy thuê, thêm một bước kiểm tra đèn, còi và gương khi nhận xe để buổi tối về yên tâm hơn. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe thuê.
 
 ## Chọn buổi và ghép lịch
 
