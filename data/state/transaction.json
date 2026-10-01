@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T11:28:54+00:00",
+  "updated_at": "2026-10-01T11:33:45+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01057",
-      "started_at": "2026-10-01T04:42:56+00:00",
-      "source": "_drafts/2026-10-01-i-cong-vien-yen-so-bang-xe-may-cho-o-xe-va-uong-vao.md",
-      "destination": "_posts/2026-10-01-i-cong-vien-yen-so-bang-xe-may-cho-o-xe-va-uong-vao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0b2a7c4aabae4394e45b87cadddbeb788e9def2f",
-      "finished_at": "2026-10-01T04:42:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01058",
-      "started_at": "2026-10-01T04:46:28+00:00",
-      "source": "_drafts/2026-10-01-i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo.md",
-      "destination": "_posts/2026-10-01-i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d11ed282d4e3bce47a9788a6bdccfa168f97b309",
-      "finished_at": "2026-10-01T04:46:28+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01059",
       "started_at": "2026-10-01T04:46:28+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "915ffb88a1136834bfea6bd59348a4a6f04a656d",
       "finished_at": "2026-10-01T11:28:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01082",
+      "started_at": "2026-10-01T11:33:45+00:00",
+      "source": "_drafts/2026-10-01-en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe.md",
+      "destination": "_posts/2026-10-01-en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d09ffadc2af99e4154c223226cbaceec20f1aa33",
+      "finished_at": "2026-10-01T11:33:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01083",
+      "started_at": "2026-10-01T11:33:45+00:00",
+      "source": "_drafts/2026-10-01-wave-hay-sirius-khi-thue-chay-pho-so-sanh-thuc-te.md",
+      "destination": "_posts/2026-10-01-wave-hay-sirius-khi-thue-chay-pho-so-sanh-thuc-te.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d09ffadc2af99e4154c223226cbaceec20f1aa33",
+      "finished_at": "2026-10-01T11:33:45+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
