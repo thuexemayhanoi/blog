@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T04:42:56+00:00",
+  "updated_at": "2026-10-01T04:46:28+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01033",
-      "started_at": "2026-10-01T02:17:44+00:00",
-      "source": "_drafts/2026-10-01-cho-phien-ong-van-bang-xe-may-cuoi-tuan.md",
-      "destination": "_posts/2026-10-01-cho-phien-ong-van-bang-xe-may-cuoi-tuan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "901ee0f7aa8fc9e717ff10dd046ea636eb85be72",
-      "finished_at": "2026-10-01T02:17:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01034",
-      "started_at": "2026-10-01T02:20:48+00:00",
-      "source": "_drafts/2026-10-01-ky-thuat-vuot-xe-an-toan-tren-uong.md",
-      "destination": "_posts/2026-10-01-ky-thuat-vuot-xe-an-toan-tren-uong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f5df4bdd5f5050d4705b6725ddb90a6d31e06586",
-      "finished_at": "2026-10-01T02:20:48+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01035",
       "started_at": "2026-10-01T02:20:48+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0b2a7c4aabae4394e45b87cadddbeb788e9def2f",
       "finished_at": "2026-10-01T04:42:56+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01058",
+      "started_at": "2026-10-01T04:46:28+00:00",
+      "source": "_drafts/2026-10-01-i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo.md",
+      "destination": "_posts/2026-10-01-i-mai-chau-qua-eo-thung-khe-chay-xe-an-toan-tren-eo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d11ed282d4e3bce47a9788a6bdccfa168f97b309",
+      "finished_at": "2026-10-01T04:46:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01059",
+      "started_at": "2026-10-01T04:46:28+00:00",
+      "source": "_drafts/2026-10-01-xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo.md",
+      "destination": "_posts/2026-10-01-xe-so-hay-xe-ga-i-mai-chau-chon-xe-cho-cung-uong-eo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d11ed282d4e3bce47a9788a6bdccfa168f97b309",
+      "finished_at": "2026-10-01T04:46:28+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
