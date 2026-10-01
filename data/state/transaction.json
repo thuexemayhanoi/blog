@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T02:20:48+00:00",
+  "updated_at": "2026-10-01T02:38:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01011",
-      "started_at": "2026-09-30T20:56:38+00:00",
-      "source": "_drafts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-nha-hat-lon-ha-noi.md",
-      "destination": "_posts/2026-09-30-nhung-luu-y-khi-chay-xe-quanh-nha-hat-lon-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6c80b564dc4ab054876b800a0ddbce829b47c068",
-      "finished_at": "2026-09-30T20:56:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01012",
-      "started_at": "2026-09-30T20:58:42+00:00",
-      "source": "_drafts/2026-09-30-en-ho-thien-quang-bang-xe-may-gui-xe-va-uong-i.md",
-      "destination": "_posts/2026-09-30-en-ho-thien-quang-bang-xe-may-gui-xe-va-uong-i.md",
-      "result": "PUBLISHED",
-      "commit_sha": "46e420ec9cfac3378a644311c4fb406dbe9e8a0e",
-      "finished_at": "2026-09-30T20:58:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01013",
       "started_at": "2026-09-30T20:58:42+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f5df4bdd5f5050d4705b6725ddb90a6d31e06586",
       "finished_at": "2026-10-01T02:20:48+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01036",
+      "started_at": "2026-10-01T02:38:05+00:00",
+      "source": "_drafts/2026-10-01-ha-doc-dai-bang-xe-ga-an-toan.md",
+      "destination": "_posts/2026-10-01-ha-doc-dai-bang-xe-ga-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3f401c5548ec3813480f1f322d4bddb0d45c7632",
+      "finished_at": "2026-10-01T02:38:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01037",
+      "started_at": "2026-10-01T02:38:05+00:00",
+      "source": "_drafts/2026-10-01-gui-xe-o-khach-san-va-nha-nghi-khi-i-xe-may.md",
+      "destination": "_posts/2026-10-01-gui-xe-o-khach-san-va-nha-nghi-khi-i-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3f401c5548ec3813480f1f322d4bddb0d45c7632",
+      "finished_at": "2026-10-01T02:38:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
