@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-01T04:14:12+00:00",
+  "updated_at": "2026-10-01T04:22:33+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01023",
-      "started_at": "2026-10-01T02:03:22+00:00",
-      "source": "_drafts/2026-10-01-nghi-chan-tren-uong-i-ho-ai-lai-bang-xe-may.md",
-      "destination": "_posts/2026-10-01-nghi-chan-tren-uong-i-ho-ai-lai-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5de7ee369bb16df95261fa3ba7d462d158d4a96d",
-      "finished_at": "2026-10-01T02:03:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01024",
       "started_at": "2026-10-01T02:06:21+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "a1608ecbf02c8a33e560513df847da9d77a8ff2e",
       "finished_at": "2026-10-01T04:14:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01048",
+      "started_at": "2026-10-01T04:22:33+00:00",
+      "source": "_drafts/2026-10-01-cho-hoa-hang-ma-mua-tet-bang-xe-may-o-xe-va-thoi-iem-i.md",
+      "destination": "_posts/2026-10-01-cho-hoa-hang-ma-mua-tet-bang-xe-may-o-xe-va-thoi-iem-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "91bc0abc971b80b082fc509bf5568e7f9620bc27",
+      "finished_at": "2026-10-01T04:22:33+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
