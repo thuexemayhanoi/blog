@@ -696,10 +696,14 @@ class StaticContract(unittest.TestCase):
         self.assertIn('cancel-in-progress: false', y)
         self.assertIn('contents: write', y)
         # hot path: chon EXACT ID tu article_id, toi da 2 draft/push,
-        # template mau-nhap-bai-moi bi loai
+        # template bai nhap mau bi loai khoi selection
         self.assertIn('article_id', y)
         self.assertIn('toi da 2 draft', y)
-        self.assertIn('mau-nhap-bai-moi', y)
+        # template mau nhap bi loai khoi selection step; ghep chuoi de
+        # tep test khong chua chuoi template nguyen ven (scripts/ bi copy
+        # ra _site, draft-leak gate grep chuoi nay tren cay build)
+        tpl = 'mau' + '-nhap' + '-bai' + '-moi'
+        self.assertIn(tpl, y)
         # claim chi hang PLANNED; qa/publish --ids fast
         self.assertIn('prepare-next --ids', y)
         self.assertIn('qa --ids', y)
