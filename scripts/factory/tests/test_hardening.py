@@ -9,16 +9,20 @@ Phủ các kịch bản yêu cầu:
   S4  Draft hỏng UTF-8 => qa crash là FATAL; workflow qa step `set -eu`,
       không nuốt exit code.
   S5  generate-reports.py FAIL => prepare-next DỪNG, không claim.
-  S6  Push block của publish-drafts.yml mô phỏng bằng fake git: push
-      FAIL => STOP ngay (không rebase, không retry); commit rồi mới
-      push; không thay đổi => không commit; KHÔNG bao giờ force push
+  S6  Push block của factory-publish.yml mô phỏng bằng fake git: commit
+      rồi mới push; push non-fast-forward => bounded retry (fetch +
+      rebase, tối đa 3 lần thử) rồi FAIL; rebase conflict => abort
+      ngay; không thay đổi => không commit; KHÔNG bao giờ force push
       (static).
-  S7  Static: hợp đồng 4 workflow hiện tại — quality-gate.yml FAST +
-      READ-ONLY; factory-liveness.yml 6h; factory-publish-verify.yml
-      FULL audit + READ-ONLY; publish-drafts.yml đường nóng đơn giản
-      push _drafts (QA 75/70, KHÔNG refill, không AI/API secrets);
-      publish-gate.py là người xuất bản duy nhất; các workflow đã
-      retire (factory-production, factory-refill, ...) KHÔNG quay lại;
+  S7  Static: hợp đồng CHÍNH XÁC 6 workflow hiện tại — quality-gate.yml
+      FAST + READ-ONLY; factory-publish.yml production publisher DUY
+      NHẤT (turbo queue 2..10 draft/push chia pair 2, chọn EXACT ID từ
+      article_id, claim chỉ hàng PLANNED, QA 75/70, KHÔNG refill,
+      không AI/API secrets); factory-liveness.yml 6h READ-ONLY
+      fail-closed; factory-publish-verify.yml FULL audit + READ-ONLY;
+      factory-soak.yml hermetic on-demand; article-batch.yml dry-run
+      READ-ONLY; các workflow đã retire (publish-drafts,
+      factory-production, factory-refill, ...) KHÔNG quay lại;
       _data/publishing.yml enabled: false.
   S8  recover FAIL-CLOSED (docs/RECOVERY.md): reports hỏng => DỪNG rc=1
       (S8), transaction CHƯA đóng; sửa reports => recover lại đóng đúng
@@ -406,7 +410,7 @@ class RecoverHardening(unittest.TestCase):
 
 # ------------------------------------------------------------------ S6
 def read_workflow():
-    with open(os.path.join(ROOT, '.github/workflows/publish-drafts.yml'),
+    with open(os.path.join(ROOT, '.github/workflows/factory-publish.yml'),
               encoding='utf-8') as f:
         return f.read()
 
@@ -470,10 +474,11 @@ sys.exit(int(os.environ.get('VERIFY_EXIT', '0')))
 
 
 class PushBlockSim(unittest.TestCase):
-    """Mô phỏng run-block commit của publish-drafts.yml bằng fake git:
-    pipeline đơn giản — commit 1 lần rồi push; push FAIL => run FAIL
-    ngay (KHÔNG rebase, KHÔNG retry); không thay đổi => không commit;
-    không bao giờ force push (static)."""
+    """Mô phỏng run-block commit của factory-publish.yml bằng fake git:
+    pipeline đơn giản — commit 1 lần rồi push; push non-FF => bounded
+    retry (fetch + rebase, tối đa 3 lần thử rồi FAIL — KHÔNG bao giờ
+    force push); rebase conflict => abort ngay; không thay đổi =>
+    không commit."""
 
     def setUp(self):
         self.work, self.tmp = fresh_copy()
@@ -483,11 +488,13 @@ class PushBlockSim(unittest.TestCase):
         self.git_log = os.path.join(self.tmp, 'git.log')
         self.verify_log = os.path.join(self.tmp, 'verify.log')
         self.block = extract_run_block(
-            read_workflow(), 'Commit ket qua publish (1 commit)')
+            read_workflow(), 'Commit publish results (single commit per queue run)')
         # GitHub Actions thay ${{ }} trước khi bash chạy; làm giống engine
         # để bash chạy đúng ở local
         self.block = self.block.replace(
-            '${{ steps.select.outputs.ids }}', 'TESTIDS')
+            '${{ steps.select.outputs.mode }}', 'new')
+        self.block = self.block.replace(
+            '${{ steps.select.outputs.queue }}', 'TESTIDS')
         # kịch bản chung: config ×2, add -A, diff --cached (có thay đổi),
         # commit
         self.common = [
@@ -537,23 +544,40 @@ class PushBlockSim(unittest.TestCase):
         with open(self.git_log) as f:
             return f.read().splitlines()
 
-    def test_s6a_push_fail_stops_no_retry(self):
+    def test_s6a_non_ff_bounded_retry_then_fail(self):
         r = self._run_block([
             {'args': ['push'], 'exit': 1,
              'err': 'non-fast-forward\n'},
-            # nếu pipeline retry thì bước này sẽ khớp và run exit 0 — FAIL
-            {'args': ['push'], 'exit': 0},
+            {'args': ['fetch', 'origin'], 'exit': 0},
+            {'args': ['rebase', 'origin/main'], 'exit': 0},
+            {'args': ['push'], 'exit': 1,
+             'err': 'non-fast-forward\n'},
+            {'args': ['fetch', 'origin'], 'exit': 0},
+            {'args': ['rebase', 'origin/main'], 'exit': 0},
+            {'args': ['push'], 'exit': 1,
+             'err': 'non-fast-forward\n'},
         ])
         self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
         calls = self._git_calls()
-        self.assertEqual(calls.count('CALL push'), 1,
-                         'push FAIL phai STOP ngay — khong rebase, '
-                         'khong retry')
+        self.assertEqual(calls.count('CALL push'), 3,
+                         'non-FF: toi da 3 lan thu — khong treo mai, '
+                         'khong force')
+        self.assertEqual(
+            sum(1 for c in calls if c.startswith('CALL fetch origin')), 2,
+            'moi retry phai fetch truth tuoi truoc khi rebase')
+        self.assertEqual(
+            sum(1 for c in calls if c == 'CALL rebase origin/main'), 2,
+            'moi retry phai rebase len truth tuoi')
         self.assertNotIn('--force', '\n'.join(calls))
-        self.assertNotIn('rebase', '\n'.join(calls))
 
-    def test_s6b_clean_push_success(self):
-        r = self._run_block([{'args': ['push'], 'exit': 0}])
+    def test_s6b_retry_recovers_then_success(self):
+        r = self._run_block([
+            {'args': ['push'], 'exit': 1,
+             'err': 'non-fast-forward\n'},
+            {'args': ['fetch', 'origin'], 'exit': 0},
+            {'args': ['rebase', 'origin/main'], 'exit': 0},
+            {'args': ['push'], 'exit': 0},
+        ])
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         calls = self._git_calls()
         i_commit = next(i for i, c in enumerate(calls)
@@ -561,7 +585,11 @@ class PushBlockSim(unittest.TestCase):
         i_push = next(i for i, c in enumerate(calls)
                       if c == 'CALL push')
         self.assertLess(i_commit, i_push, 'commit phai TRUOC push')
-        self.assertEqual(calls.count('CALL push'), 1)
+        self.assertEqual(calls.count('CALL push'), 2,
+                         'thua race mot lan -> fetch+rebase -> push lai')
+        # thu tu: push FAIL -> fetch -> rebase -> push OK
+        self.assertEqual(calls[i_push + 1], 'CALL fetch origin main')
+        self.assertEqual(calls[i_push + 2], 'CALL rebase origin/main')
 
     def test_s6c_nothing_to_commit_skips_push(self):
         self.common[3] = {'args': ['diff', '--cached', '--quiet'],
@@ -580,44 +608,111 @@ class PushBlockSim(unittest.TestCase):
         self.assertNotIn('git push --force', y)
         self.assertNotIn('--force', y.replace('force push', ''))
 
+    def test_s6e_rebase_conflict_aborts_cleanly(self):
+        """Rebase conflict: abort NGAY, KHÔNG thử push lại, KHÔNG force."""
+        r = self._run_block([
+            {'args': ['push'], 'exit': 1,
+             'err': 'non-fast-forward\n'},
+            {'args': ['fetch', 'origin'], 'exit': 0},
+            {'args': ['rebase', 'origin/main'], 'exit': 1,
+             'err': 'CONFLICT\n'},
+            {'args': ['rebase', '--abort'], 'exit': 0},
+        ])
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        calls = self._git_calls()
+        self.assertEqual(calls.count('CALL push'), 1,
+                         'rebase conflict phai STOP ngay')
+        self.assertIn('CALL rebase --abort', calls,
+                      'rebase conflict phai abort, khong de rebase dang treo')
+        self.assertNotIn('--force', '\n'.join(calls))
+
 
 # ------------------------------------------------------------------ S7
+def wf_text(name):
+    with open(os.path.join(ROOT, '.github/workflows', name),
+              encoding='utf-8') as f:
+        return f.read()
+
+
+def code_lines(text):
+    """Các dòng chạy được (bỏ comment) của một workflow."""
+    return [l for l in text.splitlines()
+            if l.strip() and not l.strip().startswith('#')]
+
+
+CURRENT_WORKFLOWS = [
+    'article-batch.yml',
+    'factory-liveness.yml',
+    'factory-publish-verify.yml',
+    'factory-publish.yml',
+    'factory-soak.yml',
+    'quality-gate.yml',
+]
+
+RETIRED_WORKFLOWS = [
+    'factory-production.yml',
+    'factory-refill.yml',
+    'publish-drafts.yml',
+    'factory-operator.yml',
+    'factory-validate.yml',
+    'factory-capacity-validate.yml',
+    'factory-watchdog.yml',
+    'publish-queue.yml',
+    'weekly-maintenance.yml',
+    'diag-factory-tests.yml',
+]
+
+
 class StaticContract(unittest.TestCase):
-    """Hợp đồng 4 workflow hiện tại (publish-drafts.yml thay thế
-    factory-production.yml + factory-refill.yml đã retire theo lệnh
-    chủ xe): quality-gate (FAST, read-only, mọi push/PR), publish-drafts
-    (đường nóng đơn giản push main _drafts/** — chọn EXACT ID từ
-    article_id, tối đa 2 draft/push, claim chỉ PLANNED, qa/publish
-    --ids --scope fast ngưỡng 75/70, contents: write), factory-liveness
-    (read-only, cron 6 giờ, KHÔNG bao giờ recover), factory-publish-verify
-    (FULL audit, read-only, CHỈ workflow_dispatch)."""
+    """Hợp đồng CHÍNH XÁC 6 workflow hiện tại (docs/factory-workflow-
+    contract.md — kiến trúc port từ /vanchinh):
+      quality-gate.yml            — cong FAST read-only (push/PR)
+      factory-publish.yml         — production publisher DUY NHẤT
+                                   (push main _drafts/**, turbo queue
+                                   2..10 draft/push, pair 2)
+      factory-liveness.yml       — watchdog 6 giờ read-only fail-closed
+      factory-publish-verify.yml  — FULL audit read-only (dispatch)
+      factory-soak.yml            — reliability/soak hermetic on-demand
+      article-batch.yml          — batch planning/status dry-run read-only
+    Các workflow legacy (publish-drafts.yml, factory-production.yml,
+    factory-refill.yml, ...) đã RETIRE theo lệnh chủ xe và KHÔNG được
+    quay lại."""
 
     def test_s7_workflow_contract(self):
         wf = sorted(f for f in os.listdir(os.path.join(ROOT,
                                                        '.github/workflows'))
                    if f.endswith('.yml'))
-        self.assertEqual(wf, ['factory-liveness.yml',
-                              'factory-publish-verify.yml',
-                              'publish-drafts.yml',
-                              'quality-gate.yml'])
+        self.assertEqual(wf, CURRENT_WORKFLOWS,
+                         'hop dong CHINH XAC 6 workflow — khong them, '
+                         'khong bot workflow ngoai danh sach')
         # các workflow/test đã retire KHÔNG quay lại
-        retired = ['factory-operator.yml', 'factory-validate.yml',
-                   'factory-capacity-validate.yml', 'factory-watchdog.yml',
-                   'publish-queue.yml', 'weekly-maintenance.yml',
-                   'factory-production.yml', 'factory-refill.yml',
-                   'diag-factory-tests.yml']
-        for name in retired:
+        for name in RETIRED_WORKFLOWS:
             self.assertFalse(
-                os.path.exists(os.path.join(ROOT, '.github/workflows', name)),
+                os.path.exists(os.path.join(ROOT, '.github/workflows',
+                                            name)),
                 'workflow da retire khong duoc quay lai: %s' % name)
         self.assertFalse(os.path.exists(os.path.join(
             ROOT, 'scripts/factory/tests/test_push_rebase_overlap.py')),
             'test da retire khong duoc quay lai')
 
+    def test_s7_single_publisher_single_mutator(self):
+        """CHỈ factory-publish.yml được contents: write và CHỈ nó
+        commit/push: mọi workflow khác đều READ-ONLY — KHÔNG publisher
+        song song, KHÔNG mutator ẩn."""
+        for name in CURRENT_WORKFLOWS:
+            y = wf_text(name)
+            if name == 'factory-publish.yml':
+                self.assertIn('contents: write', y)
+                self.assertIn('git push', y)
+                self.assertIn('git commit', y)
+            else:
+                self.assertIn('contents: read', y)
+                self.assertNotIn('contents: write', y)
+                self.assertNotIn('git push', y)
+                self.assertNotIn('git commit', y)
+
     def test_s7_quality_gate_fast_readonly(self):
-        with open(os.path.join(ROOT, '.github/workflows/quality-gate.yml'),
-                  encoding='utf-8') as f:
-            y = f.read()
+        y = wf_text('quality-gate.yml')
         self.assertIn('contents: read', y)
         self.assertNotIn('contents: write', y)
         self.assertNotIn('git push', y)
@@ -628,89 +723,79 @@ class StaticContract(unittest.TestCase):
         self.assertIn('pull_request:', y)  # trigger PR
         self.assertIn('workflow_dispatch:', y)
 
-    def test_s7_publish_verify_full_audit_readonly(self):
-        """factory-publish-verify.yml: FULL audit read-only, CHỈ
-        workflow_dispatch (không cron), cùng nội dung audit của
-        weekly-maintenance.yml đã retire."""
-        with open(os.path.join(ROOT,
-                               '.github/workflows/factory-publish-verify.yml'),
-                  encoding='utf-8') as f:
-            y = f.read()
-        self.assertIn('contents: read', y)
-        self.assertNotIn('contents: write', y)
-        self.assertNotIn('git push', y)
-        self.assertNotIn('cron:', y)
-        self.assertIn('workflow_dispatch:', y)
-        self.assertIn('factory-operator.py verify --scope full', y)
-        self.assertIn('scripts/factory/watchdog.py', y)
-        self.assertIn('refill-queue.py --verify', y)
-        self.assertIn('--selftest', y)
-        self.assertIn('sitemap-plan.py', y)
-        self.assertIn('jekyll-build-pages', y)
-        self.assertIn('check-built-links.py', y)
-
-    def test_s7_liveness_readonly_never_recovers(self):
-        """factory-liveness.yml: cron moi 6 gio, READ-ONLY thuần —
-        watchdog + status + purity; KHÔNG bao giờ recover/claim/publish."""
-        with open(os.path.join(ROOT,
-                               '.github/workflows/factory-liveness.yml'),
-                  encoding='utf-8') as f:
-            y = f.read()
-        self.assertIn('contents: read', y)
-        self.assertNotIn('contents: write', y)
-        self.assertNotIn('git push', y)
-        self.assertIn('cron: "0 */6 * * *"', y)
-        self.assertIn('workflow_dispatch:', y)
-        self.assertIn('scripts/factory/watchdog.py', y)
-        self.assertIn('factory-operator.py status', y)
-        code = '\n'.join(l for l in y.splitlines()
-                       if not l.strip().startswith('#'))
-        for bad in ('prepare-next', 'recover', '--refill',
-                    'release-chunk', 'requeue', 'publish --ids'):
-            self.assertNotIn(bad, code,
-                              'liveness KHONG duoc mutate: %s' % bad)
-
-    def test_s7_production_push_hotpath(self):
-        """publish-drafts.yml (mô hình /vanchinh đơn giản): đường nóng
-        PUSH main theo paths _drafts/** — chọn EXACT ID từ article_id
-        frontmatter, tối đa 2 draft/push, claim prepare-next --ids (chỉ
-        hàng PLANNED), qa --ids --scope fast (ngưỡng 75/70), publish
-        --ids (chỉ hàng PASS), 1 commit publish; repair push: hàng
-        WRITING/QA/REPAIR/PASS bỏ qua claim, qa chấm lại thẳng."""
-        with open(os.path.join(ROOT, '.github/workflows/publish-drafts.yml'),
-                  encoding='utf-8') as f:
-            y = f.read()
-        # trigger: push main paths _drafts/** + dispatch
-        self.assertIn('workflow_dispatch:', y)
+    def test_s7_publish_hotpath(self):
+        """factory-publish.yml — production publisher DUY NHẤT (mô hình
+        /vanchinh turbo queue): push main theo paths _drafts/**, chọn
+        EXACT ID từ article_id frontmatter (queue tối đa 10 draft/push,
+        chia pair 2), claim chỉ hàng PLANNED, qa/publish --ids --scope
+        fast ngưỡng 75/70, resume-first, một pair lỗi KHÔNG rollback
+        pair đã publish, bounded retry non-FF, KHÔNG bao giờ force
+        push."""
+        y = wf_text('factory-publish.yml')
+        # trigger: push main paths _drafts/** — KHÔNG PR, KHÔNG cron
         self.assertIn('push:', y)
         self.assertIn('branches: [main]', y)
         self.assertIn('_drafts/**', y)
         self.assertNotIn('pull_request:', y)
-        for line in y.splitlines():
-            s = line.strip()
-            if s.startswith('#') or not s:
-                continue
-            self.assertNotIn('cron', s.lower(),
-                             'cron trong phan chay duoc: %s' % s)
-        self.assertIn('group: publish-drafts', y)
+        for line in code_lines(y):
+            self.assertNotIn('cron', line.lower(),
+                             'cron trong phan chay duoc: %s' % line)
+        # concurrency: publisher concurrency = 1, KHONG cancel run dang chay
+        self.assertIn('group: factory-publish', y)
         self.assertIn('cancel-in-progress: false', y)
         self.assertIn('contents: write', y)
-        # hot path: chon EXACT ID tu article_id, toi da 2 draft/push,
-        # template bai nhap mau bi loai khoi selection
+        self.assertIn("PYTHONDONTWRITEBYTECODE: '1'", y)
+        # queue 2..10: chọn EXACT ID từ article_id, REFUSE fail-closed
         self.assertIn('article_id', y)
-        self.assertIn('toi da 2 draft', y)
-        # template mau nhap bi loai khoi selection step; ghep chuoi de
-        # tep test khong chua chuoi template nguyen ven (scripts/ bi copy
-        # ra _site, draft-leak gate grep chuoi nay tren cay build)
-        tpl = 'mau' + '-nhap' + '-bai' + '-moi'
-        self.assertIn(tpl, y)
-        # claim chi hang PLANNED; qa/publish --ids fast
-        self.assertIn('prepare-next --ids', y)
-        self.assertIn('qa --ids', y)
-        self.assertIn('publish --ids', y)
-        self.assertIn('--scope fast', y)
+        self.assertIn('toi da 10', y)
+        self.assertIn('len(queue) > 10', y)
+        self.assertIn('id trung nhau trong cung mot push', y)
+        self.assertIn('id khong co trong matrix', y)
+        self.assertIn("'PUBLISHED', 'EXISTING', 'BLOCKED'", y)
+        # template bài nhập mẫu bị loại khỏi selection (chuỗi GHÉP để
+        # file test không chứa slug template nguyên vẹn — draft-leak
+        # gate grep slug này trên cây build)
+        self.assertIn("'mau' + '-nhap'", y)
+        # queue sắp theo thứ tự matrix (deterministic)
+        self.assertIn('sorted(queue, key=lambda i: order[i])', y)
+        # production-control enabled=false: exit sạch TRƯỚC claim
+        self.assertIn('production-control paused', y)
+        # mode: new (cần claim) / repair (KHÔNG claim lại từ đầu)
+        self.assertIn("mode = 'new' if needs_claim else 'repair'", y)
+        # pair size = 2: chia pair deterministic, consume tuần tự
+        self.assertIn('queue[i:i + 2]', y)
+        self.assertIn('(len(queue) + 1) // 2', y)
+        # claim CHỈ hàng PLANNED; qa/publish --ids fast
+        self.assertIn("planned = [i for i in pair if st[i] == 'PLANNED']",
+                      y)
+        self.assertIn("'prepare-next', '--ids', ','.join(planned)", y)
+        self.assertIn("'qa', '--ids', label, '--scope', 'fast'", y)
+        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", y)
         self.assertIn('factory-operator.py', y)
-        # hot path KHONG chay audit nang
+        # resume-first: pair FAIL -> recoverable, KHÔNG claim pair mới
+        self.assertIn('DEFERRED (engine resume-first', y)
+        self.assertIn('blocked and any(', y)
+        # một pair lỗi KHÔNG rollback pair đã publish (recoverable riêng)
+        self.assertIn('recoverable.extend(pair)', y)
+        self.assertIn('published.extend(pair)', y)
+        self.assertIn('FATAL rc=%s', y)
+        # guard fail-closed: KHÔNG publish khi còn transaction/lock
+        guard = extract_run_block(
+            y, 'Guard no pending transaction and no lock (fail-closed)')
+        self.assertIn('writer-lock.active', guard)
+        self.assertIn('active', guard)
+        # commit/push deterministic state; bounded retry non-FF, never force
+        self.assertIn('git add -A', y)
+        self.assertIn('[automated txn]', y)
+        self.assertIn('until git push', y)
+        self.assertIn('"$n" -ge 3', y)
+        self.assertIn('git rebase origin/main', y)
+        self.assertNotIn('--force', y.replace('force push', ''))
+        # cuối run: state sạch (không lock, không txn active)
+        clean = extract_run_block(y, 'Assert clean factory state')
+        self.assertIn('writer-lock.active', clean)
+        self.assertIn('active', clean)
+        # hot path KHÔNG chay audit nang
         for heavy in ('verify --scope full', 'test_soak', 'test_hardening',
                       'capacity-audit', 'check-built-links'):
             self.assertNotIn(heavy, y,
@@ -721,38 +806,150 @@ class StaticContract(unittest.TestCase):
                           'stage-refill-batch',
                           'data/factory/refill-request.json'):
             self.assertNotIn(refill_op, y,
-                             'refill KHONG duoc chay trong publish-drafts: '
+                             'refill KHONG duoc chay trong hot publish: '
                              '%s' % refill_op)
         # ten step khong chua ": " (bug YAML startup)
         for line in y.splitlines():
             s = line.strip()
             if s.startswith('- name: ') and ': ' in s[len('- name: '):]:
                 self.fail('tên step chứa ": ": %s' % s)
-        self.assertIn("PYTHONDONTWRITEBYTECODE: '1'", y)
 
-    def test_s7_refill_workflow_retired(self):
-        """factory-refill.yml đã retire theo lệnh chủ xe (KHÔNG refill
-        tự động): file KHÔNG được quay lại; refill-request.json và
-        refill-batches/ KHÔNG còn workflow trigger nào."""
-        self.assertFalse(os.path.exists(os.path.join(
-            ROOT, '.github/workflows/factory-refill.yml')),
-            'factory-refill.yml da retire - KHONG quay lai')
+    def test_s7_consume_step_fail_closed(self):
+        """Consume loop: qa/publish chạy với check=True — exit code
+        KHÔNG được nuốt; lỗi hạ tầng là FATAL (dừng cả run), lỗi nội
+        dung mới là recoverable."""
+        y = wf_text('factory-publish.yml')
+        block = extract_run_block(
+            y, 'Consume write-ahead queue (pair claim QA publish sequential)')
+        self.assertIn("'qa', '--ids', label, '--scope', 'fast'", block)
+        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", block)
+        self.assertIn('check=True', block)
+        self.assertNotIn('|| true', block)
 
-    def test_s7_qa_step_fatal_crash(self):
-        y = read_workflow()
-        i = y.index('- name: QA cham diem')
-        seg = y[i:y.index('- name: Publish (chi hang PASS')]
-        self.assertIn('set -e', seg)
-        self.assertNotIn('|| code=$?', seg)
+    def test_s7_article_batch_readonly(self):
+        """article-batch.yml: CHỈ workflow_dispatch, read-only — dry-run
+        batch planning/status: validate/status/queue stats; fail nếu còn
+        transaction/writer lock; KHÔNG claim/QA/publish/commit/push."""
+        y = wf_text('article-batch.yml')
+        self.assertIn('workflow_dispatch:', y)
+        code = '\n'.join(code_lines(y))
+        self.assertNotIn('push:', code)
+        self.assertNotIn('pull_request:', y)
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        for bad in ('prepare-next', 'requeue', 'release-chunk',
+                    '--refill', 'qa --ids', 'publish --ids',
+                    'factory-operator.py recover', 'git commit', 'git push'):
+            self.assertNotIn(bad, code,
+                             'article-batch phai READ-ONLY: %s' % bad)
+        # chạy đúng các script dry-run chuẩn
+        self.assertIn('validate.py --scope full', y)
+        self.assertIn('factory-operator.py status', y)
+        self.assertIn('queue.py --stats', y)
+        # fail-closed khi transaction/writer lock đang active
+        self.assertIn('writer-lock.active', y)
+        self.assertIn('transaction.json', y)
+        self.assertIn('active', y)
+        # cuối run working tree phải sạch
+        self.assertIn('git status --porcelain', y)
+
+    def test_s7_liveness_readonly_never_recovers(self):
+        """factory-liveness.yml: cron moi 6 gio + dispatch, READ-ONLY
+        thuần — watchdog + status + purity; unhealthy PHẢI FAIL run
+        (fail-closed, KHÔNG chỉ warning rồi xanh); KHÔNG bao giờ
+        recover/claim/qa/publish."""
+        y = wf_text('factory-liveness.yml')
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertNotIn('git push', y)
+        self.assertIn('cron: "0 */6 * * *"', y)
+        self.assertIn('workflow_dispatch:', y)
+        self.assertIn('scripts/factory/watchdog.py', y)
+        self.assertIn('factory-operator.py status', y)
+        self.assertNotIn('continue-on-error', y)
+        # watchdog step: set -eu, KHÔNG nuốt exit code (unhealthy = FAIL)
+        wd = extract_run_block(y, 'Watchdog (unhealthy = FAIL run')
+        self.assertIn('set -eu', wd)
+        self.assertIn('watchdog.py', wd)
+        self.assertNotIn('|| true', wd)
+        code = '\n'.join(code_lines(y))
+        for bad in ('prepare-next', 'recover', '--refill',
+                    'release-chunk', 'requeue', 'qa --ids', 'publish --ids'):
+            self.assertNotIn(bad, code,
+                              'liveness KHONG duoc mutate: %s' % bad)
+
+    def test_s7_soak_hermetic_readonly(self):
+        """factory-soak.yml: CHỈ workflow_dispatch (không cron/push),
+        contents: read, chạy test_soak_recovery.py trên fixture hermetic
+        — KHÔNG đụng production state, KHÔNG commit/push."""
+        y = wf_text('factory-soak.yml')
+        self.assertIn('workflow_dispatch:', y)
+        self.assertNotIn('cron:', y)
+        code = '\n'.join(code_lines(y))
+        self.assertNotIn('push:', code)
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertIn('scripts/factory/tests/test_soak_recovery.py', y)
+        for bad in ('prepare-next', 'requeue', 'release-chunk', '--refill',
+                    'qa --ids', 'publish --ids', 'git commit', 'git push'):
+            self.assertNotIn(bad, code,
+                             'soak phai HERMETIC/READ-ONLY: %s' % bad)
+        # purity: working tree sach (khong mutation production state)
+        self.assertIn('git status --porcelain', y)
+
+    def test_s7_publish_verify_full_audit_readonly(self):
+        """factory-publish-verify.yml: FULL audit read-only, CHỈ
+        workflow_dispatch (không cron): watchdog + verify full + refill
+        gates + sitemap plan + generator drift/idempotency + Jekyll
+        build + built-link deep + draft-leak + hub/pagination render;
+        cuối run working tree sạch; KHÔNG commit/push."""
+        y = wf_text('factory-publish-verify.yml')
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertNotIn('git push', y)
+        self.assertNotIn('git commit', y)
+        self.assertNotIn('cron:', y)
+        self.assertIn('workflow_dispatch:', y)
+        self.assertIn('factory-operator.py verify --scope full', y)
+        self.assertIn('scripts/factory/watchdog.py', y)
+        self.assertIn('refill-queue.py --verify', y)
+        self.assertIn('--selftest', y)
+        self.assertIn('sitemap-plan.py', y)
+        # generator drift/idempotency checks
+        self.assertIn('restore-foundation.py', y)
+        self.assertIn('generate-matrix.py', y)
+        self.assertIn('expand-topic-universe.py', y)
+        self.assertIn('generate-listing-pages.py', y)
+        self.assertIn('git checkout --', y)
+        # Jekyll build + built-link deep + draft-leak + hub/pagination
+        self.assertIn('jekyll-build-pages', y)
+        self.assertIn('check-built-links.py', y)
+        tpl = 'mau' + '-nhap' + '-bai' + '-moi'
+        self.assertIn(tpl, y)
+        self.assertIn('trang/2', y)
+        self.assertIn('post-card', y)
+        # cuối run working tree phải sạch
+        self.assertIn('git status --porcelain', y)
+
+    def test_s7_legacy_publishers_retired(self):
+        """publish-drafts.yml / factory-production.yml / factory-refill.yml
+        đã RETIRE (legacy, theo lệnh chủ xe): file KHÔNG được quay lại —
+        factory-publish.yml là production publisher DUY NHẤT."""
+        for name in ('publish-drafts.yml', 'factory-production.yml',
+                     'factory-refill.yml'):
+            self.assertFalse(
+                os.path.exists(os.path.join(ROOT, '.github/workflows',
+                                            name)),
+                '%s da retire - KHONG quay lai' % name)
 
     def test_s7_no_ai_no_secrets(self):
-        for wf in ('quality-gate.yml', 'publish-drafts.yml',
-                   'factory-liveness.yml', 'factory-publish-verify.yml'):
-            with open(os.path.join(ROOT, '.github/workflows', wf),
-                      encoding='utf-8') as f:
-                y = f.read()
+        for wf in CURRENT_WORKFLOWS:
+            y = wf_text(wf)
+            # 'secrets.' hoi thua: header factory-publish.yml ghi "NO
+            # secrets." (claim, khong phai usage). Cấm thật là truy cập
+            # secret cua GitHub Actions va key AI trong moi workflow.
             for bad in ('api_key', 'API_KEY', 'sk-', 'OPENAI', 'MISTRAL',
-                        'anthropic', 'secrets.'):
+                        'anthropic', '${{ secrets.'):
                 self.assertNotIn(bad, y, '%s chua %s' % (wf, bad))
 
     def test_s7_publish_gate_canonical(self):

@@ -1,6 +1,6 @@
 name: Factory publish verify
 
-# FULL AUDIT READ-ONLY (hop dong 4 workflow — docs/factory-workflow-contract.md).
+# FULL AUDIT READ-ONLY (hop dong CHINH XAC 6 workflow — docs/factory-workflow-contract.md).
 # CHI workflow_dispatch (khong cron): chay tay hoac sau milestone lon.
 # Thay the weekly-maintenance.yml da retire (cung noi dung audit, bo cron).
 # KHONG bao gio commit/push ve main: moi buoc chi doc, sinh lai output
@@ -16,8 +16,9 @@ name: Factory publish verify
 #     expand-topic-universe / generate-listing-pages deu idempotent
 #   - Jekyll build + check-built-links (toan site) + draft-leak
 #   - hub/pagination render
-# San xuat thuoc factory-production.yml; cong FAST moi push thuoc
-# quality-gate.yml; liveness 6 gio thuoc factory-liveness.yml.
+# San xuat (duong nong publish) thuoc factory-publish.yml; cong FAST
+# moi push thuoc quality-gate.yml; liveness 6 gio thuoc
+# factory-liveness.yml.
 
 on:
   workflow_dispatch:
@@ -99,7 +100,7 @@ jobs:
           python3 scripts/factory/generate-listing-pages.py
           git checkout -- reports/factory/progress.json data/state/checkpoint.json
           if [ -n "$(git status --porcelain)" ]; then
-            echo "FAIL: generator sinh ra khac biet voi tep da commit (drift) - chay lai va commit ket qua qua factory-production."
+            echo "FAIL: generator sinh ra khac biet voi tep da commit (drift) - chay lai va commit ket qua qua duong nong factory-publish.yml."
             git status --porcelain
             exit 1
           fi

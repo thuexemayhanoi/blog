@@ -2,13 +2,14 @@
 # -*- coding: utf-8 -*-
 """FACTORY OPERATOR — tay deterministic cho writer ngoài (external AI).
 
-Mô hình (docs/PROC-PUBLISH.md — hợp đồng 4 workflow):
+Mô hình (docs/PROC-PUBLISH.md — hợp đồng 6 workflow):
   EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write)
-    -> commit/push draft vào `_drafts/` (1-2 bài mỗi push)
-    -> factory-production.yml tự chạy đường nóng trên push main
-       (scripts/factory/push-selection.py chọn EXACT ID; KHÔNG cần
-       dispatch next/qa/publish cho cặp bài thường; workflow_dispatch
-       chỉ còn op bảo trì: status | recover | refill | diagnostics)
+    -> commit/push draft vào `_drafts/` (2..10 bài mỗi push)
+    -> factory-publish.yml tự chạy đường nóng trên push main
+       (selection EXACT ID trong workflow chọn queue rồi chia pair 2;
+       KHÔNG cần dispatch next/qa/publish cho các bài thường;
+       workflow_dispatch không còn op sản xuất — op bảo trì như
+       status | recover | refill | diagnostics chạy local)
     -> GitHub Actions (checkout + Python + tooling chuẩn)
     -> scripts/factory/factory-operator.py (file này)
 
@@ -877,7 +878,7 @@ def op_prepare_next(args, biz, tax):
              'trước khi claim mới (không bỏ qua việc dở để lấy throughput).'
              % (len(unfinished), ','.join(unfinished[:5])))
     if explicit:
-        # PUSH HOT PATH (factory-production.yml): claim EXACT các ID mà
+        # PUSH HOT PATH (factory-publish.yml): claim EXACT các ID mà
         # writer đã push draft (scripts/factory/push-selection.py đã chọn)
         # — KHÔNG tự chọn hàng PLANNED khác, KHÔNG đụng hàng bảo vệ.
         if len(explicit) > control['chunk_size']:

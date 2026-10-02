@@ -26,25 +26,23 @@ lenh nao chua implement. Chay tu goc repository.
   Trang thai engine (checkpoint/transaction/lock/matrix) cho operator.
   Vong van hanh day du: docs/PROC-PUBLISH.md.
   Ops whitelist: status, prepare-next (—ids cho exact-ID claim), qa,
-  publish, recover, requeue, verify, refill, reports. TU PHASE 1 san
-  xuat CHAY THEO PUSH: writer push draft _drafts/ -> factory-production
-  yml tu dong (push-selection.py chon EXACT ID -> prepare-next --ids
-  -> qa --ids -> publish --ids --scope fast); workflow_dispatch chi
-  con op bao tri status/recover/diagnostics. TU 2026-10-01 REFILL TACH
-  KHOI DUONG NONG PUBLISH: push-selection bao refill_advised (claimable
-  PLANNED < chunk_size) -> workflow CHI in ::warning nhaac writer/
-  coordinator kich hoat factory-refill.yml (dispatch refill hoac push
-  data/factory/refill-request.json / data/factory/refill-batches/**),
-  CHO refill success, FETCH MAIN, roi push cap ke tiep; mot batch refill
-  sai KHONG BAO GIO lam hong publish bai vua chay (cung concurrency
-  group nen refill va publish khong mutate state cung luc). TU
-  2026-10-01 BACKLOG RECOVERY (mo hinh /vanchinh): draft hop le sot
-  trong _drafts/ do pipeline truoc chet duoc nhan dien EXACT ID, CO
-  UU TIEN truoc bai moi (REPAIRABLE truoc, toi da chunk_size); draft
-  vua push bi hoan KHONG mat, tu thanh backlog lan ke tiep (commit
-  promote re-trigger, chuoi tu lanh); draft sot khong hop le bi bo
-  qua, khong chan publish; KHONG bao gio dung hang PUBLISHED. Workflow
-  la TAY deterministic (khong AI, khong secret AI, khong cron).
+  publish, recover, requeue, verify, refill, reports. TU HOP DONG 6
+  WORKFLOW san xuat CHAY THEO PUSH: writer push draft _drafts/ ->
+  factory-publish.yml tu dong (selection EXACT ID queue 2..10 trong
+  workflow -> chia pair 2 -> prepare-next --ids -> qa --ids ->
+  publish --ids --scope fast); KHONG con workflow_dispatch san xuat —
+  op bao tri (status/recover/refill/diagnostics) chay LOCAL qua file
+  nay. REFILL KHONG chay trong duong nong publish: khi pool claimable
+  can (claimable PLANNED < chunk_size), writer/coordinator chay op
+  bao tri local `factory-operator.py refill`, CHO refill success,
+  FETCH MAIN, roi push cap ke tiep; mot lan refill sai KHONG BAO GIO
+  lam hong publish bai vua chay. ENGINE RESUME-FIRST: con hang
+  REPAIR/unresolved thi KHONG claim bai moi — repair push xu ly ID do
+  truoc (repair rows KHONG claim lai tu dau), PLANNED con lai
+  DEFERRED lan chay ke; draft sot khong hop le bi tu choi o selection,
+  khong chan publish; KHONG bao gio dung hang PUBLISHED. Workflow
+  la TAY deterministic (khong AI, khong secret AI, khong cron san
+  xuat).
 
 ## 2. Queue refill (lazy, chi khi can)
 
@@ -158,14 +156,14 @@ xay ra qua lenh operator chu dong.
   PASS, QA hash gate PASS, publish gate PASS, CI PASS,
   Pages PASS.
 
-- HOP DONG 3 WORKFLOW (2026-09-30, docs/factory-workflow-contract.md):
-  khong con workflow dinh ky 30 phut. factory-liveness.yml (cron 6 gio,
-  tuan) la duy nhat chay dinh ky — READ-ONLY diagnostics, KHONG phai
+- HOP DONG 6 WORKFLOW (docs/factory-workflow-contract.md): khong con
+  workflow dinh ky 30 phut. factory-liveness.yml (cron 6 gio, tuan)
+  la duy nhat chay dinh ky — READ-ONLY diagnostics, KHONG phai
   scheduler van hanh: khong mutate state, khong claim, khong publish.
-  Van hanh san xuat theo PUSH tren factory-production.yml (draft
-  _drafts/ -> duong nong exact-ID; docs/PROC-PUBLISH.md), dispatch
-  chi con op bao tri. publish-queue.yml da retire (campaign
-  legacy da tat).
+  Van hanh san xuat theo PUSH tren factory-publish.yml (draft
+  _drafts/ -> turbo queue exact-ID chia pair 2; docs/PROC-PUBLISH.md),
+  khong con workflow_dispatch san xuat. publish-queue.yml da retire
+  (campaign legacy da tat).
 
 ## 10. Liveness watchdog (READ-ONLY)
 

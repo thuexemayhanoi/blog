@@ -40,12 +40,11 @@ hất.
 - `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
 - `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
 - `reports/factory/` — report sinh từ dữ liệu thật.
-- `.github/workflows/` — đúng 4 workflow (docs/factory-workflow-contract.md): `quality-gate.yml` (CI FAST mọi push/PR, read-only), `factory-production.yml` (đường sản xuất workflow_dispatch, chunk 2 bài theo `data/factory/production-control.json` — xem `docs/PROC-PUBLISH.md`), `factory-liveness.yml` (liveness read-only mỗi 6 giờ), `factory-publish-verify.yml` (FULL audit read-only, dispatch). Pages deploy bằng cơ chế built-in của GitHub.
+- `.github/workflows/` — CHÍNH XÁC 6 workflow (docs/factory-workflow-contract.md): `quality-gate.yml` (CI FAST mọi push/PR, read-only), `factory-publish.yml` (production publisher DUY NHẤT — push main `_drafts/**`, turbo queue 2..10 draft/push chia pair 2), `factory-liveness.yml` (liveness read-only mỗi 6 giờ), `factory-publish-verify.yml` (FULL audit read-only, dispatch), `factory-soak.yml` (soak hermetic on-demand), `article-batch.yml` (batch planning dry-run read-only). Pages deploy bằng cơ chế built-in của GitHub.
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 
-EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → workflow_dispatch trên `factory-production.yml` (action status/resume/next/qa/publish/refill — KHÔNG AI, KHÔNG secret AI, KHÔNG cron) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy the
-o lệnh.
+EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → push draft `_drafts/` (2..10 ID/push) → `factory-publish.yml` tự chạy đường nóng (selection EXACT ID → pair 2 → claim/QA/publish — KHÔNG AI, KHÔNG secret AI, KHÔNG cron sản xuất) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy theo lệnh.
 
 ## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 

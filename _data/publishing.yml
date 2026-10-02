@@ -1,7 +1,8 @@
 # Publishing campaign configuration (LEGACY — RETIRED)
 # publish-queue.yml was retired 2026-09-30 (3-workflow contract,
 # docs/factory-workflow-contract.md). Keep enabled: false permanently.
-# Production runs only via factory-production.yml workflow_dispatch.
+# Production runs only via the factory-publish.yml hot publish path
+# (push main `_drafts/**`).
 #
 # Activation checklist (requires explicit owner approval):
 #   1. Set enabled: true

@@ -2,7 +2,7 @@
 
 Mỗi hàng: lỗi → nguyên nhân → tệp/commit sửa → kiểm thử → kết quả live → trạng thái. Trạng thái: VERIFIED / NOT VERIFIED / BLOCKED. Cập nhật sau mỗi lần chạy; không ghi PASS khi chưa kiểm tra.
 
-GHI CHÚ LỊCH SỬ (2026-09-30): các hàng nhắc tới workflow `factory-operator.yml` / `factory-validate.yml` / `factory-capacity-validate.yml` / `factory-watchdog.yml` / `publish-queue.yml` / `test_push_rebase_overlap.py` và `weekly-maintenance.yml` là mô hình TRƯỚC hợp đồng 4 workflow hiện tại; các tệp đó đã retire (docs/factory-workflow-contract.md) — không phải lỗi, không cần sửa lại.
+GHI CHÚ LỊCH SỬ (2026-09-30): các hàng nhắc tới workflow `factory-operator.yml` / `factory-validate.yml` / `factory-capacity-validate.yml` / `factory-watchdog.yml` / `publish-queue.yml` / `test_push_rebase_overlap.py` và `weekly-maintenance.yml` là mô hình TRƯỚC hợp đồng 6 workflow hiện tại; các tệp đó đã retire (docs/factory-workflow-contract.md) — không phải lỗi, không cần sửa lại.
 
 | # | Lỗi | Nguyên nhân | Tệp/commit sửa | Kiểm thử | Kết quả live | Trạng thái |
 |---|---|---|---|---|---|---|

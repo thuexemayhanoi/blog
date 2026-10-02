@@ -1,7 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """push-selection.py — bộ chọn phạm vi push deterministic cho đường
-nóng factory-production.yml (mô hình /vanchinh thích ứng cho /blog).
+nóng publish của /blog (hợp đồng 6 workflow —
+docs/factory-workflow-contract.md; mô hình /vanchinh thích ứng cho
+/blog, script này là tooling chunk_size=2 dùng cho regression).
 
 Writer ngoài (Mistral) CHỈ commit/push file draft trong `_drafts/`;
 workflow lấy danh sách file ADDED/MODIFIED từ `git diff HEAD~1..HEAD`

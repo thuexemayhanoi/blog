@@ -7,8 +7,8 @@ workflow operator cũ có dấu " thừa cuối dòng
 (`... ${SCOPE:+--scope $SCOPE}"`) — bash -n từ chối ngay từ đầu nhưng
 workflow chỉ phát hiện khi chạy TỚI bước đó trong sản xuất, làm mất
 nguyên run operator. Từ đây mọi khối run: phải được kiểm bash -n
-trong verify FAST của factory-production.yml và factory-publish-verify.yml
-sản xuất, KHÔNG đợi đến lúc bước đó thực sự chạy.
+trong factory-publish-verify.yml (verify của factory-operator.py)
+và trong test tĩnh này, KHÔNG đợi đến lúc bước đó thực sự chạy.
 
 Không cần pyyaml: trích khối run: theo indent (block scalar `|`/`>`
 hoặc inline), giống YAML engine của Actions xuất script. Mỗi khối
@@ -105,15 +105,17 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
 
     def test_all_workflows_exist(self):
         found = glob.glob(os.path.join(WORKFLOWS, '*.yml'))
-        self.assertGreaterEqual(len(found), 3,
-                                'thiếu workflow trong .github/workflows')
+        self.assertEqual(len(found), 6,
+                          'thiếu workflow trong .github/workflows')
         names = sorted(os.path.basename(f) for f in found)
         self.assertEqual(
-            names, ['factory-liveness.yml', 'factory-publish-verify.yml',
-                    'publish-drafts.yml', 'quality-gate.yml'],
-            'hop dong 4 workflow hien tai (publish-drafts.yml thay the '
-            'factory-production.yml/factory-refill.yml da retire): khong '
-            'them workflow moi ngoai danh sach hop dong')
+            names, ['article-batch.yml', 'factory-liveness.yml',
+                    'factory-publish-verify.yml', 'factory-publish.yml',
+                    'factory-soak.yml', 'quality-gate.yml'],
+            'hop dong CHINH XAC 6 workflow hien tai (factory-publish.yml '
+            'la production publisher duy nhat; cac workflow legacy da '
+            'retire KHONG quay lai): khong them workflow moi ngoai danh '
+            'sach hop dong')
 
     def test_every_run_block_passes_bash_n(self):
         paths = sorted(glob.glob(os.path.join(WORKFLOWS, '*.yml')))

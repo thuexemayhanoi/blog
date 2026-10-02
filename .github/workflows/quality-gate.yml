@@ -15,8 +15,8 @@ name: Quality gate
 # Audit nang (verify full, refill, drift generators) thuoc
 # factory-publish-verify.yml (read-only, workflow_dispatch); liveness
 # thuoc factory-liveness.yml (read-only, cron moi 6 gio).
-# San xuat (status/resume/next/qa/publish) thuoc factory-production.yml
-# (workflow_dispatch, tuan theo nguong 75/70 — docs/PROC-PUBLISH.md).
+# San xuat (claim/qa/publish) thuoc factory-publish.yml (push main
+# _drafts/**, tuan theo nguong 75/70 — docs/PROC-PUBLISH.md).
 
 on:
   push:

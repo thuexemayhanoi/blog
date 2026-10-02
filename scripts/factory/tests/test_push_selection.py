@@ -398,7 +398,8 @@ class BacklogSelectionTest(FxTestCase):
         return sorted(r['id'] for r in rows)
 
     def _ops(self, sel):
-        """Chạy ĐÚNG chuỗi op của factory-production.yml sau selection:
+        """Chạy ĐÚNG chuỗi op của đường nóng factory-publish.yml sau
+        selection:
         claim CHỈ claim_ids (prepare-next), QA/publish qa_ids, publish
         chỉ hàng PASS trong qa-outcome (A PASS + B REPAIR: publish A)."""
         if sel['claim_ids']:

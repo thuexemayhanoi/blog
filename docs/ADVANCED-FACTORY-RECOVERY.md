@@ -56,15 +56,16 @@ transaction, promote, append history, nhả lock.
 
 FULL mạnh hơn DEEP, DEEP mạnh hơn FAST; KHÔNG hạ ngưỡng khi đổi mức.
 
-## 6. Push safety (factory-production.yml)
+## 6. Push safety (factory-publish.yml)
 
-- Commit chỉ chứa output deterministic; push fast-forward.
-- Origin đổi giữa chừng: fetch → rebase → `validate.py --scope chunk`
-  TRÊN TRẠNG THÁI ĐÃ REBASE → mới push lại (tối đa 2 lần).
-- Rebase conflict hoặc validate FAIL → STOP (exit 1), KHÔNG force push,
-  KHÔNG replay; lần chạy sau resume từ repository truth. Không còn cơ chế
-  hòa giải file lệnh (file lệnh operator-command.json đã retire cùng mô
-  hình cũ).
+- Commit chỉ chứa output deterministic (một commit `[automated txn]` mỗi
+  queue run); push fast-forward.
+- Origin đổi giữa chừng (non-FF): fetch → rebase rồi push lại — bounded
+  retry, tối đa 3 lần thử push; KHÔNG bao giờ force push.
+- Rebase conflict → `git rebase --abort` + exit 1 ngay (KHÔNG force push,
+  KHÔNG replay); state đã commit ở lại cho lần chạy sau resume từ
+  repository truth. Không còn cơ chế hòa giải file lệnh (file lệnh
+  operator-command.json đã retire cùng mô hình cũ).
 - Bằng chứng cuối run: FINAL_PUSHED_HEAD / ORIGIN_HEAD_AFTER in ra log —
   báo cáo phải phân biệt HEAD đã chạy workflow nào.
 
@@ -74,8 +75,10 @@ FULL mạnh hơn DEEP, DEEP mạnh hơn FAST; KHÔNG hạ ngưỡng khi đổi m
   (capacity-audit.py kiểm). Queue là view trên matrix; refill là cách
   DUY NHẤT materialize candidate STAGED → PLANNED (refill-queue.py, gate
   G1-G8, semantic SUCCESS bắt buộc tạo work thật).
-- Refill khi cần (lazy): `factory-production.yml` action=refill. Kiểm tra
-  sức chứa/đúng đắn khi cần: factory-publish-verify.yml (refill --verify,
-  --selftest, sitemap-plan.py).
+- Refill khi cần (lazy): op bảo trì local
+  `python3 scripts/factory/factory-operator.py refill` (KHÔNG chạy trong
+  đường nóng publish). Kiểm tra sức chứa/đúng đắn khi cần:
+  factory-publish-verify.yml (refill --verify, --selftest,
+  sitemap-plan.py).
 - Không tự mở rộng topic khi hết candidate STAGED: op refill trả
   NEEDS_TOPIC_EXPANSION — mở rộng topic thật qua gate rồi mới refill.

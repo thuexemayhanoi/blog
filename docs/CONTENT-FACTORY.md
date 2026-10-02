@@ -51,7 +51,7 @@ Một cặp sản xuất mặc định 2 bài (production-control chunk_size; t�
 ## CI/CD
 
 - `.github/workflows/quality-gate.yml`: validate FAST (scope chunk) + build Jekyll + link integrity + nháp không deploy + hub sanity, trên mọi push/PR (read-only). Audit sâu (drift generators, verify FULL) nằm ở factory-publish-verify.yml; liveness 6h ở factory-liveness.yml.
-- Campaign cũ hanoi-seo-480 đã retire cùng `publish-queue.yml`; `_data/publishing.yml` giữ `enabled: false`. Sản xuất chỉ qua `factory-production.yml` (docs/PROC-PUBLISH.md).
+- Campaign cũ hanoi-seo-480 đã retire cùng `publish-queue.yml`; `_data/publishing.yml` giữ `enabled: false`. Sản xuất chỉ qua `factory-publish.yml` (docs/PROC-PUBLISH.md).
 - Pages build success KHÔNG đủ để tuyên bố hoàn thành; phải kiểm tra runtime.
 
 ## Scheduler
