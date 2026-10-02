@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Test đường nóng PUSH factory (Phase 1) — push-selection.py + chuỗi
+"""Test đường nóng PUSH factory — push-selection.py + chuỗi
 prepare-next --ids / qa --ids / publish --ids trên FIXTURE.
 
-Mô hình mới (docs/PROC-PUBLISH.md): writer ngoài push draft vào _drafts/
-(toi da chunk_size=2 ID) -> push-selection.py chon EXACT ID -> workflow
-tu dong claim/QA/publish. BO TEST NAY KHÔNG viết bài thật: mọi mutation
+LƯU Ý kiến trúc (hợp đồng 6 workflow — docs/PROC-PUBLISH.md): đường nóng
+sản xuất hiện là factory-publish.yml với inline selection (turbo queue
+2..10 draft/push, consume pair 2); push-selection.py là TOOLING
+REGRESSION chunk_size=2 — bộ test này chặt đúng semantics của tooling
+đó (exact-ID, refuse, backlog, repair), KHÔNG mô phỏng queue 2..10 của
+workflow. BO TEST NAY KHÔNG viết bài thật: mọi mutation
 trên bản sao tạm (FxTestCase của test_qa_modes.py); production matrix/
 checkpoint phải BYTE-IDENTICAL trước/sau toàn bộ bộ test (hash guard ở
 setUpModule/tearDownModule).
@@ -371,6 +374,10 @@ class PushHotPathTest(FxTestCase):
 class BacklogSelectionTest(FxTestCase):
     """Kịch bản 11-15: BACKLOG recovery (mô hình /vanchinh, 2026-10-01).
 
+    Đây là semantics của TOOLING push-selection.py (chunk_size=2) —
+    factory-publish.yml trên production chọn queue theo push hiện tại
+    (2..10, pair 2) và KHÔNG quét backlog toàn `_drafts/`.
+
     Pipeline trước chết trước claim/QA/publish để draft HỢP LỆ sót trong
     `_drafts/` cho hàng PLANNED/WRITING/QA/REPAIR/PASS. Selection phải:
     - phát hiện EXACT các ID có draft thật (tối đa chunk_size, REPAIRABLE
@@ -607,3 +614,7 @@ class BacklogSelectionTest(FxTestCase):
         self.assertEqual(sel2['claim_ids'], [],
                           'enabled=false KHÔNG claim, chỉ QA/publish dở')
         self.assertEqual(sel2['qa_ids'], [row['id']])
+
+
+if __name__ == '__main__':
+    unittest.main(verbosity=2)
