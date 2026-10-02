@@ -32,8 +32,10 @@ name: Factory Publish (chunked)
 #
 # Mapping /vanchinh -> /blog:
 #   cam-nang/ -> _drafts/ (promoted to _posts by publish-gate.py)
-#   scripts/factory_queue.py -> scripts/factory/factory-operator.py
-#     (prepare-next --ids / qa --ids --scope fast / publish --ids)
+#   scripts/factory_queue.py -> scripts/factory/factory-queue.py
+#     (CANONICAL queue processor — consume KHÔNG còn inline trong YAML;
+#     primitives prepare-next --ids / qa --ids --scope fast /
+#     publish --ids thuộc scripts/factory/factory-operator.py)
 #   scripts/factory_push_selection.py -> scripts/factory/push-selection.py
 #     (CANONICAL queue selector — cùng refuse semantics, queue 2..10;
 #     workflow chỉ orchestration, KHÔNG giữ bản selection trùng lặp)
@@ -41,7 +43,9 @@ name: Factory Publish (chunked)
 #   data/batches/txn/txn.json -> data/state/transaction.json (active flag)
 #   validate_content_matrix.py + check_matrix_sync.py ->
 #     scripts/factory/validate.py --scope chunk
-#   reports/batches/factory-queue-last-run.json -> /tmp/queue-summary.json
+#   reports/batches/factory-queue-last-run.json ->
+#     reports/factory/factory-queue-last-run.json (canonical report,
+#     rewrite sau từng pair) + /tmp/queue-summary.json (step summary)
 # Publish gate: quality>=75 AND seo>=70 (blog engine threshold, KHONG
 # ha nguong). Publisher concurrency = 1. NO force push, EVER.
 
@@ -121,58 +125,13 @@ jobs:
         id: consume
         if: steps.select.outputs.queue != ''
         run: |
-          python3 - <<'EOF'
-          import csv, json, os, subprocess, sys
-          queue = '${{ steps.select.outputs.queue }}'.split(',')
-          pairs = [queue[i:i + 2] for i in range(0, len(queue), 2)]
-          op = [sys.executable, 'scripts/factory/factory-operator.py']
-
-          def statuses(ids):
-              rows = {r['id']: r for r in csv.DictReader(
-                  open('data/content-matrix.csv', encoding='utf-8'))}
-              return {i: rows[i]['status'] for i in ids}
-
-          published, recoverable, deferred = [], [], []
-          blocked = False  # engine resume-first: sau pair FAIL khong claim them bai moi
-          for pair in pairs:
-              label = ','.join(pair)
-              st = statuses(pair)
-              if blocked and any(v == 'PLANNED' for v in st.values()):
-                  deferred.extend(pair)
-                  print('pair %s: DEFERRED (engine resume-first — hoan tat repair truoc)' % label)
-                  continue
-              try:
-                  planned = [i for i in pair if st[i] == 'PLANNED']
-                  if planned:
-                      subprocess.run(op + ['prepare-next', '--ids', ','.join(planned),
-                                           '--scope', 'fast'], check=True)
-                  subprocess.run(op + ['qa', '--ids', label, '--scope', 'fast'], check=True)
-                  subprocess.run(op + ['publish', '--ids', label, '--scope', 'fast'], check=True)
-                  published.extend(pair)
-                  print('pair %s: PUBLISHED' % label)
-              except subprocess.CalledProcessError as e:
-                  st2 = statuses(pair)
-                  content_fail = all(v in ('REPAIR', 'PASS') for v in st2.values())
-                  if content_fail:
-                      recoverable.extend(pair)
-                      blocked = True
-                      print('pair %s: FAIL content (recoverable, can repair push) rc=%s' % (label, e.returncode))
-                  else:
-                      json.dump({'published': published, 'recoverable': recoverable,
-                                 'deferred': deferred,
-                                 'fatal': 'pair %s rc=%s' % (label, e.returncode)},
-                                open('/tmp/queue-summary.json', 'w'))
-                      raise SystemExit('pair %s: FATAL rc=%s — dung ngay, khong tiep tuc pair ke'
-                                       % (label, e.returncode))
-          json.dump({'published': published, 'recoverable': recoverable,
-                     'deferred': deferred}, open('/tmp/queue-summary.json', 'w'))
-          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
-              f.write('published_ids=%s\n' % ','.join(published))
-              f.write('recoverable_ids=%s\n' % ','.join(recoverable))
-              f.write('deferred_ids=%s\n' % ','.join(deferred))
-          print('queue done: published=%s recoverable=%s deferred=%s'
-                % (published, recoverable, deferred))
-          EOF
+          # CANONICAL queue processor: scripts/factory/factory-queue.py
+          # (port tu /vanchinh factory_queue.py; KHONG con implementation
+          # queue thu hai trong YAML). Fail-closed truoc mutation, mot
+          # run-lock cho ca queue, report deterministic sau tung pair.
+          python3 scripts/factory/factory-queue.py run \
+            --ids "${{ steps.select.outputs.queue }}" \
+            --mode "${{ steps.select.outputs.mode }}"
 
       - name: Light matrix smoke (scoped pre-push gate)
         if: steps.select.outputs.queue != ''

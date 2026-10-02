@@ -39,6 +39,17 @@ Semantics (port CHÍNH XÁC từ selector inline cũ của factory-publish.yml):
   - production-control enabled=false + lần chạy cần claim bài mới ->
     exit 0 sạch TRƯỚC khi claim (queue rỗng; push repair-only vẫn hợp lệ);
   - không draft trong push -> no-op exit 0;
+  - OWNERSHIP MULTI-WRITER (chỉ KÍCH HOẠT khi data/state/writer-claims.json
+    TỒN TẠI — presence = multi-writer mode ON; registry vắng = single-writer
+    legacy, semantics cũ giữ nguyên):
+      mọi ID PLANNED cần claim PHẢI có lease sống trong registry
+      (scripts/factory/writer-claim.py, TTL 48h, self-heal prune) và
+      draft PHẢI khai `writer: Wx` trong frontmatter khớp writer đang
+      giữ lease của ID đó (writer identity từ frontmatter draft —
+      deterministic, sống trong git history sau merge, KHÔNG dựa vào
+      branch name); vi phạm -> REFUSE fail-closed exit 3 (KHÔNG đổi gì).
+      Repair rows KHÔNG claim lại từ đầu nên KHÔNG cần lease (prune tự
+      loại id không còn PLANNED khỏi registry);
   - selector CHỈ ĐỌC: KHÔNG mutate matrix/checkpoint/production-control/
     bất kỳ file nào của repo (chỉ ghi stdout hoặc $GITHUB_OUTPUT);
   - KHÔNG AI, KHÔNG API, KHÔNG secrets.
@@ -47,6 +58,7 @@ Thoát: 0 = chọn xong (kể cả no-op/paused), 3 = refuse (fail-closed).
 """
 import argparse
 import csv
+import importlib.util
 import json
 import os
 import re
@@ -62,6 +74,7 @@ MAX_QUEUE_PER_PUSH = 10
 PAIR_SIZE = 2
 
 FRONT_ID_RE = re.compile(r'^article_id:\s*(BLG-\d+)', re.M)
+WRITER_RE = re.compile(r'^writer:\s*(W\d+)\s*$', re.M)
 # chuỗi GHÉP để file này không chứa slug template nguyên vẹn — draft-leak
 # gate grep slug này trên cây build (scripts/ bị Jekyll copy)
 TEMPLATE_SLUG = 'mau' + '-nhap' + '-bai' + '-moi'
@@ -94,6 +107,26 @@ def read_paths(path):
         return [ln.strip() for ln in f.read().splitlines() if ln.strip()]
 
 
+def claim_registry():
+    # Đọc writer-claims registry (CHỈ ĐỌC, KHÔNG prune/mutate). Trả
+    # (reg, live) khi multi-writer mode ON; trả None khi registry KHÔNG
+    # tồn tại (single-writer legacy — KHÔNG enforce ownership). Nạp
+    # writer-claim.py qua importlib (tên file có gạch ngang) để dùng
+    # CHÍNH XÁC load_registry/_live_leases — một nguồn sự thật.
+    path = os.environ.get(
+        'WRITER_CLAIMS',
+        os.path.join(ROOT, 'data', 'state', 'writer-claims.json'))
+    if not os.path.isfile(path):
+        return None
+    spec = importlib.util.spec_from_file_location(
+        'blog_writer_claim',
+        os.path.join(ROOT, 'scripts', 'factory', 'writer-claim.py'))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    reg = mod.load_registry()
+    return reg, mod._live_leases(reg)
+
+
 def ids_from(paths):
     """EXACT article_id từ các path draft (port nguyên vẹn inline cũ):
     chỉ file `.md`; template bị bỏ qua; thiếu article_id -> REFUSE ngay
@@ -115,7 +148,8 @@ def ids_from(paths):
         m = FRONT_ID_RE.search(head)
         if not m:
             raise Refuse('draft %s thieu article_id trong frontmatter' % f)
-        out.append(m.group(1))
+        wm = WRITER_RE.search(head)
+        out.append((m.group(1), wm.group(1) if wm else None))
     return out
 
 
@@ -129,13 +163,18 @@ def select(added, modified):
         'proceed': False, 'mode': 'skip', 'queue': [], 'claim_ids': [],
         'qa_ids': [], 'pairs': 0, 'refuse': None,
         'control_enabled': control_enabled,
+        'multi_writer': False, 'writers': {},
     }
 
+    registry = claim_registry()
+    out['multi_writer'] = registry is not None
     try:
-        queue = ids_from(added) + ids_from(modified)
+        entries = ids_from(added) + ids_from(modified)
     except Refuse as e:
         out['refuse'] = str(e)
         return out
+    queue = [a for a, _ in entries]
+    declared = {a: w for a, w in entries}
 
     if not queue:
         # no-op sạch: không draft trong push — KHÔNG đụng matrix
@@ -177,6 +216,29 @@ def select(added, modified):
     out['claim_ids'] = [i for i in queue if by_id[i]['status'] == 'PLANNED']
     out['qa_ids'] = list(queue)
     out['pairs'] = (len(queue) + 1) // 2
+
+    if registry is not None and out['claim_ids']:
+        # MULTI-WRITER mode ON: mọi ID PLANNED cần claim PHẢI thuộc lease
+        # sống của ĐÚNG writer khai trong frontmatter draft. Identity từ
+        # frontmatter (deterministic, theo draft vào git history sau
+        # merge), KHÔNG dựa vào branch name. Fail-closed: refuse TRƯỚC
+        # mọi mutation; selector KHÔNG mutate registry (chỉ ĐỌC).
+        reg, live = registry
+        bad = []
+        for aid in out['claim_ids']:
+            holder = live.get(aid)
+            if holder is None:
+                bad.append('%s: khong co lease song trong writer-claims '
+                           'registry (multi-writer mode ON)' % aid)
+            elif declared.get(aid) != holder[0]:
+                bad.append('%s: draft khai writer %s nhung lease dang '
+                           'thuoc writer %s'
+                           % (aid, declared.get(aid), holder[0]))
+        if bad:
+            out['refuse'] = '; '.join(bad)
+            return out
+        out['writers'] = {a: declared[a] for a in out['claim_ids']}
+
     out['proceed'] = True
     return out
 

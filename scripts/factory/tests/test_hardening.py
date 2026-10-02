@@ -781,22 +781,30 @@ class StaticContract(unittest.TestCase):
         # pair size = 2: pair count deterministic của canonical selector
         self.assertIn('PAIR_SIZE = 2', sel)
         self.assertIn('(len(queue) + 1) // 2', sel)
-        # consume của workflow chia pair 2, tuần tự
-        self.assertIn('queue[i:i + 2]', y)
+        # consume của workflow GỌI CANONICAL queue processor — KHÔNG còn
+        # implementation queue inline thứ hai trong YAML (một nguồn sự
+        # thật; port Phase 3 multi-writer từ /vanchinh)
+        self.assertIn('scripts/factory/factory-queue.py run', y)
+        self.assertIn('factory-operator.py', y)
+        with open(os.path.join(ROOT, 'scripts/factory/factory-queue.py'),
+                  encoding='utf-8') as f:
+            fq = f.read()
+        # consume của processor chia pair 2, tuần tự, deterministic
+        self.assertIn('PAIR_SIZE = 2', fq)
+        self.assertIn('[queue[i:i + pair_size]', fq)
         # claim CHỈ hàng PLANNED; qa/publish --ids fast
         self.assertIn("planned = [i for i in pair if st[i] == 'PLANNED']",
-                      y)
-        self.assertIn("'prepare-next', '--ids', ','.join(planned)", y)
-        self.assertIn("'qa', '--ids', label, '--scope', 'fast'", y)
-        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", y)
-        self.assertIn('factory-operator.py', y)
+                      fq)
+        self.assertIn("'prepare-next', '--ids', ','.join(planned)", fq)
+        self.assertIn("'qa', '--ids', label, '--scope', 'fast'", fq)
+        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", fq)
         # resume-first: pair FAIL -> recoverable, KHÔNG claim pair mới
-        self.assertIn('DEFERRED (engine resume-first', y)
-        self.assertIn('blocked and any(', y)
+        self.assertIn('DEFERRED (engine resume-first', fq)
+        self.assertIn('blocked and any(', fq)
         # một pair lỗi KHÔNG rollback pair đã publish (recoverable riêng)
-        self.assertIn('recoverable.extend(pair)', y)
-        self.assertIn('published.extend(pair)', y)
-        self.assertIn('FATAL rc=%s', y)
+        self.assertIn("state['recoverable'].extend(pair)", fq)
+        self.assertIn("state['published'].extend(pair)", fq)
+        self.assertIn('FATAL rc=%s', fq)
         # guard fail-closed: KHÔNG publish khi còn transaction/lock
         guard = extract_run_block(
             y, 'Guard no pending transaction and no lock (fail-closed)')
@@ -839,10 +847,16 @@ class StaticContract(unittest.TestCase):
         y = wf_text('factory-publish.yml')
         block = extract_run_block(
             y, 'Consume write-ahead queue (pair claim QA publish sequential)')
-        self.assertIn("'qa', '--ids', label, '--scope', 'fast'", block)
-        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", block)
-        self.assertIn('check=True', block)
+        self.assertIn('scripts/factory/factory-queue.py run', block)
         self.assertNotIn('|| true', block)
+        # fail-closed sống trong CANONICAL processor (KHÔNG còn inline)
+        with open(os.path.join(ROOT, 'scripts/factory/factory-queue.py'),
+                  encoding='utf-8') as f:
+            fq = f.read()
+        self.assertIn("'qa', '--ids', label, '--scope', 'fast'", fq)
+        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", fq)
+        self.assertIn('check=True', fq)
+        self.assertNotIn('|| true', fq)
 
     def test_s7_article_batch_readonly(self):
         """article-batch.yml: CHỈ workflow_dispatch, read-only — dry-run
