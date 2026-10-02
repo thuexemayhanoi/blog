@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01056",
   "title": "Chạy xe sáng sớm qua cầu Vĩnh Tuy: cung đường cho người mới",
-  "scored_at": "2026-10-01T04:42:55+00:00",
+  "scored_at": "2026-10-02T04:16:26+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -41,9 +41,10 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-01-chay-xe-sang-som-qua-cau-vinh-tuy-cung-uong-cho-nguoi-moi.md",
-  "content_sha256": "d396cf0b2d1efb0cac7e85b85c4b9191064b3ae4c719654e371030264add6ced",
+  "content_sha256": "ea97d6d2425a795a09a5fcca188620d7e54bfd5785848575abae54f9fc7d489b",
   "matrix_row_sha256": "242096e24ebc34193cfc19ea4d7e11edddf7562e9cddee4b4bb69e47dd54e58f",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-01T04:42:56+00:00"
+  "published_at": "2026-10-01T04:42:56+00:00",
+  "rescore_note": "Tai cham sau repair frontmatter parent_id (commit f670e4e, P-DU-LICH -> P-CUNG-DUONG); noi dung body giong het ban da PASS; sha moi gan voi tep _posts hien tai."
 }

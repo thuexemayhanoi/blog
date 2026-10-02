@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01057",
   "title": "Đi công viên Yên Sở bằng xe máy: chỗ đỗ xe và đường vào",
-  "scored_at": "2026-10-01T04:42:55+00:00",
+  "scored_at": "2026-10-02T04:16:27+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -41,9 +41,10 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-01-i-cong-vien-yen-so-bang-xe-may-cho-o-xe-va-uong-vao.md",
-  "content_sha256": "341c045fbb38aa0af0cf16f5aa86cb46c28e6cd01d8f3fd9a1b00f4f69f85533",
+  "content_sha256": "03694cf2062cced47043bf33ae28e2a1d6c74c63f2ab9fd7701f113f1c5169b5",
   "matrix_row_sha256": "83f671adbaed96d5c38f2d54ad67c18295eb440e25437718404c5f5924d19e12",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-01T04:42:56+00:00"
+  "published_at": "2026-10-01T04:42:56+00:00",
+  "rescore_note": "Tai cham sau repair frontmatter parent_id (commit f670e4e, P-DU-LICH -> P-CUNG-DUONG); noi dung body giong het ban da PASS; sha moi gan voi tep _posts hien tai."
 }
