@@ -1,0 +1,51 @@
+name: Factory soak (tier 4)
+
+# SOAK ON-DEMAND, HERMETIC — port tu /vanchinh factory-soak.yml.
+# Chay 20 vong multi-chunk publish cycles voi fault injection
+# (writer-required resume, crash sau begin_txn, crash sau partial
+# writes, stale lock, invariant validation fault) tren ban sao
+# fixture trong thu muc tam. KHONG BAO GIO cham production state:
+# cay production duoc checksum va phai giong het truoc/sau run.
+# Chi chay bang workflow_dispatch — khong cron, khong push trigger.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: factory-soak
+  cancel-in-progress: false
+
+jobs:
+  soak:
+    if: github.repository == 'thuexemayhanoi/blog'
+    name: Soak 20 vong (hermetic, read-only doi voi production)
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Multi-chunk soak + failure recovery (hermetic fixture)
+        run: |
+          set -eu
+          python3 scripts/factory/tests/test_soak_recovery.py
+
+      - name: Purity check (soak phai read-only doi voi production)
+        run: |
+          set -eu
+          if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+            echo "FAIL: factory-soak sua tep tracked — vi pham hop dong HERMETIC."
+            git status --porcelain --untracked-files=no
+            exit 1
+          fi
+          echo "OK: factory-soak HERMETIC, working tree sach."

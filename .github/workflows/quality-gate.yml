@@ -1,8 +1,10 @@
 name: Quality gate
 
-# CONG FAST CUA /blog (hop dong 4 workflow — docs/factory-workflow-contract.md).
-# Chay tren MOI push main + PR + dispatch: nhanh, READ-ONLY (contents: read),
-# khong bao gio commit/push ve main. Bai moi phai qua cong nay + Pages deploy.
+# CONG FAST CUA /blog — path filters theo kien truc /vanchinh
+# article-quality.yml (SOURCE OF TRUTH). Chay tren push main + PR
+# (chi khi path lien quan) + dispatch: nhanh, READ-ONLY
+# (contents: read), khong bao gio commit/push ve main. Bai moi
+# phai qua cong nay + Pages deploy.
 #
 # Pham vi FAST (san xuat hang ngay):
 #   - validate.py --scope chunk (nen + chunk hien tai)
@@ -19,7 +21,9 @@ name: Quality gate
 on:
   push:
     branches: [main]
+    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/quality-gate.yml']
   pull_request:
+    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/quality-gate.yml']
   workflow_dispatch:
 
 permissions:
@@ -31,6 +35,7 @@ concurrency:
 
 jobs:
   fast-gate:
+    if: github.repository == 'thuexemayhanoi/blog'
     name: FAST validate + build + links
     runs-on: ubuntu-latest
     timeout-minutes: 20

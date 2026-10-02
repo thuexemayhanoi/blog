@@ -1,0 +1,280 @@
+name: Factory Publish (chunked)
+
+# Ported from thuexemayhanoi/vanchinh .github/workflows/factory-publish.yml
+# (SOURCE OF TRUTH) and adapted to /blog. Automated, deterministic publish
+# pipeline. NO AI, NO API keys, NO secrets. The external WRITER(s) (Mistral
+# runs) commit drafts under _drafts/; WRITERS ARE NOT PUBLISHERS — only
+# this workflow mutates production state, one queue run at a time.
+#
+# TURBO QUEUE CONTRACT (write-ahead queue, ported as-is from /vanchinh):
+#   - one writer push queues 2..10 consecutive drafts (10 = lease limit
+#     per writer; up to 3 writers x 10 = max 30 live ids in flight);
+#   - the queue is validated (draft must have article_id, no duplicate
+#     ids, no unknown matrix ids, no PUBLISHED/EXISTING/BLOCKED rows,
+#     matrix order, max 10) and split into deterministic PAIRS of 2;
+#   - pairs are consumed sequentially inside this SAME production run:
+#     pair -> claim (prepare-next, PLANNED rows only) -> scoped QA
+#     (threshold 75/70) -> transactional publish (PASS only, canonical
+#     scripts/factory/publish-gate.py) -> checkpoint -> next pair;
+#   - a failed pair NEVER rolls back already-published pairs; it stays
+#     recoverable (REPAIR status + QA evidence kept in matrix) and is
+#     reported explicitly for a follow-up repair push. Repair rows skip
+#     claim. The engine is resume-first: it refuses new claims while
+#     repair work is unfinished, so later PLANNED pairs in the same
+#     queue are DEFERRED to the next run, not published half-done;
+#   - a FATAL failure (claim/QA infrastructure, non-FF push after 3
+#     rebase retries) fails the run WITHOUT commit; drafts stay queued
+#     on main and the next push retries them.
+#   - multi-writer: up to 3 independent writers lease disjoint ids via
+#     a writer-claim registry (MISSING in /blog — see migration report);
+#     writer pushes never publish, they only queue here, and this
+#     single concurrency group serializes every queue run.
+#
+# Mapping /vanchinh -> /blog:
+#   cam-nang/ -> _drafts/ (promoted to _posts by publish-gate.py)
+#   scripts/factory_queue.py -> scripts/factory/factory-operator.py
+#     (prepare-next --ids / qa --ids --scope fast / publish --ids)
+#   scripts/factory_push_selection.py -> inline selection below (same
+#     refuse semantics; blog scripts/factory/push-selection.py caps at
+#     chunk_size=2 and cannot consume a 2..10 turbo queue)
+#   data/batches/lock.json -> data/state/writer-lock.active
+#   data/batches/txn/txn.json -> data/state/transaction.json (active flag)
+#   validate_content_matrix.py + check_matrix_sync.py ->
+#     scripts/factory/validate.py --scope chunk
+#   reports/batches/factory-queue-last-run.json -> /tmp/queue-summary.json
+# Publish gate: quality>=75 AND seo>=70 (blog engine threshold, KHONG
+# ha nguong). Publisher concurrency = 1. NO force push, EVER.
+
+on:
+  push:
+    branches: [main]
+    paths: ['_drafts/**', '.github/workflows/factory-publish.yml']
+
+permissions:
+  contents: write
+
+concurrency:
+  group: factory-publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Capture push scope (diff of THIS push, before truth refresh)
+        run: |
+          set -e
+          # Article drafts ADDED and MODIFIED by this writer push (PUBLISHED-row
+          # modifications are rebuilds and are ignored by selection).
+          git diff --name-only --diff-filter=A HEAD~1 HEAD -- _drafts/ > /tmp/added.txt || true
+          git diff --name-only --diff-filter=M HEAD~1 HEAD -- _drafts/ > /tmp/modified.txt || true
+          echo "push added drafts: $(wc -l < /tmp/added.txt || echo 0), modified: $(wc -l < /tmp/modified.txt || echo 0)"
+          cp /tmp/added.txt /tmp/added.push.txt
+          cp /tmp/modified.txt /tmp/modified.push.txt
+
+      - name: Refresh repository truth (fetch origin/main; never force)
+        run: |
+          set -e
+          git fetch origin main
+          git checkout -B main origin/main
+          echo "factory truth: $(git log -1 --format='%h %s')"
+
+      - name: Select queue scope (exact IDs revalidated against fresh truth)
+        id: select
+        run: |
+          set -e
+          cp /tmp/added.push.txt /tmp/added.txt
+          cp /tmp/modified.push.txt /tmp/modified.txt
+          python3 - <<'EOF'
+          import csv, json, os, re
+
+          def ids_from(path):
+              out = []
+              for line in open(path, encoding='utf-8'):
+                  f = line.strip()
+                  if not f or not f.endswith('.md'):
+                      continue
+                  tpl = 'mau' + '-nhap' + '-bai' + '-moi'
+                  if tpl in f:
+                      continue  # template bai nhap mau, khong phai bai that
+                  head = open(f, encoding='utf-8').read()[:2000]
+                  m = re.search(r'^article_id:\s*(BLG-\d+)', head, re.M)
+                  if not m:
+                      raise SystemExit('REFUSED: draft %s thieu article_id trong frontmatter' % f)
+                  out.append(m.group(1))
+              return out
+
+          queue = ids_from('/tmp/added.txt') + ids_from('/tmp/modified.txt')
+          gout = os.environ['GITHUB_OUTPUT']
+          if not queue:
+              with open(gout, 'a') as f:
+                  f.write('queue=\n')
+              print('selection: khong co draft trong push — no-op')
+              raise SystemExit(0)
+          rows = list(csv.DictReader(open('data/content-matrix.csv', encoding='utf-8')))
+          by_id = {r['id']: r for r in rows}
+          order = {r['id']: i for i, r in enumerate(rows)}
+          if len(set(queue)) != len(queue):
+              raise SystemExit('REFUSED: id trung nhau trong cung mot push')
+          if len(queue) > 10:
+              raise SystemExit('REFUSED: %d draft > toi da 10 moi push (turbo queue)' % len(queue))
+          unknown = [i for i in queue if i not in by_id]
+          if unknown:
+              raise SystemExit('REFUSED: id khong co trong matrix: %s' % ','.join(unknown))
+          locked = [i for i in queue if by_id[i]['status'] in ('PUBLISHED', 'EXISTING', 'BLOCKED')]
+          if locked:
+              raise SystemExit('REFUSED: id da xong/khoa, khong duoc sua lai: %s' % ','.join(locked))
+          queue = sorted(queue, key=lambda i: order[i])
+          control = json.load(open('data/factory/production-control.json', encoding='utf-8'))
+          needs_claim = any(by_id[i]['status'] == 'PLANNED' for i in queue)
+          if not control.get('enabled', True) and needs_claim:
+              with open(gout, 'a') as f:
+                  f.write('queue=\n')
+              print('selection: production-control paused — khong claim bai moi; exit sach')
+              raise SystemExit(0)
+          mode = 'new' if needs_claim else 'repair'
+          with open(gout, 'a') as f:
+              f.write('queue=%s\n' % ','.join(queue))
+              f.write('mode=%s\n' % mode)
+              f.write('pairs=%d\n' % ((len(queue) + 1) // 2))
+          print('selection: mode=%s queue=%s pairs=%d' % (mode, queue, (len(queue) + 1) // 2))
+          EOF
+
+      - name: Guard no pending transaction and no lock (fail-closed)
+        if: steps.select.outputs.queue != ''
+        run: |
+          python3 - <<'EOF'
+          import json, os
+          if os.path.exists('data/state/writer-lock.active'):
+              raise SystemExit('writer lock con ton tai (stale lock) — recover truoc khi publish')
+          txn = json.load(open('data/state/transaction.json', encoding='utf-8'))
+          if txn.get('active'):
+              raise SystemExit('transaction active con ton tai — recover truoc khi publish')
+          print('guard OK: khong lock, khong txn active')
+          EOF
+
+      - name: Consume write-ahead queue (pair claim QA publish sequential)
+        id: consume
+        if: steps.select.outputs.queue != ''
+        run: |
+          python3 - <<'EOF'
+          import csv, json, os, subprocess, sys
+          queue = '${{ steps.select.outputs.queue }}'.split(',')
+          pairs = [queue[i:i + 2] for i in range(0, len(queue), 2)]
+          op = [sys.executable, 'scripts/factory/factory-operator.py']
+
+          def statuses(ids):
+              rows = {r['id']: r for r in csv.DictReader(
+                  open('data/content-matrix.csv', encoding='utf-8'))}
+              return {i: rows[i]['status'] for i in ids}
+
+          published, recoverable, deferred = [], [], []
+          blocked = False  # engine resume-first: sau pair FAIL khong claim them bai moi
+          for pair in pairs:
+              label = ','.join(pair)
+              st = statuses(pair)
+              if blocked and any(v == 'PLANNED' for v in st.values()):
+                  deferred.extend(pair)
+                  print('pair %s: DEFERRED (engine resume-first — hoan tat repair truoc)' % label)
+                  continue
+              try:
+                  planned = [i for i in pair if st[i] == 'PLANNED']
+                  if planned:
+                      subprocess.run(op + ['prepare-next', '--ids', ','.join(planned),
+                                           '--scope', 'fast'], check=True)
+                  subprocess.run(op + ['qa', '--ids', label, '--scope', 'fast'], check=True)
+                  subprocess.run(op + ['publish', '--ids', label, '--scope', 'fast'], check=True)
+                  published.extend(pair)
+                  print('pair %s: PUBLISHED' % label)
+              except subprocess.CalledProcessError as e:
+                  st2 = statuses(pair)
+                  content_fail = all(v in ('REPAIR', 'PASS') for v in st2.values())
+                  if content_fail:
+                      recoverable.extend(pair)
+                      blocked = True
+                      print('pair %s: FAIL content (recoverable, can repair push) rc=%s' % (label, e.returncode))
+                  else:
+                      json.dump({'published': published, 'recoverable': recoverable,
+                                 'deferred': deferred,
+                                 'fatal': 'pair %s rc=%s' % (label, e.returncode)},
+                                open('/tmp/queue-summary.json', 'w'))
+                      raise SystemExit('pair %s: FATAL rc=%s — dung ngay, khong tiep tuc pair ke'
+                                       % (label, e.returncode))
+          json.dump({'published': published, 'recoverable': recoverable,
+                     'deferred': deferred}, open('/tmp/queue-summary.json', 'w'))
+          with open(os.environ['GITHUB_OUTPUT'], 'a') as f:
+              f.write('published_ids=%s\n' % ','.join(published))
+              f.write('recoverable_ids=%s\n' % ','.join(recoverable))
+              f.write('deferred_ids=%s\n' % ','.join(deferred))
+          print('queue done: published=%s recoverable=%s deferred=%s'
+                % (published, recoverable, deferred))
+          EOF
+
+      - name: Light matrix smoke (scoped pre-push gate)
+        if: steps.select.outputs.queue != ''
+        run: python3 scripts/factory/validate.py --scope chunk
+
+      - name: Queue run summary (published recoverable deferred explicit)
+        if: steps.select.outputs.queue != ''
+        run: |
+          python3 - <<'EOF'
+          import json
+          rep = json.load(open('/tmp/queue-summary.json'))
+          if rep.get('published'):
+              print('published ids: %s' % ', '.join(rep['published']))
+          if rep.get('recoverable'):
+              print('RECOVERABLE (repair push needed): %s' % ', '.join(rep['recoverable']))
+          if rep.get('deferred'):
+              print('DEFERRED (resume-first, lan chay ke): %s' % ', '.join(rep['deferred']))
+          if rep.get('fatal'):
+              raise SystemExit('fatal: %s' % rep['fatal'])
+          EOF
+
+      - name: Commit publish results (single commit per queue run)
+        if: steps.select.outputs.queue != ''
+        run: |
+          set -e
+          git config user.name "blog-factory-bot"
+          git config user.email "nguyentuantu2482@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "no state changes to commit"
+          else
+            git commit -m "factory: ${{ steps.select.outputs.mode }} publish (${{ steps.select.outputs.queue }}) [automated txn]"
+            # push with truth refresh + rebase retry; NEVER force push
+            n=0
+            until git push; do
+              n=$((n+1))
+              if [ "$n" -ge 3 ]; then
+                echo "push failed after $n retries (non-FF races); leaving committed state for the next run"
+                exit 1
+              fi
+              echo "push race lost; fetching fresh truth and rebasing (attempt $n)"
+              git fetch origin main
+              git rebase origin/main || { git rebase --abort; echo "rebase conflict; aborting"; exit 1; }
+            done
+          fi
+
+      - name: Assert clean factory state
+        if: steps.select.outputs.queue != ''
+        run: |
+          test ! -f data/state/writer-lock.active || { echo "lock left behind"; exit 1; }
+          python3 - <<'EOF'
+          import json
+          txn = json.load(open('data/state/transaction.json', encoding='utf-8'))
+          if txn.get('active'):
+              raise SystemExit('txn active left behind')
+          print('clean state OK: khong lock, khong txn active')
+          EOF

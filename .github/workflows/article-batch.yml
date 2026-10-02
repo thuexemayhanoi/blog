@@ -1,0 +1,79 @@
+name: Article batch (read-only dry-run)
+
+# BATCH DRY-RUN READ-ONLY — port tu /vanchinh article-batch.yml.
+# /vanchinh dung scripts/run_article_batch.py (plan/progress);
+# /blog KHONG co script do — KHONG tu tao, KHONG bia duong dan.
+# Thay bang cac script read-only tuong duong co san cua /blog:
+#   - validate.py --scope full       : kiem toan bo nen + inventory
+#   - factory-operator.py status    : trang thai engine + matrix
+#   - queue.py --stats              : anh huong queue (view over matrix)
+#   - guard: khong lock, khong transaction active
+# Chi chay bang workflow_dispatch — khong bao gio claim/publish/push.
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: article-batch
+  cancel-in-progress: false
+
+jobs:
+  dry-run:
+    if: github.repository == 'thuexemayhanoi/blog'
+    name: Dry-run batch plan + progress (read-only)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      PYTHONDONTWRITEBYTECODE: '1'
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate (full scope — nen + inventory + taxonomy)
+        run: |
+          set -eu
+          python3 scripts/factory/validate.py --scope full
+
+      - name: Progress snapshot (read-only)
+        run: |
+          set -eu
+          python3 scripts/factory/factory-operator.py status
+
+      - name: Queue stats (read-only view over matrix)
+        run: |
+          set -eu
+          python3 scripts/factory/queue.py --stats
+
+      - name: Assert no pending transaction / no lock
+        run: |
+          set -eu
+          test ! -f data/state/writer-lock.active || {
+            echo "FAIL: writer-lock.active ton tai — co writer dang giu lease."
+            exit 1
+          }
+          python3 - <<'EOF'
+          import json, sys
+          txn = json.load(open('data/state/transaction.json', encoding='utf-8'))
+          if txn.get('active'):
+              print('FAIL: transaction active ton tai — recover truoc khi dry-run.')
+              sys.exit(1)
+          print('OK: khong transaction active, khong lock.')
+          EOF
+
+      - name: Purity check (dry-run phai read-only)
+        run: |
+          set -eu
+          if [ -n "$(git status --porcelain --untracked-files=no)" ]; then
+            echo "FAIL: article-batch sua tep tracked — vi pham hop dong READ-ONLY."
+            git status --porcelain --untracked-files=no
+            exit 1
+          fi
+          echo "OK: article-batch READ-ONLY, working tree sach."

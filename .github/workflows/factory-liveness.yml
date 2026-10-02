@@ -1,10 +1,11 @@
 name: Factory liveness
 
-# LIVENESS READ-ONLY MOI 6 GIO (hop dong 4 workflow —
-# docs/factory-workflow-contract.md). Chi BAO CAO san xuat dam ruoi:
-# watchdog + trang thai engine + purity check. KHONG BAO GIO
-# recover/delete/claim/publish/refill; moi can thiep qua
-# factory-production.yml (workflow_dispatch).
+# LIVENESS READ-ONLY MOI 6 GIO — cap nhat theo kien truc /vanchinh
+# factory-liveness.yml (SOURCE OF TRUTH): watchdog DETECT
+# "workflow green but factory standing still". Trang thai khong
+# healthy phai FAIL run de stall hien ro tren Actions thay vi
+# an sau sau cac run xanh. Liveness KHONG BAO GIO recover/delete/
+# claim/publish/push; moi can thiep phai qua factory-publish.yml.
 
 on:
   schedule:
@@ -21,7 +22,7 @@ concurrency:
 jobs:
   liveness:
     if: github.repository == 'thuexemayhanoi/blog'
-    name: Watchdog + engine status (read-only)
+    name: Watchdog + engine status (read-only, fail-closed)
     runs-on: ubuntu-latest
     timeout-minutes: 10
     env:
@@ -35,16 +36,14 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Watchdog (bao cao liveness, khong sua gi)
+      - name: Watchdog (unhealthy = FAIL run, khong sua gi)
         run: |
           set -eu
-          rc=0
-          python3 scripts/factory/watchdog.py || rc=$?
-          if [ "$rc" -ne 0 ]; then
-            echo "::warning::watchdog rc=$rc — san xuat co the dam ruoi (xem output tren). Liveness chi bao cao; moi can thiep qua factory-production.yml."
-          else
-            echo "OK: watchdog HEALTHY."
-          fi
+          python3 scripts/factory/watchdog.py
+
+      - name: Engine status (step summary, read-only)
+        run: |
+          set -eu
           {
             echo "## Factory liveness"
             echo ""
