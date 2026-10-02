@@ -13,7 +13,7 @@ EXTERNAL AI (writer/coordinator)      ← viết prose, điều phối
    v
 GitHub Actions factory-publish.yml ← MÔI TRƯỜNG THỰC THI
    |  PUSH main paths _drafts/** TỰ ĐỘNG CHẠY ĐƯỜNG NÓNG:
-   |  selection EXACT ID trong workflow (refuse >10 ID, ID trùng,
+   |  selection EXACT ID qua canonical push-selection.py (refuse >10 ID, ID trùng,
    |  ID lạ, ID đã PUBLISHED/EXISTING/BLOCKED) → guard không
    |  transaction/lock (FAIL-CLOSED) → chia PAIR 2 theo thứ tự
    |  matrix → prepare-next --ids (chỉ hàng PLANNED) → qa --ids
@@ -42,7 +42,8 @@ ENGINE CHUẨN (nguồn sự thật duy nhất)
 Writer push draft vào `_drafts/` → factory-publish.yml tự động trên push
 main (paths `_drafts/**`):
 
-1. Selection (inline trong workflow, đọc truth tươi sau fetch origin):
+1. Selection (CANONICAL selector `scripts/factory/push-selection.py`,
+   đọc truth tươi sau fetch origin):
    EXACT ID theo `article_id` của các file draft ADDED/MODIFIED trong
    push. REFUSE (fail-closed): >10 draft/push (turbo queue), ID trùng
    trong cùng push, thiếu `article_id`, ID không có trong matrix, ID đã

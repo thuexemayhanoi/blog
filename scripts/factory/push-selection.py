@@ -1,73 +1,49 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""push-selection.py — bộ chọn phạm vi push deterministic cho đường
-nóng publish của /blog (hợp đồng 6 workflow —
-docs/factory-workflow-contract.md; mô hình /vanchinh thích ứng cho
-/blog, script này là tooling chunk_size=2 dùng cho regression).
+"""push-selection.py — CANONICAL queue selector của đường nóng publish.
 
-Writer ngoài (Mistral) CHỈ commit/push file draft trong `_drafts/`;
-workflow lấy danh sách file ADDED/MODIFIED từ `git diff HEAD~1..HEAD`
-rồi gọi script này để suy ra EXACT các article ID cần claim/QA/publish —
-KHÔNG BAO GIỜ claim hàng PLANNED ngẫu nhiên, KHÔNG đụng bài PUBLISHED.
+Hợp đồng 6 workflow (docs/factory-workflow-contract.md): factory-publish.yml
+gọi script NÀY để chọn queue từ push — KHÔNG còn selector Python inline
+trùng lặp trong workflow YAML (một nguồn sự thật duy nhất, tránh drift
+giữa hai implementation).
 
-Input (danh sách path, mỗi dòng một path — như factory_push_selection.py
-của /vanchinh, tách khỏi git để test fixture được không cần git):
+Input (giống capture push scope của workflow — output của git diff,
+tách khỏi git để test fixture không cần git):
   --added <file>     path ADDED trong push    (git diff --diff-filter=A)
   --modified <file>  path MODIFIED trong push (git diff --diff-filter=M)
+  Mỗi dòng một path tương đối với gốc repo (ví dụ `_drafts/<file>.md`).
 
-Output: JSON trên stdout:
-  {
-    "proceed": bool,          # false => workflow không chạy op nào
-    "mode": "new"|"repair"|"backlog"|"paused"|"skip",
-    "claim_ids": [...],       # PLANNED -> WRITING (prepare-next --ids)
-    "qa_ids": [...],          # mục tiêu QA/publish tường minh
-    "refuse": null|"lý do",   # non-null => push vi phạm hợp đồng
-    "control_enabled": bool,  # data/factory/production-control.json
-    "chunk_size": int,
-    "planned_claimable": int, # số hàng PLANNED còn claim được
-    "refill_advised": bool,  # claimable PLANNED < chunk_size
-    "backlog_ids": [...],     # draft hợp lệ còn sót (không thuộc push)
-    "deferred_pushed_ids": [...]  # draft vừa push bị hoãn vì backlog
-  }
+Output:
+  - JSON deterministic trên stdout (kết quả selection cho test/log);
+  - nếu env GITHUB_OUTPUT tồn tại: append `queue=`, `mode=`, `pairs=`
+    (step outputs — mọi step sau của workflow đọc
+    `steps.select.outputs.queue != ''` để biết có queue hay không).
 
-Quy tắc chọn (fail-closed, matrix là nguồn sự thật):
-  NEW:     draft của hàng PLANNED (file vừa push) -> claim EXACT ID đó.
-  REPAIR:  draft của hàng WRITING/QA/REPAIR/PASS -> QA/publish EXACT ID,
-           KHÔNG claim hàng PLANNED mới.
-  BACKLOG: draft HỢP LỆ còn sót trong `_drafts/` cho hàng chưa xong
-           (PLANNED/WRITING/QA/REPAIR/PASS) mà KHÔNG thuộc push này —
-           dấu hiệu một pipeline trước đã chết trước claim/QA/publish
-           (mô hình /vanchinh). Chọn TỐI ĐA chunk_size ID theo thứ tự
-           deterministic; còn hàng dở REPAIRABLE thì chunk CHỈ chứa hàng
-           dở đó (engine resume-first: prepare-next TỪ CHỐI claim mới
-           khi còn việc dở — hàng PLANNED sót đợi lần chạy kế tiếp,
-           chuỗi tự lành); claim/QA CHỈ những
-           ID có draft thật, KHÔNG BAO GIỜ claim hàng PLANNED khác.
-           BACKLOG CÓ ƯU TIÊN hơn bài mới: draft vừa push (hợp lệ)
-           được hoãn (deferred_pushed_ids) và tự thành backlog ở lần
-           chạy kế tiếp — commit promote (draft biến mất khỏi
-           `_drafts/`) kích hoạt lại workflow, chuỗi tự lành, mỗi lần
-           TỐI ĐA chunk_size. Draft sót KHÔNG hợp lệ (sai tên, thiếu
-           article_id, ID lạ, hàng PUBLISHED/được bảo vệ) bị BỎ QUA —
-           KHÔNG BAO GIỜ chặn publish vì một draft sót lỗi.
-  PAUSED:  production-control enabled=false và lần chạy cần claim bài
-           mới -> workflow exit sạch TRƯỚC KHI claim (qa/publish việc
-           dở vẫn được phép theo hợp đồng engine).
-  SKIP:    không có draft nào trong push và không còn backlog (no-op).
+Semantics (port CHÍNH XÁC từ selector inline cũ của factory-publish.yml):
+  - queue 2..10 draft/push: TỐI ĐA 10 ID (MAX_QUEUE_PER_PUSH; lease limit
+    mỗi writer); KHÔNG có min — push 1 draft hợp lệ; queue LẺ được chia
+    pair (pair cuối 1 ID);
+  - EXACT article_id: regex `^article_id:\\s*(BLG-\\d+)` trong 2000 ký tự
+    đầu của draft; file KHÔNG phải `.md` bị bỏ qua; draft template (bài
+    nhập mẫu) bị bỏ qua;
+  - REFUSE (fail-closed, exit 3 — KHÔNG đổi gì):
+      draft thiếu article_id trong frontmatter /
+      ID trùng nhau trong cùng push /
+      > 10 draft một push /
+      ID không có trong matrix /
+      hàng PUBLISHED, EXISTING, BLOCKED (KHÔNG BAO GIỜ ghi đè bài đã
+      xuất bản);
+  - deterministic: queue sắp theo THỨ TỰ MATRIX (không theo tên file);
+  - mode: `new` (queue chứa hàng PLANNED cần claim) / `repair`
+    (KHÔNG claim lại từ đầu — repair rows skip claim);
+  - production-control enabled=false + lần chạy cần claim bài mới ->
+    exit 0 sạch TRƯỚC khi claim (queue rỗng; push repair-only vẫn hợp lệ);
+  - không draft trong push -> no-op exit 0;
+  - selector CHỈ ĐỌC: KHÔNG mutate matrix/checkpoint/production-control/
+    bất kỳ file nào của repo (chỉ ghi stdout hoặc $GITHUB_OUTPUT);
+  - KHÔNG AI, KHÔNG API, KHÔNG secrets.
 
-Từ chối (refuse, exit 3 — không đổi gì):
-  - draft thiếu/không đọc được frontmatter hoặc thiếu article_id hợp lệ
-  - article_id trùng nhau trong cùng push
-  - ID không có trong matrix
-  - hàng PUBLISHED/EXISTING bị push lại (KHÔNG BAO GIỜ ghi đè bài đã
-    xuất bản), hàng REVIEW/BLOCKED/FAIL được bảo vệ
-  - draft sai tên file YYYY-MM-DD-<slug>.md so với slug hàng matrix
-  - push chứa CẢ bài mới lẫn repair (engine yêu cầu hoàn tất việc dở
-    trước khi claim mới)
-  - quá chunk_size article ID trong một push (mặc định 2 theo
-    data/factory/production-control.json)
-
-Thoát: 0 = chọn xong (kể cả skip/paused), 3 = refuse (fail-closed).
+Thoát: 0 = chọn xong (kể cả no-op/paused), 3 = refuse (fail-closed).
 """
 import argparse
 import csv
@@ -80,36 +56,35 @@ ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)
 MATRIX = 'data/content-matrix.csv'
 CONTROL = 'data/factory/production-control.json'
 
-ID_RE = re.compile(r'^BLG-\d{5}$')
-DRAFT_RE = re.compile(r'^_drafts/[^/]+\.md$')
-DRAFT_NAMED_RE = re.compile(r'^_drafts/(\d{4}-\d{2}-\d{2})-(.+)\.md$')
-FRONT_ID_RE = re.compile(r'^article_id:\s*(\S+)\s*$', re.M)
-REPAIRABLE = ('WRITING', 'QA', 'REPAIR', 'PASS')
-PROTECTED = ('PUBLISHED', 'EXISTING', 'REVIEW', 'BLOCKED', 'FAIL')
+# Hợp đồng turbo queue: tối đa 10 draft/push; consume chia pair 2
+# (pair cuối của queue lẻ có 1 ID).
+MAX_QUEUE_PER_PUSH = 10
+PAIR_SIZE = 2
+
+FRONT_ID_RE = re.compile(r'^article_id:\s*(BLG-\d+)', re.M)
+# chuỗi GHÉP để file này không chứa slug template nguyên vẹn — draft-leak
+# gate grep slug này trên cây build (scripts/ bị Jekyll copy)
+TEMPLATE_SLUG = 'mau' + '-nhap' + '-bai' + '-moi'
+LOCKED_STATUSES = ('PUBLISHED', 'EXISTING', 'BLOCKED')
+
+
+class Refuse(Exception):
+    """Push vi phạm hợp đồng queue — fail-closed, KHÔNG đổi gì."""
 
 
 def load_control():
     try:
         with open(os.path.join(ROOT, CONTROL), encoding='utf-8') as f:
             c = json.load(f) or {}
-        return {'enabled': bool(c.get('enabled', True)),
-                'chunk_size': int(c.get('chunk_size', 2))}
+        return bool(c.get('enabled', True))
     except Exception:
-        return {'enabled': True, 'chunk_size': 2}
+        return True
 
 
 def load_matrix():
     with open(os.path.join(ROOT, MATRIX), encoding='utf-8', newline='') as f:
         rows = list(csv.DictReader(f))
     return {r['id']: r for r in rows}, rows
-
-
-def row_slug(row):
-    op = row['output_path']
-    if op.startswith('_posts/{date}-'):
-        return op[len('_posts/{date}-'):-3]
-    m = re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+)\.md$', op)
-    return m.group(1) if m else None
 
 
 def read_paths(path):
@@ -119,193 +94,90 @@ def read_paths(path):
         return [ln.strip() for ln in f.read().splitlines() if ln.strip()]
 
 
-def draft_article_id(draft_path):
-    """Đọc article_id từ frontmatter draft (đường dẫn tương đối ROOT)."""
-    fp = os.path.join(ROOT, draft_path)
-    if not os.path.isfile(fp):
-        return None
-    with open(fp, encoding='utf-8') as f:
-        text = f.read()
-    fm = re.match(r'^---\n(.*?)\n---', text, re.S)
-    if not fm:
-        return None
-    m = FRONT_ID_RE.search(fm.group(1))
-    return m.group(1) if m else None
-
-
-def detect_backlog(by_id, exclude_paths):
-    """BACKLOG (mô hình /vanchinh): draft HỢP LỆ còn sót trong `_drafts/`
-    cho hàng chưa xong mà KHÔNG thuộc push này — pipeline trước chết
-    trước claim/QA/publish. Trả về danh sách article_id deterministic:
-    hàng đang dở (REPAIRABLE) trước, hàng PLANNED sau, trong mỗi nhóm
-    theo article_id. Draft không hợp lệ bị BỎ QUA (không chọn, cũng
-    KHÔNG chặn) — một draft sót lỗi KHÔNG BAO GIỜ làm hỏng publish."""
-    stranded = []
-    drafts_dir = os.path.join(ROOT, '_drafts')
-    if not os.path.isdir(drafts_dir):
-        return stranded
-    for fn in sorted(os.listdir(drafts_dir)):
-        rel = '_drafts/%s' % fn
-        if rel in exclude_paths:
+def ids_from(paths):
+    """EXACT article_id từ các path draft (port nguyên vẹn inline cũ):
+    chỉ file `.md`; template bị bỏ qua; thiếu article_id -> REFUSE ngay
+    (fail-closed, KHÔNG âm thầm bỏ qua draft thật)."""
+    out = []
+    for f in paths:
+        if not f.endswith('.md'):
             continue
-        aid = draft_article_id(rel)
-        if not aid or not ID_RE.match(aid):
-            continue  # mẫu nháp / không phải draft factory
-        row = by_id.get(aid)
-        if row is None:
-            continue  # ID lạ — bỏ qua, không claim
-        if row['status'] in PROTECTED:
-            continue  # PUBLISHED/được bảo vệ — KHÔNG BAO GIỜ ghi đè
-        slug = row_slug(row)
-        m = DRAFT_NAMED_RE.match(rel)
-        if not m or not slug or m.group(2) != slug:
-            continue  # draft sót sai tên — không chọn được
-        if row['status'] == 'PLANNED':
-            stranded.append((1, aid))
-        else:  # WRITING/QA/REPAIR/PASS — việc dở có ưu tiên cao nhất
-            stranded.append((0, aid))
-    stranded.sort()
-    return [aid for _k, aid in stranded]
+        if TEMPLATE_SLUG in f:
+            continue  # template bai nhap mau, khong phai bai that
+        try:
+            with open(f, encoding='utf-8') as fh:
+                head = fh.read()[:2000]
+        except OSError as e:
+            # fail-closed: draft không đọc được -> REFUSE sạch (KHÔNG
+            # âm thầm bỏ qua; inline cũ crash traceback, vẫn fail-closed)
+            raise Refuse('draft %s khong doc duoc trong HEAD (%s)'
+                         % (f, e.__class__.__name__))
+        m = FRONT_ID_RE.search(head)
+        if not m:
+            raise Refuse('draft %s thieu article_id trong frontmatter' % f)
+        out.append(m.group(1))
+    return out
 
 
 def select(added, modified):
-    control = load_control()
+    """Chọn queue từ push; chỉ ĐỌC repository state, trả dict
+    deterministic (không side-effect)."""
+    control_enabled = load_control()
     by_id, rows = load_matrix()
+    order = {r['id']: i for i, r in enumerate(rows)}
     out = {
-        'proceed': False, 'mode': 'skip', 'claim_ids': [], 'qa_ids': [],
-        'refuse': None, 'control_enabled': control['enabled'],
-        'chunk_size': control['chunk_size'],
-        'planned_claimable': sum(1 for r in rows if r['status'] == 'PLANNED'),
-        'refill_advised': False,
-        'backlog_ids': [], 'deferred_pushed_ids': [],
+        'proceed': False, 'mode': 'skip', 'queue': [], 'claim_ids': [],
+        'qa_ids': [], 'pairs': 0, 'refuse': None,
+        'control_enabled': control_enabled,
     }
-    out['refill_advised'] = out['planned_claimable'] < control['chunk_size']
 
-    def refuse(reason):
-        out['refuse'] = reason
+    try:
+        queue = ids_from(added) + ids_from(modified)
+    except Refuse as e:
+        out['refuse'] = str(e)
         return out
 
-    touched = [(p, 'added') for p in added] + [(p, 'modified') for p in modified]
-
-    # chỉ quan tâm file trong _drafts/; phần khác của push là no-op
-    drafts = [(p, kind) for p, kind in touched if p.startswith('_drafts/')]
-    pushed_paths = set(p for p, _k in drafts)
-    backlog_ids = detect_backlog(by_id, pushed_paths)
-    out['backlog_ids'] = list(backlog_ids)
-
-    def take_backlog():
-        """BACKLOG CÓ ƯU TIÊN: claim/QA TỐI ĐA chunk_size draft sót hợp
-        lệ; phần còn lại đợi lần chạy sau (commit promote kích hoạt lại
-        workflow — chuỗi tự lành). KHÔNG claim hàng PLANNED không có
-        draft. Engine resume-first (factory-operator.py prepare-next TỪ
-        CHỐI claim mới khi còn hàng WRITING/QA/REPAIR/PASS chưa xong):
-        còn backlog REPAIRABLE thì chunk CHỈ chứa hàng dở đó; hàng
-        PLANNED sót đợi lần chạy kế tiếp (commit promote re-trigger)."""
-        out['mode'] = 'backlog'
-        by_status = {aid: by_id[aid]['status'] for aid in backlog_ids}
-        repairable = [i for i in backlog_ids if by_status[i] in REPAIRABLE]
-        if repairable:
-            chosen = repairable[:control['chunk_size']]
-        else:
-            chosen = backlog_ids[:control['chunk_size']]
-        if not control['enabled']:
-            # enabled=false: KHÔNG claim hàng PLANNED (dừng sạch trước
-            # claim); QA/publish việc dở REPAIRABLE vẫn hợp lệ
-            chosen = [i for i in chosen if by_status[i] in REPAIRABLE]
-            if not chosen:
-                out['mode'] = 'paused'
-                return out
-        out['claim_ids'] = [i for i in chosen if by_status[i] == 'PLANNED']
-        out['qa_ids'] = list(chosen)
-        out['proceed'] = True
+    if not queue:
+        # no-op sạch: không draft trong push — KHÔNG đụng matrix
         return out
 
-    if not drafts:
-        if backlog_ids:
-            return take_backlog()
+    if len(set(queue)) != len(queue):
+        out['refuse'] = 'id trung nhau trong cung mot push'
+        return out
+    if len(queue) > MAX_QUEUE_PER_PUSH:
+        out['refuse'] = ('%d draft > toi da 10 moi push (turbo queue)'
+                         % len(queue))
+        return out
+    unknown = [i for i in queue if i not in by_id]
+    if unknown:
+        out['refuse'] = 'id khong co trong matrix: %s' % ','.join(unknown)
+        return out
+    locked = [i for i in queue
+              if by_id[i]['status'] in LOCKED_STATUSES]
+    if locked:
+        out['refuse'] = ('id da xong/khoa, khong duoc sua lai: %s'
+                         % ','.join(locked))
         return out
 
-    seen_paths = set()
-    ids = {}  # article_id -> (path, kind)
-    for p, kind in drafts:
-        if p in seen_paths:
-            continue  # cùng file xuất hiện ở cả hai danh sách
-        seen_paths.add(p)
-        if not DRAFT_RE.match(p):
-            return refuse('draft phải nằm ngay dưới _drafts/ (<date>-<slug>.md), '
-                          'không trong thư mục con: %s' % p)
-        if not os.path.isfile(os.path.join(ROOT, p)):
-            return refuse('file push không tồn tại trong HEAD: %s' % p)
-        aid = draft_article_id(p)
-        if not aid or not ID_RE.match(aid):
-            return refuse('draft thiếu article_id hợp lệ (BLG-xxxxx) trong '
-                          'frontmatter: %s' % p)
-        if aid in ids:
-            return refuse('article_id trùng trong cùng push: %s (%s, %s)'
-                          % (aid, ids[aid][0], p))
-        ids[aid] = (p, kind)
+    # deterministic matrix order (KHÔNG theo tên file, KHÔNG theo thứ tự push)
+    queue = sorted(queue, key=lambda i: order[i])
 
-    new_ids, repair_ids = [], []
-    for aid in sorted(ids):
-        p, _kind = ids[aid]
-        row = by_id.get(aid)
-        if row is None:
-            return refuse('%s không có trong matrix — không claim ID lạ' % aid)
-        if row['status'] in ('PUBLISHED', 'EXISTING'):
-            return refuse('%s đã %s — KHÔNG BAO GIỜ ghi đè bài đã xuất bản'
-                          % (aid, row['status']))
-        if row['status'] in ('REVIEW', 'BLOCKED', 'FAIL'):
-            return refuse('%s trạng thái %s được bảo vệ — không claim/QA'
-                          % (aid, row['status']))
-        slug = row_slug(row)
-        m = DRAFT_NAMED_RE.match(p)
-        if not m or not slug or m.group(2) != slug:
-            return refuse('tên draft (%s) không khớp hàng matrix %s '
-                          '(cần _drafts/<YYYY-MM-DD>-%s.md)'
-                          % (p, aid, slug))
-        if row['status'] == 'PLANNED':
-            new_ids.append(aid)
-        elif row['status'] in REPAIRABLE:
-            repair_ids.append(aid)
-        else:
-            return refuse('%s trạng thái %s không thể xử lý qua push'
-                          % (aid, row['status']))
-
-    if new_ids and repair_ids:
-        return refuse('push chứa cả bài mới (%s) lẫn repair (%s) — hoàn tất '
-                      'việc dở (qa/publish repair) trước khi claim bài mới'
-                      % (','.join(new_ids), ','.join(repair_ids)))
-    total = len(new_ids) + len(repair_ids)
-    if total > control['chunk_size']:
-        return refuse('push chứa %d article ID > chunk_size %d — tối đa '
-                      '%d bài mỗi push, tách push deterministic'
-                      % (total, control['chunk_size'], control['chunk_size']))
-
-    if new_ids:
-        if not control['enabled']:
-            # enabled=false: DỪNG SẠCH trước khi claim — không refuse
-            # (đường nóng exit 0, không claim, không QA/publish lần này;
-            # backlog nếu có được báo cáo để xử lý khi bật lại).
-            out['mode'] = 'paused'
-            return out
-        if backlog_ids:
-            # BACKLOG CÓ ƯU TIÊN hơn bài mới (repair trước việc mới):
-            # draft vừa push (hợp lệ) KHÔNG mất — được hoãn và tự thành
-            # backlog ở lần chạy kế tiếp; commit promote của chính lần
-            # này kích hoạt lại workflow (chuỗi tự lành).
-            out['deferred_pushed_ids'] = list(new_ids)
-            return take_backlog()
-        out['mode'] = 'new'
-        out['claim_ids'] = new_ids
-        out['qa_ids'] = list(new_ids)
-        out['proceed'] = True
+    needs_claim = any(by_id[i]['status'] == 'PLANNED' for i in queue)
+    if not control_enabled and needs_claim:
+        # production-control paused: KHÔNG claim bài mới — exit sạch
+        # TRƯỚC mọi mutation; repair-only vẫn được phép ở lần chạy khác
+        out['mode'] = 'paused'
         return out
-    if repair_ids:
-        out['mode'] = 'repair'
-        out['qa_ids'] = repair_ids
-        # qa/publish việc đang dở vẫn hợp lệ khi production-control tắt
-        out['proceed'] = True
-        return out
+
+    mode = 'new' if needs_claim else 'repair'
+    out['mode'] = mode
+    out['queue'] = queue
+    # claim CHỈ hàng PLANNED; repair rows skip claim (KHÔNG claim lại
+    # từ đầu) — consume của workflow chia pair và claim đúng subset này
+    out['claim_ids'] = [i for i in queue if by_id[i]['status'] == 'PLANNED']
+    out['qa_ids'] = list(queue)
+    out['pairs'] = (len(queue) + 1) // 2
+    out['proceed'] = True
     return out
 
 
@@ -322,6 +194,22 @@ def main():
     if out['refuse']:
         print('REFUSED: %s' % out['refuse'], file=sys.stderr)
         return 3
+    if out['mode'] == 'skip':
+        print('selection: khong co draft trong push — no-op')
+    elif out['mode'] == 'paused':
+        print('selection: production-control paused — khong claim bai '
+              'moi; exit sach')
+    else:
+        print('selection: mode=%s queue=%s pairs=%d'
+              % (out['mode'], out['queue'], out['pairs']))
+    # workflow (Actions) đọc step outputs từ $GITHUB_OUTPUT; local/test
+    # KHÔNG có biến này — stdout JSON ở trên là kết quả đầy đủ
+    gout = os.environ.get('GITHUB_OUTPUT')
+    if gout:
+        with open(gout, 'a', encoding='utf-8') as f:
+            f.write('queue=%s\n' % ','.join(out['queue']))
+            f.write('mode=%s\n' % out['mode'])
+            f.write('pairs=%s\n' % out['pairs'])
     return 0
 
 

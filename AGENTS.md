@@ -10,7 +10,8 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   build + link integrity + draft leak + sitemap/hub sanity. READ-ONLY.
 - `factory-publish.yml` — production publisher DUY NHẤT, PUSH-DRIVEN:
   writer push draft `_drafts/` (turbo queue 2..10 ID/push) → workflow
-  selection EXACT ID theo `article_id` (REFUSE ID trùng, ID lạ, hàng
+  selection EXACT ID qua CANONICAL scripts/factory/push-selection.py
+  (REFUSE ID trùng, ID lạ, hàng
   PUBLISHED/EXISTING/BLOCKED, >10) → chia pair 2 theo thứ tự matrix →
   consume tuần tự claim (chỉ hàng PLANNED)/QA/publish từng pair.
   Pair FAIL content = recoverable (REPAIR), KHÔNG rollback pair đã

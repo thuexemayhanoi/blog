@@ -34,9 +34,9 @@ name: Factory Publish (chunked)
 #   cam-nang/ -> _drafts/ (promoted to _posts by publish-gate.py)
 #   scripts/factory_queue.py -> scripts/factory/factory-operator.py
 #     (prepare-next --ids / qa --ids --scope fast / publish --ids)
-#   scripts/factory_push_selection.py -> inline selection below (same
-#     refuse semantics; blog scripts/factory/push-selection.py caps at
-#     chunk_size=2 and cannot consume a 2..10 turbo queue)
+#   scripts/factory_push_selection.py -> scripts/factory/push-selection.py
+#     (CANONICAL queue selector — cùng refuse semantics, queue 2..10;
+#     workflow chỉ orchestration, KHÔNG giữ bản selection trùng lặp)
 #   data/batches/lock.json -> data/state/writer-lock.active
 #   data/batches/txn/txn.json -> data/state/transaction.json (active flag)
 #   validate_content_matrix.py + check_matrix_sync.py ->
@@ -97,60 +97,12 @@ jobs:
           set -e
           cp /tmp/added.push.txt /tmp/added.txt
           cp /tmp/modified.push.txt /tmp/modified.txt
-          python3 - <<'EOF'
-          import csv, json, os, re
-
-          def ids_from(path):
-              out = []
-              for line in open(path, encoding='utf-8'):
-                  f = line.strip()
-                  if not f or not f.endswith('.md'):
-                      continue
-                  tpl = 'mau' + '-nhap' + '-bai' + '-moi'
-                  if tpl in f:
-                      continue  # template bai nhap mau, khong phai bai that
-                  head = open(f, encoding='utf-8').read()[:2000]
-                  m = re.search(r'^article_id:\s*(BLG-\d+)', head, re.M)
-                  if not m:
-                      raise SystemExit('REFUSED: draft %s thieu article_id trong frontmatter' % f)
-                  out.append(m.group(1))
-              return out
-
-          queue = ids_from('/tmp/added.txt') + ids_from('/tmp/modified.txt')
-          gout = os.environ['GITHUB_OUTPUT']
-          if not queue:
-              with open(gout, 'a') as f:
-                  f.write('queue=\n')
-              print('selection: khong co draft trong push — no-op')
-              raise SystemExit(0)
-          rows = list(csv.DictReader(open('data/content-matrix.csv', encoding='utf-8')))
-          by_id = {r['id']: r for r in rows}
-          order = {r['id']: i for i, r in enumerate(rows)}
-          if len(set(queue)) != len(queue):
-              raise SystemExit('REFUSED: id trung nhau trong cung mot push')
-          if len(queue) > 10:
-              raise SystemExit('REFUSED: %d draft > toi da 10 moi push (turbo queue)' % len(queue))
-          unknown = [i for i in queue if i not in by_id]
-          if unknown:
-              raise SystemExit('REFUSED: id khong co trong matrix: %s' % ','.join(unknown))
-          locked = [i for i in queue if by_id[i]['status'] in ('PUBLISHED', 'EXISTING', 'BLOCKED')]
-          if locked:
-              raise SystemExit('REFUSED: id da xong/khoa, khong duoc sua lai: %s' % ','.join(locked))
-          queue = sorted(queue, key=lambda i: order[i])
-          control = json.load(open('data/factory/production-control.json', encoding='utf-8'))
-          needs_claim = any(by_id[i]['status'] == 'PLANNED' for i in queue)
-          if not control.get('enabled', True) and needs_claim:
-              with open(gout, 'a') as f:
-                  f.write('queue=\n')
-              print('selection: production-control paused — khong claim bai moi; exit sach')
-              raise SystemExit(0)
-          mode = 'new' if needs_claim else 'repair'
-          with open(gout, 'a') as f:
-              f.write('queue=%s\n' % ','.join(queue))
-              f.write('mode=%s\n' % mode)
-              f.write('pairs=%d\n' % ((len(queue) + 1) // 2))
-          print('selection: mode=%s queue=%s pairs=%d' % (mode, queue, (len(queue) + 1) // 2))
-          EOF
+          # CANONICAL selector: scripts/factory/push-selection.py
+          # (queue 2..10, EXACT article_id, refuse fail-closed exit 3,
+          # KHÔNG mutate state; ghi queue/mode/pairs vao $GITHUB_OUTPUT)
+          python3 scripts/factory/push-selection.py \
+            --added /tmp/added.txt \
+            --modified /tmp/modified.txt
 
       - name: Guard no pending transaction and no lock (fail-closed)
         if: steps.select.outputs.queue != ''

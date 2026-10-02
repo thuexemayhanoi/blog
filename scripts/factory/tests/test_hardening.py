@@ -725,12 +725,12 @@ class StaticContract(unittest.TestCase):
 
     def test_s7_publish_hotpath(self):
         """factory-publish.yml — production publisher DUY NHẤT (mô hình
-        /vanchinh turbo queue): push main theo paths _drafts/**, chọn
-        EXACT ID từ article_id frontmatter (queue tối đa 10 draft/push,
-        chia pair 2), claim chỉ hàng PLANNED, qa/publish --ids --scope
-        fast ngưỡng 75/70, resume-first, một pair lỗi KHÔNG rollback
-        pair đã publish, bounded retry non-FF, KHÔNG bao giờ force
-        push."""
+        /vanchinh turbo queue): push main theo paths _drafts/**, gọi
+        CANONICAL selector scripts/factory/push-selection.py (queue tối
+        đa 10 draft/push, chia pair 2), claim chỉ hàng PLANNED, qa/publish
+        --ids --scope fast ngưỡng 75/70, resume-first, một pair lỗi
+        KHÔNG rollback pair đã publish, bounded retry non-FF, KHÔNG bao
+        giờ force push."""
         y = wf_text('factory-publish.yml')
         # trigger: push main paths _drafts/** — KHÔNG PR, KHÔNG cron
         self.assertIn('push:', y)
@@ -745,26 +745,44 @@ class StaticContract(unittest.TestCase):
         self.assertIn('cancel-in-progress: false', y)
         self.assertIn('contents: write', y)
         self.assertIn("PYTHONDONTWRITEBYTECODE: '1'", y)
+        # CANONICAL selector: workflow gọi push-selection.py; KHÔNG còn
+        # selector Python inline trùng lặp trong YAML (một nguồn sự thật)
+        self.assertIn('scripts/factory/push-selection.py', y)
+        for line in code_lines(y):
+            for stale in ('article_id', 'trung nhau trong cung mot push',
+                          'toi da 10', 'khong co trong matrix',
+                          'da xong/khoa', 'production-control paused',
+                          'sorted(queue'):
+                self.assertNotIn(
+                    stale, line,
+                    'selector inline TRÙNG LẶP trong YAML (business rule '
+                    'phải sống trong push-selection.py): %s' % line)
+        with open(os.path.join(ROOT, 'scripts/factory/push-selection.py'),
+                  encoding='utf-8') as f:
+            sel = f.read()
         # queue 2..10: chọn EXACT ID từ article_id, REFUSE fail-closed
-        self.assertIn('article_id', y)
-        self.assertIn('toi da 10', y)
-        self.assertIn('len(queue) > 10', y)
-        self.assertIn('id trung nhau trong cung mot push', y)
-        self.assertIn('id khong co trong matrix', y)
-        self.assertIn("'PUBLISHED', 'EXISTING', 'BLOCKED'", y)
+        self.assertIn('MAX_QUEUE_PER_PUSH = 10', sel)
+        self.assertIn('len(queue) > MAX_QUEUE_PER_PUSH', sel)
+        self.assertIn('article_id', sel)
+        self.assertIn('id trung nhau trong cung mot push', sel)
+        self.assertIn('id khong co trong matrix', sel)
+        self.assertIn("'PUBLISHED', 'EXISTING', 'BLOCKED'", sel)
         # template bài nhập mẫu bị loại khỏi selection (chuỗi GHÉP để
         # file test không chứa slug template nguyên vẹn — draft-leak
         # gate grep slug này trên cây build)
-        self.assertIn("'mau' + '-nhap'", y)
+        self.assertIn("'mau' + '-nhap'", sel)
         # queue sắp theo thứ tự matrix (deterministic)
-        self.assertIn('sorted(queue, key=lambda i: order[i])', y)
+        self.assertIn('sorted(queue, key=lambda i: order[i])', sel)
         # production-control enabled=false: exit sạch TRƯỚC claim
-        self.assertIn('production-control paused', y)
+        self.assertIn('production-control paused', sel)
         # mode: new (cần claim) / repair (KHÔNG claim lại từ đầu)
-        self.assertIn("mode = 'new' if needs_claim else 'repair'", y)
-        # pair size = 2: chia pair deterministic, consume tuần tự
+        self.assertIn("mode = 'new' if needs_claim else 'repair'", sel)
+        self.assertIn("'PLANNED'", sel)
+        # pair size = 2: pair count deterministic của canonical selector
+        self.assertIn('PAIR_SIZE = 2', sel)
+        self.assertIn('(len(queue) + 1) // 2', sel)
+        # consume của workflow chia pair 2, tuần tự
         self.assertIn('queue[i:i + 2]', y)
-        self.assertIn('(len(queue) + 1) // 2', y)
         # claim CHỈ hàng PLANNED; qa/publish --ids fast
         self.assertIn("planned = [i for i in pair if st[i] == 'PLANNED']",
                       y)
