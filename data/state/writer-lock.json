@@ -1,11 +1,8 @@
 {
   "locked": false,
   "holder": null,
-  "action": null,
   "acquired_at": null,
   "expires_at": null,
-  "updated_at": "2026-10-03T02:35:45+00:00",
-  "start_head": null,
-  "pid": null,
-  "note": "Lock phai duoc giu trong suot mot chunk va nha khi checkpoint an toan. Khong bao gio chay hai writer song song."
+  "updated_at": "2026-10-03T08:10:44+00:00",
+  "note": "Lock phải được giữ trong suốt một chunk và nhả khi checkpoint an toàn. Không bao giờ chạy hai writer song song."
 }
