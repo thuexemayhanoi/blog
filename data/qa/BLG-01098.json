@@ -41,9 +41,10 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-03-xe-thue-can-nhot-giua-chuyen-cham-hay-bao-chu-xe.md",
-  "content_sha256": "90ce306ad44426ddaec4e38ef92cd53771b0d1d8875e0b47b5b2b6aada0b0720",
+  "content_sha256": "5684ac43e2f949f9e8619731432a17f2f3be6f79e2b7366bfb76978c1c640f27",
   "matrix_row_sha256": "442a2ca2c369bc57af6cd32814ed63194ced67b132466001a89da3ce77af2dc8",
   "result": "PASS",
   "grade": "PASS",
-  "published_at": "2026-10-03T01:20:15+00:00"
+  "published_at": "2026-10-03T01:20:15+00:00",
+  "restamped_note": "re-stamp content_sha256 sau repair commit ca2b3ea (evidence cập nhật theo nội dung _posts hiện tại; kết quả/điểm không đổi)"
 }

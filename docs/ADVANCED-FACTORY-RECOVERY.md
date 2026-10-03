@@ -37,11 +37,12 @@ docs/RECOVERY.md. Vận hành module: docs/ENGINE-RUNBOOK.md.
 
 ## 4. Bảo vệ xuất bản (publish-gate.py — cổng duy nhất vào _posts/)
 
-Hàng phải PASS; quality >= 75, seo >= 70 (90+ = EXCELLENT, 75-89 = PASS +
-cảnh báo QA defer polish cho weekly); business_fact PASS; legal
-PASS|NOT_REQUIRED; không critical failure; không trùng ID/slug/canonical;
-bài đã PUBLISHED không bao giờ bị ghi đè. Gate tự giữ lock, mở
-transaction, promote, append history, nhả lock.
+Hàng phải PASS; quality >= 75, seo >= 70 (90+ cả hai chỉ ghi nhãn
+EXCELLENT — 75-89 là PASS hợp lệ, không cảnh báo band); business_fact
+PASS; legal PASS|NOT_REQUIRED; không critical failure; không trùng
+ID/slug/canonical/intent gần trùng; bài đã PUBLISHED không bao giờ bị
+ghi đè. Gate tự giữ lock, mở transaction, promote, append history, nhả
+lock.
 
 ## 5. Hợp đồng kiểm tra 4 tầng
 

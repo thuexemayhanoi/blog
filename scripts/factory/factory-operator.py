@@ -59,6 +59,7 @@ Thoát: 0 = thành công; 1 = từ chối an toàn (không mutate); 2 = lỗi d�
 import argparse
 import csv
 import datetime
+import difflib
 import glob
 import hashlib
 import importlib.util
@@ -87,6 +88,11 @@ DEFAULT_CHUNK = 2
 REPAIR_BUDGET = 3
 QUALITY_MIN = 75
 SEO_MIN = 70
+# Ngưỡng near-duplicate intent (norm_title + SequenceMatcher): chỉ
+# bắn khi hai intent gần trùng nguyên câu (>= 0.97). Corpus long-tail
+# hợp lệ có các cặp 0.90-0.963 (nhóm giá thuê theo ngày/tuần/tháng);
+# floor thấp hơn sẽ cầm nhầm bài thật là trùng.
+INTENT_NEAR_FLOOR = 0.97
 
 # QA modes (docs/PROC-PUBLISH.md): fast = validate scope chunk (mặc định cho
 # sản xuất 10 bài), deep = scope batch, full = scope full. KHÔNG hạ ngưỡng.
@@ -619,6 +625,42 @@ def qa_check_one(row, rows, biz, tax):
     checks['cannibalization'] = not clash
     ev['cannibalization_clash'] = clash
 
+    # ---- hard gates chống trùng (REPAIR ngay, không phụ thuộc điểm)
+    # So với MỌI hàng active — không chỉ PUBLISHED/REVIEW cùng child
+    # như cannibalization ở trên: trùng title, trùng slug/canonical/
+    # expected_url/output_path, intent gần trùng nguyên câu.
+    ACTIVE_ROWS = ('PUBLISHED', 'EXISTING', 'REVIEW', 'PLANNED',
+                   'WRITING', 'QA', 'PASS')
+    others = [r for r in rows
+              if r['id'] != aid and r['status'] in ACTIVE_ROWS]
+    # .get(): hàng synthetic của unit test có thể thiếu cột mở rộng.
+    my_urls = set(u for u in (row.get('canonical_url', '').replace(
+                                  '{date}', date_url),
+                              row.get('expected_url', ''),
+                              row.get('slug', ''),
+                              row.get('output_path', '')) if u)
+    dup_title = [r['id'] for r in others
+                 if norm_title(r.get('title', '')) == norm]
+    dup_slug = [r['id'] for r in others
+                if any(u and u in my_urls for u in
+                       (r.get('canonical_url', '').replace('{date}',
+                                                            date_url),
+                        r.get('expected_url', ''), r.get('slug', ''),
+                        r.get('output_path', '')))]
+    my_intent = norm_title(row.get('intent', ''))
+    intent_near = [r['id'] for r in others
+                   if my_intent and r.get('intent')
+                   and difflib.SequenceMatcher(
+                       None, my_intent,
+                       norm_title(r['intent'])).ratio()
+                   >= INTENT_NEAR_FLOOR]
+    checks['duplicate_title'] = not dup_title
+    checks['duplicate_slug'] = not dup_slug
+    checks['intent_unique'] = not intent_near
+    ev['duplicate_title_clash'] = dup_title
+    ev['duplicate_slug_clash'] = dup_slug
+    ev['intent_unique_clash'] = intent_near
+
     # ---- quality proxies
     opening = ' '.join(body.split()[:60])
     checks['intent_opening'] = (row['primary_keyword'].lower() in opening.lower()
@@ -656,7 +698,9 @@ def qa_check_one(row, rows, biz, tax):
 
     critical = not (checks['business_amounts'] and checks['forbidden_claims']
                     and checks['phone_ok'] and checks['no_placeholder']
-                    and checks['links_routes_valid'])
+                    and checks['links_routes_valid']
+                    and checks['duplicate_title'] and checks['duplicate_slug']
+                    and checks['intent_unique'])
 
     # ---- điểm theo trọng số QUALITY-RUBRIC.md
     q_crit = [('intent_opening', 25), ('hanoi_example', 25),
@@ -688,9 +732,9 @@ def qa_check_one(row, rows, biz, tax):
                               and business_fact == 'PASS'
                               and legal in ('PASS', 'NOT_REQUIRED')
                               and not critical) else 'REPAIR'
-    # Phân loại mức sản xuất (docs/QUALITY-RUBRIC.md): ngưỡng xuất bản
-    # 75/70; 90+ là EXCELLENT; 75-89 là PASS (cảnh báo QA — các vấn đề
-    # polish không nghiêm trọng defer cho factory-publish-verify).
+    # Phân loại mức sản xuất (docs/QUALITY-RUBRIC.md): 75/70 — đạt là
+    # PUBLISH thẳng, KHÔNG ép 90/100; 90+ cả hai chỉ ghi nhãn EXCELLENT,
+    # không bắt tối ưu thêm (bài >= 75/70 không sửa chỉ để tăng điểm).
     if ev['result'] == 'PASS':
         ev['grade'] = ('EXCELLENT' if (quality >= 90 and seo >= 90)
                        else 'PASS')
@@ -740,10 +784,8 @@ def op_qa(args, biz, tax):
                 row['status'] = 'PASS'
                 outcomes[aid] = 'PASS'
                 print('qa %s: PASS quality=%d seo=%d' % (aid, ev['quality'], ev['seo']))
-                if ev.get('grade') != 'EXCELLENT':
-                    print('qa %s: [QA WARNING: 75-89 — vấn đề polish không '
-                          'nghiêm trọng defer cho factory-publish-verify]'
-                          % aid)
+                if ev.get('grade') == 'EXCELLENT':
+                    print('qa %s: EXCELLENT (nhãn, không bắt tối ưu thêm)' % aid)
             else:
                 repair_n = int(row['repair_count'] or 0)
                 row['status'] = 'REPAIR'

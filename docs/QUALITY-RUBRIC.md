@@ -12,9 +12,9 @@
 | Chính xác thực tế, không bịa số | 20 | Mọi con số truy về `data/business-facts.json` hoặc nguồn chính thức |
 | Cấu trúc H2/H3, danh sách khi hữu ích, một H1 | 10 | Kiểm tra render |
 
-Tổng < 75 → REPAIR, giữ `_drafts/`. 75–89 → được xuất bản, tối ưu vào đợt audit tuần. 90–100 → chất lượng mạnh. Critical failure (bịa dữ liệu kinh doanh, nhận định pháp lý sai nguồn, đạo văn/copy) → FAIL ngay bất kể điểm.
+Tổng < 75 → REPAIR, giữ `_drafts/`. 75–100 → PUBLISH ngay, KHÔNG ép 90/100. 90–100 → chỉ ghi nhãn EXCELLENT (không bắt tối ưu thêm). Critical failure (bịa dữ liệu kinh doanh, nhận định pháp lý sai nguồn, đạo văn/copy) → FAIL ngay bất kể điểm.
 
-## SEO (≥ 75/100)
+## SEO (≥ 70/100)
 
 | Tiêu chí | Trọng số | Bằng chứng |
 |---|---|---|
@@ -32,6 +32,20 @@ Tổng < 75 → REPAIR, giữ `_drafts/`. 75–89 → được xuất bản, t�
 
 ## Xử lý lỗi
 
-- QUALITY 85–89: sửa theo tiêu chí mất điểm, chấm lại (không cộng điểm bù).
-- SEO < 75: tối ưu an toàn (title/meta/link), không đổi ý tiêu đề.
+- Bài đã đạt 75/70 KHÔNG sửa chỉ để tăng điểm.
+- SEO < 70: tối ưu an toàn (title/meta/link), không đổi ý tiêu đề.
 - Không hạ trọng số, không bỏ tiêu chí để PASS. Không dùng kết quả "skipped" của validator cũ làm bằng chứng.
+
+## HARD GATES (REPAIR ngay, không phụ thuộc điểm)
+
+Bất kể điểm QUALITY/SEO, một bài QA dính các lỗi dưới đây là REPAIR ngay:
+
+1. Bài rỗng/cụt nghiêm trọng, placeholder/rác (`no_placeholder`).
+2. Trùng article ID, trùng title chuẩn hóa với hàng active khác (`duplicate_title`).
+3. Trùng slug/canonical/expected_url/output_path với hàng active khác (`duplicate_slug`).
+4. Intent gần trùng nguyên câu với hàng active khác (`intent_unique`, ngưỡng SequenceMatcher 0.97 — corpus long-tail hợp lệ có cặp 0.90–0.963 nên floor thấp hơn sẽ cầm nhầm bài thật).
+5. Frontmatter/HTML hỏng khiến trang không render (cấu trúc draft, permalink/canonical).
+6. Sai giá/số liệu/SDT/policy kinh doanh đã xác minh, claim cấm (`business_fact`).
+7. Internal link trỏ route không tồn tại làm hỏng build/deploy (`links_routes_valid`).
+
+Mọi lỗi SEO nhẹ khác KHÔNG chặn publish trong production loop; full-site audit chỉ chạy theo chế độ DEEP/FULL thủ công, không quét lại bài đã PUBLISHED trong chu kỳ sản xuất.

@@ -577,6 +577,68 @@ class TestManualProductionFlow(FxTestCase):
         self.assertEqual(next(x['status'] for x in rows if x['id'] == row['id']),
                          'REPAIR')
 
+    def test_fast_qa_hard_gates_duplicate_blocks_publish(self):
+        # Hard gate chống trùng: một hàng active khác trùng title/slug/
+        # canonical/intent với bài đang QA -> REPAIR ngay bất kể điểm,
+        # kể cả khi quality/SEO đủ 75/70. Gọi qa_check_one trực tiếp với
+        # rows in-memory (KHÔNG qua generate-matrix tái sinh từ seed —
+        # đột biến trùng là có chủ đích của fixture, không được cho
+        # nguồn sinh matrix xóa).
+        self.ensure_writing_chunk()
+        row = first_writing(self.fx)
+        make_draft(self.fx, row)
+        rows = matrix_rows(self.fx)
+        other = next(r for r in rows
+                     if r['id'] != row['id']
+                     and r['status'] in ('PUBLISHED', 'PLANNED'))
+        for k in ('title', 'intent', 'canonical_url', 'expected_url',
+                  'slug', 'output_path'):
+            other[k] = row[k]
+        op = op_mod()
+        old_cwd = os.getcwd()
+        os.chdir(self.fx)
+        try:
+            biz = json.load(open('data/business-facts.json',
+                                encoding='utf-8'))
+            tax = json.load(open('data/content-taxonomy.json',
+                                 encoding='utf-8'))
+            ev = op.qa_check_one(row, rows, biz, tax)
+        finally:
+            os.chdir(old_cwd)
+        self.assertEqual(ev['result'], 'REPAIR')
+        self.assertFalse(ev['checks']['duplicate_title'])
+        self.assertFalse(ev['checks']['duplicate_slug'])
+        self.assertFalse(ev['checks']['intent_unique'])
+        self.assertTrue(ev['critical_failure'])
+        self.assertIn(other['id'], ev['duplicate_title_clash'])
+        self.assertIn(other['id'], ev['duplicate_slug_clash'])
+        self.assertIn(other['id'], ev['intent_unique_clash'])
+
+    def test_fast_qa_passes_without_band_warning(self):
+        # Bài sạch đạt 75/70 -> PASS, KHÔNG còn cảnh báo band "QA WARNING
+        # 75-89" ép tối ưu; 90+ chỉ in nhãn EXCELLENT. Hard gate chống
+        # trùng không bắn nhầm bài sạch (kiểm tra chứng cứ QA trên đĩa).
+        self.ensure_writing_chunk()
+        row = first_writing(self.fx)
+        make_draft(self.fx, row)
+        r = self.operator('qa', '--scope', 'fast', '--ids', row['id'])
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertIn('PASS', r.stdout)
+        self.assertNotIn('QA WARNING', r.stdout)
+        rows = matrix_rows(self.fx)
+        self.assertEqual(next(x['status'] for x in rows
+                              if x['id'] == row['id']), 'PASS')
+        ev = json.load(open(os.path.join(self.fx, 'data', 'qa',
+                                         row['id'] + '.json'),
+                            encoding='utf-8'))
+        self.assertEqual(ev['result'], 'PASS')
+        self.assertIn(ev['grade'], ('PASS', 'EXCELLENT'))
+        self.assertTrue(ev['checks']['duplicate_title'])
+        self.assertTrue(ev['checks']['duplicate_slug'])
+        self.assertTrue(ev['checks']['intent_unique'])
+        if ev['grade'] == 'EXCELLENT':
+            self.assertIn('EXCELLENT', r.stdout)
+
     def test_threshold_constants_unchanged(self):
         self.assertEqual(op_mod().SEO_MIN, 70)
         self.assertEqual(op_mod().QUALITY_MIN, 75)

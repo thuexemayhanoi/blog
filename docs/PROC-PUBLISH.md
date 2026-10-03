@@ -120,10 +120,12 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 2. Push tự kích hoạt đường nóng: selection → claim EXACT ID → QA chấm
    từng draft (cấu trúc, SEO on-page, link nội bộ, business facts,
    cannibalization, legal/source), ghi evidence SHA gắn với nội dung +
-   hàng matrix. PASS → hàng PASS (90+ = EXCELLENT, 75-89 = PASS + cảnh
-   báo QA — polish defer cho weekly audit); thiếu điểm → REPAIR (writer
-   sửa rồi push lại); hết budget repair → BLOCKED. QA không bao giờ tự
-   hạ ngưỡng.
+   hàng matrix. PASS → hàng PASS (90+ cả hai chỉ ghi nhãn EXCELLENT; 75-89 là PASS
+   hợp lệ — KHÔNG ép 90/100, KHÔNG cảnh báo band, bài >= 75/70 không sửa
+   chỉ để tăng điểm); thiếu điểm → REPAIR (writer sửa rồi push lại);
+   hard gate chống trùng (duplicate title/slug/canonical/intent gần
+   trùng với hàng active) → REPAIR ngay bất kể điểm; hết budget repair
+   → BLOCKED. QA không bao giờ tự hạ ngưỡng.
 3. Repair (nếu cần): writer chỉ sửa draft dính lỗi rồi push lại —
    repair push chỉ QA/publish EXACT ID đã sửa, KHÔNG claim việc mới.
 4. `publish --ids`: từng hàng PASS qua `publish-gate.py`
