@@ -22,7 +22,7 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 - Tổng hàng: 1219
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
-- PLANNED mới: 110
+- PLANNED mới: 100
 - Năng lực danh nghĩa cũ: 10.000 hàng; tổng planned_target trong taxonomy: 6980
 
 ## Chống trùng (đã kiểm máy, tất cả PASS)
@@ -33,18 +33,18 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Chênh lệch với chỉ tiêu — BÁO THIẾU, KHÔNG ĐỆM
 
-Seed chỉ đăng ký được 110 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
+Seed chỉ đăng ký được 100 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
 
 | Child | PLANNED đã có | planned_target (seed taxonomy) |
 |---|---|---|
-| C-THUE-GIA | 2 | 220 |
-| C-THUE-THU-TUC | 5 | 200 |
+| C-THUE-GIA | 0 | 220 |
+| C-THUE-THU-TUC | 3 | 200 |
 | C-THUE-NGAY | 1 | 180 |
 | C-THUE-TUAN | 1 | 170 |
 | C-THUE-THANG | 0 | 200 |
 | C-THUE-DAT-COC | 0 | 150 |
 | C-THUE-QUOC-TE | 3 | 140 |
-| C-THUE-NHAN-TRA | 4 | 180 |
+| C-THUE-NHAN-TRA | 3 | 180 |
 | C-THUE-SU-CO | 3 | 180 |
 | C-XE-SO | 4 | 160 |
 | C-XE-GA | 2 | 160 |
@@ -56,7 +56,7 @@ Seed chỉ đăng ký được 110 hàng có giá trị riêng (mỗi hàng mộ
 | C-HONDA-AIR-BLADE | 1 | 110 |
 | C-HONDA-CLICK | 2 | 100 |
 | C-YAMAHA-SIRIUS | 2 | 100 |
-| C-BAO-DUONG | 7 | 140 |
+| C-BAO-DUONG | 6 | 140 |
 | C-GPLX | 0 | 150 |
 | C-BAO-HIEM | 0 | 130 |
 | C-NOI-DO-CONG | 0 | 120 |
@@ -70,7 +70,7 @@ Seed chỉ đăng ký được 110 hàng có giá trị riêng (mỗi hàng mộ
 | C-HO-TAY | 0 | 100 |
 | C-LONG-BIEN | 5 | 110 |
 | C-NGOAI-THANH | 0 | 110 |
-| C-CD-NOI-THANH | 1 | 100 |
+| C-CD-NOI-THANH | 0 | 100 |
 | C-CD-CUOI-TUAN | 16 | 130 |
 | C-CD-MAI-CHAU | 0 | 80 |
 | C-CD-MOC-CHAU | 0 | 80 |
@@ -80,16 +80,16 @@ Seed chỉ đăng ký được 110 hàng có giá trị riêng (mỗi hàng mộ
 | C-KY-NANG-TINH-HUONG | 2 | 180 |
 | C-KY-NANG-THOI-TIET | 0 | 150 |
 | C-KY-NANG-CHO-DO | 4 | 130 |
-| C-KY-NANG-GUI-XE | 6 | 120 |
+| C-KY-NANG-GUI-XE | 5 | 120 |
 | C-KY-NANG-SUC-KHOE | 0 | 110 |
 | C-HD-GIA | 0 | 90 |
 | C-HD-THU-TUC | 0 | 90 |
 | C-HD-PHAP-LY | 0 | 90 |
 | C-HD-CHON-XE | 2 | 90 |
-| C-HD-SU-CO | 1 | 90 |
+| C-HD-SU-CO | 0 | 90 |
 | C-HD-NGUOI-MOI | 1 | 90 |
 | C-THUE-DOI-TUONG | 8 | 80 |
 | C-THUE-DIA-DIEM | 0 | 70 |
 | C-XE-LUA-CHON | 0 | 80 |
 | C-XE-KHAC-PHUC | 0 | 90 |
-| C-XE-SO-SANH | 1 | 90 |
+| C-XE-SO-SANH | 0 | 90 |
