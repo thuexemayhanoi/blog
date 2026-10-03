@@ -8,6 +8,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: diag-dump
+  cancel-in-progress: true
+
 jobs:
   dump:
     runs-on: ubuntu-latest
@@ -15,8 +19,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: main
           fetch-depth: 1
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Lay du lieu moi nhat tu main
+        run: |
+          git fetch origin main --depth=1
+          git checkout origin/main -- data/content-matrix.csv scripts/factory/factory-operator.py
 
       - name: Dump rows BLG-01160..01219 va factory-operator source
         run: |
@@ -49,4 +61,4 @@ jobs:
           git config user.email "diag@example.com"
           git add dump
           git commit -m "diag: dump planned rows [skip ci]" || echo "khong co gi de commit"
-          git push origin HEAD:diag-dump
+          git push
