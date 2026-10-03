@@ -125,3 +125,27 @@ hợp đồng hạ tầng duy nhất — `scripts/factory/maintenance.py`:
   mới nhả. One-shot: không loop, không polling, không retry tự trị.
 - Test hợp đồng: `scripts/factory/tests/test_repair_agent.py`
   (hermetic fixture, KHÔNG đụng production state).
+
+### Agent #5 — supervisor / second-line recovery (`supervisor-agent.py`)
+
+- Tái dùng CÙNG incident_id + CÙNG maintenance_lock. Handoff qua
+  `take`: chỉ chấp nhận khi #4 đã trả SUCCESS/ESCALATE cho đúng
+  incident VÀ lock còn active, holder `agent-4` → ownership CHUYỂN
+  sang `agent-5` (không nhả giữa chừng — không có khoảng trống cho
+  mutation song song). #4 và #5 KHÔNG BAO GIỜ mutate đồng thời
+  (cưỡng chế bởi holder).
+- Khi #4 = SUCCESS: `verify` kiểm định ĐỘC LẬP (repo state, đủ 5
+  workflow hợp đồng, writer-lock/txn không treo, lease trỏ đúng
+  PLANNED, checkpoint counts khớp matrix, production-control nguyên
+  vẹn, regression chunk). HEALTHY → nhả maintenance_lock, incident
+  `recovered` — production resume qua entrypoint SINH THƯỜNG hiện có
+  (agent không spawn cycle). UNHEALTHY → KHÔNG sửa thêm: giữ pause,
+  giữ lock, incident `attention`, viết report
+  `reports/factory/incidents/<id>.md`, STOP.
+- Khi #4 = ESCALATE: `repair` được ĐÚNG MỘT attempt (cùng whitelist
+  action của #4) → verify lại: HEALTHY → nhả lock, incident
+  `resumable`. Vẫn hỏng → giữ pause, GIỮ NGUYÊN checkpoint + kết quả
+  recoverable của writer, incident `stopped`, viết report, STOP.
+  KHÔNG escalation lên Agent #6 (watchdog chỉ wake, không repair).
+- Test hợp đồng: `scripts/factory/tests/test_supervisor_agent.py`
+  (hermetic, KHÔNG đụng production state).
