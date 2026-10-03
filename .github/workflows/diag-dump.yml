@@ -1,0 +1,52 @@
+name: Diag dump planned rows
+
+on:
+  push:
+    branches: [diag-dump]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  dump:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Dump rows BLG-01160..01219 va factory-operator source
+        run: |
+          python3 - <<'EOF'
+          import csv, json, os
+          os.makedirs('dump', exist_ok=True)
+          ids_wanted = [f"BLG-{i:05d}" for i in range(1160, 1220)]
+          want = set(ids_wanted)
+          found = {}
+          with open('data/content-matrix.csv', newline='', encoding='utf-8') as f:
+              for row in csv.DictReader(f):
+                  if row['id'] in want:
+                      found[row['id']] = row
+          print("FOUND:", len(found), "MISSING:", [i for i in ids_wanted if i not in found])
+          for k, v in found.items():
+              with open(f'dump/{k}.json', 'w', encoding='utf-8') as f:
+                  json.dump(v, f, ensure_ascii=False, indent=1)
+          src = open('scripts/factory/factory-operator.py', encoding='utf-8').read()
+          n = 24000
+          parts = [src[i:i+n] for i in range(0, len(src), n)]
+          for i, p in enumerate(parts):
+              with open(f'dump/fo-part-{i:02d}.txt', 'w', encoding='utf-8') as f:
+                  f.write(p)
+          print("fo parts:", len(parts), "total chars:", len(src))
+          EOF
+
+      - name: Commit dump ve branch
+        run: |
+          git config user.name "diag-bot"
+          git config user.email "diag@example.com"
+          git add dump
+          git commit -m "diag: dump planned rows [skip ci]" || echo "khong co gi de commit"
+          git push origin HEAD:diag-dump
