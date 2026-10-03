@@ -119,7 +119,10 @@ chat luong noi dung, legal freshness, factory state.
 - .github/workflows/factory-publish-verify.yml: FULL audit READ-ONLY (dispatch); factory-liveness.yml: liveness read-only moi 6 gio
   (contents: read, KHONG commit ve main) cho toan bo tren: capacity
   audit, queue stats, refill verify + selftest, sitemap plan,
-  generator drift. Cong FAST moi push: quality-gate.yml.
+  generator drift. Cong moi push: quality-gate.yml dual-mode (script
+  scripts/factory/gate-scope.py chon che do, fail-closed) — content
+  push chi validate FAST scoped; engine push = FULL gate kem Jekyll
+  build + built-link integrity.
 
 ## So huu production engine (ownership guard)
 

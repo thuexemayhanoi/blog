@@ -92,7 +92,8 @@ word_target >= 1.200 (G5); candidate_id unique (G6);
 child thuoc taxonomy, ke thua source policy (G7);
 title khong trung toan matrix (G8).
 
-LUU Y CI: cac workflow read-only la quality-gate.yml (FAST moi push)
+LUU Y CI: cac workflow read-only la quality-gate.yml (dual-mode:
+content push = validate FAST scoped, engine push = FULL gate)
 va factory-publish-verify.yml (FULL audit theo yeu cau) — khong bao gio
 commit/push ve main. Refill --verify chi in log/step summary.
 Thay doi trang thai (matrix, seed, ledger, checkpoint) chi
@@ -205,7 +206,9 @@ thiep, 2 = loi du lieu):
   test_link_integrity.py, test_refill_semantics.py,
   test_push_rebase_overlap.py. Chay trong DEEP/FULL.
 - Tang 3 PRODUCTION INVARIANT: validate.py (chunk/batch/full) +
-  CI quality-gate.yml (FAST moi push) + Pages. Gate xuat ban tung
+  CI quality-gate.yml (dual-mode: content push = validate FAST
+  scoped; engine push = FULL gate kem build+links) + Pages.
+  Gate xuat ban tung
   chunk = FAST; DEEP ~50 bai; FULL chay theo yeu cau (factory-publish-verify.yml).
 - Tang 4 LONG-RUN/FAILURE RECOVERY: test_soak_recovery.py — 20 vong
   san xuat hermetic + failure injection (txn treo, reports hong,

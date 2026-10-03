@@ -712,6 +712,11 @@ class StaticContract(unittest.TestCase):
                 self.assertNotIn('git commit', y)
 
     def test_s7_quality_gate_fast_readonly(self):
+        """quality-gate.yml dual-mode (port pattern /shop article-quality
+        + qa_scope): content push = CHỈ validate FAST chunk; engine push
+        /dispatch = + build + built-links + draft-leak + sitemap sanity.
+        KHÔNG còn build + quét link toàn site cho MỌI push nội dung —
+        kết thúc lớp lỗi 404 transient khi batch chưa publish xong."""
         y = wf_text('quality-gate.yml')
         self.assertIn('contents: read', y)
         self.assertNotIn('contents: write', y)
@@ -722,6 +727,11 @@ class StaticContract(unittest.TestCase):
         self.assertIn('push:', y)          # trigger push main
         self.assertIn('pull_request:', y)  # trigger PR
         self.assertIn('workflow_dispatch:', y)
+        # dual-mode: selector CANONICAL gate-scope.py quyết định chế độ
+        self.assertIn('scripts/factory/gate-scope.py', y)
+        self.assertEqual(
+            y.count("if: steps.mode.outputs.mode == 'full'"), 4,
+            'build/links/draft-leak/sitemap CHỈ chạy ở mode full')
 
     def test_s7_publish_hotpath(self):
         """factory-publish.yml — production publisher DUY NHẤT (mô hình

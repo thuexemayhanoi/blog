@@ -1,22 +1,26 @@
 name: Quality gate
 
-# CONG FAST CUA /blog — path filters theo kien truc /vanchinh
-# article-quality.yml (SOURCE OF TRUTH). Chay tren push main + PR
-# (chi khi path lien quan) + dispatch: nhanh, READ-ONLY
-# (contents: read), khong bao gio commit/push ve main. Bai moi
-# phai qua cong nay + Pages deploy.
+# CONG DUAL-MODE CUA /blog — port pattern /shop article-quality.yml
+# + scripts/qa_scope.py (SOURCE OF TRUTH), adapter theo path/command
+# thật của /blog. Chạy trên push main + PR (khi path liên quan) +
+# dispatch; READ-ONLY (contents: read), không bao giờ commit/push.
 #
-# Pham vi FAST (san xuat hang ngay):
-#   - validate.py --scope chunk (nen + chunk hien tai)
-#   - Jekyll build cung dong may Pages (actions/jekyll-build-pages@v1)
-#   - check-built-links.py: KHONG 404 noi bo trong cay da build
-#   - draft-leak: bai nhap khong duoc xuat ra site/sitemap
-#   - sanity sitemap/schema/hub render toi thieu
-# Audit nang (verify full, refill, drift generators) thuoc
-# factory-publish-verify.yml (read-only, workflow_dispatch); liveness
-# thuoc factory-liveness.yml (read-only, cron moi 6 gio).
-# San xuat (claim/qa/publish) thuoc factory-publish.yml (push main
-# _drafts/**, tuan theo nguong 75/70 — docs/PROC-PUBLISH.md).
+# Chế độ do scripts/factory/gate-scope.py quyết định (fail-closed):
+#   content — push thuần nội dung production (_drafts/**, _posts/**,
+#             data/content-matrix.csv, data/qa/**, data/state/**,
+#             reports/factory/**): CHỈ validate.py --scope chunk.
+#             KHÔNG build + KHÔNG quét link toàn site mỗi cycle —
+#             bài mới đã bị QA scoped chấm link (links_routes_valid)
+#             ở factory-publish.yml; audit nặng theo đợt ở
+#             factory-publish-verify.yml.
+#   full    — push chạm engine/toàn site (scripts/**, _layouts/**,
+#             _includes/**, _data/**, _config.yml, docs/**,
+#             .github/workflows/**, data/state/matrix-seed.json,
+#             data/factory/**) hoặc dispatch: validate chunk + Jekyll
+#             build (actions/jekyll-build-pages@v1) + built-link
+#             integrity + draft-leak + sitemap/schema/hub sanity.
+# Sản xuất (claim/qa/publish) thuộc factory-publish.yml (push main
+# _drafts/**, ngưỡng 75/70 — docs/PROC-PUBLISH.md).
 
 on:
   push:
@@ -34,9 +38,9 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  fast-gate:
+  gate:
     if: github.repository == 'thuexemayhanoi/blog'
-    name: FAST validate + build + links
+    name: Quality gate (content FAST / engine FULL)
     runs-on: ubuntu-latest
     timeout-minutes: 20
     env:
@@ -44,11 +48,50 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.12"
+
+      - name: Determine gate mode (scripts/factory/gate-scope.py)
+        id: mode
+        env:
+          EVENT_NAME: ${{ github.event_name }}
+          BEFORE_SHA: ${{ github.event.before }}
+          PR_BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          SHA: ${{ github.sha }}
+        run: |
+          set -eu
+          # Event-specific changed-file list; gate-scope.py quyết định
+          # chế độ (fail-closed: base không rõ / list rỗng = FULL).
+          scope="auto"
+          : > changed-files.txt
+          if [ "$EVENT_NAME" = "push" ]; then
+            if [ -n "$BEFORE_SHA" ] && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]; then
+              git diff --name-only "$BEFORE_SHA" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml > changed-files.txt || true
+            else
+              scope="full"
+            fi
+          elif [ "$EVENT_NAME" = "pull_request" ]; then
+            git fetch origin "$PR_BASE_SHA" --depth=1 >/dev/null 2>&1 || true
+            MB="$(git merge-base "$PR_BASE_SHA" "$SHA" 2>/dev/null || true)"
+            if [ -n "$MB" ]; then
+              git diff --name-only "$MB" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml > changed-files.txt || true
+            else
+              scope="full"
+            fi
+          else
+            # workflow_dispatch = audit FULL theo hợp đồng
+            scope="full"
+          fi
+          python3 scripts/factory/gate-scope.py --changed-files changed-files.txt --scope "$scope" > gate.json
+          MODE=$(python3 -c 'import json;print(json.load(open("gate.json"))["mode"])')
+          REASON=$(python3 -c 'import json;print(json.load(open("gate.json"))["reason"])')
+          echo "gate mode: $MODE ($REASON)"
+          echo "mode=$MODE" >> "$GITHUB_OUTPUT"
 
       - name: Validate (FAST - scope chunk)
         run: |
@@ -56,17 +99,20 @@ jobs:
           python3 scripts/factory/validate.py --scope chunk
 
       - name: Build site (Jekyll, same engine family as Pages)
+        if: steps.mode.outputs.mode == 'full'
         uses: actions/jekyll-build-pages@v1
         with:
           source: ./
           destination: ./_site
 
       - name: Built-site link integrity (internal 404 chan build)
+        if: steps.mode.outputs.mode == 'full'
         run: |
           set -eu
           python3 scripts/factory/check-built-links.py --site ./_site
 
       - name: Drafts must not be deployed (no draft in sitemap or output)
+        if: steps.mode.outputs.mode == 'full'
         run: |
           set -eu
           if grep -rq "mau-nhap-bai-moi" _site/sitemap.xml _site 2>/dev/null; then
@@ -74,6 +120,7 @@ jobs:
           fi
 
       - name: Sitemap + schema + hub sanity
+        if: steps.mode.outputs.mode == 'full'
         run: |
           set -eu
           test -f _site/sitemap.xml || { echo "FAIL: thieu sitemap.xml"; exit 1; }
