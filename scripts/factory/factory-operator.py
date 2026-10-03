@@ -82,6 +82,7 @@ TXN = 'data/state/transaction.json'
 CP = 'data/state/checkpoint.json'
 LOCK = 'data/state/writer-lock.json'
 LOCK_FILE = 'data/state/writer-lock.active'
+MAINT_LOCK = 'data/state/maintenance-lock.json'
 
 MAX_CHUNK = 10
 DEFAULT_CHUNK = 2
@@ -201,6 +202,14 @@ def preflight(require_clean_txn=True, scope='chunk'):
     scope: phạm vi validate.py (chunk/batch/full). Mặc định 'chunk' —
     FAST QA: chỉ chunk hiện tại + nền bắt buộc, KHÔNG audit toàn site
     cho mỗi cặp 2 bài (docs/PROC-PUBLISH.md). Ngưỡng QA không đổi."""
+    mlock = read_json(MAINT_LOCK, {'locked': False})
+    if mlock.get('locked'):
+        bail('maintenance-lock đang active (incident %s, holder %s — '
+             'Agent #4/#5 đang sửa hạ tầng): production mutation tạm '
+             'dừng. Hoàn tất incident qua repair-agent/supervisor-agent '
+             'trước khi chạy op mutating (docs/factory-workflow-contract.md).'
+             % (mlock.get('incident_id'), mlock.get('holder')))
+
     ok = subprocess.run([sys.executable, 'scripts/factory/validate.py',
                          '--scope', scope],
                         capture_output=True, text=True)

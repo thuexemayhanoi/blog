@@ -1,0 +1,9 @@
+{
+  "locked": false,
+  "holder": null,
+  "incident_id": null,
+  "acquired_at": null,
+  "expires_at": null,
+  "updated_at": "2026-10-03T12:30:00Z",
+  "note": "maintenance-lock toàn cục của Agent #4/#5 (scripts/factory/maintenance.py). locked=true => factory-operator từ chối mọi op mutating (pause production thật)."
+}

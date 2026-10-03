@@ -11,7 +11,7 @@ chạy LOCAL, KHÔNG còn workflow riêng. Nguyên tắc giữ nguyên: ít code
 queue → pair claim/QA/publish → audit sâu on-demand. Kỹ thuật sâu:
 docs/ADVANCED-FACTORY-RECOVERY.md.
 
-## 1. Danh sách workflow (CHÍNH XÁC 6)
+## 1. Danh sách workflow (CHÍNH XÁC 5)
 
 | Workflow | Trigger | Quyền | Phạm vi |
 |---|---|---|---|
@@ -82,3 +82,46 @@ và chặn thêm workflow mới ngoài danh sách 6.
   từ đầu), PLANNED còn lại DEFERRED lần kế.
 - Bài nháp KHÔNG được deploy (draft-leak check ở cả quality-gate và
   factory-publish-verify).
+
+## 4. Agent vận hành: #4 repair, #5 supervisor, #6 watchdog
+
+Ba agent vận hành (operator-run, KHÔNG phải AI viết bài) chia sẻ một
+hợp đồng hạ tầng duy nhất — `scripts/factory/maintenance.py`:
+
+- maintenance_lock toàn cục `data/state/maintenance-lock.json`
+  (holder `agent-4` hoặc `agent-5`, TTL 6h). Khi lock active, MỌI op
+  mutating của `factory-operator.py` (prepare-next/qa/publish/
+  release-chunk/recover/requeue/refill) từ chối chạy — production
+  pause thật, không tự khai. #4 và #5 KHÔNG BAO GIỜ giữ lock (mutate)
+  đồng thời; stale takeover phải `--force-stale` rõ ràng và được ghi
+  dấu vào lock (không âm thầm bypass).
+- Incident registry `data/state/incidents/<INC-YYYYMMDD-slug>.json`:
+  cùng một incident_id giữ nguyên xuyên suốt #4 -> #5; mỗi incident
+  được tối đa 1 attempt #4 + 1 attempt #5 (tổng 2, cưỡng chế bằng
+  counter trong record). KHÔNG có escalation tự trị nào khác.
+- Vùng ghi của agent bị chặn cứng bởi `maintenance.assert_writable_rel`:
+  CHỈ `data/state/**` và `reports/factory/incidents/**`. TUYỆT ĐỐI
+  không `_posts/`, `_drafts/`, `_queue/`, `data/content-matrix.csv`,
+  `_data/`, `_layouts/`, `_includes/`, `assets/` — agent vận hành
+  KHÔNG BAO GIỜ viết/sửa bài viết, taxonomy, pricing, business facts.
+
+### Agent #4 — first-line infrastructure repair (`repair-agent.py`)
+
+- Trigger từ sự cố hạ tầng thật (watchdog STALE_*, incident của
+  operator); bắt buộc `--trigger` — không tự bịa sự cố.
+- `start` giành maintenance_lock + tạo/reuse incident (incident đã hết
+  lượt #4 -> REFUSED). `repair --action` chỉ nhận whitelist action
+  deterministic, tối thiểu, an toàn:
+  `release-stale-writer-lock` (chỉ nhả lock hết hạn/thiếu metadata,
+  lock tươi -> ESCALATE), `clear-inactive-transaction` (active=true +
+  pending=null -> inactive; active + pending hợp lệ -> ESCALATE),
+  `recompute-checkpoint-counts`, `prune-writer-claims`
+  (qua `writer-claim.py prune`).
+- Sau repair chạy regression focused (`validate.py --scope chunk`) và
+  ghi vào record: incident_id, timestamps, trigger, diagnosis,
+  files/actions, tests, result.
+- Kết quả đúng MỘT trong hai: `SUCCESS` (chờ #5 verify) hoặc
+  `ESCALATE` (bàn giao #5). Lock KHÔNG tự nhả — chỉ #5 sau verify
+  mới nhả. One-shot: không loop, không polling, không retry tự trị.
+- Test hợp đồng: `scripts/factory/tests/test_repair_agent.py`
+  (hermetic fixture, KHÔNG đụng production state).
