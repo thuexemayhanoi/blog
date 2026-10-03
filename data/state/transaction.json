@@ -1,52 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-03T09:48:20+00:00",
+  "updated_at": "2026-10-03T09:48:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01131",
-      "started_at": "2026-10-03T09:01:47+00:00",
-      "source": "_drafts/2026-10-03-coi-xe-thue-khong-keu-giua-pho-ong.md",
-      "destination": "_posts/2026-10-03-coi-xe-thue-khong-keu-giua-pho-ong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6b95b79851a9a802f5b58a95520b6f96e5c17533",
-      "finished_at": "2026-10-03T09:01:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01132",
-      "started_at": "2026-10-03T09:01:51+00:00",
-      "source": "_drafts/2026-10-03-en-hau-xe-may-chay-giua-ky-thue.md",
-      "destination": "_posts/2026-10-03-en-hau-xe-may-chay-giua-ky-thue.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6b95b79851a9a802f5b58a95520b6f96e5c17533",
-      "finished_at": "2026-10-03T09:01:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01133",
-      "started_at": "2026-10-03T09:01:51+00:00",
-      "source": "_drafts/2026-10-03-cop-xe-ga-khong-mo-uoc-luc-tra-xe.md",
-      "destination": "_posts/2026-10-03-cop-xe-ga-khong-mo-uoc-luc-tra-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6b95b79851a9a802f5b58a95520b6f96e5c17533",
-      "finished_at": "2026-10-03T09:01:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01134",
-      "started_at": "2026-10-03T09:01:55+00:00",
-      "source": "_drafts/2026-10-03-xe-so-xuong-deo-dai-giu-so-may-an-toan.md",
-      "destination": "_posts/2026-10-03-xe-so-xuong-deo-dai-giu-so-may-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6b95b79851a9a802f5b58a95520b6f96e5c17533",
-      "finished_at": "2026-10-03T09:01:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01135",
       "started_at": "2026-10-03T09:01:55+00:00",
@@ -275,6 +231,50 @@
       "result": "PUBLISHED",
       "commit_sha": "d8f1d68e39c83f08de44392789e3fe57088b0a63",
       "finished_at": "2026-10-03T09:48:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01156",
+      "started_at": "2026-10-03T09:48:49+00:00",
+      "source": "_drafts/2026-10-03-vit-oc-long-leo-tren-xe-may-thue-dai-han-kiem-tra-inh-ky.md",
+      "destination": "_posts/2026-10-03-vit-oc-long-leo-tren-xe-may-thue-dai-han-kiem-tra-inh-ky.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cccfca982541087313b2827baad9f173d157361e",
+      "finished_at": "2026-10-03T09:48:49+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01157",
+      "started_at": "2026-10-03T09:48:49+00:00",
+      "source": "_drafts/2026-10-03-kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa.md",
+      "destination": "_posts/2026-10-03-kiem-tra-en-xi-nhan-va-coi-truoc-chuyen-i-xa.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cccfca982541087313b2827baad9f173d157361e",
+      "finished_at": "2026-10-03T09:48:49+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01158",
+      "started_at": "2026-10-03T09:48:53+00:00",
+      "source": "_drafts/2026-10-03-lop-non-hoi-giua-ky-thue-phat-hien-tu-cam-giac-lai.md",
+      "destination": "_posts/2026-10-03-lop-non-hoi-giua-ky-thue-phat-hien-tu-cam-giac-lai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cccfca982541087313b2827baad9f173d157361e",
+      "finished_at": "2026-10-03T09:48:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01159",
+      "started_at": "2026-10-03T09:48:53+00:00",
+      "source": "_drafts/2026-10-03-vet-nut-tren-lop-xe-cu-can-e-y-ieu-gi.md",
+      "destination": "_posts/2026-10-03-vet-nut-tren-lop-xe-cu-can-e-y-ieu-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cccfca982541087313b2827baad9f173d157361e",
+      "finished_at": "2026-10-03T09:48:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
