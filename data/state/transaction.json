@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-03T01:09:19+00:00",
+  "updated_at": "2026-10-03T01:14:19+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01081",
-      "started_at": "2026-10-01T11:28:54+00:00",
-      "source": "_drafts/2026-10-01-xe-thue-khong-no-may-buoi-sang-chan-oan-nhanh-truoc-khi-goi.md",
-      "destination": "_posts/2026-10-01-xe-thue-khong-no-may-buoi-sang-chan-oan-nhanh-truoc-khi-goi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "915ffb88a1136834bfea6bd59348a4a6f04a656d",
-      "finished_at": "2026-10-01T11:28:54+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01082",
-      "started_at": "2026-10-01T11:33:45+00:00",
-      "source": "_drafts/2026-10-01-en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe.md",
-      "destination": "_posts/2026-10-01-en-phanh-xe-thue-yeu-kiem-tra-truoc-khi-nhan-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d09ffadc2af99e4154c223226cbaceec20f1aa33",
-      "finished_at": "2026-10-01T11:33:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01083",
       "started_at": "2026-10-01T11:33:45+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "5473120d334c9ca1a64e42b38b668f9e2e11a356",
       "finished_at": "2026-10-03T01:09:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01096",
+      "started_at": "2026-10-03T01:14:19+00:00",
+      "source": "_drafts/2026-10-02-thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao.md",
+      "destination": "_posts/2026-10-02-thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ee8504091bdc1df4d35fbe88dc6d200ecf1389f7",
+      "finished_at": "2026-10-03T01:14:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01097",
+      "started_at": "2026-10-03T01:14:19+00:00",
+      "source": "_drafts/2026-10-02-honda-click-cho-hai-nguoi-i-pho-yen-va-cop.md",
+      "destination": "_posts/2026-10-02-honda-click-cho-hai-nguoi-i-pho-yen-va-cop.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ee8504091bdc1df4d35fbe88dc6d200ecf1389f7",
+      "finished_at": "2026-10-03T01:14:19+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
