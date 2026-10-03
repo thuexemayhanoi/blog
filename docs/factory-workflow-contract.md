@@ -1,4 +1,4 @@
-# Hợp đồng 5 workflow — thuexemayhanoi/blog
+# Hợp đồng 6 workflow — thuexemayhanoi/blog
 
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
@@ -11,7 +11,7 @@ chạy LOCAL, KHÔNG còn workflow riêng. Nguyên tắc giữ nguyên: ít code
 queue → pair claim/QA/publish → audit sâu on-demand. Kỹ thuật sâu:
 docs/ADVANCED-FACTORY-RECOVERY.md.
 
-## 1. Danh sách workflow (CHÍNH XÁC 5)
+## 1. Danh sách workflow (CHÍNH XÁC 6)
 
 | Workflow | Trigger | Quyền | Phạm vi |
 |---|---|---|---|
@@ -19,6 +19,7 @@ docs/ADVANCED-FACTORY-RECOVERY.md.
 | `factory-publish.yml` | push main theo paths `_drafts/**` (và chính workflow file) | `contents: write` | Production publisher DUY NHẤT (mô hình /vanchinh): push writer chứa 2..10 draft (write-ahead queue) → selection EXACT ID qua canonical `scripts/factory/push-selection.py` (từ chối ID trùng, ID lạ, hàng PUBLISHED/EXISTING/BLOCKED, > 10 draft/push) → chia pair 2 deterministic theo thứ tự matrix → consume tuần tự: claim chỉ hàng PLANNED (`prepare-next --ids`), `qa --ids --scope fast`, `publish --ids` (hàng PASS) → checkpoint. Pair FAIL content = recoverable (REPAIR), KHÔNG rollback pair đã publish; engine resume-first — còn repair/unresolved thì KHÔNG claim pair mới (pair còn lại DEFERRED, lần kế). FATAL (claim/QA hạ tầng, non-FF sau 3 lần rebase retry) → fail run, KHÔNG commit, KHÔNG force push. Concurrency group `factory-publish`, `cancel-in-progress: false`. |
 | `factory-liveness.yml` | CHỈ workflow_dispatch (không cron) | `contents: read` | Liveness READ-ONLY: `watchdog.py` (unhealthy = run FAIL, KHÔNG chỉ warning) + `factory-operator.py status` + purity check working-tree sạch. KHÔNG recover, KHÔNG claim, KHÔNG publish, KHÔNG commit. |
 | `factory-publish-verify.yml` | CHỈ workflow_dispatch (không cron) | `contents: read` | FULL audit READ-ONLY: watchdog + `factory-operator.py verify --scope full` + refill gate G1-G8 (pure selftest) + `sitemap-plan.py` + generator drift/idempotency + Jekyll build + built-link deep check + draft-leak + hub/pagination render + working-tree clean. KHÔNG commit, KHÔNG push. |
+| `production-watchdog.yml` | schedule cron `*/30 * * * *` + workflow_dispatch | `contents: read` | AGENT #6 wake-watchdog LIGHTWEIGHT read-mostly: `production-watchdog.py --dry-run` — đọc timestamp progress (checkpoint/txn PUBLISHED/writer-claims/QA evidence), khi >= 2h không valid progress và MỌI guard idle (#4/#5 idle, không maintenance-lock, không pause/blocked chủ động, không incident mở, không writer cycle active, không publisher active, không build/deploy active) thì báo WOULD WAKE; ship dry-run KHÔNG tự kích hoạt — wake thật là quyết định người vận hành. KHÔNG build, KHÔNG quét link, KHÔNG repair, KHÔNG commit/push. |
 | `factory-soak.yml` | CHỈ workflow_dispatch | `contents: read` | Reliability/soak on-demand, HERMETIC đối với production: chạy `scripts/factory/tests/test_soak_recovery.py` trên fixture cô lập (multi-chunk + failure recovery) + purity check. KHÔNG mutation production state, KHÔNG commit. |
 
 Pages deploy bằng cơ chế built-in của GitHub (branch main), không cần
@@ -149,3 +150,28 @@ hợp đồng hạ tầng duy nhất — `scripts/factory/maintenance.py`:
   KHÔNG escalation lên Agent #6 (watchdog chỉ wake, không repair).
 - Test hợp đồng: `scripts/factory/tests/test_supervisor_agent.py`
   (hermetic, KHÔNG đụng production state).
+
+### Agent #6 — director / production watchdog (`production-watchdog.py`)
+
+- TRÁCH NHIỆM DUY NHẤT: đánh thức production bình thường khi KHÔNG có
+  valid progress liên tục 2 giờ. KHÔNG repair, KHÔNG recovery — đó là
+  việc của #4/#5.
+- `last_valid_progress_at` = timestamp mới nhất của progress THẬT:
+  checkpoint.updated_at, transaction history result=PUBLISHED,
+  writer-claims claimed_at/updated_at, QA evidence scored_at.
+  Log/heartbeat/status check/polling/run FAIL/lần chạy watchdog
+  KHÔNG reset đồng hồ.
+- Trước khi wake kiểm tra TOÀN BỘ guard; MỘT điều kiện còn hoạt động
+  → DO NOTHING (fail-safe). Wake idempotent qua marker
+  `data/state/watchdog-wake.json` + cooldown 2h — hai lần chạy
+  watchdog KHÔNG tạo duplicate cycle.
+- Wake = kích hoạt ĐÚNG MỘT entrypoint production bình thường hiện có
+  (`factory-operator.py prepare-next` — hệ thống tự allocate/fan-out;
+  operator tự refuse khi maintenance-lock/pause: double safety).
+  KHÔNG trực tiếp khởi động Writer #1/#2/#3, KHÔNG sửa queue/manifest,
+  KHÔNG cancel run.
+- Ship mặc định dry-run: workflow chỉ báo WOULD WAKE, KHÔNG BAO GIỜ
+  tự kích hoạt production. Bật wake thật = người vận hành thêm cờ
+  wake vào workflow.
+- Test hợp đồng: `scripts/factory/tests/test_production_watchdog.py`
+  (27 test hermetic với stub operator).

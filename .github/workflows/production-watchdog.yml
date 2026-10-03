@@ -1,0 +1,30 @@
+# AGENT #6 — production watchdog (docs/factory-workflow-contract.md).
+# TRÁCH NHIỆM DUY NHẤT: đánh thức production bình thường khi KHÔNG có
+# valid progress liên tục 2 giờ. LIGHTWEIGHT: chỉ đọc vài file state
+# JSON — KHÔNG build, KHÔNG quét link, KHÔNG full-site QA, KHÔNG
+# quality audit (khác hẳn liveness 6h cũ đã retire). READ-ONLY:
+# contents: read, KHÔNG commit, KHÔNG push. Cron mỗi 30 phút chỉ là
+# "kiem tra periodic" — mọi hành động wake đều bị chặn bởi guard
+# (#4/#5 idle, không maintenance-lock, không pause/blocked chủ động,
+# không writer/publisher/build active) + cooldown chống duplicate.
+# Ship mặc định DRY-RUN: không có cờ wake thật -> workflow này
+# KHÔNG BAO GIỜ kích hoạt production; bật wake thật là quyết
+# định của người vận hành (thêm cờ wake vào lệnh dưới đây).
+name: production watchdog
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: production-watchdog
+  cancel-in-progress: false
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run production watchdog (dry-run)
+        run: |
+          python3 scripts/factory/production-watchdog.py --dry-run

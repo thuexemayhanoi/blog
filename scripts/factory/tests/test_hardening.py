@@ -647,6 +647,7 @@ CURRENT_WORKFLOWS = [
     'factory-publish-verify.yml',
     'factory-publish.yml',
     'factory-soak.yml',
+    'production-watchdog.yml',
     'quality-gate.yml',
 ]
 
@@ -666,7 +667,7 @@ RETIRED_WORKFLOWS = [
 
 
 class StaticContract(unittest.TestCase):
-    """Hợp đồng CHÍNH XÁC 5 workflow hiện tại (docs/factory-workflow-
+    """Hợp đồng CHÍNH XÁC 6 workflow hiện tại (docs/factory-workflow-
     contract.md — kiến trúc port từ /vanchinh, gọn theo pattern /shop):
       quality-gate.yml            — cong dual-mode read-only (push/PR)
       factory-publish.yml         — production publisher DUY NHẤT
@@ -676,6 +677,8 @@ class StaticContract(unittest.TestCase):
                                    (workflow_dispatch, KHÔNG cron)
       factory-publish-verify.yml  — FULL audit read-only (dispatch)
       factory-soak.yml            — reliability/soak hermetic on-demand
+      production-watchdog.yml     — Agent #6 wake 2h (lightweight,
+                                   cron 30p, dry-run mặc định)
     Các workflow legacy (publish-drafts.yml, factory-production.yml,
     factory-refill.yml, article-batch.yml — dry-run gộp vào
     factory-liveness/factory-publish-verify, ...) đã RETIRE theo lệnh
@@ -915,6 +918,30 @@ class StaticContract(unittest.TestCase):
                              'soak phai HERMETIC/READ-ONLY: %s' % bad)
         # purity: working tree sach (khong mutation production state)
         self.assertIn('git status --porcelain', y)
+
+    def test_s7_production_watchdog_lightweight(self):
+        """production-watchdog.yml (Agent #6): lightweight scheduled —
+        cron 30 phút là KIỂM TRA periodic read-mostly (KHÔNG phải bản
+        6h liveness full đã retire); contents: read; KHÔNG commit/push;
+        chạy production-watchdog.py DRY-RUN — workflow KHÔNG BAO GIỜ
+        kích hoạt production; KHÔNG build/link scan/full QA; KHÔNG
+        repair; KHÔNG đụng queue/writer trực tiếp."""
+        y = wf_text('production-watchdog.yml')
+        self.assertIn('contents: read', y)
+        self.assertNotIn('contents: write', y)
+        self.assertNotIn('git push', y)
+        self.assertNotIn('git commit', y)
+        self.assertIn("cron: '*/30 * * * *'", y)
+        self.assertIn('workflow_dispatch:', y)
+        self.assertIn('scripts/factory/production-watchdog.py', y)
+        self.assertIn('--dry-run', y)
+        self.assertNotIn('--wake', y)   # ship dry-run: KHÔNG wake thật
+        code = '\n'.join(code_lines(y))
+        for bad in ('prepare-next', 'requeue', 'release-chunk', '--refill',
+                    'qa --ids', 'publish --ids', 'writer-claim.py claim',
+                    'jekyll', 'check-built-links', 'validate.py'):
+            self.assertNotIn(bad, code,
+                             'watchdog phai LIGHTWEIGHT/READ-ONLY: %s' % bad)
 
     def test_s7_publish_verify_full_audit_readonly(self):
         """factory-publish-verify.yml: FULL audit read-only, CHỈ
