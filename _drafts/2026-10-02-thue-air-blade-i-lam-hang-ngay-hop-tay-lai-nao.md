@@ -11,6 +11,7 @@ parent_id: P-XE-MAY
 child_id: C-HONDA-AIR-BLADE
 permalink: /xe-may/2026/10/02/thue-air-blade-i-lam-hang-ngay-hop-tay-lai-nao/
 article_id: BLG-01096
+writer: W2
 ---
 
 Thuê Air Blade đi làm là lựa chọn của khá nhiều người đã có tay lái vững và muốn một chiếc xe ga gọn, mạnh mẽ hơn hẳn dòng xe cút kít thông thường. Air Blade có dáng xe thể thao, đầu xe khá cao và vặn ga khá nhạy, nên không phải dòng hợp tất cả mọi người, đặc biệt là người mới tập chạy xe ga. Bài này xem xét Air Blade hợp với tay lái nào khi đi làm hằng ngày, chi phí thuê thế nào và cần kiểm tra gì trước khi nhận xe.
