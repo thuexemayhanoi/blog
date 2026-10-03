@@ -1,6 +1,6 @@
 # Cấp trúc nội dung (content hierarchy)
 
-Sinh bởi `scripts/factory/generate-reports.py`. Mốc dữ liệu: 2026-10-02. Nguồn: `data/content-taxonomy.json`, `data/content-inventory.csv`, `data/content-matrix.csv`.
+Sinh bởi `scripts/factory/generate-reports.py`. Mốc dữ liệu: 2026-10-03. Nguồn: `data/content-taxonomy.json`, `data/content-inventory.csv`, `data/content-matrix.csv`.
 
 Tổng bài legacy: 483 | REVIEW: 10 | EXISTING: 473
 
