@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-01T11:45:56+00:00",
-    "staged_at": "2026-10-01T11:45:55+00:00"
+    "materialized_at": "2026-10-03T02:35:45+00:00",
+    "staged_at": "2026-10-03T02:35:44+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -3339,6 +3339,169 @@
       "word_target": 1300,
       "materialized_at": "2026-10-01T11:45:56+00:00",
       "materialized_head": "9a8b8cd94698f46eb65605e7ab9c3220d7bc3c5c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-001",
+      "child_id": "C-THUE-GIA",
+      "title": "Chi phí thuê xe máy cho chuyến công tác 2 ngày ở Hà Nội",
+      "intent": "Ước chi phí thuê xe máy cho chuyến công tác 2 ngày",
+      "kw": "chi phí thuê xe máy 2 ngày",
+      "kw2": [
+        "thuê xe 2 ngày bao nhiêu tiền"
+      ],
+      "links": [
+        "/bang-gia/",
+        "/thue-xe/thue-ngay/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "khách công tác",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-002",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Đặt xe thuê qua tin nhắn: chốt những gì bằng văn bản",
+      "intent": "Cách đặt xe máy thuê qua tin nhắn an toàn",
+      "kw": "đặt xe máy thuê qua tin nhắn",
+      "kw2": [
+        "chốt xe qua tin nhắn",
+        "đặt xe online"
+      ],
+      "links": [
+        "/thue-xe/thu-tuc/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "khách vãng lai",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-003",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Bàn giao xe khi trả muộn vài tiếng: xử lý lịch sự",
+      "intent": "Cách xử lý khi trả xe thuê muộn vài tiếng",
+      "kw": "trả xe thuê muộn vài tiếng",
+      "kw2": [
+        "trả xe trễ có sao không",
+        "báo trễ khi trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "khách vãng lai",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-004",
+      "child_id": "C-BAO-DUONG",
+      "title": "Tiếng lạ từ động cơ xe ga thuê: nhận biết sớm",
+      "intent": "Nhận biết tiếng lạ từ động cơ xe ga thuê",
+      "kw": "tiếng lạ động cơ xe ga",
+      "kw2": [
+        "xe ga có tiếng kêu lạ",
+        "động cơ xe ga bất thường"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/xe-ga/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "người đi làm",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-005",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Chạy thử cung đường Tây Hồ - Nhật Tân sáng sớm",
+      "intent": "Tìm cung đường chạy thử Tây Hồ Nhật Tân sáng sớm",
+      "kw": "cung đường tây hồ nhật tân",
+      "kw2": [
+        "chạy thử xe sáng sớm hà nội",
+        "tây hồ nhật tân xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/du-lich/ho-tay/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "khách du lịch",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-006",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Chống trộm phụ tùng khi gửi xe qua đêm",
+      "intent": "Cách chống trộm phụ tùng xe máy khi gửi qua đêm",
+      "kw": "chống trộm phụ tùng xe máy",
+      "kw2": [
+        "mất gương xe khi gửi xe",
+        "khóa phụ tùng xe"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "khách vãng lai",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-007",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe thuê hết xăng giữa phố: gọi ai và làm gì",
+      "intent": "Xử lý khi xe thuê hết xăng giữa phố",
+      "kw": "xe thuê hết xăng giữa phố làm gì",
+      "kw2": [
+        "hết xăng giữa phố",
+        "mua xăng giao tận nơi"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "người mới thuê xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
+    },
+    {
+      "candidate_id": "CAND-2026-10-03-008",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Thuê xe số và xe ga chạy đèo: dòng nào bền hơn",
+      "intent": "So sánh xe số và xe ga khi chạy cung đường đèo",
+      "kw": "xe số hay xe ga chạy đèo",
+      "kw2": [
+        "đèo nên chạy xe số",
+        "xe ga lên đèo"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/cung-duong/cung-duong-pho-bac/"
+      ],
+      "subtopic": "refill-2026-10-03",
+      "audience": "phượt thủ",
+      "location_scope": "miền bắc",
+      "word_target": 1400,
+      "materialized_at": "2026-10-03T02:35:45+00:00",
+      "materialized_head": "e20c3e1a351b4383d91dae8cc0fef3a2f9d28fc5"
     }
   ]
 }
