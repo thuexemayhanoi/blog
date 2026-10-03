@@ -62,7 +62,11 @@ FETCH FRESH MAIN
 → VERIFY (workflow green, Pages deploy, no lock/txn, queue report
   không fatal, đúng ID PUBLISHED/REPAIR)
 → RELEASE LEASE (writer-claim.py release --writer Wx --ids ...)
+→ CHECK QUEUE (queue.py --needs-refill, read-only)
+→ AUTO-REFILL NẾU THIẾU (coordinator chạy quy trình refill bên dưới,
+  không dừng chờ phê duyệt tay khi còn candidate/capacity hợp lệ)
 → FETCH FRESH MAIN
+→ writer-claim.py prune → CLAIM W1/W2/W3 lease mới
 → NEXT (KHÔNG dừng sau mỗi queue)
 ```
 
@@ -92,9 +96,11 @@ FETCH FRESH MAIN
   kế), pair PLANNED sau bị DEFERRED (resume-first); FAIL hạ tầng dừng
   cả queue run (draft còn xếp hàng trên main, push sau retry).
 - MATRIX là source of truth; checkpoint là derived state.
-- Refill: operator-only (`scripts/factory/refill-queue.py --dry-run`/
-  `--refill --yes` KHÔNG tự chạy trong loop; writer chỉ đọc trạng thái
-  read-only `scripts/factory/queue.py --needs-refill`).
+- Refill: COORDINATOR AUTO-REFILL (chính sách 2026-10-03): khi
+  `scripts/factory/queue.py --needs-refill` báo claimable PLANNED <
+  min_ready_queue, coordinator PHẢI tự xử lý refill theo quy trình
+  ở mục "Auto-refill procedure", không dừng chờ phê duyệt tay.
+  Writer vẫn chỉ đọc trạng thái read-only.
 
 ## Refill readiness (audit Phase 5 — đã sẵn sàng, chưa chạy)
 
@@ -108,7 +114,36 @@ FETCH FRESH MAIN
 - Trạng thái read-only cho continuous writer:
   `python3 scripts/factory/queue.py --stats | --needs-refill`
   (claimable PLANNED < min_ready_queue → cần refill).
-- Trong đợt migration này KHÔNG chạy refill thật.
+- Auto-refill chỉ nạp candidate THẬT đã qua gate; ledger hết
+  candidate STAGED và không batch/pool hợp lệ nào còn → coi là hết
+  candidate hợp lệ (điểm dừng, KHÔNG tạo filler).
+
+## Auto-refill procedure (coordinator — chạy khi queue thiếu)
+
+Thứ tự bắt buộc, sai điều kiện an toàn nào thì DỪNG ở checkpoint an
+toàn và báo, không sửa workflow, không hạ gate:
+
+1. FETCH FRESH origin/main.
+2. Xác nhận: transaction inactive; production lock free; không có
+   hàng REPAIR/QA/PASS unfinished; không có Factory Publish đang chạy.
+3. `python3 scripts/factory/refill-queue.py --dry-run` — gate G1-G8
+   phải PASS (không rejection thật).
+4. Ledger hết candidate STAGED nhưng còn candidate/capacity hợp lệ:
+   stage topic THẬT qua đúng cung
+   (`stage-refill-batch.py --batch ...` với batch qua gate G1-G8);
+   KHÔNG tạo filler, KHÔNG đệm số.
+5. PASS hết → `python3 scripts/factory/refill-queue.py --refill --yes`
+   (lock atomic O_EXCL + START_HEAD + transaction inactive được script
+   tự kiểm; môi trường không có git binary thì HEAD pin là remote main
+   SHA đã fetch và xác minh ngay trước khi chạy).
+6. `python3 scripts/factory/validate.py` (full) — FAIL checkpoint lệch
+   thì chạy `generate-reports.py` rồi validate lại; vẫn FAIL → dừng.
+7. COMMIT + PUSH fast-forward lên main (KHÔNG force push).
+8. FETCH FRESH main → `writer-claim.py prune` → W1/W2/W3 claim lease
+   mới → tiếp tục WRITE bình thường.
+
+Chỉ dừng khi: refill G1-G8 FAIL thật; hết candidate hợp lệ; hết
+capacity; transaction/lock mơ hồ; publisher fatal; cần force/reset.
 
 ## Verify (gates theo scope)
 
