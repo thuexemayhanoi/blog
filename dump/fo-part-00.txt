@@ -1,0 +1,600 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""FACTORY OPERATOR — tay deterministic cho writer ngoài (external AI).
+
+Mô hình (docs/PROC-PUBLISH.md — hợp đồng 6 workflow):
+  EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write)
+    -> commit/push draft vào `_drafts/` (2..10 bài mỗi push)
+    -> factory-publish.yml tự chạy đường nóng trên push main
+       (selection EXACT ID trong workflow chọn queue rồi chia pair 2;
+       KHÔNG cần dispatch next/qa/publish cho các bài thường;
+       workflow_dispatch không còn op sản xuất — op bảo trì như
+       status | recover | refill | diagnostics chạy local)
+    -> GitHub Actions (checkout + Python + tooling chuẩn)
+    -> scripts/factory/factory-operator.py (file này)
+
+File này KHÔNG chứa AI, KHÔNG viết prose bài, KHÔNG bịa số liệu.
+Mọi thao tác là deterministic trên engine chuẩn của /blog:
+  - writer lock O_EXCL + ownership token (scripts/factory/publish-gate.py)
+  - transaction + checkpoint chuẩn
+  - publish-gate.py là cơ chế promote DUY NHẤT
+  - refill-queue.py là refill DUY NHẤT
+
+Ops whitelist:
+  status                                  — in trạng thái (read-only)
+  prepare-next [--count N | --ids ID1,ID2]— claim N hàng PLANNED (mặc định
+                                            production-control chunk_size=2, tối đa 10)
+                                            hoặc claim EXACT các ID writer đã push
+                                            (đường nóng push: --ids, tối đa chunk_size)
+  qa [--ids ID1,ID2] [--scope fast|deep|full]
+                                          — QA deterministic cho hàng WRITING/QA/REPAIR
+  publish --ids ID1,ID2 [--scope fast|deep|full]
+                                          — promote hàng PASS qua publish-gate.py
+  release-chunk [--ids ID1,ID2]           — trả chunk WRITING chưa có draft về PLANNED
+                                            (pause an toàn: KHÔNG đụng hàng có draft/QA)
+  recover                                — phục hồi transaction treo theo RECOVERY.md
+  requeue --ids ID1                       — REPAIR/FAIL -> WRITING (tôn trọng budget)
+  verify [--scope fast|deep|full]        — validate + capacity-audit + queue + tests
+  refill                                 — chỉ khi dưới ngưỡng: materialize ledger qua
+                                          refill-queue.py --refill --yes, tái sinh
+                                          matrix, cập nhật checkpoint; SUCCESS bắt
+                                          buộc tạo hàng PLANNED thật (semantic), hết
+                                          candidate STAGED -> NEEDS_TOPIC_EXPANSION
+                                          (exit 1, KHÔNG filler)
+  reports                                — sinh reports/factory/*.md chuẩn
+
+QA SCOPE (docs/PROC-PUBLISH.md "QA modes" — sản xuất thủ công, KHÔNG tự lặp):
+  fast (mặc định)  — validate.py --scope chunk: CHỈ chunk hiện tại + nền bắt
+                     buộc. Đây là QA sản xuất cho mỗi cặp 2 bài; KHÔNG
+                     chạy audit toàn site. Ngưỡng KHÔNG đổi giữa các mức:
+                     quality>=75, seo>=70, business_fact/legal PASS-FAIL giữ nguyên.
+  deep             — validate.py --scope batch: nền + inventory/matrix/hub
+                     rộng hơn, không quét sitemap live. Chạy thủ công (~50 bài).
+  full             — validate.py --scope full: toàn repository kèm sitemap
+                     live. Chạy thủ công/định kỳ; KHÔNG phải điều kiện xuất
+                     bản mỗi chunk.
+
+Thoát: 0 = thành công; 1 = từ chối an toàn (không mutate); 2 = lỗi dữ liệu.
+"""
+import argparse
+import csv
+import datetime
+import difflib
+import glob
+import hashlib
+import importlib.util
+import json
+import os
+import re
+import shutil
+import subprocess
+import sys
+import urllib.parse
+import uuid
+
+ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+os.chdir(ROOT)
+
+MATRIX = 'data/content-matrix.csv'
+QA_DIR = 'data/qa'
+ROWS_DIR = 'reports/factory/rows'
+TXN = 'data/state/transaction.json'
+CP = 'data/state/checkpoint.json'
+LOCK = 'data/state/writer-lock.json'
+LOCK_FILE = 'data/state/writer-lock.active'
+
+MAX_CHUNK = 10
+DEFAULT_CHUNK = 2
+REPAIR_BUDGET = 3
+QUALITY_MIN = 75
+SEO_MIN = 70
+# Ngưỡng near-duplicate intent (norm_title + SequenceMatcher): chỉ
+# bắn khi hai intent gần trùng nguyên câu (>= 0.97). Corpus long-tail
+# hợp lệ có các cặp 0.90-0.963 (nhóm giá thuê theo ngày/tuần/tháng);
+# floor thấp hơn sẽ cầm nhầm bài thật là trùng.
+INTENT_NEAR_FLOOR = 0.97
+
+# QA modes (docs/PROC-PUBLISH.md): fast = validate scope chunk (mặc định cho
+# sản xuất 10 bài), deep = scope batch, full = scope full. KHÔNG hạ ngưỡng.
+QA_MODES = ('fast', 'deep', 'full')
+
+CONTROL = 'data/factory/production-control.json'
+
+
+def load_control():
+    """Đọc data/factory/production-control.json (durable on/off switch).
+    Thiếu/hỏng file -> mặc định an toàn: enabled=true, chunk_size=2
+    (hợp đồng docs/factory-workflow-contract.md)."""
+    try:
+        c = read_json(CONTROL, {}) or {}
+        return {'enabled': bool(c.get('enabled', True)),
+                'chunk_size': int(c.get('chunk_size', DEFAULT_CHUNK))}
+    except Exception:
+        return {'enabled': True, 'chunk_size': DEFAULT_CHUNK}
+
+
+def validate_scope_for_mode(mode):
+    """Map QA mode -> validate.py scope. Chế độ lạ -> full (an toàn)."""
+    return {'fast': 'chunk', 'deep': 'batch'}.get(mode, 'full')
+
+# ---------------------------------------------------------------- engine load
+
+_spec = importlib.util.spec_from_file_location(
+    'publish_gate', os.path.join(ROOT, 'scripts/factory/publish-gate.py'))
+pg = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(pg)  # publish-gate tự os.chdir(ROOT)
+
+
+def now_iso():
+    return datetime.datetime.now(datetime.timezone.utc).strftime(
+        '%Y-%m-%dT%H:%M:%S+00:00')
+
+
+def today():
+    return datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%d')
+
+
+def read_json(path, default=None):
+    if os.path.exists(path):
+        return json.load(open(path, encoding='utf-8'))
+    return default
+
+
+def write_json_atomic(path, obj):
+    tmp = path + '.tmp'
+    with open(tmp, 'w', encoding='utf-8') as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+        f.flush()
+        os.fsync(f.fileno())
+    os.replace(tmp, path)
+
+
+def load_matrix():
+    with open(MATRIX, encoding='utf-8', newline='') as f:
+        return list(csv.DictReader(f))
+
+
+def save_matrix(rows):
+    fields = list(rows[0].keys())
+    with open(MATRIX, 'w', encoding='utf-8', newline='') as f:
+        w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
+        w.writeheader()
+        w.writerows(rows)
+
+
+def bail(msg, release=None):
+    print('=== OPERATOR: TỪ CHỐI AN TOÀN ===')
+    print(msg)
+    if release is not None:
+        try:
+            release()
+        except Exception:
+            pass
+    sys.exit(1)
+
+
+# ---------------------------------------------------------------- lock helper
+
+def lock_held_by_other():
+    """True nếu sentinel tồn tại hoặc metadata locked=true mà không phải do
+    tiến trình này. KHÔNG bao giờ force-unlock ownership không rõ (RECOVERY.md)."""
+    if os.path.exists(LOCK_FILE):
+        meta = read_json(LOCK, {}) or {}
+        return True, meta
+    meta = read_json(LOCK, {}) or {}
+    if meta.get('locked'):
+        # sentinel không còn nhưng metadata mồ côi -> lock treo, cần recover
+        return True, meta
+    return False, meta
+
+
+def with_lock(holder):
+    """Acquire lock chuẩn (token UUID, O_EXCL). Trả về release()."""
+    return pg.acquire_lock(holder)
+
+
+# ---------------------------------------------------------------- preflight
+
+def preflight(require_clean_txn=True, scope='chunk'):
+    """Kiểm tra trước mọi op mutating. Trả về (txn, cp, rows).
+
+    scope: phạm vi validate.py (chunk/batch/full). Mặc định 'chunk' —
+    FAST QA: chỉ chunk hiện tại + nền bắt buộc, KHÔNG audit toàn site
+    cho mỗi cặp 2 bài (docs/PROC-PUBLISH.md). Ngưỡng QA không đổi."""
+    ok = subprocess.run([sys.executable, 'scripts/factory/validate.py',
+                         '--scope', scope],
+                        capture_output=True, text=True)
+    if ok.returncode != 0:
+        print(ok.stdout[-2000:])
+        bail('validate.py FAIL (scope=%s) — không được mutate khi engine lệch.' % scope)
+
+    txn = read_json(TXN, {'active': False, 'pending': None, 'history': []})
+    if require_clean_txn and txn.get('active'):
+        bail('transaction đang active (%s) — chạy op recover trước, '
+             'KHÔNG nhận việc mới khi còn transaction treo.' % txn.get('pending'))
+
+    held, meta = lock_held_by_other()
+    if held:
+        bail('writer-lock đang được giữ (holder=%s, token=%s) — từ chối; '
+             'không force-unlock ownership không rõ (docs/RECOVERY.md).'
+             % (meta.get('holder'), meta.get('token')))
+
+    cp = read_json(CP)
+    rows = load_matrix()
+    return txn, cp, rows
+
+
+def update_checkpoint(cp, rows, extra=None):
+    counts = cp.setdefault('counts', {})
+    for st in ('planned', 'writing', 'qa', 'pass', 'published',
+               'repair', 'blocked', 'fail'):
+        counts[st] = sum(1 for r in rows if r['status'] == st.upper())
+    cp['updated_at'] = now_iso()
+    if extra:
+        cp.update(extra)
+    write_json_atomic(CP, cp)
+
+
+# ---------------------------------------------------------------- research class
+
+def research_class(row, tax):
+    if row['source_required'] == 'true' or row['legal_risk'] == 'high':
+        return 'C'
+    if 'PHAP' in row['parent_id'].upper():
+        return 'C'
+    if row['parent_hub'] in ('du-lich', 'cung-duong') or \
+            row['group'] in ('DU-LICH', 'CUNG-DUONG') or \
+            (row.get('location_scope') or ''):
+        return 'B'
+    return 'A'
+
+
+# ---------------------------------------------------------------- manifests
+
+def public_url(url):
+    """URL công khai chính xác như site phục vụ (đồng nhất sitemap):
+    percent-encode khoảng trắng/Unicode, KHÔNG đổi slug. URL legacy
+    (ví dụ /blog/du lịch/2026/09/13/...) chỉ được encode — tuyệt đối
+    không tự viết lại thành /du-lich/ khi route đó không tồn tại."""
+    return urllib.parse.quote(url or '', safe='/:')
+
+
+def related_published(rows, row):
+    out = []
+    seen = set()
+    for r in rows:
+        if r['id'] == row['id']:
+            continue
+        if r['status'] not in ('PUBLISHED', 'EXISTING'):
+            continue
+        if r['child_id'] == row['child_id'] or r['parent_id'] == row['parent_id']:
+            url = public_url(r['expected_url'])
+            if url in seen:
+                continue
+            seen.add(url)
+            out.append({'id': r['id'], 'title': r['title'], 'url': url})
+    return out[:8]
+
+
+def export_manifest(row, tax, biz, rows, draft_date):
+    parents = {p['parent_id']: p for p in tax['parents']}
+    children = {c['child_id']: c for c in tax['children']}
+    p, c = parents[row['parent_id']], children[row['child_id']]
+    date_url = '%s/%s/%s' % (draft_date[:4], draft_date[5:7], draft_date[8:])
+    slug = row['output_path'][len('_posts/{date}-'):-3] \
+        if row['output_path'].startswith('_posts/{date}-') else row['slug']
+    manifest = {
+        'article_id': row['id'],
+        'status': row['status'],
+        'title': row['title'],
+        'intent': row['intent'],
+        'primary_keyword': row['primary_keyword'],
+        'secondary_keywords': row['secondary_keywords'].split('; ')
+        if row['secondary_keywords'] else [],
+        'group': row['group'],
+        'taxonomy': {
+            'parent_id': p['parent_id'], 'parent_hub': p['title'],
+            'parent_hub_url': p['hub_url'],
+            'child_id': c['child_id'], 'child_hub': c['title'],
+            'child_hub_url': c['hub_url'],
+        },
+        'expected_url': row['expected_url'].replace('{date}', date_url),
+        'output_path': row['output_path'],
+        'draft_path': '_drafts/%s-%s.md' % (draft_date, slug),
+        'canonical_url': row['canonical_url'].replace('{date}', date_url),
+        'internal_links_matrix': row['internal_links'].split('; ')
+        if row['internal_links'] else [],
+        'commercial_intent': row['commercial_intent'],
+        'cannibalization_key': row['cannibalization_key'],
+        'word_target': int(row['word_target'] or 1200),
+        'business_facts': {
+            'source': 'data/business-facts.json',
+            'approved_pricing': biz['approved_pricing'],
+            'verified_facts': biz['verified_facts'],
+            'forbidden_claims': biz['forbidden_claims'],
+        },
+        'source_required': row['source_required'] == 'true',
+        'legal_risk': row['legal_risk'],
+        'research_class': research_class(row, tax),
+        'internal_link_candidates': related_published(rows, row),
+        'qa_thresholds': {
+            'quality_min': QUALITY_MIN, 'seo_min': SEO_MIN,
+            'business_fact': 'PASS',
+            'legal': 'PASS' if row['source_required'] == 'true'
+            or row['legal_risk'] == 'high' else 'NOT_REQUIRED',
+        },
+        'matrix_row_sha256': pg.matrix_row_sha256(row),
+        'notes': 'Writer ngoài viết draft đúng draft_path, tuân theo '
+                 'docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, '
+                 'docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. '
+                 'QA op chấm deterministic; publish chỉ qua publish-gate.py.',
+    }
+    os.makedirs(ROWS_DIR, exist_ok=True)
+    path = os.path.join(ROWS_DIR, row['id'] + '.json')
+    write_json_atomic(path, manifest)
+    return path
+
+
+# ---------------------------------------------------------------- QA scorer
+
+APPROVED_AMOUNTS = set()
+
+
+def build_amount_whitelist(biz):
+    for _name, rates in biz['approved_pricing'].items():
+        if not isinstance(rates, dict):
+            continue
+        for period in ('day', 'week', 'month'):
+            v = rates.get(period)
+            if isinstance(v, (int, float)):
+                APPROVED_AMOUNTS.add(int(v))
+            elif isinstance(v, str) and '-' in v:
+                try:
+                    lo, hi = [int(x) for x in v.split('-')]
+                    for n in range(lo, hi + 1, 50000):
+                        APPROVED_AMOUNTS.add(n)
+                except ValueError:
+                    pass
+    # thêm số 0 và các mốc phạm vi lề cho an toàn hiển thị
+    APPROVED_AMOUNTS.add(0)
+
+
+FORBIDDEN_RE = [re.compile(p) for p in [
+    r'khuyễn?\s?mãi|khuyến\s?mãi|khuyến\s?mại|giảm\s?giá',
+    r'24/7|24/24',
+    r'\b\d+\s*năm kinh nghiệm\b',
+    r'cam kết hoàn tiền|bảo hành',
+    r'thứ hạng|giải thưởng|top\s?\d',
+    r'\d+\s*(khách|lượt)\s*(đã|đã từng)?\s*(phục vụ|thuê)',
+    r'phí giao xe[^.]*\d',
+    r'miễn phí giao',
+]]
+
+GOV_SOURCE_RE = re.compile(
+    r'https?://[^\s\)]*'
+    r'(chinhphu\.vn|moda\.gov\.vn|gov\.vn|csgt\.vn|luatvietnam\.vn)', re.I)
+LEGAL_DISCLAIMER = 'có thể thay đổi'
+HANOI_MARKERS = [
+    'Hà Nội', 'Long Biên', 'Bồ Đề', 'Nguyễn Văn Cừ', 'Hoàn Kiếm',
+    'Hồ Gươm', 'Ba Đình', 'Cầu Giấy', 'Tây Hồ', 'Hà Đông', 'Gia Lâm',
+    'Văn Miếu', 'Đông Anh', 'Sóc Sơn', 'Thanh Xuân', 'Hai Bà Trưng',
+    'Hoàng Mai', 'Nam Từ Liêm', 'Bắc Từ Liêm', 'Mê Linh', 'Phú Xuyên',
+    'Thường Tín', 'Đan Phượng', 'Chương Mỹ', 'Mỹ Đức',
+]
+
+
+
+# ---------------------------------------------------- canonical route truth
+# Base URL của site (GitHub Pages Jekyll): mọi liên kết nội bộ công khai
+# PHẢI bắt đầu bằng /blog. Route thật sinh deterministic từ repository:
+# frontmatter permalink của mọi trang + URL Jekyll của bài legacy.
+# KHÔNG gọi network — route được kiểm against cây nguồn.
+
+def _site_baseurl():
+    cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
+    m = re.search(r'^baseurl:\s*["\']?([^"\'\s#]+)', cfg, re.M)
+    if not m or not m.group(1).startswith('/'):
+        raise SystemExit('QA: không đọc được baseurl /blog từ _config.yml')
+    return m.group(1).rstrip('/')
+
+
+BASEURL = None
+_ROUTES = None
+
+
+def canonical_routes():
+    """Tập route công khai dạng baseurl-đầy-đủ (/blog/...) từ repo truth."""
+    global BASEURL, _ROUTES
+    if _ROUTES is not None:
+        return _ROUTES
+    BASEURL = _site_baseurl()
+    routes = set()
+    excluded = {'scripts', 'assets', 'data', 'reports', 'docs', 'en',
+                '_queue', '_drafts', 'gemfiles', 'node_modules',
+                'vendor', '.git', '.jekyll-cache', '.sass-cache',
+                '__pycache__'}
+    for root, dirs, files in os.walk(ROOT):
+        dirs[:] = [d for d in dirs if d not in excluded]
+        for fn in files:
+            if not fn.endswith(('.md', '.html')):
+                continue
+            path = os.path.join(root, fn)
+            try:
+                text = open(path, encoding='utf-8').read()[:2500]
+            except (OSError, UnicodeDecodeError):
+                continue
+            pm = re.search(r'^permalink:\s*(/\S*)', text, re.M)
+            if pm and pm.group(1):
+                routes.add(BASEURL + pm.group(1))
+    # bài legacy _posts không có permalink: URL do Jekyll tính
+    # /blog/<category>/<Y>/<M>/<D>/<slug>/ (kèm biến thể lệch ngày UTC
+    # vì Jekyll chuẩn hoá timezone — thêm cả hai để không false FAIL).
+    posts_dir = os.path.join(ROOT, '_posts')
+    for fn in sorted(os.listdir(posts_dir)):
+        head = open(os.path.join(posts_dir, fn), encoding='utf-8').read()[:2500]
+        if re.search(r'^permalink:', head, re.M):
+            continue
+        cm = re.search(r'^categories:\s*\[[^\]]*\]', head, re.M)
+        dm = re.search(r'^date:\s*(\d{4})-(\d{2})-(\d{2})[ T](\d{2}):(\d{2})'
+                       r'(?::(\d{2}))?\s*([+-]\d{2})(\d{2})?', head, re.M)
+        if not (cm and dm):
+            continue
+        # Jekyll lowercase category khi sinh URL (/kinh nghiệm/, /du lịch/)
+        # — không lowercase thì route truth lệch HOA/thường so với
+        # inventory/sitemap công khai và mọi link tới bài legacy FAIL.
+        cat = re.sub(r'^categories:\s*\[\s*|\s*\]\s*$', '',
+                     cm.group(0)).strip().lower()
+        y, mo, d = dm.group(1), dm.group(2), dm.group(3)
+        slug = fn[11:-3]
+        base = '%s/%s/' % (BASEURL, cat)
+        routes.add('%s%s/%s/%s/%s/' % (base, y, mo, d, slug))
+        # biến thể UTC (+07:00 phổ biến của site này -> ngày trừ 1)
+        try:
+            import datetime as _dt
+            off = int(dm.group(7))
+            t = _dt.datetime(int(y), int(mo), int(d)) - _dt.timedelta(hours=off)
+            routes.add('%s%04d/%02d/%02d/%s/' % (base, t.year, t.month, t.day, slug))
+        except Exception:
+            pass
+    _ROUTES = routes
+    return routes
+
+
+def link_route_ok(link):
+    """Liên kết nội bộ chỉ PASS khi (1) có đủ baseurl /blog và
+    (2) trỏ tới route thật trong cây nguồn. Anchor được tách trước
+    khi đối chiếu; liên kết ngoài/anchor thuần không thuộc site."""
+    link = (link or '').strip()
+    if (not link or link.startswith('#')
+            or link.startswith(('http://', 'https://', 'mailto:', 'tel:'))):
+        return True
+    if BASEURL is None:
+        canonical_routes()   # khởi tạo BASEURL + route truth lần đầu
+    if not link.startswith(BASEURL + '/'):
+        return False
+    route = link.split('#', 1)[0].strip()
+    # URL legacy chứa khoảng trắng/Unicode: writer có thể viết dạng raw
+    # (/blog/du lịch/...) hoặc dạng percent-encoded (/blog/du%20l%E1%BB%8Bch/)
+    # — cả hai trỏ cùng một route thật; decode trước khi đối chiếu.
+    route = urllib.parse.unquote(route)
+    if not route.endswith('/'):
+        route += '/'
+    return route in canonical_routes()
+
+def norm_title(t):
+    return re.sub(r'[^\w\sàáảãạăằắẳẵặâấầẩẫậèéẻẽẹêếềểễệìíỉĩịòóỏõọôồốổỗộơờớởỡợùúủũụưừứửữựỳýỷỹỵđ]',
+                 '', (t or '').lower()).strip()
+
+
+def find_draft(row):
+    slug = row['output_path']
+    if slug.startswith('_posts/{date}-'):
+        slug = slug[len('_posts/{date}-'):-3]
+    else:
+        m = re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+)\.md$', slug)
+        if not m:
+            return None
+        slug = m.group(1)
+    hits = sorted(glob.glob('_drafts/*-%s.md' % slug))
+    return (hits[0], slug) if hits else (None, slug)
+
+
+def parse_frontmatter(text):
+    fm = re.match(r'^---\n(.*?)\n---', text, re.S)
+    if not fm:
+        return None, ''
+    front = {}
+    for line in fm.group(1).splitlines():
+        m = re.match(r'([a-z_]+):\s*(.*)$', line)
+        if m:
+            front[m.group(1)] = m.group(2).strip().strip('"')
+    body = text[fm.end():]
+    return front, body
+
+
+def vnd_amounts(body):
+    return set(int(m.replace('.', '')) for m in
+               re.findall(r'\b\d{1,3}(?:\.\d{3})+\b', body))
+
+
+def internal_links_in(body):
+    # cho phép neo # (anchor): matrix có liên kết bắt buộc dạng
+    # /bang-gia/#tinh-gia — regex cũ loại '#' khiến QA không bao giờ thấy
+    # liên kết này, dù trang đích tồn tại và hợp lệ.
+    # URL legacy còn chứa khoảng trắng/Unicode thô (/blog/du lịch/...):
+    # phải thấy được liên kết đó thay vì bỏ qua (QA mù link thật).
+    # Title markdown (](url "tiêu đề")) bị tách trước khi đối chiếu.
+    links = []
+    for m in re.findall(r'\]\((/[^)]+)\)', body):
+        m = m.split(' "')[0].strip()
+        if m:
+            links.append(m)
+    return links
+
+
+def qa_check_one(row, rows, biz, tax):
+    """Trả về dict bằng chứng QA deterministic cho một hàng.
+    Không bao giờ bịa điểm: mỗi tiêu chí chấm bằng kiểm tra đo được."""
+    aid = row['id']
+    ev = {
+        'article_id': aid,
+        'title': row['title'],
+        'scored_at': now_iso(),
+        'scorer': 'operator-qa-deterministic-v1',
+        'checks': {},
+    }
+    draft, slug = find_draft(row)
+    if draft is None:
+        ev.update({'result': 'NO_DRAFT',
+                   'message': 'không tìm thấy draft _drafts/*-%s.md' % slug})
+        return ev
+    text = open(draft, encoding='utf-8').read()
+    front, body = parse_frontmatter(text)
+    checks = ev['checks']
+
+    # ---- cấu trúc draft
+    checks['frontmatter_fields'] = all(
+        k in front for k in ('title', 'date', 'description', 'permalink',
+                             'article_id', 'parent_id', 'child_id')) \
+        if front else False
+    checks['draft_date'] = bool(front and re.match(
+        r'\d{4}-\d{2}-\d{2}', front.get('date', '')) and
+        os.path.basename(draft).startswith(front['date'][:10]))
+    checks['slug_match'] = os.path.basename(draft) == '%s-%s.md' % (
+        front['date'][:10], slug) if front else False
+    d = front.get('date', '')[:10] if front else ''
+    date_url = '%s/%s/%s' % (d[:4], d[5:7], d[8:]) if d else ''
+    # permalink trong file là đường dẫn gốc-tương-đối (không tiền tố /blog,
+    # baseurl thêm khi render); canonical_url/expected_url là URL công khai.
+    expected_permalink = re.sub(r'^/blog', '',
+                               row['canonical_url'].replace('{date}', date_url))
+    checks['permalink_canonical'] = front and front.get('permalink') == \
+        expected_permalink
+
+    # ---- words
+    words = body.split()
+    target = int(row['word_target'] or 1200)
+    checks['word_count'] = abs(len(words) - target) <= 0.15 * target
+    ev['word_count'] = len(words)
+    ev['word_target'] = target
+
+    # ---- SEO checks
+    checks['title_match'] = front and norm_title(front.get('title', '')) == \
+        norm_title(row['title'])
+    desc = front.get('description', '') if front else ''
+    checks['description_length'] = 140 <= len(desc) <= 160
+    checks['description_keyword'] = (row['primary_keyword'] or '').lower() in desc.lower()
+    h2s = re.findall(r'^##\s+(.+)$', body, re.M)
+    h3s = re.findall(r'^###\s+(.+)$', body, re.M)
+    checks['h2_min'] = len(h2s) >= 2
+    checks['no_h1_in_body'] = not re.search(r'^#\s+\S', body, re.M)
+    heading_text = ' '.join(h2s + h3s).lower()
+    sec_kw = row['secondary_keywords'].lower()
+    checks['headings_intent'] = (row['primary_keyword'].lower() in heading_text
+                                or (sec_kw and sec_kw in heading_text)
+                                or row['intent'].lower() in heading_text)
+
+    links = internal_links_in(body)
+    required = [l for l in (row['internal_links'].split('; ')
+                            if row['internal_links'] else []) if l]
+    

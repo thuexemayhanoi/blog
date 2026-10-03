@@ -1,0 +1,529 @@
+checks['links_matrix_required'] = all(any(l.startswith(r) for l in links)
+                                          for r in required)
+    parents = {p['parent_id']: p for p in tax['parents']}
+    children = {c['child_id']: c for c in tax['children']}
+    # hub trong taxonomy là URL công khai dạng /blog/... — liên kết trong
+    # bài PHẢI mang đúng baseurl, không strip /blog nữa (QA hardening:
+    # prefix khớp kiểu cũ cho /thue-xe/... chạy 404 là lỗi thật).
+    hub = parents[row['parent_id']]['hub_url']
+    checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
+    checks['links_count'] = 3 <= len(links) <= 8
+    # route thật từ repository truth — liên kết chỉ PASS khi có /blog
+    # VÀ trỏ tới route tồn tại (không chấp nhận khớp prefix suông).
+    checks['links_routes_valid'] = all(link_route_ok(l) for l in links)
+    ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)))
+    checks['no_hardcoded_blog'] = not re.search(r'\]\(.*\/blog\/blog', body) \
+        and '/blog/blog/' not in body
+
+    # ---- cannibalization
+    norm = norm_title(row['title'])
+    clash = [r['id'] for r in rows
+             if r['id'] != aid and r['status'] in ('PUBLISHED', 'EXISTING', 'REVIEW')
+             and (r['child_id'] == row['child_id'])
+             and (norm_title(r['title']) == norm
+                  or (row['primary_keyword'] and
+                      r['primary_keyword'] == row['primary_keyword']))]
+    checks['cannibalization'] = not clash
+    ev['cannibalization_clash'] = clash
+
+    # ---- hard gates chống trùng (REPAIR ngay, không phụ thuộc điểm)
+    # So với MỌI hàng active — không chỉ PUBLISHED/REVIEW cùng child
+    # như cannibalization ở trên: trùng title, trùng slug/canonical/
+    # expected_url/output_path, intent gần trùng nguyên câu.
+    ACTIVE_ROWS = ('PUBLISHED', 'EXISTING', 'REVIEW', 'PLANNED',
+                   'WRITING', 'QA', 'PASS')
+    others = [r for r in rows
+              if r['id'] != aid and r['status'] in ACTIVE_ROWS]
+    # .get(): hàng synthetic của unit test có thể thiếu cột mở rộng.
+    my_urls = set(u for u in (row.get('canonical_url', '').replace(
+                                  '{date}', date_url),
+                              row.get('expected_url', ''),
+                              row.get('slug', ''),
+                              row.get('output_path', '')) if u)
+    dup_title = [r['id'] for r in others
+                 if norm_title(r.get('title', '')) == norm]
+    dup_slug = [r['id'] for r in others
+                if any(u and u in my_urls for u in
+                       (r.get('canonical_url', '').replace('{date}',
+                                                            date_url),
+                        r.get('expected_url', ''), r.get('slug', ''),
+                        r.get('output_path', '')))]
+    my_intent = norm_title(row.get('intent', ''))
+    intent_near = [r['id'] for r in others
+                   if my_intent and r.get('intent')
+                   and difflib.SequenceMatcher(
+                       None, my_intent,
+                       norm_title(r['intent'])).ratio()
+                   >= INTENT_NEAR_FLOOR]
+    checks['duplicate_title'] = not dup_title
+    checks['duplicate_slug'] = not dup_slug
+    checks['intent_unique'] = not intent_near
+    ev['duplicate_title_clash'] = dup_title
+    ev['duplicate_slug_clash'] = dup_slug
+    ev['intent_unique_clash'] = intent_near
+
+    # ---- quality proxies
+    opening = ' '.join(body.split()[:60])
+    checks['intent_opening'] = (row['primary_keyword'].lower() in opening.lower()
+                                or row['intent'].lower() in opening.lower())
+    checks['hanoi_example'] = any(m in body for m in HANOI_MARKERS)
+    sents = [s.strip() for s in re.split(r'[.!?]\s', body) if len(s.strip()) > 40]
+    dup = len(sents) != len(set(sents))
+    paras = [p for p in body.split('\n\n') if p.strip()]
+    checks['reads_naturally_proxy'] = (not dup
+                                      and all(len(p.split()) <= 160 for p in paras))
+    checks['no_placeholder'] = ('lorem' not in body.lower()
+                               and 'MẪU NHẬP BÀI' not in body)
+
+    # ---- business facts (PASS-FAIL, không cho điểm)
+    amounts = vnd_amounts(body)
+    bad = sorted(a for a in amounts if a not in APPROVED_AMOUNTS)
+    checks['business_amounts'] = not bad
+    ev['non_approved_amounts'] = bad
+    forbidden = [p.pattern for p in FORBIDDEN_RE if p.search(body)]
+    checks['forbidden_claims'] = not forbidden
+    ev['forbidden_hits'] = forbidden
+    phone = biz['verified_facts']['phone'].replace(' ', '')
+    phone_hits = re.findall(r'0\d{9}', body.replace(' ', ''))
+    checks['phone_ok'] = all(p == phone for p in phone_hits)
+
+    # ---- legal
+    src_req = row['source_required'] == 'true' or row['legal_risk'] == 'high'
+    if src_req:
+        checks['legal_source'] = bool(GOV_SOURCE_RE.search(body))
+        checks['legal_disclaimer'] = LEGAL_DISCLAIMER in body
+        legal = 'PASS' if (checks['legal_source'] and checks['legal_disclaimer']) \
+            else 'FAIL'
+    else:
+        legal = 'NOT_REQUIRED'
+
+    critical = not (checks['business_amounts'] and checks['forbidden_claims']
+                    and checks['phone_ok'] and checks['no_placeholder']
+                    and checks['links_routes_valid']
+                    and checks['duplicate_title'] and checks['duplicate_slug']
+                    and checks['intent_unique'])
+
+    # ---- điểm theo trọng số QUALITY-RUBRIC.md
+    q_crit = [('intent_opening', 25), ('hanoi_example', 25),
+              ('reads_naturally_proxy', 20), ('business_amounts', 20),
+              ('no_placeholder', 10)]
+    s_crit = [('title_match', 20), ('description_length', 15),
+              ('headings_intent', 20), ('links_count', 15),
+              ('cannibalization', 20), ('permalink_canonical', 10)]
+    quality = sum(w for k, w in q_crit if checks.get(k))
+    seo = sum(w for k, w in s_crit if checks.get(k))
+    # business_fact là cổng PASS-FAIL riêng; chỉ tính điểm khi cổng sạch
+    business_fact = 'PASS' if (checks['business_amounts']
+                               and checks['forbidden_claims']
+                               and checks['phone_ok']) else 'FAIL'
+
+    ev.update({
+        'quality': quality,
+        'seo': seo,
+        'business_fact': business_fact,
+        'legal': legal,
+        'critical_failure': critical,
+        'checks': checks,
+        'source_path': draft,
+        'content_sha256': hashlib.sha256(
+            open(draft, 'rb').read()).hexdigest(),
+        'matrix_row_sha256': pg.matrix_row_sha256(row),
+    })
+    ev['result'] = 'PASS' if (quality >= QUALITY_MIN and seo >= SEO_MIN
+                              and business_fact == 'PASS'
+                              and legal in ('PASS', 'NOT_REQUIRED')
+                              and not critical) else 'REPAIR'
+    # Phân loại mức sản xuất (docs/QUALITY-RUBRIC.md): 75/70 — đạt là
+    # PUBLISH thẳng, KHÔNG ép 90/100; 90+ cả hai chỉ ghi nhãn EXCELLENT,
+    # không bắt tối ưu thêm (bài >= 75/70 không sửa chỉ để tăng điểm).
+    if ev['result'] == 'PASS':
+        ev['grade'] = ('EXCELLENT' if (quality >= 90 and seo >= 90)
+                       else 'PASS')
+    else:
+        ev['grade'] = 'REPAIR'
+    return ev
+
+
+def op_qa(args, biz, tax):
+    mode = getattr(args, 'scope', None) or 'fast'
+    if mode not in QA_MODES:
+        bail('qa: scope phải là %s' % ','.join(QA_MODES))
+    vscope = validate_scope_for_mode(mode)
+    txn, cp, rows = preflight(scope=vscope)
+    ids = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
+    if not ids:
+        ids = [r['id'] for r in rows if r['status'] in ('WRITING', 'QA', 'REPAIR')]
+    if not ids:
+        print('qa: không có hàng nào cần chấm (WRITING/QA/REPAIR trống).')
+        return 0
+    holder = 'operator-qa-%s' % uuid.uuid4().hex[:8]
+    release = with_lock(holder)
+    try:
+        by_id = {r['id']: r for r in rows}
+        outcomes = {}
+        for aid in ids:
+            if aid not in by_id:
+                print('qa: KHÔNG có %s trong matrix — bỏ qua' % aid)
+                continue
+            row = by_id[aid]
+            if row['status'] in ('PLANNED', 'PUBLISHED', 'EXISTING',
+                                 'REVIEW', 'BLOCKED'):
+                print('qa: %s trạng thái %s được bảo vệ — không chấm'
+                      % (aid, row['status']))
+                continue
+            ev = qa_check_one(row, rows, biz, tax)
+            os.makedirs(QA_DIR, exist_ok=True)
+            write_json_atomic(os.path.join(QA_DIR, aid + '.json'), ev)
+            if ev.get('result') == 'NO_DRAFT':
+                row['status'] = 'WRITING'
+                row['notes'] = (row['notes'] + ' | ' if row['notes'] else '') + \
+                    'QA %s: chưa có draft' % now_iso()
+                outcomes[aid] = 'NO_DRAFT'
+                print('qa %s: NO_DRAFT — giữ WRITING' % aid)
+                continue
+            if ev['result'] == 'PASS':
+                row['status'] = 'PASS'
+                outcomes[aid] = 'PASS'
+                print('qa %s: PASS quality=%d seo=%d' % (aid, ev['quality'], ev['seo']))
+                if ev.get('grade') == 'EXCELLENT':
+                    print('qa %s: EXCELLENT (nhãn, không bắt tối ưu thêm)' % aid)
+            else:
+                repair_n = int(row['repair_count'] or 0)
+                row['status'] = 'REPAIR'
+                fails = [k for k, v in ev['checks'].items() if not v]
+                row['notes'] = (row['notes'] + ' | ' if row['notes'] else '') + \
+                    'QA %s FAIL: %s' % (now_iso(), ','.join(fails[:6]))
+                outcomes[aid] = 'REPAIR'
+                print('qa %s: REPAIR quality=%d seo=%d fails=%s'
+                      % (aid, ev['quality'], ev['seo'], fails))
+        save_matrix(rows)
+        update_checkpoint(cp, rows)
+        write_json_atomic(os.path.join('reports/factory', 'qa-outcome.json'),
+                          {'run_at': now_iso(), 'op': 'qa',
+                           'outcomes': outcomes})
+        if run_reports_checked('qa') != 0:
+            return 1
+        if validate_or_stop('qa', vscope) != 0:
+            return 1
+        print('qa: xong %d hàng (mode=%s), kết quả: %s'
+              % (len(outcomes), mode,
+                 json.dumps(outcomes, ensure_ascii=False)))
+        return 0
+    finally:
+        release()
+
+
+# ---------------------------------------------------------------- ops
+
+def run_reports():
+    """Sinh lại reports/factory chuẩn từ dữ liệu thật (deterministic).
+    Bắt buộc sau mọi op đổi state để reports committed không lệch CI
+    (factory-validate đối chiếu stable fields). Kèm generate-matrix.py:
+    script idempotent, sinh lại matrix-report.md khớp đếm trạng thái
+    hiện tại (PLANNED/PASS/PUBLISHED) — không đụng dữ liệu hàng."""
+    r = subprocess.run([sys.executable, 'scripts/factory/generate-reports.py'],
+                       capture_output=True, text=True)
+    print(r.stdout[-600:])
+    if r.returncode != 0:
+        print(r.stderr[-600:])
+    m = subprocess.run([sys.executable, 'scripts/factory/generate-matrix.py'],
+                       capture_output=True, text=True)
+    print(m.stdout[-400:])
+    if m.returncode != 0:
+        print(m.stderr[-600:])
+    # listing/hub tĩnh cũng là output deterministic của tooling chuẩn:
+    # bài mới xuất bản đổi đếm/phân trang -> sinh lại kèm mọi op đổi state.
+    l = subprocess.run([sys.executable,
+                        'scripts/factory/generate-listing-pages.py'],
+                       capture_output=True, text=True)
+    print(l.stdout[-400:])
+    if l.returncode != 0:
+        print(l.stderr[-600:])
+    return r.returncode or m.returncode or l.returncode
+
+
+def run_reports_checked(ctx):
+    """run_reports() BAT BUOC thanh cong sau moi op doi state — KHONG
+    bao gio nuot ma tra ve. Neu FAIL: op phai DUNG (return 1), khong
+    khai thanh cong, khong sang phase san xuat khac. State da doi tren
+    dia nhung workflow dung truoc buoc commit -> khong bao gio commit
+    state lech; lan chay sau resume tu repository truth."""
+    rc = run_reports()
+    if rc != 0:
+        print('%s: run_reports FAIL (rc=%d) — DỪNG, KHÔNG khai thành '
+              'công. Chạy reports/verify trước khi làm tiếp.' % (ctx, rc))
+        return 1
+    return 0
+
+
+def validate_or_stop(ctx, scope='chunk', extra_args=None):
+    """validate.py chuan sau khi op doi state — FAIL thi DUNG, KHÔNG
+    rollback tay (docs/RECOVERY.md). scope mặc định 'chunk' (FAST QA):
+    chunk sản xuất không bị chặn bởi audit toàn site. extra_args: đối số
+    bổ sung (ví dụ --expect-txn-phase cho hậu kiểm recover fail-closed)."""
+    cmd = [sys.executable, 'scripts/factory/validate.py',
+           '--scope', scope] + list(extra_args or [])
+    v = subprocess.run(cmd,
+                       capture_output=True, text=True)
+    print(v.stdout[-1500:])
+    if v.returncode != 0:
+        print('%s: validate.py FAIL (scope=%s) sau khi đổi state — DỪNG, '
+              'KHÔNG rollback tay; chạy recover/verify trước khi làm tiếp.'
+              % (ctx, scope))
+    return v.returncode
+
+
+def op_status(args):
+    cp = read_json(CP)
+    txn = read_json(TXN)
+    held, meta = lock_held_by_other()
+    rows = load_matrix()
+    counts = {}
+    for r in rows:
+        counts[r['status']] = counts.get(r['status'], 0) + 1
+    def _head():
+        try:
+            return subprocess.run(['git', 'rev-parse', 'HEAD'],
+                                   capture_output=True, text=True,
+                                   timeout=10).stdout.strip() or None
+        except Exception:
+            return None
+    print(json.dumps({
+        'head': _head(),
+        'checkpoint': {'status': cp.get('status'),
+                       'last_completed': cp.get('last_completed_article_id'),
+                       'next_claimable': cp.get('next_claimable_id'),
+                       'in_progress_chunk': cp.get('in_progress_chunk')},
+        'transaction_active': txn.get('active'),
+        'lock_held': held, 'lock_holder': meta.get('holder'),
+        'production_control': load_control(),
+        'matrix_counts': counts,
+    }, ensure_ascii=False, indent=2))
+    return 0
+
+
+def op_prepare_next(args, biz, tax):
+    mode = getattr(args, 'scope', None) or 'fast'
+    vscope = validate_scope_for_mode(mode)
+    control = load_control()
+    if not control['enabled']:
+        bail('production-control: enabled=false — DỪNG trước khi claim cặp '
+             'mới (data/factory/production-control.json). Hoàn tất '
+             'transaction/qa/publish việc đang dở qua op riêng, KHÔNG '
+             'claim thêm.')
+    txn, cp, rows = preflight(scope=vscope)
+    explicit = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
+    # hòa giải việc dở trước: không claim mới khi còn hàng đang làm
+    unfinished = [r['id'] for r in rows
+                  if r['status'] in ('WRITING', 'QA', 'REPAIR', 'PASS')]
+    if unfinished:
+        bail('còn %d hàng chưa xong (%s...) — hoàn tất/QA/publish '
+             'trước khi claim mới (không bỏ qua việc dở để lấy throughput).'
+             % (len(unfinished), ','.join(unfinished[:5])))
+    if explicit:
+        # PUSH HOT PATH (factory-publish.yml): claim EXACT các ID mà
+        # writer đã push draft (scripts/factory/push-selection.py đã chọn)
+        # — KHÔNG tự chọn hàng PLANNED khác, KHÔNG đụng hàng bảo vệ.
+        if len(explicit) > control['chunk_size']:
+            bail('prepare-next --ids: %d ID > chunk_size %d — tối đa %d '
+                 'bài mỗi push (data/factory/production-control.json).'
+                 % (len(explicit), control['chunk_size'],
+                    control['chunk_size']))
+        by_id = {r['id']: r for r in rows}
+        for aid in explicit:
+            row = by_id.get(aid)
+            if row is None:
+                bail('prepare-next --ids: %s không có trong matrix.' % aid)
+            if row['status'] != 'PLANNED':
+                bail('prepare-next --ids: %s trạng thái %s — chỉ claim hàng '
+                     'PLANNED có draft vừa push.' % (aid, row['status']))
+            draft, _slug = find_draft(row)
+            if draft is None:
+                bail('prepare-next --ids: %s chưa có draft trong _drafts/ '
+                     '(push-selection đã kiểm — không claim hàng không '
+                     'việc thật).' % aid)
+        chunk = [by_id[aid] for aid in explicit]
+    else:
+        count = min(int(args.count or control['chunk_size']), MAX_CHUNK)
+        if count < 1:
+            bail('count phải >= 1')
+        next_id = cp.get('next_claimable_id')
+        planned = [r for r in rows if r['status'] == 'PLANNED']
+        if next_id:
+            planned.sort(key=lambda r: (r['id'] != next_id, r['id']))
+        chunk = planned[:count]
+    if not chunk:
+        bail('không còn hàng PLANNED để claim.')
+    holder = 'operator-prepare-%s' % uuid.uuid4().hex[:8]
+    release = with_lock(holder)
+    try:
+        d = today()
+        for r in rows:
+            if r['id'] in {c['id'] for c in chunk}:
+                r['status'] = 'WRITING'
+        save_matrix(rows)
+        ids = [c['id'] for c in chunk]
+        cp['in_progress_chunk'] = ids
+        cp['last_run_id'] = 'operator-prepare-next'
+        remaining = [r['id'] for r in rows if r['status'] == 'PLANNED']
+        cp['next_claimable_id'] = remaining[0] if remaining else None
+        update_checkpoint(cp, rows)
+        for c in chunk:
+            path = export_manifest(c, tax, biz, rows, d)
+            print('manifest: %s' % path)
+        if run_reports_checked('prepare-next') != 0:
+            return 1
+        if validate_or_stop('prepare-next', vscope) != 0:
+            return 1
+        print('prepare-next: claim %d hàng: %s (mode=%s)'
+              % (len(ids), ','.join(ids), mode))
+        return 0
+    finally:
+        release()
+
+
+def op_publish(args):
+    if not args.ids:
+        bail('publish yêu cầu --ids (chỉ promote hàng PASS do caller cung cấp)')
+    ids = [i.strip() for i in args.ids.split(',') if i.strip()]
+    mode = getattr(args, 'scope', None) or 'fast'
+    vscope = validate_scope_for_mode(mode)
+    txn, cp, rows = preflight(scope=vscope)
+    by_id = {r['id']: r for r in rows}
+    for aid in ids:
+        row = by_id.get(aid)
+        if row is None:
+            bail('publish: %s không có trong matrix' % aid)
+        if row['status'] != 'PASS':
+            bail('publish: %s trạng thái %s — gate chỉ nhận PASS. '
+                 'Chạy qa lại, KHÔNG hạ ngưỡng.' % (aid, row['status']))
+        draft, slug = find_draft(row)
+        if draft is None:
+            bail('publish: %s thiếu draft' % aid)
+    # publish-gate tự acquire lock/transaction từng bài; KHÔNG giữ lock ở đây
+    ok_ids = []
+    for aid in ids:
+        row = by_id[aid]
+        draft, _slug = find_draft(row)
+        r = subprocess.run([sys.executable,
+                            'scripts/factory/publish-gate.py',
+                            '--draft', draft, '--id', aid],
+                           capture_output=True, text=True)
+        print(r.stdout)
+        print(r.stderr, file=sys.stderr)
+        if r.returncode != 0:
+            print('publish: %s FAIL — dừng, các bài còn lại KHÔNG promote, '
+                  'KHÔNG nhận hàng mới. Resume: qa -> publish lại.' % aid)
+            return 1
+        ok_ids.append(aid)
+    # sau promote: chốt checkpoint TRƯỚC (xóa in_progress_chunk) rồi mới
+    # sinh reports — nếu không latest.md sẽ giữ chunk đã xong (stale).
+    cp = read_json(CP)
+    rows2 = load_matrix()
+    still = [r['id'] for r in rows2
+             if r['id'] in ok_ids and r['status'] != 'PUBLISHED']
+    if still:
+        print('publish: %s chưa PUBLISHED sau gate — dừng.' % still)
+        return 1
+    cp['in_progress_chunk'] = None
+    update_checkpoint(cp, rows2)
+    if run_reports_checked('publish') != 0:
+        return 1
+    if validate_or_stop('publish', vscope) != 0:
+        return 1
+    print('publish: PUBLISHED %s (mode=%s)' % (','.join(ok_ids), mode))
+    return 0
+
+
+def op_release_chunk(args):
+    """PAUSE sản xuất an toàn: trả các hàng WRITING/QA/REPAIR/PASS CHƯA CÓ
+    draft (chưa có việc thật) về PLANNED, xóa in_progress_chunk, trả
+    next_claimable_id về ID thấp nhất được nhả. KHÔNG bao giờ đụng hàng:
+      - đã có draft trong _drafts/ (việc thật — giữ nguyên)
+      - đã có bằng chứng QA data/qa/<id>.json (đã chấm — giữ nguyên)
+      - PUBLISHED/EXISTING/REVIEW/BLOCKED/PLANNED (được bảo vệ)
+    Dùng để dừng sản xuất giữa chừng mà không mất gì (docs/RECOVERY.md)."""
+    ids = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
+    txn, cp, rows = preflight()
+    releasable_status = ('WRITING', 'QA', 'REPAIR', 'PASS')
+    if ids:
+        targets = [r for r in rows if r['id'] in ids]
+    else:
+        chunk = set(cp.get('in_progress_chunk') or [])
+        targets = [r for r in rows if r['id'] in chunk] if chunk else \
+                  [r for r in rows if r['status'] in releasable_status]
+    if not targets:
+        print('release-chunk: không có hàng nào trong chunk đang làm — không có gì nhả.')
+        return 0
+    holder = 'operator-release-%s' % uuid.uuid4().hex[:8]
+    release = with_lock(holder)
+    try:
+        released, kept = [], []
+        for r in targets:
+            if r['status'] not in releasable_status:
+                print('release-chunk: %s trạng thái %s được bảo vệ — bỏ qua'
+                      % (r['id'], r['status']))
+                continue
+            draft, _slug = find_draft(r)
+            has_qa = os.path.exists(os.path.join(QA_DIR, r['id'] + '.json'))
+            if draft is not None or has_qa:
+                kept.append(r['id'])
+                print('release-chunk: %s có draft/QA evidence — GIỮ NGUYÊN '
+                      '(không vứt việc thật)' % r['id'])
+                continue
+            r['status'] = 'PLANNED'
+            r['notes'] = (r['notes'] + ' | ' if r['notes'] else '') + \
+                'release-chunk %s: trả về PLANNED (pause sản xuất, chưa có draft)' % now_iso()
+            released.append(r['id'])
+        if not released:
+            print('release-chunk: toàn bộ hàng trong chunk có draft/QA — '
+                  'KHÔNG nhả gì (việc thật phải được hoàn tất).')
+            return 0
+        save_matrix(rows)
+        # checkpoint: chunk còn hàng nào giữ lại không? nếu hết -> xóa chunk
+        still = [r['id'] for r in rows
+                 if r['status'] in releasable_status
+                 and r['id'] in set(cp.get('in_progress_chunk') or [])]
+        released_set = set(released)
+        if not still:
+            cp['in_progress_chunk'] = None
+        else:
+            cp['in_progress_chunk'] = still
+        prev_next = cp.get('next_claimable_id')
+        lowest = min(released)
+        if not prev_next or lowest < prev_next:
+            cp['next_claimable_id'] = lowest
+        cp['last_run_id'] = 'operator-release-chunk'
+        update_checkpoint(cp, rows)
+        if run_reports_checked('release-chunk') != 0:
+            return 1
+        if validate_or_stop('release-chunk') != 0:
+            return 1
+        print('release-chunk: trả PLANNED %s (giữ nguyên %s) — sản xuất '
+              'PAUSED, next_claimable=%s'
+              % (','.join(released), ','.join(kept) or 'không',
+                 cp.get('next_claimable_id')))
+        return 0
+    finally:
+        release()
+
+
+def op_requeue(args):
+    if not args.ids:
+        bail('requeue yêu cầu --ids')
+    ids = [i.strip() for i in args.ids.split(',') if i.strip()]
+    txn, cp, rows = preflight()
+    by_id = {r['id']: r for r in rows}
+    holder = 'operator-requeue-%s' % uuid.uuid4().hex[:8]
+    release = with_lock(holder)
+    try:
+        for aid in ids:
+            row = by_id.get(aid)
+            if row is None:
+                print('requeue: không có %s — bỏ qua' % aid)
+                continue
+            if row['status'] not in ('REPAIR', 'FAIL'):
+                print('requeue: %s trạng thái %s được bảo vệ — bỏ qua'
+                      % (aid, row['status']))
+                continue
+            n = int(row

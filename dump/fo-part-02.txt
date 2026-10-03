@@ -1,0 +1,393 @@
+['repair_count'] or 0)
+            if n >= REPAIR_BUDGET:
+                row['status'] = 'BLOCKED'
+                row['notes'] = (row['notes'] + ' | ' if row['notes'] else '') + \
+                    'requeue %s: hết budget repair (%d) — BLOCKED' % (now_iso(), n)
+                print('requeue: %s hết budget (%d) — BLOCKED' % (aid, n))
+            else:
+                row['status'] = 'WRITING'
+                row['repair_count'] = str(n + 1)
+                print('requeue: %s -> WRITING (repair_count=%d)' % (aid, n + 1))
+        save_matrix(rows)
+        update_checkpoint(cp, rows)
+        # requeue là state mutation: bat ky op doi state phai de lai
+        # matrix + checkpoint + reports + listing/index da tai sinh va
+        # validate — neu regeneration/validation FAIL thi dung an toan.
+        if run_reports_checked('requeue') != 0:
+            return 1
+        return validate_or_stop('requeue')
+    finally:
+        release()
+
+
+RECOVERY_VERIFYING = 'RECOVERY_VERIFYING'
+
+
+def _reconcile_recovered_row(aid, target, note):
+    """Hòa giải hàng matrix theo trạng thái vật lý — IDEMPOTENT: chạy lại
+    (resume giữa chừng) KHÔNG mutate thêm khi đã đúng (guard note
+    'recover ' tránh ghi đè note hai lần). Đồng bộ checkpoint counts."""
+    rows = load_matrix()
+    for r in rows:
+        if r['id'] != aid:
+            continue
+        if target == 'PUBLISHED':
+            if r['status'] != 'PUBLISHED':
+                r['status'] = 'PUBLISHED'
+        elif r['status'] in ('PASS', 'QA', 'PUBLISHED'):
+            r['status'] = 'QA'
+        if note and 'recover ' not in (r['notes'] or ''):
+            r['notes'] = (r['notes'] + ' | ' if r['notes'] else '') + note
+    save_matrix(rows)
+    cp = read_json(CP)
+    update_checkpoint(cp, rows)
+    return rows
+
+
+def _close_recovered_txn(txn, entry, result):
+    """Đóng transaction SAU HẬU KIỂM PASS — điểm fail-closed duy nhất.
+    KHÔNG bao giờ gọi trước khi run_reports + validate --expect-txn-phase
+    đều PASS (docs/RECOVERY.md "Hợp đồng fail-closed")."""
+    closed = dict(entry, result=result, finished_at=now_iso())
+    if txn.get('history'):
+        txn['history'][-1] = closed
+    else:
+        txn['history'] = [closed]
+    txn['active'] = False
+    txn['pending'] = None
+    txn.pop('phase', None)
+    txn['updated_at'] = now_iso()
+    write_json_atomic(TXN, txn)
+
+
+def op_recover(args):
+    """Recover FAIL-CLOSED (docs/RECOVERY.md): hòa giải vật lý theo sự
+    thật (đích tồn tại -> hoàn tất; draft còn -> rollback về QA), MỞ phase
+    RECOVERY_VERIFYING (transaction CHƯA đóng), hậu kiểm reports +
+    validate --expect-txn-phase; CHỈ khi hậu kiểm PASS mới đóng
+    transaction. Hậu kiểm FAIL -> return 1, transaction GIỮ NGUYÊN
+    active + phase RECOVERY_VERIFYING -> chạy recover lại (idempotent:
+    reconcile không mutate thêm). Ownership lock không rõ -> STOP."""
+    txn = read_json(TXN, {'active': False, 'history': []})
+    held, meta = lock_held_by_other()
+    if held:
+        print('recover: writer-lock đang giữ (holder=%s, expires=%s). '
+              'Ownership không rõ -> STOP theo docs/RECOVERY.md; '
+              'KHÔNG force-unlock.' % (meta.get('holder'),
+                                       meta.get('expires_at')))
+        return 1
+    if not txn.get('active'):
+        if txn.get('phase') == RECOVERY_VERIFYING:
+            print('recover: phase %s nhưng active=false — dọn phase mồ côi.'
+                  % RECOVERY_VERIFYING)
+            txn.pop('phase', None)
+            txn.pop('recover_result', None)
+            txn['updated_at'] = now_iso()
+            write_json_atomic(TXN, txn)
+            return 0
+        print('recover: transaction sạch (active=false) — không có gì '
+              'phục hồi.')
+        return 0
+    pend = txn.get('pending') or {}
+    aid = pend.get('article_id') or (pend.get('step') or '').replace(
+        'promote ', '')
+    dest = pend.get('destination')
+    draft = pend.get('draft')
+    # history có thể chứa mục null (bản ghi cũ) — lấy mục thật cuối cùng
+    entry = next((h for h in reversed(txn.get('history') or []) if h), {})
+    dest = dest or entry.get('destination')
+    draft = draft or entry.get('source')
+    if dest and os.path.exists(dest):
+        recover_result = 'RECOVERED_COMPLETED'
+    elif draft and os.path.exists(draft):
+        recover_result = 'RECOVERED_ROLLED_BACK'
+        if dest and os.path.exists(dest):
+            shutil.move(dest, draft)
+    else:
+        print('recover: transaction active nhưng không suy luận được trạng '
+              'thái vật lý — STOP, không mutate thêm. Kiểm tra tay theo '
+              'docs/RECOVERY.md.')
+        return 1
+    # hòa giải idempotent; resume giữa chừng KHÔNG mutate thêm
+    note = 'recover %s: %s' % (
+        now_iso(), 'hoàn tất promote' if recover_result == 'RECOVERED_COMPLETED'
+        else 'promote dở, trả về QA')
+    _reconcile_recovered_row(aid, 'PUBLISHED'
+                             if recover_result == 'RECOVERED_COMPLETED'
+                             else 'QA', note)
+    # MỞ PHASE RECOVERY_VERIFYING — transaction CHƯA đóng (fail-closed)
+    txn['phase'] = RECOVERY_VERIFYING
+    txn['recover_result'] = recover_result
+    txn['updated_at'] = now_iso()
+    write_json_atomic(TXN, txn)
+    # hậu kiểm: reports bắt buộc + validate với hợp đồng phase chặt
+    if run_reports_checked('recover') != 0:
+        print('recover: HẬU KIỂM FAIL — transaction GIỮ NGUYÊN active, '
+              'phase=%s. Chạy recover lại sau khi sửa reports (idempotent).'
+              % RECOVERY_VERIFYING)
+        return 1
+    if validate_or_stop('recover', 'chunk',
+                        extra_args=['--expect-txn-phase',
+                                    RECOVERY_VERIFYING]) != 0:
+        print('recover: HẬU KIỂM FAIL — transaction GIỮ NGUYÊN active, '
+              'phase=%s. Chạy recover lại (idempotent).' % RECOVERY_VERIFYING)
+        return 1
+    # điểm DUY NHẤT được đóng transaction: sau hậu kiểm PASS
+    _close_recovered_txn(txn, entry, recover_result)
+    print('recover: %s — %s (hậu kiểm PASS — transaction đã đóng)'
+          % (recover_result,
+             'transaction hoàn tất (đích đã tồn tại): %s' % dest
+             if recover_result == 'RECOVERED_COMPLETED'
+             else 'transaction rollback (chưa promote): %s' % draft))
+    return 0
+
+
+# Kiểm tra engine theo mức (docs/PROC-PUBLISH.md "QA modes").
+# fast = đủ cho từng chunk sản xuất: gate + operator + refill-safety
+# (nhẹ, không copy toàn repository). Các suite copy toàn repo
+# (link integrity, qa modes) chỉ chạy ở deep/full để FAST không bị
+# kẹt bởi kiểm tra toàn hệ thống. KHÔNG hạ ngưỡng, KHÔNG bỏ kiểm tra
+# hash/transaction/lock/refresh dữ liệu.
+VERIFY_TESTS_FAST = [
+    'scripts/factory/tests/test_publish_gate.py',
+    'scripts/factory/tests/test_operator.py',
+    'scripts/factory/tests/test_refill_safety.py',
+    'scripts/factory/tests/test_push_selection.py',
+    'scripts/factory/tests/test_workflow_syntax.py',
+]
+VERIFY_TESTS_DEEP = VERIFY_TESTS_FAST + [
+    'scripts/factory/tests/test_link_integrity.py',
+    'scripts/factory/tests/test_qa_modes.py',
+    'scripts/factory/tests/test_publish_flow.py',
+    'scripts/factory/tests/test_refill_semantics.py',
+]
+# FULL mạnh hơn DEEP (hợp đồng 4 tầng — docs/ENGINE-RUNBOOK.md mục 11):
+# FULL = DEEP + hardening (unit/integration) + watchdog (unit) + soak
+# (tầng 4: long-run/failure recovery 20 vòng hermetic).
+VERIFY_TESTS_FULL = VERIFY_TESTS_DEEP + [
+    'scripts/factory/tests/test_hardening.py',
+    'scripts/factory/tests/test_watchdog.py',
+    'scripts/factory/tests/test_soak_recovery.py',
+]
+
+
+def verify_steps(mode):
+    """Danh sách lệnh kiểm tra cho op verify theo mức fast/deep/full.
+    full giữ NGUYÊN danh mục cũ (validate full + mọi test engine)."""
+    vscope = validate_scope_for_mode(mode) if mode in QA_MODES else mode
+    steps = [['scripts/factory/validate.py', '--scope', vscope],
+             ['scripts/factory/capacity-audit.py']]
+    if mode == 'fast':
+        tests = VERIFY_TESTS_FAST
+    elif mode == 'deep':
+        tests = VERIFY_TESTS_DEEP
+    else:
+        tests = VERIFY_TESTS_FULL
+    steps += [[t] for t in tests]
+    steps.append(['scripts/factory/queue.py', '--stats'])
+    return steps
+
+
+def op_verify(args):
+    mode = getattr(args, 'scope', None) or 'full'
+    vscope = validate_scope_for_mode(mode) if mode in QA_MODES else mode
+    steps = verify_steps(mode)
+    failed = []
+    for cmd in steps:
+        r = subprocess.run([sys.executable] + cmd, capture_output=True, text=True)
+        print('$ python3 %s -> %d' % (' '.join(cmd), r.returncode))
+        print(r.stdout[-800:])
+        if r.returncode != 0:
+            failed.append(' '.join(cmd))
+    if failed:
+        print('verify: FAIL ở %s (mode=%s)' % (failed, mode))
+        return 1
+    print('verify: PASS (mode=%s: validate --scope %s + capacity-audit + queue + tests)'
+          % (mode, vscope))
+    return 0
+
+
+def op_refill(args):
+    """Refill TẠO WORK THẬT (semantic contract, docs/PROC-PUBLISH.md).
+
+    Bug đã sửa 2026-09-30: bản trước chỉ chạy 'refill-queue.py' (không đối
+    số -> --plan, read-only) rồi trả 0 — workflow báo SUCCESS nhưng queue
+    không bao giờ có hàng PLANNED mới. Hợp đồng mới:
+      - SUCCESS bắt buộc: planned tăng, matrix tăng, seed tăng,
+        next_claimable_id != null, transaction inactive.
+      - Queue cần refill nhưng ledger hết candidate STAGED ->
+        NEEDS_TOPIC_EXPANSION (return 1, actionable; KHÔNG tạo filler).
+      - ĐÚNG MỘT LOCK OWNER: refill-queue.py --refill --yes tự acquire
+        sentinel O_EXCL bên trong; op KHÔNG giữ lock quanh lệnh này
+        (nested lock cùng sentinel = self-deadlock). Phần đuôi op
+        (checkpoint + reports) acquire lại SAU khi refill-queue release.
+    """
+    r = subprocess.run([sys.executable, 'scripts/factory/queue.py',
+                         '--needs-refill'], capture_output=True, text=True)
+    print(r.stdout.strip())
+    if r.returncode != 0:
+        print('refill: chưa đến ngưỡng — KHÔNG refill (lazy capacity).')
+        return 0
+    _txn, cp, rows = preflight()
+    ledger = read_json('data/state/refill-candidates.json', {}) or {}
+    staged = ledger.get('candidates') or []
+    planned_before = sum(1 for x in rows if x['status'] == 'PLANNED')
+    matrix_rows_before = len(rows)
+    seed = read_json('data/state/matrix-seed.json', {}) or {}
+    seed_rows_before = sum(
+        len((spec or {}).get('rows', []))
+        for spec in (seed.get('children') or {}).values())
+    if not staged:
+        print('NEEDS_TOPIC_EXPANSION: queue cần refill nhưng ledger không '
+              'còn candidate STAGED — expand/stage topic thật (qua gate '
+              'G1-G8) trước khi refill lại. KHÔNG tạo filler, KHÔNG báo '
+              'SUCCESS giả.')
+        # an toàn: nếu đã có hàng PLANNED nhưng checkpoint chưa trỏ
+        # next_claimable (phần đuôi run trước đó dở dang), trỏ lại để
+        # writer tiếp tục — không mất việc đã materialize.
+        planned_now = [x['id'] for x in rows if x['status'] == 'PLANNED']
+        if planned_now and not cp.get('next_claimable_id'):
+            release = with_lock('operator-refill-%s' % uuid.uuid4().hex[:8])
+            try:
+                update_checkpoint(cp, rows,
+                                  {'next_claimable_id': planned_now[0]})
+            finally:
+                release()
+        return 1
+    # ĐÚNG MỘT LOCK OWNER: refill-queue materialize (seed + tái sinh matrix
+    # + ledger lifecycle STAGED->MATERIALIZED) dưới khóa của nó; op KHÔNG
+    # giữ khóa quanh lệnh này.
+    rr = subprocess.run([sys.executable,
+                         'scripts/factory/refill-queue.py',
+                         '--refill', '--yes'],
+                        capture_output=True, text=True)
+    print(rr.stdout[-2000:])
+    if rr.returncode != 0:
+        print(rr.stderr[-800:])
+        print('refill: refill-queue.py FAIL — DỪNG, KHÔNG khai thành công.')
+        return 1
+    # refill-queue đã release khóa của nó; op acquire lại cho phần đuôi
+    # (checkpoint + reports) — vẫn đúng một owner tại mỗi thời điểm.
+    holder = 'operator-refill-%s' % uuid.uuid4().hex[:8]
+    release = with_lock(holder)
+    try:
+        # Refill làm ĐỔI số hàng matrix/seed → report topic-universe (các
+        # số CURRENT_ROWS / CURRENT_SEEDED_ROWS / RESERVED_CAPACITY đọc
+        # từ matrix hiện tại) PHẢI được tái sinh trong CÙNG run. Không
+        # có bước này, bot commit đẩy report cũ (drift) và Factory
+        # validate fail ở bước "Topic universe must be idempotent".
+        # expand-topic-universe.py idempotent theo thiết kế: pool finite,
+        # nhận 0 khi đã dùng hết; nếu nó ghi thêm seed (mở rộng thật qua
+        # gate) thì tái sinh matrix NGAY để cây nhất quán trước reports.
+        seed_bytes_pre = open('data/state/matrix-seed.json', 'rb').read()
+        ex = subprocess.run([sys.executable,
+                             'scripts/factory/expand-topic-universe.py'],
+                            capture_output=True, text=True)
+        print(ex.stdout[-800:])
+        if ex.returncode != 0:
+            print('refill: expand-topic-universe.py FAIL khi refresh report '
+                  'topic-universe — DỪNG, KHÔNG khai thành công.')
+            return 1
+        if open('data/state/matrix-seed.json', 'rb').read() != seed_bytes_pre:
+            gm = subprocess.run([sys.executable,
+                                 'scripts/factory/generate-matrix.py'],
+                                capture_output=True, text=True)
+            print(gm.stdout[-500:])
+            if gm.returncode != 0:
+                print('refill: generate-matrix.py FAIL sau expand — DỪNG, '
+                      'KHÔNG khai thành công.')
+                return 1
+        rows_after = load_matrix()
+        planned_after = [x['id'] for x in rows_after
+                         if x['status'] == 'PLANNED']
+        seed_after = read_json('data/state/matrix-seed.json', {}) or {}
+        seed_rows_after = sum(
+            len((spec or {}).get('rows', []))
+            for spec in (seed_after.get('children') or {}).values())
+        txn_after = read_json(TXN, {}) or {}
+        # checkpoint: counts mới + next_claimable_id (work mới claim được)
+        update_checkpoint(cp, rows_after,
+                          {'next_claimable_id':
+                           (planned_after[0] if planned_after
+                            else cp.get('next_claimable_id'))})
+        if run_reports_checked('refill') != 0:
+            return 1
+        if validate_or_stop('refill') != 0:
+            return 1
+        # SEMANTIC POSTCONDITION: SUCCESS chỉ được phép khi work thật được
+        # tạo (mục tiêu cuối: không bao giờ còn SUCCESS + planned không
+        # tăng + next_claimable=null).
+        ok = (len(planned_after) > planned_before
+              and len(rows_after) > matrix_rows_before
+              and seed_rows_after > seed_rows_before
+              and cp.get('next_claimable_id')
+              and not txn_after.get('active'))
+        if not ok:
+            print('REFILL FAIL: semantic postcondition không đạt '
+                  '(planned %d->%d, matrix %d->%d, seed %d->%d, '
+                  'next_claimable=%r, txn_active=%r) — KHÔNG khai thành '
+                  'công.' % (planned_before, len(planned_after),
+                             matrix_rows_before, len(rows_after),
+                             seed_rows_before, seed_rows_after,
+                             cp.get('next_claimable_id'),
+                             txn_after.get('active')))
+            return 1
+        print('refill: materialize OK — planned %d->%d, matrix %d->%d, '
+              'seed %d->%d, next_claimable_id=%s'
+              % (planned_before, len(planned_after), matrix_rows_before,
+                 len(rows_after), seed_rows_before, seed_rows_after,
+                 cp.get('next_claimable_id')))
+        return 0
+    finally:
+        release()
+
+
+def op_reports(args):
+    r = subprocess.run([sys.executable, 'scripts/factory/generate-reports.py'],
+                       capture_output=True, text=True)
+    print(r.stdout[-1500:])
+    print(r.stderr[-500:], file=sys.stderr)
+    return r.returncode
+
+
+OPS = {
+    'status': op_status,
+    'prepare-next': op_prepare_next,
+    'qa': op_qa,
+    'publish': op_publish,
+    'release-chunk': op_release_chunk,
+    'recover': op_recover,
+    'requeue': op_requeue,
+    'verify': op_verify,
+    'refill': op_refill,
+    'reports': op_reports,
+}
+
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument('op', choices=sorted(OPS))
+    ap.add_argument('--ids')
+    ap.add_argument('--count', type=int)
+    ap.add_argument('--scope', choices=list(QA_MODES) + ['chunk', 'batch', 'full'],
+                    default=None,
+                    help='QA mode fast/deep/full (hoặc scope validate trực tiếp)')
+    args = ap.parse_args()
+    if args.op == 'qa' and args.scope in ('chunk', 'batch', 'full'):
+        args.scope = {'chunk': 'fast', 'batch': 'deep'}.get(args.scope, args.scope)
+    biz = read_json('data/business-facts.json', {})
+    tax = read_json('data/content-taxonomy.json', {})
+    build_amount_whitelist(biz)
+    fn = OPS[args.op]
+    if args.op == 'status':
+        return fn(args)
+    if args.op in ('verify', 'reports', 'recover', 'release-chunk'):
+        return fn(args)
+    # các op còn lại cần biz/tax
+    if args.op in ('prepare-next', 'qa'):
+        return fn(args, biz, tax)
+    return fn(args)
+
+
+if __name__ == '__main__':
+    sys.exit(main())
