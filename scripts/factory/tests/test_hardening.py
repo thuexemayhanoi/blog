@@ -14,14 +14,16 @@ Phủ các kịch bản yêu cầu:
       rebase, tối đa 3 lần thử) rồi FAIL; rebase conflict => abort
       ngay; không thay đổi => không commit; KHÔNG bao giờ force push
       (static).
-  S7  Static: hợp đồng CHÍNH XÁC 6 workflow hiện tại — quality-gate.yml
-      FAST + READ-ONLY; factory-publish.yml production publisher DUY
-      NHẤT (turbo queue 2..10 draft/push chia pair 2, chọn EXACT ID từ
-      article_id, claim chỉ hàng PLANNED, QA 75/70, KHÔNG refill,
-      không AI/API secrets); factory-liveness.yml 6h READ-ONLY
-      fail-closed; factory-publish-verify.yml FULL audit + READ-ONLY;
-      factory-soak.yml hermetic on-demand; article-batch.yml dry-run
-      READ-ONLY; các workflow đã retire (publish-drafts,
+  S7  Static: hợp đồng CHÍNH XÁC 5 workflow hiện tại — quality-gate.yml
+      dual-mode + READ-ONLY; factory-publish.yml production publisher
+      DUY NHẤT (turbo queue 2..10 draft/push chia pair 2, chọn EXACT
+      ID từ article_id, claim chỉ hàng PLANNED, QA 75/70, KHÔNG
+      refill, không AI/API secrets); factory-liveness.yml READ-ONLY
+      fail-closed (dispatch, KHÔNG cron — pattern /shop
+      no-scheduled-runs); factory-publish-verify.yml FULL audit +
+      READ-ONLY; factory-soak.yml hermetic on-demand; các workflow đã
+      retire (publish-drafts, article-batch (gộp vào liveness/
+      publish-verify),
       factory-production, factory-refill, ...) KHÔNG quay lại;
       _data/publishing.yml enabled: false.
   S8  recover FAIL-CLOSED (docs/RECOVERY.md): reports hỏng => DỪNG rc=1
@@ -641,7 +643,6 @@ def code_lines(text):
 
 
 CURRENT_WORKFLOWS = [
-    'article-batch.yml',
     'factory-liveness.yml',
     'factory-publish-verify.yml',
     'factory-publish.yml',
@@ -650,6 +651,7 @@ CURRENT_WORKFLOWS = [
 ]
 
 RETIRED_WORKFLOWS = [
+    'article-batch.yml',
     'factory-production.yml',
     'factory-refill.yml',
     'publish-drafts.yml',
@@ -664,19 +666,20 @@ RETIRED_WORKFLOWS = [
 
 
 class StaticContract(unittest.TestCase):
-    """Hợp đồng CHÍNH XÁC 6 workflow hiện tại (docs/factory-workflow-
-    contract.md — kiến trúc port từ /vanchinh):
-      quality-gate.yml            — cong FAST read-only (push/PR)
+    """Hợp đồng CHÍNH XÁC 5 workflow hiện tại (docs/factory-workflow-
+    contract.md — kiến trúc port từ /vanchinh, gọn theo pattern /shop):
+      quality-gate.yml            — cong dual-mode read-only (push/PR)
       factory-publish.yml         — production publisher DUY NHẤT
                                    (push main _drafts/**, turbo queue
                                    2..10 draft/push, pair 2)
-      factory-liveness.yml       — watchdog 6 giờ read-only fail-closed
+      factory-liveness.yml       — watchdog read-only fail-closed
+                                   (workflow_dispatch, KHÔNG cron)
       factory-publish-verify.yml  — FULL audit read-only (dispatch)
       factory-soak.yml            — reliability/soak hermetic on-demand
-      article-batch.yml          — batch planning/status dry-run read-only
     Các workflow legacy (publish-drafts.yml, factory-production.yml,
-    factory-refill.yml, ...) đã RETIRE theo lệnh chủ xe và KHÔNG được
-    quay lại."""
+    factory-refill.yml, article-batch.yml — dry-run gộp vào
+    factory-liveness/factory-publish-verify, ...) đã RETIRE theo lệnh
+    chủ xe và KHÔNG được quay lại."""
 
     def test_s7_workflow_contract(self):
         wf = sorted(f for f in os.listdir(os.path.join(ROOT,
@@ -868,43 +871,17 @@ class StaticContract(unittest.TestCase):
         self.assertIn('check=True', fq)
         self.assertNotIn('|| true', fq)
 
-    def test_s7_article_batch_readonly(self):
-        """article-batch.yml: CHỈ workflow_dispatch, read-only — dry-run
-        batch planning/status: validate/status/queue stats; fail nếu còn
-        transaction/writer lock; KHÔNG claim/QA/publish/commit/push."""
-        y = wf_text('article-batch.yml')
-        self.assertIn('workflow_dispatch:', y)
-        code = '\n'.join(code_lines(y))
-        self.assertNotIn('push:', code)
-        self.assertNotIn('pull_request:', y)
-        self.assertIn('contents: read', y)
-        self.assertNotIn('contents: write', y)
-        for bad in ('prepare-next', 'requeue', 'release-chunk',
-                    '--refill', 'qa --ids', 'publish --ids',
-                    'factory-operator.py recover', 'git commit', 'git push'):
-            self.assertNotIn(bad, code,
-                             'article-batch phai READ-ONLY: %s' % bad)
-        # chạy đúng các script dry-run chuẩn
-        self.assertIn('validate.py --scope full', y)
-        self.assertIn('factory-operator.py status', y)
-        self.assertIn('queue.py --stats', y)
-        # fail-closed khi transaction/writer lock đang active
-        self.assertIn('writer-lock.active', y)
-        self.assertIn('transaction.json', y)
-        self.assertIn('active', y)
-        # cuối run working tree phải sạch
-        self.assertIn('git status --porcelain', y)
-
     def test_s7_liveness_readonly_never_recovers(self):
-        """factory-liveness.yml: cron moi 6 gio + dispatch, READ-ONLY
-        thuần — watchdog + status + purity; unhealthy PHẢI FAIL run
-        (fail-closed, KHÔNG chỉ warning rồi xanh); KHÔNG bao giờ
-        recover/claim/qa/publish."""
+        """factory-liveness.yml: CHỈ workflow_dispatch (KHÔNG cron —
+        pattern /shop no-scheduled-runs), READ-ONLY thuần — watchdog +
+        status + purity; unhealthy PHẢI FAIL run (fail-closed, KHÔNG
+        chỉ warning rồi xanh); KHÔNG bao giờ recover/claim/qa/publish."""
         y = wf_text('factory-liveness.yml')
         self.assertIn('contents: read', y)
         self.assertNotIn('contents: write', y)
         self.assertNotIn('git push', y)
-        self.assertIn('cron: "0 */6 * * *"', y)
+        self.assertNotIn('cron:', y)
+        self.assertNotIn('schedule:', y)
         self.assertIn('workflow_dispatch:', y)
         self.assertIn('scripts/factory/watchdog.py', y)
         self.assertIn('factory-operator.py status', y)

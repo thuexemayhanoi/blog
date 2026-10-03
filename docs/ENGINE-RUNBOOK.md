@@ -157,10 +157,11 @@ xay ra qua lenh operator chu dong.
   PASS, QA hash gate PASS, publish gate PASS, CI PASS,
   Pages PASS.
 
-- HOP DONG 6 WORKFLOW (docs/factory-workflow-contract.md): khong con
-  workflow dinh ky 30 phut. factory-liveness.yml (cron 6 gio, tuan)
-  la duy nhat chay dinh ky — READ-ONLY diagnostics, KHONG phai
-  scheduler van hanh: khong mutate state, khong claim, khong publish.
+- HOP DONG 5 WORKFLOW (docs/factory-workflow-contract.md): khong con
+  workflow dinh ky nao (port no-scheduled-runs cua /shop).
+  factory-liveness.yml (CHI workflow_dispatch) la READ-ONLY
+  diagnostics, KHONG phai scheduler van hanh: khong mutate state,
+  khong claim, khong publish. article-batch.yml da retire.
   Van hanh san xuat theo PUSH tren factory-publish.yml (draft
   _drafts/ -> turbo queue exact-ID chia pair 2; docs/PROC-PUBLISH.md),
   khong con workflow_dispatch san xuat. publish-queue.yml da retire

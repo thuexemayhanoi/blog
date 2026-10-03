@@ -116,7 +116,7 @@ chat luong noi dung, legal freshness, factory state.
 - scripts/factory/refill-queue.py: lazy refill (plan/verify/
   dry-run/selftest/refill).
 - scripts/factory/sitemap-plan.py: du do shard sitemap.
-- .github/workflows/factory-publish-verify.yml: FULL audit READ-ONLY (dispatch); factory-liveness.yml: liveness read-only moi 6 gio
+- .github/workflows/factory-publish-verify.yml: FULL audit READ-ONLY (dispatch); factory-liveness.yml: liveness read-only theo yeu cau (workflow_dispatch)
   (contents: read, KHONG commit ve main) cho toan bo tren: capacity
   audit, queue stats, refill verify + selftest, sitemap plan,
   generator drift. Cong moi push: quality-gate.yml dual-mode (script

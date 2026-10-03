@@ -1,15 +1,14 @@
 name: Factory liveness
 
-# LIVENESS READ-ONLY MOI 6 GIO — cap nhat theo kien truc /vanchinh
-# factory-liveness.yml (SOURCE OF TRUTH): watchdog DETECT
-# "workflow green but factory standing still". Trang thai khong
-# healthy phai FAIL run de stall hien ro tren Actions thay vi
-# an sau sau cac run xanh. Liveness KHONG BAO GIO recover/delete/
-# claim/publish/push; moi can thiep phai qua factory-publish.yml.
+# LIVENESS READ-ONLY THEO YEU CAU (workflow_dispatch) — port chinh
+# sach /shop: KHONG cron/schedule (operator scheduler ben ngoai dieu
+# phoi nhip; test /shop ap dung strict no-scheduled-runs). Watchdog
+# DETECT "workflow green but factory standing still". Trang thai khong
+# healthy phai FAIL run de stall hien ro tren Actions thay vi an sau
+# sau cac run xanh. Liveness KHONG BAO GIO recover/delete/claim/
+# publish/push; moi can thiep phai qua factory-publish.yml.
 
 on:
-  schedule:
-    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 permissions:

@@ -53,7 +53,7 @@ lock.
    CI + Pages deploy.
 4. Long-run/failure recovery — test_soak_recovery.py (20 vòng hermetic +
    failure injection), chạy trong `factory-operator.py verify --scope full`
-   (factory-publish-verify.yml — theo yêu cầu; liveness 6h ở factory-liveness.yml).
+   (factory-publish-verify.yml — theo yêu cầu; liveness theo yêu cầu ở factory-liveness.yml).
 
 FULL mạnh hơn DEEP, DEEP mạnh hơn FAST; KHÔNG hạ ngưỡng khi đổi mức.
 

@@ -236,4 +236,4 @@ Sau mỗi run sản xuất, engine phải ở trạng thái HEALTHY
 
 STALE_TXN/STALE_LOCK/STALE_CHECKPOINT/STALLED_ACTIVE (exit 1): xử lý theo
 `docs/RECOVERY.md` rồi mới nhận việc mới. Watchdog READ-ONLY, KHÔNG tự
-xoá/force-unlock. factory-liveness chạy watchdog mỗi 6 giờ.
+xoá/force-unlock. factory-liveness chạy watchdog theo yêu cầu (workflow_dispatch).

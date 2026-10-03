@@ -1,4 +1,4 @@
-# Hợp đồng 6 workflow — thuexemayhanoi/blog
+# Hợp đồng 5 workflow — thuexemayhanoi/blog
 
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
@@ -17,10 +17,9 @@ docs/ADVANCED-FACTORY-RECOVERY.md.
 |---|---|---|---|
 | `quality-gate.yml` | push main theo paths (matrix, `_drafts/**`, `_posts/**`, `scripts/**`, layouts/includes/data/config), pull_request cùng paths, workflow_dispatch | `contents: read` | Dual-mode READ-ONLY (port pattern /shop article-quality + `scripts/factory/gate-scope.py`, fail-closed). Content push (drafts/posts/matrix/QA evidence/state/reports): CHỈ `validate.py --scope chunk` — KHÔNG build + KHÔNG quét link toàn site mỗi cycle. Engine push (scripts/layouts/includes/data/config/workflow/docs/matrix-seed/production-control) hoặc dispatch: + Jekyll build (`actions/jekyll-build-pages@v1`) + built-link integrity + draft-leak + sitemap/schema/hub sanity. Luôn working-tree clean. KHÔNG commit, KHÔNG claim, KHÔNG publish. |
 | `factory-publish.yml` | push main theo paths `_drafts/**` (và chính workflow file) | `contents: write` | Production publisher DUY NHẤT (mô hình /vanchinh): push writer chứa 2..10 draft (write-ahead queue) → selection EXACT ID qua canonical `scripts/factory/push-selection.py` (từ chối ID trùng, ID lạ, hàng PUBLISHED/EXISTING/BLOCKED, > 10 draft/push) → chia pair 2 deterministic theo thứ tự matrix → consume tuần tự: claim chỉ hàng PLANNED (`prepare-next --ids`), `qa --ids --scope fast`, `publish --ids` (hàng PASS) → checkpoint. Pair FAIL content = recoverable (REPAIR), KHÔNG rollback pair đã publish; engine resume-first — còn repair/unresolved thì KHÔNG claim pair mới (pair còn lại DEFERRED, lần kế). FATAL (claim/QA hạ tầng, non-FF sau 3 lần rebase retry) → fail run, KHÔNG commit, KHÔNG force push. Concurrency group `factory-publish`, `cancel-in-progress: false`. |
-| `factory-liveness.yml` | cron `0 */6 * * *` (mỗi 6 giờ) + workflow_dispatch | `contents: read` | Liveness READ-ONLY: `watchdog.py` (unhealthy = run FAIL, KHÔNG chỉ warning) + `factory-operator.py status` + purity check working-tree sạch. KHÔNG recover, KHÔNG claim, KHÔNG publish, KHÔNG commit. |
+| `factory-liveness.yml` | CHỈ workflow_dispatch (không cron) | `contents: read` | Liveness READ-ONLY: `watchdog.py` (unhealthy = run FAIL, KHÔNG chỉ warning) + `factory-operator.py status` + purity check working-tree sạch. KHÔNG recover, KHÔNG claim, KHÔNG publish, KHÔNG commit. |
 | `factory-publish-verify.yml` | CHỈ workflow_dispatch (không cron) | `contents: read` | FULL audit READ-ONLY: watchdog + `factory-operator.py verify --scope full` + refill gate G1-G8 (pure selftest) + `sitemap-plan.py` + generator drift/idempotency + Jekyll build + built-link deep check + draft-leak + hub/pagination render + working-tree clean. KHÔNG commit, KHÔNG push. |
 | `factory-soak.yml` | CHỈ workflow_dispatch | `contents: read` | Reliability/soak on-demand, HERMETIC đối với production: chạy `scripts/factory/tests/test_soak_recovery.py` trên fixture cô lập (multi-chunk + failure recovery) + purity check. KHÔNG mutation production state, KHÔNG commit. |
-| `article-batch.yml` | CHỈ workflow_dispatch | `contents: read` | Batch planning/status DRY-RUN READ-ONLY: validate full scope (nền + inventory + taxonomy) + progress snapshot + queue stats (nhìn matrix) + assert không pending transaction/lock + purity check. KHÔNG claim, KHÔNG QA mutate, KHÔNG publish, KHÔNG commit/push. |
 
 Pages deploy bằng cơ chế built-in của GitHub (branch main), không cần
 workflow riêng.
@@ -48,6 +47,9 @@ workflow riêng.
   `factory-liveness.yml`)
 - `.github/workflows/diag-factory-tests.yml` (diagnostic on-demand không
   còn cần thiết)
+- `.github/workflows/article-batch.yml` (batch planning/status dry-run
+  dư thừa: kế hoạch nằm ở factory-publish-verify.yml, trạng thái nhìn
+  bằng factory-operator.py status — theo port no-scheduled-runs của /shop)
 - `scripts/factory/tests/test_push_rebase_overlap.py` (đối tượng — file
   lệnh operator — không còn tồn tại)
 
