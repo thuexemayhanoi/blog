@@ -11,6 +11,7 @@ parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 permalink: /xe-may/2026/10/02/xe-may-ien-cho-nguoi-i-lam-sac-o-co-quan-va-quy-uong/
 article_id: BLG-01094
+writer: W1
 ---
 
 Xe máy điện đi làm Hà Nội đang là lựa chọn của khá nhiều người đi làm trong thành phố: chi phí chạy rẻ hơn xe xăng, máy êm, không có mùi xăng ở hầm để xe. Nhưng đi lại hằng ngày bằng xe điện khác hẳn việc thỉnh thoảng chạy chơi cuối tuần: quỹ đường mỗi ngày phải tính trước, và chuyện sạc xe phải sắp xếp quanh giờ làm việc. Bài này đi qua từng vấn đề đó theo góc nhìn của người đi làm thật sự: sáng đi, trưa sạc, tối về.
