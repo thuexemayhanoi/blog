@@ -6,7 +6,7 @@ author: "Nguyễn Tú"
 description: "Xe ga đề không nổ trời nồm thao tác đúng: nguyên nhân máy ẩm, các bước đề chuẩn, và cách để xe hạn chế hụt nguồn vào những ngày nồm ẩm ở Hà Nội."
 categories: [Kinh nghiệm]
 lang: vi
-tags: ["xe ga đề không nổ trời nồm", "đề xe ga trời nồm ẩm", "xe ga thuê đề khó"
+tags: ["xe ga đề không nổ trời nồm", "đề xe ga trời nồm ẩm", "xe ga thuê đề khó"]
 parent_id: P-XE-MAY
 child_id: C-XE-GA
 permalink: /xe-may/2026/10/03/xe-ga-e-khong-no-troi-nom-thao-tac-ung/

@@ -47,9 +47,10 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-03-xe-ga-e-khong-no-troi-nom-thao-tac-ung.md",
-  "content_sha256": "1f471b68f5846642e8bbe1bd9877ab08986f99605e7691f72707b58813590c4a",
+  "content_sha256": "2bd25290241fcba3d700659ddfa9ee8329da3febb4ad44b7ad0b0f6c72ff4790",
   "matrix_row_sha256": "e58709d841ecbeffdd1118ae54b6c9b332e1b234a3575ce31fef8e7416d77ee0",
   "result": "PASS",
   "grade": "EXCELLENT",
-  "published_at": "2026-10-03T09:02:05+00:00"
+  "published_at": "2026-10-03T09:02:05+00:00",
+  "restamped_note": "re-stamp content_sha256 sau repair front matter BLG-01138 (bổ sung ] bị thiếu ở tags — YAML hỏng khiến bài render sai URL /blog/2026/10/03/2026-10-03-.../ và breadcrumb JSON-LD phát sinh https://thuexemayhanoi.github.io/blog// → INTERNAL_404 làm FULL link check FAIL; kết quả/điểm không đổi)"
 }
