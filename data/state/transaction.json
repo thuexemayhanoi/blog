@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T02:28:00+00:00",
+  "updated_at": "2026-10-04T02:30:55+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01219",
-      "started_at": "2026-10-04T01:57:10+00:00",
-      "source": "_drafts/2026-10-04-thue-xe-may-cho-nguoi-ua-on-con-thi-chuyen-cap.md",
-      "destination": "_posts/2026-10-04-thue-xe-may-cho-nguoi-ua-on-con-thi-chuyen-cap.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f71e34297d4e6fd2ea9a70105c7249f4b6eeb801",
-      "finished_at": "2026-10-04T01:57:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01221",
       "started_at": "2026-10-04T02:07:46+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "4820c558303eb8f133aad9138dd6ed741f1234aa",
       "finished_at": "2026-10-04T02:28:00+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01246",
+      "started_at": "2026-10-04T02:30:55+00:00",
+      "source": "_drafts/2026-10-04-en-ga-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
+      "destination": "_posts/2026-10-04-en-ga-ha-noi-bang-xe-may-gui-xe-va-uong-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c497aefd589f7540402fe75bf2be293ba709a692",
+      "finished_at": "2026-10-04T02:30:55+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
