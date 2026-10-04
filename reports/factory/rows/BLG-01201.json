@@ -1,0 +1,145 @@
+{
+  "article_id": "BLG-01201",
+  "status": "WRITING",
+  "title": "Chở đồ đi lễ chùa đầu năm trên xe máy",
+  "intent": "Sắp xếp đồ lễ chùa đầu năm trên xe máy gọn và an toàn",
+  "primary_keyword": "chở đồ lễ chùa đầu năm",
+  "secondary_keywords": [
+    "đi lễ chùa đầu năm chở đồ"
+  ],
+  "group": "KY-NANG",
+  "taxonomy": {
+    "parent_id": "P-KY-NANG",
+    "parent_hub": "Kỹ năng & tình huống",
+    "parent_hub_url": "/blog/ky-nang/",
+    "child_id": "C-KY-NANG-CHO-DO",
+    "child_hub": "Chở đồ & hành lý",
+    "child_hub_url": "/blog/ky-nang/cho-do-va-hanh-ly/"
+  },
+  "expected_url": "/blog/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/",
+  "output_path": "_posts/{date}-cho-o-i-le-chua-au-nam-tren-xe-may.md",
+  "draft_path": "_drafts/2026-10-04-cho-o-i-le-chua-au-nam-tren-xe-may.md",
+  "canonical_url": "/blog/ky-nang/2026/10/04/cho-o-i-le-chua-au-nam-tren-xe-may/",
+  "internal_links_matrix": [
+    "/blog/ky-nang/cho-do-va-hanh-ly/",
+    "/blog/ky-nang/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "cho o le chua au nam",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "medium",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00002",
+      "title": "Kinh nghiệm thuê xe máy tại Hà Nội: Những điều nên biết trước khi nhận xe",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/"
+    },
+    {
+      "id": "BLG-00011",
+      "title": "Chở hành lý an toàn trên xe máy: theo dung lượng, không theo cảm hứng",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/"
+    },
+    {
+      "id": "BLG-00013",
+      "title": "Chuẩn bị chuyến đi gần Hà Nội bằng xe máy: từng bước từ chọn tuyến đến kiểm tra xe",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/18/chuan-bi-chuyen-di-gan-ha-noi-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00019",
+      "title": "Đồ bảo hộ khi đi xe máy: chọn đúng mức cho từng loại chuyến đi",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/"
+    },
+    {
+      "id": "BLG-00021",
+      "title": "Gửi xe ở Hà Nội: mẹo thực tế để gửi và nhận xe thuận lợi",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/18/gui-xe-o-ha-noi-meo-thuc-te/"
+    },
+    {
+      "id": "BLG-00029",
+      "title": "Lái xe trong phố cổ giờ cao điểm: cách xử lý mật độ xe dày",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/18/lai-xe-trong-pho-co-gio-cao-diem/"
+    },
+    {
+      "id": "BLG-00031",
+      "title": "Nên thuê hay mua xe máy ở Hà Nội",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/nen-thue-hay-mua-xe-may-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00032",
+      "title": "Nên thuê xe máy tự lái hay đi xe công nghệ ở Hà Nội: so sánh theo tần suất di chuyển",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/nen-thue-xe-may-tu-lai-hay-di-xe-cong-nghe/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "80b0bcdc2c29482666f68c0275512ecf178e105f0ec27f0c14d3b4ce5501e9c9",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
