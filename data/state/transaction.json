@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T14:37:33+00:00",
+  "updated_at": "2026-10-04T14:46:41+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01271",
-      "started_at": "2026-10-04T08:21:11+00:00",
-      "source": "_drafts/2026-10-04-chay-xe-doc-truc-uong-5-khu-trau-quy-cuoi-tuan.md",
-      "destination": "_posts/2026-10-04-chay-xe-doc-truc-uong-5-khu-trau-quy-cuoi-tuan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "be642351ac110923892a5192cfe9d282b23e4610",
-      "finished_at": "2026-10-04T08:21:11+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01272",
-      "started_at": "2026-10-04T08:28:52+00:00",
-      "source": "_drafts/2026-10-04-nguyen-van-cu-gio-tan-tam-cach-chay-xe-khoi-ach-tac.md",
-      "destination": "_posts/2026-10-04-nguyen-van-cu-gio-tan-tam-cach-chay-xe-khoi-ach-tac.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6490def62a79db4aa5aceeac515d2bbc458ec193",
-      "finished_at": "2026-10-04T08:28:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01273",
       "started_at": "2026-10-04T08:28:52+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "dc9b0d345e38bf1133f555b2832a44b50ee08aeb",
       "finished_at": "2026-10-04T14:37:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01296",
+      "started_at": "2026-10-04T14:46:41+00:00",
+      "source": "_drafts/2026-10-04-i-xe-may-ngay-nang-gat-giu-suc-va-giu-may.md",
+      "destination": "_posts/2026-10-04-i-xe-may-ngay-nang-gat-giu-suc-va-giu-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "17bf81ae6b9082ea201d7fdd2ff6b6eed61bd8b8",
+      "finished_at": "2026-10-04T14:46:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01297",
+      "started_at": "2026-10-04T14:46:41+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-ngay-sau-mua-lon-nhung-oan-nen-tranh.md",
+      "destination": "_posts/2026-10-04-chay-xe-ngay-sau-mua-lon-nhung-oan-nen-tranh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "17bf81ae6b9082ea201d7fdd2ff6b6eed61bd8b8",
+      "finished_at": "2026-10-04T14:46:41+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
