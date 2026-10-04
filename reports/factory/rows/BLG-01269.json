@@ -1,0 +1,145 @@
+{
+  "article_id": "BLG-01269",
+  "status": "WRITING",
+  "title": "Khu Việt Hưng buổi tối bằng xe máy: ăn uống và gửi xe",
+  "intent": "Kinh nghiệm đi xe máy quanh khu Việt Hưng buổi tối",
+  "primary_keyword": "khu Việt Hưng buổi tối bằng xe máy",
+  "secondary_keywords": [
+    "gửi xe Việt Hưng"
+  ],
+  "group": "DU-LICH",
+  "taxonomy": {
+    "parent_id": "P-DU-LICH",
+    "parent_hub": "Du lịch Hà Nội",
+    "parent_hub_url": "/blog/du-lich/",
+    "child_id": "C-LONG-BIEN",
+    "child_hub": "Long Biên & Gia Lâm",
+    "child_hub_url": "/blog/du-lich/long-bien/"
+  },
+  "expected_url": "/blog/du-lich/2026/10/04/khu-viet-hung-buoi-toi-bang-xe-may-an-uong-va-gui-xe/",
+  "output_path": "_posts/{date}-khu-viet-hung-buoi-toi-bang-xe-may-an-uong-va-gui-xe.md",
+  "draft_path": "_drafts/2026-10-04-khu-viet-hung-buoi-toi-bang-xe-may-an-uong-va-gui-xe.md",
+  "canonical_url": "/blog/du-lich/2026/10/04/khu-viet-hung-buoi-toi-bang-xe-may-an-uong-va-gui-xe/",
+  "internal_links_matrix": [
+    "/blog/du-lich/long-bien/",
+    "/blog/du-lich/"
+  ],
+  "commercial_intent": "low",
+  "cannibalization_key": "khu viet hung buoi toi bang xe may",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00001",
+      "title": "Gợi ý khám phá Hà Nội bằng xe máy cho người mới",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/"
+    },
+    {
+      "id": "BLG-00022",
+      "title": "Gia Lâm và ven sông Hồng bằng xe máy: đường đê, đồng ruộng và làng gốm",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00023",
+      "title": "Khám phá khu Ba Đình bằng xe máy: điểm đến và lưu ý gửi xe quanh khu di tích",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00024",
+      "title": "Khám phá khu Hoàn Kiếm bằng xe máy: lịch trình, gửi xe và những trải nghiệm đáng giá",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00025",
+      "title": "Khám phá khu Tây Hồ bằng xe máy: đường ven hồ và những thời điểm đẹp nhất",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00026",
+      "title": "Khám phá Phố Cổ Hà Nội bằng xe máy: cách đi, gửi xe và thời điểm hợp lý",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00107",
+      "title": "Chở bánh kẹo đi hội làng",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/19/cho-banh-keo-dai-hoi-lang-xom/"
+    },
+    {
+      "id": "BLG-00231",
+      "title": "Lịch trình khám phá Hà Nội một tuần bằng xe máy thuê",
+      "url": "/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "0728bbd317752fe4fef08290d3ee9ca0b9190d3f261f958edd0a696bc9d9f50a",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
