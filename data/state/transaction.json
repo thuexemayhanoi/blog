@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T02:07:46+00:00",
+  "updated_at": "2026-10-04T02:08:01+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01197",
-      "started_at": "2026-10-04T01:26:29+00:00",
-      "source": "_drafts/2026-10-04-iem-nghi-chan-tren-uong-i-lang-gom-phu-lang-bang-xe-may.md",
-      "destination": "_posts/2026-10-04-iem-nghi-chan-tren-uong-i-lang-gom-phu-lang-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1fbbb95b2357267c48affe2225734a8dd81d499c",
-      "finished_at": "2026-10-04T01:26:29+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01198",
       "started_at": "2026-10-04T01:26:29+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "63efc13deb49888bfffecffe2a200c4ab10e3e4b",
       "finished_at": "2026-10-04T02:07:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01220",
+      "started_at": "2026-10-04T02:08:01+00:00",
+      "source": "_drafts/2026-10-04-chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u.md",
+      "destination": "_posts/2026-10-04-chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0d7bb24685b02a288b0b6226d2d2b99f60c600d6",
+      "finished_at": "2026-10-04T02:08:01+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
