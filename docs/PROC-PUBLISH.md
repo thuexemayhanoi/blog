@@ -14,7 +14,7 @@ EXTERNAL AI (writer/coordinator)      ← viết prose, điều phối
 GitHub Actions factory-publish.yml ← MÔI TRƯỜNG THỰC THI
    |  PUSH main paths _drafts/** TỰ ĐỘNG CHẠY ĐƯỜNG NÓNG:
    |  selection EXACT ID qua canonical push-selection.py (refuse >10 ID, ID trùng,
-   |  ID lạ, ID đã PUBLISHED/EXISTING/BLOCKED) → guard không
+   |  ID lạ, ID đã EXISTING/BLOCKED; hàng PUBLISHED trong push = race push trùng đã superseded → bỏ qua sạch exit 0) → guard không
    |  transaction/lock (FAIL-CLOSED) → chia PAIR 2 theo thứ tự
    |  matrix → prepare-next --ids (chỉ hàng PLANNED) → qa --ids
    |  --scope fast → publish --ids (hàng PASS) → light smoke →
@@ -47,7 +47,7 @@ main (paths `_drafts/**`):
    EXACT ID theo `article_id` của các file draft ADDED/MODIFIED trong
    push. REFUSE (fail-closed): >10 draft/push (turbo queue), ID trùng
    trong cùng push, thiếu `article_id`, ID không có trong matrix, ID đã
-   PUBLISHED/EXISTING/BLOCKED (KHÔNG BAO GIỜ ghi đè). Production-control
+   EXISTING/BLOCKED (KHÔNG BAO GIỜ ghi đè; hàng PUBLISHED bị push trùng sau race → bỏ qua sạch published_edits exit 0, KHÔNG refuse). Production-control
    `enabled=false` + push cần claim → exit sạch TRƯỚC khi claim. Mode:
    `new` (có hàng PLANNED cần claim) hoặc `repair` (chỉ QA/publish ID
    sửa, KHÔNG claim lại từ đầu).

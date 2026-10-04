@@ -782,7 +782,10 @@ class StaticContract(unittest.TestCase):
         self.assertIn('article_id', sel)
         self.assertIn('id trung nhau trong cung mot push', sel)
         self.assertIn('id khong co trong matrix', sel)
-        self.assertIn("'PUBLISHED', 'EXISTING', 'BLOCKED'", sel)
+        # race push trùng: hàng PUBLISHED bị bỏ qua sạch (published_edits,
+        # exit 0 GREEN no-op) — chỉ EXISTING/BLOCKED còn refuse fail-closed
+        self.assertIn('published_edits', sel)
+        self.assertIn("REFUSED_STATUSES = ('EXISTING', 'BLOCKED')", sel)
         # template bài nhập mẫu bị loại khỏi selection (chuỗi GHÉP để
         # file test không chứa slug template nguyên vẹn — draft-leak
         # gate grep slug này trên cây build)

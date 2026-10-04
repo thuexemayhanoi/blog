@@ -11,7 +11,9 @@ Semantics được chặt (port CHÍNH XÁC từ selector inline cũ):
   - queue tối đa 10 draft/push (MAX_QUEUE_PER_PUSH); KHÔNG có min —
     push 1 draft hợp lệ; queue LẺ hợp lệ (pair cuối 1 ID);
   - EXACT article_id; refuse (exit 3, fail-closed): thiếu article_id /
-    ID trùng / > 10 / ID lạ / hàng PUBLISHED-EXISTING-BLOCKED;
+    ID trùng / > 10 / ID lạ / hàng EXISTING-BLOCKED; hàng PUBLISHED
+    trong push = RACE PUSH TRÙNG (superseded bởi run khác) → bỏ qua
+    sạch published_edits exit 0 (KHÔNG refuse, run GREEN no-op);
   - deterministic matrix order; mode new/repair (repair KHÔNG claim lại
     từ đầu); production-control enabled=false dừng sạch TRƯỚC claim;
   - selector KHÔNG mutate production state;
@@ -106,6 +108,17 @@ def draft_rel(row):
 class CanonicalQueueSelectionTest(FxTestCase):
     """Queue 2..10, exact-ID, refuse fail-closed, deterministic order,
     mode new/repair, paused-before-claim, no-op, no mutation."""
+
+    def setUp(self):
+        super().setUp()
+        # Hermetic: registry writer-claims THẬT (lease W1 đang sống trên
+        # các hàng PLANNED) leak vào fixture sẽ refuse mọi draft không
+        # khai writer. Bộ test queue-mechanics này chạy single-writer
+        # legacy — semantics ownership có bộ test riêng
+        # (test_selector_ownership.py, tự quản lý registry presence).
+        reg = os.path.join(self.fx, 'data', 'state', 'writer-claims.json')
+        if os.path.exists(reg):
+            os.remove(reg)
 
     # ---------------------------------------------------------- helpers
 
@@ -259,8 +272,35 @@ class CanonicalQueueSelectionTest(FxTestCase):
         self.assertIn('id da xong/khoa, khong duoc sua lai', sel['refuse'])
         self.assertIn(aid, sel['refuse'])
 
-    def test_15_published_refused(self):
-        self._refused_locked_status('PUBLISHED')
+    def test_15_published_race_superseded_noop(self):
+        """RACE PUSH TRÙNG: cả pair đã PUBLISHED bởi queue run khác
+        (push thứ hai sát nút của cùng writer) — selector bỏ qua sạch
+        exit 0 no-op (run GREEN), KHÔNG refuse RED; publisher không
+        bao giờ đụng lại bài đã publish."""
+        rows = self._borrow_with_drafts(2)
+        ids = [r['id'] for r in rows]
+        self._set_status(ids, 'PUBLISHED')
+        rc, sel = self._select_added(rows)
+        self.assertEqual(rc, 0)
+        self.assertFalse(sel['proceed'])
+        self.assertEqual(sel['mode'], 'skip')
+        self.assertEqual(sel['queue'], [])
+        self.assertEqual(sel['published_edits'], ids)
+        self.assertIsNone(sel['refuse'])
+
+    def test_15b_published_and_planned_mixed(self):
+        """Push trộn 1 ID đã PUBLISHED (race) + 1 ID PLANNED: ID đã
+        publish bị bỏ qua sạch, ID PLANNED vẫn được xử lý bình thường."""
+        rows = self._borrow_with_drafts(2)
+        ids = [r['id'] for r in rows]
+        self._set_status([ids[0]], 'PUBLISHED')
+        rc, sel = self._select_added(rows)
+        self.assertEqual(rc, 0)
+        self.assertTrue(sel['proceed'])
+        self.assertEqual(sel['mode'], 'new')
+        self.assertEqual(sel['queue'], [ids[1]])
+        self.assertEqual(sel['published_edits'], [ids[0]])
+        self.assertEqual(sel['claim_ids'], [ids[1]])
 
     def test_16_existing_refused(self):
         self._refused_locked_status('EXISTING')

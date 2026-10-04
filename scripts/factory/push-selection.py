@@ -31,8 +31,16 @@ Semantics (port CHÍNH XÁC từ selector inline cũ của factory-publish.yml):
       ID trùng nhau trong cùng push /
       > 10 draft một push /
       ID không có trong matrix /
-      hàng PUBLISHED, EXISTING, BLOCKED (KHÔNG BAO GIỜ ghi đè bài đã
-      xuất bản);
+      hàng EXISTING, BLOCKED (vi phạm thật — KHÔNG BAO GIỜ ghi đè);
+  - RACE PUSH TRÙNG (superseded — an toàn, KHÔNG refuse): hàng
+      PUBLISHED trong push = chính push này đã được một queue run
+      khác publish trong khoảng giữa writer tạo push và lần chạy này
+      refresh truth (hai push writer sát nhau; concurrency group
+      factory-publish tuần tự hóa các run). Push bị bypass như vậy
+      được BỎ QUA sạch (`published_edits`, exit 0 — run GREEN no-op,
+      KHÔNG RED), đúng semantics /shop (published edits — ignored).
+      Publisher KHÔNG BAO GIỜ đụng lại bài đã publish; queue còn lại
+      (nếu có) vẫn xử lý bình thường;
   - deterministic: queue sắp theo THỨ TỰ MATRIX (không theo tên file);
   - mode: `new` (queue chứa hàng PLANNED cần claim) / `repair`
     (KHÔNG claim lại từ đầu — repair rows skip claim);
@@ -78,7 +86,10 @@ WRITER_RE = re.compile(r'^writer:\s*(W\d+)\s*$', re.M)
 # chuỗi GHÉP để file này không chứa slug template nguyên vẹn — draft-leak
 # gate grep slug này trên cây build (scripts/ bị Jekyll copy)
 TEMPLATE_SLUG = 'mau' + '-nhap' + '-bai' + '-moi'
-LOCKED_STATUSES = ('PUBLISHED', 'EXISTING', 'BLOCKED')
+# Hàng bị REFUSE khi xuất hiện trong push (vi phạm thật): EXISTING/BLOCKED.
+# Hàng PUBLISHED KHÔNG nằm trong danh sách này — xem RACE PUSH TRÙNG
+# ở docstring: bị bỏ qua sạch (published_edits, exit 0), KHÔNG refuse.
+REFUSED_STATUSES = ('EXISTING', 'BLOCKED')
 
 
 class Refuse(Exception):
@@ -164,6 +175,7 @@ def select(added, modified):
         'qa_ids': [], 'pairs': 0, 'refuse': None,
         'control_enabled': control_enabled,
         'multi_writer': False, 'writers': {},
+        'published_edits': [],
     }
 
     registry = claim_registry()
@@ -191,8 +203,25 @@ def select(added, modified):
     if unknown:
         out['refuse'] = 'id khong co trong matrix: %s' % ','.join(unknown)
         return out
+    # RACE PUSH TRÙNG (superseded): một queue run khác có thể đã publish
+    # đúng các ID của push này giữa lúc writer tạo push và lần chạy này
+    # refresh truth (hai push writer sát nhau, các run tuần tự trong
+    # concurrency group factory-publish). Bỏ qua sạch — exit 0 no-op,
+    # KHÔNG refuse RED; publisher KHÔNG BAO GIỜ đụng lại hàng PUBLISHED
+    # (semantics /shop: published edits — ignored). Queue còn lại vẫn
+    # được xử lý bình thường.
+    published = sorted((i for i in queue
+                        if by_id[i]['status'] == 'PUBLISHED'),
+                       key=lambda i: order[i])
+    if published:
+        out['published_edits'] = published
+        queue = [i for i in queue
+                 if by_id[i]['status'] != 'PUBLISHED']
+        if not queue:
+            # toàn bộ push đã được publish bởi run khác — no-op sạch
+            return out
     locked = [i for i in queue
-              if by_id[i]['status'] in LOCKED_STATUSES]
+              if by_id[i]['status'] in REFUSED_STATUSES]
     if locked:
         out['refuse'] = ('id da xong/khoa, khong duoc sua lai: %s'
                          % ','.join(locked))
@@ -253,11 +282,20 @@ def main():
     os.chdir(ROOT)
     out = select(read_paths(args.added), read_paths(args.modified))
     print(json.dumps(out, ensure_ascii=False))
+    if out.get('published_edits'):
+        print('selection: published_edits (race push trùng — ID đã '
+              'được publish bởi run khác, bỏ qua sạch, KHÔNG sửa bài '
+              'đã xuất bản): %s'
+              % ','.join(out['published_edits']))
     if out['refuse']:
         print('REFUSED: %s' % out['refuse'], file=sys.stderr)
         return 3
     if out['mode'] == 'skip':
-        print('selection: khong co draft trong push — no-op')
+        if out.get('published_edits'):
+            print('selection: push trùng đã superseded — toàn bộ ID '
+                  'PUBLISHED, no-op sạch (run GREEN)')
+        else:
+            print('selection: khong co draft trong push — no-op')
     elif out['mode'] == 'paused':
         print('selection: production-control paused — khong claim bai '
               'moi; exit sach')
