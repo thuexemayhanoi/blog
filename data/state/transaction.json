@@ -1,52 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T02:13:10+00:00",
+  "updated_at": "2026-10-04T02:13:58+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01201",
-      "started_at": "2026-10-04T01:41:26+00:00",
-      "source": "_drafts/2026-10-04-cho-o-i-le-chua-au-nam-tren-xe-may.md",
-      "destination": "_posts/2026-10-04-cho-o-i-le-chua-au-nam-tren-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4be92b97e66a675aab1389b6ac6363247eff48f",
-      "finished_at": "2026-10-04T01:41:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01202",
-      "started_at": "2026-10-04T01:41:29+00:00",
-      "source": "_drafts/2026-10-04-cho-ga-vit-ve-que-tren-xe-may-buoc-va-e-the-nao.md",
-      "destination": "_posts/2026-10-04-cho-ga-vit-ve-que-tren-xe-may-buoc-va-e-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4be92b97e66a675aab1389b6ac6363247eff48f",
-      "finished_at": "2026-10-04T01:41:29+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01203",
-      "started_at": "2026-10-04T01:41:29+00:00",
-      "source": "_drafts/2026-10-04-cho-bat-che-mua-cho-hang-hoa-tren-xe-may.md",
-      "destination": "_posts/2026-10-04-cho-bat-che-mua-cho-hang-hoa-tren-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4be92b97e66a675aab1389b6ac6363247eff48f",
-      "finished_at": "2026-10-04T01:41:29+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01204",
-      "started_at": "2026-10-04T01:41:31+00:00",
-      "source": "_drafts/2026-10-04-gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con.md",
-      "destination": "_posts/2026-10-04-gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4be92b97e66a675aab1389b6ac6363247eff48f",
-      "finished_at": "2026-10-04T01:41:31+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01205",
       "started_at": "2026-10-04T01:41:57+00:00",
@@ -275,6 +231,50 @@
       "result": "PUBLISHED",
       "commit_sha": "e03c530c385bb28093ce8470002e9f9cf0067f41",
       "finished_at": "2026-10-04T02:13:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01226",
+      "started_at": "2026-10-04T02:13:55+00:00",
+      "source": "_drafts/2026-10-04-thu-tuc-thue-xe-may-cho-nguoi-en-cong-tac-ngan-han.md",
+      "destination": "_posts/2026-10-04-thu-tuc-thue-xe-may-cho-nguoi-en-cong-tac-ngan-han.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b13f5b4b4efe3a5bcddbe41fe5757fc1f209f817",
+      "finished_at": "2026-10-04T02:13:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01227",
+      "started_at": "2026-10-04T02:13:55+00:00",
+      "source": "_drafts/2026-10-04-tra-xe-som-hon-du-kien-co-can-bao-truoc-khong.md",
+      "destination": "_posts/2026-10-04-tra-xe-som-hon-du-kien-co-can-bao-truoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b13f5b4b4efe3a5bcddbe41fe5757fc1f209f817",
+      "finished_at": "2026-10-04T02:13:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01228",
+      "started_at": "2026-10-04T02:13:58+00:00",
+      "source": "_drafts/2026-10-04-kiem-tra-o-ac-truoc-khi-tra-xe-checklist-hai-phut.md",
+      "destination": "_posts/2026-10-04-kiem-tra-o-ac-truoc-khi-tra-xe-checklist-hai-phut.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b13f5b4b4efe3a5bcddbe41fe5757fc1f209f817",
+      "finished_at": "2026-10-04T02:13:58+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01229",
+      "started_at": "2026-10-04T02:13:58+00:00",
+      "source": "_drafts/2026-10-04-tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao.md",
+      "destination": "_posts/2026-10-04-tra-xe-khi-cua-hang-sap-ong-canh-gio-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b13f5b4b4efe3a5bcddbe41fe5757fc1f209f817",
+      "finished_at": "2026-10-04T02:13:58+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
