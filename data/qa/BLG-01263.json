@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01263",
   "title": "Chợ hoa đêm Quảng Bá bằng xe máy: giờ đi và chỗ gửi xe",
-  "scored_at": "2026-10-04T06:39:48+00:00",
+  "scored_at": "2026-10-04T07:51:37+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1020,
+  "word_count": 1130,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_posts/2026-10-04-cho-hoa-em-quang-ba-bang-xe-may-gio-i-va-cho-gui-xe.md",
-  "content_sha256": "5e2306a104149742feb24be308ac9eeec6ba263d75462f40d157d584c41b3031",
+  "content_sha256": "4b5a41e56a4564bf88b5f1c3aa3bc5e30455c90a428ee52d54671a2450c37e3b",
   "matrix_row_sha256": "46294784b0b3cd7593b1cbdcb72557903e58a17bae1bf3b026d23f4029e2db61",
   "result": "PASS",
   "grade": "EXCELLENT",
