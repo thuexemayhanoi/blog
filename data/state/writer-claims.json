@@ -1,11 +1,9 @@
 {
   "schema_version": "1",
-  "updated_at": "2026-10-04T07:56:07Z",
+  "updated_at": "2026-10-04T07:59:41Z",
   "leases": {
     "W1": {
       "ids": [
-        "BLG-01264",
-        "BLG-01265",
         "BLG-01266",
         "BLG-01267",
         "BLG-01268",
