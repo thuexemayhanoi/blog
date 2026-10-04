@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T08:28:52+00:00",
+  "updated_at": "2026-10-04T08:36:33+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01249",
-      "started_at": "2026-10-04T02:33:12+00:00",
-      "source": "_drafts/2026-10-04-en-cho-mo-bang-xe-may-uong-i-va-gui-xe.md",
-      "destination": "_posts/2026-10-04-en-cho-mo-bang-xe-may-uong-i-va-gui-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "45d13bd325e466fe05ae3751b11ffece7d8f735a",
-      "finished_at": "2026-10-04T02:33:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01250",
-      "started_at": "2026-10-04T02:36:26+00:00",
-      "source": "_drafts/2026-10-04-en-cho-hom-bang-xe-may-uong-i-va-gui-xe.md",
-      "destination": "_posts/2026-10-04-en-cho-hom-bang-xe-may-uong-i-va-gui-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a3832d77626cdcfffc581d17717b4cd5374f4645",
-      "finished_at": "2026-10-04T02:36:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01251",
       "started_at": "2026-10-04T02:36:26+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6490def62a79db4aa5aceeac515d2bbc458ec193",
       "finished_at": "2026-10-04T08:28:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01274",
+      "started_at": "2026-10-04T08:36:33+00:00",
+      "source": "_drafts/2026-10-04-en-soc-o-soc-son-bang-xe-may-cung-uong-va-gui-xe.md",
+      "destination": "_posts/2026-10-04-en-soc-o-soc-son-bang-xe-may-cung-uong-va-gui-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9cc32454992dfb1371b7c53c9956eee04c142ca3",
+      "finished_at": "2026-10-04T08:36:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01275",
+      "started_at": "2026-10-04T08:36:33+00:00",
+      "source": "_drafts/2026-10-04-chua-tram-o-chuong-my-bang-xe-may-cung-uong-va-luu-y.md",
+      "destination": "_posts/2026-10-04-chua-tram-o-chuong-my-bang-xe-may-cung-uong-va-luu-y.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9cc32454992dfb1371b7c53c9956eee04c142ca3",
+      "finished_at": "2026-10-04T08:36:33+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
