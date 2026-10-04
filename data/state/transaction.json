@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T09:20:32+00:00",
+  "updated_at": "2026-10-04T12:27:40+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01261",
-      "started_at": "2026-10-04T06:28:27+00:00",
-      "source": "_drafts/2026-10-04-gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen.md",
-      "destination": "_posts/2026-10-04-gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7161db0db2626abc62d4a3288b278b946686acfa",
-      "finished_at": "2026-10-04T06:28:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01262",
-      "started_at": "2026-10-04T06:39:49+00:00",
-      "source": "_drafts/2026-10-04-en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i.md",
-      "destination": "_posts/2026-10-04-en-phu-tay-ho-bang-xe-may-gui-xe-va-uong-i.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3b43aeed9ec4de350189ff5a72a61c3b638eb397",
-      "finished_at": "2026-10-04T06:39:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01263",
       "started_at": "2026-10-04T06:39:49+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f92ae54b83723fa9dd1edbb973fc9c7c49a65d4e",
       "finished_at": "2026-10-04T09:20:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01286",
+      "started_at": "2026-10-04T12:27:39+00:00",
+      "source": "_drafts/2026-10-04-chua-bai-inh-trang-an-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y.md",
+      "destination": "_posts/2026-10-04-chua-bai-inh-trang-an-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0fa1fcd6312b9b3dc558cd26b33c431bdeaff4b4",
+      "finished_at": "2026-10-04T12:27:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01287",
+      "started_at": "2026-10-04T12:27:40+00:00",
+      "source": "_drafts/2026-10-04-chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may.md",
+      "destination": "_posts/2026-10-04-chuyen-lan-ung-cach-tren-uong-nhieu-lan-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0fa1fcd6312b9b3dc558cd26b33c431bdeaff4b4",
+      "finished_at": "2026-10-04T12:27:40+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
