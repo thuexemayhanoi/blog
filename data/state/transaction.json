@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-04T02:30:55+00:00",
+  "updated_at": "2026-10-04T02:31:12+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01221",
-      "started_at": "2026-10-04T02:07:46+00:00",
-      "source": "_drafts/2026-10-04-so-sanh-gia-thue-xe-ga-va-xe-so-theo-ngay.md",
-      "destination": "_posts/2026-10-04-so-sanh-gia-thue-xe-ga-va-xe-so-theo-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "63efc13deb49888bfffecffe2a200c4ab10e3e4b",
-      "finished_at": "2026-10-04T02:07:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01222",
-      "started_at": "2026-10-04T02:07:46+00:00",
-      "source": "_drafts/2026-10-04-nhung-khoan-ngoai-gia-niem-yet-can-hoi-truoc-khi-thue.md",
-      "destination": "_posts/2026-10-04-nhung-khoan-ngoai-gia-niem-yet-can-hoi-truoc-khi-thue.md",
-      "result": "PUBLISHED",
-      "commit_sha": "63efc13deb49888bfffecffe2a200c4ab10e3e4b",
-      "finished_at": "2026-10-04T02:07:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01220",
       "started_at": "2026-10-04T02:08:01+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c497aefd589f7540402fe75bf2be293ba709a692",
       "finished_at": "2026-10-04T02:30:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01244",
+      "started_at": "2026-10-04T02:31:12+00:00",
+      "source": "_drafts/2026-10-04-en-ho-thanh-nhan-bang-xe-may-uong-i-quanh-ho.md",
+      "destination": "_posts/2026-10-04-en-ho-thanh-nhan-bang-xe-may-uong-i-quanh-ho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8c8e461c5997ad54484270eb192439616b7d72ec",
+      "finished_at": "2026-10-04T02:31:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01245",
+      "started_at": "2026-10-04T02:31:12+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-quanh-ho-thanh-nhan-buoi-sang-som.md",
+      "destination": "_posts/2026-10-04-chay-xe-quanh-ho-thanh-nhan-buoi-sang-som.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8c8e461c5997ad54484270eb192439616b7d72ec",
+      "finished_at": "2026-10-04T02:31:12+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
