@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T18:21:41+00:00",
+  "updated_at": "2026-10-05T18:31:20+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01369",
-      "started_at": "2026-10-05T16:27:52+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4de51a7b1e77b2ad23b54358078667f9a38e45f5",
-      "finished_at": "2026-10-05T16:27:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01370",
-      "started_at": "2026-10-05T16:35:36+00:00",
-      "source": "_drafts/2026-10-05-at-coc-bang-tien-mat-hay-chuyen-khoan-khi-thue-xe.md",
-      "destination": "_posts/2026-10-05-at-coc-bang-tien-mat-hay-chuyen-khoan-khi-thue-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f6c3ae859383b0c4bef0da15b1f3f173b3c2c165",
-      "finished_at": "2026-10-05T16:35:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01371",
       "started_at": "2026-10-05T16:35:36+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c30cec5c5c81d7e21343e1900a012e106b47b1aa",
       "finished_at": "2026-10-05T18:21:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01394",
+      "started_at": "2026-10-05T18:31:19+00:00",
+      "source": "_drafts/2026-10-05-bat-au-xe-may-bang-ap-chan-khi-ac-quy-yeu.md",
+      "destination": "_posts/2026-10-05-bat-au-xe-may-bang-ap-chan-khi-ac-quy-yeu.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ce463a6d0da960f15501ad5951b9bfc8b6eeaae9",
+      "finished_at": "2026-10-05T18:31:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01395",
+      "started_at": "2026-10-05T18:31:19+00:00",
+      "source": "_drafts/2026-10-05-chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong.md",
+      "destination": "_posts/2026-10-05-chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ce463a6d0da960f15501ad5951b9bfc8b6eeaae9",
+      "finished_at": "2026-10-05T18:31:20+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
