@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T14:13:49+00:00",
+  "updated_at": "2026-10-05T15:22:17+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01340",
-      "started_at": "2026-10-05T07:03:41+00:00",
-      "source": "_drafts/2026-10-04-chay-xe-qua-ngap-nuoc-sau-mua-to-o-ha-noi-vuot-hay-cho.md",
-      "destination": "_posts/2026-10-04-chay-xe-qua-ngap-nuoc-sau-mua-to-o-ha-noi-vuot-hay-cho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "60f5a7c8cdb930882941efe29a676d7ad4a720a4",
-      "finished_at": "2026-10-05T07:03:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01342",
-      "started_at": "2026-10-05T07:05:58+00:00",
-      "source": "_drafts/2026-10-04-i-xe-may-trong-suong-mu-buoi-som-mua-ong-giu-khoang-cach.md",
-      "destination": "_posts/2026-10-04-i-xe-may-trong-suong-mu-buoi-som-mua-ong-giu-khoang-cach.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8f60a9962bacd3cef449fc585531894e856d018b",
-      "finished_at": "2026-10-05T07:05:58+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01343",
       "started_at": "2026-10-05T07:05:58+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f2e49f6e6e2e6bbe4d19f0bebd6101970b93d6d8",
       "finished_at": "2026-10-05T14:13:49+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01366",
+      "started_at": "2026-10-05T15:22:17+00:00",
+      "source": "_drafts/2026-10-05-thu-tuc-thue-xe-may-khi-chua-co-ho-khau-ha-noi.md",
+      "destination": "_posts/2026-10-05-thu-tuc-thue-xe-may-khi-chua-co-ho-khau-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3c4fe44f5620a87837c8d1be024f586f348a2d2f",
+      "finished_at": "2026-10-05T15:22:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01367",
+      "started_at": "2026-10-05T15:22:17+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-qua-ung-dung-va-thue-truc-tiep-khac-gi-nhau.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-qua-ung-dung-va-thue-truc-tiep-khac-gi-nhau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3c4fe44f5620a87837c8d1be024f586f348a2d2f",
+      "finished_at": "2026-10-05T15:22:17+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
