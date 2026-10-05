@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T17:45:24+00:00",
+  "updated_at": "2026-10-05T17:55:38+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01361",
-      "started_at": "2026-10-05T11:29:33+00:00",
-      "source": "_drafts/2026-10-04-xe-may-chet-may-giua-nga-tu-cac-buoc-xu-ly-an-toan.md",
-      "destination": "_posts/2026-10-04-xe-may-chet-may-giua-nga-tu-cac-buoc-xu-ly-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d1ffc9075b5c805805b1c2350562721adccb3e22",
-      "finished_at": "2026-10-05T11:29:33+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01362",
-      "started_at": "2026-10-05T11:38:49+00:00",
-      "source": "_drafts/2026-10-04-no-lop-xe-may-khi-ang-chay-phanh-va-giu-thang-bang.md",
-      "destination": "_posts/2026-10-04-no-lop-xe-may-khi-ang-chay-phanh-va-giu-thang-bang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3d94d8083b980b2ea3888d4c27d1246d357fe022",
-      "finished_at": "2026-10-05T11:38:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01363",
       "started_at": "2026-10-05T11:38:49+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c0986d5438d4c0027548c1279fb7d6af9dc69f47",
       "finished_at": "2026-10-05T17:45:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01386",
+      "started_at": "2026-10-05T17:55:38+00:00",
+      "source": "_drafts/2026-10-05-thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may.md",
+      "destination": "_posts/2026-10-05-thanh-co-son-tay-va-lang-co-uong-lam-bang-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0764d64ae1c2dc5355af56d8f390423d582ee150",
+      "finished_at": "2026-10-05T17:55:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01387",
+      "started_at": "2026-10-05T17:55:38+00:00",
+      "source": "_drafts/2026-10-05-chua-huong-mua-festival-i-xe-may-can-chuan-bi-gi.md",
+      "destination": "_posts/2026-10-05-chua-huong-mua-festival-i-xe-may-can-chuan-bi-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0764d64ae1c2dc5355af56d8f390423d582ee150",
+      "finished_at": "2026-10-05T17:55:38+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
