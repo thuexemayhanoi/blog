@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T17:28:10+00:00",
+  "updated_at": "2026-10-05T17:37:57+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01357",
-      "started_at": "2026-10-05T11:20:24+00:00",
-      "source": "_drafts/2026-10-04-xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang.md",
-      "destination": "_posts/2026-10-04-xe-thue-bi-va-cham-nhe-khi-o-can-bao-gi-cho-cua-hang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "232ad720bd63bf122007487a7d14f07a60c6c7f7",
-      "finished_at": "2026-10-05T11:20:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01358",
-      "started_at": "2026-10-05T11:25:03+00:00",
-      "source": "_drafts/2026-10-04-thue-xe-may-lan-au-nen-hoi-gi-cua-hang-qua-tin-nhan.md",
-      "destination": "_posts/2026-10-04-thue-xe-may-lan-au-nen-hoi-gi-cua-hang-qua-tin-nhan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8b4138ce0fe2a6682cda05d16749246970a9b6f7",
-      "finished_at": "2026-10-05T11:25:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01359",
       "started_at": "2026-10-05T11:25:03+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "5140cd1c6b4fcf2a50d73711149ee190754de434",
       "finished_at": "2026-10-05T17:28:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01382",
+      "started_at": "2026-10-05T17:37:57+00:00",
+      "source": "_drafts/2026-10-05-bao-hiem-nhan-tho-co-chi-tra-tai-nan-xe-may-khong.md",
+      "destination": "_posts/2026-10-05-bao-hiem-nhan-tho-co-chi-tra-tai-nan-xe-may-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "642839555b9f9c7387c07bdf78697a439bc711e4",
+      "finished_at": "2026-10-05T17:37:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01383",
+      "started_at": "2026-10-05T17:37:57+00:00",
+      "source": "_drafts/2026-10-05-mat-cccd-khi-ang-giu-ho-ky-qua-thue-xe-lam-gi.md",
+      "destination": "_posts/2026-10-05-mat-cccd-khi-ang-giu-ho-ky-qua-thue-xe-lam-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "642839555b9f9c7387c07bdf78697a439bc711e4",
+      "finished_at": "2026-10-05T17:37:57+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
