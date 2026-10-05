@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T05:36:42+00:00",
+  "updated_at": "2026-10-05T05:52:18+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01293",
-      "started_at": "2026-10-04T12:54:35+00:00",
-      "source": "_drafts/2026-10-04-xe-buyt-dung-on-khach-vuot-hay-cho.md",
-      "destination": "_posts/2026-10-04-xe-buyt-dung-on-khach-vuot-hay-cho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d5d9cd27a5f88a5a25eddcab147a22e8b67d5291",
-      "finished_at": "2026-10-04T12:54:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01294",
-      "started_at": "2026-10-04T14:37:33+00:00",
-      "source": "_drafts/2026-10-04-nguoi-bo-hanh-cheo-ngang-khong-vach-cach-xu-ly.md",
-      "destination": "_posts/2026-10-04-nguoi-bo-hanh-cheo-ngang-khong-vach-cach-xu-ly.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dc9b0d345e38bf1133f555b2832a44b50ee08aeb",
-      "finished_at": "2026-10-04T14:37:33+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01295",
       "started_at": "2026-10-04T14:37:33+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "cc7c594b68d486ea98e685a18a9b62fe7916026b",
       "finished_at": "2026-10-05T05:36:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01318",
+      "started_at": "2026-10-05T05:52:18+00:00",
+      "source": "_drafts/2026-10-04-xich-xe-may-bi-kho-co-tieng-rit-kiem-tra-truoc-khi-chay.md",
+      "destination": "_posts/2026-10-04-xich-xe-may-bi-kho-co-tieng-rit-kiem-tra-truoc-khi-chay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e9bde6e0490a5b5a68d200e8a26693aac1ad1511",
+      "finished_at": "2026-10-05T05:52:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01319",
+      "started_at": "2026-10-05T05:52:18+00:00",
+      "source": "_drafts/2026-10-04-lop-xe-may-mon-khong-eu-nguyen-nhan-va-cach-e-y.md",
+      "destination": "_posts/2026-10-04-lop-xe-may-mon-khong-eu-nguyen-nhan-va-cach-e-y.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e9bde6e0490a5b5a68d200e8a26693aac1ad1511",
+      "finished_at": "2026-10-05T05:52:18+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
