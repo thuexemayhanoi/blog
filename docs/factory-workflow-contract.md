@@ -1,17 +1,20 @@
-# Hợp đồng 6 workflow — thuexemayhanoi/blog
+# Hợp đồng 7 workflow — thuexemayhanoi/blog
 
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
-factory-publish-verify) và bản 5-workflow (tách factory-refill) đã
-RETIRED — `factory-production.yml` và `factory-refill.yml` KHÔNG còn
-tồn tại; publisher duy nhất hiện nay là `factory-publish.yml`
-(push-driven, turbo queue ported từ /vanchinh), refill là op bảo trì
-chạy LOCAL, KHÔNG còn workflow riêng. Nguyên tắc giữ nguyên: ít code,
+factory-publish-verify) và bản 6-workflow (refill chỉ local) đã
+RETIRED — `factory-production.yml` KHÔNG còn tồn tại; publisher duy nhất
+là `factory-publish.yml` (push-driven, turbo queue ported từ
+/vanchinh). Cập nhật 2026-10-05 theo lệnh chủ xe (55598ac1):
+`factory-refill.yml` được PHỤC HỒI như workflow thứ 7 — refill đẩy lên
+CI để ledger/seed/matrix/checkpoint/reports commit đồng bộ trong MỘT
+commit đã validate (chặn tái diễn drift checkpoint/matrix như sự cố
+BLG-01364), cùng concurrency group `factory-publish` với publisher. Nguyên tắc giữ nguyên: ít code,
 ít luật hơn khi cả hai đều an toàn; sản xuất push draft `_drafts/` →
 queue → pair claim/QA/publish → audit sâu on-demand. Kỹ thuật sâu:
 docs/ADVANCED-FACTORY-RECOVERY.md.
 
-## 1. Danh sách workflow (CHÍNH XÁC 6)
+## 1. Danh sách workflow (CHÍNH XÁC 7)
 
 | Workflow | Trigger | Quyền | Phạm vi |
 |---|---|---|---|
@@ -20,6 +23,7 @@ docs/ADVANCED-FACTORY-RECOVERY.md.
 | `factory-liveness.yml` | CHỈ workflow_dispatch (không cron) | `contents: read` | Liveness READ-ONLY: `watchdog.py` (unhealthy = run FAIL, KHÔNG chỉ warning) + `factory-operator.py status` + purity check working-tree sạch. KHÔNG recover, KHÔNG claim, KHÔNG publish, KHÔNG commit. |
 | `factory-publish-verify.yml` | CHỈ workflow_dispatch (không cron) | `contents: read` | FULL audit READ-ONLY: watchdog + `factory-operator.py verify --scope full` + refill gate G1-G8 (pure selftest) + `sitemap-plan.py` + generator drift/idempotency + Jekyll build + built-link deep check + draft-leak + hub/pagination render + working-tree clean. KHÔNG commit, KHÔNG push. |
 | `production-watchdog.yml` | schedule cron `*/30 * * * *` + workflow_dispatch | `contents: read` | AGENT #6 wake-watchdog LIGHTWEIGHT read-mostly: `production-watchdog.py --dry-run` — đọc timestamp progress (checkpoint/txn PUBLISHED/writer-claims/QA evidence), khi >= 2h không valid progress và MỌI guard idle (#4/#5 idle, không maintenance-lock, không pause/blocked chủ động, không incident mở, không writer cycle active, không publisher active, không build/deploy active) thì báo WOULD WAKE; ship dry-run KHÔNG tự kích hoạt — wake thật là quyết định người vận hành. KHÔNG build, KHÔNG quét link, KHÔNG repair, KHÔNG commit/push. |
+| `factory-refill.yml` | push main theo paths `data/factory/refill-request.json`, `data/factory/refill-batches/**`; workflow_dispatch action=refill | `contents: write` | Refill DEDICATED (phục hồi 2026-10-05, 55598ac1): recover transaction FAIL-CLOSED → stage batch đã duyệt qua gate G1-G8 (`stage-refill-batch.py --all`, idempotent, FAIL = rollback) → `factory-operator.py refill` (materialize work thật, SUCCESS bắt buộc planned tăng) → validate chunk read-only → commit + push fast-forward MỘT LẦN (đồng bộ ledger, seed, matrix, checkpoint, reports) → watchdog + status. Refill FAIL = run FAIL (tín hiệu rõ cho writer: sửa batch hoặc mở rộng topic thật) — KHÔNG filler, KHÔNG SUCCESS giả. Concurrency group `factory-publish`, `cancel-in-progress: false` — xếp hàng với publisher, KHÔNG mutate state cùng lúc. KHÔNG claim, KHÔNG QA, KHÔNG publish bài. |
 | `factory-soak.yml` | CHỈ workflow_dispatch | `contents: read` | Reliability/soak on-demand, HERMETIC đối với production: chạy `scripts/factory/tests/test_soak_recovery.py` trên fixture cô lập (multi-chunk + failure recovery) + purity check. KHÔNG mutation production state, KHÔNG commit. |
 
 Pages deploy bằng cơ chế built-in của GitHub (branch main), không cần
@@ -32,9 +36,6 @@ workflow riêng.
   /vanchinh)
 - `.github/workflows/factory-production.yml` (đường nóng bản 4/5-workflow
   — thay bằng `factory-publish.yml` push-driven)
-- `.github/workflows/factory-refill.yml` (refill tách riêng bản
-  5-workflow — refill quay về là op bảo trì local
-  `factory-operator.py refill`, KHÔNG còn cron/trigger sản xuất)
 - `.github/workflows/factory-operator.yml` (mô hình file lệnh — thay
   bằng workflow_dispatch inputs)
 - `.github/workflows/factory-validate.yml` (gộp vào quality-gate FAST)
@@ -55,7 +56,8 @@ workflow riêng.
   lệnh operator — không còn tồn tại)
 
 `test_hardening.py` (S7 StaticContract) chặn việc các file trên quay lại
-và chặn thêm workflow mới ngoài danh sách 6.
+và chặn thêm workflow mới ngoài danh sách 7 (factory-refill.yml nằm
+TRONG danh sách — phục hồi theo lệnh chủ xe 2026-10-05).
 
 ## 3. Bất biến giữ nguyên (KHÔNG giảm khi thay đổi workflow)
 

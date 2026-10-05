@@ -1343,6 +1343,79 @@ def op_verify(args):
     return 0
 
 
+def op_repair_checkpoint(args):
+    """Sửa checkpoint lệch matrix theo SỰ THẬT matrix (canonical, 2026-10-05).
+
+    Bài học sự cố BLG-01364 (2026-10-05): checkpoint planned=48 trong khi
+    matrix planned=0 vì người vận hành sửa tay data/state/checkpoint.json
+    theo ghi nhớ riêng (push đuôi checkpoint mà phần matrix/seed không
+    lên kịp). validate.py FAIL-CLOSED ('checkpoint planned lệch matrix')
+    chặn kịp — nhưng đường lối sửa lại là tay, dễ tái diễn.
+
+    Hợp đồng op này (thay toàn bộ sửa tay số đếm):
+      - CHỈ cho phép chạy khi transaction INACTIVE + lock sạch.
+      - KHÔNG tin counts cũ: tái sinh toàn bộ counts + next_claimable_id
+        từ data/content-matrix.csv (nguồn sự thật engine).
+      - KHÔNG đụng khoá nào khác của checkpoint (last_completed_article_id,
+        resume_point, rules...), KHÔNG đụng matrix/seed/ledger.
+      - In rõ diff từng key bị đổi để log CI lưu bằng chứng.
+      - Hậu kiểm: validate --scope chunk PHẢI PASS + reports tái sinh,
+        không PASS thì return 1 (không khai SUCCESS giả).
+    """
+    txn = read_json(TXN, {'active': False, 'history': []})
+    if txn.get('active'):
+        print('repair-checkpoint: transaction đang ACTIVE — chạy '
+              '`factory-operator.py recover` TRƯỚC. KHÔNG đụng state '
+              'đang treo.')
+        return 1
+    held, meta = lock_held_by_other()
+    if held:
+        print('repair-checkpoint: writer-lock đang giữ (holder=%s) — '
+              'KHÔNG force-unlock, STOP.' % meta.get('holder'))
+        return 1
+    rows = load_matrix()
+    if not rows:
+        print('repair-checkpoint: matrix rỗng/không đọc được — KHÔNG '
+              'được mượn op này để reset engine. STOP.')
+        return 1
+    cp = read_json(CP, {}) or {}
+    old_counts = dict(cp.get('counts') or {})
+    old_next = cp.get('next_claimable_id')
+    planned = sorted(x['id'] for x in rows if x['status'] == 'PLANNED')
+    release = with_lock('operator-repair-checkpoint-%s'
+                        % uuid.uuid4().hex[:8])
+    try:
+        update_checkpoint(cp, rows,
+                          {'next_claimable_id':
+                           (planned[0] if planned else None)})
+    finally:
+        release()
+    cp2 = read_json(CP, {}) or {}
+    changed = []
+    for k, v in (cp2.get('counts') or {}).items():
+        if old_counts.get(k) != v:
+            changed.append('counts.%s: %r -> %r'
+                           % (k, old_counts.get(k), v))
+    if old_next != cp2.get('next_claimable_id'):
+        changed.append('next_claimable_id: %r -> %r'
+                       % (old_next, cp2.get('next_claimable_id')))
+    if changed:
+        print('repair-checkpoint: ĐÃ SỬA theo matrix truth:')
+        for c in changed:
+            print('  - %s' % c)
+    else:
+        print('repair-checkpoint: counts đã khớp matrix — không đổi gì '
+              '(idempotent).')
+    if run_reports_checked('repair-checkpoint') != 0:
+        return 1
+    if validate_or_stop('repair-checkpoint') != 0:
+        return 1
+    print('repair-checkpoint: OK — checkpoint khớp matrix, validate '
+          'PASS. Đây là op duy nhất được sửa counts; KHÔNG bao giờ sửa '
+          'tay data/state/checkpoint.json.')
+    return 0
+
+
 def op_refill(args):
     """Refill TẠO WORK THẬT (semantic contract, docs/PROC-PUBLISH.md).
 
@@ -1496,6 +1569,7 @@ OPS = {
     'requeue': op_requeue,
     'verify': op_verify,
     'refill': op_refill,
+    'repair-checkpoint': op_repair_checkpoint,
     'reports': op_reports,
 }
 

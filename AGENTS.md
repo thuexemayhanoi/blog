@@ -4,7 +4,7 @@ Blog Jekyll trên GitHub Pages. Một chủ xe vận hành qua AI trên điện 
 Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. Kỹ thuật sâu
 (chống double-spend, SHA evidence, 4 tầng test, soak): docs/ADVANCED-FACTORY-RECOVERY.md.
 
-## Mô hình 6 workflow (docs/factory-workflow-contract.md)
+## Mô hình 7 workflow (docs/factory-workflow-contract.md)
 
 - `quality-gate.yml` — CI FAST trên MỌI push main / PR: validate chunk + Jekyll
   build + link integrity + draft leak + sitemap/hub sanity. READ-ONLY.
@@ -33,16 +33,36 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 - `article-batch.yml` — batch planning/status DRY-RUN READ-ONLY (CHỈ
   workflow_dispatch): validate full + progress snapshot + queue stats.
   KHÔNG claim, KHÔNG publish, KHÔNG commit.
+- `factory-refill.yml` — refill DEDICATED, PUSH-DRIVEN + dispatch: khi
+  writer đẩy batch chủ đề thật `data/factory/refill-batches/**` hoặc bump
+  `data/factory/refill-request.json` thì workflow tự stage (gate
+  G1-G8) → `factory-operator.py refill` → commit ĐỒNG BỘ ledger, seed,
+  matrix, checkpoint, reports trong MỘT commit đã validate; CÙNG
+  concurrency group `factory-publish` với publisher (hai run xếp hàng,
+  KHÔNG mutate state cùng lúc). KHÔNG claim, KHÔNG publish bài.
 
 Luồng pair bài (push-driven): writer đọc status/manifests → viết 2..10
 draft `_drafts/` → push → workflow TỰ claim EXACT ID (pair 2) → QA
 (chấm + evidence hash) → publish hàng PASS qua gate → sửa REPAIR thì chỉ
 cần push lại draft đã sửa (repair push, mode repair KHÔNG claim lại từ
-đầu) → chờ Quality gate xanh + Pages deploy + kiểm URL live. Trước khi
-chọn pair tiếp theo: còn PLANNED < 2 thì chạy op bảo trì LOCAL
-`factory-operator.py refill`, CHỜ refill success, FETCH MAIN, rồi viết
-cặp kế tiếp (ledger STAGED → PLANNED, KHÔNG filler; hết candidate →
-NEEDS_TOPIC_EXPANSION, STOP và báo blocker).
+đầu) → chờ Quality gate xanh + Pages deploy + kiểm URL live.
+
+Refill khi queue cạn (hợp đồng sau sự cố drift 2026-10-05): còn
+PLANNED < chunk_size thì writer CHỈ push (1) batch chủ đề thật
+`data/factory/refill-batches/<date>-<tag>.json` (đã qua gate G1-G8) và
+(2) bump `data/factory/refill-request.json`. Workflow
+`factory-refill.yml` (CÙNG concurrency group `factory-publish` với
+publisher — hai run xếp hàng, không mutate state cùng lúc) tự
+stage + materialize và commit ĐỒNG BỘ ledger, seed, matrix, checkpoint,
+reports trong MỘT commit đã validate. Writer KHÔNG bao giờ tự
+commit/sửa `data/state/*` hay số đếm checkpoint; nếu `validate` báo
+`checkpoint lệch matrix` thì chạy op canonical
+`factory-operator.py repair-checkpoint` (tái sinh counts +
+next_claimable_id từ matrix truth — xem docs/RECOVERY.md), KHÔNG sửa
+tay. Sau refill SUCCESS (run xanh): FETCH MAIN rồi mới viết cặp kế
+tiếp. Hết candidate STAGED → NEEDS_TOPIC_EXPANSION: viết batch chủ đề
+thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
+`scripts/factory/tests/test_refill_drift.py`.
 
 ## 10 quy tắc
 

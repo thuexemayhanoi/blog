@@ -1,6 +1,6 @@
 name: Factory refill
 
-# REFILL DEDICATED (hop dong 5 workflow — docs/factory-workflow-contract.md,
+# REFILL DEDICATED (hop dong 7 workflow — docs/factory-workflow-contract.md,
 # 2026-10-01). Refill KHONG THUOC DUONG NONG publish bai viet cua
 # factory-production.yml: mot batch refill sai KHONG BAO GIO lam hong
 # lan publish bai vua chay. Trigger:
@@ -27,8 +27,8 @@ name: Factory refill
 #   5. commit + push fast-forward MOT LAN (deterministic refill state)
 #   6. watchdog + status — txn inactive, lock sach, checkpoint on dinh
 #
-# CONCURRENCY: CUNG group blog-factory-production voi
-# factory-production.yml — refill va publish KHONG BAO GIO mutate state
+# CONCURRENCY: CUNG group factory-publish voi
+# factory-publish.yml — refill va publish KHONG BAO GIO mutate state
 # cung luc; mot run xep hang cho run kia (cancel-in-progress: false).
 #
 # KHONG: claim draft, QA, publish bai (do la cua factory-production);

@@ -37,6 +37,28 @@ tự xoá, không force-unlock; mọi dọn dẹp phải qua operator chuẩn b�
 
 Chạy `python3 scripts/factory/validate.py` (từ gốc repository). Nếu ma trận thiếu/hỏng: KHÔNG tự sinh lại toàn bộ; khôi phục từ lịch sử git commit gần nhất còn hợp lệ. Ma trận đã được commit và có chủ sở hữu: mọi chỉnh sửa theo hợp đồng trong docs/factory-workflow-contract.md; nếu ma trận từng được đánh dấu BLOCKED, xem `reports/factory/matrix-recovery-blocked.md` và không tự tạo matrix mới rồi gọi là khôi phục.
 
+## Checkpoint lệch matrix (sự cố BLG-01364, 2026-10-05)
+
+Triệu chứng: `validate.py` FAIL với `checkpoint planned lệch matrix` —
+số đếm trong `data/state/checkpoint.json` không khớp
+`data/content-matrix.csv` (thường do push state dở dang: checkpoint lên
+kịp mà matrix/seed chưa, hoặc ngược lại sau refill bị ngắt giữa chừng).
+
+- KHÔNG BAO GIỜ sửa tay `counts` hay `next_claimable_id` trong
+  `data/state/checkpoint.json` — mọi con số phải là output của tooling.
+- KHÔNG reset checkpoint, KHÔNG đè theo ghi nhớ phiên trước.
+- Cách sửa DUY NHẤT (canonical):
+  `python3 scripts/factory/factory-operator.py repair-checkpoint`
+  — op tái sinh toàn bộ `counts` + `next_claimable_id` từ sự thật
+  matrix, chỉ chạy khi transaction inactive + lock sạch, KHÔNG đụng
+  matrix/seed/ledger hay khoá khác của checkpoint, in rõ diff từng key
+  vào log CI, và hậu kiểm validate PASS rồi mới trả SUCCESS. Op
+  idempotent: chạy lại không đổi gì thêm.
+- Sau repair: `validate.py --scope chunk` phải PASS, rồi mới tiếp tục
+  refill/publish. Hợp đồng đầy đủ + kiểm thử hồi quy:
+  `scripts/factory/tests/test_refill_drift.py`.
+
+
 ## Hợp đồng fail-closed của recover (phase RECOVERY_VERIFYING)
 
 `factory-operator.py recover` là op FAIL-CLOSED — không bao giờ đóng

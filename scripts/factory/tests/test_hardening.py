@@ -646,6 +646,7 @@ CURRENT_WORKFLOWS = [
     'factory-liveness.yml',
     'factory-publish-verify.yml',
     'factory-publish.yml',
+    'factory-refill.yml',
     'factory-soak.yml',
     'production-watchdog.yml',
     'quality-gate.yml',
@@ -654,7 +655,6 @@ CURRENT_WORKFLOWS = [
 RETIRED_WORKFLOWS = [
     'article-batch.yml',
     'factory-production.yml',
-    'factory-refill.yml',
     'publish-drafts.yml',
     'factory-operator.yml',
     'factory-validate.yml',
@@ -705,12 +705,23 @@ class StaticContract(unittest.TestCase):
         """CHỈ factory-publish.yml được contents: write và CHỈ nó
         commit/push: mọi workflow khác đều READ-ONLY — KHÔNG publisher
         song song, KHÔNG mutator ẩn."""
+        # Mutator được duyệt (2026-10-05): factory-publish.yml (publisher
+        # bài — DUY NHẤT đi vào _posts/) và factory-refill.yml (phục hồi
+        # theo lệnh chủ xe — chỉ mutate state refill: ledger/seed/matrix/
+        # checkpoint/reports; KHÔNG bao giờ publish bài).
         for name in CURRENT_WORKFLOWS:
             y = wf_text(name)
             if name == 'factory-publish.yml':
                 self.assertIn('contents: write', y)
                 self.assertIn('git push', y)
                 self.assertIn('git commit', y)
+            elif name == 'factory-refill.yml':
+                self.assertIn('contents: write', y)
+                self.assertIn('git push', y)
+                self.assertIn('git commit', y)
+                # refill KHÔNG publish bài — publisher vẫn là DUY NHẤT
+                self.assertNotIn('publish-gate', y)
+                self.assertNotIn("op_publish", y)
             else:
                 self.assertIn('contents: read', y)
                 self.assertNotIn('contents: write', y)
@@ -981,11 +992,13 @@ class StaticContract(unittest.TestCase):
         self.assertIn('git status --porcelain', y)
 
     def test_s7_legacy_publishers_retired(self):
-        """publish-drafts.yml / factory-production.yml / factory-refill.yml
+        """publish-drafts.yml / factory-production.yml
         đã RETIRE (legacy, theo lệnh chủ xe): file KHÔNG được quay lại —
-        factory-publish.yml là production publisher DUY NHẤT."""
-        for name in ('publish-drafts.yml', 'factory-production.yml',
-                     'factory-refill.yml'):
+        factory-publish.yml là production publisher DUY NHẤT.
+        (factory-refill.yml được chủ xe PHỤC HỒI 2026-10-05 — 55598ac1 —
+        refill đẩy lên CI, commit đồng bộ một lần; KHÔNG phải legacy
+        publisher.)"""
+        for name in ('publish-drafts.yml', 'factory-production.yml'):
             self.assertFalse(
                 os.path.exists(os.path.join(ROOT, '.github/workflows',
                                             name)),
