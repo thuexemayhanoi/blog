@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 65
   size: 12
-  total: 775
+  total: 777
 chia-se:
   pages: 10
   size: 12
@@ -35,7 +35,7 @@ topic:
   hoi-dap_hoi-dap-nguoi-moi:
     pages: 2
     size: 24
-    total: 28
+    total: 29
   ky-nang_cho-do-va-hanh-ly:
     pages: 2
     size: 24
@@ -51,7 +51,7 @@ topic:
   ky-nang_suc-khoe-khi-lai-xe:
     pages: 2
     size: 24
-    total: 31
+    total: 32
   ky-nang_thoi-tiet-va-duong-sa:
     pages: 3
     size: 24
