@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T05:19:22+00:00",
+  "updated_at": "2026-10-05T05:24:21+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01283",
-      "started_at": "2026-10-04T09:20:31+00:00",
-      "source": "_drafts/2026-10-04-i-tam-coc-bich-ong-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y.md",
-      "destination": "_posts/2026-10-04-i-tam-coc-bich-ong-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f92ae54b83723fa9dd1edbb973fc9c7c49a65d4e",
-      "finished_at": "2026-10-04T09:20:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01286",
-      "started_at": "2026-10-04T12:27:39+00:00",
-      "source": "_drafts/2026-10-04-chua-bai-inh-trang-an-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y.md",
-      "destination": "_posts/2026-10-04-chua-bai-inh-trang-an-bang-xe-may-tu-ha-noi-cung-uong-va-luu-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0fa1fcd6312b9b3dc558cd26b33c431bdeaff4b4",
-      "finished_at": "2026-10-04T12:27:39+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01287",
       "started_at": "2026-10-04T12:27:40+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "e2ab666b9dc3547daf36b6984639e3c419d2070d",
       "finished_at": "2026-10-05T05:19:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01308",
+      "started_at": "2026-10-05T05:24:21+00:00",
+      "source": "_drafts/2026-10-04-lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-en-ong.md",
+      "destination": "_posts/2026-10-04-lo-trinh-luyen-xe-cho-nguoi-moi-o-ha-noi-tu-vang-en-ong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8cbe5f6e7e0e4435d4091a2f4de462698de69c7e",
+      "finished_at": "2026-10-05T05:24:21+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01309",
+      "started_at": "2026-10-05T05:24:21+00:00",
+      "source": "_drafts/2026-10-04-nguoi-moi-chay-xe-may-co-can-ban-o-so-khong.md",
+      "destination": "_posts/2026-10-04-nguoi-moi-chay-xe-may-co-can-ban-o-so-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8cbe5f6e7e0e4435d4091a2f4de462698de69c7e",
+      "finished_at": "2026-10-05T05:24:21+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
