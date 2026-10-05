@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T11:25:03+00:00",
+  "updated_at": "2026-10-05T11:29:33+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01335",
-      "started_at": "2026-10-05T06:32:41+00:00",
-      "source": "_drafts/2026-10-04-cung-uong-cuoi-tuan-ha-noi-ba-vi-mot-ngay-bang-xe-may.md",
-      "destination": "_posts/2026-10-04-cung-uong-cuoi-tuan-ha-noi-ba-vi-mot-ngay-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6520595f227d39abb9b7d3b3dc096bac3b589f87",
-      "finished_at": "2026-10-05T06:32:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01336",
-      "started_at": "2026-10-05T06:37:27+00:00",
-      "source": "_drafts/2026-10-04-chay-xe-cuoi-tuan-ha-noi-tam-ao-trong-mot-ngay.md",
-      "destination": "_posts/2026-10-04-chay-xe-cuoi-tuan-ha-noi-tam-ao-trong-mot-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "76860e469101b0208f33094efbbe8f48c7984de6",
-      "finished_at": "2026-10-05T06:37:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01337",
       "started_at": "2026-10-05T06:37:27+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "8b4138ce0fe2a6682cda05d16749246970a9b6f7",
       "finished_at": "2026-10-05T11:25:03+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01360",
+      "started_at": "2026-10-05T11:29:33+00:00",
+      "source": "_drafts/2026-10-04-nhan-xe-may-thue-luc-troi-toi-kiem-tra-them-gi.md",
+      "destination": "_posts/2026-10-04-nhan-xe-may-thue-luc-troi-toi-kiem-tra-them-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d1ffc9075b5c805805b1c2350562721adccb3e22",
+      "finished_at": "2026-10-05T11:29:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01361",
+      "started_at": "2026-10-05T11:29:33+00:00",
+      "source": "_drafts/2026-10-04-xe-may-chet-may-giua-nga-tu-cac-buoc-xu-ly-an-toan.md",
+      "destination": "_posts/2026-10-04-xe-may-chet-may-giua-nga-tu-cac-buoc-xu-ly-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d1ffc9075b5c805805b1c2350562721adccb3e22",
+      "finished_at": "2026-10-05T11:29:33+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
