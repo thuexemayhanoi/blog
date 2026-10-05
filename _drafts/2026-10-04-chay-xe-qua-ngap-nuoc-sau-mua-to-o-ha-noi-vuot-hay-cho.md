@@ -18,7 +18,7 @@ Chạy xe qua đường ngập là tình huống mỗi mùa mưa người Hà N�
 
 ## Đánh giá đường ngập sau mưa trước khi quyết định
 
-Nguyên tắc số một: nếu không nhìn thấy mặt đường thì không chạy qua. Nước đục che mất các hố ga mất nắp, rãnh mở và gờ xi măng, đây là các bẫy nguy hiểm nhất mùa mưa ở Hà Nội. Hãy dừng lại ở mép nước, quan sát các xe phía trước đi qua: họ đi ở vệt nào, nước dâng tới đâu trên bánh xe họ, có xe nào chết máy giữa chừng không.
+Nguyên tắc số một khi gặp nước ngập: nếu không nhìn thấy mặt đường thì không chạy qua. Nước đục che mất các hố ga mất nắp, rãnh mở và gờ xi măng, đây là các bẫy nguy hiểm nhất mùa mưa ở Hà Nội. Hãy dừng lại ở mép nước, quan sát các xe phía trước đi qua: họ đi ở vệt nào, nước dâng tới đâu trên bánh xe họ, có xe nào chết máy giữa chừng không.
 
 Độ sâu an toàn cho xe máy phổ thông là mức nước dưới nửa bánh xe, tức khoảng dưới hai mươi phân. Với mức này, hốc gió và bộ Bugi thường chưa bị chạm nước. Trên mức đó, khả năng nước tràn vào ống gió hoặc hút vào xy lanh tăng nhanh, đặc biệt với xe máy. Nếu nước đã tới gần giữa bánh xe hoặc bạn không ước lượng được, lựa chọn đúng là chờ hoặc đi đường khác.
 
