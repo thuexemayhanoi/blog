@@ -34,7 +34,7 @@ Kem chống nắng vẫn cần thiết cho những vùng không che được h�
 
 Cơ thể mất nước nhanh hơn cảm nhận khi chạy xe dưới nắng, vì gió làm mồ hôi bay hơi liên tục mà người ta tưởng mình không đổ mồ hôi. Uống nước trước khi khát, mang theo chai nước hoặc ghé mua nước dọc đường, và tránh lệch hẳn vào nước đá quá lạnh sau khi người đang nóng vì dễ gây tức ngực. Các loại nước muối hoặc nước dừa giúp bù chất điện giải tốt hơn nước lọc nếu phải chạy cả ngày trời.
 
-Dấu hiệu cảnh báo say nắng cần thuộc lòng: chóng mặt, ù tai, chân tay run, da khô nóng dù trời rất nóng, hoặc đột nhiên ngừng ra mồ hôi. Khi có một trong các dấu hiệu đó, dừng ngay vào bóng rám, ngồi hạ thấp đầu, xả nước mát lên cổ và sau gáy, rồi nghỉ tới khi khỏe hẳn mới đi tiếp. Cố chịu đựng chạy tiếp khi người đã choáng là cách nhanh nhất dẫn tới té xe giữa đường. Trọng lượng của mũ và áo gió trong thời điểm này không đáng kể so với hậu quả của một cơn choáng nắng.
+Dấu hiệu cảnh báo say nắng cần thuộc lòng: chóng mặt, ù tai, chân tay run, da khô nóng dù trời rất nóng, hoặc đột nhiên ngừng ra mồ hôi. Khi có một trong các dấu hiệu đó, dừng ngay vào bóng râm, ngồi hạ thấp đầu, xả nước mát lên cổ và sau gáy, rồi nghỉ tới khi khỏe hẳn mới đi tiếp. Cố chịu đựng chạy tiếp khi người đã choáng là cách nhanh nhất dẫn tới té xe giữa đường. Trọng lượng của mũ và áo gió trong thời điểm này không đáng kể so với hậu quả của một cơn choáng nắng.
 
 ## Nắng gắt ảnh hưởng tới xe máy thế nào
 

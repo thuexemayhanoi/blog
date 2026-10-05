@@ -18,7 +18,7 @@ writer: W2
 
 ## Đi xe máy trong sương mù: tầm nhìn giảm và nguyên tắc tốc độ
 
-Quy tắc đầu tiên khi đi xe máy trong sương mù là luôn chạy chậm đủ để dừng được trong khoảng nhìn thấy. Nếu bạn chỉ thấy rõ phía trước hai chục mét, tốc độ phải ở mức mà phanh dừng được trong hai chục mét đó, tức rất chậm. Tự đặt câu hỏi này mỗi khi sương dày lên: nếu có người ngã ngay mép tầm nhìn, mình dừng kịp không.
+Quy tắc đầu tiên khi đi xe máy trong sương mù là luôn chạy chậm đủ để dừng được trong khoảng nhìn thấy. Nếu bạn chỉ thấy rõ phía trước hai chục mét, tốc độ phải ở mức mà phanh dừng được trong hai chục mét đó, tức rất chậm. Tự đặt câu hỏi này mỗi khi sương dày lên: nếu có người ngã ngay mép tầm nhìn, bạn dừng kịp không.
 
 Thứ hai, đừng bao giờ bám theo đèn hậu của xe trước như la bàn. Đây là thói quen nguy hiểm mùa sương: xe trước có thể tránh hố theo phản xạ, và bạn bám sát sẽ không kịp theo. Giữ khoảng cách xa hơn ngày thường, ít nhất gấp rưỡi quãng vẫn giữ, vì trong sương mọi khoảng cách đều trông xa hơn thực tế.
 
