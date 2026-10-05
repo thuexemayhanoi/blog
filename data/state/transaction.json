@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T06:53:48+00:00",
+  "updated_at": "2026-10-05T07:03:41+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01316",
-      "started_at": "2026-10-05T05:36:42+00:00",
-      "source": "_drafts/2026-10-04-thue-theo-ngay-hay-theo-thang-cho-nguoi-moi-en-ha-noi.md",
-      "destination": "_posts/2026-10-04-thue-theo-ngay-hay-theo-thang-cho-nguoi-moi-en-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cc7c594b68d486ea98e685a18a9b62fe7916026b",
-      "finished_at": "2026-10-05T05:36:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01317",
       "started_at": "2026-10-05T05:36:42+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "ea9b79cc8efc1bd4295fa02a798a62d473157c5f",
       "finished_at": "2026-10-05T06:53:48+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01340",
+      "started_at": "2026-10-05T07:03:41+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-qua-ngap-nuoc-sau-mua-to-o-ha-noi-vuot-hay-cho.md",
+      "destination": "_posts/2026-10-04-chay-xe-qua-ngap-nuoc-sau-mua-to-o-ha-noi-vuot-hay-cho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "60f5a7c8cdb930882941efe29a676d7ad4a720a4",
+      "finished_at": "2026-10-05T07:03:41+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
