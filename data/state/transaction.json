@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T05:28:37+00:00",
+  "updated_at": "2026-10-05T05:32:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01289",
-      "started_at": "2026-10-04T12:35:34+00:00",
-      "source": "_drafts/2026-10-04-giu-toc-o-eu-tren-uong-truong-ky-thuat-that-ga.md",
-      "destination": "_posts/2026-10-04-giu-toc-o-eu-tren-uong-truong-ky-thuat-that-ga.md",
-      "result": "PUBLISHED",
-      "commit_sha": "752442be40d14788b59cb1399067729b84132e06",
-      "finished_at": "2026-10-04T12:35:34+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01290",
-      "started_at": "2026-10-04T12:44:12+00:00",
-      "source": "_drafts/2026-10-04-keo-xe-qua-oan-ngap-nuoc-ung-cach.md",
-      "destination": "_posts/2026-10-04-keo-xe-qua-oan-ngap-nuoc-ung-cach.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e25091ebd4e23102d12f8db02d638d5fa193f70a",
-      "finished_at": "2026-10-04T12:44:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01291",
       "started_at": "2026-10-04T12:44:12+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "b6b629319db29acde23fe2fe36e07fadd9a732c6",
       "finished_at": "2026-10-05T05:28:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01310",
+      "started_at": "2026-10-05T05:32:05+00:00",
+      "source": "_drafts/2026-10-04-xe-ga-bi-tut-ap-suat-lop-lien-tuc-tim-nguyen-nhan.md",
+      "destination": "_posts/2026-10-04-xe-ga-bi-tut-ap-suat-lop-lien-tuc-tim-nguyen-nhan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6ba1e9ef13394f9ab9989fc8abebcebf11ec6312",
+      "finished_at": "2026-10-05T05:32:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01311",
+      "started_at": "2026-10-05T05:32:05+00:00",
+      "source": "_drafts/2026-10-04-xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au.md",
+      "destination": "_posts/2026-10-04-xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6ba1e9ef13394f9ab9989fc8abebcebf11ec6312",
+      "finished_at": "2026-10-05T05:32:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
