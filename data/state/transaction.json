@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T16:27:52+00:00",
+  "updated_at": "2026-10-05T16:35:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01345",
-      "started_at": "2026-10-05T07:26:46+00:00",
-      "source": "_drafts/2026-10-04-cho-cay-kieng-chau-lon-tren-xe-may-meo-co-inh.md",
-      "destination": "_posts/2026-10-04-cho-cay-kieng-chau-lon-tren-xe-may-meo-co-inh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "90de2ceebdb66a9713de0f91da7b680da1f7bc36",
-      "finished_at": "2026-10-05T07:26:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01346",
-      "started_at": "2026-10-05T07:34:12+00:00",
-      "source": "_drafts/2026-10-04-cho-o-dai-nhu-ong-nhua-tren-xe-may-ung-cach.md",
-      "destination": "_posts/2026-10-04-cho-o-dai-nhu-ong-nhua-tren-xe-may-ung-cach.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a8193145c462f74a0befbbb40bf148fb6b29c845",
-      "finished_at": "2026-10-05T07:34:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01347",
       "started_at": "2026-10-05T07:34:12+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "4de51a7b1e77b2ad23b54358078667f9a38e45f5",
       "finished_at": "2026-10-05T16:27:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01370",
+      "started_at": "2026-10-05T16:35:36+00:00",
+      "source": "_drafts/2026-10-05-at-coc-bang-tien-mat-hay-chuyen-khoan-khi-thue-xe.md",
+      "destination": "_posts/2026-10-05-at-coc-bang-tien-mat-hay-chuyen-khoan-khi-thue-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f6c3ae859383b0c4bef0da15b1f3f173b3c2c165",
+      "finished_at": "2026-10-05T16:35:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01371",
+      "started_at": "2026-10-05T16:35:36+00:00",
+      "source": "_drafts/2026-10-05-khach-quoc-te-thue-xe-may-can-ban-dich-giay-to-gi.md",
+      "destination": "_posts/2026-10-05-khach-quoc-te-thue-xe-may-can-ban-dich-giay-to-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f6c3ae859383b0c4bef0da15b1f3f173b3c2c165",
+      "finished_at": "2026-10-05T16:35:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
