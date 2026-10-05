@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T17:55:38+00:00",
+  "updated_at": "2026-10-05T18:05:11+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01363",
-      "started_at": "2026-10-05T11:38:49+00:00",
-      "source": "_drafts/2026-10-04-en-pha-xe-may-khong-sang-ban-em-kiem-tra-nhanh.md",
-      "destination": "_posts/2026-10-04-en-pha-xe-may-khong-sang-ban-em-kiem-tra-nhanh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3d94d8083b980b2ea3888d4c27d1246d357fe022",
-      "finished_at": "2026-10-05T11:38:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01364",
-      "started_at": "2026-10-05T14:13:49+00:00",
-      "source": "_drafts/2026-10-05-gia-thue-xe-may-co-bao-gom-phi-cuu-ho-khong.md",
-      "destination": "_posts/2026-10-05-gia-thue-xe-may-co-bao-gom-phi-cuu-ho-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f2e49f6e6e2e6bbe4d19f0bebd6101970b93d6d8",
-      "finished_at": "2026-10-05T14:13:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01365",
       "started_at": "2026-10-05T14:13:49+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0764d64ae1c2dc5355af56d8f390423d582ee150",
       "finished_at": "2026-10-05T17:55:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01388",
+      "started_at": "2026-10-05T18:05:11+00:00",
+      "source": "_drafts/2026-10-05-chay-xe-quanh-ho-tay-sang-som-tuyen-va-iem-dung.md",
+      "destination": "_posts/2026-10-05-chay-xe-quanh-ho-tay-sang-som-tuyen-va-iem-dung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6a928136c8dd89e93c6e263e4cf9807b122b4964",
+      "finished_at": "2026-10-05T18:05:11+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01389",
+      "started_at": "2026-10-05T18:05:11+00:00",
+      "source": "_drafts/2026-10-05-am-vanh-va-suoi-khoang-my-lam-bang-xe-may.md",
+      "destination": "_posts/2026-10-05-am-vanh-va-suoi-khoang-my-lam-bang-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6a928136c8dd89e93c6e263e4cf9807b122b4964",
+      "finished_at": "2026-10-05T18:05:11+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
