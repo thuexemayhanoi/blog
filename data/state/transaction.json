@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T06:40:45+00:00",
+  "updated_at": "2026-10-05T06:53:48+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01311",
-      "started_at": "2026-10-05T05:32:05+00:00",
-      "source": "_drafts/2026-10-04-xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au.md",
-      "destination": "_posts/2026-10-04-xe-ien-khong-nhan-sac-cac-buoc-kiem-tra-ban-au.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6ba1e9ef13394f9ab9989fc8abebcebf11ec6312",
-      "finished_at": "2026-10-05T05:32:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01316",
       "started_at": "2026-10-05T05:36:42+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "12a59081726bd05951984921e8ad15d727f55609",
       "finished_at": "2026-10-05T06:40:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01341",
+      "started_at": "2026-10-05T06:53:48+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-may-khi-mua-dong-kem-gio-giat-o-ha-noi.md",
+      "destination": "_posts/2026-10-04-chay-xe-may-khi-mua-dong-kem-gio-giat-o-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ea9b79cc8efc1bd4295fa02a798a62d473157c5f",
+      "finished_at": "2026-10-05T06:53:48+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
