@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T18:57:02+00:00",
+  "updated_at": "2026-10-05T19:05:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01377",
-      "started_at": "2026-10-05T17:11:34+00:00",
-      "source": "_drafts/2026-10-05-xe-may-ien-chay-troi-mua-lon-co-bi-chap-khong.md",
-      "destination": "_posts/2026-10-05-xe-may-ien-chay-troi-mua-lon-co-bi-chap-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5cd9a3ef0fc6421199a7f5fbf5c35d683fa7ceeb",
-      "finished_at": "2026-10-05T17:11:34+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01378",
-      "started_at": "2026-10-05T17:19:47+00:00",
-      "source": "_drafts/2026-10-05-pin-xe-ien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet.md",
-      "destination": "_posts/2026-10-05-pin-xe-ien-chai-sau-ky-thue-dai-dau-hieu-nhan-biet.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0fc428492db21a4a735a327d2b3d3bc3f741f47f",
-      "finished_at": "2026-10-05T17:19:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01379",
       "started_at": "2026-10-05T17:19:47+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "72ca846934d442f2e91b9d11b2d93ef13533c66a",
       "finished_at": "2026-10-05T18:57:02+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01402",
+      "started_at": "2026-10-05T19:05:53+00:00",
+      "source": "_drafts/2026-10-05-chong-mat-khi-xuong-xe-sau-chuyen-dai-nguyen-nhan-va-xu-ly.md",
+      "destination": "_posts/2026-10-05-chong-mat-khi-xuong-xe-sau-chuyen-dai-nguyen-nhan-va-xu-ly.md",
+      "result": "PUBLISHED",
+      "commit_sha": "204811a7a6d5864213bd7a9ec2f60c001476f97a",
+      "finished_at": "2026-10-05T19:05:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01403",
+      "started_at": "2026-10-05T19:05:53+00:00",
+      "source": "_drafts/2026-10-05-an-nhe-gi-truoc-khi-chay-xe-chuyen-xa-buoi-sang.md",
+      "destination": "_posts/2026-10-05-an-nhe-gi-truoc-khi-chay-xe-chuyen-xa-buoi-sang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "204811a7a6d5864213bd7a9ec2f60c001476f97a",
+      "finished_at": "2026-10-05T19:05:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
