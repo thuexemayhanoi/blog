@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T06:06:26+00:00",
+  "updated_at": "2026-10-05T06:15:54+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01301",
-      "started_at": "2026-10-04T15:02:34+00:00",
-      "source": "_drafts/2026-10-04-gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y.md",
-      "destination": "_posts/2026-10-04-gui-xe-may-qua-em-o-ha-noi-chon-bai-va-luu-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cfe427abd47fa705401d6c6e39b348fc0e34a3b4",
-      "finished_at": "2026-10-04T15:02:34+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01304",
-      "started_at": "2026-10-05T05:07:45+00:00",
-      "source": "_drafts/2026-10-04-chon-bai-gui-xe-co-camera-dau-hieu-bai-giu-tin-cay.md",
-      "destination": "_posts/2026-10-04-chon-bai-gui-xe-co-camera-dau-hieu-bai-giu-tin-cay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "84d745f3954db207d687f6549f85c690e9da5168",
-      "finished_at": "2026-10-05T05:07:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01305",
       "started_at": "2026-10-05T05:07:45+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c9fd2e98545479871e8732cf4bfaaf8198b7a494",
       "finished_at": "2026-10-05T06:06:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01326",
+      "started_at": "2026-10-05T06:15:54+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe.md",
+      "destination": "_posts/2026-10-04-chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "51a50a0040fc1454fea3b5d5ba460ee00b66d31d",
+      "finished_at": "2026-10-05T06:15:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01327",
+      "started_at": "2026-10-05T06:15:54+00:00",
+      "source": "_drafts/2026-10-04-en-chua-van-nien-ven-ho-tay-bang-xe-may-gui-xe-va-gio-le.md",
+      "destination": "_posts/2026-10-04-en-chua-van-nien-ven-ho-tay-bang-xe-may-gui-xe-va-gio-le.md",
+      "result": "PUBLISHED",
+      "commit_sha": "51a50a0040fc1454fea3b5d5ba460ee00b66d31d",
+      "finished_at": "2026-10-05T06:15:54+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
