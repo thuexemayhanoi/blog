@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T07:05:58+00:00",
+  "updated_at": "2026-10-05T07:26:47+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01319",
-      "started_at": "2026-10-05T05:52:18+00:00",
-      "source": "_drafts/2026-10-04-lop-xe-may-mon-khong-eu-nguyen-nhan-va-cach-e-y.md",
-      "destination": "_posts/2026-10-04-lop-xe-may-mon-khong-eu-nguyen-nhan-va-cach-e-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e9bde6e0490a5b5a68d200e8a26693aac1ad1511",
-      "finished_at": "2026-10-05T05:52:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01320",
-      "started_at": "2026-10-05T05:56:01+00:00",
-      "source": "_drafts/2026-10-04-i-xe-may-en-chua-tran-quoc-gui-xe-va-khung-gio-ep.md",
-      "destination": "_posts/2026-10-04-i-xe-may-en-chua-tran-quoc-gui-xe-va-khung-gio-ep.md",
-      "result": "PUBLISHED",
-      "commit_sha": "361fdfea3e35c26712f3fc47d993d1a500489c14",
-      "finished_at": "2026-10-05T05:56:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01321",
       "started_at": "2026-10-05T05:56:01+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "8f60a9962bacd3cef449fc585531894e856d018b",
       "finished_at": "2026-10-05T07:05:58+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01344",
+      "started_at": "2026-10-05T07:26:46+00:00",
+      "source": "_drafts/2026-10-04-cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan.md",
+      "destination": "_posts/2026-10-04-cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "90de2ceebdb66a9713de0f91da7b680da1f7bc36",
+      "finished_at": "2026-10-05T07:26:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01345",
+      "started_at": "2026-10-05T07:26:46+00:00",
+      "source": "_drafts/2026-10-04-cho-cay-kieng-chau-lon-tren-xe-may-meo-co-inh.md",
+      "destination": "_posts/2026-10-04-cho-cay-kieng-chau-lon-tren-xe-may-meo-co-inh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "90de2ceebdb66a9713de0f91da7b680da1f7bc36",
+      "finished_at": "2026-10-05T07:26:47+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
