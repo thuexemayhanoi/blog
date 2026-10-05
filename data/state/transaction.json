@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T05:07:45+00:00",
+  "updated_at": "2026-10-05T05:08:23+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01279",
-      "started_at": "2026-10-04T08:55:48+00:00",
-      "source": "_drafts/2026-10-04-chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
-      "destination": "_posts/2026-10-04-chay-xe-doc-uong-vo-nguyen-giap-ven-song-hong-buoi-sang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "facfb25606a3920344a04d1962de3802cde451af",
-      "finished_at": "2026-10-04T08:55:48+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01280",
-      "started_at": "2026-10-04T08:59:50+00:00",
-      "source": "_drafts/2026-10-04-cung-uong-pham-van-ong-len-noi-bai-chay-xe-som-sang.md",
-      "destination": "_posts/2026-10-04-cung-uong-pham-van-ong-len-noi-bai-chay-xe-som-sang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "77070976919da0673be1e4fbdd8e2f55308ad613",
-      "finished_at": "2026-10-04T08:59:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01281",
       "started_at": "2026-10-04T08:59:50+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "84d745f3954db207d687f6549f85c690e9da5168",
       "finished_at": "2026-10-05T05:07:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01302",
+      "started_at": "2026-10-05T05:08:23+00:00",
+      "source": "_drafts/2026-10-05-gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem.md",
+      "destination": "_posts/2026-10-05-gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem.md",
+      "result": "PUBLISHED",
+      "commit_sha": "468b7d2419aef540713d6bfd5fd34e3c3264a4e0",
+      "finished_at": "2026-10-05T05:08:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01303",
+      "started_at": "2026-10-05T05:08:23+00:00",
+      "source": "_drafts/2026-10-05-gui-xe-trong-ham-chung-cu-thu-tuc-va-luu-y-an-toan.md",
+      "destination": "_posts/2026-10-05-gui-xe-trong-ham-chung-cu-thu-tuc-va-luu-y-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "468b7d2419aef540713d6bfd5fd34e3c3264a4e0",
+      "finished_at": "2026-10-05T05:08:23+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
