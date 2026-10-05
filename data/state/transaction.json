@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T15:22:17+00:00",
+  "updated_at": "2026-10-05T16:27:52+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01343",
-      "started_at": "2026-10-05T07:05:58+00:00",
-      "source": "_drafts/2026-10-04-chay-xe-may-ngay-nang-gat-thang-sau-ha-noi-chon-gio-va-chong-nang.md",
-      "destination": "_posts/2026-10-04-chay-xe-may-ngay-nang-gat-thang-sau-ha-noi-chon-gio-va-chong-nang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8f60a9962bacd3cef449fc585531894e856d018b",
-      "finished_at": "2026-10-05T07:05:58+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01344",
-      "started_at": "2026-10-05T07:26:46+00:00",
-      "source": "_drafts/2026-10-04-cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan.md",
-      "destination": "_posts/2026-10-04-cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "90de2ceebdb66a9713de0f91da7b680da1f7bc36",
-      "finished_at": "2026-10-05T07:26:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01345",
       "started_at": "2026-10-05T07:26:46+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "3c4fe44f5620a87837c8d1be024f586f348a2d2f",
       "finished_at": "2026-10-05T15:22:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01368",
+      "started_at": "2026-10-05T16:27:52+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-ba-thang-co-uoc-oi-xe-giua-ky-khong.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-ba-thang-co-uoc-oi-xe-giua-ky-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4de51a7b1e77b2ad23b54358078667f9a38e45f5",
+      "finished_at": "2026-10-05T16:27:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01369",
+      "started_at": "2026-10-05T16:27:52+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-theo-thang-cho-nguoi-i-lam-ca-em.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4de51a7b1e77b2ad23b54358078667f9a38e45f5",
+      "finished_at": "2026-10-05T16:27:52+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
