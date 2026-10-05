@@ -1,5 +1,5 @@
 {
-  "seq": 6,
-  "requested_at": "2026-10-01T11:38:07.724Z",
-  "note": "Refill request tu writer (push-driven): chi kich hoat factory-production refill-auto khi queue het hang PLANNED; file nay KHONG anh huong engine."
+  "seq": 7,
+  "requested_at": "2026-10-05T13:05:00.000Z",
+  "note": "Refill request tu writer (push-driven): chi kich hoat factory-refill khi queue het hang PLANNED; file nay KHONG anh huong engine."
 }
