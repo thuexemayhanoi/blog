@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T06:15:54+00:00",
+  "updated_at": "2026-10-05T06:22:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01305",
-      "started_at": "2026-10-05T05:07:45+00:00",
-      "source": "_drafts/2026-10-04-moi-vai-lung-khi-chay-xe-uong-dai-bai-tap-nghi-doc-uong.md",
-      "destination": "_posts/2026-10-04-moi-vai-lung-khi-chay-xe-uong-dai-bai-tap-nghi-doc-uong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "84d745f3954db207d687f6549f85c690e9da5168",
-      "finished_at": "2026-10-05T05:07:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01302",
-      "started_at": "2026-10-05T05:08:23+00:00",
-      "source": "_drafts/2026-10-05-gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem.md",
-      "destination": "_posts/2026-10-05-gui-xe-may-o-benh-vien-chon-bai-gan-cong-va-canh-gio-cao-iem.md",
-      "result": "PUBLISHED",
-      "commit_sha": "468b7d2419aef540713d6bfd5fd34e3c3264a4e0",
-      "finished_at": "2026-10-05T05:08:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01303",
       "started_at": "2026-10-05T05:08:23+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "51a50a0040fc1454fea3b5d5ba460ee00b66d31d",
       "finished_at": "2026-10-05T06:15:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01328",
+      "started_at": "2026-10-05T06:22:16+00:00",
+      "source": "_drafts/2026-10-04-i-xe-may-en-cho-au-moi-long-bien-buoi-som-uong-vao-va-gui-xe.md",
+      "destination": "_posts/2026-10-04-i-xe-may-en-cho-au-moi-long-bien-buoi-som-uong-vao-va-gui-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "532180edf09aefef2c8faf8229e2a43e187e5185",
+      "finished_at": "2026-10-05T06:22:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01329",
+      "started_at": "2026-10-05T06:22:16+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-may-tren-uong-e-gia-lam-buoi-chieu-loi-len-e-va-iem-dung.md",
+      "destination": "_posts/2026-10-04-chay-xe-may-tren-uong-e-gia-lam-buoi-chieu-loi-len-e-va-iem-dung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "532180edf09aefef2c8faf8229e2a43e187e5185",
+      "finished_at": "2026-10-05T06:22:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
