@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T06:32:41+00:00",
+  "updated_at": "2026-10-05T06:37:27+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01309",
-      "started_at": "2026-10-05T05:24:21+00:00",
-      "source": "_drafts/2026-10-04-nguoi-moi-chay-xe-may-co-can-ban-o-so-khong.md",
-      "destination": "_posts/2026-10-04-nguoi-moi-chay-xe-may-co-can-ban-o-so-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8cbe5f6e7e0e4435d4091a2f4de462698de69c7e",
-      "finished_at": "2026-10-05T05:24:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01314",
-      "started_at": "2026-10-05T05:28:37+00:00",
-      "source": "_drafts/2026-10-04-xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-au.md",
-      "destination": "_posts/2026-10-04-xe-so-kho-vao-so-khi-troi-lanh-xu-ly-ban-au.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b6b629319db29acde23fe2fe36e07fadd9a732c6",
-      "finished_at": "2026-10-05T05:28:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01315",
       "started_at": "2026-10-05T05:28:37+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6520595f227d39abb9b7d3b3dc096bac3b589f87",
       "finished_at": "2026-10-05T06:32:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01336",
+      "started_at": "2026-10-05T06:37:27+00:00",
+      "source": "_drafts/2026-10-04-chay-xe-cuoi-tuan-ha-noi-tam-ao-trong-mot-ngay.md",
+      "destination": "_posts/2026-10-04-chay-xe-cuoi-tuan-ha-noi-tam-ao-trong-mot-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "76860e469101b0208f33094efbbe8f48c7984de6",
+      "finished_at": "2026-10-05T06:37:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01337",
+      "started_at": "2026-10-05T06:37:27+00:00",
+      "source": "_drafts/2026-10-04-cung-uong-ha-noi-thung-nai-mot-ngay-iem-nghi-va-tram-xang.md",
+      "destination": "_posts/2026-10-04-cung-uong-ha-noi-thung-nai-mot-ngay-iem-nghi-va-tram-xang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "76860e469101b0208f33094efbbe8f48c7984de6",
+      "finished_at": "2026-10-05T06:37:27+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
