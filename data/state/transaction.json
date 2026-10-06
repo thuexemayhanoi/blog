@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T16:57:55+00:00",
+  "updated_at": "2026-10-06T20:21:43+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01415",
-      "started_at": "2026-10-06T11:41:35+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-mot-tuan-co-uoc-them-xe-du-phong-khong.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-mot-tuan-co-uoc-them-xe-du-phong-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "41cc63f03e3fe397b90606145e3878daa232d961",
-      "finished_at": "2026-10-06T11:41:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01416",
-      "started_at": "2026-10-06T13:59:40+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-inh-ky.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-inh-ky.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1562dfa9d75d32c555be83f3fb961210e69a209c",
-      "finished_at": "2026-10-06T13:59:40+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01417",
       "started_at": "2026-10-06T13:59:40+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0c5dfd1c121227084be253d8a77647133024b53f",
       "finished_at": "2026-10-06T16:57:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01440",
+      "started_at": "2026-10-06T20:21:43+00:00",
+      "source": "_drafts/2026-10-05-cung-uong-nguyen-van-cu-ve-long-bien-co-gi-ang-dung.md",
+      "destination": "_posts/2026-10-05-cung-uong-nguyen-van-cu-ve-long-bien-co-gi-ang-dung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "508d70090a6bbc8853a8a1cbfc238ec0c81abc6e",
+      "finished_at": "2026-10-06T20:21:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01441",
+      "started_at": "2026-10-06T20:21:43+00:00",
+      "source": "_drafts/2026-10-05-chay-xe-may-cuoi-tuan-en-ba-vi-can-chuan-bi-gi.md",
+      "destination": "_posts/2026-10-05-chay-xe-may-cuoi-tuan-en-ba-vi-can-chuan-bi-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "508d70090a6bbc8853a8a1cbfc238ec0c81abc6e",
+      "finished_at": "2026-10-06T20:21:43+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
