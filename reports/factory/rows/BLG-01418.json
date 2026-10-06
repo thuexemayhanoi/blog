@@ -1,0 +1,145 @@
+{
+  "article_id": "BLG-01418",
+  "status": "WRITING",
+  "title": "Thuê xe máy cho khách quốc tế có cần hộ chiếu bản gốc không",
+  "intent": "Hỏi khách quốc tế thuê xe máy có phải trình hộ chiếu bản gốc hay không",
+  "primary_keyword": "thuê xe máy khách quốc tế hộ chiếu bản gốc",
+  "secondary_keywords": [
+    "hộ chiếu khi thuê xe quốc tế"
+  ],
+  "group": "THUE",
+  "taxonomy": {
+    "parent_id": "P-THUE-XE",
+    "parent_hub": "Thuê xe máy Hà Nội",
+    "parent_hub_url": "/blog/thue-xe/",
+    "child_id": "C-THUE-QUOC-TE",
+    "child_hub": "Thuê xe cho khách quốc tế",
+    "child_hub_url": "/blog/thue-xe/khach-quoc-te/"
+  },
+  "expected_url": "/blog/thue-xe/2026/10/06/thue-xe-may-cho-khach-quoc-te-co-can-ho-chieu-ban-goc-khong/",
+  "output_path": "_posts/{date}-thue-xe-may-cho-khach-quoc-te-co-can-ho-chieu-ban-goc-khong.md",
+  "draft_path": "_drafts/2026-10-06-thue-xe-may-cho-khach-quoc-te-co-can-ho-chieu-ban-goc-khong.md",
+  "canonical_url": "/blog/thue-xe/2026/10/06/thue-xe-may-cho-khach-quoc-te-co-can-ho-chieu-ban-goc-khong/",
+  "internal_links_matrix": [
+    "/blog/thue-xe/",
+    "/blog/thue-xe/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "thue xe may khach quoc te ho chieu ban goc",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "medium",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00004",
+      "title": "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/"
+    },
+    {
+      "id": "BLG-00007",
+      "title": "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/"
+    },
+    {
+      "id": "BLG-00009",
+      "title": "Chăm sóc dây xích xe máy: nhận biết xích khô và cách xử lý đúng",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/cham-soc-day-xich-xe-may/"
+    },
+    {
+      "id": "BLG-00010",
+      "title": "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/"
+    },
+    {
+      "id": "BLG-00012",
+      "title": "Chọn loại xe cho chuyến đi dài: xe số hay xe ga hợp với đường trường",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/"
+    },
+    {
+      "id": "BLG-00014",
+      "title": "Danh sách đồ cho chuyến đi một ngày bằng xe máy: gọn nhẹ nhưng đủ dùng",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/"
+    },
+    {
+      "id": "BLG-00015",
+      "title": "Dấu hiệu xe thuê cần báo cửa hàng ngay",
+      "url": "/blog/chia%20s%E1%BA%BB/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/"
+    },
+    {
+      "id": "BLG-00027",
+      "title": "Kiểm tra xe trước mỗi chuyến đi: quy trình hai phút cho mọi người",
+      "url": "/blog/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "0c210e55fa0828aa4990ebc48650ee9aae581f0188ee0a3bc429162f046761f1",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
