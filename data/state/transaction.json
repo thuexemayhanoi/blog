@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T21:19:03+00:00",
+  "updated_at": "2026-10-06T21:28:04+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01427",
-      "started_at": "2026-10-06T16:02:45+00:00",
-      "source": "_drafts/2026-10-05-bang-a1-moi-cap-co-u-ieu-kien-thue-xe-may-khong.md",
-      "destination": "_posts/2026-10-05-bang-a1-moi-cap-co-u-ieu-kien-thue-xe-may-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "31e07916d74f7b051ff755f92b0568f256d80928",
-      "finished_at": "2026-10-06T16:02:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01428",
-      "started_at": "2026-10-06T16:12:53+00:00",
-      "source": "_drafts/2026-10-05-xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua.md",
-      "destination": "_posts/2026-10-05-xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua.md",
-      "result": "PUBLISHED",
-      "commit_sha": "aa66c916ae49dc50a0fb22cd5f82487ed844721a",
-      "finished_at": "2026-10-06T16:12:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01429",
       "started_at": "2026-10-06T16:12:53+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "d2d2eb3eff4b3d8e3398fd62db20268bc7e6509d",
       "finished_at": "2026-10-06T21:19:03+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01452",
+      "started_at": "2026-10-06T21:28:03+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-theo-gio-co-re-hon-theo-ngay-khong.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-theo-gio-co-re-hon-theo-ngay-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "fc8a97600ced2661f3a91365e81645a175a68ad8",
+      "finished_at": "2026-10-06T21:28:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01453",
+      "started_at": "2026-10-06T21:28:04+00:00",
+      "source": "_drafts/2026-10-05-hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao.md",
+      "destination": "_posts/2026-10-05-hop-ong-thue-xe-may-can-ghi-ro-nhung-ieu-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "fc8a97600ced2661f3a91365e81645a175a68ad8",
+      "finished_at": "2026-10-06T21:28:04+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
