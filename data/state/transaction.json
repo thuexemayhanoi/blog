@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T15:52:04+00:00",
+  "updated_at": "2026-10-06T16:02:45+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01401",
-      "started_at": "2026-10-05T18:57:02+00:00",
-      "source": "_drafts/2026-10-05-quet-the-gui-xe-tu-ong-loi-khi-ra-bai-lam-sao.md",
-      "destination": "_posts/2026-10-05-quet-the-gui-xe-tu-ong-loi-khi-ra-bai-lam-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "72ca846934d442f2e91b9d11b2d93ef13533c66a",
-      "finished_at": "2026-10-05T18:57:02+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01402",
-      "started_at": "2026-10-05T19:05:53+00:00",
-      "source": "_drafts/2026-10-05-chong-mat-khi-xuong-xe-sau-chuyen-dai-nguyen-nhan-va-xu-ly.md",
-      "destination": "_posts/2026-10-05-chong-mat-khi-xuong-xe-sau-chuyen-dai-nguyen-nhan-va-xu-ly.md",
-      "result": "PUBLISHED",
-      "commit_sha": "204811a7a6d5864213bd7a9ec2f60c001476f97a",
-      "finished_at": "2026-10-05T19:05:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01403",
       "started_at": "2026-10-05T19:05:53+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "229dcd6785664b21f36a239281fcd1a7b35559ac",
       "finished_at": "2026-10-06T15:52:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01426",
+      "started_at": "2026-10-06T16:02:45+00:00",
+      "source": "_drafts/2026-10-05-nhan-xe-thue-nen-kiem-tra-dau-may-luc-nao.md",
+      "destination": "_posts/2026-10-05-nhan-xe-thue-nen-kiem-tra-dau-may-luc-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "31e07916d74f7b051ff755f92b0568f256d80928",
+      "finished_at": "2026-10-06T16:02:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01427",
+      "started_at": "2026-10-06T16:02:45+00:00",
+      "source": "_drafts/2026-10-05-bang-a1-moi-cap-co-u-ieu-kien-thue-xe-may-khong.md",
+      "destination": "_posts/2026-10-05-bang-a1-moi-cap-co-u-ieu-kien-thue-xe-may-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "31e07916d74f7b051ff755f92b0568f256d80928",
+      "finished_at": "2026-10-06T16:02:45+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
