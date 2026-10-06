@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T11:41:19+00:00",
+  "updated_at": "2026-10-06T11:41:35+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01390",
-      "started_at": "2026-10-05T18:12:55+00:00",
-      "source": "_drafts/2026-10-05-cung-uong-ha-noi-chua-bai-inh-trang-an-cuoi-tuan.md",
-      "destination": "_posts/2026-10-05-cung-uong-ha-noi-chua-bai-inh-trang-an-cuoi-tuan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3732e4fb01c774d1b8d385f732700e5b9853ee22",
-      "finished_at": "2026-10-05T18:12:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01391",
       "started_at": "2026-10-05T18:12:55+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "ccc9dcd191ba5746c620807c5bf96d7f5ce39b72",
       "finished_at": "2026-10-06T11:41:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01415",
+      "started_at": "2026-10-06T11:41:35+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-mot-tuan-co-uoc-them-xe-du-phong-khong.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-mot-tuan-co-uoc-them-xe-du-phong-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "41cc63f03e3fe397b90606145e3878daa232d961",
+      "finished_at": "2026-10-06T11:41:35+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
