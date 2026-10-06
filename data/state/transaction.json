@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T14:08:05+00:00",
+  "updated_at": "2026-10-06T14:15:47+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01395",
-      "started_at": "2026-10-05T18:31:19+00:00",
-      "source": "_drafts/2026-10-05-chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong.md",
-      "destination": "_posts/2026-10-05-chong-xe-may-tren-doc-ung-cach-khong-bi-tuot-chan-chong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ce463a6d0da960f15501ad5951b9bfc8b6eeaae9",
-      "finished_at": "2026-10-05T18:31:20+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01396",
-      "started_at": "2026-10-05T18:40:32+00:00",
-      "source": "_drafts/2026-10-05-xe-tai-chieu-en-chuyen-lan-ngay-truoc-mat-phan-xa.md",
-      "destination": "_posts/2026-10-05-xe-tai-chieu-en-chuyen-lan-ngay-truoc-mat-phan-xa.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7f16fafa4c5ae5e3eb66fa3cc0f4812b9dcb4bff",
-      "finished_at": "2026-10-05T18:40:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01397",
       "started_at": "2026-10-05T18:40:32+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "1402b82f4ae826286af5b8cab432cdccb7f0e8f2",
       "finished_at": "2026-10-06T14:08:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01420",
+      "started_at": "2026-10-06T14:15:47+00:00",
+      "source": "_drafts/2026-10-05-xe-thue-bi-thung-lop-giua-uong-ai-chiu-phi-va.md",
+      "destination": "_posts/2026-10-05-xe-thue-bi-thung-lop-giua-uong-ai-chiu-phi-va.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9755f4cf512f53769a755fe582fa6290ff691116",
+      "finished_at": "2026-10-06T14:15:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01421",
+      "started_at": "2026-10-06T14:15:47+00:00",
+      "source": "_drafts/2026-10-05-xe-so-thue-chay-uong-truong-can-kiem-tra-gi-them.md",
+      "destination": "_posts/2026-10-05-xe-so-thue-chay-uong-truong-can-kiem-tra-gi-them.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9755f4cf512f53769a755fe582fa6290ff691116",
+      "finished_at": "2026-10-06T14:15:47+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
