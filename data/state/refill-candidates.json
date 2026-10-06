@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-06T10:49:46+00:00",
-    "staged_at": "2026-10-06T10:49:34+00:00"
+    "materialized_at": "2026-10-06T11:19:43+00:00",
+    "staged_at": "2026-10-06T11:19:42+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -10453,6 +10453,1166 @@
       "word_target": 1200,
       "materialized_at": "2026-10-06T10:49:46+00:00",
       "materialized_head": "d6fcf9d942223c006d8942cd76c423bc78f5c3a0"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B001",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Gọi đặt xe máy thuê trước một tiếng có được không",
+      "intent": "Hỏi việc gọi đặt xe máy thuê gấp trước một tiếng",
+      "kw": "gọi đặt xe máy thuê gấp",
+      "kw2": [
+        "đặt xe máy cuối phút"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B002",
+      "child_id": "C-THUE-NGAY",
+      "title": "Thuê xe máy qua đêm một ngày tính thế nào",
+      "intent": "Hỏi cách tính ngày khi thuê xe máy qua đêm",
+      "kw": "thuê xe máy qua đêm một ngày",
+      "kw2": [
+        "tính ngày thuê xe máy"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B003",
+      "child_id": "C-THUE-TUAN",
+      "title": "Thuê xe máy một tuần nên kiểm tra xe ở giữa kỳ không",
+      "intent": "Hỏi việc kiểm tra xe giữa kỳ khi thuê theo tuần",
+      "kw": "kiểm tra xe giữa kỳ thuê tuần",
+      "kw2": [
+        "bảo dưỡng giữa kỳ thuê tuần"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B004",
+      "child_id": "C-THUE-THANG",
+      "title": "Thuê xe máy theo tháng nên chốt lịch bảo dưỡng thế nào",
+      "intent": "Gợi ý chốt lịch bảo dưỡng khi thuê xe máy theo tháng",
+      "kw": "lịch bảo dưỡng xe thuê theo tháng",
+      "kw2": [
+        "bảo dưỡng xe máy thuê dài hạn"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B005",
+      "child_id": "C-THUE-DAT-COC",
+      "title": "Giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không",
+      "intent": "Hỏi việc dùng giấy tờ làm cọc thay tiền khi thuê xe máy",
+      "kw": "giữ giấy tờ thay tiền cọc thuê xe",
+      "kw2": [
+        "cọc bằng giấy tờ khi thuê xe"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B006",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhận xe máy thuê nên chụp lại những gì",
+      "intent": "Hướng dẫn chụp tình trạng xe khi nhận xe máy thuê",
+      "kw": "nhận xe máy thuê chụp lại gì",
+      "kw2": [
+        "hình ảnh khi nhận xe thuê"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B007",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê mất chìa khóa dự phòng phải làm sao",
+      "intent": "Xử lý khi mất chìa khóa dự phòng của xe máy thuê",
+      "kw": "mất chìa khóa dự phòng xe thuê",
+      "kw2": [
+        "mất khóa xe máy thuê"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B008",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bằng lái quốc tế có dùng được khi thuê xe máy không",
+      "intent": "Hỏi bằng lái quốc tế có đủ điều kiện thuê xe máy hay không",
+      "kw": "bằng lái quốc tế thuê xe máy",
+      "kw2": [
+        "giấy phép lái quốc tế việt nam"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B009",
+      "child_id": "C-THUE-GIA",
+      "title": "Thuê xe máy ngày lễ giá có tăng không",
+      "intent": "Hỏi giá thuê xe máy các ngày lễ có tăng hay không",
+      "kw": "thuê xe máy ngày lễ giá tăng",
+      "kw2": [
+        "giá thuê xe dịp lễ"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B010",
+      "child_id": "C-THUE-DIA-DIEM",
+      "title": "Thuê xe máy gần hồ Gươm đi phố cổ có thuận tiện không",
+      "intent": "Đánh giá việc thuê xe máy gần hồ Gươm để đi phố cổ",
+      "kw": "thuê xe máy gần hồ Gươm",
+      "kw2": [
+        "thuê xe khu trung tâm phố cổ"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B011",
+      "child_id": "C-THUE-DOI-TUONG",
+      "title": "Người nước ngoài sinh sống thuê xe máy dài hạn cần gì",
+      "intent": "Hỏi điều kiện người nước ngoài cư trú thuê xe máy dài hạn",
+      "kw": "người nước ngoài thuê xe máy dài hạn",
+      "kw2": [
+        "thuê xe dài hạn cho người nước ngoài"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B012",
+      "child_id": "C-XE-GA",
+      "title": "Xe ga thuê đi mưa dông cần lưu ý gì",
+      "intent": "Kinh nghiệm chạy xe ga thuê trong mưa dông",
+      "kw": "xe ga thuê đi mưa dông",
+      "kw2": [
+        "chạy xe ga trời mưa to"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B013",
+      "child_id": "C-XE-SO",
+      "title": "Xe số thuê đi chợ sớm chở đồ nên buộc thế nào",
+      "intent": "Kinh nghiệm buộc đồ chắc chắn khi đi chợ sớm bằng xe số thuê",
+      "kw": "xe số thuê đi chợ chở đồ",
+      "kw2": [
+        "chở đồ đi chợ bằng xe máy"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B014",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe điện thuê có đi được đường dốc Long Biên không",
+      "intent": "Hỏi khả năng leo dốc của xe điện thuê",
+      "kw": "xe điện thuê leo dốc Long Biên",
+      "kw2": [
+        "xe điện chạy đường dốc"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B015",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision thuê đi làm hàng ngày có tốn xăng không",
+      "intent": "Đánh giá mức tiêu hao xăng của Honda Vision thuê đi làm",
+      "kw": "Honda Vision thuê đi làm tiết kiệm",
+      "kw2": [
+        "xe Vision đi lại hằng ngày"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B016",
+      "child_id": "C-HONDA-CLICK",
+      "title": "Honda Click thuê chở hai người có êm không",
+      "intent": "Đánh giá khả năng chở hai người của Honda Click thuê",
+      "kw": "Honda Click thuê chở hai người",
+      "kw2": [
+        "chở người ngồi sau xe Click"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B017",
+      "child_id": "C-BAO-DUONG",
+      "title": "Xe thuê có tiếng kêu khi phanh nên báo chủ xe không",
+      "intent": "Hỏi việc báo chủ xe khi xe thuê có tiếng kêu lúc phanh",
+      "kw": "xe thuê kêu khi phanh",
+      "kw2": [
+        "tiếng kêu phanh xe máy"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B018",
+      "child_id": "C-XE-LUA-CHON",
+      "title": "Chọn xe máy thuê cho người hay đi hai người",
+      "intent": "Gợi ý chọn xe máy thuê phù hợp khi thường chở người ngồi sau",
+      "kw": "chọn xe máy thuê đi hai người",
+      "kw2": [
+        "xe máy chở hai người thoải mái"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B019",
+      "child_id": "C-XE-KHAC-PHUC",
+      "title": "Xe thuê đèn pha yếu lúc đêm xử lý ra sao",
+      "intent": "Cách xử lý khi đèn pha xe thuê yếu lúc chạy đêm",
+      "kw": "đèn pha xe thuê yếu ban đêm",
+      "kw2": [
+        "đèn pha yếu chạy đêm"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B020",
+      "child_id": "C-XE-SO-SANH",
+      "title": "So Honda Wave và Yamaha Sirius thuê cái nào bền hơn",
+      "intent": "So sánh độ bền khi thuê Honda Wave và Yamaha Sirius",
+      "kw": "Honda Wave hay Yamaha Sirius thuê",
+      "kw2": [
+        "so xe số phổ thông thuê"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B021",
+      "child_id": "C-GPLX",
+      "title": "Thi bằng A1 bằng xe máy thuê được không",
+      "intent": "Hỏi việc dùng xe máy thuê khi thi bằng lái A1",
+      "kw": "thi bằng A1 bằng xe máy thuê",
+      "kw2": [
+        "xe thuê đi thi bằng lái"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B022",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bảo hiểm tai nạn cho người đi xe máy thuê nên mua không",
+      "intent": "Hỏi việc mua bảo hiểm tai nạn khi đi xe máy thuê",
+      "kw": "bảo hiểm tai nạn khi thuê xe máy",
+      "kw2": [
+        "bảo hiểm cho người chạy xe"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B023",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Kiểm tra phạt nguội xe thuê trước khi trả ở đâu",
+      "intent": "Hỏi cách kiểm tra phạt nguội trước khi trả xe thuê",
+      "kw": "kiểm tra phạt nguội xe thuê",
+      "kw2": [
+        "tra cứu phạt nguội xe máy"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B024",
+      "child_id": "C-GIAY-TO",
+      "title": "Chụp công chứng giấy tờ thuê xe có cần bản gốc không",
+      "intent": "Hỏi tiệm thuê xe có cần bản gốc giấy tờ hay bản photo là đủ",
+      "kw": "chụp giấy tờ thuê xe bản gốc photo",
+      "kw2": [
+        "photo giấy tờ khi thuê xe"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B025",
+      "child_id": "C-QUY-DINH",
+      "title": "Đội mũ bảo hiểm cho trẻ em dưới sáu tuổi khi đi xe máy",
+      "intent": "Hỏi quy định mũ bảo hiểm cho trẻ dưới sáu tuổi trên xe máy",
+      "kw": "mũ bảo hiểm trẻ dưới sáu tuổi",
+      "kw2": [
+        "trẻ em trên xe máy quy định"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B026",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Buộc đồ cồng kềnh lên xe máy thuê thế nào cho an toàn",
+      "intent": "Hướng dẫn buộc đồ cồng kềnh an toàn trên xe máy thuê",
+      "kw": "buộc đồ cồng kềnh xe máy thuê",
+      "kw2": [
+        "chở đồ to trên xe máy"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B027",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển báo cấm ô tô qua lại có áp dụng cho xe máy không",
+      "intent": "Hỏi biển cấm ô tô có áp dụng với xe máy hay không",
+      "kw": "biển cấm ô tô với xe máy",
+      "kw2": [
+        "hiểu biển cấm đường ô tô"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B028",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đi Bảo Tàng Dân Tộc Học bằng xe máy đỗ xe ở đâu",
+      "intent": "Hướng dẫn gửi xe máy khi đi Bảo Tàng Dân Tộc Học",
+      "kw": "đỗ xe máy Bảo Tàng Dân Tộc Học",
+      "kw2": [
+        "gửi xe bảo tàng dân tộc học"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B029",
+      "child_id": "C-BAO-TANG",
+      "title": "Thăm Hoàng thành Thăng Long bằng xe máy gửi xe gần nhất",
+      "intent": "Hướng dẫn gửi xe máy gần Hoàng thành Thăng Long",
+      "kw": "gửi xe máy gần Hoàng thành",
+      "kw2": [
+        "đỗ xe Hoàng thành Thăng Long"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B030",
+      "child_id": "C-PHO-CO",
+      "title": "Đi ăn bún chả phố cổ bằng xe máy đỗ xe thế nào",
+      "intent": "Gợi ý chỗ đỗ xe khi đi ăn bún chả phố cổ",
+      "kw": "đỗ xe đi ăn phố cổ",
+      "kw2": [
+        "gửi xe khi đi ăn phố cổ"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B031",
+      "child_id": "C-HO-TAY",
+      "title": "Chạy xe máy quanh Hồ Tây với trẻ nhỏ nên chuẩn bị gì",
+      "intent": "Danh mục chuẩn bị khi chạy xe máy quanh Hồ Tây với trẻ nhỏ",
+      "kw": "chạy xe Hồ Tây với trẻ nhỏ",
+      "kw2": [
+        "đi chơi Hồ Tây cùng trẻ em"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B032",
+      "child_id": "C-LONG-BIEN",
+      "title": "Sáng sớm chợ Long Biên có gì đáng đi bằng xe máy",
+      "intent": "Gợi ý trải nghiệm sáng sớm chợ Long Biên bằng xe máy",
+      "kw": "sáng sớm chợ Long Biên xe máy",
+      "kw2": [
+        "chợ Long Biên buổi sớm"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B033",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Chùa Trầm Tuyết Sơn chạy xe máy đường nào dễ nhất",
+      "intent": "Hướng dẫn cung đường chạy xe máy đến chùa Trầm",
+      "kw": "chùa Trầm Tuyết Sơn chạy xe máy",
+      "kw2": [
+        "đường đi chùa Trầm"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B034",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Cung đường cầu Nhật Tân sang Đáp Úng có gì đáng dừng",
+      "intent": "Gợi ý điểm dừng trên cung đường cầu Nhật Tân sang Đáp Úng",
+      "kw": "cung đường cầu Nhật Tân Đáp Úng",
+      "kw2": [
+        "chạy xe qua cầu Nhật Tân"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B035",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Cuối tuần chạy xe máy Thác Đa không khó",
+      "intent": "Đánh giá độ khó cung đường chạy xe máy đến Thác Đa",
+      "kw": "cuối tuần chạy xe máy Thác Đa",
+      "kw2": [
+        "cung đường thác Đa"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B036",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Chạy xe máy lên Mai Châu mang đồ giữ ấm gì",
+      "intent": "Gợi ý đồ mang theo khi chạy xe máy lên Mai Châu",
+      "kw": "chạy xe máy Mai Châu mang gì",
+      "kw2": [
+        "đồ mang đi Mai Châu"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B037",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Mộc Châu tháng ba chạy xe máy đi hoa mận thế nào",
+      "intent": "Kinh nghiệm chạy xe máy Mộc Châu mùa hoa mận tháng ba",
+      "kw": "Mộc Châu tháng ba chạy xe máy",
+      "kw2": [
+        "mùa hoa mận Mộc Châu"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B038",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Xe máy dưới năm mươi phân khối đi Hà Giang được không",
+      "intent": "Hỏi xe máy phân khối nhỏ có nên đi Hà Giang",
+      "kw": "xe phân khối nhỏ đi Hà Giang",
+      "kw2": [
+        "xe số đi Hà Giang"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B039",
+      "child_id": "C-CD-PHO-BAC",
+      "title": "Chạy xe máy Phố Bắc sớm tránh mưa chọn giờ thế nào",
+      "intent": "Gợi ý khung giờ chạy xe máy Phố Bắc tránh mưa",
+      "kw": "khung giờ chạy xe phố Bắc",
+      "kw2": [
+        "đi Phố Bắc tránh mưa"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B040",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Cách bỏ chân chống xe máy thuê không bị kẹp",
+      "intent": "Kỹ thuật bỏ chân chống an toàn trên xe máy thuê",
+      "kw": "cách bỏ chân chống xe máy",
+      "kw2": [
+        "chống nghiêng xe máy"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B041",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Chạy xe máy thấy trẻ lao ra đường xử lý thế nào",
+      "intent": "Xử lý khi có trẻ lao ra đường trước xe máy",
+      "kw": "trẻ lao ra đường trước xe máy",
+      "kw2": [
+        "né trẻ em trên đường"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B042",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Chạy xe máy gió ngược lớn cần giữ tốc độ thế nào",
+      "intent": "Kinh nghiệm giữ tốc độ khi chạy xe máy gặp gió lớn",
+      "kw": "chạy xe máy gió lớn giữ tốc độ",
+      "kw2": [
+        "gió mạnh khi chạy xe máy"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B043",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở chậu cây trên xe máy sao không đổ",
+      "intent": "Kinh nghiệm chở chậu cây an toàn trên xe máy",
+      "kw": "chở chậu cây trên xe máy",
+      "kw2": [
+        "vận chuyển chậu cây xe máy"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B044",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe máy thuê ở siêu thị đông giờ cuối tuần",
+      "intent": "Kinh nghiệm gửi xe máy thuê ở siêu thị giờ đông",
+      "kw": "gửi xe máy ở siêu thị",
+      "kw2": [
+        "đỗ xe siêu thị cuối tuần"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B045",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Ngồi xe máy lâu đau cổ nên chỉnh tư thế thế nào",
+      "intent": "Hướng dẫn chỉnh tư thế ngồi cho khỏi đau cổ khi chạy xe máy lâu",
+      "kw": "đau cổ khi chạy xe máy lâu",
+      "kw2": [
+        "tư thế ngồi xe máy"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B046",
+      "child_id": "C-HD-GIA",
+      "title": "Thuê xe máy về quê đám cưới tính ngày thế nào",
+      "intent": "Hỏi cách tính ngày khi thuê xe máy về quê ăn cưới",
+      "kw": "thuê xe máy về quê đám cưới",
+      "kw2": [
+        "tính ngày thuê xe đi xa"
+      ],
+      "links": [
+        "/blog/hoi-dap/",
+        "/blog/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B047",
+      "child_id": "C-HD-THU-TUC",
+      "title": "Đặt xe máy thuê qua tổng đài có cần xác nhận tin không",
+      "intent": "Hỏi việc xác nhận đặt xe máy thuê qua tin nhắn",
+      "kw": "xác nhận đặt xe máy thuê",
+      "kw2": [
+        "đặt xe thuê qua tổng đài"
+      ],
+      "links": [
+        "/blog/hoi-dap/",
+        "/blog/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B048",
+      "child_id": "C-HD-PHAP-LY",
+      "title": "Người chưa từng lái xe có được thuê xe máy không",
+      "intent": "Hỏi người chưa từng lái xe có được thuê xe máy hay không",
+      "kw": "người chưa từng lái thuê xe máy",
+      "kw2": [
+        "thuê xe khi mới biết chạy"
+      ],
+      "links": [
+        "/blog/hoi-dap/",
+        "/blog/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B049",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Người đi du lịch một mình nên thuê xe máy loại nào",
+      "intent": "Gợi ý loại xe máy thuê cho người đi du lịch một mình",
+      "kw": "một người đi du lịch thuê xe máy",
+      "kw2": [
+        "xe máy cho khách solo"
+      ],
+      "links": [
+        "/blog/hoi-dap/",
+        "/blog/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B050",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe thuê chảy dầu dưới gầm có sao không",
+      "intent": "Hỏi xe máy thuê bị chảy dầu dưới gầm có nguy hiểm không",
+      "kw": "xe thuê chảy dầu dưới gầm",
+      "kw2": [
+        "rò rỉ dầu xe máy"
+      ],
+      "links": [
+        "/blog/hoi-dap/",
+        "/blog/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B051",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Người mới chạy xe máy có nên chở người ngồi sau",
+      "intent": "Hỏi người mới lái có nên chở người ngồi sau hay không",
+      "kw": "người mới chở người ngồi sau",
+      "kw2": [
+        "chở sau khi mới biết chạy xe"
+      ],
+      "links": [
+        "/blog/hoi-dap/",
+        "/blog/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B052",
+      "child_id": "C-CD-MOC-CHAU",
+      "title": "Cung đường đi Mộc Châu qua Mộc Châu town nên ăn gì",
+      "intent": "Gợi ý món ăn dừng chân trên cung đường Mộc Châu",
+      "kw": "ăn gì trên đường đi Mộc Châu",
+      "kw2": [
+        "đồ ăn cung đường Mộc Châu"
+      ],
+      "links": [
+        "/blog/cung-duong/",
+        "/blog/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B053",
+      "child_id": "C-DIEM-DEN",
+      "title": "Đi cầu Long Biên ngắm hoàng hôn bằng xe máy có được không",
+      "intent": "Hỏi việc lên cầu Long Biên ngắm hoàng hôn bằng xe máy",
+      "kw": "cầu Long Biên ngắm hoàng hôn xe máy",
+      "kw2": [
+        "hoàng hôn cầu Long Biên"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B054",
+      "child_id": "C-THUE-GIA",
+      "title": "Thuê xe máy cho hai người chở nhau giá có khác không",
+      "intent": "Hỏi giá thuê xe máy có phụ thuộc số người đi hay không",
+      "kw": "thuê xe máy hai người giá",
+      "kw2": [
+        "giá thuê xe chở hai người"
+      ],
+      "links": [
+        "/blog/thue-xe/",
+        "/blog/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B055",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe điện thuê qua phà có được không",
+      "intent": "Hỏi việc đưa xe điện thuê đi qua phà",
+      "kw": "xe điện thuê qua phà",
+      "kw2": [
+        "đưa xe điện lên phà"
+      ],
+      "links": [
+        "/blog/xe-may/",
+        "/blog/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B056",
+      "child_id": "C-GIAY-TO",
+      "title": "Thẻ căn cước hợp lệ nhưng mất niêm phong có thuê xe được không",
+      "intent": "Hỏi thẻ căn cước bị mất niêm phong có dùng thuê xe được không",
+      "kw": "căn cước mất niêm phong thuê xe",
+      "kw2": [
+        "thẻ căn cước hỏng thuê xe"
+      ],
+      "links": [
+        "/blog/an-toan-phap-ly/",
+        "/blog/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B057",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Cách lùi xe máy thuê trong hẻm nhỏ",
+      "intent": "Kỹ thuật lùi xe máy trong hẻm nhỏ",
+      "kw": "lùi xe máy trong hẻm nhỏ",
+      "kw2": [
+        "đảo xe trong hẻm"
+      ],
+      "links": [
+        "/blog/ky-nang/",
+        "/blog/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
+    },
+    {
+      "candidate_id": "CAND-2026-10-06-B058",
+      "child_id": "C-HO-TAY",
+      "title": "Đi xe máy hàm cá vàng Hồ Tây có chỗ đỗ không",
+      "intent": "Gợi ý chỗ đỗ xe khi đi hàm cá vàng Hồ Tây",
+      "kw": "đỗ xe đi hàm cá vàng Hồ Tây",
+      "kw2": [
+        "gửi xe hàm cá vàng"
+      ],
+      "links": [
+        "/blog/du-lich/",
+        "/blog/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-06-B",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-06T11:19:43+00:00",
+      "materialized_head": "0471d208663f0eed5c92c5d4fb230a882f062f9c"
     }
   ]
 }
