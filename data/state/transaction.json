@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T16:45:14+00:00",
+  "updated_at": "2026-10-06T16:57:55+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01413",
-      "started_at": "2026-10-06T11:27:42+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-cuoi-tuan-nen-at-truoc-bao-lau.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-cuoi-tuan-nen-at-truoc-bao-lau.md",
-      "result": "PUBLISHED",
-      "commit_sha": "970d5dd650832893c8c883c2c2d4e9457d267505",
-      "finished_at": "2026-10-06T11:27:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01414",
-      "started_at": "2026-10-06T11:41:19+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-mot-ngay-nen-lay-xe-luc-may-gio.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-mot-ngay-nen-lay-xe-luc-may-gio.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ccc9dcd191ba5746c620807c5bf96d7f5ce39b72",
-      "finished_at": "2026-10-06T11:41:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01415",
       "started_at": "2026-10-06T11:41:35+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "69f613d584c7a79a1be47dab2eaee3e1ffb7bc69",
       "finished_at": "2026-10-06T16:45:14+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01438",
+      "started_at": "2026-10-06T16:57:54+00:00",
+      "source": "_drafts/2026-10-05-i-cho-em-long-bien-bang-xe-may-thue-co-tien-khong.md",
+      "destination": "_posts/2026-10-05-i-cho-em-long-bien-bang-xe-may-thue-co-tien-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0c5dfd1c121227084be253d8a77647133024b53f",
+      "finished_at": "2026-10-06T16:57:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01439",
+      "started_at": "2026-10-06T16:57:55+00:00",
+      "source": "_drafts/2026-10-05-en-soc-chay-xe-may-tu-cau-giay-mat-bao-lau.md",
+      "destination": "_posts/2026-10-05-en-soc-chay-xe-may-tu-cau-giay-mat-bao-lau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0c5dfd1c121227084be253d8a77647133024b53f",
+      "finished_at": "2026-10-06T16:57:55+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
