@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T16:02:45+00:00",
+  "updated_at": "2026-10-06T16:12:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01403",
-      "started_at": "2026-10-05T19:05:53+00:00",
-      "source": "_drafts/2026-10-05-an-nhe-gi-truoc-khi-chay-xe-chuyen-xa-buoi-sang.md",
-      "destination": "_posts/2026-10-05-an-nhe-gi-truoc-khi-chay-xe-chuyen-xa-buoi-sang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "204811a7a6d5864213bd7a9ec2f60c001476f97a",
-      "finished_at": "2026-10-05T19:05:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01404",
-      "started_at": "2026-10-06T09:14:46+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-co-uoc-tra-truoc-e-uoc-giam-gia-dai-han-khong.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-co-uoc-tra-truoc-e-uoc-giam-gia-dai-han-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "840ab5bd4715a50bc2a6ca8db495237337c13169",
-      "finished_at": "2026-10-06T09:14:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01405",
       "started_at": "2026-10-06T09:14:46+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "31e07916d74f7b051ff755f92b0568f256d80928",
       "finished_at": "2026-10-06T16:02:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01428",
+      "started_at": "2026-10-06T16:12:53+00:00",
+      "source": "_drafts/2026-10-05-xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua.md",
+      "destination": "_posts/2026-10-05-xe-may-thue-a-co-bao-hiem-dan-su-bat-buoc-chua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "aa66c916ae49dc50a0fb22cd5f82487ed844721a",
+      "finished_at": "2026-10-06T16:12:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01429",
+      "started_at": "2026-10-06T16:12:53+00:00",
+      "source": "_drafts/2026-10-05-chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue.md",
+      "destination": "_posts/2026-10-05-chon-mu-bao-hiem-cho-tre-i-cung-tren-xe-may-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "aa66c916ae49dc50a0fb22cd5f82487ed844721a",
+      "finished_at": "2026-10-06T16:12:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
