@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-05T19:05:53+00:00",
+  "updated_at": "2026-10-06T09:14:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01379",
-      "started_at": "2026-10-05T17:19:47+00:00",
-      "source": "_drafts/2026-10-05-thay-dau-phanh-xe-may-khi-nao-la-ung-ky.md",
-      "destination": "_posts/2026-10-05-thay-dau-phanh-xe-may-khi-nao-la-ung-ky.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0fc428492db21a4a735a327d2b3d3bc3f741f47f",
-      "finished_at": "2026-10-05T17:19:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01380",
-      "started_at": "2026-10-05T17:28:10+00:00",
-      "source": "_drafts/2026-10-05-ve-sinh-bugi-xe-may-inh-ky-tai-nha-uoc-khong.md",
-      "destination": "_posts/2026-10-05-ve-sinh-bugi-xe-may-inh-ky-tai-nha-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5140cd1c6b4fcf2a50d73711149ee190754de434",
-      "finished_at": "2026-10-05T17:28:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01381",
       "started_at": "2026-10-05T17:28:10+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "204811a7a6d5864213bd7a9ec2f60c001476f97a",
       "finished_at": "2026-10-05T19:05:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01404",
+      "started_at": "2026-10-06T09:14:46+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-co-uoc-tra-truoc-e-uoc-giam-gia-dai-han-khong.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-co-uoc-tra-truoc-e-uoc-giam-gia-dai-han-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "840ab5bd4715a50bc2a6ca8db495237337c13169",
+      "finished_at": "2026-10-06T09:14:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01405",
+      "started_at": "2026-10-06T09:14:46+00:00",
+      "source": "_drafts/2026-10-05-nguoi-duoi-18-i-kem-nguoi-u-tuoi-co-uoc-ky-hop-ong-thue.md",
+      "destination": "_posts/2026-10-05-nguoi-duoi-18-i-kem-nguoi-u-tuoi-co-uoc-ky-hop-ong-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "840ab5bd4715a50bc2a6ca8db495237337c13169",
+      "finished_at": "2026-10-06T09:14:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
