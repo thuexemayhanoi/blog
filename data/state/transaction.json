@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T09:26:12+00:00",
+  "updated_at": "2026-10-06T09:36:57+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01383",
-      "started_at": "2026-10-05T17:37:57+00:00",
-      "source": "_drafts/2026-10-05-mat-cccd-khi-ang-giu-ho-ky-qua-thue-xe-lam-gi.md",
-      "destination": "_posts/2026-10-05-mat-cccd-khi-ang-giu-ho-ky-qua-thue-xe-lam-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "642839555b9f9c7387c07bdf78697a439bc711e4",
-      "finished_at": "2026-10-05T17:37:57+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01384",
-      "started_at": "2026-10-05T17:45:24+00:00",
-      "source": "_drafts/2026-10-05-quy-inh-moi-ve-kiem-inh-xe-may-nguoi-thue-can-biet.md",
-      "destination": "_posts/2026-10-05-quy-inh-moi-ve-kiem-inh-xe-may-nguoi-thue-can-biet.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c0986d5438d4c0027548c1279fb7d6af9dc69f47",
-      "finished_at": "2026-10-05T17:45:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01385",
       "started_at": "2026-10-05T17:45:24+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "4be4e0726cd1c4169030ac0d492a842c876abac3",
       "finished_at": "2026-10-06T09:26:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01408",
+      "started_at": "2026-10-06T09:36:57+00:00",
+      "source": "_drafts/2026-10-05-nguoi-moi-chay-xe-may-nen-i-tuyen-nao-cuoi-tuan-truoc-tien.md",
+      "destination": "_posts/2026-10-05-nguoi-moi-chay-xe-may-nen-i-tuyen-nao-cuoi-tuan-truoc-tien.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6289a6677c8615f1d65c0610f570214fb686fa2e",
+      "finished_at": "2026-10-06T09:36:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01409",
+      "started_at": "2026-10-06T09:36:57+00:00",
+      "source": "_drafts/2026-10-05-chon-xe-may-cho-nguoi-cao-tuoi-i-kham-benh-inh-ky.md",
+      "destination": "_posts/2026-10-05-chon-xe-may-cho-nguoi-cao-tuoi-i-kham-benh-inh-ky.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6289a6677c8615f1d65c0610f570214fb686fa2e",
+      "finished_at": "2026-10-06T09:36:57+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
