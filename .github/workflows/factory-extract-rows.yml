@@ -1,0 +1,49 @@
+name: Factory extract rows
+
+# Helper (writer sandbox khong doc duoc content-matrix.csv >1MB).
+# Chi chay khi data/factory/extract-request.json thay doi; chi commit
+# reports/factory/extracted-rows.json. KHONG cham state san xuat khac.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/factory/extract-request.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: factory-extract-rows
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Extract requested rows
+        run: |
+          python3 - <<'PY'
+          import json, csv
+          req = json.load(open('data/factory/extract-request.json', encoding='utf-8'))
+          ids = set(req['ids'])
+          rows = {}
+          with open('data/content-matrix.csv', newline='', encoding='utf-8') as f:
+              for r in csv.DictReader(f):
+                  if r.get('id') in ids:
+                      rows[r['id']] = r
+          with open('reports/factory/extracted-rows.json', 'w', encoding='utf-8') as f:
+              json.dump({'requested': req['ids'], 'rows': rows}, f, ensure_ascii=False, indent=1)
+          missing = ids - set(rows)
+          print('extracted', len(rows), 'missing', sorted(missing))
+          if missing:
+              raise SystemExit('missing ids: ' + ', '.join(sorted(missing)))
+          PY
+      - name: Commit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add reports/factory/extracted-rows.json
+          git commit -m "factory: extracted rows report [automated]" || echo "no changes"
+          git push
