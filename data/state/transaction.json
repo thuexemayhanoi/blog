@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T11:27:42+00:00",
+  "updated_at": "2026-10-06T11:41:19+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01389",
-      "started_at": "2026-10-05T18:05:11+00:00",
-      "source": "_drafts/2026-10-05-am-vanh-va-suoi-khoang-my-lam-bang-xe-may.md",
-      "destination": "_posts/2026-10-05-am-vanh-va-suoi-khoang-my-lam-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6a928136c8dd89e93c6e263e4cf9807b122b4964",
-      "finished_at": "2026-10-05T18:05:11+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01390",
       "started_at": "2026-10-05T18:12:55+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "970d5dd650832893c8c883c2c2d4e9457d267505",
       "finished_at": "2026-10-06T11:27:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01414",
+      "started_at": "2026-10-06T11:41:19+00:00",
+      "source": "_drafts/2026-10-05-thue-xe-may-mot-ngay-nen-lay-xe-luc-may-gio.md",
+      "destination": "_posts/2026-10-05-thue-xe-may-mot-ngay-nen-lay-xe-luc-may-gio.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ccc9dcd191ba5746c620807c5bf96d7f5ce39b72",
+      "finished_at": "2026-10-06T11:41:19+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
