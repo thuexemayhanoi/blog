@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T20:58:37+00:00",
+  "updated_at": "2026-10-06T21:12:09+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01423",
-      "started_at": "2026-10-06T14:25:44+00:00",
-      "source": "_drafts/2026-10-05-xe-ien-thue-sac-o-au-khi-i-quanh-ho-tay.md",
-      "destination": "_posts/2026-10-05-xe-ien-thue-sac-o-au-khi-i-quanh-ho-tay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cdb6c376075540b0fadc55014d3fa0ba5d7291c6",
-      "finished_at": "2026-10-06T14:25:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01424",
-      "started_at": "2026-10-06T15:52:04+00:00",
-      "source": "_drafts/2026-10-05-honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong.md",
-      "destination": "_posts/2026-10-05-honda-wave-thue-cho-nguoi-moi-co-de-ieu-khien-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "229dcd6785664b21f36a239281fcd1a7b35559ac",
-      "finished_at": "2026-10-06T15:52:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01425",
       "started_at": "2026-10-06T15:52:04+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0ceaaca1e7ba91bd748f7e19d3f308a67bcc44ba",
       "finished_at": "2026-10-06T20:58:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01448",
+      "started_at": "2026-10-06T21:12:09+00:00",
+      "source": "_drafts/2026-10-05-i-xe-may-luc-sam-set-nen-dung-o-au.md",
+      "destination": "_posts/2026-10-05-i-xe-may-luc-sam-set-nen-dung-o-au.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a78f4dde6bd05cabfc6fdebc15a0ed41824c6a1d",
+      "finished_at": "2026-10-06T21:12:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01449",
+      "started_at": "2026-10-06T21:12:09+00:00",
+      "source": "_drafts/2026-10-05-cho-hop-giu-nhiet-tren-xe-may-sao-cho-vung.md",
+      "destination": "_posts/2026-10-05-cho-hop-giu-nhiet-tren-xe-may-sao-cho-vung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a78f4dde6bd05cabfc6fdebc15a0ed41824c6a1d",
+      "finished_at": "2026-10-06T21:12:09+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
