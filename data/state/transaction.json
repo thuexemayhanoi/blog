@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T14:15:47+00:00",
+  "updated_at": "2026-10-06T14:25:44+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01397",
-      "started_at": "2026-10-05T18:40:32+00:00",
-      "source": "_drafts/2026-10-05-chay-xe-may-buoi-giao-mua-tu-he-sang-thu.md",
-      "destination": "_posts/2026-10-05-chay-xe-may-buoi-giao-mua-tu-he-sang-thu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7f16fafa4c5ae5e3eb66fa3cc0f4812b9dcb4bff",
-      "finished_at": "2026-10-05T18:40:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01398",
-      "started_at": "2026-10-05T18:48:09+00:00",
-      "source": "_drafts/2026-10-05-cho-thung-giay-ung-o-nha-bep-tren-xe-may.md",
-      "destination": "_posts/2026-10-05-cho-thung-giay-ung-o-nha-bep-tren-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2765684bcd28520a758a4b620a9d8f274bc2f515",
-      "finished_at": "2026-10-05T18:48:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01399",
       "started_at": "2026-10-05T18:48:09+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "9755f4cf512f53769a755fe582fa6290ff691116",
       "finished_at": "2026-10-06T14:15:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01422",
+      "started_at": "2026-10-06T14:25:44+00:00",
+      "source": "_drafts/2026-10-05-xe-ga-thue-co-hop-e-cho-o-cong-kenh-khong.md",
+      "destination": "_posts/2026-10-05-xe-ga-thue-co-hop-e-cho-o-cong-kenh-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cdb6c376075540b0fadc55014d3fa0ba5d7291c6",
+      "finished_at": "2026-10-06T14:25:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01423",
+      "started_at": "2026-10-06T14:25:44+00:00",
+      "source": "_drafts/2026-10-05-xe-ien-thue-sac-o-au-khi-i-quanh-ho-tay.md",
+      "destination": "_posts/2026-10-05-xe-ien-thue-sac-o-au-khi-i-quanh-ho-tay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cdb6c376075540b0fadc55014d3fa0ba5d7291c6",
+      "finished_at": "2026-10-06T14:25:44+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
