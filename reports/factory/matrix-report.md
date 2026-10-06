@@ -6,10 +6,10 @@
 |---|---|---|
 | HARD_CAPACITY | 10000 | Trần kỹ thuật của factory, KHÔNG phải chỉ tiêu biên tập. |
 | EDITORIAL_TARGET | 6980 | Tổng planned_target trong taxonomy — chỉ tiêu chủ đề đã kiểm chứng. |
-| CURRENT_VALID_ROWS | 1520 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
-| CURRENT_SEEDED_ROWS | 1037 | Hàng planned mới đã có ý định riêng. |
-| RESERVED_CAPACITY | 8480 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
-| MISSING_VALID_TOPIC_SPACE | 5943 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
+| CURRENT_VALID_ROWS | 1594 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
+| CURRENT_SEEDED_ROWS | 1111 | Hàng planned mới đã có ý định riêng. |
+| RESERVED_CAPACITY | 8406 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
+| MISSING_VALID_TOPIC_SPACE | 5869 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
 
 Lưu ý trung thực: 483 (legacy) + 6980 (EDITORIAL_TARGET) = 7463 < HARD_CAPACITY 10000. Taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng. Muốn tăng phải mở rộng seed bằng chủ đề thật (khác biệt ý định, không hoán đổi tên/từ). Đạt HARD_CAPACITY không phải điều kiện hoàn thành của matrix; điều kiện là mọi hàng đều hợp lệ và chống trùng PASS.
 
@@ -19,10 +19,10 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Tổng quan
 
-- Tổng hàng: 1520
+- Tổng hàng: 1594
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
-- PLANNED mới: 73
+- PLANNED mới: 147
 - Năng lực danh nghĩa cũ: 10.000 hàng; tổng planned_target trong taxonomy: 6980
 
 ## Chống trùng (đã kiểm máy, tất cả PASS)
@@ -33,37 +33,37 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Chênh lệch với chỉ tiêu — BÁO THIẾU, KHÔNG ĐỆM
 
-Seed chỉ đăng ký được 73 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
+Seed chỉ đăng ký được 147 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
 
 | Child | PLANNED đã có | planned_target (seed taxonomy) |
 |---|---|---|
-| C-THUE-GIA | 2 | 220 |
-| C-THUE-THU-TUC | 1 | 200 |
-| C-THUE-NGAY | 1 | 180 |
-| C-THUE-TUAN | 1 | 170 |
-| C-THUE-THANG | 1 | 200 |
-| C-THUE-DAT-COC | 1 | 150 |
-| C-THUE-QUOC-TE | 1 | 140 |
-| C-THUE-NHAN-TRA | 1 | 180 |
-| C-THUE-SU-CO | 1 | 180 |
-| C-XE-SO | 1 | 160 |
-| C-XE-GA | 1 | 160 |
-| C-XE-50CC | 0 | 140 |
-| C-XE-DIEN | 2 | 160 |
-| C-XE-DAP-DIEN | 0 | 100 |
+| C-THUE-GIA | 5 | 220 |
+| C-THUE-THU-TUC | 4 | 200 |
+| C-THUE-NGAY | 4 | 180 |
+| C-THUE-TUAN | 3 | 170 |
+| C-THUE-THANG | 3 | 200 |
+| C-THUE-DAT-COC | 4 | 150 |
+| C-THUE-QUOC-TE | 2 | 140 |
+| C-THUE-NHAN-TRA | 4 | 180 |
+| C-THUE-SU-CO | 4 | 180 |
+| C-XE-SO | 3 | 160 |
+| C-XE-GA | 3 | 160 |
+| C-XE-50CC | 2 | 140 |
+| C-XE-DIEN | 5 | 160 |
+| C-XE-DAP-DIEN | 1 | 100 |
 | C-HONDA-WAVE | 0 | 120 |
-| C-HONDA-VISION | 1 | 120 |
-| C-HONDA-AIR-BLADE | 0 | 110 |
-| C-HONDA-CLICK | 1 | 100 |
-| C-YAMAHA-SIRIUS | 0 | 100 |
-| C-BAO-DUONG | 1 | 140 |
-| C-GPLX | 1 | 150 |
-| C-BAO-HIEM | 1 | 130 |
-| C-NOI-DO-CONG | 1 | 120 |
-| C-PHAT-NGUOI | 1 | 120 |
+| C-HONDA-VISION | 2 | 120 |
+| C-HONDA-AIR-BLADE | 1 | 110 |
+| C-HONDA-CLICK | 2 | 100 |
+| C-YAMAHA-SIRIUS | 1 | 100 |
+| C-BAO-DUONG | 2 | 140 |
+| C-GPLX | 4 | 150 |
+| C-BAO-HIEM | 2 | 130 |
+| C-NOI-DO-CONG | 3 | 120 |
+| C-PHAT-NGUOI | 2 | 120 |
 | C-BIEN-BAO | 1 | 100 |
-| C-GIAY-TO | 2 | 110 |
-| C-QUY-DINH | 1 | 150 |
+| C-GIAY-TO | 3 | 110 |
+| C-QUY-DINH | 3 | 150 |
 | C-DIEM-DEN | 2 | 170 |
 | C-BAO-TANG | 1 | 90 |
 | C-PHO-CO | 1 | 110 |
@@ -71,25 +71,25 @@ Seed chỉ đăng ký được 73 hàng có giá trị riêng (mỗi hàng một
 | C-LONG-BIEN | 1 | 110 |
 | C-NGOAI-THANH | 1 | 110 |
 | C-CD-NOI-THANH | 1 | 100 |
-| C-CD-CUOI-TUAN | 1 | 130 |
-| C-CD-MAI-CHAU | 1 | 80 |
-| C-CD-MOC-CHAU | 2 | 80 |
-| C-CD-HA-GIANG | 1 | 80 |
-| C-CD-PHO-BAC | 1 | 90 |
-| C-KY-NANG-CO-BAN | 2 | 180 |
-| C-KY-NANG-TINH-HUONG | 1 | 180 |
-| C-KY-NANG-THOI-TIET | 2 | 150 |
-| C-KY-NANG-CHO-DO | 2 | 130 |
-| C-KY-NANG-GUI-XE | 2 | 120 |
-| C-KY-NANG-SUC-KHOE | 2 | 110 |
-| C-HD-GIA | 2 | 90 |
-| C-HD-THU-TUC | 2 | 90 |
-| C-HD-PHAP-LY | 2 | 90 |
-| C-HD-CHON-XE | 2 | 90 |
-| C-HD-SU-CO | 2 | 90 |
-| C-HD-NGUOI-MOI | 2 | 90 |
-| C-THUE-DOI-TUONG | 2 | 80 |
-| C-THUE-DIA-DIEM | 2 | 70 |
+| C-CD-CUOI-TUAN | 3 | 130 |
+| C-CD-MAI-CHAU | 2 | 80 |
+| C-CD-MOC-CHAU | 3 | 80 |
+| C-CD-HA-GIANG | 2 | 80 |
+| C-CD-PHO-BAC | 2 | 90 |
+| C-KY-NANG-CO-BAN | 4 | 180 |
+| C-KY-NANG-TINH-HUONG | 3 | 180 |
+| C-KY-NANG-THOI-TIET | 4 | 150 |
+| C-KY-NANG-CHO-DO | 4 | 130 |
+| C-KY-NANG-GUI-XE | 4 | 120 |
+| C-KY-NANG-SUC-KHOE | 3 | 110 |
+| C-HD-GIA | 3 | 90 |
+| C-HD-THU-TUC | 3 | 90 |
+| C-HD-PHAP-LY | 3 | 90 |
+| C-HD-CHON-XE | 3 | 90 |
+| C-HD-SU-CO | 3 | 90 |
+| C-HD-NGUOI-MOI | 3 | 90 |
+| C-THUE-DOI-TUONG | 3 | 80 |
+| C-THUE-DIA-DIEM | 3 | 70 |
 | C-XE-LUA-CHON | 2 | 80 |
-| C-XE-KHAC-PHUC | 2 | 90 |
+| C-XE-KHAC-PHUC | 3 | 90 |
 | C-XE-SO-SANH | 2 | 90 |
