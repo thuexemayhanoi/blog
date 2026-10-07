@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01480",
   "title": "Thi bằng A1 bằng xe máy thuê được không",
-  "scored_at": "2026-10-07T07:33:56+00:00",
+  "scored_at": "2026-10-07T07:35:56+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -31,10 +31,10 @@
     "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true,
-    "legal_source": false,
+    "legal_source": true,
     "legal_disclaimer": true
   },
-  "word_count": 1225,
+  "word_count": 1302,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -46,11 +46,12 @@
   "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
-  "legal": "FAIL",
+  "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-07-thi-bang-a1-bang-xe-may-thue-uoc-khong.md",
-  "content_sha256": "b6b0670489e4df4f00c798ebf3dcca17aacb263771560f9c0286bc8d2cf90235",
-  "matrix_row_sha256": "e93cf6001abd30acb7465ac894b75b065e5a610efa40381143e828c7d612634c",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-07-thi-bang-a1-bang-xe-may-thue-uoc-khong.md",
+  "content_sha256": "223bf4255dc7e5a0fbdd75a3e3d65e6ad815a207289816da99116d690ac3e44c",
+  "matrix_row_sha256": "544b72bd8539757731ce1f3c8161d3b7b4794441d806751058c03462fb083a7a",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-07T07:35:58+00:00"
 }
