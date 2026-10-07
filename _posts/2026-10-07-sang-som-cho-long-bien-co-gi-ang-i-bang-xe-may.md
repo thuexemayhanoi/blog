@@ -36,7 +36,7 @@ Nhớ lấy phiếu giữ xe nếu bãi phát, và chụp lại vị trí xe cù
 
 ## Ăn sáng gì ở khu chợ
 
-Quanh chợ có các quán ăn nhỏ phục vụ người bán hàng từ rất sớm, thường là phở, bún, xôi và bánh cuốn nóng. Các quán này nấu nhanh, đậm đà kiểu ăn cho người lao động, một bữa no đủ cho buổi sáng dài. Cà phê đen, cà phê sữa ở khu chợ đậm hơn nơi khác, quán nhỏ nhưng bàn ghế sat vách, ngồi nghe chuyện buôn bán của người trong chợ cũng là một phần trải nghiệm.
+Quanh chợ có các quán ăn nhỏ phục vụ người bán hàng từ rất sớm, thường là phở, bún, xôi và bánh cuốn nóng. Các quán này nấu nhanh, đậm đà kiểu ăn cho người lao động, một bữa no đủ cho buổi sáng dài. Cà phê đen, cà phê sữa ở khu chợ đậm hơn nơi khác, quán nhỏ nhưng bàn ghế sát vách, ngồi nghe chuyện buôn bán của người trong chợ cũng là một phần trải nghiệm.
 
 Nếu bạn muốn vừa ăn sáng vừa ngắm dòng sông, chạy ra các quán ven đường phía gần cầu, gọi món nóng và ngồi ghế ngoài. Muộn hơn chút, khoảng tám giờ, các quán quanh khu dân cư phía Long Biên mở cửa đầy đủ, chọn được nhiều món hơn. Kết thúc bữa sáng, có thể chạy lên cầu Long Biên ngắm toàn cảnh sông Hồng, hoặc xem thêm bài về [đi cầu Long Biên ngắm hoàng hôn](/blog/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) nếu bạn muốn quay lại vào buổi chiều tối.
 
