@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T10:21:07+00:00",
+  "updated_at": "2026-10-07T10:23:50+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01477",
-      "started_at": "2026-10-07T01:24:46+00:00",
-      "source": "_drafts/2026-10-07-honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong.md",
-      "destination": "_posts/2026-10-07-honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6b71a1b821ccbcd3a95c90d15ed45be729939711",
-      "finished_at": "2026-10-07T01:24:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01478",
-      "started_at": "2026-10-07T05:31:50+00:00",
-      "source": "_drafts/2026-10-07-honda-click-thue-cho-hai-nguoi-co-em-khong.md",
-      "destination": "_posts/2026-10-07-honda-click-thue-cho-hai-nguoi-co-em-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7e3cf0b64bbe994fccabbf663345a65545c44d32",
-      "finished_at": "2026-10-07T05:31:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01479",
       "started_at": "2026-10-07T05:31:50+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "315b87ff4a11d879ae6cb24bfae52b4c909e46b0",
       "finished_at": "2026-10-07T10:21:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01502",
+      "started_at": "2026-10-07T10:23:50+00:00",
+      "source": "_drafts/2026-10-07-chay-xe-may-pho-bac-som-tranh-mua-chon-gio-the-nao.md",
+      "destination": "_posts/2026-10-07-chay-xe-may-pho-bac-som-tranh-mua-chon-gio-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "09ef2e2de3f35b368955868b4e5c1d48b17f6636",
+      "finished_at": "2026-10-07T10:23:50+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01503",
+      "started_at": "2026-10-07T10:23:50+00:00",
+      "source": "_drafts/2026-10-07-cach-bo-chan-chong-xe-may-thue-khong-bi-kep.md",
+      "destination": "_posts/2026-10-07-cach-bo-chan-chong-xe-may-thue-khong-bi-kep.md",
+      "result": "PUBLISHED",
+      "commit_sha": "09ef2e2de3f35b368955868b4e5c1d48b17f6636",
+      "finished_at": "2026-10-07T10:23:50+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
