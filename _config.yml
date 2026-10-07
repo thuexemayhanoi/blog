@@ -23,9 +23,11 @@ plugins:
 # Exclude
 exclude:
   - AGENTS.md
+  - README.md
   - .sass-cache/
   - .jekyll-cache/
   - docs/
+  - scripts/
   - data/
   - reports/
   - en/
