@@ -158,6 +158,10 @@ jobs:
         run: |
           set -eu
           test -f _site/404.html || { echo "FAIL: thieu root 404.html cho GitHub Pages."; exit 1; }
+          grep -q '<meta name="robots" content="noindex,follow">' _site/404.html             || { echo "FAIL: 404.html thieu noindex,follow."; exit 1; }
+          if grep -q '<loc>https://blog.thuexemaynguyentu.com/404.html</loc>' _site/sitemap.xml; then
+            echo "FAIL: 404.html khong duoc nam trong sitemap."; exit 1
+          fi
           test ! -e _site/scripts || { echo "FAIL: scripts noi bo bi deploy cong khai."; exit 1; }
           test ! -e _site/README.md || { echo "FAIL: README.md bi deploy cong khai."; exit 1; }
           if grep -rq "mau-nhap-bai-moi" _site/sitemap.xml _site 2>/dev/null; then
