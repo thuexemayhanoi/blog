@@ -1,28 +1,25 @@
 {
   "schema_version": "1",
-  "mode": "new",
+  "mode": "repair",
   "queue": [
-    "BLG-01476",
-    "BLG-01477"
+    "BLG-01476"
   ],
   "pair_size": 2,
-  "started": "2026-10-07T01:23:17Z",
-  "finished": "2026-10-07T01:23:21Z",
+  "started": "2026-10-07T01:23:59Z",
+  "finished": "2026-10-07T01:24:02Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-01476",
-        "BLG-01477"
+        "BLG-01476"
       ],
-      "status": "recoverable"
+      "status": "published"
     }
   ],
-  "published": [],
-  "recoverable": [
-    "BLG-01476",
-    "BLG-01477"
+  "published": [
+    "BLG-01476"
   ],
+  "recoverable": [],
   "deferred": [],
   "fatal": null
 }

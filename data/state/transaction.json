@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T00:35:28+00:00",
+  "updated_at": "2026-10-07T01:24:01+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01451",
-      "started_at": "2026-10-06T21:19:03+00:00",
-      "source": "_drafts/2026-10-05-chay-xe-may-troi-nang-gat-nen-bo-sung-nuoc-the-nao.md",
-      "destination": "_posts/2026-10-05-chay-xe-may-troi-nang-gat-nen-bo-sung-nuoc-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d2d2eb3eff4b3d8e3398fd62db20268bc7e6509d",
-      "finished_at": "2026-10-06T21:19:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01452",
       "started_at": "2026-10-06T21:28:03+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "edf0cb4811a4800e30cdb2af643070eaab8d00fc",
       "finished_at": "2026-10-07T00:35:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01476",
+      "started_at": "2026-10-07T01:24:01+00:00",
+      "source": "_drafts/2026-10-07-xe-ien-thue-qua-pha-co-uoc-khong.md",
+      "destination": "_posts/2026-10-07-xe-ien-thue-qua-pha-co-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "080ef526b5a5fa49d7c16dcde64bf546107bcae6",
+      "finished_at": "2026-10-07T01:24:01+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

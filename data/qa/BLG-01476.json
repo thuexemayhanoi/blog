@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01476",
   "title": "Xe điện thuê qua phà có được không",
-  "scored_at": "2026-10-07T01:23:19+00:00",
+  "scored_at": "2026-10-07T01:23:59+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -10,11 +10,11 @@
     "permalink_canonical": true,
     "word_count": true,
     "title_match": true,
-    "description_length": false,
+    "description_length": true,
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1052,
+  "word_count": 1054,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 100,
-  "seo": 65,
+  "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-07-xe-ien-thue-qua-pha-co-uoc-khong.md",
-  "content_sha256": "f320338c47a029531093a44cdf962ca270ebace1b2fab16ff4d3dcb29e818e8c",
-  "matrix_row_sha256": "25a03c4d75858795a1137ea4e8da1f410f4f93a5c007f0350ceaafd76e77abd0",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-07-xe-ien-thue-qua-pha-co-uoc-khong.md",
+  "content_sha256": "bdeb56bc2bbf3723d63e71b74a5696349525df56a74f0e843bf3fb1808b3ca6c",
+  "matrix_row_sha256": "8872bb5dc29bc64b30fe0c4c7c3b8bce3591572a669250cf1e150d6b824ab7b7",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-07T01:24:01+00:00"
 }
