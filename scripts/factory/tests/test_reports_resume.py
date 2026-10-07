@@ -58,9 +58,9 @@ sim = [
 for aid, st in sim:
     rows.append({'id':aid,'status':st,'title':'T '+aid,'intent':'I '+aid,'primary_keyword':'kw '+aid,
                  'secondary_keywords':'','parent_id':kept[0]['likely_parent'],'child_id':kept[0]['likely_child'],
-                 'group':'','expected_url':'/blog/kinh nghiệm/{date}/sim-%s/'%aid,
+                 'group':'','expected_url':'/kinh nghiệm/{date}/sim-%s/'%aid,
                  'output_path':'_posts/{date}-sim-%s.md'%aid,
-                 'canonical_url':'/blog/kinh nghiệm/{date}/sim-%s/'%aid,
+                 'canonical_url':'/kinh nghiệm/{date}/sim-%s/'%aid,
                  'internal_links':'/bang-gia/','source_required':'false','legal_risk':'none',
                  'batch':'','source':'planned:test'})
 with open(os.path.join(work,'data/content-matrix.csv'),'w',encoding='utf-8',newline='') as f:
