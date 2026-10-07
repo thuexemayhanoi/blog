@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T13:07:39+00:00",
+  "updated_at": "2026-10-07T13:09:52+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01525",
-      "started_at": "2026-10-07T12:17:31+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-bang-can-cuoc-gan-chip-co-uoc-khong.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-bang-can-cuoc-gan-chip-co-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "afd40dcd77de2ee34d7c77c93716657c2156c5dc",
-      "finished_at": "2026-10-07T12:17:31+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01526",
-      "started_at": "2026-10-07T12:21:47+00:00",
-      "source": "_drafts/2026-10-07-chup-anh-xe-khi-thue-xe-e-lam-gi.md",
-      "destination": "_posts/2026-10-07-chup-anh-xe-khi-thue-xe-e-lam-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "09a4d3695ed252b9362299c3dbae2d267f6eab06",
-      "finished_at": "2026-10-07T12:21:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01527",
       "started_at": "2026-10-07T12:21:47+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f49937edeb2876b654dd7b099ea3fa6a8455a331",
       "finished_at": "2026-10-07T13:07:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01550",
+      "started_at": "2026-10-07T13:09:52+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-ien-i-cac-tinh-lan-can-co-tien-khong.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-ien-i-cac-tinh-lan-can-co-tien-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ad77eb70ae208166fb5494f2cca796cfc91cbf99",
+      "finished_at": "2026-10-07T13:09:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01551",
+      "started_at": "2026-10-07T13:09:52+00:00",
+      "source": "_drafts/2026-10-07-pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho.md",
+      "destination": "_posts/2026-10-07-pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ad77eb70ae208166fb5494f2cca796cfc91cbf99",
+      "finished_at": "2026-10-07T13:09:52+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
