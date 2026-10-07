@@ -1,10 +1,10 @@
 # Blog Thuê Xe Máy Hà Nội Nguyễn Tú
 
-Jekyll/GitHub Pages. URL: https://blog.thuexemaynguyentu.com/ · Base URL: `/blog` · Ngôn ngữ công khai: chỉ tiếng Việt. Website doanh nghiệp chính: https://thuexemaynguyentu.com/
+Jekyll/GitHub Pages. URL: https://blog.thuexemaynguyentu.com/ · Base URL: `/` (custom-domain root) · Ngôn ngữ công khai: chỉ tiếng Việt. Website doanh nghiệp chính: https://thuexemaynguyentu.com/
 
 Agent làm việc trong repo đọc `AGENTS.md` TRƯỚC. Tài liệu vận hành chuẩn nằm trong `docs/` (bản đồ tài liệu ở cuối file này); report sinh từ dữ liệu thật trong `reports/factory/`.
 
-## /blog là gì
+## Repo /blog là gì
 
 Blog nội dung SEO cho dịch vụ cho thuê xe máy tại Hà Nội, tách biệt với website kinh doanh chính. Chạy trên Jekyll, deploy bằng GitHub Pages, nội dung tiếng Việt 100%, kiến trúc hub theo taxonomy 7 nhóm cha. Phần vận hành dài hạn là một Content Factory: sinh chủ đề, viết, QA, promote qua publish gate, xuất bản có checkpoint.
 
