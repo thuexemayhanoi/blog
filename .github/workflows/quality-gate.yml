@@ -138,6 +138,10 @@ jobs:
           if [ "$URLS" -lt 100 ]; then
             echo "FAIL: sitemap bat thuong (nho hon 100 URLs) — kiem router/sitemap."; exit 1
           fi
+          grep -q '<loc>https://blog.thuexemaynguyentu.com/' _site/sitemap.xml             || { echo "FAIL: sitemap khong dung custom domain."; exit 1; }
+          if grep -q 'https://thuexemayhanoi.github.io' _site/sitemap.xml; then
+            echo "FAIL: sitemap con host GitHub Pages cu."; exit 1
+          fi
           grep -rq -m1 "schema.org" _site \
             || { echo "FAIL: thieu JSON-LD schema.org tren site."; exit 1; }
           for u in chu-de thue-xe xe-may an-toan-phap-ly cung-duong ky-nang hoi-dap; do
