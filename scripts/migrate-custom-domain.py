@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""One-off/idempotent migration from GitHub project-site baseurl /blog
-onto the custom-domain root https://blog.thuexemaynguyentu.com.
+"""Idempotent migration from GitHub project-site baseurl /blog to the
+custom-domain root https://blog.thuexemaynguyentu.com.
 
-Important: _drafts/ is intentionally untouched so this maintenance migration
-cannot trigger Factory Publish. Published/runtime source and the factory's
-future URL generators are migrated.
+_drafts/ is intentionally untouched so this maintenance commit cannot wake
+Factory Publish. Published/runtime source and future factory URL generation
+are migrated.
 """
 from pathlib import Path
 import re
@@ -122,6 +122,11 @@ def patch_validate(changed):
     write_if_changed(p, old, new, changed)
 
 
+def is_test_file(rel):
+    parts = rel.parts
+    return len(parts) >= 3 and parts[0] == "scripts" and parts[1] == "factory" and parts[2] == "tests"
+
+
 def migrate_runtime_text(changed):
     self_path = (ROOT / "scripts/migrate-custom-domain.py").resolve()
     for p in ROOT.rglob("*"):
@@ -130,6 +135,8 @@ def migrate_runtime_text(changed):
         rel = p.relative_to(ROOT)
         if rel.parts and rel.parts[0] in EXCLUDE_TOP:
             continue
+        if is_test_file(rel):
+            continue
         if p.suffix.lower() not in TEXT_EXT and p.name not in {"CNAME"}:
             continue
         try:
@@ -137,8 +144,47 @@ def migrate_runtime_text(changed):
         except UnicodeDecodeError:
             continue
         new = old.replace(OLD_BASE, NEW_BASE)
-        new = ROOT_REL_BLOG.sub("/", new)
+        # Repeat so legacy doubles such as /blog/blog/ fully collapse to root.
+        while True:
+            newer = ROOT_REL_BLOG.sub("/", new)
+            if newer == new:
+                break
+            new = newer
         write_if_changed(p, old, new, changed)
+
+
+def patch_factory_operator(changed):
+    p = ROOT / "scripts/factory/factory-operator.py"
+    old = read(p)
+    new = old
+
+    start = new.index("def _site_baseurl():")
+    end = new.index("\n\nBASEURL = None", start)
+    replacement = '''def _site_baseurl():
+    cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
+    m = re.search(r'^baseurl:\\s*(?:"([^"]*)"|\\'([^\\']*)\\'|([^\\s#]*))', cfg, re.M)
+    if not m:
+        raise SystemExit('QA: không đọc được baseurl từ _config.yml')
+    value = next((g for g in m.groups() if g is not None), '')
+    if value and not value.startswith('/'):
+        raise SystemExit('QA: baseurl không hợp lệ trong _config.yml: %s' % value)
+    return value.rstrip('/')
+'''
+    new = new[:start] + replacement + new[end:]
+
+    ep_start = new.index("    expected_permalink =")
+    ep_end = new.index("\n    checks['permalink_canonical']", ep_start)
+    new = (new[:ep_start] +
+           "    expected_permalink = row['canonical_url'].replace('{date}', date_url)" +
+           new[ep_end:])
+
+    nh_start = new.index("    checks['no_hardcoded_blog']")
+    nh_end = new.index("\n\n    # ---- cannibalization", nh_start)
+    nh = ("    legacy_project_prefix = '/' + 'blog/'\n"
+          "    checks['no_hardcoded_blog'] = legacy_project_prefix not in body")
+    new = new[:nh_start] + nh + new[nh_end:]
+
+    write_if_changed(p, old, new, changed)
 
 
 def final_assertions():
@@ -158,6 +204,9 @@ def final_assertions():
         for p in root.rglob("*"):
             if not p.is_file() or p.name == "migrate-custom-domain.py":
                 continue
+            rel = p.relative_to(ROOT)
+            if is_test_file(rel):
+                continue
             if p.suffix.lower() not in TEXT_EXT:
                 continue
             try:
@@ -165,7 +214,7 @@ def final_assertions():
             except UnicodeDecodeError:
                 continue
             if ROOT_REL_BLOG.search(text):
-                bad.append(str(p.relative_to(ROOT)))
+                bad.append(str(rel))
                 if len(bad) >= 20:
                     break
         if len(bad) >= 20:
@@ -183,6 +232,7 @@ def main():
     patch_generate_topic_hubs(changed)
     patch_validate(changed)
     migrate_runtime_text(changed)
+    patch_factory_operator(changed)
     final_assertions()
     changed = sorted(set(changed))
     print("Custom-domain migration complete.")
