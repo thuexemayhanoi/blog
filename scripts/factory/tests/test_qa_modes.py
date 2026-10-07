@@ -68,7 +68,7 @@ def corrupt_legacy_url(fx):
     """Lỗi toàn site: đổi current_url của 1 bài legacy trong inventory."""
     p = os.path.join(fx, 'data/content-inventory.csv')
     rows = list(csv.DictReader(open(p, encoding='utf-8')))
-    rows[0]['current_url'] = '/blog/kinh-nghiem/1999/01/01/sai-url-danh-roi/'
+    rows[0]['current_url'] = '/kinh-nghiem/1999/01/01/sai-url-danh-roi/'
     with open(p, 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0].keys()), lineterminator='\n')
         w.writeheader()
@@ -163,8 +163,8 @@ def borrow_planned_row(fx, count=1, skip_ids=None):
 
 
 # draft mẫu đạt gate cho hàng cho trước. Sau QA hardening của engine,
-# draft mẫu PHẢI: (i) permalink gốc-tương-đối — bóc tiền tố /blog khỏi
-# canonical_url (baseurl chỉ thêm khi render); (ii) chứa đủ liên kết theo
+# draft mẫu PHẢI: (i) permalink gốc-tương-đối theo custom-domain root
+# lấy trực tiếp từ canonical_url; (ii) chứa đủ liên kết theo
 # cột internal_links của chính hàng đó + hub cha, tổng 3-8 liên kết hợp
 # lệ; (iii) đủ số từ trong dải word_target ±15% của hàng — phần đệm là
 # prose Việt trung lập, câu duy nhất, đoạn dưới 160 từ, không số tiền,
@@ -245,7 +245,7 @@ def make_draft(fx, row):
     links = list(required)
     if hub and not any(l.startswith(hub) for l in links):
         links.append(hub)
-    backup = [x for x in (hub, '/blog/an-toan-phap-ly/', '/blog/thue-xe/')
+    backup = [x for x in (hub, '/an-toan-phap-ly/', '/thue-xe/')
               if x]
     for cand in backup:
         if len(links) >= 3:
@@ -264,8 +264,7 @@ def make_draft(fx, row):
     text = DRAFT_TMPL.format(
         date=d, title=row['title'], desc=desc, tag='bao-hiem',
         kw=row['primary_keyword'],
-        permalink=re.sub(r'^/blog', '',
-                         row['canonical_url'].replace('{date}', '2026/09/28')),
+        permalink=row['canonical_url'].replace('{date}', '2026/09/28'),
         parent_id=row['parent_id'], child_id=row['child_id'], aid=row['id'],
         links_md=links_md)
     # đệm prose đến đúng dải word_target ±15% của hàng (engine đọc lại
