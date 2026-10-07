@@ -1,0 +1,65 @@
+name: Custom domain migration
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/migrate-custom-domain.py'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: custom-domain-migration
+  cancel-in-progress: false
+
+jobs:
+  migrate:
+    if: github.repository == 'thuexemayhanoi/blog'
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Migrate published site to custom domain
+        run: python3 scripts/migrate-custom-domain.py
+
+      - name: Migration assertions
+        run: |
+          set -eu
+          grep -q '^baseurl: ""$' _config.yml
+          grep -q '^url: "https://blog.thuexemaynguyentu.com"$' _config.yml
+          grep -q 'Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml' robots.txt
+          if grep -R -n -E '(^|[^A-Za-z0-9._-])/blog/' _posts data _data _includes _layouts scripts --exclude='migrate-custom-domain.py'; then
+            echo 'FAIL: con root-relative /blog/ trong runtime source'
+            exit 1
+          fi
+          echo 'OK: custom-domain source migration assertions passed'
+
+      - name: Commit migration
+        run: |
+          set -eu
+          git config user.name "blog-domain-migration-bot"
+          git config user.email "nguyentuantu2482@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No migration changes to commit"
+            exit 0
+          fi
+          git commit -m "migrate: blog.thuexemaynguyentu.com as canonical site"
+          n=0
+          until git push; do
+            n=$((n+1))
+            if [ "$n" -ge 3 ]; then
+              echo "push failed after $n retries"
+              exit 1
+            fi
+            git fetch origin main
+            git rebase origin/main
+          done
