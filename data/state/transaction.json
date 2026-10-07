@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T07:41:40+00:00",
+  "updated_at": "2026-10-07T07:56:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01459",
-      "started_at": "2026-10-06T22:01:42+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-o-long-bien-gan-cho-co-tien-khong.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-o-long-bien-gan-cho-co-tien-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3d377f7b8fccc9064f83bb7e8588bf32419e6f0d",
-      "finished_at": "2026-10-06T22:01:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01460",
-      "started_at": "2026-10-06T22:08:52+00:00",
-      "source": "_drafts/2026-10-05-chon-xe-may-thue-cho-nguoi-cao-tren-mot-met-bay.md",
-      "destination": "_posts/2026-10-05-chon-xe-may-thue-cho-nguoi-cao-tren-mot-met-bay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "857e1fe00a20e6372f20bd1fce1a933ba275d300",
-      "finished_at": "2026-10-06T22:08:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01461",
       "started_at": "2026-10-06T22:08:52+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "555b2c19b2944ce68a8d019035612c08b519c7a0",
       "finished_at": "2026-10-07T07:41:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01484",
+      "started_at": "2026-10-07T07:56:05+00:00",
+      "source": "_drafts/2026-10-07-bien-bao-cam-o-to-qua-lai-co-ap-dung-cho-xe-may-khong.md",
+      "destination": "_posts/2026-10-07-bien-bao-cam-o-to-qua-lai-co-ap-dung-cho-xe-may-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4bea3acf90be139c1407c6dd5f165cf614dc1a22",
+      "finished_at": "2026-10-07T07:56:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01485",
+      "started_at": "2026-10-07T07:56:05+00:00",
+      "source": "_drafts/2026-10-07-chup-cong-chung-giay-to-thue-xe-co-can-ban-goc-khong.md",
+      "destination": "_posts/2026-10-07-chup-cong-chung-giay-to-thue-xe-co-can-ban-goc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4bea3acf90be139c1407c6dd5f165cf614dc1a22",
+      "finished_at": "2026-10-07T07:56:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
