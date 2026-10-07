@@ -16,7 +16,7 @@ writer: W1
 
 Các ngày lễ lớn, từ dịp nghỉ quanh ba mươi tháng tư, quốc tế lao động, quốc khánh đến dịp Tết, là lúc nhu cầu thuê xe máy tăng rõ: người về quê, khách du lịch vào phố, người ở trọ tranh thủ đi chơi. Câu hỏi thuê xe máy ngày lễ giá tăng không vì vậy rất thực tế, và câu trả lời trung thực là tùy từng tiệm và từng dịp: có nơi giữ nguyên bảng giá, có nơi điều chỉnh theo cầu, nên cách chắc nhất là hỏi trực tiếp và hỏi sớm. Bài này giúp bạn hỏi đúng, đặt sớm và đỡ bị động.
 
-Nhóm bài về [thuê xe](/blog/thue-xe/) tổng hợp các tình huống thuê, cách hiểu các loại báo giá nằm ở [giá thuê](/blog/thue-xe/gia-thue/), thuê xe trong ngày ở [thuê xe trong ngày](/blog/thue-xe/thue-ngay/), và các bước giấy tờ ở [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Nhóm bài về [thuê xe](/thue-xe/) tổng hợp các tình huống thuê, cách hiểu các loại báo giá nằm ở [giá thuê](/thue-xe/gia-thue/), thuê xe trong ngày ở [thuê xe trong ngày](/thue-xe/thue-ngay/), và các bước giấy tờ ở [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Vì sao dịp lễ hay có ảnh hưởng đến báo giá
 

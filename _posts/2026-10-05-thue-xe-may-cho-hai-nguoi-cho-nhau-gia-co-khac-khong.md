@@ -16,7 +16,7 @@ writer: W1
 
 Hai người đi cùng nhau chỉ cần thuê một chiếc xe, nhưng nhiều khách vẫn lăn tăn không biết thuê xe máy hai người giá có bị tính thêm hay không. Thực tế, cách tính tiền ở phần lớn các tiệm phụ thuộc vào chiếc xe bạn nhận chứ không phụ thuộc số người ngồi trên xe. Tuy nhiên vẫn có vài tình huống có thể làm chi phí thay đổi, và bạn nên nắm rõ ngay từ đầu để tránh hiểu nhầm lúc nhận xe cũng như lúc thanh toán.
 
-Nếu bạn mới thuê xe lần đầu, nên đọc qua tổng quan về [dịch vụ cho thuê xe máy](/blog/thue-xe/), cách tiệm công bố [giá thuê xe](/blog/thue-xe/gia-thue/) và [thủ tục nhận trả xe](/blog/thue-xe/nhan-tra-xe/) để hình dung quy trình. Khi muốn so sánh dòng xe, bài viết về [cách chọn loại xe](/blog/xe-may/chon-loai-xe/) cũng rất đáng tham khảo.
+Nếu bạn mới thuê xe lần đầu, nên đọc qua tổng quan về [dịch vụ cho thuê xe máy](/thue-xe/), cách tiệm công bố [giá thuê xe](/thue-xe/gia-thue/) và [thủ tục nhận trả xe](/thue-xe/nhan-tra-xe/) để hình dung quy trình. Khi muốn so sánh dòng xe, bài viết về [cách chọn loại xe](/xe-may/chon-loai-xe/) cũng rất đáng tham khảo.
 
 ## Thuê xe máy hai người giá thường được tính theo chiếc hay theo người
 
@@ -44,6 +44,6 @@ Chở hai người cũng khiến xe khó đổ hơn khi dừng đèn đỏ, nên
 
 ## Những câu hỏi nên hỏi tiệm trước khi nhận xe
 
-Bạn nên gom các câu hỏi trong một lần gọi để tiết kiệm thời gian: giá tính theo chiếc hay theo người, mũ bảo hiểm thứ hai có tính thêm không, người đi cùng có được lái không, và cách [đặt cọc](/blog/thue-xe/dat-coc/) được quy định ra sao. Hỏi rõ từng mục giúp bạn nhận được câu trả lời rạch ròi, dễ so sánh giữa các tiệm và tránh mọi tranh luận lúc nhận xe khi đang vội.
+Bạn nên gom các câu hỏi trong một lần gọi để tiết kiệm thời gian: giá tính theo chiếc hay theo người, mũ bảo hiểm thứ hai có tính thêm không, người đi cùng có được lái không, và cách [đặt cọc](/thue-xe/dat-coc/) được quy định ra sao. Hỏi rõ từng mục giúp bạn nhận được câu trả lời rạch ròi, dễ so sánh giữa các tiệm và tránh mọi tranh luận lúc nhận xe khi đang vội.
 
 Cuối cùng, hãy nhớ mang đầy đủ giấy tờ và đến sớm hơn giờ hẹn một chút. Nếu hai người cùng đi, có mặt đủ lúc nhận xe sẽ giúp việc kiểm xe nhanh hơn và công bằng hơn. Chỉ cần chuẩn bị kỹ vài chi tiết nhỏ như vậy, việc thuê một chiếc xe cho hai người chở nhau sẽ suôn sẻ, và khoản tiền bạn trả cũng đúng như những gì đã trao đổi từ trước.

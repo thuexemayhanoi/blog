@@ -24,19 +24,19 @@ Khách tham quan nên mặc trang phục kín đáo, giữ trật tự trong khu
 
 Từ khu trung tâm Hoàn Kiếm, cung ngắn nhất đi hướng tây bắc qua các phố quanh Hồ Tây rồi rẽ vào trục Quán Thánh tới đầu đường Thanh Niên: tổng thời gian chừng mười lăm phút tùy dòng xe. Tuyến khác từ hướng cầu Giấy theo Âu Cơ lên phía bắc, rẽ vào các đường nhánh xuống bờ đông hồ: Âu Cơ là trục dài, hai bên có đoạn hàng quán dày, nên giữ tốc độ đều và quan sát dòng xe rẽ từ các ngõ. Từ hướng Tây Hồ, khách theo đường ven bờ hồ xuống phía nam, gặp đoạn dải đường cây phong lan can nhìn hồ là đã gần khu chùa.
 
-Đường Thanh Niên bản thân là đoạn đẹp nhất của cung: một bên Hồ Tây, một bên Hồ Trúc Bạch, lòng đường không quá rộng nên hai chiều chạy chậm. Cuối tuần, dải ven đường có dòng xe máy dừng chụp ảnh: đây là nguyên nhân ách tắc ngắn thường thấy, khách đi ngang nên giảm sẵn tốc độ và không bám sát xe trước vì người ta có thể phanh gấp bất kỳ góc đẹp nào. Các cách xử lý tình huống phố đông được phân tích tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Đường Thanh Niên bản thân là đoạn đẹp nhất của cung: một bên Hồ Tây, một bên Hồ Trúc Bạch, lòng đường không quá rộng nên hai chiều chạy chậm. Cuối tuần, dải ven đường có dòng xe máy dừng chụp ảnh: đây là nguyên nhân ách tắc ngắn thường thấy, khách đi ngang nên giảm sẵn tốc độ và không bám sát xe trước vì người ta có thể phanh gấp bất kỳ góc đẹp nào. Các cách xử lý tình huống phố đông được phân tích tại trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Gửi xe khi tới chùa
 
 Chỗ gửi xe thuận tiện nhất là bãi cạnh khu chùa: ngày thường bãi thường xuyên có chỗ, ngày rằm và cuối tuần bãi kín nhanh theo khung sáng, khách tới khung đó nên đi sớm hơn dự kiến một chút. Mức phí giữ xe máy ở đây dạng nhỏ lẻ; thói quen hỏi giá trước khi đưa xe vẫn nên giữ, nhất là khi để cả buổi ghép thêm dạo bờ hồ. Xe vào bãi để theo hướng người trông chỉ dẫn, chốt cổ, khóa từ và chụp lại vị trí kèm biển số trước khi đi vào khu tham quan. Trước khi rời bãi, khách nên chụp lại biển ghi giá hoặc ghi nhớ khung giá đã hỏi để khỏi tranh luận lúc lấy xe giờ đông.
 
-Xe máy thuê cần một vòng kiểm tra nhanh trước khi rời điểm xuất phát: đèn, còi, phanh, áp suất lốp, vì các trục quanh hồ có đoạn dòng nhanh và khách hay chạy liên tục giữa nhiều điểm trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội mỗi khi lăn bánh kể cả đoạn nối giữa bãi và cổng chùa. Kinh nghiệm giữ xe tại các điểm tham quan ven hồ được kể trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), nơi có thêm các điểm cùng khu để ghép chuỗi.
+Xe máy thuê cần một vòng kiểm tra nhanh trước khi rời điểm xuất phát: đèn, còi, phanh, áp suất lốp, vì các trục quanh hồ có đoạn dòng nhanh và khách hay chạy liên tục giữa nhiều điểm trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội mỗi khi lăn bánh kể cả đoạn nối giữa bãi và cổng chùa. Kinh nghiệm giữ xe tại các điểm tham quan ven hồ được kể trong trang [khu Tây Hồ](/du-lich/ho-tay/), nơi có thêm các điểm cùng khu để ghép chuỗi.
 
 ## Khung giờ đẹp quanh hồ
 
 Sáng sớm là khung đẹp nhất trong ngày: mặt hồ lặng, sen khép hờ theo sương, vườn chùa vắng, và ánh nắng đầu ngày qua tán cây rất hợp cho ảnh. Khung chiều muộn ngược sáng nhưng mát, hợp khách đi dạo quanh bờ hồ sau tham quan. Giữa trưa, khu vẫn mở đón khách nhưng nắng lên cao làm ảnh phẳng và đi lại trong sân nóng nhanh, nên nếu lịch trình cho phép, tránh khung này hoặc rút ngắn phần đi bộ ngoài trời.
 
-Ngày rằm và mùng một đầu tháng, khu đông dòng khách lễ từ rất sớm: khách đi tham quan chụp ảnh nên tránh các khung đó hoặc chủ động đi theo lối vòng tránh dòng lễ trong khu. Mùa sen Hồ Tây nở quanh giữa hè là lúc đẹp nhất trong năm để ghép ảnh chùa cùng sen mép nước; tin về thời điểm sen nở từng năm nên tra trước khi chọn ngày. Danh mục các điểm đến quanh Hà Nội xếp theo khu vực nằm trong trang [điểm đến](/blog/du-lich/diem-den/), còn các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Ngày rằm và mùng một đầu tháng, khu đông dòng khách lễ từ rất sớm: khách đi tham quan chụp ảnh nên tránh các khung đó hoặc chủ động đi theo lối vòng tránh dòng lễ trong khu. Mùa sen Hồ Tây nở quanh giữa hè là lúc đẹp nhất trong năm để ghép ảnh chùa cùng sen mép nước; tin về thời điểm sen nở từng năm nên tra trước khi chọn ngày. Danh mục các điểm đến quanh Hà Nội xếp theo khu vực nằm trong trang [điểm đến](/du-lich/diem-den/), còn các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Kết luận về đường đi và gửi xe ở Trấn Quốc
 

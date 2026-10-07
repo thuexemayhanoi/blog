@@ -32,7 +32,7 @@ Trường hợp bạn đang ở trong khu trước khi đường chuyển sang c
 
 Hà Nội có các khu phố đi bộ quen thuộc quanh Hồ Gươm mở vào cuối tuần, cùng các không gian đi bộ ở khu vực phố cổ và một số tuyến đường ven sông. Vào khung giờ cao điểm, khu vực quanh hồ chật kín người và các đường dẫn vào khu đều có rào chắn cùng lực lượng hướng dẫn. Người đi xe máy tới tham quan nên chuẩn bị trước vị trí bãi gửi xe ở vành đai ngoài khu, vì bãi gần nhất thường rất đông và dễ hết chỗ.
 
-Trải nghiệm hợp lý cho người thuê xe: chạy xe đến điểm giữ xe ven khu, thong thả dạo bộ quanh hồ và các con phố cổ, rồi quay lại lấy xe theo lộ trình đã định trước. Tổng hợp thông tin về khu phố cổ nằm trong nhóm bài [phố cổ Hà Nội](/blog/du-lich/pho-co/), còn ý nghĩa các loại biển báo khác được giải thích trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp kiến thức luật giao thông cho người đi xe, còn kinh nghiệm đi phố của người thuê xe được tổng hợp trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Trải nghiệm hợp lý cho người thuê xe: chạy xe đến điểm giữ xe ven khu, thong thả dạo bộ quanh hồ và các con phố cổ, rồi quay lại lấy xe theo lộ trình đã định trước. Tổng hợp thông tin về khu phố cổ nằm trong nhóm bài [phố cổ Hà Nội](/du-lich/pho-co/), còn ý nghĩa các loại biển báo khác được giải thích trong trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/). Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp kiến thức luật giao thông cho người đi xe, còn kinh nghiệm đi phố của người thuê xe được tổng hợp trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Người thuê xe cần lưu ý gì
 

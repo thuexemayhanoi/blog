@@ -30,7 +30,7 @@ Ngược lại, nếu tiệm trả lời lấp lửng, còn xe, chắc có, đ�
 
 Giá phải hiện diện bằng con số trong tin nhắn, kèm đơn vị tính: giá mỗi ngày hay mỗi lần thuê, đã gồm xăng hay chưa, và tính ngày như thế nào nếu bạn giữ xe qua đêm. Đối với người thăm dò giá ban đầu, việc so sánh với mức giá công khai của tiệm là cách nhanh nhất để biết báo giá qua tin nhắn có ngay hàng thật giá thật hay không. Tiếp đó là tiền cọc: bạn nên hỏi rõ mức cọc, hình thức giữ cọc, và điều kiện hoàn lại khi trả xe. Tránh các cụm mơ hồ như cọc tùy hoặc để tính sau, vì mỗi từ như vậy là một cửa có thể mở ra tranh cãi.
 
-Cuối cùng là phần phát sinh: nếu trả trễ hơn giờ hẹn thì tính ra sao, nếu xe bị hỏng nhỏ giữa đường thì liên hệ ai, và nếu bạn muốn đổi giờ trả thì báo trước bao lâu. Ba câu hỏi này hiếm khi cần dùng tới, nhưng khi cần thì chúng là thứ phân biệt một trải nghiệm thuê xe dễ chịu với một buổi chiều kì kẹt. Người cần xem trước các mức giá theo ngày có thể tham khảo [bảng giá cho thuê](/blog/bang-gia/) trước khi nhắn tin, còn ai muốn nắm rõ quy trình giấy tờ khi nhận xe thì đọc trước [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Cuối cùng là phần phát sinh: nếu trả trễ hơn giờ hẹn thì tính ra sao, nếu xe bị hỏng nhỏ giữa đường thì liên hệ ai, và nếu bạn muốn đổi giờ trả thì báo trước bao lâu. Ba câu hỏi này hiếm khi cần dùng tới, nhưng khi cần thì chúng là thứ phân biệt một trải nghiệm thuê xe dễ chịu với một buổi chiều kì kẹt. Người cần xem trước các mức giá theo ngày có thể tham khảo [bảng giá cho thuê](/bang-gia/) trước khi nhắn tin, còn ai muốn nắm rõ quy trình giấy tờ khi nhận xe thì đọc trước [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Mẫu tin nhắn để chốt xe gọn gàng
 
@@ -42,4 +42,4 @@ Một mẫu bạn có thể điền nhanh: xin chào, tôi muốn thuê xe từ 
 
 Đọc lại toàn bộ đoạn chat trước khi kết thúc, và tự hỏi: nếu mai có bất đồng, tấm ảnh chụp màn hình này có đứng vững không. Nếu một điều quan trọng mới xuất hiện ở lời thoại, ví dụ tiệm nhắc thêm khi trả phải đổ xăng đầy như lúc nhận, hãy trả lời bằng một tin xác nhận ngắn: vâng, tôi hiểu trả xe cùng mức xăng như lúc nhận. Đừng để điều đó chỉ nằm trong đầu bạn.
 
-Trường hợp nhắn qua nền tảng chung của khu trọ hoặc cộng đồng, hãy chủ động chuyển phần chốt quan trọng sang tin nhắn trực tiếp với người cho thuê, nơi cả hai bên đều có lịch sử trò chuyện rõ ràng. Với người thuê lần đầu ở Hà Nội, đọc thêm [mục thuê xe máy](/blog/thue-xe/) sẽ giúp hình dung tổng thể các bước, từ đặt xe tới khi trả xe và nhận lại cọc, để mỗi tin nhắn bạn gửi đều chắc chắn đúng nội dung cần chốt nhất.
+Trường hợp nhắn qua nền tảng chung của khu trọ hoặc cộng đồng, hãy chủ động chuyển phần chốt quan trọng sang tin nhắn trực tiếp với người cho thuê, nơi cả hai bên đều có lịch sử trò chuyện rõ ràng. Với người thuê lần đầu ở Hà Nội, đọc thêm [mục thuê xe máy](/thue-xe/) sẽ giúp hình dung tổng thể các bước, từ đặt xe tới khi trả xe và nhận lại cọc, để mỗi tin nhắn bạn gửi đều chắc chắn đúng nội dung cần chốt nhất.

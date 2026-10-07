@@ -23,13 +23,13 @@ Xe ga hợp với khách đã nhiều năm chỉ đi xe ga, tay ga quen và tự
 
 Một, bộ truyền động: dây curoa và puli là phần làm việc nặng nhất trên dốc, khách nhờ tiệm soi dây curoa, xem nứt hoặc mòn, và hỏi lần thay gần nhất. Dốc dài liên tục làm dây curoa nóng lên, một dây cũ có thể trượt hoặc đứt giữa đèo, và đó là loại hỏng khó sửa giữa chặng. Hai, phanh: xe ga xuống dốc dài phụ thuộc phanh nhiều hơn xe số, nên má phanh hoặc bố phanh đĩa phải còn dày; khách thử phanh ở đoạn vắng, cả trước lẫn sau, và nghe xem có tiếng sắt không. Ba, lốp và nhớa: lốp sâu hoa cho đường ẩm, và nhớa đủ vì máy làm việc nặng trên dốc. Khách mang theo số điện thoại tiệm sửa ở các thị trấn lớn dọc đường, và không để hôm trục trặc mới bắt đầu tìm.
 
-Nói thêm về khác biệt vận hành giữa hai loại xe được tóm ở trang [xe ga](/blog/xe-may/xe-ga/), phần dưới nói tiếp khúc quan trọng nhất: dốc.
+Nói thêm về khác biệt vận hành giữa hai loại xe được tóm ở trang [xe ga](/xe-may/xe-ga/), phần dưới nói tiếp khúc quan trọng nhất: dốc.
 
 ## Cách xuống dốc dài an toàn cho xe ga
 
 Xe ga không có số bậc để về như xe số nên lực hãm của máy hạn chế; với các xe ga có tùy chọn, khách bật chế độ hạn chế tốc độ hoặc về số thấp giả lập nếu xe có, còn lại dựa vào ba thói quen. Một, phanh sớm và phanh nhát ngắn: giảm tốc trước khi dốc tăng, rồi nhịp bóp nhả phanh liên tục thay vì bóp giữ; phanh giữ liên tục làm bố nóng và ăn kém giữa dốc. Hai, buông ga hoàn toàn khi xuống, để máy không tiếp tay đẩy xe; một số xe ga cho cảm giác êm khi giữ ga nhẹ khi xuống, nhưng đó chính là cái làm xe trôi nhanh hơn. Ba, dùng cả phanh trước và phanh sau theo tỉ lệ nghiêng về phanh sau trên dốc xiên, tránh khóa bánh trước trên mặt đường ẩm.
 
-Với đèo Mã Pí Lèng và các dốc quanh Yên Minh, khách đi xe ga nên nghỉ chặng: sau mỗi phần dốc dài, dừng ở đoạn bằng cho phanh và dây curoa nguội vài phút, uống nước rồi đi tiếp. Chặng nghỉ này không làm chậm chuyến bao nhiêu, nhưng giúp bộ phanh giữ độ ăn tới cuối ngày. Khách muốn hiểu sâu cách xe số xử lý dốc dài đọc bài [đèo dốc trên đường Mộc Châu và cách vào số](/blog/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/) để so sánh hai cách làm.
+Với đèo Mã Pí Lèng và các dốc quanh Yên Minh, khách đi xe ga nên nghỉ chặng: sau mỗi phần dốc dài, dừng ở đoạn bằng cho phanh và dây curoa nguội vài phút, uống nước rồi đi tiếp. Chặng nghỉ này không làm chậm chuyến bao nhiêu, nhưng giúp bộ phanh giữ độ ăn tới cuối ngày. Khách muốn hiểu sâu cách xe số xử lý dốc dài đọc bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/) để so sánh hai cách làm.
 
 ## Thói quen mỗi ngày cho xe ga đường núi
 
@@ -39,4 +39,4 @@ Về mùa đi, khách dùng xe ga nên ưu tiên các khung trời khô ráo: đ
 
 Ghi lại hôm nay xe có tiếng lạ ở khúc dốc nào cũng là thói quen tốt, vì các ghi chép đó giúp tiệm sửa đúng bệnh ngay khi khách về tới Hà Nội.
 
-Cuối cùng, một lời thật thà: xe ga đi được Hà Giang, nhưng đi được không nghĩa là tiện bằng. Khách nào phân vân nên hỏi trực tiếp nơi cho thuê xe để chọn loại xe theo đúng lịch trình của mình. Khách cần thuê xe ga hoặc xe số cho chuyến Hà Giang liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các bài về vùng gom ở trang [Hà Giang](/blog/cung-duong/ha-giang/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Cuối cùng, một lời thật thà: xe ga đi được Hà Giang, nhưng đi được không nghĩa là tiện bằng. Khách nào phân vân nên hỏi trực tiếp nơi cho thuê xe để chọn loại xe theo đúng lịch trình của mình. Khách cần thuê xe ga hoặc xe số cho chuyến Hà Giang liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các bài về vùng gom ở trang [Hà Giang](/cung-duong/ha-giang/) và trang chủ đề [cung đường & hành trình](/cung-duong/).

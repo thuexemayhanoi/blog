@@ -32,13 +32,13 @@ Một mẹo nhỏ khi xếp chai nước: quay miệng chai về phía trong cù
 
 Không phải chuyến nào đồ cũng vừa trong cốp. Lượng dư nên chia nhỏ thành hai túi cân bằng nhau rồi treo vào hai bên hông bằng móc treo, hoặc móc chữ S gắn vào chân gác. Hai túi cân bằng tạo mô men đối xứng giúp xe ổn định khi vào cua, thay vì một túi nặng bên này kéo lệch xe. Tuyệt đối không treo túi vào tay lái hoặc gương: khối lượng đung đưa theo tay lái làm xe khó xoay trở, và túi va vào gương sẽ che khuất tầm nhìn phía sau.
 
-Nếu bạn mua nhiều hơn dự định, giải pháp gọn nhất là mang theo một chiếc túi vải lớn và buộc chặt vào phía sau yên xe, hoặc nhờ siêu thị xếp đồ vào thùng giấy để kẹp giữa hai chân. Túi ni-lông lớn để giữa hai chân trên sàn xe ga là vị trí hợp lý: trọng tâm thấp, đồ nằm gọn trong tầm mắt, và bạn luôn kịp phản ứng nếu sàn trơn vì chai nước rỉ. Người thuê xe đi siêu thị thường xuyên nên đọc thêm bài về dòng xe này tại trang giới thiệu [Honda Click](/blog/xe-may/honda-click/) để so sánh cốp giữa các đời xe.
+Nếu bạn mua nhiều hơn dự định, giải pháp gọn nhất là mang theo một chiếc túi vải lớn và buộc chặt vào phía sau yên xe, hoặc nhờ siêu thị xếp đồ vào thùng giấy để kẹp giữa hai chân. Túi ni-lông lớn để giữa hai chân trên sàn xe ga là vị trí hợp lý: trọng tâm thấp, đồ nằm gọn trong tầm mắt, và bạn luôn kịp phản ứng nếu sàn trơn vì chai nước rỉ. Người thuê xe đi siêu thị thường xuyên nên đọc thêm bài về dòng xe này tại trang giới thiệu [Honda Click](/xe-may/honda-click/) để so sánh cốp giữa các đời xe.
 
 ## Chuyến siêu thị trên xe ga nhỏ: ba điều nên nhớ
 
 Thứ nhất, cân nặng tổng: xe ga nhỏ chịu tải tốt nhưng khả năng phanh và độ nảy của giảm xóc thay đổi rõ khi chở nặng, nên giữ khoảng cách xa hơn với xe phía trước. Thứ hai, đường về thường có đoạn ngập hoặc gờ giảm tốc, khi chở chai nước hãy đi chậm qua gờ, thả lỏng người để xe nhún tự nhiên, tránh để nắp cốp bật hở vì va chạm mạnh. Thứ ba, khi đỗ ở bãi siêu thị, nên đỗ gần trụ biển hướng dẫn, nơi có người trông xe hoặc có camera, vì túi đồ chất trên xe là mục tiêu dễ thấy.
 
-Nếu đây là chuyến đầu bạn dùng xe ga nhỏ đi siêu thị, hãy tập xếp đồ ở nhà trước với một túi hàng giả định, rồi mới áp dụng vào chuyến thật. Kỹ năng sắp xếp [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/) áp dụng không chỉ cho đi siêu thị mà cho mọi chuyến chở nặng bằng [xe máy](/blog/xe-may/): đồ gọn thì người nhẹ nhàng, xe bền, và chuyến về nhà không bị ngắt quãng bởi một túi nước vừa rỉ giữa đường.
+Nếu đây là chuyến đầu bạn dùng xe ga nhỏ đi siêu thị, hãy tập xếp đồ ở nhà trước với một túi hàng giả định, rồi mới áp dụng vào chuyến thật. Kỹ năng sắp xếp [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/) áp dụng không chỉ cho đi siêu thị mà cho mọi chuyến chở nặng bằng [xe máy](/xe-may/): đồ gọn thì người nhẹ nhàng, xe bền, và chuyến về nhà không bị ngắt quãng bởi một túi nước vừa rỉ giữa đường.
 
 ## Kết lại
 

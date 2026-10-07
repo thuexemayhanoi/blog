@@ -34,7 +34,7 @@ Vào mùng một và rằm âm lịch lại là chuyện khác. Dòng xe đổ v
 
 Vài việc nhỏ làm buổi gửi xe đông đỡ vất vả. Ghi nhớ biển số xe và vị trí hàng, vì bãi mùa lễ có nhiều hàng na ná nhau; người đi theo nhóm nên gửi một chỗ và ra về cùng lúc. Nếu bãi chính quá đông, các ngõ nhỏ quanh khu Quảng Bá có nhà dân trông xe, cách đền vài phút đi bộ: yên hơn, nhưng nên hỏi giá trước và nhớ kỹ nhà số. Cuối cùng, mang ít đồ đạc: lễ vật mua quanh cổng đền có người bán gói sẵn, không cần chở theo từ nhà.
 
-Ai muốn đọc thêm các lưu ý chung khi để xe hai bánh ở nơi đông người, xem chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); các điểm đến quanh khu đền được gom trong chuyên mục [Hồ Tây](/blog/du-lich/ho-tay/).
+Ai muốn đọc thêm các lưu ý chung khi để xe hai bánh ở nơi đông người, xem chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); các điểm đến quanh khu đền được gom trong chuyên mục [Hồ Tây](/du-lich/ho-tay/).
 
 ## Lễ ở Phủ Tây Hồ: điều nên biết trước khi vào
 
@@ -50,6 +50,6 @@ Phủ Tây Hồ hợp để ghép trong nửa ngày. Lịch trình hay gặp là
 
 Chạy xe quanh khu Tây Hồ buổi chiều dễ chịu nhờ đường ven hồ rợp cây, nhưng đoạn Âu Cơ giờ tan tầm nhiều xe tải và xe khách. Nếu chỉ vừa lễ vừa ngắm hồ, cách tốt là giữ xe ở bãi đền cho đến lúc ra về, thay vì di chuyển từng đoạn ngắn — mỗi lần vào ra bãi mùa đông khách cũng mất vài phút.
 
-Người mới thuê xe máy chạy nội đô lần đầu nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi đi, và xem thêm các lựa chọn điểm đến quanh thành phố trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/). Ai cần xe máy gần tuyến này có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, đầu cầu Long Biên, lấy xe vài phút sau là chạy thẳng lên khu Tây Hồ.
+Người mới thuê xe máy chạy nội đô lần đầu nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước buổi đi, và xem thêm các lựa chọn điểm đến quanh thành phố trong mục [điểm đến Hà Nội](/du-lich/diem-den/). Ai cần xe máy gần tuyến này có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, đầu cầu Long Biên, lấy xe vài phút sau là chạy thẳng lên khu Tây Hồ.
 
-Cập nhật chung về các lộ trình du lịch bằng xe máy được gom tại trang [du lịch](/blog/du-lich/), trong đó khu vực ven hồ Tây luôn có nhiều buổi đi đáng thử quanh năm.
+Cập nhật chung về các lộ trình du lịch bằng xe máy được gom tại trang [du lịch](/du-lich/), trong đó khu vực ven hồ Tây luôn có nhiều buổi đi đáng thử quanh năm.

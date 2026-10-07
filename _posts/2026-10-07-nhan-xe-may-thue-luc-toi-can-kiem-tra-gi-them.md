@@ -16,7 +16,7 @@ writer: W1
 
 Nhiều người thắc mắc nhận xe máy thuê lúc tối kiểm tra gì cho kỹ, vì ánh sáng yếu khiến những chi tiết nhỏ dễ bị bỏ qua, từ vết trầy trên tôn cho tới bóng đèn hậu đã cháy. Nếu ban ngày bạn có thể soi rõ từng góc xe thì ban đêm, việc kiểm tra đòi hỏi trình tự rõ ràng hơn để không bỏ sót lỗi tiềm ẩn. Bài viết tổng hợp những điểm nên soát lại khi nhận xe thuê vào buổi tối, giúp bạn giao dịch minh bạch và an tâm trên mọi chặng đường về đêm.
 
-Một sai lầm phổ biến là nhận xe vội vì đang mệt hoặc sợ làm phiền chủ xe. Thực tế, chủ xe chuyên nghiệp luôn sẵn lòng để bạn kiểm tra kỹ, thậm chí gợi ý những chỗ cần soi thêm khi thiếu ánh sáng. Nếu bạn chưa quen thuê xe, hãy xem tổng quan dòng xe tại [trang cho thuê xe máy](/blog/thue-xe/) và chuẩn bị sẵn trình tự nhận xe trước khi áp dụng cho buổi tối.
+Một sai lầm phổ biến là nhận xe vội vì đang mệt hoặc sợ làm phiền chủ xe. Thực tế, chủ xe chuyên nghiệp luôn sẵn lòng để bạn kiểm tra kỹ, thậm chí gợi ý những chỗ cần soi thêm khi thiếu ánh sáng. Nếu bạn chưa quen thuê xe, hãy xem tổng quan dòng xe tại [trang cho thuê xe máy](/thue-xe/) và chuẩn bị sẵn trình tự nhận xe trước khi áp dụng cho buổi tối.
 
 ## Vì sao nhận xe thuê ban đêm dễ bỏ sót lỗi
 
@@ -40,11 +40,11 @@ Khi thấy bất kỳ vết trầy, móp hay nứt nào, chụp ảnh ngay và �
 
 Nổ máy và để động cơ chạy không tải khoảng ba mươi giây, lắng nghe tiếng máy có đều hay có tiếng kêu bất thường. Vặn ga nhẹ để cảm nhận độ phản hồi, rồi bóp phanh trước và phanh sau khi xe đang đứng yên. Phanh kêu, ăn không đều hay tay phanh quá chùng là những điểm cần ghi rõ vào biên bản. Nếu xe dùng đề điện, bấm thử vài lần để chắc chắn bộ đề hoạt động ổn.
 
-Chú ý thêm mặt đồng hồ nhiên liệu, vì đây thường là căn cứ khi trả xe. Chụp một tấm ảnh rõ nét mặt đồng hồ, kèm số kilomet hiện tại nếu xe có hiển thị. Nếu bạn định chở nhiều đồ, kiểm tra chắc chắn độ rộng cốp, hoặc tham khảo [gợi ý chọn xe chở hành lý](/blog/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng có cốp đủ rộng ngay từ đầu thay vì nhận rồi mới thấy chật.
+Chú ý thêm mặt đồng hồ nhiên liệu, vì đây thường là căn cứ khi trả xe. Chụp một tấm ảnh rõ nét mặt đồng hồ, kèm số kilomet hiện tại nếu xe có hiển thị. Nếu bạn định chở nhiều đồ, kiểm tra chắc chắn độ rộng cốp, hoặc tham khảo [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng có cốp đủ rộng ngay từ đầu thay vì nhận rồi mới thấy chật.
 
 ## Đối chiếu giấy tờ và thông tin hợp đồng
 
-Giấy tờ lúc tối dễ bị xem vội vì muốn về sớm, nhưng đây lại là lúc cần đọc kỹ nhất. Xác nhận biển số xe trùng với số ghi trong hợp đồng, kiểm tra các mục mô tả hiện trạng, mức nhiên liệu lúc giao, số điện thoại liên hệ và giờ trả xe. Nếu bất kỳ mục nào để trống, đề nghị điền ngay trước khi ký. [Danh sách giấy tờ nên mang theo khi lái xe](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) cũng giúp bạn chắc chắn đủ hồ sơ trên đường.
+Giấy tờ lúc tối dễ bị xem vội vì muốn về sớm, nhưng đây lại là lúc cần đọc kỹ nhất. Xác nhận biển số xe trùng với số ghi trong hợp đồng, kiểm tra các mục mô tả hiện trạng, mức nhiên liệu lúc giao, số điện thoại liên hệ và giờ trả xe. Nếu bất kỳ mục nào để trống, đề nghị điền ngay trước khi ký. [Danh sách giấy tờ nên mang theo khi lái xe](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) cũng giúp bạn chắc chắn đủ hồ sơ trên đường.
 
 ## Câu hỏi nên đặt khi nhận xe buổi tối
 
@@ -58,4 +58,4 @@ Nếu phát hiện hư hỏng sau khi đã rời cửa hàng thì xử lý thế
 
 Có nên quay video một vòng quanh xe không? Nên, vì video ghi liên tục mọi góc và khó bị nghi là cắt ghép. Quay chậm, kết hợp đèn pin, rồi lưu vào thư mục riêng trên điện thoại cho dễ tìm khi cần.
 
-Khi cần thuê xe máy tại Hà Nội vào buổi tối, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội làm việc từ 09:00 đến 21:00 hàng ngày. Bạn có thể gọi trước theo số 0942 467 674 để nhân viên chuẩn bị xe sẵn, hỗ trợ soi xe dưới đèn và điền biên bản nhanh chóng. Lịch làm việc có thể thay đổi theo từng thời kỳ nên hãy xác nhận lại trước khi đến. Các dòng xe đang cho thuê được cập nhật tại [trang cho thuê xe máy](/blog/thue-xe/) để bạn chọn trước khi đến.
+Khi cần thuê xe máy tại Hà Nội vào buổi tối, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội làm việc từ 09:00 đến 21:00 hàng ngày. Bạn có thể gọi trước theo số 0942 467 674 để nhân viên chuẩn bị xe sẵn, hỗ trợ soi xe dưới đèn và điền biên bản nhanh chóng. Lịch làm việc có thể thay đổi theo từng thời kỳ nên hãy xác nhận lại trước khi đến. Các dòng xe đang cho thuê được cập nhật tại [trang cho thuê xe máy](/thue-xe/) để bạn chọn trước khi đến.

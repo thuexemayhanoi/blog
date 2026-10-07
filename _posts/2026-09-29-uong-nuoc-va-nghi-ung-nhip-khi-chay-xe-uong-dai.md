@@ -18,7 +18,7 @@ Biết nhịp nghỉ đường dài là cách giữ tỉnh táo suốt chuyến 
 
 Chạy xe đường dài đốt năng lượng và sự tập trung nhanh hơn bạn nghĩ, đặc biệt khi trời nắng hoặc gió lùa liên tục. Nhịp nghỉ hợp lý giúp cơ thể lấy lại trạng thái trước khi mệt tích tụ thành buồn ngủ, thứ nguy hiểm nhất trên đường trường. Kết hợp với uống nước từng ngụm nhỏ, bạn gần như giữ được mức tỉnh táo ổn định suốt chuyến đi.
 
-Nhiều người có thói quen chạy liên tục tới khi mệt mới nghỉ, nhưng cơn mệt kéo tới lúc đó thường đã vượt ngưỡng cảnh giác. Nghỉ sớm và nghỉ ngắn hiệu quả hơn nghỉ muộn và nghỉ dài, vì một lần dừng năm mười phút giúp máu lưu thông, mắt bớt căng và tay chân bớt tê. Cách nghỉ như vậy đã được tóm lại trong phần [an toàn khi chạy xe đường trường](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/).
+Nhiều người có thói quen chạy liên tục tới khi mệt mới nghỉ, nhưng cơn mệt kéo tới lúc đó thường đã vượt ngưỡng cảnh giác. Nghỉ sớm và nghỉ ngắn hiệu quả hơn nghỉ muộn và nghỉ dài, vì một lần dừng năm mười phút giúp máu lưu thông, mắt bớt căng và tay chân bớt tê. Cách nghỉ như vậy đã được tóm lại trong phần [an toàn khi chạy xe đường trường](/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/).
 
 ## Biết nhịp nghỉ đường dài: dừng mỗi một đến hai tiếng
 
@@ -44,10 +44,10 @@ Buồn ngủ trên đường trường là trạng thái nguy hiểm nhất vì 
 
 Điểm nghỉ lý tưởng là cây xăng, quán ven đường hoặc điểm dừng chân có bóng mát, chỗ để xe rộng và xe cộ lưu thông chậm. Tránh dừng ở khúc khuất ngay sau khúc cua, đầu dốc hoặc lề hẹp không đủ bề rộng. Nếu trời sắp tối, ưu tiên điểm nghỉ có đèn để tiện lên đường tiếp khi đã hồi sức.
 
-Một chi tiết nhỏ nữa là nên ghi nhớ hoặc đánh dấu vị trí điểm nghỉ trên điện thoại, vì chạy tiếp một quãng rồi quay lại tìm đồ để quên sẽ tốn thời gian hơn bạn nghĩ. Trước khi rời điểm nghỉ, rà lại một vòng ghế và mái che để không bỏ quên mũ, áo mưa hay chai nước. Nếu bạn còn đang cân nhắc mẫu xe cho các chuyến xa sau này, xem trước phần [chọn loại xe](/blog/xe-may/chon-loai-xe/) cũng đỡ mất công.
+Một chi tiết nhỏ nữa là nên ghi nhớ hoặc đánh dấu vị trí điểm nghỉ trên điện thoại, vì chạy tiếp một quãng rồi quay lại tìm đồ để quên sẽ tốn thời gian hơn bạn nghĩ. Trước khi rời điểm nghỉ, rà lại một vòng ghế và mái che để không bỏ quên mũ, áo mưa hay chai nước. Nếu bạn còn đang cân nhắc mẫu xe cho các chuyến xa sau này, xem trước phần [chọn loại xe](/xe-may/chon-loai-xe/) cũng đỡ mất công.
 
-Tóm lại, nhịp nghỉ và nước là hai thứ rẻ nhất giúp bạn chạy xa an toàn: dừng mỗi một đến hai tiếng, đi bộ nhẹ vài phút, uống nước từng ngụm trước khi khát, và nghỉ thật lâu khi thấy buồn ngủ. Các vấn đề sức khỏe khác khi cầm lái đã được gom trong nhóm [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/), bạn có thể đọc trước chuyến đi dài.
+Tóm lại, nhịp nghỉ và nước là hai thứ rẻ nhất giúp bạn chạy xa an toàn: dừng mỗi một đến hai tiếng, đi bộ nhẹ vài phút, uống nước từng ngụm trước khi khát, và nghỉ thật lâu khi thấy buồn ngủ. Các vấn đề sức khỏe khác khi cầm lái đã được gom trong nhóm [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/), bạn có thể đọc trước chuyến đi dài.
 
 Thông tin sức khỏe trong bài chỉ mang tính tham khảo, không thay thế ý kiến của nhân viên y tế. Khuyến cáo về nghỉ ngơi và dinh dưỡng cho từng người có thể thay đổi theo thể trạng, bạn nên đối chiếu hướng dẫn chính thức tại cổng thông tin của Bộ Y tế ([moh.gov.vn](https://moh.gov.vn/)) trước các chuyến đi đặc biệt.
 
- Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/).
+ Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/).

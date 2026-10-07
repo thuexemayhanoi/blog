@@ -50,7 +50,7 @@ Một sai lầm hay gặp ở người chạy chuyến xa đầu tiên là mang 
 
 Chặng xa không phải nhịn hoàn toàn. Mỗi hai tiếng dừng một lần, ăn nhẹ vài miếng bánh mì, trái cây nên trái cây như chuối hoặc táo, uống nước từng ngụm nhỏ thay vì ừng một cú hết chai. Tránh dừng ăn buffet no quá ngay giữa chặng vì cơ thể cần máu tiêu hóa, người sẽ lịm buồn ngủ trong tiếng tiếp theo.
 
-Cẩm nang về sức khỏe khi lái xe đường dài nằm tại chuyên mục [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/), và các kỹ năng lái tổng quát tại mục [kỹ năng lái xe máy](/blog/ky-nang/). Với thắc mắc dinh dưỡng cụ thể theo thể trạng, có thể tham khảo thêm ở [hỏi đáp](/blog/hoi-dap/).
+Cẩm nang về sức khỏe khi lái xe đường dài nằm tại chuyên mục [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/), và các kỹ năng lái tổng quát tại mục [kỹ năng lái xe máy](/ky-nang/). Với thắc mắc dinh dưỡng cụ thể theo thể trạng, có thể tham khảo thêm ở [hỏi đáp](/hoi-dap/).
 
 ## Câu hỏi thường gặp
 

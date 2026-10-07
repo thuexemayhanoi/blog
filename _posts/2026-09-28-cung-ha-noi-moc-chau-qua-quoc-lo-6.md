@@ -35,7 +35,7 @@ Cung này có ba nhóm điểm dừng đáng giá. Trước đèo Thung Khe, kh�
 
 Qua Vân Hồ, khách ghé các điểm ven cao nguyên ngắm đồi chè từ đường lớn, và dành chiều hôm sau cho các điểm sâu trong thị trấn.
 
-Kỹ thuật chạy qua đèo và cảnh nhìn từ đỉnh được mô tả trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/blog/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/).
+Kỹ thuật chạy qua đèo và cảnh nhìn từ đỉnh được mô tả trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/).
 
 ## Xếp lịch hai ngày cho cung Hà Nội Mộc Châu
 
@@ -45,5 +45,5 @@ Nhóm đi gấp trong một ngày được nghe nhiều nhưng nên cân nhắc:
 
 ## Chuẩn bị xe cho cung gần hai trăm ki-lô-mét
 
-Cung Hà Nội Mộc Châu đòi hỏi xe chắc hơn cung ngắn: lốp sâu hoa và căng đúng mức, xích có dầu, má phanh dày vì nhiều đoạn dốc dài, đèn sáng cho sương sớm chiều, và đổ xăng hai lần: đầy ở Hà Nội và đổ lại ở thành phố Hòa Bình hoặc Tân Lạc. Đồ mang theo gồm mũ bảo hiểm cài quai chuẩn, găng tay, áo gió, áo mưa, áo ấm cho buổi tối trên cao nguyên vì đêm Mộc Châu lạnh hơn Hà Nội rõ, chai nước lớn, bộ dụng cụ vá và bơm tay, cùng cục sạc dự phòng. Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các bài về vùng Mộc Châu gom ở trang [Mộc Châu](/blog/cung-duong/moc-chau/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Cung Hà Nội Mộc Châu đòi hỏi xe chắc hơn cung ngắn: lốp sâu hoa và căng đúng mức, xích có dầu, má phanh dày vì nhiều đoạn dốc dài, đèn sáng cho sương sớm chiều, và đổ xăng hai lần: đầy ở Hà Nội và đổ lại ở thành phố Hòa Bình hoặc Tân Lạc. Đồ mang theo gồm mũ bảo hiểm cài quai chuẩn, găng tay, áo gió, áo mưa, áo ấm cho buổi tối trên cao nguyên vì đêm Mộc Châu lạnh hơn Hà Nội rõ, chai nước lớn, bộ dụng cụ vá và bơm tay, cùng cục sạc dự phòng. Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các bài về vùng Mộc Châu gom ở trang [Mộc Châu](/cung-duong/moc-chau/) và trang chủ đề [cung đường & hành trình](/cung-duong/).
 

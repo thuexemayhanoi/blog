@@ -48,6 +48,6 @@ Trời nắng gắt thì chọn nghỉ giữa khung mười một giờ tới m�
 
 Ai leo về muộn, mệt chân, thì mốc hai trên đường về lại thành điểm ăn khuya nhẹ: một bát bún hoặc ly cà phê sữa vùng huyện trước quãng về là cách nhiều nhóm chốt cung, vừa hồi sức vừa ngồi kể nhau chuyện buổi leo.
 
-Muốn tham thêm các tuyến cuối tuần khác với cách chia nghỉ tương tự, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung. Ai mới chạy cung xa lần đầu nên đọc trước mục [kinh nghiệm](/blog/kinh-nghiem/) cho vài quy tắc tổng quát.
+Muốn tham thêm các tuyến cuối tuần khác với cách chia nghỉ tương tự, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung. Ai mới chạy cung xa lần đầu nên đọc trước mục [kinh nghiệm](/kinh-nghiem/) cho vài quy tắc tổng quát.
 
 Cung Hàm Lợn vui ở chỗ: phần chạy chỉ là mở đầu, phần leo mới là chính — và chia nghỉ đúng chỗ chính là cách giữ mở đầu ấy luôn nhẹ nhàng cho tới khi giày chạm đất đỉnh núi.

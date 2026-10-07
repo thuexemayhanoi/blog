@@ -40,7 +40,7 @@ Người đi bộ băng đường ở các đoạn ven hồ cũng nhiều hơn v
 
 Quanh bờ phía nam, vài quán cà phê mặt phố mở chiều tối, ghé xuống nghe nhạc nhẹ chờ hết hoàng hôn cũng là một cách kết thúc buổi đi. Đi cùng trẻ nhỏ thì ưu tiên các đoạn có vỉa hè rộng để dắt bộ an toàn, hạn chế dừng giữa các khúc đường hẹp chỉ rộng đủ một làn xe.
 
-Trải nghiệm chạy quanh khu vực này được mô tả chi tiết trong bài [khám phá khu Tây Hồ bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/); nếu muốn tiếp tục vào trung tâm ăn tối, bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/) và bài [khám phá Phố Cổ Hà Nội bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/) gợi ý tiếp tuyến đi. Lần đầu tự lái trong phố thì đọc trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
+Trải nghiệm chạy quanh khu vực này được mô tả chi tiết trong bài [khám phá khu Tây Hồ bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/); nếu muốn tiếp tục vào trung tâm ăn tối, bài [khám phá khu Hoàn Kiếm bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/) và bài [khám phá Phố Cổ Hà Nội bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/) gợi ý tiếp tuyến đi. Lần đầu tự lái trong phố thì đọc trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
 
 ## Gửi xe, thời tiết và vài lưu ý cuối
 
@@ -48,4 +48,4 @@ Gửi xe ven Hồ Tây chủ yếu theo lượt ở các bãi quanh bờ; chụp
 
 Với người mới, nên thử một vòng quanh hồ ban ngày trước rồi hẵng ghép khung hoàng hôn, vì đã thuộc các khúc rẽ thì lúc tối mới tự tin. Ai ngại đường tối thì đi theo một nhóm bạn quen đường, vừa an toàn vừa có người chụp ảnh giúp.
 
-Các bài viết về khu vực này được gom trong chuyên mục [Hồ Tây & lân cận](/blog/du-lich/ho-tay/), thuộc trang chủ [du lịch Hà Nội](/blog/du-lich/). Nếu chưa có xe sẵn, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Từ Long Biên qua cầu Nhật Tân hoặc cầu Chương Dương đều sang được khu Hồ Tây, nên gọi trước hôm để nhận xe sớm và kịp chạy hồ đúng khung hoàng hôn đẹp nhất trong ngày.
+Các bài viết về khu vực này được gom trong chuyên mục [Hồ Tây & lân cận](/du-lich/ho-tay/), thuộc trang chủ [du lịch Hà Nội](/du-lich/). Nếu chưa có xe sẵn, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Từ Long Biên qua cầu Nhật Tân hoặc cầu Chương Dương đều sang được khu Hồ Tây, nên gọi trước hôm để nhận xe sớm và kịp chạy hồ đúng khung hoàng hôn đẹp nhất trong ngày.

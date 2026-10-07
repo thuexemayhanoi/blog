@@ -47,8 +47,8 @@ Phanh xuống dốc theo nhịp bóp rồi nhả, để bánh xe không khóa c�
 
 ## Tập trên dốc vắng trước khi đi cung núi
 
-Quanh nội đô vẫn có những dốc vắng hợp để tập: dốc cầu vượt, dốc đường vào công viên sớm sáng. Tập đủ ba bài lên, dừng khởi hành lại, và xuống bằng phanh động cơ, thì mới nên tính đến các chuyến cung núi xa. Ai định đi các cung núi phía bắc nên xem trước các bài trong trang [cung đường phố núi phía bắc](/blog/cung-duong/cung-duong-pho-bac/) và luyện thêm các thao tác nền trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Quanh nội đô vẫn có những dốc vắng hợp để tập: dốc cầu vượt, dốc đường vào công viên sớm sáng. Tập đủ ba bài lên, dừng khởi hành lại, và xuống bằng phanh động cơ, thì mới nên tính đến các chuyến cung núi xa. Ai định đi các cung núi phía bắc nên xem trước các bài trong trang [cung đường phố núi phía bắc](/cung-duong/cung-duong-pho-bac/) và luyện thêm các thao tác nền trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
 Chạy dốc dài liên tục khiến máy nóng nhanh, nên nếu thấy nhiệt độ khác thường thì dừng chỗ bằng phẳng vài phút cho máy nghỉ. Đây cũng là lúc uống nước và nhìn lại lốp, vì lốp non hơi khiến lên dốc tốn sức hơn thấy rõ. Uống từng ngụm nhỏ thay vì một hơi cũng giúp người lái giữ tỉnh táo trên quãng dài.
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; trước khi nhận xe nên thử đề, vào số và cảm điểm côn ngay tại cửa hàng, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; trước khi nhận xe nên thử đề, vào số và cảm điểm côn ngay tại cửa hàng, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

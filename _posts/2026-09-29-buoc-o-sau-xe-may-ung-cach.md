@@ -29,7 +29,7 @@ Căng đều quan trọng hơn căng mạnh: một bên dây căng kịch cùng 
 
 ## Chở hành lý xe máy: phân loại theo cân nặng và kích thước
 
-Không phải kiện nào cũng buộc như nhau. Thùng xốp, hộp cứng buộc được bằng dây trực tiếp; túi mềm, balo nên bọc lưới hoặc để trong thùng mỏng để dây không làm xẹp biến dạng kiện. Đồ nặng nhất luôn để dưới, sát thân xe và về phía trước phía sau yên, vì trọng lượng cao phía sau làm đầu xe nhẹ, vào cua bị vít buông. Với các nguyên tắc lựa chọn theo hành trình, bài viết về [chở hành lý an toàn trên xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/) là phần đọc kèm nên xem.
+Không phải kiện nào cũng buộc như nhau. Thùng xốp, hộp cứng buộc được bằng dây trực tiếp; túi mềm, balo nên bọc lưới hoặc để trong thùng mỏng để dây không làm xẹp biến dạng kiện. Đồ nặng nhất luôn để dưới, sát thân xe và về phía trước phía sau yên, vì trọng lượng cao phía sau làm đầu xe nhẹ, vào cua bị vít buông. Với các nguyên tắc lựa chọn theo hành trình, bài viết về [chở hành lý an toàn trên xe máy](/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/) là phần đọc kèm nên xem.
 
 Kiện cân đôi khi có hai kiện: hai kiện bằng nhau thì treo cân đối hai bên, lệch thì kiện nhẹ buộc trên kiện nặng, không bao giờ ngược lại. Trước khi đi, thử ngồi lên yên xem kiện có chạm chân, có che đèn hậu hay biển số không; nếu che, dịch kiện lên cao hơn một chút hoặc gắn thêm phản quang tạm. Đèn hậu bị che là lỗi hay bị nhắc nhất vì xe sau không nhận ra phanh của bạn.
 
@@ -45,4 +45,4 @@ Sau vài cây số đầu, dừng lại siết dây lần nữa: xe rung khiến
 
 Nếu giữa đường nghe tiếng va nhẹ của kiện vào khung, hoặc thấy người phía sau ra hiệu, đừng phanh gấp mà nhả ga về số thấp, tạt vào chỗ rộng rồi kiểm tra. Về đến nơi, tháo dây theo trình tự ngược, cuộn dây ngay kẻo rối, và lau khô nếu dây ướt trước khi cất. Những thói quen nhỏ này giữ bộ dây dùng được nhiều năm và lần buộc sau nhanh hơn hẳn.
 
-Kiện đồ buộc chắc rồi cũng tới nơi, còn nguyên tắc chốt điểm tựa, căng đều, buộc chéo và dừng kiểm tra là hành trang cho mọi chuyến chở đồ sau. Khi cần thuê một chiếc xe máy có cốp và điểm chằng ổn định quanh Hà Nội, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/blog/ky-nang/) và [Chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Kiện đồ buộc chắc rồi cũng tới nơi, còn nguyên tắc chốt điểm tựa, căng đều, buộc chéo và dừng kiểm tra là hành trang cho mọi chuyến chở đồ sau. Khi cần thuê một chiếc xe máy có cốp và điểm chằng ổn định quanh Hà Nội, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/ky-nang/) và [Chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/).

@@ -46,7 +46,7 @@ Cũng nên kiểm tra đồ đạc vào mỗi lần dừng chân cuối của ch
 
 Khi đã lên xe khác hoặc đang chờ xe về, làm một vòng kiểm trong đầu: túi có điện thoại không, ví có còn không, chìa nhà ai cầm. Với người hay để quên, nên chụp nhanh hai tấm: một tấm lòng cốp sau khi đã lấy đồ, một tấm mặt yên trống. Hai tấm đó là bằng chứng để bạn khỏi nửa đêm ngồi dậy nghi ngờ là mình bỏ quên.
 
-Bạn có thể xem lại toàn bộ phần việc lúc trả xe trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem lại toàn bộ phần việc lúc trả xe trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, checklist hai phút trước khi trả xe chỉ đi qua ba khu vực: cốp, yên, và các giá móc quanh tay lái, cộng thêm vòng sờ túi cuối cùng. Việc này không đòi hỏi kỹ năng, chỉ đòi hỏi thói quen, và thói quen đó giữ cho chuyến đi kết thúc bằng lời chào thay vì bằng một cuộc gọi đi tìm đồ.
 

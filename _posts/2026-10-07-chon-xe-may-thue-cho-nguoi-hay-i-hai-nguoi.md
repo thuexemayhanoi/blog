@@ -14,7 +14,7 @@ article_id: BLG-01518
 writer: W1
 ---
 
-Chạy xe đôi là nhu cầu rất phổ biến: đi làm cùng người yêu, đưa đón bạn bè, hay cặp kè nhau đi chơi cuối tuần. Vì vậy câu hỏi chọn xe máy thuê đi hai người ra sao xuất hiện ở cửa hàng gần như mỗi ngày, và chọn đúng dòng xe sẽ khác hẳn so với chọn xe để đi một mình. Xe hợp cho một người nhẹ nhàng chưa chắc đã đủ sức cho hai người, nhất là các chặng xa hoặc đường đông. Bài viết trong [chuỗi bài về xe máy](/blog/xe-may/) điểm qua các tiêu chí: kiểu xe, kích thước yên, khả năng tải, hệ thống phanh và cách ngồi thử, để cặp đôi nào thuê xe cũng nhẹ người hơn khi ra đường.
+Chạy xe đôi là nhu cầu rất phổ biến: đi làm cùng người yêu, đưa đón bạn bè, hay cặp kè nhau đi chơi cuối tuần. Vì vậy câu hỏi chọn xe máy thuê đi hai người ra sao xuất hiện ở cửa hàng gần như mỗi ngày, và chọn đúng dòng xe sẽ khác hẳn so với chọn xe để đi một mình. Xe hợp cho một người nhẹ nhàng chưa chắc đã đủ sức cho hai người, nhất là các chặng xa hoặc đường đông. Bài viết trong [chuỗi bài về xe máy](/xe-may/) điểm qua các tiêu chí: kiểu xe, kích thước yên, khả năng tải, hệ thống phanh và cách ngồi thử, để cặp đôi nào thuê xe cũng nhẹ người hơn khi ra đường.
 
 ## Vì sao không nên lấy xe quá nhỏ khi đi hai người
 
@@ -42,8 +42,8 @@ Còn một điều đáng nói với cặp đôi mới đi chung: trước mỗi
 
 ## Kiểm tra trước khi nhận xe đôi
 
-Khi nhận xe để đi hai người, hãy kiểm tra kỹ hơn thường lệ: bóp phanh trước phanh sau khi đã có cả hai người ngồi lên, thử đèn còi, xem áp lực lốp vì tải hai người khiến lốp non rõ hơn. Cách nhận xe và các bước kiểm tra tổng quát đã được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Nếu bạn hay chở đồ ngoài việc chở người, tham khảo thêm bài [chọn loại xe khi chở hành lý cồng kềnh](/blog/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để biết dòng nào gắn đồ chắc chắn. Các thắc mắc khác về chọn xe được nhóm trong [mục xe máy](/blog/xe-may/).
+Khi nhận xe để đi hai người, hãy kiểm tra kỹ hơn thường lệ: bóp phanh trước phanh sau khi đã có cả hai người ngồi lên, thử đèn còi, xem áp lực lốp vì tải hai người khiến lốp non rõ hơn. Cách nhận xe và các bước kiểm tra tổng quát đã được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Nếu bạn hay chở đồ ngoài việc chở người, tham khảo thêm bài [chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để biết dòng nào gắn đồ chắc chắn. Các thắc mắc khác về chọn xe được nhóm trong [mục xe máy](/xe-may/).
 
-Ngoài ra, khi hai người đi chung, hãy nhớ các quy định hiện hành về chở người trên xe máy, nội dung được tóm tắt trong bài [quy định hiện hành về chở người trên xe máy](/blog/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), để tránh những lỗi không đáng có lúc bị hạ.
+Ngoài ra, khi hai người đi chung, hãy nhớ các quy định hiện hành về chở người trên xe máy, nội dung được tóm tắt trong bài [quy định hiện hành về chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), để tránh những lỗi không đáng có lúc bị hạ.
 
 Hai người một chuyến đi vui thì xe chỉ cần đúng chứ không cần sang. Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, sẵn sàng tư vấn dòng xe hợp với vóc dáng cả hai người. Bạn có thể gọi trước số 0942 467 674 để hỏi dòng xe còn sẵn. Lưu ý: tình trạng xe sẵn có tại từng thời điểm có thể thay đổi, hãy trao đổi trực tiếp khi đặt xe.

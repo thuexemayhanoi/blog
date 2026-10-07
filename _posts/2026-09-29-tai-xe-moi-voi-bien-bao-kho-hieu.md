@@ -21,7 +21,7 @@ Nhóm nhầm nhiều nhất là biển cấm đi ngược chiều và biển đ�
 
 Nhóm thứ hai là các biển cấm rẽ trái, cấm rẽ phải gắn ngay trước ngã tư. Người mới hay nhìn đèn mà quên nhìn biển treo cạnh đèn, rồi rẽ đúng đèn xanh nhưng sai biển cấm. Thói quen đúng là khi tiến gần ngã tư, quét từ đèn sang biển treo và vạch kẻ, theo đúng thứ tự đó mỗi lần, cho đến khi thành phản xạ.
 
-Nhóm thứ ba là biển phân làn theo phương tiện, ví dụ làn dành riêng cho xe buýt hoặc làn giới hạn tốc độ tối thiểu. Với xe máy, đa số làn này không dành cho bạn, nên hãy chủ động về làn phải ngay từ khi thấy biển báo trước. Tổng hợp đầy đủ các nhóm biển và ý nghĩa từng nhóm đã được hệ thống trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), bạn nên đọc một lượt trước khi bắt đầu chạy.
+Nhóm thứ ba là biển phân làn theo phương tiện, ví dụ làn dành riêng cho xe buýt hoặc làn giới hạn tốc độ tối thiểu. Với xe máy, đa số làn này không dành cho bạn, nên hãy chủ động về làn phải ngay từ khi thấy biển báo trước. Tổng hợp đầy đủ các nhóm biển và ý nghĩa từng nhóm đã được hệ thống trong trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/), bạn nên đọc một lượt trước khi bắt đầu chạy.
 
 Nhóm thứ tư đáng chú ý là biển báo tạm thời: biển rào chắn, biển chỉ dẫn lối tạm khi mở đường, và biển vạch quanh công trường. Biển tạm thường đổi vị trí theo tiến độ thi công, nên tuyến quen hôm qua chưa chắc hôm nay giữ nguyên cách tổ chức. Gặp biển tạm, giảm tốc và làm theo chỉ dẫn của người điều tiết nếu có, thay vì bám theo trí nhớ của mình.
 
@@ -49,4 +49,4 @@ Nếu gặp một tấm biển bạn không chắc ý nghĩa, nguyên tắc an t
 
 Vài tuần đầu, nếu được, hãy đi cùng một người quen đường và nhờ họ nhận xét cách bạn đọc biển. Người đi cạnh nhìn ra ngay những điểm bạn bỏ sót, ví dụ mải nhìn đèn mà quên biển cấm rẽ, và một lần được nhắc thường đáng giá nhiều lần tự mò.
 
-Các câu hỏi của người mới về biển báo, đường một chiều và ngã tư được giải đáp thêm trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn những vấn đề an toàn và pháp lý rộng hơn nằm trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/). Đọc biển như một thói quen, không phải một gánh nặng, và vài tuần sau bạn sẽ không còn nhớ mình từng thấy chúng khó ở điểm nào.
+Các câu hỏi của người mới về biển báo, đường một chiều và ngã tư được giải đáp thêm trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), còn những vấn đề an toàn và pháp lý rộng hơn nằm trong mục [hỏi đáp thuê xe máy](/hoi-dap/). Đọc biển như một thói quen, không phải một gánh nặng, và vài tuần sau bạn sẽ không còn nhớ mình từng thấy chúng khó ở điểm nào.

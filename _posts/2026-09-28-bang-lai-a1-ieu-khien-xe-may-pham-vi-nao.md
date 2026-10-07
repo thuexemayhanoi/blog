@@ -43,7 +43,7 @@ Nếu còn băn khoăn, các dòng xe dưới 125 cm3 hiện là nhóm phổ bi�
 
 ## Người thuê xe cần lưu ý
 
-Khi thuê xe máy ở Hà Nội, bạn cần xuất trình bằng lái hợp lệ và chọn xe đúng hạng trước khi nhận xe. Hướng dẫn chi tiết về giấy tờ khi thuê nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các quy định giao thông áp dụng cho người lái xe máy nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Danh sách các dòng xe số và xe ga hiện cho thuê, kèm thông tin phân khối, được cập nhật trong trang [thuê xe máy](/blog/thue-xe/).
+Khi thuê xe máy ở Hà Nội, bạn cần xuất trình bằng lái hợp lệ và chọn xe đúng hạng trước khi nhận xe. Hướng dẫn chi tiết về giấy tờ khi thuê nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các quy định giao thông áp dụng cho người lái xe máy nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Danh sách các dòng xe số và xe ga hiện cho thuê, kèm thông tin phân khối, được cập nhật trong trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -51,6 +51,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về bằng a1 lái được xe nào
 
-Bằng a1 lái được xe nào có đáp án gọn: mọi xe mô tô hai bánh đến 125 cm3 hoặc xe điện đến 11 kW, với người từ đủ 16 tuổi. Xe lớn hơn đòi hỏi hạng A, và xe ba bánh thuộc hạng B1 riêng. Trước khi thuê, kiểm tra dung tích hoặc công suất của xe và đối chiếu với hạng bằng của bạn là cách chắc chắn nhất để không rơi vào lỗi điều khiển xe không đúng hạng. Để hiểu rộng hơn về các chủ đề an toàn khi lưu thông trong nội đô, xem thêm trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Bằng a1 lái được xe nào có đáp án gọn: mọi xe mô tô hai bánh đến 125 cm3 hoặc xe điện đến 11 kW, với người từ đủ 16 tuổi. Xe lớn hơn đòi hỏi hạng A, và xe ba bánh thuộc hạng B1 riêng. Trước khi thuê, kiểm tra dung tích hoặc công suất của xe và đối chiếu với hạng bằng của bạn là cách chắc chắn nhất để không rơi vào lỗi điều khiển xe không đúng hạng. Để hiểu rộng hơn về các chủ đề an toàn khi lưu thông trong nội đô, xem thêm trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về phân hạng giấy phép lái xe có thể thay đổi theo từng văn bản pháp luật; trước khi nhận xe, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

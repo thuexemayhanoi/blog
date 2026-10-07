@@ -50,4 +50,4 @@ Khi gọi, kể rõ loại xe, tình trạng tiếng kêu, các bước đã t�
 
 Ngay lúc nhận xe, hãy thử phanh vài lần ngay tại chỗ: bóp mạnh khi xe đang đẩy nhẹ, nghe xem có tiếng bất thường không, và ghi vào biên bản nhận xe nếu có. Tránh phơi xe nơi bụi bẩn nhiều ngày, tránh rửa xe kiểu xịt thẳng mạnh vào khe phanh đĩa, và không bôi dầu mỡ bừa bãi quanh khu vực bánh. Những thói quen nhỏ giúp xe thuê êm ru suốt kỳ thuê, không phiền bạn giữa lịch trình.
 
-Bạn có thể đọc thêm về chăm sóc xe trong mục [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/), tham khảo tổng hợp về [xe máy](/blog/xe-may/), hoặc xem các bài [kinh nghiệm](/blog/kinh-nghiem/) để chuẩn bị cho mọi tình huống trên đường phố Hà Nội.
+Bạn có thể đọc thêm về chăm sóc xe trong mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), tham khảo tổng hợp về [xe máy](/xe-may/), hoặc xem các bài [kinh nghiệm](/kinh-nghiem/) để chuẩn bị cho mọi tình huống trên đường phố Hà Nội.

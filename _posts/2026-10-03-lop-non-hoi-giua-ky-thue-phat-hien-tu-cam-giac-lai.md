@@ -38,7 +38,7 @@ Trước khi tiệm sửa, hỏi giá vá và nói rõ đây là xe thuê để 
 
 Ba thói quen giữ cho cả kỳ thuê êm ru. Một, yêu cầu bơm đúng áp suất khuyến nghị ghi trên tem dán gần cổ giảm xóc hoặc trong sách hướng dẫn, thay vì bơm cứng cho đầm. Áp quá cao làm lốp căng phồng giữa mặt đường, giảm độ bám, và dễ nổ lúc trời nắng gắt; áp quá thấp thì mỏi thành lốp và hao xăng. Hai, mỗi sáng lướt mắt quanh bánh một vòng, và dùng mu bàn chân đạp nhẹ lên lốp khi vẫn còn khỏe, cảm giác cứng của lốp đủ áp là thước đo quen mà không cần máy.
 
-Ba, nhớ vị trí các trạm bơm và tiệm sửa trên cung đường bạn hay chạy, đặc biệt với tuyến quen quanh Long Biên, Gia Lâm hay các trục phố lớn. Một chút chuẩn bị ấy biến sự cố thành phiền toái mười phút thay vì buổi chiều kẹt giữa đường. Để có cái nhìn đầy đủ về vòng đời lốp, độ mòn hoa và thời điểm thay, đọc bài [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/); còn ai muốn hiểu ảnh hưởng của lốp tới phản ứng phanh và cua, có thể xem [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/). Và nếu bạn đang cân nhắc thuê [xe máy](/blog/xe-may/) cho kỳ dài, hãy chọn nơi bàn giao xe với lốp còn độ sâu hoa rõ và áp chuẩn ngay từ đầu.
+Ba, nhớ vị trí các trạm bơm và tiệm sửa trên cung đường bạn hay chạy, đặc biệt với tuyến quen quanh Long Biên, Gia Lâm hay các trục phố lớn. Một chút chuẩn bị ấy biến sự cố thành phiền toái mười phút thay vì buổi chiều kẹt giữa đường. Để có cái nhìn đầy đủ về vòng đời lốp, độ mòn hoa và thời điểm thay, đọc bài [bảo dưỡng xe](/xe-may/bao-duong-xe/); còn ai muốn hiểu ảnh hưởng của lốp tới phản ứng phanh và cua, có thể xem [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/). Và nếu bạn đang cân nhắc thuê [xe máy](/xe-may/) cho kỳ dài, hãy chọn nơi bàn giao xe với lốp còn độ sâu hoa rõ và áp chuẩn ngay từ đầu.
 
 ## Kết lại
 

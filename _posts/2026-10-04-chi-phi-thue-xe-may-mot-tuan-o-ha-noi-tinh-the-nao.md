@@ -28,13 +28,13 @@ Khoản thứ ba là tiền cọc, số tiền này tùy dòng xe và điều ki
 
 Nhóm xe số và xe ga phổ thông như Honda Wave, Yamaha Sirius, Honda Click, Yamaha Mio có gói tuần khoảng 600.000 đến 700.000 đồng, tùy dòng và thời điểm. Honda Vision có gói tuần trong khoảng 800.000 đến 1.000.000 đồng. Honda Air Blade thường ở mức 800.000 đồng một tuần. Với xe máy điện, giá cần hỏi trực tiếp vì mức giá này có thể thay đổi theo loại xe cửa hàng đang có.
 
-So sánh nhanh với giá ngày giúp khách thấy lợi của gói tuần. Dòng xe 150.000 đồng mỗi ngày nếu thuê bảy ngày lẻ sẽ thành 1.050.000 đồng, trong khi gói tuần chỉ 600.000 đến 700.000 đồng. Dòng 200.000 đồng mỗi ngày cộng bảy ngày lên 1.400.000 đồng, còn gói tuần của nhóm xe ga ở quanh 800.000 đến 1.000.000 đồng. Chênh lệch đủ lớn để khách bận việc cả tuần nên chọn gói thay vì tính lẻ. Chi tiết từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/blog/bang-gia/), riêng nhóm xe ga xem thêm ở [bảng giá xe ga](/blog/bang-gia-xe-ga/).
+So sánh nhanh với giá ngày giúp khách thấy lợi của gói tuần. Dòng xe 150.000 đồng mỗi ngày nếu thuê bảy ngày lẻ sẽ thành 1.050.000 đồng, trong khi gói tuần chỉ 600.000 đến 700.000 đồng. Dòng 200.000 đồng mỗi ngày cộng bảy ngày lên 1.400.000 đồng, còn gói tuần của nhóm xe ga ở quanh 800.000 đến 1.000.000 đồng. Chênh lệch đủ lớn để khách bận việc cả tuần nên chọn gói thay vì tính lẻ. Chi tiết từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/), riêng nhóm xe ga xem thêm ở [bảng giá xe ga](/bang-gia-xe-ga/).
 
 ## Tuần trọn gói hay bảy ngày lẻ: chọn kiểu nào
 
 Chọn gói tuần khi chắc chắn dùng xe đủ bảy ngày, ví dụ khách ở Hà Nội đi làm cả tuần hoặc đi chơi nhiều ngày liên tiếp. Chọn theo ngày khi lịch chưa rõ, ví dụ dự kiến chỉ cần xe bốn năm ngày rồi về quê. Điểm cần lưu ý là gói tuần thường tính theo chu kỳ bảy ngày cố định từ ngày nhận, trả sớm không tự động hoàn phần dư, nên khách nên hỏi rõ cách tính nếu có khả năng trả trước.
 
-Trả trễ một vài tiếng thường được xử lý theo mức phí giờ quy định của cửa hàng, còn trả trễ gần bằng một ngày thì dễ bị tính thêm một ngày thuê theo giá ngày của dòng xe. Cách an toàn là thống nhất giờ trả cụ thể khi đặt và báo sớm qua điện thoại nếu có thay đổi. Khách muốn tham khảo cách tính chi phí cho các kỳ ngắn hơn có thể đọc thêm bài [chi phí thuê xe máy hai ngày cuối tuần](/blog/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/) hoặc lướt qua mục [hỏi đáp](/blog/hoi-dap/).
+Trả trễ một vài tiếng thường được xử lý theo mức phí giờ quy định của cửa hàng, còn trả trễ gần bằng một ngày thì dễ bị tính thêm một ngày thuê theo giá ngày của dòng xe. Cách an toàn là thống nhất giờ trả cụ thể khi đặt và báo sớm qua điện thoại nếu có thay đổi. Khách muốn tham khảo cách tính chi phí cho các kỳ ngắn hơn có thể đọc thêm bài [chi phí thuê xe máy hai ngày cuối tuần](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/) hoặc lướt qua mục [hỏi đáp](/hoi-dap/).
 
 ## Các khoản ngoài giá thuê khách cần hỏi trước
 

@@ -16,7 +16,7 @@ writer: W1
 
 Mùa dông ở miền Bắc thường đến nhanh: trời còn sáng, mây đã kéo lên thành tháp đen, và chỉ vài phút sau bạn đã nghe tiếng sấm rền đâu đó phía chân trời. Đi xe máy lúc sấm sét dừng ở đâu vì vậy là câu hỏi cần trả lời trước khi cơn dông tới, chứ không phải giữa lúc gió giật từng cơn. Bài này xếp hạng các chỗ dừng từ an toàn tới tuyệt đối tránh, kèm cách né sấm sét khi chạy xe cho quãng còn lại tới điểm trú.
 
-Tổng quan các kỹ năng lái theo thời tiết nằm ở trang [kỹ năng và tình huống](/blog/ky-nang/), quy trình nhận xe trước chuyến đi nằm trong trang [thuê xe máy](/blog/thue-xe/), còn thủ tục liên quan chuyến thuê ở trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Tổng quan các kỹ năng lái theo thời tiết nằm ở trang [kỹ năng và tình huống](/ky-nang/), quy trình nhận xe trước chuyến đi nằm trong trang [thuê xe máy](/thue-xe/), còn thủ tục liên quan chuyến thuê ở trang [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Nguyên tắc chọn chỗ dừng khi gặp dông sét
 

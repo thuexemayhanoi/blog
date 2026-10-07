@@ -42,4 +42,4 @@ Một mẹo nhỏ về đồ đạc: hai khu tham quan đều cần đi bộ nhi
 
 ## Phần cuối tuần và về an toàn
 
-Chiều chủ nhật dòng xe về Hà Nội dày từ ba giờ trở đi — ai muốn thoáng hơn nên lùi giờ về hoặc dừng ăn tối ở Ninh Bình rồi khởi hành sau bảy giờ, đoạn quốc lộ bớt đông và trời mát dễ chạy hơn nhiều. Chạy đêm về cần đèn pha tốt và găng kín — hai thứ nên kiểm tra lúc nhận xe ngay từ đầu. Tổng quan các cung đường cuối tuần khác nằm trong trang chủ đề [cung đường](/blog/cung-duong/), kinh nghiệm chuẩn bị cho chuyến thuê dài tại [thuê xe máy](/blog/xe-may/), và phần chạy xe ban đêm an toàn chi tiết hơn ở [chuyên mục cung đường](/blog/cung-duong/).
+Chiều chủ nhật dòng xe về Hà Nội dày từ ba giờ trở đi — ai muốn thoáng hơn nên lùi giờ về hoặc dừng ăn tối ở Ninh Bình rồi khởi hành sau bảy giờ, đoạn quốc lộ bớt đông và trời mát dễ chạy hơn nhiều. Chạy đêm về cần đèn pha tốt và găng kín — hai thứ nên kiểm tra lúc nhận xe ngay từ đầu. Tổng quan các cung đường cuối tuần khác nằm trong trang chủ đề [cung đường](/cung-duong/), kinh nghiệm chuẩn bị cho chuyến thuê dài tại [thuê xe máy](/xe-may/), và phần chạy xe ban đêm an toàn chi tiết hơn ở [chuyên mục cung đường](/cung-duong/).

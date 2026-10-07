@@ -25,7 +25,7 @@ Say nắng hiếm khi ập đến đột ngột, phần lớn trường hợp n�
 
 Phòng bệnh luôn dễ hơn chữa, và với say nắng, việc phòng bắt đầu từ nước. Uống đủ nước trước khi xuất phát, mang bình nước trong cốp xe và uống từng ngụm nhỏ ở mỗi điểm dừng, thay vì chờ đến khát mới uống một hơi thật nhiều. Mũ bảo hiểm loại có vành che, nón trùm che gáy, áo dài tay mỏng màu sáng và găng tay mỏng giúp giảm phần lớn lượng nhiệt hắt trực tiếp lên người, đồng thời giữ cơ thể bớt mất nước qua mồ hôi.
 
-Lịch trình là lớp phòng thủ thứ hai: tránh khung nắng cao điểm từ giữa trưa đến đầu giờ chiều, dồn các quãng đường dài vào sáng sớm hoặc chiều muộn. Mỗi một đến hai tiếng trên yên xe nên có một điểm dừng ngắn ở nơi mát, vừa cho người nghỉ vừa kiểm tra lốp và phanh. Người hay đi xa nên đọc thêm về [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) để xây dựng thói quen tốt cho các hành trình dài.
+Lịch trình là lớp phòng thủ thứ hai: tránh khung nắng cao điểm từ giữa trưa đến đầu giờ chiều, dồn các quãng đường dài vào sáng sớm hoặc chiều muộn. Mỗi một đến hai tiếng trên yên xe nên có một điểm dừng ngắn ở nơi mát, vừa cho người nghỉ vừa kiểm tra lốp và phanh. Người hay đi xa nên đọc thêm về [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/) để xây dựng thói quen tốt cho các hành trình dài.
 
 ## Mắt chói nắng và tầm nhìn khi mặt trời thấp
 
@@ -43,4 +43,4 @@ Trang phục che kín lại là trang phục mát: áo dài tay mỏng, quần d
 
 Về đến nơi chưa phải là hết rủi ro: cơ thể mất nước cần được bù lại bằng nước lọc hoặc nước điện giải theo từng ngụm, tránh uống thật nhiều nước đá ngay lập tức. Tắm rửa bằng nước mát, nghỉ ở nơi thoáng và theo dõi trong vài giờ, nếu vẫn đau đầu kéo dài thì nên nghỉ hẳn chiều hôm đó. Người làm việc bằng xe máy quanh Hà Nội nên coi việc bù nước như một phần lịch trình hằng ngày trong mùa nóng, không phải việc làm khi đã mệt. Với người hay chạy xe nhiều giờ trong ngày, một bình nước nhỏ kèm theo luôn rẻ hơn bất kỳ biện pháp nào áp dụng sau khi cơ thể đã say nắng.
 
-Mùa nắng gắt mỗi năm lại quay về, còn thói quen chống say nắng là hành trang giữ được cho mọi mùa. Khi cần thuê một chiếc xe máy ổn định tại Hà Nội cho các chuyến đi trong nắng, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/blog/ky-nang/) và [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Mùa nắng gắt mỗi năm lại quay về, còn thói quen chống say nắng là hành trang giữ được cho mọi mùa. Khi cần thuê một chiếc xe máy ổn định tại Hà Nội cho các chuyến đi trong nắng, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/ky-nang/) và [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/).

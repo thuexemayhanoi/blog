@@ -52,8 +52,8 @@ Cuối cùng, bạn nên dặn trẻ không chạy xa trong khu trưng bày tron
 
 ## Kết hợp lịch trình trong ngày
 
-Vị trí bảo tàng trên trục Trường Chinh rất dễ ghép với các điểm phía nam và phía tây thành phố, không buộc bạn phải quay về khu trung tâm. Nếu muốn mở rộng danh sách tham quan, trang [bảo tàng ở Hà Nội](/blog/du-lich/bao-tang/) giới thiệu thêm nhiều lựa chọn theo chủ đề, còn chuyên mục [du lịch Hà Nội](/blog/du-lich/) gợi ý cách xếp lịch cho từng khu vực.
+Vị trí bảo tàng trên trục Trường Chinh rất dễ ghép với các điểm phía nam và phía tây thành phố, không buộc bạn phải quay về khu trung tâm. Nếu muốn mở rộng danh sách tham quan, trang [bảo tàng ở Hà Nội](/du-lich/bao-tang/) giới thiệu thêm nhiều lựa chọn theo chủ đề, còn chuyên mục [du lịch Hà Nội](/du-lich/) gợi ý cách xếp lịch cho từng khu vực.
 
-Khách du lịch ở xa cần phương tiện có thể xem trước thủ tục ở bài viết về [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/), chuẩn bị sẵn giấy tờ để hôm đi không mất thời gian ở khâu nhận xe.
+Khách du lịch ở xa cần phương tiện có thể xem trước thủ tục ở bài viết về [thuê xe máy theo ngày](/thue-xe/thue-ngay/), chuẩn bị sẵn giấy tờ để hôm đi không mất thời gian ở khâu nhận xe.
 
 Tóm lại, trải nghiệm Bảo tàng Phòng không - Không quân sẽ trọn vẹn hơn khi bạn chọn đúng người cùng đi và đúng khung giờ: trẻ nhỏ cần sáng mát, nhóm chụp ảnh cần chiều nắng đẹp, còn người lớn tuổi cần thời gian thong thả. Một chút chuẩn bị trước chuyến đi đổi lại cả một buổi nhiều kỷ niệm giữa lòng thủ đô.

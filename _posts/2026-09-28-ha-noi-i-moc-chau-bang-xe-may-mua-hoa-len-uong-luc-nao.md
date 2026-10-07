@@ -29,7 +29,7 @@ Nhóm đi ngày thường thay vì cuối tuần có thêm vài lợi thế: xe 
 
 Ba khác biệt lớn nhất của mùa hoa nằm ở chỗ nghỉ, mật độ xe và thời tiết. Chỗ nghỉ quanh thị trấn Mộc Châu vào các đợt hoa đẹp kín rất sớm, khách cần chốt từ một hai tuần trước, và các yêu cầu như phòng ấm, chỗ đỗ xe có mái che nên nói rõ lúc đặt. Mật độ xe cuối tuần mùa hoa tăng rõ trên quốc lộ 6 và các đường quanh thung lũng hoa: khách giữ khoảng cách xa hơn, không vượt ở dốc và cua, và tính thêm thời gian cho các điểm đông người chụp ven đường.
 
-Về thời tiết, nhiệt độ thấp hơn Hà Nội nhiều, gió cao nguyên lạnh buốt, và buổi sớm muộn sương mù gần như ngày nào cũng có; khách theo dõi dự báo trong hai ngày trước đi và chuẩn bị phương án dừng chờ sương tan ở quán chân đèo, thay vì cố chạy. Chi tiết cung đường từng chặng nói trong bài [cung Hà Nội Mộc Châu qua quốc lộ 6](/blog/cung-duong/2026/09/28/cung-ha-noi-moc-chau-qua-quoc-lo-6/).
+Về thời tiết, nhiệt độ thấp hơn Hà Nội nhiều, gió cao nguyên lạnh buốt, và buổi sớm muộn sương mù gần như ngày nào cũng có; khách theo dõi dự báo trong hai ngày trước đi và chuẩn bị phương án dừng chờ sương tan ở quán chân đèo, thay vì cố chạy. Chi tiết cung đường từng chặng nói trong bài [cung Hà Nội Mộc Châu qua quốc lộ 6](/cung-duong/2026/09/28/cung-ha-noi-moc-chau-qua-quoc-lo-6/).
 
 ## Mộc Châu mùa hoa đẹp nhất trong ngày lúc nào
 
@@ -45,4 +45,4 @@ Xe cho chuyến mùa hoa cần được soạn kỹ hơn chuyến thường: má
 
 Một vài thói quen nhỏ giúp chuyến mùa hoa đỡ vất vả: giày xe máy bằng trước khi ra đường, để máy nổ ổn ở chỗ trú rét một phút trước khi chạy, và tra lại xích sau chặng đèo đầu tiên. Khách nên xếp lại đồ mỗi tối theo thứ tự lấy ra sáng hôm sau: găng tay và khăn ở trên cùng, vì hai món này cần đầu tiên trong sáng mùa rét.
 
-Khách cần thuê xe máy cho mùa hoa liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Cách giữ xe an toàn qua đèo Thung Khe nói trong bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/blog/cung-duong/2026/09/28/chay-xe-may-qua-eo-thung-khe-an-toan-the-nao/); chỗ dừng nếu về trễ ở Mai Châu nói trong bài [nghỉ ở Mai Châu khi đi bằng xe máy](/blog/cung-duong/2026/09/28/nghi-o-mai-chau-khi-i-bang-xe-may/); các bài về cao nguyên gom ở trang [Mộc Châu](/blog/cung-duong/moc-chau/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Khách cần thuê xe máy cho mùa hoa liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Cách giữ xe an toàn qua đèo Thung Khe nói trong bài [chạy xe máy qua đèo Thung Khe an toàn thế nào](/cung-duong/2026/09/28/chay-xe-may-qua-eo-thung-khe-an-toan-the-nao/); chỗ dừng nếu về trễ ở Mai Châu nói trong bài [nghỉ ở Mai Châu khi đi bằng xe máy](/cung-duong/2026/09/28/nghi-o-mai-chau-khi-i-bang-xe-may/); các bài về cao nguyên gom ở trang [Mộc Châu](/cung-duong/moc-chau/) và trang chủ đề [cung đường & hành trình](/cung-duong/).

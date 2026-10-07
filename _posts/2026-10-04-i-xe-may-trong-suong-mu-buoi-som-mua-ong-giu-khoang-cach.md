@@ -38,7 +38,7 @@ Sương mù dày nhất ở các đoạn gần mặt nước và vùng trũng. Q
 
 Các đoạn cầu và đường cao vượt cũng cần để ý: lên tới độ cao, sương có thể dày hơn mặt đất, và gió kèm sương làm lạnh nhanh. Khi qua cầu trong sương, giữ làn phải, không dừng trên cầu, và nếu tầm nhìn quá kém thì chờ ở đầu cầu cho sương bớt thay vì mò giữa nhịp cầu.
 
-Một tình huống hay gặp là sương kết hợp hơi ẩm làm mặt đường ướt nhẹ hoặc đóng sương mỏng ở chỗ rợp. Mặt nhựa mùa đông sáng sớm vì vậy trơn hơn cảm nhận, nên vào cua chậm hơn thường ngày và phanh sớm hơn. Đường sá mùa lạnh nói chung có những thay đổi khó đoán, các kinh nghiệm chung về chạy xe trong thời tiết xấu được gom trong mục [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Một tình huống hay gặp là sương kết hợp hơi ẩm làm mặt đường ướt nhẹ hoặc đóng sương mỏng ở chỗ rợp. Mặt nhựa mùa đông sáng sớm vì vậy trơn hơn cảm nhận, nên vào cua chậm hơn thường ngày và phanh sớm hơn. Đường sá mùa lạnh nói chung có những thay đổi khó đoán, các kinh nghiệm chung về chạy xe trong thời tiết xấu được gom trong mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/).
 
 ## Trang bị và lộ trình cho buổi sớm mùa sương
 
@@ -48,6 +48,6 @@ Lộ trình nên chọn các đường lớn thẳng, ít ngõ nhỏ, vì trong 
 
 Trước khi xuất phát, nên xem nhanh dự báo trời và hỏi người xung quanh xem đoạn đường mình sẽ qua có sương dày không, vì sương mù dao động mạnh giữa các khu vực chỉ cách nhau vài cây số. Với xe thuê, kiểm tra phanh và còi trước buổi đi sớm, vì trong sương hai thứ này quan trọng hơn cả ga. Còi dùng để báo vị trí ở các ngõ mờ, còn phanh phải ăn ngay khi có người đột ngột xuất hiện từ màn sương. Chuyến đi về sáng sớm mùa đông vì vậy cần thêm năm phút chuẩn bị so với thường ngày.
 
-Còn về lịch trình quanh năm, khách thuê xe máy có thể tham khảo các bài chạy buổi sớm như [chạy xe vòng nội thành sáng sớm](/blog/cung-duong/2026/10/04/chay-xe-vong-noi-thanh-sang-som-tuyen-ho-guom-ho-tay/), lưu ý trong sương mù các nguyên tắc khoảng cách trong bài này luôn ưu tiên. Các tình huống bất ngờ khác trên đường nằm trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Còn về lịch trình quanh năm, khách thuê xe máy có thể tham khảo các bài chạy buổi sớm như [chạy xe vòng nội thành sáng sớm](/cung-duong/2026/10/04/chay-xe-vong-noi-thanh-sang-som-tuyen-ho-guom-ho-tay/), lưu ý trong sương mù các nguyên tắc khoảng cách trong bài này luôn ưu tiên. Các tình huống bất ngờ khác trên đường nằm trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Đi xe máy trong sương mù buổi sớm mùa đông, nói cho cùng, là bài tập về kiên nhẫn. Chạy chậm, giữ khoảng cách, bật đèn đúng cách và biết dừng chờ khi sương quá dày: bốn điều đó đưa bạn tới nơi an toàn, và chiếc xe thuê về nguyên vẹn cho ngày làm việc tiếp theo.

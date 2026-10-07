@@ -37,7 +37,7 @@ Trường hợp hàng nhô quá thân xe ở phía trước hoặc phía sau, qu
 
 Về mặt an toàn: khối lượng dồn lệch một bên khiến xe nghiêng và cua khó; hàng cao làm đón gió, dễ hất lệch khi gió ngang thổi ở các đoạn thoáng; hàng dài làm bán kính quay lớn hơn dự định, phần nhô sau thường quẹt vào xe cùng chiều khi rẽ.
 
-Về mặt pháp lý: xe chở hàng gây cản trở giao thông, che tầm nhìn, hoặc buộc người lái phải ngồi lệch hẳn sang một bên có thể bị dừng xử lý. Trong các vụ va chạm, việc chở hàng sai cũng hay được ghi nhận là một phần nguyên nhân, và bạn có thể đọc thêm nhóm quy định liên quan trong bài về [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Về mặt pháp lý: xe chở hàng gây cản trở giao thông, che tầm nhìn, hoặc buộc người lái phải ngồi lệch hẳn sang một bên có thể bị dừng xử lý. Trong các vụ va chạm, việc chở hàng sai cũng hay được ghi nhận là một phần nguyên nhân, và bạn có thể đọc thêm nhóm quy định liên quan trong bài về [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 Thời tiết xấu càng nhân đôi rủi ro: mưa làm dây buộc trơn, gió ngang đẩy hàng cao, và mặt đường ướt khiến xe mang tải nặng dễ trượt bánh khi phanh. Ngày mưa gió, nếu hàng không cần gấp, hãy để lại hoặc tách làm nhiều chuyến nhẹ.
 
@@ -45,7 +45,7 @@ Thời tiết xấu càng nhân đôi rủi ro: mưa làm dây buộc trơn, gi�
 
 Bốn điểm quyết định một lần buộc chắc: điểm neo, dây, nút và đối trọng. Điểm neo phải là khung hoặc càng kim loại của xe, không buộc vào phần nhựa mềm vì sẽ tuột khi rung. Dây đàn hồi chỉ dùng để chèn phụ, còn phần giữ chính phải là dây dù có khóa siết. Nút cài phải nằm ở phía tay với của bạn khi ngồi lên xe, để chỉnh giữa chặng được ngay.
 
-Chia tải cũng quan trọng như buộc: hàng nặng xuống thấp và sát giữa trục xe, hàng nhẹ mới được lên trên, hai bên phân bố cân bằng. Sau khi chạy chặng đầu khoảng vài phút, dừng lại siết lại toàn bộ dây một lần nữa, vì hàng chỉ lộ chỗ lỏng sau khi đã rung máy thật. Chi tiết về cách chở đồ và hành lý trên xe máy nằm trong bài về [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Chia tải cũng quan trọng như buộc: hàng nặng xuống thấp và sát giữa trục xe, hàng nhẹ mới được lên trên, hai bên phân bố cân bằng. Sau khi chạy chặng đầu khoảng vài phút, dừng lại siết lại toàn bộ dây một lần nữa, vì hàng chỉ lộ chỗ lỏng sau khi đã rung máy thật. Chi tiết về cách chở đồ và hành lý trên xe máy nằm trong bài về [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
 ## Với người chuyên chở hàng bằng xe máy
 
@@ -53,4 +53,4 @@ Người chuyên chở hàng bằng xe máy ở phố Hà Nội nên có hai th�
 
 Nếu hàng rơi giữa đường, bạn phải dừng nhặt ngay tại chỗ an toàn, không bỏ đi: hàng rơi gây thiệt hại cho người đi sau thì trách nhiệm vẫn thuộc về người để rơi. Đây là điểm nhiều người nhầm, tưởng hàng tuột khỏi xe là hết chuyện của mình.
 
-Tóm lại, chở hàng cồng kềnh trên xe máy không bị cấm tuyệt đối, chỉ bị đòi điều kiện: buộc chắc, không che, không cản trở. Người chở hàng càng giữ đúng điều kiện thì chuyến hàng càng về đích nguyên vẹn, và trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) luôn có các phần đọc kèm để đối chiếu khi cần.
+Tóm lại, chở hàng cồng kềnh trên xe máy không bị cấm tuyệt đối, chỉ bị đòi điều kiện: buộc chắc, không che, không cản trở. Người chở hàng càng giữ đúng điều kiện thì chuyến hàng càng về đích nguyên vẹn, và trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) luôn có các phần đọc kèm để đối chiếu khi cần.

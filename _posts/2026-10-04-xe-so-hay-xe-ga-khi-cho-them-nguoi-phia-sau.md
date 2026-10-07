@@ -42,4 +42,4 @@ Thứ ba, quy tắc ngồi. Người sau lên xuống khi xe đã đứng yên, 
 
 Tóm lại: phố bằng, chặng ngắn, người sau cần êm — xe ga hợp; dốc dài, đường xấu, chở theo lịch trình nặng — xe số chắc hơn. Người thuê xe máy ở Hà Nội đi hai người nên nói rõ với cửa hàng ngay từ lúc đặt xe: chuyến hai người, đi đâu, dốc nhiều không — để được xếp dòng xe và chỉnh lốp, giảm xóc phù hợp từ đầu, thay vì nhận xe rồi tự chịu.
 
-So sánh chi tiết các dòng xe khi thuê nằm trong trang [so sánh xe](/blog/xe-may/so-sanh-xe/), kiến thức chọn dòng theo nhu cầu ở trang chủ [xe máy](/blog/xe-may/), thói quen kiểm tra trước chuyến dài viết trong mục [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), và các tình huống giao thông khi đi hai người gom trong trang chủ [thuê xe](/blog/thue-xe/).
+So sánh chi tiết các dòng xe khi thuê nằm trong trang [so sánh xe](/xe-may/so-sanh-xe/), kiến thức chọn dòng theo nhu cầu ở trang chủ [xe máy](/xe-may/), thói quen kiểm tra trước chuyến dài viết trong mục [bảo dưỡng xe](/xe-may/bao-duong-xe/), và các tình huống giao thông khi đi hai người gom trong trang chủ [thuê xe](/thue-xe/).

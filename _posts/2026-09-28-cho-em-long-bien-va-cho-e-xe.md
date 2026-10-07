@@ -24,7 +24,7 @@ Mỗi tối cuối tuần, dòng xe quanh khu chợ dày hơn hẳn các đêm t
 
 Chủ trương an toàn nhất khi ăn tối ở chợ đêm Long Biên là gửi xe vào bãi giữ xe có người trông thay vì dựa xe ven lề: quanh khu chợ có các bãi giữ xe hoạt động suốt khung tối, giá gửi thường rẻ và vị trí gần các cụm hàng đông. Khách gửi xe hỏi giá và nhận vé trước khi rời xe, kèm một vài thói quen nhỏ là hữu ích: chụp lại vị trí xe, ghi nhớ tên phố đầu bãi, và hỏi giờ bãi đóng nếu định ăn khuya, vì không phải bãi quanh khu chợ giữ xe quá nửa đêm.
 
-Thói quen khóa xe qua buổi ăn dài cũng quan trọng không kém chỗ để: khách khóa cổ, khóa từ, không để mũ bảo hiểm và đồ đắt giá trên yên xe, giấy tờ theo người. Các vòng kiểm tra này được kể kỹ trong trang [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), nên khách nào hay quên có thể xem lại trước chuyến.
+Thói quen khóa xe qua buổi ăn dài cũng quan trọng không kém chỗ để: khách khóa cổ, khóa từ, không để mũ bảo hiểm và đồ đắt giá trên yên xe, giấy tờ theo người. Các vòng kiểm tra này được kể kỹ trong trang [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), nên khách nào hay quên có thể xem lại trước chuyến.
 
 Trường hợp bãi quanh chợ kín, khách thường có hai lựa chọn: chạy thêm một hai phố quanh khu để tìm bãi trống rồi bộ lại, hoặc chọn quán nằm xa cụm đông một chút, nơi lề đường rộng và quán có chỗ để xe riêng. Ăn ở quán ven khu đông vừa dễ gửi xe vừa dễ gọi món, vì hàng quán quanh chợ khuya hay hết món sớm.
 
@@ -32,15 +32,15 @@ Trường hợp bãi quanh chợ kín, khách thường có hai lựa chọn: ch
 
 Cách thưởng thức khu chợ đêm này giống cách dân quận hay làm: đi nhóm hai ba người, để xe chung một bãi, rồi chia nhau xếp hàng ở các hàng khác nhau thay vì ngồi một mâm chờ phục vụ. Khách du lịch muốn nếm nhiều món nên theo cách này, vì phần lớn hàng quán khu chợ là hàng bán mang về hoặc ghế đẩu ven đường, ít quán có bàn ngồi rộng.
 
-Khách chở đồ về theo xe cũng cần lưu ý: các hộp thức ăn nhiều dầu dễ đổ khi xe nghiêng qua khúc cua, nên buộc chắc, để đứng ở giữa hai túi hàng, và chạy chậm qua các đoạn gờ giảm tốc quanh khu chợ. Kỹ thuật chở đồ trên yên xe áp dụng cho nhiều tình huống khác nữa, kể cả các chuyến hội làng, được kể trong bài [chở bánh kẹo đi hội làng](/blog/chia%20s%E1%BA%BB/2026/09/19/cho-banh-keo-dai-hoi-lang-xom/).
+Khách chở đồ về theo xe cũng cần lưu ý: các hộp thức ăn nhiều dầu dễ đổ khi xe nghiêng qua khúc cua, nên buộc chắc, để đứng ở giữa hai túi hàng, và chạy chậm qua các đoạn gờ giảm tốc quanh khu chợ. Kỹ thuật chở đồ trên yên xe áp dụng cho nhiều tình huống khác nữa, kể cả các chuyến hội làng, được kể trong bài [chở bánh kẹo đi hội làng](/chia%20s%E1%BA%BB/2026/09/19/cho-banh-keo-dai-hoi-lang-xom/).
 
 Đêm mưa là biến số quen của khu chợ: lối quán trơn, bãi xe lội bùn, khách mang giày đế bám và túi kín cho đồ ăn mang về. Sau cơn mưa, hàng quán nhanh đông lại và chuyện tìm chỗ để xe dễ hơn vì dòng người thưa, khách kiên nhẫn chờ mưa tạnh thêm mười lăm phút thường có buổi tối dễ chịu hơn dự kiến.
 
 ## Đi từ nội đô sang chợ đêm Long Biên
 
-Khách thuê xe ở khu nội đô sang Long Biên ăn tối thường đi qua cầu Chương Dương hoặc cầu Long Biên, mất khoảng mười lăm đến hai mươi phút từ Hồ Gươm tùy khung giờ, cách khám phá bờ nam quanh khu Hoàn Kiếm trước khi qua cầu được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/). Khung đi sang bờ bắc nên tránh ngay sau 17 giờ, khi dòng xe chiều đổ về phía bắc dồn trên cầu; đi khung 19 giờ trở về sau vừa vặn giờ họp chợ.
+Khách thuê xe ở khu nội đô sang Long Biên ăn tối thường đi qua cầu Chương Dương hoặc cầu Long Biên, mất khoảng mười lăm đến hai mươi phút từ Hồ Gươm tùy khung giờ, cách khám phá bờ nam quanh khu Hoàn Kiếm trước khi qua cầu được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/). Khung đi sang bờ bắc nên tránh ngay sau 17 giờ, khi dòng xe chiều đổ về phía bắc dồn trên cầu; đi khung 19 giờ trở về sau vừa vặn giờ họp chợ.
 
-Tổng quan các trải nghiệm quanh hai bờ sông khu này nằm ở trang [Long Biên và Gia Lâm](/blog/du-lich/long-bien/), còn khách xếp chuỗi hoạt động nhiều ngày quanh thành phố đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/) và trang [du lịch Hà Nội](/blog/du-lich/).
+Tổng quan các trải nghiệm quanh hai bờ sông khu này nằm ở trang [Long Biên và Gia Lâm](/du-lich/long-bien/), còn khách xếp chuỗi hoạt động nhiều ngày quanh thành phố đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/) và trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về chợ đêm Long Biên và chuyện để xe
 

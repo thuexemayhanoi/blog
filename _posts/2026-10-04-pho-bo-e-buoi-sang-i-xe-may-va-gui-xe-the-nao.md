@@ -46,6 +46,6 @@ Gợi ý ghép chuẩn: sáu giờ rưỡi tới quán quen ven đường, gửi
 
 Nhóm bạn đi đông nên hẹn trước một quán cụ thể và một bãi xe cụ thể, tránh kiểu "đến khu rồi gọi" giữa khung đông. Khách từ xa thuê xe máy lần đầu cũng nên đi trước giờ hẹn mười lăm phút: khu Bồ Đề ngõ nhỏ, lần đầu tìm quán dễ mất thêm vài phút.
 
-Muốn đọc thêm về ăn sáng Long Biên, chạy đê sớm hoặc các điểm dạo quanh quận, chuyên mục [Long Biên](/blog/du-lich/long-bien/) là nơi gom các bài của khu, còn mục [điểm đến Hà Nội](/blog/du-lich/diem-den/) gom nhiều bài khác; các lưu ý để xe ven phố nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/blog/du-lich/) là mục lục chung. Người mới thuê xe máy ở Hà Nội nên dành vài phút cho mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi sáng đầu tiên chạy quanh khu.
+Muốn đọc thêm về ăn sáng Long Biên, chạy đê sớm hoặc các điểm dạo quanh quận, chuyên mục [Long Biên](/du-lich/long-bien/) là nơi gom các bài của khu, còn mục [điểm đến Hà Nội](/du-lich/diem-den/) gom nhiều bài khác; các lưu ý để xe ven phố nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/du-lich/) là mục lục chung. Người mới thuê xe máy ở Hà Nội nên dành vài phút cho mục [kinh nghiệm](/kinh-nghiem/) trước buổi sáng đầu tiên chạy quanh khu.
 
 Bát phở nóng giữa phố chưa dậy, chiếc xe để gọn ven vỉa hè, và một buổi sáng dài phía trước: ăn sáng Bồ Đề bằng xe máy đơn giản vậy thôi mà nhiều người giữ thói quen này quanh năm.

@@ -17,9 +17,9 @@ Nhiều khách đi làm hoặc du lịch bằng xe máy ở Hà Nội hiện nay
 
 ## Đặt cọc thuê xe máy chuyển khoản: chốt gì trước khi bấm gửi
 
-Trước khi chuyển khoản, hãy chốt ba việc trên tin nhắn với bên cho thuê. Thứ nhất là số tài khoản và tên người nhận: bạn nên nhận số tài khoản qua tin nhắn hoặc ứng dụng hội thoại mà bên cho thuê đang dùng thật, tránh nhận qua giấy note viết tay. Thứ hai là khoản cọc cụ thể cho xe mình thuê, ghi rõ xe gì, cọc bao nhiêu và hoàn trong bao lâu sau khi trả xe. Thứ ba là điều kiện trừ cọc: trầy xước ở mức nào thì tính, hư hỏng do lỗi người thuê xử lý ra sao. Ba việc này nằm trong quy trình đặt cọc đã được trình bày chi tiết trong bài viết về [cọc khi thuê xe máy](/blog/thue-xe/dat-coc/).
+Trước khi chuyển khoản, hãy chốt ba việc trên tin nhắn với bên cho thuê. Thứ nhất là số tài khoản và tên người nhận: bạn nên nhận số tài khoản qua tin nhắn hoặc ứng dụng hội thoại mà bên cho thuê đang dùng thật, tránh nhận qua giấy note viết tay. Thứ hai là khoản cọc cụ thể cho xe mình thuê, ghi rõ xe gì, cọc bao nhiêu và hoàn trong bao lâu sau khi trả xe. Thứ ba là điều kiện trừ cọc: trầy xước ở mức nào thì tính, hư hỏng do lỗi người thuê xử lý ra sao. Ba việc này nằm trong quy trình đặt cọc đã được trình bày chi tiết trong bài viết về [cọc khi thuê xe máy](/thue-xe/dat-coc/).
 
-Việc chốt trước bằng tin nhắn còn giúp bạn chọn mức cọc hợp lý với kế hoạch thuê. Ai thuê xe trong vài ngày thường cọc một khoản thấp hơn người thuê cả tháng, vì thời gian giữ xe dài hơn thì rủi ro trầy xước cũng tăng. Nếu bạn chưa chắc kỳ thuê của mình kéo dài bao lâu, có thể tham khảo thêm cách tính kỳ thuê trong bài về [thuê xe máy theo tháng](/blog/thue-xe/thue-thang/) để chốt cọc sát với thực tế sử dụng.
+Việc chốt trước bằng tin nhắn còn giúp bạn chọn mức cọc hợp lý với kế hoạch thuê. Ai thuê xe trong vài ngày thường cọc một khoản thấp hơn người thuê cả tháng, vì thời gian giữ xe dài hơn thì rủi ro trầy xước cũng tăng. Nếu bạn chưa chắc kỳ thuê của mình kéo dài bao lâu, có thể tham khảo thêm cách tính kỳ thuê trong bài về [thuê xe máy theo tháng](/thue-xe/thue-thang/) để chốt cọc sát với thực tế sử dụng.
 
 ## Những bằng chứng nên lưu lại ngay sau khi chuyển
 
@@ -41,6 +41,6 @@ Ngoài ra, đừng trộn lẫn tiền cọc với các khoản khác trong cùn
 
 ## Ghi chú khi thuê xe máy ở Hà Nội
 
-Với khách thuê tại Hà Nội, nguyên tắc chung vẫn là: chốt rõ trên tin nhắn, chuyển đúng tài khoản được công bố, lưu đủ ảnh và mã giao dịch. Trước khi đặt cọc, bạn cũng nên xem qua [bảng giá thuê xe máy](/blog/bang-gia/) để biết cấu trúc giá theo ngày, theo tuần và theo tháng của cửa hàng, từ đó đoán được khoản cọc hợp lý cho kỳ thuê của mình.
+Với khách thuê tại Hà Nội, nguyên tắc chung vẫn là: chốt rõ trên tin nhắn, chuyển đúng tài khoản được công bố, lưu đủ ảnh và mã giao dịch. Trước khi đặt cọc, bạn cũng nên xem qua [bảng giá thuê xe máy](/bang-gia/) để biết cấu trúc giá theo ngày, theo tuần và theo tháng của cửa hàng, từ đó đoán được khoản cọc hợp lý cho kỳ thuê của mình.
 
-Nếu bạn cần tư vấn thêm về quy trình đặt cọc, giấy tờ khi thuê xe hoặc muốn tham khảo tổng quan về dịch vụ [thuê xe máy ở Hà Nội](/blog/thue-xe/), hãy ghé Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội. Cửa hàng mở cửa từ 09:00 tới 21:00 hằng ngày, điện thoại 0942 467 674. Đội ngũ tại chỗ sẽ giải thích rõ mức cọc, điều kiện hoàn và cách giữ bằng chứng trước khi bạn chuyển khoản.
+Nếu bạn cần tư vấn thêm về quy trình đặt cọc, giấy tờ khi thuê xe hoặc muốn tham khảo tổng quan về dịch vụ [thuê xe máy ở Hà Nội](/thue-xe/), hãy ghé Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội. Cửa hàng mở cửa từ 09:00 tới 21:00 hằng ngày, điện thoại 0942 467 674. Đội ngũ tại chỗ sẽ giải thích rõ mức cọc, điều kiện hoàn và cách giữ bằng chứng trước khi bạn chuyển khoản.

@@ -16,7 +16,7 @@ writer: W1
 
 Ra Hà Nội nhập học, đi làm thêm hay đi thực tập, xe máy gần như là phương tiện thiết yếu với sinh viên. Câu hỏi sinh viên thuê xe máy cần gì, chuẩn bị ra sao trước khi đến tiệm, vì vậy rất thực tế: chuẩn bị đủ giấy tờ, biết trước cách đặt cọc và chọn đúng loại xe sẽ giúp buổi nhận xe nhanh gọn, tránh phải quay lại vì thiếu thứ này thiếu thứ khác. Bài này đi từng bước những thứ nên chuẩn bị, kèm vài thói quen nhỏ giúp lần thuê đầu tiên suôn sẻ.
 
-Về tổng thể, nhóm bài về [thuê xe](/blog/thue-xe/) trả lời hầu hết tình huống thuê; giấy tờ và trình tự cụ thể nằm trong [thủ tục thuê xe](/blog/thue-xe/thu-tuc/); cách đặt cọc và điều kiện nhận lại cọc nằm ở phần [đặt cọc](/blog/thue-xe/dat-coc/); còn quy trình kiểm tra xe hai đầu nhận và trả được tóm tắt ở [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/).
+Về tổng thể, nhóm bài về [thuê xe](/thue-xe/) trả lời hầu hết tình huống thuê; giấy tờ và trình tự cụ thể nằm trong [thủ tục thuê xe](/thue-xe/thu-tuc/); cách đặt cọc và điều kiện nhận lại cọc nằm ở phần [đặt cọc](/thue-xe/dat-coc/); còn quy trình kiểm tra xe hai đầu nhận và trả được tóm tắt ở [nhận và trả xe](/thue-xe/nhan-tra-xe/).
 
 ## Giấy tờ cần mang theo khi đến tiệm
 
@@ -38,7 +38,7 @@ Trước khi nhận xe chính thức, hãy vòng thử một đoạn quanh khu t
 
 ## Chi phí thuê theo tháng nên tính thế nào
 
-Sinh viên thường hay so giữa thuê theo ngày và thuê theo tháng. Cách tính thô nhưng hiệu quả là lấy giá ngày nhân với số ngày thực sự cần đi, rồi so với báo giá theo tháng, có tính thêm phần gửi xe ở trường hoặc ở trọ. Tiền gửi xe tuy nhỏ nhưng cộng cả tháng cũng là một dòng chi, nên nhớ đưa vào phép so sánh. Chi tiết cách hiểu các loại giá thuê đã được tổng hợp ở phần [giá thuê](/blog/thue-xe/gia-thue/), còn đặc thù của gói dài ngày nằm trong bài về [thuê theo tháng](/blog/thue-xe/thue-thang/).
+Sinh viên thường hay so giữa thuê theo ngày và thuê theo tháng. Cách tính thô nhưng hiệu quả là lấy giá ngày nhân với số ngày thực sự cần đi, rồi so với báo giá theo tháng, có tính thêm phần gửi xe ở trường hoặc ở trọ. Tiền gửi xe tuy nhỏ nhưng cộng cả tháng cũng là một dòng chi, nên nhớ đưa vào phép so sánh. Chi tiết cách hiểu các loại giá thuê đã được tổng hợp ở phần [giá thuê](/thue-xe/gia-thue/), còn đặc thù của gói dài ngày nằm trong bài về [thuê theo tháng](/thue-xe/thue-thang/).
 
 Về lịch trả, hãy đặt lịch nhắc trước ngày đáo hạn một ngày, vì trả trễ có thể ảnh hưởng đến khoản cọc cũng như lịch xe của tiệm. Nếu kỳ học sắp nghỉ dài, hỏi trước chính sách tạm ngưng hoặc đổi kỳ, tránh để hợp đồng tự chạy khi bạn về quê cả tháng.
 

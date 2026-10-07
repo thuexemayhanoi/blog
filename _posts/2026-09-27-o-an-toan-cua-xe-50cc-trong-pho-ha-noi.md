@@ -43,4 +43,4 @@ Riêng với người cho con dùng xe 50cc, nên đi kèm trong những lần �
 
 ## Tóm lại
 
-Độ an toàn của xe 50cc trong phố Hà Nội nằm ở việc dùng đúng vùng vận hành của nó: đi chậm trong nội đô, tránh giờ cao điểm, giữ khoảng cách và luôn chủ động quan sát. Xe nhỏ cho bạn nhiều lợi thế trong ngõ và phố đông, nhưng cũng đòi hỏi bạn bù lại bằng sự tập trung. Để nâng cao kỹ năng xử lý các [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) thường gặp, hoặc tìm hiểu thêm về đặc tính dòng xe này, hãy xem chủ đề [xe 50cc](/blog/xe-may/xe-50cc/) trong tổng quan các [dòng xe máy](/blog/xe-may/).
+Độ an toàn của xe 50cc trong phố Hà Nội nằm ở việc dùng đúng vùng vận hành của nó: đi chậm trong nội đô, tránh giờ cao điểm, giữ khoảng cách và luôn chủ động quan sát. Xe nhỏ cho bạn nhiều lợi thế trong ngõ và phố đông, nhưng cũng đòi hỏi bạn bù lại bằng sự tập trung. Để nâng cao kỹ năng xử lý các [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) thường gặp, hoặc tìm hiểu thêm về đặc tính dòng xe này, hãy xem chủ đề [xe 50cc](/xe-may/xe-50cc/) trong tổng quan các [dòng xe máy](/xe-may/).

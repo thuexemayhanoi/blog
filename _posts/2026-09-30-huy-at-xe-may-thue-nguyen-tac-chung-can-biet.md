@@ -19,7 +19,7 @@ Kế hoạch thay đổi là chuyện rất thường ở Hà Nội: chuyến ba
 
 Điều đầu tiên cần hiểu là bản chất của việc đặt xe: khi bạn đặt, cửa hàng đưa một chiếc xe ra khỏi danh sách cho khách khác trong khung giờ bạn hẹn. Tức là từ lúc đặt tới lúc nhận, chiếc xe đó được giữ riêng cho bạn. Vì vậy hủy không phải là lỗi của ai, nhưng báo càng sớm, cửa hàng càng dễ xếp lại chiếc xe cho khách tiếp theo, và bạn càng để lại thiện cảm cho lần thuê sau.
 
-Chuẩn bị đặt xe thế nào cho rõ ràng thì phần [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) đã trình bày đầy đủ. Về hủy, nguyên tắc chung rút ra rất gọn: đặt xe qua điện thoại hay tin nhắn thì hủy cũng qua đúng kênh đó, nêu rõ tên, khung giờ đã hẹn và lý do ngắn gọn; sau đó nên nhận lại một câu xác nhận từ cửa hàng để hai bên đều rõ.
+Chuẩn bị đặt xe thế nào cho rõ ràng thì phần [thủ tục thuê xe máy](/thue-xe/thu-tuc/) đã trình bày đầy đủ. Về hủy, nguyên tắc chung rút ra rất gọn: đặt xe qua điện thoại hay tin nhắn thì hủy cũng qua đúng kênh đó, nêu rõ tên, khung giờ đã hẹn và lý do ngắn gọn; sau đó nên nhận lại một câu xác nhận từ cửa hàng để hai bên đều rõ.
 
 Cũng cần phân biệt hai tình huống hay bị gộp vào một. Hủy trước ngày nhận là kịch bản nhẹ: cửa hàng còn nhiều thời gian xếp lại, và hầu như không có gì phải bàn ngoài việc báo sớm. Hoãn sang một khung giờ khác cũng gần như một lần đặt mới, chỉ cần bạn nhắc lại dòng xe và thời lượng thuê mong muốn cho khung giờ mới, thay vì mặc định mọi điều kiện cũ còn giữ nguyên. Hai tình huống này xử lý nhẹ nhàng vì bạn vẫn giữ ý định thuê.
 
@@ -29,7 +29,7 @@ Tình huống nặng hơn là hủy hoàn toàn sau khi đã giữ chỗ lâu ng
 
 Nhiều khách lo nhất phần cọc khi hủy. Về khoản này, nguyên tắc quan trọng nhất là: điều kiện hoàn cọc thuộc về thỏa thuận riêng của từng lượt thuê, không có một mức hay một quy định cố định áp dụng cho mọi trường hợp. Lượt này bạn đặt cọc bằng tiền mặt, lượt khác giữ giấy tờ, và cách xử lý cọc khi hủy cũng phụ thuộc từng cửa hàng, từng thời điểm.
 
-Vì vậy, thời điểm tốt nhất để hỏi không phải là lúc bạn muốn hủy, mà là ngay lúc đặt xe. Câu hỏi nên gồm ba phần: cọc giữ bằng gì, hoàn cọc khi nào, và nếu hủy thì xử lý thế nào. Hỏi đủ ba phần trong một lượt giúp bạn yên tâm suốt kỳ chờ nhận xe. Cách cửa hàng xử lý cọc trong các tình huống thông thường được giải thích kỹ trong phần [tiền đặt cọc](/blog/thue-xe/dat-coc/).
+Vì vậy, thời điểm tốt nhất để hỏi không phải là lúc bạn muốn hủy, mà là ngay lúc đặt xe. Câu hỏi nên gồm ba phần: cọc giữ bằng gì, hoàn cọc khi nào, và nếu hủy thì xử lý thế nào. Hỏi đủ ba phần trong một lượt giúp bạn yên tâm suốt kỳ chờ nhận xe. Cách cửa hàng xử lý cọc trong các tình huống thông thường được giải thích kỹ trong phần [tiền đặt cọc](/thue-xe/dat-coc/).
 
 Trường hợp đặc biệt bạn nên tránh là đặt xe rồi không đến nhận: đến đúng giờ hẹn mà không thấy khách, cửa hàng thường phải chờ và không biết xếp xe cho ai khác, vì vậy ôm thiệt cả thời gian lẫn một lượt xe. Nếu bạn biết trước không đến được, một cuộc gọi trước giờ hẹn giải quyết gần hết mọi rắc rối. Đây cũng là nét văn hóa thuê xe đáng giữ: người ta nhớ khách báo sớm, và cũng nhớ khách bặt vô âm tín.
 
@@ -41,4 +41,4 @@ Với khách thuê theo nhóm hay theo đoàn, việc hủy càng cần báo s�
 
 Một thói quen nhỏ giúp bạn không bao giờ rơi vào tình huống khó xử: sau khi đặt xe, lưu lại tin nhắn chốt với cửa hàng vào một nơi dễ tìm, kèm số điện thoại liên hệ. Đến khi kế hoạch đổi, bạn không phải lục lại bộ nhớ xem mình hẹn ngày nào, giờ nào, xe gì, mà chỉ cần mở ra đọc và gọi. Với người thuê thường xuyên, đây là cách rẻ nhất để mọi lần hủy đều nhẹ như một tin nhắn.
 
-Cuối cùng, giữ cách giao tiếp đơn giản và trung thực: nói đúng khung giờ bạn dự kiến đến nhận xe, báo ngay khi có thay đổi, và không hứa rồi bỏ. Những nguyên tắc nghe có vẻ nhỏ này chính là thứ làm cho lần thuê sau của bạn suôn sẻ hơn, và là lý do nhiều khách ở Hà Nội gọi lại cửa hàng quen như gọi một người bạn đường phố. Khi cần đặt lại lịch hay hỏi thêm điều khoản trước khi đặt, bạn có thể liên hệ trực tiếp theo số 0942467674, trong giờ làm việc từ 09:00 đến 21:00, hoặc xem lại toàn bộ các bước tại trang chủ đề [thuê xe máy](/blog/thue-xe/).
+Cuối cùng, giữ cách giao tiếp đơn giản và trung thực: nói đúng khung giờ bạn dự kiến đến nhận xe, báo ngay khi có thay đổi, và không hứa rồi bỏ. Những nguyên tắc nghe có vẻ nhỏ này chính là thứ làm cho lần thuê sau của bạn suôn sẻ hơn, và là lý do nhiều khách ở Hà Nội gọi lại cửa hàng quen như gọi một người bạn đường phố. Khi cần đặt lại lịch hay hỏi thêm điều khoản trước khi đặt, bạn có thể liên hệ trực tiếp theo số 0942467674, trong giờ làm việc từ 09:00 đến 21:00, hoặc xem lại toàn bộ các bước tại trang chủ đề [thuê xe máy](/thue-xe/).

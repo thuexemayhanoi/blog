@@ -44,6 +44,6 @@ Tốc độ chở cây cao cần chậm và đều, tránh làn nhanh. Cây cao 
 
 Gió lớn và mưa là hai điều kiện nên hoãn chuyến đi cây lớn, cây cao đón gió như một cánh buồm trên yên sau. Nếu giữa chặng trời đổ mưa, dừng dưới mái chờ, vì chậu ướt trơn và tay lái ướt cùng lúc là hai rủi ro cộng dồn. Về tới nhà, tháo dây theo thứ tự ngược lúc buộc, và nhấc chậu bằng lực chân chứ không phải lưng.
 
-Cách chở các loại cây nhỏ hơn được kể trong bài [chở hoa cây cảnh trên xe máy an toàn](/blog/ky-nang/2026/10/04/cho-hoa-cay-canh-tren-xe-may-an-toan/). Tổng quan về chở đồ và hành lý nằm trong mục [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Cách chở các loại cây nhỏ hơn được kể trong bài [chở hoa cây cảnh trên xe máy an toàn](/ky-nang/2026/10/04/cho-hoa-cay-canh-tren-xe-may-an-toan/). Tổng quan về chở đồ và hành lý nằm trong mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Chở cây kiểng chậu lớn về nhà, cuối cùng, là bài của chuẩn bị: chọn đúng nhóm cây, bọc gốc và lá, buộc hai vòng qua điểm đỡ thật, và chạy chậm theo kiểu chở hàng. Làm tròn các bước đó thì cây về tới nhà còn xanh, chậu còn nguyên, và người lái còn nguyên vẹn.

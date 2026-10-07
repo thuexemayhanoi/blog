@@ -48,6 +48,6 @@ Mang giày êm, nước và mũ, vì phần lớn lộ trình là ngoài trời,
 
 Với người thuê xe theo ngày, tính thêm quãng từ công viên về cửa hàng khi hẹn giờ trả, vì trục Cầu Giấy giờ tan tầm đông. Ra về trước giờ cao điểm giúp buổi chạy nhẹ hơn, và để dành chút thời gian ghé các khu lân cận nếu còn dư. Ghi lại khung giờ thực tế sau lần đầu, và lần sau kế hoạch sẽ sát hơn.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, đến Công viên Nghĩa Đô bằng xe máy dễ nếu nắm ba điều: vườn nằm ven sông Tô Lịch trong khu đô thị Cầu Giấy, đường lên phía tây theo các trục quen, và bãi gửi xe quanh cổng kín sớm vào cuối tuần. Tra giờ mở cửa mới nhất, gửi xe nơi có người trông và giữ phi. Với khách thuê xe, hỏi trước về bãi quen và tính giờ về trước giờ cao điểm.

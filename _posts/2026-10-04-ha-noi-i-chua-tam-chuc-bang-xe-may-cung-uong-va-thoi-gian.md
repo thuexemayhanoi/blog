@@ -48,6 +48,6 @@ Xe máy đi trục nam cần kỷ luật đường trường: lốp đủ, phanh
 
 Ai mới thuê xe máy lần đầu nên đi cung này vào ngày thường trước khi thử khung cuối tuần đông: đường đẹp nhưng dài, và kinh nghiệm giữ nhịp đều trên đường trường là thứ đáng tập nhất trước các cung xa hơn.
 
-Muốn đọc thêm các tuyến cuối tuần khác, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các cung đã có bài; lưu ý thời tiết và đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung cho mọi hướng đi. Người mới chạy cung nên lướt mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm các tuyến cuối tuần khác, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các cung đã có bài; lưu ý thời tiết và đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung cho mọi hướng đi. Người mới chạy cung nên lướt mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Một ngày hướng nam: đường trường qua đồng chiêm, khu chùa rộng bên hồ, và quãng về khi chiều muộn. Cung Tam Chúc dài vậy mà không mệt, chỉ cần xếp giờ đúng — và khu chùa xanh sẽ trả công cho chuyện dậy sớm của bạn.

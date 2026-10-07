@@ -30,13 +30,13 @@ Khu du lịch Ao Vua có bãi đỗ xe rộng phục vụ khách tham quan. Bạ
 
 Trước khi vào khu du lịch, hãy để đồ đắt giá theo người hoặc khóa trong cốp xe. Cài khóa cổ và giữ chìa khóa bên mình. Nếu bạn mang theo đồ ăn, nhớ khu du lịch thường có quy định riêng về mang thực phẩm vào khu, nên hỏi trước ở quầy vé cho khỏi lúng túng. Các dịch vụ như thuyền, trò chơi trong khu đều có người hướng dẫn, bạn cứ hỏi thẳng khi cần.
 
-Khu Ao Vua có nhiều bóng cây, cảnh quan hồ nhỏ và vườn hoa, hợp để dã ngoại nhẹ. Khung trời se lạnh đầu mùa hoặc chiều muộn rất dễ chịu. Với nhóm đi nhiều xe, hẹn chỗ tập trung cụ thể trong khu để cuối buổi ra về gom xe nhanh, tránh tình trạng mỗi người một hướng trong bãi xe rộng. Nếu định kết hợp thêm điểm khác cùng phía tây, các gợi ý lộ trình quanh vùng được tổng hợp trong bài [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/blog/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/).
+Khu Ao Vua có nhiều bóng cây, cảnh quan hồ nhỏ và vườn hoa, hợp để dã ngoại nhẹ. Khung trời se lạnh đầu mùa hoặc chiều muộn rất dễ chịu. Với nhóm đi nhiều xe, hẹn chỗ tập trung cụ thể trong khu để cuối buổi ra về gom xe nhanh, tránh tình trạng mỗi người một hướng trong bãi xe rộng. Nếu định kết hợp thêm điểm khác cùng phía tây, các gợi ý lộ trình quanh vùng được tổng hợp trong bài [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/).
 
 ## Kết hợp Ao Vua trong lộ trình ngày cuối tuần
 
 Ao Vua nằm gần các điểm khác của Ba Vì nên dễ gộp thành lộ trình trọn ngày. Phương án một: sáng đi Ao Vua, chơi và ăn trưa tại khu du lịch, chiều chạy tiếp lên chân núi Ba Vì ngắm cảnh rồi về. Phương án hai: sáng ghé hồ Đồng Mô trước, chiều mới sang Ao Vua, vì hai điểm cùng hướng tây và cách nhau không xa. Hai điểm cùng hướng tây nên việc nối tiếp nhau khá thuận tiện, bạn chỉ cần cân thời gian để không phải về trong giờ cao điểm.
 
-Danh mục các điểm và lộ trình khác quanh vùng được gom trong mục [ngoại thành hà nội](/blog/du-lich/ngoai-thanh/), còn nếu cần tham khảo thêm nhiều lựa chọn chơi quanh Hà Nội thì xem mục [du lịch](/blog/du-lich/). Với người lần đầu chạy cung đường dài, các lưu ý về nghỉ giữa đường, giữ khoảng cách và kiểm tra xe có trong mục [kinh nghiệm](/blog/kinh-nghiem/), đáng để dành vài phút đọc trước khi đi.
+Danh mục các điểm và lộ trình khác quanh vùng được gom trong mục [ngoại thành hà nội](/du-lich/ngoai-thanh/), còn nếu cần tham khảo thêm nhiều lựa chọn chơi quanh Hà Nội thì xem mục [du lịch](/du-lich/). Với người lần đầu chạy cung đường dài, các lưu ý về nghỉ giữa đường, giữ khoảng cách và kiểm tra xe có trong mục [kinh nghiệm](/kinh-nghiem/), đáng để dành vài phút đọc trước khi đi.
 
 Về lịch trình giờ giấc: khởi hành bảy giờ sáng từ nội đô, đến Ao Vua khoảng chín giờ, chơi ba tiếng, ăn trưa, và lên đường về khoảng hai giờ chiều là vừa đẹp. Về sớm giúp bạn tránh giờ cao điểm chiều ở cửa ngõ tây thành phố, đồng thời không phải chạy đường tỉnh lúc chạng vạng tối. Nếu đi mùa mưa, theo dõi dự báo thời tiết trước, vì đường tỉnh trơn và khu du lịch ít vui khi mưa to.
 

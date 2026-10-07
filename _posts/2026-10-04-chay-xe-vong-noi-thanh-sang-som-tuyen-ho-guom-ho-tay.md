@@ -30,7 +30,7 @@ Nếu bạn mới thuê xe máy và chưa quen các phố một chiều quanh tr
 
 Điểm dừng thứ hai là đoạn đường Thanh Niên giữa hai hồ. Từ đây nhìn ra Hồ Tây, mặt nước rộng và những ngôi chùa ven hồ in bóng mờ trên nước. Nếu trời trong, mặt trời mọc ở phía bên kia bờ khiến cả mặt hồ sáng dần lên từng phút. Chụp ảnh ở đây buổi sớm không lo người qua lại lọt vào khung hình.
 
-Điểm dừng thứ ba là các đoạn kè ven Hồ Tây quanh đường Xuân Diệu, nơi có góc ngồi nhìn nước và các quán nhỏ sớm. Bạn có thể đọc thêm các gợi ý quanh bờ hồ trong bài [hồ Tây lân cận](/blog/du-lich/ho-tay/), và nếu muốn mở rộng cung chạy ra ngoại thành vào cuối tuần thì xem mục [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) với nhiều lộ trình đã được ghi lại.
+Điểm dừng thứ ba là các đoạn kè ven Hồ Tây quanh đường Xuân Diệu, nơi có góc ngồi nhìn nước và các quán nhỏ sớm. Bạn có thể đọc thêm các gợi ý quanh bờ hồ trong bài [hồ Tây lân cận](/du-lich/ho-tay/), và nếu muốn mở rộng cung chạy ra ngoại thành vào cuối tuần thì xem mục [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) với nhiều lộ trình đã được ghi lại.
 
 ## Lưu ý an toàn khi chạy xe nội thành sáng sớm
 
@@ -46,4 +46,4 @@ Khung giờ đẹp nhất là từ năm giờ đến bảy giờ sáng. Trước
 
 Nếu đi nhóm, hẹn điểm tập trung cụ thể và chạy hàng một, giữ nhịp chậm của người yếu nhất trong nhóm. Nhóm chạy sáng sớm nên tránh bấm còi inh ỏi quanh khu dân cư, giữ sự nhẹ nhàng đúng chất buổi sớm. Khi về qua các ngõ nhỏ, đi chậm và quan sát gương.
 
-Tuyến Hồ Gươm – Hồ Tây chứng minh rằng không cần đi xa vẫn có một cung chạy xe đẹp: chỉ cần dậy sớm một chút, khách thuê xe máy Hà Nội đã có trong tay một buổi sáng đáng giá giữa lòng thành phố. Nếu bạn muốn tham khảo các cung đường khác cho những ngày khác, mục [cung đường](/blog/cung-duong/) tổng hợp nhiều lộ trình ngắn và dài quanh Hà Nội.
+Tuyến Hồ Gươm – Hồ Tây chứng minh rằng không cần đi xa vẫn có một cung chạy xe đẹp: chỉ cần dậy sớm một chút, khách thuê xe máy Hà Nội đã có trong tay một buổi sáng đáng giá giữa lòng thành phố. Nếu bạn muốn tham khảo các cung đường khác cho những ngày khác, mục [cung đường](/cung-duong/) tổng hợp nhiều lộ trình ngắn và dài quanh Hà Nội.

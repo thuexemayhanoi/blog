@@ -31,7 +31,7 @@ Về dòng xe, người dưới 18 tuổi phần lớn chỉ được chạy xe 
 
 Phía pháp lý, độ tuổi gắn trực tiếp với loại xe: theo quy định hiện hành, người đủ 16 tuổi được điều khiển xe gắn máy có dung tích xi-lanh dưới 50 cm³, còn người đủ 18 tuổi mới được điều khiển xe hai bánh từ 50 cm³ trở lên. Như vậy một bạn 17 tuổi có thể hợp pháp chạy xe dưới 50 cm³, nhưng chưa đủ tuổi chạy xe số 110 cc hay 125 cc thông thường. Yêu cầu về tuổi thuê xe máy vì thế luôn đi kèm câu hỏi bạn định chạy loại xe nào.
 
-Khi đủ 18 tuổi, nhiều bạn đăng ký sát hạch [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/) hạng A1 trước khi tính chuyện thuê xe dài hạn. Khoảng cách giữa ngày đăng ký và ngày nhận bằng thường tính theo tuần, nên nếu bạn đang ở tuổi 17, hãy dự trù sẵn kế hoạch này thay vì thuê xe trước rồi để xe nằm bãi.
+Khi đủ 18 tuổi, nhiều bạn đăng ký sát hạch [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) hạng A1 trước khi tính chuyện thuê xe dài hạn. Khoảng cách giữa ngày đăng ký và ngày nhận bằng thường tính theo tuần, nên nếu bạn đang ở tuổi 17, hãy dự trù sẵn kế hoạch này thay vì thuê xe trước rồi để xe nằm bãi.
 
 Điểm dễ nhầm nhất giữa hai mốc 16 và 18: nhiều bạn nghĩ đủ 16 tuổi là chạy được mọi xe máy. Trên thực tế mốc 16 chỉ áp dụng cho nhóm xe gắn máy dưới 50 cm³, trong khi dòng xe số phổ thông từ 110 cc trở lên cần người lái đủ 18 tuổi và có giấy phép tương ứng.
 
@@ -51,4 +51,4 @@ Hỏi: tôi 16 tuổi và chưa có giấy tờ lái nào, có cách nào thuê 
 
 Nói chung, câu hỏi tuổi tác chỉ phức tạp khi bạn chưa tách rõ hai mốc. Khi đã hiểu hợp đồng là chuyện của người trên 18 tuổi còn điều khiển xe là chuyện của người có giấy phép phù hợp, mọi tình huống đều có câu trả lời nhanh.
 
-Điều kiện về tuổi, giấy tờ và loại xe được tóm tắt trong bài [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), các câu hỏi tương tự được gom trong nhóm [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) của mục [hỏi đáp](/blog/hoi-dap/). Để xác nhận nhanh cho trường hợp cụ thể của mình, hãy gọi Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+Điều kiện về tuổi, giấy tờ và loại xe được tóm tắt trong bài [thủ tục thuê xe](/thue-xe/thu-tuc/), các câu hỏi tương tự được gom trong nhóm [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/) của mục [hỏi đáp](/hoi-dap/). Để xác nhận nhanh cho trường hợp cụ thể của mình, hãy gọi Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.

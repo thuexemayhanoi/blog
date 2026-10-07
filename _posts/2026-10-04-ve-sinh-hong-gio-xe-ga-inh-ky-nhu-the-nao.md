@@ -52,6 +52,6 @@ Hai thói quen giữ họng gió sạch lâu: tránh chạy sát sau xe tải ch
 
 Thói quen thứ ba là che xe khi để qua đêm ở nơi bụi tấp hoặc gần công trường. Một tấm che mỏng không tốn mấy, nhưng chặn được lớp bụi lắng mỗi đêm, và lớp bụi đó nếu không bị chặn thì một phần sẽ vào họng gió sáng hôm sau.
 
-Bạn có thể xem thêm đặc điểm dòng xe ga trong trang [xe ga](/blog/xe-may/xe-ga/), các hạng mục bảo dưỡng theo kỳ trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), tổng quan các dòng xe trong trang [xe máy](/blog/xe-may/), và các kinh nghiệm chạy phố trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm đặc điểm dòng xe ga trong trang [xe ga](/xe-may/xe-ga/), các hạng mục bảo dưỡng theo kỳ trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/), tổng quan các dòng xe trong trang [xe máy](/xe-may/), và các kinh nghiệm chạy phố trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, vệ sinh họng gió xe ga định kỳ gói trong nhịp dễ nhớ: soi họng gió mỗi lần thay nhớt, làm sạch khi bụi dày, và lắp lại khi khô hoàn toàn. Phần lớn việc này không cần kỹ năng gì đặc biệt, chỉ cần không quên, và với xe chạy quanh Hà Nội thì không quên chính là phần khó nhất.

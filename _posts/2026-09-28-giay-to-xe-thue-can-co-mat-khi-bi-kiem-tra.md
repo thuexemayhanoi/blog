@@ -41,7 +41,7 @@ Hợp đồng hoặc biên nhận thuê xe là văn bản nối bạn với ch�
 
 Hợp đồng cũng là căn cứ để phân định trách nhiệm khi có sự cố: ai chịu tiền sửa xe, ai xử lý giấy tờ xe khi cần, thời điểm giao và trả xe. Nhớ giữ một bản chụp trên điện thoại, để không may mất bản giấy thì vẫn có bản đối chiếu.
 
-Với người thuê lần đầu, nội dung cần chuẩn bị trước khi đến cửa hàng được tóm tắt trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/), còn các thủ tục liên quan tới quy trình thuê nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/). Các chủ đề giấy tờ được gộp trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/), còn kiến thức luật giao thông dành cho người đi xe nằm trong trang [an toàn pháp lý](/blog/an-toan-phap-ly/).
+Với người thuê lần đầu, nội dung cần chuẩn bị trước khi đến cửa hàng được tóm tắt trong bài [giấy tờ thuê xe máy ở Hà Nội](/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/), còn các thủ tục liên quan tới quy trình thuê nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/). Các chủ đề giấy tờ được gộp trong trang [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/), còn kiến thức luật giao thông dành cho người đi xe nằm trong trang [an toàn pháp lý](/an-toan-phap-ly/).
 
 ## Kịch bản bị dừng kiểm tra giữa kỳ thuê
 
@@ -53,7 +53,7 @@ Khi bị dừng kiểm tra khi đi xe thuê, hãy xử lý theo trình tự sau:
 - Không để người lạ nhận xe hộ hay ký giấy gì khi chưa hiểu rõ nội dung.
 
 Tình huống bị kiểm tra giữa kỳ thuê t
-hường gây hồi hộp hơn thực tế, vì đa số chỉ là kiểm tra định kỳ. Chủ động chuẩn bị giấy tờ đầy đủ biến buổi kiểm tra thành thủ tục năm phút. Những điều cần lưu ý khi bị kiểm tra giấy tờ khi đi xe thuê được kể kỹ hơn trong bài [bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì](/blog/kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/).
+hường gây hồi hộp hơn thực tế, vì đa số chỉ là kiểm tra định kỳ. Chủ động chuẩn bị giấy tờ đầy đủ biến buổi kiểm tra thành thủ tục năm phút. Những điều cần lưu ý khi bị kiểm tra giấy tờ khi đi xe thuê được kể kỹ hơn trong bài [bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì](/kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/).
 
 Một thói quen đáng hình thành: trước mỗi chuyến đi xa bằng xe thuê, chụp lại toàn bộ giấy tờ của xe và người giữ trên điện thoại. Khi ví hay bản sao đăng ký bị mất giữa đường, bộ ảnh này giúp bạn trình được thông tin ngay và liên hệ cửa hàng nhanh hơn hẳn.
 

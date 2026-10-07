@@ -17,7 +17,7 @@ Khác với khách công tác, du khách ở lại Hà Nội năm bảy ngày th
 
 ## Thuê xe tuần cho du khách: gói tuần khác gì thuê lẻ ngày
 
-Khác biệt đầu tiên nằm ở cách tính tiền. Gói tuần được niêm yết thấp hơn so với giá ngày nhân bảy: ví dụ nhóm xe ga Honda Click, Yamaha Mio có gói tuần từ khoảng 600.000đ đến 700.000đ, nhóm Honda Vision, Honda Air Blade ở mức cao hơn từ khoảng 800.000đ, so với 150.000đ đến 200.000đ nếu tính từng ngày lẻ. Với kỳ nghỉ bảy ngày, khoảng chênh đó là một bữa ăn ngon hoặc một buổi chiều thêm spa cho đôi chân đã đi mỏi. Các mức tham chiếu đầy đủ luôn có trong phần [thuê xe theo tuần](/blog/thue-xe/thue-tuan/).
+Khác biệt đầu tiên nằm ở cách tính tiền. Gói tuần được niêm yết thấp hơn so với giá ngày nhân bảy: ví dụ nhóm xe ga Honda Click, Yamaha Mio có gói tuần từ khoảng 600.000đ đến 700.000đ, nhóm Honda Vision, Honda Air Blade ở mức cao hơn từ khoảng 800.000đ, so với 150.000đ đến 200.000đ nếu tính từng ngày lẻ. Với kỳ nghỉ bảy ngày, khoảng chênh đó là một bữa ăn ngon hoặc một buổi chiều thêm spa cho đôi chân đã đi mỏi. Các mức tham chiếu đầy đủ luôn có trong phần [thuê xe theo tuần](/thue-xe/thue-tuan/).
 
 Khác biệt thứ hai là cách lên lịch. Du khách thuê xe 1 tuần hà nội thường không phải đi lại quãng đều mỗi ngày như người đi làm: hôm thì quanh phố cổ, hôm ra ngoại thành, hôm lại để xe nghỉ ở khách sạn vì cả ngày xếp tour. Gói tuần hợp với chính nhịp đó: một giá trọn bảy ngày, bạn đi nhiều hay ít thì chi phí vẫn là một con số đã biết, không phải ngồi tính lại từng tối.
 
@@ -31,7 +31,7 @@ Phần đặt cọc cũng cần hỏi rõ cùng lúc: cọc giữ bằng tiền 
 
 ## Xếp lịch bảy ngày quanh Hà Nội
 
-Với một tuần trong tay, cách chia lịch hay dùng nhất là ba lớp: hai ba ngày gần trung tâm, một hai ngày ngoại thành, và một ngày dành cho việc tự nhiên xả hơi. Những ngày gần: dạo quanh phố cổ, hồ và các cụm chùa đình trong nội thành, loại chặng ngắn mà ngày nào cũng đi được. Ngày xa hơn: các vùng ven như Thạch Thất, Sơn Tây hay hướng sông Hồng, mỗi hướng một ngày, về chạng vạng buổi chiều. Danh sách điểm đến gợi ý theo khu vực được tổng hợp trong phần [điểm đến du lịch](/blog/du-lich/diem-den/), tiện cho bạn khoanh vùng trước khi xuất phát.
+Với một tuần trong tay, cách chia lịch hay dùng nhất là ba lớp: hai ba ngày gần trung tâm, một hai ngày ngoại thành, và một ngày dành cho việc tự nhiên xả hơi. Những ngày gần: dạo quanh phố cổ, hồ và các cụm chùa đình trong nội thành, loại chặng ngắn mà ngày nào cũng đi được. Ngày xa hơn: các vùng ven như Thạch Thất, Sơn Tây hay hướng sông Hồng, mỗi hướng một ngày, về chạng vạng buổi chiều. Danh sách điểm đến gợi ý theo khu vực được tổng hợp trong phần [điểm đến du lịch](/du-lich/diem-den/), tiện cho bạn khoanh vùng trước khi xuất phát.
 
 Một lưu ý nhỏ nhưng đáng giá: giữa tuần, hãy để một ngày nghỉ xe. Du khách thường đánh giá thấp quãng đường đi bộ trong các ngày phố, và một ngày không lái giúp phần còn lại của tuần khỏe hơn. Cũng nên nhớ mùa mưa hạ dồn các cơn mưa rào vào buổi chiều muộn: lịch đi xa nên đặt sáng sớm, để về trước lúc trời sập.
 
@@ -39,7 +39,7 @@ Một lưu ý nhỏ nhưng đáng giá: giữa tuần, hãy để một ngày ng
 
 Ngày cuối tuần, phần trả xe nên làm ung dung: chốt trước với cửa hàng giờ trả tại địa điểm nhận, kiểm tra lại hiện trạng xe cùng ảnh chụp ngày nhận, đối chiếu phần cọc được hoàn đủ, và xin cửa hàng xác nhận rõ ràng việc đã kết thúc. Với du khách bay sớm sáng hôm sau, tốt nhất trả xe từ tối hôm trước, phần giấy tờ hoặc tiền cọc về đủ tay, để buổi lên máy bay không phải nghĩ thêm chuyện gì.
 
-Tóm lại, thuê xe theo tuần cho du khách ở lại Hà Nội là cách biến chi phí di chuyển của cả tuần thành một con số biết trước: gói tuần rẻ hơn thuê lẻ, giấy tờ và cọc hỏi rõ một lượt lúc đặt, và lịch đi chia ba lớp gần, xa và nghỉ. Khi tuần của bạn đóng lại ở sân bay, chiếc xe đã về chỗ, phần cọc đã về tay, mọi bước chuẩn bị của chuyến thuê được tóm tắt tại trang chủ đề [thuê xe máy](/blog/thue-xe/), và dư âm còn lại chỉ là những con đường bạn đã kịp đi.
+Tóm lại, thuê xe theo tuần cho du khách ở lại Hà Nội là cách biến chi phí di chuyển của cả tuần thành một con số biết trước: gói tuần rẻ hơn thuê lẻ, giấy tờ và cọc hỏi rõ một lượt lúc đặt, và lịch đi chia ba lớp gần, xa và nghỉ. Khi tuần của bạn đóng lại ở sân bay, chiếc xe đã về chỗ, phần cọc đã về tay, mọi bước chuẩn bị của chuyến thuê được tóm tắt tại trang chủ đề [thuê xe máy](/thue-xe/), và dư âm còn lại chỉ là những con đường bạn đã kịp đi.
 
 Một chi tiết thực tế chốt lại cho ai lần đầu lái xe tại Hà Nội: vài ngày đầu, hãy để lộ trình ngắn và tự tin dần lên, vì dòng chảy giao thông ở đây có nhịp riêng mà không mô tả nào thay được vài giờ cầm lái. Chừng ngày thứ ba, phần lớn du khách đã thấy mình đọc được đường như dân bản xứ, và đó chính là lúc khoản tiền gói tuần của bạn bắt đầu sinh lời bằng từng buổi chiều tự do.
 

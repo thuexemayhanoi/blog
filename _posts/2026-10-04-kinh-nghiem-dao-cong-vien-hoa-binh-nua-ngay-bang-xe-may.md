@@ -44,6 +44,6 @@ Trước khi rời khu Hà Đông, ghé đổ đầy bầu xăng nếu đường
 
 Một nửa ngày chuẩn quanh Hòa Bình: sớm tới, gửi xe mé công viên, vòng bộ nội khu, ăn sáng muộn quanh chợ, ghé lối ven sông nếu còn giờ, và về trước khung tối đông. Nhóm đi đông chốt trước từng điểm hẹn, mỗi chặng một bãi xe duy nhất, điện thoại giữ pin cho việc tra giờ và liên lạc.
 
-Điểm dạo khác gom tại chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/); các lưu ý giữ xe trong khu đông nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi lịch trình nửa ngày. Ai muốn nắm nhanh vài quy tắc giao thông trước trục lớn thì mục [kinh nghiệm](/blog/kinh-nghiem/) là chỗ đọc ngắn mà đủ dùng.
+Điểm dạo khác gom tại chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/); các lưu ý giữ xe trong khu đông nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/du-lich/) là mục lục chung cho mọi lịch trình nửa ngày. Ai muốn nắm nhanh vài quy tắc giao thông trước trục lớn thì mục [kinh nghiệm](/kinh-nghiem/) là chỗ đọc ngắn mà đủ dùng.
 
 Một nửa ngày Hà Nội khác biệt: cỏ xanh quận Hà Đông, chợ phiên quen, và quãng xe về khi phố lên đèn. Đủ gần để đi lại, đủ xa để thấy như đã đi chơi thật.

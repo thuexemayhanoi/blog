@@ -48,4 +48,4 @@ Với người thuê đi làm quanh phố, mỗi ngày leo hè vài lần: kiể
 
 Đáng luyện tập leo hè ở chỗ quen với mép thấp trước khi gặp hè cao thật: kỹ năng này thuộc nhóm phản xạ, và mười lần leo nhẹ ở chỗ vắng cho bạn ngưỡng ga chuẩn cho mọi lần leo sau, mà không cần nghĩ. Kỹ năng leo hè đẹp còn là chi tiết khiến người cùng đường nhận ra: chiếc xe trôi lên nhẹ tênh, không gằn máy, không hất nắp hè, và cả buổi đi trong phố vì thế êm hơn hẳn từ những khoảnh khắc nhỏ như thế.
 
-Ai muốn ôn thêm các nền tảng của kỹ năng lái thì xem [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), tìm hiểu dòng xe tay ga thì vào trang [xe tay ga](/blog/xe-may/xe-ga/), và tổng quan các dòng xe cho thuê ở Hà Nội nằm tại [mục xe máy](/blog/xe-may/).
+Ai muốn ôn thêm các nền tảng của kỹ năng lái thì xem [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), tìm hiểu dòng xe tay ga thì vào trang [xe tay ga](/xe-may/xe-ga/), và tổng quan các dòng xe cho thuê ở Hà Nội nằm tại [mục xe máy](/xe-may/).

@@ -29,7 +29,7 @@ Nhiều khi xe bị ngắt đầu còn tiến lệch về một bên, vì ngư�
 
 ## Biết phản xạ khi xe trước phanh gấp: ba bước trong hai giây đầu
 
-Bước thứ nhất là buông ga ngay và bóp hai phanh phối hợp: phanh trước là lực chính nhưng ghì nhẹ và tăng dần, phanh sau giữ để xe không văng đuôi. Thao tác phối hợp [phanh trước phanh sau dùng thế nào](/blog/ky-nang/2026/09/29/phanh-truoc-phanh-sau-dung-the-nao/) đã được phân tích chi tiết trong một bài riêng, bạn nên đọc kỹ trước khi mang ra áp dụng.
+Bước thứ nhất là buông ga ngay và bóp hai phanh phối hợp: phanh trước là lực chính nhưng ghì nhẹ và tăng dần, phanh sau giữ để xe không văng đuôi. Thao tác phối hợp [phanh trước phanh sau dùng thế nào](/ky-nang/2026/09/29/phanh-truoc-phanh-sau-dung-the-nao/) đã được phân tích chi tiết trong một bài riêng, bạn nên đọc kỹ trước khi mang ra áp dụng.
 
 Bước thứ hai là giữ tay lái thẳng và hai tay ôm chắc ghi đông, không đánh vẹo xe trong lúc phanh. Đánh lái khi phanh gấp khiến bánh xe dễ mất bám đường, nhất là mặt đường có cát hoặc dầu trơn. Chỉ khi tốc độ đã xuống thấp, bạn mới bắt đầu nghiêng người liếc gương và tìm lối thoát sang làn bên cạnh.
 
@@ -51,8 +51,8 @@ Với xe máy, khoảng cách an toàn còn phụ thuộc tải xe và tình tr�
 
 Phản xạ không tự nhiên mà có; nó là kết quả của việc lặp lại tới khi tay và chân tự biết việc của mình. Bạn có thể tập trên đường vắng: chọn điểm mốc, phanh dừng đúng vị trí đặt ra từ trước, rồi giảm dần khoảng cách cho phép để cảm nhận giới hạn của xe và của chính mình. Vài buổi tập như vậy sẽ khiến thao tác phanh phối hợp trở thành bản năng thay vì hành động phải suy nghĩ.
 
-Nếu bạn mới lái hoặc đang luyện để tự tin len dòng xe Hà Nội, chuyên mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) đi sâu vào từng tình huống thực tế, từ vòng xuyến đến xe buýt ghép làn. Tổng hợp rộng hơn nằm ở trang [kỹ năng cho người đi xe máy](/blog/ky-nang/), nơi bạn chọn đúng chủ đề cần luyện trước mỗi chuyến đi dài.
+Nếu bạn mới lái hoặc đang luyện để tự tin len dòng xe Hà Nội, chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) đi sâu vào từng tình huống thực tế, từ vòng xuyến đến xe buýt ghép làn. Tổng hợp rộng hơn nằm ở trang [kỹ năng cho người đi xe máy](/ky-nang/), nơi bạn chọn đúng chủ đề cần luyện trước mỗi chuyến đi dài.
 
 ## Lời kết
 
-Kỹ năng xử lý khi xe phía trước ngắt đầu không đến trong một ngày, nhưng mỗi lần chủ động giữ khoảng cách và hướng nhìn xa hơn là một lần bạn xoá bớt rủi ro. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước khi nhận xe, hãy hỏi rõ độ nhạy của phanh, rồi tham khảo mục [tình huống trên đường](/blog/ky-nang/tinh-huong-giao-thong/) và trang [kỹ năng tổng hợp](/blog/ky-nang/) cho hành trình an toàn hơn.
+Kỹ năng xử lý khi xe phía trước ngắt đầu không đến trong một ngày, nhưng mỗi lần chủ động giữ khoảng cách và hướng nhìn xa hơn là một lần bạn xoá bớt rủi ro. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước khi nhận xe, hãy hỏi rõ độ nhạy của phanh, rồi tham khảo mục [tình huống trên đường](/ky-nang/tinh-huong-giao-thong/) và trang [kỹ năng tổng hợp](/ky-nang/) cho hành trình an toàn hơn.

@@ -16,7 +16,7 @@ writer: W1
 
 Chuyến bay về lúc nửa đêm, đoàn tàu đến ga khi phố đã tắt đèn, và chiếc xe máy thuê vẫn còn trong tay: đây là tình huống rất thường gặp với khách thuê xe ở Hà Nội, và câu hỏi trả xe máy thuê ngoài giờ mở cửa xử lý thế nào không có một đáp án duy nhất, mà phụ thuộc vào thỏa thuận bạn đã có với tiệm từ lúc nhận xe. Trả xe khi tiệm đóng cửa nếu không được sắp đặt trước sẽ để lại kẽ hở cho tranh cãi về tình trạng xe và khoản cọc. Bài viết này đi qua các kịch bản, cách báo trước, và bằng chứng nên giữ để mọi chuyện gọn gàng.
 
-Tổng quan quy trình nhận và trả xe nằm trong phần [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), còn các thắc mắc chung về thuê nằm ở trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan quy trình nhận và trả xe nằm trong phần [nhận trả xe](/thue-xe/nhan-tra-xe/), còn các thắc mắc chung về thuê nằm ở trang [thuê xe máy](/thue-xe/).
 
 ## Nguyên tắc chung khi trả xe máy thuê ngoài giờ mở cửa
 
@@ -30,13 +30,13 @@ Kịch bản một: chủ xe ở gần và đồng ý ra nhận ngoài giờ. Đ
 
 Kịch bản ba: chủ xe cho giữ xe qua đêm, trả vào sáng hôm sau khi tiệm mở cửa. Với kịch bản này, hãy hỏi rõ có tính thêm ngày không, và nếu chuyến bay của bạn rời vào sáng sớm thì nên trả tối hôm trước thay vì để xe rồi bay, vì xe và chìa khóa không có người nhận trong nhiều giờ là rủi ro cho cả hai.
 
-Kịch bản tư: bạn hoàn toàn không liên lạc được chủ xe. Đây là lúc bộ bằng chứng bạn chuẩn bị từ đầu phát huy tác dụng, và chi tiết về cách giữ bằng chứng khi có sự cố nằm trong phần [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Kịch bản tư: bạn hoàn toàn không liên lạc được chủ xe. Đây là lúc bộ bằng chứng bạn chuẩn bị từ đầu phát huy tác dụng, và chi tiết về cách giữ bằng chứng khi có sự cố nằm trong phần [sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Bằng chứng nên giữ khi trả ngoài giờ
 
 Ba bằng chứng cốt lõi. Thứ nhất là bộ ảnh và video chụp vòng xe, đồng hồ công-tơ-mét, mức xăng và chìa khóa tại đúng thời điểm trả, có khung cảnh thể hiện vị trí trả. Thứ hai là tin nhắn trao đổi với chủ xe về việc trả ngoài giờ, gồm cả mốc thời gian. Thứ ba là xác nhận của người nhận nếu có, hoặc tin nhắn chủ xe xác nhận đã nhận lại xe.
 
-Nên nhớ rằng trong trường hợp không ai nhận xe, trách nhiệm về xe về nguyên tắc vẫn chưa chuyển giao, nên giữ xe ở nơi an toàn và có người trông coi, kể cả phải trả thêm một khoản phí gửi xe nhỏ, vẫn rẻ hơn rủi ro mất xe trong đêm. Ai từng thuê theo ngày và lo về tính tiền trễ sẽ thấy mục [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) có thêm lưu ý về thời điểm tính ngày thuê.
+Nên nhớ rằng trong trường hợp không ai nhận xe, trách nhiệm về xe về nguyên tắc vẫn chưa chuyển giao, nên giữ xe ở nơi an toàn và có người trông coi, kể cả phải trả thêm một khoản phí gửi xe nhỏ, vẫn rẻ hơn rủi ro mất xe trong đêm. Ai từng thuê theo ngày và lo về tính tiền trễ sẽ thấy mục [thuê xe theo ngày](/thue-xe/thue-ngay/) có thêm lưu ý về thời điểm tính ngày thuê.
 
 ## Những câu nên hỏi chủ xe ngay từ đầu
 

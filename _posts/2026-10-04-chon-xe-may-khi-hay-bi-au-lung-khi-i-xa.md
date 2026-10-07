@@ -42,6 +42,6 @@ Xe tốt chỉ là một nửa; nửa còn lại là thói quen trên đường.
 
 Người đi nhóm còn nên nói trước với bạn đồng hành về nhịp giãn của mình: chốt sẵn mỗi giờ một mốc dừng chung, không cố theo đoàn chạy liền mạch. Nói ra một câu ở đầu chuyến luôn thoải mái hơn chịu đựng một mình đến cuối cung, và đa số nhóm sẵn sàng giữ nhịp chậm nếu biết trước.
 
-Các tư thế giữ sức khỏe khi lái xe máy còn gộp nhiều bài chi tiết trong mục [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/); các câu hỏi chọn xe khác nằm trong mục [hỏi đáp chọn xe](/blog/hoi-dap/hoi-dap-chon-xe/); trang [hỏi đáp](/blog/hoi-dap/) là mục lục chung. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi chạy cung dài.
+Các tư thế giữ sức khỏe khi lái xe máy còn gộp nhiều bài chi tiết trong mục [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/); các câu hỏi chọn xe khác nằm trong mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/); trang [hỏi đáp](/hoi-dap/) là mục lục chung. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi chạy cung dài.
 
 Chọn xe máy cho người đau lưng cuối cùng gói trong một câu: dáng ngồi tự nhiên hơn mặt đẹp, yên phẳng hơn máy mạnh, và thói quen dừng giãn hơn mọi phụ kiện êm. Ba lựa chọn ấy đổi lại cho bạn phần đáng quý nhất của mọi chuyến đi xa — tới nơi còn thẳng lưng đứng ngắm cảnh được.

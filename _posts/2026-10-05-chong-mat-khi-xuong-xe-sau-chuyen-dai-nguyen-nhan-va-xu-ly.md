@@ -44,7 +44,7 @@ Một chi tiết thực tế đáng nói: phần lớn ca choáng nhẹ xảy ra
 
 Ngăn luôn dễ hơn xử lý. Trước chuyến dài, ngủ đủ giấc đêm hôm trước, ăn nhẹ đạm và tinh bột dễ tiêu, uống đủ nước nhưng không uống nhiều trong một lần ngay trước khi lên đường. Mỗi một tiếng rưỡi trên chặng nên dừng năm phút, xuống xe đi vài bước, xoay vai cổ. Tránh chạy đè lên giờ nắng gắt trưa hè vì vừa mất nước vừa mỏi thêm, và nếu có thể hãy chọn giờ sáng sớm khi cơ thể tỉnh táo nhất.
 
-Với những ai hay bị choáng, mang theo một chai nước và vài gói bánh trong cốp xe là thói quen nhỏ giá trị, vì giữa đoạn quốc lộ vắng không phải lúc nào cũng có điểm bán. Các lưu ý về sức khỏe khi lái xe đường dài được tổng hợp tại chuyên mục [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/), còn các kỹ năng lái tổng quát nằm ở mục [kỹ năng lái xe máy](/blog/ky-nang/).
+Với những ai hay bị choáng, mang theo một chai nước và vài gói bánh trong cốp xe là thói quen nhỏ giá trị, vì giữa đoạn quốc lộ vắng không phải lúc nào cũng có điểm bán. Các lưu ý về sức khỏe khi lái xe đường dài được tổng hợp tại chuyên mục [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/), còn các kỹ năng lái tổng quát nằm ở mục [kỹ năng lái xe máy](/ky-nang/).
 
 ## Câu hỏi thường gặp
 
@@ -52,7 +52,7 @@ Có thuốc nào giúp tỉnh táo trước chặng dài không? Không nên t�
 
 Chóng mặt kéo dài cả ngày có đáng lo không? Nếu qua nhiều giờ vẫn không dứt, kèm buồn nôn hoặc đau đầu dữ dội, nên nghỉ hoàn toàn và đi khám, tuyệt đối không cố chạy tiếp.
 
-Uống cà phê trước chuyến có giúp không? Không đáng dựa; cà phê có thể khiến tim đập nhanh và dễ run tay nếu bạn chưa quen, nước lọc và bữa nhẹ đủ chất là lựa chọn chắc chắn hơn. Thắc mắc chung về sức khỏe người lái có thể xem thêm ở [hỏi đáp](/blog/hoi-dap/).
+Uống cà phê trước chuyến có giúp không? Không đáng dựa; cà phê có thể khiến tim đập nhanh và dễ run tay nếu bạn chưa quen, nước lọc và bữa nhẹ đủ chất là lựa chọn chắc chắn hơn. Thắc mắc chung về sức khỏe người lái có thể xem thêm ở [hỏi đáp](/hoi-dap/).
 
 Xe máy có liên quan trực tiếp đến chóng mặt không? Rung động và tư thế ngồi là yếu tố góp phần; nghỉ ngọt giữa chặng và khởi động nhẹ trước khi lên xe là biện pháp đơn giản để giảm hẳn nguy cơ này.
 

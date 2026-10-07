@@ -41,10 +41,10 @@ Khung giờ cần né trên cung: sáng sớm và chiều muộn trên trục qu
 ên núi hay có sương mù từ c
 hiều, khách lên lịch đi bộ sớm để kịp xuống trước khi trời tối và ẩm nhanh.
 
-Thời tiết là phần quyết định mức thoải mái của chuyến: mưa lớn làm bậc đá lên chùa trơn, sương mù làm đoạn đèo giảm tầm nhìn. Khách theo dõi bản tin [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/) trước ngày đi và linh hoạt đổi ngày nếu trùng đợt mưa rào. Trước chuyến, khách cũng nên kiểm tra phanh, đèn và vỏ xe, vì đường núi phạt ngay những xe chỉ sửa qua loa.
+Thời tiết là phần quyết định mức thoải mái của chuyến: mưa lớn làm bậc đá lên chùa trơn, sương mù làm đoạn đèo giảm tầm nhìn. Khách theo dõi bản tin [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/) trước ngày đi và linh hoạt đổi ngày nếu trùng đợt mưa rào. Trước chuyến, khách cũng nên kiểm tra phanh, đèn và vỏ xe, vì đường núi phạt ngay những xe chỉ sửa qua loa.
 
 ## Xếp lịch xăng và nghỉ cho chuyến hai ngày
 
-Một lịch gọn cho khách hai ngày: chiều thứ sáu hoặc thứ bảy nhận xe ở Hà Nội, đổ đầy trước khi rời thành phố, chạy lên Uông Bí nhận phòng trước tối; sáng hôm sau đổ xăng quanh chỗ nghỉ, mua nước mang theo, lên núi từ sáng sớm, dành giữa trưa cho các chùa giữa núi, chiều xuống núi ăn tối muộn rồi nghỉ tiếp hoặc về luôn tuỳ sức. Khách muốn xếp lịch chi tiết cho nhóm có thể xem bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
+Một lịch gọn cho khách hai ngày: chiều thứ sáu hoặc thứ bảy nhận xe ở Hà Nội, đổ đầy trước khi rời thành phố, chạy lên Uông Bí nhận phòng trước tối; sáng hôm sau đổ xăng quanh chỗ nghỉ, mua nước mang theo, lên núi từ sáng sớm, dành giữa trưa cho các chùa giữa núi, chiều xuống núi ăn tối muộn rồi nghỉ tiếp hoặc về luôn tuỳ sức. Khách muốn xếp lịch chi tiết cho nhóm có thể xem bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
 
-Khách cần thuê xe máy cho cung Yên Tử liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe hợp chuyến hai ngày, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang [cung đường phố núi phía bắc](/blog/cung-duong/cung-duong-pho-bac/) trước khi chốt lịch.
+Khách cần thuê xe máy cho cung Yên Tử liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe hợp chuyến hai ngày, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang [cung đường phố núi phía bắc](/cung-duong/cung-duong-pho-bac/) trước khi chốt lịch.

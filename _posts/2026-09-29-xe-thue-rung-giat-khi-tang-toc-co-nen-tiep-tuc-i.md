@@ -35,7 +35,7 @@ Một phép phân biệt nhỏ: xe rung rõ hơn khi lên dốc hoặc chở n�
 
 Có ba dấu hiệu báo bạn nên đỗ xe lại luôn. Một là có tiếng gõ lọc cọc lặp đều từ phía máy, vì đó có thể là dấu hiệu hư hỏng bên trong, chạy tiếp sẽ khiến vết hỏng lan rộng và tốn kém hơn. Hai là xe giật kèm hiện tượng mất ga hoặc tắt máy giữa chừng, rất nguy hiểm khi bạn đang di chuyển trong dòng xe trên các tuyến lớn như đường Nguyễn Văn Cừ hay đầu cầu Chương Dương. Ba là có mùi khét, đặc biệt là mùi nhớt cháy, kèm khói bốc lên từ phía máy.
 
-Trong các tình huống này, hãy đỗ vào lề hoặc vị trí đỗ an toàn rồi gọi cửa hàng trao đổi. Những sự cố giữa đường khi thuê xe và cách xử lý từng tình huống được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/), nên đọc trước để có sẵn trình tự trong đầu. Tránh tự căng xích, tự siết ốc hay tự tháo lắp trên xe thuê, vì mỗi thao tác can thiệp đều ảnh hưởng tới trách nhiệm hai bên khi trả xe.
+Trong các tình huống này, hãy đỗ vào lề hoặc vị trí đỗ an toàn rồi gọi cửa hàng trao đổi. Những sự cố giữa đường khi thuê xe và cách xử lý từng tình huống được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/), nên đọc trước để có sẵn trình tự trong đầu. Tránh tự căng xích, tự siết ốc hay tự tháo lắp trên xe thuê, vì mỗi thao tác can thiệp đều ảnh hưởng tới trách nhiệm hai bên khi trả xe.
 
 Nếu buộc phải di chuyển quãng ngắn tới nơi an toàn, giữ tốc độ thấp, vào ga nhẹ từng nấc, tránh chạy sát xe tải và tránh làn trong. Đừng thử chạy nhanh lên cho hết cơn rung; cách này chỉ khiến hư hỏng nặng thêm nếu nguyên nhân nằm ở bộ truyền động.
 
@@ -43,8 +43,8 @@ Nếu buộc phải di chuyển quãng ngắn tới nơi an toàn, giữ tốc �
 
 Khi gọi, mô tả đúng theo các nhóm dấu hiệu đã rà: rung xuất hiện lúc nào, kèm tiếng gì, ga có bị ì không, xích có chùng không. Mô tả chuẩn giúp bên cho thuê quyết định nhanh: hướng dẫn xử lý tại chỗ, đổi xe, hay cử người hỗ trợ. Sau khi sự cố được xử lý hoặc nếu bạn đổi xe khác, hãy nhờ cửa hàng ghi rõ tình trạng vào phiếu để đối chiếu khi trả xe.
 
-Xe được chăm sóc định kỳ hiếm khi gặp hiện tượng này, và các hạng mục chăm sóc được gom trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/). Về lâu dài, nhớt máy và xích gắn liền với cảm giác vận hành mượt mà, bạn có thể xem thêm về [thay nhớt định kỳ cho xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/) để hiểu vì sao xe được chăm tốt chạy khác hẳn xe bỏ bễ.
+Xe được chăm sóc định kỳ hiếm khi gặp hiện tượng này, và các hạng mục chăm sóc được gom trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/). Về lâu dài, nhớt máy và xích gắn liền với cảm giác vận hành mượt mà, bạn có thể xem thêm về [thay nhớt định kỳ cho xe máy](/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/) để hiểu vì sao xe được chăm tốt chạy khác hẳn xe bỏ bễ.
 
-Trước khi nhận xe lần sau, hãy chạy thử một vòng quanh phố, tăng giảm ga vài lần và lắng nghe cảm giác từ tay lái; các đầu mục cần rà khi nhận xe nằm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/). Các tình huống hỏng hóc giữa đường cũng được gom tại trang [xử lý sự cố xe máy thuê](/blog/xe-may/xu-ly-su-co-xe/).
+Trước khi nhận xe lần sau, hãy chạy thử một vòng quanh phố, tăng giảm ga vài lần và lắng nghe cảm giác từ tay lái; các đầu mục cần rà khi nhận xe nằm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/). Các tình huống hỏng hóc giữa đường cũng được gom tại trang [xử lý sự cố xe máy thuê](/xe-may/xu-ly-su-co-xe/).
 
 Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội làm việc từ 09:00 đến 21:00 hằng ngày. Khi xe thuê có dấu hiệu rung giật khi tăng tốc, bạn gọi số 0942 467 674 để được hướng dẫn xử lý hoặc đổi xe, đừng cố chạy tiếp khi các dấu hiệu nguy hiểm đã nêu ở trên xuất hiện.

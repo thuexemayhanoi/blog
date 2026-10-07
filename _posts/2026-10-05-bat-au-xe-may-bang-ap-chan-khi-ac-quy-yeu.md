@@ -49,9 +49,9 @@ Tuy vậy, đạp được không có nghĩa là bỏ qua nguồn điện. Sau k
 
 ## Lưu ý riêng cho người thuê xe máy ở Hà Nội
 
-Khi nhận xe, hãy hỏi trước cửa hàng là xe đã được kiểm tra ắc quy chưa và càng đạp có hoạt động tốt không, vì nhiều dòng xe số cũ vẫn dựa chính vào đạp chân. Hãy thử một nhịp đạp ngay tại cửa hàng, vặn chìa nghe tiếng đề, bật còi thử. Chi tiết cách kiểm tra xe tổng thể trước khi nhận, bạn nên đọc qua trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để nắm checklist đầy đủ.
+Khi nhận xe, hãy hỏi trước cửa hàng là xe đã được kiểm tra ắc quy chưa và càng đạp có hoạt động tốt không, vì nhiều dòng xe số cũ vẫn dựa chính vào đạp chân. Hãy thử một nhịp đạp ngay tại cửa hàng, vặn chìa nghe tiếng đề, bật còi thử. Chi tiết cách kiểm tra xe tổng thể trước khi nhận, bạn nên đọc qua trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để nắm checklist đầy đủ.
 
-Giữa buổi đi nếu đề không được lần nữa, đừng đạp ngay giữa dòng xe mà kéo vào lề, kiểm tra số 0 rồi mới đạp. Những nội dung liên quan đến kỹ năng xử lý tình huống trên đường được nhóm lại tại mục lục [kỹ năng lái xe máy](/blog/ky-nang/), bạn có thể tra cứu nhanh khi cần. Bài [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) cũng nhắc lại tư thế lên xe an toàn đáng tham khảo.
+Giữa buổi đi nếu đề không được lần nữa, đừng đạp ngay giữa dòng xe mà kéo vào lề, kiểm tra số 0 rồi mới đạp. Những nội dung liên quan đến kỹ năng xử lý tình huống trên đường được nhóm lại tại mục lục [kỹ năng lái xe máy](/ky-nang/), bạn có thể tra cứu nhanh khi cần. Bài [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) cũng nhắc lại tư thế lên xe an toàn đáng tham khảo.
 
 ## Câu hỏi thường gặp
 

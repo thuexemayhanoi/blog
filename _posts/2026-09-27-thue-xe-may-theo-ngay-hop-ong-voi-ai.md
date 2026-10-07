@@ -36,7 +36,7 @@ Ba dấu hiệu cho thấy bạn nên đổi sang kỳ thuê dài hơn:
 - Đã thuê lẻ từ ba lần trong một tháng cho cùng một mục đích.
 - Phải giữ giấy tờ hay đặt cọc lại mỗi lần thuê lẻ.
 
-Nếu rơi vào nhóm này, hỏi cửa hàng về gói tuần hoặc tháng trước khi thuê tiếp. Tham khảo mức giá công bố của các loại hình tại trang [bảng giá](/blog/bang-gia/), rồi đối chiếu kỳ thuê của mình để chọn kỳ hợp lý nhất.
+Nếu rơi vào nhóm này, hỏi cửa hàng về gói tuần hoặc tháng trước khi thuê tiếp. Tham khảo mức giá công bố của các loại hình tại trang [bảng giá](/bang-gia/), rồi đối chiếu kỳ thuê của mình để chọn kỳ hợp lý nhất.
 
 ## So sánh nhanh thuê theo ngày với các kỳ thuê khác
 
@@ -44,7 +44,7 @@ Mỗi kỳ thuê có một vùng tối ưu riêng. Thuê theo ngày tối ưu ch
 
 Một cách quyết định nhanh: dự kiến tổng số ngày cần xe trong hai tuần tới, rồi hỏi giá của gói khớp gần nhất. Nếu số ngày dao động, chắc chắn khó đo, thuê theo ngày giữ sự linh hoạt; nếu số ngày chắc chắn và liền mạch, gói dài hạn rẻ hơn từng phần.
 
-Trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) tổng hợp thông tin riêng cho hình thức theo ngày, và cẩm nang [thuê xe máy](/blog/thue-xe/) đặt hình thức này trong bối cảnh của các lựa chọn thuê nói chung tại Hà Nội.
+Trang [thuê xe theo ngày](/thue-xe/thue-ngay/) tổng hợp thông tin riêng cho hình thức theo ngày, và cẩm nang [thuê xe máy](/thue-xe/) đặt hình thức này trong bối cảnh của các lựa chọn thuê nói chung tại Hà Nội.
 
 ## Cách tính một ngày thuê: chốt rõ để khỏi cãi
 
@@ -56,7 +56,7 @@ Phần dễ tranh cãi nhất của thuê theo ngày không phải giá, mà là
 
 Ba cách này cho kết quả khác nhau rõ rệt nếu bạn nhận xe buổi chiều và trả buổi tối hôm sau. Hỏi cụ thể: nếu tôi nhận lúc hai giờ chiều hôm nay, tới bao giờ vẫn tính một ngày. Câu trả lời nên được ghi lại vào biên nhận hoặc tin nhắn. Cũng hỏi luôn quy ước trả trễ: trễ một tiếng tính thế nào, trễ quá nửa ngày có bị tính thêm ngày mới không.
 
-Một thói quen nhỏ giúp mọi thứ suôn sẻ: khi nhận xe, chụp lại đồng hồ và ghi giờ nhận vào biên nhận; lúc trả, hai bên có cùng một mốc thời gian để đối chiếu. Cách tính ngày chi tiết được giải thích trong bài về thời gian tính một ngày thuê, nằm cùng cụm chủ đề với bài này, và phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) mô tả trình tự chuẩn để bạn áp dụng cho bất kỳ kỳ thuê nào.
+Một thói quen nhỏ giúp mọi thứ suôn sẻ: khi nhận xe, chụp lại đồng hồ và ghi giờ nhận vào biên nhận; lúc trả, hai bên có cùng một mốc thời gian để đối chiếu. Cách tính ngày chi tiết được giải thích trong bài về thời gian tính một ngày thuê, nằm cùng cụm chủ đề với bài này, và phần [thủ tục thuê xe](/thue-xe/thu-tuc/) mô tả trình tự chuẩn để bạn áp dụng cho bất kỳ kỳ thuê nào.
 
 ## Kết: chọn kỳ thuê theo đúng nhu cầu
 

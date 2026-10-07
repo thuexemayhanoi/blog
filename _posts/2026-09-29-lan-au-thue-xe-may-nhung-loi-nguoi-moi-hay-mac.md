@@ -25,7 +25,7 @@ Cách tránh đơn giản: hỏi trước một lượt các khoản phát sinh 
 
 Lỗi thứ hai là cảm tính tin xe tốt nên nhận luôn. Xe cho thuê được nhiều người dùng qua tay, nên hiện trạng mỗi lần nhận đều có thể khác. Bỏ qua bước kiểm tra nghĩa là bạn chấp nhận chịu trách nhiệm cho những vết cũ không phải do mình, và đó là nguồn tranh cãi phổ biến nhất lúc trả xe.
 
-Việc kiểm tra không cần kỹ thuật cao. Đi một vòng quanh xe, soi vết xước trên che trước, gương, đèn, thử phanh, còi, thử nổ máy, và chụp vài tấm ảnh toàn cảnh xe từ nhiều góc. Danh sách các điểm cần soi kỹ đã được tổng hợp trong bài về [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), bạn mang điện thoại là đủ để làm theo từng mục.
+Việc kiểm tra không cần kỹ thuật cao. Đi một vòng quanh xe, soi vết xước trên che trước, gương, đèn, thử phanh, còi, thử nổ máy, và chụp vài tấm ảnh toàn cảnh xe từ nhiều góc. Danh sách các điểm cần soi kỹ đã được tổng hợp trong bài về [danh sách kiểm tra xe khi nhận xe thuê](/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), bạn mang điện thoại là đủ để làm theo từng mục.
 
 Ngoài hiện trạng xe, đừng quên hai chi tiết vận hành: hỏi xem khoá từ và bình xăng ở đâu, và nếu là dòng xe lần đầu bạn chạy, xin chạy thử vài phút quanh khu nhận xe trước khi ra đường lớn. Nhiều cửa hàng ở khu Long Biên có khoảng sân trước cửa khá rộng, rất hợp cho một vòng chạy thử như vậy.
 
@@ -45,4 +45,4 @@ Một lỗi nhỏ khác hay bị bỏ qua: quên lấy lại giấy tờ khi tr�
 
 ## Tránh lỗi bằng cách chuẩn bị trước
 
-Hầu hết các lỗi trên đều có chung một gốc: vội. Khi bạn vội nhận xe, vội ký, vội trả, mỗi bước đều để lại một khoảng mờ có thể thành tranh cãi. Ngược lại, chuẩn bị trước quy trình thuê, từ giấy tờ đến danh sách kiểm tra, giúp mỗi lần thuê chỉ còn là làm theo bản ghi sẵn. Toàn bộ các bước thủ tục chuẩn đã được gói trong trang [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/), còn các băn khoăn điển hình của người mới nằm trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/). Nếu bạn vừa đọc tới đây và sắp thuê xe lần đầu, hãy dành năm phút đối chiếu lại các mục trên: rẻ hơn bất kỳ vấp váp nào trong danh sách.
+Hầu hết các lỗi trên đều có chung một gốc: vội. Khi bạn vội nhận xe, vội ký, vội trả, mỗi bước đều để lại một khoảng mờ có thể thành tranh cãi. Ngược lại, chuẩn bị trước quy trình thuê, từ giấy tờ đến danh sách kiểm tra, giúp mỗi lần thuê chỉ còn là làm theo bản ghi sẵn. Toàn bộ các bước thủ tục chuẩn đã được gói trong trang [thủ tục thuê xe máy](/thue-xe/thu-tuc/), còn các băn khoăn điển hình của người mới nằm trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/). Nếu bạn vừa đọc tới đây và sắp thuê xe lần đầu, hãy dành năm phút đối chiếu lại các mục trên: rẻ hơn bất kỳ vấp váp nào trong danh sách.

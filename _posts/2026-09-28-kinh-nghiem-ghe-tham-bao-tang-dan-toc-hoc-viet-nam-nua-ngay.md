@@ -32,19 +32,19 @@ Với trình tự này, toàn bộ nửa ngày cần khoảng hai giờ rưỡi 
 
 ## Kinh nghiệm đi Bảo tàng Dân tộc học Việt Nam: những việc nhỏ nên làm trước
 
-Trước khi khởi hành, ba việc đáng làm: kiểm tra giờ mở cửa hiện hành của bảo tàng, vì khung cuối tuần và ngày thường có thể khác nhau; xem trước sơ đồ khu trưng bày trên trang thông tin chính thức để chốt khu ưu tiên, nếu thời gian ít; và chuẩn bị tiền lẻ cho vé và phí gửi xe. Với khách thuê xe, danh mục giấy tờ xe bắt buộc được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/).
+Trước khi khởi hành, ba việc đáng làm: kiểm tra giờ mở cửa hiện hành của bảo tàng, vì khung cuối tuần và ngày thường có thể khác nhau; xem trước sơ đồ khu trưng bày trên trang thông tin chính thức để chốt khu ưu tiên, nếu thời gian ít; và chuẩn bị tiền lẻ cho vé và phí gửi xe. Với khách thuê xe, danh mục giấy tờ xe bắt buộc được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/).
 
-Về di chuyển trong khu: khoảng cách từ bãi xe tới cổng và giữa nhà với vườn không lớn nhưng đi bộ nhiều cộng dồn, nên với người lớn tuổi nên dừng nghỉ giữa buổi. Kinh nghiệm thăm các bảo tàng khác của thành phố được nêu tại trang tổng quan về [bảo tàng](/blog/du-lich/bao-tang/), và khung lịch trình cho cả vùng có tại trang [du lịch Hà Nội](/blog/du-lich/).
+Về di chuyển trong khu: khoảng cách từ bãi xe tới cổng và giữa nhà với vườn không lớn nhưng đi bộ nhiều cộng dồn, nên với người lớn tuổi nên dừng nghỉ giữa buổi. Kinh nghiệm thăm các bảo tàng khác của thành phố được nêu tại trang tổng quan về [bảo tàng](/du-lich/bao-tang/), và khung lịch trình cho cả vùng có tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Ghép các điểm lân cận nếu còn thời gian
 
-Nếu kết thúc trước mười một giờ, phần còn lại của nửa ngày có thể dùng cho vùng Cầu Giấy: dạo quanh Hồ Hoàn Kiếm xa hơn về phía đông, hoặc về qua các khu phố ẩm thực gần bảo tàng ăn trưa. Với khách có nhiều ngày ở Hà Nội, nên đặt bảo tàng trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu kết thúc trước mười một giờ, phần còn lại của nửa ngày có thể dùng cho vùng Cầu Giấy: dạo quanh Hồ Hoàn Kiếm xa hơn về phía đông, hoặc về qua các khu phố ẩm thực gần bảo tàng ăn trưa. Với khách có nhiều ngày ở Hà Nội, nên đặt bảo tàng trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 Đi lại bằng xe máy giữa nhà và bảo tàng mất khoảng ba mươi phút từ Long Biên ngoài giờ cao điểm, nên khung nửa ngày tám giờ rưỡi tới mười một giờ rưỡi là vừa đẹp: khởi hành sớm, về trước trưa, tránh trưa nắng trên vườn ngoài trời.
 
 Một vài lưu ý nhỏ cho từng nhóm khách: với gia đình có trẻ nhỏ, khu vườn ngoài trời là phần giữ chân trẻ lâu nhất, nên tính khung ra vườn khi trẻ còn khỏe, thường là khung đầu sau khi vào cổng; với khách đi một mình thích chụp ảnh, khung sáng trên vườn cho ánh sáng đẹp, còn nhà trưng bày luôn ổn quanh ngày vì đèn trần bù đủ. Nếu dò thấy lịch hoạt động trải nghiệm của tuần đó có phần hợp ý, nên chốt ngày đi theo lịch ấy trước rồi mới xếp lịch trình chung quanh.
 
-Về ăn uống: quanh bảo tàng có nhiều quán trên các phố Nghĩa Tân, Duy Tân trong bán kính vài phút chạy xe, nên nếu lịch trình dồn khít, ăn nhẹ trước khi vào hoặc dồn bữa sau khi ra, vì trong nhà trưng bày không có khu ăn rộng. Kinh nghiệm chọn khung giờ cho các điểm trong nhà và ngoài trời khác nhau cũng áp dụng được cho các bảo tàng khác, được nêu tại trang tổng quan về [bảo tàng](/blog/du-lich/bao-tang/).
+Về ăn uống: quanh bảo tàng có nhiều quán trên các phố Nghĩa Tân, Duy Tân trong bán kính vài phút chạy xe, nên nếu lịch trình dồn khít, ăn nhẹ trước khi vào hoặc dồn bữa sau khi ra, vì trong nhà trưng bày không có khu ăn rộng. Kinh nghiệm chọn khung giờ cho các điểm trong nhà và ngoài trời khác nhau cũng áp dụng được cho các bảo tàng khác, được nêu tại trang tổng quan về [bảo tàng](/du-lich/bao-tang/).
 
 ## Kết luận về nửa ngày ở bảo tàng
 

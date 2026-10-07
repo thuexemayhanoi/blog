@@ -47,7 +47,7 @@ Với lối đi của người đi bộ, để xe song song với mép vỉa hè
 Với xe thuê, có một lưu ý cộng thêm: báo với cửa hàng cho thuê nếu bạn dự định để xe một chặng dài, để họ ghi chú và tư vấn cách bảo quản ắc quy cũng như lốp trước khi bạn để xe.
 Nếu bạn đi công tác nhiều ngày và tòa nhà không có hầm, hãy cân nhắc gửi xe tại bãi có dịch vụ trông giữ chuyên nghiệp thay vì để quanh tòa nhà. Giá gửi theo tháng hoặc theo tuần thường rẻ hơn chi phí xử lý nếu xe bị trầy xước hoặc mất phụ tùng. Trước khi giao xe cho bãi, chụp hiện trạng xe cùng với người nhận trông để tránh tranh chấp khi nhận lại.
 
-Cẩm nang đầy đủ về cách chọn bãi, neo xe và giữ xe an toàn nằm ở chuyên mục [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn các kỹ năng lái tổng quát tại mục [kỹ năng lái xe máy](/blog/ky-nang/). Với thắc mắc cụ thể về quy định gửi xe từng khu vực, có thể tra thêm ở [hỏi đáp](/blog/hoi-dap/).
+Cẩm nang đầy đủ về cách chọn bãi, neo xe và giữ xe an toàn nằm ở chuyên mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn các kỹ năng lái tổng quát tại mục [kỹ năng lái xe máy](/ky-nang/). Với thắc mắc cụ thể về quy định gửi xe từng khu vực, có thể tra thêm ở [hỏi đáp](/hoi-dap/).
 
 ## Câu hỏi thường gặp
 

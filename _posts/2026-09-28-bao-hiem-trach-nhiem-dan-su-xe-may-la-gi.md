@@ -39,7 +39,7 @@ Ngoài ra, Nghị định cũng quy định các trường hợp doanh nghiệp 
 
 Khi thuê xe máy ở Hà Nội, bước đầu tiên là hỏi xem xe đã có bảo hiểm bắt buộc trách nhiệm dân sự còn hiệu lực hay chưa. Các cửa hàng uy tín thường mua bảo hiểm cho toàn bộ xe cho thuê, và tấm tem bảo hiểm dán trên xe có ngày hiệu lực để bạn kiểm tra. Nếu trong thời gian thuê không may gây tai nạn, bạn nên báo ngay cho cửa hàng để được hướng dẫn quy trình thông báo với doanh nghiệp bảo hiểm, vì hợp đồng bảo hiểm đứng tên chủ xe.
 
-Ba câu nên hỏi khi nhận xe thuê: bảo hiểm có còn hiệu lực không, tem bảo hiểm ở đâu trên xe, và khi có sự cố thì liên hệ kênh nào của cửa hàng. Kiến thức tổng hợp về bảo hiểm cho người đi xe máy nằm trong trang [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/). Chi tiết về cách xử lý khi gặp sự cố khi thuê xe nằm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/), còn các dòng xe cho thuê hiện có được liệt kê trong trang [thuê xe máy](/blog/thue-xe/).
+Ba câu nên hỏi khi nhận xe thuê: bảo hiểm có còn hiệu lực không, tem bảo hiểm ở đâu trên xe, và khi có sự cố thì liên hệ kênh nào của cửa hàng. Kiến thức tổng hợp về bảo hiểm cho người đi xe máy nằm trong trang [bảo hiểm xe máy](/an-toan-phap-ly/bao-hiem/). Chi tiết về cách xử lý khi gặp sự cố khi thuê xe nằm trong trang [sự cố khi thuê xe](/thue-xe/su-co/), còn các dòng xe cho thuê hiện có được liệt kê trong trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -47,6 +47,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về bảo hiểm trách nhiệm dân sự xe máy
 
-Bảo hiểm trách nhiệm dân sự xe máy là lớp bảo vệ bắt buộc theo pháp luật, chi trả cho thiệt hại bạn gây ra cho bên thứ ba trong giới hạn trách nhiệm theo Nghị định 67/2023/NĐ-CP. Với người thuê xe, việc kiểm tra tem bảo hiểm còn hiệu lực trước khi nhận xe chỉ mất vài giây nhưng giúp bạn an tâm suốt chuyến đi. Để hiểu thêm các vấn đề pháp lý khác khi lưu thông trong nội đô, xem trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Bảo hiểm trách nhiệm dân sự xe máy là lớp bảo vệ bắt buộc theo pháp luật, chi trả cho thiệt hại bạn gây ra cho bên thứ ba trong giới hạn trách nhiệm theo Nghị định 67/2023/NĐ-CP. Với người thuê xe, việc kiểm tra tem bảo hiểm còn hiệu lực trước khi nhận xe chỉ mất vài giây nhưng giúp bạn an tâm suốt chuyến đi. Để hiểu thêm các vấn đề pháp lý khác khi lưu thông trong nội đô, xem trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về giới hạn trách nhiệm và quy định bảo hiểm bắt buộc có thể thay đổi theo từng văn bản; trước khi mua hoặc thuê xe, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

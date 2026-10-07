@@ -44,6 +44,6 @@ Với quãng đường xa cuối tuần, người cao nên chọn khung sớm m�
 
 Một thói quen đáng nuôi khi thử xe thuê: mang theo đúng bộ đồ bạn sẽ đi thật — giày cao cổ, áo khoác dày hay balo đựng laptop đều thay đổi dáng ngồi vài centimet, và vài centimet đó là ranh giới giữa gối thoáng và gối chạm hông trên xe nhỏ. Thử xe bằng dép mỏng rồi mới đi giày dày là kiểu sai lệch nhỏ gây hậu đề suốt chuyến đi. Quan sát thêm cả chiều rộng yên sau nếu có người ngồi cùng: người cao ngồi sau trên yên ngắn dễ bị đẩy về chễm, và hai người dáng lớn trên một chiếc xe cỡ nhỏ là đúng kiểu dồn tải sai chỗ nhún.
 
-Các câu hỏi chọn xe khác nằm gộp trong mục [hỏi đáp chọn xe](/blog/hoi-dap/hoi-dap-chon-xe/); so sánh các dòng xe tay ga nằm trong mục [xe tay ga](/blog/xe-may/xe-ga/); trang [hỏi đáp](/blog/hoi-dap/) là mục lục chung. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi chạy dài.
+Các câu hỏi chọn xe khác nằm gộp trong mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/); so sánh các dòng xe tay ga nằm trong mục [xe tay ga](/xe-may/xe-ga/); trang [hỏi đáp](/hoi-dap/) là mục lục chung. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi chạy dài.
 
 Chọn xe máy cho người cao to cuối cùng là chọn hình học của chính dáng mình: sàn phẳng mở gối, tay lái cao thả vai, và yên phẳng cho chỗ dịch. Chiếc xe đúng không làm bạn cảm thấy cao — nó làm bạn cảm thấy vừa.

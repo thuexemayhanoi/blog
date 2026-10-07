@@ -24,7 +24,7 @@ Nhóm thứ nhất là giấy tùy thân. Căn cước công dân còn hiệu l�
 
 Một vài nơi làm ăn bài bản còn xin thêm một số liên hệ: tên và số điện thoại của chủ trọ, hoặc một người thân ở Hà Nội. Cung cấp sẵn thay vì chờ bị hỏi là một cách thể hiện bạn không có gì phải giấu. Cân nhắc tiệm nào yêu cầu giữ nguyên căn cước trong suốt thời gian thuê: đây là yêu cầu không nên chấp nhận, vì giấy tùy thân là thứ phải luôn ở trên người bạn. Mức giữ cọc bằng tiền đã là bảo đảm đủ cho bên cho thuê.
 
-Người chưa quen các bước có thể đọc trước [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) để hình dung trình tự, và tham khảo thêm [giấy tờ và an toàn pháp lý](/blog/an-toan-phap-ly/giay-to/) cho các câu hỏi rộng hơn quanh giấy tờ khi đi lại ở Hà Nội.
+Người chưa quen các bước có thể đọc trước [thủ tục thuê xe](/thue-xe/thu-tuc/) để hình dung trình tự, và tham khảo thêm [giấy tờ và an toàn pháp lý](/an-toan-phap-ly/giay-to/) cho các câu hỏi rộng hơn quanh giấy tờ khi đi lại ở Hà Nội.
 
 ## Thuê xe máy cho người tạm trú: chọn kiểu thuê dài hạn
 
@@ -46,4 +46,4 @@ Câu thứ ba thỉnh thoảng gặp: bạn có biết ai ở Hà Nội không. 
 
 Sau lần thuê đầu thành công, mọi lần sau sẽ nhanh hơn nếu bạn giữ đúng ba thói quen: dùng cùng một giấy tờ, dùng cùng một số điện thoại, và trả xe đúng giờ hẹn ba lần liên tiếp. Lịch sử tốt là loại tài sản không thấy trên giấy nhưng tiệm nào cũng nhớ, và người thuê dài hạn có lịch sử tốt thường được ưu tiên xe tốt hơn, giá chu kỳ ổn hơn.
 
-Một lưu ý nhỏ về pháp lý cho người tạm trú: khai báo tạm trú đúng quy định là việc nên làm ngay khi nhận chỗ ở, không chỉ vì buộc khi thuê xe, mà vì mọi giấy tờ khác trong đời sống Hà Nội của bạn đều nhờ vào đó mà suôn sẻ. Ai cần tổng quan các bước từ đặt xe tới trả xe có thể vào [mục thuê xe máy](/blog/thue-xe/), nơi tóm tắt trọn gọn quy trình cho cả người mới lẫn người đã quen.
+Một lưu ý nhỏ về pháp lý cho người tạm trú: khai báo tạm trú đúng quy định là việc nên làm ngay khi nhận chỗ ở, không chỉ vì buộc khi thuê xe, mà vì mọi giấy tờ khác trong đời sống Hà Nội của bạn đều nhờ vào đó mà suôn sẻ. Ai cần tổng quan các bước từ đặt xe tới trả xe có thể vào [mục thuê xe máy](/thue-xe/), nơi tóm tắt trọn gọn quy trình cho cả người mới lẫn người đã quen.

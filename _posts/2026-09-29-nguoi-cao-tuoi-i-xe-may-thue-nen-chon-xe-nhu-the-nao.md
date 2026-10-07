@@ -21,7 +21,7 @@ Tiêu chí đầu tiên là trọng lượng: xe càng nhẹ càng dễ chống 
 
 Thứ hai là chiều cao yên và cách đề máy. Người cao tuổi thường đau khớp gối, nên chiếc xe phải để hai chân chống đất thoải mái, không phải kiễng. Máy đề điện là chi tiết đáng giá nhất ở độ tuổi này: mỗi lần phải đá nổ là một lần phải dồn lực vào hông và lưng, trong khi đề điện chỉ cần bấm một nút. Hỏi cửa hàng trước xem xe thuê có phải đề chân không để tránh nhận xe rồi mới phát hiện người nhà không đủ sức đề.
 
-Thứ ba là chi tiết an toàn: phanh càng ăn đều càng tốt, gương chỉnh được rộng, còi to rõ. So sánh kỹ các dòng xe trước khi gọi được hướng dẫn trong trang [chọn loại xe khi thuê](/blog/xe-may/chon-loai-xe/), chỗ gom cả ưu nhược của xe số, xe ga và xe điện cho từng nhóm người dùng.
+Thứ ba là chi tiết an toàn: phanh càng ăn đều càng tốt, gương chỉnh được rộng, còi to rõ. So sánh kỹ các dòng xe trước khi gọi được hướng dẫn trong trang [chọn loại xe khi thuê](/xe-may/chon-loai-xe/), chỗ gom cả ưu nhược của xe số, xe ga và xe điện cho từng nhóm người dùng.
 
 ## Mũ bảo hiểm và trang phục đi xe cho người lớn tuổi
 
@@ -35,12 +35,12 @@ Về tư thế, người cao tuổi nên ngồi thẳng lưng, khuỷu tay hơi 
 
 Người cao tuổi nên đi trong khung giờ mát: sáng sớm trước chín giờ hoặc sau bốn giờ chiều, tránh nắng gắt gây chóng mặt và tránh giờ cao điểm đông xe. Mỗi chặng nên dưới bốn mươi lăm phút, xen kẽ nghỉ ở chỗ có nước uống. Cung đường quen thuộc quanh Long Biên hoặc tuyến đê sông Hồng với ít đèn đỏ là lựa chọn tốt hơn đường vành đai nhiều xe container. Nếu đi xa hơn, con cháu nên đi kèm để kịp thời điểm người mệt.
 
-Trước mỗi chuyến đi, cả nhà nên cùng rà nhanh xe theo [quy trình kiểm tra xe trước mỗi chuyến đi](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/): lốp, đèn, phanh, xích và xăng. Việc rà này với người lớn tuổi càng quan trọng hơn, vì một sự cố nhỏ giữa đường có thể trở thành gánh nặng lớn nếu không có người hỗ trợ kịp thời.
+Trước mỗi chuyến đi, cả nhà nên cùng rà nhanh xe theo [quy trình kiểm tra xe trước mỗi chuyến đi](/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/): lốp, đèn, phanh, xích và xăng. Việc rà này với người lớn tuổi càng quan trọng hơn, vì một sự cố nhỏ giữa đường có thể trở thành gánh nặng lớn nếu không có người hỗ trợ kịp thời.
 
 Thời tiết là biến số cần xem trước cả lộ trình: ngày hè nắng gắt thì đi trước chín giờ hoặc sau năm giờ chiều, ngày mưa gió thì hoãn chuyến không cần thiết, vì tay lái của người lớn tuổi phụ thuộc nhiều vào độ bám của mặt đường. Người hay hoa mắt vào giữa chuyến nên dừng ngay ở chân đèn đỏ kế tiếp, uống ngụm nước và thở vài nhịp trước khi tiếp tục, tuyệt đối không cố về đến nhà rồi mới nghỉ.
 
 ## Thuê xe cho người cao tuổi: vài lưu ý khi đặt
 
-Nên đặt xe trước qua Zalo hoặc điện thoại thay vì đến trực tiếp chọn giữa những chiếc còn lại, cách đặt này được hướng dẫn trong bài [cách đặt xe máy trước từ xa](/blog/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/). Khi đặt, nói rõ xe cho người lớn tuổi để cửa hàng ưu tiên chiếc đề điện và chuẩn bị sẵn mũ vừa đầu. Mức giá ngày của dòng xe số nhỏ thuộc nhóm dễ chịu, còn khoản đặt cọc cần xác nhận trực tiếp với cửa hàng theo từng loại xe.
+Nên đặt xe trước qua Zalo hoặc điện thoại thay vì đến trực tiếp chọn giữa những chiếc còn lại, cách đặt này được hướng dẫn trong bài [cách đặt xe máy trước từ xa](/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/). Khi đặt, nói rõ xe cho người lớn tuổi để cửa hàng ưu tiên chiếc đề điện và chuẩn bị sẵn mũ vừa đầu. Mức giá ngày của dòng xe số nhỏ thuộc nhóm dễ chịu, còn khoản đặt cọc cần xác nhận trực tiếp với cửa hàng theo từng loại xe.
 
-Cửa hàng ở 112 Nguyễn Văn Cừ, phường Bồ Đề, làm việc từ 09:00 đến 21:00, nên người nhà có thể đến nhận xe thay ông bà nếu cần, miễn mang theo căn cước của người thuê. Thuê theo tuần hoặc theo tháng cho người dùng hằng ngày cũng đáng cân nhắc để khỏi đi lại nhận trả nhiều lần, chi tiết này thẳng thắn trao đổi khi gọi. Tổng hợp các tình huống thuê xe cho từng nhóm độc giả nằm trong mục [thuê xe theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/), nơi gom cả bài viết dành riêng cho người mới và các nhóm khác của [thuê xe máy Hà Nội](/blog/thue-xe/).
+Cửa hàng ở 112 Nguyễn Văn Cừ, phường Bồ Đề, làm việc từ 09:00 đến 21:00, nên người nhà có thể đến nhận xe thay ông bà nếu cần, miễn mang theo căn cước của người thuê. Thuê theo tuần hoặc theo tháng cho người dùng hằng ngày cũng đáng cân nhắc để khỏi đi lại nhận trả nhiều lần, chi tiết này thẳng thắn trao đổi khi gọi. Tổng hợp các tình huống thuê xe cho từng nhóm độc giả nằm trong mục [thuê xe theo đối tượng](/thue-xe/thue-theo-doi-tuong/), nơi gom cả bài viết dành riêng cho người mới và các nhóm khác của [thuê xe máy Hà Nội](/thue-xe/).

@@ -50,4 +50,4 @@ Với xe thuê, trước chuyến chiều tối nên kiểm tra đèn pha, đèn
 
 Một lịch trình chiều hoàn chỉnh: ba giờ chiều chạy xe quanh vòng hồ Tây ngắm các góc đẹp, bốn giờ ghé quán ven hồ giải lao, năm giờ về bãi Tõa đón hoàng hôn, sau khi nắng khuất thì ghé quán khép lại buổi tối. Vòng này toàn đường lớn dễ chạy, hợp cả người mới cầm lái, và cho thấy đúng vẻ đẹp Hà Nội ở khung giờ người Hà Nội yêu nhất.
 
-Nếu bạn thuê xe máy để dạo hồ Tây, hãy hỏi trước chủ cho thuê về gói giờ, xe có đèn tốt, và cách hỗ trợ khi cần. Bạn có thể xem thêm các điểm quanh khu vực trong mục [hồ Tây](/blog/du-lich/ho-tay/), tham khảo tổng hợp [du lịch](/blog/du-lich/), hoặc đọc các bài [kinh nghiệm](/blog/kinh-nghiem/) để có nhiều ý tưởng dạo phố hơn.
+Nếu bạn thuê xe máy để dạo hồ Tây, hãy hỏi trước chủ cho thuê về gói giờ, xe có đèn tốt, và cách hỗ trợ khi cần. Bạn có thể xem thêm các điểm quanh khu vực trong mục [hồ Tây](/du-lich/ho-tay/), tham khảo tổng hợp [du lịch](/du-lich/), hoặc đọc các bài [kinh nghiệm](/kinh-nghiem/) để có nhiều ý tưởng dạo phố hơn.

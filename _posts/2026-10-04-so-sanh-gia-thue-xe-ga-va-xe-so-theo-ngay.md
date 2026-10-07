@@ -36,7 +36,7 @@ Kinh nghiệm của người thuê nhiều: thử đúng tình huống thật tr
 
 ## Chọn theo đường đi, không chọn theo kiểu xe
 
-Đường bạn đi quyết định dòng xe đáng tiền hơn. Toàn phố, chở hai, cần cốp để balo và mũ dự phòng: xe ga trả đúng phần chênh bằng tiện nghi. Đường trường, gò ghề, chở đồ cồng kềnh ra ngoại thành hoặc về quê: xe số nhẹ tiền hơn và chịu đường hơn. Ai phân vân giữa hai dòng nên đọc thêm phần so các dòng xe trong trang [xe tay ga](/blog/xe-may/xe-ga/), phần biểu giá từng dòng nằm trong trang [giá thuê xe](/blog/thue-xe/gia-thue/), tổng quan các gói nằm trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm chọn xe theo nhu cầu rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Đường bạn đi quyết định dòng xe đáng tiền hơn. Toàn phố, chở hai, cần cốp để balo và mũ dự phòng: xe ga trả đúng phần chênh bằng tiện nghi. Đường trường, gò ghề, chở đồ cồng kềnh ra ngoại thành hoặc về quê: xe số nhẹ tiền hơn và chịu đường hơn. Ai phân vân giữa hai dòng nên đọc thêm phần so các dòng xe trong trang [xe tay ga](/xe-may/xe-ga/), phần biểu giá từng dòng nằm trong trang [giá thuê xe](/thue-xe/gia-thue/), tổng quan các gói nằm trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm chọn xe theo nhu cầu rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Một lưu ý khi so: cùng một chỗ thuê, độ đời xe quyết định nhiều hơn nhãn xe. Một chiếc xe số bảo dưỡng tốt, máy êm, thắng chắc luôn đáng thuê hơn một chiếc ga cũ mòn chỉ đẹp ngoài vỏ. Khi nhận xe, thử máy lạnh, nghe tiếng máy đều, bóp thử hai phanh — ba thao tác đó nói lên nhiều hơn mọi con số trên bảng giá.
 

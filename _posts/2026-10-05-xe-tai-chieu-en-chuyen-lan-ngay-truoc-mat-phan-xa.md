@@ -43,13 +43,13 @@ Với xe container chở hàng cao, thêm lưu ý về gió đẩy: khi vượt,
 
 ## Luyện phản xạ trước khi gặp tình huống thật
 
-Phản xạ chỉ hình thành qua lặp lại. Trước mỗi chuyến đi dài, hãy tự nhắc ba câu hỏi: hôm nay tôi giữ khoảng cách bao nhiêu với xe tải phía trước, nếu xe bên trái chuyển làn tôi sẽ né về đâu, và điểm mù của tôi có che xe khác không. Thói quen này biến việc né xe tải chuyển làn từ may rủi thành kỹ năng. Các tình huống giao thông tương tự được phân tích tại chuyên mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), còn tổng quan các kỹ năng xử lý đường phố nằm ở mục [kỹ năng lái xe máy](/blog/ky-nang/).
+Phản xạ chỉ hình thành qua lặp lại. Trước mỗi chuyến đi dài, hãy tự nhắc ba câu hỏi: hôm nay tôi giữ khoảng cách bao nhiêu với xe tải phía trước, nếu xe bên trái chuyển làn tôi sẽ né về đâu, và điểm mù của tôi có che xe khác không. Thói quen này biến việc né xe tải chuyển làn từ may rủi thành kỹ năng. Các tình huống giao thông tương tự được phân tích tại chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), còn tổng quan các kỹ năng xử lý đường phố nằm ở mục [kỹ năng lái xe máy](/ky-nang/).
 
 Một mẹo nhỏ: chạy lệch hẳn vệt bánh xe tải phía trước để mặt đường gợn hoặc ổ gà không lấy mất thăng bằng của bạn ở đúng khoảnh khắc cần né.
 
 ## Câu hỏi thường gặp
 
-Người mới chạy xe nên tập gì để không bị động? Hãy bắt đầu bằng cách quan sát trước từ ba xe về phía trước thay vì chỉ nhìn bánh xe ngay trước, và luôn tự đặt câu hỏi xe tải đó chuẩn bị làm gì tiếp theo. Kỹ năng quan sát này được luyện thêm qua từng chặng đường đô thị, và nếu có bất kỳ câu hỏi nào về tình huống cụ thể, bạn có thể tra nhanh ở mục [hỏi đáp](/blog/hoi-dap/).
+Người mới chạy xe nên tập gì để không bị động? Hãy bắt đầu bằng cách quan sát trước từ ba xe về phía trước thay vì chỉ nhìn bánh xe ngay trước, và luôn tự đặt câu hỏi xe tải đó chuẩn bị làm gì tiếp theo. Kỹ năng quan sát này được luyện thêm qua từng chặng đường đô thị, và nếu có bất kỳ câu hỏi nào về tình huống cụ thể, bạn có thể tra nhanh ở mục [hỏi đáp](/hoi-dap/).
 
 Nên bóp còi khi xe tải chuyển làn không? Có, một tiếng ngắn để báo vị trí, nhưng không nên bấm còi dài gây căng thẳng thêm cho tài xế.
 

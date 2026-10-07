@@ -16,7 +16,7 @@ writer: W1
 
 Nếu bạn mới lấy bằng A1 và tự thấy tay lái còn run, câu hỏi thực tế nhất không phải là mua xe gì, mà là hôm cuối tuần này chạy ở đâu cho an toàn. Chọn đúng tuyến tập chạy xe cuối tuần người mới sẽ quyết định tốc độ tiến bộ nhanh hay chậm, vì đường luyện xe cho người mới cần những điều kiện rất khác với đường người có kinh nghiệm hay đi: ít xe, ít giao cắt, tầm nhìn rộng và có chỗ dừng chân. Bài viết này gợi ý cách chọn tuyến đầu tiên quanh Hà Nội, cách sắp xếp lộ trình tăng dần độ khó, và những lỗi phổ biến khiến buổi tập cuối tuần trở thành trải nghiệm đáng sợ thay vì bước đà tự tin.
 
-Nếu bạn đang tìm hiểu các câu hỏi khác của người mới điều khiển xe máy, phần [hỏi đáp dành cho người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/) tổng hợp nhiều tình huống thực tế, còn tổng quan các chủ đề nằm tại trang [hỏi đáp](/blog/hoi-dap/).
+Nếu bạn đang tìm hiểu các câu hỏi khác của người mới điều khiển xe máy, phần [hỏi đáp dành cho người mới](/hoi-dap/hoi-dap-nguoi-moi/) tổng hợp nhiều tình huống thực tế, còn tổng quan các chủ đề nằm tại trang [hỏi đáp](/hoi-dap/).
 
 ## Đường luyện xe cho người mới cần đạt điều kiện nào
 
@@ -42,7 +42,7 @@ Cũng nên tránh tối cuối tuần. Dù đèn đường tốt, người mới
 
 Cách tổ chức buổi tập hợp lý hơn nhiều so với chạy dài một mạch. Buổi thứ nhất, bạn chỉ chạy quãng ngắn hai, ba ki-lô-mét, chủ yếu để làm quen cảm giác ga, côn, phanh và cách ngồi thẳng lưng. Buổi thứ hai, tăng lên năm đến bảy ki-lô-mét và bắt đầu luyện vào cua có bán kính lớn. Buổi thứ ba, thêm một đoạn đường có đèn đỏ để luyện dừng, hạ chân, đợi đèn rồi vào ga đi tiếp. Cách tăng dần như vậy giúp mỗi kỹ năng được lặp đủ số lần để thành phản xạ, thay vì dồn hết vào một buổi rồi sáng hôm sau đau cả người và hết muốn chạy xe.
 
-Một mẹo nhỏ: ghi lại sau mỗi buổi xem bạn lúng túng ở đâu, và buổi sau chọn đoạn đường phù hợp để khắc phục đúng điểm yếu đó. Nếu bạn chưa chắc kiểu xe nào hợp mình khi bắt đầu, phần [chọn loại xe](/blog/xe-may/chon-loai-xe/) và các bài về [chọn xe máy](/blog/hoi-dap/hoi-dap-chon-xe/) có thêm thông tin để tham khảo trước khi quyết định thuê hay mua.
+Một mẹo nhỏ: ghi lại sau mỗi buổi xem bạn lúng túng ở đâu, và buổi sau chọn đoạn đường phù hợp để khắc phục đúng điểm yếu đó. Nếu bạn chưa chắc kiểu xe nào hợp mình khi bắt đầu, phần [chọn loại xe](/xe-may/chon-loai-xe/) và các bài về [chọn xe máy](/hoi-dap/hoi-dap-chon-xe/) có thêm thông tin để tham khảo trước khi quyết định thuê hay mua.
 
 ## Lỗi thường gặp khiến buổi tập phản tác dụng
 
@@ -52,7 +52,7 @@ Lỗi thứ tư là vội lên đường đông sau vài buổi. Khi đã tự t
 
 ## Nên thuê xe hay mượn xe khi bắt đầu tập
 
-Với người chưa có xe, thuê xe máy trong giai đoạn đầu là lựa chọn hợp lý, vì bạn chưa cần đầu tư cho một chiếc xe khi chưa biết mình hợp xe ga hay xe số. Khi thuê để tập, hãy nói rõ với chủ xe rằng bạn là người mới, chọn mẫu xe nhẹ, yên thấp, hai chân chạm đất được, và kiểm tra phanh, gương, còi trước khi nhận xe. Kinh nghiệm thuê và nhận xe chi tiết nằm trong trang [thuê xe máy](/blog/thue-xe/), nơi bạn cũng tìm được thông tin về giấy tờ cần mang theo.
+Với người chưa có xe, thuê xe máy trong giai đoạn đầu là lựa chọn hợp lý, vì bạn chưa cần đầu tư cho một chiếc xe khi chưa biết mình hợp xe ga hay xe số. Khi thuê để tập, hãy nói rõ với chủ xe rằng bạn là người mới, chọn mẫu xe nhẹ, yên thấp, hai chân chạm đất được, và kiểm tra phanh, gương, còi trước khi nhận xe. Kinh nghiệm thuê và nhận xe chi tiết nằm trong trang [thuê xe máy](/thue-xe/), nơi bạn cũng tìm được thông tin về giấy tờ cần mang theo.
 
 Nếu người mới trong nhà là người thân lớn tuổi, việc chọn xe lại càng cần cẩn trọng hơn, vì trọng lượng và chiều cao yên ảnh hưởng trực tiếp đến độ an toàn của họ.
 

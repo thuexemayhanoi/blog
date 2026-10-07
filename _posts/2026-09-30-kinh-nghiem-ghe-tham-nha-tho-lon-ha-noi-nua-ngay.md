@@ -43,7 +43,7 @@ Ngày thường thì ngược lại: đường thông thoáng cho xe máy hơn, 
 
 ## Gửi xe một lần rồi đi bộ
 
-Đây là quyết định tiết kiệm thời gian nhất trong mọi chuyến nửa ngày. Thay vì dời xe theo từng điểm, hãy chọn một bãi gửi gần trung tâm khu, gửi cho cả buổi, rồi di chuyển hoàn toàn bằng chân. Việc dời xe giữa phố cổ thường tốn thời gian hơn giá trị nó mang lại: mỗi lần dời là một lần phải vòng lại vì đường một chiều, tìm chỗ mới và chờ xếp xe. Những lưu ý về chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Đây là quyết định tiết kiệm thời gian nhất trong mọi chuyến nửa ngày. Thay vì dời xe theo từng điểm, hãy chọn một bãi gửi gần trung tâm khu, gửi cho cả buổi, rồi di chuyển hoàn toàn bằng chân. Việc dời xe giữa phố cổ thường tốn thời gian hơn giá trị nó mang lại: mỗi lần dời là một lần phải vòng lại vì đường một chiều, tìm chỗ mới và chờ xếp xe. Những lưu ý về chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 ## Ăn uống và nghỉ chân giữa chuyến
 
@@ -55,6 +55,6 @@ Vì phần lớn thời gian là đi bộ, giày mềm và trang phục thoáng 
 
 ## Nếu đi từ xa bằng xe máy
 
-Nếu bạn ở quận rìa và chỉ muốn dành nửa ngày ở trung tâm, việc thuê một chiếc xe máy gần khu thay vì tự lái từ xa vào rồi tìm chỗ gửi là phương án đáng cân nhắc; các gợi ý về [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) có thể giúp bạn so sánh. Còn nếu gộp chuyến này vào lộ trình dài hơn, hãy tham khảo bài [lộ trình cho chuyến cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) để cân thời gian di chuyển giữa các điểm.
+Nếu bạn ở quận rìa và chỉ muốn dành nửa ngày ở trung tâm, việc thuê một chiếc xe máy gần khu thay vì tự lái từ xa vào rồi tìm chỗ gửi là phương án đáng cân nhắc; các gợi ý về [thuê xe máy theo ngày](/thue-xe/thue-ngay/) có thể giúp bạn so sánh. Còn nếu gộp chuyến này vào lộ trình dài hơn, hãy tham khảo bài [lộ trình cho chuyến cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) để cân thời gian di chuyển giữa các điểm.
 
-Tóm lại, nửa ngày quanh Nhà thờ Lớn chỉ cần ba thứ: khung giờ chọn đúng, xe gửi một chỗ, và lịch trình bỏ bớt thay vì thêm. Làm được ba điều đó, chuyến đi sẽ thong thả kể cả khi khu phố đông người. Để xem những địa điểm khác có thể gộp vào cùng lộ trình, hãy tham khảo danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/).
+Tóm lại, nửa ngày quanh Nhà thờ Lớn chỉ cần ba thứ: khung giờ chọn đúng, xe gửi một chỗ, và lịch trình bỏ bớt thay vì thêm. Làm được ba điều đó, chuyến đi sẽ thong thả kể cả khi khu phố đông người. Để xem những địa điểm khác có thể gộp vào cùng lộ trình, hãy tham khảo danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/).

@@ -43,10 +43,10 @@ Nếu nhóm đông, cử một người xếp hàng gửi xe, số còn lại tr
 
 Chạy xe ban đêm có vài nguyên tắc cần nhớ. Một là bật đèn pha ngay từ lúc rời khuôn viên công viên, vì đoạn ven đường tối, tầm nhìn ngắn. Hai là đường Phạm Văn Đồng rộng, xe chạy nhanh, khi hòa vào dòng xe hãy theo đúng làn, không cắt xe. Ba là mang đồ phản quang nếu mặc áo tối màu, giúp người khác thấy bạn từ xa. Bốn là hạn chế dùng điện thoại khi chạy, nhất là khúc vào lối đỗ đông người.
 
-Nếu trời mưa đêm, mặt đường phản sáng khó ước lượng, hãy đi chậm và phanh sớm. Tham khảo thêm các mẹo trong phần [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) cũng là cách rèn phản xạ cho những tình huống về đêm.
+Nếu trời mưa đêm, mặt đường phản sáng khó ước lượng, hãy đi chậm và phanh sớm. Tham khảo thêm các mẹo trong phần [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) cũng là cách rèn phản xạ cho những tình huống về đêm.
 
 ## Kết hợp lịch trình tối
 
-Sau giờ dạo công viên, bạn có thể ghé các khu ăn uống ven Phạm Văn Đồng trước khi về, hoặc chạy thêm quãng ngắm thành phố lên đèn từ khu gần cầu Nhật Tân. Nếu muốn nối thêm các [điểm đến du lịch](/blog/du-lich/diem-den/) khác trong chuyên mục [du lịch](/blog/du-lich/), hãy tính giờ để không về quá khuya. Ai cần phương tiện cho buổi tối cũng có thể xem qua dịch vụ [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/), lưu ý lấy xe lúc cửa hàng còn mở và hỏi kỹ giờ trả xe.
+Sau giờ dạo công viên, bạn có thể ghé các khu ăn uống ven Phạm Văn Đồng trước khi về, hoặc chạy thêm quãng ngắm thành phố lên đèn từ khu gần cầu Nhật Tân. Nếu muốn nối thêm các [điểm đến du lịch](/du-lich/diem-den/) khác trong chuyên mục [du lịch](/du-lich/), hãy tính giờ để không về quá khuya. Ai cần phương tiện cho buổi tối cũng có thể xem qua dịch vụ [thuê xe máy theo ngày](/thue-xe/thue-ngay/), lưu ý lấy xe lúc cửa hàng còn mở và hỏi kỹ giờ trả xe.
 
 Tóm lại, một buổi tối đến Công viên Hòa Bình bằng xe máy khá dễ sắp xếp nếu bạn nắm trục Phạm Văn Đồng, gửi xe ở điểm có người trông giữ gần cổng, bật đèn sớm và đi chậm quanh khu đông người. Đến sau bảy giờ để ngắm đèn, chọn ngày thường nếu thích vắng, và luôn kiểm tra đèn phanh trước khi lên đường về giữa lòng Hà Nội về đêm.

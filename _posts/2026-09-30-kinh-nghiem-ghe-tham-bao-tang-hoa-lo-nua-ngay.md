@@ -39,11 +39,11 @@ Phiên bản buổi chiều: ba giờ ăn nhẹ hoặc cà phê quanh khu, bốn
 
 Ngày thường vắng khách hơn hẳn, đặc biệt là sáng sớm đầu tuần, gần như bạn có không gian riêng ở nhiều khu trưng bày. Cuối tuần thì khách đến theo nhóm gia đình và đoàn bạn tăng mạnh, khung giữa sáng đến đầu chiều là lúc đông đúc nhất, và phần đứng đọc tư liệu cần thêm chút kiên nhẫn. Nếu chỉ có thời điểm cuối tuần, đi sớm ngay từ lúc mở cửa là cách ổn nhất để giữ nhịp thoải mái cho mình.
 
-Nửa ngày cuối tuần cũng có lợi riêng: sau phần tham quan trong nhà, không gian đi bộ quanh hồ lên đèn rất đáng để ở lại, và các hàng quán vỉa hè quanh khu hoạt động đủ rộn để bữa tối không phải đi xa. Nếu bạn định ghép nhiều điểm hơn, tham khảo các [lộ trình cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) để cân tổng thời gian cho cả ngày.
+Nửa ngày cuối tuần cũng có lợi riêng: sau phần tham quan trong nhà, không gian đi bộ quanh hồ lên đèn rất đáng để ở lại, và các hàng quán vỉa hè quanh khu hoạt động đủ rộn để bữa tối không phải đi xa. Nếu bạn định ghép nhiều điểm hơn, tham khảo các [lộ trình cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) để cân tổng thời gian cho cả ngày.
 
 ## Gửi xe và chuẩn bị trước chuyến
 
-Chỗ gửi xe quanh khu khá đa dạng nhưng không nằm ngay trước cổng, nên như mọi điểm trung tâm, chốt một bãi gần hướng đi bộ của mình rồi để xe đó trọn buổi là cách gọn nhất. Những lưu ý về chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/). Đồ đạc nên mang tối thiểu, vì không gian trong bảo tàng hẹp và phần di chuyển bằng chân chiếm tỷ trọng lớn của buổi.
+Chỗ gửi xe quanh khu khá đa dạng nhưng không nằm ngay trước cổng, nên như mọi điểm trung tâm, chốt một bãi gần hướng đi bộ của mình rồi để xe đó trọn buổi là cách gọn nhất. Những lưu ý về chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/). Đồ đạc nên mang tối thiểu, vì không gian trong bảo tàng hẹp và phần di chuyển bằng chân chiếm tỷ trọng lớn của buổi.
 
 Bữa ăn giữa buổi không thiếu lựa chọn, vì khu nằm giữa dải phố có đủ các hàng phở, bánh cuốn, cơm và cà phê. Với lịch trình nửa ngày, chốt một điểm ăn cố định gần bãi gửi xe sẽ đỡ mất công đi tìm giữa buổi, nhất là khung trưa nắng gắt. Hỏi giờ mở sớm muộn của quán nếu định ăn sát giờ nghỉ trưa, vì một số hàng quanh khu đóng sớm hơn tưởng tượng.
 
@@ -51,6 +51,6 @@ Trang phục và trang bị: giày mềm, mũ gọn có thể nhét vào balo, n
 
 ## Ghép thêm điểm quanh khu
 
-Rời khỏi khu Hỏa Lò, bạn có thể đi bộ sang Hồ Gươm, vào phố cổ, hoặc men về phía ga xem nhịp sống một khu khác. Nếu đi bằng xe thuê từ xa vào, phần so sánh các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) sẽ giúp chốt phương án di chuyển cho cả buổi, thay vì phải dời xe nhiều lần giữa các điểm gần nhau.
+Rời khỏi khu Hỏa Lò, bạn có thể đi bộ sang Hồ Gươm, vào phố cổ, hoặc men về phía ga xem nhịp sống một khu khác. Nếu đi bằng xe thuê từ xa vào, phần so sánh các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) sẽ giúp chốt phương án di chuyển cho cả buổi, thay vì phải dời xe nhiều lần giữa các điểm gần nhau.
 
-Tóm lại, nửa ngày quanh Bảo tàng Hỏa Lò gói được nhiều lớp trải nghiệm nếu xếp đúng: phần trong nhà cho khung trưa, phần đi bộ cho sáng hoặc chiều mát, và xe giữ nguyên một chỗ cho trọn buổi. Nếu muốn mở rộng chuyến qua các điểm khác trong khu vực, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ tham khảo tiếp theo.
+Tóm lại, nửa ngày quanh Bảo tàng Hỏa Lò gói được nhiều lớp trải nghiệm nếu xếp đúng: phần trong nhà cho khung trưa, phần đi bộ cho sáng hoặc chiều mát, và xe giữ nguyên một chỗ cho trọn buổi. Nếu muốn mở rộng chuyến qua các điểm khác trong khu vực, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ tham khảo tiếp theo.

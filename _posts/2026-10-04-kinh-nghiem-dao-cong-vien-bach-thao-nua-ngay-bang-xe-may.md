@@ -48,6 +48,6 @@ Mang kem chống nắng và mũ cho trẻ, dù trong vườn nhiều bóng cây,
 
 Một kinh nghiệm nữa là đừng xếp lịch quá kín: Bách Thảo hợp kiểu dạo chậm, ngồi nhiều, nên chọn ít điểm và ở lâu còn vui hơn gấp rút qua hết mọi ngóc ngách. Nếu đi nhóm, hẹn điểm gặp ở cổng chính hoặc khu hồ nhỏ, hai chỗ dễ tìm nhất. Cuối cùng, với khách thuê xe, chụp lại biển giá bãi và vị trí cổng để buổi về đỡ phải dò lại giữa phố.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [Hồ Tây](/blog/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [Hồ Tây](/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, dạo Công viên Bách Thảo nửa ngày hợp nhất vào sáng sớm hoặc chiều muộn: vườn cây cổ dễ chịu, có hồ nhỏ và ghế nghỉ, và quanh cổng đủ chỗ ăn nhẹ. Đi bằng xe máy từ trung tâm chỉ mất một quãng ngắn, gửi xe nơi có người trông và giữ phi. Tra giờ mở cửa mới nhất, và để dành chút thời gian cho đoạn ven Hồ Tây nếu buổi đi còn dư.

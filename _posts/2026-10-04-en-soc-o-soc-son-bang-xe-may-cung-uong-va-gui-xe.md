@@ -50,4 +50,4 @@ Khuôn viên đền rộng, nhiều bậc đá và khúc dốc bộ: giày bằn
 
 Buổi đi lên đền Sóc xứng đáng ghép cả quãng: sáng đi đền, ăn sáng tại quán quanh khu cổng hoặc trên đường liên xã, rồi chạy thêm một vòng đường quê quanh khu trước khi về. Kiểu ghép này khiến quãng đường dài trở thành trọn một buổi cuối tuần thay vì một cuốc đi về.
 
-Tóm lại, ba thứ tự giữ nguyên: đường theo trục và biển chỉ dẫn, giờ chọn sớm, xe gửi bãi có người trông. Ai muốn mẹo chạy xe ngoại thành chung, xem mục [kinh nghiệm](/blog/kinh-nghiem/); gợi ý điểm chơi khu vực này ở chuyên mục [ngoại thành](/blog/du-lich/ngoai-thanh/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/blog/du-lich/).
+Tóm lại, ba thứ tự giữ nguyên: đường theo trục và biển chỉ dẫn, giờ chọn sớm, xe gửi bãi có người trông. Ai muốn mẹo chạy xe ngoại thành chung, xem mục [kinh nghiệm](/kinh-nghiem/); gợi ý điểm chơi khu vực này ở chuyên mục [ngoại thành](/du-lich/ngoai-thanh/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/du-lich/).

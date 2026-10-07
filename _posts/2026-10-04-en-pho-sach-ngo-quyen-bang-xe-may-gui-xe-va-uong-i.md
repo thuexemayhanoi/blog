@@ -56,6 +56,6 @@ Trước khi đi, bạn nên liệt kê sẵn vài tựa sách đang tìm để 
 
 ## Kết hợp trong buổi dạo
 
-Sau khi sắm sách, nhiều người rủ nhau dạo tiếp các con phố cổ quanh khu vực, nơi tập trung nhiều quán ăn lâu đời và các gian hàng đặc sản. Chuyên mục [phố cổ Hà Nội](/blog/du-lich/pho-co/) tổng hợp gợi ý dạo phố, còn [du lịch Hà Nội](/blog/du-lich/) giúp bạn xếp lịch cho cả ngày ở thủ đô. Khách ở xa cần phương tiện có thể xem trước [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/).
+Sau khi sắm sách, nhiều người rủ nhau dạo tiếp các con phố cổ quanh khu vực, nơi tập trung nhiều quán ăn lâu đời và các gian hàng đặc sản. Chuyên mục [phố cổ Hà Nội](/du-lich/pho-co/) tổng hợp gợi ý dạo phố, còn [du lịch Hà Nội](/du-lich/) giúp bạn xếp lịch cho cả ngày ở thủ đô. Khách ở xa cần phương tiện có thể xem trước [thuê xe máy theo ngày](/thue-xe/thue-ngay/).
 
 Tóm lại, đến phố sách Ngô Quyền bằng xe máy là một buổi đi nhẹ nhàng, ít tốn kém và hợp với mọi lứa tuổi. Nắm trước đường đi, chọn đúng chỗ gửi xe và canh lịch tránh giờ phố đi bộ đông đúc, buổi dạo sách của bạn sẽ suôn sẻ từ đầu đến cuối.

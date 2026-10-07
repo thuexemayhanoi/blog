@@ -19,7 +19,7 @@ Chuyến đi cuối tuần quanh Hà Nội không cần xe máy lớn: một chi
 
 Air Blade là dòng xe ga thể thao với máy nhạy, phanh đĩa trước và khung chắc, đúng nhóm tính cách cần cho đường trường ngắn và trung bình. Với các cung đi qua khu vực như Sơn Tây, Chương Mỹ, Ba Vì hoặc quanh Hồ Tây rồi ra các huyện ven, xe giữ tốc độ ổn định trên đường thoáng, vượt xe tải an toàn và xuống dốc bớt mỏi tay nhờ lực phanh đĩa rõ rệt. Ưu điểm thứ hai là dáng xe gọn: các cung cuối tuần quanh Hà Nội hay có đoạn ngõ nhỏ dẫn vào vườn, hồ câu hoặc khu nghỉ cuối tuần, xe gọn vào được chỗ mà xe máy lớn phải bỏ ngoài cổng.
 
-Ưu điểm thứ ba là mức giá thuê hợp túi: theo ngày phổ biến 200.000 đồng, theo tuần khoảng 800.000 đồng và theo tháng khoảng 1.400.000 đồng. Với chuyến hai ngày, thuê ngày vẫn rẻ hơn nhiều so với nhóm xe máy lớn, trong khi trải nghiệm đủ phần lớn nhu cầu của đường trường ngắn. Tổng hợp về dòng xe nằm ở [chủ đề Honda Air Blade](/blog/xe-may/honda-air-blade/), còn gợi ý các cung phù hợp mỗi cuối tuần nằm ở [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/).
+Ưu điểm thứ ba là mức giá thuê hợp túi: theo ngày phổ biến 200.000 đồng, theo tuần khoảng 800.000 đồng và theo tháng khoảng 1.400.000 đồng. Với chuyến hai ngày, thuê ngày vẫn rẻ hơn nhiều so với nhóm xe máy lớn, trong khi trải nghiệm đủ phần lớn nhu cầu của đường trường ngắn. Tổng hợp về dòng xe nằm ở [chủ đề Honda Air Blade](/xe-may/honda-air-blade/), còn gợi ý các cung phù hợp mỗi cuối tuần nằm ở [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/).
 
 ## Chuẩn bị xe trước khi xuất phát sớm
 
@@ -31,7 +31,7 @@ Về vận hành, hai nguyên tắc đường trường nên giữ: chạy nhị
 
 Air Blade có cốp vừa cho mũ bảo hiểm, áo mưa và đồ nhẹ; với chuyến cắm trại đơn giản, thêm một hộp nhỏ buộc sau yên là đủ cho hai người đi nhẹ. Nên chia đều đồ hai bên nếu buộc sau, tránh dồn một bên khiến xe lệch khi vào cua. Đồ giá trị như máy ảnh, giấy tờ nên giữ ở balo mang trước người, vừa tránh mất vừa không làm nặng phần sau.
 
-Về thời gian, xuất phát sớm sáng thứ bảy hoặc chủ nhật giúp tránh nắng gắt và dòng xe về thành buổi chiều tối. Cung về nên tính dư một giờ vì đường về cuối tuần quanh Hà Nội thường đông ở các nút giao lớn. Với người mới đi cung lần đầu, nên đi nhóm hai ba xe, vừa có nhau khi hỏng xe vừa dễ tìm đường hơn. Câu hỏi về trách nhiệm hỏng hóc giữa kỳ thuê đã được trả lời chi tiết trong [kinh nghiệm thuê xe](/blog/kinh-nghiem/). Trước khi xếp đồ, hãy soát nhanh dự kiến thời gian về: nếu chuyến kéo dài quá chiều chủ nhật, nên báo cửa hàng trước thay vì tự ý kéo dài kỳ thuê, vì khung giờ làm việc của cửa hàng quyết định thời điểm trả xe hợp lệ.
+Về thời gian, xuất phát sớm sáng thứ bảy hoặc chủ nhật giúp tránh nắng gắt và dòng xe về thành buổi chiều tối. Cung về nên tính dư một giờ vì đường về cuối tuần quanh Hà Nội thường đông ở các nút giao lớn. Với người mới đi cung lần đầu, nên đi nhóm hai ba xe, vừa có nhau khi hỏng xe vừa dễ tìm đường hơn. Câu hỏi về trách nhiệm hỏng hóc giữa kỳ thuê đã được trả lời chi tiết trong [kinh nghiệm thuê xe](/kinh-nghiem/). Trước khi xếp đồ, hãy soát nhanh dự kiến thời gian về: nếu chuyến kéo dài quá chiều chủ nhật, nên báo cửa hàng trước thay vì tự ý kéo dài kỳ thuê, vì khung giờ làm việc của cửa hàng quyết định thời điểm trả xe hợp lệ.
 
 ## So Air Blade với các lựa chọn khác cho cuối tuần
 

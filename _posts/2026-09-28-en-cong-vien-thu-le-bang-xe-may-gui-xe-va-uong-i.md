@@ -24,19 +24,19 @@ Vì nằm giữa khu phố dày, công viên không có bãi xe khổng lồ nh�
 
 Từ hướng trung tâm Hoàn Kiếm, cung quen thuộc là theo trục đường ra cửa Nam rồi rẽ theo hướng Kim Mã: trục rộng, làn rõ, chỉ cần để ý các ngã tư có đèn tín hiệu giờ cao điểm. Từ hướng Cầu Giấy hoặc Nam Từ Liêm, vào theo đường Buổi hoặc Vũ Ngọc Phan đều tới các cổng phía tây công viên; hai trục này hẹp hơn Kim Mã nhưng ngắn, ngày thường chạy thoáng, cuối tuần nên vào sớm. Từ hướng Long Biên, qua các trục phía bắc rồi nối vào Kim Mã là gọn nhất.
 
-Gần khu công viên có nhiều đoạn một chiều và ngõ nhỏ quanh khu dân cư, nên khách lạ đường nên bám trục chính, đừng cắt ngõ để kẹp đoạn: ngõ quanh khu này có trường học và khu ở, dòng xe địa phương và trẻ nhỏ ra vào nhiều. Đỗ tạm trên vỉa hè quanh cổng công viên để thắt dây mũ hay mua nước là thói quen dễ gây tắc tại các cổng đông; gửi xe xong rồi hãy chuẩn bị đồ. Kinh nghiệm chạy xe quanh khu di tích lân cận được kể trong bài [lưu ý khi chạy xe quanh Hoàng thành Thăng Long](/blog/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-hoang-thanh-thang-long/).
+Gần khu công viên có nhiều đoạn một chiều và ngõ nhỏ quanh khu dân cư, nên khách lạ đường nên bám trục chính, đừng cắt ngõ để kẹp đoạn: ngõ quanh khu này có trường học và khu ở, dòng xe địa phương và trẻ nhỏ ra vào nhiều. Đỗ tạm trên vỉa hè quanh cổng công viên để thắt dây mũ hay mua nước là thói quen dễ gây tắc tại các cổng đông; gửi xe xong rồi hãy chuẩn bị đồ. Kinh nghiệm chạy xe quanh khu di tích lân cận được kể trong bài [lưu ý khi chạy xe quanh Hoàng thành Thăng Long](/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-hoang-thanh-thang-long/).
 
 ## Gửi xe quanh cổng công viên
 
 Các bãi gửi xe quanh Thủ Lệ mở theo giờ mở cửa của khu vực, tập trung tại các cổng chính; giờ cao điểm cuối tuần, các bãi sát cổng kín trước, các lô đất trong hẻm lân cận nhận tiếp. Mức phí giữ xe máy thường nhỏ lẻ, nhưng giữa các bãi và giữa ngày thường với ngày cuối tuần có thể khác nhau, nên hỏi trước khi đưa xe. Ai định ở lâu, kết hợp cả vườn hoa và khu vui chơi, nên chọn bãi gần cổng tiện cho trẻ nhỏ, đỡ phải dắt bộ qua đường lớn khi trẻ mệt.
 
-Xe máy thuê nên khóa cổ và khóa từ, cất mũ vào cốp, chụp lại chỗ gửi kèm biển số vì các hẻm quanh khu này dễ giống nhau. Cuối buổi lấy xe, nhún phanh và thử đèn một vòng trước khi lăn ra trục chính: Kim Mã có đoạn dòng xe nhanh, tham gia vào dòng cần xe sẵn sàng ngay. Mẹo gửi xe ở các điểm đông khách được gom tại trang [du lịch Hà Nội](/blog/du-lich/).
+Xe máy thuê nên khóa cổ và khóa từ, cất mũ vào cốp, chụp lại chỗ gửi kèm biển số vì các hẻm quanh khu này dễ giống nhau. Cuối buổi lấy xe, nhún phanh và thử đèn một vòng trước khi lăn ra trục chính: Kim Mã có đoạn dòng xe nhanh, tham gia vào dòng cần xe sẵn sàng ngay. Mẹo gửi xe ở các điểm đông khách được gom tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Giờ mở cửa và khung giờ phù hợp
 
 Công viên thường mở cửa đón khách ban ngày, khung hay được nhắc là từ sáng sớm tới chiều muộn, nhưng giờ cụ thể có thể thay đổi theo mùa và theo các hoạt động trong công viên, nên với lịch trình sát giờ, kiểm tra tin mới nhất trước khi đi. Sáng sớm là khung thoáng nhất: người tập chạy chiếm vòng quanh hồ, các khu vui chơi chưa mở nhưng vườn hoa mát; giữa sáng cuối tuần là khung gia đình đông nhất, các khu vui chơi trẻ nhỏ hoạt động hết công suất.
 
-Buổi chiều muộn quanh khu công viên có hai dòng đáng để ý: dòng khách ra về tạo đám đông trước các cổng và dòng xe tan tầm trên các trục lớn. Tính thời gian lấy xe chừa thêm chừng mười phút cuối tuần, vì xếp chỗ trong các bãi kín dần, lấy xe lúc đông cần chờ lượt. Khách ghép thêm các điểm lân cận như khu di tích phía nội đô có thể xem thêm trang [điểm đến](/blog/du-lich/diem-den/) để sắp chuỗi buổi hợp lý.
+Buổi chiều muộn quanh khu công viên có hai dòng đáng để ý: dòng khách ra về tạo đám đông trước các cổng và dòng xe tan tầm trên các trục lớn. Tính thời gian lấy xe chừa thêm chừng mười phút cuối tuần, vì xếp chỗ trong các bãi kín dần, lấy xe lúc đông cần chờ lượt. Khách ghép thêm các điểm lân cận như khu di tích phía nội đô có thể xem thêm trang [điểm đến](/du-lich/diem-den/) để sắp chuỗi buổi hợp lý.
 
 ## Kết luận về đường đi và gửi xe ở Thủ Lệ
 

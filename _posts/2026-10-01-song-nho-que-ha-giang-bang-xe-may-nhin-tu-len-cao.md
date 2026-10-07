@@ -33,9 +33,9 @@ Mùa cũng đáng tính: mùa hậu, tức khoảng tháng mười một sang th
 
 ## Chuẩn bị xe cho vùng cao nguyên đá
 
-Cung Hà Giang đòi hỏi xe tốt hơn mọi cung gần Hà Nội: lốp còn gai và căng đúng, phanh ăn, đèn sáng, và nếu chạy xe số thì dây xích mới chỉnh. Đường chính lên Đồng Văn đã tốt, nhưng các nhánh xuống điểm nhìn và xuống bến vẫn là đường núi thật: dốc, hẹp, quanh co. Người đi bằng xe máy thuê nên chọn xe khỏe, đã bảo dưỡng định kỳ, và nói rõ với cửa hàng chuyến Hà Giang nhiều ngày; phần tư vấn loại xe cho cung núi nằm trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), thông tin dịch vụ ở trang [cho thuê xe máy](/blog/thue-xe/).
+Cung Hà Giang đòi hỏi xe tốt hơn mọi cung gần Hà Nội: lốp còn gai và căng đúng, phanh ăn, đèn sáng, và nếu chạy xe số thì dây xích mới chỉnh. Đường chính lên Đồng Văn đã tốt, nhưng các nhánh xuống điểm nhìn và xuống bến vẫn là đường núi thật: dốc, hẹp, quanh co. Người đi bằng xe máy thuê nên chọn xe khỏe, đã bảo dưỡng định kỳ, và nói rõ với cửa hàng chuyến Hà Giang nhiều ngày; phần tư vấn loại xe cho cung núi nằm trong bài [chọn loại xe](/xe-may/chon-loai-xe/), thông tin dịch vụ ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ mang theo phải tính cho khí hậu vùng cao: áo giữ nhiệt, áo gió, mũ len, găng tay, vì trên đèo giữa mùa lạnh gió cắt mạnh, kể cả khi dưới thung lũng nắng đẹp. Giấy tờ bản gốc là bắt buộc mang theo: toàn tuyến có các chốt kiểm tra, và vùng biên giới đôi lúc cần xuất trình. Nhóm quy định đường trường và đường núi gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), nên đọc trước chuyến đi xa.
+Đồ mang theo phải tính cho khí hậu vùng cao: áo giữ nhiệt, áo gió, mũ len, găng tay, vì trên đèo giữa mùa lạnh gió cắt mạnh, kể cả khi dưới thung lũng nắng đẹp. Giấy tờ bản gốc là bắt buộc mang theo: toàn tuyến có các chốt kiểm tra, và vùng biên giới đôi lúc cần xuất trình. Nhóm quy định đường trường và đường núi gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), nên đọc trước chuyến đi xa.
 
 Nhiên liệu canh theo mốc: từ thành phố Hà Giang lên Đồng Văn có trạm, nhưng càng sâu vào vùng đá trạm càng thưa, nên đổ đầy trước chặng cuối ngày. Đường xuống bến nhiều khi không có chỗ đổ, và đẩy xe dốc vì hết xăng là kết cục không ai muốn.
 
@@ -49,6 +49,6 @@ Tại bến, chỗ đỗ hạn chế và sát mép, nên chống xe chắc, gác
 
 ## Ghép chuyến quanh Nho Quế
 
-Chuỗi điểm nhìn sông thường ghép trong lịch Hà Giang: chợ phiên sớm ở cao nguyên đá, các phố cổ Đồng Văn, và đèo vào khung giữa ngày. Nếu bạn cần tổng quan lộ trình và các mốc dừng từ Hà Nội lên, nhóm bài [Hà Giang](/blog/cung-duong/ha-giang/) gói đủ phần chuẩn bị. Ai mới tập chạy cung núi nên luyện trước bằng các vòng [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/), rồi mới tính đến cao nguyên đá.
+Chuỗi điểm nhìn sông thường ghép trong lịch Hà Giang: chợ phiên sớm ở cao nguyên đá, các phố cổ Đồng Văn, và đèo vào khung giữa ngày. Nếu bạn cần tổng quan lộ trình và các mốc dừng từ Hà Nội lên, nhóm bài [Hà Giang](/cung-duong/ha-giang/) gói đủ phần chuẩn bị. Ai mới tập chạy cung núi nên luyện trước bằng các vòng [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/), rồi mới tính đến cao nguyên đá.
 
 Nhìn sông Nho Quế từ trên cao là phần thưởng của cả một hành trình dài, và cách duy nhất tới được đó vẫn là chuẩn bị kỹ, đi chậm đúng chỗ, và dành cho dòng sông đúng khung giờ nó đẹp nhất.

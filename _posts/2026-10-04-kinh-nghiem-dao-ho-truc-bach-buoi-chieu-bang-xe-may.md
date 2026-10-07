@@ -46,6 +46,6 @@ Gợi ý tổng hợp cho một buổi chiều chuẩn: ba rưỡi tới nơi, g
 
 Các bạn đi theo nhóm nên hẹn gặp tại một bãi gửi cố định, hẹn giờ cụ thể để không phải lần từng ngõ tìm nhau. Người mới thuê xe máy ở Hà Nội cũng có thể coi Trúc Bạch như một bài tập nhẹ nhàng: đường quanh khu hẹp nhưng chậm, cho cảm giác tay lái trước khi chạy các trục lớn.
 
-Muốn đọc thêm về điểm dạo khác, chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/) gom gần hết các hồ và công viên đáng chạy qua; các lưu ý gửi xe, giữ xe chi tiết hơn nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); còn trang [du lịch](/blog/du-lich/) là nơi bắt đầu cho mọi lịch trình chiều ở thành phố. Ai lần đầu chạy xe ở nội đô nên dành vài phút cho mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm về điểm dạo khác, chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/) gom gần hết các hồ và công viên đáng chạy qua; các lưu ý gửi xe, giữ xe chi tiết hơn nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); còn trang [du lịch](/du-lich/) là nơi bắt đầu cho mọi lịch trình chiều ở thành phố. Ai lần đầu chạy xe ở nội đô nên dành vài phút cho mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Một buổi chiều chậm, một vòng hồ nhỏ, một quãng đường về qua cầu cũ: dạo Trúc Bạch đơn giản vậy thôi, và cũng vì thế mà nó luôn có chỗ trong lịch trình chiều của biết bao người sống ở Hà Nội.

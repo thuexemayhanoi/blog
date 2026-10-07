@@ -19,7 +19,7 @@ article_id: BLG-01093
 
 Khi nhận ra xe chạy bất thường, việc đầu tiên là giảm tốc từ từ, tránh phanh gấp, và quan sát chỗ có thể dừng sát lề an toàn: đầu hẻm, trước cổng trụ, đoạn có vạch kẻ dành cho dừng khẩn cấp. Tuyệt đối không tiếp tục chạy vì lốp non sẽ bị xé rách thêm và mâm xe có thể bị mòn, biến một vụ vá nhỏ thành một vụ thay lốp. Sau khi dừng, bật đèn khẩn cấp nếu có, dựng xe bằng chân chống và kiểm tra cả hai bánh, vì tiếng ồn có thể đến từ bánh nào không như bạn tưởng.
 
-Vị trí dừng quan trọng hơn nhiều người nghĩ. Nếu bạn còn cách một đoạn tới chỗ rộng, mà lốp chỉ non nhẹ và chạy chậm được, hãy chuyển hướng vào hẻm phụ hoặc bãi trống thay vì đứng sửa giữa làn xe chạy. Đứng giữa phố đông vừa khó mở rộng dụng cụ vừa rủi ro va chạm. Chi tiết về cách chọn vị trí dừng khi xe gặp sự cố đã được kể trong bài về [xử lý sự cố giữa đường](/blog/thue-xe/su-co/), bạn có thể đọc trước để hình dung tình huống.
+Vị trí dừng quan trọng hơn nhiều người nghĩ. Nếu bạn còn cách một đoạn tới chỗ rộng, mà lốp chỉ non nhẹ và chạy chậm được, hãy chuyển hướng vào hẻm phụ hoặc bãi trống thay vì đứng sửa giữa làn xe chạy. Đứng giữa phố đông vừa khó mở rộng dụng cụ vừa rủi ro va chạm. Chi tiết về cách chọn vị trí dừng khi xe gặp sự cố đã được kể trong bài về [xử lý sự cố giữa đường](/thue-xe/su-co/), bạn có thể đọc trước để hình dung tình huống.
 
 ## Xe thuê thủng lốp loại nào: nhận diện tại chỗ
 
@@ -35,10 +35,10 @@ Lý do báo sớm cho bên cho thuê không phải để xin phép, mà để m�
 
 ## Ngăn tình huống bằng cách kiểm tra trước
 
-Cách tốt nhất để không gặp vụ thủng giữa phố vẫn là kiểm tra lốp ngay lúc nhận xe. Ấn thử thành lốp xem áp suất còn căng không, soi mặt lốp tìm mòn lệch hay vết cắm cũ, hỏi bên cho thuê lần cuối thay lốp là khi nào nếu bạn thuê dài ngày. Nên đọc thêm danh mục kiểm tra trong bài về [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), vì lốp nằm trong nhóm ba hạng mục quan trọng nhất cùng với phanh và đèn.
+Cách tốt nhất để không gặp vụ thủng giữa phố vẫn là kiểm tra lốp ngay lúc nhận xe. Ấn thử thành lốp xem áp suất còn căng không, soi mặt lốp tìm mòn lệch hay vết cắm cũ, hỏi bên cho thuê lần cuối thay lốp là khi nào nếu bạn thuê dài ngày. Nên đọc thêm danh mục kiểm tra trong bài về [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), vì lốp nằm trong nhóm ba hạng mục quan trọng nhất cùng với phanh và đèn.
 
-Khi đang chạy, thói quen nhỏ cũng giúp tránh thủng: giữ khoảng cách với rãnh mép lề nơi đinh vít thường dồn về, tránh đè lên đám sành sứt vừa được lát lại, giảm tốc khi qua đoạn thi công. Cách lái phòng ngừa kết hợp với [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) được kể trong các bài kỹ năng, bạn có thể đọc để hình dung trước các tình huống thường gặp.
+Khi đang chạy, thói quen nhỏ cũng giúp tránh thủng: giữ khoảng cách với rãnh mép lề nơi đinh vít thường dồn về, tránh đè lên đám sành sứt vừa được lát lại, giảm tốc khi qua đoạn thi công. Cách lái phòng ngừa kết hợp với [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) được kể trong các bài kỹ năng, bạn có thể đọc để hình dung trước các tình huống thường gặp.
 
 ## Ghi chú khi gặp sự cố tại Hà Nội
 
-Tóm lại, khi xe thuê thủng lốp giữa phố, hãy dừng an toàn trước, nhận diện mức độ thủng sau, rồi quyết định vá gần chỗ hay gọi bên cho thuê, và luôn báo bằng tin nhắn kèm ảnh. Nếu bạn cần tư vấn thêm về các loại sự cố thường gặp khi thuê xe hoặc muốn tìm hiểu dịch vụ [thuê xe máy ở Hà Nội](/blog/thue-xe/), hãy ghé Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 tới 21:00, điện thoại 0942 467 674. Gọi sớm một cuộc điện thoại thường giúp bạn có phương án nhanh và rõ ràng hơn rất nhiều so với tự lo giữa phố xa lạ.
+Tóm lại, khi xe thuê thủng lốp giữa phố, hãy dừng an toàn trước, nhận diện mức độ thủng sau, rồi quyết định vá gần chỗ hay gọi bên cho thuê, và luôn báo bằng tin nhắn kèm ảnh. Nếu bạn cần tư vấn thêm về các loại sự cố thường gặp khi thuê xe hoặc muốn tìm hiểu dịch vụ [thuê xe máy ở Hà Nội](/thue-xe/), hãy ghé Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 tới 21:00, điện thoại 0942 467 674. Gọi sớm một cuộc điện thoại thường giúp bạn có phương án nhanh và rõ ràng hơn rất nhiều so với tự lo giữa phố xa lạ.

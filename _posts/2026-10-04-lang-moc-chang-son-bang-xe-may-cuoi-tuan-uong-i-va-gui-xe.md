@@ -49,4 +49,4 @@ Trục về qua các nút giao cuối tuần có dòng xe đông về phía đô
 
 ## Tóm lại
 
-Một buổi Chàng Sơn chuẩn: sáng sớm đi, ăn sáng khu phố, vào làng khung xưởng còn chạy, xem cùng nói chuyện với chủ, gửi xe trong sân xưởng, và về trước khung chiều. Ai muốn mẹo chạy xe hướng tây chung, xem mục [kinh nghiệm](/blog/kinh-nghiem/); gợi ý điểm chơi khu vực này ở chuyên mục [ngoại thành](/blog/du-lich/ngoai-thanh/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/blog/du-lich/).
+Một buổi Chàng Sơn chuẩn: sáng sớm đi, ăn sáng khu phố, vào làng khung xưởng còn chạy, xem cùng nói chuyện với chủ, gửi xe trong sân xưởng, và về trước khung chiều. Ai muốn mẹo chạy xe hướng tây chung, xem mục [kinh nghiệm](/kinh-nghiem/); gợi ý điểm chơi khu vực này ở chuyên mục [ngoại thành](/du-lich/ngoai-thanh/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/du-lich/).

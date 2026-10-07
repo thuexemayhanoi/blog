@@ -46,6 +46,6 @@ Nhiều khách hay hỏi vườn thú có chỗ ăn uống trong khu hay không.
 
 Câu hỏi cuối là về lứa tuổi: vườn hợp hầu hết các độ tuổi, nhưng với trẻ quá nhỏ nên tính đến xe đẩy vì quãng đường khá dài. Người lớn tuổi nên đi theo các đoạn có ghế đá ven hồ Thủ Lệ, vừa xem vừa nghỉ. Tra thông tin mới nhất về giá vé theo độ tuổi trên trang chính thức trước khi mua, để tránh nhầm lúc đứng ở quầy.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [Hồ Tây](/blog/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [Hồ Tây](/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, đến Vườn thú Thủ Lệ bằng xe máy dễ nếu nắm trước ba điều: cổng chính ở đường Bưởi, đường đi ngắn theo hướng xuất phát, và bãi gửi xe gần cổng kín sớm vào cuối tuần. Tra cứu giờ mở cửa và vé mới nhất, gửi xe nơi có người trông và giữ phi. Với khách thuê xe, kiểm tra xe trước khi vào vườn để chuyến về nhẹ nhàng.

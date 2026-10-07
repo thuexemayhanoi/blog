@@ -52,4 +52,4 @@ Các điểm dừng quen thuộc trong làng gồm đình làng và các nhà c�
 
 Chuyến Đường Lâm là chuyến ngắn nhưng vẫn là đường trường nhỏ: kiểm tra đèn, phanh, lốp và xăng trước khi đi, và giữ tốc độ ở các đoạn qua phố ven tuyến. Người thuê xe lần đầu đi ngoài thành nên thử trước vài khúc trong phố cho quen tay ga và phanh của xe.
 
-Các kinh nghiệm chạy xe đường trường chung xem thêm ở mục [kinh nghiệm](/blog/kinh-nghiem/), các tuyến chạy cuối tuần gom trong chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), còn trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến từ Hà Nội.
+Các kinh nghiệm chạy xe đường trường chung xem thêm ở mục [kinh nghiệm](/kinh-nghiem/), các tuyến chạy cuối tuần gom trong chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến từ Hà Nội.

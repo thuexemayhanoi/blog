@@ -48,9 +48,9 @@ Cửa hàng đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Lo
 
 ## Xem thêm
 
-- [Thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/)
-- [Thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/)
-- [Giấy tờ cần mang khi thuê xe](/blog/an-toan-phap-ly/giay-to/)
+- [Thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/)
+- [Thủ tục thuê xe máy](/thue-xe/thu-tuc/)
+- [Giấy tờ cần mang khi thuê xe](/an-toan-phap-ly/giay-to/)
 
 ## Kết luận
 

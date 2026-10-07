@@ -33,7 +33,7 @@ Trẻ nhỏ ở bảo tàng này thường thích nhất các không gian tươn
 
 Dặn trẻ trước vài quy tắc đơn giản: không chạy trong phòng trưng bày, không tự chạm vào hiện vật ở nơi có biển cấm, và giữ khoảng cách với các mô hình đang trình chiếu. Đây là dịp tốt để chuyện nghìn năm văn hiến trở nên cụ thể: đứng trước một hiện vật thật, câu chuyện về người Thăng Long đọc lên nghe khác hẳn so với trong sách.
 
-Với nhóm đi bằng xe máy thuê, mũ bảo hiểm đúng cỡ cho trẻ và áo gió mỏng là hai món nên mang, vì trong nhà mát hơn khuôn viên ngoài trời đáng kể. Chuyện gửi xe tại khuôn viên bảo tàng và giữ xe an toàn nằm trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn việc chuẩn bị xe và giấy tờ khi thuê được gom trong trang [cho thuê xe máy](/blog/thue-xe/).
+Với nhóm đi bằng xe máy thuê, mũ bảo hiểm đúng cỡ cho trẻ và áo gió mỏng là hai món nên mang, vì trong nhà mát hơn khuôn viên ngoài trời đáng kể. Chuyện gửi xe tại khuôn viên bảo tàng và giữ xe an toàn nằm trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn việc chuẩn bị xe và giấy tờ khi thuê được gom trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Tra trước những gì trước khi khởi hành
 
@@ -43,8 +43,8 @@ Giày bám tốt đáng mang hơn giày dép, vì hành lang các tầng dài v�
 
 ## Nghỉ giữa buổi và ghép lịch quanh khu Mỹ Đình
 
-Sau một buổi tại bảo tàng, nhóm hay ăn trưa quanh khu trung tâm thương mại cạnh Trung tâm Hội nghị Quốc gia, chỉ một hai chặng xe, rồi về nghỉ giữa trưa. Nếu còn sức thì một vòng qua khu vực công viên phía Xuân Thủy giúp tiêu cơm, còn ai muốn nối chuỗi các buổi bảo tàng thì bài [thăm bảo tàng Thiên nhiên Việt Nam nửa ngày](/blog/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-thien-nhien-viet-nam-nua-ngay/) có khung xếp giờ dùng chung được cho mọi bảo tàng trong thành phố. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó luôn phá nhịp nghỉ giữa buổi.
+Sau một buổi tại bảo tàng, nhóm hay ăn trưa quanh khu trung tâm thương mại cạnh Trung tâm Hội nghị Quốc gia, chỉ một hai chặng xe, rồi về nghỉ giữa trưa. Nếu còn sức thì một vòng qua khu vực công viên phía Xuân Thủy giúp tiêu cơm, còn ai muốn nối chuỗi các buổi bảo tàng thì bài [thăm bảo tàng Thiên nhiên Việt Nam nửa ngày](/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-thien-nhien-viet-nam-nua-ngay/) có khung xếp giờ dùng chung được cho mọi bảo tàng trong thành phố. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó luôn phá nhịp nghỉ giữa buổi.
 
 Một kinh nghiệm nhỏ nữa cho nhóm đi cuối tuần: bảo tàng sáng cuối tuần đông khách tham quan theo đoàn, nên nếu muốn không gian yên tĩnh hơn thì chọn buổi chiều ngày thường. Ngược lại, nếu đi cùng trẻ vào dịp lễ, khung đông lại có không khí nhộn nhịp khiến trẻ thấy lịch sử sinh động hơn. Chọn khung giờ theo tính cách nhóm là cách đơn giản nhất để buổi nửa ngày không biến thành cuộc chen chúc mệt mỏi.
 
-Nửa ngày là ước lượng hợp lý cho bảo tàng Hà Nội: đủ để đi trọn một mạch trưng bày chính và đứng thật lâu ở khối mình thích, mà vẫn kịp về nghỉ giữa trưa. Xếp đúng thứ tự, giữ chỗ nghỉ giữa buổi, và buổi đi của bạn sẽ tươm tất từ khúc rẽ vào phố Phạm Hùng cho tới lúc lấy xe về, chuyện cuối cùng ghi trong danh sách [điểm đến](/blog/du-lich/diem-den/) và mục [du lịch](/blog/du-lich/) để tích dần cho các buổi đi sau quanh Hà Nội.
+Nửa ngày là ước lượng hợp lý cho bảo tàng Hà Nội: đủ để đi trọn một mạch trưng bày chính và đứng thật lâu ở khối mình thích, mà vẫn kịp về nghỉ giữa trưa. Xếp đúng thứ tự, giữ chỗ nghỉ giữa buổi, và buổi đi của bạn sẽ tươm tất từ khúc rẽ vào phố Phạm Hùng cho tới lúc lấy xe về, chuyện cuối cùng ghi trong danh sách [điểm đến](/du-lich/diem-den/) và mục [du lịch](/du-lich/) để tích dần cho các buổi đi sau quanh Hà Nội.

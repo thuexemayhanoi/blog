@@ -39,12 +39,12 @@ Trước khi kết thúc tin nhắn xác nhận, hãy hỏi rõ giấy tờ cầ
 
 ## Những điều nên hỏi khi đặt xe máy trước
 
-Ngoài giá cơ bản, một lượt đặt chu đáo nên chốt thêm mấy chi tiết: xe có sẵn mũ bảo hiểm kèm theo hay không, quy trình nếu xe hỏng giữa kỳ, và cách tính thêm khi trả trễ. Đây là những câu hỏi giúp bạn hình dung trọn trải nghiệm thuê chứ không chỉ con giá. Thông tin chi tiết về cách liên hệ cửa hàng đã được tổng hợp tại trang [liên hệ](/blog/lien-he/), nơi bạn tìm thấy số điện thoại và kênh nhắn tin hiện dùng. Khi cần ôn lại toàn bộ các bước từ chọn xe, đặt xe đến nhận xe, xem mục [thuê xe máy](/blog/thue-xe/).
+Ngoài giá cơ bản, một lượt đặt chu đáo nên chốt thêm mấy chi tiết: xe có sẵn mũ bảo hiểm kèm theo hay không, quy trình nếu xe hỏng giữa kỳ, và cách tính thêm khi trả trễ. Đây là những câu hỏi giúp bạn hình dung trọn trải nghiệm thuê chứ không chỉ con giá. Thông tin chi tiết về cách liên hệ cửa hàng đã được tổng hợp tại trang [liên hệ](/lien-he/), nơi bạn tìm thấy số điện thoại và kênh nhắn tin hiện dùng. Khi cần ôn lại toàn bộ các bước từ chọn xe, đặt xe đến nhận xe, xem mục [thuê xe máy](/thue-xe/).
 
 Nếu bạn đặt cho người khác nhận thay, ví dụ đặt xe cho đồng nghiệp hoặc người nhà, hãy nói rõ ngay từ lượt đặt đầu tiên để bên cho thuê ghi chú. Một số cửa hàng sẽ yêu cầu người nhận thực tế xuất trình giấy tờ của chính họ, nên thống nhất sớm giúp bạn tránh nước đến chân mới nhảy. Tương tự, nếu bạn cần giao xe đến địa chỉ thay vì tự đến nhận, hãy hỏi ngay trong lượt đặt, vì không phải mô hình nào cũng hỗ trợ và thường cần chốt khung giờ trước.
 
 ## Sau khi đặt xong, việc gì còn lại
 
-Đặt trước không loại bỏ thủ tục, nó chỉ dời thủ tục lên trước. Bạn vẫn cần mang giấy tờ, vẫn kiểm tra xe lúc nhận và vẫn ký nhận giao xe. Nếu bạn chưa quen trình tự đầy đủ, hãy đọc trước bài [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) ngay từ lúc đặt, để biết mình cần chuẩn bị gì và sẽ trải qua những bước nào tại quầy. Đọc sớm hai ngày trước khi nhận xe còn giúp bạn kịp hỏi lại mọi điều chưa rõ qua tin nhắn, thay vì phải hỏi vội trong vài phút cuối tại cửa hàng.
+Đặt trước không loại bỏ thủ tục, nó chỉ dời thủ tục lên trước. Bạn vẫn cần mang giấy tờ, vẫn kiểm tra xe lúc nhận và vẫn ký nhận giao xe. Nếu bạn chưa quen trình tự đầy đủ, hãy đọc trước bài [thủ tục thuê xe máy](/thue-xe/thu-tuc/) ngay từ lúc đặt, để biết mình cần chuẩn bị gì và sẽ trải qua những bước nào tại quầy. Đọc sớm hai ngày trước khi nhận xe còn giúp bạn kịp hỏi lại mọi điều chưa rõ qua tin nhắn, thay vì phải hỏi vội trong vài phút cuối tại cửa hàng.
 
 Về bản chất, đặt xe máy trước là cách chuyển toàn bộ phần chờ đợi và thương lượng lên trước khung chat hoặc cuộc gọi, để lúc tới cửa hàng bạn chỉ việc kiểm tra xe rồi lên đường. Cứ mỗi thông tin bạn chốt được từ xa bằng tin nhắn, thời gian của bạn tại quầy lại rút ngắn đi một chút. Sau vài lần thuê, bạn sẽ có sẵn một mẫu tin nhắn riêng của mình, và việc đặt xe trước chỉ còn là điền vài ô trống rồi gửi đi.

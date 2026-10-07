@@ -54,4 +54,4 @@ Tuyệt đối không cố chạy xe đi xa khi pin đang có dấu hiệu lạ,
 
 Với người thuê xe đi trong ngày dài, nên trao đổi trước với chủ cho thuê về cách sạc giữa chừng nếu hành trình dài. Một số dòng xe đi được quãng xa hơn sau một giờ cắm điện ở quán cà phê hoặc chỗ nghỉ, biết trước giúp bạn chủ động xếp lịch trình mà không lo hết pin giữa đường. Chuẩn bị tinh thần và phương án từ đầu bao giờ cũng nhẹ nhàng hơn là xử lý sự cố lúc xe đã chết máy giữa đường.
 
-Bạn có thể xem thêm các tình huống xử lý khác trong mục [xử lý sự cố xe](/blog/xe-may/xu-ly-su-co-xe/), tham khảo tổng hợp về [xe máy](/blog/xe-may/), hoặc đọc thêm các bài [kinh nghiệm](/blog/kinh-nghiem/) để tự tin hơn khi di chuyển ở Hà Nội.
+Bạn có thể xem thêm các tình huống xử lý khác trong mục [xử lý sự cố xe](/xe-may/xu-ly-su-co-xe/), tham khảo tổng hợp về [xe máy](/xe-may/), hoặc đọc thêm các bài [kinh nghiệm](/kinh-nghiem/) để tự tin hơn khi di chuyển ở Hà Nội.

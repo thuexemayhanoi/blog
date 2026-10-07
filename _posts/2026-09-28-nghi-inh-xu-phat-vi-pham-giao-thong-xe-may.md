@@ -32,13 +32,13 @@ Cách thực tế nhất là đọc kỹ biên bản ngay tại chỗ: họ tên
 
 Theo dõi thực tế dừng xe ở các ngã tư Hà Nội, các lỗi thuộc khung xử phạt xe máy gặp nhiều nhất gồm: không đội mũ bảo hiểm hoặc đội không cài quai; chở quá số người được phép; không giữ đúng làn đường hoặc đi ngược chiều; không tuân thủ đèn tín hiệu; không mang giấy tờ xe theo quy định; và vi phạm nồng độ cồn, nhóm lỗi có khung phạt tiền cao nhất kèm tước giấy phép lái xe ở mức nghiêm trọng. Với khách thuê xe, việc không mang đủ giấy tờ xe và đăng ký không khớp tình trạng xe là hai lỗi phát sinh từ khâu nhận xe, hoàn toàn phòng tránh được nếu kiểm tra trước.
 
-Trường hợp vi phạm bị ghi nhận qua camera giữa kỳ thuê thì xử lý theo thông báo gửi chủ xe rồi chuyển tới người điều khiển, trình tự đã tóm tắt trong bài [tra cứu phạt nguội bằng cách nào](/blog/an-toan-phap-ly/2026/09/28/tra-cuu-phat-nguoi-bang-cach-nao/). Khi bị dừng xe trực tiếp, cách trình bày giấy tờ và hợp tác đúng trình tự xem trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/blog/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
+Trường hợp vi phạm bị ghi nhận qua camera giữa kỳ thuê thì xử lý theo thông báo gửi chủ xe rồi chuyển tới người điều khiển, trình tự đã tóm tắt trong bài [tra cứu phạt nguội bằng cách nào](/an-toan-phap-ly/2026/09/28/tra-cuu-phat-nguoi-bang-cach-nao/). Khi bị dừng xe trực tiếp, cách trình bày giấy tờ và hợp tác đúng trình tự xem trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
 
 ## Đọc khung phạt như thế nào cho đúng
 
 Ba nguyên tắc khi tự tra cứu mức phạt: một, đọc đúng văn bản hiệu lực tại thời điểm vi phạm, hiện nay là Nghị định 168/2024/NĐ-CP, không dùng bài viết theo Nghị định 100/2019/NĐ-CP cũ; hai, xem đúng điều khoản dành cho xe máy, vì cùng một lỗi nhưng khung phạt của ô tô và xe máy khác nhau; ba, kiểm tra văn bản sửa đổi bổ sung phát hành sau nghị định gốc, vì một số mức phạt và điểm trừ đã được điều chỉnh sau kỳ ban hành. Nguồn tra cứu an toàn là cổng thông tin điện tử Chính phủ và trang chính thức của cơ quan quản lý giao thông.
 
-Tổng hợp các quy định giao thông áp dụng cho người đi xe máy đặt tại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Tổng hợp các quy định giao thông áp dụng cho người đi xe máy đặt tại trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về nghị định xử phạt xe máy
 

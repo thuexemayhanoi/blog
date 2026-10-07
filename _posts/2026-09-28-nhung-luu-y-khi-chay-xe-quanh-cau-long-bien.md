@@ -22,7 +22,7 @@ Xung quanh hai đầu cầu, khu chợ Long Biên sáng và khu phố cổ chi�
 
 ## Lưu ý chạy xe gần Cầu Long Biên: trên cầu và ở chân cầu
 
-Trên cầu, giữ tốc độ vừa, không đổi làn giữa các nhịp, và hai tay bám chắc tay lái vì gió sông đẩy ngang xe nhẹ; nền cầu là thép có mối nối, khi trời mưa mặt thép trơn hơn mặt nhựa thường, nên phanh sớm và giữ khoảng cách với xe trước. Gặp xe ngược chiều trong khung đông, không bỏ làn qua phần đường ray; các đoạn có tàu hỏa chạy song song theo lịch vận hành, không dừng xe sát đường ray để chụp ảnh. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Trên cầu, giữ tốc độ vừa, không đổi làn giữa các nhịp, và hai tay bám chắc tay lái vì gió sông đẩy ngang xe nhẹ; nền cầu là thép có mối nối, khi trời mưa mặt thép trơn hơn mặt nhựa thường, nên phanh sớm và giữ khoảng cách với xe trước. Gặp xe ngược chiều trong khung đông, không bỏ làn qua phần đường ray; các đoạn có tàu hỏa chạy song song theo lịch vận hành, không dừng xe sát đường ray để chụp ảnh. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 Ở chân cầu, hai đầu đều có ngã rẽ hẹp và dòng xe rẽ bất ngờ, nên giảm tốc trước các nhánh rẽ, quan sát gương và không luồn lách giữa xe container quanh khu chợ. Khi dừng ở các bãi rộng giữa nhịp, phải ép sát hết về phía trong, tắt máy và để đèn hậu bật nếu chạng vạng, vì dòng xe hai bánh vẫn chạy liên tục sau lưng, và va chạm nhẹ trên cầu cũng khó xử lý do làn hẹp.
 
@@ -30,7 +30,7 @@ Trên cầu, giữ tốc độ vừa, không đổi làn giữa các nhịp, và
 
 Hai đầu cầu đều có bãi gửi xe của dân cư, mở quanh khung ngày; bờ Long Biên có bãi rộng gần chợ với nhiều chỗ trống hơn, bờ Hoàn Kiếm có các bãi nhỏ quanh khu Hàng Đậu. Khi gửi xe máy thuê, nên khóa cả khóa cổ lẫn khóa từ nếu xe có, cất mũ vào cốp và chụp lại vị trí cùng biển số để đối chiếu khi lấy. Khung hoàng hôn bãi dễ kín chỗ, nên nếu định ở lại tới tối, nên hỏi trước giờ đóng bãi của từng bãi.
 
-Ngoài ra, nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì hai đầu cầu đều nhiều bãi tương tự nhau và cuối buổi dễ đi tìm nhầm. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/blog/du-lich/) và trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Ngoài ra, nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì hai đầu cầu đều nhiều bãi tương tự nhau và cuối buổi dễ đi tìm nhầm. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/du-lich/) và trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Mùa mưa và chạng vạng: hai lúc cần thêm cẩn trọng
 
@@ -40,9 +40,9 @@ Với khách thuê xe lần đầu đi khu này, nên dừng kiểm tra đèn v�
 
 ## Tốc độ và cách ứng xử quanh khu vực
 
-Quanh hai đầu cầu, tốc độ hợp lý là đi chậm theo dòng xe địa phương: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông người. Không luồn lách giữa các xe chợ đang dừng trước cổng chợ Long Biên; đây là khu vực có nhiều xe chở hàng phóng nhanh từ ngõ ra. Biển báo quanh khu vực được tóm tắt cách đọc trong bài [biển báo cấm xe máy thường gặp](/blog/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/).
+Quanh hai đầu cầu, tốc độ hợp lý là đi chậm theo dòng xe địa phương: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông người. Không luồn lách giữa các xe chợ đang dừng trước cổng chợ Long Biên; đây là khu vực có nhiều xe chở hàng phóng nhanh từ ngõ ra. Biển báo quanh khu vực được tóm tắt cách đọc trong bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/).
 
-Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về chạy xe quanh cầu Long Biên
 

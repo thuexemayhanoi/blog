@@ -23,7 +23,7 @@ Xe số là nhóm xe gọn nhẹ nhất cho đường trường thẳng: khối 
 
 Xe ga lại có ưu thế riêng: không phải sang số nên vượt xe hay điều chỉnh tốc độ trong đoạn đông đều nhanh gọn, cốp rộng chứa được áo gió và chai nước, đèn chuyển làn nhiều đoạn tỉnh lộ cũng tiện. Với người ít chạy đường trường, việc không phải thao tác côn giảm đáng kể căng thẳng, đặc biệt khi phải đi trong mưa hoặc gió ngang.
 
-Chọn thế nào phụ thuộc chặng của bạn. Cung đường thẳng vắng như ra vùng ven phía bắc hay tây thành phố, xe số cho vận hành nhẹ và mức xăng dễ giữ; chặng xen kẽ thị trấn, ngã tư nhiều, hoặc bạn phải mang đồ, xe ga nhàn hơn. Nếu bạn định chạy các vòng quanh khu phố rồi mới ra đường lớn, tham khảo thêm [cung đường quanh phố cổ](/blog/cung-duong/cung-duong-pho-bac/) để hình dung lộ trình hợp.
+Chọn thế nào phụ thuộc chặng của bạn. Cung đường thẳng vắng như ra vùng ven phía bắc hay tây thành phố, xe số cho vận hành nhẹ và mức xăng dễ giữ; chặng xen kẽ thị trấn, ngã tư nhiều, hoặc bạn phải mang đồ, xe ga nhàn hơn. Nếu bạn định chạy các vòng quanh khu phố rồi mới ra đường lớn, tham khảo thêm [cung đường quanh phố cổ](/cung-duong/cung-duong-pho-bac/) để hình dung lộ trình hợp.
 
 ## Vận hành trên chặng dài: từng nhóm khác nhau
 
@@ -31,7 +31,7 @@ Với xe số, điều quan trọng là giữ đúng tầm số: lên số sớm
 
 Với xe ga, hãy giữ tay ga ổn và tránh mở hết ga kéo dài, vì nhóm xe này không có số để chọn tầm máy. Trên dốc dài, xe ga phải làm việc hết công suất, nên nếu cung đường của bạn có nhiều dốc, hãy nói với cửa hàng để chọn dòng máy khỏe hơn như Air Blade, dòng này thường cho thuê quanh 200.000 đồng mỗi ngày.
 
-Nghỉ giữa chặng cũng khác nhau: xe số tắt máy nhanh gọn, còn xe ga nên để máy nguội vài phút ở trạm dừng dài. Dù đi nhóm xe nào, bạn cũng nên dừng mỗi khoảng một tiếng để vươn vai, uống nước và nhìn lại bản đồ; cách dừng và chọn điểm nghỉ an toàn nằm trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Nghỉ giữa chặng cũng khác nhau: xe số tắt máy nhanh gọn, còn xe ga nên để máy nguội vài phút ở trạm dừng dài. Dù đi nhóm xe nào, bạn cũng nên dừng mỗi khoảng một tiếng để vươn vai, uống nước và nhìn lại bản đồ; cách dừng và chọn điểm nghỉ an toàn nằm trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
 Trước khi xuất phát đường dài, hãy rà một vòng xe, dù là xe số hay xe ga: lốp đủ hơi, đèn và còi hoạt động, gương chỉnh đúng tầm mắt, xích có nhớt. Với chặng hơn hai tiếng, bạn nên mang theo áo gió, chai nước và số của cửa hàng để liên hệ nếu cần.
 
@@ -47,6 +47,6 @@ Thời tiết cũng nên tính vào lựa chọn. Mùa nắng gắt, xuất phá
 
 Trước khi ký, bạn nên hỏi rõ: xe đã được kiểm tra nhớt và lốp gần nhất khi nào, nếu xe trục trặc giữa chặng thì gọi số nào của cửa hàng. Với chặng dài, một chiếc xe được chăm trước chuyến đi quan trọng hơn nhiều so với trong phố.
 
-Bạn cũng nên hỏi về mức thuê theo tuần nếu đi nhiều ngày, vì nhiều cửa hàng có gói tuần rẻ hơn tính theo ngày cộng dồn; tổng quan mức giá nằm trong trang [bảng giá](/blog/bang-gia/). Các tiêu chí chọn dòng xe cho từng mục đích được tóm trong trang [chọn loại xe khi thuê](/blog/xe-may/chon-loai-xe/).
+Bạn cũng nên hỏi về mức thuê theo tuần nếu đi nhiều ngày, vì nhiều cửa hàng có gói tuần rẻ hơn tính theo ngày cộng dồn; tổng quan mức giá nằm trong trang [bảng giá](/bang-gia/). Các tiêu chí chọn dòng xe cho từng mục đích được tóm trong trang [chọn loại xe khi thuê](/xe-may/chon-loai-xe/).
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp về xe số và xe ga còn cho cung đường mình định đi; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp về xe số và xe ga còn cho cung đường mình định đi; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

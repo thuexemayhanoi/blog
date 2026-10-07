@@ -23,7 +23,7 @@ Tiêu chí đầu tiên là lốp. Khi nhận xe, bạn nhìn hoa lốp: rãnh c
 
 Tiêu chí thứ hai là phanh: bóp thử cả phanh trước lẫn phanh sau quanh sân cửa hàng, nghe xem có tiếng rít bất thường không. Xe có phanh đĩa trước thường cho cảm giác phanh nhạy hơn trong điều kiện ướt, nhưng phanh tang trống vẫn ổn nếu còn bánh và được chỉnh đúng.
 
-Tiêu chí thứ ba là che chắn và cốp: mùa mưa cần chỗ đựng áo mưa khô, kín. Cốp xe ga rộng là lợi thế rõ, còn nếu thuê xe số, bạn nên hỏi cửa hàng xem có kèm áo mưa hoặc chỗ buộc túi sau yên không. Nhóm xe để đối chiếu ưu nhược điểm nằm trong trang [chọn loại xe khi thuê](/blog/xe-may/chon-loai-xe/).
+Tiêu chí thứ ba là che chắn và cốp: mùa mưa cần chỗ đựng áo mưa khô, kín. Cốp xe ga rộng là lợi thế rõ, còn nếu thuê xe số, bạn nên hỏi cửa hàng xem có kèm áo mưa hoặc chỗ buộc túi sau yên không. Nhóm xe để đối chiếu ưu nhược điểm nằm trong trang [chọn loại xe khi thuê](/xe-may/chon-loai-xe/).
 
 ## Xe ga, xe số hay xe máy điện trong mưa
 
@@ -31,7 +31,7 @@ Xe ga thường được chuộng trong mùa mưa vì cốp kín đựng đượ
 
 Xe số nhẹ, dễ xử lý khi đường có vũng, nhưng nhược điểm là không có chỗ chứa kín: đồ và áo mưa phải bọc túi kỹ. Với người quen tay lái và quãng đường ngắn, đây vẫn là lựa chọn ổn trong mưa nhỏ.
 
-Xe máy điện cần cân nhắc hơn cả trong mùa mưa: các dòng xe điện được thiết kế chịu ướt ở mức độ thông thường, nhưng bạn nên tránh đoạn ngập sâu và tuyệt đối không sạc khi xe còn ướt. Chi tiết vận hành xe điện trong điều kiện ướt được nói trong trang [xe máy điện](/blog/xe-may/xe-dien/).
+Xe máy điện cần cân nhắc hơn cả trong mùa mưa: các dòng xe điện được thiết kế chịu ướt ở mức độ thông thường, nhưng bạn nên tránh đoạn ngập sâu và tuyệt đối không sạc khi xe còn ướt. Chi tiết vận hành xe điện trong điều kiện ướt được nói trong trang [xe máy điện](/xe-may/xe-dien/).
 
 Điều cần tránh với mọi dòng là đỗ xe ngoài trời mưa suốt đêm rồi khởi động đi ngay: yên ướt, gương mờ, ổ khóa cứng. Lúc nhận lại xe vào buổi sáng sau đêm mưa, bạn nên lau yên, thăm lại áp suất lốp một chút trước khi chạy quãng dài.
 
@@ -39,7 +39,7 @@ Xe máy điện cần cân nhắc hơn cả trong mùa mưa: các dòng xe đi�
 
 Giảm tốc độ là việc đầu tiên: đường ướt làm khoảng cách phanh dài thêm rõ rệt, hãy giữ khoảng cách với xe phía trước rộng hơn ngày thường. Quanh Hồ Gươm hay các trục lớn, lớp nước dày tại vũng lớn dễ khiến bánh xe nổi, không phanh gấp khi đang đi qua.
 
-Chọn làn và đường quen: tránh đoạn đang đào, miệng cống, vạch sơn và sàn dầu vì đây là chỗ trơn nhất. Khi mưa to tầm nhìn giảm, bạn nên bật đèn kể cả ban ngày để các xe khác thấy mình sớm. Các tình huống đặc thù của thời tiết và đường sá được tóm trong trang [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Chọn làn và đường quen: tránh đoạn đang đào, miệng cống, vạch sơn và sàn dầu vì đây là chỗ trơn nhất. Khi mưa to tầm nhìn giảm, bạn nên bật đèn kể cả ban ngày để các xe khác thấy mình sớm. Các tình huống đặc thù của thời tiết và đường sá được tóm trong trang [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/).
 
 Ngoài ra, lúc mưa vừa tan cũng là lúc dễ ngã nhất: mặt đường còn lớp bùn trơn, vạch sơn và nắp cống như tấm băng nhỏ. Bạn nên giữ tốc độ thấp thêm chục phút sau khi mưa tạnh trước khi về nhịp đi thường. Khi tới nơi, lau sạch kính mũ và tay lái bằng khăn trong cốp, ngồi lại vài phút cho áo mưa ráo bớt rồi mới cất đồ.
 
@@ -53,4 +53,4 @@ Trước khi rời cửa hàng, bạn nên mang theo: áo mưa lớn che tới g
 
 Chọn giờ đi cũng là một cách chuẩn bị: nếu dự báo có cơn lớn buổi chiều, bạn nên dời việc chạy quãng dài sang sáng hoặc tối. Xem dự báo trước khi xuất phát nửa tiếng giúp bạn né được những cơn giông đi qua nhanh.
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp về các dòng xe còn trong ngày mưa; tổng quan các dòng xe để chọn nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp về các dòng xe còn trong ngày mưa; tổng quan các dòng xe để chọn nằm trong trang [xe máy khi thuê](/xe-may/).

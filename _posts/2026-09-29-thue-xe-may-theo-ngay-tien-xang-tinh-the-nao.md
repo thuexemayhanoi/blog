@@ -57,4 +57,4 @@ Nếu giữa kỳ bạn thấy thỏa thuận ban đầu không còn phù hợp,
 
 Mùa nắng nóng, xăng trong bình bốc hơi nhanh hơn bạn nghĩ nếu xe nằm dưới trời cả ngày. Đỗ xe nơi có bóng râm khi dừng chân lâu cũng là một cách giữ mức xăng đúng như đã hẹn.
 
-Để chốt cách tính xăng rõ ràng ngay khi gọi hỏi, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày lẫn theo tuần. Xem thêm [Hỏi đáp về giá](/blog/hoi-dap/hoi-dap-gia/), [bảng giá](/blog/bang-gia/), [Hỏi đáp thuê xe máy](/blog/hoi-dap/) và [thuê xe tuần](/blog/thue-xe/thue-tuan/).
+Để chốt cách tính xăng rõ ràng ngay khi gọi hỏi, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày lẫn theo tuần. Xem thêm [Hỏi đáp về giá](/hoi-dap/hoi-dap-gia/), [bảng giá](/bang-gia/), [Hỏi đáp thuê xe máy](/hoi-dap/) và [thuê xe tuần](/thue-xe/thue-tuan/).

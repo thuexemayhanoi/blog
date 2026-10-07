@@ -38,7 +38,7 @@ Chỗ gửi xe quanh trường và chợ có quy củ riêng: hỏi cô trông x
 
 ## Chốt gói thuê dài cho lịch cố định
 
-Lịch của giúp việc nhà là lịch dài, và đây là lợi thế đàm phán: người thuê xe theo tháng quanh khu Nguyễn Văn Cừ thường có phần giá tính ra hợp lý hơn nối nhiều tuần lẻ, và thời điểm đổi xe bảo dưỡng cũng được lên lịch trước thay vì hỏng giữa tuần. Ai mới vào việc nên đọc kỹ phần giấy tờ cọc trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), phần gói dài nằm trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/), tổng quan các dòng xe nằm trong trang [thuê xe máy](/blog/thue-xe/), kinh nghiệm theo từng nhóm người đi làm gom trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/), và các mẹo chạy quanh phố Hà Nội rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Lịch của giúp việc nhà là lịch dài, và đây là lợi thế đàm phán: người thuê xe theo tháng quanh khu Nguyễn Văn Cừ thường có phần giá tính ra hợp lý hơn nối nhiều tuần lẻ, và thời điểm đổi xe bảo dưỡng cũng được lên lịch trước thay vì hỏng giữa tuần. Ai mới vào việc nên đọc kỹ phần giấy tờ cọc trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), phần gói dài nằm trong trang [thuê xe theo tháng](/thue-xe/thue-thang/), tổng quan các dòng xe nằm trong trang [thuê xe máy](/thue-xe/), kinh nghiệm theo từng nhóm người đi làm gom trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/), và các mẹo chạy quanh phố Hà Nội rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Hai chi tiết đáng chốt vào biên nhận với lịch kiểu này: một là lịch bảo dưỡng định kỳ — xe chạy ngày nào cũng vậy thì đi bảo dưỡng đúng hẹn giữ xe bền hơn hẳn; hai là phương án xe dự phòng khi xe chính vào gara, hỏi thẳng chỗ thuê có đổi tạm không để ngày đón trẻ không bị đứt quãng.
 

@@ -50,6 +50,6 @@ Nếu còn cần hoàn cọc qua chuyển khoản, hỏi trước trong tin nh�
 
 Với người hay trả xe sát giờ, thói quen đáng hình thành là gói ghém mọi việc chuẩn bị trả xe từ khi còn ở điểm dừng cuối: kiểm tra đồ đạc, cất lại những gì thuộc về xe, để riêng những gì cần đưa. Việc chuẩn bị đó chuyển bớt phần việc từ quầy sang phía bạn, nơi bạn làm được trong lúc rảnh, thay vì lúc đang co vội.
 
-Bạn có thể xem lại toàn bộ phần việc lúc trả xe trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem lại toàn bộ phần việc lúc trả xe trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, trả xe khi cửa hàng sắp đóng không phải là vận may mà là phép tính: biết giờ đóng từ đầu, tính ngược khoảng đi, nhắn trước giờ về, và chuẩn bị phần đối chiếu gọn. Làm đủ bốn việc, bạn về sát giờ mà buổi trả xe vẫn trọn, và cửa hàng đóng cửa đúng giờ mà không ai phải phiền.

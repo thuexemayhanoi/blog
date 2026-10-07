@@ -45,14 +45,14 @@ Trong khu đền, hàng quán thưa dần khi đi lên các tầng cao, nên man
 
 Gửi xe ở khu đền là dịch vụ quen thuộc với người trông xe và tiền lẻ theo thói quen vùng này. Điều đáng nhớ là đỗ gọn theo hướng người coi xe chỉ, chống chắc, và kiểm tra khóa trước khi đi. Với xe máy thuê, chụp ảnh tình trạng xe lúc gửi là thói quen vô hại mà hữu ích, tránh tranh chấp nhỏ khi nhận xe giữa giờ cao điểm.
 
-Đồ trên yên nên mang theo khi lên đền: mũ bảo hiểm để trong cốp xe nếu có chỗ, túi nhỏ đeo theo người, và giấy tờ luôn mang bên mình. Bãi trông xe có người coi nhưng trách nhiệm cuối cùng vẫn là của bạn. Nguyên tắc gói đồ và cất giữ trên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), nên xem trước chuyến đi.
+Đồ trên yên nên mang theo khi lên đền: mũ bảo hiểm để trong cốp xe nếu có chỗ, túi nhỏ đeo theo người, và giấy tờ luôn mang bên mình. Bãi trông xe có người coi nhưng trách nhiệm cuối cùng vẫn là của bạn. Nguyên tắc gói đồ và cất giữ trên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), nên xem trước chuyến đi.
 
 Ở chặng quốc lộ ba, chỗ đỗ quán nào cũng rộng nhưng mặt đường nghiêng nhẹ nhiều chỗ. Chống nghiêng về phía dốc và thử đẩy một cái trước khi đi khỏi là hai động tác mất chưa đầy mười giây mà tránh được cả buổi phiền phức.
 
 ## Vài lưu ý cuối trước khi lên đường
 
-Người đi bằng xe máy thuê nên mang đầy đủ giấy tờ bản gốc, vì trục quốc lộ ba có chốt kiểm tra định kỳ, và các bãi trông xe đôi lúc cũng ghi lại biển số. Quy định khi chạy đường trường được gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ cho chuyến ngắn.
+Người đi bằng xe máy thuê nên mang đầy đủ giấy tờ bản gốc, vì trục quốc lộ ba có chốt kiểm tra định kỳ, và các bãi trông xe đôi lúc cũng ghi lại biển số. Quy định khi chạy đường trường được gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ cho chuyến ngắn.
 
-Trời mưa làm bậc đá trong khu đền trơn nhanh hơn mặt đường, nên nếu dự báo có mưa, đi sớm hơn dự kiến và mang áo mưa gấp. Cách theo dõi thời tiết và xử lý đường sá từng mùa nằm trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), hợp với người thường đi bốc đồng.
+Trời mưa làm bậc đá trong khu đền trơn nhanh hơn mặt đường, nên nếu dự báo có mưa, đi sớm hơn dự kiến và mang áo mưa gấp. Cách theo dõi thời tiết và xử lý đường sá từng mùa nằm trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), hợp với người thường đi bốc đồng.
 
-Đền Sóc ghép tốt với các điểm phía bắc trong chuỗi cuối tuần, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có gợi ý theo nhiều lịch. Nghỉ chân đường đi Đền Sóc tuy đơn giản, nhưng đặt đúng mốc thì chuyến đi vừa khít khít lịch, vừa giữ trọn phần thiêng liêng cần có.
+Đền Sóc ghép tốt với các điểm phía bắc trong chuỗi cuối tuần, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có gợi ý theo nhiều lịch. Nghỉ chân đường đi Đền Sóc tuy đơn giản, nhưng đặt đúng mốc thì chuyến đi vừa khít khít lịch, vừa giữ trọn phần thiêng liêng cần có.

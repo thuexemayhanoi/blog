@@ -16,7 +16,7 @@ writer: W1
 
 Nhiều người để ý lốp, phanh và đèn mà quên rằng gương chiếu hậu là đôi mắt phụ của mình trên đường. Chỉnh gương xe máy khi dừng đèn đỏ là thói quen nhỏ nhưng mang lại giá trị lớn: bạn chọn được thời điểm xe đứng yên, tay rảnh, và quan sát được cả hai bên trước khi dòng xe chuyển động trở lại. Bài này nói cách chỉnh gương xe máy đúng chuẩn, các lỗi hay gặp, và những điểm riêng cần lưu tâm khi bạn đi bằng xe thuê.
 
-Tổng quan các tình huống và kỹ năng lái nằm ở trang [kỹ năng và tình huống](/blog/ky-nang/), còn thủ tục và kiểm tra xe trước khi nhận nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan các tình huống và kỹ năng lái nằm ở trang [kỹ năng và tình huống](/ky-nang/), còn thủ tục và kiểm tra xe trước khi nhận nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Cách chỉnh gương xe máy đúng chuẩn ngay tại vạch đèn đỏ
 
@@ -40,7 +40,7 @@ Một lưu ý về phụ kiện: gương cầu lồi dán thêm có thể mở r
 
 ## Gương trên xe thuê: kiểm tra trước khi chỉnh
 
-Xe thuê có một đặc thù: nhiều người dùng qua tay, và gương của nó thường bị chỉnh theo dáng người trước. Vì vậy đừng lấy gương chuẩn mặc định, hãy coi bước chỉnh gương là một phần của bước [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/): nhìn gương có nứt mặt, có trầy kính, có lỏng cổ không, và kính cầu lồi phụ nếu có còn dán chắc hay không. Gương nứt thì nhờ đổi xe hoặc đổi gương, vì gương nứt làm méo hình ảnh và khiến khoảng cách thực tế khó phán đoán.
+Xe thuê có một đặc thù: nhiều người dùng qua tay, và gương của nó thường bị chỉnh theo dáng người trước. Vì vậy đừng lấy gương chuẩn mặc định, hãy coi bước chỉnh gương là một phần của bước [nhận và trả xe máy](/thue-xe/nhan-tra-xe/): nhìn gương có nứt mặt, có trầy kính, có lỏng cổ không, và kính cầu lồi phụ nếu có còn dán chắc hay không. Gương nứt thì nhờ đổi xe hoặc đổi gương, vì gương nứt làm méo hình ảnh và khiến khoảng cách thực tế khó phán đoán.
 
 Khi nhận xe, bạn cũng nên làm thử một thao tác siết nhẹ cổ gương: gương quá lỏng sẽ tuột lại sau vài cú sốc ổ gà, và phát hiện điều đó ngay tại cửa hàng vẫn hơn phát hiện giữa đường. Đồng thời đặt lại tư thế ngồi chuẩn của mình trước rồi mới chỉnh gương, vì dịch ngồi đi vài centimet cũng làm đổi hết toàn cảnh của hai gương.
 

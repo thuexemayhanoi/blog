@@ -21,7 +21,7 @@ Chi phí thuê dài hạn đơn giản và dễ dự đoán. Theo bảng giá đ
 
 Điểm cần hỏi thêm là cách thanh toán theo kỳ: gói tháng thường đóng theo tháng trước, và bạn nên hỏi rõ nếu cần tách kỳ đóng cho trùng lương. Tiền đặt cọc sẽ được hoàn lại khi trả xe đúng tình trạng nhận, nên hãy giữ biên nhận cọc và bộ ảnh xe ngày nhận để đối chiếu nhanh cuối kỳ.
 
-Ưu điểm lớn nhất của thuê tháng là tính dự đoán: mỗi tháng bạn biết trước đúng số tiền phải trả, không có khoản phát sinh bất ngờ như xe cũ hỏng máy giữa năm. Muốn đối chiếu giá theo từng dòng xe, xem trang [bảng giá](/blog/bang-gia/) để có khung mới nhất.
+Ưu điểm lớn nhất của thuê tháng là tính dự đoán: mỗi tháng bạn biết trước đúng số tiền phải trả, không có khoản phát sinh bất ngờ như xe cũ hỏng máy giữa năm. Muốn đối chiếu giá theo từng dòng xe, xem trang [bảng giá](/bang-gia/) để có khung mới nhất.
 
 ## Các khoản phải trả khi mua xe cũ
 
@@ -37,7 +37,7 @@ Mấu chốt của lựa chọn là thời gian. Ở lại dưới một năm, h
 
 Với nhóm sinh viên hoặc người tập trung ở một khu vực, thuê tháng còn cho phép đổi khi nhu cầu đổi: hết kỳ cần dòng xe khác, hoặc chuyển nhà gần hơn văn phòng thì giảm hẳn chi phí di chuyển. Sự linh hoạt này là phần mà một chiếc xe đã mua không cho lại được trừ khi bán đi.
 
-Cách thử nhanh: lấy giá gói tháng của dòng xe bạn định dùng nhân số tháng dự kiến ở lại, rồi cộng thêm phần xăng và phí gửi xe; đặt cạnh tổng tiền mua xe cũ cộng các khoản thuế phí và dự trù sửa chữa. Hai con số đó, đặt cạnh nhau, thường tự trả lời cho tình huống của bạn. Khung giá gói tháng hiện hành nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/), còn nếu bạn chưa từng thuê xe ở Hà Nội, hãy đọc kỹ các điều kiện gói tháng của cửa hàng trước khi so sánh.
+Cách thử nhanh: lấy giá gói tháng của dòng xe bạn định dùng nhân số tháng dự kiến ở lại, rồi cộng thêm phần xăng và phí gửi xe; đặt cạnh tổng tiền mua xe cũ cộng các khoản thuế phí và dự trù sửa chữa. Hai con số đó, đặt cạnh nhau, thường tự trả lời cho tình huống của bạn. Khung giá gói tháng hiện hành nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/), còn nếu bạn chưa từng thuê xe ở Hà Nội, hãy đọc kỹ các điều kiện gói tháng của cửa hàng trước khi so sánh.
 
 ## Những gì thuê không tính được bằng tiền
 
@@ -51,4 +51,4 @@ Một cách nhìn khác: thuê là mua dịch vụ di chuyển, mua là mua tài
 
 Thuê xe tháng hay mua xe cũ phụ thuộc hai biến: bạn ở lại bao lâu và bạn cần bao nhiêu ổn định. Ngắn hạn, linh hoạt, chưa rõ ngày mai: thuê. Dài hạn, định cư, đi lại mỗi ngày: mua. Ở giữa, hãy làm phép tính ba dòng ở trên với con số của chính mình.
 
-Các hình thức thuê theo thời gian nằm ở trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/) trong cẩm nang [thuê xe máy](/blog/thue-xe/). Trước khi quyết định thuê, danh sách [kiểm tra xe trước khi ký nhận](/blog/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) giúp bạn chọn được chiếc xe đẹp ngay từ đầu kỳ.
+Các hình thức thuê theo thời gian nằm ở trang [thuê xe theo tháng](/thue-xe/thue-thang/) trong cẩm nang [thuê xe máy](/thue-xe/). Trước khi quyết định thuê, danh sách [kiểm tra xe trước khi ký nhận](/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) giúp bạn chọn được chiếc xe đẹp ngay từ đầu kỳ.

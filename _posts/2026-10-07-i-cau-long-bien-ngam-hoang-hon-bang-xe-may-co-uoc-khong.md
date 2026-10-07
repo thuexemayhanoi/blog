@@ -28,13 +28,13 @@ Cầu được xây dựng từ đầu thế kỷ hai mươi và đã qua nhiề
 
 Khung cảnh hoàng hôn cầu Long Biên đẹp nhất là khoảng ba mươi phút cuối cùng trước khi mặt trời khuất, khi ánh sáng ngả vàng và đổ dài lên mặt sông. Đứng ở khoảng giữa cầu, nhìn về phía thượng nguồn, bạn thấy mặt sông Hồng rộng loang màu; nhìn về phía hạ nguồn là các cây cầu mới nằm dài trên chân trời. Cuối mùa khô, bãi bồi lộ rộng và ánh nắng trên cát càng cho bức ảnh đẹp.
 
-Nếu đi buổi sáng sớm, cầu lại mang một gương mặt khác: sương, tiếng rao và nhịp sống phố cổ ven cầu. Quãng đi từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm được kể chi tiết trong bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/blog/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), cho bạn cái nhìn trước để rút ra khung giờ hợp với sở thích chụp ảnh của mình.
+Nếu đi buổi sáng sớm, cầu lại mang một gương mặt khác: sương, tiếng rao và nhịp sống phố cổ ven cầu. Quãng đi từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm được kể chi tiết trong bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), cho bạn cái nhìn trước để rút ra khung giờ hợp với sở thích chụp ảnh của mình.
 
 ## Giờ vàng, thời tiết và những gì nên chuẩn bị
 
 Mùa thu và đầu xuân là hai thời điểm trời trong nhất ở Hà Nội, cho hoàng hôn có màu rõ nét; mùa hè mây dày nhưng cũng hay tạo các dải mây đỏ đẹp bất ngờ sau mưa rào. Gió trên cầu mạnh hơn dưới mặt đường, nên chiếc áo nhẹ là thứ bạn sẽ cảm ơn khi đứng ngắm chừng mười lăm phút. Kiểm tra dự báo trước khi đi, vì mưa gián đoạn vào buổi chiều cuối hạ rất phổ biến.
 
-Về phía người thuê xe, hai việc cần tính trước: nếu đi cùng bạn và chở thêm người, cách chở người đúng quy định được tổng hợp trong bài về [quy định chở người trên xe máy hiện hành](/blog/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/); nếu định ở lại đến tối, chắc chắn về giờ trả xe với chủ cửa hàng, vì các cửa hàng quanh khu Long Biên thường đóng cửa trong giờ tối và việc trả xe trễ cần được thỏa thuận từ trước, thông tin cụ thể cần xác nhận trực tiếp khi nhận xe.
+Về phía người thuê xe, hai việc cần tính trước: nếu đi cùng bạn và chở thêm người, cách chở người đúng quy định được tổng hợp trong bài về [quy định chở người trên xe máy hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/); nếu định ở lại đến tối, chắc chắn về giờ trả xe với chủ cửa hàng, vì các cửa hàng quanh khu Long Biên thường đóng cửa trong giờ tối và việc trả xe trễ cần được thỏa thuận từ trước, thông tin cụ thể cần xác nhận trực tiếp khi nhận xe.
 
 Một lưu ý nhỏ về điện thoại và máy ảnh: trên cầu thoáng gió, không thao tác máy một tay khi đang giữ lái. Hãy dừng hẳn ở khu vỉa hè đầu cầu rồi mới chỉnh góc, và chịu khó đi bộ một đoạn giữa cầu để tìm góc có khung dầm thép đẹp, thay vì cố chụp trên yên xe đang lăn chậm.
 
@@ -44,6 +44,6 @@ Một lộ trình gợi ý sẵn cho buổi chiều: nhận xe khoảng bốn gi
 
 Một chi tiết cuối cho buổi tối trở về: sau khi mặt trời lặn, đèn đường quanh ga Long Biên thưa hơn mặt đường lớn, nên nếu bạn về muộn, chọn tuyến Nguyễn Văn Cừ thẳng thay vì cắt qua các ngõ nhỏ, vừa đủ sáng vừa dễ định hướng. Mũ bảo hiểm không chỉ là yêu cầu mà còn giữ ấm cho bạn khi gió sông lên về đêm, nhất là các tháng cuối năm ở Hà Nội.
 
-Nếu bạn muốn biến buổi chiều thành trọn một buổi dạo, hướng đi tiếp là dọc sông qua các tuyến đường ven bờ, nơi nhiều điểm ngắm sông khác ở phía Yên Phụ và vùng Hồ Tây nối tiếp nhau về chiều tối. Các gợi ý lộ trình và điểm dừng khác của chuyên mục được tổng hợp tại trang [du lịch Hà Nội bằng xe máy](/blog/du-lich/).
+Nếu bạn muốn biến buổi chiều thành trọn một buổi dạo, hướng đi tiếp là dọc sông qua các tuyến đường ven bờ, nơi nhiều điểm ngắm sông khác ở phía Yên Phụ và vùng Hồ Tây nối tiếp nhau về chiều tối. Các gợi ý lộ trình và điểm dừng khác của chuyên mục được tổng hợp tại trang [du lịch Hà Nội bằng xe máy](/du-lich/).
 
 Với khách ở khu Long Biên, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674; hãy gọi trước buổi chiều để nhận xe đã kiểm tra và hỏi trước về việc giữ xe nếu bạn dự định về muộn hơn giờ đóng cửa.

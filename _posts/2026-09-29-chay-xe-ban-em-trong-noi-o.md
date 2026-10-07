@@ -29,7 +29,7 @@ Vị trí trên làn cũng thay đổi theo đêm: đi hơi lệch về nửa l�
 
 ## Đèn xe ban đêm: chiếu đúng và không làm chói người khác
 
-Nguyên tắc vàng khi dùng đèn: đủ sáng để thấy, nhưng không chói tới mức làm người khác mù tạm thời. Điều chỉnh chụp đèn không ngửa quá cao, không gắn bóng công suất sai thiết kế, vì đèn chói quá mức gây hiệu ứng ngược: người đối diện không nhìn thấy bạn nữa, chỉ thấy quầng sáng. Nội dung chi tiết về cách dùng [đèn xe và tầm nhìn khi đi xe máy ban đêm](/blog/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/) có thể tham khảo thêm.
+Nguyên tắc vàng khi dùng đèn: đủ sáng để thấy, nhưng không chói tới mức làm người khác mù tạm thời. Điều chỉnh chụp đèn không ngửa quá cao, không gắn bóng công suất sai thiết kế, vì đèn chói quá mức gây hiệu ứng ngược: người đối diện không nhìn thấy bạn nữa, chỉ thấy quầng sáng. Nội dung chi tiết về cách dùng [đèn xe và tầm nhìn khi đi xe máy ban đêm](/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/) có thể tham khảo thêm.
 
 Tránh nhìn thẳng vào đèn pha xe ngược chiều; hướng ánh mắt về mép phải làn đường của mình, phản chiếu vạch sơn và mép đường sẽ giúp giữ hướng. Khi bị chói, không phanh gấp, giữ tốc độ hoặc nhả ga từ từ cho tới khi tầm nhìn ổn định trở lại. Nếu đoạn đường thường xuyên bị chói, nên hạ tốc từ trước cả khi chưa gặp xe ngược chiều.
 
@@ -41,8 +41,8 @@ Công trường và đoạn đường đang vá hoặc để gờ nhựa giữa 
 
 ## Đi đêm trong mưa hoặc sau mưa
 
-Mặt đường ướt cộng với đèn ngược chiều khiến vạch sơn và nắp cống phản chiếu loang lổ, khó đoán điểm trơn. Ban đêm mưa to, tầm nhìn giảm mạnh, nên nguyên tắc dừng chờ ở nơi khô ráo thường là lựa chọn đúng hơn là cố đi. Cách xử lý mặt đường ướt, vũng nước về đêm vẫn áp dụng như đã viết trong chuyên mục [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), chỉ khác ở chỗ quãng nhìn thấy ngắn hơn nhiều, nên tốc độ phải thấp tương ứng.
+Mặt đường ướt cộng với đèn ngược chiều khiến vạch sơn và nắp cống phản chiếu loang lổ, khó đoán điểm trơn. Ban đêm mưa to, tầm nhìn giảm mạnh, nên nguyên tắc dừng chờ ở nơi khô ráo thường là lựa chọn đúng hơn là cố đi. Cách xử lý mặt đường ướt, vũng nước về đêm vẫn áp dụng như đã viết trong chuyên mục [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/), chỉ khác ở chỗ quãng nhìn thấy ngắn hơn nhiều, nên tốc độ phải thấp tương ứng.
 
 Sau mưa, vào đầu giờ tối, nhiều đoạn nội đô còn đọng bóng nước phản chiếu đèn, dễ nhầm chỗ sâu với chỗ phẳng. Kinh nghiệm đơn giản: nếu không xác định được mặt đường phía trước, cứ coi là chỗ xấu và đi chậm qua. Vài phút đi chậm trong đêm luôn rẻ hơn một cú trượt ở chỗ không nhìn thấy.
 
-Đêm trong nội đô rồi sẽ sáng, còn thói quen bật đèn sớm, chọn đúng vị trí trên làn và giảm trước điểm khuất nhìn là hành trang của mọi người chạy xe. Khi cần thuê xe máy tại Hà Nội cho các chuyến đi trong đêm, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/blog/ky-nang/).
+Đêm trong nội đô rồi sẽ sáng, còn thói quen bật đèn sớm, chọn đúng vị trí trên làn và giảm trước điểm khuất nhìn là hành trang của mọi người chạy xe. Khi cần thuê xe máy tại Hà Nội cho các chuyến đi trong đêm, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/ky-nang/).

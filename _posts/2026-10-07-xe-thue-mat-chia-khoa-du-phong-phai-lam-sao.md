@@ -77,4 +77,4 @@ Gọi lại quán, bãi xe, hỏi nhóm nhắn tin khu dân cư nơi bạn nghi 
 
 ## Kết luận
 
-Mất chìa khóa dự phòng xe thuê không đáng lo nếu bạn báo ngay, cùng bên cho thuê làm lại chìa đúng mẫu và chi trả phần phí do mình gây ra. Ghi rõ mức phí bằng tin nhắn từ lúc nhận xe là cách tốt nhất để không tranh chấp. Trước khi thuê, bạn nên xem qua [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) và [nhận xe và trả xe máy thuê](/blog/thue-xe/nhan-tra-xe/) để nắm rõ trách nhiệm hai bên, cũng như tham khảo trang [thuê xe máy](/blog/thue-xe/) khi cần hỗ trợ nhanh.
+Mất chìa khóa dự phòng xe thuê không đáng lo nếu bạn báo ngay, cùng bên cho thuê làm lại chìa đúng mẫu và chi trả phần phí do mình gây ra. Ghi rõ mức phí bằng tin nhắn từ lúc nhận xe là cách tốt nhất để không tranh chấp. Trước khi thuê, bạn nên xem qua [thủ tục thuê xe máy](/thue-xe/thu-tuc/) và [nhận xe và trả xe máy thuê](/thue-xe/nhan-tra-xe/) để nắm rõ trách nhiệm hai bên, cũng như tham khảo trang [thuê xe máy](/thue-xe/) khi cần hỗ trợ nhanh.

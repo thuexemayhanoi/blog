@@ -48,6 +48,6 @@ Ven đường tỉnh có vài kiểu điểm phụ đáng nhớ: các điểm ng
 
 Quãng về nên có đúng một mốc: dừng ăn tối nhẹ quanh vùng Sơn Tây hoặc trên trục đường trường, sau đó chạy thẳng về trong khung đèn phố đã lên. Đường tỉnh đêm không dành cho người mệt: nếu bạn thấy mình mỏi tay lái, dừng sớm hơn kế hoạch, uống nước ngọt ấm, và đi chậm lại thay vì bám tốc độ cũ. Về tới vành đai nội đô, né các đoạn phố chặn cuối tuần quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Muốn đọc thêm các chia kiểu nghỉ theo cung núi, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; theo dõi thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung xa lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm các chia kiểu nghỉ theo cung núi, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; theo dõi thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung xa lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Ba mốc dừng của cung Xuân Sơn đặt đúng chỗ người cần nạp lại: quán thị xã khởi động, quán thung lũng giữa chặng, và thị trấn cuối trước rừng. Nghỉ đúng nhịp trên cung núi chính là cách giữ cả chuyến đi an toàn và đáng nhớ.

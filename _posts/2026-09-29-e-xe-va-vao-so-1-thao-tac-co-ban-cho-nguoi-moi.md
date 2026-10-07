@@ -41,8 +41,8 @@ Thời điểm tệ nhất để chết máy là giữa ngã tư đông xe. Khi 
 
 ## Luyện ở đoạn vắng và khi cầm xe thuê lạ
 
-Chuỗi ba bài tự luyện: khởi động rồi tắt máy mười lần cho tay nhớ nút; vào số, đi mười mét, dừng, về mo, lặp lại mười lần; và nhả côn chậm nhất có thể mà xe không chết. Mỗi bài chừng mười lăm phút ở ngõ vắng là đủ một buổi. Ai muốn luyện trọn bộ thao tác nền có thể theo dõi các bài trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Chuỗi ba bài tự luyện: khởi động rồi tắt máy mười lần cho tay nhớ nút; vào số, đi mười mét, dừng, về mo, lặp lại mười lần; và nhả côn chậm nhất có thể mà xe không chết. Mỗi bài chừng mười lăm phút ở ngõ vắng là đủ một buổi. Ai muốn luyện trọn bộ thao tác nền có thể theo dõi các bài trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
-Người lần đầu thuê xe cũng nên đọc trước cách kiểm tra xe và giấy tờ khi nhận trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/blog/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/), để ngày nhận xe tập trung làm quen thao tác thay vì vội vàng kiểm tra đủ thứ.
+Người lần đầu thuê xe cũng nên đọc trước cách kiểm tra xe và giấy tờ khi nhận trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/), để ngày nhận xe tập trung làm quen thao tác thay vì vội vàng kiểm tra đủ thứ.
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; người mới nên nhận xe buổi sáng để có cả ngày làm quen với đề xe và vào số quanh khu vắng, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; người mới nên nhận xe buổi sáng để có cả ngày làm quen với đề xe và vào số quanh khu vắng, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

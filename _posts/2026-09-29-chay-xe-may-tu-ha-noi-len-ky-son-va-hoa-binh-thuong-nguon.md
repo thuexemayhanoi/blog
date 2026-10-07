@@ -47,6 +47,6 @@ Miền tây Nghệ An mùa mưa hay sạt lở và sương mù sớm; khách đi
 
 Về phần giấy tờ, khách mang theo giấy phép lái xe và đăng ký xe của chủ cho thuê, cùng số điện thoại chủ xe để liên hệ nếu cần. Cửa khẩu là khu vực biên giới có quy định riêng, khách không tự ý lái vào khu vực cửa khẩu khi không có việc, chỉ dừng ở các điểm được phép trên trục chính.
 
-Cung này nằm trong trang tổng hợp [cung đường các tỉnh phía Bắc](/blog/cung-duong/cung-duong-pho-bac/) cùng nhiều tuyến núi khác để so độ khó; khách chưa quen có thể luyện trước với cung ngắn như chuyến [đi Tam Đảo bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/) rồi mới thử trục biên giới.
+Cung này nằm trong trang tổng hợp [cung đường các tỉnh phía Bắc](/cung-duong/cung-duong-pho-bac/) cùng nhiều tuyến núi khác để so độ khó; khách chưa quen có thể luyện trước với cung ngắn như chuyến [đi Tam Đảo bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/) rồi mới thử trục biên giới.
 
-Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để chọn xe số phù hợp đường núi, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/) trước khi chốt lịch.
+Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để chọn xe số phù hợp đường núi, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [cung đường & hành trình](/cung-duong/) trước khi chốt lịch.

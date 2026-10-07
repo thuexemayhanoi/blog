@@ -42,7 +42,7 @@ Với khách thuê xe máy, trước cung buổi tối hãy kiểm tra đèn pha
 
 ## Kết hợp các cung nội thành khác vào cuối tuần
 
-Cung Trần Phú – Ngọc Khánh rất dễ phối hợp với các cung nội thành khác. Bạn có thể chạy trước một vòng Hồ Gươm lúc sáng sớm theo bài [chạy xe vòng nội thành sáng sớm](/blog/cung-duong/2026/10/04/chay-xe-vong-noi-thanh-sang-som-tuyen-ho-guom-ho-tay/), rồi tối đến chạy cung này để khép lại một ngày đầy. Các cung nội thành khác được gom trong mục [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/), còn nếu bạn muốn tìm các cung dài hơn cho dịp cuối tuần thì mục [cung đường](/blog/cung-duong/) có nhiều lựa chọn từ ngắn đến xa.
+Cung Trần Phú – Ngọc Khánh rất dễ phối hợp với các cung nội thành khác. Bạn có thể chạy trước một vòng Hồ Gươm lúc sáng sớm theo bài [chạy xe vòng nội thành sáng sớm](/cung-duong/2026/10/04/chay-xe-vong-noi-thanh-sang-som-tuyen-ho-guom-ho-tay/), rồi tối đến chạy cung này để khép lại một ngày đầy. Các cung nội thành khác được gom trong mục [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/), còn nếu bạn muốn tìm các cung dài hơn cho dịp cuối tuần thì mục [cung đường](/cung-duong/) có nhiều lựa chọn từ ngắn đến xa.
 
 Một mẹo cho người mới thuê xe: hãy thử các cung ngắn nội thành trước khi tính đến các cung đường trường. Chạy xe đường Trần Phú buổi tối tuy ngắn nhưng rèn được cho bạn thói quen quan sát vỉa hè, xử lý đèn và gửi xe đúng chỗ, tức là toàn bộ kỹ năng cần cho những cung khó hơn về sau. Làm chủ được nội thành, các chuyến xa sẽ dễ dàng hơn nhiều.
 

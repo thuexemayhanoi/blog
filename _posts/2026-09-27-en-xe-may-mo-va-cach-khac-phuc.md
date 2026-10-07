@@ -49,7 +49,7 @@ Nếu bạn đã vệ sinh tiếp điểm, thay bóng và sạc ắc quy mà đ�
 
 ## Kiểm tra đèn trước mỗi chuyến đi tối
 
-Trước khi lên đường lúc trời tối, bạn khởi động xe, bật đèn và quan sát vệt sáng chiếu trên tường hoặc mặt đường: vệt sáng phải liền mạch, không nhấp nháy và đủ xa khoảng vài mét phía trước. Bật cả đèn hậu, đèn pha và xi nhan để chắc chắn mọi cụm đều hoạt động. Với những người phải đi tối thường xuyên, ví dụ nhân viên giao hàng chạy quanh các phố quận Bồ Đề, Gia Lâm, việc kiểm tra đèn nên thành thói quen hằng tuần chứ không chỉ khi có dấu hiệu bất thường. Việc này cũng nên có mặt trong danh mục kiểm tra định kỳ, xem thêm [bảo dưỡng xe máy định kỳ](/blog/xe-may/bao-duong-xe/) để dựng checklist đầy đủ cho chiếc xe của mình.
+Trước khi lên đường lúc trời tối, bạn khởi động xe, bật đèn và quan sát vệt sáng chiếu trên tường hoặc mặt đường: vệt sáng phải liền mạch, không nhấp nháy và đủ xa khoảng vài mét phía trước. Bật cả đèn hậu, đèn pha và xi nhan để chắc chắn mọi cụm đều hoạt động. Với những người phải đi tối thường xuyên, ví dụ nhân viên giao hàng chạy quanh các phố quận Bồ Đề, Gia Lâm, việc kiểm tra đèn nên thành thói quen hằng tuần chứ không chỉ khi có dấu hiệu bất thường. Việc này cũng nên có mặt trong danh mục kiểm tra định kỳ, xem thêm [bảo dưỡng xe máy định kỳ](/xe-may/bao-duong-xe/) để dựng checklist đầy đủ cho chiếc xe của mình.
 
 ## Bảo trì để đèn luôn sáng
 
@@ -57,4 +57,4 @@ Trước khi lên đường lúc trời tối, bạn khởi động xe, bật đ
 
 ## Kết luận về đèn xe máy mờ
 
-Đèn xe máy mờ thường xuất phát từ bóng đèn hết tuổi, ắc quy yếu, tiếp điểm oxy hóa hoặc chụp đèn bẩn, và phần lớn các trường hợp có thể khắc phục với chi phí vừa phải. Kiểm tra đèn đều đặn trước mỗi chuyến đi tối giúp bạn tránh những rủi ro không đáng có trên đường. Nếu bạn cần một chiếc xe máy được kiểm tra kỹ trước khi giao, hãy tham khảo [các dòng xe cho thuê](/blog/thue-xe/) và các bài viết trong [chủ đề xe máy](/blog/xe-may/) để chọn xe phù hợp cho nhu cầu di chuyển hằng ngày của mình.
+Đèn xe máy mờ thường xuất phát từ bóng đèn hết tuổi, ắc quy yếu, tiếp điểm oxy hóa hoặc chụp đèn bẩn, và phần lớn các trường hợp có thể khắc phục với chi phí vừa phải. Kiểm tra đèn đều đặn trước mỗi chuyến đi tối giúp bạn tránh những rủi ro không đáng có trên đường. Nếu bạn cần một chiếc xe máy được kiểm tra kỹ trước khi giao, hãy tham khảo [các dòng xe cho thuê](/thue-xe/) và các bài viết trong [chủ đề xe máy](/xe-may/) để chọn xe phù hợp cho nhu cầu di chuyển hằng ngày của mình.

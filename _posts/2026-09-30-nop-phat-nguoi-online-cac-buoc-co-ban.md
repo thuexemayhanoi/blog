@@ -17,7 +17,7 @@ Nộp phạt nguội online giờ là đường ngắn nhất cho hầu hết c�
 
 ## Phạt nguội là gì và thông báo đến bằng cách nào
 
-Phạt nguội là hình thức xử phạt dựa trên thiết bị giám sát: camera ghi lại hành vi vi phạm, hệ thống đối chiếu biển số, và quyết định xử phạt được lập mà không cần lực lượng dừng xe tại chỗ. Hành vi bị ghi hình nhiều nhất là vượt đèn đỏ, đi sai làn và không đội mũ bảo hiểm, mỗi hành vi có cách thức xử lý riêng. Thông báo đến với chủ xe qua thư gửi tận nhà, và nếu thư chậm hoặc thất lạc, cách chủ động là tra cứu bằng biển số trên trang của [Cục Cảnh sát giao thông](https://www.csgt.vn). Tổng quan về hình thức xử phạt này nằm trong bài về [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/).
+Phạt nguội là hình thức xử phạt dựa trên thiết bị giám sát: camera ghi lại hành vi vi phạm, hệ thống đối chiếu biển số, và quyết định xử phạt được lập mà không cần lực lượng dừng xe tại chỗ. Hành vi bị ghi hình nhiều nhất là vượt đèn đỏ, đi sai làn và không đội mũ bảo hiểm, mỗi hành vi có cách thức xử lý riêng. Thông báo đến với chủ xe qua thư gửi tận nhà, và nếu thư chậm hoặc thất lạc, cách chủ động là tra cứu bằng biển số trên trang của [Cục Cảnh sát giao thông](https://www.csgt.vn). Tổng quan về hình thức xử phạt này nằm trong bài về [phạt nguội](/an-toan-phap-ly/phat-nguoi/).
 
 Tra cứu định kỳ vài tuần một lần an toàn hơn nhiều so với ngồi chờ thư. Thực tế nhiều người chỉ biết mình bị phạt nguội khi nhận thư nhắc đã quá hạn nộp, trong khi hệ thống tra cứu cập nhật quyết định sớm hơn thư rất nhiều. Chỉ cần nhập đúng từng ký tự biển số, kết quả sẽ liệt kê các quyết định đang hiệu lực kèm hành vi vi phạm, ngày giờ và địa điểm ghi hình.
 
@@ -25,7 +25,7 @@ Một câu hỏi hay gặp: ai là người bị phạt. Với xe cá nhân, quy
 
 ## Nộp phạt nguội online: cần chuẩn bị gì
 
-Bốn thứ cần có trước khi bắt đầu: biển số viết đúng từng ký tự, kể cả dấu gạch và mã vùng; số quyết định nếu thư đã về tay, ghi liền không dấu cách; một tài khoản dịch vụ công đã kích hoạt, đăng nhập được mà không cần nhớ lại mật khẩu; và một phương thức thanh toán liên kết như tài khoản ngân hàng trực tuyến hay ví điện tử. Nếu bạn chưa có tài khoản dịch vụ công, hãy kích hoạt trước, vì đây là khâu tốn thời gian nhất với người làm lần đầu. Người hay quên mật khẩu nên bật ghi nhớ trên điện thoại, vì cổng đăng nhập có bước xác thực qua số điện thoại hoặc thư điện tử. Phần chuẩn bị giấy tờ khi tham gia giao thông nằm trong bài về [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
+Bốn thứ cần có trước khi bắt đầu: biển số viết đúng từng ký tự, kể cả dấu gạch và mã vùng; số quyết định nếu thư đã về tay, ghi liền không dấu cách; một tài khoản dịch vụ công đã kích hoạt, đăng nhập được mà không cần nhớ lại mật khẩu; và một phương thức thanh toán liên kết như tài khoản ngân hàng trực tuyến hay ví điện tử. Nếu bạn chưa có tài khoản dịch vụ công, hãy kích hoạt trước, vì đây là khâu tốn thời gian nhất với người làm lần đầu. Người hay quên mật khẩu nên bật ghi nhớ trên điện thoại, vì cổng đăng nhập có bước xác thực qua số điện thoại hoặc thư điện tử. Phần chuẩn bị giấy tờ khi tham gia giao thông nằm trong bài về [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
 
 ## Các bước cơ bản trên cổng dịch vụ công
 
@@ -43,8 +43,8 @@ Sau khi nộp xong, lưu biên lai ở hai nơi: một ảnh chụp trong điệ
 
 ## Với xe máy thuê
 
-Với xe thuê, thư phạt gửi về chủ xe là cửa hàng, và cửa hàng chuyển trách nhiệm cho người thuê theo hợp đồng. Người thuê nộp bằng biển số của xe đã đi, xong việc thì gửi lại biên lai cho cửa hàng để bên cho thuê xác nhận và trả cọc nhanh hơn. Các bước nhận xe trước khi đi nằm trong bài về [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Với xe thuê, thư phạt gửi về chủ xe là cửa hàng, và cửa hàng chuyển trách nhiệm cho người thuê theo hợp đồng. Người thuê nộp bằng biển số của xe đã đi, xong việc thì gửi lại biên lai cho cửa hàng để bên cho thuê xác nhận và trả cọc nhanh hơn. Các bước nhận xe trước khi đi nằm trong bài về [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 Một thói quen nhỏ giúp bạn tự bảo vệ mình khi đi xe thuê: chụp lại biển số trước khi nhận xe và sau khi trả, lưu cùng ảnh hợp đồng. Ảnh biển số rõ ràng cũng giúp bạn không phải nhận trách nhiệm cho những quyết định thuộc về khách thuê trước đó. Nếu trong lúc thuê xe bạn không đi qua đoạn có camera ghi hình mà vẫn nhận nhắc từ cửa hàng, bạn có căn cứ để đối chiếu ngày giờ và làm rõ trách nhiệm.
 
-Tóm lại, nộp phạt nguội online chỉ khó ở lần đầu: sau khi có tài khoản dịch vụ công và thuộc bốn bước, mỗi lần sau chỉ mất vài phút. Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) luôn có sẵn các phần đọc kèm về giấy tờ và xử phạt trên đường.
+Tóm lại, nộp phạt nguội online chỉ khó ở lần đầu: sau khi có tài khoản dịch vụ công và thuộc bốn bước, mỗi lần sau chỉ mất vài phút. Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) luôn có sẵn các phần đọc kèm về giấy tờ và xử phạt trên đường.

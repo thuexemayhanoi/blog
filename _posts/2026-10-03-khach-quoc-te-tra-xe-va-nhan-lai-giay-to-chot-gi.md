@@ -30,7 +30,7 @@ Buổi trả nên theo một trình tự cố định để không bỏ sót. Th
 
 Trình tự đó quan trọng ở một điểm: giấy tờ chỉ nên chuyển tay khi mọi kiểm tra đã xong, không phải giữa chừng khi còn đang tranh luận về vết xước. Nếu hai bên phát hiện bất đồng về tình trạng xe, cách xử lý nên diễn ra trước khi hộ chiếu rời két, vì giấy tờ là tài sản quan trọng nhất của khách quốc tế trong suốt thời gian lưu trú.
 
-Với khách dùng hộ chiếu làm tài sản cọc, khi nhận lại nên mở từng trang kiểm tra nhanh ngay tại quầy, và chụp ảnh kèm giờ trả làm bằng chứng hai bên đã hoàn tất. Với khách cọc bằng tiền mặt, hai bên đếm lại tiền trước mặt nhau và cùng xác nhận bằng một tin nhắn cuối. Người thuê quốc tế có thể đọc thêm cách chuẩn bị giấy tờ và thủ tục từ đầu tại trang [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/), nơi có đầy đủ các bước cho nhóm khách này.
+Với khách dùng hộ chiếu làm tài sản cọc, khi nhận lại nên mở từng trang kiểm tra nhanh ngay tại quầy, và chụp ảnh kèm giờ trả làm bằng chứng hai bên đã hoàn tất. Với khách cọc bằng tiền mặt, hai bên đếm lại tiền trước mặt nhau và cùng xác nhận bằng một tin nhắn cuối. Người thuê quốc tế có thể đọc thêm cách chuẩn bị giấy tờ và thủ tục từ đầu tại trang [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/), nơi có đầy đủ các bước cho nhóm khách này.
 
 ## Những điểm hay gây hiểu lầm ở buổi trả
 
@@ -44,4 +44,4 @@ Món đồ kèm theo là điểm thứ ba: mũ, khóa, áo mưa, đồ để tro
 
 Trước khi rời cửa hàng, khách nên giữ nguyên chuỗi tin nhắn trao đổi toàn bộ thời gian thuê, đừng xoá vội cho nhẹ máy. Chuỗi tin đó là hồ sơ duy nhất chứng minh xe đã trả, giấy tờ đã nhận lại, và mọi khoản đã chốt sạch. Với người sắp đi tiếp hành trình ở Việt Nam, hồ sơ nhẹ nhàng này giúp các lần thuê sau cũng nhanh và dễ hơn.
 
-Chủ xe bên kia cũng nên lưu lại toàn bộ và cập nhật trạng thái xe để buổi giao sau không phải tranh lại những chuyện đã chốt. Đó là cách hai bên, cách nhau về ngôn ngữ, vẫn giữ được sự tin cậy trọn vẹn cho tới tin nhắn cuối cùng. Ai muốn ôn lại toàn bộ quy trình nhận xe và trả xe theo chuẩn có thể xem [mục thuê xe máy](/blog/thue-xe/), nơi tóm lược các bước cho cả người đi thuê lần đầu. Bài kiểm tra khi nhận xe và khi trả xe cũng đáng đọc trước, vì danh sách mục cần soát ở hai đầu chuyến thuê gần như phản chiếu của nhau, và người nắm sẵn hai danh sách thì buổi giao xe nào cũng trôi qua nhanh.
+Chủ xe bên kia cũng nên lưu lại toàn bộ và cập nhật trạng thái xe để buổi giao sau không phải tranh lại những chuyện đã chốt. Đó là cách hai bên, cách nhau về ngôn ngữ, vẫn giữ được sự tin cậy trọn vẹn cho tới tin nhắn cuối cùng. Ai muốn ôn lại toàn bộ quy trình nhận xe và trả xe theo chuẩn có thể xem [mục thuê xe máy](/thue-xe/), nơi tóm lược các bước cho cả người đi thuê lần đầu. Bài kiểm tra khi nhận xe và khi trả xe cũng đáng đọc trước, vì danh sách mục cần soát ở hai đầu chuyến thuê gần như phản chiếu của nhau, và người nắm sẵn hai danh sách thì buổi giao xe nào cũng trôi qua nhanh.

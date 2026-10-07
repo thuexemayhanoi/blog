@@ -61,6 +61,6 @@ Chở thùng trên càng hay trên yên tốt hơn? Tùy kích thước: thùng 
 
 Thùng giấy chịu mưa được không? Không lâu. Gặp mưa, che bằng túi nilon lớn, và nếu thùng bị ẩm giữa chặng nên chuyển đồ sang túi khác.
 
-Nên hỏi gì khi thuê xe để chở đồ? Hỏi xem xe có càng sau chắc và dây chun kèm theo không, vì hai thứ này quyết định việc cố định thùng có dễ dàng. Tổng quan cách chở đồ và hành lý trên xe máy được tổng hợp tại chuyên mục [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), còn các kỹ năng lái tổng quát nằm ở mục [kỹ năng lái xe máy](/blog/ky-nang/). Thắc mắc cụ thể về từng loại đồ có thể tra thêm ở [hỏi đáp](/blog/hoi-dap/).
+Nên hỏi gì khi thuê xe để chở đồ? Hỏi xem xe có càng sau chắc và dây chun kèm theo không, vì hai thứ này quyết định việc cố định thùng có dễ dàng. Tổng quan cách chở đồ và hành lý trên xe máy được tổng hợp tại chuyên mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), còn các kỹ năng lái tổng quát nằm ở mục [kỹ năng lái xe máy](/ky-nang/). Thắc mắc cụ thể về từng loại đồ có thể tra thêm ở [hỏi đáp](/hoi-dap/).
 
 Một thùng giấy buộc đúng chỗ không chỉ giữ đồ nguyên vẹn mà còn giữ cả vẹn tay lái của bạn trên đường về.

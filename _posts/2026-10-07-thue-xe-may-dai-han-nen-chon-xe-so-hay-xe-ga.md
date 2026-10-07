@@ -40,7 +40,7 @@ Về mức tiền, không có con số áp dụng chung cho mọi cửa hàng, v
 
 ## Thử xe trước khi quyết định
 
-Nếu còn phân vân, hãy thử cả hai loại ngay tại cửa hàng trước khi ký. Một vòng quanh phố khoảng mười phút với mỗi loại đủ để bạn cảm nhận độ nặng, độ nhạy tay ga và tư thế ngồi. Người quen thể thao có thể thấy xe số hứng thú hơn, trong khi người di chuyển nhiều trong phố lại thích sự nhàn của xe ga. Bạn cũng có thể tham khảo mức giá các dòng xe ga hiện có tại trang [bảng giá xe ga](/blog/bang-gia-xe-ga/) để so sánh trước.
+Nếu còn phân vân, hãy thử cả hai loại ngay tại cửa hàng trước khi ký. Một vòng quanh phố khoảng mười phút với mỗi loại đủ để bạn cảm nhận độ nặng, độ nhạy tay ga và tư thế ngồi. Người quen thể thao có thể thấy xe số hứng thú hơn, trong khi người di chuyển nhiều trong phố lại thích sự nhàn của xe ga. Bạn cũng có thể tham khảo mức giá các dòng xe ga hiện có tại trang [bảng giá xe ga](/bang-gia-xe-ga/) để so sánh trước.
 
 ## Nếu loại xe không hợp thì nên làm gì
 
@@ -48,6 +48,6 @@ Trường hợp sau một thời gian dùng bạn nhận ra loại xe không h�
 
 ## Sau khi chọn loại xe thì nên làm gì
 
-Sau khi chốt loại xe, hãy dành thời gian đối soát hiện trạng: đèn, còi, phanh, vết xước trên thân và các phụ kiện đi kèm như mũ bảo hiểm, khóa cổ. Ghi lại các điểm đã trao đổi vào biên bản nhận xe để hai bên cùng giữ một bản. Trong tháng, giữ xe theo đúng công dụng và báo ngay khi có dấu hiệu bất thường, thay vì chờ đến kỳ đến hạn. Bạn có thể tìm hiểu thêm nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/blog/thue-xe/) để nắm các lưu ý thường gặp trong kỳ thuê.
+Sau khi chốt loại xe, hãy dành thời gian đối soát hiện trạng: đèn, còi, phanh, vết xước trên thân và các phụ kiện đi kèm như mũ bảo hiểm, khóa cổ. Ghi lại các điểm đã trao đổi vào biên bản nhận xe để hai bên cùng giữ một bản. Trong tháng, giữ xe theo đúng công dụng và báo ngay khi có dấu hiệu bất thường, thay vì chờ đến kỳ đến hạn. Bạn có thể tìm hiểu thêm nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/thue-xe/) để nắm các lưu ý thường gặp trong kỳ thuê.
 
-Trước khi chốt hợp đồng thuê tháng, hãy ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, hoặc gọi trước số 0942 467 674 để trao đổi trực tiếp về nhu cầu của mình. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể xem thêm nhóm bài hướng dẫn thuê xe dài ngày trên trang [thuê xe máy](/blog/thue-xe/).
+Trước khi chốt hợp đồng thuê tháng, hãy ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, hoặc gọi trước số 0942 467 674 để trao đổi trực tiếp về nhu cầu của mình. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể xem thêm nhóm bài hướng dẫn thuê xe dài ngày trên trang [thuê xe máy](/thue-xe/).

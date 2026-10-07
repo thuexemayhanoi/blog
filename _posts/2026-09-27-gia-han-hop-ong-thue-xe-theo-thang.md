@@ -25,15 +25,15 @@ Một lưu ý thực tế: nếu bạn đang đi công tác hoặc về quê và
 
 ## Kiểm tra lại xe trước khi gia hạn thuê xe máy thêm kỳ mới
 
-Gia hạn không chỉ là ký thêm tháng, mà là dịp hiếm hoi để hai bên cùng nhìn lại tình trạng thực tế của xe. Vào giữa kỳ, nếu xe có tiếng kêu lạ ở phanh, xích bị khô hay đèn không sáng, bạn thường chỉ báo miệng qua điện thoại. Đến kỳ gia hạn, hãy cùng chủ xe kiểm tra lại một lượt theo đúng cách làm với [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), chụp ảnh lại hiện trạng và lưu vào điện thoại.
+Gia hạn không chỉ là ký thêm tháng, mà là dịp hiếm hoi để hai bên cùng nhìn lại tình trạng thực tế của xe. Vào giữa kỳ, nếu xe có tiếng kêu lạ ở phanh, xích bị khô hay đèn không sáng, bạn thường chỉ báo miệng qua điện thoại. Đến kỳ gia hạn, hãy cùng chủ xe kiểm tra lại một lượt theo đúng cách làm với [danh sách kiểm tra xe khi nhận xe thuê](/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), chụp ảnh lại hiện trạng và lưu vào điện thoại.
 
-Việc này quan trọng vì biên bản hiện trạng mới chính là mốc phân biệt trách nhiệm: hư hỏng phát sinh trong kỳ mới sẽ so với ảnh chụp kỳ gia hạn, chứ không phải với ngày nhận xe đầu tiên cách đó nhiều tháng. Bạn có thể tham khảo thêm [quy trình kiểm tra xe hai phút trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/) để duy trì thói quen kiểm tra định kỳ trong suốt kỳ thuê.
+Việc này quan trọng vì biên bản hiện trạng mới chính là mốc phân biệt trách nhiệm: hư hỏng phát sinh trong kỳ mới sẽ so với ảnh chụp kỳ gia hạn, chứ không phải với ngày nhận xe đầu tiên cách đó nhiều tháng. Bạn có thể tham khảo thêm [quy trình kiểm tra xe hai phút trước mỗi chuyến đi](/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/) để duy trì thói quen kiểm tra định kỳ trong suốt kỳ thuê.
 
 ## Chốt lại giá và điều khoản cho kỳ mới
 
 Giá thuê tháng không phải lúc nào cũng giữ nguyên như kỳ trước. Nếu bạn thuê chiếc xe ga đời mới hơn, hoặc đổi từ xe số sang xe tay ga giữa chừng, giá tất nhiên khác. Ngược lại, thuê tiếp đúng chiếc cũ, nhiều cửa hàng giữ nguyên giá ban đầu. Điều quan trọng là phải chốt lại bằng lời nói rõ ràng hoặc tin nhắn có nội dung cụ thể, đừng mặc định "giá chắc như cũ".
 
-Ngoài giá, các điều khoản cần nói lại khi kéo dài hợp đồng thuê xe gồm: số ngày thực tế của kỳ mới (vì các tháng không đều nhau), thời gian trả xe, hình thức thanh toán theo tháng hay cuối kỳ, và mức trách nhiệm nếu xe gặp sự cố ngoài ý muốn. Với những người lần đầu làm hợp đồng tháng, nên đọc lại [hướng dẫn thuê xe máy theo tháng cho người sống và làm việc ở Hà Nội](/blog/thue-xe/2026/09/27/thue-xe-may-theo-thang-cho-nguoi-song-va-lam-viec-o-ha-noi/) để nắm khung điều khoản thông thường trước khi trao đổi.
+Ngoài giá, các điều khoản cần nói lại khi kéo dài hợp đồng thuê xe gồm: số ngày thực tế của kỳ mới (vì các tháng không đều nhau), thời gian trả xe, hình thức thanh toán theo tháng hay cuối kỳ, và mức trách nhiệm nếu xe gặp sự cố ngoài ý muốn. Với những người lần đầu làm hợp đồng tháng, nên đọc lại [hướng dẫn thuê xe máy theo tháng cho người sống và làm việc ở Hà Nội](/thue-xe/2026/09/27/thue-xe-may-theo-thang-cho-nguoi-song-va-lam-viec-o-ha-noi/) để nắm khung điều khoản thông thường trước khi trao đổi.
 
 ## Đặt vấn đề bằng văn bản dù thuê tiếp xe cũ
 
@@ -51,4 +51,4 @@ Lỗi thứ tư cũng đáng nói: gia hạn miệng nhưng không nói rõ kỳ
 
 Trước khi kỳ mới chạy, hãy thanh toán dứt điểm kỳ cũ nếu hợp đồng thanh toán theo tháng trước. Trả tiền kỳ cũ rõ ràng rồi mới chuyển sang kỳ mới giúp sổ sách hai bên gọn gàng, tránh chuyện bù trừ qua lại về sau. Nếu thuê dài hạn nhiều tháng, hãy hỏi chủ xe về lịch thanh toán cố định, ví dụ trả vào đầu tháng, để không phải nhớ từng đợt.
 
-Khi mọi thứ đã rõ, bạn chỉ cần giữ liên lạc với chủ xe trong suốt kỳ mới và báo ngay khi xe có dấu hiệu bất thường, đúng như gợi ý trong bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/). Cần trao đổi về kỳ hạn hoặc muốn ghé cửa hàng gần cầu Nguyễn Văn Cừ để gặp trực tiếp, xem thông tin tại trang [liên hệ](/blog/lien-he/). Trang chủ đề [thuê xe máy](/blog/thue-xe/) và mục [thuê xe theo tháng](/blog/thue-xe/thue-thang/) cũng tổng hợp nhiều bài về thuê dài hạn để bạn tham khảo trước lần gia hạn tiếp theo.
+Khi mọi thứ đã rõ, bạn chỉ cần giữ liên lạc với chủ xe trong suốt kỳ mới và báo ngay khi xe có dấu hiệu bất thường, đúng như gợi ý trong bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/). Cần trao đổi về kỳ hạn hoặc muốn ghé cửa hàng gần cầu Nguyễn Văn Cừ để gặp trực tiếp, xem thông tin tại trang [liên hệ](/lien-he/). Trang chủ đề [thuê xe máy](/thue-xe/) và mục [thuê xe theo tháng](/thue-xe/thue-thang/) cũng tổng hợp nhiều bài về thuê dài hạn để bạn tham khảo trước lần gia hạn tiếp theo.

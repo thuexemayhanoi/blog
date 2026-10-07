@@ -41,7 +41,7 @@ Trời tối muộn quanh khu lên đèn đẹp nhưng cũng là lúc khách ra 
 
 ## Gửi xe quanh khu Nhà hát
 
-Bãi quanh khu chia hai lớp: lớp sát quảng trường, vào nhanh nhưng đầy sớm cuối tuần và trước giờ diễn; lớp rìa hơn một chút, đi bộ thêm vài phút nhưng luôn có chỗ và ra vào dễ hơn. Nếu xem suất diễn hoặc ở lại lâu, chọn lớp rìa và đi bộ nốt quãng, vì trước giờ diễn phần chờ xe ra vào là thứ dễ làm hỏng tâm trạng nhất. Cách chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Bãi quanh khu chia hai lớp: lớp sát quảng trường, vào nhanh nhưng đầy sớm cuối tuần và trước giờ diễn; lớp rìa hơn một chút, đi bộ thêm vài phút nhưng luôn có chỗ và ra vào dễ hơn. Nếu xem suất diễn hoặc ở lại lâu, chọn lớp rìa và đi bộ nốt quãng, vì trước giờ diễn phần chờ xe ra vào là thứ dễ làm hỏng tâm trạng nhất. Cách chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Giá gửi quanh khu thường theo hai mức ngắn và dài, và một số bãi niêm yết thêm phụ phí cho xe côn tay hoặc xe điện, nên hỏi trước khi để. Chụp lại ký hiệu chỗ xe và cổng ra vào cũng là thói quen tiết kiệm thời gian ở các bãi lớn quanh khu, nơi nhiều lối ra vào dễ giống nhau đến mức lần tìm lại xe giữa buổi đông mất cả vài phút.
 
@@ -49,8 +49,8 @@ Tránh để xe trên các đoạn vỉa hè quanh quảng trường dù trông 
 
 ## Với người lần đầu chạy khu này
 
-Ba nguyên tắc nên giữ: một, chạy chậm ngay từ khi rẽ vào khu, vì phần đông người tập trung ở mép quảng trường, không phải giữa đường; hai, nhường người băng đường kể cả khi họ đi không đúng chấm, vì quanh đây đám đông luôn đông hơn một người lái; ba, không theo sát xe buýt, kể cả khi đường thoáng. Cách xử lý các tình huống thường gặp trong khu đông đã được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/).
+Ba nguyên tắc nên giữ: một, chạy chậm ngay từ khi rẽ vào khu, vì phần đông người tập trung ở mép quảng trường, không phải giữa đường; hai, nhường người băng đường kể cả khi họ đi không đúng chấm, vì quanh đây đám đông luôn đông hơn một người lái; ba, không theo sát xe buýt, kể cả khi đường thoáng. Cách xử lý các tình huống thường gặp trong khu đông đã được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/).
 
-Nếu bạn mở rộng chuyến trong ngày cuối tuần, các [lộ trình cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) giúp cân thời gian giữa nhiều chặng, còn phần chọn xe cho cả ngày có thể tham khảo các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/).
+Nếu bạn mở rộng chuyến trong ngày cuối tuần, các [lộ trình cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) giúp cân thời gian giữa nhiều chặng, còn phần chọn xe cho cả ngày có thể tham khảo các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/).
 
-Tóm lại, khu quanh Nhà hát Lớn dễ đi nếu bạn tôn trọng một sự thật: đây vừa là trục giao thông vừa là điểm ngắm cảnh. Chậm trước quảng trường, rộng rãi với người băng đường, và gửi xe đúng rìa, ba điều đó cho bạn quãng chạy êm ru quanh khu. Ghép thêm điểm trong cùng hành trình, hãy xem danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/).
+Tóm lại, khu quanh Nhà hát Lớn dễ đi nếu bạn tôn trọng một sự thật: đây vừa là trục giao thông vừa là điểm ngắm cảnh. Chậm trước quảng trường, rộng rãi với người băng đường, và gửi xe đúng rìa, ba điều đó cho bạn quãng chạy êm ru quanh khu. Ghép thêm điểm trong cùng hành trình, hãy xem danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/).

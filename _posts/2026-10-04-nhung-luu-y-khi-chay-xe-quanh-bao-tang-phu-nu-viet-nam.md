@@ -38,7 +38,7 @@ Khung chiều ngày thường cũng cần lưu tâm: người đi làm đổ v�
 
 Trời mưa quanh bờ hồ làm các đoạn gờ vỉa hè và đá lát trơn hơn mặt đường, nên giữ thẳng tay lái, tránh rẽ gấp, và đừng đua đèn vàng ở các ngã tư vùng này. Gặp đoàn cưới hoặc đoàn người đi bộ chéo ngang, cách xử lý là dừng hẳn, không còi không bấm máy. Và nếu ai đó gửi xe giúp bạn chỉ chỗ "còn duy nhất một chỗ cuối", vẫn cứ hỏi giá trước khi cất mũ: thói quen đó tránh được phần lớn chuyện khó chịu phát sinh quanh các bãi mùa đông khách.
 
-Ai muốn xem thêm về xử lý tình huống chéo nhau trong phố có thể đọc mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/); về phần đường về hướng Long Biên, bài [đến cầu Long Biên bằng xe máy](/blog/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/) mô tả sẵn khu gửi xe quanh cầu. Các điểm khác quanh thành phố nằm ở chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn trang [du lịch](/blog/du-lich/) là mục lục của mọi lịch trình.
+Ai muốn xem thêm về xử lý tình huống chéo nhau trong phố có thể đọc mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/); về phần đường về hướng Long Biên, bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/) mô tả sẵn khu gửi xe quanh cầu. Các điểm khác quanh thành phố nằm ở chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/), còn trang [du lịch](/du-lich/) là mục lục của mọi lịch trình.
 
 Tóm lại, vùng quanh bảo tàng Phụ nữ không có đường nào khó; nó chỉ có nhiều thứ thay đổi nhanh theo giờ. Nắm được nhịp thay đổi đó, bạn sẽ thấy đây là một trong những khu phố dễ chạy và dễ giữ xe nhất của trung tâm Hà Nội.
 

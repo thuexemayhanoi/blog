@@ -34,7 +34,7 @@ Hai chi tiết nữa đáng soi kỹ lúc tối là lốp và dây xích. Dùng 
 
 Lúc nhận tối, các chi tiết thủ tục dễ bị bỏ qua hơn vì mọi người muốn đi nhanh. Đối chiếu lại các gì đã trao đổi trước đó: dòng xe, mức giá đã báo, tiền cọc, giấy tờ để lại, và giờ trả xe. Kiểm tra mũ bảo hiểm đi kèm: mang đủ số mũ cho người đi, xem kính mũ còn trong không, vì kính mũ nứt trời tối khó thấy mà lại ảnh hưởng tầm nhìn. Nếu có áo mưa hoặc đồ đi kèm khác, đếm và chụp luôn cả đám.
 
-Một việc nhỏ nhưng nên làm: lưu số điện thoại hỗ trợ của cửa hàng vào máy trước khi rời đi. Nếu xe có sự cố gì trong tối, bạn sẽ không phải mò số giữa đường. Với khách lần đầu thuê, danh sách các câu hỏi nên hỏi cửa hàng qua tin nhắn trước khi tới trong bài [thuê xe máy lần đầu nên hỏi gì](/blog/hoi-dap/2026/10/04/thue-xe-may-lan-au-nen-hoi-gi-cua-hang-qua-tin-nhan/) cũng nên đọc trước, vì nhiều mục hỏi giờ giấc và xăng dầu sẽ giúp buổi nhận xe tối gọn hơn. Còn nếu lịch cho phép, chọn khung giờ nhận xe còn ánh sáng tự nhiên vẫn là cách nhẹ nhàng nhất.
+Một việc nhỏ nhưng nên làm: lưu số điện thoại hỗ trợ của cửa hàng vào máy trước khi rời đi. Nếu xe có sự cố gì trong tối, bạn sẽ không phải mò số giữa đường. Với khách lần đầu thuê, danh sách các câu hỏi nên hỏi cửa hàng qua tin nhắn trước khi tới trong bài [thuê xe máy lần đầu nên hỏi gì](/hoi-dap/2026/10/04/thue-xe-may-lan-au-nen-hoi-gi-cua-hang-qua-tin-nhan/) cũng nên đọc trước, vì nhiều mục hỏi giờ giấc và xăng dầu sẽ giúp buổi nhận xe tối gọn hơn. Còn nếu lịch cho phép, chọn khung giờ nhận xe còn ánh sáng tự nhiên vẫn là cách nhẹ nhàng nhất.
 
 ## Trường hợp nhận xe không phải tại cửa hàng
 
@@ -42,4 +42,4 @@ Nhiều khách nhận xe tại điểm hẹn hoặc khách sạn, trời tối l
 
 Trả xe lúc tối cũng tương tự nhận xe: chụp ảnh quanh xe một vòng trước khi bàn giao, để hai bên cùng rõ hiện trạng xe lúc kết thúc thuê. Thói quen chụp ảnh hai đầu, lúc nhận và lúc trả, là cách rẻ nhất để mọi chuyến đi thuê xe kết thúc êm thấm, bất kể trời sáng hay tối.
 
-Tóm lại, nhận xe lúc trời tối không đáng lo nếu thêm đèn pin điện thoại: soi quanh xe, chụp ảnh, thử đèn phanh còi, và đối chiếu giấy tờ kỹ hơn ngày thường. Các câu hỏi khác của người mới thuê xe máy được trả lời trong mục [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn trọn bộ các câu hỏi thường gặp khi thuê xe máy Hà Nội nằm trong mục [hỏi đáp](/blog/hoi-dap/).
+Tóm lại, nhận xe lúc trời tối không đáng lo nếu thêm đèn pin điện thoại: soi quanh xe, chụp ảnh, thử đèn phanh còi, và đối chiếu giấy tờ kỹ hơn ngày thường. Các câu hỏi khác của người mới thuê xe máy được trả lời trong mục [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), còn trọn bộ các câu hỏi thường gặp khi thuê xe máy Hà Nội nằm trong mục [hỏi đáp](/hoi-dap/).

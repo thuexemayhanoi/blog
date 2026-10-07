@@ -19,7 +19,7 @@ Mười phút cuối trước khi rời cửa hàng quyết định chất lư�
 
 Bắt đầu bằng phần giấy tờ, vì thiếu mục nào ở đây bạn sẽ phải quay lại cửa hàng. Đối chiếu họ tên, số giấy tờ đã đặt và kỳ hạn ghi trong hợp đồng hoặc biên bản. Xác nhận lại số tiền đặt cọc, hình thức giữ, và giờ trả cụ thể kèm ngày, không chỉ ngày. Kiểm tra chìa khóa: thử cả khóa cổ và khóa cốp, hỏi thêm nếu có chìa dự phòng. Cuối phần này, xác nhận xe bạn nhận đúng là xe đã chọn, biển số khớp với biên bản.
 
-Tiếp theo là các phụ kiện đi kèm. Đếm mũ bảo hiểm, thử khóa cằm mũ, kiểm tra áo mưa nếu có đi kèm, và mở cốp để xác nhận cốp sạch và khóa hoạt động. Mũ bảo hiểm là vật sống chung với xe cả kỳ, nên nếu mũ có mùi hoặc quai bị hỏng, đổi ngay lúc này. Với người lần đầu thuê, danh sách giấy tờ cần mang được trình bày trong trang [giấy tờ thuê xe](/blog/an-toan-phap-ly/giay-to/) và các bước chuẩn bị đầy đủ nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Tiếp theo là các phụ kiện đi kèm. Đếm mũ bảo hiểm, thử khóa cằm mũ, kiểm tra áo mưa nếu có đi kèm, và mở cốp để xác nhận cốp sạch và khóa hoạt động. Mũ bảo hiểm là vật sống chung với xe cả kỳ, nên nếu mũ có mùi hoặc quai bị hỏng, đổi ngay lúc này. Với người lần đầu thuê, danh sách giấy tờ cần mang được trình bày trong trang [giấy tờ thuê xe](/an-toan-phap-ly/giay-to/) và các bước chuẩn bị đầy đủ nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Vận hành: đề máy, thử phanh, đèn và còi
 
@@ -35,7 +35,7 @@ Với nhóm lỗi chỉ lộ ra khi chạy, cách phòng hờ là chạy thử m
 
 Nhóm kiểm tra cuối là ngoại thất, làm chậm và có hệ thống. Ấn nhẹ lốp trước sau xe để cảm áp suất, nhìn vân lốp còn rõ hay đã mòn nhẵn, và soi mặt lốp có vết nứt hoặc mảnh găm. Lốp non hơi là lỗi phổ biến trên xe cho thuê và cũng là lý do gây vập võ hoặc văng trên đường ướt. Nhấc nhẹ tay lái để cảm độ rơ của ổ bi, không bỏ qua tiếng lạo xạo bất thường.
 
-Quan sát một vòng quanh thân xe: hai hông, đầu, đuôi, gương, tem. Mọi vết xước hoặc móp sẵn có phải được ghi vào biên bản giao nhận, càng cụ thể càng tốt, ví dụ vết dài năm cm gần ghế bên phải. Chụp ảnh hoặc quay video một vòng quanh xe, kèm cận cảnh công tơ mét và kim xăng. Mức xăng cần ghi rõ trong biên bản vì đây là mục dễ tranh chấp nhất lúc trả. Cách ghi hình chuẩn để lưu bằng chứng được trình bày trong trang hướng dẫn [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), còn nếu bạn cân nhắc loại xe cho chuyến đi sắp tới, phần so sánh các dòng xe nằm tại trang [chọn loại xe](/blog/xe-may/chon-loai-xe/).
+Quan sát một vòng quanh thân xe: hai hông, đầu, đuôi, gương, tem. Mọi vết xước hoặc móp sẵn có phải được ghi vào biên bản giao nhận, càng cụ thể càng tốt, ví dụ vết dài năm cm gần ghế bên phải. Chụp ảnh hoặc quay video một vòng quanh xe, kèm cận cảnh công tơ mét và kim xăng. Mức xăng cần ghi rõ trong biên bản vì đây là mục dễ tranh chấp nhất lúc trả. Cách ghi hình chuẩn để lưu bằng chứng được trình bày trong trang hướng dẫn [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), còn nếu bạn cân nhắc loại xe cho chuyến đi sắp tới, phần so sánh các dòng xe nằm tại trang [chọn loại xe](/xe-may/chon-loai-xe/).
 
 ## Những câu nên hỏi trước khi rời cửa hàng
 

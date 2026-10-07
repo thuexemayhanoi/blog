@@ -35,7 +35,7 @@ thường đã có giấy tờ tạm trú; mang theo giấy tờ đó giúp hợ
 - Nếu giấy phép của bạn được công nhận cho loại xe sắp thuê, mang bản gốc để ghi vào biên nhận.
 - Nếu chưa rõ, hỏi trực tiếp chủ cửa hàng xem họ yêu cầu tiêu chuẩn gì, và cân nhắc phương án di chuyển khác cho kỳ nghỉ của mình.
 
-Chủ đề giấy tờ và quyền lợi lái xe được mô tả chi tiết tại trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), nơi tổng hợp các câu hỏi thường gặp cho cả khách nội địa và quốc tế. Trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/) bổ sung thêm phần danh mục giấy tờ nói chung. Việc lái xe khi giấy tờ chưa rõ ràng mang rủi ro cho chính khách: bị dừng kiểm tra giữa đường với giấy tờ không hợp lệ là tình huống không ai muốn, đặc biệt khi giao tiếp còn rào cản ngôn ngữ.
+Chủ đề giấy tờ và quyền lợi lái xe được mô tả chi tiết tại trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), nơi tổng hợp các câu hỏi thường gặp cho cả khách nội địa và quốc tế. Trang [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/) bổ sung thêm phần danh mục giấy tờ nói chung. Việc lái xe khi giấy tờ chưa rõ ràng mang rủi ro cho chính khách: bị dừng kiểm tra giữa đường với giấy tờ không hợp lệ là tình huống không ai muốn, đặc biệt khi giao tiếp còn rào cản ngôn ngữ.
 
 Một lưu ý thực tế: loại xe chọn thuê cũng nên khớp với trình độ. Khách quốc tế chưa quen đường Hà Nội nên ưu tiên xe nhẹ, dễ điều khiển, thay vì xe máy lớn. Mật độ giao thông quanh Hoàn Kiếm vào giờ cao điểm không phải nơi để tập làm quen với một chiếc xe lạ.
 
@@ -54,9 +54,9 @@ Rào cản ngôn ngữ là khác biệt vận hành lớn nhất giữa khách q
 - Chốt thông tin quan trọng bằng văn bản nhắn tin, để có bản dịch máy đối chiếu lại.
 - Hỏi trước số điện thoại hỗ trợ và khung giờ có người nhận cuộc gọi.
 
-Khi gặp sự cố giữa kỳ, như xe hỏng hoặc mất chìa, khách quốc tế nên báo theo đúng kênh đã chốt, mô tả kèm ảnh chụp. Thói quen báo sớm giúp chủ cửa hàng xử lý nhanh và cũng giữ cho bên khách phần bằng chứng tốt nhất. Những tình huống cần báo ngay được tóm tắt trong phần [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/).
+Khi gặp sự cố giữa kỳ, như xe hỏng hoặc mất chìa, khách quốc tế nên báo theo đúng kênh đã chốt, mô tả kèm ảnh chụp. Thói quen báo sớm giúp chủ cửa hàng xử lý nhanh và cũng giữ cho bên khách phần bằng chứng tốt nhất. Những tình huống cần báo ngay được tóm tắt trong phần [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/).
 
-Chủ cửa hàng phục vụ khách quốc tế thường xuyên sẽ quen với các nhu cầu này: giải thích chậm, dùng bản dịch, chỉ dẫn bằng bản đồ. Trang [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) tổng hợp thông tin chung cho nhóm khách này, phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) mô tả quy trình chuẩn áp dụng cho mọi khách, còn cẩm nang [thuê xe máy](/blog/thue-xe/) là nơi bắt đầu nếu bạn mới tìm hiểu loại hình dịch vụ này ở Hà Nội.
+Chủ cửa hàng phục vụ khách quốc tế thường xuyên sẽ quen với các nhu cầu này: giải thích chậm, dùng bản dịch, chỉ dẫn bằng bản đồ. Trang [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) tổng hợp thông tin chung cho nhóm khách này, phần [thủ tục thuê xe](/thue-xe/thu-tuc/) mô tả quy trình chuẩn áp dụng cho mọi khách, còn cẩm nang [thuê xe máy](/thue-xe/) là nơi bắt đầu nếu bạn mới tìm hiểu loại hình dịch vụ này ở Hà Nội.
 
 ## Ba nguyên tắc cho khách quốc tế khi thuê xe
 

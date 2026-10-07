@@ -24,7 +24,7 @@ Tuyến quen thuộc của các gia đình là từ đầu đường Thanh Niên
 
 ## Đi chơi Hồ Tây cùng trẻ em cần mang theo gì
 
-Danh mục cơ bản gồm mũ bảo hiểm đúng cỡ cho bé, áo khoác mỏng chống nắng gió, nước lọc, khăn ướt và một ít đồ ăn nhẹ. Mũ của trẻ phải có quai cài cằm và kích cỡ khít đầu, vì mũ rộng sẽ tuột khi xe chạy, mũ chật sẽ khiến trẻ khó chịu và quấy. Vấn đề đội mũ cho trẻ nhỏ, kể cả trẻ dưới sáu tuổi, được phân tích kỹ trong bài về [đội mũ bảo hiểm cho trẻ em khi đi xe máy](/blog/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/), bạn nên đọc trước chuyến đi.
+Danh mục cơ bản gồm mũ bảo hiểm đúng cỡ cho bé, áo khoác mỏng chống nắng gió, nước lọc, khăn ướt và một ít đồ ăn nhẹ. Mũ của trẻ phải có quai cài cằm và kích cỡ khít đầu, vì mũ rộng sẽ tuột khi xe chạy, mũ chật sẽ khiến trẻ khó chịu và quấy. Vấn đề đội mũ cho trẻ nhỏ, kể cả trẻ dưới sáu tuổi, được phân tích kỹ trong bài về [đội mũ bảo hiểm cho trẻ em khi đi xe máy](/an-toan-phap-ly/2026/10/07/oi-mu-bao-hiem-cho-tre-em-duoi-sau-tuoi-khi-i-xe-may/), bạn nên đọc trước chuyến đi.
 
 Ngoài ra, hãy chuẩn bị túi chống nước mưa cho điện thoại, một lớp áo mưa bé kèm người lớn nếu trời có dấu hiệu mưa, và ít tiền lẻ cho phí gửi xe. Nếu bé chưa ngồi vững, nên chọn xe có bệ để chân sau cao hoặc đệm lót cứng, không để chân bé lọt gần pô nóng. Đồ chơi gọn nhẹ giúp trẻ ngồi ngoan trên quãng đường dài, nhưng không cho bé cầm vật nhỏ dễ rơi rớt khi xe đang chạy.
 
@@ -32,13 +32,13 @@ Ngoài ra, hãy chuẩn bị túi chống nước mưa cho điện thoại, mộ
 
 Với trẻ nhỏ, khung giờ đẹp và an toàn nhất là sáng sớm từ bảy giờ đến chín giờ, hoặc chiều muộn sau bốn giờ, khi nắng dịu và đường vắng. Tránh giờ tan học buổi chiều, khi các đoạn quanh Quảng Ba, Xuân La dày đặc xe, và tránh khung giữa trưa nắng gắt. Gió ven hồ chiều về khá mạnh, trẻ dễ lạnh nếu mặc mỏng, nên lớp áo khoác là bắt buộc chứ không phải tùy chọn. Trời mưa phùn hoặc sương mù dày, nên hoãn chuyến, vì áo mưa che mắt bé làm trẻ sợ và khó chịu, tầm nhìn của người lái cũng hạn chế hẳn.
 
-Tốc độ nên giữ ở mức thấp, chở bé ngồi giữa hai người lớn nếu có ba mẹ đi cùng, vì tư thế đó vững nhất. Không chở bé kèm thêm người thứ ba trên một xe máy, và không để bé ngồi trước tay lái. Cách chở người trên xe máy đúng quy định hiện hành được tóm tắt trong bài về [các quy định cho người ngồi trên xe máy](/blog/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), gồm cả nhóm tuổi và tư thế ngồi cho trẻ.
+Tốc độ nên giữ ở mức thấp, chở bé ngồi giữa hai người lớn nếu có ba mẹ đi cùng, vì tư thế đó vững nhất. Không chở bé kèm thêm người thứ ba trên một xe máy, và không để bé ngồi trước tay lái. Cách chở người trên xe máy đúng quy định hiện hành được tóm tắt trong bài về [các quy định cho người ngồi trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), gồm cả nhóm tuổi và tư thế ngồi cho trẻ.
 
 ## Gửi xe và điểm dừng chân quanh hồ
 
 Dọc tuyến có thể dừng nhiều điểm, mỗi nơi đều có bãi gửi xe hoặc chỗ để xe có người trông, mức phí giữ xe nên hỏi trước khi khóa xe. Đền Quán Thánh, chùa Trấn Quốc, công viên và các quán kem, quán nước ven đường đều hợp cho bé xuống chạy một vòng. Giá gửi xe ở các bãi quanh di tích thường niêm yết công khai, bạn cứ hỏi rõ lúc gửi để khỏi bất ngờ lúc lấy. Xuất phát từ Long Biên, bạn đi qua cầu Nhật Tân hoặc đường Âu Cơ sang Tây Hồ đều tiện, quãng đường khoảng hai mươi phút.
 
-Nghỉ mỗi khoảng ba mươi phút đi xe cho bé xuống đi lại, uống nước, tránh để trẻ ngủ gật trên xe vì tư thế đó không an toàn khi xe vào ổ gà. Kết thúc chuyến đi, nếu còn sớm, có thể ghé thêm một điểm chơi cho trẻ trong khu Quảng An, nơi tập trung nhiều sân chơi và quán ăn hợp gia đình. Tổng quan các gợi ý khác nằm ở chuyên mục [du lịch Hà Nội bằng xe máy](/blog/du-lich/).
+Nghỉ mỗi khoảng ba mươi phút đi xe cho bé xuống đi lại, uống nước, tránh để trẻ ngủ gật trên xe vì tư thế đó không an toàn khi xe vào ổ gà. Kết thúc chuyến đi, nếu còn sớm, có thể ghé thêm một điểm chơi cho trẻ trong khu Quảng An, nơi tập trung nhiều sân chơi và quán ăn hợp gia đình. Tổng quan các gợi ý khác nằm ở chuyên mục [du lịch Hà Nội bằng xe máy](/du-lich/).
 
 ## Thuê xe máy cho chuyến đi của gia đình
 

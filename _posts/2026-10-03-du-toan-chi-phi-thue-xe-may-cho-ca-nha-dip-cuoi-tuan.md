@@ -20,7 +20,7 @@ Bước đầu tiên là quyết định số xe. Gia đình bốn người vớ
 
 ## Chi phí thuê xe máy cả nhà cuối tuần gồm những khoản
 
-Khoản lớn nhất là giá thuê: số xe nhân số ngày, lấy theo giá ngày công khai. Cách đối chiếu nhanh nhất là xem [bảng giá cho thuê](/blog/bang-gia/) và [giá thuê theo ngày, tuần và tháng](/blog/thue-xe/gia-thue/), nơi ghi rõ cách tính từng loại. Nhiều gia đình chỉ thuê đúng hai ngày cuối tuần, nên cách tính theo ngày là chuẩn nhất; nếu định giữ qua thêm ngày thứ hai tuần sau, hỏi luôn cách tính theo tuần có lúc hợp hơn.
+Khoản lớn nhất là giá thuê: số xe nhân số ngày, lấy theo giá ngày công khai. Cách đối chiếu nhanh nhất là xem [bảng giá cho thuê](/bang-gia/) và [giá thuê theo ngày, tuần và tháng](/thue-xe/gia-thue/), nơi ghi rõ cách tính từng loại. Nhiều gia đình chỉ thuê đúng hai ngày cuối tuần, nên cách tính theo ngày là chuẩn nhất; nếu định giữ qua thêm ngày thứ hai tuần sau, hỏi luôn cách tính theo tuần có lúc hợp hơn.
 
 Khoản tiếp theo là xăng. Với các chuyến quanh Hà Nội như Hồ Tây, Hoàn Kiếm, Hà Đông hoặc ven sông Hồng, mỗi xe thường chỉ cần đổ một lần cho cả ngày. Nếu cả nhà đi các tuyến xa hơn như Ba Vì hoặc khu Sóc Sơn kiểu picnic, tính thêm một lần đổ nữa cho mỗi xe. Cách ước nhanh: nhân quãng đường hai chiều của cả nhóm với mức tiêu hao của dòng xe, cộng thêm một phần tư dự phòng.
 
@@ -40,4 +40,4 @@ Vài cách tiết kiệm đúng nghĩa, không phải cắt xén an toàn: chọ
 
 Một cách khác đáng cân nhắc: nếu cả nhà chỉ đi trong nội đô, xe máy điện cho phần người lớn và xe số nhỏ cho phần còn lại cũng là phương án gọn, vì chi phí xăng giảm hẳn và nhiều dòng cho thuê đều có ở Hà Nội. Khi tính theo cách này, nhớ hỏi trước về cách sạc hoặc đổi ắc quy giữa ngày, vì hai khoản đó quyết định liệu phương án rẻ hơn có thật sự tiện hay không.
 
-Cuối cùng, khi cả nhà cùng trả xe, nên cùng kiểm tra từng xe một với nhân viên tiệm: soi gương, cốp, mũ, và mức xăng. Ba mươi giây mỗi xe giúp mọi khoản cọc hoàn trọn vẹn, và bảng dự toán sáng đó khép lại đúng như nó bắt đầu: minh bạch từ dòng đầu tới dòng cuối. Ai cần ôn lại các bước đặt và trả xe có thể xem [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) và [mục thuê xe máy](/blog/thue-xe/), nơi tóm tắt trọn gọn quy trình cho cả nhà.
+Cuối cùng, khi cả nhà cùng trả xe, nên cùng kiểm tra từng xe một với nhân viên tiệm: soi gương, cốp, mũ, và mức xăng. Ba mươi giây mỗi xe giúp mọi khoản cọc hoàn trọn vẹn, và bảng dự toán sáng đó khép lại đúng như nó bắt đầu: minh bạch từ dòng đầu tới dòng cuối. Ai cần ôn lại các bước đặt và trả xe có thể xem [thuê xe theo ngày](/thue-xe/thue-ngay/) và [mục thuê xe máy](/thue-xe/), nơi tóm tắt trọn gọn quy trình cho cả nhà.

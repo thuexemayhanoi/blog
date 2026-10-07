@@ -33,7 +33,7 @@ Thêm một lớp nữa là điều kiện thời tiết. Mưa to, sương mù h
 
 ## Đoạn đường hay gặp camera và trạm đo tốc độ
 
-Thiết bị giám sát ngày càng phổ biến trên các tuyến chính: camera ghi hình, trạm cân và các điểm đo tốc độ cố định. Hành vi vượt tốc độ bị ghi lại sẽ trở thành quyết định xử phạt gửi về chủ xe, và toàn bộ quy trình tra cứu cũng như nộp phạt nằm trong bài về [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/).
+Thiết bị giám sát ngày càng phổ biến trên các tuyến chính: camera ghi hình, trạm cân và các điểm đo tốc độ cố định. Hành vi vượt tốc độ bị ghi lại sẽ trở thành quyết định xử phạt gửi về chủ xe, và toàn bộ quy trình tra cứu cũng như nộp phạt nằm trong bài về [phạt nguội](/an-toan-phap-ly/phat-nguoi/).
 
 Vị trí thường gặp trạm đo gồm: đầu cầu và hầm chui nơi xe hay bứt ga, đoạn thẳng dài giữa hai nút giao, và các tuyến vành đai có làn rộng. Đi qua những điểm này, hãy giữ nguyên quãng tốc đang chạy thay vì nhấp nhả ga, vì hành vi tăng giảm liên tục dễ khiến kim vọt lên đúng lúc bạn không để ý.
 
@@ -41,7 +41,7 @@ Vượt tốc trên xe máy thường xảy ra ở hai tình huống: đường 
 
 ## Khi nào bị xử phạt và mức phạt tính ra sao
 
-Hành vi vượt tốc độ được xếp theo mức vượt so với giới hạn, và mức xử phạt cho từng bậc được tính theo văn bản hiện hành. Phần khung phạt có thể thay đổi theo từng thời kỳ nên bài này không ghi con số cố định, và bạn có thể đọc thêm về các nhóm vi phạm trong bài về [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Hành vi vượt tốc độ được xếp theo mức vượt so với giới hạn, và mức xử phạt cho từng bậc được tính theo văn bản hiện hành. Phần khung phạt có thể thay đổi theo từng thời kỳ nên bài này không ghi con số cố định, và bạn có thể đọc thêm về các nhóm vi phạm trong bài về [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 Với người đi xe thuê, quyết định phạt gửi về chủ xe là cửa hàng, và phần trách nhiệm chuyển cho người thuê theo hợp đồng. Nghĩa là vượt tốc trong lúc thuê vẫn về tay bạn dù tên trên giấy đăng ký không phải bạn, nên giữ đúng tốc khi thuê là cách giữ phần chi trả của chính mình cho những khoản đáng tránh.
 
@@ -55,6 +55,6 @@ Một cách nữa là dùng nhịp đèn đỏ để đọc đường: đoạn n
 
 Người thuê xe máy thường chạy xe không quen: không rõ đường, không biết đoạn nào camera dày, và tay ga còn bỡ ngỡ. Ba việc giúp bạn tự bảo vệ mình: đặt sẵn quãng tốc hợp lý trong đầu theo từng loại đường, quan sát biển báo khu dân cư ngay khi chuyển từ đường trục sang phố nhỏ, và không đua theo dòng xe khi đường vắng.
 
-Một mẹo nhỏ cho xe lạ: đồng hồ của xe cho thuê đôi khi hiển thị lệch, nên hãy cảm nhận tốc qua tiếng máy và dòng xe cùng chiều trong vài phút đầu, rồi mới tin hoàn toàn vào kim đồng hồ. Phần chuẩn bị giấy tờ trước khi ra đường nằm trong bài về [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
+Một mẹo nhỏ cho xe lạ: đồng hồ của xe cho thuê đôi khi hiển thị lệch, nên hãy cảm nhận tốc qua tiếng máy và dòng xe cùng chiều trong vài phút đầu, rồi mới tin hoàn toàn vào kim đồng hồ. Phần chuẩn bị giấy tờ trước khi ra đường nằm trong bài về [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
 
-Tóm lại, quy định tốc độ xe máy chỉ cần nhớ hai khung, trong khu dân cư và ngoài khu dân cư, rồi để biển báo điều chỉnh từng đoạn. Kèm theo đó là việc đọc kỹ trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) để phần giấy tờ và xử phạt không còn là vùng mờ mỗi lần ra phố.
+Tóm lại, quy định tốc độ xe máy chỉ cần nhớ hai khung, trong khu dân cư và ngoài khu dân cư, rồi để biển báo điều chỉnh từng đoạn. Kèm theo đó là việc đọc kỹ trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) để phần giấy tờ và xử phạt không còn là vùng mờ mỗi lần ra phố.

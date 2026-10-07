@@ -45,7 +45,7 @@ Chủ nhật dậy sớm xem sương, ăn sáng, ghé chợ nhỏ mua nếp và 
 
 Mùa thu và đông nên xuất phát sớm hơn mùa hè, vì trời tối nhanh ở thung lũng sau giờ chiều và đoạn đèo không nên chạy khi tối.
 
-Cách xếp gọn hai ngày được nói kỹ trong bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
+Cách xếp gọn hai ngày được nói kỹ trong bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
 
 ## Chuẩn bị xe và đồ theo mùa
 
@@ -53,5 +53,5 @@ Xe cho chuyến Mai Châu cần kiểm tra trước ngày đi bất kể mùa: l
 
 Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674.
 
-Chi tiết cung đường từ Hà Nội lên bản được nói trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/blog/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/); các bài về lịch trình và điểm đến quanh vùng gom ở trang [Mai Châu](/blog/cung-duong/mai-chau/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Chi tiết cung đường từ Hà Nội lên bản được nói trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/); các bài về lịch trình và điểm đến quanh vùng gom ở trang [Mai Châu](/cung-duong/mai-chau/) và trang chủ đề [cung đường & hành trình](/cung-duong/).
 

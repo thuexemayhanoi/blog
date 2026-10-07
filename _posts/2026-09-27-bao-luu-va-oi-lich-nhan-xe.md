@@ -19,7 +19,7 @@ Kế hoạch đi Hà Nội của bạn thay đổi: chuyến bay dời giờ, c�
 
 Nguyên tắc đầu tiên của việc đổi lịch là thời gian. Cửa hàng giữ xe cho bạn dựa trên lịch đã hẹn, nghĩa là khung giờ đó không cho khách khác. Báo sớm khiến bên cho thuê sắp xếp lại được xe cho các đơn khác, và vì thế cũng dễ dàng thông cảm cho lịch mới của bạn. Ngược lại, báo sát giờ hẹn nhận khiến xe đã bị giữ suýt không dùng được, và cửa hàng có quyền tính phí giữ chỗ trong những trường hợp đã thỏa thuận trước.
 
-Mốc báo nên tính theo khoảng cách thời gian với giờ hẹn. Với kỳ thuê ngày thường, một ngày trước là hợp lý. Với mùa cao điểm, ví dụ dịp lễ quanh Hà Nội khi nhu cầu thuê tăng, nên báo sớm hơn nữa. Nếu bạn đã đặt trước qua điện thoại hoặc nhắn tin, phần giữ chỗ ban đầu được giải thích trong [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/), giúp bạn biết mình đang đổi từ vị trí nào.
+Mốc báo nên tính theo khoảng cách thời gian với giờ hẹn. Với kỳ thuê ngày thường, một ngày trước là hợp lý. Với mùa cao điểm, ví dụ dịp lễ quanh Hà Nội khi nhu cầu thuê tăng, nên báo sớm hơn nữa. Nếu bạn đã đặt trước qua điện thoại hoặc nhắn tin, phần giữ chỗ ban đầu được giải thích trong [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/), giúp bạn biết mình đang đổi từ vị trí nào.
 
 Một điểm nhỏ nhưng quan trọng: đổi lịch bằng văn bản nhắn tin luôn tốt hơn cuộc gọi suông, vì tin nhắn tự lưu lại thời điểm báo. Nếu buộc phải gọi, sau đó gửi một tin xác nhận lại nội dung đã trao đổi. Hỏi lại xem yêu cầu đổi lịch đã được ghi vào sổ của cửa hàng chưa, để không rơi vào khe giữa hai bên cùng nghĩ rằng bên kia đã xử.
 
@@ -55,6 +55,6 @@ Nếu lịch mới của bạn quá xa so với lịch cũ, một số cửa hà
 
 Lưu ý về giờ hoạt động quan trọng hơn bạn nghĩ: nếu lịch mới khiến bạn tới nhận xe ngoài khung giờ, sẽ không có ai giao xe, và đơn sẽ phải đổi lần nữa. Vì thế khi chốt lịch, tự tính ngược từ khung giờ đóng cửa, đặc biệt nếu bạn bay tới sân bay và dự định về thẳng cửa hàng.
 
-Khi mọi thứ đã rõ, việc còn lại là giữ tin nhắn chốt lịch và chuẩn bị đúng như một đơn thuê mới. Nếu cần đối chiếu các kênh liên lạc chính thức của bên cho thuê, trang [liên hệ](/blog/lien-he/) là điểm tra cứu chuẩn. Quy trình thuê đầy đủ, từ đặt tới nhận xe, được mô tả trong phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), và bối cảnh chung của việc thuê xe máy ở Hà Nội nằm trong cẩm nang [thuê xe máy](/blog/thue-xe/).
+Khi mọi thứ đã rõ, việc còn lại là giữ tin nhắn chốt lịch và chuẩn bị đúng như một đơn thuê mới. Nếu cần đối chiếu các kênh liên lạc chính thức của bên cho thuê, trang [liên hệ](/lien-he/) là điểm tra cứu chuẩn. Quy trình thuê đầy đủ, từ đặt tới nhận xe, được mô tả trong phần [thủ tục thuê xe](/thue-xe/thu-tuc/), và bối cảnh chung của việc thuê xe máy ở Hà Nội nằm trong cẩm nang [thuê xe máy](/thue-xe/).
 
 Đổi lịch làm đúng cách chỉ tốn vài phút nhắn tin, nhưng cứu được cả một chuyến đi đã lên kế hoạch kỹ càng.

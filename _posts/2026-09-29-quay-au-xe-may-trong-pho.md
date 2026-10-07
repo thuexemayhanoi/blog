@@ -45,6 +45,6 @@ Luyện ở đoạn sân hoặc hẻm vắng với ba tình huống: quay trong 
 
 Một bài luyện nâng cao là quay trong chỗ hẹp có chướng ngại hai bên như hai chiếc xe đỗ giả định: khách tập lái tới lui, đổ ba gọn trong không gian vừa đủ. Bài này khó hơn tình huống thật trên phố, nên khi ra đường, mọi lần quay đều nhẹ hơn so với lúc tập. Luyện xong chỗ vắng, khách tập vài lần quay thật trên đường quen vào giờ vắng, nơi dòng xe thưa và mình biết trước mọi ngõ rẽ, rồi mới áp dụng vào giờ đi lại đông.
 
-Quay đầu gọn ghẽ là một trong những dấu hiệu của tay lái phố: nhanh, đúng chỗ, và không làm phiền dòng xe quanh mình. Khách muốn luyện thêm các kỹ năng nền từ vào ga, phanh tới chuyển làn có thể theo từng bài trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) trước khi tập tình huống đường đông.
+Quay đầu gọn ghẽ là một trong những dấu hiệu của tay lái phố: nhanh, đúng chỗ, và không làm phiền dòng xe quanh mình. Khách muốn luyện thêm các kỹ năng nền từ vào ga, phanh tới chuyển làn có thể theo từng bài trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) trước khi tập tình huống đường đông.
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe số nhẹ cho người mới, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe số nhẹ cho người mới, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

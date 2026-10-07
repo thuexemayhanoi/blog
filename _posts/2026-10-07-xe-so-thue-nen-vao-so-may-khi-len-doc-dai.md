@@ -16,7 +16,7 @@ writer: W1
 
 Lần đầu chạy xe số trên chặng lên cao, nhiều khách đặt câu hỏi chung: xe số thuê vào số khi lên dốc nên chọn số mấy cho đúng. Câu trả lời ngắn gọn là tùy độ dốc và tải xe, nhưng nguyên tắc thì chỉ có một: giữ cho động cơ nằm ở dải vòng tua khỏe. Bài viết này quy trình hóa quyết định chọn số, để bạn lên dốc dài mà máy không đuối, phanh không nóng và bản thân không hoảng.
 
-Khác với xe tay ga, xe số cho bạn điều chỉnh trực tiếp tỉ số truyền động, nghĩa là cùng một đoạn dốc, máy khỏe hay đuối phụ thuộc vào tay bạn chọn số lúc nào. Đặt sai số không chỉ làm xe chậm, mà còn khiến hộp số làm việc nặng nhọc trong thời gian dài, vốn là điều không mong muốn với chiếc xe đang thuê. Vì vậy, kỹ năng chọn số khi lên dốc xe số là điều đáng rèn ngay từ những chuyến đầu; danh sách dòng xe số đang cho thuê xem tại [trang tổng quan xe máy](/blog/xe-may/).
+Khác với xe tay ga, xe số cho bạn điều chỉnh trực tiếp tỉ số truyền động, nghĩa là cùng một đoạn dốc, máy khỏe hay đuối phụ thuộc vào tay bạn chọn số lúc nào. Đặt sai số không chỉ làm xe chậm, mà còn khiến hộp số làm việc nặng nhọc trong thời gian dài, vốn là điều không mong muốn với chiếc xe đang thuê. Vì vậy, kỹ năng chọn số khi lên dốc xe số là điều đáng rèn ngay từ những chuyến đầu; danh sách dòng xe số đang cho thuê xem tại [trang tổng quan xe máy](/xe-may/).
 
 ## Nguyên tắc chọn số khi lên dốc xe số
 
@@ -42,7 +42,7 @@ Trường hợp buộc phải dừng giữa dốc, chẳng hạn đèn đỏ ở
 
 Khi chở người hoặc hàng nặng, hãy chủ động về số thấp hơn thói quen một bậc và tăng ga sớm trước khi bánh vào độ dốc. Đợi xe đuối mới về số thường khiến việc về số nặng, giật côn. Ngồi chúi nhẹ về phía trước giúp tay lái chắc hơn, còn người ngồi sau giữ yên tư thế để xe không bị đè lệch một bên.
 
-Nếu bạn thường xuyên chở nhiều đồ, dòng xe và kích thước cốp cũng đáng cân nhắc từ đầu; tham khảo [gợi ý chọn xe chở hành lý](/blog/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng phù hợp thay vì chịu đựng chặng dốc nặng nề với xe nhỏ.
+Nếu bạn thường xuyên chở nhiều đồ, dòng xe và kích thước cốp cũng đáng cân nhắc từ đầu; tham khảo [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn dòng phù hợp thay vì chịu đựng chặng dốc nặng nề với xe nhỏ.
 
 ## Câu hỏi thường gặp
 
@@ -54,4 +54,4 @@ Máy nóng khi lên dốc dài thì xử lý thế nào? Về đúng số nhẹ 
 
 Đi dốc dài ban đêm có khác gì không? Khác ở phần quan sát: phanh sớm hơn, giữ khoảng cách xa hơn và dùng đèn chi gần để tránh chói mắt xe ngược chiều.
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội cho thuê cả dòng xe số lẫn xe tay ga, mở cửa từ 09:00 đến 21:00. Bạn có thể gọi 0942 467 674 trước khi đến để hỏi dòng xe phù hợp chặng dốc mình sẽ đi. Tình trạng sẵn có của từng xe có thể thay đổi theo từng thời kỳ nên hãy xác nhận trước. Danh sách dòng xe cập nhật tại [trang tổng quan xe máy](/blog/xe-may/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội cho thuê cả dòng xe số lẫn xe tay ga, mở cửa từ 09:00 đến 21:00. Bạn có thể gọi 0942 467 674 trước khi đến để hỏi dòng xe phù hợp chặng dốc mình sẽ đi. Tình trạng sẵn có của từng xe có thể thay đổi theo từng thời kỳ nên hãy xác nhận trước. Danh sách dòng xe cập nhật tại [trang tổng quan xe máy](/xe-may/).

@@ -29,7 +29,7 @@ Về mặt kỹ thuật, bạn có thể đi xe 50cc tới hầu hết các tuy�
 
 ## Những giới hạn cần biết của xe 50cc
 
-Giới hạn đầu tiên là tốc độ và lực kéo: xe 50cc không dành cho đường trường, cao tốc, dốc dài hay chở hai người kèm hàng nặng. Giới hạn thứ hai là độ ổn định: xe nhỏ, bánh nhỏ, nên gặp gió to, đường ướt hay ổ gà, xe 50cc nhạy hơn các dòng xe lớn, đòi hỏi tay lái nhẹ nhàng. Giới hạn thứ ba liên quan giấy tờ và điều kiện điều khiển xe: dù dòng xe này khá đơn giản về mặt thủ tục, bạn vẫn nên đọc kỹ quy định hiện hành về độ tuổi và giấy phép lái xe cho dòng xe dưới 50cc trước khi thuê, vì quy định có thể thay đổi theo từng thời kỳ. Chi tiết về chủ đề này được trình bày trong phần [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/) của blog.
+Giới hạn đầu tiên là tốc độ và lực kéo: xe 50cc không dành cho đường trường, cao tốc, dốc dài hay chở hai người kèm hàng nặng. Giới hạn thứ hai là độ ổn định: xe nhỏ, bánh nhỏ, nên gặp gió to, đường ướt hay ổ gà, xe 50cc nhạy hơn các dòng xe lớn, đòi hỏi tay lái nhẹ nhàng. Giới hạn thứ ba liên quan giấy tờ và điều kiện điều khiển xe: dù dòng xe này khá đơn giản về mặt thủ tục, bạn vẫn nên đọc kỹ quy định hiện hành về độ tuổi và giấy phép lái xe cho dòng xe dưới 50cc trước khi thuê, vì quy định có thể thay đổi theo từng thời kỳ. Chi tiết về chủ đề này được trình bày trong phần [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) của blog.
 
 ## Kinh nghiệm thuê và đi xe 50cc ở Hà Nội
 
@@ -37,4 +37,4 @@ Khi nhận xe, kiểm tra phanh, đèn, còi và thử ga xem xe khởi động 
 
 ## Tóm lại
 
-Xe 50cc là dòng xe máy nhỏ gọn dưới năm mươi phân khối ga, hợp với hành trình ngắn, chậm rãi trong khu dân cư và nội đô, như đi chợ, đi làm gần, tham quan phố cổ. Vượt ra ngoài bán kính chục cây số, các giới hạn về tốc độ, độ ổn định và sức chở sẽ khiến chuyến đi mệt hơn đáng kể. Để tìm hiểu sâu hơn về dòng xe này, hãy xem chủ đề [xe 50cc](/blog/xe-may/xe-50cc/), hoặc tham khảo tổng quan các [dòng xe máy](/blog/xe-may/) để so sánh với xe ga, xe số trước khi đặt xe phù hợp hành trình của bạn.
+Xe 50cc là dòng xe máy nhỏ gọn dưới năm mươi phân khối ga, hợp với hành trình ngắn, chậm rãi trong khu dân cư và nội đô, như đi chợ, đi làm gần, tham quan phố cổ. Vượt ra ngoài bán kính chục cây số, các giới hạn về tốc độ, độ ổn định và sức chở sẽ khiến chuyến đi mệt hơn đáng kể. Để tìm hiểu sâu hơn về dòng xe này, hãy xem chủ đề [xe 50cc](/xe-may/xe-50cc/), hoặc tham khảo tổng quan các [dòng xe máy](/xe-may/) để so sánh với xe ga, xe số trước khi đặt xe phù hợp hành trình của bạn.

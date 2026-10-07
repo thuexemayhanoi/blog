@@ -16,7 +16,7 @@ writer: W1
 
 Vòng quanh Hồ Tây là cung đường chạy xe được nhiều người sống ở Hà Nội yêu nhất, và câu hỏi chạy vòng Hồ Tây sáng sớm dừng ở đâu đáng được trả lời kỹ, vì đẹp nhất của cung này không nằm ở chạy liên tục mà nằm ở các điểm dừng đúng chỗ: nơi mặt hồ mở ra, ánh sáng đầu ngày dọi lên mặt nước, và bạn có vài phút đứng lặng giữa phố chưa thức dậy. Bài này gợi ý các điểm dừng đẹp Hồ Tây theo quãng chạy, khung giờ trong trẻo, và chuẩn bị cho khách đi bằng xe máy thuê.
 
-Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/), gợi ý quanh khu vực phía tây thành phố trong phần [Hồ Tây và lân cận](/blog/du-lich/ho-tay/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/), gợi ý quanh khu vực phía tây thành phố trong phần [Hồ Tây và lân cận](/du-lich/ho-tay/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Điểm dừng đẹp Hồ Tây theo từng quãng chạy
 

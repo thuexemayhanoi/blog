@@ -40,7 +40,7 @@ Nếu thợ phải ra tận nơi hoặc xe phải đưa về: hỏi trước chi
 
 Phòng tránh cho lần sau: đeo chìa vào vòng đeo cổ tay hoặc móc khóa cứng, thói quen nhỏ xóa gần như toàn bộ rủi ro kẹt. Nhiều người còn treo chìa xe thuê chung chìa trọ — một móc, hết chuyện.
 
-Các tình huống sự cố khác khi thuê xe gom trong [sự cố khi thuê xe](/blog/thue-xe/su-co/); quy trình kiểm xe và cốp lúc nhận nằm trong [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/); phần cọc và điều kiện trừ trong [đặt cọc](/blog/thue-xe/dat-coc/); tổng quan quy trình ở trang chủ [thuê xe](/blog/thue-xe/); thắc mắc nhỏ thường gặp tại [hỏi đáp](/blog/hoi-dap/).
+Các tình huống sự cố khác khi thuê xe gom trong [sự cố khi thuê xe](/thue-xe/su-co/); quy trình kiểm xe và cốp lúc nhận nằm trong [nhận xe và trả xe](/thue-xe/nhan-tra-xe/); phần cọc và điều kiện trừ trong [đặt cọc](/thue-xe/dat-coc/); tổng quan quy trình ở trang chủ [thuê xe](/thue-xe/); thắc mắc nhỏ thường gặp tại [hỏi đáp](/hoi-dap/).
 
 
 ### Ghi lại hiện trường thay vì mô tả theo trí nhớ

@@ -16,7 +16,7 @@ writer: W1
 
 Mùa mưa đổi tính chất của mọi cung phía Bắc, và câu hỏi phố Bắc chạy xe máy ngày mưa có đáng đi không không có đáp số chung, vì phố Bắc ngày mưa cho hai thứ trái chiều trong cùng một chuyến: chất liệu cảnh đẹp hiếm và rủi ro đường ướt thật. Bài này giúp bạn cân bằng hai vế đó theo kiểu đi của mình: khi nào đáng, khi nào nên hoãn, và nếu đi thì cần chuẩn bị gì để buổi mưa thành kỷ niệm thay vì sự cố.
 
-Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/blog/cung-duong/), các cung qua các tỉnh phía Bắc trong phần [cung đường các tỉnh phía Bắc](/blog/cung-duong/cung-duong-pho-bac/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/cung-duong/), các cung qua các tỉnh phía Bắc trong phần [cung đường các tỉnh phía Bắc](/cung-duong/cung-duong-pho-bac/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Chất liệu của phố Bắc ngày mưa
 

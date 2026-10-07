@@ -37,11 +37,11 @@ Mùa hội vào tháng giêng âm lịch, khu đền đông đặc biệt, các 
 
 ## Chuẩn bị xe và đồ cho chuyến đi lễ
 
-Kiểm tra xe vẫn là ba thứ quen thuộc: lốp, phanh, đèn. Đường lên đền không dốc dài nhưng các đoạn quanh khu đền dốc nhẹ ngắn, phanh ăn quan trọng khi lùi xe ở bãi đỗ đông. Người đi bằng xe máy thuê nên nói rõ với cửa hàng chuyến đi Sóc Sơn trong ngày; phần chọn loại xe cho từng loại cung đường được tách trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), và thông tin dịch vụ chung nằm ở trang [cho thuê xe máy](/blog/thue-xe/).
+Kiểm tra xe vẫn là ba thứ quen thuộc: lốp, phanh, đèn. Đường lên đền không dốc dài nhưng các đoạn quanh khu đền dốc nhẹ ngắn, phanh ăn quan trọng khi lùi xe ở bãi đỗ đông. Người đi bằng xe máy thuê nên nói rõ với cửa hàng chuyến đi Sóc Sơn trong ngày; phần chọn loại xe cho từng loại cung đường được tách trong bài [chọn loại xe](/xe-may/chon-loai-xe/), và thông tin dịch vụ chung nằm ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ mang theo nên gọn: mũ bảo hiểm đầy đủ cho mọi người, ít tiền lẻ cho chỗ trông xe, áo gió mỏng, và đồ lễ nếu bạn đi lễ. Quần áo gọn gàng là điều nên chuẩn bị trước, vì khu đền là không gian tâm linh, trang phục lịch sự giúp bạn thoải mái trong mọi khuôn khổ. Cách gói đồ trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/).
+Đồ mang theo nên gọn: mũ bảo hiểm đầy đủ cho mọi người, ít tiền lẻ cho chỗ trông xe, áo gió mỏng, và đồ lễ nếu bạn đi lễ. Quần áo gọn gàng là điều nên chuẩn bị trước, vì khu đền là không gian tâm linh, trang phục lịch sự giúp bạn thoải mái trong mọi khuôn khổ. Cách gói đồ trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/).
 
-Giấy tờ mang đủ bản gốc: giấy phép lái xe và đăng ký xe. Trục quốc lộ ba và đường sân bay có các chốt kiểm tra định kỳ, và bạn cũng cần giấy tờ khi gửi xe ở các bãi quanh đền. Nhóm quy định khi chạy đường trường nằm trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), nên lướt trước khi lên đường.
+Giấy tờ mang đủ bản gốc: giấy phép lái xe và đăng ký xe. Trục quốc lộ ba và đường sân bay có các chốt kiểm tra định kỳ, và bạn cũng cần giấy tờ khi gửi xe ở các bãi quanh đền. Nhóm quy định khi chạy đường trường nằm trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), nên lướt trước khi lên đường.
 
 ## Những đoạn cần chậm lại
 
@@ -55,6 +55,6 @@ Nếu bạn định leo lên phần đền phía trên triền núi, giày bệt
 
 Một buổi sáng tại đền kết hợp ăn trưa quanh khu vực Sóc Sơn là lịch phổ biến nhất: lên đền sớm, dạo quanh cổng, rồi về trước trưa nắng. Ai muốn đi dài hơn có thể ghép thăm các điểm xanh quanh huyện rồi về bằng trục khác, nhưng với đa số người, một buổi trọn vẹn đã đủ.
 
-Khu vực quanh đền có bán đồ ăn nhẹ và đồ lễ, ngày thường giản dị hơn cuối tuần. Bạn nên hỏi giá trước khi mua, mang theo nước vì hàng quán thưa dần khi đi lên các tầng cao. Nếu ghép chuyến này vào chuỗi các cung phía bắc, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép điểm theo lịch, và các vòng [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) hợp để khởi động tay lái trước khi ra ngoại thành.
+Khu vực quanh đền có bán đồ ăn nhẹ và đồ lễ, ngày thường giản dị hơn cuối tuần. Bạn nên hỏi giá trước khi mua, mang theo nước vì hàng quán thưa dần khi đi lên các tầng cao. Nếu ghép chuyến này vào chuỗi các cung phía bắc, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép điểm theo lịch, và các vòng [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) hợp để khởi động tay lái trước khi ra ngoại thành.
 
 Cung đường Hà Nội đi Đền Sóc bằng xe máy ngắn, dễ chạy, và có chiều sâu văn hóa hiếm cung nào gần thủ đô có được. Đi một lần ngày thường để hiểu vì sao mùa hội nơi này lại hút đông người tới thế.

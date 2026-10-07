@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe rồi ở nhờ chung cư người thân hoặc đặt homestay, câu hỏi thực tế đầu tiên thường là chỗ đỗ: gửi xe máy thuê ở chung cư có cần báo chủ xe không, và có cần làm gì với ban quản lý hay bảo vệ tòa nhà. Câu trả lời ngắn là nên báo chủ xe một lời ngắn gọn, còn với bên chung cư thì tùy quy định gửi xe của từng tòa. Bài này nói rõ hai lớp thủ tục đó, kèm cách để xe thuê qua đêm chung cư cho an toàn.
 
-Tổng quan nhóm gửi xe và giữ xe nằm ở trang [kỹ năng và tình huống](/blog/ky-nang/), các bước nhận và trả xe máy nằm ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/), còn thủ tục thuê chung ở trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Tổng quan nhóm gửi xe và giữ xe nằm ở trang [kỹ năng và tình huống](/ky-nang/), các bước nhận và trả xe máy nằm ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/), còn thủ tục thuê chung ở trang [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Báo chủ xe một lời ngắn: vì nên và nên nói gì
 

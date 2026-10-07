@@ -21,7 +21,7 @@ Với khách là công dân Việt Nam, giấy tờ dùng để ký hợp đồn
 
 Trường hợp duy nhất khách nội địa nên mang hộ chiếu là khi căn cước đang trong quá trình đổi, làm lại hoặc bạn muốn dùng giấy tờ khác cho gọn. Khi đó nên hỏi trước cửa hàng có nhận giấy tờ thay thế nào không, vì mỗi cửa hàng tự đặt yêu cầu giấy tờ riêng trong hợp đồng của mình. Cách chắc chắn nhất vẫn là gọi trước và đọc tên giấy tờ mình có, để khỏi phải đi về giữa chừng.
 
-Trình tự đầy đủ từ liên hệ, đặt xe đến ký hợp đồng nằm trong bài về [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), còn nhóm câu hỏi thường gặp khác được gom tại trang [hỏi đáp thuê xe máy](/blog/hoi-dap/).
+Trình tự đầy đủ từ liên hệ, đặt xe đến ký hợp đồng nằm trong bài về [thủ tục thuê xe](/thue-xe/thu-tuc/), còn nhóm câu hỏi thường gặp khác được gom tại trang [hỏi đáp thuê xe máy](/hoi-dap/).
 
 ## Khách quốc tế: hộ chiếu gần như bắt buộc
 
@@ -39,7 +39,7 @@ Yêu cầu giấy tờ khi thuê xe không phải thủ tục hình thức. Xe m
 
 Ba câu đáng hỏi nhất qua điện thoại: cửa hàng yêu cầu loại giấy tờ nào cho nhóm khách như tôi; khoản bảo đảm áp dụng cho dòng xe tôi định thuê là bao nhiêu và hoàn trả ra sao; hợp đồng có yêu cầu giữ lại giấy tờ gốc trong thời gian thuê không. Câu thứ ba quan trọng hơn nhiều người nghĩ, vì cách làm phổ biến là ghi thông tin giấy tờ vào hợp đồng và trả lại ngay, nhưng mỗi cửa hàng có cách riêng, và bạn cần biết trước để không bất ngờ khi đứng ở quầy.
 
-Nên gọi trong giờ hoạt động 09:00 đến 21:00 để được trả lời trực tiếp. Cửa hàng đặt tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội nhận câu hỏi về giấy tờ qua điện thoại trước cả khi bạn quyết định thuê, nên cứ hỏi rõ rồi hẹn lịch nhận xe. Khách nào lần đầu thuê xe và chưa quen các câu hỏi cần đặt, xem thêm phần hỏi đáp dành cho [người mới thuê xe](/blog/hoi-dap/hoi-dap-nguoi-moi/) để chuẩn bị trọn bộ câu hỏi trước khi gọi.
+Nên gọi trong giờ hoạt động 09:00 đến 21:00 để được trả lời trực tiếp. Cửa hàng đặt tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội nhận câu hỏi về giấy tờ qua điện thoại trước cả khi bạn quyết định thuê, nên cứ hỏi rõ rồi hẹn lịch nhận xe. Khách nào lần đầu thuê xe và chưa quen các câu hỏi cần đặt, xem thêm phần hỏi đáp dành cho [người mới thuê xe](/hoi-dap/hoi-dap-nguoi-moi/) để chuẩn bị trọn bộ câu hỏi trước khi gọi.
 
 ## Tóm lại
 

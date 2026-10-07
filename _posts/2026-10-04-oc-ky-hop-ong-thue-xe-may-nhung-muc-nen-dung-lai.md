@@ -52,6 +52,6 @@ Cách hỏi nhanh nhất là đọc to phần chưa rõ lên và hỏi thẳng c
 
 Xong xuôi, chụp lại toàn bộ hợp đồng, hoặc xin một bản ảnh. Bản ảnh sống trong điện thoại nên sống sót đến khi xe đã trả và cọc đã về đủ. Khi mọi thứ suôn sẻ, hợp đồng chỉ là một tấm ảnh cũ trong máy; khi có khúc mắc, nó là thứ duy nhất hai bên cùng thừa nhận là điểm xuất phát.
 
-Trước ngày nhận xe, bạn có thể đọc lại phần chuẩn bị giấy tờ và các bước đi qua quầy trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), phần việc cần làm lúc nhận và lúc trả gom trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm thực chiến của người đi trước rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Trước ngày nhận xe, bạn có thể đọc lại phần chuẩn bị giấy tờ và các bước đi qua quầy trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), phần việc cần làm lúc nhận và lúc trả gom trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm thực chiến của người đi trước rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, hợp đồng thuê xe không cần đọc như văn bản luật, chỉ cần dừng lại đủ lâu ở bốn chỗ: mô tả xe, thời hạn, cọc và trách nhiệm. Mỗi chỗ viết rõ thêm một dòng là lúc trả xe bớt đi một cơ hội cho hiểu lầm, và chuyến đi quanh Hà Nội giữ trọn phần vui vốn có của nó.

@@ -21,7 +21,7 @@ Câu hỏi đầu tiên của người lần đầu thuê xe luôn là cần gì
 
 Bộ hồ sơ cần mang gồm hai loại chính. Thứ nhất là giấy tờ tùy thân: căn cước công dân còn hiệu lực, hoặc hộ chiếu nếu bạn là khách quốc tế. Thứ hai là giấy phép lái xe phù hợp với loại xe định thuê: hạng A1 cho xe số và xe ga dưới 175cc. Giấy phép lái điện tử trên ứng dụng cũng được dùng như bản gốc khi có kiểm tra. Cửa hàng cần bản gốc hoặc bản photo kèm bản gốc để đối chiếu, tùy quy định từng nơi.
 
-Ngoài hai loại trên, một số nơi có thể yêu cầu thêm giấy tờ xác nhận nơi ở hoặc liên hệ khẩn cấp. Danh sách không cố định cho tất cả khách, mà tùy nhóm xe và thời gian thuê: thuê ngắn ngày thường chỉ cần hai loại chính, thuê dài hạn có thể cần bổ sung. Hỏi trước qua điện thoại luôn nhanh hơn mang thừa hồ sơ đi đường xa. Danh sách đầy đủ theo từng nhóm xe đã được xếp trong chuyên mục [giấy tờ pháp lý](/blog/an-toan-phap-ly/giay-to/), còn trình tự thuê từ A-Z nằm tại trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/). Bạn nên đọc cả hai để vừa đủ hồ sơ vừa đúng các bước.
+Ngoài hai loại trên, một số nơi có thể yêu cầu thêm giấy tờ xác nhận nơi ở hoặc liên hệ khẩn cấp. Danh sách không cố định cho tất cả khách, mà tùy nhóm xe và thời gian thuê: thuê ngắn ngày thường chỉ cần hai loại chính, thuê dài hạn có thể cần bổ sung. Hỏi trước qua điện thoại luôn nhanh hơn mang thừa hồ sơ đi đường xa. Danh sách đầy đủ theo từng nhóm xe đã được xếp trong chuyên mục [giấy tờ pháp lý](/an-toan-phap-ly/giay-to/), còn trình tự thuê từ A-Z nằm tại trang [thủ tục thuê xe](/thue-xe/thu-tuc/). Bạn nên đọc cả hai để vừa đủ hồ sơ vừa đúng các bước.
 
 ## CCCD thuê xe: bản gốc hay bản photo
 
@@ -39,12 +39,12 @@ Với xe 50cc phục vụ người chưa có GPLX, quy định về độ tuổi
 
 Trong thời gian giữ xe, giấy tờ của bạn thường được cửa hàng giữ lại một bản để làm căn cứ hợp đồng. Hỏi rõ tờ nào được giữ và nhận lại giấy tờ ngay khi trả xe. Nếu công việc của bạn cần dùng CCCD thường xuyên, hãy chọn hình thức đặt cọc bằng tiền thay vì đặt bằng giấy tờ, rồi chốt lại bằng văn bản với cửa hàng. Với GPLX, bạn luôn mang theo người khi lưu thông, vì đây là loại giấy tờ bắt buộc khi lưu thông trên đường.
 
-Bên cạnh giấy tờ, hãy lưu số điện thoại của cửa hàng vào máy. Khi xe có sự cố giữa đường, cách xử lý nhanh nhất vẫn là gọi trực tiếp để được hướng dẫn, thay vì tự tìm thợ sửa rồi phát sinh tranh luận về chi phí. Các tình huống thường gặp như hết xăng, hết pin hoặc lốp non đã được mô tả trong bài về [xử lý sự cố khi thuê xe](/blog/thue-xe/su-co/) nếu bạn muốn đọc trước cho yên tâm.
+Bên cạnh giấy tờ, hãy lưu số điện thoại của cửa hàng vào máy. Khi xe có sự cố giữa đường, cách xử lý nhanh nhất vẫn là gọi trực tiếp để được hướng dẫn, thay vì tự tìm thợ sửa rồi phát sinh tranh luận về chi phí. Các tình huống thường gặp như hết xăng, hết pin hoặc lốp non đã được mô tả trong bài về [xử lý sự cố khi thuê xe](/thue-xe/su-co/) nếu bạn muốn đọc trước cho yên tâm.
 
 ## Chuẩn bị hồ sơ nhanh trong năm phút
 
 Trước khi ra khỏi nhà, rà lại bốn mục: CCCD còn hiệu lực, GPLX đúng hạng xe, điện thoại đầy pin để liên hệ, và túi đựng giấy tờ chống ướt nếu trời mưa. Người hay quên nên chụp ảnh lưu hai mặt giấy tờ vào điện thoại để đối chiếu nhanh. Nếu hồ sơ có gì thiếu, hãy gọi trước thay vì đến rồi mới quay về.
 
-Khi đến nhận xe, xuất trình giấy tờ, ký xác nhận hiện trạng xe và giữ lại bản sao biên bản nếu có. Khi trả xe, mang đúng giấy tờ đã đặt để nhận lại. Như vậy vòng đời hồ sơ khép kín, và từ lần thứ hai trở đi bạn đã thuộc lòng cần gì khi thuê xe máy. Nếu muốn đọc thêm các nội dung liên quan, trang [thủ tục thuê xe máy Hà Nội](/blog/thue-xe/thu-tuc/) có nhiều bài viết tình huống cho từng nhóm khách.
+Khi đến nhận xe, xuất trình giấy tờ, ký xác nhận hiện trạng xe và giữ lại bản sao biên bản nếu có. Khi trả xe, mang đúng giấy tờ đã đặt để nhận lại. Như vậy vòng đời hồ sơ khép kín, và từ lần thứ hai trở đi bạn đã thuộc lòng cần gì khi thuê xe máy. Nếu muốn đọc thêm các nội dung liên quan, trang [thủ tục thuê xe máy Hà Nội](/thue-xe/thu-tuc/) có nhiều bài viết tình huống cho từng nhóm khách.
 
 Một lưu ý cuối: giấy tờ là thứ duy nhất không thể mua dọc đường, nên hãy kiểm tra lại lần nữa trước khi khóa cửa ra đi. Mất vài phút rà hồ sơ lúc nhà luôn rẻ hơn nhiều so với việc quay về giữa chuyến đi.

@@ -16,7 +16,7 @@ writer: W1
 
 Tự tin không phải là cảm giác vui vẻ khi ngồi lên yên, mà là trạng thái bạn xử lý được tình huống mà không phải nghĩ nhiều. Câu hỏi người mới tự tin chạy xe máy khi nào là đủ vì vậy có đáp án khá rõ: khi các thao tác nền đã thành phản xạ và khi bạn đã gặp đủ loại tình huống phố mà không hoảng. Bài này giúp bạn tự kiểm tra bằng dấu hiệu tay lái đã chắc, và gợi ý lộ trình tự luyện quanh Hà Nội từ vắng tới đông, để chữ tự tin của bạn xây trên việc thật chứ không phải cảm giác.
 
-Tổng quan nhóm hỏi đáp cho người mới nằm ở trang [hỏi đáp](/blog/hoi-dap/), kỹ năng lái nền nằm trong phần [kỹ năng lái cơ bản](/blog/ky-nang/), còn các bước nhận xe máy thuê lần đầu ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/).
+Tổng quan nhóm hỏi đáp cho người mới nằm ở trang [hỏi đáp](/hoi-dap/), kỹ năng lái nền nằm trong phần [kỹ năng lái cơ bản](/ky-nang/), còn các bước nhận xe máy thuê lần đầu ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/).
 
 ## Bốn nhóm phản xạ phải thành bản năng
 

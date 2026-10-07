@@ -24,7 +24,7 @@ Khi có sự kiện lớn ở khu Trung tâm Hội nghị Quốc gia, khu này c
 
 Bốn việc nhanh dưới một phút này cứu khách rất nhiều khi lấy xe: chốt cổng, khóa từ, kéo dây cốp; chụp vị trí xe kèm biển số và dòng bãi đang đứng; tháo toàn bộ tư trang giá trị mang theo người; và giữ phiếu gửi cẩn thận. Cuối tuần bãi dày xe, các hàng xe cùng màu cùng loại dễ nhìn nhầm, tấm ảnh chụp lúc đỗ giúp khách đi thẳng tới đúng chỗ thay vì dạo vòng giữa hàng trăm chiếc.
 
-Khách thuê xe nên thêm một thói quen trước khi rời xe: kiểm tra đèn, còi, phanh và mức xăng ngay từ đầu buổi, để không phát hiện thiếu giữa đường về. Nếu trời nắng gắt và bãi cho phép, khách che yên hoặc chọn ô bóng râm, yên nóng gây bỏng rát khi lên xe giữa trưa. Chi tiết thói quen giữ xe và hành lý được kể kỹ trong trang [chỗ đổ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), khách mới chạy nội đô đọc thêm bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
+Khách thuê xe nên thêm một thói quen trước khi rời xe: kiểm tra đèn, còi, phanh và mức xăng ngay từ đầu buổi, để không phát hiện thiếu giữa đường về. Nếu trời nắng gắt và bãi cho phép, khách che yên hoặc chọn ô bóng râm, yên nóng gây bỏng rát khi lên xe giữa trưa. Chi tiết thói quen giữ xe và hành lý được kể kỹ trong trang [chỗ đổ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/), khách mới chạy nội đô đọc thêm bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
 
 ## Bảo tàng Hà Nội đi xe máy: tính khung giờ quanh chuyện giữ xe
 
@@ -34,9 +34,9 @@ Ngày trong tuần vắng hơn, hợp khách muốn đọc kỹ phần trưng b�
 
 ## Ghép lịch quanh khu Mễ Trì sau khi lấy xe
 
-Sau buổi tham quan, khách lấy xe từ bãi và có thể ghép ngay các cụm gần: ăn trưa quanh khu Mễ Trì, chạy về cụm Hồ Gươm cho khung chiều, hoặc sang khu Ba Đình thăm các di tích. Khách nên rời bảo tàng trước mép tan tầm để khỏi kẹt dòng trên trục về nội đô, và khi lấy xe kiểm tra lại phiếu gửi trước khi nổ máy. Danh sách điểm theo khu vực nằm tại trang [điểm đến](/blog/du-lich/diem-den/), còn tổng quan các bảo tàng quanh thành phố đối chiếu tại trang [bảo tàng](/blog/du-lich/bao-tang/) để khách ghép thêm điểm lịch sử khác trong cùng ngày.
+Sau buổi tham quan, khách lấy xe từ bãi và có thể ghép ngay các cụm gần: ăn trưa quanh khu Mễ Trì, chạy về cụm Hồ Gươm cho khung chiều, hoặc sang khu Ba Đình thăm các di tích. Khách nên rời bảo tàng trước mép tan tầm để khỏi kẹt dòng trên trục về nội đô, và khi lấy xe kiểm tra lại phiếu gửi trước khi nổ máy. Danh sách điểm theo khu vực nằm tại trang [điểm đến](/du-lich/diem-den/), còn tổng quan các bảo tàng quanh thành phố đối chiếu tại trang [bảo tàng](/du-lich/bao-tang/) để khách ghép thêm điểm lịch sử khác trong cùng ngày.
 
-Khách muốn dẫn mạch nhiều ngày có thể theo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), và tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách muốn dẫn mạch nhiều ngày có thể theo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), và tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về phần giữ xe khi đi bảo tàng bằng xe máy
 

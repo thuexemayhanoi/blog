@@ -43,4 +43,4 @@ Về thời lượng, mỗi buổi tập mươi lăm đến hai mươi phút là
 
 ## Tóm lại
 
-Xe 50cc là dòng xe hợp lý để người chưa từng lái làm quen với xe máy: nhẹ, chậm, dễ kiểm soát, và đủ phục vụ các chuyến đi ngắn trong khu dân cư. Nếu bạn chuẩn bị học lái, hãy xem thêm phần [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để nắm các thao tác nền tảng, tìm hiểu thêm về dòng xe này trong chủ đề [xe 50cc](/blog/xe-may/xe-50cc/), hoặc tham khảo tổng quan các [dòng xe máy](/blog/xe-may/) để biết khi nào nên chuyển sang xe ga hoặc xe số sau khi đã vững tay.
+Xe 50cc là dòng xe hợp lý để người chưa từng lái làm quen với xe máy: nhẹ, chậm, dễ kiểm soát, và đủ phục vụ các chuyến đi ngắn trong khu dân cư. Nếu bạn chuẩn bị học lái, hãy xem thêm phần [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để nắm các thao tác nền tảng, tìm hiểu thêm về dòng xe này trong chủ đề [xe 50cc](/xe-may/xe-50cc/), hoặc tham khảo tổng quan các [dòng xe máy](/xe-may/) để biết khi nào nên chuyển sang xe ga hoặc xe số sau khi đã vững tay.

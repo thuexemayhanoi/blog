@@ -42,4 +42,4 @@ Pin báo thấp trên đường đê dài có ba mức: mức đèn vàng nhắc
 
 Còn một tình huống dễ bỏ quên: mưa làm đoạn đê ngập cục bộ hoặc sạt lề, buộc vòng vào đường dưới dài hơn dự kiến. Khi nhìn thấy mây dông kéo về phía đầu chặng, nên tính lại cự ly theo phương án vòng, và nếu số nhấp máy không còn đủ phần dự phòng đó thì đổi lộ trình ngay từ đầu chặng thay vì để giữa đường mới quyết định. Tính trước cho đường vòng cũng chỉ là cộng thêm hai ba cây số, rẻ hơn nhiều so với một lần dằn xe bộ giữa đê.
 
-Ai muốn hiểu thêm về dòng xe điện cho các chuyến ven đô có thể đọc [xe máy điện](/blog/xe-may/xe-dien/), kinh nghiệm đi dưới mưa và đường xấu nằm trong [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), và các dòng xe cho thuê hiện có nằm ở [mục xe máy](/blog/xe-may/).
+Ai muốn hiểu thêm về dòng xe điện cho các chuyến ven đô có thể đọc [xe máy điện](/xe-may/xe-dien/), kinh nghiệm đi dưới mưa và đường xấu nằm trong [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), và các dòng xe cho thuê hiện có nằm ở [mục xe máy](/xe-may/).

@@ -46,6 +46,6 @@ Với xe thuê, việc của người thuê là phát hiện bất thường, kh
 
 Không tự xả và thay nhớt của xe thuê, kể cả khi bạn làm quen thuộc trên xe riêng, vì loại nhớt, lượng đổ và cách xả từng mẫu xe khác nhau, và người cho thuê cần biết lịch sử chăm sóc xe của mình. Một tin nhắn mô tả đúng dấu hiệu thường giúp người cho thuê xử lý nhanh hơn việc bạn mang xe đi thay nhớt ở nơi khác.
 
-Bạn có thể xem lịch chăm sóc theo từng kỳ trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), đặc điểm các dòng xe trong trang [xe máy](/blog/xe-may/), nhóm bài dành cho [xe số](/blog/xe-may/xe-so/) và [xe ga](/blog/xe-may/xe-ga/), cùng các tình huống chạy phố thật trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem lịch chăm sóc theo từng kỳ trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/), đặc điểm các dòng xe trong trang [xe máy](/xe-may/), nhóm bài dành cho [xe số](/xe-may/xe-so/) và [xe ga](/xe-may/xe-ga/), cùng các tình huống chạy phố thật trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, kiểm tra nhớt xe ga và xe số khác nhau ở chỗ xe ga có hai cụm nhớt riêng và cần xe đứng phẳng khi thăm, còn xe số chỉ một két nhớt chung và thăm với chân chống giữa. Thăm đều, đọc vạch đúng và giao phần thay nhớt cho người có dụng cụ là cách giữ động cơ khỏe mà không tốn công. Với xe thuê, ghi dấu hiệu và báo người cho thuê luôn là lựa chọn an toàn.

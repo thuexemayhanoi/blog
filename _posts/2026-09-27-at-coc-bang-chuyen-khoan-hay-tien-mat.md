@@ -15,7 +15,7 @@ article_id: BLG-00531
 
 Khi thuê xe máy ở Hà Nội, hình thức đặt cọc thuê xe nào cũng đều hướng tới cùng một mục tiêu: bảo đảm cho bên cho thuê và giữ quyền lợi cho bên thuê. Về cơ bản, bạn có hai lựa chọn phổ biến là chuyển khoản qua ngân hàng hoặc giao tiền mặt tại cửa hàng. Không có hình thức nào tuyệt đối hơn, mỗi cách phù hợp với từng hoàn cảnh, và điều quan trọng hơn cả hình thức là việc ghi lại đầy đủ thông tin khi nhận lại tiền.
 
-Bài này so sánh hai hình thức đặt cọc thường gặp, chỉ ra ưu điểm và điểm cần lưu ý của từng cách, đồng thời gợi ý cách chọn phù hợp với tình huống của bạn. Nếu bạn mới tìm hiểu về bản chất của khoản cọc này, hãy đọc trước tổng quan về [đặt cọc khi thuê xe máy](/blog/thue-xe/dat-coc/) trong chuyên mục [thuê xe máy Hà Nội](/blog/thue-xe/).
+Bài này so sánh hai hình thức đặt cọc thường gặp, chỉ ra ưu điểm và điểm cần lưu ý của từng cách, đồng thời gợi ý cách chọn phù hợp với tình huống của bạn. Nếu bạn mới tìm hiểu về bản chất của khoản cọc này, hãy đọc trước tổng quan về [đặt cọc khi thuê xe máy](/thue-xe/dat-coc/) trong chuyên mục [thuê xe máy Hà Nội](/thue-xe/).
 
 ## Ưu điểm của đặt cọc bằng chuyển khoản
 
@@ -24,7 +24,7 @@ Chuyển khoản là hình thức được nhiều người trẻ và khách thu
 Chuyển khoản cũng giúp bạn đặt xe từ trước mà không cần di chuyển. Bạn có thể đang ở quận khác hoặc mới sắp xếp lên Hà Nội mà vẫn giữ được xe vì đã chuyển cọc trước. Với người thuê ngắn hạn chỉ cần xe trong một hai ngày, việc không phải mang theo tiền mặt cũng nhẹ nhàng hơn, tránh được rủi ro để quên ví hoặc mất trộm trên đường đi
 .
 
-Một điểm cộng nữa là tính trực quan: sao kê ngân hàng nói lên đúng khoản tiền đã giao, không có chuyện nhầm lẫn giữa các mệnh giá giấy bạc khi đếm tại quầy. Với những bạn lần đầu thuê xe và chưa quen các [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), chứng từ ngân hàng là điểm tựa tâm lý rất ổn.
+Một điểm cộng nữa là tính trực quan: sao kê ngân hàng nói lên đúng khoản tiền đã giao, không có chuyện nhầm lẫn giữa các mệnh giá giấy bạc khi đếm tại quầy. Với những bạn lần đầu thuê xe và chưa quen các [thủ tục thuê xe](/thue-xe/thu-tuc/), chứng từ ngân hàng là điểm tựa tâm lý rất ổn.
 
 ## Ưu điểm của đặt cọc bằng tiền mặt
 
@@ -49,8 +49,8 @@ Nếu bạn thuê từ xa, muốn giữ xe trước hoặc đơn giản là quen
 
 Điều kiện tiên quyết ở cả hai trường hợp vẫn là sự minh bạch. Một cửa hàng làm việc rõ ràng sẽ không ngại viết biên nhận, không ngại chốt lại điều khoản hoàn trả bằng tin nhắn, và sẵn sàng giải thích mọi thắc mắc trước khi bạn giao tiền. Ngược lại, nếu bên cho thuê từ chối mọi hình thức ghi nhận, đó là dấu hiệu bạn nên cân nhắc kỹ.
 
-Sau khi chốt được hình thức cọc, bạn sẽ bước sang các bước nhận xe thực tế. Hãy dành vài phút tham khảo [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) để tránh bỏ sót các điểm cần soi kỹ.
+Sau khi chốt được hình thức cọc, bạn sẽ bước sang các bước nhận xe thực tế. Hãy dành vài phút tham khảo [danh sách kiểm tra xe khi nhận xe thuê](/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) để tránh bỏ sót các điểm cần soi kỹ.
 
 ## Tóm lại
 
-Chuyển khoản thắng về minh bạch và tiện cho thuê từ xa; tiền mặt thắng về tính nhanh gọn và phù hợp giao dịch trực tiếp. Chọn hình thức nào, hãy chắc chắn rằng bạn có biên nhận, đã chốt trước cách hoàn trả và giữ lại toàn bộ chứng từ đến khi nhận đủ tiền. Khi trả xe, bạn cũng nên xem lại [quy trình nhận và trả xe](/blog/thue-xe/nhan-tra-xe/) để mọi thứ diễn ra suôn sẻ cho cả hai bên.
+Chuyển khoản thắng về minh bạch và tiện cho thuê từ xa; tiền mặt thắng về tính nhanh gọn và phù hợp giao dịch trực tiếp. Chọn hình thức nào, hãy chắc chắn rằng bạn có biên nhận, đã chốt trước cách hoàn trả và giữ lại toàn bộ chứng từ đến khi nhận đủ tiền. Khi trả xe, bạn cũng nên xem lại [quy trình nhận và trả xe](/thue-xe/nhan-tra-xe/) để mọi thứ diễn ra suôn sẻ cho cả hai bên.

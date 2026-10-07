@@ -26,13 +26,13 @@ Niêm phong trên thẻ căn cước là lớp dán biên cạnh thẻ, có tác
 
 Cửa hàng cho thuê xe máy dựa vào giấy tờ tùy thân làm căn cứ đặt cọc và truy cứu khi có sự cố trong kỳ thuê, vì vậy thẻ căn cước hỏng, kể cả hỏng nhẹ như mất niêm phong, khiến tiệm gặp hai rào cản. Thứ nhất, thẻ không nguyên vẹn khó đối chiếu với người đưa ra; thứ hai, nếu phát sinh tranh chấp, giấy tờ đã hỏng lúc nhận làm yếu giá trị lưu hồ sơ của tiệm. Không có nghĩa vụ pháp lý nào buộc tiệm phải chấp nhận giấy tờ trong tình trạng đó, nên việc từ chối không phải là hành vi sai.
 
-Nói cách khác, câu trả lời cho việc thuê xe với thẻ mất niêm phong phụ thuộc từng cửa hàng, và bạn cần xác nhận trực tiếp trước khi đến nhận xe. Một số nơi sẽ nhận kèm cọc tiền cao hơn, một số nơi nhận bản photo cộng hợp đồng ghi rõ hiện trạng thẻ, và một số nơi từ chối thẳng. Trước khi bức xúc vì bị từ chối, hãy nhớ rằng phía tiệm cũng chỉ đang bảo vệ chính mình trước rủi ro giấy tờ giả hoặc tranh chấp khi trả xe, vấn đề từng được phân tích trong bài về [giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không](/blog/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-khi-thue-xe-may-an-toan-khong/).
+Nói cách khác, câu trả lời cho việc thuê xe với thẻ mất niêm phong phụ thuộc từng cửa hàng, và bạn cần xác nhận trực tiếp trước khi đến nhận xe. Một số nơi sẽ nhận kèm cọc tiền cao hơn, một số nơi nhận bản photo cộng hợp đồng ghi rõ hiện trạng thẻ, và một số nơi từ chối thẳng. Trước khi bức xúc vì bị từ chối, hãy nhớ rằng phía tiệm cũng chỉ đang bảo vệ chính mình trước rủi ro giấy tờ giả hoặc tranh chấp khi trả xe, vấn đề từng được phân tích trong bài về [giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không](/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-khi-thue-xe-may-an-toan-khong/).
 
 ## Quy định về giấy tờ tùy thân không nguyên vẹn
 
 Theo Luật Căn cước công dân năm 2023, số 26/2023/QH15, công dân được cấp đổi căn cước khi thẻ bị hỏng không thể sử dụng được. Một thẻ chỉ bong nhẹ niêm phong, thông tin vẫn đầy đủ, chưa chắc đã rơi vào nhóm không thể sử dụng, nhưng trên thực tế nhiều cơ quan và tổ chức từ chối đối chiếu với giấy tờ không nguyên vẹn để tránh rủi ro. Nếu giấy tờ bị hỏng đến mức ảnh hoặc thông tin chính không đọc được, bạn buộc phải làm lại thẻ.
 
-Vấn đề thứ hai nằm ở trách nhiệm khi lưu thông. Người điều khiển xe máy phải mang theo giấy tờ tùy thân theo quy định, như đã nêu trong bài về [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Thẻ mất niêm phong vẫn là giấy tờ hợp lệ do cơ quan có thẩm quyền cấp, song khi bị chốt kiểm tra, trạng thái thẻ có thể khiến bạn mất thêm thời gian giải trình. Nếu thẻ của bạn đã hư hỏng nhiều lần, làm lại sớm vẫn là phương án sạch nhất.
+Vấn đề thứ hai nằm ở trách nhiệm khi lưu thông. Người điều khiển xe máy phải mang theo giấy tờ tùy thân theo quy định, như đã nêu trong bài về [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Thẻ mất niêm phong vẫn là giấy tờ hợp lệ do cơ quan có thẩm quyền cấp, song khi bị chốt kiểm tra, trạng thái thẻ có thể khiến bạn mất thêm thời gian giải trình. Nếu thẻ của bạn đã hư hỏng nhiều lần, làm lại sớm vẫn là phương án sạch nhất.
 
 ## Cách xử lý trước khi thuê xe
 
@@ -42,7 +42,7 @@ Vấn đề thứ hai nằm ở trách nhiệm khi lưu thông. Người điều
 - Mang theo hộ chiếu hoặc giấy tờ tùy thân khác còn nguyên vẹn để phương án dự phòng.
 - Làm lại thẻ căn cước tại cơ quan công an nơi cư trú nếu thẻ đã hỏng nặng; đây là cách triệt để nhất trước các kỳ thuê dài.
 
-Trường hợp thẻ chỉ hỏng nhẹ và tiệm vẫn nhận, hãy lưu bằng chứng sạch sẽ: chụp lại mặt trước, mặt sau thẻ kèm ngày, yêu cầu ghi rõ hiện trạng giấy tờ vào hợp đồng, và chụp hiện trạng xe khi nhận theo gợi ý trong bài [nhận xe máy thuê nên chụp lại những gì](/blog/thue-xe/2026/10/07/nhan-xe-may-thue-nen-chup-lai-nhung-gi/). Bộ bằng chứng hai chiều này giúp cả hai bên yên tâm suốt kỳ thuê.
+Trường hợp thẻ chỉ hỏng nhẹ và tiệm vẫn nhận, hãy lưu bằng chứng sạch sẽ: chụp lại mặt trước, mặt sau thẻ kèm ngày, yêu cầu ghi rõ hiện trạng giấy tờ vào hợp đồng, và chụp hiện trạng xe khi nhận theo gợi ý trong bài [nhận xe máy thuê nên chụp lại những gì](/thue-xe/2026/10/07/nhan-xe-may-thue-nen-chup-lai-nhung-gi/). Bộ bằng chứng hai chiều này giúp cả hai bên yên tâm suốt kỳ thuê.
 
 Với khách ở khu Long Biên, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674; nếu giấy tờ của bạn có vấn đề về trạng thái, hãy gọi xác nhận trước để được hướng dẫn phương án cọc phù hợp.
 

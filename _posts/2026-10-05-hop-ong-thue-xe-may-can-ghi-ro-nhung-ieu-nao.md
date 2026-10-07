@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy là việc nhỏ nhưng hợp đồng không nhỏ: đó là văn bản duy nhất hai bên cùng nhìn vào khi có bất đồng, nên hợp đồng thuê xe máy cần ghi gì là câu hỏi đáng trả lời kỹ hơn là ký nhanh cho xong. Một bản ghi rõ không mất thời gian của ai, và đổi lại là cả hợp đồng thuê ổn suốt kỳ. Bài này liệt kê các điều khoản hợp đồng thuê xe nên có mặt, và cách ghi biên bản nhận trả xe cho khớp.
 
-Tổng quan nhóm hỏi đáp thủ tục nằm ở trang [hỏi đáp](/blog/hoi-dap/), các bước thuê chuẩn nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), còn quy trình nhận và trả xe ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/).
+Tổng quan nhóm hỏi đáp thủ tục nằm ở trang [hỏi đáp](/hoi-dap/), các bước thuê chuẩn nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), còn quy trình nhận và trả xe ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/).
 
 ## Các thông tin nhận diện hai bên và chiếc xe
 

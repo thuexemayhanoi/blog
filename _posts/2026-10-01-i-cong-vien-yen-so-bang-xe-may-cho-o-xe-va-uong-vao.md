@@ -25,7 +25,7 @@ Nếu xuất phát từ phía bờ sông hoặc khu Long Biên, vòng theo các 
 
 Bãi đỗ xe của công viên rộng, phục vụ cả ngày thường lẫn ngày đông khách; cuối tuần và dịp lễ, các bãi phụ quanh các lối vào cũng mở, nhưng hàng ghế cỏ và khu gần hồ kín sớm từ giữa sáng. Nguyên tắc: chọn bãi gần khu định chơi trước khi đến, tra lối vào tương ứng trên bản đồ, rồi gửi một lần duy nhất để đỡ dời xe giữa buổi. Khi gửi, lấy vé, chụp lại vị trí đỗ, và cất giấy tờ theo người.
 
-Ngày đông khách, các dòng xe đỗ dọc lối vào dễ chen chúc; người đi cùng nhóm nên hẹn tập trung ở một điểm mốc cụ thể trong bãi — một cột biển, một góc cổng — thay vì mô tả kiểu gần đám đông. Cách chuẩn bị chỗ đỗ và sắp xếp hành lý cho các buổi dã ngoại bằng xe máy được gom trong bài [chỗ đỗ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), đáng đọc trước các chuyến chở nhiều đồ.
+Ngày đông khách, các dòng xe đỗ dọc lối vào dễ chen chúc; người đi cùng nhóm nên hẹn tập trung ở một điểm mốc cụ thể trong bãi — một cột biển, một góc cổng — thay vì mô tả kiểu gần đám đông. Cách chuẩn bị chỗ đỗ và sắp xếp hành lý cho các buổi dã ngoại bằng xe máy được gom trong bài [chỗ đỗ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/), đáng đọc trước các chuyến chở nhiều đồ.
 
 ## Khung giờ đẹp trong công viên
 
@@ -35,12 +35,12 @@ Cuối tuần công viên đông nhóm picnic và các hoạt động trên hồ
 
 ## Chuẩn bị cho buổi dã ngoại
 
-Vì diện tích rộng, mang theo nước và đồ ăn nhẹ trong balo, vì các quầy trong công viên thưa hơn khu phố và cuối tuần dễ đông chờ; balo gọn còn giúp bạn bộ thoải mái hơn xe chở chất đầy. Với nhóm chở đồ picnic bằng xe máy, phân bố đều hai bên cốp, buộc chặt bằng dây mềm, và giữ hành lý không lấp gương sau — cách chở và buộc đồ an toàn được gom trong trang [chỗ đỗ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Vì diện tích rộng, mang theo nước và đồ ăn nhẹ trong balo, vì các quầy trong công viên thưa hơn khu phố và cuối tuần dễ đông chờ; balo gọn còn giúp bạn bộ thoải mái hơn xe chở chất đầy. Với nhóm chở đồ picnic bằng xe máy, phân bố đều hai bên cốp, buộc chặt bằng dây mềm, và giữ hành lý không lấp gương sau — cách chở và buộc đồ an toàn được gom trong trang [chỗ đỗ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
-Nếu bạn đang xếp thêm các buổi cuối tuần quanh Hà Nội, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), còn thêm nhiều gợi ý điểm đi nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/). Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Nếu bạn đang xếp thêm các buổi cuối tuần quanh Hà Nội, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn thêm nhiều gợi ý điểm đi nằm trong danh sách [điểm đến](/du-lich/diem-den/). Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 
 Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì đoạn về tối qua các nút giao lớn cần xe ăn phanh tốt. Mang theo áo mưa gấp trong mùa mưa, và sạc sẵn pin điện thoại cho bản đồ đường về. Về khung tối, bật đèn sớm: đoạn vành đai nhiều xe tải và đèn pha đối diện, nên giữ làn phải, chạy đều và tránh nhìn thẳng vào đèn pha.
 
-Cuối cùng, giữ rác theo người để công viên còn xanh cho buổi sau, trả lại ghế đá và bãi cỏ như lúc đến, và nhớ lại vị trí bãi xe trước khi lạc vào sâu trong công viên: chụp ảnh biển số lối vào là thói quen nhỏ cứu được chặng bộ về. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.
+Cuối cùng, giữ rác theo người để công viên còn xanh cho buổi sau, trả lại ghế đá và bãi cỏ như lúc đến, và nhớ lại vị trí bãi xe trước khi lạc vào sâu trong công viên: chụp ảnh biển số lối vào là thói quen nhỏ cứu được chặng bộ về. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.

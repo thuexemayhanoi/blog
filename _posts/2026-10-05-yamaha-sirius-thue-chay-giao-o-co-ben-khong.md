@@ -16,7 +16,7 @@ writer: W1
 
 Chạy giao đồ trong ngày đòi hỏi một chiếc xe chịu được tải nặng, đề nhiều lần, chạy liên tục từ sáng tới tối, và câu hỏi Yamaha Sirius thuê chạy giao đồ có bền không chính là câu hỏi của người cần một công cụ làm việc thật, không phải xe đi chơi. Câu trả lời ngắn: Sirius thuộc nhóm xe số phổ thông được thiết kế cho đúng loại công việc này, bền ở khối máy và khung xe, với điều kiện người thuê kiểm tra vài điểm trước khi nhận và trả xe đúng cách. Bài viết này đi qua sức bền thật của Sirius khi chạy liên tục, vì sao thuê Sirius giao hàng được nhiều người chọn, và cách chọn xe thuê cho công việc nặng.
 
-Tổng quan về mẫu xe nằm trong trang [Yamaha Sirius](/blog/xe-may/yamaha-sirius/), nhóm dòng xe ở phần [xe số](/blog/xe-may/xe-so/), và so sánh với các dòng khác tại [chọn loại xe](/blog/xe-may/chon-loai-xe/).
+Tổng quan về mẫu xe nằm trong trang [Yamaha Sirius](/xe-may/yamaha-sirius/), nhóm dòng xe ở phần [xe số](/xe-may/xe-so/), và so sánh với các dòng khác tại [chọn loại xe](/xe-may/chon-loai-xe/).
 
 ## Sức bền của Yamaha Sirius thuê chạy giao đồ cả ngày
 
@@ -36,13 +36,13 @@ Một trải nghiệm thực tế của người chạy giao quanh Hà Nội: qu
 
 Với xe thuê chạy việc, kiểm tra kỹ hơn đi chơi. Năm điểm chính: lốp trước sau còn tốt hay đã mòn vì xe thuê chạy nhiều; xích và dĩa, vì chạy tải nặng làm xích ăn mòn nhanh, hỏi lần tra dầu gần nhất; phanh trước sau, vì chở nặng cần phanh tốt hơn; đèn còi cho chuyến buổi tối; và ắc quy với đề nổ, vì đề nhiều lần cả ngày làm ắc quy yếu lộ ra nhanh.
 
-Ngoài ra hãy hỏi chính sách bảo dưỡng trong thời gian thuê: chạy việc thì quãng đường tăng nhanh, và có thể tới ngưỡng thay dầu giữa thời gian thuê. Thỏa thuận trước ai trả khoản này, và nếu bạn tự tra dầu, hỏi tiệm chỉ định. Quy trình nhận xe và bảo trì chi tiết nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Ngoài ra hãy hỏi chính sách bảo dưỡng trong thời gian thuê: chạy việc thì quãng đường tăng nhanh, và có thể tới ngưỡng thay dầu giữa thời gian thuê. Thỏa thuận trước ai trả khoản này, và nếu bạn tự tra dầu, hỏi tiệm chỉ định. Quy trình nhận xe và bảo trì chi tiết nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Chạy giao đồ đúng cách để xe bền thêm
 
 Xe bền một nửa nhờ cách chạy. Với Sirius chở hàng, ba thói quen đáng giá: không chở quá tải vượt giới hạn ghi trong hướng dẫn, vì giảm xóc và phanh mòn nhanh nhất ở chế độ quá tải; tra dầu xích định kỳ nếu chạy nhiều, vì bụi phố cộng tải nặng làm xích khô nhanh; và để máy nghỉ vài phút khi dừng dài, đừng vừa tắt vừa đề liên tục. Người chạy giao cũng nên chở hàng cân bằng hai bên thay vì dồn một bên, để khung không nghiêng mòn một phía.
 
-Về lâu dài, nếu công việc đòi hỏi hàng ngày, cân nhắc thuê theo tuần hoặc tháng thay vì ngày để có giá tốt và xe ổn định, giữ một chiếc duy nhất quen tay thay vì đổi xe mỗi ngày, và phần [thuê theo tháng](/blog/thue-xe/thue-thang/) có thông tin về thuê dài hạn.
+Về lâu dài, nếu công việc đòi hỏi hàng ngày, cân nhắc thuê theo tuần hoặc tháng thay vì ngày để có giá tốt và xe ổn định, giữ một chiếc duy nhất quen tay thay vì đổi xe mỗi ngày, và phần [thuê theo tháng](/thue-xe/thue-thang/) có thông tin về thuê dài hạn.
 
 ## Tóm lại, Sirius bền đủ cho chạy giao đồ
 

@@ -16,7 +16,7 @@ writer: W1
 
 Bố mẹ lớn tuổi, sức khoẻ vẫn ổn nhưng chân tay không còn nhanh như trước, và mỗi tháng vẫn phải chạy đến viện khám bệnh định kỳ là tình huống rất nhiều gia đình ở Hà Nội đang gặp. Lúc này chuyện chọn xe cho người cao tuổi đi khám bệnh không đơn giản là xe nào chạy được, mà là xe nào phù hợp với phản xạ, sức chân và chiều cao hiện tại của người cầm lái. Một mẫu xe máy hợp người lớn tuổi phải nhẹ, yên thấp, phanh nhạy và dễ đẩy khi tắt máy. Bài viết này đi qua từng tiêu chí cụ thể, cách thử xe trước khi quyết định, và những điểm cần lưu ý khi giao xe cho người lớn tuổi tự chạy đến viện.
 
-Nếu bạn đang cân nhắc giữa các nhóm xe, phần [chọn loại xe](/blog/xe-may/chon-loai-xe/) so sánh ưu nhược của từng dòng, còn tổng quan chủ đề nằm tại trang [xe máy](/blog/xe-may/).
+Nếu bạn đang cân nhắc giữa các nhóm xe, phần [chọn loại xe](/xe-may/chon-loai-xe/) so sánh ưu nhược của từng dòng, còn tổng quan chủ đề nằm tại trang [xe máy](/xe-may/).
 
 ## Tiêu chí xe máy hợp người lớn tuổi
 
@@ -32,7 +32,7 @@ Trong buổi thử, hãy quan sát thay vì chỉ hỏi. Nếu bạn thấy bố
 
 ## Nhóm xe nào đáng cân nhắc cho chuyến đi khám
 
-Nhóm xe số phổ thông, nhẹ, yên thấp là lựa chọn truyền thống và dễ kiểm soát nhất, vì người lớn tuổi phần lớn quen xe số từ trẻ. Với người quen xe tay ga, các mẫu ga nhỏ gọn, ghế thấp, cốp rộng là phương án hợp lý, và phần [xe ga](/blog/xe-may/xe-ga/) có thông tin chi tiết hơn về đặc điểm của dòng này. Xe điện với thao tác vặn ga đơn giản, không cần số, không mùi xăng cũng là một hướng được nhiều gia đình ở Hà Nội chọn khi đoạn đường tới viện ngắn và có chỗ sạc ở nhà.
+Nhóm xe số phổ thông, nhẹ, yên thấp là lựa chọn truyền thống và dễ kiểm soát nhất, vì người lớn tuổi phần lớn quen xe số từ trẻ. Với người quen xe tay ga, các mẫu ga nhỏ gọn, ghế thấp, cốp rộng là phương án hợp lý, và phần [xe ga](/xe-may/xe-ga/) có thông tin chi tiết hơn về đặc điểm của dòng này. Xe điện với thao tác vặn ga đơn giản, không cần số, không mùi xăng cũng là một hướng được nhiều gia đình ở Hà Nội chọn khi đoạn đường tới viện ngắn và có chỗ sạc ở nhà.
 
 Cân nhắc cần tránh là các mẫu xe côn tay, xe thể thao dài, nặng, dù người lớn tuổi từng đi phức tạp thời trẻ, vì phản xạ hiện tại không còn như hồi đó, và trọng lượng xe sẽ lấn át kinh nghiệm.
 
@@ -40,7 +40,7 @@ Cân nhắc cần tránh là các mẫu xe côn tay, xe thể thao dài, nặng,
 
 Nếu gia đình chọn thuê xe máy cho bố mẹ trong giai đoạn xét nghiệm sức khoẻ, hoặc chờ quyết định mua, hãy nói thẳng với tiệm thuê rằng người chạy là người cao tuổi, để được sắp mẫu nhẹ, yên thấp, phanh tốt. Khi nhận xe, người đi khám cần tự ngồi thử ngay tại tiệm, chứ không để con ngồi thử hộ. Kiểm tra gương, đèn, còi, phanh trước và sau, và hỏi rõ cách mở cốp, cách dựng chống giữa, vì mỗi mẫu xe có bố trí khác nhau.
 
-Với chuyến khám, nên thuê loại xe có cốp đủ để hồ sơ bệnh án không phải treo lủng lẳng, vì đồ đeo bên hông làm xe nghiêng khi vào cua và dễ vướng khi xuống xe. Trang [thuê xe máy](/blog/thue-xe/) có đầy đủ thông tin về thủ tục, giấy tờ cần mang theo khi thuê, và cách kiểm tra tình trạng xe trước khi nhận.
+Với chuyến khám, nên thuê loại xe có cốp đủ để hồ sơ bệnh án không phải treo lủng lẳng, vì đồ đeo bên hông làm xe nghiêng khi vào cua và dễ vướng khi xuống xe. Trang [thuê xe máy](/thue-xe/) có đầy đủ thông tin về thủ tục, giấy tờ cần mang theo khi thuê, và cách kiểm tra tình trạng xe trước khi nhận.
 
 ## Kế hoạch đi khám an toàn cho người tự chạy xe
 

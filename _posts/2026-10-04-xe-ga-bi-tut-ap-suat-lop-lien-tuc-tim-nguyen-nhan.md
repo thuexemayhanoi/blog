@@ -52,4 +52,4 @@ Một số người bơm ở trạm rồi đo lại bằng loại đồng hồ k
 
 ## Tóm lại nên xử lý xe ga tụt áp suất lốp thế nào
 
-Trình tự gợi ý đơn giản: đo và ghi áp suất ba ngày liền, kiểm tra van lốp bằng nước xà phòng, tìm điểm vọt hơi trên mặt lốp, rồi mới nghĩ tới vành và chuyện thay lốp. Với xe thuê, mọi hư hỏng cần thông báo ngay cho chủ cho thuê để cùng xử lý kịp thời, tránh tranh cãi sau này. Bạn có thể đọc thêm các chủ đề xử lý sự cố trong mục [xử lý sự cố xe](/blog/xe-may/xu-ly-su-co-xe/), xem tổng hợp về [xe máy](/blog/xe-may/), hoặc tham khảo thêm bài viết [kinh nghiệm](/blog/kinh-nghiem/) để bảo vệ bản thân trên mọi hành trình.
+Trình tự gợi ý đơn giản: đo và ghi áp suất ba ngày liền, kiểm tra van lốp bằng nước xà phòng, tìm điểm vọt hơi trên mặt lốp, rồi mới nghĩ tới vành và chuyện thay lốp. Với xe thuê, mọi hư hỏng cần thông báo ngay cho chủ cho thuê để cùng xử lý kịp thời, tránh tranh cãi sau này. Bạn có thể đọc thêm các chủ đề xử lý sự cố trong mục [xử lý sự cố xe](/xe-may/xu-ly-su-co-xe/), xem tổng hợp về [xe máy](/xe-may/), hoặc tham khảo thêm bài viết [kinh nghiệm](/kinh-nghiem/) để bảo vệ bản thân trên mọi hành trình.

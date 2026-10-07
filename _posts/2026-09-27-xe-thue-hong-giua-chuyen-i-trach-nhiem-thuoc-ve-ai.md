@@ -30,7 +30,7 @@ Khi xe hỏng, trước khi gọi ai, dành một phút quan sát. Xe hỏng sau
 
 ## Trình tự báo cửa hàng và chờ hướng dẫn
 
-Sau khi an toàn, bước tiếp theo là gọi cửa hàng. Trong cuộc gọi, bạn cần nêu đủ: vị trí, tình trạng xe, các dấu hiệu trước khi hỏng, và điều bạn muốn, là xe về cửa hàng, sửa tại chỗ, hay có xe thay. Nhiều khi nhân viên sẽ hướng dẫn bạn tự kiểm tra một số điểm đơn giản và xe nổ lại được ngay; nhiều khi họ sẽ cử người ra hoặc chỉ bạn một tiệm sửa gần đó. Với việc xe chết máy giữa đường, bạn có thể đọc trình tự chi tiết từng bước trong bài [xử lý khi xe thuê hỏng giữa đường](/blog/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/), và các tình huống khác cùng nhóm nằm trong chủ đề [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Sau khi an toàn, bước tiếp theo là gọi cửa hàng. Trong cuộc gọi, bạn cần nêu đủ: vị trí, tình trạng xe, các dấu hiệu trước khi hỏng, và điều bạn muốn, là xe về cửa hàng, sửa tại chỗ, hay có xe thay. Nhiều khi nhân viên sẽ hướng dẫn bạn tự kiểm tra một số điểm đơn giản và xe nổ lại được ngay; nhiều khi họ sẽ cử người ra hoặc chỉ bạn một tiệm sửa gần đó. Với việc xe chết máy giữa đường, bạn có thể đọc trình tự chi tiết từng bước trong bài [xử lý khi xe thuê hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/), và các tình huống khác cùng nhóm nằm trong chủ đề [sự cố khi thuê xe](/thue-xe/su-co/).
 
 Trong lúc chờ hướng
  dẫn, giữ xe ở nơi an toàn và không tháo bất kỳ bộ phận nào. Nếu quyết định sửa ở tiệm ngoài, hãy nhờ cửa hàng nói chuyện trực tiếp với tiệm nếu có thể, vì hai bên họ làm quen với nhau và bạn cũng có văn bản rõ ai quyết phần gì. Chụp lại hóa đơn sửa chữa và giữ bản sao, vì hóa đơn là căn cứ để thống kê lại khi trả xe. Nếu chi phí phát sinh do hỏng hóc thuộc về bên cho thuê, phần này thường được xử lý trong lúc tất toán; nếu không thống nhất được ngay, ghi rõ điểm chưa đồng ý vào tin nhắn và xử lý khi có đầy đủ thông tin.
@@ -44,6 +44,6 @@ Vài việc nhỏ giúp cuộc trao đổi về chi phí luôn minh bạch. Hóa
 ## Giữ bằng chứng và rút kinh nghiệm cho lần sau
 
 Kỳ thuê có sự cố là một bài học thực hành tốt nhất về chuẩn bị. Khi quay lại cửa hàng lần tới, bạn sẽ tự động làm kỹ hơn các việc từng bị hỏi xoay: chụp ảnh nhiều góc hơn, hỏi kỹ hơn về tình trạng lốp, xích, đèn, phanh khi nhận xe, và l
-ưu sẵn số điện thoại hỗ trợ. Nếu bạn muốn một danh sách các điểm nên soi kỹ ngay từ đầu, bài [checklist nhận xe máy thuê](/blog/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/) tổng hợp đầy đủ các bước kiểm tra trước khi rời cửa hàng.
+ưu sẵn số điện thoại hỗ trợ. Nếu bạn muốn một danh sách các điểm nên soi kỹ ngay từ đầu, bài [checklist nhận xe máy thuê](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/) tổng hợp đầy đủ các bước kiểm tra trước khi rời cửa hàng.
 
 Tóm lại, khi xe thuê hỏng giữa chuyến đi, trách nhiệm không chia theo thời điểm mà theo nguyên nhân: hỏng có sẵn thuộc về xe, hỏng do sử dụng thuộc về người thuê, và ranh giới được soi sáng bằng bằng chứng ghi lại từ lúc nhận xe. Dừng đúng lúc, báo đúng người, lưu đúng hồ sơ là ba nhịp giúp mọi kỳ thuê, kể cả kỳ có sự cố, kết thúc trong khung kiểm soát của bạn.

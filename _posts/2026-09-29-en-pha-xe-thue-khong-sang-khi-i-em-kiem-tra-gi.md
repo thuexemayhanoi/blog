@@ -41,7 +41,7 @@ Nếu đèn chỉ mờ chứ không tắt hẳn, có thể mặt kính đang bá
 
 ## Không tự tháo cụm đèn trên xe thuê
 
-Với xe thuê, đừng tháo cụm đèn, thay bóng ở tiệm ngoài hay nối dây tạm. Bóng sai thông số có thể làm cháy chì hoặc hỏng công tắc, và mỗi chỗ tháo lắp đều làm mập mờ trách nhiệm khi trả xe. Cách làm đúng là ghi rõ tình trạng đèn và giờ phát hiện, rồi gọi cửa hàng để nghe hướng: đổi xe, hẹn xử lý, hoặc dặn bạn chạy cách nào cho an toàn. Các tình huống trục trặc giữa đường được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Với xe thuê, đừng tháo cụm đèn, thay bóng ở tiệm ngoài hay nối dây tạm. Bóng sai thông số có thể làm cháy chì hoặc hỏng công tắc, và mỗi chỗ tháo lắp đều làm mập mờ trách nhiệm khi trả xe. Cách làm đúng là ghi rõ tình trạng đèn và giờ phát hiện, rồi gọi cửa hàng để nghe hướng: đổi xe, hẹn xử lý, hoặc dặn bạn chạy cách nào cho an toàn. Các tình huống trục trặc giữa đường được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/).
 
 Khi gọi, mô tả theo trình tự đã rà ở trên: công tắc đã vặn đủ các nấc chưa, đèn hậu và còi thế nào, đèn có chớp không. Người nghe sẽ hình dung chính xác lỗi nằm ở đâu và ước được cần bao lâu để hỗ trợ, thay vì chỉ nhận một câu đèn không sáng.
 
@@ -49,6 +49,6 @@ Khi gọi, mô tả theo trình tự đã rà ở trên: công tắc đã vặn 
 
 Đèn là thứ ít người nghĩ tới lúc nhận xe ban ngày, nên hãy tập thói quen rà thử cả khi trời còn sáng: bật pha, hậu, đèn phanh, còi và xi-nhan, nhờ người khác nhìn hoặc quan sát bóng đổ trên tường để xác nhận pha sáng rõ. Nếu biết mình sẽ đi đêm nhiều, nói thẳng với cửa hàng để chọn chiếc xe đèn khỏe, vì đây là yêu cầu rất bình thường.
 
-Trước khi ra đường tối, lướt nhanh một lượt gương, đèn và còi. Các đầu mục nên kiểm tra khi nhận và khi trả xe được tóm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/), còn những thao tác cơ bản nên thuộc lòng trước khi xuống phố nằm trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Trước khi ra đường tối, lướt nhanh một lượt gương, đèn và còi. Các đầu mục nên kiểm tra khi nhận và khi trả xe được tóm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/), còn những thao tác cơ bản nên thuộc lòng trước khi xuống phố nằm trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp tình huống đèn không sáng; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp tình huống đèn không sáng; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

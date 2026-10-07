@@ -50,7 +50,7 @@ Không có con số chung, vì độ mòn phụ thuộc cung đường và thói
 
 Một lưu ý nhỏ về dầu phanh: dầu phanh hút ẩm từ không khí qua gioăng bình chứa, nên dù xe ít đi, hai năm vẫn nên thay đúng kỳ. Khi thay, chọn đúng loại dầu ghi trên nắp bình, không trộn loại khác, và nhớ xả hết khí trong hệ thống trước khi trả xe về.
 
-Việc kiểm tra phanh thuộc nhóm bảo dưỡng định kỳ, xem lịch tổng hợp tại trang [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/).
+Việc kiểm tra phanh thuộc nhóm bảo dưỡng định kỳ, xem lịch tổng hợp tại trang [bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
 
 ## Câu hỏi thường gặp
 
@@ -58,15 +58,15 @@ Việc kiểm tra phanh thuộc nhóm bảo dưỡng định kỳ, xem lịch t�
 
 ## Cách phanh an toàn khi đi phố
 
-Kiểm tra phanh tốt là một nửa, nửa còn lại là kỹ năng phanh. Nguyên tắc cơ bản: phanh trước và sau phối hợp, không bóp gấp phanh trước khi đường ướt hoặc vào cua. Trong phố đông, giữ khoảng cách với xe trước, nhả ga sớm và giảm dần thay vì phanh ở phút chót. Khi xuống dốc dài, dùng nhả số kết hợp phanh nhấp nhả, đừng để phanh tải liên tục vì đĩa nóng sẽ mất lực. Muốn nắm vững các kỹ năng nền, bạn xem bài về [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Kiểm tra phanh tốt là một nửa, nửa còn lại là kỹ năng phanh. Nguyên tắc cơ bản: phanh trước và sau phối hợp, không bóp gấp phanh trước khi đường ướt hoặc vào cua. Trong phố đông, giữ khoảng cách với xe trước, nhả ga sớm và giảm dần thay vì phanh ở phút chót. Khi xuống dốc dài, dùng nhả số kết hợp phanh nhấp nhả, đừng để phanh tải liên tục vì đĩa nóng sẽ mất lực. Muốn nắm vững các kỹ năng nền, bạn xem bài về [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
 ## Xe thuê cần kiểm tra gì
 
-Ngày nhận xe thuê, hãy kéo tay phanh và đạp chân phanh thử ngay tại cửa hàng, xe phải giảm dứt khoát trong nửa véc tơ tay. Trên đường, nếu tay phanh mềm dần hoặc nghe tiếng rít, báo bên cho thuê ngay, đừng chờ hết ngày. Trả xe đúng giờ cũng là một phần giữ lịch bảo dưỡng của xe, xem quy định tại trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/).
+Ngày nhận xe thuê, hãy kéo tay phanh và đạp chân phanh thử ngay tại cửa hàng, xe phải giảm dứt khoát trong nửa véc tơ tay. Trên đường, nếu tay phanh mềm dần hoặc nghe tiếng rít, báo bên cho thuê ngay, đừng chờ hết ngày. Trả xe đúng giờ cũng là một phần giữ lịch bảo dưỡng của xe, xem quy định tại trang [nhận và trả xe](/thue-xe/nhan-tra-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra phanh trước khi giao xe cho thuê, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi về tình trạng xe hoặc nhờ tư vấn khi xe mình gặp dấu hiệu phanh bất thường. Thêm các bài về cấu kiện và kỹ năng tại trang [xe máy và dòng xe](/blog/xe-may/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra phanh trước khi giao xe cho thuê, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi về tình trạng xe hoặc nhờ tư vấn khi xe mình gặp dấu hiệu phanh bất thường. Thêm các bài về cấu kiện và kỹ năng tại trang [xe máy và dòng xe](/xe-may/).
 
 Phanh không hỏng đột ngột, nó mòn dần và lên tiếng nếu bạn chịu nghe. Mỗi tuần một lần kéo phanh thử và nghe, mỗi năm thay dầu phanh đĩa đúng kỳ, đó là cách rẻ nhất giữ cho mỗi chuyến đi kết thúc an toàn.
 

@@ -44,6 +44,6 @@ Người thuê xe máy đưa đón con nên chọn xe số đầm, phanh mềm v
 
 Một thói quen cuối đáng hình thành: chốt với con một điểm đón cố định trong ngõ thay vì đón ngay cổng. Điểm cố định giúp con biết chạy về đâu khi tan, giúp bạn không phải lượn tìm giữa dòng xe, và giúp cả hai tránh đúng phần hỗn loạn nhất của khung giờ. Chốt điểm đón là việc một lần đầu năm học, trả công bằng hàng trăm buổi sau đó.
 
-Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); các tình huống giao thông quanh khu đông người nằm trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung. Người mới thuê xe máy đưa đón con nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi chạy đều đặn.
+Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); các tình huống giao thông quanh khu đông người nằm trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/); trang [kỹ năng](/ky-nang/) là mục lục chung. Người mới thuê xe máy đưa đón con nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi chạy đều đặn.
 
 Gửi xe ở trường ngõ nhỏ cuối cùng là bài học của thói quen hơn là kỹ năng: dừng sâu trong ngõ, thỏa thuận chỗ gửi ổn, giữ đồ gọn cho con, và nhường nhịp khung cao điểm. Làm đều bốn việc đó, khung giờ đưa đón mỗi ngày qua đi nhẹ nhàng hơn nhiều phụ huynh tưởng.

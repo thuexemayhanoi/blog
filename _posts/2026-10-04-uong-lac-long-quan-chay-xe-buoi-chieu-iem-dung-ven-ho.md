@@ -40,7 +40,7 @@ Về chạy theo nhóm: đường ven hồ chiều cuối tuần hay có các nh
 
 Nếu định dừng lâu, tốt nhất là ghé quán ven hồ và gửi xe tại quán: một ly nước đổi chỗ để xe có người nhìn, hợp lý cho buổi chiều. Nếu chỉ dừng chụp ảnh vài phút, tắt máy, rút chìa, khóa cổ, và để đồ đạc trong cốp. Cuối cùng, nhớ đoạn đường ven hồ chiều muộn vắng người qua lại hẳn: những chỗ "chỉ dừng một phút" chính là chỗ dễ có chuyện nhất, nên cứ dừng ở nơi đông mắt là chuẩn nhất.
 
-Ai muốn đọc nhanh các lưu ý chung về giữ xe nơi ven đường, chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/) gom đủ; các điểm đến quanh hồ được gom trong chuyên mục [Hồ Tây](/blog/du-lich/ho-tay/).
+Ai muốn đọc nhanh các lưu ý chung về giữ xe nơi ven đường, chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/) gom đủ; các điểm đến quanh hồ được gom trong chuyên mục [Hồ Tây](/du-lich/ho-tay/).
 
 Một chút về mùa: đường ven hồ đẹp quanh năm nhưng mỗi mùa một gương mặt. Mùa thu và đầu đông là lúc được yêu nhất — trời trong, gió lạnh nhẹ, mặt hồ phẳng lặn và hàng cây đổi màu. Cuối xuân sang hè, buổi chiều nắng chói hơn, nên khung chạy nên dịch về sát tối, khi đèn đường lên và bớt nóng. Ai mới định hình guồng chạy buổi chiều quanh hồ thì cứ thử mỗi mùa một lần: đường cũ mà mỗi mùa cho một bài tập quen mới.
 
@@ -48,6 +48,6 @@ Một chút về mùa: đường ven hồ đẹp quanh năm nhưng mỗi mùa m�
 
 Từ nội đô, vào đầu phía nam của đường từ khu Ba Đình, hoặc lên từ trục Âu Cơ ở phía bắc rồi chạy xuống — hai lối vào đều dễ. Từ bờ bắc sông Hồng, qua cầu Nhật Tân hoặc cầu Chương Dương rồi theo các trục lên hồ Tây, chỉ thêm vài phút; người thuê xe máy ở Long Biên vì thế hay ghép Lạc Long Quân làm chặng xế chiều sau giờ làm.
 
-Về guồng bánh buổi chiều: đường này một chiều từng đoạn, nên chạy hướng nào quyết định chiều chạy quanh hồ — nhìn biển trước khi rẽ vào, ai chạy vòng quanh hồ thì cứ bám theo dòng xe. Người mới chạy xe trong nội đô nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi chạy đầu tiên; ai muốn mở rộng lịch trình xem mục [điểm đến Hà Nội](/blog/du-lich/diem-den/).
+Về guồng bánh buổi chiều: đường này một chiều từng đoạn, nên chạy hướng nào quyết định chiều chạy quanh hồ — nhìn biển trước khi rẽ vào, ai chạy vòng quanh hồ thì cứ bám theo dòng xe. Người mới chạy xe trong nội đô nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước buổi chạy đầu tiên; ai muốn mở rộng lịch trình xem mục [điểm đến Hà Nội](/du-lich/diem-den/).
 
-Tổng hợp các lộ trình quanh thành phố nằm ở trang [du lịch](/blog/du-lich/). Ai cần xe máy cho buổi chiều ven hồ có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, lấy xe vài phút sau là lên được đường ven hồ Tây.
+Tổng hợp các lộ trình quanh thành phố nằm ở trang [du lịch](/du-lich/). Ai cần xe máy cho buổi chiều ven hồ có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, lấy xe vài phút sau là lên được đường ven hồ Tây.

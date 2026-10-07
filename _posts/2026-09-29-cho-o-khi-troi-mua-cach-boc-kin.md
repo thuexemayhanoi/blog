@@ -45,14 +45,14 @@ Khi dừng đèn đỏ trong mưa, nghiêng xe cho phần kiện lệch khỏi h
 
 ## Khi vẫn phải đi tiếp trong mưa lớn
 
-Trước khi đi tiếp, siết lại các nút buộc, vì nước dồn làm vài lớp túi xệ xuống. Chạy chậm hơn bình thường, tránh vệt nước sâu vì bánh sau văng nước thẳng vào kiện đồ. Cách chạy xe khi mưa lớn và giảm tốc đúng lúc đã được bàn trong bài [Chạy xe máy trời mưa lớn: giảm tốc và êm](/blog/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/), nên đọc để giữ cả người lẫn đồ.
+Trước khi đi tiếp, siết lại các nút buộc, vì nước dồn làm vài lớp túi xệ xuống. Chạy chậm hơn bình thường, tránh vệt nước sâu vì bánh sau văng nước thẳng vào kiện đồ. Cách chạy xe khi mưa lớn và giảm tốc đúng lúc đã được bàn trong bài [Chạy xe máy trời mưa lớn: giảm tốc và êm](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/), nên đọc để giữ cả người lẫn đồ.
 
-Nếu dự đoán trước được ngày mưa, việc chuẩn bị đồ đạc từ nhà sẽ nhẹ hơn nhiều. Bài [Mùa mưa Hà Nội: chuẩn bị gì khi đi xe máy thuê](/blog/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue/) gom các bước chuẩn bị cho chuyến đi trong mưa, từ vật liệu bọc đến trang bị cá nhân.
+Nếu dự đoán trước được ngày mưa, việc chuẩn bị đồ đạc từ nhà sẽ nhẹ hơn nhiều. Bài [Mùa mưa Hà Nội: chuẩn bị gì khi đi xe máy thuê](/ky-nang/2026-09-29/mua-mua-ha-noi-chuan-bi-gi-khi-i-xe-may-thue/) gom các bước chuẩn bị cho chuyến đi trong mưa, từ vật liệu bọc đến trang bị cá nhân.
 
 ## Sau chuyến mưa: xử lý đồ và áo mưa ẩm
 
 Mở kiện theo trình tự ngược: lột lớp ngoài bẩn trước, rồi mới mở các túi bên trong. Áo mưa và nilon ướt không nên cuộn lại ngay, treo phơi khô trước khi gấp, nếu không lớp ẩm sẽ có mùi mốc. Đồ điện tử dù đã bọc kỹ cũng nên kiểm tra độ ẩm ở đầu cắm và các khe.
 
-Chạy xe nhiều ngày mưa liên tục ảnh hưởng đến cả người lẫn xe; các chủ đề về thời tiết và đường sá được gom tại [Thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), bạn có thể đọc theo từng tình huống cụ thể của mình.
+Chạy xe nhiều ngày mưa liên tục ảnh hưởng đến cả người lẫn xe; các chủ đề về thời tiết và đường sá được gom tại [Thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), bạn có thể đọc theo từng tình huống cụ thể của mình.
 
-Bọc kín đồ khi mưa là kỹ năng rẻ nhất mà hiệu quả nhất trên xe máy: chỉ cần vài lớp nilon và cách gấp đúng. Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Bọc kín đồ khi mưa là kỹ năng rẻ nhất mà hiệu quả nhất trên xe máy: chỉ cần vài lớp nilon và cách gấp đúng. Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/).

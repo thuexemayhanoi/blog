@@ -20,7 +20,7 @@ Thuê xe máy đưa đón con thi chuyển cấp là bài toán của những ng
 
 Lịch thi chuyển cấp thường trải qua hai đến ba buổi trong hai ba ngày, cách nhau một ngày nghỉ. Khoảng thời gian thuê hợp lý là trọn gói các ngày có buổi thi cộng thêm ngày hôm trước nhận xe: nhận xe buổi chiều trước ngày thi đầu để chạy thử tuyến, và trả xe sau buổi thi cuối. Nhận trước một ngày là chi tiết quan trọng nhất — ngày thi đầu không phải lúc tìm hiểu đường hay chỉnh gương.
 
-Khi chốt với chỗ cho thuê quanh khu Long Biên, Bồ Đề, nói rõ mục đích: phụ huynh đi thi cần xe chắc máy, thắng tốt và không phát sinh sự cố giữa những ngày thi quan trọng. Phần lớn chỗ thuê hiểu nhóm khách này và ưu tiên xe đi ổn định; ai từng đi làm ca sáng nên xem thêm gói dài trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/) nếu kỳ thi trùng lịch nhiều việc khác.
+Khi chốt với chỗ cho thuê quanh khu Long Biên, Bồ Đề, nói rõ mục đích: phụ huynh đi thi cần xe chắc máy, thắng tốt và không phát sinh sự cố giữa những ngày thi quan trọng. Phần lớn chỗ thuê hiểu nhóm khách này và ưu tiên xe đi ổn định; ai từng đi làm ca sáng nên xem thêm gói dài trong trang [thuê xe theo tháng](/thue-xe/thue-thang/) nếu kỳ thi trùng lịch nhiều việc khác.
 
 ## Thuê xe máy đưa đón con thi: chọn xe êm và chuẩn bị buổi sáng
 
@@ -44,6 +44,6 @@ Chiều thi xong, phần việc của xe chuyển hướng: chở con về ngh�
 
 ## Thủ tục và các trang đọc trước kỳ thi
 
-Giấy tờ thuê như mọi lần: bản gốc căn cước, biên nhận ghi ngày trả, phần cọc rõ ràng — đọc kỹ trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) để không mất thời gian những ngày bận. Tổng quan các dòng xe nằm trong trang [thuê xe máy](/blog/thue-xe/); kinh nghiệm của từng nhóm người đi đón, đi đưa gom trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/); các mẹo chạy xe quanh phố thi Hà Nội rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Giấy tờ thuê như mọi lần: bản gốc căn cước, biên nhận ghi ngày trả, phần cọc rõ ràng — đọc kỹ trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/) để không mất thời gian những ngày bận. Tổng quan các dòng xe nằm trong trang [thuê xe máy](/thue-xe/); kinh nghiệm của từng nhóm người đi đón, đi đưa gom trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/); các mẹo chạy xe quanh phố thi Hà Nội rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Trả xe sau buổi thi cuối: xe sạch, giấy tờ trọn, và phần việc của những ngày thi khép lại. Kỳ thi chuyển cấp chỉ vài buổi trong đời một đứa trẻ, và chiếc xe được chọn đúng giúp phần lớn những buổi đó trôi qua đúng nghĩa — đúng giờ, êm ru và bình tĩnh, để con bước vào cổng điểm thi với tâm thế tốt nhất mà gia đình có thể trao.

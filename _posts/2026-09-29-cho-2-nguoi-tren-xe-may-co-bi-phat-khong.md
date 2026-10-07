@@ -17,7 +17,7 @@ Trả lời chở người trên xe: theo Nghị định 168/2024/NĐ-CP có hi�
 
 ## Chở 2 người trên xe máy có bị phạt không
 
-Xe mô tô hai bánh theo thiết kế chỉ có chỗ cho người lái và một người ngồi sau. Văn bản xử phạt hiện hành liệt kê hành vi chở quá số người cho phép vào nhóm hành vi bị nghiêm cấm, không phân biệt xe của riêng bạn hay xe thuê, đường phố hay đường quê. Khi bị phát hiện, người điều khiển xe sẽ bị lập biên bản và xử phạt ngay tại chỗ hoặc qua thiết bị ghi hình. Câu hỏi này thuộc chuỗi [hỏi đáp thuê xe máy](/blog/hoi-dap/) được nhiều khách đi nhóm quan tâm.
+Xe mô tô hai bánh theo thiết kế chỉ có chỗ cho người lái và một người ngồi sau. Văn bản xử phạt hiện hành liệt kê hành vi chở quá số người cho phép vào nhóm hành vi bị nghiêm cấm, không phân biệt xe của riêng bạn hay xe thuê, đường phố hay đường quê. Khi bị phát hiện, người điều khiển xe sẽ bị lập biên bản và xử phạt ngay tại chỗ hoặc qua thiết bị ghi hình. Câu hỏi này thuộc chuỗi [hỏi đáp thuê xe máy](/hoi-dap/) được nhiều khách đi nhóm quan tâm.
 
 Vì vậy, nhóm ba người đi trên một chiếc xe hai bánh, gồm người lái và hai người ngồi sau, là trường hợp điển hình bị phạt. Ngồi chếch lên bình xăng, ngồi trước người lái hoặc bám phía sau xe cũng không phải cách lách luật, vì lực lượng làm nhiệm vụ vẫn xác định được tổng số người trên xe vượt mức cho phép khi kiểm tra. Mũ bảo hiểm cho từng người ngồi trên xe vẫn phải đầy đủ dù số người đã vượt quy định.
 
@@ -41,12 +41,12 @@ Nhiều phụ huynh ở Hà Nội dùng xe máy đưa đón con hằng ngày. Tr
 
 ## Chở người trên xe máy khi đi nhóm ở Hà Nội
 
-Đi nhóm bạn bè, gia đình hoặc đoàn du lịch tại Hà Nội, cách chuẩn nhất là chia người đều cho các xe hoặc thuê thêm xe. Cửa hàng cho thuê luôn có sẵn số lượng xe nhiều dòng, từ xe số đến xe tay ga, phục vụ nhóm từ hai đến hàng chục khách. Nếu cần phương án dài ngày, trang [thuê xe máy theo tuần](/blog/thue-xe/thue-tuan/) và trang [bảng giá cho thuê](/blog/bang-gia/) cho bạn so sánh chi phí nhanh.
+Đi nhóm bạn bè, gia đình hoặc đoàn du lịch tại Hà Nội, cách chuẩn nhất là chia người đều cho các xe hoặc thuê thêm xe. Cửa hàng cho thuê luôn có sẵn số lượng xe nhiều dòng, từ xe số đến xe tay ga, phục vụ nhóm từ hai đến hàng chục khách. Nếu cần phương án dài ngày, trang [thuê xe máy theo tuần](/thue-xe/thue-tuan/) và trang [bảng giá cho thuê](/bang-gia/) cho bạn so sánh chi phí nhanh.
 
-Khi đi nhóm, thống nhất trước điểm hẹn, giữ khoảng cách an toàn giữa các xe và tuân thủ quy định chung về chở người, đỗ xe. Các quy định giao thông đường bộ áp dụng cho toàn bộ thành viên trong đoàn, không chỉ người dẫn đầu. Bạn có thể đọc thêm tổng quan tại chuyên mục [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) trước khi xuất phát.
+Khi đi nhóm, thống nhất trước điểm hẹn, giữ khoảng cách an toàn giữa các xe và tuân thủ quy định chung về chở người, đỗ xe. Các quy định giao thông đường bộ áp dụng cho toàn bộ thành viên trong đoàn, không chỉ người dẫn đầu. Bạn có thể đọc thêm tổng quan tại chuyên mục [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) trước khi xuất phát.
 
 ## Nguồn quy định và lưu ý cập nhật
 
-Nội dung trên dựa trên Nghị định 168/2024/NĐ-CP, văn bản gốc được đăng tải trên cổng thông tin điện tử của Chính phủ, bạn có thể đọc trực tiếp [văn bản nghị định](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) để đối chiếu từng khoản. Khung phạt và danh mục hành vi bị cấm có thể thay đổi theo văn bản sửa đổi mới, nên hãy kiểm tra lại trước các chuyến đi dài. Câu hỏi này thuộc nhóm bài [hỏi đáp pháp lý](/blog/hoi-dap/hoi-dap-phap-ly/) của blog.
+Nội dung trên dựa trên Nghị định 168/2024/NĐ-CP, văn bản gốc được đăng tải trên cổng thông tin điện tử của Chính phủ, bạn có thể đọc trực tiếp [văn bản nghị định](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) để đối chiếu từng khoản. Khung phạt và danh mục hành vi bị cấm có thể thay đổi theo văn bản sửa đổi mới, nên hãy kiểm tra lại trước các chuyến đi dài. Câu hỏi này thuộc nhóm bài [hỏi đáp pháp lý](/hoi-dap/hoi-dap-phap-ly/) của blog.
 
 Nếu nhóm của bạn cần thêm xe để không ai phải chở quá người, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, cửa hàng luôn sẵn xe phục vụ nhóm mọi quy mô.

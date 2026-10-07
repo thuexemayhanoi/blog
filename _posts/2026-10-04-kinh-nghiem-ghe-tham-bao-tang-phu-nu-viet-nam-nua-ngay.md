@@ -44,6 +44,6 @@ Với xe máy, trẻ nhỏ đi kèm cần mũ bảo hiểm vừa đầu và ch�
 
 Trước khi rời bãi xe, dành một phút kiểm tra lại đồ đạc: mũ bảo hiểm, giấy tờ, sạc dự phòng. Với xe thuê, vòng kiểm tra nhanh quanh xe trước khi nổ máy gần như là phản xạ bắt buộc: lốp, phanh, gương, đèn. Chiều về hướng Long Biên qua cầu, nếu trời chạng vạng thì bật đèn sớm và giữ làn thẳng trên thân cầu, vì khung chiều trên cầu có lúc dòng xe buýt và xe tải chạy khá sát.
 
-Ai muốn tham khảo trước các điểm lân cận có thể xem chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/); riêng vùng quanh hồ thì nên lướt qua trang chủ về [du lịch](/blog/du-lich/) để nắm các lịch trình kiểu nửa ngày tương tự. Người mới thuê xe máy lần đầu vào trung tâm thì mục [kinh nghiệm](/blog/kinh-nghiem/) có sẵn các bài về gửi xe quanh bờ hồ và chạy phố giờ cao điểm, đọc trước mười phút giúp đỡ rất nhiều lúc đang thực đi.
+Ai muốn tham khảo trước các điểm lân cận có thể xem chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/); riêng vùng quanh hồ thì nên lướt qua trang chủ về [du lịch](/du-lich/) để nắm các lịch trình kiểu nửa ngày tương tự. Người mới thuê xe máy lần đầu vào trung tâm thì mục [kinh nghiệm](/kinh-nghiem/) có sẵn các bài về gửi xe quanh bờ hồ và chạy phố giờ cao điểm, đọc trước mười phút giúp đỡ rất nhiều lúc đang thực đi.
 
 Nửa ngày, một bảo tàng, một vòng hồ: lịch trình ngắn vậy thôi nhưng trọn vẹn, và với người đi xe hai bánh, đó là cách gần gũi nhất để chạm vào phần đời sống của Hà Nội mà ô tô khó với tới.

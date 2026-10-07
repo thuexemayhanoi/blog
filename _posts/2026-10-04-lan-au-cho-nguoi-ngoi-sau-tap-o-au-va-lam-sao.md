@@ -48,6 +48,6 @@ Mũ bảo hiểm đủ hai chiếc là điều kiện đầu: mũ vừa từng �
 
 Sau buổi bãi, trình tự ra đường nên là: đường quen vắng — đường quen có người — giờ phố ít đông. Chặng đầu giữ dưới ba mươi cây số một giờ, né giờ tan tầm quanh khu đông như khu Hồ Gươm, và chọn tuyến quen để đầu bạn rảnh phần đường, tập trung phần người sau. Với xe thuê, kiểm tra cùng chủ xe trước buổi tập: phanh, lốp, gương — chân chống và yên sau cũng cần chắc, vì buổi hôm nay cả hai phần đó làm việc nhiều hơn mọi ngày.
 
-Người mới còn nên đọc lướt phần kỹ năng cơ bản trước khi tập trong mục [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/); các câu hỏi khác của người mới gộp trong mục [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/); trang [hỏi đáp](/blog/hoi-dap/) là mục lục chung. Người thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường.
+Người mới còn nên đọc lướt phần kỹ năng cơ bản trước khi tập trong mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/); các câu hỏi khác của người mới gộp trong mục [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/); trang [hỏi đáp](/hoi-dap/) là mục lục chung. Người thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường.
 
 Lần đầu chở người ngồi sau cuối cùng gói trong một câu: tập đủ ở chỗ vắng, nói rõ tín hiệu, và ra đường theo trình tự quen. Làm đúng nhịp đó, người ngồi sau của bạn có mặt trải nghiệm đầu tiên thoải mái — và đó là cách duy nhất để có lần thứ hai.

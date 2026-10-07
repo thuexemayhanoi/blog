@@ -50,10 +50,10 @@ Mang theo áo mưa mỏng gấp gọn trong cốp, mặc lớp áo gió buổi s
 
 ## Câu hỏi thường gặp
 
-Giao mùa có nên thuê xe tay ga hay xe số? Cả hai đều chạy tốt, nhưng nếu chặng đi nhiều đoạn ngập cục bộ sau mưa, xe số có vị thế ngồi cao hơn giúp bạn dễ xử lý hơn. Mọi thắc mắc về chọn xe theo nhu cầu từng chặng đều được giải đáp tại mục [hỏi đáp](/blog/hoi-dap/).
+Giao mùa có nên thuê xe tay ga hay xe số? Cả hai đều chạy tốt, nhưng nếu chặng đi nhiều đoạn ngập cục bộ sau mưa, xe số có vị thế ngồi cao hơn giúp bạn dễ xử lý hơn. Mọi thắc mắc về chọn xe theo nhu cầu từng chặng đều được giải đáp tại mục [hỏi đáp](/hoi-dap/).
 
 Giao mùa có cần thay loại nhớt đặc biệt không? Không bắt buộc, nhưng nếu xe phải chạy nhiều ngày mưa, nhờ cửa hàng kiểm tra nhớt và gió trong lịch bảo dưỡng.
 
 Mưa rào giao mùa nên chờ hay đi tiếp? Nếu mưa to kèm gió, chờ dưới mái hiên an toàn hơn hẳn; nếu chỉ mưa nhỏ, đi chậm với đèn bật là ổn.
 
-Tham khảo thêm về cách xử lý mặt đường ướt trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), và các kỹ năng tổng quát tại mục [kỹ năng lái xe máy](/blog/ky-nang/). Giao mùa không đáng sợ nếu bạn chuẩn bị trước.
+Tham khảo thêm về cách xử lý mặt đường ướt trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), và các kỹ năng tổng quát tại mục [kỹ năng lái xe máy](/ky-nang/). Giao mùa không đáng sợ nếu bạn chuẩn bị trước.

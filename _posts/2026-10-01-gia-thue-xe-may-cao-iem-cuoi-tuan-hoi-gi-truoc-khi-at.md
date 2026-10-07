@@ -19,7 +19,7 @@ Giá thuê xe máy cao điểm cuối tuần là điều nhiều khách lần đ
 
 Cung và cầu là lý do gốc. Cuối tuần, số người cần thuê xe tăng vọt: khách đi ngoại thành, khách đi tỉnh, nhóm bạn đi biển, còn nguồn xe của một điểm cho thuê thì cố định. Xe đẹp, đời mới, máy khỏe được chọn trước, phần còn lại là các dòng phổ thông, nên mức giá cuối tuần thường nhỉnh hơn ngày thường ở phần lớn điểm cho thuê. Ngoài ra, cuối tuần khách thuê dài hơn: lấy tối thứ Sáu, trả chiều Chủ nhật là ba ngày tính giá, khác hẳn ngày thường khách chỉ lấy vài tiếng.
 
-Một nguyên do nữa là chi phí vận hành điểm cho thuê cuối tuần cao hơn: nhân viên làm việc thêm ca, xe được rửa và kiểm tra gấp rút giữa các lượt thuê. Khách không cần thông cảm, chỉ cần hiểu rằng mức giá báo trước không phải ngẫu nhiên, và cứ hỏi thẳng để biết đâu là phần giá thật, đâu là phần phụ phí. Cách đọc báo giá thuê đã có bài riêng trong chuyên mục [giá thuê](/blog/thue-xe/gia-thue/), khách xem trước để nắm các khoản thường có trên báo giá.
+Một nguyên do nữa là chi phí vận hành điểm cho thuê cuối tuần cao hơn: nhân viên làm việc thêm ca, xe được rửa và kiểm tra gấp rút giữa các lượt thuê. Khách không cần thông cảm, chỉ cần hiểu rằng mức giá báo trước không phải ngẫu nhiên, và cứ hỏi thẳng để biết đâu là phần giá thật, đâu là phần phụ phí. Cách đọc báo giá thuê đã có bài riêng trong chuyên mục [giá thuê](/thue-xe/gia-thue/), khách xem trước để nắm các khoản thường có trên báo giá.
 
 ## Những câu nên hỏi trước khi chốt đặt xe cuối tuần
 
@@ -31,14 +31,14 @@ Câu thứ năm, riêng với khách đi tỉnh: xe được phép đi xa tới 
 
 ## Đặt sớm cuối tuần: giữ chỗ mà không vội vàng
 
-Cách tốt nhất với cao điểm là đặt trước từ giữa tuần. Khách gọi hỏi thứ Tư hoặc thứ Năm: chọn được dòng xe, chốt mức giá theo báo giá công khai, và chỉ cần để lại thông tin cùng thời điểm nhận xe. Đặt sớm khác trả trước nhiều: khách chỉ cần giữ chỗ, điểm cho thuê giữ xe theo khung giờ đã hẹn. Mức giá chi tiết của từng dòng được niêm yết tại trang [bảng giá](/blog/bang-gia/), khách đối chiếu giá cuối tuần với giá ngày thường ngay trên bảng thay vì hỏi từng chiếc.
+Cách tốt nhất với cao điểm là đặt trước từ giữa tuần. Khách gọi hỏi thứ Tư hoặc thứ Năm: chọn được dòng xe, chốt mức giá theo báo giá công khai, và chỉ cần để lại thông tin cùng thời điểm nhận xe. Đặt sớm khác trả trước nhiều: khách chỉ cần giữ chỗ, điểm cho thuê giữ xe theo khung giờ đã hẹn. Mức giá chi tiết của từng dòng được niêm yết tại trang [bảng giá](/bang-gia/), khách đối chiếu giá cuối tuần với giá ngày thường ngay trên bảng thay vì hỏi từng chiếc.
 
 Một thói quen đáng hình thành là hỏi giá theo cả hai khung: nếu kế hoạch linh hoạt, khách dời chuyến đi sang các ngày trong tuần sẽ vừa dễ có xe vừa đỡ tốn kém. Với khách chỉ rảnh cuối tuần, cách khác là nhận xe tối thứ Sáu sau giờ cao điểm và trả vào sáng thứ Hai sớm, tránh khung ngày Chủ nhật mà mọi người cùng trả xe. Mẹo nhỏ: gọi trước vào ban ngày, điểm cho thuê vắng hơn, nhân viên trả lời kỹ hơn là gọi giữa lúc đông khách.
 
 ## Sau khi đặt: chuẩn bị cho buổi nhận xe
 
-Buổi nhận xe cuối tuần thường gấp, nên khách chuẩn bị sẵn giấy tờ: giấy phép lái xe, giấy tờ tùy thân, và số tiền cọc theo hình thức đã thống nhất. Khách kiểm tra xe kỹ theo các bước đã nói trong trang [thuê xe](/blog/thue-xe/): đèn, còi, phanh, nhớt, xăng mốc, và chụp hình hiện trạng xe trước khi rời đi. Cuối tuần điểm cho thuê giao xe dồn dập, mọi vết trầy có sẵn cần được ghi nhận ngay, để lúc trả không phải tranh rằng vết đó có sẵn hay do mình.
+Buổi nhận xe cuối tuần thường gấp, nên khách chuẩn bị sẵn giấy tờ: giấy phép lái xe, giấy tờ tùy thân, và số tiền cọc theo hình thức đã thống nhất. Khách kiểm tra xe kỹ theo các bước đã nói trong trang [thuê xe](/thue-xe/): đèn, còi, phanh, nhớt, xăng mốc, và chụp hình hiện trạng xe trước khi rời đi. Cuối tuần điểm cho thuê giao xe dồn dập, mọi vết trầy có sẵn cần được ghi nhận ngay, để lúc trả không phải tranh rằng vết đó có sẵn hay do mình.
 
 Tóm lại, giá thuê xe máy cao điểm cuối tuần khác ngày thường là chuyện có lý do rõ, và khách hoàn toàn chủ động được nếu đặt sớm, hỏi đủ năm câu, và chuẩn bị giấy tờ trước. Làm đủ các bước này, chuyến cuối tuần bắt đầu bằng đúng xe mình chọn, đúng giá đã nghe, thay vì bằng cảnh gọi mười số điện thoại rồi nhận xe cuối đám.
 
-Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Khách định đi chơi cuối tuần cứ gọi hỏi trước từ giữa tuần để được giữ dòng xe hợp chuyến và nghe báo giá rõ ràng từng khoản.
+Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Khách định đi chơi cuối tuần cứ gọi hỏi trước từ giữa tuần để được giữ dòng xe hợp chuyến và nghe báo giá rõ ràng từng khoản.

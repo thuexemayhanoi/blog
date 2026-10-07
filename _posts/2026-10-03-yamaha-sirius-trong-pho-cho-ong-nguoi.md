@@ -26,7 +26,7 @@ Xe nhỏ còn cho bạn lối thoát: khi dòng xe phía trước tắc đặc, 
 
 Trong chợ đông, mắt bạn phải làm việc khác với trên đường thường. Thay vì nhìn xe, hãy nhìn chân người: hướng chân xoay là hướng họ sắp đi qua. Người vác gánh, đẩy xe hàng thường đi theo vệt quen thuộc và chậm, nên dễ đoán hơn người đang vừa đi vừa mải xem hàng hai bên. Trẻ em chạy trong chợ là biến số khó đoán nhất: thấp hơn tầm nhìn, tự nhiên đổi hướng, nên cứ thấy bóng nhỏ là giảm sẵn tốc độ.
 
-Về vị trí trên đường, hãy đi gần mép phải phần đường dành cho xe, tránh làn giữa nơi xe container và ôm giao hàng tranh nhau. Gần các sạp bày hàng, người bán thò tay ra sắp hàng không nhìn đường, nên giữ khoảng cách vai một mét với mép sạp. Quy tắc dùng còi trong chợ cũng khác: một tiếng còi ngắn khi bạn còn cách người vài mét hiệu quả hơn còi dài ngay sát lưng, vốn chỉ khiến họ giật mình và đổi hướng đột ngột về phía bạn. Những tình huống giao thông đan xen kiểu này được phân tích kỹ hơn trong bài về [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Về vị trí trên đường, hãy đi gần mép phải phần đường dành cho xe, tránh làn giữa nơi xe container và ôm giao hàng tranh nhau. Gần các sạp bày hàng, người bán thò tay ra sắp hàng không nhìn đường, nên giữ khoảng cách vai một mét với mép sạp. Quy tắc dùng còi trong chợ cũng khác: một tiếng còi ngắn khi bạn còn cách người vài mét hiệu quả hơn còi dài ngay sát lưng, vốn chỉ khiến họ giật mình và đổi hướng đột ngột về phía bạn. Những tình huống giao thông đan xen kiểu này được phân tích kỹ hơn trong bài về [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Giữ khoảng cách và xử lý chạm trán
 
@@ -38,7 +38,7 @@ Trường hợp chạm nhẹ vẫn có thể xảy ra dù cẩn thận. Nếu b�
 
 Trước khi vào chợ, thắt chặt mọi thứ trên người: quai túi, dây áo, khăn choàng. Quầng chợ là nơi quật túi xách xảy ra nhiều, nên túi khoác bên hông nên chuyển sang đeo lệch qua vai về phía trước. Đồ mua về nên để trong cốp hoặc giỏ cứng, không treo lủng lẳng khiến người phía sau tóm được. Chạy ra khỏi chợ, đừng vội tăng ga: mép đường ra vào thường có người vẫn đang đi bộ giữa xe, hãy thoát khỏi khu đông trước năm mươi mét rồi mới về số và tăng tốc theo dòng xe.
 
-Ai mới thuê xe số nên làm quen với điểm côn và điểm ga của xe ở đoạn vắng trước khi mạo hiểm vào chợ: mỗi chiếc Sirius đều giống nhau về cấu tạo nhưng khác nhau về độ mòn côn, và biết chính xác điểm côn của xe đang cầm là lợi thế lớn nhất trong đám đông. Để hiểu thêm đặc tính của dòng xe này, đọc bài tổng quan về [xe số](/blog/xe-may/xe-so/), còn ai cần ôn lại nền tảng điều khiển xe nói chung có thể bắt đầu từ trang về thuê [xe máy](/blog/xe-may/).
+Ai mới thuê xe số nên làm quen với điểm côn và điểm ga của xe ở đoạn vắng trước khi mạo hiểm vào chợ: mỗi chiếc Sirius đều giống nhau về cấu tạo nhưng khác nhau về độ mòn côn, và biết chính xác điểm côn của xe đang cầm là lợi thế lớn nhất trong đám đông. Để hiểu thêm đặc tính của dòng xe này, đọc bài tổng quan về [xe số](/xe-may/xe-so/), còn ai cần ôn lại nền tảng điều khiển xe nói chung có thể bắt đầu từ trang về thuê [xe máy](/xe-may/).
 
 ## Kết lại
 

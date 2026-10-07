@@ -16,7 +16,7 @@ writer: W1
 
 Quãng đường mười ki-lô-mét, kiểu quãng đi làm, đi học hay dạo phố quanh hồ của Hà Nội, là khoản cách mà cả xe điện lẫn xe xăng đều xử lý dễ. Câu hỏi xe điện hay xe xăng thuê quãng ngắn vì vậy không nằm ở xe nào đi được, mà nằm ở cái nào hợp lịch trình và thói quen của bạn hơn. Bài này so từng khía cạnh thực tế để bạn chọn nhanh, không phải đo đạc nhiều.
 
-Tổng quan về hai nhóm xe khi thuê nằm ở trang [xe máy](/blog/xe-may/), nhóm [xe điện](/blog/xe-may/xe-dien/), cách so từng mẫu ở [so sánh xe](/blog/xe-may/so-sanh-xe/), và cách chọn loại xe theo nhu cầu ở [chọn loại xe](/blog/xe-may/chon-loai-xe/).
+Tổng quan về hai nhóm xe khi thuê nằm ở trang [xe máy](/xe-may/), nhóm [xe điện](/xe-may/xe-dien/), cách so từng mẫu ở [so sánh xe](/xe-may/so-sanh-xe/), và cách chọn loại xe theo nhu cầu ở [chọn loại xe](/xe-may/chon-loai-xe/).
 
 ## Xe điện hay xe xăng thuê quãng ngắn: khác biệt nằm ở đâu
 

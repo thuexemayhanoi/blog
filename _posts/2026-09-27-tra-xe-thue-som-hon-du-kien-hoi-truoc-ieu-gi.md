@@ -33,7 +33,7 @@ Nếu kế hoạch của bạn vốn có khả năng thay đổi, hãy cân nh�
 
 Trả sớm còn liên quan đến tiền đặt cọc và giấy tờ đã đặt. Nếu cọc giữ bằng tiền mặt, hỏi người nhận lại cọc là ai và cần ký vào biên bản gì. Nếu cọc giữ bằng giấy tờ, xác nhận sẽ nhận lại ngay tại chỗ khi trả xe hay sau đó bao lâu. Những chi tiết này tưởng nhỏ nhưng lại là phần mất thời gian nhất nếu không hỏi trước, vì nó phụ thuộc vào ca làm việc của cửa hàng trong ngày bạn đến trả.
 
-Để tự so sánh, bạn có thể dùng công cụ tính giá trên trang [bảng giá thuê xe](/blog/bang-gia/) với các phương án kỳ hạn khác nhau trước khi chốt. Sau đó gọi 0942 467 674 hỏi trực tiếp điều khoản trả sớm cho kỳ thuê cụ thể của bạn ở Hà Nội. Cách hỏi rõ ràng trước không bao giờ là thừa, vì nó biến một tình huống có thể tranh luận thành một con số đã biết trước. Tổng quan các bước ở khâu nhận và trả xe nằm tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), phần chuẩn bị giấy tờ trước khi thuê nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Để tự so sánh, bạn có thể dùng công cụ tính giá trên trang [bảng giá thuê xe](/bang-gia/) với các phương án kỳ hạn khác nhau trước khi chốt. Sau đó gọi 0942 467 674 hỏi trực tiếp điều khoản trả sớm cho kỳ thuê cụ thể của bạn ở Hà Nội. Cách hỏi rõ ràng trước không bao giờ là thừa, vì nó biến một tình huống có thể tranh luận thành một con số đã biết trước. Tổng quan các bước ở khâu nhận và trả xe nằm tại trang [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), phần chuẩn bị giấy tờ trước khi thuê nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Ghi nhớ
 

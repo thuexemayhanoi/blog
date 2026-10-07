@@ -52,9 +52,9 @@ Ba lỗi gặp nhiều nhất là: mang IDP nhưng quên giấy phép gốc; man
 
 ## Xem thêm
 
-- [Thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/)
-- [Hạng giấy phép lái xe khi thuê xe máy](/blog/an-toan-phap-ly/giay-phep-lai-xe/)
-- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
+- [Thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/)
+- [Hạng giấy phép lái xe khi thuê xe máy](/an-toan-phap-ly/giay-phep-lai-xe/)
+- [Giá thuê xe máy theo ngày](/thue-xe/gia-thue/)
 
 ## Kết luận
 

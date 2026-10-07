@@ -16,7 +16,7 @@ writer: W1
 
 Câu hỏi thuê xe máy theo giờ hay theo ngày loại nào rẻ hơn không có đáp án chung cho mọi trường hợp, vì giá thuê theo giờ xe máy chỉ lời khi bạn dùng xe trong khung ngắn. Dưới ngưỡng vài giờ, tính giờ thường gọn; vượt qua một phần ngày, thuê nguyên ngày lại tiện hơn. Bài này chỉ cách so hai loại đúng kiểu, kèm vài tình huống thực tế hay gặp ở Hà Nội để bạn tự phán đoán cho chuyến của mình.
 
-Tổng quan nhóm hỏi đáp về giá nằm ở trang [hỏi đáp](/blog/hoi-dap/), các yếu tố ảnh hưởng giá thuê nằm trong phần [giá thuê xe máy](/blog/thue-xe/gia-thue/), còn cách tính tiền thuê ngày ở trang [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/).
+Tổng quan nhóm hỏi đáp về giá nằm ở trang [hỏi đáp](/hoi-dap/), các yếu tố ảnh hưởng giá thuê nằm trong phần [giá thuê xe máy](/thue-xe/gia-thue/), còn cách tính tiền thuê ngày ở trang [thuê xe máy theo ngày](/thue-xe/thue-ngay/).
 
 ## So hai loại thuê đúng kiểu: gộp chi phí và tính ngưỡng
 

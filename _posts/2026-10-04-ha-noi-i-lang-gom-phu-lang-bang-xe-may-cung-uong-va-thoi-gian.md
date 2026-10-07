@@ -46,6 +46,6 @@ Chọn gốm cho đi đường xe máy nên ưu tiên món vừa tay: ấm chén
 
 Quãng về chạy theo đúng đường cũ: chậm trong các đoạn thị trấn, nhanh vừa trên trục chính, và về qua cầu trước khung chiều đông chiều muộn. Trên đường về có thể dừng một điểm ăn nhẹ quanh vùng Thuận Thành nếu muốn kéo dài chuyến. Về tới nội đô, né các đoạn phố chặn giờ tan tầm quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Người mới chạy cung hướng bắc nên đọc thêm các tuyến cùng hướng trong mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/); theo dõi thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Người mới chạy cung hướng bắc nên đọc thêm các tuyến cùng hướng trong mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/); theo dõi thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Cung Phù Lãng ngắn nhưng đầy chất liệu: một sáng đường trường, một trưa làng nghề ven sông, và một yên sau chở gốm về. Chốt khung giờ sớm, chuẩn bị chỗ đựng gốm cho chắc, và chuyến nửa ngày này sẽ cho bạn nhiều hơn đúng nghĩa một chuyến đi và mua đồ.

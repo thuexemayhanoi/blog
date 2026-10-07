@@ -17,7 +17,7 @@ Bồi thường bảo hiểm TNDS là phần mà nhiều người đi xe máy ch
 
 ## TNDS che những gì và không che gì
 
-Loại bảo hiểm này chi trả cho bên thứ ba: người đi đường bị va phải, chiếc xe bị hư hại, tài sản đổ vỡ do xe của bạn gây ra. Nói ngắn lại, nó trả cho thiệt hại của người khác chứ không trả cho chính chiếc xe bạn đang cầm lái. Ví dụ: nếu xe bạn tông vào một chiếc xe đạp bên cạnh, phần chi cho người đi xe đạp và chiếc xe đạp thuộc TNDS, còn tay lái và đèn xe của bạn không nằm trong phạm vi này. Hư hỏng của chính xe thuộc nhóm tự nguyện, và bạn có thể đọc kỹ hơn về các nhóm đó trong bài về [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/).
+Loại bảo hiểm này chi trả cho bên thứ ba: người đi đường bị va phải, chiếc xe bị hư hại, tài sản đổ vỡ do xe của bạn gây ra. Nói ngắn lại, nó trả cho thiệt hại của người khác chứ không trả cho chính chiếc xe bạn đang cầm lái. Ví dụ: nếu xe bạn tông vào một chiếc xe đạp bên cạnh, phần chi cho người đi xe đạp và chiếc xe đạp thuộc TNDS, còn tay lái và đèn xe của bạn không nằm trong phạm vi này. Hư hỏng của chính xe thuộc nhóm tự nguyện, và bạn có thể đọc kỹ hơn về các nhóm đó trong bài về [bảo hiểm xe máy](/an-toan-phap-ly/bao-hiem/).
 
 Giấy chứng nhận bảo hiểm thường nằm gấp trong túi giấy tờ xe. Việc đầu tiên sau va chạm là mở ra xem nó còn hiệu lực hay không: giấy hết hạn đồng nghĩa với việc phần trách nhiệm dân sự quay về chủ xe theo quy định, và người gây thiệt hại không còn được hỗ trợ chi trả. Nếu bạn đi xe thuê, hãy hỏi vị trí túi giấy tờ ngay khi nhận xe, đừng đợi đến lúc cần mới lục tìm trong cốp.
 
@@ -31,7 +31,7 @@ Nếu chỉ va quẹt nhẹ, hai bên không ai bị thương và thống nhất
 
 Sau khi hiện trường đã xử lý xong, bạn gọi hotline của công ty bảo hiểm, số này được in trên giấy chứng nhận. Thời hạn khai báo thường tính bằng ngày, và một đến hai ngày là mức an toàn nhất: khai càng sớm thì khảo sát càng gần hiện trạng thực tế. Khi gọi, hãy báo biển số xe, ngày giờ và địa điểm va chạm, mô tả ngắn gọn những gì đã xảy ra, và hỏi luôn danh mục giấy tờ mà công ty yêu cầu nộp kèm. Nhiều công ty nhận khai qua ứng dụng hoặc trang web, nhưng cuộc gọi đầu tiên vẫn nên thực hiện để mở hồ sơ và nhận số tiếp nhận.
 
-Người thuê xe cần thêm một cuộc gọi nữa: báo cho cửa hàng nơi mình nhận chiếc xe đang đi. Cửa hàng là chủ xe nên cần biết va chạm trong vòng bạn biết, và có những thủ tục chỉ chủ xe mới làm được với công ty bảo hiểm. Hướng chi tiết cho từng tình huống với xe thuê nằm trong bài về [xử lý tình huống với xe thuê](/blog/thue-xe/su-co/).
+Người thuê xe cần thêm một cuộc gọi nữa: báo cho cửa hàng nơi mình nhận chiếc xe đang đi. Cửa hàng là chủ xe nên cần biết va chạm trong vòng bạn biết, và có những thủ tục chỉ chủ xe mới làm được với công ty bảo hiểm. Hướng chi tiết cho từng tình huống với xe thuê nằm trong bài về [xử lý tình huống với xe thuê](/thue-xe/su-co/).
 
 ## Hồ sơ yêu cầu bồi thường bảo hiểm TNDS gồm những gì
 
@@ -51,4 +51,4 @@ Nếu lỗi thuộc về bên kia, bạn chuyển sang vai trò người đượ
 
 Với xe máy thuê, giấy chứng nhận bảo hiểm thường để trong cốp xe kèm bộ giấy tờ, và phần trách nhiệm khi xảy ra va chạm được quy định trong hợp đồng thuê. Người thuê là người trình bày sự việc vì người thuê ở hiện trường, còn cửa hàng là chủ giấy tờ nên giữ vai trò lo phần thủ tục với công ty bảo hiểm. Gọi cửa hàng ngay sau khi gọi bảo hiểm, hỏi xem hợp đồng phân định phần chi phí thiệt hại ra sao, rồi để cửa hàng hướng dẫn việc nộp hồ sơ: đó là cách nhanh nhất để không làm sai một bước nào. Nếu hợp đồng yêu cầu người thuê bồi hoàn theo hóa đơn thực tế, hãy giữ lại mọi chứng từ gốc vì đó là căn cứ để đối chiếu.
 
-Tóm lại, thủ tục bồi thường bảo hiểm TNDS không phức tạp nếu bạn nhớ ba mốc: xử lý hiện trường đúng cách, báo bảo hiểm và cửa hàng sớm, nộp đủ bộ giấy tờ trong một lần. Phần [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/) và trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) là hai bản đọc kèm giúp toàn bộ phần pháp lý của một chuyến đi nằm gọn trong túi áo.
+Tóm lại, thủ tục bồi thường bảo hiểm TNDS không phức tạp nếu bạn nhớ ba mốc: xử lý hiện trường đúng cách, báo bảo hiểm và cửa hàng sớm, nộp đủ bộ giấy tờ trong một lần. Phần [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) và trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) là hai bản đọc kèm giúp toàn bộ phần pháp lý của một chuyến đi nằm gọn trong túi áo.

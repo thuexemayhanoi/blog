@@ -18,7 +18,7 @@ Lưu ý chạy xe gần Đầm Sen Tây Hồ chủ yếu liên quan tới trục
 
 Lạc Long Quân là trục chính ven Hồ Tây hướng Nhật Tân, mặt đường rộng nhưng các ngã tư nối sang Âu Cơ và các đường vào khu dân cư dày đặc, đèn tín hiệu đặt không đồng bộ giữa các đoạn. Thói quen nguy hiểm hay gặp ở đây là chạy nhanh giữa các ngã tư vì thấy đường thoáng; thực tế xe từ hẻm và xe rẽ trái vẫn xuất hiện liên tục, nên mỗi ngã tư nên giảm nhẹ ga, quan sát hai bên rồi mới vượt. Đêm không có đèn đầy đủ ở vài đoạn vỉa hè đang sửa, giữ làn giữa và tránh mép ngoài.
 
-Chiều muộn ngày cuối tuần, trục này đông nhất: dòng xe từ trung tâm ra các khu ven hồ, cộng khách tới đầm sen và quán ven hồ. Khung này không nên luồn lách, vì phần đông xe quanh khu là người quen đường và đi đều; khách lạ luồn giữa dòng đều đó rất dễ va chạm tại các ngã tư. Tình huống xử lý dòng đông được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Chiều muộn ngày cuối tuần, trục này đông nhất: dòng xe từ trung tâm ra các khu ven hồ, cộng khách tới đầm sen và quán ven hồ. Khung này không nên luồn lách, vì phần đông xe quanh khu là người quen đường và đi đều; khách lạ luồn giữa dòng đều đó rất dễ va chạm tại các ngã tư. Tình huống xử lý dòng đông được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Lưu ý chạy xe gần Đầm Sen Tây Hồ: đoạn trước khu vực đầm
 
@@ -30,7 +30,7 @@ Ngoài mùa sen, khu vực quanh đầm yên tĩnh hơn hẳn, các quán ven h�
 
 Mùa sen, các bãi xe quanh khu ẩm thực và ven hồ mở hết nhưng vẫn có lúc kín vào sáng cuối tuần; chuẩn bị tinh thần gửi xa hơn một đoạn rồi đi bộ lại, thay vì vòng vòng tìm bãi sát và chen dòng trước cổng. Mức phí giữ xe máy thường nhỏ, nhưng giữa các bãi có thể khác nhau, nên hỏi trước khi đưa xe, và nên ưu tiên bãi có người trông trực tiếp hơn bãi bừa để tự vào.
 
-Xe máy thuê gửi tại đây nên khóa cổ và khóa từ, lấy theo mũ và túi quý, chụp lại vị trí cùng biển số. Cuối buổi lấy xe khi bãi đông, kiểm tra gương và phanh trước khi lăn ra vì các xe xếp sát dễ gây lệch gương. Khách định ăn uống ở quán ven hồ sau buổi chụp ảnh nên hỏi quán có giữ xe được không, vừa đỡ mất phí hai lần vừa để xe trong tầm mắt. Kinh nghiệm giữ xe ở các điểm tham quan quanh Hà Nội được kể tại trang [du lịch Hà Nội](/blog/du-lich/), còn các câu hỏi về đi lại được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Xe máy thuê gửi tại đây nên khóa cổ và khóa từ, lấy theo mũ và túi quý, chụp lại vị trí cùng biển số. Cuối buổi lấy xe khi bãi đông, kiểm tra gương và phanh trước khi lăn ra vì các xe xếp sát dễ gây lệch gương. Khách định ăn uống ở quán ven hồ sau buổi chụp ảnh nên hỏi quán có giữ xe được không, vừa đỡ mất phí hai lần vừa để xe trong tầm mắt. Kinh nghiệm giữ xe ở các điểm tham quan quanh Hà Nội được kể tại trang [du lịch Hà Nội](/du-lich/), còn các câu hỏi về đi lại được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Mưa và đường ven hồ trơn
 
@@ -40,4 +40,4 @@ Mùa sen mưa to vẫn nên hoãn buổi giữa đầm: đường mòn giữa se
 
 ## Kết luận về chạy xe quanh đầm sen
 
-Tóm lại, chạy xe quanh khu vực đầm sen Tây Hồ cần ba thói quen: chậm lại trước các cổng bãi xe và các nhóm dừng ven đường, tránh khung chiều muộn cuối tuần trên trục Lạc Long Quân, và gửi xe một bãi cố định có người trông. Khu vực này không khó đi, chỉ đậm thêm khách theo mùa sen, nên ai giữ được tốc độ vừa và đề phòng khách dừng bất ngờ thì buổi đi gần như không có sự cố. Danh mục điểm đến quanh Hà Nội có tại trang [điểm đến](/blog/du-lich/diem-den/). Khách cần thuê xe máy tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+Tóm lại, chạy xe quanh khu vực đầm sen Tây Hồ cần ba thói quen: chậm lại trước các cổng bãi xe và các nhóm dừng ven đường, tránh khung chiều muộn cuối tuần trên trục Lạc Long Quân, và gửi xe một bãi cố định có người trông. Khu vực này không khó đi, chỉ đậm thêm khách theo mùa sen, nên ai giữ được tốc độ vừa và đề phòng khách dừng bất ngờ thì buổi đi gần như không có sự cố. Danh mục điểm đến quanh Hà Nội có tại trang [điểm đến](/du-lich/diem-den/). Khách cần thuê xe máy tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.

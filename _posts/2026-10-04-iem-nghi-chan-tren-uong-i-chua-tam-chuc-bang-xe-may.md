@@ -46,6 +46,6 @@ Vài điểm phụ ven trục nam đáng nhớ: các đoạn qua đồng chiêm 
 
 Quãng về của cung này đáng được xếp như một chặng độc lập: rời khu chùa trước ba giờ rưỡi chiều cho kịp khung thoáng của trục, hoặc dừng ăn tối nhẹ ở mốc hai rồi chạy đêm với đèn chuẩn. Trục nam đêm có đoạn trống dài: bật đèn sớm, không vượt khi không thấy thoáng hai đầu, và giữ làn thẳng chờ cụm đèn khu dân cư. Về tới vành đai nội đô, nhớ tính đường né các đoạn phố chặn cuối tuần quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Muốn đọc thêm các cung cuối tuần khác cùng kiểu chia nghỉ, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung xa lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm các cung cuối tuần khác cùng kiểu chia nghỉ, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung xa lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Cung Tam Chúc chia ba mốc mà trọn ý nghĩa: quán nước khởi đầu, bún giữa chừng tỉnh lẻ, và hồ chùa khép lại. Nghỉ đúng chỗ trên đường dài chính là cách tiết kiệm sức mạnh nhất — để phần dư hơi tốt nhất dành cho nơi bạn thật sự muốn đứng lâu.

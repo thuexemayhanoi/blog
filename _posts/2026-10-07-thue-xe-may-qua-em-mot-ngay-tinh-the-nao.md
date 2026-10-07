@@ -16,7 +16,7 @@ writer: W1
 
 Bạn nhận xe lúc bảy giờ tối, đi chơi buổi tối, để xe qua đêm ở nhà và chỉ trả lúc chín giờ sáng hôm sau. Tổng thời gian giữ xe chưa đầy một ngày, vậy liệu có bị tính giá hai ngày không? Câu hỏi thuê xe máy qua đêm một ngày tính thế nào xuất hiện rất thường xuyên, vì nhiều kế hoạch ở Hà Nội đúng kiểu này: đi đêm về sáng, nhận chiều trả sáng, hoặc nhận sáng hôm nay trả chiều hôm sau. Bài này giải thích quy tắc tính ngày thường gặp, khi nào bạn bị tính thêm, và cách hỏi để giá không bị bất ngờ.
 
-Các tình huống thuê ngắn hạn nằm ở nhóm [thuê xe trong ngày](/blog/thue-xe/thue-ngay/), cách hiểu báo giá ở [giá thuê](/blog/thue-xe/gia-thue/), thủ tục nhận và trả xe ở [thuê xe theo thủ tục](/blog/thue-xe/thu-tuc/), và tổng hợp các tình huống thuê ở [thuê xe](/blog/thue-xe/).
+Các tình huống thuê ngắn hạn nằm ở nhóm [thuê xe trong ngày](/thue-xe/thue-ngay/), cách hiểu báo giá ở [giá thuê](/thue-xe/gia-thue/), thủ tục nhận và trả xe ở [thuê xe theo thủ tục](/thue-xe/thu-tuc/), và tổng hợp các tình huống thuê ở [thuê xe](/thue-xe/).
 
 ## Quy tắc tính ngày thường gặp
 

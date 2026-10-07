@@ -16,7 +16,7 @@ writer: W1
 
 Sáng mùa đông Hà Nội, nhiệt độ xuống thấp, chiếc xe thuê để qua đêm thường đề lâu hơn mới nổ, thậm chí có buổi đề mãi không lên máy. Nếu bạn gặp tình huống xe thuê nổ máy khó trời lạnh, cách xử lý đúng sẽ tiết kiệm thời gian và tránh làm hỏng xe, vì xe thuê không phải xe nhà, mọi hư hỏng do tác động sai đều dễ thành chuyện phải trao đổi với chủ xe. Bài này đi qua từng bước an toàn, từ cách đề đúng đến lúc nào nên gọi tiệm.
 
-Tổng quan về các tình huống hỏng hóc khi thuê nằm ở [xử lý sự cố xe](/blog/xe-may/xu-ly-su-co-xe/), nhóm bài [xe máy](/blog/xe-may/) trả lời chuyện chọn và dùng xe, còn các bước chuẩn khi [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/) giúp bạn ghi rõ hiện trạng xe ngay từ đầu.
+Tổng quan về các tình huống hỏng hóc khi thuê nằm ở [xử lý sự cố xe](/xe-may/xu-ly-su-co-xe/), nhóm bài [xe máy](/xe-may/) trả lời chuyện chọn và dùng xe, còn các bước chuẩn khi [nhận và trả xe](/thue-xe/nhan-tra-xe/) giúp bạn ghi rõ hiện trạng xe ngay từ đầu.
 
 ## Vì sao trời lạnh khiến máy đề khó nổ hơn
 

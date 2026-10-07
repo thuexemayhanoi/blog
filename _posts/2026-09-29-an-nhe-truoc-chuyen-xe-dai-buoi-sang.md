@@ -55,4 +55,4 @@ Chuyến đi dài không chỉ có bữa sáng. Hãy nghĩ trước bữa trưa 
 
 Các khuyến nghị về dinh dưỡng hằng ngày do Bộ Y tế công bố tại [moh.gov.vn](https://moh.gov.vn/) có thể thay đổi theo từng phiên bản hướng dẫn, nên nếu bạn có bệnh về dạ dày hoặc tiểu đường, hãy hỏi nhân viên y tế về chế độ ăn trước các chuyến đi dài.
 
-Khi bạn cần một chiếc xe để khởi hành sớm từ Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga khỏe để đi chặng dài. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/), [Sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) và [đi chơi phố cổ Hà Nội](/blog/du-lich/pho-co/).
+Khi bạn cần một chiếc xe để khởi hành sớm từ Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga khỏe để đi chặng dài. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/), [Sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/) và [đi chơi phố cổ Hà Nội](/du-lich/pho-co/).

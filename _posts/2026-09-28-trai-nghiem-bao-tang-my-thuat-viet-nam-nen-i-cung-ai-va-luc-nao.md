@@ -36,7 +36,7 @@ Một vòng bảo tàng xem vừa mất chừng một tiếng rưỡi tới hai 
 
 Khách mê một chất liệu riêng nên xem sơ đồ phòng tại quầy trước khi vào: bố trí theo tầng giúp khách đi thẳng tới gian mình quan tâm và dành thời gian cho các khung đứng lâu, thay vì đi đều hết các phòng rồi mệt giữa buổi. Sau buổi, quãng đi bộ sang Văn Miếu Quốc Tử Giám chỉ vài phút, hợp phần chiều ngắm cảnh trước khi về.
 
-Buổi ghép bảo tàng với khu Văn Miếu gọn trong nửa ngày, còn các bảo tàng khác quanh thành phố được gom tại trang [bảo tàng](/blog/du-lich/bao-tang/). Khách muốn mở rộng lịch nhiều ngày quanh thành phố có thể tham khảo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn danh sách các bảo tàng quanh thành phố xếp tại trang [điểm đến](/blog/du-lich/diem-den/).
+Buổi ghép bảo tàng với khu Văn Miếu gọn trong nửa ngày, còn các bảo tàng khác quanh thành phố được gom tại trang [bảo tàng](/du-lich/bao-tang/). Khách muốn mở rộng lịch nhiều ngày quanh thành phố có thể tham khảo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn danh sách các bảo tàng quanh thành phố xếp tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Chuẩn bị xe máy cho buổi quanh cụm Văn Miếu
 
@@ -44,7 +44,7 @@ Trục quanh bảo tàng dày dòng theo khung tan tầm, nên xe máy cần vò
 
 Khách đi mùa đông nên tính khung trưa ngắn: trời tối sớm quanh cụm Văn Miếu, và các ngõ gửi xe đông lúc quãng chiều muộn.
 
-Khách thuê xe mang giấy tờ theo người, đội mũ bảo hiểm kể cả đoạn ngắn nối bãi. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/), còn tổng quan lịch trình quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách thuê xe mang giấy tờ theo người, đội mũ bảo hiểm kể cả đoạn ngắn nối bãi. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/), còn tổng quan lịch trình quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về buổi ở bảo tàng Mỹ thuật
 

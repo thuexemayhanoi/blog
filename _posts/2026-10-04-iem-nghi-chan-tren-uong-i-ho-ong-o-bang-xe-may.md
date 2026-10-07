@@ -48,6 +48,6 @@ Trời mưa thì đảo nghỉ: mốc hai nghỉ lâu hơn cho mưa qua cơn, r�
 
 Ai về qua nội đô sau tối muộn nhớ các đoạn phố đi bộ cuối tuần có thể chặn xe quanh khu Hồ Gươm: tính lộ trình về hướng Long Biên né các đoạn chặn trước khi kịp lạc đường quen.
 
-Muốn đọc thêm các tuyến cuối tuần cùng kiểu chia nghỉ, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung. Người mới thuê xe máy chạy cung lần đầu nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường.
+Muốn đọc thêm các tuyến cuối tuần cùng kiểu chia nghỉ, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung. Người mới thuê xe máy chạy cung lần đầu nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường.
 
 Cung Đồng Đò càng chia nghỉ rõ càng nhẹ: quán nước mở đầu, bún huyện giữa chừng, bãi cỏ ven hồ kết thúc. Ba mốc nhỏ, một ngày hồ trọn — đó là toàn bộ công thức của chuyến cuối tuần gọn gàng này.

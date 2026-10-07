@@ -20,7 +20,7 @@ Giá thuê xe máy ngày lễ là câu hỏi mà khách gọi về nhiều nhấ
 
 Giá niêm yết của cửa hàng dựa trên dòng xe và thời gian thuê chứ không tách riêng bảng "giá lễ". Mức tham khảo hiện hành như sau: các dòng xe số và xe tay ga phổ thông như Honda Wave, Yamaha Sirius, Honda Click, Yamaha Mio có giá 150.000 đồng mỗi ngày; Honda Vision và Honda Air Blade ở mức 200.000 đồng mỗi ngày. Đây là khung giá ngày thường, và mức áp dụng cụ thể trong dịp lễ cần khách gọi điện hoặc nhắn Zalo xác nhận với anh Tú trước khi đặt.
 
-Lý do phải hỏi trực tiếp rất đơn giản: nhu cầu tăng vọt trong bốn ngày nghỉ liền, số lượng xe của một cửa hàng hữu hạn, nên chính xác xe nào còn, giá áp dụng kỳ đó thế nào, chỉ người quản lý xe trả lời được. Đọc kỹ bảng giá trên trang [bảng giá thuê xe máy](/blog/bang-gia/) trước khi gọi sẽ giúp khách biết khung tham khảo, rồi hỏi thêm phần dịp lễ để so sánh.
+Lý do phải hỏi trực tiếp rất đơn giản: nhu cầu tăng vọt trong bốn ngày nghỉ liền, số lượng xe của một cửa hàng hữu hạn, nên chính xác xe nào còn, giá áp dụng kỳ đó thế nào, chỉ người quản lý xe trả lời được. Đọc kỹ bảng giá trên trang [bảng giá thuê xe máy](/bang-gia/) trước khi gọi sẽ giúp khách biết khung tham khảo, rồi hỏi thêm phần dịp lễ để so sánh.
 
 ## Thuê xe dịp 30 tháng 4: vì sao nên hỏi sớm
 
@@ -32,7 +32,7 @@ Hỏi sớm mang lại ba lợi ích rõ rệt. Một là khách được chọn
 
 Nếu kỳ nghỉ lễ kéo dài và khách ở lại Hà Nội nhiều ngày, thuê theo tuần thường có lợi hơn cộng dồn từng ngày. Với dòng xe 150.000 đồng mỗi ngày, bảy ngày lẻ cộng lại 1.050.000 đồng, trong khi gói tuần của nhóm xe số và ga phổ thông dao động quanh 700.000 đồng tùy dòng. Với nhóm xe 200.000 đồng mỗi ngày, bảy ngày lẻ lên tới 1.400.000 đồng, còn gói tuần của Honda Vision trong khoảng 800.000 đến 1.000.000 đồng và Honda Air Blade quanh 800.000 đồng.
 
-Con số cụ thể luôn cần xác nhận lại với cửa hàng, vì khung giá tuần có thể điều chỉnh theo tình trạng xe và thời điểm. Cách hỏi hiệu quả là đọc trước [bảng giá](/blog/bang-gia/), chọn sẵn hai dòng xe dự phòng, rồi hỏi giá tuần thực tế của từng dòng trong kỳ lễ. Khách cũng có thể tham khảo thêm cách tính chi phí cho các kỳ ngắn hơn trong mục [hỏi đáp](/blog/hoi-dap/), ví dụ bài viết về [chi phí thuê xe máy hai ngày cuối tuần](/blog/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/).
+Con số cụ thể luôn cần xác nhận lại với cửa hàng, vì khung giá tuần có thể điều chỉnh theo tình trạng xe và thời điểm. Cách hỏi hiệu quả là đọc trước [bảng giá](/bang-gia/), chọn sẵn hai dòng xe dự phòng, rồi hỏi giá tuần thực tế của từng dòng trong kỳ lễ. Khách cũng có thể tham khảo thêm cách tính chi phí cho các kỳ ngắn hơn trong mục [hỏi đáp](/hoi-dap/), ví dụ bài viết về [chi phí thuê xe máy hai ngày cuối tuần](/thue-xe/2026/10/04/chi-phi-thue-xe-may-hai-ngay-cuoi-tuan-tinh-the-nao-cho-u/).
 
 ## Giữ được xe giá tốt cho kỳ nghỉ lễ
 

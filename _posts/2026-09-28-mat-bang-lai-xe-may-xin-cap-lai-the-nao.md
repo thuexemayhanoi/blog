@@ -49,7 +49,7 @@ Vài thói quen nhỏ giúp bạn giảm rủi ro: dùng một chiếc ví cứn
 
 ## Người thuê xe cần lưu ý
 
-Cửa hàng cho thuê xe máy hợp pháp yêu cầu xuất trình bằng lái hợp lệ khi giao xe. Nếu bằng của bạn đang trong quá trình cấp lại, hãy nói rõ với cửa hàng để được gợi ý loại xe phù hợp hoặc chọn phương án khác. Kiến thức về các loại giấy tờ khi thuê xe nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các quy định giao thông áp dụng cho người lái xe máy được trình bày trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Danh mục các dòng xe hiện cho thuê, gồm cả xe không yêu cầu bằng, nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Cửa hàng cho thuê xe máy hợp pháp yêu cầu xuất trình bằng lái hợp lệ khi giao xe. Nếu bằng của bạn đang trong quá trình cấp lại, hãy nói rõ với cửa hàng để được gợi ý loại xe phù hợp hoặc chọn phương án khác. Kiến thức về các loại giấy tờ khi thuê xe nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các quy định giao thông áp dụng cho người lái xe máy được trình bày trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Danh mục các dòng xe hiện cho thuê, gồm cả xe không yêu cầu bằng, nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -57,6 +57,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về mất bằng lái xin lại
 
-Mất bằng lái xin lại ngày càng thuận tiện theo quy định hiện hành: không phải thi lại, hồ sơ gọn và có thể nộp trực tuyến tại nhiều địa phương. Việc của bạn là làm hồ sơ ngay khi phát hiện mất, đi lại thận trọng trong lúc chờ và giữ giấy tờ theo thói quen an toàn sau khi nhận bằng mới. Các vấn đề pháp lý khác khi đi xe máy trong nội thành được tổng hợp trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Mất bằng lái xin lại ngày càng thuận tiện theo quy định hiện hành: không phải thi lại, hồ sơ gọn và có thể nộp trực tuyến tại nhiều địa phương. Việc của bạn là làm hồ sơ ngay khi phát hiện mất, đi lại thận trọng trong lúc chờ và giữ giấy tờ theo thói quen an toàn sau khi nhận bằng mới. Các vấn đề pháp lý khác khi đi xe máy trong nội thành được tổng hợp trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về thủ tục cấp lại giấy phép lái xe có thể thay đổi theo từng thời kỳ; trước khi làm thủ tục, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

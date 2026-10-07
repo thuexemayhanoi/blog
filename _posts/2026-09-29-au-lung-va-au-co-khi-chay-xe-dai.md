@@ -30,7 +30,7 @@ Với cổ, hãy để mắt nhìn thẳng về phía trước thay vì cúi nh�
 
 Gương xe cũng đáng chỉnh trước chuyến dài: gương sai khiến bạn phải ngoẹo cổ mỗi lần muốn quan sát phía sau, và vài trăm lần ngoẹo nhỏ là nguyên nhân quen dẫn tới đau cổ. Bạn nên chỉnh gương ở tư thế ngồi thật, không phải đứng bên xe. Nếu đi chung xe, mỗi lần đổi người lái thì chỉnh lại gương theo người cầm lái.
 
-Nếu bạn hay đi đường dài, việc chọn [loại xe](/blog/xe-may/chon-loai-xe/) phù hợp với dáng người cũng giảm hẳn nguy cơ đau lưng, vì yên rộng và chiều cao xe hợp tỷ lệ cơ thể giữ cho tư thế tự nhiên hơn. Với xe số và xe tay ga, điểm khác về tư thế đặt chân cũng ảnh hưởng tới lưng, nên thử ngồi trước khi nhận xe thuê là thói quen đáng có.
+Nếu bạn hay đi đường dài, việc chọn [loại xe](/xe-may/chon-loai-xe/) phù hợp với dáng người cũng giảm hẳn nguy cơ đau lưng, vì yên rộng và chiều cao xe hợp tỷ lệ cơ thể giữ cho tư thế tự nhiên hơn. Với xe số và xe tay ga, điểm khác về tư thế đặt chân cũng ảnh hưởng tới lưng, nên thử ngồi trước khi nhận xe thuê là thói quen đáng có.
 
 ## Dãn cơ lúc nghỉ giữa đường
 
@@ -48,6 +48,6 @@ Giữa các chuyến dài, giấc ngủ đêm trước mỗi chặng quan trọn
 
 Thông tin về đau lưng và đau cổ trong bài chỉ mang tính tham khảo, không thay thế ý kiến của nhân viên y tế. Mức độ ảnh hưởng của tư thế lái tới mỗi người có thể thay đổi theo thể trạng, nếu cơn đau kéo dài hoặc kèm tê bì, bạn nên đi khám và đối chiếu hướng dẫn chính thức tại cổng thông tin của Bộ Y tế ([moh.gov.vn](https://moh.gov.vn/)).
 
-Tóm lại, đau lưng và đau cổ khi chạy xe dài giảm được bằng tư thế ngồi đúng, gương chỉnh đúng, dãn cơ mỗi lần nghỉ và xe hợp dáng người. Trước một chuyến dài sắp tới, bạn có thể đọc thêm phần [an toàn khi chạy xe đường trường](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/) và nhóm [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) để chuẩn bị trọn hơn.
+Tóm lại, đau lưng và đau cổ khi chạy xe dài giảm được bằng tư thế ngồi đúng, gương chỉnh đúng, dãn cơ mỗi lần nghỉ và xe hợp dáng người. Trước một chuyến dài sắp tới, bạn có thể đọc thêm phần [an toàn khi chạy xe đường trường](/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/) và nhóm [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/) để chuẩn bị trọn hơn.
 
- Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/).
+ Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/).

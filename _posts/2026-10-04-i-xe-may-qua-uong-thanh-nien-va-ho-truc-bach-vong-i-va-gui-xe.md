@@ -50,4 +50,4 @@ Ngoài ra, mặt đê có đoạn lồi lõm nhẹ theo mạch đường, hạn 
 
 Sau vòng chạy, khu Trúc Bạch nổi tiếng với các quán bún chả, bánh cuốn và các hàng ăn đãi khách dạo hồ. Ngồi quán ven hồ, gọi món nhẹ, ngắm mặt nước và dòng xe qua lại trên đê là trải nghiệm rất Hà Nội. Nên chọn quán có chỗ để xe rõ ràng, hỏi giá trước khi gọi nếu đi nhóm đông, và tránh giờ cao điểm cuối tuần nếu không muốn chờ bàn lâu.
 
-Bạn có thể xem thêm các điểm dạo khác trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), tham khảo tổng hợp [du lịch](/blog/du-lich/), hoặc đọc các bài [kinh nghiệm](/blog/kinh-nghiem/) khác để chuyến đi quanh hồ Tây thêm trọn vẹn.
+Bạn có thể xem thêm các điểm dạo khác trong mục [điểm đến Hà Nội](/du-lich/diem-den/), tham khảo tổng hợp [du lịch](/du-lich/), hoặc đọc các bài [kinh nghiệm](/kinh-nghiem/) khác để chuyến đi quanh hồ Tây thêm trọn vẹn.

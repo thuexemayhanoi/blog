@@ -19,7 +19,7 @@ Nhiều khách gọi điện cho cửa hàng với đúng một câu hỏi: thu�
 
 Cách tính căn bản nhất vẫn là đơn giá ngày nhân số ngày thuê. Với xe số phổ thông như Honda Wave, đơn giá ngày trong bảng giá công khai của cửa hàng là 150.000 đồng. Với dòng xe ga như Honda Vision hay Honda Air Blade, đơn giá ngày là 200.000 đồng. Ba ngày thuê tính theo đơn giá ngày nhân ba, cộng thêm khoản bảo đảm theo thỏa thuận khi ký hợp đồng, và đây là mức mà hầu hết khách ngắn hạn nhận được khi chỉ hỏi giá theo ngày.
 
-Điểm cần biết là bảng giá của cửa hàng không chỉ có cột ngày. Cùng một dòng xe luôn có thêm cột tuần và cột tháng, vì cấu trúc này phục vụ đúng nhóm khách du lịch ngắn hạn. Xem trọn [bảng giá thuê xe máy](/blog/bang-gia/) trước khi gọi giúp bạn hình dung trước ba mức giá cho từng loại xe, thay vì chỉ nghe một con số rồi phải hỏi lại.
+Điểm cần biết là bảng giá của cửa hàng không chỉ có cột ngày. Cùng một dòng xe luôn có thêm cột tuần và cột tháng, vì cấu trúc này phục vụ đúng nhóm khách du lịch ngắn hạn. Xem trọn [bảng giá thuê xe máy](/bang-gia/) trước khi gọi giúp bạn hình dung trước ba mức giá cho từng loại xe, thay vì chỉ nghe một con số rồi phải hỏi lại.
 
 ## Khi nào ba ngày được tính theo giá tuần
 
@@ -27,13 +27,13 @@ Với một số dòng xe, giá thuê ba ngày theo đơn giá ngày đã tiến
 
 Điều này không phải quy luật cứng. Tùy cửa hàng, tùy thời điểm cao điểm hay thấp điểm, và tùy xe còn hay hết, cách chốt giá ba ngày có thể khác nhau. Vì vậy cách làm chuẩn vẫn là hỏi thẳng: tôi thuê đúng ba ngày, cửa hàng tính theo ngày hay có mức gộp. Câu hỏi này mất vài giây nhưng giúp bạn nhận ngay con số thực tế, thay vì nhận đơn giá ngày rồi tự nhân và bất ngờ khi thanh toán.
 
-Nhóm câu hỏi về giá nói chung được gom trong mục [hỏi đáp về giá thuê xe](/blog/hoi-dap/hoi-dap-gia/), còn trang chủ đề [thuê xe máy Hà Nội](/blog/hoi-dap/) dẫn tới các nhóm hỏi đáp khác như thủ tục, chọn xe và xử lý sự cố.
+Nhóm câu hỏi về giá nói chung được gom trong mục [hỏi đáp về giá thuê xe](/hoi-dap/hoi-dap-gia/), còn trang chủ đề [thuê xe máy Hà Nội](/hoi-dap/) dẫn tới các nhóm hỏi đáp khác như thủ tục, chọn xe và xử lý sự cố.
 
 ## Cách hỏi để nhận báo giá đúng cho ba ngày
 
 Ba thông tin nên nói rõ ngay trong cuộc gọi đầu tiên: loại xe dự kiến thuê, ngày giờ nhận xe và ngày giờ trả xe, và địa điểm nhận trả. Nói đúng ba ngày thay vì mập mờ vài ngày giúp cửa hàng báo giá chính xác. Nếu lịch có thể dôi ra thành bốn hoặc năm ngày, hỏi luôn cả giá tuần, vì với xe ga dòng Air Blade, giá tháng là 1.400.000 đồng còn giá tuần là 800.000 đồng, và mốc tuần đôi khi lại tiện hơn mốc ngày khi lịch dài thêm.
 
-Nên hỏi kèm ba việc khác: khoản bảo đảm cho dòng xe đó là bao nhiêu và hoàn trả ra sao, xe nhận với mức xăng thế nào, và việc nhận trả ngoài địa điểm cửa hàng có tính thêm gì không. Mọi khoản ngoài giá thuê đều cần được xác nhận trước, không có gì tự động miễn cả. Gọi trong giờ hoạt động 09:00 đến 21:00 để được trả lời ngay, và nếu cần tham khảo cách hỏi chung cho người mới thuê, xem qua trình tự tại [thu tục thuê xe](/blog/thue-xe/thu-tuc/).
+Nên hỏi kèm ba việc khác: khoản bảo đảm cho dòng xe đó là bao nhiêu và hoàn trả ra sao, xe nhận với mức xăng thế nào, và việc nhận trả ngoài địa điểm cửa hàng có tính thêm gì không. Mọi khoản ngoài giá thuê đều cần được xác nhận trước, không có gì tự động miễn cả. Gọi trong giờ hoạt động 09:00 đến 21:00 để được trả lời ngay, và nếu cần tham khảo cách hỏi chung cho người mới thuê, xem qua trình tự tại [thu tục thuê xe](/thue-xe/thu-tuc/).
 
 ## So sánh giá ba ngày cần nhìn cả những khoản kèm theo
 

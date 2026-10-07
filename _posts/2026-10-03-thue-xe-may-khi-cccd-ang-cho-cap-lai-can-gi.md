@@ -32,7 +32,7 @@ Tin nhắn hỏi trước nên có đủ ba thông tin: bạn đang giữ nhữn
 
 Khi tiệm trả lời được, hãy chốt lại bằng văn bản đúng các điều đã trao đổi: loại xe, giờ nhận trả, giá, và đặc biệt là dòng ghi rõ tiệm chấp nhận thuê với bộ giấy xác nhận chờ cấp đổi. Dòng nhỏ đó là phần quan trọng nhất, vì nó nói lên rằng cả hai bên đều biết và đồng ý về hồ sơ của bạn, không để xảy ra việc lúc trả xe lại nảy sinh câu hỏi về giấy tờ.
 
-Nếu tiệm đầu tiên từ chối, đừng nản: chính sách về giấy tờ thay thế khác nhau từng nơi, và sự khác biệt đó không nói lên điều gì xấu về tiệm cũng như về bạn. Người cần ôn lại toàn bộ quy trình đặt xe có thể đọc [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), còn kiến thức chung về các loại giấy tờ khi di chuyển được tổng hợp tại [giấy tờ và an toàn pháp lý](/blog/an-toan-phap-ly/giay-to/).
+Nếu tiệm đầu tiên từ chối, đừng nản: chính sách về giấy tờ thay thế khác nhau từng nơi, và sự khác biệt đó không nói lên điều gì xấu về tiệm cũng như về bạn. Người cần ôn lại toàn bộ quy trình đặt xe có thể đọc [thủ tục thuê xe](/thue-xe/thu-tuc/), còn kiến thức chung về các loại giấy tờ khi di chuyển được tổng hợp tại [giấy tờ và an toàn pháp lý](/an-toan-phap-ly/giay-to/).
 
 ## Giữ bằng chứng trong suốt thời gian chờ cấp
 
@@ -43,4 +43,4 @@ Một chi tiết thường hay quên: nếu bạn thuê xe để đi ra khỏi H
 
 Một thói quen đáng hình thành trong thời gian chờ cấp: để toàn bộ giấy tờ tùy thân còn lại ở một nơi cố định trong ba lô hoặc túi trong, không để lẫn từng chiếc vào nhiều túi. Người đang phải làm việc với bộ giấy thay thế dễ rơi rớt hơn người có bộ giấy chính, chỉ vì giấy tạm được dùng với tần suất bất thường so với thói quen.
 
-Sau khi nhận lại căn cước mới, nhớ nhắn lại cho tiệm đã thuê một tin ngắn để cập nhật thông tin cho lần thuê sau, kèm ảnh giấy mới nếu tiệm yêu cầu. Chuyện nhỏ đó giữ hồ sơ của bạn luôn cập nhật, và lần thuê sau sẽ suôn sẻ như chưa từng có khoảng thời gian chờ đợi nào. Ai muốn xem tổng thể các bước từ đặt tới trả xe có thể vào [mục thuê xe máy](/blog/thue-xe/), và với các câu hỏi pháp lý rộng hơn quanh việc lưu trú, đi lại, [chuyên mục an toàn pháp lý](/blog/an-toan-phap-ly/) là điểm tham khảo đáng tin cho cả nhà.
+Sau khi nhận lại căn cước mới, nhớ nhắn lại cho tiệm đã thuê một tin ngắn để cập nhật thông tin cho lần thuê sau, kèm ảnh giấy mới nếu tiệm yêu cầu. Chuyện nhỏ đó giữ hồ sơ của bạn luôn cập nhật, và lần thuê sau sẽ suôn sẻ như chưa từng có khoảng thời gian chờ đợi nào. Ai muốn xem tổng thể các bước từ đặt tới trả xe có thể vào [mục thuê xe máy](/thue-xe/), và với các câu hỏi pháp lý rộng hơn quanh việc lưu trú, đi lại, [chuyên mục an toàn pháp lý](/an-toan-phap-ly/) là điểm tham khảo đáng tin cho cả nhà.

@@ -49,7 +49,7 @@ Thêm một mẹo liên quan tới xe máy thuê: khi vào bãi, hãy để ý k
 
 Vài thói quen nhỏ giảm hẳn xác suất gặp sự cố. Khi nhận vé lúc vào bãi, kiểm tra vé in rõ ràng biển số và giờ vào, cất vé ngay vào một cốp dễ lấy. Tránh gập vé nhiều lần hoặc làm vé cong vì vết gãy làm mã vạch khó đọc. Với thẻ gửi định kỳ của khu chung cư, giữ thẻ trong một ngăn riêng của ví, không để kèm chìa khóa làm xước bề mặt.
 
-Cẩm nang đầy đủ về gửi xe, giữ xe và các tình huống tại bãi nằm ở chuyên mục [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn các kỹ năng lái tổng quát tại mục [kỹ năng lái xe máy](/blog/ky-nang/). Câu hỏi về quy định từng bãi có thể tra thêm ở [hỏi đáp](/blog/hoi-dap/).
+Cẩm nang đầy đủ về gửi xe, giữ xe và các tình huống tại bãi nằm ở chuyên mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn các kỹ năng lái tổng quát tại mục [kỹ năng lái xe máy](/ky-nang/). Câu hỏi về quy định từng bãi có thể tra thêm ở [hỏi đáp](/hoi-dap/).
 
 ## Câu hỏi thường gặp
 

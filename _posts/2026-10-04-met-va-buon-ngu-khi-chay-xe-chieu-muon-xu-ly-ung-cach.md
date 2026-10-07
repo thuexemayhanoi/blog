@@ -26,7 +26,7 @@ Hãy để ý hoàn cảnh dễ gây buồn ngủ nhất: đoạn đường th�
 
 ## Chống mệt khi chạy xe: xử lý tại chỗ đúng cách
 
-Chống mệt khi chạy xe trên đường chỉ có một cách thực sự: dừng và nghỉ ngắn. Ghé vào quán trà đá ven đường, xuống xe đi bộ vài phút, rửa mặt nước mát, và nếu được thì ngồi nhắm mắt mười lăm phút. Mười lăm phút lim dim có thể đổi lại một giờ lái tỉnh táo, hơn hẳn cố chạy tiếp cho tới khi ngã. Với chuyến dài có gửi xe qua đêm, chọn trước điểm nghỉ đêm cũng giúp mọi thứ nhẹ nhàng hơn, cách hỏi bãi giữ xe được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/blog/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/).
+Chống mệt khi chạy xe trên đường chỉ có một cách thực sự: dừng và nghỉ ngắn. Ghé vào quán trà đá ven đường, xuống xe đi bộ vài phút, rửa mặt nước mát, và nếu được thì ngồi nhắm mắt mười lăm phút. Mười lăm phút lim dim có thể đổi lại một giờ lái tỉnh táo, hơn hẳn cố chạy tiếp cho tới khi ngã. Với chuyến dài có gửi xe qua đêm, chọn trước điểm nghỉ đêm cũng giúp mọi thứ nhẹ nhàng hơn, cách hỏi bãi giữ xe được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/).
 
 Các việc đỡ tạm lúc chưa ghé được kể như sau: mở nửa mũ cho gió vào mặt nếu đang đội mũ che kín, hát hoặc nói chuyện với người ngồi sau, nhai kẹo cao su, và đổi tư thế ngồi bằng cách đứng nhẹ trên bàn đạp khi đường thẳng vắng. Nước mát hoặc trà giúp một phần, nhưng đừng dựa vào một món nào như thần dược: nếu buồn ngủ thật thì không gì thay được giấc ngủ.
 
@@ -46,6 +46,6 @@ Với chuyến dài, chia lộ trình thành các đoạn có điểm nghỉ rõ
 
 Buồn ngủ sau một ngày dài là bình thường, nhưng cũng cần biết ranh giới sức khỏe: nếu ngày nào cũng mệt vào giữa chiều dù ngủ đủ đêm, hoặc buồn ngủ kèm chóng mặt, tim đập nhanh, thì nên đi khám thay vì coi là chuyện thường. Bài viết này nói về kinh nghiệm giữ tỉnh táo trên đường, không thay thế lời khuyên y tế.
 
-Tổng quan sức khỏe khi lái xe nằm trong mục [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/), kinh nghiệm chọn giờ chạy và chống nắng trong ngày nóng gắt được kể trong bài [chạy xe ngày nắng gắt tháng Sáu](/blog/ky-nang/2026/10/04/chay-xe-may-ngay-nang-gat-thang-sau-ha-noi-chon-gio-va-chong-nang/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Tổng quan sức khỏe khi lái xe nằm trong mục [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/), kinh nghiệm chọn giờ chạy và chống nắng trong ngày nóng gắt được kể trong bài [chạy xe ngày nắng gắt tháng Sáu](/ky-nang/2026/10/04/chay-xe-may-ngay-nang-gat-thang-sau-ha-noi-chon-gio-va-chong-nang/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Mệt và buồn ngủ khi chạy xe chiều muộn, tóm lại, là rủi ro quản lý được bằng lịch trình: về sớm khi còn tỉnh, nghỉ mười lăm phút khi mắt nặng, và không bao giờ đánh cược với một giấc gật trên yên. Chiếc xe thuê chờ sáng mai vẫn chạy tốt, còn người thì phải nguyên vẹn tới tối.

@@ -16,7 +16,7 @@ writer: W1
 
 Mai Châu đẹp quanh năm, nhưng người chạy xe máy đi Mai Châu vì lúa chín là một nhóm riêng: họ đuổi theo một màu vàng chỉ có mặt vài tuần, và vì thế câu hỏi Mai Châu mùa lúa chín đi xe máy lúc nào đẹp có hai tầng nghĩa, lúc nào trong năm và lúc nào trong ngày, trả đúng cả hai thì chuyến đi mới không lỡ dịp. Bài này xếp hai tầng đó vào cùng một lịch trình, kèm kinh nghiệm chạy cung từ Hà Nội lên thung lũng bằng xe thuê.
 
-Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/blog/cung-duong/), gợi ý riêng cho tuyến này trong phần [Mai Châu](/blog/cung-duong/mai-chau/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/cung-duong/), gợi ý riêng cho tuyến này trong phần [Mai Châu](/cung-duong/mai-chau/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Thời điểm đẹp Mai Châu trong năm khi lúa chín
 

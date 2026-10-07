@@ -32,13 +32,13 @@ Ngay khi nghi máy nóng, hãy vào lề, tắt máy, và để xe nghỉ chứ 
 
 Tình huống thường gặp: xe yếu dần giữa đường dài, dừng kiểm tra thấy két cạn. Sau khi máy nguội và bổ sung được nước, đừng vội tăng ga mạnh, hãy để máy nổ chậm vài phút cho dung dịch tuần hoàn đều, quan sát bình phụ thấy nước tuần hoàn về là được chạy tiếp ở tốc độ vừa phải. Nếu bổ sung nước mà xe vẫn nóng nhanh, khả năng cao hệ thống bị rỉ hoặc bơm nước yếu, lúc đó nên gọi hỗ trợ của bên cho thuê thay vì cố chạy tiếp, vì máy ga nổ vì quá nhiệt là hư hỏng tốn kém nhất trong các lỗi thường gặp.
 
-Một biện pháp phòng ngừa khi thuê xe cho tuyến dài: mang theo một chai nước sạch cỡ nhỏ trong cốp, và hỏi chủ xe xem lần thay dung dịch làm mát gần nhất là khi nào. Xe cho thuê chạy nhiều, và dung dịch làm mát sau thời gian dài dùng sẽ mất dần khả năng tản nhiệt, nên xe nào quá lâu chưa thay thì nên hạn chế chạy liên tục quãng dài dưới nắng. Cách chọn và đặt lịch bảo dưỡng được nói kỹ trong bài về [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), phần áp dụng cho cả xe máy của mình lẫn xe thuê dài ngày.
+Một biện pháp phòng ngừa khi thuê xe cho tuyến dài: mang theo một chai nước sạch cỡ nhỏ trong cốp, và hỏi chủ xe xem lần thay dung dịch làm mát gần nhất là khi nào. Xe cho thuê chạy nhiều, và dung dịch làm mát sau thời gian dài dùng sẽ mất dần khả năng tản nhiệt, nên xe nào quá lâu chưa thay thì nên hạn chế chạy liên tục quãng dài dưới nắng. Cách chọn và đặt lịch bảo dưỡng được nói kỹ trong bài về [bảo dưỡng xe](/xe-may/bao-duong-xe/), phần áp dụng cho cả xe máy của mình lẫn xe thuê dài ngày.
 
 ## Thói quen kiểm tra trước chuyến đi xa
 
 Trước mỗi chuyến dài bằng xe ga, mở yên kiểm tra nhanh ba thứ: bình phụ nước làm mát, dầu máy qua kim xem kính, và áp suất lốp bằng cách bóp nhẹ. Ba mươi giây đó tiết kiệm cho bạn cả buổi dừng giữa đường. Với người thuê xe quanh Hà Nội đi các tuyến ven như Sơn Tây hoặc Phúc Thọ, nhiệt độ mùa hè cộng đường đèo dốc nhẹ có thể đẩy máy lên vùng nhiệt cao, nên hãy chặng nghỉ giữa chuyến, để máy nguội mười phút, và kiểm tra lại bình phụ sau mỗi chặng hai ba chục cây số.
 
-Nếu bạn chọn thuê [xe máy](/blog/xe-may/) cho kế hoạch nhiều ngày, hãy chọn xe có hồ sơ bảo dưỡng rõ ràng, hoặc tối thiểu là xe mà chủ xe trả lời được các câu hỏi về lần thay dầu, lần thay nước làm mát gần nhất. Người quen tay lái có thể đọc thêm [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để nắm thêm phần vận hành an toàn khi máy ở vùng nhiệt cao, ví dụ cách về ga nhẹ lúc leo dốc dài.
+Nếu bạn chọn thuê [xe máy](/xe-may/) cho kế hoạch nhiều ngày, hãy chọn xe có hồ sơ bảo dưỡng rõ ràng, hoặc tối thiểu là xe mà chủ xe trả lời được các câu hỏi về lần thay dầu, lần thay nước làm mát gần nhất. Người quen tay lái có thể đọc thêm [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để nắm thêm phần vận hành an toàn khi máy ở vùng nhiệt cao, ví dụ cách về ga nhẹ lúc leo dốc dài.
 
 ## Kết lại
 

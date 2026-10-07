@@ -44,4 +44,4 @@ Một thói quen nhỏ đáng hình thành trong các chuyến đi Hà Nội lê
 
 ## Nhớ ngắn gọn cho một chuyến an toàn
 
-Xe số bền nhất khi lốp đúng: bơm theo tem trên xe, thêm chút cho bánh sau khi chở nặng, dừng kiểm tra giữa chặng dài, và không bao giờ lấy cảm tính thay máy đo. Nếu bạn định thuê xe số cho cung sắp tới, phần chuẩn bị trước chuyến đi được tóm gọn trong mục [thuê xe máy](/blog/xe-may/), và cách chọn xe số hợp cung đường cũng nằm gần đó trong [chuyên mục xe máy](/blog/xe-may/). Trước khi xuất phát, đừng quên các bước nhận xe tại cửa hàng — xem nhanh mục [kinh nghiệm thuê xe máy](/blog/xe-may/) cho chuyến an toàn hơn.
+Xe số bền nhất khi lốp đúng: bơm theo tem trên xe, thêm chút cho bánh sau khi chở nặng, dừng kiểm tra giữa chặng dài, và không bao giờ lấy cảm tính thay máy đo. Nếu bạn định thuê xe số cho cung sắp tới, phần chuẩn bị trước chuyến đi được tóm gọn trong mục [thuê xe máy](/xe-may/), và cách chọn xe số hợp cung đường cũng nằm gần đó trong [chuyên mục xe máy](/xe-may/). Trước khi xuất phát, đừng quên các bước nhận xe tại cửa hàng — xem nhanh mục [kinh nghiệm thuê xe máy](/xe-may/) cho chuyến an toàn hơn.

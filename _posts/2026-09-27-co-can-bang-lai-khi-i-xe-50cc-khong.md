@@ -41,4 +41,4 @@ Dù không cần bằng lái, người đi xe 50cc vẫn phải chịu trách nh
 
 ## Xe 50cc cần bằng lái không: tóm lại
 
-Xe 50cc cần bằng lái không: theo quy định hiện hành thì dòng xe dưới 50cc không thuộc nhóm bắt buộc có giấy phép lái xe mô tô, nhưng người đi vẫn phải đủ điều kiện độ tuổi và tuân thủ mọi quy định an toàn. Để hiểu rõ hơn về giấy tờ, bằng lái và các quy định liên quan đến xe máy, bạn có thể đọc phần [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), hoặc xem chủ đề [xe 50cc](/blog/xe-may/xe-50cc/) trong tổng quan các [dòng xe máy](/blog/xe-may/) để chọn đúng loại xe hợp pháp lý và hợp nhu cầu khi thuê ở Hà Nội.
+Xe 50cc cần bằng lái không: theo quy định hiện hành thì dòng xe dưới 50cc không thuộc nhóm bắt buộc có giấy phép lái xe mô tô, nhưng người đi vẫn phải đủ điều kiện độ tuổi và tuân thủ mọi quy định an toàn. Để hiểu rõ hơn về giấy tờ, bằng lái và các quy định liên quan đến xe máy, bạn có thể đọc phần [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), hoặc xem chủ đề [xe 50cc](/xe-may/xe-50cc/) trong tổng quan các [dòng xe máy](/xe-may/) để chọn đúng loại xe hợp pháp lý và hợp nhu cầu khi thuê ở Hà Nội.

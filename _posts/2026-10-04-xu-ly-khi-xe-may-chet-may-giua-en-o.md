@@ -46,4 +46,4 @@ Một tình huống mẫu ở Hà Nội: đèn đỏ dài ở đầu cầu Long 
 
 Người đi phố hằng ngày nên tập thói quen dừng đèn đỏ gọn: về số sớm, giữ máy nổ ổn, và không đứng sát mép làn ô tô tải. Với các tuyến đông như khu Hai Bà Trưng hay cầu Giấy giờ cao điểm, chỗ đứng dừng còn quan trọng hơn tốc độ: chọn đúng chỗ ngay từ đầu thì sau đó chẳng phải chen, chẳng phải dựng xe giữa làn. Trước chuyến đi, một vòng kiểm tra xăng, đề nổ và tiếng máy kỳ lạ là cách rẻ nhất để không gặp tình huống này. Ai thuê xe đi phố nên thử đề lại một lần ở chỗ vắng trước khi vào đường đông — biết chính xác xe mình đang ngồi đề ăn ra sao còn đáng giá hơn mọi mẹo xử lý sau này.
 
-Thao tác cơ bản vào số và đề máy được gom trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), các chủ đề kỹ năng khác nằm trong mục [kỹ năng](/blog/ky-nang/), còn kinh nghiệm chạy xe đường trường chung xem thêm ở [kinh nghiệm](/blog/kinh-nghiem/).
+Thao tác cơ bản vào số và đề máy được gom trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), các chủ đề kỹ năng khác nằm trong mục [kỹ năng](/ky-nang/), còn kinh nghiệm chạy xe đường trường chung xem thêm ở [kinh nghiệm](/kinh-nghiem/).

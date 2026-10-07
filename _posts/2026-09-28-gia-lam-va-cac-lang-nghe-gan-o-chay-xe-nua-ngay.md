@@ -24,7 +24,7 @@ Khách đi buổi chiều nên đảo thứ tự: ghé Bát Tràng lúc 15 giờ
 
 Bát Tràng là làng gốm lâu đời thuộc Gia Lâm, nổi tiếng với chợ gốm và các lò nung vẫn hoạt động quanh năm: khách để xe ở bãi quanh chợ rồi đi bộ giữa các sạp bát đĩa, lọ hoa, đồ thờ và đồ lưu niệm với nhiều mức giá khác nhau. Khu làng có các xưởng mở cho khách xem tay nghề tạo hình, tráng men và trải nghiệm vẽ gốm theo giờ, tùy từng xưởng, khách hỏi trước khi vào vì mỗi xưởng có cách đón khách khác nhau. Giá đồ ở chợ gốm chênh lệch giữa các sạp khá rộng, khách tham khảo vài sạp trước khi chốt, hỏi rõ giá đã gồm bọc hay chưa, và giữ lại hóa đơn giấy của sạp để dễ đổi món nếu phát hiện lỗi men sau khi về.
 
-Mua gốm mang về cần tính ngay từ lúc chọn: các bộ bát đĩa nặng và dễ mẻ, khách nên chọn các món vừa tay, yêu cầu quán bọc giấy và đóng thùng nếu đi xa, và chở về bằng hai túi cân đối hai bên cốp. Kỹ thuật buộc và cân đồ trên yên xe áp dụng cho nhiều chuyến chở đồ, kể cả chuyến hội làng, được kể trong bài [chở bánh kẹo đi hội làng](/blog/chia%20s%E1%BA%BB/2026/09/19/cho-banh-keo-dai-hoi-lang-xom/). Khách đi vào mùa mưa nên mang túi nilon lớn bọc thêm ngoài thùng gốm.
+Mua gốm mang về cần tính ngay từ lúc chọn: các bộ bát đĩa nặng và dễ mẻ, khách nên chọn các món vừa tay, yêu cầu quán bọc giấy và đóng thùng nếu đi xa, và chở về bằng hai túi cân đối hai bên cốp. Kỹ thuật buộc và cân đồ trên yên xe áp dụng cho nhiều chuyến chở đồ, kể cả chuyến hội làng, được kể trong bài [chở bánh kẹo đi hội làng](/chia%20s%E1%BA%BB/2026/09/19/cho-banh-keo-dai-hoi-lang-xom/). Khách đi vào mùa mưa nên mang túi nilon lớn bọc thêm ngoài thùng gốm.
 
 ## Làng đúc đồng Kiêu Kỵ: điểm ghép chiều
 
@@ -34,9 +34,9 @@ Kiêu Kỵ là làng nghề đúc đồng thuộc huyện Gia Lâm, nơi các x�
 
 ## Chặng ven sông và đường về
 
-Đường về nên tận dụng các trục ven sông phía Gia Lâm: từ Kiêu Kỵ vòng lên theo các đường đê ven sông Hồng, khách được đoạn chạy thoáng giữa đồng và bãi bồi, góc nhìn khác hẳn lúc sang sông lúc sáng. Trải nghiệm ven đê, đường bãi và các điểm dừng của vùng này được kể chi tiết trong bài [Gia Lâm và ven sông Hồng bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/), còn tổng quan khu vực hai bờ nằm ở trang [Long Biên và Gia Lâm](/blog/du-lich/long-bien/).
+Đường về nên tận dụng các trục ven sông phía Gia Lâm: từ Kiêu Kỵ vòng lên theo các đường đê ven sông Hồng, khách được đoạn chạy thoáng giữa đồng và bãi bồi, góc nhìn khác hẳn lúc sang sông lúc sáng. Trải nghiệm ven đê, đường bãi và các điểm dừng của vùng này được kể chi tiết trong bài [Gia Lâm và ven sông Hồng bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/), còn tổng quan khu vực hai bờ nằm ở trang [Long Biên và Gia Lâm](/du-lich/long-bien/).
 
-Khách về khung 16 giờ tới 17 giờ vừa kịp tránh dòng xe cao điểm qua cầu về phía bờ bắc, và nếu thuê xe theo ngày, việc trả xe trong giờ mở cửa 21 giờ tối không vội. Khách lần đầu chạy các trục huyện đọc thêm các lưu ý nền trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), khách xếp cuộc đi này vào chuỗi nhiều ngày đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), tổng quan chủ đề tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách về khung 16 giờ tới 17 giờ vừa kịp tránh dòng xe cao điểm qua cầu về phía bờ bắc, và nếu thuê xe theo ngày, việc trả xe trong giờ mở cửa 21 giờ tối không vội. Khách lần đầu chạy các trục huyện đọc thêm các lưu ý nền trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), khách xếp cuộc đi này vào chuỗi nhiều ngày đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), tổng quan chủ đề tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về cuộc đi nửa ngày các làng nghề Gia Lâm
 

@@ -14,7 +14,7 @@ article_id: BLG-01510
 writer: W1
 ---
 
-Mùa cưới ở Hà Nội thường dồn vào các ngày cuối tuần, và nhiều khách ở tỉnh lên thủ đô làm việc lại chọn cách gọn nhất: thuê xe máy về quê đám cưới thay vì vác xe cá nhân đi hàng trăm cây số. Câu hỏi đầu tiên khi liên hệ cửa hàng gần như luôn là tính ngày thế nào: nhận hôm nay, trả mấy hôm sau thì tính mấy ngày, và nếu tiệc kéo dài quá dự kiến thì cộng thêm ra sao. Bài viết này trong [chuỗi bài hỏi đáp](/blog/hoi-dap/) dành cho người thuê xe trả lời rõ quy ước tính ngày thường gặp, cách dựng lịch đi thực tế, và những điểm nên chốt trước khi ký giấy tờ, kèm vài lưu ý cho chặng đường dài.
+Mùa cưới ở Hà Nội thường dồn vào các ngày cuối tuần, và nhiều khách ở tỉnh lên thủ đô làm việc lại chọn cách gọn nhất: thuê xe máy về quê đám cưới thay vì vác xe cá nhân đi hàng trăm cây số. Câu hỏi đầu tiên khi liên hệ cửa hàng gần như luôn là tính ngày thế nào: nhận hôm nay, trả mấy hôm sau thì tính mấy ngày, và nếu tiệc kéo dài quá dự kiến thì cộng thêm ra sao. Bài viết này trong [chuỗi bài hỏi đáp](/hoi-dap/) dành cho người thuê xe trả lời rõ quy ước tính ngày thường gặp, cách dựng lịch đi thực tế, và những điểm nên chốt trước khi ký giấy tờ, kèm vài lưu ý cho chặng đường dài.
 
 ## Quy ước tính ngày thuê thường gặp
 
@@ -30,7 +30,7 @@ Nhìn chung, lịch gọn nhất cho chuyến cưới xa là nhận xe từ chi�
 
 ## Giấy tờ cần mang theo khi đi xa
 
-Về quê ăn cưới là chuyến dài đường, nên bộ giấy tờ mang theo cần đầy đủ hơn chuyến đi trong phố: giấy tờ tùy thân, giấy phép lái xe còn hiệu lực, và giấy tờ thuê xe do cửa hàng cấp. Trước chuyến đi, bạn nên đọc lại [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) để chắc chắn không bỏ sót món nào. Với người mới lấy bằng A1 lần đầu, kinh nghiệm trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng đáng đọc trước khi chọn dòng xe cho chặng xa, vì xe số nhẹ và xe ga êm mỗi loại hợp một kiểu đường. Các câu hỏi về thủ tục khác được nhóm trong [mục Hỏi đáp](/blog/hoi-dap/).
+Về quê ăn cưới là chuyến dài đường, nên bộ giấy tờ mang theo cần đầy đủ hơn chuyến đi trong phố: giấy tờ tùy thân, giấy phép lái xe còn hiệu lực, và giấy tờ thuê xe do cửa hàng cấp. Trước chuyến đi, bạn nên đọc lại [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) để chắc chắn không bỏ sót món nào. Với người mới lấy bằng A1 lần đầu, kinh nghiệm trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng đáng đọc trước khi chọn dòng xe cho chặng xa, vì xe số nhẹ và xe ga êm mỗi loại hợp một kiểu đường. Các câu hỏi về thủ tục khác được nhóm trong [mục Hỏi đáp](/hoi-dap/).
 
 ## Hỏi giá theo tuần nếu đám cưới kéo dài
 

@@ -19,19 +19,19 @@ Thuê xe máy đi Hạ Long ngày về là lịch trình khách hỏi nhiều nh
 
 Hà Nội và Hạ Long cách nhau quãng đường dài, đi xe máy thường mất gần trọn buổi sáng nếu xuất phát sớm, và chiều về tương tự. Cộng lại, khách ngồi trên yên nhiều giờ liền trong một ngày, chưa kể giờ dừng đổ xăng, nghỉ tay lái và ăn. Đây không phải chuyến dạo phố, mà là một ngày di chuyển thật sự. Khách quen chạy đường trường thì hồ hởi, còn khách mới cầm xe dài hạn dễ mỏi lưng ở chặng cuối, và mỏi thì tay lái chậm.
 
-Vì vậy khách nên tự hỏi trước: mình đã từng chạy liên tục vài giờ trên xe máy chưa? Nếu chưa, đi Hạ Long ngày về nên đòi hỏi một người đồng hành khỏe hoặc đổi sang lịch ngủ lại. Khách muốn biết cung đường cụ thể có thể xem bài chạy xe từ Hà Nội đi Hạ Long trong loạt [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), nơi nói chi tiết chặng nào đông xe tải, chặng nào vắng.
+Vì vậy khách nên tự hỏi trước: mình đã từng chạy liên tục vài giờ trên xe máy chưa? Nếu chưa, đi Hạ Long ngày về nên đòi hỏi một người đồng hành khỏe hoặc đổi sang lịch ngủ lại. Khách muốn biết cung đường cụ thể có thể xem bài chạy xe từ Hà Nội đi Hạ Long trong loạt [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), nơi nói chi tiết chặng nào đông xe tải, chặng nào vắng.
 
 ## Những gì xem được trong nửa ngày ở Hạ Long
 
 Với lịch ngày về, khách tới Bãi Cháy quanh trưa, có khoảng ba tới bốn giờ trước khi phải lên đường trở lại. Trong khung đó, khách làm được ba việc thoải mái: dừng ở bãi xe ven cầu ngắm vịnh, ăn trưa món biển ở phố gần bờ, và đi một vòng chậm quảng trường ven bờ biển ngắm thành phố từ xa. Khách muốn lên cao ngắm toàn cảnh vịnh hoặc đi thuyền ra giữa vịnh thì khó gói trong nửa chiều, vì các hoạt động này cần đặt giờ và xếp lịch riêng.
 
-Vịnh Hạ Long là danh thắng thiên nhiên nổi tiếng, khách đi lần đầu đều muốn ngắm được mặt nước và núi đá vôi, dù chỉ từ bờ. Với khung ba bốn giờ, mục tiêu hợp lý là ngắm và ăn, chứ không phải đi hết các điểm. Khách muốn đi thăm nhiều điểm thì nên xem các gợi ý trong nhóm chủ đề [du lịch](/blog/du-lich/) rồi ghép thành lịch hai ngày.
+Vịnh Hạ Long là danh thắng thiên nhiên nổi tiếng, khách đi lần đầu đều muốn ngắm được mặt nước và núi đá vôi, dù chỉ từ bờ. Với khung ba bốn giờ, mục tiêu hợp lý là ngắm và ăn, chứ không phải đi hết các điểm. Khách muốn đi thăm nhiều điểm thì nên xem các gợi ý trong nhóm chủ đề [du lịch](/du-lich/) rồi ghép thành lịch hai ngày.
 
 ## Lịch trình mẫu khi đi hạ long trong một ngày
 
 Sáng, khách rời Hà Nội sớm, trước khi phố đông, theo hướng Bắc Ninh rồi Quốc lộ 18. Dừng giải lao một lần sau Bắc Ninh, đổ xăng đầy ở gần Uông Bí. Trưa tới Bãi Cháy, gửi xe ở bãi trông giữ gần bờ, ăn trưa nhẹ, rồi dạo bờ và ngắm vịnh. Ba giờ chiều, khách bắt đầu đường về, dừng nghỉ một lần ở Chí Linh khi tay lái bắt đầu nặng, và về tới Hà Nội trước khi đêm muộn.
 
-Ba chi tiết làm lịch này dễ chịu hơn. Một, đồ ăn nhẹ mang theo từ Hà Nội, để trưa không phải chờ quán lâu. Hai, áo mưa để trong ngăn dễ lấy, vì mưa rào chiều ở vùng biển tới nhanh. Ba, đèn pha kiểm trước khi rời Hạ Long, vì chặng cuối về có đoạn đường rộng nhưng thiếu đèn ven. Chi tiết chuẩn bị xe và thời tiết đã nói trong bài [thời tiết và đường sổ trên đường dài](/blog/ky-nang/thoi-tiet-va-duong-sa/), khách xem trước một lượt.
+Ba chi tiết làm lịch này dễ chịu hơn. Một, đồ ăn nhẹ mang theo từ Hà Nội, để trưa không phải chờ quán lâu. Hai, áo mưa để trong ngăn dễ lấy, vì mưa rào chiều ở vùng biển tới nhanh. Ba, đèn pha kiểm trước khi rời Hạ Long, vì chặng cuối về có đoạn đường rộng nhưng thiếu đèn ven. Chi tiết chuẩn bị xe và thời tiết đã nói trong bài [thời tiết và đường sổ trên đường dài](/ky-nang/thoi-tiet-va-duong-sa/), khách xem trước một lượt.
 
 Về phần ngân sách thời gian, khách nên coi ba mốc là mốc cam kết với chính mình: mốc rời Hà Nội, mốc rời Hạ Long, và mốc dừng cuối trên đường về. Chễ chân hơn mốc nào thì chấp nhận cắt một hoạt động ở mốc kế, thay vì cố bù bằng cách chạy nhanh hơn. Với cung đường dài và đông xe, tốc độ bù giờ không đáng giá bằng một hoạt động bị bỏ, và tay lái mệt cuối ngày càng không nên tăng tốc.
 
@@ -43,4 +43,4 @@ Ngủ lại cũng cho khách thêm buổi tối ở phố biển, khi thành ph�
 
 ## Phần xe: thuê gì và hỏi gì trước khi đi
 
-Với lịch ngày về, xe phải khỏe và đã được soạn từ đầu. Khách cần thuê xe máy đi Hạ Long liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Khách gọi hỏi trước hai điều: xe số hay xe ga hiện có sẵn, và bình xăng đã đổ đầy chưa. Loại xe hợp với lịch dài ngày được nói thêm ở bài [chọn loại xe hợp hành trình](/blog/xe-may/chon-loai-xe/), còn thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Đi Hạ Long ngày về đáng hay không, câu trả lời nằm ở giờ xuất phát và sự trung thực với chính sức của tay lái.
+Với lịch ngày về, xe phải khỏe và đã được soạn từ đầu. Khách cần thuê xe máy đi Hạ Long liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Khách gọi hỏi trước hai điều: xe số hay xe ga hiện có sẵn, và bình xăng đã đổ đầy chưa. Loại xe hợp với lịch dài ngày được nói thêm ở bài [chọn loại xe hợp hành trình](/xe-may/chon-loai-xe/), còn thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Đi Hạ Long ngày về đáng hay không, câu trả lời nằm ở giờ xuất phát và sự trung thực với chính sức của tay lái.

@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe điện chạy một vòng Hồ Tây là trải nghiệm được nhiều khách du lịch và cả người Hà Nội chọn: êm, không mùi xăng, phù hợp đoạn đường ven hồ rợp bóng cây. Nhưng khác với xe xăng đổ đầy là đi được, xe điện cần tính pin, và câu hỏi xe điện thuê sạc quanh Hồ Tây ở đâu trở thành mối lo nếu bạn không chuẩn bị. Câu trả lời gồm ba phần: điểm sạc xe điện Hồ Tây nằm ở đâu, cách hỏi chủ xe thuê trước khi xuất phát, và cách ước lượng quãng đường để không cạn giữa vòng hồ. Bài viết này đi qua cả ba.
 
-Tổng quan về thuê xe điện nằm trong mục [xe điện](/blog/xe-may/xe-dien/), còn so với các dòng khác có trong phần [so sánh xe](/blog/xe-may/so-sanh-xe/) và trang [xe máy](/blog/xe-may/).
+Tổng quan về thuê xe điện nằm trong mục [xe điện](/xe-may/xe-dien/), còn so với các dòng khác có trong phần [so sánh xe](/xe-may/so-sanh-xe/) và trang [xe máy](/xe-may/).
 
 ## Điểm sạc xe điện Hồ Tây: ba nhóm chính quanh khu vực
 

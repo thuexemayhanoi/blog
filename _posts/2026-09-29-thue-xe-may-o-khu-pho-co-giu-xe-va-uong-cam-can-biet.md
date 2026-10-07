@@ -19,7 +19,7 @@ Thuê xe máy phố cổ hà nội là lựa chọn của nhiều người muố
 
 Khu phố cổ nằm ở quận Hoàn Kiếm, quanh các con phố như Hàng Bạc, Hàng Gai, Hàng Đào và ôm lấy khu Hồ Gươm. Đường ở đây hẹp, vỉa hè chiếm một phần mặt đường, xe đạp và người bộ hành nhiều, nên chiếc xe phù hợp nhất là xe tay ga nhỏ gọn hoặc xe số phổ thông, không cần máy mạnh mà cần dễ xử lý ở tốc độ thấp. Honda Vision thường ở mức 200.000 đồng một ngày, còn Honda Click hoặc Yamaha Mio thường ở mức 150.000 đồng một ngày là hai lựa chọn phổ biến cho khách đi khu này.
 
-Với khách chỉ cần xe cho buổi chiều dạo phố, gói [thuê xe](/blog/thue-xe/thue-ngay/) theo ngày là đủ. Mức cọc tùy loại xe, bạn xác nhận trực tiếp khi nhận. Điều đáng đầu tư hơn tiền là mũ bảo hiểm vừa đầu, vì phần lớn quãng đi của bạn ở trong phố đông, nhiệt và nhiều lần dừng, chiếc mũ thoáng và ôm đầu sẽ khiến buổi dạo phố dễ chịu hơn hẳn.
+Với khách chỉ cần xe cho buổi chiều dạo phố, gói [thuê xe](/thue-xe/thue-ngay/) theo ngày là đủ. Mức cọc tùy loại xe, bạn xác nhận trực tiếp khi nhận. Điều đáng đầu tư hơn tiền là mũ bảo hiểm vừa đầu, vì phần lớn quãng đi của bạn ở trong phố đông, nhiệt và nhiều lần dừng, chiếc mũ thoáng và ôm đầu sẽ khiến buổi dạo phố dễ chịu hơn hẳn.
 
 ## Đường một chiều: quy tắc sống còn của phố cổ
 
@@ -27,7 +27,7 @@ Nếu bạn chưa quen, điều đầu tiên gây bối rối là các con phố
 
 Biển báo cấm ở đây cũng dày hơn nơi khác: cấm rẽ vào một số giờ, cấm đỗ, cấm ô tô vào ngõ nhỏ. Nếu bạn cần dừng lại chụp ảnh, đừng đỗ trên lòng đường, hãy gửi vào bãi gần đó rồi đi bộ, vừa an toàn cho xe vừa không cản dòng người.
 
-Một mẹo thực dụng khi đi trong mê cung một chiều là chọn một trục quen làm mốc, ví dụ một con phố chạy thẳng tới bờ hồ, rồi đặt các chặng dừng lần lượt dọc trục đó. Cách này giúp bạn luôn biết mình đang ở phía nào so với chỗ gửi xe, và dù đi lạc một hai phố, bạn vẫn quay về được mốc cũ mà không phải hỏi lại nhiều lần. Người địa phương ở đây đi rất nhanh và quen đường, đừng vì giữ nhịp theo họ mà rẽ tắt lên phố một chiều ngược. Kinh nghiệm chọn loại xe cho từng loại đường và cách xử lý ở đoạn đông người được tách kỹ trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/).
+Một mẹo thực dụng khi đi trong mê cung một chiều là chọn một trục quen làm mốc, ví dụ một con phố chạy thẳng tới bờ hồ, rồi đặt các chặng dừng lần lượt dọc trục đó. Cách này giúp bạn luôn biết mình đang ở phía nào so với chỗ gửi xe, và dù đi lạc một hai phố, bạn vẫn quay về được mốc cũ mà không phải hỏi lại nhiều lần. Người địa phương ở đây đi rất nhanh và quen đường, đừng vì giữ nhịp theo họ mà rẽ tắt lên phố một chiều ngược. Kinh nghiệm chọn loại xe cho từng loại đường và cách xử lý ở đoạn đông người được tách kỹ trong bài [chọn loại xe](/xe-may/chon-loai-xe/).
 
 ## Khu đi bộ cuối tuần quanh Hồ Gươm: tính khung giờ trước khi đi
 
@@ -39,7 +39,7 @@ Cuối tuần, khu vực quanh Hồ Gươm thường được tổ chức thành
 
 Để xe lề đường trong khu phố cổ vừa rủi ro bị móp xước, mất đồ cũng như bị xử lý vi phạm, vừa cản dòng người. Các bãi gửi xe trong khu thường có bảng giá niêm yết tại chỗ, và mức giá có thể cao hơn mặt bằng các khu khác do vị trí trung tâm. Khi gửi xe, chụp ảnh xe, để ý ký hiệu khu gửi và vé nhận xe; với xe thuê, việc này càng quan trọng vì bạn phải trả lại chủ xe đúng hiện trạng.
 
-Các mẹo giữ đồ an toàn và cách bố trí hành lý khi đi trong phố đông được gom trong bài [chỗ để xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/). Nguyên tắc ngắn gọn: tài liệu gốc mang theo người, đồ giá trị cho vào cốp hoặc đeo trước ngực, không balo đeo sau lưng trong đám đông. Giới thiệu về các con phố và điểm dừng chân quanh khu này nằm ở trang [phố cổ](/blog/du-lich/pho-co/), phù hợp để bạn dựng lộ trình dạo phố trước khi nhận xe.
+Các mẹo giữ đồ an toàn và cách bố trí hành lý khi đi trong phố đông được gom trong bài [chỗ để xe và hành lý](/ky-nang/cho-do-va-hanh-ly/). Nguyên tắc ngắn gọn: tài liệu gốc mang theo người, đồ giá trị cho vào cốp hoặc đeo trước ngực, không balo đeo sau lưng trong đám đông. Giới thiệu về các con phố và điểm dừng chân quanh khu này nằm ở trang [phố cổ](/du-lich/pho-co/), phù hợp để bạn dựng lộ trình dạo phố trước khi nhận xe.
 
 ## Lộ trình gợi ý cho một buổi đi phố cổ bằng xe thuê
 

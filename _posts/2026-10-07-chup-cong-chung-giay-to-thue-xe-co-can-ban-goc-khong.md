@@ -24,7 +24,7 @@ Về pháp lý, giấy căn cước công dân không được dùng làm tài s
 
 ## Rủi ro khi để tiệm giữ bản gốc
 
-Để bản gốc căn cước lại cửa hàng trong suốt kỳ thuê nghĩa là bạn không mang theo giấy tờ tùy thân khi lưu thông, trong khi người điều khiển xe máy bắt buộc phải mang theo, như đã phân tích trong bài về [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Gặp chốt kiểm tra hoặc sự cố giao thông, bạn phải mất thời gian giải trình vì sao giấy không trong người.
+Để bản gốc căn cước lại cửa hàng trong suốt kỳ thuê nghĩa là bạn không mang theo giấy tờ tùy thân khi lưu thông, trong khi người điều khiển xe máy bắt buộc phải mang theo, như đã phân tích trong bài về [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Gặp chốt kiểm tra hoặc sự cố giao thông, bạn phải mất thời gian giải trình vì sao giấy không trong người.
 
 Rủi ro thứ hai là thất lạc. Giấy tờ để lại tiệm có thể bị thất lạc trong kỳ thuê dài, hoặc bị giữ thêm khi hai bên tranh chấp về hư hỏng xe lúc trả. Việc cấp lại căn cước mất thời gian chờ và trong khoảng thời gian đó bạn tạm không có giấy tờ tùy thân dùng cho việc khác. So sánh mức thiệt hại: mất bản photo chỉ ảnh hưởng một bản sao, còn mất bản gốc ảnh hưởng trực tiếp đến đời sống giấy tờ của bạn.
 
@@ -34,7 +34,7 @@ Rủi ro thứ ba là thông tin cá nhân. Bản gốc chứa đầy đủ mặ
 
 Nhiều người tưởng bản photo có công chứng mang giá trị pháp lý cao vượt trội so với bản photo thường, nên chuẩn bị sẵn trước khi đi thuê. Thực chất công chứng chỉ xác nhận bản sao khớp với bản gốc tại thời điểm công chứng, phục vụ mục đích lưu hồ sơ; nó không thay thế bản gốc khi cần đối chiếu trực tiếp và không tạo thêm nghĩa vụ nào cho bạn. Khi thuê xe máy, bản photo công chứng hay bản chụp điện thoại đều phục vụ cùng một mục đích: giúp tiệm có thông tin truy cứu nếu xảy ra sự cố trong kỳ thuê. Nói cách khác, photo giấy tờ khi thuê xe quan trọng ở mục đích lưu hồ sơ, không phải ở con dấu, và bạn không cần phải chụp công chứng lại giấy tờ chỉ để đi thuê xe.
 
-Một số nơi đề nghị bạn gửi ảnh giấy tờ qua tin nhắn trước khi đến nhận xe. Cách này tiện nhưng nên dùng hạn chế: gửi ảnh qua kênh nhắn tin nghĩa là dữ liệu cá nhân nằm ngoài tầm kiểm soát của bạn. Nếu bắt buộc phải gửi, hãy gửi bản đã che bớt thông tin không cần thiết cho giao dịch thuê, chụp riêng cho lần giao dịch này và yêu cầu xóa sau khi trả xe. Việc lưu bằng chứng khi nhận xe được gom trong bài [nhận xe máy thuê nên chụp lại những gì](/blog/thue-xe/2026/10/07/nhan-xe-may-thue-nen-chup-lai-nhung-gi/), vốn khuyến nghị chụp lại hiện trạng xe từ nhiều góc; hãy làm tương tự với giấy tờ của chính bạn.
+Một số nơi đề nghị bạn gửi ảnh giấy tờ qua tin nhắn trước khi đến nhận xe. Cách này tiện nhưng nên dùng hạn chế: gửi ảnh qua kênh nhắn tin nghĩa là dữ liệu cá nhân nằm ngoài tầm kiểm soát của bạn. Nếu bắt buộc phải gửi, hãy gửi bản đã che bớt thông tin không cần thiết cho giao dịch thuê, chụp riêng cho lần giao dịch này và yêu cầu xóa sau khi trả xe. Việc lưu bằng chứng khi nhận xe được gom trong bài [nhận xe máy thuê nên chụp lại những gì](/thue-xe/2026/10/07/nhan-xe-may-thue-nen-chup-lai-nhung-gi/), vốn khuyến nghị chụp lại hiện trạng xe từ nhiều góc; hãy làm tương tự với giấy tờ của chính bạn.
 
 ## Danh sách cần làm trước khi đưa giấy tờ
 
@@ -44,7 +44,7 @@ Một số nơi đề nghị bạn gửi ảnh giấy tờ qua tin nhắn trư�
 - Kiểm tra biên nhận có chữ ký hai bên, ngày nhận xe và ngày trả xe dự kiến.
 - Chụp lại toàn bộ giấy tờ mình đã giao, đồng thời chụp hiện trạng xe khi nhận và khi trả.
 
-Với khách thuê quanh khu Long Biên, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Hà Nội hoạt động từ 09:00 đến 21:00, điện thoại 0942 467 674, và các thỏa thuận về giấy tờ đặt cọc được ghi rõ ngay khi lập hợp đồng. Bạn có thể đọc thêm bài [giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không](/blog/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-khi-thue-xe-may-an-toan-khong/) để so sánh hai hình thức trước khi quyết định.
+Với khách thuê quanh khu Long Biên, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Hà Nội hoạt động từ 09:00 đến 21:00, điện thoại 0942 467 674, và các thỏa thuận về giấy tờ đặt cọc được ghi rõ ngay khi lập hợp đồng. Bạn có thể đọc thêm bài [giữ giấy tờ thay tiền cọc khi thuê xe máy an toàn không](/thue-xe/2026/10/07/giu-giay-to-thay-tien-coc-khi-thue-xe-may-an-toan-khong/) để so sánh hai hình thức trước khi quyết định.
 
 ## Nguồn tham khảo
 

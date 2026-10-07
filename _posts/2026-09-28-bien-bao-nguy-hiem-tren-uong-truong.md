@@ -31,7 +31,7 @@ Với dốc lên, hãy chọn số hợp lý trước khi mất đà, tránh tì
 
 Biển đường trơn, vẽ hình chiếc xe trượt trên mặt đường, cảnh báo đoạn mặt đường giảm độ bám, thường gặp ở khu vực rải nhựa non, đường bê tông mòn, hoặc đoạn hay đổ dầu và bùn. Với xe máy hai bánh, mất độ bám nghĩa là ngã ngay, không có khoảng an toàn như ô tô. Vì thế, gặp biển đường trơn, hãy giảm tốc, tránh đánh lái gấp và tránh phanh trước đột ngột, giữ xe thẳng khi qua đoạn ướt.
 
-Sau mưa lớn, nhiều đoạn đường trường còn lún nền, sạt lề hoặc phủ bùn trơn, không chỉ tại vị trí có biển. Kỹ năng quan sát trời mưa, mặt đường ẩm ướt và chọn tốc độ an toàn được trình bày trong nhóm bài về [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), là tài liệu nên đọc trước mỗi chuyến đi xa trong mùa mưa.
+Sau mưa lớn, nhiều đoạn đường trường còn lún nền, sạt lề hoặc phủ bùn trơn, không chỉ tại vị trí có biển. Kỹ năng quan sát trời mưa, mặt đường ẩm ướt và chọn tốc độ an toàn được trình bày trong nhóm bài về [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), là tài liệu nên đọc trước mỗi chuyến đi xa trong mùa mưa.
 
 ## Biển cảnh báo giao lộ và các đối tượng bất ngờ
 
@@ -43,7 +43,7 @@ Về giao lộ, điểm khác biệt quan trọng: gặp biển báo giao nhau v
 
 Ba bước nên thành phản xạ: nhìn thấy tam giác vàng, giảm ngay một phần tốc độ; đọc hình vẽ hoặc biển phụ để biết rõ loại nguy hiểm; đặt xe vào vị trí an toàn trước khi vào đoạn nguy hiểm, tức vào đúng làn, tránh đầu xe container hoặc xe tải đang đổ dốc. Người thuê xe máy chạy tuyến xa lần đầu cũng nên nghỉ ngắt quãng, vì mệt mỏi làm giảm khả năng đọc biển và phản ứng, một trong những yếu tố hay bị bỏ qua nhất.
 
-Cũng nên nhớ rằng biển cảnh báo không thay thế được quan sát: nhiều đoạn nguy hiểm chưa được lắp biển, hoặc biển bị che bởi cành cây sau mùa mưa. Chạy với tốc độ cho phép dừng được xe trong tầm nhìn thấy luôn là nền tảng, biển chỉ là lớp hỗ trợ. Tổng hợp năm nhóm biển báo nằm trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), còn quy trình xử lý hồ sơ nếu bị ghi lỗi trên quốc lộ nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
+Cũng nên nhớ rằng biển cảnh báo không thay thế được quan sát: nhiều đoạn nguy hiểm chưa được lắp biển, hoặc biển bị che bởi cành cây sau mùa mưa. Chạy với tốc độ cho phép dừng được xe trong tầm nhìn thấy luôn là nền tảng, biển chỉ là lớp hỗ trợ. Tổng hợp năm nhóm biển báo nằm trong trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/), còn quy trình xử lý hồ sơ nếu bị ghi lỗi trên quốc lộ nằm trong nhóm bài về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về biển báo nguy hiểm đường trường
 

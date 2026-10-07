@@ -46,4 +46,4 @@ Một câu hỏi thực tế của khách thuê: nên đi chùa Hương bằng x
 
 Còn về ẩm thực vùng bến: món bánh cửa chùa Hương và các món đặc sản vùng Mỹ Đức đáng thử một lần, nhưng nên dùng ở các quán gần bến trong giờ đông khách vừa để ăn nóng vừa dễ quan sát xe; ăn vội giữa đường về khi trời tối và lạnh không phải lúc để thử món lạ với bụng đang đói trên xe.
 
-Tóm lại, đi chùa Hương mùa festival bằng xe máy trọn vẹn khi bạn đi sớm, gửi xe nhớ chỗ, và mặc ấm đúng kiểu đi mùa lạnh. Các chuyến lễ hội quanh Hà Nội khác được gom trong trang chủ đề [du lịch](/blog/du-lich/), kinh nghiệm chạy cung mùa đông tại [chuyên mục du lịch](/blog/du-lich/), và phần chuẩn bị trước khi nhận xe thuê tại [thuê xe máy](/blog/xe-may/).
+Tóm lại, đi chùa Hương mùa festival bằng xe máy trọn vẹn khi bạn đi sớm, gửi xe nhớ chỗ, và mặc ấm đúng kiểu đi mùa lạnh. Các chuyến lễ hội quanh Hà Nội khác được gom trong trang chủ đề [du lịch](/du-lich/), kinh nghiệm chạy cung mùa đông tại [chuyên mục du lịch](/du-lich/), và phần chuẩn bị trước khi nhận xe thuê tại [thuê xe máy](/xe-may/).

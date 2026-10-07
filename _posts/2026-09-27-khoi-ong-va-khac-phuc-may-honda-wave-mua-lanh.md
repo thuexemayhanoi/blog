@@ -25,17 +25,17 @@ Mùa đông Hà Nội, nhiều khách thuê xe số lần đầu gặp tình tr�
 
 Bước một: gạt chống đứng, vặn chìa khóa mở nguồn, để xe ổn định vài giây. Bước hai: kéo cần gió nếu xe có, vì gió bổ sung không khí khô giúp máy lạnh nổ dễ hơn; không phải đời Wave nào cũng có cần gió, nên khi nhận xe hãy hỏi cửa hàng xe của mình có hạng mục này không. Bước ba: bóp nhẹ nhịp ga một phần tư rồi đề máy, giữ đề trong các nhịp ngắn thay vì một nhịp dài làm yếu ắc quy. Máy nổ rồi, để máy chạy không tải một khoảng ngắn cho máy ấm lên rồi mới chuyển số đi, đừng vặn ga mạnh ngay khi máy còn lạnh vì dầu chưa vòng hết các chi tiết bên trong động cơ.
 
-Với xe số, có một mẹo nữa là đạp đề bằng chân nếu xe có cần đề chân: lực đạp chân thường quyết liệt hơn mô tơ đề và hay giúp máy nổ ở những hôm lạnh sâu. Trong lúc thuê xe, thói quen đạp chân đề trước khi dùng điện cũng giúp tiết kiệm ắc quy cho các lần đề sau. Tổng quan về dòng xe và các bài vận hành khác nằm ở [chủ đề Honda Wave](/blog/xe-may/honda-wave/).
+Với xe số, có một mẹo nữa là đạp đề bằng chân nếu xe có cần đề chân: lực đạp chân thường quyết liệt hơn mô tơ đề và hay giúp máy nổ ở những hôm lạnh sâu. Trong lúc thuê xe, thói quen đạp chân đề trước khi dùng điện cũng giúp tiết kiệm ắc quy cho các lần đề sau. Tổng quan về dòng xe và các bài vận hành khác nằm ở [chủ đề Honda Wave](/xe-may/honda-wave/).
 
 ## Các bước khắc phục khi máy không nổ
 
 Nếu đề nhiều nhịp mà máy chưa nổ, dừng lại vài chục giây cho ắc quy nghỉ rồi thử lại với ga bóp nhẹ hơn. Kiểm tra nhanh van xăng đã mở chưa, vì đây là nguyên nhân tầm thường nhất khiến người mới tưởng xe hỏng giữa mùa lạnh. Ở những hôm trời cực lạnh, có thể để xe nơi ít gió vài phút rồi đề lại; gió lùa làm buồng đốt mất nhiệt nhanh hơn. Nếu sau các bước trên xe vẫn không nổ máy, đó là lúc nên gọi cửa hàng thay vì tháo bugi hay mở bình xăng tự ý: xe đang trong kỳ thuê, mọi thao tác tháo lắp là việc của bên cho thuê kiểm tra.
 
-Một lưu ý về an toàn: tuyệt đối không đề máy trong garage hoặc phòng đóng kín, vì khí xăng thoát ra trong không gian hẹp là nguy hiểm thật sự kể cả chỉ đề vài nhịp. Khi cần đề máy gần nhà, mở cửa thông thoáng hoặc đẩy xe ra ngoài trời. Các bước chăm sóc định kỳ giúp máy dễ nổ hơn về sau được tổng hợp ở [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/).
+Một lưu ý về an toàn: tuyệt đối không đề máy trong garage hoặc phòng đóng kín, vì khí xăng thoát ra trong không gian hẹp là nguy hiểm thật sự kể cả chỉ đề vài nhịp. Khi cần đề máy gần nhà, mở cửa thông thoáng hoặc đẩy xe ra ngoài trời. Các bước chăm sóc định kỳ giúp máy dễ nổ hơn về sau được tổng hợp ở [bảo dưỡng xe](/xe-may/bao-duong-xe/).
 
 ## Phòng tránh từ đầu kỳ thuê
 
-Ngay khi nhận xe, hãy thử đề máy ngay tại cửa hàng, kể cả buổi chiều ấm, để nghe nhịp đề và ghi nhớ trạng thái bình thường của xe. Hỏi cửa hàng về tuổi ắc quy nếu họ biết, vì ắc quy yếu là nguyên nhân hàng đầu của khó nổ máy mùa lạnh ở xe số. Trong kỳ thuê, nếu để xe qua đêm, chọn chỗ có mái che và tránh gió lùa trực tiếp càng tốt xe càng dễ nổ sáng hôm sau. Những chuẩn bị này chiếm vài phút nhưng quyết định buổi sáng mùa đông của bạn có bắt đầu thuận hay không. Thêm các tình huống thường gặp khi thuê đã được ghi ở [mục kinh nghiệm](/blog/kinh-nghiem/).
+Ngay khi nhận xe, hãy thử đề máy ngay tại cửa hàng, kể cả buổi chiều ấm, để nghe nhịp đề và ghi nhớ trạng thái bình thường của xe. Hỏi cửa hàng về tuổi ắc quy nếu họ biết, vì ắc quy yếu là nguyên nhân hàng đầu của khó nổ máy mùa lạnh ở xe số. Trong kỳ thuê, nếu để xe qua đêm, chọn chỗ có mái che và tránh gió lùa trực tiếp càng tốt xe càng dễ nổ sáng hôm sau. Những chuẩn bị này chiếm vài phút nhưng quyết định buổi sáng mùa đông của bạn có bắt đầu thuận hay không. Thêm các tình huống thường gặp khi thuê đã được ghi ở [mục kinh nghiệm](/kinh-nghiem/).
 
 Khi gọi hỗ trợ, mô tả đúng hiện tượng giúp cửa hàng xử lý nhanh: đề bao nhiêu nhịp, ga đã bóp chưa, van xăng đã mở chưa, có đèn báo pin nhấp nháy không. Thông tin rõ ràng giúp bên cho thuê đoán đúng lỗi ngay qua điện thoại, thay vì phải tới kiểm tra từng hạng mục một.
 

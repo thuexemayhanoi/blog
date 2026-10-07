@@ -34,7 +34,7 @@ Vài điểm đáng nhớ khi chọn chỗ gửi xe quanh Hàng Lược. Thứ n
 
 Nếu đi theo nhóm, cách làm hay nhất là để một người xuống xem bãi trước rồi gọi cả nhóm vào, thay vì cả nhóm chen từng chiếc vào một con ngõ nhỏ. Ai đi một mình thì chọn bãi có người trông xe đương nhiệm, có bảng giá niêm yết, và lấy ảnh biển số xe của mình trước khi rời bãi — mùa Tết các bãi đông, nhầm xe xảy ra nhiều hơn thường lệ.
 
-Người chưa quen đường có thể đọc nhanh các lưu ý chung về trông giữ xe hai bánh trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), hoặc xem trước các điểm đến quanh Hoàn Kiếm trong chuyên mục [phố cổ](/blog/du-lich/pho-co/).
+Người chưa quen đường có thể đọc nhanh các lưu ý chung về trông giữ xe hai bánh trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/), hoặc xem trước các điểm đến quanh Hoàn Kiếm trong chuyên mục [phố cổ](/du-lich/pho-co/).
 
 ## Đường vào bằng xe máy: nên đi hướng nào
 
@@ -42,7 +42,7 @@ Hàng Lược là phố một chiều kết hợp với khu chợ, nên hướng
 
 Lời khuyên thiết thực nhất: đừng cố chạy sát Hàng Lược mùa Tết. Đi xe máy vào đến đầu phố rồi phải lùi ra là chuyện thường, vì lòng đường khi đó gần như của người đi bộ. Chạy đến một bãi giữ xe cách phố vài phút đi bộ, gửi xe rồi đi bộ vào luôn là phương án ít mệt nhất.
 
-Ai thuê xe máy ở khu Long Biên hoặc bờ bắc sông Hồng thì càng nên theo cách này: chạy qua cầu, gửi xe ở bãi quanh Hàng Đậu hoặc Phùng Hưng, rồi thong thả bộ vào phố. Nhớ rằng xe thuê cũng như xe nhà, giữ giấy tờ và chìa khóa cẩn thận vì bãi mùa Tết rất đông. Người mới chạy xe máy trong nội đô lần đầu nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi đi.
+Ai thuê xe máy ở khu Long Biên hoặc bờ bắc sông Hồng thì càng nên theo cách này: chạy qua cầu, gửi xe ở bãi quanh Hàng Đậu hoặc Phùng Hưng, rồi thong thả bộ vào phố. Nhớ rằng xe thuê cũng như xe nhà, giữ giấy tờ và chìa khóa cẩn thận vì bãi mùa Tết rất đông. Người mới chạy xe máy trong nội đô lần đầu nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước buổi đi.
 
 ## Chuẩn bị nhỏ làm buổi đi dễ hơn
 
@@ -52,4 +52,4 @@ Trang phục nên có áo ấm dạng khoác: chạy xe buổi tối cuối năm
 
 Cuối cùng là cách xếp lịch: nên xếp phố Hàng Lược cùng một buổi với vài điểm gần đó như chợ Đồng Xuân, Hàng Mã, vì tất cả nằm trong bán kính đi bộ. Ai muốn trải dài cả buổi thì khởi hành từ cuối buổi chiều, ăn tối trong khu chợ, rồi kết thúc bằng một vòng đèn lồng sau tám giờ tối. Cách xếp này cho cả ba trạng thái của phố: hàng hóa ban ngày, đèn chập tối, và phố thưa về khuya.
 
-Để thấy Hàng Lược nằm trong bức tranh rộng hơn, có thể mở rộng lộ trình bằng các gợi ý trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), hoặc theo dõi mảng [du lịch](/blog/du-lich/) của chúng tôi để xem thêm các lộ trình phố cổ theo mùa. Ai cần xe máy để chạy buổi tối này có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, cách đầu cầu Long Biên chỉ vài phút chạy xe, tiện lấy xe trước khi vào phố cổ.
+Để thấy Hàng Lược nằm trong bức tranh rộng hơn, có thể mở rộng lộ trình bằng các gợi ý trong mục [điểm đến Hà Nội](/du-lich/diem-den/), hoặc theo dõi mảng [du lịch](/du-lich/) của chúng tôi để xem thêm các lộ trình phố cổ theo mùa. Ai cần xe máy để chạy buổi tối này có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, cách đầu cầu Long Biên chỉ vài phút chạy xe, tiện lấy xe trước khi vào phố cổ.

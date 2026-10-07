@@ -18,7 +18,7 @@ article_id: BLG-00713
 
 Cung quen nhất từ trung tâm là theo các trục lớn về Ngã Tư Sở rồi rẽ vào Trường Chinh: từ phía Hồ Gươm chạy trục Láng hoặc Tây Sơn lên Ngã Tư Sở, từ bên Long Biên qua cầu rồi theo các trục dẫn về hướng ga rồi rẽ lên Trường Chinh; bảo tàng nằm trên đoạn Trường Chinh phía khu Khương Mai, các cẩm nang du lịch ghi quãng chạy từ trung tâm chừng hai mươi phút trong khung vắng. Đoạn Trường Chinh dài và nhiều giao lộ đèn đỏ: khách giữ làn phải, không vượt ở các cụm giao lộ, và canh gương trước khi rẽ vào lối dẫn bảo tàng.
 
-Khung tan tầm dòng Trường Chinh dày nhanh, khách nên đi khung sáng hoặc khung xế trốn hai mép giờ cao điểm. Kinh nghiệm chạy các trục nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống đường nhiều xe được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Khung tan tầm dòng Trường Chinh dày nhanh, khách nên đi khung sáng hoặc khung xế trốn hai mép giờ cao điểm. Kinh nghiệm chạy các trục nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống đường nhiều xe được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Giờ mở cửa và ngày nên đến
 
@@ -38,7 +38,7 @@ Buổi ở bảo tàng thường mất chừng một tới hai tiếng vì phầ
 
 Khách ghép thêm điểm trong ngày nên giữ bảo tàng cho khung sáng: phần sân ngoài trời đẹp dưới nắng dịu, xem xong còn trọn khung chiều cho một cụm trong nhà hoặc cụm phố gần trung tâm. Đoạn Trường Chinh về khung xế thường đông, khách nên rời bảo tàng trước mép tan tầm để không kẹt giữa dòng.
 
-Khách muốn ghép thêm điểm quanh thành phố trong ngày có thể xem danh sách tại trang [điểm đến](/blog/du-lich/diem-den/), còn lịch trình nhiều ngày quanh thành phố được kể trong bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Danh sách các bảo tàng quanh thành phố cũng xếp trong trang [điểm đến](/blog/du-lich/diem-den/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/blog/du-lich/). Các câu hỏi về đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Khách muốn ghép thêm điểm quanh thành phố trong ngày có thể xem danh sách tại trang [điểm đến](/du-lich/diem-den/), còn lịch trình nhiều ngày quanh thành phố được kể trong bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Danh sách các bảo tàng quanh thành phố cũng xếp trong trang [điểm đến](/du-lich/diem-den/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/du-lich/). Các câu hỏi về đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Kết luận về buổi ghé bảo tàng máy bay
 

@@ -27,13 +27,13 @@ Cuối cùng là chừa đệm cho chính bản kế hoạch. Một tuần phư�
 
 Bảy ngày liên tục đòi loại xe bền và thoải mái hơn nhu cầu đi lại nội thành. Xe số như Wave nhẹ và bền đường trường, hợp người quen tư thế ngồi của xe số, dễ len qua đường cong. Xe ga như Vision hay Air Blade cho tư thế ngồi thoải mái hơn trên quãng dài và cốp rộng hơn cho đồ đạc. Nếu nhóm có người không quen đường trường, ưu tiên xe ga để bớt mỏi tay trái, và nên chọn chiếc xe đã được kiểm tra kỹ tình trạng trước khi chốt.
 
-Với chuyến bảy ngày, thuê theo tuần gần như luôn hợp hơn thuê từng ngày lẻ, vì giá gói tuần thấp hơn tổng tiền ngày và bạn giữ nguyên một chiếc xe quen tay cả hành trình. Khung giá chi tiết của hình thức này nằm trong bài [giá thuê xe máy theo tuần ở Hà Nội](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/).
+Với chuyến bảy ngày, thuê theo tuần gần như luôn hợp hơn thuê từng ngày lẻ, vì giá gói tuần thấp hơn tổng tiền ngày và bạn giữ nguyên một chiếc xe quen tay cả hành trình. Khung giá chi tiết của hình thức này nằm trong bài [giá thuê xe máy theo tuần ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/).
 
 ## Gợi ý khung lịch trình theo vùng
 
 Ba ngày đầu dành cho nội thành và vành đai gần: phố cổ, Hồ Gươm, Hồ Tây, các tuyến đê sông Hồng, và một chiều sang khu Long Biên, Bồ Đề ngắm cầu. Giai đoạn này giúp bạn quen xe, thử tốc độ và kiểm tra tiêu hao. Ba ngày giữa dành cho một tuyến tỉnh khứ hồi, ví dụ hướng Ninh Bình qua các đường quốc lộ, hoặc hướng Thái Nguyên, Việt Trì nếu muốn núi rừng phía bắc. Đặt mục tiêu 150 đến 250 km mỗi ngày tuyến xa, nghỉ giữa trưa và về nơi lưu trú trước tối. Hai ngày cuối thả lỏng: một ngày gần nội thành mua đặc sản, một ngày trả xe và di chuyển về.
 
-Nếu bạn muốn những gợi ý tuyến cụ thể đã được tổng hợp, trang [cung đường](/blog/cung-duong/) là điểm xuất phát tốt, và trang [du lịch](/blog/du-lich/) gom các kinh nghiệm du lịch bằng xe máy quanh Hà Nội.
+Nếu bạn muốn những gợi ý tuyến cụ thể đã được tổng hợp, trang [cung đường](/cung-duong/) là điểm xuất phát tốt, và trang [du lịch](/du-lich/) gom các kinh nghiệm du lịch bằng xe máy quanh Hà Nội.
 
 ## Chuẩn bị đồ đạc và giấy tờ cho tuần dài
 
@@ -41,7 +41,7 @@ Với tuần phượt, danh sách đồ nên theo nguyên tắc gọn nhẹ: áo
 
 Về chỗ ngủ, chốt trước khách sạn hoặc homestay cho những đêm ở tuyến xa, nhất là cuối tuần khi các điểm nghỉ đông khách. Gần nơi lưu trú nên có chỗ để xe an toàn qua đêm; hỏi rõ trước khi đặt để không phải dời chỗ giữa chừng.
 
-Giấy tờ cần mang theo khi thuê xe đã được nêu trong bài [thủ tục thuê xe máy ở Hà Nội](/blog/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/): đọc trước để ngày nhận xe không bị chậm vì thiếu hồ sơ.
+Giấy tờ cần mang theo khi thuê xe đã được nêu trong bài [thủ tục thuê xe máy ở Hà Nội](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/): đọc trước để ngày nhận xe không bị chậm vì thiếu hồ sơ.
 
 ## Quản lý rủi ro trong suốt tuần
 
@@ -53,4 +53,4 @@ Cuối cùng, chia nhỏ tiền và giấy tờ: một phần để trên ngư�
 
 Chuyến đi 7 ngày quanh Hà Nội bằng xe máy là hình thức du lịch tiết kiệm và tự do, và phần lớn thành bại nằm ở khung kế hoạch: phân bổ cung đường theo ba giai đoạn, chọn xe hợp đường, chuẩn bị đồ gọn, và quản lý rủi ro rõ ràng. Thuê xe theo tuần cho bạn giá tốt và một tay lái quen suốt hành trình.
 
-Hình thức thuê tuần nằm ở trang [thuê xe theo tuần](/blog/thue-xe/thue-tuan/) trong cẩm nang [thuê xe máy](/blog/thue-xe/). Trước ngày xuất phát, đừng bỏ qua bước [kiểm tra xe trước khi ký nhận](/blog/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) để cả tuần bắt đầu bằng một chiếc xe đã được soi kỹ.
+Hình thức thuê tuần nằm ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/) trong cẩm nang [thuê xe máy](/thue-xe/). Trước ngày xuất phát, đừng bỏ qua bước [kiểm tra xe trước khi ký nhận](/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) để cả tuần bắt đầu bằng một chiếc xe đã được soi kỹ.

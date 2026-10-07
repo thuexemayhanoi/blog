@@ -16,7 +16,7 @@ writer: W1
 
 Nhiều khách gọi hỏi thuê xe máy cho kỳ nghỉ lại thắc mắc một câu rất thực tế: giá thuê xe máy cuối tuần ngày thường có khác nhau không, hay lấy xe ngày nào cũng như nhau. Câu trả lời ngắn là có thể khác, nhưng mức chênh và việc có chênh hay không phụ thuộc vào từng tiệm, từng mẫu xe và thời điểm cao điểm. Bài viết này giải thích vì sao dễ xuất hiện chênh giá thuê xe cuối tuần, những khoản nào dễ bị tính khác, và cách hỏi giá trước để chuyến đi không bị đứt dự toán.
 
-Thông tin tổng quan về thuê xe máy ở Hà Nội nằm tại trang [thuê xe máy](/blog/thue-xe/), nơi bạn cũng tìm thấy hướng dẫn về thủ tục, đặt cọc và cách nhận xe.
+Thông tin tổng quan về thuê xe máy ở Hà Nội nằm tại trang [thuê xe máy](/thue-xe/), nơi bạn cũng tìm thấy hướng dẫn về thủ tục, đặt cọc và cách nhận xe.
 
 ## Vì sao dễ có chênh giá thuê xe cuối tuần so với ngày thường
 
@@ -44,7 +44,7 @@ Còn nếu lịch cố định là hai ngày nghỉ, hãy đặt xe sớm: xe c�
 
 ## Điểm quan trọng hơn mức chênh: xe đúng nhu cầu
 
-Cuối tuần xe quay vòng nhanh, và rủi ro lớn nhất không phải vài chục nghìn chênh giá, mà là nhận phải mẫu không hợp: xe yếu cho hai người đi đèo, cốp bé cho chuyến mua sắm, hoặc mũ bảo hiểm thiếu cho cả nhóm. Vì thế khi hỏi giá, hãy chốt luôn mẫu xe, tình trạng lốp, phanh và số mũ đi kèm. Nếu bạn còn đang phân vân dòng xe nào phù hợp, các bài về chọn xe trong trang [xe máy](/blog/xe-may/) sẽ giúp bạn so trước khi gọi; phần [hỏi đáp](/blog/hoi-dap/) cũng tổng hợp nhiều câu hỏi thực tế về giá và thủ tục.
+Cuối tuần xe quay vòng nhanh, và rủi ro lớn nhất không phải vài chục nghìn chênh giá, mà là nhận phải mẫu không hợp: xe yếu cho hai người đi đèo, cốp bé cho chuyến mua sắm, hoặc mũ bảo hiểm thiếu cho cả nhóm. Vì thế khi hỏi giá, hãy chốt luôn mẫu xe, tình trạng lốp, phanh và số mũ đi kèm. Nếu bạn còn đang phân vân dòng xe nào phù hợp, các bài về chọn xe trong trang [xe máy](/xe-may/) sẽ giúp bạn so trước khi gọi; phần [hỏi đáp](/hoi-dap/) cũng tổng hợp nhiều câu hỏi thực tế về giá và thủ tục.
 
 ## Tóm lại, nên kỳ vọng thế nào về giá cuối tuần
 

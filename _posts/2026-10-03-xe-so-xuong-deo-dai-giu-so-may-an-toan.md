@@ -46,4 +46,4 @@ Với xe thuê, kiểm tra buổi nhận xe đáng làm kỹ hơn nếu dự đ�
 
 Cũng nên hỏi chủ xe về đặc tính xe: có xe số cho thuê đã cũ, số một khô kèn khi vào nhanh, và chủ xe biết rõ từng đặc tính như vậy. Một câu hỏi trước buổi nhận giúp bạn chọn đúng cách về số trên đường.
 
-Cuối cùng, nếu đèo là chặng dài trong hành trình, hãy nghỉ trước khi xuống: mệt thì phản xạ chậm, và đèo là nơi mọi phản xạ đều cần trọn vẹn. Người muốn ôn thêm các kỹ năng cơ bản khác có thể đọc [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), hiểu thêm về dòng xe số thì xem [xe số](/blog/xe-may/xe-so/), và tổng quan về các dòng xe cho thuê nằm tại [mục xe máy](/blog/xe-may/).
+Cuối cùng, nếu đèo là chặng dài trong hành trình, hãy nghỉ trước khi xuống: mệt thì phản xạ chậm, và đèo là nơi mọi phản xạ đều cần trọn vẹn. Người muốn ôn thêm các kỹ năng cơ bản khác có thể đọc [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), hiểu thêm về dòng xe số thì xem [xe số](/xe-may/xe-so/), và tổng quan về các dòng xe cho thuê nằm tại [mục xe máy](/xe-may/).

@@ -14,7 +14,7 @@ article_id: BLG-01519
 writer: W1
 ---
 
-Bạn nhận xe lúc chiều còn sáng, chạy tới tối mới phát hiện chùm sáng trước mặt nhợt nhạt, đó chính là tình huống đèn pha xe thuê yếu ban đêm mà nhiều khách đã gặp. Đèn yếu không phải lỗi nghiêm trọng, nhưng chạy đêm mà không nhìn rõ đường phía trước là rủi ro thật sự, vì phần lớn va chạm về đêm đều liên quan tới tầm nhìn. Người lái chỉ thấy chướng ngại ở giây cuối thì mọi phản ứng đều muộn, kể cả phanh tốt đến đâu. Bài viết trong [chuỗi bài về xe máy](/blog/xe-may/) giúp bạn kiểm tra nhanh tại chỗ, đoán nguyên nhân và biết việc gì nên tự làm, việc gì nên để cửa hàng lo.
+Bạn nhận xe lúc chiều còn sáng, chạy tới tối mới phát hiện chùm sáng trước mặt nhợt nhạt, đó chính là tình huống đèn pha xe thuê yếu ban đêm mà nhiều khách đã gặp. Đèn yếu không phải lỗi nghiêm trọng, nhưng chạy đêm mà không nhìn rõ đường phía trước là rủi ro thật sự, vì phần lớn va chạm về đêm đều liên quan tới tầm nhìn. Người lái chỉ thấy chướng ngại ở giây cuối thì mọi phản ứng đều muộn, kể cả phanh tốt đến đâu. Bài viết trong [chuỗi bài về xe máy](/xe-may/) giúp bạn kiểm tra nhanh tại chỗ, đoán nguyên nhân và biết việc gì nên tự làm, việc gì nên để cửa hàng lo.
 
 ## Kiểm tra nhanh trong ba phút
 
@@ -40,7 +40,7 @@ Mưa đêm là tổ hợp khó nhất cho đèn yếu: mặt đường ướt nu
 
 ## Phòng tránh từ lúc nhận xe
 
-Bài học cho lần thuê sau rất đơn giản: đừng chỉ thử đèn giữa ban ngày, hãy bật đèn pha và còi ngay tại cửa hàng khi nhận xe, nhìn thử chùm sáng đổ lên tường hoặc nền. Cách kiểm tra xe tổng quát khi nhận đã được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Nếu lịch trình có chặng đêm, nói trước với cửa hàng để được giao xe có đèn tốt, và hỏi luôn số gọi khi cần hỗ trợ giữa đường. Các sự cố khác với xe thuê được nhóm trong [mục xe máy](/blog/xe-may/).
+Bài học cho lần thuê sau rất đơn giản: đừng chỉ thử đèn giữa ban ngày, hãy bật đèn pha và còi ngay tại cửa hàng khi nhận xe, nhìn thử chùm sáng đổ lên tường hoặc nền. Cách kiểm tra xe tổng quát khi nhận đã được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Nếu lịch trình có chặng đêm, nói trước với cửa hàng để được giao xe có đèn tốt, và hỏi luôn số gọi khi cần hỗ trợ giữa đường. Các sự cố khác với xe thuê được nhóm trong [mục xe máy](/xe-may/).
 
 Một thói quen nhỏ cho mọi chuyến đi đêm: mặc màu sáng dễ nhận diện, giữ khoảng cách với xe trước lớn hơn ban ngày, và chủ động giảm tốc độ một bậc so với cảm nhận của bạn. Đèn yếu được cộng thêm những thói quen này thì rủi ro chạy đêm giảm đi đáng kể, còn hơn hẳn việc cứ cố duy trì tốc độ bình thường rồi tạo dịp cho chuyện không mong muốn.
 

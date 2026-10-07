@@ -18,7 +18,7 @@ article_id: BLG-00709
 
 Đường vào bảo tàng theo trục Lý Thường Kiệt, đoạn nối từ khu hồ đi lên hướng ga: trục này hẹp hơn các trục vành ngoài, dòng hai chiều đều đậu nhanh trong khung tan tầm, khách lạ nên định sẵn lối rẽ thay vì theo lối tắt trên ứng dụng. Các phố quanh khu phần lớn một chiều, một lần rẽ sai là vòng thêm một đoạn quanh cụm Hồ Gươm. Từ bên Long Biên, quãng chạy qua cầu Chương Dương rồi theo trục phía nam hồ tới Lý Thường Kiệt chỉ mất chừng mười lăm phút trong khung vắng.
 
-Khách ghép buổi nên gửi xe tại một bãi ngõ quanh khu giữa hồ và bảo tàng, đi bộ trọn cụm trong buổi, đừng dời xe theo từng điểm. Trải nghiệm dạo quanh vành hồ và các dãy phố gần bảo tàng được kể trong bài [khám phá khu Hoàn Kiếm](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn mẹo chạy nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
+Khách ghép buổi nên gửi xe tại một bãi ngõ quanh khu giữa hồ và bảo tàng, đi bộ trọn cụm trong buổi, đừng dời xe theo từng điểm. Trải nghiệm dạo quanh vành hồ và các dãy phố gần bảo tàng được kể trong bài [khám phá khu Hoàn Kiếm](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn mẹo chạy nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
 
 ## Giờ mở cửa và ngày nên đến
 
@@ -34,13 +34,13 @@ Gửi xe Bảo tàng Phụ nữ Việt Nam chủ yếu qua các bãi ngõ quanh 
 
 Khách đoàn đi cùng lúc nên hẹn nhau tại một bãi rồi đi bộ vào, tránh mỗi xe một bãi vì các ngõ quanh khu dễ lẫn lối với người lạ. Chụp lại tên phố đầu ngõ trước khi vào bãi cũng là mẹo nhỏ giúp tìm lại xe nhanh khi ra vào giữa các khung.
 
-Xe máy thuê cần vòng kiểm tra nhanh trước buổi: đèn, còi, phanh và áp suất lốp, vì trục quanh khu có đoạn hai chiều nhanh và khách thường chạy nối thêm điểm quanh hồ trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội kể cả đoạn ngắn nối bãi và cổng. Các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Xe máy thuê cần vòng kiểm tra nhanh trước buổi: đèn, còi, phanh và áp suất lốp, vì trục quanh khu có đoạn hai chiều nhanh và khách thường chạy nối thêm điểm quanh hồ trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội kể cả đoạn ngắn nối bãi và cổng. Các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Ghép lịch nửa ngày quanh bảo tàng
 
-Bảo tàng nhỏ gọn, khách xem vừa mất chừng một tiếng tới một tiếng rưỡi, nên buổi hợp lý là xem bảo tàng khung sáng, ăn trưa quanh cụm phố, rồi dạo vành hồ buổi chiều. Các bảo tàng khác quanh thành phố được gom tại trang [bảo tàng](/blog/du-lich/bao-tang/), hợp khách muốn ghép nhiều điểm gọn trong một buổi.
+Bảo tàng nhỏ gọn, khách xem vừa mất chừng một tiếng tới một tiếng rưỡi, nên buổi hợp lý là xem bảo tàng khung sáng, ăn trưa quanh cụm phố, rồi dạo vành hồ buổi chiều. Các bảo tàng khác quanh thành phố được gom tại trang [bảo tàng](/du-lich/bao-tang/), hợp khách muốn ghép nhiều điểm gọn trong một buổi.
 
-Khách muốn mở rộng sang các bảo tàng khác trong ngày có thể xem danh sách tại trang [điểm đến](/blog/du-lich/diem-den/), còn tổng quan các trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/). Đi cùng mẹ, chị em hay nhóm bạn nữ thường là kiểu khách vui nhất ở bảo tàng này: không gian trưng bày kể chuyện phụ nữ nên dễ trò chuyện theo từng phòng.
+Khách muốn mở rộng sang các bảo tàng khác trong ngày có thể xem danh sách tại trang [điểm đến](/du-lich/diem-den/), còn tổng quan các trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/). Đi cùng mẹ, chị em hay nhóm bạn nữ thường là kiểu khách vui nhất ở bảo tàng này: không gian trưng bày kể chuyện phụ nữ nên dễ trò chuyện theo từng phòng.
 
 ## Kết luận về buổi ghé bảo tàng Phụ nữ Việt Nam
 

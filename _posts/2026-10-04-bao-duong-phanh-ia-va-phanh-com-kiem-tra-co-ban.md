@@ -48,6 +48,6 @@ Với phanh cơm, tránh để cần phanh kẹt ở trạng thái nửa bóp kh
 
 Người hay chạy chở hàng nặng phía sau cần để ý hơn nữa, vì tải trọng tăng khiến lực phanh phải lớn, và bộ phanh mòn nhanh hơn xe chạy nhẹ. Nếu dạo gần đây bạn phải bóp sát gần tay ga mới đủ thắng, đó là lúc nên kiểm, không đợi đến khi có tiếng rít. Ở phố đông, mỗi mét thắng thừa ra đều là phần an toàn của chính bạn.
 
-Bạn có thể xem thêm các hạng mục chăm sóc theo kỳ trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), kỹ năng xử lý tình huống đường phố trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), tổng quan các dòng xe trong trang [xe máy](/blog/xe-may/), và các bài kinh nghiệm chạy phố trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các hạng mục chăm sóc theo kỳ trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/), kỹ năng xử lý tình huống đường phố trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), tổng quan các dòng xe trong trang [xe máy](/xe-may/), và các bài kinh nghiệm chạy phố trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, bảo dưỡng phanh đĩa phanh cơm xoay quanh ba việc: kiểm độ dày bố, giữ mặt tiếp xúc sạch và để ý hành trình của cần phanh. Phanh đĩa cần thêm phần nhìn đĩa và dầu phanh, phanh cơm cần phần chỉnh độ rơ và giữ vành khô dầu. Kiểm mỗi tuần vài phút, và đưa xe đi ngay khi có rít hoặc rung, là cách rẻ nhất để giữ phanh luôn sẵn sàng.

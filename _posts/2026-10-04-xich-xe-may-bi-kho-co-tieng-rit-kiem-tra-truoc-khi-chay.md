@@ -50,4 +50,4 @@ Khi gọi báo, mô tả rõ loại xe, hiện tượng tiếng kêu, các bư�
 
 Ngay khi nhận xe, hãy dành một phút cúi xuống nhìn xích: màu dầu, độ chùng, các mắt xích có đều không. Nếu thấy khô ngay từ đầu, yêu cầu chủ cho thuê bôi trơn trước khi nhận, hoặc tự hỏi mượn dầu để xử. Trong kỳ thuê, tránh phơi xe dưới mưa cả ngày không che, tránh rửa xe bằng cách xịt nước áp lực mạnh thẳng vào xích vì làm trôi hết lớp dầu bảo vệ.
 
-Xích khỏe giúp xe êm, ga nhẹ và tiết kiệm nhiên liệu hơn. Bạn có thể đọc thêm về chăm sóc xe trong mục [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/), xem tổng hợp về [xe máy](/blog/xe-may/), hoặc tham khảo các bài [kinh nghiệm](/blog/kinh-nghiem/) để mọi chuyến đi ở Hà Nội đều suôn sẻ.
+Xích khỏe giúp xe êm, ga nhẹ và tiết kiệm nhiên liệu hơn. Bạn có thể đọc thêm về chăm sóc xe trong mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/), xem tổng hợp về [xe máy](/xe-may/), hoặc tham khảo các bài [kinh nghiệm](/kinh-nghiem/) để mọi chuyến đi ở Hà Nội đều suôn sẻ.

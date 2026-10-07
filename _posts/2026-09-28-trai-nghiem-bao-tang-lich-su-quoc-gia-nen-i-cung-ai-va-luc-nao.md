@@ -32,13 +32,13 @@ Một cơ sở cần chừng một tiếng rưỡi tới hai tiếng cho khách 
 
 Khách muốn xem kỹ cả hai cơ sở nên xếp hai buổi liền kề trong hai ngày, hoặc một buổi dài có nghỉ trưa giữa hai điểm: xem xong trụ sở chính, nghỉ quanh khu Ba Đình, rồi sang cơ sở phía hồ lúc mở khung chiều. Giữ mỗi cơ sở một khung giúp tránh mệt mắt giữa buổi và giữ được nhịp đọc thẻ hiện vật theo phòng.
 
-Khách muốn mở rộng lịch quanh thành phố có thể tham khảo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn kinh nghiệm dạo cụm quanh vành hồ nằm trong bài [khám phá khu Hoàn Kiếm](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/). Danh sách các bảo tàng và điểm quanh thành phố xếp tại trang [điểm đến](/blog/du-lich/diem-den/).
+Khách muốn mở rộng lịch quanh thành phố có thể tham khảo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn kinh nghiệm dạo cụm quanh vành hồ nằm trong bài [khám phá khu Hoàn Kiếm](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/). Danh sách các bảo tàng và điểm quanh thành phố xếp tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Chuẩn bị xe máy cho buổi có bảo tàng
 
 Buổi xem bảo tàng thường xen giữa các cụm phố, nên xe máy cần vòng kiểm tra nhanh trước khi xuất phát: đèn, còi, phanh, áp suất lốp, và đổ đủ xăng cho cả buổi. Chỗ gửi xe tại 25 Phan Đình Phùng theo chỉ dẫn tại cổng bảo tàng, còn quanh 216 Trần Quang Khải là các bãi ngõ khu Hồ Gươm, khách nên gửi một chỗ rồi đi bộ trong cụm. Mùa mưa nên mang áo gấp, vì quãng nối hai cơ sở không có mái che.
 
-Khách thuê xe mang giấy tờ theo người, chụp tình trạng xe khi nhận, và đội mũ bảo hiểm kể cả đoạn ngắn nối bãi. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/), còn tổng quan các trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách thuê xe mang giấy tờ theo người, chụp tình trạng xe khi nhận, và đội mũ bảo hiểm kể cả đoạn ngắn nối bãi. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/), còn tổng quan các trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về buổi tham quan bảo tàng Lịch sử
 

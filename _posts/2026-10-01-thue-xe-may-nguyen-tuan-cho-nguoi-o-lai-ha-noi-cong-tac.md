@@ -17,9 +17,9 @@ Thuê xe máy nguyên tuần là lựa chọn của rất nhiều người đi c
 
 ## Thuê xe máy nguyên tuần: chọn xe bền trước hết
 
-Người công tác cần xe mỗi ngày, nên tiêu chí hàng đầu là đáng tin: máy nổ ngay cả sáng mùa lạnh, phanh ăn, đèn sáng, và không có tiếng kêu lạ. Dòng xe số phổ thông là lựa chọn phổ biến cho gói tuần: cấu tạo đơn giản, ít hỏng vặt, và phụ tùng dễ tìm nếu chẳng may trục trặc. Khách đi mưa nhiều nên cân nhắc xe có chắn bùn tốt, và khách mang hồ sơ, laptop thì ưu tiên xe có cốp rộng hoặc hộc đựng đồ. Tham khảo cách chọn dòng theo nhu cầu trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), rồi gọi hỏi điểm cho thuê dòng nào sẵn trong tuần.
+Người công tác cần xe mỗi ngày, nên tiêu chí hàng đầu là đáng tin: máy nổ ngay cả sáng mùa lạnh, phanh ăn, đèn sáng, và không có tiếng kêu lạ. Dòng xe số phổ thông là lựa chọn phổ biến cho gói tuần: cấu tạo đơn giản, ít hỏng vặt, và phụ tùng dễ tìm nếu chẳng may trục trặc. Khách đi mưa nhiều nên cân nhắc xe có chắn bùn tốt, và khách mang hồ sơ, laptop thì ưu tiên xe có cốp rộng hoặc hộc đựng đồ. Tham khảo cách chọn dòng theo nhu cầu trong bài [chọn loại xe](/xe-may/chon-loai-xe/), rồi gọi hỏi điểm cho thuê dòng nào sẵn trong tuần.
 
-Về chi phí, thuê theo tuần thường có giá ưu đãi hơn tổng bảy ngày lẻ, và khách nên hỏi luôn cả giá tuần lẫn giá ngày để so sánh. Mức giá công khai của từng dòng được niêm yết ở trang [bảng giá](/blog/bang-gia/). Với khách công tác dài hơi, câu hỏi đáng giá nhất không phải giá rẻ nhất mà là: nếu xe hỏng giữa tuần thì đổi xe trong bao lâu, vì một ngày không có xe là một ngày bỏ việc.
+Về chi phí, thuê theo tuần thường có giá ưu đãi hơn tổng bảy ngày lẻ, và khách nên hỏi luôn cả giá tuần lẫn giá ngày để so sánh. Mức giá công khai của từng dòng được niêm yết ở trang [bảng giá](/bang-gia/). Với khách công tác dài hơi, câu hỏi đáng giá nhất không phải giá rẻ nhất mà là: nếu xe hỏng giữa tuần thì đổi xe trong bao lâu, vì một ngày không có xe là một ngày bỏ việc.
 
 ## Thủ tục thuê theo tuần: chốt rõ ba điểm
 
@@ -29,7 +29,7 @@ Một khoản phụ đáng hỏi với khách công tác: hóa đơn hoặc phi�
 
 ## Gửi xe qua đêm và giữ xe suốt tuần
 
-Người công tác thường ngủ khách sạn, và xe gửi qua đêm là bài toán thật: khách sạn có bãi giữ xe thì nhờ gửi cùng phòng, khách sạn không có thì tìm bãi trông xe gần nhất và gửi theo đêm. Nguyên tắc là xe qua đêm phải ở chỗ có người trông hoặc có camera, và khách nên hỏi giá gửi ngay đêm đầu để biết chi phí cố định cho cả tuần. Cách gửi xe an toàn đã được nói chi tiết trong trang [thuê xe tuần](/blog/thue-xe/thue-tuan/), khách đọc để nắm các lưu ý với xe gửi dài ngày.
+Người công tác thường ngủ khách sạn, và xe gửi qua đêm là bài toán thật: khách sạn có bãi giữ xe thì nhờ gửi cùng phòng, khách sạn không có thì tìm bãi trông xe gần nhất và gửi theo đêm. Nguyên tắc là xe qua đêm phải ở chỗ có người trông hoặc có camera, và khách nên hỏi giá gửi ngay đêm đầu để biết chi phí cố định cho cả tuần. Cách gửi xe an toàn đã được nói chi tiết trong trang [thuê xe tuần](/thue-xe/thue-tuan/), khách đọc để nắm các lưu ý với xe gửi dài ngày.
 
 Giữ xe qua tuần cũng là giữ vệ sinh xe: khách đi mưa về nên lau khô yên và khóa, tránh ẩm vào mạch điện; khách chở hồ sơ giấy thì bọc nylon chắn nước. Mỗi sáng trước khi nổ máy, khách liếc nhanh: đồng hồ, gương, nhớt, đèn, chỉ mất một phút mà cả tuần không bỏ sót chuyện nhỏ.
 
@@ -41,7 +41,7 @@ Cuối tuần là lúc khách tận dụng chiếc xe thuê cho nhu cầu riêng
 
 ## Sự cố giữa tuần: xử lý không bỏ việc
 
-Nếu xe hỏng giữa tuần, khách gọi ngay cho chủ xe theo số đã lưu, mô tả hiện tượng, và hỏi hướng dẫn tạm thời. Với xe số phổ thông, đa số trục trặc nhỏ xử được nhanh, nhưng khách không nên tự mổ xe. Chủ xe thường đưa xe thay trong buổi, và khách nên hỏi phần chênh quỹ đường đổi xe được tính thế nào để chủ động sắp lịch. Toàn bộ hướng dẫn xử lý khi xe gặp trục trặc giữa chuyến đã có trong trang [thuê xe](/blog/thue-xe/), khách xem trước thay vì lúc gặp mới lục tìm.
+Nếu xe hỏng giữa tuần, khách gọi ngay cho chủ xe theo số đã lưu, mô tả hiện tượng, và hỏi hướng dẫn tạm thời. Với xe số phổ thông, đa số trục trặc nhỏ xử được nhanh, nhưng khách không nên tự mổ xe. Chủ xe thường đưa xe thay trong buổi, và khách nên hỏi phần chênh quỹ đường đổi xe được tính thế nào để chủ động sắp lịch. Toàn bộ hướng dẫn xử lý khi xe gặp trục trặc giữa chuyến đã có trong trang [thuê xe](/thue-xe/), khách xem trước thay vì lúc gặp mới lục tìm.
 
 Tóm lại, thuê xe máy nguyên tuần cho người công tác là bài toán của sự đáng tin: xe bền, thủ tục rõ ba điểm, gửi xe qua đêm có chỗ, và có phương án đổi xe nếu hỏng. Giải quyết được bốn việc này, khách chỉ cần lo công việc của mình, còn chiếc xe cứ lặng lẽ đưa đón cả tuần.
 

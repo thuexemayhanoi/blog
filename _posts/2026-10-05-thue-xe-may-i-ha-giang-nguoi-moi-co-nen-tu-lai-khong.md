@@ -16,7 +16,7 @@ writer: W1
 
 Hà Giang là cung huyền thoại của dân chạy xe miền Bắc, và cũng là cung bị hỏi nhiều nhất một câu: người mới tự lái xe đi Hà Giang có nên không. Câu trả lời thẳng thắn: tùy người mới nghĩa là gì. Người mới ở mức chạy chắc phố và đã chạy vài cung tỉnh lân cận là chuyện khác với người mới chỉ biết nổ máy đi lại quãng ngắn. Bài này cho bạn thước đo tự kiểm tra, cách chọn xe và tuyến nếu quyết định đi, và các phương án thay thế khi tự lái chưa phải lúc.
 
-Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/blog/cung-duong/), gợi ý riêng cho tuyến này trong phần [Hà Giang](/blog/cung-duong/ha-giang/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/cung-duong/), gợi ý riêng cho tuyến này trong phần [Hà Giang](/cung-duong/ha-giang/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Người mới tự lái xe đi Hà Giang cần thước đo gì
 

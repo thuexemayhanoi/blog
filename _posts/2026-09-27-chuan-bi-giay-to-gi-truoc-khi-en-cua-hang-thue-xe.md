@@ -49,7 +49,7 @@ Ngoài hai giấy tờ chính, vài thứ nhỏ giúp buổi thuê xe nhanh hơn
 
 Nếu bạn thuê hộ người khác, ví dụ con hoặc người già trong nhà, hãy đến cùng hoặc chuẩn bị sẵn giấy tờ photo của người thực sự điều khiển. Cửa hàng ghi biên nhận theo người chịu trách nhiệm chính, và người đó cần là người cầm lái chính trong kỳ thuê.
 
-Phần giải thích rộng hơn về các loại giấy tờ liên quan tới xe và cá nhân nằm trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/). Trước khi đến, bạn nên nắm trình tự trong phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) để biết từ lúc tới cửa hàng tới lúc nhận chìa, và tham khảo cẩm nang [thuê xe máy](/blog/thue-xe/) cho bối cảnh chung của việc thuê xe tại Hà Nội.
+Phần giải thích rộng hơn về các loại giấy tờ liên quan tới xe và cá nhân nằm trong trang [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/). Trước khi đến, bạn nên nắm trình tự trong phần [thủ tục thuê xe](/thue-xe/thu-tuc/) để biết từ lúc tới cửa hàng tới lúc nhận chìa, và tham khảo cẩm nang [thuê xe máy](/thue-xe/) cho bối cảnh chung của việc thuê xe tại Hà Nội.
 
 ## Nếu giấy tờ đang bị giữ hoặc không mang theo
 

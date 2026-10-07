@@ -40,4 +40,4 @@ Với các em từ mười sáu, mười bảy tuổi muốn tự đi xe: chờ 
 
 ## Ghi nhớ cho buổi nhận xe
 
-Người đủ tuổi ký hợp đồng và mang bộ giấy tờ; người dưới 18 đi kèm như hành khách, không cầm lái; mọi thắc mắc về điều khoản hỏi thẳng tại quầy trước khi ký. Các câu hỏi về thủ tục thuê xe khác nằm trong trang [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/), phần giấy tờ cần chuẩn bị khi thuê ở Hà Nội trong [chuyên mục hỏi đáp](/blog/hoi-dap/), và tổng quan các câu hỏi về giá thuê tại [hỏi đáp về giá](/blog/hoi-dap/hoi-dap-gia/).
+Người đủ tuổi ký hợp đồng và mang bộ giấy tờ; người dưới 18 đi kèm như hành khách, không cầm lái; mọi thắc mắc về điều khoản hỏi thẳng tại quầy trước khi ký. Các câu hỏi về thủ tục thuê xe khác nằm trong trang [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/), phần giấy tờ cần chuẩn bị khi thuê ở Hà Nội trong [chuyên mục hỏi đáp](/hoi-dap/), và tổng quan các câu hỏi về giá thuê tại [hỏi đáp về giá](/hoi-dap/hoi-dap-gia/).

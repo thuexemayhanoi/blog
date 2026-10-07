@@ -17,7 +17,7 @@ Mọi thứ thuê xe máy dần chuyển lên điện thoại: xem giá, đặt 
 
 ## Cọc online thuê xe máy hoạt động thế nào
 
-Về bản chất, cọc online thuê xe máy không khác cọc tiền mặt: một khoản giữ niềm tin để chủ xe giao tài sản, hoàn lại khi trả xe nguyên trạng. Khác chỉ nằm ở kênh: thay vì trao tay phong bì, bạn chuyển khoản qua ví hoặc ứng dụng, và phần bằng chứng tồn tại dưới dạng tin nhắn giao dịch. Cách xử lý cọc trong các tình huống thông thường vẫn dựa trên cùng một bộ nguyên tắc, được giải thích trong phần [tiền đặt cọc](/blog/thue-xe/dat-coc/), nên nắm được phần gốc là bạn nắm được cả phần online.
+Về bản chất, cọc online thuê xe máy không khác cọc tiền mặt: một khoản giữ niềm tin để chủ xe giao tài sản, hoàn lại khi trả xe nguyên trạng. Khác chỉ nằm ở kênh: thay vì trao tay phong bì, bạn chuyển khoản qua ví hoặc ứng dụng, và phần bằng chứng tồn tại dưới dạng tin nhắn giao dịch. Cách xử lý cọc trong các tình huống thông thường vẫn dựa trên cùng một bộ nguyên tắc, được giải thích trong phần [tiền đặt cọc](/thue-xe/dat-coc/), nên nắm được phần gốc là bạn nắm được cả phần online.
 
 Điều đáng nói đầu tiên: hình thức cọc nào được nhận thuộc thỏa thuận từng cửa hàng. Có nơi nhận chuyển khoản hoặc ví thoải mái, có nơi vẫn muốn cọc tiền mặt cho dòng xe giá trị cao. Vì vậy câu hỏi đầu tiên lúc đặt luôn là: cửa hàng nhận cọc qua ví hay không, và nếu nhận thì chuyển tới số tài khoản hay số ví nào, do ai đứng tên. Xác nhận đúng thông tin nhận trước khi chuyển là bước sơ đẳng nhất nhưng cũng hay bị bỏ qua nhất.
 
@@ -31,7 +31,7 @@ Cũng nên tập thói quen chụp lại tin nhắn chốt cọc và lưu vào m
 
 Thứ nhất, đừng chuyển cọc theo một số tài khoản hoặc số ví xuất hiện từ nguồn lạ, kể cả khi tin nhắn trông rất giống cửa hàng: thông tin nhận đúng phải do cửa hàng đưa trực tiếp trong cuộc gọi hoặc kênh chính thức. Thứ hai, đừng chuyển cọc trước khi mọi điều khoản cơ bản đã chốt, vì cọc chuyển đi rồi mới bàn lách thì bạn đã mất thế chủ động của người mua. Thứ ba, đừng xem phần cọc như phần đặt xe và rồi đặt luôn mà không hỏi: hai khái niệm này khác nhau, phần cọc để hoàn, còn mọi khoản đã chốt trước thuộc phần thỏa thuận riêng của từng lượt.
 
-Về phần hoàn cọc, cũng nên hỏi trước đường về của khoản tiền: hoàn về đúng ví đã chuyển, về tài khoản khác, hay nhận lại tiền mặt khi trả xe. Mỗi cách có thời gian tới khác nhau, và biết trước giúp bạn không phải đợi tin nhắn suốt buổi tối hôm trả xe. Cách hỏi giá, cọc và giấy tờ trước khi đặt được tóm tắt trong phần [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/), phần nào cũng có thể làm trọn qua điện thoại, không cần gặp mặt trước.
+Về phần hoàn cọc, cũng nên hỏi trước đường về của khoản tiền: hoàn về đúng ví đã chuyển, về tài khoản khác, hay nhận lại tiền mặt khi trả xe. Mỗi cách có thời gian tới khác nhau, và biết trước giúp bạn không phải đợi tin nhắn suốt buổi tối hôm trả xe. Cách hỏi giá, cọc và giấy tờ trước khi đặt được tóm tắt trong phần [thủ tục thuê xe máy](/thue-xe/thu-tuc/), phần nào cũng có thể làm trọn qua điện thoại, không cần gặp mặt trước.
 
 Với kỳ thuê dài hạn, cọc online còn có một tiện ích ít người dùng hết: nó để lại chuỗi dấu vết theo thời gian. Ngày nào chuyển, số nào, nội dung gì, đều nằm gọn trong lịch sử ví, và tới kỳ đối soát cuối cùng, bạn có cả một sổ ghi rõ ràng thay vì phải ngồi nhớ lại từng đợt. Người thuê theo tuần, theo tháng quanh Hà Nội mà dùng đúng cách này thì buổi quyết toán cuối gần như chỉ là việc mở lịch sử ví lên và đọc theo dòng.
 
@@ -39,4 +39,4 @@ Cuối cùng, một cách nhìn đáng nhớ về cọc online: nó không chỉ
 
 ## Tóm lại
 
-Đặt cọc qua ví điện tử khi thuê xe máy tiện và sạch sẽ hơn hẳn cách cũ, với điều kiện ba bằng chứng luôn hiện diện: ghi giao dịch, nội dung chuyển rõ ràng, và tin nhắn chốt điều kiện với cửa hàng. Mức cọc và hình thức giữ luôn là phần thỏa thuận trực tiếp từng lượt, không có con số chung cho mọi nơi, nên câu hỏi trước khi đặt luôn đáng giá hơn phỏng đoán. Các bước chuẩn bị đầy đủ của một lần thuê được tóm tắt tại trang chủ đề [thuê xe máy](/blog/thue-xe/), và khi phần cọc đã rõ ràng từ đầu, phần còn lại của kỳ thuê chỉ còn là chuyện bạn đi tới đâu bằng chiếc xe đó.
+Đặt cọc qua ví điện tử khi thuê xe máy tiện và sạch sẽ hơn hẳn cách cũ, với điều kiện ba bằng chứng luôn hiện diện: ghi giao dịch, nội dung chuyển rõ ràng, và tin nhắn chốt điều kiện với cửa hàng. Mức cọc và hình thức giữ luôn là phần thỏa thuận trực tiếp từng lượt, không có con số chung cho mọi nơi, nên câu hỏi trước khi đặt luôn đáng giá hơn phỏng đoán. Các bước chuẩn bị đầy đủ của một lần thuê được tóm tắt tại trang chủ đề [thuê xe máy](/thue-xe/), và khi phần cọc đã rõ ràng từ đầu, phần còn lại của kỳ thuê chỉ còn là chuyện bạn đi tới đâu bằng chiếc xe đó.

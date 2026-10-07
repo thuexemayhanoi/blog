@@ -33,11 +33,11 @@ Một nguyên tắc khi thuê xe số nói chung: hãy thử đề và vào số
 
 ## Giá thuê theo từng dòng
 
-Mức giá thuê theo ngày ở cửa hàng được niêm theo từng dòng xe trong bảng giá. Với Honda Wave, giá thuê theo ngày đang niêm ở mức 150.000 đồng, nằm trong nhóm xe số phổ thông; mức giá của các dòng khác như Sirius được cập nhật trong trang [bảng giá](/blog/bang-gia/) hoặc xác nhận trực tiếp khi đặt xe, vì giá thuê thay đổi theo đời xe và tình trạng kho.
+Mức giá thuê theo ngày ở cửa hàng được niêm theo từng dòng xe trong bảng giá. Với Honda Wave, giá thuê theo ngày đang niêm ở mức 150.000 đồng, nằm trong nhóm xe số phổ thông; mức giá của các dòng khác như Sirius được cập nhật trong trang [bảng giá](/bang-gia/) hoặc xác nhận trực tiếp khi đặt xe, vì giá thuê thay đổi theo đời xe và tình trạng kho.
 
 Điểm đáng lưu ý khi so sánh giá: hai dòng cùng phân khúc thường có chênh lệch nhỏ theo ngày, nhưng khi thuê tuần hoặc tháng, chênh lệch tổng có thể thấy rõ hơn, nên nếu bạn thuê dài ngày, hãy hỏi giá trọn gói theo tuần hoặc tháng thay vì nhân đơn giá ngày lên. Cách hỏi này cũng giúp cửa hàng tư vấn đúng dòng còn xe tốt trong kho thay vì chỉ dựa vào tên dòng.
 
-Nếu bạn định thuê cho người mới tập lái, chi tiết về cách rà xe số khi nhận được tóm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/); còn để hiểu vì sao xe số được khuyên cho người mới hơn xe ga, bài về [xe số, xe ga hay xe 50cc nên chọn loại nào](/blog/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/) đi sâu hơn vào nhóm này.
+Nếu bạn định thuê cho người mới tập lái, chi tiết về cách rà xe số khi nhận được tóm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/); còn để hiểu vì sao xe số được khuyên cho người mới hơn xe ga, bài về [xe số, xe ga hay xe 50cc nên chọn loại nào](/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/) đi sâu hơn vào nhóm này.
 
 ## Chọn theo nhu cầu thực tế của bạn
 
@@ -45,6 +45,6 @@ Nếu bạn đi lại chủ yếu trong nội đô, quãng ngắn, nhiều đèn
 
 Với người mới hoàn toàn: cả hai đều dễ lái, nhưng bạn nên chọn chiếc nào đã được chăm đều đặn và có phanh ăn chắc, thay vì chọn theo nhãn. Hỏi cửa hàng cho chạy thử một vòng quanh phố trước khi quyết; một vòng mười phút nói lên nhiều điều hơn mọi bảng thông số.
 
-Và nếu bạn vẫn lưỡng lự giữa xe số và xe ga, hoặc giữa hai dòng xe ga nhỏ, các cặp so sánh phổ biến khác được gom tại trang [so sánh khi thuê xe máy](/blog/xe-may/so-sanh-xe/), còn bài viết chuyên sâu về dòng Wave nằm trong trang [Honda Wave](/blog/xe-may/honda-wave/) và về Sirius nằm trong trang [Yamaha Sirius](/blog/xe-may/yamaha-sirius/).
+Và nếu bạn vẫn lưỡng lự giữa xe số và xe ga, hoặc giữa hai dòng xe ga nhỏ, các cặp so sánh phổ biến khác được gom tại trang [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/), còn bài viết chuyên sâu về dòng Wave nằm trong trang [Honda Wave](/xe-may/honda-wave/) và về Sirius nằm trong trang [Yamaha Sirius](/xe-may/yamaha-sirius/).
 
 Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00 hằng ngày. Bạn gọi số 0942 467 674 để hỏi xe còn trong kho, đời xe cụ thể và mức giá theo dòng trước khi đặt, để chọn được chiếc phù hợp ngay từ đầu mà không cần đổi giữa kỳ.

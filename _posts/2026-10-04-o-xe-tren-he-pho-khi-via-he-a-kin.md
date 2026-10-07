@@ -46,6 +46,6 @@ Người thuê xe máy dựng phố nên chụp lại vị trí xe và hiện tr
 
 Khi trở lại lấy xe, kiểm theo bộ ba quen: nhìn vỏ hai bên, bóp nhẹ phanh, thử đèn trước khi nổ máy. Dựng dãy xe giữa phố, phần hay xảy ra là người khác đỡ xe bạn ra để lấy xe của họ — kiểm tra chống xe có đứng lại thẳng chưa rồi mới lên, một chống dựng nghiêng giữa dãy là một xe đổ dây chuyền chờ phía trước. Lên xe không cuốc ga trong dãy kín: đẩy xe ra khỏi dãy bằng chân cho tới khi ra khỏi dãy rồi mới nổ.
 
-Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi đi phố đông.
+Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi đi phố đông.
 
 Hè phố kín không phải dấu chấm hết của buổi đi — chỉ là tín hiệu đổi phương án: đọc lại dãy tìm khe hợp lệ, hoặc dời sang bãi gửi gần đó. Cả hai cách đều nhanh hơn và rẻ hơn ép một chỗ không đủ, và giữ cho bạn đúng điều quý nhất khi đi phố đông: không phải nghĩ về xe nữa.

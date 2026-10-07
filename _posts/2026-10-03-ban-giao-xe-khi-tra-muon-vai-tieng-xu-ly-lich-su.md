@@ -28,7 +28,7 @@ Nếu thuê ở Hà Nội vào ngày mưa hoặc cuối tuần, hãy chấp nh�
 
 ## Chốt cách tính giờ trễ trước khi giao xe
 
-Khi bạn và chủ xe đã rõ là sẽ trễ, việc kế tiếp là thống nhất cách tính. Hỏi thẳng một câu: khoảng trễ này tính thêm theo giờ hay tính tròn nửa ngày, và mức cộng thêm đã nằm trong thỏa thuận ban đầu chưa. Đa số hợp đồng thuê ghi rõ cách tính phụ trội khi trễ, nên nếu đã đọc kỹ [quy trình nhận trả xe](/blog/thue-xe/nhan-tra-xe/) từ đầu, lúc này bạn chỉ cần đối chiếu lại đúng điều khoản đã biết.
+Khi bạn và chủ xe đã rõ là sẽ trễ, việc kế tiếp là thống nhất cách tính. Hỏi thẳng một câu: khoảng trễ này tính thêm theo giờ hay tính tròn nửa ngày, và mức cộng thêm đã nằm trong thỏa thuận ban đầu chưa. Đa số hợp đồng thuê ghi rõ cách tính phụ trội khi trễ, nên nếu đã đọc kỹ [quy trình nhận trả xe](/thue-xe/nhan-tra-xe/) từ đầu, lúc này bạn chỉ cần đối chiếu lại đúng điều khoản đã biết.
 
 Việc chốt bằng văn bản nhỏ giữ vai trò quan trọng: một tin nhắn xác nhận lại, ví dụ tôi hiểu trễ hai tiếng tính thêm bằng nửa giá ngày, hoàn cả hai bên đều đỡ phải nhớ. Nếu chủ xe đưa cách tính khác với điều bạn nhớ, đây là lúc giải thích, không phải lúc cãi, vì mọi thỏa thuận ban đầu đều nằm trong tin nhắn hoặc giấy thuê để hai bên cùng đọc lại.
 
@@ -40,4 +40,4 @@ Trễ giờ không có nghĩa bàn giao ẩu. Đến nơi, làm đủ các bư�
 
 Một điều nên tránh: đừng cố nuốt trôi mọi khoản cộng thêm chỉ vì thấy mình có lỗi. Trễ giờ đã có cách tính công khai, bạn trả đúng phần trách nhiệm của mình và hỏi rõ từng khoản không hiểu. Lịch sự nghĩa là minh bạch và đúng hẹn các thỏa thuận, không phải là gật đầu với mọi con số hiện ra. Ngược lại cũng vậy: nếu bạn đã báo từ sớm và chủ xe đồng ý, không có lý do bạn phải trả thêm ngoài cách tính đã chốt.
 
-Sau khi giao xe xong, giữ lại đoạn tin nhắn chốt giờ trả và cách tính trễ. Nếu lần sau bạn quay lại thuê, chính lịch sử lịch sự đó là thứ giúp bạn được ưu tiên: người cho thuê nhớ những khách báo sớm, giữ bằng chứng và trả xe sạch sẽ hơn cả mọi lời quảng cáo. Ai muốn chuẩn bị tốt cho các lần thuê tiếp theo có thể đọc thêm [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) để nắm rõ các điều khoản cần hỏi trước, hoặc ghé [mục thuê xe](/blog/thue-xe/) để xem tổng thể các bước từ lúc đặt xe tới khi hoàn cọc.
+Sau khi giao xe xong, giữ lại đoạn tin nhắn chốt giờ trả và cách tính trễ. Nếu lần sau bạn quay lại thuê, chính lịch sử lịch sự đó là thứ giúp bạn được ưu tiên: người cho thuê nhớ những khách báo sớm, giữ bằng chứng và trả xe sạch sẽ hơn cả mọi lời quảng cáo. Ai muốn chuẩn bị tốt cho các lần thuê tiếp theo có thể đọc thêm [thủ tục thuê xe](/thue-xe/thu-tuc/) để nắm rõ các điều khoản cần hỏi trước, hoặc ghé [mục thuê xe](/thue-xe/) để xem tổng thể các bước từ lúc đặt xe tới khi hoàn cọc.

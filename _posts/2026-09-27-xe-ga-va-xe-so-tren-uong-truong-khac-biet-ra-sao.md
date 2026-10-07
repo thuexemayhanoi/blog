@@ -45,4 +45,4 @@ Dù chọn dòng nào, thuê xe chạy chuyến dài cần hỏi trước cửa 
 
 ## Xe ga hay xe số đường trường: chọn theo tuyến và thể trạng
 
-Không có dòng xe thắng tuyệt đối trên đường trường. Tuyến phẳng, ưu tiên thoải mái và ít đồ, chọn xe ga. Tuyến nhiều đoạn xấu, ưu tiên chi phí và độ bền, chở hành lý, chọn xe số. Để so sánh sâu hơn về đặc tính hai dòng xe này, bạn có thể xem chủ đề [xe tay ga](/blog/xe-may/xe-ga/) và chủ đề [xe số](/blog/xe-may/xe-so/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) trước khi quyết định thuê loại xe nào cho chuyến đi của mình.
+Không có dòng xe thắng tuyệt đối trên đường trường. Tuyến phẳng, ưu tiên thoải mái và ít đồ, chọn xe ga. Tuyến nhiều đoạn xấu, ưu tiên chi phí và độ bền, chở hành lý, chọn xe số. Để so sánh sâu hơn về đặc tính hai dòng xe này, bạn có thể xem chủ đề [xe tay ga](/xe-may/xe-ga/) và chủ đề [xe số](/xe-may/xe-so/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/xe-may/) trước khi quyết định thuê loại xe nào cho chuyến đi của mình.

@@ -45,7 +45,7 @@ Cửa hàng cho thuê xe hợp pháp sẽ kiểm tra giấy tờ này trước k
 
 Sai lầm hay gặp nhất là giả định bằng lái quốc gia của mình dùng được như IDP. Thực tế không phải quốc gia nào cũng thuộc Công ước 1968, và ngay cả khi thuộc, việc không mang kèm bằng quốc gia khiến IDP không có giá trị sử dụng. Sai lầm thứ hai là thuê xe phân khối lớn khi hạng trong IDP chỉ cho phép xe nhỏ, dẫn đến tình huống giấy phép không phù hợp với xe đang điều khiển. Sai lầm thứ ba là coi thường thời hạn: bằng hoặc IDP hết hạn giữa chuyến đi vẫn là vi phạm, nên kiểm tra trước mỗi chặng dài.
 
-Chi tiết các thủ tục cho khách quốc tế khi thuê xe tại Hà Nội được tổng hợp trong trang [khách quốc tế](/blog/thue-xe/khach-quoc-te/), còn kiến thức về giấy phép lái xe cho mọi đối tượng nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/). Hai trang này nên được đọc cùng nhau trước chuyến đi của bạn.
+Chi tiết các thủ tục cho khách quốc tế khi thuê xe tại Hà Nội được tổng hợp trong trang [khách quốc tế](/thue-xe/khach-quoc-te/), còn kiến thức về giấy phép lái xe cho mọi đối tượng nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/). Hai trang này nên được đọc cùng nhau trước chuyến đi của bạn.
 
 ## Hỗ trợ tại Hà Nội
 
@@ -53,6 +53,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về bằng lái nước ngoài dùng được không
 
-Bằng lái nước ngoài dùng được không phụ thuộc loại giấy tờ: IDP do nước thành viên Công ước 1968 cấp được dùng tại Việt Nam khi mang kèm bằng quốc gia còn hiệu lực, còn bằng quốc gia thuần cần đổi sang bằng Việt Nam nếu muốn lái lâu dài. Khách quốc tế thuê xe máy nên chuẩn bị giấy tờ theo đúng nhóm của mình và chọn loại xe tương ứng hạng được phép. Tổng quan đầy đủ các vấn đề pháp lý khi lưu thông trong nội thành nằm trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Bằng lái nước ngoài dùng được không phụ thuộc loại giấy tờ: IDP do nước thành viên Công ước 1968 cấp được dùng tại Việt Nam khi mang kèm bằng quốc gia còn hiệu lực, còn bằng quốc gia thuần cần đổi sang bằng Việt Nam nếu muốn lái lâu dài. Khách quốc tế thuê xe máy nên chuẩn bị giấy tờ theo đúng nhóm của mình và chọn loại xe tương ứng hạng được phép. Tổng quan đầy đủ các vấn đề pháp lý khi lưu thông trong nội thành nằm trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về công nhận giấy phép lái xe quốc tế tại Việt Nam có thể thay đổi theo từng thời kỳ; trước khi lưu thông, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

@@ -45,7 +45,7 @@ Luyện bắt đầu bằng cách đếm: chọn một ngày đường vắng, �
 
 Luyện tiếp bằng cách quan sát: mỗi lần thấy xe trước phanh, tự hỏi mình đã kịp nhận sớm hay không. Nếu thường xuyên bị bất ngờ, tức là khoảng cách vẫn chưa đủ hoặc mắt vẫn nhìn chưa đủ xa. Cuốn nhật ký lái nhỏ ghi lại vài tình huống mỗi chuyến đi là công cụ luyện đáng giá hơn mọi lời khuyên chung chung.
 
-Người mới đi bằng xe máy thuê nên làm quen chừng khoảng cách trên đoạn vắng trước khi vào phố đông, phần chọn loại xe hợp trình độ nằm trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), thông tin dịch vụ ở trang [cho thuê xe máy](/blog/thue-xe/). Nhóm bài nền về tư thế lái, vượt xe và nhịp ga được gom trong bài [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), ghép đọc cho trọn nếp. Các quy định về khoảng cách và tốc độ được tách trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Người mới đi bằng xe máy thuê nên làm quen chừng khoảng cách trên đoạn vắng trước khi vào phố đông, phần chọn loại xe hợp trình độ nằm trong bài [chọn loại xe](/xe-may/chon-loai-xe/), thông tin dịch vụ ở trang [cho thuê xe máy](/thue-xe/). Nhóm bài nền về tư thế lái, vượt xe và nhịp ga được gom trong bài [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), ghép đọc cho trọn nếp. Các quy định về khoảng cách và tốc độ được tách trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Tóm lại
 

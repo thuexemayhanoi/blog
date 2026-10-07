@@ -55,7 +55,7 @@ Trả trễ là vùng xám dễ phát sinh chi phí nhất. Các quy ước thư
 
 Nếu lịch trình của bạn hay trễ đường đi, ví dụ chạy về từ ngoại ô Hà Nội giờ tan tầm, hãy chủ động đặt khung trả rộng hơn: thuê tới thứ Hai sáng thay vì Chủ Nhật tối, để phần dư đó là khoảng đệm. Chi phí một buổi đệm thường nhỏ hơn nhiều so với một lần tính trễ ngoài dự kiến.
 
-Trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) tổng hợp thông tin về hình thức thuê ngắn ngày, trong đó cách tính ngày là phần cốt lõi. Phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) mô tả nơi các mốc thời gian này được ghi trong quy trình chuẩn, và cẩm nang [thuê xe máy](/blog/thue-xe/) là bối cảnh chung cho mọi kỳ thuê tại Hà Nội.
+Trang [thuê xe theo ngày](/thue-xe/thue-ngay/) tổng hợp thông tin về hình thức thuê ngắn ngày, trong đó cách tính ngày là phần cốt lõi. Phần [thủ tục thuê xe](/thue-xe/thu-tuc/) mô tả nơi các mốc thời gian này được ghi trong quy trình chuẩn, và cẩm nang [thuê xe máy](/thue-xe/) là bối cảnh chung cho mọi kỳ thuê tại Hà Nội.
 
 ## Kết: một ngày thuê bắt đầu từ sự rõ ràng
 

@@ -24,19 +24,19 @@ Vì là khu ở và vườn làm việc thật của dân, khách tới nên gi�
 
 Từ trung tâm Hà Nội, cung quen thuộc đi theo trục Âu Cơ lên phía bắc: đường dài, thẳng, hai bên phố và hàng quán, khung sáng có xe giao hàng ra vào dày, nên giữ làn phải và quan sát dòng xe rẽ từ các ngõ. Gần khu vực làng, các biển ngõ nhánh rẽ từ Âu Cơ về hướng đê: từ đây khách đi vào ngõ nhỏ chừng vài trăm mét là tới các dãy vườn hoa đầu tiên. Cung từ hướng Hồ Tây xuống qua các đường ven bờ hồ rồi nối sang Âu Cơ cũng tiện cho khách ghép thêm các điểm quanh Tây Hồ trong cùng buổi.
 
-Lên đê là lối đi đẹp nhất để thấy toàn cảnh làng: đường đê chạy dọc mép sông, từ trên đê thấy xuống các nhà kính và luống hoa. Đường đê hẹp hơn Âu Cơ rõ rệt, hai chiều gặp nhau phải chậm, mép đê có đoạn trũng sau mưa; xuống đê thì giảm số, vì dốc xuống nối với ngõ dưới thường gắt và có cua kín ngay chân dốc. Các tình huống đường nhỏ ven đô được phân tích thêm tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Lên đê là lối đi đẹp nhất để thấy toàn cảnh làng: đường đê chạy dọc mép sông, từ trên đê thấy xuống các nhà kính và luống hoa. Đường đê hẹp hơn Âu Cơ rõ rệt, hai chiều gặp nhau phải chậm, mép đê có đoạn trũng sau mưa; xuống đê thì giảm số, vì dốc xuống nối với ngõ dưới thường gắt và có cua kín ngay chân dốc. Các tình huống đường nhỏ ven đô được phân tích thêm tại trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Gửi xe quanh các ngõ hoa
 
 Chỗ để xe quanh làng theo mô hình đơn giản: các khoảng sân trống trước vựa lớn nhận giữ xe ngày thường, còn ngày cao điểm quanh Tết, dòng xe nhiều khiến các khoảng này kín nhanh, người ta nối nhau đỗ ven đê và ven ngõ theo hướng của người dân hướng dẫn. Mức phí giữ xe máy dạng nhỏ lẻ, đổi theo ngày cao điểm: hỏi giá trước khi để là thói quen nên giữ, và nên để xe nơi có người trông trực tiếp hơn là mép đê vắng. Khi để ven ngõ, ép sát lề hẳn để không chặn dòng xe chở hoa ra vào.
 
-Xe máy thuê cần kiểm tra nhanh trước khi vào khu: đèn, còi, phanh, áp suất lốp, vì ngõ nhỏ có dòng xe hai chiều liên tục. Cất mũ vào cốp, chụp vị trí và biển số xe trước khi đi vào vườn. Ai định mua hoa về nên tính sẵn chỗ để hoa: cốp xe máy chứa được vài cành nhỏ, bó lớn nên nhờ vựa bó chặt lại hoặc thuê xe chở về, đừng vác bó đào lớn trên tay lái vì gió và tầm nhìn bị che. Kinh nghiệm các cung ven sông cùng hướng Tây Hồ nằm trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), dùng tham khảo khi ghép thêm điểm quanh khu.
+Xe máy thuê cần kiểm tra nhanh trước khi vào khu: đèn, còi, phanh, áp suất lốp, vì ngõ nhỏ có dòng xe hai chiều liên tục. Cất mũ vào cốp, chụp vị trí và biển số xe trước khi đi vào vườn. Ai định mua hoa về nên tính sẵn chỗ để hoa: cốp xe máy chứa được vài cành nhỏ, bó lớn nên nhờ vựa bó chặt lại hoặc thuê xe chở về, đừng vác bó đào lớn trên tay lái vì gió và tầm nhìn bị che. Kinh nghiệm các cung ven sông cùng hướng Tây Hồ nằm trong trang [khu Tây Hồ](/du-lich/ho-tay/), dùng tham khảo khi ghép thêm điểm quanh khu.
 
 ## Mùa hoa và khung giờ đẹp
 
 Mùa đào là mùa đẹp nhất và cũng đông nhất: cận Tết Nguyên Đán, các vựa đào mở kín từ chân đê vào trong ngõ, khung sáng sớm có màu nắng nhẹ qua sương trên sông Hồng rất hợp cho ảnh. Nửa tháng trước Tết là cao điểm mua bán, khách chụp ảnh nên đi sớm hoặc đi khung chiều muộn dịp này, vừa tránh dòng xe mua hàng giữa buổi vừa được nắng xiên. Ngoài mùa đào, làng vẫn có hoa quanh năm, các khung đầu hè có hồng và các luống hoa cắt cánh, đi ngày thường vắng hơn nhiều và dễ trò chuyện với chủ vườn.
 
-Sau mưa, ngõ đất ven vườn lún và trơn: chọn ngày khô ráo đi sẽ dễ chịu hơn, giày đế bám giúp đi vào các khoảng đất giữa vườn. Trưa hè, nhà kính và luống hoa phẳng nắng trực tiếp, phần lớn khách chỉ đi được đầu giờ sáng; mùa lạnh gió trên đê mạnh, mang theo áo khoác khi định đứng trên đê ngắm sông. Danh mục các điểm đến quanh Hà Nội nằm tại trang [điểm đến](/blog/du-lich/diem-den/), còn các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Sau mưa, ngõ đất ven vườn lún và trơn: chọn ngày khô ráo đi sẽ dễ chịu hơn, giày đế bám giúp đi vào các khoảng đất giữa vườn. Trưa hè, nhà kính và luống hoa phẳng nắng trực tiếp, phần lớn khách chỉ đi được đầu giờ sáng; mùa lạnh gió trên đê mạnh, mang theo áo khoác khi định đứng trên đê ngắm sông. Danh mục các điểm đến quanh Hà Nội nằm tại trang [điểm đến](/du-lich/diem-den/), còn các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Kết luận về đường đi và gửi xe ở làng hoa Nhật Tân
 

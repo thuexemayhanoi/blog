@@ -25,7 +25,7 @@ Một mẹo cho người không quen: cập vị trí bãi gửi trước khi v�
 
 ## Gửi xe ở đâu quanh khu Nhà thờ
 
-Quanh khu Nhà thờ có các bãi gửi xe trên những phố gần đó, và chỗ trống thay đổi theo khung giờ trong ngày. Nguyên tắc như mọi khu đông du lịch: hỏi giá trước khi đưa xe, chụp lại vị trí và biển số chỗ gửi, và hỏi giờ bãi đóng nếu bạn định ở lại tới tối. Thói quen chi tiết nằm trong bài về [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Quanh khu Nhà thờ có các bãi gửi xe trên những phố gần đó, và chỗ trống thay đổi theo khung giờ trong ngày. Nguyên tắc như mọi khu đông du lịch: hỏi giá trước khi đưa xe, chụp lại vị trí và biển số chỗ gửi, và hỏi giờ bãi đóng nếu bạn định ở lại tới tối. Thói quen chi tiết nằm trong bài về [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Khung giờ lễ cuối tuần, khu vực quanh Nhà thờ đông đột biến và các bãi gần nhất kín nhanh. Nếu đi đúng dịp đó, hãy gửi ở bãi xa hơn một chút trên trục lớn, rồi đi bộ vào: phần đường bộ chỉ vài phút mà phần đi tìm chỗ gửi gần có khi lâu hơn cả đoạn đi bộ đó.
 
@@ -51,6 +51,6 @@ Tối cuối tuần, khu phố phía đông Nhà thờ đông dần khi các hà
 
 Nhà thờ Lớn nằm ngay giữa một tuyến dạo phố cổ kinh điển: Hồ Gươm, khu phố Tạ Hiện, và Chợ Đồng Xuân. Gửi xe một lần ở khu giữa rồi đi bộ hết tuyến là cách gói trọn cả cụm này trong một buổi chiều mà không phải lo chuyện xe giữa chừng. Khoảng cách giữa các điểm trong tuyến này đều đi bộ được trong chục phút, nên lịch càng gọn thì càng đỡ chuyện xe.
 
-Nếu bạn đi bằng xe thuê cho cả ngày, các lựa chọn thuê nằm trong bài về [thuê xe theo ngày](/blog/thue-xe/thue-ngay/), và các điểm khác quanh khu phố cổ nằm trong trang [điểm đến](/blog/du-lich/diem-den/) để bạn nối tiếp hành trình.
+Nếu bạn đi bằng xe thuê cho cả ngày, các lựa chọn thuê nằm trong bài về [thuê xe theo ngày](/thue-xe/thue-ngay/), và các điểm khác quanh khu phố cổ nằm trong trang [điểm đến](/du-lich/diem-den/) để bạn nối tiếp hành trình.
 
 Tóm lại, đến Nhà thờ Lớn bằng xe máy dễ nếu bạn giữ đúng trình tự: chọn trục lớn, theo một phố nhỏ vào, gửi xe sớm ở bãi gần trục, rồi đi bộ quanh khuôn viên. Trình tự đơn giản này biến một trong những điểm khó chạy nhất phố cổ thành một chặng nhẹ nhàng của buổi chiều.

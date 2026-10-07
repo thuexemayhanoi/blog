@@ -16,7 +16,7 @@ writer: W1
 
 Câu hỏi chạy xe máy từ Cầu Giấy đến đền Sóc mất bao lâu có câu trả lời không cố định, vì cung đường lên khu đền thuộc xã Sóc Sơn phía bắc thành phố phụ thuộc chặt vào khung giờ: giờ tan tầm nội thành có thể kéo dài gần gấp đôi so với giờ vắng. Nhưng để bạn hình dung trước khi lên kế hoạch: quãng đường này thuộc loại cung vừa, không quá ngắn để chủ quan, cũng không quá dài để e ngại, và phần lớn thời gian của nó nằm ở các trục vành ngoài thay vì phố đông.
 
-Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/), gợi ý các cung phía ngoài trung tâm trong phần [ngoại thành Hà Nội](/blog/du-lich/ngoai-thanh/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/), gợi ý các cung phía ngoài trung tâm trong phần [ngoại thành Hà Nội](/du-lich/ngoai-thanh/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Ước tính theo khung giờ và cung đường chính
 

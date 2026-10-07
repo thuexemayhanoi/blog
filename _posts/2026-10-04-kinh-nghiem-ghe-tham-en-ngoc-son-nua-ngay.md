@@ -48,6 +48,6 @@ Người đi bằng xe máy gửi xe ở các bãi quanh bờ hồ, thường g�
 
 Với khách thuê xe máy, nên hỏi người cho thuê về bãi gửi xe quen quanh Hồ Hoàn Kiếm, và xuất trình giấy tờ liên hệ nếu bãi yêu cầu. Không gửi xe ở vỉa hè không có người trông trong khu đông, và kiểm lại khóa cổ cùng khóa điện trước khi rời xe. Đến sớm giúp cả việc tìm chỗ gửi xe lẫn xếp hàng mua vé đều nhẹ nhàng hơn.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [phố cổ](/blog/du-lich/pho-co/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [phố cổ](/du-lich/pho-co/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, thăm Đền Ngọc Sơn nửa ngày phù hợp vì đảo giữa Hồ Hoàn Kiếm gọn, dễ đi và xung quanh có nhiều điểm dừng trong bán kính đi bộ. Chọn sáng sớm hoặc chiều muộn, tra giờ mở cửa trước khi đi, gửi xe ở bãi quanh bờ hồ và đi bộ qua cầu Thê Húc. Nửa buổi ở đền cộng một buổi dạo phố cổ là một ngày Hà Nội đầy mà không vội.

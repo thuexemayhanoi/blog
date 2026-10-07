@@ -31,7 +31,7 @@ Dưới đây là các nhóm điểm mà ng
 - Biển báo: hệ thống biển báo được diễn đạt lại trong văn bản hiện hành, nguyên tắc ưu tiên theo tín hiệu của người điều khiển giao thông khi có mặt tại chỗ.
 - Quy định về khoảng cách an toàn và tốc độ theo từng đoạn đường có biển báo tương ứng.
 
-Cụ thể các lỗi và mức xử lý thuộc diện được điều chỉnh bằng văn bản quy định chi tiết, nên khi cần con số chính xác, hãy tra trực tiếp văn bản hiện hành thay vì nhớ theo tin từng giai đoạn. Các chủ đề chuyên sâu từng mảng như [biển báo giao thông](/blog/kinh nghiệm/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/) và tổng hợp các quy định giao thông hiện hành nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông, còn kinh nghiệm lái xe thực dụng nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Cụ thể các lỗi và mức xử lý thuộc diện được điều chỉnh bằng văn bản quy định chi tiết, nên khi cần con số chính xác, hãy tra trực tiếp văn bản hiện hành thay vì nhớ theo tin từng giai đoạn. Các chủ đề chuyên sâu từng mảng như [biển báo giao thông](/kinh nghiệm/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/) và tổng hợp các quy định giao thông hiện hành nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông, còn kinh nghiệm lái xe thực dụng nằm trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Điều gì không thay đổi
 

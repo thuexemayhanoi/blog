@@ -43,4 +43,4 @@ Một lưu ý cuối về khoảng cách ngang: trong phố đông, phần lớn
 
 ## Tóm lại
 
-Lái xe ga trong phố đông an toàn hay không phụ thuộc vào kỷ luật giữ khoảng cách, quan sát xa, dùng ga phanh nhịp nhàng và chọn vị trí hợp lý, chứ không phụ thuộc vào việc xe ga hay xe số. Nếu muốn nâng cao thêm kỹ năng xử lý các [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) thường gặp, hoặc tìm hiểu thêm về đặc tính của dòng xe này, hãy xem chủ đề [xe tay ga](/blog/xe-may/xe-ga/) và tổng quan các [dòng xe máy](/blog/xe-may/) để chọn đúng loại xe hợp với tuyến đường bạn hay đi.
+Lái xe ga trong phố đông an toàn hay không phụ thuộc vào kỷ luật giữ khoảng cách, quan sát xa, dùng ga phanh nhịp nhàng và chọn vị trí hợp lý, chứ không phụ thuộc vào việc xe ga hay xe số. Nếu muốn nâng cao thêm kỹ năng xử lý các [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) thường gặp, hoặc tìm hiểu thêm về đặc tính của dòng xe này, hãy xem chủ đề [xe tay ga](/xe-may/xe-ga/) và tổng quan các [dòng xe máy](/xe-may/) để chọn đúng loại xe hợp với tuyến đường bạn hay đi.

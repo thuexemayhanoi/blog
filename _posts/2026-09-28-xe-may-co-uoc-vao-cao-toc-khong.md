@@ -44,7 +44,7 @@ Khi cần đi xa bằng xe máy, cách làm đúng là chọn quốc lộ, tỉn
 Một kinh nghiệm nhỏ: quốc lộ song song cao tốc thường xuyên qua thị trấn, nên vừa đi vừa có trạm dừng ăn uống, đổ xăng và sửa xe, trong khi đường gom cao tốc không 
 có bất kỳ điểm dừng nào cho xe máy. Chậm hơn một chút nhưng chủ động hơn hẳn.
 
-Với khách thuê xe máy tại Hà Nội định đi các tỉnh lân cận, nên trao đổi rõ lộ trình với chủ xe trước khi nhận xe để được tư vấn cung đường phù hợp và chuẩn bị xe ở trạng thái tốt nhất. Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông, còn kinh nghiệm chạy xe đường dài nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Với khách thuê xe máy tại Hà Nội định đi các tỉnh lân cận, nên trao đổi rõ lộ trình với chủ xe trước khi nhận xe để được tư vấn cung đường phù hợp và chuẩn bị xe ở trạng thái tốt nhất. Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông, còn kinh nghiệm chạy xe đường dài nằm trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Kết luận về xe máy và cao tốc
 

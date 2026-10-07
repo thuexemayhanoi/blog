@@ -33,17 +33,17 @@ Nếu bạn nhận xe vào buổi sáng, hãy tranh thủ chạy vài vòng quen
 
 ## Chuẩn bị trước khi nhận xe ngày đầu tiên
 
-Trước khi đến cửa hàng, bạn nên đọc trước quy trình [thủ tục thuê xe máy ở Hà Nội cho người mới](/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) để biết cần mang giấy tờ gì và các bước ký kết diễn ra ra sao. Chuẩn bị sẵn căn cước công dân, và nếu có bằng lái thì mang theo để thủ tục nhanh gọn hơn.
+Trước khi đến cửa hàng, bạn nên đọc trước quy trình [thủ tục thuê xe máy ở Hà Nội cho người mới](/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) để biết cần mang giấy tờ gì và các bước ký kết diễn ra ra sao. Chuẩn bị sẵn căn cước công dân, và nếu có bằng lái thì mang theo để thủ tục nhanh gọn hơn.
 
 Khi nhận xe, hãy hỏi người giao xe những điều cơ bản: xe này vào số kiểu gì, bình xăng ở đâu, khoá từ ở đâu, và phanh trước phanh sau nhạy ra sao. Đây là lúc tốt nhất để hỏi, vì sau khi xe rời cửa hàng, mọi thắc mắc nhỏ cũng thành phiền toái hơn.
 
-Nếu đây là lần đầu bạn chạy dòng xe cho thuê, đừng ngại xin chạy thử quanh quẩn năm đến mười phút ngay gần cửa hàng. Các quy tắc cần nhớ khi chạy thử đã được gói gọn trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), bạn có thể đọc trước khi tới để đỡ bị động.
+Nếu đây là lần đầu bạn chạy dòng xe cho thuê, đừng ngại xin chạy thử quanh quẩn năm đến mười phút ngay gần cửa hàng. Các quy tắc cần nhớ khi chạy thử đã được gói gọn trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), bạn có thể đọc trước khi tới để đỡ bị động.
 
 ## Chạy ngày đầu an toàn: chọn tuyến và khung giờ
 
 Ngày đầu tiên, hãy tránh khung giờ cao điểm sáng và chiều, khi học sinh, người đi làm dồn ra đường làm mật độ xe tăng vọt. Khung giờ thoáng hơn là giữa sáng, sau bữa trưa, hoặc tối muộn sau giờ tan tầm, lúc đường rộng và bạn có đủ thời gian quan sát.
 
-Về tuyến, ưu tiên đường thẳng, ít ngã tư, ít đoạn một chiều. Chạy ở làn bên phải, giữ tốc độ khiêm tốn và không cố len giữa các xe lớn. Khi cần dừng xem bản đồ hay uống nước, hãy tấp hẳn vào lề an toàn rồi mới dừng, không dừng giữa lòng đường gây ách tắc. Với những kỹ năng nền tảng như giữ thăng bằng, rẽ an toàn hay phanh gấp, các hướng dẫn cụ thể đã được tổng hợp trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), bạn nên xem trước khi chạy.
+Về tuyến, ưu tiên đường thẳng, ít ngã tư, ít đoạn một chiều. Chạy ở làn bên phải, giữ tốc độ khiêm tốn và không cố len giữa các xe lớn. Khi cần dừng xem bản đồ hay uống nước, hãy tấp hẳn vào lề an toàn rồi mới dừng, không dừng giữa lòng đường gây ách tắc. Với những kỹ năng nền tảng như giữ thăng bằng, rẽ an toàn hay phanh gấp, các hướng dẫn cụ thể đã được tổng hợp trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), bạn nên xem trước khi chạy.
 
 Một thói quen nhỏ của người mới thông minh là chạy chậm hơn dòng xe một nhịp. Không cần cố giữ tốc độ theo người khác, chạy thoải mái trong tầm kiểm soát của bạn. Người Hà Nội quen với người chạy chậm giữ làn phải, chỉ cần bạn giữ đường thẳng và có tín hiệu khi chuyển hướng là dòng xe tự tránh bạn.
 
@@ -51,4 +51,4 @@ Một thói quen nhỏ của người mới thông minh là chạy chậm hơn d
 
 Nếu đọc đến đây bạn vẫn thấy lo, có vài phương án giảm áp cho ngày đầu. Một là nhờ người quen biết lái đi kèm bằng xe khác phía sau để hỗ trợ nếu cần. Hai là chọn xe ga thay vì xe số, vì xe ga không cần vào số, bớt đi một thao tác khiến nhiều người mới lúng túng. Ba là dành ngày đầu cho phương tiện công cộng, và thuê xe từ ngày hôm sau, sau khi bạn đã ngắm được nhịp giao thông trên các tuyến mình định đi.
 
-Các băn khoăn tương tự của người lần đầu thuê xe đã được giải đáp gọn trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn những tình huống rộng hơn như chọn xe số hay xe ga, xử lý sự cố giữa đường nằm trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/). Tóm lại, chưa từng đi xe máy không có nghĩa là bạn không được thuê, chỉ là bạn cần trung thực với trình độ của chính mình: học trước khi thuê nếu chưa biết lái, và làm quen trước khi hòa vào đường lớn nếu biết lái nhưng mới đến Hà Nội.
+Các băn khoăn tương tự của người lần đầu thuê xe đã được giải đáp gọn trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), còn những tình huống rộng hơn như chọn xe số hay xe ga, xử lý sự cố giữa đường nằm trong mục [hỏi đáp thuê xe máy](/hoi-dap/). Tóm lại, chưa từng đi xe máy không có nghĩa là bạn không được thuê, chỉ là bạn cần trung thực với trình độ của chính mình: học trước khi thuê nếu chưa biết lái, và làm quen trước khi hòa vào đường lớn nếu biết lái nhưng mới đến Hà Nội.

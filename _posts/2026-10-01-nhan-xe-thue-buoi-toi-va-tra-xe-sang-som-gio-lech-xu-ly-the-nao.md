@@ -19,7 +19,7 @@ Không ít khách có lịch trình lệch khung giờ thông thường: bay xu�
 
 Việc đầu tiên là hỏi thẳng cửa hàng có nhận giao xe ngoài giờ làm việc thông thường hay không, và nếu có thì chốt khung giờ cụ thể. Câu trả lời nên được xác nhận lại bằng tin nhắn, kèm địa chỉ điểm hẹn chi tiết, vì buổi tối khó mô tả vị trí bằng lời hơn ban ngày. Bạn cũng nên hỏi cách liên hệ trong đêm nếu chuyến bay hoặc chuyến tàu bị trễ: ai là người nhận điện thoại, số nào gọi được lúc muộn. Một cửa hàng trả lời rõ ràng các câu này thường là nơi đã có kinh nghiệm giao xe cho khách lịch trình lệch.
 
-Việc thứ hai là chốt danh mục kiểm tra xe khi nhận. Ban đêm ánh đèn đường không đủ để nhìn rõ vết trầy nhỏ, nên bạn nên đề nghị giao xe ở nơi có đèn sáng, chẳng hạn trước cửa hàng, trong sân có đèn, hoặc dưới đèn tráp của khu dân cư. Kiểm tra theo danh mục nào thì đọc kỹ hơn trong bài tổng quan về [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), nhưng nguyên tắc ban đêm đơn giản: chụp ảnh xe ở mọi góc có đèn, kể cả góc tối, vì ảnh chụp ban đêm khi cần đối chiếu sáng hôm sau vẫn có giá trị rõ ràng.
+Việc thứ hai là chốt danh mục kiểm tra xe khi nhận. Ban đêm ánh đèn đường không đủ để nhìn rõ vết trầy nhỏ, nên bạn nên đề nghị giao xe ở nơi có đèn sáng, chẳng hạn trước cửa hàng, trong sân có đèn, hoặc dưới đèn tráp của khu dân cư. Kiểm tra theo danh mục nào thì đọc kỹ hơn trong bài tổng quan về [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), nhưng nguyên tắc ban đêm đơn giản: chụp ảnh xe ở mọi góc có đèn, kể cả góc tối, vì ảnh chụp ban đêm khi cần đối chiếu sáng hôm sau vẫn có giá trị rõ ràng.
 
 ## Chuẩn bị cho đêm đầu tiên giữ xe thuê
 
@@ -41,4 +41,4 @@ Một câu hỏi thường gặp: nhận tối hôm trước, trả sáng hôm s
 
 ## Ghi chú cho khách có lịch trình lệch tại Hà Nội
 
-Tóm lại, lịch trình lệch giờ không phải rào cản khi thuê xe máy, miễn là bạn chốt khung giờ nhận trả bằng tin nhắn, chọn điểm giao nhận có đèn sáng và chuẩn bị sẵn mọi thứ từ tối hôm trước. Nếu bạn muốn tìm hiểu thêm về dịch vụ [thuê xe máy ở Hà Nội](/blog/thue-xe/) hoặc tham khảo [bảng giá thuê xe máy](/blog/bang-gia/) để tính kỳ thuê lệch giờ, hãy ghé Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội. Cửa hàng mở cửa từ 09:00 tới 21:00, điện thoại 0942 467 674, và luôn trao đổi trước phương án nhận trả ngoài khung giờ thông thường cho khách có lịch trình đặc biệt.
+Tóm lại, lịch trình lệch giờ không phải rào cản khi thuê xe máy, miễn là bạn chốt khung giờ nhận trả bằng tin nhắn, chọn điểm giao nhận có đèn sáng và chuẩn bị sẵn mọi thứ từ tối hôm trước. Nếu bạn muốn tìm hiểu thêm về dịch vụ [thuê xe máy ở Hà Nội](/thue-xe/) hoặc tham khảo [bảng giá thuê xe máy](/bang-gia/) để tính kỳ thuê lệch giờ, hãy ghé Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội. Cửa hàng mở cửa từ 09:00 tới 21:00, điện thoại 0942 467 674, và luôn trao đổi trước phương án nhận trả ngoài khung giờ thông thường cho khách có lịch trình đặc biệt.

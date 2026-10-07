@@ -36,11 +36,11 @@ Về quy định chụp ảnh, phần sân ngoài trời thoải mái hơn hẳn
 
 ## Chuẩn bị xe máy cho buổi bên Thanh Xuân
 
-Cung quen từ trung tâm là theo trục lớn lên Ngã Tư Sở rồi rẽ vào Trường Chinh, bảo tàng nằm trên đoạn phía khu Khương Mai; khung tan tầm Trường Chinh dày dòng, khách nên đi khung sáng hoặc khung xế trốn hai mép giờ cao điểm. Kinh nghiệm chạy các trục nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống đường nhiều xe được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Cung quen từ trung tâm là theo trục lớn lên Ngã Tư Sở rồi rẽ vào Trường Chinh, bảo tàng nằm trên đoạn phía khu Khương Mai; khung tan tầm Trường Chinh dày dòng, khách nên đi khung sáng hoặc khung xế trốn hai mép giờ cao điểm. Kinh nghiệm chạy các trục nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống đường nhiều xe được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 Gửi xe theo chỉ dẫn tại khu cổng bảo tàng: xe để trong bãi theo hướng dẫn, chốt cổ, khóa từ, chụp lại vị trí kèm biển số rồi mới vào khu; phí giữ xe hỏi giá trước khi đưa xe. Về phần xe, đây là cung nội đô dài hơn các bảo tàng trung tâm, nên khách thuê xe cần vòng kiểm tra kỹ đèn, còi, phanh, áp suất lốp và đổ đủ xăng.
 
-Khách đi từ bên Long Biên qua cầu nên canh khung sớm, vì quãng nối qua các trục xuống Trường Chinh dễ dính hai mép giờ cao điểm. Sau buổi, khách muốn ghép thêm điểm quanh thành phố có thể xem danh sách tại trang [điểm đến](/blog/du-lich/diem-den/), các bảo tàng khác được gom tại trang [bảo tàng](/blog/du-lich/bao-tang/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/blog/du-lich/). Các câu hỏi về đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Khách đi từ bên Long Biên qua cầu nên canh khung sớm, vì quãng nối qua các trục xuống Trường Chinh dễ dính hai mép giờ cao điểm. Sau buổi, khách muốn ghép thêm điểm quanh thành phố có thể xem danh sách tại trang [điểm đến](/du-lich/diem-den/), các bảo tàng khác được gom tại trang [bảo tàng](/du-lich/bao-tang/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/du-lich/). Các câu hỏi về đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Kết luận về buổi trải nghiệm bảo tàng máy bay
 

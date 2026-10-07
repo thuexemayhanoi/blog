@@ -16,7 +16,7 @@ writer: W1
 
 Cua góc chết là tình huống khiến cả người lái lâu năm cũng phải kiên nhẫn hơn: phía sau khúc cua có thể là xe ngược chiều, ổ gà, đường thu hẹp, hoặc người băng ngang. Chạy xe máy vào cua góc chết vì vậy không xử lý bằng phản xạ mà bằng quy trình ngắn: đọc cua từ xa, dàn tốc về mức an toàn, chọn vệt bánh, và chỉ mở ga khi tầm nhìn đã thông thoáng. Bài này đi qua từng bước đó, kèm các tình huống hay gặp trên đường phố Hà Nội và đường đèo.
 
-Tổng quan các kỹ năng lái và tình huống giao thông nằm ở trang [kỹ năng và tình huống](/blog/ky-nang/), còn quy trình nhận xe máy thuê trước chuyến đi nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan các kỹ năng lái và tình huống giao thông nằm ở trang [kỹ năng và tình huống](/ky-nang/), còn quy trình nhận xe máy thuê trước chuyến đi nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Đọc cua mù trên đường xe máy từ trước khi tới
 
@@ -44,4 +44,4 @@ Với người thuê xe đi đường xa, hãy nhớ rằng mình đang ngồi t
 
 ## Tóm lại, cua góc chết xử bằng quy trình chứ không bằng may rủi
 
-Gặp cua mù trên đường xe máy, hãy lặp lại chuỗi ngắn: đọc cua từ xa, dàn tốc trước thân cua, bám mép phải, mở tầm nhìn, và chỉ tăng tốc khi nhìn thông. Gặp người ngược chiều thì giữ vệt của mình và nhường phần đường chung, đúng tinh thần của các [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong). Làm đủ các bước đó, khúc cua góc chết trở thành một khúc cua thường, chỉ chậm hơn một chút, và bạn tới đích với nguyên vẹn cả xe lẫn mình.
+Gặp cua mù trên đường xe máy, hãy lặp lại chuỗi ngắn: đọc cua từ xa, dàn tốc trước thân cua, bám mép phải, mở tầm nhìn, và chỉ tăng tốc khi nhìn thông. Gặp người ngược chiều thì giữ vệt của mình và nhường phần đường chung, đúng tinh thần của các [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong). Làm đủ các bước đó, khúc cua góc chết trở thành một khúc cua thường, chỉ chậm hơn một chút, và bạn tới đích với nguyên vẹn cả xe lẫn mình.

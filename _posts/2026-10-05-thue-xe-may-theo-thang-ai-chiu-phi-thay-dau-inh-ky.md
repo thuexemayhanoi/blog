@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy theo tháng nghĩa là bạn dùng một chiếc xe liên tục nhiều tuần liền, và câu hỏi đầu tiên nảy sinh ngoài giá thuê không phải là xe gì, mà là thuê xe máy theo tháng phí thay dầu do ai chịu. Câu hỏi này hợp lý, vì mỗi vài nghìn ki-lô-mét xe cần thay dầu một lần, ai đi lại nhiều trong một tháng có khi phải thay hai lần, và khoản này nếu không thỏa thuận trước sẽ trở thành điểm tranh cãi lúc trả xe. Bài viết này đi qua cách phân chia trách nhiệm phổ biến giữa khách thuê và chủ xe với thay dầu xe máy thuê dài hạn, những gì cần ghi vào hợp đồng, và các trường hợp biên nên biết trước.
 
-Nếu bạn chưa rõ hình thức thuê dài hạn khác gì thuê ngày, tổng quan nằm ở trang [thuê xe máy](/blog/thue-xe/), còn kinh nghiệm thuê trọn tháng có thêm trong phần [thuê theo tháng](/blog/thue-xe/thue-thang/).
+Nếu bạn chưa rõ hình thức thuê dài hạn khác gì thuê ngày, tổng quan nằm ở trang [thuê xe máy](/thue-xe/), còn kinh nghiệm thuê trọn tháng có thêm trong phần [thuê theo tháng](/thue-xe/thue-thang/).
 
 ## Cách phân chia trách nhiệm phổ biến hiện nay
 
@@ -30,7 +30,7 @@ Vài ba năm gần đây cũng xuất hiện hình thức thuê tháng trọn g�
 
 Hợp đồng thuê tháng nên có ba dòng rõ ràng về bảo dưỡng. Dòng một: ai trả tiền thay dầu định kỳ và tại thời điểm nào, ví dụ cứ đủ số ki-lô-mét nhất định hoặc mỗi hai tháng một lần. Dòng hai: khách có được tự thay dầu ở nơi tùy chọn hay phải dùng tiệm chỉ định, và nếu tự thay thì cần báo trước qua tin nhắn như thế nào. Dòng ba: sự cố giữa kỳ như hở xích, yếu đèn, với việc xử lý ai gọi ai trả tiền.
 
-Có một chi tiết nhỏ nhiều người bỏ qua: giữ lại hóa đơn và ảnh chụp đồng hồ công-tơ-mét sau mỗi lần bảo dưỡng. Đây là bằng chứng không thể cãi lúc tất toán, vì nó cho thấy bạn đã chạy bao nhiêu và bảo dưỡng có đúng lịch hay không. Quy trình nhận và trả xe chi tiết nằm trong phần [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), nên đọc trước khi ký.
+Có một chi tiết nhỏ nhiều người bỏ qua: giữ lại hóa đơn và ảnh chụp đồng hồ công-tơ-mét sau mỗi lần bảo dưỡng. Đây là bằng chứng không thể cãi lúc tất toán, vì nó cho thấy bạn đã chạy bao nhiêu và bảo dưỡng có đúng lịch hay không. Quy trình nhận và trả xe chi tiết nằm trong phần [nhận trả xe](/thue-xe/nhan-tra-xe/), nên đọc trước khi ký.
 
 ## Các trường hợp biên dễ tranh cãi
 
@@ -44,7 +44,7 @@ Trường hợp thứ tư: hợp đồng câm, không nói gì về bảo dưỡ
 
 Danh sách hỏi ngắn nhưng đủ: dầu hiện tại đã thay khi nào; lịch thay định kỳ là bao nhiêu ki-lô-mét một lần; tiệm bảo dưỡng chỉ định ở đâu; nếu khách tự thay thì chấp nhận hóa đơn tiệm nào; sự cố giữa chừng liên hệ ai và phản hồi trong bao lâu. Câu trả lời bằng văn bản cho năm câu này là toàn bộ khung trách nhiệm bạn cần.
 
-Cũng nên hỏi về các khoản phí chung quanh như đặt cọc và hoàn cọc, vì thuê tháng thường yêu cầu cọc cao hơn thuê ngày, và phần giải thích về cơ chế cọc nằm trong trang [đặt cọc thuê xe máy](/blog/thue-xe/dat-coc/). Ai từng so sánh các gói giá trước khi chốt sẽ thấy trang [giá thuê](/blog/thue-xe/gia-thue/) hữu ích khi cân đối giữa gói trọn và gói rời.
+Cũng nên hỏi về các khoản phí chung quanh như đặt cọc và hoàn cọc, vì thuê tháng thường yêu cầu cọc cao hơn thuê ngày, và phần giải thích về cơ chế cọc nằm trong trang [đặt cọc thuê xe máy](/thue-xe/dat-coc/). Ai từng so sánh các gói giá trước khi chốt sẽ thấy trang [giá thuê](/thue-xe/gia-thue/) hữu ích khi cân đối giữa gói trọn và gói rời.
 
 ## Tóm lại, ai chịu phí thay dầu khi thuê theo tháng
 

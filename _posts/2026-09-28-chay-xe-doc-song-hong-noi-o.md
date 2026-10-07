@@ -33,7 +33,7 @@ Một số đoạn ven đê có rãnh thoát nước cắt ngang mặt đường
 
 Các điểm dừng đẹp thường nằm ở đầu cầu hoặc đoạn bờ kè trống: khách để xe gọn vào lề có bóng cây, không dừng ngay khúc mờ trên đường ven. Đoạn ven sông nội đô nhìn sang cầu Long Biên và cầu Chương Dương rất đáng dừng vào khung chạng vạng, hai khung cầu thép lên màu đậm khi nắng nghiêng.
 
-Khách muốn kéo dài cung ra khỏi nội đô thì đọc tiếp bài [Đường đê sông Hồng chạy xe ngoại thành](/blog/du-lich/2026/09/28/uong-e-song-hong-chay-xe-ngoai-thanh/), cung này nối thẳng từ đường ven nội đô lên các đoạn đê vắng phía trên. Thông tin về khu ven sông ngay đầu cung nằm trong bài [Cầu Long Biên và khu Long Biên bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/).
+Khách muốn kéo dài cung ra khỏi nội đô thì đọc tiếp bài [Đường đê sông Hồng chạy xe ngoại thành](/du-lich/2026/09/28/uong-e-song-hong-chay-xe-ngoai-thanh/), cung này nối thẳng từ đường ven nội đô lên các đoạn đê vắng phía trên. Thông tin về khu ven sông ngay đầu cung nằm trong bài [Cầu Long Biên và khu Long Biên bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/).
 
 ## An toàn và khung giờ trên đường ven sông
 
@@ -47,4 +47,4 @@ Gió sông chiều về khá mạnh ở đoạn trống, khách giữ tay lái c
 
 Ven sông nội đô gần như không có bãi giữ riêng, khách dừng ở quán nước ven đường có người trông, hỏi giữ xe một lát và dùng nước ở quán cho hợp lý. Khi để xe, khách nhớ vị trí và biển số, mang theo đồ giá trị trên người. Cung ven sông nên kết thúc trước tối muộn, đoạn về qua các ngã tư gần cầu thường đông nhất vào khung sau giờ làm.
 
-Cung ven sông nội đô ngắn gọn, dễ kết hợp với lịch trình trong phố, lại cho khách quang cảnh sông nước hiếm lớp giữa thành phố. Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các tuyến nội đô khác xếp ở trang [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Cung ven sông nội đô ngắn gọn, dễ kết hợp với lịch trình trong phố, lại cho khách quang cảnh sông nước hiếm lớp giữa thành phố. Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các tuyến nội đô khác xếp ở trang [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) và trang chủ đề [cung đường & hành trình](/cung-duong/).

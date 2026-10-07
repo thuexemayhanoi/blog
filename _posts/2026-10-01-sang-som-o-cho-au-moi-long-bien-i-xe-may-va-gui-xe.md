@@ -27,7 +27,7 @@ Trời mưa lớn làm chợ vãn nhanh và ngóc đường vào chợ trơn, n�
 
 Khu vực quanh cổng chợ có các bãi giữ xe và các điểm gửi xe ven đường phục vụ thương lái và khách vãng lai; đây là lựa chọn chính vì lề đường vào chật kín xe tải và không có chỗ đỗ tự do. Khi gửi xe, nhớ lấy vé, chụp lại vị trí đỗ, và mang theo đồ giá trị theo người, vì chợ đông người khuya sớm là môi trường cần giữ đồ cẩn thận. Phí gửi niêm yết tại từng bãi theo bảng giá của bãi.
 
-Nếu chỉ đi ngắm chợ và ăn sáng, cách nhẹ nhàng hơn là gửi xe ở một bãi ngoài phố Hồng Hà hoặc trên đường lớn gần chân cầu, rồi bộ vào khu chợ. Đi bộ trong chợ lúc này thú vị hơn chạy xe luồn lách giữa xe tải, và bạn đỡ lo chỗ đỗ trong ngõ nhỏ. Ba thói quen nên giữ: khóa cổ xe mỗi lần hạ xe, không để giấy tờ trên xe, và kiểm tra dây điện giấu kín. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê.
+Nếu chỉ đi ngắm chợ và ăn sáng, cách nhẹ nhàng hơn là gửi xe ở một bãi ngoài phố Hồng Hà hoặc trên đường lớn gần chân cầu, rồi bộ vào khu chợ. Đi bộ trong chợ lúc này thú vị hơn chạy xe luồn lách giữa xe tải, và bạn đỡ lo chỗ đỗ trong ngõ nhỏ. Ba thói quen nên giữ: khóa cổ xe mỗi lần hạ xe, không để giấy tờ trên xe, và kiểm tra dây điện giấu kín. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê.
 
 ## Chạy xe khuya về rạng quanh khu cầu Long Biên
 
@@ -37,12 +37,12 @@ Mặc ấm bất kể mùa nào: nửa đêm đầu mùa lạnh Hà Nội có kh
 
 ## Ghép lịch sau buổi chợ
 
-Buổi chợ sáng sớm thường khép bằng bữa ăn sáng quanh khu chân cầu hoặc bộ về phía phố cổ khi phố vừa dậy. Nhóm đi cuối tuần hay ghép tiếp một buổi cà phê trong không gian nhà cổ, và cách gửi xe quanh khu phố cổ được gom trong bài [đi cà phê phố cổ bằng xe máy](/blog/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/). Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/).
+Buổi chợ sáng sớm thường khép bằng bữa ăn sáng quanh khu chân cầu hoặc bộ về phía phố cổ khi phố vừa dậy. Nhóm đi cuối tuần hay ghép tiếp một buổi cà phê trong không gian nhà cổ, và cách gửi xe quanh khu phố cổ được gom trong bài [đi cà phê phố cổ bằng xe máy](/du-lich/2026/10/01/i-ca-phe-pho-co-bang-xe-may-gui-xe-o-au-cho-tien/). Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
-Đừng nhồi thêm điểm thứ ba vào cùng sáng: lịch kiểu đó phá nhịp nghỉ giữa các chặng. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Đừng nhồi thêm điểm thứ ba vào cùng sáng: lịch kiểu đó phá nhịp nghỉ giữa các chặng. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 
 Kiểm tra kỹ xe trước khi rời khu Long Biên buổi khuya: lốp căng, thắng ăn, đèn sáng và còi rõ, vì chặng về có khi qua các đoạn vắng người. Mang theo áo mưa gấp trong mùa mưa, để đèn chế độ bật tắt tay cho dễ điều chỉnh theo đoạn vắng hoặc đông, và sạc sẵn pin điện thoại cho bản đồ đường về. Người mới chạy xe đêm nên đi cùng bạn quen đường, chọn hôm trời khô, và bắt đầu bằng khung sáng sớm thay vì nửa đêm.
 
-Cuối cùng, giữ khoảng cách với các xe chở hàng quá tải trên đường về, nhường đường tại các ngã rẽ không đèn, và cất bằng chứng mua hàng cẩn thận thay vì kẹp hờ trên yên. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.
+Cuối cùng, giữ khoảng cách với các xe chở hàng quá tải trên đường về, nhường đường tại các ngã rẽ không đèn, và cất bằng chứng mua hàng cẩn thận thay vì kẹp hờ trên yên. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.

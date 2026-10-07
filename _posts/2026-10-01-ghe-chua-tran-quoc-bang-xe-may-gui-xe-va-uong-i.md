@@ -21,7 +21,7 @@ Cách phổ biến nhất của người Hà Nội là gửi xe ở các bãi ve
 
 Ngày mùng một và rằm, nhiều người vòng lên các bãi ở phía đường An Dương Vương rồi bộ xuống đê: quãng bộ dài hơn một chút nhưng đỡ phải chờ xếp lượt xe giữa dòng khách lễ. Nhóm có trẻ nhỏ nên tính phương án bộ này ngay từ đầu, vì tách xe giữa đê đông không an toàn.
 
-Ngày thường, một số khách đỗ xe ven lề đường Thanh Niên, nhưng mặt đê hẹp một làn mỗi chiều, dòng xe hai đầu luôn chạy liên tục, nên thà bộ thêm vài trăm mét còn an toàn hơn kẹt xe trên đê. Tránh đỗ chắn cổng nhà dân dọc đê, vì khu này có tuần tra xử lý vi phạm đỗ xe sai quy định. Cuối cùng, trước khi rời xe, khóa cổ và kiểm tra dây điện giấu kín không lộ ra ngoài. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê.
+Ngày thường, một số khách đỗ xe ven lề đường Thanh Niên, nhưng mặt đê hẹp một làn mỗi chiều, dòng xe hai đầu luôn chạy liên tục, nên thà bộ thêm vài trăm mét còn an toàn hơn kẹt xe trên đê. Tránh đỗ chắn cổng nhà dân dọc đê, vì khu này có tuần tra xử lý vi phạm đỗ xe sai quy định. Cuối cùng, trước khi rời xe, khóa cổ và kiểm tra dây điện giấu kín không lộ ra ngoài. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê.
 
 ## Đường đi chùa Trấn Quốc bằng xe máy
 
@@ -39,10 +39,10 @@ Chiều muộn cũng đáng đi: nắng cuối ngày đổ lên mặt nước ha
 
 Một buổi ở chùa Trấn Quốc thường ghép liền với đền Quán Thánh sát cạnh, vì hai điểm chỉ cách nhau một đoạn bộ; thêm vòng dạo trên đê Thanh Niên giữa hai hồ là trọn khung chiều. Nhóm đi sáng có thể ghép ăn bánh tôm ven Hồ Tây sau khi ra khỏi chùa, trước khi tiếp tục vòng phố. Đừng nhồi thêm điểm thứ ba vào cùng buổi: lịch kiểu đó phá nhịp nghỉ giữa các chặng.
 
-Nếu bạn đang xếp thêm các buổi đi quanh thành phố, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/blog/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung gửi xe và đường đi dùng chung cho khu phía bắc, còn gợi ý các buổi dạo phố cổ nằm trong trang [phố cổ](/blog/du-lich/pho-co/). Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/).
+Nếu bạn đang xếp thêm các buổi đi quanh thành phố, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung gửi xe và đường đi dùng chung cho khu phía bắc, còn gợi ý các buổi dạo phố cổ nằm trong trang [phố cổ](/du-lich/pho-co/). Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 
-Vào chùa nên mặc trang phục kín đáo, nói khẽ, và để mũ bảo hiểm gọn trong cốp hoặc mang theo tay thay vì để lăn lóc ngoài sân chùa. Tra trước thời tiết buổi mình đi: đê Thanh Niên trơn khi mưa phùn, giày bám tốt hơn hẳn dép, và gió hồ về chiều mạnh hơn phía bờ lớn. Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì chặng vào đê hẹp cần phanh ăn và gương nhìn sau chuẩn. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Vào chùa nên mặc trang phục kín đáo, nói khẽ, và để mũ bảo hiểm gọn trong cốp hoặc mang theo tay thay vì để lăn lóc ngoài sân chùa. Tra trước thời tiết buổi mình đi: đê Thanh Niên trơn khi mưa phùn, giày bám tốt hơn hẳn dép, và gió hồ về chiều mạnh hơn phía bờ lớn. Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì chặng vào đê hẹp cần phanh ăn và gương nhìn sau chuẩn. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
-Cuối cùng, sạc sẵn điện thoại cho bản đồ đường về, mang theo áo mưa gấp trong mùa mưa, và canh pin lúc chụp ảnh trên đê vì gió hồ dễ làm máy nguội tay. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.
+Cuối cùng, sạc sẵn điện thoại cho bản đồ đường về, mang theo áo mưa gấp trong mùa mưa, và canh pin lúc chụp ảnh trên đê vì gió hồ dễ làm máy nguội tay. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.

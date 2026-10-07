@@ -46,7 +46,7 @@ Chu kỳ này thường cần thợ hỗ trợ:
 - Kiểm tra ắc quy, chùi sạch cọc ắc quy, đo điện áp.
 - Bảo dưỡng lốp, cân bánh nếu xe bị lệch tay lái.
 
-Để hiểu sâu từng hạng mục, trang chủ đề [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/) tổng hợp các bài hướng dẫn chi tiết theo từng cấu kiện, từ xích cho đến ắc quy.
+Để hiểu sâu từng hạng mục, trang chủ đề [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) tổng hợp các bài hướng dẫn chi tiết theo từng cấu kiện, từ xích cho đến ắc quy.
 
 ## Xe tay ga cần thêm những gì
 
@@ -76,10 +76,10 @@ Nếu bạn muốn tự làm phần việc nhẹ, một bộ dụng cụ nhỏ g
 
 ## Dịch vụ hỗ trợ tại Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội duy trì xe cho thuê theo định kỳ trước khi giao khách. Khi cần thuê xe đã được bảo dưỡng, bạn gọi 0942 467 674 hoặc đến trực tiếp trong giờ 09:00 đến 21:00. Thêm các bài viết về dòng xe và cấu kiện tại trang [xe máy và dòng xe](/blog/xe-may/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội duy trì xe cho thuê theo định kỳ trước khi giao khách. Khi cần thuê xe đã được bảo dưỡng, bạn gọi 0942 467 674 hoặc đến trực tiếp trong giờ 09:00 đến 21:00. Thêm các bài viết về dòng xe và cấu kiện tại trang [xe máy và dòng xe](/xe-may/).
 
 Bảo dưỡng định kỳ là khoản đầu tư nhỏ giữ cho xe ổn định suốt nhiều năm, hoặc với xe thuê, là thói quen kiểm tra vài phút mỗi sáng giúp bạn an toàn trên mọi chặng. Ghi lại lịch bảo dưỡng gần nhất vào điện thoại, và tới kỳ thì làm, đừng đợi xe lên tiếng.
 
 ## Kết luận về bảo dưỡng xe máy định kỳ
 
-Bảo dưỡng xe máy định kỳ không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Khi cần một chiếc xe phù hợp cho di chuyển hằng ngày, bạn có thể [xem các dòng xe cho thuê](/blog/thue-xe/) rồi quyết định sau khi đã rõ tình trạng xe. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.
+Bảo dưỡng xe máy định kỳ không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Khi cần một chiếc xe phù hợp cho di chuyển hằng ngày, bạn có thể [xem các dòng xe cho thuê](/thue-xe/) rồi quyết định sau khi đã rõ tình trạng xe. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.

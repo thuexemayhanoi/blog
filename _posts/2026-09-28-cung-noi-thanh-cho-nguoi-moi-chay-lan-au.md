@@ -23,7 +23,7 @@ Khách chưa chắc tay thì bắt đầu bằng vòng ngắn quanh bờ hồ v�
 
 ## Kỹ năng cần ôn trước khi xuất phát
 
-Trước khi chạy cung đầu tiên, khách đọc lại các nguyên tắc nền: tư thế ngồi, cách nhìn gương, phanh đều hai bánh và giữ khoảng cách với xe phía trước. Trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) tổng hợp đủ phần này, khách dành vài phút ôn trước chuyến thay vì học dần trên đường thật, mỗi sai lầm trên đường đều có giá thật.
+Trước khi chạy cung đầu tiên, khách đọc lại các nguyên tắc nền: tư thế ngồi, cách nhìn gương, phanh đều hai bánh và giữ khoảng cách với xe phía trước. Trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) tổng hợp đủ phần này, khách dành vài phút ôn trước chuyến thay vì học dần trên đường thật, mỗi sai lầm trên đường đều có giá thật.
 
 Với xe số, khách tập vào số một khi xe chưa trôi hẳn và về số trước khi dừng hẳn, tập mấy vòng ở đoạn vắng trước khi ra đường. Với xe ga, khách làm quen độ nhạy tay ga vì xe ga vọt nhanh hơn cảm giác lần đầu. Cả hai loại, khách kiểm tra gương, đèn và còi trước mỗi chuyến, khoản kiểm tra này tốn chưa đầy một phút nhưng loại bỏ phần lớn rủi ro nhỏ.
 
@@ -41,6 +41,6 @@ Khung lý tưởng cho người mới là sáng sớm cuối tuần và khung sa
 
 Đồ cần cho buổi đầu cũng gọn: mũ bảo hiểm cài quai chắc, giày bó gót thay vì dép lê, quần dài tránh gió và nắng, chai nước nhỏ để trong cốp. Khách chuẩn bị sẵn địa chỉ điểm nhận xe và số điện thoại cho thuê trong máy, khi cần hỗ trợ thì gọi trực tiếp thay vì loay hoay giữa đường. Túi đồ để gọn trong cốp, không treo lủng lẳng bên hông xe, vật thừa văng dây vào bánh là tai nạn rất thường gặp với người mới.
 
-Nếu có người quen đường đi kèm, khách cho người đó đi trước dẫn tuyến và hẹn dừng ở các điểm gọn, không vừa chạy vừa quay đầu nói chuyện. Mỗi buổi tập chỉ nên kéo dài dưới hai tiếng, thấy mệt là về, phần còn lại để cho buổi sau. Sau buổi đầu, khách ghép dài dần bằng cách nối vòng hồ với đoạn ven sông hoặc kéo trục phía tây thêm một chặng; cách xếp lịch cho các buổi kế tiếp nằm trong bài [Lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
+Nếu có người quen đường đi kèm, khách cho người đó đi trước dẫn tuyến và hẹn dừng ở các điểm gọn, không vừa chạy vừa quay đầu nói chuyện. Mỗi buổi tập chỉ nên kéo dài dưới hai tiếng, thấy mệt là về, phần còn lại để cho buổi sau. Sau buổi đầu, khách ghép dài dần bằng cách nối vòng hồ với đoạn ven sông hoặc kéo trục phía tây thêm một chặng; cách xếp lịch cho các buổi kế tiếp nằm trong bài [Lên kế hoạch chuyến cuối tuần bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
 
-Người mới không cần cung đường dài đẹp ngay từ đầu, chỉ cần tuyến an toàn, đúng trình tự và đều đặn mỗi tuần. Khách cần thuê xe số hoặc xe ga để tập chạy ở nội thành Hà Nội liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các tuyến xếp theo chủ đề nằm ở trang [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) và trang [cung đường & hành trình](/blog/cung-duong/).
+Người mới không cần cung đường dài đẹp ngay từ đầu, chỉ cần tuyến an toàn, đúng trình tự và đều đặn mỗi tuần. Khách cần thuê xe số hoặc xe ga để tập chạy ở nội thành Hà Nội liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các tuyến xếp theo chủ đề nằm ở trang [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) và trang [cung đường & hành trình](/cung-duong/).

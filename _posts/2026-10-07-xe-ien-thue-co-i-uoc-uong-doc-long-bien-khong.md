@@ -72,8 +72,8 @@ Giữ bình tĩnh, xuống xe, đẩy xe vào lề theo đúng làn, bật đèn
 
 ### Nên chọn xe điện hay xe xăng khi đường đi nhiều dốc?
 
-Lộ trình nhiều dốc dài như qua cầu, đi xa các quận Gia Lâm, Đông Anh thì xe xăng dễ chủ động hơn về quãng đường và lực kéo. Xe điện hợp đi phố bằng, quãng ngắn trong nội thành. Bạn có thể so sánh thêm tại trang [xe máy](/blog/xe-may/) trước khi chọn dòng xe thuê.
+Lộ trình nhiều dốc dài như qua cầu, đi xa các quận Gia Lâm, Đông Anh thì xe xăng dễ chủ động hơn về quãng đường và lực kéo. Xe điện hợp đi phố bằng, quãng ngắn trong nội thành. Bạn có thể so sánh thêm tại trang [xe máy](/xe-may/) trước khi chọn dòng xe thuê.
 
 ## Kết luận
 
-Xe điện thuê leo dốc Long Biên là khả thi với dốc cầu khi chạy một mình, pin còn nhiều và biết cách lấy đà, nhưng không phải lựa chọn tốt nếu bạn chở nặng hoặc đi dốc liên tục. Khi thuê, hỏi rõ loại xe, tình trạng pin và chính sách hỗ trợ hết pin để chuyến đi suôn sẻ. Tham khảo thêm [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) và [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) để chuẩn bị đầy đủ trước khi nhận xe.
+Xe điện thuê leo dốc Long Biên là khả thi với dốc cầu khi chạy một mình, pin còn nhiều và biết cách lấy đà, nhưng không phải lựa chọn tốt nếu bạn chở nặng hoặc đi dốc liên tục. Khi thuê, hỏi rõ loại xe, tình trạng pin và chính sách hỗ trợ hết pin để chuyến đi suôn sẻ. Tham khảo thêm [thuê xe máy theo ngày](/thue-xe/thue-ngay/) và [thủ tục thuê xe máy](/thue-xe/thu-tuc/) để chuẩn bị đầy đủ trước khi nhận xe.

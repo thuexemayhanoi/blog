@@ -17,7 +17,7 @@ Dịp Tết là mùa người làm ăn xa ở Hà Nội tính chuyện về quê
 
 ## Thuê xe máy về quê Tết: đặt sớm và nhận xe kỹ
 
-Nhu cầu thuê xe dịp Tết cao hơn ngày thường, nên khách có kế hoạch về quê nên hỏi sớm. Hỏi sớm không chỉ để còn xe, mà còn kịp chọn dòng xe phù hợp chuyến: xe số bền cho đường xa, hoặc xe ga yên êm nếu chở người lớn tuổi ngồi sau. Các bài chọn xe theo từng nhóm người được gom trong trang [thuê xe theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/), riêng phần giá cả dịp lễ có riêng một bài [giá thuê xe máy dịp Tết ở Hà Nội có tăng không](/blog/thue-xe/2026/09/30/gia-thue-xe-may-dip-tet-o-ha-noi-co-tang-khong/) để bạn tham khảo trước khi đặt.
+Nhu cầu thuê xe dịp Tết cao hơn ngày thường, nên khách có kế hoạch về quê nên hỏi sớm. Hỏi sớm không chỉ để còn xe, mà còn kịp chọn dòng xe phù hợp chuyến: xe số bền cho đường xa, hoặc xe ga yên êm nếu chở người lớn tuổi ngồi sau. Các bài chọn xe theo từng nhóm người được gom trong trang [thuê xe theo đối tượng](/thue-xe/thue-theo-doi-tuong/), riêng phần giá cả dịp lễ có riêng một bài [giá thuê xe máy dịp Tết ở Hà Nội có tăng không](/thue-xe/2026/09/30/gia-thue-xe-may-dip-tet-o-ha-noi-co-tang-khong/) để bạn tham khảo trước khi đặt.
 
 Khi nhận xe, kiểm tra kỹ hơn ngày thường vì phía trước là chuyến đường dài: lốp hai bánh còn gai căng đều, phanh trước sau nhạy, đèn còi gương đầy đủ, thử máy nổ đề vài lần. Xe số thì xem thêm xích không rít, bộ đề dễ; xe ga thì xem cốp khô ráo và khóa tốt. Chụp lại toàn cảnh xước xát quanh xe và ghi rõ vào biên bản, vì chuyến đi dài qua đường đông dễ phát sinh va chạm nhỏ.
 
@@ -49,7 +49,7 @@ Về giấy tờ trên đường, nhớ mang theo giấy phép lái xe phù hợ
 
 Ba việc nên hỏi ngay lúc nhận xe, đừng để sau lễ: trả xe ngày nào trong kỳ nghỉ nơi cho thuê làm việc, nếu lỡ về trễ một ngày thì tính thế nào, và khi nào được gia hạn thêm nếu kế hoạch đổi. Trao đổi rõ từ đầu giúp hai bên yên tâm qua lễ, và bạn khỏi chạy gịp sáng mồng bốn giữa đường đông người trở thành phố.
 
-Tổng quan về thuê xe máy Hà Nội, từ dòng xe tới thủ tục, cập nhật trong mục [cho thuê xe máy](/blog/thue-xe/). Khách muốn thêm cảm giác Tết giữa ngày thường có thể ghé đọc bài [chợ hoa Hàng Mã mùa Tết bằng xe máy](/blog/du-lich/2026/10/01/cho-hoa-hang-ma-mua-tet-bang-xe-may-o-xe-va-thoi-iem-i/), cũng là một bài thực tế về đỗ xe mùa cao điểm.
+Tổng quan về thuê xe máy Hà Nội, từ dòng xe tới thủ tục, cập nhật trong mục [cho thuê xe máy](/thue-xe/). Khách muốn thêm cảm giác Tết giữa ngày thường có thể ghé đọc bài [chợ hoa Hàng Mã mùa Tết bằng xe máy](/du-lich/2026/10/01/cho-hoa-hang-ma-mua-tet-bang-xe-may-o-xe-va-thoi-iem-i/), cũng là một bài thực tế về đỗ xe mùa cao điểm.
 
 ## Kết lại
 

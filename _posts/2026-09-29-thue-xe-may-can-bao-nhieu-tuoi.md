@@ -25,7 +25,7 @@ Tóm lại cách nhớ nhanh: mốc 18 gắn với chữ ký trong hợp đồng
 
 ## Thuê xe máy bao nhiêu tuổi theo khung pháp lý
 
-Khung pháp lý hiện hành quy định: người đủ 16 tuổi được điều khiển xe gắn máy có dung tích xi-lanh dưới 50 cm³; người đủ 18 tuổi được điều khiển xe mô tô hai bánh từ 50 cm³ trở lên, kèm giấy phép lái xe hạng phù hợp. Các hạng giấy phép được tóm tắt trong bài [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/). Đây là hai mốc cần nhớ khi bạn tính chuyện thuê và chạy xe.
+Khung pháp lý hiện hành quy định: người đủ 16 tuổi được điều khiển xe gắn máy có dung tích xi-lanh dưới 50 cm³; người đủ 18 tuổi được điều khiển xe mô tô hai bánh từ 50 cm³ trở lên, kèm giấy phép lái xe hạng phù hợp. Các hạng giấy phép được tóm tắt trong bài [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/). Đây là hai mốc cần nhớ khi bạn tính chuyện thuê và chạy xe.
 
 Trên thực tế, nhân viên cửa hàng xác minh tuổi qua giấy tờ tùy thân chứ không phỏng đoán qua ngoại hình, nên bạn nên mang bản gốc khi đến. Nếu giấy tờ chưa có mặt thì câu hỏi về tuổi cũng chưa thể được trả lời dứt điểm.
 
@@ -35,7 +35,7 @@ Cần nói thêm là quy định về độ tuổi có thể được bổ sung,
 
 Ở phía cửa hàng, tuổi tối thiểu thuê xe thường được đặt ở 18 để hợp đồng có bên chịu trách nhiệm đầy đủ. Khách dưới tuổi này cần người giám hộ hoặc một người trên 18 tuổi đứng tên, và người đứng tên là bên chịu trách nhiệm chính thức về chiếc xe suốt thời gian thuê. Cửa hàng cũng có thể hỏi thêm thói quen chạy xe của người sẽ điều khiển để tư vấn dòng xe an toàn.
 
-Người đứng tên cần mang CCCD bản gốc, còn người điều khiển cần giấy phép lái xe tương ứng với loại xe nhận. Bộ hồ sơ này gần giống với các bước được tóm tắt trong bài [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Người đứng tên cần mang CCCD bản gốc, còn người điều khiển cần giấy phép lái xe tương ứng với loại xe nhận. Bộ hồ sơ này gần giống với các bước được tóm tắt trong bài [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 Một số cửa hàng ghi rõ độ tuổi tối thiểu ngay trong thông báo hoặc bảng giá, một số khác hỏi khi khách đến. Nếu bạn không chắc, cứ hỏi thẳng khi đặt xe để khỏi phải mang người đứng tên đi lại thêm một chuyến.
 
@@ -47,4 +47,4 @@ Một lưu ý thực tế cho bạn gần đủ 18 tuổi: hãy tính cả thờ
 
 Với nhóm học sinh, phụ huynh nên đi cùng trong lần nhận xe đầu tiên để kiểm tra xe và chốt lại cách thức liên lạc khi có sự cố. Mũ bảo hiểm đạt chuẩn là vật không thể thiếu cho mọi chuyến đi, kể cả quãng đường ngắn.
 
-Các câu hỏi về tuổi tác, giấy tờ và điều kiện thuê được gom trong nhóm [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) của mục [hỏi đáp](/blog/hoi-dap/). Với tình huống cụ thể của mình, hãy gọi Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674 để được xác nhận trước khi đến.
+Các câu hỏi về tuổi tác, giấy tờ và điều kiện thuê được gom trong nhóm [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/) của mục [hỏi đáp](/hoi-dap/). Với tình huống cụ thể của mình, hãy gọi Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674 để được xác nhận trước khi đến.

@@ -17,15 +17,15 @@ article_id: BLG-00918
 
 ## Thuê xe máy chở hai người: chọn xe đủ sức tải
 
-Người thứ hai cộng thêm một phần lớn trọng lượng xe, nên dòng xe cần máy khỏe và khung chắc. Xe số phổ thông chịu tải tốt và giữ tốc độ ổn khi thêm người ngồi sau, còn nếu bạn quen xe ga, các dòng máy lớn hơn như Honda Air Blade thuộc nhóm được ưa chuộng cho việc chở hai, trải nghiệm cụ thể với dòng này có trong bài [thuê Honda Air Blade ở Hà Nội](/blog/chia%20s%E1%BA%BB/2026/09/18/thue-honda-air-blade-o-ha-noi/). Ngược lại, các dòng mini hoặc xe 50cc chỉ hợp người lái đơn, buộc thêm người ngồi sau là máy yếu rõ và phanh ăn kém, đây là lý do quan trọng nhất để không tiết kiệm sai chỗ khi thuê.
+Người thứ hai cộng thêm một phần lớn trọng lượng xe, nên dòng xe cần máy khỏe và khung chắc. Xe số phổ thông chịu tải tốt và giữ tốc độ ổn khi thêm người ngồi sau, còn nếu bạn quen xe ga, các dòng máy lớn hơn như Honda Air Blade thuộc nhóm được ưa chuộng cho việc chở hai, trải nghiệm cụ thể với dòng này có trong bài [thuê Honda Air Blade ở Hà Nội](/chia%20s%E1%BA%BB/2026/09/18/thue-honda-air-blade-o-ha-noi/). Ngược lại, các dòng mini hoặc xe 50cc chỉ hợp người lái đơn, buộc thêm người ngồi sau là máy yếu rõ và phanh ăn kém, đây là lý do quan trọng nhất để không tiết kiệm sai chỗ khi thuê.
 
-Cùng với máy và khung, áp suất lốp là chi tiết ít ai để ý đến khi chở hai: xe nặng hơn thì lốp cần căng đủ mới bám đường và giữ vững khi phanh gấp. Cách kiểm tra nhanh nằm trong bài [áp suất lốp xe máy kiểm tra thế nào](/blog/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/), và bạn nên hỏi thêm cửa hàng xem xe đã được bơm theo chuẩn chở hai hay chưa trước khi nhận.
+Cùng với máy và khung, áp suất lốp là chi tiết ít ai để ý đến khi chở hai: xe nặng hơn thì lốp cần căng đủ mới bám đường và giữ vững khi phanh gấp. Cách kiểm tra nhanh nằm trong bài [áp suất lốp xe máy kiểm tra thế nào](/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/), và bạn nên hỏi thêm cửa hàng xem xe đã được bơm theo chuẩn chở hai hay chưa trước khi nhận.
 
 ## Mũ bảo hiểm và trách nhiệm với người ngồi sau
 
 Điều đầu tiên cần nói thẳng: người ngồi sau cũng phải đội mũ bảo hiểm cài quai đúng cách, đây vừa là quy định chung vừa là lớp bảo vệ thực sự trong va chạm, bởi trong phần lớn tai nạn xe máy, người ngồi sau là bên bị văng xa hơn. Khi nhận xe thuê, cửa hàng có mũ đi kèm, nhưng hai mũ cho hai người thì bạn nên hỏi trước, vì một số lần thuê chỉ kèm một mũ, và hy sinh mũ cho người sau trong khi người lái lơ đãng là logic ngược hoàn toàn.
 
-Với người ngồi sau chưa quen đi xe máy, trước khi lăn bánh hãy thống nhất ba dấu hiệu: kéo vai trái là muốn rẽ trái, nghiêng theo người lái khi vào cua, và tuyệt đối không đung đưa người khi xe đang vào cua. Người mới hay có phản xạ ngược đời là tự thẳng người ra khi xe nghiêng, cái phản xạ đó lật cua cua cả hai người, nên hãy dặn kỹ từ đầu. Nhóm kỹ năng cơ bản như tư thế ngồi, cách bám và phối hợp khi vào cua được gom trong mục [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), đọc trước một lần giúp cả hai cùng hiểu nhịp nhau.
+Với người ngồi sau chưa quen đi xe máy, trước khi lăn bánh hãy thống nhất ba dấu hiệu: kéo vai trái là muốn rẽ trái, nghiêng theo người lái khi vào cua, và tuyệt đối không đung đưa người khi xe đang vào cua. Người mới hay có phản xạ ngược đời là tự thẳng người ra khi xe nghiêng, cái phản xạ đó lật cua cua cả hai người, nên hãy dặn kỹ từ đầu. Nhóm kỹ năng cơ bản như tư thế ngồi, cách bám và phối hợp khi vào cua được gom trong mục [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), đọc trước một lần giúp cả hai cùng hiểu nhịp nhau.
 
 ## Giữ thăng bằng khi rẽ, dừng và đặt chân
 
@@ -46,4 +46,4 @@ Cuối cùng, hai người cùng một xe cần thống nhất cả những chuy
 
 Trước khi khởi hành cùng nhau, nên chốt luôn điểm trả xe và ai là người giữ xe khi hai người tách nhau ra giữa buổi, ví dụ một người xuống chợ còn người kia chạy việc khác. Chuyến đi hai người trên một chiếc xe thuê có thêm phần quản lý mà đi một người không có, và những chuyện tưởng nhỏ như ai cầm chìa khóa, ai giữ mũ dự phòng nên thống nhất từ đầu, để buổi đi không bị cắt vì một bên đứng chờ bên còn lại quên dòng gì.
 
-Tóm lại, chở người thứ hai bằng xe thuê muốn an toàn cần bốn thứ: dòng xe đủ tải, hai mũ đúng quy cách, người sau biết phối hợp, và người lái điều chỉnh cả cách rẽ lẫn cách dừng cho nặng hơn bình thường. Khi gọi thuê, cứ nói rõ bạn đi hai người để cửa hàng tư vấn đúng dòng, và tham khảo thêm trong trang [xe máy và dòng xe](/blog/xe-may/) nếu bạn muốn so các lựa chọn trước khi nhận xe.
+Tóm lại, chở người thứ hai bằng xe thuê muốn an toàn cần bốn thứ: dòng xe đủ tải, hai mũ đúng quy cách, người sau biết phối hợp, và người lái điều chỉnh cả cách rẽ lẫn cách dừng cho nặng hơn bình thường. Khi gọi thuê, cứ nói rõ bạn đi hai người để cửa hàng tư vấn đúng dòng, và tham khảo thêm trong trang [xe máy và dòng xe](/xe-may/) nếu bạn muốn so các lựa chọn trước khi nhận xe.

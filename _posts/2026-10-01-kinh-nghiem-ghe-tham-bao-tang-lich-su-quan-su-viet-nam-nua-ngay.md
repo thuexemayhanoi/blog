@@ -29,7 +29,7 @@ Trẻ nhỏ ở bảo tàng này thường say nhất phần vỏ ngoài trời 
 
 Dặn trẻ trước vài quy tắc đơn giản: không chạy trong nhà trưng bày, không tự chạm vào vật trưng bày ở nơi có biển cấm, và hỏi trước khi muốn leo lên chụp ảnh gần các cỗ pháo. Đây là dịp tốt để chuyện lịch sử trở nên cụ thể với trẻ: đứng trước một chiếc máy bay thật, câu chuyện về những người bảo vệ bầu trời đọc lên nghe khác hẳn so với trong sách.
 
-Với nhóm đi bằng xe máy thuê, mũ bảo hiểm đúng cỡ cho trẻ và áo gió mỏng là hai món nên mang, vì trong nhà mát hơn ngoài trời đáng kể. Chuẩn bị xe và giấy tờ khi thuê nằm trong trang [cho thuê xe máy](/blog/thue-xe/), còn các lưu ý giữ sức khi lái xe nhiều chặng được gom trong bài [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/).
+Với nhóm đi bằng xe máy thuê, mũ bảo hiểm đúng cỡ cho trẻ và áo gió mỏng là hai món nên mang, vì trong nhà mát hơn ngoài trời đáng kể. Chuẩn bị xe và giấy tờ khi thuê nằm trong trang [cho thuê xe máy](/thue-xe/), còn các lưu ý giữ sức khi lái xe nhiều chặng được gom trong bài [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/).
 
 ## Tra trước những gì trước khi khởi hành
 
@@ -39,8 +39,8 @@ Thời tiết nắng gắt thì đưa phần ngoài trời xuống khung chiều
 
 ## Nghỉ giữa buổi và ghép lịch quanh Ba Đình
 
-Sau một buổi tại bảo tàng, nhóm hay ăn trưa quanh khu Ba Đình hoặc chạy một vòng [hồ Tây](/blog/du-lich/ho-tay/) cho tiêu cơm, và nếu còn sức thì [phố cổ](/blog/du-lich/pho-co/) chỉ cách một chặng xe ngắn. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó luôn phá nhịp nghỉ giữa buổi. Nếu muốn tham khảo cách xếp một buổi bảo tàng tương tự, bài [bảo tàng Thiên nhiên nửa ngày](/blog/du-lich/2026/10/01/en-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung xếp giờ dùng chung được cho mọi bảo tàng trong thành phố, còn thêm nhiều gợi ý khác nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/).
+Sau một buổi tại bảo tàng, nhóm hay ăn trưa quanh khu Ba Đình hoặc chạy một vòng [hồ Tây](/du-lich/ho-tay/) cho tiêu cơm, và nếu còn sức thì [phố cổ](/du-lich/pho-co/) chỉ cách một chặng xe ngắn. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó luôn phá nhịp nghỉ giữa buổi. Nếu muốn tham khảo cách xếp một buổi bảo tàng tương tự, bài [bảo tàng Thiên nhiên nửa ngày](/du-lich/2026/10/01/en-bao-tang-thien-nhien-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung xếp giờ dùng chung được cho mọi bảo tàng trong thành phố, còn thêm nhiều gợi ý khác nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 Một kinh nghiệm nhỏ nữa cho nhóm đi cuối tuần: bảo tàng sáng cuối tuần đông khách tham quan theo đoàn, nên nếu muốn không gian yên tĩnh hơn thì chọn buổi chiều ngày thường, khi dòng khách thưa và bạn được đứng lâu trước từng hiện vật mà không phải chờ. Ngược lại, nếu đi cùng trẻ vào dịp lễ, khung đông lại có không khí nhộn nhịp khiến trẻ thấy lịch sử sinh động hơn. Chọn khung giờ theo tính cách nhóm là cách đơn giản nhất để buổi nửa ngày không biến thành cuộc chen chúc mệt mỏi.
 
-Nửa ngày là ước lượt hợp lý cho bảo tàng Lịch sử Quân sự: đủ để đọc hết mạch trưng bày trong nhà và đứng thật lâu trước sân máy bay, mà vẫn kịp về nghỉ giữa trưa. Xếp đúng thứ tự, giữ chỗ nghỉ giữa buổi, và buổi đi của bạn sẽ tươm tất từ khúc rẽ vào Điện Biên Phủ cho tới lúc lấy xe về, chuyện cuối cùng ghi trong mục [du lịch](/blog/du-lich/) để tích dần cho các buổi đi sau quanh Hà Nội.
+Nửa ngày là ước lượt hợp lý cho bảo tàng Lịch sử Quân sự: đủ để đọc hết mạch trưng bày trong nhà và đứng thật lâu trước sân máy bay, mà vẫn kịp về nghỉ giữa trưa. Xếp đúng thứ tự, giữ chỗ nghỉ giữa buổi, và buổi đi của bạn sẽ tươm tất từ khúc rẽ vào Điện Biên Phủ cho tới lúc lấy xe về, chuyện cuối cùng ghi trong mục [du lịch](/du-lich/) để tích dần cho các buổi đi sau quanh Hà Nội.

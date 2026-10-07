@@ -24,19 +24,19 @@ Khung giữa trưa chỉ hợp khách nghỉ trong bóng cây: nắng khu Ba Đ�
 
 Trình tự hợp lý là gửi xe tại bãi quanh khu di tích, mở đầu bằng vườn hoa khi còn vắng, rồi đi bộ sang Chùa Một Cột, dạo mép Quảng trường Ba Đình và ghé Bảo tàng Hồ Chí Minh nếu còn thời gian. Vườn hoa là phần ngắn của buổi, nên chậm lại ở các khóm hoa theo mùa, chụp ảnh xong mới sang các điểm di tích cần trang phục kín đáo và trật tự hơn. Vòng đi bộ giữa các điểm này đều đoạn ngắn, không cần di chuyển xe giữa buổi, một chỗ gửi dùng trọn buổi là gọn nhất.
 
-Ngày có khách đoàn thăm Lăng và Phủ Chủ tịch, các lối quanh khu đông và có đoạn điều tiết dòng người: khách nên đi theo hướng ngược với dòng khách, giữ khoảng nghỉ ở vườn hoa thay vì dừng lâu ở các cổng chính. Khung mở của từng điểm quanh khu thay đổi theo lịch quản lý, nên tra trước trong ngày dự kiến rồi sắp thứ tự cho khớp. Chi tiết đường vào, chỗ gửi xe quanh trục này được kể trong bài [khám phá khu Ba Đình](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), còn cách xử lý các tình huống phố đông được phân tích tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Ngày có khách đoàn thăm Lăng và Phủ Chủ tịch, các lối quanh khu đông và có đoạn điều tiết dòng người: khách nên đi theo hướng ngược với dòng khách, giữ khoảng nghỉ ở vườn hoa thay vì dừng lâu ở các cổng chính. Khung mở của từng điểm quanh khu thay đổi theo lịch quản lý, nên tra trước trong ngày dự kiến rồi sắp thứ tự cho khớp. Chi tiết đường vào, chỗ gửi xe quanh trục này được kể trong bài [khám phá khu Ba Đình](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), còn cách xử lý các tình huống phố đông được phân tích tại trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Ăn uống và nghỉ giữa buổi
 
 Ăn uống quanh khu Ba Đình khác phố cổ: quán mặt phố thưa hơn, nên khách muốn buổi liền mạch nên ăn sáng trước khi tới hoặc mang theo đồ nhẹ, nước đầy cho phần đi bộ. Quanh các phố dẫn lên khu như Ngọc Hà, Hoàng Hoa Thám có các hàng ăn và quán nước ven đường phục vụ dân quanh khu, hợp ghé nhanh giữa buổi; hỏi giá và hỏi chỗ để xe tại quán trước khi ngồi là thói quen nên giữ ở khu đông khách đoàn. Trẻ nhỏ theo cùng buổi nên chủ động nước uống, vì phần đi bộ giữa các điểm ít chỗ bán hơn các phố thương mại. Khách đi theo nhóm có thể hẹn gặp tại vườn hoa trước khi chia nhau thăm các điểm: vườn nhỏ dễ làm mốc, ai lạc cũng quay về được chỗ cũ mà không cần di chuyển xe.
 
-Chiều muộn nếu còn thời gian, khách có thể mở rộng buổi sang phía Hồ Tây: dải cây ven hồ và các điểm quanh đó nối với trục Hùng Vương qua Quán Thánh, hợp cho phần cuối buổi thảnh thơi. Danh mục điểm đến quanh Hà Nội xếp theo khu vực nằm trong trang [điểm đến](/blog/du-lich/diem-den/), còn tổng quan các trải nghiệm quanh Hà Nội nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Chiều muộn nếu còn thời gian, khách có thể mở rộng buổi sang phía Hồ Tây: dải cây ven hồ và các điểm quanh đó nối với trục Hùng Vương qua Quán Thánh, hợp cho phần cuối buổi thảnh thơi. Danh mục điểm đến quanh Hà Nội xếp theo khu vực nằm trong trang [điểm đến](/du-lich/diem-den/), còn tổng quan các trải nghiệm quanh Hà Nội nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Chuẩn bị gì trước khi nổ máy
 
 Danh mục nhỏ cho nửa ngày khu di tích: trang phục kín để vào các nơi thờ tự, mũ hoặc ô gấp cho đoạn ngoài trời, một ít tiền lẻ cho phí giữ xe, giày mềm cho phần đi bộ giữa các điểm, và áo mưa mỏng cho mùa giông. Mùa hè nắng khu Ba Đình lên nhanh: bôi chống nắng và mang nước. Mùa lạnh sương sớm làm cỏ ẩm, giày có độ bám giúp phần đi bộ trên các lối lát quanh vườn.
 
-Xe máy cho buổi nội đô vẫn cần vòng kiểm tra nhanh: đèn, còi, phanh và áp suất lốp, vì các trục dẫn vào khu như Điện Biên Phủ có đoạn dòng nhanh. Khách thuê xe mang giấy tờ theo người, chụp tình trạng xe khi nhận, và nhận xe sớm để kịp khung sáng của các điểm. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Xe máy cho buổi nội đô vẫn cần vòng kiểm tra nhanh: đèn, còi, phanh và áp suất lốp, vì các trục dẫn vào khu như Điện Biên Phủ có đoạn dòng nhanh. Khách thuê xe mang giấy tờ theo người, chụp tình trạng xe khi nhận, và nhận xe sớm để kịp khung sáng của các điểm. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Kết luận về nửa ngày quanh vườn hoa Hùng Vương
 

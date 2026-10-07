@@ -48,6 +48,6 @@ Vào các tối cuối tuần, phần mặt đường ven Hồ Hoàn Kiếm chuy
 
 Còn trong ngày thường, khu vực quanh hồ vẫn cho chạy xe bình thường trên các đoạn vành đai. Sáng sớm quanh hồ nhiều người tập thể dục, dạo quanh và chụp ảnh cưới, nên giảm tốc và giữ khoảng cách là thói quen nên có. Tra cứu thông tin giờ mở cửa đền và giờ phố đi bộ mới nhất trước khi đi, vì các khung giờ này có thể thay đổi theo mùa và dịp lễ.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [phố cổ](/blog/du-lich/pho-co/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [phố cổ](/du-lich/pho-co/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, đến Đền Ngọc Sơn bằng xe máy cần nhớ ba điều: đền nằm trên đảo giữa hồ nên phải gửi xe quanh bờ rồi đi bộ qua cầu Thê Húc, các đường quanh hồ là một chiều nên theo biển báo, và tối cuối tuần phố đi bộ cấm xe ven hồ. Gửi xe ở bãi có người trông, lấy phi, và đi sớm nếu muốn tránh đông. Với khách thuê xe, hỏi trước người cho thuê về bãi gửi xe quanh hồ giúp tiết kiệm thời gian đầu chuyến.

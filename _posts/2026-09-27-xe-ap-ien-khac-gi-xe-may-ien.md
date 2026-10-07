@@ -45,4 +45,4 @@ Nếu bạn muốn so sánh chi tiết hơn về đặc tính hai dòng xe này,
 
 ## Tóm lại: xe đạp điện và xe máy điện nên chọn loại nào
 
-Khác biệt cốt lõi: xe đạp điện nhẹ, chậm hơn, giấy tờ đơn giản, hợp chặng ngắn; xe máy điện nhanh hơn, vững hơn, hợp hành trình dài trong ngày. Chọn theo lịch trình thật của bạn, đừng chọn theo vẻ ngoài của xe. Bạn xem thêm chủ đề [xe đạp điện](/blog/xe-may/xe-dap-dien/), so sánh với dòng [xe máy điện](/blog/xe-may/xe-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) trước khi thuê xe ở Hà Nội.
+Khác biệt cốt lõi: xe đạp điện nhẹ, chậm hơn, giấy tờ đơn giản, hợp chặng ngắn; xe máy điện nhanh hơn, vững hơn, hợp hành trình dài trong ngày. Chọn theo lịch trình thật của bạn, đừng chọn theo vẻ ngoài của xe. Bạn xem thêm chủ đề [xe đạp điện](/xe-may/xe-dap-dien/), so sánh với dòng [xe máy điện](/xe-may/xe-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/xe-may/) trước khi thuê xe ở Hà Nội.

@@ -40,7 +40,7 @@ Kinh nghiệm chọn chỗ: ưu tiên bãi có người ngồi trông đương n
 
 Nếu mua hàng nặng — cá to, thịt xương, thùng trái cây — nên gửi xe gần cổng chợ nhất có thể, và nhớ đường đi bộ ra: xách hai tay đồ tươi giữa ngõ chật chội vừa mệt vừa dễ đổ. Người bán quanh chợ thường chỉ cho khách chỗ để xe gần sạp họ; hỏi một câu trước khi mua là cách dễ nhất có chỗ đẹp.
 
-Ai cần đọc nhanh các lưu ý chung về trông giữ xe hai bánh, chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/) gom đủ; các điểm quanh khu chợ được gom trong chuyên mục [Hồ Tây](/blog/du-lich/ho-tay/).
+Ai cần đọc nhanh các lưu ý chung về trông giữ xe hai bánh, chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/) gom đủ; các điểm quanh khu chợ được gom trong chuyên mục [Hồ Tây](/du-lich/ho-tay/).
 
 ## Mua sắm và chở đồ về bằng xe máy
 
@@ -48,7 +48,7 @@ Vài mẹo của người đi chợ sáng lâu năm. Mang tiền lẻ: chợ đ�
 
 Về chở hàng, thứ tự sắp xếp quan trọng: đồ nặng để giữa hai chân, đồ nhẹ và dễ đổ để trong cốp hoặc túi treo phía trước. Cá thịt nên nhờ người bán gói kín hai lớp, tránh nước chảy ra yên. Ra về đi chậm trong ngõ, chỉ tăng tốc khi ra được đường lớn, và trời nóng thì về thẳng: đồ tươi nằm trên yên xe dưới nắng hỏng nhanh hơn trong túi.
 
-Người mới chạy xe máy trong nội đô buổi sáng nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước chuyến đi chợ đầu tiên; ai muốn ghép thêm điểm khác trong ngày xem mục [điểm đến Hà Nội](/blog/du-lich/diem-den/).
+Người mới chạy xe máy trong nội đô buổi sáng nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước chuyến đi chợ đầu tiên; ai muốn ghép thêm điểm khác trong ngày xem mục [điểm đến Hà Nội](/du-lich/diem-den/).
 
 ## Ghép chợ sáng vào một buổi đi
 
@@ -56,4 +56,4 @@ Chợ Quảng An hợp đi kèm một vòng sáng quanh khu Tây Hồ: giữa s�
 
 Người thuê xe máy ở bờ bắc như khu Long Biên có lợi thế đường: qua một cây cầu là tới khu Tây Hồ, nên chuyến chợ sáng không mất nhiều thời gian. Ai cần xe máy cho buổi chợ sớm có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, lấy xe sớm chạy thẳng lên Quảng An.
 
-Trang [du lịch](/blog/du-lich/) cập nhật liên tục các lộ trình chợ sớm, ven hồ và phố cổ bằng xe máy quanh Hà Nội.
+Trang [du lịch](/du-lich/) cập nhật liên tục các lộ trình chợ sớm, ven hồ và phố cổ bằng xe máy quanh Hà Nội.

@@ -60,6 +60,6 @@ Cuối tuần, khu phố cổ lẫn chợ Đồng Xuân đón nhiều gia đình
 
 ## Kết hợp trong buổi dạo
 
-Từ Hàng Mã, bạn dễ rẽ sang các phố ẩm thực cổ hoặc vòng về chợ Đồng Xuân mua quà mang về. Chuyên mục [phố cổ Hà Nội](/blog/du-lich/pho-co/) gợi ý thêm các tuyến dạo quanh khu, còn [du lịch Hà Nội](/blog/du-lich/) giúp bạn xếp lịch cho cả ngày ở thủ đô. Khách ở xa cần phương tiện có thể xem [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/).
+Từ Hàng Mã, bạn dễ rẽ sang các phố ẩm thực cổ hoặc vòng về chợ Đồng Xuân mua quà mang về. Chuyên mục [phố cổ Hà Nội](/du-lich/pho-co/) gợi ý thêm các tuyến dạo quanh khu, còn [du lịch Hà Nội](/du-lich/) giúp bạn xếp lịch cho cả ngày ở thủ đô. Khách ở xa cần phương tiện có thể xem [thuê xe máy theo ngày](/thue-xe/thue-ngay/).
 
 Tóm lại, phố Hàng Mã ngoài mùa Tết vẫn là một điểm dạo đáng đi: dễ gửi xe, dễ dạo và đủ màu sắc cho một buổi chụp ảnh. Chọn ngày thường, canh khung chiều đẹp nắng và gửi xe quanh khu chợ Đồng Xuân, bạn sẽ có một buổi phố cổ nhàn nhã giữa lòng Hà Nội.

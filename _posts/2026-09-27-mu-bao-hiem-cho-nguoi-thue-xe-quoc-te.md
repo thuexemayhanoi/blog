@@ -15,13 +15,13 @@ article_id: BLG-00537
 
 Khách quốc tế thường ngạc nhiên khi thấy mọi người trên đường Hà Nội đều đội mũ bảo hiểm, kể cả trẻ nhỏ ngồi sau. Sự khác biệt này không phải thói quen tùy hứng: đội mũ bảo hiểm khi thuê xe là yêu cầu bắt buộc với người ngồi trên xe máy khi lưu thông, và đây cũng là điều kiện cửa hàng thường nhắc khi giao xe. Bài này nói rõ vì sao mũ quan trọng với khách quốc tế, cách chọn mũ vừa và cách giữ thói quen đội mũ đúng suốt kỳ thuê.
 
-Nếu bạn muốn xem các yêu cầu chung khác, hãy đọc chuyên mục [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/blog/thue-xe/).
+Nếu bạn muốn xem các yêu cầu chung khác, hãy đọc chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/thue-xe/).
 
 ## Vì sao mũ bảo hiểm quan trọng hơn mọi trang bị khác
 
 Với khách quốc tế chưa quen mật độ giao thông Hà Nội, khoảng cách giữa các xe rất hẹp và tốc độ dòng xe khó đoán trước. Trong các va chạm nhẹ, phần đầu và mặt là vùng dễ bị ảnh hưởng nhất khi ngã. Mũ bảo hiểm đạt chất lượng hấp thụ phần năng lượng va đập, giảm mức độ chấn thương so với không đội mũ. Đây là lý do quy định giao thông hiện hành yêu cầu đội mũ cho cả người lái và người ngồi trên xe cơ giới hai bánh, không phân biệt quốc tịch.
 
-Nói cách khác, dù bạn thuê xe ở khu nào của Hà Nội, việc đội mũ vừa là nghĩa vụ khi lưu thông, vừa là lớp bảo vệ thực tế cho chính bạn. Tổng quan về nhóm quy định này nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Nói cách khác, dù bạn thuê xe ở khu nào của Hà Nội, việc đội mũ vừa là nghĩa vụ khi lưu thông, vừa là lớp bảo vệ thực tế cho chính bạn. Tổng quan về nhóm quy định này nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Mũ đi kèm xe thuê và cách chọn mũ vừa đầu
 
@@ -45,7 +45,7 @@ Khi đỗ xe, không treo mũ trên gương hay để trên yên xe giữa trờ
 
 Với người ngồi sau, thường là bạn cùng đi trong nhóm, hãy kiểm tra mũ cho họ như kiểm tra cho chính mình. Trẻ em đi kèm cần mũ cỡ nhỏ và luôn ngồi giữa hai người lớn trên xe, theo quy tắc an toàn hiện hành. Nếu bạn định chở thêm người, hỏi trước chủ xe xem xe thuê có đủ điều kiện chở hai người an toàn không.
 
-Trước mỗi chuyến đi dài, việc kiểm tra tổng thể xe và trang bị được tóm tắt trong bài [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), trong đó mũ luôn là mục đầu tiên.
+Trước mỗi chuyến đi dài, việc kiểm tra tổng thể xe và trang bị được tóm tắt trong bài [danh sách kiểm tra xe khi nhận xe thuê](/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), trong đó mũ luôn là mục đầu tiên.
 
 ## Mũ, trời nóng và câu hỏi thực tế của khách quốc tế
 

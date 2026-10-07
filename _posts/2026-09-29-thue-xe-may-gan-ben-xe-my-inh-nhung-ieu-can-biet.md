@@ -19,11 +19,11 @@ Xuống xe khách ở Mỹ Đình với hai tay xách đồ, câu hỏi đầu t
 
 Khu vực Mỹ Đình thuộc quận Nam Từ Liêm, nằm ở phía tây Hà Nội, nơi đường phố rộng nhưng các nút giao lớn như đường vành đai và các trục chính luôn đông xe. Nếu bạn chỉ cần xe đi lại trong vài ngày ngắn, xe tay ga nhỏ gọn như Honda Vision thường ở mức 200.000 đồng một ngày là dễ lái nhất cho người không quen phố xá. Nếu bạn đi nhiều và muốn tiết kiệm, xe số phổ thông thường ở mức 150.000 đồng một ngày, bền và nhẹ hơn khi chen ở các đoạn chờ đèn đỏ.
 
-Với người ở lại làm việc nhiều tuần, gói theo tháng đáng cân nhắc hơn: dòng xe tay ga phổ thông thường rơi vào khoảng 1.800.000 đến 2.000.000 đồng một tháng, rẻ hơn nhiều so với cộng gói ngày. Mức cọc tùy từng loại xe và thời gian thuê, bạn nên xác nhận trực tiếp khi đặt. Danh sách các khu vực cho thuê xe khác trong thành phố được gom tại trang [thuê xe theo địa điểm](/blog/thue-xe/thue-theo-dia-diem/) nếu bạn cần xe ở khu khác xa hơn.
+Với người ở lại làm việc nhiều tuần, gói theo tháng đáng cân nhắc hơn: dòng xe tay ga phổ thông thường rơi vào khoảng 1.800.000 đến 2.000.000 đồng một tháng, rẻ hơn nhiều so với cộng gói ngày. Mức cọc tùy từng loại xe và thời gian thuê, bạn nên xác nhận trực tiếp khi đặt. Danh sách các khu vực cho thuê xe khác trong thành phố được gom tại trang [thuê xe theo địa điểm](/thue-xe/thue-theo-dia-diem/) nếu bạn cần xe ở khu khác xa hơn.
 
 ## Thủ tục nhận xe nhanh khi bạn vừa xuống xe khách
 
-Ai vừa trưa xuống bến, chiều đã có việc, thì khâu thủ tục càng gọn càng tốt. Bộ giấy tờ cần mang là căn cước công dân và bằng lái xe phù hợp. Các bước chuẩn khi nhận xe được mô tả rõ trong bài [thủ tục thuê xe](/blog/thue-xe/thu-tuc/): kiểm tra họ tên trên hợp đồng, thử phanh và còi, đếm lượng xăng, chụp ảnh hiện trạng xe. Toàn bộ khâu này chỉ mất khoảng mười phút nếu bạn chuẩn bị giấy tờ sẵn trong người.
+Ai vừa trưa xuống bến, chiều đã có việc, thì khâu thủ tục càng gọn càng tốt. Bộ giấy tờ cần mang là căn cước công dân và bằng lái xe phù hợp. Các bước chuẩn khi nhận xe được mô tả rõ trong bài [thủ tục thuê xe](/thue-xe/thu-tuc/): kiểm tra họ tên trên hợp đồng, thử phanh và còi, đếm lượng xăng, chụp ảnh hiện trạng xe. Toàn bộ khâu này chỉ mất khoảng mười phút nếu bạn chuẩn bị giấy tờ sẵn trong người.
 
 Một điểm đáng chú ý quanh khu bến xe là tình trạng chậm trễ chuyến của xe khách, nên đừng hẹn giờ nhận xe sát giờ xe dự kiến tới. Nếu bạn đặt xe trước qua điện thoại, hãy báo khung giờ rộng rãi, chủ xe chủ động xếp xe đón sẵn thay vì hai bên chờ nhau. Giờ liên hệ đặt xe trong khung 09:00 đến 21:00 hằng ngày, bạn gọi 0942 467 674 để hỏi xe còn và giữ chỗ.
 
@@ -35,7 +35,7 @@ Gửi xe quanh khu này cũng thuận hơn khu trung tâm, nhiều tòa nhà và
 
 Một điểm khác biệt nữa của khu phía tây là nhiều nút giao được tổ chức kiểu khác với phố cổ, các bãi xe bus nằm sát làn đường, và một số tuyến có làn riêng cho xe bus. Khi đi song song với làn bus, để ý xe bus nhập xuất bến, đừng chạy kề sát khi xe đang áp sát bãi đón khách. Với người mới đến, cách an toàn nhất là đi chậm hơn dòng xe một nhịp, chấp nhận bị vài xe vượt, để có thời gian đọc biển báo ở từng nút giao. Ngoài ra, một số trục lớn đổi hướng cho phép vào giờ cao điểm theo biển đèn mũi tên, bạn nhìn kỹ đèn mũi tên đỏ trước khi rẽ, đừng theo thói quen rẽ theo xe phía trước.
 
-Nếu bạn cần về quê hoặc đi tỉnh tiếp trong tuần, nhiều tuyến xe khách vẫn xuất phát từ khu vực này. Việc thuê xe máy quanh bến giúp bạn linh hoạt lịch trình: sáng đi việc trong nội thành bằng xe thuê, chiều trả xe rồi bắt tuyến xe khách theo giờ giấc đã chốt. Các kinh nghiệm cho nhóm người cần nhiều xe cùng lúc được chia sẻ thêm trong trang chủ [thuê xe](/blog/thue-xe/).
+Nếu bạn cần về quê hoặc đi tỉnh tiếp trong tuần, nhiều tuyến xe khách vẫn xuất phát từ khu vực này. Việc thuê xe máy quanh bến giúp bạn linh hoạt lịch trình: sáng đi việc trong nội thành bằng xe thuê, chiều trả xe rồi bắt tuyến xe khách theo giờ giấc đã chốt. Các kinh nghiệm cho nhóm người cần nhiều xe cùng lúc được chia sẻ thêm trong trang chủ [thuê xe](/thue-xe/).
 
 ## Vài lưu ý cuối trước khi nhận xe quanh bến
 

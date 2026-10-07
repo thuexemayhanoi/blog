@@ -41,9 +41,9 @@ Một số vị trí đặt thêm biển hiệu lệnh lặp lại giữa các g
 
 ## Vi phạm biển hiệu lệnh bị xử thế nào
 
-Cũng như vi phạm biển cấm, không tuân thủ biển báo hiệu lệnh là vi phạm quy định về báo hiệu đường bộ trong hệ thống [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) hiện hành và bị xử phạt theo Nghị định 168/2024/NĐ-CP, tùy hành vi cụ thể thuộc khung từ vài trăm nghìn đến vài triệu đồng. Tại các giao lộ có camera, việc đi sai hướng so với biển lệnh rẽ thường bị ghi hình rõ ràng, từ đó hình thành hồ sơ phạt nguội gửi về chủ xe. Vì thế, nhìn biển hiệu lệnh chuẩn xác ngay từ xa là cách rẻ nhất để không nhận thông báo vài tuần sau.
+Cũng như vi phạm biển cấm, không tuân thủ biển báo hiệu lệnh là vi phạm quy định về báo hiệu đường bộ trong hệ thống [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) hiện hành và bị xử phạt theo Nghị định 168/2024/NĐ-CP, tùy hành vi cụ thể thuộc khung từ vài trăm nghìn đến vài triệu đồng. Tại các giao lộ có camera, việc đi sai hướng so với biển lệnh rẽ thường bị ghi hình rõ ràng, từ đó hình thành hồ sơ phạt nguội gửi về chủ xe. Vì thế, nhìn biển hiệu lệnh chuẩn xác ngay từ xa là cách rẻ nhất để không nhận thông báo vài tuần sau.
 
-Người mới lái hoặc người lạ đường nên luyện thói quen quét biển ở ba vị trí: trước ngã tư khoảng năm mươi mét, tại vạch dừng, và ở cột đèn ngay lối rẽ. Ba điểm này phủ gần như toàn bộ các loại báo hiệu có thể xuất hiện. Tổng hợp cả năm nhóm biển báo nằm trong trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), còn cách xử lý hồ sơ bị ghi qua camera nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
+Người mới lái hoặc người lạ đường nên luyện thói quen quét biển ở ba vị trí: trước ngã tư khoảng năm mươi mét, tại vạch dừng, và ở cột đèn ngay lối rẽ. Ba điểm này phủ gần như toàn bộ các loại báo hiệu có thể xuất hiện. Tổng hợp cả năm nhóm biển báo nằm trong trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/), còn cách xử lý hồ sơ bị ghi qua camera nằm trong nhóm bài về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về biển hiệu lệnh
 

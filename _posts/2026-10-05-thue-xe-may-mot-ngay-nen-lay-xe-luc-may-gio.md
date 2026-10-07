@@ -16,7 +16,7 @@ writer: W1
 
 Khách hay hỏi trước khi đi chơi một ngày: lấy xe thuê lúc mấy giờ trong ngày là thuận lợi nhất, nên nhận sáng sớm hay để chiều mới lấy. Câu trả lời phụ thuộc vào lịch trình của bạn, giờ làm việc của tiệm và đoạn đường dự định đi. Bài viết này gợi ý cách chọn giờ nhận xe máy thuê sao cho trọn ngày, không bị tính thừa và không vội vàng đến mức quên kiểm tra xe.
 
-Tổng quan về dịch vụ nằm tại trang [thuê xe máy](/blog/thue-xe/), nơi có cả hướng dẫn về thủ tục, đặt cọc và cách nhận xe.
+Tổng quan về dịch vụ nằm tại trang [thuê xe máy](/thue-xe/), nơi có cả hướng dẫn về thủ tục, đặt cọc và cách nhận xe.
 
 ## Chọn giờ nhận xe máy thuê theo lịch trình, không theo cảm tính
 
@@ -50,7 +50,7 @@ Một điểm nhỏ nhưng thực tế: nếu bạn dự định trả xe sau kh
 
 ## Chuẩn bị để buổi nhận xe diễn ra nhanh
 
-Để buổi nhận xe lúc bảy giờ rưỡi hoặc chín giờ sáng không bị kéo dài, hãy mang theo giấy tờ theo yêu cầu tiệm, có sẵn điện thoại để chụp lại hiện trạng hai bên xe, và mang theo mũ của nhóm nếu tiệm không đủ mũ cho tất cả. Kiểm tra nhanh mức xăng, phanh, đèn, còi và gương trước khi ký biên bản. Nếu bạn lần đầu thuê, các câu hỏi thường gặp về thủ tục nằm trong trang [hỏi đáp](/blog/hoi-dap/); còn muốn so mẫu xe trước khi đặt thì xem phần [xe máy](/blog/xe-may/).
+Để buổi nhận xe lúc bảy giờ rưỡi hoặc chín giờ sáng không bị kéo dài, hãy mang theo giấy tờ theo yêu cầu tiệm, có sẵn điện thoại để chụp lại hiện trạng hai bên xe, và mang theo mũ của nhóm nếu tiệm không đủ mũ cho tất cả. Kiểm tra nhanh mức xăng, phanh, đèn, còi và gương trước khi ký biên bản. Nếu bạn lần đầu thuê, các câu hỏi thường gặp về thủ tục nằm trong trang [hỏi đáp](/hoi-dap/); còn muốn so mẫu xe trước khi đặt thì xem phần [xe máy](/xe-may/).
 
 ## Tóm lại, giờ nhận xe một ngày hợp lý
 

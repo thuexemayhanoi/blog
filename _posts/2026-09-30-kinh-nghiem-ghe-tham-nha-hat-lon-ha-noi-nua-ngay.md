@@ -49,8 +49,8 @@ Một khác biệt nữa của cuối tuần: phần xe quanh quảng trường 
 
 ## Gửi xe và những việc chuẩn bị nhỏ
 
-Gửi xe quanh khu tương tự mọi điểm trung tâm: chọn bãi gần hướng đi bộ, giữ nguyên một chỗ trọn buổi; chi tiết cách chọn bãi giữ xe an toàn đã tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/). Đồ mang theo nên tối giản: mũ gọn, nước nhỏ, và giày êm, vì phần lớn buổi là đi bộ trên mặt lát quanh quảng trường và ven hồ. Nếu đi bằng xe thuê từ xa, các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) giúp chốt phương án cho cả ngày.
+Gửi xe quanh khu tương tự mọi điểm trung tâm: chọn bãi gần hướng đi bộ, giữ nguyên một chỗ trọn buổi; chi tiết cách chọn bãi giữ xe an toàn đã tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/). Đồ mang theo nên tối giản: mũ gọn, nước nhỏ, và giày êm, vì phần lớn buổi là đi bộ trên mặt lát quanh quảng trường và ven hồ. Nếu đi bằng xe thuê từ xa, các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) giúp chốt phương án cho cả ngày.
 
 Trường hợp gặp mưa giữa buổi cũng dễ xử lý ở khu này: các phố quanh quảng trường nhiều nhà có hiên sâu, và một số quán có tầng để ngồi ngắm mưa. Chờ một lát, phần lát đá quanh quảng trường ráo nhanh sau mưa, và khung sau mưa lại là lúc mặt đường phản chiếu đèn lên rất đẹp.
 
-Tóm lại, nửa ngày quanh Nhà hát Lớn là chuyến thong thả nhất trong cụm trung tâm: một quảng trường để mở đầu, phố sách để giữa, mé hồ để kết, và xe chỉ cần gửi đúng một lần. Nếu muốn ghép điểm khác trong cùng hành trình, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ tham khảo tiếp.
+Tóm lại, nửa ngày quanh Nhà hát Lớn là chuyến thong thả nhất trong cụm trung tâm: một quảng trường để mở đầu, phố sách để giữa, mé hồ để kết, và xe chỉ cần gửi đúng một lần. Nếu muốn ghép điểm khác trong cùng hành trình, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ tham khảo tiếp.

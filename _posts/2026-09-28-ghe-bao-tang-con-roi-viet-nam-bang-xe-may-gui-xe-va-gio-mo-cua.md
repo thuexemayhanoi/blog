@@ -18,13 +18,13 @@ article_id: BLG-00719
 
 Cung quen nhất từ trung tâm là theo trục Láng hoặc Tây Sơn lên Ngã Tư Sở rồi tiếp đoạn Trường Chinh: nhà hát nằm trên đoạn Trường Chinh phía khu Thanh Xuân, vị trí nhiều cẩm nang ghi là cùng dải với các cơ quan và bảo tàng quân đội của khu vực. Từ phía Long Biên, khách qua cầu rồi theo các trục dẫn về hướng Ngã Tư Sở trước khi vào Trường Chinh. Quãng chạy từ trung tâm trong khung vắng chừng hai mươi phút, nhưng đoạn quanh Ngã Tư Sở dày xe mạnh ở khung tan tầm, khách nên chọn khung sáng hoặc giữa trưa cho cung này.
 
-Đoạn Trường Chinh rộng, nhiều làn và nhiều giao lộ đèn đỏ: khách giữ làn phải, không len sát góc đường khi đèn vừa xanh, và giảm tốc khi tới khu nhà hát vì lối vào có khách và trẻ nhỏ ra vào liên tục. Khách mới chạy nội đô nên đọc bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn danh sách điểm ghép thêm quanh thành phố nằm tại trang [điểm đến](/blog/du-lich/diem-den/).
+Đoạn Trường Chinh rộng, nhiều làn và nhiều giao lộ đèn đỏ: khách giữ làn phải, không len sát góc đường khi đèn vừa xanh, và giảm tốc khi tới khu nhà hát vì lối vào có khách và trẻ nhỏ ra vào liên tục. Khách mới chạy nội đô nên đọc bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn danh sách điểm ghép thêm quanh thành phố nằm tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Gửi xe Bảo tàng Con rối Việt Nam quanh nhà hát
 
 Gửi xe Bảo tàng Con rối Việt Nam theo chỉ dẫn của khu nhà hát: bãi xe nằm trong khuôn viên tổ hợp, khách đưa xe theo hướng dẫn nhân viên, phí giữ theo quy định tại chỗ. Ngày có suất diễn, bãi kín nhanh quanh khung trước giờ mở màn nên khách tới sớm chừng ba mươi phút để còn gửi xe và mua vé thong thả. Khách chốt cổng, khóa từ, kéo dây cốp, chụp lại vị trí xe kèm biển số rồi mới vào khu.
 
-Trẻ đi cùng thì khách càng nên giữ thói quen này kỹ hơn: khu nhà hát đông vào các khung cuối tuần, xe giữa hàng chục chiếc dễ nhầm lẫn vị trí. Đừng đỗ ven Trường Chinh: đoạn này dòng nhanh và nhiều xe tải, xe để lề vừa nguy hiểm vừa cản dòng. Chi tiết thói quen giữ xe và hành lý khi di chuyển bằng xe máy được kể trong trang [chỗ đổ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Trẻ đi cùng thì khách càng nên giữ thói quen này kỹ hơn: khu nhà hát đông vào các khung cuối tuần, xe giữa hàng chục chiếc dễ nhầm lẫn vị trí. Đừng đỗ ven Trường Chinh: đoạn này dòng nhanh và nhiều xe tải, xe để lề vừa nguy hiểm vừa cản dòng. Chi tiết thói quen giữ xe và hành lý khi di chuyển bằng xe máy được kể trong trang [chỗ đổ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
 ## Giờ mở cửa Bảo tàng Con rối Việt Nam: theo lịch nhà hát, soát trước khi đi
 
@@ -36,7 +36,7 @@ Vé vào khu trưng bày và vé các suất diễn bán riêng theo quy định
 
 Chiếc xe cho buổi này cần vòng kiểm tra đầu khung: đèn, còi, phanh, áp suất lốp và đủ xăng cho khung đi và về, vì quanh khu Trường Chinh các trạm thưa hơn trung tâm. Trời nắng gắt thì khách che yên hoặc chọn chỗ bóng râm trong bãi nếu được phép. Trời mưa thì khách mặc áo mưa gấp trước khi rời bãi, vì lối vào khu nhà hát và sân chờ có đoạn trơn khi ướt. Sau buổi ở nhà hát, khách có thể ghép thêm khu vực phía Nam thành phố hoặc chạy về cụm Hồ Gươm cho khung chiều, nhưng nên rời trước mép tan tầm vì đoạn Ngã Tư Sở dày xe mạnh.
 
-Khách muốn hiểu nhanh các tình huống giao thông nội đô có thể xem trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), còn khách xếp lịch nhiều ngày quanh thành phố theo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách muốn hiểu nhanh các tình huống giao thông nội đô có thể xem trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), còn khách xếp lịch nhiều ngày quanh thành phố theo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về buổi xem rối và thăm bảo tàng
 

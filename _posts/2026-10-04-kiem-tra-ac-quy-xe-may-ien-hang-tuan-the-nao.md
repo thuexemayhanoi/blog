@@ -54,6 +54,6 @@ Ghi lại mỗi tuần vài dòng: ngày kiểm, phần trăm pin lúc khởi h�
 
 Khi cần nhờ cửa hàng, mang theo bộ ghi chép đó. Người thợ nhìn xu hướng ba tuần là biết hướng xử lý, nhanh hơn nhiều lần so với mô tả bằng trí nhớ. Với xe thuê dài hạn, bộ ghi chép cũng là cách hai bên cùng nhìn thấy cùng một thực tế.
 
-Bạn có thể xem thêm cách giữ pin bền trong trang [xe điện](/blog/xe-may/xe-dien/), các hạng mục bảo dưỡng nên làm theo kỳ trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), tổng quan các dòng xe trong trang [xe máy](/blog/xe-may/), và các kinh nghiệm chạy xe thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm cách giữ pin bền trong trang [xe điện](/xe-may/xe-dien/), các hạng mục bảo dưỡng nên làm theo kỳ trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/), tổng quan các dòng xe trong trang [xe máy](/xe-may/), và các kinh nghiệm chạy xe thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, một vòng kiểm ắc quy mỗi tuần gồm ba bước: khởi động xe nguội, thử đèn còi, xem màn hình, cộng thêm thói quen ghi chép mười dòng. Vòng kiểm đó không làm ắc quy trẻ lại, nhưng nó bảo bạn trước khi ắc quy xin nghỉ giữa đường, và với xe điện quanh Hà Nội, biết trước luôn là thứ quý giá nhất.

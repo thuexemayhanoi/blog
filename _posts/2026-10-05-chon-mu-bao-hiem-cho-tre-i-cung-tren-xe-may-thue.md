@@ -16,7 +16,7 @@ writer: W1
 
 Đưa trẻ nhỏ đi cùng trên xe máy thuê là quyết định cần chuẩn bị kỹ hơn chuyến đi của người lớn, và câu hỏi mũ bảo hiểm trẻ em trên xe thuê thế nào cho đạt là phần quan trọng nhất của việc chuẩn bị đó. Quy định hiện hành yêu cầu người ngồi trên xe máy phải đội mũ bảo hiểm đạt tiêu chuẩn, trẻ nhỏ cũng không ngoại lệ, và mũ của bé không phải bản thu nhỏ của mũ người lớn. Bài viết này đi qua cách chọn mũ cho trẻ đi xe máy đúng cách, các tiêu chí an toàn, và những gì nên hỏi tiệm thuê trước khi đưa bé lên xe.
 
-Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), chuyên sâu về nội dung đi lại trong phần [nội dung đi công](/blog/an-toan-phap-ly/noi-do-cong/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), chuyên sâu về nội dung đi lại trong phần [nội dung đi công](/an-toan-phap-ly/noi-do-cong/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Mũ bảo hiểm trẻ em trên xe thuê khác gì mũ người lớn
 

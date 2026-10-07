@@ -30,13 +30,13 @@ Trường hợp thứ nhất: bạn đã có GPLX hạng A1 hoặc cao hơn. Khi
 
 Trường hợp thứ hai: người dưới 18 tuổi muốn tự lái. Với nhóm xe cần GPLX, người chưa đủ tuổi hoặc chưa có bằng không được điều khiển, kể cả xe thuê. Nếu gia đình có người vị thành niên cần đi lại, giải pháp an toàn là chở nhau trên cùng một xe do người có GPLX điều khiển, hoặc đặt xe cho người đủ điều kiện lái. Hãy trao đổi thẳng thắn với cửa hàng về người sẽ sử dụng xe để nhận tư vấn phù hợp.
 
-Trường hợp thứ ba: khách từ tỉnh ra Hà Nội công tác ngắn ngày. Nhiều khách chỉ mang theo giấy tờ tùy thân và giấy phép lái hạng B2 của ô tô. Hạng B2 không thay thế được GPLX xe máy, nên nếu bạn dự định thuê xe máy đi lại, hãy nhớ mang theo GPLX xe máy nếu có, hoặc chọn phương tiện khác. Khi cần ôn lại giấy tờ cần mang theo, bạn có thể xem [hướng dẫn giấy tờ bắt buộc khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) trước chuyến đi.
+Trường hợp thứ ba: khách từ tỉnh ra Hà Nội công tác ngắn ngày. Nhiều khách chỉ mang theo giấy tờ tùy thân và giấy phép lái hạng B2 của ô tô. Hạng B2 không thay thế được GPLX xe máy, nên nếu bạn dự định thuê xe máy đi lại, hãy nhớ mang theo GPLX xe máy nếu có, hoặc chọn phương tiện khác. Khi cần ôn lại giấy tờ cần mang theo, bạn có thể xem [hướng dẫn giấy tờ bắt buộc khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) trước chuyến đi.
 
 ## Kiểm tra giấy tờ và xe trước khi nhận
 
 Khi nhận xe 50cc, ngoài GPLX và giấy tờ tùy thân, bạn nên kiểm tra ba điểm trên xe. Thứ nhất, hệ thống phanh trước và sau: bóp nhẹ khi đẩy xe, nghe xem có tiếng rít bất thường không. Thứ hai, còi và đèn: bấm còi, bật đèn xa gần, vì xe nhỏ thường đi trong ngõ nên còi đèn rất cần. Thứ ba, gương chiếu hậu và lốp: gương phải chỉnh được, lốp không mòn lệch. Xe cỡ nhỏ thường đã chạy nhiều năm nên những chi tiết này đáng để bạn để ý hơn trên xe đời mới.
 
-Về thủ tục thuê, đa số cửa hàng yêu cầu đặt cọc và ký giấy ghi nhận tình trạng xe. Hãy đọc kỹ các điều khoản về thời gian trả xe và trách nhiệm khi hư hỏng. Nếu bạn lần đầu thuê xe, phần [kinh nghiệm thuê xe cho người mới có bằng A1](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) nêu khá đủ các bước từ đặt xe đến bàn giao. Các bài trong chuyên mục [xe máy](/blog/xe-may/) cũng tổng hợp kinh nghiệm chọn dòng xe theo nhu cầu để bạn cân nhắc phương án phù hợp.
+Về thủ tục thuê, đa số cửa hàng yêu cầu đặt cọc và ký giấy ghi nhận tình trạng xe. Hãy đọc kỹ các điều khoản về thời gian trả xe và trách nhiệm khi hư hỏng. Nếu bạn lần đầu thuê xe, phần [kinh nghiệm thuê xe cho người mới có bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) nêu khá đủ các bước từ đặt xe đến bàn giao. Các bài trong chuyên mục [xe máy](/xe-may/) cũng tổng hợp kinh nghiệm chọn dòng xe theo nhu cầu để bạn cân nhắc phương án phù hợp.
 
 ## Những câu hỏi thường gặp
 
@@ -46,6 +46,6 @@ Về thủ tục thuê, đa số cửa hàng yêu cầu đặt cọc và ký gi�
 
 **16 tuổi đã lái xe 50cc thuê được chưa?** Độ tuổi tối thiểu để được cấp và sử dụng GPLX hạng A1 hiện nay thấp hơn so với trước, nhưng việc ai được lái chiếc xe nào vẫn phụ thuộc nhóm xe theo đăng ký. Người dưới 18 tuổi không được ký hợp đồng thuê xe, nên nếu đặt xe cho người vị thành niên, người đủ tuổi cần đứng ra thuê và chịu trách nhiệm kèm theo.
 
-**Cửa hàng có xe 50cc để cho thuê thường xuyên không?** Tùy từng thời kỳ, danh mục xe sẵn có ở mỗi cửa hàng thay đổi liên tục, nên nếu bạn bắt buộc cần đúng dòng xe 50cc, hãy gọi hỏi trước thay vì ghé trực tiếp. Bạn cũng nên xem cách chọn dòng xe theo nhu cầu trong chuyên mục [dòng xe máy](/blog/xe-may/) để có phương án dự phòng nếu hết đúng dòng bạn muốn.
+**Cửa hàng có xe 50cc để cho thuê thường xuyên không?** Tùy từng thời kỳ, danh mục xe sẵn có ở mỗi cửa hàng thay đổi liên tục, nên nếu bạn bắt buộc cần đúng dòng xe 50cc, hãy gọi hỏi trước thay vì ghé trực tiếp. Bạn cũng nên xem cách chọn dòng xe theo nhu cầu trong chuyên mục [dòng xe máy](/xe-may/) để có phương án dự phòng nếu hết đúng dòng bạn muốn.
 
 Cần thuê xe máy đi lại trong tuần ở Hà Nội? Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên hỗ trợ khách chọn xe theo nhu cầu và giải đáp về giấy tờ cần mang theo. Điện thoại 0942 467 674, cửa hàng mở từ 09:00 đến 21:00 hàng ngày. Danh mục xe sẵn có và các dòng đang cho thuê có thể thay đổi theo từng thời kỳ, vì vậy hãy gọi xác nhận trước khi đến nhận xe.

@@ -25,11 +25,11 @@ Giá niêm yết chỉ là điểm bắt đầu. Điều cần làm rõ là toà
 - Thuê dài hơn thì giá theo tuần hoặc theo tháng như thế nào?
 - Hình thức thanh toán nào được nhận, và trả trước hay trả cuối kỳ?
 
-Với những câu này, lời trả lời nên cụ thể, không kiểu tùy. Nếu chủ cửa hàng nói chung chung, hỏi lại cho tới khi có con số hoặc khung rõ ràng, rồi tự ghi lại vào điện thoại ngay tại chỗ. Bảng giá chính thức của bên cho thuê được công bố tại trang [bảng giá](/blog/bang-gia/), dùng làm đối chiếu ban đầu trước khi hỏi sâu từng khoản.
+Với những câu này, lời trả lời nên cụ thể, không kiểu tùy. Nếu chủ cửa hàng nói chung chung, hỏi lại cho tới khi có con số hoặc khung rõ ràng, rồi tự ghi lại vào điện thoại ngay tại chỗ. Bảng giá chính thức của bên cho thuê được công bố tại trang [bảng giá](/bang-gia/), dùng làm đối chiếu ban đầu trước khi hỏi sâu từng khoản.
 
 ## Nhóm câu hỏi về đặt cọc và giấy tờ
 
-Đây là nhóm dễ gây hiểu lầm nhất, nên hỏi dứt khoát. Về đặt cọc, cần rõ: mức cọc giữ là bao nhiêu, giữ bằng tiền mặt hay hình thức khác, và điều kiện hoàn trả cọc là gì. Về giấy tờ, hỏi xem cửa hàng giữ bản gốc hay chỉ photo, và trả lại ngay khi bạn trả xe. Nếu bạn chưa từng thuê ở Hà Nội, phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) mô tả quy trình chuẩn để bạn hình dung trình tự trước khi hỏi.
+Đây là nhóm dễ gây hiểu lầm nhất, nên hỏi dứt khoát. Về đặt cọc, cần rõ: mức cọc giữ là bao nhiêu, giữ bằng tiền mặt hay hình thức khác, và điều kiện hoàn trả cọc là gì. Về giấy tờ, hỏi xem cửa hàng giữ bản gốc hay chỉ photo, và trả lại ngay khi bạn trả xe. Nếu bạn chưa từng thuê ở Hà Nội, phần [thủ tục thuê xe](/thue-xe/thu-tuc/) mô tả quy trình chuẩn để bạn hình dung trình tự trước khi hỏi.
 
 Ba câu chốt trong nhóm này:
 
@@ -37,7 +37,7 @@ Ba câu chốt trong nhóm này:
 - Nếu xe hỏng do lỗi tôi, cách tính khắc phục ra sao?
 - Tôi có được giao xe cho người khác trong nhà chạy thay không?
 
-Ba câu đó không phải để gây khó dễ, mà để biết phạm vi trách nhiệm của mình. Câu trả lời nên khớp với điều khoản chung mà bên cho thuê công bố. Trang [điều khoản sử dụng](/blog/dieu-khoan/) là nơi đối chiếu những cam kết dạng này, và nếu lời nói khác văn bản, hãy đề nghị ghi lại theo văn bản.
+Ba câu đó không phải để gây khó dễ, mà để biết phạm vi trách nhiệm của mình. Câu trả lời nên khớp với điều khoản chung mà bên cho thuê công bố. Trang [điều khoản sử dụng](/dieu-khoan/) là nơi đối chiếu những cam kết dạng này, và nếu lời nói khác văn bản, hãy đề nghị ghi lại theo văn bản.
 
 ## Nhóm câu hỏi về tình trạng xe và nhận trả
 
@@ -48,7 +48,7 @@ Với tình trạng xe, đừng chỉ hỏi xe mới hay cũ, vì đó là khái
 - Nếu chiếc giao ra có trục trặc trong ngày đầu, tôi được đổi xe khác không?
 - Khi trả xe, việc kiểm tra diễn ra thế nào, có đối chiếu ảnh chụp ngày nhận không?
 
-Câu hỏi về đổi xe giữa kỳ đáng giá hơn nhiều so với vẻ ngoài của nó. Một số cửa hàng cho đổi ngay tại quầy, số khác xử lý theo từng tình huống. Biết trước cách xử lý giúp bạn không bối rối khi xe có vấn đề giữa đường. Cách kiểm tra xe kỹ càng khi nhận được mô tả trong trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), phần chuẩn bị cho cả vòng nhận và trả cũng nằm tại trang này.
+Câu hỏi về đổi xe giữa kỳ đáng giá hơn nhiều so với vẻ ngoài của nó. Một số cửa hàng cho đổi ngay tại quầy, số khác xử lý theo từng tình huống. Biết trước cách xử lý giúp bạn không bối rối khi xe có vấn đề giữa đường. Cách kiểm tra xe kỹ càng khi nhận được mô tả trong trang [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), phần chuẩn bị cho cả vòng nhận và trả cũng nằm tại trang này.
 
 ## Nhóm câu hỏi về hỗ trợ giữa kỳ thuê
 
@@ -70,6 +70,6 @@ Cách hỏi cũng quan trọng như nội dung. Ba thói quen giúp cuộc hỏi
 - Yêu cầu chỉ rõ con số và khung thời gian, tránh nhận câu tùy hoặc khoảng.
 - Ghi lại các ý chốt vào điện thoại, đọc lại một lượt cho chủ cửa hàng nghe xác nhận.
 
-Làm như vậy, buổi hỏi chỉ mất khoảng mười phút nhưng giúp hai bên cùng hiểu nhau. Chủ cửa hàng quen việc cũng đánh giá cao khách hỏi có trình tự, vì các câu đó chính là nội dung họ sẽ ghi vào biên nhận. Ai muốn xem toàn bộ quy trình từ đặt xe tới nhận xe nằm ở đâu, đọc tiếp cẩm nang [thuê xe máy](/blog/thue-xe/).
+Làm như vậy, buổi hỏi chỉ mất khoảng mười phút nhưng giúp hai bên cùng hiểu nhau. Chủ cửa hàng quen việc cũng đánh giá cao khách hỏi có trình tự, vì các câu đó chính là nội dung họ sẽ ghi vào biên nhận. Ai muốn xem toàn bộ quy trình từ đặt xe tới nhận xe nằm ở đâu, đọc tiếp cẩm nang [thuê xe máy](/thue-xe/).
 
 Chuẩn bị sẵn danh sách câu hỏi là cách rẻ nhất để kỳ thuê của bạn không phát sinh, và là cách tốt nhất để chọn được một cửa hàng đáng quay lại cho những kỳ thuê sau tại Hà Nội.

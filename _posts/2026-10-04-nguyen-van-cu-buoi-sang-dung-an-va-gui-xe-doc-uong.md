@@ -46,6 +46,6 @@ Trục Nguyễn Văn Cừ tiện ghép vì nó nối gần như mọi thứ củ
 
 Nhóm bạn hẹn ăn sáng nên chốt trước một hàng cụ thể và một bãi xe cụ thể trên trục, tránh kiểu "tới khu rồi gọi" giữa khung bảy giờ đông. Khách từ xa tới thuê xe máy lần đầu cũng nên dành một buổi sáng chạy trục này trước khi tính các cung dài: đường thẳng, biển rõ, nhiều điểm dừng, rất hợp làm bài làm quen với xe lẫn với nhịp phố Long Biên.
 
-Muốn đọc thêm về giữ xe ven phố và các bãi gửi trong ngõ, mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/) có bài riêng; chuyên mục [Long Biên](/blog/du-lich/long-bien/) gom các điểm dạo quanh quận; trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi lịch trình. Ai mới thuê xe máy ở Hà Nội lần đầu thì mục [kinh nghiệm](/blog/kinh-nghiem/) là chỗ đọc nhanh trước buổi đầu tiên.
+Muốn đọc thêm về giữ xe ven phố và các bãi gửi trong ngõ, mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/) có bài riêng; chuyên mục [Long Biên](/du-lich/long-bien/) gom các điểm dạo quanh quận; trang [du lịch](/du-lich/) là mục lục chung cho mọi lịch trình. Ai mới thuê xe máy ở Hà Nội lần đầu thì mục [kinh nghiệm](/kinh-nghiem/) là chỗ đọc nhanh trước buổi đầu tiên.
 
 Một bát phở nóng bên trục đường quen, chiếc xe để gọn mép vỉa hè, và quãng chạy sáng thoáng đãng: buổi sáng trên Nguyễn Văn Cừ đơn giản vậy mà đủ để cả ngày sau khởi động nhè nhẹ.

@@ -50,4 +50,4 @@ Về lễ nghĩa khi vào chùa, trang phục gọn gàng, kín đáo, giữ yê
 
 Trước khi đi, kiểm tra xăng đủ cho chặng vòng hồ, kiểm tra lốp và phanh, mang theo mũ bảo hiểm đạt chuẩn cho mỗi người. Cuối tuần khu vực này thỉnh thoảng có hoạt động tập trung đông người, nên nếu đi theo nhóm, hẹn điểm đỗ trước và trao đổi số điện thoại để dễ liên lạc khi lạc nhau. Ai thuê xe để đi chùa và các điểm quanh hồ, nên hỏi trước chủ cho thuê về xe có cốp, mũ kèm theo và quy trình hỗ trợ nếu xe trục trặc giữa đường.
 
-Bạn có thể xem thêm các điểm đến khác trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), tham khảo tổng hợp [du lịch](/blog/du-lich/), hoặc đọc các bài [kinh nghiệm](/blog/kinh-nghiem/) để có hành trình trọn vẹn quanh thủ đô.
+Bạn có thể xem thêm các điểm đến khác trong mục [điểm đến Hà Nội](/du-lich/diem-den/), tham khảo tổng hợp [du lịch](/du-lich/), hoặc đọc các bài [kinh nghiệm](/kinh-nghiem/) để có hành trình trọn vẹn quanh thủ đô.

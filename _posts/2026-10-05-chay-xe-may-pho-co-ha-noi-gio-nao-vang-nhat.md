@@ -16,7 +16,7 @@ writer: W1
 
 Ai từng kẹt giữa dòng người đi bộ và hàng quán vào tối cuối tuần quanh Hồ Gươm đều hiểu vì sao câu hỏi chạy xe máy phố cổ giờ vắng được đặt ra trước cả câu hỏi chạy đường nào: phố cổ Hà Nội không khó về địa hình, chỉ khó về mật độ, và chọn sai khung giờ, bạn sẽ dành phần lớn buổi cho nhích từng mét thay vì ngắm phố. Bài này gợi ý khung giờ ít xe phố cổ, cách đọc nhịp phố theo từng buổi, và lộ trình nhẹ cho người mới chạy xe máy thuê trong khu.
 
-Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/), gợi ý quanh khu Hồ Gươm trong phần [phố cổ Hoàn Kiếm](/blog/du-lich/pho-co/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/), gợi ý quanh khu Hồ Gươm trong phần [phố cổ Hoàn Kiếm](/du-lich/pho-co/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Khung giờ ít xe phố cổ theo từng buổi
 

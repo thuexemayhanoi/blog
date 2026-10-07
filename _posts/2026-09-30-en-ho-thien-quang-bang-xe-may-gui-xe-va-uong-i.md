@@ -33,7 +33,7 @@ Cuối tuần, dòng xe qua lại giảm hẳn, và ven hồ chuyển sang nhị
 
 ## Gửi xe Hồ Thiền Quang: chọn bãi nào
 
-Quanh khu có ba nhóm chỗ để đáng kể: bãi gần cổng công viên ven hồ, bãi vỉa hè trên các phố bao, và các bãi của hàng quán trong các ngõ. Với chuyến dạo hồ, nhóm gần cổng là gọn nhất: vào nhanh, ra nhanh, và quãng từ bãi tới lối đi bộ chỉ vài chục bước. Với chuyến lâu hơn kết hợp khu phố cà phê kề bên, chọn bãi trung gian giữa hai điểm sẽ đỡ phải dời xe giữa buổi. Cách chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Quanh khu có ba nhóm chỗ để đáng kể: bãi gần cổng công viên ven hồ, bãi vỉa hè trên các phố bao, và các bãi của hàng quán trong các ngõ. Với chuyến dạo hồ, nhóm gần cổng là gọn nhất: vào nhanh, ra nhanh, và quãng từ bãi tới lối đi bộ chỉ vài chục bước. Với chuyến lâu hơn kết hợp khu phố cà phê kề bên, chọn bãi trung gian giữa hai điểm sẽ đỡ phải dời xe giữa buổi. Cách chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Một lưu ý nhỏ: các bãi vỉa hè quanh hồ thường đầy sớm vào khung chiều cuối tuần, nên nếu định đi khung đó, đến sớm hơn nửa tiếng hoặc chấp nhận gửi xa cổng chút ít. Gửi xa hơn vài chục mét quanh khu này không đáng kể, vì quãng đi bộ ven hồ chính là mục tiêu của chuyến, không phải phần đường phải tối ưu.
 
@@ -47,6 +47,6 @@ Khung tối muộn quanh hồ sáng đèn vỉa hè và đèn công viên, dạo
 
 ## Ghép Hồ Thiền Quang vào lộ trình
 
-Vị trí hồ cho phép ghép nhiều kiểu chuyến: dạo hồ xế chiều rồi ghé khu phố cà phê gần đó, hoặc kết hợp một vòng qua chợ Mơ để mua đồ rồi thong thả ven hồ. Nếu bạn mở rộng chuyến qua nhiều điểm trong ngày, các [lộ trình cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) giúp cân thời gian, còn nếu đi bằng xe thuê, phần so sánh các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) đáng xem trước khi chốt.
+Vị trí hồ cho phép ghép nhiều kiểu chuyến: dạo hồ xế chiều rồi ghé khu phố cà phê gần đó, hoặc kết hợp một vòng qua chợ Mơ để mua đồ rồi thong thả ven hồ. Nếu bạn mở rộng chuyến qua nhiều điểm trong ngày, các [lộ trình cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) giúp cân thời gian, còn nếu đi bằng xe thuê, phần so sánh các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) đáng xem trước khi chốt.
 
-Tóm lại, đến Hồ Thiền Quang bằng xe máy chỉ cần ba việc: chọn trục vào đúng chiều theo hướng đi, gửi bãi gần cổng hoặc giữa hai điểm dự định, và né khung tan tầm quanh khu. Phần còn lại là quãng dạo quanh hồ, thứ chẳng cần chuẩn bị gì nhiều. Muốn thêm điểm ghép quanh khu, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ tham khảo nhanh.
+Tóm lại, đến Hồ Thiền Quang bằng xe máy chỉ cần ba việc: chọn trục vào đúng chiều theo hướng đi, gửi bãi gần cổng hoặc giữa hai điểm dự định, và né khung tan tầm quanh khu. Phần còn lại là quãng dạo quanh hồ, thứ chẳng cần chuẩn bị gì nhiều. Muốn thêm điểm ghép quanh khu, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ tham khảo nhanh.

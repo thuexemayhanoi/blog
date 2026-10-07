@@ -27,7 +27,7 @@ Nếu xuất phát từ phía Long Biên hoặc Gia Lâm, bạn có thể qua c�
 
 Bảo tàng có khuôn viên riêng với bãi gửi xe trước khu nhà trưng bày. Nhìn chung bạn gửi xe ngay khu vực cổng, nơi có người trực và biển chỉ dẫn. Cuối tuần và ngày lễ khách đến đông, bãi lấp nhanh, nên nhóm đi nhiều xe nên hẹn tập trung trước ở đầu đường và vào lần lượt. Trong ngày thường, bãi thường thoáng và bạn có chỗ đỗ gần cửa.
 
-Ba việc nên làm trước khi rời xe. Thứ nhất, khóa cổ xe và chắc chắn xe đứng vững bằng chống giữa, vì bãi dốc nhẹ vài chỗ. Thứ hai, mang theo mũ bảo hiểm thay vì để lại trên xe, vừa tránh thất lạc vừa chủ động khi quay về. Thứ ba, không để lại đồ có giá trị trong cốp: balo, máy ảnh nên mang theo vào bảo tàng. Những thói quen này trông nhỏ nhưng quyết định chuyến đi có trọn vẹn hay không, và cách giữ xe qua đêm hay gửi lâu hơn được viết chi tiết trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Ba việc nên làm trước khi rời xe. Thứ nhất, khóa cổ xe và chắc chắn xe đứng vững bằng chống giữa, vì bãi dốc nhẹ vài chỗ. Thứ hai, mang theo mũ bảo hiểm thay vì để lại trên xe, vừa tránh thất lạc vừa chủ động khi quay về. Thứ ba, không để lại đồ có giá trị trong cốp: balo, máy ảnh nên mang theo vào bảo tàng. Những thói quen này trông nhỏ nhưng quyết định chuyến đi có trọn vẹn hay không, và cách giữ xe qua đêm hay gửi lâu hơn được viết chi tiết trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Với ai đi bằng xe thuê, trước khi khởi hành nên kiểm tra xăng và nhớ vị trí cây xăng gần nhất trên trục Phạm Văn Đồng, để chiều về không phải chạy tìm. Bạn cũng nên lưu số của cửa hàng cho thuê để kịp gọi nếu xe có trục trặc, thay vì tự tháo lắp ở giữa phố.
 
@@ -39,8 +39,8 @@ Cuối tuần là khung đông nhất, đặc biệt từ giữa sáng trở đi
 
 ## Ghép lịch nửa ngày quanh khu vực
 
-Hoàng Quốc Việt cách khu hồ Tây chưa quá xa chạy xe, nên nhiều người ghép bảo tàng với một vòng [hồ Tây](/blog/du-lich/ho-tay/) buổi chiều, hoặc ăn trưa ở các dãy quán quanh cầu Giấy trước khi về. Nếu bạn thích kết hợp thêm điểm chơi cho trẻ, danh sách [điểm đến](/blog/du-lich/diem-den/) có nhiều gợi ý quanh các quận phía tây, mỗi điểm đều đi được bằng xe máy trong bán kính ngắn.
+Hoàng Quốc Việt cách khu hồ Tây chưa quá xa chạy xe, nên nhiều người ghép bảo tàng với một vòng [hồ Tây](/du-lich/ho-tay/) buổi chiều, hoặc ăn trưa ở các dãy quán quanh cầu Giấy trước khi về. Nếu bạn thích kết hợp thêm điểm chơi cho trẻ, danh sách [điểm đến](/du-lich/diem-den/) có nhiều gợi ý quanh các quận phía tây, mỗi điểm đều đi được bằng xe máy trong bán kính ngắn.
 
-Trước khi đi, nên kiểm tra lại giờ mở cửa hiện tại qua trang chính thức của bảo tàng hoặc tổng đài khu vực, vì lịch mở cửa và lịch trưng bày đặc biệt có thể thay đổi theo từng đợt. Kéo theo đó, nếu bạn thuê xe máy cho chuyến này, phần chuẩn bị xe và giấy tờ khi thuê nằm trong trang [cho thuê xe máy](/blog/thue-xe/), còn các lưu ý chung khi chạy xe trong nội thành Hà Nội được gom trong mục [du lịch](/blog/du-lich/).
+Trước khi đi, nên kiểm tra lại giờ mở cửa hiện tại qua trang chính thức của bảo tàng hoặc tổng đài khu vực, vì lịch mở cửa và lịch trưng bày đặc biệt có thể thay đổi theo từng đợt. Kéo theo đó, nếu bạn thuê xe máy cho chuyến này, phần chuẩn bị xe và giấy tờ khi thuê nằm trong trang [cho thuê xe máy](/thue-xe/), còn các lưu ý chung khi chạy xe trong nội thành Hà Nội được gom trong mục [du lịch](/du-lich/).
 
 Đi bảo tàng bằng xe máy không khó, chỉ cần chọn đúng trục, canh khung giờ, và giữ xe đúng cách. Chuẩn bị trước hai điều đó, phần còn lại của buổi tham quan là chuyện của những bộ xương khủng long và các mẫu vật, còn bạn thì chỉ việc đeo lại mũ, rẽ vào Phạm Văn Đồng và về nhà giữa chiều.

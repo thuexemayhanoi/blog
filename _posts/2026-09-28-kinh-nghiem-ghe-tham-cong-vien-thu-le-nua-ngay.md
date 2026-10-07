@@ -24,7 +24,7 @@ Ngày thường, công viên vắng và mát, hợp khách muốn đi bộ, ch�
 
 Vào cổng, nên bắt đầu bằng vòng vườn hoa và hồ nhỏ: đoạn này bằng phẳng, mát, trẻ nhỏ quen không gian dần rồi mới sang khu vui chơi. Vườn hoa theo mùa là chỗ chụp ảnh đẹp của công viên, có các lối lát đều, ghế đá rải; vòng này chừng ba mươi phút tới một giờ là vừa. Tiếp theo là khu vui chơi: các trò cơ bản cho trẻ nhỏ đến học sinh lứa tuổi nhỏ, phần nhiều chơi theo vé từng trò, nên cân nhắc chọn vài trò hợp lứa tuổi thay vì mua trải hết các trò rồi trẻ mệt sớm.
 
-Giữa buổi, nghỉ chân tại các ghế quanh hồ hoặc các quán nước trong công viên: đây là lúc trẻ hồi sức và người lớn ngồi ngắm vườn. Khách đi với trẻ tập đi bộ nên chọn phản rõ ràng: một vòng ngắn quanh hồ, không dính các đoạn vỉa gồ ghề ven bờ hồ. Khép nửa ngày bằng một vòng chậm sau cây xanh rồi ra cổng trước khung chiều muộn, tránh giờ khách ra về dồn tại cổng và bãi xe. Kiểu sắp xếp buổi nửa ngày tại điểm trung tâm khác được kể trong bài [kinh nghiệm ghé thăm Hoàng thành Thăng Long nửa ngày](/blog/du-lich/2026/09/28/kinh-nghiem-ghe-tham-hoang-thanh-thang-long-nua-ngay/), tham khảo được khi ghép chuỗi điểm.
+Giữa buổi, nghỉ chân tại các ghế quanh hồ hoặc các quán nước trong công viên: đây là lúc trẻ hồi sức và người lớn ngồi ngắm vườn. Khách đi với trẻ tập đi bộ nên chọn phản rõ ràng: một vòng ngắn quanh hồ, không dính các đoạn vỉa gồ ghề ven bờ hồ. Khép nửa ngày bằng một vòng chậm sau cây xanh rồi ra cổng trước khung chiều muộn, tránh giờ khách ra về dồn tại cổng và bãi xe. Kiểu sắp xếp buổi nửa ngày tại điểm trung tâm khác được kể trong bài [kinh nghiệm ghé thăm Hoàng thành Thăng Long nửa ngày](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-hoang-thanh-thang-long-nua-ngay/), tham khảo được khi ghép chuỗi điểm.
 
 ## Trong công viên có gì đáng để thời gian
 
@@ -36,7 +36,7 @@ Hồ nhỏ giữa công viên có thuyền vịt kiểu cũ cho trẻ, hoạt đ
 
 Ăn uống ngay trong công viên chủ yếu là các quán nước và kem, đồ ăn nhẹ; bữa nóng thì quanh khu Ba Đình có đủ hàng phở, bún, cơm dân dã trên các trục lớn gần công viên. Cách ổn thỏa cho gia đình là kết thúc buổi ở công viên rồi đi ăn bữa trưa muộn ngoài khu, tránh khung trưa tròn các quán gần điểm đông. Mang theo cho trẻ: nước uống, khăn ướt, mũ chống nắng và một bộ đồ dự phòng, vì vui chơi giữa vườn hoa bụi đất nhiều.
 
-Xe máy chở trẻ cần kiểm tra kỹ hơn trước buổi: đèn, phanh, còi và bánh xe, vì quãng đường nội đô tuy ngắn nhưng ngã tư dày. Mũ bảo hiểm trẻ nhỏ phải đúng size, không dùng mũ người lớn đội hộp. Khách thuê xe nên đặt xe có sẵn móc ghế trẻ nếu đi cùng bé nhỏ, và nhớ mang giấy tờ theo người. Câu hỏi thường gặp về thuê xe máy đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/), còn danh mục điểm đến quanh Hà Nội nằm ở trang [điểm đến](/blog/du-lich/diem-den/).
+Xe máy chở trẻ cần kiểm tra kỹ hơn trước buổi: đèn, phanh, còi và bánh xe, vì quãng đường nội đô tuy ngắn nhưng ngã tư dày. Mũ bảo hiểm trẻ nhỏ phải đúng size, không dùng mũ người lớn đội hộp. Khách thuê xe nên đặt xe có sẵn móc ghế trẻ nếu đi cùng bé nhỏ, và nhớ mang giấy tờ theo người. Câu hỏi thường gặp về thuê xe máy đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/), còn danh mục điểm đến quanh Hà Nội nằm ở trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về nửa ngày ở Thủ Lệ
 

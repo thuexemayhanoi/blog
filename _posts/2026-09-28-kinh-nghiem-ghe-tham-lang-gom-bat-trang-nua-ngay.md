@@ -26,19 +26,19 @@ Mở đầu bằng một vòng chợ gốm: đây là nơi tập trung hàng tr�
 
 Tiếp theo là một xưởng trải nghiệm nặn gốm: khách ngồi bàn quay, được người thợ hướng dẫn cách lấy đất, tạo hình và mang sản phẩm thô về nếu xưởng nhận nung giúp. Buổi trải nghiệm thường kéo dài chừng một tiếng, hợp với cả người lớn và trẻ nhỏ; sản phẩm nung xong thường phải chờ mới nhận được, nên nếu muốn mang về ngay trong ngày, hãy hỏi trước khi đặt đất. Các lò nung kiểu cũ còn giữ lại trong làng là điểm xem thú vị: phần nhiều không còn dùng để nung thương mại, chỉ mở cho khách tham quan cách xếp sản phẩm trong lò.
 
-Khép lại nửa ngày bằng một vòng ngoài làng ven sông hoặc đường làng chính, nơi có các nhà cổ, đình làng và góc chụp ảnh đời thường; khung này chụp được cảnh dân dã khác hẳn khung chợ đông đúc, và nếu đi vào ngày thường, các con ngõ quanh làng gần như chỉ có người địa phương, ảnh có nét thật. Lịch trình nửa ngày cùng dạng ở điểm khác được kể trong bài [kinh nghiệm ghé thăm Cầu Long Biên nửa ngày](/blog/du-lich/2026/09/28/kinh-nghiem-ghe-tham-cau-long-bien-nua-ngay/), tham khảo được cho khách muốn ghép nhiều điểm trong một ngày.
+Khép lại nửa ngày bằng một vòng ngoài làng ven sông hoặc đường làng chính, nơi có các nhà cổ, đình làng và góc chụp ảnh đời thường; khung này chụp được cảnh dân dã khác hẳn khung chợ đông đúc, và nếu đi vào ngày thường, các con ngõ quanh làng gần như chỉ có người địa phương, ảnh có nét thật. Lịch trình nửa ngày cùng dạng ở điểm khác được kể trong bài [kinh nghiệm ghé thăm Cầu Long Biên nửa ngày](/du-lich/2026/09/28/kinh-nghiem-ghe-tham-cau-long-bien-nua-ngay/), tham khảo được cho khách muốn ghép nhiều điểm trong một ngày.
 
 ## Ăn uống và nghỉ chân
 
 Ăn uống quanh Bát Tràng chủ yếu là các quán dân dã ven đường làng và khu gần chợ, với các món chủ đạo theo kiểu dân dã miền Bắc như mì, bún và nem rán. Giữa trưa, quán đông nhanh rồi lại thoáng, nên nếu ăn trưa tại chỗ thì tránh khung mười hai giờ tròn. Khách chỉ ăn nhẹ thì các hàng trà, nước và bánh rong quanh cổng chợ là đủ cho buổi; nhớ dừng xe đúng bãi rồi mới mua, đừng dừng tạm trước cổng.
 
-Nghỉ chân lâu thì nên chọn các quán có chỗ để xe bên trong hoặc bãi giữ gần đó, vì phần lớn quán ven đường không có bãi riêng. Nếu đi cùng trẻ nhỏ, mang theo nước uống và khăn ướt, vì trải nghiệm nặn gốm dễ dính đất. Tổng quan các mục du lịch ngắn ngày quanh Hà Nội nằm tại trang [du lịch Hà Nội](/blog/du-lich/), còn hướng đi chi tiết tới làng gốm nằm trong khu [Long Biên và ven đê](/blog/du-lich/long-bien/).
+Nghỉ chân lâu thì nên chọn các quán có chỗ để xe bên trong hoặc bãi giữ gần đó, vì phần lớn quán ven đường không có bãi riêng. Nếu đi cùng trẻ nhỏ, mang theo nước uống và khăn ướt, vì trải nghiệm nặn gốm dễ dính đất. Tổng quan các mục du lịch ngắn ngày quanh Hà Nội nằm tại trang [du lịch Hà Nội](/du-lich/), còn hướng đi chi tiết tới làng gốm nằm trong khu [Long Biên và ven đê](/du-lich/long-bien/).
 
 ## Gửi xe trong buổi tham quan
 
 Gửi xe ở Bát Tràng không khó, nhưng nên gửi một lần duy nhất ở bãi gần cổng chợ rồi đi bộ cả buổi, thay vì dừng gửi đi gửi lại nhiều lần quanh các xưởng. Lý do đơn giản: các bãi quanh làng cách nhau không xa, giữa buổi dễ quên bãi, còn đi bộ trong làng thoải mái và an toàn hơn chạy xe ngắn chừng trong ngõ. Mức phí giữ xe máy thường nhỏ lẻ và thay đổi theo bãi, nên có sẵn tiền lẻ là đủ.
 
-Xe máy thuê nên khóa cổ và khóa từ, cất giấy tờ tùy thân theo người, không để trong cốp; chụp lại vị trí xe và biển số lúc gửi để dễ tìm khi các bãi kín chỗ cuối tuần. Trước khi về, kiểm tra lại đèn và phanh, vì đường về thường chạy đường đê, nơi cần phản xạ phanh nhanh ở các đoạn gờ giảm tốc. Danh mục điểm đến tham quan khác có tại trang [điểm đến](/blog/du-lich/diem-den/).
+Xe máy thuê nên khóa cổ và khóa từ, cất giấy tờ tùy thân theo người, không để trong cốp; chụp lại vị trí xe và biển số lúc gửi để dễ tìm khi các bãi kín chỗ cuối tuần. Trước khi về, kiểm tra lại đèn và phanh, vì đường về thường chạy đường đê, nơi cần phản xạ phanh nhanh ở các đoạn gờ giảm tốc. Danh mục điểm đến tham quan khác có tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về nửa ngày ở Bát Tràng
 

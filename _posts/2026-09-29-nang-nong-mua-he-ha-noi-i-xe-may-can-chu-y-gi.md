@@ -35,7 +35,7 @@ Kính râm chọn loại lọc sáng vừa, không quá tối, ưu tiên kính �
 
 ## Nóng bức đi xe máy và sức khỏe người lái
 
-Chuỗi ngày nóng bức dễ khiến người lái mệt tích lũy: mất nước, ngủ kém, phản xạ chậm dần mà không nhận ra. Giữa các chuyến, nên có điểm nghỉ ngắn ở nơi mát, uống từng ngụm thay vì chờ khát, và theo dõi các dấu hiệu như gáy nặng, mắt hoa. Các nguyên tắc chăm sóc trong chuyên mục [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) áp dụng trực tiếp cho mùa nóng: thể trạng tốt mới giữ được tập trung trên đường.
+Chuỗi ngày nóng bức dễ khiến người lái mệt tích lũy: mất nước, ngủ kém, phản xạ chậm dần mà không nhận ra. Giữa các chuyến, nên có điểm nghỉ ngắn ở nơi mát, uống từng ngụm thay vì chờ khát, và theo dõi các dấu hiệu như gáy nặng, mắt hoa. Các nguyên tắc chăm sóc trong chuyên mục [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/) áp dụng trực tiếp cho mùa nóng: thể trạng tốt mới giữ được tập trung trên đường.
 
 Một thói quen đáng xây là để sẵn bình nước trong cốp xe suốt mùa hè, thay vì mua nước dọc đường khi đã khát. Nước để mát trong cốp cũng giúp hạ nhiệt cho người nhanh hơn các loại nước đá mua giữa đường, vì uống quá lạnh khi đang nóng bức dễ gây khó chịu cho dạ dày.
 
@@ -45,4 +45,4 @@ Về phía xe, ba điểm cần lưu ý trong nắng nóng là lốp, xăng và 
 
 Sau chuyến đi dài dưới nắng, để máy nguội vài phút trước khi tắt máy nếu vừa chạy tốc độ cao liên tục, và kiểm tra nhanh lốp, đèn trước khi nhập cuộc ngày mai. Thói quen kiểm tra cuối ngày còn giúp phát hiện sớm các chi tiết bị nhiệt ảnh hưởng, từ áp suất lốp hơi thay đổi đến các đường nối bị khô cứng vì nắng. Nắng nóng không tha cho người lười chuẩn bị, nhưng cũng không khó chịu với người biết chuẩn bị: chậm lại nửa giờ giữa trưa, che kín đúng cách và giữ nước đều đặn, mùa hè vẫn là mùa chạy xe được.
 
-Mùa nắng nóng mỗi năm lại về, còn khung giờ chọn đúng, trang phục che kín và thói quen bù nước là hành trang giữ được cho mọi mùa. Khi cần thuê một chiếc xe máy ổn định tại Hà Nội cho các chuyến đi trong nắng, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/blog/ky-nang/) và [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Mùa nắng nóng mỗi năm lại về, còn khung giờ chọn đúng, trang phục che kín và thói quen bù nước là hành trang giữ được cho mọi mùa. Khi cần thuê một chiếc xe máy ổn định tại Hà Nội cho các chuyến đi trong nắng, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/ky-nang/) và [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/).

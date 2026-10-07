@@ -29,7 +29,7 @@ Một phiên bản khác của chặng giữa là rẽ xuống đường Trườ
 
 Cung dài như vậy nên chia hai điểm nghỉ: một ở đầu sau khi qua khu phố cổ, khách uống nước rồi đi tiếp; một gần cuối cung khi vào khu Hà Đông, chỗ này nhiều quán nhỏ ven đường, khách ngồi nghỉ cho người và máy cùng nguội. Mỗi chặng nghỉ chỉ cần mười lăm phút, đủ lấy lại tập trung cho chặng sau.
 
-Khách muốn ghép thêm điểm ven sông ngay đầu cung thì đọc bài [Cầu Long Biên và khu Long Biên bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/), khu này nằm sát điểm xuất phát nên ghép được mà không lệch cung. Các tuyến nội đô khác để đối chiếu nằm ở trang [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/).
+Khách muốn ghép thêm điểm ven sông ngay đầu cung thì đọc bài [Cầu Long Biên và khu Long Biên bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/), khu này nằm sát điểm xuất phát nên ghép được mà không lệch cung. Các tuyến nội đô khác để đối chiếu nằm ở trang [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/).
 
 ## Mặt đường và khung giờ cần tránh
 
@@ -47,4 +47,4 @@ Lỗi thứ hai là đổi làn sát ngã tư trên các trục nhiều làn. C�
 
 Ở đầu cung, khách nhận xe tại điểm cho thuê ở Bồ Đề nên không phải lo gửi giữa đường; dọc tuyến, khách chỉ gửi xe lúc dừng nghỉ ở quán có người trông. Ở Hà Đông, khách để xe trong bãi ven đường gần khu chợ, lấy vé và không để đồ giá trị trong cốp. Khung về nên trước năm giờ chiều để khỏi chen cùng dòng xe tan tầm trên đại lộ.
 
-Cung qua cầu Long Biên và Hà Đông hợp khách đã quen cơ bản và muốn trải nghiệm nhiều dạng đường trong một chuyến, từ phố cổ đến đại lộ. Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các chủ đề lộ trình khác nằm ở trang [cung đường & hành trình](/blog/cung-duong/).
+Cung qua cầu Long Biên và Hà Đông hợp khách đã quen cơ bản và muốn trải nghiệm nhiều dạng đường trong một chuyến, từ phố cổ đến đại lộ. Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các chủ đề lộ trình khác nằm ở trang [cung đường & hành trình](/cung-duong/).

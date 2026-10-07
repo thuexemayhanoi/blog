@@ -29,7 +29,7 @@ Một nguyên nhân đặc trưng của sáng sớm là máy lạnh và xăng í
 
 ## Gọi chủ xe: báo hiện tượng thay vì báo kết luận
 
-Nếu sau trình tự trên máy vẫn không nổ, khách dừng lại và gọi chủ xe. Khách không nên tháo trộm máy, rút ắc quy đi sạc bên ngoài, hay gọi thợ gần đó mổ xe, vì mọi thay đổi trên xe thuê nên có chủ xe quyết, điều đã được nói trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/). Lúc gọi, khách báo theo hiện tượng chứ không theo phán đoán: đề có mạnh hay yếu, máy có tiếng lạch cạch hay im lặng, bugi có tia lửa hay không, bình xăng còn hay cạn. Chủ xe nghe đúng hiện tượng sẽ biết bước xử tiếp, ví dụ mang ắc quy mới, mang bugi thay, hoặc cho khách xe khác khi xe cần vô tiệm.
+Nếu sau trình tự trên máy vẫn không nổ, khách dừng lại và gọi chủ xe. Khách không nên tháo trộm máy, rút ắc quy đi sạc bên ngoài, hay gọi thợ gần đó mổ xe, vì mọi thay đổi trên xe thuê nên có chủ xe quyết, điều đã được nói trong trang [sự cố khi thuê xe](/thue-xe/su-co/). Lúc gọi, khách báo theo hiện tượng chứ không theo phán đoán: đề có mạnh hay yếu, máy có tiếng lạch cạch hay im lặng, bugi có tia lửa hay không, bình xăng còn hay cạn. Chủ xe nghe đúng hiện tượng sẽ biết bước xử tiếp, ví dụ mang ắc quy mới, mang bugi thay, hoặc cho khách xe khác khi xe cần vô tiệm.
 
 Với khách đang ở gần điểm cho thuê, việc nhẹ nhất là chủ xe cho kéo xe về hoặc đổi xe khác. Với khách đang ở xa, chủ xe có thể hướng dẫn qua điện thoại từng thao tác nhỏ, như vặn kim xăng, xả bớt xăng ngập, và khách làm đúng từng lời, không tự thêm bước nào. Khách nên giữ xe tại chỗ có trông giữ nếu phải để xe mà đi việc khác, và chụp lại tình trạng xe trước khi rời, giống mọi tình huống trục trặc giữa chuyến khác.
 
@@ -41,4 +41,4 @@ Một điều nữa là khách nên hỏi chủ xe lúc nhận xe về cách đ�
 
 Tóm lại, xe thuê không nổ máy buổi sáng thường chỉ là chuyện công tắc, chân chống, xăng, hoặc ắc quy, chứ ít khi là hỏng nặng. Khách chẩn đoán theo trình tự, báo hiện tượng đúng, và không tự tháo máy, thì buổi sáng đó chỉ chậm hơn dự kiến một chút mà không phát sinh rắc rối giữa khách và chủ xe.
 
-Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/), khách muốn biết thêm về cấu tạo của từng loại xe có thể xem [chọn loại xe](/blog/xe-may/chon-loai-xe/) trước khi đặt xe.
+Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/), khách muốn biết thêm về cấu tạo của từng loại xe có thể xem [chọn loại xe](/xe-may/chon-loai-xe/) trước khi đặt xe.

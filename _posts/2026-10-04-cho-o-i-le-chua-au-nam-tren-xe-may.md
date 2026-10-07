@@ -44,6 +44,6 @@ Quãng về thường nhẹ hơn quãng đi: lễ đã hạ, xe thoải mái, ch
 
 Người đi nhóm gia đình đầu năm nên chia lễ theo xe: mỗi xe một khối nhỏ chắc thay vì một xe chở cả lễ của ba nhà — kiểu chia này giữ mỗi tay lái nhẹ và ai rơi cũng chỉ hỏng một phần. Trước khi chia, chốt điểm đợi chung tại bãi gửi chùa vì các xe về không cùng giờ, và người cuối cùng rời bãi nhắn nhóm một tiếng cho chắc.
 
-Với người thuê xe máy: nhận xe sớm sáng đầu năm, kiểm tra cùng chủ xe, và hỏi kỹ giờ trả trong dịp lễ vì các điểm cho thuê quanh Long Biên những ngày này đổi khung giờ. Chở đồ và hành lý có gộp quy tắc xếp buộc trong mục [chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung. Người mới đi lễ xa bằng xe máy nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường đầu năm.
+Với người thuê xe máy: nhận xe sớm sáng đầu năm, kiểm tra cùng chủ xe, và hỏi kỹ giờ trả trong dịp lễ vì các điểm cho thuê quanh Long Biên những ngày này đổi khung giờ. Chở đồ và hành lý có gộp quy tắc xếp buộc trong mục [chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/ky-nang/) là mục lục chung. Người mới đi lễ xa bằng xe máy nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường đầu năm.
 
 Chở đồ lễ nguyên vẹn cuối cùng gói trong một câu: gói thành khối từ nhà, chở trọng tâm thấp, và hạ lễ đúng thứ tự. Làm đúng nhịp đó, phần thiêng liêng của buổi đầu năm sẽ không phải là những giây buộc lại dây giữa phố đông.

@@ -19,17 +19,17 @@ Chinh phục đỉnh Mẫu Sơn bằng xe máy là mục tiêu của những kh�
 
 Cung phổ biến là khách đi từ Hà Nội lên thành phố Lạng Sơn, nghỉ hoặc ăn nhẹ, rồi chạy tiếp hướng huyện Lộc Bình tới khu Mẫu Sơn. Đoạn cuối là đường đèo chuyên dụng lên đỉnh: nhựa nhưng hẹp, cua quấn liên tiếp, nhiều chỗ dốc đứng và chỉ một xe tránh nhau. Khách nên đi lên sớm trong ngày, vì chiều về sương mù giăng nhanh và nhiệt độ tụt rõ. Trên đỉnh có cổng trời Mẫu Sơn nổi tiếng, các tảng đá lớn và thảm cỏ đặc trưng của vùng cao, chỗ ngắm cả dãy núi phía xa khi trời trong.
 
-Khách nào đi theo nhóm nên thống nhất trước quy tắc: xe yếu đi trước, không vượt trên đèo, và mọi người dồn về một điểm hẹn nếu mất liên lạc giữa sương mù. Cách ghép Mẫu Sơn vào lịch cuối tuần đã có mẫu trong loạt bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), khách xem để cân ngày đi và ngày về.
+Khách nào đi theo nhóm nên thống nhất trước quy tắc: xe yếu đi trước, không vượt trên đèo, và mọi người dồn về một điểm hẹn nếu mất liên lạc giữa sương mù. Cách ghép Mẫu Sơn vào lịch cuối tuần đã có mẫu trong loạt bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), khách xem để cân ngày đi và ngày về.
 
 ## Chọn xe và vào số cho dốc cao
 
-Đèo Mẫu Sơn đòi hỏi máy kéo dài liên tục, nên xe số là lựa chọn hợp lý hơn xe ga. Khách vào số một hoặc số hai trước các tầng dốc gắt, giữ ga đều, và không đổi số giữa đoạn dốc đứng. Cách chọn loại xe theo địa hình đèo cao đã được nói trong bài [chọn loại xe hợp hành trình](/blog/xe-may/chon-loai-xe/); ngắn gọn thì khách cần máy khỏe, phanh ăn và lốp còn hoa. Với xe thuê, khách kiểm kỹ dây xích và má phanh trước khi nhận, vì đèo này làm việc nặng cả khi lên lẫn khi xuống.
+Đèo Mẫu Sơn đòi hỏi máy kéo dài liên tục, nên xe số là lựa chọn hợp lý hơn xe ga. Khách vào số một hoặc số hai trước các tầng dốc gắt, giữ ga đều, và không đổi số giữa đoạn dốc đứng. Cách chọn loại xe theo địa hình đèo cao đã được nói trong bài [chọn loại xe hợp hành trình](/xe-may/chon-loai-xe/); ngắn gọn thì khách cần máy khỏe, phanh ăn và lốp còn hoa. Với xe thuê, khách kiểm kỹ dây xích và má phanh trước khi nhận, vì đèo này làm việc nặng cả khi lên lẫn khi xuống.
 
 Trên đường lên, khách đừng để bị cuốn theo nhịp của xe bản địa đi nhanh: họ thuộc từng khúc cua, còn khách là lần đầu thấy. Chạy chậm hơn nhịp của mình một bậc, ghé các bến rộng để nghỉ và ngắm, thì tới đỉnh vẫn còn sức cảm nhận cảnh. Đèo cao đòi sự đều đặn hơn là tốc độ, và hầu hết các tình huống khó trên đèo đều có nguồn gốc từ việc khách vội.
 
 ## Sương mù, gió lạnh và trời trở trời
 
-Thời tiết là biến số quyết định của cung này. Mẫu Sơn mù quanh năm, có ngày tầm nhìn trên đỉnh chỉ vài chục mét, và gió trên cao lạnh hơn hẳn dưới chân. Khách mặc lớp gió hoặc áo khoác dày, găng tay, và khăn quàng cổ; mỗi lần dừng nghỉ nên vào chỗ chắn gió. Đèn pha bật cả ngày khi mù, chạy theo vạch giữa, và bấm còi trước cua mù. Các dấu hiệu đọc trời trên đường trường đã được nói trong bài [thời tiết và đường sổ trên đường dài](/blog/ky-nang/thoi-tiet-va-duong-sa/), khách đọc trước khi lên đèo.
+Thời tiết là biến số quyết định của cung này. Mẫu Sơn mù quanh năm, có ngày tầm nhìn trên đỉnh chỉ vài chục mét, và gió trên cao lạnh hơn hẳn dưới chân. Khách mặc lớp gió hoặc áo khoác dày, găng tay, và khăn quàng cổ; mỗi lần dừng nghỉ nên vào chỗ chắn gió. Đèn pha bật cả ngày khi mù, chạy theo vạch giữa, và bấm còi trước cua mù. Các dấu hiệu đọc trời trên đường trường đã được nói trong bài [thời tiết và đường sổ trên đường dài](/ky-nang/thoi-tiet-va-duong-sa/), khách đọc trước khi lên đèo.
 
 Vùng này từng ghi nhận băng giá và tuyết rơi hiếm hoi trong những đợt rét đậm cuối đông. Vì vậy khách đi mùa lạnh nên theo dõi dự báo chặt, và nếu dự báo có băng giá thì đổi lịch, vì mặt đường đóng băng là thứ không thuộc về xe máy. Với khách đi mùa mưa, lưu ý thêm mặt nhựa ướt trơn ở vạch sơn và lá cây rụng, những chi tiết nhỏ nhưng quyết định độ bám của lốp.
 
@@ -45,4 +45,4 @@ Phần lớn sự cố trên các cung đèo xảy ra lúc xuống, không phả
 
 ## Phần xe và liên hệ
 
-Khách cần thuê xe máy khỏe phục vụ cung Mẫu Sơn liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Khách gọi hỏi trước loại xe số khỏe máy hiện có và tình trạng lốp, để nhận xe hợp với dốc cao. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Chinh phục Mẫu Sơn không nằm ở việc lên nhanh, mà ở việc lên và về trọn vẹn: đúng số, đúng giờ, và đúng trang bị cho một đỉnh núi có khí hậu riêng.
+Khách cần thuê xe máy khỏe phục vụ cung Mẫu Sơn liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Khách gọi hỏi trước loại xe số khỏe máy hiện có và tình trạng lốp, để nhận xe hợp với dốc cao. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Chinh phục Mẫu Sơn không nằm ở việc lên nhanh, mà ở việc lên và về trọn vẹn: đúng số, đúng giờ, và đúng trang bị cho một đỉnh núi có khí hậu riêng.

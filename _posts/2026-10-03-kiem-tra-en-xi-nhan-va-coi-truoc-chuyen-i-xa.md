@@ -32,11 +32,11 @@ Còi cũng vậy: trong phố còi đôi khi chỉ là tiếng làm phiền, nh�
 
 Với xe của mình, một bộ đèn xi nhan và đèn pha dự phòng cùng công tắc nhỏ không nặng và rẻ, nên có trong hòm đồ sửa xe. Với xe thuê, bạn không mang phụ tùng được, thì cách thực dụng là yêu cầu bên cho thuê xác nhận trạng thái đèn còi khi nhận xe, bằng cách bật thử ngay trước mặt họ và chụp một video ngắn lưu lại. Nếu giữa chuyến đi đèn xi nhan hỏng, cách xử lý an toàn là chuyển sang dùng tín hiệu tay: giơ tay trái khi rẽ trái, giơ tay phải khi rẽ phải ở tốc độ thấp, và hạn chế chuyển làn khi không có tín hiệu.
 
-Trường hợp còi chết giữa đường, về cơ bản bạn vẫn chạy được, nhưng hãy thay đổi cách lái: giữ khoảng cách lớn hơn, tránh đi trong điểm mù của xe tải, và hạn chế vượt ở các đoạn đường cong. Trở về nơi cho thuê, báo ngay lỗi để họ sửa trước khi xe tiếp tục được cho thuê tiếp, đây cũng là cách góp phần giữ an toàn cho người đi sau mình. Các hạng mục khác cần rà trước chuyến dài được gom trong bài [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), nên đọc trước một buổi trước ngày xuất phát.
+Trường hợp còi chết giữa đường, về cơ bản bạn vẫn chạy được, nhưng hãy thay đổi cách lái: giữ khoảng cách lớn hơn, tránh đi trong điểm mù của xe tải, và hạn chế vượt ở các đoạn đường cong. Trở về nơi cho thuê, báo ngay lỗi để họ sửa trước khi xe tiếp tục được cho thuê tiếp, đây cũng là cách góp phần giữ an toàn cho người đi sau mình. Các hạng mục khác cần rà trước chuyến dài được gom trong bài [bảo dưỡng xe](/xe-may/bao-duong-xe/), nên đọc trước một buổi trước ngày xuất phát.
 
 ## Danh sách phút cuối trước khi nổ máy
 
-Còn năm phút trước khi lên đường, hãy rà lại theo thứ tự: xi nhan bốn bên, pha hai chế độ, đèn phanh cả hai phanh, còi hai nhịp, gương hai bên sạch và đúng góc, và thử lại một lần sau khi đã khoác balo, đội mũ. Nghe dài nhưng làm chưa tới hai phút. Trên [xe máy](/blog/xe-may/) thuê, thêm một bước: chụp ảnh đồng hồ xăng và tình trạng chung của xe, lưu cùng video đèn còi nhận xe, tạo bộ bằng chứng căn bản cho cả chuyến. Ai muốn chuẩn bị kỹ hơn về tay lái đường dài có thể đọc thêm [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) trước khi ra khỏi phố.
+Còn năm phút trước khi lên đường, hãy rà lại theo thứ tự: xi nhan bốn bên, pha hai chế độ, đèn phanh cả hai phanh, còi hai nhịp, gương hai bên sạch và đúng góc, và thử lại một lần sau khi đã khoác balo, đội mũ. Nghe dài nhưng làm chưa tới hai phút. Trên [xe máy](/xe-may/) thuê, thêm một bước: chụp ảnh đồng hồ xăng và tình trạng chung của xe, lưu cùng video đèn còi nhận xe, tạo bộ bằng chứng căn bản cho cả chuyến. Ai muốn chuẩn bị kỹ hơn về tay lái đường dài có thể đọc thêm [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) trước khi ra khỏi phố.
 
 ## Kết lại
 

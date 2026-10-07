@@ -16,7 +16,7 @@ writer: W1
 
 Nhận xe máy thuê rồi mới nghĩ đến câu hỏi xe máy thuê bảo hiểm dân sự bắt buộc có chưa là hơi muộn, vì đây là điều nên hỏi trước khi ký, cùng với giá và tiền cọc. Câu trả lời tổng quát: mọi xe máy lưu hành đều phải tham gia bảo hiểm trách nhiệm dân sự bắt buộc theo quy định hiện hành, nên xe của tiệm thuê, với tư cách là xe đang lưu hành, về nguyên tắc phải có thẻ bảo hiểm còn hiệu lực. Nhưng có thẻ trên xe và bạn hiểu thẻ đó chi trả cái gì lại là hai việc khác nhau. Bài viết này giải thích phạm vi bảo hiểm xe thuê, cách kiểm tra trước khi nhận, và phần trách nhiệm còn lại thuộc về khách.
 
-Tổng quan về nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), chuyên sâu về bảo hiểm trong phần [bảo hiểm](/blog/an-toan-phap-ly/bao-hiem/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan về nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), chuyên sâu về bảo hiểm trong phần [bảo hiểm](/an-toan-phap-ly/bao-hiem/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Xe máy thuê bảo hiểm dân sự bắt buộc chi trả cho ai
 
@@ -36,7 +36,7 @@ Nếu tiệm không đưa ra được thẻ, đó là cờ đỏ đáng cân nh�
 
 Trình tự chuẩn. Thứ nhất, dừng an toàn, giữ hiện trường nếu có người bị thương hoặc tranh chấp, và giúp người bị nạn trước khi tính toán trách nhiệm. Thứ hai, gọi công an tại chỗ để lập biên bản, vì hồ sơ này là căn cứ bảo hiểm chi trả. Thứ ba, thông báo cho chủ xe ngay, vì chủ xe là người đứng tên xe và thẻ bảo hiểm, và một số thủ tục bồi thường cần chủ xe trực tiếp làm.
 
-Điều khách thuê cần nhớ: phần thiệt hại của bên thứ ba có bảo hiểm chi trả theo phạm vi, nhưng phần hư hỏng của chính chiếc xe thuê thì khách đền theo hợp đồng thuê, và đây là khoản dễ tranh cãi nhất. Hợp đồng thuê nên ghi rõ cách tính đền khi khách gây hỏng xe, và kinh nghiệm nhận trả xe nằm trong trang [thuê xe máy](/blog/thue-xe/) phần nhận trả xe.
+Điều khách thuê cần nhớ: phần thiệt hại của bên thứ ba có bảo hiểm chi trả theo phạm vi, nhưng phần hư hỏng của chính chiếc xe thuê thì khách đền theo hợp đồng thuê, và đây là khoản dễ tranh cãi nhất. Hợp đồng thuê nên ghi rõ cách tính đền khi khách gây hỏng xe, và kinh nghiệm nhận trả xe nằm trong trang [thuê xe máy](/thue-xe/) phần nhận trả xe.
 
 ## Bảo hiểm bắt buộc khác gì các loại bảo hiểm tự nguyện
 

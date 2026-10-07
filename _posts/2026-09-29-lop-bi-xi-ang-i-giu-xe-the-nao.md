@@ -35,7 +35,7 @@ Mưa và đường trơn làm xì lốp dễ leo thang thành trượt ngã, vì
 
 ## Sau khi dừng: kiểm tra và bước tiếp theo
 
-Quan sát lốp tìm vật gây xì, nhìn vành có móp méo gì không và van có bị lỏng không. Nếu bạn đang đi xe thuê, gọi cho nơi cho thuê trước khi tự thay hoặc sửa, vì một số xe được trang bị phụ kiện mà bạn không có sẵn; trang [sự cố khi thuê xe](/blog/thue-xe/su-co/) tóm tắt cách xử lý và những điều nên hỏi ngay khi gặp tình huống này. Ghi lại vị trí nếu cần để quay lại lấy xe sau khi vá xong.
+Quan sát lốp tìm vật gây xì, nhìn vành có móp méo gì không và van có bị lỏng không. Nếu bạn đang đi xe thuê, gọi cho nơi cho thuê trước khi tự thay hoặc sửa, vì một số xe được trang bị phụ kiện mà bạn không có sẵn; trang [sự cố khi thuê xe](/thue-xe/su-co/) tóm tắt cách xử lý và những điều nên hỏi ngay khi gặp tình huống này. Ghi lại vị trí nếu cần để quay lại lấy xe sau khi vá xong.
 
 Trên đường trường ít tiệm sửa, một bộ vá nhanh và bơm mini nhỏ gọn có thể giúp bạn tự xử trong mươi phút, nhưng cần tập trước ở nhà thì mới chắc tay ra đường. Nếu xe thuê không kèm, hãy hỏi nơi cho thuê trước khi nhận xe để chủ động phương án. Với vết xì quanh van, siết lại van bằng dụng cụ chuyên dụng thường là đủ để về tới điểm sửa gần nhất.
 
@@ -43,8 +43,8 @@ Trên đường trường ít tiệm sửa, một bộ vá nhanh và bơm mini n
 
 Phòng bao giờ cũng rẻ hơn xử lý. Trước khi đi, dành vài chục giây bóp nhẹ lốp bằng tay hoặc ấn xe xuống xem lốp có đủ căng không, nhìn hông lốp có vết nứt già hóa không và rãnh còn đủ sâu không. Giữ áp lốp theo khuyến cáo ghi trên tem của xe hoặc tài liệu đi kèm; lốp non hơi là nguyên nhân phổ biến nhất của xì giữa đường, vì vách lốp phải gập nhiều hơn ở mỗi vòng quay.
 
-Với xe máy đi đường xa hoặc chở nặng, hãy kiểm tra áp giữa chuyến khi xe nghỉ ngắn, vì nhiệt khiến áp thay đổi. Sau mỗi chuyến đi dài, nhìn lại lốp để bắt sớm những mẩu đinh cắm nhỏ chưa thủng hết. Bạn có thể đọc thêm các tình huống tương tự trong chuyên mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), còn nếu muốn ôn lại toàn bộ thao tác cơ bản, trang [kỹ năng & tình huống](/blog/ky-nang/) gom đủ các bài theo từng chủ đề.
+Với xe máy đi đường xa hoặc chở nặng, hãy kiểm tra áp giữa chuyến khi xe nghỉ ngắn, vì nhiệt khiến áp thay đổi. Sau mỗi chuyến đi dài, nhìn lại lốp để bắt sớm những mẩu đinh cắm nhỏ chưa thủng hết. Bạn có thể đọc thêm các tình huống tương tự trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), còn nếu muốn ôn lại toàn bộ thao tác cơ bản, trang [kỹ năng & tình huống](/ky-nang/) gom đủ các bài theo từng chủ đề.
 
 ## Lời kết
 
-Xì lốp giữa đường không thể đoán trước được, nhưng cách phản ứng thì hoàn toàn có thể luyện sẵn. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước khi nhận xe, hãy bóp thử lốp và hỏi rõ về tình trạng lốp của xe; nếu gặp sự cố trên đường, tham khảo trang [sự cố khi thuê xe](/blog/thue-xe/su-co/) và mục [tình huống trên đường](/blog/ky-nang/tinh-huong-giao-thong/) để xử lý an toàn.
+Xì lốp giữa đường không thể đoán trước được, nhưng cách phản ứng thì hoàn toàn có thể luyện sẵn. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước khi nhận xe, hãy bóp thử lốp và hỏi rõ về tình trạng lốp của xe; nếu gặp sự cố trên đường, tham khảo trang [sự cố khi thuê xe](/thue-xe/su-co/) và mục [tình huống trên đường](/ky-nang/tinh-huong-giao-thong/) để xử lý an toàn.

@@ -263,7 +263,7 @@ def research_class(row, tax):
 def public_url(url):
     """URL công khai chính xác như site phục vụ (đồng nhất sitemap):
     percent-encode khoảng trắng/Unicode, KHÔNG đổi slug. URL legacy
-    (ví dụ /blog/du lịch/2026/09/13/...) chỉ được encode — tuyệt đối
+    (ví dụ /du lịch/2026/09/13/...) chỉ được encode — tuyệt đối
     không tự viết lại thành /du-lich/ khi route đó không tồn tại."""
     return urllib.parse.quote(url or '', safe='/:')
 
@@ -401,10 +401,13 @@ HANOI_MARKERS = [
 
 def _site_baseurl():
     cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
-    m = re.search(r'^baseurl:\s*["\']?([^"\'\s#]+)', cfg, re.M)
-    if not m or not m.group(1).startswith('/'):
-        raise SystemExit('QA: không đọc được baseurl /blog từ _config.yml')
-    return m.group(1).rstrip('/')
+    m = re.search(r'^baseurl:\s*(?:"([^"]*)"|\'([^\']*)\'|([^\s#]*))', cfg, re.M)
+    if not m:
+        raise SystemExit('QA: không đọc được baseurl từ _config.yml')
+    value = next((g for g in m.groups() if g is not None), '')
+    if value and not value.startswith('/'):
+        raise SystemExit('QA: baseurl không hợp lệ trong _config.yml: %s' % value)
+    return value.rstrip('/')
 
 
 BASEURL = None
@@ -412,7 +415,7 @@ _ROUTES = None
 
 
 def canonical_routes():
-    """Tập route công khai dạng baseurl-đầy-đủ (/blog/...) từ repo truth."""
+    """Tập route công khai dạng baseurl-đầy-đủ (/...) từ repo truth."""
     global BASEURL, _ROUTES
     if _ROUTES is not None:
         return _ROUTES
@@ -436,7 +439,7 @@ def canonical_routes():
             if pm and pm.group(1):
                 routes.add(BASEURL + pm.group(1))
     # bài legacy _posts không có permalink: URL do Jekyll tính
-    # /blog/<category>/<Y>/<M>/<D>/<slug>/ (kèm biến thể lệch ngày UTC
+    # /<category>/<Y>/<M>/<D>/<slug>/ (kèm biến thể lệch ngày UTC
     # vì Jekyll chuẩn hoá timezone — thêm cả hai để không false FAIL).
     posts_dir = os.path.join(ROOT, '_posts')
     for fn in sorted(os.listdir(posts_dir)):
@@ -483,7 +486,7 @@ def link_route_ok(link):
         return False
     route = link.split('#', 1)[0].strip()
     # URL legacy chứa khoảng trắng/Unicode: writer có thể viết dạng raw
-    # (/blog/du lịch/...) hoặc dạng percent-encoded (/blog/du%20l%E1%BB%8Bch/)
+    # (/du lịch/...) hoặc dạng percent-encoded (/du%20l%E1%BB%8Bch/)
     # — cả hai trỏ cùng một route thật; decode trước khi đối chiếu.
     route = urllib.parse.unquote(route)
     if not route.endswith('/'):
@@ -530,7 +533,7 @@ def internal_links_in(body):
     # cho phép neo # (anchor): matrix có liên kết bắt buộc dạng
     # /bang-gia/#tinh-gia — regex cũ loại '#' khiến QA không bao giờ thấy
     # liên kết này, dù trang đích tồn tại và hợp lệ.
-    # URL legacy còn chứa khoảng trắng/Unicode thô (/blog/du lịch/...):
+    # URL legacy còn chứa khoảng trắng/Unicode thô (/du lịch/...):
     # phải thấy được liên kết đó thay vì bỏ qua (QA mù link thật).
     # Title markdown (](url "tiêu đề")) bị tách trước khi đối chiếu.
     links = []
@@ -575,8 +578,7 @@ def qa_check_one(row, rows, biz, tax):
     date_url = '%s/%s/%s' % (d[:4], d[5:7], d[8:]) if d else ''
     # permalink trong file là đường dẫn gốc-tương-đối (không tiền tố /blog,
     # baseurl thêm khi render); canonical_url/expected_url là URL công khai.
-    expected_permalink = re.sub(r'^/blog', '',
-                               row['canonical_url'].replace('{date}', date_url))
+    expected_permalink = row['canonical_url'].replace('{date}', date_url)
     checks['permalink_canonical'] = front and front.get('permalink') == \
         expected_permalink
 
@@ -610,7 +612,7 @@ def qa_check_one(row, rows, biz, tax):
                                           for r in required)
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
-    # hub trong taxonomy là URL công khai dạng /blog/... — liên kết trong
+    # hub trong taxonomy là URL công khai dạng /... — liên kết trong
     # bài PHẢI mang đúng baseurl, không strip /blog nữa (QA hardening:
     # prefix khớp kiểu cũ cho /thue-xe/... chạy 404 là lỗi thật).
     hub = parents[row['parent_id']]['hub_url']
@@ -620,8 +622,8 @@ def qa_check_one(row, rows, biz, tax):
     # VÀ trỏ tới route tồn tại (không chấp nhận khớp prefix suông).
     checks['links_routes_valid'] = all(link_route_ok(l) for l in links)
     ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)))
-    checks['no_hardcoded_blog'] = not re.search(r'\]\(.*\/blog\/blog', body) \
-        and '/blog/blog/' not in body
+    legacy_project_prefix = '/' + 'blog/'
+    checks['no_hardcoded_blog'] = legacy_project_prefix not in body
 
     # ---- cannibalization
     norm = norm_title(row['title'])

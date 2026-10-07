@@ -46,7 +46,7 @@ parents = []
 for pid, title, slug, desc in parents_seed:
     parents.append({
         'parent_id': pid, 'title': title, 'slug': slug,
-        'hub_url': '/blog/%s/' % slug, 'description': desc,
+        'hub_url': '/%s/' % slug, 'description': desc,
     })
 children = []
 for cid, pid, title, slug, desc, kw_head, kw_cluster, group, planned_target, \
@@ -54,7 +54,7 @@ for cid, pid, title, slug, desc, kw_head, kw_cluster, group, planned_target, \
     pslug = {p['parent_id']: p['slug'] for p in parents}[pid]
     children.append({
         'child_id': cid, 'parent_id': pid, 'title': title, 'slug': slug,
-        'hub_url': '/blog/%s/%s/' % (pslug, slug), 'description': desc,
+        'hub_url': '/%s/%s/' % (pslug, slug), 'description': desc,
         'cluster_keyword': kw_cluster, 'group': group,
         'planned_target': planned_target,
         'search_intent': intent, 'commercial_level': level,
@@ -119,13 +119,13 @@ for fn in post_files:
                        int(dm.group(4)), int(dm.group(5)), int(dm.group(6) or 0)) - sign * _dt.timedelta(hours=abs(off_h), minutes=off_m)
     y, mo, d = '%04d' % fdt.year, '%02d' % fdt.month, '%02d' % fdt.day
     # URL legacy THẬT do Jekyll sinh (permalink pretty gồm tên danh mục có dấu):
-    # /blog/{Danh mục}/YYYY/MM/DD/slug/ — giữ nguyên, không đổi.
+    # /{Danh mục}/YYYY/MM/DD/slug/ — giữ nguyên, không đổi.
     rows.append({
         'source_path': '_posts/' + fn,
         'slug': slug,
         'published_date': emap_dates[di],
         'category': category,
-        'current_url': '/blog/%s/%s/%s/%s/%s/' % (category.lower(), y, mo, d, slug),
+        'current_url': '/%s/%s/%s/%s/%s/' % (category.lower(), y, mo, d, slug),
         'likely_parent': pid,
         'likely_child': cid,
         'title': title,

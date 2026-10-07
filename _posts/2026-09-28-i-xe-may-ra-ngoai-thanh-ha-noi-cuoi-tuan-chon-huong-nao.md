@@ -23,9 +23,9 @@ Câu hỏi đầu tiên khách nên tự trả lời là mình có bao nhiêu ti
 
 ## Vài cung tiêu biểu theo từng hướng
 
-Phía tây, tuyến hồ lớn phía Sơn Tây đi qua vùng đồi và bãi cỏ ven hồ, hợp picnic, nhóm có thể nối tiếp một hồ thứ hai trong cùng ngày nếu xuất phát sớm. Phía bắc, tuyến Sóc Sơn và các hồ nhỏ chạy qua thôn bản và rừng thông thưa, điểm đến vắng, hợp nhóm thích trải bạt bên nước. Phía đông, tuyến đê và ven sông cho bãi bồi, thửa rau và làng nghề, khách dừng nhiều nhưng đi chậm, hợp buổi chiều mát. Ai muốn có sẵn cách xếp loại cung theo độ dài có thể xem trang [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), nơi gom các tuyến theo nhóm khách.
+Phía tây, tuyến hồ lớn phía Sơn Tây đi qua vùng đồi và bãi cỏ ven hồ, hợp picnic, nhóm có thể nối tiếp một hồ thứ hai trong cùng ngày nếu xuất phát sớm. Phía bắc, tuyến Sóc Sơn và các hồ nhỏ chạy qua thôn bản và rừng thông thưa, điểm đến vắng, hợp nhóm thích trải bạt bên nước. Phía đông, tuyến đê và ven sông cho bãi bồi, thửa rau và làng nghề, khách dừng nhiều nhưng đi chậm, hợp buổi chiều mát. Ai muốn có sẵn cách xếp loại cung theo độ dài có thể xem trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), nơi gom các tuyến theo nhóm khách.
 
-Khi xếp lịch dài ngày ghép nhiều hướng, bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/) là khung tham chiếu tốt. Tổng quan tất cả hướng ngoại thành cũng đã được gom tại trang [ngoại thành Hà Nội](/blog/du-lich/ngoai-thanh/), khách đối chiếu nhanh trước khi chốt.
+Khi xếp lịch dài ngày ghép nhiều hướng, bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/) là khung tham chiếu tốt. Tổng quan tất cả hướng ngoại thành cũng đã được gom tại trang [ngoại thành Hà Nội](/du-lich/ngoai-thanh/), khách đối chiếu nhanh trước khi chốt.
 
 ## Chọn hướng theo thời gian và trình độ xe
 
@@ -39,12 +39,12 @@ Một cách chọn nữa là nhìn nhóm bạn cùng đi: nhóm có người l�
 
 Thứ nhất, chốt điểm đích và khung giờ về trước, kể cả điểm hẹn rẽ nếu đi nhóm; đường ngoại thành nhiều đoạn mất sóng nên thống nhất trước. Thứ hai, kiểm tra xe tối: mức nhớt, lốp, đèn và phanh, vì các trạm sửa xe ven đường thưa hơn nội đô; khách thuê xe nên nhận xe từ đúng điểm cho thuê có kiểm đếm. Thứ ba, chuẩn bị đồ theo hướng: bên hồ mang bạt và đồ ăn nhẹ, trên đê mang áo mưa gọn, lên đồi mang lớp ấm mỏng cho khung chiều.
 
-Ba việc nên tránh: không chở quá hai người trên xe khi đường đèo hoặc đê hẹp, không ngừng giữa làn đường trên đê, và không đi lẻ vào lúc tối ở các tuyến vắng. Khách mang theo điện thoại đầy pin và một bản đồ offline phòng khi lạc, thói quen nhỏ này từng cứu không ít chuyến cuối tuần. Người mới chạy đường trường nên đọc thêm [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
+Ba việc nên tránh: không chở quá hai người trên xe khi đường đèo hoặc đê hẹp, không ngừng giữa làn đường trên đê, và không đi lẻ vào lúc tối ở các tuyến vắng. Khách mang theo điện thoại đầy pin và một bản đồ offline phòng khi lạc, thói quen nhỏ này từng cứu không ít chuyến cuối tuần. Người mới chạy đường trường nên đọc thêm [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
 
-Về chi phí cho một chuyến ngoại thành, phần chính thường là tiền xăng, tiền gửi xe tại các điểm dừng và đồ ăn nước uống tự chuẩn bị; cả ba hạng đều nhẹ và dễ dự trù trước khi đi. Khách thuê xe nên hỏi trước ngày lấy về quy định trả xe, khung giờ và giấy tờ cần mang, để phần thuê không phát sinh bất ngờ vào buổi cuối. Ai cần đối chiếu giá thuê theo loại xe thì trang [bảng giá](/blog/bang-gia/) là nơi cập nhật thông tin chuẩn nhất.
+Về chi phí cho một chuyến ngoại thành, phần chính thường là tiền xăng, tiền gửi xe tại các điểm dừng và đồ ăn nước uống tự chuẩn bị; cả ba hạng đều nhẹ và dễ dự trù trước khi đi. Khách thuê xe nên hỏi trước ngày lấy về quy định trả xe, khung giờ và giấy tờ cần mang, để phần thuê không phát sinh bất ngờ vào buổi cuối. Ai cần đối chiếu giá thuê theo loại xe thì trang [bảng giá](/bang-gia/) là nơi cập nhật thông tin chuẩn nhất.
 
 ## Kết luận về chuyện chọn hướng ngoại thành
 
 Chọn hướng ngoại thành cuối tuần không có đáp án duy nhất: khách thích hồ và đường rộng chọn tây, thích vắng và rừng chọn bắc, thích bãi bồi và làng nghề chọn đông, còn nhóm đi đông người nên ưu tiên trục chính dễ giữ nhịp. Đi đúng thời gian mình có, chốt trước điểm đích và kiểm tra xe thì hướng nào cũng cho một buổi đổi gió đáng giá.
 
-Khách cần thuê xe máy cho chuyến ngoại thành liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674, nên gọi trước khung định đi để chắc còn xe. Các chủ đề du lịch khác của trang nằm tại [du lịch Hà Nội](/blog/du-lich/).
+Khách cần thuê xe máy cho chuyến ngoại thành liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674, nên gọi trước khung định đi để chắc còn xe. Các chủ đề du lịch khác của trang nằm tại [du lịch Hà Nội](/du-lich/).

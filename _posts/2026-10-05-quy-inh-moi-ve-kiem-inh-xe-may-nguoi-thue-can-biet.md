@@ -40,6 +40,6 @@ Nếu bị nhắc nhở về giấy tờ, cách xử luôn là hợp tác: đưa
 
 ## Tóm lại cho người thuê
 
-Quy định có thể đổi, nên cách dùng bền là: hỏi cửa hàng lúc nhận xe về giấy tờ xe, giữ hợp đồng, và tra thông tin mới nhất ở nguồn chính thức trước những chuyến dài. Tổng quan các vấn đề pháp lý khi lưu thông nằm trong trang [an toàn và pháp lý](/blog/an-toan-phap-ly/), kinh nghiệm chuẩn bị và chạy các cung đường xa trong [chuyên mục du lịch](/blog/du-lich/), và phần giấy tờ cần chuẩn bị trước khi nhận xe tại [thuê xe máy](/blog/xe-may/).
+Quy định có thể đổi, nên cách dùng bền là: hỏi cửa hàng lúc nhận xe về giấy tờ xe, giữ hợp đồng, và tra thông tin mới nhất ở nguồn chính thức trước những chuyến dài. Tổng quan các vấn đề pháp lý khi lưu thông nằm trong trang [an toàn và pháp lý](/an-toan-phap-ly/), kinh nghiệm chuẩn bị và chạy các cung đường xa trong [chuyên mục du lịch](/du-lich/), và phần giấy tờ cần chuẩn bị trước khi nhận xe tại [thuê xe máy](/xe-may/).
 
 Thông tin về quy định kiểm định phương tiện có thể thay đổi theo từng thời kỳ; trước khi đi chuyến dài, bạn nên đối chiếu văn bản mới nhất trên cổng thông tin của cơ quan quản lý tại https://dichvucong.gov.vn.

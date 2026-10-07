@@ -52,4 +52,4 @@ Quãng sang Bồ Đề ngắn, nên nhiều người ghép buổi lễ thành bu
 
 ## Tóm lại
 
-Đi Đền Cả bằng xe máy ngày lễ không khó nếu giữ ba thứ tự: đến sớm, gửi xe nơi có người trông, và đi bộ vào khu đền. Ai muốn xem thêm mẹo chạy xe ngày lễ chung, mục [kinh nghiệm](/blog/kinh-nghiem/) có các bài tổng hợp; gợi ý điểm chơi quanh khu bờ bắc ở chuyên mục [Long Biên](/blog/du-lich/long-bien/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/blog/du-lich/).
+Đi Đền Cả bằng xe máy ngày lễ không khó nếu giữ ba thứ tự: đến sớm, gửi xe nơi có người trông, và đi bộ vào khu đền. Ai muốn xem thêm mẹo chạy xe ngày lễ chung, mục [kinh nghiệm](/kinh-nghiem/) có các bài tổng hợp; gợi ý điểm chơi quanh khu bờ bắc ở chuyên mục [Long Biên](/du-lich/long-bien/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/du-lich/).

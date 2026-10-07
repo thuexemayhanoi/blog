@@ -20,7 +20,7 @@ Honda Click chở hai người đi phố là nhu cầu rất đời thường �
 
 Honda Click thuộc dòng xe ga nhỏ gọn, nhưng yên của Click lại dài và phẳng hơn mặt bằng chung của phân khúc. Yên phẳng giúp hai người ngồi không bị trôi về phía trước khi phanh, người ngồi sau có chỗ tựa chắc mà không phải bám chặt người lái. So với các dòng xe sport một yên lồi, Click nhường chỗ cho người thứ hai tử tế hơn hẳn.
 
-Tuy vậy chở hai người thì tải trọng tăng, và xe nhỏ luôn có giới hạn. Cảm giác dễ thấy nhất là xe ì hơn khi lên dốc nhỏ và phanh phải lấy sớm hơn. Người lái cần điều chỉnh theo: giữ khoảng cách với xe phía trước dài hơn khi chở hai, không rẽ gắt, và tranh thủ giảm tốc bằng cách nhả ga sớm thay vì chỉ dựa vào phanh. Chi tiết cân đối giữa Click và dòng xe cùng phân khúc đã có trong bài [so sánh Honda Click và Yamaha Mio khi thuê](/blog/xe-may/2026/09/27/so-sanh-honda-click-va-yamaha-mio-khi-thue/) cho ai còn lưỡng lự giữa hai lựa chọn.
+Tuy vậy chở hai người thì tải trọng tăng, và xe nhỏ luôn có giới hạn. Cảm giác dễ thấy nhất là xe ì hơn khi lên dốc nhỏ và phanh phải lấy sớm hơn. Người lái cần điều chỉnh theo: giữ khoảng cách với xe phía trước dài hơn khi chở hai, không rẽ gắt, và tranh thủ giảm tốc bằng cách nhả ga sớm thay vì chỉ dựa vào phanh. Chi tiết cân đối giữa Click và dòng xe cùng phân khúc đã có trong bài [so sánh Honda Click và Yamaha Mio khi thuê](/xe-may/2026/09/27/so-sanh-honda-click-va-yamaha-mio-khi-thue/) cho ai còn lưỡng lự giữa hai lựa chọn.
 
 Về người ngồi sau, nên nhắc trước vài việc: chân để lên vị trí gác chân, không vắt chéo sang một bên, túi xách để vào cốp hoặc giơ lên đùi thay vì đeo lệch một bên hông, vì túi lệch làm xe nghiêng khi vào cua. Những việc nhỏ này quyết định nhiều hơn người ta tưởng khi xe nhỏ chở hai.
 
@@ -32,7 +32,7 @@ Cốp xe ga nằm dưới yên là lợi thế lớn nhất của dòng này so 
 
 Điểm cần lưu ý là cốp dưới yên nằm ngay trên phần máy, nên tránh để đồ nóng hoặc vật dễ chảy như hộp cơm nhiều nước canh khi đi xa nắng gắt. Đồ quý như giấy tờ, điện thoại thì tốt nhất mang theo người, không để trong cốp rồi đỗ xe lâu ở nơi vắng. Khi khóa cốp, nghe tiếng cạch của khóa lẫy và thử nhấc yên lại lần nữa để chắc chắn đã khóa.
 
-Với người đi chợ hoặc đi làm chở theo nhiều đồ, Click vẫn vừa vặn trong phố cổ, nơi vỉa hè nhỏ và ngõ hẹp; kinh nghiệm chạy trong khu này từng được tách trong bài [Honda Click trong phố cổ nhỏ hẹp](/blog/xe-may/2026/09/27/honda-click-trong-pho-co-nho-hep/). Ai muốn hiểu Click hợp với người như thế nào nói chung thì xem thêm [Honda Click gọn nhẹ hợp ai](/blog/xe-may/2026/09/27/honda-click-gon-nhe-hop-ai/).
+Với người đi chợ hoặc đi làm chở theo nhiều đồ, Click vẫn vừa vặn trong phố cổ, nơi vỉa hè nhỏ và ngõ hẹp; kinh nghiệm chạy trong khu này từng được tách trong bài [Honda Click trong phố cổ nhỏ hẹp](/xe-may/2026/09/27/honda-click-trong-pho-co-nho-hep/). Ai muốn hiểu Click hợp với người như thế nào nói chung thì xem thêm [Honda Click gọn nhẹ hợp ai](/xe-may/2026/09/27/honda-click-gon-nhe-hop-ai/).
 
 ## Nguyên tắc chạy hai người trong phố Hà Nội
 
@@ -46,4 +46,4 @@ Thứ ba là đường ướt. Mùa mưa Hà Nội, lòng đường có vết d�
 
 Mức thuê Honda Click hiện tại là 150.000 đồng một ngày, gói tuần từ 600.000 đến 700.000 đồng tùy thời điểm, phù hợp với nhóm bạn hoặc cặp đôi muốn có xe đi chơi cuối tuần mà chưa cần mua xe. Tiền đặt cọc cần xác nhận trực tiếp với chủ xe trước khi nhận. Khi nhận xe chở hai người, nên thử ngay: ngồi cả hai lên xe, xem người sau có đủ chỗ chống chân không, và đạp ga thử xem xe có đủ sức kéo hai người lên dốc cầu vượt gần cửa hàng không.
 
-Cửa hàng cho thuê ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở từ 09:00 đến 21:00, ghé lúc nào cũng ngồi thử được. Chở hai người đi phố thoải mái hay không phụ thuộc yên xe, cốp xe và nhất là người lái giữ nguyên tắc phanh sớm, ga mượt, khoảng cách dài. Các bài về dòng Click khác nằm trong trang [Honda Click](/blog/xe-may/honda-click/), còn tổng quan các dòng xe cho thuê xem ở trang [thuê xe máy](/blog/xe-may/).
+Cửa hàng cho thuê ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở từ 09:00 đến 21:00, ghé lúc nào cũng ngồi thử được. Chở hai người đi phố thoải mái hay không phụ thuộc yên xe, cốp xe và nhất là người lái giữ nguyên tắc phanh sớm, ga mượt, khoảng cách dài. Các bài về dòng Click khác nằm trong trang [Honda Click](/xe-may/honda-click/), còn tổng quan các dòng xe cho thuê xem ở trang [thuê xe máy](/xe-may/).

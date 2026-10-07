@@ -32,7 +32,7 @@ Trường hợp bánh lún sâu dưới nắp hố bị văng, chớ cố nhấc
 
 ## Nếu không tự thoát được
 
-Khi mọi cách đều không hiệu quả, gọi ngay số hỗ trợ trong hợp đồng thay vì kéo xe bằng xe máy khác, vì lực kéo lệch dễ làm cong khung hoặc gãy càng trước. Hãy nói rõ vị trí, kiểu hố và tư thế xe để người đến hỗ trợ mang theo dụng cụ đúng. Trong lúc chờ, đặt xe nghiêng có điểm tựa và bật đèn khẩn nếu có; danh sách dòng xe có gầm cao hợp đường nhiều hố cũng được cập nhật tại [trang cho thuê xe máy](/blog/thue-xe/).
+Khi mọi cách đều không hiệu quả, gọi ngay số hỗ trợ trong hợp đồng thay vì kéo xe bằng xe máy khác, vì lực kéo lệch dễ làm cong khung hoặc gãy càng trước. Hãy nói rõ vị trí, kiểu hố và tư thế xe để người đến hỗ trợ mang theo dụng cụ đúng. Trong lúc chờ, đặt xe nghiêng có điểm tựa và bật đèn khẩn nếu có; danh sách dòng xe có gầm cao hợp đường nhiều hố cũng được cập nhật tại [trang cho thuê xe máy](/thue-xe/).
 
 Nếu phải chờ lâu giữa trời mưa, che lại phần điện tử phía đầu xe bằng áo mưa hoặc túi nilon, hạn chế nước chảy vào ổ đề. Đứng chờ ở vị trí an toàn phía sau rào tạm nếu có, không đứng ngay cạnh mép đường nơi xe tải đi qua với khoảng sát hẹp.
 
@@ -40,7 +40,7 @@ Sau khi thoát, đừng vội chạy tiếp. Kiểm tra vành xe có méo không
 
 ## Phòng tránh khi đi qua vùng nhiều hố ga
 
-Hà Nội có những đoạn đường nổi tiếng nhiều hố ga hở, nhất là sau đợt mưa lớn hoặc quanh khu đào đường. Cách phòng tránh đơn giản nhất là đi chậm ở vùng ngập, theo vệt bánh của xe phía trước, và không bám sát quá gần. Khi buộc phải đi qua nước đọng, giữ ga đều ở dải số thấp, hai chân sẵn sàng chống xuống khi bánh gặp chướng ngại. Nếu bạn mới lấy bằng A1, tham khảo [kinh nghiệm lái xe lần đầu](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm thêm thói quen an toàn cơ bản.
+Hà Nội có những đoạn đường nổi tiếng nhiều hố ga hở, nhất là sau đợt mưa lớn hoặc quanh khu đào đường. Cách phòng tránh đơn giản nhất là đi chậm ở vùng ngập, theo vệt bánh của xe phía trước, và không bám sát quá gần. Khi buộc phải đi qua nước đọng, giữ ga đều ở dải số thấp, hai chân sẵn sàng chống xuống khi bánh gặp chướng ngại. Nếu bạn mới lấy bằng A1, tham khảo [kinh nghiệm lái xe lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để nắm thêm thói quen an toàn cơ bản.
 
 Một thói quen nữa đáng rèn là nhìn xa trước khoảng mười mét thay vì nhìn sát bánh trước. Ở tốc độ chậm, khoảng mười mét cho bạn đủ hai giây để né miệng hố. Đèn chiếu yếu cũng là nguyên nhân gián tiếp khiến người lái không nhận thấy hố từ xa, vì vậy kiểm tra đèn trước mỗi chuyến đi tối.
 
@@ -56,4 +56,4 @@ Có nên tự lấp tạm miệng hố không? Không nên nếu bạn không c�
 
 Nâng xe xong nên chạy thử bao lâu? Chỉ cần một đoạn vài trăm mét ở tốc độ chậm, lắng nghe tiếng vành cạ nanh. Nếu êm và phanh ăn, xe có thể dùng tiếp và trả đúng hẹn.
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, hỗ trợ qua số 0942 467 674 khi xe thuê gặp sự cố giữa đường. Nếu bạn vừa thoát khỏi hố ga, hãy ghé kiểm tra xe trước khi tiếp tục lịch trình dài. Mức hỗ trợ tại chỗ có thể thay đổi theo từng thời kỳ nên hãy gọi xác nhận trước. Tổng quan các dòng xe đang cho thuê xem tại [trang cho thuê xe máy](/blog/thue-xe/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, hỗ trợ qua số 0942 467 674 khi xe thuê gặp sự cố giữa đường. Nếu bạn vừa thoát khỏi hố ga, hãy ghé kiểm tra xe trước khi tiếp tục lịch trình dài. Mức hỗ trợ tại chỗ có thể thay đổi theo từng thời kỳ nên hãy gọi xác nhận trước. Tổng quan các dòng xe đang cho thuê xem tại [trang cho thuê xe máy](/thue-xe/).

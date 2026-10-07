@@ -30,7 +30,7 @@ Mũ bảo hiểm đạt chuẩn là mũ được sản xuất, nhập khẩu the
 - Mũ ôm đầu, không lắc lư khi cử động; vành che phủ tới vùng thái dương.
 - Mũ từng chịu va đập mạnh nên được thay mới, vì khả năng giảm chấn đã suy giảm dù bề ngoài còn nguyên.
 
-Phân biệt rõ phạm vi: bài này nói về quy định đội mũ; các tiêu chí chi tiết khi chọn mua mũ cho người đi xe máy đã được tách trong bài [chọn mũ bảo hiểm đạt chuẩn khi đi xe máy](/blog/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/), bạn nên đọc cả hai để vừa đúng luật vừa chọn được mũ phù hợp.
+Phân biệt rõ phạm vi: bài này nói về quy định đội mũ; các tiêu chí chi tiết khi chọn mua mũ cho người đi xe máy đã được tách trong bài [chọn mũ bảo hiểm đạt chuẩn khi đi xe máy](/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/), bạn nên đọc cả hai để vừa đúng luật vừa chọn được mũ phù hợp.
 
 ## Đội đúng cách: quy định và thực tế
 
@@ -49,7 +49,7 @@ hành cuộc vật lộn mỗi lần lên xe.
 
 Với khách thuê xe máy, mũ bảo hiểm là trang bị đi kèm thường do cửa hàng cấp, nhưng trách nhiệm đội đúng vẫn thuộc về người lên yên. Trước khi nhận xe, hãy chọn mũ vừa đầu, kiểm tra quai và khoá còn chắc, từ chối mũ nứt vỡ hoặc dơ bẩn quá mức. Nếu bạn có mũ riêng vừa đầu và quen đội, mang theo là phương án tốt nhất.
 
-Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), bao gồm cả nhóm quy định về trang bị khi lưu thông. Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông, còn mẹo lái xe an toàn nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), bao gồm cả nhóm quy định về trang bị khi lưu thông. Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông, còn mẹo lái xe an toàn nằm trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Kết luận về quy định mũ bảo hiểm khi đi xe
 

@@ -50,6 +50,6 @@ Thói quen thứ nhất là bóp côn dứt khoát: kéo hết khi vào số, th
 
 Thói quen thứ ba là nghe xe: mỗi khi vào số thấy nặng hơn tuần trước là nên kiểm ngay, không đợi đến lúc tiếng kêu rõ. Dây côn là phần không tốn mấy trong hệ thống truyền lực, nhưng để hỏng lan sang bố côn thì chi phí và thời gian đều lên một tầng.
 
-Bạn có thể xem thêm các hạng mục bảo dưỡng theo kỳ trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), đặc điểm dòng xe số trong trang [xe số](/blog/xe-may/xe-so/), tổng quan các dòng xe trong trang [xe máy](/blog/xe-may/), và các kinh nghiệm chạy phố thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các hạng mục bảo dưỡng theo kỳ trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/), đặc điểm dòng xe số trong trang [xe số](/xe-may/xe-so/), tổng quan các dòng xe trong trang [xe máy](/xe-may/), và các kinh nghiệm chạy phố thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, dây côn xe số cần chỉnh khi ba dấu hiệu xuất hiện: độ rỗng tay côn đổi, tiếng vào số nặng, và cảm giác giật khi thả côn. Kiểm một phút mỗi tuần, nghe xe mỗi khi vào số, và giao phần chỉnh cho người có nghề là cách giữ cho mỗi đèn đỏ ở Hà Nội còn là chỗ nghỉ chân chứ không phải chỗ vật lộn.

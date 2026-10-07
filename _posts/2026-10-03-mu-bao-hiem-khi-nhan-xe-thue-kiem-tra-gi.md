@@ -46,4 +46,4 @@ Với khách chỉ thuê ngắn, thì danh sách bốn bước ở trên đủ �
 
 Khi trả xe, mũ nên được trả lại trong tình trạng như nhận: không cong vành vì kẹp gương, không bẩn vì để dưới gầm, và các phụ kiện còn đủ. Đó là cách giữ cho chiếc mũ phục vụ tốt người thuê tiếp theo, cũng như bạn sẽ được nhận một chiếc mũ tốt từ người trước.
 
-Trước khi rời cửa hàng, người thuê cũng nên xem lại các bước chuẩn bị chung của buổi nhận xe. Trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/) liệt kê đầy đủ các mục cần soát ở hai đầu chuyến thuê, còn ai gặp sự cố trên đường thì xem thêm [xử lý sự cố](/blog/thue-xe/su-co/), và tổng quan toàn quy trình thuê nằm tại [mục thuê xe máy](/blog/thue-xe/) cho người mới bắt đầu tại Hà Nội.
+Trước khi rời cửa hàng, người thuê cũng nên xem lại các bước chuẩn bị chung của buổi nhận xe. Trang [nhận xe và trả xe](/thue-xe/nhan-tra-xe/) liệt kê đầy đủ các mục cần soát ở hai đầu chuyến thuê, còn ai gặp sự cố trên đường thì xem thêm [xử lý sự cố](/thue-xe/su-co/), và tổng quan toàn quy trình thuê nằm tại [mục thuê xe máy](/thue-xe/) cho người mới bắt đầu tại Hà Nội.

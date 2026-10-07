@@ -50,9 +50,9 @@ Cuối cùng là câu hỏi về mũ bảo hiểm cho người ngồi sau. Dù �
 
 ## Xem thêm
 
-- [Thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/)
-- [Cách chọn loại xe khi thuê](/blog/xe-may/chon-loai-xe/)
-- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
+- [Thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/)
+- [Cách chọn loại xe khi thuê](/xe-may/chon-loai-xe/)
+- [Giá thuê xe máy theo ngày](/thue-xe/gia-thue/)
 
 ## Kết luận
 

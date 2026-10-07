@@ -11,7 +11,7 @@ Bài mới viết trong `_drafts/` (không deploy); chỉ promote sang `_posts/`
 - Một H1 duy nhất (layout render). Cấu trúc H2/H3 rõ ràng, đoạn ngắn, danh sách khi hữu ích.
 - Độ dài theo `word_target` của hàng trong ma trận (±15%).
 - Không emoji làm icon chức năng; dùng icon SVG sẵn có khi cần.
-- Link nội bộ: các liên kết trong `internal_links`/`output_path` là đường dẫn gốc-tương-đối của site (không có tiền tố `/blog`). Khi nhúng vào bài phải dùng bộ lọc Liquid `relative_url` (ví dụ `{{ '/thue-xe/' | relative_url }}` ra `/blog/thue-xe/`). Không hardcode `/blog` hai lần, không dùng URL tuyệt đối nội bộ.
+- Link nội bộ: các liên kết trong `internal_links`/`output_path` là đường dẫn gốc-tương-đối của site (không có tiền tố `/blog`). Khi nhúng vào bài phải dùng bộ lọc Liquid `relative_url` (ví dụ `{{ '/thue-xe/' | relative_url }}` ra `/thue-xe/`). Không hardcode `/blog` hai lần, không dùng URL tuyệt đối nội bộ.
 
 ## Dữ liệu kinh doanh (business facts)
 

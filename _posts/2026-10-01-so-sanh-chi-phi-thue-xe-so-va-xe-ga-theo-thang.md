@@ -19,13 +19,13 @@ So sánh chi phí thuê xe số và xe ga theo tháng không thể chỉ nhìn v
 
 Khoản thứ nhất và rõ nhất là tiền thuê theo tháng. Khoản thứ hai là nhiên liệu, phụ thuộc quỹ đường mỗi ngày của khách hơn là dòng xe. Khoản thứ ba là gửi xe: khách đi làm gửi tại tòa nhà, khách đi học gửi trường, khoản này bằng nhau cho cả hai dòng. Khoản thứ tư là bảo dưỡng giữa kỳ: xe thuê dài hạn thường có thỏa thuận riêng về việc thay nhớt, sửa chữa nhỏ, và đây là khoản hai dòng xe khác nhau rõ nhất. Khoản thứ năm, ít ai nhớ, là chi phí thời gian: xe hỏng giữa tuần mất buổi đi làm cũng là một loại chi phí, và dòng xe có phụ tùng dễ tìm giúp khách quay lại đường nhanh hơn.
 
-Khi liệt kê đủ năm khoản, khách thấy ngay giá thuê niêm yết chỉ là một phần bức tranh. Hai bài viết nền về các dòng xe và giá cho thuê đã có sẵn: khách xem [chọn loại xe](/blog/xe-may/chon-loai-xe/) để nắm đặc điểm từng dòng, và xem [bảng giá](/blog/bang-gia/) để biết mức giá thuê công khai của điểm cho thuê đang tính.
+Khi liệt kê đủ năm khoản, khách thấy ngay giá thuê niêm yết chỉ là một phần bức tranh. Hai bài viết nền về các dòng xe và giá cho thuê đã có sẵn: khách xem [chọn loại xe](/xe-may/chon-loai-xe/) để nắm đặc điểm từng dòng, và xem [bảng giá](/bang-gia/) để biết mức giá thuê công khai của điểm cho thuê đang tính.
 
 ## Thuê xe số rẻ hơn xe ga không: nhìn vào cấu trúc giá
 
 Không có quy luật cứng nào nói xe số luôn rẻ hơn xe ga, nhưng có một cấu trúc thị trường khá ổn định: các dòng xe số phổ thông, máy nhỏ, cấu tạo đơn giản, thường được cho thuê theo tháng ở mức thấp hơn các dòng xe ga cùng tầm, vì giá trị xe thấp hơn và chi phí chủ xe giữ xe cũng thấp hơn. Ngược lại, các dòng xe ga cao cấp, máy lớn, có nhiều phụ kiện điện, thường được cho thuê tháng ở mức cao hơn cùng cấp. Tuy nhiên mức cụ thể phụ thuộc từng điểm cho thuê và tình trạng xe, nên khách lấy con số thật từ bảng giá công khai, không lấy từ lời đồn.
 
-Một điều nữa trong nhóm giá thuê: xe tháng thường có giá ưu đãi hơn tổng giá ngày nhân lên, vì khách thuê liên tục giúp chủ xe đỡ công trao đổi xe. Khách định thuê dài có thể hỏi thẳng giá tháng, giá theo tuần, và giá ngày để thấy rõ phần chênh, thay vì chỉ hỏi giá ngày rồi tự nhân. Hồ sơ, thủ tục và quyền lợi khi thuê dài hạn đã được gom trong trang [thuê xe tháng](/blog/thue-xe/thue-thang/), khách đọc để biết thêm phần đặt cọc và hợp đồng theo tháng.
+Một điều nữa trong nhóm giá thuê: xe tháng thường có giá ưu đãi hơn tổng giá ngày nhân lên, vì khách thuê liên tục giúp chủ xe đỡ công trao đổi xe. Khách định thuê dài có thể hỏi thẳng giá tháng, giá theo tuần, và giá ngày để thấy rõ phần chênh, thay vì chỉ hỏi giá ngày rồi tự nhân. Hồ sơ, thủ tục và quyền lợi khi thuê dài hạn đã được gom trong trang [thuê xe tháng](/thue-xe/thue-thang/), khách đọc để biết thêm phần đặt cọc và hợp đồng theo tháng.
 
 ## Nhiên liệu và bảo dưỡng: hai khoản tạo chênh lệch
 
@@ -41,4 +41,4 @@ Một mẹo nhỏ nữa: khách hỏi giá thuê tháng vào giữa tuần, lúc
 
 Tóm lại, so sánh chi phí thuê xe số và xe ga theo tháng nên làm bằng một bảng năm khoản, lấy số thật từ bảng giá và câu trả lời của chủ xe, thay vì dựa vào lời đồn chung chung. Xe số phổ thông thường nhỉnh về giá thuê và truyền động đơn giản, xe ga nhỉnh về sự tiện thao tác, và phần chênh tiền thuê nhiều khi nhỏ hơn sự chênh về trải nghiệm hằng ngày.
 
-Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Khách định thuê theo tháng cứ gọi hỏi giá cả hai dòng xe số và xe ga, kèm quỹ đường dự kiến, để được tư vấn dòng hợp túi và hợp việc nhất.
+Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Khách định thuê theo tháng cứ gọi hỏi giá cả hai dòng xe số và xe ga, kèm quỹ đường dự kiến, để được tư vấn dòng hợp túi và hợp việc nhất.

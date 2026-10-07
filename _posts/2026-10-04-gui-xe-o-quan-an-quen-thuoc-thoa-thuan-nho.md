@@ -40,6 +40,6 @@ Người ăn trưa đều đặn quanh khu cơ quan cuối cùng có vài quán 
 
 Người đi nhóm đồng nghiệp ăn trưa còn có một thỏa thuận đáng thêm: đỗ xe theo hàng một bên hè thay vì rải trước mặt quán, phần xe gọn không chắn lối khách mới và khi về, cả nhóm rời quán theo thứ tự không phải đỡ dời xe nhau giữa giờ cao điểm. Chỗ quán quen có khi nhỏ, nhưng đỗ kỷ luật thì mười xe vẫn gọn, đỗ tùy tiện thì ba xe đã chật.
 
-Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy đi làm nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi đi đều đặn.
+Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy đi làm nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi đi đều đặn.
 
 Gửi xe quán ăn quen thuộc gói trong bốn thỏa thuận nhỏ: chỗ đỗ rõ, đồ gọn theo người, cách nói sự cố khéo, và quan hệ giữ dài. Bốn việc ấy không mất quá vài phút mỗi mùa, nhưng đổi lại là cả năm ăn trưa không phải nghĩ về xe nữa.

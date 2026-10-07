@@ -48,6 +48,6 @@ Ven cung phía tây có vài điểm phụ nhỏ theo mùa: các đoạn đườ
 
 Quãng về của cung ngắn này thường chỉ cần một mốc nếu có: dừng đổ nước hoặc ăn tối nhẹ quanh trung tâm thị xã, rồi lên đại lộ chạy thẳng. Chiều muộn trục phía tây đông xe về thành phố, người mệt dễ lách tuyến bất cẩn — nếu thấy tay lái nặng, dừng năm phút tại bất kỳ điểm nghỉ ven đường an toàn nào thay vì cố về. Về tới nội đô, né các đoạn phố chặn cuối tuần quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Muốn đọc thêm các chia kiểu nghỉ theo cung ngắn, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; xem thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm các chia kiểu nghỉ theo cung ngắn, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; xem thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Ba mốc nhỏ của cung đền Và không nhằm tiết kiệm thời gian — cung này vốn không thiếu thời gian. Chúng nhằm giữ chất lượng của phần quan trọng nhất: buổi đứng trong sân đền cổ với người còn nguyên sức và đầu còn thanh thản. Nghỉ đúng nhịp, chuyến nửa ngày ngắn gọn ấy sẽ trọn vẹn đúng như dự định.

@@ -35,7 +35,7 @@ Một lưu ý nhỏ về chỗ ngủ giữa núi: khách hỏi trước nhà ngh
 
 ## Đồ dự phòng và những lỗi hay gặp
 
-Danh mục dự phòng tối thiểu cho phần đường núi gồm bộ vá lốp và bơm mini, nước uống dư, đèn pin, áo mưa và một ít tiền lẻ cho các trạm nhỏ. Với xe thuê, trước khi nhận khách thử phanh, xem lốp, nghe động cơ; phát hiện bất thường thì đề nghị đổi xe ngay tại chủ cho, không ôm rủi ro lên đường núi. Ai muốn so cung núi ngắn gần Hà Nội trước khi thử tuyến biên giới có thể đọc chuyến [Núi Trầm chùa Thầy bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/19/nui-tram-chua-thay-bang-xe-may/), và xem tổng quan các tuyến tại trang [cung đường các tỉnh phía Bắc](/blog/cung-duong/cung-duong-pho-bac/).
+Danh mục dự phòng tối thiểu cho phần đường núi gồm bộ vá lốp và bơm mini, nước uống dư, đèn pin, áo mưa và một ít tiền lẻ cho các trạm nhỏ. Với xe thuê, trước khi nhận khách thử phanh, xem lốp, nghe động cơ; phát hiện bất thường thì đề nghị đổi xe ngay tại chủ cho, không ôm rủi ro lên đường núi. Ai muốn so cung núi ngắn gần Hà Nội trước khi thử tuyến biên giới có thể đọc chuyến [Núi Trầm chùa Thầy bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/19/nui-tram-chua-thay-bang-xe-may/), và xem tổng quan các tuyến tại trang [cung đường các tỉnh phía Bắc](/cung-duong/cung-duong-pho-bac/).
 
 Kinh nghiệm chia đồ theo xe cũng đáng nói: mỗi xe mang một phần nước và đồ ăn khô của riêng mình, còn đồ dùng chung như bơm, bộ vá và thuốc cơ bản để trên một xe và ghi nhớ xe nào mang gì. Như này một xe gặp trục trặc cũng không kéo cả nhóm dừng dài, và không ai phải cầm quá nhiều làm nặng xe.
 
@@ -47,4 +47,4 @@ Mưa và sương làm đường núi trơn và mất tầm nhìn; nếu trời x
 
 Về mùa đi, khách theo dõi dự báo thời tiết khu miền tây Nghệ An trước hai đến ba ngày; thấy dấu hiệu mưa lớn kéo dài thì đổi lịch, vì các trục núi miền biên giới dễ ngập đoạn thấp và trượt đoạn dốc. Ngày đẹp trời thì cũng nên khởi hành sớm: sương núi buổi sáng trên quốc lộ 7 làm ướt mặt đường, tầm chín mười giờ đường ráo mới chạy thực sự thoải.
 
-Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để xe được kiểm tra kỹ trước chuyến núi, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/) trước khi chốt lịch.
+Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để xe được kiểm tra kỹ trước chuyến núi, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [cung đường & hành trình](/cung-duong/) trước khi chốt lịch.

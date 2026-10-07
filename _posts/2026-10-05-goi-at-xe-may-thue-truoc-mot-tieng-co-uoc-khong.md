@@ -16,7 +16,7 @@ writer: W1
 
 Chuyến đi phát sinh bất ngờ và bạn chỉ còn khoảng một tiếng để chuẩn bị? Nhiều khách trong tình huống gấp rút chọn cách gọi đặt xe máy thuê gấp ngay trước khi lên đường. Vậy đặt xe máy cuối phút một tiếng trước có kịp không, cần mang gì để nhận xe thật nhanh, và nên xử lý thế nào nếu tạm hết xe trống? Bài viết dưới đây đi qua từng câu hỏi đó một cách thẳng thắn để bạn có kỳ vọng đúng và chuẩn bị đủ.
 
-Trước khi đọc tiếp, bạn có thể xem tổng quan về [dịch vụ cho thuê xe máy](/blog/thue-xe/), [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) và hướng dẫn [thuê xe máy trong ngày](/blog/thue-xe/thue-ngay/) để nắm rõ bối cảnh chung của quy trình thuê.
+Trước khi đọc tiếp, bạn có thể xem tổng quan về [dịch vụ cho thuê xe máy](/thue-xe/), [thủ tục thuê xe máy](/thue-xe/thu-tuc/) và hướng dẫn [thuê xe máy trong ngày](/thue-xe/thue-ngay/) để nắm rõ bối cảnh chung của quy trình thuê.
 
 ## Gọi đặt xe máy thuê gấp một tiếng trước có kịp không
 
@@ -26,13 +26,13 @@ Tuy nhiên cũng có những khung giờ khiến một tiếng trở nên rất 
 
 ## Đặt xe máy cuối phút cần chuẩn bị giấy tờ gì
 
-Giấy tờ là khâu duy nhất bạn hoàn toàn chủ động rút ngắn được. Trước khi ra khỏi nhà, hãy kiểm lại giấy tờ tùy thân, giấy phép lái xe và phương thức [đặt cọc](/blog/thue-xe/dat-coc/) mà tiệm yêu cầu. Nếu tiệm chấp nhận chuyển khoản, bạn nên chuyển trước để khỏi mất thêm phút chờ xác nhận tại quầy. Chuẩn bị sẵn từ trước giúp quỹ thời gian còn lại dành trọn cho việc di chuyển tới điểm nhận xe.
+Giấy tờ là khâu duy nhất bạn hoàn toàn chủ động rút ngắn được. Trước khi ra khỏi nhà, hãy kiểm lại giấy tờ tùy thân, giấy phép lái xe và phương thức [đặt cọc](/thue-xe/dat-coc/) mà tiệm yêu cầu. Nếu tiệm chấp nhận chuyển khoản, bạn nên chuyển trước để khỏi mất thêm phút chờ xác nhận tại quầy. Chuẩn bị sẵn từ trước giúp quỹ thời gian còn lại dành trọn cho việc di chuyển tới điểm nhận xe.
 
 Một số tiệm còn cần thông tin cơ bản như số điện thoại liên hệ hoặc điểm đón dự kiến. Nói rõ địa chỉ cụ thể trong khu vực bạn ở, ví dụ tên đường ở Long Biên hay quận nào của Hà Nội, giúp tiệm tư vấn điểm nhận gần nhất và tiết kiệm thời gian di chuyển của chính bạn. Càng mô tả gọn và rõ, cuộc gọi càng nhanh và hiệu quả.
 
 ## Chọn dòng xe khi đặt xe gấp
 
-Khi đã gấp, đừng quá kén dòng xe. Những dòng xe số phổ thông thường sẵn nhất tại đa số tiệm, dễ lái và thao tác quen tay với gần như ai biết chạy xe máy. Nếu bạn muốn tham khảo cách phân biệt các nhóm xe, bài viết về [cách chọn loại xe](/blog/xe-may/chon-loai-xe/) hoặc so sánh giữa [xe số và xe ga](/blog/xe-may/so-sanh-xe/) sẽ giúp bạn quyết định nhanh hơn.
+Khi đã gấp, đừng quá kén dòng xe. Những dòng xe số phổ thông thường sẵn nhất tại đa số tiệm, dễ lái và thao tác quen tay với gần như ai biết chạy xe máy. Nếu bạn muốn tham khảo cách phân biệt các nhóm xe, bài viết về [cách chọn loại xe](/xe-may/chon-loai-xe/) hoặc so sánh giữa [xe số và xe ga](/xe-may/so-sanh-xe/) sẽ giúp bạn quyết định nhanh hơn.
 
 Ngược lại, nếu chuyến đi của bạn cần một dòng cụ thể như xe tay ga hoặc xe có cốp rộng, hãy nói ngay trong cuộc gọi đầu tiên. Hỏi thẳng dòng xe đó có sẵn hay không giúp bạn sớm biết nên chờ, nên đổi dòng khác, hoặc nên gọi hỏi một địa điểm khác. Tránh đặt khớp rồi mới đổi ý lúc nhận, vì như vậy vừa mất thời gian của bạn vừa làm tiệm khó sắp xếp.
 

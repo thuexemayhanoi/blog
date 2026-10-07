@@ -30,7 +30,7 @@ Vấn đề lớn nhất của buổi đi đêm là chỗ để xe. Khu chợ n�
 
 Mấy điểm đáng nhớ khi gửi xe đêm. Thứ nhất, chọn bãi có người trông đương nhiệm và có đèn sáng: chợ đêm vắng người qua lại sau một giờ khuya, bãi tối vắng dễ bị moi đồ hơn bãi sáng đèn. Thứ hai, chụp lại vị trí và biển nhà cạnh chỗ gửi, vì quanh chợ nhiều đoạn đường na ná nhau, đêm càng khó nhận. Thứ ba, nếu định đi muộn về khuya, hỏi người trông giờ bãi đóng: một số bãi ven đường xem xe theo phiên, vãn chợ là đóng cửa.
 
-Ai hay đi chợ đêm nên làm quen một chỗ trông cố định quanh Quảng Bá và dùng lại, giống cách chọn chỗ gửi xe trong các khu phố cổ. Chỗ quen cho bạn biết giờ đóng, biết giá, và người trông nhớ mặt xe của bạn — ba thứ làm buổi đi đêm đỡ lo nhất. Các lưu ý chung về trông giữ xe hai bánh được gom trong chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn các điểm đến quanh khu này nằm trong chuyên mục [Hồ Tây](/blog/du-lich/ho-tay/).
+Ai hay đi chợ đêm nên làm quen một chỗ trông cố định quanh Quảng Bá và dùng lại, giống cách chọn chỗ gửi xe trong các khu phố cổ. Chỗ quen cho bạn biết giờ đóng, biết giá, và người trông nhớ mặt xe của bạn — ba thứ làm buổi đi đêm đỡ lo nhất. Các lưu ý chung về trông giữ xe hai bánh được gom trong chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn các điểm đến quanh khu này nằm trong chuyên mục [Hồ Tây](/du-lich/ho-tay/).
 
 ## Đường đi bằng xe máy: chạy hướng nào cho dễ
 
@@ -38,12 +38,12 @@ Hướng vào chợ phụ thuộc điểm xuất phát. Từ bờ bắc sông H�
 
 Về tốc độ, khung giờ chợ họp cũng là giờ người làng hoa chở hàng ra vào liên tục: xe ba gác chở chậu, xe máy chở bó hoa cao hơn đầu, đều chạy chậm và ra vào bất ngờ từ các ngõ. Lời khuyên là giữ khoảng cách với các xe chở hoa, không bám sát, và không vượt trong đoạn gần chợ — một lần vượt nhầm giữa dòng xe chở hàng có thể làm rớt cả bó hoa của người khác.
 
-Ra về lúc khuya, nhớ rằng một số đoạn Âu Cơ đổi chiều ban đêm hoặc có rào chắn phân làn: nhìn lại biển báo trước khi rẽ, và nếu đường về khác đường vào thì cứ chạy theo biển, đừng quay đầu giữa lòng đường. Người mới chạy xe máy trong nội đô buổi tối nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi đi.
+Ra về lúc khuya, nhớ rằng một số đoạn Âu Cơ đổi chiều ban đêm hoặc có rào chắn phân làn: nhìn lại biển báo trước khi rẽ, và nếu đường về khác đường vào thì cứ chạy theo biển, đừng quay đầu giữa lòng đường. Người mới chạy xe máy trong nội đô buổi tối nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước buổi đi.
 
 ## Chuẩn bị nhỏ cho buổi chợ đêm
 
 Trang phục đơn giản, túi nhẹ và điện thoại đủ pin là ba thứ đáng mang. Trời Hà Nội mùa thu đông về đêm se lạnh, có sương, nên có áo khoác mỏng; giày bệt để đứng lân la các sạp và đi bộ từ chỗ gửi xe. Ai định mua hoa về thì nhớ cách chở: bó hoa cao nên buộc nghiêng về phía trước xe, tránh bị gió đêm làm bung lá, và không chở ngang qua vai vì dễ vấp người đi đường.
 
-Cuối cùng là cách xếp buổi đi: chợ hoa đêm hợp để ghép sau một buổi lễ ở Phủ Tây Hồ hoặc một vòng ven hồ, cùng nằm trên trục Âu Cơ. Ăn tối quanh khu Quảng Bá trước khi vào chợ cũng là nhịp hay: chợ đêm nhìn đẹp nhất khi đi không vội. Muốn mở rộng thêm, xem mục [điểm đến Hà Nội](/blog/du-lich/diem-den/) hoặc theo dõi trang [du lịch](/blog/du-lich/) để đọc thêm các lộ trình đêm bằng xe máy quanh thành phố.
+Cuối cùng là cách xếp buổi đi: chợ hoa đêm hợp để ghép sau một buổi lễ ở Phủ Tây Hồ hoặc một vòng ven hồ, cùng nằm trên trục Âu Cơ. Ăn tối quanh khu Quảng Bá trước khi vào chợ cũng là nhịp hay: chợ đêm nhìn đẹp nhất khi đi không vội. Muốn mở rộng thêm, xem mục [điểm đến Hà Nội](/du-lich/diem-den/) hoặc theo dõi trang [du lịch](/du-lich/) để đọc thêm các lộ trình đêm bằng xe máy quanh thành phố.
 
 Ai cần xe máy cho buổi đi này có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, tiện lấy xe chiều rồi chạy thẳng lên chợ hoa Quảng Bá.

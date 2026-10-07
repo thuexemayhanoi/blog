@@ -38,7 +38,7 @@ Những quy tắc này áp dụng như nhau cho xe số, xe ga và xe máy đi�
 - Chỉ đi khi pin đủ cho toàn bộ hành trình hoặc đã biết rõ điểm sạc ở đích.
 - Hỏi trước chủ xe về quãng đường thực tế của chiếc xe mình thuê, vì mỗi dòng xe máy điện có mức pin khác nhau.
 
-Nếu bạn còn lạ với việc dùng xe điện hàng ngày, bài [thuê xe máy điện ở Hà Nội cần biết gì](/blog/xe-may/xe-dien/) tổng hợp các lưu ý cơ bản trước khi nhận xe.
+Nếu bạn còn lạ với việc dùng xe điện hàng ngày, bài [thuê xe máy điện ở Hà Nội cần biết gì](/xe-may/xe-dien/) tổng hợp các lưu ý cơ bản trước khi nhận xe.
 
 ### 2. Bảo vệ cụm pin và ổ sạc khi lên xuống phà
 
@@ -63,7 +63,7 @@ Vì xe là xe thuê, ngoài chuyện qua phà bạn cần chốt vài điều v�
 - Điều khoản khi xe hết pin giữa đường hoặc hỏng cụm pin do ngấm nước.
 - Có xe dự phòng dòng xăng nếu kế hoạch thay đổi đột xuất không.
 
-Những câu này thuộc nhóm thủ tục thuê xe, bạn có thể xem trước phần [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) để không bỏ sót khi đứng ở cửa hàng. Với giá thuê xe máy điện, hiện tại cần liên hệ trực tiếp để xác nhận theo tình trạng xe và thời gian thuê.
+Những câu này thuộc nhóm thủ tục thuê xe, bạn có thể xem trước phần [thủ tục thuê xe máy](/thue-xe/thu-tuc/) để không bỏ sót khi đứng ở cửa hàng. Với giá thuê xe máy điện, hiện tại cần liên hệ trực tiếp để xác nhận theo tình trạng xe và thời gian thuê.
 
 ## Trường hợp nào không nên đưa xe 
 điện thuê qua phà
@@ -79,4 +79,4 @@ Trong các trường hợp đó, thuê xe số hoặc xe ga cho chuyến đi xa 
 
 ## Kết luận
 
-Xe điện thuê qua phà được không? Được, miễn là pin đủ cho cả hành trình, cụm pin tránh nước và bạn đã chốt trước điều khoản đi xa với bên cho thuê. Phà chỉ là một đoạn ngắn trong chuyến đi, thứ quyết định an toàn của bạn là kế hoạch pin cho toàn bộ lộ trình. Trước khi nhận xe, hãy liên hệ cửa hàng theo số 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00 để xác nhận dòng xe phù hợp với lộ trình qua phà của bạn. Tham khảo thêm tổng quan các dòng [xe máy](/blog/xe-may/) và trang [liên hệ](/blog/lien-he/) khi cần tư vấn nhanh.
+Xe điện thuê qua phà được không? Được, miễn là pin đủ cho cả hành trình, cụm pin tránh nước và bạn đã chốt trước điều khoản đi xa với bên cho thuê. Phà chỉ là một đoạn ngắn trong chuyến đi, thứ quyết định an toàn của bạn là kế hoạch pin cho toàn bộ lộ trình. Trước khi nhận xe, hãy liên hệ cửa hàng theo số 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00 để xác nhận dòng xe phù hợp với lộ trình qua phà của bạn. Tham khảo thêm tổng quan các dòng [xe máy](/xe-may/) và trang [liên hệ](/lien-he/) khi cần tư vấn nhanh.

@@ -37,17 +37,17 @@ Cuối tuần, bãi xe và không gian quanh chân thác đông từ khung giữ
 
 ## Chuẩn bị xe cho phần đường dốc
 
-Kiểm tra xe trước chuyến nghiêm túc hơn các cung đồng bằng: lốp căng đúng, phanh ăn tốt cả trước lẫn sau, đèn sáng, và dây xích nếu chạy xe số. Đường về thác có dốc dài và cua khép, phanh là thứ bạn dùng nhiều nhất trong đoạn cuối. Người đi bằng xe máy thuê nên nói rõ với cửa hàng chuyến đi Hòa Bình trong ngày, để nhận xe phù hợp; phần chọn dòng xe cho từng cung được tách trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), thông tin dịch vụ nằm ở trang [cho thuê xe máy](/blog/thue-xe/).
+Kiểm tra xe trước chuyến nghiêm túc hơn các cung đồng bằng: lốp căng đúng, phanh ăn tốt cả trước lẫn sau, đèn sáng, và dây xích nếu chạy xe số. Đường về thác có dốc dài và cua khép, phanh là thứ bạn dùng nhiều nhất trong đoạn cuối. Người đi bằng xe máy thuê nên nói rõ với cửa hàng chuyến đi Hòa Bình trong ngày, để nhận xe phù hợp; phần chọn dòng xe cho từng cung được tách trong bài [chọn loại xe](/xe-may/chon-loai-xe/), thông tin dịch vụ nằm ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ mang theo nên gọn nhưng đủ: áo gió, áo mưa gấp, giày có độ bám, ít tiền lẻ cho trông xe, và nước. Vùng thác mát hơn đồng bằng, nhất là lúc đứng gần nước, nên áo gió đáng mang hơn tưởng. Cách xếp đồ trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), bạn nên đọc trước khi gói đồ.
+Đồ mang theo nên gọn nhưng đủ: áo gió, áo mưa gấp, giày có độ bám, ít tiền lẻ cho trông xe, và nước. Vùng thác mát hơn đồng bằng, nhất là lúc đứng gần nước, nên áo gió đáng mang hơn tưởng. Cách xếp đồ trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), bạn nên đọc trước khi gói đồ.
 
-Giấy tờ mang đủ bản gốc. Quốc lộ sáu có chốt kiểm tra định kỳ, và phần đường về thác đôi lúc cũng có điểm soát xe tại khu du lịch. Các quy định khi chạy đường trường được gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ.
+Giấy tờ mang đủ bản gốc. Quốc lộ sáu có chốt kiểm tra định kỳ, và phần đường về thác đôi lúc cũng có điểm soát xe tại khu du lịch. Các quy định khi chạy đường trường được gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ.
 
 ## Những đoạn cần chậm lại
 
 Điểm số một là khúc rẽ từ quốc lộ sáu vào đường về thác. Nút rẽ nằm trong khu đông nhà cửa, ô tô địa phương ra vào bất ngờ, nên giảm tốc từ trước, nhìn gương sớm và tránh rẽ sát góc khuất. Điểm số hai là phần dốc dài gần cuối: giữ số thấp, đều ga, và không bóp phanh liên tục khiến má phanh nóng.
 
-Điểm số ba là đường quanh thác khi ẩm. Về chiều, sương vùng thác đọng sớm, mặt đường quanh cua ẩm nhanh, tầm nhìn hẹp. Nếu chụp ảnh, hoàn tất trước khung chạng vạng, và phần xử lý đường sá theo mùa được tách trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), nên đọc nếu bạn đi vào mùa mưa.
+Điểm số ba là đường quanh thác khi ẩm. Về chiều, sương vùng thác đọng sớm, mặt đường quanh cua ẩm nhanh, tầm nhìn hẹp. Nếu chụp ảnh, hoàn tất trước khung chạng vạng, và phần xử lý đường sá theo mùa được tách trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), nên đọc nếu bạn đi vào mùa mưa.
 
 Ở khu vực chân thác, bãi đỗ nhiều khi là nền đất nén gần mép dốc. Chống xe chắc, nghiêng về phía dốc, thử đẩy nhẹ trước khi đi khỏi, và không đỗ sát mép đất sụt. Trẻ con quanh khu này rất đông, nên đẩy xe ra khỏi bãi luôn đi bộ dẫn xe là thói quen an toàn.
 
@@ -55,4 +55,4 @@ Giấy tờ mang đủ bản gốc. Quốc lộ sáu có chốt kiểm tra đị
 
 Thác Bồ hợp lịch một ngày: sáng lên thác, trưa ăn nhẹ quanh khu vực, chiều về Hà Nội trước tối. Nếu bạn định ở lại qua trưa, một chỗ ngồi dưới bóng cây gần chân thác đáng giá hơn mọi lịch trình gấp gáp, vì tiếng nước và cái mát vùng núi chính là thứ người ta chạy năm mươi ki-lô-mét tới tìm. Ai đi theo nhóm đông nên chia trước phần ai mang đồ ăn, ai lo nước, để tránh cảnh tới nơi mới phát hiện thiếu thứ này thiếu thứ kia giữa vùng quán xá thưa. Ai muốn ở lại có các khu nghỉ quanh vùng, nhưng phần lớn người đi chọn về trong ngày vì cung đường ngắn. Ăn uống nên tự chuẩn bị một phần, vì hàng quán quanh thác thưa và cuối tuần đông chờ.
 
-Nếu bạn muốn nối chuỗi cung đường Hòa Bình, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm, và nên khởi động bằng các vòng [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) nếu tay lái còn mới. Cung đường Hà Nội đi Thác Bồ bằng xe máy dài vừa, đẹp đúng chỗ, và đủ thử thách nhẹ để một chuyến trưa Chủ nhật trở thành kỷ niệm.
+Nếu bạn muốn nối chuỗi cung đường Hòa Bình, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm, và nên khởi động bằng các vòng [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) nếu tay lái còn mới. Cung đường Hà Nội đi Thác Bồ bằng xe máy dài vừa, đẹp đúng chỗ, và đủ thử thách nhẹ để một chuyến trưa Chủ nhật trở thành kỷ niệm.

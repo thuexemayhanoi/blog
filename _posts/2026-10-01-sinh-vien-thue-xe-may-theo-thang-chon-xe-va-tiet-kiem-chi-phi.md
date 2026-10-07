@@ -17,15 +17,15 @@ Sinh viên thuê xe máy theo tháng là nhóm khách có nhu cầu khác hẳn 
 
 ## Sinh viên thuê xe máy theo tháng: chọn xe bền, tiết kiệm, dễ sửa
 
-Với sinh viên thuê xe máy theo tháng, ba tiêu chí đứng đầu là máy khỏe vừa sức, ăn xăng ít, và phụ tùng dễ tìm. Xe số phổ thông là lựa chọn phổ biến: máy đơn giản, mỗi tiệm sửa quanh khu trọ đều quen, và khi có trục trặc nhỏ thì sửa nhanh không phải chờ phụ tùng hãng. Xe ga tiện cho việc đi lại trong phố, nhưng khách cân nhắc thêm hai phần: chi phí bảo dưỡng định kỳ của xe ga và độ bền dây curoa nếu lịch chạy nhiều. Các cân nhắc chọn loại xe theo nhu cầu đã được nói trong bài [chọn loại xe hợp hành trình](/blog/xe-may/chon-loai-xe/), sinh viên đọc trước khi quyết định.
+Với sinh viên thuê xe máy theo tháng, ba tiêu chí đứng đầu là máy khỏe vừa sức, ăn xăng ít, và phụ tùng dễ tìm. Xe số phổ thông là lựa chọn phổ biến: máy đơn giản, mỗi tiệm sửa quanh khu trọ đều quen, và khi có trục trặc nhỏ thì sửa nhanh không phải chờ phụ tùng hãng. Xe ga tiện cho việc đi lại trong phố, nhưng khách cân nhắc thêm hai phần: chi phí bảo dưỡng định kỳ của xe ga và độ bền dây curoa nếu lịch chạy nhiều. Các cân nhắc chọn loại xe theo nhu cầu đã được nói trong bài [chọn loại xe hợp hành trình](/xe-may/chon-loai-xe/), sinh viên đọc trước khi quyết định.
 
 Một chi tiết hay bỏ qua là chiều cao yên và trọng lượng xe. Sinh viên đi lại giữa các khu ký túc, trường học và việc làm thêm, mỗi ngày lên xuống xe nhiều lần, nên yên vừa ngồi và xe nhẹ dễ đẩy vào khuôn viên cũng là một khoản tiết kiệm thật: bớt mỏi chân, bớt xước xe khi lùi ra khỏi chỗ để xe chật.
 
 ## Hợp đồng tháng cần ghi rõ điều gì
 
-Hợp đồng thuê tháng nên ghi rõ bốn nhóm điều khoản. Một, thời hạn và cách tính gia hạn, kể cả trường hợp sinh viên về quê vài tuần giữa kỳ. Hai, phần trách nhiệm khi xe hỏng: hỏng gì chủ xe sửa, hỏng gì người thuê chịu, ghi thẳng để khỏi cãi lúc sự cố xảy ra. Ba, giấy tờ đi kèm xe và giấy tờ người thuê đặt lại, thường là thẻ sinh viên hoặc căn cước. Bốn, cách liên hệ khi cần hỗ trợ giữa tháng. Khách xem thêm các thủ tục chung khi nhận và trả xe ở trang [thuê theo tháng](/blog/thue-xe/thue-thang/), nơi gom các thỏa thuận phổ biến của gói này.
+Hợp đồng thuê tháng nên ghi rõ bốn nhóm điều khoản. Một, thời hạn và cách tính gia hạn, kể cả trường hợp sinh viên về quê vài tuần giữa kỳ. Hai, phần trách nhiệm khi xe hỏng: hỏng gì chủ xe sửa, hỏng gì người thuê chịu, ghi thẳng để khỏi cãi lúc sự cố xảy ra. Ba, giấy tờ đi kèm xe và giấy tờ người thuê đặt lại, thường là thẻ sinh viên hoặc căn cước. Bốn, cách liên hệ khi cần hỗ trợ giữa tháng. Khách xem thêm các thủ tục chung khi nhận và trả xe ở trang [thuê theo tháng](/thue-xe/thue-thang/), nơi gom các thỏa thuận phổ biến của gói này.
 
-Với khoản tiền, sinh viên nên hỏi kỹ giá thuê tháng đã gồm những gì và chưa gồm những gì, thay vì chỉ so con số niêm yết. Một gói rẻ hơn nhưng không gồm bảo dưỡng có khi đắt hơn gói cao hơn một chút nhưng chủ xe lo phần bảo trì, vì mỗi lần hỏng nhỏ giữa tháng đều thành chi phí nằm ngoài dự tính của sinh viên. Tham khảo bảng giá các gói tại trang [bảng giá](/blog/bang-gia/) để so trước khi gọi.
+Với khoản tiền, sinh viên nên hỏi kỹ giá thuê tháng đã gồm những gì và chưa gồm những gì, thay vì chỉ so con số niêm yết. Một gói rẻ hơn nhưng không gồm bảo dưỡng có khi đắt hơn gói cao hơn một chút nhưng chủ xe lo phần bảo trì, vì mỗi lần hỏng nhỏ giữa tháng đều thành chi phí nằm ngoài dự tính của sinh viên. Tham khảo bảng giá các gói tại trang [bảng giá](/bang-gia/) để so trước khi gọi.
 
 ## Giữ xe ở trọ và khuôn viên trường
 
@@ -41,4 +41,4 @@ Với xe thuê, mọi tiếng lạ đều đáng một cuộc gọi cho chủ xe
 
 Xăng cũng là khoản sinh viên tính được: đổ đầy ở một trạm quen, tránh để cạn sấy bình, và tránh mua xăng lẻ dọc vỉa hè vì lượng thiếu chuẩn làm máy vẫn hụt. Cuối cùng là phần chia xe với bạn cùng phòng, nếu cả hai đều có nhu cầu: khách hỏi chủ xe trước, vì các hợp đồng tháng thường quy định người lái ghi danh.
 
-Chia xe đúng cách giúp cả hai bớt một phần chi phí và giữ xe khỏe hơn nhờ hai người cùng để mắt tới bảo dưỡng. Cuối cùng, sinh viên cần thuê xe máy theo tháng tại Hà Nội liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Thuê tháng là mối quan hệ dài, và sinh viên giữ được xe đẹp thì kỳ sau vẫn dễ nhận được xe tốt.
+Chia xe đúng cách giúp cả hai bớt một phần chi phí và giữ xe khỏe hơn nhờ hai người cùng để mắt tới bảo dưỡng. Cuối cùng, sinh viên cần thuê xe máy theo tháng tại Hà Nội liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Thuê tháng là mối quan hệ dài, và sinh viên giữ được xe đẹp thì kỳ sau vẫn dễ nhận được xe tốt.

@@ -43,7 +43,7 @@ Một hiểu lầm phổ biến là xe máy được phép luồn giữa hai là
 
 ## Người thuê xe cần lưu ý
 
-Khi nhận xe thuê, hãy chạy thử vài cây số trên đường vắng để quen phản ứng ga và phanh trước khi vào đường đông. Trên đường, giữ khoảng cách với xe phía trước, tuân thủ vạch và không cố luồn khi dòng xe dồn ứ. Thói quen đi đúng làn không chỉ giúp tránh bị xử phạt mà còn giảm nguy cơ va chạm. Nhóm bài về [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/) giải nghĩa từng loại biển thường gặp, còn tổng hợp các quy định hiện hành nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông dành cho người đi xe máy, còn mẹo lái xe thực dụng được tổng hợp trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Khi nhận xe thuê, hãy chạy thử vài cây số trên đường vắng để quen phản ứng ga và phanh trước khi vào đường đông. Trên đường, giữ khoảng cách với xe phía trước, tuân thủ vạch và không cố luồn khi dòng xe dồn ứ. Thói quen đi đúng làn không chỉ giúp tránh bị xử phạt mà còn giảm nguy cơ va chạm. Nhóm bài về [biển báo giao thông](/an-toan-phap-ly/bien-bao/) giải nghĩa từng loại biển thường gặp, còn tổng hợp các quy định hiện hành nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông dành cho người đi xe máy, còn mẹo lái xe thực dụng được tổng hợp trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Kết luận về vạch kẻ đường
 

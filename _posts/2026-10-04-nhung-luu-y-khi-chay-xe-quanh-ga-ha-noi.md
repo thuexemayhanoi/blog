@@ -35,7 +35,7 @@ Nếu đón người, hẹn trước đầu phố nhỏ cạnh ga và gọi đi�
 
 Về kỹ năng, có bốn điểm đáng nhớ nhất. Một là giữ khoảng cách với taxi và xe ôm, vì họ giảm tốc và tấp vào lề rất bất ngờ. Hai là quan sát người kéo vali băng ngang, họ thường vội và ít chú ý xe phía sau. Ba là không dừng đỗ ngay đầu lối vào ga, chỗ này dễ bị xử phạt và gây tắc kéo dài. Bốn là bật xi nhan sớm khi rẽ vào phố nhỏ, vì xe phía sau thường đi khá sát.
 
-Ngoài ra, hãy đội mũ bảo hiểm cài quai đúng chuẩn và mang theo đầy đủ giấy tờ, vì khu quanh ga thuộc diện được kiểm tra thường xuyên. Phần lớn các va chạm nhẹ ở khu đông đều xuất phát từ việc đi quá sát, nên khẩu quyết ở đây là chủ động nhường trước. Bạn cũng có thể tham khảo thêm phần [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để rèn phản xạ xử lý trong các tình huống dồn xe dày đặc.
+Ngoài ra, hãy đội mũ bảo hiểm cài quai đúng chuẩn và mang theo đầy đủ giấy tờ, vì khu quanh ga thuộc diện được kiểm tra thường xuyên. Phần lớn các va chạm nhẹ ở khu đông đều xuất phát từ việc đi quá sát, nên khẩu quyết ở đây là chủ động nhường trước. Bạn cũng có thể tham khảo thêm phần [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để rèn phản xạ xử lý trong các tình huống dồn xe dày đặc.
 
 ## Gửi xe và dừng đỗ hợp lệ
 
@@ -43,6 +43,6 @@ Nếu cần vào ga, hãy dùng bãi gửi xe trong khuôn viên nhà ga hoặc 
 
 ## Kết hợp đi thêm quanh khu
 
-Khu ga gần trung tâm nên bạn dễ nối sang [phố cổ](/blog/du-lich/pho-co/) hay các [điểm đến du lịch](/blog/du-lich/diem-den/) khác trong chuyên mục [du lịch](/blog/du-lich/). Nếu đang tìm hiểu thêm về việc đi lại bằng xe máy trong thành phố, mục [kinh nghiệm](/blog/kinh-nghiem/) có nhiều bài viết hữu ích cho người mới. Ai cần xe gọn cho buổi đi ga cũng có thể xem qua dịch vụ [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) để chủ động giờ giấc.
+Khu ga gần trung tâm nên bạn dễ nối sang [phố cổ](/du-lich/pho-co/) hay các [điểm đến du lịch](/du-lich/diem-den/) khác trong chuyên mục [du lịch](/du-lich/). Nếu đang tìm hiểu thêm về việc đi lại bằng xe máy trong thành phố, mục [kinh nghiệm](/kinh-nghiem/) có nhiều bài viết hữu ích cho người mới. Ai cần xe gọn cho buổi đi ga cũng có thể xem qua dịch vụ [thuê xe máy theo ngày](/thue-xe/thue-ngay/) để chủ động giờ giấc.
 
 Tóm lại, chạy xe quanh Ga Hà Nội không khó nếu bạn đi chậm, giữ khoảng cách và nắm trước các phố một chiều quanh khu. Tránh khung cao điểm khi có thể, hẹn đón ở chỗ hợp lệ, gửi xe ở bãi có người trông giữ, buổi đi dù đón tiễn hay đi tàu sẽ đều nhẹ nhàng hơn nhiều giữa lòng Hà Nội.

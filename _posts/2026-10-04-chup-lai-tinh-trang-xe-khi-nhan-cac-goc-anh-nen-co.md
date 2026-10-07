@@ -46,7 +46,7 @@ Lưu bộ ảnh vào một album riêng, hoặc nhắn cho chính mình trong m�
 
 Cũng đáng gửi một tấm hoặc cả bộ cho người cho thuê ngay lúc nhận. Khi hai bên cùng giữ chung một bộ ảnh, không bên nào có thể khai báo khác đi về sau. Đây là thói quen mất chưa đến một phút nhưng cản được phần lớn các câu chuyện kéo dài lúc trả xe.
 
-Trước ngày nhận xe, bạn có thể xem lại các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), phần việc cần làm lúc nhận và lúc trả gom trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Trước ngày nhận xe, bạn có thể xem lại các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), phần việc cần làm lúc nhận và lúc trả gom trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, một bộ ảnh chụp đúng lúc nhận gồm hai tấm toàn thân, hai tấm đầu đuôi, một tấm đồng hồ, vài tấm chi tiết và một vòng video ngắn, tổng thời gian chưa đến hai phút. Hai phút đó là ranh giới giữa một buổi trả xe nhẹ nhàng và một buổi chiều ngồi giải thích vì sao vết trầy trên hông xe không phải do mình.
 

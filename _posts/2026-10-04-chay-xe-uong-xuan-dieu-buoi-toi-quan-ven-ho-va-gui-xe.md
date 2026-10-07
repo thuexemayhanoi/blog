@@ -36,7 +36,7 @@ Khi đặt xe, bạn cũng nên để ý lối ra vào của quán. Nhiều quá
 
 Nếu bạn có thời gian, đừng chạy một mạch từ đầu này sang đầu kia. Xuân Diệu có vài góc dừng được: bậc thềm kè ven hồ, một số đoạn có ghế đá và những ngách nhỏ nhìn thẳng ra mặt hồ. Buổi tối mặt hồ tối màu, phản chiếu đèn của các quán bên kia bờ, ngồi lại mười lăm phút cũng thấy đáng.
 
-Gần khu vực này còn có chùa Vạn Niên nằm ven hồ, một điểm dừng yên tĩnh trên cùng tuyến đường, và bên kia đường Thanh Niên là hồ Trúc Bạch nhỏ nhắn. Nếu muốn nối dài lộ trình quanh vùng hồ, bạn có thể xem thêm bài [đến hồ Trúc Bạch bằng xe máy](/blog/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/). Tổng quan về các điểm chơi quanh bờ hồ thì tham khảo [hồ Tây lân cận](/blog/du-lich/ho-tay/), còn những kinh nghiệm chạy xe trong thành phố vào buổi tối được gom trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Gần khu vực này còn có chùa Vạn Niên nằm ven hồ, một điểm dừng yên tĩnh trên cùng tuyến đường, và bên kia đường Thanh Niên là hồ Trúc Bạch nhỏ nhắn. Nếu muốn nối dài lộ trình quanh vùng hồ, bạn có thể xem thêm bài [đến hồ Trúc Bạch bằng xe máy](/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/). Tổng quan về các điểm chơi quanh bờ hồ thì tham khảo [hồ Tây lân cận](/du-lich/ho-tay/), còn những kinh nghiệm chạy xe trong thành phố vào buổi tối được gom trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Đầu phía nam của Xuân Diệu nối sang khu Quảng An còn nhiều ngách nhỏ dẫn ra bờ hồ, chỗ dân địa phương hay đi. Buổi tối các ngách này đèn mờ, bạn hãy đi chậm và không rẽ vào nơi quá hẹp.
 
@@ -54,6 +54,6 @@ Một lịch trình gợi ý: khởi hành sau bảy giờ tối, chạy một v
 
 Với nhóm đông bạn, hãy đặt trước chỗ ở quán có sân rộng để gom xe một chỗ cho dễ trông. Nếu có người chưa quen đường, chạy hàng một, giữ khoảng cách ba xe và hẹn trước điểm tập trung cụ thể.
 
-Còn nếu bạn đi một mình, nên báo trước cho người quen tuyến đường và thời gian dự kiến về. Không quá quan trọng, nhưng giữ thói quen này giúp mọi người yên tâm hơn. Nếu cần thêm ý tưởng phối hợp nhiều điểm ven hồ trong một tối, bạn có thể đọc thêm các bài viết trong mục [du lịch](/blog/du-lich/), nơi tổng hợp nhiều gợi ý lộ trình trong ngày và buổi tối quanh Hà Nội.
+Còn nếu bạn đi một mình, nên báo trước cho người quen tuyến đường và thời gian dự kiến về. Không quá quan trọng, nhưng giữ thói quen này giúp mọi người yên tâm hơn. Nếu cần thêm ý tưởng phối hợp nhiều điểm ven hồ trong một tối, bạn có thể đọc thêm các bài viết trong mục [du lịch](/du-lich/), nơi tổng hợp nhiều gợi ý lộ trình trong ngày và buổi tối quanh Hà Nội.
 
 Chạy xe đường Xuân Diệu buổi tối không đòi hỏi kỹ năng cao, chỉ cần bạn đi chậm, để ý xe đậu và gửi xe đúng chỗ. Với khách thuê xe máy ở Hà Nội, tuyến đường này là một trong những nơi dễ đi và dễ tổ chức buổi tối nhất trong khuôn khổ nội thành, xứng đáng để ghé ít nhất một lần trong chuyến đi của bạn.

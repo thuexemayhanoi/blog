@@ -16,7 +16,7 @@ writer: W1
 
 Cùng một lịch trình di chuyển quanh Hà Nội, chi phí xe máy thuê và taxi nội thành chênh nhau rất nhiều tùy cách bạn đi: người đi ít chuyến, quãng ngắn thì taxi tiện và không cần lo gì, còn người đi nhiều điểm mỗi ngày thì xe máy thuê gần như luôn rẻ hơn. Câu hỏi thuê xe hay đi taxi rẻ hơn vì vậy không có đáp số cố định, mà phụ thuộc vào số chuyến, khoảng cách và thời điểm trong ngày. Bài viết này cho bạn một khung tính đơn giản để tự so với lịch trình cụ thể, cùng những chi phí ẩn mà nhiều người bỏ quên khi so sánh.
 
-Nếu bạn đang so cả các phương án xe khác nhau, phần [so sánh xe](/blog/xe-may/so-sanh-xe/) và trang tổng quan [xe máy](/blog/xe-may/) có thêm thông tin tham khảo.
+Nếu bạn đang so cả các phương án xe khác nhau, phần [so sánh xe](/xe-may/so-sanh-xe/) và trang tổng quan [xe máy](/xe-may/) có thêm thông tin tham khảo.
 
 ## Khi nào thuê xe hay đi taxi rẻ hơn: khung tính theo số chuyến mỗi ngày
 
@@ -36,7 +36,7 @@ Ngược lại, taxi có những lợi thế không quy ra tiền ở một số
 
 Xe máy thuê cũng có phần chi phí không nằm trên giá niêm yết. Thứ nhất là xăng: bạn tự đổ trong chuyến, và giá này tăng dần theo số ki-lô-mét. Thứ hai là phí gửi xe ở những điểm như bệnh viện, trung tâm thương mại hay phố bộ hành, món tiền lẻ cộng lại cả ngày không phải con số không. Thứ ba là thời gian tìm chỗ đỗ và rủi ro trộm cắp nếu đỗ ngoài trời qua đêm, và nếu có sự cố giữa đường, chi phí xử lý nằm ở khoảng xám giữa bạn và chủ xe tùy hợp đồng.
 
-Bù lại, xe máy cho bạn tuyến đường tự do: rẽ hẻ, đi tắt, dừng bất cứ lúc nào, và ở Hà Nội đây là quyền tự do đáng giá, đặc biệt với người đi nhiều điểm trong ngày. Kinh nghiệm thuê và nhận xe chi tiết nằm trong trang [thuê xe máy](/blog/thue-xe/), nơi bạn cũng tìm thấy các lưu ý về đặt cọc và thủ tục.
+Bù lại, xe máy cho bạn tuyến đường tự do: rẽ hẻ, đi tắt, dừng bất cứ lúc nào, và ở Hà Nội đây là quyền tự do đáng giá, đặc biệt với người đi nhiều điểm trong ngày. Kinh nghiệm thuê và nhận xe chi tiết nằm trong trang [thuê xe máy](/thue-xe/), nơi bạn cũng tìm thấy các lưu ý về đặt cọc và thủ tục.
 
 ## Nên chọn phương án nào theo từng tình huống
 

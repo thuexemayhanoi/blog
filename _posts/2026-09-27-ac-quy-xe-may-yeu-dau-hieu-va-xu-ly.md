@@ -60,7 +60,7 @@ Trên thị trường có hai nhóm chính. Ổn áp kiềm không cần bảo d
 - Đo điện áp định kỳ ở thợ nếu xe trên 2 năm tuổi.
 - Khi thay, chọn đúng loại và dung tích ghi trên vỏ ắc quy cũ, không nâng dung lượng tùy tiện.
 
-Việc kiểm tra ắc quy nằm trong nhóm bảo dưỡng định kỳ, xem tổng hợp tại trang [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/). Nếu bạn thuê xe dài hạn, đọc kỹ quy định hỏng hóc giữa kỳ ở trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/) để biết lúc nào cần báo cửa hàng.
+Việc kiểm tra ắc quy nằm trong nhóm bảo dưỡng định kỳ, xem tổng hợp tại trang [bảo dưỡng xe máy](/xe-may/bao-duong-xe/). Nếu bạn thuê xe dài hạn, đọc kỹ quy định hỏng hóc giữa kỳ ở trang [thuê xe theo tháng](/thue-xe/thue-thang/) để biết lúc nào cần báo cửa hàng.
 
 ## Câu hỏi thường gặp
 
@@ -72,7 +72,7 @@ Cần phân biệt: xe máy điện dùng pin lớn là nguồn di chuyển chí
 
 ## Hỗ trợ tại Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra ắc quy và hệ thống điện định kỳ trước khi giao xe, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi dòng xe sẵn hoặc nhờ tư vấn nhanh khi xe gặp dấu hiệu ắc quy yếu. Thêm các bài về cấu kiện xe tại trang [xe máy và dòng xe](/blog/xe-may/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra ắc quy và hệ thống điện định kỳ trước khi giao xe, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi dòng xe sẵn hoặc nhờ tư vấn nhanh khi xe gặp dấu hiệu ắc quy yếu. Thêm các bài về cấu kiện xe tại trang [xe máy và dòng xe](/xe-may/).
 
 Ắc quy yếu không đến đột ngột như nhiều người tưởng, nó báo trước bằng những dấu hiệu nhỏ. Biết đọc các dấu hiệu đó, bạn chủ động xử lý sớm, không phải đứng giữa đường vặn chìa mà máy không đáp.
 

@@ -45,7 +45,7 @@ gắn chắc trên xe không và giấy tờ kèm xe có ghi thông tin khớp k
 
 Ngoài tem, khi nhận xe thuê cũng nên thử phanh, bóp còi, bật đèn trước khi lăn bánh, vì những hạng mục này chính là thứ lượt kiểm định rà soát, và việc thử trực tiếp cho bạn cảm nhận hiện trạng thật của xe.
 
-Các chủ đề giấy tờ liên quan khi đi xe máy được tổng hợp trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/), còn tình huống bị dừng kiểm tra giấy tờ khi đi xe thuê được nói kỹ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông dành cho người đi xe máy, còn tổng quan các thủ tục khi thuê xe nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Các chủ đề giấy tờ liên quan khi đi xe máy được tổng hợp trong trang [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/), còn tình huống bị dừng kiểm tra giấy tờ khi đi xe thuê được nói kỹ trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/). Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp nhóm kiến thức luật giao thông dành cho người đi xe máy, còn tổng quan các thủ tục khi thuê xe nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Kết luận về tem kiểm định
 

@@ -21,7 +21,7 @@ Trả lời trực tiếp cho câu hỏi này: một chiếc xe ga cỡ trung t�
 
 Những mẫu như Air Blade hoặc Vision được nhiều cặp đôi chọn vì vận hành êm, khung xe chắc và đèn pha sáng đủ để chạy buổi tối trong phố. Ngược lại, các dòng xe số nhỏ thường nhanh hết sức khi lên dốc dài hoặc chở thêm hành lý, còn các mẫu xe quá cỡ lại nặng nề khi hai người phải dắt xe trong các ngõ nhỏ khu Hoàn Kiếm hoặc các con phố cổ.
 
-Về chi phí tham khảo, mức thuê Air Blade thường vào khoảng 200.000 đồng mỗi ngày, 800.000 đồng mỗi tuần và 1.400.000 đồng mỗi tháng. Xe Vision cũng có mức 200.000 đồng mỗi ngày với gói tuần từ 800.000 đồng đến 1.000.000 đồng tùy thời điểm. Bạn có thể đối chiếu đầy đủ trong [bảng giá cho thuê xe máy](/blog/bang-gia/) trước khi quyết định chọn mẫu nào.
+Về chi phí tham khảo, mức thuê Air Blade thường vào khoảng 200.000 đồng mỗi ngày, 800.000 đồng mỗi tuần và 1.400.000 đồng mỗi tháng. Xe Vision cũng có mức 200.000 đồng mỗi ngày với gói tuần từ 800.000 đồng đến 1.000.000 đồng tùy thời điểm. Bạn có thể đối chiếu đầy đủ trong [bảng giá cho thuê xe máy](/bang-gia/) trước khi quyết định chọn mẫu nào.
 
 ## Tiêu chí chọn thuê xe cho 2 người đi chơi
 
@@ -33,7 +33,7 @@ Cuối cùng là khoang chứa đồ. Cặp đôi đi chơi thường mang theo 
 
 ## Các dòng xe mạnh chở 2 người đáng thuê
 
-Air Blade là mẫu được nhắc đến nhiều nhất cho nhu cầu này vì máy bốc, khung chắc và yên rộng. Thông tin chi tiết về mẫu xe, đặc tính vận hành và mức giá cụ thể được tổng hợp trong trang [cho thuê Air Blade](/blog/xe-may/honda-air-blade/). Nếu muốn so sánh thêm các mẫu cùng phân khối, danh sách [xe ga cho thuê](/blog/xe-may/xe-ga/) cũng có nhiều lựa chọn tương tự.
+Air Blade là mẫu được nhắc đến nhiều nhất cho nhu cầu này vì máy bốc, khung chắc và yên rộng. Thông tin chi tiết về mẫu xe, đặc tính vận hành và mức giá cụ thể được tổng hợp trong trang [cho thuê Air Blade](/xe-may/honda-air-blade/). Nếu muốn so sánh thêm các mẫu cùng phân khối, danh sách [xe ga cho thuê](/xe-may/xe-ga/) cũng có nhiều lựa chọn tương tự.
 
 Vision là phương án nhẹ hơn, phù hợp khi hai người chủ yếu đi trong nội thành Hà Nội hoặc chạy các quãng ngắn ra ngoại đô. Với cung đường dài hơn như lên Sóc Sơn, sang Hà Đông hoặc đi các tỉnh lân cận, các mẫu 125 phân khối trở lên sẽ thoải mái và bền bỉ hơn. Nguyên tắc chung là đường càng dài và chở càng nhiều thì máy càng phải dư sức.
 
@@ -45,6 +45,6 @@ Hai người trên một xe nghĩa là khối lượng tăng gần gấp đôi, 
 
 Mũ bảo hiểm phải đủ cho cả hai người và cài quai chắc trước khi nổ máy. Trước khi lên đường, kiểm tra phanh trước, phanh sau và còi; nếu có bất thường, báo ngay cửa hàng để đổi sang xe khác. Hai bạn cũng nên thống nhất trước ai cầm lái chính, người còn lại hỗ trợ quan sát gương và định hướng, hạn chế vừa lái vừa quay lại nói chuyện nhiều.
 
-Nếu dự kiến chạy liên tục nhiều giờ, hãy nghỉ giữa chặng mỗi khi thấy mỏi tay hoặc đau lưng, uống đủ nước và kiểm tra lại đồ đạc. Bạn có thể tham khảo thêm nhiều câu hỏi tương tự trong mục [hỏi đáp về thuê xe máy](/blog/hoi-dap/) hoặc các bài tư vấn tại chuyên mục [chọn xe cho thuê](/blog/hoi-dap/hoi-dap-chon-xe/) để chuẩn bị kỹ hơn cho chuyến đi của hai người.
+Nếu dự kiến chạy liên tục nhiều giờ, hãy nghỉ giữa chặng mỗi khi thấy mỏi tay hoặc đau lưng, uống đủ nước và kiểm tra lại đồ đạc. Bạn có thể tham khảo thêm nhiều câu hỏi tương tự trong mục [hỏi đáp về thuê xe máy](/hoi-dap/) hoặc các bài tư vấn tại chuyên mục [chọn xe cho thuê](/hoi-dap/hoi-dap-chon-xe/) để chuẩn bị kỹ hơn cho chuyến đi của hai người.
 
 Chọn đúng chiếc xe, hai bạn sẽ có một chuyến đi nhẹ nhàng và đáng nhớ hơn nhiều. Nếu vẫn lăn tăn giữa các mẫu, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674 để xem trực tiếp các loại xe đang sẵn và nhận tư vấn theo đúng cung đường dự kiến của hai bạn.

@@ -16,7 +16,7 @@ writer: W1
 
 Đi xe thuê dính phạt nguội là tình huống khiến nhiều khách bối rối hơn cả lúc bị chặn trực tiếp, vì thông báo không đến tay người lái ngay tại thời điểm vi phạm mà đến sau đó, qua thư tín hoặc cổng tra cứu, và địa chỉ nhận thư thường là chủ xe chứ không phải người đang cầm lái. Trên chiếc xe thuê, chuỗi liên hệ phức tạp hơn xe của riêng bạn một chút, và bài này đi qua từng khâu: thông báo đi về đâu, ai chịu trách nhiệm, cách tra cứu, và những việc cần làm ngay để không bị động.
 
-Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), chuyên sâu về phạt nguội trong phần [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), chuyên sâu về phạt nguội trong phần [phạt nguội](/an-toan-phap-ly/phat-nguoi/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Đi xe thuê dính phạt nguội thì thông báo tới ai
 

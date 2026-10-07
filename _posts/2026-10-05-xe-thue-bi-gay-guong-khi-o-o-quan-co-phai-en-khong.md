@@ -16,7 +16,7 @@ writer: W1
 
 Đỗ xe ở quán, vào gọi một ly nước, ra thấy gương chiếu hậu bị gãy: tình huống vừa khó chịu vừa lúng túng, vì xe không phải xe nhà mà là xe thuê. Gương xe thuê bị gãy có đền không tùy vào việc lỗi thuộc về ai, chứ không phụ thuộc xe thuê hay xe nhà. Bài này giúp bạn đọc đúng tình huống, phân trách nhiệm với bên đỗ xe nếu có, và báo chủ xe theo cách giữ êm cho cả hai bên.
 
-Tổng quan nhóm hỏi đáp sự cố nằm ở trang [hỏi đáp](/blog/hoi-dap/), quy trình nhận và trả xe máy nằm ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/), còn các tình huống bất thường khi thuê nằm trong phần [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Tổng quan nhóm hỏi đáp sự cố nằm ở trang [hỏi đáp](/hoi-dap/), quy trình nhận và trả xe máy nằm ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/), còn các tình huống bất thường khi thuê nằm trong phần [sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Bước đầu: xác định gương gãy lúc nào và do ai
 

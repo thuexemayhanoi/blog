@@ -28,7 +28,7 @@ Câu thứ ba là trách nhiệm nếu xe mất hoặc hư. Hỏi thẳng: nếu
 
 Bãi giữ xe qua đêm Hà Nội khá đa dạng: bãi ven đường có người trực với tấm chòi, bãi trong nhà để xe của chung cư và khách sạn, bãi trông xe của các bến xe lớn. Với xe thuê, tiêu chí quan trọng nhất là bãi có rào hoặc dây xích khóa cổng sau giờ trực, vì xe máy là loại dễ bị đẩy đi nhất về đêm. Bãi mở mặt đường vắng người qua lại không tốt bằng bãi sâu trong ngõ có đèn và có người ở gần.
 
-Tiêu chí thứ hai là ánh sáng và camera. Bãi có đèn sáng chạy suốt đêm và camera quay vào dãy để xe giảm hẳn rủi ro bị lắp lại khóa hoặc tháo đồ. Cách nhận bãi giữ xe tin cậy qua camera và các dấu hiệu khác đã được kể chi tiết trong bài [chọn bãi gửi xe có camera](/blog/ky-nang/2026/10/04/chon-bai-gui-xe-co-camera-dau-hieu-bai-giu-tin-cay/), đáng đọc trước khi quyết định.
+Tiêu chí thứ hai là ánh sáng và camera. Bãi có đèn sáng chạy suốt đêm và camera quay vào dãy để xe giảm hẳn rủi ro bị lắp lại khóa hoặc tháo đồ. Cách nhận bãi giữ xe tin cậy qua camera và các dấu hiệu khác đã được kể chi tiết trong bài [chọn bãi gửi xe có camera](/ky-nang/2026/10/04/chon-bai-gui-xe-co-camera-dau-hieu-bai-giu-tin-cay/), đáng đọc trước khi quyết định.
 
 Tiêu chí thứ ba là khoảng cách với điểm bạn thật sự cần tới sáng mai. Bãi gần bến tàu để bắt tàu sớm sáng hôm sau thì hợp lý, còn để xe gần nhà chỉ vì quen đường rồi sáng mai phải vội vã đèo ngược qua phố lại là một chi phí thời gian và thêm một lần rủi ro trên đường. Chọn bãi theo điểm đón của chuyến sau, không theo thói quen.
 
@@ -46,6 +46,6 @@ Sáng hôm sau, khi lấy xe, đừng vội nhảy lên chạy ngay. Đi một v
 
 Trả vé, thanh toán giá đã thỏa thuận tối qua và lấy lại chìa. Nếu bãi thu thêm phụ phí sáng với lý do qua đêm tính từ một giờ nào đó, cứ giữ mẩu vé và nhờ giải thích lại cách tính, tránh tranh cửa tại chỗ. Với khách thuê xe máy, sau khi lấy xe xong và về tới điểm trả xe, chủ xe sẽ kiểm tra lại tình trạng xe để chốt hợp đồng, nên giữ các mảnh vé và tin nhắn trao đổi trong chuyến đi cho đến khi trả xe xong.
 
-Tổng quan về gửi xe và giữ xe nằm trong mục [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Tổng quan về gửi xe và giữ xe nằm trong mục [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Gửi xe qua đêm, tóm gọn lại, là hỏi trước bốn điều: giá và cách tính, giờ mở cửa, trách nhiệm khi có sự cố, và giấy tờ ghi nhận lúc giao xe. Hỏi đủ bốn điều, chọn bãi có đèn có người, và giữ mảnh vé tới cùng, thì sáng mai chiếc xe thuê vẫn ngoan ngoãn chờ bạn đúng chỗ.

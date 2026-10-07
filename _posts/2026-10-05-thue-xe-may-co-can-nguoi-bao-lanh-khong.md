@@ -16,7 +16,7 @@ writer: W1
 
 Câu hỏi thuê xe máy cần người bảo lãnh không không nằm trong nhóm câu hỏi được luật quy định sẵn, mà thuộc phần chính sách của từng cửa hàng. Đa số nơi chỉ cần giấy tờ tùy thân và đặt cọc là thuê được, nhưng với khách lạ mặt, kỳ thuê dài, hoặc xe giá trị cao, một vài nơi có thể đề nghị thêm người bảo lãnh hoặc hình thức đảm bảo khác. Hiểu rõ logic của yêu cầu này giúp bạn chuẩn bị đúng, không bị bất ngờ khi đứng ở quầy.
 
-Tổng quan nhóm hỏi đáp nằm ở trang [hỏi đáp](/blog/hoi-dap/), các bước thuê chuẩn nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), còn quy định về giấy phép lái xe và điều kiện tham gia giao thông thuộc nhóm [an toàn pháp lý](/blog/an-toan-phap-ly/), với thông tin chính gốc từ cơ quan chức năng có thể xem tại Cục Cảnh sát giao thông (https://www.csgt.vn) hoặc cổng dịch vụ công (https://dichvucong.gov.vn), lưu ý nội dung hướng dẫn có thể thay đổi theo từng thời kỳ.
+Tổng quan nhóm hỏi đáp nằm ở trang [hỏi đáp](/hoi-dap/), các bước thuê chuẩn nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), còn quy định về giấy phép lái xe và điều kiện tham gia giao thông thuộc nhóm [an toàn pháp lý](/an-toan-phap-ly/), với thông tin chính gốc từ cơ quan chức năng có thể xem tại Cục Cảnh sát giao thông (https://www.csgt.vn) hoặc cổng dịch vụ công (https://dichvucong.gov.vn), lưu ý nội dung hướng dẫn có thể thay đổi theo từng thời kỳ.
 
 ## Thuê xe máy cần người bảo lãnh trong những trường hợp nào
 

@@ -24,25 +24,25 @@ Ngày thường quanh năm, làng vắng và dễ chịu: chủ vườn có th�
 
 Buổi nên bắt đầu từ mép ngõ đầu cho tới các dãy vườn trong: đi chậm, hỏi thăm trước khi vào vườn nhà người ta, vì các vườn là nơi làm việc chứ không phải điểm tham quan có vé. Mùa đào, các vựa đào thế và đào cành xếp thành hàng dài: khách chọn cây nên xem dáng, gốc và độ phân cành ngay tại vựa, hỏi rõ cách vận chuyển và cách chăm hồi sau khi về. Các loại hoa cắt cánh như hồng và cúc thường bó tại chỗ, mua xong nên để vào cốp ngay hoặc nhờ vựa bó chặt lại cho gọn.
 
-Phần chụp ảnh nên xin chủ vườn: một góc vườn đào trước nắng sớm, một góc luống hồng trước nắng sớm, hoặc dải trên đê nhìn xuống các nhà kính. Đứng trên đê chụp toàn cảnh làng lúc sương còn là góc dễ lấy nhất, không cần vào sâu vườn ai. Chi tiết các lối vào làng từ trục Âu Cơ và các lưu ý đường đê được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), còn các điểm cùng khu ven sông nằm trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/) để ghép chuỗi trong một ngày.
+Phần chụp ảnh nên xin chủ vườn: một góc vườn đào trước nắng sớm, một góc luống hồng trước nắng sớm, hoặc dải trên đê nhìn xuống các nhà kính. Đứng trên đê chụp toàn cảnh làng lúc sương còn là góc dễ lấy nhất, không cần vào sâu vườn ai. Chi tiết các lối vào làng từ trục Âu Cơ và các lưu ý đường đê được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), còn các điểm cùng khu ven sông nằm trong trang [khu Tây Hồ](/du-lich/ho-tay/) để ghép chuỗi trong một ngày.
 
 ## Mua hoa và chở hoa về
 
 Mua hoa về bằng xe máy cần tính từ lúc chọn: cành nhỏ và bó vừa cốp là chuẩn dễ chở nhất, cây đào lớn nên thuê xe chở riêng hoặc nhờ vựa gửi theo xe khách. Trên tay lái, bó hoa đứng trước ngực dễ che tầm nhìn và vướng gió, nếu bắt buộc chở bó to thì buộc chặt vào cốp sau, dừng kiểm tra sau vài trăm mét đầu tiên. Mùa lạnh, hoa để ngoài gió dễ hé nhanh: phủ bọc nhẹ và về ngay sau khi mua là cách giữ được dáng.
 
-Ai mua đào thế về trồng lâu dài nên hỏi kỹ cách đặt cây, cách tưới sau Tết và các lỗi hay gặp khi cây qua mùa: dân vườn ở đây giữ nghề lâu năm, phần lớn sẵn lòng chỉ nếu khách hỏi tử tế. Các câu hỏi về vận chuyển đồ bằng xe máy và giấy tờ khi thuê xe được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Ai mua đào thế về trồng lâu dài nên hỏi kỹ cách đặt cây, cách tưới sau Tết và các lỗi hay gặp khi cây qua mùa: dân vườn ở đây giữ nghề lâu năm, phần lớn sẵn lòng chỉ nếu khách hỏi tử tế. Các câu hỏi về vận chuyển đồ bằng xe máy và giấy tờ khi thuê xe được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Ăn uống và nghỉ giữa buổi
 
 Quanh khu làng có các quán nhỏ ven Âu Cơ và ven chân đê: bữa nhẹ kiểu phở, bánh cuốn hoặc cà phê dễ tìm, hợp làm điểm đợi khi đi theo nhóm có người ở lại trông xe. Mùa Tết, các hàng nước và quán ăn mùa theo dòng khách mở thêm trong ngõ, đông nhanh giữa buổi, nên nghỉ sớm gần cuối buổi để khỏi chờ lâu. Khách mang theo trẻ nhỏ nên chủ động nước uống, vì đoạn giữa làng ít chỗ mua.
 
-Sau buổi ở làng, ai còn dư thời gian có thể chạy lên đê ngắm mặt sông Hồng: khung trưa trên đê thoáng gió, hợp nghỉ chân trước khi về, còn khung chiều nắng xiên trên mặt sông đẹp cho ảnh. Tổng quan các trải nghiệm quanh Hà Nội nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Sau buổi ở làng, ai còn dư thời gian có thể chạy lên đê ngắm mặt sông Hồng: khung trưa trên đê thoáng gió, hợp nghỉ chân trước khi về, còn khung chiều nắng xiên trên mặt sông đẹp cho ảnh. Tổng quan các trải nghiệm quanh Hà Nội nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Chuẩn bị gì trước khi nổ máy đi
 
 Danh mục nhỏ cho nửa ngày: nước, mũ hoặc ô gấp, khăn ướt, tiền lẻ cho phí gửi xe và mua hoa lẻ, một túi chống nước cho hoa đã cắt. Mùa lạnh mang thêm áo khoác cho đoạn đứng trên đê; mùa mưa tra dự báo trước, vì ngõ đất trong làng trơn sau mưa. Giày đế bám giúp đi vào các khoảng đất giữa vườn thoải mái hơn hẳn giày bằng.
 
-Xe máy trước buổi cần vòng kiểm tra: đèn, còi, phanh, áp suất lốp, và cốp đủ sạch để chứa hoa. Khách thuê xe nên báo chủ xe lịch trình chở hoa về để nhận xe có cốp rộng và dây buộc. Danh mục điểm đến quanh Hà Nội xếp theo khu vực nằm tại trang [điểm đến](/blog/du-lich/diem-den/), dùng tham khảo khi muốn ghép thêm điểm trong cùng buổi.
+Xe máy trước buổi cần vòng kiểm tra: đèn, còi, phanh, áp suất lốp, và cốp đủ sạch để chứa hoa. Khách thuê xe nên báo chủ xe lịch trình chở hoa về để nhận xe có cốp rộng và dây buộc. Danh mục điểm đến quanh Hà Nội xếp theo khu vực nằm tại trang [điểm đến](/du-lich/diem-den/), dùng tham khảo khi muốn ghép thêm điểm trong cùng buổi.
 
 ## Kết luận về nửa ngày ở làng hoa Nhật Tân
 

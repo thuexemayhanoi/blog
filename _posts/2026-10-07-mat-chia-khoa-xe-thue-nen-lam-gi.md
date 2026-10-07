@@ -30,13 +30,13 @@ Trong lúc chờ chìa dự phòng, nếu bạn đang giữ xe ở khu vắng, h
 
 Mỗi cửa hàng có cách tính riêng với trường hợp làm mất chìa xe máy thuê. Phổ biến nhất là bạn chịu chi phí cắt chìa mới theo giá niêm yết của thợ khóa, tiền cọc vẫn được hoàn đủ nếu xe nguyên trạng. Một số nơi trừ vào cọc trước, số khác thu sau khi có hóa đơn. Cách chắc nhất là hỏi trước ngay lúc nhận xe, để lúc cần bạn không phải đoán.
 
-Mức chi phí cắt chìa có thể thay đổi theo từng thời kỳ và theo dòng xe, vì vậy hãy xác nhận trực tiếp với cửa hàng thay vì tin vào con số nghe được ở đâu đó. Điều đáng nhớ: chi phí thay chìa thường thấp hơn nhiều so với hình dung của khách, và gần như luôn thấp hơn việc để xe đứng chờ ở xa vì bạn ngại khai báo. So sánh điều khoản giữa các dòng xe cũng dễ hơn khi bạn xem trước [tổng quan cho thuê xe máy](/blog/thue-xe/).
+Mức chi phí cắt chìa có thể thay đổi theo từng thời kỳ và theo dòng xe, vì vậy hãy xác nhận trực tiếp với cửa hàng thay vì tin vào con số nghe được ở đâu đó. Điều đáng nhớ: chi phí thay chìa thường thấp hơn nhiều so với hình dung của khách, và gần như luôn thấp hơn việc để xe đứng chờ ở xa vì bạn ngại khai báo. So sánh điều khoản giữa các dòng xe cũng dễ hơn khi bạn xem trước [tổng quan cho thuê xe máy](/thue-xe/).
 
 ## Phòng trường hợp mất chìa: nên chuẩn bị gì từ đầu
 
 Ngay khi nhận xe, hỏi xem cửa hàng có chìa dự phòng không và gửi kèm theo xe hay để lại cửa hàng, rồi ghi rõ điều này vào biên bản. Với xe dùng khóa từ, chụp lại mã số in trên tem hoặc hỏi mã dự phòng trước khi rời đi. Nên đeo chìa vào móc hoặc dây đeo cổ thay vì để lỏng trong túi quần, thói quen nhỏ này giảm thiểu phần lớn rủi ro rơi mất.
 
-Một số dòng xe tắt nguồn và mở khóa bằng ứng dụng cần tài khoản tạm thời, hãy yêu cầu hướng dẫn đầy đủ lúc giao xe để không bị động khi pin yếu giữa đường. Lưu số hỗ trợ kỹ thuật của cửa hàng vào danh bạ ngay từ đầu, để gọi được ngay mà không phải lục lại hợp đồng. Nếu bạn thuê kèm hộp giữ đồ hay bánh xe dự phòng, chìa dự phòng có thể cất bên trong cốp, nhưng đừng để cùng chỗ với giấy tờ gốc trên xe. [Danh sách giấy tờ cần mang theo khi lái xe](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) giúp bạn tách rõ thứ nào luôn mang theo người, thứ nào để trên xe.
+Một số dòng xe tắt nguồn và mở khóa bằng ứng dụng cần tài khoản tạm thời, hãy yêu cầu hướng dẫn đầy đủ lúc giao xe để không bị động khi pin yếu giữa đường. Lưu số hỗ trợ kỹ thuật của cửa hàng vào danh bạ ngay từ đầu, để gọi được ngay mà không phải lục lại hợp đồng. Nếu bạn thuê kèm hộp giữ đồ hay bánh xe dự phòng, chìa dự phòng có thể cất bên trong cốp, nhưng đừng để cùng chỗ với giấy tờ gốc trên xe. [Danh sách giấy tờ cần mang theo khi lái xe](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) giúp bạn tách rõ thứ nào luôn mang theo người, thứ nào để trên xe.
 
 ## Câu hỏi thường gặp
 
@@ -50,4 +50,4 @@ Mất chìa nhưng xe đang ở tỉnh lân cận thì sao? Vẫn gọi số h�
 
 Cắt chìa mới thường mất bao lâu? Thường chỉ cần vài chục phút nếu thợ có sẵn chìa trống cho dòng xe. Với xe dùng chìa mã chip, thời gian có thể lâu hơn vì phải đặt chip theo mã, nên càng báo sớm càng tốt.
 
-Nếu bạn đang thuê xe ở Hà Nội và cần hỏi thêm về điều khoản mất chìa, hãy gọi 0942 467 674 trong giờ làm việc từ 09:00 đến 21:00. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên luôn ghi rõ điều khoản trong biên bản để bạn an tâm; tổng quan các dòng xe đang cho thuê được cập nhật tại [trang cho thuê xe máy](/blog/thue-xe/) cho lần thuê kế tiếp.
+Nếu bạn đang thuê xe ở Hà Nội và cần hỏi thêm về điều khoản mất chìa, hãy gọi 0942 467 674 trong giờ làm việc từ 09:00 đến 21:00. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên luôn ghi rõ điều khoản trong biên bản để bạn an tâm; tổng quan các dòng xe đang cho thuê được cập nhật tại [trang cho thuê xe máy](/thue-xe/) cho lần thuê kế tiếp.

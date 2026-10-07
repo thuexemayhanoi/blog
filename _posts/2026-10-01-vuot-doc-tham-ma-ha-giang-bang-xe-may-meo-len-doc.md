@@ -25,7 +25,7 @@ Chuẩn bị bắt đầu từ trước chân dốc, không phải từ giữa d
 
 Nguyên tắc số một là vào số thấp trước khi xe chạm mặt dốc. Số hai là lựa chọn phổ biến với xe số trên Thẩm Mã; nếu xe chở nặng hoặc máy yếu thì xuống số một. Vào số xong, khách lấy đà đều trên đoạn phẳng còn lại, để xe bắt đầu leo bằng chính đà, không phải bằng cú vặn ga. Giữ ga đều là chìa khoá: máy làm việc ổn định ở một mức ga, và khách chỉ chỉnh nhẹ theo từng tầng cua.
 
-Không đổi số giữa dốc. Đang kéo máy ở giữa một đoạn dốc đứng mà về số hay lên số, xe dễ hụt đà, mà hụt đà giữa cua thì phải dừng xe ở chính chỗ nguy hiểm nhất. Nếu cảm giác máy đang ép quá, khách giữ ga, hạ người về trước, và trầm mặc đi hết tầng dốc hiện tại, chờ tới bến rộng mới chỉnh lại. Cách vào số giữ máy này cũng đúng cho các chặng đèo khác, khách xem thêm ở bài [chọn loại xe hợp hành trình](/blog/xe-may/chon-loai-xe/).
+Không đổi số giữa dốc. Đang kéo máy ở giữa một đoạn dốc đứng mà về số hay lên số, xe dễ hụt đà, mà hụt đà giữa cua thì phải dừng xe ở chính chỗ nguy hiểm nhất. Nếu cảm giác máy đang ép quá, khách giữ ga, hạ người về trước, và trầm mặc đi hết tầng dốc hiện tại, chờ tới bến rộng mới chỉnh lại. Cách vào số giữ máy này cũng đúng cho các chặng đèo khác, khách xem thêm ở bài [chọn loại xe hợp hành trình](/xe-may/chon-loai-xe/).
 
 Một chi tiết nhỏ nhưng hữu ích: khách để ý biển báo trước chân dốc để ước chặng còn lại, và nhịp chạy theo các tầng cua thay vì theo đồng hồ tốc độ. Trên dốc đứng, tốc độ thấp mà máy đều khoẻ hơn tốc độ cao mà máy gào, và khách cũng cần dành sẵn sức phanh cho các tình huống bất ngờ ở khúc cua kế tiếp.
 
@@ -37,12 +37,12 @@ Thói quen tốt là khách quan sát trước các bến rộng ven dốc. Nế
 
 ## Dốc Thẩm Mã khó không: trả lời cho khách lần đầu
 
-Câu hỏi dốc thẩm mã khó không phụ thuộc vào ai cầm lái. Với khách đã có vài ngày quen núi, đoạn này là bài tập khó nhưng làm được, miễn là chạy chậm và vào đúng số. Với khách mới cầm xe máy đường trường, dốc này nên chạy ở nhịp chậm nhất và sẵn sàng dừng ở bến rộng. Khách muốn tự đánh giá trước có thể đọc các kinh nghiệm tổng hợp cho cung này ở trang [Hà Giang](/blog/cung-duong/ha-giang/), nơi có nhiều bài về các chặng xung quanh.
+Câu hỏi dốc thẩm mã khó không phụ thuộc vào ai cầm lái. Với khách đã có vài ngày quen núi, đoạn này là bài tập khó nhưng làm được, miễn là chạy chậm và vào đúng số. Với khách mới cầm xe máy đường trường, dốc này nên chạy ở nhịp chậm nhất và sẵn sàng dừng ở bến rộng. Khách muốn tự đánh giá trước có thể đọc các kinh nghiệm tổng hợp cho cung này ở trang [Hà Giang](/cung-duong/ha-giang/), nơi có nhiều bài về các chặng xung quanh.
 
 Ba rủi ro thật sự của Thẩm Mã không nằm ở độ dốc, mà ở các tình huống đi kèm. Xe lớn ngược chiều chiếm đường, nhất là khi xuống với tải nặng. Sương mù chiều mờ tầm nhìn ở các khúc cua trên cao. Và mặt vạch sơn ướt trơn khi trời mưa, khiến lốp bám kém ở chính đoạn cần bám nhất. Với ba tình huống này, biện pháp chung là giảm tốc, bấm còi trước cua mù, và không bao giờ bám sát vệt phanh của xe trước.
 
 ## Lên tới đỉnh: giữ nhịp tới Đồng Văn
 
-Qua đỉnh Thẩm Mã, đường thoai thoải dần về phía Đồng Văn, nhưng tay lái chưa nên nới nhịp. Khách giữ đèn pha bật, nhất là lúc chiều muộn, và chạy tiếp đều đặn để khép chặng. Thời tiết vùng này đổi nhanh không kể mùa, khách xem thêm cách đọc trời và đường ướt ở bài [thời tiết và đường sổ trên đường dài](/blog/ky-nang/thoi-tiet-va-duong-sa/). Chặng Yên Minh, dốc Thẩm Mã và Đồng Văn là một phần trong các lộ trình đã mô tả ở [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), khách có thể dùng để cân ngày đi hợp lý.
+Qua đỉnh Thẩm Mã, đường thoai thoải dần về phía Đồng Văn, nhưng tay lái chưa nên nới nhịp. Khách giữ đèn pha bật, nhất là lúc chiều muộn, và chạy tiếp đều đặn để khép chặng. Thời tiết vùng này đổi nhanh không kể mùa, khách xem thêm cách đọc trời và đường ướt ở bài [thời tiết và đường sổ trên đường dài](/ky-nang/thoi-tiet-va-duong-sa/). Chặng Yên Minh, dốc Thẩm Mã và Đồng Văn là một phần trong các lộ trình đã mô tả ở [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), khách có thể dùng để cân ngày đi hợp lý.
 
-Khách cần xe khỏe máy cho các dốc Hà Giang liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Gọi hỏi trước để nhận đúng loại xe số khỏe máy, hợp với các đoạn dốc đứng như Thẩm Mã. Thông tin chung về dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Vượt một dốc dài không cần tài, chỉ cần đúng số, đều ga và một chiếc xe được soạn tử tế từ chân dốc.
+Khách cần xe khỏe máy cho các dốc Hà Giang liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Gọi hỏi trước để nhận đúng loại xe số khỏe máy, hợp với các đoạn dốc đứng như Thẩm Mã. Thông tin chung về dịch vụ gom ở trang [thuê xe](/thue-xe/). Vượt một dốc dài không cần tài, chỉ cần đúng số, đều ga và một chiếc xe được soạn tử tế từ chân dốc.

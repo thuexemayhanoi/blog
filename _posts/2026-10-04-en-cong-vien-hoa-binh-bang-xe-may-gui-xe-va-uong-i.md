@@ -46,6 +46,6 @@ Kiểm tra giờ mở cửa công viên theo thông tin công bố chính thức
 
 Về đường về, sau khi trời tối: bật đèn sớm, giữ làn thẳng qua các nút lớn, và để ý xe tải trên trục Nguyễn Trãi đôi khi chạy nhanh hơn bạn tưởng. Người mới thuê xe máy có thể coi quãng về qua cầu Vĩnh Tuy là bài luyện đường dài nhẹ nhàng: thẳng, rộng, đèn đều.
 
-Các điểm dạo khác quanh thành phố gom tại chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/); các lưu ý gửi xe và giữ xe chi tiết nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi lịch trình. Ai lần đầu chạy các trục lớn nên dành vài phút cho mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Các điểm dạo khác quanh thành phố gom tại chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/); các lưu ý gửi xe và giữ xe chi tiết nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/du-lich/) là mục lục chung cho mọi lịch trình. Ai lần đầu chạy các trục lớn nên dành vài phút cho mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Một buổi ở Hòa Bình, phần lớn là đi bộ giữa cây xanh, phần còn lại là quãng xe thong thả qua quận Hà Đông: đủ để reset nhịp mà về nhà vẫn kịp cơm tối.

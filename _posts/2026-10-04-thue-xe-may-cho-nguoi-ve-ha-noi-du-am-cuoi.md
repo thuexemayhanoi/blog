@@ -46,8 +46,8 @@ Cưới ở Hà Nội nhiều khi kéo theo chặng đón dâu sáng sớm và c
 
 ## Thủ tục, cọc và cách trả xe đúng hẹn
 
-Đi ăn cưới thì giấy tờ cần tối giản: bản gốc căn cước, và phần lớn chỗ cho thuê uy tín quanh khu Bồ Đề sẽ chốt cọc bằng tiền hoặc chuyển khoản. Đọc kỹ biên nhận hai điểm: thứ nhất, trách nhiệm khi tai nạn nhẹ — trầy xát thường chốt theo mức nào; thứ hai, giờ trả xe muộn tính thế nào, vì đêm tiệc về muộn là chuyện gần như chắc chắn. Ai từng thuê nhiều lần nên đọc lại phần thủ tục chung trong mục [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) trước khi ký.
+Đi ăn cưới thì giấy tờ cần tối giản: bản gốc căn cước, và phần lớn chỗ cho thuê uy tín quanh khu Bồ Đề sẽ chốt cọc bằng tiền hoặc chuyển khoản. Đọc kỹ biên nhận hai điểm: thứ nhất, trách nhiệm khi tai nạn nhẹ — trầy xát thường chốt theo mức nào; thứ hai, giờ trả xe muộn tính thế nào, vì đêm tiệc về muộn là chuyện gần như chắc chắn. Ai từng thuê nhiều lần nên đọc lại phần thủ tục chung trong mục [thủ tục thuê xe](/thue-xe/thu-tuc/) trước khi ký.
 
-Người hay về Hà Nội dự tiệc nhiều lần nên cân nhắc gói dài hơn trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/); tổng quan mọi câu hỏi đặt xe nằm trong trang [thuê xe máy](/blog/thue-xe/), và kinh nghiệm từng nhóm khách gom trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/). Các thủ thuật chạy xe phố thêm nằm rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Người hay về Hà Nội dự tiệc nhiều lần nên cân nhắc gói dài hơn trong trang [thuê xe theo tháng](/thue-xe/thue-thang/); tổng quan mọi câu hỏi đặt xe nằm trong trang [thuê xe máy](/thue-xe/), và kinh nghiệm từng nhóm khách gom trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/). Các thủ thuật chạy xe phố thêm nằm rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Trả xe: chụp lại đồng hồ xăng, công tơ mét và hiện trạng hai bên trước khi rời, và thanh toán hết phần phát sinh ngay tại chỗ. Làm đủ ba bước đó trong hai phút, đám cưới khép lại gọn như một buổi thuê xe thành công — và bạn kịp chuyến tàu về mà không ai phải chờ.

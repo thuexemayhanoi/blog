@@ -35,11 +35,11 @@ Trời mưa làm mọi thứ quanh khu đổi tính: vỉa hè trơn, áo mưa c
 
 ## Đường một chiều quanh Hồ Gươm ảnh hưởng thế nào
 
-Hệ đường một chiều quanh hồ khiến mọi nhầm lẫn đều phải trả giá bằng một vòng khá dài. Đi nhầm hướng, bạn thường phải vòng thêm một vòng quanh khu mới quay về được điểm định đến, mà giữa lúc đường đông thì vòng này rất tốn thời gian. Vì vậy trước khi xuất phát, hãy nhìn trước tuyến trên bản đồ, đánh dấu các đoạn một chiều, và chấp nhận đi vòng đúng chiều thay vì tìm đường tắt. Cách xử lý các tình huống giao thông trong khu đông xe được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/).
+Hệ đường một chiều quanh hồ khiến mọi nhầm lẫn đều phải trả giá bằng một vòng khá dài. Đi nhầm hướng, bạn thường phải vòng thêm một vòng quanh khu mới quay về được điểm định đến, mà giữa lúc đường đông thì vòng này rất tốn thời gian. Vì vậy trước khi xuất phát, hãy nhìn trước tuyến trên bản đồ, đánh dấu các đoạn một chiều, và chấp nhận đi vòng đúng chiều thay vì tìm đường tắt. Cách xử lý các tình huống giao thông trong khu đông xe được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/).
 
 ## Gửi xe quanh khu: gửi ở rìa rồi đi bộ
 
-Thay vì tìm chỗ đỗ ngay sát mặt tiền Nhà thờ, hãy nhắm các bãi gửi ở rìa khu phố đi bộ hoặc ven các trục lớn gần đó. Gửi ở rìa thường vào chỗ nhanh hơn, chi phí dễ đoán hơn, và bạn không phải chen xe giữa đám đông lúc ra về. Gửi xong, toàn bộ khu vực đều đi bộ được trong khoảng mươi phút. Những lưu ý về chọn bãi giữ xe, giữ vé và giờ nhận xe được ghi chi tiết trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Thay vì tìm chỗ đỗ ngay sát mặt tiền Nhà thờ, hãy nhắm các bãi gửi ở rìa khu phố đi bộ hoặc ven các trục lớn gần đó. Gửi ở rìa thường vào chỗ nhanh hơn, chi phí dễ đoán hơn, và bạn không phải chen xe giữa đám đông lúc ra về. Gửi xong, toàn bộ khu vực đều đi bộ được trong khoảng mươi phút. Những lưu ý về chọn bãi giữ xe, giữ vé và giờ nhận xe được ghi chi tiết trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Muốn kiểm tra một bãi gửi có đáng tin không, hãy nhìn ba dấu hiệu: có bảng giá niêm yết, có người trông xe thường trực, và xe được xếp theo hàng lối chứ không chất đống chèn vào nhau. Quanh khu Nhà thờ, các bãi có đủ ba dấu hiệu này thường đông hơn vào khung cao điểm, nên nếu bạn đến đúng giờ đó, hãy chấp nhận đi bộ thêm một đoạn ngắn thay vì nhét xe vào chỗ quá chật.
 
@@ -51,6 +51,6 @@ Người đi xe máy tham quan thường mang theo balo, mũ bảo hiểm và m�
 
 ## Chuẩn bị trước khi xuất phát
 
-Trước khi đi, dành vài phút kiểm tra xe: gương, đèn, phanh và áp suất lốp. Nếu chuyến của bạn gộp thêm các điểm xa hơn trong ngày cuối tuần, tham khảo các [lộ trình cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) để cân tổng thời gian. Còn nếu chỉ quanh quẩn khu Nhà thờ và Hồ Gươm, phần chuẩn bị quan trọng nhất không phải là xe, mà là tâm thế: chấp nhận tốc độ chậm, chấp nhận dừng nhiều, và để phần đi nhanh cho những con đường khác.
+Trước khi đi, dành vài phút kiểm tra xe: gương, đèn, phanh và áp suất lốp. Nếu chuyến của bạn gộp thêm các điểm xa hơn trong ngày cuối tuần, tham khảo các [lộ trình cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) để cân tổng thời gian. Còn nếu chỉ quanh quẩn khu Nhà thờ và Hồ Gươm, phần chuẩn bị quan trọng nhất không phải là xe, mà là tâm thế: chấp nhận tốc độ chậm, chấp nhận dừng nhiều, và để phần đi nhanh cho những con đường khác.
 
-Tóm lại, khu quanh Nhà thờ Lớn không phải nơi để thử tốc độ, mà là nơi để xe hoạt động ở chế độ nhàn nhất. Chậm đúng chỗ, gửi xe đúng rìa và dời giờ khỏi khung tan tầm, ba điều đó giải quyết phần lớn rủi ro. Nếu muốn kết hợp khu này vào hành trình dài hơn, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ bắt đầu hợp lý.
+Tóm lại, khu quanh Nhà thờ Lớn không phải nơi để thử tốc độ, mà là nơi để xe hoạt động ở chế độ nhàn nhất. Chậm đúng chỗ, gửi xe đúng rìa và dời giờ khỏi khung tan tầm, ba điều đó giải quyết phần lớn rủi ro. Nếu muốn kết hợp khu này vào hành trình dài hơn, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ bắt đầu hợp lý.

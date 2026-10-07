@@ -47,7 +47,7 @@ Quanh cổng trường, nhiều phụ huynh dừng đậu ngay giữa đường 
 
 ## Luyện cho bé thói quen an toàn khi đưa đón trẻ bằng xe máy
 
-Kỹ năng an toàn của bé hình thành qua lặp lại, không phải qua nhắc nhở một lần. Dạy bé ba quy tắc ngắn: lên xe thì bám ngay, xuống xe thì chờ ba mẹ bế, và không bao giờ tuột tay khi xe chưa dừng hẳn. Khi bé làm đúng, khen ngay để bé ghi nhớ. Hơn nữa, hãy làm mẫu: bố mẹ đội mũ chuẩn, cài quai, chạy đúng làn là bài học trực quan nhất cho trẻ. Tổng quan về cách chở đồ, chở người trên xe máy nằm ở chuyên mục [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), các kỹ năng tổng quát tại mục [kỹ năng lái xe máy](/blog/ky-nang/).
+Kỹ năng an toàn của bé hình thành qua lặp lại, không phải qua nhắc nhở một lần. Dạy bé ba quy tắc ngắn: lên xe thì bám ngay, xuống xe thì chờ ba mẹ bế, và không bao giờ tuột tay khi xe chưa dừng hẳn. Khi bé làm đúng, khen ngay để bé ghi nhớ. Hơn nữa, hãy làm mẫu: bố mẹ đội mũ chuẩn, cài quai, chạy đúng làn là bài học trực quan nhất cho trẻ. Tổng quan về cách chở đồ, chở người trên xe máy nằm ở chuyên mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), các kỹ năng tổng quát tại mục [kỹ năng lái xe máy](/ky-nang/).
 
 ## Những chi tiết nhỏ đáng lưu ý khác
 
@@ -57,7 +57,7 @@ Cuối cùng, hãy giữ một thói quen nhỏ nhưng rất giá trị: sau m�
 
 ## Câu hỏi thường gặp
 
-Bé bao nhiêu tuổi được chở trên xe máy? Theo quy định hiện hành, chỉ trẻ đã đủ tuổi theo quy định về đội mũ bảo hiểm và được phép chở sau theo luật giao thông đường bộ mới được chở; khi thuê xe hoặc có thắc mắc về quy định, hãy tra nguồn chính thức hoặc hỏi thêm ở [hỏi đáp](/blog/hoi-dap/).
+Bé bao nhiêu tuổi được chở trên xe máy? Theo quy định hiện hành, chỉ trẻ đã đủ tuổi theo quy định về đội mũ bảo hiểm và được phép chở sau theo luật giao thông đường bộ mới được chở; khi thuê xe hoặc có thắc mắc về quy định, hãy tra nguồn chính thức hoặc hỏi thêm ở [hỏi đáp](/hoi-dap/).
 
 Chở bé nên dùng xe số hay xe tay ga? Xe tay ga có yên rộng, sàn để chân phẳng, dễ dàng lên xuống hơn cho bé; xe số nhẹ hơn nhưng bé cần dang chân lên cao hơn.
 

@@ -21,13 +21,13 @@ Khi cần thuê một chiếc xe số ở Hà Nội, hai cái tên đứng đầ
 
 Khác biệt nằm ở cảm giác lái. Sirius cho cảm giác đầm, hệ thống treo chắc, xe bám đường ổn khi chở nặng hoặc chạy nhanh trên đoạn thẳng. Wave nhẹ và lanh hơn một chút, đầu ga nhạy, hợp nhịp luồn lách trong phố chật hoặc dừng đỏ liên tục. Người đi quãng dài thường khen sự đầm của Sirius, người đi phố nhiều lại thích sự nhẹ của Wave. Hai hướng cảm giác này, chứ không phải thông số trên giấy, mới là thứ quyết định khi đứng giữa hai chiếc xe cho thuê.
 
-Về dáng xe, Wave nhỏ nhắn theo phong cách tối giản, Sirius lại vuông vắn và chắc chắn hơn ở các đường nét. Ưu tiên của bạn là xe gọn dễ cất trong hầm hay xe chắc chở nặng sẽ nghiêng câu trả lời về một phía. Ai lưỡng lự giữa xe số và xe ga, tổng quan các dòng xe nằm trong [chuyên mục xe máy](/blog/xe-may/) sẽ giúp định hướng loại xe trước khi so hai mẫu cụ thể.
+Về dáng xe, Wave nhỏ nhắn theo phong cách tối giản, Sirius lại vuông vắn và chắc chắn hơn ở các đường nét. Ưu tiên của bạn là xe gọn dễ cất trong hầm hay xe chắc chở nặng sẽ nghiêng câu trả lời về một phía. Ai lưỡng lự giữa xe số và xe ga, tổng quan các dòng xe nằm trong [chuyên mục xe máy](/xe-may/) sẽ giúp định hướng loại xe trước khi so hai mẫu cụ thể.
 
 ## Độ hao xăng và chi phí khi thuê
 
 Cả hai đều thuộc nhóm xe số tiết kiệm, chênh lệch xăng giữa hai xe trên cùng quãng đường phố rất nhỏ, nhỏ hơn nhiều so với chênh giữa xe số và xe ga. Nhân tố ảnh hưởng xăng lớn nhất là cách đi: giữ ga nhẹ, về số đúng lúc và lốp đủ căng. Thói quen giữ lốp căng đúng chuẩn và nhớt xe đúng kỳ là hai việc nhỏ mà ảnh hưởng trực tiếp đến tiền xăng và độ bền máy, đáng chú tâm kể cả khi đi xe thuê chỉ vài tuần.
 
-Về giá thuê, Honda Wave theo ngày phổ biến ở mức 150.000 đồng. Giá thuê Sirius cần xác nhận trực tiếp với cửa hàng theo thời điểm và thời hạn thuê, cùng tiền đặt cọc và quy định xăng khi nhận trả xe. Danh sách giá đầy đủ của các dòng xe số nằm ở [bảng giá xe số](/blog/bang-gia-xe-so/). Nói cách khác, giữa hai xe, chi phí thuê không phải thứ đẩy bạn về phía nào, mà là độ sẵn xe và tình trạng từng chiếc tại thời điểm bạn cần.
+Về giá thuê, Honda Wave theo ngày phổ biến ở mức 150.000 đồng. Giá thuê Sirius cần xác nhận trực tiếp với cửa hàng theo thời điểm và thời hạn thuê, cùng tiền đặt cọc và quy định xăng khi nhận trả xe. Danh sách giá đầy đủ của các dòng xe số nằm ở [bảng giá xe số](/bang-gia-xe-so/). Nói cách khác, giữa hai xe, chi phí thuê không phải thứ đẩy bạn về phía nào, mà là độ sẵn xe và tình trạng từng chiếc tại thời điểm bạn cần.
 
 Nếu bạn cần xe liền nhiều tuần hoặc cả tháng, hỏi cửa hàng về mức giá thuê dài hạn so với thuê lẻ từng ngày, vì khoảng cách giữa hai cách tính thường đáng kể. Đặt cọc và giấy tờ cần mang cũng nên hỏi trước để khỏi phải quay về lấy, mất thời gian giữa lịch trình đi lại vốn đã chật chội của người Hà Nội.
 
@@ -35,13 +35,13 @@ Nếu bạn cần xe liền nhiều tuần hoặc cả tháng, hỏi cửa hàng
 
 Với xe thuê, độ phổ dụng quan trọng hơn độ mới: hai dòng đều bán chạy nhiều năm nên phụ tùng rẻ và dễ tìm, cửa hàng bảo dưỡng nhanh, kể cả khi xe gặp trục trặc nhỏ giữa kỳ thuê. Khi nhận xe, hãy chạy thử: để pa ở chỗ bằng, thử côn ngắt rõ không, nghe máy đều không, kiểm tra đèn còi và phanh. Xe thuê qua nhiều tay, cùng một dòng nhưng chiếc này có thể nặng côn hơn chiếc kia, ăn phanh khác nhau rõ rệt.
 
-Với người thuê tháng dài, nên chọn chiếc nào côn còn ăn tốt, lốp còn đủ gai vì hai thứ này ảnh hưởng trải nghiệm mỗi ngày trên đường trường hoặc qua cầu. Chụp tình trạng xe khi nhận, ghi km hiện tại và giữ liên hệ cửa hàng để báo sớm nếu có tiếng lạ. Tổng quan về từng dòng xe nằm tại [chủ đề xe số](/blog/xe-may/xe-so/) và [chủ đề Honda Wave](/blog/xe-may/honda-wave/), nơi có nhiều bài sâu hơn nếu bạn muốn tìm hiểu kỹ trước khi thuê.
+Với người thuê tháng dài, nên chọn chiếc nào côn còn ăn tốt, lốp còn đủ gai vì hai thứ này ảnh hưởng trải nghiệm mỗi ngày trên đường trường hoặc qua cầu. Chụp tình trạng xe khi nhận, ghi km hiện tại và giữ liên hệ cửa hàng để báo sớm nếu có tiếng lạ. Tổng quan về từng dòng xe nằm tại [chủ đề xe số](/xe-may/xe-so/) và [chủ đề Honda Wave](/xe-may/honda-wave/), nơi có nhiều bài sâu hơn nếu bạn muốn tìm hiểu kỹ trước khi thuê.
 
 ## Chọn theo nhu cầu: gợi ý chốt
 
 Nếu bạn đi quãng dài qua cầu, đường trường hoặc thường chở người lớn, đồ nặng: Sirius với sự đầm chắc sẽ đỡ mỏi tay và cho cảm giác an tâm hơn trên những đoạn chạy nhanh. Nếu bạn đi chủ yếu trong phố, quãng ngắn, dừng nhiều và hay luồn lách: Wave nhẹ và lanh sẽ hợp nhịp hơn. Nếu bạn quen một hãng từ trước, hãy giữ thói quen đó, vì cảm giác tay lái quen thuộc trên đường đông còn giá trị hơn mọi so sánh trên giấy.
 
-Còn nếu cả hai chiếc tại cửa hàng đều tình trạng tốt, đừng suy nghĩ quá lâu: chọn chiếc bạn thấy tay lái tự nhiên nhất sau khi chạy thử cũng được, miễn là bạn đã kiểm tra đủ côn, phanh, đèn và còi trước khi nhận. Kinh nghiệm thực tế từ người thuê xe được góp trong [chuyên mục kinh nghiệm](/blog/kinh-nghiem/), đáng đọc vài phút trước khi ký hợp đồng thuê dài hạn.
+Còn nếu cả hai chiếc tại cửa hàng đều tình trạng tốt, đừng suy nghĩ quá lâu: chọn chiếc bạn thấy tay lái tự nhiên nhất sau khi chạy thử cũng được, miễn là bạn đã kiểm tra đủ côn, phanh, đèn và còi trước khi nhận. Kinh nghiệm thực tế từ người thuê xe được góp trong [chuyên mục kinh nghiệm](/kinh-nghiem/), đáng đọc vài phút trước khi ký hợp đồng thuê dài hạn.
 
 ## Kết luận
 

@@ -51,7 +51,7 @@ Một số chặng trường ngắn phù hợp với Sirius từ Hà Nội:
 - Hà Nội đi Tam Đảo bằng đường bộ đến chân dốc, khoảng 75 km, cần kiểm tra phanh kỹ trước khi về.
 - Hà Nội đi Ba Vì, khoảng 60 km, đoạn cuối đường hẹp cần đi chậm.
 
-Với từng chặng, bạn nên khởi hành buổi sáng sớm để tránh nắng gắt và dòng xe tải giờ cao điểm. Tham khảo thêm các hướng dẫn về [đường trường và cung đường](/blog/cung-duong/) để chọn giờ đi và điểm dừng nghỉ hợp lý.
+Với từng chặng, bạn nên khởi hành buổi sáng sớm để tránh nắng gắt và dòng xe tải giờ cao điểm. Tham khảo thêm các hướng dẫn về [đường trường và cung đường](/cung-duong/) để chọn giờ đi và điểm dừng nghỉ hợp lý.
 
 ## Kỹ thuật chạy trên đường trường
 
@@ -63,7 +63,7 @@ Khi trời mưa bất chợt, hạ tốc xuống dưới 40 km trên giờ, trá
 
 Về đến nơi, bạn nên để máy nguội rồi kiểm tra lại xích, lốp và mức nhớt một lần nữa. Xe đi đường bụi cần được rửa sạch, tra lại dầu xích nếu đi mưa hoặc qua đoạn ngập. Những việc này chỉ mất vài phút nhưng giúp xe ổn định cho chặng sau, đặc biệt nếu bạn còn kế hoạch đi tiếp trong tuần.
 
-Chặng trường quãng ngắn là bài kiểm tra nhẹ nhàng mà Sirius hoàn toàn vượt qua được khi bạn chuẩn bị kỹ. Để tìm hiểu thêm về dòng xe này và các dòng xe số khác, xem trang chủ đề [xe máy và dòng xe](/blog/xe-may/), hoặc tìm hiểu sâu hơn tại trang [Yamaha Sirius](/blog/xe-may/yamaha-sirius/). Khi cần thuê xe cho chặng Hà Nội đi tỉnh, bạn liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú qua số 0942 467 674 để được tư vấn dòng xe phù hợp với cung đường dự kiến.
+Chặng trường quãng ngắn là bài kiểm tra nhẹ nhàng mà Sirius hoàn toàn vượt qua được khi bạn chuẩn bị kỹ. Để tìm hiểu thêm về dòng xe này và các dòng xe số khác, xem trang chủ đề [xe máy và dòng xe](/xe-may/), hoặc tìm hiểu sâu hơn tại trang [Yamaha Sirius](/xe-may/yamaha-sirius/). Khi cần thuê xe cho chặng Hà Nội đi tỉnh, bạn liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú qua số 0942 467 674 để được tư vấn dòng xe phù hợp với cung đường dự kiến.
 
 ## Kết luận về yamaha sirius đường trường
 

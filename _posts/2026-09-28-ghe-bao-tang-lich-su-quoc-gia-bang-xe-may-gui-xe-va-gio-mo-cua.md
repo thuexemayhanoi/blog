@@ -18,7 +18,7 @@ article_id: BLG-00707
 
 Cơ sở 25 Phan Đình Phùng nằm sát khu di tích phía bờ Hồ Tây làn trong, các trục quanh khu nhiều đoạn một chiều và được quản lý chặt, nên khách chạy xe máy nên định sẵn lối rẽ theo biển chỉ dẫn thay vì theo lối tắt trên ứng dụng. Cơ sở 216 Trần Quang Khải nằm gần bờ đông nam Hồ Gươm, các đường quanh khu phần lớn một chiều và đông theo khung, khách nên gửi xe tại một bãi trong ngõ quanh khu rồi đi bộ sang cửa bảo tàng. Từ cửa hàng tại 112 Nguyễn Văn Cừ bên Long Biên, quãng chạy qua cầu Chương Dương tới mỗi cơ sở đều gọn trong khung vắng.
 
-Khoảng cách giữa hai cơ sở chừng vài phút chạy xe theo trục qua khu phố cổ, nhưng khung tan tầm dòng dày nên khách ghép cả hai trong một ngày nên để hai buổi riêng, hoặc giữ cơ sở gần Hồ Gươm cho khung chiều muộn. Chi tiết đường quanh cụm di tích Ba Đình được kể trong bài [khám phá khu Ba Đình](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), còn các lưu ý chạy quanh vành hồ nằm trong bài [khám phá khu Hoàn Kiếm](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
+Khoảng cách giữa hai cơ sở chừng vài phút chạy xe theo trục qua khu phố cổ, nhưng khung tan tầm dòng dày nên khách ghép cả hai trong một ngày nên để hai buổi riêng, hoặc giữ cơ sở gần Hồ Gươm cho khung chiều muộn. Chi tiết đường quanh cụm di tích Ba Đình được kể trong bài [khám phá khu Ba Đình](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), còn các lưu ý chạy quanh vành hồ nằm trong bài [khám phá khu Hoàn Kiếm](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
 
 ## Giờ mở cửa và ngày nên đến
 
@@ -30,11 +30,11 @@ Khung đáng đi là sáng sớm ngày thường: bảo tàng vắng khách, cá
 
 Gửi xe Bảo tàng Lịch sử Quốc gia phụ thuộc cơ sở: tại 25 Phan Đình Phùng, khách để xe theo chỉ dẫn tại khu cổng của bảo tàng, hỏi giá trước khi đưa xe và chụp lại vị trí kèm biển số; các đoạn ven đường quanh khu được quản lý chặt, không nên đỗ lề. Tại 216 Trần Quang Khải, chỗ gửi nằm trong các bãi ngõ quanh khu Hồ Gươm, kín nhanh theo khung chiều và tối cuối tuần, khách nên tính phương án bãi xa hơn một đoạn rồi đi bộ.
 
-Xe máy thuê cần vòng kiểm tra nhanh trước khi xuất phát: đèn, còi, phanh và áp suất lốp, vì các trục quanh hai cơ sở có đoạn hai chiều nhanh và khách thường chạy nối thêm điểm khác trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội mỗi khi lăn bánh kể cả đoạn nối giữa bãi và cổng. Các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Xe máy thuê cần vòng kiểm tra nhanh trước khi xuất phát: đèn, còi, phanh và áp suất lốp, vì các trục quanh hai cơ sở có đoạn hai chiều nhanh và khách thường chạy nối thêm điểm khác trong ngày. Giấy tờ mang theo người, mũ bảo hiểm đội mỗi khi lăn bánh kể cả đoạn nối giữa bãi và cổng. Các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Ghép lịch nửa ngày quanh bảo tàng
 
-Hai cơ sở của bảo tàng đều nằm cạnh các cụm đáng ghé: cơ sở Ba Đình cạnh khu di tích và các dãy phố cây xanh, cơ sở Hoàn Kiếm cách vài phút đi bộ tới vành Hồ Gươm và phố cổ. Khách một buổi nên xem bảo tàng trước khung nóng rồi đi bộ dạo cụm xung quanh, giữ nguyên một chỗ gửi xe cho cả buổi. Danh sách các bảo tàng và điểm đến quanh thành phố xếp tại trang [điểm đến](/blog/du-lich/diem-den/), còn tổng quan lịch trình quanh Hà Nội nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Hai cơ sở của bảo tàng đều nằm cạnh các cụm đáng ghé: cơ sở Ba Đình cạnh khu di tích và các dãy phố cây xanh, cơ sở Hoàn Kiếm cách vài phút đi bộ tới vành Hồ Gươm và phố cổ. Khách một buổi nên xem bảo tàng trước khung nóng rồi đi bộ dạo cụm xung quanh, giữ nguyên một chỗ gửi xe cho cả buổi. Danh sách các bảo tàng và điểm đến quanh thành phố xếp tại trang [điểm đến](/du-lich/diem-den/), còn tổng quan lịch trình quanh Hà Nội nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 Trẻ nhỏ theo buổi nên được hẹn trước phần trưng bày có hiện vật lớn và mô hình, vừa giữ hứng thú vừa tránh chạm các ngăn kính. Khách đi nhóm nên hẹn nhau tại quầy vé thay vì trong sảnh, vì một số phòng trưng bày cấm nói to và có nhân viên giữ trật tự trong khung đông.
 

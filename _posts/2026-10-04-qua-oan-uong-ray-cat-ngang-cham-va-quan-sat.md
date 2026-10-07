@@ -44,6 +44,6 @@ Với xe thuê, phần chuẩn bị rơi về trước chuyến đi: phanh chắ
 
 ## Nhắc lại cho người mới
 
-Qua đường ray cắt ngang an toàn không nằm ở một kỹ năng khó, chỉ nằm ở việc làm đủ bốn việc nhỏ mỗi lần: chậm từ xa, nhìn hai bên kể cả bên vắng, qua vuông góc dứt khoát, và giữ khoảng trống sau nút cho người phía sau. Làm đủ bốn việc đó, nút cắt ngang mất đi phần đáng sợ của nó, còn bỏ một việc bất kỳ thì phần rủi ro quay lại đúng chỗ. Các tình huống giao thông tương tự gộp trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống; người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi chạy đường trường.
+Qua đường ray cắt ngang an toàn không nằm ở một kỹ năng khó, chỉ nằm ở việc làm đủ bốn việc nhỏ mỗi lần: chậm từ xa, nhìn hai bên kể cả bên vắng, qua vuông góc dứt khoát, và giữ khoảng trống sau nút cho người phía sau. Làm đủ bốn việc đó, nút cắt ngang mất đi phần đáng sợ của nó, còn bỏ một việc bất kỳ thì phần rủi ro quay lại đúng chỗ. Các tình huống giao thông tương tự gộp trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống; người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi chạy đường trường.
 
 Nút ray không phải nơi để nhanh. Nó là nơi duy nhất trên đường mà đúng nguyên tắc lại chính là cách nhanh nhất — chậm, nhìn kỹ, qua gọn, và nhường khoảng trống cho người sau.

@@ -19,19 +19,19 @@ Người chưa từng đi xe máy nhiều khi tìm thuê lần đầu ở Hà N�
 
 Thứ nhất là trọng lượng và kích thước: Wave thuộc nhóm xe máy nhẹ nhất, yên thấp nên hai bàn chân chạm đất chắc chắn khi dừng, điều quan trọng nhất với người mới vì đa số ngã xe ở tình huống dừng đỏ và đặt chân. Thứ hai là trọng tâm thấp, xe đứng vững khi đẩy, rẽ và vào ngõ chật hẹp. Thứ ba là ga nhẹ và phản ứng tuyến tính: vặn một chút xe đi một chút, không bị hiện tượng giật của một số xe đã dùng lâu. Kết hợp lại, wave dễ lái gần như ngay từ buổi đầu, kể cả với người chưa từng điều khiển xe máy bao giờ.
 
-Thứ tư là thao tác côn số của Wave nhẹ: cần côn bóp mềm, các số vào dễ, chân đề không cao. So với các xe số máy lớn, việc học phối hợp tay côn chân số trên Wave nhẹ nhàng hơn nhiều, và so với xe ga, Wave còn cho người mới cảm giác kiểm soát tốc độ chủ động hơn khi tay ga chỉ là một trong các khâu điều khiển. Các đặc tính chung của dòng xe được tổng hợp tại [chủ đề Honda Wave](/blog/xe-may/honda-wave/).
+Thứ tư là thao tác côn số của Wave nhẹ: cần côn bóp mềm, các số vào dễ, chân đề không cao. So với các xe số máy lớn, việc học phối hợp tay côn chân số trên Wave nhẹ nhàng hơn nhiều, và so với xe ga, Wave còn cho người mới cảm giác kiểm soát tốc độ chủ động hơn khi tay ga chỉ là một trong các khâu điều khiển. Các đặc tính chung của dòng xe được tổng hợp tại [chủ đề Honda Wave](/xe-may/honda-wave/).
 
 ## Trình tự làm quen trong buổi đầu
 
 Nếu bạn hoàn toàn mới, hãy yêu cầu cửa hàng hướng dẫn tại chỗ theo trình tự sau. Bước một, ngồi lên xe, chống đứng, tập bóp côn và thả côn khi xe đang tắt máy để ghi nhớ lực cần. Bước hai, nổ máy, vào số một, thả côn từ từ cho xe nhúc nhích rồi bóp côn lại cho dừng, lặp lại tới khi cổ tay quen nhịp. Bước ba, chạy vòng chậm trong khoảng sân hoặc đường vắng, tập lên số hai, ba và về số, kết hợp phanh. Bước bốn, tập dừng đỏ mô phỏng: thả ga, bóp phanh sau và phanh trước nhẹ, về số không, đặt chân. Sau một buổi như vậy, phần còn lại chỉ là đi lại trên phố thật với tốc độ thấp trong vài ngày đầu.
 
-Nguyên tắc an toàn cho người mới: luôn về số không khi dừng, không bao giờ vào số khi xe chưa chạy nếu không chắc nhịp côn, và giữ tay phải đặt sẵn trên phanh. Mũ bảo hiểm phải đội ngay từ buổi tập đầu. Nếu có người nhà đi kèm, hãy nhờ đi sau xe vài ngày đầu để nhắc các lỗi thao tác, nhất là quên về số khi dừng và quên bóp côn khi vào số. Câu trả lời cho các thắc mắc thường gặp của người mới nằm ở [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/).
+Nguyên tắc an toàn cho người mới: luôn về số không khi dừng, không bao giờ vào số khi xe chưa chạy nếu không chắc nhịp côn, và giữ tay phải đặt sẵn trên phanh. Mũ bảo hiểm phải đội ngay từ buổi tập đầu. Nếu có người nhà đi kèm, hãy nhờ đi sau xe vài ngày đầu để nhắc các lỗi thao tác, nhất là quên về số khi dừng và quên bóp côn khi vào số. Câu trả lời cho các thắc mắc thường gặp của người mới nằm ở [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/).
 
 ## Người mới nên hỏi gì trước khi nhận xe
 
 Ba câu hỏi nên hỏi cửa hàng: thứ nhất, xe này có phải xe số và chân đề ở vị trí nào, vì các đời Wave có khác biệt nhỏ; thứ hai, khi xe đang thuê có trục trặc thì liên hệ ai, khung giờ hỗ trợ nào; thứ ba, quy định về xăng khi trả xe và mức xăng đã nhận lúc đầu. Người mới hay quên câu hỏi thứ ba và bị bất ngờ lúc trả xe, nên hãy hỏi ngay từ đầu để tránh hiểu lầm không đáng có.
 
-Ngoài ra, đừng ngại nói rõ với cửa hàng bạn là người mới: cửa hàng sẽ chọn chiếc xe dễ điều khiển nhất, chỉnh gương và hướng dẫn kỹ hơn, thậm chí cho chạy thử lâu hơn trong sân. Việc khai thật trình độ của mình không làm bạn mất điểm, ngược lại giúp cả hai bên an toàn hơn trong suốt kỳ thuê. Các bước chuẩn bị giấy tờ khi đến cửa hàng đã có hướng dẫn riêng ở [mục kinh nghiệm](/blog/kinh-nghiem/).
+Ngoài ra, đừng ngại nói rõ với cửa hàng bạn là người mới: cửa hàng sẽ chọn chiếc xe dễ điều khiển nhất, chỉnh gương và hướng dẫn kỹ hơn, thậm chí cho chạy thử lâu hơn trong sân. Việc khai thật trình độ của mình không làm bạn mất điểm, ngược lại giúp cả hai bên an toàn hơn trong suốt kỳ thuê. Các bước chuẩn bị giấy tờ khi đến cửa hàng đã có hướng dẫn riêng ở [mục kinh nghiệm](/kinh-nghiem/).
 
 
 ## Một vài lỗi người mới hay mắc với xe số

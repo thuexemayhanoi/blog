@@ -32,7 +32,7 @@ Phanh phải ăn nhẹ và liền tay. Phanh bố ở cả hai bánh thường d
 
 Người cao tuổi cần thời gian làm quen dài hơn người trẻ, nên nếu được, hãy dành mười lăm phút đầu chạy thử quanh khu vắng xe: khởi hành, dừng, quay đầu, đổ dốc nhẹ và dắt bộ. Quan sát cha mẹ thực hiện các thao tác này nói lên nhiều hơn mọi lời tư vấn, vì bạn sẽ thấy ngay xe có thấp quá cao, tay ga có nặng, và người có tự tin hay không. Nếu cha mẹ bạn nhiều năm không đi xe máy, nên cân nhắc lại cả việc có nên thuê xe hay dùng phương tiện khác, thay vì ép người lái theo xe.
 
-Trong phố Hà Nội, các tình huống dồn dập như xe buýt tránh làn, người đi bộ cắt ngang hay ngã tư không đèn đều đòi hỏi phản xạ nhanh. Người lớn tuổi đi trong phố vì vậy nên chọn giờ vắng, né khung giờ cao điểm, và đi tuyến quen thuộc. Cách chọn xe theo vóc dáng nói chung cũng áp dụng cho người cao tuổi, bài [chọn xe máy cho người cao to](/blog/hoi-dap/2026/10/04/chon-xe-may-cho-nguoi-cao-to-yen-rong-va-tay-lai/) kể chi tiết cách thử yên và tay lái khi nhận xe, các bước thử đó dùng được cho mọi độ tuổi.
+Trong phố Hà Nội, các tình huống dồn dập như xe buýt tránh làn, người đi bộ cắt ngang hay ngã tư không đèn đều đòi hỏi phản xạ nhanh. Người lớn tuổi đi trong phố vì vậy nên chọn giờ vắng, né khung giờ cao điểm, và đi tuyến quen thuộc. Cách chọn xe theo vóc dáng nói chung cũng áp dụng cho người cao tuổi, bài [chọn xe máy cho người cao to](/hoi-dap/2026/10/04/chon-xe-may-cho-nguoi-cao-to-yen-rong-va-tay-lai/) kể chi tiết cách thử yên và tay lái khi nhận xe, các bước thử đó dùng được cho mọi độ tuổi.
 
 ## Một vài dòng xe hay được hỏi đến
 
@@ -40,4 +40,4 @@ Câu hỏi thực tế nhất khi đến cửa hàng thường là giữa dòng 
 
 Khi thuê, nên nói thẳng với cửa hàng rằng xe dành cho người lớn tuổi đi trong phố, để nhân viên gợi ý đúng dòng xe thấp và nhẹ đang có. Kiểm tra đèn, còi, gương và phanh trước khi nhận, và chậm lại khi mới ngồi lên xe lạ. Nếu còn băn khoăn về dòng xe nào đang sẵn hay thủ tục thuê, hãy hỏi trực tiếp chủ xe cho chắc chắn.
 
-Tóm lại, chọn xe cho người cao tuổi đi trong phố là chọn sự nhẹ nhàng: yên thấp, tay ga nhẹ, phanh ăn và xe gọn. Các câu hỏi tương tự khi chọn dòng xe thuê được gom trong mục [hỏi đáp chọn xe](/blog/hoi-dap/hoi-dap-chon-xe/), còn trọn bộ các câu hỏi thường gặp về thuê xe máy ở Hà Nội nằm trong mục [hỏi đáp](/blog/hoi-dap/).
+Tóm lại, chọn xe cho người cao tuổi đi trong phố là chọn sự nhẹ nhàng: yên thấp, tay ga nhẹ, phanh ăn và xe gọn. Các câu hỏi tương tự khi chọn dòng xe thuê được gom trong mục [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/), còn trọn bộ các câu hỏi thường gặp về thuê xe máy ở Hà Nội nằm trong mục [hỏi đáp](/hoi-dap/).

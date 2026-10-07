@@ -32,7 +32,7 @@ Kinh nghiệm quanh các bệnh viện lớn như Bạch Mai hay Việt Đức: 
 
 Cũng nên tính đến thời tiết và mùa: ngày mưa, lối cổng bị tắc vì ô tô taxi chậm rãi; mùa cúm, cổng bệnh viện nhi đông đợt riêng — đi cùng trẻ nhỏ thì để một người xuống làm thủ tục gửi xe, người còn lại giữ trẻ.
 
-Kỹ năng canh giờ này giống nhau ở mọi nơi đông người: đã bàn kỹ trong bài [gửi xe ở trường học vào giờ đón con](/blog/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con/) — bài toán chỗ hẹp và giờ cao điểm chỉ khác bối cảnh.
+Kỹ năng canh giờ này giống nhau ở mọi nơi đông người: đã bàn kỹ trong bài [gửi xe ở trường học vào giờ đón con](/ky-nang/2026/10/04/gui-xe-o-truong-hoc-ngo-nho-khi-ua-on-con/) — bài toán chỗ hẹp và giờ cao điểm chỉ khác bối cảnh.
 
 ## Thủ tục gửi xe máy ở bệnh viện: ba việc làm trong một phút
 
@@ -46,7 +46,7 @@ Thứ ba, giữ chìa đúng một bộ và mang theo người, không để kh�
 
 Nếu biết trước buổi khám sẽ dài — xếp hạng chuyên khoa, chụp chiếu, chờ kết quả — hãy chọn chỗ đỗ xa cổng hơn một chút nhưng trong khu vực có người trông và camera. Vị trí sát lối ra vào là vị trí bị dựng xe chồng, xê dịch nhiều nhất mỗi đợt người vào ra; một ngày ở bãi bệnh viện, chỗ "xấu" ít va chạm hơn chỗ "đẹp".
 
-Khóa xe đúng cách kể cả khi bãi có trông: khóa cổ kèm khóa bóp bánh sau, xe để số, cốp khóa kín. Bãi đông qua nhiều ca, người trông thay ca, và phần trộm phụ tùng — gương, kính, áo che — thường nhắm xe khóa lỏng lẻo ở vị trí khuất. Chủ đề này đã được nói kỹ trong bài [chống trộm phụ tùng khi gửi xe qua đêm](/blog/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/), và các nguyên tắc đó áp dụng nguyên cho bãi bệnh viện ban ngày.
+Khóa xe đúng cách kể cả khi bãi có trông: khóa cổ kèm khóa bóp bánh sau, xe để số, cốp khóa kín. Bãi đông qua nhiều ca, người trông thay ca, và phần trộm phụ tùng — gương, kính, áo che — thường nhắm xe khóa lỏng lẻo ở vị trí khuất. Chủ đề này đã được nói kỹ trong bài [chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/), và các nguyên tắc đó áp dụng nguyên cho bãi bệnh viện ban ngày.
 
 Cuối cùng, nếu bạn đi khám bằng xe thuê, nhắn cho đơn vị cho thuê một tin ngắn biết xe đang gửi ở bãi nào gần bệnh viện nào: khi có sự cố giữa buổi, người cho thuê biết vị trí xe để hỗ trợ nhanh nhất.
 
@@ -56,4 +56,4 @@ Nhận xe xong đừng vội nổ máy đi: soát nhanh theo đúng bốn ảnh 
 
 Kiểm tra két nước, lốp và phanh trong mười giây trước khi nhập vào dòng xe ra cổng: bãi bệnh viện đông, xe ra vào liên tục, đây là mười giây an toàn của riêng bạn. Nếu buổi khám khiến bạn mệt — người bệnh sốt, kết quả không như mong đợi — nên để người nhà ngồi sau giữ xe lúc ra về thay vì tự lái.
 
-Gửi xe máy ở bệnh viện, suy cho cùng, là bài toán xếp giờ và vị trí: chọn bãi gần cổng có người trông và camera, đến trước đợt cao điểm, làm thủ tục trọn vẹn trong một phút, để xe chắc khóa. Làm đúng bốn bước đó, buổi khám của bạn chỉ còn phải lo chuyện trong phòng khám. Các tình huống gửi xe khác — chợ phiên, khách sạn, giữ xe qua đêm — có bài riêng trong [chuyên mục gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn tổng quan kỹ năng đi đường Hà Nội nằm trong [chuyên mục kỹ năng](/blog/ky-nang/).
+Gửi xe máy ở bệnh viện, suy cho cùng, là bài toán xếp giờ và vị trí: chọn bãi gần cổng có người trông và camera, đến trước đợt cao điểm, làm thủ tục trọn vẹn trong một phút, để xe chắc khóa. Làm đúng bốn bước đó, buổi khám của bạn chỉ còn phải lo chuyện trong phòng khám. Các tình huống gửi xe khác — chợ phiên, khách sạn, giữ xe qua đêm — có bài riêng trong [chuyên mục gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn tổng quan kỹ năng đi đường Hà Nội nằm trong [chuyên mục kỹ năng](/ky-nang/).

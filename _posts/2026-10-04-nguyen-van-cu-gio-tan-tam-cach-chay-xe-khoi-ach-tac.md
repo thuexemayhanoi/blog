@@ -50,4 +50,4 @@ Thứ nhất, đổ xăng từ hôm trước hoặc từ sáng, vì các cây x�
 
 ## Tóm lại
 
-Ách tắc trên trục này là chuyện của giờ, không phải của đường: lệch giờ nửa tiếng, đổi một tuyến song song, và chạy trong đám đông theo nguyên tắc, là ba việc đủ để quãng tan tầm bớt nặng nề. Ai mới chạy khu bờ bắc nên xem nhanh mục [kinh nghiệm](/blog/kinh-nghiem/), gợi ý điểm chơi quanh khu ở chuyên mục [Long Biên](/blog/du-lich/long-bien/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/blog/du-lich/).
+Ách tắc trên trục này là chuyện của giờ, không phải của đường: lệch giờ nửa tiếng, đổi một tuyến song song, và chạy trong đám đông theo nguyên tắc, là ba việc đủ để quãng tan tầm bớt nặng nề. Ai mới chạy khu bờ bắc nên xem nhanh mục [kinh nghiệm](/kinh-nghiem/), gợi ý điểm chơi quanh khu ở chuyên mục [Long Biên](/du-lich/long-bien/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/du-lich/).

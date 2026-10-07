@@ -44,9 +44,9 @@ Không nên đoán con số phạt theo tin nhắn hay bài chia sẻ cũ, vì k
 
 ## Người thuê xe cần lưu ý gì
 
-Với khách thuê xe máy ở Hà Nội, có ba điểm đáng chuẩn bị trước khi nhận xe. Thứ nhất, hợp đồng thuê tính theo mỗi xe, nhưng lỗi vi phạm khi lưu thông thuộc về người điều khiển, nên đừng vì xe thuê mà chủ quan chở thêm người khi không thuộc ngoại lệ. Thứ hai, nếu dự định chở trẻ em dưới 14 tuổi đi cùng, hãy báo trước để chọn xe có yên sau phù hợp và mũ bảo hiểm đạt chuẩn cho trẻ em. Thứ ba, khi bị dừng kiểm tra giấy tờ, cách trình bày đúng trình tự đã được tóm tắt trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/blog/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
+Với khách thuê xe máy ở Hà Nội, có ba điểm đáng chuẩn bị trước khi nhận xe. Thứ nhất, hợp đồng thuê tính theo mỗi xe, nhưng lỗi vi phạm khi lưu thông thuộc về người điều khiển, nên đừng vì xe thuê mà chủ quan chở thêm người khi không thuộc ngoại lệ. Thứ hai, nếu dự định chở trẻ em dưới 14 tuổi đi cùng, hãy báo trước để chọn xe có yên sau phù hợp và mũ bảo hiểm đạt chuẩn cho trẻ em. Thứ ba, khi bị dừng kiểm tra giấy tờ, cách trình bày đúng trình tự đã được tóm tắt trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
 
-Danh mục giấy tờ cần mang khi đến cửa hàng cũng nên kiểm tra trước, xem chi tiết trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Danh mục giấy tờ cần mang khi đến cửa hàng cũng nên kiểm tra trước, xem chi tiết trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/). Các quy định giao thông hiện hành cho người đi xe máy được tổng hợp trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về chở người trên xe máy
 

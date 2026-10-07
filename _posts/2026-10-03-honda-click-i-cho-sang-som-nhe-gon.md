@@ -24,7 +24,7 @@ Xe nhỏ cũng dễ tìm chỗ đỗ. Dọc chợ, chỗ để xe thường ch�
 
 ## Chuẩn bị trước khi tới chợ
 
-Trước khi nổ máy, hãy bỏ ví tiền và điện thoại vào cốp, chỉ giữ sẵn một khoản nhỏ trong túi áo để trả tiền mua rau cá. Chợ sáng sớm là nơi đông tay nhất, đồ bung khỏi giỏ là chuyện rất thường, nên vật giá trị nên cất kỹ. Nếu thuê xe, hãy đọc trước bài giới thiệu [Honda Click](/blog/xe-may/honda-click/) để biết rõ đặc điểm cốp xe, chỗ để găng tay và móc treo, vì mỗi đời xe có bố cục khác nhau.
+Trước khi nổ máy, hãy bỏ ví tiền và điện thoại vào cốp, chỉ giữ sẵn một khoản nhỏ trong túi áo để trả tiền mua rau cá. Chợ sáng sớm là nơi đông tay nhất, đồ bung khỏi giỏ là chuyện rất thường, nên vật giá trị nên cất kỹ. Nếu thuê xe, hãy đọc trước bài giới thiệu [Honda Click](/xe-may/honda-click/) để biết rõ đặc điểm cốp xe, chỗ để găng tay và móc treo, vì mỗi đời xe có bố cục khác nhau.
 
 Đồ đi chợ nên chia thành hai nhóm: nhóm khô như rau, trái cây, gạo và nhóm ướt như cá, thịt, tôm. Nhóm ướt nên bọc túi kín rồi cho vào túi vải dày, hạn chế để chung với rau sống. Nếu bạn mua nhiều, cân nhắc mang theo một chiếc làn nhựa cứng đặt giữa hai chân trên sàn xe: cách này giữ đồ không bị đè và không rò rỉ nước lên sàn xe ga, vốn gần với ống pô và dễ ám mùi nếu để cá rỉ nước lâu.
 
@@ -46,4 +46,4 @@ Mùa hè nên đi chợ thật sớm, vừa tranh chỗ mát vừa tranh đượ
 
 ## Kết lại
 
-Đi chợ sáng sớm bằng xe ga nhỏ là bài toán thực dụng: xe gọn, giá thuê vừa, đủ chở đồ của một bữa ăn, và linh hoạt trong không gian chật chội. Đặt đồ đúng chỗ, cất đồ quý trong cốp, và chở đồ ướt cẩn thận là ba thói quen biến một chiếc [xe máy](/blog/xe-may/) thuê thành người bạn đồng hành đáng tin cho chuyến chợ buổi sớm. Ai muốn đào sâu thêm về cách sắp xếp đồ đạc và túi treo có thể đọc tiếp bài [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/) trước hôm đi chợ lớn.
+Đi chợ sáng sớm bằng xe ga nhỏ là bài toán thực dụng: xe gọn, giá thuê vừa, đủ chở đồ của một bữa ăn, và linh hoạt trong không gian chật chội. Đặt đồ đúng chỗ, cất đồ quý trong cốp, và chở đồ ướt cẩn thận là ba thói quen biến một chiếc [xe máy](/xe-may/) thuê thành người bạn đồng hành đáng tin cho chuyến chợ buổi sớm. Ai muốn đào sâu thêm về cách sắp xếp đồ đạc và túi treo có thể đọc tiếp bài [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/) trước hôm đi chợ lớn.

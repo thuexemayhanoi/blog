@@ -15,7 +15,7 @@ article_id: BLG-00550
 
 Chụp ảnh xe khi nhận và trả là thói quen nhỏ nhưng giúp bạn tránh gần như toàn bộ tranh chấp về vết xước, hư hỏng hay phụ kiện thiếu khi hết kỳ thuê. Một bộ ảnh chụp đúng lúc bàn giao là bằng chứng trung lập mà cả bạn lẫn cửa hàng đều có thể nhìn lại, thay vì mỗi bên nhớ một kiểu. Bài viết này đi từng bước: chụp gì lúc nhận xe, chụp gì lúc trả xe, lưu ảnh ra sao để dùng được khi cần.
 
-Nếu bạn mới thuê xe máy ở Hà Nội lần đầu, nên kết hợp việc chụp ảnh với bước kiểm tra tổng thể trong [quy trình nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/). Khi ảnh đối chứng chưa cứu được tình huống lớn hơn, các bước xử lý nằm ở chủ đề [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Nếu bạn mới thuê xe máy ở Hà Nội lần đầu, nên kết hợp việc chụp ảnh với bước kiểm tra tổng thể trong [quy trình nhận xe và trả xe](/thue-xe/nhan-tra-xe/). Khi ảnh đối chứng chưa cứu được tình huống lớn hơn, các bước xử lý nằm ở chủ đề [sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Chụp ảnh xe khi nhận và trả cần lấy những góc nào
 
@@ -31,7 +31,7 @@ Chụp xong mà ảnh nằm lẫn trong hàng nghìn tấm trong điện thoại
 
 Nếu muốn chắc chắn hơn, gửi toàn bộ bộ ảnh cho người thân qua tin nhắn, hoặc tự gửi vào một cuộc trò chuyện của riêng bạn. Mục đích là để bộ ảnh có thêm một bản sao mang dấu thời gian bên ngoài điện thoại, phòng khi máy hỏng hoặc ảnh bị xóa nhầm. Dấu thời gian do máy chụp tự ghi kèm trong thông tin tệp ảnh cũng là chi tiết nên bảo toàn, vì nó cho thấy ảnh được chụp trong khoảng thời gian bàn giao, không phải ảnh dựng lại sau đó.
 
-Tránh sử dụng ảnh đã qua chỉnh sửa hoặc ghép lại, kể cả chỉ làm sáng thêm. Khi có tranh chấp, một tấm ảnh gốc, hơi tối nhưng còn nguyên dữ liệu, có giá trị hơn nhiều so với một tấm ảnh đẹp đã qua xử lý. Nếu bạn nghiêng về quay video, tham khảo thêm cách [ghi hình xe khi nhận và trả để làm bằng chứng](/blog/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/), vì video giữ được góc quay liên tục và âm thanh xác nhận tại chỗ.
+Tránh sử dụng ảnh đã qua chỉnh sửa hoặc ghép lại, kể cả chỉ làm sáng thêm. Khi có tranh chấp, một tấm ảnh gốc, hơi tối nhưng còn nguyên dữ liệu, có giá trị hơn nhiều so với một tấm ảnh đẹp đã qua xử lý. Nếu bạn nghiêng về quay video, tham khảo thêm cách [ghi hình xe khi nhận và trả để làm bằng chứng](/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/), vì video giữ được góc quay liên tục và âm thanh xác nhận tại chỗ.
 
 ## Dùng ảnh giải quyết tranh chấp lúc trả xe
 
@@ -39,7 +39,7 @@ Tình huống thường gặp là lúc trả, người nhận xe chỉ ra một 
 
 Nếu vùng đó lúc bạn chụp bị thiếu hoặc mờ, tấm ảnh trực diện hoặc góc có thể vẫn cho thấy phần liên quan. Trong trường hợp xấu nhất là không có tấm nào chụp đủ vùng tranh chấp, bộ ảnh còn lại vẫn giúp thu hẹp phạm vi: những phần khác của xe giữ nguyên trạng cho thấy bạn sử dụng xe bình thường, và tranh chấp chỉ còn nằm ở một điểm nhỏ thay vì cả chiếc xe.
 
-Cách trình bày ảnh khi trao đổi cũng nên giữ bình tĩnh. Mở ảnh theo trình tự nhận rồi trả, đặt cạnh nhau để so sánh, và để người nhận xe tự nhìn. Hầu hết các tranh chấp phát sinh từ chuyện mỗi bên nhớ khác nhau, chứ không phải từ ý định gây sự, nên bằng chứng hiển thị rõ ràng thường tự tháo gỡ. Nếu bạn chưa từng kiểm tra xe bài bản, đối chiếu thêm [danh sách kiểm tra xe trước khi rời cửa hàng](/blog/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/) để lần sau chụp đủ hơn.
+Cách trình bày ảnh khi trao đổi cũng nên giữ bình tĩnh. Mở ảnh theo trình tự nhận rồi trả, đặt cạnh nhau để so sánh, và để người nhận xe tự nhìn. Hầu hết các tranh chấp phát sinh từ chuyện mỗi bên nhớ khác nhau, chứ không phải từ ý định gây sự, nên bằng chứng hiển thị rõ ràng thường tự tháo gỡ. Nếu bạn chưa từng kiểm tra xe bài bản, đối chiếu thêm [danh sách kiểm tra xe trước khi rời cửa hàng](/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/) để lần sau chụp đủ hơn.
 
 Một mẹo thực tế là chụp ảnh lúc nhận và lúc trả cùng một vị trí và cùng một góc, ví dụ cùng chỗ trước cửa hàng ở phố Nguyễn Văn Cừ. Hai bộ ảnh cùng góc so với nhau sẽ thấy ngay điểm nào đổi, điểm nào giữ nguyên, và người xem không phải đoán do khác góc chụp. Cửa hàng cho thuê xe máy ở khu Bồ Đề thường có không gian bàn giao trước cửa, đó là vị trí thuận tiện cho việc chụp đối chứng.
 

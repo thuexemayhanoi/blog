@@ -17,7 +17,7 @@ Hà Nội đi Mai Châu bằng xe máy dài chừng một trăm bốn mươi ki-
 
 ## Hà Nội đi Mai Châu bằng xe máy: cung đường tóm tắt
 
-Tuyến chuẩn của khách xe máy là quốc lộ 6 suốt chặng: từ Hà Nội qua khu Hà Đông, Chúc Sơn tới Lương Sơn, đến thành phố Hòa Bình, chạy tiếp qua vùng Cao Phong, Tân Lạc, leo đèo Thung Khe rồi xuống vào thung lũng Mai Châu. Xe máy không vào được đường cao tốc phía tây dành cho ô tô, nên quốc lộ 6 là cung đường mai châu duy nhất của xe hai bánh, và cũng là cung đẹp: ven suối, qua thung lũng lúa và một đoạn đèo đá vôi trắng. Đường hai bên nhiều đoạn làn hẹp, xe tải chạy nhiều, khách giữ mép phải và không ép sát khúc cua. Cung này được mô tả chi tiết theo từng chặng trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/blog/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/), còn bài này tập trung vào việc chuẩn bị trước khi xuất phát.
+Tuyến chuẩn của khách xe máy là quốc lộ 6 suốt chặng: từ Hà Nội qua khu Hà Đông, Chúc Sơn tới Lương Sơn, đến thành phố Hòa Bình, chạy tiếp qua vùng Cao Phong, Tân Lạc, leo đèo Thung Khe rồi xuống vào thung lũng Mai Châu. Xe máy không vào được đường cao tốc phía tây dành cho ô tô, nên quốc lộ 6 là cung đường mai châu duy nhất của xe hai bánh, và cũng là cung đẹp: ven suối, qua thung lũng lúa và một đoạn đèo đá vôi trắng. Đường hai bên nhiều đoạn làn hẹp, xe tải chạy nhiều, khách giữ mép phải và không ép sát khúc cua. Cung này được mô tả chi tiết theo từng chặng trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/), còn bài này tập trung vào việc chuẩn bị trước khi xuất phát.
 
 ## Đi Mai Châu bao lâu và tính giờ khởi hành
 
@@ -33,7 +33,7 @@ Khách đi xe số của chủ nhà, ví dụ xe Wave, nhớ hỏi trước ch�
 
 ## Đồ mang theo và cách xếp cho chặng dài
 
-Đồ của một chuyến Mai Châu gọn trong một balo nhỏ mỗi người và một túi xe là đủ. Trên người: mũ bảo hiểm cài quai chuẩn, găng tay, áo gió, áo mưa gấp nhỏ vì mưa rào trên quốc lộ 6 không báo trước. Trong túi xe: bộ dụng cụ vá lốp và bơm tay, mô bu-gi dự phòng, chai nước lớn, vài gói bánh nhẹ, khăn giấy và một bản đồ giấy hoặc ảnh chụp chặng đường nếu vùng qua đèo mất sóng. Vali quần áo nên để ở homestay, gói chống nước để tránh hơi ẩm đêm bản; điện thoại sạc đầy và mang theo cục sạc dự phòng vì chạy bản đồ, chỉ đường và chụp ảnh ăn pin nhanh trên cung dài. Cách xếp gọn hai ngày cho nhóm được nói trong bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
+Đồ của một chuyến Mai Châu gọn trong một balo nhỏ mỗi người và một túi xe là đủ. Trên người: mũ bảo hiểm cài quai chuẩn, găng tay, áo gió, áo mưa gấp nhỏ vì mưa rào trên quốc lộ 6 không báo trước. Trong túi xe: bộ dụng cụ vá lốp và bơm tay, mô bu-gi dự phòng, chai nước lớn, vài gói bánh nhẹ, khăn giấy và một bản đồ giấy hoặc ảnh chụp chặng đường nếu vùng qua đèo mất sóng. Vali quần áo nên để ở homestay, gói chống nước để tránh hơi ẩm đêm bản; điện thoại sạc đầy và mang theo cục sạc dự phòng vì chạy bản đồ, chỉ đường và chụp ảnh ăn pin nhanh trên cung dài. Cách xếp gọn hai ngày cho nhóm được nói trong bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
 
 ## Đổ xăng và chọn điểm nghỉ dọc tuyến
 
@@ -49,5 +49,5 @@ Xe hỏng giữa cung không phổ biến nếu đã kiểm tra, nhưng khách v
 
 Sau cùng, đi nhóm ba xe trở lên thì chuyến nào cũng nhẹ hơn: có xe chạy kèm khi cần kéo hoặc chở đồ.
 
-Các bài về điểm đến và nghỉ ngơi quanh thung lũng gom ở trang [Mai Châu](/blog/cung-duong/mai-chau/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Các bài về điểm đến và nghỉ ngơi quanh thung lũng gom ở trang [Mai Châu](/cung-duong/mai-chau/) và trang chủ đề [cung đường & hành trình](/cung-duong/).
 

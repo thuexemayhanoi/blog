@@ -34,7 +34,7 @@ Vài kinh nghiệm gửi xe ở đây. Thứ nhất, nếu định vào cả ch�
 
 Ai đi nhóm đông, ví dụ gia đình ba bốn người trên hai ba xe, nên gửi cùng một bãi và lấy xe cùng lúc, tránh cảnh người đã chở gốm trước phải dừng giữa đường làng chờ người sau tìm xe.
 
-Các lưu ý chung về trông giữ xe hai bánh nằm trong chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); các điểm đến quanh quận được gom trong chuyên mục [Long Biên](/blog/du-lich/long-bien/).
+Các lưu ý chung về trông giữ xe hai bánh nằm trong chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); các điểm đến quanh quận được gom trong chuyên mục [Long Biên](/du-lich/long-bien/).
 
 ## Mua gốm và chở về nhà bằng xe máy
 
@@ -48,6 +48,6 @@ Kinh nghiệm của người hay mua: chọn hôm trời khô, mang theo vài t�
 
 Nửa ngày là đủ cho một chuyến Bát Tràng: sáng muộn khởi hành, giữa trưa vào làng, ăn trưa quanh khu chợ với các món quê của làng, xế chiều về. Ai đi cuối tuần nên canh sớm hơn: vào làng trước chín giờ, mọi thứ còn thoáng, và chụp ảnh khu xưởng cũng dễ hơn khi vắng.
 
-Người sống ở Long Biên có thể ghép Bát Tràng vào buổi chiều thứ bảy: chợ gần, đường quen, và chiều về có thể men theo sông chạy đoạn đê ngắm hoàng hôn. Ai mới chạy xe máy đường làng nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/); muốn mở rộng lịch trình quanh khu, xem mục [điểm đến Hà Nội](/blog/du-lich/diem-den/).
+Người sống ở Long Biên có thể ghép Bát Tràng vào buổi chiều thứ bảy: chợ gần, đường quen, và chiều về có thể men theo sông chạy đoạn đê ngắm hoàng hôn. Ai mới chạy xe máy đường làng nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/); muốn mở rộng lịch trình quanh khu, xem mục [điểm đến Hà Nội](/du-lich/diem-den/).
 
-Trang [du lịch](/blog/du-lich/) gom các lộ trình làng nghề và ven sông bằng xe máy quanh Hà Nội. Ai cần xe máy cho chuyến Bát Tràng có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, chỉ vài phút chạy xe là sang được bờ Gia Lâm.
+Trang [du lịch](/du-lich/) gom các lộ trình làng nghề và ven sông bằng xe máy quanh Hà Nội. Ai cần xe máy cho chuyến Bát Tràng có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, chỉ vài phút chạy xe là sang được bờ Gia Lâm.

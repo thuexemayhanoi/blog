@@ -41,9 +41,9 @@ Trường hợp bị tạm giữ giấy
 
 ## Người thuê xe cần chủ động hỏi gì
 
-Với người thuê xe máy, bộ giấy tờ có điểm khác biệt: xe và giấy đăng ký thuộc về nơi cho thuê, còn bạn là người điều khiển. Trước khi nhận xe, hãy yêu cầu xem đăng ký xe hoặc bản điện tử kèm xe, hỏi rõ xe có bảo hiểm trách nhiệm dân sự còn hiệu lực hay không và đề nghị bản sao kèm theo để mang theo khi đi. Về phía mình, bạn cần mang bằng lái hợp lệ và căn cước công dân. Khi bị kiểm tra, người điều khiển phải xuất trình đủ bộ: giấy tờ của xe và giấy tờ của người cầm lái. Nhóm bài về [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/) đi sâu vào từng tình huống, còn thủ tục thuê xe đầy đủ được tóm tắt ở trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Với người thuê xe máy, bộ giấy tờ có điểm khác biệt: xe và giấy đăng ký thuộc về nơi cho thuê, còn bạn là người điều khiển. Trước khi nhận xe, hãy yêu cầu xem đăng ký xe hoặc bản điện tử kèm xe, hỏi rõ xe có bảo hiểm trách nhiệm dân sự còn hiệu lực hay không và đề nghị bản sao kèm theo để mang theo khi đi. Về phía mình, bạn cần mang bằng lái hợp lệ và căn cước công dân. Khi bị kiểm tra, người điều khiển phải xuất trình đủ bộ: giấy tờ của xe và giấy tờ của người cầm lái. Nhóm bài về [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/) đi sâu vào từng tình huống, còn thủ tục thuê xe đầy đủ được tóm tắt ở trang [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
-Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông dành cho người đi xe, còn mẹo lái thực dụng nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông dành cho người đi xe, còn mẹo lái thực dụng nằm trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Kết luận về giấy tờ khi lái xe máy
 

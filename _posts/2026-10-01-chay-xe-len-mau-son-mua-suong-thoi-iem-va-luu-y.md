@@ -17,7 +17,7 @@ Chạy xe lên Mẫu Sơn mùa sương là cách ngắm đỉnh núi này đẹp
 
 ## Thời điểm trong ngày: đúng giờ là thấy mây
 
-Sương mù trên Mẫu Sơn có nhịp: sáng sớm là dày nhất, khi hơi ẩm đêm còn ẩm trên sườn; giữa trưa trời trong hơn, tầm nhìn xa nhất; và chiều muộn sương kéo về cùng gió lạnh. Khách lên đèo vào khung giữa buổi sáng tới trước giữa trưa thường bắt được cảnh đẹp nhất: mây chưa tan hết, nhưng đường đã nhìn rõ. Khách lên sớm quá thì chạy trong mù đặc cả chặng, còn lên trễ quá thì phải hạ dốc trong sương chiều. Cách đọc các khung giờ trời đổi này đã có trong bài [thời tiết và đường sổ trên đường dài](/blog/ky-nang/thoi-tiet-va-duong-sa/), khách xem trước một lượt trước chuyến.
+Sương mù trên Mẫu Sơn có nhịp: sáng sớm là dày nhất, khi hơi ẩm đêm còn ẩm trên sườn; giữa trưa trời trong hơn, tầm nhìn xa nhất; và chiều muộn sương kéo về cùng gió lạnh. Khách lên đèo vào khung giữa buổi sáng tới trước giữa trưa thường bắt được cảnh đẹp nhất: mây chưa tan hết, nhưng đường đã nhìn rõ. Khách lên sớm quá thì chạy trong mù đặc cả chặng, còn lên trễ quá thì phải hạ dốc trong sương chiều. Cách đọc các khung giờ trời đổi này đã có trong bài [thời tiết và đường sổ trên đường dài](/ky-nang/thoi-tiet-va-duong-sa/), khách xem trước một lượt trước chuyến.
 
 Một thói quen của khách hay lên đèo là tìm vị trí ngắm mây ở lưng chừng đèo, không nhất thiết phải ở đỉnh: nhiều bến rộng ven đường cho tầm nhìn trùm thung lũng, và khi mây lùa qua cạnh đường thì cảnh đó cũng xứng bằng đỉnh. Khách đi chậm, ghé nhiều, thường thấy nhiều hơn khách đi thẳng một mạch.
 
@@ -29,7 +29,7 @@ Với khách lần đầu, khung an toàn nhất là mùa hè hoặc đầu thu:
 
 ## Chuẩn bị ấm, đèn và đồ mang theo
 
-Trang bị cho cung sương gồm ba lớp: ấm, sáng và khô. Ấm là áo khoác gió, lớp lót, găng tay và khăn quàng, vì gió trên đèo hút nhiệt nhanh hơn cảm giác đứng dưới chân. Sáng là đèn pha mạnh và đèn hậu hoạt động, bật cả ngày khi mù, kèm đèn dự phòng nhỏ nếu khách định đón bình minh trên đỉnh. Khô là áo mưa bọc kín và bao chân, vì mù nặng có khi đọng thành mưa nhỏ. Cách xếp các lớp đồ này gọn cho hành trình nhiều ngày đã nói trong bài [chở đồ và hành lý trên xe máy](/blog/ky-nang/cho-do-va-hanh-ly/).
+Trang bị cho cung sương gồm ba lớp: ấm, sáng và khô. Ấm là áo khoác gió, lớp lót, găng tay và khăn quàng, vì gió trên đèo hút nhiệt nhanh hơn cảm giác đứng dưới chân. Sáng là đèn pha mạnh và đèn hậu hoạt động, bật cả ngày khi mù, kèm đèn dự phòng nhỏ nếu khách định đón bình minh trên đỉnh. Khô là áo mưa bọc kín và bao chân, vì mù nặng có khi đọng thành mưa nhỏ. Cách xếp các lớp đồ này gọn cho hành trình nhiều ngày đã nói trong bài [chở đồ và hành lý trên xe máy](/ky-nang/cho-do-va-hanh-ly/).
 
 Điện thoại nên mang theo pin dự phòng, vì lạnh làm pin tụt nhanh, và nhiều đoạn trên đèo sóng yếu. Khách nên báo trước cho người ở lại lịch trình dự kiến, kể cả giờ lên đỉnh và giờ về, để mọi người biết khung thời gian an toàn.
 
@@ -41,4 +41,4 @@ Mù bất chợt là tình huống phổ biến nhất của Mẫu Sơn, và cá
 
 Một nguyên tắc cuối đáng khắc ghi: trên đèo có sương, khách không đua với thời gian mà đua với tầm nhìn. Tầm nhìn nới ra thì nới tốc, tầm nhìn co lại thì co tốc, và mọi quyết định về vượt xe đều hoãn tới khi đường thoáng. Cung sương của Mẫu Sơn dài thêm vài chục phút so với ngày trong, và số phút đó đáng giá hơn mọi cố gắng bù giờ.
 
-Khách cần thuê xe máy phục vụ chuyến lên Mẫu Sơn liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Gọi hỏi trước để nhận xe đèn sáng, phanh tốt và đã được soạn cho cung cao. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/), còn các mẫu lịch trình ghép đèo này vào cuối tuần xem ở [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/). Mùa sương của Mẫu Sơn không dành cho người vội, nhưng với khách đi đúng giờ và đủ ấm, đó là mùa đỉnh núi này đẹp nhất.
+Khách cần thuê xe máy phục vụ chuyến lên Mẫu Sơn liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Gọi hỏi trước để nhận xe đèn sáng, phanh tốt và đã được soạn cho cung cao. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/), còn các mẫu lịch trình ghép đèo này vào cuối tuần xem ở [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/). Mùa sương của Mẫu Sơn không dành cho người vội, nhưng với khách đi đúng giờ và đủ ấm, đó là mùa đỉnh núi này đẹp nhất.

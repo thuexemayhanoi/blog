@@ -17,7 +17,7 @@ Bạn nhận được một bản báo giá thuê xe máy và không biết con 
 
 ## Cách đọc báo giá thuê xe máy từ mức niêm yết
 
-Trước hết, cần hiểu cách đọc báo giá thuê xe máy bắt đầu từ mức niêm yết theo dòng xe, sau đó mới cộng các khoản khác vào. Đây là mức gốc mà mọi bản báo giá đều phải dựa vào. Đây là mức tham khảo đã được duyệt, không phải con số tùy hứng. Với xe số Honda Wave, mức tham khảo theo ngày là 150.000 đồng. Nhóm xe ga phổ thông như Honda Vision hay Honda Air Blade nằm ở mức 200.000 đồng mỗi ngày. Honda Click và Yamaha Mio cũng nằm ở nhóm giá tương đương Honda Wave. Bạn có thể đối chiếu trực tiếp các mức này tại [bảng giá thuê xe máy](/blog/bang-gia/) hoặc xem chi tiết theo nhóm giá tại trang [giá thuê xe máy](/blog/thue-xe/gia-thue/).
+Trước hết, cần hiểu cách đọc báo giá thuê xe máy bắt đầu từ mức niêm yết theo dòng xe, sau đó mới cộng các khoản khác vào. Đây là mức gốc mà mọi bản báo giá đều phải dựa vào. Đây là mức tham khảo đã được duyệt, không phải con số tùy hứng. Với xe số Honda Wave, mức tham khảo theo ngày là 150.000 đồng. Nhóm xe ga phổ thông như Honda Vision hay Honda Air Blade nằm ở mức 200.000 đồng mỗi ngày. Honda Click và Yamaha Mio cũng nằm ở nhóm giá tương đương Honda Wave. Bạn có thể đối chiếu trực tiếp các mức này tại [bảng giá thuê xe máy](/bang-gia/) hoặc xem chi tiết theo nhóm giá tại trang [giá thuê xe máy](/thue-xe/gia-thue/).
 
 Khi đọc báo giá, bước đầu tiên là xác định đúng dòng xe được báo. Nếu bản báo ghi chung "xe số" hoặc "xe ga" mà không nêu model, bạn nên hỏi lại để biết chính xác xe mình nhận thuộc nhóm nào. Cùng là xe ga nhưng Honda Vision và Honda Air Blade đều ở mức 200.000 đồng mỗi ngày, trong khi Honda Click lại nằm ở nhóm 150.000 đồng. Chênh lệch này đến từ dòng xe cụ thể, không phải cách tính giá khác nhau giữa các khách.
 
@@ -40,7 +40,7 @@ Nhiều bản báo đưa cả ba kỳ hạn ngày, tuần, tháng trên cùng m�
 
 ## Khi nào một bản báo giá đáng tin
 
-Một bản báo giá đáng tin thường có ba đặc điểm: nêu rõ model xe thay vì gọi chung chung, ghi rõ kỳ hạn và mức cọc, và sẵn sàng xác nhận lại mức giá khi bạn hỏi trực tiếp. Ngược lại, bản báo chỉ có một con số tổng, không nói rõ kỳ hạn, và né câu hỏi về cọc là bản báo nên được xem lại. Nếu bạn cần hình dung tổng chi phí cho một chuyến đi cụ thể, trang chủ đề [thuê xe máy Hà Nội](/blog/thue-xe/) có nhiều bài viết chi tiết theo từng nhu cầu.
+Một bản báo giá đáng tin thường có ba đặc điểm: nêu rõ model xe thay vì gọi chung chung, ghi rõ kỳ hạn và mức cọc, và sẵn sàng xác nhận lại mức giá khi bạn hỏi trực tiếp. Ngược lại, bản báo chỉ có một con số tổng, không nói rõ kỳ hạn, và né câu hỏi về cọc là bản báo nên được xem lại. Nếu bạn cần hình dung tổng chi phí cho một chuyến đi cụ thể, trang chủ đề [thuê xe máy Hà Nội](/thue-xe/) có nhiều bài viết chi tiết theo từng nhu cầu.
 
 Sau khi đọc xong bản báo, việc còn lại là đặt xe và kiểm tra hiện trạng xe khi nhận. Xem nhanh mức xăng hoặc pin, phanh, đèn, còi và gương. Bước này không thuộc phần báo giá nhưng giúp hai bên thống nhất hiện trạng, nhờ đó khi trả xe bạn không phải tranh luận về hư hỏng phát sinh. Một bản báo giá rõ ràng cộng với việc kiểm tra xe ngay đầu giờ là đủ để con số trong báo giá trở thành con số thật bạn phải trả.
 

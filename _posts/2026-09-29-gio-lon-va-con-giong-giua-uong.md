@@ -35,7 +35,7 @@ Một thói quen đáng bỏ là bám sát sau xe đầu kéo với suy nghĩ xe
 
 ## Khi giông chuyển nặng kèm mưa: dừng đúng chỗ
 
-Gió lớn kèm mưa nặng là lúc nên cân nhắc dừng hẳn, nhưng dừng ở đâu quan trọng không kém dừng lúc nào. Tránh gốc cây to, biển quảng cáo lớn, mái tôn che công trình và dây điện treo thấp, vì đây là những thứ hay bị gió quật gãy và rơi xuống. Chọn mái nhà kiên cố, sân bê tông có tường chắn, hoặc trạm dừng nghỉ có mái chắc. Nếu buộc phải đi tiếp trong mưa to, áp dụng đúng trình tự trong bài [chạy xe máy trời mưa lớn: giảm tốc và đèn](/blog/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/).
+Gió lớn kèm mưa nặng là lúc nên cân nhắc dừng hẳn, nhưng dừng ở đâu quan trọng không kém dừng lúc nào. Tránh gốc cây to, biển quảng cáo lớn, mái tôn che công trình và dây điện treo thấp, vì đây là những thứ hay bị gió quật gãy và rơi xuống. Chọn mái nhà kiên cố, sân bê tông có tường chắn, hoặc trạm dừng nghỉ có mái chắc. Nếu buộc phải đi tiếp trong mưa to, áp dụng đúng trình tự trong bài [chạy xe máy trời mưa lớn: giảm tốc và đèn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/).
 
 Trong lúc chờ giông qua, đeo áo mưa trước khi mưa nặng chứ không đợi ướt rồi mới mặc, bật đèn vị trí để các xe khác thấy mình. Sóng điện thoại và các vật nhẹ cất vào cốp, vì gió giật có thể cuốn mất trong vài giây. Kiên nhẫn thêm mười phút thường vẫn nhanh hơn cố đi trong đỉnh giông rồi phải xử lý sự cố giữa đường.
 
@@ -45,4 +45,4 @@ Cơn giông đi qua để lại mặt đường thay đổi: lá cây, cát bụ
 
 Với dây điện hoặc biển quảng cáo nghiêng ngả ven đường, không thử đi sát để vượt qua, nên dừng tìm đường khác hoặc báo cho người dân, người phụ trách khu vực. Xe máy nhẹ dễ luồn nhưng cũng dễ là nạn nhân đầu tiên khi chướng ngại lớn sập xuống; thêm vài phút vòng vèo vẫn rẻ hơn mọi rủi ro sau cơn giông.
 
-Gió lớn rồi sẽ dịu sau cơn giông, nhưng kỹ năng đọc hướng gió, chừa khoảng trống và chọn đúng chỗ dừng là hành trang lâu dài cho người chạy xe. Khi cần thuê một chiếc xe máy ổn định cho các ngày thời tiết xấu quanh Hà Nội, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/blog/ky-nang/) và [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Gió lớn rồi sẽ dịu sau cơn giông, nhưng kỹ năng đọc hướng gió, chừa khoảng trống và chọn đúng chỗ dừng là hành trang lâu dài cho người chạy xe. Khi cần thuê một chiếc xe máy ổn định cho các ngày thời tiết xấu quanh Hà Nội, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm [Kỹ năng & tình huống](/ky-nang/) và [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/).

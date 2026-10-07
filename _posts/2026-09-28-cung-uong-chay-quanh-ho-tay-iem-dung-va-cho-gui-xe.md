@@ -18,7 +18,7 @@ Cung đường quanh hồ Tây là một trong những vòng chạy xe máy dễ
 
 Điểm xuất phát tiện nhất là góc đông nam hồ, nơi đường Thanh Niên chạy giữa Hồ Tây và hồ Trúc Bạch: khách gửi xe ở khu vực gần chùa Trấn Quốc, dạo đảo chùa rồi lên xe chạy theo đường Âu Cơ men bờ đông lên phía bắc. Từ Âu Cơ, vòng hồ nối qua các khu Xuân La, Nhật Tân ở bờ bắc, men đường ven hồ phía tây rồi trở về các phường Quảng An, Thụy Khuê ở bờ nam trước khi khép vòng. Chạy theo chiều ngược lại cũng được, nhưng chiều đông nam trước giúp khách dồn phần phố đông vào lúc đầu chuyến, quãng còn lại đi qua các đoạn đường hồ thoáng vắng dễ chạy hơn.
 
-Chia vòng thành hai nửa cũng hợp lý cho khách có ít thời gian: nửa bắc gồm các đoạn đường ven hồ, đê và khu làng hoa, hợp chạy buổi sáng khi ánh sáng đẹp; nửa nam gần các quán ven đường, hợp dừng nghỉ chiều. Tổng quan các điểm đến quanh khu này nằm ở trang [Hồ Tây và lân cận](/blog/du-lich/ho-tay/), còn cách kết hợp vòng hồ với các khu khác của thành phố thuộc chủ đề [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/).
+Chia vòng thành hai nửa cũng hợp lý cho khách có ít thời gian: nửa bắc gồm các đoạn đường ven hồ, đê và khu làng hoa, hợp chạy buổi sáng khi ánh sáng đẹp; nửa nam gần các quán ven đường, hợp dừng nghỉ chiều. Tổng quan các điểm đến quanh khu này nằm ở trang [Hồ Tây và lân cận](/du-lich/ho-tay/), còn cách kết hợp vòng hồ với các khu khác của thành phố thuộc chủ đề [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/).
 
 ## Điểm dừng ven hồ và chỗ gửi xe từng nơi
 
@@ -32,13 +32,13 @@ Nửa bờ nam cho các điểm dừng kiểu nghỉ chân: dải đường An D
 
 Sáng sớm khoảng 6 đến 8 giờ là khung đẹp nhất trong ngày: mặt hồ phẳng, đường ven hồ còn vắng, các đoạn Âu Cơ thoáng và mát. Chiều muộn sau 16 giờ mặt hồ ngược sáng, hợp khách muốn dừng quán ven hồ ngắm hoàng hôn, đổi lại dòng xe xung quanh các nút giao cắt phía nam hồ dày hơn khung sáng. Trời tháng giêng rét và tháng 5 nắng gắt là hai khung khách cần chuẩn bị thêm áo ấm hoặc chống nắng, vì quãng ven hồ ít bóng che. Mùa đông sương mù dày trên mặt hồ từ sớm, vòng hồ lúc đó cho cảnh mờ lãng mạn nhưng cần bật đèn và chạy chậm, vì tầm nhìn trên các khúc ven hồ chỉ vài chục mét.
 
-Mưa lớn làm các đoạn ven hồ trơn và một số chỗ ngập cục bộ quanh khu Quảng An, khi đó khách nên hoãn vòng hồ hoặc bỏ đoạn đê, chỉ đi phần đường trục chính. Khách mới cầm lái trong nội đô nên đọc trước các lưu ý nền tảng trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), trong đó có cả cách xử lý đường ẩm và đường đông người.
+Mưa lớn làm các đoạn ven hồ trơn và một số chỗ ngập cục bộ quanh khu Quảng An, khi đó khách nên hoãn vòng hồ hoặc bỏ đoạn đê, chỉ đi phần đường trục chính. Khách mới cầm lái trong nội đô nên đọc trước các lưu ý nền tảng trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), trong đó có cả cách xử lý đường ẩm và đường đông người.
 
 ## Ghép vòng hồ vào lịch trình cả ngày
 
-Vòng hồ Tây hợp làm khối mở màn cho một ngày dài: sáng chạy vòng hồ, trưa cắt vào phố cổ ăn uống, chiều về nghỉ. Cách ghép vòng hồ với các khu trung tâm được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn nếu muốn đổi hướng sang khu di tích phía tây thành phố, khách tham khảo [khám phá khu Ba Đình bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/).
+Vòng hồ Tây hợp làm khối mở màn cho một ngày dài: sáng chạy vòng hồ, trưa cắt vào phố cổ ăn uống, chiều về nghỉ. Cách ghép vòng hồ với các khu trung tâm được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn nếu muốn đổi hướng sang khu di tích phía tây thành phố, khách tham khảo [khám phá khu Ba Đình bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/).
 
-Khách thuê xe dài ngày xếp cả vòng hồ vào chuỗi trải nghiệm quanh thành phố có thể đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), tổng quan chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/). Trước khi khởi hành, khách kiểm tra nhớt, xăng và đèn xe, vì vòng hồ tuy gần nhưng có đoạn đê và đoạn ven hồ xa trạm sửa.
+Khách thuê xe dài ngày xếp cả vòng hồ vào chuỗi trải nghiệm quanh thành phố có thể đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), tổng quan chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/). Trước khi khởi hành, khách kiểm tra nhớt, xăng và đèn xe, vì vòng hồ tuy gần nhưng có đoạn đê và đoạn ven hồ xa trạm sửa.
 
 ## Kết luận về vòng chạy quanh hồ Tây
 

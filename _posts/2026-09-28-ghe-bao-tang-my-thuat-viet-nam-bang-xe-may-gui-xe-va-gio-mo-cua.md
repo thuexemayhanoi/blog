@@ -20,7 +20,7 @@ article_id: BLG-00711
 
 Khung sáng sớm, các trục vào khu Văn Miếu còn thoáng, khách từ xa nên lợi dụng khung này để chạy nối trục dài không bị kẹt đèn nhiều lần. Ngược lại, khung tan học chiều, các đoạn quanh khu đông nhóm học sinh đi bộ, khách nên thả chậm và quan sát gương trước mỗi giao lộ nhỏ.
 
-Các lối quanh khu một chiều và hay đổi theo từng giai đoạn, khách lạ nên định sẵn lối rẽ theo biển chỉ dẫn thay vì lối tắt qua ngõ. Kinh nghiệm chạy nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống phố đông được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Các lối quanh khu một chiều và hay đổi theo từng giai đoạn, khách lạ nên định sẵn lối rẽ theo biển chỉ dẫn thay vì lối tắt qua ngõ. Kinh nghiệm chạy nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống phố đông được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Giờ mở cửa và ngày nên đến
 
@@ -36,13 +36,13 @@ Gửi xe Bảo tàng Mỹ thuật Việt Nam phụ thuộc khung: quanh bảo t�
 
 Cuối tuần, bãi quanh cụm Văn Miếu kín nhanh theo khung lớp học và khách tham quan, khách nên tính giờ vào sớm hoặc chọn bãi rẽ từ trục xa hơn một khối rồi đi bộ.
 
-Khách ghép buổi Văn Miếu và bảo tàng nên gửi một chỗ giữa hai điểm rồi đi bộ, quãng nối chỉ vài phút. Xe máy thuê cần vòng kiểm tra nhanh trước buổi: đèn, còi, phanh và áp suất lốp, đổ đủ xăng vì buổi quanh khu thường kéo dài sang các điểm lân cận. Giấy tờ mang theo người, mũ bảo hiểm đội kể cả đoạn ngắn nối bãi. Các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Khách ghép buổi Văn Miếu và bảo tàng nên gửi một chỗ giữa hai điểm rồi đi bộ, quãng nối chỉ vài phút. Xe máy thuê cần vòng kiểm tra nhanh trước buổi: đèn, còi, phanh và áp suất lốp, đổ đủ xăng vì buổi quanh khu thường kéo dài sang các điểm lân cận. Giấy tờ mang theo người, mũ bảo hiểm đội kể cả đoạn ngắn nối bãi. Các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Ghép lịch nửa ngày quanh bảo tàng
 
-Buổi hợp lý là xem bảo tàng khung sáng, dạo khu Văn Miếu trước khung nóng trưa, ăn trưa quanh khu rồi về: trọn một nửa ngày không vội. Khách muốn xem thêm các bảo tàng khác có thể vào trang [bảo tàng](/blog/du-lich/bao-tang/), còn danh sách các bảo tàng và điểm quanh thành phố xếp tại trang [điểm đến](/blog/du-lich/diem-den/).
+Buổi hợp lý là xem bảo tàng khung sáng, dạo khu Văn Miếu trước khung nóng trưa, ăn trưa quanh khu rồi về: trọn một nửa ngày không vội. Khách muốn xem thêm các bảo tàng khác có thể vào trang [bảo tàng](/du-lich/bao-tang/), còn danh sách các bảo tàng và điểm quanh thành phố xếp tại trang [điểm đến](/du-lich/diem-den/).
 
-Khách mê tranh nên dành phần cuối buổi cho các gian sơn mài và tranh lụa, hai chất liệu đẹp nhất dưới ánh sáng cửa sổ của tòa nhà cổ. Trẻ nhỏ theo buổi nên hẹn trước quy định không chạm tranh và giữ khoảng cách với các khung treo thấp. Khách muốn mở rộng lịch nhiều ngày quanh thành phố có thể tham khảo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách mê tranh nên dành phần cuối buổi cho các gian sơn mài và tranh lụa, hai chất liệu đẹp nhất dưới ánh sáng cửa sổ của tòa nhà cổ. Trẻ nhỏ theo buổi nên hẹn trước quy định không chạm tranh và giữ khoảng cách với các khung treo thấp. Khách muốn mở rộng lịch nhiều ngày quanh thành phố có thể tham khảo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về buổi ghé bảo tàng Mỹ thuật
 

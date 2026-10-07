@@ -46,4 +46,4 @@ Mùa lễ đầu năm là lúc khu chùa đông nhất: dòng xe vào vùng này
 
 Quãng từ Hà Nội tới vùng này là chặng dài: kiểm tra đèn, phanh, lốp, xích và xăng từ đêm trước; người thuê xe xác nhận trước với chủ xe về tuyến xa; và mang theo đồ dự phòng cơ bản. Đường về chạng vạng tối qua các đoạn huyện thiếu đèn ven thôn — đèn xe thật và tốc độ thấp là hai điều bắt buộc.
 
-Trước khi về, một vòng kiểm tra xe ở bãi gửi: xăng đủ chặng về, lốp không độn, xích không quá khô. Các kinh nghiệm chạy xe đường trường chung xem thêm ở mục [kinh nghiệm](/blog/kinh-nghiem/), các tuyến chạy ra các tỉnh phía Bắc gom trong chuyên mục [cung đường các tỉnh phía Bắc](/blog/cung-duong/cung-duong-pho-bac/), còn trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến từ Hà Nội.
+Trước khi về, một vòng kiểm tra xe ở bãi gửi: xăng đủ chặng về, lốp không độn, xích không quá khô. Các kinh nghiệm chạy xe đường trường chung xem thêm ở mục [kinh nghiệm](/kinh-nghiem/), các tuyến chạy ra các tỉnh phía Bắc gom trong chuyên mục [cung đường các tỉnh phía Bắc](/cung-duong/cung-duong-pho-bac/), còn trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến từ Hà Nội.

@@ -16,7 +16,7 @@ writer: W1
 
 Trời nắng gắt là thử thách kín đáo của người chạy xe máy: mặt đường dội nhiệt lên, gió lùa qua áo mà khô ráo làm bạn chẳng thấy mồ hôi chảy, và mất nước âm ỉ diễn ra không báo trước. Chạy xe máy trời nắng gắt uống nước vì vậy không phải việc chờ khát rồi mới uống, mà là một lịch bổ sung nước có chủ đích xuyên suốt hành trình. Bài này xếp lại các việc cần làm: nhận biết dấu hiệu mất nước, lên lịch uống, chuẩn bị đồ, và chọn điểm nghỉ trưah nắng giữa trưa.
 
-Tổng quan nhóm sức khỏe khi lái xe nằm ở trang [kỹ năng và tình huống](/blog/ky-nang/), hướng dẫn nhận xe máy trước chuyến đi ở trang [thuê xe máy](/blog/thue-xe/), còn quy trình nhận và trả xe ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/).
+Tổng quan nhóm sức khỏe khi lái xe nằm ở trang [kỹ năng và tình huống](/ky-nang/), hướng dẫn nhận xe máy trước chuyến đi ở trang [thuê xe máy](/thue-xe/), còn quy trình nhận và trả xe ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/).
 
 ## Dấu hiệu mất nước trên người lái xe máy
 

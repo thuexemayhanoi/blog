@@ -48,6 +48,6 @@ Vài điểm phụ ven trục nam đáng nhớ: các đoạn qua đồng chiêm 
 
 Quãng về nên có một mốc dừng duy nhất: ăn tối nhẹ ở chặng giữa nếu buộc chạy khuya, hoặc chỉ dừng đổ nước rồi về thẳng trong khung trước hoàng hôn. Trục nam đêm có đoạn trống dài, đèn xe tải chói, và người mới dễ chạy quá tốc độ khi đường thẳng vắng — mốc dừng về vừa là chỗ nghỉ tay, vừa là chỗ tự kiểm tra lại xem mình còn tỉnh táo tới đâu. Về tới vành đai nội đô, né các đoạn phố chặn cuối tuần quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Muốn đọc thêm các chia kiểu nghỉ theo cung, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết trước chuyến đi nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung xa lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm các chia kiểu nghỉ theo cung, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết trước chuyến đi nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung xa lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Ba mốc dừng của cung Bái Đính nghe đơn giản nhưng là thứ phân biệt chuyến về còn sức với chuyến về kiệt sức. Nghỉ đúng chỗ, ngắn đủ dùng, và giữ xe đúng quy tắc — phần còn lại của cung đường tự nhiên nhẹ hơn.

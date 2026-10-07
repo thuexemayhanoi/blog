@@ -43,4 +43,4 @@ Một cách kiểm tra nhanh là tự trả lời ba câu hỏi: mỗi ngày b�
 
 ## Thuê xe tay ga Hà Nội khi nào là hợp lý
 
-Thuê xe ga hợp với người đi phố vừa phải, chở đồ thường xuyên, cần sự nhàn tay và tư thế ngồi thoải mái. Hợp với người chạy nhiều điểm trong ngày quanh khu trung tâm, và cả người lâu không đụng xe máy cần làm quen lại nhanh. Để chọn dòng ga cụ thể, bạn có thể xem chủ đề [xe tay ga](/blog/xe-may/xe-ga/), đối chiếu mức giá thuê các dòng xe ga tại trang [bảng giá xe ga](/blog/bang-gia-xe-ga/), hoặc tham khảo tổng quan các [dòng xe máy](/blog/xe-may/) đang cho thuê để so sánh với xe số và xe 50cc trước khi quyết định.
+Thuê xe ga hợp với người đi phố vừa phải, chở đồ thường xuyên, cần sự nhàn tay và tư thế ngồi thoải mái. Hợp với người chạy nhiều điểm trong ngày quanh khu trung tâm, và cả người lâu không đụng xe máy cần làm quen lại nhanh. Để chọn dòng ga cụ thể, bạn có thể xem chủ đề [xe tay ga](/xe-may/xe-ga/), đối chiếu mức giá thuê các dòng xe ga tại trang [bảng giá xe ga](/bang-gia-xe-ga/), hoặc tham khảo tổng quan các [dòng xe máy](/xe-may/) đang cho thuê để so sánh với xe số và xe 50cc trước khi quyết định.

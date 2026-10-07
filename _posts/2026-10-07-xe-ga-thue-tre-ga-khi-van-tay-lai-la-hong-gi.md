@@ -34,7 +34,7 @@ Một số xe ga đời mới có cảm biến vị trí bướm ga; khi lỗi, 
 
 ## Cách kiểm tra nhanh khi nhận xe
 
-Trước khi rời cửa hàng, hãy dành vài phút thử xe theo ba bước. Bước một: chống chân, giữ phanh, vặn ga nhẹ nhàng ba lần và quan sát vòng tua tăng giảm có mượt không. Bước hai: đẩy xe ra đoạn vắng, chạy thử ga nhỏ rồi ga vừa, chú ý xem cánh tay ga có khoảng trống hay không. Bước ba: giữ ga ổn định ở vòng tua trung bình và lắng nghe tiếng động cơ; nếu nghe ngắt quãng như sụp đồng thì nên đổi xe tại chỗ. Với người mới, phần [kinh nghiệm thuê xe lần đầu cho người vừa có bằng](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng nêu các điểm cần thử trước khi nhận xe.
+Trước khi rời cửa hàng, hãy dành vài phút thử xe theo ba bước. Bước một: chống chân, giữ phanh, vặn ga nhẹ nhàng ba lần và quan sát vòng tua tăng giảm có mượt không. Bước hai: đẩy xe ra đoạn vắng, chạy thử ga nhỏ rồi ga vừa, chú ý xem cánh tay ga có khoảng trống hay không. Bước ba: giữ ga ổn định ở vòng tua trung bình và lắng nghe tiếng động cơ; nếu nghe ngắt quãng như sụp đồng thì nên đổi xe tại chỗ. Với người mới, phần [kinh nghiệm thuê xe lần đầu cho người vừa có bằng](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng nêu các điểm cần thử trước khi nhận xe.
 
 ## Khi nào nên yêu cầu đổi xe ngay
 
@@ -42,7 +42,7 @@ Hiện tượng trễ ga nên được phân thành ba mức. Mức nhẹ: xe ch
 
 Dùng xe trễ ga mức nặng rủi ro cao khi vượt xe, rẽ từ ngõ nhỏ vào đường lớn hoặc đi trong vòng xuyến, vì mọi tình huống đó đều cần khả năng tăng tốc tức thì. Khi gọi, hãy mô tả đúng triệu chứng: trễ ở ga nhỏ hay ga mạnh, có hụt đảo không, đèn báo nào sáng, tiếng lạ phát ra từ đâu. Mô tả chuẩn giúp đơn vị cho thuê xác định nguyên nhân nhanh hơn.
 
-Để tránh nhận xe có sẵn hiện tượng này, bạn có thể tham khảo cách chọn và kiểm tra xe trong chuyên mục [xe máy](/blog/xe-may/) trước chuyến đi, đồng thời xem thêm [giấy tờ cần mang theo khi di chuyển](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) để chủ động xử lý nếu xe gặp sự cố trên đường.
+Để tránh nhận xe có sẵn hiện tượng này, bạn có thể tham khảo cách chọn và kiểm tra xe trong chuyên mục [xe máy](/xe-may/) trước chuyến đi, đồng thời xem thêm [giấy tờ cần mang theo khi di chuyển](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) để chủ động xử lý nếu xe gặp sự cố trên đường.
 
 ## Cách xử lý khi trễ ga xuất hiện giữa đường
 
@@ -56,6 +56,6 @@ Nếu trễ ga xuất hiện giữa chặng, hãy giảm tốc, mở xi nhan, d�
 
 **Đổ xăng xong thấy trễ ga thì làm gì?** Nhiên liệu kém chất lượng hoặc lẫn nước có thể gây hụt đảo ngay sau khi đổ. Hãy gọi đơn vị cho thuê, mô tả thời điểm đổ xăng và địa chỉ trạm để được hướng dẫn; không nên tự rút xăng hay tháo lọc.
 
-Ngoài hiện tượng này, chuyên mục [dòng xe máy](/blog/xe-may/) còn tổng hợp nhiều kinh nghiệm kiểm tra xe trước khi thuê, từ cách thử phanh đến cách nghe tiếng động cơ, giúp bạn tự tin hơn với mỗi chiếc xe nhận.
+Ngoài hiện tượng này, chuyên mục [dòng xe máy](/xe-may/) còn tổng hợp nhiều kinh nghiệm kiểm tra xe trước khi thuê, từ cách thử phanh đến cách nghe tiếng động cơ, giúp bạn tự tin hơn với mỗi chiếc xe nhận.
 
 Cần một chiếc xe tay ga ổn định cho tuần làm việc hoặc chuyến đi cuối tuần ở Hà Nội? Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên cho thuê nhiều dòng xe máy phục vụ nhu cầu đi lại hằng ngày. Điện thoại liên hệ 0942 467 674, cửa hàng mở từ 09:00 đến 21:00 hàng ngày. Tình trạng xe sẵn có và các dòng xe đang cho thuê có thể thay đổi theo từng thời kỳ, vì vậy hãy gọi xác nhận trước khi đến nhận xe.

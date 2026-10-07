@@ -29,7 +29,7 @@ Giao điểm Tràng Thi với các phố nối sang phố cổ là nơi cần ch
 
 ## Gửi xe Bảo tàng Hỏa Lò: chọn bãi nào
 
-Quanh khu có mấy nhóm chỗ để xe: bãi gửi vỉa hè trên phố Hỏa Lò và các phố lân cận, bãi của các hàng quán bên trong, và vài bãi giữ xe ở khu phố phía Tràng Thi. Nguyên tắc chọn giống mọi điểm thăm quan trung tâm: ưu tiên bãi có người trông thường trực, bảng giá niêm yết và lối xe xếp hàng rõ ràng. Những lưu ý chi tiết về chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Quanh khu có mấy nhóm chỗ để xe: bãi gửi vỉa hè trên phố Hỏa Lò và các phố lân cận, bãi của các hàng quán bên trong, và vài bãi giữ xe ở khu phố phía Tràng Thi. Nguyên tắc chọn giống mọi điểm thăm quan trung tâm: ưu tiên bãi có người trông thường trực, bảng giá niêm yết và lối xe xếp hàng rõ ràng. Những lưu ý chi tiết về chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Một chi tiết thực tế: nếu định vào tham quan rồi đi bộ sang khu phố cổ hoặc Hồ Gươm, nên gửi xe về phía gần hướng đi bộ của mình, kể cả khi bãi đó xa cổng bảo tàng chút ít. Gửi sai phía, bạn sẽ phải chạy xe ngược lại qua các khúc một chiều ngay giữa lúc đường đông. Đánh dấu vị trí bãi trên bản đồ điện thoại trước khi bước vào là thói quen nhỏ tiết kiệm chục phút sau đó.
 
@@ -49,6 +49,6 @@ Người lần đầu cũng nên để ý giờ đóng của bãi gửi quanh kh
 
 ## Ghép Bảo tàng Hỏa Lò vào lộ trình lớn hơn
 
-Vị trí của khu là lợi ích lớn nhất: từ đây đi bộ sang Hồ Gươm được, men sang phố cổ được, và nếu muốn mở rộng chuyến trong ngày, các hướng về phía nam trung tâm cũng thuận. Những kỹ năng xử lý tình huống giao thông khi luồn trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/), còn nếu bạn đi bằng xe thuê, phần so sánh các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) có thể đáng xem trước khi chốt phương án.
+Vị trí của khu là lợi ích lớn nhất: từ đây đi bộ sang Hồ Gươm được, men sang phố cổ được, và nếu muốn mở rộng chuyến trong ngày, các hướng về phía nam trung tâm cũng thuận. Những kỹ năng xử lý tình huống giao thông khi luồn trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/), còn nếu bạn đi bằng xe thuê, phần so sánh các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) có thể đáng xem trước khi chốt phương án.
 
-Tóm lại, đến Bảo tàng Hỏa Lò bằng xe máy chỉ cần ba việc làm trước: chốt hướng tiếp cận theo đúng chiều đường, nhắm trước hai ba bãi gửi dự phòng, và né khung tan tầm của khu Tràng Thi. Làm đủ ba điều, phần đường còn lại của bạn sẽ là những chặng thong thả. Nếu muốn ghép thêm điểm khác trong cùng khu vực, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là nơi bắt đầu.
+Tóm lại, đến Bảo tàng Hỏa Lò bằng xe máy chỉ cần ba việc làm trước: chốt hướng tiếp cận theo đúng chiều đường, nhắm trước hai ba bãi gửi dự phòng, và né khung tan tầm của khu Tràng Thi. Làm đủ ba điều, phần đường còn lại của bạn sẽ là những chặng thong thả. Nếu muốn ghép thêm điểm khác trong cùng khu vực, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là nơi bắt đầu.

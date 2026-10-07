@@ -40,7 +40,7 @@ Khi gửi, làm hai việc nhỏ nhưng đáng giá. Chụp ảnh vị trí xe k
 
 Khi lấy xe, nên kiểm nhanh mặt đồ: gương, che tay, ốp. Va xước nhỏ ở bãi đông là chuyện khó tránh hoàn toàn, nhưng phát hiện ngay tại chỗ vẫn hơn phát hiện lúc về đến nhà. Người đi theo nhóm thì nên gửi cùng một bãi, lấy xe cùng lúc, tránh cảnh một người chờ dưới ngõ giữa lúc phố đổ người.
 
-Ai mới chạy xe máy vào nội đô nên đọc nhanh các lưu ý chung về trông giữ xe hai bánh trong chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), và xem thêm các điểm đến quanh khu Hoàn Kiếm trong chuyên mục [phố cổ](/blog/du-lich/pho-co/).
+Ai mới chạy xe máy vào nội đô nên đọc nhanh các lưu ý chung về trông giữ xe hai bánh trong chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/), và xem thêm các điểm đến quanh khu Hoàn Kiếm trong chuyên mục [phố cổ](/du-lich/pho-co/).
 
 ## Chỗ gửi và lịch trình buổi đi phố cổ
 
@@ -50,4 +50,4 @@ Người thuê xe máy ở khu Long Biên hoặc bờ bắc sông Hồng có th�
 
 Cuối cùng, hãy cập nhật chỗ quen theo mùa. Mùa Tết, nhiều ngõ phố cổ biến thành lối đi bộ hoặc lán hàng, chỗ trông năm ngoái có thể đã không còn; các mùa thường, chỗ quen hoạt động lại bình thường. Một lần kiểm tra lại vào đầu mỗi mùa giúp tránh cảnh đến nơi rồi phải đi tìm chỗ mới giữa lúc vội.
 
-Muốn tìm thêm lộ trình quanh khu phố cổ và Hồ Gươm, xem chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), hoặc theo dõi mảng [du lịch](/blog/du-lich/) để đọc thêm các kinh nghiệm đi xe máy trong nội đô. Ai cần xe máy để vào phố cổ có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, ngay gần đầu cầu Long Biên, tiện cho hành trình qua cầu vào khu Hoàn Kiếm.
+Muốn tìm thêm lộ trình quanh khu phố cổ và Hồ Gươm, xem chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/), hoặc theo dõi mảng [du lịch](/du-lich/) để đọc thêm các kinh nghiệm đi xe máy trong nội đô. Ai cần xe máy để vào phố cổ có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, ngay gần đầu cầu Long Biên, tiện cho hành trình qua cầu vào khu Hoàn Kiếm.

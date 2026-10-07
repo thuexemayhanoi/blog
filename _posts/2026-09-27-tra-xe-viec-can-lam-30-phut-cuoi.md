@@ -50,9 +50,9 @@ Cửa hàng đặt tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Lo
 
 ## Xem thêm
 
-- [Quy trình nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/)
-- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
-- [Xử lý sự cố trong chuyến thuê](/blog/thue-xe/su-co/)
+- [Quy trình nhận xe và trả xe](/thue-xe/nhan-tra-xe/)
+- [Giá thuê xe máy theo ngày](/thue-xe/gia-thue/)
+- [Xử lý sự cố trong chuyến thuê](/thue-xe/su-co/)
 
 ## Kết luận
 

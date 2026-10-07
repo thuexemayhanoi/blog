@@ -29,7 +29,7 @@ Câu hỏi thủng lốp ai chịu chi phí phụ thuộc vào nguyên nhân gâ
 
 Điều quan trọng nhất là không giấu tình trạng xe. Một số người lo bị trừ tiền nên tìm cách vá lốp bên đường rồi âm thầm trả xe như không có gì xảy ra. Cách làm này dễ gây mất lòng tin, đặc biệt khi vết vá kém chất lượng để lại rủi ro về sau. Ngược lại, nếu bạn chủ động báo ngay từ đầu, câu chuyện thường được giải quyết gọn gàng hơn và bạn còn được hướng dẫn chỗ vá uy tín gần vị trí của mình.
 
-Trước khi thuê xe, bạn nên hỏi trước nguyên tắc xử lý sự cố với cửa hàng: nếu thủng lốp thì ai vá, ai trả tiền, có phương án hỗ trợ nào trong khu vực nội thành không. Các tình huống sự cố thường gặp khác đã được tổng hợp trong trang [xử lý sự cố khi thuê xe](/blog/thue-xe/su-co/) để bạn tham khảo trước khi lên đường, và câu hỏi liên quan thì nằm rải rác trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/).
+Trước khi thuê xe, bạn nên hỏi trước nguyên tắc xử lý sự cố với cửa hàng: nếu thủng lốp thì ai vá, ai trả tiền, có phương án hỗ trợ nào trong khu vực nội thành không. Các tình huống sự cố thường gặp khác đã được tổng hợp trong trang [xử lý sự cố khi thuê xe](/thue-xe/su-co/) để bạn tham khảo trước khi lên đường, và câu hỏi liên quan thì nằm rải rác trong mục [hỏi đáp thuê xe máy](/hoi-dap/).
 
 ## Các bước giữ an toàn khi xe bị thủng lốp giữa đường
 
@@ -37,7 +37,7 @@ Bước đầu tiên là giảm tốc độ từ từ và đưa xe sát vào l�
 
 Nếu bạn phải dắt xe đi tìm tiệm vá, lưu ý quãng đường dắt xe không nên quá xa. Dắt xe máy đã thủng lốp đi quá một km có thể làm móp vành, rách thêm phần bánh, và hư hỏng lúc đó không còn là một vết đâm đơn giản. Trong khu vực các quận như Long Biên hay Gia Lâm có nhiều tiệm sửa xe hai bên đường, nhưng bạn vẫn nên ưu tiên địa chỉ do cửa hàng giới thiệu để đảm bảo chất lượng vá.
 
-Sau khi vá xong, chụp lại hình ảnh vết vá và giữ hóa đơn nếu có. Đây là chứng cứ cần nếu hai bên cần đối chiếu tình trạng xe khi trả. Trong trường hợp sự cố xảy ra ngoài giờ hoạt động của cửa hàng, bạn có thể tham khảo cách xử lý đã được nêu trong bài [cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào](/blog/chia%20s%E1%BA%BB/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/) để có phương án dự phòng kịp thời.
+Sau khi vá xong, chụp lại hình ảnh vết vá và giữ hóa đơn nếu có. Đây là chứng cứ cần nếu hai bên cần đối chiếu tình trạng xe khi trả. Trong trường hợp sự cố xảy ra ngoài giờ hoạt động của cửa hàng, bạn có thể tham khảo cách xử lý đã được nêu trong bài [cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào](/chia%20s%E1%BA%BB/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/) để có phương án dự phòng kịp thời.
 
 ## Những điều cần tránh khi xe thuê bị thủng lốp
 

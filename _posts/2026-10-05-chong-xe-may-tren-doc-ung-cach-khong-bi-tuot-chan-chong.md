@@ -51,9 +51,9 @@ Khi kê vật chèn bánh, đặt chèn ở phía thấp của bánh, chèn cả
 
 Một lưu ý nhỏ nhưng đáng giá: khi để xe ven dốc quanh khu vực đông người qua lại, cố gắng đặt xe sát mép trong của lề, tránh lấn làn xe chạy. Xe đổ ngang từ chân chống tuột có thể văng ra lòng đường, gây hậu quả lớn hơn nhiều so với một vài vết xước vỏ. Nếu không có chỗ chống bên nào an toàn, hãy tính phương án gửi vào một bãi giữ xe có người trông, dù phải đi bộ thêm vài phút.
 
-Xe thuê thường đã qua nhiều năm sử dụng, lõi chân chống có thể mòn hoặc lò xo chống yếu, khiến càng không giữ chặt. Trước khi nhận xe tại cửa hàng, gạt thử chân chống giữa và chân chống bên, quan sát càng có bị lỏng, gỉ sét hay cong không. Tham khảo thêm cách kiểm tra tổng thể trong bài [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để biết những bộ phận nào cần thử ngay tại quầy.
+Xe thuê thường đã qua nhiều năm sử dụng, lõi chân chống có thể mòn hoặc lò xo chống yếu, khiến càng không giữ chặt. Trước khi nhận xe tại cửa hàng, gạt thử chân chống giữa và chân chống bên, quan sát càng có bị lỏng, gỉ sét hay cong không. Tham khảo thêm cách kiểm tra tổng thể trong bài [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để biết những bộ phận nào cần thử ngay tại quầy.
 
-Nếu phát hiện chân chống yếu giữa buổi đi, tạm thời dùng dây buộc hoặc quấn tăng độ căng lò xo, và báo lại cửa hàng khi trả xe. Các thắc mắc gửi xe, giữ xe trong đô thị cũng được giải đáp tại mục [hỏi đáp](/blog/hoi-dap/). Cẩm nang về các tình huống lái xe đô thị được tổng hợp tại mục [kỹ năng lái xe máy](/blog/ky-nang/), bạn có thể mở nhanh trên điện thoại khi cần tra cứu giữa đường.
+Nếu phát hiện chân chống yếu giữa buổi đi, tạm thời dùng dây buộc hoặc quấn tăng độ căng lò xo, và báo lại cửa hàng khi trả xe. Các thắc mắc gửi xe, giữ xe trong đô thị cũng được giải đáp tại mục [hỏi đáp](/hoi-dap/). Cẩm nang về các tình huống lái xe đô thị được tổng hợp tại mục [kỹ năng lái xe máy](/ky-nang/), bạn có thể mở nhanh trên điện thoại khi cần tra cứu giữa đường.
 
 ## Câu hỏi thường gặp
 

@@ -37,7 +37,7 @@ Khi đã quyết định qua, hãy giảm tốc trước khi đến vũng, giữ
 
 Lốp là bộ phận duy nhất chạm mặt đường, nên tình trạng lốp quyết định trực tiếp lực bám. Rãnh lốp còn đủ sâu giúp thoát nước hiệu quả, trong khi lốp mòn bằng hoặc bơm non sẽ dễ trượt và dễ nổ hơn khi chạy qua đoạn xấu. Trước mỗi chuyến đi, nên kiểm tra độ mòn của lốp, áp suất, đèn và gương, đặc biệt là phanh trước và phanh sau còn ăn không.
 
-Nếu bạn thuê xe máy để đi trong ngày mưa, hãy nhận xe khi trời còn sáng, kiểm tra cùng người giao xe về lốp và phanh rồi mới khởi hành. Khi mưa lớn kèm gió lớn, hãy áp dụng đúng trình tự trong bài [chạy xe máy trời mưa lớn: giảm tốc và đèn](/blog/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/). Trời quá xấu thì chủ động dừng ở nơi khô ráo, chờ mưa dịu bớt, an toàn hơn là cố về sớm vài phút.
+Nếu bạn thuê xe máy để đi trong ngày mưa, hãy nhận xe khi trời còn sáng, kiểm tra cùng người giao xe về lốp và phanh rồi mới khởi hành. Khi mưa lớn kèm gió lớn, hãy áp dụng đúng trình tự trong bài [chạy xe máy trời mưa lớn: giảm tốc và đèn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/). Trời quá xấu thì chủ động dừng ở nơi khô ráo, chờ mưa dịu bớt, an toàn hơn là cố về sớm vài phút.
 
 ## Những lỗi thường gặp khiến ngã trên đường ướt
 
@@ -49,4 +49,4 @@ Lỗi cuối cùng thuộc về tâm lý chủ quan: vừa ra khỏi vũng nư�
 
 Kỹ năng xử lý mặt đường ướt không nằm ở việc đọc nhớ, mà nằm ở phản xạ. Chọn ngày mưa nhỏ, tập ở khu vực vắng xe: thực hành phanh nhấp nhả, giữ thẳng tay lái qua vũng nông, vào cua với góc nghiêng nông. Lặp lại đủ nhiều lần, tay và người sẽ tự nhớ đúng mức lực cần thiết. Vào mùa mưa dai dẳng ở Hà Nội, nên xuất phát sớm hơn thường lệ để không phải gấp gáp, vì sự vội vàng cộng với đường ướt là tổ hợp gây tai nạn phổ biến nhất.
 
-Đường trơn trượt rồi sẽ khô, nhưng thói quen lái an toàn thì theo bạn trong mọi hành trình. Khi cần một chiếc xe máy ổn định cho các chuyến đi trong mưa lẫn nắng, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm các chủ đề [Kỹ năng & tình huống](/blog/ky-nang/) và [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Đường trơn trượt rồi sẽ khô, nhưng thói quen lái an toàn thì theo bạn trong mọi hành trình. Khi cần một chiếc xe máy ổn định cho các chuyến đi trong mưa lẫn nắng, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm các chủ đề [Kỹ năng & tình huống](/ky-nang/) và [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/).

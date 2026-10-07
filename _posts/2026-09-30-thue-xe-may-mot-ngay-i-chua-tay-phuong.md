@@ -17,7 +17,7 @@ Một chuyến hà nội chùa tây phương 1 ngày là kiểu đi nhẹ mà đ
 
 ## Thuê xe đi chùa tây phương: nhận xe và khung giờ
 
-Chuyến này dùng gói thuê theo ngày, nhận xe buổi sáng và trả buổi tối cùng ngày. Khung giờ gợi ý: nhận xe sớm để ra khỏi thành phố trước dòng xe giờ đi làm, tới chùa giữa buổi sáng khi nắng chưa lên đỉnh đồi, ăn trưa quanh vùng Thạch Thất, chiều thong thả ghé thêm một điểm trên đường về, và trả xe trước giờ cao điểm tối. Cách tính gói ngày và các mốc cần chốt với cửa hàng được tóm tắt trong phần [thuê xe theo ngày](/blog/thue-xe/thue-ngay/).
+Chuyến này dùng gói thuê theo ngày, nhận xe buổi sáng và trả buổi tối cùng ngày. Khung giờ gợi ý: nhận xe sớm để ra khỏi thành phố trước dòng xe giờ đi làm, tới chùa giữa buổi sáng khi nắng chưa lên đỉnh đồi, ăn trưa quanh vùng Thạch Thất, chiều thong thả ghé thêm một điểm trên đường về, và trả xe trước giờ cao điểm tối. Cách tính gói ngày và các mốc cần chốt với cửa hàng được tóm tắt trong phần [thuê xe theo ngày](/thue-xe/thue-ngay/).
 
 Về dòng xe, cung đường đại lộ thẳng và rộng nên gần như dòng nào cũng chạy được; nhóm xe ga vẫn là lựa chọn thoải mái hơn cho người đi cả ngày. Trước khi xuất phát, nhớ kiểm tra đèn còi phanh, chụp ảnh hiện trạng xe, và đổ bình đầy: ngoại thành vẫn có xăng, nhưng dừng ít lần thì chuyến đi liền mạch hơn.
 
@@ -35,12 +35,12 @@ Về phần giữ được trọn cảm giác của buổi thăm chùa, kinh ngh
 
 Một cách xếp chuyến khác cũng hay được chọn: đi sớm tới chùa trước, ăn trưa ở khu dân cư gần đó, rồi chiều ghé một làng nghề hoặc một đền chùa nhỏ trên đường đại lộ về. Ăn trưa quanh Thạch Thất phần nhiều là các quán gia đình nhỏ, món đồng quê mộc mạc, và phần nghỉ giữa trưa ấy là thứ khiến chuyến một ngày không biến thành chạy hết ga. Ai đi lần hai thường hiểu thêm một điều: tốc độ tốt nhất của chuyến kiểu này là tốc độ của buổi sáng, đi sớm thì mọi thứ đều thảnh thơi.
 
-Cùng tuyến phía tây còn có những địa danh đáng ghé nếu thời gian cho phép: làng cổ với nhà tranh quanh vùng Sơn Tây, hoặc các đền chùa rải dọc trục đường về. Cách sắp các điểm này thành chuyến cuối tuần hoàn chỉnh được gợi ý sẵn trong phần [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), và kinh nghiệm chung là mỗi chuyến nên giữ một đích chính, chùa Tây Phương hôm nay chính là đích đó.
+Cùng tuyến phía tây còn có những địa danh đáng ghé nếu thời gian cho phép: làng cổ với nhà tranh quanh vùng Sơn Tây, hoặc các đền chùa rải dọc trục đường về. Cách sắp các điểm này thành chuyến cuối tuần hoàn chỉnh được gợi ý sẵn trong phần [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), và kinh nghiệm chung là mỗi chuyến nên giữ một đích chính, chùa Tây Phương hôm nay chính là đích đó.
 
 ## Về Hà Nội và kết thúc chuyến
 
 Chiều về nên đi chậm: đoạn đại lộ về tới nội thành thường đông dần từ sau bốn giờ, nên nếu có dừng thêm, hãy dừng ở nửa đầu buổi chiều. Về tới nơi, ghé trả xe đúng giờ chốt với cửa hàng, đối chiếu hiện trạng xe với tấm ảnh sáng nay, nhận lại phần giấy tờ hoặc cọc, và một ngày trọn vẹn khép lại đúng hạn. Với người mới chỉ cần thêm một sự sẵn sàng nhỏ: áo mưa gọn trong cốp và điện thoại đủ pin, mọi tình huống dọc tuyến đều nằm trong tầm xử lý.
 
-Tóm lại, một ngày đi chùa Tây Phương từ Hà Nội bằng xe máy thuê là chuyến đi gói gọn trong một gói thuê theo ngày: nhận sớm, leo chùa buổi sáng, thong thả chiều, trả xe tối. Các bước chuẩn bị trước khi nhận xe luôn có sẵn tại trang chủ đề [thuê xe máy](/blog/thue-xe/), còn phần thanh thản của một ngày thắp hương ven đồi thì chỉ tới khi bạn thật sự đặt lưng lên yên.
+Tóm lại, một ngày đi chùa Tây Phương từ Hà Nội bằng xe máy thuê là chuyến đi gói gọn trong một gói thuê theo ngày: nhận sớm, leo chùa buổi sáng, thong thả chiều, trả xe tối. Các bước chuẩn bị trước khi nhận xe luôn có sẵn tại trang chủ đề [thuê xe máy](/thue-xe/), còn phần thanh thản của một ngày thắp hương ven đồi thì chỉ tới khi bạn thật sự đặt lưng lên yên.
 
 Còn một lời dặn cuối cho người đi sớm mùa đông: sương mù dày trên đại lộ trước lúc trời sáng, tầm nhìn ngắn, nên ai không quen chạy sương thì dời giờ xuất phát lui tới khi nắng đã lên. Với mùa hè thì ngược lại, đi sớm để tránh nắng gắt trên bậc đá chùa, và mang theo nước cho phần leo đồi. Mỗi mùa một lưu ý nhỏ, nhưng biết trước thì cả chuyến đều nằm trong tay bạn.

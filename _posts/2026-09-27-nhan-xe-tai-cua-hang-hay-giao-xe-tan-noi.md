@@ -45,11 +45,11 @@ Nếu bạn định nhận xe giao tận nơi, hãy chụp lại tình trạng x
 
 ## Giao xe tận nơi hay tự đến nhận: so sánh nhanh
 
-Bảng so sánh nhanh giữa hai hình thức nhận xe: nhận xe tại cửa hàng cho bạn chọn trực tiếp và đổi xe ngay tại chỗ, trong khi giao xe tận nơi đổi phần đi lại lấy sự tiện lợi theo đúng khung giờ đã hẹn. Về quy trình chuẩn kiểm tra khi nhận và trả, bạn nên tham khảo mục [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), nơi tóm tắt từng bước cho cả hai hình thức nhận.
+Bảng so sánh nhanh giữa hai hình thức nhận xe: nhận xe tại cửa hàng cho bạn chọn trực tiếp và đổi xe ngay tại chỗ, trong khi giao xe tận nơi đổi phần đi lại lấy sự tiện lợi theo đúng khung giờ đã hẹn. Về quy trình chuẩn kiểm tra khi nhận và trả, bạn nên tham khảo mục [nhận trả xe](/thue-xe/nhan-tra-xe/), nơi tóm tắt từng bước cho cả hai hình thức nhận.
 
 ## Chốt hình thức nhận xe ngay từ lúc đặt
 
-Để tránh hiểu nhầm, hình thức nhận xe nên được chốt ngay trong lượt đặt trước, kèm địa chỉ và khung giờ cụ thể nếu chọn giao tận nơi. Cách liên hệ để đặt và chốt các thông tin này đã được tổng hợp tại trang [liên hệ](/blog/lien-he/). Khi cần xem lại quy trình thuê từ đầu đến cuối, tham khảo mục [thuê xe máy](/blog/thue-xe/). Nói rõ hình thức nhận từ sớm giúp bên cho thuê sắp người giao xe đúng giờ, và giúp bạn biết chắc ai sẽ mang xe tới, tránh tình huống xe tới mà bạn chưa có mặt sẵn ở điểm hẹn.
+Để tránh hiểu nhầm, hình thức nhận xe nên được chốt ngay trong lượt đặt trước, kèm địa chỉ và khung giờ cụ thể nếu chọn giao tận nơi. Cách liên hệ để đặt và chốt các thông tin này đã được tổng hợp tại trang [liên hệ](/lien-he/). Khi cần xem lại quy trình thuê từ đầu đến cuối, tham khảo mục [thuê xe máy](/thue-xe/). Nói rõ hình thức nhận từ sớm giúp bên cho thuê sắp người giao xe đúng giờ, và giúp bạn biết chắc ai sẽ mang xe tới, tránh tình huống xe tới mà bạn chưa có mặt sẵn ở điểm hẹn.
 
 Một cân nhắc nữa là khung giờ cao điểm. Giờ tan tầm ở Hà Nội, tuyến đường giao xe có thể chậm hơn dự kiến, nên nếu cần xe gấp trong khung giờ này, bạn nên hẹn sớm hơn một chút hoặc chọn tự đến cửa hàng nếu gần. Kỳ thuê càng dài, chênh lệch nhỏ về khung giờ nhận càng ít ảnh hưởng, còn với kỳ vài tiếng, đúng giờ là điều kiện để chuyến đi suôn sẻ.
 

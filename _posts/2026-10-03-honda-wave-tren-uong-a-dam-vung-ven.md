@@ -44,4 +44,4 @@ Nói rõ lộ trình với chủ xe để bảo dưỡng đúng nhịp.
 
 Một chi tiết hay bị quên nữa là buồng chứa dầu nhớt: bụi đá dăm mịn theo gió lọt vào quanh nắp nhớt, tạo thành lớp bụi dầu nơi viền nắp. Gặp bảo dưỡng kế tiếp, nhờ thợ lau sạch mặt nắp trước khi mở, và đó cũng là dịp xem xe có chảy nhớt ở gioăng hay không. Xe chạy đá dăm lâu ngày thì đúng hẹn thay nhớt là cách giữ máy khỏe nhất, vì bụi đá chính là chất mài mòn thầm lặng nhất mà một chiếc xe số phải nuốt mỗi ngày.
 
-Ai muốn tìm hiểu thêm về dòng Wave nói chung có thể xem [Honda Wave](/blog/xe-may/honda-wave/), kinh nghiệm đi đường ẩm xấu nằm ở [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), và các dòng xe đang cho thuê nằm ở [mục xe máy](/blog/xe-may/).
+Ai muốn tìm hiểu thêm về dòng Wave nói chung có thể xem [Honda Wave](/xe-may/honda-wave/), kinh nghiệm đi đường ẩm xấu nằm ở [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), và các dòng xe đang cho thuê nằm ở [mục xe máy](/xe-may/).

@@ -25,7 +25,7 @@ Tiếp cận từ hướng nào cũng được, miễn đúng chiều: từ phí
 
 ## Gửi xe Nhà hát Lớn Hà Nội: chọn bãi nào
 
-Quanh khu có đủ loại chỗ để: bãi vỉa hè trên các phố quanh quảng trường, bãi của các hàng quán trong phố, và các bãi giữ xe lớn hơn ở dải phố nối sang phố cổ. Giống mọi điểm trung tâm, ưu tiên bãi có người trông thường trực, bảng giá niêm yết và lối xe rõ ràng; những lưu ý chi tiết đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/). Nếu định đi bộ quanh hồ sau khi xem Nhà hát, chọn bãi phía mé hồ, để phần di chuyển còn lại là một quãng dạo bộ liền mạch.
+Quanh khu có đủ loại chỗ để: bãi vỉa hè trên các phố quanh quảng trường, bãi của các hàng quán trong phố, và các bãi giữ xe lớn hơn ở dải phố nối sang phố cổ. Giống mọi điểm trung tâm, ưu tiên bãi có người trông thường trực, bảng giá niêm yết và lối xe rõ ràng; những lưu ý chi tiết đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/). Nếu định đi bộ quanh hồ sau khi xem Nhà hát, chọn bãi phía mé hồ, để phần di chuyển còn lại là một quãng dạo bộ liền mạch.
 
 Với người đi nhóm đông hoặc mang theo đồ nhiều, nên chọn bãi có lối vào rộng, tránh các bãi chèn xe sát nhau vì việc ra vào với hai xe xếp song song rất dễ va quẹt gương. Một số bãi quanh khu có khu vực riêng cho xe côn tay, hỏi trước khi gửi sẽ đỡ phải dời xe giữa buổi.
 
@@ -33,7 +33,7 @@ Một chi tiết nhỏ đáng nhớ: bãi quanh quảng trường thường có 
 
 ## Khúc quanh hồ: nơi cần đi chậm
 
-Đoạn đường ven hồ phía Nhà hát là khúc đẹp nhất cũng đông người nhất: cặp đôi chụp ảnh cưới vào sáng, người tập thể dục vào chiều, và khách du lịch băng qua liên tục giữa lòng đường để lấy góc ảnh. Tốc độ thấp ở đây không phải lựa chọn, mà là mặc định bắt buộc. Cách xử lý các tình huống thường gặp trong khu đông người được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/), đáng đọc trước nếu bạn ít đi khu trung tâm.
+Đoạn đường ven hồ phía Nhà hát là khúc đẹp nhất cũng đông người nhất: cặp đôi chụp ảnh cưới vào sáng, người tập thể dục vào chiều, và khách du lịch băng qua liên tục giữa lòng đường để lấy góc ảnh. Tốc độ thấp ở đây không phải lựa chọn, mà là mặc định bắt buộc. Cách xử lý các tình huống thường gặp trong khu đông người được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/), đáng đọc trước nếu bạn ít đi khu trung tâm.
 
 Cuối tuần, phần ven hồ quanh khu thường nằm trong không gian đi bộ mở rộng vào tối thứ Sáu, thứ Bảy và Chủ Nhật, xe cơ giới không vào được một số đoạn. Khoảnh khắc này, cách tiếp cận đúng là gửi xe ở rìa không gian đi bộ rồi đi bộ nốt quãng ngắn. Việc này thực ra còn dễ chịu hơn ngày thường: vừa không phải chen xe, vừa được thấy khu vực lên đèn đẹp nhất tuần.
 
@@ -47,8 +47,8 @@ Ngày thường và cuối tuần cũng khác nhau ở chỗ dễ tìm chỗ g�
 
 ## Ghép điểm quanh Nhà hát Lớn
 
-Vị trí này là một trong những đầu mối tốt nhất để mở chuyến đi bộ: men theo Tràng Tiền ra phố sách là đến, vòng ra Hồ Gươm là đến, và men sang các phố phía đông hồ cũng chỉ mất chục phút. Với chuyến dài hơn trong ngày, các [lộ trình cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) cho phép cân thời gian giữa nhiều điểm, còn nếu bạn đi bằng xe thuê, phần so sánh các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) sẽ giúp chốt phương án cho trọn ngày.
+Vị trí này là một trong những đầu mối tốt nhất để mở chuyến đi bộ: men theo Tràng Tiền ra phố sách là đến, vòng ra Hồ Gươm là đến, và men sang các phố phía đông hồ cũng chỉ mất chục phút. Với chuyến dài hơn trong ngày, các [lộ trình cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) cho phép cân thời gian giữa nhiều điểm, còn nếu bạn đi bằng xe thuê, phần so sánh các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) sẽ giúp chốt phương án cho trọn ngày.
 
 Nếu chỉ có nửa buổi, một vòng gợi ý là: gửi xe gần mé hồ, đi bộ qua quảng trường Nhà hát, sang phố sách xem vài phút, rồi quay ra ven hồ kết thúc bằng một ly cà phê. Toàn bộ vòng này đi bộ được, không cần đến xe, và tổng thời gian vừa khít một buổi chiều thong thả.
 
-Tóm lại, đến Nhà hát Lớn bằng xe máy gói trong ba việc: chọn đúng ngã vào theo chiều đường, gửi xe phía hợp hướng đi bộ, và né khung tan tầm quanh khu hồ. Làm xong ba việc, phần còn lại chỉ là thong thả ngắm kiến trúc và dạo quanh quảng trường. Muốn ghép thêm điểm quanh khu, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ tham khảo nhanh.
+Tóm lại, đến Nhà hát Lớn bằng xe máy gói trong ba việc: chọn đúng ngã vào theo chiều đường, gửi xe phía hợp hướng đi bộ, và né khung tan tầm quanh khu hồ. Làm xong ba việc, phần còn lại chỉ là thong thả ngắm kiến trúc và dạo quanh quảng trường. Muốn ghép thêm điểm quanh khu, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ tham khảo nhanh.

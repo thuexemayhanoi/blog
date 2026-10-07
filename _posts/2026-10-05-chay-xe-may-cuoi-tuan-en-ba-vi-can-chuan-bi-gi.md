@@ -16,7 +16,7 @@ writer: W1
 
 Ba Vì là cung cuối tuần kinh điển của dân chạy xe Hà Nội: gần, rẻ, đẹp theo mùa, và đủ thách thức để một chuyến xe cuối tuần Ba Vì có cảm giác phiêu lưu thật thay vì chỉ chạy vòng quanh ngoại thành. Và vì câu hỏi chạy xe máy cuối tuần đến Ba Vì cần chuẩn bị gì phụ thuộc chặt vào địa hình núi và thời tiết miền cao khác nội thành, danh mục chuẩn bị của cung này đáng được liệt kê kỹ hơn các cung đồng bằng, và bài này đi qua từng nhóm: xe, đồ cá nhân, thời tiết, và cách chạy cung dốc.
 
-Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/blog/cung-duong/), các cung dài hơn ngày thường trong phần [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/cung-duong/), các cung dài hơn ngày thường trong phần [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Kiểm tra xe trước khi chạy xe máy cuối tuần đến Ba Vì
 

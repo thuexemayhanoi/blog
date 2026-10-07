@@ -39,7 +39,7 @@ Với xe ga, bấm đề cũng theo nhịp ngắn nghỉ dài, không vặn ga, 
 
 Với xe đi thuê, khi nhận xe mùa lạnh nên hỏi chủ xe: chiếc này đề có gì đặc biệt, cần gió ở đâu, ắc quy còn khỏe không. Biết trước mấy điểm này giúp sáng hôm sau không đứng trước xe loay hoay giữa lạnh.
 
-Điều không kém phần quan trọng là giữ ấm người cầm lái. Tay tê cóng thì thao tác ga và phanh đều chậm đi, mà mùa lạnh giữa đường là lúc dễ va chạm nhất, nên găng tay kín gió và áo đủ ấm đáng đầu tư ngang với việc chăm ắc quy. Ai cần tham khảo cách chọn trang phục đi đường có thể xem bài [đồ bảo hộ khi đi xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/).
+Điều không kém phần quan trọng là giữ ấm người cầm lái. Tay tê cóng thì thao tác ga và phanh đều chậm đi, mà mùa lạnh giữa đường là lúc dễ va chạm nhất, nên găng tay kín gió và áo đủ ấm đáng đầu tư ngang với việc chăm ắc quy. Ai cần tham khảo cách chọn trang phục đi đường có thể xem bài [đồ bảo hộ khi đi xe máy](/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/).
 
 Ranh giới cần nhớ là tháo bugi, sạc hoặc thay ắc quy thuộc về chủ xe chứ không phải việc làm ngoài đường. Người thuê chỉ cần mô tả đúng hiện tượng để bên cho thuê hướng dẫn từ xa hoặc xử lý sớm, đó là cách nhanh nhất để không mất thì giờ của chuyến đi.
 
@@ -47,6 +47,6 @@ Ranh giới cần nhớ là tháo bugi, sạc hoặc thay ắc quy thuộc về 
 
 Sau khoảng năm đến bảy nhịp đề mà máy không lên, nên dừng hẳn, vì mỗi nhịp tiếp theo chỉ khiến ắc quy kiệt thêm. Với xe đi thuê, đây là lúc gọi điện cho chủ xe: mô tả đúng hiện tượng, đã đề mấy nhịp, có mùi xăng hay không, để bên đó hướng dẫn hoặc xử lý sớm. Cố kéo đẩy để nổ xe ga cũng không nên, vì xe phun xăng điện tử không cần kéo đẩy mà va đập càng dễ hỏng thêm chi tiết.
 
-Ai hay đi đường dài ngày lạnh nên xem thêm các bài về chạy xe khi mưa gió và đường ướt trong trang [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), và luyện cùng các thao tác nền tảng khác trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Ai hay đi đường dài ngày lạnh nên xem thêm các bài về chạy xe khi mưa gió và đường ướt trong trang [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), và luyện cùng các thao tác nền tảng khác trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; mùa đông nên nhận xe trong lúc vẫn còn nắng ấm để có thời gian chạy thử, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; mùa đông nên nhận xe trong lúc vẫn còn nắng ấm để có thời gian chạy thử, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

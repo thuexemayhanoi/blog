@@ -41,10 +41,10 @@ Nếu xe có ba càng hoặc để đồ phía sau, khách chạy thử thêm m�
 
 ## Khi nhận xe thuê: những điểm nên hỏi chủ xe
 
-Với xe thuê, khách nên hỏi chủ xe vài điều trước khi nhận: xe gần mốc bảo dưỡng nào không, có bị điểm yếu nào cần tránh không như đèn yếu hay côn ăn muộn, và tiện nghi ở đâu gần trạm xăng, tiệm vá. Danh sách kiểm tra lúc nhận và trả xe có bài riêng trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/) để khách đối chiếu; các kỹ năng nền khác nằm trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Với xe thuê, khách nên hỏi chủ xe vài điều trước khi nhận: xe gần mốc bảo dưỡng nào không, có bị điểm yếu nào cần tránh không như đèn yếu hay côn ăn muộn, và tiện nghi ở đâu gần trạm xăng, tiệm vá. Danh sách kiểm tra lúc nhận và trả xe có bài riêng trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/) để khách đối chiếu; các kỹ năng nền khác nằm trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
 Cuối buổi làm quen, khách chạy thử một vòng ngắn trên đường thật quanh khu vực nhận xe, đi qua một đèn đỏ và một đoạn đông nhẹ. Vòng ngắn này chứng minh mọi thao tác đã thành nhịp trước khi khách chở đồ và rời khu quen thuộc.
 
 Cuối cùng, đừng ngại chạy thử lâu: chủ xe cho thuê kỹ luôn muốn khách làm quen kỹ trước khi ra đường, vì khách đi chắc thì xe về nguyên. Mười lăm phút đầu với một chiếc xe lạ luôn là khoản đầu tư rẻ nhất cho cả chuyến đi sau đó.
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để chủ xe chuẩn bị xe gần tình trạng tốt, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để chủ xe chuẩn bị xe gần tình trạng tốt, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

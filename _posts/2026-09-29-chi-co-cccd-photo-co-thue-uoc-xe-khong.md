@@ -45,8 +45,8 @@ Một chi tiết nhỏ đáng chú ý: bản photo mờ, thiếu góc hoặc in 
 
 ## Chi phí thuê và bộ hồ sơ nên chuẩn bị
 
-Về chi phí tham khảo, nhiều cửa hàng tại Hà Nội niêm yết xe số phổ thông quanh mức 150.000 đồng mỗi ngày, xe tay ga cỡ nhỏ quanh mức 200.000 đồng mỗi ngày, tùy thời điểm và tình trạng xe. Chi tiết từng dòng xe được cập nhật trong trang [bảng giá](/blog/bang-gia/), còn giấy tờ cần mang theo được tóm tắt trong bài [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Về chi phí tham khảo, nhiều cửa hàng tại Hà Nội niêm yết xe số phổ thông quanh mức 150.000 đồng mỗi ngày, xe tay ga cỡ nhỏ quanh mức 200.000 đồng mỗi ngày, tùy thời điểm và tình trạng xe. Chi tiết từng dòng xe được cập nhật trong trang [bảng giá](/bang-gia/), còn giấy tờ cần mang theo được tóm tắt trong bài [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 Ngoài ra, bạn nên chụp sẵn ảnh hai mặt CCCD bản gốc vào điện thoại trước ngày nhận xe, để nếu quên giấy tờ còn có căn cứ trao đổi với cửa hàng. Cách này không thay thế bản gốc, nhưng giúp cuộc gọi xác nhận nhanh hơn rất nhiều.
 
-Trước khi đến, bạn nên chuẩn bị CCCD bản gốc, giấy phép lái xe của người sẽ điều khiển, và một số điện thoại liên hệ thật. Các câu hỏi quanh giấy tờ được gom trong nhóm [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) của mục [hỏi đáp](/blog/hoi-dap/). Khi cần xác nhận nhanh về hồ sơ của mình, hãy gọi cho Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+Trước khi đến, bạn nên chuẩn bị CCCD bản gốc, giấy phép lái xe của người sẽ điều khiển, và một số điện thoại liên hệ thật. Các câu hỏi quanh giấy tờ được gom trong nhóm [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/) của mục [hỏi đáp](/hoi-dap/). Khi cần xác nhận nhanh về hồ sơ của mình, hãy gọi cho Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.

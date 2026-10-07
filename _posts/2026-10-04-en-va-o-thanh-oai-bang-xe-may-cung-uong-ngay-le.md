@@ -47,4 +47,4 @@ Khuôn viên đền có bậc đá và các khúc dốc nhẹ: giày bằng ho�
 
 Buổi đi lễ Thanh Oai đáng ghép cả quãng: sáng vào đền, ăn sáng quanh khu, rồi chạy một vòng các đường liên xã quanh vùng — đồng lúa, cây đa, giếng làng kiểu đồng bằng phù sa phía tây nam hiếm nơi nào gần đô vẫn còn nguyên. Cách ghép như vậy biến cuốc lễ thành trọn một buổi đi chơi cuối tuần.
 
-Tóm lại: đi sớm, theo biển và luồng, gửi xe bãi có người trông, và giữ nhịp chậm quanh khu đền. Ai muốn mẹo chạy xe ngày lễ chung, xem mục [kinh nghiệm](/blog/kinh-nghiem/); gợi ý điểm chơi khu vực này ở chuyên mục [ngoại thành](/blog/du-lich/ngoai-thanh/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/blog/du-lich/).
+Tóm lại: đi sớm, theo biển và luồng, gửi xe bãi có người trông, và giữ nhịp chậm quanh khu đền. Ai muốn mẹo chạy xe ngày lễ chung, xem mục [kinh nghiệm](/kinh-nghiem/); gợi ý điểm chơi khu vực này ở chuyên mục [ngoại thành](/du-lich/ngoai-thanh/), các điểm đến quanh Hà Nội gom trong mục [điểm đến Hà Nội](/du-lich/diem-den/), còn gợi ý đi chơi tổng hợp nằm ở trang chủ mục [du lịch](/du-lich/).

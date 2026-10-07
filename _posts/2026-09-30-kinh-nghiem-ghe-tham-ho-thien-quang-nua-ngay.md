@@ -47,8 +47,8 @@ Cuối tuần, hồ đông đều từ sáng muộn đến tối, nhưng khu đ�
 
 ## Chuẩn bị và gửi xe
 
-Đồ dùng nên mang theo tùy mục đích: giày mềm cho vòng đi bộ, chiếu nhỏ nếu định ngồi cỏ lâu, và mũ cho trẻ nếu đi cuối tuần trưa. Chỗ gửi quanh hồ đã có bài riêng về đường đi và bãi gửi; chi tiết chọn bãi an toàn được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/). Nếu đi bằng xe thuê cho cả ngày, các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) giúp chốt phương án trước khi xuất phát.
+Đồ dùng nên mang theo tùy mục đích: giày mềm cho vòng đi bộ, chiếu nhỏ nếu định ngồi cỏ lâu, và mũ cho trẻ nếu đi cuối tuần trưa. Chỗ gửi quanh hồ đã có bài riêng về đường đi và bãi gửi; chi tiết chọn bãi an toàn được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/). Nếu đi bằng xe thuê cho cả ngày, các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) giúp chốt phương án trước khi xuất phát.
 
 Trời mưa giữa buổi ở khu này dễ xử lý: các mái hiên quanh hồ và quán gần đó luôn có chỗ ngồi chờ, và sau cơn, lối đi ven hồ ráo nhanh. Với xe để ở bãi, phủ áo nếu định vắng lâu, vì mưa quanh khu thường đến theo đợt. Khung sau mưa lại trong lành và ít người, đáng để quay lại vòng hồ lần thứ hai.
 
-Tóm lại, nửa ngày quanh Hồ Thiền Quang là buổi nhàn nhất trong nhóm điểm Hà Nội: đến đúng khung mát, chọn một góc ngồi ưng ý, và để vòng quanh hồ tự điều chỉnh tốc độ của bạn. Muốn ghép thêm điểm quanh khu trong cùng hành trình, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ bắt đầu.
+Tóm lại, nửa ngày quanh Hồ Thiền Quang là buổi nhàn nhất trong nhóm điểm Hà Nội: đến đúng khung mát, chọn một góc ngồi ưng ý, và để vòng quanh hồ tự điều chỉnh tốc độ của bạn. Muốn ghép thêm điểm quanh khu trong cùng hành trình, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ bắt đầu.

@@ -46,6 +46,6 @@ Có những lúc phương án đúng là không chở. Vật dài quá khổ, ch
 
 Cũng cần tính đến thời tiết: mưa làm ống nhựa trơn và dây buộc trượt, gió ngang đẩy vật dài như một cần câu. Với khách thuê xe máy, nên hỏi chủ xe trước khi chở vật liệu dài, vì một số xe thuê có yên trơn hoặc thiếu điểm neo, chủ xe sẽ biết xe của mình chịu được mức nào và có thể cho mượn thêm dây.
 
-Cách chằng chắc các kiện đồ nặng được kể chi tiết trong bài [chở két bia hộp khi đi hai người](/blog/ky-nang/2026/10/04/cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan/). Tổng quan chở đồ và hành lý nằm trong mục [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Cách chằng chắc các kiện đồ nặng được kể chi tiết trong bài [chở két bia hộp khi đi hai người](/ky-nang/2026/10/04/cho-ket-bia-hop-khi-i-hai-nguoi-tren-xe-may-cach-chang-an-toan/). Tổng quan chở đồ và hành lý nằm trong mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Chở đồ dài trên xe máy, tóm lại, là bài của ba điểm neo và tốc độ thấp. Buộc nghiêng theo chiều dọc, đi chậm trong đoạn đông, và biết dừng lại gọi xe chở hàng khi vật quá tầm xe. Làm vậy thì cây ống về tới nhà nguyên vẹn, và người chở cũng vậy.

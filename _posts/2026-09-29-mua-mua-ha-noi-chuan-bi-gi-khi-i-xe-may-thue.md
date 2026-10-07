@@ -19,13 +19,13 @@ article_id: BLG-00836
 
 Ba mốc chuẩn bị không tách rời nhau: trước khi nhận xe là khâu chọn và kiểm tra, trong lúc đi là khâu điều chỉnh theo thời tiết, còn lúc mưa tới là khâu xử lý tình huống. Người hay đi xe máy mùa mưa thường làm đủ cả ba mốc mà không cần nghĩ, nhưng với xe thuê, mốc đầu tiên quan trọng hơn bình thường vì bạn chưa hề đi chiếc xe đó bao giờ.
 
-Mùa mưa cũng là lúc nên xem lại loại xe mình định thuê: xe số hay xe ga, bánh lớn hay bánh nhỏ, mỗi loại ứng xử khác nhau trên đường ướt. Những điều cần cân nhắc khi [chọn loại xe](/blog/xe-may/chon-loai-xe/) nên đọc trước khi gọi thuê, vì đổi xe giữa mùa mưa thường khó hơn chọn đúng ngay từ đầu.
+Mùa mưa cũng là lúc nên xem lại loại xe mình định thuê: xe số hay xe ga, bánh lớn hay bánh nhỏ, mỗi loại ứng xử khác nhau trên đường ướt. Những điều cần cân nhắc khi [chọn loại xe](/xe-may/chon-loai-xe/) nên đọc trước khi gọi thuê, vì đổi xe giữa mùa mưa thường khó hơn chọn đúng ngay từ đầu.
 
 ## Tìm cách chuẩn bị đi xe máy mùa mưa: trước khi nhận xe
 
 Kiểm tra cùng người giao xe theo trình tự: lốp còn rãnh và căng đúng mức, phanh trước sau ăn đều, đèn trước đèn sau sáng, còi hoạt động, gương sạch. Chụp ảnh xe hai bên và các vết trầy sẵn có, hỏi rõ việc nếu gặp mưa lớn xe bị ướt thì quy trình thế nào. Đây cũng là lúc hỏi kỹ về vị trí để đồ: cốp xe kín nước tới đâu, chỗ để áo mưa ở đâu, vì giữa mưa mà lục lọi tìm đồ là chuyện phiền nhất.
 
-Với người lần đầu thuê xe, các lưu ý trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/blog/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/) vẫn là nền tảng: giấy tờ, giá, giờ giao nhận. Mùa mưa chỉ thêm một lớp yêu cầu về tình trạng xe, không thay thế các bước căn bản đó. Nhận xe lúc trời còn sáng cũng giúp soi rõ vết nứt lốp và độ ăn phanh hơn là nhận lúc chạng vạng.
+Với người lần đầu thuê xe, các lưu ý trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/) vẫn là nền tảng: giấy tờ, giá, giờ giao nhận. Mùa mưa chỉ thêm một lớp yêu cầu về tình trạng xe, không thay thế các bước căn bản đó. Nhận xe lúc trời còn sáng cũng giúp soi rõ vết nứt lốp và độ ăn phanh hơn là nhận lúc chạng vạng.
 
 ## Áo mưa đi xe máy: chọn loại nào khi đi trong mưa
 
@@ -35,7 +35,7 @@ Kính mũ bảo hiểm nên lau chống mờ trước, giày hoặc giày boots 
 
 ## Trong chuyến đi: khi mưa tới bất chợt
 
-Mưa Hà Nội hay tới không báo trước, nhưng có dấu hiệu: mây đen dồn, gió đổi mát đột ngột, mùi mưa đất. Khi thấy các dấu hiệu này mà chưa mặc áo mưa, hãy dừng vào một mái che gần nhất để mặc, đừng cố đi thêm đoạn rồi mặc giữa đường. Nếu mưa đã nặng, cách xử lý trình tự giảm tốc và bật đèn như chuyên mục [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/) vẫn là kim chỉ nam, thêm một điều: với xe thuê, an toàn của người lái vẫn đứng trước mọi lịch trình.
+Mưa Hà Nội hay tới không báo trước, nhưng có dấu hiệu: mây đen dồn, gió đổi mát đột ngột, mùi mưa đất. Khi thấy các dấu hiệu này mà chưa mặc áo mưa, hãy dừng vào một mái che gần nhất để mặc, đừng cố đi thêm đoạn rồi mặc giữa đường. Nếu mưa đã nặng, cách xử lý trình tự giảm tốc và bật đèn như chuyên mục [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/) vẫn là kim chỉ nam, thêm một điều: với xe thuê, an toàn của người lái vẫn đứng trước mọi lịch trình.
 
 Trong mưa nhỏ hoặc mưa vừa, giữ vệt bánh xe phía trước vì vệt đó ít bóng nước hơn, đèn luôn bật kể cả ban ngày, và tránh các làn đọng nước ven lề. Ở các ngã tư, đoạn trước vạch dừng hay trơn vì dầu loang, nên về số thấp và phanh nhấp nhả từ xa thay vì bóp sát vạch.
 
@@ -45,4 +45,4 @@ Với chuyến đi dài hơn, nên tranh thủ các điểm dừng có mái che 
 
 Về đến nơi, nếu xe bị ướt nhiều, lau khô yên, khóa và các phần kim loại trước khi giao lại, vừa giữ xe bền vừa thể hiện cách dùng có trách nhiệm. Báo lại cho người nhận xe nếu gặp sự cố gì giữa đường, kể cả việc nhỏ như đèn bị vào nước, để bên thuê khắc phục và bạn không bị quy trách nhầm. Đồ đạc của mình thì kiểm tra đủ, sấy khô áo mưa trước khi cất kẻo ẩm mốc.
 
-Mùa mưa rồi cũng qua, còn danh mục chuẩn bị này giữ nguyên giá trị cho mọi mùa sau. Khi cần thuê xe máy tại Hà Nội trong những ngày mưa, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Xem thêm [Kỹ năng & tình huống](/blog/ky-nang/) và [Thời tiết & đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Mùa mưa rồi cũng qua, còn danh mục chuẩn bị này giữ nguyên giá trị cho mọi mùa sau. Khi cần thuê xe máy tại Hà Nội trong những ngày mưa, bạn đọc có thể liên hệ Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Xem thêm [Kỹ năng & tình huống](/ky-nang/) và [Thời tiết & đường sá](/ky-nang/thoi-tiet-va-duong-sa/).

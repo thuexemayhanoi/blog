@@ -23,15 +23,15 @@ Giấy tờ lúc nhận xe cần đủ: bản photo đăng ký xe, hợp đồng
 
 ## Loại xe nào hợp với cung Hà Giang
 
-Xe đi Hà Giang nên là xe số hoặc xe ga đời mới, dung tích từ một trăm mười trở lên, vì các dốc dài quanh co cần máy khỏe và phanh tốt. Xe số được nhiều khách chọn hơn cho cung này vì hộp số bậc giúp giữ máy hãm trên dốc, cách làm đã được nói trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/blog/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/). Xe ga vẫn đi được trục chính đã trải nhựa, nhưng khách phải nhớ hai điểm: kiểm tra dây curoa và má phanh kỹ hơn, và không nên mang xe ga vào các đường vòng biên giới nhỏ. Xe quá cũ, xe gầy máy yếu không nên mang đi Hà Giang, vì dốc cao làm máy làm việc gần giới hạn cả ngày. Khách chưa quen đường núi nên chọn xe nhẹ, yên thấp, hai chân chạm đất dễ, vì có nhiều đoạn phải dừng đề pa trên dốc.
+Xe đi Hà Giang nên là xe số hoặc xe ga đời mới, dung tích từ một trăm mười trở lên, vì các dốc dài quanh co cần máy khỏe và phanh tốt. Xe số được nhiều khách chọn hơn cho cung này vì hộp số bậc giúp giữ máy hãm trên dốc, cách làm đã được nói trong bài [đèo dốc trên đường Mộc Châu và cách vào số](/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/). Xe ga vẫn đi được trục chính đã trải nhựa, nhưng khách phải nhớ hai điểm: kiểm tra dây curoa và má phanh kỹ hơn, và không nên mang xe ga vào các đường vòng biên giới nhỏ. Xe quá cũ, xe gầy máy yếu không nên mang đi Hà Giang, vì dốc cao làm máy làm việc gần giới hạn cả ngày. Khách chưa quen đường núi nên chọn xe nhẹ, yên thấp, hai chân chạm đất dễ, vì có nhiều đoạn phải dừng đề pa trên dốc.
 
-Khách cần thuê xe cho chuyến Hà Giang liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước ngày đi, khách gọi hỏi trước loại xe đang có, để khỏi phải nhận đúng xe không hợp cung. Các thông tin chung về thuê xe gom ở trang [thuê xe](/blog/thue-xe/).
+Khách cần thuê xe cho chuyến Hà Giang liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước ngày đi, khách gọi hỏi trước loại xe đang có, để khỏi phải nhận đúng xe không hợp cung. Các thông tin chung về thuê xe gom ở trang [thuê xe](/thue-xe/).
 
 ## Soạn xe trước chuyến: những hạng mục chính
 
 Sau khi nhận xe, khách nên tự soạn lại bốn hạng mục chính. Một, nhớa: bóp lốp khi máy còn nguội, lốp non trên dốc nóng lên dễ nổ hoặc xé thành. Hai, phanh: thử trên đoạn vắng gần nhà, cả phanh trước lẫn phanh sau; nếu phanh ăn muộn hay kêu sắt thì đổi má trước khi đi. Ba, dây xích và biên: xích căng vừa, có dầu; xích bị chùng giãn trên dốc dễ tuột. Bốn, điện và đèn: đèn pha phải sáng rõ vì nhiều đoạn đèo tối sớm, và ắc quy yếu làm đề khó ở trời lạnh vùng cao. Khách cũng đổ nhớa đúng loại nếu gần kỳ thay, và hỏi chủ xe loại nhớa xe đang dùng để biết mà mua thêm nếu cần.
 
-Ngoài ra khách nên mang theo vài phụ tùng nhỏ: một ống nhớa gọn, bộ dụng cụ siết cơ bản, bóng đèn pha dự phòng, và một ít băng keo hoặc dây thép nhỏ. Các món này chiếm ít chỗ nhưng đổi được tính huống trên đường thưa tiệm. Khách xem thêm các bài về vùng này ở trang [Hà Giang](/blog/cung-duong/ha-giang/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Ngoài ra khách nên mang theo vài phụ tùng nhỏ: một ống nhớa gọn, bộ dụng cụ siết cơ bản, bóng đèn pha dự phòng, và một ít băng keo hoặc dây thép nhỏ. Các món này chiếm ít chỗ nhưng đổi được tính huống trên đường thưa tiệm. Khách xem thêm các bài về vùng này ở trang [Hà Giang](/cung-duong/ha-giang/) và trang chủ đề [cung đường & hành trình](/cung-duong/).
 
 ## Đồ nghề và giấy tờ nên mang theo
 

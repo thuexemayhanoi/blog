@@ -48,6 +48,6 @@ Một kinh nghiệm nữa là đừng gói hết các khu vào một buổi nế
 
 Cuối cùng, lưu ý giờ về: nếu tính trả xe thuê theo giờ, cộng thêm đoạn chạy từ vườn thú về cửa hàng, chừng mười lăm phút khi đường thông thoáng. Ra về trước giờ tan tầm đường Bưởi cũng giúp buổi chạy nhẹ hơn. Ghi lại mấy con số này khi lập kế hoạch, và chuyến dạo nửa ngày sẽ gọn từ đầu đến cuối.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [Hồ Tây](/blog/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [Hồ Tây](/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, dạo Vườn thú Thủ Lệ nửa ngày hợp nhất vào sáng sớm hoặc chiều muộn: vườn gọn, đường dạo quanh hồ dễ chịu, và quanh khu cổng đủ chỗ nghỉ và ăn nhẹ. Đi bằng xe máy từ trung tâm chỉ mất một quãng ngắn, gửi xe nơi có người trông và giữ phi. Tra giờ mở cửa mới nhất, và để dành chút thời gian cho đoạn ven Hồ Tây nếu buổi đi còn dư.

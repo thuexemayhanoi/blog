@@ -19,7 +19,7 @@ Người Hà Nội quá quen cảnh nồm: sàn nhà ướt nhẹp, tường đ�
 
 Ngày mưa, nước rửa bớt lớp bụi đường nhưng để lại vũng nước và dòng chảy. Ngày nồm ngược lại: không có vũng, không có dòng chảy, nhưng cả mặt đường được phủ một lớp ẩm quyện cùng bụi bặm, giống như sàn nhà bạn mỗi sáng nồm. Lớp này mỏng, khó thấy, và khiến độ bám của bánh xe giảm rõ, nhất là các đoạn nhựa bóng, đường cũ đã mòn.
 
-Điểm nguy nhất là nồm kéo dài suốt ngày, không như mưa tạnh rồi đường khô dần. Cả buổi sáng tới chiều tối mặt đường giữ trạng thái trơn nhẫy như vậy, nên cách chạy phải điều chỉnh trong nhiều giờ liên tục thay vì chỉ chờ một cơn mưa đi qua. Kinh nghiệm xử lý vũng nước và đáy đường trơn khi mưa vẫn dùng được một phần trong ngày nồm, được phân tích trong bài [đường trơn và vũng nước qua thế nào](/blog/ky-nang/2026-09-29/uong-tron-va-vung-nuoc-qua-the-nao/).
+Điểm nguy nhất là nồm kéo dài suốt ngày, không như mưa tạnh rồi đường khô dần. Cả buổi sáng tới chiều tối mặt đường giữ trạng thái trơn nhẫy như vậy, nên cách chạy phải điều chỉnh trong nhiều giờ liên tục thay vì chỉ chờ một cơn mưa đi qua. Kinh nghiệm xử lý vũng nước và đáy đường trơn khi mưa vẫn dùng được một phần trong ngày nồm, được phân tích trong bài [đường trơn và vũng nước qua thế nào](/ky-nang/2026-09-29/uong-tron-va-vung-nuoc-qua-the-nao/).
 
 ## Tầm nhìn ngày nồm mờ hơn ngày thường
 
@@ -27,7 +27,7 @@ Hơi nước ngày nồm khiến mặt kính mũ bảo hiểm dễ mờ, nhất 
 
 Ngày nồm trời thường âm u, ranh giới sáng tối giữa vệt xe và nền đường mờ hơn, khiến người lái khó thấy ổ gà nhỏ hay vạch sơn. Vì vậy tốc độ cần chậm lại vừa đủ để mắt kịp xử lý mọi chi tiết phía trước, và không dựa vào cảm giác quen tốc độ ngày nắng ráo.
 
-Ngoài ra, đèn xe ngày nồm đáng bật ngay cả ban ngày, không phải để soi đường mà để người phía trước và phía sau thấy mình rõ hơn trong nền trời âm u. Đây cũng là thói quen được khuyên dùng trong bài về [chạy xe máy khi trời mưa lớn](/blog/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/), và ngày nồm cần như vậy.
+Ngoài ra, đèn xe ngày nồm đáng bật ngay cả ban ngày, không phải để soi đường mà để người phía trước và phía sau thấy mình rõ hơn trong nền trời âm u. Đây cũng là thói quen được khuyên dùng trong bài về [chạy xe máy khi trời mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/), và ngày nồm cần như vậy.
 
 ## Điều chỉnh cách chạy cho mặt đường ẩm trơn
 
@@ -47,7 +47,7 @@ Mũ bảo hiểm rõ kính là lựa chọn tốt hơn mũ chỏm che kín ngày
 
 Lối vào bãi gửi xe ngày nồm trơn hơn mặt đường, vì bị đè lún nhiều và dính rêu thảm ẩm. Đi chậm, chống chân sớm khi vào lối, không lia lái gấp trên nền bê tông ẩm. Khi dừng đèn hoặc dừng mua đồ, chống chân sớm hơn bình thường một nhịp, vì đế giày trên mặt ẩm dễ trượt trước khi bạn kịp chỉnh.
 
-Các chủ đề thời tiết và đường sá được tổng hợp trong trang [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), còn kỹ năng lái cơ bản thường ngày nằm trong mục [kỹ năng](/blog/ky-nang/). Với khách thuê xe đi làm quanh Hà Nội trong mùa nồm, việc hỏi trước về lốp xe là một câu đáng thêm vào danh mục khi nhận xe.
+Các chủ đề thời tiết và đường sá được tổng hợp trong trang [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), còn kỹ năng lái cơ bản thường ngày nằm trong mục [kỹ năng](/ky-nang/). Với khách thuê xe đi làm quanh Hà Nội trong mùa nồm, việc hỏi trước về lốp xe là một câu đáng thêm vào danh mục khi nhận xe.
 
 ## Kết lại
 

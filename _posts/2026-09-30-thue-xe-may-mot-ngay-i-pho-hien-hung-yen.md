@@ -17,13 +17,13 @@ Một chuyến hà nội phố hiến 1 ngày bằng xe máy là lựa chọn ch
 
 ## Thuê xe ngày đi phố hiến: nhận xe thế nào cho đúng khung giờ
 
-Chuyến đi một ngày dùng gói thuê theo ngày, nghĩa là bạn nhận xe buổi sáng và trả xe buổi tối cùng ngày, một chu kỳ hai mươi tư giờ tính từ giờ nhận. Nguyên tắc khi nhận xe: kiểm tra xe như mọi lần thuê, chụp ảnh hiện trạng, đổ bình đầy trước khi ra khỏi thành phố vì trạm xăng dọc quốc lộ có nhưng thưa hơn trong phố, và chốt với cửa hàng khung giờ dự kiến trả để không bị tính thêm ngày. Cách chọn gói theo thời gian thuê được trình bày trong phần [thuê xe theo ngày](/blog/thue-xe/thue-ngay/).
+Chuyến đi một ngày dùng gói thuê theo ngày, nghĩa là bạn nhận xe buổi sáng và trả xe buổi tối cùng ngày, một chu kỳ hai mươi tư giờ tính từ giờ nhận. Nguyên tắc khi nhận xe: kiểm tra xe như mọi lần thuê, chụp ảnh hiện trạng, đổ bình đầy trước khi ra khỏi thành phố vì trạm xăng dọc quốc lộ có nhưng thưa hơn trong phố, và chốt với cửa hàng khung giờ dự kiến trả để không bị tính thêm ngày. Cách chọn gói theo thời gian thuê được trình bày trong phần [thuê xe theo ngày](/thue-xe/thue-ngay/).
 
 Về dòng xe, một ngày đường tương đối dài nên nhóm xe ga như Honda Vision, Honda Air Blade thoải mái hơn xe số: bạn giữ được sức cho buổi chiều và về tới Hà Nội vẫn còn tỉnh táo. Cặp bạn đi hai xe thì nên lấy cùng dòng, để tốc độ và cách vào xăng của hai xe tương đồng nhau trên đường trường.
 
 ## Cung đường từ Hà Nội đi Phố Hiến
 
-Phố Hiến nằm ở phía Hưng Yên, cách trung tâm Hà Nội chừng ba mươi cây số đường chim bay, nhưng cung đường chạy xe thường dài hơn tùy bạn chọn đi quốc lộ hay đường đê. Đi quốc lộ 5 hướng Hải Phòng, tới vùng Hưng Yên rẽ vào đường tỉnh tới khu phố cổ, đây là cung nhanh và dễ nhất cho người mới. Đi đường đê sông Hồng thì chậm hơn nhưng cảnh đồng quê thay phố thị liên tục, hợp với người đi chạy xe để thư giãn hơn là để tới đích sớm. Ai muốn tìm hiểu cách lựa chọn cung đường cho các chuyến cuối tuần nói chung, có sẵn phần [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/).
+Phố Hiến nằm ở phía Hưng Yên, cách trung tâm Hà Nội chừng ba mươi cây số đường chim bay, nhưng cung đường chạy xe thường dài hơn tùy bạn chọn đi quốc lộ hay đường đê. Đi quốc lộ 5 hướng Hải Phòng, tới vùng Hưng Yên rẽ vào đường tỉnh tới khu phố cổ, đây là cung nhanh và dễ nhất cho người mới. Đi đường đê sông Hồng thì chậm hơn nhưng cảnh đồng quê thay phố thị liên tục, hợp với người đi chạy xe để thư giãn hơn là để tới đích sớm. Ai muốn tìm hiểu cách lựa chọn cung đường cho các chuyến cuối tuần nói chung, có sẵn phần [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/).
 
 Kinh nghiệm cho khung giờ: xuất phát thật sự trước bảy giờ sáng giúp bạn vượt khỏi dòng xe sáng thứ hai đi làm trên quốc lộ 5, tới Phố Hiến giữa buổi sáng khi nắng chưa gắt, và có nguyên một buổi trưa thong thả trước khi quay lại Hà Nội trước giờ cao điểm chiều. Người hay bỏ qua nhất chính là khung giờ này: đi trễ nửa tiếng buổi sáng thường dẫn tới về trời tối giữa đường đê.
 
@@ -39,7 +39,7 @@ Một cách vào khung giờ khác cũng đáng kể: đi sớm hơn và dừng 
 
 ## Chuẩn bị nhỏ cho chuyến một ngày
 
-Ba thứ nên mang theo dù chỉ đi một ngày: bình nước, áo mưa mỏng gấp gọn, và điện thoại đủ pin để dùng bản đồ dọc đường. Ba thứ nên làm trước khi xuất phát: xem dự báo thời tiết khung giờ chiều, chốt số điện thoại cửa hàng vào danh bạ cho mọi tình huống, và dặn người cùng đi đội mũ bảo hiểm suốt tuyến. Các bước chuẩn bị chung trước khi nhận xe được tóm tắt tại trang chủ đề [thuê xe máy](/blog/thue-xe/), còn phần còn lại của chuyến đi chỉ là giữ vững nhịp đi của cả đoàn.
+Ba thứ nên mang theo dù chỉ đi một ngày: bình nước, áo mưa mỏng gấp gọn, và điện thoại đủ pin để dùng bản đồ dọc đường. Ba thứ nên làm trước khi xuất phát: xem dự báo thời tiết khung giờ chiều, chốt số điện thoại cửa hàng vào danh bạ cho mọi tình huống, và dặn người cùng đi đội mũ bảo hiểm suốt tuyến. Các bước chuẩn bị chung trước khi nhận xe được tóm tắt tại trang chủ đề [thuê xe máy](/thue-xe/), còn phần còn lại của chuyến đi chỉ là giữ vững nhịp đi của cả đoàn.
 
 Về thời điểm trong năm, mùa đẹp nhất cho chuyến này là thu và xuân: thu thì đồng lúa chín vàng hai bên đê, không khí se và ráo, còn xuân thì quanh các đình chùa có không khí lễ hội của vùng châu thổ. Giữa hè, mùa nhãn lại là lý do riêng để đi, chấp nhận nắng gắt buổi trưa bằng cách dồn khung di chuyển vào sáng sớm và chiều muộn. Mùa mưa vài ngày cuối hạ vẫn đi được nếu bạn chịu áo mưa, chỉ cần nhớ đường đê trơn hơn quốc lộ rất nhiều khi ướt.
 

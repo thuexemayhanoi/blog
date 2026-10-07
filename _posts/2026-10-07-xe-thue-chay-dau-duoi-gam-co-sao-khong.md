@@ -14,7 +14,7 @@ article_id: BLG-01514
 writer: W1
 ---
 
-Nhiều khách đến nhận xe ở Hà Nội có thói quen dắt xe ra khỏi chỗ để, quay lại nhìn một cái rồi khựng lại: nền bê tông bên dưới loang loang vài vết dầu. Câu hỏi xe thuê chảy dầu dưới gầm có sao không vì thế xuất hiện thường xuyên hơn bạn nghĩ, và câu trả lời ngắn gọn là tùy vào nguồn và mức độ của vết dầu. Một vết nhỏ khô cạn tích tụ nhiều ngày thường không đáng ngại, trong khi giọt dầu còn tươi, nhỏ liên tục thì phải xử lý trước khi lên đường. Bài viết thuộc [chuỗi bài hỏi đáp](/blog/hoi-dap/) giúp bạn đọc hiểu dấu hiệu, tìm nguyên nhân và biết phải làm gì khi gặp tình huống này với xe thuê.
+Nhiều khách đến nhận xe ở Hà Nội có thói quen dắt xe ra khỏi chỗ để, quay lại nhìn một cái rồi khựng lại: nền bê tông bên dưới loang loang vài vết dầu. Câu hỏi xe thuê chảy dầu dưới gầm có sao không vì thế xuất hiện thường xuyên hơn bạn nghĩ, và câu trả lời ngắn gọn là tùy vào nguồn và mức độ của vết dầu. Một vết nhỏ khô cạn tích tụ nhiều ngày thường không đáng ngại, trong khi giọt dầu còn tươi, nhỏ liên tục thì phải xử lý trước khi lên đường. Bài viết thuộc [chuỗi bài hỏi đáp](/hoi-dap/) giúp bạn đọc hiểu dấu hiệu, tìm nguyên nhân và biết phải làm gì khi gặp tình huống này với xe thuê.
 
 ## Nhận diện vết dầu dưới gầm xe máy
 
@@ -42,6 +42,6 @@ Với xe thuê, nguyên tắc số một là không tự ý tháo gỡ hay nhờ
 
 ## Kiểm tra gầm xe trước khi nhận xe
 
-Ngăn luôn tốt hơn chữa, và với xe thuê thì việc phòng ngừa là quyền lợi của chính bạn. Trước khi ký giấy tờ nhận xe, hãy dành một phút nhìn xuống gầm và nền phía dưới: nền có vết dầu loang cũ không, mép ngoài động cơ có dính bụi dầu đen không, mực dầu có nằm giữa hai vạch trên que thăm không. Các bước nhận xe và kiểm tra kỹ hơn được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Nếu thấy bất thường, hãy yêu cầu đổi xe khác ngay tại chỗ thay vì nhận rồi mới lo giữa đường. Các câu hỏi sự cố tương tự được nhóm trong [mục Hỏi đáp](/blog/hoi-dap/).
+Ngăn luôn tốt hơn chữa, và với xe thuê thì việc phòng ngừa là quyền lợi của chính bạn. Trước khi ký giấy tờ nhận xe, hãy dành một phút nhìn xuống gầm và nền phía dưới: nền có vết dầu loang cũ không, mép ngoài động cơ có dính bụi dầu đen không, mực dầu có nằm giữa hai vạch trên que thăm không. Các bước nhận xe và kiểm tra kỹ hơn được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Nếu thấy bất thường, hãy yêu cầu đổi xe khác ngay tại chỗ thay vì nhận rồi mới lo giữa đường. Các câu hỏi sự cố tương tự được nhóm trong [mục Hỏi đáp](/hoi-dap/).
 
 Một vết dầu dưới gầm không đáng để đánh đổi một chuyến đi mạo hiểm. Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, sẵn sàng nghe bạn mô tả tình trạng xe trước khi khởi hành. Bạn có thể gọi trước số 0942 467 674 để hỏi về cách hỗ trợ khi xe gặp sự cố giữa đường. Lưu ý: mức độ hỗ trợ khi xe thuê có trục trặc là chính sách riêng của từng thời kỳ và có thể thay đổi, hãy trao đổi trực tiếp lúc đặt xe.

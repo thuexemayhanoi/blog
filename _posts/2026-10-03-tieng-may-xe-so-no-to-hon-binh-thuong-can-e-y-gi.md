@@ -46,4 +46,4 @@ Ba tình huống nên dừng ngay: tiếng gõ kim loại nặng và đều, kh�
 
 Khi dừng, chọn chỗ có bóng mát, tắt máy, và nhắn cửa hàng kèm vị trí cụ thể. Với xe thuê, đừng tự mở lốc máy hay tháo bugi giữa đường nếu không được dặn rõ, vì mở ra mà không có đồ nghề đúng dễ tạo thêm hỏng, và mọi sự cố điện lại thêm một tầng phức tạp. Trong lúc chờ, đứng cách xa đường một chút, bật đèn khẩn nếu có, và ghi lại vị trí bằng cách đánh dấu trên bản đồ trong điện thoại, vì mô tả mốc quen ven đường luôn giúp người hỗ trợ tìm bạn nhanh hơn.
 
-Người muốn tìm hiểu thêm về bảo dưỡng xe máy nói chung có thể xem [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), về dòng xe số thì đọc trang [xe số](/blog/xe-may/xe-so/), và tổng quan các dòng xe cho thuê ở Hà Nội nằm tại [mục xe máy](/blog/xe-may/).
+Người muốn tìm hiểu thêm về bảo dưỡng xe máy nói chung có thể xem [bảo dưỡng xe](/xe-may/bao-duong-xe/), về dòng xe số thì đọc trang [xe số](/xe-may/xe-so/), và tổng quan các dòng xe cho thuê ở Hà Nội nằm tại [mục xe máy](/xe-may/).

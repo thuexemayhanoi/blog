@@ -16,7 +16,7 @@ writer: W1
 
 Nhiều khách thuê xe chọn để giấy tờ tùy thân làm cọc vì tiện và không phải mang theo tiền mặt, nhưng tình huống mất CMND khi giữ cọc thuê xe là rủi ro ít người tính trước, dù nó xảy ra theo nhiều hướng: bạn đánh rơi bản gốc giữa kỳ thuê, giấy tờ bị mất cùng chiếc ví, hoặc thẻ cũ đã hết hạn trong lúc bạn còn đang thiếu nó. Bài này đi qua trình tự xử lý từ lúc phát hiện mất đến lúc nhận lại giấy tờ hoặc thay cọc bằng phương án khác, kèm hồ sơ nên giữ để tự bảo vệ mình.
 
-Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), chuyên sâu về giấy tờ trong phần [giấy tờ](/blog/an-toan-phap-ly/giay-to/), chính sách đặt cọc nằm trong trang [đặt cọc](/blog/thue-xe/dat-coc/), còn thủ tục thuê chung trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), chuyên sâu về giấy tờ trong phần [giấy tờ](/an-toan-phap-ly/giay-to/), chính sách đặt cọc nằm trong trang [đặt cọc](/thue-xe/dat-coc/), còn thủ tục thuê chung trong trang [thuê xe máy](/thue-xe/).
 
 ## Mất giấy tờ cọc thuê xe: báo ngay, báo đúng nơi
 

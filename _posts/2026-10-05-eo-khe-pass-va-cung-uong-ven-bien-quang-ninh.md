@@ -44,4 +44,4 @@ Một chi tiết về ảnh trên cung này: các đoạn biển thoáng một b
 
 Ba loại đoạn trên cung này luôn cần tốc độ khiêm tốn: cua gắt không thấy đường phía trước — vào chậm, ra ga nhẹ; đoạn qua các thôn dân — người bộ hành và xe địa phương xuất hiện đột ngột giữa cảnh vắng; và đoạn có vách núi một bên sau mưa — nhìn mặt đường trước, tránh lăn bánh trên vệt đất đá. Ngoài ba loại đó, cung cho phép chạy thoải mái và tận hưởng: đó là phần thưởng của một cung được lái đúng cách.
 
-Chạy cung ven biển Quảng Ninh là kỹ năng cộng cảm giác — mỗi chuyến sau dễ hơn chuyến trước, và cung này đủ đẹp để bạn muốn quay lại. Các cung phía Bắc khác nằm trong trang chủ đề [cung đường](/blog/cung-duong/), kinh nghiệm chuẩn bị xe đèo tại [thuê xe máy](/blog/xe-may/), và phần nghỉ giữa chặng tuyến Hạ Long ở [chuyên mục cung đường](/blog/cung-duong/).
+Chạy cung ven biển Quảng Ninh là kỹ năng cộng cảm giác — mỗi chuyến sau dễ hơn chuyến trước, và cung này đủ đẹp để bạn muốn quay lại. Các cung phía Bắc khác nằm trong trang chủ đề [cung đường](/cung-duong/), kinh nghiệm chuẩn bị xe đèo tại [thuê xe máy](/xe-may/), và phần nghỉ giữa chặng tuyến Hạ Long ở [chuyên mục cung đường](/cung-duong/).

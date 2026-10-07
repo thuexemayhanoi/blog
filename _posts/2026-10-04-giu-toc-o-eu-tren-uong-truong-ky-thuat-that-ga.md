@@ -40,4 +40,4 @@ Lấy ví dụ quen ở Hà Nội: tuyến vòng Hồ Tây dài, đường tươ
 
 Cuối cùng là kỷ luật về tốc độ: giữ đều không đồng nghĩa giữ cao. Trên đường trường đông, nhịp đều ở mức vừa giúp giữ khoảng cách an toàn tốt hơn mọi lần bứt lên rồi ép phanh. Cứ đều, ổn và về đúng làn — ba chữ đó đáng giá hơn mọi đường ngắn tạm bợ.
 
-Trước khi vào chuyến dài, người thuê xe nên thử ga trên đoạn vắng gần chỗ nhận xe: biết rõ xe phản ứng nhạt hay nhạy với từng nhịp vặn còn hơn mọi mẹo xử lý giữa đường. Các thao tác nền tảng vào số và giữ thăng bằng được gom trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), chủ đề kỹ năng khác nằm trong mục [kỹ năng](/blog/ky-nang/), còn kinh nghiệm chạy tuyến dài xem thêm ở [kinh nghiệm](/blog/kinh-nghiem/).
+Trước khi vào chuyến dài, người thuê xe nên thử ga trên đoạn vắng gần chỗ nhận xe: biết rõ xe phản ứng nhạt hay nhạy với từng nhịp vặn còn hơn mọi mẹo xử lý giữa đường. Các thao tác nền tảng vào số và giữ thăng bằng được gom trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), chủ đề kỹ năng khác nằm trong mục [kỹ năng](/ky-nang/), còn kinh nghiệm chạy tuyến dài xem thêm ở [kinh nghiệm](/kinh-nghiem/).

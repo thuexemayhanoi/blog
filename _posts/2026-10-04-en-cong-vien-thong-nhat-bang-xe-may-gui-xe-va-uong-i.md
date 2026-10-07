@@ -44,6 +44,6 @@ Nếu định ghép cả khu vực lân cận, lịch trình gợi ý là: sáng
 
 Kiểm tra giờ mở cửa công viên theo thông tin công bố chính thức trước khi đi, vì vài đợt sự kiện trong khu có thể điều chỉnh lối vào. Cuối mùa thu lá rụng dày quanh đường dạo, đẹp cho ảnh nhưng trơn nếu sương đọng; bước chậm ở các đoạn gạch phủ lá. Về mùa đông, gió chiều qua các khoảng trống cây khá lạnh: một lớp mỏng thêm vào balo là đủ cho ai định ngồi lâu. Còn về đường về, khung tối trục Trần Phú đèn sáng đều, chỉ cần bật đèn sớm, giữ làn thẳng qua cầu và để ý người đi bộ băng ngang ở các khúc quanh ngã tư lớn.
 
-Người mới thuê xe máy ở Hà Nội sẽ thấy quãng tới Thống Nhất là một bài tập nhập môn tốt: đường lớn, biển báo rõ, bãi gửi gần cổng. Vài lưu ý chung về giao thông nội đô gom trong mục [kinh nghiệm](/blog/kinh-nghiem/) đọc nhanh mà nhớ lâu; còn các điểm dạo khác quanh thành phố gom tại chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), và trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi lịch trình.
+Người mới thuê xe máy ở Hà Nội sẽ thấy quãng tới Thống Nhất là một bài tập nhập môn tốt: đường lớn, biển báo rõ, bãi gửi gần cổng. Vài lưu ý chung về giao thông nội đô gom trong mục [kinh nghiệm](/kinh-nghiem/) đọc nhanh mà nhớ lâu; còn các điểm dạo khác quanh thành phố gom tại chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/), và trang [du lịch](/du-lich/) là mục lục chung cho mọi lịch trình.
 
 Gửi xe đâu đó, đi bộ chậm một vòng, rồi len xe về qua cầu cũ: buổi dạo công viên Thống Nhất là một mẩu xanh nhỏ giữa thành phố, đủ gần để đi thường, đủ yên để đi hoài.

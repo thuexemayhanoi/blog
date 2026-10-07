@@ -29,7 +29,7 @@ Nhóm báo trong ngày gồm các trục trặc chưa ảnh hưởng trực ti�
 
 Để mô tả chuẩn, dùng cấu trúc ba phần: tình huống xuất hiện lúc nào, đi kèm dấu hiệu gì, và bạn đã thử gì. Ví dụ: đèn xi-nhan nhấp nháy từ sáng nay khi bật khóa, quay lại gạt công tắc vài lần vẫn vậy; hoặc tiếng kêu nhỏ phía sau xuất hiện khi qua gờ giảm tốc, đỗ xong kiểm tra không thấy dị vật. Mô tả theo cấu trúc này giúp bên nghe hình dung nhanh và đúng, thay vì nhận một câu mơ hồ là xe có tiếng lạ.
 
-Nguyên tắc chung để xử lý mọi tình huống giữa đường được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/): dừng an toàn, đánh giá, rồi gọi. Và sau mỗi lần báo, hãy nhờ cửa hàng ghi nhận nội dung trao đổi vào phiếu hoặc tin nhắn, để khi trả xe có mốc đối chiếu.
+Nguyên tắc chung để xử lý mọi tình huống giữa đường được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/): dừng an toàn, đánh giá, rồi gọi. Và sau mỗi lần báo, hãy nhờ cửa hàng ghi nhận nội dung trao đổi vào phiếu hoặc tin nhắn, để khi trả xe có mốc đối chiếu.
 
 ## Những việc không cần gọi và việc nên tự xử
 
@@ -41,6 +41,6 @@ Lưu ý ranh giới: mọi thao tác tự xử chỉ dừng ở điều chỉnh 
 
 ## Ghi nhận khi nhận và khi trả xe để báo cho chuẩn
 
-Thói quen giúp bạn phân loại nhanh là ghi lại tình trạng xe ngay từ lúc nhận: chụp vài tấm hình vết xước sẵn có, thử đèn, còi, phanh và ghi rõ vào phiếu. Danh sách đầu mục cần rà nằm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/); có nền so sánh từ đầu, mọi bất thường sau này sẽ lộ ra sớm. Trong lúc đi, nếu cần trau dồi thao tác xử lý để giảm rủi ro, các nguyên tắc nền được tóm trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), và nhóm tình huống trục trặc được gom tại trang [xử lý sự cố xe máy thuê](/blog/xe-may/xu-ly-su-co-xe/).
+Thói quen giúp bạn phân loại nhanh là ghi lại tình trạng xe ngay từ lúc nhận: chụp vài tấm hình vết xước sẵn có, thử đèn, còi, phanh và ghi rõ vào phiếu. Danh sách đầu mục cần rà nằm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/); có nền so sánh từ đầu, mọi bất thường sau này sẽ lộ ra sớm. Trong lúc đi, nếu cần trau dồi thao tác xử lý để giảm rủi ro, các nguyên tắc nền được tóm trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), và nhóm tình huống trục trặc được gom tại trang [xử lý sự cố xe máy thuê](/xe-may/xu-ly-su-co-xe/).
 
 Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội làm việc từ 09:00 đến 21:00 hằng ngày, tiếp cuộc gọi về mọi tình huống trên xe thuê qua số 0942 467 674. Khi gặp sự việc thuộc nhóm cần báo ngay, hãy gọi sớm trong giờ mở cửa và mô tả theo cấu trúc tình huống, dấu hiệu, đã thử gì, để được hướng dẫn hoặc đổi xe kịp thời.

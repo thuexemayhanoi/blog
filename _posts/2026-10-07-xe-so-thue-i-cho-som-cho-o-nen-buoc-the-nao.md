@@ -69,13 +69,13 @@ Với xe thuê, một lỗi nữa rất đáng tránh là buộc dây cạo xư�
 - Khóa cốp trước khi buộc đồ lên trên, tránh tới nhà mới nhớ đồ để quên trong cốp.
 - Gửi xe ở bãi gần chợ thay vì đỗ vỉa hè, vừa an toàn cho xe vừa khỏi lo trộm đồ.
 
-Xe số gọn, nhẹ, dễ luồn lách, nên chở đồ đi chợ bằng xe máy loại này tiện hơn xe tay ga cồng kềnh. Nếu bạn đi nhóm gia đình hoặc mua nhiều, có thể cân nhắc thêm [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) để giữ xe lâu hơn mà chi phí hợp lý.
+Xe số gọn, nhẹ, dễ luồn lách, nên chở đồ đi chợ bằng xe máy loại này tiện hơn xe tay ga cồng kềnh. Nếu bạn đi nhóm gia đình hoặc mua nhiều, có thể cân nhắc thêm [thuê xe máy theo ngày](/thue-xe/thue-ngay/) để giữ xe lâu hơn mà chi phí hợp lý.
 
 ## Câu hỏi thường gặp về chở đồ bằng xe số thuê
 
 ### Xe số thuê có giá sau yên sẵn không?
 
-Hầu hết xe số cho thuê có sẵn giá sau yên hoặc móc. Khi nhận xe bạn nên kiểm tra giá có chắc không, tham khảo hướng dẫn nhận xe trong trang [nhận xe và trả xe máy thuê](/blog/thue-xe/nhan-tra-xe/).
+Hầu hết xe số cho thuê có sẵn giá sau yên hoặc móc. Khi nhận xe bạn nên kiểm tra giá có chắc không, tham khảo hướng dẫn nhận xe trong trang [nhận xe và trả xe máy thuê](/thue-xe/nhan-tra-xe/).
 
 ### Chở bao nhiêu là quá tải?
 
@@ -87,4 +87,4 @@ Mỗi xe có tải trọng thiết kế riêng do nhà sản xuất công bố, 
 
 ## Kết luận
 
-Xe số thuê đi chợ chở đồ chỉ cần đúng nguyên tắc buộc: dụng cụ phù hợp, gom về một điểm buộc, siết lại sau khi đi một quãng ngắn, và không chở quá tải. Vài phút chuẩn bị dây thun cùng lưới ở chợ gần nhà quanh khu vực Long Biên, Bồ Đề sẽ tiết kiệm cho bạn cả chuyến đi suôn sẻ. Để chuẩn bị kỹ hơn cho chuyến đi chợ lần sau, tham khảo thêm trang [thuê xe máy](/blog/thue-xe/), [xe máy](/blog/xe-may/) hoặc [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) trước khi nhận xe.
+Xe số thuê đi chợ chở đồ chỉ cần đúng nguyên tắc buộc: dụng cụ phù hợp, gom về một điểm buộc, siết lại sau khi đi một quãng ngắn, và không chở quá tải. Vài phút chuẩn bị dây thun cùng lưới ở chợ gần nhà quanh khu vực Long Biên, Bồ Đề sẽ tiết kiệm cho bạn cả chuyến đi suôn sẻ. Để chuẩn bị kỹ hơn cho chuyến đi chợ lần sau, tham khảo thêm trang [thuê xe máy](/thue-xe/), [xe máy](/xe-may/) hoặc [thủ tục thuê xe máy](/thue-xe/thu-tuc/) trước khi nhận xe.

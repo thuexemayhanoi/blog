@@ -27,7 +27,7 @@ Hãy lấy một ngày làm việc điển hình của nhiều người ở Long
 
 Đó là chưa kể các quãng di chuyển ngắn giữa các phường, ví dụ từ đường Nguyễn Văn Cừ vòng qua chợ rồi ghé thêm một điểm nữa trước khi về: đoạn chỉ vài cây số mà đặt xe ôm riêng thì tổng tiền tăng nhanh, còn xe tự lái chỉ tốn thêm chút xăng. Ngược lại, nếu ngày của bạn chỉ có đúng một chuyến khứ hồi, tổng tiền xe ôm có khi đã thấp hơn giá thuê nguyên ngày, lúc đó thuê xe là bỏ phí phần lớn giá trị.
 
-Muốn tự tính chính xác cho dòng xe bạn định lấy, mở trang [bảng giá](/blog/bang-gia/) xem mức niêm yết theo ngày, rồi đếm trước số chuyến dự kiến của mình. Nếu bạn ở Hà Nội nhiều ngày liền, trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) giải thích cách cộng dồn giá thuê theo từng ngày, thường rẻ hơn gọi từng chuyến rời.
+Muốn tự tính chính xác cho dòng xe bạn định lấy, mở trang [bảng giá](/bang-gia/) xem mức niêm yết theo ngày, rồi đếm trước số chuyến dự kiến của mình. Nếu bạn ở Hà Nội nhiều ngày liền, trang [thuê xe theo ngày](/thue-xe/thue-ngay/) giải thích cách cộng dồn giá thuê theo từng ngày, thường rẻ hơn gọi từng chuyến rời.
 
 ## Chủ động thời gian và tuyến đường
 
@@ -51,6 +51,6 @@ Một điểm vận hành nữa cần nhớ nếu chọn thuê: cửa hàng ho�
 
 Tổng hợp lại, thuê tự lái hợp với bạn nếu một ngày có từ ba chuyến trở lên, cần linh hoạt lộ trình, ở lại Hà Nội vài ngày liền và có giấy phép lái xe. Xe ôm công nghệ hợp nếu đi lẻ tẻ một hai chuyến, không muốn lo thủ tục nhận xe, hoặc đi trong điều kiện mưa gió mà không tiện tự lái.
 
-Nếu bạn rơi vào nhóm thứ nhất, trước khi chọn dòng xe để thuê, nên đọc qua bài [xe số, xe ga hay xe 50cc nên chọn loại nào](/blog/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/) để lấy đúng loại xe hợp kiểu đường nội đô hẹp. Các so sánh sâu hơn về dòng xe, giá thuê và hình thức thuê được gom trong chuyên mục [so sánh khi thuê xe máy](/blog/xe-may/so-sanh-xe/), bạn có thể đối chiếu trước khi quyết định.
+Nếu bạn rơi vào nhóm thứ nhất, trước khi chọn dòng xe để thuê, nên đọc qua bài [xe số, xe ga hay xe 50cc nên chọn loại nào](/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/) để lấy đúng loại xe hợp kiểu đường nội đô hẹp. Các so sánh sâu hơn về dòng xe, giá thuê và hình thức thuê được gom trong chuyên mục [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/), bạn có thể đối chiếu trước khi quyết định.
 
 Cách dùng hữu ích nhất: đếm trước số chuyến của ngày mai, mở bảng giá xem mức thuê một ngày, rồi so với tổng tiền ôm ước lượng của chính bạn. Con số của chính bạn sẽ quyết định nhanh hơn mọi lời khuyên chung.

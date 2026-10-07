@@ -42,6 +42,6 @@ Sau mưa, đường đất làng có đoạn thành vũng lún — nhìn trướ
 
 ## Thủ tục nhận trả và các trang nên đọc trước khi về
 
-Giấy tờ đi ăn giỗ gọn nhẹ: bản gốc căn cước cho phần thuê, và biên nhận ghi rõ ngày trả cùng phần phát sinh nếu kéo dài. Ai hay về quê nhiều lần trong năm nên đọc gói dài trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/); phần giấy tờ cọc gom trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/); tổng quan các dòng xe và gói thuê nằm trong trang [thuê xe máy](/blog/thue-xe/); kinh nghiệm theo từng nhóm người về quê gom trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/); các mẹo chạy đường dài rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Giấy tờ đi ăn giỗ gọn nhẹ: bản gốc căn cước cho phần thuê, và biên nhận ghi rõ ngày trả cùng phần phát sinh nếu kéo dài. Ai hay về quê nhiều lần trong năm nên đọc gói dài trong trang [thuê xe theo tháng](/thue-xe/thue-thang/); phần giấy tờ cọc gom trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/); tổng quan các dòng xe và gói thuê nằm trong trang [thuê xe máy](/thue-xe/); kinh nghiệm theo từng nhóm người về quê gom trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/); các mẹo chạy đường dài rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Trả xe sau giỗ: lau bụi đường đồng quanh thân, chụp hiện trạng hai bên, thanh toán phát sinh tại chỗ và cầm lại giấy cọc. Làm tròn bộ việc đó trong năm phút, chuyến về khép lại đúng nghĩa của nó — họ được thăm, lễ được giữ, và chiếc xe đã hoàn thành phần việc lặng lẽ của mình trong một ngày giỗ ấm cúng.

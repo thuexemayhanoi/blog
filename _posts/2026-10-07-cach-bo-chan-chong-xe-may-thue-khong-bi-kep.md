@@ -14,7 +14,7 @@ article_id: BLG-01503
 writer: W1
 ---
 
-Nghe có vẻ đơn giản, nhưng cách bỏ chân chống xe máy không bị kẹp là chi tiết nhỏ mà người mới thuê xe hay bị trầy xước tay lần đầu, nhất là khi xe lạ, vị trí chân chống khác xe nhà. Thói quen xấu phổ biến là cúi xuống dùng tay kéo chân chống ra, và ngón tay có thể bị kẹp giữa chân chống với ống pô hoặc càng xe khi thân xe đột ngột nghiêng. Bài này hướng dẫn thao tác đúng bằng chân, cách kiểm tra chân chống trước khi nhận xe thuê, và những lưu ý khi đỗ xe để tránh xe đổ ngoài ý muốn. Bạn có thể xem thêm các bài khác trong mục [kỹ năng](/blog/ky-nang/) trên blog.
+Nghe có vẻ đơn giản, nhưng cách bỏ chân chống xe máy không bị kẹp là chi tiết nhỏ mà người mới thuê xe hay bị trầy xước tay lần đầu, nhất là khi xe lạ, vị trí chân chống khác xe nhà. Thói quen xấu phổ biến là cúi xuống dùng tay kéo chân chống ra, và ngón tay có thể bị kẹp giữa chân chống với ống pô hoặc càng xe khi thân xe đột ngột nghiêng. Bài này hướng dẫn thao tác đúng bằng chân, cách kiểm tra chân chống trước khi nhận xe thuê, và những lưu ý khi đỗ xe để tránh xe đổ ngoài ý muốn. Bạn có thể xem thêm các bài khác trong mục [kỹ năng](/ky-nang/) trên blog.
 
 ## Phân biệt chống nghiêng xe máy và chống giữa
 
@@ -34,7 +34,7 @@ Một chi tiết đáng biết trên xe ga đời mới: chân chống thường
 
 Khi nhận xe ở cửa hàng, bạn nên thử bỏ và lấy chống ngay tại chỗ, trước mặt nhân viên. Điều này giúp bạn biết độ cứng của chống, tiếng chốt nghe thế nào, và vị trí chống quen thuộc chưa. Trên một số xe cũ, lò xo chân chống yếu, chống có thể tự thu về giữa chừng, rất nguy hiểm nếu bạn đã rời xa xe mà tưởng xe đã chống chắc. Nếu thấy chống lỏng hoặc không ăn chốt, yêu cầu đổi xe hoặc sửa ngay tại hàng.
 
-Trước khi nhận xe, bạn cũng nên chuẩn bị đủ giấy tờ theo danh mục tôi đã ghi trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), và người mới lên xe lần đầu có thể xem thêm các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Làm thủ tục gọn, bạn có nhiều thời gian quan sát xe hơn thay vì vội vã rồi bỏ qua các bước kiểm tra.
+Trước khi nhận xe, bạn cũng nên chuẩn bị đủ giấy tờ theo danh mục tôi đã ghi trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), và người mới lên xe lần đầu có thể xem thêm các lưu ý trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/). Làm thủ tục gọn, bạn có nhiều thời gian quan sát xe hơn thay vì vội vã rồi bỏ qua các bước kiểm tra.
 
 ## Chọn vị trí đỗ để chống chắc chắn
 
@@ -46,4 +46,4 @@ Trên các chuyến đi xa, trước khi để xe nghỉ qua đêm, kiểm tra l
 
 Chân chống mỗi dòng xe có cấu tạo và độ cứng khác nhau, vị trí cũng có thể thay đổi theo hãng và theo đời xe, nên đừng đúc kết kinh nghiệm xe cũ áp cho xe lạ; nếu không chắc, kiểm tra trực tiếp hoặc hỏi cửa hàng. Xe máy là máy móc, chi tiết nhỏ nhất cũng đáng để làm đúng.
 
-Nếu bạn cần xe chắc chắn, dễ thao tác cho người mới, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội cho thuê xe số và xe ga được kiểm tra kỹ trước khi giao, mở cửa từ 09:00 đến 21:00. Nhân viên hướng dẫn thao tác cơ bản gồm cả cách bỏ chân chống xe máy cho khách lần đầu thuê, bạn chỉ cần gọi trước số 0942 467 674 hoặc ghé trực tiếp hàng để được hỗ trợ. Chúc bạn luôn có chỗ đỗ xe an toàn, và xem thêm các bài khác trong mục [kỹ năng](/blog/ky-nang/) của chúng tôi.
+Nếu bạn cần xe chắc chắn, dễ thao tác cho người mới, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội cho thuê xe số và xe ga được kiểm tra kỹ trước khi giao, mở cửa từ 09:00 đến 21:00. Nhân viên hướng dẫn thao tác cơ bản gồm cả cách bỏ chân chống xe máy cho khách lần đầu thuê, bạn chỉ cần gọi trước số 0942 467 674 hoặc ghé trực tiếp hàng để được hỗ trợ. Chúc bạn luôn có chỗ đỗ xe an toàn, và xem thêm các bài khác trong mục [kỹ năng](/ky-nang/) của chúng tôi.

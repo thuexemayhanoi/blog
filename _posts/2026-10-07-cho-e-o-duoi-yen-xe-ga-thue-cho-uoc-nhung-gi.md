@@ -30,13 +30,13 @@ Khi xếp, hãy đặt vật nặng xuống đáy cốp, vật nhẹ và mềm l
 
 ## Những thứ không nên để trong cốp
 
-Điện thoại, ví, giấy tờ gốc không nên để trong cốp khi rời xe, vì đây là vị trí kẻ trộm dễ đoán nhất. Bình xăng dự phòng không nên chất trong cốp: mùi xăng ám lâu và tiềm ẩn rủi ro cháy. Thức ăn nóng, đồ nhiều mùi như mắm, nem để lâu cũng khiến cốp ám mùi khó làm sạch. Vật quá nặng hoặc chất cao vượt mép cốp có thể làm vênh nắp theo thời gian. Nếu định chở nhiều đồ hơn bình thường, xem thêm [kinh nghiệm chọn loại xe khi chở hành lý cồng kềnh](/blog/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn đúng dòng xe ngay từ đầu.
+Điện thoại, ví, giấy tờ gốc không nên để trong cốp khi rời xe, vì đây là vị trí kẻ trộm dễ đoán nhất. Bình xăng dự phòng không nên chất trong cốp: mùi xăng ám lâu và tiềm ẩn rủi ro cháy. Thức ăn nóng, đồ nhiều mùi như mắm, nem để lâu cũng khiến cốp ám mùi khó làm sạch. Vật quá nặng hoặc chất cao vượt mép cốp có thể làm vênh nắp theo thời gian. Nếu định chở nhiều đồ hơn bình thường, xem thêm [kinh nghiệm chọn loại xe khi chở hành lý cồng kềnh](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) để chọn đúng dòng xe ngay từ đầu.
 
 ## Thói quen dọn cốp trước khi trả xe
 
 Trước khi trả xe, hãy dọn ráo nước, cát và vụn đồ trong cốp. Mở nắp cốp, lau khô đáy nếu vừa đi mưa, và soi kỹ các góc để không bỏ sót đồ nhỏ như củ sạc, dây khóa hay thẻ giữ xe. Nước đọng lâu trong cốp sẽ gây mùi ẩm mốc khó xử lý. Cốp sạch giúp việc bàn giao rõ ràng, tránh tranh cãi về tình trạng xe. Nếu cốp có mùi hoặc bẩn nhiều, hãy chủ động báo nhân viên nhận xe thay vì để họ phát hiện sau khi bạn đã rời đi.
 
-Ngoài cách xếp đồ, bạn có thể tham khảo các bài trong chuyên mục [xe máy](/blog/xe-may/) để biết thêm cách kiểm tra phanh, đèn và tiếng động cơ trước khi nhận xe, giúp chuyến đi suôn sẻ hơn.
+Ngoài cách xếp đồ, bạn có thể tham khảo các bài trong chuyên mục [xe máy](/xe-may/) để biết thêm cách kiểm tra phanh, đèn và tiếng động cơ trước khi nhận xe, giúp chuyến đi suôn sẻ hơn.
 
 ## Những câu hỏi thường gặp
 
@@ -48,6 +48,6 @@ Ngoài cách xếp đồ, bạn có thể tham khảo các bài trong chuyên m�
 
 **Để mũ bảo hiểm trong cốp thay vì cầm tay được không?** Được và đây là ưu điểm lớn của xe ga: cốp sâu nhét vừa một mũ nửa đầu, giúp bạn không phải vác mũ theo khi xuống xe ghé quán. Với mũ loại bao kín đầu, hãy hỏi trước vì không phải dòng xe nào cũng vừa.
 
-Nếu bạn đang cân nhắc giữa dòng xe ga nhỏ gọn và dòng có cốp rộng, các bài trong chuyên mục [chủng loại xe máy](/blog/xe-may/) sẽ cho bạn góc nhìn cụ thể theo từng nhu cầu đi lại trong tuần.
+Nếu bạn đang cân nhắc giữa dòng xe ga nhỏ gọn và dòng có cốp rộng, các bài trong chuyên mục [chủng loại xe máy](/xe-may/) sẽ cho bạn góc nhìn cụ thể theo từng nhu cầu đi lại trong tuần.
 
 Cần thuê một chiếc xe tay ga có cốp rộng cho ngày đi làm hay chuyến đi chợ cuối tuần ở Hà Nội? Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên cho thuê nhiều dòng xe máy phục vụ nhu cầu hằng ngày. Điện thoại liên hệ 0942 467 674, cửa hàng mở từ 09:00 đến 21:00 hàng ngày. Các dòng xe sẵn có và tình trạng cốp có thể thay đổi theo từng thời kỳ, vì vậy hãy gọi xác nhận trước khi đến nhận xe.

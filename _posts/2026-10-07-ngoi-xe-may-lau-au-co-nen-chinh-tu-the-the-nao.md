@@ -14,7 +14,7 @@ article_id: BLG-01509
 writer: W1
 ---
 
-Chỉ sau một hai giờ chạy xe liên tục, nhiều người đã thấy mỏi vai và đau cổ khi chạy xe máy lâu trên đường trường, nhất là cuối ngày gió lạnh hoặc đi đường nhiều ổ gà. Cái đau này không đến từ xe mà chủ yếu từ tư thế: cổ gập về trước, vai căng lên ghì tay lái, mắt dán sát đầu xe. Bài viết này thuộc chuỗi bài [kỹ năng lái xe máy](/blog/ky-nang/) dành cho người thuê xe, điểm lại nguyên nhân và cách chỉnh lại tư thế ngồi, chỗ để gương, cùng thói quen nghỉ giải lao để cổ vai đỡ mỏi trên những chuyến dài.
+Chỉ sau một hai giờ chạy xe liên tục, nhiều người đã thấy mỏi vai và đau cổ khi chạy xe máy lâu trên đường trường, nhất là cuối ngày gió lạnh hoặc đi đường nhiều ổ gà. Cái đau này không đến từ xe mà chủ yếu từ tư thế: cổ gập về trước, vai căng lên ghì tay lái, mắt dán sát đầu xe. Bài viết này thuộc chuỗi bài [kỹ năng lái xe máy](/ky-nang/) dành cho người thuê xe, điểm lại nguyên nhân và cách chỉnh lại tư thế ngồi, chỗ để gương, cùng thói quen nghỉ giải lao để cổ vai đỡ mỏi trên những chuyến dài.
 
 ## Nguyên nhân của đau cổ khi chạy xe máy lâu
 
@@ -33,7 +33,7 @@ Ngồi được như vậy thì cổ chỉ giữ đầu ở góc tự nhiên, c�
 
 ## Chỉnh gương và khoảng cách tay lái trước khi lên đường
 
-Gương chiếu hậu chỉnh sai là một nguyên nhân khiến cổ phải xoay liên tục mỗi lần muốn quan sát phía sau. Trước khi khởi hành, chỉnh hai gương sao khi ngồi đúng tư thế, chỉ cần liếc mắt là thấy phần đầu xe và hai làn bên cạnh, không cần quay cả đầu. Với xe số, nếu cảm thấy tay với xa quá, hãy thử dịch người về trước nửa hông thay vì kéo cổ theo tay lái. Với xe ga, yên rộng cho phép chọn vị trí ngồi thoải mái, hãy ngồi thử rồi mới chỉnh gương, theo đúng tư thế sẽ đi trên đường. Ai từng [kiểm tra giấy tờ và xe trước khi lái](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) chắc để ý bước chỉnh gương luôn nằm trong khâu chuẩn bị, vì nó thuộc nhóm việc nên làm trước khi ra khỏi sân.
+Gương chiếu hậu chỉnh sai là một nguyên nhân khiến cổ phải xoay liên tục mỗi lần muốn quan sát phía sau. Trước khi khởi hành, chỉnh hai gương sao khi ngồi đúng tư thế, chỉ cần liếc mắt là thấy phần đầu xe và hai làn bên cạnh, không cần quay cả đầu. Với xe số, nếu cảm thấy tay với xa quá, hãy thử dịch người về trước nửa hông thay vì kéo cổ theo tay lái. Với xe ga, yên rộng cho phép chọn vị trí ngồi thoải mái, hãy ngồi thử rồi mới chỉnh gương, theo đúng tư thế sẽ đi trên đường. Ai từng [kiểm tra giấy tờ và xe trước khi lái](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) chắc để ý bước chỉnh gương luôn nằm trong khâu chuẩn bị, vì nó thuộc nhóm việc nên làm trước khi ra khỏi sân.
 
 ## Nghỉ giải lao và vài động tác nhẹ trên dọc đường
 
@@ -45,7 +45,7 @@ Mũ đúng kích cỡ, quai cài chặt là nền tảng, một chiếc mũ lỏ
 
 ## Với người thuê xe máy
 
-Khi nhận xe, hãy thử ngồi lên xe ngay tại sân: đặt chân xuống thử, cảm nhận độ cao yên và khoảng với tới tay lái, nói với cửa hàng nếu thấy tư thế chưa hợp để được tư vấn dòng khác. Người mới lấy bằng A1 lần đầu nên đọc trước [kinh nghiệm nhận xe máy thuê](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để hình dung các bước thử xe. Trước khi rời cửa hàng, chỉnh gương theo tư thế thật của mình thay vì giữ nguyên vị trí người trước để lại. Các bài về sức khỏe và kỹ năng khác được nhóm trong [mục Kỹ năng](/blog/ky-nang/), bạn có thể đọc trước khi có kế hoạch chạy dài.
+Khi nhận xe, hãy thử ngồi lên xe ngay tại sân: đặt chân xuống thử, cảm nhận độ cao yên và khoảng với tới tay lái, nói với cửa hàng nếu thấy tư thế chưa hợp để được tư vấn dòng khác. Người mới lấy bằng A1 lần đầu nên đọc trước [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) để hình dung các bước thử xe. Trước khi rời cửa hàng, chỉnh gương theo tư thế thật của mình thay vì giữ nguyên vị trí người trước để lại. Các bài về sức khỏe và kỹ năng khác được nhóm trong [mục Kỹ năng](/ky-nang/), bạn có thể đọc trước khi có kế hoạch chạy dài.
 
 Chạy xe lâu không có nghĩa là chấp nhận đau cổ, chỉ cần chỉnh lại tư thế và biết nghỉ đúng lúc là hành trình nhẹ nhàng hơn hẳn. Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, sẵn sàng tư vấn dòng xe phù hợp với dáng người cho các chuyến đi xa. Bạn có thể gọi trước số 0942 467 674 để hỏi tình trạng xe trước khi đến.
 

@@ -44,7 +44,7 @@ Với người thuê xe máy ở Hà Nội, kiểm tra bảo hiểm của xe là
 - Hỏi quy trình hỗ trợ của cửa hàng nếu xảy ra sự cố trong lúc thuê.
 - Lưu số điện thoại liên hệ của cửa hàng để dùng ngay khi cần.
 
-Nếu xe thuê không có bảo hiểm hợp lệ, rủi ro pháp lý khi bị kiểm tra giấy tờ hoặc khi xảy ra thiệt hại sẽ ảnh hưởng trực tiếp đến chuyến đi của bạn, nên đừng ngại hỏi kỹ lúc nhận xe. Tổng hợp kiến thức về loại bảo hiểm này nằm trong trang [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/), còn quy trình xử lý khi gặp sự cố trong thời gian thuê nằm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/). Danh sách các dòng xe hiện cho thuê nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Nếu xe thuê không có bảo hiểm hợp lệ, rủi ro pháp lý khi bị kiểm tra giấy tờ hoặc khi xảy ra thiệt hại sẽ ảnh hưởng trực tiếp đến chuyến đi của bạn, nên đừng ngại hỏi kỹ lúc nhận xe. Tổng hợp kiến thức về loại bảo hiểm này nằm trong trang [bảo hiểm xe máy](/an-toan-phap-ly/bao-hiem/), còn quy trình xử lý khi gặp sự cố trong thời gian thuê nằm trong trang [sự cố khi thuê xe](/thue-xe/su-co/). Danh sách các dòng xe hiện cho thuê nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -52,6 +52,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về mua bảo hiểm xe máy
 
-Mua bảo hiểm xe máy ngày càng thuận tiện qua đại lý, ứng dụng và các điểm dịch vụ, nhưng phần quan trọng nhất nằm ở việc đọc kỹ ngày hiệu lực và thời hạn trên giấy chứng nhận theo quy định của Nghị định 67/2023/NĐ-CP. Với người thuê xe, kiểm tra tem bảo hiểm của xe trước mỗi chuyến là thói quen nhỏ mang lại sự an tâm lớn. Các vấn đề pháp lý khác khi lưu thông trong nội thành được tổng hợp tại trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Mua bảo hiểm xe máy ngày càng thuận tiện qua đại lý, ứng dụng và các điểm dịch vụ, nhưng phần quan trọng nhất nằm ở việc đọc kỹ ngày hiệu lực và thời hạn trên giấy chứng nhận theo quy định của Nghị định 67/2023/NĐ-CP. Với người thuê xe, kiểm tra tem bảo hiểm của xe trước mỗi chuyến là thói quen nhỏ mang lại sự an tâm lớn. Các vấn đề pháp lý khác khi lưu thông trong nội thành được tổng hợp tại trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về mức phí, thời hạn và hiệu lực bảo hiểm bắt buộc có thể thay đổi theo từng văn bản; trước khi mua, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

@@ -18,7 +18,7 @@ Chở bé đi khám hoặc đi học bằng xe máy thuê giữa phố Hà Nội
 
 ## Trẻ em trên xe máy quy định hiện hành nói gì
 
-Quy định hiện hành yêu cầu người ngồi trên xe máy phải đội mũ bảo hiểm đạt chuẩn, và trẻ em không nằm ngoài yêu cầu này. Đáng chú ý, trách nhiệm khi chở người không đội mũ hiện nay gắn với người điều khiển xe, nghĩa là người bế bé phía sau chính là người phải lo bé có mũ đúng cỡ. Các quy định chi tiết về việc chở người trên xe máy được gom trong bài về [quy định chở người trên xe máy hiện hành](/blog/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), và vi phạm các quy định đó bị xử phạt theo Nghị định 168/2024/NĐ-CP; mức xử lý cụ thể có thể thay đổi theo văn bản sửa đổi, nên phần cần nhớ nhất với gia đình là nguyên tắc: có mũ đúng cỡ trước khi bé lên xe.
+Quy định hiện hành yêu cầu người ngồi trên xe máy phải đội mũ bảo hiểm đạt chuẩn, và trẻ em không nằm ngoài yêu cầu này. Đáng chú ý, trách nhiệm khi chở người không đội mũ hiện nay gắn với người điều khiển xe, nghĩa là người bế bé phía sau chính là người phải lo bé có mũ đúng cỡ. Các quy định chi tiết về việc chở người trên xe máy được gom trong bài về [quy định chở người trên xe máy hiện hành](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), và vi phạm các quy định đó bị xử phạt theo Nghị định 168/2024/NĐ-CP; mức xử lý cụ thể có thể thay đổi theo văn bản sửa đổi, nên phần cần nhớ nhất với gia đình là nguyên tắc: có mũ đúng cỡ trước khi bé lên xe.
 
 Với trẻ dưới sáu tuổi, yêu cầu kỹ thuật còn khắt khe hơn yêu cầu pháp lý. Chiếc mũ phải đạt quy chuẩn kỹ thuật quốc gia về mũ bảo hiểm, đồng thời ôm đúng vòng đầu của bé. Mũ quá rộng sẽ trượt che mắt hoặc tuột hẳn khi có va chạm; mũ quá chật gây khó chịu khiến bé giật mình, khóc và vùng vẫy ngay giữa đường, điều còn nguy hiểm hơn cả việc không đội mũ.
 
@@ -34,7 +34,7 @@ Một điểm hay bị bỏ qua là tuổi mũ. Mũ từng va chạm, từng rơ
 
 ## Chở trẻ trên xe máy thuê: kiểm tra gì khi nhận xe
 
-Khi thuê xe máy để chở bé, hãy kiểm tra mũ ngay tại quầy cùng với việc nhận xe. Xin mũ phụ có sẵn của tiệm, thử lên đầu bé trước khi rời cửa hàng, và nếu mũ cộc cỡ hoặc quai lỏng, hãy yêu cầu đổi. Thói quen chụp lại hiện trạng xe và mũ khi nhận được gợi ý trong bài [nhận xe máy thuê nên chụp lại những gì](/blog/thue-xe/2026/10/07/nhan-xe-may-thue-nen-chup-lai-nhung-gi/), và nếu bạn vừa mới có bằng lái, phần chuẩn bị tổng thể trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng đáng đọc trước chuyến đi đầu tiên có trẻ nhỏ.
+Khi thuê xe máy để chở bé, hãy kiểm tra mũ ngay tại quầy cùng với việc nhận xe. Xin mũ phụ có sẵn của tiệm, thử lên đầu bé trước khi rời cửa hàng, và nếu mũ cộc cỡ hoặc quai lỏng, hãy yêu cầu đổi. Thói quen chụp lại hiện trạng xe và mũ khi nhận được gợi ý trong bài [nhận xe máy thuê nên chụp lại những gì](/thue-xe/2026/10/07/nhan-xe-may-thue-nen-chup-lai-nhung-gi/), và nếu bạn vừa mới có bằng lái, phần chuẩn bị tổng thể trong bài [thuê xe máy cho người mới lấy bằng A1 lần đầu](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng đáng đọc trước chuyến đi đầu tiên có trẻ nhỏ.
 
 Tư thế chở trẻ cũng quyết định an toàn ngang với chiếc mũ. Bé ngồi phía sau giữa hai tay người lớn, hai tay ôm, chân không lơ lửng; nếu bé còn quá nhỏ, việc chở nên cân nhắc phương án khác thay vì cố ngồi ba trên xe máy. Tốc độ đi chậm hơn bình thường, giữ khoảng cách với xe phía trước, và tránh đường đang nhiều xe container hay xe tải nặng, nhất là giờ cao điểm ở nội thành Hà Nội.
 

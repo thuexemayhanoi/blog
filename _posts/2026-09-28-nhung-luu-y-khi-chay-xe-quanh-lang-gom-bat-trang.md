@@ -22,7 +22,7 @@ Lưu ý chạy xe gần Làng gốm Bát Tràng không nằm ở đường xa ha
 
 ## Lưu ý chạy xe gần Làng gốm Bát Tràng: khung giờ và đoạn đông
 
-Khung cuối tuần, từ sáng muộn tới giữa trưa, là lúc cổng chợ gốm và các bãi xe quanh khu đông nhất: dòng xe từ đê rẽ vào nối đuôi, dòng xe đã gửi quay ra đan vào nhau ngay trước cổng chợ. Đoạn này không có giải pháp nào khác ngoài đi chậm theo dòng, giữ khoảng cách với các xe chở trẻ nhỏ, vì phần lớn khách đến đây là gia đình, người ngồi sau thường xuống xe ngay trước cổng. Tình huống chậm dòng trong phố được phân tích rộng hơn trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Khung cuối tuần, từ sáng muộn tới giữa trưa, là lúc cổng chợ gốm và các bãi xe quanh khu đông nhất: dòng xe từ đê rẽ vào nối đuôi, dòng xe đã gửi quay ra đan vào nhau ngay trước cổng chợ. Đoạn này không có giải pháp nào khác ngoài đi chậm theo dòng, giữ khoảng cách với các xe chở trẻ nhỏ, vì phần lớn khách đến đây là gia đình, người ngồi sau thường xuống xe ngay trước cổng. Tình huống chậm dòng trong phố được phân tích rộng hơn trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 Ngày thường, nhịp quanh làng dễ chịu hơn nhiều: xe thưa, chợ vắng khách, các bãi xe luôn còn chỗ. Nhưng đầu giờ chiều giữa tuần có thời điểm xe tải giao hàng vào chợ, chiếm một phần đường trước cổng; khung này chạy qua nên chuyển làn sớm, không chen giữa xe tải và vỉa hè. Nếu chỉ ghé mua gốm nhanh, khung giữa trưa ngày thường là lúc tiện nhất để vào ra không chạm dòng đông. Khách quen đường còn hay đi vòng thêm một đoạn ven đê phía nam rồi mới rẽ vào, cách này vào cổng chợ theo hướng thuận, đỡ phải rẽ ngoặt giữa dòng xe cuối tuần.
 
@@ -30,13 +30,13 @@ Ngày thường, nhịp quanh làng dễ chịu hơn nhiều: xe thưa, chợ v�
 
 Quy tắc gửi xe ở Bát Tràng đơn giản: chọn một bãi gần cổng chợ, gửi một lần rồi đi bộ cả buổi. Vỉa hè quanh chợ không phải chỗ để xe hợp lệ, dù có nhiều xe địa phương dừng ngắn; khách tham quan dừng xe trên vỉa hè vừa dễ cản dòng đi bộ, vừa không ai trông giữ cho xe máy thuê. Mức phí giữ xe ở các bãi thường nhỏ lẻ, nhưng vẫn nên hỏi trước khi đưa xe, vì giữa các bãi có thể khác nhau theo ngày.
 
-Xe gửi xong nên khóa cổ và khóa từ, lấy theo mũ bảo hiểm và túi nhỏ, chụp lại chỗ gửi kèm biển số. Buổi cao điểm bãi kín dần, xe được xếp sát nhau, nên khi lấy xe cuối buổi phải chú ý các xe bên cạnh, lắc nhẹ gương và nhún thử phanh trước khi lăn ra cổng bãi. Kinh nghiệm giữ xe tại các điểm tham quan khác được kể trong trang [du lịch Hà Nội](/blog/du-lich/), và câu hỏi thường gặp về đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Xe gửi xong nên khóa cổ và khóa từ, lấy theo mũ bảo hiểm và túi nhỏ, chụp lại chỗ gửi kèm biển số. Buổi cao điểm bãi kín dần, xe được xếp sát nhau, nên khi lấy xe cuối buổi phải chú ý các xe bên cạnh, lắc nhẹ gương và nhún thử phanh trước khi lăn ra cổng bãi. Kinh nghiệm giữ xe tại các điểm tham quan khác được kể trong trang [du lịch Hà Nội](/du-lich/), và câu hỏi thường gặp về đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Ngày mưa và ngày lễ
 
 Mưa làm mặt đê trơn hơn nhìn thấy, nhất là các đoạn đất xe chở sét dính ra đường quanh khu chợ; lúc này nên hạ tốc trước dốc đê, tránh phanh gấp tại các gờ giảm tốc và bật đèn cả ban ngày. Đường liên xã vào làng thoát nước chưa đồng đều, có vũng nhỏ nhưng cản trở không lớn; miễn là không luồn lách để né vũng, va quẹt giữa các xe hai chiều là rủi ro lớn nhất ngày mưa ở đây.
 
-Ngày lễ dài, khu vực này đón dòng khách đậm hơn cả cuối tuần thường, các bãi xe mở rộng thêm các lô đất trống quanh chợ. Khách đi ngày lễ nên xuất phát sớm, tính thừa một khoảng thời gian cho việc gửi xe, và nếu định dùng trải nghiệm nặn gốm thì nên hỏi trước khung trống, vì nhiều xưởng giới hạn lượt khách theo ca. Với khách đi nhóm đông xe, nên hẹn trước một điểm gặp ngoài khu đê rồi mới kéo vào theo hàng, tránh dàn xe chờ nhau ngay trước cổng chợ vốn hẹp. Danh sách điểm đến quanh Hà Nội có trong trang [điểm đến](/blog/du-lich/diem-den/).
+Ngày lễ dài, khu vực này đón dòng khách đậm hơn cả cuối tuần thường, các bãi xe mở rộng thêm các lô đất trống quanh chợ. Khách đi ngày lễ nên xuất phát sớm, tính thừa một khoảng thời gian cho việc gửi xe, và nếu định dùng trải nghiệm nặn gốm thì nên hỏi trước khung trống, vì nhiều xưởng giới hạn lượt khách theo ca. Với khách đi nhóm đông xe, nên hẹn trước một điểm gặp ngoài khu đê rồi mới kéo vào theo hàng, tránh dàn xe chờ nhau ngay trước cổng chợ vốn hẹp. Danh sách điểm đến quanh Hà Nội có trong trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về chạy xe quanh Bát Tràng
 

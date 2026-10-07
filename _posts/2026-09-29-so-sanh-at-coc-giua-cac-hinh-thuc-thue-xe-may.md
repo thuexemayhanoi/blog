@@ -41,7 +41,7 @@ Kỳ thuê càng dài thì hình thức cọc càng đáng tính kỹ. Thuê the
 
 ## Mức cọc được xác nhận thế nào
 
-Vì mức cọc không công bố cố định theo kiểu bảng giá niêm yết, mọi con số bạn đọc được trên mạng đều có thể lệch với thực tế của từng cửa hàng tại thời điểm bạn thuê. Vì thế đừng dừng ở bài viết, hãy hỏi trực tiếp nơi bạn định thuê: mức cho dòng xe cụ thể, kỳ thuê cụ thể, và hình thức cọc họ chấp nhận. Trang tổng quan về [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/) nén lại các điểm cần lưu ý khi trao đổi với cửa hàng, còn nếu cần hỏi nhanh cho chuyến đi sắp tới, dùng trang [liên hệ](/blog/lien-he/) để gọi đúng số của cửa hàng.
+Vì mức cọc không công bố cố định theo kiểu bảng giá niêm yết, mọi con số bạn đọc được trên mạng đều có thể lệch với thực tế của từng cửa hàng tại thời điểm bạn thuê. Vì thế đừng dừng ở bài viết, hãy hỏi trực tiếp nơi bạn định thuê: mức cho dòng xe cụ thể, kỳ thuê cụ thể, và hình thức cọc họ chấp nhận. Trang tổng quan về [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/) nén lại các điểm cần lưu ý khi trao đổi với cửa hàng, còn nếu cần hỏi nhanh cho chuyến đi sắp tới, dùng trang [liên hệ](/lien-he/) để gọi đúng số của cửa hàng.
 
 ## Lưu ý khi nhận lại cọc hoặc giấy tờ
 
@@ -49,6 +49,6 @@ Lúc trả xe là lúc mọi điều khoản được kiểm nghiệm, nên xử
 
 Trong thực tế ở Hà Nội, chuyện nhận xe buổi sáng ở Long Biên rồi trả xe cuối ngày sau khi đi phố cổ chạy việc là chuỗi phổ biến, và mọi rủi ro giấy tờ thường nằm đúng ở đoạn vội vàng cuối ngày. Vì vậy hãy tự đặt cho mình một khoảng đệm: trả xe trước giờ cao điểm cuối chiều để còn bình tĩnh kiểm đếm, đối chiếu và nhận lại đầy đủ cọc lẫn giấy tờ.
 
-Một điểm liên quan dễ bỏ qua: trách nhiệm bảo dưỡng trong kỳ thuê. Xe thuê vẫn phải thay nhớt định kỳ, và bài về [thay nhớt định kỳ cho xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/) chỉ rõ bên nào chịu phần nào trong quan hệ thuê, giúp bạn không bị trừ cọc oan cho những hạng mục không phải lỗi của mình.
+Một điểm liên quan dễ bỏ qua: trách nhiệm bảo dưỡng trong kỳ thuê. Xe thuê vẫn phải thay nhớt định kỳ, và bài về [thay nhớt định kỳ cho xe máy](/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/) chỉ rõ bên nào chịu phần nào trong quan hệ thuê, giúp bạn không bị trừ cọc oan cho những hạng mục không phải lỗi của mình.
 
-Các so sánh khác quanh thủ tục và chi phí thuê được gom trong chuyên mục [so sánh khi thuê xe máy](/blog/xe-may/so-sanh-xe/). Chốt lại: chọn hình thức cọc nào là quyền của bạn, nhưng dù chọn cách nào, hãy để mọi thứ thành văn bản ngay lúc nhận xe.
+Các so sánh khác quanh thủ tục và chi phí thuê được gom trong chuyên mục [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/). Chốt lại: chọn hình thức cọc nào là quyền của bạn, nhưng dù chọn cách nào, hãy để mọi thứ thành văn bản ngay lúc nhận xe.

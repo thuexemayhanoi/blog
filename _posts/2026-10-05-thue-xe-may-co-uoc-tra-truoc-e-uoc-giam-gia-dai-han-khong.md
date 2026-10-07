@@ -40,4 +40,4 @@ Câu hỏi thường gặp kế tiếp: trả trước có ảnh hưởng phần
 
 ## Ghi nhớ ngắn
 
-Câu hỏi giá có được điều chỉnh khi thanh toán trước không có đáp số chung — nó nằm ở chính sách từng nơi và ở phần bạn hỏi ra được gì khi ký. Ba câu hỏi ở quầy, bốn dòng trong hợp đồng, và quy tắc thử một kỳ ngắn trước khi trả trọn: đó là gói trả lời bền cho bất kỳ ai cân nhắc thanh toán sớm. Các câu hỏi về giá thường gặp khác được gom trong trang [hỏi đáp về giá](/blog/hoi-dap/hoi-dap-gia/), phần thủ tục và giấy tờ thuê xe trong [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/), và tổng quan các câu hỏi về thuê xe tại trang [hỏi đáp](/blog/hoi-dap/).
+Câu hỏi giá có được điều chỉnh khi thanh toán trước không có đáp số chung — nó nằm ở chính sách từng nơi và ở phần bạn hỏi ra được gì khi ký. Ba câu hỏi ở quầy, bốn dòng trong hợp đồng, và quy tắc thử một kỳ ngắn trước khi trả trọn: đó là gói trả lời bền cho bất kỳ ai cân nhắc thanh toán sớm. Các câu hỏi về giá thường gặp khác được gom trong trang [hỏi đáp về giá](/hoi-dap/hoi-dap-gia/), phần thủ tục và giấy tờ thuê xe trong [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/), và tổng quan các câu hỏi về thuê xe tại trang [hỏi đáp](/hoi-dap/).

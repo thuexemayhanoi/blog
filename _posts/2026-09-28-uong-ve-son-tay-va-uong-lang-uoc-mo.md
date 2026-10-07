@@ -28,7 +28,7 @@ Cách trải nghiệm đoạn này đúng nhịp: đến khung sáng sớm hoặ
 
 ## Điểm dừng ven cung và cách xếp buổi
 
-Cung về Sơn Tây cho nhiều kiểu dừng: quán giải khát và quán phở dọc đường 32 ổn cho nghỉ chân ngắn, các bến gạo, làng quê ven lộ hợp dừng lâu hơn cho khách thích ngắm cảnh, và khu vực chân núi Ba Vì phía cuối cung là điểm dừng lớn, khách có thể ghép cả chuyến leo núi nếu xuất phát sớm, kế hoạch chi tiết cho phần núi nằm trong khuôn khổ bài về cung Ba Vì trong cùng chuyên mục [ngoại thành Hà Nội](/blog/du-lich/ngoai-thanh/). Danh sách các cụm điểm đến quanh thành phố nằm ở trang [điểm đến](/blog/du-lich/diem-den/), khách tham khảo trước để ghép thêm chặng dọc cung.
+Cung về Sơn Tây cho nhiều kiểu dừng: quán giải khát và quán phở dọc đường 32 ổn cho nghỉ chân ngắn, các bến gạo, làng quê ven lộ hợp dừng lâu hơn cho khách thích ngắm cảnh, và khu vực chân núi Ba Vì phía cuối cung là điểm dừng lớn, khách có thể ghép cả chuyến leo núi nếu xuất phát sớm, kế hoạch chi tiết cho phần núi nằm trong khuôn khổ bài về cung Ba Vì trong cùng chuyên mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/). Danh sách các cụm điểm đến quanh thành phố nằm ở trang [điểm đến](/du-lich/diem-den/), khách tham khảo trước để ghép thêm chặng dọc cung.
 
 Xếp buổi kiểu phổ biến: sáng 6 giờ xuất phát, 7 giờ 30 ăn sáng ở phố huyện dọc đường, 9 giờ tới khu vực Sơn Tây dạo quanh thị xã, 10 giờ 30 ra đoạn Đường Làng Ước Mơ chụp ảnh và uống nước ở quán ven, 12 giờ trưa về, về tới Hà Nội khoảng 14 giờ. Khách muốn ở lâu hơn nên canh chiều về sau 16 giờ 30, tránh khung dòng xe chiều về nội đô trên đường 32.
 
@@ -36,7 +36,7 @@ Xếp buổi kiểu phổ biến: sáng 6 giờ xuất phát, 7 giờ 30 ăn sá
 
 Cung này dài hơn các vòng nội thành, chuẩn bị xe vì vậy quan trọng hơn: nhớt, két nước, áp suất bánh, đèn còi kiểm trước khi lên đường; xăng đổ đầy trước quãng đồng vì cây xăng một số đoạn thưa; mang áo mưa vì mưa vùng đồng quê tới nhanh; và mang giấy tờ theo người. Gió mùa và nắng mùa hè trên quãng thoáng đều mạnh hơn trong phố, khách che cẩn thận phần cổ và tay.
 
-Khách mới chạy cung đường trường đọc trước các lưu ý nền trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn khách xếp cung Sơn Tây vào chuỗi nhiều ngày quanh thành phố đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Tổng quan chủ đề du lịch quanh thành phố nằm ở trang [du lịch Hà Nội](/blog/du-lich/). Khách đi nhóm đông nên chạy hàng dọc, chia nhau đầu đuôi với các xe bấm còi báo khi rẽ vào lối nhỏ, vì các khúc rẽ từ trục lớn vào đường làng dễ bị xe sau chạy nhanh không kịp thấy.
+Khách mới chạy cung đường trường đọc trước các lưu ý nền trong bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn khách xếp cung Sơn Tây vào chuỗi nhiều ngày quanh thành phố đối chiếu bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/). Tổng quan chủ đề du lịch quanh thành phố nằm ở trang [du lịch Hà Nội](/du-lich/). Khách đi nhóm đông nên chạy hàng dọc, chia nhau đầu đuôi với các xe bấm còi báo khi rẽ vào lối nhỏ, vì các khúc rẽ từ trục lớn vào đường làng dễ bị xe sau chạy nhanh không kịp thấy.
 
 ## Kết luận về cung đường Sơn Tây và Đường Làng Ước Mơ
 

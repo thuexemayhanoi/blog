@@ -39,7 +39,7 @@ Mức đặt cọc cũng nên được ghi rõ bằng chữ và bằng số. M�
 
 Trước khi ký bất kỳ điều khoản hợp đồng thuê nào, hãy dành vài phút đọc phần trách nhiệm: ai chịu chi phí sửa chữa nếu hỏng giữa kỳ, thủ tục báo sự cố, điều kiện đền bù khi mất xe, và cách tính thêm nếu trả trễ. Nếu điều khoản ghi mức đền bù bằng con số cụ thể mà bạn thấy quá cao so với giá trị xe, hãy hỏi lại trước khi ký thay vì để dành trách nhiệm cho bản thân về sau. Mọi khoản không rõ ràng, đề nghị ghi thêm vào biên bản bằng tay, cả hai bên ký xác nhận.
 
-Các quy trình nhận xe, kiểm tra xe và trả xe chuẩn đã được mô tả trong bài hướng dẫn [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/), còn các điều khoản chung về trách nhiệm hai bên bạn nên đối chiếu với trang [điều khoản sử dụng](/blog/dieu-khoan/) của bên cho thuê. Khi cần đối chiếu quy trình thuê xe tổng thể, xem thêm mục [thuê xe máy](/blog/thue-xe/).
+Các quy trình nhận xe, kiểm tra xe và trả xe chuẩn đã được mô tả trong bài hướng dẫn [thủ tục thuê xe máy](/thue-xe/thu-tuc/), còn các điều khoản chung về trách nhiệm hai bên bạn nên đối chiếu với trang [điều khoản sử dụng](/dieu-khoan/) của bên cho thuê. Khi cần đối chiếu quy trình thuê xe tổng thể, xem thêm mục [thuê xe máy](/thue-xe/).
 
 Một cách đọc nhanh mà hiệu quả là chia trang giấy thành hai cột trong đầu: cột bên cho thuê phải làm gì, và cột bên thuê phải làm gì. Bên cho thuê có nghĩa vụ giao xe đúng loại đã chọn, xe hoạt động bình thường, và hỗ trợ khi xe gặp sự cố không do bạn. Bên thuê có nghĩa vụ dùng đúng mục đích, không cho người không có giấy phép lái điều khiển, và trả xe đúng giờ hẹn. Nếu một cột trống trơn còn cột kia dài ngoằng, đó là dấu hiệu văn bản chưa cân bằng, và bạn hoàn toàn có quyền đề nghị bổ sung trước khi ký.
 

@@ -57,4 +57,4 @@ Sau khi hỏi xong, chụp lại tình trạng mũ cùng tình trạng xe lúc n
 
 Nếu bạn thuê nguyên tuần, mũ càng đáng hỏi kỹ, vì một chiếc mũ không đạt dùng bảy ngày liên tục là bảy ngày khó chịu mang theo. Đổi mũ ngay ngày đầu tiên luôn dễ hơn đổi vào giữa kỳ thuê, khi cửa hàng có thể đã cho mũ khác đi kèm xe khác.
 
-Để hỏi giá kèm theo mũ rõ ràng ngay từ đầu, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày lẫn theo tuần. Xem thêm [bảng giá](/blog/bang-gia/), [Hỏi đáp về giá](/blog/hoi-dap/hoi-dap-gia/), [Hỏi đáp thuê xe máy](/blog/hoi-dap/) và [thuê xe tuần](/blog/thue-xe/thue-tuan/).
+Để hỏi giá kèm theo mũ rõ ràng ngay từ đầu, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày lẫn theo tuần. Xem thêm [bảng giá](/bang-gia/), [Hỏi đáp về giá](/hoi-dap/hoi-dap-gia/), [Hỏi đáp thuê xe máy](/hoi-dap/) và [thuê xe tuần](/thue-xe/thue-tuan/).

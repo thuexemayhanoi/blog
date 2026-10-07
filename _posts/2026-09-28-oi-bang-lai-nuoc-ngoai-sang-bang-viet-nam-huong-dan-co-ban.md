@@ -48,7 +48,7 @@ Kinh nghiệm từ nhiều hồ sơ trễ: giấy phép gốc đã hết hạn h
 
 ## Đổi bằng lái cho người nước ngoài và việc thuê xe máy
 
-Nếu bạn ở Hà Nội ngắn hơn thời gian làm thủ tục đổi, hoặc đang chờ bằng Việt Nam được cấp, bạn vẫn có thể đi lại bằng xe đạp điện hoặc phương tiện không yêu cầu giấy phép theo quy định hiện hành. Khi đã có bằng Việt Nam, việc thuê xe máy trở nên đơn giản: xuất trình bằng còn hiệu lực cùng hộ chiếu khi nhận xe. Tổng hợp các thủ tục dành riêng cho khách quốc tế khi thuê xe nằm trong trang [khách quốc tế](/blog/thue-xe/khach-quoc-te/), còn kiến thức chung về giấy phép lái xe nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/). Danh mục các dòng xe cho thuê, gồm cả xe số và xe ga phổ thông, nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Nếu bạn ở Hà Nội ngắn hơn thời gian làm thủ tục đổi, hoặc đang chờ bằng Việt Nam được cấp, bạn vẫn có thể đi lại bằng xe đạp điện hoặc phương tiện không yêu cầu giấy phép theo quy định hiện hành. Khi đã có bằng Việt Nam, việc thuê xe máy trở nên đơn giản: xuất trình bằng còn hiệu lực cùng hộ chiếu khi nhận xe. Tổng hợp các thủ tục dành riêng cho khách quốc tế khi thuê xe nằm trong trang [khách quốc tế](/thue-xe/khach-quoc-te/), còn kiến thức chung về giấy phép lái xe nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/). Danh mục các dòng xe cho thuê, gồm cả xe số và xe ga phổ thông, nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -56,6 +56,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về đổi bằng lái nước ngoài sang việt nam
 
-Thủ tục đổi bằng lái cho người nước ngoài tại Việt Nam xoay quanh ba trụ cột: cư trú hợp pháp, bằng gốc còn hiệu lực và hồ sơ dịch thuật đúng quy cách. Nộp đúng từ lần đầu giúp bạn sớm có bằng Việt Nam và thoải mái thuê xe máy đi lại quanh Hà Nội. Các vấn đề pháp lý khác của người nước ngoài khi lưu thông trong nội đô được tổng hợp trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Thủ tục đổi bằng lái cho người nước ngoài tại Việt Nam xoay quanh ba trụ cột: cư trú hợp pháp, bằng gốc còn hiệu lực và hồ sơ dịch thuật đúng quy cách. Nộp đúng từ lần đầu giúp bạn sớm có bằng Việt Nam và thoải mái thuê xe máy đi lại quanh Hà Nội. Các vấn đề pháp lý khác của người nước ngoài khi lưu thông trong nội đô được tổng hợp trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về thủ tục đổi giấy phép lái xe do nước ngoài cấp có thể thay đổi theo từng văn bản; trước khi nộp hồ sơ, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

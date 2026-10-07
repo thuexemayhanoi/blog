@@ -43,7 +43,7 @@ Trạng thái hồ sơ cũng quan trọng: hồ sơ chưa giải quyết nghĩa 
 
 Với người thuê xe, nên tra cứu trước khi nhận xe lẫn sau khi trả xe. Tra trước khi nhận giúp bạn tránh nhận một chiếc xe đang kẹt hồ sơ vi phạm cũ của người thuê trước. Tra sau khi trả giúp bạn yên tâm rằng trong kỳ thuê của mình không phát sinh lỗi nào. Khi tra cứu cần đến biển số, hãy ghi lại biển số chính xác tại thời điểm nhận xe, vì một số cửa hàng dùng nhiều xe cùng đời, dễ nhầm lẫn.
 
-Trong thời gian thuê, việc đi đúng quy định vẫn là cách chắc chắn nhất để không phải tra cứu. Tổng hợp các quy định giao thông hiện hành nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), còn nhóm bài chuyên sâu về [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/) giải thích từng khía cạnh từ thông báo đến nộp phạt. Nếu cần tìm hiểu cơ chế phạt nguội hoạt động thế nào, bạn có thể đọc thêm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
+Trong thời gian thuê, việc đi đúng quy định vẫn là cách chắc chắn nhất để không phải tra cứu. Tổng hợp các quy định giao thông hiện hành nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), còn nhóm bài chuyên sâu về [phạt nguội](/an-toan-phap-ly/phat-nguoi/) giải thích từng khía cạnh từ thông báo đến nộp phạt. Nếu cần tìm hiểu cơ chế phạt nguội hoạt động thế nào, bạn có thể đọc thêm bài về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về cách tra cứu phạt nguội
 

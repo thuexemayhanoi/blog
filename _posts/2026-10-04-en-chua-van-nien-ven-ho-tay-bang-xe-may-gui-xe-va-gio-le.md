@@ -30,7 +30,7 @@ Về gửi xe, khu vực trước chùa có sân rộng, thường có người 
 
 Trước khi rời xe, kiểm tra lại khóa cổ và lấy theo đồ đắt giá. Chùa là nơi công cộng mở cửa tự do, đồ để trên xe dù chỉ vài phút cũng không nên. Cài đề và dựng xe trên chống giữa cho chắc chắn, vì sân chùa một số chỗ nghiêng nhẹ. Nếu bạn đi nhóm đông xe, hãy đỗ gom về một bên để người sau còn chỗ.
 
-Khi vào chùa, bạn nhớ giữ yên tĩnh, đi dép hoặc giày thấp cho hợp không gian thờ tự. Các khung giờ trời mát như sáng sớm hoặc cuối chiều là thời điểm dạo quanh sân chùa dễ chịu nhất. Sau khi tham quan, nhiều người hay kết hợp chạy vòng tiếp quanh hồ, xem thêm gợi ý về các điểm ven hồ trong bài [hồ Tây lân cận](/blog/du-lich/ho-tay/).
+Khi vào chùa, bạn nhớ giữ yên tĩnh, đi dép hoặc giày thấp cho hợp không gian thờ tự. Các khung giờ trời mát như sáng sớm hoặc cuối chiều là thời điểm dạo quanh sân chùa dễ chịu nhất. Sau khi tham quan, nhiều người hay kết hợp chạy vòng tiếp quanh hồ, xem thêm gợi ý về các điểm ven hồ trong bài [hồ Tây lân cận](/du-lich/ho-tay/).
 
 ## Giờ lễ chùa Vạn Niên nên lưu ý trước khi đi
 
@@ -44,8 +44,8 @@ Một lưu ý nhỏ là tránh gõ rung chuông hay tự ý vào khu vực nội
 
 Chùa Vạn Niên nằm ngay trên trục Xuân Diệu nên rất dễ nhét vào lộ trình chiều. Một phương án phổ biến: khởi hành từ trung tâm, chạy qua Quán Thánh, dừng ở chùa khoảng ba mươi phút để tham quan, sau đó chạy tiếp lên phía Thanh Niên ngắm mặt nước và ghé quán ven hồ. Tổng thời gian cả lộ trình khoảng nửa buổi, phù hợp cả người đi một mình lẫn nhóm bạn.
 
-Phương án khác là ghé chùa vào đầu buổi sáng khi phố còn vắng, xong ghé ăn sáng ở các quán quanh Quảng An, rồi vòng tiếp qua Trúc Bạch ngắm phố cũ. Bạn có thể tham khảo lộ trình đi qua hai hồ này trong bài viết [đến hồ Trúc Bạch bằng xe máy](/blog/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/), và các kinh nghiệm tổng quan khác trong mục [du lịch](/blog/du-lich/).
+Phương án khác là ghé chùa vào đầu buổi sáng khi phố còn vắng, xong ghé ăn sáng ở các quán quanh Quảng An, rồi vòng tiếp qua Trúc Bạch ngắm phố cũ. Bạn có thể tham khảo lộ trình đi qua hai hồ này trong bài viết [đến hồ Trúc Bạch bằng xe máy](/du-lich/2026/10/04/en-ho-truc-bach-bang-xe-may-uong-i-quanh-ho/), và các kinh nghiệm tổng quan khác trong mục [du lịch](/du-lich/).
 
-Với khách thuê xe máy, trước khi đi bạn nên kiểm tra xăng. Tuy quanh khu vực này có nhiều cây xăng, nhưng có sẵn bình đầy luôn chủ động hơn. Bốm bánh căng, báo hiệu rẽ hoạt động tốt, và đừng quên mang theo giấy tờ tùy thân theo yêu cầu của hợp đồng thuê xe. Các bài viết về chuẩn bị trước các chuyến đi trong mục [kinh nghiệm](/blog/kinh-nghiem/) sẽ giúp bạn kiểm tra nhanh hơn.
+Với khách thuê xe máy, trước khi đi bạn nên kiểm tra xăng. Tuy quanh khu vực này có nhiều cây xăng, nhưng có sẵn bình đầy luôn chủ động hơn. Bốm bánh căng, báo hiệu rẽ hoạt động tốt, và đừng quên mang theo giấy tờ tùy thân theo yêu cầu của hợp đồng thuê xe. Các bài viết về chuẩn bị trước các chuyến đi trong mục [kinh nghiệm](/kinh-nghiem/) sẽ giúp bạn kiểm tra nhanh hơn.
 
 Đến chùa Vạn Niên bằng xe máy là một chuyến đi ngắn, nhẹ nhàng và dễ sắp xếp. Chỉ cần chọn giờ đẹp, gửi xe đúng quy định và giữ phong cách trang nhã khi vào chùa, bạn sẽ có một điểm dừng thú vị giữa những quán xá ồn ào ven hồ Tây, đúng chất Hà Nội tĩnh lặng hiếm nơi nào còn giữ được.

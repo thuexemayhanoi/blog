@@ -57,6 +57,6 @@ Trước khi rời cửa hàng, chạy thử xe một vòng ngắn: thử ga, th
 
 Nếu ở lại Hà Nội từ năm ngày trở lên, hỏi giá tuần gần như luôn gọn hơn: ví dụ Honda Vision tính lẻ 200.000 đồng một ngày, trong khi gói tuần đang niêm yết từ 800.000 đến 1.000.000 đồng, tức thấp hơn hẳn so với việc nhân ngày lẻ ra bảy ngày.
 
-Xem thêm mục [thuê xe tuần](/blog/thue-xe/thue-tuan/) và [bảng giá](/blog/bang-gia/) để so sánh chi tiết theo dòng xe. Với lịch trình ngắn dưới ba ngày thì giữ nguyên cách tính theo ngày vẫn gọn hơn, vì bạn không bị ràng buộc thời gian nhận trả xe của gói dài hạn.
+Xem thêm mục [thuê xe tuần](/thue-xe/thue-tuan/) và [bảng giá](/bang-gia/) để so sánh chi tiết theo dòng xe. Với lịch trình ngắn dưới ba ngày thì giữ nguyên cách tính theo ngày vẫn gọn hơn, vì bạn không bị ràng buộc thời gian nhận trả xe của gói dài hạn.
 
-Để nhận xe đúng dòng và đúng giá bạn đã hỏi, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày lẫn theo tuần. Đọc thêm tại [Hỏi đáp thuê xe máy](/blog/hoi-dap/), [Hỏi đáp về giá](/blog/hoi-dap/hoi-dap-gia/) và [kinh nghiệm thuê xe máy Hà Nội](/blog/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/).
+Để nhận xe đúng dòng và đúng giá bạn đã hỏi, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga cho thuê theo ngày lẫn theo tuần. Đọc thêm tại [Hỏi đáp thuê xe máy](/hoi-dap/), [Hỏi đáp về giá](/hoi-dap/hoi-dap-gia/) và [kinh nghiệm thuê xe máy Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/).

@@ -44,6 +44,6 @@ Mang theo gì cho buổi nửa ngày: chai nước, tấm bạt mỏng, lớp á
 
 Tóm lại, một nửa ngày trọn vẹn quanh Thống Nhất: sớm tới, gửi xe cổng chính, vòng bộ trọn nội khu, ăn nhẹ ven cổng, ghép thêm một điểm theo hướng về, và nhận xe trước khung phố đông. Nhóm đông thì chốt từng điểm hẹn cụ thể, mỗi chặng một bãi xe duy nhất. Người mới thuê xe máy lần đầu có thể xem buổi này là bài tập đẹp: lộ trình ngắn, điểm gửi rõ, đường về thẳng.
 
-Các điểm dạo khác quanh thành phố gom tại chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/); cách giữ xe và các lưu ý bãi gửi chi tiết hơn nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi lịch trình. Ai muốn nắm nhanh quy tắc giao thông nội đô trước buổi đi thì mục [kinh nghiệm](/blog/kinh-nghiem/) là điểm dừng đọc ngắn gọn mà đầy đủ.
+Các điểm dạo khác quanh thành phố gom tại chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/); cách giữ xe và các lưu ý bãi gửi chi tiết hơn nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/du-lich/) là mục lục chung cho mọi lịch trình. Ai muốn nắm nhanh quy tắc giao thông nội đô trước buổi đi thì mục [kinh nghiệm](/kinh-nghiem/) là điểm dừng đọc ngắn gọn mà đầy đủ.
 
 Nửa ngày, một vòng cỏ xanh, một quãng xe về khi phố lên đèn: dạo Thống Nhất bằng xe máy gọn vậy thôi, nhưng đủ để cả tuần làm việc vẫn còn nhớ tới buổi nghỉ ấy.

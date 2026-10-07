@@ -17,7 +17,7 @@ Chọn xe máy chở hai người cho chuyến cuối tuần khác hẳn chọn 
 
 ## Chọn xe máy chở hai người: xem máy và tải trước
 
-Thêm một người sau yên là thêm cả trọng lượng đè lên máy, lên lốp và lên phanh. Vì vậy chọn xe máy chở hai người nên bắt đầu từ máy khỏe: các dòng xe phổ thông có dung tích máy vừa trở lên giữ đà đều trên đường trường, còn máy quá gầy sẽ rên ở các đoạn lên dốc nhẹ và giữ tốc kém khi có gió ngang. Cân nhắc chọn loại xe theo tải đã nói trong bài [chọn loại xe hợp hành trình](/blog/xe-may/chon-loai-xe/), cặp đôi đọc trước khi gọi đặt.
+Thêm một người sau yên là thêm cả trọng lượng đè lên máy, lên lốp và lên phanh. Vì vậy chọn xe máy chở hai người nên bắt đầu từ máy khỏe: các dòng xe phổ thông có dung tích máy vừa trở lên giữ đà đều trên đường trường, còn máy quá gầy sẽ rên ở các đoạn lên dốc nhẹ và giữ tốc kém khi có gió ngang. Cân nhắc chọn loại xe theo tải đã nói trong bài [chọn loại xe hợp hành trình](/xe-may/chon-loai-xe/), cặp đôi đọc trước khi gọi đặt.
 
 Về loại xe, xe ga và xe số mỗi loại có lợi riêng khi chở hai người. Xe số thường có khung thấp và đèn máy nhẹ, hợp cặp đôi quen vào số; xe ga lại dễ thao tác trong phố, cốp rộng và sàn để chân thoáng cho người sau chống nhẹ khi xe dừng chờ đèn đỏ. Cặp đôi nên nói rõ chủ xe mình quen loại nào, vì đi chặng dài với loại xe lạ chỉ làm thêm vất vả.
 
@@ -33,7 +33,7 @@ Một chi tiết nhỏ đáng kể: chắn gió hoặc tấm che ống ga giúp 
 
 ## Chứa đồ cho hai người: cốp, ba lô và buộc sau
 
-Đi cuối tuần hai người thường đi kèm đồ: hai mũ, áo mưa, nước và đồ thay. Xe có cốp rộng nhét được hai mũ là tiện nhất, còn xe cốp nhỏ thì khách buộc thêm phía sau bằng dây chạc hoặc balan phía sau. Cách xếp và buộc đồ an toàn đã nói chi tiết trong bài [chở đồ và hành lý trên xe máy](/blog/ky-nang/cho-do-va-hanh-ly/), và với hai người, nguyên tắc vàng là đồ phải buộc trước khi người sau lên ngồi, để kiểm tra được độ chặt mà khỏi phải nhờ người sau nhìn giúp.
+Đi cuối tuần hai người thường đi kèm đồ: hai mũ, áo mưa, nước và đồ thay. Xe có cốp rộng nhét được hai mũ là tiện nhất, còn xe cốp nhỏ thì khách buộc thêm phía sau bằng dây chạc hoặc balan phía sau. Cách xếp và buộc đồ an toàn đã nói chi tiết trong bài [chở đồ và hành lý trên xe máy](/ky-nang/cho-do-va-hanh-ly/), và với hai người, nguyên tắc vàng là đồ phải buộc trước khi người sau lên ngồi, để kiểm tra được độ chặt mà khỏi phải nhờ người sau nhìn giúp.
 
 Một lỗi hay gặp của cặp đôi là để người sau ôm balan trước bụng. Balan trước bụng làm người sau không áp sát được người lái, đồng thời trọng tâm dịch lên cao, khiến xe lắc ở các lần vào cua hoặc phanh. Cách đúng vẫn là buộc đồ phía sau hoặc để trong cốp, người sau chỉ ôm người lái.
 
@@ -45,4 +45,4 @@ Một khoản nữa của chở hai người là gió và nắng cho người sa
 
 Về nhịp nghỉ, hai người mệt khác lúc: người lái mệt tay và mắt, người sau mệt lưng. Cặp đôi nên nghỉ theo chu kỳ ngắn, chừng một tiếng rưỡi một lần, thay vì một lần nghỉ dài cuối chặng. Mỗi lần dừng, người sau xuống trước, kiểm tra lại dây buộc đồ, và đổi vai lái nếu cả hai có giấy phép và đều quen xe.
 
-Khách cần thuê xe máy chở hai người đi cuối tuần liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Cặp đôi gọi hỏi trước xe yên dài, máy khỏe sẵn có để nhận đúng xe hợp chuyến. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Chở hai người đi xa không khó, chỉ cần chọn xe đúng tải và ngồi đúng nhịp, rồi chuyến cuối tuần chỉ còn là chuyện cảnh và chuyện hai người.
+Khách cần thuê xe máy chở hai người đi cuối tuần liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Cặp đôi gọi hỏi trước xe yên dài, máy khỏe sẵn có để nhận đúng xe hợp chuyến. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Chở hai người đi xa không khó, chỉ cần chọn xe đúng tải và ngồi đúng nhịp, rồi chuyến cuối tuần chỉ còn là chuyện cảnh và chuyện hai người.

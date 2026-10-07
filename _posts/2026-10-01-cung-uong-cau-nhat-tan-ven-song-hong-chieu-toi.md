@@ -35,7 +35,7 @@ Một chi tiết nhỏ mà ai đi cầu Nhật Tân cũng dễ bỏ qua: chiều
 
 Ở bờ nam, gần chân cầu phía Âu Cơ, có các điểm giữ xe ven đường. Ở bờ bắc, dọc đường đê cũng có người trông xe tại mấy đầu ngõ dẫn lên đê. Thói quen của tôi là luôn gửi xe tại điểm có người trông thực sự, thay vì dựa vào khoá buồm, vì buổi tối ven đê khu vực này vắng người qua lại, và đồ để trong cốp xe là thứ đáng được trông nom kỹ hơn cả chiếc xe.
 
-Trước khi rời xe, quẹt mắt quanh khu gửi: chỗ đó có đèn không, lối ra vào có bị xe khác chèn kẹt không, và có chằng chịt dây điện thả thấp ngay trên đầu chỗ đỗ hay không. Ba câu hỏi nhanh đó giúp tránh gần hết rắc rối sau này. Nếu mang theo balo, khoá hai dây, hoặc tốt nhất là mang theo người, vì tôi đã từng có một chuyến chiều tối phải dở khóc dở cười vì để balo lại chỗ gửi xe. Kỹ năng giữ xe hai bánh trong đô thị được tách riêng thành bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), bạn có thể đọc trước khi đi để đỡ mất đồ.
+Trước khi rời xe, quẹt mắt quanh khu gửi: chỗ đó có đèn không, lối ra vào có bị xe khác chèn kẹt không, và có chằng chịt dây điện thả thấp ngay trên đầu chỗ đỗ hay không. Ba câu hỏi nhanh đó giúp tránh gần hết rắc rối sau này. Nếu mang theo balo, khoá hai dây, hoặc tốt nhất là mang theo người, vì tôi đã từng có một chuyến chiều tối phải dở khóc dở cười vì để balo lại chỗ gửi xe. Kỹ năng giữ xe hai bánh trong đô thị được tách riêng thành bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), bạn có thể đọc trước khi đi để đỡ mất đồ.
 
 ## Điểm dừng ngắm hoàng hôn và ánh sáng cầu
 
@@ -43,12 +43,12 @@ Yêu thích nhất vẫn là khúc uốn trên đường đê, nơi bãi cát ve
 
 Gần đó, vài quán nhỏ ven đê mở về đêm, chủ yếu bán đồ ăn vặt và nước. Cặp đôi thường mua chút gì đó rồi ngồi trên bậc đê. Chọn quán có người đông nhẹ, đèn sáng, và xe gửi ngay trước mặt quán, là an toàn hơn hẳn so với chỗ vắng. Tránh ngồi sát mép nước khi trời đã tối om, vì bãi ven sông không có đèn chiếu xuống.
 
-Nếu muốn biến buổi tối thành trọn một cung đường, bạn có thể nối tiếp với các [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) khác trong nhóm chủ đề, hoặc kéo dài thêm về phía những [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) khi đã rành quanh khu này.
+Nếu muốn biến buổi tối thành trọn một cung đường, bạn có thể nối tiếp với các [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) khác trong nhóm chủ đề, hoặc kéo dài thêm về phía những [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) khi đã rành quanh khu này.
 
 ## Lưu ý an toàn khi chạy xe buổi tối
 
 Chạy ban ngày khác, chạy buổi tối khác, và chạy ven sông buổi tối lại càng khác. Sương ẩm từ sông khiến mặt đường đê lúc chạng vạng tối trơn hơn bình thường, nhất là đoạn đất nối giữa đường nhựa và đê. Đèn cốt phải bật từ lúc rời đường lớn, không đợi đến lúc trời nhá nhem, vì đoạn ven đê không đèn đường liên tục.
 
-Mũ bảo hiểm đội đúng, dây giây cài đúng, không phải vì quy định, mà vì đường đê có ổ gà. Khoảng cách giữa hai xe nếu đi cùng nhau để một khoảng rộng hơn ban ngày. Nếu bạn đi bằng xe thuê, nhận xe buổi chiều hãy kiểm đèn trước, coi kỹ lốp sau, vì hai thứ đó là thứ hay hỏng nhất và khó nhận ra nhất khi trời còn sáng. Phần việc cần làm trước khi nhận xe máy tại cửa hàng được tóm gọn trong trang [cho thuê xe máy](/blog/thue-xe/), tiện đọc trong lúc chờ xe giao.
+Mũ bảo hiểm đội đúng, dây giây cài đúng, không phải vì quy định, mà vì đường đê có ổ gà. Khoảng cách giữa hai xe nếu đi cùng nhau để một khoảng rộng hơn ban ngày. Nếu bạn đi bằng xe thuê, nhận xe buổi chiều hãy kiểm đèn trước, coi kỹ lốp sau, vì hai thứ đó là thứ hay hỏng nhất và khó nhận ra nhất khi trời còn sáng. Phần việc cần làm trước khi nhận xe máy tại cửa hàng được tóm gọn trong trang [cho thuê xe máy](/thue-xe/), tiện đọc trong lúc chờ xe giao.
 
 Cuối cùng, về đường: nếu thấy mình mệt, đừng cố vòng thêm. Cung cầu Nhật Tân ven sông Hồng chiều tối đẹp ở sự vừa đủ, và ngày nào nó cũng vẫn đó, sẵn sàng cho một buổi khác khi hai người muốn quay lại.

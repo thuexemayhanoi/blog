@@ -17,7 +17,7 @@ Cầu Nhật Tân là một trong những cây cầu lớn bắc qua sông Hồn
 
 ## Cầu Nhật Tân đường đi và vị trí kết nối
 
-Về cầu Nhật Tân đường đi nằm tiếp nối trục Võ Chí Công ở phía nam, thuộc địa phận quận Tây Hồ, và hạ xuống khu vực huyện Đông Anh ở bờ bắc sông Hồng. Đây là cây cầu dây văng với tháp cao nhìn thấy từ xa, mặt đường rộng rãi, xe máy chạy theo làn quy định tách khỏi dòng xe ô tô. Từ đầu cầu phía nam, bạn có thể nối sang khu [Hồ Tây](/blog/du-lich/ho-tay/), dải đường ven sông Võ Nguyên Giáp, hoặc rẽ về các khu dân cư phía bờ tây. Đầu cầu phía bắc nối vào các trục đường đi Đông Anh và hướng rẽ lên cửa ngõ sân bay Nội Bài, là lối đi quen thuộc của nhiều người mỗi dịp ra sân bay bằng xe riêng.
+Về cầu Nhật Tân đường đi nằm tiếp nối trục Võ Chí Công ở phía nam, thuộc địa phận quận Tây Hồ, và hạ xuống khu vực huyện Đông Anh ở bờ bắc sông Hồng. Đây là cây cầu dây văng với tháp cao nhìn thấy từ xa, mặt đường rộng rãi, xe máy chạy theo làn quy định tách khỏi dòng xe ô tô. Từ đầu cầu phía nam, bạn có thể nối sang khu [Hồ Tây](/du-lich/ho-tay/), dải đường ven sông Võ Nguyên Giáp, hoặc rẽ về các khu dân cư phía bờ tây. Đầu cầu phía bắc nối vào các trục đường đi Đông Anh và hướng rẽ lên cửa ngõ sân bay Nội Bài, là lối đi quen thuộc của nhiều người mỗi dịp ra sân bay bằng xe riêng.
 
 ## Lộ trình từ trung tâm Hà Nội lên cầu
 
@@ -33,9 +33,9 @@ Thứ tư, lúc chạng vạng tối, ánh sáng trên sông tối nhanh hơn tr
 
 ## Qua cầu rồi đi tiếp về đâu
 
-Sang tới bờ bắc, bạn có thể đi tiếp hướng đường lên sân bay Nội Bài, hoặc rẽ vào các khu vực làng quê phía Đông Anh để đổi không khí cho một buổi chiều. Nhiều người cuối tuần chọn chạy qua cầu rồi dạo theo đường đê, ngắm ruộng đồng, mua ít trái cây dọc đường rồi quay về trong buổi, một vòng đi vừa sức cho người sống ở nội đô. Bạn cũng có thể tham khảo thêm các [điểm đến du lịch](/blog/du-lich/diem-den/) phía bờ bắc hoặc xem gợi ý lịch trình trong chuyên mục [du lịch](/blog/du-lich/).
+Sang tới bờ bắc, bạn có thể đi tiếp hướng đường lên sân bay Nội Bài, hoặc rẽ vào các khu vực làng quê phía Đông Anh để đổi không khí cho một buổi chiều. Nhiều người cuối tuần chọn chạy qua cầu rồi dạo theo đường đê, ngắm ruộng đồng, mua ít trái cây dọc đường rồi quay về trong buổi, một vòng đi vừa sức cho người sống ở nội đô. Bạn cũng có thể tham khảo thêm các [điểm đến du lịch](/du-lich/diem-den/) phía bờ bắc hoặc xem gợi ý lịch trình trong chuyên mục [du lịch](/du-lich/).
 
-Nếu định đi dài hơn một ngày, hãy xem nhanh các bài chuẩn bị chuyến đi trong mục [kinh nghiệm](/blog/kinh-nghiem/) để tránh trục trặc giữa đường. Trước chuyến đi xa, kiểm tra áp lốp, đèn và phanh cũng là việc nên làm ở nhà thay vì để lúc giữa đường. Ai cần phương tiện cho chuyến đi có thể xem dịch vụ [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) gần khu để chủ động giờ giấc.
+Nếu định đi dài hơn một ngày, hãy xem nhanh các bài chuẩn bị chuyến đi trong mục [kinh nghiệm](/kinh-nghiem/) để tránh trục trặc giữa đường. Trước chuyến đi xa, kiểm tra áp lốp, đèn và phanh cũng là việc nên làm ở nhà thay vì để lúc giữa đường. Ai cần phương tiện cho chuyến đi có thể xem dịch vụ [thuê xe máy theo ngày](/thue-xe/thue-ngay/) gần khu để chủ động giờ giấc.
 
 ## Dừng nghỉ và gửi xe hai đầu cầu
 

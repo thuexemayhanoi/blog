@@ -19,7 +19,7 @@ Bảo hiểm xe thuê tai nạn chi trả phần nào là câu hỏi xuất hi�
 
 Mọi xe máy tham gia giao thông tại Việt Nam phải có bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe theo Nghị định 67/2023/NĐ-CP, hiệu lực từ ngày 06/09/2023. Lớp bảo hiểm này chi trả cho thiệt hại mà xe gây ra cho bên thứ ba: người đi đường bị thương, tài sản của người khác bị hư hại trong vụ tai nạn do xe gây ra. Nghị định quy định giới hạn trách nhiệm đối với thiệt hại về sức khỏe, tính mạng của mỗi người bị thiệt hại trong một vụ tai nạn là 150 triệu đồng, kèm giới hạn trách nhiệm đối với thiệt hại về tài sản theo quy định tại nghị định.
 
-Điểm mấu chốt với xe thuê: hợp đồng bảo hiểm đứng tên chủ xe, tức cửa hàng cho thuê, nhưng khi xe gây tai nạn, người trực tiếp điều khiển là người thuê. Bảo hiểm chi trả phần trách nhiệm dân sự của chủ xe theo quy định; phần thiệt hại vượt quá giới hạn trách nhiệm bảo hiểm thì người gây thiệt hại phải bồi thường theo quy định của pháp luật dân sự. Chi tiết cơ chế này nằm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/).
+Điểm mấu chốt với xe thuê: hợp đồng bảo hiểm đứng tên chủ xe, tức cửa hàng cho thuê, nhưng khi xe gây tai nạn, người trực tiếp điều khiển là người thuê. Bảo hiểm chi trả phần trách nhiệm dân sự của chủ xe theo quy định; phần thiệt hại vượt quá giới hạn trách nhiệm bảo hiểm thì người gây thiệt hại phải bồi thường theo quy định của pháp luật dân sự. Chi tiết cơ chế này nằm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/an-toan-phap-ly/bao-hiem/).
 
 ## Lớp hai: hư hỏng của chính chiếc xe thuê
 
@@ -39,13 +39,13 @@ Trình tự xử lý đúng trong những phút đầu quyết định việc ch
 - Không tự thỏa thuận tiền với bên bị hại khi có người bị thương, vì vụ việc lúc đó phải xử lý theo trình tự pháp luật.
 - Lưu toàn bộ giấy tờ: biên bản cảnh sát, quyết định xử lý nếu có, hóa đơn sửa chữa, vì đây là căn cứ cho mọi yêu cầu chi trả sau này.
 
-Trường hợp va chạm nhẹ hai bên tự thỏa thuận, người thuê vẫn nên báo cửa hàng, vì hư hỏng của xe thuộc hợp đồng thuê, không chỉ là chuyện của người cầm lái. Các tình huống sự cố khác khi đi xe thuê được tổng hợp trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Trường hợp va chạm nhẹ hai bên tự thỏa thuận, người thuê vẫn nên báo cửa hàng, vì hư hỏng của xe thuộc hợp đồng thuê, không chỉ là chuyện của người cầm lái. Các tình huống sự cố khác khi đi xe thuê được tổng hợp trong trang [sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Phần người thuê luôn tự gánh
 
 Ba phần không có bảo hiểm nào chi trả thay bạn: tiền phạt vi phạm giao thông do lỗi của người lái, phần thiệt hại vượt giới hạn trách nhiệm bảo hiểm khi bạn là người gây thiệt hại, và chi phí theo thỏa thuận hư hỏng với cửa hàng trong hợp đồng thuê. Hiểu trước ba phần này giúp bạn điều chỉnh cách đi xe: giữ khoảng cách, không vượt đèn, và không điều khiển xe khi đã dùng đồ có cồn, bởi mọi thiệt hại phát sinh từ vi phạm cố ý có thể bị từ chối chi trả theo điều khoản hợp đồng bảo hiểm.
 
-Kiến thức nền về nhóm chủ đề này nằm trong trang [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/).
+Kiến thức nền về nhóm chủ đề này nằm trong trang [bảo hiểm xe máy](/an-toan-phap-ly/bao-hiem/).
 
 ## Kết luận về bảo hiểm xe thuê tai nạn
 

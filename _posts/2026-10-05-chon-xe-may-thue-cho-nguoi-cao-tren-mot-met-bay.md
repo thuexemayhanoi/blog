@@ -16,7 +16,7 @@ writer: W1
 
 Người cao trên một mét bảy thường gặp hai vấn đề khi đi xe máy nhỏ: tư thế ngồi gập gọn khó chịu, và các thao tác phanh ga bị gò vì vị trí đặt chân. Vì vậy chọn xe máy thuê cho người cao không chỉ là chuyện mẫu xe đẹp hay không, mà là chuyện tư thế lái có thoải mái trong suốt chuyến đi hay không. Bài này chỉ ra các điểm cần soi kỹ lúc thử xe, giúp bạn chọn được chiếc xe máy hợp người cao ngay từ lần thuê đầu.
 
-Tổng quan về các loại xe khi thuê nằm ở trang [xe máy](/blog/xe-may/), cách chọn loại xe theo nhu cầu ở [chọn loại xe](/blog/xe-may/chon-loai-xe/), nhóm xe ga tại [xe ga](/blog/xe-may/xe-ga/), xe số tại [xe số](/blog/xe-may/xe-so/), và cách so từng mẫu ở [so sánh xe](/blog/xe-may/so-sanh-xe/).
+Tổng quan về các loại xe khi thuê nằm ở trang [xe máy](/xe-may/), cách chọn loại xe theo nhu cầu ở [chọn loại xe](/xe-may/chon-loai-xe/), nhóm xe ga tại [xe ga](/xe-may/xe-ga/), xe số tại [xe số](/xe-may/xe-so/), và cách so từng mẫu ở [so sánh xe](/xe-may/so-sanh-xe/).
 
 ## Ba điểm cần soi kỹ cho người cao khi thử xe
 

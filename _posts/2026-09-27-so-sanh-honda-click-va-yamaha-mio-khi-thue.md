@@ -19,7 +19,7 @@ Hai cái tên luôn đi cạnh nhau khi người cần thuê xe ga nhỏ ở Hà
 
 Về tổng thể, cả hai đều là xe ga nhỏ gọn, yên thấp, dành cho đường đô thị. Điểm khác biệt trước tiên nằm ở dáng xe. Click mang nét gọn ghẽ, các đường gân thẳng, thân xe nhỏ theo hướng tiết kiệm không gian. Mio lại tròn trịa, mềm ở các đường cong, tủ trước và các chi tiết tạo cảm giác đầy đặn hơn. Cảm giác này ảnh hưởng thực tế: người thích xe nhẹ về thị giác và dễ luồn khe sẽ nghiêng về Click, người thích dáng xe đầm chắc, bề thế khi đỗ cạnh xe khác sẽ thích Mio hơn.
 
-Về cốp xe, cả hai đều chứa vừa mũ bảo hiểm cùng vài món cá nhân, đủ cho người đi làm hoặc đi chơi trong ngày. Nếu nhu cầu chở đồ nhiều hơn, không dòng xe ga nhỏ nào trong cặp đôi này thay được xe số có giàn để đồ phía sau. Ai lưỡng lự giữa loại xe, nên đọc thêm trong [chuyên mục xe máy](/blog/xe-may/) để hiểu rõ khác biệt giữa xe số và xe ga trước khi chốt lựa chọn.
+Về cốp xe, cả hai đều chứa vừa mũ bảo hiểm cùng vài món cá nhân, đủ cho người đi làm hoặc đi chơi trong ngày. Nếu nhu cầu chở đồ nhiều hơn, không dòng xe ga nhỏ nào trong cặp đôi này thay được xe số có giàn để đồ phía sau. Ai lưỡng lự giữa loại xe, nên đọc thêm trong [chuyên mục xe máy](/xe-may/) để hiểu rõ khác biệt giữa xe số và xe ga trước khi chốt lựa chọn.
 
 ## Cảm giác lái trong phố Hà Nội
 
@@ -31,15 +31,15 @@ Về độ hao xăng, hai xe ga nhỏ tiêu thụ tương đương nhau và đ�
 
 ## Chi phí thuê: giá hai xe như thế nào
 
-Điểm thú vị là về mặt giá thuê, hai xe nằm chung một nhóm: giá thuê theo ngày phổ biến ở mức 150.000 đồng, thuê tuần khoảng từ 600.000 đến 700.000 đồng, thuê tháng khoảng 1.000.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Nghĩa là câu hỏi click hay mio khi thuê không bị chi phí chi phối, mà phụ thuộc cảm giác lái và độ sẵn xe tại thời điểm bạn cần. Chi tiết giá của nhóm xe ga nằm ở [bảng giá xe ga](/blog/bang-gia-xe-ga/).
+Điểm thú vị là về mặt giá thuê, hai xe nằm chung một nhóm: giá thuê theo ngày phổ biến ở mức 150.000 đồng, thuê tuần khoảng từ 600.000 đến 700.000 đồng, thuê tháng khoảng 1.000.000 đến 1.200.000 đồng, tùy thời điểm và điều kiện hợp đồng. Nghĩa là câu hỏi click hay mio khi thuê không bị chi phí chi phối, mà phụ thuộc cảm giác lái và độ sẵn xe tại thời điểm bạn cần. Chi tiết giá của nhóm xe ga nằm ở [bảng giá xe ga](/bang-gia-xe-ga/).
 
-Đặt cọc, giấy tờ và quy định xăng khi trả cần hỏi trực tiếp cửa hàng. Nếu bạn cần xe gấp, tốt nhất nên hỏi trước xem cửa hàng còn chiếc nào trong hai dòng, rồi chọn theo cảm giác lái thật của mình sau khi chạy thử. Tổng quan về một trong hai dòng nằm tại [chủ đề Honda Click](/blog/xe-may/honda-click/), nơi có nhiều bài về cách dùng xe ga nhỏ trong phố và các so sánh cùng nhóm.
+Đặt cọc, giấy tờ và quy định xăng khi trả cần hỏi trực tiếp cửa hàng. Nếu bạn cần xe gấp, tốt nhất nên hỏi trước xem cửa hàng còn chiếc nào trong hai dòng, rồi chọn theo cảm giác lái thật của mình sau khi chạy thử. Tổng quan về một trong hai dòng nằm tại [chủ đề Honda Click](/xe-may/honda-click/), nơi có nhiều bài về cách dùng xe ga nhỏ trong phố và các so sánh cùng nhóm.
 
 ## Nên chọn xe nào cho nhu cầu của bạn
 
 Nếu bạn đi làm nội đô, quãng đường ngắn, dừng đỏ nhiều và thường xuyên rẽ ngõ: cả hai xe đều đạt, hãy chọn chiếc nào bạn thấy tay lái tự nhiên hơn khi chạy thử. Nếu bạn đi lâu hơn mỗi ngày, ví dụ băng qua các quận xa trung tâm, cảm giác đầm của Mio giảm mỏi trên quãng dài, còn ga nhạy của Click hợp nhịp chen dòng xe dày. Nếu bạn là người mới đi xe ga, ưu tiên chiếc có ga êm và phanh ăn đều, đừng quá bận tâm nhãn hàng.
 
-Với người thuê theo tháng, độ phổ dụng phụ tùng và mức độ sẵn của từng dòng ở cửa hàng cũng nên tính tới, vì xe gặp vấn đề giữa kỳ cần xử lý nhanh, không ai muốn đứng chờ phụ tùng giữa tuần làm việc. Ghi chú tình trạng xe khi nhận, giữ số điện thoại cửa hàng và báo sớm khi có tiếng lạ từ máy là ba thói quen giúp kỳ thuê dài hạn êm ru. Các bài chia sẻ thực tế từ người thuê xe nằm trong [chuyên mục kinh nghiệm](/blog/kinh-nghiem/).
+Với người thuê theo tháng, độ phổ dụng phụ tùng và mức độ sẵn của từng dòng ở cửa hàng cũng nên tính tới, vì xe gặp vấn đề giữa kỳ cần xử lý nhanh, không ai muốn đứng chờ phụ tùng giữa tuần làm việc. Ghi chú tình trạng xe khi nhận, giữ số điện thoại cửa hàng và báo sớm khi có tiếng lạ từ máy là ba thói quen giúp kỳ thuê dài hạn êm ru. Các bài chia sẻ thực tế từ người thuê xe nằm trong [chuyên mục kinh nghiệm](/kinh-nghiem/).
 
 ## Kết luận
 

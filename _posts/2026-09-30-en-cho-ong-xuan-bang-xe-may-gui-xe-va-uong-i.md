@@ -25,7 +25,7 @@ Chợ nằm ở phía bắc phố cổ, ở cuối dãy phố Hàng Ngang, Hàng
 
 Xung quanh chợ có nhiều bãi gửi xe tư nhân và bãi lân cận trên các phố cạnh chợ, vị trí mở và mức giá thay đổi theo khung giờ trong ngày. Nguyên tắc thực tế: hỏi giá gửi trước khi đưa xe, và nếu bãi đầu đã kín, các bãi trên phố lân cận thường còn chỗ, chỉ xa thêm vài phút đi bộ.
 
-Một thói quen nhỏ giúp bạn đỡ mất thời giờ tìm xe khi ra về: chụp ảnh vị trí xe và biển số chỗ gửi ngay lúc gửi. Vào những ngày đông, các bãi gần chợ kín đặc, bạn có thể phải gửi ở bãi xa hơn và các bãi này nhìn na ná nhau. Chi tiết hơn về thói quen giữ xe an toàn nằm trong bài về [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Một thói quen nhỏ giúp bạn đỡ mất thời giờ tìm xe khi ra về: chụp ảnh vị trí xe và biển số chỗ gửi ngay lúc gửi. Vào những ngày đông, các bãi gần chợ kín đặc, bạn có thể phải gửi ở bãi xa hơn và các bãi này nhìn na ná nhau. Chi tiết hơn về thói quen giữ xe an toàn nằm trong bài về [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 ## Khung giờ nên đi và nên tránh
 
@@ -43,12 +43,12 @@ Cuối năm là lúc các phố trang trí quanh chợ đổi màu rõ nhất, v
 
 Khuôn viên chợ và các phố quanh đều chật người, và phần trải nghiệm thật nằm ở việc đi bộ: dạo dãy gian hàng, len vào các tuyến phố bán sỉ, rồi vòng ra các phố chuyên bán đồ trang trí. Cố đưa xe máy sát vào khu chợ vừa khó vừa mất thời gian, nên cách dùng xe đúng là coi xe chỉ là phương tiện tới cửa chợ.
 
-Nếu bạn thuê xe máy cho cả ngày để đi nhiều điểm quanh phố cổ, thì gửi xe một lần ở bãi gần chợ, đi bộ hết khu phố, rồi quay lại lấy xe đi tiếp là nhịp hợp lý nhất. Các lựa chọn thuê theo ngày nằm trong bài về [thuê xe theo ngày](/blog/thue-xe/thue-ngay/).
+Nếu bạn thuê xe máy cho cả ngày để đi nhiều điểm quanh phố cổ, thì gửi xe một lần ở bãi gần chợ, đi bộ hết khu phố, rồi quay lại lấy xe đi tiếp là nhịp hợp lý nhất. Các lựa chọn thuê theo ngày nằm trong bài về [thuê xe theo ngày](/thue-xe/thue-ngay/).
 
 ## Với du khách nội địa đi từ xa
 
 Nếu bạn đi từ các quận xa hoặc từ tỉnh lân cận, hãy tính toán khung giờ đi để tránh giờ cao điểm trên các trục lớn, và dành thời gian dừng nghỉ trước khi vào phố cổ vì đoạn cuối sẽ đi chậm. Khi gửi xe cả nửa ngày, nhớ hỏi lại giờ bãi đóng để không phải chạy nước rút vào phút chót.
 
-Một điều nữa cho người định mua hàng về: khối lượng mua thêm vào là thứ quyết định phần chở trên xe máy, nên nếu mua nhiều, hãy tính sẵn cách chia gói cho gọn và buộc chắc, hoặc tách chuyến. Chi tiết xếp đồ và chở hàng nằm trong bài về [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Một điều nữa cho người định mua hàng về: khối lượng mua thêm vào là thứ quyết định phần chở trên xe máy, nên nếu mua nhiều, hãy tính sẵn cách chia gói cho gọn và buộc chắc, hoặc tách chuyến. Chi tiết xếp đồ và chở hàng nằm trong bài về [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
-Tóm lại, đi Chợ Đồng Xuân bằng xe máy không khó ở đường mà khó ở khớp: khớp khung giờ với nhịp chợ, khớp chỗ gửi với thời gian ở lại, và khớp trục đường với chiều một chiều của phố cổ. Chuẩn bị đủ ba khớp thì nửa buổi quanh chợ trôi qua gọn gàng, và trang [điểm đến](/blog/du-lich/diem-den/) luôn có thêm các gợi ý quanh khu phố cổ cho bạn nối tiếp hành trình.
+Tóm lại, đi Chợ Đồng Xuân bằng xe máy không khó ở đường mà khó ở khớp: khớp khung giờ với nhịp chợ, khớp chỗ gửi với thời gian ở lại, và khớp trục đường với chiều một chiều của phố cổ. Chuẩn bị đủ ba khớp thì nửa buổi quanh chợ trôi qua gọn gàng, và trang [điểm đến](/du-lich/diem-den/) luôn có thêm các gợi ý quanh khu phố cổ cho bạn nối tiếp hành trình.

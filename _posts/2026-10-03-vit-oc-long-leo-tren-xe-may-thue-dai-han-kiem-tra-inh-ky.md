@@ -26,7 +26,7 @@ Rung bất thường cũng là tín hiệu: xe ga rung nhiều ở mức ga đ�
 
 Danh sách ưu tiên gồm bảy cụm, theo tần suất lỏng từ cao xuống thấp: ốc gương và ốc chắn bùn trước, bu lông cổ phuộc và tay lái, ốc giảm xóc trước sau, ốc bệ máy, bu lông bánh trước và bánh sau, ốc niềng pô và ốc yên, cốp sau. Với người thuê dài hạn, kiểm tra mỗi tuần một lần vào buổi sáng cuối tuần, dùng mười phút: lắc nhẹ từng vị trí, nghe tiếng kêu, và quan sát ren ốc có nhả ra ngoài khoảng trống không.
 
-Nguyên tắc khi siết: dùng đúng cỡ tuờp vít hoặc cả lế, không dùng tuờp quá lỏng làm tròn đầu ốc. Siết bằng cảm nhận vừa đủ, vì siết quá mạnh ốc nhỏ dễ đứt ren, và hư ren trên khung xe là thiệt hại lớn hơn nhiều con ốc. Nếu thấy ốc đã mòn đầu hoặc ren đã trơn, ghi chú và báo ngay cho chủ xe, vì đó là việc của thợ chuyên trách, không phải việc siết tại nhà. Người muốn nắm toàn diện lịch chăm sóc xe có thể tham khảo bài [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/) để biết tần suất từng hạng mục.
+Nguyên tắc khi siết: dùng đúng cỡ tuờp vít hoặc cả lế, không dùng tuờp quá lỏng làm tròn đầu ốc. Siết bằng cảm nhận vừa đủ, vì siết quá mạnh ốc nhỏ dễ đứt ren, và hư ren trên khung xe là thiệt hại lớn hơn nhiều con ốc. Nếu thấy ốc đã mòn đầu hoặc ren đã trơn, ghi chú và báo ngay cho chủ xe, vì đó là việc của thợ chuyên trách, không phải việc siết tại nhà. Người muốn nắm toàn diện lịch chăm sóc xe có thể tham khảo bài [bảo dưỡng xe](/xe-may/bao-duong-xe/) để biết tần suất từng hạng mục.
 
 ## Thói quen dùng xe giúp ốc bền
 
@@ -38,7 +38,7 @@ Với xe số, thói quen vào số khi máy chưa êm, hoặc nhả côn gấp 
 
 Tự siết tại chỗ hợp lệ với ốc gương, ốc che hông, ốc đơn giản có ren thẳng. Nhưng ba cụm phải để thợ: cổ phuộc, giảm xóc và bu lông bánh. Cụm cổ phuộc siết sai lực khiến tay lái nặng, đảo hướng khi phanh; bu lông bánh liên quan trực tiếp an toàn, và mỏi xích của cụm sau cần cờ lê lực đúng chuẩn. Điểm lăn bánh định kỳ cho xe thuê dài hạn là mỗi tháng một lần: mang xe qua tiệm gần nhà, nhờ siết tổng và tra dầu nhờn các điểm nối, khoản tiền nhỏ này mua về sự chắc chắn cho mọi chuyến còn lại trong tháng.
 
-Khi thuê [xe máy](/blog/xe-may/) lâu dài ở Hà Nội, hãy hỏi chủ xe về lịch kiểm tra ốc: nơi cho thuê tử tế sẽ có lịch siết định kỳ cho xe của họ. Với những ai mới làm quen với tổng quan về vận hành, đọc thêm [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để hiểu vì sao siết ốc đúng lực lại liên quan tới cảm giác lái và phản ứng phanh của xe.
+Khi thuê [xe máy](/xe-may/) lâu dài ở Hà Nội, hãy hỏi chủ xe về lịch kiểm tra ốc: nơi cho thuê tử tế sẽ có lịch siết định kỳ cho xe của họ. Với những ai mới làm quen với tổng quan về vận hành, đọc thêm [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để hiểu vì sao siết ốc đúng lực lại liên quan tới cảm giác lái và phản ứng phanh của xe.
 
 ## Kết lại
 

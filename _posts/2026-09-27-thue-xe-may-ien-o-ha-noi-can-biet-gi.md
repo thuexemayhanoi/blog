@@ -43,4 +43,4 @@ Xe máy điện hợp với nhóm người đi lại trong nội đô, quãng đ
 
 ## Tóm lại trước khi thuê xe máy điện ở Hà Nội
 
-Những điều cần nhớ: hỏi rõ quãng đường một lần sạc, cách sạc pin trong thời gian thuê, thủ tục và mức cọc, cùng yêu cầu giấy tờ của dòng xe đó. Giá thuê xe điện cần liên hệ để kiểm tra mức hiện tại thay vì tin theo con số cũ ở đâu đó. Để tìm hiểu sâu hơn, bạn xem chủ đề [xe máy điện](/blog/xe-may/xe-dien/), tham khảo [bảng giá xe điện](/blog/bang-gia-xe-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) trước khi quyết định thuê xe điện đi lại ở Hà Nội.
+Những điều cần nhớ: hỏi rõ quãng đường một lần sạc, cách sạc pin trong thời gian thuê, thủ tục và mức cọc, cùng yêu cầu giấy tờ của dòng xe đó. Giá thuê xe điện cần liên hệ để kiểm tra mức hiện tại thay vì tin theo con số cũ ở đâu đó. Để tìm hiểu sâu hơn, bạn xem chủ đề [xe máy điện](/xe-may/xe-dien/), tham khảo [bảng giá xe điện](/bang-gia-xe-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/xe-may/) trước khi quyết định thuê xe điện đi lại ở Hà Nội.

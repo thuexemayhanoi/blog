@@ -43,4 +43,4 @@ Cuối cùng, đừng bỏ qua tình trạng xe: một chiếc xe được bảo
 
 ## Tóm lại
 
-Xe ga cho nữ giới đi lại hằng ngày nên ưu tiên dòng nhẹ, yên thấp, cốp rộng và thao tác nhàn, đúng với nhịp đi phố dừng đi liên tục của Hà Nội. Để so sánh mức giá giữa các dòng xe ga hay gặp, bạn có thể xem trang [bảng giá xe ga](/blog/bang-gia-xe-ga/), tìm hiểu sâu hơn về đặc tính dòng xe này trong chủ đề [xe tay ga](/blog/xe-may/xe-ga/), hoặc tham khảo tổng quan các [dòng xe máy](/blog/xe-may/) để cân nhắc giữa xe ga và các dòng khác trước khi đặt xe.
+Xe ga cho nữ giới đi lại hằng ngày nên ưu tiên dòng nhẹ, yên thấp, cốp rộng và thao tác nhàn, đúng với nhịp đi phố dừng đi liên tục của Hà Nội. Để so sánh mức giá giữa các dòng xe ga hay gặp, bạn có thể xem trang [bảng giá xe ga](/bang-gia-xe-ga/), tìm hiểu sâu hơn về đặc tính dòng xe này trong chủ đề [xe tay ga](/xe-may/xe-ga/), hoặc tham khảo tổng quan các [dòng xe máy](/xe-may/) để cân nhắc giữa xe ga và các dòng khác trước khi đặt xe.

@@ -57,6 +57,6 @@ Trường hợp nhà nghỉ nằm sát đường dốc, hãy chọn hướng đ�
 
 ## Kết lại: gửi xe gọn gàng để trọn chuyến đi
 
-Gửi xe gọn gàng chỉ mất vài phút nhưng quyết định chất lượng giấc ngủ của bạn. Trước khi lăn bánh, hãy đọc thêm hướng dẫn [gửi xe và giữ xe máy an toàn](/blog/ky-nang/gui-xe-va-giu-xe/) cùng kinh nghiệm [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/) để cả hành trình thông suốt.
+Gửi xe gọn gàng chỉ mất vài phút nhưng quyết định chất lượng giấc ngủ của bạn. Trước khi lăn bánh, hãy đọc thêm hướng dẫn [gửi xe và giữ xe máy an toàn](/ky-nang/gui-xe-va-giu-xe/) cùng kinh nghiệm [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/) để cả hành trình thông suốt.
 
-Khi chọn [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) từ Hà Nội, hãy ưu tiên điểm dừng chân có chỗ để xe thật sự an toàn, vì đó mới là nơi xe nghỉ ngơi thật sự sau một ngày chạy dài. Và nếu bạn chưa có xe, tham khảo mục [thuê xe máy](/blog/thue-xe/) để chọn xe phù hợp trước khi xuất phát.
+Khi chọn [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) từ Hà Nội, hãy ưu tiên điểm dừng chân có chỗ để xe thật sự an toàn, vì đó mới là nơi xe nghỉ ngơi thật sự sau một ngày chạy dài. Và nếu bạn chưa có xe, tham khảo mục [thuê xe máy](/thue-xe/) để chọn xe phù hợp trước khi xuất phát.

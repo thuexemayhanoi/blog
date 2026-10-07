@@ -16,7 +16,7 @@ writer: W1
 
 Trục Nguyễn Văn Cừ là một trong những cung đường nội thành đẹp ít được nhắc tới của Hà Nội, và câu hỏi cung đường Nguyễn Văn Cừ Long Biên có gì đáng dừng xứng đáng được trả lời tỉ mỉ, vì cung này ngắn nhưng gói được gần đủ thói quen của một buổi chiều Hà Nội: phố ồn ở đầu cung, khu dân cư rợp cây ở giữa, và dải bờ sông mở ra ở cuối. Ai thuê xe máy và muốn một cung chạy nhẹ trong chiều tối đều có thể nhắm trục này.
 
-Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/blog/cung-duong/), các cung ngắn trong phố nằm trong phần [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/cung-duong/), các cung ngắn trong phố nằm trong phần [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Ba đoạn của cung đường Nguyễn Văn Cừ Long Biên
 

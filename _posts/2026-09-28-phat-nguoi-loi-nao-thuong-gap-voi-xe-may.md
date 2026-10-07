@@ -41,11 +41,11 @@ Với khu vực đông như trước trường học, cổng chợ, hãy tập k
 
 ## Lỗi liên quan giấy phép và thông tin chủ xe
 
-Ngoài lỗi ghi qua camera, hồ sơ phạt nguội còn vướng ở khâu xác định người lái. Nếu xe thuê hoặc xe mượn mà người vi phạm không đến nhận quyết định, hồ sơ sẽ chuyển sang chủ xe, gây phiền phức cho cả hai bên. Vì vậy khi lưu thông bằng xe không phải của mình, bạn cần nhớ kỹ thời gian, tuyến đường để đối chiếu khi nhận thông báo, đồng thời lưu hợp đồng thuê xe làm căn cứ. Nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/) hướng dẫn chi tiết cách tra cứu và xử lý, còn thủ tục giấy tờ khi bị lập biên bản nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
+Ngoài lỗi ghi qua camera, hồ sơ phạt nguội còn vướng ở khâu xác định người lái. Nếu xe thuê hoặc xe mượn mà người vi phạm không đến nhận quyết định, hồ sơ sẽ chuyển sang chủ xe, gây phiền phức cho cả hai bên. Vì vậy khi lưu thông bằng xe không phải của mình, bạn cần nhớ kỹ thời gian, tuyến đường để đối chiếu khi nhận thông báo, đồng thời lưu hợp đồng thuê xe làm căn cứ. Nhóm bài về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/) hướng dẫn chi tiết cách tra cứu và xử lý, còn thủ tục giấy tờ khi bị lập biên bản nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
 
 ## Thói quen giúp tránh mọi hồ sơ phạt nguội
 
-Tóm lại, các lỗi phạt nguội xe máy hay gặp đều xuất phát từ việc chủ quan vài giây cuối giao lộ: đèn đỏ, vạch kẻ đường, làn đường, chiều đi. Cách phòng tránh bền vững là dựng thói quen dừng sớm sau vạch, đổi làn theo biển báo sớm, tôn trọng chiều đi của đường nhỏ và quan sát biển báo cấm dừng đỗ trước khi kết bạn vào một quán. Định kỳ tra cứu biển số xe mình trên cổng của cơ quan chức năng cũng giúp bạn phát hiện hồ sơ sớm, xử lý trong hạn mà không bị cộng tiền chậm nộp, như đã phân tích trong các bài về [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Tóm lại, các lỗi phạt nguội xe máy hay gặp đều xuất phát từ việc chủ quan vài giây cuối giao lộ: đèn đỏ, vạch kẻ đường, làn đường, chiều đi. Cách phòng tránh bền vững là dựng thói quen dừng sớm sau vạch, đổi làn theo biển báo sớm, tôn trọng chiều đi của đường nhỏ và quan sát biển báo cấm dừng đỗ trước khi kết bạn vào một quán. Định kỳ tra cứu biển số xe mình trên cổng của cơ quan chức năng cũng giúp bạn phát hiện hồ sơ sớm, xử lý trong hạn mà không bị cộng tiền chậm nộp, như đã phân tích trong các bài về [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về lỗi phạt nguội thường gặp
 

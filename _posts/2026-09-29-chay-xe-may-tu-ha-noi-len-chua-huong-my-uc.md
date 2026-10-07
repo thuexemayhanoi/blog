@@ -47,6 +47,6 @@ Một kinh nghiệm nhỏ mùa hội: khách tới bến sau mười giờ sáng
 
 Lịch gọn cho một ngày: sáu giờ sáng nhận xe và khởi hành, dừng ăn sáng dọc trục hoặc mang theo, tám giờ có mặt tại bến, đi thuyền và thăm khu di tích tới hai giờ chiều, ăn trưa giản dị quanh khu bến, ba giờ chiều lên đường về và về tới Hà Nội trước tối. Khách đi với người lớn tuổi nên chừa thêm giờ, phần bậc đá trong động đi chậm. Đồ mang theo nên gọn: nước, áo mưa mỏng, mũ, và một áo khoác nhẹ vì trong động mát.
 
-Khách muốn tham khảo một chuyến thăm chùa quanh Hà Nội khác có thể xem bài [núi Trầm chùa Thầy bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/19/nui-tram-chua-thay-bang-xe-may/), hoặc duyệt các hướng đi khác trong trang [cung đường phố núi phía bắc](/blog/cung-duong/cung-duong-pho-bac/).
+Khách muốn tham khảo một chuyến thăm chùa quanh Hà Nội khác có thể xem bài [núi Trầm chùa Thầy bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/19/nui-tram-chua-thay-bang-xe-may/), hoặc duyệt các hướng đi khác trong trang [cung đường phố núi phía bắc](/cung-duong/cung-duong-pho-bac/).
 
-Khách cần thuê xe máy cho cung Chùa Hương - Mỹ Đức liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước mùa hội để nhận xe kịp khung giờ sớm, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/) trước khi chốt lịch.
+Khách cần thuê xe máy cho cung Chùa Hương - Mỹ Đức liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước mùa hội để nhận xe kịp khung giờ sớm, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [cung đường & hành trình](/cung-duong/) trước khi chốt lịch.

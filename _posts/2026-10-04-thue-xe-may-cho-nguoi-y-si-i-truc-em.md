@@ -36,9 +36,9 @@ Một chi tiết nhỏ nhiều người bỏ qua: sau ca trực, trước khi n�
 
 ## Nhận trả xe theo ca: chốt giờ sớm
 
-Lịch thuê của người y sĩ đi trực là lịch ca, và phần lớn chỗ cho thuê quanh khu Bồ Đề, Nguyễn Văn Cừ quen với khách giữ giờ ca trực này. Chốt nhận xe buổi chiều hôm trước ca đầu, trả xe sáng hôm sau ca cuối — nhịp đó lặp lại tuần này qua tuần khác. Ca trực thường lặp theo chu kỳ, nên gói theo tuần hoặc theo tháng gần như luôn tính ra phần hợp lý hơn so với nối từng ngày lẻ; ai mới đi ca đêm thường xuyên nên xem phần gói dài trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/).
+Lịch thuê của người y sĩ đi trực là lịch ca, và phần lớn chỗ cho thuê quanh khu Bồ Đề, Nguyễn Văn Cừ quen với khách giữ giờ ca trực này. Chốt nhận xe buổi chiều hôm trước ca đầu, trả xe sáng hôm sau ca cuối — nhịp đó lặp lại tuần này qua tuần khác. Ca trực thường lặp theo chu kỳ, nên gói theo tuần hoặc theo tháng gần như luôn tính ra phần hợp lý hơn so với nối từng ngày lẻ; ai mới đi ca đêm thường xuyên nên xem phần gói dài trong trang [thuê xe theo tháng](/thue-xe/thue-thang/).
 
-Phần giấy tờ và đặt cọc như mọi khách thuê: bản gốc căn cước, biên nhận ghi rõ giờ trả, và phần phát sinh tính theo thỏa thuận ban đầu — đọc kỹ trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) trước khi ký. Tổng quan các dòng xe và gói thuê nằm trong trang [thuê xe máy](/blog/thue-xe/); kinh nghiệm theo từng nhóm người đi làm gom trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/); các mẹo chạy xe quanh Hà Nội thêm nằm rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Phần giấy tờ và đặt cọc như mọi khách thuê: bản gốc căn cước, biên nhận ghi rõ giờ trả, và phần phát sinh tính theo thỏa thuận ban đầu — đọc kỹ trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/) trước khi ký. Tổng quan các dòng xe và gói thuê nằm trong trang [thuê xe máy](/thue-xe/); kinh nghiệm theo từng nhóm người đi làm gom trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/); các mẹo chạy xe quanh Hà Nội thêm nằm rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 ## Ba nguyên tắc cho người đi trực đêm
 

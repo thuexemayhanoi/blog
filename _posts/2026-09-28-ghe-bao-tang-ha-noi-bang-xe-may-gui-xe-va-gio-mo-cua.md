@@ -18,7 +18,7 @@ article_id: BLG-00717
 
 Cung quen nhất từ trung tâm là theo trục Cầu Giấy rồi sang đường Xuân Thủy nối vào Phạm Hùng: từ khu Hồ Gươm, khách chạy lên hướng Cầu Giấy, qua các nút lớn rồi rẽ vào trục dẫn về khu Trung tâm Hội nghị Quốc gia, bảo tàng nằm sát khu này. Từ khu Long Biên, khách qua cầu rồi theo các trục dẫn về hướng Cầu Giấy trước khi sang Phạm Hùng. Các cẩm nang ghi quãng chạy từ trung tâm chừng hai mươi phút trong khung vắng, và dễ dài thêm ở khung tan tầm khi các nút đầu cầu và nút giao lớn dày xe.
 
-Đoạn Phạm Hùng trước bảo tàng rộng và thẳng hơn hẳn phố cổ, nhưng khách vẫn giữ nguyên tắc làn phải, không len giữa các cụm xe tải, và giảm tốc khi tới khu bảo tàng vì lối vào có xe ra vào. Khách mới chạy nội đô có thể đọc trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn khách muốn ghép thêm điểm quanh thành phố xem danh sách tại trang [điểm đến](/blog/du-lich/diem-den/).
+Đoạn Phạm Hùng trước bảo tàng rộng và thẳng hơn hẳn phố cổ, nhưng khách vẫn giữ nguyên tắc làn phải, không len giữa các cụm xe tải, và giảm tốc khi tới khu bảo tàng vì lối vào có xe ra vào. Khách mới chạy nội đô có thể đọc trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn khách muốn ghép thêm điểm quanh thành phố xem danh sách tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Giờ mở cửa Bảo tàng Hà Nội: soát tin chính thức trước khi đi
 
@@ -30,13 +30,13 @@ Khung đáng đi là ngay đầu giờ sáng: xe đường vắng, bãi gửi th
 
 Gửi xe Bảo tàng Hà Nội theo chỉ dẫn của khu bảo tàng: bãi xe nằm trong khuôn viên, khách đưa xe theo hướng dẫn và nhận bảng phiếu, phí giữ theo quy định tại chỗ. Khách chốt cổng, khóa từ, kéo dây cốp, chụp lại vị trí xe kèm biển số rồi mới bước vào khu trưng bày. Cuối tuần bãi kín nhanh hơn ngày thường, khách tới sát khung giữa trưa có thể phải gửi vòng ra ngoài theo chỉ dẫn, nên tính giờ đầu khung vẫn lợi nhất.
 
-Đừng đỗ ven đường Phạm Hùng: đoạn này dòng nhanh và nhiều xe lớn ra vào khu hội nghị, xe để lề vừa nguy hiểm vừa dễ cản dòng. Về chiếc xe thuê, khách vòng kiểm tra đèn, còi, phanh, áp suất lốp và đổ đủ xăng cho cả khung đi và về, vì quanh khu vực trạm thưa hơn nội đô. Trời nắng gắt thì che yên hoặc chọn chỗ bóng râm nếu bãi cho phép. Thói quen giữ xe và tư trang khi di chuyển bằng xe máy được kể kỹ trong trang [chỗ đổ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Đừng đỗ ven đường Phạm Hùng: đoạn này dòng nhanh và nhiều xe lớn ra vào khu hội nghị, xe để lề vừa nguy hiểm vừa dễ cản dòng. Về chiếc xe thuê, khách vòng kiểm tra đèn, còi, phanh, áp suất lốp và đổ đủ xăng cho cả khung đi và về, vì quanh khu vực trạm thưa hơn nội đô. Trời nắng gắt thì che yên hoặc chọn chỗ bóng râm nếu bãi cho phép. Thói quen giữ xe và tư trang khi di chuyển bằng xe máy được kể kỹ trong trang [chỗ đổ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
 ## Điểm đáng xem trong khuôn viên và cách ghép lịch
 
 Không gian trưng bày của bảo tàng kể lịch sử Hà Nội qua các giai đoạn, và phần sân ngoài trời còn có hiện vật đầu máy xe lửa hơi nước số hiệu 141-179 đang được bảo tàng lưu giữ, trưng bày, một điểm nhấn cho khách thích kỹ thuật và lịch sử giao thông. Tòa nhà hình tháp ngược có nhiều góc ảnh đẹp lúc nắng xiên, khách mang máy ảnh nên tranh thủ đầu khung khi sân chưa đông. Một buổi ở bảo tàng thường mất chừng một giờ rưỡi tới hai tiếng nếu đi chậm.
 
-Khách ghép lịch nên giữ bảo tàng cho khung sáng, ăn trưa quanh khu Mễ Trì rồi chạy về cụm Hồ Gươm hoặc khu Ba Đình cho khung chiều; cung về chiều thường dày xe, khách nên rời trước mép tan tầm. Kinh nghiệm chạy quanh khu Ba Đình và gửi xe gần các di tích nằm trong bài [khám phá khu Ba Đình bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), còn tổng quan trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/). Các câu hỏi về đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Khách ghép lịch nên giữ bảo tàng cho khung sáng, ăn trưa quanh khu Mễ Trì rồi chạy về cụm Hồ Gươm hoặc khu Ba Đình cho khung chiều; cung về chiều thường dày xe, khách nên rời trước mép tan tầm. Kinh nghiệm chạy quanh khu Ba Đình và gửi xe gần các di tích nằm trong bài [khám phá khu Ba Đình bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/), còn tổng quan trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/). Các câu hỏi về đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Kết luận về buổi ghé bảo tàng của Thủ đô
 

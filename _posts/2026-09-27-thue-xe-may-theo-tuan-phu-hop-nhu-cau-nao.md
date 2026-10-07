@@ -33,20 +33,20 @@ Một tín hiệu nữa cho thấy thuê tuần chưa hợp: bạn chưa chắc 
 
 Giá thuê tuần thường rẻ hơn tiền ngày nhân bảy, vì khách thuê dài hạn giúp cửa hàng chủ động xe và giảm công nhận trả. Theo bảng giá đã duyệt của Nguyễn Tú, xe Honda Air Blade có mức 800.000 đ cho một tuần, nhóm Honda Click và Yamaha Mio khoảng 600.000 đ đến 700.000 đ một tuần, còn Honda Vision dao động 800.000 đ đến 1.000.000 đ một tuần. So với giá ngày 150.000 đ đến 200.000 đ của nhóm xe này, thuê tuần rõ ràng có lợi cho nhu cầu dùng liên tục nhiều ngày.
 
-Điều quan trọng: các mức giá trên là khung theo bảng giá tại thời điểm tham khảo, và tiền đặt cọc cần xác nhận trực tiếp với cửa hàng. Muốn đối chiếu đầy đủ theo từng loại xe, xem trang [bảng giá](/blog/bang-gia/). Nếu bạn muốn tự ước theo nhiều kịch bản ngày, tháng, bài [cách dùng máy tính giá thuê xe máy](/blog/thue-xe/2026/09/27/cach-dung-may-tinh-gia-thue-xe-may/) hướng dẫn từng bước.
+Điều quan trọng: các mức giá trên là khung theo bảng giá tại thời điểm tham khảo, và tiền đặt cọc cần xác nhận trực tiếp với cửa hàng. Muốn đối chiếu đầy đủ theo từng loại xe, xem trang [bảng giá](/bang-gia/). Nếu bạn muốn tự ước theo nhiều kịch bản ngày, tháng, bài [cách dùng máy tính giá thuê xe máy](/thue-xe/2026/09/27/cach-dung-may-tinh-gia-thue-xe-may/) hướng dẫn từng bước.
 
 ## Điều cần chốt với cửa hàng trước khi nhận xe tuần
 
 Thuê tuần là mối quan hệ dài hơn, nên lúc nhận xe cần chốt kỹ hơn thuê ngày. Thứ nhất, cách tính tuần: tính theo bảy ngày lịch hay hai mươi tư tiếng nhân bảy, và trả sớm có điều chỉnh không. Thứ hai, trách nhiệm bảo dưỡng giữa kỳ: xe chạy cả tuần có thể tới lượt căng xích, thay nhớt, nên hỏi rõ ai chịu phần này và ở đâu. Thứ ba, trường hợp hỏng hóc giữa tuần: quy trình báo, thời gian xử lý, có xe thay thế không. Thứ tư, giờ nhận và trả xe trong phạm vi khung 09:00 đến 21:00.
 
-Với bất kỳ kỳ thuê nào, hãy kiểm tra xe kỹ trước khi ký nhận. Hướng dẫn [kiểm tra xe trước khi ký nhận](/blog/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) liệt kê từng chi tiết cần soi, từ vết xước sẵn có đến cốp và đèn xi nhan, và các bước đó càng quan trọng hơn khi bạn sẽ giữ xe suốt bảy ngày.
+Với bất kỳ kỳ thuê nào, hãy kiểm tra xe kỹ trước khi ký nhận. Hướng dẫn [kiểm tra xe trước khi ký nhận](/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) liệt kê từng chi tiết cần soi, từ vết xước sẵn có đến cốp và đèn xi nhan, và các bước đó càng quan trọng hơn khi bạn sẽ giữ xe suốt bảy ngày.
 
 ## So sánh nhanh với các hình thức khác
 
-Thuê ngày phù hợp nhu cầu ngắn, thuê tháng phù hợp người sống làm việc dài hạn tại Hà Nội, còn thuê tuần nằm giữa: đủ dài để có giá tốt, đủ linh hoạt để kết thúc khi công việc xong. Nếu sau tuần đầu bạn thấy nhu cầu kéo dài, hỏi cửa hàng về việc chuyển sang gói tháng, vì nhiều nơi cho điều chỉnh mà không cần làm thủ tục lại từ đầu. Muốn so sánh khung giá giữa các kỳ hạn, trang [bảng giá](/blog/bang-gia/) tổng hợp theo từng dòng xe.
+Thuê ngày phù hợp nhu cầu ngắn, thuê tháng phù hợp người sống làm việc dài hạn tại Hà Nội, còn thuê tuần nằm giữa: đủ dài để có giá tốt, đủ linh hoạt để kết thúc khi công việc xong. Nếu sau tuần đầu bạn thấy nhu cầu kéo dài, hỏi cửa hàng về việc chuyển sang gói tháng, vì nhiều nơi cho điều chỉnh mà không cần làm thủ tục lại từ đầu. Muốn so sánh khung giá giữa các kỳ hạn, trang [bảng giá](/bang-gia/) tổng hợp theo từng dòng xe.
 
 ## Tóm lại: thuê tuần hợp với ai
 
 Thuê xe máy theo tuần hợp với người cần xe ổn định liên tục trong khoảng năm đến bảy ngày: khách công tác, khách du lịch dài ngày, người mới đến chưa mua xe. Không hợp với nhu cầu rời rạc vài ngày hoặc tập trung cuối tuần. Khi đã chọn thuê tuần, hãy chốt cách tính tuần, trách nhiệm bảo dưỡng, và kiểm tra xe kỹ ngay từ đầu.
 
-Tổng quan về hình thức này nằm ở trang [thuê xe theo tuần](/blog/thue-xe/thue-tuan/), trong bối cảnh cẩm nang [thuê xe máy](/blog/thue-xe/) của dịch vụ cho thuê tại Hà Nội. Trước khi nhận xe, bạn cũng nên đọc trước bài [thủ tục thuê xe máy ở Hà Nội](/blog/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/) để chuẩn bị đầy đủ giấy tờ.
+Tổng quan về hình thức này nằm ở trang [thuê xe theo tuần](/thue-xe/thue-tuan/), trong bối cảnh cẩm nang [thuê xe máy](/thue-xe/) của dịch vụ cho thuê tại Hà Nội. Trước khi nhận xe, bạn cũng nên đọc trước bài [thủ tục thuê xe máy ở Hà Nội](/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/) để chuẩn bị đầy đủ giấy tờ.

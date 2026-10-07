@@ -39,14 +39,14 @@ Trời tối muộn lại khác: đèn phố quanh khu sáng đủ, nhưng khác
 
 ## Gửi xe quanh khu Hỏa Lò
 
-Chỗ để xe quanh khu chia thành hai nhóm: bãi vỉa hè sát khu, vào nhanh nhưng hay đầy vào khung khách đông, và các bãi sâu hơn phía các phố lân cận, xa cổng chút ít nhưng thường có chỗ và giữ xe lâu ổn hơn. Nếu lịch của bạn chỉ là tham quan rồi đi, chọn nhóm gần; nếu định đi bộ sang ga, phố cổ hoặc Hồ Gươm sau đó, chọn bãi phía gần hướng đi bộ. Cách chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Chỗ để xe quanh khu chia thành hai nhóm: bãi vỉa hè sát khu, vào nhanh nhưng hay đầy vào khung khách đông, và các bãi sâu hơn phía các phố lân cận, xa cổng chút ít nhưng thường có chỗ và giữ xe lâu ổn hơn. Nếu lịch của bạn chỉ là tham quan rồi đi, chọn nhóm gần; nếu định đi bộ sang ga, phố cổ hoặc Hồ Gươm sau đó, chọn bãi phía gần hướng đi bộ. Cách chọn bãi giữ xe an toàn đã được tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Tránh kiểu gửi xe chèn sát lề trước cổng: đây là thói quen dễ phát sinh va chạm nhất quanh khu, vì xe buýt và xe tải vẫn phải qua lại thường xuyên, và cửa hàng xung quanh cần lối ra vào. Dù bãi xa hơn vài chục mét, gửi đúng chỗ quy định luôn giúp bạn ra vào nhẹ nhàng hơn hẳn.
 
 ## Với người lần đầu đến khu này
 
-Ba thói quen nên giữ: không dừng giữa lòng đường chờ người xuống, kể cả chỉ một phút; không cố vượt xe buýt đang đỗ vì phần trước xe luôn có người băng qua; và không tin tưởng tuyệt đối vào các phố nhỏ như đường tắt. Trong khu đông xe và khách vãng lai, tốc độ thấp và khoảng cách rộng là hai thứ quyết định phần lớn sự an toàn. Cách xử lý các tình huống thường gặp trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/).
+Ba thói quen nên giữ: không dừng giữa lòng đường chờ người xuống, kể cả chỉ một phút; không cố vượt xe buýt đang đỗ vì phần trước xe luôn có người băng qua; và không tin tưởng tuyệt đối vào các phố nhỏ như đường tắt. Trong khu đông xe và khách vãng lai, tốc độ thấp và khoảng cách rộng là hai thứ quyết định phần lớn sự an toàn. Cách xử lý các tình huống thường gặp trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/).
 
 Với nhóm đi đông, nên hẹn nhau ở một điểm cố định phía rìa khu thay vì trước cổng, vì khúc trước cổng chật và nhiều xe dừng một lúc khiến cả nhóm khó nhận nhau. Chốt điểm hẹn ở bãi gửi hoặc một góc phố rộng, rồi cùng bước vào, vừa đỡ phải lùng từng người giữa đám đông, vừa tránh dựng cả đàn xe chờ nhau giữa đường.
 
-Cuối cùng, nếu chuyến đi của bạn gồm nhiều điểm trong ngày và di chuyển bằng xe thuê, phần chuẩn bị đường cho cả lộ trình nên làm trước, kể từ khâu chọn xe; các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) có thể tham khảo. Còn nếu chỉ quanh quẩn khu Hỏa Lò rồi về, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) sẽ cho bạn thêm lựa chọn ghép điểm cho lần sau.
+Cuối cùng, nếu chuyến đi của bạn gồm nhiều điểm trong ngày và di chuyển bằng xe thuê, phần chuẩn bị đường cho cả lộ trình nên làm trước, kể từ khâu chọn xe; các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) có thể tham khảo. Còn nếu chỉ quanh quẩn khu Hỏa Lò rồi về, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) sẽ cho bạn thêm lựa chọn ghép điểm cho lần sau.

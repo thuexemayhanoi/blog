@@ -36,7 +36,7 @@ Một vòng bảo tàng xem vừa mất chừng một tiếng tới một tiến
 
 Giữa buổi, khách nên nghỉ tại các ghế sảnh trước khi sang tầng cuối, vì bảo tàng nhỏ nhưng phần tư liệu đọc dày và mắt dễ mệt nếu xem liền mạch.
 
-Sau buổi bảo tàng, quãng đi bộ sang vành Hồ Gươm chỉ vài phút, hợp phần ăn trưa và dạo chiều. Kinh nghiệm dạo cụm này được kể trong bài [khám phá khu Hoàn Kiếm](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn các bảo tàng khác quanh thành phố được gom tại trang [bảo tàng](/blog/du-lich/bao-tang/). Danh sách các điểm quanh thành phố xếp tại trang [điểm đến](/blog/du-lich/diem-den/).
+Sau buổi bảo tàng, quãng đi bộ sang vành Hồ Gươm chỉ vài phút, hợp phần ăn trưa và dạo chiều. Kinh nghiệm dạo cụm này được kể trong bài [khám phá khu Hoàn Kiếm](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn các bảo tàng khác quanh thành phố được gom tại trang [bảo tàng](/du-lich/bao-tang/). Danh sách các điểm quanh thành phố xếp tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Chuẩn bị xe máy cho buổi quanh cụm hồ
 
@@ -44,7 +44,7 @@ Cung quanh bảo tàng ngắn nhưng dày dòng, nên xe máy cần vòng kiểm
 
 Khách đi buổi chiều muộn nên canh đèn sớm: quãng về từ cụm hồ dễ rơi vào khung tối, và một vài đoạn ngõ quanh khu thiếu đèn đường.
 
-Khách thuê xe mang giấy tờ theo người và đội mũ bảo hiểm kể cả đoạn ngắn nối bãi. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/), còn tổng quan lịch trình quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách thuê xe mang giấy tờ theo người và đội mũ bảo hiểm kể cả đoạn ngắn nối bãi. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/), còn tổng quan lịch trình quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về buổi ở bảo tàng Phụ nữ Việt Nam
 

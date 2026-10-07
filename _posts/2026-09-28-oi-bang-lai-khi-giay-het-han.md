@@ -48,9 +48,9 @@ Nếu bạn thường xuyên đi xe thuê, hãy để ý cả bằng lẫn giấ
 
 ## Người thuê xe cần lưu ý
 
-Cửa hàng cho thuê xe máy hợp pháp luôn kiểm tra giấy phép lái xe còn hiệu lực trước khi giao xe. Bằng đã hết hạn với các hạng có thời hạn không được coi là giấy tờ hợp lệ, và việc nhận xe thuê khi chưa đổi bằng có thể khiến cả bạn lẫn người giao xe gặp rủi ro pháp lý. Chi tiết các loại giấy tờ cần mang theo khi thuê xe nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các quy định lưu thông đường bộ ở Hà Nội nằm trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Cửa hàng cho thuê xe máy hợp pháp luôn kiểm tra giấy phép lái xe còn hiệu lực trước khi giao xe. Bằng đã hết hạn với các hạng có thời hạn không được coi là giấy tờ hợp lệ, và việc nhận xe thuê khi chưa đổi bằng có thể khiến cả bạn lẫn người giao xe gặp rủi ro pháp lý. Chi tiết các loại giấy tờ cần mang theo khi thuê xe nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các quy định lưu thông đường bộ ở Hà Nội nằm trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
-Trong lúc chờ bằng mới được cấp, nếu cần đi lại gấp, bạn có thể chọn xe đạp điện hoặc phương tiện không yêu cầu giấy phép lái xe theo quy định hiện hành, hoặc tham khảo các dòng xe tại trang [thuê xe máy](/blog/thue-xe/) để biết loại nào phù hợp với giấy tờ mình đang có.
+Trong lúc chờ bằng mới được cấp, nếu cần đi lại gấp, bạn có thể chọn xe đạp điện hoặc phương tiện không yêu cầu giấy phép lái xe theo quy định hiện hành, hoặc tham khảo các dòng xe tại trang [thuê xe máy](/thue-xe/) để biết loại nào phù hợp với giấy tờ mình đang có.
 
 ## Hỗ trợ tại Hà Nội
 
@@ -58,6 +58,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về đổi bằng lái hết hạn
 
-Đổi bằng lái hết hạn là thủ tục đơn giản nếu bạn nắm đúng hạng của mình: A1 và A không thời hạn nên chỉ cần đổi khi muốn nâng cấp dạng thẻ, còn các hạng có thời hạn cần đổi trước ngày hết hạn để không phải sát hạch lại. Kế hoạch tốt nhất là đặt lịch nhắc trước hạn vài tháng, chuẩn bị đủ hồ sơ và nộp qua kênh thuận tiện nhất tại địa phương. Kiến thức về quy định giao thông áp dụng cho người lái xe máy được tổng hợp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Đổi bằng lái hết hạn là thủ tục đơn giản nếu bạn nắm đúng hạng của mình: A1 và A không thời hạn nên chỉ cần đổi khi muốn nâng cấp dạng thẻ, còn các hạng có thời hạn cần đổi trước ngày hết hạn để không phải sát hạch lại. Kế hoạch tốt nhất là đặt lịch nhắc trước hạn vài tháng, chuẩn bị đủ hồ sơ và nộp qua kênh thuận tiện nhất tại địa phương. Kiến thức về quy định giao thông áp dụng cho người lái xe máy được tổng hợp trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 Thông tin về đổi bằng lái xe và thời hạn giấy phép lái xe có thể thay đổi theo từng thời kỳ; trước khi làm thủ tục, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

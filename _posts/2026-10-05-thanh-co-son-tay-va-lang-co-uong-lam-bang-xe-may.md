@@ -42,4 +42,4 @@ Về đi cùng nhóm: cung này phù hợp cả người mới chạy xa, vì qu
 
 Cung này ngắn, nên phần chuẩn bị nhẹ hơn các cung núi: kiểm tra phanh, lốp, đèn trước khi nhận; đổ đầy bình lúc xuất phát là đủ cả ngày không cần đổ thêm; và mang theo áo mưa gấp nhỏ vì mưa bất chợt quanh Hà Nội không chọn ngày. Ai đi mùa hè nên thoa kem chống nắng và mang găng — gió quốc lộ trưa hè không mạnh nhưng nắng trực tiếp trên cổ tay đủ rát sau một tiếng.
 
-Trải nghiệm gần Hà Nội khác và các cung đường dài hơn được gom trong trang chủ đề [du lịch](/blog/du-lich/), kinh nghiệm chuẩn bị xe trước chuyến thuê tại [thuê xe máy](/blog/xe-may/), và nếu bạn tính ghép thêm Ba Vì trong hai ngày thì xem tiếp [chuyên mục du lịch](/blog/du-lich/).
+Trải nghiệm gần Hà Nội khác và các cung đường dài hơn được gom trong trang chủ đề [du lịch](/du-lich/), kinh nghiệm chuẩn bị xe trước chuyến thuê tại [thuê xe máy](/xe-may/), và nếu bạn tính ghép thêm Ba Vì trong hai ngày thì xem tiếp [chuyên mục du lịch](/du-lich/).

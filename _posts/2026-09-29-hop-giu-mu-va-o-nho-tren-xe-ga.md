@@ -47,14 +47,14 @@ Khi lau xong, chỉ bỏ lại những món thật sự dùng trong tuần, còn
 
 ## Khi thuê xe ga: kiểm tra hộp trước khi nhận
 
-Nếu bạn thuê xe ga để đi trong vài ngày, việc đầu tiên sau khi nhận xe là mở nắp yên: xem hộp sạch không, nắp có khít không, khóa có mượt không. Ghi lại trạng thái ban đầu để khi trả xe không tranh cãi về hỏng hóc có sẵn. Các điều cần xem trước khi nhận xe thuê được liệt kê trong bài [Kinh nghiệm thuê xe máy tại Hà Nội](/blog/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/), bạn nên đọc trước buổi nhận xe.
+Nếu bạn thuê xe ga để đi trong vài ngày, việc đầu tiên sau khi nhận xe là mở nắp yên: xem hộp sạch không, nắp có khít không, khóa có mượt không. Ghi lại trạng thái ban đầu để khi trả xe không tranh cãi về hỏng hóc có sẵn. Các điều cần xem trước khi nhận xe thuê được liệt kê trong bài [Kinh nghiệm thuê xe máy tại Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/), bạn nên đọc trước buổi nhận xe.
 
 Với xe thuê, đừng để đồ giá trị trong hộp qua đêm, vì hộp xe cho thuê thường được nhiều người sử dụng trước đó và đôi khi nắp không còn khít như xe mới.
 
 ## Đồ vượt quá hộp: chuyển sang phương án khác
 
-Khi đồ vượt thể tích hộp, đừng cố nhồi đến mức nắp yên không kín. Hộp chỉ dành cho đồ nhỏ; kiện lớn cần chuyển sang buộc sau hoặc chở theo cách riêng. Cách chở hành lý đúng dung lượng đã có bài riêng về [Chở hành lý an toàn trên xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/), trong đó có phần về giới hạn tải của từng kiểu xe.
+Khi đồ vượt thể tích hộp, đừng cố nhồi đến mức nắp yên không kín. Hộp chỉ dành cho đồ nhỏ; kiện lớn cần chuyển sang buộc sau hoặc chở theo cách riêng. Cách chở hành lý đúng dung lượng đã có bài riêng về [Chở hành lý an toàn trên xe máy](/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/), trong đó có phần về giới hạn tải của từng kiểu xe.
 
-Nếu nhu cầu chở đồ là chuyện thường xuyên, chọn loại xe phù hợp ngay từ đầu. Các điểm cân nhắc khi chọn xe đã được gom trong bài về [chọn loại xe](/blog/xe-may/chon-loai-xe/), nên đọc trước khi thuê hoặc mua một chiếc mới.
+Nếu nhu cầu chở đồ là chuyện thường xuyên, chọn loại xe phù hợp ngay từ đầu. Các điểm cân nhắc khi chọn xe đã được gom trong bài về [chọn loại xe](/xe-may/chon-loai-xe/), nên đọc trước khi thuê hoặc mua một chiếc mới.
 
-Hộp xe ga chỉ nhỏ khi bạn chưa biết dùng; sắp xếp đúng thứ tự, nó làm được nhiều hơn bạn nghĩ. Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Hộp xe ga chỉ nhỏ khi bạn chưa biết dùng; sắp xếp đúng thứ tự, nó làm được nhiều hơn bạn nghĩ. Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/).

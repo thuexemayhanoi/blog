@@ -48,6 +48,6 @@ Một cách kết thúc buổi viếng đáng thử: trước khi rời khu, đi
 
 Quãng về qua thị xã thường thoáng nếu bạn rời trước ba giờ rưỡi chiều; dừng ăn nhẹ quanh Sơn Tây nếu muốn, hoặc chạy thẳng lên đại lộ và về trong một mạch. Chiều muộn trên đại lộ có đoạn xe về thành phố dày, giữ làn giữa, không lách giữa các xe container, và bật đèn sớm khi trời có mưa. Về tới vành đai nội đô, né các đoạn phố chặn cuối tuần quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Người mới chạy cung phía tây nên đọc thêm các tuyến cùng hướng trong mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/); xem thời tiết trước khi đi nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Người mới chạy cung phía tây nên đọc thêm các tuyến cùng hướng trong mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/); xem thời tiết trước khi đi nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Cung đền Và ngắn nhưng đủ vị: một sáng đại lộ thoáng, một buổi sân đền cổ, và một chiều về nhẹ. Chuẩn bị nhỏ, khung giờ chốt sẵn, và chuyến viếng đền đầu xuân của bạn sẽ đúng nghĩa một buổi thanh thản thật sự.

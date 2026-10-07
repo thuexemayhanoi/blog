@@ -33,7 +33,7 @@ Thứ tư, nếu bạn chạy ven đường, xe buýt và xe tải là những �
 
 Quy tắc số một: giữ làn phải và giữ đường thẳng. Người mới an toàn nhất khi chạy theo một nhịp ổn định ở làn phải, không lượn lách, không đột ngột đổi hướng. Quy tắc số hai: dùng gương thường xuyên và luôn nhìn xa khoảng vài chục mét thay vì chỉ nhìn bánh xe trước mặt. Nhìn xa cho bạn thời gian phản ứng với đèn đỏ, người băng đường hay ổ gà.
 
-Quy tắc số ba: báo hiệu trước khi rẽ bằng đèn hoặc tay, và chỉ rẽ khi đã nhìn kỹ gương. Quy tắc số bốn: giữ khoảng cách với xe phía trước lớn hơn bạn nghĩ, vì khoảng cách chính là thời gian để phanh. Các tình huống thường gặp như bị chen làn, chạy gần xe buýt, hoặc qua ngã tư không đèn đều đã được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), bạn nên đọc trước khi ngày đầu chạy thật.
+Quy tắc số ba: báo hiệu trước khi rẽ bằng đèn hoặc tay, và chỉ rẽ khi đã nhìn kỹ gương. Quy tắc số bốn: giữ khoảng cách với xe phía trước lớn hơn bạn nghĩ, vì khoảng cách chính là thời gian để phanh. Các tình huống thường gặp như bị chen làn, chạy gần xe buýt, hoặc qua ngã tư không đèn đều đã được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), bạn nên đọc trước khi ngày đầu chạy thật.
 
 Cuối cùng, không có gì sai khi chạy chậm hơn dòng xe, miễn là bạn giữ làn và không lều rều trái phải. Dòng xe Hà Nội quen với người chạy chắc chắn ở làn phải; thứ họ né là người do dự không báo hiệu.
 
@@ -43,8 +43,8 @@ Nếu có thể, hãy chọn buổi sáng cuối tuần cho lần chạy đầu 
 
 Về tuyến, hãy bắt đầu từ khu vực đường rộng và thẳng. Khu vực Long Biên, Bồ Đề, dọc các trục vành ngoài có nhiều đoạn đường thẳng, vỉa hè rộng và ít ngã tư phức tạp, rất hợp cho việc làm quen. Chạy vòng quanh nơi bạn nhận xe vài lần trước khi mạo hiểm đi sâu vào các phố nhỏ, nơi nhiều đường một chiều khiến người mới hay đi lạc.
 
-Nếu có thể, hãy đi cùng một người quen đường trong chuyến đầu. Người đi trước mở đường giúp bạn đỡ phải tự đọc biển và quyết định gấp, còn bạn chỉ việc theo sau ở khoảng cách an toàn. Kinh nghiệm đi nhóm nhiều xe, cách giữ liên lạc và phân công người dẫn đầu đã được tổng kết trong bài về [đi nhóm nhiều xe máy và cách giữ liên lạc](/blog/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/), hữu ích cho cả nhóm hai người.
+Nếu có thể, hãy đi cùng một người quen đường trong chuyến đầu. Người đi trước mở đường giúp bạn đỡ phải tự đọc biển và quyết định gấp, còn bạn chỉ việc theo sau ở khoảng cách an toàn. Kinh nghiệm đi nhóm nhiều xe, cách giữ liên lạc và phân công người dẫn đầu đã được tổng kết trong bài về [đi nhóm nhiều xe máy và cách giữ liên lạc](/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/), hữu ích cho cả nhóm hai người.
 
 ## Khi nào nên cân nhắc không tự lái
 
-Sự trung thực quan trọng hơn lòng gan. Nếu bạn chưa biết lái, nếu trời mưa lớn, hoặc nếu bạn vừa bay đường dài và mệt lử, hãy để chuyến đầu cho ngày khác hoặc cho phương tiện khác. Không ai chấm điểm bạn vì đi taxi ngày hôm nay để ngày mai chạy xe khỏe khoắn hơn. Câu hỏi này cùng nhiều băn khoăn của người mới được giải đáp thêm trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn các tình huống rộng hơn nằm rải rác trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/). Đi xe ở Hà Nội không đáng sợ khi bạn chuẩn bị, và chuẩn bị chính là điều bạn vừa đọc xong.
+Sự trung thực quan trọng hơn lòng gan. Nếu bạn chưa biết lái, nếu trời mưa lớn, hoặc nếu bạn vừa bay đường dài và mệt lử, hãy để chuyến đầu cho ngày khác hoặc cho phương tiện khác. Không ai chấm điểm bạn vì đi taxi ngày hôm nay để ngày mai chạy xe khỏe khoắn hơn. Câu hỏi này cùng nhiều băn khoăn của người mới được giải đáp thêm trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), còn các tình huống rộng hơn nằm rải rác trong mục [hỏi đáp thuê xe máy](/hoi-dap/). Đi xe ở Hà Nội không đáng sợ khi bạn chuẩn bị, và chuẩn bị chính là điều bạn vừa đọc xong.

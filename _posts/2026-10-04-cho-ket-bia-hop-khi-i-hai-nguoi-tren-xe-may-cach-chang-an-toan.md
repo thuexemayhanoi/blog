@@ -46,6 +46,6 @@ Tốc độ chở nặng nên thấp hơn tốc độ thường ngày rõ rệt.
 
 Cũng cần nhắc rằng chở vật cồng kềnh quá khổ và đi hai người kèm hàng to có thể vi phạm quy định giao thông về chở hàng trên xe máy, và cảnh sát giao thông có quyền xử lý. Không nên vì tiện một chuyến mà lách người giữa phố khi xe đã quá tải. Với khách thuê xe máy, những chuyến chở nhiều đồ nên hỏi chủ xe trước phương án và tuyến phù hợp, chủ xe biết kinh nghiệm địa phương và có thể gợi ý cách chằng hợp với xe mình.
 
-Các bài liên quan: cách chở thùng hàng vừa ngày lễ được kể trong bài [chở thùng bánh và quà Tết](/blog/ky-nang/2026/10/04/cho-thung-banh-va-qua-tet-tren-xe-may/), tổng quan chở đồ và hành lý nằm trong mục [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Các bài liên quan: cách chở thùng hàng vừa ngày lễ được kể trong bài [chở thùng bánh và quà Tết](/ky-nang/2026/10/04/cho-thung-banh-va-qua-tet-tren-xe-may/), tổng quan chở đồ và hành lý nằm trong mục [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Chở két bia đi hai người, nói ngắn lại, là bài của sự cân đối: chia đều hai bên, chằng mỗi bên độc lập, chạy chậm và kiểm tra giữa chặng. Làm đủ các bước đó thì dù bia về tới nhà hơi trễ, bia vẫn lạnh và cả hai người vẫn nguyên vẹn.

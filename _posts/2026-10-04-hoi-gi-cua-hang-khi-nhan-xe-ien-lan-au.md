@@ -46,7 +46,7 @@ Tận dụng buổi đầu: chạy thử một vòng quanh phố nhỏ cạnh c�
 
 Trước khi rời, chỉnh gương theo tầm mắt của mình và thử bóp còi một lần để biết độ nhạy của còi. Hai việc nhỏ đó làm bạn bớt lạ xe trong những km đầu, và phần lạ xe giảm đi thì phần tập trung cho đường tăng lên. Buổi đầu cầm xe điện nên kết thúc bằng cảm giác quen, không phải bằng cảm giác vừa may mắn.
 
-Người lần đầu thuê xe có thể xem lại giấy tờ cần chuẩn bị trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), các câu hỏi thường gặp của người mới trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và kinh nghiệm từ những chuyến đi thật trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Người lần đầu thuê xe có thể xem lại giấy tờ cần chuẩn bị trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), các câu hỏi thường gặp của người mới trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và kinh nghiệm từ những chuyến đi thật trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, nhận xe điện lần đầu chỉ cần hỏi đúng bốn nhóm: pin với sạc, cách vận hành, trọng lượng với lộ trình, và cách xử lý khi hết pin giữa đường. Hỏi đủ bốn nhóm ngay tại quầy, chạy thử một vòng ngắn, và buổi đầu tiên của bạn với xe điện sẽ trôi theo kế hoạch thay vì theo từng phỏng đoán vội.
 

@@ -33,13 +33,13 @@ Phần cuối của lịch trình là các phố quanh chợ: mỗi tuyến ph�
 
 Chợ Đồng Xuân là nơi nhiều người mua quà về cho cả nhà vì hàng chia theo nhiều nhóm: bánh kẹo sỉ đóng gói, đồ trang trí nhỏ, và các món đồ gia dụng tiện ích. Nguyên tắc chọn quà cho người đi xe máy là chọn gọn nhẹ trước, đẹp mắt sau, vì mọi món mua thêm đều phải có chỗ nằm trên xe khi ra về.
 
-Câu hỏi nên hỏi người bán trước khi chốt: món này để được bao lâu và gói thế nào cho chắc khi đi đường xa. Những món dễ vỡ cần bọc riêng, và phần chia gói nên làm ngay tại quầy chứ đừng để về tới chỗ xe mới lục lại túi. Chi tiết xếp đồ gọn trên xe nằm trong bài về [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Câu hỏi nên hỏi người bán trước khi chốt: món này để được bao lâu và gói thế nào cho chắc khi đi đường xa. Những món dễ vỡ cần bọc riêng, và phần chia gói nên làm ngay tại quầy chứ đừng để về tới chỗ xe mới lục lại túi. Chi tiết xếp đồ gọn trên xe nằm trong bài về [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
 ## Cuối tuần: chợ đêm đổi mặt cả khu phố
 
 Nếu bạn tới vào cuối tuần, phần chiều tối thường có chợ đêm trải dài trên các phố phía nam chợ, với các gian hàng đồ dùng, quần áo và quà vặt trải kín hai bên đường. Đây là lúc khu vực đông nhất trong tuần, và cũng là lúc gửi xe khó nhất: hãy tới trước khung giờ đông và gửi xong là đi bộ, đừng đợi tới lúc chợ đêm đã dày người mới tìm chỗ.
 
-Trời mưa thì chợ đêm vắng bớt và các gian hàng thường thu sớm, nên xem trước thời tiết rồi hẹn giờ cho cả nhóm. Muốn ghép chợ đêm vào một kế hoạch dài hơn cho nhóm bạn hoặc gia đình, bài về [chuyến trọn cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có sẵn khung sườn để nối chợ với các điểm khác trong cùng một ngày.
+Trời mưa thì chợ đêm vắng bớt và các gian hàng thường thu sớm, nên xem trước thời tiết rồi hẹn giờ cho cả nhóm. Muốn ghép chợ đêm vào một kế hoạch dài hơn cho nhóm bạn hoặc gia đình, bài về [chuyến trọn cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có sẵn khung sườn để nối chợ với các điểm khác trong cùng một ngày.
 
 ## Ăn uống trong nửa ngày ở quanh chợ
 
@@ -49,6 +49,6 @@ Các hàng quanh chợ thường bán theo lối cửa ngõ, ghế thấp, nên 
 
 ## Gửi xe và đi lại khi theo lịch trình
 
-Với lịch trình nửa ngày, gửi xe một lần duy nhất là nguyên tắc: chọn bãi gần cửa chợ, hỏi giá trước, chụp lại vị trí, rồi quên luôn chuyện xe cho tới lúc ra về. Thói quen này quan trọng hơn nghe thì nhiều, vì các bãi quanh chợ nhìn na ná nhau và giờ cao điểm kín chỗ nhanh. Nếu đi theo nhóm, một người lo phần gửi xe còn lại đi trước vào chợ, tiết kiệm được khung giờ đầu sáng cho người khác. Phần chuẩn bị về giữ xe chi tiết nằm trong bài về [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Với lịch trình nửa ngày, gửi xe một lần duy nhất là nguyên tắc: chọn bãi gần cửa chợ, hỏi giá trước, chụp lại vị trí, rồi quên luôn chuyện xe cho tới lúc ra về. Thói quen này quan trọng hơn nghe thì nhiều, vì các bãi quanh chợ nhìn na ná nhau và giờ cao điểm kín chỗ nhanh. Nếu đi theo nhóm, một người lo phần gửi xe còn lại đi trước vào chợ, tiết kiệm được khung giờ đầu sáng cho người khác. Phần chuẩn bị về giữ xe chi tiết nằm trong bài về [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
-Tóm lại, nửa ngày ở Chợ Đồng Xuân nằm gọn trong ba việc: chọn đúng khung giờ theo sở thích, đi bộ theo một vòng hợp lý, và gửi xe một lần cho cả buổi. Các gợi ý mở rộng quanh khu phố cổ nằm sẵn trong trang [điểm đến](/blog/du-lich/diem-den/) cho những buổi dài hơn.
+Tóm lại, nửa ngày ở Chợ Đồng Xuân nằm gọn trong ba việc: chọn đúng khung giờ theo sở thích, đi bộ theo một vòng hợp lý, và gửi xe một lần cho cả buổi. Các gợi ý mở rộng quanh khu phố cổ nằm sẵn trong trang [điểm đến](/du-lich/diem-den/) cho những buổi dài hơn.

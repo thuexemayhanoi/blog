@@ -43,16 +43,16 @@ Nhiều người chở hộp các tông hoặc túi vải lớn khi về quê, �
 
 Trên quãng dài, đổi tư thế quan trọng hơn chọn ba lô đắt tiền. Cứ khoảng một giờ, dừng lại, thả quai và xoay vai. Ba lô có đai hông thì chuyển một phần tải xuống hông. Nới quai trên đoạn thẳng vắng, siết lại khi vào phố đông, vì balo lỏng dễ văng khi xe tránh vật cản. Chọn loại có mặt sau thoáng và lót vai dày nếu bạn thường chạy hơn một tiếng liền.
 
-Không đeo ba lô lệch một vai khi chạy xe, dù thói quen này phổ biến: tải lệch kéo tay lái về một phía. Với những kiện lớn hơn, cách chở hành lý đúng dung lượng đã được bàn kỹ trong bài [Chở hành lý an toàn trên xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/), bạn nên đọc trước khi chở đồ cồng kềnh.
+Không đeo ba lô lệch một vai khi chạy xe, dù thói quen này phổ biến: tải lệch kéo tay lái về một phía. Với những kiện lớn hơn, cách chở hành lý đúng dung lượng đã được bàn kỹ trong bài [Chở hành lý an toàn trên xe máy](/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/), bạn nên đọc trước khi chở đồ cồng kềnh.
 
 ## Cách buộc sau để kiện đồ không xê dịch
 
 Buộc chắc bắt đầu từ mặt phẳng: đặt kiện sao cho phần nặng ở dưới, phần nhẹ dễ vỡ phía trên. Dây thứ nhất chằng ngang qua thân kiện, dây thứ hai đi chéo từ góc dưới bên trái lên góc trên bên phải, kiện cao thì thêm sợi thứ ba quấn quanh giữa. Kết thúc bằng khóa siết, tránh nút chết vì khó mở giữa đường.
 
-Giữa hành trình, dừng kiểm tra sau chặng đèo hoặc đoạn xấu, vì rung động làm các nút siết lỏng dần. Trước chuyến đi, việc chuẩn bị theo trình tự từ chọn tuyến đến kiểm tra xe giúp bạn còn thời gian buộc lại từ đầu, tham khảo [Chuẩn bị chuyến đi gần Hà Nội bằng xe máy](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/chuan-bi-chuyen-di-gan-ha-noi-bang-xe-may/) cho trình tự đầy đủ.
+Giữa hành trình, dừng kiểm tra sau chặng đèo hoặc đoạn xấu, vì rung động làm các nút siết lỏng dần. Trước chuyến đi, việc chuẩn bị theo trình tự từ chọn tuyến đến kiểm tra xe giúp bạn còn thời gian buộc lại từ đầu, tham khảo [Chuẩn bị chuyến đi gần Hà Nội bằng xe máy](/kinh%20nghi%E1%BB%87m/2026/09/18/chuan-bi-chuyen-di-gan-ha-noi-bang-xe-may/) cho trình tự đầy đủ.
 
 ## Kiểm tra giữa đường: thói quen không bỏ qua
 
 Dù đeo hay buộc, các mốc kiểm tra giống nhau: trước khi lăn bánh, sau mười phút đầu và sau mỗi lần dừng nghỉ. Khi đeo, xem quai và cân tải hai bên. Khi buộc, ấn bốn góc kiện đồ xem còn chắc không, và liếc gương để chắc chắn kiện không lệch hẳn một phía. Đồ tuột giữa đường không chỉ mất đồ mà còn văng ra gây nguy hiểm cho xe phía sau.
 
-Chọn đeo hay buộc phụ thuộc vào khối lượng, thời gian và địa hình của chính chuyến đi, không theo thói quen máy móc. Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Chọn đeo hay buộc phụ thuộc vào khối lượng, thời gian và địa hình của chính chuyến đi, không theo thói quen máy móc. Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/).

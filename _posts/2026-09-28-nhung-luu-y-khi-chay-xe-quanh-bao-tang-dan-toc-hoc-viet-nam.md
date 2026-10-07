@@ -22,7 +22,7 @@ Về mùa mưa: các đoạn quanh khu vực dễ ngập cục bộ sau đợt m
 
 ## Lưu ý chạy xe gần Bảo tàng Dân tộc học Việt Nam: một chiều và luồng quanh phố trường học
 
-Vài tuyến quanh bảo tàng là đường một chiều, điển hình là các đoạn nối từ các trục lớn vào Nguyễn Văn Huyên và các phố Nghĩa Tân. Cách xử lý an toàn cho người không thuộc khu vực: bám theo dòng xe của người địa phương, đi chậm khi vào đoạn lạ, và không quay đầu giữa đoạn có trường học hai bên. Ứng dụng bản đồ giúp tìm đúng tuyến cho phép xe máy, nhưng hãy chọn chế độ phương tiện là xe máy rồi dò lại lộ trình trước khi lăn bánh. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Vài tuyến quanh bảo tàng là đường một chiều, điển hình là các đoạn nối từ các trục lớn vào Nguyễn Văn Huyên và các phố Nghĩa Tân. Cách xử lý an toàn cho người không thuộc khu vực: bám theo dòng xe của người địa phương, đi chậm khi vào đoạn lạ, và không quay đầu giữa đoạn có trường học hai bên. Ứng dụng bản đồ giúp tìm đúng tuyến cho phép xe máy, nhưng hãy chọn chế độ phương tiện là xe máy rồi dò lại lộ trình trước khi lăn bánh. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 Về điểm đỗ tạm: đoạn trước cổng bảo tàng không có chỗ dừng chờ, và vỉa hè quanh các phố trường học thường kín xe của phụ huynh vào khung đón trả, không nên dựng xe tạm. Cách gọn nhất vẫn là gửi xe ở bãi trước cổng bảo tàng hoặc bãi dân cư lân cận, rồi đi bộ tới cổng.
 
@@ -30,7 +30,7 @@ Về điểm đỗ tạm: đoạn trước cổng bảo tàng không có chỗ d
 
 Bãi gửi xe trước cổng bảo tàng mở theo giờ tham quan; ngoài ra các đoạn phố lân cận có dịch vụ giữ xe của dân cư, mở rộng hơn về khung giờ. Khi gửi xe máy thuê, nên khóa cả khóa cổ lẫn khóa từ nếu xe có, cất mũ vào cốp và chụp lại vị trí cùng biển số để đối chiếu khi lấy. Khung sáng ngày thường bãi dễ kín chỗ trước cổng vì khách đoàn học sinh, nên khách tự đi nên cân nhắc khung chiều hoặc cuối tuần.
 
-Ngoài ra, nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì các dãy nhà quanh khu vực trông khá giống nhau và cuối buổi tham quan dễ đi tìm nhầm hướng. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/blog/du-lich/) và trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Ngoài ra, nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì các dãy nhà quanh khu vực trông khá giống nhau và cuối buổi tham quan dễ đi tìm nhầm hướng. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/du-lich/) và trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Chạng vạng và đêm: hai lúc cần thêm cẩn trọng
 
@@ -40,9 +40,9 @@ Mùa mưa, mặt đường quanh khu vực trơn sau mưa, nên phanh sớm và 
 
 ## Tốc độ và cách ứng xử trong vùng nhiều trường học
 
-Quanh khu vực, tốc độ hợp lý là đi bộ nhanh của dòng người: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông học sinh. Không luồn lách giữa các xe đang dừng chờ trước cổng trường; đây là khu vực trẻ em băng đường không theo điểm cố định, và phần lớn phụ huynh cũng đang quan sát con chứ không quan sát xe sau. Biển báo quanh khu vực được tóm tắt cách đọc trong bài [biển báo cấm xe máy thường gặp](/blog/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/).
+Quanh khu vực, tốc độ hợp lý là đi bộ nhanh của dòng người: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông học sinh. Không luồn lách giữa các xe đang dừng chờ trước cổng trường; đây là khu vực trẻ em băng đường không theo điểm cố định, và phần lớn phụ huynh cũng đang quan sát con chứ không quan sát xe sau. Biển báo quanh khu vực được tóm tắt cách đọc trong bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/).
 
-Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về chạy xe quanh bảo tàng
 

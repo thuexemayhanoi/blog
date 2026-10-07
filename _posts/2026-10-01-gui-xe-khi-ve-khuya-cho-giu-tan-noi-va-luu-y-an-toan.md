@@ -19,7 +19,7 @@ Người đi làm ca tối ở Hà Nội, kết thúc đồng đội nhậu cu�
 
 Dạng quen thuộc nhất là bãi giữ xe quanh khu tập thể, chung cư hoặc nhóm nhà phố, hoạt động suốt đêm và có người trông thực sự. Đây là lựa chọn tốt nhất cho người thuê xe: xe nằm trong bãi có người giữ, sáng ra lấy xe đúng giờ làm việc. Không phải bãi nào cũng nhận qua đêm, và có bãi đóng cửa sau một giờ nhất định, nên chỉ cần một lần hỏi trước giờ đóng cửa là bạn biết nơi nào giữ được cả đêm cho mình.
 
-Dạng thứ hai là gửi xe ở tòa nhà, khách sạn hoặc nhà nghỉ có bảo vệ trực đêm. Nếu bạn về muộn và ngủ lại ở khu vực khác chỗ gửi xe thường ngày, hỏi bảo vệ tòa nhà xem có nhận trữ xe qua đêm không, giữ lại vé hoặc thẻ từ, và chụp lại biển số vị trí để. Danh sách dạng chỗ này được gom chi tiết trong trang [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), bao gồm cả trường hợp gửi xe ở khách sạn khi đi xa.
+Dạng thứ hai là gửi xe ở tòa nhà, khách sạn hoặc nhà nghỉ có bảo vệ trực đêm. Nếu bạn về muộn và ngủ lại ở khu vực khác chỗ gửi xe thường ngày, hỏi bảo vệ tòa nhà xem có nhận trữ xe qua đêm không, giữ lại vé hoặc thẻ từ, và chụp lại biển số vị trí để. Danh sách dạng chỗ này được gom chi tiết trong trang [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), bao gồm cả trường hợp gửi xe ở khách sạn khi đi xa.
 
 Dạng thứ ba là nhờ quán ăn, tiệm tạp hóa quen biết trông hộ — thường chỉ nên dùng cho vài giờ, có người nhìn thấy xe, và bạn đã quen chủ quán. Với xe thuê, dạng này nên hạn chế: khi có sự cố, trách nhiệm giữa bạn và nơi cho thuê phức tạp hơn nếu xe nằm ở chỗ không có dịch vụ giữ xe rõ ràng.
 
@@ -27,13 +27,13 @@ Dạng thứ ba là nhờ quán ăn, tiệm tạp hóa quen biết trông hộ �
 
 Trước khi giao xe vào bãi đêm, khoá cổ xe và kiểm tra hai lần, kể cả khi bãi có người trông. Mũ bảo hiểm mang theo lên nhà hoặc gửi kèm người giữ xe và ghi rõ trong vé. Đồ cá nhân, giấy tờ và thẻ ngân hàng tuyệt đối không để trong cốp xe qua đêm, kể cả xe thuê: cốp khóa bằng chìa khóa vẫn không phải nơi để giấy tờ quan trọng.
 
-Giao xe xong, chụp một tấm ảnh vị trí xe cùng biển số chỗ gửi, và giữ vé cẩn thận. Vé mất thì có bãi bắt làm giấy tờ tùy thân và ký xác nhận, vừa mất thời gian buổi sáng, vừa có bãi phạt lệ phí mất vé. Chi tiết về việc gửi xe qua đêm được trả lời cụ thể trong bài [gửi xe qua đêm có được không](/blog/ky-nang/2026-09-29/gui-xe-qua-em-co-uoc-khong/).
+Giao xe xong, chụp một tấm ảnh vị trí xe cùng biển số chỗ gửi, và giữ vé cẩn thận. Vé mất thì có bãi bắt làm giấy tờ tùy thân và ký xác nhận, vừa mất thời gian buổi sáng, vừa có bãi phạt lệ phí mất vé. Chi tiết về việc gửi xe qua đêm được trả lời cụ thể trong bài [gửi xe qua đêm có được không](/ky-nang/2026-09-29/gui-xe-qua-em-co-uoc-khong/).
 
 ## Lưu ý an toàn khi phải để xe ngoài đường qua đêm
 
 Không đêm nào cũng may mắn tìm được bãi mở cửa, nhất là khu phố đông như quanh chợ Long Biên hay các phố cổ. Nếu buộc phải để ngoài đường, chọn chỗ có đèn đường sáng, có camera hành lang, gần nhà còn mở cửa hoặc quán còn khách. Tránh hẻm tối, tránh góc vắng và tránh đỗ chắn cửa nhà người khác, vì sáng ra có thể xe đã bị khiêng đi mở lối.
 
-Với xe để ngoài đường, đừng tiết kiệm một phút khóa: khóa cổ kèm khóa đĩa hoặc khóa bánh sau, kể cả bãi có người trông. Mỗi lớp khóa là một rào cản thời gian với kẻ ngó nghiêng. Cách chọn khóa và vị trí đỗ an toàn được phân tích trong bài [chống trộm xe máy khi để ngoài đường](/blog/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
+Với xe để ngoài đường, đừng tiết kiệm một phút khóa: khóa cổ kèm khóa đĩa hoặc khóa bánh sau, kể cả bãi có người trông. Mỗi lớp khóa là một rào cản thời gian với kẻ ngó nghiêng. Cách chọn khóa và vị trí đỗ an toàn được phân tích trong bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/).
 
 Buổi sáng, kiểm tra nhanh quanh xe trước khi nổ máy: dây điện, ống xăng, lốp đủ căng chưa. Nếu thấy bất thường, gọi ngay cho nơi cho thuê thay vì tự chạy một đoạn dài, vì sự cố nhỏ phát hiện sớm luôn rẻ hơn hỏng giữa đường.
 
@@ -51,4 +51,4 @@ Người thuê xe thêm một việc nữa: lưu sẵn cách liên hệ với n�
 
 ## Kết lại
 
-Gửi xe đêm khuya không khó nếu bạn biết trước chỗ nào nhận qua đêm, kiểm tra và khóa xe kỹ trước khi giao, và có phương án khi phải để ngoài đường. Chọn bãi có người trông, giữ vé, chụp vị trí và kiểm tra xe lại buổi sáng là bốn việc đáng biến thành thói quen. Các kỹ năng lái và giữ xe tổng quan cập nhật trong mục [kỹ năng](/blog/ky-nang/), nơi gom đầy đủ các tình huống giao thông quanh Hà Nội.
+Gửi xe đêm khuya không khó nếu bạn biết trước chỗ nào nhận qua đêm, kiểm tra và khóa xe kỹ trước khi giao, và có phương án khi phải để ngoài đường. Chọn bãi có người trông, giữ vé, chụp vị trí và kiểm tra xe lại buổi sáng là bốn việc đáng biến thành thói quen. Các kỹ năng lái và giữ xe tổng quan cập nhật trong mục [kỹ năng](/ky-nang/), nơi gom đầy đủ các tình huống giao thông quanh Hà Nội.

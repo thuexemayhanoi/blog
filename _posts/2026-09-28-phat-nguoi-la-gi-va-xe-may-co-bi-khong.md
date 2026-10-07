@@ -43,13 +43,13 @@ Cách đi đường an toàn nhất vẫn là tuân thủ đúng làn, đúng t�
 
 Nếu bạn thuê xe máy để đi lại ở Hà Nội, có ba việc nên làm để tránh rắc rối với phạt nguội. Thứ nhất, khi nhận xe, hỏi rõ cửa hàng về giấy tờ gắn với xe và giữ liên lạc, vì thông báo vi phạm gửi theo đăng ký chủ xe. Thứ hai, trong suốt thời gian thuê, đi đúng quy định như thể đi xe của chính mình. Thứ ba, sau khi trả xe, chủ động tra cứu tình trạng vi phạm của xe trong khoảng thời gian mình sử dụng, để kịp thời đối chiếu nếu có thông báo.
 
-Trách nhiệm với vi phạm thuộc về người điều khiển tại thời điểm xảy ra lỗi. Khi thuê xe có hợp đồng ghi rõ thời gian nhận và trả, việc đối chiếu trở nên đơn giản hơn nhiều. Mọi tình huống bất ngờ liên quan đến xe thuê có thể tham khảo thêm trong nhóm bài về [sự cố khi thuê xe](/blog/thue-xe/su-co/), còn tổng hợp các quy định giao thông hiện hành nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Trách nhiệm với vi phạm thuộc về người điều khiển tại thời điểm xảy ra lỗi. Khi thuê xe có hợp đồng ghi rõ thời gian nhận và trả, việc đối chiếu trở nên đơn giản hơn nhiều. Mọi tình huống bất ngờ liên quan đến xe thuê có thể tham khảo thêm trong nhóm bài về [sự cố khi thuê xe](/thue-xe/su-co/), còn tổng hợp các quy định giao thông hiện hành nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Cách xử lý khi nhận thông báo
 
 Nếu nhận được thông báo phạt nguội, bạn nên đối chiếu thời gian và địa điểm vi phạm với lịch trình của mình. Nếu đúng là lỗi của mình trong kỳ thuê xe, mang giấy tờ cá nhân đến cơ quan ghi trong thông báo để làm việc và nộp phạt đúng hạn. Nếu thời điểm vi phạm trùng lúc xe đã được trả lại, việc xuất trình hợp đồng thuê xe và biên lai trả xe sẽ giúp làm rõ người chịu trách nhiệm.
 
-Việc nộp phạt đúng hạn rất quan trọng, vì nộp trễ sẽ dẫn đến bị cưỡng chế và phát sinh thêm tiền chậm nộp theo quy định. Toàn bộ nhóm bài viết về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/) đi sâu vào từng tình huống cụ thể, từ tra cứu, xử lý thông báo cho đến nộp phạt đúng cách.
+Việc nộp phạt đúng hạn rất quan trọng, vì nộp trễ sẽ dẫn đến bị cưỡng chế và phát sinh thêm tiền chậm nộp theo quy định. Toàn bộ nhóm bài viết về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/) đi sâu vào từng tình huống cụ thể, từ tra cứu, xử lý thông báo cho đến nộp phạt đúng cách.
 
 ## Kết luận về phạt nguội xe máy
 

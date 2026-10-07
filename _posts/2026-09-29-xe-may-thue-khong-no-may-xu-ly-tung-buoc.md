@@ -41,7 +41,7 @@ Ban đêm, việc dừng càng cần thận trọng hơn: chọn nơi có đèn 
 
 Sau khi đã rà lại các bước cơ bản mà xe vẫn không nổ, đó là lúc gọi cửa hàng. Bạn nên cung cấp cho người nghe điện ba thông tin: dòng xe và biển số, tình trạng đề như thế nào (đề yếu, đề không tiếng, đề đều nhưng không bắt), và vị trí của bạn. Ba thông tin này giúp cửa hàng đoán đúng bệnh từ xa và hướng xử chính xác.
 
-Khi nhận xe, bạn nên lưu sẵn số cửa hàng trong điện thoại vì phần lớn hợp đồng thuê in số liên hệ. Cách cửa hàng hỗ trợ trong các tình huống trục trặc được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/). Nếu bạn đang gấp việc, hãy hỏi luôn về phương án đổi xe trong ngày, mỗi cửa hàng có cách làm riêng và bạn cần nghe trực tiếp từ họ.
+Khi nhận xe, bạn nên lưu sẵn số cửa hàng trong điện thoại vì phần lớn hợp đồng thuê in số liên hệ. Cách cửa hàng hỗ trợ trong các tình huống trục trặc được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/). Nếu bạn đang gấp việc, hãy hỏi luôn về phương án đổi xe trong ngày, mỗi cửa hàng có cách làm riêng và bạn cần nghe trực tiếp từ họ.
 
 Khi nói chuyện với cửa hàng, bạn nên hỏi rõ hai việc: hướng xử ngay tại chỗ và hình thức tiếp tục chuyến đi. Nhiều cửa hàng sẽ bố trí cách để bạn không phải bỏ dở việc, nhưng họ chỉ làm được khi bạn gọi sớm và nói rõ hoàn cảnh, thay vì im lặng tự lo rồi báo muộn.
 
@@ -49,7 +49,7 @@ Khi nói chuyện với cửa hàng, bạn nên hỏi rõ hai việc: hướng x
 
 Với xe thuê, nguyên tắc an toàn là không tự mở nắp máy, không rút bugi, không nối dây điện ắc quy tùy tiện. Bạn không biết chiếc xe này từng vá gì, thay gì, và thao tác sai có thể biến một lỗi nhỏ thành lỗi lớn, đồng thời làm mập mờ trách nhiệm giữa hai bên.
 
-Cũng không nên gọi thợ ngoài sửa rồi đòi cửa hàng chịu tiền: hợp đồng thuê thường quy định xử lý trục trặc theo kênh của cửa hàng. Về cơ chế bảo dưỡng định kỳ của xe máy, bạn có thể đọc thêm trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/).
+Cũng không nên gọi thợ ngoài sửa rồi đòi cửa hàng chịu tiền: hợp đồng thuê thường quy định xử lý trục trặc theo kênh của cửa hàng. Về cơ chế bảo dưỡng định kỳ của xe máy, bạn có thể đọc thêm trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/).
 
 ## Đề phòng ngay từ lúc nhận xe
 
@@ -57,4 +57,4 @@ Người thuê cẩn thận thường làm một thao tác nhỏ: bấm đề th
 
 Một thói quen nhỏ nữa: khi trả xe, bạn nên nói lại với cửa hàng những trục trặc nhỏ mình gặp trong kỳ thuê, như đề lâu nổ hay đèn nháy. Thông tin đó giúp cửa hàng chăm xe trước khách sau, và cũng là cách bạn giữ uy tín của mình với nơi mình hay thuê.
 
-Các đầu mục kiểm tra khi nhận và khi trả xe được tóm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/). Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp tình huống xe không nổ máy; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Các đầu mục kiểm tra khi nhận và khi trả xe được tóm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/). Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp tình huống xe không nổ máy; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

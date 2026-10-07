@@ -34,13 +34,13 @@ Khu vực quanh Hoàng thành có nhiều đoạn một chiều và đường nh
 
 Gần cổng chính trên phố Hoàng Diệu có khu vực gửi xe phục vụ khách tham quan, mở theo giờ của khu di tích; cuối tuần dễ kín chỗ từ giữa buổi sáng nên càng đi sớm càng chủ động. Phí gửi xe nhỏ, mang theo tiền lẻ. Với xe máy thuê, khi giao xe cho bãi nên khóa cổ, khóa từ nếu có, cất mũ vào cốp và chụp lại vị trí cũng như biển số xe để lấy nhanh và đối chiếu nếu cần. Cuối tuần, nếu bãi chính kín chỗ, các tuyến gần đó như Hoàng Hoa Thám còn có bãi gửi mở rộng, chỉ cần đi bộ thêm ít phút; nên hỏi trước người giữ xe về giờ đóng bãi để không bị gọn xe qua đêm ngoài ý muốn.
 
-Sau khi gửi xe, toàn bộ hành trình tham quan trong khuôn viên đều đi bộ; khoảng cách giữa các điểm trong khu không lớn nhưng mặt đường có đoạn gạch đá, nên chọn giày đế bệt. Kinh nghiệm gửi xe và di chuyển ở vùng lân cận được nêu tại trang [du lịch Hà Nội](/blog/du-lich/).
+Sau khi gửi xe, toàn bộ hành trình tham quan trong khuôn viên đều đi bộ; khoảng cách giữa các điểm trong khu không lớn nhưng mặt đường có đoạn gạch đá, nên chọn giày đế bệt. Kinh nghiệm gửi xe và di chuyển ở vùng lân cận được nêu tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Điểm chính trong khuôn viên
 
 Hành trình tham quan thường bắt đầu từ Đoan Môn, cổng chính hướng nam của hoàng thành xưa, rồi tới nền Điện Kính Thiên với hai rồng đá thừa kế từ thời Lê, khu Hậu Lâu phía góc đông bắc, và đoạn tường thành cùng cổng Bắc Ga mang kiến trúc thời Nguyễn. Phía sau là khu khai quật khảo cổ 18 Hoàng Diệu, nơi trưng bày các tầng di chỉ từ thời Thăng Long qua các triều đại. Với trọn vẹn hiểu biết, nên đi theo trình tự này để thấy rõ lớp lớp lịch sử: mỗi bước trong khuôn viên là một tầng sâu khác của Hà Nội.
 
-Một vòng tham quan chậm rãi cần khoảng một giờ rưỡi tới hai giờ. Nếu khởi hành từ Long Biên lúc tám giờ, tới nơi lúc chín, bạn vẫn kịp về qua khu Ba Đình ăn trưa, hoặc ghép thăm các điểm quanh Ba Đình theo gợi ý tại trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Một vòng tham quan chậm rãi cần khoảng một giờ rưỡi tới hai giờ. Nếu khởi hành từ Long Biên lúc tám giờ, tới nơi lúc chín, bạn vẫn kịp về qua khu Ba Đình ăn trưa, hoặc ghép thăm các điểm quanh Ba Đình theo gợi ý tại trang [kinh nghiệm đi xe máy](/kinh-nghiem/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về đi Hoàng thành bằng xe máy
 

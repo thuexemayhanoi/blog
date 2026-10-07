@@ -32,21 +32,21 @@ Với trình tự này, toàn bộ nửa ngày cần khoảng hai giờ rưỡi 
 
 ## Kinh nghiệm đi Cầu Long Biên: những việc nhỏ nên làm trước
 
-Trước khi khởi hành, ba việc đáng làm: xem trước dự báo thời tiết, vì khung cảnh trên cầu phụ thuộc trời và mưa làm mặt thép trơn; chuẩn bị tiền lẻ cho phí gửi xe ở hai đầu cầu; và kiểm tra đèn xe nếu định ở lại tới chạng vạng, vì đường về qua các trục lớn cần đèn sáng. Với khách thuê xe, danh mục giấy tờ xe bắt buộc được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/).
+Trước khi khởi hành, ba việc đáng làm: xem trước dự báo thời tiết, vì khung cảnh trên cầu phụ thuộc trời và mưa làm mặt thép trơn; chuẩn bị tiền lẻ cho phí gửi xe ở hai đầu cầu; và kiểm tra đèn xe nếu định ở lại tới chạng vạng, vì đường về qua các trục lớn cần đèn sáng. Với khách thuê xe, danh mục giấy tờ xe bắt buộc được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/).
 
-Về gửi xe: hai đầu cầu đều có bãi của dân cư; khi giao xe máy thuê, khóa cả khóa cổ lẫn khóa từ nếu xe có, cất mũ vào cốp và chụp lại vị trí xe. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/blog/du-lich/) và trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Về gửi xe: hai đầu cầu đều có bãi của dân cư; khi giao xe máy thuê, khóa cả khóa cổ lẫn khóa từ nếu xe có, cất mũ vào cốp và chụp lại vị trí xe. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/du-lich/) và trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Ghép chợ Long Biên và khu phố cổ
 
-Nếu bắt đầu từ bờ Long Biên, nên ghé chợ Long Biên ngay đầu buổi: khu chợ cũ với ba gian nhà dài bán đủ hàng từ hoa quả tới đồ cũ, là trải nghiệm rất Hà Nội và chỉ cách chân cầu vài phút đi bộ. Chợ họp mạnh từ sáng, nên ghép chợ trước rồi mới lên cầu là trình tự hợp lý. Khung lịch trình cho cả vùng Long Biên được tóm tắt tại trang [du lịch Hà Nội](/blog/du-lich/).
+Nếu bắt đầu từ bờ Long Biên, nên ghé chợ Long Biên ngay đầu buổi: khu chợ cũ với ba gian nhà dài bán đủ hàng từ hoa quả tới đồ cũ, là trải nghiệm rất Hà Nội và chỉ cách chân cầu vài phút đi bộ. Chợ họp mạnh từ sáng, nên ghép chợ trước rồi mới lên cầu là trình tự hợp lý. Khung lịch trình cho cả vùng Long Biên được tóm tắt tại trang [du lịch Hà Nội](/du-lich/).
 
-Bên bờ tây, sau khi xuống cầu, khu phố cổ với chợ Đồng Xuân và dãy phố Hàng ngắn là phần chốt buổi phù hợp: ăn nhẹ, mua quà rồi về. Với khách có nhiều ngày ở Hà Nội, nên đặt cầu Long Biên trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Bên bờ tây, sau khi xuống cầu, khu phố cổ với chợ Đồng Xuân và dãy phố Hàng ngắn là phần chốt buổi phù hợp: ăn nhẹ, mua quà rồi về. Với khách có nhiều ngày ở Hà Nội, nên đặt cầu Long Biên trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Đi lại bằng xe máy và những việc nhỏ nên làm trước
 
 Từ Bồ Đề, Long Biên, tới chân cầu chưa tới mười phút chạy xe, nên nửa ngày ở cầu gần như không tốn công di chuyển lớn, phần lớn thời gian dành cho đi bộ và ngắm. Mùa đông nên mang lớp mỏng vì gió sông trên cầu lạnh hơn hẳn ngoài phố che; mùa hè mang theo nước vì quang cảnh trên cầu không có bóng mát.
 
-Với khách đi cùng người lớn tuổi, nên đi bộ theo từng nhịp cầu, nghỉ ở các bãi rộng giữa nhịp thay vì đi một mạch; đoạn lên cầu có bậc và mối nối thép, giày đế bệt an toàn hơn giày cao gót. Tình huống giao thông đặc thù khi chạy xe hai bánh qua cầu được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Với khách đi cùng người lớn tuổi, nên đi bộ theo từng nhịp cầu, nghỉ ở các bãi rộng giữa nhịp thay vì đi một mạch; đoạn lên cầu có bậc và mối nối thép, giày đế bệt an toàn hơn giày cao gót. Tình huống giao thông đặc thù khi chạy xe hai bánh qua cầu được phân tích thêm trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Kết luận về nửa ngày ở cầu Long Biên
 

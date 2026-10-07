@@ -25,11 +25,11 @@ Cân nặng xe cũng ở mức dễ chấp nhận khi đẩy xe vào chỗ để
 
 Quãng đường đi làm phổ biến ở Hà Nội thường nằm trong bán kính năm đến mười cây số từ nhà tới công ty. Với khoảng cách này, xe ga nhỏ chạy êm, không quá nóng máy khi dừng đèn liên tục và dễ luồn lách giữa các dòng xe. Nếu quãng đường của bạn dài hơn, vượt mười lăm cây số mỗi chiều, nên cân nhắc thêm dòng xe có động cơ khỏe hơn hoặc xe số để bớt mỏi tay.
 
-Xe cũng tiết kiệm xăng ở mức ổn so với các dòng xe ga cùng nhóm, phù hợp ai đi cố định hai buổi mỗi ngày. Khi thuê xe dài ngày, bạn có thể tham khảo thêm [dòng Honda Vision](/blog/xe-may/honda-vision/) để hiểu tính năng của từng đời xe trước khi chốt.
+Xe cũng tiết kiệm xăng ở mức ổn so với các dòng xe ga cùng nhóm, phù hợp ai đi cố định hai buổi mỗi ngày. Khi thuê xe dài ngày, bạn có thể tham khảo thêm [dòng Honda Vision](/xe-may/honda-vision/) để hiểu tính năng của từng đời xe trước khi chốt.
 
 ## Khoang đồ đựng được gì khi đi làm
 
-Khoang đồ của xe đủ cho một cái mũ bảo hiểm nửa đầu, một túi nhỏ đựng ví, điện thoại và áo mưa. Nếu bạn mang cơm hộp hoặc một đôi giày thay đổi, hãy xếp thử trước khi thuê để biết xe có đáp ứng được thói quen của mình hay không. Với nhu cầu chở đồ nhiều hơn, bạn có thể đọc thêm [hướng dẫn cho đồ và hành lý khi đi xe máy](/blog/ky-nang/cho-do-va-hanh-ly/) để xếp đồ an toàn, tránh treo túi lỏng lẻo ở tay lái gây vướng khi quay đầu xe.
+Khoang đồ của xe đủ cho một cái mũ bảo hiểm nửa đầu, một túi nhỏ đựng ví, điện thoại và áo mưa. Nếu bạn mang cơm hộp hoặc một đôi giày thay đổi, hãy xếp thử trước khi thuê để biết xe có đáp ứng được thói quen của mình hay không. Với nhu cầu chở đồ nhiều hơn, bạn có thể đọc thêm [hướng dẫn cho đồ và hành lý khi đi xe máy](/ky-nang/cho-do-va-hanh-ly/) để xếp đồ an toàn, tránh treo túi lỏng lẻo ở tay lái gây vướng khi quay đầu xe.
 
 Nên chọn mũ bảo hiểm có quai đeo chắc, vì phần lớn va chạm nhẹ ở phố đều xảy ra ở đoạn đông người đi chậm. Giữ mũ trong khoang đồ khi vào công ty cũng giúp mũ sạch và bền hơn là treo ngoài cổng.
 
@@ -37,19 +37,19 @@ Nên chọn mũ bảo hiểm có quai đeo chắc, vì phần lớn va chạm nh
 
 Ở khu văn phòng, chỗ để xe thường chật chội vào giờ sáng. Bạn nên tới sớm vài phút để có vị trí dễ lấy ra, dựng xe thẳng và khóa cổ với khóa từ nếu xe có. Khi thuê xe, hãy hỏi rõ cửa hàng xe được trang bị những gì, ví dụ cửa hàng của chúng tôi ở Bồ Đề, Long Biên luôn nói rõ tình trạng xe trước khi bạn nhận.
 
-Kiểm tra nhanh áp suất lốp mỗi tuần cũng giúp xe êm và đỡ mòn lốp, bạn có thể xem thêm [cách kiểm tra áp suất lốp xe máy](/blog/xe-may/bao-duong-xe/) để làm đúng kỹ thuật. Ai đi làm bằng xe máy điện hoặc xe đạp điện thì tham khảo [xe đạp điện](/blog/xe-may/xe-dap-dien/) như một lựa chọn khác nếu quãng đường ngắn.
+Kiểm tra nhanh áp suất lốp mỗi tuần cũng giúp xe êm và đỡ mòn lốp, bạn có thể xem thêm [cách kiểm tra áp suất lốp xe máy](/xe-may/bao-duong-xe/) để làm đúng kỹ thuật. Ai đi làm bằng xe máy điện hoặc xe đạp điện thì tham khảo [xe đạp điện](/xe-may/xe-dap-dien/) như một lựa chọn khác nếu quãng đường ngắn.
 
 ## Chi phí thuê xe theo ngày hay theo tuần
 
 Giá thuê Vision thường được tính theo ngày, theo tuần hoặc theo tháng. Với người đi làm ổn định, gói tuần hoặc tháng thường có chi phí tính ra mỗi ngày thấp hơn so với thuê lẻ. Tại cửa hàng của Nguyễn Tú, giá thuê theo ngày của dòng này là 200.000 đồng, gói tuần từ 800.000 đến 1.000.000 đồng và gói tháng từ 1.800.000 đến 2.000.000 đồng. Tiền đặt cọc được xác nhận trực tiếp khi bạn làm thủ tục tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội.
 
-Cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày, bạn có thể gọi 0942 467 674 để hỏi tình trạng xe trước khi đến. Nếu bạn chưa chắc nên chọn dòng nào, đọc thêm [so sánh chọn loại xe máy](/blog/xe-may/chon-loai-xe/) hoặc xem tổng quan tại mục [xe máy](/blog/xe-may/).
+Cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày, bạn có thể gọi 0942 467 674 để hỏi tình trạng xe trước khi đến. Nếu bạn chưa chắc nên chọn dòng nào, đọc thêm [so sánh chọn loại xe máy](/xe-may/chon-loai-xe/) hoặc xem tổng quan tại mục [xe máy](/xe-may/).
 
 ## Những lưu ý khi thuê xe lần đầu
 
 Trước khi nhận xe, kiểm tra đèn, còi, gương và mức xăng, chụp lại các vết xước có sẵn để tránh tranh cãi khi trả xe. Hỏi rõ cửa hàng về quy trình bảo dưỡng giữa kỳ thuê, ví dụ thay nhớt định kỳ cho xe máy được ai chịu, bạn có thể xem bài về bảo dưỡng xe để hiểu rõ vấn đề này.
 
-Người mới đi xe ga lần đầu nên đọc [hỏi đáp cho người mới thuê xe](/blog/hoi-dap/hoi-dap-nguoi-moi/) trước khi đặt xe. Nếu bạn cần phương án đi lại lâu dài hơn, gói [thuê xe theo tháng](/blog/thue-xe/thue-thang/) thường hợp với người đi làm cố định.
+Người mới đi xe ga lần đầu nên đọc [hỏi đáp cho người mới thuê xe](/hoi-dap/hoi-dap-nguoi-moi/) trước khi đặt xe. Nếu bạn cần phương án đi lại lâu dài hơn, gói [thuê xe theo tháng](/thue-xe/thue-thang/) thường hợp với người đi làm cố định.
 
 ## An toàn khi chạy phố giờ cao điểm
 

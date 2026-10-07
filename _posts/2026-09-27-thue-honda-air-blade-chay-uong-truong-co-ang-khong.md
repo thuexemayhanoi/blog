@@ -19,7 +19,7 @@ Câu hỏi thuê air blade đường trường có đáng không thường xuấ
 
 Về khối máy, Air Blade dùng động cơ xe ga kiểu thể thao, phản ứng ga nhanh và giữ tốc độ ổn định trên đường thoáng, đủ cho hầu hết cung đường quanh Hà Nội như đi Ba Vì, Quán Sơn hoặc hồ Đồng Mô. Độ bền của máy không phải vấn đề nếu xe được bảo dưỡng đúng kỳ: nhớt đủ, dây curoa tốt và lốp chuẩn là ba điều kiện để xe ga chạy bền trên đường dài. Điều cần nhớ là xe ga nói chung không thiết kế để chạy hàng trăm cây số liên tục mỗi ngày như xe số; với người thuê chỉ chạy cung cuối tuần, giới hạn này gần như không chạm tới.
 
-Điểm mạnh riêng của Air Blade trên đường trường là phanh đĩa trước và khung chắc: xuống dốc dài bớt mỏi tay, vượt xe container trên quốc lộ nhanh và gọn, và vào cua quanh núi nhẹ hơn hẳn xe ga phổ thông. Chi tiết dòng xe được tổng hợp tại [chủ đề Honda Air Blade](/blog/xe-may/honda-air-blade/), còn các cung đi thực tế quanh Hà Nội nằm ở [cung đường phố Bắc](/blog/cung-duong/cung-duong-pho-bac/).
+Điểm mạnh riêng của Air Blade trên đường trường là phanh đĩa trước và khung chắc: xuống dốc dài bớt mỏi tay, vượt xe container trên quốc lộ nhanh và gọn, và vào cua quanh núi nhẹ hơn hẳn xe ga phổ thông. Chi tiết dòng xe được tổng hợp tại [chủ đề Honda Air Blade](/xe-may/honda-air-blade/), còn các cung đi thực tế quanh Hà Nội nằm ở [cung đường phố Bắc](/cung-duong/cung-duong-pho-bac/).
 
 ## Thoải mái và an toàn: điểm khác biệt với xe số
 
@@ -31,11 +31,11 @@ Về an toàn, hai dòng ngang nhau nếu người lái giữ nguyên tắc: mũ
 
 Giá thuê Air Blade theo ngày phổ biến 200.000 đồng, theo tuần khoảng 800.000 đồng, theo tháng khoảng 1.400.000 đồng. So với xe số phổ thông giá thuê ngày 150.000 đồng, chênh lệch theo ngày nhỏ, nhưng khoản xăng của xe ga cao hơn xe số trên cùng quãng đường dài, và phần này cộng dồn rõ trên cung trường. Kết luận chi phí: với cung một ngày khứ hồi hoặc hai ngày, chênh lệch tổng thường nhỏ; với người chạy đường trường đều đặn mỗi tuần, xe số tiết kiệm hơn rõ rệt.
 
-Vậy air blade có đáng thuê cho đường trường không? Nếu cung của bạn thiên về đường quanh co, dốc và cảnh đẹp, chạy tốc độ vừa phải: đáng. Nếu cung của bạn là quốc lộ thẳng dài, chạy liên tục nhiều giờ, ưu tiên xăng: xe số đáng hơn. Với người chưa chắc, hãy hỏi cửa hàng cho chạy thử hai dòng trên cùng một đoạn đường vắng để cảm nhận khác biệt trước khi chốt, hoặc đọc thêm các chia sẻ thực tế trong [chuyên mục kinh nghiệm](/blog/kinh-nghiem/) về trải nghiệm chạy cung quanh Hà Nội.
+Vậy air blade có đáng thuê cho đường trường không? Nếu cung của bạn thiên về đường quanh co, dốc và cảnh đẹp, chạy tốc độ vừa phải: đáng. Nếu cung của bạn là quốc lộ thẳng dài, chạy liên tục nhiều giờ, ưu tiên xăng: xe số đáng hơn. Với người chưa chắc, hãy hỏi cửa hàng cho chạy thử hai dòng trên cùng một đoạn đường vắng để cảm nhận khác biệt trước khi chốt, hoặc đọc thêm các chia sẻ thực tế trong [chuyên mục kinh nghiệm](/kinh-nghiem/) về trải nghiệm chạy cung quanh Hà Nội.
 
 ## Kỹ năng dành riêng cho xe ga trên đường trường
 
-Ba kỹ năng giúp xe ga chạy trường an toàn: thứ nhất, dùng ga mượt và giữ tốc độ đều, tránh ép máy liên tục ở tốc độ cao khiến máy nóng; thứ hai, xuống dốc để ga nhẹ và lấy phanh nhịp, không bóp phanh liên tục gây nóng phanh đĩa; thứ ba, nghỉ định kỳ, vừa cho người phục hồi vừa cho máy hạ nhiệt, nhất là mùa nóng. Kiểm tra áp suất lốp trước chuyến là việc nên làm, và tổng quan các dòng xe cho thuê nằm trong [chuyên mục xe máy](/blog/xe-may/) nếu bạn muốn đổi lựa chọn.
+Ba kỹ năng giúp xe ga chạy trường an toàn: thứ nhất, dùng ga mượt và giữ tốc độ đều, tránh ép máy liên tục ở tốc độ cao khiến máy nóng; thứ hai, xuống dốc để ga nhẹ và lấy phanh nhịp, không bóp phanh liên tục gây nóng phanh đĩa; thứ ba, nghỉ định kỳ, vừa cho người phục hồi vừa cho máy hạ nhiệt, nhất là mùa nóng. Kiểm tra áp suất lốp trước chuyến là việc nên làm, và tổng quan các dòng xe cho thuê nằm trong [chuyên mục xe máy](/xe-may/) nếu bạn muốn đổi lựa chọn.
 
 Người thuê cũng nên hỏi cửa hàng trước về quy định nếu xe trục trặc giữa cung: có hỗ trợ gì, chi phí ra sao, và quy trình báo sự cố thế nào. Đây là điểm mà xe thuê khác hẳn xe nhà: mọi sự cố giữa kỳ đều cần người chịu trách nhiệm rõ ràng, và hỏi trước luôn rẻ hơn tranh luận sau. Người thuê cũng nên hỏi cách tính ngày: một ngày tính theo hai mươi bốn giờ hay theo ngày lịch, vì hai cách tính cho hóa đơn khác nhau rõ với chuyến thuê hai ba ngày.
 

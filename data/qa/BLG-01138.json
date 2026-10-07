@@ -52,5 +52,5 @@
   "result": "PASS",
   "grade": "EXCELLENT",
   "published_at": "2026-10-03T09:02:05+00:00",
-  "restamped_note": "re-stamp content_sha256 sau repair front matter BLG-01138 (bổ sung ] bị thiếu ở tags — YAML hỏng khiến bài render sai URL /blog/2026/10/03/2026-10-03-.../ và breadcrumb JSON-LD phát sinh https://thuexemayhanoi.github.io/blog// → INTERNAL_404 làm FULL link check FAIL; kết quả/điểm không đổi)"
+  "restamped_note": "re-stamp content_sha256 sau repair front matter BLG-01138 (bổ sung ] bị thiếu ở tags — YAML hỏng khiến bài render sai URL /2026/10/03/2026-10-03-.../ và breadcrumb JSON-LD phát sinh https://blog.thuexemaynguyentu.com// → INTERNAL_404 làm FULL link check FAIL; kết quả/điểm không đổi)"
 }

@@ -16,7 +16,7 @@ writer: W1
 
 Văn Miếu Quốc Tử Giám là điểm đến không thể bỏ của khách đến Hà Nội lần đầu, và câu hỏi gửi xe máy khi thăm Văn Miếu thường phát sinh ngay khi bạn hoạch định lộ trình, vì khu di tích nằm giữa các tuyến phố đông của quận Đống Đa, nơi chỗ đỗ xe quanh giờ tham quan luôn cạnh tranh. Khác với các điểm ở phố cổ, quanh Văn Miếu có không gian rộng hơn và các bãi gửi xe hoạt động theo khung giờ tham quan, nên nếu biết cách chọn điểm và khung giờ, việc đỗ xe máy thuê ở đây là bài toán dễ hơn vẻ ngoài.
 
-Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/), các điểm tham quan dạng bảo tàng và di tích khác trong phần [bảo tàng](/blog/du-lich/bao-tang/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/), các điểm tham quan dạng bảo tàng và di tích khác trong phần [bảo tàng](/du-lich/bao-tang/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Khu vực đỗ xe Văn Miếu Quốc Tử Giám quen thuộc
 

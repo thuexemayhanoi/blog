@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy theo tuần thường đồng nghĩa với lịch trình dài: đi làm, đi học, đi chơi xuyên suốt bảy ngày. Câu hỏi đặt ra là thuê xe máy một tuần xe dự phòng có được tính vào hợp đồng không, để phòng khi xe chính gặp sự cố giữa tuần. Câu trả lời ngắn: tùy tiệm, không có quy tắc chung nào bắt buộc, nên cách chắc nhất là hỏi trực tiếp và chốt bằng văn bản. Bài viết này giúp bạn hiểu xe dự phòng khi thuê tuần thường được xử lý thế nào và nên thương lượng ra sao.
 
-Thông tin về các gói thuê theo tuần nằm trong trang [thuê xe máy](/blog/thue-xe/), kèm hướng dẫn thủ tục và đặt cọc.
+Thông tin về các gói thuê theo tuần nằm trong trang [thuê xe máy](/thue-xe/), kèm hướng dẫn thủ tục và đặt cọc.
 
 ## Vì sao xe dự phòng là chuyện đáng hỏi khi thuê tuần
 
@@ -40,7 +40,7 @@ Câu thứ năm quan trọng nhất, vì lời hứa miệng lúc bán gói dễ
 
 Ngoài việc dựa vào tiệm, có cách tự chủ hơn. Nếu lịch trình trong tuần quá quan trọng để dừng, bạn có thể thuê hai xe ngay từ đầu cho nhóm hai người trở lên, mỗi người một xe, và khi một xe gặp sự cố thì còn một xe dùng chung trong lúc chờ. Với khách ở gần tiệm, việc chọn điểm thuê gần nơi ở hoặc gần chỗ làm cũng là một lớp dự phòng: xe hỏng sáng sớm, bạn đi bộ mười phút là có xe khác, nhanh hơn chờ giao xe từ quận khác.
 
-Cũng nên nhớ rằng phần lớn sự cố trong tuần thuê đều là lỗi nhỏ: mòn lốp, yếu acquy, dây cước. Những lỗi này thường được xử lý trong ngày nếu bạn thông báo sớm, nên thói quen kiểm tra xe mỗi sáng trước khi đi, nghe tiếng máy, bóp phanh, xem áp suất lốp, chính là biện pháp dự phòng rẻ nhất. Phần hướng dẫn [xe máy](/blog/xe-may/) có thêm cách phát hiện dấu hiệu hao mòn; phần [hỏi đáp](/blog/hoi-dap/) tổng hợp nhiều tình huống sự cố thực tế và cách xử lý.
+Cũng nên nhớ rằng phần lớn sự cố trong tuần thuê đều là lỗi nhỏ: mòn lốp, yếu acquy, dây cước. Những lỗi này thường được xử lý trong ngày nếu bạn thông báo sớm, nên thói quen kiểm tra xe mỗi sáng trước khi đi, nghe tiếng máy, bóp phanh, xem áp suất lốp, chính là biện pháp dự phòng rẻ nhất. Phần hướng dẫn [xe máy](/xe-may/) có thêm cách phát hiện dấu hiệu hao mòn; phần [hỏi đáp](/hoi-dap/) tổng hợp nhiều tình huống sự cố thực tế và cách xử lý.
 
 ## So sánh giữa các điểm thuê khi đi cùng một câu hỏi
 

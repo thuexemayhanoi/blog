@@ -46,4 +46,4 @@ Về khung giờ: khung vàng của tuyến là từ tờ mờ sáng đến kho�
 
 Kiểm tra đèn, phanh, lốp và xăng từ tối hôm trước là cách duy nhất chắc chắn cho chuyến sớm sáng, vì hàng sửa xe ven đường giờ đó chưa mở. Mặc đủ kín: sớm sáng vùng ven lạnh hơn trong phố rõ rệt, gió trục thẳng và đều, tay lái nhanh tê nếu đi thiếu áo gió. Người chạy thử xe mới thuê nên thử phanh và ga vài lần trong đoạn đầu, nghe tiếng máy ở vòng tua thấp và cao, và trả xe đúng giờ hẹn để giữ lịch cho chính mình.
 
-Các kinh nghiệm chạy xe đường trường chung tổng hợp ở mục [kinh nghiệm](/blog/kinh-nghiem/). Lộ trình chạy thử khác trong nội thành gom trong chuyên mục [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/), còn trang chủ mục [cung đường](/blog/cung-duong/) dành cho các tuyến chạy theo từng vùng quanh Hà Nội.
+Các kinh nghiệm chạy xe đường trường chung tổng hợp ở mục [kinh nghiệm](/kinh-nghiem/). Lộ trình chạy thử khác trong nội thành gom trong chuyên mục [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/), còn trang chủ mục [cung đường](/cung-duong/) dành cho các tuyến chạy theo từng vùng quanh Hà Nội.

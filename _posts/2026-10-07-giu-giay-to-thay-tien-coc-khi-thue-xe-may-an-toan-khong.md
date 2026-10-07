@@ -73,8 +73,8 @@ Hai bên cùng kiểm tra hiện trạng xe và thương lượng bồi thườn
 
 ### Nên chọn giữ giấy tờ hay tiền cọc khi thuê theo tuần?
 
-Với thuê theo tuần, khoản tiền cọc thường không quá lớn nên đặt cọc bằng tiền kèm biên nhận là minh bạch nhất. Nếu không tiện, hãy để giấy phép lái xe và giữ mọi xác nhận bằng tin nhắn. Bạn có thể xem thêm về [thuê xe máy theo tuần](/blog/thue-xe/thue-tuan/) hoặc [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) để so sánh thời hạn phù hợp.
+Với thuê theo tuần, khoản tiền cọc thường không quá lớn nên đặt cọc bằng tiền kèm biên nhận là minh bạch nhất. Nếu không tiện, hãy để giấy phép lái xe và giữ mọi xác nhận bằng tin nhắn. Bạn có thể xem thêm về [thuê xe máy theo tuần](/thue-xe/thue-tuan/) hoặc [thuê xe máy theo ngày](/thue-xe/thue-ngay/) để so sánh thời hạn phù hợp.
 
 ## Kết luận
 
-Giữ giấy tờ thay tiền cọc thuê xe là hình thức phổ biến và có thể an toàn nếu bạn thuê ở cơ sở có địa chỉ rõ ràng, có biên nhận và chụp ảnh lưu vết. Giấy tờ tốt nhất để giao là giấy phép lái xe, còn căn cước công dân nên giữ lại nếu có lựa chọn khác. Khi chuẩn bị thuê xe máy tại Hà Nội, bạn nên hỏi trước quy định cọc và giấy tờ của cửa hàng để chủ động lựa chọn, và tham khảo thêm [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) trước khi đến.
+Giữ giấy tờ thay tiền cọc thuê xe là hình thức phổ biến và có thể an toàn nếu bạn thuê ở cơ sở có địa chỉ rõ ràng, có biên nhận và chụp ảnh lưu vết. Giấy tờ tốt nhất để giao là giấy phép lái xe, còn căn cước công dân nên giữ lại nếu có lựa chọn khác. Khi chuẩn bị thuê xe máy tại Hà Nội, bạn nên hỏi trước quy định cọc và giấy tờ của cửa hàng để chủ động lựa chọn, và tham khảo thêm [thủ tục thuê xe máy](/thue-xe/thu-tuc/) trước khi đến.

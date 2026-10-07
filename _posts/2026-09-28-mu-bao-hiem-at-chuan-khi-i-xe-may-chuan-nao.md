@@ -30,7 +30,7 @@ Trước khi xuống tiền, bốn dấu hiệu nên kiểm tra:
 - Lớp lót trong liền lạc, không xô lệch; vỏ mũ không nứt, không biến dạng, không có dấu hiệu đã từng chịu va đập mạnh.
 - Kích cỡ vừa đầu người đội: mũ rộng bị xê dịch che mắt khi đi, mũ chật gây đau sau chặng dài, cả hai đều làm giảm hiệu quả bảo vệ.
 
-Mũ đã qua tai nạn hoặc rơi từ độ cao lớn nên thay mới dù nhìn còn nguyên, vì lớp hấp thụ xung lực bên trong có thể đã mất khả năng làm việc. Kinh nghiệm chọn mũ cho người ngồi sau và việc mang mũ riêng khi đi xe thuê đã được chia sẻ trong bài [mũ bảo hiểm của riêng bạn khi đi xe thuê](/blog/chia sẻ/2026/09/19/mu-bao-hiem-rieng-khi-di-xe-thue/).
+Mũ đã qua tai nạn hoặc rơi từ độ cao lớn nên thay mới dù nhìn còn nguyên, vì lớp hấp thụ xung lực bên trong có thể đã mất khả năng làm việc. Kinh nghiệm chọn mũ cho người ngồi sau và việc mang mũ riêng khi đi xe thuê đã được chia sẻ trong bài [mũ bảo hiểm của riêng bạn khi đi xe thuê](/chia sẻ/2026/09/19/mu-bao-hiem-rieng-khi-di-xe-thue/).
 
 ## Hệ quả pháp lý khi đội mũ không đúng
 
@@ -47,7 +47,7 @@ Với khách thuê xe máy, hai việc nên thực hiện:
 
 Một vài lưu ý nhỏ giúp chiếc mũ phục vụ bạn lâu: không để mũ nơi nắng gắt sau cửa kính vì nhiệt độ làm chai lớp hấp thụ xung lực, không treo mũ ở gương chiếu hậu rồi để rơi liên tục, và lau lớp lót định kỳ để mùi dễ chịu khi đội mỗi ngày. Chiếc mũ đạt chuẩn chỉ bảo vệ khi nó còn trong tình trạng đúng như khi xuất xưởng, nên những thói quen bảo quản đơn giản này đáng giá hơn mọi lời quảng cáo về độ bền.
 
-Các kỹ năng cơ bản khi vận hành xe máy an toàn được tổng hợp trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), nhóm chủ đề quy định giao thông nằm trong trang [nồng độ cồn và quy định giao thông](/blog/an-toan-phap-ly/noi-do-cong/), còn các chủ đề pháp lý khác được gộp trong trang [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Các kỹ năng cơ bản khi vận hành xe máy an toàn được tổng hợp trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), nhóm chủ đề quy định giao thông nằm trong trang [nồng độ cồn và quy định giao thông](/an-toan-phap-ly/noi-do-cong/), còn các chủ đề pháp lý khác được gộp trong trang [an toàn và pháp lý](/an-toan-phap-ly/).
 
 ## Kết luận về mũ bảo hiểm đạt chuẩn
 

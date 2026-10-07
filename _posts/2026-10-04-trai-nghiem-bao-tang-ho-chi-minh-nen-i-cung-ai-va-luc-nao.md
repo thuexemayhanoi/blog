@@ -42,9 +42,9 @@ Không ít du khách bất ngờ trước những tư liệu về hành trình v
 
 ## Kết hợp lịch trình trong cùng một ngày
 
-Vì bảo tàng nằm cạnh Lăng Chủ tịch Hồ Chí Minh và Chùa Một Cột, nhiều người ghép cả ba điểm vào một buổi sáng: đi viếng lăng trước với khung giờ mở cửa sớm, sau đó sang chùa rồi vào bảo tàng khi nắng lên. Buổi chiều, bạn có thể rẽ về phía hồ Tây hoặc khu phố cổ, đều di chuyển nhanh bằng xe máy. Với lịch trình nhiều ngày, trang [điểm du lịch Hà Nội](/blog/du-lich/diem-den/) có thêm nhiều gợi ý xếp điểm theo khu vực.
+Vì bảo tàng nằm cạnh Lăng Chủ tịch Hồ Chí Minh và Chùa Một Cột, nhiều người ghép cả ba điểm vào một buổi sáng: đi viếng lăng trước với khung giờ mở cửa sớm, sau đó sang chùa rồi vào bảo tàng khi nắng lên. Buổi chiều, bạn có thể rẽ về phía hồ Tây hoặc khu phố cổ, đều di chuyển nhanh bằng xe máy. Với lịch trình nhiều ngày, trang [điểm du lịch Hà Nội](/du-lich/diem-den/) có thêm nhiều gợi ý xếp điểm theo khu vực.
 
-Nếu bạn quan tâm cả các bảo tàng khác của thủ đô như bảo tàng lịch sử quân sự hay các viện bảo tàng chuyên đề, chuyên mục [bảo tàng ở Hà Nội](/blog/du-lich/bao-tang/) tổng hợp thông tin để bạn chọn điểm phù hợp với sở thích của nhóm. Các gợi ý chung về chuyến đi Hà Nội được ghi trong chuyên mục [du lịch Hà Nội](/blog/du-lich/).
+Nếu bạn quan tâm cả các bảo tàng khác của thủ đô như bảo tàng lịch sử quân sự hay các viện bảo tàng chuyên đề, chuyên mục [bảo tàng ở Hà Nội](/du-lich/bao-tang/) tổng hợp thông tin để bạn chọn điểm phù hợp với sở thích của nhóm. Các gợi ý chung về chuyến đi Hà Nội được ghi trong chuyên mục [du lịch Hà Nội](/du-lich/).
 
 ## Di chuyển và gửi xe
 
@@ -52,7 +52,7 @@ Xe máy vẫn là phương tiện linh hoạt nhất để đến khu Ba Đình.
 
 Về gửi xe, sáng sớm bãi còn rộng, bạn dễ chọn chỗ có bóng cây; đầu giờ chiều cũng thuận tiện vì khách thưa dần. Nếu đến vào khung nghỉ giữa trưa, một số quán nước quanh phố Ngọc Hà là chỗ chờ hợp lý cho những ai đi cùng trẻ nhỏ hoặc người lớn tuổi. Luôn khóa xe kỹ và mang theo đồ đạc giá trị khi vào tham quan.
 
-Người không quen tự lái có thể đi các tuyến xe buýt dừng gần Quảng trường Ba Đình, sau đó đi bộ đến bảo tàng. Khách ở xa cần phương tiện có thể tham khảo [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) để chuẩn bị giấy tờ trước, tránh mất thời gian ở khâu nhận xe.
+Người không quen tự lái có thể đi các tuyến xe buýt dừng gần Quảng trường Ba Đình, sau đó đi bộ đến bảo tàng. Khách ở xa cần phương tiện có thể tham khảo [thuê xe máy theo ngày](/thue-xe/thue-ngay/) để chuẩn bị giấy tờ trước, tránh mất thời gian ở khâu nhận xe.
 
 ## Vài lưu ý nhỏ
 

@@ -44,7 +44,7 @@ Bãi trọ quanh khu Bồ Đề, Trâu Quỳ thường có chỗ để xe trong 
 
 Giữa mùa về quê, chiếc xe thuê có hai số phận: theo người về quê hoặc nằm lại Hà Nội. Cả hai đều đúng trong từng hoàn cảnh. Quê gần, dưới ba mươi cây số, mang xe về tiện đi lại việc nhà. Quê xa trôi qua phà hoặc đường trường dài, cân nhắc gửi xe lại chỗ trọ và đi xe khách: phần thuê những ngày không dùng nhiều chỗ cho thuê gom lại thành gói ngày dài có phần nhẹ hơn ngày lẻ — hỏi thẳng khi chốt, và ghi rõ vào biên nhận.
 
-Người thợ làm nhiều công trình trong năm nên xem gói dài trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/); thủ tục nhận trả xe gom trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/); tổng quan các gói thuê nằm trong trang [thuê xe máy](/blog/thue-xe/); kinh nghiệm theo từng nhóm người dùng gom trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/); thêm các mẹo chạy xe phố quanh Hà Nội nằm rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Người thợ làm nhiều công trình trong năm nên xem gói dài trong trang [thuê xe theo tháng](/thue-xe/thue-thang/); thủ tục nhận trả xe gom trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/); tổng quan các gói thuê nằm trong trang [thuê xe máy](/thue-xe/); kinh nghiệm theo từng nhóm người dùng gom trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/); thêm các mẹo chạy xe phố quanh Hà Nội nằm rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 ## Trả xe và lên trở lại công trường
 

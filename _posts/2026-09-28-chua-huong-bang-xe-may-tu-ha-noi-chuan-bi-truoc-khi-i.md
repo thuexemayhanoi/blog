@@ -29,7 +29,7 @@ Lễ hội Chùa Hương khai hội vào ngày mùng sáu tháng Giêng âm lị
 
 ## Thời tiết, đường ướt và khung giờ an toàn
 
-Nồm ẩm tháng Giêng tháng Hai làm mặt đường ẩm nhựa và bốc sương mù sớm; các kỹ năng chạy đường ướt và sương mù gom ở bài [Thời tiết và đường xá](/blog/ky-nang/thoi-tiet-va-duong-sa/), khách lần đầu chạy cung huyện nên đọc trước. Mưa nhỏ mùa xuân hay rơi nhẹ nhưng kéo dài, áo mưa là vật bất ly thân; sương dính kính làm lệch tầm nhìn. Chiều về, đoạn quốc lộ 21B ngược dòng đông xe; khách bật đèn cả sáng chiều, không vượt trên đường một làn, và dừng hẳn khi mưa to. Trời nồm cũng làm má phanh ướt và mờ nhạy hơn ngày khô, khách phanh sớm và nhẹ hơn bình thường.
+Nồm ẩm tháng Giêng tháng Hai làm mặt đường ẩm nhựa và bốc sương mù sớm; các kỹ năng chạy đường ướt và sương mù gom ở bài [Thời tiết và đường xá](/ky-nang/thoi-tiet-va-duong-sa/), khách lần đầu chạy cung huyện nên đọc trước. Mưa nhỏ mùa xuân hay rơi nhẹ nhưng kéo dài, áo mưa là vật bất ly thân; sương dính kính làm lệch tầm nhìn. Chiều về, đoạn quốc lộ 21B ngược dòng đông xe; khách bật đèn cả sáng chiều, không vượt trên đường một làn, và dừng hẳn khi mưa to. Trời nồm cũng làm má phanh ướt và mờ nhạy hơn ngày khô, khách phanh sớm và nhẹ hơn bình thường.
 
 ## Gửi xe, đi thuyền và giữ đồ trên chùa
 
@@ -43,4 +43,4 @@ Chuyến Chùa Hương có nhiều chặng chuyển tiếp: xe, thuyền, leo b�
 
 Chiều về trùng với giờ tan lễ là lúc đường đông nhất; khách về bằng đúng tuyến sáng, không mạo hiểm tắt đường nhỏ lạ. Đoạn ngã ba Ba La buổi chiều đèn đỏ dài, khách giữ khoảng cách giữa các xe, không chen khe. Về tới Hà Đông là đoạn cuối, đường phố đông giờ tan tầm, khách chấp nhận đi chậm và ăn tối nhẹ ở Hà Đông nếu đói, không chạy về khi mắt đã mỏi. Tổng thời gian về chừng hai tiếng kể cả nghỉ; khách xem dự báo mưa trước khi xuất phát về để chọn khung trời khô ráo.
 
-Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Cách chọn điểm dừng nghỉ chân cho các cung trong ngày gom ở bài [Điểm nghỉ chân trên đường đến Tràng An](/blog/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-trang-an/); các cung cuối tuần khác gom ở trang [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Cách chọn điểm dừng nghỉ chân cho các cung trong ngày gom ở bài [Điểm nghỉ chân trên đường đến Tràng An](/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-trang-an/); các cung cuối tuần khác gom ở trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) và trang chủ đề [cung đường & hành trình](/cung-duong/).

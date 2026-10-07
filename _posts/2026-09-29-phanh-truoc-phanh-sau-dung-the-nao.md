@@ -45,6 +45,6 @@ Với xe thuê, khách không tự chỉnh cặp phanh được, nên việc duy
 
 Khách đi đôi cùng bạn cũng nên thống nhất tín hiệu phanh, để người sau biết trước mỗi lần giảm tốc của xe dẫn đầu. Về lâu dài, thói quen nhả ga trước phanh và giữ khoảng cách với xe phía trước giúp cặp phanh bền hơn hẳn, và cũng là kỹ năng nền cho các tình huống khó hơn.
 
-Khách muốn luyện từ đầu có thể xem thêm các bài nền tảng trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), còn khách lần đầu thuê xe nên đọc lướt kinh nghiệm nhận xe trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/blog/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/) để biết mình được quyền đòi hỏi gì lúc nhận xe.
+Khách muốn luyện từ đầu có thể xem thêm các bài nền tảng trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), còn khách lần đầu thuê xe nên đọc lướt kinh nghiệm nhận xe trong bài [kinh nghiệm thuê xe máy tại Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/) để biết mình được quyền đòi hỏi gì lúc nhận xe.
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe có phanh đã kiểm tra, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe có phanh đã kiểm tra, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

@@ -47,12 +47,12 @@ Tại bãi ven hồ, nước uống là thứ đáng mang đủ. Không có hàn
 
 Ven hồ, chỗ đỗ là dải đất nén hoặc bãi cỏ. Chống xe trên cỏ cần chú ý mặt đất mềm, chống chân dễ lún, nên nghiêng xe nhiều hơn bình thường và thử đẩy nhẹ một cái. Không đỗ sát mép nước: mực nước thay đổi theo mùa, mép đất ẩm dễ sụt, và đỗ xa thêm vài bước chân không mất mát gì.
 
-Đồ trên xe nên mang theo hoặc giấu kín khi rời xe đi dạo quanh bãi. Túi, áo, mũ để trên yên là thứ gây chú ý nhất, kể cả ở nơi vắng người. Nguyên tắc gói đồ và giữ xe ở điểm dừng đã được tách trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), bạn nên đọc trước chuyến đi.
+Đồ trên xe nên mang theo hoặc giấu kín khi rời xe đi dạo quanh bãi. Túi, áo, mũ để trên yên là thứ gây chú ý nhất, kể cả ở nơi vắng người. Nguyên tắc gói đồ và giữ xe ở điểm dừng đã được tách trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), bạn nên đọc trước chuyến đi.
 
 ## Vài lưu ý nhỏ để buổi nghỉ trọn vẹn
 
-Người đi bằng xe máy thuê nên mang giấy tờ bản gốc, vì trục đại lộ có chốt kiểm tra định kỳ và phần đường tỉnh lộ đôi lúc cũng có. Quy định chi tiết khi chạy xe đường trường nằm trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc trước là đủ cho chuyến ngắn.
+Người đi bằng xe máy thuê nên mang giấy tờ bản gốc, vì trục đại lộ có chốt kiểm tra định kỳ và phần đường tỉnh lộ đôi lúc cũng có. Quy định chi tiết khi chạy xe đường trường nằm trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc trước là đủ cho chuyến ngắn.
 
-Về mùa mưa, các mốc nghỉ nên linh hoạt: dừng ít trên đường để tranh mưa, nhưng nếu mưa tới sớm thì tránh trong quán tại Quốc Oai còn hơn chạy ướt tới hồ. Cách đọc dự báo và xử lý đường sá từng mùa được viết trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), hợp với ai thường đi kiểu bốc đồng.
+Về mùa mưa, các mốc nghỉ nên linh hoạt: dừng ít trên đường để tranh mưa, nhưng nếu mưa tới sớm thì tránh trong quán tại Quốc Oai còn hơn chạy ướt tới hồ. Cách đọc dự báo và xử lý đường sá từng mùa được viết trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), hợp với ai thường đi kiểu bốc đồng.
 
-Suối Tơ chỉ là một chặng trong chuỗi cung đường phía tây, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm theo từng lịch. Nghỉ chân đường đi Suối Tơ tuy là chuyện nhỏ, nhưng xếp đúng mốc thì một buổi ngắn cũng đủ cho cảm giác đi xa thật sự.
+Suối Tơ chỉ là một chặng trong chuỗi cung đường phía tây, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm theo từng lịch. Nghỉ chân đường đi Suối Tơ tuy là chuyện nhỏ, nhưng xếp đúng mốc thì một buổi ngắn cũng đủ cho cảm giác đi xa thật sự.

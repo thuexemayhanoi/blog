@@ -40,7 +40,7 @@ Giả sử trên thân xe xuất hiện một vết xước không có trong ả
 
 Nếu bạn tin vết đã có nhưng không được ghi lúc nhận do lướt qua, bài học là của lần sau chứ không giúp được lần này, vì bằng chứng chỉ có ảnh ngày nhận. Vì vậy nhấn một lần nữa: chất lượng của buổi trả phụ thuộc gần như hoàn toàn vào chất lượng của buổi nhận. Người đã ghi và chụp đủ lúc nhận thì buổi trả gần như không có gì để cãi.
 
-Với những hư hỏng thuộc phần vận hành, như xẹp lốp hay khô xích giữa kỳ, việc bạn có báo kịp thời cho cửa hàng hay không sẽ quyết định mức trách nhiệm. Phần [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) có bản tóm tắt các tình huống nên báo ngay, đáng đọc cả khi kỳ thuê của bạn đang êm ru.
+Với những hư hỏng thuộc phần vận hành, như xẹp lốp hay khô xích giữa kỳ, việc bạn có báo kịp thời cho cửa hàng hay không sẽ quyết định mức trách nhiệm. Phần [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/) có bản tóm tắt các tình huống nên báo ngay, đáng đọc cả khi kỳ thuê của bạn đang êm ru.
 
 ## Đóng kết biên nhận và nhận lại giấy tờ
 
@@ -54,6 +54,6 @@ Về khung giờ, cửa hàng hoạt động từ chín giờ sáng đến chín
 
 Nếu bạn nhận xe tại một điểm và trả ở điểm khác, hoặc cửa hàng cho trả qua đầu mối trung gian, mọi bước kiểm chứng vẫn phải được thay bằng bằng chứng số: gọi video để chủ cửa hàng thấy xe trực tiếp, chụp đủ bộ ảnh có tem thời gian, và đóng kết qua tin nhắn văn bản thay vì miệng. Lưu lại toàn bộ chuỗi tin nhắn đó. Với phương án này, điều khoản phải được nói rõ ngay từ lúc thuê, vì không phải nơi nào cũng nhận trả xe ở điểm khác.
 
-Sau khi mọi thứ khép lại, việc duy nhất còn lại là tự nhìn lại kỳ thuê của mình: xe có ổn không, thủ tục có mượt không. Những trải nghiệm đó là dữ liệu cho lần thuê sau. Quy trình chuẩn cho cả vòng nhận và trả được tổng hợp tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), phần hướng dẫn từng bước cho người mới thuê nằm trong [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), và bối cảnh chung của loại hình dịch vụ này nằm trong cẩm nang [thuê xe máy](/blog/thue-xe/).
+Sau khi mọi thứ khép lại, việc duy nhất còn lại là tự nhìn lại kỳ thuê của mình: xe có ổn không, thủ tục có mượt không. Những trải nghiệm đó là dữ liệu cho lần thuê sau. Quy trình chuẩn cho cả vòng nhận và trả được tổng hợp tại trang [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), phần hướng dẫn từng bước cho người mới thuê nằm trong [thủ tục thuê xe](/thue-xe/thu-tuc/), và bối cảnh chung của loại hình dịch vụ này nằm trong cẩm nang [thuê xe máy](/thue-xe/).
 
 Trả xe chuẩn không phải nghi thức thừa, mà là cách bạn đóng một giao dịch cho xong, giữ quan hệ tốt cho lần thuê kế tiếp trên địa bàn Hà Nội.

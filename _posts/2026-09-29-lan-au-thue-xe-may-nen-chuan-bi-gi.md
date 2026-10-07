@@ -29,7 +29,7 @@ Câu hỏi đầu tiên là về chi phí: giá thuê ngày tính từ khi nào 
 
 Câu hỏi thứ hai là về sự cố: nếu xe hỏng giữa đường hoặc bị thủng lốp thì liên hệ ai, xử lý theo trình tự nào. Đây là câu hỏi quan trọng với người mới, vì lần đầu gặp sự cố bạn sẽ không tự biết nên gọi thợ bên đường hay gọi cửa hàng. Cách tốt là hỏi ngay từ đầu để có số hỗ trợ và nguyên tắc xử lý rõ ràng, thay vì lúc gặp chuyện mới loay hoay.
 
-Câu hỏi thứ ba là về giờ nhận và trả xe, cùng quy định nếu bạn muốn trả sớm hoặc trễ giờ. Mọi cửa hàng đều có giờ hoạt động nhất định, và nếu lịch trình của bạn rơi vào khung giờ đặc biệt thì nên báo trước để hai bên thống nhất phương án. Quy trình thuê xe chi tiết đã được tổng hợp trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) để bạn xem trước khi đi, và các câu hỏi của người mới lần đầu nằm gọn trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/).
+Câu hỏi thứ ba là về giờ nhận và trả xe, cùng quy định nếu bạn muốn trả sớm hoặc trễ giờ. Mọi cửa hàng đều có giờ hoạt động nhất định, và nếu lịch trình của bạn rơi vào khung giờ đặc biệt thì nên báo trước để hai bên thống nhất phương án. Quy trình thuê xe chi tiết đã được tổng hợp trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/) để bạn xem trước khi đi, và các câu hỏi của người mới lần đầu nằm gọn trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/).
 
 ## Lúc nhận xe lần đầu nên kiểm tra những gì
 
@@ -45,4 +45,4 @@ Trả xe đúng giờ đã hẹn và ở đúng trạng thái đã thỏa thuậ
 
 Hoàn tất các bước thủ tục còn lại: nhận lại giấy tờ hoặc tiền cọc đã đặt, và hỏi cửa hàng xem hồ sơ thuê của bạn có cần lưu lại để thuê lần sau nhanh hơn không. Nhiều người sau lần thuê đầu tiên chọn thuê dài hạn khi nhu cầu đi lại ổn định, và khi đó những gì bạn đã làm đúng từ lần đầu, từ việc hỏi rõ giá đến việc giữ xe cẩn thận, đều giúp các lần sau càng đơn giản hơn.
 
-Nếu trong lần đầu bạn vẫn còn băn khoăn về loại xe nên chọn cho nhu cầu của mình, các câu hỏi thường gặp khác nằm trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/) với nhiều tình huống thực tế đã được giải đáp, từ chọn xe số hay xe ga cho tới cách xử lý sự cố giữa đường, giúp bạn tự tin hơn ở mọi chuyến đi sau này.
+Nếu trong lần đầu bạn vẫn còn băn khoăn về loại xe nên chọn cho nhu cầu của mình, các câu hỏi thường gặp khác nằm trong mục [hỏi đáp thuê xe máy](/hoi-dap/) với nhiều tình huống thực tế đã được giải đáp, từ chọn xe số hay xe ga cho tới cách xử lý sự cố giữa đường, giúp bạn tự tin hơn ở mọi chuyến đi sau này.

@@ -43,7 +43,7 @@ Nếu máy bắt được, đừng vội phóng đi. Chạy chậm một quãng 
 
 ## Những việc không nên làm trên xe thuê
 
-Dù lo trễ việc cũng không nên tự tháo bugi, tháo bình xăng hay xịt các dung dịch vào khu vực điện. Trên xe thuê, mỗi thao tác tháo lắp đều làm mập mờ trách nhiệm giữa hai bên: nếu sau đó có hỏng hóc, rất khó nói hỏng do nước hay do việc tháo sai vị trí. Việc gọi thợ ngoài sửa rồi đòi cửa hàng chịu tiền cũng thường không được hợp đồng chấp nhận, nên hướng chính thống vẫn là liên hệ nơi cho thuê và làm theo hướng của họ. Các tình huống trục trặc giữa đường và cách liên hệ được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Dù lo trễ việc cũng không nên tự tháo bugi, tháo bình xăng hay xịt các dung dịch vào khu vực điện. Trên xe thuê, mỗi thao tác tháo lắp đều làm mập mờ trách nhiệm giữa hai bên: nếu sau đó có hỏng hóc, rất khó nói hỏng do nước hay do việc tháo sai vị trí. Việc gọi thợ ngoài sửa rồi đòi cửa hàng chịu tiền cũng thường không được hợp đồng chấp nhận, nên hướng chính thống vẫn là liên hệ nơi cho thuê và làm theo hướng của họ. Các tình huống trục trặc giữa đường và cách liên hệ được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/).
 
 Cũng không nên rửa xe ngay khi vừa chết máy trong mưa. Vòi nước ép vào đúng lúc các khe đang ướt chỉ đẩy nước vào sâu hơn. Nếu buộc phải để xe qua đêm ở nơi ẩm, che nắp máy bằng túi nilon nếu có sẵn, và báo cửa hàng sớm nhất có thể vào sáng hôm sau, vì xe chết máy nằm lâu trong ẩm dễ sinh thêm rắc rối khác ngoài nguyên nhân ban đầu.
 
@@ -53,6 +53,6 @@ Trước mỗi mùa mưa, người đi xe máy nên chuẩn bị áo mưa dày, 
 
 Cung đường cũng nên chọn: tránh các đoạn trũng, hố ga bị bung, vệt lún ở ngã tư hay đoạn đang thi công sau những trận mưa lớn nếu có tuyến khác. Chậm hơn vài phút vẫn hơn đứng giữa mưa với một chiếc xe đã tắt máy.
 
-Với người thuê xe hay phải đi trong mưa, việc nhận xe cũng nên kỹ hơn: kiểm tra đèn, còi và phanh ngay tại cửa hàng, vì những chi tiết này sẽ phải làm việc nhiều hơn trong ngày mưa. Cách kiểm tra khi nhận và trả xe được tóm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/), còn kinh nghiệm xử lý khi thời tiết xấu nằm trong trang [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Với người thuê xe hay phải đi trong mưa, việc nhận xe cũng nên kỹ hơn: kiểm tra đèn, còi và phanh ngay tại cửa hàng, vì những chi tiết này sẽ phải làm việc nhiều hơn trong ngày mưa. Cách kiểm tra khi nhận và trả xe được tóm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/), còn kinh nghiệm xử lý khi thời tiết xấu nằm trong trang [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/).
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi xe gặp sự cố giữa mưa; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi xe gặp sự cố giữa mưa; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

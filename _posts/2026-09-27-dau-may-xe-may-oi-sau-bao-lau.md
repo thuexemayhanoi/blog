@@ -42,7 +42,7 @@ Ngay khi thấy các dấu hiệu này, bạn nên thay nhớt sớm, không ch�
 
 Xe số dùng nhớt máy đơn giản, thường nhớt khoáng hoặc bán tổng hợp là đủ cho đi phố. Xe tay ga có thêm hộp số truyền động dùng nhớt riêng, gọi là nhớt hộp số hay nhớt lái, cần thay mỗi 8000 đến 10000 km. Nếu xe tay ga ì, giật khi tăng ga, có khi nguyên nhân không nằm ở máy mà ở nhớt lái đã cặn. Bên cạnh đó, xe tay ga thường có lọc nhớt, lọc bẩn sẽ khiến nhớt mới nhanh bẩn lại, nên mỗi lần thay nhớt máy bạn nên hỏi thợ vệ sinh luôn lọc.
 
-Với người đi thuê xe dài hạn, bạn không phải tự thay nhớt vì cửa hàng lo bảo dưỡng, nhưng nên hỏi rõ kỳ bảo dưỡng gần nhất khi nhận xe để chủ động. Xem thêm trang [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/) để hiểu toàn bộ hạng mục định kỳ của xe.
+Với người đi thuê xe dài hạn, bạn không phải tự thay nhớt vì cửa hàng lo bảo dưỡng, nhưng nên hỏi rõ kỳ bảo dưỡng gần nhất khi nhận xe để chủ động. Xem thêm trang [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) để hiểu toàn bộ hạng mục định kỳ của xe.
 
 ## Các loại nhớt phổ biến
 
@@ -68,10 +68,10 @@ Với xe mới hoặc động cơ vừa được đại tu, lần thay nhớt đ
 
 Nên chọn nơi thay nhớt có thợ mở nắp kiểm tra cho bạn xem mức trước khi đổ, và đổ đúng loại nhớt đã ghi trên can. Với xe tay ga, nhớ hỏi thêm dịch vụ thay nhớt lái theo kỳ. Sau khi thay, chạy vài km rồi kiểm tra lại chỗ mở nắp có bị rịn nhớt hay không.
 
-Với xe cho thuê tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội thay nhớt định kỳ theo sổ theo dõi xe, khách thuê có thể hỏi trực tiếp về kỳ bảo dưỡng của xe mình nhận. Giờ mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các bài viết khác về dòng xe và cấu kiện nằm tại trang [xe máy và dòng xe](/blog/xe-may/).
+Với xe cho thuê tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội thay nhớt định kỳ theo sổ theo dõi xe, khách thuê có thể hỏi trực tiếp về kỳ bảo dưỡng của xe mình nhận. Giờ mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các bài viết khác về dòng xe và cấu kiện nằm tại trang [xe máy và dòng xe](/xe-may/).
 
 Đổi nhớt đúng kỳ là việc bảo dưỡng rẻ nhất nhưng quan trọng nhất. Ghi lại số km thay gần nhất vào điện thoại, và tới kỳ thì thay, đừng đợi máy lên tiếng.
 
 ## Kết luận về thay dầu máy xe máy
 
-Thay dầu máy xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Khi cần một chiếc xe phù hợp cho di chuyển hằng ngày, bạn có thể [xem các dòng xe cho thuê](/blog/thue-xe/) rồi quyết định sau khi đã rõ tình trạng xe. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.
+Thay dầu máy xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Khi cần một chiếc xe phù hợp cho di chuyển hằng ngày, bạn có thể [xem các dòng xe cho thuê](/thue-xe/) rồi quyết định sau khi đã rõ tình trạng xe. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.

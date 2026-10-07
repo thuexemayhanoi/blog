@@ -16,7 +16,7 @@ writer: W1
 
 Tiếng lạch cạch dưới khung xe đột ngột nặng lên, nhát ga vừa vọt nhưng xe chỉ ì ì không tiến: đây là dấu hiệu xe máy tuột xích giữa đường, một sự cố ai đi xe số lâu năm cũng từng gặp. Vấn đề của người lái lúc đó không phải là sửa, mà là chọn được chỗ dừng an toàn trong vài giây tiếp theo, vì dây xích xe tuột xử lý sai cách thì va chạm từ xe phía sau nguy hiểm hơn hẳn cái xe bị hỏng. Bài viết này đi qua các tín hiệu nhận biết sớm, cách chọn điểm dừng, và trình tự xử lý để bạn không đứng lơ lửng giữa dòng xe ở Hà Nội mà không biết bước tiếp theo.
 
-Với các tình huống hỏng xe khác, chuyên mục [xử lý sự cố xe máy](/blog/xe-may/xu-ly-su-co-xe/) tổng hợp nhiều trường hợp thực tế, còn tổng quan các chủ đề nằm ở trang [xe máy](/blog/xe-may/).
+Với các tình huống hỏng xe khác, chuyên mục [xử lý sự cố xe máy](/xe-may/xu-ly-su-co-xe/) tổng hợp nhiều trường hợp thực tế, còn tổng quan các chủ đề nằm ở trang [xe máy](/xe-may/).
 
 ## Dấu hiệu báo trước khi dây xích sắp tuột
 
@@ -38,7 +38,7 @@ Sau khi xe đã nằm gọn ở chỗ an toàn, bước tiếp theo là đánh g
 
 Với xe thuê, quy trình khác một chút: gọi ngay cho chủ xe để xin hướng dẫn, thay vì tự tháo lắp, vì mỗi mẫu xe có mức căng xích khác nhau và việc tự siết sai có thể làm hỏng thêm. Chụp vài tấm ảnh chỗ dừng và tình trạng xích cũng giúp việc trao đổi với chủ xe nhanh hơn. Nếu phải gửi xe lại để tiệm xử lý, nhớ chụp số công-tơ-mét và tình trạng xe trước khi rời đi.
 
-Về lâu dài, cách phòng ngừa tuột xích nằm ở bảo dưỡng đều đặn: vệ sinh, tra dầu và siết xích đúng định kỳ, và phần [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/) có hướng dẫn chi tiết về các mốc kiểm tra nên nhớ.
+Về lâu dài, cách phòng ngừa tuột xích nằm ở bảo dưỡng đều đặn: vệ sinh, tra dầu và siết xích đúng định kỳ, và phần [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) có hướng dẫn chi tiết về các mốc kiểm tra nên nhớ.
 
 ## Những việc tuyệt đối tránh khi xích tuột
 
@@ -48,7 +48,7 @@ Thứ tư, không hạ quyết định gửi xe nhờ người lạ kéo đi khi
 
 ## Nếu bạn đi xe thuê trong tình huống này
 
-Xe thuê tuột xích là tình huống có trách nhiệm chia đôi: bạn lo an toàn tính mạng, chủ xe lo tình trạng kỹ thuật của xe. Khi nhận xe, một vòng kiểm tra xích và lốp trước khi trả tiền sẽ loại bỏ phần lớn rủi ro này, vì xích mòn là thứ nhìn thấy được bằng mắt thường. Trang [thuê xe máy](/blog/thue-xe/) có hướng dẫn kiểm tra xe đầy đủ trước khi nhận, cùng các câu hỏi nên hỏi tiệm thuê.
+Xe thuê tuột xích là tình huống có trách nhiệm chia đôi: bạn lo an toàn tính mạng, chủ xe lo tình trạng kỹ thuật của xe. Khi nhận xe, một vòng kiểm tra xích và lốp trước khi trả tiền sẽ loại bỏ phần lớn rủi ro này, vì xích mòn là thứ nhìn thấy được bằng mắt thường. Trang [thuê xe máy](/thue-xe/) có hướng dẫn kiểm tra xe đầy đủ trước khi nhận, cùng các câu hỏi nên hỏi tiệm thuê.
 
 Nếu sự cố xảy ra giữa chuyến, ưu tiên vẫn là chọn chỗ dừng an toàn, rồi mới liên hệ. Cung cấp vị trí chính xác và tình trạng xe giúp chủ xe hỗ trợ nhanh, và mọi thỏa thuận về sửa hay đổi xe nên được ghi lại tin nhắn để tránh tranh chấp sau này.
 

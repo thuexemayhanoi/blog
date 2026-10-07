@@ -19,9 +19,9 @@ Hà Nội đón lượng lớn khách quốc tế đến du lịch và công tá
 
 Với khách nội địa, giấy tờ thuê xe thường chỉ là một loại chứng minh nhân dụng để đối chiếu khi ký hợp đồng. Với khách quốc tế, giấy tờ làm thêm hai việc: xác định danh tính theo giấy tờ do nước ngoài cấp, và gắn với tình trạng lưu trú hợp pháp tại Việt Nam của người thuê trong thời gian thuê xe. Câu hỏi người nước ngoài thuê xe cần gì, vì thế, không dừng ở một danh sách giấy tờ cứng nhắc mà cần trả lời theo từng loại hình lưu trú và từng kế hoạch di chuyển. Cửa hàng cần ghi thông tin người thuê vào hợp đồng để quản lý tài sản, vì vậy giấy tờ không chỉ là thủ tục mà là điều kiện để hợp đồng có giá trị đối chiếu khi cần.
 
-Trình tự chung cho khách lần đầu thuê nằm trong bài [thủ tục thuê xe máy ở Hà Nội cho người mới](/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/).
+Trình tự chung cho khách lần đầu thuê nằm trong bài [thủ tục thuê xe máy ở Hà Nội cho người mới](/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/).
 
-Điểm cần lưu ý đầu tiên: giấy tờ mang theo phải là bản gốc, không phải ảnh chụp trên điện thoại. Các cửa hàng cho thuê uy tín đều đối chiếu bản gốc trước khi giao xe, vì đây là cách bảo vệ cho cả hai bên. Chuyên mục [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) gom các điều kiện và lưu ý dành riêng cho nhóm khách nước ngoài, còn trang chủ đề [thuê xe máy Hà Nội](/blog/thue-xe/) giải thích trình tự thuê cho mọi đối tượng.
+Điểm cần lưu ý đầu tiên: giấy tờ mang theo phải là bản gốc, không phải ảnh chụp trên điện thoại. Các cửa hàng cho thuê uy tín đều đối chiếu bản gốc trước khi giao xe, vì đây là cách bảo vệ cho cả hai bên. Chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) gom các điều kiện và lưu ý dành riêng cho nhóm khách nước ngoài, còn trang chủ đề [thuê xe máy Hà Nội](/thue-xe/) giải thích trình tự thuê cho mọi đối tượng.
 
 ## Bộ giấy tờ thuê xe máy cho khách quốc tế cần mang theo
 
@@ -35,7 +35,7 @@ Thứ tư là phương thức thanh toán. Khách quốc tế nên hỏi trướ
 
 ## Trước khi đến cửa hàng: những câu nên hỏi qua điện thoại
 
-Vì rào cản ngôn ngữ, mọi thứ nên được chốt trước qua điện thoại hoặc tin nhắn text, đừng để dồn đến lúc nhận xe. Trường hợp chưa quen cách đặt trước, bài [cách đặt xe máy trước từ xa](/blog/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/) mô tả trình tự chốt xe qua điện thoại. Bốn câu đáng hỏi nhất: cửa hàng yêu cầu giấy tờ gì cho khách nước ngoài; cần giấy phép lái xe loại nào để điều khiển xe máy; khoản bảo đảm cho hợp đồng áp dụng hình thức nào và hoàn trả ra sao; giá thuê đã gồm những gì.
+Vì rào cản ngôn ngữ, mọi thứ nên được chốt trước qua điện thoại hoặc tin nhắn text, đừng để dồn đến lúc nhận xe. Trường hợp chưa quen cách đặt trước, bài [cách đặt xe máy trước từ xa](/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/) mô tả trình tự chốt xe qua điện thoại. Bốn câu đáng hỏi nhất: cửa hàng yêu cầu giấy tờ gì cho khách nước ngoài; cần giấy phép lái xe loại nào để điều khiển xe máy; khoản bảo đảm cho hợp đồng áp dụng hình thức nào và hoàn trả ra sao; giá thuê đã gồm những gì.
 
 Khi gọi, nói chậm, dùng từ đơn giản, hoặc nhờ người biết tiếng Việt gọi giúp nếu cảm giác trao đổi chưa rõ. Cửa hàng nhận khách quốc tế thường quen với các câu hỏi này và trả lời được bằng từ ngữ cơ bản.
 
@@ -51,7 +51,7 @@ Câu thứ tư: nếu muốn kéo dài hợp đồng thêm vài ngày thì làm 
 
 ## Vận hành thực tế sau khi nhận xe
 
-Có giấy tờ xong xuôi và nhận xe rồi, vài việc nên làm ngay trong buổi đầu: chụp ảnh hiện trạng xe từ vài góc để có bằng chứng tình trạng ban đầu, kiểm tra mức xăng hoặc pin ghi vào hợp đồng, thử phanh và đèn xi nhan trước khi lăn bánh, và lưu số điện thoại cửa hàng vào điện thoại. Trước khi lăn bánh, cũng đáng qua nhanh [checklist kiểm tra xe khi nhận xe thuê](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) để không bỏ sót mục nào. Khi xe có sự cố giữa chừng, khách quốc tế thường lo nhất là trao đổi khó; việc có sẵn số điện thoại và vài câu mẫu tiếng Việt cơ bản sẽ giúp mọi thứ đỡ căng hơn.
+Có giấy tờ xong xuôi và nhận xe rồi, vài việc nên làm ngay trong buổi đầu: chụp ảnh hiện trạng xe từ vài góc để có bằng chứng tình trạng ban đầu, kiểm tra mức xăng hoặc pin ghi vào hợp đồng, thử phanh và đèn xi nhan trước khi lăn bánh, và lưu số điện thoại cửa hàng vào điện thoại. Trước khi lăn bánh, cũng đáng qua nhanh [checklist kiểm tra xe khi nhận xe thuê](/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) để không bỏ sót mục nào. Khi xe có sự cố giữa chừng, khách quốc tế thường lo nhất là trao đổi khó; việc có sẵn số điện thoại và vài câu mẫu tiếng Việt cơ bản sẽ giúp mọi thứ đỡ căng hơn.
 
 Một lưu ý thực tế với khách ở khu phố cổ hoặc các quận trung tâm: nhiều cửa hàng nhận trả xe tại địa chỉ cố định, nên tính lịch trình đón trả khớp với lịch di chuyển của mình. Với khách ở quanh khu Bồ Đề, Long Biên, gần các cầu qua sông Hồng, việc chọn điểm nhận xe gần chỗ ở tiết kiệm thời gian đáng kể so với phải vượt sang khu khác trong giờ cao điểm.
 

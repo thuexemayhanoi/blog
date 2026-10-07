@@ -23,7 +23,7 @@ Nhóm xe ga dùng truyền động tự động, người lái không phải bó
 
 Về cấu tạo, các dòng xe ga phổ thông có dung tích xy-lanh khoảng từ 110 đến 125 phân khối, thân xe nhẹ, yên ngồi vừa vặn. Máy nhỏ đủ sức cho mọi tốc độ trong phố, đồng thời đỡ tốn nhiên liệu hơn các dòng máy lớn. Với người đi lại nội đô, sức mạnh dư dả của dòng xe phân khối cao phần nhiều không dùng tới, trong khi chi phí nhiên liệu thì phải trả mỗi ngày.
 
-So với xe số cùng tầm, xe ga thường hao xăng hơn một chút trên đường trường, nhưng trong phố chặng ngắn, chênh lệch này thu hẹp rõ rệt. Đổi lại, người lái đỡ mỏi tay, thao tác đơn giản, cốp chứa đồ rộng, và với người đi làm mặc sơ mi thì lên xuống xe ga cũng gọn gàng hơn. Tổng quan về nhóm xe này có trong trang [xe ga](/blog/xe-may/xe-ga/).
+So với xe số cùng tầm, xe ga thường hao xăng hơn một chút trên đường trường, nhưng trong phố chặng ngắn, chênh lệch này thu hẹp rõ rệt. Đổi lại, người lái đỡ mỏi tay, thao tác đơn giản, cốp chứa đồ rộng, và với người đi làm mặc sơ mi thì lên xuống xe ga cũng gọn gàng hơn. Tổng quan về nhóm xe này có trong trang [xe ga](/xe-may/xe-ga/).
 
 ## Các dòng xe ga nhỏ thường gặp khi thuê
 
@@ -33,7 +33,7 @@ Honda Click và Yamaha Mio là cặp đôi nhỏ gọn tiếp theo: thân xe g�
 
 Honda Air Blade ngồi cao ráo hơn, có phanh đĩa trước, vận hành chắc hơn chút khi chở theo người thứ hai; mức thuê thường quanh 200.000 đồng mỗi ngày, và gói theo tuần ở mức khoảng 800.000 đồng cho dòng này ở nhiều cửa hàng. Nếu quãng đường có đoạn rộng hoặc phải chở đồ cồng kềch, dòng này cho cảm giác vững hơn nhóm máy nhỏ.
 
-Khi gọi hỏi, bạn cứ nói rõ nhu cầu: đi một hay hai người, quãng ngắn hay có chặng dài, có cần cốp rộng không. Cửa hàng sẽ gợi ý dòng xe hợp; các nhóm dòng xe để đối chiếu có trong trang [chọn loại xe khi thuê](/blog/xe-may/chon-loai-xe/), còn mức giá từng dòng nằm trong trang [bảng giá](/blog/bang-gia/).
+Khi gọi hỏi, bạn cứ nói rõ nhu cầu: đi một hay hai người, quãng ngắn hay có chặng dài, có cần cốp rộng không. Cửa hàng sẽ gợi ý dòng xe hợp; các nhóm dòng xe để đối chiếu có trong trang [chọn loại xe khi thuê](/xe-may/chon-loai-xe/), còn mức giá từng dòng nằm trong trang [bảng giá](/bang-gia/).
 
 ## Cách lái giữ mức xăng thấp trong phố
 
@@ -41,10 +41,10 @@ Nguyên tắc đầu tiên là ga đều và nhìn xa: giữ tay ga ổn định
 
 Nguyên tắc thứ hai là đừng để máy làm việc không cần: đỗ hơn một phút thì tắt máy, không đứng chờ giữa nắng mà giữ máy chạy. Lốp đủ hơi cũng quan trọng không kém, lốp non làm máy kéo nặng và hao xăng thêm rõ rệt; khi nhận xe thuê, bạn nên nhìn nhanh một vòng xem hoa lốp còn sâu không.
 
-Cuối cùng là cân nặng chở theo: đi một người thì đừng chất đồ dư, chở người thứ hai chỉ khi cần. Xe ga nhỏ máy nhẹ, mỗi ký tải thêm đều thể hiện rõ ở chân ga. Cách giữ khoảng cách và thao tác nhường nhịn trong luồng xe được nói kỹ hơn trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Cuối cùng là cân nặng chở theo: đi một người thì đừng chất đồ dư, chở người thứ hai chỉ khi cần. Xe ga nhỏ máy nhẹ, mỗi ký tải thêm đều thể hiện rõ ở chân ga. Cách giữ khoảng cách và thao tác nhường nhịn trong luồng xe được nói kỹ hơn trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
 ## Hỏi gì trước khi nhận xe
 
 Trước khi ký, bạn nên hỏi cửa hàng vài điều ngắn: chiếc xe định giao là dòng nào, máy có đề nhanh không, lốp còn hoa bao nhiêu, và nếu giữa chặng xe có trục trặc thì liên hệ số nào. Câu hỏi này không mất quá một phút nhưng giúp cả kỳ thuê suôn sẻ.
 
-Với người đi phố mỗi ngày, một dòng xe ga nhỏ khỏe máy, lốp tốt, được bảo dưỡng đều luôn là lựa chọn đáng tiền hơn là chạy theo máy lớn. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp về các dòng xe ga còn; tổng quan các dòng xe máy để chọn nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Với người đi phố mỗi ngày, một dòng xe ga nhỏ khỏe máy, lốp tốt, được bảo dưỡng đều luôn là lựa chọn đáng tiền hơn là chạy theo máy lớn. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp về các dòng xe ga còn; tổng quan các dòng xe máy để chọn nằm trong trang [xe máy khi thuê](/xe-may/).

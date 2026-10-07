@@ -40,4 +40,4 @@ Chọn tuyến cũng đáng tính: đường thẳng, ít ổ gà, ít đèn đ�
 
 Còn về cách xuống xe khi tới nơi: dựng chống chính giữa, dỡ chậu từ từ, và đừng gỡ mối buộc khi xe còn nghiêng. Nhiều tai nạn nhỏ xảy ra đúng lúc cuối chuyến — người mải gỡ dây, xe tuột chống, và cả người lẫn chậu ngã cùng nhau. Kết thúc một chuyến chở cây an toàn là khi chậu đã đứng chắc trên đất và xe đã dựng ổn, không phải khi xe vừa tới cửa.
 
-Tóm lại: buộc ba mối theo chữ thập, giữ chậu thấp và cân, chạy chậm và tránh gió lớn. Các chủ đề chở đồ và hành lý khác — túi lớn, vali, thùng hàng — được gom trong trang [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), chủ đề kỹ năng khác nằm trong mục [kỹ năng](/blog/ky-nang/), còn kinh nghiệm đi phố nói chung xem thêm ở [kinh nghiệm](/blog/kinh-nghiem/).
+Tóm lại: buộc ba mối theo chữ thập, giữ chậu thấp và cân, chạy chậm và tránh gió lớn. Các chủ đề chở đồ và hành lý khác — túi lớn, vali, thùng hàng — được gom trong trang [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), chủ đề kỹ năng khác nằm trong mục [kỹ năng](/ky-nang/), còn kinh nghiệm đi phố nói chung xem thêm ở [kinh nghiệm](/kinh-nghiem/).

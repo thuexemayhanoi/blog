@@ -19,13 +19,13 @@ Nhiều khách đứng trước lựa chọn thuê xe tuần hay ngày mà chỉ
 
 Khác biệt thuê tuần rõ nhất nằm ở giá. Thuê ngày tính theo đơn giá mỗi ngày, phù hợp nhu cầu ngắn nhưng cộng dồn nhanh nếu kéo dài. Thuê tuần đưa ra giá gói cho trọn bảy ngày, thường thấp hơn tổng tiền bảy ngày lẻ. Lấy ví dụ từ bảng giá đã duyệt của Nguyễn Tú: Honda Vision có giá ngày 200.000 đ, trong khi gói tuần của dòng xe này dao động 800.000 đ đến 1.000.000 đ. Tương tự, Honda Air Blade ngày 200.000 đ so với gói tuần 800.000 đ, nhóm Honda Click và Yamaha Mio ngày 150.000 đ so với tuần 600.000 đ đến 700.000 đ. Với bất kỳ dòng xe nào trong nhóm này, bảy ngày thuê lẻ đều vượt xa mức gói tuần.
 
-Nói cách khác, càng cần xe liên tục, chênh lệch giữa thuê tuần và thuê ngày càng nghiêng về phía thuê tuần. Ngược lại, nếu bạn chỉ cần xe ba bốn ngày, thuê ngày lẻ thường gọn hơn vì gói tuần không chia nhỏ. Các mức trên là khung tại thời điểm tham khảo, tiền đặt cọc cần xác nhận trực tiếp với cửa hàng, và bạn nên đối chiếu mới nhất tại trang [bảng giá](/blog/bang-gia/).
+Nói cách khác, càng cần xe liên tục, chênh lệch giữa thuê tuần và thuê ngày càng nghiêng về phía thuê tuần. Ngược lại, nếu bạn chỉ cần xe ba bốn ngày, thuê ngày lẻ thường gọn hơn vì gói tuần không chia nhỏ. Các mức trên là khung tại thời điểm tham khảo, tiền đặt cọc cần xác nhận trực tiếp với cửa hàng, và bạn nên đối chiếu mới nhất tại trang [bảng giá](/bang-gia/).
 
 ## Khác biệt về thủ tục nhận trả
 
 Thuê ngày thường gọn: nhận sáng, trả tối hoặc nhận chiều, trả chiều hôm sau, mỗi lần là một lần ký nhận và kiểm tra xe. Thuê tuần gộp thủ tục lại một lần: bạn kiểm tra xe kỹ ngay đầu kỳ, giữ nguyên một chiếc xe suốt bảy ngày, và chỉ làm bước trả xe cuối chu kỳ. Với người bận rộn, việc không phải ghé cửa hàng mỗi ngày tự thân đã là một lợi ích đáng giá.
 
-Có một hệ quả cần lưu ý: vì chỉ kiểm tra một lần đầu, mọi vết xước hay trục trặc phát sinh giữa tuần sẽ dễ tranh chấp hơn nếu không có ghi chép ban đầu. Vì vậy khi thuê tuần, bước kiểm tra xe lúc nhận càng phải kỹ. Hướng dẫn [kiểm tra xe trước khi ký nhận](/blog/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) cho bạn trình tự đầy đủ, và lời khuyên là chụp ảnh hai hông, đầu, đuôi xe ngay tại cửa hàng.
+Có một hệ quả cần lưu ý: vì chỉ kiểm tra một lần đầu, mọi vết xước hay trục trặc phát sinh giữa tuần sẽ dễ tranh chấp hơn nếu không có ghi chép ban đầu. Vì vậy khi thuê tuần, bước kiểm tra xe lúc nhận càng phải kỹ. Hướng dẫn [kiểm tra xe trước khi ký nhận](/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/) cho bạn trình tự đầy đủ, và lời khuyên là chụp ảnh hai hông, đầu, đuôi xe ngay tại cửa hàng.
 
 ## Khác biệt về trách nhiệm giữa kỳ
 
@@ -53,4 +53,4 @@ Một cách gọn để chọn: thứ nhất, trong bảy ngày tới bạn cầ
 
 Thuê theo ngày và thuê theo tuần không cái nào tốt hơn cái nào, chỉ phù hợp nhu cầu khác nhau. Khác biệt thuê tuần nằm ở giá gói, thủ tục gọn, và trách nhiệm giữa kỳ nhiều hơn; lợi thế thuê tuần bộc lộ khi nhu cầu liên tục năm bảy ngày. Chọn xong, đừng quên bước kiểm tra xe kỹ ở cả hai hình thức.
 
-Chủ đề này thuộc trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) và trang [thuê xe theo tuần](/blog/thue-xe/thue-tuan/) trong cẩm nang [thuê xe máy](/blog/thue-xe/). Cách thử xe trước khi nhận được nói kỹ trong bài [nên thử xe như thế nào khi nhận xe máy thuê](/blog/thue-xe/2026/09/27/nen-thu-xe-nhu-the-nao-khi-nhan-xe-may-thue/), còn các gợi ý tuyến đi quanh Hà Nội nằm ở trang [cung đường](/blog/cung-duong/).
+Chủ đề này thuộc trang [thuê xe theo ngày](/thue-xe/thue-ngay/) và trang [thuê xe theo tuần](/thue-xe/thue-tuan/) trong cẩm nang [thuê xe máy](/thue-xe/). Cách thử xe trước khi nhận được nói kỹ trong bài [nên thử xe như thế nào khi nhận xe máy thuê](/thue-xe/2026/09/27/nen-thu-xe-nhu-the-nao-khi-nhan-xe-may-thue/), còn các gợi ý tuyến đi quanh Hà Nội nằm ở trang [cung đường](/cung-duong/).

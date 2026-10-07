@@ -39,13 +39,13 @@ Với người thuê xe, trách nhiệm có bảo hiểm thuộc về xe, nhưng
 - Hỏi cửa hàng cho thuê xem tem bảo hiểm nằm ở đâu trên từng loại xe trong đội xe, vì vị trí dán tem ở cốp trước, cốp sau hoặc dưới yên khác nhau theo dòng xe.
 - Khi bị dừng xe kiểm tra giấy tờ, giữ bình tĩnh và xuất trình tem theo hướng dẫn, vì giấy chứng nhận bảo hiểm là một trong những giấy tờ cơ bản theo quy định hiện hành.
 
-Câu hỏi về phạm vi chi trả của bảo hiểm khi đi xe thuê nằm ngoài phạm vi bài này; bạn có thể đọc thêm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/).
+Câu hỏi về phạm vi chi trả của bảo hiểm khi đi xe thuê nằm ngoài phạm vi bài này; bạn có thể đọc thêm trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/an-toan-phap-ly/bao-hiem/).
 
 ## Nếu không may bị phạt
 
 Trường hợp bị phát hiện đi xe không có bảo hiểm, người điều khiển phối hợp làm việc theo trình tự xử phạt vi phạm hành chính hiện hành: nhận quyết định xử phạt, nộp phạt đúng hạn theo hướng dẫn trên quyết định. Nếu bạn đang đi xe thuê và phát hiện xe không có bảo hiểm, bạn nên thông báo ngay cho cửa hàng cho thuê, vì việc bổ sung bảo hiểm cho xe là trách nhiệm của chủ xe, còn vi phạm giấy tờ giữa đường liên quan trực tiếp đến người cầm lái.
 
-Tổng hợp kiến thức về nhóm chủ đề này nằm trong trang [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/), và các quy định giao thông liên quan khác nằm trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Tổng hợp kiến thức về nhóm chủ đề này nằm trong trang [bảo hiểm xe máy](/an-toan-phap-ly/bao-hiem/), và các quy định giao thông liên quan khác nằm trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về không bảo hiểm xe máy bị phạt
 

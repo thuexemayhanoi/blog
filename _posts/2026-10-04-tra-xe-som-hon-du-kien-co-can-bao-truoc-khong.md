@@ -46,7 +46,7 @@ Nhiều người thắc mắc trả sớm có được hoàn phần ngày dư ha
 
 Nếu hợp đồng ghi thuê theo trọn gói nhiều ngày, phần ngày dư thường không tách ra được. Nếu ghi theo ngày, khả năng tính lại cao hơn. Dù theo cách nào, một câu hỏi lúc ký luôn rẻ hơn một cuộc thương lượng lúc trả, vì lúc đó bạn đã ở thế về sớm và thời gian không đứng về phía mình.
 
-Bạn có thể xem lại toàn bộ phần việc lúc nhận và lúc trả trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem lại toàn bộ phần việc lúc nhận và lúc trả trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), các bước chuẩn bị giấy tờ trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm thực tế của người đi trước trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, trả xe sớm hơn dự kiến không cần phép, nhưng nên có một tin nhắn trước. Tin nhắn đó giúp người nhận chủ động thời gian, giúp phần cọc về tay bạn nhanh hơn, và biến buổi trả xe bất ngờ thành buổi trả xe như đã hẹn. Chuyến về sớm của bạn nhờ thế cũng kết thúc sớm.
 

@@ -36,7 +36,7 @@ Sương cuối đêm quanh các khu ven như Gia Lâm, Đông Anh dày hơn tron
 
 ## Chốt gói thuê đúng nhịp nghề
 
-Nghề giao báo thuê xe liên tục quanh năm, nên đây là nhóm khách nên chốt gói dài ngay từ đầu: gói theo tháng quanh khu Long Biên, Bồ Đề gần điểm tổng giúp tiết kiệm thời gian nhận trả mỗi tuần. Phần giấy tờ cọc nằm trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/); chi tiết gói dài nằm trong trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/); tổng quan dòng xe và gói thuê nằm trong trang [thuê xe máy](/blog/thue-xe/); kinh nghiệm theo từng nhóm nghề nằm trong trang [thuê theo đối tượng](/blog/thue-xe/thue-theo-doi-tuong/); các mẹo chạy quanh phố Hà Nội rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Nghề giao báo thuê xe liên tục quanh năm, nên đây là nhóm khách nên chốt gói dài ngay từ đầu: gói theo tháng quanh khu Long Biên, Bồ Đề gần điểm tổng giúp tiết kiệm thời gian nhận trả mỗi tuần. Phần giấy tờ cọc nằm trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/); chi tiết gói dài nằm trong trang [thuê xe theo tháng](/thue-xe/thue-thang/); tổng quan dòng xe và gói thuê nằm trong trang [thuê xe máy](/thue-xe/); kinh nghiệm theo từng nhóm nghề nằm trong trang [thuê theo đối tượng](/thue-xe/thue-theo-doi-tuong/); các mẹo chạy quanh phố Hà Nội rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Ba điểm cần đàm phán riêng cho nghề chạy sớm: thứ nhất, giờ nhận xe linh hoạt buổi tối hôm trước khi tuyến bắt đầu từ sáng tinh mơ; thứ hai, chính sách bảo dưỡng nhanh — xe hỏng giữa tuần cần được thay trong buổi, không phải chờ cả ngày; thứ ba, phương án xe dự phòng khi xe chính vào gara. Ba điểm đó là ranh giới giữa một chỗ thuê hiểu nghề và một chỗ chỉ cho xe.
 

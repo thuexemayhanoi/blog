@@ -42,4 +42,4 @@ Về tần suất nhìn lại: người đi xe hằng ngày có thể kết hợ
 
 ## Ghi nhớ ngắn cho việc tự làm
 
-Làm trên máy nguội, chà nhẹ không mài, siết vừa đủ, và lau quanh lỗ bugi trước khi tháo để bụi không rơi vào trong máy. Ba dòng đó là toàn bộ kỹ thuật; phần còn lại là cẩn thận. Các hạng mục bảo dưỡng khác mà bạn có thể tự làm hoặc giao tiệm theo chu kỳ được gom trong mục [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), kinh nghiệm chăm xe hằng ngày trong [chuyên mục xe máy](/blog/xe-may/), và phần chuẩn bị trước khi thuê xe tại [thuê xe máy](/blog/xe-may/).
+Làm trên máy nguội, chà nhẹ không mài, siết vừa đủ, và lau quanh lỗ bugi trước khi tháo để bụi không rơi vào trong máy. Ba dòng đó là toàn bộ kỹ thuật; phần còn lại là cẩn thận. Các hạng mục bảo dưỡng khác mà bạn có thể tự làm hoặc giao tiệm theo chu kỳ được gom trong mục [bảo dưỡng xe](/xe-may/bao-duong-xe/), kinh nghiệm chăm xe hằng ngày trong [chuyên mục xe máy](/xe-may/), và phần chuẩn bị trước khi thuê xe tại [thuê xe máy](/xe-may/).

@@ -34,7 +34,7 @@ Một thao tác nhỏ có thể cứu tình huống: chỉnh lại ốc căng d�
 
 Khi gọi, mô tả đúng triệu chứng: tuột ở số mấy, tiếng máy thế nào, đã thử chỉnh côn chưa. Thông tin chuẩn giúp chủ xe đoán được nguyên nhân và quyết định bạn nên tiếp tục dùng xe, ghé về kiểm tra, hay cần hỗ trợ đổi xe. Nếu chặng còn dài hoặc phải qua nhiều dốc, đề nghị hỗ trợ đổi xe sớm thay vì cố chạy.
 
-Nếu xe được đổi, hãy tranh thủ chạy thử nhanh trước khi rời cửa hàng: lên số, về số, bóp côn và ga nhẹ, để xác nhận trục trặc đã hết. Với xe thuê, chạy thử lúc nhận là bước quan trọng nhất để tránh nhận lấy chiếc xe đang có sẵn vấn đề; xem thêm [gợi ý chọn xe chở hành lý](/blog/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) nếu bạn định chở nhiều đồ trên chuyến tới.
+Nếu xe được đổi, hãy tranh thủ chạy thử nhanh trước khi rời cửa hàng: lên số, về số, bóp côn và ga nhẹ, để xác nhận trục trặc đã hết. Với xe thuê, chạy thử lúc nhận là bước quan trọng nhất để tránh nhận lấy chiếc xe đang có sẵn vấn đề; xem thêm [gợi ý chọn xe chở hành lý](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/) nếu bạn định chở nhiều đồ trên chuyến tới.
 
 ## Cách giảm rủi ro gặp xe tuột số
 
@@ -42,7 +42,7 @@ Lúc nhận xe, hãy thử chuỗi thao tác: kéo côn hết hành trình, vào
 
 Còn một chi tiết nhỏ dễ bỏ qua: mang giày dép có đế bám khi lái xe số, vì thao tác đạp cần số lặp lại nhiều lần trong nội thành. Đế trượt khiến mỗi lần đạp đều lệch lực, dần làm cơ cấu chọn số mài mòn nhanh hơn mức cần. Chi tiết này tưởng không liên quan nhưng lại ảnh hưởng trực tiếp tới tuổi thọ của cụm số.
 
-Trong lúc chạy, thói quen giữ tay sẵn ở cần số, phanh sớm trước ngã tư và tránh bóp côn rời rạc cũng giảm tải cho cụm côn. Nếu bạn không quen xe số, chọn dòng tay ga cho chặng nội thành cũng là phương án đáng cân nhắc; danh sách dòng xe cập nhật tại [trang tổng quan xe máy](/blog/xe-may/).
+Trong lúc chạy, thói quen giữ tay sẵn ở cần số, phanh sớm trước ngã tư và tránh bóp côn rời rạc cũng giảm tải cho cụm côn. Nếu bạn không quen xe số, chọn dòng tay ga cho chặng nội thành cũng là phương án đáng cân nhắc; danh sách dòng xe cập nhật tại [trang tổng quan xe máy](/xe-may/).
 
 ## Câu hỏi thường gặp
 
@@ -54,4 +54,4 @@ Chi phí xử lý tuột số ai chịu? Tùy nguyên nhân: hao mòn tự nhiê
 
 Báo muộn có sao không? Không ai trách bạn vì quan tâm an toàn, nhưng báo muộn làm mất thời điểm phân định nguyên nhân tốt nhất. Ảnh và tin nhắn gửi sớm luôn hữu ích.
 
-Nếu xe số thuê của bạn gặp trục trặc giữa đường ở Hà Nội, hãy gọi 0942 467 674 trong giờ làm việc từ 09:00 đến 21:00 để được hướng dẫn. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên luôn có nhân viên tư vấn các tình huống sự cố. Tình trạng sẵn có của từng xe có thể thay đổi theo từng thời kỳ, vì vậy hãy chạy thử kỹ lúc nhận xe; tổng quan dòng xe xem tại [trang tổng quan xe máy](/blog/xe-may/).
+Nếu xe số thuê của bạn gặp trục trặc giữa đường ở Hà Nội, hãy gọi 0942 467 674 trong giờ làm việc từ 09:00 đến 21:00 để được hướng dẫn. Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên luôn có nhân viên tư vấn các tình huống sự cố. Tình trạng sẵn có của từng xe có thể thay đổi theo từng thời kỳ, vì vậy hãy chạy thử kỹ lúc nhận xe; tổng quan dòng xe xem tại [trang tổng quan xe máy](/xe-may/).

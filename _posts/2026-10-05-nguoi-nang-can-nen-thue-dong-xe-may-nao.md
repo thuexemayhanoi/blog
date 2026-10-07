@@ -16,7 +16,7 @@ writer: W1
 
 Người nặng cân ngồi trên chiếc xe nhỏ là tình huống nhìn đã thấy đuối: xe lún giảm xóc, lái nặng, và mỗi ổ gà đều thành cú sốc cho cả người lẫn xe. Câu hỏi người nặng cân thuê xe máy nào vì vậy không phải chuyện thị hiếu dòng xe, mà là chuyện khớp cơ thể với khung máy, để chuyến đi chắc và đỡ mệt. Bài này chỉ các tiêu chí chọn xe cho người nặng cân, và cách thử xe cho đúng trước khi chốt hợp đồng thuê.
 
-Tổng quan nhóm hỏi đáp chọn xe nằm ở trang [hỏi đáp](/blog/hoi-dap/), các dòng xe máy cho thuê nằm trong phần [chọn loại xe](/blog/xe-may/chon-loai-xe/), còn các bước nhận và trả xe máy ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/).
+Tổng quan nhóm hỏi đáp chọn xe nằm ở trang [hỏi đáp](/hoi-dap/), các dòng xe máy cho thuê nằm trong phần [chọn loại xe](/xe-may/chon-loai-xe/), còn các bước nhận và trả xe máy ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/).
 
 ## Ba thông số quyết định khi chọn xe cho người nặng cân
 

@@ -16,7 +16,7 @@ writer: W1
 
 Khách phương Tây đến Hà Nội mấy ngày, muốn tự chạy xe máy vòng quanh phố cổ và hồ Tây, và câu hỏi đầu tiên tiệm thuê hay hỏi lại là giấy tờ. Vậy thuê xe máy khách quốc tế hộ chiếu bản gốc có bắt buộc không, và nếu phải gửi bản gốc thì có an toàn không? Câu trả lời ngắn: phần lớn tiệm yêu cầu giữ hộ chiếu bản gốc hoặc giấy tờ tùy thân tương đương trong suốt thời gian thuê, như một dạng bảo đảm thay cho chứng minh thư của người Việt. Bài viết này giải thích lý do, các phương án thay thế, và những điểm khách quốc tế cần biết về hộ chiếu khi thuê xe quốc tế trước khi ký.
 
-Tổng quan về nhóm khách nước ngoài nằm trong phần [khách quốc tế](/blog/thue-xe/khach-quoc-te/), còn các thủ tục chung khi thuê nằm ở trang [thuê xe máy](/blog/thue-xe/) và mục [thủ tục](/blog/thue-xe/thu-tuc/).
+Tổng quan về nhóm khách nước ngoài nằm trong phần [khách quốc tế](/thue-xe/khach-quoc-te/), còn các thủ tục chung khi thuê nằm ở trang [thuê xe máy](/thue-xe/) và mục [thủ tục](/thue-xe/thu-tuc/).
 
 ## Vì sao tiệm yêu cầu giữ hộ chiếu bản gốc khi cho thuê xe máy khách quốc tế
 
@@ -40,7 +40,7 @@ Một số tiệm chỉ cho thuê xe tự chạy khi khách có đủ giấy t�
 
 Gửi hộ chiếu bản gốc là rủi ro cho khách: mất, hỏng hoặc trả trễ khi khách cần bay sớm. Ngược lại, không giữ được giấy tờ nào là rủi ro cho tiệm. Cách cân bằng phổ biến và hợp lý là kết hợp: khách gửi bản photo công chứng kèm một giấy tờ phụ, cộng cọc tiền cao hơn, và hai bên ghi rõ trong hợp đồng rằng tiệm chịu trách nhiệm bảo quản nếu vẫn giữ bản gốc. Hợp đồng nên ghi rõ thời điểm trả lại hộ chiếu, ngay tại lúc trả xe, không trì hoãn.
 
-Với khách ở Hà Nội, nên chọn tiệm có địa chỉ rõ ràng, giờ mở cửa ổn định và đánh giá tốt từ khách quốc tế trước đó, vì chuyện gửi bản gốc chỉ an toàn khi nơi nhận giữ nó hoạt tử tế. Ai từng đọc các bài [sự cố khi thuê xe](/blog/thue-xe/su-co/) sẽ hiểu vì sao chuyện chọn tiệm kỹ lưỡng quan trọng không thua chọn xe.
+Với khách ở Hà Nội, nên chọn tiệm có địa chỉ rõ ràng, giờ mở cửa ổn định và đánh giá tốt từ khách quốc tế trước đó, vì chuyện gửi bản gốc chỉ an toàn khi nơi nhận giữ nó hoạt tử tế. Ai từng đọc các bài [sự cố khi thuê xe](/thue-xe/su-co/) sẽ hiểu vì sao chuyện chọn tiệm kỹ lưỡng quan trọng không thua chọn xe.
 
 ## Tóm lại, khách quốc tế nên chuẩn bị gì
 

@@ -24,7 +24,7 @@ Ngoài ra, bạn nên tập thói quen đếm bước chân từ chỗ để xe 
 
 ## Cất hết đồ đạc trước khi rời xe
 
-Một nguyên tắc bất di bất dịch là không để bất cứ thứ gì lộ trên yên, kể cả áo mưa, găng tay hay khăn. Đồ để lộ vừa dễ mất, vừa báo hiệu cho kẻ gian rằng chủ xe có thói quen cẩu thả, khiến cốp xe trở thành mục tiêu đáng chú ý hơn. Với mũ bảo hiểm, bạn nên cất vào cốp hoặc móc dưới gầm, không kẹp ngoài gương. Các bước cất đồ kỹ hơn đã có trong bài về [cho hành lý an toàn trên xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/).
+Một nguyên tắc bất di bất dịch là không để bất cứ thứ gì lộ trên yên, kể cả áo mưa, găng tay hay khăn. Đồ để lộ vừa dễ mất, vừa báo hiệu cho kẻ gian rằng chủ xe có thói quen cẩu thả, khiến cốp xe trở thành mục tiêu đáng chú ý hơn. Với mũ bảo hiểm, bạn nên cất vào cốp hoặc móc dưới gầm, không kẹp ngoài gương. Các bước cất đồ kỹ hơn đã có trong bài về [cho hành lý an toàn trên xe máy](/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/).
 
 Thiết bị gắn ngoài như giá điện thoại, gương phụ hay hộp đồ sau yên cũng nên tháo mang theo nếu để xe lâu. Nếu xe có cốp lớn, bạn nên cho đồ quan trọng vào cốp rồi khóa lại, nhưng đừng để giấy tờ trong cốp khi để qua đêm, vì giấy tờ khó xin lại hơn nhiều so với món đồ thông thường. Nói chung, nguyên tắc là để xe trông càng trống trơn càng tốt, kẻ gian càng ít lý do dừng lại.
 
@@ -36,12 +36,12 @@ Cách để xe giữa những chiếc xe khác cũng giúp ích: xe nằm trong 
 
 ## Biết chống trộm xe máy: kiểm tra lại trước khi rời xe
 
-Trước khi bước đi, bạn hãy quay lại nhìn xe một lần: cổ đã khóa chưa, bánh đã khóa chưa, cốp đã khóa miết chưa, và đồ còn sót trên yên không. Mười giây kiểm tra này loại bỏ phần lớn sơ hở phổ biến. Sau đó, chụp một tấm hình vị trí xe kèm biển nhà gần nhất, vừa để đỡ quên chỗ để, vừa có manh mối nếu cần mô tả khi có chuyện không hay xảy ra. Bạn có thể tham khảo thêm cách xử lý khi [xe gặp sự cố](/blog/thue-xe/su-co/) để không bị động nếu rủi ro đã tới.
+Trước khi bước đi, bạn hãy quay lại nhìn xe một lần: cổ đã khóa chưa, bánh đã khóa chưa, cốp đã khóa miết chưa, và đồ còn sót trên yên không. Mười giây kiểm tra này loại bỏ phần lớn sơ hở phổ biến. Sau đó, chụp một tấm hình vị trí xe kèm biển nhà gần nhất, vừa để đỡ quên chỗ để, vừa có manh mối nếu cần mô tả khi có chuyện không hay xảy ra. Bạn có thể tham khảo thêm cách xử lý khi [xe gặp sự cố](/thue-xe/su-co/) để không bị động nếu rủi ro đã tới.
 
-Với xe thuê, bạn nên hỏi chủ xe trước về ổ khóa và cách khóa bánh đặc thù của xe, vì mỗi dòng xe có cách khác nhau. Việc mang theo [đồ bảo hộ khi đi xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/) cũng nên đi kèm thói quen cất gọn, vì mũ bỏ quên trên xe là món mất nhiều nhất trong các loại đồ để lại trên yên.
+Với xe thuê, bạn nên hỏi chủ xe trước về ổ khóa và cách khóa bánh đặc thù của xe, vì mỗi dòng xe có cách khác nhau. Việc mang theo [đồ bảo hộ khi đi xe máy](/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/) cũng nên đi kèm thói quen cất gọn, vì mũ bỏ quên trên xe là món mất nhiều nhất trong các loại đồ để lại trên yên.
 
 ## Tổng kết nhanh các bước
 
-Thứ tự chuẩn là: chọn chỗ sáng và đông người qua lại, khóa cổ, khóa bánh hoặc quấn qua cột, cất hết đồ đạc, chụp hình vị trí rồi mới rời đi. Không có cách nào bảo đảm tuyệt đối, nhưng phần lớn các vụ mất xe đều xảy ra với xe để sơ hở và không khóa đủ điểm, nên mỗi bước trên đều đáng bỏ ra vài giây. Tham khảo thêm nhóm [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/) để nắm trọn các tình huống khác khi để và giữ xe máy quanh Hà Nội.
+Thứ tự chuẩn là: chọn chỗ sáng và đông người qua lại, khóa cổ, khóa bánh hoặc quấn qua cột, cất hết đồ đạc, chụp hình vị trí rồi mới rời đi. Không có cách nào bảo đảm tuyệt đối, nhưng phần lớn các vụ mất xe đều xảy ra với xe để sơ hở và không khóa đủ điểm, nên mỗi bước trên đều đáng bỏ ra vài giây. Tham khảo thêm nhóm [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/) để nắm trọn các tình huống khác khi để và giữ xe máy quanh Hà Nội.
 
- Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+ Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).

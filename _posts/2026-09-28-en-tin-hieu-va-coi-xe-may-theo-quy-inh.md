@@ -37,11 +37,11 @@ Không nên dùng còi liên tục, dài hơi hoặc bấm còi tỏ thái độ
 Không sử dụng đèn chiếu sáng khi chạy trong điều kiện bắt buộc, dùng đèn không đúng hoặc sử dụng còi không đúng quy định là các hành vi vi phạm hành chính trong lĩnh vực giao thông đường bộ, bị xử phạt theo khung hiện hành tại Nghị định 168/2024/NĐ-CP và có thể kèm trừ điểm giấy phép lái xe theo chế độ điểm hiện hành. Mức cụ thể thay đổi theo từng kỳ văn bản, nên khi cần tra cứu chính xác, hãy đọc trực tiếp nghị định trên cổng thông tin điện tử Chính phủ thay vì tin lại con số rải trên mạng xã hội.
 
 Riêng với xe thuê, nếu phát hiện đèn hoặc còi không hoạt động ngay khi nhận xe
-, hãy yêu cầu bên cho thuê đổi xe hoặc khắc phục trước khi ký biên bản giao nhận. Bằng chứng ghi hình tình trạng xe lúc nhận sẽ giúp phân định trách nhiệm rõ hơn, theo kinh nghiệm đã chia sẻ trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/blog/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
+, hãy yêu cầu bên cho thuê đổi xe hoặc khắc phục trước khi ký biên bản giao nhận. Bằng chứng ghi hình tình trạng xe lúc nhận sẽ giúp phân định trách nhiệm rõ hơn, theo kinh nghiệm đã chia sẻ trong bài [giấy tờ xe thuê cần có mặt khi bị kiểm tra](/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/).
 
 ## Ghép với tín hiệu và biển báo
 
-Đèn và còi chỉ có ý nghĩa khi kết hợp đúng tín hiệu giao thông. Đèn đỏ luôn phải dừng hẳn sau vạch, đèn vàng không phải là tín hiệu tăng tốc, và khi rẽ phải bật đủ sớm đèn báo rẽ cho người cùng dòng xe nhận biết. Cách đọc biển báo cấm và hiệu lệnh thường gặp khi chạy trong phố đã được tóm tắt trong bài [biển báo cấm xe máy thường gặp](/blog/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/). Tổng hợp các quy định cho người đi xe máy đặt tại trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Đèn và còi chỉ có ý nghĩa khi kết hợp đúng tín hiệu giao thông. Đèn đỏ luôn phải dừng hẳn sau vạch, đèn vàng không phải là tín hiệu tăng tốc, và khi rẽ phải bật đủ sớm đèn báo rẽ cho người cùng dòng xe nhận biết. Cách đọc biển báo cấm và hiệu lệnh thường gặp khi chạy trong phố đã được tóm tắt trong bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/). Tổng hợp các quy định cho người đi xe máy đặt tại trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Kết luận về đèn và còi xe máy
 

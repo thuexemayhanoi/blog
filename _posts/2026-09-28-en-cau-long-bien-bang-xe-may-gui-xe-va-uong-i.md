@@ -24,19 +24,19 @@ Từ khu Bồ Đề, Long Biên, chỉ cần bám trục Ngô Gia Tự hướng 
 
 Hai đầu cầu đều có bãi gửi xe của dân cư, mở quanh khung ngày; bờ Long Biên có bãi rộng sát chân cầu gần khu chợ Long Biên, bờ Hoàn Kiếm có các bãi nhỏ quanh khu Hàng Đậu. Với xe máy thuê, ba điểm đáng làm ngay khi giao xe: khóa cổ, khóa từ nếu xe có, và chụp lại vị trí xe để dễ tìm khi lấy. Phí gửi xe là khoản nhỏ nhưng thay đổi theo thời điểm, nên chuẩn bị tiền lẻ và hỏi giá trước khi dựng xe, đồng thời hỏi luôn giờ đóng bãi nếu định ở lại chân cầu tới tối.
 
-Nếu mục đích là đi bộ trên cầu ngắm hoàng hôn, gửi xe một đầu cầu rồi đi bộ qua cầu và vòng về theo đường bộ là cách nhiều khách ưa, vì đi bộ trên làn dành riêng an toàn hơn dừng xe giữa cầu. Danh sách giấy tờ nên mang khi đi xe thuê được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu chợ chân cầu thỉnh thoảng có kiểm tra.
+Nếu mục đích là đi bộ trên cầu ngắm hoàng hôn, gửi xe một đầu cầu rồi đi bộ qua cầu và vòng về theo đường bộ là cách nhiều khách ưa, vì đi bộ trên làn dành riêng an toàn hơn dừng xe giữa cầu. Danh sách giấy tờ nên mang khi đi xe thuê được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu chợ chân cầu thỉnh thoảng có kiểm tra.
 
 ## Điểm nên dừng trên cung đường qua cầu
 
 Trên cầu, vài vị trí có bãi thò ra rộng hơn làn chính, nơi người đi bộ và xe đạp vẫn hay dừng ngắm; khi dừng xe máy tại các bãi này, phải ép sát hết về phía trong, tắt máy và để đèn hậu bật nếu chạng vạng. Cảnh đáng xem nhất là nhìn về phía hạ lưu sông Hồng với dáng cầu thép cong theo từng nhịp, và khung hoàng hôn nhìn về phía bờ Hoàn Kiếm với nắng chiếu dọc cầu.
 
-Về nhiếp ảnh: khung sáng sớm có sương mù mỏng trên sông rất đẹp về mùa thu, còn khung chiều muộn cho nắng vàng chiếu dọc đường ray. Nên tránh khung trưa nắng gắt vì mặt cầu thép hấp nhiệt. Với khách muốn trải nghiệm trọn vẹn nhất, hãy đi bộ một nhịp cầu theo làn người đi bộ: tiếng xe hai bánh chạy trên thép, gió sông và khung cảnh hai bờ là phần khó quên nhất của chuyến Long Biên. Các điểm khác quanh Long Biên đáng ghép trong cùng buổi được giới thiệu tại trang [du lịch Hà Nội](/blog/du-lich/), và danh mục các điểm tham quan khác có tại trang [điểm đến](/blog/du-lich/diem-den/).
+Về nhiếp ảnh: khung sáng sớm có sương mù mỏng trên sông rất đẹp về mùa thu, còn khung chiều muộn cho nắng vàng chiếu dọc đường ray. Nên tránh khung trưa nắng gắt vì mặt cầu thép hấp nhiệt. Với khách muốn trải nghiệm trọn vẹn nhất, hãy đi bộ một nhịp cầu theo làn người đi bộ: tiếng xe hai bánh chạy trên thép, gió sông và khung cảnh hai bờ là phần khó quên nhất của chuyến Long Biên. Các điểm khác quanh Long Biên đáng ghép trong cùng buổi được giới thiệu tại trang [du lịch Hà Nội](/du-lich/), và danh mục các điểm tham quan khác có tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Đến Cầu Long Biên bằng xe máy: chạy trên cầu cần lưu ý gì
 
-Làn trên cầu hẹp và nền cầu là thép có mối nối, nên giữ tốc độ vừa, không đổi làn giữa các nhịp, và hai tay bám chắc tay lái vì gió sông đẩy ngang xe nhẹ. Khi trời mưa, mặt thép trơn hơn mặt nhựa thường, nên giảm tốc và phanh sớm; gặp xe ngược chiều trong khung đông, không bỏ làn qua phần đường ray. Tình huống giao thông đặc thù được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Làn trên cầu hẹp và nền cầu là thép có mối nối, nên giữ tốc độ vừa, không đổi làn giữa các nhịp, và hai tay bám chắc tay lái vì gió sông đẩy ngang xe nhẹ. Khi trời mưa, mặt thép trơn hơn mặt nhựa thường, nên giảm tốc và phanh sớm; gặp xe ngược chiều trong khung đông, không bỏ làn qua phần đường ray. Tình huống giao thông đặc thù được phân tích thêm trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
-Ngoài ra, các thắc mắc thường gặp khi chuẩn bị chuyến đi bằng xe thuê được trả lời tại trang [hỏi đáp](/blog/hoi-dap/), và kinh nghiệm di chuyển tổng quát có tại trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Ngoài ra, các thắc mắc thường gặp khi chuẩn bị chuyến đi bằng xe thuê được trả lời tại trang [hỏi đáp](/hoi-dap/), và kinh nghiệm di chuyển tổng quát có tại trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Kết luận về đi cầu Long Biên bằng xe máy
 

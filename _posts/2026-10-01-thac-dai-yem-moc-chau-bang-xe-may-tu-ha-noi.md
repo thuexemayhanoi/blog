@@ -35,11 +35,11 @@ Mùa nước của thác cũng đáng tính: sau mưa lớn nước về nhiều
 
 ## Chuẩn bị xe cho cung gần hai trăm ki-lô-mét
 
-Kiểm tra xe với cung này là nghiêm túc: lốp căng đúng và còn đủ gai, phanh trước sau ăn đều, đèn sáng, dây xích chỉnh đúng độ lỏng nếu chạy xe số, và nhớ đổ đầy bình trước các đoạn sườn núi. Trên quốc lộ sáu có trạm xăng đều, nhưng khắp đoạn lên vùng thác, thưa hơn, nên canh mốc đổ khi kim giảm nửa bình. Người đi bằng xe máy thuê nên nói rõ với cửa hàng cung đường Mộc Châu hai ngày, để nhận xe khỏe và đã bảo dưỡng; phần chọn loại xe cho cung xa nằm trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), thông tin dịch vụ ở trang [cho thuê xe máy](/blog/thue-xe/).
+Kiểm tra xe với cung này là nghiêm túc: lốp căng đúng và còn đủ gai, phanh trước sau ăn đều, đèn sáng, dây xích chỉnh đúng độ lỏng nếu chạy xe số, và nhớ đổ đầy bình trước các đoạn sườn núi. Trên quốc lộ sáu có trạm xăng đều, nhưng khắp đoạn lên vùng thác, thưa hơn, nên canh mốc đổ khi kim giảm nửa bình. Người đi bằng xe máy thuê nên nói rõ với cửa hàng cung đường Mộc Châu hai ngày, để nhận xe khỏe và đã bảo dưỡng; phần chọn loại xe cho cung xa nằm trong bài [chọn loại xe](/xe-may/chon-loai-xe/), thông tin dịch vụ ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ mang theo cho hai ngày: hai lớp áo vì vùng cao về đêm lạnh quanh năm, áo mưa gấp, giày bám, dụng cụ vá và bơm nhỏ nếu có, ít tiền lẻ, và nước đủ cho hai người mỗi chặng. Cách gói đồ cho chuyến hai ngày được viết riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), nên đọc trước khi xếp đồ.
+Đồ mang theo cho hai ngày: hai lớp áo vì vùng cao về đêm lạnh quanh năm, áo mưa gấp, giày bám, dụng cụ vá và bơm nhỏ nếu có, ít tiền lẻ, và nước đủ cho hai người mỗi chặng. Cách gói đồ cho chuyến hai ngày được viết riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), nên đọc trước khi xếp đồ.
 
-Giấy tờ mang đủ bản gốc: giấy phép lái xe và đăng ký xe. Trục quốc lộ sáu có các chốt kiểm tra định kỳ, và các điểm nghỉ ven đường đôi lúc cũng kiểm tra giấy tờ xe. Nhóm quy định khi chạy đường trường và đường núi gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ.
+Giấy tờ mang đủ bản gốc: giấy phép lái xe và đăng ký xe. Trục quốc lộ sáu có các chốt kiểm tra định kỳ, và các điểm nghỉ ven đường đôi lúc cũng kiểm tra giấy tờ xe. Nhóm quy định khi chạy đường trường và đường núi gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ.
 
 ## Những đoạn cần để ý trên cung
 
@@ -51,6 +51,6 @@ Về khung giờ chụp ảnh, sáng sớm ánh nắng đổ xiên qua mây, và
 
 ## Ghép chuyến quanh Mộc Châu
 
-Thác Dải Yếm hợp ghép với các điểm quanh Mộc Châu: đồi chè, các trang trại mận, thung lũng mây sáng sớm. Nếu bạn chỉ có một ngày, chọn thác làm đích rồi về, đừng cố kẹp thêm điểm cho kịp. Nếu có hai ngày, nhóm bài [Mộc Châu](/blog/cung-duong/moc-chau/) gói các mốc đáng dừng từ Hà Nội lên, giúp bạn ghép điểm theo đúng nhịp. Ai muốn luyện tay lái trước cung xa, các vòng [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) là chỗ khởi động hợp lý.
+Thác Dải Yếm hợp ghép với các điểm quanh Mộc Châu: đồi chè, các trang trại mận, thung lũng mây sáng sớm. Nếu bạn chỉ có một ngày, chọn thác làm đích rồi về, đừng cố kẹp thêm điểm cho kịp. Nếu có hai ngày, nhóm bài [Mộc Châu](/cung-duong/moc-chau/) gói các mốc đáng dừng từ Hà Nội lên, giúp bạn ghép điểm theo đúng nhịp. Ai muốn luyện tay lái trước cung xa, các vòng [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) là chỗ khởi động hợp lý.
 
 Cung từ Hà Nội đi thác Dải Yếm dài, nhưng đó là kiểu dài đáng giá: mỗi chặng đổi một dáng núi, và đứng trước thác lúc nước chảy mạnh, bạn hiểu vì sao người ta sẵn sàng chạy gần bốn trăm ki-lô-mét vòng trong một cuối tuần.

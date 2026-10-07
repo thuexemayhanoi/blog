@@ -63,7 +63,7 @@ Với người thuê tại các khu vực như Long Biên, Bồ Đề gần ph�
 - Quay một video ngắn quanh xe tại chỗ trả.
 - Chờ bên cho thuê xác nhận xong rồi mới bàn giao tiền cọc hoặc nhận lại giấy tờ.
 
-Cách làm này đặc biệt quan trọng với hợp đồng thuê dài hạn, khi xe ở với bạn nhiều ngày, nhiều khả năng phát sinh hư hỏng. Bạn có thể xem thêm về [nhận xe và trả xe máy thuê](/blog/thue-xe/nhan-tra-xe/) để nắm quy trình đầy đủ.
+Cách làm này đặc biệt quan trọng với hợp đồng thuê dài hạn, khi xe ở với bạn nhiều ngày, nhiều khả năng phát sinh hư hỏng. Bạn có thể xem thêm về [nhận xe và trả xe máy thuê](/thue-xe/nhan-tra-xe/) để nắm quy trình đầy đủ.
 
 ## Câu hỏi thường gặp về việc chụp ảnh khi nhận xe máy thuê
 
@@ -81,4 +81,4 @@ Yêu cầu đưa xe ra chỗ sáng hoặc dùng đèn pin điện thoại rọi 
 
 ## Kết luận
 
-Nhận xe máy thuê chụp lại gì tóm gọn trong sáu mục: bốn góc toàn thân xe, vết trầy sẵn có, đồng hồ công tơ mét, kim xăng, giấy tờ phụ kiện, và tem đăng kiểm biển số. Gửi ngay bộ ảnh cho bên cho thuê qua tin nhắn để hai bên cùng xác nhận. Khi cần thuê xe máy tại Hà Nội, bạn có thể tham khảo [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) để chuẩn bị tốt hơn trước khi nhận xe.
+Nhận xe máy thuê chụp lại gì tóm gọn trong sáu mục: bốn góc toàn thân xe, vết trầy sẵn có, đồng hồ công tơ mét, kim xăng, giấy tờ phụ kiện, và tem đăng kiểm biển số. Gửi ngay bộ ảnh cho bên cho thuê qua tin nhắn để hai bên cùng xác nhận. Khi cần thuê xe máy tại Hà Nội, bạn có thể tham khảo [thuê xe máy theo ngày](/thue-xe/thue-ngay/) để chuẩn bị tốt hơn trước khi nhận xe.

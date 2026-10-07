@@ -18,7 +18,7 @@ Buộc đồ cồng kềnh xe máy thuê thế nào cho an toàn là câu hỏi 
 
 ## Quy định hiện hành về chở hàng trên xe máy
 
-Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, số 36/2024/QH15, hàng hóa chở trên xe phải được buộc chắc chắn, không cản trở việc điều khiển xe và không che khuất đèn tín hiệu, biển số. Người điều khiển xe máy chở hàng cồng kềnh làm mất thăng bằng hoặc che khuất tầm nhìn là hành vi vi phạm bị xử phạt theo quy định xử phạt hiện hành, cụ thể là Nghị định 168/2024/NĐ-CP; mức xử lý phụ thuộc từng lỗi và có thể thay đổi theo văn bản mới, nên bạn không nên dựa vào cảm tính để chở đồ quá tầm với. Khác với chở người, vốn có hướng dẫn riêng trong bài [quy định chở người trên xe máy](/blog/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), chở hàng ít khi được nhắc đến trước khi thuê xe, dù rủi ro tai nạn của nó không nhỏ hơn.
+Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, số 36/2024/QH15, hàng hóa chở trên xe phải được buộc chắc chắn, không cản trở việc điều khiển xe và không che khuất đèn tín hiệu, biển số. Người điều khiển xe máy chở hàng cồng kềnh làm mất thăng bằng hoặc che khuất tầm nhìn là hành vi vi phạm bị xử phạt theo quy định xử phạt hiện hành, cụ thể là Nghị định 168/2024/NĐ-CP; mức xử lý phụ thuộc từng lỗi và có thể thay đổi theo văn bản mới, nên bạn không nên dựa vào cảm tính để chở đồ quá tầm với. Khác với chở người, vốn có hướng dẫn riêng trong bài [quy định chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), chở hàng ít khi được nhắc đến trước khi thuê xe, dù rủi ro tai nạn của nó không nhỏ hơn.
 
 ## Nguyên tắc buộc đồ an toàn trước khi lên xe
 
@@ -28,7 +28,7 @@ Dây buộc quyết định phần lớn độ an toàn. Dây chun có móc dễ
 
 ## Chở đồ to trên xe máy: phân theo loại xe bạn thuê
 
-Không phải xe nào cũng chở được cùng một kiện đồ. Xe ga phổ thông có cốp lớn dưới yên, phù hợp đồ mềm, gấp gọn được; xe số có giàn sau cao, khỏe, hợp buộc kiện cồng kềnh. Nếu bạn biết trước chuyến đi cần chở nhiều, chọn đúng loại xe ngay từ lúc thuê thay vì cố nhồi lên xe ga nhỏ: kinh nghiệm chọn xe theo loại hành lý được gom trong bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/blog/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/), và bảng giá để soạn chi phí nằm trong trang [bảng giá xe ga](/blog/bang-gia-xe-ga/).
+Không phải xe nào cũng chở được cùng một kiện đồ. Xe ga phổ thông có cốp lớn dưới yên, phù hợp đồ mềm, gấp gọn được; xe số có giàn sau cao, khỏe, hợp buộc kiện cồng kềnh. Nếu bạn biết trước chuyến đi cần chở nhiều, chọn đúng loại xe ngay từ lúc thuê thay vì cố nhồi lên xe ga nhỏ: kinh nghiệm chọn xe theo loại hành lý được gom trong bài [đi chở hành lý cồng kềnh nên thuê loại xe nào](/xe-may/2026/09/29/i-cho-hanh-ly-cong-kenh-nen-thue-loai-xe-nao/), và bảng giá để soạn chi phí nằm trong trang [bảng giá xe ga](/bang-gia-xe-ga/).
 
 Khi nhận xe, kiểm tra cùng cửa hàng giàn sau còn chắc không, có móc treo sẵn không, và xin thêm dây buộc nếu cửa hàng có. Biên bản nhận xe nên ghi rõ hiện trạng giàn, vì một giàn lỏng có sẵn sẽ khiến đồ đè lên bạn tại khúc cua đầu tiên.
 
@@ -44,7 +44,7 @@ Có những kiện không nên chở bằng xe máy dù buộc kỹ: tủ kính,
 
 ## Kết luận
 
-Buộc đồ cồng kềnh lên xe máy thuê thế nào cho an toàn? Đặt thấp, cân bằng, buộc chắc ở hai đầu và một điểm giữa, không che đèn và gương, kiểm tra lại sau vài cây số đầu. Nếu kiện đồ vượt quá khả năng của xe, đổi phương án thay vì liều. Cần tư vấn chọn xe có giàn chắc hoặc mượn dây buộc, liên hệ 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00; các chủ đề an toàn khi đi xe được gom trong trang [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Buộc đồ cồng kềnh lên xe máy thuê thế nào cho an toàn? Đặt thấp, cân bằng, buộc chắc ở hai đầu và một điểm giữa, không che đèn và gương, kiểm tra lại sau vài cây số đầu. Nếu kiện đồ vượt quá khả năng của xe, đổi phương án thay vì liều. Cần tư vấn chọn xe có giàn chắc hoặc mượn dây buộc, liên hệ 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00; các chủ đề an toàn khi đi xe được gom trong trang [an toàn và pháp lý](/an-toan-phap-ly/).
 
 ## Nguồn tham khảo
 

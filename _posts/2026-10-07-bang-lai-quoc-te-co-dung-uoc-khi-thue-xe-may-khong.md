@@ -66,4 +66,4 @@ Người Việt có bằng lái Việt Nam có thể xin cấp thêm giấy phé
 
 ## Kết luận
 
-Bằng lái quốc tế thuê xe máy tại Hà Nội dùng được khi giấy phép còn hiệu lực, đúng hạng xe và đi kèm bằng lái quốc gia bản gốc. Trước khi thuê, bạn nên hỏi rõ chính sách của từng cửa hàng về giấy tờ và đặt cọc. Để chuẩn bị tốt hơn cho chuyến đi, tham khảo thêm về [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) và [giá thuê xe máy](/blog/thue-xe/gia-thue/) trước khi chốt.
+Bằng lái quốc tế thuê xe máy tại Hà Nội dùng được khi giấy phép còn hiệu lực, đúng hạng xe và đi kèm bằng lái quốc gia bản gốc. Trước khi thuê, bạn nên hỏi rõ chính sách của từng cửa hàng về giấy tờ và đặt cọc. Để chuẩn bị tốt hơn cho chuyến đi, tham khảo thêm về [thủ tục thuê xe máy](/thue-xe/thu-tuc/) và [giá thuê xe máy](/thue-xe/gia-thue/) trước khi chốt.

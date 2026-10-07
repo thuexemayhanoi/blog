@@ -35,7 +35,7 @@ Ngoài ra, hãy hỏi luôn cả giá thuê theo ngày và theo tuần để so 
 
 ## Thuê xe không cần bằng và ranh giới pháp lý
 
-Cụm từ thuê xe không cần bằng dễ gây hiểu lầm rằng chưa có bằng vẫn chạy xe được. Thực tế, theo quy định hiện hành, người điều khiển xe máy trên đường công cộng phải có giấy phép lái xe tương ứng với loại xe. Thuê được xe nghĩa là hợp đồng được ký, không có nghĩa là người chưa đủ điều kiện được phép điều khiển phương tiện đó. Các hạng giấy phép được tóm tắt trong bài [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
+Cụm từ thuê xe không cần bằng dễ gây hiểu lầm rằng chưa có bằng vẫn chạy xe được. Thực tế, theo quy định hiện hành, người điều khiển xe máy trên đường công cộng phải có giấy phép lái xe tương ứng với loại xe. Thuê được xe nghĩa là hợp đồng được ký, không có nghĩa là người chưa đủ điều kiện được phép điều khiển phương tiện đó. Các hạng giấy phép được tóm tắt trong bài [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
 
 Nếu bạn để một người không có bằng điều khiển chiếc xe mình thuê, trách nhiệm khi có sự cố gần như dồn về người đứng tên hợp đồng. Rủi ro này không chỉ là xử phạt hành chính, mà còn là các khoản bồi thường khi có va chạm, mà bảo hiểm thường không chi trả cho trường hợp người lái không hợp lệ.
 
@@ -45,8 +45,8 @@ Cuối cùng, đừng để người quen mượn chiếc xe thuê của bạn n
 
 ## Chuẩn bị hồ sơ khi đến cửa hàng ở Long Biên
 
-Bộ hồ sơ tối thiểu gồm CCCD bản gốc của người thuê, giấy phép lái xe của người sẽ điều khiển, và số điện thoại liên hệ thật. Các bước nhận xe được tóm tắt trong bài [thủ tục thuê xe](/blog/thue-xe/thu-tuc/). Khi chưa rõ ai sẽ lái, bạn nên trình bày thẳng thắn ngay từ đầu để cửa hàng tư vấn dòng xe và hình thức hợp đồng phù hợp, thay vì giấu thông tin rồi để rắc rối phát sinh sau.
+Bộ hồ sơ tối thiểu gồm CCCD bản gốc của người thuê, giấy phép lái xe của người sẽ điều khiển, và số điện thoại liên hệ thật. Các bước nhận xe được tóm tắt trong bài [thủ tục thuê xe](/thue-xe/thu-tuc/). Khi chưa rõ ai sẽ lái, bạn nên trình bày thẳng thắn ngay từ đầu để cửa hàng tư vấn dòng xe và hình thức hợp đồng phù hợp, thay vì giấu thông tin rồi để rắc rối phát sinh sau.
 
 Khi thuê xe cho người khác đi, bạn nên chuẩn bị thêm vài việc nhỏ: chụp lại giấy phép lái của người lái, ghi rõ trong hợp đồng ai là người điều khiển chính, và báo trước cho cửa hàng nếu người đó thay đổi giữa chừng. Các bước này giữ mọi thứ rõ ràng nếu có sự cố.
 
-Các câu hỏi về điều kiện nhận xe đều thuộc nhóm [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) trong mục [hỏi đáp](/blog/hoi-dap/). Nếu bằng lái của bạn đang chờ cấp lại và cần xác nhận gấp, hãy gọi trước cho Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+Các câu hỏi về điều kiện nhận xe đều thuộc nhóm [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/) trong mục [hỏi đáp](/hoi-dap/). Nếu bằng lái của bạn đang chờ cấp lại và cần xác nhận gấp, hãy gọi trước cho Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.

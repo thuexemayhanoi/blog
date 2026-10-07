@@ -39,9 +39,9 @@ Một nhóm vi phạm dễ bị bỏ qua là sử dụng giấy phép lái xe kh
 
 Với khách thuê xe máy ở Hà Nội, nhóm rủi ro về bằng lái gồm ba tình huống thực tế. Một là thuê xe khi chưa có bằng: không có cửa hàng hợp pháp nào giao xe máy cho người không đủ điều kiện lái xe, và nếu bạn tự tìm cách mượn xe rồi bị kiểm tra, mức xử lý áp dụng cho chính bạn như đã nêu trên. Hai là thuê dòng xe phân khối lớn khi chỉ có bằng A1: bằng không phù hợp với loại xe đang điều khiển cũng nằm trong nhóm vi phạm, nên khi nhận xe bạn cần chọn đúng loại xe tương ứng hạng bằng của mình. Ba là đi đường mà quên mang bằng: lỗi nhẹ nhưng vẫn bị xử lý, và còn làm bạn mất thời gian giữa chuyến đi.
 
-Trước khi đặt xe, hãy kiểm tra bằng lái còn nguyên vẹn, còn hạn với các hạng có thời hạn và mang theo khi nhận xe. Tổng quan các nhóm giấy tờ cần chuẩn bị khi thuê xe nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn khung quy định lưu thông áp dụng cho người lái xe máy được trình bày trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Trước khi đặt xe, hãy kiểm tra bằng lái còn nguyên vẹn, còn hạn với các hạng có thời hạn và mang theo khi nhận xe. Tổng quan các nhóm giấy tờ cần chuẩn bị khi thuê xe nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn khung quy định lưu thông áp dụng cho người lái xe máy được trình bày trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
-Nếu bạn chưa có bằng A1, lộ trình gợi ý là đăng ký thi sớm, đồng thời đi lại tạm bằng xe đạp điện hoặc phương tiện công cộng. Khi đã có bằng, việc thuê một chiếc xe số phổ thông để luyện tay lái phố Hà Nội cũng giúp bạn tự tin hơn nhiều; các dòng xe hiện có được liệt kê trong trang [thuê xe máy](/blog/thue-xe/).
+Nếu bạn chưa có bằng A1, lộ trình gợi ý là đăng ký thi sớm, đồng thời đi lại tạm bằng xe đạp điện hoặc phương tiện công cộng. Khi đã có bằng, việc thuê một chiếc xe số phổ thông để luyện tay lái phố Hà Nội cũng giúp bạn tự tin hơn nhiều; các dòng xe hiện có được liệt kê trong trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -49,6 +49,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về không bằng lái bị phạt thế nào
 
-Không bằng lái bị phạt thế nào phụ thuộc loại xe: mức phạt cho xe phổ thông dưới 125 cm3 thấp hơn so với xe phân khối lớn hoặc xe ba bánh, và tất cả đều cao hơn hẳn lỗi quên mang theo bằng. Người thuê xe cần chọn đúng xe theo hạng bằng, luôn mang bằng khi ra đường và không bao giờ mượn xe khi chưa đủ điều kiện lái. Để cập nhật khung kiến thức áp dụng hằng ngày, bạn nên xem qua các bài viết trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Không bằng lái bị phạt thế nào phụ thuộc loại xe: mức phạt cho xe phổ thông dưới 125 cm3 thấp hơn so với xe phân khối lớn hoặc xe ba bánh, và tất cả đều cao hơn hẳn lỗi quên mang theo bằng. Người thuê xe cần chọn đúng xe theo hạng bằng, luôn mang bằng khi ra đường và không bao giờ mượn xe khi chưa đủ điều kiện lái. Để cập nhật khung kiến thức áp dụng hằng ngày, bạn nên xem qua các bài viết trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Thông tin về mức xử phạt vi phạm giao thông đường bộ có thể thay đổi theo từng nghị định; trước khi lưu thông, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

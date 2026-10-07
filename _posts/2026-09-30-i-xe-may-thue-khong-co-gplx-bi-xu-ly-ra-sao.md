@@ -29,7 +29,7 @@ Trách nhiệm khi đi xe thuê không giấy phép lái xe chia theo từng kh�
 
 Vì vậy, phần lớn cửa hàng cho thuê xe máy ở Hà Nội có uy tín đều hỏi về giấy phép lái xe trước khi giao xe, nhất là với khách mặt lạ hoặc khách quốc tế. Nếu bạn không có giấy phép lái xe hợp lệ, đừng tìm cách thuê: hậu quả khi bị phát hiện không chỉ là khoản phạt và xe bị tạm giữ, mà còn là phạt thêm các vi phạm nối tiếp như chấp hành sai mệnh lệnh của người có thẩm quyền nếu bạn cố tình tiếp tục.
 
-Cũng cần nói rõ một vùng dễ nhầm: xe máy dưới 50cc và một số nhóm đối tượng có quy định giấy phép riêng, và cách hiểu dân gian về nhóm này không phải lúc nào cũng đúng với quy định hiện hành. Trước khi dựa vào ngoại lệ nào, hãy kiểm tra quy định mới nhất thay vì nghe lại từ bạn bè. Các câu hỏi pháp lý khác khi thuê xe được gom trong mục [hỏi đáp pháp lý](/blog/hoi-dap/hoi-dap-phap-ly/), còn kiến thức rộng hơn về giấy phép và quy định giao thông nằm trong chuyên mục [an toàn pháp lý](/blog/an-toan-phap-ly/), và trang chủ đề [hỏi đáp thuê xe máy](/blog/hoi-dap/) dẫn sang các nhóm hỏi về giá, thủ tục và sự cố.
+Cũng cần nói rõ một vùng dễ nhầm: xe máy dưới 50cc và một số nhóm đối tượng có quy định giấy phép riêng, và cách hiểu dân gian về nhóm này không phải lúc nào cũng đúng với quy định hiện hành. Trước khi dựa vào ngoại lệ nào, hãy kiểm tra quy định mới nhất thay vì nghe lại từ bạn bè. Các câu hỏi pháp lý khác khi thuê xe được gom trong mục [hỏi đáp pháp lý](/hoi-dap/hoi-dap-phap-ly/), còn kiến thức rộng hơn về giấy phép và quy định giao thông nằm trong chuyên mục [an toàn pháp lý](/an-toan-phap-ly/), và trang chủ đề [hỏi đáp thuê xe máy](/hoi-dap/) dẫn sang các nhóm hỏi về giá, thủ tục và sự cố.
 
 ## Nếu đã bị dừng khi đang đi xe thuê
 

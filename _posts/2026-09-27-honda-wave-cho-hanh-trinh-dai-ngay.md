@@ -19,17 +19,17 @@ Câu hỏi honda wave đi xa có được không xuất hiện thường xuyên 
 
 Wave có động cơ xe số đơn giản với đường cong công suất phù hợp tốc độ đường trường, khung xe nhẹ nhưng chắc, và trọng lượng thấp giúp xe giữ độ ổn định tốt khi có gió ngang hay vượt xe tải trên quốc lộ. Hộp số tay cho phép người lái chủ động về số khi leo dốc đèo hoặc vượt xe, thay vì phụ thuộc bộ truyền vô cấp như xe ga, một khác biệt quan trọng trên các cung đường dài có địa hình thay đổi. Thêm vào đó, mức tiêu hao xăng thấp của Wave khiến chi phí cho chuyến vài trăm cây số cũng không quá nặng, ít phải dừng đổ xăng hơn so với xe ga cùng hành trình.
 
-Độ bền cũng là lý do Wave hay được chọn cho chuyến dài: kết cấu cơ khí ít hỏng vặt, phụ tùng sẵn ở hầu hết các tỉnh, nên dù có trục trặc nhỏ trên đường thì việc tìm tiệm sửa cũng nhanh. Với người thuê, điều đó giảm rủi ro kẹt giữa chuyến đi. Thông tin chung về dòng xe nằm ở [chủ đề Honda Wave](/blog/xe-may/honda-wave/) nếu bạn muốn đọc thêm trước khi quyết định.
+Độ bền cũng là lý do Wave hay được chọn cho chuyến dài: kết cấu cơ khí ít hỏng vặt, phụ tùng sẵn ở hầu hết các tỉnh, nên dù có trục trặc nhỏ trên đường thì việc tìm tiệm sửa cũng nhanh. Với người thuê, điều đó giảm rủi ro kẹt giữa chuyến đi. Thông tin chung về dòng xe nằm ở [chủ đề Honda Wave](/xe-may/honda-wave/) nếu bạn muốn đọc thêm trước khi quyết định.
 
 ## Những giới hạn cần biết trước khi đặt xe
 
 Đi xa bằng Wave có ba giới hạn thực tế. Thứ nhất là tốc độ: đây là dòng xe phổ thông, chạy bền rãi ở mức tốc độ trung bình, cố ép máy chạy nhanh dài ngày sẽ nóng máy và hao xăng bất thường, nên với lịch trình gấp thì xe máy không phải phương tiện nhanh nhất. Thứ hai là chỗ để đồ: không có cốp dưới yên, hành lý chuyến dài ngày phải buộc sau yên hoặc mang ba lô, nên cần chuẩn bị dây buộc và phân bố trọng lượng cân đối. Thứ ba là phong cách: nếu bạn quen xe ga và chưa từng đi xe số đường trường, nên dành thời gian làm quen côn số trên đường vắng trước khi lên quốc lộ.
 
-Ngoài ra, đi xa nên tránh các khung giờ xe container đông trên vành đai và tránh chạy ban đêm đoạn không đủ đèn. Kinh nghiệm tổng hợp cho các [chuyến đi nhiều ngày](/blog/cung-duong/) có thêm các gợi ý lập lộ trình và nghỉ giữa chặng phù hợp với sức người lái hơn là chạy liên tục tới đích.
+Ngoài ra, đi xa nên tránh các khung giờ xe container đông trên vành đai và tránh chạy ban đêm đoạn không đủ đèn. Kinh nghiệm tổng hợp cho các [chuyến đi nhiều ngày](/cung-duong/) có thêm các gợi ý lập lộ trình và nghỉ giữa chặng phù hợp với sức người lái hơn là chạy liên tục tới đích.
 
 ## Kiểm tra xe trước chuyến dài
 
-Danh sách kiểm tra trước khi nhận xe thuê cho hành trình dài cần kỹ hơn chuyến đi phố: mức nhớt máy và màu nhớt, tình trạng xích và bi tua xích, độ căng dây curoa, áp suất và độ mòn lốp trước sau, phanh trước phanh sau, đèn pha cốt và đèn hậu, còi, gương. Chạy thử ít nhất hai cây số, trong đó có một đoạn lên số cao và về số thấp để nghe máy đều không. Với chuyến dài, đừng nhận xe ngay cả khi chỉ một hạng mục nhỏ thấy lệch, vì sai số nhỏ trên phố có thể thành sự cố thật trên đường trường. Cách chuẩn bị nhận xe chi tiết đã có sẵn ở [mục kinh nghiệm thuê xe](/blog/kinh-nghiem/).
+Danh sách kiểm tra trước khi nhận xe thuê cho hành trình dài cần kỹ hơn chuyến đi phố: mức nhớt máy và màu nhớt, tình trạng xích và bi tua xích, độ căng dây curoa, áp suất và độ mòn lốp trước sau, phanh trước phanh sau, đèn pha cốt và đèn hậu, còi, gương. Chạy thử ít nhất hai cây số, trong đó có một đoạn lên số cao và về số thấp để nghe máy đều không. Với chuyến dài, đừng nhận xe ngay cả khi chỉ một hạng mục nhỏ thấy lệch, vì sai số nhỏ trên phố có thể thành sự cố thật trên đường trường. Cách chuẩn bị nhận xe chi tiết đã có sẵn ở [mục kinh nghiệm thuê xe](/kinh-nghiem/).
 
 Hỏi cửa hàng rõ hai điều trước khi rời: số điện thoại hỗ trợ khi gặp sự cố giữa chuyến và quy định của cửa hàng nếu xe phải sửa ở tỉnh xa, phần ai chịu chi phí. Đây là câu hỏi nên hỏi ngay lúc đặt xe, không phải lúc đứng bên đường với chiếc xe không nổ được máy.
 

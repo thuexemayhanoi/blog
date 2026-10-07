@@ -41,4 +41,4 @@ Cách chọn nhanh nhất vẫn là đi thử. Khi đến cửa hàng Nguyễn T
 
 ## Tóm lại: nên chọn xe điện hay xe xăng khi thuê
 
-Chọn xe điện nếu bạn đi nội đô, thích êm, muốn thao tác đơn giản và sẵn sàng xoay quanh lịch trình sạc pin. Chọn xe xăng nếu bạn cần chủ động hành trình dài, không muốn phụ thuộc pin, hoặc đã quen xe số, xe ga. Để so sánh giá trước khi đặt, bạn xem [bảng giá](/blog/bang-gia/) của cửa hàng, tìm hiểu sâu hơn về dòng [xe máy điện](/blog/xe-may/xe-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) để chốt đúng loại xe hợp với chuyến đi của mình ở Hà Nội.
+Chọn xe điện nếu bạn đi nội đô, thích êm, muốn thao tác đơn giản và sẵn sàng xoay quanh lịch trình sạc pin. Chọn xe xăng nếu bạn cần chủ động hành trình dài, không muốn phụ thuộc pin, hoặc đã quen xe số, xe ga. Để so sánh giá trước khi đặt, bạn xem [bảng giá](/bang-gia/) của cửa hàng, tìm hiểu sâu hơn về dòng [xe máy điện](/xe-may/xe-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/xe-may/) để chốt đúng loại xe hợp với chuyến đi của mình ở Hà Nội.

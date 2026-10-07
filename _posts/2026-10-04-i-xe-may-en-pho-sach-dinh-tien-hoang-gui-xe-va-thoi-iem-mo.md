@@ -50,4 +50,4 @@ Một điểm nữa là quanh khu vực có nhiều quán nhỏ ven hồ, tiện
 
 Cuối tuần khu vực quanh hồ Gươm rất đông, giữ mũ bảo hiểm sát người khi xuống xe, khóa cổ kỹ, không để đồ đạc giá trị trong giỏ xe. Khi chạy tới gần khu phố sách, luôn để ý người đi bộ tự phát xuống lòng đường ven hồ. Nếu thuê xe máy để đi, kiểm tra xăng, phanh, lốp trước khi xuất phát, và lưu số điện thoại chủ cho thuê phòng khi cần hỗ trợ. Về lễ nghĩa nơi công cộng, giữ vệ sinh chung, bỏ rác đúng nơi, cùng giữ cho không gian phố sách luôn ngăn nắp.
 
-Bạn có thể xem thêm các điểm dạo cuối tuần khác trong mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), tham khảo tổng hợp [du lịch](/blog/du-lich/), hoặc đọc các bài [kinh nghiệm](/blog/kinh-nghiem/) để có thêm nhiều gợi ý cho những buổi dạo phố bằng xe máy quanh thủ đô.
+Bạn có thể xem thêm các điểm dạo cuối tuần khác trong mục [điểm đến Hà Nội](/du-lich/diem-den/), tham khảo tổng hợp [du lịch](/du-lich/), hoặc đọc các bài [kinh nghiệm](/kinh-nghiem/) để có thêm nhiều gợi ý cho những buổi dạo phố bằng xe máy quanh thủ đô.

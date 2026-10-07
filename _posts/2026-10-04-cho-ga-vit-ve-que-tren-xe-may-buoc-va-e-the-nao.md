@@ -46,6 +46,6 @@ Người thuê xe máy cho chuyến này nên chọn xe có bệ chân hàng ph�
 
 Vài tình huống nhỏ hay gặp: trời mưa thì trùm nilông thoáng hai đầu lồng, không trùm kín vì gia cầm cần khí; chở hai lồng thì đặt hai bên cân đối trọng lượng, không xếp chồng vì lồng dưới mất khí; và chở gà đã làm thịt thì bọc kín từng con bằng giấy, để nằm trên thùng carton chèn chắc — cách này gọn hơn hẳn chở sống cho quãng ngắn.
 
-Chở đồ và hành lý gộp chung các quy tắc xếp buộc trong mục [chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường về quê.
+Chở đồ và hành lý gộp chung các quy tắc xếp buộc trong mục [chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường về quê.
 
 Chở gà vịt về quê cuối cùng gói trong ba việc: lồng thoáng và lót sạch, đặt chắc ở bệ phẳng, và chạy đều tay có dừng kiểm tra. Làm đủ ba, con gà về tới quê còn gáy được, và chiếc xe của bạn còn sạch như lúc rời phố.

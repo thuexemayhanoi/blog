@@ -43,7 +43,7 @@ Nếu bạn không thể đến trực tiếp do đã rời Hà Nội sau kỳ t
 
 Trường hợp bạn nhận thông báo nhưng thời điểm vi phạm nằm ngoài kỳ thuê, việc cần làm là phản ánh ngay với cửa hàng và giữ lại chứng cứ: hợp đồng, biên lai trả xe, tin nhắn xác nhận. Các mốc thời gian này là căn cứ để làm rõ xe đang do ai sử dụng khi xảy ra vi phạm. Nếu cần, bạn có quyền trình bày quan điểm và khiếu nại theo trình tự nếu kết luận chưa chính xác.
 
-Muốn hạn chế rủi ro này ngay từ đầu, hãy chọn dịch vụ cho thuê có hợp đồng rõ ràng. Các tình huống bất ngờ khác khi dùng xe thuê được tổng hợp trong nhóm bài về [sự cố khi thuê xe](/blog/thue-xe/su-co/), còn cách kiểm tra vi phạm theo biển số nằm trong bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/) và trang tổng hợp về [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/).
+Muốn hạn chế rủi ro này ngay từ đầu, hãy chọn dịch vụ cho thuê có hợp đồng rõ ràng. Các tình huống bất ngờ khác khi dùng xe thuê được tổng hợp trong nhóm bài về [sự cố khi thuê xe](/thue-xe/su-co/), còn cách kiểm tra vi phạm theo biển số nằm trong bài về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/) và trang tổng hợp về [phạt nguội](/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về xử lý thông báo phạt nguội xe thuê
 

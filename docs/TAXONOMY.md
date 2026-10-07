@@ -8,13 +8,13 @@ Blog → Parent hub → Child hub → Bài viết.
 
 | Parent | Slug | Hub | Mô tả |
 |---|---|---|---|
-| P-THUE-XE | `thue-xe` | /blog/thue-xe/ | Giá, thủ tục, đặt cọc, thuê ngày/tuần/tháng, nhận trả xe, sự cố |
-| P-XE-MAY | `xe-may` | /blog/xe-may/ | Xe số, xe ga, 50cc, xe điện, các mẫu Honda/Yamaha, bảo dưỡng |
-| P-PHAP-LY | `an-toan-phap-ly` | /blog/an-toan-phap-ly/ | GPLX, bảo hiểm, nồng độ cồn, phạt nguội, biển báo, giấy tờ, quy định |
-| P-DU-LICH | `du-lich` | /blog/du-lich/ | Điểm đến, bảo tàng, phố cổ, Hồ Tây, Long Biên, ngoại thành |
-| P-CUNG-DUONG | `cung-duong` | /blog/cung-duong/ | Nội thành, cuối tuần, Mai Châu, Mộc Châu, Hà Giang, các tỉnh phía Bắc |
-| P-KY-NANG | `ky-nang` | /blog/ky-nang/ | Kỹ năng lái, tình huống, thời tiết, chở đồ, gửi xe, sức khỏe |
-| P-HOI-DAP | `hoi-dap` | /blog/hoi-dap/ | Hỏi đáp giá, thủ tục, pháp lý, chọn xe, sự cố, người mới |
+| P-THUE-XE | `thue-xe` | /thue-xe/ | Giá, thủ tục, đặt cọc, thuê ngày/tuần/tháng, nhận trả xe, sự cố |
+| P-XE-MAY | `xe-may` | /xe-may/ | Xe số, xe ga, 50cc, xe điện, các mẫu Honda/Yamaha, bảo dưỡng |
+| P-PHAP-LY | `an-toan-phap-ly` | /an-toan-phap-ly/ | GPLX, bảo hiểm, nồng độ cồn, phạt nguội, biển báo, giấy tờ, quy định |
+| P-DU-LICH | `du-lich` | /du-lich/ | Điểm đến, bảo tàng, phố cổ, Hồ Tây, Long Biên, ngoại thành |
+| P-CUNG-DUONG | `cung-duong` | /cung-duong/ | Nội thành, cuối tuần, Mai Châu, Mộc Châu, Hà Giang, các tỉnh phía Bắc |
+| P-KY-NANG | `ky-nang` | /ky-nang/ | Kỹ năng lái, tình huống, thời tiết, chở đồ, gửi xe, sức khỏe |
+| P-HOI-DAP | `hoi-dap` | /hoi-dap/ | Hỏi đáp giá, thủ tục, pháp lý, chọn xe, sự cố, người mới |
 
 51 child hub: xem `data/content-taxonomy.json` (mục `children`, mỗi mục có `parent_id`, `slug`, `hub_url`, `description`, `planned_target`, `source_required`, `legal_risk`). Tệp được khôi phục từ seed `data/state/taxonomy-config.json` bằng `scripts/factory/restore-foundation.py`; không sửa tay.
 
@@ -27,13 +27,13 @@ Blog → Parent hub → Child hub → Bài viết.
 
 ## URL công khai
 
-- Bài mới: `/blog/{parent_slug}/{child_slug}/{article_slug}/` — viết bằng `permalink` trong frontmatter, tệp nguồn vẫn phẳng trong `_posts/`.
-- Bài legacy: giữ nguyên URL THẬT đang công khai `/blog/{danh mục có dấu}/{YYYY}/{MM}/{DD}/{slug}/` (ví dụ `/blog/kinh nghiệm/2026/09/13/.../`), trong đó ngày là ngày frontmatter sau khi Jekyll chuẩn hoá về UTC. Định dạng này do `permalink: pretty` + `categories` sinh ra từ trước — KHÔNG đổi. Kiểm chứng: toàn bộ 483 URL khớp `sitemap.xml` công khai (validator đối chiếu).
-- Trang hub: `/blog/{parent_slug}/`, trang child: `/blog/{parent_slug}/{child_slug}/`, trang tổng: `/blog/chu-de/`.
+- Bài mới: `/{parent_slug}/{child_slug}/{article_slug}/` — viết bằng `permalink` trong frontmatter, tệp nguồn vẫn phẳng trong `_posts/`.
+- Bài legacy: giữ nguyên URL THẬT đang công khai `/{danh mục có dấu}/{YYYY}/{MM}/{DD}/{slug}/` (ví dụ `/kinh nghiệm/2026/09/13/.../`), trong đó ngày là ngày frontmatter sau khi Jekyll chuẩn hoá về UTC. Định dạng này do `permalink: pretty` + `categories` sinh ra từ trước — KHÔNG đổi. Kiểm chứng: toàn bộ 483 URL khớp `sitemap.xml` công khai (validator đối chiếu).
+- Trang hub: `/{parent_slug}/`, trang child: `/{parent_slug}/{child_slug}/`, trang tổng: `/chu-de/`.
 
 ## Breadcrumb
 
-Trang chủ → Cẩm nang (/blog/chu-de/) → Parent → Child → Bài. Trang mới dùng include `topic-breadcrumb.html`. Bài legacy có thể được làm giàu breadcrumb logic mà không đổi URL.
+Trang chủ → Cẩm nang (/chu-de/) → Parent → Child → Bài. Trang mới dùng include `topic-breadcrumb.html`. Bài legacy có thể được làm giàu breadcrumb logic mà không đổi URL.
 
 ## Thêm/sửa taxonomy
 

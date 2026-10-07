@@ -19,7 +19,7 @@ Chạy đèo phía Bắc bằng xe máy là phần khó nhất trong mọi cung 
 
 Đèo thử con người trước hết, nhưng xe vẫn là điều kiện nền. Với các đèo cao và dài, khách ưu tiên xe số hoặc xe ga phổ thông có tình trạng tốt: lốp còn gai, phanh ăn ngay từ nửa hành trình, dây xích không lắc lơ. Chiếc xe chạy mượt trên đường bằng chưa chắc đã đủ; phanh trước phải ăn đều, phanh sau không khựng, và động cơ không có tiếng gõ lạ. Trước khi nhận xe thuê, khách thử phanh tại chỗ, quay thử tay ga, soi lốp hai bánh và nghe động cơ; có bất thường thì đề nghị đổi xe ngay, vì trên đèo không có tiệm sửa như dưới đồng bằng.
 
-Chọn loại xe nên khớp với cung: khách mới chạy đèo ưu tiên xe số để chủ động về số khi xuống dốc; khách quen tay lái có thể dùng xe ga nhưng phải nhịp phanh trước sau nhịp nhàng thay vì đè một bên. Khách chưa rõ mình hợp loại nào có thể đọc thêm trang [chọn loại xe](/blog/xe-may/chon-loai-xe/) trước khi đặt, và gọi chủ cho thuê để chắc xe nhận được đã qua kiểm tra.
+Chọn loại xe nên khớp với cung: khách mới chạy đèo ưu tiên xe số để chủ động về số khi xuống dốc; khách quen tay lái có thể dùng xe ga nhưng phải nhịp phanh trước sau nhịp nhàng thay vì đè một bên. Khách chưa rõ mình hợp loại nào có thể đọc thêm trang [chọn loại xe](/xe-may/chon-loai-xe/) trước khi đặt, và gọi chủ cho thuê để chắc xe nhận được đã qua kiểm tra.
 
 ## Các đèo tiêu biểu phía Bắc: đọc đường trước khi lên
 
@@ -49,8 +49,8 @@ Về giờ chạy, khách bắt đầu ngày sớm khi trời ráo và còn mát
 
 ## Tập dượt trước khi đi đèo thật
 
-Khách chưa quen đèo nên chọn lộ trình tăng dần: bắt đầu với các cung núi ngắn gần Hà Nội cho quen nhịp lên xuống dốc và vào cua, rồi mới thử các đèo dài. Việc đọc trước một cung dễ như chuyến [đi Tam Đảo bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/) giúp hình dung cách chia nghỉ trên đường núi; tổng quan các tuyến nằm trong trang [cung đường các tỉnh phía Bắc](/blog/cung-duong/cung-duong-pho-bac/) để khách so độ khó và chọn đúng trình tự luyện tập.
+Khách chưa quen đèo nên chọn lộ trình tăng dần: bắt đầu với các cung núi ngắn gần Hà Nội cho quen nhịp lên xuống dốc và vào cua, rồi mới thử các đèo dài. Việc đọc trước một cung dễ như chuyến [đi Tam Đảo bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/) giúp hình dung cách chia nghỉ trên đường núi; tổng quan các tuyến nằm trong trang [cung đường các tỉnh phía Bắc](/cung-duong/cung-duong-pho-bac/) để khách so độ khó và chọn đúng trình tự luyện tập.
 
 Cuối cùng, đèo phía Bắc đẹp nhưng không tha cho người chủ quan: chạy chậm hơn kế hoạch luôn tốt hơn chạy nhanh hơn tay lái. Về tới nơi, khách rửa bùn đất quanh lốc xe, tra lại dây xích và báo ngay cho chủ xe nếu có trục trặc để kịp xử lý trước chuyến sau. Một chuyến đèo an toàn là chuyến mà khách về tới nhà với chiếc xe nguyên vẹn và lịch trình không phải đổi giữa đường.
 
-Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe số đã kiểm tra cho chuyến đèo, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/) trước khi chốt lịch.
+Khách cần thuê xe máy cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; gọi trước để nhận xe số đã kiểm tra cho chuyến đèo, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [cung đường & hành trình](/cung-duong/) trước khi chốt lịch.

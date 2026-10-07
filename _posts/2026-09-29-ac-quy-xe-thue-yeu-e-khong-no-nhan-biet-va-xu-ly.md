@@ -45,14 +45,14 @@ Nếu đã thử vài lần mà máy vẫn im, hãy dắt xe vào chỗ khô rá
 
 Với xe thuê, có hai việc bạn không nên tự làm. Thứ nhất là mượn bình của xe khác nối song song để đề nổ: gắn nhầm cực, dây chạm mát hoặc chọn sai loại bình có thể làm cháy chì, hỏng bộ sạc, biến một ca đề yếu thành hỏng cả hệ thống điện. Thứ hai là mang xe ra tiệm ngoài thay ắc quy mới: bình sai thông số làm hỏng cả máy phát, và khoản chi đó ai chịu theo hợp đồng sẽ rất khó nói.
 
-Hướng đúng là gọi cửa hàng. Các cửa hàng cho thuê thường có sẵn xe thay hoặc người tới xem, và việc chăm ắc quy, bảo dưỡng định kỳ vốn là phần của họ. Cơ chế bảo dưỡng xe máy được nói trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), còn các tình huống trục trặc giữa đường được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Hướng đúng là gọi cửa hàng. Các cửa hàng cho thuê thường có sẵn xe thay hoặc người tới xem, và việc chăm ắc quy, bảo dưỡng định kỳ vốn là phần của họ. Cơ chế bảo dưỡng xe máy được nói trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/), còn các tình huống trục trặc giữa đường được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Kiểm tra nguồn ngay khi nhận xe
 
 Người thuê cẩn thận thường làm một vòng thử nhỏ trước khi ký: bấm đề một lần nghe tiếng máy quay mạnh đều thế nào, bật đèn pha và bấm còi cùng lúc để xem nguồn có vững không. Thao tác này chỉ mất một phút nhưng giúp bạn tránh việc nhận xe mà bình đã yếu sẵn. Nếu đi nhiều ngày hoặc đi đêm, bạn nên nói trước để cửa hàng chọn cho chiếc xe đèn sáng, đề khỏe.
 
-Ghi số điện thoại cửa hàng vào máy trước khi ra đường, phần lớn hợp đồng thuê in sẵn số này. Những đầu mục nên rà khi nhận và khi trả xe được tóm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/).
+Ghi số điện thoại cửa hàng vào máy trước khi ra đường, phần lớn hợp đồng thuê in sẵn số này. Những đầu mục nên rà khi nhận và khi trả xe được tóm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/).
 
 Trước khi trả xe, nếu trong kỳ thuê bạn gặp hiện tượng đề yếu, đèn nhấp nháy, hãy nói lại cho cửa hàng biết. Thông tin đó giúp họ chăm xe trước khách sau, và cũng là cách bạn giữ được thiện cảm với nơi mình hay thuê.
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp tình huống đề không nổ; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp tình huống đề không nổ; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

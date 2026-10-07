@@ -20,14 +20,14 @@ Quy tắc URL (đọc trực tiếp từ _config.yml):
   - Với custom domain, mọi root-relative link bắt đầu bằng / và resolve trực tiếp.
   - Với project site, vẫn phát hiện double/missing baseurl như trước.
 
-Legacy Unicode URL (/blog/du lịch/..., /blog/kinh nghiệm/...):
+Legacy Unicode URL (/du lịch/..., /kinh nghiệm/...):
   - percent-decode trước khi map filesystem/live route — KHÔNG rewrite ascii.
-  - link rewrite sai (/blog/du-lich/ khi route thật /blog/du%20l%E1%BB%8Bch/)
+  - link rewrite sai (/du-lich/ khi route thật /du%20l%E1%BB%8Bch/)
     tự thành INTERNAL_404 vì route không tồn tại.
 
 Phân loại lỗi:
   INTERNAL_404          link nội bộ trỏ route không tồn tại sau build
-  DOUBLE_BASEURL        URL chứa /blog/blog/ (baseurl bị lặp)
+  DOUBLE_BASEURL        URL chứa / (baseurl bị lặp)
   MISSING_BASEURL       link root-relative thiếu /blog nhưng route thật có
   BROKEN_ASSET_INTERNAL asset nội bộ (css/js/svg/ảnh/xml) không tồn tại
   REDIRECT_LOOP         meta-refresh trỏ lại chính trang / double baseurl
@@ -57,15 +57,18 @@ ASSET_EXT = ('.css', '.js', '.svg', '.png', '.jpg', '.jpeg', '.webp', '.ico',
 
 def _site_baseurl():
     cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
-    m = re.search(r'^baseurl:\s*["\']?([^"\'\s#]+)', cfg, re.M)
-    if not m or not m.group(1).startswith('/'):
-        raise SystemExit('QA: không đọc được baseurl /blog từ _config.yml')
-    return m.group(1).rstrip('/')
+    m = re.search(r'^baseurl:\s*(?:"([^"]*)"|\'([^\']*)\'|([^\s#]*))', cfg, re.M)
+    if not m:
+        raise SystemExit('QA: không đọc được baseurl từ _config.yml')
+    value = next((g for g in m.groups() if g is not None), '')
+    if value and not value.startswith('/'):
+        raise SystemExit('QA: baseurl không hợp lệ trong _config.yml: %s' % value)
+    return value.rstrip('/')
 
 
 BASEURL = _site_baseurl()
-HOST = 'https://thuexemayhanoi.github.io'
-SITE_URL = HOST + BASEURL      # https://thuexemayhanoi.github.io/blog
+HOST = 'https://blog.thuexemaynguyentu.com'
+SITE_URL = HOST + BASEURL
 
 
 # ------------------------------------------------------------------ trích link
@@ -300,7 +303,7 @@ def run_live(base):
     def probe(path):
         if path in probed:
             return probed[path]
-        # path dạng '/blog/...' (đã có baseurl) -> URL tuyệt đối từ host root
+        # path dạng '/...' (đã có baseurl) -> URL tuyệt đối từ host root
         url = (HOST + urllib.parse.quote(path, safe='/:')
                if path.startswith('/')
                else base + urllib.parse.quote(path, safe='/:'))

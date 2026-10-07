@@ -17,9 +17,9 @@ Bạn dự định đi lại ở Hà Nội trong khoảng năm đến bảy ngà
 
 ## Hai gói thuê cơ bản khác nhau ở điểm nào
 
-Gói ngày là hình thức phổ biến nhất: bạn trả theo từng ngày sử dụng, nhận xe và trả xe theo thời gian đã thỏa thuận. Cách tính này đơn giản, dễ hiểu, không ràng buộc dài, và phù hợp với hầu hết tình huống ngắn hạn. Trang [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) tóm tắt cách tính, giấy tờ cần mang và những điểm nên rà trước khi nhận xe.
+Gói ngày là hình thức phổ biến nhất: bạn trả theo từng ngày sử dụng, nhận xe và trả xe theo thời gian đã thỏa thuận. Cách tính này đơn giản, dễ hiểu, không ràng buộc dài, và phù hợp với hầu hết tình huống ngắn hạn. Trang [thuê xe theo ngày](/thue-xe/thue-ngay/) tóm tắt cách tính, giấy tờ cần mang và những điểm nên rà trước khi nhận xe.
 
-Gói tuần là một biên bản dài hơn: bạn chốt một mức giá trọn cho khoảng bảy ngày, thường thấp hơn đơn giá ngày nhân bảy. Ngoài khoản tiền, gói tuần còn giảm số lần bạn phải chạy tới cửa hàng để ký lại hoặc gia hạn. Chi tiết về gói này nằm trong trang [thuê xe theo tuần](/blog/thue-xe/thue-tuan/), nơi giải thích cách thỏa thuận thời gian và cách tính khi bạn muốn kéo dài hoặc rút ngắn giữa kỳ.
+Gói tuần là một biên bản dài hơn: bạn chốt một mức giá trọn cho khoảng bảy ngày, thường thấp hơn đơn giá ngày nhân bảy. Ngoài khoản tiền, gói tuần còn giảm số lần bạn phải chạy tới cửa hàng để ký lại hoặc gia hạn. Chi tiết về gói này nằm trong trang [thuê xe theo tuần](/thue-xe/thue-tuan/), nơi giải thích cách thỏa thuận thời gian và cách tính khi bạn muốn kéo dài hoặc rút ngắn giữa kỳ.
 
 ## Thuê xe ngày hay tuần rẻ hơn: so sánh theo bảng giá niêm yết
 
@@ -27,7 +27,7 @@ Lấy ví dụ nhóm xe ga nhỏ gọn như Honda Click hoặc Yamaha Mio. Giá 
 
 Với Honda Vision, giá ngày niêm 200.000 đồng, bảy ngày lẻ tương đương 1.400.000 đồng, còn gói tuần niêm trong khoảng 800.000 đến 1.000.000 đồng. Honda Air Blade cũng có gói tuần niêm 800.000 đồng trong khi giá ngày là 200.000 đồng. Ba ví dụ trên cho cùng một kết luận: chừng nào bạn đi đủ và ổn định cả bảy ngày, gói tuần luôn rẻ hơn cách tính lẻ.
 
-Mức giá cụ thể theo từng dòng xe được cập nhật trong trang [bảng giá](/blog/bang-gia/). Trước khi đặt, bạn nên mở trang này hoặc gọi hỏi để lấy con số mới nhất, vì giá có thể thay đổi theo đời xe và tình trạng xe trong kho, và con số niêm hôm nay chưa chắc còn nguyên sau vài tuần.
+Mức giá cụ thể theo từng dòng xe được cập nhật trong trang [bảng giá](/bang-gia/). Trước khi đặt, bạn nên mở trang này hoặc gọi hỏi để lấy con số mới nhất, vì giá có thể thay đổi theo đời xe và tình trạng xe trong kho, và con số niêm hôm nay chưa chắc còn nguyên sau vài tuần.
 
 ## Cách tính nhanh theo lịch trình của bạn
 
@@ -47,6 +47,6 @@ Trong những trường hợp này, chênh lệch giữa nhân lẻ và gói tu�
 
 Bốn câu đáng mang theo khi ra cửa hàng: gói tuần tính tròn bảy ngày hay tính theo khối hai mươi tư giờ nhân lên; nếu trả sớm thì phần chênh được tính lại thế nào; giữa kỳ muốn đổi xe khác dòng thì áp giá theo gói nào; và khi muốn kéo dài thêm ngày thì đơn giá tiếp theo chạy theo tuần hay theo ngày. Câu trả lời cho bốn câu này quyết định gói tuần có thật sự rẻ với bạn hay không, nhiều khi rõ hơn cả con số niêm yết.
 
-Nếu bạn còn phân vân giữa các dòng xe để chọn cho gói tuần, các cặp so sánh phổ biến được gộp lại tại trang [so sánh khi thuê xe máy](/blog/xe-may/so-sanh-xe/). Còn nếu bạn chưa rõ giấy tờ cần chuẩn bị để lấy xe nhanh, bài về [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) trình bày đủ các bước cần thiết.
+Nếu bạn còn phân vân giữa các dòng xe để chọn cho gói tuần, các cặp so sánh phổ biến được gộp lại tại trang [so sánh khi thuê xe máy](/xe-may/so-sanh-xe/). Còn nếu bạn chưa rõ giấy tờ cần chuẩn bị để lấy xe nhanh, bài về [thủ tục thuê xe](/thue-xe/thu-tuc/) trình bày đủ các bước cần thiết.
 
 Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú đặt tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày. Gọi số 0942 467 674 để hỏi giá gói tuần theo dòng xe đang còn, so với giá tính lẻ từng ngày, rồi chọn phương án khớp với lịch của bạn ngay từ đầu.

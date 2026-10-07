@@ -57,8 +57,8 @@ Trời mưa hoặc sương muối chiều khiến mặt đèo trơn bất ngờ,
 
 ## Tóm lại: luyện kỹ năng trước khi chạy cung đường dài
 
-Hạ dốc an toàn là tổ hợp của phanh đúng nhịp, tư thế đúng và tốc độ vào dốc đúng. Trước khi lên kế hoạch chạy cung đường cuối tuần, bạn nên ôn lại [kỹ năng lái xe máy cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), từ cách dùng phanh đến xử lý cua gấp.
+Hạ dốc an toàn là tổ hợp của phanh đúng nhịp, tư thế đúng và tốc độ vào dốc đúng. Trước khi lên kế hoạch chạy cung đường cuối tuần, bạn nên ôn lại [kỹ năng lái xe máy cơ bản](/ky-nang/ky-nang-lai-co-ban/), từ cách dùng phanh đến xử lý cua gấp.
 
-Nếu bạn đi theo các [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) từ Hà Nội, các đoạn dốc dài thường xuất hiện khi vào vùng núi, ví dụ trên đường lên [Mộc Châu](/blog/cung-duong/moc-chau/). Chạy theo nhóm thì nhớ thả chậm ở đỉnh dốc, giữ khoảng cách và luôn bấm còi trước cua khuất. Người thuê xe nên hỏi trước cửa hàng về tình trạng phanh và chọn loại xe phù hợp với địa hình sắp đi.
+Nếu bạn đi theo các [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) từ Hà Nội, các đoạn dốc dài thường xuất hiện khi vào vùng núi, ví dụ trên đường lên [Mộc Châu](/cung-duong/moc-chau/). Chạy theo nhóm thì nhớ thả chậm ở đỉnh dốc, giữ khoảng cách và luôn bấm còi trước cua khuất. Người thuê xe nên hỏi trước cửa hàng về tình trạng phanh và chọn loại xe phù hợp với địa hình sắp đi.
 
-Cuối cùng, kiểm tra lại [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/) trước giờ xuất phát. Chạy đèo khi trời khô, tầm nhìn thoáng sẽ giúp mọi kỹ thuật trên phát huy tác dụng, và chuyến đi của bạn sẽ an toàn trọn vẹn từ lúc ra khỏi Hà Nội đến khi trở về.
+Cuối cùng, kiểm tra lại [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/) trước giờ xuất phát. Chạy đèo khi trời khô, tầm nhìn thoáng sẽ giúp mọi kỹ thuật trên phát huy tác dụng, và chuyến đi của bạn sẽ an toàn trọn vẹn từ lúc ra khỏi Hà Nội đến khi trở về.

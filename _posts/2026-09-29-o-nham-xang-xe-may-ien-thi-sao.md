@@ -35,9 +35,9 @@ Một điểm khác biệt quan trọng: với xe xăng bị đổ nhầm nhiên
 
 Trước khi nhận xe, hãy hỏi cửa hàng xe bạn thuê là loại nào và cần nạp năng lượng ra sao. Xe máy điện cần cắm sạc, còn xe xăng mới dùng cây xăng, và câu hỏi này mất chưa đến một phút nhưng giúp bạn tránh hoàn toàn tình huống nhầm lẫn. Nếu bạn chưa quen với xe điện, hãy yêu cầu người giao xe chỉ vị trí cổng sạc ngay tại cửa hàng trước khi ra đường.
 
-Tại trạm xăng, với xe điện bạn không cần lại gần khu vực bơm. Nếu đi cùng bạn bè dùng xe xăng, chủ động nói rõ với người đổ xăng chiếc xe nào là xe điện để tránh thao tác nhầm. Thói quen này đặc biệt quan trọng khi nhóm đi xa, vì sự cố xe điện giữa chuyến du lịch ngày cuối tuần sẽ phá vỡ lịch trình của cả nhóm như bài [đi nhóm nhiều xe máy và cách giữ liên lạc](/blog/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/) từng chia sẻ.
+Tại trạm xăng, với xe điện bạn không cần lại gần khu vực bơm. Nếu đi cùng bạn bè dùng xe xăng, chủ động nói rõ với người đổ xăng chiếc xe nào là xe điện để tránh thao tác nhầm. Thói quen này đặc biệt quan trọng khi nhóm đi xa, vì sự cố xe điện giữa chuyến du lịch ngày cuối tuần sẽ phá vỡ lịch trình của cả nhóm như bài [đi nhóm nhiều xe máy và cách giữ liên lạc](/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/) từng chia sẻ.
 
-Nếu bạn định thuê xe máy điện, thông tin về dòng xe này nằm trong trang [xe máy điện](/blog/xe-may/xe-dien/) để bạn hình dung cách dùng trước khi quyết định. Còn những tình huống bất ngờ khác trong quá trình thuê xe đã được gom trong trang [xử lý sự cố khi thuê xe](/blog/thue-xe/su-co/), và các câu hỏi thường gặp khác nằm trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/) để bạn tham khảo bất cứ lúc nào.
+Nếu bạn định thuê xe máy điện, thông tin về dòng xe này nằm trong trang [xe máy điện](/xe-may/xe-dien/) để bạn hình dung cách dùng trước khi quyết định. Còn những tình huống bất ngờ khác trong quá trình thuê xe đã được gom trong trang [xử lý sự cố khi thuê xe](/thue-xe/su-co/), và các câu hỏi thường gặp khác nằm trong mục [hỏi đáp thuê xe máy](/hoi-dap/) để bạn tham khảo bất cứ lúc nào.
 
 ## Trách nhiệm khi đổ nhầm xăng vào xe điện thuê
 

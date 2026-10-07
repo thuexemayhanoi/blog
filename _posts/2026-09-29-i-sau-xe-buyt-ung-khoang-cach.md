@@ -45,10 +45,10 @@ Ban đêm, đèn pha xe buýt chiếu gần như thẳng vào mắt bạn qua g�
 
 ## Mưa và các điều kiện đặc biệt
 
-Mưa làm mọi thứ xấu đi theo cấp số: xe buýt phun nước từ bánh sau, tầm nhìn của tài xế giảm theo lượng nước bám kính, và đường ướt kéo dài quãng phanh. Đi sau xe buýt trong mưa, hãy ra khỏi vệt nước phun và nới khoảng cách gấp đôi. Nếu buộc phải theo sau, đặt xe lệch nửa làn để nhìn qua khe hở giữa các xe phía trước, tương tự kỹ thuật nhìn xuyên dòng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/blog/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/).
+Mưa làm mọi thứ xấu đi theo cấp số: xe buýt phun nước từ bánh sau, tầm nhìn của tài xế giảm theo lượng nước bám kính, và đường ướt kéo dài quãng phanh. Đi sau xe buýt trong mưa, hãy ra khỏi vệt nước phun và nới khoảng cách gấp đôi. Nếu buộc phải theo sau, đặt xe lệch nửa làn để nhìn qua khe hở giữa các xe phía trước, tương tự kỹ thuật nhìn xuyên dòng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/).
 
-Bạn có thể ôn lại trọn bộ tình huống với xe lớn trong chuyên mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), hoặc chọn đúng bài cần luyện qua trang [kỹ năng & tình huống](/blog/ky-nang/) trước mỗi chuyến đi xa.
+Bạn có thể ôn lại trọn bộ tình huống với xe lớn trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), hoặc chọn đúng bài cần luyện qua trang [kỹ năng & tình huống](/ky-nang/) trước mỗi chuyến đi xa.
 
 ## Lời kết
 
-Khoảng cách với xe buýt là bài học nhỏ nhưng giữ được cho bạn đúng một thứ cần nhất trên phố: thời gian phản ứng. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Hãy dành vài phút đầu tiên làm quen độ nhạy phanh của xe thuê, rồi ghé đọc mục [tình huống trên đường](/blog/ky-nang/tinh-huong-giao-thong/) và trang [kỹ năng tổng hợp](/blog/ky-nang/) để mỗi chuyến đi đều chủ động hơn.
+Khoảng cách với xe buýt là bài học nhỏ nhưng giữ được cho bạn đúng một thứ cần nhất trên phố: thời gian phản ứng. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Hãy dành vài phút đầu tiên làm quen độ nhạy phanh của xe thuê, rồi ghé đọc mục [tình huống trên đường](/ky-nang/tinh-huong-giao-thong/) và trang [kỹ năng tổng hợp](/ky-nang/) để mỗi chuyến đi đều chủ động hơn.

@@ -34,7 +34,7 @@ Khi chốt giá theo tuần, nên hỏi rõ ba điều trong một tin nhắn: g
 
 Nhiều người hay so sánh giá thuê tuần với giá thuê ngày rồi nhân lên, nhưng cách so đó chỉ đúng một phần. Gói tuần thường được tính khác gói ngày, và điều bạn nên so là tổng chi phí cho toàn bộ giai đoạn xe nhà nằm sửa, kèm cả thời gian đi lại của bạn để lấy xe, trả xe, gia hạn. Gói trọn tuần đôi khi nhỉnh hơn chút ít nhưng đổi lại bạn không phải chạy đi chạy lại, và phần chênh đó thường rẻ hơn giá của vài buổi sáng phải ngồi xe công nghệ.
 
-Người lần đầu thuê theo tuần có thể đọc thêm về cách tính giá và thời hạn tại trang [thuê xe theo tuần](/blog/thue-xe/thue-tuan/), nơi tóm tắt rõ các gói thời hạn. Với ai chỉ cần xe hai ba ngày lẻ thì thuê theo kiểu ngày, tham khảo tại [thuê xe theo ngày](/blog/thue-xe/thue-ngay/), gọn và không bị ràng thời hạn dài.
+Người lần đầu thuê theo tuần có thể đọc thêm về cách tính giá và thời hạn tại trang [thuê xe theo tuần](/thue-xe/thue-tuan/), nơi tóm tắt rõ các gói thời hạn. Với ai chỉ cần xe hai ba ngày lẻ thì thuê theo kiểu ngày, tham khảo tại [thuê xe theo ngày](/thue-xe/thue-ngay/), gọn và không bị ràng thời hạn dài.
 
 ## Nhận xe tạm dùng cả tuần cần kiểm tra gì
 
@@ -48,4 +48,4 @@ Một thói quen nhỏ đáng hình thành ngay buổi đầu: chụp đồng h�
 
 Cuối tuần, khi tiệm sửa báo xe nhà đã xong, bạn trả xe thuê trước rồi mới nhận lại xe nhà, đừng để chồng lịch trình hai việc trong một buổi. Trả xe thuê nên đúng giờ đã chốt để lịch của cửa hàng không bị xô lệch, và lúc trả nhớ soát lại đồ của mình trong cốp: áo mưa, sạc, giấy tờ cá nhân, mấy thứ nhỏ hay nằm lại trong cốp xe thuê.
 
-Từ đầu đến cuối, cách đơn giản nhất để tuần thuê tạm diễn ra êm là giữ mọi cuộc trao đổi bằng tin nhắn: thời hạn, giá, ngày trả, đều nằm gọn trong vài tin nhắn đọc lại được. Ai cần tổng quan đầy đủ các bước từ thuê tới trả có thể xem [mục thuê xe máy](/blog/thue-xe/), nơi gom trọn quy trình để giai đoạn xe nhà chờ thay linh kiện trôi qua nhẹ nhàng.
+Từ đầu đến cuối, cách đơn giản nhất để tuần thuê tạm diễn ra êm là giữ mọi cuộc trao đổi bằng tin nhắn: thời hạn, giá, ngày trả, đều nằm gọn trong vài tin nhắn đọc lại được. Ai cần tổng quan đầy đủ các bước từ thuê tới trả có thể xem [mục thuê xe máy](/thue-xe/), nơi gom trọn quy trình để giai đoạn xe nhà chờ thay linh kiện trôi qua nhẹ nhàng.

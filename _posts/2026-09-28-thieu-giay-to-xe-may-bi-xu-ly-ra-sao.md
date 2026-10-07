@@ -52,7 +52,7 @@ Nếu bị dừng kiểm tra mà phát hiện thiếu giấy tờ, hãy làm the
 - Nếu đi xe thuê, liên hệ ngay cửa hàng thuê xe để được hỗ trợ giấy tờ và thông tin chủ xe.
 - Sau sự việc, rà lại toàn bộ giấy tờ trước khi tiếp tục hành trình.
 
-Trường hợp cụ thể khi đi xe thuê được phân tích trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/blog/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/). Tổng quan các chủ đề giấy tờ nằm trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/), còn các nhóm lỗi giao thông thường gặp được gộp trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông, còn mẹo lái xe thực dụng nằm trong trang [kinh nghiệm](/blog/kinh-nghiem/).
+Trường hợp cụ thể khi đi xe thuê được phân tích trong bài [bị dừng kiểm tra giấy tờ khi đi xe máy thuê](/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/). Tổng quan các chủ đề giấy tờ nằm trong trang [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/), còn các nhóm lỗi giao thông thường gặp được gộp trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/). Trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) gộp toàn bộ kiến thức luật giao thông, còn mẹo lái xe thực dụng nằm trong trang [kinh nghiệm](/kinh-nghiem/).
 
 ## Kết luận về thiếu giấy tờ xe máy
 

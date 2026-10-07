@@ -58,6 +58,6 @@ Trang phục cứ thoải mái, giày êm là đủ, còn khí hậu về đêm 
 
 ## Kết hợp trong buổi tối
 
-Từ Tạ Hiện, bạn có thể dạo tiếp quanh các phố ẩm thực lâu đời hoặc vòng ra bờ hồ ngắm phố đi bộ về đêm. Chuyên mục [phố cổ Hà Nội](/blog/du-lich/pho-co/) gợi ý thêm các điểm dạo quanh khu vực, còn [du lịch Hà Nội](/blog/du-lich/) giúp bạn xếp lịch cho cả buổi tối. Khách ở xa cần phương tiện có thể xem trước [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/).
+Từ Tạ Hiện, bạn có thể dạo tiếp quanh các phố ẩm thực lâu đời hoặc vòng ra bờ hồ ngắm phố đi bộ về đêm. Chuyên mục [phố cổ Hà Nội](/du-lich/pho-co/) gợi ý thêm các điểm dạo quanh khu vực, còn [du lịch Hà Nội](/du-lich/) giúp bạn xếp lịch cho cả buổi tối. Khách ở xa cần phương tiện có thể xem trước [thuê xe máy theo ngày](/thue-xe/thue-ngay/).
 
 Tóm lại, phố Tạ Hiện buổi tối bằng xe máy là một buổi đi đáng thử của bất kỳ ai muốn thấy nhịp sống về đêm Hà Nội. Chọn đúng khung giờ, để xe đúng chỗ và giữ đồ cẩn thận, bạn sẽ có một tối vui giữa lòng phố cổ mà không phải bận tâm chuyện xe cộ.

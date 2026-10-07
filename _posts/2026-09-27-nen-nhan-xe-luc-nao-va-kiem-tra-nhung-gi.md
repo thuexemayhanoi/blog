@@ -52,9 +52,9 @@ Thuê Xe Máy Hà Nội Nguyễn Tú đặt tại 112 Nguyễn Văn Cừ, phư�
 
 ## Xem thêm
 
-- [Nhận xe và trả xe đúng quy trình](/blog/thue-xe/nhan-tra-xe/)
-- [Giá thuê xe máy theo ngày](/blog/thue-xe/gia-thue/)
-- [Thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/)
+- [Nhận xe và trả xe đúng quy trình](/thue-xe/nhan-tra-xe/)
+- [Giá thuê xe máy theo ngày](/thue-xe/gia-thue/)
+- [Thủ tục thuê xe máy](/thue-xe/thu-tuc/)
 
 ## Kết luận
 

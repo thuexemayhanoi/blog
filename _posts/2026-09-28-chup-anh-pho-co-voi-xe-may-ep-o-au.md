@@ -18,7 +18,7 @@ Chụp ảnh phố cổ Hà Nội cùng chiếc xe máy cho những khung hình 
 
 Cụm quanh bờ hồ cho nền mở thoáng: khách chọn đoạn bờ ít hàng quán bày ra, đặt xe chếch theo hướng hồ để khung ảnh có cả nước, khoảng trời và dãy cây bờ đối diện. Các dãy phố trong cụm lại cho nền đậm chất phố: khách chọn đoạn phố lát gạch còn nguyên mặt cũ, đưa xe sát mép lề trống, để góc máy hơi chếch xuống cho dãy nhà cổ trôi theo chiều sâu khung.
 
-Các ngã tư tầm nhìn rộng trong cụm cho ảnh có dòng phố sống động phía sau: khách đứng chụp ở mép lề, để người trong khung không giữa lòng đường. Khách định có ảnh với nhiều góc nên đi theo hướng vòng: một góc bờ hồ, một góc dãy phố, rồi một góc đầu phố ngõ nhỏ. Danh sách điểm quanh cụm nằm tại trang [phố cổ Hoàn Kiếm](/blog/du-lich/pho-co/), còn các góc quanh cụm trung tâm kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
+Các ngã tư tầm nhìn rộng trong cụm cho ảnh có dòng phố sống động phía sau: khách đứng chụp ở mép lề, để người trong khung không giữa lòng đường. Khách định có ảnh với nhiều góc nên đi theo hướng vòng: một góc bờ hồ, một góc dãy phố, rồi một góc đầu phố ngõ nhỏ. Danh sách điểm quanh cụm nằm tại trang [phố cổ Hoàn Kiếm](/du-lich/pho-co/), còn các góc quanh cụm trung tâm kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
 
 Về trang phục trong khung hình, màu trầm và đơn sắc thường ăn nhập với nền phố cổ hơn hẳn các màu quá chói, còn kiểu áo truyền thống cho khung ảnh có hồ và nhà cổ là lựa chọn nhiều khách ưa. Khách muốn ảnh có người trong khung nên chụp theo chiều tự nhiên đang bước hoặc đang đẩy xe, các dáng đứng cứng giữa lòng phố dễ làm khung mất đi nhịp sống của cụm.
 
@@ -32,9 +32,9 @@ Hai ba góc dự phòng nên có sẵn trong đầu: nếu một góc đông qu�
 
 ## Gửi xe sao cho buổi chụp không vướng chuyện an toàn
 
-Khi chuyển góc xa nhau, khách chạy xe theo các phố dài thay vì băng ngõ, và gửi xe vào bãi gần góc chụp tiếp theo thay vì đẩy bộ xa: bãi trong cụm nhận xe theo lượt, khách đọc bảng niêm yết giá trước khi đưa xe. Khách giữ thói quen chốt cổng, khóa từ, chụp vị trí kèm biển số sau mỗi lần gửi, vì buổi chụp thường đổi bãi nhiều lần dễ nhầm chỗ cuối buổi. Mẹo giữ xe và hành lý kể kỹ tại trang [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Khi chuyển góc xa nhau, khách chạy xe theo các phố dài thay vì băng ngõ, và gửi xe vào bãi gần góc chụp tiếp theo thay vì đẩy bộ xa: bãi trong cụm nhận xe theo lượt, khách đọc bảng niêm yết giá trước khi đưa xe. Khách giữ thói quen chốt cổng, khóa từ, chụp vị trí kèm biển số sau mỗi lần gửi, vì buổi chụp thường đổi bãi nhiều lần dễ nhầm chỗ cuối buổi. Mẹo giữ xe và hành lý kể kỹ tại trang [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
-Tư trang và máy ảnh khách mang theo người trong mọi cú di chuyển, không để balo trên yên xe giữa chặng đỗ ngắn, vì khu đông người là nơi sự mất mát xảy ra nhanh nhất. Khách mới chạy nội đô nên xem trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống giao thông quanh cụm gom tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/). Tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Tư trang và máy ảnh khách mang theo người trong mọi cú di chuyển, không để balo trên yên xe giữa chặng đỗ ngắn, vì khu đông người là nơi sự mất mát xảy ra nhanh nhất. Khách mới chạy nội đô nên xem trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống giao thông quanh cụm gom tại trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/). Tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 Cuối buổi, khách nên dành vài phút chụp thêm các tấm đời thường của chính chiếc xe: góc xe cạnh ghế đá bờ hồ, hoặc xe dưới biển hiệu phố cổ, vì những khung này về sau là kỷ niệm rõ nét nhất của buổi lượn qua cụm.
 

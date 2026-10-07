@@ -133,7 +133,7 @@ def check_taxonomy(scope):
     for c in tax['children']:
         if c['parent_id'] not in parents: err('child %s không thuộc parent hợp lệ' % c['child_id'])
         p = parents[c['parent_id']]
-        want = '/blog/%s/%s/' % (p['slug'], c['slug'])
+        want = '/%s/%s/' % (p['slug'], c['slug'])
         if c['hub_url'] != want: err('hub_url sai tại %s: %s' % (c['child_id'], c['hub_url']))
     seed_p = {s[0]: s for s in seed['parents']}
     seed_c = {s[0]: s for s in seed['children']}
@@ -182,7 +182,7 @@ def check_inventory(scope, parents, children):
             sign = 1 if dm.group(7).startswith('+') else -1
             fdt = _dt.datetime(int(dm.group(1)), int(dm.group(2)), int(dm.group(3)),
                                int(dm.group(4)), int(dm.group(5)), int(dm.group(6) or 0)) - sign * _dt.timedelta(hours=abs(off_h), minutes=off_m)
-            return '/blog/%s/%04d/%02d/%02d/%s/' % (category.lower(), fdt.year, fdt.month, fdt.day, slug)
+            return '/%s/%04d/%02d/%02d/%s/' % (category.lower(), fdt.year, fdt.month, fdt.day, slug)
         for r in inv:
             want = legacy_url(r['source_path'], r['category'], r['slug'])
             if want is None:
@@ -196,9 +196,9 @@ def check_inventory(scope, parents, children):
         import urllib.request, urllib.parse as up
         try:
             import urllib.request as _ur
-            sm = _ur.urlopen('https://thuexemayhanoi.github.io/blog/sitemap.xml', timeout=30).read().decode('utf-8')
+            sm = _ur.urlopen('https://blog.thuexemaynguyentu.com/sitemap.xml', timeout=30).read().decode('utf-8')
             live = set(re.findall(r'<loc>([^<]+)</loc>', sm))
-            inv_urls = set('https://thuexemayhanoi.github.io' + up.quote(r['current_url'], safe='/:') for r in inv)
+            inv_urls = set('https://blog.thuexemaynguyentu.com' + up.quote(r['current_url'], safe='/:') for r in inv)
             miss = [u for u in inv_urls if u not in live]
             if miss:
                 err('%d/%d URL legacy không khớp sitemap công khai (ví dụ: %s)' % (len(miss), len(inv_urls), sorted(miss)[0]))
@@ -206,7 +206,7 @@ def check_inventory(scope, parents, children):
             if os.path.exists('data/content-matrix.csv'):
                 for mr in _read_csv('data/content-matrix.csv'):
                     if mr['status'] == 'PUBLISHED' and mr['source'].startswith('planned:') and '{date}' not in mr['expected_url']:
-                        allowed_new.add('https://thuexemayhanoi.github.io' + up.quote(mr['expected_url'], safe='/:'))
+                        allowed_new.add('https://blog.thuexemaynguyentu.com' + up.quote(mr['expected_url'], safe='/:'))
             extra = [u for u in live if '/2026/' in u and u not in inv_urls and u not in allowed_new]
             if extra:
                 err('sitemap có %d URL bài không nằm trong inventory (ví dụ: %s)' % (len(extra), sorted(extra)[0]))

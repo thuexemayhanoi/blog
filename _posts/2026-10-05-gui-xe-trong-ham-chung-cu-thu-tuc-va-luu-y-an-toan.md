@@ -42,7 +42,7 @@ Vị trí đỗ đáng giá nhất trong hầm không phải chỗ gần thang m
 
 ## Chống trộm và mất đồ trong hầm
 
-Hầm có camera và có người trực là hai lớp bảo vệ tốt, nhưng không thay thế được khóa đúng cách. Khóa cổ kèm khóa bóp bánh sau, xe để số, và đừng bao giờ để chìa dự phòng trong cốp. Đồ cá nhân — nón, áo mưa, găng, giày — mang lên phòng; cốp xe máy không phải ngăn tủ có khóa thật sự, và tần suất người qua lại trong hầm cao hơn bãi ngoài đường nhiều. Các kỹ năng này trùng với [cách chống trộm phụ tùng khi gửi xe qua đêm](/blog/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/) — rủi ro về bản chất là một, chỉ khác địa điểm.
+Hầm có camera và có người trực là hai lớp bảo vệ tốt, nhưng không thay thế được khóa đúng cách. Khóa cổ kèm khóa bóp bánh sau, xe để số, và đừng bao giờ để chìa dự phòng trong cốp. Đồ cá nhân — nón, áo mưa, găng, giày — mang lên phòng; cốp xe máy không phải ngăn tủ có khóa thật sự, và tần suất người qua lại trong hầm cao hơn bãi ngoài đường nhiều. Các kỹ năng này trùng với [cách chống trộm phụ tùng khi gửi xe qua đêm](/ky-nang/2026/10/03/chong-trom-phu-tung-khi-gui-xe-qua-em/) — rủi ro về bản chất là một, chỉ khác địa điểm.
 
 Một đặc thù của hầm: xe bạn đứng yên nhiều ngày liền nếu bạn đi công tác. Hầm ít người qua lại giờ thấp điểm, xe để lâu ở góc khuất là mục tiêu lý tưởng cho tò mò. Vậy nên nếu biết mình vắng nhà cả tuần, hãy đỗ vào vị trí có camera gần nhất, báo người trực một tiếng hôm xuống đỗ, và nhờ người nhà thỉnh thoảng xuống kiểm tra xe.
 
@@ -52,4 +52,4 @@ Nếu phát hiện xe bị xê, xước, hoặc mất đồ, trình tự nên l�
 
 Nếu xe hỏng máy giữa hầm — không nổ được, rớt xích — không đẩy xe dọc lối đi một chiều giữa giờ đông: gọi người trực, họ có xe đẩy hoặc nhân viên hỗ trợ dời xe sang vị trí tạm tránh, giữ lối thông thoáng cho cả tầng. Tòa nhà có quy trình cho tình huống này; công việc của bạn là hỏi thay vì tự xử một cách vội vã.
 
-Gửi xe trong hầm chung cư, tóm lại, là một quy trình nhỏ nhưng nên làm trọn: hỏi quy định trước, đăng ký hoặc lấy vé, đỗ đúng vạch ở chỗ có camera, khóa chắc, và giữ liên lạc với người trực. Làm đủ các bước đó, hầm chung cư là một trong những chỗ gửi xe an toàn nhất mà người đi xe máy ở Hà Nội có được. Các tình huống gửi xe khác — bãi qua đêm, khách sạn, chợ phiên — đã được viết trong [chuyên mục gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn tổng thể kỹ năng đi đường thuộc [chuyên mục kỹ năng](/blog/ky-nang/).
+Gửi xe trong hầm chung cư, tóm lại, là một quy trình nhỏ nhưng nên làm trọn: hỏi quy định trước, đăng ký hoặc lấy vé, đỗ đúng vạch ở chỗ có camera, khóa chắc, và giữ liên lạc với người trực. Làm đủ các bước đó, hầm chung cư là một trong những chỗ gửi xe an toàn nhất mà người đi xe máy ở Hà Nội có được. Các tình huống gửi xe khác — bãi qua đêm, khách sạn, chợ phiên — đã được viết trong [chuyên mục gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn tổng thể kỹ năng đi đường thuộc [chuyên mục kỹ năng](/ky-nang/).

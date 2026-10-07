@@ -24,7 +24,7 @@ Chợ vãn dần sau bảy giờ sáng, khi các xe hàng đã lên đường đ
 
 ## Đi bằng xe máy từ đâu và đường nào
 
-Từ khu Bồ Đề, Long Biên, bạn chỉ cần chạy về phía cầu Long Biên là gặp khu chợ, quãng đường vài phút. Từ các quận bên kia sông, đi qua cầu Chương Dương hoặc cầu Long Biên, chạy chậm theo đường vành đai quanh khu chợ, để ý các đoạn đường nhánh nhỏ đông xe ba gác. Cảnh cầu Long Biên vào buổi sớm với sương mỏng và nắng đầu là một trải nghiệm được kể trong bài về [đi từ bến xe sang phố cổ qua cầu Long Biên lúc sáng sớm](/blog/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), nếu bạn muốn kết hợp một vòng lớn hơn.
+Từ khu Bồ Đề, Long Biên, bạn chỉ cần chạy về phía cầu Long Biên là gặp khu chợ, quãng đường vài phút. Từ các quận bên kia sông, đi qua cầu Chương Dương hoặc cầu Long Biên, chạy chậm theo đường vành đai quanh khu chợ, để ý các đoạn đường nhánh nhỏ đông xe ba gác. Cảnh cầu Long Biên vào buổi sớm với sương mỏng và nắng đầu là một trải nghiệm được kể trong bài về [đi từ bến xe sang phố cổ qua cầu Long Biên lúc sáng sớm](/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), nếu bạn muốn kết hợp một vòng lớn hơn.
 
 Đường quanh chợ có nhiều đoạn nền gồ ghề, vũng nước đọng từ đêm trước, nên giảm tốc và quan sát gờ đường trước khi vượt xe tải đang dừng dỡ hàng. Mũ bảo hiểm là bắt buộc, kể cả quãng ngắn từ nhà trọ ra chợ, và đèn xe phải bật nếu bạn ra chợ từ lúc trời còn tối. Giữ khoảng cách với các xe chở hàng dài, vì họ rẽ thường không có gương phản chiếu tốt.
 
@@ -38,11 +38,11 @@ Nhớ lấy phiếu giữ xe nếu bãi phát, và chụp lại vị trí xe cù
 
 Quanh chợ có các quán ăn nhỏ phục vụ người bán hàng từ rất sớm, thường là phở, bún, xôi và bánh cuốn nóng. Các quán này nấu nhanh, đậm đà kiểu ăn cho người lao động, một bữa no đủ cho buổi sáng dài. Cà phê đen, cà phê sữa ở khu chợ đậm hơn nơi khác, quán nhỏ nhưng bàn ghế sát vách, ngồi nghe chuyện buôn bán của người trong chợ cũng là một phần trải nghiệm.
 
-Nếu bạn muốn vừa ăn sáng vừa ngắm dòng sông, chạy ra các quán ven đường phía gần cầu, gọi món nóng và ngồi ghế ngoài. Muộn hơn chút, khoảng tám giờ, các quán quanh khu dân cư phía Long Biên mở cửa đầy đủ, chọn được nhiều món hơn. Kết thúc bữa sáng, có thể chạy lên cầu Long Biên ngắm toàn cảnh sông Hồng, hoặc xem thêm bài về [đi cầu Long Biên ngắm hoàng hôn](/blog/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) nếu bạn muốn quay lại vào buổi chiều tối.
+Nếu bạn muốn vừa ăn sáng vừa ngắm dòng sông, chạy ra các quán ven đường phía gần cầu, gọi món nóng và ngồi ghế ngoài. Muộn hơn chút, khoảng tám giờ, các quán quanh khu dân cư phía Long Biên mở cửa đầy đủ, chọn được nhiều món hơn. Kết thúc bữa sáng, có thể chạy lên cầu Long Biên ngắm toàn cảnh sông Hồng, hoặc xem thêm bài về [đi cầu Long Biên ngắm hoàng hôn](/du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/) nếu bạn muốn quay lại vào buổi chiều tối.
 
 ## Kết hợp thêm các điểm gần chợ
 
-Từ chợ, bạn có thể chạy vòng qua khu phố cổ trong khoảng mười lăm phút qua cầu Chương Dương, ghé ăn thêm món gì đó hoặc dạo quanh hồ Hoàn Kiếm lúc phố còn vắng. Tổng quan các gợi ý điểm đến khác nằm ở chuyên mục [du lịch Hà Nội bằng xe máy](/blog/du-lich/), nơi tổng hợp nhiều hành trình ngắn hợp với buổi sáng. Nếu chỉ đi chợ rồi về, một buổi từ năm giờ đến tám giờ là đủ dày trải nghiệm.
+Từ chợ, bạn có thể chạy vòng qua khu phố cổ trong khoảng mười lăm phút qua cầu Chương Dương, ghé ăn thêm món gì đó hoặc dạo quanh hồ Hoàn Kiếm lúc phố còn vắng. Tổng quan các gợi ý điểm đến khác nằm ở chuyên mục [du lịch Hà Nội bằng xe máy](/du-lich/), nơi tổng hợp nhiều hành trình ngắn hợp với buổi sáng. Nếu chỉ đi chợ rồi về, một buổi từ năm giờ đến tám giờ là đủ dày trải nghiệm.
 
 ## Thuê xe máy cho buổi sớm
 

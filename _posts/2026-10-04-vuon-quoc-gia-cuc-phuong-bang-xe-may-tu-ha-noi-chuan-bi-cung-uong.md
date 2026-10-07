@@ -48,4 +48,4 @@ Trước khi khởi hành về, một vòng kiểm tra xe lần cuối: xăng, l
 
 Chuyến Cúc Phương không khó vì đường — nó khó vì dài và vì cần đúng giờ. Ba thứ quyết định buổi đi: xe được kiểm tra từ trước, đồ chia nhóm gọn gắn trong cốp, và giờ xuất phát đủ sớm. Người đi nhóm nên hẹn điểm gặp tại khu gửi xe cổng rừng, và ai rời nhóm giữa chừng thì báo cho nhau bằng điện thoại thay vì chờ tại chỗ.
 
-Các kinh nghiệm chạy xe đường trường chung xem thêm ở mục [kinh nghiệm](/blog/kinh-nghiem/), các tuyến chạy xa cuối tuần gom trong chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), còn trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến từ Hà Nội.
+Các kinh nghiệm chạy xe đường trường chung xem thêm ở mục [kinh nghiệm](/kinh-nghiem/), các tuyến chạy xa cuối tuần gom trong chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến từ Hà Nội.

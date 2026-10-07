@@ -16,7 +16,7 @@ writer: W1
 
 Vừa thi đậu bằng A1, tay lái còn mới, và câu hỏi đặt ra là bằng A1 mới cấp thuê xe máy có bị tiệm từ chối không. Câu trả lời ngắn: bằng A1 hợp lệ, còn hạn, là đủ điều kiện để thuê xe máy theo quy định hiện hành, và phần lớn tiệm chỉ cần thấy bằng bản gốc hoặc bản photo kèm giấy tờ tùy thân. Không có quy định nào yêu cầu bằng phải trên một năm tuổi hay phải qua giai đoạn tập lái. Tuy nhiên, thuê được xe là một chuyện, chạy an toàn với tay lái mới lại là chuyện khác, và bài viết này đi qua cả hai, cùng các giấy tờ nên chuẩn bị.
 
-Tổng quan về nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), thông tin về giấy phép lái xe trong phần [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan về nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), thông tin về giấy phép lái xe trong phần [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn thủ tục thuê chung nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Bằng A1 mới cấp còn hạn là đủ điều kiện thuê xe máy
 
@@ -36,7 +36,7 @@ Một chi tiết thực tế quanh Hà Nội đáng nói: phần lớn các ti�
 
 Danh sách gọn: bằng lái A1 bản gốc, căn cước công dân hoặc hộ chiếu, tiền cọc theo hình thức tiệm nhận, và nếu sinh viên còn muốn hỏi ưu đãi thì thẻ sinh viên. Với người dưới độ tuổi cho phép ký một số loại hợp đồng theo quy định, có tiệm yêu cầu người đủ tuổi đứng tên hợp đồng, nên gọi hỏi trước nếu bạn vừa đủ tuổi vị thành niên.
 
-Ngoài ra, người mới nên hỏi trước qua điện thoại hai điều: tiệm có mẫu xe nhẹ hiện không, và chính sách khi người mới vô ý làm xước nhẹ xe. Hỏi trước giúp bạn chọn tiệm có quy trình rõ ràng, và phần thủ tục nhận trả xe chi tiết nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Ngoài ra, người mới nên hỏi trước qua điện thoại hai điều: tiệm có mẫu xe nhẹ hiện không, và chính sách khi người mới vô ý làm xước nhẹ xe. Hỏi trước giúp bạn chọn tiệm có quy trình rõ ràng, và phần thủ tục nhận trả xe chi tiết nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Nếu bằng đang chờ cấp hoặc giấy hẹn
 

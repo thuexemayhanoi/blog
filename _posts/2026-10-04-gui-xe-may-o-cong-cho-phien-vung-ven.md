@@ -42,6 +42,6 @@ Giờ tan chợ phiên là phiên bản đông đúc của mọi bãi xe cùng l
 
 Với người thuê xe máy đi chợ phiên: nhận xe sáng sớm, kiểm tra cùng chủ xe quanh Long Biên, và trả chiều muộn cùng ngày — kiểu đi chợ phiên hợp phần lớn các điểm cho thuê, chỉ cần hỏi rõ giờ trả trước khi đi để khỏi tính giờ sát.
 
-Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy đi chợ xa nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường.
+Quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy đi chợ xa nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường.
 
 Gửi xe ở cổng chợ phiên cuối cùng gói trong bốn việc: chọn bãi có người trông, hỏi giá và giờ giữ trước, giữ đồ theo kiểu đông người lạ mặt, và lấy xe theo nhịp lúc tan chợ. Làm đủ bốn, buổi chợ phiên của bạn chỉ còn là chuyện chợ — còn xe là chuyện đã xếp đâu đó gọn gàng.

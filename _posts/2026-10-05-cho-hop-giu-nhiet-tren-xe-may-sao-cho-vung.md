@@ -16,7 +16,7 @@ writer: W1
 
 Hộp giữ nhiệt là vật nhỏ mà phiền to lớn nếu chở sai: một cú sốc ổ gà cũng đủ làm nắp bật, canh súp nghiêng, và cả buổi bếp núc của bạn trải trên mặt đường. Chở hộp giữ nhiệt trên xe máy vì vậy không chỉ là chuyện có dây buộc hay không, mà là cả một chuỗi quyết định: đặt hộp ở đâu, đệm bằng gì, buộc kiểu nào, và chạy sao để hộp không chịu tải trọng cắt. Bài này đi qua từng mắt xích của chuỗi đó.
 
-Tổng quan nhóm chở đồ và hành lý nằm ở trang [kỹ năng và tình huống](/blog/ky-nang/), hướng dẫn kiểm tra xe trước chuyến đi ở trang [thuê xe máy](/blog/thue-xe/), còn các bước nhận và trả xe ở trang [nhận và trả xe máy](/blog/thue-xe/nhan-tra-xe/).
+Tổng quan nhóm chở đồ và hành lý nằm ở trang [kỹ năng và tình huống](/ky-nang/), hướng dẫn kiểm tra xe trước chuyến đi ở trang [thuê xe máy](/thue-xe/), còn các bước nhận và trả xe ở trang [nhận và trả xe máy](/thue-xe/nhan-tra-xe/).
 
 ## Chọn vị trí đặt hộp trên xe máy
 

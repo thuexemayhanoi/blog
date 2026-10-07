@@ -23,7 +23,7 @@ Sang kỳ hạn tuần, khoảng cách thể hiện rõ: Honda Click và Yamaha 
 
 Ở kỳ hạn tháng, nhóm xe ga Click và Mio nằm trong khoảng 1.000.000 – 1.200.000 đồng, Air Blade ở mức 1.400.000 đồng, còn Vision dao động 1.800.000 – 2.000.000 đồng. Mức tháng của xe số Wave cũng cần xác nhận trực tiếp.
 
-Kết luận nhanh về giá: xe ga đắt hơn xe số ở các dòng cỡ lớn, nhưng nhóm xe ga nhỏ có giá gần ngang xe số. Chi tiết đầy đủ nằm ở [bảng giá xe số](/blog/bang-gia-xe-so/) và [bảng giá xe ga](/blog/bang-gia-xe-ga/).
+Kết luận nhanh về giá: xe ga đắt hơn xe số ở các dòng cỡ lớn, nhưng nhóm xe ga nhỏ có giá gần ngang xe số. Chi tiết đầy đủ nằm ở [bảng giá xe số](/bang-gia-xe-so/) và [bảng giá xe ga](/bang-gia-xe-ga/).
 
 ## Vì sao thuê xe ga đắt hơn xe số
 
@@ -63,4 +63,4 @@ Dù chọn xe số hay xe ga, tiền đặt cọc đều cần xác nhận trự
 
 ## So sánh với các kỳ hạn khác trước khi quyết định
 
-Trước khi quyết định, bạn nên xem mức [giá thuê xe máy theo ngày](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-ngay-o-ha-noi/) nếu nhu cầu ngắn, hoặc mức [giá thuê xe máy theo tháng](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/) nếu thuê dài hạn, rồi đối chiếu [bảng giá thuê xe máy](/blog/bang-gia/) tổng thể. Mọi thắc mắc về dòng xe phù hợp, bạn có thể [liên hệ](/blog/lien-he/) trực tiếp Nguyễn Tú để được tư vấn theo đúng hành trình dự kiến.
+Trước khi quyết định, bạn nên xem mức [giá thuê xe máy theo ngày](/thue-xe/2026/09/27/gia-thue-xe-may-theo-ngay-o-ha-noi/) nếu nhu cầu ngắn, hoặc mức [giá thuê xe máy theo tháng](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/) nếu thuê dài hạn, rồi đối chiếu [bảng giá thuê xe máy](/bang-gia/) tổng thể. Mọi thắc mắc về dòng xe phù hợp, bạn có thể [liên hệ](/lien-he/) trực tiếp Nguyễn Tú để được tư vấn theo đúng hành trình dự kiến.

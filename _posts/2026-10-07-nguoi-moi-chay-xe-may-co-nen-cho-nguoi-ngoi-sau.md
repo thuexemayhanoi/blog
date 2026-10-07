@@ -14,7 +14,7 @@ article_id: BLG-01515
 writer: W1
 ---
 
-Người mới chở người ngồi sau là tình huống nhiều khách lần đầu thuê xe máy ở Hà Nội hỏi ngay tại quầy: tối nay bạn bè rủ đi chơi, hai người một xe, vậy nên chở luôn hay nên chờ. Câu trả lời thẳng thắn là chưa nên trong những buổi đầu mới biết chạy, và nếu buộc phải chở thì cần chuẩn bị theo trình tự. Bài viết thuộc [chuỗi bài hỏi đáp](/blog/hoi-dap/) phân tích lý do nên chờ, thời điểm bắt đầu phù hợp và các bước để buổi đầu chở người sau diễn ra an toàn.
+Người mới chở người ngồi sau là tình huống nhiều khách lần đầu thuê xe máy ở Hà Nội hỏi ngay tại quầy: tối nay bạn bè rủ đi chơi, hai người một xe, vậy nên chở luôn hay nên chờ. Câu trả lời thẳng thắn là chưa nên trong những buổi đầu mới biết chạy, và nếu buộc phải chở thì cần chuẩn bị theo trình tự. Bài viết thuộc [chuỗi bài hỏi đáp](/hoi-dap/) phân tích lý do nên chờ, thời điểm bắt đầu phù hợp và các bước để buổi đầu chở người sau diễn ra an toàn.
 
 ## Tại sao chở sau khi mới biết chạy xe dễ mất an toàn
 
@@ -26,7 +26,7 @@ Nói cách khác, người mới đang phải tự hoàn thiện phản xạ c�
 
 Chỉ nên chở người sau khi bạn đã tự tin xử lý được các tình huống cơ bản khi đi một mình: khởi hành ở dốc nhẹ mà không chết máy, phanh gấp mà không khóa bánh, rẽ vòng trong ngõ hẹp mà không phải chống chân xuống đất. Với phần lớn người mới, giai đoạn này cần tối thiểu vài buổi chạy thật trên đường, không phải vài vòng quanh sân. Khi bạn chạy được đường phố đông mà vai không căng cứng, nghĩa là nền tảng đã đủ để bước sang bài tập chở người.
 
-Nếu lịch trình không cho phép chờ, hãy đi taxi hoặc xe công nghệ cho đoạn hai người, còn xe máy thuê chỉ dùng khi đi một mình. Cách chọn xe và các bước kiểm tra khi nhận xe cho người mới được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/), vì một chiếc xe nhỏ gọn, yên thấp cũng giúp bạn mau thuộc hơn khi tập chở người.
+Nếu lịch trình không cho phép chờ, hãy đi taxi hoặc xe công nghệ cho đoạn hai người, còn xe máy thuê chỉ dùng khi đi một mình. Cách chọn xe và các bước kiểm tra khi nhận xe cho người mới được tóm tắt trong bài [kinh nghiệm nhận xe máy thuê](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/), vì một chiếc xe nhỏ gọn, yên thấp cũng giúp bạn mau thuộc hơn khi tập chở người.
 
 ## Chuẩn bị cho lần chở đầu tiên
 
@@ -42,6 +42,6 @@ Tránh tối đa việc vừa chở người vừa dùng điện thoại, vừa 
 
 ## Quy định cần nhớ khi chở người trên xe
 
-Ngoài kỹ thuật, người chở người cần nhớ rằng việc chở người trên xe máy được quy định trong các văn bản hiện hành, bao gồm điều kiện về số người được chở và trang bị bảo hộ. Nội dung chi tiết được tóm tắt trong bài [quy định hiện hành về chở người trên xe máy](/blog/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), bạn nên đọc trước khi chở người trên xe thuê để tránh những lỗi không đáng có. Các thắc mắc khác về luật lệ và cách đi xe được nhóm trong [mục Hỏi đáp](/blog/hoi-dap/).
+Ngoài kỹ thuật, người chở người cần nhớ rằng việc chở người trên xe máy được quy định trong các văn bản hiện hành, bao gồm điều kiện về số người được chở và trang bị bảo hộ. Nội dung chi tiết được tóm tắt trong bài [quy định hiện hành về chở người trên xe máy](/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/), bạn nên đọc trước khi chở người trên xe thuê để tránh những lỗi không đáng có. Các thắc mắc khác về luật lệ và cách đi xe được nhóm trong [mục Hỏi đáp](/hoi-dap/).
 
 Chở người sau an toàn là kỹ năng cần thời gian, đừng vì một lời rủ mà đánh đổi. Thuê Xe Máy Hà Nội Nguyễn Tú, 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, sẵn sàng tư vấn dòng xe yên thấp, nhẹ xe, dễ giữ thăng bằng cho người mới. Bạn có thể gọi trước số 0942 467 674 để hỏi tình trạng xe trước khi đến. Lưu ý: gợi ý dòng xe và cách hỗ trợ người mới là cách làm việc của từng thời kỳ và có thể thay đổi, hãy trao đổi trực tiếp lúc đặt xe.

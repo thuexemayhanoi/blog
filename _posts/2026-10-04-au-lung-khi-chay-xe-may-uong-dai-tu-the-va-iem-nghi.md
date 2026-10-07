@@ -38,7 +38,7 @@ Thứ đáng đầu tư nhất với người hay đau lưng là dây nịt gi�
 
 Lịch trình điểm nghỉ quan trọng ngang tư thế. Nguyên tắc thực tế là nghỉ mỗi một tiếng rưỡi tới hai tiếng, mỗi lần mười lăm phút, và khi nghỉ thì xuống hẳn khỏi xe, đi bộ vài chục bước, duỗi lưng và xoay khớp. Dừng uống nước ở quán ven đường vừa là chỗ nghỉ chân vừa là mốc kiểm tra lại tư thế khi lên xe.
 
-Điểm nghỉ cũng nên chọn theo mặt bằng rộng rãi an toàn cho xe: cây xăng lớn, trạm dừng trên quốc lộ, khu quán có bãi đỗ. Tránh dừng ở vai đường cong hoặc chỗ khuất tầm nhìn. Với chuyến dài có gửi xe qua đêm, cách chọn bãi giữ xe trước khi nghỉ được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/blog/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/), vì kế hoạch nghỉ đêm cũng là một phần của kế hoạch giữ sức.
+Điểm nghỉ cũng nên chọn theo mặt bằng rộng rãi an toàn cho xe: cây xăng lớn, trạm dừng trên quốc lộ, khu quán có bãi đỗ. Tránh dừng ở vai đường cong hoặc chỗ khuất tầm nhìn. Với chuyến dài có gửi xe qua đêm, cách chọn bãi giữ xe trước khi nghỉ được kể trong bài [gửi xe qua đêm khi đi chuyến dài](/ky-nang/2026/10/04/gui-xe-qua-em-o-ha-noi-khi-i-chuyen-dai-can-hoi-gi-truoc/), vì kế hoạch nghỉ đêm cũng là một phần của kế hoạch giữ sức.
 
 Không nên đánh đổi nghỉ để về sớm. Người lưng mỏi mà cố chạy thêm một tiếng thì phản ứng chậm lại, và đó là rủi ro trên đường lớn với xe tải. Cứ tính giờ nghỉ vào lộ trình từ đầu: một chuyến năm tiếng có hai lần nghỉ đàng hoàng vẫn nhanh hơn một chuyến ngã giữa đường vì mỏi.
 
@@ -48,6 +48,6 @@ Cần nói rõ ranh giới: mỏi cơ sau chuyến dài là chuyện bình thư�
 
 Với khách thuê xe máy có tiền sử đau lưng, nên nói chuyện với chủ xe về loại xe êm và tuyến đi phù hợp, và cân nhắc lộ trình ngắn hơn mỗi ngày. Chuyến dài mà chia đôi, giữ mỗi ngày chỉ vài tiếng trên yên, thì sức khỏe giữ được và chuyến đi cũng vui hơn.
 
-Tổng quan về sức khỏe khi lái xe nằm trong mục [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/blog/ky-nang/).
+Tổng quan về sức khỏe khi lái xe nằm trong mục [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/), các tình huống bất ngờ trên đường trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), và trọn bộ bài kỹ năng trong mục [kỹ năng](/ky-nang/).
 
 Đau lưng khi chạy xe máy đường dài, nói cho gọn, là bài của sự chuẩn bị trước khi ra khỏi phố: chỉnh người, chọn xe, và chừa sẵn điểm nghỉ trong lịch trình. Làm trọn ba việc đó thì về tới đích còn nguyên sức ngồi vào bàn ăn tối cùng cả nhà.

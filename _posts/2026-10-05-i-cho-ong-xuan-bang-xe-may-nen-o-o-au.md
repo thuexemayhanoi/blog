@@ -16,7 +16,7 @@ writer: W1
 
 Câu hỏi đỗ xe máy ở chợ Đồng Xuân nghe có vẻ nhỏ nhưng quyết định cả trải nghiệm chuyến đi, vì khu chợ nằm giữa mạng phố cổ Hà Nội với các tuyến một chiều dày đặc, vỉa hè chật chội và lượng người đi bộ lớn quanh giờ mua sắm. Ai từng vòng ba vòng quanh khối chợ để tìm chỗ trống đều hiểu: đến đúng giờ cao điểm, chỗ gửi xe gần nhất có khi chật, và việc biết trước các phương án sẽ giúp khách thuê xe chọn điểm đỗ chủ động thay vì chạy lòng vòng thêm nửa tiếng.
 
-Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/), gợi ý điểm đến khác trong phần [điểm đến Hà Nội](/blog/du-lich/diem-den/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/), gợi ý điểm đến khác trong phần [điểm đến Hà Nội](/du-lich/diem-den/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Gửi xe chợ Đồng Xuân: mấy phương án quen thuộc
 

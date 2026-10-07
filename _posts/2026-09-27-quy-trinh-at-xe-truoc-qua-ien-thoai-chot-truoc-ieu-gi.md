@@ -41,7 +41,7 @@ Một cuộc gọi đặt xe chuẩn nên đi qua bảy điểm, theo thứ tự
 
 Bảy điểm đó chỉ mất vài phút nhưng giúp hai bên cùng rõ. Điểm cuối cùng, phần xác nhận lại bằng tin nhắn, là quan trọng nhất: cuộc gọi miệng không để lại bằng chứng, còn một tin nhắn chốt lại nội dung thì có. Sau khi gọi, gửi một tin tóm tắt: tôi vừa gọi đặt xe loại này, nhận ngày này, giá chốt thế này. Cửa hàng trả lời xác nhận là đơn giữ chỗ đã có trụ.
 
-Ai thích đọc dạng hỏi đáp nhanh trước khi gọi, trang [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/) tổng hợp các câu thường gặp về phần đặt trước. Phần quy trình chuẩn từ đặt tới nhận xe nằm trong [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), và bối cảnh chung của loại hình này nằm trong cẩm nang [thuê xe máy](/blog/thue-xe/).
+Ai thích đọc dạng hỏi đáp nhanh trước khi gọi, trang [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/) tổng hợp các câu thường gặp về phần đặt trước. Phần quy trình chuẩn từ đặt tới nhận xe nằm trong [thủ tục thuê xe](/thue-xe/thu-tuc/), và bối cảnh chung của loại hình này nằm trong cẩm nang [thuê xe máy](/thue-xe/).
 
 ## Chọn xe qua điện thoại: nói rõ tới mức nào
 

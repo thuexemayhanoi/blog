@@ -42,4 +42,4 @@ Ba câu dặn đáng giá nhất cho người từ tỉnh lên: không chạy �
 
 Với bố mẹ, thêm một câu về mũ bảo hiểm: mũ đi kèm xe phải đội chắc, nếu tiệm cho chọn thì chọn mũ mới sạch có quai cài kín. Nói thật nhẹ nhàng rằng bạn thuê xe là để bố mẹ đỡ mỏi chân đi chợ, nên mũ với gương là hai thứ cần chỉnh ngay từ đầu, và đừng cố lái nếu chưa chắc tay.
 
-Cuối tuần người nhà về, nhớ cùng họ trả xe: soát cùng nhân viên, chụp ảnh lần trả, nhận lại cọc theo đúng các bước trong [quy trình nhận trả xe](/blog/thue-xe/nhan-tra-xe/). Ai muốn đọc thêm có thể xem [thủ tục thuê xe](/blog/thue-xe/thu-tuc/) và [mục thuê xe máy](/blog/thue-xe/), hai trang tóm tắt gọn quy trình để lần sau người thân lên thăm, bạn chỉ cần đặt đúng một tin nhắn là mọi thứ sẵn sàng.
+Cuối tuần người nhà về, nhớ cùng họ trả xe: soát cùng nhân viên, chụp ảnh lần trả, nhận lại cọc theo đúng các bước trong [quy trình nhận trả xe](/thue-xe/nhan-tra-xe/). Ai muốn đọc thêm có thể xem [thủ tục thuê xe](/thue-xe/thu-tuc/) và [mục thuê xe máy](/thue-xe/), hai trang tóm tắt gọn quy trình để lần sau người thân lên thăm, bạn chỉ cần đặt đúng một tin nhắn là mọi thứ sẵn sàng.

@@ -54,6 +54,6 @@ Phát hiện lỗi lúc chạy thử là điều tốt, vì bạn chưa ký và 
 
 Điều không nên làm là nhận xe kèm lời hứa sẽ sửa sau. Lời hứa miệng sau khi ký rất khó thực thi, đặc biệt khi kỳ thuê của bạn bắt đầu ngay và không có thời gian chờ. Nếu chấp nhận theo hướng này vì lý do nào đó, yêu cầu ghi rõ lỗi và thời điểm cam kết xử lý vào biên nhận, kèm chữ ký.
 
-Sau khi vòng thử đạt, quay lại phần ký nhận với tâm thế rõ ràng: bạn đã biết tay lái thẳng, phanh ăn, ga đều. Bộ ảnh chụp tình trạng xe và biên nhận ghi vết xước nên hoàn tất ngay sau đó. Quy trình nhận và trả chuẩn được mô tả tại trang [nhận xe và trả xe](/blog/thue-xe/nhan-tra-xe/), thắc mắc về các bước trong buổi nhận xe được giải đáp trong phần [hỏi đáp thủ tục](/blog/hoi-dap/hoi-dap-thu-tuc/), còn cẩm nang [thuê xe máy](/blog/thue-xe/) là bối cảnh chung của việc thuê xe máy ở Hà Nội.
+Sau khi vòng thử đạt, quay lại phần ký nhận với tâm thế rõ ràng: bạn đã biết tay lái thẳng, phanh ăn, ga đều. Bộ ảnh chụp tình trạng xe và biên nhận ghi vết xước nên hoàn tất ngay sau đó. Quy trình nhận và trả chuẩn được mô tả tại trang [nhận xe và trả xe](/thue-xe/nhan-tra-xe/), thắc mắc về các bước trong buổi nhận xe được giải đáp trong phần [hỏi đáp thủ tục](/hoi-dap/hoi-dap-thu-tuc/), còn cẩm nang [thuê xe máy](/thue-xe/) là bối cảnh chung của việc thuê xe máy ở Hà Nội.
 
 Vài phút chạy thử trước khi ký là phần rẻ nhất của cả kỳ thuê: nó quyết định bạn đi cả ngày bằng một chiếc xe ăn ý, hay chịu đựng một chiếc xe khiến tay bạn mỏi từ quận Hoàn Kiếm ra tới cầu Long Biên.

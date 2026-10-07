@@ -36,7 +36,7 @@ Sương mù ở Hà Nội không đều: các đoạn ven sông Hồng, trũng q
 
 Các điểm cần để ý riêng: cầu vượt và đường cao hơn mặt sương — leo lên cầu thường xuyên là lao từ sương mù ra trời trong veo, rồi lại lao vào sương khi xuống; đoạn giao giữa cây xanh hai bên và đoạn ven đồng ruộng sương đặc nhất. Nếu tầm nhìn xuống dưới mười mét, cách xử lý an toàn nhất là dừng ở điểm rộng ven đường, bật đèn định vị, và đợi sương mỏng đi — mười phút đợi luôn rẻ hơn một phanh gấp trong trắng.
 
-Cuối cùng, giữ nón kính sạch và áo màng sẵn: sương sớm thường đi kèm lướt mưa nhỏ, và mặt kính ướt cộng sương là tầm nhìn tệ nhất. Các chủ đề thời tiết và đường sá khác — mưa lớn, đường ngập, trời lạnh — được gom trong trang [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), chủ đề kỹ năng khác nằm trong mục [kỹ năng](/blog/ky-nang/), còn kinh nghiệm đi phố nói chung xem thêm ở [kinh nghiệm](/blog/kinh-nghiem/).
+Cuối cùng, giữ nón kính sạch và áo màng sẵn: sương sớm thường đi kèm lướt mưa nhỏ, và mặt kính ướt cộng sương là tầm nhìn tệ nhất. Các chủ đề thời tiết và đường sá khác — mưa lớn, đường ngập, trời lạnh — được gom trong trang [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), chủ đề kỹ năng khác nằm trong mục [kỹ năng](/ky-nang/), còn kinh nghiệm đi phố nói chung xem thêm ở [kinh nghiệm](/kinh-nghiem/).
 
 ## Thói quen cả mùa sương cho người đi sớm đều đặn
 

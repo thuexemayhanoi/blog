@@ -52,4 +52,4 @@ Một điều nữa là chọn xe phù hợp nhu cầu thực tế thay vì ch�
 
 Tóm lại, nếu bạn dự kiến dùng xe từ ba tuần trở lên và đi lại gần như mỗi ngày, hỏi giá gói tháng trước. Nếu lịch trình chưa rõ hoặc chỉ cần dưới hai tuần, thuê theo ngày cho thoải mái, rồi nâng cấp lên gói dài hơn nếu thực tế cho thấy cần. Người mới đến Hà Nội thường mất vài ngày đầu để nhận ra nhịp đi lại thật của mình, nên đừng vội chốt gói dài từ ngày đầu tiên.
 
-Cần báo giá cụ thể, tình trạng xe sẵn có và các gói đang mở, bạn hãy liên hệ trực tiếp chủ cho thuê để được tư vấn theo nhu cầu. Bạn có thể xem thêm các bài so sánh trong mục [so sánh xe](/blog/xe-may/so-sanh-xe/), tham khảo tổng hợp về [xe máy](/blog/xe-may/), hoặc đọc thêm các bài [kinh nghiệm](/blog/kinh-nghiem/) để có lựa chọn phù hợp nhất.
+Cần báo giá cụ thể, tình trạng xe sẵn có và các gói đang mở, bạn hãy liên hệ trực tiếp chủ cho thuê để được tư vấn theo nhu cầu. Bạn có thể xem thêm các bài so sánh trong mục [so sánh xe](/xe-may/so-sanh-xe/), tham khảo tổng hợp về [xe máy](/xe-may/), hoặc đọc thêm các bài [kinh nghiệm](/kinh-nghiem/) để có lựa chọn phù hợp nhất.

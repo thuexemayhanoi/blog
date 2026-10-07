@@ -30,7 +30,7 @@ Lối quen đến làng đào là trục Âu Cơ chạy dọc bờ hồ về ph�
 
 Vài điểm cần nhớ trên đường mùa đào. Đoạn gần vườn nhiều xe chở cành: cành to buộc ngang trên xe ba gác và xe máy, khi gió lảo đảo, nên không bám sát và không vượt ở khúc gần cổng vườn. Đường vào vườn là ngõ dân cư hẹp, hai bên bừa bộn đồ cuối năm, nên đi chậm, để ý trẻ nhỏ trong ngõ. Cuối cùng, tính trước lối về: một số đoạn Âu Cơ đổi chiều, nhìn kỹ biển trước khi rẽ.
 
-Người mới chạy xe máy ven đô nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi đi; ai muốn ghép thêm điểm khác trong ngày xem mục [điểm đến Hà Nội](/blog/du-lich/diem-den/).
+Người mới chạy xe máy ven đô nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước buổi đi; ai muốn ghép thêm điểm khác trong ngày xem mục [điểm đến Hà Nội](/du-lich/diem-den/).
 
 ## Gửi xe vườn đào Nhật Tân: trong vườn hay ngoài vườn
 
@@ -38,7 +38,7 @@ Vườn đào là vườn nhà, nên gửi xe ở đây khác hẳn các điểm
 
 Vài điều đáng nhớ. Hỏi chủ vườn chỗ để xe ngay khi vào, đừng tự tiện dựng lên mép luống hay cạnh gốc: chân chống đè lên rễ non của cây đang uốn thế là làm hỏng dáng cành người ta ủi cả năm. Nếu định vào nhiều vườn, cứ gửi ở một vườn quen rồi đi bộ sang các vườn cạnh: vườn trong khu nằm gần nhau, đi bộ ngắm còn thong thả hơn mỗi vườn một lần dắt xe. Muộn về mà mua cành to thì nhờ chủ vườn phụ buộc hàng vào xe — người bán đào quen việc này hơn khách.
 
-Các lưu ý chung về trông giữ xe hai bánh khi đi vườn ven đô nằm trong chuyên mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); các điểm đến quanh khu Nhật Tân và ven hồ Tây được gom trong chuyên mục [Hồ Tây](/blog/du-lich/ho-tay/).
+Các lưu ý chung về trông giữ xe hai bánh khi đi vườn ven đô nằm trong chuyên mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); các điểm đến quanh khu Nhật Tân và ven hồ Tây được gom trong chuyên mục [Hồ Tây](/du-lich/ho-tay/).
 
 ## Chọn cành và buộc chở đào về nhà
 
@@ -48,4 +48,4 @@ Chở đào về bằng xe máy là một kỹ năng nhỏ mà đáng tập. Cà
 
 Về đến nhà, tháo dây theo thứ tự buộc, đừng kéo cả cành ra khỏi xe một lần. Ai ở xa khu Tây Hồ, tính lộ trước: chở cành nụ đi đường trường lâu thì phủ giấy quanh nụ, tránh gió trực tiếp làm nụ se rụng sớm. Nhiều người kết buổi đi bằng ghé chợ hoa Quảng Bá trên trục Âu Cơ, mua thêm cúc, hồng về cắm cùng đào.
 
-Trang [du lịch](/blog/du-lich/) gom các lộ trình mùa Tết bằng xe máy quanh Hà Nội; ai cần xe máy gọn cho chuyến đi vườn đào có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, lấy xe vài phút sau là lên được Nhật Tân.
+Trang [du lịch](/du-lich/) gom các lộ trình mùa Tết bằng xe máy quanh Hà Nội; ai cần xe máy gọn cho chuyến đi vườn đào có thể liên hệ số 0942467674 — Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Long Biên, sát đầu cầu Long Biên, lấy xe vài phút sau là lên được Nhật Tân.

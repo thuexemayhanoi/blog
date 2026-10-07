@@ -20,7 +20,7 @@ Xuống dốc dài bằng xe máy đòi hỏi kỹ thuật riêng, và khi bạn
 
 Trước khi đỉnh dốc tới, bạn đã phải quyết định xong tốc độ vào dốc. Nguyên tắc đơn giản: vào dốc chậm hơn bạn nghĩ cần. Nếu mặt dốc nhìn thoáng và ngắn, tốc độ vừa đủ để bánh xe lăn đều là ổn. Nếu dốc dài và uốn nhiều, hãy để xe chậm hẳn lại trước khi phần dốc thật sự bắt đầu. Máy xe tay ga như Air Blade không có cần số như xe số, nhưng vẫn có vai về ga và khung sườn cứng cáp, nên việc kiểm soát nằm gần như hoàn toàn ở tay phanh và vị trí ngồi.
 
-Tư thế ngồi cũng cần chỉnh lại. Dịch người lùi nhẹ về phía sau, hai đầu gối kẹp chặt bình xăng, hai bàn chân để phẳng trên bậc chân, mũi chân không treo ngoài mép. Khi xe lao xuống, trọng lực đẩy vai bạn về phía trước; nếu tay gồng cứng thì mọi rung động từ mặt đường sẽ truyền thẳng lên vai và tay lái. Ngồi thấp, thả lỏng khuỷu tay, mắt nhìn xa về phía cuối dốc thay vì dán vào ngay bánh trước. Chi tiết về dòng xe này được giới thiệu kỹ hơn trong bài về [Honda Air Blade](/blog/xe-may/honda-air-blade/), bao gồm đặc tính ga nhẹ và khối lượng phân bố.
+Tư thế ngồi cũng cần chỉnh lại. Dịch người lùi nhẹ về phía sau, hai đầu gối kẹp chặt bình xăng, hai bàn chân để phẳng trên bậc chân, mũi chân không treo ngoài mép. Khi xe lao xuống, trọng lực đẩy vai bạn về phía trước; nếu tay gồng cứng thì mọi rung động từ mặt đường sẽ truyền thẳng lên vai và tay lái. Ngồi thấp, thả lỏng khuỷu tay, mắt nhìn xa về phía cuối dốc thay vì dán vào ngay bánh trước. Chi tiết về dòng xe này được giới thiệu kỹ hơn trong bài về [Honda Air Blade](/xe-may/honda-air-blade/), bao gồm đặc tính ga nhẹ và khối lượng phân bố.
 
 ## Air Blade xuống dốc dài: phối hợp phanh đúng tỉ lệ
 
@@ -28,7 +28,7 @@ Tư thế ngồi cũng cần chỉnh lại. Dịch người lùi nhẹ về phí
 
 Với Air Blade xuống dốc dài, cách dùng phanh hợp lý nhất là nhịp bóp thả nhiều lần thay vì ôm phanh liên tục. Bóp chậm xe lại trong vài giây, thả cho dầu phanh và má phanh nguội bớt, rồi bóp tiếp. Cách này giữ cho má phanh luôn ở vùng nhiệt độ làm việc ổn định. Nếu bạn ôm phanh không buông tay suốt quãng dốc vài cây số, cảm giác đầu tiên bạn nhận ra là tay nắm phanh phải bóp sâu hơn mà xe vẫn không giảm nhanh như lúc đầu. Đó là dấu hiệu má phanh đã nóng và mất ăn tạm thời, rất nguy hiểm nếu nửa sau dốc có đoạn cua gắt.
 
-Ngoài ra hãy để ý tiếng máy. Xe ga xuống dốc dài khi bạn buông hết ga sẽ có tiếng rít nhẹ từ truyền động, đó là bình thường. Nhưng nếu bạn cảm nhận xe tăng tốc bất thường dù đã nhả ga, đừng vội đổ lỗi cho đường, hãy kiểm tra lại lực bóp phanh của mình trước, rồi đề phòng vấn đề ở hệ thống phanh khi trả xe. Người mới thuê xe nên đọc thêm các nguyên tắc căn bản trong bài [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) để nắm trước thói quen bóp phanh đúng cách.
+Ngoài ra hãy để ý tiếng máy. Xe ga xuống dốc dài khi bạn buông hết ga sẽ có tiếng rít nhẹ từ truyền động, đó là bình thường. Nhưng nếu bạn cảm nhận xe tăng tốc bất thường dù đã nhả ga, đừng vội đổ lỗi cho đường, hãy kiểm tra lại lực bóp phanh của mình trước, rồi đề phòng vấn đề ở hệ thống phanh khi trả xe. Người mới thuê xe nên đọc thêm các nguyên tắc căn bản trong bài [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) để nắm trước thói quen bóp phanh đúng cách.
 
 ## Giữ làn và xử lý dốc có cua
 
@@ -38,7 +38,7 @@ Dốc có cua là chỗ thử thách thật sự. Quy tắc vàng: giảm tốc 
 
 ## Sai lầm hay gặp và cách phòng tránh
 
-Sai lầm phổ biến nhất là vào dốc nhanh, hoảng, ôm phanh trước, và mất lái ở đoạn đầu dốc. Sai lầm thứ hai là tin rằng xe tay ga không thể đỡ tải. Thực tế hầu hết xe ga đời mới có vai ga cho phép máy giữ nguyên tình trạng kéo nhẹ khi nhả ga, và nhiều mẫu còn có chế độ giúp giảm tốc dần khi bạn buông ga. Hãy tận dụng điều đó: nhả ga hoàn toàn trong đoạn thẳng, chỉ dùng phanh để tinh chỉnh. Nếu bạn thuê một chiếc [xe máy](/blog/xe-may/) cho tuyến có nhiều dốc, hãy hỏi chủ xe về tính năng giảm tốc của máy trước khi xuất phát, vì mỗi dòng có cách phản hồi khác nhau.
+Sai lầm phổ biến nhất là vào dốc nhanh, hoảng, ôm phanh trước, và mất lái ở đoạn đầu dốc. Sai lầm thứ hai là tin rằng xe tay ga không thể đỡ tải. Thực tế hầu hết xe ga đời mới có vai ga cho phép máy giữ nguyên tình trạng kéo nhẹ khi nhả ga, và nhiều mẫu còn có chế độ giúp giảm tốc dần khi bạn buông ga. Hãy tận dụng điều đó: nhả ga hoàn toàn trong đoạn thẳng, chỉ dùng phanh để tinh chỉnh. Nếu bạn thuê một chiếc [xe máy](/xe-may/) cho tuyến có nhiều dốc, hãy hỏi chủ xe về tính năng giảm tốc của máy trước khi xuất phát, vì mỗi dòng có cách phản hồi khác nhau.
 
 Một thói quen nhỏ nhưng đáng giá: trước khi nhận xe, bóp thử cả hai phanh khi xe đang đứng. Nghe tiếng kim loại chạm kim loại, cảm nhận độ nảy của tay nắm, nhìn má phanh qua khe mâm. Mười giây đó giúp bạn biết trước xe mình sắp xuống dốc có độ ăn phanh thế nào, thay vì phát hiện giữa dốc Tùng Thiện Vương hay các cung dốc ở Gia Lâm.
 

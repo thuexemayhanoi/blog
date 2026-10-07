@@ -23,9 +23,9 @@ Thời điểm đặt xe cũng quan trọng. Khách liên hệ sớm thường c
 
 ## Giá thuê xe máy dịp Tết tham khảo theo dòng xe
 
-Để có khung so sánh, bạn có thể dựa trên mức giá tham khảo theo ngày của từng dòng xe. Xe số Honda Wave có mức tham khảo 150.000 đồng mỗi ngày, nhóm xe ga Honda Vision và Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày, Honda Click và Yamaha Mio nằm ở mức 150.000 đồng mỗi ngày. Khung giá đầy đủ theo dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/blog/bang-gia/).
+Để có khung so sánh, bạn có thể dựa trên mức giá tham khảo theo ngày của từng dòng xe. Xe số Honda Wave có mức tham khảo 150.000 đồng mỗi ngày, nhóm xe ga Honda Vision và Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày, Honda Click và Yamaha Mio nằm ở mức 150.000 đồng mỗi ngày. Khung giá đầy đủ theo dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/).
 
-Với những ai cần giữ xe nhiều ngày liên tục, mức giá theo tuần hoặc theo tháng đáng cân nhắc. Ví dụ nhóm Honda Air Blade có mức tham khảo theo tuần 800.000 đồng, trong khi nhóm Honda Vision có mức theo tháng từ 1.800.000 đồng đến 2.000.000 đồng. Cách đọc giá theo từng khoảng thời gian được mô tả chi tiết trong bài [giá thuê xe máy theo tháng ở Hà Nội](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/), nhóm giá theo dòng xe nằm trong mục [giá thuê xe máy](/blog/thue-xe/gia-thue/), và các yếu tố ảnh hưởng đến mặt bằng giá được phân tích trong bài [những yếu tố làm giá thuê xe máy thay đổi](/blog/thue-xe/2026/09/27/nhung-yeu-to-lam-gia-thue-xe-may-thay-oi/).
+Với những ai cần giữ xe nhiều ngày liên tục, mức giá theo tuần hoặc theo tháng đáng cân nhắc. Ví dụ nhóm Honda Air Blade có mức tham khảo theo tuần 800.000 đồng, trong khi nhóm Honda Vision có mức theo tháng từ 1.800.000 đồng đến 2.000.000 đồng. Cách đọc giá theo từng khoảng thời gian được mô tả chi tiết trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/), nhóm giá theo dòng xe nằm trong mục [giá thuê xe máy](/thue-xe/gia-thue/), và các yếu tố ảnh hưởng đến mặt bằng giá được phân tích trong bài [những yếu tố làm giá thuê xe máy thay đổi](/thue-xe/2026/09/27/nhung-yeu-to-lam-gia-thue-xe-may-thay-oi/).
 
 ## Đặt xe Tết nên chuẩn bị gì
 

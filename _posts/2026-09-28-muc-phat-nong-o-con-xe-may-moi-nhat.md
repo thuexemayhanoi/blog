@@ -23,7 +23,7 @@ Theo khoản 6 Điều 7 Nghị định 168/2024/NĐ-CP, người điều khiể
 - Mức 2: nồng độ cồn vượt quá 50 miligam nhưng chưa vượt quá 80 miligam trong 100 mililít máu, hoặc vượt quá 0,25 miligam nhưng chưa vượt quá 0,4 miligam trong một lít khí thở. Phạt tiền từ 6 triệu đồng đến 8 triệu đồng.
 - Mức 3: nồng độ cồn vượt quá 80 miligam trong 100 mililít máu, hoặc vượt quá 0,4 miligam trong một lít khí thở. Phạt tiền từ 8 triệu đồng đến 10 triệu đồng và tước giấy phép lái xe từ 22 tháng đến 24 tháng.
 
-Khung phạt này được kế thừa và tổ chức lại từ Nghị định 100/2019/NĐ-CP trước đây, kèm cơ chế trừ điểm giấy phép lái xe theo chế độ mới; điểm khác biệt quan trọng nhất nằm ở nền tảng: từ 01/01/2025, mọi mức cồn đều bị cấm ở cấp luật, nên không còn tranh luận về ngưỡng cho phép. Cơ sở của quy định cấm là Luật Trật tự an toàn giao thông đường bộ 2024, nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, đã được giới thiệu trong bài [quy định nồng độ cồn khi lái xe hiện hành](/blog/an-toan-phap-ly/). Mức phạt có thể thay đổi theo văn bản mới, nên hãy kiểm tra nghị định hiện hành tại thời điểm tra cứu.
+Khung phạt này được kế thừa và tổ chức lại từ Nghị định 100/2019/NĐ-CP trước đây, kèm cơ chế trừ điểm giấy phép lái xe theo chế độ mới; điểm khác biệt quan trọng nhất nằm ở nền tảng: từ 01/01/2025, mọi mức cồn đều bị cấm ở cấp luật, nên không còn tranh luận về ngưỡng cho phép. Cơ sở của quy định cấm là Luật Trật tự an toàn giao thông đường bộ 2024, nghiêm cấm điều khiển phương tiện khi trong máu hoặc hơi thở có nồng độ cồn, đã được giới thiệu trong bài [quy định nồng độ cồn khi lái xe hiện hành](/an-toan-phap-ly/). Mức phạt có thể thay đổi theo văn bản mới, nên hãy kiểm tra nghị định hiện hành tại thời điểm tra cứu.
 
 ## Điểm dễ nhầm
 
@@ -37,7 +37,7 @@ Ba nhầm lẫn thường gặp khi đọc khung phạt:
 
 Ngoài phạt tiền, người vi phạm thuộc mức 1 và mức 2 bị trừ điểm giấy phép lái xe theo chế độ điểm hiện hành, còn ở mức 3 bị tước giấy phép lái xe 22 đến 24 tháng. Với người đi xe phục vụ công việc hoặc sinh hoạt hằng ngày ở Hà Nội, việc mất giấy phép lái theo tháng là hệ quả nặng hơn nhiều khoản tiền phạt, vì nó đảo lộn toàn bộ phương án di chuyển trong thời gian bị tước.
 
-Nếu đang đi xe thuê khi bị xử lý, bạn cần thông báo cho cửa hàng theo đúng trình tự trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/blog/thue-xe/su-co/). Còn nếu định uống ở tiệc, cách an toàn nhất vẫn là không tự lái về sau đó, như kinh nghiệm đã chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/blog/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/).
+Nếu đang đi xe thuê khi bị xử lý, bạn cần thông báo cho cửa hàng theo đúng trình tự trong bài [trình chủ xe thuê khi bị xử lý nồng độ cồn](/thue-xe/su-co/). Còn nếu định uống ở tiệc, cách an toàn nhất vẫn là không tự lái về sau đó, như kinh nghiệm đã chia sẻ trong bài [đi ăn uống có dùng đồ có cồn thì về nhà thế nào](/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/).
 
 ## Điểm chung của các kỳ quy định
 
@@ -51,7 +51,7 @@ Ba thói quen đủ để không bao giờ rơi vào khung phạt nồng độ c
 - Dùng phương án thay thế: xe công nghệ, người nhà đón, hoặc để xe lại qua đêm và quay lại lấy khi chắc chắn đã hết cồn.
 - Về đêm ở Hà Nội giữ khoảng cách với các điểm kiểm tra đang làm việc, đi đúng làn và đầy đủ giấy tờ, vì vi phạm khác khi dừng xe sẽ khiến mọi thứ phức tạp hơn.
 
-Nhóm chủ đề này được tổng hợp trong trang [nồng độ cồn](/blog/an-toan-phap-ly/noi-do-cong/).
+Nhóm chủ đề này được tổng hợp trong trang [nồng độ cồn](/an-toan-phap-ly/noi-do-cong/).
 
 ## Kết luận về mức phạt nồng độ cồn xe máy
 

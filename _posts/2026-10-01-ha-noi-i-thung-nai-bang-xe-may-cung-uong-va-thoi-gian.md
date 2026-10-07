@@ -33,17 +33,17 @@ Cuối tuần, quốc lộ sáu có lúc đông xe tải và xe khách, đoạn 
 
 ## Chuẩn bị xe cho chuyến một trăm ki-lô-mét
 
-Xe ga cũng đi được, xe số càng thoải mái, miễn là trước chuyến đi bạn kiểm tra đủ bốn thứ: lốp, phanh, đèn, và dây xích nếu là xe số. Cung đường này không cần xe phân khối lớn, nó cần xe khỏe ở phần phanh vì có nhiều dốc dài. Người đi bằng xe máy thuê nên nói rõ với cửa hàng lộ trình dự kiến để được tư vấn loại xe phù hợp; phần chọn loại xe cho từng loại cung đường được viết riêng trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), và thông tin chung về dịch vụ nằm ở trang [cho thuê xe máy](/blog/thue-xe/).
+Xe ga cũng đi được, xe số càng thoải mái, miễn là trước chuyến đi bạn kiểm tra đủ bốn thứ: lốp, phanh, đèn, và dây xích nếu là xe số. Cung đường này không cần xe phân khối lớn, nó cần xe khỏe ở phần phanh vì có nhiều dốc dài. Người đi bằng xe máy thuê nên nói rõ với cửa hàng lộ trình dự kiến để được tư vấn loại xe phù hợp; phần chọn loại xe cho từng loại cung đường được viết riêng trong bài [chọn loại xe](/xe-may/chon-loai-xe/), và thông tin chung về dịch vụ nằm ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ mang theo nên gọn: một lớp áo gió, áo mưa, ít tiền lẻ cho các điểm giữ xe, và điện thoại sạc sẵn. Trời hồ Thung Nai về chiều dễ chuyển mát nhanh hơn đồng bằng, nên lớp áo gió đáng mang hơn tưởng. Các nguyên tắc gói ghém đồ trên yên xe máy được nhắc kỹ trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), nên không lặp lại ở đây.
+Đồ mang theo nên gọn: một lớp áo gió, áo mưa, ít tiền lẻ cho các điểm giữ xe, và điện thoại sạc sẵn. Trời hồ Thung Nai về chiều dễ chuyển mát nhanh hơn đồng bằng, nên lớp áo gió đáng mang hơn tưởng. Các nguyên tắc gói ghém đồ trên yên xe máy được nhắc kỹ trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), nên không lặp lại ở đây.
 
-Về giấy tờ, mang đủ bản gốc giấy phép lái xe và đăng ký xe. Trên quốc lộ có các chốt kiểm soát định kỳ, và đừng để chuyến cuối tuần đẹp hóa thành buổi trình diện thiếu giấy tờ. Những quy định cần biết khi chạy xe trên đường trường nằm trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Về giấy tờ, mang đủ bản gốc giấy phép lái xe và đăng ký xe. Trên quốc lộ có các chốt kiểm soát định kỳ, và đừng để chuyến cuối tuần đẹp hóa thành buổi trình diện thiếu giấy tờ. Những quy định cần biết khi chạy xe trên đường trường nằm trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Những đoạn cần chậm lại
 
 Đoạn dốc dài gần cuối cung đường là chỗ đầu tiên nên thủ sẵn cự ly phanh. Xe tải đi ngược chiều trên quốc lộ sáu chiếm làn khá tự do, nên khi vượt, phải nhìn trước và cảnh giác với khúc khuỷu. Đoạn đường hồ nhỏ quanh co, mặt đường có nơi chưa đều, và vì một bên là dốc xuống nước, tốt nhất là giữ tốc độ vừa đủ để có thể dừng lại bất kỳ lúc nào.
 
-Sương chiều trên vùng hồ dày hơn nhiều người tưởng. Khoảng chạng vạng tối, mặt đường ẩm và tầm nhìn giảm, nên hãy chủ động hoàn tất phần chụp ảnh trước khung giờ đó. Phần về đường sá mùa và thời tiết được tách riêng trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), bạn nên đọc nếu định đi vào mùa mưa.
+Sương chiều trên vùng hồ dày hơn nhiều người tưởng. Khoảng chạng vạng tối, mặt đường ẩm và tầm nhìn giảm, nên hãy chủ động hoàn tất phần chụp ảnh trước khung giờ đó. Phần về đường sá mùa và thời tiết được tách riêng trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), bạn nên đọc nếu định đi vào mùa mưa.
 
 ## Ăn uống và đêm lại hồ
 
@@ -55,4 +55,4 @@ Thời tiết nên kiểm tra trước buổi đi: mùa mưa đá vôi trơn hơ
 
 ## Gợi ý nối chuyến
 
-Thung Nai hợp với lịch hai ngày một đêm, kèm thuyền ra đảo hoặc buổi chiều đạp vịt trên hồ. Ai muốn nối chuỗi cung đường có thể xem nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) để chọn điểm kế tiếp, hoặc khởi động bằng các vòng [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) trước khi xách xe đi xa. Cung đường Hà Nội đi Thung Nai bằng xe máy không khó, chỉ cần được chuẩn bị đúng mức, và khi đã thuộc một lần, nó sẽ thành chuyến đi thường trực trong danh sách của bạn cho mọi mùa cuối năm.
+Thung Nai hợp với lịch hai ngày một đêm, kèm thuyền ra đảo hoặc buổi chiều đạp vịt trên hồ. Ai muốn nối chuỗi cung đường có thể xem nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) để chọn điểm kế tiếp, hoặc khởi động bằng các vòng [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) trước khi xách xe đi xa. Cung đường Hà Nội đi Thung Nai bằng xe máy không khó, chỉ cần được chuẩn bị đúng mức, và khi đã thuộc một lần, nó sẽ thành chuyến đi thường trực trong danh sách của bạn cho mọi mùa cuối năm.

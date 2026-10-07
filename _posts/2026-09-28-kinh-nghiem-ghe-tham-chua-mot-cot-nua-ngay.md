@@ -32,13 +32,13 @@ Với trình tự này, toàn bộ nửa ngày cần khoảng ba giờ rưỡi, 
 
 ## Kinh nghiệm đi chùa Một Cột: những việc nhỏ nên làm trước
 
-Trước khi khởi hành, ba việc đáng làm: kiểm tra giờ mở cửa hiện hành của từng khu trong cụm, vì mỗi khu có khung riêng; chuẩn bị trang phục kín đáo cho phần tôn nghiêm; và mang giấy tờ tùy thân, vì lối vào cụm qua khu kiểm soát. Với khách thuê xe, danh mục giấy tờ xe bắt buộc được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu vực Ba Đình thỉnh thoảng có chốt kiểm tra.
+Trước khi khởi hành, ba việc đáng làm: kiểm tra giờ mở cửa hiện hành của từng khu trong cụm, vì mỗi khu có khung riêng; chuẩn bị trang phục kín đáo cho phần tôn nghiêm; và mang giấy tờ tùy thân, vì lối vào cụm qua khu kiểm soát. Với khách thuê xe, danh mục giấy tờ xe bắt buộc được nêu trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu vực Ba Đình thỉnh thoảng có chốt kiểm tra.
 
-Về di chuyển trong cụm: các điểm cách nhau vài trăm mét, đều đi bộ theo làn quy định, nên xe máy gửi một lần ở bãi gần cổng vào rồi đi bộ suốt là cách gọn nhất. Chụp lại vị trí bãi gửi xe lúc dựng, vì cuối buổi mỏi chân dễ nhầm hướng. Kinh nghiệm di chuyển và gửi xe ở các khu trung tâm được nêu tại trang [du lịch Hà Nội](/blog/du-lich/) và trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Về di chuyển trong cụm: các điểm cách nhau vài trăm mét, đều đi bộ theo làn quy định, nên xe máy gửi một lần ở bãi gần cổng vào rồi đi bộ suốt là cách gọn nhất. Chụp lại vị trí bãi gửi xe lúc dựng, vì cuối buổi mỏi chân dễ nhầm hướng. Kinh nghiệm di chuyển và gửi xe ở các khu trung tâm được nêu tại trang [du lịch Hà Nội](/du-lich/) và trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Ghép các điểm lân cận nếu còn thời gian
 
-Nếu kết thúc cụm trước mười một giờ, phần còn lại của nửa ngày có thể dùng cho vùng quanh: các tuyến lá vàng quanh Hoàng Hoa Thám, khu phố cổ phía Hồ Gươm, hoặc chỉ cần thong thả quanh các trục lớn chụp ảnh. Khung lịch trình cho cả vùng được tóm tắt tại trang [du lịch Hà Nội](/blog/du-lich/). Với khách có nhiều ngày ở Hà Nội, nên đặt cụm Ba Đình trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu kết thúc cụm trước mười một giờ, phần còn lại của nửa ngày có thể dùng cho vùng quanh: các tuyến lá vàng quanh Hoàng Hoa Thám, khu phố cổ phía Hồ Gươm, hoặc chỉ cần thong thả quanh các trục lớn chụp ảnh. Khung lịch trình cho cả vùng được tóm tắt tại trang [du lịch Hà Nội](/du-lich/). Với khách có nhiều ngày ở Hà Nội, nên đặt cụm Ba Đình trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 Về nhiếp ảnh: chùa Một Cột đẹp nhất lúc sáng khi mặt trời thấp, soi bóng xuống hồ Linh Quang, nhưng lúc đó dòng khách dày quanh đầu cầu. Cách đơn giản là tranh khung ngay khi cụm mở cửa, hoặc chấp nhận xếp hàng theo lượt tại các góc chụp chuẩn. Trong khu tôn nghiêm, chụp ảnh theo quy định niêm yết của từng khu, không dùng đèn flash nơi cấm và luôn để máy ở chế độ im lặng.
 

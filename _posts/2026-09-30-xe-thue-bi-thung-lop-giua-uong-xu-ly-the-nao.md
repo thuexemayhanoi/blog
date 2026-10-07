@@ -31,7 +31,7 @@ Một tình huống cần tránh: đừng tự ý thay lốp mới hay sửa ch�
 
 Đây là bước quan trọng nhất với xe thuê. Trong hợp đồng thuê xe luôn có số điện thoại liên hệ; gọi ngay khi đã đưa xe vào chỗ an toàn. Khi gọi, nói rõ ba thông tin: bạn đang ở đâu, sự cố là gì, và xe hiện có chạy được tiếp hay không. Từ đó cửa hàng sẽ hướng dẫn: đưa xe tới điểm vá gần nhất, chờ hỗ trợ, hay có phương án khác.
 
-Về khoản chi phí: đừng tự phán đoán ai chịu khoản nào. Hỏi thẳng trong cuộc gọi đó, và nếu cần, nhờ gửi tin nhắn xác nhận lại phần trao đổi. Khoản chi phí phát sinh với xe thuê cần được xác nhận trực tiếp với cửa hàng cho từng trường hợp, không có mức áp chung công khai; chính vì vậy giữ lại hóa đơn và tin nhắn là cách bảo vệ bạn. Các tình huống rắc rối khác trong kỳ thuê được gom trong chuyên mục [sự cố khi thuê xe](/blog/thue-xe/su-co/), còn trang chủ đề [thuê xe máy Hà Nội](/blog/thue-xe/) tóm tắt trình tự thuê từ đầu tới cuối.
+Về khoản chi phí: đừng tự phán đoán ai chịu khoản nào. Hỏi thẳng trong cuộc gọi đó, và nếu cần, nhờ gửi tin nhắn xác nhận lại phần trao đổi. Khoản chi phí phát sinh với xe thuê cần được xác nhận trực tiếp với cửa hàng cho từng trường hợp, không có mức áp chung công khai; chính vì vậy giữ lại hóa đơn và tin nhắn là cách bảo vệ bạn. Các tình huống rắc rối khác trong kỳ thuê được gom trong chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/), còn trang chủ đề [thuê xe máy Hà Nội](/thue-xe/) tóm tắt trình tự thuê từ đầu tới cuối.
 
 ## Bước bốn: ghi lại hiện trạng
 
@@ -41,7 +41,7 @@ Nếu phải để xe lại qua đêm tại điểm vá hay chỗ ở tạm, ch�
 
 ## Phòng tránh cho những chuyến sau
 
-Ba thói quen nhỏ giảm gần hết nguy cơ thủng lốp giữa đường. Kiểm tra lốp trước khi nhận xe: nhìn kỹ mặt lốp có mòn lệch, có vết nứt, đắp cao su non ở mép không; hỏi cửa hàng lốp xe đang ở độ mòn nào, và bắt đầu bằng [checklist kiểm tra xe khi nhận xe thuê](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) để không bỏ sót mục nào. Kiểm tra áp suất lốp định kỳ, vì lốp non hơi vừa giảm an toàn vừa dễ bị vạt khi đâm vật sắc. Và tránh phanh gấp, né ổ gà ở tốc độ cao, hai nguyên nhân khiến vành bánh va mạnh và miệng lốp bung ra liếp. Trước mỗi chuyến đi, vài phút [kiểm tra xe trước mọi chuyến đi](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/) còn giúp bạn phát hiện sớm cả những vấn đề ngoài lốp.
+Ba thói quen nhỏ giảm gần hết nguy cơ thủng lốp giữa đường. Kiểm tra lốp trước khi nhận xe: nhìn kỹ mặt lốp có mòn lệch, có vết nứt, đắp cao su non ở mép không; hỏi cửa hàng lốp xe đang ở độ mòn nào, và bắt đầu bằng [checklist kiểm tra xe khi nhận xe thuê](/kinh%20nghi%E1%BB%87m/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) để không bỏ sót mục nào. Kiểm tra áp suất lốp định kỳ, vì lốp non hơi vừa giảm an toàn vừa dễ bị vạt khi đâm vật sắc. Và tránh phanh gấp, né ổ gà ở tốc độ cao, hai nguyên nhân khiến vành bánh va mạnh và miệng lốp bung ra liếp. Trước mỗi chuyến đi, vài phút [kiểm tra xe trước mọi chuyến đi](/kinh%20nghi%E1%BB%87m/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/) còn giúp bạn phát hiện sớm cả những vấn đề ngoài lốp.
 
 ## Trước chuyến đi xa: ba câu hỏi cho cửa hàng
 

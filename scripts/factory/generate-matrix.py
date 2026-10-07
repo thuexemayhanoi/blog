@@ -66,22 +66,14 @@ def slugify(s):
 
 
 def canonical_internal_link(link):
-    """Chuẩn hoá liên kết nội bộ về URL công khai có baseurl /blog.
-
-    Site chạy dưới baseurl /blog (xem _config.yml): liên kết root-relative
-    thiếu /blog (dạng /thue-xe/...) là URL 404 thật. Seed cho phép cả hai
-    dạng lịch sử; NGUỒN SINH MATRIX phải phát ra đúng một dạng canonical
-    /blog/... cho mọi hàng planned (idempotent).
-    """
+    """Chuẩn hoá liên kết nội bộ về root-relative URL của custom domain."""
     link = (link or '').strip()
     if (not link or link.startswith('#')
             or link.startswith(('http://', 'https://', 'mailto:', 'tel:'))):
         return link
     if not link.startswith('/'):
         link = '/' + link
-    if link.startswith('/blog/'):
-        return link
-    return '/blog' + link
+    return link
 
 
 def read_sources():
@@ -191,7 +183,7 @@ def main():
 
     parent_cat = {}  # parent_id -> tên danh mục Jekyll (dùng trong URL mới)
     for c in tax['children']:
-        parent_cat.setdefault(c['parent_id'], c['hub_url'].split('/')[2])
+        parent_cat.setdefault(c['parent_id'], c['hub_url'].strip('/').split('/')[0])
 
     for cid, spec in planned_specs.items():
         child = children[cid]
@@ -210,9 +202,9 @@ def main():
                 'group': o['group'],
                 # URL dự kiến theo pattern thật của site (pretty + category):
                 # ngày chỉ chốt khi xuất bản, nên để placeholder {date}.
-                'expected_url': '/blog/%s/{date}/%s/' % (cat, slug),
+                'expected_url': '/%s/{date}/%s/' % (cat, slug),
                 'output_path': '_posts/{date}-%s.md' % slug,
-                'canonical_url': '/blog/%s/{date}/%s/' % (cat, slug),
+                'canonical_url': '/%s/{date}/%s/' % (cat, slug),
                 'internal_links': '; '.join(
                     canonical_internal_link(l) for l in o['links']),
                 'source_required': str(child['source_required']).lower(),

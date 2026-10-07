@@ -52,7 +52,7 @@ Gợi ý lịch ôn cho người bận rộn như sau:
 
 ## Người thuê xe cần lưu ý
 
-Sau khi đỗ lý thuyết và thực hành, bạn sẽ sớm cần một chiếc xe để đi lại thực tế. Khi thuê xe máy ở Hà Nội, bạn vẫn phải mang theo bằng lái khi ra đường kể cả khi đã thi đỗ, vì bằng chỉ được cấp sau khi hoàn tất thủ tục nhận giấy phép. Các bài viết về giấy tờ cần chuẩn bị nằm trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn các quy định áp dụng hằng ngày khi lưu thông trong nội thành được tổng hợp tại trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/). Nếu cần xe để đi lại quanh khu vực Long Biên, Bồ Đề trong lúc chờ nhận bằng, bạn có thể xem các dòng xe tại trang [thuê xe máy](/blog/thue-xe/).
+Sau khi đỗ lý thuyết và thực hành, bạn sẽ sớm cần một chiếc xe để đi lại thực tế. Khi thuê xe máy ở Hà Nội, bạn vẫn phải mang theo bằng lái khi ra đường kể cả khi đã thi đỗ, vì bằng chỉ được cấp sau khi hoàn tất thủ tục nhận giấy phép. Các bài viết về giấy tờ cần chuẩn bị nằm trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn các quy định áp dụng hằng ngày khi lưu thông trong nội thành được tổng hợp tại trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/). Nếu cần xe để đi lại quanh khu vực Long Biên, Bồ Đề trong lúc chờ nhận bằng, bạn có thể xem các dòng xe tại trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -60,6 +60,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về lý thuyết bằng lái a1
 
-Lý thuyết bằng lái a1 không khó khi bạn ôn đúng trọng tâm: nắm năm nhóm câu hỏi hay gặp, luyện theo bộ câu hỏi chuẩn hiện hành và dồn lực vào danh sách câu sai của chính mình. Kiến thức lý thuyết cũng phục vụ trực tiếp cho việc đi đường an toàn sau khi có bằng, nên thời gian ôn thi không bao giờ là lãng phí. Để bổ sung kiến thức quy định giao thông áp dụng thực tế, bạn có thể tham khảo trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) trước ngày sát hạch.
+Lý thuyết bằng lái a1 không khó khi bạn ôn đúng trọng tâm: nắm năm nhóm câu hỏi hay gặp, luyện theo bộ câu hỏi chuẩn hiện hành và dồn lực vào danh sách câu sai của chính mình. Kiến thức lý thuyết cũng phục vụ trực tiếp cho việc đi đường an toàn sau khi có bằng, nên thời gian ôn thi không bao giờ là lãng phí. Để bổ sung kiến thức quy định giao thông áp dụng thực tế, bạn có thể tham khảo trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) trước ngày sát hạch.
 
 Thông tin về nội dung sát hạch và bộ câu hỏi chuẩn có thể thay đổi theo từng văn bản; trước khi đăng ký dự thi, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

@@ -52,8 +52,8 @@ Nhiều gia đình chọn điểm dừng này cho dịp cuối tuần vì không
 
 ## Kết hợp các điểm khác trong chuyến đi
 
-Vị trí trên trục Trường Chinh giúp bảo tàng dễ ghép với các điểm phía nam, phía tây thành phố trong cùng một chuyến, thay vì phải rơi về khu trung tâm. Nếu bạn muốn tham quan thêm các bảo tàng khác của Hà Nội, trang [bảo tàng ở Hà Nội](/blog/du-lich/bao-tang/) tổng hợp nhiều lựa chọn theo chủ đề, còn chuyên mục [du lịch Hà Nội](/blog/du-lich/) gợi ý cách xếp lịch cho từng vùng trong thành phố.
+Vị trí trên trục Trường Chinh giúp bảo tàng dễ ghép với các điểm phía nam, phía tây thành phố trong cùng một chuyến, thay vì phải rơi về khu trung tâm. Nếu bạn muốn tham quan thêm các bảo tàng khác của Hà Nội, trang [bảo tàng ở Hà Nội](/du-lich/bao-tang/) tổng hợp nhiều lựa chọn theo chủ đề, còn chuyên mục [du lịch Hà Nội](/du-lich/) gợi ý cách xếp lịch cho từng vùng trong thành phố.
 
-Khách du lịch cần phương tiện có thể xem trước thủ tục ở bài viết về [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/). Chuẩn bị sẵn giấy tờ và hiểu rõ quy trình nhận, trả xe giúp bạn tiết kiệm thời gian, đặc biệt nếu lịch trình ngày đó còn ghép thêm các điểm xa hơn phía nam Hà Nội.
+Khách du lịch cần phương tiện có thể xem trước thủ tục ở bài viết về [thuê xe máy theo ngày](/thue-xe/thue-ngay/). Chuẩn bị sẵn giấy tờ và hiểu rõ quy trình nhận, trả xe giúp bạn tiết kiệm thời gian, đặc biệt nếu lịch trình ngày đó còn ghép thêm các điểm xa hơn phía nam Hà Nội.
 
 Tóm lại, ghé Bảo tàng Phòng không - Không quân bằng xe máy là một chuyến dã ngoại nhẹ nhàng, ít tốn sức và phù hợp nhiều lứa tuổi. Nắm trước khung giờ mở cửa, chọn đúng chỗ gửi xe và tính toán đường đi theo trục Trường Chinh, bạn sẽ có một buổi tham quan gọn gàng giữa lòng thủ đô.

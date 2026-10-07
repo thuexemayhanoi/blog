@@ -48,6 +48,6 @@ Kiểm xe trước khi vào khu hồ: đèn, còi, phanh và gương, vì quanh 
 
 Cuối cùng là phần thông tin: xem trước khung giờ phố đi bộ và các hoạt động quanh hồ trên thông tin chính thức, vì chương trình đổi theo mùa và dịp lễ. Ghi nhớ chỗ bãi gửi xe bằng cách chụp biển hiệu, để buổi về bạn không phải dò lại giữa phố đông. Với khách thuê xe, một tin nhắn hỏi trước người cho thuê về bãi và điểm chặn thường tiết kiệm hơn cả buổi tự mò.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [phố cổ](/blog/du-lich/pho-co/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [phố cổ](/du-lich/pho-co/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, chạy xe quanh Đền Ngọc Sơn cần đi chậm, đọc biển một chiều ở từng ngã tư, và nhớ tối cuối tuần mặt đường ven hồ là phố đi bộ. Gửi xe ở bãi có người trông quanh khu Đinh Tiên Hoàng hoặc Hàng Bài, lấy phi và khóa kỹ. Khách thuê xe nên hỏi trước về bãi và điểm chặn, để vòng qua khu hồ chỉ còn là phần đẹp của chuyến đi.

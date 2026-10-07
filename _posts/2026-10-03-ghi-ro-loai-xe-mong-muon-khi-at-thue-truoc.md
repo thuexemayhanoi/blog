@@ -32,7 +32,7 @@ Khi tiệm trả lời có xe phù hợp, bạn chốt lại bằng một tin du
 
 Ngoài dòng xe, ba chi tiết phụ đáng chốt luôn trong cùng tin: số mũ bảo hiểm kèm theo, ổ khóa xe có đi kèm không, và mức xăng khi nhận. Ba khoản nhỏ đó nếu không nói trước thì mỗi thứ một kiểu theo thói quen từng tiệm, và nói trước thì buổi nhận xe chỉ còn là bước xác nhận nhanh.
 
-Nếu bạn thuê cho người khác lái như bố mẹ hay người thân, hãy ghi rõ trong tin luôn: người lái là người nhà tôi, cao một mét sáu, quen xe số. Mô tả người lái giúp tiệm chọn xe phù hợp hơn cả mô tả xe, và nó cũng là phần văn bản quan trọng khi có câu hỏi về trách nhiệm sau này. Ai cần ôn lại toàn bộ các điều cần chốt khi đặt trước có thể đọc [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), nơi tóm tắt đủ các bước từ tin nhắn đầu tới lúc nhận chìa khóa. Trường hợp bạn muốn soát lại xem khi nhận xe và khi trả xe cần kiểm tra những gì thì bài về [kiểm tra khi nhận và trả xe](/blog/thue-xe/nhan-tra-xe/) liệt kê rõ từng mục, rất tiện đọc trước buổi lấy xe.
+Nếu bạn thuê cho người khác lái như bố mẹ hay người thân, hãy ghi rõ trong tin luôn: người lái là người nhà tôi, cao một mét sáu, quen xe số. Mô tả người lái giúp tiệm chọn xe phù hợp hơn cả mô tả xe, và nó cũng là phần văn bản quan trọng khi có câu hỏi về trách nhiệm sau này. Ai cần ôn lại toàn bộ các điều cần chốt khi đặt trước có thể đọc [thủ tục thuê xe](/thue-xe/thu-tuc/), nơi tóm tắt đủ các bước từ tin nhắn đầu tới lúc nhận chìa khóa. Trường hợp bạn muốn soát lại xem khi nhận xe và khi trả xe cần kiểm tra những gì thì bài về [kiểm tra khi nhận và trả xe](/thue-xe/nhan-tra-xe/) liệt kê rõ từng mục, rất tiện đọc trước buổi lấy xe.
 
 ## Khi xe nhận khác xe đã chốt
 
@@ -40,4 +40,4 @@ Nếu tới nơi xe khác mô tả: đừng từ chối ngay, hãy hỏi lý do.
 
 Trường hợp ngược lại, tiệm nâng cấp xe khác tốt hơn mà không tăng giá, cũng nên chốt lại bằng một tin: tôi nhận chiếc này thay, giá giữ nguyên như thỏa thuận. Câu ngắn đó giữ nguyên giá trị văn bản của mọi điều đã chốt trước đó, vì thay xe là thay một điều kiện của hợp đồng thuê.
 
-Trước hôm nhận xe, một tin xác nhận tối hôm trước giúp loại trừ quên lãng: mai bảy giờ tôi tới nhận, xe đã sẵn sàng chưa. Tin đó nghe nhỏ nhưng giúp bạn không phải đứng chờ, và giúp tiệm kiểm tra xe trước một buổi để mọi thứ đúng như tin chốt đã viết. Với người mới thuê lần đầu ở Hà Nội, tổng quan các bước đặt xe có thể xem tại [mục thuê xe máy](/blog/thue-xe/), nơi gom trọn quy trình để mỗi tin nhắn đặt trước đều đúng phần cần chốt nhất.
+Trước hôm nhận xe, một tin xác nhận tối hôm trước giúp loại trừ quên lãng: mai bảy giờ tôi tới nhận, xe đã sẵn sàng chưa. Tin đó nghe nhỏ nhưng giúp bạn không phải đứng chờ, và giúp tiệm kiểm tra xe trước một buổi để mọi thứ đúng như tin chốt đã viết. Với người mới thuê lần đầu ở Hà Nội, tổng quan các bước đặt xe có thể xem tại [mục thuê xe máy](/thue-xe/), nơi gom trọn quy trình để mỗi tin nhắn đặt trước đều đúng phần cần chốt nhất.

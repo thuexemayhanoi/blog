@@ -37,11 +37,11 @@ Cuối tuần tại đây khá nhộn vì hồ nhỏ, bãi cỏ có giới hạn
 
 ## Chuẩn bị xe cho chuyến ngắn
 
-Chuyến ngắn vẫn cần đủ ba thứ kiểm tra cơ bản: lốp căng đúng, phanh ăn, đèn sáng. Đoạn cuối đường thôn có ổ gà và cát mỏng, lốp non hơi dễ xé săm hơn bạn nghĩ. Người đi bằng xe máy thuê nên nhận xe lúc thử sẵn tay ga, và nói rõ với cửa hàng bạn chạy ra Quốc Oai trong ngày; phần chọn dòng xe hợp từng cung đường được tách trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), thông tin chung nằm ở trang [cho thuê xe máy](/blog/thue-xe/).
+Chuyến ngắn vẫn cần đủ ba thứ kiểm tra cơ bản: lốp căng đúng, phanh ăn, đèn sáng. Đoạn cuối đường thôn có ổ gà và cát mỏng, lốp non hơi dễ xé săm hơn bạn nghĩ. Người đi bằng xe máy thuê nên nhận xe lúc thử sẵn tay ga, và nói rõ với cửa hàng bạn chạy ra Quốc Oai trong ngày; phần chọn dòng xe hợp từng cung đường được tách trong bài [chọn loại xe](/xe-may/chon-loai-xe/), thông tin chung nằm ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ mang theo cho buổi picnic nên gọn nhẹ: áo gió, túi ni-lông đựng rác mang về, vài món ăn nhẹ, và nước. Bãi cỏ ven hồ đẹp nhưng hàng quán thưa, nên tự chuẩn bị trước phần ăn là chủ chốt. Cách xếp đồ gọn trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), bạn lướt một lượt trước khi xếp đồ.
+Đồ mang theo cho buổi picnic nên gọn nhẹ: áo gió, túi ni-lông đựng rác mang về, vài món ăn nhẹ, và nước. Bãi cỏ ven hồ đẹp nhưng hàng quán thưa, nên tự chuẩn bị trước phần ăn là chủ chốt. Cách xếp đồ gọn trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), bạn lướt một lượt trước khi xếp đồ.
 
-Giấy tờ vẫn nên mang đủ bản gốc dù cung đường ngắn, vì trục đại lộ có chốt kiểm tra định kỳ, và giấy phép lái xe cùng đăng ký xe là hai thứ được hỏi nhiều nhất. Các quy định liên quan khi chạy đường trường gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), đọc trước một lượt là vừa đủ.
+Giấy tờ vẫn nên mang đủ bản gốc dù cung đường ngắn, vì trục đại lộ có chốt kiểm tra định kỳ, và giấy phép lái xe cùng đăng ký xe là hai thứ được hỏi nhiều nhất. Các quy định liên quan khi chạy đường trường gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), đọc trước một lượt là vừa đủ.
 
 ## Những đoạn cần chậm lại
 
@@ -55,4 +55,4 @@ Một lỗi khác hay gặp là chủ quan vì đường gần. Cung một tiế
 
 Ven hồ Suối Tơ có bãi cỏ và bóng cây, hợp cho buổi sáng nhẹ nhàng: trải khăn, ăn nhẹ, chụp ảnh, rồi về trước trưa nắng. Trước chuyến đi nên xem dự báo thời tiết một lượt, vì buổi mưa bất chợt ở vùng ngoại thành làm lối xuống bãi trơn rất nhanh, và mây vùng này chiều về dày hơn nội đô. Nếu bạn mang theo đồ ăn, hãy tính sẵn túi đựng rác: bãi ven hồ sạch hay bẩn phụ thuộc nhiều vào thói quen của từng nhóm khách, giữ chỗ cho người đến sau là cách để vùng này còn đẹp cho chính lần quay lại của bạn. Ai muốn đi dài hơn có thể vòng qua các điểm thuộc Quốc Oai rồi về bằng trục khác, nhưng với đa số người, một buổi tại hồ là đủ.
 
-Nếu bạn đang tập nhịp cho các cung xa hơn, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có lộ trình đa dạng từ gần tới xa, và các vòng [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/) hợp để luyện tay lái trước khi xách xe ra ngoại thành. Cung đường Hà Nội đi Suối Tơ bằng xe máy ngắn, dễ và xanh mát, đáng để quay lại mỗi khi thủ đô bắt đầu hơi oi.
+Nếu bạn đang tập nhịp cho các cung xa hơn, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có lộ trình đa dạng từ gần tới xa, và các vòng [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/) hợp để luyện tay lái trước khi xách xe ra ngoại thành. Cung đường Hà Nội đi Suối Tơ bằng xe máy ngắn, dễ và xanh mát, đáng để quay lại mỗi khi thủ đô bắt đầu hơi oi.

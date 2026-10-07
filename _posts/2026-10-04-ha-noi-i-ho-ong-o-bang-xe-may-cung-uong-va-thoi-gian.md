@@ -46,6 +46,6 @@ Xe máy đi cung này nên kiểm tra trước: lốp đủ, phanh đều, đèn
 
 Đi nhóm chốt điểm đợi ở ngã rẽ chính, giữ đoàn một hàng trên đường thôn hẹp, không vượt nhau giữa làng. Khung về: sau bốn giờ chiều trục về nội đô dày nhanh, nhóm có trẻ nên ra về sớm, nhóm trẻ thì còn kịp ngắm hoàng hôn mép nước trước khi lên đường.
 
-Muốn tham các tuyến cuối tuần khác, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các cung; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung. Người mới thuê xe máy chạy cung lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn tham các tuyến cuối tuần khác, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các cung; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung. Người mới thuê xe máy chạy cung lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Một ngày hồ Đồng Đò: đường qua đồi, cỏ bờ nước, và gió chiều thổi về khi lên xe ra về. Gần, gọn, xanh — ba chữ đó giải thích vì sao hồ này luôn có mặt trong các kế hoạch cuối tuần của người Hà Nội.

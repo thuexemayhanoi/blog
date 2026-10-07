@@ -29,7 +29,7 @@ Tuyến chủ đạo là theo đại lộ Thăng Long hướng tây, qua vùng H
 
 ## Gửi xe và chuẩn bị hành lý
 
-Tại khu du lịch có bãi gửi xe rộng phục vụ khách trong ngày; khi gửi xe nhớ lấy vé, chụp lại vị trí đỗ, và cất giấy tờ quan trọng theo người thay vì để trên xe, vì bạn sẽ bộ suốt ngày trong khu. Đi nhóm nên gửi tập trung một bãi, chụp chung số vé để dễ tìm lại lúc chiều vội. Cách chuẩn bị chỗ đỗ xe và hành lý đi đường trường được gom trong bài [chỗ đỗ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), đọc trước một lượt trước các chuyến xa.
+Tại khu du lịch có bãi gửi xe rộng phục vụ khách trong ngày; khi gửi xe nhớ lấy vé, chụp lại vị trí đỗ, và cất giấy tờ quan trọng theo người thay vì để trên xe, vì bạn sẽ bộ suốt ngày trong khu. Đi nhóm nên gửi tập trung một bãi, chụp chung số vé để dễ tìm lại lúc chiều vội. Cách chuẩn bị chỗ đỗ xe và hành lý đi đường trường được gom trong bài [chỗ đỗ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/), đọc trước một lượt trước các chuyến xa.
 
 Hành lý cho ngày suối cần gọn: một chiếc balo nhỏ đựng áo mưa gấp, khăn, nước và đồ bơi khô nhanh nếu định xuống suối; bỏ giày tây, đi dép có quai bám hoặc giày bám đá vì đá suối trơn. Điện thoại và giấy tờ để trong túi chống nước, và mang theo một ít thuốc cá nhân cho nhóm nếu đi nhiều người. Ăn sáng no trước khi lên đường, vì các quầy ăn ven suối thưa hơn các điểm trong phố và giờ giữa trưa thường phải chờ khi đông khách; một gói bánh khô trong balo cũng cứu được cơn đói giữa buổi.
 
@@ -39,10 +39,10 @@ Bên trong, các điểm chính trải theo dòng suối: thác nhỏ, bậc nư
 
 Cũng nên dặn nhau trong nhóm trước vài quy tắc nhỏ: không tách nhóm lúc leo đoạn bậc thác, giữ trẻ luôn trong tầm mắt quanh vực nước chảy xiết, và đồng ý giờ tập trung tại bãi xe trước khi lên đường về. Nhóm đông nên chia cặp đi cùng để đỡ ai bị bỏ lại ở một đoạn nghỉ.
 
-Muốn ghép thêm lịch quanh vùng Ba Vì, thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/). Cũng có thể tranh thủ dừng chụp ảnh ở vài khúc đường đèo lên khu vào buổi sáng, khi nắng vừa lên sườn đồi — nhưng chỉ dừng ở lề rộng có chỗ đứng, không dừng trên khúc cong mù tầm nhìn.
+Muốn ghép thêm lịch quanh vùng Ba Vì, thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/). Cũng có thể tranh thủ dừng chụp ảnh ở vài khúc đường đèo lên khu vào buổi sáng, khi nắng vừa lên sườn đồi — nhưng chỉ dừng ở lề rộng có chỗ đứng, không dừng trên khúc cong mù tầm nhìn.
 
 ## Vài lưu ý trước khi lên đường
 
-Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì một ngày gần một trăm hai mươi cây số hai chiều là quãng đáng kể với xe máy, nhất là xe thuê. Tra trước thời tiết cả ngày đi lẫn về: mưa lớn làm suối đục và đường đèo trơn, còn ngày nắng to thì mang đủ nước. Nếu thuê xe máy tại Hà Nội cho chuyến này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì một ngày gần một trăm hai mươi cây số hai chiều là quãng đáng kể với xe máy, nhất là xe thuê. Tra trước thời tiết cả ngày đi lẫn về: mưa lớn làm suối đục và đường đèo trơn, còn ngày nắng to thì mang đủ nước. Nếu thuê xe máy tại Hà Nội cho chuyến này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
-Cuối cùng, hẹn giờ về rõ ràng trong nhóm, giữ điện thoại đủ pin cho bản đồ hai chiều, và đi đúng giờ đã hẹn để không phải chạy đoạn đường trường trong bóng tối. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các chuyến ngày càng xa quanh Hà Nội.
+Cuối cùng, hẹn giờ về rõ ràng trong nhóm, giữ điện thoại đủ pin cho bản đồ hai chiều, và đi đúng giờ đã hẹn để không phải chạy đoạn đường trường trong bóng tối. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các chuyến ngày càng xa quanh Hà Nội.

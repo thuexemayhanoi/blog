@@ -40,6 +40,6 @@ Câu hỏi phụ hay gặp: thi xong nhận bằng ở đâu và bao lâu thì c
 
 Nếu trượt phần thực hành ở lần đầu, đừng coi đó là kết luận về tay lái của bạn. Đa số người trượt vì một lỗi nhỏ lặp lại — ga không đều, chân chạm vạch, hoặc xuống xe quá sớm — và các lỗi đó đều chỉnh được sau vài buổi luyện thêm. Thuê xe luyện thêm một tuần, quay lại thi, và lần này bạn đã biết chính xác mình cần sửa gì.
 
-Vấn đề pháp lý khi lưu thông và chuẩn bị giấy tờ cho người thuê xe máy được tóm tắt trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/), các câu hỏi thường gặp về bằng lái xe máy cũng nằm gần đó, và phần chuẩn bị trước chuyến thuê tại [thuê xe máy](/blog/xe-may/); kinh nghiệm chọn xe số cho người mới tập lái nằm trong [chuyên mục xe máy](/blog/xe-may/).
+Vấn đề pháp lý khi lưu thông và chuẩn bị giấy tờ cho người thuê xe máy được tóm tắt trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/), các câu hỏi thường gặp về bằng lái xe máy cũng nằm gần đó, và phần chuẩn bị trước chuyến thuê tại [thuê xe máy](/xe-may/); kinh nghiệm chọn xe số cho người mới tập lái nằm trong [chuyên mục xe máy](/xe-may/).
 
 Thông tin về quy trình sát hạch và quy định bằng lái có thể thay đổi theo từng thời kỳ; trước khi đăng ký, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

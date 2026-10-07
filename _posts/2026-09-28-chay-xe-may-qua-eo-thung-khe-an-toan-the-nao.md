@@ -33,7 +33,7 @@ Kỹ thuật chạy đèo an toàn trên Thung Khe tóm lại trong bốn nguyê
 
 Thứ tư, không vượt trên đèo dù đường thoáng vài chục mét, vì đèo có nhiều cua mù và phần đường nhìn thấy không đủ cho một cú vượt an toàn.
 
-Các nguyên tắc về đường ướt, cát đá và thời tiết xấu nói kỹ hơn ở trang [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/).
+Các nguyên tắc về đường ướt, cát đá và thời tiết xấu nói kỹ hơn ở trang [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/).
 
 ## Xử lý sương mù và mưa rào trên đèo
 
@@ -45,7 +45,7 @@ Một lỗi hay gặp nữa là lấy tốc độ của nhóm đi trước làm 
 
 ## Dừng nghỉ và ngắm cảnh ở đúng chỗ
 
-Trên đèo có vài chỗ lề rộng nhìn xuống thung lũng Mai Châu, và đó là chỗ duy nhất nên dừng: lề trải, thẳng, nhìn thấu hai phía, xe để sát mép trong không chắn làn đường. Ngược lại, khách không dừng ngay khúc cua, ngay đầu dốc hoặc trên phần đường hẹp không lề, dù cảnh đẹp: xe tải xuống đèo ít khi kịp tránh một xe đỗ ngay sau khúc cua mù. Khi dừng chụp ảnh, khách tắt máy, kéo chắc chân chống, không lùi ra giữa làn để chụp toàn cảnh. Điểm nghỉ hợp lý hơn cho nhóm đông là quán nước ở chân đèo hoặc các quán ngay đoạn bằng sau đỉnh, nơi có chỗ đậu rộng. Cách sắp điểm nghỉ cho cả cung Hà Nội Mai Châu được nói trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/blog/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/).
+Trên đèo có vài chỗ lề rộng nhìn xuống thung lũng Mai Châu, và đó là chỗ duy nhất nên dừng: lề trải, thẳng, nhìn thấu hai phía, xe để sát mép trong không chắn làn đường. Ngược lại, khách không dừng ngay khúc cua, ngay đầu dốc hoặc trên phần đường hẹp không lề, dù cảnh đẹp: xe tải xuống đèo ít khi kịp tránh một xe đỗ ngay sau khúc cua mù. Khi dừng chụp ảnh, khách tắt máy, kéo chắc chân chống, không lùi ra giữa làn để chụp toàn cảnh. Điểm nghỉ hợp lý hơn cho nhóm đông là quán nước ở chân đèo hoặc các quán ngay đoạn bằng sau đỉnh, nơi có chỗ đậu rộng. Cách sắp điểm nghỉ cho cả cung Hà Nội Mai Châu được nói trong bài [cung Hà Nội Mai Châu qua cao tốc Hòa Bình](/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/).
 
-Khách cần thuê xe máy chắc chắn cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin điểm đến và lịch trình quanh vùng gom ở trang [Mai Châu](/blog/cung-duong/mai-chau/) và trang chủ đề [cung đường & hành trình](/blog/cung-duong/).
+Khách cần thuê xe máy chắc chắn cho cung này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin điểm đến và lịch trình quanh vùng gom ở trang [Mai Châu](/cung-duong/mai-chau/) và trang chủ đề [cung đường & hành trình](/cung-duong/).
 

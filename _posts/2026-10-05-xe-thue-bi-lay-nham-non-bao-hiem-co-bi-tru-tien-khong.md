@@ -42,4 +42,4 @@ Câu hỏi phụ: mũ bị rơi và xước nhẹ có bị tính không? Khác v
 
 Nếu mũ đã mất thật, đừng im lặng đến tận quầy trả xe — báo trước qua tin nhắn cho cửa hàng, hỏi mức tính, và mang mũ đền nếu kịp mua. Báo trước có ba lợi: cửa hàng kịp chuẩn bị mũ cho khách sau, bạn có câu trả lời về mức trước khi tới quầy, và thái độ chủ động luôn được đối xử nhẹ nhàng hơn. Tại quầy, ghi rõ vào phiếu trả: mũ đã mất, mức đã trừ hoặc đã đền, và chữ ký hai bên. Một dòng ghi chép đúng lúc đúng chỗ ngăn mọi tranh luận kéo dài về sau.
 
-Các tình huống sự cố khác khi thuê xe được gom trong trang [hỏi đáp sự cố](/blog/hoi-dap/hoi-dap-su-co/), phần chọn mũ bảo hiểm và an toàn khi đi xe trong trang [hỏi đáp chọn xe](/blog/hoi-dap/hoi-dap-chon-xe/), và tổng quan các câu hỏi về thuê xe máy tại [hỏi đáp](/blog/hoi-dap/).
+Các tình huống sự cố khác khi thuê xe được gom trong trang [hỏi đáp sự cố](/hoi-dap/hoi-dap-su-co/), phần chọn mũ bảo hiểm và an toàn khi đi xe trong trang [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/), và tổng quan các câu hỏi về thuê xe máy tại [hỏi đáp](/hoi-dap/).

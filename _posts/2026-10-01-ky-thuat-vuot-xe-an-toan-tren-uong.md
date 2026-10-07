@@ -41,9 +41,9 @@ Một dấu hiệu nên thuộc: nếu xe phía trước chậm lại không rõ
 
 Luyện vượt nên bắt đầu trên đường vắng: tập toàn bộ chuỗi nhìn gương, ra hiệu, nghiêng, ga, trở về, tới mức thao tác thành phản xạ nhẹ. Sau đó mới đưa lên đường đông, nơi phần quan trọng nhất là kiềm chế: chấp nhận đi sau xe chậm hai ba phút còn hơn thử vận may một lần. Thói quen kiểm tra gương mỗi vài giây, kể cả khi không định vượt, là nền của mọi thao tác đổi làn an toàn.
 
-Cách giữ tư thế trên yên cũng giúp phần vượt: ngồi thẳng lỏng vai, khuỷu tay không khóa cứng, mắt nhìn xa chứ không dán vào bánh xe trước. Tư thế tốt cho bạn phản ứng nhanh, phản ứng nhanh cho bạn ít phải phanh gấp, và ít phanh gấp nghĩa là ít rủi ro trượt bánh. Nhóm bài về khoảng cách đi sau và phanh kịp thời nằm trong bài [giữ khoảng cách an toàn](/blog/ky-nang/ky-nang-lai-co-ban/), bạn nên ghép đọc để có trọn bộ nếp lái cơ bản.
+Cách giữ tư thế trên yên cũng giúp phần vượt: ngồi thẳng lỏng vai, khuỷu tay không khóa cứng, mắt nhìn xa chứ không dán vào bánh xe trước. Tư thế tốt cho bạn phản ứng nhanh, phản ứng nhanh cho bạn ít phải phanh gấp, và ít phanh gấp nghĩa là ít rủi ro trượt bánh. Nhóm bài về khoảng cách đi sau và phanh kịp thời nằm trong bài [giữ khoảng cách an toàn](/ky-nang/ky-nang-lai-co-ban/), bạn nên ghép đọc để có trọn bộ nếp lái cơ bản.
 
-Người mới đi xe máy thuê nên hỏi cửa hàng thử xe ở đoạn vắng, làm quen độ nhạy ga và phanh trước khi hòa vào đường đông; phần chọn loại xe hợp trình độ nằm trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), và thông tin dịch vụ ở trang [cho thuê xe máy](/blog/thue-xe/). Giấy tờ bản gốc luôn mang theo, vì vượt sai quy định thuộc nhóm lỗi bị xử lý trên đường, các quy định liên quan gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Người mới đi xe máy thuê nên hỏi cửa hàng thử xe ở đoạn vắng, làm quen độ nhạy ga và phanh trước khi hòa vào đường đông; phần chọn loại xe hợp trình độ nằm trong bài [chọn loại xe](/xe-may/chon-loai-xe/), và thông tin dịch vụ ở trang [cho thuê xe máy](/thue-xe/). Giấy tờ bản gốc luôn mang theo, vì vượt sai quy định thuộc nhóm lỗi bị xử lý trên đường, các quy định liên quan gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
 ## Tóm lại các nguyên tắc
 

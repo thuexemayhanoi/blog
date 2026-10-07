@@ -25,7 +25,7 @@ Mỗi đoạn đê có tính cách riêng. Đoạn gần nội đô thường đ
 
 Đỉnh đê phần lớn được rải bê tông hoặc asphalt mỏng, rộng chừng một làn xe mỗi chiều, hai bên là taluy cỏ và hố đất dẫn xuống bãi. Điểm cần nhớ nhất: đường đê hẹp và không có vạch phân làn ở nhiều đoạn, khách chạy lệch phải theo thói quen, bấm còi từ xa khi qua khúc bị che khuất bởi khóm cây, và tuyệt đối không dừng xe giữa làn để chụp ảnh.
 
-Gặp buổi sáng cuối tuần, dòng người đi bộ, chạy bộ và đạp xe trên một số đoạn gần khu đông dân, khách giảm tốc gần mức đi chậm và giữ khoảng cách. Mùa gặt, thỉnh thoảng có xe chở rau hoặc cỏ khô men theo đê, các tải này rộng và chậm, khách không ép vượt ở đoạn hẹp mà chờ đoạn đường quanh dân cư nới rộng. Khách muốn tham khảo thêm cách chạy đường huyện vắng có thể đọc [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
+Gặp buổi sáng cuối tuần, dòng người đi bộ, chạy bộ và đạp xe trên một số đoạn gần khu đông dân, khách giảm tốc gần mức đi chậm và giữ khoảng cách. Mùa gặt, thỉnh thoảng có xe chở rau hoặc cỏ khô men theo đê, các tải này rộng và chậm, khách không ép vượt ở đoạn hẹp mà chờ đoạn đường quanh dân cư nới rộng. Khách muốn tham khảo thêm cách chạy đường huyện vắng có thể đọc [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/).
 
 Một nguyên tắc nhỏ mà đáng giá trên đê: khách nhìn đường phía trước xa hơn thói quen ở phố, vì trên đê không có góc nhà che, tầm nhìn thoáng nhưng tốc độ dễ vô tình tăng lên. Vào khúc qua cụm dân cư chân đê, gà và chó thả rông có lúc băng qua, khách buông ga từ xa thay vì bấm còi lúc đã gần, cách ứng xử này tránh được phần lớn tình huống gấp. Nếu chạy theo nhóm, cả đoàn giữ hàng dọc và đổi vị trí dẫn đoàn sau mỗi chặng nghỉ cho đều sức.
 
@@ -33,13 +33,13 @@ Một nguyên tắc nhỏ mà đáng giá trên đê: khách nhìn đường ph�
 
 Dọc tuyến, các bãi bồi biến đổi theo mùa: sau lũ, bãi cỏ mới mọc xanh mướt, kéo theo nhóm khách chụp ảnh; mùa gặt, thửa rau và màu vàng rơm lên ảnh rất đậm chất đồng quê. Khách dừng ở các điểm có đường mòn dẫn xuống bãi, để xe trên đỉnh đê nơi có bóng cây, nhìn thấy từ chỗ dừng, rồi bộ hành xuống bãi cỏ.
 
-Một kiểu dừng nữa là các quán nước nhà dân ven chân đê, khách uống nước, ăn đồ nướng theo mùa và hỏi chuyện đi đường của người địa phương; đây cũng là chỗ dự phòng khi trời đổ mưa bất chợt. Ai muốn ghép ven sông phía bắc vào lịch dài hơn thì bài [khám phá Gia Lâm và ven sông Hồng bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/) có sẵn cách đi, và trang [ngoại thành Hà Nội](/blog/du-lich/ngoai-thanh/) gom các hướng ngoại thành cho khách đối chiếu.
+Một kiểu dừng nữa là các quán nước nhà dân ven chân đê, khách uống nước, ăn đồ nướng theo mùa và hỏi chuyện đi đường của người địa phương; đây cũng là chỗ dự phòng khi trời đổ mưa bất chợt. Ai muốn ghép ven sông phía bắc vào lịch dài hơn thì bài [khám phá Gia Lâm và ven sông Hồng bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/) có sẵn cách đi, và trang [ngoại thành Hà Nội](/du-lich/ngoai-thanh/) gom các hướng ngoại thành cho khách đối chiếu.
 
 ## Khung giờ và gửi xe dọc tuyến
 
 Khung đẹp nhất trên đê là sáng sớm khi sương còn giăng mặt sông, và khung chạng vạng chiều khi nắng đổ ngang làm màu bãi vàng lên rõ. Giữa trưa, phần đỉnh đê trống không bóng che, nắng gắt và bụi, khách nên tranh thủ nghỉ ở quán ven đường thay vì chạy tiếp. Tối về, các đoạn đê vắng không đèn, khách không chạy đê lúc tối nếu không quen từng đoạn.
 
-Về gửi xe: trên đê không có bãi giữ, khách để xe ở nhà dân ven chân đê hoặc quán nước, hỏi xin giữ một lát và dùng nước ở quán cho hợp lý. Khi để xe dưới chân đê, khách nhớ chụp biển số và vị trí, mang theo đồ giá trị trên người, cốp để lại chỉ nên là đồ rẻ. Cách xếp chuyến dài kết hợp nhiều khu tham khảo ở bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/).
+Về gửi xe: trên đê không có bãi giữ, khách để xe ở nhà dân ven chân đê hoặc quán nước, hỏi xin giữ một lát và dùng nước ở quán cho hợp lý. Khi để xe dưới chân đê, khách nhớ chụp biển số và vị trí, mang theo đồ giá trị trên người, cốp để lại chỉ nên là đồ rẻ. Cách xếp chuyến dài kết hợp nhiều khu tham khảo ở bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/).
 
 Trước mỗi lần dừng xuống bãi, khách quan sát nền đất nơi sẽ đỗ: sau mưa, mép taluy mềm và dễ lún bánh, vị trí đỗ cách mép một thân xe là an toàn hơn cả. Khách cũng nên nhớ lại điểm lên đê gần nhất phòng khi cần quay xe, vì đê chạy dài và một số khúc chỉ có đường xuống sau quãng đáng kể.
 
@@ -47,4 +47,4 @@ Trước mỗi lần dừng xuống bãi, khách quan sát nền đất nơi s�
 
 Cung đê sông Hồng hợp khách muốn một chuyến chạy ngắn, chi phí gần như bằng không, cảnh quan lại đậm chất Bắc Bộ: sông, bãi bồi, đồng ruộng và gió thoáng. Khách chọn đúng đoạn lên đê, giữ quy tắc nhường người đi bộ và không chạy tối thì cung này an toàn gần như mọi trình độ.
 
-Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm tại trang chủ đề [du lịch Hà Nội](/blog/du-lich/).
+Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Tham khảo thêm tại trang chủ đề [du lịch Hà Nội](/du-lich/).

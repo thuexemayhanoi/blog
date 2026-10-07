@@ -41,4 +41,4 @@ Lưu ý quan trọng nhất: khu phố cổ là không gian của người đi b
 
 ## Tóm lại trước khi thuê xe đạp điện Hà Nội dạo phố cổ
 
-Thuê xe đạp điện đi quanh phố cổ và hồ Gươm là cách tận hưởng trung tâm Hà Nội thong thả nhất: nhận xe trong giờ mở cửa 09:00 đến 21:00, hỏi rõ cọc và mức pin, đi chậm nhường người bộ hành, và dựng xe đúng khu quy định. Để chuẩn bị kỹ hơn cho chuyến đi, bạn tìm hiểu thêm chủ đề [phố cổ](/blog/du-lich/pho-co/), xem chi tiết về dòng [xe đạp điện](/blog/xe-may/xe-dap-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) trước khi lên lịch trình cho chuyến dạo phố của mình ở Hà Nội.
+Thuê xe đạp điện đi quanh phố cổ và hồ Gươm là cách tận hưởng trung tâm Hà Nội thong thả nhất: nhận xe trong giờ mở cửa 09:00 đến 21:00, hỏi rõ cọc và mức pin, đi chậm nhường người bộ hành, và dựng xe đúng khu quy định. Để chuẩn bị kỹ hơn cho chuyến đi, bạn tìm hiểu thêm chủ đề [phố cổ](/du-lich/pho-co/), xem chi tiết về dòng [xe đạp điện](/xe-may/xe-dap-dien/), hoặc đọc tổng quan trong chủ đề [dòng xe máy](/xe-may/) trước khi lên lịch trình cho chuyến dạo phố của mình ở Hà Nội.

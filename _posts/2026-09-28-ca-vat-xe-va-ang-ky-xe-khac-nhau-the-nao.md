@@ -51,7 +51,7 @@ Chu kỳ kiểm định cụ thể cho từng nhóm xe máy do văn bản của 
 
 Với người đi xe máy thuê ở Hà Nội, bộ giấy tờ đi kèm xe thường do cửa hàng chuẩn bị: bản sao chứng nhận đăng ký kèm thông tin liên hệ của chủ xe, tem kiểm định còn hiệu lực trên thân xe. Trước khi nhận xe, hãy xem nhanh tem kiểm định còn hạn chưa, đối chiếu biển số trên bản đăng ký với biển số thực tế của xe, và hỏi cửa hàng xem khi bị dừng kiểm tra cần xuất trình những gì. Nếu phát hiện tem gần hết hạn hoặc bản đăng ký không khớp thông tin, nên trao đổi ngay với cửa hàng trước khi chạy xe.
 
-Thói quen nhỏ này giúp bạn tránh rắc rối pháp lý giữa chừng kỳ thuê. Các loại giấy tờ cần mang theo khi đến cửa hàng thuê xe được tóm tắt trong bài [giấy tờ thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/), còn các chủ đề giấy tờ nằm trong trang [giấy tờ xe và cá nhân](/blog/an-toan-phap-ly/giay-to/), quy trình nhận xe trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), kiến thức luật giao thông gộp trong trang [an toàn pháp lý](/blog/an-toan-phap-ly/).
+Thói quen nhỏ này giúp bạn tránh rắc rối pháp lý giữa chừng kỳ thuê. Các loại giấy tờ cần mang theo khi đến cửa hàng thuê xe được tóm tắt trong bài [giấy tờ thuê xe máy ở Hà Nội](/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/), còn các chủ đề giấy tờ nằm trong trang [giấy tờ xe và cá nhân](/an-toan-phap-ly/giay-to/), quy trình nhận xe trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), kiến thức luật giao thông gộp trong trang [an toàn pháp lý](/an-toan-phap-ly/).
 
 ## Kết luận về cà vạt và đăng ký xe
 

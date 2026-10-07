@@ -44,6 +44,6 @@ Với người thuê xe máy lần đầu, đê Ngọc Thụy là bài chạy lu
 
 Ghép chuẩn cho buổi sớm: chạy đê trước, sau đó xuống đê ghé chợ Ngọc Thụy hoặc các hàng phở ven đường khu Long Biên cho bữa sáng muộn, rồi về nhà đúng lúc phố vừa dậy. Cách xếp này giúp bạn tận dụng khung gió mát nhất, ăn sáng vùng ven với giá dễ chịu, và về trước khi dòng xe nội đô bắt đầu dày.
 
-Muốn đọc thêm về chạy quanh Long Biên hoặc các điểm khác, chuyên mục [Long Biên](/blog/du-lich/long-bien/) gom lộ trình riêng của quận, còn mục [điểm đến Hà Nội](/blog/du-lich/diem-den/) gom nhiều lộ trình của thành phố. Các lưu ý gửi xe ven đường nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/blog/du-lich/) là mục lục chung. Ai mới thuê xe máy lần đầu nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) trước buổi chạy đầu tiên.
+Muốn đọc thêm về chạy quanh Long Biên hoặc các điểm khác, chuyên mục [Long Biên](/du-lich/long-bien/) gom lộ trình riêng của quận, còn mục [điểm đến Hà Nội](/du-lich/diem-den/) gom nhiều lộ trình của thành phố. Các lưu ý gửi xe ven đường nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/du-lich/) là mục lục chung. Ai mới thuê xe máy lần đầu nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) trước buổi chạy đầu tiên.
 
 Buổi sớm trên đê: gió sông, sương đồng, và một quãng xe thoáng đãng trước khi phố kịp thức. Chạy Ngọc Thụy một buổi, bạn sẽ hiểu vì sao dân Long Biên hay bảo nhau rằng sáng sớm nhất định phải lên đê.

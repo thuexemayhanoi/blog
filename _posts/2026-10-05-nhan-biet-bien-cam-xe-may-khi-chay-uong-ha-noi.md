@@ -16,7 +16,7 @@ writer: W1
 
 Người mới chạy trong nội thành thường va vào biển cấm trước khi kịp va vào bất cứ rủi ro nào khác, và việc nhận biết biển cấm xe máy trên đường Hà Nội vì thế là kỹ năng nền tảng, đáng luyện trước cả kỹ năng đổ đường. Thủ đô có mật độ tuyến một chiều, đoạn cấm rẽ và khu vực giới hạn giờ cao hơn hẳn các thành phố nhỏ, nên một khách thuê xe đi từ ngoại ô vào trung tâm gần như chắc chắn gặp ít nhất một biển mà nếu không để ý sẽ đi sai ngay. Bài này tóm nhóm biển cần thuộc, cách đọc nhanh, và thói quen giữ bạn khỏi rẽ nhầm.
 
-Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), chuyên sâu về biển báo trong phần [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/), quy định giao thông chung trong phần [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), chuyên sâu về biển báo trong phần [biển báo giao thông](/an-toan-phap-ly/bien-bao/), quy định giao thông chung trong phần [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Nhóm biển cấm xe máy hay gặp trên đường Hà Nội
 

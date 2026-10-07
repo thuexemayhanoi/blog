@@ -43,7 +43,7 @@ Lưu ý về khoản bảo đảm: mất chìa không làm mất khoản bảo �
 
 Khác với đánh rơi, nếu bạn thấy rõ chìa bị lấy cùng với túi, ví, hoặc xe có dấu hiệu bị người khác dời, hãy báo người phụ trách an ninh tại chỗ hoặc cơ quan công an gần nhất. Ghi lại thời gian, vị trí và hướng diễn biến để trình bày khi cần. Với trường hợp này, không chỉ là thay một bộ chìa: cửa hàng cần biết sớm để cân nhắc đổi ổ khóa cho xe, và bạn cần văn bản báo sự việc để làm căn cứ cho hợp đồng thuê.
 
-Các tình huống sự cố khác khi dùng xe thuê được gom trong mục [hỏi đáp sự cố](/blog/hoi-dap/hoi-dap-su-co/), còn trình tự nhận xe và những gì cần ghi vào hợp đồng nằm trong bài về [thủ tục thuê xe](/blog/thue-xe/thu-tuc/). Trang chủ đề [hỏi đáp thuê xe máy](/blog/hoi-dap/) dẫn sang các nhóm hỏi về giá, giấy tờ và chọn xe nếu bạn cần xem rộng hơn.
+Các tình huống sự cố khác khi dùng xe thuê được gom trong mục [hỏi đáp sự cố](/hoi-dap/hoi-dap-su-co/), còn trình tự nhận xe và những gì cần ghi vào hợp đồng nằm trong bài về [thủ tục thuê xe](/thue-xe/thu-tuc/). Trang chủ đề [hỏi đáp thuê xe máy](/hoi-dap/) dẫn sang các nhóm hỏi về giá, giấy tờ và chọn xe nếu bạn cần xem rộng hơn.
 
 ## Phòng tránh cho lần thuê sau
 

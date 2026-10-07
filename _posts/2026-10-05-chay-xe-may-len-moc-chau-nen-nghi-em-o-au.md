@@ -16,7 +16,7 @@ writer: W1
 
 Cung Mộc Châu dài vừa đủ một ngày chạy, nên gần như mọi lịch trình đều dừng lại một đêm, và câu hỏi chạy xe máy lên Mộc Châu nghỉ đêm ở đâu quyết định hình dạng của chuyến đi: ngủ thị trấn để tiện ăn uống, ngủ nông trại để chạm vào cao nguyên, hay ngủ bản để có bữa tối bên bếp lửa. Ba lựa chọn đều đáng giá theo cách riêng, và bài này so từng loại, kèm kinh nghiệm đặt chỗ và giữ xe an toàn qua đêm cho khách đi bằng xe máy thuê.
 
-Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/blog/cung-duong/), gợi ý riêng cho tuyến này trong phần [Mộc Châu](/blog/cung-duong/moc-chau/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [cung đường và hành trình](/cung-duong/), gợi ý riêng cho tuyến này trong phần [Mộc Châu](/cung-duong/moc-chau/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Ba kiểu nghỉ đêm Mộc Châu
 

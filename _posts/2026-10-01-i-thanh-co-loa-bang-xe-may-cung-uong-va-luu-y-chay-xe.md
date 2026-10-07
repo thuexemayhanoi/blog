@@ -35,14 +35,14 @@ Trước buổi đi, đáng đọc đôi dòng về chuyện nỏ thần và tru
 
 Bên trong cụm, điểm chính là đền thờ An Dương Vương trên gò cao giữa vòng thành, cùng am thờ Mỵ Châu và các đoạn tường đất còn nguyên hình cung khối. Bộ ba vòng thành cổ gép quanh làng: chạy xe nối các đoạn được, nhưng nhớ gửi xe ở các bãi giữ xe trước cổng đền thay vì đỗ lẻ tẻ ven đường làng, vì đường hẹp và ngày đông khách không còn chỗ.
 
-Khi gửi xe, nhớ lấy vé và cất giấy tờ theo người; cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê. Giữa hai điểm bộ, men theo hồ trung tâm lấy mát: mặt nước soi bóng tre làng, khung này đáng dừng máy chụp ảnh.
+Khi gửi xe, nhớ lấy vé và cất giấy tờ theo người; cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê. Giữa hai điểm bộ, men theo hồ trung tâm lấy mát: mặt nước soi bóng tre làng, khung này đáng dừng máy chụp ảnh.
 
 ## Vài lưu ý trước khi lên đường
 
 Đoạn đường trường ra Cổ Loa có lúc vắng trạm xá liền kề, nên kiểm tra đủ xăng từ phố trước khi lên đường, cùng lốp, thắng, đèn và gương. Đường vùng có nhiều xe tải chở hàng và xe ba bánh chậm, nên kiên nhẫn vượt ở đoạn thẳng rộng, tuyệt đối không vượt ở ngã tư và khúc cong. Về chiều, gió đồng về nhanh và trời sẫm sớm hơn trong phố, tính giờ quay lại để không chạy đoạn quốc lộ trong bóng tối nếu bạn chưa quen.
 
-Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/). Trước khi khởi hành, xem dự báo mưa: đường đất vùng đồng trơn rất nhanh, và mang theo áo mưa gấp lẫn khăn che bụi quãng quốc lộ.
+Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/). Trước khi khởi hành, xem dự báo mưa: đường đất vùng đồng trơn rất nhanh, và mang theo áo mưa gấp lẫn khăn che bụi quãng quốc lộ.
 
 Nếu đi nhóm đông, hẹn nhau tập trung ở một điểm đỗ chung gần cổng đền thay vì mỗi xe một chỗ, dễ kiểm tra đủ người trước mỗi chặng tiếp theo. Nước uống nên mang theo từ phố, vì quầy dọc đường vùng thưa hơn trong nội thành, và một tờ bản đồ giấy dự phòng cũng hữu ích khi điện thoại yếu pin ở vùng đồng.
 
-Cuối cùng, giữ khoảng cách với đoàn xe địa phương, nhường người đi bộ và học sinh quanh các lối vào làng, và hẹn điểm chờ rõ ràng nếu đi nhóm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), còn thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/).
+Cuối cùng, giữ khoảng cách với đoàn xe địa phương, nhường người đi bộ và học sinh quanh các lối vào làng, và hẹn điểm chờ rõ ràng nếu đi nhóm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), còn thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).

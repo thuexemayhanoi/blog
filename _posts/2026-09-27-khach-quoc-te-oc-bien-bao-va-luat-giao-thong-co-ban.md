@@ -15,7 +15,7 @@ article_id: BLG-00536
 
 Một khách du lịch từng chia sẻ rằng điều gây sợ nhất khi lái xe máy ở Hà Nội không phải đông xe, mà là không hiểu dòng xe đang chảy theo quy luật nào. Thực tế là luật giao thông cho khách quốc tế không phức tạp như cảm giác ban đầu: phần lớn luồng di chuyển tuân theo vài quy tắc cố định, và biển báo thì chia thành nhóm dễ nhận diện. Nếu bạn nắm được các nhóm đó trước khi cầm lái, việc hòa vào dòng xe Hà Nội sẽ nhẹ nhàng hơn nhiều.
 
-Trước khi vào nội dung, nếu bạn chưa xem qua yêu cầu chung khi thuê xe, hãy đọc chuyên mục [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/blog/thue-xe/).
+Trước khi vào nội dung, nếu bạn chưa xem qua yêu cầu chung khi thuê xe, hãy đọc chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/thue-xe/).
 
 ## Nhóm biển báo người nước ngoài cần nhận ra trước tiên
 
@@ -35,7 +35,7 @@ Tại nơi giao nhau không có đèn, phương tiện đến trước có quy�
 
 Đèn tín hiệu thì gần như chuẩn quốc tế: đỏ dừng, xanh đi, vàng sắp đổi. Điểm riêng là ở nhiều ngã tư lớn, xe máy được tách hàng riêng chờ đèn ở vạch trước ô tô, nên khi đèn xanh, dòng xe máy khởi động trước. Bạn đừng vội rượt theo, giữ tốc độ đều là an toàn hơn cả.
 
-Muốn hệ thống lại toàn bộ nhóm quy tắc, bạn có thể đọc tổng quan tại trang [biển báo giao thông](/blog/an-toan-phap-ly/bien-bao/) và [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) của chuyên mục an toàn pháp lý.
+Muốn hệ thống lại toàn bộ nhóm quy tắc, bạn có thể đọc tổng quan tại trang [biển báo giao thông](/an-toan-phap-ly/bien-bao/) và [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) của chuyên mục an toàn pháp lý.
 
 ## Lộ trình học luật giao thông cho khách quốc tế trong ba ngày đầu
 
@@ -49,7 +49,7 @@ Ngày ba, bạn đã đủ tự tin để ghép các cung đường có nút gia
 
 Ba thói quen nhỏ tạo khác biệt lớn. Một là giữ khoảng cách với xe buýt khi chúng áp sát lề để đón khách, vì buýt luôn ưu tiên rà vào điểm dừng. Hai là không bấm còi liên tục như một số tài xế bản địa, mà dùng còi đúng lúc cần báo hiệu. Ba là giảm tốc về mức đi bộ khi qua chợ, cổng trường hay hẻm đông người, nơi người đi bộ thường cắt ngang.
 
-Ngoài ra hãy tranh thủ tập dượt trên đường ít xe trước khi qua cầu hoặc vào khu đông. Cách chuẩn bị cho chuyến đi bằng xe máy, kể cả việc kiểm tra xe trước mỗi chuyến, được mô tả trong bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Quy tắc hiện hành có thể được sửa đổi theo thời gian, nên bạn cũng nên đối chiếu văn bản mới nhất trước chuyến đi dài.
+Ngoài ra hãy tranh thủ tập dượt trên đường ít xe trước khi qua cầu hoặc vào khu đông. Cách chuẩn bị cho chuyến đi bằng xe máy, kể cả việc kiểm tra xe trước mỗi chuyến, được mô tả trong bài [kiểm tra xe trước mỗi chuyến đi](/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Quy tắc hiện hành có thể được sửa đổi theo thời gian, nên bạn cũng nên đối chiếu văn bản mới nhất trước chuyến đi dài.
 
 ## Tóm tắt cho người mới lái xe ở Hà Nội
 

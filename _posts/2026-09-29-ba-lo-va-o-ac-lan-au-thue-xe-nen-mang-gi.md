@@ -35,7 +35,7 @@ Nhóm này không cần đắt tiền, chỉ cần đúng lúc. Cửa hàng cho 
 
 Không phải balô nào cũng hợp khi lên xe. Chuẩn mực thực tế là balô hai quai, đeo chặt hai vai, có dây siết ngang ngực để balô không vắt vẹo khi vào cua hoặc phanh gấp. Túi xách đeo một bên vai là kiểu nên tránh: nó hay tuột, khiến bạn phải chỉnh liên tục, và khi rơi khỏi vai sẽ vướng vào tay lái.
 
-Về dung tích, balô cỡ nhỏ đến trung bình đủ cho chuyến một ngày, còn hành lý cồng kềnh nên chia cốp xe hoặc buộc thêm. Nguyên tắc là giữ phần vai thoáng và không để đồ đè lên lưng quá nặng, vì chạy lâu lưng đè nặng sẽ mỏi nhanh hơn bạn tưởng. Cách xếp đồ lên xe, cốp xe và các quy tắc chở hành lý an toàn đã được gói gọn trong trang [kỹ năng chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/), bạn nên đọc trước khi lên lịch trình nhiều chặng.
+Về dung tích, balô cỡ nhỏ đến trung bình đủ cho chuyến một ngày, còn hành lý cồng kềnh nên chia cốp xe hoặc buộc thêm. Nguyên tắc là giữ phần vai thoáng và không để đồ đè lên lưng quá nặng, vì chạy lâu lưng đè nặng sẽ mỏi nhanh hơn bạn tưởng. Cách xếp đồ lên xe, cốp xe và các quy tắc chở hành lý an toàn đã được gói gọn trong trang [kỹ năng chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/), bạn nên đọc trước khi lên lịch trình nhiều chặng.
 
 Một chi tiết nhỏ đáng đầu tư là áo mưa dạng bộ hai mảnh có quần, loại này gói gọn và không bị hất lên khi chạy nhanh, so với áo choàng một mảnh dễ bốc khi có gió ngang. Cặp giày có mũ che mũi giày cũng bảo vệ chân tốt hơn hẳn dép lê khi phải phanh gấp hoặc dừng chân giữa mưa.
 
@@ -53,6 +53,6 @@ Cũng nên hạn chế mang tài sản lớn khi đi xe máy cho thuê lần đ�
 
 ## Danh sách kiểm tra trước khi xếp balô
 
-Trước khi kéo khóa, rà lại theo bốn nhóm: giấy tờ đã đầy đủ, đồ bảo vệ đã vừa dùng, balô đã đúng kiểu, tiện ích đã nằm trong túi nhỏ. Nếu chuyến đi của bạn dài hơn một ngày, danh sách đồ cần mang cho chuyến đi bằng xe máy đã được tổng kết chi tiết trong bài về [danh sách đồ cho chuyến đi một ngày bằng xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/), bạn có thể đối chiếu thêm.
+Trước khi kéo khóa, rà lại theo bốn nhóm: giấy tờ đã đầy đủ, đồ bảo vệ đã vừa dùng, balô đã đúng kiểu, tiện ích đã nằm trong túi nhỏ. Nếu chuyến đi của bạn dài hơn một ngày, danh sách đồ cần mang cho chuyến đi bằng xe máy đã được tổng kết chi tiết trong bài về [danh sách đồ cho chuyến đi một ngày bằng xe máy](/chia%20s%E1%BA%BB/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/), bạn có thể đối chiếu thêm.
 
-Các thắc mắc về thủ tục, giấy tờ khi thuê lần đầu nằm trong trang [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), còn các tình huống rộng hơn về đồ đạc, chở hàng và sự cố giữa đường nằm rải rác trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/). Tóm lại, balô chuẩn cho chuyến thuê xe đầu tiên không cần nặng, chỉ cần mỗi món đều nằm đúng nhóm và đúng chỗ trên xe.
+Các thắc mắc về thủ tục, giấy tờ khi thuê lần đầu nằm trong trang [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), còn các tình huống rộng hơn về đồ đạc, chở hàng và sự cố giữa đường nằm rải rác trong mục [hỏi đáp thuê xe máy](/hoi-dap/). Tóm lại, balô chuẩn cho chuyến thuê xe đầu tiên không cần nặng, chỉ cần mỗi món đều nằm đúng nhóm và đúng chỗ trên xe.

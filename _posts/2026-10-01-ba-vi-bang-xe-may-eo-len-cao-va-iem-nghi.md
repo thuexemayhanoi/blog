@@ -19,7 +19,7 @@ article_id: BLG-01100
 
 Cung quen thuộc nhất là Đại lộ Thăng Long: từ nội đô chạy thẳng về hướng Hòa Lạc, đến khu vực nút giao thì rẽ vào đường TL414, qua các xã Quốc Oai rồi men theo TL414 về phía chân núi. Cung thứ hai là QL32 qua Sơn Tây, sau đó cũng rẽ lên TL414. Cả hai đều rộng nhưng đông xe tải vào giờ cao điểm, nên khách nên xuất phát sớm để tránh ùn tắc ở các nút giao. Tổng thời gian đi thường khoảng hai giờ nếu dừng ít.
 
-Điểm mốc quan trọng nhất là ngã ba Tản Lĩnh, nơi có quán ăn và trạm xăng nhỏ phục vụ khách lên vườn. Từ ngã ba, khách rẽ theo biển chỉ dẫn thêm khoảng 3 km là tới khu vực cổng vườn quốc gia. Đây là chỗ nên đổ đầy xăng, ăn nhẹ và nghỉ tay, vì lên cao gần như không còn dịch vụ. Trước khi lên đèo, đáng xem lại bài [hạ đèo dài bằng xe ga an toàn](/blog/ky-nang/2026/10/01/ha-doc-dai-bang-xe-ga-an-toan/) để nắm cách giữ ga đều và tránh nóng máy trên dốc.
+Điểm mốc quan trọng nhất là ngã ba Tản Lĩnh, nơi có quán ăn và trạm xăng nhỏ phục vụ khách lên vườn. Từ ngã ba, khách rẽ theo biển chỉ dẫn thêm khoảng 3 km là tới khu vực cổng vườn quốc gia. Đây là chỗ nên đổ đầy xăng, ăn nhẹ và nghỉ tay, vì lên cao gần như không còn dịch vụ. Trước khi lên đèo, đáng xem lại bài [hạ đèo dài bằng xe ga an toàn](/ky-nang/2026/10/01/ha-doc-dai-bang-xe-ga-an-toan/) để nắm cách giữ ga đều và tránh nóng máy trên dốc.
 
 ## Lên đèo Ba Vì bằng xe máy: giữ số và giữ khoảng cách
 
@@ -39,7 +39,7 @@ Trên cao, khu vực cổng vườn quốc gia có bãi giữ xe; khách gửi x
 
 Vườn quốc gia Ba Vì là vùng rừng trên núi đá vôi, hệ đường mòn dành cho khách bộ, không phải cho xe máy. Vì thế khi đến vườn quốc gia Ba Vì, xe máy chỉ dừng ở bãi dưới chân cổng, còn phần thưởng là những con dốc bộ xuyên rừng, tháp cổ và các khúc quanh nhìn xuống thung lũng. Khách đi giày có độ bám, mang nước, và nên đi sớm trong ngày để không bị trở tối giữa rừng.
 
-Buổi chiều là lúc mặt đường đèo khô hơn sau nắng trưa, cũng là lúc hợp để khách chạy xuống và quay về chân núi. Xem thêm bài [xuống đèo dài bằng xe số: phanh hay về số](/blog/ky-nang/2026/10/01/xuong-doc-dai-bang-xe-so-phanh-hay-ve-so/) để nắm cách phối hợp phanh trước và động cơ, vì đèo Ba Vì dốc liên tục và phanh dễ nóng nếu khách rà phanh suốt chặng.
+Buổi chiều là lúc mặt đường đèo khô hơn sau nắng trưa, cũng là lúc hợp để khách chạy xuống và quay về chân núi. Xem thêm bài [xuống đèo dài bằng xe số: phanh hay về số](/ky-nang/2026/10/01/xuong-doc-dai-bang-xe-so-phanh-hay-ve-so/) để nắm cách phối hợp phanh trước và động cơ, vì đèo Ba Vì dốc liên tục và phanh dễ nóng nếu khách rà phanh suốt chặng.
 
 ## Thuê xe máy đi Ba Vì: kiểm tra gì trước khi nhận xe
 
@@ -47,4 +47,4 @@ Chuyến 60 km lên núi đòi hỏi xe tốt hơn chuyến đi phố. Trước 
 
 Về pháp lý, với xe trên 50cc, khách cần giấy phép lái xe phù hợp theo quy định của Việt Nam và mang giấy tờ theo người. Với khách chưa quen đèo, nên đi cùng người có kinh nghiệm hoặc chọn chuyến khởi hành sớm để có thời gian dự phòng. Giữ lịch trình thoáng, không ép tốc độ, là cách giữ an toàn trên mọi cung.
 
-Khách cần thuê xe để chạy Ba Vì có thể xem thêm các kinh nghiệm cung đường như [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/blog/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) hoặc [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/blog/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/). Danh mục các điểm đến quanh Hà Nội nằm tại trang [điểm đến](/blog/du-lich/diem-den/), còn tổng quan các hành trình nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách cần thuê xe để chạy Ba Vì có thể xem thêm các kinh nghiệm cung đường như [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) hoặc [Hà Nội đi Ba Vì cuối tuần bằng xe máy](/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/). Danh mục các điểm đến quanh Hà Nội nằm tại trang [điểm đến](/du-lich/diem-den/), còn tổng quan các hành trình nằm tại trang [du lịch Hà Nội](/du-lich/).

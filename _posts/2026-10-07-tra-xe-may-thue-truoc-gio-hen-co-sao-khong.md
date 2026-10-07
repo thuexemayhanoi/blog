@@ -18,7 +18,7 @@ Nhiều khách thắc mắc trả xe máy thuê trước giờ hẹn có sao kh�
 
 ## Vậy trả xe sớm có được không
 
-Được. Hợp đồng thuê xe máy chỉ giới hạn thời điểm muộn nhất bạn phải trả xe, chứ không cấm bạn trả sớm hơn. Xe về sớm giúp cửa hàng có thể cho thuê lại trong khung giờ cao điểm, vì vậy phần lớn chủ xe sẵn sàng nhận lại sớm mà không phàn nàn. Điều bạn cần làm chỉ là nhắn hoặc gọi trước khoảng ba mươi phút đến một tiếng, để nhân viên có mặt sẵn sàng nhận xe và cùng bạn kiểm tra hiện trạng; tổng quan các dòng xe được cập nhật tại [trang cho thuê xe máy](/blog/thue-xe/) nếu bạn muốn so sánh cho lần sau.
+Được. Hợp đồng thuê xe máy chỉ giới hạn thời điểm muộn nhất bạn phải trả xe, chứ không cấm bạn trả sớm hơn. Xe về sớm giúp cửa hàng có thể cho thuê lại trong khung giờ cao điểm, vì vậy phần lớn chủ xe sẵn sàng nhận lại sớm mà không phàn nàn. Điều bạn cần làm chỉ là nhắn hoặc gọi trước khoảng ba mươi phút đến một tiếng, để nhân viên có mặt sẵn sàng nhận xe và cùng bạn kiểm tra hiện trạng; tổng quan các dòng xe được cập nhật tại [trang cho thuê xe máy](/thue-xe/) nếu bạn muốn so sánh cho lần sau.
 
 Trường hợp duy nhất cần dè dặt là khi hợp đồng ghi rõ thuê theo gói khung giờ, ví dụ gói sáu tiếng hoặc gói một ngày cố định giờ nhận. Với gói trọn khung, trả sớm thường không được tính lại phần thời gian chưa dùng, vì giá đã ưu tiên theo trọn gói. Nếu bạn đo trước khả năng phải về sớm, hãy hỏi một câu lúc nhận xe: trả sớm hơn có được hoàn cọc phần dư không. Câu hỏi ba mươi giây này giúp bạn tránh mọi tranh luận về sau.
 
@@ -32,7 +32,7 @@ Về tiền cọc thì chuyện khác: cọc được trả lại đầy đủ n
 
 Cách tốt nhất là gọi trực tiếp số điện thoại ghi trong hợp đồng, nói rõ giờ dự kiến trả và nơi trả xe. Nếu bạn thuê tại cửa hàng thì hẹn giờ đến, nhân viên sẽ đợi sẵn thay vì bạn phải đứng chờ giữa giờ tan ca. Với hình thức nhận xe tận nơi, báo sớm giúp người nhận xe chủ động sắp xếp lộ trình, nhất là khung giờ tối khi các xe về dồn về cửa hàng.
 
-Ngoài cuộc gọi, một tin nhắn xác nhận sau đó cũng nên có, ví dụ nhắn rõ em trả xe lúc ba giờ chiều nay tại cửa hàng. Tin nhắn giúp hai bên có bản ghi rõ ràng về thời điểm, tránh hiểu lầm nếu nhân viên trực thay đổi giữa ca. Nếu muốn gia hạn thay vì trả sớm, đây cũng là lúc hỏi giá thuê thêm ngày; tham khảo [bảng giá xe ga](/blog/bang-gia-xe-ga/) để hình dung khung giá phổ biến trước khi trao đổi.
+Ngoài cuộc gọi, một tin nhắn xác nhận sau đó cũng nên có, ví dụ nhắn rõ em trả xe lúc ba giờ chiều nay tại cửa hàng. Tin nhắn giúp hai bên có bản ghi rõ ràng về thời điểm, tránh hiểu lầm nếu nhân viên trực thay đổi giữa ca. Nếu muốn gia hạn thay vì trả sớm, đây cũng là lúc hỏi giá thuê thêm ngày; tham khảo [bảng giá xe ga](/bang-gia-xe-ga/) để hình dung khung giá phổ biến trước khi trao đổi.
 
 ## Trả xe ngoài giờ mở cửa thì thế nào
 
@@ -52,4 +52,4 @@ Trả sớm có được nhận lại toàn bộ tiền cọc không? Có, nếu
 
 Không kịp báo trước mà muốn trả ngay thì sao? Vẫn nên gọi trước khi xuất phát, dù chỉ mười phút. Chủ xe luôn muốn xe về sớm hơn là trễ hơn, nên bạn không cần ngại làm phiền ai.
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00 hàng ngày, sẵn sàng nhận lại xe cho khách muốn trả sớm. Nếu bạn đang ở Hà Nội và cần hỏi thêm về khung giờ, thủ tục hoàn cọc hay tổng quan các dòng xe, hãy gọi 0942 467 674 hoặc xem [trang cho thuê xe máy](/blog/thue-xe/) để chọn dòng phù hợp cho lần thuê tiếp theo.
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00 hàng ngày, sẵn sàng nhận lại xe cho khách muốn trả sớm. Nếu bạn đang ở Hà Nội và cần hỏi thêm về khung giờ, thủ tục hoàn cọc hay tổng quan các dòng xe, hãy gọi 0942 467 674 hoặc xem [trang cho thuê xe máy](/thue-xe/) để chọn dòng phù hợp cho lần thuê tiếp theo.

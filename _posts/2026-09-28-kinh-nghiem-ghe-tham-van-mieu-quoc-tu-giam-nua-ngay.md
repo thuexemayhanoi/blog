@@ -33,9 +33,9 @@ Khu Thái Học phía sau trưng bày về lịch sử Quốc Tử Giám và gi�
 
 ## Kết hợp điểm lân cận trong nửa ngày
 
-Sau khoảng hai giờ trong khuôn viên, nửa ngày còn lại nên dùng cho một trong hai hướng. Hướng một: thong thả quanh các phố sách Nguyễn Văn Chảm, khu quán cà phê gần đó để nghỉ giữa buổi rồi ăn trưa ở khu Đống Đa. Hướng hai: di chuyển sang khu Ba Đình, lịch trình chi tiết cho hướng này xem tại trang [du lịch Hà Nội](/blog/du-lich/). Nếu thích nhịp phố hồ và hàng quán, tham khảo khung lịch trình tại trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Sau khoảng hai giờ trong khuôn viên, nửa ngày còn lại nên dùng cho một trong hai hướng. Hướng một: thong thả quanh các phố sách Nguyễn Văn Chảm, khu quán cà phê gần đó để nghỉ giữa buổi rồi ăn trưa ở khu Đống Đa. Hướng hai: di chuyển sang khu Ba Đình, lịch trình chi tiết cho hướng này xem tại trang [du lịch Hà Nội](/du-lich/). Nếu thích nhịp phố hồ và hàng quán, tham khảo khung lịch trình tại trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
-Với khách thuê xe máy cho cả lịch trình dài hơn, các câu hỏi về thuê xe cho chuyến dài được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Với khách thuê xe máy cho cả lịch trình dài hơn, các câu hỏi về thuê xe cho chuyến dài được giải đáp tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Sắp xếp đi lại và chi phí nhỏ
 

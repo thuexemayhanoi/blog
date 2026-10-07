@@ -41,7 +41,7 @@ Người đang trong độ tuổi lớn cũng cần lưu ý về việc kiểm t
 
 ## Người thuê xe cần chuẩn bị gì trước khi nhận xe
 
-Với người thuê xe máy, giấy tờ là điều kiện nhận xe của hầu hết cửa hàng, nên quên mang bằng đồng nghĩa mất chuyến đi. Trước khi nhận xe, hãy mang bản cứng hoặc kích hoạt bản điện tử trước, và chụp lại hợp đồng thuê xe cùng thông tin chủ xe. Nếu trong chuyến đi bạn bị ghi lỗi qua camera hoặc bị kiểm tra giấy tờ, bộ giấy tờ này là căn cứ xác định đúng người chịu trách nhiệm, bên cạnh thói quen lái an toàn trong nhóm bài [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/). Thủ tục và điều kiện về giấy phép lái xe được tổng hợp trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn các lỗi bị ghi qua camera nằm trong nhóm bài về [phạt nguội xe máy](/blog/an-toan-phap-ly/phat-nguoi/).
+Với người thuê xe máy, giấy tờ là điều kiện nhận xe của hầu hết cửa hàng, nên quên mang bằng đồng nghĩa mất chuyến đi. Trước khi nhận xe, hãy mang bản cứng hoặc kích hoạt bản điện tử trước, và chụp lại hợp đồng thuê xe cùng thông tin chủ xe. Nếu trong chuyến đi bạn bị ghi lỗi qua camera hoặc bị kiểm tra giấy tờ, bộ giấy tờ này là căn cứ xác định đúng người chịu trách nhiệm, bên cạnh thói quen lái an toàn trong nhóm bài [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/). Thủ tục và điều kiện về giấy phép lái xe được tổng hợp trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn các lỗi bị ghi qua camera nằm trong nhóm bài về [phạt nguội xe máy](/an-toan-phap-ly/phat-nguoi/).
 
 ## Kết luận về lỗi không mang bằng lái
 

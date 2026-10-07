@@ -25,7 +25,7 @@ Người xuất phát từ phía Cầu Giấy hoặc bắc thành phố có th�
 
 Khu chùa có bãi gửi xe gần cổng phục vụ khách thăm quan; ngày thường rộng rãi, cuối tuần và ngày hội có khi xếp xe dày nên nhớ lấy vé, chụp lại vị trí đỗ, và cất giấy tờ quan trọng theo người thầy vì để trong cốp. Phí gửi niêm yết tại từng bãi theo bảng giá của bãi. Nếu ngày hội khách dồn cục, các bãi ngoài rìa của xã cũng mở thêm cho khách, bộ vào cổng mất vài phút, đỡ phải chen giữa dòng xe.
 
-Đi nhóm nên hẹn tập trung tại một bãi chung ngay từ đầu, tránh mỗi xe gửi một nơi rồi chờ nhau mỏi mệt. Trước khi rời xe, khóa cổ xe, kiểm tra dây điện giấu kín không lộ ra ngoài, và mang theo đồ giá trị. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê.
+Đi nhóm nên hẹn tập trung tại một bãi chung ngay từ đầu, tránh mỗi xe gửi một nơi rồi chờ nhau mỏi mệt. Trước khi rời xe, khóa cổ xe, kiểm tra dây điện giấu kín không lộ ra ngoài, và mang theo đồ giá trị. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe máy thuê.
 
 ## Thời điểm đẹp để thăm chùa
 
@@ -39,7 +39,7 @@ Ngày hội chùa Thầy vào mùa xuân, khi sân khấu giữa hồ lên tiế
 
 Ngoài chùa chính, đáng dạo quanh hồ nước trước chùa với sân khấu mái giữa hồ — kiến trúc sân khấu chèo hiếm có còn giữ được; phía sau là núi với các hang động nhỏ, leo bằng đường bậc đá ngắn nhưng trơn khi trời ẩm, nên đi giày bám tốt. Giữ yên tĩnh trong khuôn viên, mặc trang phục kín đáo, và để mũ bảo hiểm gọn trong cốp hoặc mang theo tay.
 
-Nếu bạn đang xếp thêm các buổi ngoại thành quanh Hà Nội, bài [đi thành Cổ Loa bằng xe máy](/blog/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/) có thêm khung chạy xe đường trường hướng bắc, còn thêm nhiều gợi ý nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/). Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Nếu bạn đang xếp thêm các buổi ngoại thành quanh Hà Nội, bài [đi thành Cổ Loa bằng xe máy](/du-lich/2026/10/01/i-thanh-co-loa-bang-xe-may-cung-uong-va-luu-y-chay-xe/) có thêm khung chạy xe đường trường hướng bắc, còn thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/). Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 
@@ -47,4 +47,4 @@ Nếu đi ngày thường, ghé thêm các xóm quanh chân núi: đường nh�
 
 Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì trục đại lộ có đoạn dài chạy nhanh và đoạn cuối vào làng cần phanh ăn. Mang theo áo mưa gấp trong mùa mưa, sạc sẵn điện thoại cho bản đồ, và đổ đủ xăng từ trong phố vì các trạm ven tuyến thưa hơn. Chạy đều tay trên đại lộ, tránh sát hông xe khách, và nhường xe tải ở các nút rẽ vào xã.
 
-Cuối cùng, trở về trước khi trời tối nếu bạn chưa quen đoạn đường qua thị trấn trong bóng đêm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.
+Cuối cùng, trở về trước khi trời tối nếu bạn chưa quen đoạn đường qua thị trấn trong bóng đêm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.

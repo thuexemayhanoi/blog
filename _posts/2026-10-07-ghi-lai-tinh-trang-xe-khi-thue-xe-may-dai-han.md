@@ -24,7 +24,7 @@ Với hợp đồng thuê dài, xe nằm trong quyền sử dụng của bạn n
 
 Hạng mục đầu tiên là phần vận hành: đèn pha, đèn hậu, còi, đồng hồ và chìa khóa. Hãy thử từng thứ ngay tại cửa hàng và ghi rõ thứ nào hoạt động, thứ nào chưa ổn. Hạng mục thứ hai là phần an toàn: phanh trước và sau, lốp xe, gương chiếu hậu. Với phanh, kéo thử khi xe được đẩy chậm để cảm nhận độ ăn. Hạng mục thứ ba là ngoại quan: các vết xước có sẵn trên thân xe, tay lái, chắn bùn và cốp xe, kèm vị trí cụ thể của từng vết.
 
-Ngoài ra, phần phụ kiện đi kèm cũng cần được liệt kê đủ: mũ bảo hiểm, áo mưa, khóa cổ, giá đỡ điện thoại nếu có. Số lượng và tình trạng từng món nên được ghi cùng hiện trạng xe, vì giữa kỳ dễ xảy ra việc đổi hoặc mượn thêm món mới. Nếu bạn là người mới thuê lần đầu, đọc thêm bài [giấy tờ cần mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) cũng giúp buổi nhận xe trọn vẹn hơn.
+Ngoài ra, phần phụ kiện đi kèm cũng cần được liệt kê đủ: mũ bảo hiểm, áo mưa, khóa cổ, giá đỡ điện thoại nếu có. Số lượng và tình trạng từng món nên được ghi cùng hiện trạng xe, vì giữa kỳ dễ xảy ra việc đổi hoặc mượn thêm món mới. Nếu bạn là người mới thuê lần đầu, đọc thêm bài [giấy tờ cần mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) cũng giúp buổi nhận xe trọn vẹn hơn.
 
 ## Mẫu biên bản tình trạng xe thuê nên có
 
@@ -44,6 +44,6 @@ Buổi trả xe thường suôn sẻ khi biên bản ban đầu rõ ràng. Hai b
 
 ## Thói quen ghi chép hàng tuần nên duy trì
 
-Ngoài bản ghi ban đầu, nên duy trì một nhật ký ngắn trong kỳ thuê: ghi lại ngày phát hiện tiếng lạ, ngày mang xe về kiểm tra và nội dung đã trao đổi với cửa hàng. Mỗi dòng ghi chỉ mất vài phút nhưng giúp bạn nhớ chính xác trình tự các sự việc sau nhiều tuần. Cuối kỳ, các ghi chép này là công cụ đối chiếu tiện nhất, giúp khâu trả xe kết thúc nhanh gọn và hạn chế tranh chấp không đáng có. Bạn cũng có thể xem lại nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/blog/thue-xe/) để chuẩn bị tốt hơn cho kỳ thuê của mình.
+Ngoài bản ghi ban đầu, nên duy trì một nhật ký ngắn trong kỳ thuê: ghi lại ngày phát hiện tiếng lạ, ngày mang xe về kiểm tra và nội dung đã trao đổi với cửa hàng. Mỗi dòng ghi chỉ mất vài phút nhưng giúp bạn nhớ chính xác trình tự các sự việc sau nhiều tuần. Cuối kỳ, các ghi chép này là công cụ đối chiếu tiện nhất, giúp khâu trả xe kết thúc nhanh gọn và hạn chế tranh chấp không đáng có. Bạn cũng có thể xem lại nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/thue-xe/) để chuẩn bị tốt hơn cho kỳ thuê của mình.
 
-Khi cần hỗ trợ lập biên bản hoặc tư vấn kỳ thuê dài hạn, hãy ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, hoặc gọi trước số 0942 467 674 để được hướng dẫn nhanh. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể tham khảo thêm nhóm bài hữu ích trên trang [thuê xe máy](/blog/thue-xe/) cho kỳ thuê dài ngày của mình.
+Khi cần hỗ trợ lập biên bản hoặc tư vấn kỳ thuê dài hạn, hãy ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, hoặc gọi trước số 0942 467 674 để được hướng dẫn nhanh. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể tham khảo thêm nhóm bài hữu ích trên trang [thuê xe máy](/thue-xe/) cho kỳ thuê dài ngày của mình.

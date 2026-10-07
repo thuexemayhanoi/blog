@@ -27,17 +27,17 @@ Với nhịp xem vừa phải, đa số khách ở lại khoảng hai tiếng, g
 
 Thứ tự gợi ý cho lịch sáng: nửa tiếng đầu cho khu trưng bày chính, một tiếng cho các dãy chuyên đề, rồi nửa tiếng cuối rà lại khu trẻ thích nhất. Nếu đi chiều, đảo ngược thứ tự và rút bớt một dãy. Khoảng giữa buổi nên ra khỏi khu trưng bày uống nước, đi vệ sinh và cho trẻ nạp nhẹ: các khu nghỉ ngồi trong khuôn viên giúp cả nhóm lấy lại nhịp, thay vì cố gắng xem liên tục rồi mệt đột ngột.
 
-Nửa ngày là đủ với bảo tàng, nhưng đừng cố nhồi thêm điểm thứ hai vào cùng buổi. Nếu muốn ghép thêm, hãy để bảo tàng giữ nguyên một buổi riêng, và phần chiều dành cho một vòng [hồ Tây](/blog/du-lich/ho-tay/) hoặc các gợi ý trong danh sách [điểm đến](/blog/du-lich/diem-den/) quanh thành phố.
+Nửa ngày là đủ với bảo tàng, nhưng đừng cố nhồi thêm điểm thứ hai vào cùng buổi. Nếu muốn ghép thêm, hãy để bảo tàng giữ nguyên một buổi riêng, và phần chiều dành cho một vòng [hồ Tây](/du-lich/ho-tay/) hoặc các gợi ý trong danh sách [điểm đến](/du-lich/diem-den/) quanh thành phố.
 
 ## Đi cùng trẻ nhỏ nên chuẩn bị gì
 
 Trẻ nhỏ xem bảo tàng theo cách riêng: đứng lâu một chỗ, hỏi nhiều, và cần chỗ ngồi giữa chừng. Bạn nên mang theo nước lọc, khăn giấy và một món ăn nhẹ. Một bản nhắc nhỏ cũng đáng mang: dặn trẻ không chạy trong dãy trưng bày, không tự chạm vào mẫu vật ở nơi có biển cấm. Đây cũng là dịp tốt để dạy trẻ cách đi chơi nơi công cộng có quy tắc, phần lớn trẻ lớn chút là tự biết giữ.
 
-Đi bằng xe máy cùng trẻ thì chuẩn bị thêm: mũ bảo hiểm đúng cỡ cho trẻ, áo gió mỏng vì trong nhà trưng bày mát hơn ngoài, và đỗ xe ở khu gửi của bảo tàng. Với ai thuê xe máy cho buổi đi chơi này, phần chuẩn bị xe và giấy tờ nằm trong trang [cho thuê xe máy](/blog/thue-xe/). Chạy nội thành với trẻ ngồi sau cần vừa ga nhẹ nhàng, và các lưu ý giữ sức khi lái xe được gom trong bài [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/).
+Đi bằng xe máy cùng trẻ thì chuẩn bị thêm: mũ bảo hiểm đúng cỡ cho trẻ, áo gió mỏng vì trong nhà trưng bày mát hơn ngoài, và đỗ xe ở khu gửi của bảo tàng. Với ai thuê xe máy cho buổi đi chơi này, phần chuẩn bị xe và giấy tờ nằm trong trang [cho thuê xe máy](/thue-xe/). Chạy nội thành với trẻ ngồi sau cần vừa ga nhẹ nhàng, và các lưu ý giữ sức khi lái xe được gom trong bài [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/).
 
 ## Ăn trưa và nghỉ giữa buổi quanh khu vực
 
-Sau buổi sáng ở bảo tàng, nhóm hay tìm quán ăn trưa quanh khu Cầu Giấy hoặc theo trục Phạm Văn Đồng về hướng hồ Tây. Ăn xong, nếu trẻ còn sức, một vòng chậm quanh [hồ Tây](/blog/du-lich/ho-tay/) giúp cả nhóm tiêu cơm trước khi lên xe về. Nếu không, về thẳng và để trẻ ngủ trưa đúng giờ là kết thúc đẹp cho một lịch nửa ngày.
+Sau buổi sáng ở bảo tàng, nhóm hay tìm quán ăn trưa quanh khu Cầu Giấy hoặc theo trục Phạm Văn Đồng về hướng hồ Tây. Ăn xong, nếu trẻ còn sức, một vòng chậm quanh [hồ Tây](/du-lich/ho-tay/) giúp cả nhóm tiêu cơm trước khi lên xe về. Nếu không, về thẳng và để trẻ ngủ trưa đúng giờ là kết thúc đẹp cho một lịch nửa ngày.
 
 ## Nếu buổi đi chỉ còn sau giờ làm
 
@@ -45,4 +45,4 @@ Không ít phụ huynh chỉ rảnh sau giờ làm, và lịch nửa ngày vẫn
 
 Với người đi bằng xe máy thuê, chiều về nên chọn đường về theo trục lớn và tránh giờ tan tầm ở các nút Phạm Văn Đồng. Xe đã chạy một sáng cộng một trưa thì nên dừng kiểm tra lại xích, đèn và phanh trước chặng về, nhất là khi chở trẻ. Buổi đi nửa ngày kết thúc trọn vẹn khi cả nhóm về nhà trước khi trẻ quá giờ ngủ, và xe thì đã nằm lại trong bãi gửi an toàn, không sót đồ, không quên mũ.
 
-Nửa ngày ở bảo tàng Thiên nhiên nghe ngắn, nhưng với nhịp của trẻ nhỏ thì vừa đủ, và chuẩn bị đúng cách sẽ biến buổi tham quan thành một chuyến đi nhỏ gọn, dễ lặp lại vào dịp sau. Các ghi chú về bảo tàng và chỗ gửi xe được gom trong mục [du lịch](/blog/du-lich/), dùng dần cho những buổi đi chơi tiếp theo quanh Hà Nội.
+Nửa ngày ở bảo tàng Thiên nhiên nghe ngắn, nhưng với nhịp của trẻ nhỏ thì vừa đủ, và chuẩn bị đúng cách sẽ biến buổi tham quan thành một chuyến đi nhỏ gọn, dễ lặp lại vào dịp sau. Các ghi chú về bảo tàng và chỗ gửi xe được gom trong mục [du lịch](/du-lich/), dùng dần cho những buổi đi chơi tiếp theo quanh Hà Nội.

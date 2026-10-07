@@ -24,7 +24,7 @@ article_id: BLG-00678
 
 Từ phía Hoàn Kiếm hoặc Ba Đình, cung dễ nhất là theo trục đường ra phía Hồ Tây rồi bắt Lạc Long Quân, chạy thẳng hướng Nhật Tân tới khu vực đầm sen; đường ven hồ thẳng, có dải xanh, buổi sáng ít xe hơn hẳn khung chiều. Từ phía cầu Giấy hoặc Nam Từ Liêm, đi qua đường Âu Cơ rồi nối sang Lạc Long Quân cũng tiện, hai trục này song song mép hồ và nối nhau qua vài ngã tư lớn. Khách ở phía Long Biên có thể qua cầu Nhật Tân rồi rẽ vào Lạc Long Quân, vừa ngắm ven sông Hồng vừa vào thẳng khu vực.
 
-Khung giờ nên tránh là chiều muộn ngày cuối tuần, khi dòng xe ra Tây Hồ dày và các bãi xe ven hồ dễ kín; sáng sớm là khung đẹp nhất cả về ánh sáng lẫn đường thông thoáng. Tổng quan các cung đường quanh khu ven hồ có trong trang [khu Tây Hồ](/blog/du-lich/ho-tay/), còn kinh nghiệm thuê xe máy cho các buổi đi chụp ảnh kiểu này được gom tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khung giờ nên tránh là chiều muộn ngày cuối tuần, khi dòng xe ra Tây Hồ dày và các bãi xe ven hồ dễ kín; sáng sớm là khung đẹp nhất cả về ánh sáng lẫn đường thông thoáng. Tổng quan các cung đường quanh khu ven hồ có trong trang [khu Tây Hồ](/du-lich/ho-tay/), còn kinh nghiệm thuê xe máy cho các buổi đi chụp ảnh kiểu này được gom tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Gửi xe quanh đầm sen và khu ẩm thực
 
@@ -36,7 +36,7 @@ Cách làm hay dùng nhất là gửi xe tại bãi chính của khu rồi đi b
 
 Trong mùa sen, khung sáng sớm tới giữa sáng là lúc đẹp nhất: hoa nở hết cỡ, ánh sáng mềm, sen chưa bị nắng gắt làm phai màu, và các đoạn đường mòn giữa sen chưa đông người. Khung chiều ngược sáng, khó chụp thẳng sen, nhưng lại hợp ảnh ngược hồ; ai mê ảnh người mẫu thì nên đi sớm, ai đi giải trí gia đình thì giữa sáng thoải mái hơn. Chợ hoa Quảng An gần đó hoạt động từ tờ mờ sáng trong mùa sen, ghé ngang xem sen cắt và mua sen bó làm quà là một phần thói quen của buổi đi Tây Hồ mùa này.
 
-Ngày mưa giữa mùa sen vẫn đi được nếu mưa nhỏ: lá sen giữ nước thành vũng tròn rất đẹp, nhưng đường mòn giữa đầm dễ trơn và lầy, nên đi giày bám tốt, tránh giày đế mỏng. Mưa to thì không nên vào giữa đầm, đứng dưới mái quán ven hồ ngắm sen từ xa an toàn hơn. Khách muốn thêm gợi ý về các điểm gần nhau trong cùng buổi có thể xem trang [điểm đến](/blog/du-lich/diem-den/), hoặc đọc thêm kinh nghiệm du lịch ngắn ngày trong trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Ngày mưa giữa mùa sen vẫn đi được nếu mưa nhỏ: lá sen giữ nước thành vũng tròn rất đẹp, nhưng đường mòn giữa đầm dễ trơn và lầy, nên đi giày bám tốt, tránh giày đế mỏng. Mưa to thì không nên vào giữa đầm, đứng dưới mái quán ven hồ ngắm sen từ xa an toàn hơn. Khách muốn thêm gợi ý về các điểm gần nhau trong cùng buổi có thể xem trang [điểm đến](/du-lich/diem-den/), hoặc đọc thêm kinh nghiệm du lịch ngắn ngày trong trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Kết luận về đường đi và gửi xe ở đầm sen
 

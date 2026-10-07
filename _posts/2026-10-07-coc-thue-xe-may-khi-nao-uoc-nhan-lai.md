@@ -24,7 +24,7 @@ Nếu cả ba điều kiện đều đạt, đa số trường hợp khâu hoàn
 
 ## Quy trình đối soát lúc trả xe
 
-Buổi trả xe thường bắt đầu bằng việc xem lại biên bản nhận xe: hai bên cùng đi qua từng hạng mục đã ghi như đèn, còi, phanh, gương và các vết xước có sẵn. Sau đó là phần ngoại quan tổng thể và phụ kiện đi kèm. Khi mọi hạng mục khớp, cửa hàng xác nhận hoàn tất hợp đồng và làm thủ tục hoàn cọc. Bạn cũng có thể xem trước nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/blog/thue-xe/) để chuẩn bị cho buổi trả xe diễn ra gọn gàng.
+Buổi trả xe thường bắt đầu bằng việc xem lại biên bản nhận xe: hai bên cùng đi qua từng hạng mục đã ghi như đèn, còi, phanh, gương và các vết xước có sẵn. Sau đó là phần ngoại quan tổng thể và phụ kiện đi kèm. Khi mọi hạng mục khớp, cửa hàng xác nhận hoàn tất hợp đồng và làm thủ tục hoàn cọc. Bạn cũng có thể xem trước nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/thue-xe/) để chuẩn bị cho buổi trả xe diễn ra gọn gàng.
 
 Nếu cọc của bạn là chuyển khoản, hãy mang theo thông tin tài khoản đã chuyển ban đầu. Một số nơi hoàn ngay trong buổi, một số nơi hoàn trong khung vài ngày làm việc tùy cách vận hành nội bộ của từng nơi. Hỏi rõ thời hạn này ngay từ đầu giúp bạn không phải theo dõi nhiều lần về sau.
 
@@ -36,7 +36,7 @@ Khi có khấu trừ, bạn có quyền hỏi rõ căn cứ: hạng mục nào, 
 
 ## Cọc giữ dưới dạng giấy tờ thì sao
 
-Nếu bạn đặt cọc bằng giấy tờ thay vì tiền, quy trình nhận lại cũng dựa trên buổi đối soát: giấy tờ được trả lại ngay khi hiện trạng xe khớp biên bản. Ưu điểm của cách này là không phát sinh vòng chuyển tiền hoàn lại, nên buổi trả xe thường nhẹ nhàng hơn. Điểm cần lưu ý là bạn nên có bản ghi lại loại giấy tờ đã đặt, kèm chữ ký xác nhận của hai bên, để không tranh chấp về món đã đặt. Với người mới thuê lần đầu, đọc trước bài [thuê xe máy cho người mới lấy bằng A1](/blog/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng giúp chuẩn bị tốt hơn cho các thủ tục đầu tiên của mình.
+Nếu bạn đặt cọc bằng giấy tờ thay vì tiền, quy trình nhận lại cũng dựa trên buổi đối soát: giấy tờ được trả lại ngay khi hiện trạng xe khớp biên bản. Ưu điểm của cách này là không phát sinh vòng chuyển tiền hoàn lại, nên buổi trả xe thường nhẹ nhàng hơn. Điểm cần lưu ý là bạn nên có bản ghi lại loại giấy tờ đã đặt, kèm chữ ký xác nhận của hai bên, để không tranh chấp về món đã đặt. Với người mới thuê lần đầu, đọc trước bài [thuê xe máy cho người mới lấy bằng A1](/thue-xe/2026/09/29/thue-xe-may-cho-nguoi-moi-lay-bang-a1-lan-au/) cũng giúp chuẩn bị tốt hơn cho các thủ tục đầu tiên của mình.
 
 ## Thời điểm nhận lại cọc trong buổi trả xe
 
@@ -46,4 +46,4 @@ Nhiều khách hàng hỏi liệu có nhận lại cọc ngay tại cửa hàng 
 
 Suốt kỳ thuê, nên giữ lại các ghi chép nhỏ: biên bản nhận xe có chữ ký hai bên, tin nhắn trao đổi về bất kỳ sự cố, hình chụp hiện trạng khi phát hiện vấn đề. Những ghi chép này là bộ căn cứ nhanh nhất nếu có bất kỳ điểm nào cần bàn lúc trả. Khi mọi dữ kiện đã rõ, buổi trả xe thường chỉ còn là thủ tục xác nhận lại lần cuối, và khoản cọc được hoàn đúng như thỏa thuận ban đầu mà không mất thêm thời gian.
 
-Khi cần tư vấn trực tiếp về quy trình hoàn cọc hoặc đặt cọc trước xe, hãy ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, hoặc gọi trước số 0942 467 674 để được hướng dẫn nhanh. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể tham khảo thêm nhóm bài về đặt cọc và giữ giấy tờ trên trang [thuê xe máy](/blog/thue-xe/).
+Khi cần tư vấn trực tiếp về quy trình hoàn cọc hoặc đặt cọc trước xe, hãy ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày, hoặc gọi trước số 0942 467 674 để được hướng dẫn nhanh. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể tham khảo thêm nhóm bài về đặt cọc và giữ giấy tờ trên trang [thuê xe máy](/thue-xe/).

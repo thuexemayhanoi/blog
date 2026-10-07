@@ -48,6 +48,6 @@ Mang giày êm, mũ và nước, vì một vòng thong thả có thể mất hơ
 
 Với người thuê xe theo ngày, tính thêm thời gian gửi xe và đi bộ vào cổng khi hẹn giờ trả xe. Đi sớm giúp cả gửi xe lẫn dạo đều nhàn, và ra về trước giờ chiều muộn giúp tránh dòng xe tan tầm trên các trục quanh Ba Đình. Ghi lại khung giờ thực tế sau lần đầu, và lần sau kế hoạch sẽ sát hơn.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), nhóm bài về [Hồ Tây](/blog/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), nhóm bài về [Hồ Tây](/du-lich/ho-tay/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, đến Công viên Bách Thảo bằng xe máy dễ nếu nắm ba điều: cổng thường dùng ở phố Nguyễn Văn Huyên, đường đi ngắn theo hướng xuất phát, và bãi gửi xe quanh cổng kín sớm vào cuối tuần. Tra giờ mở cửa mới nhất, gửi xe nơi có người trông và giữ phi. Với khách thuê xe, hỏi trước người cho thuê về bãi quen quanh khu vực để buổi đi gọn ngay từ đầu.

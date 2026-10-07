@@ -35,7 +35,7 @@ Ngày lễ là câu chuyện riêng: khu Ba Đình quanh các dịp lớn thư�
 
 ## Gửi xe quanh khu: đỗ đúng chỗ quan trọng hơn đỗ gần
 
-Bãi quanh khu chia hai lớp: ven trục, tiện cho khách ngắm nhanh, và trong ngõ kề, xa mặt tiền chút ít nhưng yên và rộng rãi hơn. Điều đáng nhấn mạnh quanh khu này: tuyệt đối không dựng xe tạm ở phần quảng trường và vỉa hè sát mặt tiền, vì đây vừa là phần người băng qua liên tục, vừa thuộc khu vực được quản lý chặt. Mọi bãi hợp lệ đều trong tầm đi bộ vài phút; chi tiết chọn bãi an toàn tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Bãi quanh khu chia hai lớp: ven trục, tiện cho khách ngắm nhanh, và trong ngõ kề, xa mặt tiền chút ít nhưng yên và rộng rãi hơn. Điều đáng nhấn mạnh quanh khu này: tuyệt đối không dựng xe tạm ở phần quảng trường và vỉa hè sát mặt tiền, vì đây vừa là phần người băng qua liên tục, vừa thuộc khu vực được quản lý chặt. Mọi bãi hợp lệ đều trong tầm đi bộ vài phút; chi tiết chọn bãi an toàn tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Với khách chụp đêm hoặc ở lại khuya, hỏi giờ đóng của bãi trước khi để, vì một số bãi ven trục quanh khu đóng theo khung công sở. Nếu định về muộn, chọn bãi trong ngõ có người trông thường trực và nhắc lại khung nhận xe, sẽ đỡ hơn hẳn cảnh phải tất tả dọn xe sát giờ đóng giữa buổi tối.
 
@@ -47,8 +47,8 @@ Khung tối quanh khu vắng xe hơn ban ngày, phần đèn trục sáng nhưng
 
 ## Với người lần đầu chạy khu Ba Đình
 
-Ba nguyên tắc cho người lạ: một, tốc độ bám theo dòng xe địa phương, không bám theo mặt đường rộng; hai, về làn rẽ từ hai ngả trước, vì dải phân cách cứng quanh khu không cho chỉnh muộn; ba, coi mọi đám đứng chụp ảnh ven trục là điểm giảm tốc tiềm năng. Các kỹ năng xử lý tình huống giao thông trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/).
+Ba nguyên tắc cho người lạ: một, tốc độ bám theo dòng xe địa phương, không bám theo mặt đường rộng; hai, về làn rẽ từ hai ngả trước, vì dải phân cách cứng quanh khu không cho chỉnh muộn; ba, coi mọi đám đứng chụp ảnh ven trục là điểm giảm tốc tiềm năng. Các kỹ năng xử lý tình huống giao thông trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/).
 
 Với người chạy xe điện quanh khu, một lưu ý về tiếng ồn: trục rộng dễ bị che tiếng xe bởi gió và dòng xe lớn, người đi bộ ít nhận ra xe điện từ phía sau, nên chủ động giảm theo trước các đám đứng ven thay vì bấm chuông sát. Với xe côn tay, các ngả đèn đỏ dài quanh khu dễ mỏi tay nếu để số cao, về số thấp sẵn khi giảm dần là cách nhẹ nhàng hơn hẳn.
 
-Tóm lại, chạy xe quanh Cột Cờ Hà Nội là bài toán về kỷ luật tốc độ và làn đường, không phải về luồn lách. Chậm trước mặt tiền, đúng làn từ xa, và gửi xe ở bãi hợp lệ, ba điều đó biến trục Ba Đình từ nơi dễ phát sinh rủi ro thành một quãng chạy thoáng và đẹp. Ghép thêm điểm quanh khu, hãy xem danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/).
+Tóm lại, chạy xe quanh Cột Cờ Hà Nội là bài toán về kỷ luật tốc độ và làn đường, không phải về luồn lách. Chậm trước mặt tiền, đúng làn từ xa, và gửi xe ở bãi hợp lệ, ba điều đó biến trục Ba Đình từ nơi dễ phát sinh rủi ro thành một quãng chạy thoáng và đẹp. Ghép thêm điểm quanh khu, hãy xem danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/).

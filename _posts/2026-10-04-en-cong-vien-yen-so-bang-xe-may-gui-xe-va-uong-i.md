@@ -40,6 +40,6 @@ Khung đẹp nhất của Yên Sở là sáng sớm cuối tuần: mát, cỏ c�
 
 Trước khi ra về, dọn rác quanh chỗ picnic là việc nhỏ nên làm: công viên đẹp nhờ phần đông người đến giữ gìn, và mỗi nhóm dọn phần mình là cách giữ nguyên điều đó. Về phần đường, lấy nước đầy trước khi lên xe nếu chiều còn định ghé thêm đâu đó, vì các trục phía nam có quãng dài không có cửa hàng.
 
-Ai muốn tham khảo các không gian mở tương tự có thể xem chuyên mục [điểm đến Hà Nội](/blog/du-lich/diem-den/), hoặc đọc các chuyến đi vùng ven tại trang [du lịch](/blog/du-lich/). Với ai lần đầu chạy các trục vành đai bằng xe thuê, mục [kinh nghiệm](/blog/kinh-nghiem/) có sẵn các bài về chạy đường rộng và giữ khoảng cách với xe tải.
+Ai muốn tham khảo các không gian mở tương tự có thể xem chuyên mục [điểm đến Hà Nội](/du-lich/diem-den/), hoặc đọc các chuyến đi vùng ven tại trang [du lịch](/du-lich/). Với ai lần đầu chạy các trục vành đai bằng xe thuê, mục [kinh nghiệm](/kinh-nghiem/) có sẵn các bài về chạy đường rộng và giữ khoảng cách với xe tải.
 
 Một ngày cỏ, gió và diều ở Yên Sở, với quãng đường xuống phía nam thoáng đãng: đó là kiểu chuyến đi mà xe máy cho trải nghiệm tốt hơn hẳn mọi phương tiện khác, vì bạn muốn dừng lúc nào là dừng được lúc đó.

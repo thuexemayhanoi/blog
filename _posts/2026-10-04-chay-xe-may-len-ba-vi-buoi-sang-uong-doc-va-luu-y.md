@@ -36,7 +36,7 @@ Một điều nữa là trang phục. Buổi sáng trên núi lạnh hơn dướ
 
 Lịch trình gợi ý: khởi hành từ nội đô lúc năm giờ rưỡi đến sáu giờ sáng, chạy hướng tây khi đường còn vắng, dừng ăn sáng ở khu vực gần chân núi, rồi bắt đầu lên dốc khoảng bảy giờ rưỡi khi sương tan. Chạy thong thả lên các đoạn dốc, dừng ở các chỗ quan sát được để ngắm thung lũng chìm trong sương. Xong một vòng dốc, nghỉ tại các quán nước nhỏ trên đường trước khi quay về, và về trước trưa để tránh nắng gắt trên đường lớn.
 
-Nếu bạn muốn tham khảo cách phối hợp nhiều điểm phía tây trong nửa ngày, bài [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/blog/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) có lịch trình chi tiết hơn. Danh sách các điểm ngoại thành khác được gom trong mục [ngoại thành hà nội](/blog/du-lich/ngoai-thanh/), và nếu cần thêm ý tưởng cho các chuyến đi quanh Hà Nội thì xem mục [du lịch](/blog/du-lich/).
+Nếu bạn muốn tham khảo cách phối hợp nhiều điểm phía tây trong nửa ngày, bài [Ba Vì nửa ngày bằng xe máy từ Hà Nội](/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/) có lịch trình chi tiết hơn. Danh sách các điểm ngoại thành khác được gom trong mục [ngoại thành hà nội](/du-lich/ngoai-thanh/), và nếu cần thêm ý tưởng cho các chuyến đi quanh Hà Nội thì xem mục [du lịch](/du-lich/).
 
 Với người mới, đừng cố chinh phục hết cung dốc trong một lần. Chạy được một phần, cảm nhận xe và đường, rồi quay lại lần sau là cách tiến bộ bền vững. Cung dốc không đi đâu, còn kinh nghiệm của bạn sẽ lớn dần sau mỗi chuyến.
 

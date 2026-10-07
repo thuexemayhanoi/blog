@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy theo tuần nghĩa là bạn gắn bó với một chiếc xe suốt bảy ngày, đủ dài để những hao mòn nhỏ trở thành vấn đề thật. Kiểm tra xe giữa kỳ thuê tuần có cần làm không: câu trả lời thẳng là có, và việc này không mất quá mười lăm phút. Lốp non dần, dầu tiêu hao, bóng đèn cháy hay ốc lỏng sau mấy ngày đường đá đều là hao mòn tích lũy, nên một vòng soát vào giữa kỳ giúp bạn phát hiện trục trặc sớm, tránh hỏng xe giữa chuyến đi và tránh trách nhiệm phát sinh về sau.
 
-Kỳ thuê theo tuần có cách tính riêng, tùy thời điểm nhận xe; chi tiết nằm ở nhóm [thuê xe theo tuần](/blog/thue-xe/thue-tuan/), các hạng mục cần soi lúc nhận và trả xe ở [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/), cách hiểu báo giá theo kỳ ở [giá thuê](/blog/thue-xe/gia-thue/), và tổng hợp các tình huống thuê ở [thuê xe](/blog/thue-xe/).
+Kỳ thuê theo tuần có cách tính riêng, tùy thời điểm nhận xe; chi tiết nằm ở nhóm [thuê xe theo tuần](/thue-xe/thue-tuan/), các hạng mục cần soi lúc nhận và trả xe ở [nhận và trả xe](/thue-xe/nhan-tra-xe/), cách hiểu báo giá theo kỳ ở [giá thuê](/thue-xe/gia-thue/), và tổng hợp các tình huống thuê ở [thuê xe](/thue-xe/).
 
 ## Vì sao giữa kỳ quan trọng khi thuê tuần
 

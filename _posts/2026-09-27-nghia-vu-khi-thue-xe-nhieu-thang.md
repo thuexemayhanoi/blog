@@ -29,7 +29,7 @@ Bảo dưỡng xe thuê dài hạn là khoản nghĩa vụ dễ tranh chấp nh�
 
 Cách thực tế là ghi sẵn kỳ bảo dưỡng vào lịch điện thoại ngay ngày nhận xe: tuần thứ bao nhiêu căng xích, tháng thứ mấy thay nhớt nếu thuộc phần mình lo. Việc nhỏ này giúp bạn không bỏ sót kỳ bảo dưỡng giữa dòng công việc, và hóa đơn từng lần sửa cũng là hồ sơ đẹp lúc kết thúc hợp đồng.
 
-Khi mang xe đi bảo dưỡng giữa kỳ, chọn nơi sửa theo chỉ dẫn của cửa hàng nếu có, giữ hóa đơn và chụp ảnh trước sau. Cách này giúp lúc đối chiếu cuối kỳ mọi khoản đều rõ ràng. Nếu muốn nắm phần bạn có thể tự làm mỗi sáng, bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/) là trình tự hai phút chuẩn cho người thuê.
+Khi mang xe đi bảo dưỡng giữa kỳ, chọn nơi sửa theo chỉ dẫn của cửa hàng nếu có, giữ hóa đơn và chụp ảnh trước sau. Cách này giúp lúc đối chiếu cuối kỳ mọi khoản đều rõ ràng. Nếu muốn nắm phần bạn có thể tự làm mỗi sáng, bài [kiểm tra xe trước mỗi chuyến đi](/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/) là trình tự hai phút chuẩn cho người thuê.
 
 ## Hợp đồng dài hạn cần ghi rõ những gì
 
@@ -37,11 +37,11 @@ Một hợp đồng thuê dài hạn tốt không cần dài, chỉ cần đủ:
 
 Nên chốt luôn cách thanh toán theo kỳ: đóng đầu tháng hay cuối tháng, chuyển khoản hay tiền mặt, và có giữ lại biên nhận mỗi kỳ. Với hợp đồng dài nhiều tháng, thói quen lưu từng lần đóng giúp tránh tranh luận về số dư khi kết thúc.
 
-Với các điều khoản chung của dịch vụ, bạn nên đọc trước trang [điều khoản](/blog/dieu-khoan/) để nắm khung quy định. Điều khoản cụ thể của từng hợp đồng luôn ưu tiên theo thỏa thuận hai bên ghi trong giấy.
+Với các điều khoản chung của dịch vụ, bạn nên đọc trước trang [điều khoản](/dieu-khoan/) để nắm khung quy định. Điều khoản cụ thể của từng hợp đồng luôn ưu tiên theo thỏa thuận hai bên ghi trong giấy.
 
 ## Tránh tranh chấp khi kết thúc kỳ thuê
 
-Tranh chấp lúc trả xe thường xoay quanh ba điểm: vết xước mới, tình trạng vận hành, và giờ trả. Cả ba đều hóa giải được bằng bằng chứng từ ngày đầu: bộ ảnh hai hông, đầu, đuôi, cốp xe chụp khi nhận; ghi chú vết sẵn có vào biên nhận; và lịch nhắc giờ trả trong phạm vi cửa hàng mở cửa 09:00 đến 21:00. Trước ngày hết hạn, tự rà xe một lượt theo trình tự [kiểm tra xe trước khi ký nhận](/blog/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/), khắc phục được gì thì khắc phục, ví dụ bơm lốp, lau xe, căng lại xích nếu được hướng dẫn.
+Tranh chấp lúc trả xe thường xoay quanh ba điểm: vết xước mới, tình trạng vận hành, và giờ trả. Cả ba đều hóa giải được bằng bằng chứng từ ngày đầu: bộ ảnh hai hông, đầu, đuôi, cốp xe chụp khi nhận; ghi chú vết sẵn có vào biên nhận; và lịch nhắc giờ trả trong phạm vi cửa hàng mở cửa 09:00 đến 21:00. Trước ngày hết hạn, tự rà xe một lượt theo trình tự [kiểm tra xe trước khi ký nhận](/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/), khắc phục được gì thì khắc phục, ví dụ bơm lốp, lau xe, căng lại xích nếu được hướng dẫn.
 
 Về giờ trả, hãy chủ động hẹn khung giờ sớm trong ngày, tránh giờ cao điểm cuối buổi khi cửa hàng đông khách nhận xe mới. Trả xe gọn gàng, lau sạch và đủ xăng theo đúng mức đã chốt cũng giúp buổi đối chiếu nhanh hơn cho cả hai bên.
 
@@ -51,4 +51,4 @@ Nếu muốn gia hạn thêm tháng, đừng đợi ngày cuối mới nhắn; h
 
 Thuê xe nhiều tháng là mối quan hệ tin cậy kéo dài, và người thuê giữ được tin cậy đó bằng ba việc: giữ xe đúng cách, bảo dưỡng theo đúng thỏa thuận đã ghi, và trả xe đúng hẹn với đầy đủ bằng chứng. Làm đều ba việc, bạn là khách mà cửa hàng muốn giữ, và các kỳ thuê sau luôn đơn giản hơn.
 
-Bối cảnh thuê theo tháng nằm ở trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/) trong cẩm nang [thuê xe máy](/blog/thue-xe/). Khung giá thuê theo từng dòng xe nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/), còn nếu bạn cân nhắc giữa thuê và mua trong dài hạn, hãy tự so sánh với chi phí sở hữu một chiếc xe riêng trước khi quyết định.
+Bối cảnh thuê theo tháng nằm ở trang [thuê xe theo tháng](/thue-xe/thue-thang/) trong cẩm nang [thuê xe máy](/thue-xe/). Khung giá thuê theo từng dòng xe nằm trong bài [giá thuê xe máy theo tháng ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/), còn nếu bạn cân nhắc giữa thuê và mua trong dài hạn, hãy tự so sánh với chi phí sở hữu một chiếc xe riêng trước khi quyết định.

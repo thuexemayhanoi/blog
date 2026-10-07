@@ -52,4 +52,4 @@ Cách hiệu quả là sau mỗi chuyến đi, rà lại trên bản đồ xem m
 
 Có, với điều kiện dùng đúng cách: thiết lập trước khi đi, gắn chắc điện thoại, nghe chỉ dẫn bằng giọng nói, không cầm điện thoại trên tay khi chạy, và luôn ưu tiên biển báo cùng tình huống thực tế. Bản đồ số là công cụ giảm tải tâm lý cho người mới, không phải phương tiện thay thế kỹ năng lái xe và quan sát. Tay lái càng vững, bạn càng dùng bản đồ càng thoải mái.
 
-Khi chuẩn bị chuyến đi đầu tiên ở Hà Nội, hãy trao đổi với chủ cho thuê xe về tuyến đường dự kiến và các lưu ý địa phương. Bạn có thể xem thêm các thắc mắc thường gặp trong mục [hỏi đáp người mới](/blog/hoi-dap/hoi-dap-nguoi-moi/), duyệt các chủ đề [hỏi đáp](/blog/hoi-dap/) khác, hoặc tham khảo tổng hợp bài [kinh nghiệm](/blog/kinh-nghiem/) để có chuyến đi an toàn và suôn sẻ.
+Khi chuẩn bị chuyến đi đầu tiên ở Hà Nội, hãy trao đổi với chủ cho thuê xe về tuyến đường dự kiến và các lưu ý địa phương. Bạn có thể xem thêm các thắc mắc thường gặp trong mục [hỏi đáp người mới](/hoi-dap/hoi-dap-nguoi-moi/), duyệt các chủ đề [hỏi đáp](/hoi-dap/) khác, hoặc tham khảo tổng hợp bài [kinh nghiệm](/kinh-nghiem/) để có chuyến đi an toàn và suôn sẻ.

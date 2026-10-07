@@ -18,7 +18,7 @@ Lưu ý chạy xe gần Văn Miếu - Quốc Tử Giám chủ yếu xoay quanh n
 
 Buổi sáng sớm, các phố quanh Văn Miếu thoáng và dễ chạy. Từ khoảng chín giờ, khi khu di tích bắt đầu đón khách, dòng xe tìm chỗ gửi dày dần lên; đỉnh đông rơi vào khung mười tới mười một giờ và cả buổi chiều cuối tuần. Giờ tan sở chiều, các trục lớn gần đó như Nguyễn Thái Học, Bà Triệu ùn theo giờ tan tầm, nên nếu lịch trình linh động, nên tránh rời khu vực đúng khung đó hoặc chấp nhận đi chậm theo dòng.
 
-Cuối tuần và ngày lễ, một phần vỉa hè quanh khu vực trở thành không gian đi bộ; dòng người băng ngang ở các đoạn trước cổng tăng mạnh. Quy tắc an toàn khi chạy qua các đoạn này là giảm tốc sớm, không bấm còi trong khu đông người, và ưu tiên nhường người đi bộ tại các điểm băng qua tự phát. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Cuối tuần và ngày lễ, một phần vỉa hè quanh khu vực trở thành không gian đi bộ; dòng người băng ngang ở các đoạn trước cổng tăng mạnh. Quy tắc an toàn khi chạy qua các đoạn này là giảm tốc sớm, không bấm còi trong khu đông người, và ưu tiên nhường người đi bộ tại các điểm băng qua tự phát. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Lưu ý chạy xe gần Văn Miếu - Quốc Tử Giám: một chiều và nút giao
 
@@ -30,7 +30,7 @@ Về điểm đỗ tạm: trước cổng chính thường có luồng xe taxi v
 
 Bãi gửi xe quanh cổng chính hoạt động theo giờ mở cửa của khu di tích; ngoài ra các đoạn phố lân cận có dịch vụ giữ xe của dân cư, mở rộng hơn về khung giờ. Khi gửi xe máy thuê, nên khóa cả khóa cổ lẫn khóa từ nếu xe có, và chụp lại vị trí cùng biển số để đối chiếu khi lấy. Mũ bảo hiểm nên cất vào cốp hoặc mang theo; mũ để lại trên xe có thể bị bỏ quên lúc vội, và với xe thuê, thiếu mũ khi lưu thông là lỗi của người điều khiển.
 
-Ngoài ra, nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì các dãy nhà quanh khu vực trông khá giống nhau và cuối buổi tham quan dễ đi tìm nhầm hướng. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/blog/du-lich/) và trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Ngoài ra, nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì các dãy nhà quanh khu vực trông khá giống nhau và cuối buổi tham quan dễ đi tìm nhầm hướng. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/du-lich/) và trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Mùa mưa và chạng vạng: hai lúc cần thêm cẩn trọng
 
@@ -40,9 +40,9 @@ Cuối tuần, một phần dòng khách chuyển sang đi bộ, nên các nút 
 
 ## Tốc độ và cách ứng xử trong khu dân cư - di tích
 
-Quanh khu di tích, tốc độ hợp lý là đi bộ nhanh của dòng người: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông người. Không luồn lách giữa các xe đang dừng chờ trước cổng; đây là khu vực có nhiều trẻ em và người cao tuổi băng đường. Khi trời mưa, mặt gạch và sỏi quanh khu vực trơn hơn mặt nhựa thường, nên giảm tốc và phanh sớm. Biển báo quanh khu vực được tóm tắt cách đọc trong bài [biển báo cấm xe máy thường gặp](/blog/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/).
+Quanh khu di tích, tốc độ hợp lý là đi bộ nhanh của dòng người: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông người. Không luồn lách giữa các xe đang dừng chờ trước cổng; đây là khu vực có nhiều trẻ em và người cao tuổi băng đường. Khi trời mưa, mặt gạch và sỏi quanh khu vực trơn hơn mặt nhựa thường, nên giảm tốc và phanh sớm. Biển báo quanh khu vực được tóm tắt cách đọc trong bài [biển báo cấm xe máy thường gặp](/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/).
 
-Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về chạy xe quanh Văn Miếu
 

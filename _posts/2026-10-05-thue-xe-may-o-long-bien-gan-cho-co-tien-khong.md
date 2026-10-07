@@ -16,7 +16,7 @@ writer: W1
 
 Khu chợ Long Biên buổi nào cũng nhộn nhịp: người mua bán ra vào, xe chở hàng dọc lề, người bán buôn chất kiện từ sớm tới trưa. Nếu bạn đang cân nhắc thuê xe máy Long Biên gần chợ cho một ngày đi chơi hay cho cả tuần đi làm, câu hỏi tiện hay không phụ thuộc vào ba thứ: bạn ở gần khu này bao xa, bạn cần đi đâu trong ngày, và bạn lui tới nhận trả xe vào khung giờ nào. Bài này đánh giá cụ thể từng khía cạnh để bạn tự quyết cho hợp với hoàn cảnh của mình.
 
-Nhóm bài tổng quan về [thuê xe](/blog/thue-xe/) trả lời các tình huống thuê phổ biến; nếu bạn chỉ cần một chiếc trong ngày, đọc thêm phần [thuê xe trong ngày](/blog/thue-xe/thue-ngay/); cách nhận và trả xe chuẩn nằm ở [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/); còn cách hiểu các loại giá nằm trong bài về [giá thuê](/blog/thue-xe/gia-thue/).
+Nhóm bài tổng quan về [thuê xe](/thue-xe/) trả lời các tình huống thuê phổ biến; nếu bạn chỉ cần một chiếc trong ngày, đọc thêm phần [thuê xe trong ngày](/thue-xe/thue-ngay/); cách nhận và trả xe chuẩn nằm ở [nhận và trả xe](/thue-xe/nhan-tra-xe/); còn cách hiểu các loại giá nằm trong bài về [giá thuê](/thue-xe/gia-thue/).
 
 ## Thuê xe khu Long Biên gần chợ tiện ở những điểm nào
 

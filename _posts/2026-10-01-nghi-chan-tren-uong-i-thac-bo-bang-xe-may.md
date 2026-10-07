@@ -45,12 +45,12 @@ Nước uống nên mang dư chút. Tiếng nước và đoạn đi bộ quanh t
 
 Ở chặng quốc lộ, chỗ đỗ quán thường rộng nhưng sát mép đường, nên đỗ trong vạch, nghiêng đầu xe ra hướng dễ đẩy ra, và không chắn lối ra vào của quán. Một chú ý nhỏ ở cung này: xe tải qua quốc lộ sáu chạy nhanh và sát mép, mở cửa hay bước xuống xe cần nhìn trước sau mỗi lần, kể cả lúc đứng đỗ trong sân quán.
 
-Ở khu chân thác, bãi đỗ nhiều khi là nền đất nén trên mép dốc. Chống chắc, nghiêng xe về phía dốc, thử đẩy nhẹ một cái, và đỗ xa mép sụt. Đồ trên yên nên mang theo hoặc bọc kín trong cốp nếu có, vì quanh thác người đi lại nhiều, và túi áo để trên yên luôn là thứ gây chú ý nhất. Nguyên tắc gói đồ trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), nên xem trước chuyến.
+Ở khu chân thác, bãi đỗ nhiều khi là nền đất nén trên mép dốc. Chống chắc, nghiêng xe về phía dốc, thử đẩy nhẹ một cái, và đỗ xa mép sụt. Đồ trên yên nên mang theo hoặc bọc kín trong cốp nếu có, vì quanh thác người đi lại nhiều, và túi áo để trên yên luôn là thứ gây chú ý nhất. Nguyên tắc gói đồ trên yên xe máy được viết riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), nên xem trước chuyến.
 
-Với xe máy thuê, giấy tờ luôn mang theo người khi rời xe. Người trông xe có thể hỏi, và phần đường về có chốt kiểm tra định kỳ trên quốc lộ sáu. Các quy định khi chạy đường trường được gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ cho cung này.
+Với xe máy thuê, giấy tờ luôn mang theo người khi rời xe. Người trông xe có thể hỏi, và phần đường về có chốt kiểm tra định kỳ trên quốc lộ sáu. Các quy định khi chạy đường trường được gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), một lượt đọc là đủ cho cung này.
 
 ## Vài việc nên làm trước khi lên đường
 
-Xem dự báo thời tiết là việc đáng nhất, vì thác đẹp nhất sau mưa nhưng đường về thác cũng trơn nhất sau mưa. Cách đọc dự báo và xử lý đường sá từng mùa nằm trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), hợp với người đi kiểu bốc đồng. Nếu dự báo nắng to, đi sớm hơn dự kiến để hoàn tất phần chụp ảnh trước trưa.
+Xem dự báo thời tiết là việc đáng nhất, vì thác đẹp nhất sau mưa nhưng đường về thác cũng trơn nhất sau mưa. Cách đọc dự báo và xử lý đường sá từng mùa nằm trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), hợp với người đi kiểu bốc đồng. Nếu dự báo nắng to, đi sớm hơn dự kiến để hoàn tất phần chụp ảnh trước trưa.
 
-Thác Bồ ghép được vào chuỗi các cung Hòa Bình, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm theo lịch một ngày hoặc hai ngày. Nghỉ chân đường đi Thác Bồ tuy chỉ là vài mốc nhỏ, nhưng đặt đúng chỗ thì tay lái tỉnh tới nơi, và cả chuyến đi giữ được nhịp dễ chịu từ đầu tới cuối.
+Thác Bồ ghép được vào chuỗi các cung Hòa Bình, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm theo lịch một ngày hoặc hai ngày. Nghỉ chân đường đi Thác Bồ tuy chỉ là vài mốc nhỏ, nhưng đặt đúng chỗ thì tay lái tỉnh tới nơi, và cả chuyến đi giữ được nhịp dễ chịu từ đầu tới cuối.

@@ -48,6 +48,6 @@ Trời mưa chiều thì đảo mốc: nghỉ lâu hơn ở mốc hai cho mưa q
 
 Ai về muộn có thể ghép bữa tối muộn tại mốc hai: quán vùng huyện buổi tối ít hàng hơn sáng, nhưng vẫn đủ món nóng cho một đoàn mệt ngồi kể chuyện thác suối trước quãng đường trường về nhà.
 
-Muốn đọc các tuyến cuối tuần khác cùng kiểu chia nghỉ, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi cung. Người mới chạy cung xa lần đầu nên lướt mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường.
+Muốn đọc các tuyến cuối tuần khác cùng kiểu chia nghỉ, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; lưu ý thời tiết đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi cung. Người mới chạy cung xa lần đầu nên lướt mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường.
 
 Cung Thác Đà chia ba mốc nghỉ mà về trọn: quán nước mở đầu, bún huyện giữa chừng, và suối trắng kết thúc. Nghỉ đúng chỗ, phần đường còn lại tự nhiên nhẹ — đó là cách đơn giản nhất để chuyến thác hướng tây đáng nhớ.

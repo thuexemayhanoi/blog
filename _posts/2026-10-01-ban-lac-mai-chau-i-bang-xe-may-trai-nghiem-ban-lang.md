@@ -49,8 +49,8 @@ Về đêm, một số nhà tổ chức múa xòe cho khách, kiểu nhảy vòn
 
 ## Chuẩn bị trước khi lên đường
 
-Chuyến đi bản Lác nên tính hai ngày một đêm, và phần chuẩn bị xe lớn nhất nằm ở khúc đèo. Kiểm tra lốp, phanh, đèn đủ dùng, mang áo gió vì đèo về đêm lạnh nhanh, và áo mưa gấp cho buổi chiều vùng núi. Người đi bằng xe máy thuê nên nói rõ với cửa hàng chuyến đi Mai Châu hai ngày, phần tư vấn chọn xe nằm trong bài [chọn loại xe](/blog/xe-may/chon-loai-xe/), và thông tin dịch vụ ở trang [cho thuê xe máy](/blog/thue-xe/).
+Chuyến đi bản Lác nên tính hai ngày một đêm, và phần chuẩn bị xe lớn nhất nằm ở khúc đèo. Kiểm tra lốp, phanh, đèn đủ dùng, mang áo gió vì đèo về đêm lạnh nhanh, và áo mưa gấp cho buổi chiều vùng núi. Người đi bằng xe máy thuê nên nói rõ với cửa hàng chuyến đi Mai Châu hai ngày, phần tư vấn chọn xe nằm trong bài [chọn loại xe](/xe-may/chon-loai-xe/), và thông tin dịch vụ ở trang [cho thuê xe máy](/thue-xe/).
 
-Đồ cá nhân nên gọn: giày đi bộ, thuốc cá nhân, ít tiền lẻ, và túi đựng rác mang về. Bàn tay giữ bản đẹp là trách nhiệm của người đến, kể cả chỉ là bó rau rừng mua thêm mang về. Cách xếp đồ trên yên cho chuyến hai ngày được viết trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/).
+Đồ cá nhân nên gọn: giày đi bộ, thuốc cá nhân, ít tiền lẻ, và túi đựng rác mang về. Bàn tay giữ bản đẹp là trách nhiệm của người đến, kể cả chỉ là bó rau rừng mua thêm mang về. Cách xếp đồ trên yên cho chuyến hai ngày được viết trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/).
 
-Nếu bạn cần đọc tổng quan cung đường từ Hà Nội lên Mai Châu, mốc chuẩn bị và các lưu ý đèo, nhóm bài [Mai Châu](/blog/cung-duong/mai-chau/) gói đủ những gì cần biết trước khi nổ máy. Trải nghiệm bản làng ở Bản Lác không nằm ở các điểm tham quan, nó nằm ở nhịp sống bạn hòa vào được bao lâu trong một đêm.
+Nếu bạn cần đọc tổng quan cung đường từ Hà Nội lên Mai Châu, mốc chuẩn bị và các lưu ý đèo, nhóm bài [Mai Châu](/cung-duong/mai-chau/) gói đủ những gì cần biết trước khi nổ máy. Trải nghiệm bản làng ở Bản Lác không nằm ở các điểm tham quan, nó nằm ở nhịp sống bạn hòa vào được bao lâu trong một đêm.

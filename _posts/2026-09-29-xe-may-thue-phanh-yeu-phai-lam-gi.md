@@ -37,7 +37,7 @@ Séc xi phanh là chi tiết điều chỉnh độ căng của dây phanh cơ �
 
 Ngoài séc xi, các nguyên nhân khác gồm má phanh mòn, dầu phanh giảm hoặc hút ẩm sau thời gian dài, đĩa phanh cong vì nóng, hoặc bề mặt phanh dính dầu mỡ từ việc siết chuỗi gần đó. Mỗi nguyên nhân có cách khắc phục khác nhau, và chỉ người kiểm tra trực tiếp mới kết luận chính xác. Vì thế, khi mô tả với cửa hàng, bạn kể đúng cảm giác khi phanh thay vì đoán sẵn nguyên nhân, điều này giúp họ tư vấn sát thực tế hơn.
 
-Nếu cửa hàng yêu cầu bạn mang xe tới kiểm tra, hãy chọn khung giờ đường thông thoáng và đi chậm, bám làn bên phải. Với các dòng xe thuê tại Hà Nội, thông tin về lịch bảo dưỡng định kỳ nằm trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/) để bạn hiểu vì sao xe được giữ gìn kỹ sẽ ít gặp trục trặc hơn. Còn các tình huống sự cố khác khi thuê xe đã được tổng hợp trong trang [xử lý sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Nếu cửa hàng yêu cầu bạn mang xe tới kiểm tra, hãy chọn khung giờ đường thông thoáng và đi chậm, bám làn bên phải. Với các dòng xe thuê tại Hà Nội, thông tin về lịch bảo dưỡng định kỳ nằm trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/) để bạn hiểu vì sao xe được giữ gìn kỹ sẽ ít gặp trục trặc hơn. Còn các tình huống sự cố khác khi thuê xe đã được tổng hợp trong trang [xử lý sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Cách giảm rủi ro phanh yếu khi thuê xe máy
 
@@ -45,4 +45,4 @@ Ngay khi nhận xe, hãy thử phanh trước và sau ngay tại chỗ trước 
 
 Trong quá trình sử dụng, tránh rửa xe bằng vòi xịt áp lực mạnh trực tiếp vào cụm phanh, vì nước áp lực cao đẩy dầu mỡ vào mặt má phanh làm giảm ma sát. Tránh phanh liên tục trên dốc dài bằng phanh trước, nên phối hợp nhả ga và phanh sau để đỡ nóng, vì đĩa phanh quá nóng sẽ yếu tạm thời dù xe vẫn tốt.
 
-Cuối cùng, nếu bạn đi xe thuê trong điều kiện mưa hoặc ngập nhiều, hãy để xe nghỉ vài phút sau khi qua đoạn ướt rồi thử phanh nhẹ vài lần cho khô bề mặt trước khi tăng tốc. Các câu hỏi tình huống tương tự được cập nhật thường xuyên trong mục [hỏi đáp thuê xe máy](/blog/hoi-dap/), nơi bạn có thể tìm nhanh cách xử lý cho hầu hết các trục trặc thường gặp của xe máy khi di chuyển trong thành phố.
+Cuối cùng, nếu bạn đi xe thuê trong điều kiện mưa hoặc ngập nhiều, hãy để xe nghỉ vài phút sau khi qua đoạn ướt rồi thử phanh nhẹ vài lần cho khô bề mặt trước khi tăng tốc. Các câu hỏi tình huống tương tự được cập nhật thường xuyên trong mục [hỏi đáp thuê xe máy](/hoi-dap/), nơi bạn có thể tìm nhanh cách xử lý cho hầu hết các trục trặc thường gặp của xe máy khi di chuyển trong thành phố.

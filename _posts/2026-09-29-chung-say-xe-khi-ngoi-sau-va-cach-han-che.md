@@ -28,11 +28,11 @@ Vì vậy, tư thế đúng của người ngồi sau là: đầu hướng thẳ
 
 ## Chuẩn bị trước chuyến đi
 
-Trước chuyến đi, bạn nên ngủ đủ giấc, ăn nhẹ chứ không ăn no, và tránh đọc lướt điện thoại ngay trước khi lên xe. Một mẹo dân gian phổ biến là nhai một lát gừng tươi hoặc uống nước gừng ấm trước khi khởi hành, nhiều người thấy dễ chịu hơn nhờ vậy. Việc chọn [đồ bảo hộ](/blog/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/) thoáng mát cũng giúp vùng cổ bớt ngột khi trời nóng.
+Trước chuyến đi, bạn nên ngủ đủ giấc, ăn nhẹ chứ không ăn no, và tránh đọc lướt điện thoại ngay trước khi lên xe. Một mẹo dân gian phổ biến là nhai một lát gừng tươi hoặc uống nước gừng ấm trước khi khởi hành, nhiều người thấy dễ chịu hơn nhờ vậy. Việc chọn [đồ bảo hộ](/chia%20s%E1%BA%BB/2026/09/18/do-bao-ho-khi-di-xe-may/) thoáng mát cũng giúp vùng cổ bớt ngột khi trời nóng.
 
 Thời điểm khởi hành cũng đáng để chọn: đi ngay sau bữa no hoặc giữa trưa nắng gắt đều khiến say xe dễ tới hơn. Buổi sáng sau bữa nhẹ thường là khung giờ dễ chịu nhất cho người hay say xe, vừa khí trời mát vừa bụng nhẹ. Nếu chuyến đi buộc phải vào khung giờ khó chịu, bạn nên chuẩn bị kỹ hơn ở các việc còn lại, từ giấc ngủ hôm trước tới việc nghỉ giữa đường.
 
-Với chuyến đi xa, bạn nên chủ động hỏi người lái nghỉ theo nhịp, vì người ngồi sau mệt nhanh hơn người lái mà ít khi dám lên tiếng. Các mốc nghỉ kiểu này cũng tốt cho cả người lái, nên không có gì phải ngại khi đề nghị dừng. Bạn có thể tham khảo phần nhịp nghỉ trong bài [an toàn khi chạy xe đường trường](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/) để thống nhất trước với người cầm lái.
+Với chuyến đi xa, bạn nên chủ động hỏi người lái nghỉ theo nhịp, vì người ngồi sau mệt nhanh hơn người lái mà ít khi dám lên tiếng. Các mốc nghỉ kiểu này cũng tốt cho cả người lái, nên không có gì phải ngại khi đề nghị dừng. Bạn có thể tham khảo phần nhịp nghỉ trong bài [an toàn khi chạy xe đường trường](/kinh%20nghi%E1%BB%87m/2026/09/18/an-toan-khi-chay-xe-duong-truong/) để thống nhất trước với người cầm lái.
 
 ## Tư thế và mẹo khi đang ngồi sau
 
@@ -48,6 +48,6 @@ Sau khi tới nơi, người hay say xe nên nghỉ chừng mười lăm phút t
 
 Lưu ý cuối cùng: nội dung về say xe trong bài mang tính tham khảo, không thay thế chẩn đoán. Tình trạng của mỗi người có thể thay đổi theo sức khỏe và độ tuổi, nếu say xe kéo dài hoặc kèm triệu chứng bất thường, bạn nên hỏi ý kiến nhân viên y tế và đối chiếu hướng dẫn chính thức tại trang của Bộ Y tế ([moh.gov.vn](https://moh.gov.vn/)).
 
-Tóm lại, say xe khi ngồi sau xe máy xử lý được bằng ba việc: chuẩn bị trước chuyến đi, ngồi đúng tư thế nhìn thẳng phía trước, và chủ động nghỉ đúng nhịp. Các vấn đề sức khỏe khi di chuyển khác đã được gom trong nhóm [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/) cho bạn tham khảo trước mỗi chuyến.
+Tóm lại, say xe khi ngồi sau xe máy xử lý được bằng ba việc: chuẩn bị trước chuyến đi, ngồi đúng tư thế nhìn thẳng phía trước, và chủ động nghỉ đúng nhịp. Các vấn đề sức khỏe khi di chuyển khác đã được gom trong nhóm [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/) cho bạn tham khảo trước mỗi chuyến.
 
- Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/).
+ Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/).

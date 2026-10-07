@@ -45,14 +45,14 @@ Khung tối muộn, đèn ven hồ sáng nhưng các ngõ ra vào lại tối h�
 
 ## Gửi xe quanh hồ: nhỏ mà cần đúng chỗ
 
-Bãi quanh hồ không thiếu, nhưng phân bố không đều: gần cổng công viên nhanh đầy, các bãi trong ngõ sâu hơn luôn có chỗ. Với người chỉ dạo vòng hồ, chọn bãi gần cổng để ra vào gọn; với người định ghé thêm phố cà phê, chọn bãi giữa hai điểm. Chi tiết chọn bãi giữ xe an toàn đã tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/). Điều đáng tránh nhất quanh khu là dựng xe tạm trên vỉa hè ven hồ: vỉa hè quanh hồ là phần người đi bộ chính, một xe dựng lệch đã đủ gây tắc dòng người cuối tuần.
+Bãi quanh hồ không thiếu, nhưng phân bố không đều: gần cổng công viên nhanh đầy, các bãi trong ngõ sâu hơn luôn có chỗ. Với người chỉ dạo vòng hồ, chọn bãi gần cổng để ra vào gọn; với người định ghé thêm phố cà phê, chọn bãi giữa hai điểm. Chi tiết chọn bãi giữ xe an toàn đã tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/). Điều đáng tránh nhất quanh khu là dựng xe tạm trên vỉa hè ven hồ: vỉa hè quanh hồ là phần người đi bộ chính, một xe dựng lệch đã đủ gây tắc dòng người cuối tuần.
 
 Vé gửi quanh khu đa số là vé giấy nhỏ, dễ rơi khi để cùng chìa khóa, nên cất riêng ngay khi nhận. Chụp lại ký hiệu bãi và lối ra vào cũng đáng làm ở các bãi trong ngõ, vì giữa các ngõ quanh hồ dễ giống nhau với người lạ, và phần tìm lại bãi giữa buổi tối tốn hơn dự tính.
 
 ## Với người lần đầu chạy khu này
 
-Người lần đầu dễ đánh giá nhầm khu hồ là đường thoáng nên đi được nhanh. Thực tế, mọi va chạm quanh khu đều xảy ra ở tốc độ thấp và tại các mép ra vào, không phải giữa đường. Ba thói quen giữ được thì quãng quanh hồ gần như không còn rủi ro: chậm sẵn khi thấy lối ra vào, nhường người băng đường theo mặc định, và không đỗ xe che cửa ngõ. Các kỹ năng xử lý tình huống giao thông trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/blog/ky-nang/tinh-huong-giao-thong/).
+Người lần đầu dễ đánh giá nhầm khu hồ là đường thoáng nên đi được nhanh. Thực tế, mọi va chạm quanh khu đều xảy ra ở tốc độ thấp và tại các mép ra vào, không phải giữa đường. Ba thói quen giữ được thì quãng quanh hồ gần như không còn rủi ro: chậm sẵn khi thấy lối ra vào, nhường người băng đường theo mặc định, và không đỗ xe che cửa ngõ. Các kỹ năng xử lý tình huống giao thông trong khu đông được tổng hợp trong bài [tình huống giao thông thường gặp](/ky-nang/tinh-huong-giao-thong/).
 
 Với người chạy xe điện hoặc xe côn tay, lưu ý thêm: xe điện êm nên người đi bộ ít nhận ra từ phía sau, cần bấm chuông nhẹ từ xa thay vì tới gần mới ra tín hiệu; xe côn tay nặng hơn ở đoạn dừng nhịp liên tục quanh các lối ra vào, về số thấp sẵn để đỡ mỏi tay côn.
 
-Tóm lại, chạy xe quanh Hồ Thiền Quang là bài toán về tốc độ và sự chú ý, không phải về tay lái. Chậm ở lối ra vào, rộng rãi với người đi bộ, và gửi xe đúng bãi, ba điều đó cho quãng hồ luôn êm ru. Ghép thêm điểm quanh khu, xem danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/).
+Tóm lại, chạy xe quanh Hồ Thiền Quang là bài toán về tốc độ và sự chú ý, không phải về tay lái. Chậm ở lối ra vào, rộng rãi với người đi bộ, và gửi xe đúng bãi, ba điều đó cho quãng hồ luôn êm ru. Ghép thêm điểm quanh khu, xem danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/).

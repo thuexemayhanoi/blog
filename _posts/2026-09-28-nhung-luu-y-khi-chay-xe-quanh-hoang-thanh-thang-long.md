@@ -24,13 +24,13 @@ Ngày lễ, một phần các trục quanh khu vực bị tổ chức lại lu�
 
 Vài tuyến quanh khu di tích là đường một chiều hoặc hẹp, điển hình là các đoạn nối từ các trục lớn vào phố Hoàng Diệu. Cách xử lý an toàn cho người không thuộc khu vực: bám theo dòng xe của người địa phương, đi chậm khi vào đoạn lạ, và không quay đầu giữa đoạn phố có tường di tích hai bên. Ứng dụng bản đồ giúp tìm đúng tuyến cho phép xe máy, nhưng hãy chọn chế độ phương tiện là xe máy rồi dò lại lộ trình trước khi lăn bánh.
 
-Về điểm đỗ tạm: đoạn trước cổng chính không có chỗ dừng chờ, và dòng xe sau dễ ép nếu dừng bất chấp. Cách gọn nhất vẫn là dựng xe ở khu gửi gần cổng rồi đi bộ lại, vừa an toàn cho xe, vừa không cản luồng của phố Hoàng Diệu. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Về điểm đỗ tạm: đoạn trước cổng chính không có chỗ dừng chờ, và dòng xe sau dễ ép nếu dừng bất chấp. Cách gọn nhất vẫn là dựng xe ở khu gửi gần cổng rồi đi bộ lại, vừa an toàn cho xe, vừa không cản luồng của phố Hoàng Diệu. Tình huống giao thông đặc thù của phố đông được phân tích thêm trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Gửi xe và giữ xe máy thuê
 
 Khu gửi xe gần cổng chính trên phố Hoàng Diệu mở theo giờ của khu di tích; ngoài ra các tuyến lân cận có bãi gửi của dân cư, mở rộng hơn về khung giờ. Khi gửi xe máy thuê, nên khóa cả khóa cổ lẫn khóa từ nếu xe có, cất mũ vào cốp, và chụp lại vị trí cùng biển số để đối chiếu khi lấy. Cuối tuần bãi dễ kín chỗ từ giữa buổi sáng, nên càng đi sớm càng chủ động.
 
-Nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì các dãy nhà quanh khu vực trông khá giống nhau và cuối buổi tham quan dễ đi tìm nhầm hướng. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/blog/du-lich/) và trang [kinh nghiệm đi xe máy](/blog/kinh-nghiem/).
+Nên nhớ vị trí gửi xe theo một mốc cố định như góc phố hoặc biển hiệu gần đó, vì các dãy nhà quanh khu vực trông khá giống nhau và cuối buổi tham quan dễ đi tìm nhầm hướng. Kinh nghiệm gửi xe ở các khu trung tâm khác được nêu tại trang [du lịch Hà Nội](/du-lich/) và trang [kinh nghiệm đi xe máy](/kinh-nghiem/).
 
 ## Mùa mưa và chạng vạng: hai lúc cần thêm cẩn trọng
 
@@ -42,9 +42,9 @@ Cuối cùng là chuyện đường về: các trục lớn mang hướng Long B
 
 ## Tốc độ và cách ứng xử trong vùng di tích
 
-Quanh khu di tích, tốc độ hợp lý là đi bộ nhanh của dòng người: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông người. Không luồn lách giữa các xe đang dừng chờ trước cổng; đây là khu vực có nhiều khách tham quan theo đoàn, trẻ em và người cao tuổi băng đường không theo điểm cố định. Biển báo quanh khu vực được tóm tắt cách đọc trong trang tổng quan về [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/).
+Quanh khu di tích, tốc độ hợp lý là đi bộ nhanh của dòng người: chậm, đều, và luôn giữ khoảng cách với vỉa hè đông người. Không luồn lách giữa các xe đang dừng chờ trước cổng; đây là khu vực có nhiều khách tham quan theo đoàn, trẻ em và người cao tuổi băng đường không theo điểm cố định. Biển báo quanh khu vực được tóm tắt cách đọc trong trang tổng quan về [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/).
 
-Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu định ghép các điểm khác trong cùng ngày, khung tổng quan cho khu vực trung tâm có tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kết luận về chạy xe quanh Hoàng thành
 

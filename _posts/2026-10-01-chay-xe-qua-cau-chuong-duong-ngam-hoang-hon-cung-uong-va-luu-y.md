@@ -35,16 +35,16 @@ Lưu ý đặc biệt của cầu này: nhịp cầu có làn riêng cho xe máy
 
 Khung tan tầm là khung đẹp nhưng cũng đông nhất: dòng xe máy dày trên làn hẹp, nhiều người vừa chạy vừa cầm điện thoại chụp ảnh, đây là thói quen phải tránh tuyệt đối. Muốn chụp trên cầu, nhờ người cầm lái chạy tới điểm dừng an toàn ở hai đầu, còn người ngồi sau ghi hình; không bao giờ dừng giữa nhịp cầu. Giữ khoảng cách với xe phía trước, không vượt phải trong làn hẹp, và bật đèn ngay khi trời ngả tối dù nắng còn.
 
-Tình huống giao thông hay gặp quanh khu hai đầu cầu — ngã tư không đèn, xe rẽ bất ngờ, vỉa hè thu hẹp — được gom trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/), đáng đọc trước khi chạy cung này vào khung đông. Với người còn bỡ ngỡ, chọn một buổi cuối tuần sớm tối, khi cầu vắng hơn hẳn giờ làm việc.
+Tình huống giao thông hay gặp quanh khu hai đầu cầu — ngã tư không đèn, xe rẽ bất ngờ, vỉa hè thu hẹp — được gom trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/), đáng đọc trước khi chạy cung này vào khung đông. Với người còn bỡ ngỡ, chọn một buổi cuối tuần sớm tối, khi cầu vắng hơn hẳn giờ làm việc.
 
 ## Ghép lịch quanh hai bờ
 
-Một buổi chiều như vậy ghép liền với dạo bờ sông phía Long Biên hoặc ăn tối quanh khu bờ bắc; nhóm đi dậy sớm thì ngược lại: trải nghiệm chợ đầu mối sáng sớm dưới gầm cầu Long Biên được gom trong bài [chợ đầu mối Long Biên sáng sớm](/blog/du-lich/2026/10/01/sang-som-o-cho-au-moi-long-bien-i-xe-may-va-gui-xe/), rồi dành buổi chiều cho cung hoàng hôn này. Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/).
+Một buổi chiều như vậy ghép liền với dạo bờ sông phía Long Biên hoặc ăn tối quanh khu bờ bắc; nhóm đi dậy sớm thì ngược lại: trải nghiệm chợ đầu mối sáng sớm dưới gầm cầu Long Biên được gom trong bài [chợ đầu mối Long Biên sáng sớm](/du-lich/2026/10/01/sang-som-o-cho-au-moi-long-bien-i-xe-may-va-gui-xe/), rồi dành buổi chiều cho cung hoàng hôn này. Thêm nhiều gợi ý buổi đi quanh Hà Nội nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
-Đừng nhồi thêm điểm thứ ba vào cùng buổi: về đúng lúc bụng đói, ghé ăn quanh khu bờ rồi kết thúc buổi, giữ sức cho các chặng sau. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Đừng nhồi thêm điểm thứ ba vào cùng buổi: về đúng lúc bụng đói, ghé ăn quanh khu bờ rồi kết thúc buổi, giữ sức cho các chặng sau. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 
 Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì làn xe máy hẹp cần xe ăn phanh tốt, và gió sông lên cầu có lúc mạnh bất ngờ với người mới chạy. Tra trước thời tiết buổi mình đi: mưa làm mặt cầu ẩm trơn, sương mùa thu giảm tầm nhìn, còn những hôm nắng gắt thì cầu nóng rực nên mặt cầu nóng lên nhanh, chọn khung muộn mát hơn. Mang theo áo mưa gấp và sạc sẵn pin điện thoại cho bản đồ đường về.
 
-Cuối cùng, chạy đúng tốc độ quy định trên cầu, nhường đường ở các nút giảm tốc hai đầu, và canh giờ về trước khi đêm khuya nếu bạn quen ngủ sớm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.
+Cuối cùng, chạy đúng tốc độ quy định trên cầu, nhường đường ở các nút giảm tốc hai đầu, và canh giờ về trước khi đêm khuya nếu bạn quen ngủ sớm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.

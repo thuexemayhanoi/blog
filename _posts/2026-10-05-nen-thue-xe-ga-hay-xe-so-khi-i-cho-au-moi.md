@@ -48,4 +48,4 @@ Với nhu cầu đi chợ đều đặn mỗi tuần, thuê theo tuần hoặc t
 
 Còn về chi phí xăng: đi chợ quanh quẩn nội thành, cả hai loại xe tiêu hao gần như tương đương cho cùng quãng đường; khác biệt chỉ xuất hiện khi chở nặng — xe số kéo số thấp tốn hơn chút, xe ga ga sâu hơn thường. Bài toán xăng vì thế không phải lý do chọn; lý do chọn vẫn nằm ở cốp hay sàn, ở nhẹ hay nặng, và ở khe đỗ quen của bạn.
 
-Các câu hỏi chọn xe theo nhu cầu khác được gom trong trang [hỏi đáp chọn xe](/blog/hoi-dap/hoi-dap-chon-xe/), phần sự cố thường gặp khi thuê trong [hỏi đáp sự cố](/blog/hoi-dap/hoi-dap-su-co/), và tổng quan các câu hỏi về thuê xe máy tại trang [hỏi đáp](/blog/hoi-dap/).
+Các câu hỏi chọn xe theo nhu cầu khác được gom trong trang [hỏi đáp chọn xe](/hoi-dap/hoi-dap-chon-xe/), phần sự cố thường gặp khi thuê trong [hỏi đáp sự cố](/hoi-dap/hoi-dap-su-co/), và tổng quan các câu hỏi về thuê xe máy tại trang [hỏi đáp](/hoi-dap/).

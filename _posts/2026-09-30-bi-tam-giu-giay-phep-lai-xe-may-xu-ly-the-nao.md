@@ -23,7 +23,7 @@ Theo văn bản hiện hành về xử phạt vi phạm giao thông đường b�
 
 ## Quy trình tạm giữ diễn ra thế nào
 
-Trình tự thông thường gồm bốn việc. Người ra quyết định lập biên bản vi phạm hành chính, ghi rõ hành vi, mức xử phạt và thời hạn tạm giữ giấy phép. Bạn đọc lại biên bản, ký xác nhận, và nhận một bản. Giấy phép lái được tạm giữ kèm quyết định ghi rõ thời hạn trả lại. Khi hết thời hạn và hoàn tất nghĩa vụ, bạn mang biên bản và giấy tờ tùy thân đến nơi ghi trong quyết định để nhận lại. Kỹ năng làm việc với biên bản cũng là phần được nói trong chủ đề [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
+Trình tự thông thường gồm bốn việc. Người ra quyết định lập biên bản vi phạm hành chính, ghi rõ hành vi, mức xử phạt và thời hạn tạm giữ giấy phép. Bạn đọc lại biên bản, ký xác nhận, và nhận một bản. Giấy phép lái được tạm giữ kèm quyết định ghi rõ thời hạn trả lại. Khi hết thời hạn và hoàn tất nghĩa vụ, bạn mang biên bản và giấy tờ tùy thân đến nơi ghi trong quyết định để nhận lại. Kỹ năng làm việc với biên bản cũng là phần được nói trong chủ đề [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/).
 
 Thời hạn tạm giữ thường được ghi rõ trong quyết định, và giấy phép được trả lại khi các nghĩa vụ hoàn tất. Nếu đến hạn mà chưa nhận được, cách làm là liên hệ trực tiếp đơn vị đã ra quyết định bằng thông tin ghi trên biên bản, và mang theo đầy đủ giấy tờ gốc. Tránh nhờ người khác nhận hộ nếu quyết định không cho phép, vì việc này dễ tạo thêm thủ tục không cần thiết.
 
@@ -31,7 +31,7 @@ Với khách quốc tế, biên bản thường được lập bằng tiếng Vi
 
 ## Xử lý sau khi bị tạm giữ bằng lái xe máy
 
-Bước một, xác định nghĩa vụ ghi trong biên bản: phần lớn là nộp phạt tiền, và hiện nay có thể nộp online qua cổng dịch vụ công hoặc trực tiếp tại kho bạc, tùy địa phương. Bước hai, giữ mọi giấy xác nhận nộp phạt. Bước ba, đến nhận lại giấy phép đúng nơi và thời hạn đã ghi, mang theo biên bản gốc và giấy tờ tùy thân. Các cách nộp phạt từ xa, kể cả phạt nguội, được hướng dẫn trong chủ đề [phạt nguội](/blog/an-toan-phap-ly/phat-nguoi/). Cần lưu ý rằng khung xử phạt và thủ tục có thể thay đổi theo từng văn bản pháp luật, nên hãy đối chiếu thông tin với nguồn chính thức trước khi thực hiện.
+Bước một, xác định nghĩa vụ ghi trong biên bản: phần lớn là nộp phạt tiền, và hiện nay có thể nộp online qua cổng dịch vụ công hoặc trực tiếp tại kho bạc, tùy địa phương. Bước hai, giữ mọi giấy xác nhận nộp phạt. Bước ba, đến nhận lại giấy phép đúng nơi và thời hạn đã ghi, mang theo biên bản gốc và giấy tờ tùy thân. Các cách nộp phạt từ xa, kể cả phạt nguội, được hướng dẫn trong chủ đề [phạt nguội](/an-toan-phap-ly/phat-nguoi/). Cần lưu ý rằng khung xử phạt và thủ tục có thể thay đổi theo từng văn bản pháp luật, nên hãy đối chiếu thông tin với nguồn chính thức trước khi thực hiện.
 
 Về nguồn thông tin, nên đọc trực tiếp các thông báo trên trang chính thức thay vì tin các bản tóm tắt trên mạng xã hội, vì khung xử phạt giữa các năm hay bị trích sai, và mỗi lần văn bản mới có hiệu lực thì lại có một loạt bảng giá lỗi cũ được chia lại. Với người đi xe thường xuyên, cách an toàn là đối chiếu thông tin mình cần ngay trước khi làm thủ tục, và lưu lại đường dẫn chính thức để lần sau không phải tìm lại.
 
@@ -39,8 +39,8 @@ Trong thời gian giấy phép bị tạm giữ, cách an toàn theo đúng quy 
 
 ## Đang đi xe thuê thì xử lý ra sao
 
-Người đang thuê xe máy nên làm thêm hai việc. Một, gọi ngay cho cửa hàng thuê xe để thông báo: hợp đồng thường có mục về nghĩa vụ báo cáo, và cửa hàng có kinh nghiệm xử lý các tình huống như vậy, kể cả phương án hỗ trợ phương tiện trong thời gian giấy phép bị giữ. Hai, chụp lại biên bản và gửi cho cửa hàng qua tin nhắn để hai bên cùng nắm thời hạn, tránh hiểu nhầm lúc trả xe. Phần [xử lý tình huống với xe thuê](/blog/thue-xe/su-co/) tổng hợp các tình huống tương tự cần báo cửa hàng.
+Người đang thuê xe máy nên làm thêm hai việc. Một, gọi ngay cho cửa hàng thuê xe để thông báo: hợp đồng thường có mục về nghĩa vụ báo cáo, và cửa hàng có kinh nghiệm xử lý các tình huống như vậy, kể cả phương án hỗ trợ phương tiện trong thời gian giấy phép bị giữ. Hai, chụp lại biên bản và gửi cho cửa hàng qua tin nhắn để hai bên cùng nắm thời hạn, tránh hiểu nhầm lúc trả xe. Phần [xử lý tình huống với xe thuê](/thue-xe/su-co/) tổng hợp các tình huống tương tự cần báo cửa hàng.
 
 Câu hỏi hay gặp: xe thuê bị ảnh hưởng thế nào. Xe không vi phạm thì không bị thu giữ, và nghĩa vụ của người thuê chủ yếu gắn với giấy tờ của người lái. Điều đáng làm là đọc lại mục trách nhiệm trong hợp đồng trước khi đi tiếp, vì mỗi cửa hàng có mức hỗ trợ khác nhau cho các tình huống pháp lý phát sinh giữa thời gian thuê, và việc báo sớm giúp hai bên nắm rõ vai trò từng bên thay vì để mọi việc dồn về cuối chu kỳ thuê.
 
-Tóm lại, bị tạm giữ bằng lái xe máy là một quy trình hành chính có văn bản rõ: biên bản, nghĩa vụ, thời hạn nhận lại. Điều đáng làm là giữ bình tĩnh, lưu lại mọi giấy tờ, và không tiếp tục lái trong thời gian tạm giữ. Với khách thuê xe, một cuộc gọi cho cửa hàng ngay sau buổi lập biên bản gần như luôn là bước có giá trị nhất, và trang chủ đề [an toàn pháp lý](/blog/an-toan-phap-ly/) luôn có sẵn các phần đọc kèm về giấy phép và xử phạt.
+Tóm lại, bị tạm giữ bằng lái xe máy là một quy trình hành chính có văn bản rõ: biên bản, nghĩa vụ, thời hạn nhận lại. Điều đáng làm là giữ bình tĩnh, lưu lại mọi giấy tờ, và không tiếp tục lái trong thời gian tạm giữ. Với khách thuê xe, một cuộc gọi cho cửa hàng ngay sau buổi lập biên bản gần như luôn là bước có giá trị nhất, và trang chủ đề [an toàn pháp lý](/an-toan-phap-ly/) luôn có sẵn các phần đọc kèm về giấy phép và xử phạt.

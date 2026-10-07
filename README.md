@@ -1,6 +1,6 @@
 # Blog Thuê Xe Máy Hà Nội Nguyễn Tú
 
-Jekyll/GitHub Pages. URL: https://thuexemayhanoi.github.io/blog/ · Base URL: `/blog` · Ngôn ngữ công khai: chỉ tiếng Việt. Website doanh nghiệp chính: https://thuexemaynguyentu.com/
+Jekyll/GitHub Pages. URL: https://blog.thuexemaynguyentu.com/ · Base URL: `/blog` · Ngôn ngữ công khai: chỉ tiếng Việt. Website doanh nghiệp chính: https://thuexemaynguyentu.com/
 
 Agent làm việc trong repo đọc `AGENTS.md` TRƯỚC. Tài liệu vận hành chuẩn nằm trong `docs/` (bản đồ tài liệu ở cuối file này); report sinh từ dữ liệu thật trong `reports/factory/`.
 
@@ -33,7 +33,7 @@ hất.
 
 ## Cấu trúc chính
 
-- `_posts/` — bài đã xuất bản (legacy giữ URL `/blog/YYYY/MM/DD/slug/` nguyên vĩnh viễn; bài mới phẳng, permalink theo taxonomy).
+- `_posts/` — bài đã xuất bản (legacy giữ URL `/YYYY/MM/DD/slug/` nguyên vĩnh viễn; bài mới phẳng, permalink theo taxonomy).
 - `_drafts/` — vùng nháp KHÔNG deploy; chỉ promote qua `scripts/factory/publish-gate.py`.
 - `thue-xe/`, `xe-may/`, `an-toan-phap-ly/`, `du-lich/`, `cung-duong/`, `ky-nang/`, `hoi-dap/` — trang hub cha/hub con.
 - `_data/` — cấu hình site + `factory-taxonomy.yml`, `factory-map.yml` (sinh tự động, không sửa tay).

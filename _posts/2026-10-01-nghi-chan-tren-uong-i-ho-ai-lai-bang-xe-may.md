@@ -33,7 +33,7 @@ Uống nước là chuyện nhỏ mà hay bị quên. Đoạn đường hồ ít
 
 ## Giữ xe khi nghỉ ven đường và ven hồ
 
-Ở chặng quốc lộ, chỗ đỗ quán nào cũng có, và thói quen trông xe ăn tiền lẻ là phổ biến. Việc cần nhớ là không để đồ bám trên yên, kể cả mũ bảo hiểm rỗng hay túi nilon, vì đồ bám là thứ thu hút ánh nhìn đầu tiên khi xe đỗ ngoài tầm mắt. Cách xếp đồ gọn ghẽ trên yên xe máy được tách riêng trong bài [cất đồ và hành lý trên xe](/blog/ky-nang/cho-do-va-hanh-ly/), nên xem trước khi xếp đồ cho chuyến.
+Ở chặng quốc lộ, chỗ đỗ quán nào cũng có, và thói quen trông xe ăn tiền lẻ là phổ biến. Việc cần nhớ là không để đồ bám trên yên, kể cả mũ bảo hiểm rỗng hay túi nilon, vì đồ bám là thứ thu hút ánh nhìn đầu tiên khi xe đỗ ngoài tầm mắt. Cách xếp đồ gọn ghẽ trên yên xe máy được tách riêng trong bài [cất đồ và hành lý trên xe](/ky-nang/cho-do-va-hanh-ly/), nên xem trước khi xếp đồ cho chuyến.
 
 Ven hồ, chỗ đỗ nhiều khi chỉ là dải đất nén hoặc bãi cỏ. Ba điều nên làm trước khi rời xe: chống chắc trên mặt phẳng, nghiêng chống về phía dốc, và thử đẩy nhẹ một cái. Với bãi cỏ, thêm một điều nữa là nhớ vị trí đỗ, vì sau một vòng quanh hồ, nhiều bãi nhìn na ná nhau và tìm xe buổi chiều giữa đám xe đặc cũng mất chừng mười phút.
 
@@ -45,12 +45,12 @@ Với chuyến ngắn, một lần dừng giữa tuyến là đủ cho đại đ
 
 Trên đường hồ, lỗi hay gặp là dừng quá lâu ở điểm đầu rồi nuối tiếc các điểm sau. Cách khắc phục đơn giản: đi trước một vòng thăm dò quanh hồ, ghi lại một hai điểm ưng ý, rồi mới quay lại dừng chơi. Tốn thêm chút xăng, đổi lại là buổi sáng bên hồ không bị xé vụn bởi việc dừng tạm liên tục.
 
-Nếu chạy đi về trong ngày, nên tính mốc dừng cuối cùng trước khi rời khu vực hồ, vừa uống nước vừa nghỉ tay lái, vì phần đường về có các đoạn đông xe tan ca quanh Đông Anh. Nghỉ đúng một lần trước đoạn đó giúp bạn về tới nhà không mang theo cảm giác đuối sức. Các nguyên tắc xử lý đường sá theo từng mùa được tách trong bài [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), nên đọc thêm nếu đi vào buổi mưa bất chợt.
+Nếu chạy đi về trong ngày, nên tính mốc dừng cuối cùng trước khi rời khu vực hồ, vừa uống nước vừa nghỉ tay lái, vì phần đường về có các đoạn đông xe tan ca quanh Đông Anh. Nghỉ đúng một lần trước đoạn đó giúp bạn về tới nhà không mang theo cảm giác đuối sức. Các nguyên tắc xử lý đường sá theo từng mùa được tách trong bài [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), nên đọc thêm nếu đi vào buổi mưa bất chợt.
 
 ## Ghép điểm nghỉ vào lịch tổng của chuyến
 
 Lịch mẫu cho buổi sáng sớm: sáu giờ rời Hà Nội, dừng nước ở chặng quốc lộ hai khoảng bảy giờ, tới ven hồ trước tám giờ, ăn sáng ven hồ, quanh hồ một vòng chậm, và rời khu vực hồ trước ba giờ chiều. Giữ nhịp đó thì các mốc nghỉ không bao giờ phải chạy đua với đồng hồ.
 
-Người đi bằng xe máy thuê nên mang đầy đủ giấy tờ bản gốc cho mọi lần dừng, vì quanh tuyến có chốt kiểm tra định kỳ, và một lần bị gọi vào là một lần nghỉ chân không ai muốn. Những quy định cần biết khi chạy đường trường được gom trong bài [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), đọc một lượt trước chuyến đi xa là đủ.
+Người đi bằng xe máy thuê nên mang đầy đủ giấy tờ bản gốc cho mọi lần dừng, vì quanh tuyến có chốt kiểm tra định kỳ, và một lần bị gọi vào là một lần nghỉ chân không ai muốn. Những quy định cần biết khi chạy đường trường được gom trong bài [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), đọc một lượt trước chuyến đi xa là đủ.
 
-Nếu Đại Lải chỉ là một chặng trong chuỗi ngày nghỉ của bạn, nhóm bài [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm theo nhiều hướng. Nghỉ chân đường đi hồ Đại Lải nghe có vẻ là chuyện nhỏ, nhưng xếp đúng mốc thì chuyến đi ngắn cũng cho cảm giác trọn vẹn như một chuyến xa.
+Nếu Đại Lải chỉ là một chặng trong chuỗi ngày nghỉ của bạn, nhóm bài [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) có gợi ý ghép nhiều điểm theo nhiều hướng. Nghỉ chân đường đi hồ Đại Lải nghe có vẻ là chuyện nhỏ, nhưng xếp đúng mốc thì chuyến đi ngắn cũng cho cảm giác trọn vẹn như một chuyến xa.

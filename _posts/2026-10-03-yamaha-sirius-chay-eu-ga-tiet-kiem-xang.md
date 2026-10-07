@@ -26,19 +26,19 @@ Với Sirius, dải tua máy nên giữ ở mức trung bình: nghe tiếng máy
 
 Thành phố có đèn đỏ, ngõ ra vào và dòng xe không đều, nên chạy đều ga hoàn toàn là chuyện khó. Cách áp dụng thực tế là biến mục tiêu thành các quãng giữa: sau khi xuất phát khỏi đèn xanh, tăng tốc dứt khoát tới tốc độ dòng xe, rồi khóa tay ga ở mức nhẹ và giữ càng lâu càng tốt. Cứ nhìn thấy đèn đỏ phía trước từ xa, nhả ga sớm, để xe trôi tự nhiên thay vì giữ tốc độ rồi phanh gấp ở vạch. Mỗi lần nhả ga sớm là một lần máy ngừng tiêu xăng, và mỗi lần phanh gấp là nhiệt năng bạn đã đốt xăng để tạo ra rồi vứt đi.
 
-Khi vòng tua xuống thấp, ví dụ xe giật vì số còn dài sau khi rẽ vào ngõ, hãy về số sớm. Nhiều người có thói quen dùng ga để gồng với số nặng, nhưng đó chính là lúc máy uống xăng mạnh nhất và nhiệt sinh ra lớn nhất. Về số một nấc, để tua máy về vùng thoải mái, rồi tiếp tục giữ ga đều là cách rẻ nhất để xe bền và nhẹ xăng. Người mới lái xe số có thể đọc thêm các nguyên tắc căn bản trong bài [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/) trước khi áp dụng vào đường thật.
+Khi vòng tua xuống thấp, ví dụ xe giật vì số còn dài sau khi rẽ vào ngõ, hãy về số sớm. Nhiều người có thói quen dùng ga để gồng với số nặng, nhưng đó chính là lúc máy uống xăng mạnh nhất và nhiệt sinh ra lớn nhất. Về số một nấc, để tua máy về vùng thoải mái, rồi tiếp tục giữ ga đều là cách rẻ nhất để xe bền và nhẹ xăng. Người mới lái xe số có thể đọc thêm các nguyên tắc căn bản trong bài [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/) trước khi áp dụng vào đường thật.
 
 ## Thói quen nhỏ quyết định mức xăng
 
 Cái máy lạnh lúc khởi động uống xăng nhiều hơn lúc nóng, nên nếu ngày chỉ đi chợ vài cây số, đừng lò máy kéo ga cho ấm rồi mới đi: khởi động, đợi mười giây, rồi đi nhẹ trong đoạn đầu là đủ. Áp suất lốp cũng đáng để ý: lốp non làm mặt lốp dẹt, lực cản lăn tăng, và xe tốn xăng hơn một cách âm thầm. Kiểm tra lốp hàng tuần, hoặc nhờ tiệm bơm đúng áp khi đi ngang trạm sửa xe.
 
-Hành lý và tư thế cũng góp phần. Xe chất đồ nặng phía sau, người ngồi gò bó sát phía trước, gió đập ngực khi chạy đường dài đều khiến máy phải làm việc nhiều hơn. Trên đường phố, chi phí xăng lớn nhất vẫn là cách bạn dùng ga: thấy khoảng trống là bứt lên, thấy chậm lại là phanh, rồi lại bứt. Vòng lặp đó lặp lại một trăm lần một ngày là chênh lệch lộ trình thấy được ở cuối tuần. Ai muốn tìm hiểu thêm về dòng xe số này có thể đọc bài tổng quan về [xe số](/blog/xe-may/xe-so/) trước khi chọn thuê.
+Hành lý và tư thế cũng góp phần. Xe chất đồ nặng phía sau, người ngồi gò bó sát phía trước, gió đập ngực khi chạy đường dài đều khiến máy phải làm việc nhiều hơn. Trên đường phố, chi phí xăng lớn nhất vẫn là cách bạn dùng ga: thấy khoảng trống là bứt lên, thấy chậm lại là phanh, rồi lại bứt. Vòng lặp đó lặp lại một trăm lần một ngày là chênh lệch lộ trình thấy được ở cuối tuần. Ai muốn tìm hiểu thêm về dòng xe số này có thể đọc bài tổng quan về [xe số](/xe-may/xe-so/) trước khi chọn thuê.
 
 ## Tính mức hao theo cách thực dụng
 
 Không cần dụng cụ gì, bạn vẫn đo được hiệu quả: đổ đầy bình một lần, ghi số cây số đồng hồ, và sau khi đổ lần tiếp theo, chia số xăng đổ cho quãng đường đã đi. Làm vậy hai ba lần là bạn biết thay đổi thói quen ga ảnh hưởng ra sao. Cách đo này cũng giúp phát hiện sớm khi xe có vấn đề: nếu mức hao tăng đột ngột dù cách lái không đổi, kiểm tra lọc gió, bugi và chế hòa khí, ba thủ phạm phổ biến nhất của xe số cũ.
 
-Khi thuê xe, hãy hỏi chủ xe về mức hao tham khảo của đúng mẫu xe mình nhận, vì xe cũ, xe mới và cách bảo dưỡng khác nhau cho kết quả khác nhau. Một chiếc [xe máy](/blog/xe-may/) được bảo dưỡng tốt cộng với cách chạy đều ga luôn cho con số đẹp hơn cả hai yếu tố đó đứng riêng lẻ. Cuối cùng, nhớ rằng tiết kiệm xăng không đồng nghĩa chạy chậm: chạy đều ở tốc độ dòng xe mới là mục tiêu, còn leo lên tốc độ cao trên phố chỉ đổi lấy tua máy gắt và xăng tan nhanh.
+Khi thuê xe, hãy hỏi chủ xe về mức hao tham khảo của đúng mẫu xe mình nhận, vì xe cũ, xe mới và cách bảo dưỡng khác nhau cho kết quả khác nhau. Một chiếc [xe máy](/xe-may/) được bảo dưỡng tốt cộng với cách chạy đều ga luôn cho con số đẹp hơn cả hai yếu tố đó đứng riêng lẻ. Cuối cùng, nhớ rằng tiết kiệm xăng không đồng nghĩa chạy chậm: chạy đều ở tốc độ dòng xe mới là mục tiêu, còn leo lên tốc độ cao trên phố chỉ đổi lấy tua máy gắt và xăng tan nhanh.
 
 ## Kết lại
 

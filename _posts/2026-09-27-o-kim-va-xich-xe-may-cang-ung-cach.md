@@ -58,7 +58,7 @@ Nhiều người vì muốn chắc ăn nên căng xích quá mức, tưởng xí
 - Mỗi 8000 đến 12000 km: cân nhắc thay xích và cả bánh răng nếu mòn.
 - Khi thay xích: thay cả ổ kim và cân nhắc thay dĩa sau nếu răng mòn.
 
-Xích là bộ phận của nhóm bảo dưỡng định kỳ, bạn xem thêm hướng dẫn tổng hợp tại trang [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/).
+Xích là bộ phận của nhóm bảo dưỡng định kỳ, bạn xem thêm hướng dẫn tổng hợp tại trang [bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
 
 ## Câu hỏi thường gặp
 
@@ -66,11 +66,11 @@ Xích lỏng có tự hết không? Không, xích chỉ mòn thêm theo thời g
 
 ## Xe thuê cần làm gì
 
-Với xe thuê, việc căng xích do cửa hàng lo trước khi giao, nhưng trong kỳ thuê bạn vẫn nên nghe và nhìn: xe có tiếng lạch cạch từ xích khi ga, hoặc xích quá lỏng thấy được bằng mắt, thì báo ngay cho bên cho thuê. Đừng chủ quan chạy tiếp, vì xích quá lỏng có thể văng ra hoặc quấn vào càng khi đang chạy. Trường hợp trả xe trễ vì đi kẹt lịch trình, bạn tham khảo quy định ở trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/) để chủ động báo trước.
+Với xe thuê, việc căng xích do cửa hàng lo trước khi giao, nhưng trong kỳ thuê bạn vẫn nên nghe và nhìn: xe có tiếng lạch cạch từ xích khi ga, hoặc xích quá lỏng thấy được bằng mắt, thì báo ngay cho bên cho thuê. Đừng chủ quan chạy tiếp, vì xích quá lỏng có thể văng ra hoặc quấn vào càng khi đang chạy. Trường hợp trả xe trễ vì đi kẹt lịch trình, bạn tham khảo quy định ở trang [nhận và trả xe](/thue-xe/nhan-tra-xe/) để chủ động báo trước.
 
 ## Hỗ trợ tại Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra và tra dầu xích định kỳ cho toàn bộ xe cho thuê trước khi giao khách, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi về dòng xe sẵn hoặc mang xe bản thân đến nhờ kiểm tra nhanh. Thêm các bài về cấu kiện xe tại trang [xe máy và dòng xe](/blog/xe-may/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra và tra dầu xích định kỳ cho toàn bộ xe cho thuê trước khi giao khách, giờ làm việc 09:00 đến 21:00. Bạn gọi 0942 467 674 để hỏi về dòng xe sẵn hoặc mang xe bản thân đến nhờ kiểm tra nhanh. Thêm các bài về cấu kiện xe tại trang [xe máy và dòng xe](/xe-may/).
 
 Căng xích đúng cách không phải việc làm một lần rồi xong, mà là thói quen tuần vài phút. Xích khỏe, ổ kim bôi trơn tốt thì bàn đạp nhẹ, xe bốc và bạn bớt nguy cơ đứt xích giữa chặng.
 

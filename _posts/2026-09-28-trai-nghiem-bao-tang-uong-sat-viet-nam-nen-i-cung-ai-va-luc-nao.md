@@ -30,7 +30,7 @@ Cuối tuần không phải lúc nào bảo tàng ngành cũng mở, khác các 
 
 Cung tới bảo tàng ngành thường chạy trên các trục lớn phía Nam nội đô, khách kiểm tra đèn, còi, phanh, áp suất lốp và đổ đủ xăng cho khung đi và về, vì quanh khu trạm thưa hơn trung tâm. Gửi xe theo chỉ dẫn của khu, chốt cổng và khóa từ, chụp lại vị trí kèm biển số, tới đầu khung khi có lịch đoàn. Đừng đỗ ven đường trước khu: các đoạn quanh khu vực đơn vị có dòng xe ra vào liên tục, xe để lề không an toàn. Áo mưa gấp nên có mặt trong cốp nếu đi giữa mùa mưa, vì khu trưng bày ngoài trời không có hành lang che kín toàn bộ lối.
 
-Khách mới chạy nội đô nên đọc trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), và có thể đối chiếu các tình huống giao thông thường gặp tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/). Thói quen giữ xe và hành lý được kể kỹ trong trang [chỗ đổ xe và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/).
+Khách mới chạy nội đô nên đọc trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), và có thể đối chiếu các tình huống giao thông thường gặp tại trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/). Thói quen giữ xe và hành lý được kể kỹ trong trang [chỗ đổ xe và hành lý](/ky-nang/cho-do-va-hanh-ly/).
 
 ## Ghép lịch quanh buổi ở bảo tàng tàu hỏa
 
@@ -38,7 +38,7 @@ Một buổi ở bảo tàng đường sắt thường tốn chừng một giờ
 
 Khách đi cùng người lớn tuổi nên cân khung bộ trong khu, vì các chặng quanh hiện vật lớn có đoạn sân nắng và bậc thềm; giữa trưa nghỉ tại một điểm mát rồi mới tiếp phần tư liệu trong nhà. Trẻ mê tàu nên có phần thưởng nhẹ sau buổi, ghé một điểm ăn vặt gần cụm trung tâm để buổi kết thúc vui, không kéo dài quá sức chú ý của trẻ.
 
-Khách xếp lịch nên để bảo tàng ngành cho khung sáng, khung chiều ghép cụm Hồ Gươm ăn và dạo, và rời khu trước mép tan tầm để tránh dòng trên các trục lớn. Danh sách điểm theo khu vực nằm tại trang [điểm đến](/blog/du-lich/diem-den/), khách đối chiếu giờ mở từng nơi trước khi chốt. Khách muốn lịch nhiều ngày quanh thành phố theo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/blog/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách xếp lịch nên để bảo tàng ngành cho khung sáng, khung chiều ghép cụm Hồ Gươm ăn và dạo, và rời khu trước mép tan tầm để tránh dòng trên các trục lớn. Danh sách điểm theo khu vực nằm tại trang [điểm đến](/du-lich/diem-den/), khách đối chiếu giờ mở từng nơi trước khi chốt. Khách muốn lịch nhiều ngày quanh thành phố theo bài [lịch trình khám phá Hà Nội một tuần bằng xe máy thuê](/du%20l%E1%BB%8Bch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/), còn tổng quan trải nghiệm nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về buổi giữa đầu máy và toa xe
 

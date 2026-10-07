@@ -19,7 +19,7 @@ Khi lên kế hoạch cho một chuyến ngắn ngoài Hà Nội, việc dự to
 
 Chi phí thuê xe cho chuyến 3 ngày 2 đêm phụ thuộc trước hết vào dòng xe bạn chọn. Xe số Honda Wave có mức tham khảo 150.000 đồng mỗi ngày, phù hợp hành trình đường dài cần độ bền và tiết kiệm. Nhóm xe ga phổ biến như Honda Vision và Honda Air Blade có mức tham khảo 200.000 đồng mỗi ngày, tiện khi đi lại trong phố. Honda Click và Yamaha Mio có mức tham khảo 150.000 đồng mỗi ngày, tương đương nhóm xe số phổ thông.
 
-Cấu phần thứ hai là cách tính giá. Nếu thuê theo từng ngày, chi phí sẽ là số ngày nhân với mức giá ngày của dòng xe đó. Nếu chuyến của bạn có thể kéo dài, mức giá theo tuần thường có lợi hơn. Ví dụ nhóm Honda Click và Yamaha Mio có mức tham khảo theo tuần từ 600.000 đồng đến 700.000 đồng, trong khi nhóm Honda Vision có mức từ 800.000 đồng đến 1.000.000 đồng. Khung giá đầy đủ theo từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/blog/bang-gia/), nhóm giá thuê theo từng loại xe nằm trong mục [giá thuê xe máy](/blog/thue-xe/gia-thue/), còn chi tiết cách tính giá theo ngày nằm trong chuyên mục [thuê xe theo ngày](/blog/thue-xe/thue-ngay/).
+Cấu phần thứ hai là cách tính giá. Nếu thuê theo từng ngày, chi phí sẽ là số ngày nhân với mức giá ngày của dòng xe đó. Nếu chuyến của bạn có thể kéo dài, mức giá theo tuần thường có lợi hơn. Ví dụ nhóm Honda Click và Yamaha Mio có mức tham khảo theo tuần từ 600.000 đồng đến 700.000 đồng, trong khi nhóm Honda Vision có mức từ 800.000 đồng đến 1.000.000 đồng. Khung giá đầy đủ theo từng dòng xe được cập nhật tại trang [bảng giá thuê xe máy](/bang-gia/), nhóm giá thuê theo từng loại xe nằm trong mục [giá thuê xe máy](/thue-xe/gia-thue/), còn chi tiết cách tính giá theo ngày nằm trong chuyên mục [thuê xe theo ngày](/thue-xe/thue-ngay/).
 
 ## So sánh tính giá theo ngày và theo tuần
 
@@ -31,7 +31,7 @@ Một ví dụ minh họa: nếu bạn chọn nhóm xe ga phổ thông và giữ
 
 Ngoài giá thuê, có vài khoản nên hỏi rõ khi dự toán. Thứ nhất là khoản đặt cọc, mức này được xác nhận trực tiếp khi bạn liên hệ, vì nó có thể khác nhau theo dòng xe và thời gian thuê. Thứ hai là điều kiện nhận trả xe: chuyến 3 ngày 2 đêm thường nhận xe buổi sáng và trả buổi chiều ngày thứ ba, nên hãy chốt giờ cụ thể. Thứ ba là hiện trạng xe khi nhận, bạn nên kiểm tra cùng nhân viên và chụp lại để đối chiếu khi trả.
 
-Nếu bạn mới thuê xe máy lần đầu, các bước chuẩn bị giấy tờ và quy trình nhận xe được mô tả trong bài [giá thuê xe máy theo ngày ở Hà Nội](/blog/thue-xe/2026/09/27/gia-thue-xe-may-theo-ngay-o-ha-noi/), trong đó có cả cách đọc mức giá theo từng dòng xe.
+Nếu bạn mới thuê xe máy lần đầu, các bước chuẩn bị giấy tờ và quy trình nhận xe được mô tả trong bài [giá thuê xe máy theo ngày ở Hà Nội](/thue-xe/2026/09/27/gia-thue-xe-may-theo-ngay-o-ha-noi/), trong đó có cả cách đọc mức giá theo từng dòng xe.
 
 ## Mẹo giữ dự toán sát thực tế cho chuyến du lịch
 

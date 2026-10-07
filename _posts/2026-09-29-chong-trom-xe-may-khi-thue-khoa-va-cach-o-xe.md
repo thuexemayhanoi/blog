@@ -40,12 +40,12 @@ Thêm một ý nhỏ nữa: với xe thuê, bạn nên để ý tới tem và k�
 
 Trước khi rời xe, cất hết mọi thứ lộ trên yên: mũ cho vào cốp hoặc móc gầm, găng và áo mưa cho vào cốp, còn điện thoại và ví thì mang theo người. Giấy tờ bên cho thuê giao nên mang theo hoặc cất trong người, không để trong cốp khi đỗ qua đêm. Đồ để lộ trên xe thuê còn có thể khiến kẻ gian tưởng cốp bên trong có đồ giá trị.
 
-Nếu bạn mang theo nhiều đồ khi đi, cách xếp đồ hợp lý đã được tóm trong bài về [cho hành lý an toàn trên xe máy](/blog/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/), nên bạn có thể áp dụng luôn cho xe thuê. Nói chung, giữ cho xe trông trống trơn là cách chống trộm hiệu quả nhất mà không tốn thêm một thứ gì.
+Nếu bạn mang theo nhiều đồ khi đi, cách xếp đồ hợp lý đã được tóm trong bài về [cho hành lý an toàn trên xe máy](/chia%20s%E1%BA%BB/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/), nên bạn có thể áp dụng luôn cho xe thuê. Nói chung, giữ cho xe trông trống trơn là cách chống trộm hiệu quả nhất mà không tốn thêm một thứ gì.
 
 ## Nếu xe thuê bị mất: các bước xử lý
 
 Trường hợp xấu nhất là xe thuê bị mất. Bạn nên báo ngay cho cơ quan công an địa phương nơi để xe, gọi cho bên cho thuê theo số đã lưu, và giữ lại mọi thứ có thể chứng minh thời điểm, vị trí đỗ xe như tấm hình chụp lúc để. Làm nhanh ba việc này giúp cả hai bên xử lý suôn sẻ hơn, thay vì mỗi bên một phán đoán.
 
-Tóm lại, chống trộm với xe máy thuê không cần thêm công cụ đắt tiền, chỉ cần chuẩn cao hơn: thử khóa lúc nhận, đỗ chỗ sáng, khóa đủ điểm, cất hết đồ và mang giấy tờ theo người. Các tình huống liên quan khác đã được gom trong nhóm [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), kèm cả phần [xe gặp sự cố](/blog/thue-xe/su-co/) nếu bạn cần tham khảo thêm.
+Tóm lại, chống trộm với xe máy thuê không cần thêm công cụ đắt tiền, chỉ cần chuẩn cao hơn: thử khóa lúc nhận, đỗ chỗ sáng, khóa đủ điểm, cất hết đồ và mang giấy tờ theo người. Các tình huống liên quan khác đã được gom trong nhóm [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), kèm cả phần [xe gặp sự cố](/thue-xe/su-co/) nếu bạn cần tham khảo thêm.
 
- Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+ Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).

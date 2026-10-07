@@ -38,7 +38,7 @@ Một điểm nữa là đường đê không có vạch kẻ rõ như đường
 
 Thứ hai là các bãi cỏ ven đê phía trong, nơi người dân cho thả cỏ hoặc trồng ngắn ngày. Chiều muộn, những bãi cỏ này ngả vàng trong nắng, rất hợp cho nhóm bạn dừng lại chụp ảnh. Lưu ý chỉ dừng ở nơi rộng và xe tạm để không chắn lối, vì nông dân vẫn qua lại làm ruộng qua đường đê.
 
-Thứ ba là khu gần các xóm, nơi có quán nước nhỏ, bán nước dừa, ổi, đậu tương chiên theo mùa. Dừng lại uống một cốc nước mát, nói chuyện với người dân, thường là cách tốt nhất để cảm nhận nhịp sống bên bờ đê. Giá cả ở đây rất dân dã, bạn cứ hỏi giá trước khi gọi như thói quen khi đi vùng quê. Nếu muốn tham khảo thêm về khu vực lân cận và các điểm ghé quanh phía đông sông, xem bài tổng quan về [long biên và gia lâm](/blog/du-lich/long-bien/).
+Thứ ba là khu gần các xóm, nơi có quán nước nhỏ, bán nước dừa, ổi, đậu tương chiên theo mùa. Dừng lại uống một cốc nước mát, nói chuyện với người dân, thường là cách tốt nhất để cảm nhận nhịp sống bên bờ đê. Giá cả ở đây rất dân dã, bạn cứ hỏi giá trước khi gọi như thói quen khi đi vùng quê. Nếu muốn tham khảo thêm về khu vực lân cận và các điểm ghé quanh phía đông sông, xem bài tổng quan về [long biên và gia lâm](/du-lich/long-bien/).
 
 ## Gợi ý lịch trình buổi chiều cho khách thuê xe
 
@@ -50,4 +50,4 @@ Với khách thuê xe máy, trước chuyến đi bạn nên kiểm tra phanh, l
 
 Chạy xe đê Gia Lâm buổi chiều không cần kỹ năng cao cấp, chỉ cần bạn điềm tĩnh, để ý mặt đường và chọn đúng khung giờ nắng đẹp. Đây là cung đường hiếm hoi còn giữ được vẻ hoang sơ gần nội đô, xứng đáng cho một buổi chiều rảnh rỗi của bất kỳ ai muốn tận hưởng Hà Nội chậm rãi.
 
-Nếu muốn bổ sung kỹ năng chạy trên các cung đường đặc thù như đê, ven sông hay đường quê, bạn có thể xem thêm các bài trong mục [kinh nghiệm](/blog/kinh-nghiem/), và các lộ trình khác quanh khu vực Long Biên trong mục [du lịch](/blog/du-lich/).
+Nếu muốn bổ sung kỹ năng chạy trên các cung đường đặc thù như đê, ven sông hay đường quê, bạn có thể xem thêm các bài trong mục [kinh nghiệm](/kinh-nghiem/), và các lộ trình khác quanh khu vực Long Biên trong mục [du lịch](/du-lich/).

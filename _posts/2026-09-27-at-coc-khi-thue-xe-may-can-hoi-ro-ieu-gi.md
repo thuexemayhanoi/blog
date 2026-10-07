@@ -15,7 +15,7 @@ article_id: BLG-00532
 
 Trước khi giao khoản cọc cho chủ xe, nhiều khách chỉ chú ý đến số tiền mà bỏ qua những câu hỏi quan trọng khác. Thực ra, đặt cọc thuê xe máy hỏi gì cho đầy đủ mới là yếu tố quyết định việc thuê có suôn sẻ hay không. Hỏi rõ từ đầu giúp bạn biết mình phải chuẩn bị bao nhiêu, giữ lại chứng từ gì và có được hoàn trả trong trường hợp nào. Bài này liệt kê các nhóm câu hỏi nên đặt ra trước khi chốt giao dịch, từ chính khoản tiền cọc cho tới giấy tờ phải mang theo.
 
-Nếu bạn chưa nắm rõ bản chất của khoản tiền này, hãy đọc trước tổng quan về [đặt cọc khi thuê xe máy](/blog/thue-xe/dat-coc/) trong chuyên mục [thuê xe máy Hà Nội](/blog/thue-xe/).
+Nếu bạn chưa nắm rõ bản chất của khoản tiền này, hãy đọc trước tổng quan về [đặt cọc khi thuê xe máy](/thue-xe/dat-coc/) trong chuyên mục [thuê xe máy Hà Nội](/thue-xe/).
 
 ## Đặt cọc thuê xe máy hỏi gì về khoản tiền
 
@@ -31,7 +31,7 @@ Khoản cọc không luôn là tiền. Nhiều cửa hàng cho phép bạn chọ
 
 Câu hỏi quan trọng nữa là trách nhiệm khi tài sản bảo đảm có vấn đề. Nếu bạn để lại giấy tờ và thất lạc, quy trình cấp lại thuộc về ai, chi phí ai chịu. Nghe có vẻ hiếm, nhưng việc hỏi trước khiến hai bên có cùng kỳ vọng, tránh tranh cãi không đáng có về sau.
 
-Với khách lần đầu, việc nắm rõ [thủ tục thuê xe máy ở Hà Nội](/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) sẽ giúp bạn hình dung vị trí của bước đặt cọc trong toàn bộ quy trình, từ liên hệ ban đầu đến khi nhận chìa khóa.
+Với khách lần đầu, việc nắm rõ [thủ tục thuê xe máy ở Hà Nội](/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) sẽ giúp bạn hình dung vị trí của bước đặt cọc trong toàn bộ quy trình, từ liên hệ ban đầu đến khi nhận chìa khóa.
 
 ## Hỏi về điều kiện hoàn trả
 
@@ -47,8 +47,8 @@ Hỏi tốt cần chuẩn bị tốt. Trước khi liên hệ, bạn nên ghi ra
 
 Nên lưu lại toàn bộ hội thoại bằng tin nhắn văn bản thay vì chỉ trao đổi miệng. Văn bản giúp bạn đọc lại điều khoản trước ngày nhận xe và là chứng cứ nếu xảy ra hiểu lầm. Kết hợp với biên nhận cọc viết tay, bạn có bộ hồ sơ giao dịch khá đầy đủ.
 
-Trước ngày nhận xe, hãy dành thời gian đọc [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) và chụp lại tình trạng xe tại chỗ. Đây là cách bảo vệ quyền lợi của chính bạn.
+Trước ngày nhận xe, hãy dành thời gian đọc [danh sách kiểm tra xe khi nhận xe thuê](/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/) và chụp lại tình trạng xe tại chỗ. Đây là cách bảo vệ quyền lợi của chính bạn.
 
 ## Tóm lại
 
-Trả lời được câu hỏi đặt cọc thuê xe máy hỏi gì, bạn đã tự bảo vệ mình trước phần lớn rủi ro phát sinh. Ba trụ cột cần nhớ: hỏi rõ khoản cọc và chứng từ, hỏi rõ tài sản bảo đảm, hỏi rõ điều kiện hoàn trả. Ghi lại mọi câu trả lời bằng văn bản và giữ đến khi nhận lại đủ tiền. Nếu cần tham khảo cách xử lý khi hai bên bất đồng, hãy đọc thêm phần hướng dẫn về [thủ tục nhận và trả xe](/blog/thue-xe/nhan-tra-xe/).
+Trả lời được câu hỏi đặt cọc thuê xe máy hỏi gì, bạn đã tự bảo vệ mình trước phần lớn rủi ro phát sinh. Ba trụ cột cần nhớ: hỏi rõ khoản cọc và chứng từ, hỏi rõ tài sản bảo đảm, hỏi rõ điều kiện hoàn trả. Ghi lại mọi câu trả lời bằng văn bản và giữ đến khi nhận lại đủ tiền. Nếu cần tham khảo cách xử lý khi hai bên bất đồng, hãy đọc thêm phần hướng dẫn về [thủ tục nhận và trả xe](/thue-xe/nhan-tra-xe/).

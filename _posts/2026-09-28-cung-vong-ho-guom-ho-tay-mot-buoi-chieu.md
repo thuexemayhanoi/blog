@@ -27,7 +27,7 @@ Hồ Tây chiều có gió lớn hơn hẳn trong phố, các đoạn bờ kè t
 
 Trên đoạn đường Thanh Niên, khách có thể dừng ở góc nhìn sang khu Trúc Bạch, cụm nhà cũ và tháp nước nằm giữa nước là nét đặc trưng khó tìm ở khu khác. Chụp ảnh ở đây nên làm nhanh và gọn, khu này chiều có nhiều xe qua lại và làn đường không rộng.
 
-Khách muốn kéo dài chiều đi thì từ Hồ Tây nối tiếp sang khu Trúc Bạch, vòng nhỏ này yên tĩnh hơn và dễ về lại trung tâm qua đầu cầu Long Biên. Chi tiết về khu ven sông này nằm trong bài [Cầu Long Biên và khu Long Biên bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/), khách đọc trước nếu định ghép thêm chặng sông vào cuối cung.
+Khách muốn kéo dài chiều đi thì từ Hồ Tây nối tiếp sang khu Trúc Bạch, vòng nhỏ này yên tĩnh hơn và dễ về lại trung tâm qua đầu cầu Long Biên. Chi tiết về khu ven sông này nằm trong bài [Cầu Long Biên và khu Long Biên bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/), khách đọc trước nếu định ghép thêm chặng sông vào cuối cung.
 
 ## Lưu ý khi đi xe liên hồ vào khung chiều
 
@@ -45,6 +45,6 @@ Cả hai đầu cung đều dễ gửi xe: quanh Hồ Gươm và dọc Âu Cơ c
 
 Trước khi về, khách ngồi lại vài phút ở bờ hồ cho máy nguội và cho người lấy lại sức, kiểu nghỉ cuối cung này giúp đoạn về giữa phố dễ chịu hơn hẳn. Về mùa, thu và đông đầu mùa là hai khung dễ chịu nhất cho cung liên hồ: trời trong, gió nhẹ, ánh chiều vàng lên màu đẹp; giữa hè khách nên lùi giờ xuất phát lại gần năm giờ để tránh nắng chói trên đoạn Âu Cơ trống. Mùa xuân nhiều khi mưa phùn, khách mang áo mưa mỏng hoặc chấp nhận dừng trú ở quán ven hồ, kiểu mưa này thường chỉ kéo dài một lúc.
 
-Khách muốn gấp chuyến chiều này vào lịch hai ngày cuối tuần thì tham khảo cách xếp ở bài [Lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/); các tuyến nội đô khác liệt kê sẵn ở trang [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/).
+Khách muốn gấp chuyến chiều này vào lịch hai ngày cuối tuần thì tham khảo cách xếp ở bài [Lên kế hoạch chuyến cuối tuần bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/); các tuyến nội đô khác liệt kê sẵn ở trang [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/).
 
-Cung vòng Hồ Gươm Hồ Tây chiều là một chuyến đi ngắn, dễ chịu và gần như không có đoạn đường khó, hợp cả khách mới lẫn khách muốn chạy nhẹ sau ngày làm. Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các chủ đề lộ trình khác nằm ở trang [cung đường & hành trình](/blog/cung-duong/).
+Cung vòng Hồ Gươm Hồ Tây chiều là một chuyến đi ngắn, dễ chịu và gần như không có đoạn đường khó, hợp cả khách mới lẫn khách muốn chạy nhẹ sau ngày làm. Khách cần thuê xe máy cho chuyến này liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Các chủ đề lộ trình khác nằm ở trang [cung đường & hành trình](/cung-duong/).

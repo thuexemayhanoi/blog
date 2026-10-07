@@ -16,7 +16,7 @@ writer: W1
 
 Kế hoạch đi chơi cuối tuần đã chốt từ thứ Tư, nhưng đến tối thứ Sáu gọi thuê xe mới nhận được trả lời hết xe là chuyện xảy ra rất thường xuyên ở Hà Nội. Vậy thuê xe máy cuối tuần đặt trước bao lâu là đủ để chắc chắn có xe đúng mẫu mình cần? Câu trả lời thực tế: với kỳ nghỉ bình thường, đặt xe máy thuê trước cuối tuần từ một đến ba ngày là an toàn; với các dịp lễ, hội chợ hoặc mùa cao điểm du lịch, nên đặt từ bốn, năm ngày hoặc sớm hơn. Bài viết này đi qua từng khung thời gian, cách đặt giữ chỗ an toàn và những gì cần chốt khi đặt để buổi nhận xe nhanh gọn.
 
-Tổng quan thủ tục thuê xe, giấy tờ cần mang theo và cách nhận xe nằm trong trang [thuê xe máy](/blog/thue-xe/); nếu cuối tuần bạn định kết hợp đi ngoại thành, phần [du lịch](/blog/du-lich/) có gợi ý điểm đến quanh Hà Nội, còn các câu hỏi thường gặp khác nằm ở trang [hỏi đáp](/blog/hoi-dap/).
+Tổng quan thủ tục thuê xe, giấy tờ cần mang theo và cách nhận xe nằm trong trang [thuê xe máy](/thue-xe/); nếu cuối tuần bạn định kết hợp đi ngoại thành, phần [du lịch](/du-lich/) có gợi ý điểm đến quanh Hà Nội, còn các câu hỏi thường gặp khác nằm ở trang [hỏi đáp](/hoi-dap/).
 
 ## Thuê xe máy cuối tuần nên đặt trước một đến ba ngày cho kỳ nghỉ thường
 

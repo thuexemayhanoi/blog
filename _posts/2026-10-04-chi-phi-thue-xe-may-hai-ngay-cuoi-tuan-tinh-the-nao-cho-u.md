@@ -30,7 +30,7 @@ Khoản thứ ba là phụ kiện: mũ bảo hiểm thêm chiếc thứ hai, áo
 
 ## Thuê xe cuối tuần chi phí chặt hơn bằng cách nào
 
-Muốn thuê xe cuối tuần chi phí gọn, đầu tiên là chốt khung giờ khớp kế hoạch: nhận sáng sớm thứ bảy, trả chiều muộn chủ nhật — dùng trọn hai ngày, không dư giờ thừa. Thứ hai là hỏi giá trước cuối tuần vài ngày: khung nhu cầu cao làm xe tốt ít dần, và người đến sau thường chọn giữa những chiếc còn lại. Thứ ba là so gói: nếu dự kiến cần thêm ngày thứ sáu hoặc kéo sang tuần kế tiếp, gói dài hơn trong trang [thuê xe theo tuần](/blog/thue-xe/thue-tuan/) hoặc gói tháng có phần hợp lý hơn so với nối các gói ngày lẻ.
+Muốn thuê xe cuối tuần chi phí gọn, đầu tiên là chốt khung giờ khớp kế hoạch: nhận sáng sớm thứ bảy, trả chiều muộn chủ nhật — dùng trọn hai ngày, không dư giờ thừa. Thứ hai là hỏi giá trước cuối tuần vài ngày: khung nhu cầu cao làm xe tốt ít dần, và người đến sau thường chọn giữa những chiếc còn lại. Thứ ba là so gói: nếu dự kiến cần thêm ngày thứ sáu hoặc kéo sang tuần kế tiếp, gói dài hơn trong trang [thuê xe theo tuần](/thue-xe/thue-tuan/) hoặc gói tháng có phần hợp lý hơn so với nối các gói ngày lẻ.
 
 Một nguyên tắc nhỏ của người hay đi cuối tuần: đừng lấy xe to hơn nhu cầu. Hai người đi phố hai ngày thì dòng xe phổ thông đủ dùng, và phần chênh lệch so với dòng lớn hơn dành cho xăng luôn hợp lý hơn dành cho việc tải chỗ ngồi trống. Người đi nhóm đông nên cân nhắc thuê hai xe phổ thông thay vì một xe lớn chở chật — vừa dễ luồn khi phố đông, vừa đỡ phần tải.
 
@@ -42,6 +42,6 @@ Cuối cùng là phần bảo dưỡng nhỏ giữa chuyến: kiểm tra lốp v
 
 ## Đọc kỹ biên nhận và giữ bằng chứng
 
-Biên nhận là văn bản duy nhất bạn cầm được trước khi tiền rời ví. Đọc kỹ ba dòng: tổng giá hai ngày, khoản phụ thu đã nêu, và giờ trả. Chụp lại bảng giá treo tại quầy, chụp đồng hồ xăng và hiện trạng hai bên xe lúc nhận — bằng chứng hai phút lúc nhận là thứ khiến mọi khúc mắc lúc trả tan trong tích tắc. Người lần đầu thuê nên đọc thêm phần thủ tục trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), phần vận hành nhận trả gom trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), biểu giá các dòng xe nằm trong trang [giá thuê xe](/blog/thue-xe/gia-thue/), tổng quan gói thuê trong trang [thuê xe máy](/blog/thue-xe/), và các mẹo đi cuối tuần rải trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Biên nhận là văn bản duy nhất bạn cầm được trước khi tiền rời ví. Đọc kỹ ba dòng: tổng giá hai ngày, khoản phụ thu đã nêu, và giờ trả. Chụp lại bảng giá treo tại quầy, chụp đồng hồ xăng và hiện trạng hai bên xe lúc nhận — bằng chứng hai phút lúc nhận là thứ khiến mọi khúc mắc lúc trả tan trong tích tắc. Người lần đầu thuê nên đọc thêm phần thủ tục trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), phần vận hành nhận trả gom trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), biểu giá các dòng xe nằm trong trang [giá thuê xe](/thue-xe/gia-thue/), tổng quan gói thuê trong trang [thuê xe máy](/thue-xe/), và các mẹo đi cuối tuần rải trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, tính chi phí thuê xe máy hai ngày cuối tuần là bài cộng bốn dòng: giá ngày, cọc, xăng và phụ thu. Ba dòng đầu hỏi một câu là có, dòng thứ tư cần hỏi bốn câu — và đó chính là phần khiến người thuê cẩn thận luôn trả xe nhẹ nhàng hơn người thuê vội.

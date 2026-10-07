@@ -23,27 +23,27 @@ Khi đi làm, chị em thường mang thêm đôi giày hoặc hộp cơm nhỏ.
 
 ## Vision chở đồ so với các dòng xe ga khác
 
-So với các dòng xe ga nhỏ gọn khác, khoang đồ của Vision ở mức rộng trong phân khúc xe ga phổ thông. Nếu nhu cầu của bạn chỉ dừng ở mũ và áo mưa, xe đáp ứng tốt. Nếu bạn thường mang balô lớn, máy tính xách tay và nhiều túi, nên cân nhắc dòng xe có thân dài hơn, hoặc tham khảo [dòng Honda Vision](/blog/xe-may/honda-vision/) so sánh với các đời xe để thấy khác biệt về kích thước khoang.
+So với các dòng xe ga nhỏ gọn khác, khoang đồ của Vision ở mức rộng trong phân khúc xe ga phổ thông. Nếu nhu cầu của bạn chỉ dừng ở mũ và áo mưa, xe đáp ứng tốt. Nếu bạn thường mang balô lớn, máy tính xách tay và nhiều túi, nên cân nhắc dòng xe có thân dài hơn, hoặc tham khảo [dòng Honda Vision](/xe-may/honda-vision/) so sánh với các đời xe để thấy khác biệt về kích thước khoang.
 
-Người cần chở thêm hành lý xa nên đọc [hướng dẫn cho đồ và hành lý khi đi xe máy](/blog/ky-nang/cho-do-va-hanh-ly/) để biết giới hạn an toàn khi buộc đồ phía sau. Treo túi lớn ở tay lái là thói quen rủi ro, vì túi có thể vướng vào gương hoặc làm lệch tay lái khi quay đầu ở ngã tư.
+Người cần chở thêm hành lý xa nên đọc [hướng dẫn cho đồ và hành lý khi đi xe máy](/ky-nang/cho-do-va-hanh-ly/) để biết giới hạn an toàn khi buộc đồ phía sau. Treo túi lớn ở tay lái là thói quen rủi ro, vì túi có thể vướng vào gương hoặc làm lệch tay lái khi quay đầu ở ngã tư.
 
 ## Sắp xếp đồ an toàn khi đi phố
 
 Một vài nguyên tắc nhỏ giúp bạn giữ đồ gọn gàng. Đặt mũ ngửa úp xuống để tận dụng khoảng trống phía trên. Cuộn áo mưa thay vì gấp để tiết kiệm chỗ. Không để chai nước nằm lỏng vì xe chạy xóc có thể làm rơi khi mở yên. Đồ có giá trị như ví, giấy tờ nên mang theo người, không để lại trong khoang xe quá lâu.
 
-Vào mùa mưa ở Hà Nội, hãy lau khô khoang đồ sau khi đi mưa để tránh ẩm mốc ở lớp lót. Chi tiết nhỏ này giúp xe giữ được trạng thái tốt trong suốt thời gian thuê, đặc biệt khi bạn thuê theo tuần hoặc theo tháng tại [xe máy](/blog/xe-may/).
+Vào mùa mưa ở Hà Nội, hãy lau khô khoang đồ sau khi đi mưa để tránh ẩm mốc ở lớp lót. Chi tiết nhỏ này giúp xe giữ được trạng thái tốt trong suốt thời gian thuê, đặc biệt khi bạn thuê theo tuần hoặc theo tháng tại [xe máy](/xe-may/).
 
 ## Chi phí thuê khi cần xe chở đồ
 
 Giá thuê dòng xe này được niêm yết rõ ràng tại cửa hàng Nguyễn Tú. Thuê theo ngày là 200.000 đồng, gói tuần từ 800.000 đến 1.000.000 đồng, gói tháng từ 1.800.000 đến 2.000.000 đồng. Tiền đặt cọc được xác nhận trực tiếp khi làm thủ tục. Bạn có thể ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội hoặc gọi 0942 467 674 trong giờ mở cửa từ 09:00 đến 21:00 để hỏi tình trạng xe.
 
-Nếu bạn cần xe cho nhiều mục đích hơn, ví dụ vừa đi làm vừa đi phố mới, xem thêm [chọn loại xe máy phù hợp nhu cầu](/blog/xe-may/chon-loai-xe/) trước khi quyết định. Ai quan tâm tới dòng xe ga nhỏ hơn cho phố cũng có thể so sánh với các lựa chọn tại [kinh nghiệm thuê xe](/blog/kinh-nghiem/).
+Nếu bạn cần xe cho nhiều mục đích hơn, ví dụ vừa đi làm vừa đi phố mới, xem thêm [chọn loại xe máy phù hợp nhu cầu](/xe-may/chon-loai-xe/) trước khi quyết định. Ai quan tâm tới dòng xe ga nhỏ hơn cho phố cũng có thể so sánh với các lựa chọn tại [kinh nghiệm thuê xe](/kinh-nghiem/).
 
 ## Lưu ý khi trả xe sau thời gian thuê
 
 Trước khi trả, dọn sạch khoang đồ và kiểm tra không bỏ quên đồ cá nhân, đặc biệt là giấy tờ tùy thân hay sạc dự phòng nằm trong góc khoang. Kiểm tra bản lề yên, khóa và các vết xước có sẵn đã được ghi nhận khi nhận xe để trả xe nhanh gọn.
 
-Nếu bạn mới thuê xe máy lần đầu, bài [hỏi đáp cho người mới thuê xe](/blog/hoi-dap/hoi-dap-nguoi-moi/) giải thích các bước nhận xe và trả xe đầy đủ.
+Nếu bạn mới thuê xe máy lần đầu, bài [hỏi đáp cho người mới thuê xe](/hoi-dap/hoi-dap-nguoi-moi/) giải thích các bước nhận xe và trả xe đầy đủ.
 
 ## Mũ bảo hiểm và các đồ dùng nên để trong xe
 

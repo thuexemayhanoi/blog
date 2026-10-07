@@ -21,7 +21,7 @@ Trước hết, sirius hợp ai. Nhóm rõ nhất là người đi quãng đư�
 
 Nhóm thứ hai là người cần chở đồ hoặc chở người: xe số có giàn sau rộng, dễ gắn thêm đồ, cốp gầm chứa được nhiều hơn mặt bằng chung của dòng xe ga nhỏ. Ai làm giao hàng nhẹ, đi chợ hoặc đưa đón người thân sẽ thấy thiết kế này tiện thực tế. Nhóm thứ ba là người quen đề pa và về số, cảm giác điều khiển máy móc trực tiếp khiến nhiều người vẫn chuộng xe số dù xe ga ngày càng phổ biến trên các tuyến phố.
 
-Ngược lại, Sirius không hợp người mới hoàn toàn với xe số: thao tác để pa, về số ở đèn đỏ đòi hỏi quen tay, người chưa từng đi xe số nên chạy thử kỹ trước khi thuê. Ai đi chủ yếu quãng phố ngắn, dừng liên tục, cũng có thể thấy xe ga tiện hơn vì đỡ thao tác. Tổng quan các dòng xe số khác nằm tại [chủ đề xe số](/blog/xe-may/xe-so/), nơi có nhiều bài giúp so sánh trước khi quyết định.
+Ngược lại, Sirius không hợp người mới hoàn toàn với xe số: thao tác để pa, về số ở đèn đỏ đòi hỏi quen tay, người chưa từng đi xe số nên chạy thử kỹ trước khi thuê. Ai đi chủ yếu quãng phố ngắn, dừng liên tục, cũng có thể thấy xe ga tiện hơn vì đỡ thao tác. Tổng quan các dòng xe số khác nằm tại [chủ đề xe số](/xe-may/xe-so/), nơi có nhiều bài giúp so sánh trước khi quyết định.
 
 ## Đặc điểm Sirius: bền, chắc và tiết kiệm
 
@@ -33,15 +33,15 @@ Tiết kiệm xăng là điểm cộng lớn của dòng xe số này: cùng qu�
 
 ## Chi phí thuê Sirius: hỏi gì trước khi nhận xe
 
-Giá thuê xe số nói chung và Sirius nói riêng cần xác nhận trực tiếp với cửa hàng theo thời điểm thuê, vì mức giá thay đổi theo mùa vụ và thời hạn hợp đồng. Danh sách giá các dòng xe số nằm ở [bảng giá xe số](/blog/bang-gia-xe-so/). Khi hỏi giá, nên hỏi kèm ba điểm: tiền đặt cọc, quy định xăng khi nhận và khi trả, và trách nhiệm nếu xe hỏng giữa kỳ không do lỗi người thuê để tránh hiểu lầm phát sinh.
+Giá thuê xe số nói chung và Sirius nói riêng cần xác nhận trực tiếp với cửa hàng theo thời điểm thuê, vì mức giá thay đổi theo mùa vụ và thời hạn hợp đồng. Danh sách giá các dòng xe số nằm ở [bảng giá xe số](/bang-gia-xe-so/). Khi hỏi giá, nên hỏi kèm ba điểm: tiền đặt cọc, quy định xăng khi nhận và khi trả, và trách nhiệm nếu xe hỏng giữa kỳ không do lỗi người thuê để tránh hiểu lầm phát sinh.
 
-Với người thuê dài hạn, hỏi thêm kỳ thay nhớt trong thời gian thuê và ai chịu chi phí này. Xe thuê qua nhiều tay, nếu nhớt cũ thì máy dễ đơ, nhất là xe số hay chạy đường dài, nên đây là câu hỏi đáng giá trước khi ký. Ai muốn thuê dài hạn các dòng khác, có thể đọc thêm về [thuê xe theo tháng](/blog/thue-xe/thue-thang/) để cân đối giữa thuê lẻ và thuê trọn gói theo tháng.
+Với người thuê dài hạn, hỏi thêm kỳ thay nhớt trong thời gian thuê và ai chịu chi phí này. Xe thuê qua nhiều tay, nếu nhớt cũ thì máy dễ đơ, nhất là xe số hay chạy đường dài, nên đây là câu hỏi đáng giá trước khi ký. Ai muốn thuê dài hạn các dòng khác, có thể đọc thêm về [thuê xe theo tháng](/thue-xe/thue-thang/) để cân đối giữa thuê lẻ và thuê trọn gói theo tháng.
 
 ## Thói quen dùng xe số thuê bền đẹp
 
 Với xe số thuê, vài thói quen đơn giản giúp cả bạn và xe đều nhẹ nhàng. Thứ nhất, về số giảm dần khi vào cua, không về số sâu đột ngột ở tốc độ cao. Thứ hai, khi dừng đỏ lâu, để pa thay vì giữ côn để tay đỡ mỏi và giảm mòn côn. Thứ ba, giữ lốp đủ căng, vì lốp non vừa tốn xăng vừa làm xe lủi đời thiếu ổn định trên đường trường, nhất là khi chở nặng qua cầu.
 
-Khi nhận xe, chụp vài tấm hình toàn thân xe, ghi lại km hiện tại, thử đèn còi và phanh trước khi rời cửa hàng. Khi có tiếng lạ từ máy hay côn, báo cửa hàng ngay thay vì cố đi tiếp để tránh hỏng nhỏ thành hỏng lớn giữa kỳ thuê. Kinh nghiệm thuê xe từ nhiều người đi đường được góp trong [chuyên mục kinh nghiệm](/blog/kinh-nghiem/), giúp bạn tránh những chi phí ngoài dự kiến.
+Khi nhận xe, chụp vài tấm hình toàn thân xe, ghi lại km hiện tại, thử đèn còi và phanh trước khi rời cửa hàng. Khi có tiếng lạ từ máy hay côn, báo cửa hàng ngay thay vì cố đi tiếp để tránh hỏng nhỏ thành hỏng lớn giữa kỳ thuê. Kinh nghiệm thuê xe từ nhiều người đi đường được góp trong [chuyên mục kinh nghiệm](/kinh-nghiem/), giúp bạn tránh những chi phí ngoài dự kiến.
 
 ## Kết luận
 

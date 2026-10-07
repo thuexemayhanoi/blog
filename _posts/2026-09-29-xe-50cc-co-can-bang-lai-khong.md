@@ -13,7 +13,7 @@ child_id: C-HD-PHAP-LY
 article_id: BLG-00870
 ---
 
-Trả lời nhanh bằng lái xe 50cc: theo quy định hiện hành, xe hai bánh có dung tích xi-lanh dưới 50 cm³ thuộc nhóm xe gắn máy, người từ đủ 16 tuổi được điều khiển và chưa bị buộc phải có giấy phép lái xe riêng. Vậy xe 50cc cần bằng lái không phụ thuộc vào hai yếu tố chính: dung tích xi-lanh thực tế ghi trên đăng ký xe và độ tuổi của người cầm tay ga. Đây là câu hỏi thuộc chuỗi [hỏi đáp thuê xe máy](/blog/hoi-dap/) được khách tại Hà Nội đặt nhiều nhất khi làm thủ tục nhận xe, nên bài viết gom toàn bộ thông tin cần thiết vào một chỗ để bạn kiểm tra nhanh.
+Trả lời nhanh bằng lái xe 50cc: theo quy định hiện hành, xe hai bánh có dung tích xi-lanh dưới 50 cm³ thuộc nhóm xe gắn máy, người từ đủ 16 tuổi được điều khiển và chưa bị buộc phải có giấy phép lái xe riêng. Vậy xe 50cc cần bằng lái không phụ thuộc vào hai yếu tố chính: dung tích xi-lanh thực tế ghi trên đăng ký xe và độ tuổi của người cầm tay ga. Đây là câu hỏi thuộc chuỗi [hỏi đáp thuê xe máy](/hoi-dap/) được khách tại Hà Nội đặt nhiều nhất khi làm thủ tục nhận xe, nên bài viết gom toàn bộ thông tin cần thiết vào một chỗ để bạn kiểm tra nhanh.
 
 ## Xe 50cc có cần bằng lái không
 
@@ -29,15 +29,15 @@ Nhiều khách quen gọi chung mọi chiếc xe máy là xe 50cc, nhưng trên 
 
 ## Thẻ 50cc và những giấy tờ vẫn phải mang theo
 
-Thẻ 50cc là cách gọi quen thuộc của nhiều người cho loại giấy tờ gắn với xe nhỏ dung tích, xuất phát từ thời hệ thống giấy phép lái xe còn có hạng A0 dành riêng cho xe gắn máy. Hiện nay hệ thống GPLX không còn hạng A0, và người đủ tuổi điều khiển xe gắn máy không phải làm bất kỳ thẻ hay giấy phép nào thêm. Những thông tin về thẻ 50cc đôi khi trên mạng là văn bản cũ đã hết hiệu lực, nên hãy đối chiếu với quy định mới trước khi tin, các thắc mắc tương tự được gom trong chuyên mục [hỏi đáp pháp lý](/blog/hoi-dap/hoi-dap-phap-ly/).
+Thẻ 50cc là cách gọi quen thuộc của nhiều người cho loại giấy tờ gắn với xe nhỏ dung tích, xuất phát từ thời hệ thống giấy phép lái xe còn có hạng A0 dành riêng cho xe gắn máy. Hiện nay hệ thống GPLX không còn hạng A0, và người đủ tuổi điều khiển xe gắn máy không phải làm bất kỳ thẻ hay giấy phép nào thêm. Những thông tin về thẻ 50cc đôi khi trên mạng là văn bản cũ đã hết hiệu lực, nên hãy đối chiếu với quy định mới trước khi tin, các thắc mắc tương tự được gom trong chuyên mục [hỏi đáp pháp lý](/hoi-dap/hoi-dap-phap-ly/).
 
 Bộ giấy tờ tối thiểu khi đi xe 50cc gồm căn cước công dân, đăng ký xe và bảo hiểm trách nhiệm dân sự bắt buộc. Với khách thuê xe, đăng ký và bảo hiểm do cửa hàng giao kèm theo xe, khách chỉ cần mang căn cước và GPLX nếu dòng xe yêu cầu. Hợp đồng thuê ghi rõ thời gian nhận trả xe cũng giúp minh bạch trách nhiệm về phạt nguội hay hư hỏng phát sinh trong quá trình sử dụng, thay vì để mọi việc dựa vào trí nhớ của hai bên.
 
 ## Đi xe 50cc khi thuê xe máy tại Hà Nội cần lưu ý gì
 
-Với khách du lịch hoặc người vừa đủ tuổi, xe gắn máy dưới 50 cm³ là lựa chọn nhẹ nhàng, dễ điều khiển khi chạy trong khu phố cổ hoặc dọc tuyến Nguyễn Văn Cừ qua Long Biên. Tuy nhiên, khi nhận xe bạn vẫn nên kiểm tra chứng nhận đăng ký ghi đúng loại xe, đội mũ bảo hiểm có tem hợp chuẩn và không chở quá số người quy định. Giá thuê một chiếc xe số phổ thông dao động quanh 150.000 đồng mỗi ngày tùy thời điểm, bảng giá đầy đủ được cập nhật trong trang [bảng giá cho thuê](/blog/bang-gia/) để bạn so sánh trước khi chọn.
+Với khách du lịch hoặc người vừa đủ tuổi, xe gắn máy dưới 50 cm³ là lựa chọn nhẹ nhàng, dễ điều khiển khi chạy trong khu phố cổ hoặc dọc tuyến Nguyễn Văn Cừ qua Long Biên. Tuy nhiên, khi nhận xe bạn vẫn nên kiểm tra chứng nhận đăng ký ghi đúng loại xe, đội mũ bảo hiểm có tem hợp chuẩn và không chở quá số người quy định. Giá thuê một chiếc xe số phổ thông dao động quanh 150.000 đồng mỗi ngày tùy thời điểm, bảng giá đầy đủ được cập nhật trong trang [bảng giá cho thuê](/bang-gia/) để bạn so sánh trước khi chọn.
 
-Thủ tục nhận xe gọn nhưng vẫn cần minh bạch: chụp ảnh hiện trạng xe lúc nhận, xác nhận mức nhiên liệu còn trong bình, hỏi rõ cách xử lý khi xe hỏng giữa đường. Các bước này được hướng dẫn chi tiết trong trang [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/). Nếu bạn muốn tìm hiểu sâu hơn về các hạng GPLX và điều kiện thi bằng, chuyên mục [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/) có sẵn nhiều bài phân tích theo từng trường hợp cụ thể.
+Thủ tục nhận xe gọn nhưng vẫn cần minh bạch: chụp ảnh hiện trạng xe lúc nhận, xác nhận mức nhiên liệu còn trong bình, hỏi rõ cách xử lý khi xe hỏng giữa đường. Các bước này được hướng dẫn chi tiết trong trang [thủ tục thuê xe máy](/thue-xe/thu-tuc/). Nếu bạn muốn tìm hiểu sâu hơn về các hạng GPLX và điều kiện thi bằng, chuyên mục [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) có sẵn nhiều bài phân tích theo từng trường hợp cụ thể.
 
 ## Nguồn quy định và lưu ý cập nhật
 

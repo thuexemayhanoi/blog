@@ -46,6 +46,6 @@ Mưa tạnh dừng, đừng vội tháo bạt ngay: mở hé cho hơi nước ba
 
 Người thuê xe máy cho chuyến chở hàng nên hỏi sẵn nơi cho thuê quanh Long Biên có bạt kèm xe không, và tự mang theo lớp nilông trong dự phòng: đồ thuê phục vụ trung bình, còn hàng của bạn thì chỉ bạn mới biết cần bảo vệ tới mức nào. Sau chuyến mưa, lau yên và bệ để chân trước khi trả xe, nhớ tháo bạt ướt khỏi cốp cho chỗ cho thuê có thời gian phơi.
 
-Chở đồ và hành lý gộp các quy tắc xếp buộc trong mục [chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường mùa mưa.
+Chở đồ và hành lý gộp các quy tắc xếp buộc trong mục [chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường mùa mưa.
 
 Chở hàng qua mưa cuối cùng gói trong một câu: bạt đủ rộng, bọc đúng hướng gió, và dừng bọc lại giữa chặng thay vì cố tốc độ. Ba việc nhỏ đó giữ cho mọi chuyến hàng đi qua mùa mưa vẫn tới nơi khô ráo như lúc rời đi.

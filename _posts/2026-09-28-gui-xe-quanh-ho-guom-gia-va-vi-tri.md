@@ -18,7 +18,7 @@ Gửi xe Hồ Gươm là khâu quyết định buổi dạo quanh hồ suôn s�
 
 Khách tới từ hướng phía Nam và phía Đông thường gặp các bãi giữ xe theo quy định đặt ở vành ngoài đường quanh hồ: các bãi này nhận xe máy theo chỉ dẫn của người giữ, khách đưa xe theo hàng đã gợi ý thay vì tự chọn chỗ. Khách tới từ phía Tây qua phố cổ nên tính gửi ở các bãi đầu phố lớn rồi đi bộ vào các phố ngắn, vì các phố trong cụm hẹp và lề kín hàng quán.
 
-Ngày cuối tuần, khu Hồ Gươm chuyển đổi sang phố đi bộ theo thông báo của khu vực: các tuyến trong lõi đóng với xe máy trong khung đổi bộ hành, nên khách chạy tới buổi tối cần nhắm sẵn bãi ở vành ngoài rồi đi bộ vào. Khung đầu tối cuối tuần bãi kín nhanh, khách nên tới sớm hơn dự kiến chừng hai mươi tới ba mươi phút. Danh sách điểm quanh cụm này nằm tại trang [phố cổ Hoàn Kiếm](/blog/du-lich/pho-co/), còn tổng quan cụm trung tâm được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
+Ngày cuối tuần, khu Hồ Gươm chuyển đổi sang phố đi bộ theo thông báo của khu vực: các tuyến trong lõi đóng với xe máy trong khung đổi bộ hành, nên khách chạy tới buổi tối cần nhắm sẵn bãi ở vành ngoài rồi đi bộ vào. Khung đầu tối cuối tuần bãi kín nhanh, khách nên tới sớm hơn dự kiến chừng hai mươi tới ba mươi phút. Danh sách điểm quanh cụm này nằm tại trang [phố cổ Hoàn Kiếm](/du-lich/pho-co/), còn tổng quan cụm trung tâm được kể trong bài [khám phá khu Hoàn Kiếm bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/).
 
 Khách đi nhóm đông cuối tuần nên chia vai rõ ngay từ lúc gửi: một người lo đưa xe theo hàng, một người giữ mũ và tư trang, và cả nhóm hẹn điểm gặp ở lối vào gần bãi, vì trong dòng người buổi tối tách nhau tìm lại khá tốn thời gian.
 
@@ -34,13 +34,13 @@ Một lưu ý nhỏ nhưng hay bị quên: khách giữ phiếu hoặc vé gửi
 
 Khách chốt cổng xe, khóa từ và kéo dây cốp trước khi rời xe, kể cả khi bãi có người trông: bãi đông cuối tuần lẫn lộn nhiều xe giống nhau, khóa kỹ là lớp bảo vệ đầu tiên. Khách chụp lại vị trí xe kèm biển số và biển số bãi nếu bãi có phân khu: tấm ảnh này giúp khách tìm lại xe nhanh trong bãi kín người.
 
-Hồ sơ và tư trang giá trị khách mang theo người thay vì để lại cốp, mũ bảo hiểm mang theo hoặc khóa vào cốp tùy kiểu xe. Trời nắng gắt thì khách che yên hoặc chọn chỗ bóng râm nếu bãi cho phép, trời mưa nhỏ cuối chiều thì bỏ áo mưa lên yên. Vòng kiểm tra trước khi rời bãi gồm đèn, còi, phanh và gương, vì các chặng vòng hồ về tối có nhiều tình huống băng ngang. Các thói quen giữ xe và hành lý kể kỹ hơn tại trang [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Hồ sơ và tư trang giá trị khách mang theo người thay vì để lại cốp, mũ bảo hiểm mang theo hoặc khóa vào cốp tùy kiểu xe. Trời nắng gắt thì khách che yên hoặc chọn chỗ bóng râm nếu bãi cho phép, trời mưa nhỏ cuối chiều thì bỏ áo mưa lên yên. Vòng kiểm tra trước khi rời bãi gồm đèn, còi, phanh và gương, vì các chặng vòng hồ về tối có nhiều tình huống băng ngang. Các thói quen giữ xe và hành lý kể kỹ hơn tại trang [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 ## Ghép buổi quanh hồ và quay lại lấy xe
 
 Sau khi gửi xe, phần lớn cụm hồ khách đi bộ là chính: vòng bờ hồ, các phố cổ và cụm chợ gần đó nằm trong bán kính bộ ngắn. Khách xếp lịch nên để phần chạy xe cho cung ra vào từ điểm thuê, giữ nguyên xe ở bãi suốt buổi, và chỉ lấy xe khi rời hẳn khu. Cách này vừa đỡ tốn phí giữ nhiều lượt vừa tránh lần nào cũng tìm vị trí bãi mới.
 
-Lúc quay lại lấy xe khung muộn, bãi vắng hơn ban ngày nhưng dòng xe trên đường vành ngoài dày hơn: khách thắp đèn sớm, đẩy xe ra khỏi hàng trước khi nổ máy, và nhập dòng ở các điểm có gương cong che khuất tầm nhìn. Khách mới chạy nội đô có thể xem trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống giao thông thường gặp gom tại trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/). Tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Lúc quay lại lấy xe khung muộn, bãi vắng hơn ban ngày nhưng dòng xe trên đường vành ngoài dày hơn: khách thắp đèn sớm, đẩy xe ra khỏi hàng trước khi nổ máy, và nhập dòng ở các điểm có gương cong che khuất tầm nhìn. Khách mới chạy nội đô có thể xem trước bài [gợi ý khám phá Hà Nội bằng xe máy cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/), còn các tình huống giao thông thường gặp gom tại trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/). Tổng quan trải nghiệm quanh Thủ đô nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về chuyện gửi xe quanh cụm Hồ Gươm
 

@@ -44,6 +44,6 @@ Quán nổi tiếng mở sớm, dãy hè kín từ trước giờ bạn đến �
 
 Người thuê xe máy ăn phở quanh khu quen nên tận dụng lợi thế của quán quen: quán phở ven ngõ quanh Long Biên nhiều nơi chủ quán quen mặt khách để xe ngày hai lượt, một câu hỏi thăm "chỗ để xe hôm nay ở đâu" đầu giờ cao điểm cho bạn chỗ chuẩn của quán ngày đó — chỗ chuẩn quán chỉ là thông tin mà không bãi gửi nào có được. Gửi xe quán quen theo tháng nếu ăn đều, và nhớ nói rõ ngày bạn không đến để quán không giữ chỗ vô ích.
 
-Người mới chạy phố đông lần đầu nên đọc thêm các tình huống giao thông quanh khu đông trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/); quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung. Người mới thuê xe máy nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi chạy giờ cao điểm.
+Người mới chạy phố đông lần đầu nên đọc thêm các tình huống giao thông quanh khu đông trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/); quy tắc gửi xe và giữ đồ gộp trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [kỹ năng](/ky-nang/) là mục lục chung. Người mới thuê xe máy nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi chạy giờ cao điểm.
 
 Bữa phở giờ cao điểm cuối cùng gói trong ba nhịp: chọn chỗ lệch khỏi lối vào, ba việc nhỏ trước khi vào quán, và rời đi theo thứ tự đẩy trước nổ sau. Làm đúng nhịp, bát phở của bạn chỉ còn là chuyện phở — còn xe của bạn là chuyện đã xong.

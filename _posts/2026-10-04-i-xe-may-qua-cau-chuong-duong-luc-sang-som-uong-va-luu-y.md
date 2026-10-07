@@ -40,7 +40,7 @@ Về đồ đạc: trời sớm lạnh, khăn bịt cổ và găng giữ ấm v�
 
 Chẳng ai "dừng chân" giữa cầu được — lề cầu không có chỗ đỗ, và dừng trên cầu là nguy hiểm thật. Muốn ngắm, hai đầu cầu mới có chỗ dừng hợp lệ: phía nội đô quanh khu dốc dẫn, phía Long Biên ven đường xuống cầu. Đó cũng là lý do nhiều người chạy xe sáng qua cầu rồi vòng về ăn sáng phía bờ Long Biên: vừa có quãng sông, vừa có bữa sáng.
 
-Ai mới chạy nội đô buổi sớm nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/); các điểm đến quanh khu bờ bắc được gom trong chuyên mục [Long Biên](/blog/du-lich/long-bien/), còn gợi ý địa điểm khác nằm ở mục [điểm đến Hà Nội](/blog/du-lich/diem-den/).
+Ai mới chạy nội đô buổi sớm nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/); các điểm đến quanh khu bờ bắc được gom trong chuyên mục [Long Biên](/du-lich/long-bien/), còn gợi ý địa điểm khác nằm ở mục [điểm đến Hà Nội](/du-lich/diem-den/).
 
 ## Ghép quãng cầu sáng vào buổi đi
 

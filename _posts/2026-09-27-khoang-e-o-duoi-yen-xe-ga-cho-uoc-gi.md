@@ -41,4 +41,4 @@ Ngoài ra, hãy tập thói quen kiểm tra cốp trước khi trả xe: nhiều
 
 ## Tóm lại
 
-Khoang để đồ dưới yên là lợi thế rõ rệt của xe ga: vừa một túi hàng cỡ trung cùng mũ bảo hiểm hoặc bộ đồ đi làm, đủ cho phần lớn nhu cầu đi phố của một người. Trên mức đó, bạn cần tính đến hộp đồ sau yên hoặc phương án buộc hành lý có kiểm soát. Để hiểu thêm cách [chở đồ và hành lý](/blog/ky-nang/cho-do-va-hanh-ly/) an toàn trên xe máy, hoặc so sánh các dòng xe có cốp rộng hay gặp, hãy xem chủ đề [xe tay ga](/blog/xe-may/xe-ga/) trong tổng quan các [dòng xe máy](/blog/xe-may/).
+Khoang để đồ dưới yên là lợi thế rõ rệt của xe ga: vừa một túi hàng cỡ trung cùng mũ bảo hiểm hoặc bộ đồ đi làm, đủ cho phần lớn nhu cầu đi phố của một người. Trên mức đó, bạn cần tính đến hộp đồ sau yên hoặc phương án buộc hành lý có kiểm soát. Để hiểu thêm cách [chở đồ và hành lý](/ky-nang/cho-do-va-hanh-ly/) an toàn trên xe máy, hoặc so sánh các dòng xe có cốp rộng hay gặp, hãy xem chủ đề [xe tay ga](/xe-may/xe-ga/) trong tổng quan các [dòng xe máy](/xe-may/).

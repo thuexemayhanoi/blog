@@ -48,7 +48,7 @@ Theo bảng giá đã duyệt của cửa hàng:
 - Thuê theo tuần: từ 600.000 đến 700.000 đồng.
 - Thuê theo tháng: từ 1.000.000 đến 1.200.000 đồng.
 
-Với nhu cầu đi lại hai người quanh khu vực Long Biên, Bồ Đề, đi làm hoặc đi học, mức giá theo tháng của Click thường là lựa chọn cân bằng giữa nhỏ gọn và tiết kiệm. Chi tiết bảng giá xe ga xem thêm ở [giá thuê xe ga](/blog/bang-gia-xe-ga/), và tổng quan dòng xe ở trang [Honda Click](/blog/xe-may/honda-click/).
+Với nhu cầu đi lại hai người quanh khu vực Long Biên, Bồ Đề, đi làm hoặc đi học, mức giá theo tháng của Click thường là lựa chọn cân bằng giữa nhỏ gọn và tiết kiệm. Chi tiết bảng giá xe ga xem thêm ở [giá thuê xe ga](/bang-gia-xe-ga/), và tổng quan dòng xe ở trang [Honda Click](/xe-may/honda-click/).
 
 ## Nên thuê Click hay dòng khác nếu chở hai người nhiều
 
@@ -59,7 +59,7 @@ Trung thực mà nói, nếu nhu cầu chở hai người là chủ yếu và qu
 - Chở người cao to hoặc chở kèm hành lý: dòng xe yên dài, giảm xóc sau chắc sẽ êm hơn.
 - Chạy một người là chủ yếu, thỉnh thoảng chở thêm: Click vẫn là lựa chọn tốt.
 
-Nếu bạn cân nhắc giữa các dòng xe ga nhỏ gọn khác, trang tổng hợp [xe máy](/blog/xe-may/) có đầy đủ đặc tính từng nhóm để so sánh trước khi quyết.
+Nếu bạn cân nhắc giữa các dòng xe ga nhỏ gọn khác, trang tổng hợp [xe máy](/xe-may/) có đầy đủ đặc tính từng nhóm để so sánh trước khi quyết.
 
 ## Kinh nghiệm chạy Click chở người ngồi sau theo từng cung đường
 
@@ -75,4 +75,4 @@ Người ngồi sau cũng có vai trò trong sự êm ái: bám chắc khi xe t�
 ## Kết luận
 
 Honda Click thuê chở hai người có êm không? Êm trong ngưỡng thiết kế của một chiếc xe ga nhỏ gọn đô thị, với điều kiện lái nhẹ ga, phanh sớm và người ngồi sau giữ đúng tư thế. Giá thuê theo ngày 150.000 đồng, theo tuần từ 600.000 đến 700.000 đồng và theo tháng từ 1.000.000 đến 1.200.000 đồng là mức hợp lý cho nhu cầu hai người quanh phố
-. Trước khi nhận xe, bạn nên kiểm tra cùng cửa hàng tình trạng giảm xóc và nhớt để chắc chắn xe êm cho suốt kỳ thuê. Cần tư vấn nhanh, liên hệ 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00, và xem quy trình ở [nhận xe và trả xe máy thuê](/blog/thue-xe/nhan-tra-xe/) khi cần chuẩn bị trước khi nhận xe.
+. Trước khi nhận xe, bạn nên kiểm tra cùng cửa hàng tình trạng giảm xóc và nhớt để chắc chắn xe êm cho suốt kỳ thuê. Cần tư vấn nhanh, liên hệ 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00, và xem quy trình ở [nhận xe và trả xe máy thuê](/thue-xe/nhan-tra-xe/) khi cần chuẩn bị trước khi nhận xe.

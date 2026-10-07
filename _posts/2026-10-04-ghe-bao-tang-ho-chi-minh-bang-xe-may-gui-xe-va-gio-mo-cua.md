@@ -28,7 +28,7 @@ Từ hồ Hoàn Kiếm, bạn đi theo trục Hàng Bài, Tràng Tiền, Cửa N
 
 Cần lưu ý khu vực quanh Quảng trường có nhiều đoạn một chiều và một số phố cấm xe máy vào khung giờ nhất định, đặc biệt vào sáng sớm khi khu vực chuẩn bị lễ chào cờ hoặc đón đoàn khách. Thay vì đi tắt qua các ngõ nhỏ, bạn nên mở bản đồ trên điện thoại và chấp nhận quãng đường dài hơn một chút để đúng luật.
 
-Ai ngại tự lái có thể đi xe buýt, trong đó các tuyến số 09, 18, 22 dừng gần Quảng trường Ba Đình, cách bảo tàng vài phút đi bộ. Tuy vậy, xe buýt chịu lịch chờ và các điểm dừng, trong khi xe máy cho bạn chủ động thời gian, nhất là khi dự định kết hợp nhiều điểm trong cùng một buổi. Các gợi ý về điểm đến khác của thủ đô được tổng hợp trong trang [điểm du lịch Hà Nội](/blog/du-lich/diem-den/).
+Ai ngại tự lái có thể đi xe buýt, trong đó các tuyến số 09, 18, 22 dừng gần Quảng trường Ba Đình, cách bảo tàng vài phút đi bộ. Tuy vậy, xe buýt chịu lịch chờ và các điểm dừng, trong khi xe máy cho bạn chủ động thời gian, nhất là khi dự định kết hợp nhiều điểm trong cùng một buổi. Các gợi ý về điểm đến khác của thủ đô được tổng hợp trong trang [điểm du lịch Hà Nội](/du-lich/diem-den/).
 
 ## Gửi xe Bảo tàng Hồ Chí Minh ở đâu
 
@@ -50,10 +50,10 @@ Sáng sớm các ngày thường là khung lý tưởng: khách vắng, không g
 
 ## Thuê xe máy cho chuyến tham quan
 
-Khách du lịch từ xa, người đến Hà Nội bằng tàu hỏa hay máy bay thường chọn thuê xe máy thay vì chuyển xe riêng từ nhà. Thuê theo ngày giúp bạn cơ động vòng quanh khu Ba Đình, kết hợp thêm các tuyến phố lân cận mà không phải lo gửi xe ở nhiều bãi khác nhau. Bạn có thể xem trước thủ tục ở bài viết về [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) để chuẩn bị giấy tờ cho nhanh.
+Khách du lịch từ xa, người đến Hà Nội bằng tàu hỏa hay máy bay thường chọn thuê xe máy thay vì chuyển xe riêng từ nhà. Thuê theo ngày giúp bạn cơ động vòng quanh khu Ba Đình, kết hợp thêm các tuyến phố lân cận mà không phải lo gửi xe ở nhiều bãi khác nhau. Bạn có thể xem trước thủ tục ở bài viết về [thuê xe máy theo ngày](/thue-xe/thue-ngay/) để chuẩn bị giấy tờ cho nhanh.
 
 ## Kết hợp các điểm lân cận
 
-Một buổi sáng đủ để bạn thăm Lăng Chủ tịch Hồ Chí Minh, Chùa Một Cột rồi sang bảo tàng, bởi tất cả nằm cạnh nhau. Chiều về, nhiều người chạy xe dạo quanh hồ Tây hoặc về khu phố cổ. Nếu bạn đang lên kế hoạch rộng hơn cho chuyến đi Hà Nội, chuyên mục [du lịch Hà Nội](/blog/du-lich/) có nhiều gợi ý theo chủ đề, còn trang [bảo tàng ở Hà Nội](/blog/du-lich/bao-tang/) giới thiệu thêm các viện bảo tàng đáng ghé khác.
+Một buổi sáng đủ để bạn thăm Lăng Chủ tịch Hồ Chí Minh, Chùa Một Cột rồi sang bảo tàng, bởi tất cả nằm cạnh nhau. Chiều về, nhiều người chạy xe dạo quanh hồ Tây hoặc về khu phố cổ. Nếu bạn đang lên kế hoạch rộng hơn cho chuyến đi Hà Nội, chuyên mục [du lịch Hà Nội](/du-lich/) có nhiều gợi ý theo chủ đề, còn trang [bảo tàng ở Hà Nội](/du-lich/bao-tang/) giới thiệu thêm các viện bảo tàng đáng ghé khác.
 
 Tóm lại, ghé Bảo tàng Hồ Chí Minh bằng xe máy là cách nhiều du khách tận dụng tối đa một buổi ở khu Ba Đình: chủ động giờ giấc, chủ động điểm dừng và tiết kiệm thời gian di chuyển. Chuẩn bị trước thông tin về đường đi, gửi xe cùng khung giờ mở cửa giúp buổi tham quan suôn sẻ, ít phát sinh và trọn vẹn hơn.

@@ -50,11 +50,11 @@ Với xe thuê, ranh giới trách nhiệm rất rõ: bạn sử dụng, cửa h
 - Báo cửa hàng theo kênh đã biết: gọi điện hoặc nhắn tin, không tự ý sửa.
 - Nếu gần kỳ trả xe và tiếng kêu nhẹ, có thể thống nhất kiểm tra cùng lúc lúc trả.
 
-Quy trình nhận và trả xe ghi rõ hiện trạng từng bộ phận, bạn có thể xem lại ở [nhận xe và trả xe máy thuê](/blog/thue-xe/nhan-tra-xe/) để biết phần nào cần chụp ảnh lưu khi nhận xe.
+Quy trình nhận và trả xe ghi rõ hiện trạng từng bộ phận, bạn có thể xem lại ở [nhận xe và trả xe máy thuê](/thue-xe/nhan-tra-xe/) để biết phần nào cần chụp ảnh lưu khi nhận xe.
 
 ## Tiếng kêu phanh liên quan thế nào đến bảo dưỡng
 
-Phanh là bộ phận hao mòn theo thời gian sử dụng, không phải lỗi do người thuê gây ra trong vài ngày. Việc bố phanh mòn đúng kỳ là bảo dưỡng bình thường của xe máy. Vì vậy tiếng kêu phanh trên xe thuê thường là dấu hiệu xe đến kỳ bảo dưỡng chứ không phải chuyện để lo lắng quá mức. Tham khảo thêm nhóm [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/) để hiểu kỳ hạn nhớt, lốp, đèn và phanh trên xe cho thuê, và trang [xe máy](/blog/xe-may/) cho tổng quan các dòng xe.
+Phanh là bộ phận hao mòn theo thời gian sử dụng, không phải lỗi do người thuê gây ra trong vài ngày. Việc bố phanh mòn đúng kỳ là bảo dưỡng bình thường của xe máy. Vì vậy tiếng kêu phanh trên xe thuê thường là dấu hiệu xe đến kỳ bảo dưỡng chứ không phải chuyện để lo lắng quá mức. Tham khảo thêm nhóm [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) để hiểu kỳ hạn nhớt, lốp, đèn và phanh trên xe cho thuê, và trang [xe máy](/xe-may/) cho tổng quan các dòng xe.
 
 ## Mấy câu thường gặp về tiếng kêu phanh trên xe thuê
 

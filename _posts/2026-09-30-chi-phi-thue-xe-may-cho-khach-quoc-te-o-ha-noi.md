@@ -17,9 +17,9 @@ Khách quốc tế tới Hà Nội công tác hoặc du lịch nhiều tuần th
 
 ## Chi phí thuê xe máy cho khách quốc tế: bảng giá áp dụng thế nào
 
-Cần xác lập ngay từ đầu: khách quốc tế dùng chung một bảng giá theo loại xe và thời gian thuê như mọi khách khác, không có mức riêng cho người nước ngoài. Mốc tham chiếu hiện hành: xe số Honda Wave và nhóm Honda Click, Yamaha Mio là 150.000đ mỗi ngày; xe ga Honda Vision và Air Blade là 200.000đ mỗi ngày. Với kỳ thuê dài, gói tuần và tháng rẻ hơn so với nhân ngày lẻ, ví dụ nhóm Click và Mio có gói tuần trong khoảng 600.000đ đến 700.000đ, phù hợp với khách ở lại năm bảy ngày. Bạn có thể đối chiếu trực tiếp trong [bảng giá thuê xe máy](/blog/bang-gia/).
+Cần xác lập ngay từ đầu: khách quốc tế dùng chung một bảng giá theo loại xe và thời gian thuê như mọi khách khác, không có mức riêng cho người nước ngoài. Mốc tham chiếu hiện hành: xe số Honda Wave và nhóm Honda Click, Yamaha Mio là 150.000đ mỗi ngày; xe ga Honda Vision và Air Blade là 200.000đ mỗi ngày. Với kỳ thuê dài, gói tuần và tháng rẻ hơn so với nhân ngày lẻ, ví dụ nhóm Click và Mio có gói tuần trong khoảng 600.000đ đến 700.000đ, phù hợp với khách ở lại năm bảy ngày. Bạn có thể đối chiếu trực tiếp trong [bảng giá thuê xe máy](/bang-gia/).
 
-Với khách ở lại Hà Nội nhiều tuần hoặc nhiều tháng, gói tháng lại là phương án đáng kể nhất, ví dụ nhóm Click và Mio có gói tháng từ khoảng 1.000.000 đồng trở lên. Đây thường là khoản lớn nhất trong tổng chi phí, nên việc tính trước gói nào hợp với thời gian ở lại là bước quyết định. Cách so sánh các gói được trình bày trong phần [giá thuê xe máy](/blog/thue-xe/gia-thue/).
+Với khách ở lại Hà Nội nhiều tuần hoặc nhiều tháng, gói tháng lại là phương án đáng kể nhất, ví dụ nhóm Click và Mio có gói tháng từ khoảng 1.000.000 đồng trở lên. Đây thường là khoản lớn nhất trong tổng chi phí, nên việc tính trước gói nào hợp với thời gian ở lại là bước quyết định. Cách so sánh các gói được trình bày trong phần [giá thuê xe máy](/thue-xe/gia-thue/).
 
 ## Các khoản phụ cần tính vào ngân sách
 
@@ -31,7 +31,7 @@ Một khoản nữa đặc thù với khách quốc tế: phí chuyển đổi n
 
 ## Giấy tờ và đặt cọc: phần chuẩn bị trước khi đến
 
-Khác biệt lớn nhất với khách quốc tế nằm ở khâu giấy tờ. Để điều khiển xe máy hợp pháp tại Việt Nam, bạn cần giấy phép lái xe được phép sử dụng tại Việt Nam: bằng lái quốc gia được cấp có công nhận phù hợp, hoặc giấy phép lái xe quốc tế theo công ước mà Việt Nam tham gia. Hộ chiếu là giấy tờ định danh thường được dùng khi thuê. Chi tiết từng loại giấy tờ được giải thích kỹ trong phần [thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/).
+Khác biệt lớn nhất với khách quốc tế nằm ở khâu giấy tờ. Để điều khiển xe máy hợp pháp tại Việt Nam, bạn cần giấy phép lái xe được phép sử dụng tại Việt Nam: bằng lái quốc gia được cấp có công nhận phù hợp, hoặc giấy phép lái xe quốc tế theo công ước mà Việt Nam tham gia. Hộ chiếu là giấy tờ định danh thường được dùng khi thuê. Chi tiết từng loại giấy tờ được giải thích kỹ trong phần [thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/).
 
 Về đặt cọc, khách quốc tế thường có hai lựa chọn tùy cửa hàng: cọc bằng tiền mặt hoặc giữ giấy tờ tạm thời trong kỳ thuê. Mỗi hình thức có ưu nhược riêng về tiện lợi và an tâm, và điều kiện hoàn cọc cần được hỏi rõ ngay khi nhận xe. Trước khi nhận, bạn cũng nên xem qua các quy tắc giao thông cơ bản tại Việt Nam nếu đây là lần đầu bạn chạy xe ở Hà Nội, vì quen dòng xe là chuyện nhỏ, quen dòng chảy xe mới là chuyện lớn.
 

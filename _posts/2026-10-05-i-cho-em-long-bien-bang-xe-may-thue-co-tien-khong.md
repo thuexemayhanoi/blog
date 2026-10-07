@@ -16,7 +16,7 @@ writer: W1
 
 Câu hỏi đi chợ đêm Long Biên bằng xe máy thuê có tiện không đáng được cân đo từ hai phía: một bên là chợ đêm sầm uất, đông người, hàng quán bày kín lối; bên kia là xe máy thuê linh hoạt, hợp với khu vực Long Biên vốn rộng, thưa xe hơn phố cổ. Kết luận ngắn: tiện, đúng loại điểm đến nên đi bằng xe máy, miễn là bạn tính trước điểm gửi xe và khung giờ, vì hai yếu tố đó quyết định trải nghiệm giữa tiện và mệt.
 
-Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/blog/du-lich/), gợi ý quanh khu phía đông thành phố trong phần [Long Biên và Gia Lâm](/blog/du-lich/long-bien/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [du lịch Hà Nội](/du-lich/), gợi ý quanh khu phía đông thành phố trong phần [Long Biên và Gia Lâm](/du-lich/long-bien/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Vì sao đi chợ đêm Long Biên bằng xe máy là hợp lý
 

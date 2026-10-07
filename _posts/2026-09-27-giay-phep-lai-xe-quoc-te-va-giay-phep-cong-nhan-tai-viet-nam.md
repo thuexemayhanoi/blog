@@ -15,7 +15,7 @@ article_id: BLG-00535
 
 Khi một vị khách từ châu Âu, Hàn Quốc hay Nhật Bản đến Hà Nội và muốn tự lái xe máy, câu hỏi đầu tiên luôn là giấy phép lái xe quốc tế việt nam công nhận loại nào. Đây không phải chi tiết giấy tờ suông: nếu bạn điều khiển xe mà giấy phép không phù hợp, rủi ro pháp lý thuộc về chính bạn, còn cửa hàng cho thuê cũng có thể từ chối giao xe ngay từ đầu. Bài này tách rõ từng loại giấy phép, cách xác nhận trước với chủ xe và các phương án dự phòng nếu giấy phép của bạn không dùng được.
 
-Nếu bạn mới tìm hiểu tổng quan về thuê xe cho khách quốc tế, hãy đọc chuyên mục [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/blog/thue-xe/).
+Nếu bạn mới tìm hiểu tổng quan về thuê xe cho khách quốc tế, hãy đọc chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/thue-xe/).
 
 ## Các loại giấy phép lái xe quốc tế việt nam chấp nhận
 
@@ -29,7 +29,7 @@ Một điểm cần lưu ý: IDP chỉ có giá trị khi đi kèm giấy phép 
 
 Nhiều khách mang theo giấy phép lái xe quốc gia của nước mình, ví dụ giấy phép trong nước Hàn Quốc hay Thái Lan, và hỏi liệu bản này có dùng được không. Câu trả lời thực tế là tùy tình huống: một số giấy phép có ghi song ngữ hoặc có ký hiệu khu vực được một số bên chấp nhận, nhưng để chắc chắn, bản dịch công chứng tiếng Việt kèm theo luôn là lớp an toàn đáng cân nhắc.
 
-Khi liên hệ thuê xe, bạn nên chụp trước cả hai mặt giấy phép gửi cho cửa hàng xem qua. Cửa hàng cho thuê có kinh nghiệm với khách quốc tế sẽ nói ngay loại giấy phép của bạn có ổn hay không, thay vì để bạn đến nơi rồi mới trả về. Nếu chưa chắc chắn về giá trị pháp lý của văn bản mình đang giữ, hãy đọc thêm tổng quan tại trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/) trước khi quyết định.
+Khi liên hệ thuê xe, bạn nên chụp trước cả hai mặt giấy phép gửi cho cửa hàng xem qua. Cửa hàng cho thuê có kinh nghiệm với khách quốc tế sẽ nói ngay loại giấy phép của bạn có ổn hay không, thay vì để bạn đến nơi rồi mới trả về. Nếu chưa chắc chắn về giá trị pháp lý của văn bản mình đang giữ, hãy đọc thêm tổng quan tại trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) trước khi quyết định.
 
 Quy định về giấy tờ lưu thông có thể thay đổi theo từng thời kỳ, vì vậy trước mỗi chuyến đi, bạn nên kiểm tra lại văn bản hiện hành do cơ quan có thẩm quyền ban hành thay vì dựa hoàn toàn vào thông tin cũ.
 
@@ -51,7 +51,7 @@ Giờ làm việc của cửa hàng là 09:00–21:00 hằng ngày tại 112 Ngu
 
 Trường hợp giấy phép không phù hợp, bạn vẫn có vài lựa chọn thực tế. Một là chuyển sang xe đạp điện hoặc xe máy điện phân khối nhỏ nếu đúng nhu cầu di chuyển gần, sau khi hỏi chủ xe về điều kiện cụ thể. Hai là dùng phương án di chuyển khác cho những chặng xa và chỉ thuê xe máy ở những chặng bạn đủ điều kiện lái.
 
-Ba là học hỏi từ những khách đã đi trước: cách đặt xe từ xa qua Zalo được mô t chi tiết trong bài [đặt xe máy trước từ xa](/blog/chia sẻ/2026/09/18/cach-dat-xe-may-truoc-tu-xa/), trong đó có cả việc gửi giấy tờ chụp sẵn để chủ xe duyệt trước.
+Ba là học hỏi từ những khách đã đi trước: cách đặt xe từ xa qua Zalo được mô t chi tiết trong bài [đặt xe máy trước từ xa](/chia sẻ/2026/09/18/cach-dat-xe-may-truoc-tu-xa/), trong đó có cả việc gửi giấy tờ chụp sẵn để chủ xe duyệt trước.
 
 Điều nên tránh là mượn giấy phép của người khác hoặc thuê xe ở chỗ không hỏi giấy tờ. Hai tình huống này đều tạo rủi ro cho chính bạn khi lưu thông trên đường.
 

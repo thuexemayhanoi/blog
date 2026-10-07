@@ -48,6 +48,6 @@ Ven cung có vài điểm phụ nhỏ đáng nhớ: các đoạn đường qua �
 
 Quãng về nên dừng đúng một mốc: ăn nhẹ hoặc uống nước tại đúng mốc hai lúc đi, quen quán quen chỗ luôn an toàn hơn thử quán mới lúc người mệt. Trục về chiều muộn đông xe chạy hướng thành phố, giữ làn giữa, không lách giữa các xe container, và nếu chở gốm nặng lệch, chạy chậm hơn tốc độ thường của mình một bậc. Về tới nội đô, né các đoạn phố chặn giờ tan tầm quanh khu Hồ Gươm cho hướng về Long Biên.
 
-Muốn đọc thêm các chia kiểu nghỉ theo cung ngắn, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; theo dõi thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung lần đầu nên đọc mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi xuất phát.
+Muốn đọc thêm các chia kiểu nghỉ theo cung ngắn, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn; theo dõi thời tiết trước chuyến nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung của mọi tuyến. Người mới thuê xe máy đi cung lần đầu nên đọc mục [kinh nghiệm](/kinh-nghiem/) trước khi xuất phát.
 
 Ba mốc nhỏ của cung Phù Lãng không tốn thêm mấy phút, nhưng chúng là thứ phân biệt một chuyến làng nghề thong thả với một chuyến vội vã về với gốm lỏng lẻo trên yên. Dừng đúng nhịp, buộc gốm cho chắc, và quãng nửa ngày phía đông bắc ấy sẽ cho bạn buổi đáng nhớ đúng nghĩa.

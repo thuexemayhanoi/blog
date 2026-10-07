@@ -16,7 +16,7 @@ writer: W1
 
 Câu hỏi xe máy chạy làn xe buýt có bị xử lý không được nhiều khách thuê đặt ra, vì trong giờ cao điểm nhìn các khoảng trống giữa hai chuyến buýt mà rẽ vào theo cho nhanh là cám dỗ rất tự nhiên của người vội. Câu trả lời ngắn gọn: làn của xe buýt là làn ưu tiên hoặc làn quy hoạch riêng cho phương tiện vận tải công cộng, xe máy không thuộc nhóm được sử dụng, và việc rẽ vào là đi không đúng làn đường quy định, điều có thể dẫn đến xử phạt khi bị ghi hình hoặc bị chặn trực tiếp. Bài này giải thích vì sao, những chỗ dễ vào nhầm nhất, và cách xử lý nếu lỡ rẽ vào rồi mới nhận ra.
 
-Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/blog/an-toan-phap-ly/), quy định giao thông chung trong phần [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan nhóm chủ đề nằm ở trang [an toàn pháp lý](/an-toan-phap-ly/), quy định giao thông chung trong phần [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), còn thủ tục thuê xe nằm trong trang [thuê xe máy](/thue-xe/).
 
 ## Xe máy chạy làn xe buýt vì sao không được phép
 

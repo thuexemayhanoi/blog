@@ -38,7 +38,7 @@ Với mùa hè nóng, lốp cũ không nên chạy liên tục quãng quá dài:
 
 Ba tình huống dẫn tới quyết định thay không chần chừ: vết nứt lộ sợi vải bên trong, thành lốp phồng hoặc rộp cục bộ, và độ sâu hoa đã mòn tới mức gờ chỉ báo chạm mặt đường. Với xe thuê, bạn không tự thay được, nhưng bạn có quyền yêu cầu đổi xe hoặc đề nghị thay lốp trước khi nhận chuyến dài, và đây là yêu cầu hoàn toàn chính đáng: lốp là chi tiết an toàn, không phải chi tiết trang trí. Nếu cho thuê từ chối với lý do xe vẫn chạy được, hãy cân nhắc kỹ việc nhận xe đó cho cung đường xa.
 
-Để hiểu bảng thời gian chăm lốp trong tổng thể bảo dưỡng, đọc bài [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/). Ảnh hưởng của tình trạng lốp tới phản ứng phanh được nói thêm trong [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/), còn nếu bạn đang chọn một chiếc [xe máy](/blog/xe-may/) thuê, hãy coi lốp là hạng mục đầu tiên cần kiểm tra, trước cả đèn và còi.
+Để hiểu bảng thời gian chăm lốp trong tổng thể bảo dưỡng, đọc bài [bảo dưỡng xe](/xe-may/bao-duong-xe/). Ảnh hưởng của tình trạng lốp tới phản ứng phanh được nói thêm trong [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), còn nếu bạn đang chọn một chiếc [xe máy](/xe-may/) thuê, hãy coi lốp là hạng mục đầu tiên cần kiểm tra, trước cả đèn và còi.
 
 ## Kết lại
 

@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe số để chạy đường trường: chọn xe số thuê chạy đường trường kiểm tra kỹ từ đầu là điều kiện tiên quyết, vì xe số giá thuê nhẹ và chủ động hơn xe ga, nhưng chạy xa khác hẳn chạy phố, và việc kiểm tra xe số trước chạy xa cần kỹ hơn nhiều lần so với chuyến đi vòng quanh nội thành Hà Nội. Một xe số nhìn ổn ở phố có thể bộc lộ đủ thứ trên quãng đường hàng chục ki-lô-mét liền không có tiệm sửa. Bài viết này là danh mục kiểm tra xe số thuê chạy đường trường kiểm tra cần làm trước khi nhận xe, và những đồ nên mang theo.
 
-Nếu bạn chưa chắc xe số hợp với mình hơn xe ga, phần [chọn loại xe](/blog/xe-may/chon-loai-xe/) và mục [xe số](/blog/xe-may/xe-so/) có so sánh chi tiết, còn tổng quan chủ đề nằm ở trang [xe máy](/blog/xe-may/).
+Nếu bạn chưa chắc xe số hợp với mình hơn xe ga, phần [chọn loại xe](/xe-may/chon-loai-xe/) và mục [xe số](/xe-may/xe-so/) có so sánh chi tiết, còn tổng quan chủ đề nằm ở trang [xe máy](/xe-may/).
 
 ## Kiểm tra xe số trước chạy xa: nhóm hạng mục chính trước khi nhận xe
 
@@ -36,7 +36,7 @@ Một phần của buổi chạy thử ít ai làm nhưng rất đáng: thử đ
 
 Danh mục tối thiểu cho xe số đường dài: bộ vá mini hoặc ít nhất là bơm portable, mũ bảo hiểm chắc chắn hai ngôi chỉnh, áo mưa, nước, và điện thoại sạc đầy cùng cáp. Thêm một đôi găng và khăn phủ mặt cho đoạn nhiều bụi. Nếu đi đoàn, thống nhất trước điểm dừng và cách liên lạc khi văng nhau giữa đường.
 
-Với xe số, một chi tiết hay bỏ quên là chìa khóa dự phòng: hỏi chủ xe có chìa phụ không và để ở đâu an toàn, vì giữa đường trường mất chìa là kẹt thật sự, khác hẳn trong phố có người tiệm gần. Người từng gặp sự cố giữa chừng sẽ thấy phần [xử lý sự cố xe máy](/blog/xe-may/xu-ly-su-co-xe/) và mục thuê gắn với [thuê xe máy](/blog/thue-xe/) đọc trước rất đáng.
+Với xe số, một chi tiết hay bỏ quên là chìa khóa dự phòng: hỏi chủ xe có chìa phụ không và để ở đâu an toàn, vì giữa đường trường mất chìa là kẹt thật sự, khác hẳn trong phố có người tiệm gần. Người từng gặp sự cố giữa chừng sẽ thấy phần [xử lý sự cố xe máy](/xe-may/xu-ly-su-co-xe/) và mục thuê gắn với [thuê xe máy](/thue-xe/) đọc trước rất đáng.
 
 ## Kế hoạch chuyến đi và cách chia quãng
 

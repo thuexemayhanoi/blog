@@ -17,7 +17,7 @@ Trả lời mức phạt không mũ: theo Nghị định 168/2024/NĐ-CP, ngư�
 
 ## Đi xe không mũ bảo hiểm phạt bao nhiêu
 
-Mũ bảo hiểm là trang bị bắt buộc cho mọi người ngồi trên xe mô tô, xe gắn máy, không phân biệt đoạn đường dài hay đoạn phố ngắn. Quy định này được giữ nguyên trong khung xử phạt hiện hành vì mũ bảo hiểm là yếu tố giảm nhẹ chấn thương đầu rõ rệt nhất khi xảy ra va chạm. Khi thuê xe máy tại Hà Nội, khách nhận kèm mũ từ cửa hàng, nên không có lý do để tham gia giao thông mà thiếu trang bị này. Câu hỏi này thuộc chuỗi [hỏi đáp thuê xe máy](/blog/hoi-dap/) của blog.
+Mũ bảo hiểm là trang bị bắt buộc cho mọi người ngồi trên xe mô tô, xe gắn máy, không phân biệt đoạn đường dài hay đoạn phố ngắn. Quy định này được giữ nguyên trong khung xử phạt hiện hành vì mũ bảo hiểm là yếu tố giảm nhẹ chấn thương đầu rõ rệt nhất khi xảy ra va chạm. Khi thuê xe máy tại Hà Nội, khách nhận kèm mũ từ cửa hàng, nên không có lý do để tham gia giao thông mà thiếu trang bị này. Câu hỏi này thuộc chuỗi [hỏi đáp thuê xe máy](/hoi-dap/) của blog.
 
 Không đội mũ bảo hiểm có thể bị phát hiện khi bị chặn phương tiện kiểm tra hoặc qua thiết bị ghi hình phạt nguội như nhiều hành vi khác. Biên bản được lập cho người điều khiển, còn người không đội mũ ngồi sau cũng bị ghi vào hồ sơ xử lý nếu hành vi của họ bị phát hiện trong cùng lần kiểm tra. Vì vậy, trước mỗi chuyến đi, kiểm tra mũ cho cả hai người trên xe là thao tác không nên bỏ qua dù chỉ đi chợ gần nhà.
 
@@ -43,10 +43,10 @@ Trên thị trường có nhiều loại mũ thời trang mỏng nhẹ trông gi
 
 Khi nhận xe thuê, kiểm tra mũ có tem hợp chuẩn còn nguyên, quai cài chắc, lớp lót bên trong sạch. Mũ bảo hiểm đã qua nắng mưa nhiều năm giảm khả năng hấp thụ xung, nên nếu thấy mũ quá cũ, cứ yêu cầu đổi chiếc khác trước khi rời cửa hàng. Thói quen nhỏ này không mất quá một phút nhưng ảnh hưởng trực tiếp đến mức độ an toàn trên suốt hành trình.
 
-Ngoài mũ, các trang bị và thói quen an toàn khác như kiểm tra phanh, đèn, giữ khoảng cách, quan sát gương được tóm tắt trong bài viết về [sức khỏe khi lái xe](/blog/ky-nang/suc-khoe-khi-lai-xe/). Tổng quan các quy định hiện hành nằm trong chuyên mục [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/), còn giá thuê từng dòng xe được cập nhật trong trang [bảng giá cho thuê](/blog/bang-gia/). Cuối chuyến thuê, trả lại mũ cùng xe như lúc nhận giúp cửa hàng kiểm tra nhanh, và nếu mũ bị rơi va mạnh trong chuyến, báo lại để cửa hàng thay mũ mới cho khách tiếp theo.
+Ngoài mũ, các trang bị và thói quen an toàn khác như kiểm tra phanh, đèn, giữ khoảng cách, quan sát gương được tóm tắt trong bài viết về [sức khỏe khi lái xe](/ky-nang/suc-khoe-khi-lai-xe/). Tổng quan các quy định hiện hành nằm trong chuyên mục [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/), còn giá thuê từng dòng xe được cập nhật trong trang [bảng giá cho thuê](/bang-gia/). Cuối chuyến thuê, trả lại mũ cùng xe như lúc nhận giúp cửa hàng kiểm tra nhanh, và nếu mũ bị rơi va mạnh trong chuyến, báo lại để cửa hàng thay mũ mới cho khách tiếp theo.
 
 ## Nguồn quy định và lưu ý cập nhật
 
-Nội dung trên dựa trên Nghị định 168/2024/NĐ-CP, văn bản gốc được công bố trên cổng thông tin của cơ quan ban hành, bạn có thể đọc [văn bản nghị định](https://luatvietnam.vn/giao-thong/tai-nghi-dinh-168-nd-cp-2024-pdf-xu-phat-hanh-chinh-ve-giao-thong-863-103957-article.html) để đối chiếu khung phạt. Mức phạt và điều kiện áp dụng có thể thay đổi theo văn bản sửa đổi mới, nên hãy kiểm tra lại gần ngày đi. Bài viết thuộc chuyên mục [hỏi đáp pháp lý](/blog/hoi-dap/hoi-dap-phap-ly/) của blog.
+Nội dung trên dựa trên Nghị định 168/2024/NĐ-CP, văn bản gốc được công bố trên cổng thông tin của cơ quan ban hành, bạn có thể đọc [văn bản nghị định](https://luatvietnam.vn/giao-thong/tai-nghi-dinh-168-nd-cp-2024-pdf-xu-phat-hanh-chinh-ve-giao-thong-863-103957-article.html) để đối chiếu khung phạt. Mức phạt và điều kiện áp dụng có thể thay đổi theo văn bản sửa đổi mới, nên hãy kiểm tra lại gần ngày đi. Bài viết thuộc chuyên mục [hỏi đáp pháp lý](/hoi-dap/hoi-dap-phap-ly/) của blog.
 
 Nếu bạn cần mũ bảo hiểm đạt chuẩn đi kèm xe thuê, hãy ghé Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, cửa hàng giao mũ kèm xe cho cả người lái và người ngồi sau.

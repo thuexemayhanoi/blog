@@ -33,7 +33,7 @@ Trẻ nhỏ ở bảo tàng này thường say nhất các mẫu đá màu sắc
 
 Dặn trẻ trước vài quy tắc đơn giản: không chạy trong phòng trưng bày, không tự chạm vào mẫu vật vì nhiều viên đá và hóa thạch không có lớp kính chắn, và giữ khoảng cách với các tủ trình diễn có đèn. Đây là dịp tốt để khoa học trở nên cụ thể với trẻ: đứng trước một mẫu dầu thô thật hay một tấm bản đồ địa chất của cả nước, câu chuyện về lòng đất đọc lên nghe khác hẳn so với trong sách.
 
-Với nhóm đi bằng xe máy thuê, mũ bảo hiểm đúng cỡ cho trẻ và áo gió mỏng là hai món nên mang, vì trong nhà mát hơn ngoài phố đáng kể. Chuyện gửi xe quanh khu Hồ Gươm và giữ xe an toàn nằm trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), còn việc chuẩn bị xe và giấy tờ khi thuê được gom trong trang [cho thuê xe máy](/blog/thue-xe/).
+Với nhóm đi bằng xe máy thuê, mũ bảo hiểm đúng cỡ cho trẻ và áo gió mỏng là hai món nên mang, vì trong nhà mát hơn ngoài phố đáng kể. Chuyện gửi xe quanh khu Hồ Gươm và giữ xe an toàn nằm trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), còn việc chuẩn bị xe và giấy tờ khi thuê được gom trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Tra trước những gì trước khi khởi hành
 
@@ -43,8 +43,8 @@ Giày bám tốt đáng mang hơn giày dép vì các tầng giao bằng cầu t
 
 ## Nghỉ giữa buổi và ghép lịch quanh Hồ Gươm
 
-Sau buổi tại bảo tàng, nhóm hay ăn trưa quanh khu phố cổ hoặc dạo một vòng hồ Gươm cho tiêu cơm, vì tất cả chỉ cách vài phút đi bộ. Nếu còn sức thì chợ Đồng Xuân là điểm ghép quen thuộc cho nhóm có trẻ, còn ai muốn nối chuỗi các buổi bảo tàng thì bài [thăm bảo tàng Hà Nội nửa ngày](/blog/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-ha-noi-nua-ngay/) có khung xếp giờ dùng chung được cho mọi bảo tàng trong thành phố, và bài [đến bảo tàng Hà Nội bằng xe máy](/blog/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/) gợi ý thêm chuyện gửi xe ở khu Nam Từ Liêm. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó luôn phá nhịp nghỉ giữa buổi.
+Sau buổi tại bảo tàng, nhóm hay ăn trưa quanh khu phố cổ hoặc dạo một vòng hồ Gươm cho tiêu cơm, vì tất cả chỉ cách vài phút đi bộ. Nếu còn sức thì chợ Đồng Xuân là điểm ghép quen thuộc cho nhóm có trẻ, còn ai muốn nối chuỗi các buổi bảo tàng thì bài [thăm bảo tàng Hà Nội nửa ngày](/du-lich/2026/10/01/kinh-nghiem-ghe-tham-bao-tang-ha-noi-nua-ngay/) có khung xếp giờ dùng chung được cho mọi bảo tàng trong thành phố, và bài [đến bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/) gợi ý thêm chuyện gửi xe ở khu Nam Từ Liêm. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó luôn phá nhịp nghỉ giữa buổi.
 
 Một kinh nghiệm nhỏ nữa cho nhóm đi cuối tuần: tối thứ Sáu tới Chủ Nhật khu quanh hồ Gươm thường chuyển thành phố đi bộ, nên nhóm nào muốn về bằng xe máy nên lấy xe trước khi khu phố cấm xe vào, hoặc gửi xe ở bãi ngoài rìa từ đầu. Chọn khung giờ theo tính cách nhóm là cách đơn giản nhất để buổi nửa ngày không biến thành cuộc chen chúc mệt mỏi.
 
-Nửa ngày là ước lượng dư sức cho bảo tàng Địa chất: đủ để đi trọn ba khối trưng bày và đứng thật lâu trước hóa thạch khủng long, mà vẫn kịp một vòng hồ Gươm rồi về nghỉ giữa trưa. Xếp đúng thứ tự, giữ chỗ nghỉ giữa buổi, và buổi đi của bạn sẽ tươm tất từ khúc rẽ vào Phạm Ngũ Lão cho tới lúc lấy xe về, chuyện cuối cùng ghi trong danh sách [điểm đến](/blog/du-lich/diem-den/) để tích dần cho các buổi đi sau quanh Hà Nội.
+Nửa ngày là ước lượng dư sức cho bảo tàng Địa chất: đủ để đi trọn ba khối trưng bày và đứng thật lâu trước hóa thạch khủng long, mà vẫn kịp một vòng hồ Gươm rồi về nghỉ giữa trưa. Xếp đúng thứ tự, giữ chỗ nghỉ giữa buổi, và buổi đi của bạn sẽ tươm tất từ khúc rẽ vào Phạm Ngũ Lão cho tới lúc lấy xe về, chuyện cuối cùng ghi trong danh sách [điểm đến](/du-lich/diem-den/) để tích dần cho các buổi đi sau quanh Hà Nội.

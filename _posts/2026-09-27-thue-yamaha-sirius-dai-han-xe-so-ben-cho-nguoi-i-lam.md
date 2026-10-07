@@ -30,7 +30,7 @@ Sirius là dòng xe số bán chạy của Yamaha, cấu tạo đơn giản, đ�
 
 Thuê ngày phù hợp khách vãng lai, còn thuê dài hạn hướng đến người có nhu cầu ổn định. Về bản chất, bạn trả một mức cố định theo tháng để được dùng xe như phương tiện chính của mình, không phải lo mua xe, lo khấu hao hay lo đăng kiểm. Với những người mới đến Hà Nội công tác dài hạn, sinh viên năm cuối, hoặc người đang chờ xe hỏng sửa, thuê tháng là giải pháp gọn.
 
-Bạn nên bàn rõ với bên cho thuê các nội dung sau: thời hạn và cách gia hạn, mức giá theo tháng, cách tính những ngày không dùng xe, trách nhiệm sửa chữa khi xe hỏng giữa kỳ, và việc cấp xe thay thế nếu xe phải sửa lâu. Các điều khoản này nên được ghi rõ, không nên chỉ trao đổi miệng. Bạn có thể tham khảo trang [thuê xe theo tháng](/blog/thue-xe/thue-thang/) để nắm cách tính giá theo thời hạn dài.
+Bạn nên bàn rõ với bên cho thuê các nội dung sau: thời hạn và cách gia hạn, mức giá theo tháng, cách tính những ngày không dùng xe, trách nhiệm sửa chữa khi xe hỏng giữa kỳ, và việc cấp xe thay thế nếu xe phải sửa lâu. Các điều khoản này nên được ghi rõ, không nên chỉ trao đổi miệng. Bạn có thể tham khảo trang [thuê xe theo tháng](/thue-xe/thue-thang/) để nắm cách tính giá theo thời hạn dài.
 
 ## Xe bền hay không còn tùy cách dùng
 
@@ -40,7 +40,7 @@ Câu hỏi Sirius bền không phụ thuộc phần lớn vào cách người d�
 - Không chở quá tải, hai người lớn kèm hàng cồng kềnh làm giảm xóc và xích chóng hỏng.
 - Bơm lốp đúng chuẩn mỗi tuần, đừng để lốp non khi đi hằng ngày.
 - Tra dầu xích định kỳ trong điều kiện bụi như Hà Nội.
-- Thay nhớt đúng kỳ, xem hướng dẫn về [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/) để nắm chu kỳ cụ thể.
+- Thay nhớt đúng kỳ, xem hướng dẫn về [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) để nắm chu kỳ cụ thể.
 
 Khi thuê dài hạn, việc bạn giữ xe tốt cũng giúp quá trình trả xe suôn sẻ, không tranh chấp về hư hỏng hay khấu trừ đặt cọc.
 
@@ -60,7 +60,7 @@ Thuê tháng chỉ hợp lý khi bạn đi đều đặn hầu hết các ngày 
 
 ## Dịch vụ thuê Sirius dài hạn tại Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội cho thuê Yamaha Sirius theo ngày và theo tháng, phục vụ từ 09:00 đến 21:00 hàng ngày. Bạn gọi 0942 467 674 để hỏi trực tiếp về xe đang sẵn, giá thuê tháng và thủ tục nhận xe. Xem thêm trang chủ đề [Yamaha Sirius](/blog/xe-may/yamaha-sirius/) nếu bạn muốn so sánh Sirius với các dòng xe số khác trước khi quyết định.
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội cho thuê Yamaha Sirius theo ngày và theo tháng, phục vụ từ 09:00 đến 21:00 hàng ngày. Bạn gọi 0942 467 674 để hỏi trực tiếp về xe đang sẵn, giá thuê tháng và thủ tục nhận xe. Xem thêm trang chủ đề [Yamaha Sirius](/xe-may/yamaha-sirius/) nếu bạn muốn so sánh Sirius với các dòng xe số khác trước khi quyết định.
 
 Thuê dài hạn là đúng đắn khi nhu cầu đi lại của bạn ổn định và bạn muốn một chiếc xe quen tay quanh năm. Chọn Sirius cho mục đích này, bạn vừa tiết kiệm chi phí thuê, vừa bớt lo hỏng vặt giữa tuần làm việc, lại dễ chủ động lịch sử dụng xe mỗi ngày.
 

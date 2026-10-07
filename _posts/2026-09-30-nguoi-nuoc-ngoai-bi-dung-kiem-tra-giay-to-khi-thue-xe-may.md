@@ -25,11 +25,11 @@ Với khách từ những nơi quen kiểm tra nhanh, việc bị yêu cầu xu�
 
 ## Mang bộ giấy tờ gì khi đi xe thuê
 
-Ba thứ nên luôn theo người: giấy tờ tùy thân bản gốc theo hướng dẫn của cửa hàng, giấy phép lái được phép dùng tại Việt Nam, và bản hợp đồng thuê xe hoặc thẻ nhận xe. Chụp lại toàn bộ giấy tờ này lưu trong điện thoại là bước dự phòng rẻ nhất: nếu bản gốc được xem ở bất kỳ đâu, bản chụp giúp bạn trình bày nhanh ở các bước sau. Các loại giấy phép lái hợp lệ cho khách quốc tế được nói rõ trong phần [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn toàn bộ bộ thủ tục thuê xe nằm trong phần [thuê xe máy cho khách quốc tế](/blog/thue-xe/khach-quoc-te/).
+Ba thứ nên luôn theo người: giấy tờ tùy thân bản gốc theo hướng dẫn của cửa hàng, giấy phép lái được phép dùng tại Việt Nam, và bản hợp đồng thuê xe hoặc thẻ nhận xe. Chụp lại toàn bộ giấy tờ này lưu trong điện thoại là bước dự phòng rẻ nhất: nếu bản gốc được xem ở bất kỳ đâu, bản chụp giúp bạn trình bày nhanh ở các bước sau. Các loại giấy phép lái hợp lệ cho khách quốc tế được nói rõ trong phần [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn toàn bộ bộ thủ tục thuê xe nằm trong phần [thuê xe máy cho khách quốc tế](/thue-xe/khach-quoc-te/).
 
 Nếu lỡ quên giấy tờ ở khách sạn, cách xử lý cũng tương tự: bình tĩnh nói rõ, đề nghị cho vài phút gọi cửa hàng hoặc về nơi ở lấy. Trong tình huống đó, khách thuê xe có lợi thế riêng so với khách đi xe cá nhân: cửa hàng có thể xác nhận qua điện thoại việc bạn đang thuê đúng chiếc xe, giấy phép đang ở đâu, và đôi khi đó là đủ để buổi kiểm tra kết thúc nhanh. Điều kiện là số điện thoại cửa hàng phải nằm trong danh bạ từ trước.
 
-Một chi tiết nhỏ mà nhiều khách bỏ qua: số điện thoại cửa hàng. Hợp đồng thuê luôn có số liên hệ, và lưu số đó vào danh bạ ngay khi nhận xe giúp bạn gọi được hỗ trợ trong các tình huống dừng xe, không phải lục lại hợp đồng giữa ngả tư. Thói quen này còn hợp với nhiều tình huống khác của xe thuê, được kể trong phần [thủ tục thuê xe](/blog/thue-xe/thu-tuc/).
+Một chi tiết nhỏ mà nhiều khách bỏ qua: số điện thoại cửa hàng. Hợp đồng thuê luôn có số liên hệ, và lưu số đó vào danh bạ ngay khi nhận xe giúp bạn gọi được hỗ trợ trong các tình huống dừng xe, không phải lục lại hợp đồng giữa ngả tư. Thói quen này còn hợp với nhiều tình huống khác của xe thuê, được kể trong phần [thủ tục thuê xe](/thue-xe/thu-tuc/).
 
 ## Bốn bước khi bị dừng xe
 
@@ -37,7 +37,7 @@ Một, dừng an toàn: phanh nhẹ, vào lề theo chỉ tay của người ra 
 
 Một vài chi tiết nhỏ giúp buổi dừng xe êm hơn: tắt hẳn nhạc và tháo tai nghe trước khi vào lề, và đứng lệch về phía lề thay vì giữa dòng xe đang chạy. Vào buổi tối, bật đèn xe ở chế độ trụ để người kiểm tra thấy rõ bạn đang hợp tác. Những chi tiết này không nằm trong văn bản nào, nhưng là ngôn ngữ đường phố ai cũng đọc được.
 
-Về ngôn ngữ, ba câu tiếng Việt đáng nhớ trước buổi dừng xe: xin chào, tôi không hiểu, và cho tôi gọi điện. Ba câu này phủ gần hết các tình huống giao tiếp ở chốt, và nụ cười bình tĩnh làm phần còn lại. Các bước chuẩn bị cho khách quốc tế tự lái nói chung nằm gọn trong trang chủ đề [thuê xe máy](/blog/thue-xe/), từ giấy tờ tới cách chọn xe cho từng cung đường.
+Về ngôn ngữ, ba câu tiếng Việt đáng nhớ trước buổi dừng xe: xin chào, tôi không hiểu, và cho tôi gọi điện. Ba câu này phủ gần hết các tình huống giao tiếp ở chốt, và nụ cười bình tĩnh làm phần còn lại. Các bước chuẩn bị cho khách quốc tế tự lái nói chung nằm gọn trong trang chủ đề [thuê xe máy](/thue-xe/), từ giấy tờ tới cách chọn xe cho từng cung đường.
 
 ## Sau buổi kiểm tra
 

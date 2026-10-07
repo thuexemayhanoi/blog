@@ -25,7 +25,7 @@ Nếu đi cùng bạn hoặc người yêu, chia nhau tìm: một người giữ
 
 Sau khoảng ba mươi phút tìm mà vẫn chưa thấy, khách chuyển sang bảo vệ xe. Xe không khóa được nên đỗ nơi có người trông giữ: bãi giữ xe máy trả phí, nhà trông xe của chung cư, hoặc sân của một quán quen mà khách giải thích tình huống. Bãi giữ xe có phiếu và có người canh nên vẫn là lựa chọn tốt nhất, kể cả khi mất chìa vì khách cứ nói rõ với người trông xe để họ chú ý giúp. Khách không nên kéo xe đi lang thang tìm quán sửa, vì kéo xe ga bằng bánh khi buông ga có thể làm hỏng bộ truyền động, và kéo xe số buông côn sai cách thì càng rủi ro. Đánh dấu vị trí xe bằng gửi vị trí cho người thân, vì lúc căng thẳng khách hay quên chỗ đỗ.
 
-Một điều khách tuyệt đối không làm là tự đập khóa hay gỡ khóa. Khóa cổ bị đập bẹp làm hỏng luôn cả ổ, và chi phí thay nguyên cụm khóa sau này lớn hơn nhiều so với làm lại một chìa. Cũng không nên rủ thợ hàng xóm khoan ổ: khóa xe cho thuê thường là khóa chính hãng có mã, và thợ tự khoan có thể làm chìa mới không ăn khớp, đến lúc chủ xe nhận lại thì rắc rối thêm. Sự cố khi thuê xe có trang gom hướng dẫn xử lý [sự cố khi thuê xe](/blog/thue-xe/su-co/), khách tham khảo để biết đâu là giới hạn được phép tự xử.
+Một điều khách tuyệt đối không làm là tự đập khóa hay gỡ khóa. Khóa cổ bị đập bẹp làm hỏng luôn cả ổ, và chi phí thay nguyên cụm khóa sau này lớn hơn nhiều so với làm lại một chìa. Cũng không nên rủ thợ hàng xóm khoan ổ: khóa xe cho thuê thường là khóa chính hãng có mã, và thợ tự khoan có thể làm chìa mới không ăn khớp, đến lúc chủ xe nhận lại thì rắc rối thêm. Sự cố khi thuê xe có trang gom hướng dẫn xử lý [sự cố khi thuê xe](/thue-xe/su-co/), khách tham khảo để biết đâu là giới hạn được phép tự xử.
 
 ## Gọi chủ xe: nói gì và thống nhất thế nào
 
@@ -39,4 +39,4 @@ Mỗi ca mất chìa đều dạy một bài phòng ngừa. Khách nên dùng m�
 
 Tóm lại, mất chìa khóa xe thuê không phải thảm họa nếu khách làm đúng trình tự: tìm lại theo đường ngược, bảo vệ xe tại chỗ có trông, không tự phá khóa, gọi chủ xe sớm, và chốt lại mọi thỏa thuận bằng tin nhắn. Làm như vậy, buổi chiều mất chìa thường kết thúc bằng một chìa mới hoặc một chìa dự phòng, chứ không phải một ổ khóa hỏng hay một buổi tranh cãi.
 
-Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin các dòng xe cho thuê gom ở trang [thuê xe](/blog/thue-xe/), và khách muốn tìm hiểu thêm về từng loại xe trước chuyến đi có thể xem [chọn loại xe](/blog/xe-may/chon-loai-xe/).
+Khách thuê xe máy của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Thông tin các dòng xe cho thuê gom ở trang [thuê xe](/thue-xe/), và khách muốn tìm hiểu thêm về từng loại xe trước chuyến đi có thể xem [chọn loại xe](/xe-may/chon-loai-xe/).

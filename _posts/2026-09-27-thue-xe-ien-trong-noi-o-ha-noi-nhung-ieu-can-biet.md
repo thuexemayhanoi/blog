@@ -47,4 +47,4 @@ Danh sách kiểm tra nhanh trước khi đặt: giá thuê dòng xe điện hi�
 
 ## Tóm lại: thuê xe điện Hà Nội cần biết gì khi đi nội đô
 
-Thuê xe điện trong nội đô là lựa chọn hợp lý nếu bạn đi các chặng ngắn, thích vận hành êm và chủ động được chuyện sạc pin qua đêm. Nhớ ba nhóm điều cần biết: chọn dòng xe khớp lịch trình, nắm rõ chuyện pin và sạc, và giữ thói quen an toàn giữa phố đông. Bạn đọc thêm chủ đề [xe máy điện](/blog/xe-may/xe-dien/), tham khảo cách [chọn loại xe máy](/blog/xe-may/chon-loai-xe/), hoặc xem tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) để thuê đúng xe cho những ngày ở Hà Nội.
+Thuê xe điện trong nội đô là lựa chọn hợp lý nếu bạn đi các chặng ngắn, thích vận hành êm và chủ động được chuyện sạc pin qua đêm. Nhớ ba nhóm điều cần biết: chọn dòng xe khớp lịch trình, nắm rõ chuyện pin và sạc, và giữ thói quen an toàn giữa phố đông. Bạn đọc thêm chủ đề [xe máy điện](/xe-may/xe-dien/), tham khảo cách [chọn loại xe máy](/xe-may/chon-loai-xe/), hoặc xem tổng quan trong chủ đề [dòng xe máy](/xe-may/) để thuê đúng xe cho những ngày ở Hà Nội.

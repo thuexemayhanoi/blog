@@ -44,6 +44,6 @@ Vài lưu ý nhỏ cho quãng nối: sáng sớm các hàng quanh chân cầu b�
 
 Ba quy tắc của quãng này: đi chậm trên mặt sắt, nhường người đi bộ quanh chân cầu hai bên, và kiểm tra đèn trước khi lên cầu khi trời còn mờ sương. Người mới thuê xe máy lần đầu nên coi quãng Bồ Đề sang phố cổ này như bài nhập môn vừa đẹp vừa dễ: đường ngắn, biển rõ, và nếu có gì cần chỉnh trên xe thì các con phố sau chân cầu cũng đủ chỗ dừng.
 
-Các tình huống giao thông quen quanh khu chân cầu được tách riêng trong mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) để bạn đọc trước khi chạy; các điểm dạo khác của Long Biên gom tại chuyên mục [Long Biên](/blog/du-lich/long-bien/); còn trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi lịch trình sáng sớm. Ai mới thuê xe máy lần đầu nên đọc nhanh mục [kinh nghiệm](/blog/kinh-nghiem/) cho vài lưu ý tổng quát trước buổi đầu tiên.
+Các tình huống giao thông quen quanh khu chân cầu được tách riêng trong mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) để bạn đọc trước khi chạy; các điểm dạo khác của Long Biên gom tại chuyên mục [Long Biên](/du-lich/long-bien/); còn trang [du lịch](/du-lich/) là mục lục chung cho mọi lịch trình sáng sớm. Ai mới thuê xe máy lần đầu nên đọc nhanh mục [kinh nghiệm](/kinh-nghiem/) cho vài lưu ý tổng quát trước buổi đầu tiên.
 
 Sương sông, cầu thép trăm tuổi, và một khu phố cổ chưa kịp đông: quãng sáng sớm từ Bồ Đề qua cầu Long Biên ngắn vậy mà nhiều người đi quanh năm không chán, bởi mỗi buổi sáng trên cây cầu này đều có chút gì đó riêng.

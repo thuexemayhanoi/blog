@@ -41,7 +41,7 @@ Vài tình huống đặc biệt cần xử khác: mưa lớn thì ưu tiên ké
 
 ## Báo cửa hàng: gọi sớm, nói đủ thông tin
 
-Ngay khi dừng an toàn và hình dung được tình trạng, bạn nên gọi cửa hàng báo trước, kể cả khi định tự vá ở quán gần. Lý do: một số hợp đồng quy định cách xử lý với hỏng lốp, và báo sớm giúp bạn không bị động về trách nhiệm sau này. Các tình huống sự cố với xe thuê được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Ngay khi dừng an toàn và hình dung được tình trạng, bạn nên gọi cửa hàng báo trước, kể cả khi định tự vá ở quán gần. Lý do: một số hợp đồng quy định cách xử lý với hỏng lốp, và báo sớm giúp bạn không bị động về trách nhiệm sau này. Các tình huống sự cố với xe thuê được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/).
 
 Khi gọi, bạn nói rõ: vị trí, bánh nào xì, tình trạng lốp (xì đinh, xì thành, rách lớn), và hỏi hướng xử lý cửa hàng muốn bạn làm. Nếu cửa hàng yêu cầu mang xe về hoặc thợ đến hỗ trợ, bạn cứ làm theo hướng đó.
 
@@ -51,6 +51,6 @@ Trước khi tiếp tục hành trình sau khi vá, bạn nên chạy thử mộ
 
 Trước khi ký hợp đồng thuê, một vòng kiểm tra lốp mất chưa đầy một phút: nhìn hoa lốp còn sâu không, thành lốp có vết vá cũ hay nứt, bóp bánh xem hơi có căng không. Bạn cũng nên hỏi lốp từng bị vá bao nhiêu lần, vì lốp vá nhiều ở cùng vị trí dễ xì lại.
 
-Về áp suất lốp, cách kiểm tra và vì sao nó quan trọng được nói trong trang [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/). Lốp non vừa hao xăng vừa nóng nhanh, và cũng là nguyên nhân khiến vạt mỏng dễ bị xuyên khi cán đinh.
+Về áp suất lốp, cách kiểm tra và vì sao nó quan trọng được nói trong trang [bảo dưỡng xe](/xe-may/bao-duong-xe/). Lốp non vừa hao xăng vừa nóng nhanh, và cũng là nguyên nhân khiến vạt mỏng dễ bị xuyên khi cán đinh.
 
-Tay lái khi gặp vũng và đường trơn cũng phần nào giúp bạn thoát các tình huống khó; cách giữ khoảng cách và quan sát được nói trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/). Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp sự cố giữa đường; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Tay lái khi gặp vũng và đường trơn cũng phần nào giúp bạn thoát các tình huống khó; cách giữ khoảng cách và quan sát được nói trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/). Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi gặp sự cố giữa đường; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

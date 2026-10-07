@@ -3,7 +3,7 @@
 """SINH TRANG HUB CHỦ ĐỀ THIẾU — thuexemayhanoi/blog.
 
 Vấn đề: hàng PLANNED của matrix có internal_links trỏ tới hub của taxonomy
-(/blog/<parent>/<child>/) nhưng trang hub chưa tồn tại -> QA route-truth
+(/<parent>/<child>/) nhưng trang hub chưa tồn tại -> QA route-truth
 từ chối hàng (bảo vệ đúng), nhưng dependency không bao giờ được "im lặng":
 hub phải được sinh TRƯỚC khi bài được xuất bản.
 
@@ -53,8 +53,6 @@ def main():
             if not l:
                 continue
             route = l.split('#', 1)[0]
-            if route.startswith('/blog'):
-                route = route[len('/blog'):]
             if route in by_route:
                 required.add(route)
 

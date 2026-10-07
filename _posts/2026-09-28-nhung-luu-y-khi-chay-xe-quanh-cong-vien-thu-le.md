@@ -24,13 +24,13 @@ Nhiều khách dừng tạm trên vỉa hè đối diện cổng để thắt d�
 
 Kim Mã là trục lớn phía đông công viên: đường nhiều làn, dòng nhanh, và có các đoạn tách làn cho xe buýt; chạy trên Kim Mã nên giữ làn giữa, hạn chế đổi làn sát ngã tư, vì các xe rẽ từ ngõ lân cận hay xuất hiện bất ngờ. Đường Buổi phía tây công viên hẹp hơn nhưng thẳng, hai bên đông hàng quán, dòng xe buýt và xe tải nhỏ ra vào thường xuyên; trên trục này giữ khoảng cách với xe buýt đang sát lề, vì xe buýt lùi ra khỏi điểm dừng chiếm làn. Vũ Ngọc Phan phía nam công viên là trục nhỏ nhất, hợp cho khách vào từ hướng tây, nhưng khung tan tầm trường học trên trục này rất đậm xe đạp điện và xe đạp, chạy đè tốc độ thấp.
 
-Khu quanh công viên còn đặc thù một chiều và ngõ nhỏ: khách lạ đường đừng cắt ngõ để đi tắt, vì các ngõ này có trường mẫu giáo và khu ở, trẻ và người già ra vào liên tục. Gặp đoàn xe đạp của nhóm thể dục buổi sáng, nhường theo nhịp đoàn thay vì bấm còi vượt: các vòng quanh công viên sáng sớm là tập quán của khu, khách chạy xe nên đi vòng tránh khung đó. Cách xử lý các tình huống phố đông được phân tích trong trang [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/).
+Khu quanh công viên còn đặc thù một chiều và ngõ nhỏ: khách lạ đường đừng cắt ngõ để đi tắt, vì các ngõ này có trường mẫu giáo và khu ở, trẻ và người già ra vào liên tục. Gặp đoàn xe đạp của nhóm thể dục buổi sáng, nhường theo nhịp đoàn thay vì bấm còi vượt: các vòng quanh công viên sáng sớm là tập quán của khu, khách chạy xe nên đi vòng tránh khung đó. Cách xử lý các tình huống phố đông được phân tích trong trang [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/).
 
 ## Gửi xe khi công viên đông
 
 Bãi xe quanh công viên mở theo giờ của khu; khung giữa sáng cuối tuần, bãi sát cổng kín trước rồi tới các bãi lân cận trong hẻm. Mức phí giữ xe máy thường nhỏ lẻ, nhưng có thể tăng theo ngày cao điểm; hỏi giá trước khi đưa xe là thói quen nên giữ, nhất là khi gửi theo giờ dài cả buổi. Ưu tiên bãi có người trông trực tiếp, có biển ghi giá, và để xe theo hướng chỉ dẫn, đừng tự xếp thêm hàng dọc ra đường vì đó là lý do các cổng hay bị chặn.
 
-Xe máy thuê cần khóa cổ và khóa từ, cất mũ vào cốp, chụp vị trí và biển số trước khi đi vào công viên. Cuối buổi lấy xe khi bãi đông, hãy kiểm tra gương, đèn và phanh ngay tại chỗ trước khi lăn ra: các trục quanh công viên có dòng nhanh, xe phải sẵn sàng ngay từ cổng bãi. Kinh nghiệm giữ xe tại các điểm tham quan được kể tại trang [du lịch Hà Nội](/blog/du-lich/), và các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/blog/hoi-dap/).
+Xe máy thuê cần khóa cổ và khóa từ, cất mũ vào cốp, chụp vị trí và biển số trước khi đi vào công viên. Cuối buổi lấy xe khi bãi đông, hãy kiểm tra gương, đèn và phanh ngay tại chỗ trước khi lăn ra: các trục quanh công viên có dòng nhanh, xe phải sẵn sàng ngay từ cổng bãi. Kinh nghiệm giữ xe tại các điểm tham quan được kể tại trang [du lịch Hà Nội](/du-lich/), và các câu hỏi về đi lại trong nội đô được gom tại trang [hỏi đáp](/hoi-dap/).
 
 ## Mưa và đường quanh công viên
 
@@ -40,4 +40,4 @@ Gió to mùa giông cũng đáng để ý trên các trục mở quanh khu: cây
 
 ## Kết luận về chạy xe quanh Thủ Lệ
 
-Tóm lại, chạy xe quanh công viên Thủ Lệ cần để ý ba nhóm điểm: trước các cổng có trẻ nhỏ và xe dừng, các trục lớn có xe buýt và ngã tư dày, và bãi xe kín dần theo khung cuối tuần. Chậm lại trước cổng, gửi xe đúng bãi, tránh khung tan tầm là đủ cho phần lớn các buổi. Danh mục điểm đến quanh Hà Nội có tại trang [điểm đến](/blog/du-lich/diem-den/). Khách cần thuê xe máy tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.
+Tóm lại, chạy xe quanh công viên Thủ Lệ cần để ý ba nhóm điểm: trước các cổng có trẻ nhỏ và xe dừng, các trục lớn có xe buýt và ngã tư dày, và bãi xe kín dần theo khung cuối tuần. Chậm lại trước cổng, gửi xe đúng bãi, tránh khung tan tầm là đủ cho phần lớn các buổi. Danh mục điểm đến quanh Hà Nội có tại trang [điểm đến](/du-lich/diem-den/). Khách cần thuê xe máy tại Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674.

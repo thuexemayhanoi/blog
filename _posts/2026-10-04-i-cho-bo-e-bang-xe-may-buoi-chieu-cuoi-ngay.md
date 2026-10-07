@@ -46,6 +46,6 @@ Buổi chiều cuối ngày quanh Bồ Đề ghép được nhiều việc: tan 
 
 Nhóm mua đông cho cả phòng trọ thì nên hẹn trước tại một bãi xe cụ thể, chia nhau mua theo từng khu hàng cho nhanh. Ai mới thuê xe máy ở Long Biên lần đầu cũng nên đi chợ chiều một buổi cho quen đường và quen nhịp khu, trước khi tính các chạy dài hơn như lên đê hoặc qua các trục lớn.
 
-Muốn đọc thêm về các điểm dạo quanh quận, chuyên mục [Long Biên](/blog/du-lich/long-bien/) gom lộ trình của khu, mục [điểm đến Hà Nội](/blog/du-lich/diem-den/) gom nhiều lộ trình chiều khác; các lưu ý để xe ven phố và giữ xe chi tiết nằm trong mục [gửi xe & giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/blog/du-lich/) là mục lục chung cho mọi buổi chiều. Ai mới chạy xe chở đồ lần đầu nên lướt qua mục [kinh nghiệm](/blog/kinh-nghiem/) cho vài quy tắc chở hàng an toàn.
+Muốn đọc thêm về các điểm dạo quanh quận, chuyên mục [Long Biên](/du-lich/long-bien/) gom lộ trình của khu, mục [điểm đến Hà Nội](/du-lich/diem-den/) gom nhiều lộ trình chiều khác; các lưu ý để xe ven phố và giữ xe chi tiết nằm trong mục [gửi xe & giữ xe](/ky-nang/gui-xe-va-giu-xe/); trang [du lịch](/du-lich/) là mục lục chung cho mọi buổi chiều. Ai mới chạy xe chở đồ lần đầu nên lướt qua mục [kinh nghiệm](/kinh-nghiem/) cho vài quy tắc chở hàng an toàn.
 
 Chợ chiều vơi hàng, chiếc xe buộc hai túi cân, và quãng đường về vài phút: đi chợ Bồ Đề bằng xe máy cuối ngày là việc nhỏ mà quen thuộc của bao người Long Biên, và cũng là một trong những cách dễ nhất để chạm vào nhịp sống thật của khu.

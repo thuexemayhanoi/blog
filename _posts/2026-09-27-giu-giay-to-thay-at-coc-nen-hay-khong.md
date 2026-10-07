@@ -17,7 +17,7 @@ Khi ra cửa hàng thuê xe, nhiều khách được hỏi muốn đặt cọc t
 
 ## Cách hai hình thức bảo đảm hoạt động
 
-Với đặt cọc tiền, bạn gửi một khoản theo thỏa thuận, nhận lại khi trả xe đúng hiện trạng. Khoản tiền này không phải chi phí, chỉ là giá trị tạm giữ, và cách nó vận hành được tóm tắt ngay trong mục [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/).
+Với đặt cọc tiền, bạn gửi một khoản theo thỏa thuận, nhận lại khi trả xe đúng hiện trạng. Khoản tiền này không phải chi phí, chỉ là giá trị tạm giữ, và cách nó vận hành được tóm tắt ngay trong mục [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/).
 
 Với việc để lại giấy tờ, khách gửi một văn bản tùy thân cho cửa hàng giữ trong thời gian thuê. Ưu điểm rõ ràng là không phải chuẩn bị sẵn một khoản tiền. Nhưng bản chất của hình thức này cần được hỏi kỹ: cửa hàng giữ giấy tờ gốc hay chỉ photo, giấy tờ nào được chấp nhận, và bạn có được nhận lại bản gốc ngay khi trả xe không. Mỗi cửa hàng có cách làm khác nhau, nên đừng giả định.
 
@@ -26,7 +26,7 @@ Với việc để lại giấy tờ, khách gửi một văn bản tùy thân c
 Giấy tờ tùy thân là văn bản pháp lý gắn với con người: hộ chiếu, căn cước, giấy phép lái xe đều dùng cho nhiều việc khác ngoài chuyện thuê xe trong thời gian bạn thuê. Nếu trong kỳ thuê bạn cần giấy tờ để làm việc khác, đổi tiền, check-in khách sạn ch
 uyến đi đột xuất, bạn sẽ bị động vì giấy đang nằm ở cửa hàng.
 
-Một rủi ro khác khó thấy hơn: khi giấy tờ đang bị giữ, vị thế trao đổi của bạn bị ảnh hưởng nếu có bất đồng về hư hỏng xe. Vì vậy, nếu chọn hình thức này, hãy chụp lại hiện trạng xe kỹ càng như khi đặt cọc tiền, theo đúng [danh sách kiểm tra xe khi nhận xe thuê](/blog/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), và hỏi rõ điều kiện nhận lại giấy tờ trước khi ký. Thông tin về các loại giấy tờ liên quan đến xe máy nằm trong mục [giấy tờ](/blog/an-toan-phap-ly/giay-to/) để bạn tham khảo.
+Một rủi ro khác khó thấy hơn: khi giấy tờ đang bị giữ, vị thế trao đổi của bạn bị ảnh hưởng nếu có bất đồng về hư hỏng xe. Vì vậy, nếu chọn hình thức này, hãy chụp lại hiện trạng xe kỹ càng như khi đặt cọc tiền, theo đúng [danh sách kiểm tra xe khi nhận xe thuê](/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/), và hỏi rõ điều kiện nhận lại giấy tờ trước khi ký. Thông tin về các loại giấy tờ liên quan đến xe máy nằm trong mục [giấy tờ](/an-toan-phap-ly/giay-to/) để bạn tham khảo.
 
 Ngoài ra, hãy nghĩ đến kịch bản bất thường: nếu chuyến đi của bạn kéo dài hoặc kế hoạch thay đổi giữa kỳ thuê, việc lấy lại giấy tờ trước thời hạn có được không và điều kiện ra sao. Câu hỏi này dễ trả lời khi chưa ký, nhưng rất khó khi đã trong tình huống.
 
@@ -47,6 +47,6 @@ Nếu bạn là người khó giữ xe ở tình trạng đẹp, ví dụ thư�
 
 ## Chăm sóc hợp đồng bất kể chọn hình thức nào
 
-Dù bảo đảm bằng tiền hay giấy tờ, phần việc của bạn trong kỳ thuê là như nhau: dùng xe đúng cách, báo sớm khi có dấu hiệu bất thường như gợi ý trong bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/blog/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/), và chuẩn bị trả xe đúng quy trình. Khi trả xe, mọi thủ tục bảo đảm đều được đối chiếu với hiện trạng xe, nên hãy dành thời gian cùng cửa hàng kiểm tra xe lần cuối theo hướng dẫn [kiểm tra xe trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/).
+Dù bảo đảm bằng tiền hay giấy tờ, phần việc của bạn trong kỳ thuê là như nhau: dùng xe đúng cách, báo sớm khi có dấu hiệu bất thường như gợi ý trong bài [dấu hiệu xe thuê cần báo cửa hàng ngay](/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/), và chuẩn bị trả xe đúng quy trình. Khi trả xe, mọi thủ tục bảo đảm đều được đối chiếu với hiện trạng xe, nên hãy dành thời gian cùng cửa hàng kiểm tra xe lần cuối theo hướng dẫn [kiểm tra xe trước mỗi chuyến đi](/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/).
 
-Nếu vẫn lưỡng lự, cách đơn giản là trao đổi trực tiếp. Trang [liên hệ](/blog/lien-he/) ghi rõ địa chỉ 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên cùng giờ mở cửa 09:00 đến 21:00. Mục [đặt cọc và giữ giấy tờ](/blog/thue-xe/dat-coc/) tổng hợp các bài liên quan, còn trang [thuê xe máy](/blog/thue-xe/) là điểm khởi đầu cho mọi câu hỏi về thuê xe tại Hà Nội.
+Nếu vẫn lưỡng lự, cách đơn giản là trao đổi trực tiếp. Trang [liên hệ](/lien-he/) ghi rõ địa chỉ 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên cùng giờ mở cửa 09:00 đến 21:00. Mục [đặt cọc và giữ giấy tờ](/thue-xe/dat-coc/) tổng hợp các bài liên quan, còn trang [thuê xe máy](/thue-xe/) là điểm khởi đầu cho mọi câu hỏi về thuê xe tại Hà Nội.

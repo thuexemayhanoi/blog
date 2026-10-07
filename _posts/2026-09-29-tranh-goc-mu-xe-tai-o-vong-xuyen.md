@@ -37,7 +37,7 @@ Nếu buộc phải cùng vào vòng với xe tải, hãy đi hẳn phía sau n�
 
 Tín hiệu hữu ích nhất từ xe tải không phải đèn rẽ, mà là chuyển động thực: tốc độ chậm lại, đầu xe hơi lệch ra ngoài trước khi vào đường cong, gương chiếu hậu mà tài xế đang liếc. Khi bạn thấy những dấu này, hãy tự đặt giả định là xe tải sẽ rẽ ở lối gần nhất và điều chỉnh vị trí của mình trước, thay vì chờ tín hiệu rõ ràng.
 
-Giữ cho bản thân luôn hiện diện trong gương của xe tải: nếu bạn không nhìn thấy gương của nó từ vị trí của mình, tài xế cũng không nhìn thấy bạn. Đây là quy tắc kiểm tra đơn giản mà hiệu quả, áp dụng được cả trong vòng xuyến lẫn trên đường thẳng, giống như kỹ năng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/blog/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/).
+Giữ cho bản thân luôn hiện diện trong gương của xe tải: nếu bạn không nhìn thấy gương của nó từ vị trí của mình, tài xế cũng không nhìn thấy bạn. Đây là quy tắc kiểm tra đơn giản mà hiệu quả, áp dụng được cả trong vòng xuyến lẫn trên đường thẳng, giống như kỹ năng đã bàn trong bài [giữ khoảng cách với xe container trong nội đô](/ky-nang/2026/09/29/giu-khoang-cach-voi-xe-container-trong-noi-o/).
 
 ## Những lỗi nguy hiểm ở vòng xuyến
 
@@ -47,8 +47,8 @@ Một lỗi nữa là vào vòng quá nhanh rồi phanh gấp giữa vòng vì b
 
 ## Luyện vòng xuyến với xe lớn khi đường vắng
 
-Chọn một vòng xuyến quen gần nhà, luyện vào giờ vắng: vào chậm, quét hai đầu, giữ vòng ngoài, ra dứt khoát. Sau vài vòng, bạn sẽ tự biết mình hay mắc lỗi ở khâu nào: nhìn, chọn vị trí hay canh nhịp ra. Các bài trong chuyên mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) và trang [kỹ năng & tình huống](/blog/ky-nang/) cũng phân tích nhiều tình huống đi kèm để bạn ghép kỹ năng thành bộ.
+Chọn một vòng xuyến quen gần nhà, luyện vào giờ vắng: vào chậm, quét hai đầu, giữ vòng ngoài, ra dứt khoát. Sau vài vòng, bạn sẽ tự biết mình hay mắc lỗi ở khâu nào: nhìn, chọn vị trí hay canh nhịp ra. Các bài trong chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và trang [kỹ năng & tình huống](/ky-nang/) cũng phân tích nhiều tình huống đi kèm để bạn ghép kỹ năng thành bộ.
 
 ## Lời kết
 
-Vòng xuyến không đáng sợ nếu bạn luôn biết xe lớn đang ở đâu và mình đang nằm trong vùng mù nào. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước khi đi, hãy dành vài phút làm quen gương và phanh của xe tại chỗ, rồi đọc thêm các bài về tình huống với xe lớn ở [chuyên mục kỹ năng](/blog/ky-nang/tinh-huong-giao-thong/) và [trang tổng hợp](/blog/ky-nang/) cho chuyến đi an toàn.
+Vòng xuyến không đáng sợ nếu bạn luôn biết xe lớn đang ở đâu và mình đang nằm trong vùng mù nào. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Trước khi đi, hãy dành vài phút làm quen gương và phanh của xe tại chỗ, rồi đọc thêm các bài về tình huống với xe lớn ở [chuyên mục kỹ năng](/ky-nang/tinh-huong-giao-thong/) và [trang tổng hợp](/ky-nang/) cho chuyến đi an toàn.

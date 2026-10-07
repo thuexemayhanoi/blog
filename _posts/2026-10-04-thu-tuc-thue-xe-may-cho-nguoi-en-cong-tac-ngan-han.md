@@ -48,7 +48,7 @@ Ghi lại vào điện thoại vài thứ ngay lúc nhận: giờ trả, số li
 
 Khi trả xe trong chuyến công tác, giữ lại bộ ảnh chụp lúc nhận cho đến khi mọi khoản đã xong xuôi. Người hay đi công tác thường có thói quen dọn dẹp điện thoại ngay sau mỗi chuyến, và bộ ảnh là thứ đáng sống sót qua đợt dọn đó. Buổi trả xe suôn sẻ hay không, nhiều khi chỉ phụ thuộc vào việc bạn còn giữ được mốc lúc nhận hay không.
 
-Trước chuyến đi, bạn có thể xem lại toàn bộ các bước trong trang [thủ tục thuê xe](/blog/thue-xe/thu-tuc/), phần vận hành nhận trả gom trong trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/), tổng quan gói dịch vụ trong trang [thuê xe máy](/blog/thue-xe/), và các kinh nghiệm dành cho người mới trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Trước chuyến đi, bạn có thể xem lại toàn bộ các bước trong trang [thủ tục thuê xe](/thue-xe/thu-tuc/), phần vận hành nhận trả gom trong trang [nhận trả xe](/thue-xe/nhan-tra-xe/), tổng quan gói dịch vụ trong trang [thuê xe máy](/thue-xe/), và các kinh nghiệm dành cho người mới trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, thủ tục thuê xe máy cho chuyến công tác ngắn chỉ gói trong ba việc: hỏi giấy tờ từ xa, chốt thời gian rõ, và làm trọn phần nhận xe trong mười phút. Ba việc đó giữ cho chiếc xe là công cụ của chuyến công tác, không bao giờ thành một đầu việc của riêng nó.
 

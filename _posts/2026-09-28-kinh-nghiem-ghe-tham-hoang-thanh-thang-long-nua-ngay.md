@@ -38,13 +38,13 @@ Khu trung tâm Hoàng thành Thăng Long gắn với mốc dời đô năm 1010 
 
 ## Ghép các điểm lân cận trong cùng nửa ngày
 
-Nếu khởi hành sớm và kết thúc khu di tích trước mười một giờ, phần còn lại của buổi có thể dùng cho vùng Ba Đình: các tuyến lá vàng quanh Hoàng Hoa Thám, Bảo tàng lịch sử quân sự hoặc chỉ cần thong thả quanh các trục lớn chụp ảnh. Khung lịch trình cho cả vùng được tóm tắt tại trang [du lịch Hà Nội](/blog/du-lich/). Với khách có nhiều ngày ở Hà Nội, nên đặt Hoàng thành trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/blog/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/blog/du-lich/diem-den/).
+Nếu khởi hành sớm và kết thúc khu di tích trước mười một giờ, phần còn lại của buổi có thể dùng cho vùng Ba Đình: các tuyến lá vàng quanh Hoàng Hoa Thám, Bảo tàng lịch sử quân sự hoặc chỉ cần thong thả quanh các trục lớn chụp ảnh. Khung lịch trình cho cả vùng được tóm tắt tại trang [du lịch Hà Nội](/du-lich/). Với khách có nhiều ngày ở Hà Nội, nên đặt Hoàng thành trong lịch tổng thể, với các câu hỏi về thuê xe dài ngày được giải đáp tại trang [hỏi đáp](/hoi-dap/). Danh mục điểm đến đặt tại trang [điểm đến](/du-lich/diem-den/).
 
 ## Kinh nghiệm đi Hoàng thành Thăng Long: đi lại bằng xe máy và những việc nhỏ nên làm trước
 
 Từ Long Biên, đi bằng xe máy mất khoảng hai mươi lăm tới ba mươi phút ngoài giờ cao điểm; gửi xe ở khu gần cổng chính trên phố Hoàng Diệu rồi đi bộ toàn bộ trong khuôn viên. Trước khi khởi hành, kiểm tra giờ mở cửa hiện hành của khu di tích, chuẩn bị tiền lẻ cho phí gửi xe và vé tham quan, và mang giày đế bệt vì mặt gạch đá trong khu trơn khi mưa.
 
-Một điểm nhỏ hay bỏ qua: chụp lại vị trí bãi gửi xe và tên phố lúc dựng xe; các bãi quanh Hoàng Diệu dễ nhầm với khách mới tới, và cuối buổi tham quan mỏi chân thì trí nhớ càng dễ lệch. Với khách thuê xe, mang theo đầy đủ giấy tờ theo danh mục trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu vực Ba Đình thỉnh thoảng có các chốt kiểm tra giấy tờ.
+Một điểm nhỏ hay bỏ qua: chụp lại vị trí bãi gửi xe và tên phố lúc dựng xe; các bãi quanh Hoàng Diệu dễ nhầm với khách mới tới, và cuối buổi tham quan mỏi chân thì trí nhớ càng dễ lệch. Với khách thuê xe, mang theo đầy đủ giấy tờ theo danh mục trong bài [giấy tờ bắt buộc mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/), vì khu vực Ba Đình thỉnh thoảng có các chốt kiểm tra giấy tờ.
 
 ## Kết luận về nửa ngày ở Hoàng thành
 

@@ -25,7 +25,7 @@ Từ hướng Hồ Gươm, men theo các phố dẫn lên phía bắc rồi bắ
 
 ## Gửi xe Cột Cờ Hà Nội: chọn bãi nào
 
-Quanh khu có các nhóm bãi: bãi vỉa hè ven trục Điện Biên Phủ, bãi trong các ngõ kề, và các bãi của hàng quán phía đối diện trục. Với khách chỉ đến ngắm và chụp cột cờ từ mặt tiền, nhóm ven trục là gọn nhất, vào ra đều nhanh. Với người định kết hợp đi bộ qua các khu kề, chọn bãi trung gian theo hướng đi bộ. Chi tiết chọn bãi giữ xe an toàn đã tổng hợp trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+Quanh khu có các nhóm bãi: bãi vỉa hè ven trục Điện Biên Phủ, bãi trong các ngõ kề, và các bãi của hàng quán phía đối diện trục. Với khách chỉ đến ngắm và chụp cột cờ từ mặt tiền, nhóm ven trục là gọn nhất, vào ra đều nhanh. Với người định kết hợp đi bộ qua các khu kề, chọn bãi trung gian theo hướng đi bộ. Chi tiết chọn bãi giữ xe an toàn đã tổng hợp trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).
 
 Một điều cần nói trước: phần quảng trường quanh cột cờ không phải chỗ đỗ xe, và việc dựng xe tạm ở đây, ngoài rủi ro va chạm, còn dễ vướng quy định của khu di tích. Tất cả bãi hợp lệ đều trong bán kính đi bộ vài phút, nên khoản thời gian đi bộ thêm luôn là phần rẻ nhất của chuyến. Cuối tuần bãi ven trục đầy nhanh hơn ngày thường, đến sớm nửa tiếng là khác biệt rõ.
 
@@ -49,8 +49,8 @@ Phần ngắm đẹp nhất là từ mặt tiền phía trục Điện Biên Ph�
 
 Với người chụp ảnh muốn khung ít người, khung sáng sớm ngày thường là sạch nhất: vỉa hè ven trục chưa đầy xe, dòng qua lại thưa, và ánh sáng đầu ngày lên thân cột rất rõ. Ngược lại, khung xế chiều cuối tuần đông khách chụp cưới và đoàn khách, nếu muốn góc trống, kiên nhẫn đổi vị trí vài lần là cách duy nhất, chứ không có giờ vàng nào tránh hết người.
 
-Ghép điểm quanh khu rất thuận: khu Ba Đình có nhiều di tích trong bán kính chạy xe ngắn, và trục Điện Biên Phủ nối thẳng về phía Hồ Gươm cho ai muốn kéo dài chuyến. Với buổi dài nhiều điểm, các [lộ trình cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) giúp cân thời gian, còn ai đi bằng xe thuê có thể xem các gợi ý [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) trước khi chốt phương án.
+Ghép điểm quanh khu rất thuận: khu Ba Đình có nhiều di tích trong bán kính chạy xe ngắn, và trục Điện Biên Phủ nối thẳng về phía Hồ Gươm cho ai muốn kéo dài chuyến. Với buổi dài nhiều điểm, các [lộ trình cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) giúp cân thời gian, còn ai đi bằng xe thuê có thể xem các gợi ý [thuê xe máy theo ngày](/thue-xe/thue-ngay/) trước khi chốt phương án.
 
 Nếu kéo chuyến về phía Hồ Gươm, đoạn từ cột cờ xuống hồ chỉ qua vài ngả chính, và phần đẹp nhất để chuyển cảnh là dải phố cũ phía nam trục. Gửi một lần ở giữa và đi bộ hai đầu là cách nhiều người chọn, vì quãng đi bộ hai khu đều thoáng và có đủ quán để nghỉ giữa chừng.
 
-Tóm lại, đến Cột Cờ Hà Nội bằng xe máy chỉ cần ba việc: theo trục Điện Biên Phủ đúng chiều, gửi xe ở bãi ven trục hoặc ngõ kề, và né khung giờ cao điểm của khu Ba Đình. Phần còn lại là một trong những phông nền chụp ảnh đẹp nhất của thành phố. Muốn ghép thêm điểm quanh khu, danh sách [điểm đến quanh Hà Nội](/blog/du-lich/diem-den/) là chỗ bắt đầu.
+Tóm lại, đến Cột Cờ Hà Nội bằng xe máy chỉ cần ba việc: theo trục Điện Biên Phủ đúng chiều, gửi xe ở bãi ven trục hoặc ngõ kề, và né khung giờ cao điểm của khu Ba Đình. Phần còn lại là một trong những phông nền chụp ảnh đẹp nhất của thành phố. Muốn ghép thêm điểm quanh khu, danh sách [điểm đến quanh Hà Nội](/du-lich/diem-den/) là chỗ bắt đầu.

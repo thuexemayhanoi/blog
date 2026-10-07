@@ -45,7 +45,7 @@ Cách lốp mòn cho biết nhiều vấn đề của xe và cách bạn đang �
 - Mòn hai mép trước, giữa còn cao: áp suất non kéo dài.
 - Mòn lốp thành mảng, lõm từng vùng: giảm xóc yếu hoặc bạc đạn bánh có vấn đề.
 
-Hiểu được các mẫu mòn này giúp bạn sửa nguyên nhân gốc thay vì chỉ thay lốp rồi để lốp mới mòn tiếp. Việc kiểm tra áp suất và các hạng mục định kỳ khác, bạn xem hướng dẫn trong bài về [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/).
+Hiểu được các mẫu mòn này giúp bạn sửa nguyên nhân gốc thay vì chỉ thay lốp rồi để lốp mới mòn tiếp. Việc kiểm tra áp suất và các hạng mục định kỳ khác, bạn xem hướng dẫn trong bài về [bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
 
 ## Vá hay thay
 
@@ -71,10 +71,10 @@ Ngoài ra bạn sẽ gặp hai nhóm lốp phổ biến trên thị trường: l
 
 Với xe thuê, bạn nhận xe đã được cửa hàng kiểm tra, nhưng đầu kỳ thuê vẫn nên nhìn nhanh: vết nứt, mòn gân, áp suất. Trong quá trình đi, nếu xe trượt cua trên đường khô, hoặc có tiếng cọ bất thường từ bánh, hãy dừng kiểm tra và báo ngay bên cho thuê. Không nên tiếp tục đi đường trường với lốp có dấu hiệu nứt cán.
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra lốp và áp suất định kỳ trước khi giao xe cho khách, giờ làm việc 09:00 đến 21:00. Bạn có thể gọi 0942 467 674 để hỏi trước dòng xe mình định thuê. Thêm các bài về cấu kiện xe nằm tại trang [xe máy và dòng xe](/blog/xe-may/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội kiểm tra lốp và áp suất định kỳ trước khi giao xe cho khách, giờ làm việc 09:00 đến 21:00. Bạn có thể gọi 0942 467 674 để hỏi trước dòng xe mình định thuê. Thêm các bài về cấu kiện xe nằm tại trang [xe máy và dòng xe](/xe-may/).
 
 Thay lốp đúng lúc là việc làm ít, lợi lớn: xe bám đường chắc, phanh hiệu quả và bạn bớt nguy cơ nổ lốp giữa chặng. Mỗi tuần dành một phút nhìn lốp, mỗi tháng đo áp suất một lần, bộ lốp sẽ trả công bạn bằng nhiều km an toàn.
 
 ## Kết luận về khi nào thay lốp xe máy
 
-Khi nào thay lốp xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Nếu bạn thuê xe để đi hằng ngày, hãy [xem các dòng xe cho thuê](/blog/thue-xe/) và chọn xe có lốp còn tốt trước khi nhận. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.
+Khi nào thay lốp xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Nếu bạn thuê xe để đi hằng ngày, hãy [xem các dòng xe cho thuê](/thue-xe/) và chọn xe có lốp còn tốt trước khi nhận. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.

@@ -48,6 +48,6 @@ Một kinh nghiệm nữa là hẹn điểm gặp cố định ở cổng chính
 
 Cuối cùng, lưu ý giờ về: nếu tính trả xe thuê theo giờ, cộng thêm quãng chạy từ khu Nghĩa Đô về cửa hàng, chừng hai mươi phút khi đường thông. Ra về trước giờ tan tầm giúp tránh dòng xe trên các trục phía tây. Ghi lại mấy con số này khi lập kế hoạch, và buổi dạo nửa ngày sẽ gọn từ đầu đến cuối.
 
-Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/blog/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/blog/du-lich/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/blog/kinh-nghiem/).
+Bạn có thể xem thêm các điểm đến quanh thành phố trong trang [điểm đến](/du-lich/diem-den/), tổng quan du lịch trong trang [du lịch](/du-lich/), và các kinh nghiệm đi thực tế trong mục [kinh nghiệm](/kinh-nghiem/).
 
 Tóm lại, dạo Công viên Nghĩa Đô nửa ngày hợp nhất vào sáng sớm hoặc chiều muộn: hồ nhỏ dễ chịu, đường ven sông thoáng, và quanh khu đủ chỗ ăn nhẹ. Đi bằng xe máy từ trung tâm qua các trục phía tây chỉ mất một quãng ngắn, gửi xe nơi có người trông và giữ phi. Tra giờ mở cửa mới nhất, và tính giờ về trước giờ tan tầm của khu Cầu Giấy.

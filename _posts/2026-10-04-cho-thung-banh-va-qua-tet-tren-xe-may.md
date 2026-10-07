@@ -44,6 +44,6 @@ Một kiểu xếp đáng kể riêng là chuyến quà biếu đông người: 
 
 Với người chạy chuyến quà đi các tỉnh ven, thêm một thói quen nhỏ: chèn một lớp áo hoặc khăn giữa các thùng còn giữ cho hộp bánh không ám mùi buộc dây và không cọ xước ép chữ trên hộp — hộp quà Tết phần lớn là hàng biếu, vỏ đẹp cũng là một nửa món quà.
 
-Chở đồ và hành lý trên xe máy có gộp chung các quy tắc xếp buộc trong mục [chở đồ & hành lý](/blog/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/blog/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/blog/kinh-nghiem/) trước khi lên đường mùa Tết.
+Chở đồ và hành lý trên xe máy có gộp chung các quy tắc xếp buộc trong mục [chở đồ & hành lý](/ky-nang/cho-do-va-hanh-ly/); trang [kỹ năng](/ky-nang/) là mục lục chung của mọi bài tình huống. Người mới thuê xe máy lần đầu nên đọc thêm mục [kinh nghiệm](/kinh-nghiem/) trước khi lên đường mùa Tết.
 
 Chở quà Tết nguyên vẹn không cần kỹ năng cao, chỉ cần xếp thành khối, buộc đúng kiểu, chạy nhường nhịp, và kiểm tra lại dây mỗi chặng. Làm đủ bốn việc đó, hộp bánh của bạn tới nơi tròn trịa như lúc rời cửa hàng.

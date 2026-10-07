@@ -16,7 +16,7 @@ writer: W1
 
 Đang chạy giữa phố Hà Nội thì xe ì lại, lốp sau xì dần, và bạn ngồi bên con xe thuê không phải của mình: câu hỏi đầu tiên sau an toàn không phải là vá ở đâu, mà là xe thuê thủng lốp ai chịu phí vá. Đây là một trong những sự cố phổ biến nhất với xe máy thuê, và cũng là một trong những thứ dễ gây tranh cãi nhất nếu hai bên chưa có thỏa thuận. Bài viết này đi qua cách phân trách nhiệm hợp lý với thủng lốp xe máy thuê, cách xử lý ngay tại chỗ, và cách ghi rõ điều khoản để lúc trả xe không ai phải cãi.
 
-Tổng quan các sự cố khác khi thuê xe nằm trong phần [sự cố khi thuê xe](/blog/thue-xe/su-co/), còn thắc mắc chung về thuê nằm ở trang [thuê xe máy](/blog/thue-xe/).
+Tổng quan các sự cố khác khi thuê xe nằm trong phần [sự cố khi thuê xe](/thue-xe/su-co/), còn thắc mắc chung về thuê nằm ở trang [thuê xe máy](/thue-xe/).
 
 ## Phân trách nhiệm hợp lý khi thủng lốp xe máy thuê
 
@@ -32,19 +32,19 @@ Bước một là tấp vào lề an toàn, bật đèn khẩn nếu xì mạnh.
 
 Bước ba là vá hoặc thay. Với vết đinh nhỏ, tiệm vá lốp ven đường xử lý trong vài phút, và bạn nên xin chủ xe chỉ định địa điểm nếu gần; nếu không, vá ở bất kỳ tiệm gần nhất và giữ hóa đơn. Với lốp nổ to hay nứt thành lốp cần thay cả con lốp, đừng tự quyết thay đắt tiền: nhắn chủ xe hỏi phương án, vì có tiệm muốn dùng đúng loại lốp của xe mình.
 
-Bước tư là lưu toàn bộ hóa chứng: biên vá, tin nhắn, ảnh trước sau. Khoản này sẽ dùng để đối chiếu lúc trả xe, và cách giữ bằng chứng với mọi sự cố được nói kỹ hơn trong các bài [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Bước tư là lưu toàn bộ hóa chứng: biên vá, tin nhắn, ảnh trước sau. Khoản này sẽ dùng để đối chiếu lúc trả xe, và cách giữ bằng chứng với mọi sự cố được nói kỹ hơn trong các bài [sự cố khi thuê xe](/thue-xe/su-co/).
 
 ## Ghi rõ trong hợp đồng để tránh tranh cãi
 
 Trước khi nhận xe, một câu hỏi đáng giá hơn cả khoản vá: nếu lốp thủng giữa chuyến, ai trả tiền vá, và nếu cần thay lốp thì phương án thế nào. Câu trả lời tốt nên được xác nhận lại bằng tin nhắn. Hợp đồng chuẩn nên có một dòng về hao mòn và rủi ro sử dụng: khách chịu vá lốp, đổ xăng, còn chủ xe chịu bảo dưỡng định kỳ và hỏng do lỗi sẵn có của xe.
 
-Cũng nên hỏi xem xe có sẵn dụng cụ vá mini hay bơm portable không, và số điện thoại hỗ trợ giữa chuyến là số nào, cũng như chủ xe phản hồi trong khung giờ nào. Một số tiệm quy định rõ khách được tự vá dưới một mức chi phí nhất định và hoàn hóa đơn lúc trả xe, thay vì cứ để khách tự lo rồi tranh cãi về sau. Nếu bạn thuê theo ngày để đi nhiều điểm quanh Hà Nội, phần [thuê xe theo ngày](/blog/thue-xe/thue-ngay/) có thêm lưu ý về cách sắp lịch để tránh rủi ro giữa chuyến. Một số tiệm ở Hà Nội giao kèm bộ vá mini cho chuyến dài, và chi tiết nhỏ này đổi lấy sự chủ động rất lớn khi bạn đi xa khu phố.
+Cũng nên hỏi xem xe có sẵn dụng cụ vá mini hay bơm portable không, và số điện thoại hỗ trợ giữa chuyến là số nào, cũng như chủ xe phản hồi trong khung giờ nào. Một số tiệm quy định rõ khách được tự vá dưới một mức chi phí nhất định và hoàn hóa đơn lúc trả xe, thay vì cứ để khách tự lo rồi tranh cãi về sau. Nếu bạn thuê theo ngày để đi nhiều điểm quanh Hà Nội, phần [thuê xe theo ngày](/thue-xe/thue-ngay/) có thêm lưu ý về cách sắp lịch để tránh rủi ro giữa chuyến. Một số tiệm ở Hà Nội giao kèm bộ vá mini cho chuyến dài, và chi tiết nhỏ này đổi lấy sự chủ động rất lớn khi bạn đi xa khu phố.
 
 ## Với các chuyến đi đường dài và đường trường
 
 Trên đường trường, xa các tiệm vá, một lốp xì có thể biến thành cả tiếng chờ cứu hộ, và khác với trong phố nơi bạn có thể ghé bất kỳ tiệm vá ven đường nào trong vài phút, giữa quãng vắng bạn phải tự xử hoặc chờ người đến. Nếu thuê để chạy xa, hãy chọn xe có lốp còn tốt trước khi nhận, nhờ chủ xe kiểm tra và bơm đủ before hand, và tự mang theo bộ vá mini nếu có thể. Chi phí của bộ vá nhỏ so với thời gian bị mắc kẹt giữa quãng đường vắng.
 
-Lốp xe số truyền thống dễ vá hơn lốp không săm trên một số dòng xe ga mới, nên nếu lịch trình có nhiều đường trường, việc chọn xe nào thuê cũng ảnh hưởng trực tiếp tới rủi ro này, và phần [chọn loại xe](/blog/xe-may/chon-loai-xe/) có thêm thông tin so sánh.
+Lốp xe số truyền thống dễ vá hơn lốp không săm trên một số dòng xe ga mới, nên nếu lịch trình có nhiều đường trường, việc chọn xe nào thuê cũng ảnh hưởng trực tiếp tới rủi ro này, và phần [chọn loại xe](/xe-may/chon-loai-xe/) có thêm thông tin so sánh.
 
 ## Tóm lại, ai trả tiền vá khi xe thuê thủng lốp
 

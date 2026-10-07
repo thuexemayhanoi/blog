@@ -19,13 +19,13 @@ Người đi làm trong khu vực nội đô Hà Nội khi tìm trải nghiệm 
 
 Đi làm nội đô nghĩa là quãng đường ngắn, dừng đèn đỏ nhiều, rẽ ngõ liên tục và phần lớn thời gian xe chạy tốc độ thấp. Với nhịp đó, ưu điểm đầu tiên của Vision là nhẹ và gọn: lách qua dòng xe đông giờ cao điểm dễ hơn, vào ngõ nhỏ ở các khu như Bồ Đề, Long Biên không lo kẹt, và đỗ xe trong hầm chung cư hay sân công ty cũng thoải mái vì thân xe nhỏ. Yên xe thấp giúp người chân ngắn chạm đất chắc chắn, điều quan trọng khi phải dừng đỏ liên tục trên các trục như Nguyễn Văn Cừ hay cầu Chương Dương.
 
-Ưu điểm thứ hai là cốp xe rộng so với dòng xe ga cỡ nhỏ: vừa mũ bảo hiểm, áo mưa, balo laptop và vài món lặt vặt, đúng hình dung của người đi làm về nhà không phải vác gì trên tay. Thứ ba là ga nhẹ và máy êm, ít giật khi xuất phát ở đèn đỏ, phù hợp người mới dùng xe ga. Tổng hợp các đặc điểm của dòng xe này nằm ở [chủ đề Honda Vision](/blog/xe-may/honda-vision/), nơi có nhiều bài về cách dùng và bảo dưỡng Vision.
+Ưu điểm thứ hai là cốp xe rộng so với dòng xe ga cỡ nhỏ: vừa mũ bảo hiểm, áo mưa, balo laptop và vài món lặt vặt, đúng hình dung của người đi làm về nhà không phải vác gì trên tay. Thứ ba là ga nhẹ và máy êm, ít giật khi xuất phát ở đèn đỏ, phù hợp người mới dùng xe ga. Tổng hợp các đặc điểm của dòng xe này nằm ở [chủ đề Honda Vision](/xe-may/honda-vision/), nơi có nhiều bài về cách dùng và bảo dưỡng Vision.
 
 ## Chi phí thuê Vision đi làm theo ngày, tuần và tháng
 
 Chi phí là yếu tố quyết định của việc đi làm bằng xe thuê. Giá thuê Honda Vision theo ngày phổ biến ở mức 200.000 đồng. Với người đi làm quãng đường ổn định, thuê theo tuần khoảng từ 800.000 đến 1.000.000 đồng, còn thuê tháng thường ở khoảng 1.800.000 đến 2.000.000 đồng, tùy thời điểm và điều kiện hợp đồng. Điểm mấu chốt: nếu bạn đi làm năm ngày một tuần và không có xe riêng, thuê tháng thường hợp lý hơn thuê lẻ từng ngày, nhưng nếu chỉ cần xe vài ngày đột xuất thì thuê ngày vẫn là lựa chọn rẻ hơn.
 
-Ngoài tiền thuê, cần tính xăng. Máy xe ga 110cc như Vision tiêu thụ vừa phải trong phố, nhưng xăng xe ga thường cao hơn xe số một chút vì truyền động vô cấp. Với quãng đường đi làm nội đô trung bình mỗi ngày, khoản xăng thường thấp hơn đáng kể so với tổng chi phí đi xe công nghệ cùng quãng đường, nhưng bạn nên tự tính theo đúng tuyến của mình. Tiền đặt cọc và điều kiện hợp đồng cần xác nhận trực tiếp với cửa hàng, không nên tin một con số nghe qua. Hướng dẫn chi tiết về thuê dài hạn nằm ở [thuê xe theo tháng](/blog/thue-xe/thue-thang/).
+Ngoài tiền thuê, cần tính xăng. Máy xe ga 110cc như Vision tiêu thụ vừa phải trong phố, nhưng xăng xe ga thường cao hơn xe số một chút vì truyền động vô cấp. Với quãng đường đi làm nội đô trung bình mỗi ngày, khoản xăng thường thấp hơn đáng kể so với tổng chi phí đi xe công nghệ cùng quãng đường, nhưng bạn nên tự tính theo đúng tuyến của mình. Tiền đặt cọc và điều kiện hợp đồng cần xác nhận trực tiếp với cửa hàng, không nên tin một con số nghe qua. Hướng dẫn chi tiết về thuê dài hạn nằm ở [thuê xe theo tháng](/thue-xe/thue-thang/).
 
 ## Vận hành hằng ngày: xăng, đỗ xe và giữ xe
 
@@ -35,7 +35,7 @@ Với người đi làm ca sáng sớm hoặc ca đêm, đèn và gương là ha
 
 ## Những điểm nên cân nhắc trước khi quyết định
 
-Thuê vision có tốt không phụ thuộc phần nhiều vào tuyến đường và thời gian thuê của bạn. Nếu bạn thường chở thêm người lớn hoặc chở đồ cồng kềh, cốp Vision dù rộng vẫn chưa thay được thùng xe hoặc giá để đồ phía sau. Nếu bạn đi quãng đường dài vượt tỉnh đều đặn hàng tuần, dòng xe ga nhỏ sẽ mỏi hơn xe số trên đường trường. Trong trường hợp đó, nên đối chiếu với các dòng khác trước khi chốt, ví dụ các bài so sánh trong [chuyên mục xe máy](/blog/xe-may/).
+Thuê vision có tốt không phụ thuộc phần nhiều vào tuyến đường và thời gian thuê của bạn. Nếu bạn thường chở thêm người lớn hoặc chở đồ cồng kềh, cốp Vision dù rộng vẫn chưa thay được thùng xe hoặc giá để đồ phía sau. Nếu bạn đi quãng đường dài vượt tỉnh đều đặn hàng tuần, dòng xe ga nhỏ sẽ mỏi hơn xe số trên đường trường. Trong trường hợp đó, nên đối chiếu với các dòng khác trước khi chốt, ví dụ các bài so sánh trong [chuyên mục xe máy](/xe-may/).
 
 Một cân nhắc nữa là trách nhiệm phát sinh: quy định về hỏng hóc giữa kỳ thuê, quy định xăng khi trả, khung giờ làm việc của cửa hàng để kịp trả xe sau ca tối. Hỏi rõ ba điểm này ngay từ đầu giúp kỳ thuê suôn sẻ và không phát sinh chi phí ngoài dự kiến. Với người đi làm văn phòng giờ hành chính, nhận xe cuối tuần trước và trả cuối tuần sau cũng là cách tận dụng ngày thuê tối đa.
 

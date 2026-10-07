@@ -46,6 +46,6 @@ Xe máy đi cung Hàm Lợn nên kiểm tra trước khi lên đường: lốp n
 
 Đi nhóm đông thì chốt điểm đợi tại các ngã rẽ chính, hai xe đi đầu giữ nhịp, và không chạy vượt nhau trên quãng đường nhỏ. Về khung giờ trở lại Hà Nội: sau bốn giờ chiều các trục hướng về nội đô dày dần, tính xuất phát sớm hơn nếu muốn về tới trước tối hẳn.
 
-Muốn đọc thêm về cung cuối tuần khác, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các tuyến; các lưu ý thời tiết và đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung. Ai mới thuê xe máy chạy xa lần đầu nên lướt qua mục [kinh nghiệm](/blog/kinh-nghiem/) cho vài quy tắc tổng quát trước khi xuất phát.
+Muốn đọc thêm về cung cuối tuần khác, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các tuyến; các lưu ý thời tiết và đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung. Ai mới thuê xe máy chạy xa lần đầu nên lướt qua mục [kinh nghiệm](/kinh-nghiem/) cho vài quy tắc tổng quát trước khi xuất phát.
 
 Một ngày gọn: tờ mờ rời phố, sương trên đồng Sóc Sơn, nửa sáng đứng trên đỉnh gió, và buổi chiều về qua quốc lộ quen. Cung Hàm Lợn ngắn vậy mà đủ đầy để thành chuyến cuối tuần nhớ dai.

@@ -145,7 +145,7 @@ def check_candidate(c, midx, seen, tax_kids, child_caps, staged_child,
     seen['slug'].add(sl)
     # G4b: output_path/canonical suy ra tu slug (pattern generate-matrix.py)
     out = '_posts/{date}-%s.md' % sl
-    canon = '/blog/%s/{date}/%s/' % (c.get('_cat', '_'), sl)
+    canon = '/%s/{date}/%s/' % (c.get('_cat', '_'), sl)
     if out in midx['out']:
         errs.append('%s: G4b output_path trung matrix (%s)' % (cid, out))
     if out in seen['out']:

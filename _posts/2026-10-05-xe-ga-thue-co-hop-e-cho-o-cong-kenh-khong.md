@@ -16,7 +16,7 @@ writer: W1
 
 Kéo theo vali, thùng carton, hay túi lớn đi chợ: nếu bạn đang cân nhắc thuê xe máy cho những chuyến như vậy, xe ga thuê chở đồ cồng kềnh có hợp không là câu hỏi đáng tính toán trước khi đặt xe. Câu trả lời ngắn: xe ga là dòng máy hợp cho việc chở đồ nhiều hơn hẳn xe số, chủ yếu nhờ cốp lớn và sàn xe phẳng, nhưng hợp không có nghĩa là chở vô hạn, và giới hạn an toàn mới là phần quyết định chuyến đi êm hay sự cố. Bài viết này so chở đồ nhiều trên xe ga với các dòng khác, chỉ ra giới hạn nên giữ, và cách chở hành lý cồng kềnh an toàn.
 
-Tổng quan về dòng xe ga nằm trong phần [xe ga](/blog/xe-may/xe-ga/), còn so sánh với các dòng khác ở mục [so sánh xe](/blog/xe-may/so-sanh-xe/) và trang [xe máy](/blog/xe-may/).
+Tổng quan về dòng xe ga nằm trong phần [xe ga](/xe-may/xe-ga/), còn so sánh với các dòng khác ở mục [so sánh xe](/xe-may/so-sanh-xe/) và trang [xe máy](/xe-may/).
 
 ## Vì sao xe ga hợp chở đồ hơn xe số
 
@@ -40,11 +40,11 @@ Với vali có bánh, đừng treo: nếu vừa cốp thì cho vào, không thì
 
 Đi chợ mua thùng, tủ lạnh mini, cây lớn: đây là lúc xe máy, kể cả xe ga, đã quá giới hạn, và phương án thuê xe ôm công nghệ chở hàng hoặc xe ba gác phù hợp hơn, an toàn hơn cho cả bạn và người xung quanh. Đồ cồng kềnh chỉ nên tính trên xe ga khi khối lượng vừa tay người lớn và xếp gọn trong khung xe.
 
-Đưa đón người cao tuổi kèm đồ: nếu người đi cùng mang theo nhiều đồ, cân nhắc hai xe thay vì dồn một xe, vì ghế sau chở người rồi thì không còn chỗ cho đồ to. Ai đang cân nhắc loại xe cho người lớn tuổi có thể đọc thêm bài về chọn xe cho người cao tuổi trong mục [chọn loại xe](/blog/xe-may/chon-loai-xe/).
+Đưa đón người cao tuổi kèm đồ: nếu người đi cùng mang theo nhiều đồ, cân nhắc hai xe thay vì dồn một xe, vì ghế sau chở người rồi thì không còn chỗ cho đồ to. Ai đang cân nhắc loại xe cho người lớn tuổi có thể đọc thêm bài về chọn xe cho người cao tuổi trong mục [chọn loại xe](/xe-may/chon-loai-xe/).
 
 ## Thuê xe ga để chở đồ: cần hỏi gì
 
-Ở Hà Nội, các tiệm cho thuê quanh khu phố cổ hay khu Long Biên thường có sẵn cả lưới buộc nếu bạn hỏi, nên đừng ngại xin kèm theo. Hỏi chủ xe mẫu xe có cốp bao nhiêu lít, có cốp sau gắn thêm không, có cho kèm lưới hoặc dây buộc không, và giới hạn tải của xe. Hợp đồng thuê thường ghi trách nhiệm với phụ tùng đi kèm như cốp sau, nên nếu bạn định gắn thêm đồ, hãy hỏi trước có được phép và ai chịu rủi ro nếu gắn làm xước. Chi tiết về kiểm tra xe khi nhận nằm trong trang [thuê xe máy](/blog/thue-xe/), bao gồm cả việc thử cốp mở đóng khi nhận xe.
+Ở Hà Nội, các tiệm cho thuê quanh khu phố cổ hay khu Long Biên thường có sẵn cả lưới buộc nếu bạn hỏi, nên đừng ngại xin kèm theo. Hỏi chủ xe mẫu xe có cốp bao nhiêu lít, có cốp sau gắn thêm không, có cho kèm lưới hoặc dây buộc không, và giới hạn tải của xe. Hợp đồng thuê thường ghi trách nhiệm với phụ tùng đi kèm như cốp sau, nên nếu bạn định gắn thêm đồ, hãy hỏi trước có được phép và ai chịu rủi ro nếu gắn làm xước. Chi tiết về kiểm tra xe khi nhận nằm trong trang [thuê xe máy](/thue-xe/), bao gồm cả việc thử cốp mở đóng khi nhận xe.
 
 ## Tóm lại, xe ga hợp chở đồ nhưng có giới hạn
 

@@ -17,9 +17,9 @@ Chuyến bay sáng sớm hoặc bay về khuya khiến nhiều người đắn �
 
 ## Thuê xe máy đi sân bay Nội Bài: tính toán từ điểm xuất phát
 
-Sân bay Nội Bài nằm ở huyện Sóc Sơn, cách trung tâm Hà Nội khoảng ba mươi cây số, quãng đường trải rộng và có nhiều đoạn cao tốc. Vì chặng đi khá dài, chiếc xe bạn thuê phải đủ sức bền: ưu tiên xe số phổ thông hoặc xe tay ga đã bảo dưỡng định kỳ, lốp còn tốt, phanh nhạy. Với quãng đường cỡ này, xe số như Honda Wave thường ở mức 150.000 đồng một ngày, xe tay ga như Honda Vision thường ở mức 200.000 đồng một ngày, bạn có thể tham khảo thêm tại trang [thuê xe theo địa điểm](/blog/thue-xe/thue-theo-dia-diem/).
+Sân bay Nội Bài nằm ở huyện Sóc Sơn, cách trung tâm Hà Nội khoảng ba mươi cây số, quãng đường trải rộng và có nhiều đoạn cao tốc. Vì chặng đi khá dài, chiếc xe bạn thuê phải đủ sức bền: ưu tiên xe số phổ thông hoặc xe tay ga đã bảo dưỡng định kỳ, lốp còn tốt, phanh nhạy. Với quãng đường cỡ này, xe số như Honda Wave thường ở mức 150.000 đồng một ngày, xe tay ga như Honda Vision thường ở mức 200.000 đồng một ngày, bạn có thể tham khảo thêm tại trang [thuê xe theo địa điểm](/thue-xe/thue-theo-dia-diem/).
 
-Nếu bạn bay trong ngày và về ngay, gói [thuê xe](/blog/thue-xe/thue-ngay/) theo ngày là phù hợp nhất. Còn nếu bạn bay đi vài ngày và muốn gửi xe ở Nội Bài suốt chuyến, hãy báo trước chủ xe để tính thời gian thuê dài hơn, khi đó giá theo tuần của xe tay ga thường ở khoảng 800.000 đến 1.000.000 đồng, và bạn nên xác nhận trực tiếp với chủ xe về mức cọc trước khi nhận.
+Nếu bạn bay trong ngày và về ngay, gói [thuê xe](/thue-xe/thue-ngay/) theo ngày là phù hợp nhất. Còn nếu bạn bay đi vài ngày và muốn gửi xe ở Nội Bài suốt chuyến, hãy báo trước chủ xe để tính thời gian thuê dài hơn, khi đó giá theo tuần của xe tay ga thường ở khoảng 800.000 đến 1.000.000 đồng, và bạn nên xác nhận trực tiếp với chủ xe về mức cọc trước khi nhận.
 
 Điểm nhận xe nên chọn gần nơi bạn ở hoặc gần lối lên đường trường, thay vì phải rẽ qua nhiều phố nhỏ với xe chưa quen. Nếu bạn ở khu Long Biên hoặc Gia Lâm, quãng ra Nội Bài đi qua đường vành đai khá thoáng, tiết kiệm thời gian so với đi từ khu nội thành tắt tùng từng con phố.
 
@@ -45,6 +45,6 @@ Một kinh nghiệm nhỏ nữa cho chặng trường: kiểm tra lại áp su�
 
 Đi xe máy ra Nội Bài hợp với người bay một mình, ít đồ, muốn tiết kiệm và chủ động giờ giấc, hoặc người cần xe ngay khi trở về để kịp đi làm tiếp. Ngược lại, nếu bạn bay cùng gia đình có nhiều va li lớn, hoặc bay về ban đêm quá muộn và không quen đường, xe taxi hoặc xe bus vẫn an toàn hơn. Đánh giá trung thực nhu cầu của mình trước khi quyết định sẽ giúp chuyến đi nhẹ nhàng hơn nhiều.
 
-Nếu bạn quyết định đi bằng xe máy thuê, hãy gọi trước để đặt xe thay vì đến cửa hàng lúc gần giờ bay mới hỏi, vì đúng lúc bạn gấp thì xe tốt dễ hết. Bạn có thể xem lại quy trình nhận xe nhanh trong bài [hướng dẫn thuê xe](/blog/thue-xe/) để rút ngắn khâu làm thủ tục. Khung giờ cửa hàng mở từ 09:00 đến 21:00 hằng ngày, việc gọi trước cũng giúp bạn hỏi được chiếc xe nào còn rảnh cho chặng dài.
+Nếu bạn quyết định đi bằng xe máy thuê, hãy gọi trước để đặt xe thay vì đến cửa hàng lúc gần giờ bay mới hỏi, vì đúng lúc bạn gấp thì xe tốt dễ hết. Bạn có thể xem lại quy trình nhận xe nhanh trong bài [hướng dẫn thuê xe](/thue-xe/) để rút ngắn khâu làm thủ tục. Khung giờ cửa hàng mở từ 09:00 đến 21:00 hằng ngày, việc gọi trước cũng giúp bạn hỏi được chiếc xe nào còn rảnh cho chặng dài.
 
 Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, cho thuê các dòng xe số và xe tay ga phục vụ chặng đi Nội Bài. Bạn gọi số 0942 467 674 để hỏi xe còn và nhận tư vấn lộ trình phù hợp giờ bay của mình.

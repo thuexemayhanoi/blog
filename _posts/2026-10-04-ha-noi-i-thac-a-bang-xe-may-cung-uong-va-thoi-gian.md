@@ -46,6 +46,6 @@ Xe máy lên vùng thác cần kiểm tra trước xuất phát: lốp đủ hơ
 
 Đi nhóm chốt điểm đợi ở các ngã rẽ chính, hai người kinh nghiệm giữ vị trí đầu và cuối, và ai rời xe dừng giữa chặng thì cả nhóm cùng dừng. Ai mới thuê xe máy lần đầu nên chọn cuối tuần không cao điểm cho cung này: đường dài nhưng phần lớn dễ chạy, chỉ cần kỷ luật giữ nhịp là xong chuyến.
 
-Muốn tham các tuyến cuối tuần khác, chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các cung đã có bài; lưu ý thời tiết và đường xa nằm trong mục [thời tiết & đường xa](/blog/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/blog/cung-duong/) là mục lục chung cho mọi hướng đi. Người mới chạy cung nên đọc trước mục [kinh nghiệm](/blog/kinh-nghiem/) cho vài quy tắc tổng quát.
+Muốn tham các tuyến cuối tuần khác, chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) gom sẵn các cung đã có bài; lưu ý thời tiết và đường xa nằm trong mục [thời tiết & đường xa](/ky-nang/thoi-tiet-va-duong-sa/); trang [cung đường](/cung-duong/) là mục lục chung cho mọi hướng đi. Người mới chạy cung nên đọc trước mục [kinh nghiệm](/kinh-nghiem/) cho vài quy tắc tổng quát.
 
 Một ngày hướng tây: đường trường thẳng, dốc huyện quanh co, và dòng suối trắng giữa lùm cây mát. Thác Đà không cần quảng cáo, chỉ cần một buổi cuối tuần để bạn hiểu vì sao dân Hà Nội vẫn đều đặn ghé về vùng Ba Vì mỗi khi trời nóng lên.

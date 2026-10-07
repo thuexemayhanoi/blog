@@ -16,7 +16,7 @@ writer: W1
 
 Ngày càng nhiều tiệm cho đặt cọc xe máy chuyển khoản thay vì tiền mặt, vì tiện cho cả hai bên: khách khỏi mang theo tiền lớn, chủ xe có dấu vết giao dịch rõ ràng. Nhưng hình thức này cũng kéo theo một câu hỏi mà không ít người lo: hoàn cọc chuyển khoản thuê xe máy diễn ra thế nào, bao lâu mới về tài khoản, và cần giữ gì để không bị trừ oan khi trả xe. Bài viết này đi qua từng bước của vòng cọc, từ lúc chuyển đến lúc nhận lại, cùng các bằng chứng nên lưu lại.
 
-Nếu bạn mới thuê xe lần đầu, cơ chế cọc và các hình thức đặt cọc được giải thích trong trang [đặt cọc thuê xe máy](/blog/thue-xe/dat-coc/), còn tổng quan về thuê xe nằm ở [thuê xe máy](/blog/thue-xe/).
+Nếu bạn mới thuê xe lần đầu, cơ chế cọc và các hình thức đặt cọc được giải thích trong trang [đặt cọc thuê xe máy](/thue-xe/dat-coc/), còn tổng quan về thuê xe nằm ở [thuê xe máy](/thue-xe/).
 
 ## Vòng đời của khoản cọc khi đặt cọc xe máy chuyển khoản
 
@@ -40,7 +40,7 @@ Với ba bộ này, mọi cáo buộc hư hỏng phát sinh sau này đều có 
 
 Ngoài số tiền cọc, hợp đồng nên ghi rõ ba điều: điều kiện xe được coi là hoàn trả đạt yêu cầu; thời hạn hoàn cọc tối đa sau khi trả xe; và trường hợp trừ phần cọc thì mức trừ được tính theo căn cứ nào, ví dụ theo báo giá sửa thực tế chứ không theo cảm tính. Nếu tiệm chỉ nói miệng về các điều này, một tin nhắn xác nhận lại sau khi trao đổi cũng đủ tạo ra bằng chứng văn bản. Cũng nên hỏi trước việc hoàn cọc cho người đứng tên khác với người đã chuyển, nếu chuyến thuê đặt hộ cho người thân, vì có những ngân hàng và tiệm chỉ hoàn về đúng tài khoản nguồn; xử lý trước bằng văn bản sẽ đỡ phiền về sau.
 
-Người từng gặp trục trặc khi thuê và trả xe sẽ thấy trang [nhận trả xe](/blog/thue-xe/nhan-tra-xe/) đáng đọc trước chuyến, còn với ai thuê theo tháng dài hạn thì phần [thuê theo tháng](/blog/thue-xe/thue-thang/) có thêm những điểm cần chú ý về bảo dưỡng và cọc.
+Người từng gặp trục trặc khi thuê và trả xe sẽ thấy trang [nhận trả xe](/thue-xe/nhan-tra-xe/) đáng đọc trước chuyến, còn với ai thuê theo tháng dài hạn thì phần [thuê theo tháng](/thue-xe/thue-thang/) có thêm những điểm cần chú ý về bảo dưỡng và cọc.
 
 ## Tóm lại, hoàn cọc chuyển khoản gọn gàng khi bạn chuẩn bị từ đầu
 

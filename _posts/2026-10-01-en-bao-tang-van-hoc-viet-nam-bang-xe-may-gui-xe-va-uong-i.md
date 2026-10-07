@@ -31,18 +31,18 @@ Bảo tàng có khuôn viên riêng với sân rộng phía trước nhà trưng
 
 Cách thứ hai là các bãi giữ xe dịch vụ quanh khu Bạch Mai và các phố song song với Nguyễn Đình Chiểu, cách bảo tàng một hai phút đi bộ. Khi gửi xe tại các bãi kiểu này, nhớ lấy vé và chụp lại vị trí đỗ, vì giờ cao điểm có khi xếp xe hai ba lượt; phí gửi xe niêm yết tại từng bãi theo bảng giá của bãi, ở mức nhỏ so với một buổi tham quan.
 
-Ba thói quen nhỏ giúp buổi đi bằng xe máy thuê thêm yên tâm: khóa cổ xe mỗi lần hạ xe, mang theo đồ giá trị thay vì để trong cốp, và tránh để giấy tờ trên xe. Với nhóm mang theo trẻ, hãy chuẩn bị sẵn mũ bảo hiểm đúng cỡ vì đoạn từ bãi xe vào cổng thường phải bộ một chặng ngắn. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe thuê.
+Ba thói quen nhỏ giúp buổi đi bằng xe máy thuê thêm yên tâm: khóa cổ xe mỗi lần hạ xe, mang theo đồ giá trị thay vì để trong cốp, và tránh để giấy tờ trên xe. Với nhóm mang theo trẻ, hãy chuẩn bị sẵn mũ bảo hiểm đúng cỡ vì đoạn từ bãi xe vào cổng thường phải bộ một chặng ngắn. Cách giữ xe an toàn khi di chuyển nhiều chặng được gom trong bài [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), trong đó có cả các lưu ý riêng cho xe thuê.
 
 ## Ghép lịch quanh khu Hai Bà Trưng
 
 Một buổi tại bảo tàng Văn học thường ghép liền với một vòng quanh khu Bạch Mai hoặc chạy thêm một chặng về khu hồ Gươm ăn trưa, vì tất cả đều nằm trong bán kính mười lăm phút chạy xe. Nhóm đi sáng hay xem bảo tàng trước rồi ăn trưa gần Ngã Tư Sở, còn nhóm đi chiều thì đảo ngược, tận dụng lúc phố lên đèn để dạo bộ quanh hồ. Đừng nhồi thêm điểm thứ ba vào cùng nửa ngày: lịch kiểu đó phá nhịp nghỉ giữa buổi.
 
-Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/blog/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung chuẩn bị cho khu Hồ Gươm, còn bài [đến bảo tàng Hà Nội bằng xe máy](/blog/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/) gợi ý gửi xe cho khu Nam Từ Liêm. Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/blog/du-lich/diem-den/).
+Nếu bạn đang xếp một chuỗi các buổi bảo tàng quanh Hà Nội, bài [đến bảo tàng Địa chất Việt Nam bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ia-chat-viet-nam-bang-xe-may-gui-xe-va-uong-i/) có khung chuẩn bị cho khu Hồ Gươm, còn bài [đến bảo tàng Hà Nội bằng xe máy](/du-lich/2026/10/01/en-bao-tang-ha-noi-bang-xe-may-gui-xe-va-uong-i/) gợi ý gửi xe cho khu Nam Từ Liêm. Thêm nhiều gợi ý nằm trong danh sách [điểm đến](/du-lich/diem-den/).
 
 ## Vài lưu ý trước khi lên đường
 
 Tra trước giờ mở cửa hiện tại qua trang chính thức của bảo tàng trước khi đi: các nguồn công khai ghi bảo tàng đón khách theo hai khung sáng và chiều và nghỉ một số ngày trong tuần, nên khung giờ cụ thể của ngày bạn đi cần xác nhận lại, nhất là các dịp bảo tàng có triển lãm chuyên đề hoặc đón đoàn theo lịch hẹn. Cũng kiểm tra trước thông tin vé hiện hành, vì chính sách đón khách có thể thay đổi theo từng thời điểm.
 
-Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì các cung Đại Cồ Việt, Bà Triệu xe dày đặc vào giờ cao điểm. Người chưa quen các phố một chiều quanh Bạch Mai nên tránh khung bảy rưỡi tới tám rưỡi sáng và năm giờ chiều, lúc dòng xe dồn cục bộ ở các nút giao lớn. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp, thắng, đèn và gương, vì các cung Đại Cồ Việt, Bà Triệu xe dày đặc vào giờ cao điểm. Người chưa quen các phố một chiều quanh Bạch Mai nên tránh khung bảy rưỡi tới tám rưỡi sáng và năm giờ chiều, lúc dòng xe dồn cục bộ ở các nút giao lớn. Nếu thuê xe máy tại Hà Nội cho buổi đi này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
-Cuối cùng, mang theo nước và đi giày bám tốt: phần xem trải trên nhiều tầng nhà trưng bày, và khuôn viên xanh quanh bảo tàng cũng đáng một vòng dạo trước khi về. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.
+Cuối cùng, mang theo nước và đi giày bám tốt: phần xem trải trên nhiều tầng nhà trưng bày, và khuôn viên xanh quanh bảo tàng cũng đáng một vòng dạo trước khi về. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các buổi đi sau quanh Hà Nội.

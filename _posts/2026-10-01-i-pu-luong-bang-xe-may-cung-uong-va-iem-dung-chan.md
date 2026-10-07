@@ -23,15 +23,15 @@ Hầu hết khách đi Pù Luông theo trục Quốc lộ 6: rời Hà Nội hư
 
 ## Điểm dừng chân theo từng chặng
 
-Chặng một, khách dừng giải lao ở Hòa Bình sau khi rời phố, vừa để nghỉ tay lái vừa kiểm lại xăng. Chặng hai, đỉnh Thung Khe là điểm dừng ảnh đáng giá: ven đường có chỗ rộng, khách ngắm dãy núi và khúc cua từ trên cao. Chặng ba, lòng chậu Mai Châu: khách ăn trưa sớm ở bản ven đường, món ăn vùng núi bắc bộ. Cách ghép Mai Châu vào hành trình hai ngày đã được nói trong bài [Mộc Châu và Mai Châu](/blog/cung-duong/moc-chau/), khách tham khảo để cân lịch.
+Chặng một, khách dừng giải lao ở Hòa Bình sau khi rời phố, vừa để nghỉ tay lái vừa kiểm lại xăng. Chặng hai, đỉnh Thung Khe là điểm dừng ảnh đáng giá: ven đường có chỗ rộng, khách ngắm dãy núi và khúc cua từ trên cao. Chặng ba, lòng chậu Mai Châu: khách ăn trưa sớm ở bản ven đường, món ăn vùng núi bắc bộ. Cách ghép Mai Châu vào hành trình hai ngày đã được nói trong bài [Mộc Châu và Mai Châu](/cung-duong/moc-chau/), khách tham khảo để cân lịch.
 
-Chặng cuối, khi đã vào vùng Pù Luông, khách nên chốt lại lịch nghỉ. Khu vực có các bản ven suối nổi tiếng như bản Áng với ruộng bậc thang, và thác Hiêu với bãi suối mát. Điểm dừng nào cũng nên nhìn trước bãi gửi xe: chọn chỗ có người trông và nền đá cao, vì vùng này gần suối, đất dễ mềm khi mưa. Khách xếp đồ gọn theo hướng dẫn trong bài [chở đồ và hành lý trên xe máy](/blog/ky-nang/cho-do-va-hanh-ly/), để mỗi lần dừng chỉ mất vài phút.
+Chặng cuối, khi đã vào vùng Pù Luông, khách nên chốt lại lịch nghỉ. Khu vực có các bản ven suối nổi tiếng như bản Áng với ruộng bậc thang, và thác Hiêu với bãi suối mát. Điểm dừng nào cũng nên nhìn trước bãi gửi xe: chọn chỗ có người trông và nền đá cao, vì vùng này gần suối, đất dễ mềm khi mưa. Khách xếp đồ gọn theo hướng dẫn trong bài [chở đồ và hành lý trên xe máy](/ky-nang/cho-do-va-hanh-ly/), để mỗi lần dừng chỉ mất vài phút.
 
 ## Cách tính ngày đi: một ngày hay hai ngày
 
-Với khách từ Hà Nội, Pù Luông là cung nên tính hai ngày một đêm, vì chặng đi cộng chặng về chiếm gần hết một ngày, cộng giờ dừng bản, thác và ăn uống thì một ngày sẽ quá dồn. Lịch mẫu: sáng sớm rời Hà Nội, trưa qua Mai Châu, chiều tới bản ven suối, nghỉ một đêm ở homestay vùng Pù Luông; ngày hai thong thả ngắm thác và ruộng bậc thang, sau hai giờ chiều lên đường về theo đúng trục cũ. Khách thích lịch trình mẫu kiểu này xem thêm ở [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/).
+Với khách từ Hà Nội, Pù Luông là cung nên tính hai ngày một đêm, vì chặng đi cộng chặng về chiếm gần hết một ngày, cộng giờ dừng bản, thác và ăn uống thì một ngày sẽ quá dồn. Lịch mẫu: sáng sớm rời Hà Nội, trưa qua Mai Châu, chiều tới bản ven suối, nghỉ một đêm ở homestay vùng Pù Luông; ngày hai thong thả ngắm thác và ruộng bậc thang, sau hai giờ chiều lên đường về theo đúng trục cũ. Khách thích lịch trình mẫu kiểu này xem thêm ở [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/).
 
-Thời tiết là biến số lớn nhất của cung. Vùng núi Thanh Hóa mưa rào về chiều, sương mù sớm, và đường đất vùng bản trơn ngay khi có mưa nhỏ. Khách đọc trước các dấu hiệu trời đổi trong bài [thời tiết và đường sổ trên đường dài](/blog/ky-nang/thoi-tiet-va-duong-sa/), và luôn để áo mưa ở ngăn dễ lấy. Nếu chiều về mưa nặng, khách nên nghỉ thêm đêm thay vì đua đường ướt. Câu hỏi bao xa cũng nên được trả lời bằng khung giờ thay vì con số ki-lô-mét, vì với xe máy, sức quan trọng hơn chiều dài.
+Thời tiết là biến số lớn nhất của cung. Vùng núi Thanh Hóa mưa rào về chiều, sương mù sớm, và đường đất vùng bản trơn ngay khi có mưa nhỏ. Khách đọc trước các dấu hiệu trời đổi trong bài [thời tiết và đường sổ trên đường dài](/ky-nang/thoi-tiet-va-duong-sa/), và luôn để áo mưa ở ngăn dễ lấy. Nếu chiều về mưa nặng, khách nên nghỉ thêm đêm thay vì đua đường ướt. Câu hỏi bao xa cũng nên được trả lời bằng khung giờ thay vì con số ki-lô-mét, vì với xe máy, sức quan trọng hơn chiều dài.
 
 ## Vài lưu ý nhỏ làm chuyến dễ chịu
 
@@ -45,4 +45,4 @@ Khác với các trục quốc lộ, phần hay nhớ nhất của Pù Luông l�
 
 Một thói quen nữa đáng giữ ở vùng bản: hỏi giá gửi xe và giá đồ ăn trước khi dùng. Các giá này thường ghi sẵn hoặc được nói thẳng, nhưng hỏi trước giúp khách chủ động và tránh mọi cọ xát không đáng có khi rời bản muộn.
 
-Khách cần xe máy phục vụ cung Hà Nội đi Pù Luông liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Gọi hỏi trước loại xe sẵn có để nhận xe khỏe máy, phanh ăn, hợp với đường cuộn vùng núi. Thông tin dịch vụ gom ở trang [thuê xe](/blog/thue-xe/). Pù Luông không đòi hỏi kỹ thuật đèo cao, chỉ đòi hỏi khách đi đúng nhịp: dừng đúng chỗ, về đúng giờ, và biết đường đất mềm sau cơn mưa.
+Khách cần xe máy phục vụ cung Hà Nội đi Pù Luông liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00. Gọi hỏi trước loại xe sẵn có để nhận xe khỏe máy, phanh ăn, hợp với đường cuộn vùng núi. Thông tin dịch vụ gom ở trang [thuê xe](/thue-xe/). Pù Luông không đòi hỏi kỹ thuật đèo cao, chỉ đòi hỏi khách đi đúng nhịp: dừng đúng chỗ, về đúng giờ, và biết đường đất mềm sau cơn mưa.

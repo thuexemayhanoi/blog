@@ -31,7 +31,7 @@ Khi tầm nhìn một bên bị che bởi xe tải đỗ, cây xanh hoặc nhà 
 
 Nguyên tắc chung khi qua giao lộ không đèn tín hiệu là nhường đường cho phương tiện đến từ bên phải, trừ khi biển báo hoặc vạch sơn quy định khác đi. Đây là cách phân lượt phổ biến ở nhiều nơi, giúp dòng xe không dồn cục vào giữa giao lộ. Khi có hai xe đến gần như đồng thời, người biết nhường trước chính là người kiểm soát được tình huống, vì rủi ro luôn nằm ở hai bên cùng lúc tiến.
 
-Song song với xe cộ, hãy nhường người đi bộ đang qua đường tại đoạn gần giao lộ và người đi xe đạp, xe máy điện đi sát lề. Với người đang đi bộ, kể cả khi họ đi không đúng chỗ, giảm tốc cho qua vẫn an toàn hơn mọi phương án khác. Tinh thần chung của các quy định giao thông hiện hành là giảm tốc độ, giữ khoảng cách và nhường người yếu thế; nội dung này được tóm lại trong trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) để bạn đối chiếu.
+Song song với xe cộ, hãy nhường người đi bộ đang qua đường tại đoạn gần giao lộ và người đi xe đạp, xe máy điện đi sát lề. Với người đang đi bộ, kể cả khi họ đi không đúng chỗ, giảm tốc cho qua vẫn an toàn hơn mọi phương án khác. Tinh thần chung của các quy định giao thông hiện hành là giảm tốc độ, giữ khoảng cách và nhường người yếu thế; nội dung này được tóm lại trong trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) để bạn đối chiếu.
 
 ## Chọn vị trí trên làn và tốc độ vào giao lộ
 
@@ -49,8 +49,8 @@ Một nhóm lỗi khác xuất phát từ tâm lý tranh giành: tăng ga để 
 
 Với giao lộ vào từ hẻm hoặc đường đê nhỏ, quy tắc vàng là chỉ đi nhanh bằng tầm nhìn của bạn. Nếu chỉ nhìn được vài mét, hãy đi với tốc độ bước chân và bấm còi nhẹ trước khi ra khỏi điểm mù để báo hiệu sự hiện diện. Ban đêm, đèn chiếu gần cho bạn thấy mặt đường rõ hơn đèn chiếu xa ở cự ly ngắn này, nên đừng ham xa mà lại mù gần.
 
-Các chuyên mục [tình huống giao thông](/blog/ky-nang/tinh-huong-giao-thong/) và trang tổng hợp [kỹ năng & tình huống](/blog/ky-nang/) có nhiều bài đi sâu vào từng loại tình huống, từ vòng xuyến tới xe buýt ghép làn, giúp bạn luyện trước khi gặp ngoài thực tế.
+Các chuyên mục [tình huống giao thông](/ky-nang/tinh-huong-giao-thong/) và trang tổng hợp [kỹ năng & tình huống](/ky-nang/) có nhiều bài đi sâu vào từng loại tình huống, từ vòng xuyến tới xe buýt ghép làn, giúp bạn luyện trước khi gặp ngoài thực tế.
 
 ## Lời kết
 
-Qua giao lộ không đèn an toàn là kỹ năng luyện được, bắt đầu từ việc giảm tốc sớm và quét nhìn đủ lượt. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Khi nhận xe, bạn nên hỏi rõ tình trạng phanh và đèn, rồi ghé đọc trang [quy định giao thông](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) cùng mục [tình huống trên đường](/blog/ky-nang/tinh-huong-giao-thong/) trước khi xuống phố.
+Qua giao lộ không đèn an toàn là kỹ năng luyện được, bắt đầu từ việc giảm tốc sớm và quét nhìn đủ lượt. Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674. Khi nhận xe, bạn nên hỏi rõ tình trạng phanh và đèn, rồi ghé đọc trang [quy định giao thông](/an-toan-phap-ly/quy-dinh-giao-thong/) cùng mục [tình huống trên đường](/ky-nang/tinh-huong-giao-thong/) trước khi xuống phố.

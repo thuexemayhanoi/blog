@@ -24,7 +24,7 @@ Ngoài ra, vỉa hè phố cổ hẹp, nhiều đoạn chỉ rộng chừng mộ
 
 Ba nguyên tắc chọn chỗ là: không che cửa ra vào và bảng hiệu, không chắn lối đi bộ của người qua lại, và để cùng chiều với những chiếc xe đã có sẵn. Mép vỉa hè sát cột điện hoặc sát mép nhà thường là vị trí được dân quanh khu mặc nhiên coi là chỗ để xe. Nếu thấy một hàng xe đã để ngay ngắn, bạn cứ để nối tiếp theo hàng đó thay vì mở hàng mới ở giữa lối đi.
 
-Khi phải để xe gần cửa nhà, bạn nên gõ cửa hỏi chủ nhà một câu xem có để được không và tới giờ nào phải dọn. Đa số người dân phố cổ khá thoải mái nếu bạn hỏi trước, thậm chí có nhà còn chỉ cho bạn chỗ gọn hơn. Ngược lại, để xe mà không hỏi thì rủi ro bị dời xe hoặc nhắc nhở sẽ cao hơn hẳn. Đây cũng là cách giữ thái độ thiện chí mà khu [du lịch phố cổ](/blog/du-lich/pho-co/) luôn cần từ du khách đi xe máy.
+Khi phải để xe gần cửa nhà, bạn nên gõ cửa hỏi chủ nhà một câu xem có để được không và tới giờ nào phải dọn. Đa số người dân phố cổ khá thoải mái nếu bạn hỏi trước, thậm chí có nhà còn chỉ cho bạn chỗ gọn hơn. Ngược lại, để xe mà không hỏi thì rủi ro bị dời xe hoặc nhắc nhở sẽ cao hơn hẳn. Đây cũng là cách giữ thái độ thiện chí mà khu [du lịch phố cổ](/du-lich/pho-co/) luôn cần từ du khách đi xe máy.
 
 ## Hỏi chủ nhà và người trông tự phát quanh khu
 
@@ -32,9 +32,9 @@ Nhiều đoạn phố cổ có người trông tự phát thu một khoản nh�
 
 Nếu không có người trông, để xe trước nhà dân qua đêm cần thêm vài lưu ý: chọn nơi có đèn đường chiếu sáng, tránh đầu ngõ hẹp dễ bị xe khác quẹt khi quay đầu, và không để chắn cửa nhà dù chủ nhà đã đồng ý cho để gần. Bạn có thể chụp lại vị trí và biển số nhà trước đó để sáng hôm sau dễ tìm, vì các con ngõ phố cổ ban đêm trông khá khác so với ban ngày.
 
-Nếu kế hoạch của bạn là đi bộ vòng quanh nhiều con phố, cách hợp lý là chọn một chỗ để cố định rồi đi bộ hết khu, thay vì chạy xe từng đoạn ngắn rồi để lại mỗi lần. Cách này vừa giúp bạn tránh để xe nhiều nơi, vừa giảm rủi ro quên chỗ xe đã để. Bạn có thể tham khảo thêm cách luồn lách khi đông đúc trong bài về [lái xe trong phố cổ giờ cao điểm](/blog/kinh%20nghi%E1%BB%87m/2026/09/18/lai-xe-trong-pho-co-gio-cao-diem/) nếu định chạy xe vào khung giờ đông nhất.
+Nếu kế hoạch của bạn là đi bộ vòng quanh nhiều con phố, cách hợp lý là chọn một chỗ để cố định rồi đi bộ hết khu, thay vì chạy xe từng đoạn ngắn rồi để lại mỗi lần. Cách này vừa giúp bạn tránh để xe nhiều nơi, vừa giảm rủi ro quên chỗ xe đã để. Bạn có thể tham khảo thêm cách luồn lách khi đông đúc trong bài về [lái xe trong phố cổ giờ cao điểm](/kinh%20nghi%E1%BB%87m/2026/09/18/lai-xe-trong-pho-co-gio-cao-diem/) nếu định chạy xe vào khung giờ đông nhất.
 
-Cuối cùng, khi để xe trước nhà dân, bạn nên khóa cổ và khóa bánh như thường lệ dù chỉ vắng mặt chốc lát. Mẹo khóa hai điểm và nhận diện chỗ để an toàn đã được tóm trong nhóm [gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/), nên bạn có thể áp dụng luôn mà không cần nhớ thêm điều gì mới. Vài giây khóa kỹ luôn rẻ hơn nhiều so với một đêm lo lắng cho chiếc xe để ngoài trời.
+Cuối cùng, khi để xe trước nhà dân, bạn nên khóa cổ và khóa bánh như thường lệ dù chỉ vắng mặt chốc lát. Mẹo khóa hai điểm và nhận diện chỗ để an toàn đã được tóm trong nhóm [gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/), nên bạn có thể áp dụng luôn mà không cần nhớ thêm điều gì mới. Vài giây khóa kỹ luôn rẻ hơn nhiều so với một đêm lo lắng cho chiếc xe để ngoài trời.
 
 ## Đôi điều về ứng xử khi xe bị dời
 
@@ -42,4 +42,4 @@ Trường hợp quay lại mà không thấy xe ở chỗ cũ, trước tiên b�
 
 Tóm lại, để xe trước nhà dân khu phố cổ cần ba thứ: chọn mép hè đúng chỗ, hỏi trước khi để và khóa xe kỹ cho dù khu có vẻ an toàn. Khi bạn làm đủ ba điều này, chiếc xe của bạn gần như luôn nằm lại đúng chỗ cũ khi bạn quay lại, và người dân quanh khu cũng có thiện cảm hơn với du khách đi xe máy trong khu phố cổ.
 
- Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/blog/ky-nang/) và [Gửi xe và giữ xe](/blog/ky-nang/gui-xe-va-giu-xe/).
+ Khi bạn cần một chiếc xe để luyện các tình huống này trong khu vực Hà Nội, Thuê Xe Máy Hà Nội Nguyễn Tú của Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674, có xe số và xe tay ga phù hợp cho từng tình huống. Đọc thêm tại [Kỹ năng & tình huống](/ky-nang/) và [Gửi xe và giữ xe](/ky-nang/gui-xe-va-giu-xe/).

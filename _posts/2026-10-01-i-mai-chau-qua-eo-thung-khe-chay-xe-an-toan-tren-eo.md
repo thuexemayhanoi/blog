@@ -29,7 +29,7 @@ Khoảng cách với xe trước trên đèo phải rộng hơn mặt bằng: xe
 
 ## Thời tiết và sương trên đèo
 
-Đèo cao chừng nghìn mét nên thời tiết trên đỉnh khác dưới thung lũng: sáng sớm và chiều muộn hay có mây mù dày, tầm nhìn co lại còn vài chục mét; mùa mưa mặt nhựa trơn, mùa đông có băng giá ở vùng núi Hòa Bình. Trước ngày đi, xem dự báo cho cả vùng Mai Châu lẫn Tân Lạc; nếu dự báo sương mù dày buổi sáng, dời giờ lên đèo về giữa trưa khi mù tan. Cách đọc dự báo và xử lý đường sá theo từng kiểu thời tiết được gom trong mục [thời tiết và đường sá](/blog/ky-nang/thoi-tiet-va-duong-sa/), đáng đọc trước mỗi chuyến đèo.
+Đèo cao chừng nghìn mét nên thời tiết trên đỉnh khác dưới thung lũng: sáng sớm và chiều muộn hay có mây mù dày, tầm nhìn co lại còn vài chục mét; mùa mưa mặt nhựa trơn, mùa đông có băng giá ở vùng núi Hòa Bình. Trước ngày đi, xem dự báo cho cả vùng Mai Châu lẫn Tân Lạc; nếu dự báo sương mù dày buổi sáng, dời giờ lên đèo về giữa trưa khi mù tan. Cách đọc dự báo và xử lý đường sá theo từng kiểu thời tiết được gom trong mục [thời tiết và đường sá](/ky-nang/thoi-tiet-va-duong-sa/), đáng đọc trước mỗi chuyến đèo.
 
 Trên đỉnh gió mạnh và lạnh hơn hẳn dưới thung lũng kể cả ngày nắng, nên mang áo khoác gió dù khởi hành ở Hà Nội lúc đó đang oi. Mùa đông, khung sớm và muộn trên đèo có khi dưới mười độ kèm gió ướt, nhóm đi cuối năm nên chuẩn bị găng tay kín và mặt nạ gió cho mỗi người, vì bàn tay tê lạnh là nguyên nhân phổ biến của những pha bẻ lái vội trên cua gắt.
 
@@ -37,10 +37,10 @@ Trên đỉnh gió mạnh và lạnh hơn hẳn dưới thung lũng kể cả ng
 
 Với một ngày, xuất phát từ Hà Nội trước sáu giờ sáng, nghỉ ăn sáng ở chặng thị xã Hòa Bình, lên đèo quanh khung cuối sáng khi mù đã tan, ăn trưa và dạo bản ở Mai Châu, rồi khởi hành về trước ba giờ chiều để qua đèo còn ánh sáng. Với hai ngày, chia trọn chiều đầu cho đèo và bản, sáng hôm sau thong thả về. Không cố về khuya: đoạn quốc lộ về tối nhiều xe tải và đèn pha đối diện.
 
-Nếu bạn đang xếp thêm các chuyến cuối tuần, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), còn một chuyến sinh thái hướng tây gần hơn — khu suối Ba Vì — được gom trong bài [đi Thiên Sơn Suối Ngọc bằng xe máy](/blog/du-lich/2026/10/01/i-thien-son-suoi-ngoc-bang-xe-may-tu-ha-noi-lo-trinh-mot-ngay/). Nếu thuê xe máy tại Hà Nội cho cung này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/blog/thue-xe/).
+Nếu bạn đang xếp thêm các chuyến cuối tuần, các gợi ý vòng đường dài hơn nằm trong trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), còn một chuyến sinh thái hướng tây gần hơn — khu suối Ba Vì — được gom trong bài [đi Thiên Sơn Suối Ngọc bằng xe máy](/du-lich/2026/10/01/i-thien-son-suoi-ngoc-bang-xe-may-tu-ha-noi-lo-trinh-mot-ngay/). Nếu thuê xe máy tại Hà Nội cho cung này, việc chuẩn bị xe và giấy tờ trước khi nhận xe nằm trong trang [cho thuê xe máy](/thue-xe/).
 
 ## Vài lưu ý trước khi lên đường
 
 Kiểm tra kỹ xe trước khi rời khu Long Biên: lốp còn sâu hoa, phanh ăn hai bánh, nhớt đủ — cung đèo làm việc nặng hơn hẳn mặt bằng, và trên đèo không có tiệm sửa. Đổ đầy xăng trước đoạn đèo vì trạm ven đèo thưa, mang theo bộ đèn dự phòng cho tâm huyết nhóm phượt, và để đồ buộc chặt: hai bên cốp cân bằng, dây qua yên ôm chắc.
 
-Cuối cùng, giữ điện thoại đủ pin cho bản đồ và cuộc gọi bất ngờ, mang theo nước và bánh khô vì chặng giữa thiên nhiên không có quán liền kề, và đi nhóm nên hẹn nhau hai điểm chờ cố định — chân đèo và bản Mai Châu — để nếu ai lạc trục cũng biết chỗ tìm cả nhóm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/blog/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các cung đèo xa hơn quanh Hà Nội.
+Cuối cùng, giữ điện thoại đủ pin cho bản đồ và cuộc gọi bất ngờ, mang theo nước và bánh khô vì chặng giữa thiên nhiên không có quán liền kề, và đi nhóm nên hẹn nhau hai điểm chờ cố định — chân đèo và bản Mai Châu — để nếu ai lạc trục cũng biết chỗ tìm cả nhóm. Chuyện chọn cung đường và giữ xe an toàn được gom trong mục [du lịch](/du-lich/), nơi bạn có thể tích dần kinh nghiệm cho các cung đèo xa hơn quanh Hà Nội.

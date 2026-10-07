@@ -23,7 +23,7 @@ Bước một là truy lại đường đi: điểm cuối cùng bạn chắc ch
 
 Bước hai là quay lại các điểm đã ghé, ưu tiên bãi giữ xe và quầy giao dịch. Với bãi giữ xe, hỏi người trông xe xem chìa có bị ai nhặt giao lại không; với quán, hỏi nhân viên quầy. Mỗi lần hỏi chỉ mất một phút mà khả năng tìm lại không nhỏ.
 
-Bước ba là báo ngay cho cửa hàng cho thuê, kể cả khi bạn vẫn còn hy vọng tìm lại. Báo sớm giúp cửa hàng ghi nhận tình huống và cho bạn hướng xử chính thống thay vì để chuyện kéo dài. Các tình huống sự cố với xe thuê được tóm trong trang [sự cố khi thuê xe](/blog/thue-xe/su-co/).
+Bước ba là báo ngay cho cửa hàng cho thuê, kể cả khi bạn vẫn còn hy vọng tìm lại. Báo sớm giúp cửa hàng ghi nhận tình huống và cho bạn hướng xử chính thống thay vì để chuyện kéo dài. Các tình huống sự cố với xe thuê được tóm trong trang [sự cố khi thuê xe](/thue-xe/su-co/).
 
 Bước bốn là sắp xếp cho chiếc xe: nếu xe đang đỗ ngoài đường, hãy chuyển vào bãi giữ xe có người trông, hoặc nhờ người nhà trông hộ. Xe thuê không khóa dễ thành mục tiêu cho kẻ gian, và mất cả xe sẽ phức tạp hơn nhiều so với mất một cái chìa.
 
@@ -39,7 +39,7 @@ Chìa dự phòng là hướng chính thống: đa số cửa hàng giữ lại 
 
 Với xe thuê, mất chìa thường rơi vào một trong hai hướng: trừ một khoản trong tiền đặt cọc theo hợp đồng, hoặc bạn hoàn trả chi phí làm lại bộ chìa. Khoản cụ thể tùy hợp đồng từng nơi, nên cách công bằng nhất là hỏi trực tiếp và yêu cầu ghi rõ hóa đơn chi phí phát sinh.
 
-Trước khi thuê, bạn nên đọc kỹ phần trách nhiệm về chìa khóa ngay từ lúc ký; phần đặt cọc, hoàn trả và các khoản trừ được nói trong trang [đặt cọc khi thuê xe](/blog/thue-xe/dat-coc/). Ai thường xuyên thuê xe nên có thói quen chụp lại trang điều khoản để tiện đối chiếu.
+Trước khi thuê, bạn nên đọc kỹ phần trách nhiệm về chìa khóa ngay từ lúc ký; phần đặt cọc, hoàn trả và các khoản trừ được nói trong trang [đặt cọc khi thuê xe](/thue-xe/dat-coc/). Ai thường xuyên thuê xe nên có thói quen chụp lại trang điều khoản để tiện đối chiếu.
 
 Một điểm đáng lưu ý nữa là thời gian: báo mất chìa càng sớm, chuyện càng dễ xử. Nếu bạn để qua nhiều ngày mà không báo, cửa hàng khó kiểm soát chiếc xe, và tình huống dễ chuyển từ mất chìa sang phức tạp về hợp đồng, đặc biệt khi hợp đồng ghi hạn trả xe. Một cuộc gọi ngay trong ngày mất luôn là cách rẻ nhất để mọi thứ còn rõ ràng.
 
@@ -47,6 +47,6 @@ Một điểm đáng lưu ý nữa là thời gian: báo mất chìa càng sớm
 
 Phòng mất luôn rẻ hơn xử lý mất. Vài thói quen nhỏ có tác dụng lớn: móc chìa xe vào cùng móc chìa nhà để ra khỏi nhà là thấy luôn, dùng dây đeo cổ hoặc kẹp chìa vào quai túi khi đi xa, và không để chìa trên yên xe kể cả khi chỉ bước đi mua nước một phút.
 
-Nếu hay đi hai người, bạn có thể để người sau cầm chìa dự phòng trong chuyến dài, hai người cùng nhớ luôn hơn một người. Lúc nhận xe, bạn cũng nên hỏi cửa hàng xem chìa có cái gì đi kèm: thẻ nhớ xe, remote báo động, chìa mở cốp riêng. Biết đủ bộ giúp bạn giữ gìn đúng và khi có sự cố cũng mô tả chính xác hơn. Các đầu mục cần lưu ý khi giao nhận xe được tóm trong trang [nhận và trả xe](/blog/thue-xe/nhan-tra-xe/).
+Nếu hay đi hai người, bạn có thể để người sau cầm chìa dự phòng trong chuyến dài, hai người cùng nhớ luôn hơn một người. Lúc nhận xe, bạn cũng nên hỏi cửa hàng xem chìa có cái gì đi kèm: thẻ nhớ xe, remote báo động, chìa mở cốp riêng. Biết đủ bộ giúp bạn giữ gìn đúng và khi có sự cố cũng mô tả chính xác hơn. Các đầu mục cần lưu ý khi giao nhận xe được tóm trong trang [nhận và trả xe](/thue-xe/nhan-tra-xe/).
 
-Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi cần hỗ trợ về chìa khóa hoặc các tình huống khác; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/blog/xe-may/).
+Cửa hàng Thuê Xe Máy Hà Nội Nguyễn Tú ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00, nhận đặt xe qua số 0942 467 674, bạn gọi hỏi trực tiếp khi cần hỗ trợ về chìa khóa hoặc các tình huống khác; tổng quan các dòng xe nằm trong trang [xe máy khi thuê](/xe-may/).

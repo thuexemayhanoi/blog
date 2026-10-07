@@ -24,7 +24,7 @@ Một cách xếp buổi ăn kiểu xe máy là chia buổi thành ba chặng: c
 
 ## Cung quanh Hồ Gươm và phố cổ
 
-Cụm quanh Hồ Gươm và phố cổ là cung dày đặc nhất: các dãy hàng quanh bờ hồ và trong phố cổ bán đủ khung từ sáng tới tối, và quãng đi bộ giữa các hàng ngắn. Phố Tô Tích cạnh hồ nổi tiếng với các cốc hoa quả dầm và nước ép chiều tối; dãy Hàng Buồm có bánh ngọt và các hàng quà; các ngõ quanh Đường Thành và Hàng Cá có nhiều quán nhỏ bán bữa trưa kiểu nhà hàng và món ăn vặt. Danh mục điểm quanh khu này được kể trong trang [Phố Cổ](/blog/du-lich/pho-co/), còn trình tự dạo cả khu nằm trong bài [khám phá Phố Cổ Hà Nội](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/).
+Cụm quanh Hồ Gươm và phố cổ là cung dày đặc nhất: các dãy hàng quanh bờ hồ và trong phố cổ bán đủ khung từ sáng tới tối, và quãng đi bộ giữa các hàng ngắn. Phố Tô Tích cạnh hồ nổi tiếng với các cốc hoa quả dầm và nước ép chiều tối; dãy Hàng Buồm có bánh ngọt và các hàng quà; các ngõ quanh Đường Thành và Hàng Cá có nhiều quán nhỏ bán bữa trưa kiểu nhà hàng và món ăn vặt. Danh mục điểm quanh khu này được kể trong trang [Phố Cổ](/du-lich/pho-co/), còn trình tự dạo cả khu nằm trong bài [khám phá Phố Cổ Hà Nội](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/).
 
 Chỗ gửi xe là bài toán chính của cung này: bãi quanh phố cổ nằm trong ngõ, kín nhanh theo khung, nên khách ăn đàn nên chọn một bãi trung tâm rồi đi bộ vòng, đừng dời xe theo từng hàng. Các phố quanh khu phần lớn một chiều và hẹp, chạy giữa buổi đông cần thả chậm và quan sát người băng ra từ sau hàng xe đỗ. Tối cuối tuần quanh hồ chuyển thành phố đi bộ, hợp kiểu ăn tối xong gửi xe ngoài vành rồi dạo bộ trọn vòng hồ.
 
@@ -32,9 +32,9 @@ Trong cụm này, thứ tự đáng đi là món nặng trước, hàng nước 
 
 ## Cung ngoài trung tâm: ven Hồ Tây, Trúc Bạch và dải đê
 
-Cung phía Tây Hồ hợp khung chiều và tối: dải đường ven Trúc Bạch có các quán nhỏ nhìn mặt nước, nhiều hàng mở tới tối, chạy dọc qua đường Thanh Niên ngắm hai bên hồ chỉ mất vài phút giữa các chặng ăn. Khách muốn yên hơn nên rẽ vào các ngõ quanh khu, nơi các quán ăn nhà hàng nằm kín trong dãy dân. Kinh nghiệm dạo cụm hồ này được kể trong bài [khám phá khu Tây Hồ](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/), còn danh sách điểm quanh thành phố xếp tại trang [điểm đến](/blog/du-lich/diem-den/).
+Cung phía Tây Hồ hợp khung chiều và tối: dải đường ven Trúc Bạch có các quán nhỏ nhìn mặt nước, nhiều hàng mở tới tối, chạy dọc qua đường Thanh Niên ngắm hai bên hồ chỉ mất vài phút giữa các chặng ăn. Khách muốn yên hơn nên rẽ vào các ngõ quanh khu, nơi các quán ăn nhà hàng nằm kín trong dãy dân. Kinh nghiệm dạo cụm hồ này được kể trong bài [khám phá khu Tây Hồ](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/), còn danh sách điểm quanh thành phố xếp tại trang [điểm đến](/du-lich/diem-den/).
 
-Cung ven sông phía Gia Lâm là kiểu hoàn toàn khác: dải đê và các thôn ven có các hàng ăn theo mùa, hợp buổi sáng cuối tuần chạy nhẹ rồi ăn trưa vắng. Trên cung này khách nên ăn theo giờ của người dân ven, vì nhiều hàng chỉ bán đúng khung sáng hoặc đúng phiên chợ. Chi tiết đường đê và các điểm ven sông được kể trong bài [Gia Lâm và ven sông Hồng](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/), hợp khách muốn mở rộng cung ăn ra ngoài trung tâm.
+Cung ven sông phía Gia Lâm là kiểu hoàn toàn khác: dải đê và các thôn ven có các hàng ăn theo mùa, hợp buổi sáng cuối tuần chạy nhẹ rồi ăn trưa vắng. Trên cung này khách nên ăn theo giờ của người dân ven, vì nhiều hàng chỉ bán đúng khung sáng hoặc đúng phiên chợ. Chi tiết đường đê và các điểm ven sông được kể trong bài [Gia Lâm và ven sông Hồng](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/), hợp khách muốn mở rộng cung ăn ra ngoài trung tâm.
 
 ## Đi xe máy ăn đàn: giữ chỗ, giữ xe và an toàn
 
@@ -42,7 +42,7 @@ Vài lưu ý nhỏ giữ cho buổi ăn vui: gửi xe hỏi giá trước khi đ
 
 Khung tối nối chặng cần để ý đèn xe sớm: các chặng ăn thường rơi sau hoàng hôn, đèn phải bật ngay khi trời bắt đầu sẫm, và khách nên giảm tốc trong các đoạn phố nhỏ thiếu đèn đường.
 
-Khách thuê xe nên kiểm tra đèn, còi, phanh trước buổi và mang giấy tờ theo người, vì các chặng ăn nối nhau thường rơi vào khung tối, lúc cần đèn sớm. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/blog/hoi-dap/), còn tổng quan lịch trình quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/).
+Khách thuê xe nên kiểm tra đèn, còi, phanh trước buổi và mang giấy tờ theo người, vì các chặng ăn nối nhau thường rơi vào khung tối, lúc cần đèn sớm. Các câu hỏi thường gặp khi đi lại bằng xe máy được gom tại trang [hỏi đáp](/hoi-dap/), còn tổng quan lịch trình quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/).
 
 ## Kết luận về ăn theo cung đường ở Hà Nội
 

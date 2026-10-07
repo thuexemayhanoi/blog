@@ -28,13 +28,13 @@ Trình tự khung sáng gợi ý là khởi hành sớm, dừng đầu tiên t�
 
 Bữa sáng quanh hồ nên tính gọn trong nửa tiếng: các hàng mở sớm lên món nhanh, khách ăn xong còn nguyên khung vắng cho phần dạo phố. Ai muốn chụp ảnh vành hồ thì nên dừng trước khi phố đông, vì mặt nước lặng và ánh sáng sớm cho khung ảnh rõ nhất trong ngày; sau chín giờ, dòng xe quanh hồ đã dày lên hẳn.
 
-Vào các phố cổ nên đi theo biển một chiều thay vì phán đoán, vì một lần rẽ nhầm là vòng thêm một đoạn dài. Chi tiết đường một chiều và các khung đông quanh khu Hồ Gươm được kể trong bài [khám phá khu Hoàn Kiếm](/blog/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn mẹo chạy nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội cho người mới](/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Khách có con nhỏ nên dừng sớm hơn dự kiến: phố cổ có nhiều đoạn vỉa hè hẹp và hàng quán bày ra lối đi.
+Vào các phố cổ nên đi theo biển một chiều thay vì phán đoán, vì một lần rẽ nhầm là vòng thêm một đoạn dài. Chi tiết đường một chiều và các khung đông quanh khu Hồ Gươm được kể trong bài [khám phá khu Hoàn Kiếm](/du%20l%E1%BB%8Bch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/), còn mẹo chạy nội đô cho người mới nằm trong bài [gợi ý khám phá Hà Nội cho người mới](/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/). Khách có con nhỏ nên dừng sớm hơn dự kiến: phố cổ có nhiều đoạn vỉa hè hẹp và hàng quán bày ra lối đi.
 
 ## Khung trưa và khung chiều: bóng cây và mặt hồ
 
 Trưa giữa nên né cung phơi nắng và chuyển sang các điểm có bóng cây hoặc trong nhà. Cụm Văn Miếu là lựa chọn quen: khu Quốc Tử Giám có bóng cây cổ thụ thoáng mát, lối đi quanh nhỏ đủ cho một vòng giữa trưa, và quanh khu có nhiều quán sách và quán nước nhỏ ven đường, ghế trên vỉa hè đủ chỗ nghỉ giữa buổi. Ai không quen nắng thì lịch nửa ngày kiểu này nên kết thúc sớm trước khung xế.
 
-Chiều muộn là khung của phía hồ lớn: dải đường Thanh Niên nối Hồ Tây với Trúc Bạch có gió và nắng xiên, hợp dừng chụp ảnh và uống nước nhìn thành phố. Khách nên chọn gửi xe tại một bãi quanh khu rồi đi bộ dải ven, vì đoạn này dòng nhanh và hàng xe đỗ ven lấp lề. Danh sách các điểm quanh thành phố xếp theo khu vực nằm trong trang [điểm đến](/blog/du-lich/diem-den/), còn kinh nghiệm chạy các trục nội đô được gom trong trang [cung đường nội thành](/blog/cung-duong/cung-duong-noi-thanh/).
+Chiều muộn là khung của phía hồ lớn: dải đường Thanh Niên nối Hồ Tây với Trúc Bạch có gió và nắng xiên, hợp dừng chụp ảnh và uống nước nhìn thành phố. Khách nên chọn gửi xe tại một bãi quanh khu rồi đi bộ dải ven, vì đoạn này dòng nhanh và hàng xe đỗ ven lấp lề. Danh sách các điểm quanh thành phố xếp theo khu vực nằm trong trang [điểm đến](/du-lich/diem-den/), còn kinh nghiệm chạy các trục nội đô được gom trong trang [cung đường nội thành](/cung-duong/cung-duong-noi-thanh/).
 
 Giữa hai khung, khách nên chừa một khoảng nghỉ ngắn: tìm chỗ nước mát, ngồi lại vài phút rồi mới chạy tiếp, vì nửa ngày dễ bị nhồi đầy điểm và mất phần thảnh thơi vốn là mục đích của lịch kiểu này. Quãng nối từ cụm Văn Miếu sang dải ven Hồ Tây chạy qua các trục quen, khách nên canh đèn và giữ làn thay vì vượt nhanh giữa buổi.
 
@@ -42,7 +42,7 @@ Giữa hai khung, khách nên chừa một khoảng nghỉ ngắn: tìm chỗ n�
 
 Một nửa ngày nội đô thường chỉ cần mười tới hai mươi phút di chuyển giữa hai cụm, nên lịch gọn không cần tính giờ chạy dài, mà cần tính giờ dừng: gửi xe, đi bộ, ăn uống. Trước buổi, khách làm một vòng kiểm tra nhanh đèn, còi, phanh và áp suất lốp, đổ sẵn xăng cho cả buổi vì các trạm quanh khu phố cổ thưa hơn ngoại ô, và mang theo áo mưa gấp nếu đi giữa mùa giông. Khách thuê xe nên chụp tình trạng xe khi nhận và mang giấy tờ theo người suốt buổi.
 
-Mùa mưa làm đổi lịch nhanh hơn mùa nắng: một cơn giông chiều có thể cắt cụm ngoài trời, nên khách nên xếp điểm trong nhà ở phần đầu buổi và để phần ngoài trời cho khung đẹp. Cuối tuần mọi bãi quanh trung tâm kín nhanh, lịch nửa ngày nên khởi hành sớm để không tiêu phần đầu buổi vào việc chờ chỗ. Tổng quan các trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/blog/du-lich/), hợp khách muốn ghép lịch dài hơn.
+Mùa mưa làm đổi lịch nhanh hơn mùa nắng: một cơn giông chiều có thể cắt cụm ngoài trời, nên khách nên xếp điểm trong nhà ở phần đầu buổi và để phần ngoài trời cho khung đẹp. Cuối tuần mọi bãi quanh trung tâm kín nhanh, lịch nửa ngày nên khởi hành sớm để không tiêu phần đầu buổi vào việc chờ chỗ. Tổng quan các trải nghiệm quanh thành phố nằm tại trang [du lịch Hà Nội](/du-lich/), hợp khách muốn ghép lịch dài hơn.
 
 ## Kết luận về lịch trình nửa ngày bằng xe máy
 

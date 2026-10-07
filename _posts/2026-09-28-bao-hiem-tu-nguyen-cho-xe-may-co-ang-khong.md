@@ -17,7 +17,7 @@ Bảo hiểm tự nguyện xe máy có đáng mua không là câu hỏi của ng
 
 ## Phân biệt hai lớp bảo hiểm
 
-Trước hết cần tách bạch hai khái niệm hay bị nhầm lẫn. Bảo hiểm bắt buộc trách nhiệm dân sự, quy định tại Nghị định 67/2023/NĐ-CP có hiệu lực từ ngày 06/09/2023, chỉ chi trả cho thiệt hại mà xe của bạn gây ra cho bên thứ ba trong giới hạn trách nhiệm theo nghị định, ví dụ thiệt hại về sức khỏe, tính mạng của người bị tai nạn do xe gây ra. Loại này không chi trả cho hư hỏng của chính chiếc xe và thương tích của người lái. Bạn có thể xem lại chi tiết trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/blog/an-toan-phap-ly/bao-hiem/).
+Trước hết cần tách bạch hai khái niệm hay bị nhầm lẫn. Bảo hiểm bắt buộc trách nhiệm dân sự, quy định tại Nghị định 67/2023/NĐ-CP có hiệu lực từ ngày 06/09/2023, chỉ chi trả cho thiệt hại mà xe của bạn gây ra cho bên thứ ba trong giới hạn trách nhiệm theo nghị định, ví dụ thiệt hại về sức khỏe, tính mạng của người bị tai nạn do xe gây ra. Loại này không chi trả cho hư hỏng của chính chiếc xe và thương tích của người lái. Bạn có thể xem lại chi tiết trong bài [bảo hiểm trách nhiệm dân sự xe máy là gì](/an-toan-phap-ly/bao-hiem/).
 
 Bảo hiểm tự nguyện là lớp bổ sung do chủ xe tự quyết định mua, phổ biến nhất là bảo hiểm vật chất xe: khi xe bị hư hỏng do va chạm, cháy, hoặc một số rủi ro theo điều khoản hợp đồng, doanh nghiệp bảo hiểm chi trả chi phí sửa chữa trong phạm vi và mức khấu trừ đã thỏa thuận. Ngoài ra thị trường còn có các gói tự nguyện bảo hiểm tai nạn người ngồi trên xe. Phí, mức chi trả và điều khoản loại trừ thay đổi theo từng doanh nghiệp bảo hiểm, nên bạn đọc kỹ đề nghị bảo hiểm trước khi ký.
 
@@ -46,7 +46,7 @@ Nếu các câu trả lời cho thấy xác suất hư hỏng và chi phí tiề
 
 ## Người thuê xe nên nhớ
 
-Với khách thuê xe máy, đầu bài không phải mua bảo hiểm mà là hiểu trách nhiệm giữa mình và cửa hàng: hỏi về quy định hư hỏng, đọc kỹ điều khoản nhận trả xe, và lưu số điện thoại hỗ trợ của cửa hàng. Tổng hợp kiến thức bảo hiểm cho người đi xe máy nằm trong trang [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/), các chủ đề pháp lý liên quan nằm trong trang [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Với khách thuê xe máy, đầu bài không phải mua bảo hiểm mà là hiểu trách nhiệm giữa mình và cửa hàng: hỏi về quy định hư hỏng, đọc kỹ điều khoản nhận trả xe, và lưu số điện thoại hỗ trợ của cửa hàng. Tổng hợp kiến thức bảo hiểm cho người đi xe máy nằm trong trang [bảo hiểm xe máy](/an-toan-phap-ly/bao-hiem/), các chủ đề pháp lý liên quan nằm trong trang [an toàn và pháp lý](/an-toan-phap-ly/).
 
 ## Kết luận về bảo hiểm tự nguyện xe máy
 

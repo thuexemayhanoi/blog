@@ -36,7 +36,7 @@ Ngoài ra, nên hỏi rõ khoản cọc này giữ chỗ trong bao lâu. Nếu b
 
 ## Xác nhận thông tin trước khi chuyển
 
-Một vòng kiểm tra trước khi chuyển khoản gồm bốn điểm: tên người nhận trùng với tên cửa hàng bạn đã trao đổi, nội dung chuyển rõ ràng, số tiền đúng như đã thống nhất, và đã có xác nhận về chiếc xe cụ thể được giữ. Nếu một trong bốn điểm chưa rõ, hãy hỏi thêm trước khi chuyển. Với khách lần đầu thuê, đọc trước bài [giấy tờ cần mang theo khi lái xe máy](/blog/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) cũng giúp buổi nhận xe sau đó diễn ra gọn gàng hơn, vì giấy tờ luôn là phần đầu tiên được kiểm tra.
+Một vòng kiểm tra trước khi chuyển khoản gồm bốn điểm: tên người nhận trùng với tên cửa hàng bạn đã trao đổi, nội dung chuyển rõ ràng, số tiền đúng như đã thống nhất, và đã có xác nhận về chiếc xe cụ thể được giữ. Nếu một trong bốn điểm chưa rõ, hãy hỏi thêm trước khi chuyển. Với khách lần đầu thuê, đọc trước bài [giấy tờ cần mang theo khi lái xe máy](/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/) cũng giúp buổi nhận xe sau đó diễn ra gọn gàng hơn, vì giấy tờ luôn là phần đầu tiên được kiểm tra.
 
 ## Cọc bằng hiện vật hoặc giấy tờ thì sao
 
@@ -44,6 +44,6 @@ Nếu bạn không tiện chuyển khoản, có thể hỏi về cách cọc b�
 
 ## Câu hỏi nên đặt ra trước khi đặt cọc
 
-Trước khi chuyển cọc, hãy hỏi gộp bốn câu: khoản cọc này dùng để giữ chiếc xe nào, trong thời gian nào; điều kiện nhận lại cọc là gì; nếu đổi lịch nhận xe thì xử lý ra sao; và nếu không đến nhận thì khoản cọc được tính thế nào. Các câu hỏi nghe thẳng nhưng giúp hai bên cùng rõ, tránh mọi hiểu nhầm về sau. Bạn cũng có thể tham khảo nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/blog/thue-xe/) để nắm thêm các lưu ý thường gặp trước kỳ thuê của mình.
+Trước khi chuyển cọc, hãy hỏi gộp bốn câu: khoản cọc này dùng để giữ chiếc xe nào, trong thời gian nào; điều kiện nhận lại cọc là gì; nếu đổi lịch nhận xe thì xử lý ra sao; và nếu không đến nhận thì khoản cọc được tính thế nào. Các câu hỏi nghe thẳng nhưng giúp hai bên cùng rõ, tránh mọi hiểu nhầm về sau. Bạn cũng có thể tham khảo nhóm bài chia sẻ kinh nghiệm thuê xe dài ngày trên trang [thuê xe máy](/thue-xe/) để nắm thêm các lưu ý thường gặp trước kỳ thuê của mình.
 
-Tóm lại, đặt cọc qua chuyển khoản thường được nhiều nơi chấp nhận khi hai bên trao đổi rõ ràng. Nếu bạn muốn hỏi cụ thể về cách giữ chỗ, hãy gọi số 0942 467 674 hoặc ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể xem thêm nhóm bài hướng dẫn về đặt cọc và giữ giấy tờ trên trang [thuê xe máy](/blog/thue-xe/).
+Tóm lại, đặt cọc qua chuyển khoản thường được nhiều nơi chấp nhận khi hai bên trao đổi rõ ràng. Nếu bạn muốn hỏi cụ thể về cách giữ chỗ, hãy gọi số 0942 467 674 hoặc ghé cửa hàng của Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa từ 09:00 đến 21:00 hằng ngày. Mức chi tiết luôn có thể thay đổi theo từng thời kỳ, nên hãy xác nhận lại tại thời điểm đặt xe. Bạn cũng có thể xem thêm nhóm bài hướng dẫn về đặt cọc và giữ giấy tờ trên trang [thuê xe máy](/thue-xe/).

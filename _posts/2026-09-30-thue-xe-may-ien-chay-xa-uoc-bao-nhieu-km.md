@@ -17,7 +17,7 @@ Xe máy điện ngày càng phổ biến trong đội xe cho thuê ở Hà Nội
 
 ## Xe máy điện chạy được bao xa: vì sao không có một con số chung cho mọi dòng xe
 
-Quãng đường chạy được của xe máy điện phụ thuộc trước hết vào bình pin: xe dùng pin nhỏ kiểu xe đạp điện có quãng đường khác hẳn xe máy điện đời mới pin lớn, bài [phân biệt xe đạp điện và xe máy điện](/blog/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/) giải thích rõ khác biệt giữa hai nhóm này. Trong cùng một cửa hàng, các đời xe trong kho có thể khác nhau về dung lượng pin, số năm sử dụng pin và chế độ vận hành, nên hai chiếc xe trông giống nhau có thể cho quãng đường khác nhau. Vì vậy, khi hỏi đi xa bằng xe điện được không, câu trả lời có giá trị nhất luôn là con số cho đúng chiếc xe bạn sắp nhận, lấy trực tiếp từ cửa hàng, chứ không phải một mức trung bình chung cho cả nhóm xe điện.
+Quãng đường chạy được của xe máy điện phụ thuộc trước hết vào bình pin: xe dùng pin nhỏ kiểu xe đạp điện có quãng đường khác hẳn xe máy điện đời mới pin lớn, bài [phân biệt xe đạp điện và xe máy điện](/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/) giải thích rõ khác biệt giữa hai nhóm này. Trong cùng một cửa hàng, các đời xe trong kho có thể khác nhau về dung lượng pin, số năm sử dụng pin và chế độ vận hành, nên hai chiếc xe trông giống nhau có thể cho quãng đường khác nhau. Vì vậy, khi hỏi đi xa bằng xe điện được không, câu trả lời có giá trị nhất luôn là con số cho đúng chiếc xe bạn sắp nhận, lấy trực tiếp từ cửa hàng, chứ không phải một mức trung bình chung cho cả nhóm xe điện.
 
 Thêm một lý do nữa: pin là bộ phận giảm dần theo thời gian sử dụng. Chiếc xe được sạc đều đặn, pin còn tốt, sẽ chạy xa hơn chiếc cùng đời nhưng pin đã qua nhiều chu kỳ sạc xả. Cửa hàng cho thuê uy tín nắm rõ tình trạng pin từng xe trong kho và đây là thông tin đáng hỏi trong cuộc gọi trước khi đặt.
 
@@ -35,7 +35,7 @@ Sau đó so với con số của chiếc xe cụ thể: hỏi cửa hàng quãng
 
 ## Ba thói quen giữ quãng đường ổn định suốt kỳ thuê
 
-Thói quen thứ nhất: sạc đúng cách. Với phần lớn xe máy điện, sạc khi pin về mức thấp theo hướng dẫn và rút sạc khi đầy giúp pin giữ được sức khỏe qua nhiều chu kỳ; bài [sạc pin xe máy điện đúng cách](/blog/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/) đi vào chi tiết thói quen này. Tránh thói quen sạc liên tục cả đêm ngoài yêu cầu, và luôn dùng bộ sạc chuẩn của xe cho sẵn khi nhận. Khi nhận xe, hỏi luôn bộ sạc đi kèm thế nào, vì không phải cửa hàng nào cũng giao kèm sạc cho mọi dòng.
+Thói quen thứ nhất: sạc đúng cách. Với phần lớn xe máy điện, sạc khi pin về mức thấp theo hướng dẫn và rút sạc khi đầy giúp pin giữ được sức khỏe qua nhiều chu kỳ; bài [sạc pin xe máy điện đúng cách](/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/) đi vào chi tiết thói quen này. Tránh thói quen sạc liên tục cả đêm ngoài yêu cầu, và luôn dùng bộ sạc chuẩn của xe cho sẵn khi nhận. Khi nhận xe, hỏi luôn bộ sạc đi kèm thế nào, vì không phải cửa hàng nào cũng giao kèm sạc cho mọi dòng.
 
 Thói quen thứ hai: đọc mức pin theo quãng đường, không theo vạch hiển thị. Vạch pin trên nhiều dòng xe giảm không đều ở các đoạn, nên trong buổi đầu tiên, nên ước lượng lượng pin tiêu hao theo từng chặng quen của mình, ví dụ chặng từ chỗ ở tới phố cổ tốn bao nhiêu phần trăm, để có cảm nhận thực thay vì chỉ nhìn vạch.
 
@@ -47,7 +47,7 @@ Xe máy điện hợp với lịch trình ở trong và ven Hà Nội, có chỗ
 
 Xe xăng hợp với lịch trình khó đo trước: hôm đi tỉnh xa, hôm chạy nhiều điểm không có điểm sạc, hoặc khi bạn thuê trong vài ngày nhưng không chắc chắn chỗ ở có ổ điện. Đổ xăng có mặt ở khắp nơi nên bạn không bị ràng buộc vào hạ tầng sạc.
 
-Nếu còn phân vân giữa hai dòng, chuyên mục về xe máy điện trong [kiến thức dòng xe](/blog/xe-may/xe-dien/) có các bài phân tích sâu hơn về nhóm xe này, mức cho thuê nằm trong trang [bảng giá xe điện](/blog/bang-gia-xe-dien/): xe máy điện và xe đạp điện không niêm yết mức cố định, bạn liên hệ để kiểm tra giá hiện tại cho đúng dòng xe muốn thuê, còn trang chủ đề [xe máy và dòng xe](/blog/xe-may/) giúp bạn so sánh nhóm xe trước khi chốt.
+Nếu còn phân vân giữa hai dòng, chuyên mục về xe máy điện trong [kiến thức dòng xe](/xe-may/xe-dien/) có các bài phân tích sâu hơn về nhóm xe này, mức cho thuê nằm trong trang [bảng giá xe điện](/bang-gia-xe-dien/): xe máy điện và xe đạp điện không niêm yết mức cố định, bạn liên hệ để kiểm tra giá hiện tại cho đúng dòng xe muốn thuê, còn trang chủ đề [xe máy và dòng xe](/xe-may/) giúp bạn so sánh nhóm xe trước khi chốt.
 
 ## Tóm lại
 

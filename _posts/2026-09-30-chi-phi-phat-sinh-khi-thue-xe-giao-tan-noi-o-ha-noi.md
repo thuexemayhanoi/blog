@@ -17,7 +17,7 @@ Giao xe tận nơi là dịch vụ được nhiều khách ở Hà Nội dùng k
 
 ## Chi phí thuê xe giao tận nơi gồm những gì
 
-Khác với giá thuê xe theo ngày, tuần hay tháng được niêm yết rõ trong [bảng giá](/blog/bang-gia/), phần chi phí đưa xe tới tận tay bạn phụ thuộc vào từng lượt: quãng đường từ cửa hàng tới điểm giao, khung giờ bạn yêu cầu và số lần đổi lịch. Vì vậy cách làm đúng của cửa hàng là xác nhận rõ khoản này với bạn ngay khi đặt xe, trước khi cầm chìa, chứ không để tới lúc trả xe mới tính cộng thêm.
+Khác với giá thuê xe theo ngày, tuần hay tháng được niêm yết rõ trong [bảng giá](/bang-gia/), phần chi phí đưa xe tới tận tay bạn phụ thuộc vào từng lượt: quãng đường từ cửa hàng tới điểm giao, khung giờ bạn yêu cầu và số lần đổi lịch. Vì vậy cách làm đúng của cửa hàng là xác nhận rõ khoản này với bạn ngay khi đặt xe, trước khi cầm chìa, chứ không để tới lúc trả xe mới tính cộng thêm.
 
 Điều này cũng đúng theo chiều ngược lại: khi bạn muốn hẹn giờ trả xe tại một địa điểm khác nơi nhận, phần đưa xe về cũng cần được thống nhất từ đầu. Nguyên tắc an toàn cho khách là mọi khoản ngoài giá thuê gốc đều phải có mặt trong trao đổi đặt xe, ghi rõ trong biên bản hoặc tin nhắn xác nhận. Nếu nhân viên từ chối nói rõ con số trước khi đặt, đó là dấu hiệu bạn nên cân nhắc kỹ.
 
@@ -29,7 +29,7 @@ Với khách ở gần khu Long Biên, tự đến cửa hàng ở đường Ngu
 
 Giao tận nơi phát huy lợi ích khi bạn ở xa, khi thời gian của bạn gấp hơn tiền, hoặc khi có việc gắn chặt tại nhà như trông trẻ, chờ thợ. Trường hợp khách công tác ra Hà Nội trong hai ba ngày hoặc khách ở khách sạn quanh Hồ Gươm thường chọn giao xe tới sảnh để tiết kiệm nửa buổi đi lại. Khi cân nặng giữa hai phương án, bạn cứ tính thô: nếu công sức và thời gian đi lấy xe của bạn đáng hơn phần chi phí đã được báo trước thì hãy chọn giao, còn nếu chỉ cách vài phố thì tự đến vẫn đơn giản hơn.
 
-Cách hỏi hiệu quả là đưa địa chỉ cụ thể và khung giờ mong muốn ngay trong lần liên hệ đầu tiên, ví dụ "giao cho tôi tại ngõ X, phường Y, khoảng 10 giờ sáng nay". Cửa hàng sẽ trả lời ngay được là nhận hay không và điều kiện ra sao, thay vì phải trao đổi lại vài lần. Với khách lần đầu thuê, nên đọc qua phần hướng dẫn trong nhóm trang [thuê xe máy](/blog/thue-xe/) và bài [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) để nắm trình tự từ A tới Z trước khi đặt.
+Cách hỏi hiệu quả là đưa địa chỉ cụ thể và khung giờ mong muốn ngay trong lần liên hệ đầu tiên, ví dụ "giao cho tôi tại ngõ X, phường Y, khoảng 10 giờ sáng nay". Cửa hàng sẽ trả lời ngay được là nhận hay không và điều kiện ra sao, thay vì phải trao đổi lại vài lần. Với khách lần đầu thuê, nên đọc qua phần hướng dẫn trong nhóm trang [thuê xe máy](/thue-xe/) và bài [thủ tục thuê xe máy](/thue-xe/thu-tuc/) để nắm trình tự từ A tới Z trước khi đặt.
 
 Một chi tiết hay gặp với khách ở chung cư hoặc tòa nhà: hãy mô tả điểm dừng cụ thể cho người giao xe, ví dụ gửi xe ở hầm tòa nhà, trước sảnh chính hay chờ ở cổng ban công khu vực đó. Mỗi tòa nhà có quy định riêng về chỗ đỗ xe máy, nên nói rõ ngay từ đầu giúp người giao xe không phải lòng vòng tìm chỗ, cũng như giúp bạn nhận xe nhanh hơn. Nếu tòa nhà có bảo vệ yêu cầu đăng ký khách vào ra, bạn nên báo trước vài phút để kịp làm thủ tục.
 
@@ -37,7 +37,7 @@ Một chi tiết hay gặp với khách ở chung cư hoặc tòa nhà: hãy mô
 
 Ngoài phần giao nhận, có vài khoản lề mà khách hay bỏ quên khi đặt xe giao tận nơi. Thứ nhất là tiền cọc: hình thức giữ cọc khi giao xa có thể khác với khi bạn có mặt tại cửa hàng, nên hãy hỏi rõ điều kiện hoàn cọc. Thứ hai là quy ước xăng: xe giao tới có mức xăng bao nhiêu và bạn trả như thế nào. Thứ ba là giờ trả: nếu bạn trả muộn hơn khung đã hẹn thì cách tính tiếp ra sao.
 
-Cả ba khoản này đều thuộc phần điều khoản chung của việc thuê, được trình bày chi tiết trong trang hướng dẫn [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/), nhưng với hình thức giao tận nơi chúng cần được nhắc lại rõ ràng hơn vì bạn không có mặt trực tiếp tại cửa hàng để nghe nhân viên dặn. Thói quen nhỏ đáng giá là lưu lại toàn bộ trao đổi đặt xe: khi mọi điều khoản đều nằm trong tin nhắn, mọi hiểu lầm về sau đều giải quyết được nhanh.
+Cả ba khoản này đều thuộc phần điều khoản chung của việc thuê, được trình bày chi tiết trong trang hướng dẫn [thuê xe máy theo ngày](/thue-xe/thue-ngay/), nhưng với hình thức giao tận nơi chúng cần được nhắc lại rõ ràng hơn vì bạn không có mặt trực tiếp tại cửa hàng để nghe nhân viên dặn. Thói quen nhỏ đáng giá là lưu lại toàn bộ trao đổi đặt xe: khi mọi điều khoản đều nằm trong tin nhắn, mọi hiểu lầm về sau đều giải quyết được nhanh.
 
 Với khách đặt xe từ xa, đừng quên một việc nữa: chốt thời điểm gọi lại để xác nhận xe đã sẵn sàng. Dịch vụ giao nhận phụ thuộc vào tình hình xe thực tế trong ngày, nên một cuộc gọi xác nhận buổi sáng trước khi xe xuất phát giúp cả hai bên cùng chủ động. Nếu lịch trình của bạn thay đổi giữa chừng, báo sớm luôn tốt hơn báo muộn, vì nhiều cửa hàng sắp lịch giao theo tuyến trong ngày và một thay đổi phút chót có thể làm trễ các khách khác trên cùng tuyến.
 

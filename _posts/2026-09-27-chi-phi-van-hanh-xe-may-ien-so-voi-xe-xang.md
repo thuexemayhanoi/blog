@@ -45,4 +45,4 @@ Cách tính đơn giản trong ba bước. Bước một, viết ra tổng quãn
 
 ## Tóm lại về chi phí xe máy điện so với xe xăng
 
-Xe máy điện thắng ở chi phí năng lượng và sự êm ái, xe xăng thắng ở tính chủ động và mức giá niêm yết rõ ràng theo bảng giá. Chi phí thực tế của bạn phụ thuộc vào số ngày thuê, quãng đường và chỗ sạc nếu chọn xe điện. Để tìm hiểu thêm, bạn xem [giá thuê](/blog/thue-xe/gia-thue/), đọc sâu về dòng [xe máy điện](/blog/xe-may/xe-dien/), hoặc tham khảo tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) trước khi chốt loại xe thuê ở Hà Nội.
+Xe máy điện thắng ở chi phí năng lượng và sự êm ái, xe xăng thắng ở tính chủ động và mức giá niêm yết rõ ràng theo bảng giá. Chi phí thực tế của bạn phụ thuộc vào số ngày thuê, quãng đường và chỗ sạc nếu chọn xe điện. Để tìm hiểu thêm, bạn xem [giá thuê](/thue-xe/gia-thue/), đọc sâu về dòng [xe máy điện](/xe-may/xe-dien/), hoặc tham khảo tổng quan trong chủ đề [dòng xe máy](/xe-may/) trước khi chốt loại xe thuê ở Hà Nội.

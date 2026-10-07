@@ -51,7 +51,7 @@ Xe số hay xe ga đều chạy tốt chặng 90 cây số bằng phẳng này; 
 
 Đồ mang theo cho hai ngày: áo mưa lớn che người và đồ, một lớp gió vì sáng sớm trên quốc lộ thường se lạnh, mũ bảo hiểm tốt và một mũ dự phòng nếu nhóm có người quên. Hành lý gọn buộc chắc sau xe, theo đúng cách buộc đồ an toàn, và toàn bộ giấy tờ nên để trong túi riêng đeo người thay vì cốp xe.
 
-Nếu bạn cần tổng quan các cung đường cuối tuần khác từ Hà Nội, tham khảo trang [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/) trong mục [cung đường](/blog/cung-duong/). Hai bài từng điểm cũng đáng đọc trước chuyến này: [chạy xe từ Hà Nội đến Tràng An cuối tuần](/blog/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-trang-an-cuoi-tuan/) và [chạy xe từ Hà Nội đến Tam Cốc - Bích Động cuối tuần](/blog/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-tam-coc-bich-ong-cuoi-tuan/), vì địa bàn hai ngày của bạn chính là quanh khu vực đó.
+Nếu bạn cần tổng quan các cung đường cuối tuần khác từ Hà Nội, tham khảo trang [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/) trong mục [cung đường](/cung-duong/). Hai bài từng điểm cũng đáng đọc trước chuyến này: [chạy xe từ Hà Nội đến Tràng An cuối tuần](/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-trang-an-cuoi-tuan/) và [chạy xe từ Hà Nội đến Tam Cốc - Bích Động cuối tuần](/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-tam-coc-bich-ong-cuoi-tuan/), vì địa bàn hai ngày của bạn chính là quanh khu vực đó.
 
 ## Kết lại
 

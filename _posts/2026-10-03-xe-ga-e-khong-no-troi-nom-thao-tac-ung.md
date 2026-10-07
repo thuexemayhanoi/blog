@@ -48,4 +48,4 @@ Nếu đề theo đúng trình tự trên mà máy vẫn không nổ, hoặc ti�
 
 Với xe thuê, tránh tự tháo bugi để lau giữa đường, vì bugi xe ga hay gặp là loại nhỏ, ren mảnh, siết lại sai lực dễ rách ren, và giữa trời nồm việc mở buồng cháy càng dễ cho ẩm vào thêm. Gọi hỗ trợ luôn đơn giản và rẻ hơn so với một hỏng phụ tạo ra từ việc tự mò.
 
-Người muốn hiểu thêm về dòng xe tay ga thì xem trang [xe tay ga](/blog/xe-may/xe-ga/), về bảo dưỡng toàn diện hơn thì đọc [bảo dưỡng xe](/blog/xe-may/bao-duong-xe/), và tổng quan các dòng xe cho thuê ở Hà Nội nằm tại [mục xe máy](/blog/xe-may/).
+Người muốn hiểu thêm về dòng xe tay ga thì xem trang [xe tay ga](/xe-may/xe-ga/), về bảo dưỡng toàn diện hơn thì đọc [bảo dưỡng xe](/xe-may/bao-duong-xe/), và tổng quan các dòng xe cho thuê ở Hà Nội nằm tại [mục xe máy](/xe-may/).

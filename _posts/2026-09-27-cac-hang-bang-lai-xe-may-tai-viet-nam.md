@@ -42,7 +42,7 @@ Có bằng A1 thì lái được xe trên 125 cm3 không? Không, xe trên 125 c
 
 ## Người thuê xe cần lưu ý
 
-Khi thuê xe máy ở Hà Nội, cửa hàng thường yêu cầu bạn xuất trình giấy phép lái xe hợp lệ, đúng hạng với xe định thuê. Thuê xe ga hoặc xe số phổ thông thì bằng A1 hoặc A đều đạt yêu cầu. Hợp đồng thuê xe và giấy tờ cần chuẩn bị gì, bạn xem trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/) để nắm rõ trước khi đến cửa hàng. Đi thuê xe mà chưa có bằng lái là không được phép điều khiển xe tham gia giao thông, và không có cửa hàng hợp pháp nào giao xe cho bạn trong trường hợp đó.
+Khi thuê xe máy ở Hà Nội, cửa hàng thường yêu cầu bạn xuất trình giấy phép lái xe hợp lệ, đúng hạng với xe định thuê. Thuê xe ga hoặc xe số phổ thông thì bằng A1 hoặc A đều đạt yêu cầu. Hợp đồng thuê xe và giấy tờ cần chuẩn bị gì, bạn xem trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/) để nắm rõ trước khi đến cửa hàng. Đi thuê xe mà chưa có bằng lái là không được phép điều khiển xe tham gia giao thông, và không có cửa hàng hợp pháp nào giao xe cho bạn trong trường hợp đó.
 
 ## Lỗi thường gặp về giấy phép lái
 
@@ -50,12 +50,12 @@ Những vi phạm hay gặp gồm: điều khiển xe không đúng hạng bằn
 
 ## Hỗ trợ tại Hà Nội
 
-Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội cho thuê xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện, giờ làm việc 09:00 đến 21:00, điện thoại 0942 467 674. Khi đến nhận xe, bạn mang theo giấy phép lái xe hợp lệ và giấy tờ tùy thân theo hướng dẫn của cửa hàng. Thêm các bài về chủ đề an toàn và pháp lý tại trang [an toàn và pháp lý](/blog/an-toan-phap-ly/).
+Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội cho thuê xe số, xe tay ga, xe 50cc, xe máy điện và xe đạp điện, giờ làm việc 09:00 đến 21:00, điện thoại 0942 467 674. Khi đến nhận xe, bạn mang theo giấy phép lái xe hợp lệ và giấy tờ tùy thân theo hướng dẫn của cửa hàng. Thêm các bài về chủ đề an toàn và pháp lý tại trang [an toàn và pháp lý](/an-toan-phap-ly/).
 
 Hiểu đúng các hạng bằng lái giúp bạn vừa đăng ký thi đúng hạng cho nhu cầu, vừa an tâm khi nhận xe thuê. Luật giao thông thay đổi theo từng kỳ, nên trước khi thi hoặc trước chuyến đi xa, một phút tra cứu văn bản mới nhất luôn đáng giá.
 
 ## Kết luận về các hạng bằng lái xe máy
 
-Các hạng bằng lái xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Nếu bạn cần xe để luyện tập trước khi thi sát hạch, hãy [xem các dòng xe cho thuê](/blog/thue-xe/) trước khi quyết định. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.
+Các hạng bằng lái xe máy không phải vấn đề phức tạp nếu bạn kiểm tra đúng lúc và xử lý theo đúng trình tự. Nếu bạn cần xe để luyện tập trước khi thi sát hạch, hãy [xem các dòng xe cho thuê](/thue-xe/) trước khi quyết định. Duy trì thói quen kiểm tra đều đặn giúp mỗi chuyến đi quanh Hà Nội an toàn và đỡ tốn kém hơn.
 
 Thông tin về các hạng giấy phép lái xe máy và điều kiện cấp bằng có thể thay đổi theo từng thời kỳ; trước khi làm thủ tục, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

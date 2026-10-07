@@ -43,6 +43,6 @@ Không phải ngõ nào cũng đáng liều: ngõ có chó dữ, ngõ có vũng 
 
 Giờ giấc cũng là một phần giải pháp: đầu sáng và giữa trưa ngõ phố cổ vắng hơn hẳn, quay xe lúc đó đỡ phải né người đi bộ và xe bán hàng rong. Cùng một ngõ, cùng một xe, thời điểm khác nhau cho hai độ khó hoàn toàn khác.
 
-Ở khu phố cổ, các hẻm quanh co lúc nào cũng có người đi bộ, nên quay đầu càng chậm càng an toàn. Ai hay chạy quanh khu này có thể xem thêm bài về khu [phố cổ](/blog/du-lich/pho-co/) để biết các đoạn vòng xe thuận tiện, và luyện nền tảng thao tác trong trang [kỹ năng lái cơ bản](/blog/ky-nang/ky-nang-lai-co-ban/).
+Ở khu phố cổ, các hẻm quanh co lúc nào cũng có người đi bộ, nên quay đầu càng chậm càng an toàn. Ai hay chạy quanh khu này có thể xem thêm bài về khu [phố cổ](/du-lich/pho-co/) để biết các đoạn vòng xe thuận tiện, và luyện nền tảng thao tác trong trang [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/).
 
-Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; khi nhận xe nên thử dừng, chống chân và lùi quanh sân để cảm độ rộng của xe, cùng tham khảo trang [cho thuê xe máy](/blog/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/blog/ky-nang/) trước khi chốt lịch.
+Khách cần thuê xe máy liên hệ Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, mở cửa 09:00 đến 21:00, điện thoại 0942 467 674; khi nhận xe nên thử dừng, chống chân và lùi quanh sân để cảm độ rộng của xe, cùng tham khảo trang [cho thuê xe máy](/thue-xe/) và trang chủ đề [kỹ năng & tình huống](/ky-nang/) trước khi chốt lịch.

@@ -16,7 +16,7 @@ writer: W1
 
 Thuê xe máy rồi chạy được vài ngày mới nghe tiếng máy lạ, mang ra tiệm kiểm tra thì phát hiện dầu máy cạn: đây là tình huống đáng tránh hoàn toàn, vì kiểm tra dầu máy xe thuê lúc nào không phải là câu hỏi khó, chỉ là việc ít người nhớ làm. Thời điểm đúng là ngay khi nhận xe, trước khi rời tiệm, và lặp lại giữa chuyến nếu bạn đi dài. Bài viết này đi qua cách kiểm tra dầu máy khi nhận xe thuê đúng chuẩn, tín hiệu dầu yếu giữa chuyến, và trách nhiệm thuộc về ai khi dầu có vấn đề.
 
-Với các hạng mục bảo dưỡng khác của xe, chuyên mục [bảo dưỡng xe máy](/blog/xe-may/bao-duong-xe/) có hướng dẫn chi tiết, còn tổng quan chủ đề nằm ở trang [xe máy](/blog/xe-may/).
+Với các hạng mục bảo dưỡng khác của xe, chuyên mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) có hướng dẫn chi tiết, còn tổng quan chủ đề nằm ở trang [xe máy](/xe-may/).
 
 ## Kiểm tra dầu máy khi nhận xe thuê: tại tiệm, trước khi rời
 
@@ -32,7 +32,7 @@ Gặp tín hiệu nào, cách xử lý là giảm ga, ghé vào chỗ phẳng, t
 
 ## Trách nhiệm về dầu máy thuộc về ai
 
-Với thuê ngắn ngày, dầu máy là hạng mục bảo dưỡng của chủ xe, và xe giao cho bạn phải có dầu trong khoảng an toàn. Nếu máy hỏng vì thiếu dầu sẵn có từ lúc nhận, trách nhiệm thuộc về chủ xe, và đây chính là lý do bộ ảnh và tin nhắn khi nhận xe quan trọng: chụp que dầu, ghi lại lời hỏi về lần thay gần nhất. Với thuê dài hạn theo tuần hoặc tháng, hợp đồng nên ghi rõ ai chịu thay dầu định kỳ, vì quãng đường của bạn có thể vượt ngưỡng thay giữa thời gian thuê, và các thỏa thuận dạng này được nói kỹ hơn trong trang [thuê xe máy](/blog/thue-xe/).
+Với thuê ngắn ngày, dầu máy là hạng mục bảo dưỡng của chủ xe, và xe giao cho bạn phải có dầu trong khoảng an toàn. Nếu máy hỏng vì thiếu dầu sẵn có từ lúc nhận, trách nhiệm thuộc về chủ xe, và đây chính là lý do bộ ảnh và tin nhắn khi nhận xe quan trọng: chụp que dầu, ghi lại lời hỏi về lần thay gần nhất. Với thuê dài hạn theo tuần hoặc tháng, hợp đồng nên ghi rõ ai chịu thay dầu định kỳ, vì quãng đường của bạn có thể vượt ngưỡng thay giữa thời gian thuê, và các thỏa thuận dạng này được nói kỹ hơn trong trang [thuê xe máy](/thue-xe/).
 
 Một lưu ý phân biệt: đổ thêm dầu vì hao dần tự nhiên là một chuyện, còn xe ra dầu do gioăng hở, để lại vết dầu dưới chỗ đỗ, là chuyện khác. Thứ hai cần báo ngay cho chủ xe, vì xe ra dầu không xử lý tiếp tục chạy được thì có thể hỏng máy lớn.
 

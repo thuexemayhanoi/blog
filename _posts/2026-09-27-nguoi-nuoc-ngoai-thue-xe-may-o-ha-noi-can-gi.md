@@ -15,7 +15,7 @@ article_id: BLG-00534
 
 Đặt câu hỏi người nước ngoài thuê xe máy Hà Nội cần gì, câu trả lời không dừng ở chuyện có xe hay không. Khách quốc tế đến Hà Nội thường muốn tự lái xe máy để di chuyển linh hoạt, nhưng so với khách nội địa, họ cần chuẩn bị thêm vài lớp điều kiện: giấy tờ tùy thân hợp lệ, giấy phép lái xe được chấp nhận, phương án bảo đảm cho cửa hàng và cách liên hệ thuận tiện dù rào cản ngôn ngữ. Bài này tổng hợp các nhóm chuẩn bị đó để bạn có thể dựng một kế hoạch thuê xe rõ ràng trước khi đến nơi.
 
-Nếu bạn muốn tìm hiểu tổng thể về nhóm chủ đề này, hãy xem chuyên mục [thuê xe cho khách quốc tế](/blog/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/blog/thue-xe/).
+Nếu bạn muốn tìm hiểu tổng thể về nhóm chủ đề này, hãy xem chuyên mục [thuê xe cho khách quốc tế](/thue-xe/khach-quoc-te/) trong trang chủ [thuê xe máy Hà Nội](/thue-xe/).
 
 ## Người nước ngoài thuê xe máy Hà Nội cần chuẩn bị giấy tờ gì
 
@@ -32,7 +32,7 @@ Nhóm thứ hai quan trọng hơn nhiều so với vẻ bề ngoài: giấy phé
 
 Nếu giấy phép của bạn không bao gồm hạng xe máy, một số khách chọn phương án thuê xe có tài xế hoặc chuyển sang xe đạp điện để di chuyển trong khu vực gần. Hỏi trước giúp bạn chọn đúng loại xe ngay từ đầu, tránh tình huống đến nơi mới biết mình không đủ điều kiện tự lái.
 
-Điều cần nhớ là trách nhiệm tuân thủ giao thông thuộc về người cầm lái. Bạn nên dành thời gian tìm hiểu trước các quy tắc cơ bản khi lưu thông tại Việt Nam, như chiều đường, đèn tín hiệu và quy định về mũ bảo hiểm. Về các yêu cầu giấy tờ liên quan, bạn có thể đọc thêm trong [giấy tờ khi lưu thông](/blog/an-toan-phap-ly/giay-to/) để có góc nhìn hệ thống hơn.
+Điều cần nhớ là trách nhiệm tuân thủ giao thông thuộc về người cầm lái. Bạn nên dành thời gian tìm hiểu trước các quy tắc cơ bản khi lưu thông tại Việt Nam, như chiều đường, đèn tín hiệu và quy định về mũ bảo hiểm. Về các yêu cầu giấy tờ liên quan, bạn có thể đọc thêm trong [giấy tờ khi lưu thông](/an-toan-phap-ly/giay-to/) để có góc nhìn hệ thống hơn.
 
 ## Khoản cọc và các điều kiện tài chính
 
@@ -41,7 +41,7 @@ Giống khách nội địa, khách quốc tế thường phải đặt cọc ho
 Với kỳ thuê dài, một số khách ưu tiên chốt điều khoản bằng văn bản qua thư điện tử để có dấu vết rõ ràng. Thói quen này rất đáng giữ: mọi thỏa thuận về giá, thời gian, cọc và hoàn trả đều nên nằm trong một luồng tin nhắn hoặc thư điện tử có thể đọc lại được.
 
 Nếu bạn mới thuê xe lần đầu, việc nắm [thủ tục thuê xe máy ở Hà 
-Nội](/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) giúp biết trước các bước và giấy tờ cần cho từng giai đoạn.
+Nội](/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/) giúp biết trước các bước và giấy tờ cần cho từng giai đoạn.
 
 ## Rào cản ngôn ngữ và cách liên hệ
 
@@ -49,7 +49,7 @@ Nhóm điều kiện cuối cùng mang tính thực hành. Không phải cửa h
 
 Tại cửa hàng, bạn nên yêu cầu chủ xe chỉ lại các điểm cơ bản của xe: vị trí khóa điện, cách cút ga, chốt mở yên, và vị trí tiếp nhiên liệu. Đây là những chi tiết khác biệt giữa các dòng xe mà người mới dẫn máy dễ lúng túng. Trước khi rời cửa hàng, thử kiểm tra lại đèn, còi và phanh để chắc chắn mọi thứ hoạt động.
 
-Thói quen kiểm tra này nên duy trì suốt kỳ thuê, như đã mô tả trong bài [kiểm tra xe trước mỗi chuyến đi](/blog/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Với chuyến đi dài hơn dự kiến, bạn cũng có thể tham khảo cách [chọn loại xe cho chuyến đi dài](/blog/chia sẻ/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/) để xe phù hợp với cung đường của mình.
+Thói quen kiểm tra này nên duy trì suốt kỳ thuê, như đã mô tả trong bài [kiểm tra xe trước mỗi chuyến đi](/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/). Với chuyến đi dài hơn dự kiến, bạn cũng có thể tham khảo cách [chọn loại xe cho chuyến đi dài](/chia sẻ/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/) để xe phù hợp với cung đường của mình.
 
 ## Tóm lại
 

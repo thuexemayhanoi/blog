@@ -43,4 +43,4 @@ So với các dòng xe khác trong danh mục cho thuê, xe đạp điện giữ
 
 ## Tóm lại về bằng lái và xe đạp điện
 
-Xe đạp điện đúng chuẩn, có bàn đạp, công suất và tốc độ thấp theo quy định hiện hành thì người điều khiển không cần giấy phép lái xe, nhưng vẫn phải đáp ứng điều kiện an toàn và độ tuổi theo quy định. Khi thuê, hãy xác nhận với cửa hàng loại xe mình nhận thuộc nhóm nào. Để đọc thêm, bạn xem phần [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), tìm hiểu chủ đề [xe đạp điện](/blog/xe-may/xe-dap-dien/), hoặc tham khảo tổng quan trong chủ đề [dòng xe máy](/blog/xe-may/) trước khi thuê xe đi lại ở Hà Nội.
+Xe đạp điện đúng chuẩn, có bàn đạp, công suất và tốc độ thấp theo quy định hiện hành thì người điều khiển không cần giấy phép lái xe, nhưng vẫn phải đáp ứng điều kiện an toàn và độ tuổi theo quy định. Khi thuê, hãy xác nhận với cửa hàng loại xe mình nhận thuộc nhóm nào. Để đọc thêm, bạn xem phần [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), tìm hiểu chủ đề [xe đạp điện](/xe-may/xe-dap-dien/), hoặc tham khảo tổng quan trong chủ đề [dòng xe máy](/xe-may/) trước khi thuê xe đi lại ở Hà Nội.

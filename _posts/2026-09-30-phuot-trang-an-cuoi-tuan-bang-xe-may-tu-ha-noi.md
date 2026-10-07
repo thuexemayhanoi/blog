@@ -28,7 +28,7 @@ Về mùa, xuân và thu mát mẻ dễ chạy; mùa hè nắng gắt nhưng khu
 
 Thứ bảy: chạy thẳng tới Ninh Bình, ghé nghỉ một lần giữa tuyến, tới khu Tràng An vào khung trước giữa trưa, đi thuyền tham quan hang động. Chiều leo hang Múa ngắm cánh đồng nếu nhóm thích vận động, hoặc đổi sang thuyền Tam Cốc cho nhẹ nhàng. Tối nghỉ quanh thành phố Ninh Bình hoặc khu Tam Cốc, ăn tối với đặc sản địa phương như cơm cháy, thịt dê tùy khẩu vị từng người.
 
-Chủ nhật: sáng thăm chùa Bái Đính hoặc cố đô Hoa Lư, trưa nghỉ rồi lên đường về Hà Nội, về tới trước khi trời tối hẳn. Nếu đi đúng mùa lễ hội, khách đông hơn, nên tính thêm giờ xếp hàng và chọn ngày thường nếu lịch cho phép. Cách xếp lịch trình hai ngày gọn gàng được trải nghiệm chi tiết trong bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
+Chủ nhật: sáng thăm chùa Bái Đính hoặc cố đô Hoa Lư, trưa nghỉ rồi lên đường về Hà Nội, về tới trước khi trời tối hẳn. Nếu đi đúng mùa lễ hội, khách đông hơn, nên tính thêm giờ xếp hàng và chọn ngày thường nếu lịch cho phép. Cách xếp lịch trình hai ngày gọn gàng được trải nghiệm chi tiết trong bài [lên kế hoạch chuyến cuối tuần bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/).
 
 Cả nhóm nên chốt sẵn ai giữ lộ trình, ai giữ quỹ chung để giữa chừng không mất thời gian bàn bạc; đó là bài học nhỏ mà đi đoàn nào cũng công nhận.
 
@@ -44,7 +44,7 @@ Khu danh thắng Tràng An nổi tiếng với tuyến thuyền xuyên hang, du 
 
 Nếu còn thời gian chiều chủ nhật, nhà thờ đá Phát Diệm cách Tràng An một đoạn chạy xe, kiến trúc xây bằng đá rất đặc biệt, ai thích tìm hiểu thì đáng thêm vào lịch. Giá vé và giờ mở cửa từng khu có thể thay đổi theo mùa và theo năm, nên xem thông tin chính thức trước khi đi, không nên dựa theo kinh nghiệm cũ.
 
-Nếu nhóm muốn đổi vị trí so với các hành trình quen: bài [đi Tam Đảo bằng xe máy từ Hà Nội](/blog/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/) và bài [thành Cổ Loa bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/19/thanh-co-loa-bang-xe-may/) là hai gợi ý khác cho kỳ nghỉ hai ngày. Còn phía điểm khởi hành, bài [cầu Long Biên và khu Long Biên bằng xe máy](/blog/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/) giới thiệu khu vực nhận xe ở Long Biên trước khi lên quốc lộ.
+Nếu nhóm muốn đổi vị trí so với các hành trình quen: bài [đi Tam Đảo bằng xe máy từ Hà Nội](/du%20l%E1%BB%8Bch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/) và bài [thành Cổ Loa bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/19/thanh-co-loa-bang-xe-may/) là hai gợi ý khác cho kỳ nghỉ hai ngày. Còn phía điểm khởi hành, bài [cầu Long Biên và khu Long Biên bằng xe máy](/du%20l%E1%BB%8Bch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/) giới thiệu khu vực nhận xe ở Long Biên trước khi lên quốc lộ.
 
 ## Gửi xe ở khu danh thắng và mùa cao điểm
 
@@ -52,4 +52,4 @@ Khu Tràng An có bãi gửi xe rộng ngay cổng, nhưng mùa cao điểm và 
 
 Trước cổng các khu thường có hàng nước và đồ ăn nhẹ; quanh khu tham quan giá dịch vụ thay đổi theo mùa, hỏi giá trước khi gọi món là thói quen nên giữ khi đi nơi đông khách.
 
-Các hành trình một đến hai ngày quanh Hà Nội được gom trong chuyên mục [cung đường cuối tuần](/blog/cung-duong/cung-duong-cuoi-tuan/), thuộc trang chủ [cung đường & hành trình](/blog/cung-duong/). Nếu cần xe số hoặc xe ga khỏe cho chặng đường trường, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Gọi trước hôm thứ sáu để nhận xe tối thứ sáu hoặc sáng sớm thứ bảy, cả nhóm xuất phát đúng giờ đã hẹn và có trọn ngày cho chặng Hà Nội đi Tràng An.
+Các hành trình một đến hai ngày quanh Hà Nội được gom trong chuyên mục [cung đường cuối tuần](/cung-duong/cung-duong-cuoi-tuan/), thuộc trang chủ [cung đường & hành trình](/cung-duong/). Nếu cần xe số hoặc xe ga khỏe cho chặng đường trường, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674. Gọi trước hôm thứ sáu để nhận xe tối thứ sáu hoặc sáng sớm thứ bảy, cả nhóm xuất phát đúng giờ đã hẹn và có trọn ngày cho chặng Hà Nội đi Tràng An.

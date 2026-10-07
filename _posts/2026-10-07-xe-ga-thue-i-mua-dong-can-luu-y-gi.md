@@ -70,12 +70,12 @@ Nếu bạn đi đúng cách mà xe hư do nước mưa bất khả kháng, thư
 
 ### Đi mưa có bị trừ cọc vì xe bẩn không?
 
-Bùn đất mùa mưa là bình thường, bên cho thuê rửa xe được. Chỉ các hư hỏng thật như ngập máy, té xe làm trầy nặng mới liên quan tiền cọc. Khi nhận xe, bạn nên chụp ảnh hiện trạng để đối chiếu, tham khảo trang [nhận xe và trả xe máy thuê](/blog/thue-xe/nhan-tra-xe/) để nắm quy trình.
+Bùn đất mùa mưa là bình thường, bên cho thuê rửa xe được. Chỉ các hư hỏng thật như ngập máy, té xe làm trầy nặng mới liên quan tiền cọc. Khi nhận xe, bạn nên chụp ảnh hiện trạng để đối chiếu, tham khảo trang [nhận xe và trả xe máy thuê](/thue-xe/nhan-tra-xe/) để nắm quy trình.
 
 ### Nên thuê xe số hay xe ga khi mùa mưa?
 
-Xe số dễ xử lý hơn khi ngập vì không có dây cua ro, dễ ra máy khi chết máy. Xe ga êm hơn đường khô nhưng rủi ro cao hơn khi mưa lớn. Nếu mùa cao điểm mưa dông, bạn có thể cân nhắc dòng xe phù hợp qua trang [xe máy](/blog/xe-may/) hoặc hỏi trực tiếp cửa hàng.
+Xe số dễ xử lý hơn khi ngập vì không có dây cua ro, dễ ra máy khi chết máy. Xe ga êm hơn đường khô nhưng rủi ro cao hơn khi mưa lớn. Nếu mùa cao điểm mưa dông, bạn có thể cân nhắc dòng xe phù hợp qua trang [xe máy](/xe-may/) hoặc hỏi trực tiếp cửa hàng.
 
 ## Kết luận
 
-Xe ga thuê đi mưa dông an toàn nếu bạn chuẩn bị từ trước, biết trú đúng lúc, đi ngập đúng kỹ thuật và kiểm tra xe sau cơn mưa. Không lội ngập sâu, không đề lại xe chết máy giữa nước là hai nguyên tắc vàng để bảo vệ động cơ và tiền cọc. Khi cần thuê xe máy trong mùa mưa tại Hà Nội, tham khảo thêm [thuê xe máy theo ngày](/blog/thue-xe/thue-ngay/) và [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) để chọn xe và chuẩn bị giấy tờ cho những ngày mưa dài.
+Xe ga thuê đi mưa dông an toàn nếu bạn chuẩn bị từ trước, biết trú đúng lúc, đi ngập đúng kỹ thuật và kiểm tra xe sau cơn mưa. Không lội ngập sâu, không đề lại xe chết máy giữa nước là hai nguyên tắc vàng để bảo vệ động cơ và tiền cọc. Khi cần thuê xe máy trong mùa mưa tại Hà Nội, tham khảo thêm [thuê xe máy theo ngày](/thue-xe/thue-ngay/) và [thủ tục thuê xe máy](/thue-xe/thu-tuc/) để chọn xe và chuẩn bị giấy tờ cho những ngày mưa dài.

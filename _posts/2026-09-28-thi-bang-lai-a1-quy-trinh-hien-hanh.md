@@ -54,7 +54,7 @@ Các khoản chi phí khi thi A1 gồm học phí, lệ phí sát hạch và l�
 
 Nếu bạn đang đi lại bằng xe thuê và chưa có bằng A1, hãy nhớ rằng điều khiển xe mô tô khi chưa được cấp giấy phép lái xe là vi phạm và bị xử phạt theo quy định hiện hành. Không có cửa hàng cho thuê xe hợp pháp nào giao xe máy cho người không đủ điều kiện lái xe. Vì vậy, nếu kế hoạch của bạn cần tự lái trong thời gian tới, hãy đăng ký thi sớm và dùng phương tiện công cộng hoặc xe đạp điện trợ lực trong giới hạn cho phép để đi lại tạm thời.
 
-Khi đã có bằng A1, việc thuê xe ở Hà Nội đơn giản hơn nhiều: bạn chỉ cần xuất trình bằng lái còn hiệu lực cùng giấy tờ tùy thân khi nhận xe. Chi tiết về giấy tờ khi thuê xe được trình bày trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các vấn đề an toàn và pháp lý khi lưu thông nằm trong trang chủ đề [an toàn và pháp lý](/blog/an-toan-phap-ly/). Nếu cần một chiếc xe số phổ thông để luyện tập cảm giác tay lái trước khi thi, bạn có thể tham khảo các dòng xe tại trang [thuê xe máy](/blog/thue-xe/).
+Khi đã có bằng A1, việc thuê xe ở Hà Nội đơn giản hơn nhiều: bạn chỉ cần xuất trình bằng lái còn hiệu lực cùng giấy tờ tùy thân khi nhận xe. Chi tiết về giấy tờ khi thuê xe được trình bày trong trang [giấy phép lái xe](/an-toan-phap-ly/giay-phep-lai-xe/), còn tổng quan các vấn đề an toàn và pháp lý khi lưu thông nằm trong trang chủ đề [an toàn và pháp lý](/an-toan-phap-ly/). Nếu cần một chiếc xe số phổ thông để luyện tập cảm giác tay lái trước khi thi, bạn có thể tham khảo các dòng xe tại trang [thuê xe máy](/thue-xe/).
 
 ## Hỗ trợ tại Hà Nội
 
@@ -62,6 +62,6 @@ Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, Bồ Đề, L
 
 ## Kết luận về thi bằng lái a1
 
-Thi bằng lái a1 không khó nếu bạn nắm đúng quy trình hiện hành: đủ tuổi, đủ sức khỏe, nộp đủ hồ sơ, học theo chương trình khung và làm chủ cả hai phần sát hạch. Điều quan trọng nhất là đối chiếu quy định mới nhất trước khi đăng ký, vì các nội dung như chương trình đào tạo và tiêu chí sát hạch có thể thay đổi theo văn bản pháp luật. Tham khảo thêm các bài về [quy định giao thông hiện hành](/blog/an-toan-phap-ly/quy-dinh-giao-thong/) để cập nhật kiến thức trước khi vào phòng thi.
+Thi bằng lái a1 không khó nếu bạn nắm đúng quy trình hiện hành: đủ tuổi, đủ sức khỏe, nộp đủ hồ sơ, học theo chương trình khung và làm chủ cả hai phần sát hạch. Điều quan trọng nhất là đối chiếu quy định mới nhất trước khi đăng ký, vì các nội dung như chương trình đào tạo và tiêu chí sát hạch có thể thay đổi theo văn bản pháp luật. Tham khảo thêm các bài về [quy định giao thông hiện hành](/an-toan-phap-ly/quy-dinh-giao-thong/) để cập nhật kiến thức trước khi vào phòng thi.
 
 Thông tin về quy trình thi bằng lái xe máy và điều kiện dự thi có thể thay đổi theo từng thời kỳ; trước khi làm thủ tục, bạn nên đối chiếu quy định mới nhất trên cổng thông tin của Cục Cảnh sát giao thông tại https://www.csgt.vn.

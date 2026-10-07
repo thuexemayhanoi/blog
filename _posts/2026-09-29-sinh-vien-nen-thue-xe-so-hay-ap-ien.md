@@ -17,15 +17,15 @@ Trả lời xe cho sinh viên thường xoay quanh hai chữ tiết kiệm, như
 
 ## Sinh viên nên thuê xe số hay đạp điện
 
-Câu trả lời phụ thuộc vào quãng đường bạn đi mỗi ngày. Nếu chỉ di chuyển trong bán kính vài cây số quanh ký túc xá, căng tin hoặc thư viện trường, xe đạp điện là lựa chọn gọn nhẹ, chi phí thấp và không lo khói xe. Các mẫu hiện có được giới thiệu trong trang [xe đạp điện cho thuê](/blog/xe-may/xe-dap-dien/).
+Câu trả lời phụ thuộc vào quãng đường bạn đi mỗi ngày. Nếu chỉ di chuyển trong bán kính vài cây số quanh ký túc xá, căng tin hoặc thư viện trường, xe đạp điện là lựa chọn gọn nhẹ, chi phí thấp và không lo khói xe. Các mẫu hiện có được giới thiệu trong trang [xe đạp điện cho thuê](/xe-may/xe-dap-dien/).
 
-Ngược lại, nếu bạn thường về nhà ở ngoại thành, chạy thêm việc giao hàng hoặc chở bạn đi chợ xa hơn, xe số phổ thông chắc chắn hơn. Xe số khỏe máy, leo cầu thoải mái và không phụ thuộc pin, chủ động hơn khi lịch trình dày đặc biệt vào mùa thi. Danh sách các mẫu đang cho thuê nằm trong mục [xe số cho thuê](/blog/xe-may/xe-so/).
+Ngược lại, nếu bạn thường về nhà ở ngoại thành, chạy thêm việc giao hàng hoặc chở bạn đi chợ xa hơn, xe số phổ thông chắc chắn hơn. Xe số khỏe máy, leo cầu thoải mái và không phụ thuộc pin, chủ động hơn khi lịch trình dày đặc biệt vào mùa thi. Danh sách các mẫu đang cho thuê nằm trong mục [xe số cho thuê](/xe-may/xe-so/).
 
 Nói ngắn gọn: đi ngắn, đi trong phố thì chọn xe đạp điện; đi xa, chở thêm người hoặc nhiều đồ thì chọn xe số. Đây là cách trả lời nhanh nhất cho câu hỏi trên mà không cần đắn đo lâu, còn phần chi phí cụ thể sẽ được nói rõ hơn ở phần dưới của bài.
 
 ## Xe rẻ cho sinh viên: so sánh chi phí
 
-Xe số phổ thông thường có mức thuê từ 150.000 đồng mỗi ngày, và nếu bạn cần dùng liên tục cả tuần thì các gói theo tuần luôn rẻ hơn tổng giá thuê lẻ từng ngày. Con số cụ thể thay đổi theo mẫu xe và thời điểm, vì vậy hãy đối chiếu trực tiếp trong [bảng giá cho thuê xe máy](/blog/bang-gia/) trước khi đặt xe.
+Xe số phổ thông thường có mức thuê từ 150.000 đồng mỗi ngày, và nếu bạn cần dùng liên tục cả tuần thì các gói theo tuần luôn rẻ hơn tổng giá thuê lẻ từng ngày. Con số cụ thể thay đổi theo mẫu xe và thời điểm, vì vậy hãy đối chiếu trực tiếp trong [bảng giá cho thuê xe máy](/bang-gia/) trước khi đặt xe.
 
 Xe đạp điện có kết cấu đơn giản, ít hao mòn nên chi phí thuê thường thấp hơn xe máy xăng. Tuy nhiên mức cụ thể còn tùy dòng xe và thời gian thuê, cách nhanh nhất là liên hệ trực tiếp cửa hàng để hỏi giá hiện tại. Với sinh viên, khoản này đáng hỏi kỹ vì tiết kiệm được mỗi tuần cộng dồn qua cả học kỳ cũng kha khá.
 
@@ -45,7 +45,7 @@ Khu vực gần trường rất đông người vào giờ cao điểm, vì vậ
 
 Nếu chở thêm bạn cùng lớp, chỉ chở một người và dặn người ngồi sau giữ tư thế yên, không thò chân xuống khi xe đang chạy. Kiểm tra phanh mỗi sáng nếu bạn thuê theo tuần, vì phanh là bộ phận quyết định an toàn trên đường đông. Mưa lớn là lúc cần đi chậm hơn hẳn và giữ khoảng cách lớn với các xe phía trước.
 
-Cuối cùng, lưu số liên hệ của cửa hàng vào điện thoại để xử lý nhanh nếu xe có trục trặc giữa đường. Bạn có thể tham khảo thêm nhiều câu hỏi tương tự trong mục [hỏi đáp về thuê xe máy](/blog/hoi-dap/) hoặc các gợi ý chọn xe tại chuyên mục [chọn xe cho thuê](/blog/hoi-dap/hoi-dap-chon-xe/) cho nhu cầu của sinh viên.
+Cuối cùng, lưu số liên hệ của cửa hàng vào điện thoại để xử lý nhanh nếu xe có trục trặc giữa đường. Bạn có thể tham khảo thêm nhiều câu hỏi tương tự trong mục [hỏi đáp về thuê xe máy](/hoi-dap/) hoặc các gợi ý chọn xe tại chuyên mục [chọn xe cho thuê](/hoi-dap/hoi-dap-chon-xe/) cho nhu cầu của sinh viên.
 
 Nếu bạn chưa biết loại nào hợp, hãy thử từng loại trong một tuần: vài ngày đầu dùng xe đạp điện cho quãng ngắn, sau đó đổi sang xe số vào các ngày phải đi xa. Cách thử thực tế này cho câu trả lời chính xác hơn mọi lời khuyên, vì quãng đường và thói quen của mỗi sinh viên đều khác nhau.
 
