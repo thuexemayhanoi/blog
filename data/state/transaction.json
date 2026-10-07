@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T21:35:38+00:00",
+  "updated_at": "2026-10-07T21:43:10+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01541",
-      "started_at": "2026-10-07T12:51:14+00:00",
-      "source": "_drafts/2026-10-07-mat-chia-khoa-xe-thue-nen-lam-gi.md",
-      "destination": "_posts/2026-10-07-mat-chia-khoa-xe-thue-nen-lam-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "03cfadb19e1f16d70ebe7747faff995c9540395a",
-      "finished_at": "2026-10-07T12:51:15+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01542",
-      "started_at": "2026-10-07T12:54:04+00:00",
-      "source": "_drafts/2026-10-07-xe-thue-bi-rot-khi-o-ngoai-uong-xu-ly-ra-sao.md",
-      "destination": "_posts/2026-10-07-xe-thue-bi-rot-khi-o-ngoai-uong-xu-ly-ra-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3d21828755284f0e5a116bf01ceb8e317c669968",
-      "finished_at": "2026-10-07T12:54:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01543",
       "started_at": "2026-10-07T12:54:04+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "bbecdd451f78c94ef0bff524f67e709eb1d33f0e",
       "finished_at": "2026-10-07T21:35:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01566",
+      "started_at": "2026-10-07T21:43:10+00:00",
+      "source": "_drafts/2026-10-07-giay-to-can-mang-khi-thue-xe-i-uong-dai.md",
+      "destination": "_posts/2026-10-07-giay-to-can-mang-khi-thue-xe-i-uong-dai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d01b4b217f0e719473c92d4e4f883a38b4a25a13",
+      "finished_at": "2026-10-07T21:43:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01567",
+      "started_at": "2026-10-07T21:43:10+00:00",
+      "source": "_drafts/2026-10-07-chay-xe-may-trong-ham-co-quy-inh-rieng-gi.md",
+      "destination": "_posts/2026-10-07-chay-xe-may-trong-ham-co-quy-inh-rieng-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d01b4b217f0e719473c92d4e4f883a38b4a25a13",
+      "finished_at": "2026-10-07T21:43:10+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
