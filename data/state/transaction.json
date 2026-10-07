@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T01:24:01+00:00",
+  "updated_at": "2026-10-07T01:24:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01452",
-      "started_at": "2026-10-06T21:28:03+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-theo-gio-co-re-hon-theo-ngay-khong.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-theo-gio-co-re-hon-theo-ngay-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "fc8a97600ced2661f3a91365e81645a175a68ad8",
-      "finished_at": "2026-10-06T21:28:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01453",
       "started_at": "2026-10-06T21:28:04+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "080ef526b5a5fa49d7c16dcde64bf546107bcae6",
       "finished_at": "2026-10-07T01:24:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01477",
+      "started_at": "2026-10-07T01:24:46+00:00",
+      "source": "_drafts/2026-10-07-honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong.md",
+      "destination": "_posts/2026-10-07-honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6b71a1b821ccbcd3a95c90d15ed45be729939711",
+      "finished_at": "2026-10-07T01:24:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

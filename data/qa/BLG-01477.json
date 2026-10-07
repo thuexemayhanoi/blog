@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01477",
   "title": "Honda Vision thuê đi làm hàng ngày có tốn xăng không",
-  "scored_at": "2026-10-07T01:23:19+00:00",
+  "scored_at": "2026-10-07T01:24:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -11,7 +11,7 @@
     "word_count": false,
     "title_match": true,
     "description_length": true,
-    "description_keyword": false,
+    "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
     "headings_intent": false,
@@ -46,9 +46,10 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-07-honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong.md",
-  "content_sha256": "03070e8eb8da99a41d886996fa63e8ecdfd6e53745ad54a131344a6ca327c32a",
-  "matrix_row_sha256": "15a42504302baa9e7c551cf24bbbe6091a254879cbce9200ad1f028bdc86f350",
+  "source_path": "_posts/2026-10-07-honda-vision-thue-i-lam-hang-ngay-co-ton-xang-khong.md",
+  "content_sha256": "8de9e25be8f6e249d333e8e01b8874dcd2fa6e828a4b2a4b25a549bfee1f685c",
+  "matrix_row_sha256": "510129541eb73b6bcf762ea928793bfedb94ead72b3dabc5d5480cd7436fe25d",
   "result": "PASS",
-  "grade": "PASS"
+  "grade": "PASS",
+  "published_at": "2026-10-07T01:24:46+00:00"
 }
