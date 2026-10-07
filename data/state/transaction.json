@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T20:48:56+00:00",
+  "updated_at": "2026-10-07T20:59:18+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01531",
-      "started_at": "2026-10-07T12:29:39+00:00",
-      "source": "_drafts/2026-10-07-giua-tuan-thue-xe-can-kiem-tra-lai-xe-khong.md",
-      "destination": "_posts/2026-10-07-giua-tuan-thue-xe-can-kiem-tra-lai-xe-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8cc2b85a7c5a95c844d76c3ad7f1e142f4df6fde",
-      "finished_at": "2026-10-07T12:29:39+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01532",
-      "started_at": "2026-10-07T12:32:37+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-dai-han-nen-chon-xe-so-hay-xe-ga.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-dai-han-nen-chon-xe-so-hay-xe-ga.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8659598c13a7f28566eb19b0713e20d12995b8aa",
-      "finished_at": "2026-10-07T12:32:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01533",
       "started_at": "2026-10-07T12:32:38+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "18d36f865c6d4a8c7c15ddb5c35cb233c80dd6ae",
       "finished_at": "2026-10-07T20:48:56+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01556",
+      "started_at": "2026-10-07T20:59:17+00:00",
+      "source": "_drafts/2026-10-07-honda-click-thue-co-de-lai-cho-nguoi-moi.md",
+      "destination": "_posts/2026-10-07-honda-click-thue-co-de-lai-cho-nguoi-moi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "abf1e5f8e40dac28e34a8386e7193c0e9e7764b6",
+      "finished_at": "2026-10-07T20:59:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01557",
+      "started_at": "2026-10-07T20:59:17+00:00",
+      "source": "_drafts/2026-10-07-yamaha-sirius-thue-cho-nang-co-on-khong.md",
+      "destination": "_posts/2026-10-07-yamaha-sirius-thue-cho-nang-co-on-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "abf1e5f8e40dac28e34a8386e7193c0e9e7764b6",
+      "finished_at": "2026-10-07T20:59:18+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
