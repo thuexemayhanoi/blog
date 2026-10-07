@@ -2,24 +2,23 @@
 # -*- coding: utf-8 -*-
 """Regression tests chặn tái diễn internal 404 — thuexemayhanoi/blog.
 
-Bổ sung sau đợt "eliminate internal 404s" (homepage /blog/blog/, 335 link
-{% post_url %} thiếu baseurl, 6 link sai ngày/danh mục legacy, hub thiếu,
-favicon thiếu). Đối chiếu mục H của quy trình audit built-site:
+Bổ sung sau đợt "eliminate internal 404s" và migration sang custom-domain
+root. Đối chiếu mục H của quy trình audit built-site:
 
-  H1  homepage không chứa /blog/blog/ (nguồn + built HTML)
-  H2  không internal link nào double-baseurl
+  H1  nguồn render không tái sinh prefix legacy /blog/
+  H2  domain GitHub Pages cũ bị QA từ chối
   H3  mọi href nội bộ trong built HTML resolve
   H4  menu resolve (navigation.yml -> route truth)
   H5  footer resolve
   H6  hub resolve — MỌI child taxonomy có file hub
   H7  breadcrumb resolve (parent/child/chu-de/trang chủ)
   H8  related articles resolve (expected_url matrix/inventory trong truth)
-  H9  CTA resolve (/bai-viet/ tồn tại; không còn '/blog/' | relative_url)
+  H9  CTA resolve (/bai-viet/ tồn tại; không còn prefix legacy /blog/)
   H10 pagination resolve (trang phân hạng có route thật)
   H11 legacy Unicode URL resolve (percent-encoded, KHÔNG rewrite ascii)
   H12 ASCII rewrite sai của legacy PHẢI FAIL
   H13 matrix internal_links resolve
-  H14 bài factory mới KHÔNG THỂ PASS khi link 404 (kể cả /blog/blog/)
+  H14 bài factory mới KHÔNG THỂ PASS khi link 404 hoặc prefix legacy /blog/
   H15 check-built-links.py PHẢI exit 1 khi có internal 404 (chặn CI)
 
 Chạy: python3 scripts/factory/tests/test_built_links.py
@@ -92,7 +91,7 @@ def rendered_sources():
 # ---------------------------------------------------------------- H1, H9 (nguồn)
 
 class SourceGuards(unittest.TestCase):
-    """Không pattern double-baseurl trong nguồn render."""
+    """Không tái sinh prefix legacy /blog/ trong nguồn render."""
 
     def test_h1_no_blog_blog_relative_url_pattern(self):
         bad = []
@@ -101,7 +100,7 @@ class SourceGuards(unittest.TestCase):
             for m in re.finditer(r"['\"](/blog/[^\s'\"]*)['\"]\s*\|\s*relative_url", t):
                 bad.append((os.path.relpath(path, ROOT), m.group(1)))
         self.assertEqual(bad, [],
-                         'relative_url trên đường dẫn đã có /blog: %s' % bad[:10])
+                         'relative_url còn prefix legacy /blog/: %s' % bad[:10])
 
     def test_h1_no_blog_prefixed_frontmatter_permalink(self):
         bad = []
@@ -110,26 +109,23 @@ class SourceGuards(unittest.TestCase):
             m = re.search(r'^permalink:\s*(/\S+)', head, re.M)
             if m and m.group(1).startswith('/blog/'):
                 bad.append(os.path.relpath(path, ROOT))
-        self.assertEqual(bad, [], 'permalink chứa /blog/ -> ra /blog/blog/: %s' % bad)
+        self.assertEqual(bad, [], 'permalink còn prefix legacy /blog/: %s' % bad)
 
     def test_h9_blog_listing_route_exists(self):
         routes = _routes()
-        self.assertIn('/blog/bai-viet/', routes,
-                       'trang listing /blog/bai-viet/ (blog.md) phải tồn tại')
+        self.assertIn('/bai-viet/', routes,
+                       'trang listing /bai-viet/ (blog.md) phải tồn tại')
 
-    def test_h14b_post_url_always_has_baseurl_prefix(self):
-        """{% post_url %} trả URL KHÔNG có baseurl — bắt buộc prefix
-        {{ site.baseurl }} để không tạo lại 335 link 404 kiểu cũ."""
+    def test_h14b_post_url_has_no_legacy_blog_prefix(self):
+        """Custom-domain root không được ghép /blog/ trước post_url."""
         bad = []
         for fn in sorted(os.listdir(os.path.join(ROOT, '_posts'))):
             if not fn.endswith('.md'):
                 continue
             t = open(os.path.join(ROOT, '_posts', fn), encoding='utf-8').read()
-            for m in re.finditer(r'\(\s*\{%\s*post_url', t):
-                pre = t[max(0, m.start() - 40):m.start()]
-                if 'site.baseurl' not in pre:
-                    bad.append((fn, m.group(0)))
-        self.assertEqual(bad, [], 'post_url thiếu {{ site.baseurl }}: %s' % bad[:8])
+            for m in re.finditer(r'/blog/[^\n]{0,80}\{%\s*post_url', t):
+                bad.append((fn, m.group(0)))
+        self.assertEqual(bad, [], 'post_url còn prefix legacy /blog/: %s' % bad[:8])
 
 
 # ------------------------------------------------------- H4, H5, H6, H7, H8, H10, H13
@@ -150,7 +146,7 @@ class RouteTruthResolves(unittest.TestCase):
         self.assertTrue(urls, 'navigation.yml không đọc được url nào')
         bad = []
         for u in urls:
-            route = '/blog' + urllib.parse.unquote(u.split('#', 1)[0])
+            route = urllib.parse.unquote(u.split('#', 1)[0])
             if not route.endswith('/'):
                 route += '/'
             if route not in self.routes:
@@ -164,7 +160,7 @@ class RouteTruthResolves(unittest.TestCase):
         missing = []
         for c in tax['children']:
             ps = parents[c['parent_id']]['slug']
-            route = '/blog/%s/%s/' % (ps, c['slug'])
+            route = '/%s/%s/' % (ps, c['slug'])
             if route not in self.routes:
                 missing.append(route)
         self.assertEqual(missing, [],
@@ -173,7 +169,7 @@ class RouteTruthResolves(unittest.TestCase):
 
     def test_h7_breadcrumb_bases_resolve(self):
         for route in ('/', '/chu-de/'):
-            self.assertIn('/blog' + route, self.routes,
+            self.assertIn(route, self.routes,
                           'breadcrumb gốc %s phải tồn tại' % route)
 
     def test_h8_every_post_route_resolves(self):
@@ -190,7 +186,7 @@ class RouteTruthResolves(unittest.TestCase):
             if pm and pm.group(1):
                 if pm.group(1).startswith('/blog/'):
                     bad.append((fn, 'permalink double-baseurl %s' % pm.group(1)))
-                elif ('/blog' + pm.group(1)) not in self.routes:
+                elif pm.group(1) not in self.routes:
                     bad.append((fn, 'permalink %s không có route' % pm.group(1)))
                 continue
             cm = re.search(r'^categories:\s*\[[^\]]*\]', head, re.M)
@@ -202,7 +198,7 @@ class RouteTruthResolves(unittest.TestCase):
                          cm.group(0)).strip().lower()
             y, mo, d = dm.group(1), dm.group(2), dm.group(3)
             slug = fn[11:-3]
-            route = '/blog/%s/%s/%s/%s/%s/' % (cat, y, mo, d, slug)
+            route = '/%s/%s/%s/%s/%s/' % (cat, y, mo, d, slug)
             if route not in self.routes:
                 bad.append((fn, 'route legacy %s không có trong truth' % route))
         self.assertEqual(bad, [], 'bài _posts không resolve: %s' % bad[:8])
@@ -251,23 +247,22 @@ class RouteTruthResolves(unittest.TestCase):
 
 class LegacyUnicodeRoutes(unittest.TestCase):
     def test_h11_legacy_unicode_link_passes(self):
-        r = _route_ok('/blog/kinh%20nghi%E1%BB%87m/2026/09/17/'
+        r = _route_ok('/kinh%20nghi%E1%BB%87m/2026/09/17/'
                      'thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/')
         self.assertIs(r, True)
 
     def test_h12_ascii_rewrite_fails(self):
-        r = _route_ok('/blog/kinh-nghiem/2026/09/17/'
+        r = _route_ok('/kinh-nghiem/2026/09/17/'
                      'thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/')
         self.assertIs(r, False, 'ASCII rewrite của URL legacy phải FAIL')
 
     def test_h14_new_article_404_link_fails(self):
-        r = _route_ok('/blog/khong-ton-tai-xyz/')
+        r = _route_ok('/khong-ton-tai-xyz/')
         self.assertIs(r, False)
 
-    def test_h14b_double_baseurl_link_fails(self):
-        # /blog/blog/ từng là route thật (blog.md permalink cũ) — nay phải FAIL
-        r = _route_ok('/blog/blog/')
-        self.assertIs(r, False, 'link /blog/blog/ phải bị QA từ chối')
+    def test_h14b_legacy_blog_prefix_fails(self):
+        r = _route_ok('/blog/thue-xe/')
+        self.assertIs(r, False, 'prefix legacy /blog/ phải bị QA từ chối')
 
 
 # ------------------------------------------------------- built-site fixture (H1-H3, H15)
@@ -281,19 +276,19 @@ def build_fixture(site_dir, broken=()):
     os.makedirs(os.path.join(site_dir, 'assets', 'css'), exist_ok=True)
     os.makedirs(os.path.join(site_dir, 'bai-viet'), exist_ok=True)
     files = {
-        'index.html': ('<a href="/blog/">Trang chủ</a>'
-                       '<a href="/blog/thue-xe/">Thuê xe</a>'
-                       '<a href="/blog/thue-xe/gia-thue/">Giá thuê</a>'
-                       '<a href="/blog/kinh%20nghi%E1%BB%87m/2026/09/13/foo/">'
+        'index.html': ('<a href="/">Trang chủ</a>'
+                       '<a href="/thue-xe/">Thuê xe</a>'
+                       '<a href="/thue-xe/gia-thue/">Giá thuê</a>'
+                       '<a href="/kinh%20nghi%E1%BB%87m/2026/09/13/foo/">'
                        'Bài legacy</a>'
-                       '<a href="/blog/bai-viet/">Bài viết</a>'
-                       '<img src="/blog/assets/css/base.css">'
+                       '<a href="/bai-viet/">Bài viết</a>'
+                       '<img src="/assets/css/base.css">'
                        + ''.join(broken)),
-        'thue-xe/index.html': '<a href="/blog/">Về trang chủ</a>',
-        'thue-xe/gia-thue/index.html': '<a href="/blog/thue-xe/">Cha</a>',
-        'kinh nghiệm/2026/09/13/foo/index.html': '<a href="/blog/">Up</a>',
+        'thue-xe/index.html': '<a href="/">Về trang chủ</a>',
+        'thue-xe/gia-thue/index.html': '<a href="/thue-xe/">Cha</a>',
+        'kinh nghiệm/2026/09/13/foo/index.html': '<a href="/">Up</a>',
         'assets/css/base.css': 'body{}',
-        'bai-viet/index.html': '<a href="/blog/">Trang chủ</a>',
+        'bai-viet/index.html': '<a href="/">Trang chủ</a>',
     }
     for rel, content in files.items():
         with open(os.path.join(site_dir, rel), 'w', encoding='utf-8') as f:
@@ -316,7 +311,7 @@ class BuiltSiteChecker(unittest.TestCase):
             with open(os.path.join(work, 'data', 'content-matrix.csv'), 'w',
                       encoding='utf-8', newline='') as f:
                 f.write('id,internal_links\n'
-                        'T1,"/blog/thue-xe/; /blog/bai-viet/"\n')
+                        'T1,"/thue-xe/; /bai-viet/"\n')
             r = subprocess.run(
                 [PY, os.path.join(work, 'scripts', 'factory',
                                   'check-built-links.py'),
@@ -341,43 +336,42 @@ class BuiltSiteChecker(unittest.TestCase):
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
-    def test_h1_h2_home_blog_blog_fails(self):
+    def test_h1_legacy_blog_prefix_fails(self):
         rc, out = self._run_checker(
-            broken=('<a href="/blog/blog/">Xem Blog</a>',))
+            broken=('<a href="/blog/">Legacy</a>',))
         self.assertEqual(rc, 1, out[:2000])
-        self.assertRegex(out, r'DOUBLE_BASEURL : [1-9]')
+        self.assertRegex(out, r'INTERNAL_404\s*: [1-9]')
 
     def test_h3_unknown_route_fails(self):
         rc, out = self._run_checker(
-            broken=('<a href="/blog/khong-ton-tai-route-xyz/">X</a>',))
+            broken=('<a href="/khong-ton-tai-route-xyz/">X</a>',))
         self.assertEqual(rc, 1, out[:2000])
         self.assertRegex(out, r'INTERNAL_404\s*: [1-9]')
         self.assertIn('khong-ton-tai-route-xyz', out)
 
-    def test_h2_double_baseurl_canonical_fails(self):
+    def test_h2_legacy_domain_canonical_fails(self):
         rc, out = self._run_checker(
             broken=('<link rel="canonical" '
-                    'href="https://thuexemayhanoi.github.io/blog/blog/">',))
+                    'href="https://thuexemayhanoi.github.io/blog/">',))
         self.assertEqual(rc, 1, out[:2000])
-        self.assertRegex(out, r'DOUBLE_BASEURL : [1-9]')
+        self.assertRegex(out, r'LEGACY_DOMAIN\s*: [1-9]')
 
     def test_h12_ascii_rewrite_in_built_fails(self):
         rc, out = self._run_checker(
-            broken=('<a href="/blog/kinh-nghiem/2026/09/13/foo/">'
+            broken=('<a href="/kinh-nghiem/2026/09/13/foo/">'
                     'Sai ascii</a>',))
         self.assertEqual(rc, 1, out[:2000])
         self.assertRegex(out, r'INTERNAL_404\s*: [1-9]')
         self.assertIn('kinh-nghiem', out)
 
-    def test_missing_baseurl_flagged(self):
+    def test_root_relative_route_is_valid(self):
         rc, out = self._run_checker(
-            broken=('<a href="/thue-xe/">Thiếu baseurl</a>',))
-        self.assertEqual(rc, 1, out[:2000])
-        self.assertRegex(out, r'MISSING_BASEURL: [1-9]')
+            broken=('<a href="/thue-xe/">Root route</a>',))
+        self.assertEqual(rc, 0, out[:2000])
 
     def test_broken_asset_fails(self):
         rc, out = self._run_checker(
-            broken=('<img src="/blog/assets/css/khong-co.css">',))
+            broken=('<img src="/assets/css/khong-co.css">',))
         self.assertEqual(rc, 1, out[:2000])
         self.assertRegex(out, r'BROKEN_ASSET_INTERNAL: [1-9]')
 
@@ -398,26 +392,24 @@ class CheckerUnits(unittest.TestCase):
 
     def test_classify_variants(self):
         c = self.m.classify
-        self.assertEqual(c('/blog/thue-xe/')[0], 'internal')
-        self.assertEqual(c('/blog/blog/')[0], 'double')
-        self.assertEqual(c('https://thuexemayhanoi.github.io/blog/x/')[0],
+        self.assertEqual(c('/thue-xe/')[0], 'internal')
+        self.assertEqual(c('https://blog.thuexemaynguyentu.com/x/')[0],
                          'internal')
-        self.assertEqual(c('https://thuexemayhanoi.github.io/blog/blog/x')[0],
-                         'double')
-        self.assertEqual(c('/thue-xe/')[0], 'nobase')
+        self.assertEqual(c('https://thuexemayhanoi.github.io/blog/x/')[0],
+                         'legacy')
         self.assertEqual(c('thue-xe/')[0], 'relative')
         self.assertEqual(c('#an-chor')[0], 'skip')
         self.assertEqual(c('mailto:a@b.c')[0], 'skip')
         self.assertEqual(c('https://example.com/')[0], 'skip')
         self.assertEqual(c('tel:0942467674')[0], 'skip')
         # percent-decode sớm — H11
-        self.assertEqual(c('/blog/kinh%20nghi%E1%BB%87m/2026/09/13/x/')[1],
-                         '/blog/kinh nghiệm/2026/09/13/x/')
+        self.assertEqual(c('/kinh%20nghi%E1%BB%87m/2026/09/13/x/')[1],
+                         '/kinh nghiệm/2026/09/13/x/')
 
     def test_candidates_and_asset(self):
-        self.assertIn('/blog/x/', self.m.candidates('/blog/x'))
-        self.assertTrue(self.m.is_asset('/blog/assets/css/base.css'))
-        self.assertFalse(self.m.is_asset('/blog/thue-xe/'))
+        self.assertIn('/x/', self.m.candidates('/x'))
+        self.assertTrue(self.m.is_asset('/assets/css/base.css'))
+        self.assertFalse(self.m.is_asset('/thue-xe/'))
 
 
 if __name__ == '__main__':
