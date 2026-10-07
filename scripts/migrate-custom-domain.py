@@ -13,7 +13,7 @@ import re
 ROOT = Path(__file__).resolve().parents[1]
 OLD_BASE = "https://thuexemayhanoi.github.io/blog"
 OLD_HOST = "https://thuexemayhanoi.github.io"
-NEW_BASE = "https://blog.thuexemaynguyentu.com"
+NEW_BASE = "https://blog.thuexemaynguyentu.com"\nMIGRATION_VERSION = 2
 
 TEXT_EXT = {
     ".md", ".markdown", ".html", ".htm", ".yml", ".yaml", ".json", ".csv",
