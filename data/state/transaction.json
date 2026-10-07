@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T10:18:38+00:00",
+  "updated_at": "2026-10-07T10:21:07+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01475",
-      "started_at": "2026-10-07T00:35:28+00:00",
-      "source": "_drafts/2026-10-07-xe-ien-thue-co-i-uoc-uong-doc-long-bien-khong.md",
-      "destination": "_posts/2026-10-07-xe-ien-thue-co-i-uoc-uong-doc-long-bien-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "edf0cb4811a4800e30cdb2af643070eaab8d00fc",
-      "finished_at": "2026-10-07T00:35:28+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01476",
-      "started_at": "2026-10-07T01:24:01+00:00",
-      "source": "_drafts/2026-10-07-xe-ien-thue-qua-pha-co-uoc-khong.md",
-      "destination": "_posts/2026-10-07-xe-ien-thue-qua-pha-co-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "080ef526b5a5fa49d7c16dcde64bf546107bcae6",
-      "finished_at": "2026-10-07T01:24:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01477",
       "started_at": "2026-10-07T01:24:46+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6e596be23b8b6093f08a3b37fc5d438ec3075543",
       "finished_at": "2026-10-07T10:18:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01500",
+      "started_at": "2026-10-07T10:21:07+00:00",
+      "source": "_drafts/2026-10-07-cung-uong-i-moc-chau-qua-moc-chau-town-nen-an-gi.md",
+      "destination": "_posts/2026-10-07-cung-uong-i-moc-chau-qua-moc-chau-town-nen-an-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "315b87ff4a11d879ae6cb24bfae52b4c909e46b0",
+      "finished_at": "2026-10-07T10:21:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01501",
+      "started_at": "2026-10-07T10:21:07+00:00",
+      "source": "_drafts/2026-10-07-xe-may-duoi-nam-muoi-phan-khoi-i-ha-giang-uoc-khong.md",
+      "destination": "_posts/2026-10-07-xe-may-duoi-nam-muoi-phan-khoi-i-ha-giang-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "315b87ff4a11d879ae6cb24bfae52b4c909e46b0",
+      "finished_at": "2026-10-07T10:21:07+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
