@@ -15,12 +15,10 @@ Hai chế độ (chọn một):
                cache CDN tại thời điểm chạy (404 cũ có thể do cache deploy —
                chạy lại sau khi deploy xong, ưu tiên URL dạng /index.html).
 
-Quy tắc baseurl /blog (từ _config.yml):
-  - Mọi liên kết nội bộ PHẢI bắt đầu bằng /blog và trỏ tới route có thật.
-  - CẤM /blog/blog/ (double baseurl) ở bất kỳ đâu, kể cả khi route tồn tại.
-  - Root-relative link thiếu /blog nhưng trỏ route thật khi thêm baseurl
-    = MISSING_BASEURL (viết sai, phải qua relative_url); trỏ route không
-    tồn tại = INTERNAL_404. Không tự vá cho người viết.
+Quy tắc URL (đọc trực tiếp từ _config.yml):
+  - Hỗ trợ cả project site có baseurl và custom domain có baseurl rỗng.
+  - Với custom domain, mọi root-relative link bắt đầu bằng / và resolve trực tiếp.
+  - Với project site, vẫn phát hiện double/missing baseurl như trước.
 
 Legacy Unicode URL (/blog/du lịch/..., /blog/kinh nghiệm/...):
   - percent-decode trước khi map filesystem/live route — KHÔNG rewrite ascii.
@@ -39,7 +37,7 @@ Exit: 0 = PASS (0 lỗi), 1 = FAIL, 2 = BLOCKED (thiếu _site / lỗi mạng).
 
 Chạy:
   python3 scripts/factory/check-built-links.py --site ./_site
-  python3 scripts/factory/check-built-links.py --live https://thuexemayhanoi.github.io/blog/
+  python3 scripts/factory/check-built-links.py --live https://blog.thuexemaynguyentu.com/
 """
 import argparse
 import csv
@@ -149,12 +147,15 @@ def classify(link):
     # percent-decode sớm: mọi so khớp route/filesystem về sau đều trên dạng
     # đã decode (URL legacy Unicode: /kinh%20nghi%E1%BB%87m/ -> /kinh nghiệm/)
     path = urllib.parse.unquote(path)
-    if path.startswith(BASEURL + BASEURL):
-        return 'double', path, is_refresh
-    if path.startswith(BASEURL + '/'):
+    if BASEURL:
+        if path.startswith(BASEURL + BASEURL + '/'):
+            return 'double', path, is_refresh
+        if path == BASEURL or path.startswith(BASEURL + '/'):
+            return 'internal', path, is_refresh
+        if path.startswith('/'):
+            return 'nobase', path, is_refresh
+    elif path.startswith('/'):
         return 'internal', path, is_refresh
-    if path.startswith('/'):
-        return 'nobase', path, is_refresh
     return 'relative', path, is_refresh
 
 
@@ -187,7 +188,7 @@ def check_page(route, html_text, resolver, findings, register=None):
         if status == 'relative':
             base_dir = posixpath.dirname(route.rstrip('/') + '/') 
             path = posixpath.normpath(posixpath.join(base_dir, path))
-            if not path.startswith(BASEURL + '/'):
+            if not _inside_site(path):
                 findings.append((route, raw, path,
                                  'INTERNAL_404: liên kết tương đối thoát khỏi site'))
                 continue
@@ -198,7 +199,7 @@ def check_page(route, html_text, resolver, findings, register=None):
                              'DOUBLE_BASEURL: baseurl %s bị lặp trong URL' % BASEURL))
             continue
         if status == 'nobase':
-            with_base = BASEURL + (path if path.startswith('/') else '/' + path)
+            with_base = _with_base(path)
             if resolver(with_base):
                 findings.append((route, raw, with_base,
                                  'MISSING_BASEURL: thiếu %s (phải qua relative_url)'
@@ -235,11 +236,11 @@ def build_site_index(site_dir):
         for fn in files:
             full = os.path.join(root, fn)
             rel = os.path.relpath(full, site_dir).replace(os.sep, '/')
-            routes[BASEURL + '/' + rel] = full
+            routes[_with_base(rel)] = full
             if fn == 'index.html':
-                routes[BASEURL + '/' + posixpath.dirname(rel)] = full
+                routes[_with_base(posixpath.dirname(rel))] = full
             elif fn.endswith('.html'):
-                routes[BASEURL + '/' + rel[: -len('.html')]] = full
+                routes[_with_base(rel[: -len('.html')])] = full
     return routes
 
 
@@ -368,9 +369,11 @@ def check_matrix(resolver, findings):
             l = l.strip().rstrip(';').strip()
             if not l:
                 continue
-            if not l.startswith(BASEURL + '/'):
-                findings.append(('matrix:' + row['id'], l, BASEURL + '/' + l,
-                                 'MATRIX_BAD_ROUTE: thiếu %s' % BASEURL))
+            expected_prefix = BASEURL + '/' if BASEURL else '/'
+            if not l.startswith(expected_prefix):
+                findings.append(('matrix:' + row['id'], l, _with_base(l),
+                                 'MATRIX_BAD_ROUTE: route phải bắt đầu bằng %s'
+                                 % expected_prefix))
                 n += 1
                 continue
             if not resolver(urllib.parse.unquote(l.split('#')[0])):
