@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thuexemayhanoi.github.io/blog/sitemap.xml
+Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml
