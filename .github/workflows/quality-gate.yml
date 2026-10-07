@@ -98,6 +98,15 @@ jobs:
           set -eu
           python3 scripts/factory/validate.py --scope chunk
 
+      - name: Custom-domain invariants
+        run: |
+          set -eu
+          grep -Fxq 'baseurl: ""' _config.yml
+          grep -Fxq 'url: "https://blog.thuexemaynguyentu.com"' _config.yml
+          grep -Fxq 'blog.thuexemaynguyentu.com' CNAME
+          grep -Fxq 'Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml' robots.txt
+          echo "OK: custom-domain invariants"
+
       - name: Build site (Jekyll, same engine family as Pages)
         if: steps.mode.outputs.mode == 'full'
         uses: actions/jekyll-build-pages@v1
