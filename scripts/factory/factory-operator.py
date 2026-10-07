@@ -623,6 +623,7 @@ def qa_check_one(row, rows, biz, tax):
     checks['links_routes_valid'] = all(link_route_ok(l) for l in links)
     ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)))
     legacy_project_prefix = '/' + 'blog/'
+    legacy_project_prefix = '/' + 'blog/'
     checks['no_hardcoded_blog'] = legacy_project_prefix not in body
 
     # ---- cannibalization
