@@ -124,6 +124,7 @@ def collect_links(html_text):
 # ------------------------------------------------------------------ chuẩn hoá link
 
 SKIP_PREFIX = ('#', 'mailto:', 'tel:', 'javascript:', 'data:', 'sms:', 'zalo:')
+LEGACY_NETLOCS = {'thuexemayhanoi.github.io'}
 
 
 def classify(link):
@@ -139,6 +140,10 @@ def classify(link):
         return 'skip', None, False
     if link.startswith(('http://', 'https://')):
         pr = urllib.parse.urlsplit(link)
+        if pr.netloc in LEGACY_NETLOCS:
+            path = pr.path
+            path = urllib.parse.unquote(path.split('#', 1)[0].split('?', 1)[0])
+            return 'legacy', path, is_refresh
         if (pr.scheme, pr.netloc) != ('https', HOST[8:]):
             return 'skip', None, False
         path = pr.path
@@ -188,6 +193,10 @@ def check_page(route, html_text, resolver, findings, register=None):
         if status == 'skip':
             continue
         n_links += 1
+        if status == 'legacy':
+            findings.append((route, raw, path,
+                             'LEGACY_DOMAIN: URL còn trỏ host GitHub Pages cũ'))
+            continue
         if status == 'relative':
             base_dir = posixpath.dirname(route.rstrip('/') + '/') 
             path = posixpath.normpath(posixpath.join(base_dir, path))
@@ -391,7 +400,8 @@ def check_matrix(resolver, findings):
 def kind_of(f):
     c = f[3]
     for k in ('DOUBLE_BASEURL', 'MISSING_BASEURL', 'INTERNAL_404',
-              'BROKEN_ASSET_INTERNAL', 'REDIRECT_LOOP', 'MATRIX_BAD_ROUTE'):
+              'BROKEN_ASSET_INTERNAL', 'REDIRECT_LOOP', 'MATRIX_BAD_ROUTE',
+              'LEGACY_DOMAIN'):
         if c.startswith(k):
             return k
     return 'OTHER'
@@ -432,7 +442,7 @@ def main():
     print('PAGES_SCANNED   : %d' % pages)
     print('LINKS_SCANNED   : %d' % links)
     for k in ('INTERNAL_404', 'DOUBLE_BASEURL', 'MISSING_BASEURL',
-              'BROKEN_ASSET_INTERNAL', 'REDIRECT_LOOP'):
+              'BROKEN_ASSET_INTERNAL', 'REDIRECT_LOOP', 'LEGACY_DOMAIN'):
         print('%-15s: %d' % (k, counts.get(k, 0)))
     print('MATRIX_BAD_ROUTE: %d' % matrix_bad)
     print()
