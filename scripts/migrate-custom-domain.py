@@ -192,13 +192,14 @@ def patch_factory_operator(changed):
 
     nh = ("    legacy_project_prefix = '/' + 'blog/'\n"
           "    checks['no_hardcoded_blog'] = legacy_project_prefix not in body")
-    guard_re = re.compile(
-        r"(?:    legacy_project_prefix = '/' \+ 'blog/'\n)*"
-        r"    checks\['no_hardcoded_blog'\] = [^\n]+"
-    )
-    new, guard_count = guard_re.subn(nh, new, count=1)
-    if guard_count != 1:
-        raise RuntimeError("không tìm thấy no_hardcoded_blog guard để migrate")
+    if nh not in new:
+        guard_re = re.compile(
+            r"(?:    legacy_project_prefix = '/' \+ 'blog/'\n)*"
+            r"    checks\['no_hardcoded_blog'\] = [^\n]+"
+        )
+        new, guard_count = guard_re.subn(nh, new, count=1)
+        if guard_count != 1:
+            raise RuntimeError("không tìm thấy no_hardcoded_blog guard để migrate")
 
     write_if_changed(p, old, new, changed)
 
