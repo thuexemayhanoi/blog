@@ -22,7 +22,8 @@ Kỳ thuê theo tuần có cách tính riêng, tùy thuộc thời điểm nhậ
 
 Với thuê một ngày, xe buổi sáng nhận chiều trả, mọi hao mòn đều nằm trong quãng ngắn, và trách nhiệm của bạn khá rõ ràng. Với thuê tuần, bạn đi được vài trăm cây số, đủ để dầu máy tiêu hao xuống dưới vạch, lốp mòn thêm một lớp, hoặc xiên bánh bị lệch nhẹ sau những ổ gà. Vấn đề là những hao mòn này diễn ra từ từ, nên tới ngày thứ năm hay thứ sáu bạn mới cảm thấy xe nặng, mà lúc đó đã sát kỳ trả.
 
-Ngoài ra, chạy dầu thấp hoặc lốp non trong vài ngày làm hỏng thêm những bộ phận khác, biến một lỗi nhỏ thành sửa chữa lớn. Kiểm tra giữa kỳ chính là cách cắt đứt chuỗi đó: một lần soi quanh xe vào ngày ba hoặc ngày bốn giữ cho chiếc xe chạy đều tới hết tuần. Đây cũng là thói quen mà người đi đường dài quen dùng với xe của chính họ, nên áp vào xe thuê cũng không khác mấy.
+Ngoài ra, chạy dầu thấp hoặc lốp non trong vài ngày làm hỏng thêm những bộ phận khác, biến một lỗi nhỏ thành sửa chữa lớn. Kiể
+m tra giữa kỳ chính là cách cắt đứt chuỗi đó: một lần soi quanh xe vào ngày ba hoặc ngày bốn giữ cho chiếc xe chạy đều tới hết tuần. Đây cũng là thói quen mà người đi đường dài quen dùng với xe của chính họ, nên áp vào xe thuê cũng không khác mấy.
 
 ## Những hạng mục nên soát giữa kỳ
 
@@ -36,7 +37,8 @@ Phanh là hạng mục thứ tư: bóp phanh trước, đạp phanh sau lúc xe 
 
 ## Cách trao đổi với cửa hàng khi phát hiện
 
-Nếu phát hiện hao mòn ở mức thông thường, ví dụ lốp hơi non, bạn có thể tự xử lý: bơm lốp gần nhà, lau dây kim loại, siết lại ốc bằng dụng cụ cơ bản. Với trục trặc lớn hơn như dầu tụt nhanh, phanh ăn kém, hoặc đèn phanh hỏng, cách đúng là gọi cửa hàng trước khi tự sửa. Nguyên nhân là sửa ngoài chỗ cho thuê có thể dùng phụ tùng không đúng, và khi trả xe, mọi hạng mục đã thay đổi đều trở thành điểm tranh luận về trách nhiệm.
+Nếu phát hiện hao mòn ở mức thông thường, ví dụ lốp hơi non, bạn có thể tự xử lý: bơm lốp gần nhà, lau dây kim loại, siết lại ốc bằng dụng cụ cơ bản. Với trục trặc lớn hơn như dầu tụt nhanh, phanh ăn kém, hoặc đèn phanh hỏng, cách đúng là gọi cửa hàng trước khi tự sửa. Nguyên nhân là sửa ngoài chỗ cho thuê có thể d
+ùng phụ tùng không đúng, và khi trả xe, mọi hạng mục đã thay đổi đều trở thành điểm tranh luận về trách nhiệm.
 
 Khi gọi, nói rõ triệu chứng: dầu tụt từ vạch nào xuống vách nào sau bao nhiêu ngày, phanh ken két khi đạp nhẹ hay đạp mạnh, đèn nào không sáng. Cửa hàng có thể hướng dẫn xử lý tại chỗ, mời bạn ghé kiểm tra, hoặc đổi xe nếu xe cần sửa. Ghi lại nội dung trao đổi trong tin nhắn để có bằng chứng về việc bạn đã báo, phòng hờ trục trặc lớn hơn xảy ra ở nửa sau của kỳ thuê.
 

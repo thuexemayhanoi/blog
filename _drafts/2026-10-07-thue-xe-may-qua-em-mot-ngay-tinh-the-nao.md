@@ -22,7 +22,8 @@ Các tình huống thuê ngắn hạn nằm ở nhóm [thuê xe trong ngày](/bl
 
 Hầu hết cửa hàng cho thuê xe máy ở Hà Nội tính ngày theo lịch, không theo đúng hai mươi tư giờ. Nghĩa là một ngày thuê là một ngày trên lịch: nhận sáng hôm nay thì hạn trả trong khung giờ mở cửa của hôm sau, thường là trước giờ đóng cửa hoặc trước một mốc cố định trong ngày như trưa. Cách tính này dễ hiểu cho cả hai bên, nhưng nó cũng là nguồn hiểu nhầm lớn nhất khi bạn giữ xe qua đêm.
 
-Một quy tắc thứ hai ít gặp hơn là tính theo chu kỳ hai mươi bốn giờ: nhận lúc ba giờ chiều hôm nay thì tới ba giờ chiều mai mới hết một ngày. Nếu kỳ thuê của bạn nằm lệch múi giờ trong ngày, ví dụ nhận tối và trả tối, cách tính hai mươi tư giờ có khi có lợi hơn. Vì vậy việc đầu tiên khi đặt xe là hỏi cửa hàng đang áp dụng quy tắc nào, vì hai quy tắc này cho kết quả khác nhau dù cùng khoảng thời gian giữ xe.
+Một quy tắc thứ hai ít gặp hơn là tính theo chu kỳ hai mươi bốn giờ: nhận lúc ba giờ chiều hôm nay thì tới ba giờ chiều mai mới hết một ngày. Nếu kỳ thuê của bạn nằm lệch múi giờ trong ngày, ví dụ nhận tối và t
+rả tối, cách tính hai mươi tư giờ có khi có lợi hơn. Vì vậy việc đầu tiên khi đặt xe là hỏi cửa hàng đang áp dụng quy tắc nào, vì hai quy tắc này cho kết quả khác nhau dù cùng khoảng thời gian giữ xe.
 
 Cửa hàng mở cửa từ chín giờ sáng đến chín giờ tối và không giao xe ngoài giờ hoạt động, nên kỳ thuê thực tế luôn nằm trong khung giờ này. Việc trả xe cũng nên chủ động trước giờ đóng cửa, vì trả sát chín giờ tối dễ dẫn đến chờ kiểm tra vội vàng.
 
@@ -36,7 +37,8 @@ Một điểm nữa cần lưu ý: phụ phí theo giờ nếu trả trễ hạn
 
 ## Ví dụ cụ thể ở Hà Nội
 
-Tình huống một: bạn nhận xe lúc hai giờ chiều thứ Sáu, đi ăn tối, để xe qua đêm ở nhà, và trả lúc mười giờ sáng thứ Bảy. Xe qua đêm một đêm, tổng khoảng hai mươi giờ. Theo tính ngày lịch, đây là một ngày thuê. Cửa hàng nhận lại xe lúc mười giờ sáng, còn nguyên ngày thứ Bảy để cho khách khác thuê.
+Tình huống một: bạn nhận xe lúc hai giờ chiều thứ Sáu, đi ăn tối, để xe qua đêm ở nhà, và trả lúc mười giờ sáng thứ Bảy. Xe qua đêm một đêm, tổng khoảng hai mươi giờ. Theo tính ngày lịch, đây là một ngày thuê. Cửa hàng nhận lại xe lúc mười g
+iờ sáng, còn nguyên ngày thứ Bảy để cho khách khác thuê.
 
 Tình huống hai: bạn nhận xe lúc tám giờ tối thứ Sáu cho kịp đi chơi đêm, về nhà lúc một giờ sáng, và muốn giữ xe tới chiều Chủ nhật cho tiện đi chơi. Kỳ này trải qua ba ngày trên lịch: nhận tối thứ Sáu, giữ trọn thứ Bảy và trả chiều Chủ nhật. Khả năng cao bạn bị tính hai ngày hoặc ba ngày tùy quy tắc, nên đây chính là trường hợp cần hỏi giá trước khi nhận xe.
 
@@ -50,4 +52,5 @@ Khi gọi hỏi giá, hãy nói rõ kế hoạch thực tế của bạn kèm th
 
 Cuối cùng, ghi lại con số được báo vào tin nhắn hoặc giấy ghi chú của chính bạn. Con số trong đầu lúc đặt xe dễ khác con số trong đầu lúc trả xe, nhất là khi giữa hai thời điểm đó bạn đã đi cả một chuyến dài. Một dòng ghi chú nhỏ giúp bạn trả xe đúng hạn, đúng giá, và giữ được kỳ thuê qua đêm một cách thoải mái.
 
-Nếu bạn ở khu vực gần Bồ Đề, Gia Lâm và cần giữ xe qua đêm cho kế hoạch sáng hôm sau, cửa hàng ở 112 Nguyễn Văn Cừ mở từ chín giờ sáng đến chín giờ tối; gọi trước để xác nhận xe còn sẵn và cách tính ngày cho đúng kế hoạch của bạn.
+Nếu bạn ở khu vực gần Bồ Đề, Gia Lâm và cần giữ xe qua đêm cho kế hoạch sáng hôm sau, cửa hàng ở 112 Nguyễn Văn Cừ mở
+ từ chín giờ sáng đến chín giờ tối; gọi trước để xác nhận xe còn sẵn và cách tính ngày cho đúng kế hoạch của bạn.
