@@ -36,7 +36,7 @@ jobs:
           grep -q '^baseurl: ""$' _config.yml
           grep -q '^url: "https://blog.thuexemaynguyentu.com"$' _config.yml
           grep -q 'Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml' robots.txt
-          if grep -R -n -E '(^|[^A-Za-z0-9._-])/blog/' _posts data _data _includes _layouts scripts --exclude='migrate-custom-domain.py'; then
+          if grep -R -n -E --exclude='migrate-custom-domain.py' --exclude-dir=tests '(^|[^A-Za-z0-9._-])/blog/' _posts data _data _includes _layouts scripts; then
             echo 'FAIL: con root-relative /blog/ trong runtime source'
             exit 1
           fi
