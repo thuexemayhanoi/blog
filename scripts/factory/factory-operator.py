@@ -613,7 +613,7 @@ def qa_check_one(row, rows, biz, tax):
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
     # Hub taxonomy và liên kết nội bộ đều là root-relative trên custom domain.
-    # Prefix legacy /blog/ không còn hợp lệ.
+    # Prefix legacy / không còn hợp lệ.
     hub = parents[row['parent_id']]['hub_url']
     checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
     checks['links_count'] = 3 <= len(links) <= 8
