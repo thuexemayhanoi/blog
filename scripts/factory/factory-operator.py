@@ -394,8 +394,8 @@ HANOI_MARKERS = [
 
 
 # ---------------------------------------------------- canonical route truth
-# Base URL của site (GitHub Pages Jekyll): mọi liên kết nội bộ công khai
-# PHẢI bắt đầu bằng /blog. Route thật sinh deterministic từ repository:
+# Base URL đọc từ _config.yml. Với custom domain hiện tại baseurl rỗng,
+# nên mọi liên kết nội bộ công khai là root-relative (/...). Route thật:
 # frontmatter permalink của mọi trang + URL Jekyll của bài legacy.
 # KHÔNG gọi network — route được kiểm against cây nguồn.
 
@@ -473,9 +473,9 @@ def canonical_routes():
 
 
 def link_route_ok(link):
-    """Liên kết nội bộ chỉ PASS khi (1) có đủ baseurl /blog và
-    (2) trỏ tới route thật trong cây nguồn. Anchor được tách trước
-    khi đối chiếu; liên kết ngoài/anchor thuần không thuộc site."""
+    """Liên kết nội bộ chỉ PASS khi (1) đúng baseurl hiện hành (root trên
+    custom domain) và (2) trỏ tới route thật trong cây nguồn. Anchor được
+    tách trước khi đối chiếu; liên kết ngoài/anchor thuần không thuộc site."""
     link = (link or '').strip()
     if (not link or link.startswith('#')
             or link.startswith(('http://', 'https://', 'mailto:', 'tel:'))):
@@ -576,8 +576,8 @@ def qa_check_one(row, rows, biz, tax):
         front['date'][:10], slug) if front else False
     d = front.get('date', '')[:10] if front else ''
     date_url = '%s/%s/%s' % (d[:4], d[5:7], d[8:]) if d else ''
-    # permalink trong file là đường dẫn gốc-tương-đối (không tiền tố /blog,
-    # baseurl thêm khi render); canonical_url/expected_url là URL công khai.
+    # permalink/canonical_url/expected_url đều root-relative trên custom domain;
+    # baseurl hiện rỗng nên không thêm prefix project-site.
     expected_permalink = row['canonical_url'].replace('{date}', date_url)
     checks['permalink_canonical'] = front and front.get('permalink') == \
         expected_permalink
@@ -613,7 +613,7 @@ def qa_check_one(row, rows, biz, tax):
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
     # Hub taxonomy và liên kết nội bộ đều là root-relative trên custom domain.
-    # Prefix legacy / không còn hợp lệ.
+    # Prefix legacy /blog/ không còn hợp lệ.
     hub = parents[row['parent_id']]['hub_url']
     checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
     checks['links_count'] = 3 <= len(links) <= 8
