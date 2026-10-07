@@ -120,6 +120,39 @@ jobs:
           set -eu
           python3 scripts/factory/check-built-links.py --site ./_site
 
+      - name: Canonical + legacy-host sanity
+        if: steps.mode.outputs.mode == 'full'
+        run: |
+          set -eu
+          python3 - <<'PY'
+          import os, re, sys
+          root = "_site"
+          bad = []
+          canon_missing = []
+          canon_bad = []
+          for dp, _, files in os.walk(root):
+              for fn in files:
+                  if not fn.endswith(".html"):
+                      continue
+                  p = os.path.join(dp, fn)
+                  rel = os.path.relpath(p, root)
+                  text = open(p, encoding="utf-8", errors="replace").read()
+                  if "thuexemayhanoi.github.io" in text or "/blog/assets/" in text:
+                      bad.append(rel)
+                  cans = re.findall(r'<link rel="canonical" href="([^"]+)"', text)
+                  if len(cans) != 1:
+                      canon_missing.append((rel, len(cans)))
+                  elif not cans[0].startswith("https://blog.thuexemaynguyentu.com/"):
+                      canon_bad.append((rel, cans[0]))
+          if bad or canon_missing or canon_bad:
+              print("FAIL: canonical/legacy-host sanity")
+              print("legacy:", bad[:20])
+              print("canonical-count:", canon_missing[:20])
+              print("canonical-host:", canon_bad[:20])
+              sys.exit(1)
+          print("OK: canonical + legacy-host sanity")
+          PY
+
       - name: Drafts must not be deployed (no draft in sitemap or output)
         if: steps.mode.outputs.mode == 'full'
         run: |
