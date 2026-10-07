@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T21:07:33+00:00",
+  "updated_at": "2026-10-07T21:14:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01535",
-      "started_at": "2026-10-07T12:35:10+00:00",
-      "source": "_drafts/2026-10-07-coc-thue-xe-may-khi-nao-uoc-nhan-lai.md",
-      "destination": "_posts/2026-10-07-coc-thue-xe-may-khi-nao-uoc-nhan-lai.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d3e2096c45e4cf0ffc5e25a1945e15003e504e0e",
-      "finished_at": "2026-10-07T12:35:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01536",
-      "started_at": "2026-10-07T12:39:04+00:00",
-      "source": "_drafts/2026-10-07-giu-giay-to-thay-tien-coc-co-nen-khong.md",
-      "destination": "_posts/2026-10-07-giu-giay-to-thay-tien-coc-co-nen-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cc6775e6c94ffb123f632ab22a1e185ab1e5660d",
-      "finished_at": "2026-10-07T12:39:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01537",
       "started_at": "2026-10-07T12:39:04+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "03fdea2e9c3b7e77cc7a7ab71940673ae5124990",
       "finished_at": "2026-10-07T21:07:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01560",
+      "started_at": "2026-10-07T21:14:46+00:00",
+      "source": "_drafts/2026-10-07-mat-giay-phep-lai-xe-giua-chuyen-i-thue-xa.md",
+      "destination": "_posts/2026-10-07-mat-giay-phep-lai-xe-giua-chuyen-i-thue-xa.md",
+      "result": "PUBLISHED",
+      "commit_sha": "859b1129d0f079b7b3067e3153242a663e5a081e",
+      "finished_at": "2026-10-07T21:14:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01561",
+      "started_at": "2026-10-07T21:14:46+00:00",
+      "source": "_drafts/2026-10-07-giay-phep-lai-sap-het-han-co-thue-uoc-xe-may-khong.md",
+      "destination": "_posts/2026-10-07-giay-phep-lai-sap-het-han-co-thue-uoc-xe-may-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "859b1129d0f079b7b3067e3153242a663e5a081e",
+      "finished_at": "2026-10-07T21:14:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
