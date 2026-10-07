@@ -21,7 +21,7 @@ Nhiều người đi làm ở Hà Nội chọn Honda Vision làm xe thuê hằng
 Theo công bố của nhà sản xuất, Honda Vision có mức tiêu hao nhiên liệu khoảng 1.8 lít cho 100 km trong điều kiện chuẩn. Ra đường Hà Nội, số liệu thực tế thường nhích lên một chút vì đèn đỏ, đường đông, ga mạnh khi khởi hành:
 
 - Chạy phố tắc nghẽn nhiều: khoảng 2 đến 2.2 lít cho 100 km.
-- Chạy quỹ đạo thẳng, giờ vắng: quanh 1.9 lít cho 100 km.
+- Chạy đường thẳng, giờ vắng: quanh 1.9 lít cho 100 km.
 - Xe thuê đã chạy nhiều năm, nhớt cũ: có thể tốn hơn xe mới.
 
 Với một quãng đường đi làm phổ biến 10 đến 12 km mỗi ngày cả hai chiều, bạn chỉ tốn khoảng 2 đến 2.5 lít xăng mỗi tuần. Tính theo giá xăng hiện hành, đó là mức chi phí chấp nhận được so với đi xe công nghệ hoặc taxi mỗi ngày.
@@ -30,7 +30,8 @@ Với một quãng đường đi làm phổ biến 10 đến 12 km mỗi ngày c
 
 Xe ga tiết kiệm hay không phụ thuộc khá nhiều vào chân tay người cầm lái:
 
-- Ga nhẹ khi khởi hành, giữ vòng tua đều, không vọt xe liên tục.
+- Ga nhẹ khi khởi
+ hành, giữ vòng tua đều, không vọt xe liên tục.
 - Dự đoán đèn đỏ từ xa, nhả ga sớm thay vì phanh gấp.
 - Giữ áp suất lốp đúng chuẩn, lốp non làm xe nặng và tốn xăng thêm.
 - Bảo trì theo kỳ, nhớt đúng giúp động cơ nhẹ máy.
@@ -55,7 +56,8 @@ Trung thực mà nói, xe số như Wave vẫn nhỉnh hơn về độ tiết ki
 ## Mẹo giữ chi phí thấp khi thuê Vision dài hạn
 
 - Chọn thuê theo tháng thay vì lượt ngày nếu bạn đi làm đều, đơn giá tháng rẻ hơn nhiều.
-- Sạc trước giờ cao điểm, đổ xăng ở cây xăng quen thuộc gần nhà để tiện theo dõi mức tiêu hao.
+- Đổ xăng trước giờ cao điểm, đổ xăng ở 
+cây xăng quen thuộc gần nhà để tiện theo dõi mức tiêu hao.
 - Chụp ảnh đồng hồ xăng khi nhận và khi trả xe để đối chiếu quy ước xăng với bên cho thuê.
 - Báo ngay nếu xe có dấu hiệu tốn xăng bất thường như khó đề, mùi xăng, máy ì, để cửa hàng kịp xử lý.
 

@@ -14,7 +14,7 @@ article_id: BLG-01476
 writer: W1
 ---
 
-Bạn định đi chùa Hương, đi các tỉnh ven sông Hồng hoặc đơn giản là băng qua một bến phà nhỏ ở ngoại thành, và chiếc xe bạn đang đi là xe máy điện thuê. Câu hỏi xe điện thuê qua phà có được không xuất hiện rất tự nhiên, vì xe điện khác xe xăng ở hai điểm quan trọng: pin và quãng đường giới hạn. Câu trả lời ngắn gọn là được, xe máy điện vẫn là xe hai bánh nên được đưa lên phà như xe máy thông thường, nhưng bạn cần chuẩn bị thêm vài điểm để chuyến đi qua phà không gặp rắc rối với chiếc xe thuê.
+Bạn định đi chùa Hương, đi các tỉnh ven sông Hồng hoặc đơn giản là băng qua một bến phà nhỏ ở ngoại thành, và chiếc xe bạn đang đi là xe máy điện thuê. Câu hỏi xe điện thuê qua phà có được không xuất hiện rất tự nhiên, vì xe điện khác xe xăng ở两点 quan trọng: pin và quãng đường giới hạn. Câu trả lời ngắn gọn là được, xe máy điện vẫn là xe hai bánh nên được đưa lên phà như xe máy thông thường, nhưng bạn cần chuẩn bị thêm vài điểm để chuyến đi qua phà không gặp rắc rối với chiếc xe thuê.
 
 ## Quy định chung khi đưa xe hai bánh lên phà
 
@@ -42,7 +42,7 @@ Nếu bạn còn lạ với việc dùng xe điện hàng ngày, bài [thuê xe 
 
 ### 2. Bảo vệ cụm pin và ổ sạc khi lên xuống phà
 
-Bến phà thường có dốc chữ T trơn ướt, nhất là mùa mưa hoặc khi mực nước sông lên. Với xe điện:
+Bến phà thường có dốc chữ T trơn ướt, nhất là mùa mưa hoặc thu水位 sông lên. Với xe điện:
 
 - Lên xuống dốc bằng tốc độ thấp đều, không phanh gấp giữa dốc.
 - Tránh để nước tràn vào cụm pin và ổ sạc nếu bến ngập nước vũng.
