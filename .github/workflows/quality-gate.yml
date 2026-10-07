@@ -185,6 +185,21 @@ jobs:
           done
           echo "OK: sitemap + schema + hub render."
 
+      - name: Crawler metadata sanity
+        if: steps.mode.outputs.mode == 'full'
+        run: |
+          set -eu
+          test -f _site/feed.xml || { echo "FAIL: thieu feed.xml"; exit 1; }
+          test -f _site/robots.txt || { echo "FAIL: thieu robots.txt"; exit 1; }
+          test -f _site/CNAME || { echo "FAIL: thieu CNAME"; exit 1; }
+          grep -q 'https://blog.thuexemaynguyentu.com/feed.xml' _site/feed.xml             || { echo "FAIL: feed.xml khong dung custom domain."; exit 1; }
+          grep -q 'Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml' _site/robots.txt             || { echo "FAIL: robots.txt khong dung sitemap custom domain."; exit 1; }
+          grep -Fxq 'blog.thuexemaynguyentu.com' _site/CNAME             || { echo "FAIL: CNAME artifact sai custom domain."; exit 1; }
+          if grep -Rq 'thuexemayhanoi.github.io' _site/feed.xml _site/robots.txt _site/CNAME; then
+            echo "FAIL: crawler metadata con host GitHub Pages cu."; exit 1
+          fi
+          echo "OK: crawler metadata custom domain"
+
       - name: Sitemap targets must exist in built site
         if: steps.mode.outputs.mode == 'full'
         run: |
