@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 80
   size: 12
-  total: 955
+  total: 957
 chia-se:
   pages: 10
   size: 12
@@ -31,7 +31,7 @@ topic:
   du-lich_diem-den:
     pages: 6
     size: 24
-    total: 121
+    total: 123
   hoi-dap_hoi-dap-nguoi-moi:
     pages: 2
     size: 24

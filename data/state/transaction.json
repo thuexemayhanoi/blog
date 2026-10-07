@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T08:00:27+00:00",
+  "updated_at": "2026-10-07T09:58:57+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01463",
-      "started_at": "2026-10-06T22:16:38+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-ngay-le-gia-co-tang-khong.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-ngay-le-gia-co-tang-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8bcbf24898be424ab0dcf328ce9b23a876b8bffe",
-      "finished_at": "2026-10-06T22:16:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01464",
-      "started_at": "2026-10-06T22:19:41+00:00",
-      "source": "_drafts/2026-10-05-thue-xe-may-cho-hai-nguoi-cho-nhau-gia-co-khac-khong.md",
-      "destination": "_posts/2026-10-05-thue-xe-may-cho-hai-nguoi-cho-nhau-gia-co-khac-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ed832533f868f26cd1a34544b0d7adce1aed8f0c",
-      "finished_at": "2026-10-06T22:19:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01465",
       "started_at": "2026-10-06T22:19:41+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "5b2d9d423a6b90923d09e1663149c6a47c0f7448",
       "finished_at": "2026-10-07T08:00:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01488",
+      "started_at": "2026-10-07T09:58:57+00:00",
+      "source": "_drafts/2026-10-07-i-bao-tang-dan-toc-hoc-bang-xe-may-o-xe-o-au.md",
+      "destination": "_posts/2026-10-07-i-bao-tang-dan-toc-hoc-bang-xe-may-o-xe-o-au.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8b61cb2e33ab6a386517938fd0dfa583340242cd",
+      "finished_at": "2026-10-07T09:58:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01489",
+      "started_at": "2026-10-07T09:58:57+00:00",
+      "source": "_drafts/2026-10-07-i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong.md",
+      "destination": "_posts/2026-10-07-i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8b61cb2e33ab6a386517938fd0dfa583340242cd",
+      "finished_at": "2026-10-07T09:58:57+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

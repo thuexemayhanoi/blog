@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01488",
   "title": "Đi Bảo Tàng Dân Tộc Học bằng xe máy đỗ xe ở đâu",
-  "scored_at": "2026-10-07T09:56:01+00:00",
+  "scored_at": "2026-10-07T09:58:56+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "duplicate_title": true,
@@ -34,10 +34,7 @@
   },
   "word_count": 1042,
   "word_target": 1200,
-  "bad_routes": [
-    "/blog/du-lic/",
-    "/blog/du-lic/2026/10/04/trai-nghiem-bao-tang-phong-khong-khong-quan-nen-i-cung-ai-va-luc-nao/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "duplicate_title_clash": [],
   "duplicate_slug_clash": [],
@@ -48,10 +45,11 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
-  "source_path": "_drafts/2026-10-07-i-bao-tang-dan-toc-hoc-bang-xe-may-o-xe-o-au.md",
-  "content_sha256": "ab4dbc52cba56c2cfd3f3f3199cfd6a1b743853ca8bcd5463f7e67e8b6896cca",
-  "matrix_row_sha256": "859d5e05c420792664003b1d3d22a90982818ab31f2cd1631498f318f479cfd6",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "critical_failure": false,
+  "source_path": "_posts/2026-10-07-i-bao-tang-dan-toc-hoc-bang-xe-may-o-xe-o-au.md",
+  "content_sha256": "a365ed1f6ffa9fa692632ac0a404b627431f0a76dd9b052e6485941edfc7cca4",
+  "matrix_row_sha256": "0c5401c0d0c18f1508b3344b7377d5f61aa6be4a14385b750e94a55d2e6cc2a4",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-07T09:58:57+00:00"
 }
