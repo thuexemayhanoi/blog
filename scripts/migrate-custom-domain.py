@@ -74,6 +74,17 @@ def patch_check_built_links(changed):
 BASEURL = _site_baseurl()
 HOST = 'https://blog.thuexemaynguyentu.com'
 SITE_URL = HOST + BASEURL
+
+
+def _with_base(path):
+    path = '/' + path.lstrip('/')
+    return BASEURL + path if BASEURL else path
+
+
+def _inside_site(path):
+    if BASEURL:
+        return path == BASEURL or path.startswith(BASEURL + '/')
+    return path.startswith('/')
 '''
     new = new[:start] + replacement + new[end:]
     new = new.replace("if path.startswith(BASEURL + BASEURL):",
