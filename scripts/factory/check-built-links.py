@@ -71,6 +71,17 @@ HOST = 'https://blog.thuexemaynguyentu.com'
 SITE_URL = HOST + BASEURL
 
 
+def _with_base(path):
+    path = '/' + path.lstrip('/')
+    return BASEURL + path if BASEURL else path
+
+
+def _inside_site(path):
+    if BASEURL:
+        return path == BASEURL or path.startswith(BASEURL + '/')
+    return path.startswith('/')
+
+
 # ------------------------------------------------------------------ trích link
 
 class LinkCollector(HTMLParser):
