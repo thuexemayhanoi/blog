@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T12:56:31+00:00",
+  "updated_at": "2026-10-07T13:04:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01521",
-      "started_at": "2026-10-07T10:54:37+00:00",
-      "source": "_drafts/2026-10-07-gia-thue-xe-may-dip-le-co-khac-ngay-thuong-khong.md",
-      "destination": "_posts/2026-10-07-gia-thue-xe-may-dip-le-co-khac-ngay-thuong-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b83d2541cc93c50ad46c8adcf7a568b576db9d50",
-      "finished_at": "2026-10-07T10:54:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01522",
-      "started_at": "2026-10-07T12:14:08+00:00",
-      "source": "_drafts/2026-10-07-cac-yeu-to-lam-gia-thue-xe-may-thang-tang-giam.md",
-      "destination": "_posts/2026-10-07-cac-yeu-to-lam-gia-thue-xe-may-thang-tang-giam.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d5e55d7c0cce87c296016141f0c670b958574c42",
-      "finished_at": "2026-10-07T12:14:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01523",
       "started_at": "2026-10-07T12:14:09+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "ec95602f30cc7dd6abe228301d64a3226e19d4aa",
       "finished_at": "2026-10-07T12:56:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01546",
+      "started_at": "2026-10-07T13:04:05+00:00",
+      "source": "_drafts/2026-10-07-xe-ga-thue-tre-ga-khi-van-tay-lai-la-hong-gi.md",
+      "destination": "_posts/2026-10-07-xe-ga-thue-tre-ga-khi-van-tay-lai-la-hong-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "acd9724ed754357ccdd13fe530e6735a2e4c87f5",
+      "finished_at": "2026-10-07T13:04:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01547",
+      "started_at": "2026-10-07T13:04:05+00:00",
+      "source": "_drafts/2026-10-07-cho-e-o-duoi-yen-xe-ga-thue-cho-uoc-nhung-gi.md",
+      "destination": "_posts/2026-10-07-cho-e-o-duoi-yen-xe-ga-thue-cho-uoc-nhung-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "acd9724ed754357ccdd13fe530e6735a2e4c87f5",
+      "finished_at": "2026-10-07T13:04:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
