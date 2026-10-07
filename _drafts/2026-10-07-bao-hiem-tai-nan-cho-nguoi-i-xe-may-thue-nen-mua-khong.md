@@ -32,15 +32,23 @@ Khi đọc điều khoản, người chạy xe máy nên chú ý bốn điểm: 
 
 ## Nên mua không: bốn căn cứ để quyết định
 
-- Tần suất đi xe: chạy xe hằng ngày để đi làm, đi học ở Hà Nội khác hẳn với vài chuyến thuê xe cuối tháng. Người tiếp xúc nhiều với mưa, kẹt xe, đường trơn thì lớp bảo hiểm cá nhân càng có ý nghĩa.
-- Thời gian kỳ thuê: thuê theo tuần, theo tháng cho công việc dài hạn khiến bạn gặp rủi ro nhiều hơn một chuyến thuê vài giờ, nên chu kỳ thuê càng dài càng cần được cân nhắc kỹ.
-- Các lớp bảo hiểm sẵn có: nếu bạn đã có bảo hiểm tai nạn qua công ty, qua ngân hàng hoặc bảo hiểm y tế tốt, hãy xem phạm vi đã phủ phần nào trước khi mua thêm để tránh trùng lặp.
-- Ngân sách: mức phí và quyền lợi thay đổi theo gói, nên so sánh ít nhất vài sản phẩm trước khi quyết định, ưu tiên gói có điều khoản viết rõ về tình huống đi xe máy.
+- Tần suất đi xe: chạy hằng ngày để đi làm, đi học ở Hà Nội khác hẳn với vài chuyến thuê cuối tháng; người tiếp xúc nhiều với mưa, kẹt xe, đường trơn thì lớp cá nhân càng có ý nghĩa.
+- Thời gian kỳ thuê: thuê theo tuần hoặc theo tháng khiến bạn gặp rủi ro nhiều hơn một chuyến vài giờ, nên chu kỳ dài càng cần cân nhắc kỹ.
+- Các lớp bảo hiểm sẵn có: nếu đã có bảo hiểm tai nạn qua công ty, ngân hàng hoặc bảo hiểm y tế tốt, hãy xem phạm vi đã phủ phần nào trước khi mua thêm.
+- Ngân sách: mức phí và quyền lợi thay đổi theo gói, nên so sánh vài sản phẩm trước khi quyết định, ưu tiên gói viết rõ tình huống đi xe máy.
 
 ## Cần xác nhận gì với cửa hàng trước khi đặt xe
 
-Chính sách giữa bạn và cửa hàng không có con số chung cho mọi nơi: xe thuê đã có bảo hiểm dân sự bắt buộc chưa, có gói tự nguyện nào cho người đi xe hay không, quy trình thông báo khi có tai nạn ra sao là những câu hỏi nên đặt trước khi đặt cọc, và câu trả lời cần được xác nhận trực tiếp với nơi bạn thuê. Nếu bạn thuê xe máy ở Hà Nội, gọi trước 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên trong giờ mở cửa 09:00 đến 21:00 để hỏi rõ. Bên cạnh đó, việc cho xe máy lưu thông mà không có bảo hiểm bắt buộc còn bị xử phạt theo quy định hiện hành; chi tiết nằm trong bài [không có bảo hiểm xe máy bị phạt thế nào](/blog/an-toan-phap-ly/2026/09/28/khong-co-bao-hiem-xe-may-bi-phat-the-nao/).
+Chính sách giữa bạn và cửa hàng không có con số chung cho mọi nơi: xe thuê đã có bảo hiểm dân sự bắt buộc chưa, có gói tự nguyện nào cho người đi xe hay không, quy trình thông báo khi có tai nạn ra sao là những câu hỏi nên đặt trước khi đặt cọc, và câu trả lời cần được xác nhận trực tiếp với nơi bạn thuê.
+
+Nếu bạn thuê xe máy ở Hà Nội, gọi trước 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên trong giờ mở cửa 09:00 đến 21:00 để hỏi rõ. Bên cạnh đó, việc cho xe máy lưu thông mà không có bảo hiểm bắt buộc còn bị xử phạt theo quy định hiện hành; chi tiết nằm trong bài [không có bảo hiểm xe máy bị phạt thế nào](/blog/an-toan-phap-ly/2026/09/28/khong-co-bao-hiem-xe-may-bi-phat-the-nao/).
 
 ## Kết luận
 
 Bảo hiểm tai nạn khi thuê xe máy nên mua không? Nên, nếu bạn là người thường xuyên đi xe hoặc thuê theo chu kỳ dài, vì lớp bắt buộc trên xe không chi trả thương tích của chính bạn. Nếu chỉ đi vài chuyến ngắn, tối thiểu hãy nắm rõ quyền lợi mình có sẵn và quy trình báo tai nạn với cửa hàng. Trước kỳ thuê, dành vài phút hỏi chính sách bảo hiểm với nơi cho thuê và xem thêm các chủ đề trong trang [bảo hiểm xe máy](/blog/an-toan-phap-ly/bao-hiem/). Quy định pháp luật và điều kiện sản phẩm có thể thay đổi theo thời gian, nên hãy kiểm tra văn bản và hợp đồng mới nhất trước khi quyết định mua.
+
+## Nguồn tham khảo
+
+Văn bản chính thức: Nghị định 67/2023/NĐ-CP về bảo hiểm bắt buộc trách nhiệm dân sự của chủ xe cơ giới và Luật Kinh doanh bảo hiểm năm 2022, số 08/2022/QH15, được tra cứu trên [cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/).
+
+Lưu ý: quy định và điều kiện sản phẩm có thể thay đổi, kiểm tra văn bản và hợp đồng mới nhất trước khi áp dụng.

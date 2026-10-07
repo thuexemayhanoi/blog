@@ -43,3 +43,9 @@ Khi giấy phép đã nằm trong ví, xe máy thuê trở thành lựa chọn t
 ## Kết luận
 
 Thi bằng A1 bằng xe máy thuê được không? Trong sa hình, xe thuê không cần dùng vì đơn vị tổ chức sát hạch có xe đầu bài; xe thuê giúp bạn luyện tay lái trước thi và đi thực tế sau khi có bằng. Việc duy nhất cần tránh là tự lái xe khi chưa có giấy phép trên đường đi đến điểm thi. Nếu bạn cần thuê xe phục vụ luyện tập hoặc cho giai đoạn sau khi nhận bằng, liên hệ 0942 467 674 hoặc ghé 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội trong giờ mở cửa 09:00 đến 21:00; các chủ đề liên quan được gom trong trang [giấy phép lái xe](/blog/an-toan-phap-ly/giay-phep-lai-xe/).
+
+## Nguồn tham khảo
+
+Văn bản chính thức: [Nghị định 168/2024/NĐ-CP](https://vanban.chinhphu.vn/?pageid=27160&docid=212167&classid=1&orggroupid=2) về xử phạt vi phạm hành chính trong lĩnh vực trật tự, an toàn giao thông đường bộ; Luật Trật tự, an toàn giao thông đường bộ năm 2024 và Thông tư 35/2024/TT-BGTVT được tra cứu trên [cổng thông tin điện tử Chính phủ](https://vanban.chinhphu.vn/).
+
+Lưu ý: quy định và mức xử lý có thể thay đổi, kiểm tra văn bản mới nhất trước khi áp dụng.
