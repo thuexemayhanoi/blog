@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T12:14:09+00:00",
+  "updated_at": "2026-10-07T12:17:31+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01499",
-      "started_at": "2026-10-07T10:18:38+00:00",
-      "source": "_drafts/2026-10-07-moc-chau-thang-ba-chay-xe-may-i-hoa-man-the-nao.md",
-      "destination": "_posts/2026-10-07-moc-chau-thang-ba-chay-xe-may-i-hoa-man-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e596be23b8b6093f08a3b37fc5d438ec3075543",
-      "finished_at": "2026-10-07T10:18:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01500",
-      "started_at": "2026-10-07T10:21:07+00:00",
-      "source": "_drafts/2026-10-07-cung-uong-i-moc-chau-qua-moc-chau-town-nen-an-gi.md",
-      "destination": "_posts/2026-10-07-cung-uong-i-moc-chau-qua-moc-chau-town-nen-an-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "315b87ff4a11d879ae6cb24bfae52b4c909e46b0",
-      "finished_at": "2026-10-07T10:21:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01501",
       "started_at": "2026-10-07T10:21:07+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "d5e55d7c0cce87c296016141f0c670b958574c42",
       "finished_at": "2026-10-07T12:14:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01524",
+      "started_at": "2026-10-07T12:17:31+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-i-tinh-khac-can-thu-tuc-them-gi.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-i-tinh-khac-can-thu-tuc-them-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "afd40dcd77de2ee34d7c77c93716657c2156c5dc",
+      "finished_at": "2026-10-07T12:17:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01525",
+      "started_at": "2026-10-07T12:17:31+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-bang-can-cuoc-gan-chip-co-uoc-khong.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-bang-can-cuoc-gan-chip-co-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "afd40dcd77de2ee34d7c77c93716657c2156c5dc",
+      "finished_at": "2026-10-07T12:17:31+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
