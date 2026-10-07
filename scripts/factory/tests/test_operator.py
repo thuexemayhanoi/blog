@@ -31,9 +31,9 @@ BIZ = {
 }
 TAX = {
     'parents': [{'parent_id': 'P-THUE-XE', 'title': 'Thuê xe máy',
-                 'hub_url': '/blog/thue-xe/'}],
+                 'hub_url': '/thue-xe/'}],
     'children': [{'child_id': 'C-THUE-GIA', 'title': 'Giá thuê xe',
-                   'hub_url': '/blog/bang-gia/', 'search_intent': 'commercial'}],
+                   'hub_url': '/bang-gia/', 'search_intent': 'commercial'}],
 }
 
 
@@ -46,10 +46,10 @@ def row(**kw):
         'secondary_keywords': 'thuê xe ngày giá bao nhiêu',
         'parent_id': 'P-THUE-XE', 'child_id': 'C-THUE-GIA',
         'group': 'THUE',
-        'expected_url': '/blog/thue-xe/{date}/gia-thue-xe-may-theo-ngay-o-ha-noi/',
+        'expected_url': '/thue-xe/{date}/gia-thue-xe-may-theo-ngay-o-ha-noi/',
         'output_path': '_posts/{date}-gia-thue-xe-may-theo-ngay-o-ha-noi.md',
-        'canonical_url': '/blog/thue-xe/{date}/gia-thue-xe-may-theo-ngay-o-ha-noi/',
-        'internal_links': '/blog/bang-gia/',
+        'canonical_url': '/thue-xe/{date}/gia-thue-xe-may-theo-ngay-o-ha-noi/',
+        'internal_links': '/bang-gia/',
         'source_required': 'false', 'legal_risk': 'none',
         'cannibalization_key': 'gia thue xe may theo ngay',
         'word_target': '150',
@@ -73,8 +73,8 @@ tham khảo 200.000 đồng mỗi ngày, còn thuê theo tuần dao động 800.
 
 ## Cách tính chi phí cho chuyến đi
 
-Bạn nên [xem bảng giá đầy đủ](/blog/bang-gia/) trước khi đặt xe, tham khảo
-[trang chủ đề thuê xe](/blog/thue-xe/) và đọc [hướng dẫn liên hệ](/blog/lien-he/) để xác
+Bạn nên [xem bảng giá đầy đủ](/bang-gia/) trước khi đặt xe, tham khảo
+[trang chủ đề thuê xe](/thue-xe/) và đọc [hướng dẫn liên hệ](/lien-he/) để xác
 nhận giá thực tế. Với quãng đường quanh quận Long Biên, một chiếc xe số thường
 đủ cho chuyến ngày.
 
