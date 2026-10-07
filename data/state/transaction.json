@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T12:54:04+00:00",
+  "updated_at": "2026-10-07T12:56:31+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01519",
-      "started_at": "2026-10-07T10:51:16+00:00",
-      "source": "_drafts/2026-10-07-xe-thue-en-pha-yeu-luc-em-xu-ly-ra-sao.md",
-      "destination": "_posts/2026-10-07-xe-thue-en-pha-yeu-luc-em-xu-ly-ra-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a35a22dbfe697873c638ca156b1869ded1c74307",
-      "finished_at": "2026-10-07T10:51:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01520",
-      "started_at": "2026-10-07T10:54:37+00:00",
-      "source": "_drafts/2026-10-07-so-honda-wave-va-yamaha-sirius-thue-cai-nao-ben-hon.md",
-      "destination": "_posts/2026-10-07-so-honda-wave-va-yamaha-sirius-thue-cai-nao-ben-hon.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b83d2541cc93c50ad46c8adcf7a568b576db9d50",
-      "finished_at": "2026-10-07T10:54:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01521",
       "started_at": "2026-10-07T10:54:37+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "3d21828755284f0e5a116bf01ceb8e317c669968",
       "finished_at": "2026-10-07T12:54:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01544",
+      "started_at": "2026-10-07T12:56:31+00:00",
+      "source": "_drafts/2026-10-07-xe-so-thue-nen-vao-so-may-khi-len-doc-dai.md",
+      "destination": "_posts/2026-10-07-xe-so-thue-nen-vao-so-may-khi-len-doc-dai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ec95602f30cc7dd6abe228301d64a3226e19d4aa",
+      "finished_at": "2026-10-07T12:56:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01545",
+      "started_at": "2026-10-07T12:56:31+00:00",
+      "source": "_drafts/2026-10-07-xe-so-thue-bi-tuot-so-giua-uong-phai-lam-sao.md",
+      "destination": "_posts/2026-10-07-xe-so-thue-bi-tuot-so-giua-uong-phai-lam-sao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ec95602f30cc7dd6abe228301d64a3226e19d4aa",
+      "finished_at": "2026-10-07T12:56:31+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
