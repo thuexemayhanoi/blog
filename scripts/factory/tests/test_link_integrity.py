@@ -1,17 +1,16 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""Test tính toàn vẹn liên kết nội bộ — canonical route /blog (QA hardening).
+"""Test tính toàn vẹn liên kết nội bộ — custom-domain root (QA hardening).
 
 Bao trùm các kịch bản bắt buộc:
-  R1  /blog/thue-xe/...        -> PASS (route thật trong repo)
-  R2  /thue-xe/...             -> FAIL (thiếu baseurl /blog)
-  R3  anchor hợp lệ /blog/.../#x -> PASS (anchor đối chiếu đúng base URL)
-  R4  route không tồn tại       -> FAIL
-  R5  generate-matrix sinh internal_links luôn có /blog (idempotent,
-      tái sinh không làm mất prefix; hàng PUBLISHED giữ nguyên)
-  R6  manifest export mang liên kết /blog
-  R7  op qa chốt evidence links_routes_valid + bad_routes; link non-/blog
-      không thể PASS chỉ vì khớp prefix
+  R1  /thue-xe/...             -> PASS (route thật trong repo)
+  R2  /blog/thue-xe/...        -> FAIL (prefix legacy)
+  R3  anchor hợp lệ /.../#x    -> PASS
+  R4  route không tồn tại      -> FAIL
+  R5  generate-matrix sinh internal_links root-relative (idempotent)
+  R6  manifest export mang liên kết root-relative
+  R7  op qa chốt evidence links_routes_valid + bad_routes; prefix legacy
+      không thể PASS chỉ vì bắt đầu bằng /
 
 Chạy: python3 scripts/factory/tests/test_link_integrity.py (không đổi ROOT).
 """
@@ -126,7 +125,6 @@ def draft_body(row, links):
     d = '2026-09-27'
     date_url = '2026/09/27'
     perm = row['canonical_url'].replace('{date}', date_url)
-    perm = perm[len('/blog'):]
     paras = '\n\n'.join('- Xem thêm [%s](%s).' % (l, l) for l in links)
     return ('---\ndate: %s 09:00:00 +0700\nlayout: post\n'
             'title: "%s"\nauthor: "Nguyễn Tú"\ndescription: "%s miêu tả '
@@ -152,38 +150,35 @@ def draft_body(row, links):
 class RouteTruth(unittest.TestCase):
     """Đối chiếu route truth từ repository — không gọi network."""
 
-    def test_r1_blog_route_passes(self):
-        r = probe(ROOT, "link_route_ok('/blog/thue-xe/gia-thue/')")
+    def test_r1_root_route_passes(self):
+        r = probe(ROOT, "link_route_ok('/thue-xe/gia-thue/')")
         self.assertIs(r, True)
 
-    def test_r2_root_relative_without_blog_fails(self):
-        r = probe(ROOT, "link_route_ok('/thue-xe/gia-thue/')")
+    def test_r2_legacy_blog_prefix_fails(self):
+        r = probe(ROOT, "link_route_ok('/blog/thue-xe/gia-thue/')")
         self.assertIs(r, False)
 
-    def test_r3_anchor_link_passes_on_correct_base(self):
-        r = probe(ROOT, "link_route_ok('/blog/bang-gia/#tinh-gia')")
+    def test_r3_anchor_link_passes_on_root(self):
+        r = probe(ROOT, "link_route_ok('/bang-gia/#tinh-gia')")
         self.assertIs(r, True)
-        # anchor trên base SAI vẫn FAIL
-        r2 = probe(ROOT, "link_route_ok('/bang-gia/#tinh-gia')")
-        self.assertIs(r2, False)
 
     def test_r4_nonexistent_route_fails(self):
-        r = probe(ROOT, "link_route_ok('/blog/khong-ton-tai-route-xyz/')")
+        r = probe(ROOT, "link_route_ok('/khong-ton-tai-route-xyz/')")
         self.assertIs(r, False)
 
     def test_r4b_baseurl_from_config(self):
         r = probe(ROOT, "BASEURL")
-        self.assertEqual(r, '/blog')
+        self.assertEqual(r, '')
 
     def test_r4c_factory_post_permalink_in_routes(self):
-        r = probe(ROOT, "link_route_ok('/blog/thue-xe/2026/09/27/"
+        r = probe(ROOT, "link_route_ok('/thue-xe/2026/09/27/"
                         "gia-thue-xe-may-theo-ngay-o-ha-noi/')")
         self.assertIs(r, True)
 
 
 # ------------------------------------------------------------------ R5
 class GeneratorPrefix(unittest.TestCase):
-    def test_r5_matrix_never_loses_blog_prefix(self):
+    def test_r5_matrix_uses_custom_domain_root_links(self):
         work, tmp = fresh_copy()
         try:
             before = {r['id']: r for r in load_rows(work)}
@@ -191,7 +186,7 @@ class GeneratorPrefix(unittest.TestCase):
             self.assertEqual(r1.returncode, 0, r1.stdout + r1.stderr)
             rows1 = load_rows(work)
             self.assertEqual(len(rows1), len(before))
-            # mọi liên kết nội bộ của hàng factory phải có /blog
+            # mọi liên kết nội bộ của hàng factory phải root-relative và không có /blog/
             bad = []
             for r in rows1:
                 if r['source'].startswith('legacy:') or r['status'] == 'PUBLISHED':
@@ -201,9 +196,9 @@ class GeneratorPrefix(unittest.TestCase):
                     if (l and not l.startswith('#')
                             and not l.startswith(('http://', 'https://',
                                                   'mailto:', 'tel:'))
-                            and not l.startswith('/blog')):
+                            and (not l.startswith('/') or l.startswith('/blog/'))):
                         bad.append((r['id'], l))
-            self.assertEqual(bad, [], 'liên kết thiếu /blog: %s' % bad[:10])
+            self.assertEqual(bad, [], 'liên kết không chuẩn root-domain: %s' % bad[:10])
             # hàng PUBLISHED giữ nguyên internal_links (không ghi đè)
             for r in rows1:
                 o = before.get(r['id'])
@@ -236,14 +231,14 @@ class GeneratorPrefix(unittest.TestCase):
 
 # ------------------------------------------------------------------ R6
 class ManifestPrefix(unittest.TestCase):
-    def test_r6_manifest_carries_blog_links(self):
+    def test_r6_manifest_carries_root_links(self):
         work, tmp = fresh_copy()
         try:
             r = run(work, 'scripts/factory/generate-matrix.py')
             self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
             rows = load_rows(work)
             # Ưu tiên manifest đã có sẵn trong repo (WRITING/PASS/REPAIR là
-            # hàng đã được generator sinh internal_links chuẩn /blog).
+            # hàng đã được generator sinh internal_links chuẩn root-domain).
             # REPAIR cũng phải được dùng: giữa chunk (QA fail → repair)
             # không còn hàng WRITING/PASS nào — nếu không, test rơi vào
             # nhánh borrow + prepare-next và operator TỪ CHỐI vì chunk
@@ -261,7 +256,7 @@ class ManifestPrefix(unittest.TestCase):
                     break
             if mf is None:
                 # Repo chưa có manifest nào: sinh một manifest qua operator
-                # rồi kiểm tra (đường dẫn chuẩn vẫn phải /blog).
+                # rồi kiểm tra (đường dẫn chuẩn phải root-relative).
                 # Queue cạn (không còn PLANNED): mượn hàng trong bản sao.
                 borrow_planned_row(work)
                 r = run(work, 'scripts/factory/factory-operator.py',
@@ -279,8 +274,8 @@ class ManifestPrefix(unittest.TestCase):
             links = d['internal_links_matrix']
             self.assertTrue(links, 'manifest thiếu internal_links')
             for l in links:
-                self.assertTrue(l.startswith('/blog'),
-                                'manifest link thiếu /blog: %s' % l)
+                self.assertTrue(l.startswith('/') and not l.startswith('/blog/'),
+                                'manifest link không chuẩn root-domain: %s' % l)
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
@@ -309,36 +304,35 @@ class QaRouteEvidence(unittest.TestCase):
         finally:
             shutil.rmtree(tmp, ignore_errors=True)
 
-    def test_r7_non_blog_link_fails_and_is_evidenced(self):
-        r, ev = self._qa(['/thue-xe/gia-thue/', '/bang-gia/',
+    def test_r7_legacy_blog_link_fails_and_is_evidenced(self):
+        r, ev = self._qa(['/blog/thue-xe/gia-thue/', '/bang-gia/',
                           '/lien-he/', '/thue-xe/'])
         self.assertEqual(ev['checks']['links_routes_valid'], False)
-        self.assertIn('/thue-xe/gia-thue/', ev['bad_routes'])
-        self.assertIn('/bang-gia/', ev['bad_routes'])
+        self.assertIn('/blog/thue-xe/gia-thue/', ev['bad_routes'])
         self.assertTrue(ev['critical_failure'])
         self.assertEqual(ev['result'], 'REPAIR')
 
-    def test_r7b_blog_links_pass_route_check(self):
-        r, ev = self._qa(['/blog/thue-xe/gia-thue/', '/blog/bang-gia/',
-                          '/blog/lien-he/', '/blog/thue-xe/'])
+    def test_r7b_root_links_pass_route_check(self):
+        r, ev = self._qa(['/thue-xe/gia-thue/', '/bang-gia/',
+                          '/lien-he/', '/thue-xe/'])
         self.assertEqual(ev['checks']['links_routes_valid'], True)
         self.assertEqual(ev['bad_routes'], [])
 
     def test_r7c_anchor_and_nonexistent(self):
-        r, ev = self._qa(['/blog/bang-gia/#tinh-gia',
-                          '/blog/khong-ton-tai-route-xyz/',
-                          '/blog/lien-he/', '/blog/thue-xe/'])
+        r, ev = self._qa(['/bang-gia/#tinh-gia',
+                          '/khong-ton-tai-route-xyz/',
+                          '/lien-he/', '/thue-xe/'])
         self.assertEqual(ev['checks']['links_routes_valid'], False)
-        self.assertIn('/blog/khong-ton-tai-route-xyz/', ev['bad_routes'])
-        self.assertNotIn('/blog/bang-gia/#tinh-gia', ev['bad_routes'])
+        self.assertIn('/khong-ton-tai-route-xyz/', ev['bad_routes'])
+        self.assertNotIn('/bang-gia/#tinh-gia', ev['bad_routes'])
 
     def test_r7d_legacy_unicode_links_pass(self):
         # link tới bài legacy (URL chứa khoảng trắng/Unicode, percent-encoded
         # đúng như site phục vụ) PHẢI PASS links_routes_valid
         r, ev = self._qa([
-            '/blog/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
-            '/blog/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/',
-            '/blog/lien-he/', '/blog/thue-xe/'])
+            '/kinh%20nghi%E1%BB%87m/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
+            '/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/',
+            '/lien-he/', '/thue-xe/'])
         self.assertEqual(ev['checks']['links_routes_valid'], True)
         self.assertEqual(ev['bad_routes'], [])
 
@@ -346,10 +340,10 @@ class QaRouteEvidence(unittest.TestCase):
         # writer tự đổi /kinh nghiệm/ thành /kinh-nghiem/ (route không tồn
         # tại) -> QA PHẢI bắt ra, không "tự sửa" bằng route bịa
         r, ev = self._qa([
-            '/blog/kinh-nghiem/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
-            '/blog/lien-he/', '/blog/thue-xe/', '/blog/bang-gia/'])
+            '/kinh-nghiem/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
+            '/lien-he/', '/thue-xe/', '/bang-gia/'])
         self.assertEqual(ev['checks']['links_routes_valid'], False)
-        self.assertIn('/blog/kinh-nghiem/2026/09/17/'
+        self.assertIn('/kinh-nghiem/2026/09/17/'
                       'thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/',
                       ev['bad_routes'])
 
@@ -358,15 +352,15 @@ class QaRouteEvidence(unittest.TestCase):
 class SiteIntegrity(unittest.TestCase):
     """Bảo vệ vĩnh viễn sau đợt sửa link toàn site 2026-09-27:
 
-    R8  mọi bài trong _posts KHÔNG còn liên kết nội bộ thiếu /blog
-    R9  AGENTS.md bị exclude khỏi build công khai (không render /blog/AGENTS/)
+    R8  mọi bài trong _posts KHÔNG còn prefix legacy /blog/
+    R9  AGENTS.md bị exclude khỏi build công khai
     R10 mọi internal_links của matrix resolves vào route truth
     R11 generate-topic-hubs idempotent: hub được tham chiếu phải tồn tại
     """
 
-    POST_LINK = re.compile(r'\]\(\s*/(?!blog)[^)\s]+')
+    POST_LINK = re.compile(r'\]\(\s*/blog/[^)\s]+')
 
-    def test_r8_published_posts_no_prefixless_links(self):
+    def test_r8_published_posts_no_legacy_blog_links(self):
         posts_dir = os.path.join(ROOT, '_posts')
         bad = []
         for fn in sorted(os.listdir(posts_dir)):
@@ -374,7 +368,7 @@ class SiteIntegrity(unittest.TestCase):
             body = text.split('---', 2)[2] if text.count('---') >= 2 else text
             for m in self.POST_LINK.finditer(body):
                 bad.append((fn, m.group(0)))
-        self.assertEqual(bad, [], 'liên kết thiếu /blog trong _posts: %s' % bad[:10])
+        self.assertEqual(bad, [], 'còn liên kết legacy /blog/ trong _posts: %s' % bad[:10])
 
     def test_r9_agents_md_excluded_from_public_build(self):
         cfg = open(os.path.join(ROOT, '_config.yml'), encoding='utf-8').read()
@@ -405,8 +399,9 @@ class SiteIntegrity(unittest.TestCase):
                         l = l.strip().rstrip(';').strip()
                         if not l:
                             continue
-                        if not l.startswith('/blog'):
-                            bad.append((row['id'], row['status'], l, 'thiếu /blog'))
+                        if not l.startswith('/') or l.startswith('/blog/'):
+                            bad.append((row['id'], row['status'], l,
+                                        'không chuẩn root-domain'))
                             continue
                         route = l.split('#', 1)[0]
                         if not route.endswith('/'):
@@ -433,7 +428,7 @@ class SiteIntegrity(unittest.TestCase):
 
 # ------------------------------------------------------------------ R12-R15
 class LegacyUnicodeLinks(unittest.TestCase):
-    """URL legacy chứa khoảng trắng/Unicode (ví dụ /blog/du lịch/...).
+    """URL legacy chứa khoảng trắng/Unicode (ví dụ /du lịch/...).
 
     R12 route truth phải lowercase category như Jekyll/sitemap công khai;
         link raw (chưa encode) và link percent-encoded đều PASS.
@@ -445,14 +440,14 @@ class LegacyUnicodeLinks(unittest.TestCase):
         (markdown-safe, không chứa khoảng trắng thô) và URL đó hợp lệ.
     """
 
-    RAW = '/blog/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/'
-    RAW2 = '/blog/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/'
+    RAW = '/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/'
+    RAW2 = '/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/'
 
     def test_r12_legacy_unicode_route_ok(self):
         r = probe(ROOT, "link_route_ok('%s')" % self.RAW)
         self.assertIs(r, True)
         q = probe(ROOT, "public_url('%s')" % self.RAW)
-        self.assertEqual(q, '/blog/du%20l%E1%BB%8Bch/2026/09/13/'
+        self.assertEqual(q, '/du%20l%E1%BB%8Bch/2026/09/13/'
                            'goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/')
         r2 = probe(ROOT, "link_route_ok('%s')" % q)
         self.assertIs(r2, True)
@@ -461,17 +456,17 @@ class LegacyUnicodeLinks(unittest.TestCase):
 
     def test_r13_ascii_rewrite_must_fail(self):
         # KHÔNG đổi /du lịch/ thành /du-lich/ khi route đó không tồn tại
-        r = probe(ROOT, "link_route_ok('/blog/du-lich/2026/09/13/"
+        r = probe(ROOT, "link_route_ok('/du-lich/2026/09/13/"
                         "goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/')")
         self.assertIs(r, False)
 
     def test_r14_internal_links_in_raw_space_and_title(self):
-        body = ('Xem [bài legacy](%s) và [bài khác](/blog/thue-xe/ '
+        body = ('Xem [bài legacy](%s) và [bài khác](/thue-xe/ '
                 '"tiêu đề") cùng [bài nữa](%s).' % (self.RAW2, self.RAW))
         r = probe(ROOT, "internal_links_in(%r)" % body)
         self.assertIn(self.RAW2, r)
         self.assertIn(self.RAW, r)
-        self.assertIn('/blog/thue-xe/', r)
+        self.assertIn('/thue-xe/', r)
         for l in r:
             self.assertNotIn('"', l)
 
