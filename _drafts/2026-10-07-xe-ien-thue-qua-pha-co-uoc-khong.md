@@ -3,7 +3,7 @@ date: 2026-10-07 09:00:00 +0700
 layout: post
 title: "Xe điện thuê qua phà có được không"
 author: "Nguyễn Tú"
-description: "Xe điện thuê qua phà có được không: quy định xếp xe lên phà, bảo vệ pin và sạc xe máy điện khi đi đường dài qua bến phà từ Hà Nội."
+description: "Xe điện thuê qua phà có được không: cách đưa xe điện lên phà an toàn, bảo vệ cụm pin khi qua bến phà và lưu ý quãng đường cho người thuê xe máy điện ở Hà Nội."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [xe điện thuê qua phà, đưa xe điện lên phà, thuê xe máy điện, đi phà bằng xe máy]
@@ -27,7 +27,7 @@ Bạn định đi chùa Hương, đi các tỉnh ven sông Hồng hoặc đơn g
 
 Những quy tắc này áp dụng như nhau cho xe số, xe ga và xe máy điện, nên về mặt thủ tục, đưa xe điện lên phà không có gì khác biệt.
 
-## Ba điểm riêng của xe điện khi đi phà
+## Ba điểm riêng cần nhớ khi đưa xe điện lên phà
 
 ### 1. Kiểm tra pin trước khi lên đường
 
