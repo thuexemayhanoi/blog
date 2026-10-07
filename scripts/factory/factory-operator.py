@@ -612,17 +612,14 @@ def qa_check_one(row, rows, biz, tax):
                                           for r in required)
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
-    # hub trong taxonomy là URL công khai dạng /... — liên kết trong
-    # bài PHẢI mang đúng baseurl, không strip /blog nữa (QA hardening:
-    # prefix khớp kiểu cũ cho /thue-xe/... chạy 404 là lỗi thật).
+    # Hub taxonomy và liên kết nội bộ đều là root-relative trên custom domain.
+    # Prefix legacy /blog/ không còn hợp lệ.
     hub = parents[row['parent_id']]['hub_url']
     checks['links_parent_hub'] = any(l.startswith(hub) for l in links)
     checks['links_count'] = 3 <= len(links) <= 8
-    # route thật từ repository truth — liên kết chỉ PASS khi có /blog
-    # VÀ trỏ tới route tồn tại (không chấp nhận khớp prefix suông).
+    # Route thật từ repository truth: liên kết chỉ PASS khi trỏ tới route tồn tại.
     checks['links_routes_valid'] = all(link_route_ok(l) for l in links)
     ev['bad_routes'] = sorted(set(l for l in links if not link_route_ok(l)))
-    legacy_project_prefix = '/' + 'blog/'
     legacy_project_prefix = '/' + 'blog/'
     checks['no_hardcoded_blog'] = legacy_project_prefix not in body
 
