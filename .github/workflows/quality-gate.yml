@@ -183,6 +183,44 @@ jobs:
           done
           echo "OK: sitemap + schema + hub render."
 
+      - name: Sitemap targets must exist in built site
+        if: steps.mode.outputs.mode == 'full'
+        run: |
+          set -eu
+          python3 - <<'PY'
+          import os, re, sys
+          from urllib.parse import urlsplit, unquote
+
+          root = "_site"
+          sitemap = open(os.path.join(root, "sitemap.xml"), encoding="utf-8").read()
+          locs = re.findall(r"<loc>([^<]+)</loc>", sitemap)
+          missing = []
+
+          for url in locs:
+              path = unquote(urlsplit(url).path)
+              rel = path.lstrip("/")
+              if not rel:
+                  candidates = [os.path.join(root, "index.html")]
+              elif path.endswith("/"):
+                  candidates = [os.path.join(root, rel, "index.html")]
+              else:
+                  candidates = [
+                      os.path.join(root, rel),
+                      os.path.join(root, rel + ".html"),
+                      os.path.join(root, rel, "index.html"),
+                  ]
+              if not any(os.path.isfile(p) for p in candidates):
+                  missing.append(url)
+
+          if missing:
+              print("FAIL: sitemap URL khong co file build tuong ung:", len(missing))
+              for url in missing[:30]:
+                  print(" -", url)
+              sys.exit(1)
+
+          print("OK: sitemap targets exist:", len(locs))
+          PY
+
       - name: Working tree must be clean (read-only gate)
         run: |
           set -eu
