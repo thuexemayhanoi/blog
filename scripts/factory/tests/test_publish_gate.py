@@ -40,9 +40,9 @@ rows = []
 def mrow(aid, st):
     return {'id':aid,'status':st,'title':'T','intent':'I','primary_keyword':'kw',
             'secondary_keywords':'','parent_id':'P-THUE-XE','child_id':'C-THUE-GIA','group':'',
-            'expected_url':'/blog/thue-xe/{date}/sim-%s/'%aid,
+            'expected_url':'/thue-xe/{date}/sim-%s/'%aid,
             'output_path':'_posts/{date}-sim-%s.md'%aid.lower(),
-            'canonical_url':'/blog/thue-xe/{date}/sim-%s/'%aid,
+            'canonical_url':'/thue-xe/{date}/sim-%s/'%aid,
             'internal_links':'/bang-gia/','source_required':'false','legal_risk':'none',
             'batch':'','source':'planned:test'}
 for aid, st in (('BLG-91001','PASS'), ('BLG-91002','QA'), ('BLG-91003','WRITING')):
