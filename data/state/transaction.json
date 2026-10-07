@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T00:25:56+00:00",
+  "updated_at": "2026-10-07T00:26:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01442",
-      "started_at": "2026-10-06T20:34:35+00:00",
-      "source": "_drafts/2026-10-05-mai-chau-mua-lua-chin-i-xe-may-luc-nao-ep.md",
-      "destination": "_posts/2026-10-05-mai-chau-mua-lua-chin-i-xe-may-luc-nao-ep.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9f82dded74e963dcd3db7b339d88e3ae919c356e",
-      "finished_at": "2026-10-06T20:34:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01443",
       "started_at": "2026-10-06T20:34:35+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "7d38bb7e409cc8979dbb8a09f501edfe122f6b1c",
       "finished_at": "2026-10-07T00:25:56+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01466",
+      "started_at": "2026-10-07T00:26:46+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-qua-em-mot-ngay-tinh-the-nao.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-qua-em-mot-ngay-tinh-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b8f211de470d3353cdfd71b10784e0d2d9e16524",
+      "finished_at": "2026-10-07T00:26:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

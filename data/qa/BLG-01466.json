@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01466",
   "title": "Thuê xe máy qua đêm một ngày tính thế nào",
-  "scored_at": "2026-10-07T00:19:31+00:00",
+  "scored_at": "2026-10-07T00:26:44+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1247,
+  "word_count": 1248,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -46,9 +46,10 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-07-thue-xe-may-qua-em-mot-ngay-tinh-the-nao.md",
-  "content_sha256": "ff0afb3e0654158250ddb41fc4787d1d7db953b674dd521caa484b1908d3b2d9",
-  "matrix_row_sha256": "df0ae1740d3a6d922cf8940ea42c1dde1d9ae340e8840e00ba6fbee2c0d57257",
+  "source_path": "_posts/2026-10-07-thue-xe-may-qua-em-mot-ngay-tinh-the-nao.md",
+  "content_sha256": "945cd81611423f0e2032494dbb3fe268b325f18ca8b047e43da855c30c6b8405",
+  "matrix_row_sha256": "b12f4b056ff410bb6cd70fbefc567d5cae13ea37e43d80bef9c44d1078d05206",
   "result": "PASS",
-  "grade": "PASS"
+  "grade": "PASS",
+  "published_at": "2026-10-07T00:26:46+00:00"
 }
