@@ -39,9 +39,9 @@ FUTURE = '2026-10-04T00:00:00Z'   # writer-lock còn tươi
 MATRIX_CSV = (
     'id,status,title,intent,primary_keyword,expected_url,slug,'
     'repair_count,notes\n'
-    'BLG-00001,PLANNED,Tiêu đề 1,informative,từ khóa 1,/blog/a/,a,0,\n'
-    'BLG-00002,PLANNED,Tiêu đề 2,informative,từ khóa 2,/blog/b/,b,0,\n'
-    'BLG-00003,PUBLISHED,Tiêu đề 3,informative,từ khóa 3,/blog/c/,c,0,\n'
+    'BLG-00001,PLANNED,Tiêu đề 1,informative,từ khóa 1,/a/,a,0,\n'
+    'BLG-00002,PLANNED,Tiêu đề 2,informative,từ khóa 2,/b/,b,0,\n'
+    'BLG-00003,PUBLISHED,Tiêu đề 3,informative,từ khóa 3,/c/,c,0,\n'
 )
 
 
