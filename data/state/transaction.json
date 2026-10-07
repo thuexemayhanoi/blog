@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-06T22:19:41+00:00",
+  "updated_at": "2026-10-07T00:25:56+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01441",
-      "started_at": "2026-10-06T20:21:43+00:00",
-      "source": "_drafts/2026-10-05-chay-xe-may-cuoi-tuan-en-ba-vi-can-chuan-bi-gi.md",
-      "destination": "_posts/2026-10-05-chay-xe-may-cuoi-tuan-en-ba-vi-can-chuan-bi-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "508d70090a6bbc8853a8a1cbfc238ec0c81abc6e",
-      "finished_at": "2026-10-06T20:21:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01442",
       "started_at": "2026-10-06T20:34:35+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "ed832533f868f26cd1a34544b0d7adce1aed8f0c",
       "finished_at": "2026-10-06T22:19:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01467",
+      "started_at": "2026-10-07T00:25:56+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-mot-tuan-nen-kiem-tra-xe-o-giua-ky-khong.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-mot-tuan-nen-kiem-tra-xe-o-giua-ky-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "7d38bb7e409cc8979dbb8a09f501edfe122f6b1c",
+      "finished_at": "2026-10-07T00:25:56+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
