@@ -7,7 +7,7 @@ description: "Lên cầu Long Biên ngắm hoàng hôn xe máy được không, 
 categories: [Kinh nghiệm]
 lang: vi
 tags: [cầu Long Biên ngắm hoàng hôn xe máy, hoàng hôn cầu Long Biên, đi cầu Long Biên bằng xe máy, thuê xe máy Hà Nội]
-permalink: /du-lic/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/
+permalink: /du-lich/2026/10/07/i-cau-long-bien-ngam-hoang-hon-bang-xe-may-co-uoc-khong/
 parent_id: P-DU-LICH
 child_id: C-DIEM-DEN
 article_id: BLG-01489
@@ -28,7 +28,7 @@ Cầu được xây dựng từ đầu thế kỷ hai mươi và đã qua nhiề
 
 Khung cảnh hoàng hôn cầu Long Biên đẹp nhất là khoảng ba mươi phút cuối cùng trước khi mặt trời khuất, khi ánh sáng ngả vàng và đổ dài lên mặt sông. Đứng ở khoảng giữa cầu, nhìn về phía thượng nguồn, bạn thấy mặt sông Hồng rộng loang màu; nhìn về phía hạ nguồn là các cây cầu mới nằm dài trên chân trời. Cuối mùa khô, bãi bồi lộ rộng và ánh nắng trên cát càng cho bức ảnh đẹp.
 
-Nếu đi buổi sáng sớm, cầu lại mang một gương mặt khác: sương, tiếng rao và nhịp sống phố cổ ven cầu. Quãng đi từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm được kể chi tiết trong bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/blog/du-lic/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), cho bạn cái nhìn trước để rút ra khung giờ hợp với sở thích chụp ảnh của mình.
+Nếu đi buổi sáng sớm, cầu lại mang một gương mặt khác: sương, tiếng rao và nhịp sống phố cổ ven cầu. Quãng đi từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm được kể chi tiết trong bài [từ Bồ Đề sang phố cổ qua cầu Long Biên lúc sáng sớm](/blog/du-lich/2026/10/04/tu-bo-e-sang-pho-co-qua-cau-long-bien-luc-sang-som/), cho bạn cái nhìn trước để rút ra khung giờ hợp với sở thích chụp ảnh của mình.
 
 ## Giờ vàng, thời tiết và những gì nên chuẩn bị
 
@@ -44,6 +44,6 @@ Một lộ trình gợi ý sẵn cho buổi chiều: nhận xe khoảng bốn gi
 
 Một chi tiết cuối cho buổi tối trở về: sau khi mặt trời lặn, đèn đường quanh ga Long Biên thưa hơn mặt đường lớn, nên nếu bạn về muộn, chọn tuyến Nguyễn Văn Cừ thẳng thay vì cắt qua các ngõ nhỏ, vừa đủ sáng vừa dễ định hướng. Mũ bảo hiểm không chỉ là yêu cầu mà còn giữ ấm cho bạn khi gió sông lên về đêm, nhất là các tháng cuối năm ở Hà Nội.
 
-Nếu bạn muốn biến buổi chiều thành trọn một buổi dạo, hướng đi tiếp là dọc sông qua các tuyến đường ven bờ, nơi nhiều điểm ngắm sông khác ở phía Yên Phụ và vùng Hồ Tây nối tiếp nhau về chiều tối. Các gợi ý lộ trình và điểm dừng khác của chuyên mục được tổng hợp tại trang [du lịch Hà Nội bằng xe máy](/blog/du-lic/).
+Nếu bạn muốn biến buổi chiều thành trọn một buổi dạo, hướng đi tiếp là dọc sông qua các tuyến đường ven bờ, nơi nhiều điểm ngắm sông khác ở phía Yên Phụ và vùng Hồ Tây nối tiếp nhau về chiều tối. Các gợi ý lộ trình và điểm dừng khác của chuyên mục được tổng hợp tại trang [du lịch Hà Nội bằng xe máy](/blog/du-lich/).
 
 Với khách ở khu Long Biên, Thuê Xe Máy Hà Nội Nguyễn Tú tại 112 Nguyễn Văn Cừ, phường Bồ Đề, Hà Nội mở cửa từ 09:00 đến 21:00, điện thoại 0942 467 674; hãy gọi trước buổi chiều để nhận xe đã kiểm tra và hỏi trước về việc giữ xe nếu bạn dự định về muộn hơn giờ đóng cửa.
