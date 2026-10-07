@@ -14,7 +14,7 @@ article_id: BLG-01476
 writer: W1
 ---
 
-Bạn định đi chùa Hương, đi các tỉnh ven sông Hồng hoặc đơn giản là băng qua một bến phà nhỏ ở ngoại thành, và chiếc xe bạn đang đi là xe máy điện thuê. Câu hỏi xe điện thuê qua phà có được không xuất hiện rất tự nhiên, vì xe điện khác xe xăng ở两点 quan trọng: pin và quãng đường giới hạn. Câu trả lời ngắn gọn là được, xe máy điện vẫn là xe hai bánh nên được đưa lên phà như xe máy thông thường, nhưng bạn cần chuẩn bị thêm vài điểm để chuyến đi qua phà không gặp rắc rối với chiếc xe thuê.
+Bạn định đi chùa Hương, đi các tỉnh ven sông Hồng hoặc đơn giản là băng qua một bến phà nhỏ ở ngoại thành, và chiếc xe bạn đang đi là xe máy điện thuê. Câu hỏi xe điện thuê qua phà có được không xuất hiện rất tự nhiên, vì xe điện khác xe xăng ở hai điểm quan trọng: pin và quãng đường giới hạn. Câu trả lời ngắn gọn là được, xe máy điện vẫn là xe hai bánh nên được đưa lên phà như xe máy thông thường, nhưng bạn cần chuẩn bị thêm vài điểm để chuyến đi qua phà không gặp rắc rối với chiếc xe thuê.
 
 ## Quy định chung khi đưa xe hai bánh lên phà
 
@@ -33,7 +33,8 @@ Những quy tắc này áp dụng như nhau cho xe số, xe ga và xe máy đi�
 
 Đây là điểm quan trọng nhất, thậm chí quan trọng hơn chuyện lên phà. Quãng đường đến bến phà, thời gian chờ phà và tiếp tục di chuyển sau phà cộng lại thường xa hơn quãng đi làm hằng ngày. Bạn nên:
 
-- Xem mức pin hiện có và ước lượng tổng quãng đường cả đi lẫn về.
+- Xem mức pin hi
+ện có và ước lượng tổng quãng đường cả đi lẫn về.
 - Chỉ đi khi pin đủ cho toàn bộ hành trình hoặc đã biết rõ điểm sạc ở đích.
 - Hỏi trước chủ xe về quãng đường thực tế của chiếc xe mình thuê, vì mỗi dòng xe máy điện có mức pin khác nhau.
 
@@ -41,7 +42,7 @@ Nếu bạn còn lạ với việc dùng xe điện hàng ngày, bài [thuê xe 
 
 ### 2. Bảo vệ cụm pin và ổ sạc khi lên xuống phà
 
-Bến phà thường có dốc chữ T trơn ướt, nhất là mùa mưa hoặc thu水位 sông lên. Với xe điện:
+Bến phà thường có dốc chữ T trơn ướt, nhất là mùa mưa hoặc khi mực nước sông lên. Với xe điện:
 
 - Lên xuống dốc bằng tốc độ thấp đều, không phanh gấp giữa dốc.
 - Tránh để nước tràn vào cụm pin và ổ sạc nếu bến ngập nước vũng.
@@ -64,7 +65,8 @@ Vì xe là xe thuê, ngoài chuyện qua phà bạn cần chốt vài điều v�
 
 Những câu này thuộc nhóm thủ tục thuê xe, bạn có thể xem trước phần [thủ tục thuê xe máy](/blog/thue-xe/thu-tuc/) để không bỏ sót khi đứng ở cửa hàng. Với giá thuê xe máy điện, hiện tại cần liên hệ trực tiếp để xác nhận theo tình trạng xe và thời gian thuê.
 
-## Trường hợp nào không nên đưa xe điện thuê qua phà
+## Trường hợp nào không nên đưa xe 
+điện thuê qua phà
 
 Trung thực mà nói, có vài tình huống xe điện không phải lựa chọn tốt cho hành trình có phà:
 
