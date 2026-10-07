@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-07T10:48:09+00:00",
+  "updated_at": "2026-10-07T10:51:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01493",
-      "started_at": "2026-10-07T10:06:27+00:00",
-      "source": "_drafts/2026-10-07-i-xe-may-ham-ca-vang-ho-tay-co-cho-o-khong.md",
-      "destination": "_posts/2026-10-07-i-xe-may-ham-ca-vang-ho-tay-co-cho-o-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0cd1f2c1c34087c2db4d846b81abb0d784446d1e",
-      "finished_at": "2026-10-07T10:06:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01494",
-      "started_at": "2026-10-07T10:08:49+00:00",
-      "source": "_drafts/2026-10-07-sang-som-cho-long-bien-co-gi-ang-i-bang-xe-may.md",
-      "destination": "_posts/2026-10-07-sang-som-cho-long-bien-co-gi-ang-i-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "12d58941f2b42146d2d9158ba865984f4a831b17",
-      "finished_at": "2026-10-07T10:08:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01495",
       "started_at": "2026-10-07T10:08:49+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "4b979312c816f7742fa9900816612ab6b7aea7ca",
       "finished_at": "2026-10-07T10:48:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01518",
+      "started_at": "2026-10-07T10:51:16+00:00",
+      "source": "_drafts/2026-10-07-chon-xe-may-thue-cho-nguoi-hay-i-hai-nguoi.md",
+      "destination": "_posts/2026-10-07-chon-xe-may-thue-cho-nguoi-hay-i-hai-nguoi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a35a22dbfe697873c638ca156b1869ded1c74307",
+      "finished_at": "2026-10-07T10:51:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01519",
+      "started_at": "2026-10-07T10:51:16+00:00",
+      "source": "_drafts/2026-10-07-xe-thue-en-pha-yeu-luc-em-xu-ly-ra-sao.md",
+      "destination": "_posts/2026-10-07-xe-thue-en-pha-yeu-luc-em-xu-ly-ra-sao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a35a22dbfe697873c638ca156b1869ded1c74307",
+      "finished_at": "2026-10-07T10:51:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
