@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T02:39:56+00:00",
+  "updated_at": "2026-10-08T02:48:48+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01549",
-      "started_at": "2026-10-07T13:07:39+00:00",
-      "source": "_drafts/2026-10-07-xe-50cc-cho-hai-nguoi-co-uoc-khong.md",
-      "destination": "_posts/2026-10-07-xe-50cc-cho-hai-nguoi-co-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f49937edeb2876b654dd7b099ea3fa6a8455a331",
-      "finished_at": "2026-10-07T13:07:39+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01550",
-      "started_at": "2026-10-07T13:09:52+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-ien-i-cac-tinh-lan-can-co-tien-khong.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-ien-i-cac-tinh-lan-can-co-tien-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ad77eb70ae208166fb5494f2cca796cfc91cbf99",
-      "finished_at": "2026-10-07T13:09:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01551",
       "started_at": "2026-10-07T13:09:52+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "5db9c8279bd2a75bb67443df522d8afe71d1ce06",
       "finished_at": "2026-10-08T02:39:56+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01574",
+      "started_at": "2026-10-08T02:48:48+00:00",
+      "source": "_drafts/2026-10-07-cao-nguyen-a-ong-van-chay-xe-may-luu-y-gi.md",
+      "destination": "_posts/2026-10-07-cao-nguyen-a-ong-van-chay-xe-may-luu-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f633b4b1c3dfaa7fe490bda6a62217c3f21aa8e1",
+      "finished_at": "2026-10-08T02:48:48+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01575",
+      "started_at": "2026-10-08T02:48:48+00:00",
+      "source": "_drafts/2026-10-07-e-xe-may-thue-luc-lanh-may-kieu-gi-cho-de.md",
+      "destination": "_posts/2026-10-07-e-xe-may-thue-luc-lanh-may-kieu-gi-cho-de.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f633b4b1c3dfaa7fe490bda6a62217c3f21aa8e1",
+      "finished_at": "2026-10-08T02:48:48+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
