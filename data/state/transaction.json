@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T13:26:18+00:00",
+  "updated_at": "2026-10-08T13:34:30+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01619",
-      "started_at": "2026-10-08T08:27:52+00:00",
-      "source": "_drafts/2026-10-07-so-sanh-thue-xe-tuan-va-thue-hai-lan-ba-ngay.md",
-      "destination": "_posts/2026-10-07-so-sanh-thue-xe-tuan-va-thue-hai-lan-ba-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3d6a0c5473ae46ad5587b6549402b5c23fa6d0eb",
-      "finished_at": "2026-10-08T08:27:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01620",
-      "started_at": "2026-10-08T11:36:53+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-theo-tuan-cho-ot-hoi-cho-cuoi-nam.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-theo-tuan-cho-ot-hoi-cho-cuoi-nam.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2a3d9360f347847e503ed37cd38421585c0fadd4",
-      "finished_at": "2026-10-08T11:36:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01621",
       "started_at": "2026-10-08T11:36:53+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "a5f76e2cd8bbef39340fb706e155e7b5efa630b1",
       "finished_at": "2026-10-08T13:26:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01644",
+      "started_at": "2026-10-08T13:34:30+00:00",
+      "source": "_drafts/2026-10-07-xe-thue-bi-ket-chan-chong-giua-uong.md",
+      "destination": "_posts/2026-10-07-xe-thue-bi-ket-chan-chong-giua-uong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45f1d828346c4bc8a09bedafd6194c70940886cc",
+      "finished_at": "2026-10-08T13:34:30+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01645",
+      "started_at": "2026-10-08T13:34:30+00:00",
+      "source": "_drafts/2026-10-07-xe-may-thue-bi-cho-uoi-tren-uong-que-xu-ly-sao.md",
+      "destination": "_posts/2026-10-07-xe-may-thue-bi-cho-uoi-tren-uong-que-xu-ly-sao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45f1d828346c4bc8a09bedafd6194c70940886cc",
+      "finished_at": "2026-10-08T13:34:30+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
