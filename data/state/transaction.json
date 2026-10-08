@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T12:20:08+00:00",
+  "updated_at": "2026-10-08T12:29:54+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01607",
-      "started_at": "2026-10-08T07:20:14+00:00",
-      "source": "_drafts/2026-10-07-at-xe-may-thue-cho-hai-ia-iem-khac-nhau-trong-tuan.md",
-      "destination": "_posts/2026-10-07-at-xe-may-thue-cho-hai-ia-iem-khac-nhau-trong-tuan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "072f12e4d9997246628623740b2de7f568c4f4cf",
-      "finished_at": "2026-10-08T07:20:14+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01608",
-      "started_at": "2026-10-08T07:30:29+00:00",
-      "source": "_drafts/2026-10-07-hop-ong-thue-xe-may-co-can-cong-chung-khong.md",
-      "destination": "_posts/2026-10-07-hop-ong-thue-xe-may-co-can-cong-chung-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4440ad028006c041d44dbee798ef1e4d2c0dc2c2",
-      "finished_at": "2026-10-08T07:30:29+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01609",
       "started_at": "2026-10-08T07:30:29+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "11d9cb3833b9a5aee8dc727f6818122730ccd40c",
       "finished_at": "2026-10-08T12:20:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01632",
+      "started_at": "2026-10-08T12:29:54+00:00",
+      "source": "_drafts/2026-10-07-khach-quoc-te-tra-xe-ngoai-gio-nen-bo-tri-ra-sao.md",
+      "destination": "_posts/2026-10-07-khach-quoc-te-tra-xe-ngoai-gio-nen-bo-tri-ra-sao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "aa80bee75ed596378af67f3a8c623ceab5d1e359",
+      "finished_at": "2026-10-08T12:29:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01633",
+      "started_at": "2026-10-08T12:29:54+00:00",
+      "source": "_drafts/2026-10-07-ho-chieu-va-visa-khi-khach-quoc-te-thue-xe-may.md",
+      "destination": "_posts/2026-10-07-ho-chieu-va-visa-khi-khach-quoc-te-thue-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "aa80bee75ed596378af67f3a8c623ceab5d1e359",
+      "finished_at": "2026-10-08T12:29:54+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
