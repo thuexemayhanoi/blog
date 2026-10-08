@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T02:48:48+00:00",
+  "updated_at": "2026-10-08T02:56:39+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01551",
-      "started_at": "2026-10-07T13:09:52+00:00",
-      "source": "_drafts/2026-10-07-pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho.md",
-      "destination": "_posts/2026-10-07-pin-xe-may-ien-thue-bao-sap-o-au-tren-bang-ong-ho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ad77eb70ae208166fb5494f2cca796cfc91cbf99",
-      "finished_at": "2026-10-07T13:09:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01552",
-      "started_at": "2026-10-07T20:39:27+00:00",
-      "source": "_drafts/2026-10-07-xe-may-ien-thue-chay-luc-mua-co-an-toan-khong.md",
-      "destination": "_posts/2026-10-07-xe-may-ien-thue-chay-luc-mua-co-an-toan-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f0cac9133abc8786df1bd1a356e28061b9e7f49d",
-      "finished_at": "2026-10-07T20:39:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01553",
       "started_at": "2026-10-07T20:39:27+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f633b4b1c3dfaa7fe490bda6a62217c3f21aa8e1",
       "finished_at": "2026-10-08T02:48:48+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01576",
+      "started_at": "2026-10-08T02:56:39+00:00",
+      "source": "_drafts/2026-10-07-giu-khoang-cach-an-toan-voi-xe-phia-truoc-the-nao.md",
+      "destination": "_posts/2026-10-07-giu-khoang-cach-an-toan-voi-xe-phia-truoc-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "dcbe5d7babdeeb37affb3f2ec7850480a4fab52e",
+      "finished_at": "2026-10-08T02:56:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01577",
+      "started_at": "2026-10-08T02:56:39+00:00",
+      "source": "_drafts/2026-10-07-xe-phia-truoc-phanh-gap-minh-phan-ung-ra-sao.md",
+      "destination": "_posts/2026-10-07-xe-phia-truoc-phanh-gap-minh-phan-ung-ra-sao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "dcbe5d7babdeeb37affb3f2ec7850480a4fab52e",
+      "finished_at": "2026-10-08T02:56:39+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
