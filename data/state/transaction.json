@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T06:03:06+00:00",
+  "updated_at": "2026-10-08T06:14:07+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01567",
-      "started_at": "2026-10-07T21:43:10+00:00",
-      "source": "_drafts/2026-10-07-chay-xe-may-trong-ham-co-quy-inh-rieng-gi.md",
-      "destination": "_posts/2026-10-07-chay-xe-may-trong-ham-co-quy-inh-rieng-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d01b4b217f0e719473c92d4e4f883a38b4a25a13",
-      "finished_at": "2026-10-07T21:43:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01568",
-      "started_at": "2026-10-07T21:52:05+00:00",
-      "source": "_drafts/2026-10-07-tre-em-ngoi-tren-xe-may-can-ieu-kien-gi.md",
-      "destination": "_posts/2026-10-07-tre-em-ngoi-tren-xe-may-can-ieu-kien-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3e4df4eb469b309b35a75d93735b39018bcb6025",
-      "finished_at": "2026-10-07T21:52:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01569",
       "started_at": "2026-10-07T21:52:06+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "9f32da7ceb661617fca3e4fec0de2d407f18026b",
       "finished_at": "2026-10-08T06:03:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01592",
+      "started_at": "2026-10-08T06:14:07+00:00",
+      "source": "_drafts/2026-10-07-sinh-vien-thue-xe-may-can-luu-y-gi.md",
+      "destination": "_posts/2026-10-07-sinh-vien-thue-xe-may-can-luu-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "aca0638329eb25c6a4a4bfb52619a025128c8dc0",
+      "finished_at": "2026-10-08T06:14:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01593",
+      "started_at": "2026-10-08T06:14:07+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-quanh-cau-giay-i-noi-thanh-co-thuan-tien-khong.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-quanh-cau-giay-i-noi-thanh-co-thuan-tien-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "aca0638329eb25c6a4a4bfb52619a025128c8dc0",
+      "finished_at": "2026-10-08T06:14:07+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
