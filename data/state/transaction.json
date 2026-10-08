@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T02:29:47+00:00",
+  "updated_at": "2026-10-08T02:39:56+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01547",
-      "started_at": "2026-10-07T13:04:05+00:00",
-      "source": "_drafts/2026-10-07-cho-e-o-duoi-yen-xe-ga-thue-cho-uoc-nhung-gi.md",
-      "destination": "_posts/2026-10-07-cho-e-o-duoi-yen-xe-ga-thue-cho-uoc-nhung-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "acd9724ed754357ccdd13fe530e6735a2e4c87f5",
-      "finished_at": "2026-10-07T13:04:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01548",
-      "started_at": "2026-10-07T13:07:39+00:00",
-      "source": "_drafts/2026-10-07-xe-50cc-thue-co-can-giay-phep-lai-khong.md",
-      "destination": "_posts/2026-10-07-xe-50cc-thue-co-can-giay-phep-lai-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f49937edeb2876b654dd7b099ea3fa6a8455a331",
-      "finished_at": "2026-10-07T13:07:39+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01549",
       "started_at": "2026-10-07T13:07:39+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "ba1a8a21fd8e866c0e0a9dc62e884d779ffba1cf",
       "finished_at": "2026-10-08T02:29:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01572",
+      "started_at": "2026-10-08T02:39:56+00:00",
+      "source": "_drafts/2026-10-07-tu-ha-noi-thue-xe-may-i-moc-chau-nen-i-may-ngay.md",
+      "destination": "_posts/2026-10-07-tu-ha-noi-thue-xe-may-i-moc-chau-nen-i-may-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5db9c8279bd2a75bb67443df522d8afe71d1ce06",
+      "finished_at": "2026-10-08T02:39:56+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01573",
+      "started_at": "2026-10-08T02:39:56+00:00",
+      "source": "_drafts/2026-10-07-khung-thoi-gian-ep-trong-nam-e-chay-cung-ha-giang.md",
+      "destination": "_posts/2026-10-07-khung-thoi-gian-ep-trong-nam-e-chay-cung-ha-giang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5db9c8279bd2a75bb67443df522d8afe71d1ce06",
+      "finished_at": "2026-10-08T02:39:56+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
