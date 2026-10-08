@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T08:05:18+00:00",
+  "updated_at": "2026-10-08T08:13:37+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01589",
-      "started_at": "2026-10-08T05:55:45+00:00",
-      "source": "_drafts/2026-10-07-hoi-nguoi-cao-tuoi-nen-thue-loai-xe-may-nao.md",
-      "destination": "_posts/2026-10-07-hoi-nguoi-cao-tuoi-nen-thue-loai-xe-may-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "28275ade886cd3b42b1f02b1fe59bc70213ee1b2",
-      "finished_at": "2026-10-08T05:55:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01590",
-      "started_at": "2026-10-08T06:03:06+00:00",
-      "source": "_drafts/2026-10-07-hoi-lop-xe-thue-bi-thung-co-uoc-va-o-tiem-gan-nhat-khong.md",
-      "destination": "_posts/2026-10-07-hoi-lop-xe-thue-bi-thung-co-uoc-va-o-tiem-gan-nhat-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9f32da7ceb661617fca3e4fec0de2d407f18026b",
-      "finished_at": "2026-10-08T06:03:06+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01591",
       "started_at": "2026-10-08T06:03:06+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "69fbf85bea2a22d45f7cbb48a2a4c60d2d09eef4",
       "finished_at": "2026-10-08T08:05:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01614",
+      "started_at": "2026-10-08T08:13:37+00:00",
+      "source": "_drafts/2026-10-07-mot-ngay-thue-xe-may-ket-hop-cho-hoa-va-vuon-cay.md",
+      "destination": "_posts/2026-10-07-mot-ngay-thue-xe-may-ket-hop-cho-hoa-va-vuon-cay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "13562558e2ac837691d4ba705c6c188faa9be0e1",
+      "finished_at": "2026-10-08T08:13:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01615",
+      "started_at": "2026-10-08T08:13:37+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-mot-ngay-i-uong-phap-van-nen-chuan-bi-gi.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-mot-ngay-i-uong-phap-van-nen-chuan-bi-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "13562558e2ac837691d4ba705c6c188faa9be0e1",
+      "finished_at": "2026-10-08T08:13:37+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
