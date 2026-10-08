@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T03:12:53+00:00",
+  "updated_at": "2026-10-08T03:20:37+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01557",
-      "started_at": "2026-10-07T20:59:17+00:00",
-      "source": "_drafts/2026-10-07-yamaha-sirius-thue-cho-nang-co-on-khong.md",
-      "destination": "_posts/2026-10-07-yamaha-sirius-thue-cho-nang-co-on-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "abf1e5f8e40dac28e34a8386e7193c0e9e7764b6",
-      "finished_at": "2026-10-07T20:59:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01558",
-      "started_at": "2026-10-07T21:07:32+00:00",
-      "source": "_drafts/2026-10-07-xe-thue-lau-ngay-khong-bao-duong-co-sao-khong.md",
-      "destination": "_posts/2026-10-07-xe-thue-lau-ngay-khong-bao-duong-co-sao-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "03fdea2e9c3b7e77cc7a7ab71940673ae5124990",
-      "finished_at": "2026-10-07T21:07:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01559",
       "started_at": "2026-10-07T21:07:33+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "13921a1528a708cb87cc19363b1245a6e42f5072",
       "finished_at": "2026-10-08T03:12:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01582",
+      "started_at": "2026-10-08T03:20:36+00:00",
+      "source": "_drafts/2026-10-07-buoc-thung-giay-len-yen-sau-kieu-gi-cho-chac.md",
+      "destination": "_posts/2026-10-07-buoc-thung-giay-len-yen-sau-kieu-gi-cho-chac.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a77acf51725bf0c25f105c1407e26070615d9de7",
+      "finished_at": "2026-10-08T03:20:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01583",
+      "started_at": "2026-10-08T03:20:37+00:00",
+      "source": "_drafts/2026-10-07-gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi.md",
+      "destination": "_posts/2026-10-07-gui-xe-may-thue-o-bai-giu-xe-qua-em-luu-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a77acf51725bf0c25f105c1407e26070615d9de7",
+      "finished_at": "2026-10-08T03:20:37+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
