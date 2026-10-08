@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T12:29:54+00:00",
+  "updated_at": "2026-10-08T12:39:25+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01609",
-      "started_at": "2026-10-08T07:30:29+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-cho-nguoi-duoi-18-tuoi-uoc-khong.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-cho-nguoi-duoi-18-tuoi-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4440ad028006c041d44dbee798ef1e4d2c0dc2c2",
-      "finished_at": "2026-10-08T07:30:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01610",
-      "started_at": "2026-10-08T07:42:44+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-mot-ngay-i-lang-gom-bat-trang.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-mot-ngay-i-lang-gom-bat-trang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d37f26740f5458bee2a6047f3c7b9ef929aa4552",
-      "finished_at": "2026-10-08T07:42:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01611",
       "started_at": "2026-10-08T07:42:44+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "aa80bee75ed596378af67f3a8c623ceab5d1e359",
       "finished_at": "2026-10-08T12:29:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01634",
+      "started_at": "2026-10-08T12:39:25+00:00",
+      "source": "_drafts/2026-10-07-tra-xe-may-thue-o-ia-iem-khac-noi-nhan-co-uoc-khong.md",
+      "destination": "_posts/2026-10-07-tra-xe-may-thue-o-ia-iem-khac-noi-nhan-co-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d1c6a5fbd11d565086dd281989b665b83c0f3e78",
+      "finished_at": "2026-10-08T12:39:25+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01635",
+      "started_at": "2026-10-08T12:39:25+00:00",
+      "source": "_drafts/2026-10-07-kiem-tra-cop-xe-ga-truoc-khi-nhan-xe-thue.md",
+      "destination": "_posts/2026-10-07-kiem-tra-cop-xe-ga-truoc-khi-nhan-xe-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d1c6a5fbd11d565086dd281989b665b83c0f3e78",
+      "finished_at": "2026-10-08T12:39:25+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
