@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T07:42:44+00:00",
+  "updated_at": "2026-10-08T08:05:18+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01587",
-      "started_at": "2026-10-08T05:46:14+00:00",
-      "source": "_drafts/2026-10-07-hoi-thue-xe-may-khong-co-cmnd-co-uoc-khong.md",
-      "destination": "_posts/2026-10-07-hoi-thue-xe-may-khong-co-cmnd-co-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6658c5e8535c3b826b2f7dd465f95d0a2be00022",
-      "finished_at": "2026-10-08T05:46:14+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01588",
-      "started_at": "2026-10-08T05:55:45+00:00",
-      "source": "_drafts/2026-10-07-hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong.md",
-      "destination": "_posts/2026-10-07-hoi-au-xe-may-tren-via-he-co-bi-xu-ly-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "28275ade886cd3b42b1f02b1fe59bc70213ee1b2",
-      "finished_at": "2026-10-08T05:55:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01589",
       "started_at": "2026-10-08T05:55:45+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "d37f26740f5458bee2a6047f3c7b9ef929aa4552",
       "finished_at": "2026-10-08T07:42:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01612",
+      "started_at": "2026-10-08T08:05:18+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-mot-ngay-vi-vu-ven-e-song-hong.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-mot-ngay-vi-vu-ven-e-song-hong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "69fbf85bea2a22d45f7cbb48a2a4c60d2d09eef4",
+      "finished_at": "2026-10-08T08:05:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01613",
+      "started_at": "2026-10-08T08:05:18+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-trong-ngay-cho-buoi-chup-anh-ngoai-thanh.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-trong-ngay-cho-buoi-chup-anh-ngoai-thanh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "69fbf85bea2a22d45f7cbb48a2a4c60d2d09eef4",
+      "finished_at": "2026-10-08T08:05:18+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
