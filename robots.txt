@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://blog.thuexemaynguyentu.com/sitemap.xml
-Sitemap: https://blog.thuexemaynguyentu.com/sitemap_index.xml
