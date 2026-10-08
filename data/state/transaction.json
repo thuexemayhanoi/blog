@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T08:13:37+00:00",
+  "updated_at": "2026-10-08T08:21:12+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01591",
-      "started_at": "2026-10-08T06:03:06+00:00",
-      "source": "_drafts/2026-10-07-hoi-lan-au-thue-xe-may-nen-i-au-thu-xe.md",
-      "destination": "_posts/2026-10-07-hoi-lan-au-thue-xe-may-nen-i-au-thu-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9f32da7ceb661617fca3e4fec0de2d407f18026b",
-      "finished_at": "2026-10-08T06:03:06+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01592",
-      "started_at": "2026-10-08T06:14:07+00:00",
-      "source": "_drafts/2026-10-07-sinh-vien-thue-xe-may-can-luu-y-gi.md",
-      "destination": "_posts/2026-10-07-sinh-vien-thue-xe-may-can-luu-y-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "aca0638329eb25c6a4a4bfb52619a025128c8dc0",
-      "finished_at": "2026-10-08T06:14:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01593",
       "started_at": "2026-10-08T06:14:07+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "13562558e2ac837691d4ba705c6c188faa9be0e1",
       "finished_at": "2026-10-08T08:13:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01616",
+      "started_at": "2026-10-08T08:21:12+00:00",
+      "source": "_drafts/2026-10-07-thue-xe-may-theo-tuan-khi-en-ha-noi-hoc-buoi-gioi-thieu.md",
+      "destination": "_posts/2026-10-07-thue-xe-may-theo-tuan-khi-en-ha-noi-hoc-buoi-gioi-thieu.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6d286bd6e6db1fc3c5cadf492d1f61952f2df85a",
+      "finished_at": "2026-10-08T08:21:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01617",
+      "started_at": "2026-10-08T08:21:12+00:00",
+      "source": "_drafts/2026-10-07-ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu.md",
+      "destination": "_posts/2026-10-07-ke-hoach-xang-va-lop-cho-tuan-thue-xe-may-i-nhieu.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6d286bd6e6db1fc3c5cadf492d1f61952f2df85a",
+      "finished_at": "2026-10-08T08:21:12+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
