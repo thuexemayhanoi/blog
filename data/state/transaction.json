@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-08T12:10:22+00:00",
+  "updated_at": "2026-10-08T12:20:08+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01605",
-      "started_at": "2026-10-08T07:09:22+00:00",
-      "source": "_drafts/2026-10-07-cua-hang-cho-thue-xe-can-thong-tin-gi-khi-khach-goi-at.md",
-      "destination": "_posts/2026-10-07-cua-hang-cho-thue-xe-can-thong-tin-gi-khi-khach-goi-at.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c821f888de268d98c9dd1ac086fa89491609e2e2",
-      "finished_at": "2026-10-08T07:09:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01606",
-      "started_at": "2026-10-08T07:20:14+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-can-ai-i-ky-hop-ong.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-can-ai-i-ky-hop-ong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "072f12e4d9997246628623740b2de7f568c4f4cf",
-      "finished_at": "2026-10-08T07:20:14+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01607",
       "started_at": "2026-10-08T07:20:14+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "3a79f311a0178564e1d0152703267e4f4e470cfa",
       "finished_at": "2026-10-08T12:10:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01630",
+      "started_at": "2026-10-08T12:20:08+00:00",
+      "source": "_drafts/2026-10-07-at-coc-cao-vi-xe-moi-con-nguyen-tem.md",
+      "destination": "_posts/2026-10-07-at-coc-cao-vi-xe-moi-con-nguyen-tem.md",
+      "result": "PUBLISHED",
+      "commit_sha": "11d9cb3833b9a5aee8dc727f6818122730ccd40c",
+      "finished_at": "2026-10-08T12:20:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01631",
+      "started_at": "2026-10-08T12:20:08+00:00",
+      "source": "_drafts/2026-10-07-khach-quoc-te-thue-xe-may-can-thong-dich-the-nao.md",
+      "destination": "_posts/2026-10-07-khach-quoc-te-thue-xe-may-can-thong-dich-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "11d9cb3833b9a5aee8dc727f6818122730ccd40c",
+      "finished_at": "2026-10-08T12:20:08+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
