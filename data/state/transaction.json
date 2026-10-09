@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T12:20:00+00:00",
+  "updated_at": "2026-10-09T12:22:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01665",
-      "started_at": "2026-10-09T05:49:22+00:00",
-      "source": "_drafts/2026-10-09-xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong.md",
-      "destination": "_posts/2026-10-09-xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "793420d95126a4b207f036d561db174380af2ab1",
-      "finished_at": "2026-10-09T05:49:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01666",
-      "started_at": "2026-10-09T05:51:08+00:00",
-      "source": "_drafts/2026-10-09-xe-ap-ien-thue-co-cho-uoc-hai-bao-o-khong.md",
-      "destination": "_posts/2026-10-09-xe-ap-ien-thue-co-cho-uoc-hai-bao-o-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d9f12ec0a07a1fd3a684789acae59857820c7d86",
-      "finished_at": "2026-10-09T05:51:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01667",
       "started_at": "2026-10-09T05:51:08+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f10f7b63b489d2f83612ffb325edc6eff8db74a8",
       "finished_at": "2026-10-09T12:20:00+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01690",
+      "started_at": "2026-10-09T12:22:16+00:00",
+      "source": "_drafts/2026-10-09-bao-hiem-xe-thue-co-san-khi-nhan-xe-khong.md",
+      "destination": "_posts/2026-10-09-bao-hiem-xe-thue-co-san-khi-nhan-xe-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c2a74c0271ec26802810062bae3c5d1c82db865c",
+      "finished_at": "2026-10-09T12:22:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01691",
+      "started_at": "2026-10-09T12:22:16+00:00",
+      "source": "_drafts/2026-10-09-tai-nan-voi-xe-thue-bao-hiem-lo-phan-nao.md",
+      "destination": "_posts/2026-10-09-tai-nan-voi-xe-thue-bao-hiem-lo-phan-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c2a74c0271ec26802810062bae3c5d1c82db865c",
+      "finished_at": "2026-10-09T12:22:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
