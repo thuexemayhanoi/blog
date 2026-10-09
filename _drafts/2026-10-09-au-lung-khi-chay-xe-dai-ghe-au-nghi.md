@@ -48,6 +48,8 @@ Ghế dừng là điểm nghỉ lý tưởng trên quốc lộ, có bóng mát, 
 
 Quãng nghỉ lý tưởng còn tùy thời tiết, trời nắng gắt thì chọn điểm có mái và uống nhiều hơn, trời lạnh thì duỗi ở chỗ kín gió. Lưng phục hồi nhanh hay chậm phụ thuộc cả nhiệt độ quanh cơ thể.
 
+Mức nghỉ hợp lý còn tùy thể trạng từng người, bạn nên tham khảo thêm các khuyến cáo chính thống về hoạt động thể chất trên cổng thông tin của [Bộ Y tế](https://moh.gov.vn/) để đối chiếu với cảm giác cơ thể mình. Nguồn nhà nước đưa ra mốc tham chiếu rõ ràng hơn hẳn các mẹo lan truyền thiếu kiểm chứng.
+
 Duỗi người trước khi lên xe là thói quen đáng rèn. Chạm mũi chân, gập nhẹ về trước vài nhịp, xoay hông, mỗi động tác nhỏ giúp nhóm cơ lưng nóng lên trước khi tiếp tục chịu tải.
 
 Bạn tránh ngồi hẳn xuống nền lạnh quá lâu ở điểm nghỉ. Cơ lưng vừa nóng vừa ưỡn mà ngồi nền lạnh thì dễ co cứng lại, ghế kê cao hơn nền là lựa chọn đúng hơn.
@@ -59,6 +61,8 @@ Bữa trước chuyến đi cũng đáng để ý, bạn ăn vừa phải và tr
 Nếu lưng đã đau âm ỉ giữa đường, bạn rút ngắn quãng nghỉ lại, tăng số lần dừng, và chấp nhận về trễ. Cố về sớm mà ngồi cứng trên yên là cách biến cơn mỏi thành cơn đau thật.
 
 Chặng về tới nơi, bạn đừng nằm ngay xuống giường mà đi bộ nhẹ một quãng ngắn. Đi bộ giúp cơ lưng hạ nhiệt độ từ từ, và giấc ngủ sau đó mới thực sự hồi phục cho bạn.
+
+Toàn bộ chia sẻ trên chỉ mang tính tham khảo cho người chạy xe đường trường, giới hạn nghỉ ngơi cụ thể có thể thay đổi theo tuổi, thể trạng và tiền sử bệnh của mỗi người. Nếu cơn đau lưng kéo dài nhiều ngày dù đã nghỉ đúng cách, bạn nên đi khám sớm thay vì tự chịu đựng.
 
 ## Chốt lại
 
