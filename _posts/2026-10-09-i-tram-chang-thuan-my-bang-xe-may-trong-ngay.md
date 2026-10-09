@@ -48,7 +48,8 @@ Nơi đến và ven đường có các quán ăn dân dã quanh khu: đồ nư�
 
 Nước mang theo từ hai chai trở lên cho mỗi người, vì nắng đồi và quãng đi bộ khiến khách khát nhanh hơn tưởng tượng. Các điểm ven đường có hàng nước, nhưng giá nhỉnh hơn, và tự mang vẫn chủ động nhất.
 
-Trưa nồm... 
+Buổi trưa nên dành cho phần nghỉ dài nhất trong ngày, ngồi dưới bóng cây quanh khu, tránh chạy xe giữa trưa nắng gắt. Cách chia ngày như vậy giữ sức cho cả quãng về, hơn hẳn cố gộp hành trình vào một mạch.
+
 Về chiều, bạn khởi hành trước lúc trời ngả tối để không phải chạy đoạn đường đồi trong mờ. Đoạn về thường nhanh hơn vì đã quen tay, nhưng đừng chủ quan, cuối ngày mắt dễ mỏi và các khúc cua vẫn y nguyên.
 
 ## An toàn khi chạy xe đường dài trong ngày
