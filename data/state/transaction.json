@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T12:36:52+00:00",
+  "updated_at": "2026-10-09T14:26:42+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01671",
-      "started_at": "2026-10-09T05:57:22+00:00",
-      "source": "_drafts/2026-10-09-honda-vision-thue-cho-nguoi-moi-tap-chay-ga.md",
-      "destination": "_posts/2026-10-09-honda-vision-thue-cho-nguoi-moi-tap-chay-ga.md",
-      "result": "PUBLISHED",
-      "commit_sha": "883a4f16e20acf1946c6475cde1e931136ae3cb4",
-      "finished_at": "2026-10-09T05:57:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01672",
-      "started_at": "2026-10-09T05:58:53+00:00",
-      "source": "_drafts/2026-10-09-honda-vision-thue-e-i-lam-giua-pho-co-loi-gi.md",
-      "destination": "_posts/2026-10-09-honda-vision-thue-e-i-lam-giua-pho-co-loi-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "05e8358da067986a65de1948fe155926c5ab6722",
-      "finished_at": "2026-10-09T05:58:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01673",
       "started_at": "2026-10-09T05:58:53+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0c19f496b9ee8c8f8b92d9e7b86ca2b26168b02e",
       "finished_at": "2026-10-09T12:36:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01696",
+      "started_at": "2026-10-09T14:26:42+00:00",
+      "source": "_drafts/2026-10-09-uong-uu-tien-va-xe-may-thue-i-ung-lan-nao.md",
+      "destination": "_posts/2026-10-09-uong-uu-tien-va-xe-may-thue-i-ung-lan-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0f74ea8e12a6379189c2e86e752ee38bee8b34d5",
+      "finished_at": "2026-10-09T14:26:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01697",
+      "started_at": "2026-10-09T14:26:42+00:00",
+      "source": "_drafts/2026-10-09-bien-bao-cam-xe-may-gap-khi-i-pho-co-xu-ly-sao.md",
+      "destination": "_posts/2026-10-09-bien-bao-cam-xe-may-gap-khi-i-pho-co-xu-ly-sao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0f74ea8e12a6379189c2e86e752ee38bee8b34d5",
+      "finished_at": "2026-10-09T14:26:42+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
