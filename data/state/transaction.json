@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T14:33:55+00:00",
+  "updated_at": "2026-10-09T14:36:22+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01677",
-      "started_at": "2026-10-09T06:02:28+00:00",
-      "source": "_drafts/2026-10-09-honda-click-thue-cho-khach-thich-xe-nho-gon.md",
-      "destination": "_posts/2026-10-09-honda-click-thue-cho-khach-thich-xe-nho-gon.md",
-      "result": "PUBLISHED",
-      "commit_sha": "57aa20ab21f959fc6fda7cb155f1a1e4b7015811",
-      "finished_at": "2026-10-09T06:02:28+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01678",
-      "started_at": "2026-10-09T06:04:51+00:00",
-      "source": "_drafts/2026-10-09-honda-click-thue-co-vu-khi-len-cau-khong.md",
-      "destination": "_posts/2026-10-09-honda-click-thue-co-vu-khi-len-cau-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c48238787cc9da75d36a1ba212a6b48363611fa1",
-      "finished_at": "2026-10-09T06:04:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01679",
       "started_at": "2026-10-09T06:04:51+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "d6e7e1515f6df9f6cc2831d626df5792ab5993ad",
       "finished_at": "2026-10-09T14:33:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01702",
+      "started_at": "2026-10-09T14:36:22+00:00",
+      "source": "_drafts/2026-10-09-xe-may-thue-uoc-cho-tre-em-duoi-bao-nhieu-tuoi.md",
+      "destination": "_posts/2026-10-09-xe-may-thue-uoc-cho-tre-em-duoi-bao-nhieu-tuoi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "09146022e1fe8ad9f1a847f81cb28c412b2b8292",
+      "finished_at": "2026-10-09T14:36:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01703",
+      "started_at": "2026-10-09T14:36:22+00:00",
+      "source": "_drafts/2026-10-09-toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi.md",
+      "destination": "_posts/2026-10-09-toc-o-toi-a-cho-xe-may-trong-pho-cu-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "09146022e1fe8ad9f1a847f81cb28c412b2b8292",
+      "finished_at": "2026-10-09T14:36:22+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
