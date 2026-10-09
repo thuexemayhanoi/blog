@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:00:22+00:00",
+  "updated_at": "2026-10-09T16:19:29+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01735",
-      "started_at": "2026-10-09T15:19:25+00:00",
-      "source": "_drafts/2026-10-09-eo-thung-khe-moc-chau-chay-xe-may-can-than-gi.md",
-      "destination": "_posts/2026-10-09-eo-thung-khe-moc-chau-chay-xe-may-can-than-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "054e3396526495253ce44cba298f935466155661",
-      "finished_at": "2026-10-09T15:19:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01736",
       "started_at": "2026-10-09T15:22:01+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "61d8d0b62f15395ad3096ae4ba54afd5322fe4ec",
       "finished_at": "2026-10-09T16:00:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01761",
+      "started_at": "2026-10-09T16:19:29+00:00",
+      "source": "_drafts/2026-10-09-au-lung-khi-chay-xe-dai-ghe-au-nghi.md",
+      "destination": "_posts/2026-10-09-au-lung-khi-chay-xe-dai-ghe-au-nghi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8f76bcb7f5f1cdf985b675b8997bb87866609d51",
+      "finished_at": "2026-10-09T16:19:29+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

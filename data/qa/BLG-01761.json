@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01761",
   "title": "Đau lưng khi chạy xe dài ghé đâu nghỉ",
-  "scored_at": "2026-10-09T16:16:52+00:00",
+  "scored_at": "2026-10-09T16:19:27+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -31,10 +31,10 @@
     "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true,
-    "legal_source": false,
-    "legal_disclaimer": false
+    "legal_source": true,
+    "legal_disclaimer": true
   },
-  "word_count": 1070,
+  "word_count": 1191,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -46,11 +46,12 @@
   "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
-  "legal": "FAIL",
+  "legal": "PASS",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-09-au-lung-khi-chay-xe-dai-ghe-au-nghi.md",
-  "content_sha256": "986424ed45f85f1839f55fe70786f1c84eede2f2685f23299ba9782d41f6a5d9",
-  "matrix_row_sha256": "3b8fb736bb66ecd80c62242c3b75b62116fd786376cb5bdf1d28292d88574897",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-09-au-lung-khi-chay-xe-dai-ghe-au-nghi.md",
+  "content_sha256": "0ca3aab1e781450c408bac39410a6faf172e0eebf4e1a7ca483837cd24b48bab",
+  "matrix_row_sha256": "99d5e8ee4cc0008a7c2b5400a3e4b5112a61f4c14b5ed48050e5ac532296c618",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-09T16:19:29+00:00"
 }
