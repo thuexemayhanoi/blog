@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T15:33:54+00:00",
+  "updated_at": "2026-10-09T15:35:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01719",
-      "started_at": "2026-10-09T14:59:33+00:00",
-      "source": "_drafts/2026-10-09-ngam-cau-long-bien-luc-binh-minh-bang-xe-may.md",
-      "destination": "_posts/2026-10-09-ngam-cau-long-bien-luc-binh-minh-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cd9bac1a5100f38d4cb62416ac2698c96df5b617",
-      "finished_at": "2026-10-09T14:59:33+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01720",
-      "started_at": "2026-10-09T15:01:42+00:00",
-      "source": "_drafts/2026-10-09-cho-au-moi-long-bien-i-xe-may-luc-may-gio.md",
-      "destination": "_posts/2026-10-09-cho-au-moi-long-bien-i-xe-may-luc-may-gio.md",
-      "result": "PUBLISHED",
-      "commit_sha": "fdc0e57a41c4044d6d9da1eb70f10f531a0b1eb9",
-      "finished_at": "2026-10-09T15:01:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01721",
       "started_at": "2026-10-09T15:01:43+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "43e5ecbf64d62bc9102f5509e8de1e50d5f7c6b6",
       "finished_at": "2026-10-09T15:33:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01744",
+      "started_at": "2026-10-09T15:35:46+00:00",
+      "source": "_drafts/2026-10-09-nhin-guong-truoc-khi-mo-cua-vao-ngo.md",
+      "destination": "_posts/2026-10-09-nhin-guong-truoc-khi-mo-cua-vao-ngo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "74b8ef7e909da4c64967e6c6c6a7b152b5c3ec9e",
+      "finished_at": "2026-10-09T15:35:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01745",
+      "started_at": "2026-10-09T15:35:46+00:00",
+      "source": "_drafts/2026-10-09-xe-bus-chen-sat-ngang-xu-ly-the-nao.md",
+      "destination": "_posts/2026-10-09-xe-bus-chen-sat-ngang-xu-ly-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "74b8ef7e909da4c64967e6c6c6a7b152b5c3ec9e",
+      "finished_at": "2026-10-09T15:35:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
