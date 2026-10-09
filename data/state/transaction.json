@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T15:54:30+00:00",
+  "updated_at": "2026-10-09T15:56:20+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01729",
-      "started_at": "2026-10-09T15:12:15+00:00",
-      "source": "_drafts/2026-10-09-ha-noi-i-ho-quan-son-qua-em-bang-xe-may.md",
-      "destination": "_posts/2026-10-09-ha-noi-i-ho-quan-son-qua-em-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "87cf2f93c5152f6927576119960681f889aff00d",
-      "finished_at": "2026-10-09T15:12:15+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01730",
-      "started_at": "2026-10-09T15:13:58+00:00",
-      "source": "_drafts/2026-10-09-ha-noi-i-suoi-hai-ho-ong-mo-chay-xe-may.md",
-      "destination": "_posts/2026-10-09-ha-noi-i-suoi-hai-ho-ong-mo-chay-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4d1aa6e12a78f7a48a908632041459fdcda62b2f",
-      "finished_at": "2026-10-09T15:13:58+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01731",
       "started_at": "2026-10-09T15:13:58+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0b7370d16224e1f405348a3d32edfc0d2ffd0048",
       "finished_at": "2026-10-09T15:54:30+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01754",
+      "started_at": "2026-10-09T15:56:20+00:00",
+      "source": "_drafts/2026-10-09-buoc-bich-o-phia-sau-yen-xe-ga-khong-che-en.md",
+      "destination": "_posts/2026-10-09-buoc-bich-o-phia-sau-yen-xe-ga-khong-che-en.md",
+      "result": "PUBLISHED",
+      "commit_sha": "201e5bdd051e0e1e36b679c774031ee1651a6041",
+      "finished_at": "2026-10-09T15:56:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01755",
+      "started_at": "2026-10-09T15:56:20+00:00",
+      "source": "_drafts/2026-10-09-cho-chim-canh-va-cay-kieng-bang-xe-may-uoc-khong.md",
+      "destination": "_posts/2026-10-09-cho-chim-canh-va-cay-kieng-bang-xe-may-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "201e5bdd051e0e1e36b679c774031ee1651a6041",
+      "finished_at": "2026-10-09T15:56:20+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

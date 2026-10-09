@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 102
   size: 12
-  total: 1221
+  total: 1223
 chia-se:
   pages: 10
   size: 12
@@ -41,9 +41,9 @@ topic:
     size: 24
     total: 25
   ky-nang_cho-do-va-hanh-ly:
-    pages: 2
+    pages: 3
     size: 24
-    total: 47
+    total: 49
   ky-nang_ky-nang-lai-co-ban:
     pages: 3
     size: 24
