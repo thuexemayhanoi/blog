@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T14:26:42+00:00",
+  "updated_at": "2026-10-09T14:30:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01673",
-      "started_at": "2026-10-09T05:58:53+00:00",
-      "source": "_drafts/2026-10-09-cop-honda-vision-thue-chua-uoc-nhung-gi.md",
-      "destination": "_posts/2026-10-09-cop-honda-vision-thue-chua-uoc-nhung-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "05e8358da067986a65de1948fe155926c5ab6722",
-      "finished_at": "2026-10-09T05:58:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01674",
-      "started_at": "2026-10-09T06:00:44+00:00",
-      "source": "_drafts/2026-10-09-honda-air-blade-thue-cho-nguoi-thich-ga-manh.md",
-      "destination": "_posts/2026-10-09-honda-air-blade-thue-cho-nguoi-thich-ga-manh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ae91093dedff8f8552a90840f32127338ba021cf",
-      "finished_at": "2026-10-09T06:00:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01675",
       "started_at": "2026-10-09T06:00:44+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "0f74ea8e12a6379189c2e86e752ee38bee8b34d5",
       "finished_at": "2026-10-09T14:26:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01698",
+      "started_at": "2026-10-09T14:30:36+00:00",
+      "source": "_drafts/2026-10-09-mang-ban-sao-cccd-thay-ban-chinh-khi-thue-xe-uoc-khong.md",
+      "destination": "_posts/2026-10-09-mang-ban-sao-cccd-thay-ban-chinh-khi-thue-xe-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "68cc9db26c5eaa3c79ecfa3f30dfb5a58b84eb3b",
+      "finished_at": "2026-10-09T14:30:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01699",
+      "started_at": "2026-10-09T14:30:36+00:00",
+      "source": "_drafts/2026-10-09-e-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao.md",
+      "destination": "_posts/2026-10-09-e-quen-giay-to-tren-xe-thue-giua-ky-lay-lai-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "68cc9db26c5eaa3c79ecfa3f30dfb5a58b84eb3b",
+      "finished_at": "2026-10-09T14:30:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
