@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:46:26+00:00",
+  "updated_at": "2026-10-09T16:48:22+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01755",
-      "started_at": "2026-10-09T15:56:20+00:00",
-      "source": "_drafts/2026-10-09-cho-chim-canh-va-cay-kieng-bang-xe-may-uoc-khong.md",
-      "destination": "_posts/2026-10-09-cho-chim-canh-va-cay-kieng-bang-xe-may-uoc-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "201e5bdd051e0e1e36b679c774031ee1651a6041",
-      "finished_at": "2026-10-09T15:56:20+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01756",
-      "started_at": "2026-10-09T15:58:23+00:00",
-      "source": "_drafts/2026-10-09-hanh-ly-ve-que-chia-lam-hai-tui-can-oi.md",
-      "destination": "_posts/2026-10-09-hanh-ly-ve-que-chia-lam-hai-tui-can-oi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "fbf1b09290d568936e3824b241c40ee5a5afd490",
-      "finished_at": "2026-10-09T15:58:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01757",
       "started_at": "2026-10-09T15:58:23+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "649a44d0e4b0d0ac84d4af5f1a7c1400cfbd15ba",
       "finished_at": "2026-10-09T16:46:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01780",
+      "started_at": "2026-10-09T16:48:22+00:00",
+      "source": "_drafts/2026-10-09-i-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong.md",
+      "destination": "_posts/2026-10-09-i-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8a98a7d487f8c6e8a008d1ae6763d6eaf95a9fe7",
+      "finished_at": "2026-10-09T16:48:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01781",
+      "started_at": "2026-10-09T16:48:22+00:00",
+      "source": "_drafts/2026-10-09-thue-xe-may-quanh-ben-xe-my-inh-tien-cho-chuyen-i.md",
+      "destination": "_posts/2026-10-09-thue-xe-may-quanh-ben-xe-my-inh-tien-cho-chuyen-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8a98a7d487f8c6e8a008d1ae6763d6eaf95a9fe7",
+      "finished_at": "2026-10-09T16:48:22+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
