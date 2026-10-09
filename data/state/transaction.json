@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T06:04:51+00:00",
+  "updated_at": "2026-10-09T06:06:30+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01655",
-      "started_at": "2026-10-09T04:51:19+00:00",
-      "source": "_drafts/2026-10-09-xe-50cc-thue-cho-hoc-sinh-i-hoc-them-co-phu-hop.md",
-      "destination": "_posts/2026-10-09-xe-50cc-thue-cho-hoc-sinh-i-hoc-them-co-phu-hop.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9bf3437723a700a9b8f5a4da890ba9e5a59319af",
-      "finished_at": "2026-10-09T04:51:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01656",
-      "started_at": "2026-10-09T05:05:46+00:00",
-      "source": "_drafts/2026-10-09-xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay.md",
-      "destination": "_posts/2026-10-09-xe-50cc-thue-chay-uoc-quang-uong-nao-trong-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e8758c9d4952bf70477f1cd0c5d595f9a74805d4",
-      "finished_at": "2026-10-09T05:05:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01657",
       "started_at": "2026-10-09T05:05:47+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c48238787cc9da75d36a1ba212a6b48363611fa1",
       "finished_at": "2026-10-09T06:04:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01680",
+      "started_at": "2026-10-09T06:06:30+00:00",
+      "source": "_drafts/2026-10-09-yamaha-sirius-thue-voi-honda-wave-khac-nhau-the-nao.md",
+      "destination": "_posts/2026-10-09-yamaha-sirius-thue-voi-honda-wave-khac-nhau-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e476e3d41202626bd7d7695c27275131c14cbfc3",
+      "finished_at": "2026-10-09T06:06:30+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01681",
+      "started_at": "2026-10-09T06:06:30+00:00",
+      "source": "_drafts/2026-10-09-yamaha-sirius-thue-chay-viec-giao-hang-hop-khong.md",
+      "destination": "_posts/2026-10-09-yamaha-sirius-thue-chay-viec-giao-hang-hop-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e476e3d41202626bd7d7695c27275131c14cbfc3",
+      "finished_at": "2026-10-09T06:06:30+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
