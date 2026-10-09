@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:40:44+00:00",
+  "updated_at": "2026-10-09T16:42:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01751",
-      "started_at": "2026-10-09T15:49:31+00:00",
-      "source": "_drafts/2026-10-09-ngay-au-ong-gio-lanh-ve-chay-xe-mac-gi.md",
-      "destination": "_posts/2026-10-09-ngay-au-ong-gio-lanh-ve-chay-xe-mac-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cd130944ddbf6afe6d315f19172493472a42c8b6",
-      "finished_at": "2026-10-09T15:49:31+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01752",
-      "started_at": "2026-10-09T15:54:30+00:00",
-      "source": "_drafts/2026-10-09-sau-mua-lon-i-tranh-oan-nuoc-ong-nao.md",
-      "destination": "_posts/2026-10-09-sau-mua-lon-i-tranh-oan-nuoc-ong-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "0b7370d16224e1f405348a3d32edfc0d2ffd0048",
-      "finished_at": "2026-10-09T15:54:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01753",
       "started_at": "2026-10-09T15:54:30+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "bdccf1a44fd19e0675a3f647338dba28245368e3",
       "finished_at": "2026-10-09T16:40:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01776",
+      "started_at": "2026-10-09T16:42:52+00:00",
+      "source": "_drafts/2026-10-09-thue-xe-may-cho-bac-si-truc-ca-em-can-luu-y-gi.md",
+      "destination": "_posts/2026-10-09-thue-xe-may-cho-bac-si-truc-ca-em-can-luu-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "27a2a7c833355db37ce4e2e5ef2738bc53ea964f",
+      "finished_at": "2026-10-09T16:42:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01777",
+      "started_at": "2026-10-09T16:42:53+00:00",
+      "source": "_drafts/2026-10-09-thue-xe-may-cho-nguoi-ban-hang-rong-di-chuyen.md",
+      "destination": "_posts/2026-10-09-thue-xe-may-cho-nguoi-ban-hang-rong-di-chuyen.md",
+      "result": "PUBLISHED",
+      "commit_sha": "27a2a7c833355db37ce4e2e5ef2738bc53ea964f",
+      "finished_at": "2026-10-09T16:42:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
