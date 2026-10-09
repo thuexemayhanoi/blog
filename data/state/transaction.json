@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T12:17:31+00:00",
+  "updated_at": "2026-10-09T12:20:00+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01663",
-      "started_at": "2026-10-09T05:33:23+00:00",
-      "source": "_drafts/2026-10-09-thay-oi-cach-lai-tu-xe-xang-sang-xe-ien-thue.md",
-      "destination": "_posts/2026-10-09-thay-oi-cach-lai-tu-xe-xang-sang-xe-ien-thue.md",
-      "result": "PUBLISHED",
-      "commit_sha": "160edfdcf91c8a00003317604d4acd8e7014d0ea",
-      "finished_at": "2026-10-09T05:33:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01664",
-      "started_at": "2026-10-09T05:49:22+00:00",
-      "source": "_drafts/2026-10-09-xe-ap-ien-thue-i-cho-au-ngay-hop-khong.md",
-      "destination": "_posts/2026-10-09-xe-ap-ien-thue-i-cho-au-ngay-hop-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "793420d95126a4b207f036d561db174380af2ab1",
-      "finished_at": "2026-10-09T05:49:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01665",
       "started_at": "2026-10-09T05:49:22+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "2faf0cbd4e76883e5fcfe1389cbfe3d080448689",
       "finished_at": "2026-10-09T12:17:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01688",
+      "started_at": "2026-10-09T12:20:00+00:00",
+      "source": "_drafts/2026-10-09-hang-a1-lai-uoc-nhung-loai-xe-may-nao.md",
+      "destination": "_posts/2026-10-09-hang-a1-lai-uoc-nhung-loai-xe-may-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f10f7b63b489d2f83612ffb325edc6eff8db74a8",
+      "finished_at": "2026-10-09T12:20:00+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01689",
+      "started_at": "2026-10-09T12:20:00+00:00",
+      "source": "_drafts/2026-10-09-thi-bang-lai-a1-trong-luc-chua-co-xe-co-nen-thue-khong.md",
+      "destination": "_posts/2026-10-09-thi-bang-lai-a1-trong-luc-chua-co-xe-co-nen-thue-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f10f7b63b489d2f83612ffb325edc6eff8db74a8",
+      "finished_at": "2026-10-09T12:20:00+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
