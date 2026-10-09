@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 100
   size: 12
-  total: 1191
+  total: 1193
 chia-se:
   pages: 10
   size: 12
@@ -68,6 +68,10 @@ topic:
     pages: 2
     size: 24
     total: 28
+  du-lich_ngoai-thanh:
+    pages: 2
+    size: 24
+    total: 25
   an-toan-phap-ly_quy-dinh-giao-thong:
     pages: 2
     size: 24
