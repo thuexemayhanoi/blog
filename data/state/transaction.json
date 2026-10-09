@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:36:42+00:00",
+  "updated_at": "2026-10-09T16:38:37+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01747",
-      "started_at": "2026-10-09T15:43:04+00:00",
-      "source": "_drafts/2026-10-09-i-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao.md",
-      "destination": "_posts/2026-10-09-i-sau-xe-tai-hit-bui-va-chan-tam-nhin-xu-ly-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ec3092cf93b1249155e4bc53b98d796dcaa0a302",
-      "finished_at": "2026-10-09T15:43:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01748",
-      "started_at": "2026-10-09T15:46:25+00:00",
-      "source": "_drafts/2026-10-09-tinh-huong-xe-nguoc-chieu-vao-lam-uong-mot-chieu.md",
-      "destination": "_posts/2026-10-09-tinh-huong-xe-nguoc-chieu-vao-lam-uong-mot-chieu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e595171e14042aa4322c21ef451fc45b9467003a",
-      "finished_at": "2026-10-09T15:46:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01749",
       "started_at": "2026-10-09T15:46:25+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "5eaf11f74251e6263ddb40880e45a1646655f073",
       "finished_at": "2026-10-09T16:36:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01772",
+      "started_at": "2026-10-09T16:38:37+00:00",
+      "source": "_drafts/2026-10-09-xe-thue-het-binh-ac-quy-ai-thay.md",
+      "destination": "_posts/2026-10-09-xe-thue-het-binh-ac-quy-ai-thay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "81313cea105cb877f127adf925807d9c41c9f2ba",
+      "finished_at": "2026-10-09T16:38:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01773",
+      "started_at": "2026-10-09T16:38:37+00:00",
+      "source": "_drafts/2026-10-09-xe-thue-phanh-yeu-bao-cua-hang-ngay-khong.md",
+      "destination": "_posts/2026-10-09-xe-thue-phanh-yeu-bao-cua-hang-ngay-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "81313cea105cb877f127adf925807d9c41c9f2ba",
+      "finished_at": "2026-10-09T16:38:37+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
