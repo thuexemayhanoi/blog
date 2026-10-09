@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:34:02+00:00",
+  "updated_at": "2026-10-09T16:36:42+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01745",
-      "started_at": "2026-10-09T15:35:46+00:00",
-      "source": "_drafts/2026-10-09-xe-bus-chen-sat-ngang-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-09-xe-bus-chen-sat-ngang-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "74b8ef7e909da4c64967e6c6c6a7b152b5c3ec9e",
-      "finished_at": "2026-10-09T15:35:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01746",
-      "started_at": "2026-10-09T15:43:03+00:00",
-      "source": "_drafts/2026-10-09-qua-nga-tu-khong-en-o-khi-en-hong-theo-quy-tac-nao.md",
-      "destination": "_posts/2026-10-09-qua-nga-tu-khong-en-o-khi-en-hong-theo-quy-tac-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ec3092cf93b1249155e4bc53b98d796dcaa0a302",
-      "finished_at": "2026-10-09T15:43:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01747",
       "started_at": "2026-10-09T15:43:04+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c4a38db0f1d9339cc3ccf6bc09c386a7cc7aa406",
       "finished_at": "2026-10-09T16:34:02+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01770",
+      "started_at": "2026-10-09T16:36:42+00:00",
+      "source": "_drafts/2026-10-09-nguoi-cao-lon-nen-thue-xe-ga-nao.md",
+      "destination": "_posts/2026-10-09-nguoi-cao-lon-nen-thue-xe-ga-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5eaf11f74251e6263ddb40880e45a1646655f073",
+      "finished_at": "2026-10-09T16:36:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01771",
+      "started_at": "2026-10-09T16:36:42+00:00",
+      "source": "_drafts/2026-10-09-thue-xe-ga-hay-xe-so-i-pho-cho-nhe-nhang.md",
+      "destination": "_posts/2026-10-09-thue-xe-ga-hay-xe-so-i-pho-cho-nhe-nhang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5eaf11f74251e6263ddb40880e45a1646655f073",
+      "finished_at": "2026-10-09T16:36:42+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
