@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T15:13:58+00:00",
+  "updated_at": "2026-10-09T15:15:50+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01707",
-      "started_at": "2026-10-09T14:41:30+00:00",
-      "source": "_drafts/2026-10-09-tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au.md",
-      "destination": "_posts/2026-10-09-tham-chua-tran-quoc-bang-xe-may-cho-gui-xe-o-au.md",
-      "result": "PUBLISHED",
-      "commit_sha": "815741413f95037bd4e93ad85500849178d4e0fd",
-      "finished_at": "2026-10-09T14:41:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01708",
-      "started_at": "2026-10-09T14:45:32+00:00",
-      "source": "_drafts/2026-10-09-chay-xe-may-en-vuon-ao-phu-ong-mua-tet.md",
-      "destination": "_posts/2026-10-09-chay-xe-may-en-vuon-ao-phu-ong-mua-tet.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4de560dcb9d02ab82b10cfac4754bf7a9a58b45f",
-      "finished_at": "2026-10-09T14:45:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01709",
       "started_at": "2026-10-09T14:45:32+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "4d1aa6e12a78f7a48a908632041459fdcda62b2f",
       "finished_at": "2026-10-09T15:13:58+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01732",
+      "started_at": "2026-10-09T15:15:50+00:00",
+      "source": "_drafts/2026-10-09-chang-quoc-lo-6-sau-xuan-mai-chay-xe-may-luu-y-gi.md",
+      "destination": "_posts/2026-10-09-chang-quoc-lo-6-sau-xuan-mai-chay-xe-may-luu-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "eeffe2028de69b773645335ecd0eef110dec2433",
+      "finished_at": "2026-10-09T15:15:50+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01733",
+      "started_at": "2026-10-09T15:15:50+00:00",
+      "source": "_drafts/2026-10-09-ngu-mai-chau-gui-xe-o-homestay-the-nao.md",
+      "destination": "_posts/2026-10-09-ngu-mai-chau-gui-xe-o-homestay-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "eeffe2028de69b773645335ecd0eef110dec2433",
+      "finished_at": "2026-10-09T15:15:50+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
