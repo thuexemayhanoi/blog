@@ -71,3 +71,4 @@ Ba câu đáng nhớ:
 - Đồ quý mang lên nhà, chụp ảnh vị trí xe kèm số cột để khỏi phải tìm.
 
 Hầm chung cư tiện nhưng đòi hỏi bạn tôn trọng nếp của cả khu. Bạn đi chậm, để đúng chỗ và giữ đèn rõ, thế là chiếc [xe máy](/xe-may/) của bạn nằm gọn dưới hầm như một cư dân thực thụ của tòa nhà.
+
