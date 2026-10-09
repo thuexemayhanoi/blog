@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T15:30:05+00:00",
+  "updated_at": "2026-10-09T15:33:54+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01717",
-      "started_at": "2026-10-09T14:57:36+00:00",
-      "source": "_drafts/2026-10-09-xem-hoang-hon-tren-cau-nhat-tan-bang-xe-may.md",
-      "destination": "_posts/2026-10-09-xem-hoang-hon-tren-cau-nhat-tan-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "516aaaa079ea58bd0e98fa91f2c00f2480172fec",
-      "finished_at": "2026-10-09T14:57:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01718",
-      "started_at": "2026-10-09T14:59:32+00:00",
-      "source": "_drafts/2026-10-09-i-cho-hoa-quang-an-bang-xe-may-sang-som.md",
-      "destination": "_posts/2026-10-09-i-cho-hoa-quang-an-bang-xe-may-sang-som.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cd9bac1a5100f38d4cb62416ac2698c96df5b617",
-      "finished_at": "2026-10-09T14:59:33+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01719",
       "started_at": "2026-10-09T14:59:33+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "4db9428c4255c394aa4c823520c404d28b1f90d3",
       "finished_at": "2026-10-09T15:30:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01742",
+      "started_at": "2026-10-09T15:33:54+00:00",
+      "source": "_drafts/2026-10-09-e-chan-ung-con-khi-ngang-doc-xe-so-thue.md",
+      "destination": "_posts/2026-10-09-e-chan-ung-con-khi-ngang-doc-xe-so-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "43e5ecbf64d62bc9102f5509e8de1e50d5f7c6b6",
+      "finished_at": "2026-10-09T15:33:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01743",
+      "started_at": "2026-10-09T15:33:54+00:00",
+      "source": "_drafts/2026-10-09-quay-au-xe-may-o-ngo-nho-co-cach-nao-gon.md",
+      "destination": "_posts/2026-10-09-quay-au-xe-may-o-ngo-nho-co-cach-nao-gon.md",
+      "result": "PUBLISHED",
+      "commit_sha": "43e5ecbf64d62bc9102f5509e8de1e50d5f7c6b6",
+      "finished_at": "2026-10-09T15:33:54+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
