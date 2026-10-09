@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T05:57:22+00:00",
+  "updated_at": "2026-10-09T05:58:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01647",
-      "started_at": "2026-10-09T04:11:36+00:00",
-      "source": "_drafts/2026-10-09-xe-so-thue-cho-nguoi-chan-ngan-nen-chon-may-nao.md",
-      "destination": "_posts/2026-10-09-xe-so-thue-cho-nguoi-chan-ngan-nen-chon-may-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7522dce134d208d0e2b8f39c059ae6db96602542",
-      "finished_at": "2026-10-09T04:11:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01648",
-      "started_at": "2026-10-09T04:21:32+00:00",
-      "source": "_drafts/2026-10-09-cach-vao-so-mot-cua-xe-so-thue-khi-khoi-hanh-ngang-doc.md",
-      "destination": "_posts/2026-10-09-cach-vao-so-mot-cua-xe-so-thue-khi-khoi-hanh-ngang-doc.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a0793cc74ed820d8c5be7471b6b175d6fcbd4408",
-      "finished_at": "2026-10-09T04:21:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01649",
       "started_at": "2026-10-09T04:21:32+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "883a4f16e20acf1946c6475cde1e931136ae3cb4",
       "finished_at": "2026-10-09T05:57:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01672",
+      "started_at": "2026-10-09T05:58:53+00:00",
+      "source": "_drafts/2026-10-09-honda-vision-thue-e-i-lam-giua-pho-co-loi-gi.md",
+      "destination": "_posts/2026-10-09-honda-vision-thue-e-i-lam-giua-pho-co-loi-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05e8358da067986a65de1948fe155926c5ab6722",
+      "finished_at": "2026-10-09T05:58:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01673",
+      "started_at": "2026-10-09T05:58:53+00:00",
+      "source": "_drafts/2026-10-09-cop-honda-vision-thue-chua-uoc-nhung-gi.md",
+      "destination": "_posts/2026-10-09-cop-honda-vision-thue-chua-uoc-nhung-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05e8358da067986a65de1948fe155926c5ab6722",
+      "finished_at": "2026-10-09T05:58:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
