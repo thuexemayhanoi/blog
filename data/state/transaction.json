@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T05:33:23+00:00",
+  "updated_at": "2026-10-09T05:49:22+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01639",
-      "started_at": "2026-10-08T13:03:05+00:00",
-      "source": "_drafts/2026-10-07-chup-video-xe-khi-nhan-va-tra-co-hon-chup-anh-khong.md",
-      "destination": "_posts/2026-10-07-chup-video-xe-khi-nhan-va-tra-co-hon-chup-anh-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "561428ff96978bbb47b115be757facfd3df349c0",
-      "finished_at": "2026-10-08T13:03:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01640",
-      "started_at": "2026-10-08T13:14:23+00:00",
-      "source": "_drafts/2026-10-07-nhan-xe-may-thue-giua-trua-nang-gat-can-kiem-tra-gi.md",
-      "destination": "_posts/2026-10-07-nhan-xe-may-thue-giua-trua-nang-gat-can-kiem-tra-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "421638847c38ae41c7ab61d1e234e35718e52f34",
-      "finished_at": "2026-10-08T13:14:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01641",
       "started_at": "2026-10-08T13:14:23+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "160edfdcf91c8a00003317604d4acd8e7014d0ea",
       "finished_at": "2026-10-09T05:33:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01664",
+      "started_at": "2026-10-09T05:49:22+00:00",
+      "source": "_drafts/2026-10-09-xe-ap-ien-thue-i-cho-au-ngay-hop-khong.md",
+      "destination": "_posts/2026-10-09-xe-ap-ien-thue-i-cho-au-ngay-hop-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "793420d95126a4b207f036d561db174380af2ab1",
+      "finished_at": "2026-10-09T05:49:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01665",
+      "started_at": "2026-10-09T05:49:22+00:00",
+      "source": "_drafts/2026-10-09-xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong.md",
+      "destination": "_posts/2026-10-09-xe-ap-ien-thue-co-can-oi-mu-bao-hiem-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "793420d95126a4b207f036d561db174380af2ab1",
+      "finished_at": "2026-10-09T05:49:22+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
