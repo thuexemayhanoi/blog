@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T04:21:32+00:00",
+  "updated_at": "2026-10-09T04:31:39+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01625",
-      "started_at": "2026-10-08T11:49:22+00:00",
-      "source": "_drafts/2026-10-07-thue-xe-may-theo-thang-cho-vo-chong-cung-i-lam.md",
-      "destination": "_posts/2026-10-07-thue-xe-may-theo-thang-cho-vo-chong-cung-i-lam.md",
-      "result": "PUBLISHED",
-      "commit_sha": "51ef86cdfe6e60e3749d5d4bcebe2af84aaa0abf",
-      "finished_at": "2026-10-08T11:49:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01626",
-      "started_at": "2026-10-08T11:59:40+00:00",
-      "source": "_drafts/2026-10-07-xe-thue-theo-thang-hong-giua-thang-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-07-xe-thue-theo-thang-hong-giua-thang-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "17edb8c5ebfb5849733d2b96e8991a6d5a6b360c",
-      "finished_at": "2026-10-08T11:59:40+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01627",
       "started_at": "2026-10-08T11:59:40+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "a0793cc74ed820d8c5be7471b6b175d6fcbd4408",
       "finished_at": "2026-10-09T04:21:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01650",
+      "started_at": "2026-10-09T04:31:39+00:00",
+      "source": "_drafts/2026-10-09-tiet-kiem-xang-voi-xe-so-thue-bang-cach-nao.md",
+      "destination": "_posts/2026-10-09-tiet-kiem-xang-voi-xe-so-thue-bang-cach-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f3e36ed2617ab34e8e955c72009e6a0aa301ab6b",
+      "finished_at": "2026-10-09T04:31:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01651",
+      "started_at": "2026-10-09T04:31:39+00:00",
+      "source": "_drafts/2026-10-09-xe-ga-thue-cho-nguoi-hay-i-hai-nguoi-nen-chon-may-nao.md",
+      "destination": "_posts/2026-10-09-xe-ga-thue-cho-nguoi-hay-i-hai-nguoi-nen-chon-may-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f3e36ed2617ab34e8e955c72009e6a0aa301ab6b",
+      "finished_at": "2026-10-09T04:31:39+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
