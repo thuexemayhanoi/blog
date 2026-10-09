@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T15:12:15+00:00",
+  "updated_at": "2026-10-09T15:13:58+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01705",
-      "started_at": "2026-10-09T14:38:43+00:00",
-      "source": "_drafts/2026-10-09-i-tham-lang-hoa-nhat-tan-mua-xuan-bang-xe-may.md",
-      "destination": "_posts/2026-10-09-i-tham-lang-hoa-nhat-tan-mua-xuan-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c5daaf3e8dcf72cff9f2d6d2c4350b2cdbf56268",
-      "finished_at": "2026-10-09T14:38:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01706",
-      "started_at": "2026-10-09T14:41:30+00:00",
-      "source": "_drafts/2026-10-09-di-chuyen-giua-cac-di-tich-hoang-thanh-bang-xe-may.md",
-      "destination": "_posts/2026-10-09-di-chuyen-giua-cac-di-tich-hoang-thanh-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "815741413f95037bd4e93ad85500849178d4e0fd",
-      "finished_at": "2026-10-09T14:41:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01707",
       "started_at": "2026-10-09T14:41:30+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "87cf2f93c5152f6927576119960681f889aff00d",
       "finished_at": "2026-10-09T15:12:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01730",
+      "started_at": "2026-10-09T15:13:58+00:00",
+      "source": "_drafts/2026-10-09-ha-noi-i-suoi-hai-ho-ong-mo-chay-xe-may.md",
+      "destination": "_posts/2026-10-09-ha-noi-i-suoi-hai-ho-ong-mo-chay-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4d1aa6e12a78f7a48a908632041459fdcda62b2f",
+      "finished_at": "2026-10-09T15:13:58+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01731",
+      "started_at": "2026-10-09T15:13:58+00:00",
+      "source": "_drafts/2026-10-09-cuoi-tuan-chay-xe-may-ha-noi-i-hoa-binh-de-chua.md",
+      "destination": "_posts/2026-10-09-cuoi-tuan-chay-xe-may-ha-noi-i-hoa-binh-de-chua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4d1aa6e12a78f7a48a908632041459fdcda62b2f",
+      "finished_at": "2026-10-09T15:13:58+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
