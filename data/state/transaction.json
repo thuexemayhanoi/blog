@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:50:36+00:00",
+  "updated_at": "2026-10-09T16:52:28+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01759",
-      "started_at": "2026-10-09T16:00:21+00:00",
-      "source": "_drafts/2026-10-09-qua-em-o-nha-nguoi-quen-nen-gui-xe-au.md",
-      "destination": "_posts/2026-10-09-qua-em-o-nha-nguoi-quen-nen-gui-xe-au.md",
-      "result": "PUBLISHED",
-      "commit_sha": "61d8d0b62f15395ad3096ae4ba54afd5322fe4ec",
-      "finished_at": "2026-10-09T16:00:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01761",
-      "started_at": "2026-10-09T16:19:29+00:00",
-      "source": "_drafts/2026-10-09-au-lung-khi-chay-xe-dai-ghe-au-nghi.md",
-      "destination": "_posts/2026-10-09-au-lung-khi-chay-xe-dai-ghe-au-nghi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8f76bcb7f5f1cdf985b675b8997bb87866609d51",
-      "finished_at": "2026-10-09T16:19:29+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01760",
       "started_at": "2026-10-09T16:20:54+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c4dfb28b6b9b99c4e1538ba20661e9eb9b0d7695",
       "finished_at": "2026-10-09T16:50:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01784",
+      "started_at": "2026-10-09T16:52:28+00:00",
+      "source": "_drafts/2026-10-09-xe-may-thue-cho-nguoi-so-xe-ga-nang-tay.md",
+      "destination": "_posts/2026-10-09-xe-may-thue-cho-nguoi-so-xe-ga-nang-tay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "32dd191b24b7aab6861a67f2128d51eb05ea3095",
+      "finished_at": "2026-10-09T16:52:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01785",
+      "started_at": "2026-10-09T16:52:28+00:00",
+      "source": "_drafts/2026-10-09-xe-ga-thue-bi-tuot-day-con-khoi-ong-cham.md",
+      "destination": "_posts/2026-10-09-xe-ga-thue-bi-tuot-day-con-khoi-ong-cham.md",
+      "result": "PUBLISHED",
+      "commit_sha": "32dd191b24b7aab6861a67f2128d51eb05ea3095",
+      "finished_at": "2026-10-09T16:52:28+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
