@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 101
   size: 12
-  total: 1207
+  total: 1209
 chia-se:
   pages: 10
   size: 12
@@ -27,7 +27,7 @@ topic:
   cung-duong_cung-duong-pho-bac:
     pages: 2
     size: 24
-    total: 37
+    total: 38
   du-lich_diem-den:
     pages: 6
     size: 24
@@ -47,7 +47,7 @@ topic:
   ky-nang_ky-nang-lai-co-ban:
     pages: 3
     size: 24
-    total: 61
+    total: 62
   ky-nang_gui-xe-va-giu-xe:
     pages: 2
     size: 24
