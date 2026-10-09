@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:55:42+00:00",
+  "updated_at": "2026-10-09T16:57:14+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01765",
-      "started_at": "2026-10-09T16:26:19+00:00",
-      "source": "_drafts/2026-10-09-gia-thue-xe-may-ien-va-xe-xang-chenh-bao-nhieu.md",
-      "destination": "_posts/2026-10-09-gia-thue-xe-may-ien-va-xe-xang-chenh-bao-nhieu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "aaf657100f94a0e748cbb56f5f9016b7c693b567",
-      "finished_at": "2026-10-09T16:26:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01766",
       "started_at": "2026-10-09T16:28:13+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "4d7a1f404fade9138aa44271aafd6b92ab9fcb66",
       "finished_at": "2026-10-09T16:55:42+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01790",
+      "started_at": "2026-10-09T16:57:14+00:00",
+      "source": "_drafts/2026-10-09-honda-vision-va-honda-click-thue-dong-nao-hop-hon.md",
+      "destination": "_posts/2026-10-09-honda-vision-va-honda-click-thue-dong-nao-hop-hon.md",
+      "result": "PUBLISHED",
+      "commit_sha": "7f72816e5c0822a5004ae804e9a57e565e31988b",
+      "finished_at": "2026-10-09T16:57:14+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

@@ -2,25 +2,22 @@
   "schema_version": "1",
   "mode": "new",
   "queue": [
-    "BLG-01788",
-    "BLG-01789"
+    "BLG-01790"
   ],
   "pair_size": 2,
-  "started": "2026-10-09T16:55:38Z",
-  "finished": "2026-10-09T16:55:44Z",
+  "started": "2026-10-09T16:57:10Z",
+  "finished": "2026-10-09T16:57:15Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-01788",
-        "BLG-01789"
+        "BLG-01790"
       ],
       "status": "published"
     }
   ],
   "published": [
-    "BLG-01788",
-    "BLG-01789"
+    "BLG-01790"
   ],
   "recoverable": [],
   "deferred": [],
