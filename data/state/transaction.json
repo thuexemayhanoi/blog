@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T14:53:41+00:00",
+  "updated_at": "2026-10-09T14:57:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01691",
-      "started_at": "2026-10-09T12:22:16+00:00",
-      "source": "_drafts/2026-10-09-tai-nan-voi-xe-thue-bao-hiem-lo-phan-nao.md",
-      "destination": "_posts/2026-10-09-tai-nan-voi-xe-thue-bao-hiem-lo-phan-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c2a74c0271ec26802810062bae3c5d1c82db865c",
-      "finished_at": "2026-10-09T12:22:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01692",
-      "started_at": "2026-10-09T12:33:22+00:00",
-      "source": "_drafts/2026-10-09-uong-bia-hoi-xong-bao-lau-moi-uoc-chay-xe-may-thue.md",
-      "destination": "_posts/2026-10-09-uong-bia-hoi-xong-bao-lau-moi-uoc-chay-xe-may-thue.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5e46aef12bcf283e264edf8f72421f415f418933",
-      "finished_at": "2026-10-09T12:33:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01693",
       "started_at": "2026-10-09T12:33:22+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "218573b77b40320101337397068efa54e25dc17f",
       "finished_at": "2026-10-09T14:53:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01716",
+      "started_at": "2026-10-09T14:57:36+00:00",
+      "source": "_drafts/2026-10-09-chay-xe-vong-ho-tay-buoi-sang-som-uong-nao-ep.md",
+      "destination": "_posts/2026-10-09-chay-xe-vong-ho-tay-buoi-sang-som-uong-nao-ep.md",
+      "result": "PUBLISHED",
+      "commit_sha": "516aaaa079ea58bd0e98fa91f2c00f2480172fec",
+      "finished_at": "2026-10-09T14:57:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01717",
+      "started_at": "2026-10-09T14:57:36+00:00",
+      "source": "_drafts/2026-10-09-xem-hoang-hon-tren-cau-nhat-tan-bang-xe-may.md",
+      "destination": "_posts/2026-10-09-xem-hoang-hon-tren-cau-nhat-tan-bang-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "516aaaa079ea58bd0e98fa91f2c00f2480172fec",
+      "finished_at": "2026-10-09T14:57:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
