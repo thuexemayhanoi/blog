@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T06:02:28+00:00",
+  "updated_at": "2026-10-09T06:04:51+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01653",
-      "started_at": "2026-10-09T04:40:17+00:00",
-      "source": "_drafts/2026-10-09-xe-ga-thue-e-elec-bi-yeu-luc-troi-lanh.md",
-      "destination": "_posts/2026-10-09-xe-ga-thue-e-elec-bi-yeu-luc-troi-lanh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "feeb44dc5e9a5053b95b121d663781581d6f733c",
-      "finished_at": "2026-10-09T04:40:17+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01654",
-      "started_at": "2026-10-09T04:51:18+00:00",
-      "source": "_drafts/2026-10-09-xe-tay-ga-thue-co-phu-hop-voi-uong-a-dam-khong.md",
-      "destination": "_posts/2026-10-09-xe-tay-ga-thue-co-phu-hop-voi-uong-a-dam-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9bf3437723a700a9b8f5a4da890ba9e5a59319af",
-      "finished_at": "2026-10-09T04:51:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01655",
       "started_at": "2026-10-09T04:51:19+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "57aa20ab21f959fc6fda7cb155f1a1e4b7015811",
       "finished_at": "2026-10-09T06:02:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01678",
+      "started_at": "2026-10-09T06:04:51+00:00",
+      "source": "_drafts/2026-10-09-honda-click-thue-co-vu-khi-len-cau-khong.md",
+      "destination": "_posts/2026-10-09-honda-click-thue-co-vu-khi-len-cau-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c48238787cc9da75d36a1ba212a6b48363611fa1",
+      "finished_at": "2026-10-09T06:04:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01679",
+      "started_at": "2026-10-09T06:04:51+00:00",
+      "source": "_drafts/2026-10-09-yamaha-sirius-thue-cho-nguoi-can-xe-ben-gia-tot.md",
+      "destination": "_posts/2026-10-09-yamaha-sirius-thue-cho-nguoi-can-xe-ben-gia-tot.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c48238787cc9da75d36a1ba212a6b48363611fa1",
+      "finished_at": "2026-10-09T06:04:51+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
