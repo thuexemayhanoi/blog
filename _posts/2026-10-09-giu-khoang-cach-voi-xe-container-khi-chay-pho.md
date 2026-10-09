@@ -26,7 +26,7 @@ Khi vượt xe container, bạn vượt ở làn trái, quyết đoán và nhanh
 
 Ở đèn đỏ, bạn dừng lệch hẳn sang một bên so với vệt bánh xe container để tài xế thấy bạn qua gương. Dừng ngay sau đuôi xe quá sát, một cú lùi nhẹ của tài xế cũng đủ gây va chạm trước khi đèn đổi.
 
-Xe container cần thời gian khởi hành lại lâu hơn xe nhỏ sau khi đèn xanh, bộ phanh lớn cần nhịp ổn trước khi vào attr — sửa: 'trước khi bung đi'. Viết lại: "Xe container khởi hành chậm sau khi đèn xanh, bạn chờ xe bắt đầu chuyển bánh rồi mới theo sau, tránh dồn sát khi xe chưa ổn nhịp."
+Xe container khởi hành chậm sau khi đèn xanh, bạn chờ xe bắt đầu chuyển bánh rồi mới theo sau, tránh dồn sát khi xe chưa ổn nhịp.
 
 Bạn nên giả định mọi xe container sẽ rẽ và đổi làn mà không báo trước, đó là cách tư duy phòng vệ giữ bạn khỏi bất ngờ. Người mới lái cần thời gian để đọc vị thế, cứ chủ động nhường xe lớn đi trước.
 
