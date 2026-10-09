@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:19:29+00:00",
+  "updated_at": "2026-10-09T16:20:54+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01736",
-      "started_at": "2026-10-09T15:22:01+00:00",
-      "source": "_drafts/2026-10-09-tu-ha-noi-len-ha-giang-nen-nghi-em-au-o-au.md",
-      "destination": "_posts/2026-10-09-tu-ha-noi-len-ha-giang-nen-nghi-em-au-o-au.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e30c77c1b20bdc5e9d4bfcafbd0e316d037cdcc",
-      "finished_at": "2026-10-09T15:22:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01737",
       "started_at": "2026-10-09T15:22:01+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "8f76bcb7f5f1cdf985b675b8997bb87866609d51",
       "finished_at": "2026-10-09T16:19:29+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01760",
+      "started_at": "2026-10-09T16:20:54+00:00",
+      "source": "_drafts/2026-10-09-gui-xe-duoi-ham-chung-cu-khi-thue-xe-may.md",
+      "destination": "_posts/2026-10-09-gui-xe-duoi-ham-chung-cu-khi-thue-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1fde47cf6832e14dd80b78215db42c074f238a5d",
+      "finished_at": "2026-10-09T16:20:54+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

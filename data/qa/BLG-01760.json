@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01760",
   "title": "Gửi xe dưới hầm chung cư khi thuê xe máy",
-  "scored_at": "2026-10-09T16:16:51+00:00",
+  "scored_at": "2026-10-09T16:20:52+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -46,9 +46,10 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-09-gui-xe-duoi-ham-chung-cu-khi-thue-xe-may.md",
-  "content_sha256": "7be4446b727d0b26d5157adfcf374ef08b76396905748a822a34d2ac4401c12b",
-  "matrix_row_sha256": "85257c19f3f3a2b206598551fdaf12d12bb2ce32b13f4fd6f6412cce6a9680f7",
+  "source_path": "_posts/2026-10-09-gui-xe-duoi-ham-chung-cu-khi-thue-xe-may.md",
+  "content_sha256": "09289bff77e4eeefe1dcb4be456dfa20aabe1ba8e51a0235f68f49eee6bffa14",
+  "matrix_row_sha256": "75beb2b5f2ef3814f4b18ef3c026f7371730b7e7f85303e9e3be43e513d4711d",
   "result": "PASS",
-  "grade": "EXCELLENT"
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-09T16:20:54+00:00"
 }
