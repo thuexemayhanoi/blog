@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-09T16:28:13+00:00",
+  "updated_at": "2026-10-09T16:34:02+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01743",
-      "started_at": "2026-10-09T15:33:54+00:00",
-      "source": "_drafts/2026-10-09-quay-au-xe-may-o-ngo-nho-co-cach-nao-gon.md",
-      "destination": "_posts/2026-10-09-quay-au-xe-may-o-ngo-nho-co-cach-nao-gon.md",
-      "result": "PUBLISHED",
-      "commit_sha": "43e5ecbf64d62bc9102f5509e8de1e50d5f7c6b6",
-      "finished_at": "2026-10-09T15:33:54+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01744",
-      "started_at": "2026-10-09T15:35:46+00:00",
-      "source": "_drafts/2026-10-09-nhin-guong-truoc-khi-mo-cua-vao-ngo.md",
-      "destination": "_posts/2026-10-09-nhin-guong-truoc-khi-mo-cua-vao-ngo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "74b8ef7e909da4c64967e6c6c6a7b152b5c3ec9e",
-      "finished_at": "2026-10-09T15:35:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01745",
       "started_at": "2026-10-09T15:35:46+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "bdeece7258061fc552d100b75f9a828a3c00b728",
       "finished_at": "2026-10-09T16:28:13+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01768",
+      "started_at": "2026-10-09T16:34:01+00:00",
+      "source": "_drafts/2026-10-09-khach-quoc-te-khong-co-gplx-viet-nam-thue-xe-uoc-khong.md",
+      "destination": "_posts/2026-10-09-khach-quoc-te-khong-co-gplx-viet-nam-thue-xe-uoc-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c4a38db0f1d9339cc3ccf6bc09c386a7cc7aa406",
+      "finished_at": "2026-10-09T16:34:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01769",
+      "started_at": "2026-10-09T16:34:02+00:00",
+      "source": "_drafts/2026-10-09-xe-thue-dan-tem-kiem-inh-the-nao-la-hop-le.md",
+      "destination": "_posts/2026-10-09-xe-thue-dan-tem-kiem-inh-the-nao-la-hop-le.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c4a38db0f1d9339cc3ccf6bc09c386a7cc7aa406",
+      "finished_at": "2026-10-09T16:34:02+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
