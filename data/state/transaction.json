@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:21:05+00:00",
+  "updated_at": "2026-10-10T16:44:44+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01850",
-      "started_at": "2026-10-10T13:12:09+00:00",
-      "source": "_drafts/2026-10-10-gui-xe-o-cho-au-moi-long-bien-vi-tri-va-luu-y.md",
-      "destination": "_posts/2026-10-10-gui-xe-o-cho-au-moi-long-bien-vi-tri-va-luu-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b72c3f5b7d9ab2f58663a56d45db50308688d90d",
-      "finished_at": "2026-10-10T13:12:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01851",
-      "started_at": "2026-10-10T15:40:43+00:00",
-      "source": "_drafts/2026-10-10-bi-a-vang-lam-vo-en-xe-thue-tren-uong-truong-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-10-bi-a-vang-lam-vo-en-xe-thue-tren-uong-truong-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4fd25ab7165e9633c113756e9851e7569e486e44",
-      "finished_at": "2026-10-10T15:40:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01852",
       "started_at": "2026-10-10T15:40:43+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "19c6d72bceea54a948ee6762ec86dc032f6ca25d",
       "finished_at": "2026-10-10T16:21:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01875",
+      "started_at": "2026-10-10T16:44:44+00:00",
+      "source": "_drafts/2026-10-10-ha-noi-i-kim-boi-bang-xe-may-cung-uong-hoa-binh.md",
+      "destination": "_posts/2026-10-10-ha-noi-i-kim-boi-bang-xe-may-cung-uong-hoa-binh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "12c8aa5734fdd080e4490f379aef550607475ba9",
+      "finished_at": "2026-10-10T16:44:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01876",
+      "started_at": "2026-10-10T16:44:44+00:00",
+      "source": "_drafts/2026-10-10-ha-noi-i-van-long-bang-xe-may-cung-uong-ninh-binh.md",
+      "destination": "_posts/2026-10-10-ha-noi-i-van-long-bang-xe-may-cung-uong-ninh-binh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "12c8aa5734fdd080e4490f379aef550607475ba9",
+      "finished_at": "2026-10-10T16:44:44+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
