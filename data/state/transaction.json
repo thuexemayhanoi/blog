@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T17:47:45+00:00",
+  "updated_at": "2026-10-10T17:51:01+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01868",
-      "started_at": "2026-10-10T16:14:51+00:00",
-      "source": "_drafts/2026-10-10-i-xe-may-khi-gio-heo-may-ve-giu-huong-va-mac-am-ung.md",
-      "destination": "_posts/2026-10-10-i-xe-may-khi-gio-heo-may-ve-giu-huong-va-mac-am-ung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "40493554c29170f02f0bdacb4a21d11445a7e9e2",
-      "finished_at": "2026-10-10T16:14:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01869",
-      "started_at": "2026-10-10T16:16:46+00:00",
-      "source": "_drafts/2026-10-10-cho-may-giat-tren-xe-may-chen-boc-va-buoc-ung-cach.md",
-      "destination": "_posts/2026-10-10-cho-may-giat-tren-xe-may-chen-boc-va-buoc-ung-cach.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a50c74f6e6c498d387e5cf1b761ec94916a00cd4",
-      "finished_at": "2026-10-10T16:16:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01870",
       "started_at": "2026-10-10T16:16:46+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6f4ab0f8fc54de7db2db9a42d16bb73ebe17ef4b",
       "finished_at": "2026-10-10T17:47:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01893",
+      "started_at": "2026-10-10T17:51:01+00:00",
+      "source": "_drafts/2026-10-10-qua-uong-ray-xe-lua-dung-nhin-va-canh-barrier.md",
+      "destination": "_posts/2026-10-10-qua-uong-ray-xe-lua-dung-nhin-va-canh-barrier.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ddf2b5b82de3b6e0aea44a57c01e96a142700baf",
+      "finished_at": "2026-10-10T17:51:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01894",
+      "started_at": "2026-10-10T17:51:01+00:00",
+      "source": "_drafts/2026-10-10-i-xe-may-trong-mua-dong-kem-gio-giat.md",
+      "destination": "_posts/2026-10-10-i-xe-may-trong-mua-dong-kem-gio-giat.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ddf2b5b82de3b6e0aea44a57c01e96a142700baf",
+      "finished_at": "2026-10-10T17:51:01+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
