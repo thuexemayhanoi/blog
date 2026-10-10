@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T18:49:14+00:00",
+  "updated_at": "2026-10-10T18:54:48+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01898",
-      "started_at": "2026-10-10T17:56:35+00:00",
-      "source": "_drafts/2026-10-10-xe-chet-may-giua-nga-tu-xu-ly-nhanh-va-an-toan.md",
-      "destination": "_posts/2026-10-10-xe-chet-may-giua-nga-tu-xu-ly-nhanh-va-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7b3a1d1c13fbe6e8f31178366f9a9f6969aa0b0e",
-      "finished_at": "2026-10-10T17:56:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01899",
-      "started_at": "2026-10-10T18:04:53+00:00",
-      "source": "_drafts/2026-10-10-phu-thu-khi-tra-xe-may-thue-muon-gio.md",
-      "destination": "_posts/2026-10-10-phu-thu-khi-tra-xe-may-thue-muon-gio.md",
-      "result": "PUBLISHED",
-      "commit_sha": "96a72bfc482793fdd805392c97e3058329ed463f",
-      "finished_at": "2026-10-10T18:04:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01900",
       "started_at": "2026-10-10T18:04:53+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c92fe3ac900737d0a6c57b02f6b61324e6d36e3c",
       "finished_at": "2026-10-10T18:49:14+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01923",
+      "started_at": "2026-10-10T18:54:47+00:00",
+      "source": "_drafts/2026-10-10-khoi-ong-xe-so-mua-lanh-va-luu-y-au-buoi-i.md",
+      "destination": "_posts/2026-10-10-khoi-ong-xe-so-mua-lanh-va-luu-y-au-buoi-i.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a1210ad50179a9f8dc8c715373bb257355e0ab6b",
+      "finished_at": "2026-10-10T18:54:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01924",
+      "started_at": "2026-10-10T18:54:48+00:00",
+      "source": "_drafts/2026-10-10-xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-ung-nhip.md",
+      "destination": "_posts/2026-10-10-xe-tay-ga-chay-chang-dai-ve-que-giu-may-va-nghi-ung-nhip.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a1210ad50179a9f8dc8c715373bb257355e0ab6b",
+      "finished_at": "2026-10-10T18:54:48+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
