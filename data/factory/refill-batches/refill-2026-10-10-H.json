@@ -1,0 +1,225 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-10 H: chu de that, tao boi writer theo gate G1-G8 (topic expansion ve target hien tai cua taxonomy).",
+  "created": "2026-10-10",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-10-H001",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đi xe máy qua đường ray xe lửa: dừng, nhìn và vượt an toàn",
+   "intent": "Biết cách đi xe máy qua đường ray xe lửa trong phố an toàn",
+   "kw": "đi xe máy qua đường ray",
+   "kw2": [
+    "đường ray xe lửa trong phố"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người đi xe máy hàng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H002",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đi sau xe buýt: né điểm mù và giữ khoảng cách",
+   "intent": "Biết cách đi xe máy an toàn khi đi sau xe buýt",
+   "kw": "đi sau xe buýt",
+   "kw2": [
+    "điểm mù xe buýt"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người đi xe máy đi làm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H003",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Qua ngã tư không đèn tín hiệu: quan sát và nhường đúng",
+   "intent": "Biết cách qua ngã tư không đèn tín hiệu an toàn bằng xe máy",
+   "kw": "qua ngã tư không đèn tín hiệu",
+   "kw2": [
+    "nhường đường ở ngã tư"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người mới đi xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H004",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Gửi xe ở bệnh viện giờ khám sáng: chọn giờ và chỗ",
+   "intent": "Biết cách chọn chỗ gửi xe khi đưa thân nhân đi khám bệnh",
+   "kw": "gửi xe ở bệnh viện",
+   "kw2": [
+    "bãi xe bệnh viện giờ khám"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người đưa thân nhân đi khám",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H005",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Gửi xe ở siêu thị cuối tuần: chọn giờ và giữ xe",
+   "intent": "Biết cách chọn bãi gửi xe quanh siêu thị giờ đông cuối tuần",
+   "kw": "gửi xe ở siêu thị",
+   "kw2": [
+    "bãi xe siêu thị đông người"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người đi chợ cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H006",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Gửi xe ở trường học giờ đón con: chọn chỗ và giữ xe",
+   "intent": "Biết cách chọn chỗ gửi xe quanh trường học giờ đón trả con",
+   "kw": "gửi xe ở trường học",
+   "kw2": [
+    "bãi xe trường học giờ tan học"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "phụ huynh đón con",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H007",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở màn hình máy tính trên xe máy: bọc và giữ hướng",
+   "intent": "Biết cách chở màn hình máy tính trên xe máy không vỡ",
+   "kw": "chở màn hình máy tính trên xe máy",
+   "kw2": [
+    "vận chuyển màn hình máy tính"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người di chuyển đồ điện tử",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H008",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở chậu cây cảnh trên xe máy: chèn chắc và giữ đứng",
+   "intent": "Biết cách chở chậu cây cảnh trên xe máy không đổ không vỡ",
+   "kw": "chở cây cảnh trên xe máy",
+   "kw2": [
+    "vận chuyển chậu cây"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người mua cây cảnh cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H009",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Đi xe máy trong sương mù sáng sớm: giảm tốc đúng cách",
+   "intent": "Biết cách đi xe máy an toàn khi có sương mù sáng sớm",
+   "kw": "đi xe máy trong sương mù",
+   "kw2": [
+    "sương mù sáng sớm hà nội"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người đi xe máy sáng sớm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H010",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Ra từ ngõ nhỏ vào đường lớn: quan sát và nhấc nhanh",
+   "intent": "Biết kỹ năng ra từ ngõ nhỏ vào đường lớn an toàn bằng xe máy",
+   "kw": "ra ngõ vào đường lớn",
+   "kw2": [
+    "kỹ năng ra ngõ xe máy"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người mới đi xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H011",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Hà Nội đi hồ Đồng Mô bằng xe máy: cung đường Sơn Tây",
+   "intent": "Biết cung đường từ Hà Nội đi hồ Đồng Mô ở Sơn Tây bằng xe máy cuối tuần",
+   "kw": "hà nội đi hồ đồng mô",
+   "kw2": [
+    "hồ đồng mô sơn tây"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người đi phượt cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-H012",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Chạy xe trên đường đê sông Hồng: đoạn đẹp và lưu ý",
+   "intent": "Biết cung đường chạy xe trên đê sông Hồng và các lưu ý an toàn",
+   "kw": "chạy xe đường đê sông hồng",
+   "kw2": [
+    "đường đê ven sông hồng chạy xe"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-H",
+   "audience": "người chạy xe cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
