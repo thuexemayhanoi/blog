@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T11:37:10+00:00",
+  "updated_at": "2026-10-10T12:53:08+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01814",
-      "started_at": "2026-10-10T10:30:20+00:00",
-      "source": "_drafts/2026-10-10-nguoi-moi-thue-xe-nen-hoi-gi-truoc-khi-nhan-xe.md",
-      "destination": "_posts/2026-10-10-nguoi-moi-thue-xe-nen-hoi-gi-truoc-khi-nhan-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "58c07a3e6a85e384df0b353cbe967b94be776db3",
-      "finished_at": "2026-10-10T10:30:20+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01815",
-      "started_at": "2026-10-10T10:40:19+00:00",
-      "source": "_drafts/2026-10-10-gia-han-thoi-gian-thue-xe-may-them-ngay-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-10-gia-han-thoi-gian-thue-xe-may-them-ngay-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "889fee4afa7e9a1cacb00d813923ce38cb72c92f",
-      "finished_at": "2026-10-10T10:40:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01816",
       "started_at": "2026-10-10T10:40:19+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "8f8de88e31489072e1821d472f72f4513d0a68b6",
       "finished_at": "2026-10-10T11:37:10+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01848",
+      "started_at": "2026-10-10T12:53:08+00:00",
+      "source": "_drafts/2026-10-10-cho-man-hinh-tv-tren-xe-may-sao-cho-khong-vo.md",
+      "destination": "_posts/2026-10-10-cho-man-hinh-tv-tren-xe-may-sao-cho-khong-vo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6c30d6b94fe5ec930ef2aa3b95be3b297eea1801",
+      "finished_at": "2026-10-10T12:53:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01849",
+      "started_at": "2026-10-10T12:53:08+00:00",
+      "source": "_drafts/2026-10-10-cho-ket-sat-nho-tren-xe-may-co-on-khong.md",
+      "destination": "_posts/2026-10-10-cho-ket-sat-nho-tren-xe-may-co-on-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6c30d6b94fe5ec930ef2aa3b95be3b297eea1801",
+      "finished_at": "2026-10-10T12:53:08+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
