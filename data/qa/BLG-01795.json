@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-01795",
   "title": "Thuê xe đạp điện đi phố cổ có tiện không",
-  "scored_at": "2026-10-10T08:06:40+00:00",
+  "scored_at": "2026-10-10T08:18:58+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -24,7 +24,7 @@
     "duplicate_title": true,
     "duplicate_slug": true,
     "intent_unique": true,
-    "intent_opening": false,
+    "intent_opening": true,
     "hanoi_example": true,
     "reads_naturally_proxy": true,
     "no_placeholder": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1077,
+  "word_count": 1057,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,14 +41,15 @@
   "intent_unique_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 75,
+  "quality": 100,
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-10-thue-xe-ap-ien-i-pho-co-co-tien-khong.md",
-  "content_sha256": "b7a7fdb05b9869305b63d369a3df347c91b9c87e9f45fadb66efb7f68a948c64",
-  "matrix_row_sha256": "458190cc2633c813eb6e7b7732cb410789d463e766fd61b9a75da39a55ac1bb4",
+  "source_path": "_posts/2026-10-10-thue-xe-ap-ien-i-pho-co-co-tien-khong.md",
+  "content_sha256": "b80f8439b2c5db730b137d57488faa822c9eb3f45b2dcf23e4b3aa128d52cba0",
+  "matrix_row_sha256": "f5d3d705fd8ff266d5cb0e55832cb74345c580323136fe343cb78b86ffdcb724",
   "result": "PASS",
-  "grade": "PASS"
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-10T08:18:59+00:00"
 }
