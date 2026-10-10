@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T09:46:40+00:00",
+  "updated_at": "2026-10-10T09:56:45+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01780",
-      "started_at": "2026-10-09T16:48:22+00:00",
-      "source": "_drafts/2026-10-09-i-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong.md",
-      "destination": "_posts/2026-10-09-i-xe-may-tu-san-bay-noi-bai-ve-pho-co-xa-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8a98a7d487f8c6e8a008d1ae6763d6eaf95a9fe7",
-      "finished_at": "2026-10-09T16:48:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01781",
       "started_at": "2026-10-09T16:48:22+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "01b5e8771d44be19493973d3a0c2a971deddc37b",
       "finished_at": "2026-10-10T09:46:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01806",
+      "started_at": "2026-10-10T09:56:45+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-may-ien-i-pho-co-nen-biet-gi.md",
+      "destination": "_posts/2026-10-10-thue-xe-may-ien-i-pho-co-nen-biet-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f3495694976a131ebc293d783f6cb4855bd3d68e",
+      "finished_at": "2026-10-10T09:56:45+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
