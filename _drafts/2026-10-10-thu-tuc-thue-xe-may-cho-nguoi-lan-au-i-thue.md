@@ -10,7 +10,7 @@ tags: [thủ tục thuê xe máy lần đầu, đi thuê xe máy lần đầu c�
 permalink: /thue-xe/2026/10/10/thu-tuc-thue-xe-may-cho-nguoi-lan-au-i-thue/
 parent_id: P-THUE-XE
 child_id: C-THUE-THU-TUC
-article_id: BLG-01949
+article_id: BLG-01950
 writer: W1
 ---
 
