@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T15:40:43+00:00",
+  "updated_at": "2026-10-10T15:47:23+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01828",
-      "started_at": "2026-10-10T11:18:36+00:00",
-      "source": "_drafts/2026-10-10-tra-xe-may-thue-ung-gio-hen-can-chuan-bi-gi.md",
-      "destination": "_posts/2026-10-10-tra-xe-may-thue-ung-gio-hen-can-chuan-bi-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b05070c587c5dff16aeac98bb0de186dc1d5e232",
-      "finished_at": "2026-10-10T11:18:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01829",
-      "started_at": "2026-10-10T11:22:16+00:00",
-      "source": "_drafts/2026-10-10-e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-10-e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "087bc4507322c4252ddd49407b3b44bac92cadd9",
-      "finished_at": "2026-10-10T11:22:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01830",
       "started_at": "2026-10-10T11:22:16+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "4fd25ab7165e9633c113756e9851e7569e486e44",
       "finished_at": "2026-10-10T15:40:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01853",
+      "started_at": "2026-10-10T15:47:23+00:00",
+      "source": "_drafts/2026-10-10-ha-noi-i-ho-suoi-hai-bang-xe-may-cung-uong-va-luu-y.md",
+      "destination": "_posts/2026-10-10-ha-noi-i-ho-suoi-hai-bang-xe-may-cung-uong-va-luu-y.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a13ada7e97877d56070cf7ecd7c0fa1f55214256",
+      "finished_at": "2026-10-10T15:47:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01854",
+      "started_at": "2026-10-10T15:47:23+00:00",
+      "source": "_drafts/2026-10-10-quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung.md",
+      "destination": "_posts/2026-10-10-quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a13ada7e97877d56070cf7ecd7c0fa1f55214256",
+      "finished_at": "2026-10-10T15:47:23+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
