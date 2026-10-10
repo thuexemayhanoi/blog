@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T19:51:41+00:00",
+  "updated_at": "2026-10-10T19:52:33+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01928",
-      "started_at": "2026-10-10T19:00:46+00:00",
-      "source": "_drafts/2026-10-10-loi-thuong-gap-phan-sa-hinh-thi-bang-a1.md",
-      "destination": "_posts/2026-10-10-loi-thuong-gap-phan-sa-hinh-thi-bang-a1.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1116e06c0793901e194d23a75ab83a9e88b9d0b9",
-      "finished_at": "2026-10-10T19:00:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01929",
-      "started_at": "2026-10-10T19:06:07+00:00",
-      "source": "_drafts/2026-10-10-mang-theo-giay-bao-hiem-xe-may-khi-i-uong.md",
-      "destination": "_posts/2026-10-10-mang-theo-giay-bao-hiem-xe-may-khi-i-uong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cd272fdd509c9d08b6e5394ec2e51448c7e7e0a3",
-      "finished_at": "2026-10-10T19:06:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01930",
       "started_at": "2026-10-10T19:06:07+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "36d27ec27d6f585773e5b6da9dcdd5b9ec246d70",
       "finished_at": "2026-10-10T19:51:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01953",
+      "started_at": "2026-10-10T19:52:33+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-theo-tuan-khi-xe-may-nha-ang-sua-chua.md",
+      "destination": "_posts/2026-10-10-thue-xe-theo-tuan-khi-xe-may-nha-ang-sua-chua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d147c86817539872eb0297c70e4e23fd51c4b112",
+      "finished_at": "2026-10-10T19:52:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01954",
+      "started_at": "2026-10-10T19:52:33+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-may-theo-thang-cho-nguoi-i-giao-hang-nho-le.md",
+      "destination": "_posts/2026-10-10-thue-xe-may-theo-thang-cho-nguoi-i-giao-hang-nho-le.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d147c86817539872eb0297c70e4e23fd51c4b112",
+      "finished_at": "2026-10-10T19:52:33+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
