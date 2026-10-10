@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T10:07:50+00:00",
+  "updated_at": "2026-10-10T10:12:42+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01782",
-      "started_at": "2026-10-09T16:50:36+00:00",
-      "source": "_drafts/2026-10-09-chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-ung.md",
-      "destination": "_posts/2026-10-09-chon-xe-thue-theo-chieu-cao-nguoi-lai-sao-cho-ung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4dfb28b6b9b99c4e1538ba20661e9eb9b0d7695",
-      "finished_at": "2026-10-09T16:50:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01783",
-      "started_at": "2026-10-09T16:50:36+00:00",
-      "source": "_drafts/2026-10-09-chon-xe-thue-cho-nguoi-i-hai-bua-trong-ngay.md",
-      "destination": "_posts/2026-10-09-chon-xe-thue-cho-nguoi-i-hai-bua-trong-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4dfb28b6b9b99c4e1538ba20661e9eb9b0d7695",
-      "finished_at": "2026-10-09T16:50:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01784",
       "started_at": "2026-10-09T16:52:28+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "3b0579a4ac788c331f171ad0f544f5df80cfe2c5",
       "finished_at": "2026-10-10T10:07:50+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01807",
+      "started_at": "2026-10-10T10:12:41+00:00",
+      "source": "_drafts/2026-10-10-en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe.md",
+      "destination": "_posts/2026-10-10-en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a71626ef893c686178d403c95c05ac239b0e7054",
+      "finished_at": "2026-10-10T10:12:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01808",
+      "started_at": "2026-10-10T10:12:42+00:00",
+      "source": "_drafts/2026-10-10-en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-uong-i-va-gui-xe.md",
+      "destination": "_posts/2026-10-10-en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-uong-i-va-gui-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a71626ef893c686178d403c95c05ac239b0e7054",
+      "finished_at": "2026-10-10T10:12:42+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
