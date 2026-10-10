@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-10T11:11:59+00:00",
-    "staged_at": "2026-10-10T11:11:57+00:00"
+    "materialized_at": "2026-10-10T11:49:34+00:00",
+    "staged_at": "2026-10-10T11:49:33+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -17968,6 +17968,246 @@
       "word_target": 1200,
       "materialized_at": "2026-10-10T11:11:59+00:00",
       "materialized_head": "67f1586e81a73e31cfb36fd46f65126364c146ea"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E001",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở màn hình TV trên xe máy sao cho không vỡ",
+      "intent": "Biết cách chở màn hình TV trên xe máy sao cho an toàn, không vỡ",
+      "kw": "chở màn hình tv trên xe máy",
+      "kw2": [
+        "vận chuyển tv bằng xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người mua đồ điện tử cần chở về nhà",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E002",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở két sắt nhỏ trên xe máy có ổn không",
+      "intent": "Biết khả năng và cách chở két sắt nhỏ trên xe máy an toàn",
+      "kw": "chở két sắt trên xe máy",
+      "kw2": [
+        "vận chuyển két sắt bằng xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người chuyển đồ đạc nhỏ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E003",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Bị chó đuổi khi đi xe máy: xử lý thế nào",
+      "intent": "Biết cách xử lý khi bị chó đuổi khi đang đi xe máy",
+      "kw": "bị chó đuổi khi đi xe máy",
+      "kw2": [
+        "chó cận đường đuổi xe"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người đi xe máy đường quê và ngoại thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E004",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Xe máy chết máy giữa đèn đỏ: các bước xử lý",
+      "intent": "Biết các bước xử lý khi xe máy chết máy giữa ngã tư đèn đỏ",
+      "kw": "xe máy chết máy giữa đường",
+      "kw2": [
+        "xe chết máy tại ngã tư"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/xe-may/xu-ly-su-co-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E005",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi xe máy trong mưa phùn cần để ý gì",
+      "intent": "Biết những điều cần lưu ý khi đi xe máy trong mưa phùn",
+      "kw": "đi xe máy mưa phùn",
+      "kw2": [
+        "mưa phùn mặt đường trơn"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người đi xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E006",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Chạy xe máy vào ngày nồm như thế nào cho an toàn",
+      "intent": "Biết cách chạy xe máy an toàn vào ngày nồm khi mặt đường ẩm trơn",
+      "kw": "đi xe máy ngày nồm",
+      "kw2": [
+        "mùa nồm mặt đường trơn"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E007",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Phanh trước và phanh sau: phối hợp thế nào cho an toàn",
+      "intent": "Biết cách phối hợp phanh trước và phanh sau khi đi xe máy",
+      "kw": "phanh trước phanh sau xe máy",
+      "kw2": [
+        "kỹ thuật phanh xe máy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người mới tập lái xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E008",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở chợ đầu mối Long Biên: vị trí và lưu ý",
+      "intent": "Biết cách gửi xe khi đi chợ đầu mối Long Biên bằng xe máy",
+      "kw": "gửi xe chợ long biên",
+      "kw2": [
+        "chợ đầu mối long biên đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/du-lich/long-bien/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người đi chợ đầu mối Long Biên",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E009",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê bị thủng lốp giữa đường: gọi ai và làm gì",
+      "intent": "Biết các bước xử lý khi xe máy thuê bị thủng lốp giữa đường",
+      "kw": "thủng lốp xe thuê",
+      "kw2": [
+        "xử lý thủng lốp giữa đường"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/xe-may/xu-ly-su-co-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "khách thuê xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E010",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện hết pin giữa đường: xử lý thế nào",
+      "intent": "Biết cách xử lý khi xe máy điện thuê hết pin giữa đường",
+      "kw": "xe máy điện hết pin giữa đường",
+      "kw2": [
+        "xe điện hết điện giữa đường"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/xu-ly-su-co-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "khách thuê xe máy điện",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E011",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi hồ Đồng Mô bằng xe máy: cung đường một ngày",
+      "intent": "Biết cung đường và chuẩn bị khi đi hồ Đồng Mô từ Hà Nội bằng xe máy trong ngày",
+      "kw": "hà nội đi hồ đồng mô",
+      "kw2": [
+        "cung đường hồ đồng mô"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-cuoi-tuan/",
+        "/du-lich/ngoai-thanh/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người đi chơi cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-E012",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Cung đường ven sông Đuống từ Long Biên: chạy xe buổi sáng",
+      "intent": "Biết cung đường ven sông Đuống phù hợp chạy xe máy từ Long Biên",
+      "kw": "cung đường ven sông đuống",
+      "kw2": [
+        "chạy xe ven đê sông đuống"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/du-lich/long-bien/"
+      ],
+      "subtopic": "refill-2026-10-10-E",
+      "audience": "người thích chạy xe sáng cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T11:49:34+00:00",
+      "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
     }
   ]
 }
