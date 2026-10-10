@@ -14,9 +14,9 @@ article_id: BLG-01795
 writer: W1
 ---
 
-Phố cổ Hà Nội là rừng ngõ nhỏ, cấm xe máy nhiều đoạn, bãi gửi lúc cuối tuần khan hiếm. Giữa bối cảnh đó, thuê xe đạp điện đi phố cổ nổi lên như một lựa chọn đáng cân: xe nhẹ, không ồn, không lo mùi xăng. Nhưng tiện thật hay chỉ tiện trên giấy, còn tùy vào chuyến đi của bạn thế nào. Bài này trả lời thuê xe đạp điện phố cổ có tiện không, đặt từng ưu điểm và hạn chế cạnh nhau, để bạn quyết định trong năm phút, theo khung chung đã gom ở chuyên mục [xe đạp điện](/xe-may/xe-dap-dien/).
+Thuê xe đạp điện phố cổ có tiện không là câu hỏi nhiều du khách nội địa đặt ra khi lập lịch Hà Nội: xe nhẹ, êm, không lo mùi xăng, nhưng pin và lộ trình phải tính trước. Phố cổ là rừng ngõ nhỏ, cấm xe máy nhiều đoạn, bãi gửi cuối tuần khan hiếm — đúng dạng địa hình dòng xe này sinh ra để xử lý. Bài này đặt từng ưu điểm và hạn chế cạnh nhau, để bạn quyết định trong năm phút, theo khung chung đã gom ở chuyên mục [xe đạp điện](/xe-may/xe-dap-dien/).
 
-Trước khi đi vào chi tiết, bạn nắm một điểm về dòng xe: xe đạp điện là loại nhẹ, chạy bằng pin, ga nhẹ như xe đạp thường nhưng không cần đạp. Với phố cổ, đúng dạng địa hình dòng xe sinh ra để xử lý.
+Trước khi đi vào chi tiết, bạn nắm một điểm về dòng xe: xe đạp điện là loại nhẹ, chạy bằng pin, ga nhẹ như xe đạp thường nhưng không cần đạp.
 
 ## Những vế tiện thật khi đi phố cổ bằng xe đạp điện
 
