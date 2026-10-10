@@ -10,7 +10,7 @@ tags: [xe ga rung khi tăng tốc, rung giò cua xe tay ga, xe ga Hà Nội, xe 
 permalink: /xe-may/2026/10/10/xe-ga-rung-nhe-khi-tang-toc-hieu-nguyen-nhan/
 parent_id: P-XE-MAY
 child_id: C-XE-GA
-article_id: BLG-01971
+article_id: BLG-01973
 writer: W1
 ---
 
