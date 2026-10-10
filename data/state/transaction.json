@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:18:27+00:00",
+  "updated_at": "2026-10-10T16:21:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01846",
-      "started_at": "2026-10-10T13:06:55+00:00",
-      "source": "_drafts/2026-10-10-i-xe-may-trong-mua-phun-can-e-y-gi.md",
-      "destination": "_posts/2026-10-10-i-xe-may-trong-mua-phun-can-e-y-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f9b116da553f936b95fe535852ae489132bbf2bc",
-      "finished_at": "2026-10-10T13:06:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01847",
-      "started_at": "2026-10-10T13:12:09+00:00",
-      "source": "_drafts/2026-10-10-chay-xe-may-vao-ngay-nom-nhu-the-nao-cho-an-toan.md",
-      "destination": "_posts/2026-10-10-chay-xe-may-vao-ngay-nom-nhu-the-nao-cho-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b72c3f5b7d9ab2f58663a56d45db50308688d90d",
-      "finished_at": "2026-10-10T13:12:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01850",
       "started_at": "2026-10-10T13:12:09+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "742fd4fa6938621b5fd82105aa2dea1659b2300f",
       "finished_at": "2026-10-10T16:18:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01873",
+      "started_at": "2026-10-10T16:21:05+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-o-rap-chieu-phim-cuoi-tuan-chon-gio-va-cho.md",
+      "destination": "_posts/2026-10-10-gui-xe-o-rap-chieu-phim-cuoi-tuan-chon-gio-va-cho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "19c6d72bceea54a948ee6762ec86dc032f6ca25d",
+      "finished_at": "2026-10-10T16:21:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01874",
+      "started_at": "2026-10-10T16:21:05+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-o-be-boi-cong-cong-mua-he-en-som-lay-cho.md",
+      "destination": "_posts/2026-10-10-gui-xe-o-be-boi-cong-cong-mua-he-en-som-lay-cho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "19c6d72bceea54a948ee6762ec86dc032f6ca25d",
+      "finished_at": "2026-10-10T16:21:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

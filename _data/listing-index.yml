@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 110
   size: 12
-  total: 1318
+  total: 1320
 chia-se:
   pages: 10
   size: 12
@@ -55,7 +55,7 @@ topic:
   ky-nang_gui-xe-va-giu-xe:
     pages: 3
     size: 24
-    total: 56
+    total: 58
   ky-nang_suc-khoe-khi-lai-xe:
     pages: 2
     size: 24
