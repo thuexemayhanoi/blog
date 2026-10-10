@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T18:34:03+00:00",
+  "updated_at": "2026-10-10T18:36:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01890",
-      "started_at": "2026-10-10T17:43:54+00:00",
-      "source": "_drafts/2026-10-10-ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may.md",
-      "destination": "_posts/2026-10-10-ghe-bao-tang-trong-trung-tam-ha-noi-bang-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42b56e355efb9254e8c88a7004209b252123a820",
-      "finished_at": "2026-10-10T17:43:54+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01891",
-      "started_at": "2026-10-10T17:47:44+00:00",
-      "source": "_drafts/2026-10-10-chay-xe-may-quanh-ho-guom-buoi-toi-cuoi-tuan.md",
-      "destination": "_posts/2026-10-10-chay-xe-may-quanh-ho-guom-buoi-toi-cuoi-tuan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6f4ab0f8fc54de7db2db9a42d16bb73ebe17ef4b",
-      "finished_at": "2026-10-10T17:47:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01892",
       "started_at": "2026-10-10T17:47:45+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "65e5fedcf4cc3f115bcdcb56eb7df1b11599ec03",
       "finished_at": "2026-10-10T18:34:03+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01915",
+      "started_at": "2026-10-10T18:36:36+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-ga-tiet-kiem-xang-trong-pho-ong.md",
+      "destination": "_posts/2026-10-10-chay-xe-ga-tiet-kiem-xang-trong-pho-ong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8ea5874c94b5b59dfa435ae240d2a2796a208f67",
+      "finished_at": "2026-10-10T18:36:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01916",
+      "started_at": "2026-10-10T18:36:36+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-50cc-cho-nguoi-moi-bat-au-lai.md",
+      "destination": "_posts/2026-10-10-thue-xe-50cc-cho-nguoi-moi-bat-au-lai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8ea5874c94b5b59dfa435ae240d2a2796a208f67",
+      "finished_at": "2026-10-10T18:36:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
