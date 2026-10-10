@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T10:18:21+00:00",
+  "updated_at": "2026-10-10T10:24:17+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01786",
-      "started_at": "2026-10-09T16:53:53+00:00",
-      "source": "_drafts/2026-10-09-xe-may-thue-may-keu-luc-cuc-khi-tang-ga.md",
-      "destination": "_posts/2026-10-09-xe-may-thue-may-keu-luc-cuc-khi-tang-ga.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2120b374f6bda21397c8240a56d59e211244c912",
-      "finished_at": "2026-10-09T16:53:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01787",
-      "started_at": "2026-10-09T16:53:53+00:00",
-      "source": "_drafts/2026-10-09-xe-thue-bi-rung-nhieu-o-vach-son-uot.md",
-      "destination": "_posts/2026-10-09-xe-thue-bi-rung-nhieu-o-vach-son-uot.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2120b374f6bda21397c8240a56d59e211244c912",
-      "finished_at": "2026-10-09T16:53:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01788",
       "started_at": "2026-10-09T16:55:42+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "e423b5dc198584ccad13d7d9e1043cdbe521b3ef",
       "finished_at": "2026-10-10T10:18:21+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01811",
+      "started_at": "2026-10-10T10:24:17+00:00",
+      "source": "_drafts/2026-10-10-qua-oan-ngap-nuoc-tren-xe-may-ung-cach.md",
+      "destination": "_posts/2026-10-10-qua-oan-ngap-nuoc-tren-xe-may-ung-cach.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3da94e3bcc341dd1a96a03fec4fd54cf375dfb98",
+      "finished_at": "2026-10-10T10:24:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01812",
+      "started_at": "2026-10-10T10:24:17+00:00",
+      "source": "_drafts/2026-10-10-i-xe-may-luc-troi-mua-nho-can-chuan-bi-gi.md",
+      "destination": "_posts/2026-10-10-i-xe-may-luc-troi-mua-nho-can-chuan-bi-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3da94e3bcc341dd1a96a03fec4fd54cf375dfb98",
+      "finished_at": "2026-10-10T10:24:17+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
