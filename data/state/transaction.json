@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T15:57:44+00:00",
+  "updated_at": "2026-10-10T16:10:51+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01838",
-      "started_at": "2026-10-10T11:37:10+00:00",
-      "source": "_drafts/2026-10-10-xe-may-thue-bi-rung-bat-thuong-nguyen-nhan-thuong-gap.md",
-      "destination": "_posts/2026-10-10-xe-may-thue-bi-rung-bat-thuong-nguyen-nhan-thuong-gap.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8f8de88e31489072e1821d472f72f4513d0a68b6",
-      "finished_at": "2026-10-10T11:37:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01848",
-      "started_at": "2026-10-10T12:53:08+00:00",
-      "source": "_drafts/2026-10-10-cho-man-hinh-tv-tren-xe-may-sao-cho-khong-vo.md",
-      "destination": "_posts/2026-10-10-cho-man-hinh-tv-tren-xe-may-sao-cho-khong-vo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6c30d6b94fe5ec930ef2aa3b95be3b297eea1801",
-      "finished_at": "2026-10-10T12:53:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01849",
       "started_at": "2026-10-10T12:53:08+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "22258a70db98b6dbd4135307997c677314eb6238",
       "finished_at": "2026-10-10T15:57:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01863",
+      "started_at": "2026-10-10T16:10:51+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-doc-kenh-to-lich-sang-cuoi-tuan-oan-thong-tha.md",
+      "destination": "_posts/2026-10-10-chay-xe-doc-kenh-to-lich-sang-cuoi-tuan-oan-thong-tha.md",
+      "result": "PUBLISHED",
+      "commit_sha": "20955f7b13d9e9b7c7d588893c903b845e9e307d",
+      "finished_at": "2026-10-10T16:10:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01864",
+      "started_at": "2026-10-10T16:10:51+00:00",
+      "source": "_drafts/2026-10-10-ha-noi-i-ho-ba-trai-bang-xe-may-cung-uong-ba-vi-cuoi-tuan.md",
+      "destination": "_posts/2026-10-10-ha-noi-i-ho-ba-trai-bang-xe-may-cung-uong-ba-vi-cuoi-tuan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "20955f7b13d9e9b7c7d588893c903b845e9e307d",
+      "finished_at": "2026-10-10T16:10:51+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
