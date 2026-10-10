@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T15:55:26+00:00",
+  "updated_at": "2026-10-10T15:57:44+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01836",
-      "started_at": "2026-10-10T11:34:32+00:00",
-      "source": "_drafts/2026-10-10-gui-xe-o-chung-cu-khi-khong-co-the-xe-cach-xu-ly.md",
-      "destination": "_posts/2026-10-10-gui-xe-o-chung-cu-khi-khong-co-the-xe-cach-xu-ly.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4d8841f75fd18da2be206d813609d31436348a21",
-      "finished_at": "2026-10-10T11:34:32+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01837",
-      "started_at": "2026-10-10T11:37:10+00:00",
-      "source": "_drafts/2026-10-10-thue-xe-may-gan-benh-vien-viet-uc-luu-y-khi-en-kham-benh.md",
-      "destination": "_posts/2026-10-10-thue-xe-may-gan-benh-vien-viet-uc-luu-y-khi-en-kham-benh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8f8de88e31489072e1821d472f72f4513d0a68b6",
-      "finished_at": "2026-10-10T11:37:10+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01838",
       "started_at": "2026-10-10T11:37:10+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "70bccda888739255fd11028f29534010841327ad",
       "finished_at": "2026-10-10T15:55:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01861",
+      "started_at": "2026-10-10T15:57:44+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-o-san-van-ong-ngay-co-tran-au-kinh-nghiem-chon-cho.md",
+      "destination": "_posts/2026-10-10-gui-xe-o-san-van-ong-ngay-co-tran-au-kinh-nghiem-chon-cho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "22258a70db98b6dbd4135307997c677314eb6238",
+      "finished_at": "2026-10-10T15:57:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01862",
+      "started_at": "2026-10-10T15:57:44+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-o-cho-phien-ngoai-thanh-bai-at-trong-va-ve-luot.md",
+      "destination": "_posts/2026-10-10-gui-xe-o-cho-phien-ngoai-thanh-bai-at-trong-va-ve-luot.md",
+      "result": "PUBLISHED",
+      "commit_sha": "22258a70db98b6dbd4135307997c677314eb6238",
+      "finished_at": "2026-10-10T15:57:44+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
