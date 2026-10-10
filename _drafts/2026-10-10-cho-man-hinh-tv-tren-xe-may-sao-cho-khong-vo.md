@@ -10,7 +10,7 @@ tags: [chở màn hình tv trên xe máy, vận chuyển tv bằng xe máy, ch�
 permalink: /ky-nang/2026/10/10/cho-man-hinh-tv-tren-xe-may-sao-cho-khong-vo/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-CHO-DO
-article_id: BLG-01839
+article_id: BLG-01848
 writer: W1
 ---
 

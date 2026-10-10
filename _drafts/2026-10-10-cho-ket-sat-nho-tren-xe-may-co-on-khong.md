@@ -10,7 +10,7 @@ tags: [chở két sắt trên xe máy, vận chuyển két sắt bằng xe máy,
 permalink: /ky-nang/2026/10/10/cho-ket-sat-nho-tren-xe-may-co-on-khong/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-CHO-DO
-article_id: BLG-01840
+article_id: BLG-01849
 writer: W1
 ---
 
