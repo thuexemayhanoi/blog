@@ -17,8 +17,8 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 27 | 140 | /thue-xe/khach-quoc-te/ |
 | P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 34 | 180 | /thue-xe/nhan-tra-xe/ |
 | P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 34 | 180 | /thue-xe/su-co/ |
-| P-XE-MAY | Xe số (C-XE-SO) | 3 | 25 | 160 | /xe-may/xe-so/ |
-| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 22 | 160 | /xe-may/xe-ga/ |
+| P-XE-MAY | Xe số (C-XE-SO) | 3 | 27 | 160 | /xe-may/xe-so/ |
+| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 24 | 160 | /xe-may/xe-ga/ |
 | P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 12 | 140 | /xe-may/xe-50cc/ |
 | P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 31 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 14 | 100 | /xe-may/xe-dap-dien/ |
@@ -27,7 +27,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-XE-MAY | Honda Air Blade (C-HONDA-AIR-BLADE) | 1 | 10 | 110 | /xe-may/honda-air-blade/ |
 | P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 10 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 11 | 100 | /xe-may/yamaha-sirius/ |
-| P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 38 | 140 | /xe-may/bao-duong-xe/ |
+| P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 39 | 140 | /xe-may/bao-duong-xe/ |
 | P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 22 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
 | P-PHAP-LY | Bảo hiểm xe máy (C-BAO-HIEM) | 10 | 18 | 130 | /an-toan-phap-ly/bao-hiem/ |
 | P-PHAP-LY | Nồng độ cồn (C-NOI-DO-CONG) | 2 | 12 | 120 | /an-toan-phap-ly/noi-do-cong/ |
@@ -51,21 +51,21 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-KY-NANG | Tình huống giao thông (C-KY-NANG-TINH-HUONG) | 97 | 40 | 180 | /ky-nang/tinh-huong-giao-thong/ |
 | P-KY-NANG | Thời tiết & đường sá (C-KY-NANG-THOI-TIET) | 41 | 38 | 150 | /ky-nang/thoi-tiet-va-duong-sa/ |
 | P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 42 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
-| P-KY-NANG | Gửi xe & giữ xe (C-KY-NANG-GUI-XE) | 19 | 44 | 120 | /ky-nang/gui-xe-va-giu-xe/ |
+| P-KY-NANG | Gửi xe & giữ xe (C-KY-NANG-GUI-XE) | 19 | 45 | 120 | /ky-nang/gui-xe-va-giu-xe/ |
 | P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 19 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
 | P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 17 | 90 | /hoi-dap/hoi-dap-gia/ |
 | P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 17 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
 | P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 13 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
-| P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 19 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
-| P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 17 | 90 | /hoi-dap/hoi-dap-su-co/ |
-| P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 25 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
+| P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 21 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
+| P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 18 | 90 | /hoi-dap/hoi-dap-su-co/ |
+| P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 27 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
 | P-THUE-XE | Thuê xe theo đối tượng (C-THUE-DOI-TUONG) | 0 | 26 | 80 | /thue-xe/thue-theo-doi-tuong/ |
 | P-THUE-XE | Thuê xe theo địa điểm (C-THUE-DIA-DIEM) | 0 | 18 | 70 | /thue-xe/thue-theo-dia-diem/ |
 | P-XE-MAY | Chọn loại xe khi thuê (C-XE-LUA-CHON) | 0 | 19 | 80 | /xe-may/chon-loai-xe/ |
-| P-XE-MAY | Xử lý sự cố xe máy thuê (C-XE-KHAC-PHUC) | 0 | 31 | 90 | /xe-may/xu-ly-su-co-xe/ |
+| P-XE-MAY | Xử lý sự cố xe máy thuê (C-XE-KHAC-PHUC) | 0 | 32 | 90 | /xe-may/xu-ly-su-co-xe/ |
 | P-XE-MAY | So sánh khi thuê xe máy (C-XE-SO-SANH) | 0 | 22 | 90 | /xe-may/so-sanh-xe/ |
 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 1475 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 1487 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
