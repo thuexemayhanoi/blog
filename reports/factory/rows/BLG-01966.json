@@ -1,0 +1,145 @@
+{
+  "article_id": "BLG-01966",
+  "status": "WRITING",
+  "title": "Thuê xe máy điện hay xe xăng đi trong phố",
+  "intent": "Biết cách so sánh xe máy điện với xe xăng khi đi trong phố",
+  "primary_keyword": "thuê xe máy điện hay xe xăng",
+  "secondary_keywords": [
+    "xe điện với xe xăng trong phố"
+  ],
+  "group": "HOI-DAP",
+  "taxonomy": {
+    "parent_id": "P-HOI-DAP",
+    "parent_hub": "Hỏi đáp thuê xe máy",
+    "parent_hub_url": "/hoi-dap/",
+    "child_id": "C-HD-CHON-XE",
+    "child_hub": "Hỏi đáp chọn xe",
+    "child_hub_url": "/hoi-dap/hoi-dap-chon-xe/"
+  },
+  "expected_url": "/hoi-dap/2026/10/10/thue-xe-may-ien-hay-xe-xang-i-trong-pho/",
+  "output_path": "_posts/{date}-thue-xe-may-ien-hay-xe-xang-i-trong-pho.md",
+  "draft_path": "_drafts/2026-10-10-thue-xe-may-ien-hay-xe-xang-i-trong-pho.md",
+  "canonical_url": "/hoi-dap/2026/10/10/thue-xe-may-ien-hay-xe-xang-i-trong-pho/",
+  "internal_links_matrix": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+  ],
+  "commercial_intent": "medium",
+  "cannibalization_key": "thue xe may ien hay xe xang",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00028",
+      "title": "Kinh nghiệm đổ xăng và nghỉ trên tuyến khi chạy xe đường trường",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/kinh-nghiem-do-xang-va-nghi-tuyen/"
+    },
+    {
+      "id": "BLG-00076",
+      "title": "Cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/"
+    },
+    {
+      "id": "BLG-00079",
+      "title": "Cấn xe trước 9 giờ sáng: nhận xe sớm như thế nào",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/can-xe-truoc-9-gio-sang/"
+    },
+    {
+      "id": "BLG-00104",
+      "title": "Chia sẻ vị trí với người thân khi đi khuya",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/chia-se-vi-tri-voi-nguoi-than-khi-di-khuya/"
+    },
+    {
+      "id": "BLG-00125",
+      "title": "Chở lồng chim đi dạo sáng ở Hà Nội",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/cho-long-chim-di-dao-sang/"
+    },
+    {
+      "id": "BLG-00174",
+      "title": "Đi nhóm nhiều xe máy và cách giữ liên lạc",
+      "url": "/du%20l%E1%BB%8Bch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/"
+    },
+    {
+      "id": "BLG-00223",
+      "title": "Đội bê tráp đám cưới sáng sớm với xe máy",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-be-trap-dam-cuoi-sang-song-voi-xe-may/"
+    },
+    {
+      "id": "BLG-00225",
+      "title": "Đổi nơi làm việc giữa kỳ thuê xe máy: giữ di chuyển liền mạch",
+      "url": "/chia%20s%E1%BA%BB/2026/09/19/doi-noi-lam-viec-giua-ky-thue-xe-may/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "91c123944ddd550043517b581989422a612188e2aab505f3e5bb2b86604dd18a",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
