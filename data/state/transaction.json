@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T12:53:08+00:00",
+  "updated_at": "2026-10-10T12:56:05+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01816",
-      "started_at": "2026-10-10T10:40:19+00:00",
-      "source": "_drafts/2026-10-10-nhan-xe-may-thue-au-tuan-nen-kiem-tra-gi.md",
-      "destination": "_posts/2026-10-10-nhan-xe-may-thue-au-tuan-nen-kiem-tra-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "889fee4afa7e9a1cacb00d813923ce38cb72c92f",
-      "finished_at": "2026-10-10T10:40:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01817",
-      "started_at": "2026-10-10T10:45:00+00:00",
-      "source": "_drafts/2026-10-10-xe-may-thue-het-binh-ac-quy-giua-uong-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-10-xe-may-thue-het-binh-ac-quy-giua-uong-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4de1344ead86e679b173d789b915b5c9c99040bb",
-      "finished_at": "2026-10-10T10:45:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01818",
       "started_at": "2026-10-10T10:45:00+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6c30d6b94fe5ec930ef2aa3b95be3b297eea1801",
       "finished_at": "2026-10-10T12:53:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01839",
+      "started_at": "2026-10-10T12:56:05+00:00",
+      "source": "_drafts/2026-10-10-xe-thue-bi-thung-lop-giua-uong-goi-ai-va-lam-gi.md",
+      "destination": "_posts/2026-10-10-xe-thue-bi-thung-lop-giua-uong-goi-ai-va-lam-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5ae5fa9a9cef372cb2ec54213a80c99c8d9941ef",
+      "finished_at": "2026-10-10T12:56:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01840",
+      "started_at": "2026-10-10T12:56:05+00:00",
+      "source": "_drafts/2026-10-10-xe-may-ien-het-pin-giua-uong-xu-ly-the-nao.md",
+      "destination": "_posts/2026-10-10-xe-may-ien-het-pin-giua-uong-xu-ly-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5ae5fa9a9cef372cb2ec54213a80c99c8d9941ef",
+      "finished_at": "2026-10-10T12:56:05+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
