@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:51:15+00:00",
+  "updated_at": "2026-10-10T16:53:47+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01856",
-      "started_at": "2026-10-10T15:50:08+00:00",
-      "source": "_drafts/2026-10-10-gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao.md",
-      "destination": "_posts/2026-10-10-gap-vet-dau-loang-tren-mat-uong-sau-xe-tai-ne-va-phanh-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4a8607f3dc6089bbb5ac775fbdadfb81b54e4409",
-      "finished_at": "2026-10-10T15:50:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01857",
-      "started_at": "2026-10-10T15:53:07+00:00",
-      "source": "_drafts/2026-10-10-i-xe-may-trong-mua-a-giu-binh-tinh-va-tranh-va-cham.md",
-      "destination": "_posts/2026-10-10-i-xe-may-trong-mua-a-giu-binh-tinh-va-tranh-va-cham.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f4e40804b50c5dd722daebafd1bf3ed00f9e1fcf",
-      "finished_at": "2026-10-10T15:53:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01858",
       "started_at": "2026-10-10T15:53:08+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "6e3e95dae04f193ee68f9f471455f917664378d2",
       "finished_at": "2026-10-10T16:51:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01881",
+      "started_at": "2026-10-10T16:53:47+00:00",
+      "source": "_drafts/2026-10-10-en-vang-khi-toi-giao-lo-dung-hay-vuot-ung-cach.md",
+      "destination": "_posts/2026-10-10-en-vang-khi-toi-giao-lo-dung-hay-vuot-ung-cach.md",
+      "result": "PUBLISHED",
+      "commit_sha": "35264707fde7e13ff3e1702d2f5da88bc75a2d60",
+      "finished_at": "2026-10-10T16:53:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01882",
+      "started_at": "2026-10-10T16:53:47+00:00",
+      "source": "_drafts/2026-10-10-cho-vay-cuoi-ao-dai-tren-xe-may-giu-phang-khong-nhau.md",
+      "destination": "_posts/2026-10-10-cho-vay-cuoi-ao-dai-tren-xe-may-giu-phang-khong-nhau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "35264707fde7e13ff3e1702d2f5da88bc75a2d60",
+      "finished_at": "2026-10-10T16:53:47+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
