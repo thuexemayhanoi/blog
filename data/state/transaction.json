@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T18:44:26+00:00",
+  "updated_at": "2026-10-10T18:49:14+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01896",
-      "started_at": "2026-10-10T17:53:57+00:00",
-      "source": "_drafts/2026-10-10-gui-xe-o-benh-vien-luc-gio-kham-cao-iem.md",
-      "destination": "_posts/2026-10-10-gui-xe-o-benh-vien-luc-gio-kham-cao-iem.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cf7e3cc8575ce1602602843b40ff0bbac3de3fc2",
-      "finished_at": "2026-10-10T17:53:57+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01897",
-      "started_at": "2026-10-10T17:56:35+00:00",
-      "source": "_drafts/2026-10-10-i-xe-may-nhieu-gio-lien-giu-lung-va-oi-tu-the.md",
-      "destination": "_posts/2026-10-10-i-xe-may-nhieu-gio-lien-giu-lung-va-oi-tu-the.md",
-      "result": "PUBLISHED",
-      "commit_sha": "7b3a1d1c13fbe6e8f31178366f9a9f6969aa0b0e",
-      "finished_at": "2026-10-10T17:56:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01898",
       "started_at": "2026-10-10T17:56:35+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "e75e581a23c1d109b2fc025804502bb21d692dc4",
       "finished_at": "2026-10-10T18:44:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01921",
+      "started_at": "2026-10-10T18:49:14+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-may-ra-ngoai-thanh-ha-noi-buoi-sang-som.md",
+      "destination": "_posts/2026-10-10-chay-xe-may-ra-ngoai-thanh-ha-noi-buoi-sang-som.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c92fe3ac900737d0a6c57b02f6b61324e6d36e3c",
+      "finished_at": "2026-10-10T18:49:14+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01922",
+      "started_at": "2026-10-10T18:49:14+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-may-duoi-mua-lon-dung-hay-tiep-tuc.md",
+      "destination": "_posts/2026-10-10-chay-xe-may-duoi-mua-lon-dung-hay-tiep-tuc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c92fe3ac900737d0a6c57b02f6b61324e6d36e3c",
+      "finished_at": "2026-10-10T18:49:14+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
