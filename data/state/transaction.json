@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T21:34:54+00:00",
+  "updated_at": "2026-10-10T21:53:31+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01958",
-      "started_at": "2026-10-10T19:58:17+00:00",
-      "source": "_drafts/2026-10-10-xe-ga-cho-tre-em-i-hoc-them-buoi-toi.md",
-      "destination": "_posts/2026-10-10-xe-ga-cho-tre-em-i-hoc-them-buoi-toi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "00dc3199eb83129ad36ef3d927335168b99c86f5",
-      "finished_at": "2026-10-10T19:58:17+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01959",
-      "started_at": "2026-10-10T20:35:07+00:00",
-      "source": "_drafts/2026-10-10-xe-so-e-may-kho-khi-troi-lanh.md",
-      "destination": "_posts/2026-10-10-xe-so-e-may-kho-khi-troi-lanh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d43b276182be9e72200021a89ae9b1e5ed8bbfd4",
-      "finished_at": "2026-10-10T20:35:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01960",
       "started_at": "2026-10-10T20:35:07+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "f5edd863f987579e59e582ed16d5eba86cd7ef45",
       "finished_at": "2026-10-10T21:34:54+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01983",
+      "started_at": "2026-10-10T21:53:31+00:00",
+      "source": "_drafts/2026-10-10-xe-so-bi-hut-ga-khi-len-cau-vuot-cach-xu-ly.md",
+      "destination": "_posts/2026-10-10-xe-so-bi-hut-ga-khi-len-cau-vuot-cach-xu-ly.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a467a2346479808143fd9a35249317d36971f482",
+      "finished_at": "2026-10-10T21:53:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01984",
+      "started_at": "2026-10-10T21:53:31+00:00",
+      "source": "_drafts/2026-10-10-xe-ga-e-khong-no-khi-troi-lanh-nguyen-nhan-va-cach-khac-phuc.md",
+      "destination": "_posts/2026-10-10-xe-ga-e-khong-no-khi-troi-lanh-nguyen-nhan-va-cach-khac-phuc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a467a2346479808143fd9a35249317d36971f482",
+      "finished_at": "2026-10-10T21:53:31+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
