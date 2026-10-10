@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T22:01:57+00:00",
+  "updated_at": "2026-10-10T22:03:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01968",
-      "started_at": "2026-10-10T20:41:55+00:00",
-      "source": "_drafts/2026-10-10-nguoi-moi-lai-xe-may-i-uong-pho-ngay-au.md",
-      "destination": "_posts/2026-10-10-nguoi-moi-lai-xe-may-i-uong-pho-ngay-au.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c5218c300387aeb77e12dd2827a43f3c4326680e",
-      "finished_at": "2026-10-10T20:41:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01969",
-      "started_at": "2026-10-10T20:42:56+00:00",
-      "source": "_drafts/2026-10-10-tap-i-xe-may-cho-nguoi-moi-biet-lai.md",
-      "destination": "_posts/2026-10-10-tap-i-xe-may-cho-nguoi-moi-biet-lai.md",
-      "result": "PUBLISHED",
-      "commit_sha": "54cc0c0917fc8b151d6530c5ff7fde984e319056",
-      "finished_at": "2026-10-10T20:42:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01970",
       "started_at": "2026-10-10T20:42:56+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "de38850558230b2bc3fa6b57f1ee82a1672f84cd",
       "finished_at": "2026-10-10T22:01:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01993",
+      "started_at": "2026-10-10T22:03:16+00:00",
+      "source": "_drafts/2026-10-10-can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi.md",
+      "destination": "_posts/2026-10-10-can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "413ae46c14996aa9bdad444876ef1b99e6813198",
+      "finished_at": "2026-10-10T22:03:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01994",
+      "started_at": "2026-10-10T22:03:16+00:00",
+      "source": "_drafts/2026-10-10-xe-thue-bi-roi-bien-so-giua-uong-xu-ly-the-nao.md",
+      "destination": "_posts/2026-10-10-xe-thue-bi-roi-bien-so-giua-uong-xu-ly-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "413ae46c14996aa9bdad444876ef1b99e6813198",
+      "finished_at": "2026-10-10T22:03:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
