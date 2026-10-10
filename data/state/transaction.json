@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T09:29:46+00:00",
+  "updated_at": "2026-10-10T09:34:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01776",
-      "started_at": "2026-10-09T16:42:52+00:00",
-      "source": "_drafts/2026-10-09-thue-xe-may-cho-bac-si-truc-ca-em-can-luu-y-gi.md",
-      "destination": "_posts/2026-10-09-thue-xe-may-cho-bac-si-truc-ca-em-can-luu-y-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "27a2a7c833355db37ce4e2e5ef2738bc53ea964f",
-      "finished_at": "2026-10-09T16:42:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01777",
-      "started_at": "2026-10-09T16:42:53+00:00",
-      "source": "_drafts/2026-10-09-thue-xe-may-cho-nguoi-ban-hang-rong-di-chuyen.md",
-      "destination": "_posts/2026-10-09-thue-xe-may-cho-nguoi-ban-hang-rong-di-chuyen.md",
-      "result": "PUBLISHED",
-      "commit_sha": "27a2a7c833355db37ce4e2e5ef2738bc53ea964f",
-      "finished_at": "2026-10-09T16:42:53+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01778",
       "started_at": "2026-10-09T16:46:25+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "520b752d1d63113f272904911a8f32eb2968733a",
       "finished_at": "2026-10-10T09:29:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01801",
+      "started_at": "2026-10-10T09:34:36+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-may-o-sieu-thi-va-trung-tam-thuong-mai-ha-noi.md",
+      "destination": "_posts/2026-10-10-gui-xe-may-o-sieu-thi-va-trung-tam-thuong-mai-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1af65d8be2e2468d33a5e1fc8bb0b0362fbbc185",
+      "finished_at": "2026-10-10T09:34:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01802",
+      "started_at": "2026-10-10T09:34:36+00:00",
+      "source": "_drafts/2026-10-10-oc-gi-trong-bien-nhan-ban-giao-xe-may-thue.md",
+      "destination": "_posts/2026-10-10-oc-gi-trong-bien-nhan-ban-giao-xe-may-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1af65d8be2e2468d33a5e1fc8bb0b0362fbbc185",
+      "finished_at": "2026-10-10T09:34:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
