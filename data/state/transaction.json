@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T09:56:45+00:00",
+  "updated_at": "2026-10-10T10:07:50+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01781",
-      "started_at": "2026-10-09T16:48:22+00:00",
-      "source": "_drafts/2026-10-09-thue-xe-may-quanh-ben-xe-my-inh-tien-cho-chuyen-i.md",
-      "destination": "_posts/2026-10-09-thue-xe-may-quanh-ben-xe-my-inh-tien-cho-chuyen-i.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8a98a7d487f8c6e8a008d1ae6763d6eaf95a9fe7",
-      "finished_at": "2026-10-09T16:48:22+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01782",
       "started_at": "2026-10-09T16:50:36+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "f3495694976a131ebc293d783f6cb4855bd3d68e",
       "finished_at": "2026-10-10T09:56:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01805",
+      "started_at": "2026-10-10T10:07:49+00:00",
+      "source": "_drafts/2026-10-10-xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao.md",
+      "destination": "_posts/2026-10-10-xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3b0579a4ac788c331f171ad0f544f5df80cfe2c5",
+      "finished_at": "2026-10-10T10:07:50+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
