@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T11:22:16+00:00",
+  "updated_at": "2026-10-10T11:24:37+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01805",
-      "started_at": "2026-10-10T10:07:49+00:00",
-      "source": "_drafts/2026-10-10-xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-10-xe-may-thue-bi-thung-lop-giua-uong-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3b0579a4ac788c331f171ad0f544f5df80cfe2c5",
-      "finished_at": "2026-10-10T10:07:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01807",
-      "started_at": "2026-10-10T10:12:41+00:00",
-      "source": "_drafts/2026-10-10-en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe.md",
-      "destination": "_posts/2026-10-10-en-van-mieu-quoc-tu-giam-bang-xe-may-gio-i-va-gui-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a71626ef893c686178d403c95c05ac239b0e7054",
-      "finished_at": "2026-10-10T10:12:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01808",
       "started_at": "2026-10-10T10:12:42+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "087bc4507322c4252ddd49407b3b44bac92cadd9",
       "finished_at": "2026-10-10T11:22:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01831",
+      "started_at": "2026-10-10T11:24:37+00:00",
+      "source": "_drafts/2026-10-10-honda-wave-co-ben-khi-chay-uong-dai-khong.md",
+      "destination": "_posts/2026-10-10-honda-wave-co-ben-khi-chay-uong-dai-khong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f1136b283e974f1caf2acd5126a8d3433545d99c",
+      "finished_at": "2026-10-10T11:24:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01832",
+      "started_at": "2026-10-10T11:24:37+00:00",
+      "source": "_drafts/2026-10-10-tu-kiem-tra-nhot-xe-thue-truoc-chuyen-i-xa.md",
+      "destination": "_posts/2026-10-10-tu-kiem-tra-nhot-xe-thue-truoc-chuyen-i-xa.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f1136b283e974f1caf2acd5126a8d3433545d99c",
+      "finished_at": "2026-10-10T11:24:37+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
