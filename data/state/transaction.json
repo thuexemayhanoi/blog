@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T19:50:16+00:00",
+  "updated_at": "2026-10-10T19:51:41+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01926",
-      "started_at": "2026-10-10T18:57:57+00:00",
-      "source": "_drafts/2026-10-10-honda-vision-cho-nguoi-ngoi-sau-vung-tay.md",
-      "destination": "_posts/2026-10-10-honda-vision-cho-nguoi-ngoi-sau-vung-tay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "077a560a7c5da6daeba69eef26ebf524c3ef147d",
-      "finished_at": "2026-10-10T18:57:57+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01927",
-      "started_at": "2026-10-10T19:00:46+00:00",
-      "source": "_drafts/2026-10-10-cham-xe-may-mua-nom-am-o-ha-noi.md",
-      "destination": "_posts/2026-10-10-cham-xe-may-mua-nom-am-o-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1116e06c0793901e194d23a75ab83a9e88b9d0b9",
-      "finished_at": "2026-10-10T19:00:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01928",
       "started_at": "2026-10-10T19:00:46+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "03cff23b0a615ac8306df557016fc2f7c1a40574",
       "finished_at": "2026-10-10T19:50:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01951",
+      "started_at": "2026-10-10T19:51:41+00:00",
+      "source": "_drafts/2026-10-10-oi-xe-giua-ky-thue-khi-xe-gap-van-e.md",
+      "destination": "_posts/2026-10-10-oi-xe-giua-ky-thue-khi-xe-gap-van-e.md",
+      "result": "PUBLISHED",
+      "commit_sha": "36d27ec27d6f585773e5b6da9dcdd5b9ec246d70",
+      "finished_at": "2026-10-10T19:51:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01952",
+      "started_at": "2026-10-10T19:51:41+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-may-theo-ngay-cho-buoi-phong-van.md",
+      "destination": "_posts/2026-10-10-thue-xe-may-theo-ngay-cho-buoi-phong-van.md",
+      "result": "PUBLISHED",
+      "commit_sha": "36d27ec27d6f585773e5b6da9dcdd5b9ec246d70",
+      "finished_at": "2026-10-10T19:51:41+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
