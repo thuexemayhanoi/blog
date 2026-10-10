@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T19:58:17+00:00",
+  "updated_at": "2026-10-10T20:35:07+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01934",
-      "started_at": "2026-10-10T19:11:49+00:00",
-      "source": "_drafts/2026-10-10-hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao.md",
-      "destination": "_posts/2026-10-10-hoi-at-coc-thue-xe-may-bao-nhieu-va-nhan-lai-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "912b726a7bbec6e4b485eac9aca1390106b5aac7",
-      "finished_at": "2026-10-10T19:11:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01935",
-      "started_at": "2026-10-10T19:18:38+00:00",
-      "source": "_drafts/2026-10-10-thue-xe-may-theo-ngay-cho-chuyen-cong-tac-ngan.md",
-      "destination": "_posts/2026-10-10-thue-xe-may-theo-ngay-cho-chuyen-cong-tac-ngan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "edf347b194070ce2f9e5e77b851ee0c3a0a9356f",
-      "finished_at": "2026-10-10T19:18:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01936",
       "started_at": "2026-10-10T19:18:38+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "00dc3199eb83129ad36ef3d927335168b99c86f5",
       "finished_at": "2026-10-10T19:58:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01959",
+      "started_at": "2026-10-10T20:35:07+00:00",
+      "source": "_drafts/2026-10-10-xe-so-e-may-kho-khi-troi-lanh.md",
+      "destination": "_posts/2026-10-10-xe-so-e-may-kho-khi-troi-lanh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d43b276182be9e72200021a89ae9b1e5ed8bbfd4",
+      "finished_at": "2026-10-10T20:35:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01960",
+      "started_at": "2026-10-10T20:35:07+00:00",
+      "source": "_drafts/2026-10-10-i-xe-so-tiet-kiem-xang-trong-pho.md",
+      "destination": "_posts/2026-10-10-i-xe-so-tiet-kiem-xang-trong-pho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d43b276182be9e72200021a89ae9b1e5ed8bbfd4",
+      "finished_at": "2026-10-10T20:35:07+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
