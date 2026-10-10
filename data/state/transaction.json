@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T18:11:41+00:00",
+  "updated_at": "2026-10-10T18:14:09+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01880",
-      "started_at": "2026-10-10T16:51:15+00:00",
-      "source": "_drafts/2026-10-10-gap-xe-quet-rac-va-xe-tuoi-nuoc-sang-som-giu-khoang-cach.md",
-      "destination": "_posts/2026-10-10-gap-xe-quet-rac-va-xe-tuoi-nuoc-sang-som-giu-khoang-cach.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e3e95dae04f193ee68f9f471455f917664378d2",
-      "finished_at": "2026-10-10T16:51:15+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01881",
-      "started_at": "2026-10-10T16:53:47+00:00",
-      "source": "_drafts/2026-10-10-en-vang-khi-toi-giao-lo-dung-hay-vuot-ung-cach.md",
-      "destination": "_posts/2026-10-10-en-vang-khi-toi-giao-lo-dung-hay-vuot-ung-cach.md",
-      "result": "PUBLISHED",
-      "commit_sha": "35264707fde7e13ff3e1702d2f5da88bc75a2d60",
-      "finished_at": "2026-10-10T16:53:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01882",
       "started_at": "2026-10-10T16:53:47+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "a171d69deb085435d327ccfa7212a967d8b72183",
       "finished_at": "2026-10-10T18:11:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01905",
+      "started_at": "2026-10-10T18:14:09+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-pho-co-sang-som-cung-i-va-iem-dung.md",
+      "destination": "_posts/2026-10-10-chay-xe-pho-co-sang-som-cung-i-va-iem-dung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "147728baad4b49a1d1063dd578b2dc1fb5146421",
+      "finished_at": "2026-10-10T18:14:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01906",
+      "started_at": "2026-10-10T18:14:09+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-may-khi-troi-suong-mu-buoi-som.md",
+      "destination": "_posts/2026-10-10-chay-xe-may-khi-troi-suong-mu-buoi-som.md",
+      "result": "PUBLISHED",
+      "commit_sha": "147728baad4b49a1d1063dd578b2dc1fb5146421",
+      "finished_at": "2026-10-10T18:14:09+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
