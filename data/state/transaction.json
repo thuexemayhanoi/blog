@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T17:00:43+00:00",
+  "updated_at": "2026-10-10T17:40:52+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01862",
-      "started_at": "2026-10-10T15:57:44+00:00",
-      "source": "_drafts/2026-10-10-gui-xe-o-cho-phien-ngoai-thanh-bai-at-trong-va-ve-luot.md",
-      "destination": "_posts/2026-10-10-gui-xe-o-cho-phien-ngoai-thanh-bai-at-trong-va-ve-luot.md",
-      "result": "PUBLISHED",
-      "commit_sha": "22258a70db98b6dbd4135307997c677314eb6238",
-      "finished_at": "2026-10-10T15:57:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01863",
-      "started_at": "2026-10-10T16:10:51+00:00",
-      "source": "_drafts/2026-10-10-chay-xe-doc-kenh-to-lich-sang-cuoi-tuan-oan-thong-tha.md",
-      "destination": "_posts/2026-10-10-chay-xe-doc-kenh-to-lich-sang-cuoi-tuan-oan-thong-tha.md",
-      "result": "PUBLISHED",
-      "commit_sha": "20955f7b13d9e9b7c7d588893c903b845e9e307d",
-      "finished_at": "2026-10-10T16:10:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01864",
       "started_at": "2026-10-10T16:10:51+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "2a67fedeaf8af9e5c7d94eff280351fe74f67bb3",
       "finished_at": "2026-10-10T17:00:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01887",
+      "started_at": "2026-10-10T17:40:52+00:00",
+      "source": "_drafts/2026-10-10-xe-may-e-lau-khong-chay-kiem-tra-truoc-khi-no-may.md",
+      "destination": "_posts/2026-10-10-xe-may-e-lau-khong-chay-kiem-tra-truoc-khi-no-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f599a6a5358bfefd33e6e5ded88b0dbbcd22d513",
+      "finished_at": "2026-10-10T17:40:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01888",
+      "started_at": "2026-10-10T17:40:52+00:00",
+      "source": "_drafts/2026-10-10-oc-bien-bao-cam-o-va-cam-dung-tren-via-he.md",
+      "destination": "_posts/2026-10-10-oc-bien-bao-cam-o-va-cam-dung-tren-via-he.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f599a6a5358bfefd33e6e5ded88b0dbbcd22d513",
+      "finished_at": "2026-10-10T17:40:52+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
