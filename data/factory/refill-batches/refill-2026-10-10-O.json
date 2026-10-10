@@ -1,0 +1,225 @@
+{
+  "_meta": {
+    "note": "Topic batch refill 2026-10-10 O: chu de that, tao boi writer theo gate G1-G8.",
+    "created": "2026-10-10",
+    "source": "writer topic expansion theo docs/TAXONOMY.md"
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-10-O001",
+      "child_id": "C-XE-SO",
+      "title": "Xe số đề máy khó khi trời lạnh",
+      "intent": "Biết cách khởi động xe số khi trời lạnh",
+      "kw": "xe số đề máy trời lạnh",
+      "kw2": [
+        "khởi động xe số trời lạnh"
+      ],
+      "links": [
+        "/xe-may/xe-so/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người đi xe số sáng sớm mùa lạnh",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O002",
+      "child_id": "C-XE-SO",
+      "title": "Đi xe số tiết kiệm xăng trong phố",
+      "intent": "Biết cách chạy xe số trong phố cho hao xăng ít",
+      "kw": "đi xe số tiết kiệm xăng",
+      "kw2": [
+        "chạy xe số hao xăng"
+      ],
+      "links": [
+        "/xe-may/xe-so/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người đi xe số di chuyển hằng ngày trong phố",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O003",
+      "child_id": "C-XE-GA",
+      "title": "Xe ga xuống dốc dài dùng phanh thế nào",
+      "intent": "Biết kỹ thuật xuống dốc dài an toàn bằng xe tay ga",
+      "kw": "xe ga xuống dốc dài",
+      "kw2": [
+        "xuống dốc bằng xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người đi xe ga qua các cung đường dốc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O004",
+      "child_id": "C-XE-GA",
+      "title": "Chở đồ đi chợ bằng xe ga cốp nhỏ",
+      "intent": "Biết cách chở đồ đi chợ khi xe ga có cốp nhỏ",
+      "kw": "chở đồ đi chợ bằng xe ga",
+      "kw2": [
+        "chở hàng trên xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người đi chợ cuối tuần bằng xe ga",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O005",
+      "child_id": "C-BAO-DUONG",
+      "title": "Kiểm tra nhớt xe máy trước chuyến dài",
+      "intent": "Biết cách kiểm tra mức nhớt trước khi chạy chuyến dài",
+      "kw": "kiểm tra nhớt xe máy",
+      "kw2": [
+        "đo nhớt xe máy trước chuyến đi"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người chuẩn bị chạy chuyến dài bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O006",
+      "child_id": "C-XE-KHAC-PHUC",
+      "title": "Xe máy thuê chết máy giữa ngã tư",
+      "intent": "Biết cách xử lý ban đầu khi xe máy đang chạy bị chết máy",
+      "kw": "xe máy chết máy giữa đường",
+      "kw2": [
+        "xe đang chạy chết máy"
+      ],
+      "links": [
+        "/xe-may/xu-ly-su-co-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người thuê xe gặp sự cố chết máy giữa đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O007",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Người mới lái xe máy đi đường phố ngày đầu",
+      "intent": "Biết cách đi đường phố an toàn trong ngày đầu cầm lái",
+      "kw": "người mới lái xe máy đường phố",
+      "kw2": [
+        "ngày đầu chạy xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người mới biết lái chuẩn bị ngày đầu đi phố",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O008",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Nên thuê xe ga hay xe số khi đi làm",
+      "intent": "Biết cách chọn giữa xe ga và xe số cho lộ trình đi làm",
+      "kw": "thuê xe ga hay xe số đi làm",
+      "kw2": [
+        "chọn xe số hay xe ga đi làm"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người đi làm cân nhắc thuê xe hằng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O009",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Thuê xe máy điện hay xe xăng đi trong phố",
+      "intent": "Biết cách so sánh xe máy điện với xe xăng khi đi trong phố",
+      "kw": "thuê xe máy điện hay xe xăng",
+      "kw2": [
+        "xe điện với xe xăng trong phố"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người cần xe di chuyển ngắn trong nội thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O010",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe máy thuê thủng lốp giữa đường",
+      "intent": "Biết cách xử lý khi xe thuê bị thủng lốp giữa đường",
+      "kw": "xe máy thuê thủng lốp",
+      "kw2": [
+        "xử lý lốp xe thuê bị thủng"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người thuê xe gặp sự cố lốp giữa chặng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O011",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Tập đi xe máy cho người mới biết lái",
+      "intent": "Biết cách tập đi xe máy an toàn cho người mới",
+      "kw": "tập đi xe máy cho người mới",
+      "kw2": [
+        "người mới biết lái xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người mới biết lái muốn tập đi an toàn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-O012",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở bệnh viện lúc đi khám sớm",
+      "intent": "Biết cách chọn chỗ gửi xe khi đi khám bệnh viện sáng sớm",
+      "kw": "gửi xe ở bệnh viện",
+      "kw2": [
+        "bãi gửi xe bệnh viện"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-O",
+      "audience": "người đi khám bệnh sáng sớm bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ]
+}
