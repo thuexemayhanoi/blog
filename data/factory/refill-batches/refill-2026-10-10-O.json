@@ -206,18 +206,18 @@
     {
       "candidate_id": "CAND-2026-10-10-O012",
       "child_id": "C-KY-NANG-GUI-XE",
-      "title": "Gửi xe ở bệnh viện lúc đi khám sớm",
-      "intent": "Biết cách chọn chỗ gửi xe khi đi khám bệnh viện sáng sớm",
-      "kw": "gửi xe ở bệnh viện",
+      "title": "Gửi xe ở siêu thị khi đi chợ cuối tuần",
+      "intent": "Biết cách chọn chỗ gửi xe khi đi siêu thị cuối tuần",
+      "kw": "gửi xe ở siêu thị",
       "kw2": [
-        "bãi gửi xe bệnh viện"
+        "bãi xe siêu thị"
       ],
       "links": [
         "/ky-nang/gui-xe-va-giu-xe/",
         "/ky-nang/"
       ],
       "subtopic": "refill-2026-10-10-O",
-      "audience": "người đi khám bệnh sáng sớm bằng xe máy",
+      "audience": "người đi mua sắm cuối tuần",
       "location_scope": "Hà Nội",
       "word_target": 1200
     }
