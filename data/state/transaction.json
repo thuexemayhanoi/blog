@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T07:55:08+00:00",
+  "updated_at": "2026-10-10T08:14:33+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01770",
-      "started_at": "2026-10-09T16:36:42+00:00",
-      "source": "_drafts/2026-10-09-nguoi-cao-lon-nen-thue-xe-ga-nao.md",
-      "destination": "_posts/2026-10-09-nguoi-cao-lon-nen-thue-xe-ga-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5eaf11f74251e6263ddb40880e45a1646655f073",
-      "finished_at": "2026-10-09T16:36:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01771",
       "started_at": "2026-10-09T16:36:42+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "93dd4d4909e78d142e5461d9b70eb6d6c088e102",
       "finished_at": "2026-10-10T07:55:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01796",
+      "started_at": "2026-10-10T08:14:32+00:00",
+      "source": "_drafts/2026-10-10-xe-may-sau-chuyen-i-mua-nen-lau-chui-iem-nao.md",
+      "destination": "_posts/2026-10-10-xe-may-sau-chuyen-i-mua-nen-lau-chui-iem-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d7f56754f039e7a51302472bb758d409f76e6918",
+      "finished_at": "2026-10-10T08:14:33+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
