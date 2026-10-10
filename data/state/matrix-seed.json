@@ -13181,6 +13181,54 @@
           "audience": "người đi phượt cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Hà Nội đi Kim Bôi bằng xe máy: cung đường Hòa Bình",
+          "intent": "Biết cung đường từ Hà Nội đi suối khoáng Kim Bôi ở Hòa Bình bằng xe máy cuối tuần",
+          "kw": "hà nội đi kim bôi",
+          "kw2": [
+            "suối khoáng kim bôi"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người đi phượt cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Hà Nội đi Vân Long bằng xe máy: cung đường Ninh Bình",
+          "intent": "Biết cung đường từ Hà Nội đi khu bảo tồn Vân Long ở Ninh Bình bằng xe máy",
+          "kw": "hà nội đi vân long",
+          "kw2": [
+            "khu bảo tồn vân long"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người đi phượt cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Hà Nội đi Đền Hùng bằng xe máy: cung đường Phú Thọ",
+          "intent": "Biết cung đường từ Hà Nội đi Đền Hùng ở Phú Thọ bằng xe máy",
+          "kw": "hà nội đi đền hùng",
+          "kw2": [
+            "đền hùng phú thọ"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người đi lễ đầu năm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -14762,6 +14810,22 @@
           "audience": "người đi xe máy trong khu ngõ hẹp",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Ra từ ngõ nhỏ vào đường lớn: quan sát và nhấc nhanh",
+          "intent": "Biết kỹ năng ra từ ngõ nhỏ vào đường lớn an toàn bằng xe máy",
+          "kw": "ra ngõ vào đường lớn",
+          "kw2": [
+            "kỹ năng ra ngõ xe máy"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người mới đi xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -15329,6 +15393,54 @@
           ],
           "subtopic": "refill-2026-10-10-G",
           "audience": "người đi xe máy cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Hố ga không nắp trên đường: tránh và giữ lái",
+          "intent": "Biết cách tránh hố ga không nắp và giữ lái khi gặp trên đường",
+          "kw": "hố ga không nắp",
+          "kw2": [
+            "nắp cống mở trên đường"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người đi xe máy hàng ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gặp xe quét rác và xe tưới nước sáng sớm: giữ khoảng cách",
+          "intent": "Biết cách đi xe an toàn khi gặp xe quét rác và xe tưới nước sáng sớm",
+          "kw": "gặp xe quét rác trên đường",
+          "kw2": [
+            "xe tưới nước sáng sớm"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người đi xe máy sáng sớm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đèn vàng khi tới giao lộ: dừng hay vượt đúng cách",
+          "intent": "Biết cách quyết định dừng hay vượt khi đèn tín hiệu chuyển vàng sắp tới giao lộ",
+          "kw": "đèn vàng qua giao lộ",
+          "kw2": [
+            "giao lộ đèn vàng dừng hay vượt"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người đi xe máy hàng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -16494,6 +16606,38 @@
           "audience": "người chở tranh đi đóng khung",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chở váy cưới áo dài trên xe máy: giữ phẳng không nhàu",
+          "intent": "Biết cách chở váy cưới và áo dài trên xe máy sao cho không nhàu không hư",
+          "kw": "chở váy cưới trên xe máy",
+          "kw2": [
+            "chở áo dài đi chụp ảnh"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "cô dâu và người chở đồ cưới",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở màn hình máy tính trên xe máy: bọc và giữ hướng",
+          "intent": "Biết cách chở màn hình máy tính và thùng máy tính trên xe máy an toàn",
+          "kw": "chở màn hình máy tính trên xe máy",
+          "kw2": [
+            "vận chuyển màn hình máy tính"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "người di chuyển đồ điện tử",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -17107,6 +17251,54 @@
           ],
           "subtopic": "refill-2026-10-10-G",
           "audience": "người đi bơi mùa hè",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở nhà hàng tiệc cưới: bãi xe đông và lấy xe khuya",
+          "intent": "Biết cách chọn chỗ gửi xe khi đi dự tiệc cưới ở nhà hàng",
+          "kw": "gửi xe nhà hàng tiệc cưới",
+          "kw2": [
+            "bãi xe nhà hàng dự tiệc"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "khách đi dự tiệc cưới",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở trung tâm vui chơi trẻ em cuối tuần",
+          "intent": "Biết cách chọn bãi gửi xe quanh trung tâm vui chơi trẻ em giờ đông cuối tuần",
+          "kw": "gửi xe khu vui chơi trẻ em",
+          "kw2": [
+            "bãi gửi xe trung tâm vui chơi"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "bố mẹ dẫn trẻ đi chơi cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe máy ở Nội Bài khi bay chuyến trong nước",
+          "intent": "Biết cách chọn bãi gửi xe ở Nội Bài khi bay chuyến trong nước và quay lại lấy xe",
+          "kw": "gửi xe máy ở nội bài",
+          "kw2": [
+            "bãi gửi xe sân bay nội bài"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-H",
+          "audience": "khách bay chuyến trong nước",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
