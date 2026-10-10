@@ -63,4 +63,4 @@ Thuê xe điện đi phố cổ gói trong bốn điểm:
 - Trong ngõ nhỏ đi theo nhịp người đi bộ, chuông thay còi, để ý biển báo khung giờ phố đi bộ.
 - Giá thuê xe điện xác nhận trực tiếp với cửa hàng khi đặt, kể cả khung ngày và tuần.
 
-Bạn tham khảo thêm các ý tưởng điểm dạo quanh thành phố ở trang [du lịch](/du-lic/) để xếp tiếp buổi chiều sau khi đã nắm rõ phần xe.
+Bạn tham khảo thêm các ý tưởng điểm dạo quanh thành phố ở trang [du lịch](/du-lich/) để xếp tiếp buổi chiều sau khi đã nắm rõ phần xe.
