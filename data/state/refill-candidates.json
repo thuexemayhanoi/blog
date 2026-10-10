@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-10T11:49:34+00:00",
-    "staged_at": "2026-10-10T11:49:33+00:00"
+    "materialized_at": "2026-10-10T15:36:54+00:00",
+    "staged_at": "2026-10-10T15:36:53+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -18208,6 +18208,246 @@
       "word_target": 1200,
       "materialized_at": "2026-10-10T11:49:34+00:00",
       "materialized_head": "cd1eca41e70d8b76da34616c770ad587664ed170"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F001",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở bong bóng bay trên xe máy sao cho không vướng",
+      "intent": "Biết cách chở bong bóng bay trên xe máy sao cho an toàn, không vướng tay lái",
+      "kw": "chở bong bóng trên xe máy",
+      "kw2": [
+        "chở bong bóng đi tiệc"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi tiệc sinh nhật và lễ khai trương",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F002",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở thùng cá cảnh sống trên xe máy: giữ nước không văng",
+      "intent": "Biết cách chở thùng cá cảnh sống trên xe máy mà nước không văng, cá không chết",
+      "kw": "chở hồ cá cảnh trên xe máy",
+      "kw2": [
+        "vận chuyển cá cảnh bằng xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người mua cá cảnh ở chợ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F003",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở sân vận động ngày có trận đấu: kinh nghiệm chọn chỗ",
+      "intent": "Biết cách chọn chỗ gửi xe quanh sân vận động ngày có trận đấu đông người",
+      "kw": "gửi xe sân vận động",
+      "kw2": [
+        "gửi xe khi đi xem bóng đá"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi xem bóng đá",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F004",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Qua phà sông Hồng bằng xe máy: xếp hàng và giữ xe trên phà",
+      "intent": "Biết cách xếp hàng, đưa xe lên phà và giữ xe an toàn khi qua phà sông Hồng",
+      "kw": "qua phà sông hồng bằng xe máy",
+      "kw2": [
+        "đưa xe lên phà an toàn"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi xe máy qua bến phà",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F005",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở chợ phiên ngoại thành: bãi đất trống và vé lượt",
+      "intent": "Biết cách gửi xe ở chợ phiên ngoại thành nơi chủ yếu là bãi đất trống",
+      "kw": "gửi xe chợ phiên ngoại thành",
+      "kw2": [
+        "gửi xe máy ở chợ phiên"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi chợ phiên cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F006",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở đàn guitar trên xe máy đi diễn: chống xước và va",
+      "intent": "Biết cách chở đàn guitar trên xe máy đi diễn sao cho không xước, không va",
+      "kw": "chở đàn guitar trên xe máy",
+      "kw2": [
+        "vận chuyển guitar đi diễn"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người chơi nhạc đi diễn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F007",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi hồ Suối Hai bằng xe máy: cung đường và lưu ý",
+      "intent": "Biết cung đường từ Hà Nội đi hồ Suối Hai bằng xe máy và những lưu ý trên đường trường",
+      "kw": "hà nội đi hồ suối hai",
+      "kw2": [
+        "hồ suối hai đi phượt"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-cuoi-tuan/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi phượt cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F008",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Chạy xe quanh hồ Linh Đàm sáng sớm: cung đường ngắn trong thành phố",
+      "intent": "Biết cung đường chạy xe quanh hồ Linh Đàm sáng sớm và chỗ gửi xe quanh bán đảo",
+      "kw": "chạy xe quanh hồ linh đàm",
+      "kw2": [
+        "cung đường sáng sớm nội thành"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người tập chạy xe sáng sớm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F009",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Bị đá văng làm vỡ đèn xe thuê trên đường trường: xử lý thế nào",
+      "intent": "Biết các bước xử lý khi đèn xe thuê bị đá văng làm vỡ trên đường trường",
+      "kw": "đá văng vỡ đèn xe thuê",
+      "kw2": [
+        "đèn xe thuê bị vỡ do đá"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người thuê xe đi đường trường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F010",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Gặp vệt dầu loang trên mặt đường sau xe tải: né và phanh thế nào",
+      "intent": "Biết cách né và phanh an toàn khi gặp vệt dầu loang trên mặt đường sau xe tải",
+      "kw": "vệt dầu loang trên mặt đường",
+      "kw2": [
+        "chạy xe qua vệt dầu"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F011",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Quay đầu xe máy trong ngõ cụt: kỹ năng ít người làm đúng",
+      "intent": "Nắm kỹ năng quay đầu xe máy an toàn trong ngõ cụt hẹp",
+      "kw": "quay đầu xe máy trong ngõ cụt",
+      "kw2": [
+        "quay đầu xe trong ngõ hẹp"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi xe máy trong khu ngõ hẹp",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-F012",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi xe máy trong mưa đá: giữ bình tĩnh và tránh va chạm",
+      "intent": "Biết cách giữ bình tĩnh và tránh va chạm khi đi xe máy gặp mưa đá",
+      "kw": "đi xe máy trong mưa đá",
+      "kw2": [
+        "mưa đá mặt đường trơn"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-F",
+      "audience": "người đi xe máy trong mùa hè",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T15:36:54+00:00",
+      "materialized_head": "f9eb2b5c37d1a9bfe6e92537957add7d1e024158"
     }
   ]
 }
