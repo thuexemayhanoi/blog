@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-10T16:36:12+00:00",
-    "staged_at": "2026-10-10T16:36:11+00:00"
+    "materialized_at": "2026-10-10T17:06:30+00:00",
+    "staged_at": "2026-10-10T17:06:29+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -18928,6 +18928,246 @@
       "word_target": 1200,
       "materialized_at": "2026-10-10T16:36:12+00:00",
       "materialized_head": "7324572fe00eae8598fe68a58a32a0692927b042"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I001",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi xe máy trong mưa dông kèm gió giật",
+      "intent": "Biết cách đi xe máy an toàn khi gặp mưa dông kèm gió giật",
+      "kw": "đi xe máy trong mưa dông",
+      "kw2": [
+        "chạy xe máy khi gió giật"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I002",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Qua đường ray xe lửa: dừng, nhìn và canh barrier",
+      "intent": "Biết cách qua nút giao đường sắt an toàn bằng xe máy",
+      "kw": "qua đường ray xe lửa",
+      "kw2": [
+        "qua nút giao đường sắt"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I003",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở tủ lạnh mini trên xe máy: giữ thăng bằng",
+      "intent": "Biết cách chở tủ lạnh mini trên xe máy an toàn, giữ thăng bằng và buộc chắc",
+      "kw": "chở tủ lạnh trên xe máy",
+      "kw2": [
+        "vận chuyển tủ lạnh mini"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người chuyển đồ nhà",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I004",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở bệnh viện lúc giờ khám cao điểm",
+      "intent": "Biết cách gửi xe máy ở bệnh viện khi bãi đông giờ khám cao điểm",
+      "kw": "gửi xe ở bệnh viện",
+      "kw2": [
+        "bãi xe bệnh viện giờ đông"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi khám bệnh",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I005",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Xuống dốc dài bằng xe máy: về số sớm và phanh nhịp",
+      "intent": "Biết cách xuống dốc dài an toàn bằng xe máy, về số sớm và phanh theo nhịp",
+      "kw": "chạy xe máy xuống dốc dài",
+      "kw2": [
+        "xuống dốc dài về số"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người chạy xe đường đèo",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I006",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đi xe máy nhiều giờ liền: giữ lưng và đổi tư thế",
+      "intent": "Biết cách giữ lưng và đổi tư thế khi đi xe máy nhiều giờ liền",
+      "kw": "đi xe máy nhiều giờ mỏi lưng",
+      "kw2": [
+        "giữ tư thế khi chạy xe đường dài"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người chạy xe đường dài",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I007",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Chạy xe máy quanh Hồ Gươm buổi tối cuối tuần",
+      "intent": "Biết cung và khung giờ chạy xe quanh Hồ Gươm buổi tối cuối tuần",
+      "kw": "chạy xe quanh hồ gươm buổi tối",
+      "kw2": [
+        "đi quanh hồ gươm ban đêm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi chơi cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I008",
+      "child_id": "C-DIEM-DEN",
+      "title": "Ghé bảo tàng trong trung tâm Hà Nội bằng xe máy",
+      "intent": "Biết cách di chuyển và gửi xe khi ghé các bảo tàng trong trung tâm Hà Nội",
+      "kw": "bảo tàng hà nội đi xe máy",
+      "kw2": [
+        "ghé bảo tàng cuối tuần"
+      ],
+      "links": [
+        "/du-lich/diem-den/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi tham quan cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I009",
+      "child_id": "C-QUY-DINH",
+      "title": "Đúng làn xe máy khi qua nút giao lớn",
+      "intent": "Biết cách chọn đúng làn xe máy khi qua nút giao lớn",
+      "kw": "đi đúng làn xe máy",
+      "kw2": [
+        "làn xe máy qua nút giao"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I010",
+      "child_id": "C-BIEN-BAO",
+      "title": "Đọc biển báo cấm đỗ và cấm dừng trên vỉa hè",
+      "intent": "Biết phân biệt biển cấm đỗ và cấm dừng khi để xe trên vỉa hè",
+      "kw": "biển báo cấm đỗ vỉa hè",
+      "kw2": [
+        "phân biệt cấm đỗ và cấm dừng"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I011",
+      "child_id": "C-BAO-DUONG",
+      "title": "Xe máy để lâu không chạy: kiểm tra trước khi nổ máy",
+      "intent": "Biết các bước kiểm tra xe máy để lâu không chạy trước khi nổ máy trở lại",
+      "kw": "xe máy để lâu không chạy",
+      "kw2": [
+        "khởi động xe để lâu"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người có xe để lâu",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-I012",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe chết máy giữa ngã tư: xử lý nhanh và an toàn",
+      "intent": "Biết cách xử lý khi xe chết máy giữa ngã tư",
+      "kw": "xe chết máy giữa ngã tư",
+      "kw2": [
+        "đẩy xe ra khỏi ngã tư"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-I",
+      "audience": "người đi xe máy hàng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-10T17:06:30+00:00",
+      "materialized_head": "4b0a696d479d9d7b896648c1efabbf9894e0a604"
     }
   ]
 }
