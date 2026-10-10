@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:48:00+00:00",
+  "updated_at": "2026-10-10T16:51:15+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01854",
-      "started_at": "2026-10-10T15:47:23+00:00",
-      "source": "_drafts/2026-10-10-quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung.md",
-      "destination": "_posts/2026-10-10-quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a13ada7e97877d56070cf7ecd7c0fa1f55214256",
-      "finished_at": "2026-10-10T15:47:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01855",
-      "started_at": "2026-10-10T15:50:08+00:00",
-      "source": "_drafts/2026-10-10-qua-pha-song-hong-bang-xe-may-xep-hang-va-giu-xe-tren-pha.md",
-      "destination": "_posts/2026-10-10-qua-pha-song-hong-bang-xe-may-xep-hang-va-giu-xe-tren-pha.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4a8607f3dc6089bbb5ac775fbdadfb81b54e4409",
-      "finished_at": "2026-10-10T15:50:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01856",
       "started_at": "2026-10-10T15:50:08+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "94f30fe3b6cd58dc1af6e59eef5798910b33909e",
       "finished_at": "2026-10-10T16:48:00+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01879",
+      "started_at": "2026-10-10T16:51:15+00:00",
+      "source": "_drafts/2026-10-10-ho-ga-khong-nap-tren-uong-tranh-va-giu-lai.md",
+      "destination": "_posts/2026-10-10-ho-ga-khong-nap-tren-uong-tranh-va-giu-lai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6e3e95dae04f193ee68f9f471455f917664378d2",
+      "finished_at": "2026-10-10T16:51:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01880",
+      "started_at": "2026-10-10T16:51:15+00:00",
+      "source": "_drafts/2026-10-10-gap-xe-quet-rac-va-xe-tuoi-nuoc-sang-som-giu-khoang-cach.md",
+      "destination": "_posts/2026-10-10-gap-xe-quet-rac-va-xe-tuoi-nuoc-sang-som-giu-khoang-cach.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6e3e95dae04f193ee68f9f471455f917664378d2",
+      "finished_at": "2026-10-10T16:51:15+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
