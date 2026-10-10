@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T18:57:57+00:00",
+  "updated_at": "2026-10-10T19:00:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01902",
-      "started_at": "2026-10-10T18:07:36+00:00",
-      "source": "_drafts/2026-10-10-i-xe-ga-trong-pho-ong-co-kho-khong.md",
-      "destination": "_posts/2026-10-10-i-xe-ga-trong-pho-ong-co-kho-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d11f97e72a403e9f9786d5cc497291c85922aef2",
-      "finished_at": "2026-10-10T18:07:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01903",
-      "started_at": "2026-10-10T18:11:41+00:00",
-      "source": "_drafts/2026-10-10-bang-lai-a1-chay-uoc-nhung-xe-nao.md",
-      "destination": "_posts/2026-10-10-bang-lai-a1-chay-uoc-nhung-xe-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a171d69deb085435d327ccfa7212a967d8b72183",
-      "finished_at": "2026-10-10T18:11:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01904",
       "started_at": "2026-10-10T18:11:41+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "077a560a7c5da6daeba69eef26ebf524c3ef147d",
       "finished_at": "2026-10-10T18:57:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01927",
+      "started_at": "2026-10-10T19:00:46+00:00",
+      "source": "_drafts/2026-10-10-cham-xe-may-mua-nom-am-o-ha-noi.md",
+      "destination": "_posts/2026-10-10-cham-xe-may-mua-nom-am-o-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1116e06c0793901e194d23a75ab83a9e88b9d0b9",
+      "finished_at": "2026-10-10T19:00:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01928",
+      "started_at": "2026-10-10T19:00:46+00:00",
+      "source": "_drafts/2026-10-10-loi-thuong-gap-phan-sa-hinh-thi-bang-a1.md",
+      "destination": "_posts/2026-10-10-loi-thuong-gap-phan-sa-hinh-thi-bang-a1.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1116e06c0793901e194d23a75ab83a9e88b9d0b9",
+      "finished_at": "2026-10-10T19:00:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
