@@ -79,31 +79,32 @@
   {
    "candidate_id": "CAND-2026-10-10-A005",
    "child_id": "C-KY-NANG-CHO-DO",
-   "title": "Chở cây cảnh nhỏ trên xe máy về nhà an toàn",
-   "intent": "Biết cách chở cây cảnh nhỏ an toàn trên xe máy",
-   "kw": "chở cây cảnh trên xe máy",
+   "title": "Chở thùng trứng gà trên xe máy sao cho không vỡ",
+   "intent": "Tìm cách chở thùng trứng gà an toàn không vỡ trên xe máy",
+   "kw": "chở trứng gà trên xe máy",
    "kw2": [
-    "vận chuyển cây cảnh bằng xe máy"
+    "vận chuyển trứng bằng xe máy"
    ],
    "links": [
     "/ky-nang/cho-do-va-hanh-ly/"
    ],
    "subtopic": "refill-2026-10-10-A",
-   "audience": "người mua cây cảnh cuối tuần",
+   "audience": "người đi chợ mua thực phẩm cuối tuần",
    "location_scope": "Hà Nội",
    "word_target": 1200
   },
   {
    "candidate_id": "CAND-2026-10-10-A006",
    "child_id": "C-DIEM-DEN",
-   "title": "Đến Vườn thú Thủ Lệ bằng xe máy: gửi xe và đường đi",
-   "intent": "Biết đường đi và chỗ gửi xe khi đến Vườn thú Thủ Lệ",
-   "kw": "đến vườn thú thủ lệ bằng xe máy",
+   "title": "Đến Công viên nước Hồ Tây bằng xe máy: gửi xe và đường đi",
+   "intent": "Biết đường đi và chỗ gửi xe khi đến Công viên nước Hồ Tây",
+   "kw": "đến công viên nước hồ tây bằng xe máy",
    "kw2": [
-    "gửi xe vườn thú thủ lệ"
+    "gửi xe công viên nước hồ tây"
    ],
    "links": [
-    "/du-lich/diem-den/"
+    "/du-lich/diem-den/",
+    "/du-lich/ho-tay/"
    ],
    "subtopic": "refill-2026-10-10-A",
    "audience": "gia đình cuối tuần",
@@ -130,18 +131,18 @@
   {
    "candidate_id": "CAND-2026-10-10-A008",
    "child_id": "C-CD-CUOI-TUAN",
-   "title": "Hà Nội đi hồ Đồng Đò bằng xe máy: cung đường và thời gian",
-   "intent": "Tìm cung đường Hà Nội đi hồ Đồng Đò bằng xe máy",
-   "kw": "hà nội đi hồ đồng đò xe máy",
+   "title": "Hà Nội đi Khoang Xanh bằng xe máy: cung đường và thời gian",
+   "intent": "Tìm cung đường Hà Nội đi Khoang Xanh bằng xe máy",
+   "kw": "hà nội đi khoang xanh xe máy",
    "kw2": [
-    "cung đường hồ đồng đò"
+    "cung đường khoang xanh"
    ],
    "links": [
     "/cung-duong/cung-duong-cuoi-tuan/"
    ],
    "subtopic": "refill-2026-10-10-A",
    "audience": "cặp đôi cuối tuần",
-   "location_scope": "sóc sơn",
+   "location_scope": "ba vì",
    "word_target": 1300
   },
   {
