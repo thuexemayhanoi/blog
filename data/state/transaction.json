@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T09:23:23+00:00",
+  "updated_at": "2026-10-10T09:29:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01774",
-      "started_at": "2026-10-09T16:40:44+00:00",
-      "source": "_drafts/2026-10-09-lan-au-thue-xe-may-nen-lay-xe-so-de-chay.md",
-      "destination": "_posts/2026-10-09-lan-au-thue-xe-may-nen-lay-xe-so-de-chay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "bdccf1a44fd19e0675a3f647338dba28245368e3",
-      "finished_at": "2026-10-09T16:40:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01775",
-      "started_at": "2026-10-09T16:40:44+00:00",
-      "source": "_drafts/2026-10-09-lan-au-thue-xe-may-nen-i-uong-nao-lam-quen.md",
-      "destination": "_posts/2026-10-09-lan-au-thue-xe-may-nen-i-uong-nao-lam-quen.md",
-      "result": "PUBLISHED",
-      "commit_sha": "bdccf1a44fd19e0675a3f647338dba28245368e3",
-      "finished_at": "2026-10-09T16:40:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01776",
       "started_at": "2026-10-09T16:42:52+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "c839ad6244cfaf5f730ba7f80375ee7ae4e285cc",
       "finished_at": "2026-10-10T09:23:23+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01799",
+      "started_at": "2026-10-10T09:29:46+00:00",
+      "source": "_drafts/2026-10-10-ha-noi-i-khoang-xanh-bang-xe-may-cung-uong-va-thoi-gian.md",
+      "destination": "_posts/2026-10-10-ha-noi-i-khoang-xanh-bang-xe-may-cung-uong-va-thoi-gian.md",
+      "result": "PUBLISHED",
+      "commit_sha": "520b752d1d63113f272904911a8f32eb2968733a",
+      "finished_at": "2026-10-10T09:29:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01800",
+      "started_at": "2026-10-10T09:29:46+00:00",
+      "source": "_drafts/2026-10-10-cho-thung-trung-ga-tren-xe-may-sao-cho-khong-vo.md",
+      "destination": "_posts/2026-10-10-cho-thung-trung-ga-tren-xe-may-sao-cho-khong-vo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "520b752d1d63113f272904911a8f32eb2968733a",
+      "finished_at": "2026-10-10T09:29:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
