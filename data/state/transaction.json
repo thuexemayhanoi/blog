@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:58:07+00:00",
+  "updated_at": "2026-10-10T17:00:43+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01860",
-      "started_at": "2026-10-10T15:55:26+00:00",
-      "source": "_drafts/2026-10-10-cho-an-guitar-tren-xe-may-i-dien-chong-xuoc-va-va.md",
-      "destination": "_posts/2026-10-10-cho-an-guitar-tren-xe-may-i-dien-chong-xuoc-va-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "70bccda888739255fd11028f29534010841327ad",
-      "finished_at": "2026-10-10T15:55:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01861",
-      "started_at": "2026-10-10T15:57:44+00:00",
-      "source": "_drafts/2026-10-10-gui-xe-o-san-van-ong-ngay-co-tran-au-kinh-nghiem-chon-cho.md",
-      "destination": "_posts/2026-10-10-gui-xe-o-san-van-ong-ngay-co-tran-au-kinh-nghiem-chon-cho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "22258a70db98b6dbd4135307997c677314eb6238",
-      "finished_at": "2026-10-10T15:57:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01862",
       "started_at": "2026-10-10T15:57:44+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "436a38dd705646d6362d7510bee10685db2e6fd5",
       "finished_at": "2026-10-10T16:58:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01885",
+      "started_at": "2026-10-10T17:00:43+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-o-trung-tam-vui-choi-tre-em-cuoi-tuan.md",
+      "destination": "_posts/2026-10-10-gui-xe-o-trung-tam-vui-choi-tre-em-cuoi-tuan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2a67fedeaf8af9e5c7d94eff280351fe74f67bb3",
+      "finished_at": "2026-10-10T17:00:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01886",
+      "started_at": "2026-10-10T17:00:43+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-may-o-noi-bai-khi-bay-chuyen-trong-nuoc.md",
+      "destination": "_posts/2026-10-10-gui-xe-may-o-noi-bai-khi-bay-chuyen-trong-nuoc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2a67fedeaf8af9e5c7d94eff280351fe74f67bb3",
+      "finished_at": "2026-10-10T17:00:43+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
