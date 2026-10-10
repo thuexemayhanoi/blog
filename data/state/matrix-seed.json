@@ -3035,6 +3035,22 @@
           "audience": "khách quốc tế",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Người nước ngoài mất hộ chiếu giữa kỳ thuê xe xử lý thế nào",
+          "intent": "Biết các bước xử lý khi người nước ngoài làm mất hộ chiếu đang thuê xe máy",
+          "kw": "mất hộ chiếu khi thuê xe",
+          "kw2": [
+            "khách quốc tế mất giấy tờ khi thuê xe"
+          ],
+          "links": [
+            "/thue-xe/khach-quoc-te/",
+            "/thue-xe/su-co/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "khách quốc tế thuê xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -3574,6 +3590,22 @@
           "audience": "khách thuê xe máy buổi tối",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Trả xe máy thuê đúng giờ hẹn cần chuẩn bị gì",
+          "intent": "Biết những việc cần chuẩn bị để trả xe thuê đúng giờ và tránh phát sinh",
+          "kw": "trả xe thuê đúng giờ",
+          "kw2": [
+            "chuẩn bị trước khi trả xe thuê"
+          ],
+          "links": [
+            "/thue-xe/nhan-tra-xe/",
+            "/thue-xe/thu-tuc/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "khách thuê xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4060,6 +4092,22 @@
             "/hoi-dap/hoi-dap-su-co/"
           ],
           "subtopic": "refill-2026-10-10-C",
+          "audience": "khách thuê xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Để quên đồ trên xe thuê đã trả: xử lý thế nào",
+          "intent": "Biết các bước xử lý khi để quên đồ cá nhân trên xe máy thuê đã trả",
+          "kw": "để quên đồ trên xe thuê",
+          "kw2": [
+            "tìm lại đồ để quên trên xe thuê"
+          ],
+          "links": [
+            "/thue-xe/su-co/",
+            "/thue-xe/nhan-tra-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
           "audience": "khách thuê xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1200
@@ -5409,6 +5457,22 @@
           "audience": "du khách nội địa",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Xe đạp điện cho người lớn đi lại trong nội thành: khi nào đáng thuê",
+          "intent": "Biết khi nào người lớn nên thuê xe đạp điện để đi lại trong nội thành",
+          "kw": "thuê xe đạp điện đi làm",
+          "kw2": [
+            "xe đạp điện cho người lớn"
+          ],
+          "links": [
+            "/xe-may/xe-dap-dien/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "người đi làm trong nội thành",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -5598,6 +5662,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "người thuê xe máy Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Wave có bền khi chạy đường dài không",
+          "intent": "Biết Honda Wave có phù hợp chạy đường dài khi thuê xe không",
+          "kw": "honda wave đường dài",
+          "kw2": [
+            "chạy đường dài bằng honda wave"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "khách thuê xe đi chuyến xa",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -6824,6 +6904,22 @@
           ],
           "subtopic": "refill-2026-10-10-A",
           "audience": "khách thuê xe ngày mưa",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tự kiểm tra nhớt xe thuê trước chuyến đi xa",
+          "intent": "Biết cách tự kiểm tra mức nhớt của xe máy thuê trước khi đi đường dài",
+          "kw": "kiểm tra nhớt xe thuê",
+          "kw2": [
+            "kiểm tra dầu nhớt xe máy"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/thue-xe/nhan-tra-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "khách thuê xe đi chuyến xa",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -9668,6 +9764,22 @@
           "audience": "nhóm bạn tối cuối tuần",
           "location_scope": "long biên",
           "word_target": 1200
+        },
+        {
+          "title": "Đền Hai Bà Trưng ở quận Hai Bà Trưng bằng xe máy: đường đi và gửi xe",
+          "intent": "Biết cách di chuyển và gửi xe khi đến đền Hai Bà Trưng bằng xe máy",
+          "kw": "đền hai bà trưng",
+          "kw2": [
+            "đến đền hai bà trưng bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/diem-den/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "người đi tham quan Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -10780,6 +10892,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "người nội trợ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy bộ sáng sớm quanh Hồ Tây: điểm gửi xe và cung đường",
+          "intent": "Biết cung đường và điểm gửi xe khi đi chạy bộ quanh Hồ Tây sáng sớm bằng xe máy",
+          "kw": "chạy bộ quanh hồ tây",
+          "kw2": [
+            "gửi xe khi đi chạy bộ hồ tây"
+          ],
+          "links": [
+            "/du-lich/ho-tay/",
+            "/ky-nang/gui-xe-va-giu-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "người dân Hà Nội tập thể dục buổi sáng",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -15397,6 +15525,22 @@
           "audience": "người đi làm bằng xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chạy xe máy khi gió mạnh ở Hà Nội cần để ý gì",
+          "intent": "Biết những điều cần để ý khi chạy xe máy trong điều kiện gió mạnh",
+          "kw": "chạy xe máy gió mạnh",
+          "kw2": [
+            "lái xe khi trời gió lớn"
+          ],
+          "links": [
+            "/ky-nang/thoi-tiet-va-duong-sa/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "người đi xe máy hàng ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -16371,6 +16515,22 @@
           ],
           "subtopic": "refill-2026-10-10-A",
           "audience": "người đi mua sắm bằng xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở chung cư khi không có thẻ xe: cách xử lý",
+          "intent": "Biết cách xử lý khi cần gửi xe máy ở chung cư mà không có thẻ gửi xe",
+          "kw": "gửi xe chung cư không có thẻ",
+          "kw2": [
+            "gửi xe máy ở chung cư"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "người sống ở chung cư Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -19034,6 +19194,22 @@
           "audience": "khách vãng lai",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy gần Bệnh viện Việt Đức: lưu ý khi đến khám bệnh",
+          "intent": "Biết những lưu ý khi thuê và giữ xe máy gần Bệnh viện Việt Đức",
+          "kw": "thuê xe gần bệnh viện việt đức",
+          "kw2": [
+            "gửi xe gần bệnh viện việt đức"
+          ],
+          "links": [
+            "/thue-xe/thue-theo-dia-diem/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "người đến bệnh viện khám bệnh",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -19998,6 +20174,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "người thuê xe máy Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe máy thuê bị rung bất thường: nguyên nhân thường gặp",
+          "intent": "Biết các nguyên nhân khiến xe máy thuê bị rung bất thường và cách xử lý ban đầu",
+          "kw": "xe thuê bị rung",
+          "kw2": [
+            "nguyên nhân xe máy bị rung"
+          ],
+          "links": [
+            "/xe-may/xu-ly-su-co-xe/",
+            "/hoi-dap/hoi-dap-su-co/"
+          ],
+          "subtopic": "refill-2026-10-10-D",
+          "audience": "khách thuê xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
