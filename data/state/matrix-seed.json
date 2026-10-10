@@ -12141,6 +12141,22 @@
           "audience": "người tập chạy xe sáng sớm",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chạy xe dọc kênh Tô Lịch sáng cuối tuần: đoạn thong thả",
+          "intent": "Biết đoạn đường chạy xe dọc kênh Tô Lịch sáng cuối tuần và chỗ dừng chân",
+          "kw": "chạy xe dọc kênh tô lịch",
+          "kw2": [
+            "kênh tô lịch chạy xe"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người chạy xe sáng cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -13146,6 +13162,22 @@
             "/ky-nang/"
           ],
           "subtopic": "refill-2026-10-10-F",
+          "audience": "người đi phượt cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Hà Nội đi hồ Ba Trại bằng xe máy: cung đường Ba Vì cuối tuần",
+          "intent": "Biết cung đường từ Hà Nội đi hồ Ba Trại ở Ba Vì bằng xe máy cuối tuần",
+          "kw": "hà nội đi hồ ba trại",
+          "kw2": [
+            "hồ ba trại ba vì"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-cuoi-tuan/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
           "audience": "người đi phượt cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
@@ -15251,6 +15283,54 @@
           "audience": "người đi xe máy hàng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Đi xe máy qua hầm chui: vào đúng làn và mở đèn sớm",
+          "intent": "Biết cách đi xe máy qua hầm chui an toàn: vào đúng làn, mở đèn sớm và giữ khoảng cách",
+          "kw": "đi xe máy qua hầm chui",
+          "kw2": [
+            "hầm chui xe máy"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi xe máy hàng ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe qua khu vực thi công: né rãnh và đọc biển tạm",
+          "intent": "Biết cách chạy xe máy an toàn qua khu vực đang thi công đường",
+          "kw": "chạy xe qua khu vực thi công",
+          "kw2": [
+            "đường đang thi công"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi xe máy qua đường đang sửa",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gặp đoàn xe cưới trên đường: giữ khoảng cách thế nào",
+          "intent": "Biết cách xử lý khi gặp đoàn xe cưới di chuyển trên đường",
+          "kw": "gặp đoàn xe cưới trên đường",
+          "kw2": [
+            "đoàn xe cưới di chuyển"
+          ],
+          "links": [
+            "/ky-nang/tinh-huong-giao-thong/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi xe máy cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -15795,6 +15875,22 @@
           ],
           "subtopic": "refill-2026-10-10-F",
           "audience": "người đi xe máy trong mùa hè",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi xe máy khi gió heo may về: giữ hướng và mặc ấm đúng",
+          "intent": "Biết cách đi xe máy an toàn khi gió heo may về cuối thu",
+          "kw": "đi xe máy gió heo may",
+          "kw2": [
+            "gió heo may cuối thu"
+          ],
+          "links": [
+            "/ky-nang/thoi-tiet-va-duong-sa/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi xe máy hàng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -16348,6 +16444,54 @@
           ],
           "subtopic": "refill-2026-10-10-F",
           "audience": "người chơi nhạc đi diễn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở máy giặt trên xe máy: chèn, bọc và buộc đúng cách",
+          "intent": "Biết cách chở máy giặt vừa mua về nhà bằng xe máy an toàn",
+          "kw": "chở máy giặt trên xe máy",
+          "kw2": [
+            "vận chuyển máy giặt bằng xe máy"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người mua máy giặt ở đại lý",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở mâm đồ cúng trên xe máy: cân bằng và buộc chắc",
+          "intent": "Biết cách chở mâm đồ cúng đi lễ, đi giỗ bằng xe máy không đổ vỡ",
+          "kw": "chở đồ cúng trên xe máy",
+          "kw2": [
+            "chở mâm cúng đi lễ"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi lễ giỗ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở khung tranh lớn trên xe máy: bọc góc và nghiêng đúng",
+          "intent": "Biết cách chở khung tranh lớn đi đóng bằng xe máy không xước",
+          "kw": "chở khung tranh trên xe máy",
+          "kw2": [
+            "vận chuyển tranh đi đóng khung"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người chở tranh đi đóng khung",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -16915,6 +17059,54 @@
           ],
           "subtopic": "refill-2026-10-10-F",
           "audience": "người đi chợ phiên cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở bến xe khách: phân biệt bãi trong và bãi lân cận",
+          "intent": "Biết cách chọn chỗ gửi xe khi ra bến xe khách đi xe tỉnh hoặc đón tiễn",
+          "kw": "gửi xe ở bến xe khách",
+          "kw2": [
+            "bãi gửi xe bến xe"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người ra bến xe đón tiễn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở rạp chiếu phim cuối tuần: chọn giờ và chỗ",
+          "intent": "Biết cách chọn bãi gửi xe quanh rạp chiếu phim giờ đông cuối tuần",
+          "kw": "gửi xe ở rạp chiếu phim",
+          "kw2": [
+            "bãi xe rạp phim"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi xem phim cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở bể bơi công cộng mùa hè: đến sớm lấy chỗ",
+          "intent": "Biết cách gửi xe ở bể bơi công cộng vào mùa hè đông người",
+          "kw": "gửi xe ở bể bơi",
+          "kw2": [
+            "đi bơi gửi xe đâu"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-G",
+          "audience": "người đi bơi mùa hè",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
