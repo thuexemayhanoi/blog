@@ -98,11 +98,11 @@
     {
       "candidate_id": "CAND-2026-10-10-Q006",
       "child_id": "C-HD-SU-CO",
-      "title": "Xe thuê bị thủng lốp giữa đường: xử lý thế nào",
-      "intent": "Biết cách xử lý khi xe thuê bị thủng lốp giữa đường",
-      "kw": "xe thuê bị thủng lốp giữa đường",
+      "title": "Xe thuê bị rơi biển số giữa đường: xử lý thế nào",
+      "intent": "Biết cách xử lý khi xe thuê bị rơi biển số giữa đường",
+      "kw": "xe thuê bị rơi biển số giữa đường",
       "kw2": [
-        "thủng lốp xe máy thuê"
+        "biển số xe máy thuê rơi"
       ],
       "links": [
         "/hoi-dap/hoi-dap-su-co/",
@@ -170,29 +170,29 @@
     {
       "candidate_id": "CAND-2026-10-10-Q010",
       "child_id": "C-KY-NANG-GUI-XE",
-      "title": "Gửi xe ở bệnh viện lúc đông: tìm chỗ và giữ xe",
-      "intent": "Biết cách tìm chỗ gửi xe ở bệnh viện vào lúc đông",
-      "kw": "gửi xe ở bệnh viện",
+      "title": "Gửi xe ở sân vận động khi có sự kiện: chọn chỗ nào",
+      "intent": "Biết cách chọn chỗ gửi xe ở sân vận động khi có sự kiện",
+      "kw": "gửi xe ở sân vận động",
       "kw2": [
-        "bãi xe bệnh viện đông"
+        "bãi xe sân vận động ngày đông"
       ],
       "links": [
         "/ky-nang/gui-xe-va-giu-xe/",
         "/ky-nang/"
       ],
       "subtopic": "refill-2026-10-10-Q",
-      "audience": "người đi khám bệnh bằng xe máy",
+      "audience": "người đi xem sự kiện bằng xe máy",
       "location_scope": "Hà Nội",
       "word_target": 1200
     },
     {
       "candidate_id": "CAND-2026-10-10-Q011",
       "child_id": "C-CD-NOI-THANH",
-      "title": "Cung đường chạy thử xe thuê quanh Tây Hồ và Nhật Tân",
-      "intent": "Biết cung đường chạy thử xe thuê quanh khu Tây Hồ Nhật Tân",
-      "kw": "cung đường tây hồ nhật tân",
+      "title": "Cung đường chạy thử xe máy qua Cầu Giấy và Hồ Tây",
+      "intent": "Biết cung đường chạy thử xe máy từ Cầu Giấy qua Hồ Tây",
+      "kw": "cung đường cầu giấy hồ tây",
       "kw2": [
-        "chạy thử xe sáng sớm hà nội"
+        "chạy thử xe máy mới thuê"
       ],
       "links": [
         "/cung-duong/cung-duong-noi-thanh/",
