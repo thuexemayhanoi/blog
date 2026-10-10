@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T19:18:38+00:00",
+  "updated_at": "2026-10-10T19:21:31+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01912",
-      "started_at": "2026-10-10T18:29:17+00:00",
-      "source": "_drafts/2026-10-10-thue-xe-may-theo-tuan-khi-i-cong-tac-dai-ngay.md",
-      "destination": "_posts/2026-10-10-thue-xe-may-theo-tuan-khi-i-cong-tac-dai-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2886eed062595a65f0555b3f045ec61942806fce",
-      "finished_at": "2026-10-10T18:29:17+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01913",
-      "started_at": "2026-10-10T18:34:03+00:00",
-      "source": "_drafts/2026-10-10-thue-xe-may-theo-thang-cho-nhan-vien-moi-ve-ha-noi.md",
-      "destination": "_posts/2026-10-10-thue-xe-may-theo-thang-cho-nhan-vien-moi-ve-ha-noi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "65e5fedcf4cc3f115bcdcb56eb7df1b11599ec03",
-      "finished_at": "2026-10-10T18:34:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01914",
       "started_at": "2026-10-10T18:34:03+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "edf347b194070ce2f9e5e77b851ee0c3a0a9356f",
       "finished_at": "2026-10-10T19:18:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01937",
+      "started_at": "2026-10-10T19:21:31+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-may-theo-thang-cho-nguoi-o-tro.md",
+      "destination": "_posts/2026-10-10-thue-xe-may-theo-thang-cho-nguoi-o-tro.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f6adcbb1c9bb4e2f22f2e5e5e8c1019dbfd085d4",
+      "finished_at": "2026-10-10T19:21:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01938",
+      "started_at": "2026-10-10T19:21:31+00:00",
+      "source": "_drafts/2026-10-10-xe-thue-hong-giua-chuyen-trinh-tu-goi-ho-tro.md",
+      "destination": "_posts/2026-10-10-xe-thue-hong-giua-chuyen-trinh-tu-goi-ho-tro.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f6adcbb1c9bb4e2f22f2e5e5e8c1019dbfd085d4",
+      "finished_at": "2026-10-10T19:21:31+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
