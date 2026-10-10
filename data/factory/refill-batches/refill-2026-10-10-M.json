@@ -1,0 +1,225 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-10 M: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-10",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-10-M001",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy theo ngày cho chuyến công tác ngắn",
+   "intent": "Biết cách thuê xe máy theo ngày cho chuyến công tác ngắn",
+   "kw": "thuê xe máy theo ngày công tác",
+   "kw2": [
+    "thuê xe ngắn ngày đi việc"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người đi công tác ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M002",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thuê xe máy theo tuần khi ở Hà Nội dài ngày",
+   "intent": "Biết lợi ích và lưu ý khi chọn thuê xe máy theo tuần",
+   "kw": "thuê xe máy theo tuần ở hà nội",
+   "kw2": [
+    "thuê xe dài ngày cho khách ở lại"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "khách ở Hà Nội nhiều ngày liên tiếp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M003",
+   "child_id": "C-THUE-THANG",
+   "title": "Thuê xe máy theo tháng cho người ở trọ",
+   "intent": "Biết cách chọn thuê xe máy theo tháng khi sống xa nhà",
+   "kw": "thuê xe máy theo tháng cho người ở trọ",
+   "kw2": [
+    "thuê xe dài hạn sinh viên"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người ở trọ và sinh viên xa nhà",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M004",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê hỏng giữa chuyến: trình tự gọi hỗ trợ",
+   "intent": "Biết trình tự xử lý khi xe thuê hỏng giữa chuyến",
+   "kw": "xe thuê hỏng giữa chuyến",
+   "kw2": [
+    "gọi hỗ trợ khi xe thuê gặp sự cố"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người thuê xe gặp sự cố giữa đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M005",
+   "child_id": "C-XE-SO",
+   "title": "Xe số đi mưa lớn: giảm tốc và giữ đà",
+   "intent": "Biết cách điều khiển xe số trong mưa lớn",
+   "kw": "xe số đi mưa lớn",
+   "kw2": [
+    "lái xe số đường trơn trượt"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người đi xe số giữa mưa lớn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M006",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga chở người lớn tuổi đi khám bệnh",
+   "intent": "Biết cách chở người lớn tuổi trên xe ga an toàn",
+   "kw": "xe ga chở người lớn tuổi",
+   "kw2": [
+    "chở bố mẹ đi khám bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người chở người lớn tuổi đi khám",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M007",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe điện đi chợ buổi sớm: giữ pin và đường ướt",
+   "intent": "Biết cách dùng xe điện buổi sớm khi đường còn ướt",
+   "kw": "xe điện đi chợ buổi sớm",
+   "kw2": [
+    "giữ pin xe điện buổi sáng"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người đi xe điện chợ sáng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M008",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Giữ khoảng cách khi đi xe theo nhóm",
+   "intent": "Biết cách giữ khoảng cách an toàn khi đi xe theo nhóm",
+   "kw": "giữ khoảng cách khi đi xe nhóm",
+   "kw2": [
+    "đi xe máy theo nhóm bạn"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "nhóm bạn đi xe máy cùng nhau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M009",
+   "child_id": "C-BAO-HIEM",
+   "title": "Mua thêm bảo hiểm tự nguyện khi thuê xe máy",
+   "intent": "Biết có nên mua thêm gói bảo hiểm tự nguyện khi thuê xe",
+   "kw": "bảo hiểm tự nguyện khi thuê xe máy",
+   "kw2": [
+    "gói bảo hiểm bổ sung cho người thuê xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người thuê xe cân nhắc mua thêm bảo hiểm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M010",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển báo cấm dừng đỗ và chỗ để xe hợp lệ",
+   "intent": "Biết cách đọc biển cấm dừng đỗ để chọn chỗ để xe",
+   "kw": "biển báo cấm dừng đỗ",
+   "kw2": [
+    "chọn chỗ để xe máy hợp lệ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người đi xe máy tìm chỗ để xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M011",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Hỏi: đặt xe trước qua tin nhắn có giữ xe không",
+   "intent": "Biết cách đặt xe trước qua tin nhắn và xác nhận giữ xe",
+   "kw": "đặt xe trước qua tin nhắn",
+   "kw2": [
+    "xác nhận giữ xe khi đặt trước"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người muốn đặt xe trước chuyến đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-M012",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Hỏi: đi phố nên thuê xe số hay xe ga",
+   "intent": "Biết cách chọn giữa xe số và xe ga khi đi phố",
+   "kw": "đi phố nên thuê xe số hay xe ga",
+   "kw2": [
+    "so sánh xe số và xe ga trong phố"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-10-M",
+   "audience": "người lần đầu thuê xe đi phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
