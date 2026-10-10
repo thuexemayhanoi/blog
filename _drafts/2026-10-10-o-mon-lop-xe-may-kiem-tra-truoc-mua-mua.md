@@ -55,3 +55,4 @@ Sau khi lốp đã đạt chuẩn, việc giữ cho lốp bền cũng cần chú
 Kiểm tra áp suất định kỳ mỗi vài tuần, tuyệt đối không bơm non cho êm hơn vì đó là hiểu lầm phổ biến khiến lốp mòn và xé nhanh. Dựng xe ở nơi có mái che khi mưa nhiều để hóa chất mưa đỡ ăn mòn cao su. Cuối cùng, nếu bạn ngại tự rà soát, một vòng kiểm tra lốp ở tiệm gần nhà chỉ mất ít phút, gộp luôn vào lịch [bảo dưỡng xe máy](/xe-may/bao-duong-xe/) định kỳ.
 
 Tóm lại, kiểm tra độ mòn lốp xe máy trước mùa mưa không mất quá một buổi sáng nhưng quyết định phần lớn độ an toàn của cả mùa. Đọc chỉ báo mòn, giữ áp suất đúng, thay đúng lúc và giữ thói quen chạy êm là bốn việc đáng làm. Muốn xem thêm về cách chăm xe và chọn loại xe phù hợp, bắt đầu từ tổng quan [xe máy](/xe-may/).
+

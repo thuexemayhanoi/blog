@@ -57,3 +57,4 @@ Các cung dốc quanh Hà Nội như đường lên Ba Vì, đoạn dốc đi Ta
 Về đến nơi, cho xe nghỉ vài phút trước khi cắm sạc, để pin bớt nóng. Sạc ở nơi thoáng, tránh nắng gắt, và dùng sạc đúng loại của xe. Kiểm tra lại tiếng phanh, độ căng dây phanh hoặc dầu phanh với dòng có phanh dầu, và nhìn nhanh lốp xem có vết xé hay cộm đá nào không. Nếu xe là xe thuê, ghi lại tình trạng này khi trả để tránh tranh chấp.
 
 Tóm lại, một chuyến xe máy điện leo dốc dài an toàn là chuỗi việc nhỏ: pin đủ trước khi lên, ga đều khi leo, nhịp phanh đúng khi xuống và rà lại xe sau chuyến. Làm đều tay các bước này, pin của bạn sẽ bền hơn và mỗi cung đèo quanh Hà Nội chỉ còn là chuyện chạy xe mà thôi. Muốn tìm hiểu thêm về cách chọn loại xe phù hợp, bắt đầu từ tổng quan [xe máy](/xe-may/) rồi đến nhóm [xe máy điện](/xe-may/xe-dien/).
+

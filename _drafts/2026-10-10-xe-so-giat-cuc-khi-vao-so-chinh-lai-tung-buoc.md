@@ -51,3 +51,4 @@ Nếu xe là xe thuê, hãy thử bộ côn ngay khi nhận: vào số, nhả c�
 Bộ côn bền trước hết nhờ tránh nổ máy lúc xe đang vào số. Nổ máy là lúc vòng tua cao bất thường, vào số ở trạng thái này sốc toàn bộ bộ truyền. Hạn chế đề pa bằng côn trên dốc, thay vào đó dùng phanh giữ xe và ra ga vào số sau khi đã ổn định. Tránh chạy ở tốc độ cao với số thấp kéo dài, và không dùng côn làm công cụ chỉnh tốc trong đoạn tắc đường kéo dài.
 
 Tóm lại, xe số giật cục khi vào số quanh Hà Nội thường đến từ dây côn lệch, má côn xuống hoặc thao tác ra ga vào số chưa nhịp. Chỉnh khoảng tự do của cần côn, kiểm tra tha và giữ dầu đúng chuẩn là ba việc bạn tự làm được, còn thay má côn hãy để thợ. Muốn xem thêm về dòng xe và cách chọn xe phù hợp nhu cầu, bắt đầu từ tổng quan [xe máy](/xe-may/) rồi vào nhóm [xe số](/xe-may/xe-so/).
+

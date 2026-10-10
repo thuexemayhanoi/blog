@@ -51,3 +51,4 @@ Bảo dưỡng đúng kỳ là cách chắc chắn nhất để tránh rung. Tha
 Cách vào ga cũng ảnh hưởng trực tiếp. Vặn ga đều đặn thay vì bóp ga đột ngột, giữ tốc độ ổn định qua đoạn đường xấu, giảm ga trước ổ gà thay vì tăng ga để lao qua. Kỹ thuật phân bổ lực và giữ tư thế trên xe khi qua đoạn xấu thuộc phần [kỹ năng lái cơ bản](/ky-nang/ky-nang-lai-co-ban/), luyện đều tay sẽ bớt mệt và xe cũng bền hơn.
 
 Tóm lại, xe ga rung khi tăng tốc quanh Hà Nội phần lớn đến từ lốp, bộ truyền và các mối nối đã lỏng theo thời gian hơn là hỏng nặng. Kiểm tra theo thứ tự từ lốp, bánh xe đến dây curoa giúp bạn tìm đúng chỗ rung, sửa đúng chi tiết và giữ chuyến đi êm ái. Muốn xem thêm về các dòng xe và cách chọn xe phù hợp, bắt đầu từ tổng quan [xe máy](/xe-may/) rồi đến nhóm [xe ga](/xe-may/xe-ga/).
+

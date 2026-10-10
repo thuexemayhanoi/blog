@@ -57,3 +57,4 @@ Phòng vẫn hơn chữa. Khi đỗ quanh phố, chọn chỗ rộng, tránh k�
 Gắn báo chống trầy cho hông xe nếu bạn hay đi phố đông, và tập thói quen đạp che thay vì chống nạnh khi dắt xe ra vào chỗ hẹp. Cuối cùng, khi thuê xe, ưu tiên nhận xe có sẵn vài vết sơn ghi trong biên bản, vì xe không còn mới tinh thì các bên dễ thỏa thuận hơn nếu phát sinh trầy nhẹ.
 
 Tóm lại, khi xe thuê bị trầy xước nhẹ khi đỗ, cách xử lý tốt nhất gồm ba bước: nhận định vết trầy, ghi bằng chứng ngay, và báo cửa hàng thẳng thắn với đề xuất cụ thể. Làm theo trình tự này, một vết trầy nhỏ sẽ không biến kỳ thuê xe của bạn thành một buổi cãi vã thiếu cần thiết. Muốn xem thêm về các tình huống khi thuê xe, bắt đầu từ tổng quan [thuê xe](/thue-xe/) rồi đến nhóm [sự cố khi thuê xe](/thue-xe/su-co/).
+
