@@ -1,0 +1,225 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-10 B: chu de that, tao boi writer theo gate G1-G8 (topic expansion ve target hien tai cua taxonomy).",
+  "created": "2026-10-10",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-10-B001",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Đặt xe máy thuê trước chuyến đi bao lâu là hợp lý",
+   "intent": "Biết nên đặt xe máy thuê trước chuyến đi bao lâu là hợp lý",
+   "kw": "đặt xe máy thuê trước bao lâu",
+   "kw2": [
+    "đặt xe thuê trước mấy ngày"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/hoi-dap/hoi-dap-thu-tuc/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "người lần đầu thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B002",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Trả xe máy thuê sớm hơn giờ hẹn xử lý thế nào",
+   "intent": "Tìm cách xử lý khi muốn trả xe máy thuê sớm hơn giờ đã hẹn",
+   "kw": "trả xe thuê sớm",
+   "kw2": [
+    "trả xe máy thuê trước giờ hẹn"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/thu-tuc/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "khách thuê xe máy ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B003",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe máy thuê bị thủng lốp giữa đường xử lý thế nào",
+   "intent": "Tìm cách xử lý khi xe máy thuê bị thủng lốp giữa đường",
+   "kw": "xe thuê bị thủng lốp",
+   "kw2": [
+    "thủng lốp xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/hoi-dap/hoi-dap-su-co/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "khách thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B004",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Qua đoạn ngập nước trên xe máy đúng cách",
+   "intent": "Biết cách cho xe máy qua đoạn đường ngập nước an toàn",
+   "kw": "qua ngập nước bằng xe máy",
+   "kw2": [
+    "đi xe máy đường ngập nước"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/thoi-tiet-va-duong-sa/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "người đi xe máy mùa mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B005",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đến Văn Miếu Quốc Tử Giám bằng xe máy: giờ đi và gửi xe",
+   "intent": "Biết cách đến Văn Miếu Quốc Tử Giám bằng xe máy và chỗ gửi xe",
+   "kw": "đến văn miếu quốc tử giám bằng xe máy",
+   "kw2": [
+    "gửi xe văn miếu"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "gia đình cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B006",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Hà Nội đi Tam Đảo bằng xe máy: cung đường và thời gian",
+   "intent": "Biết cung đường và khung giờ phù hợp khi đi Tam Đảo từ Hà Nội bằng xe máy",
+   "kw": "hà nội đi tam đảo xe máy",
+   "kw2": [
+    "cung đường tam đảo"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "cặp đôi cuối tuần",
+   "location_scope": "tam đảo",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B007",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở thú cưng trên xe máy sao cho an toàn",
+   "intent": "Tìm cách chở mèo chó nhỏ trên xe máy an toàn",
+   "kw": "chở thú cưng trên xe máy",
+   "kw2": [
+    "chở mèo trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "người nuôi thú cưng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B008",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Người mới thuê xe nên hỏi gì trước khi nhận xe",
+   "intent": "Biết các câu hỏi nên đặt trước khi nhận xe máy thuê lần đầu",
+   "kw": "người mới thuê xe nên hỏi gì",
+   "kw2": [
+    "câu hỏi khi thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/thue-xe/thu-tuc/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "người lần đầu thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B009",
+   "child_id": "C-XE-DIEN",
+   "title": "Thuê xe máy điện đi phố cổ nên biết gì",
+   "intent": "Hiểu những điểm cần biết khi thuê xe máy điện đi khu phố cổ",
+   "kw": "thuê xe máy điện phố cổ",
+   "kw2": [
+    "xe điện đi phố cổ"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "du khách phố cổ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B010",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Cung đường ven sông Hồng cho buổi chiều Hà Nội",
+   "intent": "Tìm cung đường ven sông Hồng chạy xe máy trong buổi chiều",
+   "kw": "cung đường ven sông hồng",
+   "kw2": [
+    "chạy xe dọc sông hồng"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "người đi dạo chiều",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B011",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Đi xe máy lúc trời mưa nhỏ cần chuẩn bị gì",
+   "intent": "Biết cách chuẩn bị và chạy xe máy khi trời mưa nhỏ",
+   "kw": "đi xe máy khi mưa",
+   "kw2": [
+    "chạy xe máy trời mưa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "người đi làm bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-10-B012",
+   "child_id": "C-BAO-TANG",
+   "title": "Đến Bảo tàng Dân tộc học Việt Nam bằng xe máy: đường đi và gửi xe",
+   "intent": "Biết đường đi và chỗ gửi xe khi đến Bảo tàng Dân tộc học bằng xe máy",
+   "kw": "đến bảo tàng dân tộc học bằng xe máy",
+   "kw2": [
+    "gửi xe bảo tàng dân tộc học"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/diem-den/"
+   ],
+   "subtopic": "refill-2026-10-10-B",
+   "audience": "gia đình cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
