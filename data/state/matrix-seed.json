@@ -705,6 +705,22 @@
           "audience": "người thuê xe máy ngắn hạn",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "So sánh giá thuê xe máy theo dòng xe trước khi đặt",
+          "intent": "Biết cách so sánh giá thuê xe máy theo dòng xe",
+          "kw": "so sánh chi phí thuê các dòng xe máy",
+          "kw2": [
+            "giá thuê xe theo dòng xe"
+          ],
+          "links": [
+            "/thue-xe/gia-thue/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người thuê xe lần đầu so sánh giá",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -1970,6 +1986,22 @@
           "audience": "người kinh doanh nhỏ",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy theo tuần khi đi công tác dài ngày",
+          "intent": "Biết cách thuê xe máy theo tuần cho chuyến công tác dài",
+          "kw": "thuê xe máy theo tuần đi công tác",
+          "kw2": [
+            "thuê xe tuần cho chuyến dài ngày"
+          ],
+          "links": [
+            "/thue-xe/thue-tuan/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người đi công tác dài ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -2290,6 +2322,22 @@
           ],
           "subtopic": "refill-2026-10-10-J",
           "audience": "người ở trọ cần xe dài hạn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy theo tháng cho nhân viên mới về Hà Nội",
+          "intent": "Biết cách đặt gói thuê xe tháng khi mới chuyển đến Hà Nội",
+          "kw": "thuê xe máy theo tháng cho nhân viên mới",
+          "kw2": [
+            "gói xe tháng cho người mới chuyển đến"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người mới chuyển đến Hà Nội đi làm",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -4493,6 +4541,22 @@
           "audience": "người mới tập lái xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Kiểm tra xe số trước khi nhận xe thuê",
+          "intent": "Biết cách kiểm tra xe số trước khi nhận xe thuê",
+          "kw": "kiểm tra xe số trước khi thuê",
+          "kw2": [
+            "thử xe số trước khi nhận"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người thuê xe số lần đầu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4751,6 +4815,22 @@
           "audience": "người đi xe ga hằng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chạy xe ga tiết kiệm xăng trong phố đông",
+          "intent": "Biết cách chạy xe ga tiết kiệm xăng trong phố đông",
+          "kw": "chạy xe ga tiết kiệm xăng",
+          "kw2": [
+            "xe ga tiêu hao ít xăng trong phố"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người mới chuyển từ xe số sang xe ga",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4925,6 +5005,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "khách quốc tế",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe 50cc cho người mới bắt đầu lái",
+          "intent": "Biết cách chọn xe 50cc khi mới bắt đầu lái",
+          "kw": "thuê xe 50cc cho người mới",
+          "kw2": [
+            "xe 50cc cho người mới lái"
+          ],
+          "links": [
+            "/xe-may/xe-50cc/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người mới bắt đầu lái xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -5368,6 +5464,22 @@
           ],
           "subtopic": "refill-2026-10-10-E",
           "audience": "khách thuê xe máy điện",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy điện đi phố: điểm cần biết trước khi nhận xe",
+          "intent": "Biết những điểm cần biết khi thuê xe máy điện đi phố",
+          "kw": "thuê xe máy điện đi phố",
+          "kw2": [
+            "thuê xe điện ở hà nội"
+          ],
+          "links": [
+            "/xe-may/xe-dien/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người thuê xe điện lần đầu",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -7362,6 +7474,22 @@
           "audience": "người chuẩn bị thi bằng lái xe máy",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Bằng lái xe máy điện: cần giấy phép nào khi thuê",
+          "intent": "Biết loại bằng lái cần có khi đi xe máy điện",
+          "kw": "bằng lái xe máy điện",
+          "kw2": [
+            "giấy phép lái cho xe điện"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người định thuê xe máy điện",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7591,6 +7719,22 @@
           ],
           "subtopic": "refill-2026-10-10-J",
           "audience": "chủ xe máy lần đầu mua bảo hiểm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bảo hiểm tự nguyện xe máy: có đáng mua thêm không",
+          "intent": "Biết bảo hiểm tự nguyện xe máy đáng mua thêm khi nào",
+          "kw": "bảo hiểm tự nguyện cho xe máy",
+          "kw2": [
+            "gói bảo hiểm tự nguyện cho xe máy"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "chủ xe cân nhắc mua thêm bảo hiểm",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -10743,6 +10887,22 @@
           "audience": "khách du lịch",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Dạo phố cổ bằng xe máy buổi tối cuối tuần",
+          "intent": "Biết cách dạo phố cổ bằng xe máy buổi tối",
+          "kw": "dạo phố cổ bằng xe máy buổi tối",
+          "kw2": [
+            "chạy xe phố cổ ban đêm"
+          ],
+          "links": [
+            "/du-lich/pho-co/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người dạo phố cổ buổi tối",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -11933,6 +12093,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "người đi chơi cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe máy ra ngoại thành Hà Nội buổi sáng sớm",
+          "intent": "Biết chuẩn bị gì khi chạy xe máy ra ngoại thành Hà Nội",
+          "kw": "chạy xe máy ra ngoại thành hà nội",
+          "kw2": [
+            "đi phượt ngoại thành bằng xe máy"
+          ],
+          "links": [
+            "/du-lich/ngoai-thanh/",
+            "/du-lich/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người chạy xe ra ngoại thành cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -16259,6 +16435,22 @@
           ],
           "subtopic": "refill-2026-10-10-J",
           "audience": "người đi xe máy sáng sớm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy xe máy dưới mưa lớn: dừng hay tiếp tục",
+          "intent": "Biết quyết định dừng hay tiếp tục khi chạy xe dưới mưa lớn",
+          "kw": "chạy xe máy dưới mưa lớn",
+          "kw2": [
+            "đi xe máy trời mưa to"
+          ],
+          "links": [
+            "/ky-nang/thoi-tiet-va-duong-sa/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-K",
+          "audience": "người đi xe máy gặp mưa lớn",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
