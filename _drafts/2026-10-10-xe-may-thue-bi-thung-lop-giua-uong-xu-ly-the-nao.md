@@ -62,3 +62,4 @@ Thủng lốp giữa đường trên xe máy thuê gói trong bốn điểm:
 - Phòng tránh từ lúc nhận xe: kiểm tra vỏ, hỏi lần bơm hơi, né vệt đá trên đường.
 
 Sau buổi vá, bạn chạy nhẹ một quãng quan sát xe trước khi tiếp tục lịch trình, và tham khảo thêm khung tổng hợp ở trang [thuê xe](/thue-xe/) cho những tình huống bất ngờ khác của chuyến đi.
+
