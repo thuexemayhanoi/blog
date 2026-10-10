@@ -2,15 +2,15 @@
 kinh-nghiem:
   pages: 113
   size: 12
-  total: 1355
+  total: 1356
 chia-se:
   pages: 10
   size: 12
   total: 112
 du-lich:
-  pages: 24
+  pages: 25
   size: 12
-  total: 288
+  total: 289
 topic:
   xe-may_bao-duong-xe:
     pages: 3
@@ -19,7 +19,7 @@ topic:
   an-toan-phap-ly_bao-hiem:
     pages: 2
     size: 24
-    total: 25
+    total: 26
   du-lich_bao-tang:
     pages: 2
     size: 24
