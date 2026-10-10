@@ -1,0 +1,225 @@
+{
+  "_meta": {
+    "note": "Topic batch refill 2026-10-10 N: chu de that, tao boi writer theo gate G1-G8.",
+    "created": "2026-10-10",
+    "source": "writer topic expansion theo docs/TAXONOMY.md"
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-10-N001",
+      "child_id": "C-THUE-GIA",
+      "title": "Giá thuê xe máy cuối tuần có đắt hơn ngày thường",
+      "intent": "Biết chênh lệch giá thuê xe cuối tuần so với ngày thường",
+      "kw": "chênh lệch giá thuê xe cuối tuần",
+      "kw2": [
+        "thuê xe máy dịp cuối tuần"
+      ],
+      "links": [
+        "/bang-gia/",
+        "/thue-xe/gia-thue/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người định thuê xe dịp cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N002",
+      "child_id": "C-THUE-GIA",
+      "title": "So sánh giá thuê xe máy tính theo giờ và theo ngày",
+      "intent": "Biết cách so sánh giá thuê theo giờ và theo ngày",
+      "kw": "giá thuê xe máy tính theo giờ",
+      "kw2": [
+        "thuê xe máy theo giờ"
+      ],
+      "links": [
+        "/bang-gia/",
+        "/thue-xe/gia-thue/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người cần xe trong vài giờ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N003",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Thủ tục thuê xe máy cho người lần đầu đi thuê",
+      "intent": "Biết trình tự thủ tục thuê xe máy cho người chưa từng thuê",
+      "kw": "thủ tục thuê xe máy lần đầu",
+      "kw2": [
+        "đi thuê xe máy lần đầu cần gì"
+      ],
+      "links": [
+        "/thue-xe/thu-tuc/",
+        "/lien-he/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người lần đầu thuê xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N004",
+      "child_id": "C-THUE-NGAY",
+      "title": "Thuê xe máy theo ngày cho buổi phỏng vấn",
+      "intent": "Biết cách thuê xe máy theo ngày cho buổi phỏng vấn quan trọng",
+      "kw": "thuê xe máy theo ngày đi phỏng vấn",
+      "kw2": [
+        "thuê xe đi phỏng vấn"
+      ],
+      "links": [
+        "/thue-xe/thue-ngay/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người đi phỏng vấn cần xe hôm đó",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N005",
+      "child_id": "C-THUE-TUAN",
+      "title": "Thuê xe theo tuần khi xe máy nhà đang sửa chữa",
+      "intent": "Biết cách thuê xe theo tuần trong lúc xe cá nhân đang sửa",
+      "kw": "thuê xe theo tuần khi xe hỏng",
+      "kw2": [
+        "thuê xe tạm trong lúc sửa xe"
+      ],
+      "links": [
+        "/thue-xe/thue-tuan/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người xe máy hỏng cần xe tạm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N006",
+      "child_id": "C-XE-SO",
+      "title": "Xe số chở hàng chợ buổi sáng",
+      "intent": "Biết cách chở hàng chợ an toàn bằng xe số buổi sáng",
+      "kw": "xe số chở hàng chợ",
+      "kw2": [
+        "chở hàng bằng xe số"
+      ],
+      "links": [
+        "/xe-may/xe-so/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người đi chợ sáng bằng xe số",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N007",
+      "child_id": "C-XE-GA",
+      "title": "Xe ga qua cầu lớn lúc gió mạnh",
+      "intent": "Biết kỹ thuật điều khiển xe ga qua cầu khi có gió",
+      "kw": "xe ga qua cầu lớn",
+      "kw2": [
+        "qua cầu khi gió mạnh"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người đi xe ga qua các cây cầu lớn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N008",
+      "child_id": "C-THUE-THANG",
+      "title": "Thuê xe máy theo tháng cho người đi giao hàng nhỏ lẻ",
+      "intent": "Biết cách thuê xe theo tháng phục vụ việc giao hàng nhỏ lẻ",
+      "kw": "thuê xe theo tháng giao hàng",
+      "kw2": [
+        "thuê xe máy dài hạn đi giao hàng"
+      ],
+      "links": [
+        "/thue-xe/thue-thang/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người giao hàng nhỏ lẻ cần xe dài hạn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N009",
+      "child_id": "C-THUE-GIA",
+      "title": "Cọc thuê xe máy và các khoản hoàn trả",
+      "intent": "Biết cách tính cọc thuê xe máy và trình tự hoàn trả",
+      "kw": "cọc thuê xe máy",
+      "kw2": [
+        "hoàn cọc khi trả xe máy"
+      ],
+      "links": [
+        "/bang-gia/",
+        "/thue-xe/gia-thue/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người thuê xe muốn hiểu khoản cọc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N010",
+      "child_id": "C-XE-SO",
+      "title": "Xe số đi đường đá dăm ở ngoại ô",
+      "intent": "Biết cách điều khiển xe số trên đường đá dăm",
+      "kw": "xe số đi đường đá dăm",
+      "kw2": [
+        "đi xe máy đường đá dăm"
+      ],
+      "links": [
+        "/xe-may/xe-so/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người đi xe số ra ngoại ô",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N011",
+      "child_id": "C-XE-GA",
+      "title": "Xe ga chở trẻ em đi học thêm buổi tối",
+      "intent": "Biết cách chở trẻ em đi học thêm buổi tối an toàn bằng xe ga",
+      "kw": "xe ga chở trẻ em đi học thêm",
+      "kw2": [
+        "chở trẻ đi học thêm bằng xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "phụ huynh chở con đi học thêm tối",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-N012",
+      "child_id": "C-THUE-THU-TUC",
+      "title": "Đổi xe giữa kỳ thuê khi xe gặp vấn đề",
+      "intent": "Biết trình tự đổi xe giữa kỳ thuê khi xe có vấn đề",
+      "kw": "đổi xe giữa kỳ thuê",
+      "kw2": [
+        "xin đổi xe khi thuê"
+      ],
+      "links": [
+        "/thue-xe/thu-tuc/",
+        "/lien-he/"
+      ],
+      "subtopic": "refill-2026-10-10-N",
+      "audience": "người thuê xe gặp trục trặc giữa kỳ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ]
+}
