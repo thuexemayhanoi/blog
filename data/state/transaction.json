@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T17:51:01+00:00",
+  "updated_at": "2026-10-10T17:53:57+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01870",
-      "started_at": "2026-10-10T16:16:46+00:00",
-      "source": "_drafts/2026-10-10-cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac.md",
-      "destination": "_posts/2026-10-10-cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a50c74f6e6c498d387e5cf1b761ec94916a00cd4",
-      "finished_at": "2026-10-10T16:16:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01871",
-      "started_at": "2026-10-10T16:18:27+00:00",
-      "source": "_drafts/2026-10-10-cho-khung-tranh-lon-tren-xe-may-boc-goc-va-nghieng-ung.md",
-      "destination": "_posts/2026-10-10-cho-khung-tranh-lon-tren-xe-may-boc-goc-va-nghieng-ung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "742fd4fa6938621b5fd82105aa2dea1659b2300f",
-      "finished_at": "2026-10-10T16:18:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01872",
       "started_at": "2026-10-10T16:18:27+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "ddf2b5b82de3b6e0aea44a57c01e96a142700baf",
       "finished_at": "2026-10-10T17:51:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01895",
+      "started_at": "2026-10-10T17:53:57+00:00",
+      "source": "_drafts/2026-10-10-cho-tu-lanh-mini-tren-xe-may-giu-thang-bang.md",
+      "destination": "_posts/2026-10-10-cho-tu-lanh-mini-tren-xe-may-giu-thang-bang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cf7e3cc8575ce1602602843b40ff0bbac3de3fc2",
+      "finished_at": "2026-10-10T17:53:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01896",
+      "started_at": "2026-10-10T17:53:57+00:00",
+      "source": "_drafts/2026-10-10-gui-xe-o-benh-vien-luc-gio-kham-cao-iem.md",
+      "destination": "_posts/2026-10-10-gui-xe-o-benh-vien-luc-gio-kham-cao-iem.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cf7e3cc8575ce1602602843b40ff0bbac3de3fc2",
+      "finished_at": "2026-10-10T17:53:57+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
