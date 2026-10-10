@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T21:53:31+00:00",
+  "updated_at": "2026-10-10T21:57:09+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01960",
-      "started_at": "2026-10-10T20:35:07+00:00",
-      "source": "_drafts/2026-10-10-i-xe-so-tiet-kiem-xang-trong-pho.md",
-      "destination": "_posts/2026-10-10-i-xe-so-tiet-kiem-xang-trong-pho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d43b276182be9e72200021a89ae9b1e5ed8bbfd4",
-      "finished_at": "2026-10-10T20:35:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01961",
-      "started_at": "2026-10-10T20:36:57+00:00",
-      "source": "_drafts/2026-10-10-xe-ga-xuong-doc-dai-dung-phanh-the-nao.md",
-      "destination": "_posts/2026-10-10-xe-ga-xuong-doc-dai-dung-phanh-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2a81914d11aeac777118ef022c318d73b0ceebc0",
-      "finished_at": "2026-10-10T20:36:57+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01962",
       "started_at": "2026-10-10T20:36:57+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "a467a2346479808143fd9a35249317d36971f482",
       "finished_at": "2026-10-10T21:53:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01985",
+      "started_at": "2026-10-10T21:57:09+00:00",
+      "source": "_drafts/2026-10-10-sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan.md",
+      "destination": "_posts/2026-10-10-sac-pin-xe-may-ien-o-tram-cong-cong-luu-y-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "69decaa4523f14fcd23e300dafdbf604e46def5a",
+      "finished_at": "2026-10-10T21:57:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01986",
+      "started_at": "2026-10-10T21:57:09+00:00",
+      "source": "_drafts/2026-10-10-thay-dau-phanh-xe-may-dau-hieu-va-thoi-iem-ung.md",
+      "destination": "_posts/2026-10-10-thay-dau-phanh-xe-may-dau-hieu-va-thoi-iem-ung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "69decaa4523f14fcd23e300dafdbf604e46def5a",
+      "finished_at": "2026-10-10T21:57:09+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
