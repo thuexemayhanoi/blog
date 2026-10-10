@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T19:56:18+00:00",
+  "updated_at": "2026-10-10T19:58:17+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01932",
-      "started_at": "2026-10-10T19:08:46+00:00",
-      "source": "_drafts/2026-10-10-nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may.md",
-      "destination": "_posts/2026-10-10-nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b804c9f0aa5e159540844193481fac19845a7f15",
-      "finished_at": "2026-10-10T19:08:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01933",
-      "started_at": "2026-10-10T19:11:49+00:00",
-      "source": "_drafts/2026-10-10-hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao.md",
-      "destination": "_posts/2026-10-10-hoi-cach-tinh-ngay-thue-xe-may-nhu-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "912b726a7bbec6e4b485eac9aca1390106b5aac7",
-      "finished_at": "2026-10-10T19:11:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01934",
       "started_at": "2026-10-10T19:11:49+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "d6ce6b5fcd50f0c680c78c74af02804bd0278a2e",
       "finished_at": "2026-10-10T19:56:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01957",
+      "started_at": "2026-10-10T19:58:17+00:00",
+      "source": "_drafts/2026-10-10-xe-ga-qua-cau-lon-luc-gio-manh.md",
+      "destination": "_posts/2026-10-10-xe-ga-qua-cau-lon-luc-gio-manh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "00dc3199eb83129ad36ef3d927335168b99c86f5",
+      "finished_at": "2026-10-10T19:58:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01958",
+      "started_at": "2026-10-10T19:58:17+00:00",
+      "source": "_drafts/2026-10-10-xe-ga-cho-tre-em-i-hoc-them-buoi-toi.md",
+      "destination": "_posts/2026-10-10-xe-ga-cho-tre-em-i-hoc-them-buoi-toi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "00dc3199eb83129ad36ef3d927335168b99c86f5",
+      "finished_at": "2026-10-10T19:58:17+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
