@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T19:06:07+00:00",
+  "updated_at": "2026-10-10T19:08:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01906",
-      "started_at": "2026-10-10T18:14:09+00:00",
-      "source": "_drafts/2026-10-10-chay-xe-may-khi-troi-suong-mu-buoi-som.md",
-      "destination": "_posts/2026-10-10-chay-xe-may-khi-troi-suong-mu-buoi-som.md",
-      "result": "PUBLISHED",
-      "commit_sha": "147728baad4b49a1d1063dd578b2dc1fb5146421",
-      "finished_at": "2026-10-10T18:14:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01907",
-      "started_at": "2026-10-10T18:16:55+00:00",
-      "source": "_drafts/2026-10-10-cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham.md",
-      "destination": "_posts/2026-10-10-cho-thung-carton-tren-xe-may-lot-buoc-va-i-cham.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9f64fab969740cf1af895d2cf1917427522cf794",
-      "finished_at": "2026-10-10T18:16:55+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01908",
       "started_at": "2026-10-10T18:16:55+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "cd272fdd509c9d08b6e5394ec2e51448c7e7e0a3",
       "finished_at": "2026-10-10T19:06:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01931",
+      "started_at": "2026-10-10T19:08:46+00:00",
+      "source": "_drafts/2026-10-10-bien-bao-tam-thoi-o-oan-uong-ang-sua.md",
+      "destination": "_posts/2026-10-10-bien-bao-tam-thoi-o-oan-uong-ang-sua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b804c9f0aa5e159540844193481fac19845a7f15",
+      "finished_at": "2026-10-10T19:08:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01932",
+      "started_at": "2026-10-10T19:08:46+00:00",
+      "source": "_drafts/2026-10-10-nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may.md",
+      "destination": "_posts/2026-10-10-nhuong-uong-cho-oan-xe-uu-tien-khi-i-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b804c9f0aa5e159540844193481fac19845a7f15",
+      "finished_at": "2026-10-10T19:08:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
