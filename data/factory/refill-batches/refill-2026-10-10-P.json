@@ -1,0 +1,225 @@
+{
+  "_meta": {
+    "note": "Topic batch refill 2026-10-10 P: chu de that, tao boi writer theo gate G1-G8.",
+    "created": "2026-10-10",
+    "source": "writer topic expansion theo docs/TAXONOMY.md"
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-10-P001",
+      "child_id": "C-XE-GA",
+      "title": "Xe ga rung nhẹ khi tăng tốc: hiểu nguyên nhân",
+      "intent": "Nhận biết nguyên nhân xe tay ga rung khi tăng tốc",
+      "kw": "xe ga rung khi tăng tốc",
+      "kw2": [
+        "rung giò cua xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi xe ga hằng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P002",
+      "child_id": "C-XE-SO",
+      "title": "Xe số giật cục khi vào số: chỉnh lại từng bước",
+      "intent": "Biết cách xử lý khi xe số bị giật cục khi vào số",
+      "kw": "xe số giật cục khi vào số",
+      "kw2": [
+        "xe số giật khi chuyển số"
+      ],
+      "links": [
+        "/xe-may/xe-so/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi xe số trong phố",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P003",
+      "child_id": "C-BAO-DUONG",
+      "title": "Độ mòn lốp xe máy: kiểm tra trước mùa mưa",
+      "intent": "Biết cách kiểm tra độ mòn lốp xe máy trước mùa mưa",
+      "kw": "độ mòn lốp xe máy",
+      "kw2": [
+        "lốp xe máy mòn"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người chuẩn bị xe cho mùa mưa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P004",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện hết pin giữa đường: xử lý thế nào",
+      "intent": "Biết cách xử lý khi xe máy điện hết pin giữa đường",
+      "kw": "xe máy điện hết pin giữa đường",
+      "kw2": [
+        "xe điện hết pin còn xa nhà"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi xe máy điện trong nội thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P005",
+      "child_id": "C-HD-CHON-XE",
+      "title": "Thuê xe máy đi chụp ảnh ngoại thành cuối tuần",
+      "intent": "Biết cách chọn xe máy cho buổi đi chụp ảnh ngoại thành",
+      "kw": "thuê xe máy đi chụp ảnh ngoại thành",
+      "kw2": [
+        "xe máy cho buổi chụp ảnh cuối tuần"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-chon-xe/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người trẻ đi chụp ảnh cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P006",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Thuê xe máy lần đầu nên hỏi cửa hàng những gì",
+      "intent": "Biết những câu hỏi cần hỏi cửa hàng khi thuê xe máy lần đầu",
+      "kw": "thuê xe máy lần đầu hỏi gì",
+      "kw2": [
+        "câu hỏi khi thuê xe máy lần đầu"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người lần đầu thuê xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P007",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi xe máy qua đoạn đường ngập nước",
+      "intent": "Biết cách đi xe máy an toàn qua đoạn đường ngập nước",
+      "kw": "đi xe máy qua đường ngập",
+      "kw2": [
+        "xe máy qua đường ngập nước"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi xe máy mùa mưa ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P008",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Gặp xe container trên đường hẹp: giữ khoảng cách",
+      "intent": "Biết cách giữ khoảng cách khi gặp xe container trên đường hẹp",
+      "kw": "gặp xe container trên đường hẹp",
+      "kw2": [
+        "xe container đường hẹp nguy hiểm"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi xe máy đường ngoại thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P009",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe ở bệnh viện khi đi khám bệnh",
+      "intent": "Biết cách chọn chỗ gửi xe khi đi khám bệnh",
+      "kw": "gửi xe ở bệnh viện",
+      "kw2": [
+        "bãi xe bệnh viện đông"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi khám bệnh bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P010",
+      "child_id": "C-CD-CUOI-TUAN",
+      "title": "Hà Nội đi Ba Vì bằng xe máy: cung đường cuối tuần",
+      "intent": "Biết lộ trình và lưu ý khi đi Ba Vì bằng xe máy từ Hà Nội",
+      "kw": "hà nội đi ba vì",
+      "kw2": [
+        "vườn quốc gia ba vì xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-cuoi-tuan/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người đi phượt một ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P011",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Mất chìa khóa xe thuê giữa kỳ: các bước xử lý",
+      "intent": "Biết các bước xử lý khi mất chìa khóa xe thuê",
+      "kw": "mất chìa khóa xe thuê",
+      "kw2": [
+        "mất khóa xe máy thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người thuê xe gặp sự cố mất khóa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-10-P012",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Khám phá đường đê sông Hồng bằng xe máy",
+      "intent": "Biết cách khám phá đường đê sông Hồng bằng xe máy an toàn",
+      "kw": "đường đê sông hồng bằng xe máy",
+      "kw2": [
+        "đi phượt đường đê hà nội"
+      ],
+      "links": [
+        "/du-lich/ngoai-thanh/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-10-P",
+      "audience": "người thích khám phá ngoại thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ]
+}
