@@ -56,4 +56,4 @@ Bọc chăn có đủ an toàn chưa? Chăn giảm xóc tốt nhưng không thay
 
 Đi chặng vài km có ổn không? Được, nếu đường bằng, chằng chắc và giữ tốc độ thấp. Cách xử lý tình huống giao thông bất ngờ cũng quan trọng không kém việc chằng dây, xem thêm ở trang [kỹ năng lái xe](/ky-nang/).
 
-Tóm lại, chở màn hình TV trên xe máy an toàn dựa vào ba việc: đóng gói đúng, chằng chắc và chạy chậm. Làm tốt ba việc này, quãng đường nội thành hoàn toàn nằm trong khả năng của một chiếc xe máy cùng người cầm lái cẩn thận.
+Nhìn chung, chở màn hình TV trên xe máy an toàn dựa vào ba việc: đóng gói đúng, chằng chắc và chạy chậm. Làm tốt ba việc này, quãng đường nội thành hoàn toàn nằm trong khả năng của một chiếc xe máy cùng người cầm lái cẩn thận.

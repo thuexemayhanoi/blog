@@ -60,4 +60,4 @@ Két bị trầy xước khi chở có ảnh hưởng gì không? Trầy xước
 
 Chuẩn bị gì ngoài dây? Chăn đệm, một người hỗ trợ khi lên xuống két, và kế hoạch đường đi tránh đoạn xấu. Kỹ năng xử lý tình huống trên đường nên xem thêm ở trang [kỹ năng lái xe](/ky-nang/).
 
-Tóm lại, chở két sắt nhỏ trên xe máy là việc làm được khi trọng lượng vừa sức người nhấc, két được chằng chữ V chắc chắn và quãng đường ngắn, mặt đường bằng. Thiếu một trong ba điều kiện, phương án chở khác luôn là lựa chọn khôn ngoan hơn.
+Nhìn chung, chở két sắt nhỏ trên xe máy là việc làm được khi trọng lượng vừa sức người nhấc, két được chằng chữ V chắc chắn và quãng đường ngắn, mặt đường bằng. Thiếu một trong ba điều kiện, phương án chở khác luôn là lựa chọn khôn ngoan hơn.
