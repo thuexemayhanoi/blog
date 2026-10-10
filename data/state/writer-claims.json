@@ -1,14 +1,14 @@
 {
  "schema_version": "1",
- "updated_at": "2026-10-10T11:31:49Z",
+ "updated_at": "2026-10-10T11:34:17Z",
  "leases": {
   "W1": {
    "ids": [
-    "BLG-01833",
-    "BLG-01834"
+    "BLG-01835",
+    "BLG-01836"
    ],
-   "claimed_at": "2026-10-10T11:31:49Z",
-   "expires_at": "2026-10-12T11:31:49Z"
+   "claimed_at": "2026-10-10T11:34:17Z",
+   "expires_at": "2026-10-12T11:34:17Z"
   }
  }
 }
