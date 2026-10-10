@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:10:51+00:00",
+  "updated_at": "2026-10-10T16:13:02+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01849",
-      "started_at": "2026-10-10T12:53:08+00:00",
-      "source": "_drafts/2026-10-10-cho-ket-sat-nho-tren-xe-may-co-on-khong.md",
-      "destination": "_posts/2026-10-10-cho-ket-sat-nho-tren-xe-may-co-on-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6c30d6b94fe5ec930ef2aa3b95be3b297eea1801",
-      "finished_at": "2026-10-10T12:53:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01839",
-      "started_at": "2026-10-10T12:56:05+00:00",
-      "source": "_drafts/2026-10-10-xe-thue-bi-thung-lop-giua-uong-goi-ai-va-lam-gi.md",
-      "destination": "_posts/2026-10-10-xe-thue-bi-thung-lop-giua-uong-goi-ai-va-lam-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5ae5fa9a9cef372cb2ec54213a80c99c8d9941ef",
-      "finished_at": "2026-10-10T12:56:05+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01840",
       "started_at": "2026-10-10T12:56:05+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "20955f7b13d9e9b7c7d588893c903b845e9e307d",
       "finished_at": "2026-10-10T16:10:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01865",
+      "started_at": "2026-10-10T16:13:01+00:00",
+      "source": "_drafts/2026-10-10-i-xe-may-qua-ham-chui-vao-ung-lan-va-mo-en-som.md",
+      "destination": "_posts/2026-10-10-i-xe-may-qua-ham-chui-vao-ung-lan-va-mo-en-som.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0c693aa5562693e110c3b593ac03cf4371e2e32c",
+      "finished_at": "2026-10-10T16:13:02+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01866",
+      "started_at": "2026-10-10T16:13:02+00:00",
+      "source": "_drafts/2026-10-10-chay-xe-qua-khu-vuc-thi-cong-ne-ranh-va-oc-bien-tam.md",
+      "destination": "_posts/2026-10-10-chay-xe-qua-khu-vuc-thi-cong-ne-ranh-va-oc-bien-tam.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0c693aa5562693e110c3b593ac03cf4371e2e32c",
+      "finished_at": "2026-10-10T16:13:02+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
