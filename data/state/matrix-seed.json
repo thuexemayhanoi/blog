@@ -689,6 +689,22 @@
           "audience": "người thuê xe máy Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Phụ thu khi trả xe máy thuê muộn giờ",
+          "intent": "Biết cách tránh phụ thu khi trả xe máy thuê muộn giờ",
+          "kw": "phụ thu thuê xe máy trả muộn",
+          "kw2": [
+            "trả xe thuê muộn giờ"
+          ],
+          "links": [
+            "/thue-xe/gia-thue/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người thuê xe máy ngắn hạn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -2260,6 +2276,22 @@
           "audience": "người đi làm",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Thuê xe máy theo tháng khi ở trọ: chọn xe và giữ xe",
+          "intent": "Biết cách thuê xe máy theo tháng khi ở trọ cho thuận tiện",
+          "kw": "thuê xe máy theo tháng khi ở trọ",
+          "kw2": [
+            "gói thuê xe dài hạn"
+          ],
+          "links": [
+            "/thue-xe/thue-thang/",
+            "/thue-xe/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người ở trọ cần xe dài hạn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4445,6 +4477,22 @@
           "audience": "người thuê xe máy Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chọn xe số cho người mới tập lái xe máy",
+          "intent": "Biết cách chọn xe số phù hợp cho người mới tập lái",
+          "kw": "chọn xe số cho người mới lái",
+          "kw2": [
+            "xe số dễ lái"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người mới tập lái xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -4685,6 +4733,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "người phượt nhẹ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi xe ga trong phố đông có khó không",
+          "intent": "Biết cách đi xe ga trong phố đông an toàn",
+          "kw": "đi xe ga trong phố đông",
+          "kw2": [
+            "xe tay ga trong thành phố"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người đi xe ga hằng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -7282,6 +7346,22 @@
           "audience": "người học bằng lái",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Bằng lái A1 chạy được những xe nào",
+          "intent": "Biết phạm vi xe được phép lái với bằng lái hạng A1",
+          "kw": "bằng lái a1 chạy được xe nào",
+          "kw2": [
+            "phạm vi hạng bằng a1"
+          ],
+          "links": [
+            "/an-toan-phap-ly/giay-phep-lai-xe/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người chuẩn bị thi bằng lái xe máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7497,6 +7577,22 @@
           "audience": "người thuê xe máy Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Bảo hiểm dân sự xe máy gồm những gì",
+          "intent": "Biết bảo hiểm dân sự xe máy gồm những phạm vi nào",
+          "kw": "bảo hiểm dân sự xe máy gồm gì",
+          "kw2": [
+            "phạm vi bảo hiểm trách nhiệm dân sự"
+          ],
+          "links": [
+            "/an-toan-phap-ly/bao-hiem/",
+            "/an-toan-phap-ly/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "chủ xe máy lần đầu mua bảo hiểm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -12237,6 +12333,22 @@
           "audience": "người đi chơi cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chạy xe phố cổ sáng sớm: cung đi và điểm dừng",
+          "intent": "Biết cung chạy xe phố cổ sáng sớm và điểm dừng chân",
+          "kw": "chạy xe phố cổ sáng sớm",
+          "kw2": [
+            "dạo xe phố cổ buổi sớm"
+          ],
+          "links": [
+            "/cung-duong/cung-duong-noi-thanh/",
+            "/cung-duong/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người dạo xe sáng cuối tuần",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -16133,6 +16245,22 @@
           "audience": "người đi xe máy hàng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Chạy xe máy khi trời sương mù buổi sớm",
+          "intent": "Biết cách chạy xe máy khi trời sương mù buổi sớm",
+          "kw": "chạy xe máy trời sương mù",
+          "kw2": [
+            "đi xe buổi sớm sương mù"
+          ],
+          "links": [
+            "/ky-nang/thoi-tiet-va-duong-sa/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người đi xe máy sáng sớm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -16779,6 +16907,22 @@
             "/ky-nang/"
           ],
           "subtopic": "refill-2026-10-10-I",
+          "audience": "người chuyển đồ nhà",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chở thùng carton trên xe máy: lót, buộc và đi chậm",
+          "intent": "Biết cách chở thùng carton trên xe máy chắc chắn",
+          "kw": "chở thùng carton trên xe máy",
+          "kw2": [
+            "vận chuyển thùng giấy"
+          ],
+          "links": [
+            "/ky-nang/cho-do-va-hanh-ly/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
           "audience": "người chuyển đồ nhà",
           "location_scope": "Hà Nội",
           "word_target": 1200
@@ -17461,6 +17605,22 @@
           "audience": "người đi khám bệnh",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Gửi xe ở chung cư qua đêm: điểm giữ xe và vé tháng",
+          "intent": "Biết cách gửi xe ở chung cư qua đêm an toàn",
+          "kw": "gửi xe ở chung cư qua đêm",
+          "kw2": [
+            "bãi gửi xe chung cư"
+          ],
+          "links": [
+            "/ky-nang/gui-xe-va-giu-xe/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người về khuya ở chung cư",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -17973,6 +18133,22 @@
           ],
           "subtopic": "refill-2026-10-07-A",
           "audience": "người thuê xe điện",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê xe máy cuối tuần có đắt hơn ngày thường",
+          "intent": "Biết giá thuê xe máy cuối tuần có khác ngày thường không",
+          "kw": "giá thuê xe máy cuối tuần",
+          "kw2": [
+            "thuê xe cuối tuần có đắt không"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-gia/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người thuê xe máy dạo cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -18914,6 +19090,22 @@
           ],
           "subtopic": "refill-2026-10-10-I",
           "audience": "người đi xe máy hàng ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Mất chìa khóa xe thuê: các bước xử lý nhanh",
+          "intent": "Biết cách xử lý khi mất chìa khóa xe thuê",
+          "kw": "mất chìa khóa xe thuê",
+          "kw2": [
+            "xử lý mất chìa khóa xe thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-su-co/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-10-J",
+          "audience": "người thuê xe máy dạo cuối tuần",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
