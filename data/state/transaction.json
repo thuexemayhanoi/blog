@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T16:14:51+00:00",
+  "updated_at": "2026-10-10T16:16:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01842",
-      "started_at": "2026-10-10T13:02:49+00:00",
-      "source": "_drafts/2026-10-10-ha-noi-i-ho-ong-mo-bang-xe-may-cung-uong-mot-ngay.md",
-      "destination": "_posts/2026-10-10-ha-noi-i-ho-ong-mo-bang-xe-may-cung-uong-mot-ngay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1a6e4a6abc2cf158a84c0772c120cc841929a2f4",
-      "finished_at": "2026-10-10T13:02:49+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01843",
-      "started_at": "2026-10-10T13:05:17+00:00",
-      "source": "_drafts/2026-10-10-phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan.md",
-      "destination": "_posts/2026-10-10-phanh-truoc-va-phanh-sau-phoi-hop-the-nao-cho-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "64f260d99e17835bc25b039a75b6e13241ec2e06",
-      "finished_at": "2026-10-10T13:05:17+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01844",
       "started_at": "2026-10-10T13:05:17+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "40493554c29170f02f0bdacb4a21d11445a7e9e2",
       "finished_at": "2026-10-10T16:14:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01869",
+      "started_at": "2026-10-10T16:16:46+00:00",
+      "source": "_drafts/2026-10-10-cho-may-giat-tren-xe-may-chen-boc-va-buoc-ung-cach.md",
+      "destination": "_posts/2026-10-10-cho-may-giat-tren-xe-may-chen-boc-va-buoc-ung-cach.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a50c74f6e6c498d387e5cf1b761ec94916a00cd4",
+      "finished_at": "2026-10-10T16:16:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01870",
+      "started_at": "2026-10-10T16:16:46+00:00",
+      "source": "_drafts/2026-10-10-cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac.md",
+      "destination": "_posts/2026-10-10-cho-mam-o-cung-tren-xe-may-can-bang-va-buoc-chac.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a50c74f6e6c498d387e5cf1b761ec94916a00cd4",
+      "finished_at": "2026-10-10T16:16:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
