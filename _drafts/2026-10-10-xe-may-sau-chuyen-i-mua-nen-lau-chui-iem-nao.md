@@ -14,11 +14,11 @@ article_id: BLG-01796
 writer: W1
 ---
 
-Trời Hà Nội mưa đến nhanh, một cơn chiều có khi ướt trọn chuyến đi của bạn. Về tới nơi đỗ, chiếc xe lấm lem nước và bùn đất là chuyện thường, và nếu bạn thuê xe thì câu hỏi lại cụ thể hơn: xe máy sau chuyến đi mưa nên lau chùi điểm nào, phần nào mình xử được và phần nào để cửa hàng lo. Bài này đi theo đúng trình tự đó, mở đầu từ chuyên mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
+Trời Hà Nội mưa đến nhanh, một cơn chiều có khi ướt trọn chuyến đi của bạn. Với xe thuê, chăm sóc xe máy sau khi đi mưa là việc nên làm ngay khi về tới nơi đỗ: lau đúng điểm giúp xe chạy êm cho phần còn lại của kỳ thuê, còn phần nào mình xử được và phần nào để cửa hàng lo là nội dung bài này, theo khung chung ở chuyên mục [bảo dưỡng xe máy](/xe-may/bao-duong-xe/).
 
 Trước hết bạn phân định rõ phạm vi: với xe thuê, việc của bạn là lau khô và để ý dấu hiệu bất thường, không phải bảo dưỡng sâu. Mục đích kép của việc lau là giữ xe dùng êm trong phần còn lại của kỳ thuê, và trả xe trong tình trạng người ta nhận là biết bạn đã giữ gìn.
 
-## Vì sao lau xe sau mưa không phải chuyện tùy hứng
+## Vì sao bảo dưỡng xe máy sau mưa không phải chuyện tùy hứng
 
 Nước mưa không sạch như nhiều người nghĩ: bụi phố hòa theo hơi nước, nước đọng trên bề mặt kim loại khô đi để lại vệt mờ. Với các cụm chuyển động, nước và bùn làm việc nặng hơn hẳn: dây xích ướt bụi đóng thành lớp nhão, khóa cổ ướt lâu dễ chật, cụm công tắc đèn ẩm lâu dễ lẩn quắt.
 
@@ -60,7 +60,7 @@ Bạn tự xử: lau khô các điểm trên, đỗ xe nơi thoáng, để ý d�
 
 Bạn gọi cửa hàng: dây xích kêu rõ khi chạy, ổ khóa kẹt không nhả, đèn hoạt động chập chờn, hoặc xe chạy có tiếng lạ không có trước cơn mưa. Đây là các dấu hiệu thuộc phần kỹ thuật, người chủ xe muốn biết sớm để xử cho kỳ thuê sau, và việc bạn báo trước lúc trả xe cũng giúp phần trách nhiệm sáng tỏ cho hai bên.
 
-Lúc trả xe, một chiếc xe sạch và khô là cách trình bày tốt nhất: người nhận xe nhìn là biết chiếc xe đã qua mưa nhưng được giữ gìn, phần tính toán cuối buổi vì thế cũng nhẹ nhàng hơn.
+Lúc trả xe, một chiếc xe sạch và khô là cách trình bày tốt nhất trong trình tự [nhận xe và trả xe](/thue-xe/nhan-tra-xe/): người nhận xe nhìn là biết chiếc xe đã qua mưa nhưng được giữ gìn, phần tính toán cuối buổi vì thế cũng nhẹ nhàng hơn.
 
 ## Chốt lại
 
