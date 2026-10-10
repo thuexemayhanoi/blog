@@ -62,18 +62,18 @@
     {
       "candidate_id": "CAND-2026-10-10-P004",
       "child_id": "C-XE-DIEN",
-      "title": "Xe máy điện hết pin giữa đường: xử lý thế nào",
-      "intent": "Biết cách xử lý khi xe máy điện hết pin giữa đường",
-      "kw": "xe máy điện hết pin giữa đường",
+      "title": "Xe máy điện leo dốc dài: giữ pin và phanh thế nào",
+      "intent": "Biết cách điều khiển xe máy điện trên cung đường dốc dài",
+      "kw": "xe máy điện leo dốc dài",
       "kw2": [
-        "xe điện hết pin còn xa nhà"
+        "chạy xe điện lên dốc"
       ],
       "links": [
         "/xe-may/xe-dien/",
         "/xe-may/"
       ],
       "subtopic": "refill-2026-10-10-P",
-      "audience": "người đi xe máy điện trong nội thành",
+      "audience": "người đi xe máy điện qua đường đèo dốc",
       "location_scope": "Hà Nội",
       "word_target": 1200
     },
@@ -152,18 +152,18 @@
     {
       "candidate_id": "CAND-2026-10-10-P009",
       "child_id": "C-KY-NANG-GUI-XE",
-      "title": "Gửi xe ở bệnh viện khi đi khám bệnh",
-      "intent": "Biết cách chọn chỗ gửi xe khi đi khám bệnh",
-      "kw": "gửi xe ở bệnh viện",
+      "title": "Gửi xe ở khu tập thể cũ: chọn chỗ và giữ xe",
+      "intent": "Biết cách chọn chỗ gửi xe khi ở khu tập thể cũ",
+      "kw": "gửi xe ở khu tập thể",
       "kw2": [
-        "bãi xe bệnh viện đông"
+        "bãi xe khu tập thể"
       ],
       "links": [
         "/ky-nang/gui-xe-va-giu-xe/",
         "/ky-nang/"
       ],
       "subtopic": "refill-2026-10-10-P",
-      "audience": "người đi khám bệnh bằng xe máy",
+      "audience": "người sống trong khu tập thể ở Hà Nội",
       "location_scope": "Hà Nội",
       "word_target": 1200
     },
@@ -188,18 +188,18 @@
     {
       "candidate_id": "CAND-2026-10-10-P011",
       "child_id": "C-THUE-SU-CO",
-      "title": "Mất chìa khóa xe thuê giữa kỳ: các bước xử lý",
-      "intent": "Biết các bước xử lý khi mất chìa khóa xe thuê",
-      "kw": "mất chìa khóa xe thuê",
+      "title": "Xe thuê bị trầy xước nhẹ khi đỗ xe: xử lý ra sao",
+      "intent": "Biết cách xử lý khi xe thuê bị trầy xước nhẹ lúc đỗ",
+      "kw": "xe thuê bị trầy xước khi đỗ",
       "kw2": [
-        "mất khóa xe máy thuê"
+        "trầy xước xe thuê"
       ],
       "links": [
         "/thue-xe/su-co/",
         "/thue-xe/"
       ],
       "subtopic": "refill-2026-10-10-P",
-      "audience": "người thuê xe gặp sự cố mất khóa",
+      "audience": "người thuê xe gặp trầy xước",
       "location_scope": "Hà Nội",
       "word_target": 1200
     },
