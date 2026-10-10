@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T11:18:36+00:00",
+  "updated_at": "2026-10-10T11:22:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01804",
-      "started_at": "2026-10-10T09:46:40+00:00",
-      "source": "_drafts/2026-10-10-tra-xe-may-thue-som-hon-gio-hen-xu-ly-the-nao.md",
-      "destination": "_posts/2026-10-10-tra-xe-may-thue-som-hon-gio-hen-xu-ly-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "01b5e8771d44be19493973d3a0c2a971deddc37b",
-      "finished_at": "2026-10-10T09:46:40+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01806",
-      "started_at": "2026-10-10T09:56:45+00:00",
-      "source": "_drafts/2026-10-10-thue-xe-may-ien-i-pho-co-nen-biet-gi.md",
-      "destination": "_posts/2026-10-10-thue-xe-may-ien-i-pho-co-nen-biet-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f3495694976a131ebc293d783f6cb4855bd3d68e",
-      "finished_at": "2026-10-10T09:56:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01805",
       "started_at": "2026-10-10T10:07:49+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "b05070c587c5dff16aeac98bb0de186dc1d5e232",
       "finished_at": "2026-10-10T11:18:36+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01829",
+      "started_at": "2026-10-10T11:22:16+00:00",
+      "source": "_drafts/2026-10-10-e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao.md",
+      "destination": "_posts/2026-10-10-e-quen-o-tren-xe-thue-a-tra-xu-ly-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "087bc4507322c4252ddd49407b3b44bac92cadd9",
+      "finished_at": "2026-10-10T11:22:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01830",
+      "started_at": "2026-10-10T11:22:16+00:00",
+      "source": "_drafts/2026-10-10-xe-ap-ien-cho-nguoi-lon-i-lai-trong-noi-thanh-khi-nao-ang-thue.md",
+      "destination": "_posts/2026-10-10-xe-ap-ien-cho-nguoi-lon-i-lai-trong-noi-thanh-khi-nao-ang-thue.md",
+      "result": "PUBLISHED",
+      "commit_sha": "087bc4507322c4252ddd49407b3b44bac92cadd9",
+      "finished_at": "2026-10-10T11:22:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
