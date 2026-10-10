@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T13:05:17+00:00",
+  "updated_at": "2026-10-10T13:06:55+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01822",
-      "started_at": "2026-10-10T10:56:03+00:00",
-      "source": "_drafts/2026-10-10-ha-noi-i-bai-inh-bang-xe-may-cung-uong-va-thoi-gian.md",
-      "destination": "_posts/2026-10-10-ha-noi-i-bai-inh-bang-xe-may-cung-uong-va-thoi-gian.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ff5aec9eb6b64bf897d6ee83fed5268f343966fd",
-      "finished_at": "2026-10-10T10:56:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01823",
-      "started_at": "2026-10-10T10:58:54+00:00",
-      "source": "_drafts/2026-10-10-i-xe-may-qua-nga-tu-khong-en-bao-can-e-y-gi.md",
-      "destination": "_posts/2026-10-10-i-xe-may-qua-nga-tu-khong-en-bao-can-e-y-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "36ee967d10d8c8a91d7803cbab9099eb359c92c8",
-      "finished_at": "2026-10-10T10:58:54+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01824",
       "started_at": "2026-10-10T10:58:54+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "64f260d99e17835bc25b039a75b6e13241ec2e06",
       "finished_at": "2026-10-10T13:05:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01845",
+      "started_at": "2026-10-10T13:06:55+00:00",
+      "source": "_drafts/2026-10-10-xe-may-chet-may-giua-en-o-cac-buoc-xu-ly.md",
+      "destination": "_posts/2026-10-10-xe-may-chet-may-giua-en-o-cac-buoc-xu-ly.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f9b116da553f936b95fe535852ae489132bbf2bc",
+      "finished_at": "2026-10-10T13:06:55+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01846",
+      "started_at": "2026-10-10T13:06:55+00:00",
+      "source": "_drafts/2026-10-10-i-xe-may-trong-mua-phun-can-e-y-gi.md",
+      "destination": "_posts/2026-10-10-i-xe-may-trong-mua-phun-can-e-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f9b116da553f936b95fe535852ae489132bbf2bc",
+      "finished_at": "2026-10-10T13:06:55+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
