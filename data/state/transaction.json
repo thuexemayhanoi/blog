@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T18:19:16+00:00",
+  "updated_at": "2026-10-10T18:29:17+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01886",
-      "started_at": "2026-10-10T17:00:43+00:00",
-      "source": "_drafts/2026-10-10-gui-xe-may-o-noi-bai-khi-bay-chuyen-trong-nuoc.md",
-      "destination": "_posts/2026-10-10-gui-xe-may-o-noi-bai-khi-bay-chuyen-trong-nuoc.md",
-      "result": "PUBLISHED",
-      "commit_sha": "2a67fedeaf8af9e5c7d94eff280351fe74f67bb3",
-      "finished_at": "2026-10-10T17:00:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01887",
-      "started_at": "2026-10-10T17:40:52+00:00",
-      "source": "_drafts/2026-10-10-xe-may-e-lau-khong-chay-kiem-tra-truoc-khi-no-may.md",
-      "destination": "_posts/2026-10-10-xe-may-e-lau-khong-chay-kiem-tra-truoc-khi-no-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f599a6a5358bfefd33e6e5ded88b0dbbcd22d513",
-      "finished_at": "2026-10-10T17:40:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01888",
       "started_at": "2026-10-10T17:40:52+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "47859dc047fcbb881faa9a5fdaa2e642cf30da61",
       "finished_at": "2026-10-10T18:19:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01911",
+      "started_at": "2026-10-10T18:29:17+00:00",
+      "source": "_drafts/2026-10-10-so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at.md",
+      "destination": "_posts/2026-10-10-so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2886eed062595a65f0555b3f045ec61942806fce",
+      "finished_at": "2026-10-10T18:29:17+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01912",
+      "started_at": "2026-10-10T18:29:17+00:00",
+      "source": "_drafts/2026-10-10-thue-xe-may-theo-tuan-khi-i-cong-tac-dai-ngay.md",
+      "destination": "_posts/2026-10-10-thue-xe-may-theo-tuan-khi-i-cong-tac-dai-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "2886eed062595a65f0555b3f045ec61942806fce",
+      "finished_at": "2026-10-10T18:29:17+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
