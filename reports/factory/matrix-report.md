@@ -6,10 +6,10 @@
 |---|---|---|
 | HARD_CAPACITY | 10000 | Trần kỹ thuật của factory, KHÔNG phải chỉ tiêu biên tập. |
 | EDITORIAL_TARGET | 6980 | Tổng planned_target trong taxonomy — chỉ tiêu chủ đề đã kiểm chứng. |
-| CURRENT_VALID_ROWS | 1934 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
-| CURRENT_SEEDED_ROWS | 1451 | Hàng planned mới đã có ý định riêng. |
-| RESERVED_CAPACITY | 8066 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
-| MISSING_VALID_TOPIC_SPACE | 5529 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
+| CURRENT_VALID_ROWS | 1946 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
+| CURRENT_SEEDED_ROWS | 1463 | Hàng planned mới đã có ý định riêng. |
+| RESERVED_CAPACITY | 8054 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
+| MISSING_VALID_TOPIC_SPACE | 5517 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
 
 Lưu ý trung thực: 483 (legacy) + 6980 (EDITORIAL_TARGET) = 7463 < HARD_CAPACITY 10000. Taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng. Muốn tăng phải mở rộng seed bằng chủ đề thật (khác biệt ý định, không hoán đổi tên/từ). Đạt HARD_CAPACITY không phải điều kiện hoàn thành của matrix; điều kiện là mọi hàng đều hợp lệ và chống trùng PASS.
 
@@ -19,10 +19,10 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Tổng quan
 
-- Tổng hàng: 1934
+- Tổng hàng: 1946
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
-- PLANNED mới: 0
+- PLANNED mới: 12
 - Năng lực danh nghĩa cũ: 10.000 hàng; tổng planned_target trong taxonomy: 6980
 
 ## Chống trùng (đã kiểm máy, tất cả PASS)
@@ -33,23 +33,23 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Chênh lệch với chỉ tiêu — BÁO THIẾU, KHÔNG ĐỆM
 
-Seed chỉ đăng ký được 0 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
+Seed chỉ đăng ký được 12 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
 
 | Child | PLANNED đã có | planned_target (seed taxonomy) |
 |---|---|---|
 | C-THUE-GIA | 0 | 220 |
 | C-THUE-THU-TUC | 0 | 200 |
-| C-THUE-NGAY | 0 | 180 |
-| C-THUE-TUAN | 0 | 170 |
-| C-THUE-THANG | 0 | 200 |
+| C-THUE-NGAY | 1 | 180 |
+| C-THUE-TUAN | 1 | 170 |
+| C-THUE-THANG | 1 | 200 |
 | C-THUE-DAT-COC | 0 | 150 |
 | C-THUE-QUOC-TE | 0 | 140 |
 | C-THUE-NHAN-TRA | 0 | 180 |
-| C-THUE-SU-CO | 0 | 180 |
-| C-XE-SO | 0 | 160 |
-| C-XE-GA | 0 | 160 |
+| C-THUE-SU-CO | 1 | 180 |
+| C-XE-SO | 1 | 160 |
+| C-XE-GA | 1 | 160 |
 | C-XE-50CC | 0 | 140 |
-| C-XE-DIEN | 0 | 160 |
+| C-XE-DIEN | 1 | 160 |
 | C-XE-DAP-DIEN | 0 | 100 |
 | C-HONDA-WAVE | 0 | 120 |
 | C-HONDA-VISION | 0 | 120 |
@@ -58,10 +58,10 @@ Seed chỉ đăng ký được 0 hàng có giá trị riêng (mỗi hàng một 
 | C-YAMAHA-SIRIUS | 0 | 100 |
 | C-BAO-DUONG | 0 | 140 |
 | C-GPLX | 0 | 150 |
-| C-BAO-HIEM | 0 | 130 |
+| C-BAO-HIEM | 1 | 130 |
 | C-NOI-DO-CONG | 0 | 120 |
 | C-PHAT-NGUOI | 0 | 120 |
-| C-BIEN-BAO | 0 | 100 |
+| C-BIEN-BAO | 1 | 100 |
 | C-GIAY-TO | 0 | 110 |
 | C-QUY-DINH | 0 | 150 |
 | C-DIEM-DEN | 0 | 170 |
@@ -76,16 +76,16 @@ Seed chỉ đăng ký được 0 hàng có giá trị riêng (mỗi hàng một 
 | C-CD-MOC-CHAU | 0 | 80 |
 | C-CD-HA-GIANG | 0 | 80 |
 | C-CD-PHO-BAC | 0 | 90 |
-| C-KY-NANG-CO-BAN | 0 | 180 |
+| C-KY-NANG-CO-BAN | 1 | 180 |
 | C-KY-NANG-TINH-HUONG | 0 | 180 |
 | C-KY-NANG-THOI-TIET | 0 | 150 |
 | C-KY-NANG-CHO-DO | 0 | 130 |
 | C-KY-NANG-GUI-XE | 0 | 120 |
 | C-KY-NANG-SUC-KHOE | 0 | 110 |
 | C-HD-GIA | 0 | 90 |
-| C-HD-THU-TUC | 0 | 90 |
+| C-HD-THU-TUC | 1 | 90 |
 | C-HD-PHAP-LY | 0 | 90 |
-| C-HD-CHON-XE | 0 | 90 |
+| C-HD-CHON-XE | 1 | 90 |
 | C-HD-SU-CO | 0 | 90 |
 | C-HD-NGUOI-MOI | 0 | 90 |
 | C-THUE-DOI-TUONG | 0 | 80 |
