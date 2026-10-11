@@ -99,7 +99,7 @@ REQUIRED = [
     'reports/factory/matrix-report.md',
     'reports/factory/matrix-recovery-blocked.md',
     'reports/factory/policy-conflicts.md',
-    'docs/mistral/README.md', 'docs/CONTENT-FACTORY.md', 'docs/ARTICLE-RULES.md',
+    'docs/AI-WRITER-QUICKSTART.md', 'docs/CONTENT-FACTORY.md', 'docs/ARTICLE-RULES.md',
     'docs/TAXONOMY.md', 'docs/SEO-OWNERSHIP.md', 'docs/RECOVERY.md',
     'scripts/factory/validate.py', 'scripts/factory/manifest.py',
     'scripts/factory/restore-foundation.py', 'scripts/factory/generate-reports.py',
@@ -190,9 +190,17 @@ def check_inventory(scope, parents, children):
             if r['current_url'] != want:
                 err('URL legacy sai tại %s: %s (mong đợi %s)' % (r['slug'], r['current_url'], want))
                 break
-    # Đối chiếu sitemap công khai (mạng) — CHỈ full.
+    # Đối chiếu sitemap công khai (mạng) — CHỈ full VÀ chỉ khi người vận
+    # hành bật tường minh FACTORY_LIVE_SITEMAP=1 (chạy tay). Mặc định TẮT:
+    # workflow/Actions KHÔNG gọi host nào ngoài GitHub (quy tắc "workflow
+    # không gọi API ngoài"); đối chiếu sitemap dùng cây build/Pages status.
     if scope == 'full':
         section('live_sitemap')
+        if os.environ.get('FACTORY_LIVE_SITEMAP') != '1':
+            warn('live sitemap BO QUA (offline mac dinh) — dat '
+                 'FACTORY_LIVE_SITEMAP=1 khi chay tay de doi chieu sitemap '
+                 'cong khai')
+    if scope == 'full' and os.environ.get('FACTORY_LIVE_SITEMAP') == '1':
         import urllib.request, urllib.parse as up
         try:
             import urllib.request as _ur
@@ -399,6 +407,35 @@ def check_matrix(scope, inv, legacy_files, factory_files, cp, chunk_ids):
     return mstat
 
 
+# ---------------- 8. writer registry (lease) — bất biến ownership
+
+def check_writer_registry(scope):
+    """data/state/writer-claims.json: JSON hợp lệ, <= 3 slot, <= 10 ID/slot,
+    không ID nào bị hai lease sống giữ. CHỈ writer-side/coordination: vi
+    phạm là WARN ở scope chunk (publisher không dừng vì registry — selector
+    đã fail-closed riêng cho draft cần chủ), FAIL ở batch/full (audit)."""
+    path = 'data/state/writer-claims.json'
+    if not os.path.exists(path):
+        return
+    section('writer_registry')
+    import importlib.util
+    spec = importlib.util.spec_from_file_location(
+        'blog_writer_claim', 'scripts/factory/writer-claim.py')
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    report = err if scope in ('batch', 'full') else warn
+    try:
+        reg = mod.load_registry(path)
+    except mod.RegistryCorrupt as e:
+        report('writer-claims registry hong: %s (chay: writer-claim.py '
+               'repair-registry --from-git)' % e)
+        return
+    rows = _read_csv('data/content-matrix.csv') \
+        if os.path.exists('data/content-matrix.csv') else None
+    for p in mod.check_invariants(reg, rows):
+        report('writer-claims: %s' % p)
+
+
 def run(scope, ids=None):
     check_required_files(scope)
     if ERRORS:
@@ -415,6 +452,7 @@ def run(scope, ids=None):
         except Exception:
             chunk_ids = set()
     mstat = check_matrix(scope, inv, legacy_files, factory_files, cp, chunk_ids)
+    check_writer_registry(scope)
     return tax, inv, mstat, cp
 
 

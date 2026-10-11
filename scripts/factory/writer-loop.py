@@ -1,10 +1,12 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""writer-loop.py — driver MỘT writer ngoài chạy liên tục (single-writer).
+"""writer-loop.py — driver ĐỌC/QA cho writer ngoài (provider-neutral).
 
 Mục tiêu (docs/WRITER-LOOP.md): writer ngoài đọc main, nối việc dang dở,
-viết cặp 2 bài, QA scoped, push, xác nhận publish rồi lấy cặp tiếp — mỗi
-bước MỘT lệnh, không phải mổ xẻ JSON tay.
+viết draft, QA scoped, push, xác nhận publish rồi lấy batch kế — mỗi bước
+MỘT lệnh. Đa-writer (slot W1/W2/W3, phiên độc lập, CAS push): dùng
+scripts/factory/writer-session.py (xem docs/AI-WRITER-QUICKSTART.md);
+file này giữ các lệnh tương thích ngược (status/next/qa/verify/release).
 
 Chế độ (KHÔNG đụng engine, KHÔNG hạ gate):
   writer-loop.py status
@@ -27,9 +29,11 @@ Chế độ (KHÔNG đụng engine, KHÔNG hạ gate):
   writer-loop.py release --writer W1 --ids BLG-xxx,BLG-yyy
       Nhả lease qua writer-claim.py release.
 
-Giới hạn: single writer theo lease W1 (multi-writer tooling cũ giữ
-nguyên, KHÔNG mở rộng). KHÔNG ref­ill tại đây — refill là op coordinator
-theo docs/CONTINUOUS-WRITER.md (refill-queue.py + stage-refill-batch.py).
+Slot: --writer W1|W2|W3 (mặc định W1 chỉ để tương thích ngược; nên truyền
+tường minh hoặc đặt env FACTORY_WRITER_SLOT). Phiên giữ slot được
+writer-claim.py ràng buộc (không hai phiên cùng một slot). KHÔNG refill
+tại đây — refill là op coordinator theo docs/CONTINUOUS-WRITER.md
+(refill-queue.py + stage-refill-batch.py).
 """
 import argparse
 import csv
@@ -58,6 +62,14 @@ def load_json(path):
         return json.load(f)
 
 
+def _claim_module():
+    spec = importlib.util.spec_from_file_location(
+        'blog_writer_claim', os.path.join(ROOT, CLAIM))
+    mod = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(mod)
+    return mod
+
+
 def cmd_status(args):
     rows = load_matrix()
     cp = load_json('data/state/checkpoint.json')
@@ -66,8 +78,25 @@ def cmd_status(args):
         counts[r['status']] = counts.get(r['status'], 0) + 1
     claimable = [r['id'] for r in rows if r['status'] == 'PLANNED']
     unfinished = [r['id'] for r in rows if r['status'] in UNFINISHED]
-    reg = load_json('data/state/writer-claims.json')
-    leases = {w: v.get('ids', []) for w, v in reg.get('leases', {}).items()}
+    wc = _claim_module()
+    try:
+        reg = wc.load_registry()
+    except wc.RegistryCorrupt as e:
+        reg = None
+        registry_error = str(e)
+    else:
+        registry_error = None
+    leases, expired, slots = {}, [], {}
+    if reg is not None:
+        import time as _t
+        now = _t.time()
+        expired = sorted(w for w, v in reg.get('leases', {}).items()
+                         if wc._epoch_of(v.get('expires_at', '')) < now)
+        wc.prune_registry(reg, rows, now)     # trong bộ nhớ: KHÔNG ghi file
+        status_of = {r['id']: r['status'] for r in rows}
+        leases = {w: v.get('ids', []) for w, v in reg['leases'].items()}
+        slots = {w: wc._slot_view(w, v, status_of, now)
+                 for w, v in reg['leases'].items()}
     out = {
         'head_checkpoint': cp.get('last_completed_article_id'),
         'next_claimable_id': cp.get('next_claimable_id'),
@@ -77,6 +106,9 @@ def cmd_status(args):
         'min_ready_queue': MIN_READY_QUEUE,
         'unfinished_ids': unfinished,
         'leases': leases,
+        'expired_leases': expired,
+        'slots': slots,
+        'registry_error': registry_error,
         'next_pairs': [claimable[i:i + 2] for i in range(0, min(len(claimable), 6), 2)],
     }
     print(json.dumps(out, ensure_ascii=False, indent=1))
@@ -130,6 +162,11 @@ def cmd_qa(args):
     rows = load_matrix()
     biz = fo.read_json('data/business-facts.json', {})
     tax = fo.read_json('data/content-taxonomy.json', {})
+    # CÙNG scorer + CÙNG whitelist giá đã duyệt với publisher: factory-
+    # operator.main() gọi build_amount_whitelist(biz) trước mọi op; bản cũ
+    # của lệnh này bỏ bước đó nên APPROVED_AMOUNTS rỗng và mọi số tiền dạng
+    # 1.400.000 bị chấm "non_approved_amounts" (FAIL giả ở phía writer).
+    fo.build_amount_whitelist(biz)
     byid = {r['id']: r for r in rows}
     bad = 0
     for aid in args.ids.split(','):
@@ -208,14 +245,16 @@ def main():
     sub = ap.add_subparsers(dest='cmd', required=True)
     sub.add_parser('status')
     p2 = sub.add_parser('next')
-    p2.add_argument('--writer', default='W1')
+    p2.add_argument('--writer', default=os.environ.get(
+        'FACTORY_WRITER_SLOT', 'W1'))
     p2.add_argument('--count', type=int, default=2)
     p3 = sub.add_parser('qa')
     p3.add_argument('--ids', required=True)
     p4 = sub.add_parser('verify')
     p4.add_argument('--ids', required=True)
     p5 = sub.add_parser('release')
-    p5.add_argument('--writer', default='W1')
+    p5.add_argument('--writer', default=os.environ.get(
+        'FACTORY_WRITER_SLOT', 'W1'))
     p5.add_argument('--ids', required=True)
     args = ap.parse_args()
     return {'status': cmd_status, 'next': cmd_next, 'qa': cmd_qa,

@@ -157,5 +157,30 @@ class WriterLoopTestCase(unittest.TestCase):
                              'next/release KHÔNG đụng %s' % rel)
 
 
+    def test_qa_uses_publisher_amount_whitelist(self):
+        """Lỗi audit P2-1: writer-loop qa không dựng whitelist giá nên mọi
+        số tiền dạng 1.400.000 bị chấm non_approved (FAIL giả). Phải khớp
+        publisher (factory-operator.main() gọi build_amount_whitelist)."""
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from test_qa_modes import make_draft
+        aid = self.first_planned()
+        row = next(r for r in matrix_rows(self.fx) if r['id'] == aid)
+        make_draft(self.fx, row)
+        slug = row['output_path'][len('_posts/{date}-'):-3]
+        path = os.path.join(self.fx, '_drafts', '2026-09-28-%s.md' % slug)
+        self.assertTrue(os.path.exists(path), path)
+        with open(path, 'a', encoding='utf-8') as f:
+            f.write('\nGia tham khao 1.400.000 dong moi thang.\n')
+        r = self.loop('qa', '--ids', aid)
+        self.assertNotIn('non_approved_amounts', r.stdout + r.stderr,
+                         r.stdout + r.stderr)
+        # số KHÔNG duyệt vẫn bị bắt (không nới lỏng QA)
+        with open(path, 'a', encoding='utf-8') as f:
+            f.write('\nGia uu dai 123.456 dong.\n')
+        r = self.loop('qa', '--ids', aid)
+        self.assertIn('non_approved_amounts', r.stdout)
+        self.assertNotEqual(r.returncode, 0)
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)
