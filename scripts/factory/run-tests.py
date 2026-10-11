@@ -92,7 +92,15 @@ def main():
     names = list(GROUPS[a.suites])
     if a.only:
         want = [x.strip() for x in a.only.split(',') if x.strip()]
+        unknown = [w for w in want if w not in GROUPS['all']]
+        if unknown:
+            print('suite khong ton tai: %s' % ', '.join(unknown))
+            return 2
         names = [n for n in names if n in want]
+    if not names:
+        print('khong co suite nao duoc chon (nhom %s, --only %r)'
+              % (a.suites, a.only))
+        return 2
     names.sort(key=lambda n: (SLOW_FIRST.index(n) if n in SLOW_FIRST
                               else len(SLOW_FIRST)))
     missing = [n for n in names

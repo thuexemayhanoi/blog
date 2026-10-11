@@ -38,6 +38,7 @@ import importlib.util
 import io
 import json
 import os
+import re
 import shutil
 import stat
 import subprocess
@@ -564,8 +565,9 @@ RETIRED_WORKFLOWS = [
 
 
 class StaticContract(unittest.TestCase):
-    """Hợp đồng CHÍNH XÁC 6 workflow hiện tại (docs/factory-workflow-
-    contract.md — kiến trúc port từ /vanchinh, gọn theo pattern /shop):
+    """Hợp đồng CHÍNH XÁC 8 workflow hiện tại (7 hợp đồng + helper
+    factory-extract-rows; docs/factory-workflow-contract.md — kiến trúc port
+    từ /vanchinh, gọn theo pattern /shop):
       quality-gate.yml            — cong dual-mode read-only (push/PR)
       factory-publish.yml         — production publisher DUY NHẤT
                                    (push main _drafts/**, turbo queue
@@ -577,9 +579,9 @@ class StaticContract(unittest.TestCase):
       production-watchdog.yml     — Agent #6 wake 2h (lightweight,
                                    cron 30p, dry-run mặc định)
     Các workflow legacy (publish-drafts.yml, factory-production.yml,
-    factory-refill.yml, article-batch.yml — dry-run gộp vào
-    factory-liveness/factory-publish-verify, ...) đã RETIRE theo lệnh
-    chủ xe và KHÔNG được quay lại."""
+    article-batch.yml, custom-domain-migration.yml, ... — xem
+    RETIRED_WORKFLOWS) đã RETIRE theo lệnh chủ xe và KHÔNG được quay lại.
+    factory-refill.yml là workflow HIỆN TẠI (refill push-driven)."""
 
     def test_s7_workflow_contract(self):
         wf = sorted(f for f in os.listdir(os.path.join(ROOT,
@@ -964,6 +966,42 @@ class StaticContract(unittest.TestCase):
         self.assertRegex(pub, r'(?m)^enabled:\s*false\s*$')
 
 
+class WorkflowTriggerContract(unittest.TestCase):
+    """Hợp đồng trigger (review compat): publisher không có workflow_dispatch;
+    chỉ production-watchdog có cron; gate chạy cho MỌI thay đổi workflow; mọi
+    run gate độc lập (không run nào hủy run khác); engine-tests không bị che
+    bởi job gate đỏ; push REFUSED làm đỏ run sau khi drain."""
+
+    def test_publisher_has_no_dispatch_and_only_watchdog_has_cron(self):
+        pub = '\n'.join(code_lines(wf_text('factory-publish.yml')))
+        self.assertNotIn('workflow_dispatch', pub)
+        for name in CURRENT_WORKFLOWS:
+            code = '\n'.join(code_lines(wf_text(name)))
+            has_cron = bool(re.search(
+                r'^\s*(schedule|cron)\s*:|^\s*-\s*cron\s*:', code, re.M))
+            self.assertEqual(has_cron, name == 'production-watchdog.yml',
+                             '%s: cron chi duoc o production-watchdog' % name)
+
+    def test_quality_gate_triggers_on_any_workflow_change(self):
+        y = wf_text('quality-gate.yml')
+        self.assertEqual(y.count("'.github/workflows/**'"), 2,
+                         'push + pull_request deu phai co .github/workflows/**')
+
+    def test_quality_gate_runs_are_independent(self):
+        y = wf_text('quality-gate.yml')
+        self.assertRegex(y, r'group:\s*quality-gate-\$\{\{[^}]*github\.sha')
+        self.assertNotRegex(y, r'(?m)^\s+group:\s*quality-gate\s*$')
+        self.assertIn('cancel-in-progress: false', y)
+
+    def test_engine_tests_not_masked_by_a_red_gate_job(self):
+        self.assertIn('!cancelled()', wf_text('quality-gate.yml'))
+
+    def test_refused_push_fails_the_run_after_drain(self):
+        y = wf_text('factory-publish.yml')
+        self.assertIn("steps.select.outputs.refused == 'true'", y)
+        self.assertIn('always()', y)
+
+
 class EngineTestRunner(unittest.TestCase):
     """CI (quality-gate.yml, job engine-tests) chạy
     `python3 scripts/factory/run-tests.py --suites ci`. scripts/factory/queue.py
@@ -985,6 +1023,14 @@ class EngineTestRunner(unittest.TestCase):
             cwd=ROOT, capture_output=True, text=True, timeout=180)
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
         self.assertIn('1 suite, 1 PASS, 0 FAIL', r.stdout)
+
+    def test_only_with_unknown_or_empty_selection_fails(self):
+        for only in ('test_typo', 'test_built_links'):   # lạ / không thuộc ci
+            r = subprocess.run(
+                [sys.executable, 'scripts/factory/run-tests.py', '--suites',
+                 'ci', '--only', only], cwd=ROOT, capture_output=True,
+                text=True, timeout=60)
+            self.assertEqual(r.returncode, 2, only + r.stdout)
 
     def test_every_suite_belongs_to_a_group(self):
         rt = self._runner()

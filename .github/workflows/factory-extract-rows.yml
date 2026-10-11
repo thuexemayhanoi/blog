@@ -43,18 +43,26 @@ jobs:
               if not m:
                   continue
               suffix = m.group(1) or ''
-              req = json.load(open(req_path, encoding='utf-8'))
-              ids = list(req['ids'])
+              # MỘT request hỏng/ID lạ của một slot KHÔNG được chặn các slot
+              # khác: ghi những file hợp lệ, commit, rồi mới làm đỏ run
+              try:
+                  with open(req_path, encoding='utf-8') as rf:
+                      req = json.load(rf)
+                  ids = [str(i) for i in list(req['ids'])]
+              except Exception as e:
+                  bad.append((req_path, 'request khong doc duoc: %s' % e))
+                  continue
               rows = {i: rows_by_id[i] for i in ids if i in rows_by_id}
+              missing = sorted(set(ids) - set(rows))
               out = 'reports/factory/extracted-rows%s.json' % suffix
               with open(out, 'w', encoding='utf-8') as f:
-                  json.dump({'requested': ids, 'rows': rows}, f, ensure_ascii=False, indent=1)
-              missing = sorted(set(ids) - set(rows))
+                  json.dump({'requested': ids, 'rows': rows, 'missing': missing},
+                            f, ensure_ascii=False, indent=1)
               print(req_path, '->', out, 'extracted', len(rows), 'missing', missing)
               if missing:
                   bad.append((req_path, missing))
-          if bad:
-              raise SystemExit('missing ids: %s' % bad)
+          with open('/tmp/extract-bad.txt', 'w', encoding='utf-8') as f:
+              f.write(json.dumps(bad, ensure_ascii=False) if bad else '')
           PY
       - name: Commit report
         run: |
@@ -77,3 +85,10 @@ jobs:
             git fetch origin main
             git rebase origin/main || { git rebase --abort; echo "rebase conflict; aborting"; exit 1; }
           done
+      - name: Fail the run when any request was invalid or had unknown ids
+        if: always()
+        run: |
+          if [ -s /tmp/extract-bad.txt ]; then
+            echo "::error::extract request loi (cac request hop le da duoc commit o tren): $(cat /tmp/extract-bad.txt)"
+            exit 1
+          fi

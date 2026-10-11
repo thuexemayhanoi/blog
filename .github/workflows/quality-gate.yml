@@ -25,16 +25,19 @@ name: Quality gate
 on:
   push:
     branches: [main]
-    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/quality-gate.yml']
+    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
   pull_request:
-    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/quality-gate.yml']
+    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
   workflow_dispatch:
 
 permissions:
   contents: read
 
+# Gate READ-ONLY: mỗi PR/commit một group riêng => KHÔNG run nào bị run khác
+# hủy (một group chung chỉ giữ 1 run chờ và hủy run chờ cũ — một push nội dung
+# có thể thay run FULL của một thay đổi engine, engine không được kiểm).
 concurrency:
-  group: quality-gate
+  group: quality-gate-${{ github.event.pull_request.number || github.sha }}
   cancel-in-progress: false
 
 jobs:
@@ -260,7 +263,9 @@ jobs:
   # registry/selector/queue/publisher-push/CAS client va mo phong dong thoi
   # 3 writer + publisher voi engine that (scripts/factory/run-tests.py).
   engine-tests:
-    if: github.repository == 'thuexemayhanoi/blog' && needs.gate.outputs.mode == 'full'
+    # !cancelled(): vẫn chạy khi job gate đỏ (vd lỗi dữ liệu link) — hai tín
+    # hiệu độc lập, thấy cả hai cùng lúc; chỉ bỏ qua khi gate bị bỏ qua/hủy
+    if: ${{ !cancelled() && github.repository == 'thuexemayhanoi/blog' && needs.gate.outputs.mode == 'full' }}
     name: Engine unit + concurrency tests (offline)
     needs: gate
     runs-on: ubuntu-latest
