@@ -1,0 +1,104 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R47: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R47-001",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Ở khu nào của Hà Nội tiện đi xe máy thuê: phố cổ, Tây Hồ, Long Biên, Cầu Giấy",
+   "intent": "Chọn khu vực lưu trú ở Hà Nội sao cho việc tự đi xe máy thuê thuận nhất, so sánh từng khu về chỗ để xe, đường vào ngõ, mức đông xe và đường ra khỏi nội thành.",
+   "kw": "ở khu nào Hà Nội đi xe máy",
+   "kw2": [
+    "chọn khu ở Hà Nội khi đi xe máy",
+    "ở phố cổ hay Tây Hồ nên thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R47",
+   "audience": "Khách du lịch và người mới đến Hà Nội đang chọn nơi lưu trú, dự định tự đi xe máy thuê",
+   "location_scope": "Phố cổ - Hoàn Kiếm, Tây Hồ, Long Biên, Cầu Giấy (Hà Nội)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R47-002",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Ở nội thành mà sang Long Biên nhận xe: có mất công không, đi bằng gì",
+   "intent": "Cân nhắc có đáng sang bờ đông sông Hồng để nhận xe tại địa chỉ cửa hàng khi đang ở phố cổ, Tây Hồ hay Ba Đình, và biết cách tới đó (xe công nghệ, taxi, xe buýt, qua cầu) cùng cách tính thời gian.",
+   "kw": "sang Long Biên nhận xe thuê",
+   "kw2": [
+    "ở phố cổ thuê xe máy bên Long Biên",
+    "từ nội thành sang Long Biên bằng gì"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R47",
+   "audience": "Khách đang ở nội thành Hà Nội (phố cổ, Tây Hồ, Ba Đình) phân vân có nên sang Long Biên nhận xe",
+   "location_scope": "Từ phố cổ, Tây Hồ, Ba Đình sang khu Bồ Đề, Long Biên (Hà Nội)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R47-003",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Đọc địa chỉ ở Hà Nội để tìm đúng chỗ nhận xe: số nhà, ngõ, ngách và phường",
+   "intent": "Hiểu cách đọc số nhà, ngõ, ngách, tên phố và phường trong địa chỉ Hà Nội, và cách dùng bản đồ điện thoại để tìm đúng địa chỉ nhận xe (ví dụ 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên) mà không đi nhầm.",
+   "kw": "cách đọc địa chỉ Hà Nội ngõ ngách",
+   "kw2": [
+    "tìm địa chỉ nhận xe thuê trên bản đồ",
+    "số nhà ngõ ngách ở Hà Nội"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R47",
+   "audience": "Khách từ tỉnh khác và khách nước ngoài lần đầu tự tìm địa chỉ ở Hà Nội",
+   "location_scope": "Hà Nội; ví dụ địa chỉ khu Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R47-004",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Nhận xe ở Long Biên rồi đi đường dài: hướng nào ra khỏi Hà Nội thuận nhất",
+   "intent": "Biết điểm nhận xe ở bờ đông sông Hồng ảnh hưởng thế nào tới quãng đầu chuyến đi xa theo từng hướng (Bắc, Đông, Nam, Tây): hướng nào ra khỏi phố nhanh, hướng nào phải xuyên thành phố, nên xuất phát giờ nào.",
+   "kw": "từ Long Biên ra khỏi Hà Nội xe máy",
+   "kw2": [
+    "xuất phát từ Long Biên đi đường dài",
+    "ra khỏi Hà Nội bằng xe máy hướng nào"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R47",
+   "audience": "Người thuê xe máy cho chuyến đi xa vài ngày ngoài Hà Nội, còn đang chọn điểm nhận xe và giờ xuất phát",
+   "location_scope": "Khu Long Biên và các cửa ngõ phía Bắc, Đông, Nam, Tây của Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R47-005",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Trả xe ở Long Biên rồi ra Nội Bài hoặc ga Hà Nội: tính giờ ngược từ chuyến đi",
+   "intent": "Lập mốc giờ ngược từ giờ bay hoặc giờ tàu để biết phải trả xe lúc nào, đi từ khu Long Biên ra Nội Bài hoặc ga Hà Nội bằng gì và chừa đệm thời gian bao nhiêu cho kịp.",
+   "kw": "trả xe rồi ra sân bay Nội Bài",
+   "kw2": [
+    "trả xe thuê rồi ra ga Hà Nội",
+    "từ Long Biên ra Nội Bài bằng gì"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R47",
+   "audience": "Khách sắp rời Hà Nội bằng máy bay hoặc tàu hỏa, đang thuê xe máy và cần trả xe đúng kế hoạch",
+   "location_scope": "Khu Long Biên, sân bay Nội Bài, ga Hà Nội (Hà Nội)",
+   "word_target": 1200
+  }
+ ]
+}

@@ -1,0 +1,123 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R44: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R44-001",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiền cọc, tiền thuê trả trước và tiền giữ chỗ: phân biệt để khỏi hiểu nhầm",
+   "intent": "Hiểu ba cách gọi khoản tiền đưa trước khi thuê xe khác nhau ở đâu, và biết cách hỏi chủ xe cho đúng tên gọi để tin nhắn, biên nhận không gây hiểu nhầm.",
+   "kw": "tiền cọc và tiền thuê trả trước khác nhau",
+   "kw2": [
+    "tiền giữ chỗ thuê xe máy là gì",
+    "trả trước tiền thuê xe có phải đặt cọc không"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R44",
+   "audience": "Người lần đầu thuê xe máy ở Hà Nội, hay nhầm giữa cọc và tiền thuê trả trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R44-002",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Chủ xe trả lời mơ hồ về tiền cọc: 'đến rồi tính' thì nên làm gì",
+   "intent": "Biết cách xử lý khi câu trả lời về cọc chưa rõ ràng (đến nơi rồi tính, cọc nhẹ thôi, tùy xe): nên hỏi tiếp điều gì, nhờ chốt bằng chữ ra sao và khi nào nên dừng lại cân nhắc trước khi đưa tiền.",
+   "kw": "chủ xe trả lời mơ hồ về tiền cọc",
+   "kw2": [
+    "đến nơi rồi tính cọc thuê xe",
+    "câu trả lời chưa rõ về đặt cọc xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R44",
+   "audience": "Khách thuê xe máy nhắn tin hỏi trước nhưng nhận được câu trả lời chung chung",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R44-003",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Nên đưa tiền cọc lúc nào: trước hay sau khi xem xe và chốt điều kiện",
+   "intent": "Nắm thứ tự hợp lý các bước khi thuê xe (xác nhận xe, xem xe thực tế, thống nhất điều kiện, rồi mới đưa tiền, nhận biên nhận) cho cả trường hợp gặp trực tiếp lẫn đặt từ xa.",
+   "kw": "khi nào nên đưa tiền cọc thuê xe",
+   "kw2": [
+    "đặt cọc trước hay xem xe trước",
+    "thứ tự các bước khi đặt cọc thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R44",
+   "audience": "Người mới thuê xe máy, phân vân nên chuyển tiền trước hay xem xe rồi mới chuyển",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R44-004",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Quét mã QR để chuyển cọc thuê xe: soát tên người nhận trước khi xác nhận",
+   "intent": "Biết các bước tự soát khi quét mã QR hoặc nhập số tài khoản để chuyển cọc thuê xe: đối chiếu tên người nhận, nội dung, số tiền hiển thị và giữ lại màn hình xác nhận.",
+   "kw": "quét mã QR chuyển cọc thuê xe",
+   "kw2": [
+    "kiểm tra tên người nhận khi chuyển khoản cọc",
+    "chuyển khoản cọc xe máy nhầm người nhận"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R44",
+   "audience": "Khách thuê xe máy chuyển khoản cọc bằng ứng dụng ngân hàng trên điện thoại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R44-005",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Chuyển cọc xong mà chủ xe báo chưa nhận được tiền: các bước kiểm tra",
+   "intent": "Biết cách kiểm tra theo thứ tự khi đã chuyển khoản cọc nhưng bên nhận báo chưa thấy tiền (giao dịch chờ xử lý, sai số tài khoản, chậm giữa các ngân hàng) và cần chuẩn bị gì để nhờ ngân hàng tra soát.",
+   "kw": "chuyển khoản cọc chủ xe chưa nhận được",
+   "kw2": [
+    "chuyển cọc thuê xe chưa thấy tiền",
+    "giao dịch chuyển khoản đang xử lý thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R44",
+   "audience": "Khách thuê xe máy đã trừ tiền trong tài khoản nhưng chủ xe nói chưa nhận",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R44-006",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Bố mẹ hoặc bạn bè chuyển cọc hộ người thuê xe: khớp tên và nội dung chuyển khoản",
+   "intent": "Biết cách ghi tên người chuyển, tên người thuê và nội dung chuyển khoản sao cho khớp khi người khác trả hộ khoản cọc, và nhắn lại với chủ xe để khỏi nhầm khoản của ai.",
+   "kw": "chuyển tiền cọc hộ người thuê xe",
+   "kw2": [
+    "người khác chuyển khoản cọc thuê xe giúp",
+    "tên người chuyển khác tên người thuê xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R44",
+   "audience": "Sinh viên, khách ở xa hoặc người đi công tác nhờ bố mẹ, bạn bè, đồng nghiệp chuyển cọc hộ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

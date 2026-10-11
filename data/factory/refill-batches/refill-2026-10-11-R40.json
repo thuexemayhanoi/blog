@@ -1,0 +1,89 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R40: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R40-001",
+   "child_id": "C-THUE-GIA",
+   "title": "Đọc giá thuê xe máy bằng tiếng Việt: 150k, 1tr8, một trăm rưỡi là bao nhiêu",
+   "intent": "Biết đọc và nghe đúng cách người Việt viết và nói giá thuê xe máy (k, nghìn, tr, một trăm rưỡi, một triệu tám) cùng cách nhận mặt các tờ tiền để khỏi nhầm số không khi hỏi giá và trả tiền.",
+   "kw": "đọc giá thuê xe máy tiếng Việt",
+   "kw2": [
+    "150k là bao nhiêu tiền thuê xe",
+    "1tr8 là bao nhiêu",
+    "mệnh giá tiền Việt khi thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R40",
+   "audience": "Du khách nước ngoài, người mới đến Hà Nội và người đang học tiếng Việt, lần đầu tự hỏi giá thuê xe máy",
+   "location_scope": "Hà Nội, khu phố cổ và nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R40-002",
+   "child_id": "C-THUE-GIA",
+   "title": "Xe đắt hơn 50.000đ một ngày: cộng dồn theo tuần và tháng chênh bao nhiêu",
+   "intent": "Hiểu khoản chênh 50.000đ mỗi ngày giữa xe 150.000đ và xe 200.000đ phình ra thế nào ở gói tuần và gói tháng, và vì sao cùng giá ngày chưa chắc cùng giá tháng, để chọn dòng xe theo thời gian định thuê.",
+   "kw": "chênh giá thuê xe tuần tháng",
+   "kw2": [
+    "Vision Air Blade giá thuê tháng",
+    "Click Mio giá thuê tuần tháng",
+    "xe 200k một ngày giá tháng"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R40",
+   "audience": "Người định thuê xe máy từ một tuần trở lên, đang phân vân giữa xe 150.000đ và xe 200.000đ một ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R40-003",
+   "child_id": "C-THUE-GIA",
+   "title": "Quy tiền thuê xe máy ra giá mỗi chuyến đi: một ngày thuê có đáng không",
+   "intent": "Biết cách chia tiền thuê theo số chuyến đi và số ngày thực dùng để thấy giá thật của mỗi lần đi, rồi quyết định thuê cả ngày, lấy gói tuần hay chọn cách đi khác.",
+   "kw": "tiền thuê xe máy mỗi chuyến đi",
+   "kw2": [
+    "giá thuê xe máy chia theo chuyến",
+    "thuê xe cả ngày chỉ đi vài chuyến",
+    "chi phí mỗi lần đi bằng xe thuê"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R40",
+   "audience": "Người thuê xe máy ngắn ngày chỉ đi vài chuyến mỗi ngày và người cân nhắc thuê tuần cho việc đi lại đều đặn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R40-004",
+   "child_id": "C-THUE-GIA",
+   "title": "Báo giá thuê xe máy là một khoảng: lập ngân sách theo mức thấp hay mức cao",
+   "intent": "Biết cách lập ngân sách khi giá thuê tuần hoặc tháng được báo thành một khoảng (như 800.000–1.000.000đ), tính phương án thấp nhất và cao nhất rồi hỏi để chốt con số cụ thể cho đúng chiếc xe sẽ nhận.",
+   "kw": "báo giá thuê xe máy dạng khoảng",
+   "kw2": [
+    "giá thuê xe 800.000 đến 1 triệu một tuần",
+    "lập ngân sách thuê xe máy mức cao",
+    "chốt giá thuê xe máy cụ thể"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R40",
+   "audience": "Người đã nhận báo giá dạng khoảng từ cửa hàng và cần ra con số ngân sách cụ thể trước khi chốt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

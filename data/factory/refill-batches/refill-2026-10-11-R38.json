@@ -1,0 +1,275 @@
+{
+  "_meta": {
+    "note": "Topic batch refill 2026-10-11 R38: chu de that, tao boi writer theo gate G1-G8.",
+    "created": "2026-10-11",
+    "source": "writer topic expansion theo docs/TAXONOMY.md"
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-11-R38-001",
+      "child_id": "C-HD-SU-CO",
+      "title": "Đinh ghim trong lốp xe thuê mà lốp chưa xẹp: có nên rút ra không",
+      "intent": "Biết nên làm gì khi thấy đinh hoặc vật nhọn ghim trong lốp nhưng xe vẫn chạy được: có rút ra hay để nguyên, đi chậm tới tiệm vá thế nào và báo cửa hàng lúc nào.",
+      "kw": "đinh ghim trong lốp xe máy",
+      "kw2": [
+        "lốp xe máy dính đinh chưa xẹp",
+        "có nên rút đinh khỏi lốp xe không"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy, nhất là khách mới, vừa phát hiện đinh hoặc vật nhọn găm trên lốp khi xe còn đủ hơi",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-002",
+      "child_id": "C-HD-SU-CO",
+      "title": "Lốp xe thuê phồng bướu hoặc nứt ở hông: dừng chạy hay đi tiếp được",
+      "intent": "Nhận ra lốp bị phồng bướu hoặc nứt ở thành lốp là dấu hiệu nguy hiểm, biết dừng xe, dắt xe và báo cửa hàng thay vì cố chạy tiếp.",
+      "kw": "lốp xe máy phồng bướu",
+      "kw2": [
+        "lốp xe máy nứt ở hông",
+        "lốp xe bị phồng có nguy hiểm không"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy tự kiểm tra xe giữa chuyến đi hoặc khi dừng nghỉ, chưa có kinh nghiệm đọc tình trạng lốp",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-003",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe thuê vừa va mạnh vào ổ gà hoặc vỉa hè: kiểm tra gì trước khi đi tiếp",
+      "intent": "Biết các điểm cần nhìn, sờ và thử ngay sau một cú va mạnh vào ổ gà hay vỉa hè (vành, lốp, phuộc, tay lái, phanh) để quyết định đi tiếp hay dừng và báo cửa hàng.",
+      "kw": "xe máy va mạnh vào ổ gà",
+      "kw2": [
+        "xe máy va vào vỉa hè kiểm tra gì",
+        "xe bị lệch sau khi qua ổ gà lớn"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy vừa bị xóc mạnh hoặc quệt bánh vào vỉa hè và băn khoăn xe có bị ảnh hưởng không",
+      "location_scope": "Hà Nội (đường nội đô và đường ven đô nhiều ổ gà)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-004",
+      "child_id": "C-HD-SU-CO",
+      "title": "Ống xả xe thuê lỏng, kêu to hoặc quệt xuống đường: dừng và xử lý an toàn",
+      "intent": "Biết cách dừng xe an toàn, tránh chạm vào ống xả còn nóng, nhận ra ống xả lỏng hoặc tuột bu lông và báo cửa hàng thay vì buộc tạm rồi chạy tiếp.",
+      "kw": "ống pô xe máy bị lỏng",
+      "kw2": [
+        "ống xả xe máy kêu to bất thường",
+        "ống pô quệt xuống đường sau khi qua gờ"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy nghe tiếng kim loại quệt đường hoặc thấy ống xả lủng lẳng khi vừa qua gờ giảm tốc hay ổ gà",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-005",
+      "child_id": "C-HD-SU-CO",
+      "title": "Ốp nhựa xe tay ga bung hoặc rơi giữa đường: cố định tạm và báo cửa hàng",
+      "intent": "Biết xử lý khi ốp nhựa, yếm hoặc chắn bùn xe tay ga bung chốt, lủng lẳng hay rơi: nhặt mảnh rơi, cố định tạm an toàn tránh kẹt bánh và ống xả, rồi báo cửa hàng.",
+      "kw": "ốp nhựa xe tay ga bị bung",
+      "kw2": [
+        "yếm xe máy bị bung giữa đường",
+        "mảnh nhựa xe máy rơi khi đang chạy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe tay ga thấy bộ phận nhựa bung hoặc nghe tiếng lạch cạch từ yếm xe khi đang chạy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-006",
+      "child_id": "C-HD-SU-CO",
+      "title": "Thợ sửa xe ven đường bảo phải thay phụ tùng lớn: hỏi gì và báo cửa hàng ra sao",
+      "intent": "Biết nên hỏi thợ ven đường những gì, vì sao nên dừng lại chụp ảnh và báo cửa hàng trước khi đồng ý tháo hoặc thay bộ phận lớn của xe thuê.",
+      "kw": "thợ sửa xe ven đường báo hỏng",
+      "kw2": [
+        "thợ bảo phải thay phụ tùng xe thuê",
+        "hỏi thợ sửa xe ven đường trước khi đồng ý"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy, đặc biệt khách nước ngoài, đang đứng trước tiệm sửa xe ven đường và được đề nghị sửa hoặc thay nhiều thứ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-007",
+      "child_id": "C-HD-SU-CO",
+      "title": "Công tơ mét xe thuê không nhảy hoặc kim tốc độ đứng im: có nên đi tiếp",
+      "intent": "Hiểu vì sao công tơ mét hoặc kim tốc độ ngừng hoạt động (cáp đứt, mất tín hiệu), cách ước lượng tốc độ an toàn khi chưa có đồng hồ và khi nào báo cửa hàng.",
+      "kw": "công tơ mét xe máy không nhảy",
+      "kw2": [
+        "kim tốc độ xe máy đứng im",
+        "đồng hồ tốc độ xe máy hỏng có đi tiếp được không"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy nhận ra đồng hồ tốc độ hoặc số km không còn hoạt động giữa kỳ thuê",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-008",
+      "child_id": "C-HD-SU-CO",
+      "title": "Bãi gửi xe đã đóng cửa mà xe thuê còn bên trong: liên hệ ai và làm gì",
+      "intent": "Biết các bước bình tĩnh khi quay lại muộn thấy bãi gửi xe đã đóng: tìm số liên hệ trên vé hoặc biển bãi, hỏi bảo vệ gần đó, không trèo rào hay tự ý lấy xe, rồi báo cửa hàng.",
+      "kw": "bãi gửi xe đã đóng cửa",
+      "kw2": [
+        "quên lấy xe trước giờ đóng bãi",
+        "bãi giữ xe đóng cửa không lấy được xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy đi chơi tối hoặc đi ăn muộn ở khu đông người, quay lại bãi gửi xe thì đã đóng cửa",
+      "location_scope": "Hà Nội (bãi gửi xe khu phố, chung cư, trung tâm thương mại)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-009",
+      "child_id": "C-HD-SU-CO",
+      "title": "Baga sau xe thuê cong hoặc nứt mối hàn khi chở nặng: dừng chở, báo cửa hàng",
+      "intent": "Nhận ra baga sau bị cong, rung hoặc nứt mối hàn do chở nặng, biết dỡ bớt đồ, dừng xe an toàn và báo cửa hàng thay vì tiếp tục chở.",
+      "kw": "baga xe máy bị cong",
+      "kw2": [
+        "baga sau xe máy bị gãy",
+        "chở đồ nặng làm cong baga xe thuê"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe số hoặc xe tay ga có baga, chở balo, thùng hàng hoặc đồ mua ở chợ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-010",
+      "child_id": "C-HD-SU-CO",
+      "title": "Bị bỏng ống pô xe máy: sơ cứu ban đầu và khi nào cần đến cơ sở y tế",
+      "intent": "Biết các bước sơ cứu ban đầu khi bị bỏng do chạm ống xả xe máy (làm mát vết bỏng, không bôi bậy, che sạch) và dấu hiệu cần đến cơ sở y tế, kèm việc nhắn cho cửa hàng nếu xe cần kiểm tra.",
+      "kw": "bị bỏng ống pô xe máy",
+      "kw2": [
+        "sơ cứu bỏng ống xả xe máy",
+        "bỏng pô xe máy khách du lịch xử lý thế nào"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Khách du lịch và người mới đi xe máy, hay mặc quần short hoặc đi dép, vừa bị chạm ống xả khi lên xuống xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-011",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe thuê bị xe khác đỗ chắn kín không dắt ra được: nhờ ai và dắt ra sao",
+      "intent": "Biết cách xử lý khi xe thuê bị hàng xe đỗ hoặc xe khác chắn lối: tìm chủ xe hoặc người trông xe, không tự xô đẩy xe khác, dắt xe ra từng bước để khỏi đổ và khi nào báo cửa hàng.",
+      "kw": "xe máy bị chắn không ra được",
+      "kw2": [
+        "xe bị xe khác đỗ chặn lối ra",
+        "dắt xe máy ra khỏi hàng xe đỗ kín"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy gửi xe ở vỉa hè hoặc ngõ chật, quay lại thấy xe bị các xe khác dựng sát kín",
+      "location_scope": "Hà Nội (phố cổ, ngõ nhỏ, vỉa hè đông xe)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-012",
+      "child_id": "C-HD-SU-CO",
+      "title": "Xe thuê tự tắt máy khi qua ổ gà hoặc gờ giảm tốc: nghi tiếp xúc điện lỏng",
+      "intent": "Hiểu vì sao xe tự tắt máy mỗi khi bị xóc (giắc điện lỏng, ổ khóa, bugi, ắc quy), cách dừng xe an toàn giữa đường và ghi lại để báo cửa hàng.",
+      "kw": "xe máy tắt khi qua ổ gà",
+      "kw2": [
+        "xe tự tắt máy khi chạy xóc",
+        "xe máy tắt máy khi qua gờ giảm tốc"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy gặp tình trạng xe chết máy lặp lại mỗi lần đi qua chỗ xóc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-013",
+      "child_id": "C-HD-SU-CO",
+      "title": "Thấy ốc hoặc bu lông lỏng, mất trên xe thuê: tự siết hay báo cửa hàng",
+      "intent": "Biết phân biệt ốc nào có thể siết nhẹ khi dừng nghỉ và bộ phận nào (phanh, bánh, tay lái, ống xả) tuyệt đối để cửa hàng xử lý, cách ghi lại vị trí ốc mất để báo.",
+      "kw": "xe máy bị lỏng ốc bu lông",
+      "kw2": [
+        "mất ốc trên xe máy thuê",
+        "tự siết ốc xe máy thuê có nên không"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy nhìn thấy ốc lỏng, thiếu ốc hoặc nghe tiếng lách cách khi dừng kiểm tra xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R38-014",
+      "child_id": "C-HD-SU-CO",
+      "title": "Lỗi xe thuê chỉ xuất hiện một lần rồi tự hết: có cần báo cửa hàng không",
+      "intent": "Biết khi nào một lỗi thoáng qua (xe chết máy một lần rồi nổ lại, đèn báo nhấp nháy rồi tắt, phanh kêu một hôm) vẫn nên báo cửa hàng, cách ghi lại hoàn cảnh xảy ra và báo ngắn gọn.",
+      "kw": "xe máy lỗi thoáng qua rồi hết",
+      "kw2": [
+        "xe chết máy một lần rồi nổ lại bình thường",
+        "lỗi xe máy chập chờn có nên báo cửa hàng"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-su-co/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R38",
+      "audience": "Người thuê xe máy gặp lỗi một lần rồi xe chạy lại bình thường và phân vân có cần báo hay không",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ]
+}

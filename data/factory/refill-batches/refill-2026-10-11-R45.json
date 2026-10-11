@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R45: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R45-001",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Vì sao người Hà Nội bấm còi liên tục: cách hiểu tiếng còi khi tự lái xe máy",
+   "intent": "Hiểu tiếng còi ở Hà Nội thường mang nghĩa gì (báo mình đang ở đây, xin vượt, cảnh báo) để không giật mình và biết bấm còi đúng cách.",
+   "kw": "tiếng còi xe máy ở hà nội",
+   "kw2": [
+    "văn hóa bấm còi hà nội",
+    "vì sao người việt bấm còi nhiều"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài lần đầu tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-002",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Qua ngã tư đông xe ở Hà Nội bằng xe máy: cách hòa vào dòng xe lần đầu",
+   "intent": "Biết cách đi qua và rẽ ở ngã tư đông xe: giữ nhịp đều, nhìn dòng xe thay vì chỉ nhìn đèn, không dừng đột ngột giữa giao lộ.",
+   "kw": "qua ngã tư đông xe máy",
+   "kw2": [
+    "rẽ trái ngã tư đông xe",
+    "hòa vào dòng xe máy hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài lần đầu chạy xe máy trong nội thành",
+   "location_scope": "Hà Nội, các ngã tư đông xe nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-003",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Giờ cao điểm Hà Nội: khung giờ và hướng đường nên tránh khi mới chạy xe máy",
+   "intent": "Chọn giờ đi và hướng đi hợp lý để tránh lúc đường đông nhất khi còn chưa quen lái xe máy ở Hà Nội.",
+   "kw": "giờ cao điểm hà nội xe máy",
+   "kw2": [
+    "tránh giờ cao điểm hà nội",
+    "giờ tan tầm hà nội xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài mới nhận xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-004",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Chạy xe máy cạnh xe buýt, xe tải và taxi ở Hà Nội: giữ khoảng cách thế nào",
+   "intent": "Biết cách chạy gần xe lớn: điểm mù, xe buýt tấp lề bất ngờ, xe tải rẽ, taxi dừng đón khách, để giữ khoảng cách an toàn.",
+   "kw": "xe máy gần xe buýt xe tải",
+   "kw2": [
+    "điểm mù xe tải xe máy",
+    "xe buýt tấp lề bất ngờ"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài tự lái xe máy",
+   "location_scope": "Hà Nội, các trục đường lớn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-005",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đi xe máy buổi tối ở Hà Nội lần đầu: những điều khó thấy khi trời tối",
+   "intent": "Biết những khó khăn riêng khi chạy xe máy ban đêm ở Hà Nội (đèn pha xe ngược chiều, ổ gà khó thấy, người đi bộ mặc đồ tối) và cách chạy chậm, chọn đường.",
+   "kw": "đi xe máy buổi tối hà nội",
+   "kw2": [
+    "chạy xe máy ban đêm hà nội",
+    "đi xe máy tối lần đầu"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài định đi ăn tối hoặc đi chơi đêm bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-006",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Có nên chạy xe máy vào khu phố cổ Hà Nội hay gửi ngoài rồi đi bộ",
+   "intent": "Chọn giữa chạy xe vào khu phố cổ (đường hẹp, một chiều, đông người) hay gửi xe ở rìa rồi đi bộ, theo kế hoạch tham quan của mình.",
+   "kw": "chạy xe máy vào phố cổ",
+   "kw2": [
+    "đi xe máy trong phố cổ",
+    "phố cổ hà nội đi bộ hay xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài sắp tham quan phố cổ",
+   "location_scope": "Khu phố cổ Hà Nội, quận Hoàn Kiếm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-007",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Cuối tuần quanh hồ Hoàn Kiếm có phố đi bộ: đi xe máy vòng qua thế nào",
+   "intent": "Biết cách lên kế hoạch đi xe máy khi khu quanh hồ Hoàn Kiếm có phố đi bộ vào cuối tuần: đi vòng, chỗ để xe rìa khu vực, nên đi giờ nào.",
+   "kw": "phố đi bộ hoàn kiếm xe máy",
+   "kw2": [
+    "đi xe máy cuối tuần hồ gươm",
+    "vòng qua phố đi bộ hoàn kiếm"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài ở lại cuối tuần tại Hà Nội",
+   "location_scope": "Quanh hồ Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-008",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Homestay trong ngõ nhỏ Hà Nội: dắt xe máy vào ngõ và quay đầu an toàn",
+   "intent": "Biết cách đưa xe máy vào và ra khỏi ngõ hẹp nơi homestay hoặc nhà nghỉ: dắt bộ, tránh người đi bộ, quay đầu, để xe ở đâu trong ngõ.",
+   "kw": "dắt xe máy vào ngõ nhỏ",
+   "kw2": [
+    "quay đầu xe máy trong ngõ hẹp",
+    "homestay trong ngõ hà nội xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài ở homestay hoặc nhà nghỉ trong ngõ",
+   "location_scope": "Các ngõ nhỏ trong nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-009",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Chưa từng lái xe máy: buổi tập đầu tiên ở Hà Nội nên làm những gì",
+   "intent": "Biết cách tự tập làm quen xe máy trước khi ra đường lớn: tư thế ngồi, bóp phanh, tăng ga nhẹ, đi chậm và dừng, chọn nơi và giờ ít xe, hoặc khi nào nên hoãn.",
+   "kw": "tập lái xe máy lần đầu",
+   "kw2": [
+    "buổi tập đầu tiên với xe máy",
+    "làm quen xe máy trước khi ra đường"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài chưa từng lái xe máy",
+   "location_scope": "Hà Nội, chọn đoạn đường vắng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-010",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Ngồi sau xe máy ở Hà Nội: cách ngồi, đặt chân và giữ thăng bằng cho bạn đi cùng",
+   "intent": "Biết cách ngồi sau cho đúng: ngồi đâu, đặt chân ra sao, giữ thăng bằng khi phanh hoặc rẽ, báo cho người lái khi cần dừng.",
+   "kw": "ngồi sau xe máy cách ngồi đúng",
+   "kw2": [
+    "người ngồi sau xe máy",
+    "giữ thăng bằng khi ngồi sau xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài đi cùng bạn đồng hành, một người lái một người ngồi sau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-011",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Hai xe đi cùng nhau ở Hà Nội: giữ liên lạc và không lạc nhau giữa dòng xe",
+   "intent": "Biết cách đi hai xe cùng nhóm bạn mà không lạc nhau: ai đi trước, điểm hẹn dự phòng, chia sẻ vị trí, tín hiệu đơn giản khi cần dừng.",
+   "kw": "hai xe máy đi cùng nhau",
+   "kw2": [
+    "đi nhóm xe máy ở hà nội",
+    "chia sẻ vị trí khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "nhóm bạn nước ngoài đi hai xe máy trở lên",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-012",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Mang vali nhỏ và ba lô khi đi xe máy ở Hà Nội: buộc đồ sao cho an toàn",
+   "intent": "Biết cách mang ba lô, vali nhỏ hoặc túi mua sắm trên xe máy sao cho không cản chân, không lệch xe, không dễ rơi hay bị giật.",
+   "kw": "chở hành lý trên xe máy",
+   "kw2": [
+    "mang ba lô khi đi xe máy",
+    "buộc vali nhỏ lên xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài chuyển khách sạn hoặc đi chơi xa bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-013",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Mười câu tiếng Việt hữu ích khi tự lái xe máy ở Hà Nội",
+   "intent": "Học nhanh vài câu tiếng Việt thiết thực khi tự đi xe máy: hỏi đường, nhờ gửi xe, nhờ vá lốp, hỏi cây xăng gần nhất, nói cảm ơn và xin lỗi.",
+   "kw": "câu tiếng việt khi đi xe máy",
+   "kw2": [
+    "tiếng việt cho khách đi xe máy",
+    "hỏi đường bằng tiếng việt"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài không nói tiếng Việt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-014",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Lạc đường khi đi xe máy ở Hà Nội: dừng ở đâu và hỏi người địa phương thế nào",
+   "intent": "Biết xử lý khi bị lạc: chọn chỗ dừng an toàn, đưa địa chỉ viết sẵn, hỏi người bán hàng hoặc bảo vệ, đọc tên phố đúng cách.",
+   "kw": "lạc đường đi xe máy hà nội",
+   "kw2": [
+    "hỏi đường người hà nội",
+    "bị lạc khi tự lái xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài tự lái xe máy khi mất phương hướng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-015",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Nhắn chủ xe khi xe có vấn đề: gửi vị trí, ảnh và thông tin gì để xử lý nhanh",
+   "intent": "Biết nhắn tin cho chủ xe khi xe gặp sự cố sao cho họ hiểu ngay: gửi vị trí, ảnh chỗ hỏng, biển số, mô tả ngắn bằng câu đơn giản.",
+   "kw": "nhắn chủ xe khi xe hỏng",
+   "kw2": [
+    "gửi vị trí cho chủ xe",
+    "mô tả sự cố xe máy bằng tiếng anh"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài gặp sự cố với xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-016",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Giữ điện thoại và túi xách khi chạy xe máy ở Hà Nội: tránh bị giật",
+   "intent": "Biết cách cầm, đặt điện thoại và đeo túi khi chạy xe máy để hạn chế bị giật từ xe khác, và những thói quen nên bỏ khi dừng đèn đỏ.",
+   "kw": "tránh giật điện thoại xe máy",
+   "kw2": [
+    "giữ túi xách khi đi xe máy",
+    "chống giật đồ ở hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài mang điện thoại và túi khi đi xe máy",
+   "location_scope": "Hà Nội, khu trung tâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-017",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Xe máy bị xịt lốp giữa đường ở Hà Nội: nhận ra tiệm vá xe và nhờ giúp thế nào",
+   "intent": "Biết xử lý khi lốp xẹp giữa đường: dừng an toàn, nhận ra tiệm vá xe ven đường, dùng vài câu tiếng Việt để nhờ giúp và báo cho chủ xe.",
+   "kw": "xe máy xịt lốp giữa đường",
+   "kw2": [
+    "tiệm vá xe ven đường",
+    "lốp xe máy bị xẹp phải làm gì"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài tự lái xe máy gặp sự cố lốp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-018",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Xe máy thuê không đề được: các điều tự kiểm tra trước khi gọi chủ xe",
+   "intent": "Biết tự kiểm tra các nguyên nhân đơn giản khiến xe không nổ máy (chân chống, công tắc, bóp phanh khi đề, xăng, khóa cổ) trước khi nhờ người khác.",
+   "kw": "xe máy không đề được",
+   "kw2": [
+    "xe máy không nổ máy sáng",
+    "kiểm tra xe máy trước khi gọi chủ xe"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài thuê xe máy ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-019",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Ngã xe nhẹ khi đi chơi ở Hà Nội: việc đầu tiên nên làm và nhờ ai giúp",
+   "intent": "Biết thứ tự việc nên làm sau một cú ngã nhẹ: vào lề an toàn, kiểm tra bản thân, nhờ người xung quanh, tìm tiệm thuốc hoặc phòng khám gần, báo cho chủ xe.",
+   "kw": "ngã xe máy nhẹ phải làm gì",
+   "kw2": [
+    "trầy xước sau khi ngã xe máy",
+    "nhờ ai giúp khi ngã xe"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài vừa ngã xe nhẹ hoặc đi cùng người bị ngã",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-020",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đường ngập sau mưa lớn ở Hà Nội: khi nào nên dừng, khi nào mới qua được",
+   "intent": "Biết đánh giá đoạn đường ngập sau mưa lớn: dấu hiệu nên chờ hoặc đổi đường, cách đi chậm qua nước nông, điều gì xảy ra nếu nước vào xe.",
+   "kw": "đường ngập hà nội đi xe máy",
+   "kw2": [
+    "xe máy chết máy khi lội nước",
+    "chạy xe qua đường ngập"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài đang chạy xe máy khi trời mưa lớn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-021",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Mùa đông Hà Nội chạy xe máy: mặc gì cho ấm và tránh gió lạnh buổi sáng",
+   "intent": "Chọn quần áo, găng tay, khăn và cách che gió khi chạy xe máy vào những ngày lạnh ở Hà Nội, nhất là buổi sáng sớm và buổi tối.",
+   "kw": "mặc gì đi xe máy mùa đông",
+   "kw2": [
+    "đi xe máy trời lạnh hà nội",
+    "áo ấm khi chạy xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài đến Hà Nội vào mùa lạnh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-022",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Chạy xe máy vòng Hồ Tây lúc hoàng hôn: tuyến đường và chỗ dừng ngắm cảnh",
+   "intent": "Biết cách đi vòng quanh Hồ Tây bằng xe máy vào buổi chiều tối: đi theo chiều nào, dừng ở đoạn nào để ngắm hoàng hôn, tránh đoạn đông.",
+   "kw": "xe máy vòng hồ tây hoàng hôn",
+   "kw2": [
+    "đi vòng hồ tây bằng xe máy",
+    "ngắm hoàng hôn hồ tây"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài muốn đi chơi nhẹ nhàng buổi chiều",
+   "location_scope": "Hồ Tây, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-023",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đi làng gốm Bát Tràng bằng xe máy nửa ngày: đường đi và lưu ý khi tham quan",
+   "intent": "Biết cách đi từ trung tâm Hà Nội đến làng gốm Bát Tràng bằng xe máy trong nửa ngày: hướng đi, đoạn đường đông xe tải, dừng xe, cách dạo trong làng.",
+   "kw": "đi bát tràng bằng xe máy",
+   "kw2": [
+    "làng gốm bát tràng nửa ngày",
+    "đường đi bát tràng từ hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài muốn tham quan làng nghề gần Hà Nội",
+   "location_scope": "Làng gốm Bát Tràng, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-024",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Làng cổ Đường Lâm bằng xe máy: đi từ Hà Nội một ngày thế nào",
+   "intent": "Biết lên kế hoạch đi và về trong ngày từ Hà Nội tới làng cổ Đường Lâm (Sơn Tây) bằng xe máy: xuất phát giờ nào, nghỉ ở đâu, lưu ý đường ngoại thành.",
+   "kw": "đi đường lâm bằng xe máy",
+   "kw2": [
+    "làng cổ đường lâm một ngày",
+    "đi sơn tây bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài thích làng quê và kiến trúc cổ",
+   "location_scope": "Làng cổ Đường Lâm, Sơn Tây, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R45-025",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Nửa ngày quanh Ba Đình và Văn Miếu bằng xe máy: thứ tự tham quan hợp lý",
+   "intent": "Biết sắp xếp một buổi tham quan các điểm di tích trung tâm (khu Ba Đình, Văn Miếu - Quốc Tử Giám) bằng xe máy: thứ tự đi, đường một chiều, chỗ nghỉ ăn trưa.",
+   "kw": "đi ba đình văn miếu xe máy",
+   "kw2": [
+    "đi lăng bác văn miếu bằng xe máy",
+    "lịch trình nửa ngày di tích hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R45",
+   "audience": "khách nước ngoài muốn đi các di tích trung tâm trong một buổi",
+   "location_scope": "Ba Đình và Đống Đa, Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

@@ -1,0 +1,370 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R46: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R46-001",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Người thấp dưới 1m55 thuê xe máy: chọn xe yên thấp, chân chạm đất",
+   "intent": "Biết cách thử ngồi và chọn mẫu xe dễ chống chân, dễ dắt khi đứng đèn đỏ hay quay đầu trong ngõ",
+   "kw": "người thấp thuê xe máy nào",
+   "kw2": [
+    "xe máy yên thấp cho người thấp",
+    "chọn xe máy chân chạm đất"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người có chiều cao khiêm tốn, lần đầu thuê xe, hay lo không chống được chân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-002",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Người cao to, nặng cân thuê xe máy nào cho thoải mái và vững tay lái",
+   "intent": "Chọn được mẫu xe đủ rộng yên, đủ khỏe khi chở thêm đồ, tránh cảm giác bó chân hoặc xe yếu",
+   "kw": "người cao to thuê xe máy nào",
+   "kw2": [
+    "xe máy cho người to cao",
+    "chọn xe máy cho người nặng cân"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người cao trên mét bảy, thể trạng to, đi một mình hoặc chở thêm balo nặng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-003",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Mặc váy hoặc áo dài đi xe máy thuê: chọn xe và cách ngồi cho gọn",
+   "intent": "Biết nên chọn kiểu xe nào và xử lý tà áo, chân váy, giày dép ra sao để đi an toàn, không vướng bánh xe",
+   "kw": "mặc váy đi xe máy thuê",
+   "kw2": [
+    "áo dài đi xe tay ga",
+    "xe máy cho phụ nữ mặc váy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "phụ nữ đi làm, đi sự kiện hoặc đi chơi mặc váy, áo dài, đồ công sở",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-004",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Quen xe số, lần đầu thuê xe tay ga: làm quen trong buổi đầu thế nào",
+   "intent": "Biết những phản xạ cần bỏ (bóp côn, lên số) và những điều mới (phanh hai tay, vặn ga) khi đổi sang tay ga",
+   "kw": "quen xe số đi xe tay ga lần đầu",
+   "kw2": [
+    "chuyển từ xe số sang tay ga",
+    "lần đầu đi xe tay ga cần chú ý"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người đã đi xe số nhiều năm, lần đầu thuê xe tay ga như Vision, Click hoặc Air Blade",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-005",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Quen xe tay ga, thuê xe số Wave lần đầu: cách lên số, về số cho mượt",
+   "intent": "Làm quen cần số, côn tự động và cách dừng, lên dốc, đi chậm khi chuyển từ tay ga sang xe số",
+   "kw": "người đi tay ga thuê xe số Wave",
+   "kw2": [
+    "chuyển từ tay ga sang xe số",
+    "cách đi xe số cho người mới"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người quen xe tay ga, muốn thuê Wave vì tiết kiệm nhưng chưa đi xe số bao giờ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-006",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Lái ô tô quen tay, thuê xe máy đi trong phố: những thói quen cần bỏ",
+   "intent": "Hiểu vì sao cảm giác lái, khoảng cách, tầm nhìn khác hẳn và chỉnh lại thói quen khi ngồi lên xe máy giữa phố Hà Nội",
+   "kw": "người lái ô tô chuyển sang xe máy",
+   "kw2": [
+    "lái ô tô đi xe máy khác gì",
+    "thói quen khi đi xe máy trong phố"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người quen lái ô tô, nay thuê xe máy để đi len lỏi trong nội thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-007",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Lâu năm không chạm xe máy, thuê lại để tập tay lái: bắt đầu từ đâu",
+   "intent": "Biết khởi động lại kỹ năng sau nhiều năm nghỉ: chọn xe nhẹ, chọn giờ và đoạn đường vắng, tăng dần độ khó",
+   "kw": "lâu không đi xe máy thuê lại",
+   "kw2": [
+    "lâu năm không lái xe máy",
+    "tập lại tay lái xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người từng đi xe máy rồi nghỉ nhiều năm, nay cần đi lại bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-008",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Khách nước ngoài lần đầu đi xe máy ở Hà Nội: xe tay ga hay xe số dễ hơn",
+   "intent": "So sánh xe tay ga và xe số theo góc người chưa từng lái xe máy, và biết cách làm quen trước khi ra phố đông",
+   "kw": "khách nước ngoài lần đầu đi xe máy hà nội",
+   "kw2": [
+    "du khách thuê xe máy lần đầu",
+    "xe tay ga hay xe số cho người mới"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "du khách quốc tế ít hoặc chưa có kinh nghiệm xe máy",
+   "location_scope": "Hà Nội (phố cổ, Hồ Tây)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-009",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Dẫn bạn nước ngoài đi chơi Hà Nội bằng xe máy: chọn xe và dặn bạn gì",
+   "intent": "Biết chọn xe dễ lái cho bạn nước ngoài và nên dặn gì về nhịp giao thông, còi xe, ngã tư đông trước khi đi cùng",
+   "kw": "dẫn bạn nước ngoài đi chơi bằng xe máy",
+   "kw2": [
+    "bạn nước ngoài đi xe máy ở hà nội",
+    "hướng dẫn bạn nước ngoài đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người Việt có bạn, đồng nghiệp hoặc người thân nước ngoài đến chơi Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-010",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Du lịch Hà Nội một mình bằng xe máy thuê: lịch trình và tự lo an toàn",
+   "intent": "Lập lịch trình trong ngày vừa sức, biết cách tự lo an toàn khi đi một mình: chia sẻ vị trí, pin điện thoại, chọn giờ về",
+   "kw": "du lịch một mình thuê xe máy hà nội",
+   "kw2": [
+    "đi một mình bằng xe máy hà nội",
+    "solo thuê xe máy hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "khách du lịch đi một mình, kể cả nữ du khách, lần đầu tự lái ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-011",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Vừa xuống ga hay bến xe với vali: chọn xe máy thuê chở hành lý thế nào",
+   "intent": "Chọn xe và cách xếp, buộc vali nhỏ, balo để chạy từ ga hay bến xe về chỗ ở mà vẫn cầm lái vững",
+   "kw": "thuê xe máy chở vali hành lý",
+   "kw2": [
+    "chở vali bằng xe máy",
+    "xe máy nào chở được hành lý"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "khách vừa đến Hà Nội bằng tàu hoặc xe khách, mang vali và balo",
+   "location_scope": "Hà Nội (khu ga Hà Nội, bến xe Mỹ Đình, Giáp Bát)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-012",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Gia sư, giáo viên dạy nhiều nơi trong ngày: thuê xe máy sao cho đúng giờ",
+   "intent": "Lên được kế hoạch đi lại giữa nhiều lớp, nhà học viên trong ngày và chọn xe gọn, tiết kiệm, ít hỏng vặt",
+   "kw": "thuê xe máy cho gia sư giáo viên",
+   "kw2": [
+    "gia sư đi dạy nhiều nhà",
+    "giáo viên dạy nhiều trung tâm đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "gia sư, giáo viên dạy kèm hoặc dạy ở nhiều trung tâm trong cùng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-013",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Người nhà chăm bệnh nhân ở bệnh viện Hà Nội: thuê xe máy đi lại thế nào",
+   "intent": "Sắp xếp việc đi lại giữa bệnh viện, nơi ở tạm, chợ và hiệu thuốc trong những tuần phải ở lại Hà Nội, chọn xe gọn dễ dắt",
+   "kw": "thuê xe máy chăm người nhà đi viện",
+   "kw2": [
+    "người nhà bệnh nhân thuê xe máy",
+    "đi lại khi chăm bệnh ở hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người từ tỉnh lên Hà Nội chăm người nhà điều trị ở các bệnh viện lớn",
+   "location_scope": "Hà Nội (khu Bạch Mai, Việt Đức, Nhi Trung ương)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-014",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Mới ra Hà Nội tìm việc: thuê xe máy theo tuần đi phỏng vấn nhiều nơi",
+   "intent": "Biết cách dùng một hai tuần thuê xe để đi phỏng vấn, xem phòng trọ và làm quen đường trước khi quyết định ở lâu",
+   "kw": "thuê xe máy tuần đầu ra hà nội tìm việc",
+   "kw2": [
+    "thuê xe máy đi phỏng vấn",
+    "mới ra hà nội thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người trẻ hoặc người lao động mới ra Hà Nội tìm việc, xem phòng trọ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-015",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Thuê xe máy một tuần để thử trước khi mua: so từng mẫu thế nào",
+   "intent": "Biết cách dùng vài tuần thuê để so Vision, Air Blade, Click, Wave về tư thế ngồi, tốn xăng, cốp và cảm giác lái trước khi mua xe",
+   "kw": "thuê xe máy thử trước khi mua",
+   "kw2": [
+    "thử xe máy trước khi mua",
+    "so sánh xe máy trước khi mua"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người đang cân nhắc mua xe máy và muốn chạy thử thực tế",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-016",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Nhiếp ảnh gia, người làm nội dung thuê xe máy chở thiết bị đi chụp ở Hà Nội",
+   "intent": "Chọn xe và cách chằng buộc, bảo vệ máy ảnh, chân máy để đi săn ảnh sáng sớm, hoàng hôn quanh phố cổ, Hồ Gươm, cầu Long Biên",
+   "kw": "thuê xe máy chở máy ảnh đi chụp",
+   "kw2": [
+    "xe máy chở thiết bị quay chụp",
+    "nhiếp ảnh gia thuê xe máy hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "nhiếp ảnh gia, quay phim, người làm nội dung cần chở balo máy và chân máy",
+   "location_scope": "Hà Nội (phố cổ, Hồ Gươm, cầu Long Biên, Hồ Tây)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-017",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Xe nhà đang sửa: thuê xe máy tạm vài ngày chọn mẫu nào cho quen tay",
+   "intent": "Chọn xe thuê tạm gần giống xe nhà để quen tay ngay và tính số ngày hợp lý trong lúc chờ sửa chữa",
+   "kw": "thuê xe máy tạm khi xe nhà hỏng",
+   "kw2": [
+    "xe hỏng thuê xe máy đi tạm",
+    "thuê xe máy thay xe đang sửa"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người có xe riêng đang sửa chữa và cần xe đi làm, đi học vài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-018",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Làm việc từ xa ở Hà Nội một hai tháng: thuê xe đi café, co-working thế nào",
+   "intent": "Biết chọn xe và sắp xếp việc đi lại giữa nhà, quán café, không gian làm việc chung trong kỳ ở ngắn hạn, kể cả đồ công nghệ và mưa bất chợt",
+   "kw": "thuê xe máy làm việc từ xa hà nội",
+   "kw2": [
+    "thuê xe máy digital nomad hà nội",
+    "đi café làm việc bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "người làm việc từ xa, freelancer hoặc digital nomad ở Hà Nội một hai tháng",
+   "location_scope": "Hà Nội (Tây Hồ, Ba Đình, Hoàn Kiếm, Cầu Giấy)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R46-019",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Bố mẹ từ quê ra Hà Nội đưa con nhập học: thuê xe máy chở đồ và đi lại",
+   "intent": "Biết sắp xếp đi lại, chở đồ nhập học và tìm đường quanh trường và ký túc xá trong vài ngày đầu năm học",
+   "kw": "thuê xe máy đưa con nhập học hà nội",
+   "kw2": [
+    "bố mẹ ra hà nội đưa con nhập học",
+    "thuê xe máy chở đồ cho sinh viên"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R46",
+   "audience": "phụ huynh từ tỉnh ra Hà Nội đưa con nhập học hoặc thăm con",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

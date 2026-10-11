@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R43: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R43-001",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Tay phanh xe thuê bị mềm, bóp sát tay lái vẫn hụt: dừng an toàn thế nào",
+   "intent": "Biết cách nhận ra phanh xe máy thuê bị mềm hoặc hụt giữa đường, giảm tốc bằng cả hai phanh và phanh động cơ, tìm chỗ dừng an toàn rồi báo cửa hàng thay vì chạy tiếp.",
+   "kw": "tay phanh xe máy bị mềm",
+   "kw2": [
+    "phanh xe máy thuê bị lụt",
+    "bóp phanh sát tay lái không ăn"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy đang chạy trong phố đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-002",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe ga thuê giật cục khi vừa bóp ga lúc đèn xanh bật: dấu hiệu cần báo cửa hàng",
+   "intent": "Phân biệt cú giật nhẹ thường gặp lúc xe ga mới xuất phát với kiểu giật cục, rung bần bật bất thường, và biết nên làm gì ngay khi đang đứng giữa ngã tư đông.",
+   "kw": "xe ga giật cục khi ra ga",
+   "kw2": [
+    "xe tay ga bị giật khi dừng đèn đỏ rồi đi",
+    "xe ga rung giật lúc xuất phát"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe tay ga lần đầu đi trong nội thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-003",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê tự tắt máy mỗi lần dừng đèn đỏ: giữ an toàn giữa ngã tư đông",
+   "intent": "Biết cách xử lý khi xe thuê liên tục chết máy lúc đứng chờ đèn hoặc kẹt xe: vào lề an toàn, thử đề lại đúng cách, khi nào thôi không thử nữa và báo cửa hàng.",
+   "kw": "xe máy tắt máy lúc đèn đỏ",
+   "kw2": [
+    "xe thuê chết máy khi kẹt xe",
+    "xe máy đứng đèn đỏ bị tắt máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe chạy giờ cao điểm ở nội thành",
+   "location_scope": "Hà Nội (các ngã tư đông nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-004",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Vặn ga máy gầm to nhưng xe không tiến: nên dừng và gọi cửa hàng",
+   "intent": "Hiểu hiện tượng xe thuê nổ máy, tiếng máy lên nhưng bánh sau không kéo xe đi, vì sao không nên cố vặn ga thêm, và các bước dừng an toàn rồi báo cửa hàng.",
+   "kw": "vặn ga máy gầm xe không đi",
+   "kw2": [
+    "xe ga nổ máy nhưng không chạy",
+    "xe máy không ăn ga bánh không quay"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy gặp trục trặc truyền động",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-005",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Chụp ảnh và quay video khi xe thuê gặp sự cố: cần ghi lại những gì",
+   "intent": "Biết cần chụp, quay những góc nào của xe và hiện trường (tổng thể, vị trí hư hỏng, đồng hồ, biển số, khung cảnh xung quanh), thứ tự làm cho an toàn và cách gửi cho cửa hàng.",
+   "kw": "chụp ảnh sự cố xe máy thuê",
+   "kw2": [
+    "quay video khi xe thuê bị hỏng",
+    "ghi lại hiện trường sự cố xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy, kể cả khách nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-006",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Ngã xe một mình ở khúc cua: kiểm tra người và xe trước khi chạy tiếp",
+   "intent": "Biết thứ tự việc cần làm sau khi tự ngã xe không có ai va vào: kiểm tra bản thân, đưa xe vào chỗ an toàn, rà tay lái, phanh, đèn, lốp, rồi quyết định chạy tiếp hay gọi cửa hàng.",
+   "kw": "ngã xe một mình kiểm tra xe",
+   "kw2": [
+    "tự ngã xe máy thuê",
+    "ngã xe ở khúc cua làm gì"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy mới quen xe",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-007",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Tay ga bị kẹt không nhả về: tắt máy, bóp phanh và dừng xe an toàn",
+   "intent": "Biết phản xạ đúng khi tay ga xe thuê kẹt, máy vẫn gằn ga sau khi nhả tay: bóp phanh, tắt công tắc máy, rà vào lề, rồi báo cửa hàng, không tự tháo dây ga.",
+   "kw": "tay ga xe máy bị kẹt",
+   "kw2": [
+    "ga xe máy bị kẹt phải làm sao",
+    "xe máy tự vọt ga không nhả"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy ở mọi trình độ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-008",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xi nhan xe thuê nháy nhanh bất thường hoặc không nháy: có nên chạy tiếp",
+   "intent": "Hiểu ý nghĩa việc xi nhan nháy nhanh hoặc không nháy trên xe thuê, cách tự kiểm tra nhanh các bóng đèn khi dừng, và cách giữ an toàn khi tạm thời thiếu tín hiệu rẽ.",
+   "kw": "xi nhan xe máy nháy nhanh",
+   "kw2": [
+    "xi nhan xe máy không nháy",
+    "bóng xi nhan cháy khi đang đi"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy chạy phố đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-009",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Người lạ báo xe bạn xì lốp hoặc chảy dầu giữa đường: kiểm tra sao cho tỉnh táo",
+   "intent": "Biết cách phản ứng khi người lạ chạy theo báo xe có vấn đề: không dừng vội ở chỗ khuất, tìm nơi đông người và sáng sủa, tự kiểm tra, không giao xe hay đồ cho ai, nhắn cửa hàng nếu cần.",
+   "kw": "người lạ báo xe xì lốp",
+   "kw2": [
+    "bị chỉ xe hỏng giữa đường có thật không",
+    "người lạ bảo xe chảy dầu"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "khách du lịch và người mới đến Hà Nội thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-010",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bị giật điện thoại hoặc túi khi đi xe máy: phản ứng an toàn, việc cần làm tiếp",
+   "intent": "Biết cách phòng tránh bị giật đồ khi dừng xem bản đồ và nên phản ứng thế nào khi bị giật: không đuổi theo, giữ an toàn bản thân, khóa máy từ xa, báo ngân hàng, liên hệ cơ quan chức năng và cửa hàng.",
+   "kw": "giật điện thoại khi đi xe máy",
+   "kw2": [
+    "phòng tránh giật túi khi đi xe máy",
+    "bị cướp giật điện thoại làm gì"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "khách du lịch dùng điện thoại định vị khi chạy xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-011",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Kim xăng xe tay ga nhảy lung tung: ước lượng xăng còn lại để khỏi chết máy",
+   "intent": "Hiểu vì sao kim hoặc vạch xăng trên xe thuê có thể nhảy khi đi dốc, phanh gấp, dựng chân chống, và biết cách ước lượng xăng còn lại để đổ kịp trước khi hết giữa đường.",
+   "kw": "kim xăng xe máy nhảy lung tung",
+   "kw2": [
+    "đồng hồ xăng xe ga không chính xác",
+    "ước lượng xăng còn lại xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe tay ga chạy đường dài",
+   "location_scope": "Hà Nội và các tuyến ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-012",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe máy nóng máy khi kẹt xe giữa trưa hè: dấu hiệu và cách để máy nguội an toàn",
+   "intent": "Nhận ra dấu hiệu máy quá nóng (đèn báo, mùi, xe ì, nóng hầm hập) khi kẹt xe nắng gắt ở Hà Nội, biết cách tấp vào chỗ mát, để máy nguội đúng cách và những việc không nên làm.",
+   "kw": "xe máy nóng máy khi kẹt xe",
+   "kw2": [
+    "xe máy quá nhiệt giữa trưa nắng",
+    "máy xe ga nóng ì ra"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe đi trong những ngày nắng nóng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-013",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Đề điện không ăn: cách đạp cần khởi động xe số thuê cho người chưa quen",
+   "intent": "Biết các bước đạp cần khởi động đúng cách trên xe số khi đề điện không nổ: về số mo, bật khóa, tư thế chân, nhịp đạp, và khi nào nên dừng thử để gọi cửa hàng.",
+   "kw": "cách đạp cần khởi động xe số",
+   "kw2": [
+    "xe số đề không nổ đạp cần",
+    "đạp nổ xe máy cho người mới"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe số chưa từng đạp cần khởi động",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-014",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe số thuê tự nhảy số khi đang chạy: dừng an toàn và báo cửa hàng",
+   "intent": "Nhận ra hiện tượng cần số tự trả về số mo hoặc tuột số khi đang chạy, biết cách giữ thăng bằng, dùng phanh, tấp vào lề và tả lại triệu chứng cho cửa hàng.",
+   "kw": "xe số tự nhảy số khi chạy",
+   "kw2": [
+    "xe máy bị tuột số",
+    "cần số xe máy tự về số mo"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe số, nhất là người mới",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-015",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe điện thuê báo pin yếu giữa đường: ước lượng quãng còn lại và xử lý",
+   "intent": "Biết cách đọc cảnh báo pin yếu trên xe điện thuê, giảm tốc để tiết kiệm pin, chọn nơi dừng an toàn, cách dắt xe nếu cần và liên hệ cửa hàng khi không đủ pin về.",
+   "kw": "xe điện báo pin yếu giữa đường",
+   "kw2": [
+    "xe máy điện hết pin giữa đường làm sao",
+    "ước lượng quãng đường pin xe điện"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy điện hoặc xe đạp điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-016",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Quai balo hoặc vạt áo mưa cuốn vào bánh xe máy: xử lý và cách phòng tránh",
+   "intent": "Biết vì sao vạt áo mưa, dây balo, khăn hoặc quai túi dễ cuốn vào bánh, xích khi chạy hoặc chở người, cách xử lý khi bị kẹt và cách mặc, buộc đồ để không xảy ra.",
+   "kw": "áo mưa cuốn vào bánh xe máy",
+   "kw2": [
+    "quai túi vướng bánh xe máy",
+    "dây balo cuốn vào bánh sau"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy đi mưa hoặc chở hành lý",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-017",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe tắt máy trong hầm chui hoặc trên cầu vượt: đưa xe ra chỗ an toàn thế nào",
+   "intent": "Biết cách giữ an toàn khi xe thuê chết máy ở nơi hẹp, không có lề rộng như hầm chui hay cầu vượt: bật đèn cảnh báo, đẩy xe sát mép, đứng ở đâu và báo vị trí cho cửa hàng.",
+   "kw": "xe máy chết máy trong hầm chui",
+   "kw2": [
+    "xe máy hỏng trên cầu vượt phải làm sao",
+    "chết máy ở chỗ không có lề"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy đi qua các trục đường lớn",
+   "location_scope": "Hà Nội (hầm chui và cầu vượt nội đô)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-018",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Mẫu câu tiếng Việt đơn giản để nhờ giúp khi xe thuê hỏng giữa đường",
+   "intent": "Có sẵn những câu tiếng Việt ngắn kèm cách đọc để nhờ người đi đường giúp khi xe thuê gặp sự cố: xe bị hỏng, cho mượn điện thoại, gần đây có tiệm sửa xe không, chỉ giúp địa chỉ.",
+   "kw": "tiếng Việt nhờ giúp khi xe hỏng",
+   "kw2": [
+    "xin giúp đỡ tiếng Việt cho khách du lịch",
+    "tiếng Việt cần biết khi xe bị hỏng"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "khách nước ngoài thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-019",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bánh xe sa lầy trên đường đất sau mưa ở vùng ven: đẩy ra sao cho khỏi đổ",
+   "intent": "Biết cách xử lý khi bánh xe máy thuê sa vào bùn, cát hoặc đất mềm ở đường ven: không rồ ga, hạ trọng tâm, đẩy hoặc lùi ra từng bước, nhờ người giúp và vệ sinh xe, báo cửa hàng.",
+   "kw": "xe máy sa lầy bùn đường đất",
+   "kw2": [
+    "bánh xe máy bị lún bùn",
+    "xe máy kẹt trên đường đất sau mưa"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe đi vùng ven và ngoại thành",
+   "location_scope": "Hà Nội (vùng ven, đường làng)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-020",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe đổ nghiêng đè lên chân: thoát ra và dựng xe lên an toàn thế nào",
+   "intent": "Biết cách rút chân khi xe máy đổ đè lên, đánh giá xem có bị thương không, rồi dựng xe số hoặc xe tay ga nặng lên bằng tư thế đúng, không dùng lưng, và kiểm tra nhanh xe sau đó.",
+   "kw": "dựng xe máy bị đổ đè chân",
+   "kw2": [
+    "xe máy đổ đè lên chân làm sao",
+    "dựng xe máy nặng bị ngã"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe nhẹ cân hoặc đi xe nặng lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-021",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe máy thuê bốc khói hoặc có lửa nhỏ: lùi xa, gọi 114 và báo cửa hàng",
+   "intent": "Biết phải làm gì trong những giây đầu khi xe bốc khói hoặc cháy: dừng, tắt máy, đưa người ra xa, không dập bằng nước hay mở cốp, gọi cứu hỏa, rồi báo cửa hàng và ghi lại sự việc.",
+   "kw": "xe máy bốc khói cháy xử lý",
+   "kw2": [
+    "xe máy bốc cháy giữa đường làm gì",
+    "khói bốc ra từ đầu xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "mọi người thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-022",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Gọi số khẩn cấp nào khi gặp sự cố trên đường: 113, 114 hay 115",
+   "intent": "Biết số điện thoại khẩn cấp công an, cứu hỏa, cấp cứu ở Việt Nam gọi trong tình huống nào, cách nói địa điểm bằng tiếng Việt đơn giản, và khi nào gọi các số này trước khi gọi cửa hàng.",
+   "kw": "số khẩn cấp khi gặp sự cố",
+   "kw2": [
+    "113 114 115 gọi khi nào",
+    "gọi cấp cứu khi đi xe máy ở Việt Nam"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "khách du lịch nước ngoài thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-023",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Khói từ ống xả xe thuê màu trắng, đen hay xanh: mỗi màu nói lên điều gì",
+   "intent": "Phân biệt khói ống xả bình thường (hơi nước sáng lạnh) với khói trắng đặc, khói đen, khói xanh bất thường, hiểu ý nghĩa sơ bộ của từng loại và quyết định dừng hay báo cửa hàng.",
+   "kw": "khói ống xả xe máy bất thường",
+   "kw2": [
+    "xe máy xả khói đen là sao",
+    "xe máy ra khói xanh bất thường"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy muốn biết xe có bất thường không",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-024",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Không có SIM Việt Nam mà xe thuê hỏng: các cách liên lạc với cửa hàng",
+   "intent": "Biết các cách báo sự cố cho cửa hàng khi chỉ có wifi hoặc eSIM tạm thời, dùng ứng dụng nhắn tin đã trao đổi lúc nhận xe, nhờ người bản địa gọi giúp và gửi định vị bằng ảnh chụp bản đồ.",
+   "kw": "xe hỏng không có sim Việt Nam",
+   "kw2": [
+    "khách nước ngoài xe hỏng không gọi được",
+    "liên hệ cửa hàng thuê xe khi không có sim"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "khách nước ngoài thuê xe máy ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R43-025",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Tay phanh hoặc tay côn bị gãy giữa chuyến: dừng bằng phanh còn lại thế nào",
+   "intent": "Biết cách dừng xe an toàn khi một cần phanh hoặc tay côn bị gãy, cong sau cú đổ hay va quẹt: dùng phanh còn lại, phanh động cơ, đi chậm, tấp vào lề, chụp ảnh và báo cửa hàng.",
+   "kw": "gãy tay phanh xe máy giữa đường",
+   "kw2": [
+    "gãy tay côn xe số giữa đường",
+    "chỉ còn một phanh xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R43",
+   "audience": "người thuê xe máy sau khi bị đổ hoặc va quẹt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

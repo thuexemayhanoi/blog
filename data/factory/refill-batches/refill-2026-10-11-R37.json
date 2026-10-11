@@ -1,0 +1,189 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R37: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R37-001",
+   "child_id": "C-HD-GIA",
+   "title": "Có nên mặc cả khi thuê xe máy ở Hà Nội không: cách hỏi giá lịch sự",
+   "intent": "Hiểu khi nào trả giá là thói quen bình thường ở Hà Nội, khi nào bảng giá thuê xe đã cố định, và hỏi giá lịch sự dựa trên bảng niêm yết mà không kỳ vọng giảm ngoài bảng.",
+   "kw": "có nên mặc cả khi thuê xe máy",
+   "kw2": [
+    "trả giá thuê xe máy hà nội",
+    "hỏi giá thuê xe máy lịch sự",
+    "giá thuê xe máy có thương lượng được không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "khách du lịch và người mới thuê xe quen mặc cả ở chợ, ngại hỏi giá",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-002",
+   "child_id": "C-HD-GIA",
+   "title": "Bảng giá ghi khoảng như 800k–1tr một tuần: hiểu thế nào và hỏi gì",
+   "intent": "Hiểu vì sao một số mức giá tuần và tháng trong bảng giá được ghi thành khoảng (ví dụ Vision 800k–1tr một tuần, Click và Mio 600–700k một tuần) và hỏi những gì để biết mức áp dụng cho chiếc xe mình sẽ nhận.",
+   "kw": "giá thuê xe máy ghi theo khoảng",
+   "kw2": [
+    "800k 1tr một tuần thuê xe",
+    "vì sao giá thuê xe có hai mức",
+    "giá thuê xe máy từ bao nhiêu đến bao nhiêu"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "người đang xem bảng giá để chọn gói tuần hoặc gói tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-003",
+   "child_id": "C-HD-GIA",
+   "title": "Đọc và nói giá bằng tiếng Việt khi thuê xe: 150k, 1,8tr nghĩa là gì",
+   "intent": "Biết đọc ký hiệu k, tr, dấu chấm và dấu phẩy trong giá tiền Việt Nam để không nhầm 150k với 1,5 triệu khi hỏi, nghe báo giá hay chốt giá thuê xe máy.",
+   "kw": "đọc giá thuê xe 150k 1,8tr",
+   "kw2": [
+    "k và tr trong giá tiền Việt Nam",
+    "dấu chấm dấu phẩy khi đọc giá tiền",
+    "đọc giá tiếng Việt cho người nước ngoài"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "khách nước ngoài và người học tiếng Việt lần đầu tự hỏi giá thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-004",
+   "child_id": "C-HD-GIA",
+   "title": "Thuê xe máy một tháng tính thế nào: đủ 30 ngày hay đến cùng ngày tháng sau",
+   "intent": "Biết các cách xác định một tháng thuê xe bắt đầu và kết thúc khi nào (đủ 30 ngày hay đến cùng ngày của tháng sau, tháng 28 hoặc 31 ngày) và cách chốt với cửa hàng bằng ngày cụ thể, không khẳng định quy định chung.",
+   "kw": "thuê xe máy một tháng bao nhiêu ngày",
+   "kw2": [
+    "thuê xe máy theo tháng tính 30 ngày",
+    "ngày bắt đầu và ngày kết thúc thuê xe tháng",
+    "tháng 2 thuê xe máy tính thế nào"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "người ở Hà Nội dài ngày: sinh viên, người đi làm, người ở trọ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-005",
+   "child_id": "C-HD-GIA",
+   "title": "Thuê xe máy 5 hoặc 6 ngày: hỏi báo giá ngày lẻ hay gói tuần cho hợp",
+   "intent": "Biết cách xin cửa hàng báo hai phương án (cộng từng ngày hoặc gói tuần) khi cần xe 4–6 ngày rồi đối chiếu hai con số do cửa hàng báo với bảng giá ngày và tuần, không tự tính tổng.",
+   "kw": "thuê xe máy 5 ngày hay tuần",
+   "kw2": [
+    "thuê xe máy 6 ngày giá",
+    "gói tuần hay cộng từng ngày",
+    "thuê xe máy 4 ngày"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "khách du lịch ở lại Hà Nội khoảng 5–6 ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-006",
+   "child_id": "C-HD-GIA",
+   "title": "Giá lúc nhận xe khác với giá đã nhắn trước: bình tĩnh xử lý thế nào",
+   "intent": "Biết cách xử lý bình tĩnh khi con số cửa hàng nói lúc nhận xe khác với giá đã trao đổi qua tin nhắn: đối chiếu tin nhắn và bảng giá, hỏi rõ nguyên nhân, rồi quyết định tiếp tục hay đổi hướng.",
+   "kw": "giá thuê xe khác giá đã báo",
+   "kw2": [
+    "cửa hàng báo giá khác tin nhắn",
+    "giá thuê xe máy bị đổi khi nhận xe",
+    "đối chiếu giá thuê với bảng giá"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "người đã nhắn hỏi giá trước và đến cửa hàng nhận xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-007",
+   "child_id": "C-HD-GIA",
+   "title": "Khách nước ngoài thuê xe máy ở Hà Nội có bị báo giá cao hơn không",
+   "intent": "Hiểu cách tự kiểm tra mức giá có công bằng không bằng bảng giá chung theo mẫu xe và vài câu hỏi đơn giản, để khách nước ngoài yên tâm khi hỏi giá.",
+   "kw": "giá thuê xe máy khách nước ngoài",
+   "kw2": [
+    "khách nước ngoài bị báo giá cao",
+    "giá thuê xe máy cho du khách",
+    "giá niêm yết thuê xe máy Hà Nội"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "khách du lịch nước ngoài lo bị tính giá riêng cho người nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-008",
+   "child_id": "C-HD-GIA",
+   "title": "Đừng tự nhân giá ngày để đoán giá tuần và tháng: cách đọc bảng giá xe máy",
+   "intent": "Hiểu vì sao giá tuần và giá tháng là mức riêng của từng mẫu xe chứ không suy ra bằng cách nhân giá ngày (Vision và Air Blade cùng 200k một ngày nhưng giá tháng khác nhau) và luôn lấy đúng con số trong bảng.",
+   "kw": "đọc bảng giá ngày tuần tháng",
+   "kw2": [
+    "giá thuê xe máy ngày tuần tháng khác nhau",
+    "vì sao giá tháng không bằng 30 lần giá ngày",
+    "bảng giá thuê xe theo mẫu xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "người đang so sánh các gói ngày, tuần, tháng của một mẫu xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R37-009",
+   "child_id": "C-HD-GIA",
+   "title": "Thuê xe máy qua khách sạn hay trung gian: hỏi gì để giá được rõ ràng",
+   "intent": "Biết những câu cần hỏi khi đặt xe thuê qua khách sạn, homestay hay bên trung gian (ai là bên cho thuê, con số là giá xe hay đã cộng thêm gì) và cách đối chiếu với giá hỏi trực tiếp cửa hàng.",
+   "kw": "thuê xe máy qua khách sạn giá",
+   "kw2": [
+    "thuê xe máy qua homestay",
+    "thuê xe qua trung gian có đắt hơn không",
+    "đặt xe máy qua khách sạn hay trực tiếp"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R37",
+   "audience": "khách du lịch ở khách sạn hoặc homestay muốn nhờ lễ tân đặt xe",
+   "location_scope": "Hà Nội (khu Phố Cổ và nội thành)",
+   "word_target": 1200
+  }
+ ]
+}
