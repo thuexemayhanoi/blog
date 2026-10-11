@@ -201,3 +201,12 @@ jobs:
               raise SystemExit('txn active left behind')
           print('clean state OK: khong lock, khong txn active')
           EOF
+
+      # Push bị REFUSED nhưng backlog có draft hợp lệ của writer khác: selector
+      # vẫn drain chúng (các step trên đã chạy + commit); run phải ĐỎ ở đây để
+      # chủ push hỏng thấy lỗi — KHÔNG im lặng.
+      - name: Fail the run when the push was REFUSED (valid backlog already drained)
+        if: always() && steps.select.outputs.refused == 'true'
+        run: |
+          echo "::error::push bi REFUSED boi push-selection.py (xem step Select queue scope); draft hop le cua writer khac da duoc xu ly o tren. Sua draft bi tu choi roi push lai."
+          exit 1

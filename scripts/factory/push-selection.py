@@ -47,6 +47,19 @@ Semantics (giữ NGUYÊN semantics của selector cũ; phần mới ghi rõ):
       sang _posts/ rồi run cũ được chạy lại. Bỏ qua sạch
       (`published_edits`, exit 0 — run GREEN no-op, KHÔNG RED). Publisher
       KHÔNG BAO GIỜ đụng lại bài đã publish;
+  - ENGINE-READY PREFLIGHT (engine_problem): draft "độc" bị chặn TRƯỚC khi vào
+    queue — push: REFUSE; backlog: CÁCH LY. Gồm: không phải UTF-8; frontmatter
+    thiếu `date`/title/categories/description (QA raise hoặc gate từ chối);
+    còn placeholder; `date` sai dạng/lệch tên file; tên file khác
+    YYYY-MM-DD-<slug hàng>.md; hai draft cho một hàng hoặc factory-operator
+    (glob đầu tiên theo tên) sẽ chọn FILE KHÁC. Nhờ đó một draft hỏng KHÔNG
+    làm MỌI run đỏ (backlog nạp lại mỗi run) và không kẹt PASS vô hạn;
+  - PUSH BỊ TỪ CHỐI VẪN DRAIN: khi push vi phạm, selector không dừng ở exit 3
+    nếu backlog có draft hợp lệ của writer khác (run chờ của họ có thể đã bị
+    run này thay thế): queue backlog vẫn chạy, output `refused=true` để
+    workflow làm ĐỎ run ở step cuối. Backlog rỗng: exit 3 ngay như cũ;
+  - production-control paused: bỏ ID PLANNED khỏi queue, VẪN xử lý hàng
+    in-flight (repair/PASS) — draft PLANNED không làm đói hàng đã claim;
   - draft trong BACKLOG (không thuộc push) được phân loại LENIENT: hợp lệ
     thì vào queue; không hợp lệ (thiếu id, ID lạ, trạng thái bảo vệ, thiếu
     lease, sai chủ) thì CÁCH LY (`quarantine`, báo trong log) — một draft
@@ -80,6 +93,7 @@ Thoát: 0 = chọn xong (kể cả no-op/paused), 3 = refuse (fail-closed).
 """
 import argparse
 import csv
+import glob
 import hashlib
 import importlib.util
 import json
@@ -114,6 +128,9 @@ INFLIGHT = ('WRITING', 'QA', 'PASS', 'REPAIR')
 # trạng thái engine xử lý được trong queue (PLANNED cần claim; còn lại
 # resume): mọi trạng thái khác (FAIL lạ...) bị coi là không hợp lệ
 ELIGIBLE = ('PLANNED',) + INFLIGHT + ('FAIL',)
+# publish-gate.py đòi các khóa này trong frontmatter (QA KHÔNG chấm
+# `categories`/`title` — draft thiếu vẫn PASS QA rồi bị gate từ chối)
+GATE_FRONT_FIELDS = ('title:', 'date:', 'categories:', 'description:')
 # path writer được phép chạm trong một push draft (chỉ để CẢNH BÁO)
 WRITER_PATH_PREFIXES = ('_drafts/', 'data/factory/refill-batches/')
 WRITER_PATH_FILES = (REGISTRY_REL, 'data/factory/refill-request.json',
@@ -189,13 +206,95 @@ def evidence_sha(aid):
 def parse_draft(path):
     """(aid, writer, session) của một draft (đọc 2000 ký tự đầu). Raise
     OSError nếu không đọc được; trả aid None nếu thiếu article_id."""
-    with open(path, encoding='utf-8') as fh:
-        head = fh.read()[:2000]
+    try:
+        with open(path, encoding='utf-8') as fh:
+            head = fh.read()[:2000]
+    except UnicodeDecodeError as e:         # file nhị phân/không phải UTF-8
+        raise OSError('khong phai UTF-8: %s' % e)
     m = FRONT_ID_RE.search(head)
     wm = WRITER_RE.search(head)
     sm = SESSION_RE.search(head)
     return (m.group(1) if m else None, wm.group(1) if wm else None,
             sm.group(1) if sm else None)
+
+
+def row_slug(row):
+    """Slug draft của một hàng matrix — CÙNG cách factory-operator.find_draft."""
+    out = row.get('output_path') or ''
+    if out.startswith('_posts/{date}-') and out.endswith('.md'):
+        return out[len('_posts/{date}-'):-3]
+    m = re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+)\.md$', out)
+    return m.group(1) if m else None
+
+
+def engine_problem(row, rel):
+    """None nếu draft `rel` đi được qua factory-operator (QA) + publish-gate;
+    ngược lại chuỗi mô tả. Chặn TRƯỚC khi vào queue các draft "độc" mà nếu để
+    lọt sẽ làm MỌI run đỏ (backlog nạp lại mỗi run) hoặc kẹt PASS vô hạn:
+      - không phải UTF-8 / frontmatter có `---` nhưng thiếu khóa `date` ⇒
+        factory-operator.qa_check_one raise ⇒ FATAL cả queue;
+      - thiếu title/date/categories/description, còn placeholder ⇒ QA vẫn PASS
+        nhưng publish-gate từ chối ⇒ hàng PASS lặp mãi;
+      - `date` không phải YYYY-MM-DD hoặc lệch tiền tố tên file (Jekyll hỏng
+        khi build); tên file khác YYYY-MM-DD-<slug hàng>.md;
+      - hai draft cho cùng một hàng, hoặc find_draft (glob đầu tiên theo tên)
+        sẽ chọn FILE KHÁC file này ⇒ QA/publish nhầm bản (nhầm chủ).
+    Draft KHÔNG có frontmatter vẫn để QA chấm (REPAIR có feedback cho chủ)."""
+    aid = row['id']
+    slug = row_slug(row)
+    if not slug:
+        return '%s: output_path matrix khong dung dinh dang (%s)' % (
+            aid, row.get('output_path'))
+    path = rel if os.path.isabs(rel) else os.path.join(ROOT, rel)
+    try:
+        with open(path, encoding='utf-8') as fh:
+            text = fh.read()
+    except (OSError, UnicodeDecodeError) as e:
+        return '%s: draft %s khong doc duoc (%s)' % (aid, rel,
+                                                     e.__class__.__name__)
+    base = os.path.basename(path)
+    fm = re.match(r'^---\n(.*?)\n---', text, re.S)
+    if fm:
+        front_text = fm.group(1)
+        front = {}
+        for line in front_text.splitlines():
+            m = re.match(r'([a-z_]+):\s*(.*)$', line)
+            if m:
+                front[m.group(1)] = m.group(2).strip()
+        if 'date' not in front:
+            return ('%s: frontmatter thieu khoa `date:` (QA khong chay duoc '
+                    'tren draft nay)' % aid)
+        lacking = [f for f in GATE_FRONT_FIELDS if f not in front_text]
+        if lacking:
+            return ('%s: frontmatter thieu %s (publish-gate se tu choi)'
+                    % (aid, ' '.join(lacking)))
+        if not re.search(r'^article_id:\s*BLG-\d+', front_text, re.M):
+            return '%s: article_id phai nam TRONG frontmatter' % aid
+        dm = re.match(r'(\d{4}-\d{2}-\d{2})', front.get('date', ''))
+        if not dm:
+            return ('%s: `date:` khong dung dang YYYY-MM-DD (%r)'
+                    % (aid, front.get('date', '')[:30]))
+        if base != '%s-%s.md' % (dm.group(1), slug):
+            return ('%s: ten file phai la %s-%s.md (date frontmatter + slug '
+                    'hang matrix), dang la %s' % (aid, dm.group(1), slug,
+                                                  base))
+    if 'MẪU NHẬP BÀI' in text or 'lorem' in text.lower():
+        return '%s: draft con placeholder nhap mau (publish-gate tu choi)' % aid
+    if not re.match(r'^\d{4}-\d{2}-\d{2}-%s\.md$' % re.escape(slug), base):
+        return ('%s: ten file %s khong khop YYYY-MM-DD-%s.md cua hang matrix'
+                % (aid, base, slug))
+    d = os.path.join(ROOT, DRAFTS_DIR)
+    exact = [fn for fn in (os.listdir(d) if os.path.isdir(d) else [])
+             if re.match(r'^\d{4}-\d{2}-\d{2}-%s\.md$' % re.escape(slug), fn)]
+    if len(exact) > 1:
+        return ('%s: %d draft cho cung mot hang (%s) — chi giu MOT ban, xoa '
+                'ban thua' % (aid, len(exact), ', '.join(sorted(exact)[:4])))
+    hits = sorted(glob.glob(os.path.join(d, '*-%s.md' % slug)))
+    if hits and os.path.abspath(hits[0]) != os.path.abspath(path):
+        return ('%s: factory-operator se QA/publish file %s thay vi %s '
+                '(glob dau tien theo ten) — doi ten/xoa ban thua'
+                % (aid, os.path.basename(hits[0]), base))
+    return None
 
 
 def slug_of_path(f):
@@ -266,6 +365,10 @@ def ownership_problem(aid, status, writer, session, registry, changed):
     return None, warn
 
 
+class PushRefuse(Refuse):
+    """Push bị từ chối (fail-closed) — KHÔNG chặn việc drain backlog."""
+
+
 def select(added, modified, backlog=False, changed=()):
     """Chọn queue từ push (+ backlog); chỉ ĐỌC repository state, trả dict
     deterministic (không side-effect)."""
@@ -306,73 +409,92 @@ def select(added, modified, backlog=False, changed=()):
                 'push draft chua path ngoai pham vi writer (%d): %s'
                 % (len(odd), ', '.join(sorted(odd)[:8])))
 
-    stale = []
-    try:
-        entries = (ids_from(added, by_slug, stale)
-                   + ids_from(modified, by_slug, stale))
-    except Refuse as e:
-        out['refuse'] = str(e)
-        return out
-    if stale:
-        out['published_edits'] = sorted(set(stale), key=lambda i: order[i])
-    queue = [a for a, _, _, _ in entries]
-    declared = {a: w for a, w, _, _ in entries}
-    declared_sess = {a: s for a, _, s, _ in entries}
-    push_paths = {f for _, _, _, f in entries}
+    def validate_push():
+        """Kiểm STRICT draft của push. Trả (queue, declared, declared_sess,
+        push_paths); raise PushRefuse khi vi phạm (fail-closed)."""
+        stale = []
+        try:
+            entries = (ids_from(added, by_slug, stale)
+                       + ids_from(modified, by_slug, stale))
+        except Refuse as e:
+            raise PushRefuse(str(e))
+        if stale:
+            out['published_edits'] = sorted(set(stale),
+                                            key=lambda i: order[i])
+        queue = [a for a, _, _, _ in entries]
+        declared = {a: w for a, w, _, _ in entries}
+        declared_sess = {a: s for a, _, s, _ in entries}
+        push_paths = {f for _, _, _, f in entries}
 
-    if len(set(queue)) != len(queue):
-        out['refuse'] = 'id trung nhau trong cung mot push'
-        return out
-    if len(queue) > MAX_QUEUE_PER_PUSH:
-        out['refuse'] = ('%d draft > toi da 10 moi push (turbo queue)'
-                         % len(queue))
-        return out
-    unknown = [i for i in queue if i not in by_id]
-    if unknown:
-        out['refuse'] = 'id khong co trong matrix: %s' % ','.join(unknown)
-        return out
-    # RACE PUSH TRÙNG (superseded): một queue run khác có thể đã publish
-    # đúng các ID của push này giữa lúc writer tạo push và lần chạy này
-    # refresh truth. Bỏ qua sạch — exit 0 no-op, KHÔNG refuse RED;
-    # publisher KHÔNG BAO GIỜ đụng lại hàng PUBLISHED.
-    published = sorted((i for i in queue
-                        if by_id[i]['status'] == 'PUBLISHED'),
-                       key=lambda i: order[i])
-    if published:
-        out['published_edits'] = sorted(
-            set(out['published_edits']) | set(published),
-            key=lambda i: order[i])
-        queue = [i for i in queue
-                 if by_id[i]['status'] != 'PUBLISHED']
-    bad_status = [i for i in queue
-                  if by_id[i]['status'] in REFUSED_STATUSES
-                  or by_id[i]['status'] not in ELIGIBLE]
-    if bad_status:
-        out['refuse'] = ('id da xong/khoa, khong duoc sua lai: %s'
-                         % ','.join(bad_status))
-        return out
+        if len(set(queue)) != len(queue):
+            raise PushRefuse('id trung nhau trong cung mot push')
+        if len(queue) > MAX_QUEUE_PER_PUSH:
+            raise PushRefuse('%d draft > toi da 10 moi push (turbo queue)'
+                             % len(queue))
+        unknown = [i for i in queue if i not in by_id]
+        if unknown:
+            raise PushRefuse('id khong co trong matrix: %s'
+                             % ','.join(unknown))
+        # RACE PUSH TRÙNG (superseded): một queue run khác có thể đã publish
+        # đúng các ID của push này giữa lúc writer tạo push và lần chạy này
+        # refresh truth. Bỏ qua sạch — exit 0 no-op, KHÔNG refuse RED;
+        # publisher KHÔNG BAO GIỜ đụng lại hàng PUBLISHED.
+        published = sorted((i for i in queue
+                            if by_id[i]['status'] == 'PUBLISHED'),
+                           key=lambda i: order[i])
+        if published:
+            out['published_edits'] = sorted(
+                set(out['published_edits']) | set(published),
+                key=lambda i: order[i])
+            queue = [i for i in queue
+                     if by_id[i]['status'] != 'PUBLISHED']
+        bad_status = [i for i in queue
+                      if by_id[i]['status'] in REFUSED_STATUSES
+                      or by_id[i]['status'] not in ELIGIBLE]
+        if bad_status:
+            raise PushRefuse('id da xong/khoa, khong duoc sua lai: %s'
+                             % ','.join(bad_status))
 
-    # ownership của draft PUSH (strict: vi phạm -> refuse fail-closed)
-    bad, warns = [], []
-    for aid in queue:
-        st = by_id[aid]['status']
-        changed_content = True
-        if st != 'PLANNED':
-            ev = evidence_sha(aid)
+        # ownership + engine-ready của draft PUSH (strict: vi phạm -> refuse)
+        bad, warns = [], []
+        for aid in queue:
+            st = by_id[aid]['status']
+            changed_content = True
             fp = push_paths_of(aid, entries)
-            changed_content = (ev is None or fp is None
-                               or _sha256_file(os.path.join(ROOT, fp)) != ev)
-        prob, warn = ownership_problem(aid, st, declared.get(aid),
-                                       declared_sess.get(aid), registry,
-                                       changed_content)
-        if prob:
-            bad.append(prob)
-        if warn:
-            warns.append(warn)
-    if bad:
-        out['refuse'] = '; '.join(bad)
-        return out
-    out['warnings'].extend(warns)
+            if st != 'PLANNED':
+                ev = evidence_sha(aid)
+                changed_content = (ev is None or fp is None
+                                   or _sha256_file(os.path.join(ROOT, fp))
+                                   != ev)
+            prob, warn = ownership_problem(aid, st, declared.get(aid),
+                                           declared_sess.get(aid), registry,
+                                           changed_content)
+            if prob:
+                bad.append(prob)
+            if warn:
+                warns.append(warn)
+            prob = engine_problem(by_id[aid], fp)
+            if prob:
+                bad.append(prob)
+        if bad:
+            raise PushRefuse('; '.join(bad))
+        out['warnings'].extend(warns)
+        return queue, declared, declared_sess, push_paths
+
+    try:
+        queue, declared, declared_sess, push_paths = validate_push()
+        refused_paths = set()
+    except PushRefuse as e:
+        out['refuse'] = str(e)
+        if not backlog:
+            return out
+        # push bị từ chối: vẫn DRAIN backlog (draft hợp lệ của writer khác
+        # không được kẹt vì push hỏng của một writer — run chờ có thể đã bị
+        # run này thay thế); draft của push hỏng bị cách ly ở dưới.
+        queue, declared, declared_sess = [], {}, {}
+        push_paths = set()
+        refused_paths = {f for f in list(added) + list(modified)
+                         if f.endswith('.md') and TEMPLATE_SLUG not in f}
 
     # ---- BACKLOG: drain draft đang xếp hàng (lenient, không chặn queue)
     if backlog:
@@ -385,11 +507,17 @@ def select(added, modified, backlog=False, changed=()):
             rel = '%s/%s' % (DRAFTS_DIR, fn)
             if TEMPLATE_SLUG in rel or rel in push_paths:
                 continue
+            if rel in refused_paths:
+                out['quarantine'].append({
+                    'path': rel,
+                    'reason': 'thuoc push bi tu choi (xem REFUSED)'})
+                continue
             try:
                 aid, writer, session = parse_draft(os.path.join(d, fn))
-            except OSError:
+            except OSError as e:
                 out['quarantine'].append({'path': rel,
-                                          'reason': 'khong doc duoc'})
+                                          'reason': 'khong doc duoc (%s)'
+                                          % str(e)[:60]})
                 continue
             if not aid:
                 out['quarantine'].append({'path': rel,
@@ -435,6 +563,11 @@ def select(added, modified, backlog=False, changed=()):
                 out['quarantine'].append({'id': aid, 'path': paths[0],
                                           'reason': prob})
                 continue
+            prob = engine_problem(by_id[aid], paths[0])
+            if prob:
+                out['quarantine'].append({'id': aid, 'path': paths[0],
+                                          'reason': prob})
+                continue
             if warn:
                 out['warnings'].append(warn)
             queue.append(aid)
@@ -454,13 +587,22 @@ def select(added, modified, backlog=False, changed=()):
         queue = queue[:MAX_QUEUE_PER_RUN]
     out['backlog'] = [i for i in out['backlog'] if i in set(queue)]
 
-    needs_claim = any(by_id[i]['status'] == 'PLANNED' for i in queue)
-    if not control_enabled and needs_claim:
-        # production-control paused: KHÔNG claim bài mới — exit sạch
-        # TRƯỚC mọi mutation; repair-only vẫn được phép ở lần chạy khác
-        out['mode'] = 'paused'
-        return out
+    if not control_enabled and any(by_id[i]['status'] == 'PLANNED'
+                                   for i in queue):
+        # production-control paused: KHÔNG claim bài mới. Bỏ ID PLANNED khỏi
+        # queue nhưng vẫn xử lý hàng in-flight (repair/PASS) — một draft
+        # PLANNED trong backlog không được làm đói các hàng đã claim.
+        skipped = [i for i in queue if by_id[i]['status'] == 'PLANNED']
+        queue = [i for i in queue if by_id[i]['status'] != 'PLANNED']
+        out['backlog'] = [i for i in out['backlog'] if i in set(queue)]
+        out['warnings'].append(
+            'production-control paused: bo %d ID PLANNED (khong claim bai '
+            'moi): %s' % (len(skipped), ','.join(skipped[:10])))
+        if not queue:
+            out['mode'] = 'paused'
+            return out
 
+    needs_claim = any(by_id[i]['status'] == 'PLANNED' for i in queue)
     mode = 'new' if needs_claim else 'repair'
     out['mode'] = mode
     out['queue'] = queue
@@ -510,9 +652,16 @@ def main():
     for w in out.get('warnings') or []:
         print('selection: CANH BAO: %s' % w)
         print('::warning::%s' % w)
-    if out['refuse']:
+    refused = bool(out['refuse'])
+    if refused:
         print('REFUSED: %s' % out['refuse'], file=sys.stderr)
-        return 3
+        if not out['queue']:
+            return 3
+        # push bị từ chối nhưng backlog có draft hợp lệ: tiếp tục xử lý chúng
+        # (không kẹt writer khác); workflow đọc `refused=true` và làm ĐỎ run ở
+        # step cuối SAU khi đã commit phần hợp lệ.
+        print('selection: push REFUSED nhung backlog co %d ID hop le — van '
+              'drain, run se DO o step cuoi' % len(out['queue']))
     if out['mode'] == 'skip':
         if out.get('published_edits'):
             print('selection: push trùng đã superseded — toàn bộ ID '
@@ -534,6 +683,7 @@ def main():
             f.write('queue=%s\n' % ','.join(out['queue']))
             f.write('mode=%s\n' % out['mode'])
             f.write('pairs=%s\n' % out['pairs'])
+            f.write('refused=%s\n' % ('true' if refused else 'false'))
     return 0
 
 

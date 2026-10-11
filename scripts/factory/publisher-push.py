@@ -91,12 +91,16 @@ def changed_paths(a, b, cwd=None):
     """Path đổi giữa a..b, KHÔNG dò rename (rename = delete + add: cả hai
     path đều tính) -> guard giao nhau không bị rename heuristic đánh lừa."""
     r = sh(['diff', '--name-only', '--no-renames', '-z', a, b], cwd=cwd)
+    if r.returncode != 0:
+        return None          # KHÔNG coi là "không đổi gì" khi git lỗi
     return {p for p in r.stdout.split('\0') if p}
 
 
 def integrity_problems(cwd=None):
-    """Mọi _posts/*.md thay đổi trong commit HEAD (so với HEAD~1 nếu có)
-    phải khớp bằng chứng QA. Trả list lỗi."""
+    """Commit của publisher chỉ được THÊM bài vào _posts/ (promote draft):
+    sửa/xóa/đổi tên bất kỳ path nào dưới _posts/ là lỗi (bài đã publish là
+    bất biến). Mọi _posts/*.md MỚI phải có article_id trong frontmatter và
+    sha256 == bằng chứng QA. Trả list lỗi."""
     cwd = cwd or CWD
     base = sh(['rev-parse', '--verify', '-q', 'HEAD~1'], cwd=cwd)
     if base.returncode != 0:
@@ -108,7 +112,13 @@ def integrity_problems(cwd=None):
     while i + 1 < len(out):
         status, path = out[i], out[i + 1]
         i += 2
-        if not status or status.startswith('D') or not path.endswith('.md'):
+        if not status:
+            continue
+        if not status.startswith('A'):
+            problems.append('%s: commit publisher khong duoc %s bai da co '
+                            'trong _posts/ (bat bien)' % (path, status))
+            continue
+        if not path.endswith('.md'):
             continue
         full = os.path.join(cwd, path)
         try:
@@ -117,9 +127,14 @@ def integrity_problems(cwd=None):
         except OSError:
             problems.append('%s: khong doc duoc' % path)
             continue
-        m = FRONT_ID_RE.search(data[:3000].decode('utf-8', 'replace'))
+        text = data.decode('utf-8', 'replace')
+        fm = re.match(r'^---\n(.*?)\n---', text, re.S)
+        m = FRONT_ID_RE.search(fm.group(1)) if fm else None
         if not m:
-            continue            # bài legacy không có article_id: không áp
+            problems.append('%s: bai moi trong _posts/ thieu article_id trong '
+                            'frontmatter (khong doi chieu duoc bang chung QA)'
+                            % path)
+            continue
         aid = m.group(1)
         ev = os.path.join(cwd, QA_DIR, aid + '.json')
         try:
@@ -161,9 +176,10 @@ def guard_environment(remote):
                 '(GITHUB_ACTIONS=true); local/test can FACTORY_PUSH_ALLOW_'
                 'LOCAL=1 va remote cuc bo')
     url = sh(['remote', 'get-url', '--push', remote]).stdout.strip()
-    if re.match(r'^(https?|git|ssh)://|^[^/\s]+@[^/\s]+:', url):
-        return ('FACTORY_PUSH_ALLOW_LOCAL chi cho remote cuc bo, khong phai '
-                '%s' % url)
+    local = url[len('file://'):] if url.lower().startswith('file://') else url
+    if not (os.path.isabs(local) and os.path.isdir(local)):
+        return ('FACTORY_PUSH_ALLOW_LOCAL chi cho remote la THU MUC cuc bo '
+                '(duong dan tuyet doi hoac file://), khong phai %s' % url)
     return None
 
 
@@ -213,6 +229,10 @@ def run(message, remote='origin', branch='main', max_rebases=MAX_REBASES,
                 return emit(1, pushed=False, reason='no_merge_base')
             theirs = changed_paths(base, up)
             mine = changed_paths(base, 'HEAD')
+            if theirs is None or mine is None:
+                print('git diff loi khi tinh giao path — dung, KHONG rebase',
+                      file=sys.stderr)
+                return emit(1, pushed=False, reason='diff_failed')
             overlap = sorted(theirs & mine)
             if overlap:
                 print('UPSTREAM_TOUCHED_PUBLISHER_PATHS: %s — KHONG rebase '

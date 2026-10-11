@@ -271,5 +271,79 @@ class TestPublisherPush(PushBase):
         self.assertNotIn('+HEAD', src)
 
 
+class TestPublisherPushHardening(PushBase):
+    """Hardening từ review: commit của publisher CHỈ được THÊM bài; id đọc từ
+    frontmatter đầy đủ (không cửa sổ 3000 byte); lỗi git khi tính giao path
+    => dừng (không coi là "không đổi gì")."""
+
+    def _commit_existing_post_edit(self):
+        # bài đã publish sẵn trên origin (một publish trước đó)
+        self.publish_locally()
+        r, out = self.push()
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.pub = self.clone('pub2')
+
+    def test_20_commit_that_edits_a_published_post_is_blocked(self):
+        self._commit_existing_post_edit()
+        head = self.origin_head()
+        with open(os.path.join(self.pub, POST), 'a', encoding='utf-8') as f:
+            f.write('\nDOAN SUA LEN BAI DA PUBLISH.\n')
+        r, out = self.push()
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['reason'], 'integrity_before_push')
+        self.assertIn('bat bien', ' '.join(out['problems']))
+        self.assertEqual(self.origin_head(), head)
+
+    def test_21_commit_that_deletes_a_published_post_is_blocked(self):
+        self._commit_existing_post_edit()
+        head = self.origin_head()
+        git(self.pub, 'rm', '-q', POST)
+        r, out = self.push()
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['reason'], 'integrity_before_push')
+        self.assertEqual(self.origin_head(), head)
+
+    def test_22_new_post_without_article_id_in_frontmatter_is_blocked(self):
+        # id chỉ nằm ở body (hoặc ngoài cửa sổ cũ) không được coi là "bài
+        # legacy" bỏ qua kiểm tra
+        os.makedirs(os.path.join(self.pub, '_posts'), exist_ok=True)
+        with open(os.path.join(self.pub, '_posts', '2026-10-11-y.md'), 'w',
+                  encoding='utf-8') as f:
+            f.write('---\ntitle: Y\n---\narticle_id: BLG-00002\n' + 'x ' * 4000)
+        r, out = self.push()
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['reason'], 'integrity_before_push')
+
+    def test_23_id_beyond_3000_bytes_is_still_checked(self):
+        """Vietnamese 2-3 byte/ký tự: frontmatter dài đẩy article_id ra xa
+        cửa sổ 3000 byte cũ — bản sửa nội dung vẫn phải bị bắt."""
+        long_front = 'description: "%s"\n' % ('đ' * 1800)
+        text = ('---\ntitle: X\n' + long_front + 'article_id: BLG-00001\n'
+                'writer: W1\n---\n' + 'Noi dung.\n' * 30)
+        self.publish_locally(text=text)         # nội dung khác bằng chứng QA
+        r, out = self.push()
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['reason'], 'integrity_before_push')
+        self.assertIn('sha256', ' '.join(out['problems']))
+
+    def test_24_git_diff_failure_aborts_instead_of_rebasing(self):
+        sys.path.insert(0, os.path.dirname(PUSHER))
+        import importlib.util
+        spec = importlib.util.spec_from_file_location('pp_mod', PUSHER)
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        self.assertIsNone(mod.changed_paths('does-not-exist-1', 'HEAD',
+                                            cwd=self.pub))
+
+    def test_25_local_allow_requires_a_real_local_directory(self):
+        for url in ('HTTPS://github.com/x/y.git', 'host:path/repo.git',
+                    'ext::sh -c evil', 'git@github.com:x/y.git'):
+            git(self.pub, 'remote', 'set-url', '--push', 'origin', url)
+            r, out = self.push()
+            self.assertEqual(r.returncode, 1, '%s: %s%s' % (url, r.stdout,
+                                                           r.stderr))
+            self.assertEqual(out['reason'], 'not_in_actions', url)
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)

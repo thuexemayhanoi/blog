@@ -235,10 +235,11 @@ def parse_session_out(stdout):
     return last
 
 
-def write_draft(clone, aid, title=None, slot='W1', extra=''):
+def write_draft(clone, aid, title=None, slot='W1', extra='',
+                date='2026-10-11'):
     """Draft tối thiểu (đủ cho đường CAS; KHÔNG đạt QA thật)."""
     n = int(aid.split('-')[1])
-    path = os.path.join(clone, '_drafts', '2026-10-11-bai-viet-so-%d.md' % n)
+    path = os.path.join(clone, '_drafts', '%s-bai-viet-so-%d.md' % (date, n))
     with open(path, 'w', encoding='utf-8') as f:
         f.write('---\ntitle: "%s"\narticle_id: %s\nwriter: %s\n---\n\nNoi dung '
                 'bai %s.%s\n' % (title or 'Bai viet so %d' % n, aid, slot,
@@ -292,14 +293,25 @@ class LightRepo:
                          'leases': leases})
 
     def draft(self, aid, writer=None, session=None, body='Noi dung.',
-              name=None):
+              name=None, omit=(), raw=None):
+        """Draft ENGINE-READY (đủ khóa frontmatter mà publish-gate đòi). `omit`
+        bỏ các khóa frontmatter (để dựng draft độc); `raw` ghi nguyên bytes."""
         n = int(aid.split('-')[1])
         fn = name or '2026-10-11-bai-viet-so-%d.md' % n
-        fm = ['---', 'title: "Bai viet so %d"' % n, 'article_id: %s' % aid]
+        if raw is not None:
+            with open(self.path('_drafts/' + fn), 'wb') as f:
+                f.write(raw)
+            return '_drafts/' + fn
+        fm = ['---', 'title: "Bai viet so %d"' % n,
+              'date: 2026-10-11 09:00:00 +0700',
+              'description: "Mo ta bai viet so %d."' % n,
+              'categories: [Kinh nghiem]',
+              'article_id: %s' % aid]
         if writer:
             fm.append('writer: %s' % writer)
         if session:
             fm.append('writer_session: %s' % session)
+        fm = [l for l in fm if not any(l.startswith(k + ':') for k in omit)]
         fm.append('---')
         with open(self.path('_drafts/' + fn), 'w', encoding='utf-8') as f:
             f.write('\n'.join(fm) + '\n\n' + body + '\n')

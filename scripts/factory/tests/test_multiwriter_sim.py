@@ -388,6 +388,83 @@ class TestConcurrentPublish(SimBase):
         sim.assert_invariants(self, published_ids=ids)
 
 
+class TestPoisonDrafts(SimBase):
+    """Draft "độc" (review publisher P1/P2) với engine THẬT: không bao giờ làm
+    kẹt writer khác; push hỏng không làm mất draft của người khác."""
+
+    @staticmethod
+    def drop_date(path):
+        with open(path, encoding='utf-8') as f:
+            lines = f.read().split('\n')
+        with open(path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(l for l in lines if not l.startswith('date:')))
+
+    def test_s12_poison_draft_never_wedges_other_writers(self):
+        sim = self.sim
+        a = self.begin('w1', 2)['leased_total']
+        b = self.begin('w2', 2)['leased_total']
+        sim.write_drafts('w1', a)
+        files = sim.write_drafts('w2', b)
+        self.drop_date(files[b[0]])      # qa_check_one raise KeyError('date')
+        # W2 đẩy draft độc bằng --no-qa (bypass QA cục bộ): bị REFUSE, KHÔNG
+        # làm hỏng cây production
+        head = sim.origin_head()
+        sim.push('w2', [b[0]])
+        refused = sim.runs[-1]
+        self.assertEqual(refused.status, 'failure', refused)
+        self.assertIn('date', refused.reason)
+        self.assertEqual(sim.origin_status()[b[0]], 'PLANNED')
+        # draft độc nằm lại trong _drafts/; W1 push hợp lệ vẫn publish bình
+        # thường (trước đây backlog nạp lại draft độc => FATAL mọi run)
+        sim.push('w1', a)
+        run = sim.runs[-1]
+        self.assertEqual(run.status, 'success', run)
+        self.assertEqual(sorted(run.published), sorted(a))
+        self.assertTrue(any('date' in str(q) for q in run.quarantine),
+                        run.quarantine)
+        self.assertEqual(sim.origin_status()[b[0]], 'PLANNED')
+        self.assertEqual(len(self.md_drafts()), 1, 'chi con draft doc')
+        # W2 sửa draft (thêm date) + push lại -> publish
+        sim.write_drafts('w2', [b[0]])
+        sim.push('w2', [b[0]])
+        self.assertEqual(sim.runs[-1].status, 'success', sim.runs[-1])
+        self.assertEqual(sim.origin_status()[b[0]], 'PUBLISHED')
+        sim.assert_invariants(self, published_ids=a + [b[0]])
+
+    def test_s13_refused_push_does_not_strand_another_writers_draft(self):
+        """Run chờ của W1 bị push HỎNG của W2 thay thế (GitHub chỉ giữ 1 run
+        chờ): selector của run W2 vẫn drain backlog => draft của W1 không kẹt;
+        run vẫn ĐỎ để chủ push hỏng thấy lỗi."""
+        sim = self.sim
+        from sim_helpers import parse_session_out
+        a = self.begin('w1', 2)['leased_total']
+        b = self.begin('w2', 2)['leased_total']
+        c = self.begin('w3', 2)['leased_total']
+        sim.write_drafts('w1', a)
+        files = sim.write_drafts('w2', b)
+        sim.write_drafts('w3', c)
+        self.drop_date(files[b[0]])
+
+        def during(s):
+            s.push('w1', a)                # run chờ của W1
+            s.push('w2', [b[0]])           # push HỎNG thay run chờ của W1
+        r3 = sim.session('w3', 'push', '--no-qa')
+        o3 = parse_session_out(r3.stdout)
+        self.assertEqual(r3.returncode, 0, r3.stdout + r3.stderr)
+        sim.submit('publish', o3['commit'], before_commit=during)
+        self.assertEqual(len(sim.cancelled), 1, sim.runs)
+        st = sim.origin_status()
+        for aid in c + a:
+            self.assertEqual(st[aid], 'PUBLISHED',
+                             '%s ket: %s' % (aid, sim.runs))
+        self.assertEqual(st[b[0]], 'PLANNED')
+        last = sim.runs[-1]
+        self.assertEqual(last.status, 'failure')
+        self.assertTrue(last.pushed, 'phan hop le van duoc commit')
+        self.assertIn('date', last.reason)
+        sim.assert_invariants(self, published_ids=c + a)
+
+
 @unittest.skipUnless(os.environ.get('FACTORY_SIM_FULL') == '1',
                      'dat FACTORY_SIM_FULL=1 de chay kich ban 3x10 (cham)')
 class TestFullScale(SimBase):

@@ -175,6 +175,121 @@ class TestBacklogDrain(DrainBase):
         self.assertFalse(out['proceed'])
 
 
+class TestPoisonDrafts(DrainBase):
+    """Draft "độc" (review publisher P1): KHÔNG được làm MỌI run đỏ hay kẹt
+    PASS vô hạn. Mỗi draft độc bị CÁCH LY (backlog) hoặc REFUSE (push) bởi
+    preflight engine-ready; draft hợp lệ của writer khác vẫn chạy."""
+
+    GOOD = ['BLG-00041', 'BLG-00042']
+    BAD = 'BLG-00051'
+
+    def setUp(self):
+        super().setUp()
+        self.r.registry({'W1': lease(self.GOOD), 'W2': lease([self.BAD])})
+        for a in self.GOOD:
+            self.r.draft(a, writer='W1')
+
+    def _bad_backlog(self, reason_part, **draft_kw):
+        self.r.draft(self.BAD, writer='W2', **draft_kw)
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], self.GOOD, out)
+        self.assertTrue(out['proceed'])
+        reasons = ' | '.join(q['reason'] for q in out['quarantine'])
+        self.assertIn(reason_part, reasons)
+        return out
+
+    def test_40_non_utf8_draft_is_quarantined_not_fatal(self):
+        self._bad_backlog('khong doc duoc', raw=(
+            b'---\narticle_id: BLG-00051\nwriter: W2\n---\n\xff\xfe\xfa'))
+
+    def test_41_frontmatter_without_date_is_quarantined(self):
+        # factory-operator.qa_check_one raise KeyError('date') => FATAL
+        self._bad_backlog('date', omit=('date',))
+
+    def test_42_missing_gate_fields_quarantined_not_stuck_pass(self):
+        # QA vẫn PASS draft thiếu categories/title nhưng publish-gate từ chối
+        self._bad_backlog('categories', omit=('categories',))
+
+    def test_43_missing_title_quarantined(self):
+        self._bad_backlog('title:', omit=('title',))
+
+    def test_44_bad_date_format_quarantined(self):
+        self._bad_backlog('YYYY-MM-DD', raw=(
+            '---\ntitle: x\ndate: abcd\ndescription: d\ncategories: [a]\n'
+            'article_id: BLG-00051\nwriter: W2\n---\n\nnoi dung\n').encode())
+
+    def test_45_wrong_file_slug_quarantined(self):
+        # ID hợp lệ + lease đúng nhưng tên file lệch slug hàng: trước đây
+        # factory-queue refuse CẢ queue ("id chua co draft") mỗi run
+        self._bad_backlog('ten file', name='2026-10-11-khac-slug.md')
+
+    def test_46_placeholder_quarantined(self):
+        self._bad_backlog('placeholder', body='Lorem ipsum dolor sit amet.')
+
+    def test_47_two_drafts_for_one_id_ambiguous_in_push_refused(self):
+        self.r.draft(self.BAD, writer='W2', name='2026-10-10-bai-viet-so-51.md')
+        rel = self.r.draft(self.BAD, writer='W2')
+        rc, out, r = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('2 draft cho cung mot hang', out['refuse'])
+
+    def test_48_engine_would_pick_another_file_quarantined(self):
+        """find_draft = glob `*-<slug>.md` đầu tiên theo tên: file lạ
+        `2026-10-11-a-<slug>.md` đứng TRƯỚC file đúng => engine QA/publish
+        nhầm bản. Selector không cho vào queue."""
+        self.r.draft(self.BAD, writer='W2')
+        self.r.draft('BLG-00052', writer='W2',
+                     name='2026-10-11-a-bai-viet-so-51.md')
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], self.GOOD)
+        reasons = ' | '.join(q['reason'] for q in out['quarantine'])
+        self.assertIn('thay vi', reasons)
+
+    def test_49_poison_in_push_is_refused_but_backlog_still_drains(self):
+        """Push hỏng của W2 không được làm kẹt draft hợp lệ của W1 (run chờ
+        của W1 có thể đã bị run này thay thế): backlog vẫn chạy, run đỏ ở step
+        cuối (refused=true)."""
+        rel = self.r.draft(self.BAD, writer='W2', omit=('date',))
+        out_file = self.r.path('gh-output.txt')
+        rc, out, r = self.r.select(added=[rel], backlog=True,
+                                   env={'GITHUB_OUTPUT': out_file})
+        self.assertEqual(rc, 0)
+        self.assertIn('date', out['refuse'])
+        self.assertEqual(out['queue'], self.GOOD)
+        self.assertTrue(out['proceed'])
+        q = {x.get('path'): x['reason'] for x in out['quarantine']}
+        self.assertIn('push bi tu choi', q[rel])
+        with open(out_file) as f:
+            gh = f.read()
+        self.assertIn('refused=true', gh)
+        self.assertIn('queue=%s' % ','.join(self.GOOD), gh)
+
+    def test_50_refused_push_with_empty_backlog_exits_3(self):
+        for a in self.GOOD:
+            os.remove(self.r.path('_drafts/2026-10-11-bai-viet-so-%d.md'
+                                  % int(a.split('-')[1])))
+        rel = self.r.draft(self.BAD, writer='W2', omit=('categories',))
+        rc, out, r = self.sel(added=[rel], backlog=True, rc_expect=3)
+        self.assertEqual(out['queue'], [])
+        self.assertIn('categories', out['refuse'])
+
+    def test_51_paused_does_not_starve_inflight_rows(self):
+        """production-control paused + một draft PLANNED trong backlog làm cả
+        run `paused` => hàng REPAIR (chủ vừa sửa) không bao giờ chạy."""
+        rep = 'BLG-00061'
+        self.r.registry({'W1': lease(self.GOOD),
+                         'W3': lease([rep], session='s-w3')})
+        rel = self.r.draft(rep, writer='W3', session='s-w3')
+        self.r.set_status({rep: 'REPAIR'})
+        self.r.evidence(rep, rel, same=False)      # đã sửa sau lần FAIL
+        self.r.write_json('data/factory/production-control.json',
+                          {'enabled': False, 'chunk_size': 2})
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], [rep])
+        self.assertEqual(out['mode'], 'repair')
+        self.assertEqual(out['claim_ids'], [])
+        self.assertTrue(any('paused' in w for w in out['warnings']))
+
+
 class TestOwnership(DrainBase):
 
     def test_10_corrupt_registry_refuses_fail_closed(self):

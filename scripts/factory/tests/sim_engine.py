@@ -323,8 +323,9 @@ class EngineSim:
             return run
         run.queue = out['queue']
         lock = os.path.join(pub, 'data/state/writer-lock.active')
-        txn = json.load(open(os.path.join(pub, 'data/state/transaction.json'),
-                             encoding='utf-8'))
+        with open(os.path.join(pub, 'data/state/transaction.json'),
+                  encoding='utf-8') as fh:
+            txn = json.load(fh)
         if os.path.exists(lock) or txn.get('active'):
             run.status = 'failure'
             run.reason = 'guard: stale lock/txn'
@@ -337,8 +338,8 @@ class EngineSim:
                       out['mode']], pub, env)
         summary = None
         try:
-            summary = json.load(open(env['FACTORY_QUEUE_SUMMARY'],
-                                     encoding='utf-8'))
+            with open(env['FACTORY_QUEUE_SUMMARY'], encoding='utf-8') as fh:
+                summary = json.load(fh)
         except (OSError, ValueError):
             pass
         if summary:
@@ -381,6 +382,13 @@ class EngineSim:
                                        p.stderr[-200:])
             return run
         run.status = 'success'
+        if out.get('refuse'):
+            # push bị REFUSED nhưng backlog hợp lệ đã được drain + commit ở
+            # trên; workflow làm ĐỎ run ở step cuối (refused=true)
+            run.status = 'failure'
+            run.refuse = out['refuse']
+            run.reason = ('refused (backlog drained first): %s'
+                          % out['refuse'][:160])
         return run
 
     # -------------------------------------------------- invariants
