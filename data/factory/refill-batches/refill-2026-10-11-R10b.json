@@ -1,0 +1,28 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R10: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R10-024",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Người lái nhỏ con chở người nặng hơn mình: nên thuê xe máy nào cho vững",
+   "intent": "Chọn xe thuê giữ thăng bằng tốt khi người lái nhỏ con phải chở người nặng hơn: trọng tâm, lúc dừng đèn đỏ, lúc dắt xe, nhịp ga và cách chia trọng lượng.",
+   "kw": "nhỏ con chở người nặng hơn xe máy",
+   "kw2": [
+    "chở người nặng hơn mình bằng xe máy",
+    "xe máy vững cho người lái nhỏ con"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người lái nhỏ con thường chở bạn hoặc người thân nặng hơn mình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

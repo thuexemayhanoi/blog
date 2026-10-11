@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R22: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R22-001",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Đường từ Hà Nội lên Hà Giang bằng xe máy: đi quốc lộ 2 qua những đoạn nào",
+   "intent": "Nắm tuyến quốc lộ 2 từ Hà Nội lên Hà Giang bằng xe máy: các đoạn chính, thời gian chạy ước lượng, đoạn dễ nhầm sang đường cao tốc và những điểm nên dừng nghỉ trước khi vào núi.",
+   "kw": "đường hà nội lên hà giang",
+   "kw2": [
+    "quốc lộ 2 hà nội hà giang",
+    "hà nội đi hà giang bao xa"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người lần đầu tự lái xe máy từ Hà Nội lên Hà Giang",
+   "location_scope": "Hà Nội – Hà Giang (quốc lộ 2)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-002",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Chạy xe máy từ Hà Giang về Hà Nội trong một ngày: xuất phát lúc nào",
+   "intent": "Lên kế hoạch ngày cuối chạy xe máy từ Hà Giang về Hà Nội trong một ngày: giờ xuất phát hợp lý, cách chia các đoạn nghỉ và cách tránh vào Hà Nội đúng giờ đông xe.",
+   "kw": "hà giang về hà nội xe máy",
+   "kw2": [
+    "chạy xe máy hà giang về hà nội mất mấy tiếng",
+    "xuất phát mấy giờ từ hà giang về hà nội"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "nhóm bạn và cặp đôi kết thúc chuyến Hà Giang, cần về Hà Nội đúng hẹn",
+   "location_scope": "Hà Giang – Hà Nội (quốc lộ 2)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-003",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Lịch trình Hà Giang bằng xe máy thuê từ Hà Nội: bốn ngày ba đêm chia thế nào",
+   "intent": "Có lịch trình bốn ngày ba đêm thực tế cho xe thuê từ Hà Nội chạy vòng cung Hà Giang, chia số giờ chạy mỗi ngày, các điểm dừng chính và chỗ có thể cắt bớt khi chạy chậm.",
+   "kw": "lịch trình hà giang xe máy",
+   "kw2": [
+    "hà giang 4 ngày 3 đêm xe máy",
+    "chia lịch chạy hà giang từ hà nội"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "nhóm bạn trẻ tự lên kế hoạch chuyến Hà Giang bằng xe thuê từ Hà Nội",
+   "location_scope": "Hà Nội – vòng cung Hà Giang",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-004",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Một ngày chạy từ Hà Giang lên Đồng Văn: chia giờ qua Quản Bạ và Yên Minh",
+   "intent": "Chia giờ cho một ngày chạy xe máy từ thành phố Hà Giang lên Đồng Văn qua Quản Bạ và Yên Minh: giờ xuất phát, các điểm dừng đáng ghé và mốc phải rời đi để vào Đồng Văn khi trời còn sáng.",
+   "kw": "chạy từ hà giang lên đồng văn",
+   "kw2": [
+    "hà giang lên đồng văn mất bao lâu",
+    "quản bạ yên minh đồng văn xe máy"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đã tới thành phố Hà Giang, lên kế hoạch ngày đầu vào vùng cao",
+   "location_scope": "Hà Giang – Quản Bạ – Yên Minh – Đồng Văn",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-005",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Chạy vòng cung Hà Giang theo chiều nào: đi thuận hay đi ngược",
+   "intent": "Quyết định nên chạy vòng cung Hà Giang theo chiều thuận hay ngược dựa trên ánh sáng, độ khó từng đoạn đường, chỗ nghỉ đêm và điểm kết thúc chuyến.",
+   "kw": "vòng cung hà giang đi chiều nào",
+   "kw2": [
+    "đi hà giang theo chiều nào",
+    "vòng cung hà giang đi ngược"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "nhóm bạn lần đầu tự lái vòng cung Hà Giang",
+   "location_scope": "Vòng cung Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-006",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Hoàng Su Phì bằng xe máy: đi mùa lúa chín và ghép với chuyến Hà Giang",
+   "intent": "Biết đi Hoàng Su Phì bằng xe máy vào mùa lúa chín như thế nào, đường vào ra sao, nên đi tháng nào và có nên ghép với vòng cung Đồng Văn hay chạy tách thành một chuyến riêng.",
+   "kw": "hoàng su phì bằng xe máy",
+   "kw2": [
+    "ruộng bậc thang hoàng su phì mùa lúa chín",
+    "đi hoàng su phì tháng mấy"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người thích chụp ruộng bậc thang, đã hoặc chưa đi vòng cung Đồng Văn",
+   "location_scope": "Hoàng Su Phì, Hà Giang",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-007",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Cổng Trời Quản Bạ và Núi Đôi: dừng xe ngắm cảnh khi chạy lên Đồng Văn",
+   "intent": "Biết cách dừng xe an toàn và ngắm cảnh ở Cổng Trời Quản Bạ và Núi Đôi khi chạy từ Hà Giang lên Đồng Văn, cần dành bao nhiêu thời gian và nên chọn giờ nào cho ít sương, ít khách.",
+   "kw": "cổng trời quản bạ núi đôi",
+   "kw2": [
+    "núi đôi quản bạ đi xe máy",
+    "dừng xe ở cổng trời quản bạ"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đi Hà Giang lần đầu, thích dừng chụp ảnh dọc đường",
+   "location_scope": "Quản Bạ, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-008",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Yên Minh giữa chặng lên Đồng Văn: rừng thông, bữa trưa và nghỉ xe",
+   "intent": "Biết nên tận dụng Yên Minh như điểm nghỉ giữa chặng Quản Bạ – Đồng Văn thế nào: ăn trưa, nghỉ ngơi, kiểm tra xe và ghé rừng thông sao cho không mất giờ.",
+   "kw": "nghỉ trưa ở yên minh xe máy",
+   "kw2": [
+    "rừng thông yên minh",
+    "yên minh đi đồng văn bao xa"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người chạy xe máy từ Quản Bạ lên Đồng Văn cần điểm nghỉ trưa",
+   "location_scope": "Yên Minh, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-009",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Dinh thự họ Vương ở Sà Phìn: ghé khi chạy xe máy từ Yên Minh lên Đồng Văn",
+   "intent": "Biết cách ghé dinh thự họ Vương ở Sà Phìn khi chạy xe máy từ Yên Minh lên Đồng Văn: vị trí so với đường chính, thời gian tham quan, cách gửi xe và cách ứng xử khi vào khu di tích.",
+   "kw": "dinh thự họ vương sà phìn",
+   "kw2": [
+    "dinh thự vua mèo đi xe máy",
+    "sà phìn cách đồng văn bao xa"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người thích di tích và lịch sử, đi Hà Giang cùng gia đình hoặc bạn bè",
+   "location_scope": "Sà Phìn, Đồng Văn, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-010",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Sủng Là và Nhà của Pao: ghé thung lũng khi chạy xe máy lên Đồng Văn",
+   "intent": "Biết cách ghé thung lũng Sủng Là và Nhà của Pao khi chạy xe máy trên đường Yên Minh – Đồng Văn: cách dừng xe, đoạn đường vào và cách chụp ảnh mà không làm phiền người dân.",
+   "kw": "nhà của pao sủng là xe máy",
+   "kw2": [
+    "thung lũng sủng là",
+    "đường vào nhà của pao"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người mê phim ảnh và chụp ảnh, đi vòng cung Hà Giang bằng xe máy",
+   "location_scope": "Sủng Là, Đồng Văn, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-011",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Phố cổ Đồng Văn buổi tối và sáng sớm: ở lại một đêm để thấy gì",
+   "intent": "Hiểu nên ở lại phố cổ Đồng Văn một đêm để thấy gì vào buổi tối và sáng sớm, đi bộ thế nào và để xe an toàn ra sao khi nghỉ đêm trong thị trấn.",
+   "kw": "phố cổ đồng văn buổi tối",
+   "kw2": [
+    "phố cổ đồng văn sáng sớm",
+    "đồng văn về đêm có gì"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người ở lại Đồng Văn qua đêm, muốn ngắm phố cổ buổi tối và sáng sớm",
+   "location_scope": "Phố cổ Đồng Văn, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-012",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Làng Lô Lô Chải gần Lũng Cú: ghé bằng xe máy và ứng xử với dân bản",
+   "intent": "Biết cách đến làng văn hóa Lô Lô Chải gần Lũng Cú bằng xe máy, nên dành bao lâu và ứng xử thế nào với dân bản khi vào thăm nhà, chụp ảnh.",
+   "kw": "làng lô lô chải lũng cú",
+   "kw2": [
+    "lô lô chải đi xe máy",
+    "làng văn hóa lô lô chải"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đi Lũng Cú muốn thăm làng bản và tìm hiểu văn hóa",
+   "location_scope": "Lô Lô Chải, Lũng Cú, Đồng Văn, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-013",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Nghỉ đêm thứ hai ở Đồng Văn hay Mèo Vạc: chọn theo lịch chạy thế nào",
+   "intent": "Chọn ở lại Đồng Văn hay Mèo Vạc vào đêm thứ hai dựa trên lịch chạy ngày hôm sau, thời gian ngắm Mã Pí Lèng và quãng đường còn lại về Hà Giang.",
+   "kw": "nghỉ đêm đồng văn hay mèo vạc",
+   "kw2": [
+    "ở đồng văn hay mèo vạc",
+    "đêm thứ hai ở hà giang nghỉ đâu"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "nhóm bạn đang chốt chỗ nghỉ đêm thứ hai của chuyến Hà Giang",
+   "location_scope": "Đồng Văn – Mèo Vạc, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-014",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Chợ tình Khâu Vai bằng xe máy: đi từ Mèo Vạc thế nào khi đông người",
+   "intent": "Biết cách đi từ Mèo Vạc đến Khâu Vai bằng xe máy vào ngày chợ tình đông người: giờ xuất phát, cách gửi xe, đoạn đường vào và khi nào nên quay đầu.",
+   "kw": "chợ tình khâu vai xe máy",
+   "kw2": [
+    "khâu vai mèo vạc đi xe máy",
+    "chợ tình khâu vai 27 tháng 3"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người muốn đi chợ tình Khâu Vai dịp lễ hội hằng năm",
+   "location_scope": "Khâu Vai, Mèo Vạc, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-015",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Mùa hoa tam giác mạch Hà Giang đông khách: chạy xe máy sao cho nhàn",
+   "intent": "Biết cách chạy xe máy lên các điểm ngắm hoa tam giác mạch ở Hà Giang vào mùa đông khách: giờ đi, cách dừng đỗ không chắn đường và cách tránh chen chúc.",
+   "kw": "tam giác mạch hà giang xe máy",
+   "kw2": [
+    "mùa hoa tam giác mạch hà giang",
+    "đi hà giang xem hoa tam giác mạch tháng mấy"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đi Hà Giang mùa hoa, thích chụp ảnh",
+   "location_scope": "Cao nguyên đá Đồng Văn, Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-016",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Đường Hạnh Phúc ở Hà Giang: lịch sử và những đoạn nên dừng khi chạy xe máy",
+   "intent": "Hiểu Đường Hạnh Phúc ở Hà Giang là đoạn nào, được làm ra sao và nên dừng ở những điểm nào khi chạy xe máy để thấy rõ câu chuyện của con đường.",
+   "kw": "đường hạnh phúc hà giang",
+   "kw2": [
+    "đường hạnh phúc đồng văn mèo vạc",
+    "lịch sử đường hạnh phúc hà giang"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người thích lịch sử, đi Hà Giang bằng xe máy",
+   "location_scope": "Hà Giang – Đồng Văn – Mèo Vạc",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-017",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Ăn gì dọc đường Hà Giang: mèn mén, thắng cố, cháo ấu tẩu và nơi dừng bữa",
+   "intent": "Biết nên thử món gì ở từng chặng Hà Giang như mèn mén, thắng cố, cháo ấu tẩu, dừng bữa ở thị trấn nào cho kịp giờ chạy và ăn thế nào để không đau bụng trên đèo.",
+   "kw": "món ăn dọc đường hà giang",
+   "kw2": [
+    "mèn mén thắng cố hà giang",
+    "cháo ấu tẩu hà giang"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "nhóm bạn đi Hà Giang lần đầu, quan tâm chuyện ăn uống",
+   "location_scope": "Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-018",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Đặc sản Hà Giang mang về bằng xe máy: mua gì và đóng gói ra sao",
+   "intent": "Biết mua đặc sản Hà Giang nào hợp mang về bằng xe máy, cách đóng gói chống đổ vỡ, chống ướt và cân bằng khi chở thêm đồ.",
+   "kw": "đặc sản hà giang mang về",
+   "kw2": [
+    "mật ong bạc hà đồng văn",
+    "mua trà shan tuyết hà giang"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đi Hà Giang muốn mua quà mang về Hà Nội",
+   "location_scope": "Hà Giang – Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-019",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Chạy xe máy Hà Giang mùa lạnh: mặc mấy lớp và lưu ý sương muối",
+   "intent": "Biết chuẩn bị quần áo và cách chạy xe máy khi đi Hà Giang vào mùa lạnh: mặc mấy lớp, giữ ấm tay chân và đề phòng mặt đường trơn do sương muối ở vùng cao.",
+   "kw": "chạy xe máy hà giang mùa lạnh",
+   "kw2": [
+    "mặc gì đi hà giang mùa đông",
+    "hà giang tháng 12 lạnh thế nào"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đi Hà Giang vào những tháng lạnh",
+   "location_scope": "Hà Giang (vùng cao Đồng Văn, Mèo Vạc)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-020",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Đường đèo Hà Giang sau mưa lớn: nhận biết đá lở, bùn trơn và khi nào nên dừng",
+   "intent": "Nhận biết dấu hiệu đá lở, bùn trơn và đường đèo hỏng sau mưa lớn ở Hà Giang, biết khi nào nên dừng hay đổi lịch chạy và cách cập nhật tình hình đường trước khi đi tiếp.",
+   "kw": "đường hà giang sau mưa lớn",
+   "kw2": [
+    "đá lở đường hà giang",
+    "chạy xe máy hà giang mùa mưa"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người đi Hà Giang vào mùa mưa",
+   "location_scope": "Hà Giang",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-021",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Trâu bò, dê và trẻ nhỏ trên đường Hà Giang: giảm tốc và nhường đường thế nào",
+   "intent": "Biết cách xử lý khi gặp trâu bò, ngựa, dê hoặc trẻ nhỏ ở lòng đường qua bản làng Hà Giang: giảm tốc sớm, dùng còi ra sao và giữ khoảng cách an toàn.",
+   "kw": "trâu bò trên đường hà giang",
+   "kw2": [
+    "gia súc chắn đường hà giang",
+    "chạy xe máy qua bản làng hà giang"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người lần đầu chạy xe máy qua bản làng vùng cao",
+   "location_scope": "Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-022",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Gặp xe tải và xe khách trên đường đèo hẹp Hà Giang: nhường bên nào, dừng ở đâu",
+   "intent": "Biết cách nhường đường, chọn chỗ dừng và giữ khoảng cách khi gặp xe tải, xe khách trên đoạn đường đèo hẹp ở Hà Giang mà xe máy khó tránh.",
+   "kw": "xe tải trên đường đèo hà giang",
+   "kw2": [
+    "tránh xe khách đường đèo hẹp",
+    "đi xe máy gặp xe tải cua gấp"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người mới chạy đèo bằng xe máy",
+   "location_scope": "Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-023",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Chạy xe máy ở Hà Giang lúc chiều muộn: tính giờ để không phải đi đèo trong tối",
+   "intent": "Biết cách tính giờ chạy xe máy ở Hà Giang vào buổi chiều để vào điểm nghỉ trước khi trời tối, vì sao nên tránh đi đèo lúc trời tối và làm gì khi bị tối giữa đường.",
+   "kw": "chạy xe hà giang buổi tối",
+   "kw2": [
+    "hà giang trời tối mấy giờ",
+    "đi đèo hà giang ban đêm có nên không"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người lên kế hoạch lịch chạy từng ngày trong chuyến Hà Giang",
+   "location_scope": "Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-024",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Kiểm tra xe thuê mỗi sáng khi nghỉ đêm dọc cung Hà Giang: những điểm cần nhìn",
+   "intent": "Biết cách kiểm tra nhanh xe thuê mỗi sáng trong chuyến nhiều ngày ở Hà Giang: lốp, phanh, xích, đèn và đồ buộc, để phát hiện sớm trước khi chạy tiếp vào đèo.",
+   "kw": "kiểm tra xe mỗi sáng hà giang",
+   "kw2": [
+    "kiểm tra xe máy trước khi chạy tiếp",
+    "áp suất lốp khi chạy đèo"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "nhóm đi nhiều ngày trên xe thuê",
+   "location_scope": "Hà Giang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R22-025",
+   "child_id": "C-CD-HA-GIANG",
+   "title": "Xăng cho vòng cung Hà Giang: ước lượng bao nhiêu lít và đổ ở thị trấn nào",
+   "intent": "Biết ước lượng lượng xăng cần cho vòng cung Hà Giang với xe số và xe ga, nên đổ đầy ở thị trấn nào và làm gì khi bình sắp cạn ở đoạn xa thị trấn.",
+   "kw": "xăng đi vòng cung hà giang",
+   "kw2": [
+    "đổ xăng ở hà giang",
+    "xe máy đi hà giang tốn bao nhiêu xăng"
+   ],
+   "links": [
+    "/cung-duong/ha-giang/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R22",
+   "audience": "người lên kế hoạch xăng cho chuyến Hà Giang bằng xe số hoặc xe ga",
+   "location_scope": "Hà Giang – Quản Bạ – Yên Minh – Đồng Văn – Mèo Vạc",
+   "word_target": 1200
+  }
+ ]
+}

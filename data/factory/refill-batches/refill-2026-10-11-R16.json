@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R16: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R16-001",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Từ xe số sang xe ga: những phản xạ cần đổi khi lần đầu lái Honda Click",
+   "intent": "Biết người quen lái xe số cần chỉnh những phản xạ nào khi chuyển sang xe ga Honda Click: không còn cần số và côn, tay trái bóp phanh sau, tay phải bóp phanh trước, vặn ga êm hơn, và cách khởi hành, dừng xe với bộ truyền động tự động.",
+   "kw": "từ xe số chuyển sang xe ga",
+   "kw2": [
+    "người quen xe số lái xe ga",
+    "xe ga phanh tay trái tay phải"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người đã quen lái xe số, lần đầu đổi sang xe ga",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-002",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Dắt, lùi và dựng Honda Click ở chỗ gửi chật hoặc nền nghiêng",
+   "intent": "Biết cách dắt xe ga ra khỏi hàng xe gửi san sát, lùi xe không bị kẹt, quay đầu tại chỗ và dựng chân chống đứng ổn định trên vỉa hè nghiêng, nền ướt hay đất mềm mà không cần nhiều sức.",
+   "kw": "dắt lùi xe ga chỗ gửi chật",
+   "kw2": [
+    "dựng chân chống đứng xe ga",
+    "dựng xe ga trên nền nghiêng"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người nhỏ nhắn hoặc ít sức, khách thuê xe ga lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-003",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Xe ga dừng rồi xuất phát lại trên dốc cầu vượt khi kẹt xe: giữ phanh thế nào",
+   "intent": "Biết cách giữ xe ga đứng yên trên dốc cầu vượt hoặc dốc hầm chui khi dòng xe dừng, rồi xuất phát lại không bị tụt lùi: phối hợp phanh, vặn ga, giữ khoảng cách với xe phía trước.",
+   "kw": "xe ga xuất phát lại trên dốc cầu",
+   "kw2": [
+    "xe ga bị tụt dốc khi kẹt xe",
+    "cách dừng xe ga trên dốc"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người lái xe ga ít kinh nghiệm đi qua các cầu vượt và hầm chui nội thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-004",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Xe ga bánh nhỏ qua ổ gà, gờ giảm tốc và đường ray: cách đi cho vững",
+   "intent": "Biết cách qua ổ gà, gờ giảm tốc, nắp cống lồi lõm và đường ray cắt ngang bằng xe ga bánh nhỏ như Honda Click: giảm tốc từ xa, thả lỏng tay lái, đi vuông góc với đường ray, tránh bánh bị trượt hoặc kẹt rãnh.",
+   "kw": "xe ga qua đường ray ổ gà",
+   "kw2": [
+    "xe ga bánh nhỏ đi ổ gà",
+    "qua đường tàu hỏa bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người lái xe ga, khách đi lại trong nội thành và khu vực có đường sắt cắt ngang",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-005",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Gió ngang trên cầu Nhật Tân, Vĩnh Tuy: Honda Click nhẹ có bị lạng không",
+   "intent": "Hiểu vì sao xe ga nhẹ dễ bị gió ngang và luồng gió từ xe tải làm lạng trên các cầu lớn bắc qua sông Hồng, và biết cách cầm lái, giữ tốc độ, chọn làn khi cầu có gió mạnh hoặc khi có bão ở xa.",
+   "kw": "xe ga bị gió ngang trên cầu",
+   "kw2": [
+    "xe máy nhẹ chạy qua cầu gió lớn",
+    "cầu Nhật Tân gió mạnh đi xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người đi xe ga nhẹ qua sông Hồng, khách mới đi cầu lớn",
+   "location_scope": "Hà Nội, cầu Nhật Tân và cầu Vĩnh Tuy",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-006",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Bóp còi, nhập dòng, ngã tư đông: cách đọc dòng xe Hà Nội khi lái xe ga",
+   "intent": "Hiểu những thói quen không viết thành luật của dòng xe Hà Nội: tiếng còi thường nghĩa là tôi ở đây, nhập dòng chậm và đều, nhìn hướng xe đối diện, đi theo dòng ở ngã tư đông, để lái xe ga bớt bỡ ngỡ.",
+   "kw": "cách đi xe máy trong dòng xe Hà Nội",
+   "kw2": [
+    "thói quen giao thông Hà Nội",
+    "khách nước ngoài lái xe máy Hà Nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách nước ngoài và người tỉnh khác lần đầu lái xe ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-007",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click bấm đề không nổ: kiểm tra gì tại chỗ trước khi gọi thợ",
+   "intent": "Biết các bước tự kiểm tra khi xe ga bấm nút đề mà máy không nổ: có bóp phanh khi đề chưa, công tắc tắt máy, chân chống đã gạt lên chưa, còn xăng không, ắc quy yếu, bugi ướt; và khi nào nên dừng thử để tìm thợ.",
+   "kw": "xe ga bấm đề không nổ",
+   "kw2": [
+    "xe ga không nổ máy",
+    "bấm đề xe ga không nổ nguyên nhân"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người thuê xe ga gặp sự cố giữa đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-008",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Xe ga bị giật cục khi vừa vặn ga lăn bánh: nguyên nhân thường gặp",
+   "intent": "Hiểu vì sao xe ga giật cục hoặc rung khi vừa vặn ga để lăn bánh hay đang chạy chậm, phân biệt do cách vặn ga và do xe (bộ truyền động, bugi, xăng), và biết việc nào làm ngay được, việc nào cần báo lại.",
+   "kw": "xe ga bị giật khi vặn ga",
+   "kw2": [
+    "xe ga giật cục lúc đi chậm",
+    "xe ga rung khi vừa lăn bánh"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người đang dùng xe ga thấy xe giật nhưng chưa rõ nguyên nhân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-009",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Hết xăng giữa đường ở Hà Nội với xe ga: dắt xe, mua xăng lẻ và tìm cây xăng",
+   "intent": "Biết cách xử lý khi xe ga hết xăng giữa phố: nhận ra dấu hiệu sắp cạn, dừng an toàn, dắt xe hợp lý, mua xăng lẻ ở điểm bán ven đường, tìm cây xăng gần nhất bằng bản đồ.",
+   "kw": "hết xăng giữa đường xe ga",
+   "kw2": [
+    "xe ga hết xăng làm sao",
+    "mua xăng lẻ ở đâu Hà Nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách đi xe ga chưa quen đồng hồ xăng và chưa thuộc đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-010",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Lốp xe ga xì hơi hoặc thủng giữa phố Hà Nội: nhận biết và xử lý tại chỗ",
+   "intent": "Biết dấu hiệu lốp xe ga non hơi hoặc bị đinh đâm, cách dừng và dắt xe không làm hỏng vành, tìm tiệm vá ven đường, và những việc không nên làm như cố chạy tiếp khi lốp xẹp.",
+   "kw": "lốp xe ga bị xì hơi giữa đường",
+   "kw2": [
+    "xe ga thủng lốp phải làm sao",
+    "tiệm vá xe Hà Nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người đang chạy xe ga thấy xe lệch, nặng lái hoặc nghi lốp xẹp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-011",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Nhận xe ga thuê: kiểm tra nhanh Honda Click trước khi lăn bánh",
+   "intent": "Biết cách tự kiểm tra nhanh một chiếc xe ga khi nhận: phanh trước sau, tay ga trả về êm, đèn xi-nhan và đèn phanh, lốp, gương, còi, mức xăng, tiếng máy lúc nổ, và chụp ảnh các vết xước có sẵn.",
+   "kw": "kiểm tra xe ga khi nhận thuê",
+   "kw2": [
+    "checklist nhận xe máy thuê",
+    "kiểm tra phanh đèn lốp xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người thuê xe ga lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-012",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Mưa rào bất chợt khi chạy xe ga ở Hà Nội: dừng đâu, mặc áo mưa thế nào",
+   "intent": "Biết phải làm gì khi bị mưa rào ập xuống lúc đang chạy xe ga: chọn chỗ dừng an toàn không cản dòng xe, mặc áo mưa bộ hay áo mưa trùm cánh dơi, bảo vệ điện thoại và đồ trong cốp, chạy tiếp thế nào khi mặt đường còn trơn.",
+   "kw": "đi xe ga gặp mưa rào",
+   "kw2": [
+    "áo mưa cánh dơi hay áo mưa bộ",
+    "mưa bất chợt đi xe máy Hà Nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch và người đi làm bị mưa rào mùa hè giữa đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-013",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Xe ga gặp đoạn đường ngập nước ở Hà Nội: đi tiếp hay quay đầu",
+   "intent": "Biết cách đánh giá một đoạn đường ngập sau mưa lớn trước khi cho xe ga lội qua: ước lượng độ sâu, nắp cống có thể mở, nước chảy xiết, và việc cần làm sau đó như thử phanh, tránh nổ lại máy nếu xe chết giữa nước.",
+   "kw": "xe ga đi qua đường ngập nước",
+   "kw2": [
+    "xe tay ga chết máy khi qua nước",
+    "đường ngập Hà Nội đi xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "người lái xe ga gặp mưa lớn mùa hè, nước ngập cục bộ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-014",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Đi xe ga giữa trưa hè Hà Nội: giờ nên tránh, chống nắng và giữ xe khỏi nóng",
+   "intent": "Biết cách đi xe ga trong những ngày nắng nóng ở Hà Nội: chọn khung giờ chạy, trang phục chống nắng và khẩu trang, uống nước, đỗ xe chỗ có bóng râm để yên bớt nóng, và những đồ không nên để trong cốp xe.",
+   "kw": "đi xe ga mùa nắng nóng Hà Nội",
+   "kw2": [
+    "chống nắng khi đi xe máy",
+    "đỗ xe ga ngoài trời nắng"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch và người đi làm trong những ngày nắng gắt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-015",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Đi xe ga ngày rét đậm ở Hà Nội: mặc gì để không cứng tay, cứng chân",
+   "intent": "Biết cách ăn mặc và điều chỉnh cách lái xe ga trong những ngày rét đậm, gió mùa Đông Bắc: lớp áo, găng tay, che chân, sương mù buổi sáng làm giảm tầm nhìn, tay lái lạnh làm phản xạ chậm.",
+   "kw": "đi xe máy ngày rét đậm Hà Nội",
+   "kw2": [
+    "mặc gì đi xe máy mùa đông",
+    "găng tay đi xe ga mùa lạnh"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch và người đi làm trong những ngày lạnh cuối thu, đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-016",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Một vòng Hồ Tây bằng Honda Click: lộ trình, điểm dừng và giờ đẹp trong ngày",
+   "intent": "Có lộ trình chạy một vòng quanh Hồ Tây bằng xe ga thong thả: các đoạn đường ven hồ như Thanh Niên, Lạc Long Quân, Âu Cơ, Xuân Diệu, nơi dừng nghỉ và chụp ảnh, khung giờ ít xe, đoạn nào đông.",
+   "kw": "đi một vòng Hồ Tây bằng xe máy",
+   "kw2": [
+    "lộ trình vòng quanh Hồ Tây",
+    "chạy xe ga ngắm hoàng hôn Hồ Tây"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch và người ở Hà Nội thích chạy thong thả",
+   "location_scope": "Hồ Tây, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-017",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Đi làng gốm Bát Tràng bằng xe ga: đường đi từ phố cổ và lúc nên về",
+   "intent": "Biết cách đi từ khu phố cổ đến làng gốm Bát Tràng (Gia Lâm) bằng xe ga: cầu qua sông Hồng, đoạn đê, thời gian chạy, nên đến giờ nào cho vắng và về trước giờ tan tầm, mang đồ gốm mua về thế nào.",
+   "kw": "đi Bát Tràng bằng xe máy",
+   "kw2": [
+    "đường đi làng gốm Bát Tràng",
+    "phố cổ đến Bát Tràng bao xa"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch muốn đi nửa ngày ra làng nghề",
+   "location_scope": "Làng gốm Bát Tràng, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-018",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Nửa ngày khu Ba Đình và Văn Miếu bằng Honda Click: thứ tự đi và chỗ dừng xe",
+   "intent": "Có lịch trình nửa ngày nối Quảng trường Ba Đình, Chùa Một Cột, Hoàng thành Thăng Long và Văn Miếu bằng xe ga: thứ tự đi theo đường một chiều, quãng chạy ngắn giữa các điểm, cách tìm chỗ dừng xe quanh khu di tích.",
+   "kw": "đi Ba Đình Văn Miếu bằng xe máy",
+   "kw2": [
+    "lịch trình nửa ngày Hà Nội xe máy",
+    "Hoàng thành Thăng Long Chùa Một Cột"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch lần đầu đến Hà Nội muốn tham quan di tích",
+   "location_scope": "Khu Ba Đình và Văn Miếu, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-019",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Thuê Honda Click một tuần ở Hà Nội: lịch 7 ngày điểm gần xen điểm xa",
+   "intent": "Có khung lịch 7 ngày cho người thuê xe ga theo tuần để khám phá Hà Nội: ngày nào đi nội thành, ngày nào đi làng nghề hoặc ngoại ô gần, ngày nghỉ xe, và cách chia quãng đường để không mệt.",
+   "kw": "lịch trình 7 ngày Hà Nội bằng xe máy",
+   "kw2": [
+    "thuê xe máy một tuần Hà Nội",
+    "đi chơi Hà Nội một tuần bằng xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch ở Hà Nội khoảng một tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-020",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Honda Click hay Vision khi thuê: hai xe ga nhỏ khác nhau ở điểm nào",
+   "intent": "Chọn giữa Honda Click và Honda Vision khi thuê xe ga nhỏ ở Hà Nội: khác biệt về dáng xe, yên và cốp, cảm giác lái, và chênh giá theo ngày, tuần, tháng theo bảng giá đã niêm yết (Click 150k/ngày, 600-700k/tuần, 1-1,2tr/tháng; Vision 200k/ngày, 800k-1tr/tuần, 1,8-2tr/tháng).",
+   "kw": "Honda Click hay Vision",
+   "kw2": [
+    "so sánh Click và Vision",
+    "thuê Vision hay Click"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách đang cân nhắc giữa hai xe ga nhỏ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-021",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Cùng 150k/ngày: thuê Honda Click xe ga hay Wave xe số cho chuyến đi Hà Nội",
+   "intent": "Quyết định giữa xe ga Honda Click và xe số Wave khi giá ngày như nhau (150k/ngày): hợp ai, hợp kiểu đường nào, khác nhau ở thao tác lái, cốp đồ, tiêu hao xăng, và gợi ý theo kinh nghiệm lái của người thuê.",
+   "kw": "thuê xe ga hay xe số",
+   "kw2": [
+    "Click hay Wave thuê",
+    "xe ga hay xe số đi Hà Nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách chưa biết chọn xe ga hay xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-022",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Người thấp 1m50 đến 1m55 thuê Honda Click: chống chân có vững không",
+   "intent": "Biết người cao khoảng 1m50 đến 1m55 ngồi Honda Click có chạm đất vững khi dừng không, cách chỉnh tư thế (nhích về trước, nghiêng xe, chống một chân), và khi nào nên cân nhắc xe khác.",
+   "kw": "người thấp thuê xe ga chống chân",
+   "kw2": [
+    "xe ga cho người thấp",
+    "yên xe Honda Click cao thấp"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách nữ hoặc người nhỏ nhắn, cao khoảng 1m50 đến 1m55",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-023",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Mặc váy, áo dài đi xe ga trong ngày du lịch Hà Nội: cách ngồi cho gọn và an toàn",
+   "intent": "Biết cách mặc và ngồi khi đi xe ga với váy, áo dài hoặc quần ống rộng: chọn váy dài hay ngắn, gài gấu tránh vướng bánh sau và sàn để chân, cách lên xuống yên gọn gàng, giày dép phù hợp, cách ngồi khi được chở.",
+   "kw": "mặc váy đi xe ga",
+   "kw2": [
+    "áo dài đi xe máy",
+    "ngồi sau xe ga mặc váy"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách nữ mặc váy, áo dài khi chụp ảnh và đi dạo phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-024",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Dùng điện thoại dẫn đường khi lái xe ga ở Hà Nội: giá đỡ và chế độ xe máy",
+   "intent": "Biết cách dẫn đường bằng điện thoại khi lái xe ga mà vẫn an toàn: gắn giá đỡ trên tay lái hay gương, đặt chế độ xe máy trên bản đồ, tải sẵn bản đồ khi mất sóng, nghe chỉ dẫn bằng giọng nói, tránh nhìn màn hình ở ngã tư đông, xử lý đường một chiều.",
+   "kw": "dẫn đường bằng điện thoại khi đi xe máy",
+   "kw2": [
+    "giá đỡ điện thoại xe ga",
+    "Google Maps chế độ xe máy Hà Nội"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "khách du lịch tự lái, người chưa thuộc đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R16-025",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Thuê Honda Click theo tháng để đi làm ở Hà Nội: lộ trình và thói quen mỗi ngày",
+   "intent": "Biết cách dùng xe ga thuê theo tháng cho việc đi làm hằng ngày: chọn giờ xuất phát tránh cao điểm, đường thay thế khi tắc, để xe quanh nơi làm, thói quen đổ xăng và kiểm tra nhanh mỗi tuần; đối chiếu giá tháng đã niêm yết (Click 1-1,2tr/tháng).",
+   "kw": "thuê xe ga theo tháng đi làm",
+   "kw2": [
+    "thuê Honda Click theo tháng",
+    "đi làm bằng xe ga thuê tháng"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R16",
+   "audience": "nhân viên chuyển đến Hà Nội làm việc vài tháng, thực tập sinh",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

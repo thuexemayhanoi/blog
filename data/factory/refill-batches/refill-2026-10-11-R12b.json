@@ -1,0 +1,47 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R12: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R12-010",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần thuê xe có hai chuyến qua đêm: chia lịch giữa Hà Nội và ngoại tỉnh",
+   "intent": "Xếp một tuần thuê xe gồm các ngày ở Hà Nội và hai chuyến qua đêm ngoài Hà Nội: chọn điểm, đóng gói đồ, canh giờ, giữ xe ở nơi ngủ và nhớ hỏi trước cửa hàng về đi tỉnh.",
+   "kw": "thuê xe tuần có chuyến qua đêm",
+   "kw2": [
+    "chia lịch 7 ngày hà nội và tỉnh khác",
+    "tuần thuê xe có chuyến ngoại tỉnh"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "du khách thuê xe một tuần muốn kết hợp ngày ở Hà Nội với chuyến qua đêm ở tỉnh gần",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-011",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần đi làng nghề quanh Hà Nội: chia bảy ngày theo hướng bằng xe máy thuê",
+   "intent": "Chia bảy ngày thuê xe thành các hướng làng nghề quanh Hà Nội (Bát Tràng, Vạn Phúc, Chàng Sơn, Quất Động, Đông Hồ...), xếp ngày đi gần, ngày đi xa và ngày nghỉ.",
+   "kw": "một tuần đi làng nghề quanh hà nội",
+   "kw2": [
+    "tuần làng nghề hà nội bằng xe máy",
+    "bát tràng vạn phúc chàng sơn đông hồ"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người thích thủ công, mua đồ lưu niệm, ở Hà Nội cả tuần",
+   "location_scope": "Hà Nội và Bắc Ninh",
+   "word_target": 1400
+  }
+ ]
+}

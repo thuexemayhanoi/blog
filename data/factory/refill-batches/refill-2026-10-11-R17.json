@@ -1,0 +1,449 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R17: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R17-001",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở thịt cá tươi từ chợ về nhà ngày nắng: chống chảy nước, giữ lạnh bằng đá",
+   "intent": "Biết cách chở thịt, cá, hải sản tươi mua ở chợ về nhà bằng xe máy trong ngày nóng: bọc hai lớp để không chảy nước và bám mùi, giữ lạnh bằng đá, chọn chỗ đặt trên xe và về nhà kịp bảo quản.",
+   "kw": "chở thịt cá tươi bằng xe máy",
+   "kw2": [
+    "mang thịt cá từ chợ về nhà ngày nóng",
+    "giữ lạnh thực phẩm tươi khi đi xe máy",
+    "túi đá chống chảy nước khi chở thực phẩm"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người mua thực phẩm tươi ở chợ về nấu ăn, kể cả người thuê xe theo tháng sống ở Hà Nội",
+   "location_scope": "Hà Nội: chợ dân sinh trong nội thành, mùa hè nắng nóng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-002",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Mang cặp lồng cơm cháo vào viện thăm người nhà bằng xe máy: xếp sao không đổ",
+   "intent": "Biết cách mang cặp lồng cơm, cháo cùng túi hoa quả, sữa vào bệnh viện thăm người nhà mỗi ngày bằng xe máy mà không đổ nước, không nghiêng cặp lồng, vẫn giữ ấm và tay lái rảnh.",
+   "kw": "mang cặp lồng đi bệnh viện bằng xe máy",
+   "kw2": [
+    "chở cháo đi viện bằng xe máy",
+    "mang cơm cho người nhà nằm viện",
+    "cặp lồng giữ nhiệt trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người nhà bệnh nhân mỗi ngày mang cơm cháo, hoa quả, sữa vào viện",
+   "location_scope": "Hà Nội: quanh các bệnh viện lớn trong nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-003",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Mang phở, bún nước về chỗ ở bằng xe máy: túi, hộp và cách treo cho khỏi tràn",
+   "intent": "Biết cách mang phở, bún nước dùng còn nóng mua ở quán về chỗ ở bằng xe máy: tách nước dùng, chọn túi và hộp kín, treo hay đặt ở đâu để không đổ, không bỏng chân và không bắn lên xe.",
+   "kw": "mang phở về bằng xe máy",
+   "kw2": [
+    "chở phở mang về bằng xe máy",
+    "chở đồ ăn nước nóng bằng xe máy",
+    "nước dùng phở bị đổ khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "khách du lịch và người ở Hà Nội mua phở, bún nước mang về chỗ ở",
+   "location_scope": "Hà Nội: khu phố cổ và các quận nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-004",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chuyển phòng trọ bằng xe máy thuê: chia mấy chuyến, đồ nào chở trước",
+   "intent": "Lên kế hoạch chuyển phòng trọ bằng xe máy thuê khi không thuê xe tải: phân loại đồ, chia chuyến, thứ tự chở món dễ vỡ và món cồng kềnh, lúc nào nên nhờ phương án khác cho món quá lớn.",
+   "kw": "chuyển phòng trọ bằng xe máy",
+   "kw2": [
+    "chuyển nhà trọ bằng xe máy",
+    "chuyển đồ sinh viên bằng xe máy",
+    "chia chuyến chở đồ khi chuyển trọ"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "sinh viên và người đi làm chuyển sang phòng trọ mới trong Hà Nội",
+   "location_scope": "Hà Nội: các khu nhà trọ trong nội thành và vùng ven gần trung tâm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-005",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở chăn gối, tấm xốp và đồ nhẹ cồng kềnh khi gió mùa: tránh bị thổi lệch xe",
+   "intent": "Hiểu vì sao đồ nhẹ nhưng bề mặt rộng như chăn gối, tấm xốp, chậu nhựa bắt gió làm xe lạng lách, rồi biết cách gấp, nén, buộc thấp và chọn đường khi có gió ngang.",
+   "kw": "chở đồ nhẹ cồng kềnh khi có gió",
+   "kw2": [
+    "chở chăn gối bằng xe máy",
+    "chở tấm xốp bằng xe máy",
+    "đồ bắt gió khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người mua chăn gối, đồ nhựa gia dụng, tấm xốp về nhà bằng xe máy vào mùa gió",
+   "location_scope": "Hà Nội: cầu vượt sông và đường đê ven sông Hồng vào mùa gió mùa đông bắc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-006",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Đồ nặng dồn phía sau làm đầu xe nhẹ, đèn pha chếch lên: cách nhận biết, chia tải",
+   "intent": "Hiểu vì sao đồ nặng dồn phía sau khiến đầu xe nhẹ, tay lái bồng bềnh và đèn pha chếch lên, rồi biết dấu hiệu nhận biết sớm, cách đặt đồ thấp, gần người lái và chia lại tải trước sau.",
+   "kw": "chở nặng phía sau đầu xe nhẹ",
+   "kw2": [
+    "xe chở đồ nặng bị bồng bềnh tay lái",
+    "đèn pha chếch lên khi chở nặng",
+    "chia tải trước sau xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người lần đầu chở đồ nặng phía sau xe máy và thấy tay lái khác thường",
+   "location_scope": "Hà Nội: đường nội thành và đường đê",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-007",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Đồ buộc sau xe bị lỏng hoặc rơi giữa đường: dừng ở đâu và xử lý thế nào",
+   "intent": "Biết phải làm gì khi đồ buộc sau xe bị lỏng, xô lệch hoặc rơi xuống đường giữa dòng xe: báo hiệu, giảm tốc từ từ, chọn chỗ dừng, nhặt đồ và buộc lại đúng cách.",
+   "kw": "đồ rơi khỏi xe máy giữa đường",
+   "kw2": [
+    "đồ buộc sau xe máy bị lỏng",
+    "hàng rơi khi đang chạy xe máy",
+    "dừng xe nhặt đồ rơi an toàn"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người chở đồ trên xe máy thuê, nhất là người mới chở hành lý lần đầu",
+   "location_scope": "Hà Nội: đường phố đông xe và đường đê",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-008",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở nồi to, chảo lớn đi nấu cỗ bằng xe máy: nắp, quai và cách chèn cho khỏi lăn",
+   "intent": "Biết cách chở nồi to, chảo lớn, nồi bánh chưng mượn hoặc mua để nấu cỗ, tổ chức tiệc gia đình bằng xe máy: cố định nắp, bọc quai, chèn miệng nồi và chọn chỗ đặt để không xô lệch, không kêu leng keng.",
+   "kw": "chở nồi to bằng xe máy",
+   "kw2": [
+    "chở nồi nấu cỗ bằng xe máy",
+    "chở nồi bánh chưng bằng xe máy",
+    "chở chảo lớn trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người mượn hoặc mua nồi, chảo cỡ lớn để nấu cỗ và tổ chức tiệc gia đình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-009",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở xô sơn và dụng cụ sơn tường bằng xe máy: chống đổ, chống dính lên xe",
+   "intent": "Biết cách chở xô sơn, thùng sơn và dụng cụ sơn tường mua ở cửa hàng về nhà bằng xe máy: kiểm tra nắp, lót và bọc để sơn không đổ, không dính lên yên và quần áo, đặt xô ở vị trí thấp và vững.",
+   "kw": "chở thùng sơn bằng xe máy",
+   "kw2": [
+    "chở xô sơn tường bằng xe máy",
+    "mua sơn về nhà bằng xe máy",
+    "chở dụng cụ sơn nhà bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người tự sơn lại phòng, nhà trọ, mua vật liệu nhỏ bằng xe máy",
+   "location_scope": "Hà Nội: cửa hàng sơn và vật liệu ở nội thành và vùng ven",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-010",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở bao gạo, bao đất và bao tải mềm nặng: đặt dọc hay ngang, buộc khỏi trượt",
+   "intent": "Biết cách chở bao gạo, bao đất trồng cây, bao phân bón và các loại bao mềm nặng bằng xe máy: đặt dọc hay ngang, trọng tâm dồn đi đâu, buộc thế nào để bao không trượt và không rách.",
+   "kw": "chở bao gạo bằng xe máy",
+   "kw2": [
+    "chở bao tải nặng bằng xe máy",
+    "chở bao đất trồng cây bằng xe máy",
+    "chở phân bón bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người mua gạo, đất trồng cây, phân bón số lượng lớn về nhà",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-011",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở cần câu và hộp đồ câu đi hồ câu cuối tuần: cố định dọc xe, bảo vệ ngọn cần",
+   "intent": "Biết cách mang cần câu, hộp mồi và đồ câu đi hồ câu cuối tuần bằng xe máy: cố định cần song song thân xe, bọc ngọn cần mảnh dễ gãy, không để cần quệt vào người đi đường và chia đồ câu vào túi gọn.",
+   "kw": "chở cần câu bằng xe máy",
+   "kw2": [
+    "mang cần câu đi câu cá bằng xe máy",
+    "buộc cần câu trên xe máy",
+    "chở đồ câu cá bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người đi câu cá cuối tuần ở hồ câu và ao hồ quanh Hà Nội",
+   "location_scope": "Hà Nội và vùng ven: hồ câu, ao hồ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-012",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở cành đào Nhật Tân và cây quất Tứ Liên về nhà dịp Tết: giữ nụ, giữ quả",
+   "intent": "Biết cách chở cành đào, cây quất chơi Tết mua ở vườn về nhà bằng xe máy: bọc nụ và quả, cố định gốc, chia việc cho người ngồi sau, chọn giờ và đường để cành không gãy, quả không rụng.",
+   "kw": "chở cành đào về nhà bằng xe máy",
+   "kw2": [
+    "chở cây quất bằng xe máy",
+    "chở đào Tết bằng xe máy",
+    "mua đào Nhật Tân đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người ở Hà Nội mua đào, quất chơi Tết, kể cả người thuê xe theo tháng",
+   "location_scope": "Hà Nội: khu Nhật Tân, Tứ Liên (Tây Hồ) và các đường về nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-013",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Mang đồ lưu niệm mua ở phố cổ về chỗ ở bằng xe máy: nón lá, tranh, đồ thủ công",
+   "intent": "Biết cách mang nón lá, tranh, quạt, đồ gốm và đồ thủ công mua ở phố cổ về chỗ ở bằng xe máy: gom túi, bảo vệ món cồng kềnh nhẹ và món dễ vỡ, chọn chỗ đặt để không che tầm nhìn.",
+   "kw": "chở đồ lưu niệm bằng xe máy",
+   "kw2": [
+    "mang quà lưu niệm Hà Nội bằng xe máy",
+    "chở nón lá bằng xe máy",
+    "chở tranh và đồ thủ công mua ở phố cổ"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "khách du lịch trong và ngoài nước mua quà lưu niệm ở phố cổ",
+   "location_scope": "Hà Nội: khu phố cổ và đường về khách sạn, nhà nghỉ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-014",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Đi nhóm nhiều xe: chia đồ chung giữa các xe sao cho xe nào cũng nhẹ đều",
+   "intent": "Biết cách chia đồ chung như nước, đồ ăn, lều, loa giữa nhiều xe khi đi nhóm bạn: ai mang món nặng, ai mang món nhẹ, ghi danh sách để không thừa không thiếu và không xe nào bị dồn tải.",
+   "kw": "chia đồ khi đi nhóm nhiều xe máy",
+   "kw2": [
+    "chia hành lý đi nhóm bạn bằng xe máy",
+    "ai mang đồ nặng khi đi chơi nhóm",
+    "đồ chung đi cắm trại nhóm xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "nhóm 3 đến 6 bạn thuê nhiều xe đi chơi cuối tuần",
+   "location_scope": "Hà Nội và các điểm đi trong ngày quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-015",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Túi duffel mềm hay vali cứng: loại hành lý nào dễ buộc lên xe máy hơn",
+   "intent": "Chọn hoặc mua loại hành lý hợp với xe máy trước chuyến đi: so sánh túi duffel mềm, vali cứng và ba lô về khả năng nén, độ dễ buộc, độ bền khi xóc và khi gặp mưa.",
+   "kw": "túi mềm hay vali cứng khi đi xe máy",
+   "kw2": [
+    "túi duffel buộc sau xe máy",
+    "chọn hành lý đi du lịch bằng xe máy",
+    "vali hay balo khi thuê xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "khách du lịch chọn hoặc mua hành lý trước chuyến đi bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-016",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Đeo túi xách khi chạy xe máy ở phố: đeo chéo, để bên nào, tránh bị giật",
+   "intent": "Biết cách mang túi xách, ví, điện thoại khi chạy xe máy trong phố đông: đeo chéo phía nào, không treo túi dễ giật ở tay lái, giữ điện thoại ở đâu để khó bị giật mà vẫn lấy nhanh khi cần.",
+   "kw": "đeo túi xách khi đi xe máy tránh giật",
+   "kw2": [
+    "cách đeo túi khi đi xe máy ở Hà Nội",
+    "tránh bị giật túi khi chạy xe máy",
+    "để điện thoại khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "khách du lịch và phụ nữ đi xe máy một mình trong phố",
+   "location_scope": "Hà Nội: khu phố cổ và các tuyến phố đông người",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-017",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Món đồ vừa mua có chở nổi bằng xe máy không: 5 câu tự hỏi trước khi buộc",
+   "intent": "Có bộ câu hỏi nhanh để tự quyết định một món đồ lớn vừa mua có nên chở bằng xe máy không (kích thước, trọng lượng, hình dạng, độ dễ vỡ, quãng đường) và khi nào nên chọn cách khác.",
+   "kw": "đồ mua về có chở được bằng xe máy không",
+   "kw2": [
+    "kiểm tra đồ trước khi chở bằng xe máy",
+    "chở đồ lớn mua ở siêu thị bằng xe máy",
+    "khi nào nên nhờ giao hàng thay vì chở"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người đứng trước cửa hàng, siêu thị với món đồ lớn vừa mua và chỉ có xe máy",
+   "location_scope": "Hà Nội: siêu thị, cửa hàng điện máy và nội thất",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-018",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Để túi và hộp nhỏ ở sàn để chân xe ga: đồ nào được, đồ nào dễ vướng chân phanh",
+   "intent": "Biết khi nào có thể đặt túi, hộp nhỏ ở sàn để chân phía trước xe ga và khi nào không: đồ nào gọn, thấp và chắc, đồ nào dễ trượt vào bàn đạp phanh hoặc cản chân người lái.",
+   "kw": "để đồ ở sàn để chân xe ga",
+   "kw2": [
+    "đặt túi ở chỗ để chân xe tay ga",
+    "chở đồ giữa hai chân xe ga",
+    "sàn để chân xe ga chở được gì"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người đi một mình bằng xe ga cần thêm chỗ cho túi nhỏ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-019",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Người ngồi sau ôm đồ trên đùi: món nào được, món nào phải buộc lại",
+   "intent": "Biết món đồ nào người ngồi sau có thể ôm hoặc đặt trên đùi mà vẫn giữ được thăng bằng và bám chắc, món nào (nặng, cồng kềnh, che tầm nhìn người lái) phải chuyển sang buộc cố định.",
+   "kw": "ngồi sau xe máy ôm đồ",
+   "kw2": [
+    "ngồi sau xe máy cầm đồ trên tay",
+    "người ngồi sau ôm túi trước ngực",
+    "đồ để trên đùi khi đi xe máy hai người"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "cặp đôi, bạn bè đi chung xe và người ngồi sau mang theo túi hoặc hộp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-020",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở dưa hấu, mít và sầu riêng bằng xe máy: túi lưới, gai nhọn và mùi bám xe",
+   "intent": "Biết cách chở trái cây to, nặng và có gai hoặc nặng mùi như dưa hấu, mít, sầu riêng bằng xe máy: túi lưới, lớp lót chống lăn, vị trí đặt và cách hạn chế mùi bám lên yên, cốp.",
+   "kw": "chở dưa hấu mít bằng xe máy",
+   "kw2": [
+    "chở sầu riêng bằng xe máy",
+    "chở trái cây to nặng bằng xe máy",
+    "túi lưới chở dưa hấu trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người mua trái cây theo mùa ở chợ, vựa hoa quả",
+   "location_scope": "Hà Nội: chợ và vựa trái cây",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-021",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở can dầu ăn, nước mắm và chất lỏng sánh bằng xe máy: chống rò, chống tràn",
+   "intent": "Biết cách chở can dầu ăn, chai nước mắm, hũ nước sốt và các chất lỏng sánh mua số lượng lớn bằng xe máy: siết nắp, bọc túi hai lớp, chọn chỗ đặt thấp để không rò lên yên, không làm trơn sàn để chân.",
+   "kw": "chở can dầu ăn bằng xe máy",
+   "kw2": [
+    "chở nước mắm bằng xe máy",
+    "chống rò chất lỏng khi chở bằng xe máy",
+    "dầu ăn chảy lên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người mua dầu ăn, nước mắm, gia vị số lượng lớn về nhà",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R17-022",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Dọn xe sau khi chở đồ bẩn, đồ ướt hay đồ nặng mùi: yên, cốp và sàn để chân",
+   "intent": "Biết cách dọn xe máy sau khi chở thực phẩm, sơn, đồ ướt hay đồ nặng mùi: lau yên, cốp, sàn để chân thế nào, khử mùi bằng gì, tránh hóa chất làm hại nhựa và sơn xe, để trả xe sạch gọn.",
+   "kw": "vệ sinh xe máy sau khi chở đồ",
+   "kw2": [
+    "khử mùi yên xe máy sau khi chở hàng",
+    "lau vết dầu ăn trên xe máy",
+    "vệ sinh cốp xe ga sau khi chở đồ"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R17",
+   "audience": "người thuê xe máy vừa chở thực phẩm, sơn hoặc đồ ướt và muốn trả xe sạch gọn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

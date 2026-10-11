@@ -1,0 +1,66 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R11: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R11-017",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi Tây Thiên, Vĩnh Phúc: đường đi và canh giờ về",
+   "intent": "Lên kế hoạch một ngày dùng xe thuê từ Hà Nội lên khu Tây Thiên (Tam Đảo, Vĩnh Phúc), chọn giờ xuất phát, nhịp nghỉ và giờ về để kịp trả xe.",
+   "kw": "thuê xe máy một ngày đi tây thiên",
+   "kw2": [
+    "hà nội đi tây thiên bằng xe máy",
+    "thiền viện trúc lâm tây thiên thác bạc"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R11",
+   "audience": "người đi lễ, thăm cảnh Tây Thiên trong ngày",
+   "location_scope": "Hà Nội – Tây Thiên, Tam Đảo, Vĩnh Phúc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R11-018",
+   "child_id": "C-THUE-NGAY",
+   "title": "Mỗi tháng chỉ cần xe vài ngày: thuê ngày lẻ hay thuê trọn tháng",
+   "intent": "Tính số ngày dùng xe mỗi tháng mà thuê ngày lẻ còn rẻ hơn gói tháng theo bảng giá của cửa hàng và biết khi nào nên chuyển sang gói tháng.",
+   "kw": "chỉ cần xe máy vài ngày mỗi tháng",
+   "kw2": [
+    "thuê xe máy ngày lẻ hay thuê tháng",
+    "bao nhiêu ngày thì nên thuê tháng"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R11",
+   "audience": "người không có xe riêng, chỉ cần xe vài ngày mỗi tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R11-019",
+   "child_id": "C-THUE-NGAY",
+   "title": "Chuyến đi Hà Nội 3–4 ngày: chỉ thuê xe máy đúng một ngày thì chọn ngày nào",
+   "intent": "Chọn ngày hợp lý nhất để thuê xe một ngày giữa chuyến Hà Nội 3–4 ngày, các ngày còn lại đi bộ, taxi hoặc xe buýt, theo địa điểm, thời tiết và sức khỏe.",
+   "kw": "thuê xe máy một ngày giữa chuyến đi",
+   "kw2": [
+    "chỉ thuê xe máy một ngày khi du lịch hà nội",
+    "ngày nào trong chuyến đi nên thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R11",
+   "audience": "du khách ở Hà Nội 3–4 ngày, chỉ muốn thuê xe một ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

@@ -1,0 +1,332 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R15: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R15-001",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Nhược điểm của Honda Air Blade khi thuê: nên biết trước khi chọn xe",
+   "intent": "Biết những điểm bất tiện có thật của Air Blade khi thuê (ví dụ cốp, kích thước thân xe, độ nhạy ga, mức giá nhỉnh hơn xe ga nhỏ) để tự quyết nên chọn Air Blade hay chuyển sang dòng khác.",
+   "kw": "nhược điểm Honda Air Blade khi thuê",
+   "kw2": [
+    "Air Blade có nhược điểm gì",
+    "Air Blade không hợp với ai"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người đang cân nhắc thuê Air Blade và muốn nghe cả mặt chưa tốt trước khi quyết",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-002",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Thuê Air Blade ngày 200.000đ, tuần 800.000đ hay tháng 1.400.000đ: chọn gói nào",
+   "intent": "Tự tính được thuê Air Blade bao nhiêu ngày thì nên chuyển sang gói tuần và bao lâu thì nên lấy gói tháng, dựa trên các mức 200.000đ/ngày, 800.000đ/tuần, 1.400.000đ/tháng.",
+   "kw": "giá thuê Air Blade ngày tuần tháng",
+   "kw2": [
+    "thuê Air Blade theo tuần",
+    "thuê Air Blade theo tháng"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người ở Hà Nội từ vài ngày đến vài tuần đang tính ngân sách đi lại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-003",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Air Blade hay Honda Click khi thuê: 50.000đ mỗi ngày mua thêm được gì",
+   "intent": "Cân nhắc có đáng trả thêm 50.000đ mỗi ngày để lấy Air Blade thay cho Honda Click hay không, so qua cảm giác ga, thân xe, độ dễ lái và kiểu lịch trình của từng người.",
+   "kw": "thuê Air Blade hay Click",
+   "kw2": [
+    "Air Blade và Honda Click khác nhau",
+    "chênh giá Air Blade Click"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "khách phân vân giữa hai dòng xe ga ở hai mức giá thuê ngày khác nhau",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-004",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Honda Air Blade cho người thấp: kiểm tra yên, chân chạm đất và cách dừng xe",
+   "intent": "Biết cách tự kiểm tra trước khi nhận xe xem Air Blade có vừa chân mình không: ngồi thử, chân chạm đất bằng mũi hay cả bàn chân, và cách dừng, chống, dắt xe khi chân ngắn.",
+   "kw": "Air Blade cho người thấp",
+   "kw2": [
+    "Air Blade chân có chạm đất không",
+    "người thấp thuê xe ga nào"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người nhỏ người, chân ngắn, nhất là nữ lần đầu cầm Air Blade",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-005",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Người cao thuê Honda Air Blade: gối, tay lái và tư thế ngồi cho đỡ mỏi",
+   "intent": "Biết người cao ngồi Air Blade có thoải mái không, cách chỉnh tư thế, gương và vị trí chân để gối không vướng tay lái và lưng không mỏi sau vài giờ chạy.",
+   "kw": "người cao thuê Air Blade",
+   "kw2": [
+    "Air Blade cho người cao to",
+    "Air Blade có chật chân không"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người cao trên khoảng 1m75 hoặc người to con",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-006",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Cốp Honda Air Blade thuê chứa được gì và đồ nào nên để chỗ khác",
+   "intent": "Biết cốp Air Blade đủ chứa món nào trong một ngày đi (áo mưa, đồ cá nhân, vật nhỏ) và món nào nên đeo theo người hoặc để lại nơi ở thay vì ép vào cốp.",
+   "kw": "cốp Honda Air Blade chứa gì",
+   "kw2": [
+    "cốp Air Blade có rộng không",
+    "để đồ khi đi Air Blade"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "khách thuê Air Blade đi cả ngày cần mang áo mưa, nước và đồ cá nhân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-007",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Chở người ngồi sau bằng Honda Air Blade: xuất phát và phanh sao cho êm",
+   "intent": "Biết cách vặn ga và bóp phanh êm khi chở người ngồi sau bằng Air Blade có ga nhạy, để người sau không bị giật ngả, cùng cách dặn người ngồi sau ngồi và bám đúng.",
+   "kw": "Air Blade chở người ngồi sau",
+   "kw2": [
+    "chở người sau xe ga êm",
+    "xuất phát nhẹ khi chở hai người"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người lần đầu chở bạn hoặc người thân bằng xe ga có ga nhạy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-008",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Air Blade chở hai người leo dốc dài Tam Đảo, Ba Vì: giữ ga đều và nghỉ máy",
+   "intent": "Biết cách giữ ga đều, chọn nhịp chạy và điểm nghỉ khi Air Blade chở hai người leo dốc dài như đường lên Tam Đảo hoặc Ba Vì, để máy và phanh không bị quá tải.",
+   "kw": "Air Blade leo dốc chở hai người",
+   "kw2": [
+    "xe ga leo dốc Tam Đảo",
+    "xe ga lên Ba Vì"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "cặp đôi hoặc hai người bạn đi đèo ngoại thành bằng xe ga",
+   "location_scope": "Đường lên Tam Đảo và Ba Vì từ Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-009",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Vượt xe tải, xe khách bằng Honda Air Blade: khi nào vượt, khi nào thôi",
+   "intent": "Biết cách đánh giá khoảng trống, tầm nhìn và nhịp ga khi dùng sức bứt của Air Blade để vượt xe tải, xe khách trên quốc lộ, và nhận ra tình huống phải bỏ ý định vượt.",
+   "kw": "Air Blade vượt xe tải xe khách",
+   "kw2": [
+    "vượt xe tải bằng xe ga",
+    "ga nhạy khi vượt xe lớn"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người đi Air Blade ra quốc lộ ngoại thành, hay gặp xe tải và xe khách",
+   "location_scope": "Quốc lộ ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-010",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Air Blade ga mạnh có hao xăng hơn Vision không: cách chạy để đỡ tốn",
+   "intent": "Hiểu mức hao xăng của Air Blade so với Vision phụ thuộc vào thói quen vặn ga, tải trọng và kẹt xe ra sao, và cách tự theo dõi, chạy đều ga để chi phí xăng cả kỳ thuê không vọt lên.",
+   "kw": "Air Blade hao xăng hơn Vision",
+   "kw2": [
+    "Air Blade có tốn xăng không",
+    "chạy Air Blade tiết kiệm xăng"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người thuê theo tuần hoặc tháng quan tâm chi phí xăng hằng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-011",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Air Blade ga nhạy trên đường ướt: vặn ga và bóp phanh thế nào khi mưa phùn",
+   "intent": "Biết cách vặn ga nhỏ, bóp phanh trước nhẹ và phanh sớm trên mặt đường ướt, vạch sơn, nắp cống khi mưa phùn hoặc mưa rào ở Hà Nội với xe ga có ga nhạy và phanh đĩa trước.",
+   "kw": "Air Blade chạy đường ướt",
+   "kw2": [
+    "xe ga trơn trượt khi mưa",
+    "phanh xe ga đường ướt"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "khách thuê Air Blade gặp mưa phùn hoặc mưa rào giữa phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-012",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Honda Air Blade có chui được ngõ nhỏ phố cổ không: thân xe, tay lái, đỗ xe",
+   "intent": "Quyết định có nên chọn Air Blade nếu lịch trình có nhiều ngõ nhỏ và phố cổ, xét bề ngang tay lái, thân xe dài, chỗ quay đầu và chỗ đỗ so với xe ga nhỏ.",
+   "kw": "Air Blade đi ngõ nhỏ phố cổ",
+   "kw2": [
+    "Air Blade có to quá cho phố cổ không",
+    "xe ga thể thao đi ngõ hẹp"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "khách chủ yếu đi quanh phố cổ và các ngõ hẹp, đang phân vân dòng xe",
+   "location_scope": "Phố cổ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-013",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Tập làm quen Honda Air Blade trong 30 phút ở chỗ vắng trước khi ra phố đông",
+   "intent": "Có một bài tập 30 phút theo từng bước (khởi hành, phanh, rẽ, chạy chậm, quay đầu) để làm quen ga và phanh Air Blade ở chỗ vắng trước khi hòa vào phố đông.",
+   "kw": "tập làm quen Air Blade chỗ vắng",
+   "kw2": [
+    "làm quen xe ga mới nhận",
+    "bài tập chạy xe ga cho người mới"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người mới nhận Air Blade, ít quen xe ga mạnh, muốn làm quen từng bước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-014",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Phanh đĩa trước của Honda Air Blade: bóp phanh sao cho không chúi đầu",
+   "intent": "Hiểu phanh đĩa trước của Air Blade ăn mạnh hơn phanh tang trống, nên cần bóp phanh trước và phanh sau theo thứ tự, lực nào để xe không bị chúi hoặc trượt bánh, nhất là với người quen phanh cơ.",
+   "kw": "phanh đĩa trước Air Blade",
+   "kw2": [
+    "bóp phanh trước xe ga",
+    "Air Blade phanh gấp bị chúi"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người quen xe phanh tang trống lần đầu cầm xe có phanh đĩa trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-015",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Hai người thay phiên lái một chiếc Air Blade trên chuyến dài: đổi lái thế nào",
+   "intent": "Biết cách hai người lần lượt cầm lái một chiếc Air Blade trong chuyến dài: chọn điểm đổi lái, chỉnh gương và tư thế cho người kia, phân chia đoạn nghỉ và đồ đạc để đổi lái nhanh mà vẫn an toàn.",
+   "kw": "thay phiên lái Air Blade đường dài",
+   "kw2": [
+    "hai người đổi lái xe máy",
+    "đổi người lái giữa chuyến đi"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "cặp đôi hoặc hai bạn cùng biết lái đi chung một chiếc xe trong chuyến dài",
+   "location_scope": "Đường dài từ Hà Nội ra ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-016",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Thuê Honda Air Blade một tuần để thử trước khi mua: nên để ý gì",
+   "intent": "Biết cách dùng một tuần thuê Air Blade như một bài thử trước khi mua: ghi lại cảm giác ga, tư thế ngồi, chi phí xăng, độ tiện cốp và đường quen thuộc để quyết định có chọn dòng xe này không.",
+   "kw": "thuê Air Blade thử trước khi mua",
+   "kw2": [
+    "chạy thử Air Blade một tuần",
+    "có nên mua Air Blade không"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người đang cân nhắc mua Air Blade và muốn trải nghiệm thật trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R15-017",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Quen xe số lần đầu cầm Honda Air Blade: phanh sau ở tay trái, không còn cần số",
+   "intent": "Hiểu những thói quen của người quen xe số phải đổi khi cầm Air Blade lần đầu: không còn cần số và ly hợp, phanh sau chuyển lên tay trái, ga nhạy khi vặn, cách khởi hành và dừng xe.",
+   "kw": "từ xe số sang Air Blade",
+   "kw2": [
+    "người quen xe số đi xe ga",
+    "đổi từ Wave sang xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R15",
+   "audience": "người quen xe số (Wave, Dream) lần đầu thuê xe tay ga",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
