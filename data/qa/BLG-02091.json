@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-02091",
   "title": "Đi xe máy trong sương mù sáng sớm trên vành đai",
-  "scored_at": "2026-10-11T06:30:32+00:00",
+  "scored_at": "2026-10-11T06:39:51+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": false,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "duplicate_title": true,
@@ -34,9 +34,7 @@
   },
   "word_count": 1288,
   "word_target": 1200,
-  "bad_routes": [
-    "/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "duplicate_title_clash": [],
   "duplicate_slug_clash": [],
@@ -47,10 +45,11 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
-  "source_path": "_drafts/2026-10-11-i-xe-may-trong-suong-mu-sang-som-tren-vanh-ai.md",
-  "content_sha256": "49998de7dbd20865cf821eb436d0deda084b9c7c22d92bbaf77337f445382c45",
-  "matrix_row_sha256": "8099ddef8139c5f68ad8b1f83903244ac1cfa6761e9e59fc857f160b2a5d8afc",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "critical_failure": false,
+  "source_path": "_posts/2026-10-11-i-xe-may-trong-suong-mu-sang-som-tren-vanh-ai.md",
+  "content_sha256": "9b3791caf4e6e12fe30e772bb9e2157be6cd8c6a829849a0349083370063a5ca",
+  "matrix_row_sha256": "de58663af57a4462c3cb5fd973207173028ea69d334fdba482012aad343c7d67",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-11T06:39:53+00:00"
 }

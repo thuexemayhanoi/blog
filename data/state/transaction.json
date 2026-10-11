@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T06:22:20+00:00",
+  "updated_at": "2026-10-11T06:39:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02065",
-      "started_at": "2026-10-11T06:01:35+00:00",
-      "source": "_drafts/2026-10-11-xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te.md",
-      "destination": "_posts/2026-10-11-xe-50cc-co-chay-uong-truong-on-khong-gioi-han-toc-o-thuc-te.md",
-      "result": "PUBLISHED",
-      "commit_sha": "fd8b3d2ddb247522e05b502ae7bde4c73659c2e3",
-      "finished_at": "2026-10-11T06:01:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02066",
       "started_at": "2026-10-11T06:01:35+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "8fc279c1b2526d21583b455f451cedde141ed9ed",
       "finished_at": "2026-10-11T06:22:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02091",
+      "started_at": "2026-10-11T06:39:53+00:00",
+      "source": "_drafts/2026-10-11-i-xe-may-trong-suong-mu-sang-som-tren-vanh-ai.md",
+      "destination": "_posts/2026-10-11-i-xe-may-trong-suong-mu-sang-som-tren-vanh-ai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "7be87fa46007ad247d7dedbcfb118251abbccac1",
+      "finished_at": "2026-10-11T06:39:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
