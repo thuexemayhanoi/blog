@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T06:39:53+00:00",
+  "updated_at": "2026-10-11T07:36:32+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02066",
-      "started_at": "2026-10-11T06:01:35+00:00",
-      "source": "_drafts/2026-10-11-sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac.md",
-      "destination": "_posts/2026-10-11-sac-xe-may-ien-thue-o-ha-noi-tram-oi-pin-va-o-sac.md",
-      "result": "PUBLISHED",
-      "commit_sha": "fd8b3d2ddb247522e05b502ae7bde4c73659c2e3",
-      "finished_at": "2026-10-11T06:01:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02068",
       "started_at": "2026-10-11T06:01:40+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "7be87fa46007ad247d7dedbcfb118251abbccac1",
       "finished_at": "2026-10-11T06:39:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02092",
+      "started_at": "2026-10-11T07:36:32+00:00",
+      "source": "_drafts/2026-10-11-nang-chieu-choi-mat-huong-tay-giu-tam-nhin-khi-lai.md",
+      "destination": "_posts/2026-10-11-nang-chieu-choi-mat-huong-tay-giu-tam-nhin-khi-lai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "feb003a60f9a4e7aee095d603b46067c544ea87d",
+      "finished_at": "2026-10-11T07:36:32+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null

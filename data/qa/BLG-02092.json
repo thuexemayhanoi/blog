@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-02092",
   "title": "Nắng chiều chói mặt hướng tây: giữ tầm nhìn khi lái",
-  "scored_at": "2026-10-11T06:30:32+00:00",
+  "scored_at": "2026-10-11T07:36:30+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1271,
+  "word_count": 1311,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -46,9 +46,10 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-11-nang-chieu-choi-mat-huong-tay-giu-tam-nhin-khi-lai.md",
-  "content_sha256": "c852f6a43df2304ea5c6c025c8c26533126f8abd6e1b4ae184aa420dd59fb85f",
-  "matrix_row_sha256": "42e0f2b212b517d62be08cd635027195e0eb5856205474f2d9a4bf47897d0025",
+  "source_path": "_posts/2026-10-11-nang-chieu-choi-mat-huong-tay-giu-tam-nhin-khi-lai.md",
+  "content_sha256": "5dc0619840e752971b2a35035eca72f557df1f076a22fcbe31599def9b82ce3e",
+  "matrix_row_sha256": "db664a36a37a6a8aa406c81bdc7591daef996c86139c3215861feb8b072b5dad",
   "result": "PASS",
-  "grade": "EXCELLENT"
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-11T07:36:32+00:00"
 }
