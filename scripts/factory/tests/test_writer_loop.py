@@ -59,7 +59,9 @@ def write_json(fx, rel, obj):
 class WriterLoopTestCase(unittest.TestCase):
     """Sao chép repository thật vào thư mục tạm cho MỖI test — mọi
     mutation xảy ra trên bản sao riêng. Fixture hermetic: registry lease
-    reset về rỗng (repo thật có thể đang giữ lease thật)."""
+    reset về rỗng (repo thật có thể đang giữ lease thật) và `_drafts/` chỉ
+    còn template (writer thật đang xếp draft vào đó; CI chạy trên merge-ref
+    với main hiện tại nên hàng PLANNED đầu tiên có thể ĐÃ có draft)."""
 
     def setUp(self):
         base = tempfile.mkdtemp(prefix='writer-loop-')
@@ -67,6 +69,10 @@ class WriterLoopTestCase(unittest.TestCase):
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
         write_json(self.fx, 'data/state/writer-claims.json',
                    {'schema_version': '1', 'updated_at': None, 'leases': {}})
+        drafts = os.path.join(self.fx, '_drafts')
+        for fn in os.listdir(drafts):
+            if fn.endswith('.md') and 'mau-nhap-bai-moi' not in fn:
+                os.remove(os.path.join(drafts, fn))
         self.addCleanup(shutil.rmtree, base, ignore_errors=True)
 
     def loop(self, *args):
