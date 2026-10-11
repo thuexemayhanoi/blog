@@ -1,0 +1,446 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R10: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R10-001",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Người dưới 1m55 nên thuê xe máy nào để chân chạm đất vững",
+   "intent": "Biết người cao dưới khoảng 1m55 nên chọn xe thuê nào và thử yên, chân chống, độ nặng khi dắt ra sao để đứng vững, không phải nhón chân.",
+   "kw": "người thấp nên thuê xe máy nào",
+   "kw2": [
+    "xe máy cho người thấp nhỏ con",
+    "xe máy yên thấp dễ dắt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người cao dưới khoảng 1m55, nhỏ con, ngại xe nặng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-002",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Mặc váy hoặc áo dài đi xe máy: nên thuê xe ga hay xe số",
+   "intent": "Chọn được kiểu xe thuê dễ lên xuống, không vướng và giữ gọn trang phục khi phải mặc váy, áo dài hoặc đồ công sở.",
+   "kw": "mặc váy đi xe máy nên thuê xe nào",
+   "kw2": [
+    "mặc áo dài đi xe máy thuê",
+    "xe ga hay xe số khi mặc váy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "phụ nữ mặc váy, áo dài hoặc đồ công sở khi đi xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-003",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Chở con nhỏ bằng xe máy thuê: chọn xe ga hay xe số cho đỡ lo",
+   "intent": "Biết những đặc điểm cần xét khi chọn xe thuê để chở con nhỏ: yên sau, chỗ để chân, tay nắm, độ vững khi dừng và khi dắt xe.",
+   "kw": "thuê xe máy chở con nhỏ",
+   "kw2": [
+    "xe ga hay xe số chở trẻ nhỏ",
+    "chọn xe máy đưa đón con"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "bố mẹ thuê xe để đưa đón hoặc chở con nhỏ đi chơi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-004",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Chở bố mẹ lớn tuổi ngồi sau: nên thuê xe máy nào cho êm và dễ lên xuống",
+   "intent": "Chọn xe thuê để người lớn tuổi ngồi sau thoải mái: độ cao yên, tay vịn, độ êm, cách lên xuống và nhịp đi.",
+   "kw": "chở người lớn tuổi xe máy thuê",
+   "kw2": [
+    "chọn xe máy chở ông bà ngồi sau",
+    "yên sau êm tay vịn dễ lên xuống"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "con cháu chở bố mẹ hoặc ông bà lớn tuổi ngồi sau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-005",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Lâu không chạy xe hoặc từng bị ngã: thuê xe nào để lấy lại tự tin",
+   "intent": "Chọn xe thuê dễ làm quen và các bước tập nhẹ cho người lâu không chạy xe hoặc từng bị ngã, để lấy lại tay lái mà không hoảng.",
+   "kw": "sợ đi xe máy nên thuê xe nào",
+   "kw2": [
+    "lâu không đi xe máy nên thuê xe nào",
+    "lấy lại tự tin khi chạy xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người lâu không chạy xe máy hoặc từng bị ngã xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-006",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Quen lái ô tô, lần đầu thuê xe máy ở Hà Nội nên chọn xe nào",
+   "intent": "Hiểu thói quen lái ô tô nào phải bỏ và chọn được xe thuê dễ làm quen nhất khi lần đầu chạy xe hai bánh giữa phố Hà Nội.",
+   "kw": "quen lái ô tô thuê xe máy",
+   "kw2": [
+    "người lái ô tô chuyển sang xe máy",
+    "xe máy dễ làm quen cho tài xế ô tô"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người quen lái ô tô, ít hoặc chưa đi xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-007",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Khách nước ngoài lần đầu chạy xe máy ở Hà Nội nên chọn xe nào",
+   "intent": "Chọn dòng xe thuê dễ chạy cho du khách nước ngoài lần đầu lái xe máy giữa mật độ giao thông và thói quen đường phố Hà Nội.",
+   "kw": "khách nước ngoài thuê xe máy loại nào",
+   "kw2": [
+    "du khách lần đầu chạy xe máy hà nội",
+    "xe ga hay xe số cho người nước ngoài"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "du khách nước ngoài lần đầu chạy xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-008",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Ở homestay trong ngõ nhỏ phố cổ: nên thuê xe máy nào cho dễ dắt vào nhà",
+   "intent": "Chọn xe thuê nhỏ gọn, dễ dắt qua ngõ hẹp, bậc thềm và cửa nhà khi ở homestay hoặc nhà nghỉ trong khu phố cổ.",
+   "kw": "thuê xe máy ở ngõ nhỏ phố cổ",
+   "kw2": [
+    "xe máy dễ dắt qua ngõ hẹp",
+    "xe nhỏ gọn cho homestay phố cổ"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "khách ở homestay, nhà nghỉ trong ngõ nhỏ khu phố cổ",
+   "location_scope": "khu phố cổ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-009",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Thuê xe máy vào mùa đông Hà Nội: xe ga hay xe số đỡ lạnh hơn",
+   "intent": "Biết kiểu xe thuê nào chắn gió, dễ thao tác khi mặc nhiều lớp áo và hợp với hành trình trong mùa rét.",
+   "kw": "thuê xe máy mùa đông hà nội",
+   "kw2": [
+    "xe ga chắn gió khi trời lạnh",
+    "chọn xe máy đi ngày rét"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người thuê xe máy trong mùa đông Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-010",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Đường đê, đường làng nhiều ổ gà: xe số hay xe ga chạy êm hơn",
+   "intent": "So sánh bánh xe, giảm xóc và tư thế ngồi của xe số với xe ga để chọn xe êm hơn khi đi đường đê, đường làng ngoại thành.",
+   "kw": "xe số hay xe ga đường xấu",
+   "kw2": [
+    "xe máy đi đường nhiều ổ gà",
+    "chọn xe đi đường đê đường làng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người sắp chạy qua đường đê và đường làng ngoại thành",
+   "location_scope": "đường đê sông Hồng, đường làng ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-011",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Cùng 150.000đ một ngày: nên thuê Wave, Click hay Mio",
+   "intent": "Chọn giữa Honda Wave, Honda Click và Yamaha Mio cùng mức giá 150.000đ/ngày dựa trên kiểu đi, người ngồi sau và hành lý.",
+   "kw": "thuê wave click hay mio",
+   "kw2": [
+    "wave click mio nên chọn xe nào",
+    "xe máy 150.000đ một ngày"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người cân nhắc ba dòng xe cùng giá ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-012",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Hai người đi chơi: thuê một xe chung hay hai xe riêng cho thoải mái",
+   "intent": "Cân nhắc chi phí theo bảng giá ngày đã duyệt và độ thoải mái để quyết định hai người đi chung một xe hay thuê hai xe riêng.",
+   "kw": "hai người thuê một xe hay hai xe",
+   "kw2": [
+    "thuê hai xe máy hay một xe",
+    "hai người đi chung một xe cả ngày"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "hai người bạn hoặc cặp đôi cùng đi chơi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-013",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Nhóm bạn có người mới, người quen lái: ghép xe số và xe ga thế nào",
+   "intent": "Phân bổ dòng xe thuê trong nhóm có người mới và người quen lái để cả nhóm đi cùng nhịp, người mới không bị áp lực.",
+   "kw": "nhóm bạn thuê xe máy trình độ khác nhau",
+   "kw2": [
+    "chọn xe cho nhóm đi cùng nhau",
+    "nhóm thuê nhiều xe máy loại nào"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "nhóm bạn 3–4 người có trình độ lái khác nhau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-014",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Ngồi thử và dắt thử trước khi chốt: xe thuê có vừa người không",
+   "intent": "Làm được vài phép thử nhanh tại cửa hàng (ngồi, chạm chân, dắt, bẻ tay lái, dựng chân chống) để biết xe có vừa người trước khi chốt.",
+   "kw": "thử xe trước khi thuê có vừa người",
+   "kw2": [
+    "ngồi thử xe máy trước khi thuê",
+    "kiểm tra xe có vừa chiều cao"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người sắp chốt xe thuê, chưa chắc xe có vừa người",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-015",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Chỉ mang dép hoặc sandal: nên thuê xe ga hay xe số cho an toàn",
+   "intent": "Hiểu vì sao giày dép ảnh hưởng đến việc gạt số và chọn xe ga hay xe số hợp hơn khi chỉ có dép hoặc sandal.",
+   "kw": "đi dép lê thuê xe máy loại nào",
+   "kw2": [
+    "đi sandal lái xe số",
+    "giày dép khi thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "du khách và người đi chơi chỉ mang dép hoặc sandal",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-016",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Wave, Vision, Air Blade, Click, Mio: dòng xe nào hợp với ai",
+   "intent": "Nắm nhanh đặc điểm và người dùng phù hợp của năm dòng xe thuê phổ biến để biết nên hỏi dòng nào khi đặt xe.",
+   "kw": "các dòng xe máy cho thuê ở hà nội",
+   "kw2": [
+    "wave vision air blade click mio",
+    "xe máy cho thuê loại nào hợp với mình"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người mới đặt xe, chưa biết các dòng xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-017",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Đặt trước một dòng xe nhưng chỉ còn dòng khác: nhận hay đổi lịch",
+   "intent": "Quyết định có nên nhận dòng xe khác khi dòng đã đặt không còn, dựa trên nhu cầu thật và những câu cần hỏi lại cửa hàng.",
+   "kw": "đặt xe máy nhưng chỉ còn dòng khác",
+   "kw2": [
+    "xe đặt trước không còn",
+    "đổi dòng xe khi nhận xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người đã đặt xe, đang cân nhắc dòng thay thế",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-018",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Phanh đĩa hay phanh cơ: người mới nên ưu tiên gì khi chọn xe thuê",
+   "intent": "Hiểu khác biệt giữa phanh đĩa và phanh cơ để hỏi đúng cửa hàng và chọn xe thuê có kiểu phanh hợp với người mới.",
+   "kw": "xe thuê phanh đĩa hay phanh cơ",
+   "kw2": [
+    "phanh đĩa và phanh cơ khác nhau thế nào",
+    "xe máy có phanh đĩa cho người mới"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người mới chọn xe thuê, quan tâm đến phanh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-019",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Xe 110cc hay 125cc khi thuê: chở hai người qua cầu vượt có đủ sức không",
+   "intent": "Hiểu phân khối ảnh hưởng thế nào đến sức kéo, tiêu hao xăng và cảm giác lái để chọn đủ dùng khi chở hai người qua cầu vượt, hầm chui ở Hà Nội.",
+   "kw": "thuê xe máy 110cc hay 125cc",
+   "kw2": [
+    "phân khối xe máy thuê",
+    "xe 110cc chở hai người leo dốc"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người cân nhắc phân khối xe thuê khi chở hai người trong phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-020",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Đi tỉnh xa: vì sao nên chọn dòng xe phổ thông dễ tìm thợ sửa",
+   "intent": "Biết vì sao dòng xe phổ biến dễ tìm thợ và phụ tùng hơn khi đi tỉnh, và cân nhắc điều đó cùng độ thoải mái khi chọn xe thuê.",
+   "kw": "chọn xe máy dễ tìm thợ sửa",
+   "kw2": [
+    "xe phổ thông đi tỉnh",
+    "xe máy hỏng vặt giữa đường tỉnh"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người thuê xe đi tỉnh xa, lo xe hỏng giữa đường",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-021",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Dấu hiệu xe thuê không hợp với bạn trong 30 phút đầu và cách xử lý",
+   "intent": "Nhận ra sớm những dấu hiệu xe thuê không vừa người (tê tay, ì ga, gò gối, khó dắt) và biết cách báo cửa hàng, xử lý ngay trong ngày đầu.",
+   "kw": "xe thuê không hợp với mình",
+   "kw2": [
+    "30 phút đầu thuê xe máy",
+    "xe máy thuê bị tê tay mỏi lưng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người vừa nhận xe thuê, thấy chưa thoải mái",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-022",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Người ngồi sau hay say xe: nên thuê xe ga hay xe số cho êm",
+   "intent": "Chọn xe thuê êm hơn khi người ngồi sau hay say xe: ảnh hưởng của giật số, phanh, độ êm yên và cách lái nhẹ tay.",
+   "kw": "người hay say xe nên thuê xe nào",
+   "kw2": [
+    "xe ga hay xe số êm cho người ngồi sau",
+    "chở người say xe bằng xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người chở bạn hoặc người thân hay say xe ngồi sau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R10-023",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Nhờ cửa hàng gợi ý xe giúp: nên mô tả nhu cầu của mình thế nào",
+   "intent": "Biết những thông tin cần cung cấp (chiều cao, cân nặng, số người, quãng đường, hành lý, kinh nghiệm lái) để cửa hàng gợi ý đúng xe thuê.",
+   "kw": "nhờ cửa hàng gợi ý xe máy thuê",
+   "kw2": [
+    "mô tả nhu cầu khi thuê xe máy",
+    "tin nhắn hỏi chọn xe máy thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-11-R10",
+   "audience": "người chưa biết chọn xe, định nhắn hoặc gọi hỏi cửa hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

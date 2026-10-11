@@ -1,0 +1,180 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R12: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R12-001",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thuê xe máy 9–10 ngày: ghép một tuần với ngày lẻ thế nào cho gọn",
+   "intent": "Biết cách ghép gói tuần với vài ngày lẻ khi cần xe 8–10 ngày và so với giá ngày đã duyệt để biết cách tính nào gọn hơn.",
+   "kw": "thuê xe máy 10 ngày",
+   "kw2": [
+    "thuê xe tuần cộng ngày lẻ",
+    "thuê xe máy hơn một tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người cần xe máy hơn một tuần một chút",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-002",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ở Hà Nội hai đến ba tuần: thuê theo tuần hay chuyển sang gói tháng",
+   "intent": "So sánh chi phí thuê 2–3 tuần tính theo giá tuần với gói tháng theo bảng giá đã duyệt để biết ngưỡng nào nên chuyển sang gói tháng.",
+   "kw": "thuê xe máy 3 tuần hay 1 tháng",
+   "kw2": [
+    "thuê xe máy 2 tuần",
+    "thuê xe máy ba tuần giá"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người ở Hà Nội 2–4 tuần: du khách dài ngày, người công tác, người mới chuyển đến",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-003",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần chuyển đến Hà Nội: thuê xe máy đi xem phòng trọ và chốt chỗ ở",
+   "intent": "Lập kế hoạch một tuần thuê xe để xem nhiều phòng trọ, đi phỏng vấn và làm thủ tục khi mới chuyển đến Hà Nội, rồi quyết định có thuê dài hạn không.",
+   "kw": "thuê xe máy một tuần xem phòng trọ",
+   "kw2": [
+    "đi xem phòng trọ nhiều nơi bằng xe máy",
+    "tuần đầu chuyển đến hà nội tìm nhà"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người mới chuyển đến Hà Nội đang tìm chỗ ở và việc làm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-004",
+   "child_id": "C-THUE-TUAN",
+   "title": "Người nhà chăm bệnh nhân ở Hà Nội một tuần: thuê xe máy đi giữa viện và chỗ trọ",
+   "intent": "Sắp xếp việc đi lại trong một tuần chăm người nhà điều trị ở Hà Nội: nhịp đi giữa bệnh viện, chỗ trọ, hiệu thuốc, chợ và giữ sức cho người chăm.",
+   "kw": "thuê xe máy cho người nhà bệnh nhân",
+   "kw2": [
+    "thuê xe máy khi chăm người nhà nằm viện",
+    "đi lại giữa bệnh viện và chỗ trọ"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người nhà từ tỉnh ở lại Hà Nội chăm bệnh nhân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-005",
+   "child_id": "C-THUE-TUAN",
+   "title": "Làm việc từ xa một tuần ở Hà Nội: thuê xe máy đi quán cà phê và nơi làm việc",
+   "intent": "Dùng xe thuê theo tuần cho người làm việc từ xa: chọn khu làm việc, mang laptop an toàn, giữ pin và tránh giờ cao điểm.",
+   "kw": "thuê xe máy làm việc từ xa ở hà nội",
+   "kw2": [
+    "người làm việc từ xa thuê xe máy một tuần",
+    "đi quán cà phê làm việc bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người làm việc từ xa hoặc vừa du lịch vừa làm việc ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-006",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần thuê xe máy: ngày nào nên để xe nghỉ và đi bằng cách khác",
+   "intent": "Đặt ra quy tắc chọn ngày để xe nghỉ trong tuần thuê (mưa lớn, quá mệt, có uống rượu bia, phố đi bộ đông) và phương án đi lại thay thế.",
+   "kw": "ngày nên để xe máy nghỉ khi thuê tuần",
+   "kw2": [
+    "lịch dự phòng ngày mưa khi thuê xe",
+    "đi lại khi không chạy xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người thuê xe tuần vào mùa mưa, mùa lạnh hoặc đi chơi nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-007",
+   "child_id": "C-THUE-TUAN",
+   "title": "Chia tiền thuê xe máy cả tuần cho nhóm bạn: ai trả gì, ghi sổ thế nào",
+   "intent": "Thống nhất cách chia tiền thuê xe, xăng, gửi xe giữa 2–3 người trong một tuần để không lúng túng hay phát sinh mâu thuẫn.",
+   "kw": "chia tiền thuê xe máy cả tuần",
+   "kw2": [
+    "chia chi phí thuê xe máy nhóm bạn",
+    "ghi sổ chi phí đi chung xe"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "2–3 người bạn chia chung chi phí xe trong một tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-008",
+   "child_id": "C-THUE-TUAN",
+   "title": "Đi tỉnh khác hai ngày bằng tàu hoặc xe khách giữa tuần thuê: xe máy để ở đâu",
+   "intent": "Quyết định làm gì với xe thuê khi giữa tuần đi 1–2 ngày bằng tàu hoặc xe khách: giữ ở đâu, hỏi cửa hàng gì và có nên đổi lịch thuê.",
+   "kw": "đi tỉnh khác giữa kỳ thuê xe tuần",
+   "kw2": [
+    "để xe thuê khi đi sapa bằng tàu",
+    "xe thuê nằm không giữa kỳ"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "du khách thuê xe tuần có chuyến đi 1–2 ngày bằng tàu hoặc xe khách",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R12-009",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ngân sách một tuần 600.000đ, 800.000đ hay 1 triệu: thuê được dòng xe nào",
+   "intent": "Chọn dòng xe theo ngân sách tuần cho sẵn dựa trên mức giá tuần đã duyệt (Click/Mio, Air Blade, Vision) và biết dòng nào chưa có giá tuần thì phải hỏi trực tiếp.",
+   "kw": "ngân sách thuê xe máy một tuần",
+   "kw2": [
+    "thuê xe máy một tuần 800.000đ",
+    "thuê xe máy tuần giá rẻ chọn dòng nào"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-11-R12",
+   "audience": "người có ngân sách tuần cố định, cần chọn dòng xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

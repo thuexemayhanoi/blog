@@ -1,0 +1,389 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R20: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R20-001",
+   "child_id": "C-LONG-BIEN",
+   "title": "AEON Mall Long Biên bằng xe máy: đường đi và vào hầm gửi xe",
+   "intent": "Biết đi từ nội đô hoặc từ khu Long Biên đến AEON Mall Long Biên bằng xe máy, vào hầm gửi xe lối nào và nên đi giờ nào cho đỡ đông.",
+   "kw": "AEON Mall Long Biên bằng xe máy",
+   "kw2": [
+    "gửi xe AEON Long Biên",
+    "đường đến AEON Mall Long Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách thuê xe muốn đi mua sắm, ăn uống, đưa gia đình đến trung tâm thương mại ở Long Biên",
+   "location_scope": "AEON Mall Long Biên, phố Cổ Linh, Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-002",
+   "child_id": "C-LONG-BIEN",
+   "title": "Vinhomes Ocean Park bằng xe máy từ Long Biên: đường vào và giờ nên đi",
+   "intent": "Biết đi từ Long Biên sang khu Vinhomes Ocean Park ở Gia Lâm bằng xe máy theo lối nào, giờ nào đường thoáng và đi dạo trong khu ra sao.",
+   "kw": "đi Vinhomes Ocean Park bằng xe máy",
+   "kw2": [
+    "Ocean Park Gia Lâm xe máy",
+    "từ Long Biên đi Ocean Park"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách muốn đi dạo hồ, công viên và ăn uống ở khu đô thị phía đông Hà Nội",
+   "location_scope": "Vinhomes Ocean Park, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-003",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đền Phù Đổng bằng xe máy từ Long Biên: đường đi và thời điểm nên đến",
+   "intent": "Biết đi từ Long Biên đến đền Phù Đổng (đền Thánh Gióng) ở Gia Lâm bằng xe máy, đường nào dễ đi, nên đến lúc nào và chuẩn bị gì cho chuyến đi nửa ngày.",
+   "kw": "đền Phù Đổng bằng xe máy",
+   "kw2": [
+    "đi đền Thánh Gióng Gia Lâm",
+    "từ Long Biên đến Phù Đổng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách thích di tích, lễ hội làng và muốn đi xa nội đô nửa ngày",
+   "location_scope": "Đền Phù Đổng, Phù Đổng, Gia Lâm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-004",
+   "child_id": "C-LONG-BIEN",
+   "title": "Làng dát vàng Kiêu Kỵ bằng xe máy: đường đi và những điểm nên ghé",
+   "intent": "Biết đi làng nghề dát vàng bạc quỳ Kiêu Kỵ ở Gia Lâm bằng xe máy thế nào, xem được gì ở làng và cách đi lại trong đường làng nhỏ.",
+   "kw": "làng dát vàng Kiêu Kỵ xe máy",
+   "kw2": [
+    "đi làng Kiêu Kỵ Gia Lâm",
+    "nghề dát vàng bạc quỳ Kiêu Kỵ"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách thích làng nghề thủ công, muốn xem nghề truyền thống ngoài nội đô",
+   "location_scope": "Làng Kiêu Kỵ, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-005",
+   "child_id": "C-LONG-BIEN",
+   "title": "Qua cầu Vĩnh Tuy bằng xe máy từ Long Biên sang Hai Bà Trưng",
+   "intent": "Biết cách đi từ khu Long Biên sang bờ tây sông Hồng qua cầu Vĩnh Tuy bằng xe máy: đường dẫn lên cầu, đoạn dễ nhầm và giờ nào chạy thoáng.",
+   "kw": "qua cầu Vĩnh Tuy bằng xe máy",
+   "kw2": [
+    "cầu Vĩnh Tuy Long Biên",
+    "đường lên cầu Vĩnh Tuy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "người ở Long Biên cần sang Hai Bà Trưng, nội thành phía nam mà muốn tránh cầu Long Biên",
+   "location_scope": "Cầu Vĩnh Tuy, Long Biên - Hai Bà Trưng, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-006",
+   "child_id": "C-LONG-BIEN",
+   "title": "Từ Long Biên sang nội đô: chọn cầu Long Biên, Chương Dương hay Vĩnh Tuy",
+   "intent": "So sánh ba cầu để chọn cầu nào theo điểm đến (phố cổ, Hồ Gươm, Hai Bà Trưng), theo giờ trong ngày và theo mức quen đường của người cầm lái.",
+   "kw": "cầu từ Long Biên vào nội đô",
+   "kw2": [
+    "cầu Long Biên hay cầu Chương Dương",
+    "đi cầu nào từ Long Biên vào phố cổ"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách ở Long Biên hoặc Gia Lâm cần sang nội đô hằng ngày và phân vân chọn cầu",
+   "location_scope": "Các cầu Long Biên, Chương Dương, Vĩnh Tuy, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-007",
+   "child_id": "C-LONG-BIEN",
+   "title": "Xuống xe khách ở bến xe Gia Lâm rồi đi tiếp bằng xe máy về nội đô",
+   "intent": "Biết người vừa xuống xe khách ở bến xe Gia Lâm nên đi những tuyến nào để về phố cổ hoặc các quận nội thành bằng xe máy, tránh nhầm hướng và giờ đông.",
+   "kw": "bến xe Gia Lâm về phố cổ",
+   "kw2": [
+    "bến xe Gia Lâm đi xe máy",
+    "đường từ bến xe Gia Lâm vào nội đô"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách vừa đến Hà Nội bằng xe khách từ các tỉnh phía đông và bắc",
+   "location_scope": "Bến xe Gia Lâm, Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-008",
+   "child_id": "C-LONG-BIEN",
+   "title": "Xuống tàu ở ga Gia Lâm: đi xe máy về phố cổ thế nào",
+   "intent": "Biết người xuống tàu ở ga Gia Lâm vào buổi sáng sớm hoặc đêm khuya nên đi xe máy theo đường nào về phố cổ, những đoạn dễ lạc và cách mang hành lý gọn.",
+   "kw": "ga Gia Lâm về phố cổ",
+   "kw2": [
+    "xuống tàu ga Gia Lâm",
+    "ga Gia Lâm vào trung tâm Hà Nội"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách đi tàu từ Hải Phòng và các tỉnh phía đông đến Hà Nội",
+   "location_scope": "Ga Gia Lâm, Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-009",
+   "child_id": "C-LONG-BIEN",
+   "title": "Cầu Long Biên ngày mưa: mặt cầu trơn, đường ray và cách chạy xe máy",
+   "intent": "Hiểu vì sao cầu Long Biên khó chạy hơn khi trời mưa hoặc sau mưa (mặt cầu, đường ray, tầm nhìn) và biết cách chạy hoặc nên chọn đường khác.",
+   "kw": "cầu Long Biên ngày mưa xe máy",
+   "kw2": [
+    "đi xe máy qua cầu Long Biên khi mưa",
+    "mặt cầu Long Biên trơn"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách đang ở Hà Nội gặp mưa giữa chuyến đi và phải qua cầu Long Biên",
+   "location_scope": "Cầu Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-010",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chạy xe máy cạnh xe tải và container ở Gia Lâm: vị trí an toàn và điểm mù",
+   "intent": "Biết cách chạy xe máy an toàn khi có nhiều xe tải, xe container ở khu Gia Lâm: đứng ở đâu so với xe lớn, điểm mù, bụi và khi nào nên chờ hoặc tránh.",
+   "kw": "xe máy cạnh xe tải Gia Lâm",
+   "kw2": [
+    "điểm mù xe container",
+    "xe máy đường 5 xe tải nhiều"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách thuê xe lần đầu chạy ra khu Gia Lâm, đường 5, nơi xe tải lớn đông",
+   "location_scope": "Gia Lâm, đường 5 và các trục lớn phía đông Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-011",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chở đồ gốm Bát Tràng về bằng xe máy: cách đóng gói và buộc đồ",
+   "intent": "Biết cách đóng gói, chằng buộc và chọn chỗ đặt đồ gốm sứ dễ vỡ mua ở Bát Tràng để chở về bằng xe máy mà không nứt vỡ, kể cả bình lớn.",
+   "kw": "chở gốm Bát Tràng bằng xe máy",
+   "kw2": [
+    "đóng gói đồ gốm đi xe máy",
+    "mua gốm Bát Tràng chở về"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách mua đồ gốm làm quà hoặc trang trí ở Bát Tràng rồi quay lại nội đô bằng xe máy",
+   "location_scope": "Làng gốm Bát Tràng, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-012",
+   "child_id": "C-LONG-BIEN",
+   "title": "Mua hoa quả ở chợ Long Biên rồi chở về bằng xe máy: xếp đồ cho gọn và an toàn",
+   "intent": "Biết cách xếp, buộc và cân đối hoa quả, rau mua ở chợ đầu mối Long Biên để chở về bằng xe máy, chọn móc treo và chỗ đặt phù hợp với từng loại xe.",
+   "kw": "chở hoa quả chợ Long Biên",
+   "kw2": [
+    "xếp đồ mua chợ lên xe máy",
+    "mua hoa quả chợ Long Biên về nhà"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách lưu trú dài ngày hoặc người ở Hà Nội mua hoa quả, rau số lượng lớn ở chợ đầu mối",
+   "location_scope": "Chợ Long Biên và đường về các quận nội thành, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-013",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đi làng nghề và đường làng Gia Lâm nên chọn Wave hay Vision",
+   "intent": "Chọn giữa xe số Wave và xe tay ga Vision cho chuyến đi đường làng, đường đê và ngõ nhỏ ở Gia Lâm: dễ lái, chở đồ, độ xóc và ăn xăng ra sao.",
+   "kw": "Wave hay Vision đi đường làng",
+   "kw2": [
+    "xe số hay xe tay ga đi đường làng",
+    "Wave hay Vision đi làng nghề"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách phân vân chọn xe số hoặc tay ga cho chuyến đi các làng nghề ngoại thành",
+   "location_scope": "Các làng nghề và đường đê Gia Lâm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-014",
+   "child_id": "C-LONG-BIEN",
+   "title": "Sáng mùa đông ở Long Biên: gió sông, sương mù và cách mặc khi đi xe máy",
+   "intent": "Biết vì sao sáng mùa đông ở Long Biên và ven sông Hồng lạnh hơn nội đô, cách mặc đủ ấm không vướng tay lái, xử lý sương mù và khi nào nên hoãn.",
+   "kw": "xe máy sáng mùa đông Long Biên",
+   "kw2": [
+    "gió lạnh ven sông Hồng",
+    "sương mù đi xe máy Hà Nội"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách đến Hà Nội mùa lạnh muốn đi chợ, ngắm cầu hoặc ăn sáng ở Long Biên bằng xe máy",
+   "location_scope": "Long Biên và ven sông Hồng, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-015",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đi xe máy ở Long Biên và Gia Lâm trưa hè nắng nóng: tránh nắng và chỗ nghỉ",
+   "intent": "Biết cách chia thời gian, chọn giờ khởi hành, nghỉ giữa chặng và giữ sức khi đi xe máy ở khu đê, làng nghề phía đông Hà Nội trong những ngày hè nắng gắt.",
+   "kw": "xe máy trưa hè nắng nóng",
+   "kw2": [
+    "tránh nắng khi đi xe máy",
+    "đi Gia Lâm mùa hè"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách đi Hà Nội vào mùa hè, sợ nắng và muốn đi các điểm ngoại thành",
+   "location_scope": "Long Biên - Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-016",
+   "child_id": "C-LONG-BIEN",
+   "title": "Người mới tập đi xe tay ga: khu Long Biên có đoạn nào dễ chạy",
+   "intent": "Biết khu Long Biên có những đoạn đường rộng, ít ngã tư nào phù hợp để người còn lạ tay làm quen xe tay ga, giờ nào chạy thoáng và đoạn nào nên tránh.",
+   "kw": "tập xe tay ga ở Long Biên",
+   "kw2": [
+    "đường rộng ít xe để tập xe máy",
+    "đi xe tay ga lần đầu ở Hà Nội"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "người mới quen xe tay ga, khách nước ngoài chưa chạy xe máy ở Hà Nội",
+   "location_scope": "Khu Long Biên, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-017",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đi nhóm 2-3 xe quanh Long Biên: giữ đội hình, chọn điểm hẹn và tránh lạc nhau",
+   "intent": "Biết cách đi nhóm bạn hai, ba xe qua cầu, đê và đường làng ở Long Biên: giữ khoảng cách, chọn điểm hẹn trước, chia sẻ vị trí và xử lý khi một xe bị lạc.",
+   "kw": "đi nhóm xe máy quanh Long Biên",
+   "kw2": [
+    "đi nhóm bạn bằng xe máy Hà Nội",
+    "tránh lạc nhau khi đi xe máy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "nhóm bạn hoặc gia đình đi 2-3 xe cùng nhau khám phá khu phía đông sông Hồng",
+   "location_scope": "Long Biên - Gia Lâm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-018",
+   "child_id": "C-LONG-BIEN",
+   "title": "Từ Long Biên đi Ecopark bằng xe máy: cung đường và cách tránh giờ đông",
+   "intent": "Biết đi từ Long Biên đến Ecopark (Văn Giang, Hưng Yên) bằng xe máy theo đường nào, mất khoảng bao lâu, tránh những đoạn đông xe tải và đi dạo trong khu thế nào.",
+   "kw": "Long Biên đi Ecopark bằng xe máy",
+   "kw2": [
+    "đường đi Ecopark từ Gia Lâm",
+    "Ecopark xe máy cuối tuần"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách muốn một buổi đi dạo, đạp xe, ăn uống ở khu đô thị xanh phía đông nam Hà Nội",
+   "location_scope": "Từ Long Biên - Gia Lâm (Hà Nội) tới Ecopark, Văn Giang, Hưng Yên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-019",
+   "child_id": "C-LONG-BIEN",
+   "title": "Từ Long Biên đi Đền Đô Bắc Ninh bằng xe máy: quãng đường và thời gian đi lại",
+   "intent": "Biết hành trình Long Biên đến Đền Đô (Đình Bảng, Từ Sơn, Bắc Ninh) bằng xe máy trong ngày: chọn đường, thời gian đi về, điểm dừng ăn nghỉ và lưu ý lúc về chiều.",
+   "kw": "Long Biên đi Đền Đô xe máy",
+   "kw2": [
+    "Đền Đô Bắc Ninh cách Hà Nội",
+    "đi Đình Bảng Từ Sơn xe máy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách thích di tích lịch sử, muốn đi một chuyến trong ngày sang Bắc Ninh",
+   "location_scope": "Từ Long Biên (Hà Nội) tới Đền Đô, Đình Bảng, Từ Sơn, Bắc Ninh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R20-020",
+   "child_id": "C-LONG-BIEN",
+   "title": "Lịch sử cầu Long Biên và những điểm nên dừng khi đi qua bằng xe máy",
+   "intent": "Hiểu câu chuyện lịch sử của cầu Long Biên (ai xây, xây khi nào, thời chiến ra sao) và biết những chỗ nên dừng an toàn để xem phần cầu, chân cầu và bãi sông khi đi xe máy.",
+   "kw": "lịch sử cầu Long Biên",
+   "kw2": [
+    "cầu Long Biên xây năm nào",
+    "chuyện về cầu Long Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R20",
+   "audience": "khách thích tìm hiểu lịch sử Hà Nội, muốn biết thêm trước khi đi qua cầu",
+   "location_scope": "Cầu Long Biên, Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

@@ -1,0 +1,486 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R19: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R19-001",
+   "child_id": "C-DIEM-DEN",
+   "title": "Thành Cổ Loa bằng xe máy từ nội thành: đường đi và nên ghé những điểm nào",
+   "intent": "Biết cách đi từ nội thành đến di tích Thành Cổ Loa ở Đông Anh bằng xe máy, đi đường nào, nên ghé đền Thục An Dương Vương, đình và các đoạn tường thành nào, dành bao lâu.",
+   "kw": "đi thành Cổ Loa bằng xe máy",
+   "kw2": [
+    "Cổ Loa Đông Anh đường đi",
+    "thăm Cổ Loa từ nội thành"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người thích lịch sử muốn đi một buổi ra ngoại thành phía Bắc",
+   "location_scope": "Thành Cổ Loa, Đông Anh, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-002",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Thầy và chùa Tây Phương trong một ngày bằng xe máy từ Hà Nội",
+   "intent": "Biết cách xếp một chuyến một ngày thăm chùa Thầy và chùa Tây Phương phía Tây Hà Nội bằng xe máy: thứ tự ghé, cung đường nối hai chùa, thời điểm đi, chỗ nghỉ giữa chặng.",
+   "kw": "chùa Thầy chùa Tây Phương một ngày",
+   "kw2": [
+    "đi chùa Thầy bằng xe máy",
+    "chùa Tây Phương từ Hà Nội xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người đi chơi cuối tuần thích di tích cổ và cảnh làng quê",
+   "location_scope": "Chùa Thầy (Quốc Oai) và chùa Tây Phương (Thạch Thất), Hà Nội",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-003",
+   "child_id": "C-DIEM-DEN",
+   "title": "Làng lụa Vạn Phúc bằng xe máy: đi dạo làng và chọn mua lụa",
+   "intent": "Biết cách đến làng lụa Vạn Phúc ở Hà Đông bằng xe máy, dạo qua các cửa hàng lụa, cách xem và hỏi mua lụa thật, kết hợp ghé thêm điểm nào gần đó trong buổi sáng hoặc chiều.",
+   "kw": "đi làng lụa Vạn Phúc xe máy",
+   "kw2": [
+    "làng lụa Vạn Phúc Hà Đông",
+    "mua lụa Vạn Phúc"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách và người địa phương thích làng nghề, muốn mua lụa làm quà",
+   "location_scope": "Làng lụa Vạn Phúc, Hà Đông, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-004",
+   "child_id": "C-DIEM-DEN",
+   "title": "Làng hoa Tây Tựu mùa loa kèn tháng Tư: đi xe máy buổi nào cho đẹp",
+   "intent": "Biết khi nào và buổi nào đến làng hoa Tây Tựu để thấy hoa loa kèn nở rộ, đường đi từ nội thành, cách dừng xe ven ngõ làng không cản đường dân, cách chụp ảnh gọn gàng.",
+   "kw": "làng hoa Tây Tựu hoa loa kèn",
+   "kw2": [
+    "Tây Tựu mùa loa kèn tháng 4",
+    "đi Tây Tựu chụp ảnh hoa xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người thích chụp ảnh hoa và dạo làng hoa ngoại thành",
+   "location_scope": "Làng hoa Tây Tựu, Bắc Từ Liêm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-005",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đi Sóc Sơn bằng xe máy: núi Hàm Lợn, hồ Đồng Quan và đền Sóc",
+   "intent": "Biết cách lên kế hoạch một ngày đến Sóc Sơn bằng xe máy, nên ghé điểm nào trước, đoạn đường nào dốc hoặc vắng, cần mang theo gì để đi núi và hồ.",
+   "kw": "đi Sóc Sơn bằng xe máy",
+   "kw2": [
+    "núi Hàm Lợn Sóc Sơn",
+    "hồ Đồng Quan Sóc Sơn",
+    "đền Sóc Sóc Sơn"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người thích thiên nhiên, dã ngoại nhẹ ở vùng ven phía Bắc",
+   "location_scope": "Sóc Sơn, Hà Nội",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-006",
+   "child_id": "C-DIEM-DEN",
+   "title": "Hồ Đồng Mô và Làng Văn hóa các dân tộc Việt Nam bằng xe máy: đi một buổi",
+   "intent": "Biết cách đi trong ngày đến hồ Đồng Mô và Làng Văn hóa các dân tộc Việt Nam ở Sơn Tây bằng xe máy, nên đi giờ nào, đường nào, ghé những gì và quay về trước tối thế nào.",
+   "kw": "hồ Đồng Mô Làng Văn hóa các dân tộc",
+   "kw2": [
+    "đi hồ Đồng Mô bằng xe máy",
+    "Làng Văn hóa các dân tộc Việt Nam Sơn Tây"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "gia đình và nhóm bạn tìm chỗ thoáng, rộng để dạo cuối tuần",
+   "location_scope": "Hồ Đồng Mô, Sơn Tây, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-007",
+   "child_id": "C-DIEM-DEN",
+   "title": "Tuyến di tích chiến tranh ở Hà Nội bằng xe máy: nối các điểm trong một ngày",
+   "intent": "Biết cách nối các điểm về chiến tranh và quân sự ở Hà Nội thành một tuyến đi xe máy hợp lý trong một ngày, thứ tự ghé, khoảng cách giữa các điểm và chỗ nghỉ ăn trưa giữa chặng.",
+   "kw": "tuyến di tích chiến tranh Hà Nội",
+   "kw2": [
+    "Bảo tàng Lịch sử Quân sự Việt Nam",
+    "Bảo tàng Phòng không Không quân Hà Nội",
+    "hồ Hữu Tiệp máy bay B-52"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách quan tâm lịch sử hiện đại Việt Nam",
+   "location_scope": "Hà Nội (Ba Đình, Đống Đa)",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-008",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chạy xe một vòng Hồ Tây: lộ trình, điểm dừng và đoạn dễ kẹt",
+   "intent": "Biết cách đi trọn một vòng quanh Hồ Tây bằng xe máy theo chiều nào là dễ chịu, những điểm nên dừng nghỉ, ngắm hồ, và những đoạn dễ kẹt hoặc đông người cuối tuần.",
+   "kw": "chạy xe một vòng Hồ Tây",
+   "kw2": [
+    "đi vòng quanh Hồ Tây bằng xe máy",
+    "lộ trình quanh Hồ Tây"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người mới thuê xe muốn một cung đường dễ, đẹp, không quá xa",
+   "location_scope": "Hồ Tây, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-009",
+   "child_id": "C-DIEM-DEN",
+   "title": "Phủ Tây Hồ và chùa Kim Liên ngày rằm, mùng một: đi xe máy thế nào cho đỡ đông",
+   "intent": "Biết cách đi lễ ở Phủ Tây Hồ và chùa Kim Liên vào ngày rằm hoặc mùng một bằng xe máy, chọn khung giờ nào, đường vào nào đỡ kẹt, gửi xe và giữ lối đi chung cho người đi lễ.",
+   "kw": "đi lễ Phủ Tây Hồ ngày rằm",
+   "kw2": [
+    "Phủ Tây Hồ mùng một xe máy",
+    "chùa Kim Liên Nghi Tàm"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người đi lễ đầu tháng và du khách muốn xem sinh hoạt tâm linh quanh Hồ Tây",
+   "location_scope": "Phủ Tây Hồ và chùa Kim Liên, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-010",
+   "child_id": "C-DIEM-DEN",
+   "title": "Mùa thu Hà Nội bằng xe máy: cung đường ngắm hoa sữa và lá vàng",
+   "intent": "Biết mùa nào, giờ nào và cung đường nào ở Hà Nội đẹp nhất để ngắm hoa sữa, lá vàng rơi, cách dừng xe an toàn để chụp ảnh và những chỗ đông nên tránh giờ cao điểm.",
+   "kw": "ngắm hoa sữa lá vàng Hà Nội",
+   "kw2": [
+    "mùa thu Hà Nội đi xe máy",
+    "phố lá vàng Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách và người trẻ thích chụp ảnh mùa thu",
+   "location_scope": "Hà Nội (các phố cổ và khu trung tâm)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-011",
+   "child_id": "C-DIEM-DEN",
+   "title": "Hà Nội nắng nóng đi xe máy: điểm đến nhiều bóng mát và cách chia giờ trong ngày",
+   "intent": "Biết cách chọn điểm đến và chia giờ đi trong ngày hè nắng gắt ở Hà Nội: nơi nhiều bóng cây, nơi có mái che, giờ nghỉ trưa, và cách giữ sức khi chạy xe.",
+   "kw": "Hà Nội nắng nóng nên đi đâu",
+   "kw2": [
+    "điểm đến mát mẻ ở Hà Nội mùa hè",
+    "đi xe máy mùa nắng nóng Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách và người thuê xe đến Hà Nội vào mùa hè",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-012",
+   "child_id": "C-DIEM-DEN",
+   "title": "Hà Nội mùa rét đi xe máy: điểm đến hợp trời lạnh và giờ đi đỡ buốt",
+   "intent": "Biết cách chọn điểm đến và khung giờ đi dạo Hà Nội trong những ngày lạnh và có gió: nơi đẹp trong sương, nơi có chỗ ấm, giờ nắng lên, và cách bố trí chặng để không bị lạnh buốt trên xe.",
+   "kw": "Hà Nội mùa lạnh đi đâu xe máy",
+   "kw2": [
+    "đi chơi Hà Nội ngày rét",
+    "điểm đến Hà Nội mùa đông"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách đến Hà Nội vào tháng lạnh và người thuê xe dài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-013",
+   "child_id": "C-DIEM-DEN",
+   "title": "Ngày mưa ở Hà Nội: những điểm đến trong nhà dễ đi bằng xe máy",
+   "intent": "Biết nên chọn điểm nào có mái che hoặc trong nhà khi trời mưa ở Hà Nội, cách chạy xe và dừng xe trong mưa vừa, cách sắp lịch ghé liền kề để không phải chạy xa trong mưa.",
+   "kw": "ngày mưa Hà Nội đi đâu chơi",
+   "kw2": [
+    "điểm đến trong nhà ở Hà Nội",
+    "đi chơi Hà Nội khi trời mưa"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách gặp ngày mưa, phải đổi lịch trình",
+   "location_scope": "Hà Nội (khu trung tâm)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-014",
+   "child_id": "C-DIEM-DEN",
+   "title": "Hà Nội trước 8 giờ sáng bằng xe máy: những điểm vắng và đẹp nhất",
+   "intent": "Biết những điểm đến nào ở Hà Nội đẹp và vắng nhất trước 8 giờ sáng, cách đi cho kịp giờ đẹp, thứ tự ghé và lúc nào nên rời để tránh giờ đi làm đông xe.",
+   "kw": "Hà Nội sáng sớm đi đâu",
+   "kw2": [
+    "điểm đến vắng người buổi sáng sớm Hà Nội",
+    "dậy sớm đi chơi Hà Nội xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người dậy sớm, thích chụp ảnh hoặc tránh đám đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-015",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chạy xe ngắm Hà Nội về đêm: những điểm lên đèn đẹp và cách dừng xe an toàn",
+   "intent": "Biết cách đi một vòng ngắm đèn Hà Nội buổi tối bằng xe máy, những điểm lên đèn đẹp, giờ nào đông, cách chọn chỗ dừng sáng sủa và mẹo nhìn đường khi trời tối.",
+   "kw": "đi xe máy ngắm Hà Nội về đêm",
+   "kw2": [
+    "điểm lên đèn đẹp ở Hà Nội",
+    "đi chơi Hà Nội buổi tối xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách và người trẻ muốn đi chơi buổi tối",
+   "location_scope": "Hà Nội (khu trung tâm và ven Hồ Tây)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-016",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đi xem Trung thu ở phố Hàng Mã bằng xe máy: giờ đi và chỗ gửi xe",
+   "intent": "Biết cách đi xem phố đèn lồng Hàng Mã dịp Trung thu bằng xe máy, giờ nào đỡ đông, đường vào nào, gửi xe ở khu vực quanh phố cổ và cách giữ an toàn khi đi chậm trong dòng người.",
+   "kw": "đi xem Trung thu phố Hàng Mã",
+   "kw2": [
+    "phố Hàng Mã Trung thu xe máy",
+    "gửi xe quanh phố cổ dịp Trung thu"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "gia đình và du khách đến Hà Nội dịp Trung thu",
+   "location_scope": "Phố Hàng Mã, phố cổ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-017",
+   "child_id": "C-DIEM-DEN",
+   "title": "Một ngày ở nội đô Hà Nội bằng xe máy: lịch trình từ sáng đến tối",
+   "intent": "Biết cách xếp trọn một ngày ở nội đô Hà Nội bằng xe máy: ghé điểm nào buổi sáng, trưa, chiều, tối, chặng ngắn nối chặng để không mất thời gian gửi xe và tránh giờ cao điểm.",
+   "kw": "lịch trình một ngày ở Hà Nội",
+   "kw2": [
+    "một ngày đi chơi Hà Nội bằng xe máy",
+    "lịch trình 1 ngày nội đô Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách chỉ có đúng một ngày ở Hà Nội",
+   "location_scope": "Nội đô Hà Nội",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-018",
+   "child_id": "C-DIEM-DEN",
+   "title": "Cuối tuần hai ngày ở Hà Nội bằng xe máy: một ngày nội đô, một ngày ngoại thành",
+   "intent": "Biết cách chia hai ngày cuối tuần thành một ngày dạo nội đô và một ngày đi ngoại thành bằng xe máy, chọn ngoại thành nào hợp với mình, và quay về lúc nào để không dính giờ tan tầm.",
+   "kw": "cuối tuần hai ngày ở Hà Nội",
+   "kw2": [
+    "lịch trình 2 ngày 1 đêm Hà Nội xe máy",
+    "cuối tuần đi đâu quanh Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách và người ở xa lên Hà Nội hai ngày cuối tuần",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-019",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đi chơi Hà Nội cùng bố mẹ lớn tuổi: điểm đến ít bậc thang và dễ dừng xe",
+   "intent": "Biết cách chọn điểm đến ở Hà Nội cho người lớn tuổi đi cùng: ít bậc thang, có chỗ ngồi nghỉ, dễ dừng xe sát cổng, và cách sắp lịch ngắn để người lớn tuổi không mệt.",
+   "kw": "đi chơi Hà Nội với người lớn tuổi",
+   "kw2": [
+    "điểm đến cho người lớn tuổi ở Hà Nội",
+    "đưa bố mẹ đi chơi Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người đưa bố mẹ hoặc ông bà đi tham quan Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-020",
+   "child_id": "C-DIEM-DEN",
+   "title": "Sinh viên đi xe máy chơi cuối tuần gần Hà Nội: chia chặng cho nhóm 3 đến 4 xe",
+   "intent": "Biết cách lên kế hoạch cuối tuần cho nhóm bạn đi 3 đến 4 xe máy quanh Hà Nội, chọn điểm gần nội đô, chia chặng nghỉ, giữ đoàn khỏi lạc và chọn điểm hẹn khi tách nhau.",
+   "kw": "nhóm bạn đi xe máy cuối tuần",
+   "kw2": [
+    "sinh viên đi chơi cuối tuần quanh Hà Nội",
+    "đi nhóm nhiều xe máy giữ đoàn"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "sinh viên và nhóm bạn trẻ muốn đi chơi cuối tuần gần Hà Nội",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-021",
+   "child_id": "C-DIEM-DEN",
+   "title": "Xe số hay xe ga cho chuyến Ba Vì, Tam Đảo: nên chọn loại nào",
+   "intent": "Biết nên chọn xe số hay xe tay ga cho chuyến đi đường đèo và dốc như Ba Vì, Tam Đảo: so sánh về leo dốc, xuống dốc, phanh, tư thế ngồi lâu và hành lý.",
+   "kw": "chọn xe số hay xe ga đi đèo",
+   "kw2": [
+    "xe ga đi Tam Đảo được không",
+    "xe số đi Ba Vì có dễ không"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người sắp thuê xe đi đèo và chưa quyết định loại xe",
+   "location_scope": "Ba Vì và Tam Đảo",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-022",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chợ hoa Quảng Bá về đêm bằng xe máy: giờ đi, đường vào và chỗ dừng xe",
+   "intent": "Biết cách đến chợ hoa Quảng Bá vào đêm khuya bằng xe máy, giờ nào hoa về nhiều, đường vào nào, chỗ dừng xe và cách xử lý khi mua hoa mang về trên xe máy.",
+   "kw": "chợ hoa Quảng Bá về đêm",
+   "kw2": [
+    "đi chợ hoa Quảng Bá bằng xe máy",
+    "mua hoa chợ Quảng Bá buổi sáng sớm"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người thích chụp ảnh chợ đêm và người mua hoa số lượng nhỏ",
+   "location_scope": "Chợ hoa Quảng Bá, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-023",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chợ đầu mối Long Biên buổi sáng sớm bằng xe máy: đi giờ nào và dừng xe ở đâu",
+   "intent": "Biết cách đến khu chợ đầu mối nông sản Long Biên lúc sáng sớm bằng xe máy, giờ nào chợ nhộn nhịp nhất, đường vào dễ nghẽn ra sao, chỗ dừng xe, và cách đi không cản xe tải.",
+   "kw": "chợ Long Biên sáng sớm xe máy",
+   "kw2": [
+    "chợ đầu mối Long Biên đi giờ nào",
+    "dạo chợ Long Biên lúc 5 giờ sáng"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "người thích chụp ảnh chợ và du khách dậy sớm",
+   "location_scope": "Chợ Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-024",
+   "child_id": "C-DIEM-DEN",
+   "title": "Dạo phố cổ Hà Nội: nên đỗ xe ngoài rìa rồi đi bộ 36 phố phường",
+   "intent": "Biết cách chia chuyến dạo phố cổ thành xe máy tới rìa khu vực rồi đi bộ: nên dừng xe ở những mép nào, đi vòng lối nào, giờ nào dễ dừng và lối đi bộ nào đáng thử.",
+   "kw": "dạo phố cổ Hà Nội đỗ xe ở đâu",
+   "kw2": [
+    "đi bộ 36 phố phường",
+    "xe máy vào phố cổ Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách lần đầu muốn dạo phố cổ mà ngại ngõ hẹp và dòng người",
+   "location_scope": "Phố cổ Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R19-025",
+   "child_id": "C-DIEM-DEN",
+   "title": "Xem múa rối nước Thăng Long bằng xe máy: đi giờ nào và dừng xe quanh Hồ Gươm",
+   "intent": "Biết cách đến nhà hát múa rối nước gần Hồ Gươm bằng xe máy cho kịp suất, chọn giờ dừng xe quanh khu vực, đi đường nào và nên kết hợp ghé thêm điểm nào trước hoặc sau buổi xem.",
+   "kw": "xem múa rối nước Thăng Long xe máy",
+   "kw2": [
+    "nhà hát múa rối Thăng Long gửi xe",
+    "xem múa rối nước ở Hà Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R19",
+   "audience": "du khách nước ngoài và gia đình có trẻ nhỏ muốn xem múa rối nước",
+   "location_scope": "Nhà hát Múa rối Thăng Long, quanh Hồ Gươm, Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

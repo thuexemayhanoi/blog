@@ -1,0 +1,294 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R13: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R13-001",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc tăng tốc chậm ở ngã tư đông: cách xuất phát khi đèn xanh bật",
+   "intent": "Biết cách xuất phát và nhập dòng xe khi đèn xanh bật trên xe 50cc công suất thấp: vì sao xe nhỏ ì ở nhịp đầu, nên đứng ở vị trí nào khi chờ đèn và giữ khoảng cách ra sao với dòng xe 110cc phía sau.",
+   "kw": "xe 50cc tăng tốc chậm ngã tư",
+   "kw2": [
+    "xe 50cc xuất phát đèn xanh",
+    "xe 50cc ì khi vặn ga"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người mới thuê xe 50cc đi nội thành, lần đầu gặp ngã tư đông xe",
+   "location_scope": "Hà Nội, các ngã tư đông xe trong nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-002",
+   "child_id": "C-XE-50CC",
+   "title": "Người quen xe 110cc chuyển sang xe 50cc: những thói quen cần chỉnh lại",
+   "intent": "Biết những thói quen đã có trên xe 110cc như độ vặn ga, khoảng cách với xe trước, cách vượt và lực bóp phanh cần chỉnh lại khi đổi sang xe 50cc nhẹ, công suất thấp để không bị bất ngờ trong những ngày đầu.",
+   "kw": "chuyển từ xe 110cc sang xe 50cc",
+   "kw2": [
+    "người quen xe máy đi xe 50cc",
+    "xe 50cc khác xe 110cc cảm giác lái"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người đã lái quen xe 110cc nhưng lần đầu thuê xe 50cc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-003",
+   "child_id": "C-XE-50CC",
+   "title": "Bánh nhỏ của xe 50cc qua ổ gà, nắp cống và gờ giảm tốc: cách đi cho êm",
+   "intent": "Hiểu vì sao nhiều mẫu xe 50cc có bánh nhỏ và khung nhẹ nên nảy mạnh khi gặp ổ gà, nắp cống, đoạn đường đào và gờ giảm tốc ở Hà Nội, và biết cách giảm tốc, thả lỏng tay lái, chọn đường để xe không mất lái.",
+   "kw": "xe 50cc bánh nhỏ qua ổ gà",
+   "kw2": [
+    "xe 50cc đi đường xấu",
+    "xe nhỏ qua gờ giảm tốc"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người thuê xe 50cc đi trong phố, hay gặp đường xấu và đoạn đào đường",
+   "location_scope": "Hà Nội, các tuyến phố nội thành mặt đường không đều",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-004",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc nhẹ khi gió ngang và xe tải vượt sát: giữ thăng bằng ở cầu lớn",
+   "intent": "Hiểu vì sao xe 50cc nhẹ dễ bị tạt ngang khi gió mạnh hoặc khi xe tải, xe buýt vượt sát trên các cầu lớn bắc qua sông Hồng, và biết cách giữ làn, giữ khoảng cách, thả lỏng tay lái để xe ổn định.",
+   "kw": "xe 50cc gió ngang xe tải vượt",
+   "kw2": [
+    "gió tạt trên cầu sông Hồng",
+    "xe nhẹ bị xe tải vượt sát"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người thuê xe 50cc phải qua cầu lớn hoặc đường trục nhiều xe tải",
+   "location_scope": "Hà Nội, các cầu lớn bắc qua sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-005",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc nhỏ gọn có hợp người thấp, nhẹ cân không: yên, chống chân, dắt xe",
+   "intent": "Chọn xe 50cc khi bạn thấp hoặc nhẹ cân: tự kiểm tra độ cao yên, chạm chân khi dừng, sức dắt xe và dựng chống, để biết xe có vừa với mình hay không trước khi nhận.",
+   "kw": "xe 50cc cho người thấp nhẹ cân",
+   "kw2": [
+    "người thấp thuê xe 50cc",
+    "xe 50cc dắt nhẹ"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người cao dưới khoảng 1m55 hoặc nhẹ cân đang cân nhắc thuê xe 50cc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-006",
+   "child_id": "C-XE-50CC",
+   "title": "Chở đồ đi chợ, siêu thị bằng xe 50cc: cốp nhỏ, móc treo và mức chở vừa sức",
+   "intent": "Biết xe 50cc chở được gì khi đi chợ, đi siêu thị hoặc mang balo: cốp nhỏ để vừa món nào, treo túi ở móc nào, vì sao đồ nặng làm xe ì và khó lái, và cách chia đồ cho xe cân bằng.",
+   "kw": "xe 50cc chở đồ đi chợ",
+   "kw2": [
+    "xe 50cc cốp để được gì",
+    "treo đồ xe ga 50cc"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người thuê xe 50cc tuần hoặc tháng, hay đi chợ và mua sắm gần nơi ở",
+   "location_scope": "Hà Nội, khu dân cư, chợ và siêu thị nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-007",
+   "child_id": "C-XE-50CC",
+   "title": "Chọn xe 50cc hay xe đạp điện cho quãng đường ngắn trong nội thành",
+   "intent": "Chọn giữa xe 50cc chạy xăng và xe đạp điện cho các chuyến ngắn trong nội thành bằng cách so sánh cảm giác lái, tốc độ thực tế, trọng lượng, việc đổ xăng hay sạc điện, đi mưa và chở đồ.",
+   "kw": "xe 50cc hay xe đạp điện",
+   "kw2": [
+    "so sánh xe 50cc và xe đạp điện",
+    "xe đạp điện thay xe 50cc"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người cần đi quãng ngắn hằng ngày, phân vân giữa xe 50cc và xe đạp điện",
+   "location_scope": "Hà Nội, nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-008",
+   "child_id": "C-XE-50CC",
+   "title": "Đi nhóm khi một người chạy xe 50cc: giữ nhịp với xe 110cc mà không bị lạc",
+   "intent": "Biết cách tổ chức nhóm đi chung khi có người chạy xe 50cc cùng các xe lớn hơn: ai đi trước, đặt điểm hẹn ở đâu, qua ngã tư lớn thế nào để không tách nhóm, và chọn tuyến sao cho xe nhỏ không phải cố đuổi.",
+   "kw": "đi nhóm xe 50cc và xe lớn",
+   "kw2": [
+    "đi cùng bạn xe 50cc chạy chậm",
+    "điểm hẹn khi đi nhóm xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "nhóm bạn hoặc gia đình đi chung nhiều xe, trong đó có một xe 50cc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-009",
+   "child_id": "C-XE-50CC",
+   "title": "Chạy vòng Hồ Tây bằng xe 50cc: bao lâu, nghỉ ở đâu, đoạn nào nên đi chậm",
+   "intent": "Lên kế hoạch một vòng quanh Hồ Tây bằng xe 50cc vào buổi sáng hoặc chiều muộn: chọn giờ đi, các đoạn ven hồ, chỗ dừng nghỉ ngắm hồ và những đoạn đông xe nên đi chậm.",
+   "kw": "chạy vòng hồ tây bằng xe 50cc",
+   "kw2": [
+    "đi hồ tây bằng xe 50cc",
+    "vòng quanh hồ tây bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "khách du lịch và người ở Hà Nội muốn đi một vòng hồ bằng xe nhẹ",
+   "location_scope": "Hồ Tây, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-010",
+   "child_id": "C-XE-50CC",
+   "title": "Lộ trình nửa ngày bằng xe 50cc: Lăng Bác, Chùa Một Cột, Văn Miếu, Hoàng thành",
+   "intent": "Sắp xếp một buổi tham quan khu Ba Đình và Văn Miếu bằng xe 50cc: thứ tự các điểm, đoạn đường ngắn giữa các điểm, cách chọn chỗ gửi xe quanh khu di tích và cách tránh giờ đông khách.",
+   "kw": "lộ trình ba đình bằng xe 50cc",
+   "kw2": [
+    "tham quan hà nội nửa ngày bằng xe máy",
+    "Lăng Bác Văn Miếu đi xe 50cc"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "khách du lịch muốn tự đi vài điểm di tích gần nhau trong nửa ngày",
+   "location_scope": "Khu Ba Đình và Văn Miếu, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-011",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc đi làng gốm Bát Tràng: quãng đường, mặt đường và giờ nên đi",
+   "intent": "Biết một chuyến từ nội thành ra làng gốm Bát Tràng bằng xe 50cc có ổn không: quãng đường, cầu và đoạn đường ven sông phải qua, giờ nên đi để tránh xe tải, và chỗ nghỉ cho xe nhỏ giữa chặng.",
+   "kw": "xe 50cc đi làng gốm bát tràng",
+   "kw2": [
+    "đi bát tràng bằng xe máy",
+    "xe 50cc đi ngoại thành"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "khách muốn đi làng nghề ngoài nội thành trong một buổi bằng xe nhẹ",
+   "location_scope": "Từ nội thành đến Bát Tràng, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-012",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc đi làng lụa Vạn Phúc, Hà Đông: đường đi, quãng đường và giờ nên đi",
+   "intent": "Biết một chuyến từ nội thành sang làng lụa Vạn Phúc ở Hà Đông bằng xe 50cc có phù hợp không: trục đường từ nội thành sang Hà Đông, thời điểm đi để tránh giờ cao điểm và cách chia thời gian dừng xem, mua lụa.",
+   "kw": "xe 50cc đi làng lụa vạn phúc",
+   "kw2": [
+    "đi vạn phúc hà đông bằng xe máy",
+    "làng lụa vạn phúc đường đi"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "khách và người ở Hà Nội muốn đi làng nghề phía tây nam nội thành",
+   "location_scope": "Từ nội thành đến làng lụa Vạn Phúc, Hà Đông, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-013",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc bình xăng nhỏ: đọc đồng hồ xăng, đổ khi nào và hết xăng thì làm gì",
+   "intent": "Biết cách theo dõi xăng trên xe 50cc có bình nhỏ: đọc kim hoặc đèn báo xăng, nên đổ khi còn bao nhiêu vạch, mở nắp bình tại cây xăng và xử lý khi hết xăng giữa đường.",
+   "kw": "xe 50cc bình xăng nhỏ đổ xăng",
+   "kw2": [
+    "đồng hồ xăng xe ga 50cc",
+    "hết xăng giữa đường xe 50cc"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người thuê xe 50cc lần đầu, chưa quen đọc đồng hồ xăng và đổ xăng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-014",
+   "child_id": "C-XE-50CC",
+   "title": "Đi xe 50cc buổi tối: đèn nhỏ, tốc độ thấp và cách để xe sau thấy mình",
+   "intent": "Biết vì sao đi xe 50cc chậm vào buổi tối dễ bị xe phía sau áp sát và cách tự bảo vệ: bật đèn hậu và đèn phanh, ra xi nhan sớm, chọn làn hợp lý, tránh đoạn đường tối và kiểm tra đèn pha có đủ soi không.",
+   "kw": "đi xe 50cc buổi tối",
+   "kw2": [
+    "xe 50cc đèn pha yếu",
+    "xe 50cc chạy chậm ban đêm"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người thuê xe 50cc phải đi về sau giờ tan tầm hoặc buổi tối",
+   "location_scope": "Hà Nội, các tuyến đường ít đèn trong và quanh nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R13-015",
+   "child_id": "C-XE-50CC",
+   "title": "Xe 50cc nhẹ dễ đổ khi dựng: chọn chỗ đỗ, chống nghiêng và chống đứng",
+   "intent": "Biết cách dựng và đỗ xe 50cc nhẹ cho vững: chọn mặt phẳng, tránh vỉa hè dốc và chỗ có gió, dùng chống nghiêng hay chống đứng, đánh tay lái về phía nào và cách để xe không đổ khi người đi qua quệt vào.",
+   "kw": "xe 50cc nhẹ dễ đổ khi đỗ",
+   "kw2": [
+    "dựng chống xe 50cc",
+    "đỗ xe nhẹ trên vỉa hè dốc"
+   ],
+   "links": [
+    "/xe-may/xe-50cc/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R13",
+   "audience": "người thuê xe 50cc, hay dừng đỗ xe ở vỉa hè và nơi chật",
+   "location_scope": "Hà Nội, vỉa hè và điểm đỗ trong nội thành",
+   "word_target": 1200
+  }
+ ]
+}

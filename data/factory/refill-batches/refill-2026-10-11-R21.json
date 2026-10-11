@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R21: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R21-001",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Hoa cải trắng Mộc Châu tháng 11, 12: chạy xe máy từ Hà Nội đi ngắm",
+   "intent": "Biết hoa cải trắng Mộc Châu nở vào lúc nào, thời tiết cuối năm ra sao và lên kế hoạch chạy xe máy đi ngắm hoa trong mùa đông.",
+   "kw": "hoa cải trắng Mộc Châu",
+   "kw2": [
+    "mộc châu tháng 11",
+    "mộc châu tháng 12 có gì đẹp"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người thích chụp ảnh, ngắm hoa mùa đông, đi theo cặp hoặc nhóm bạn",
+   "location_scope": "Mộc Châu, Sơn La; quốc lộ 6 từ Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-002",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Chạy xe máy lên Mộc Châu mùa đông: mặc gì để không bị tê cóng",
+   "intent": "Biết chuẩn bị quần áo, găng tay, che gió và giờ chạy hợp lý khi đi xe máy lên cao nguyên Mộc Châu vào những ngày lạnh.",
+   "kw": "xe máy Mộc Châu mùa đông",
+   "kw2": [
+    "mộc châu mùa đông mặc gì",
+    "đi mộc châu mùa lạnh bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người đi xe máy lần đầu lên vùng núi vào mùa lạnh",
+   "location_scope": "Mộc Châu, Sơn La; quốc lộ 6",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-003",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Mùa mưa chạy xe máy đi Mộc Châu: sạt lở, đường trơn và khi nào nên hoãn",
+   "intent": "Biết cách đánh giá tình hình đường quốc lộ 6 trong mùa mưa, xử lý đường trơn và quyết định hoãn hay đi tiếp chuyến Mộc Châu.",
+   "kw": "xe máy Mộc Châu mùa mưa",
+   "kw2": [
+    "sạt lở quốc lộ 6 đi mộc châu",
+    "đi mộc châu ngày mưa"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người đã lên lịch đi Mộc Châu vào tháng nhiều mưa và đang phân vân đi hay hoãn",
+   "location_scope": "Quốc lộ 6, Hà Nội – Hòa Bình – Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-004",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Sương mù trên đèo đi Mộc Châu: chạy xe máy thế nào cho an toàn",
+   "intent": "Hiểu vì sao đèo hay có sương mù vào sáng sớm và chiều muộn, và biết cách quan sát, bật đèn, giữ khoảng cách khi tầm nhìn bị hạn chế.",
+   "kw": "sương mù đèo Mộc Châu",
+   "kw2": [
+    "chạy xe máy trong sương mù",
+    "đèo mộc châu sáng sớm"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người chạy xe máy đường đèo chưa quen tầm nhìn kém",
+   "location_scope": "Các đoạn đèo trên quốc lộ 6 lên Mộc Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-005",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Mộc Châu mùa mận chín và dâu tây: đi tháng nào để hái quả",
+   "intent": "Biết các loại quả đặc trưng của Mộc Châu chín vào tháng nào để chọn thời điểm chạy xe máy lên hái và thưởng thức tại vườn.",
+   "kw": "Mộc Châu mùa mận chín dâu tây",
+   "kw2": [
+    "hái dâu tây mộc châu tháng mấy",
+    "mận hậu mộc châu tháng 5"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Gia đình và nhóm bạn thích trải nghiệm vườn quả",
+   "location_scope": "Mộc Châu, Sơn La",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-006",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Rừng thông Bản Áng Mộc Châu: đường vào và giờ ghé đẹp nhất bằng xe máy",
+   "intent": "Biết cách đi từ trung tâm Mộc Châu tới rừng thông Bản Áng bằng xe máy, ghé lúc nào để có ánh sáng đẹp và ít đông.",
+   "kw": "rừng thông Bản Áng Mộc Châu",
+   "kw2": [
+    "bản áng mộc châu đi xe máy",
+    "rừng thông mộc châu chụp ảnh"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Khách đi Mộc Châu 2 ngày muốn thêm một điểm ngoài đồi chè",
+   "location_scope": "Rừng thông Bản Áng, Mộc Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-007",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Cầu kính Bạch Long Mộc Châu: đi xe máy từ Hà Nội, nên ghé lúc nào",
+   "intent": "Biết cách xếp cầu kính Bạch Long vào lịch trình chạy xe máy tới Mộc Châu, chọn giờ ghé hợp lý và chuẩn bị gì trước khi lên cầu.",
+   "kw": "cầu kính Bạch Long Mộc Châu",
+   "kw2": [
+    "cầu kính mộc châu đi xe máy",
+    "bạch long glass bridge mộc châu"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Khách trẻ, nhóm bạn thích điểm check-in mới ở Mộc Châu",
+   "location_scope": "Mộc Châu, Sơn La",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-008",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Săn mây Mộc Châu sáng sớm bằng xe máy: xuất phát mấy giờ, cần mang gì",
+   "intent": "Biết cách lên kế hoạch dậy sớm săn mây ở Mộc Châu bằng xe máy: giờ xuất phát từ chỗ nghỉ, quần áo, đèn và các lưu ý khi chạy lúc trời chưa sáng.",
+   "kw": "săn mây Mộc Châu xe máy",
+   "kw2": [
+    "săn mây mộc châu mấy giờ",
+    "mộc châu biển mây"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người thích chụp ảnh bình minh, đã nghỉ đêm tại Mộc Châu",
+   "location_scope": "Mộc Châu, Sơn La",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-009",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Chở đặc sản Mộc Châu về Hà Nội bằng xe máy: cách đóng gói không dập",
+   "intent": "Biết mua gì làm quà ở Mộc Châu và cách đóng gói, buộc chắc sữa chua, mận, dâu, chè để chở về Hà Nội trên xe máy mà không hỏng.",
+   "kw": "chở đặc sản Mộc Châu về",
+   "kw2": [
+    "mộc châu mua gì làm quà",
+    "đóng gói sữa chua mộc châu đi xe máy"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Khách chạy xe máy muốn mang quà về, hành lý có hạn",
+   "location_scope": "Mộc Châu – Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-010",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Đoạn Hà Đông – Xuân Mai – Hòa Bình trên quốc lộ 6: giờ kẹt và cách chạy",
+   "intent": "Biết đoạn đầu quốc lộ 6 sau khi ra khỏi nội đô có những điểm kẹt, nhiều xe tải nào, nên xuất phát giờ nào và chạy ra sao để vào đèo còn sức.",
+   "kw": "quốc lộ 6 Hà Đông Xuân Mai",
+   "kw2": [
+    "ra khỏi hà nội đi mộc châu",
+    "quốc lộ 6 đoạn hòa bình"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người mới chạy QL6, cần quen đoạn đầu trước khi lên đèo",
+   "location_scope": "Hà Đông – Xuân Mai – Hòa Bình",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-011",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Cam Cao Phong ven quốc lộ 6: dừng mua trên đường đi Mộc Châu thế nào",
+   "intent": "Biết cam Cao Phong vào mùa lúc nào, cách chọn cam và dừng xe mua an toàn bên quốc lộ 6, rồi chở theo xe máy lên Mộc Châu hoặc mang về.",
+   "kw": "mua cam Cao Phong ven đường",
+   "kw2": [
+    "cam cao phong tháng mấy",
+    "cam cao phong quốc lộ 6"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Khách đi Mộc Châu vào mùa thu đông muốn tranh thủ mua trái cây",
+   "location_scope": "Cao Phong, Hòa Bình – quốc lộ 6",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-012",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Từ Mộc Châu về Hà Nội chiều Chủ nhật: xuất phát giờ nào để tránh kẹt và tối",
+   "intent": "Biết cách chọn giờ rời Mộc Châu, chia chặng và tránh đoạn đông xe cuối tuần để về tới Hà Nội trước khi trời tối.",
+   "kw": "Mộc Châu về Hà Nội xe máy",
+   "kw2": [
+    "mộc châu về hà nội chiều chủ nhật",
+    "chạy xe máy về hà nội buổi tối"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Khách đã chơi xong 2 ngày, cần lượt về an toàn",
+   "location_scope": "Mộc Châu – quốc lộ 6 – Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-013",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Đi Mộc Châu về trong ngày bằng xe máy: lịch trình theo từng giờ",
+   "intent": "Đánh giá chuyến Mộc Châu đi về trong một ngày có khả thi không và biết lịch trình theo giờ, điểm ghé tối thiểu, lúc nào phải quay đầu.",
+   "kw": "đi Mộc Châu trong ngày xe máy",
+   "kw2": [
+    "mộc châu 1 ngày từ hà nội",
+    "mộc châu đi về trong ngày"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người chỉ rảnh một ngày, chạy sức tốt",
+   "location_scope": "Hà Nội – Mộc Châu – Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-014",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Xe tải, xe khách trên quốc lộ 6: cách vượt và nhường đường ở đoạn đèo",
+   "intent": "Biết cách quan sát, giữ khoảng cách, vượt và nhường đường khi chạy xe máy cùng xe tải, xe khách trên các đoạn đèo, cua gấp của quốc lộ 6.",
+   "kw": "vượt xe tải trên quốc lộ 6",
+   "kw2": [
+    "xe khách trên đèo mộc châu",
+    "chạy xe máy cùng xe tải"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người chạy xe máy trung bình, ngại xe lớn trên đường núi",
+   "location_scope": "Quốc lộ 6, các đoạn đèo",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-015",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Dịp lễ 30/4 và 2/9 đi Mộc Châu bằng xe máy: đông cỡ nào, tránh thế nào",
+   "intent": "Biết cách sắp xếp ngày giờ, đặt chỗ nghỉ và chọn thời điểm chạy để tránh cảnh đông đúc, ùn xe khi đi Mộc Châu vào các kỳ nghỉ lễ dài.",
+   "kw": "Mộc Châu dịp lễ 30/4 xe máy",
+   "kw2": [
+    "mộc châu 2/9 đi xe máy",
+    "mộc châu ngày lễ đông không"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người chỉ đi được vào kỳ nghỉ lễ",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-016",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Xe số hay xe ga đi Mộc Châu: Wave và Vision chạy đèo khác gì",
+   "intent": "Chọn giữa xe số và xe ga cho chuyến Mộc Châu dựa trên đường dài, đèo dốc, hành lý và kinh nghiệm người lái.",
+   "kw": "xe số hay xe ga Mộc Châu",
+   "kw2": [
+    "wave hay vision đi mộc châu",
+    "xe nào leo đèo tốt"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người chưa chọn xe cho chuyến Mộc Châu",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-017",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Honda Vision chở hai người và balo đi Mộc Châu: leo đèo có đủ khỏe không",
+   "intent": "Biết Vision với hai người và hành lý chạy đường dài, leo đèo ở Mộc Châu ra sao, cần chia tải và dừng nghỉ thế nào.",
+   "kw": "Vision đi Mộc Châu hai người",
+   "kw2": [
+    "vision chở 2 người leo đèo",
+    "honda vision đi đường dài"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Cặp đôi hoặc hai bạn đi chung một xe ga",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-018",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Xe ga xuống đèo Mộc Châu: phanh nóng, ăn phanh kém và cách giữ phanh",
+   "intent": "Hiểu vì sao phanh xe ga nóng và ăn kém khi xuống đèo dài, và biết cách giữ tốc độ, dùng phanh xen kẽ, dừng nghỉ làm nguội.",
+   "kw": "xe ga xuống đèo phanh nóng",
+   "kw2": [
+    "xuống đèo bằng xe ga",
+    "phanh xe ga ăn kém khi xuống dốc"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người đi xe ga lần đầu xuống đèo dài",
+   "location_scope": "Các đoạn đèo trên quốc lộ 6",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-019",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Người mới lái xe máy đường đèo lần đầu: đi Mộc Châu có khó không",
+   "intent": "Đánh giá mức độ khó của cung Mộc Châu với người ít chạy đường đèo, nhận ra mình có phù hợp không và cách làm quen trước.",
+   "kw": "lần đầu chạy xe máy đường đèo",
+   "kw2": [
+    "mộc châu có khó đi không",
+    "người mới đi mộc châu xe máy"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người mới lái, sinh viên, chưa chạy đường núi",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-020",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Ngồi sau xe máy đường dài đi Mộc Châu: mẹo đỡ mỏi và giữ thăng bằng",
+   "intent": "Biết cách ngồi, bám, phối hợp với người lái và nghỉ để người ngồi sau không mỏi, không say đường trong chuyến đi Mộc Châu.",
+   "kw": "ngồi sau xe máy đi Mộc Châu",
+   "kw2": [
+    "người ngồi sau xe máy đường dài",
+    "đỡ mỏi khi ngồi sau xe máy"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người ngồi sau, thường là bạn gái hoặc bạn đi cùng",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-021",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Đi đoàn nhiều xe máy lên Mộc Châu: giữ khoảng cách, điểm tập kết, tín hiệu",
+   "intent": "Biết cách tổ chức một đoàn 3–6 xe máy lên Mộc Châu: thứ tự chạy, điểm dừng gom đoàn, tín hiệu tay và xử lý người tụt lại.",
+   "kw": "đi đoàn xe máy lên Mộc Châu",
+   "kw2": [
+    "đi phượt nhóm mộc châu",
+    "chạy theo đoàn xe máy đường đèo"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Nhóm bạn 3–6 người, mỗi người một xe",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-022",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Một mình chạy xe máy lên Mộc Châu: chia sẻ vị trí và mẹo an toàn",
+   "intent": "Biết cách chuẩn bị, chia sẻ lịch trình và vị trí, chọn điểm nghỉ để đi Mộc Châu một mình bằng xe máy an toàn.",
+   "kw": "đi một mình xe máy Mộc Châu",
+   "kw2": [
+    "solo mộc châu xe máy",
+    "nữ đi mộc châu một mình"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người đi solo, kể cả nữ đi một mình",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-023",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Bản đồ offline và sóng điện thoại trên đường đi Mộc Châu: chuẩn bị trước",
+   "intent": "Biết cách tải bản đồ offline, kiểm tra pin và sạc dự phòng, lưu thông tin quan trọng để không lạc khi sóng yếu trên đường đèo.",
+   "kw": "bản đồ offline đi Mộc Châu",
+   "kw2": [
+    "mất sóng trên đường mộc châu",
+    "google maps offline quốc lộ 6"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Khách nước ngoài và người dùng bản đồ điện thoại",
+   "location_scope": "Quốc lộ 6, Hà Nội – Mộc Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-024",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Thủng lốp hay xe chết máy trên đoạn vắng quốc lộ 6: làm gì đầu tiên",
+   "intent": "Biết các bước xử lý tại chỗ khi xe thủng lốp, chết máy hoặc hết xăng giữa đường vắng trên quốc lộ 6, trước khi tìm thợ hoặc liên hệ nơi thuê xe.",
+   "kw": "xe máy hỏng giữa đường Mộc Châu",
+   "kw2": [
+    "thủng lốp quốc lộ 6",
+    "xe chết máy trên đèo"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người chưa từng gặp sự cố xe khi đi xa",
+   "location_scope": "Quốc lộ 6, đoạn Hòa Bình – Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R21-025",
+   "child_id": "C-CD-MOC-CHAU",
+   "title": "Xe máy từ Hà Nội hay xe khách rồi thuê xe tại Mộc Châu: nên chọn cách nào",
+   "intent": "So sánh hai cách di chuyển lên Mộc Châu: chạy xe máy từ Hà Nội hoặc đi xe khách rồi thuê xe tại chỗ, theo thời gian, sức khỏe và linh hoạt lịch trình.",
+   "kw": "Mộc Châu xe máy hay xe khách",
+   "kw2": [
+    "thuê xe máy ở mộc châu",
+    "xe khách hà nội mộc châu"
+   ],
+   "links": [
+    "/cung-duong/moc-chau/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R21",
+   "audience": "Người phân vân cách đi lên Mộc Châu",
+   "location_scope": "Hà Nội – Mộc Châu",
+   "word_target": 1300
+  }
+ ]
+}
