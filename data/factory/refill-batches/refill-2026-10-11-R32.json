@@ -1,0 +1,161 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R32: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R32-001",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Từ phố cổ sang Cầu Giấy bằng xe máy: trục Kim Mã hay trục Láng",
+   "intent": "Biết các trục đường chính nối khu phố cổ với Cầu Giấy và chọn được trục hợp với điểm đến, giờ đi và mức quen đường của mình.",
+   "kw": "từ phố cổ sang cầu giấy bằng xe máy",
+   "kw2": [
+    "đường Kim Mã đi Cầu Giấy",
+    "đường Láng đi Cầu Giấy bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "khách thuê xe ở khu phố cổ cần sang Cầu Giấy để làm việc, thăm người quen hoặc đi ăn",
+   "location_scope": "Hoàn Kiếm – Ba Đình – Đống Đa – Cầu Giấy, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-002",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Từ Hà Đông lên trung tâm bằng xe máy: Quang Trung – Nguyễn Trãi hay Tố Hữu",
+   "intent": "So sánh hai hướng thường dùng để từ Hà Đông vào trung tâm Hà Nội bằng xe máy và chọn hướng hợp với điểm đến.",
+   "kw": "từ hà đông lên trung tâm bằng xe máy",
+   "kw2": [
+    "đường Quang Trung Hà Đông đi nội thành",
+    "đường Tố Hữu Lê Văn Lương"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "người ở hoặc ghé Hà Đông cần vào nội thành để đi làm, đi chơi hoặc ra ga",
+   "location_scope": "Hà Đông – Thanh Xuân – Hoàn Kiếm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-003",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Từ phố cổ ra khu Mỹ Đình bằng xe máy: các hướng đi và nên chọn hướng nào",
+   "intent": "Biết các hướng đi từ phố cổ ra khu Mỹ Đình, điểm khác nhau của từng hướng và cách chọn theo giờ đi và điểm đến.",
+   "kw": "từ phố cổ ra mỹ đình bằng xe máy",
+   "kw2": [
+    "đường Phạm Hùng Mỹ Đình",
+    "từ Hồ Gươm đến sân vận động Mỹ Đình"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "khách đi sự kiện, hội nghị hoặc làm việc ở khu Mỹ Đình, xuất phát từ khu phố cổ",
+   "location_scope": "Hoàn Kiếm – Cầu Giấy – Nam Từ Liêm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-004",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Chạy xe đường Trường Chinh từ Ngã Tư Vọng tới Ngã Tư Sở: đoạn đông, nút giao",
+   "intent": "Hiểu đặc điểm đoạn đường Trường Chinh nối Ngã Tư Vọng với Ngã Tư Sở, hai nút giao lớn ở hai đầu và cách chạy cho người chưa quen.",
+   "kw": "chạy xe đường Trường Chinh Hà Nội",
+   "kw2": [
+    "Ngã Tư Vọng đi xe máy",
+    "Ngã Tư Sở đi xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "người mới chạy xe và khách đi từ khu Giải Phóng sang Đống Đa – Thanh Xuân",
+   "location_scope": "Thanh Xuân – Đống Đa – Hai Bà Trưng, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-005",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Từ khu Chùa Bộc – Thái Hà – Tây Sơn về Hồ Gươm bằng xe máy đi đường nào",
+   "intent": "Biết các đường nối khu Đống Đa (Chùa Bộc, Thái Hà, Tây Sơn) với Hồ Gươm và chọn đường theo điểm đến phía bờ Hồ.",
+   "kw": "từ đống đa về hồ gươm bằng xe máy",
+   "kw2": [
+    "đường Tây Sơn Thái Hà",
+    "từ Chùa Bộc đi phố cổ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "khách ở khu Đống Đa và sinh viên quanh Tây Sơn đi vào trung tâm",
+   "location_scope": "Đống Đa – Hai Bà Trưng – Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-006",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Sinh viên đi giữa Bách Khoa và Xuân Thủy bằng xe máy: đường nào đỡ đông",
+   "intent": "Chọn được đường đi lại hằng ngày giữa khu Bách Khoa – Kinh tế Quốc dân và khu Xuân Thủy (Cầu Giấy) bằng xe máy theo giờ học và giờ về.",
+   "kw": "từ bách khoa đến xuân thủy bằng xe máy",
+   "kw2": [
+    "đường từ Đại Cồ Việt sang Cầu Giấy",
+    "sinh viên đi học xa bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "sinh viên học hoặc làm thêm ở hai đầu khu đại học phía nam và phía tây nội thành",
+   "location_scope": "Hai Bà Trưng – Đống Đa – Cầu Giấy, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-007",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Chạy xe tránh nắng dưới hàng cây cổ thụ: Phan Đình Phùng, Hoàng Diệu",
+   "intent": "Lên được một vòng chạy xe qua các phố có hàng cây lớn ở khu Ba Đình – Hoàn Kiếm để đỡ nắng, kèm lưu ý riêng khi chạy dưới tán cây như bóng đổ loang, cành thấp, lá rụng.",
+   "kw": "chạy xe đường nhiều cây xanh Hà Nội",
+   "kw2": [
+    "phố Phan Đình Phùng hàng cây",
+    "phố Hoàng Diệu hàng cây cổ thụ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "khách đi giữa mùa nóng và người thích chạy xe chậm ngắm phố",
+   "location_scope": "Ba Đình – Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R32-008",
+   "child_id": "C-CD-NOI-THANH",
+   "title": "Đêm Noel quanh Nhà thờ Lớn: chạy xe máy từ các khu khác tới và về cách nào",
+   "intent": "Biết cách lên kế hoạch tuyến tới và về, điểm dừng cách xa đám đông và thời điểm nên tránh khi chạy xe máy tới khu Nhà thờ Lớn đêm Giáng sinh.",
+   "kw": "đêm noel hà nội đi xe máy",
+   "kw2": [
+    "Nhà thờ Lớn Hà Nội đêm Giáng sinh",
+    "phố Nhà Chung đêm Noel"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-noi-thanh/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R32",
+   "audience": "nhóm bạn trẻ và gia đình ở Hà Nội muốn đi xem không khí Giáng sinh",
+   "location_scope": "Hoàn Kiếm (Nhà thờ Lớn, phố Nhà Chung) và các khu nội thành lân cận, Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

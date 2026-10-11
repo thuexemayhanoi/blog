@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R26: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R26-001",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đạp xe điện quanh Hồ Tây buổi chiều: đi đường nào, dừng nghỉ ở đâu",
+   "intent": "Biết cách lên lộ trình một vòng Hồ Tây buổi chiều bằng xe đạp điện: đoạn đường nên đi, chỗ dừng ngắm hồ và nghỉ chân.",
+   "kw": "đạp xe điện quanh Hồ Tây",
+   "kw2": [
+    "xe đạp điện Hồ Tây",
+    "đi vòng Hồ Tây buổi chiều"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách và người Hà Nội muốn dạo hồ buổi chiều, đi một mình hoặc đi đôi",
+   "location_scope": "Hồ Tây, quận Tây Hồ, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-002",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Buổi sáng quanh Ba Đình bằng xe đạp điện: Lăng Bác, Chùa Một Cột, Hoàng thành",
+   "intent": "Lên được lịch trình nửa buổi sáng thăm cụm di tích khu Ba Đình bằng xe đạp điện: thứ tự điểm dừng, đoạn nên chạy chậm, cách chia thời gian.",
+   "kw": "tham quan Ba Đình bằng xe đạp điện",
+   "kw2": [
+    "xe đạp điện Lăng Bác Chùa Một Cột",
+    "đi Hoàng thành Thăng Long bằng xe đạp điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách tự đi tham quan, người ở Hà Nội đưa khách từ xa đi chơi",
+   "location_scope": "Khu Ba Đình, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-003",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Ra đê sông Hồng ngắm hoàng hôn gần cầu Long Biên bằng xe đạp điện",
+   "intent": "Biết nên đi đường nào từ nội thành ra bờ sông Hồng gần cầu Long Biên đúng lúc hoàng hôn, dừng ở đâu ngắm cảnh và về trước khi trời tối.",
+   "kw": "ngắm hoàng hôn cầu Long Biên",
+   "kw2": [
+    "xe đạp điện đê sông Hồng",
+    "đạp xe ra bờ sông Hồng chiều tối"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách và cặp đôi thích chụp ảnh, ngắm cảnh lúc chiều muộn",
+   "location_scope": "Khu vực chân cầu Long Biên và đê sông Hồng, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-004",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Mùa thu Hà Nội bằng xe đạp điện: đường hoa sữa, làng cốm Vòng và hồ Tây",
+   "intent": "Lên kế hoạch một ngày đạp xe điện đón mùa thu Hà Nội: đường có hoa sữa, ghé làng cốm Vòng, dạo hồ Tây, chọn khung giờ dễ chịu nhất.",
+   "kw": "đạp xe điện mùa thu Hà Nội",
+   "kw2": [
+    "xe đạp điện ngắm hoa sữa",
+    "đi làng cốm Vòng mùa thu"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách và người trẻ muốn đi chơi mùa thu cuối tuần",
+   "location_scope": "Hà Nội: các phố hoa sữa, làng Vòng, Hồ Tây",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-005",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Tự đi tour ăn vặt quanh phố cổ bằng xe đạp điện: dừng liên tiếp mà không rối",
+   "intent": "Biết cách tự sắp một vòng ăn vặt quanh phố cổ bằng xe đạp điện: chia số điểm dừng, dừng đỗ gọn, đi tiếp giữa các món mà không bị đông và rối.",
+   "kw": "tour ăn vặt phố cổ tự túc",
+   "kw2": [
+    "đi ăn vặt phố cổ bằng xe đạp điện",
+    "vòng ăn sáng phố cổ Hà Nội"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách thích ăn uống tự khám phá, nhóm bạn 2 đến 4 người",
+   "location_scope": "Khu phố cổ Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-006",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Mua hoa ở chợ hoa Quảng Bá sáng sớm bằng xe đạp điện: chở hoa về không dập",
+   "intent": "Biết cách đi sớm tới chợ hoa Quảng Bá, chọn hoa, buộc và chở hoa bằng xe đạp điện về nhà hoặc homestay mà không dập cánh.",
+   "kw": "chở hoa bằng xe đạp điện",
+   "kw2": [
+    "chợ hoa Quảng Bá sáng sớm",
+    "mua hoa Tây Hồ bằng xe đạp điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người thích cắm hoa, chủ homestay nhỏ, du khách muốn trải nghiệm chợ hoa buổi sớm",
+   "location_scope": "Chợ hoa Quảng Bá, phường Quảng An, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-007",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đạp xe điện giữa nắng nóng Hà Nội: chọn giờ chạy, đường có bóng cây",
+   "intent": "Biết cách sắp giờ và chọn đường có bóng cây để đạp xe điện giữa những ngày nắng gắt ở Hà Nội mà không kiệt sức hay say nắng.",
+   "kw": "đạp xe điện khi trời nắng nóng",
+   "kw2": [
+    "đi xe đạp điện mùa hè Hà Nội",
+    "tránh say nắng khi đạp xe"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi xe đạp điện trong mùa nóng, kể cả du khách chưa quen khí hậu Hà Nội",
+   "location_scope": "Hà Nội, các phố nhiều cây xanh nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-008",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đạp xe điện khi mưa phùn: đường trơn, tầm nhìn kém thì chạy thế nào",
+   "intent": "Hiểu vì sao đường Hà Nội trơn và khó nhìn khi mưa phùn, và biết chỉnh tốc độ, khoảng cách, cách vào cua để đạp xe điện an toàn.",
+   "kw": "đi xe đạp điện trời mưa phùn",
+   "kw2": [
+    "xe đạp điện đường trơn",
+    "đạp xe điện mùa đông Hà Nội"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người mới đi xe đạp điện vào những ngày mưa phùn, ẩm ướt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-009",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Mưa to, đường ngập giữa đường: xe đạp điện nên đi tiếp hay tấp vào trú",
+   "intent": "Biết quyết định nhanh khi gặp mưa lớn hoặc đường ngập nước giữa chuyến đi bằng xe đạp điện: khi nào trú, tìm chỗ trú ở đâu, cách tránh đoạn ngập.",
+   "kw": "xe đạp điện gặp mưa lớn",
+   "kw2": [
+    "xe đạp điện đi qua đường ngập",
+    "trú mưa khi đạp xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi xe đạp điện bị mưa bất chợt khi đang ở ngoài đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-010",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Ngày gió mùa lạnh ở Hà Nội: đạp xe điện giữ ấm tay chân mà vẫn cầm lái chắc",
+   "intent": "Biết ăn mặc và chuẩn bị gì để đạp xe điện trong ngày gió mùa lạnh mà tay chân vẫn linh hoạt, cầm lái và bóp phanh chắc.",
+   "kw": "đi xe đạp điện trời lạnh",
+   "kw2": [
+    "đạp xe điện ngày gió mùa",
+    "giữ ấm khi đi xe đạp điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi xe đạp điện trong những ngày se lạnh cuối thu và mùa đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-011",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Ngày Hà Nội ô nhiễm không khí: có nên đạp xe điện ngoài đường, chuẩn bị gì",
+   "intent": "Cân nhắc có nên đạp xe điện vào ngày không khí Hà Nội kém, nếu đi thì chọn khung giờ, tuyến đường và đồ che chắn thế nào.",
+   "kw": "đạp xe điện khi ô nhiễm không khí",
+   "kw2": [
+    "xe đạp điện ngày ô nhiễm Hà Nội",
+    "khẩu trang khi đạp xe"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi xe đạp điện nhạy cảm với bụi, du khách đến Hà Nội mùa khô",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-012",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đạp xe điện buổi tối trong nội thành: đèn, đồ phản quang và chọn đường sáng",
+   "intent": "Biết chuẩn bị đèn, đồ phản quang và chọn tuyến đường sáng để đạp xe điện buổi tối trong nội thành Hà Nội dễ được nhìn thấy hơn.",
+   "kw": "đi xe đạp điện buổi tối",
+   "kw2": [
+    "đạp xe điện ban đêm Hà Nội",
+    "đèn và đồ phản quang khi đạp xe"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi xe đạp điện vào buổi tối, du khách đi chơi tối",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-013",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đi nhóm bạn bằng xe đạp điện: xếp hàng thế nào, giữ khoảng cách, chờ nhau ra sao",
+   "intent": "Biết cách đi nhóm 3 đến 5 người bằng xe đạp điện mà không lạc nhau: cách xếp hàng, giữ khoảng cách, hẹn điểm chờ, báo hiệu khi rẽ hoặc dừng.",
+   "kw": "đi nhóm bằng xe đạp điện",
+   "kw2": [
+    "đạp xe điện cùng bạn bè",
+    "đi nhóm không bị lạc nhau"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Nhóm bạn trẻ, đoàn khách nhỏ đi chơi cùng nhau",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-014",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Khách nước ngoài đạp xe điện ở Hà Nội lần đầu: những cảnh giao thông dễ bất ngờ",
+   "intent": "Hiểu trước những cảnh giao thông Hà Nội thường khiến khách nước ngoài bất ngờ khi lần đầu đạp xe điện: tiếng còi, dòng xe lách, người băng ngang, và cách phản ứng.",
+   "kw": "khách nước ngoài đi xe đạp điện",
+   "kw2": [
+    "du khách đạp xe điện Hà Nội lần đầu",
+    "giao thông Hà Nội cho người nước ngoài"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách quốc tế lần đầu tới Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-015",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Rẽ trái giữa dòng xe máy đông bằng xe đạp điện: quan sát, ra hiệu, chọn lúc",
+   "intent": "Biết cách rẽ trái an toàn bằng xe đạp điện khi xung quanh toàn xe máy: quan sát gương và phía sau, ra hiệu bằng tay, chọn lúc và vị trí để rẽ.",
+   "kw": "rẽ trái bằng xe đạp điện",
+   "kw2": [
+    "xe đạp điện rẽ trái giữa dòng xe",
+    "ra hiệu rẽ bằng tay"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người mới đi xe đạp điện, người lớn tuổi chạy chậm giữa phố đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-016",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Phanh xe đạp điện êm khi có người băng ngang bất ngờ: bóp phanh nào trước",
+   "intent": "Biết cách phanh xe đạp điện êm và không chúi đầu khi có người hoặc xe băng ngang bất ngờ: bóp phanh nào trước, nhả thế nào, giữ thăng bằng ra sao.",
+   "kw": "cách phanh xe đạp điện",
+   "kw2": [
+    "phanh gấp xe đạp điện",
+    "xe đạp điện bóp phanh trước hay sau"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người mới đi xe đạp điện, người lớn tuổi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-017",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Chỉnh yên và tay lái xe đạp điện cho người thấp, người cao: đỡ mỏi gối, mỏi lưng",
+   "intent": "Biết cách chỉnh độ cao yên và tư thế tay lái xe đạp điện cho vừa người thấp hoặc người cao, để đạp và cầm lái không mỏi gối, không đau lưng.",
+   "kw": "chỉnh yên xe đạp điện",
+   "kw2": [
+    "xe đạp điện cho người thấp",
+    "tư thế ngồi khi đạp xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người thấp hoặc cao hơn mức trung bình, người hay đau gối đau lưng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-018",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Mặc gì khi đạp xe điện: váy, dép lê, quần ống rộng có vướng không",
+   "intent": "Biết nên mặc gì và đi giày dép loại nào để đạp xe điện thoải mái, không vướng chân, không tốc váy, không tuột dép khi chạy.",
+   "kw": "mặc gì khi đi xe đạp điện",
+   "kw2": [
+    "đi xe đạp điện mặc váy",
+    "giày dép khi đạp xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Chị em, du khách đi chơi nhẹ nhàng, người đi từ khách sạn ra phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-019",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Dắt, dựng chân chống, quay đầu xe đạp điện nặng tay: mẹo cho người nhỏ con",
+   "intent": "Biết mẹo dắt xe, dựng chân chống và quay đầu xe đạp điện nặng tay hơn xe đạp thường mà không bị đổ hoặc mất sức, nhất là với người nhỏ con.",
+   "kw": "cách dắt và dựng xe đạp điện",
+   "kw2": [
+    "quay đầu xe đạp điện nặng",
+    "xe đạp điện cho người nhỏ con"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người nhỏ con, chị em và người lớn tuổi lần đầu dùng xe đạp điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-020",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Lên dốc bằng xe đạp điện: giữ đà, đạp phụ cùng motor để đỡ nặng chân",
+   "intent": "Biết cách lên dốc bằng xe đạp điện thật mượt: giữ đà từ trước chân dốc, đạp phụ cùng motor, chọn tư thế và tốc độ để không bị ì hoặc loạng choạng.",
+   "kw": "lên dốc bằng xe đạp điện",
+   "kw2": [
+    "xe đạp điện leo dốc",
+    "đạp phụ cùng motor"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người mới đi xe đạp điện, người lớn tuổi, người hay phải lên dốc cầu",
+   "location_scope": "Hà Nội: các dốc cầu và đường lên cầu vượt",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-021",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Đi thế nào để pin xe đạp điện đủ dùng cả buổi: thói quen tiết kiệm điện",
+   "intent": "Biết những thói quen chạy giúp pin xe đạp điện đủ dùng cả buổi: tăng ga nhẹ, giữ tốc độ đều, đạp phụ ở quãng bằng, tránh bốc nhiều lần ở chân dốc.",
+   "kw": "tiết kiệm pin xe đạp điện",
+   "kw2": [
+    "pin xe đạp điện đủ dùng cả buổi",
+    "cách chạy xe đạp điện đỡ tốn pin"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi xe đạp điện cả buổi quanh nội thành, du khách đi tham quan nhiều điểm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-022",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Xe đạp điện hay xe đạp thường: đi phố Hà Nội mùa nóng chọn loại nào",
+   "intent": "So sánh xe đạp điện với xe đạp thường theo từng tình huống đi phố Hà Nội mùa nóng (đồ mang, đường dài, mồ hôi, dốc) để chọn đúng loại.",
+   "kw": "xe đạp điện hay xe đạp thường",
+   "kw2": [
+    "xe đạp điện và xe đạp thường",
+    "chọn xe đạp đi phố Hà Nội"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người phân vân giữa hai loại xe đạp để đi lại hoặc đi chơi ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-023",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Quãng ngắn trong nội thành: xe đạp điện, đi bộ hay gọi xe công nghệ",
+   "intent": "Chọn giữa xe đạp điện, đi bộ và gọi xe công nghệ cho những quãng ngắn trong nội thành Hà Nội theo thời gian cả chặng, thời tiết, chỗ đỗ và đồ mang theo.",
+   "kw": "xe đạp điện hay đi bộ quãng ngắn",
+   "kw2": [
+    "đi quãng ngắn nội thành Hà Nội",
+    "xe đạp điện hay gọi xe công nghệ"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Du khách và người ở Hà Nội cần di chuyển nhiều chặng ngắn trong ngày",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-024",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Hà Nội giờ cao điểm: đạp xe điện lúc nào, đường nào đỡ tắc",
+   "intent": "Biết khung giờ và tuyến đường giúp đạp xe điện đỡ kẹt vào giờ cao điểm Hà Nội, và cách xử lý khi buộc phải đi qua nút đông xe.",
+   "kw": "đạp xe điện giờ cao điểm",
+   "kw2": [
+    "xe đạp điện tránh tắc đường",
+    "giờ cao điểm Hà Nội đi xe gì"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi làm, du khách đi qua các nút giao đông xe",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R26-025",
+   "child_id": "C-XE-DAP-DIEN",
+   "title": "Len vào ngõ nhỏ khu tập thể cũ bằng xe đạp điện: rẽ, tránh, dừng sao cho gọn",
+   "intent": "Biết cách chạy xe đạp điện trong ngõ nhỏ khu tập thể cũ: giảm tốc ở khúc cua khuất, nhường người đi bộ và trẻ nhỏ, tránh xe đỗ và dừng gọn.",
+   "kw": "xe đạp điện đi ngõ nhỏ",
+   "kw2": [
+    "đạp xe điện khu tập thể cũ",
+    "chạy xe trong ngõ hẹp Hà Nội"
+   ],
+   "links": [
+    "/xe-may/xe-dap-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R26",
+   "audience": "Người đi thăm họ hàng bạn bè trong ngõ, du khách khám phá khu dân cư",
+   "location_scope": "Các ngõ nhỏ và khu tập thể cũ ở nội thành Hà Nội (như khu Kim Liên, Thành Công)",
+   "word_target": 1200
+  }
+ ]
+}

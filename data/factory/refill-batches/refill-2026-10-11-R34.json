@@ -1,0 +1,465 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R34: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R34-001",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Hà Nội đi Sa Pa bằng xe máy hai ngày: chia chặng và chọn nơi nghỉ đêm",
+   "intent": "Biết cách chia chuyến Hà Nội - Sa Pa bằng xe máy thành hai ngày, chọn điểm nghỉ giữa chặng và giờ xuất phát hợp lý.",
+   "kw": "đi Sa Pa bằng xe máy từ Hà Nội",
+   "kw2": [
+    "Hà Nội Sa Pa xe máy hai ngày",
+    "nghỉ đêm giữa chặng đi Sa Pa"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đã quen chạy đường dài, lần đầu đi Sa Pa bằng xe máy",
+   "location_scope": "Hà Nội - Lào Cai - Sa Pa",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-002",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đèo Ô Quy Hồ nối Sa Pa với Lai Châu: các điểm dừng và cách chạy xe máy",
+   "intent": "Hiểu đèo Ô Quy Hồ có những điểm dừng nào (Thác Bạc, Trạm Tôn, Cổng Trời) và cách chạy xe máy an toàn khi sương xuống.",
+   "kw": "đèo Ô Quy Hồ xe máy",
+   "kw2": [
+    "Cổng Trời Ô Quy Hồ",
+    "Thác Bạc Trạm Tôn Sa Pa"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Du khách đang ở Sa Pa muốn chạy xe máy lên đèo trong ngày",
+   "location_scope": "Đèo Ô Quy Hồ, Sa Pa - Lai Châu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-003",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Sa Pa mùa đông sương mù và rét đậm: chạy xe máy thế nào, khi nào nên hoãn",
+   "intent": "Biết cách quyết định đi hay hoãn, và chạy xe máy ra sao ở Sa Pa khi sương mù dày, rét đậm hoặc mặt đường ẩm lạnh.",
+   "kw": "Sa Pa mùa đông chạy xe máy",
+   "kw2": [
+    "sương mù Sa Pa xe máy",
+    "rét đậm Sa Pa đi đường"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người định lên Sa Pa vào tháng lạnh bằng xe máy",
+   "location_scope": "Sa Pa, Lào Cai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-004",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Chợ phiên Bắc Hà cuối tuần: xe máy đi về trong ngày từ Sa Pa hay ngủ lại Bắc Hà",
+   "intent": "Chọn giữa chạy xe máy đi về trong ngày từ Sa Pa hay ngủ lại Bắc Hà để kịp phiên chợ sáng, kèm cách tính giờ và đường vùng cao.",
+   "kw": "chợ phiên Bắc Hà xe máy",
+   "kw2": [
+    "đi chợ Bắc Hà từ Sa Pa",
+    "ngủ lại Bắc Hà"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Du khách ở Sa Pa muốn xem chợ phiên vùng cao",
+   "location_scope": "Bắc Hà, Lào Cai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-005",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Mù Cang Chải mùa lúa chín: Hà Nội đi xe máy qua Nghĩa Lộ, Tú Lệ, đèo Khau Phạ",
+   "intent": "Biết lộ trình Hà Nội - Nghĩa Lộ - Tú Lệ - Mù Cang Chải bằng xe máy vào mùa lúa chín, cách chia chặng và chọn giờ qua đèo Khau Phạ.",
+   "kw": "Mù Cang Chải mùa lúa chín",
+   "kw2": [
+    "đèo Khau Phạ xe máy",
+    "Hà Nội đi Mù Cang Chải"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đi xe máy ngắm lúa chín cuối tháng Chín, đầu tháng Mười",
+   "location_scope": "Hà Nội - Nghĩa Lộ - Tú Lệ - Mù Cang Chải",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-006",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Dừng xe ngắm ruộng bậc thang Mù Cang Chải ngày đông: chỗ nào đỗ không cản đường",
+   "intent": "Biết cách dừng, đỗ và chụp ảnh ven đường đèo hẹp Mù Cang Chải khi đông xe mà không cản đường hay đứng chỗ nguy hiểm.",
+   "kw": "đỗ xe ruộng bậc thang Mù Cang Chải",
+   "kw2": [
+    "chụp ảnh ven đường Khau Phạ",
+    "đường hẹp ngày đông khách"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đi xe máy ngắm ruộng bậc thang đúng dịp đông khách",
+   "location_scope": "Mù Cang Chải, đèo Khau Phạ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-007",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Săn mây Tà Xùa bằng xe máy: ở lại bản đêm trước, lên điểm săn mây lúc sáng sớm",
+   "intent": "Lên kế hoạch chuyến săn mây Tà Xùa bằng xe máy: chia chặng từ Hà Nội, ở lại gần điểm ngắm đêm trước và cách xử lý đoạn đường núi lên điểm săn mây.",
+   "kw": "săn mây Tà Xùa bằng xe máy",
+   "kw2": [
+    "sống lưng khủng long Tà Xùa",
+    "đường lên Tà Xùa xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người trẻ đi săn mây cuối tuần, lần đầu lên Tà Xùa",
+   "location_scope": "Tà Xùa, Bắc Yên, Sơn La",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-008",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đèo Pha Đin trên đường lên Điện Biên: chạy xe máy qua đoạn sương và cua gắt",
+   "intent": "Hiểu đặc điểm đèo Pha Đin giữa Sơn La và Điện Biên, và cách chạy xe máy lên, xuống đèo khi sương mù hoặc trời đã xế chiều.",
+   "kw": "đèo Pha Đin xe máy",
+   "kw2": [
+    "Pha Đin Sơn La Điện Biên",
+    "đèo dài cua gắt chạy xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người chạy xe máy từ Sơn La sang Điện Biên",
+   "location_scope": "Đèo Pha Đin, quốc lộ 6, ranh giới Sơn La - Điện Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-009",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Hà Nội đi Điện Biên Phủ bằng xe máy ba ngày: chia chặng qua Mộc Châu và Sơn La",
+   "intent": "Biết cách chia chuyến Hà Nội - Điện Biên Phủ bằng xe máy thành các chặng ngày, chọn điểm nghỉ và dự phòng giờ cho các đoạn đèo.",
+   "kw": "đi Điện Biên bằng xe máy",
+   "kw2": [
+    "Hà Nội Điện Biên xe máy ba ngày",
+    "chia chặng đi Điện Biên"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đi xe máy đường dài, lần đầu lên Điện Biên",
+   "location_scope": "Hà Nội - Mộc Châu - Sơn La - Điện Biên Phủ",
+   "word_target": 1400
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-010",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Từ Điện Biên về Hà Nội bằng xe máy: chia hai ngày, nghỉ ở Sơn La hay Mộc Châu",
+   "intent": "Biết cách xếp chặng về Hà Nội sau chuyến Điện Biên: xuất phát giờ nào, nghỉ đêm ở Sơn La hay Mộc Châu và bỏ gì khi trễ giờ.",
+   "kw": "Điện Biên về Hà Nội xe máy",
+   "kw2": [
+    "chặng về Điện Biên Hà Nội",
+    "nghỉ đêm Sơn La hay Mộc Châu"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đã đến Điện Biên và cần lên lịch chặng về",
+   "location_scope": "Điện Biên - Sơn La - Mộc Châu - Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-011",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Tham quan Điện Biên Phủ một ngày bằng xe máy: đồi A1, hầm Đờ Cát, bảo tàng",
+   "intent": "Sắp xếp một ngày thăm các di tích chiến trường Điện Biên Phủ bằng xe máy trong thành phố: thứ tự các điểm, đường đi giữa các điểm và cách ứng xử trang nghiêm.",
+   "kw": "tham quan Điện Biên Phủ bằng xe máy",
+   "kw2": [
+    "đồi A1 hầm Đờ Cát",
+    "bảo tàng chiến thắng Điện Biên Phủ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Du khách và gia đình thăm di tích lịch sử",
+   "location_scope": "Thành phố Điện Biên Phủ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-012",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Hoa ban Điện Biên tháng Ba bằng xe máy: trời còn rét, đường đèo và dịp lễ hội",
+   "intent": "Chuẩn bị cho chuyến ngắm hoa ban Điện Biên tháng Ba bằng xe máy: thời điểm hoa nở, thời tiết rét trên đèo và cách đi khi vào dịp lễ hội.",
+   "kw": "hoa ban Điện Biên xe máy",
+   "kw2": [
+    "lễ hội hoa ban Điện Biên",
+    "Điện Biên tháng Ba"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người thích ngắm hoa và chụp ảnh, đi xe máy đầu xuân",
+   "location_scope": "Điện Biên Phủ và các đường đèo quanh vùng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-013",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Dừng ở thành phố Sơn La trên đường lên Điện Biên: nhà tù Sơn La và chỗ nghỉ đêm",
+   "intent": "Quyết định có nên nghỉ đêm hoặc ghé thành phố Sơn La giữa chặng Hà Nội - Điện Biên, và ghé nhà tù Sơn La thế nào khi đi xe máy.",
+   "kw": "dừng chân thành phố Sơn La xe máy",
+   "kw2": [
+    "nhà tù Sơn La",
+    "nghỉ đêm Sơn La đi Điện Biên"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người chạy xe máy đường dài lên Điện Biên",
+   "location_scope": "Thành phố Sơn La",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-014",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Ăn gì dọc đường Sơn La - Điện Biên: chẩm chéo, pa pỉnh tộp, thịt trâu gác bếp",
+   "intent": "Biết các món đặc trưng Tây Bắc nên thử khi dừng ăn dọc đường Sơn La - Điện Biên và cách xếp bữa để không chạy xe lúc quá no hoặc quá muộn.",
+   "kw": "ăn gì ở Sơn La Điện Biên",
+   "kw2": [
+    "chẩm chéo pa pỉnh tộp",
+    "đặc sản Tây Bắc dọc đường"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đi xe máy đường dài, tò mò ẩm thực vùng cao",
+   "location_scope": "Sơn La - Điện Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-015",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đi Tây Bắc bằng xe máy sau bão, mưa lũ: tra tình hình đường, hoãn hay đổi tuyến",
+   "intent": "Biết cách kiểm tra tình hình đường qua nguồn chính thống, nhận ra khi nào nên hoãn hay đổi tuyến khi Tây Bắc vừa có bão, mưa lũ hoặc sạt lở.",
+   "kw": "Tây Bắc sau bão lũ xe máy",
+   "kw2": [
+    "sạt lở Tây Bắc đi xe máy",
+    "kiểm tra đường trước khi đi Tây Bắc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đã lên lịch đi Tây Bắc bằng xe máy nhưng gặp tin bão lũ",
+   "location_scope": "Các tuyến quốc lộ lên Sơn La, Điện Biên, Lào Cai",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-016",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đi Na Hang - Lâm Bình bằng xe máy từ Hà Nội: đường lên hồ và chia chặng",
+   "intent": "Biết cách đi Hà Nội - Na Hang - Lâm Bình bằng xe máy qua Tuyên Quang, chia chặng, chọn mùa và các điểm dừng ở vùng hồ.",
+   "kw": "đi Na Hang bằng xe máy",
+   "kw2": [
+    "hồ Na Hang Lâm Bình",
+    "Hà Nội Na Hang xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Nhóm bạn thích vùng hồ núi ít người biết, đi xe máy hai ngày",
+   "location_scope": "Na Hang - Lâm Bình, Tuyên Quang",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-017",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "ATK Định Hóa bằng xe máy từ Hà Nội: đi trong ngày hay ở lại Thái Nguyên một đêm",
+   "intent": "Quyết định đi - về trong ngày hay nghỉ lại Thái Nguyên khi thăm di tích ATK Định Hóa bằng xe máy, và cách xếp các điểm di tích.",
+   "kw": "ATK Định Hóa bằng xe máy",
+   "kw2": [
+    "di tích ATK Định Hóa Thái Nguyên",
+    "Chợ Chu Định Hóa"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Gia đình hoặc nhóm bạn đi tìm hiểu lịch sử cách mạng",
+   "location_scope": "Định Hóa, Thái Nguyên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-018",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đồi chè Tân Cương Thái Nguyên bằng xe máy: ghé buổi sáng, mua chè và chở về",
+   "intent": "Biết cách đi đồi chè Tân Cương bằng xe máy từ Hà Nội, chọn giờ ghé và đóng gói chè để chở về không ám mùi, không bị ẩm.",
+   "kw": "đồi chè Tân Cương xe máy",
+   "kw2": [
+    "mua chè Tân Cương",
+    "chè Thái Nguyên mang về Hà Nội"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người thích trà và ảnh đồi chè, đi trong ngày",
+   "location_scope": "Tân Cương, Thái Nguyên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-019",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Vườn quốc gia Xuân Sơn bằng xe máy: đường qua Thanh Sơn, Tân Sơn và nghỉ đêm",
+   "intent": "Biết đường đi bằng xe máy từ Hà Nội vào vườn quốc gia Xuân Sơn theo quốc lộ 32, thời điểm nên đi và cách chia chuyến một ngày hay qua đêm.",
+   "kw": "Xuân Sơn Phú Thọ xe máy",
+   "kw2": [
+    "vườn quốc gia Xuân Sơn",
+    "Tân Sơn Phú Thọ du lịch"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người thích rừng núi gần Hà Nội, chạy xe máy cuối tuần",
+   "location_scope": "Xuân Sơn, Tân Sơn, Phú Thọ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-020",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Mùa vải thiều Lục Ngạn tháng Sáu: đi xe máy từ Hà Nội, hái vải, chở về không dập",
+   "intent": "Biết cách đi xe máy từ Hà Nội về vùng vải Lục Ngạn đúng mùa, hái vải và chở vải về bằng xe máy mà không bị dập, ép nóng.",
+   "kw": "đi Lục Ngạn mùa vải xe máy",
+   "kw2": [
+    "hái vải thiều Lục Ngạn",
+    "chở vải bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Gia đình và nhóm bạn đi hái vải tháng Sáu",
+   "location_scope": "Lục Ngạn, phía Bắc Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-021",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Đi Lạng Sơn bằng xe máy theo quốc lộ 1: ải Chi Lăng, động Tam Thanh, chợ Kỳ Lừa",
+   "intent": "Lên lịch chuyến Hà Nội - thành phố Lạng Sơn bằng xe máy theo quốc lộ 1, ghé ải Chi Lăng, động Tam Thanh, Nhị Thanh và chợ Kỳ Lừa mà không phải chạy tối.",
+   "kw": "đi Lạng Sơn bằng xe máy",
+   "kw2": [
+    "ải Chi Lăng Lạng Sơn",
+    "chợ Kỳ Lừa động Tam Thanh"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đi xe máy hai ngày, thích di tích và chợ đêm",
+   "location_scope": "Thành phố Lạng Sơn và quốc lộ 1 từ Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-022",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Nhà thờ đá Phát Diệm bằng xe máy từ Hà Nội: đường đi, trang phục, giờ ghé",
+   "intent": "Biết cách đi Hà Nội - nhà thờ đá Phát Diệm bằng xe máy, ăn mặc và cư xử khi vào nơi thờ tự, và xếp thời gian tham quan quần thể.",
+   "kw": "nhà thờ đá Phát Diệm xe máy",
+   "kw2": [
+    "Phát Diệm Kim Sơn Ninh Bình",
+    "đi Phát Diệm từ Hà Nội"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Du khách thích kiến trúc và di tích, đi trong ngày",
+   "location_scope": "Phát Diệm, Kim Sơn, Ninh Bình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-023",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Suối khoáng nóng Kênh Gà Ninh Bình bằng xe máy: đi mùa lạnh, về trước khi tối",
+   "intent": "Biết cách xếp chuyến tắm khoáng nóng Kênh Gà bằng xe máy ngày lạnh: giờ xuất phát, thời gian ngâm và giờ về để không chạy xe lúc tối hay lúc còn lơ mơ sau khi ngâm.",
+   "kw": "Kênh Gà Ninh Bình xe máy",
+   "kw2": [
+    "suối khoáng nóng Kênh Gà",
+    "Kênh Gà Vân Trình"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Nhóm bạn hoặc gia đình đi nghỉ ngơi cuối tuần mùa lạnh",
+   "location_scope": "Kênh Gà - Vân Trình, Gia Viễn, Ninh Bình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R34-024",
+   "child_id": "C-CD-PHO-BAC",
+   "title": "Tây Thiên chân núi Tam Đảo bằng xe máy: thiền viện Trúc Lâm và nên đi giờ nào",
+   "intent": "Biết cách đi Hà Nội - khu Tây Thiên bằng xe máy, ghé thiền viện Trúc Lâm và xếp giờ tham quan để tránh đông, tránh chạy đường tối.",
+   "kw": "Tây Thiên bằng xe máy",
+   "kw2": [
+    "thiền viện Trúc Lâm Tây Thiên",
+    "Tây Thiên Tam Đảo Hà Nội"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-pho-bac/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-11-R34",
+   "audience": "Người đi lễ chùa và tham quan cảnh núi, đi trong ngày",
+   "location_scope": "Tây Thiên, chân núi Tam Đảo",
+   "word_target": 1200
+  }
+ ]
+}

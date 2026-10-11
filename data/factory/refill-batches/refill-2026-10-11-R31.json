@@ -1,0 +1,351 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R31: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R31-001",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Chùa Trăm Gian ở Chương Mỹ bằng xe máy: đường lên đồi chùa và chỗ dừng xe",
+   "intent": "Biết cách đi từ nội thành ra chùa Trăm Gian (chùa Quảng Nghiêm) ở Chương Mỹ bằng xe máy, chỗ dừng xe gần chùa, đoạn lên đồi và giờ đến để tránh lúc đông khách.",
+   "kw": "chùa Trăm Gian bằng xe máy",
+   "kw2": [
+    "đi chùa Trăm Gian từ Hà Nội",
+    "chùa Quảng Nghiêm Chương Mỹ"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người đi lễ chùa và tham quan cuối tuần, chạy xe máy từ nội thành",
+   "location_scope": "Chương Mỹ, Hà Nội (chùa Trăm Gian, còn gọi là chùa Quảng Nghiêm)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-002",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền Hát Môn ở Phúc Thọ bằng xe máy: cung đường và gửi xe ngày lễ hội",
+   "intent": "Biết đường đi từ nội thành ra đền Hát Môn ở Phúc Thọ bằng xe máy, cách chọn chỗ dừng xe và giờ đến khi đền đông người vào dịp lễ hội.",
+   "kw": "đền Hát Môn bằng xe máy",
+   "kw2": [
+    "đi đền Hát Môn Phúc Thọ",
+    "đền Hai Bà Trưng Hát Môn"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người đi lễ đền và tìm hiểu di tích, chạy xe máy từ nội thành",
+   "location_scope": "Phúc Thọ, Hà Nội (đền Hát Môn, vùng cửa sông Hát)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-003",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền Hạ Lôi ở Mê Linh bằng xe máy: đừng nhầm với đền Hai Bà Trưng trong phố",
+   "intent": "Phân biệt đền Hai Bà Trưng ở Hạ Lôi (Mê Linh) với đền cùng tên ở nội thành, rồi biết đường ra Mê Linh bằng xe máy, chỗ dừng xe và cách xếp chuyến đi nửa buổi.",
+   "kw": "đền Hạ Lôi Mê Linh xe máy",
+   "kw2": [
+    "đền Hai Bà Trưng Mê Linh",
+    "đi Mê Linh bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người muốn đi đúng đền Hai Bà Trưng ở Mê Linh, chạy xe máy từ nội thành",
+   "location_scope": "Mê Linh, Hà Nội (đền Hai Bà Trưng ở thôn Hạ Lôi)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-004",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng cổ Cự Đà ở Thanh Oai bằng xe máy: nhà cổ bên sông Nhuệ và nghề làm miến",
+   "intent": "Biết cách đi ra làng cổ Cự Đà bên sông Nhuệ bằng xe máy, nên dừng xe ở đâu rồi đi bộ vào làng xem nhà cổ và nghề làm miến, đi giờ nào cho thoải mái.",
+   "kw": "làng cổ Cự Đà bằng xe máy",
+   "kw2": [
+    "đi làng cổ Cự Đà Thanh Oai",
+    "làng miến Cự Đà"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người thích làng cổ và làng nghề, đi nửa buổi bằng xe máy từ nội thành",
+   "location_scope": "Thanh Oai, Hà Nội (làng Cự Đà bên sông Nhuệ)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-005",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng nón Chuông ở Thanh Oai: đi xe máy, mua nón lá và chở nón về nguyên vẹn",
+   "intent": "Biết đường ra làng nón Chuông bằng xe máy và cách mua rồi chở nón lá về nội thành không móp, không bị gió lật, kể cả khi mua vài chiếc làm quà.",
+   "kw": "làng nón Chuông bằng xe máy",
+   "kw2": [
+    "chở nón lá bằng xe máy",
+    "đi làng nón Chuông Thanh Oai"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người đi mua nón lá và quà thủ công, chạy xe máy từ nội thành",
+   "location_scope": "Thanh Oai, Hà Nội (làng nón Chuông, vùng ven sông Đáy)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-006",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng mây tre đan Phú Vinh ở Chương Mỹ bằng xe máy: đi xem thợ đan thế nào",
+   "intent": "Biết đường đi từ nội thành đến làng mây tre đan Phú Vinh bằng xe máy, cách ghé xưởng, xem thợ đan và chọn món nhỏ đủ gọn để chở về trên xe.",
+   "kw": "làng mây tre đan Phú Vinh",
+   "kw2": [
+    "Phú Vinh Chương Mỹ bằng xe máy",
+    "làng nghề mây tre đan Hà Nội"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người thích làng nghề thủ công, đi nửa buổi bằng xe máy từ nội thành",
+   "location_scope": "Chương Mỹ, Hà Nội (làng Phú Vinh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-007",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng sơn mài Hạ Thái ở Thường Tín bằng xe máy: đường đi và chọn món mang về",
+   "intent": "Biết đường đi từ nội thành xuống làng sơn mài Hạ Thái (Thường Tín) bằng xe máy, cách ghé cơ sở, hỏi về công đoạn làm sơn mài và chọn món đủ nhỏ để chở về.",
+   "kw": "làng sơn mài Hạ Thái xe máy",
+   "kw2": [
+    "đi làng sơn mài Hạ Thái Thường Tín",
+    "làng nghề sơn mài Hà Nội"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người thích đồ thủ công và làng nghề, đi nửa buổi bằng xe máy từ nội thành",
+   "location_scope": "Thường Tín, Hà Nội (làng sơn mài Hạ Thái)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-008",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng khảm trai Chuyên Mỹ ở Phú Xuyên bằng xe máy: chạy xuống phía nam xem nghề",
+   "intent": "Biết cách chạy xe máy xuống làng khảm trai Chuyên Mỹ (Phú Xuyên) ở phía nam Hà Nội, ghé các làng Chuôn xem nghề khảm trai và tính giờ đi về cho gọn trong một buổi.",
+   "kw": "làng khảm trai Chuyên Mỹ",
+   "kw2": [
+    "Chuyên Mỹ Phú Xuyên bằng xe máy",
+    "làng nghề khảm trai Hà Nội"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người muốn xem nghề khảm trai, chạy xe máy xa hơn các làng nghề gần phố",
+   "location_scope": "Phú Xuyên, Hà Nội (xã Chuyên Mỹ, các làng Chuôn)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-009",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng tăm hương Quảng Phú Cầu ở Ứng Hòa bằng xe máy: đường làng và giờ nên đi",
+   "intent": "Biết đường đi từ nội thành đến làng tăm hương Quảng Phú Cầu (Ứng Hòa) bằng xe máy, cách dừng xe gọn trên đường làng hẹp và thời điểm hợp để ghé xem làng làm hương.",
+   "kw": "làng hương Quảng Phú Cầu xe máy",
+   "kw2": [
+    "làng tăm hương Quảng Phú Cầu Ứng Hòa",
+    "đi Ứng Hòa bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người thích chụp ảnh làng nghề và đường quê, chạy xe máy từ nội thành",
+   "location_scope": "Ứng Hòa, Hà Nội (làng Quảng Phú Cầu)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-010",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Hồ Tuy Lai ở Mỹ Đức bằng xe máy: đường đi và chỗ dừng ngắm hồ",
+   "intent": "Biết đường đi từ nội thành đến hồ Tuy Lai (Mỹ Đức) bằng xe máy, nên dừng ở đâu quanh hồ để ngắm cảnh và cách tính chặng về cho kịp trước khi trời tối.",
+   "kw": "hồ Tuy Lai bằng xe máy",
+   "kw2": [
+    "đi hồ Tuy Lai Mỹ Đức",
+    "hồ Tuy Lai đi đường nào"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người thích hồ và cảnh núi nước, đi cuối tuần bằng xe máy từ nội thành",
+   "location_scope": "Mỹ Đức, Hà Nội (hồ Tuy Lai)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-011",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Xe ben chở đất đá trên đường ngoại thành: bụi, đá văng và cách chạy xe máy",
+   "intent": "Hiểu vì sao đoạn đường ngoại thành gần công trình hay có xe ben chở đất đá, và cách giữ khoảng cách, tránh bụi, đá văng, quyết định vượt hay đi sau khi đang chạy xe máy.",
+   "kw": "xe ben chở đất đường ngoại thành",
+   "kw2": [
+    "chạy xe máy gần xe ben",
+    "bụi đường ngoại thành xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người chạy xe máy ra ngoại thành, đặc biệt người quen đường phố",
+   "location_scope": "đường tỉnh lộ và đường gần công trình ở các huyện ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-012",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Từ ngoại thành về phố chiều Chủ nhật: xuất phát giờ nào và đi hướng nào đỡ tắc",
+   "intent": "Biết cách tính giờ rời khu ngoại thành và chọn hướng vào nội thành chiều Chủ nhật để tránh dòng xe đổ về cùng lúc và kịp về trước khi trời tối.",
+   "kw": "từ ngoại thành về Hà Nội chiều Chủ nhật",
+   "kw2": [
+    "tránh tắc đường chiều Chủ nhật ngoại thành",
+    "giờ về phố sau chuyến đi cuối tuần"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người đi chơi ngoại thành cuối tuần bằng xe máy, cần về phố đúng giờ",
+   "location_scope": "các hướng ngoại thành vào nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-013",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Gửi xe đầu làng hay chạy vào ngõ làng cổ: cách chọn khi thăm làng nghề",
+   "intent": "Quyết định khi nào nên gửi xe ở đầu làng rồi đi bộ và khi nào chạy xe máy vào ngõ làng cổ, làng nghề hẹp ở ngoại thành, tính cả gạch trơn, người đi bộ và chỗ quay đầu.",
+   "kw": "gửi xe đầu làng hay chạy vào ngõ",
+   "kw2": [
+    "đi xe máy vào làng cổ ngõ hẹp",
+    "gửi xe khi thăm làng nghề"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người lần đầu thăm làng cổ và làng nghề ngoại thành bằng xe máy",
+   "location_scope": "làng cổ và làng nghề ở các huyện ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-014",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Quen chạy xe trong phố, lần đầu ra tỉnh lộ ngoại thành: điều gì khác phố",
+   "intent": "Chuẩn bị cho người quen chạy xe trong phố nhưng lần đầu ra đường ngoại thành: giữ tốc độ đều, đường ít vạch kẻ, xe tải lớn, tầm nhìn xa và nhịp nghỉ giữa chặng.",
+   "kw": "lần đầu chạy xe máy đường ngoại thành",
+   "kw2": [
+    "người quen đi phố chạy đường tỉnh lộ",
+    "chạy xe máy ngoài đô thị lần đầu"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người quen chạy xe trong phố nhưng chưa đi đường ngoại thành bao giờ",
+   "location_scope": "đường ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-015",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Bản đồ chỉ đường tắt qua đường làng: khi nào nên tin, khi nào quay ra đường lớn",
+   "intent": "Biết nhận ra lúc ứng dụng bản đồ dẫn xe máy vào đường làng, bờ ruộng hay đường đê hẹp, và quyết định tiếp tục hay quay ra đường lớn, kể cả khi sóng yếu.",
+   "kw": "bản đồ chỉ đường tắt qua đường làng",
+   "kw2": [
+    "Google Maps dẫn vào đường làng xe máy",
+    "đường tắt ngoại thành xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người chạy xe máy ra ngoại thành và dựa vào ứng dụng bản đồ để tìm đường",
+   "location_scope": "đường làng và đường liên xã ở ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-016",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Từ Chương Mỹ sang Sơn Tây bằng xe máy: nối hai điểm mà không quay về phố",
+   "intent": "Biết cách nối một điểm ở Chương Mỹ với một điểm ở Sơn Tây trong cùng chuyến bằng xe máy qua tuyến phía tây của Hà Nội, chia giờ và chọn điểm dừng thay vì quay về trung tâm rồi đi lại.",
+   "kw": "từ Chương Mỹ sang Sơn Tây bằng xe máy",
+   "kw2": [
+    "đi vòng phía tây Hà Nội bằng xe máy",
+    "Xuân Mai Hòa Lạc Sơn Tây xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người muốn gộp hai điểm ngoại thành phía tây vào một chuyến xe máy",
+   "location_scope": "phía tây Hà Nội (Chương Mỹ, Hòa Lạc, Sơn Tây)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-017",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Mang giò chả Ước Lễ, bánh dày Quán Gánh, chè lam Thạch Xá về phố bằng xe máy",
+   "intent": "Biết cách mua và chở đặc sản ngoại thành như giò chả Ước Lễ, bánh dày Quán Gánh, chè lam Thạch Xá về nội thành bằng xe máy: gói thế nào, đặt ở đâu trên xe, đồ nào để được lâu và đồ nào nên ăn trong ngày.",
+   "kw": "mang đặc sản ngoại thành về bằng xe máy",
+   "kw2": [
+    "chở giò chả bằng xe máy",
+    "bánh dày Quán Gánh chè lam Thạch Xá"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "người mua đặc sản làm quà sau chuyến đi ngoại thành bằng xe máy",
+   "location_scope": "Thanh Oai, Thường Tín, Thạch Thất và đường về nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R31-018",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Chụp ảnh thợ làng nghề và người dân ngoại thành: xin phép, mua đồ và cách ứng xử",
+   "intent": "Biết cách xin phép, hỏi han và ứng xử lịch sự khi ghé làng nghề ngoại thành bằng xe máy để chụp ảnh thợ thủ công, sân nhà, kể cả chuyện đỗ xe sao cho không chắn cổng nhà dân.",
+   "kw": "chụp ảnh thợ làng nghề xin phép",
+   "kw2": [
+    "ứng xử khi đi làng nghề",
+    "chụp ảnh người dân ở làng quê"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R31",
+   "audience": "du khách và người thích chụp ảnh, ghé làng nghề ngoại thành bằng xe máy",
+   "location_scope": "làng nghề ở các huyện ngoại thành Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

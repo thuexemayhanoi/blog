@@ -1,0 +1,351 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R28: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R28-001",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê có mùi xăng nồng hoặc ướt quanh bình xăng: dừng và xử lý an toàn",
+   "intent": "Biết nhận ra mùi xăng nồng hoặc vệt xăng ướt trên xe thuê, vì sao phải dừng xe và tránh xa nguồn lửa, và nói gì với cửa hàng trước khi chạy tiếp.",
+   "kw": "xe máy có mùi xăng nồng",
+   "kw2": [
+    "xe máy bị rò xăng",
+    "ướt xăng quanh bình xăng"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe đang đi đường, kể cả khách nước ngoài chưa quen xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-002",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê chạy nặng như bị kéo lại, bánh nóng bất thường: dấu hiệu bó phanh",
+   "intent": "Nhận ra dấu hiệu phanh bị bó trên xe thuê (xe nặng đà, bánh nóng, tiếng rít nhẹ khi lăn) và biết dừng, để nguội, báo cửa hàng thay vì chạy tiếp.",
+   "kw": "xe máy bị bó phanh",
+   "kw2": [
+    "bánh xe nóng bất thường",
+    "xe chạy nặng không có đà"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe đi tuyến dài hoặc đi dốc, hay để ý cảm giác lái",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-003",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê hỏng không chạy được: dắt bộ, đẩy bằng chân hay nhờ xe khác kéo?",
+   "intent": "Hiểu vì sao nên tránh để xe khác kéo bằng dây hoặc đẩy bằng chân, và biết cách dắt bộ xe số, xe ga đúng cách khi xe thuê hỏng giữa phố cần đưa vào chỗ an toàn.",
+   "kw": "kéo xe máy hỏng bằng xe khác",
+   "kw2": [
+    "đẩy xe máy bằng chân",
+    "dắt xe máy hỏng đi xa"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe nội thành vừa bị hỏng xe, cần đưa xe vào lề an toàn",
+   "location_scope": "Hà Nội, đường phố nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-004",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê hỏng lúc tối muộn hoặc ở đoạn vắng: giữ an toàn cho mình khi chờ",
+   "intent": "Biết chọn chỗ đứng chờ, giữ liên lạc và bảo vệ bản thân khi xe thuê hỏng vào buổi tối hoặc ở đoạn đường vắng người.",
+   "kw": "xe thuê hỏng lúc tối muộn",
+   "kw2": [
+    "xe hỏng ở đoạn đường vắng",
+    "chờ người giúp khi xe hỏng ban đêm"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách đi một mình, nữ đi một mình, người về muộn bằng xe thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-005",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Đi Ba Vì, Sóc Sơn bằng xe thuê: chuẩn bị gì để xe hỏng không thành chuyện lớn",
+   "intent": "Biết chuẩn bị gì trước chuyến đi và làm gì khi xe thuê hỏng ở ngoại thành xa tiệm sửa, như đoạn đường lên Ba Vì hoặc quanh Sóc Sơn.",
+   "kw": "xe thuê hỏng khi đi ngoại thành",
+   "kw2": [
+    "xe hỏng ở Ba Vì",
+    "xe hỏng đường vắng Sóc Sơn"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách du lịch và người đi chơi cuối tuần ra ngoại thành bằng xe thuê",
+   "location_scope": "Ba Vì và Sóc Sơn, ngoại thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-006",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Vừa đổ xăng xong xe giật rồi tắt máy: nghi xăng bẩn và cách xử lý an toàn",
+   "intent": "Nhận ra dấu hiệu xe thuê dính xăng lẫn nước hoặc cặn bẩn ngay sau khi đổ xăng, biết dừng đúng cách, không đề liên tục và báo cửa hàng.",
+   "kw": "đổ xăng xong xe giật tắt máy",
+   "kw2": [
+    "xăng lẫn nước xe máy",
+    "xe hụt ga sau khi đổ xăng"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe vừa ghé cây xăng ven đường hoặc trạm nhỏ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-007",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Đang chạy bỗng tắt hết đèn đồng hồ và đèn xe: xe thuê mất điện thì làm gì",
+   "intent": "Biết cách nhận ra và xử lý an toàn khi xe thuê mất điện đột ngột lúc đang chạy: dừng ở đâu, có nên bật lại chìa, vì sao không tự tháo bình hay cầu chì, báo cửa hàng ra sao.",
+   "kw": "xe máy đang chạy bị mất điện",
+   "kw2": [
+    "tắt hết đèn đồng hồ xe máy",
+    "xe máy mất nguồn điện đột ngột"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe đi buổi chiều tối, chưa quen hệ thống điện xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-008",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê hỏng ở Hà Nội: vài câu tiếng Việt ngắn để nhờ giúp và nói với thợ",
+   "intent": "Có sẵn vài câu tiếng Việt đơn giản kèm cách đọc để mô tả xe hỏng (xịt lốp, hết xăng, không nổ, mất chìa), nhờ người qua đường hoặc thợ giúp, và biết cách dùng điện thoại dịch hỗ trợ.",
+   "kw": "câu tiếng Việt khi xe máy hỏng",
+   "kw2": [
+    "nhờ giúp đỡ bằng tiếng Việt",
+    "nói với thợ sửa xe bằng tiếng Việt"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách nước ngoài thuê xe máy lần đầu ở Hà Nội, chưa biết tiếng Việt",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-009",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Cả nhóm đi nhiều xe thuê mà một xe hỏng giữa đường: chia việc và chờ thế nào",
+   "intent": "Biết cả nhóm nên làm gì khi một trong các xe thuê hỏng: ai ở lại cùng xe, ai đi tiếp, cách giữ liên lạc và chỉnh lại lịch trình mà không chất thêm người lên một xe.",
+   "kw": "đi nhóm một xe hỏng giữa đường",
+   "kw2": [
+    "nhóm bạn nhiều xe máy một xe hỏng",
+    "xe hỏng không bỏ nhau lại"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "nhóm bạn hoặc gia đình thuê từ hai xe máy trở lên đi cùng nhau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-010",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê hỏng khi đang chở trẻ nhỏ hoặc người lớn tuổi: giữ họ an toàn lúc xử lý",
+   "intent": "Biết cách đưa người ngồi sau, nhất là trẻ nhỏ và người lớn tuổi, ra chỗ đứng an toàn và giữ họ thoải mái trong lúc xử lý xe thuê vừa hỏng.",
+   "kw": "xe hỏng khi chở trẻ nhỏ",
+   "kw2": [
+    "xe máy hỏng khi chở người lớn tuổi",
+    "chỗ đứng an toàn khi xe hỏng"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "phụ huynh và người đi cùng người lớn tuổi bằng xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-011",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê hỏng khi sắp tới giờ bay hoặc giờ tàu: thứ tự việc cần làm",
+   "intent": "Biết sắp xếp thứ tự ưu tiên khi xe thuê hỏng lúc còn ít thời gian tới sân bay Nội Bài hoặc ga tàu: an toàn, liên lạc, phương án dự phòng, không cố chạy xe đang có dấu hiệu nguy hiểm.",
+   "kw": "xe thuê hỏng sắp tới giờ bay",
+   "kw2": [
+    "xe máy hỏng trên đường ra Nội Bài",
+    "xe hỏng khi kịp chuyến tàu"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách du lịch sắp rời Hà Nội bằng máy bay hoặc tàu hỏa",
+   "location_scope": "Hà Nội, đường ra sân bay Nội Bài và khu vực ga Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-012",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê vừa được xử lý giữa đường: chạy thử và kiểm tra lại gì trước khi đi tiếp",
+   "intent": "Biết các điểm cần nhìn, sờ và chạy thử chậm sau khi xe thuê vừa được vá lốp, bơm hơi, thay bóng đèn hoặc xử lý nhanh bên đường, và khi nào nên báo lại cửa hàng.",
+   "kw": "kiểm tra xe sau sửa dọc đường",
+   "kw2": [
+    "chạy thử xe sau khi vá lốp",
+    "xe vừa sửa xong có đi tiếp được không"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe vừa xử lý sự cố nhỏ giữa đường và còn phải đi tiếp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-013",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê chết máy ngay chỗ đường sắt cắt ngang: ưu tiên rời khỏi đường ray",
+   "intent": "Biết thứ tự hành động an toàn khi xe thuê chết máy hoặc kẹt bánh đúng trên đường ray ở điểm giao với đường bộ: rời khỏi đường ray trước, đưa xe ra, nhờ người giúp, khi nào nên bỏ xe để tránh nguy hiểm.",
+   "kw": "xe máy chết máy trên đường ray",
+   "kw2": [
+    "xe tắt máy ở đường sắt cắt ngang",
+    "xe hỏng đúng chỗ đường tàu"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe đi qua các điểm giao đường sắt trong và ngoài nội thành",
+   "location_scope": "Hà Nội, các điểm đường sắt giao đường bộ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-014",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê hỏng đúng dịp Tết hoặc nghỉ lễ dài: nhiều tiệm sửa nghỉ, nên chuẩn bị gì",
+   "intent": "Biết cách chuẩn bị trước và xoay xở khi xe thuê hỏng vào dịp Tết hoặc kỳ nghỉ lễ dài lúc nhiều tiệm sửa xe nghỉ, đường đông và cây xăng đông.",
+   "kw": "xe thuê hỏng dịp Tết nghỉ lễ",
+   "kw2": [
+    "tiệm sửa xe nghỉ Tết Hà Nội",
+    "xe máy hỏng ngày lễ"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách và người ở lại Hà Nội thuê xe máy dịp Tết hoặc nghỉ lễ dài",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-015",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Người lạ bảo xe bạn xì lốp giữa đường: tự kiểm tra trước khi theo vào tiệm lạ",
+   "intent": "Biết cách bình tĩnh tự kiểm tra lốp và xe, hỏi giá trước và gọi cửa hàng khi có người lạ ra hiệu rằng xe thuê của mình đang hỏng, để không bị ép làm dịch vụ không cần thiết.",
+   "kw": "người lạ bảo xe bị xì lốp",
+   "kw2": [
+    "bị ép giá vá lốp giữa đường",
+    "kiểm tra lốp trước khi vào tiệm lạ"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách nước ngoài và người mới đến Hà Nội đang đi xe thuê một mình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-016",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Xe thuê chết máy hoặc xịt lốp trên cầu Long Biên: chỗ dừng, dắt xe và nhờ giúp",
+   "intent": "Biết nên dừng ở đâu, dắt xe thế nào và nhờ giúp ra sao khi xe thuê chết máy hoặc xịt lốp giữa làn xe máy hẹp trên cầu Long Biên, nơi đường ray và lan can sát hai bên.",
+   "kw": "xe máy hỏng trên cầu Long Biên",
+   "kw2": [
+    "xịt lốp trên cầu Long Biên",
+    "chết máy khi qua cầu Long Biên"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "khách du lịch và người đi chụp ảnh bằng xe thuê qua cầu Long Biên",
+   "location_scope": "Cầu Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-017",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Phải để xe thuê hỏng lại qua đêm: khóa xe, chụp ảnh và giữ đồ thế nào",
+   "intent": "Biết cách để lại xe thuê hỏng qua đêm an toàn (khóa xe, chụp ảnh tình trạng và vị trí, mang theo đồ giá trị, báo cho cửa hàng) và về chỗ ở bằng cách nào.",
+   "kw": "để xe máy hỏng lại qua đêm",
+   "kw2": [
+    "gửi xe hỏng ở tiệm sửa qua đêm",
+    "khóa xe hỏng ven đường"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe không thể đưa xe hỏng về ngay trong ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R28-018",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Tay phanh bóp trống hoặc đứt dây phanh khi đang chạy: dừng xe thuê an toàn",
+   "intent": "Biết cách giữ bình tĩnh và dừng xe thuê an toàn bằng phanh còn lại khi một tay phanh bóp trống hoặc dây phanh đứt giữa đường, rồi báo cửa hàng thay vì chạy tiếp.",
+   "kw": "tay phanh bóp trống đứt dây phanh",
+   "kw2": [
+    "xe máy mất phanh trước",
+    "dừng xe khi đứt dây phanh"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R28",
+   "audience": "người thuê xe đi phố đông hoặc xuống dốc cầu vượt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

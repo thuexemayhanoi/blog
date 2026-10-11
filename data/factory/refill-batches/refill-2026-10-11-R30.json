@@ -1,0 +1,427 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R30: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R30-001",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Chiến thắng B-52 ở phố Đội Cấn: chạy xe máy từ trung tâm và chỗ dừng xe",
+   "intent": "Biết đi từ trung tâm tới Bảo tàng Chiến thắng B-52 trên phố Đội Cấn bằng xe máy theo hướng nào, dừng xe gần cổng ra sao và nên ghép buổi đi với điểm nào ở Ba Đình.",
+   "kw": "đi bảo tàng B-52 bằng xe máy",
+   "kw2": [
+    "bảo tàng B-52 Đội Cấn đường đi",
+    "gửi xe bảo tàng chiến thắng B-52"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội tự chạy xe máy, quan tâm trận Hà Nội - Điện Biên Phủ trên không năm 1972",
+   "location_scope": "Phố Đội Cấn, Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-002",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Biên phòng ở Trần Hưng Đạo: chạy xe máy từ Hồ Gươm, cần hỏi gì trước",
+   "intent": "Biết cách chạy xe máy từ khu Hồ Gươm tới Bảo tàng Biên phòng trên phố Trần Hưng Đạo và những điều cần xác nhận trước khi đến, như ngày đón khách và điều kiện vào cửa của một bảo tàng thuộc quân đội.",
+   "kw": "bảo tàng biên phòng đi xe máy",
+   "kw2": [
+    "bảo tàng biên phòng Trần Hưng Đạo",
+    "đường đi bảo tàng biên phòng từ Hồ Gươm"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Khách tham quan khu trung tâm thích chủ đề lịch sử biên cương, tự chạy xe máy",
+   "location_scope": "Phố Trần Hưng Đạo, khu trung tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-003",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Báo chí Việt Nam ở Dương Đình Nghệ: chạy xe máy tới Cầu Giấy thế nào",
+   "intent": "Biết đường chạy xe máy từ trung tâm và từ phố cổ tới Bảo tàng Báo chí Việt Nam trong tòa nhà Hội Nhà báo, cách xác định đúng lối vào và nên dành bao lâu cho chuyến đi.",
+   "kw": "bảo tàng báo chí đi xe máy",
+   "kw2": [
+    "bảo tàng báo chí Dương Đình Nghệ",
+    "đường đi bảo tàng báo chí Cầu Giấy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Sinh viên báo chí, người làm truyền thông và khách yêu lịch sử báo chí cách mạng",
+   "location_scope": "Phố Dương Đình Nghệ, Cầu Giấy, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-004",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Đại tướng Nguyễn Chí Thanh trên phố Tân Nhuệ: chạy xe máy từ nội thành",
+   "intent": "Biết cách đi từ nội thành tới Bảo tàng Đại tướng Nguyễn Chí Thanh ở phố Tân Nhuệ bằng xe máy và cách liên hệ, xác nhận lịch tham quan của một bảo tàng ngoài công lập trước khi đi.",
+   "kw": "bảo tàng Nguyễn Chí Thanh xe máy",
+   "kw2": [
+    "bảo tàng Đại tướng Nguyễn Chí Thanh Tân Nhuệ",
+    "đường đi bảo tàng Nguyễn Chí Thanh Hà Nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Người quan tâm lịch sử kháng chiến chống Mỹ, gia đình và nhóm bạn tự chạy xe máy",
+   "location_scope": "Phố Tân Nhuệ, khu Bắc Từ Liêm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-005",
+   "child_id": "C-BAO-TANG",
+   "title": "Chạy xe máy từ nội thành tới Bảo tàng Gốm Bát Tràng: chọn đường và chỗ đỗ xe",
+   "intent": "Biết các cung đường xe máy từ nội thành ra làng cổ Bát Tràng để tới Bảo tàng Gốm Bát Tràng, cách chọn giờ đi tránh đông và nơi dừng xe khi vào làng.",
+   "kw": "bảo tàng gốm Bát Tràng xe máy",
+   "kw2": [
+    "bảo tàng gốm Bát Tràng đường đi",
+    "từ phố cổ ra Bát Tràng bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Khách du lịch và người Hà Nội muốn đi nửa ngày ra Bát Tràng bằng xe máy",
+   "location_scope": "Làng cổ Bát Tràng, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-006",
+   "child_id": "C-BAO-TANG",
+   "title": "Cổ Loa bằng xe máy: từ nội thành tới khu di tích, đi đường nào và ghé điểm nào",
+   "intent": "Biết cung đường xe máy từ nội thành lên Cổ Loa, thứ tự tham quan các điểm trong khu di tích để không đi vòng lại và cách dừng xe khi ghé nhiều điểm.",
+   "kw": "đi thành cổ loa bằng xe máy",
+   "kw2": [
+    "đường đi Cổ Loa từ trung tâm Hà Nội",
+    "tham quan di tích Cổ Loa xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Người thích lịch sử và khách đi nửa ngày ra ngoại thành bằng xe máy",
+   "location_scope": "Khu di tích Cổ Loa, Đông Anh, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-007",
+   "child_id": "C-BAO-TANG",
+   "title": "Đến Di tích Nhà tù Hỏa Lò bằng xe máy: đường vào khu phố cũ và chỗ dừng xe",
+   "intent": "Biết đường chạy xe máy tới Di tích Nhà tù Hỏa Lò qua khu phố cũ quanh phố Hỏa Lò, nơi dừng xe gần cổng và cách nối chuyến sang điểm tham quan kế tiếp.",
+   "kw": "nhà tù Hỏa Lò đi xe máy",
+   "kw2": [
+    "gửi xe nhà tù Hỏa Lò",
+    "đường đi Hỏa Lò Hà Nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội đi lần đầu, tự chạy xe máy",
+   "location_scope": "Phố Hỏa Lò, khu trung tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-008",
+   "child_id": "C-BAO-TANG",
+   "title": "Một buổi sáng bằng xe máy: Bảo tàng Phụ nữ, Hỏa Lò và Lịch sử Quốc gia",
+   "intent": "Biết cách xếp thứ tự và chạy xe máy qua Bảo tàng Phụ nữ Việt Nam, Di tích Nhà tù Hỏa Lò và Bảo tàng Lịch sử Quốc gia trong một buổi sáng mà không quay lại đường cũ, kể cả cách dừng xe nhiều lần.",
+   "kw": "ba bảo tàng khu trung tâm",
+   "kw2": [
+    "Bảo tàng Phụ nữ Hỏa Lò Lịch sử Quốc gia một buổi",
+    "lịch trình bảo tàng Hà Nội bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách ở phố cổ chỉ có một buổi sáng, đi xe máy",
+   "location_scope": "Khu trung tâm Hà Nội (Hoàn Kiếm)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-009",
+   "child_id": "C-BAO-TANG",
+   "title": "Nửa ngày ở Ba Đình bằng xe máy: Bảo tàng Hồ Chí Minh, Hoàng thành, B-52",
+   "intent": "Biết cách xếp ba điểm quanh khu Ba Đình theo ngày nghỉ khác nhau của từng nơi, chọn hướng chạy xe máy và chỗ dừng để đi hết trong nửa ngày.",
+   "kw": "bảo tàng Ba Đình nửa ngày",
+   "kw2": [
+    "Bảo tàng Hồ Chí Minh Hoàng thành B-52 một buổi",
+    "lộ trình Ba Đình bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Khách đi nửa ngày thích lịch sử, tự chạy xe máy",
+   "location_scope": "Khu Ba Đình, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-010",
+   "child_id": "C-BAO-TANG",
+   "title": "Một ngày ở Cầu Giấy bằng xe máy: Bảo tàng Dân tộc học, Thiên nhiên và Báo chí",
+   "intent": "Biết cách sắp một ngày ghép Bảo tàng Dân tộc học, Bảo tàng Thiên nhiên Việt Nam và Bảo tàng Báo chí ở khu Cầu Giấy, tính theo ngày nghỉ và giờ nghỉ trưa khác nhau, chạy xe máy giữa các điểm.",
+   "kw": "ba bảo tàng Cầu Giấy một ngày",
+   "kw2": [
+    "Dân tộc học Thiên nhiên Báo chí cùng một ngày",
+    "tuyến bảo tàng Cầu Giấy xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Gia đình, sinh viên và khách ở lại Hà Nội một ngày",
+   "location_scope": "Khu Cầu Giấy, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-011",
+   "child_id": "C-BAO-TANG",
+   "title": "Đang thăm bảo tàng thì trời mưa: lấy xe, mặc áo mưa và chạy về sao cho an toàn",
+   "intent": "Biết cách xử lý khi mưa đổ lúc đang ở trong bảo tàng: chờ hay đi, chuẩn bị áo mưa và đồ điện tử, lấy xe và chạy trên đường trơn quanh các bảo tàng.",
+   "kw": "mưa khi đi bảo tàng xe máy",
+   "kw2": [
+    "áo mưa khi thăm bảo tàng",
+    "đi bảo tàng ngày mưa Hà Nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Người đi bảo tàng bằng xe máy gặp mưa bất chợt",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-012",
+   "child_id": "C-BAO-TANG",
+   "title": "Hè Hà Nội nắng gắt: xếp lịch đi bảo tàng bằng xe máy để tránh giờ nóng nhất",
+   "intent": "Biết cách chia lịch tham quan bảo tàng trong ngày hè nóng, xen điểm trong nhà với điểm ngoài trời, tránh chạy xe máy giữa trưa và giữ sức cả ngày.",
+   "kw": "đi bảo tàng ngày nắng nóng",
+   "kw2": [
+    "tránh nắng khi đi bảo tàng Hà Nội",
+    "lịch tham quan bảo tàng mùa hè"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội đi bảo tàng vào mùa hè",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-013",
+   "child_id": "C-BAO-TANG",
+   "title": "Đưa con nhỏ đi bảo tàng bằng xe máy: chuẩn bị chặng đường và giờ nghỉ",
+   "intent": "Biết cách chuẩn bị cho trẻ nhỏ một chuyến đi bảo tàng bằng xe máy: chọn chặng ngắn, nghỉ giữa đường, thứ tự tham quan hợp sức trẻ và đồ nên mang theo.",
+   "kw": "đưa trẻ nhỏ đi bảo tàng",
+   "kw2": [
+    "đưa bé đi bảo tàng Hà Nội",
+    "chuẩn bị đi bảo tàng với con nhỏ"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Bố mẹ có con nhỏ muốn đi bảo tàng bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-014",
+   "child_id": "C-BAO-TANG",
+   "title": "Chở bố mẹ lớn tuổi đi bảo tàng bằng xe máy: chặng ngắn, giờ mát, lên xuống xe",
+   "intent": "Biết cách sắp một chuyến đi bảo tàng bằng xe máy cho người lớn tuổi: chọn chặng ngắn, giờ mát, chỗ nghỉ chân và cách lên xuống xe, đứng chờ cho an toàn.",
+   "kw": "chở người lớn tuổi đi bảo tàng",
+   "kw2": [
+    "đi bảo tàng cùng ông bà",
+    "chở bố mẹ đi bảo tàng bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Con cháu muốn đưa ông bà, bố mẹ lớn tuổi đi bảo tàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-015",
+   "child_id": "C-BAO-TANG",
+   "title": "Nhóm bạn 4–6 người đi bảo tàng bằng nhiều xe máy: điểm hẹn và cách đi cùng nhau",
+   "intent": "Biết cách tổ chức một nhóm nhiều xe máy đi bảo tàng: chọn điểm hẹn, đi cùng nhau trong phố đông, chia xe và chỗ dừng khi ghé nhiều điểm.",
+   "kw": "nhóm đi bảo tàng bằng xe máy",
+   "kw2": [
+    "nhóm bạn đi bảo tàng Hà Nội",
+    "đi nhiều xe máy không lạc nhau"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Nhóm bạn, sinh viên và đồng nghiệp đi chung nhiều xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-016",
+   "child_id": "C-BAO-TANG",
+   "title": "Chuẩn bị đồ cho ngày đi bảo tàng bằng xe máy: món nên mang và món nên để ở nhà",
+   "intent": "Biết cần mang gì và nên để gì ở nhà khi đi bảo tàng cả ngày bằng xe máy: nước uống, áo mưa, sạc dự phòng, bản đồ ngoại tuyến, tiền lẻ, máy ảnh và đồ có giá trị.",
+   "kw": "đồ mang đi bảo tàng xe máy",
+   "kw2": [
+    "checklist đi bảo tàng bằng xe máy",
+    "mang máy ảnh đi bảo tàng"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Người đi bảo tàng cả ngày bằng xe máy, kể cả người mới đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-017",
+   "child_id": "C-BAO-TANG",
+   "title": "Kiểm tra giờ, ngày nghỉ và địa chỉ bảo tàng trước khi chạy xe: tránh đi hụt",
+   "intent": "Biết cách xác minh ngày nghỉ, giờ đón khách và địa chỉ hiện tại của bảo tàng qua kênh chính thức trước khi chạy xe máy, kể cả trường hợp bảo tàng đã chuyển cơ sở như Bảo tàng Lịch sử Quân sự Việt Nam, và cách xử lý khi đã tới đúng ngày đóng cửa.",
+   "kw": "kiểm tra lịch mở cửa bảo tàng",
+   "kw2": [
+    "bảo tàng Hà Nội nghỉ ngày nào",
+    "bảo tàng đổi địa chỉ"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội lên kế hoạch đi bảo tàng bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-018",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng nghỉ trưa: lấp khoảng trống giữa hai ca tham quan khi đi bằng xe máy",
+   "intent": "Biết cách tận dụng khoảng nghỉ trưa của bảo tàng: ăn trưa, nghỉ ngơi, chạy xe sang điểm khác hoặc chờ gần cổng mà không đứng giữa nắng.",
+   "kw": "bảo tàng nghỉ trưa làm gì",
+   "kw2": [
+    "giờ nghỉ trưa bảo tàng Hà Nội",
+    "xếp lịch hai ca tham quan bảo tàng"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách đi bảo tàng bằng xe máy vào ngày chỉ có một buổi trống",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-019",
+   "child_id": "C-BAO-TANG",
+   "title": "Rời bảo tàng chiều muộn trúng giờ tan tầm: chạy xe máy về thế nào cho đỡ kẹt",
+   "intent": "Hiểu vì sao giờ bảo tàng đóng cửa thường trùng giờ tan tầm và biết chọn đường, giờ xuất phát, điểm dừng chờ để chạy xe máy về khách sạn hoặc nhà.",
+   "kw": "đi bảo tàng tránh giờ cao điểm",
+   "kw2": [
+    "kẹt xe giờ tan tầm Hà Nội xe máy",
+    "về từ bảo tàng chiều muộn"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội đi bảo tàng chiều muộn bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-020",
+   "child_id": "C-BAO-TANG",
+   "title": "Dịp lễ lớn đi bảo tàng khu Ba Đình bằng xe máy: phân luồng và đường vòng",
+   "intent": "Biết cách chuẩn bị khi đi bảo tàng khu Ba Đình vào dịp lễ lớn: theo dõi thông báo phân luồng, chọn giờ đi, đường vòng và điểm dừng xe thay thế.",
+   "kw": "đi bảo tàng Ba Đình dịp lễ",
+   "kw2": [
+    "phân luồng khu Ba Đình ngày lễ",
+    "Quốc khánh 2/9 đi bảo tàng bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội đi bảo tàng trong kỳ nghỉ lễ",
+   "location_scope": "Khu Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-021",
+   "child_id": "C-BAO-TANG",
+   "title": "Cuối tuần phố đi bộ quanh Hồ Gươm: chạy xe máy tới bảo tàng khu trung tâm",
+   "intent": "Biết cách tiếp cận Bảo tàng Lịch sử Quốc gia và các bảo tàng quanh khu Hồ Gươm vào cuối tuần khi một số tuyến phố giới hạn xe: chọn hướng vào và điểm dừng xe ngoài vùng đi bộ.",
+   "kw": "phố đi bộ Hồ Gươm bảo tàng",
+   "kw2": [
+    "phố đi bộ cuối tuần đi bảo tàng bằng xe máy",
+    "đường tránh phố đi bộ Hồ Gươm"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách và người Hà Nội đi bảo tàng khu trung tâm vào cuối tuần",
+   "location_scope": "Khu Hồ Gươm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R30-022",
+   "child_id": "C-BAO-TANG",
+   "title": "Lần đầu tự chạy xe máy đi bảo tàng ở Hà Nội: tìm đúng chỗ trên bản đồ điện thoại",
+   "intent": "Biết cách tìm đúng bảo tàng trên bản đồ điện thoại (tên Việt - Anh, ghim trùng, nhiều lối vào), dùng chỉ đường khi chạy xe máy trong phố hẹp và đường một chiều, và xử lý khi định vị lệch.",
+   "kw": "bản đồ điện thoại tìm bảo tàng",
+   "kw2": [
+    "đường một chiều Hà Nội đi bảo tàng",
+    "khách nước ngoài đi bảo tàng Hà Nội bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-11-R30",
+   "audience": "Du khách nước ngoài và người mới đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

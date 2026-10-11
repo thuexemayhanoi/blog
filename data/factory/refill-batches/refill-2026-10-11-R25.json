@@ -1,0 +1,294 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R25: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R25-001",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Các bản Yamaha Sirius: phanh cơ, phanh đĩa, vành đúc khác nhau khi lái ra sao",
+   "intent": "Biết cách nhận ra bản Sirius đang cầm thuê qua phanh trước, kiểu vành và đèn, rồi hiểu từng chi tiết đổi cảm giác phanh và lái trong phố Hà Nội như thế nào, cần hỏi gì khi nhận xe.",
+   "kw": "các bản Yamaha Sirius",
+   "kw2": [
+    "Sirius phanh đĩa hay phanh cơ",
+    "phân biệt các bản Sirius"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người sắp nhận Sirius thuê và muốn biết mình đang cầm bản nào",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-002",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Sirius phun xăng điện tử hay chế hòa khí: đề máy và ga khác nhau thế nào",
+   "intent": "Hiểu khác biệt về cảm giác khởi động, vặn ga và chạy không tải giữa Sirius phun xăng điện tử và Sirius chế hòa khí, để biết xe đang thuê thuộc loại nào và nên để ý điều gì khi đi.",
+   "kw": "Sirius phun xăng hay chế hòa khí",
+   "kw2": [
+    "Sirius phun xăng điện tử là gì",
+    "Sirius chế hòa khí có bền không"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "khách thuê Sirius tò mò xe đang cầm dùng hệ thống nhiên liệu nào",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-003",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Đèn báo lỗi động cơ trên Sirius phun xăng nhấp nháy: dừng hay đi tiếp",
+   "intent": "Biết đèn báo của hệ thống phun xăng sáng hoặc nhấp nháy trên đồng hồ Sirius nghĩa là gì, quan sát gì trên xe để quyết định dừng hay chạy tiếp về cửa hàng, và báo ai, không tự gỡ hay xóa lỗi.",
+   "kw": "đèn FI Sirius nhấp nháy",
+   "kw2": [
+    "đèn báo lỗi Sirius phun xăng",
+    "Sirius phun xăng báo lỗi nên làm gì"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người thuê Sirius bản phun xăng thấy đèn báo lạ trên đồng hồ khi đang đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-004",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Nhược điểm của Yamaha Sirius khi thuê: điều nên biết trước khi chọn",
+   "intent": "Biết thẳng những hạn chế thực tế của Sirius khi thuê (ít tiện nghi hơn xe ga, phải đổi số trong kẹt xe, xe nhẹ gặp gió ngang, chỗ để đồ gọn) để quyết định xe có hợp chuyến đi của mình không.",
+   "kw": "nhược điểm của Yamaha Sirius",
+   "kw2": [
+    "Sirius có hay hỏng vặt không",
+    "Sirius có đáng thuê không"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người đang phân vân giữa Sirius và dòng xe khác, muốn nghe cả mặt hạn chế",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-005",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Người nhỏ nhắn đi Yamaha Sirius: ngồi, chống chân và dắt xe có dễ không",
+   "intent": "Biết người vóc dáng nhỏ ngồi lên Sirius thấy thế nào, chân chạm đất ra sao, dắt xe, dựng chân chống và quay đầu trong ngõ hẹp có xoay xở được không, cùng cách tập trước khi lên đường.",
+   "kw": "người nhỏ nhắn đi Sirius",
+   "kw2": [
+    "Sirius cho người thấp",
+    "nữ đi Yamaha Sirius có được không"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người thấp, nhỏ nhắn hoặc nữ lo chân không chạm đất khi thuê xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-006",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Người cao to đi Yamaha Sirius: ngồi có chật, gối có vướng tay lái không",
+   "intent": "Biết người cao hoặc nặng cân ngồi Sirius có thoải mái không, gối và khuỷu có bị gò quanh tay lái không, đi cả buổi thì mỏi chỗ nào, và khi nào nên chọn xe khác.",
+   "kw": "người cao to đi Sirius",
+   "kw2": [
+    "Sirius cho người cao",
+    "ngồi Sirius có chật không"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người cao lớn hoặc nặng cân đang cân nhắc thuê Sirius",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-007",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius hay Yamaha Mio: cùng hãng, chọn xe số hay xe ga cho ngày đi",
+   "intent": "Chọn giữa Sirius (xe số) và Mio (xe ga) cùng hãng dựa trên thói quen lái, đoạn đường, đồ mang theo và người ngồi sau, thay vì chọn theo tên hay ngoại hình.",
+   "kw": "Sirius hay Mio",
+   "kw2": [
+    "Yamaha Sirius và Mio khác nhau",
+    "xe số hay xe ga cùng hãng Yamaha"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người thích xe Yamaha đang chọn giữa xe số và xe ga để thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-008",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Quen xe côn tay, lần đầu đi Sirius: ly hợp tự động khác gì khi đổi số",
+   "intent": "Hiểu Sirius dùng ly hợp tự động, không có tay côn, nên người đã quen xe côn tay phải bỏ thói quen nào, chỉnh ra sao khi đổi số, nhả ga và dừng chờ để không bỡ ngỡ trong phố Hà Nội.",
+   "kw": "Sirius cho người quen xe côn tay",
+   "kw2": [
+    "xe số ly hợp tự động",
+    "chuyển từ xe côn tay sang xe số"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "khách nước ngoài và người từng đi xe côn tay lần đầu thuê xe số phổ thông",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-009",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Tam Đảo từ Hà Nội: leo dốc, xuống đèo và nghỉ máy",
+   "intent": "Biết xe số nhỏ như Sirius lên các khúc cua dốc Tam Đảo ra sao, chọn số, giữ nhịp, nghỉ máy và xuống đèo bằng phanh phối hợp số thế nào, đi giờ nào để tránh sương và xe đông.",
+   "kw": "Sirius đi Tam Đảo",
+   "kw2": [
+    "xe số đi Tam Đảo",
+    "thuê xe máy đi Tam Đảo từ Hà Nội"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "nhóm bạn hoặc cặp đôi đi Tam Đảo cuối tuần bằng xe số thuê",
+   "location_scope": "Hà Nội đến Tam Đảo",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-010",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Ba Vì trong ngày: đường lên núi, điểm nghỉ và giờ xuất phát",
+   "intent": "Lên kế hoạch một ngày đi Ba Vì bằng Sirius: chọn giờ xuất phát, nhịp chạy trên quốc lộ rồi đường lên núi, chỗ nghỉ, lượng xăng và giờ về để không phải chạy đường núi và quốc lộ lúc trời tối.",
+   "kw": "Sirius đi Ba Vì",
+   "kw2": [
+    "thuê xe số đi Ba Vì",
+    "đi Ba Vì bằng xe máy trong ngày"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người ở nội thành muốn đi Ba Vì một ngày bằng xe số",
+   "location_scope": "Hà Nội, hướng Ba Vì",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-011",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Từ Long Biên đi làng gốm Bát Tràng bằng Sirius: đường đê và ngõ làng",
+   "intent": "Biết cách đi từ khu Long Biên tới làng gốm Bát Tràng bằng xe số gọn nhẹ: chọn đường đê hay đường lớn, giờ nào đỡ đông, gửi xe và đi bộ trong làng, quay về trước giờ trả xe.",
+   "kw": "đi Bát Tràng bằng xe số",
+   "kw2": [
+    "Sirius đi làng gốm Bát Tràng",
+    "từ Long Biên đi Bát Tràng"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "khách thuê xe ở Long Biên muốn đi làng gốm nửa ngày",
+   "location_scope": "Long Biên, Gia Lâm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-012",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Cân nhắc mua Sirius: thuê thử vài ngày để kiểm tra gì trước khi quyết định",
+   "intent": "Biết dùng vài ngày thuê Sirius như một bài chạy thử nghiêm túc: kiểm tra tư thế ngồi, tầm với phanh và số, độ ồn, mức xăng, việc dắt xe vào ngõ nhà, để quyết định có nên mua một chiếc Sirius không.",
+   "kw": "thuê thử Sirius trước khi mua",
+   "kw2": [
+    "có nên mua Yamaha Sirius",
+    "chạy thử xe số trước khi mua"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người đang cân nhắc mua xe số nhỏ gọn và muốn thử trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-013",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Tiếng lạ từ máy xe số Sirius: tiếng bình thường, tiếng cần báo cửa hàng",
+   "intent": "Phân biệt tiếng máy bình thường của xe số với tiếng lạch cạch, rít, cọ hoặc gõ đáng ngờ khi thuê Sirius, biết lắng nghe vào lúc nào, và biết dừng xe, báo cửa hàng thay vì tự xử lý.",
+   "kw": "tiếng lạ từ máy Sirius",
+   "kw2": [
+    "Sirius kêu lạch cạch",
+    "tiếng máy xe số bất thường"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người thuê Sirius nghe thấy tiếng lạ nhưng không biết có nghiêm trọng không",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-014",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Sirius tốn xăng cỡ nào cho một ngày đi: tự đo bằng hai lần đổ đầy bình",
+   "intent": "Biết cách tự ước lượng mức xăng Sirius hao trong một ngày đi thật: đổ đầy, ghi đồng hồ, chạy, đổ đầy lại ở cùng cây xăng, rồi tính ngân sách xăng cho lịch trình, thay vì dựa vào lời đồn.",
+   "kw": "Sirius tốn xăng một ngày đi",
+   "kw2": [
+    "đo mức xăng xe số",
+    "tính tiền xăng khi thuê Sirius"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người thuê Sirius muốn tính trước chi phí xăng cho chuyến đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R25-015",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Sirius, Jupiter và Exciter: ba xe số Yamaha hay bị nhầm, khác nhau ở đâu",
+   "intent": "Phân biệt ba dòng xe số của Yamaha thường bị nhầm tên khi hỏi thuê, biết Sirius thuộc nhóm phổ thông ly hợp tự động còn Exciter là xe côn tay, để nói đúng loại xe mình cần.",
+   "kw": "Sirius Jupiter Exciter khác nhau",
+   "kw2": [
+    "Sirius và Jupiter khác nhau",
+    "Exciter có phải xe số thường không"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R25",
+   "audience": "người mới hỏi thuê xe Yamaha mà lẫn tên các dòng xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

@@ -1,0 +1,352 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R29: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R29-001",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Air Blade hay Click: xe ga nào hợp hơn cho chuyến đi vài ngày",
+   "intent": "Chọn được giữa Honda Air Blade và Honda Click khi thuê vài ngày, qua so sánh định tính về dáng ngồi, độ gọn khi len phố, cảm giác lái, chỗ để đồ và kiểu người dùng hợp với từng xe.",
+   "kw": "air blade hay click khi thuê",
+   "kw2": [
+    "so sánh air blade và click",
+    "thuê air blade hay click"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách du lịch và người ở ngắn ngày đang phân vân giữa hai dòng xe ga",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-002",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Trời mưa ở Hà Nội: thuê xe ga hay xe số dễ đi hơn",
+   "intent": "Hiểu xe ga và xe số khác nhau thế nào khi đi trời mưa: tư thế chân tay, độ ổn định khi phanh trên mặt đường trơn, chỗ để đồ cho khỏi ướt và cách xử lý khi gặp đoạn đường ngập.",
+   "kw": "xe ga hay xe số đi mưa",
+   "kw2": [
+    "đi mưa nên thuê xe ga hay xe số",
+    "đi xe máy trời mưa hà nội"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách thuê xe vào mùa mưa, chưa quen đi xe máy dưới mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-003",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Kẹt xe giờ tan tầm ở Hà Nội: xe số hay xe ga đỡ mệt hơn",
+   "intent": "Biết xe số hay xe ga đỡ mệt hơn khi phải nhích từng đoạn, dừng và đi liên tục trong giờ cao điểm: thao tác chân tay, độ mỏi, giữ thăng bằng lúc nhích chậm và cảm giác khi chen giữa dòng xe.",
+   "kw": "xe số hay xe ga kẹt xe",
+   "kw2": [
+    "kẹt xe nên đi xe số hay xe ga",
+    "xe ga hay xe số đi giờ cao điểm"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "người đi làm và khách thuê tháng thường xuyên gặp giờ cao điểm",
+   "location_scope": "Hà Nội (nội thành giờ cao điểm)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-004",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Cốp xe ga hay xe số: chở balo và đồ đạc khi đi cả ngày",
+   "intent": "Biết xe ga và xe số khác nhau thế nào khi phải mang balo, áo mưa, đồ mua sắm đi cả ngày: chỗ để đồ, mức yên tâm khi để đồ, cách chở gọn để không ảnh hưởng tay lái.",
+   "kw": "chở đồ xe ga hay xe số",
+   "kw2": [
+    "cốp xe ga để được gì",
+    "xe số để đồ ở đâu"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách du lịch và người đi làm hay mang theo balo, máy tính xách tay",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-005",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Đi ngõ nhỏ ở Hà Nội: xe số hay xe ga xoay trở dễ hơn",
+   "intent": "Hiểu xe số hay xe ga dễ xoay trở hơn khi len vào ngõ hẹp, quay đầu, dắt xe lên vỉa hè hoặc vào sân nhà trọ, homestay, dựa vào trọng lượng cảm nhận, tầm với chân và thao tác lùi xe.",
+   "kw": "xe số hay xe ga ngõ nhỏ",
+   "kw2": [
+    "xe số hay xe ga đi ngõ nhỏ",
+    "đi ngõ hẹp hà nội xe nào dễ"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "người thuê xe ở nhà trọ hoặc homestay nằm trong ngõ nhỏ",
+   "location_scope": "Hà Nội (ngõ nhỏ khu phố cổ và các khu dân cư nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-006",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Người thấp nhỏ thuê xe ga hay xe số: chân chạm đất và dắt xe",
+   "intent": "Biết người có vóc dáng nhỏ nên thử gì và cân nhắc gì khi chọn giữa xe ga và xe số: chân chạm đất lúc dừng, độ với tay ga và phanh, dựng chống và dắt xe, độ tự tin khi cầm lái.",
+   "kw": "xe ga hay xe số người thấp",
+   "kw2": [
+    "người thấp nên thuê xe ga hay xe số",
+    "xe máy cho người thấp",
+    "chân không chạm đất khi dừng xe"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "người có vóc dáng nhỏ thuê xe lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-007",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Sắp hết xăng hay sắp hết điện: hai loại xe xử lý khác nhau ra sao",
+   "intent": "Hiểu xe xăng và xe điện khác nhau thế nào khi sắp hết năng lượng: dấu hiệu nhận biết, cách tìm chỗ đổ xăng hoặc sạc điện, cách xử lý nếu xe dừng giữa đường ở nội thành Hà Nội.",
+   "kw": "hết xăng hết điện giữa đường",
+   "kw2": [
+    "xe điện hết điện giữa đường",
+    "xe xăng hết xăng phải làm gì"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách đang cân nhắc thuê xe điện thay cho xe xăng",
+   "location_scope": "Hà Nội (nội thành)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-008",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Lần đầu đi xe máy điện sau quen xe xăng: cảm giác lái khác ở đâu",
+   "intent": "Biết trước những điểm khác về cảm giác lái giữa xe máy điện và xe xăng: êm và gần như không tiếng động, phản ứng khi vặn và nhả ga, việc người đi bộ khó nghe thấy xe, cần chỉnh thói quen nào.",
+   "kw": "xe máy điện khác xe xăng",
+   "kw2": [
+    "đi xe máy điện lần đầu",
+    "cảm giác lái xe điện và xe xăng"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "người quen xe xăng, lần đầu thử xe máy điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-009",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Ở Hà Nội ba bốn tuần: nối gói thuê tuần hay thuê một tháng",
+   "intent": "Chọn giữa việc nối nhiều gói thuê theo tuần và thuê một gói theo tháng khi ở Hà Nội khoảng ba đến bốn tuần, tính theo bảng giá từng dòng xe và mức linh hoạt khi kế hoạch thay đổi.",
+   "kw": "thuê xe máy tuần hay tháng",
+   "kw2": [
+    "thuê xe máy 1 tháng hay 4 tuần",
+    "thuê xe máy tuần liên tiếp"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "sinh viên trao đổi, người đi công tác dài ngày và khách du lịch ở lâu tại Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-010",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Ở Hà Nội vài tháng: thuê xe máy theo tháng hay mua xe cũ",
+   "intent": "Cân nhắc giữa thuê xe máy theo tháng và mua một chiếc xe cũ khi ở Hà Nội vài tháng, về mức linh hoạt, việc bảo dưỡng, rủi ro khi mua, chuyện bán lại lúc rời đi, mà không nêu giá mua xe.",
+   "kw": "thuê xe máy hay mua xe cũ",
+   "kw2": [
+    "ở hà nội vài tháng có nên mua xe máy cũ",
+    "thuê xe máy dài hạn hay mua xe"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "sinh viên quốc tế, người đi làm tạm thời và tình nguyện viên ở Hà Nội vài tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-011",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Đi hai người: thuê một xe chung hay mỗi người một xe",
+   "intent": "Chọn được giữa thuê một xe chở hai người và thuê hai xe riêng khi đi cùng nhau vài ngày, dựa trên chi phí theo bảng giá, độ thoải mái, rủi ro lạc nhau và thói quen lái của mỗi người.",
+   "kw": "thuê một xe hay hai xe",
+   "kw2": [
+    "đi hai người thuê mấy xe máy",
+    "thuê hai xe máy cho cặp đôi"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "cặp đôi hoặc hai người bạn du lịch Hà Nội vài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-012",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Ngày đầu ở Hà Nội: thuê xe máy ngay hay làm quen đường trước",
+   "intent": "Quyết định nên thuê xe máy ngay ngày đầu hay dành một hai ngày đi bộ, đi xe công cộng để làm quen đường phố và giao thông Hà Nội, cân nhắc độ mệt sau chuyến đi, hành lý, giờ đến và khả năng định hướng.",
+   "kw": "mới đến hà nội thuê xe ngay",
+   "kw2": [
+    "ngày đầu đến hà nội thuê xe máy",
+    "làm quen giao thông hà nội trước khi thuê xe"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách vừa đến Hà Nội, lần đầu tới thành phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-013",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Thuê xe máy qua khách sạn hay thuê trực tiếp cửa hàng",
+   "intent": "Biết ưu và nhược của việc nhờ lễ tân khách sạn, homestay sắp xếp xe với việc tự đến cửa hàng thuê xe: sự tiện lợi, khả năng chọn dòng xe, việc kiểm tra xe và trao đổi khi có việc phát sinh.",
+   "kw": "thuê xe khách sạn hay cửa hàng",
+   "kw2": [
+    "thuê xe máy qua lễ tân khách sạn",
+    "homestay cho thuê xe máy"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách du lịch ở khách sạn hoặc homestay, chưa biết nên thuê xe ở đâu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-014",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Thuê xe máy hay đi xe buýt và tàu điện ở Hà Nội: chọn cách nào",
+   "intent": "So sánh định tính thuê xe máy với đi xe buýt và tàu điện đô thị cho khách ở vài ngày và người ở dài hơn: độ chủ động, đi tới điểm cuối, giờ giấc, hành lý, thời tiết, khoảng cách tới điểm đến.",
+   "kw": "thuê xe máy hay xe buýt",
+   "kw2": [
+    "đi lại hà nội bằng xe buýt hay xe máy",
+    "tàu điện cát linh hà đông và xe máy thuê"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách du lịch và người mới đến Hà Nội đang phân vân giữa xe máy thuê và giao thông công cộng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-015",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Tham quan phố cổ Hà Nội: thuê xe máy hay đi bộ, xích lô, xe điện",
+   "intent": "Chọn cách di chuyển quanh khu phố cổ Hà Nội giữa thuê xe máy, đi bộ, xích lô và xe điện du lịch: phố hẹp, đường một chiều, chỗ gửi xe, thời gian đi lại và việc kết hợp nhiều cách trong một ngày.",
+   "kw": "đi phố cổ hà nội bằng gì",
+   "kw2": [
+    "đi phố cổ hà nội bằng xe máy hay đi bộ",
+    "xích lô và xe điện phố cổ"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách du lịch lần đầu tham quan khu phố cổ",
+   "location_scope": "Khu phố cổ Hà Nội và quanh Hồ Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-016",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Tour xe máy có hướng dẫn hay tự thuê xe khám phá Hà Nội",
+   "intent": "So sánh đi tour xe máy có người dẫn với tự thuê xe khám phá Hà Nội: độ tự do lịch trình, mức tự tin cần có khi lái, hiểu biết về đường và món ăn địa phương, nhịp đi và nhóm đi cùng.",
+   "kw": "tour xe máy hay tự thuê xe",
+   "kw2": [
+    "tour xe máy hà nội hay tự đi",
+    "tự thuê xe máy khám phá hà nội"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách nước ngoài và khách du lịch chưa chắc nên tự lái hay đi tour có người dẫn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-017",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Đi Ninh Bình một ngày: tự lái xe máy thuê hay đi xe khách",
+   "intent": "So sánh tự lái xe máy thuê từ Hà Nội đi Ninh Bình trong ngày với đi xe khách rồi di chuyển tại chỗ: thời gian, độ mệt trên đường dài, giờ xuất phát, thời tiết, hành lý và độ chủ động khi tham quan.",
+   "kw": "ninh bình xe máy hay xe khách",
+   "kw2": [
+    "thuê xe máy đi ninh bình một ngày",
+    "hà nội đi ninh bình tự lái hay xe khách"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "khách du lịch ở Hà Nội muốn đi Ninh Bình trong ngày và đã quen lái xe máy",
+   "location_scope": "Hà Nội đi Ninh Bình",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R29-018",
+   "child_id": "C-XE-SO-SANH",
+   "title": "Nhóm ba bốn người ở Hà Nội vài ngày: thuê hai xe máy hay thuê ô tô",
+   "intent": "So sánh thuê hai xe máy với thuê ô tô cho nhóm ba đến bốn người đi Hà Nội vài ngày: tính linh hoạt trong phố, chỗ đỗ, hành lý, thời tiết, tâm lý người lái và độ thoải mái cho từng người, không nêu giá ô tô.",
+   "kw": "thuê xe máy hay thuê ô tô",
+   "kw2": [
+    "nhóm bạn đi hà nội thuê xe máy hay ô tô",
+    "đi hà nội bằng xe máy hay ô tô"
+   ],
+   "links": [
+    "/xe-may/so-sanh-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R29",
+   "audience": "nhóm bạn hoặc gia đình ba đến bốn người tự di chuyển trong Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
