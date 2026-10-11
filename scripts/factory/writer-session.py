@@ -1056,6 +1056,9 @@ def cmd_repair_registry(g, a):
                 WC.parse_registry(raw.decode('utf-8'))
                 return {}, '', {'repaired': False,
                                 'note': 'registry hop le — khong can sua'}
+        except WC.OwnershipConflict as e:
+            raise Refuse('REGISTRY_CONFLICT', '%s — khong rollback lease song; '
+                         'cho het TTL hoac coordinator hoa giai' % e)
         except (WC.RegistryCorrupt, UnicodeDecodeError):
             pass
         rows = parse_matrix(read(MATRIX_REL))

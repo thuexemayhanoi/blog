@@ -1,5 +1,12 @@
 # Hợp đồng 7 workflow (+1 helper) — thuexemayhanoi/blog
 
+Delta hardening 2026-10-12: ownership enforced ở lõi registry và CAS — mỗi
+session một slot sống; registry ID/session mơ hồ fail-closed, recovery không
+rollback lease sống để chọn chủ. Merge offline không chuyển chủ lease sống.
+CI hiện có 26 suite (thêm audit QA provenance). Audit-only helper
+`audit-legacy-qa.py` không thuộc đường mutate/publish hoặc workflow tự chạy.
+FULL build mode dùng validate scope chunk; không phải FULL evidence audit.
+
 Ngày chốt: 2026-10-02 (port kiến trúc /vanchinh hoàn chỉnh). Lịch sử:
 bản 4-workflow (quality-gate + factory-production + factory-liveness +
 factory-publish-verify) và bản 6-workflow (refill chỉ local) đã

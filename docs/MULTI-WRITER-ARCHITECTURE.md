@@ -95,10 +95,10 @@ Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
 - Danh tính phiên là **cộng tác** (cùng một token GitHub): chống nhầm lẫn/đua, không chống kẻ cố tình giả `writer_session`.
 - Lease dựa trên ĐỒNG HỒ máy writer (`expires_at` ghi bằng đồng hồ máy này, so bằng đồng hồ máy kia): đồng hồ lệch quá TTL có thể làm lease sống bị coi hết hạn (hoặc ngược lại). Giữ NTP đúng; TTL mặc định 12h/48h đủ rộng cho lệch phút. Không có nguồn thời gian tin cậy từ git.
 - Tên file draft trùng hậu tố với slug của hàng khác (`*-<slug>.md` khớp `thue-<slug>.md`) làm `factory-operator.find_draft` (glob đầu tiên) có thể chọn nhầm file: selector cách ly cả hai — đặt slug không là hậu tố của nhau.
-- `writer-claim.py merge` (công cụ legacy gộp registry offline) chọn lease claim SỚM hơn khi hai phiên cùng đòi một slot — không dùng cho luồng thường (CAS tránh phải gộp).
+- `writer-claim.py merge` chỉ gộp phần không tranh chấp: không thay chủ slot/ID local còn sống bằng timestamp từ file ngoài. Cùng session trên hai slot hoặc hai session trên một slot → từ chối nguyên tử. Luồng thường dùng CAS, không merge registry thủ công.
 - Container bị tạo lại mà AI không giữ token phiên (`FACTORY_WRITER_SESSION`/`--session`): lease cũ vẫn là của phiên cũ cho đến `expires_at` (12h với `begin`, 48h với claim cũ) — hệ thống KHÔNG chiếm lease còn hạn. Writer chạy lặp (routine) nên đặt token cố định.
 - Run chờ bị hủy bởi run KHÁC workflow chỉ được kích lại bởi push kế tiếp hoặc `confirm --nudge`.
-- Dữ liệu cũ (ngoài phạm vi): 1069 bằng chứng QA của bài đã publish lệch hash sau đợt migrate domain (`validate.py --scope batch|full` đỏ; `chunk` xanh) (hàng BLG-02021 có `internal_links` sai đã được sửa bằng PR #6 — một ô dữ liệu, không đổi vân tay QA). Việc re-attest 1069 bằng chứng cần chủ xe duyệt (xem báo cáo audit).
+- Evidence cũ: snapshot `eb2afa24` có 1069 bài lệch ít nhất một hash (1066 content, 1067 matrix). 1063 chứng minh được chỉ đổi domain; 6 bài cần review riêng, không gộp vào migration. `validate --scope full` vẫn đỏ; FULL build gate dùng validate chunk và không thay thế audit evidence toàn bộ. Audit và phương án: `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`. Chưa có quyền re-attest.
 
 ## 8. Audit đã sửa (P0–P3) và bằng chứng kiểm thử
 

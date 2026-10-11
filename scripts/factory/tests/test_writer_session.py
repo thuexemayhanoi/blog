@@ -60,6 +60,21 @@ class SessionBase(unittest.TestCase):
 
 class TestConcurrentClaims(SessionBase):
 
+    def test_same_session_races_two_different_slots(self):
+        self.sim.clone('a')
+        self.sim.clone('b')
+        procs = [self.sim.session_popen(n, 'begin', '--slot', slot,
+                                       '--session', 's-shared-race', '--count', '2')
+                 for n, slot in [('a', 'W1'), ('b', 'W2')]]
+        results = []
+        for p in procs:
+            so, se = p.communicate(timeout=120)
+            results.append((p.returncode, parse_session_out(so)))
+        self.assertEqual(sorted(c for c, _ in results), [0, 1], results)
+        self.assertEqual(next(o['code'] for c, o in results if c),
+                         'SESSION_HOLDS_OTHER_SLOT')
+        self.assertEqual(len(self.sim.origin_registry()['leases']), 1)
+
     def test_01_three_writers_begin_concurrently(self):
         for n in ('a', 'b', 'c'):
             self.sim.clone(n)

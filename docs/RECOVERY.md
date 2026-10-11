@@ -108,6 +108,17 @@ Ghi vào `reports/factory/latest.md`: nguyên nhân, hành động, HEAD mới, 
 
 ## Registry lease (writer-claims.json) — đa-writer
 
+Mỗi session giữ tối đa một slot sống, kể cả khi gọi `writer-claim.py` trực tiếp
+hoặc adopt lease legacy qua heartbeat. `SESSION_HOLDS_OTHER_SLOT` → resume
+đúng slot hiện có; chỉ đổi slot sau release. `REGISTRY_CONFLICT` (ID/session
+trùng giữa lease sống) → fail-closed, selector không publish, claim/heartbeat/
+release không ghi gì. Không rollback về git history để tự chọn chủ và không
+dùng timestamp từ registry ngoài để thay lease đang sống. Chờ TTL hoặc
+coordinator hòa giải với bằng chứng; không tự reset/force/overwrite lease.
+
+Evidence QA cũ lệch hash: chỉ audit theo `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`.
+Không coi recovery registry hay domain migration là quyền re-attest bài cũ.
+
 - Xem: `python3 scripts/factory/writer-claim.py show` / `status` (đọc, không ghi). Kiểm bất biến: `check-registry`.
 - `REGISTRY_CORRUPT` (JSON hỏng/sai cấu trúc, `expires_at` không phân tích được, ID sai dạng): mọi tool và selector fail-closed, KHÔNG coi
   là rỗng. Phục hồi trên origin: `python3 scripts/factory/writer-session.py repair-registry` (CAS: lấy bản hợp lệ gần nhất trong git

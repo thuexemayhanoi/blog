@@ -23,10 +23,13 @@ Bộ test KHÔNG đụng production: mọi mutation trên bản sao tạm
 Chạy: python3 scripts/factory/tests/test_writer_claim.py (từ repo)
 """
 import hashlib
+import importlib.util
 import json
 import os
 import subprocess
 import sys
+import copy
+import time
 import unittest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
@@ -45,9 +48,12 @@ def _hash(path):
 
 
 def wc(fx, *args):
-    """Chạy writer-claim.py trong fixture; trả (rc, parsed JSON)."""
+    """Mỗi writer mô phỏng là một phiên độc lập; cho phép override rõ ràng."""
+    args = list(args)
+    if '--writer' in args and '--session' not in args:
+        args += ['--session', 's-test-' + args[args.index('--writer') + 1]]
     r = subprocess.run(
-        [sys.executable, 'scripts/factory/writer-claim.py'] + list(args),
+        [sys.executable, 'scripts/factory/writer-claim.py'] + args,
         cwd=fx, capture_output=True, text=True)
     out = _parse_out(r.stdout)
     return r.returncode, out, r.stdout, r.stderr
@@ -109,6 +115,97 @@ def _parse_out(stdout):
     return out
 
 
+_spec = importlib.util.spec_from_file_location(
+    'claim_unit', os.path.join(ROOT, 'scripts/factory/writer-claim.py'))
+WC = importlib.util.module_from_spec(_spec)
+_spec.loader.exec_module(WC)
+
+
+class SessionOwnershipTest(unittest.TestCase):
+    """Pure registry fixtures: no production reads or writes."""
+
+    def setUp(self):
+        self.now = time.time()
+        self.rows = [{'id': 'BLG-%05d' % n, 'status': 'PLANNED'}
+                     for n in range(1, 41)]
+        self.reg = WC.empty_registry()
+
+    def claim(self, slot, session, **kw):
+        return WC.apply_claim(self.reg, self.rows, slot, session,
+                              now=self.now, count=2, **kw)
+
+    def test_same_session_cannot_claim_second_slot(self):
+        self.assertTrue(self.claim('W1', 's-one')['ok'])
+        before = copy.deepcopy(self.reg)
+        r = self.claim('W2', 's-one')
+        self.assertEqual(r.get('code'), 'SESSION_HOLDS_OTHER_SLOT', r)
+        self.assertEqual(self.reg, before)
+
+    def test_legacy_adoption_cannot_give_session_second_slot(self):
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2'].pop('session')
+        before = copy.deepcopy(self.reg)
+        r = WC.apply_heartbeat(self.reg, self.rows, 'W2', 's-one', now=self.now)
+        self.assertEqual(r.get('code'), 'SESSION_HOLDS_OTHER_SLOT', r)
+        self.assertEqual(self.reg, before)
+
+    def test_ambiguous_live_session_fails_closed(self):
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2']['session'] = 's-one'
+        before = copy.deepcopy(self.reg)
+        for operation in (
+                lambda: self.claim('W3', 's-three'),
+                lambda: WC.apply_heartbeat(self.reg, self.rows, 'W1', 's-one', now=self.now),
+                lambda: WC.apply_release(self.reg, self.rows, 'W1', 's-one', end=True, now=self.now)):
+            self.assertEqual(operation().get('code'), 'REGISTRY_CONFLICT')
+            self.assertEqual(self.reg, before)
+        with self.assertRaises(WC.OwnershipConflict):
+            WC.parse_registry(json.dumps(self.reg))
+
+    def test_ambiguous_live_id_fails_closed(self):
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2']['ids'].append('BLG-00001')
+        before = copy.deepcopy(self.reg)
+        r = self.claim('W3', 's-three')
+        self.assertEqual(r.get('code'), 'REGISTRY_CONFLICT', r)
+        self.assertEqual(self.reg, before)
+
+    def test_release_then_switch_slot(self):
+        self.claim('W1', 's-one')
+        self.assertTrue(WC.apply_release(self.reg, self.rows, 'W1', 's-one',
+                                        end=True, now=self.now)['ok'])
+        self.assertTrue(self.claim('W2', 's-one')['ok'])
+        self.assertEqual(WC.check_invariants(self.reg, self.rows, self.now), [])
+
+    def test_expired_slot_does_not_reserve_session(self):
+        self.claim('W1', 's-one')
+        self.reg['leases']['W1']['expires_at'] = WC._iso(self.now - 10)
+        self.assertTrue(self.claim('W2', 's-one')['ok'])
+        self.assertNotIn('W1', self.reg['leases'])
+
+    def test_merge_cannot_replace_live_session_with_earlier_timestamp(self):
+        self.claim('W1', 's-one')
+        other = WC.empty_registry()
+        other['leases']['W1'] = dict(self.reg['leases']['W1'],
+                                    session='s-two', claimed_at='2000-01-01T00:00:00Z')
+        before = copy.deepcopy(self.reg)
+        with self.assertRaises(WC.RegistryCorrupt):
+            WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg, before)
+
+    def test_merge_cannot_put_same_session_in_two_slots(self):
+        self.claim('W1', 's-one')
+        other = WC.empty_registry()
+        other['leases']['W2'] = dict(self.reg['leases']['W1'], ids=['BLG-00003'])
+        before = copy.deepcopy(self.reg)
+        with self.assertRaises(WC.RegistryCorrupt):
+            WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg, before)
+
+
 class WriterClaimTest(FxTestCase):
     """Mọi test chạy trên bản sao repo riêng (self.fx)."""
 
@@ -125,6 +222,20 @@ class WriterClaimTest(FxTestCase):
 
     def matrix_guard(self):
         return _hash(os.path.join(self.fx, MATRIX))
+
+    def test_repair_never_rolls_back_ambiguous_live_ownership(self):
+        self.planned(4)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        reg = self.reg()
+        reg['leases']['W2'] = dict(reg['leases']['W1'], ids=['BLG-99999'])
+        path = os.path.join(self.fx, REG)
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        before = _hash(path)
+        rc, out, _, _ = wc(self.fx, 'repair-registry', '--from-git')
+        self.assertEqual(rc, 1, out)
+        self.assertEqual(out['code'], 'REGISTRY_CONFLICT')
+        self.assertEqual(_hash(path), before)
 
     def test_01_w1_claims_10_ids(self):
         ids = self.planned(10)
@@ -270,7 +381,7 @@ class WriterClaimTest(FxTestCase):
         self.assertEqual(self.reg()['leases']['W1']['ids'], [ids[0]])
         self.assertEqual(self.matrix_guard(), mh, 'matrix bị mutate')
 
-    def test_11_same_id_conflict_single_owner(self):
+    def test_11_earlier_remote_timestamp_cannot_steal_live_id(self):
         ids = self.planned(4)
         _, _, _, _ = wc(self.fx, 'claim', '--writer', 'W1',
                        '--ids', ','.join(ids[:2]))
@@ -282,12 +393,11 @@ class WriterClaimTest(FxTestCase):
             json.dump(remote, f)
         rc, out, _, _ = wc(self.fx, 'merge', '--file', rp)
         self.assertEqual(rc, 0)
-        self.assertEqual(out['conflicts'],
-                         [{'id': ids[0], 'winner': 'W2', 'loser': 'W1'}])
+        self.assertEqual(out['lost_to_other_writer'],
+                         [{'id': ids[0], 'winner': 'W1', 'loser': 'W2'}])
         reg = self.reg()['leases']
-        self.assertIn(ids[0], reg['W2']['ids'])
-        self.assertNotIn(ids[0], reg['W1']['ids'],
-                         'một ID chỉ MỘT owner sau xung đột')
+        self.assertIn(ids[0], reg['W1']['ids'])
+        self.assertNotIn('W2', reg, 'không chuyển chủ lease sống bằng timestamp')
 
     def test_12_claim_refuses_non_planned_and_cap(self):
         ids = self.planned(6)

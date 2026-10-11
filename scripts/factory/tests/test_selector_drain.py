@@ -385,6 +385,17 @@ class TestRegistryAndCap(DrainBase):
     """Góp ý Codex vòng 2 (đã kiểm chứng): registry mơ hồ chủ sở hữu và cắt
     trần backlog trước khi xếp hàng in-flight."""
 
+    def test_one_session_in_two_live_slots_fails_closed(self):
+        a, b = 'BLG-00171', 'BLG-00172'
+        self.r.registry({'W1': dict(lease([a]), session='s-shared'),
+                         'W2': dict(lease([b]), session='s-shared')})
+        rel = self.r.draft(a, writer='W1')
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims khong nhat quan', out['refuse'])
+        self.assertFalse(out['proceed'])
+        _, out, _ = self.sel(backlog=True, rc_expect=3)
+        self.assertEqual(out['queue'], [])
+
     def test_16_same_id_in_two_live_leases_fails_closed(self):
         a = 'BLG-00171'
         self.r.registry({'W1': lease([a]), 'W2': lease([a])})

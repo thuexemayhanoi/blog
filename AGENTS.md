@@ -47,7 +47,7 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 ## Multi-writer (tối đa 3 slot, 1 publisher)
 
 `3 writers (W1/W2/W3) → hàng đợi draft dùng chung → 1 publisher canonical → website`.
-- Slot gắn **session**: một slot thuộc đúng MỘT phiên tại một thời điểm; lease tối đa 10 ID/slot, 30 ID
+- Slot gắn **session**: một slot thuộc đúng MỘT phiên và mỗi phiên chỉ giữ MỘT slot sống tại một thời điểm; lease tối đa 10 ID/slot, 30 ID
   đang làm; TTL + heartbeat; hết hạn mới được phiên khác nhận (`writer-claim.py`, `writer-session.py`).
 - Writer dùng **một công cụ**: `python3 scripts/factory/writer-session.py begin|status|check|push|confirm|release`
   (CAS: fetch → tính lại → push, bounded retry, không force). Đừng tự viết git để claim/push registry.
@@ -98,7 +98,7 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
    bảo hiểm, địa danh.
 5. Bài viết tuân thủ `docs/ARTICLE-RULES.md` + `docs/QUALITY-RUBRIC.md`;
    draft nằm trong `_drafts/`, KHÔNG bao giờ vào `_posts/` tay.
-6. Chỉ MỘT publisher được mutate production mỗi lúc (writer-lock O_EXCL + ownership token + concurrency group); tối đa 3 external writer soạn song song, mỗi ID một chủ, mỗi slot một phiên (`writer-claim.py`). Transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock lock của chủ khác.
+6. Chỉ MỘT publisher được mutate production mỗi lúc (writer-lock O_EXCL + ownership token + concurrency group); tối đa 3 external writer soạn song song, mỗi ID một chủ, mỗi slot một phiên, mỗi phiên một slot (`writer-claim.py`, thực thi cả ở lõi và CAS). Registry mơ hồ ID/session → fail-closed, không chọn chủ bằng timestamp hoặc rollback lease sống. Transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock lock của chủ khác.
 7. Sản xuất qua `factory-publish.yml` (push `_drafts/` tự động; op bảo trì
    chạy local qua `factory-operator.py`), KHÔNG chạy shell tùy ý trong
    Actions. `recover` TRƯỚC mọi op mutating. Op FAIL → DỪNG, giữ việc đã
@@ -116,9 +116,13 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
 
 ## QA modes (docs/PROC-PUBLISH.md)
 
+Audit evidence cũ chỉ đọc: `scripts/factory/audit-legacy-qa.py`; phương án chờ duyệt:
+`docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`. Domain-only không đồng nghĩa QA PASS;
+không tự ghi hash mới, không sửa `_posts/` hoặc `data/qa/` để làm audit xanh.
+
 FAST (mặc định mỗi chunk): validate `--scope chunk` + suite gate/operator/
 refill-safety/workflow-syntax. DEEP (~mỗi 50 bài): + link integrity, qa
 modes, publish flow, refill semantics (scope batch). FULL (weekly / trước
-đổi engine): validate full + 25 suite CI (`scripts/factory/run-tests.py --suites ci`,
+đổi engine): validate full + 26 suite CI (`scripts/factory/run-tests.py --suites ci`,
 job `engine-tests` của quality-gate ở FULL mode) + soak (scope full). Ngưỡng KHÔNG đổi
 giữa các mức.

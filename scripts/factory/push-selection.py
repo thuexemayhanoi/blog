@@ -189,6 +189,10 @@ def claim_registry():
     spec.loader.exec_module(mod)
     try:
         reg = mod.load_registry(path)
+    except mod.OwnershipConflict as e:
+        raise Refuse('registry writer-claims khong nhat quan: %s — '
+                     'khong rollback lease song; cho het TTL hoac coordinator '
+                     'hoa giai co bang chung' % e)
     except mod.RegistryCorrupt as e:
         raise Refuse('registry writer-claims hong (%s) — multi-writer mode '
                      'khong xac dinh duoc chu; chay: writer-claim.py '

@@ -56,7 +56,7 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 ```
 | kết quả | ý nghĩa | làm gì |
 |---|---|---|
-| exit 0 `published` | đã lên site (Factory Publish xanh) | `begin` batch kế |
+| exit 0 `published` | đã promote qua factory; chưa chứng minh URL live | `begin` batch kế; xác nhận Pages SUCCESS và URL HTTP 200 trước khi báo live |
 | exit 3 `REPAIR` + `failed_checks` | QA FAIL, bài chờ **bạn** sửa | sửa đúng draft đó rồi `push` lại (không hạ ngưỡng, không đổi slug/ID) |
 | exit 4 `PENDING` | factory đang xếp hàng | chờ/chạy lại `confirm`; tool tự nudge publisher tối đa 3 lần |
 | `DEFERRED`/FATAL trong log run | run dừng vì hạ tầng | không mất draft: run kế tự nhặt lại; liên hệ chủ xe nếu lặp |
