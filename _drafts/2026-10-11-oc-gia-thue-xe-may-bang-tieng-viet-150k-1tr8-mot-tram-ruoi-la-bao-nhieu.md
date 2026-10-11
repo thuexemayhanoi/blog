@@ -18,7 +18,7 @@ Nhắn tin hỏi giá, khách thường nhận lại câu trả lời ngắn g�
 
 ## Cách đọc giá thuê xe máy tiếng Việt: k là nghìn, tr là triệu
 
-Trong tin nhắn báo giá, chữ k đứng sau con số thay cho nghìn đồng. 150k nghĩa là 150.000đ, 200k là 200.000đ. Đây là kiểu viết tắt phổ biến đến mức nhiều quầy thuê xe không ghi đầy đủ đơn vị nữa. Chữ tr đứng sau số để chỉ triệu: 1tr là một triệu đồng, 1tr8 là một triệu tám, tương đương 1.800.000đ. Nếu bạn thấy mức 2tr cho thuê tháng của một dòng xe tay ga, hãy hiểu là hai triệu đồng.
+Trong tin nhắn báo giá, chữ k đứng sau con số thay cho nghìn đồng. 150k nghĩa là 150.000đ, 200k là 200.000đ. Đây là kiểu viết tắt phổ biến đến mức nhiều quầy thuê xe không ghi đầy đủ đơn vị nữa. Chữ tr đứng sau số để chỉ triệu: 1tr là một triệu đồng, 1tr8 là một triệu tám, tương đương 1.800.000 đồng. Nếu bạn thấy mức 2tr cho thuê tháng của một dòng xe tay ga, hãy hiểu là hai triệu đồng.
 
 Kiểu viết này xuất hiện nhiều nhất trên tin nhắn và bảng giá dán tại quầy. Chủ xe nói nhanh, khách cũng trả lời nhanh, nên con số rút gọn dần thành thói quen. Với người mới đến Hà Nội, lần đầu tiếp xúc dễ lẫn giữa k và tr, đặc biệt khi hai mức giá cách nhau mười lần: 150k một ngày và 1tr5 một tháng là hai con số hoàn toàn khác nhau dù cùng nói về dòng xe số.
 
@@ -34,7 +34,7 @@ Cần phân biệt với cách dùng chữ nghìn trong đời sống thường 
 
 ## Áp vào bảng giá thuê thực tế
 
-Hãy thử đọc một bảng giá tham khảo quanh Hà Nội. Dòng xe số như Wave, Sirius, Nero thường 150k một ngày; Vision hoặc Air Blade khoảng 200k một ngày. Thuê theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ, dòng tay ga lớn hơn tầm 800.000đ đến 1.000.000đ. Thuê tháng, Click hoặc Mio khoảng 1.000.000đ đến 1.200.000đ, Vision khoảng 1.800.000đ đến 2.000.000đ.
+Hãy thử đọc một bảng giá tham khảo quanh Hà Nội. Dòng xe số như Wave, Sirius, Nero thường 150k một ngày; Vision hoặc Air Blade khoảng 200k một ngày. Thuê theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ, dòng tay ga lớn hơn tầm 800.000đ đến 1.000.000 đồng. Thuê tháng, Click hoặc Mio khoảng 1.000.000 đồng đến 1.200.000 đồng, Vision khoảng 1.800.000 đồng đến 2.000.000 đồng.
 
 Đọc bằng tai khá khó, nên cách an toàn là đề nghị chủ xe gửi lại một tin nhắn có đủ ba mức: theo ngày, theo tuần và theo tháng. So sánh ba mức trong cùng một tin nhắn, bạn sẽ thấy ngay đơn vị nào là k, đơn vị nào là tr. Đây cũng là bước đầu trong việc [so sánh giá thuê xe máy theo dòng xe trước khi đặt](/thue-xe/2026/10/10/so-sanh-gia-thue-xe-may-theo-dong-xe-truoc-khi-at/).
 

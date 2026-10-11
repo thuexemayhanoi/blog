@@ -14,17 +14,17 @@ article_id: BLG-02384
 writer: W1
 ---
 
-Hai bảng giá chỉ cách nhau năm mươi nghìn đồng một ngày nghe có vẻ như nhau. Nhưng nếu thuê dài ngày, khoản chênh giá thuê xe tuần tháng mới là con số đáng nhìn. Năm mươi nghìn mỗi ngày, sau một tuần thành ba trăm năm mươi nghìn, sau một tháng thành 1.500.000đ. Bài viết này giúp bạn cộng dồn nhanh và quyết định dòng xe nào đáng trả thêm.
+Hai bảng giá chỉ cách nhau năm mươi nghìn đồng một ngày nghe có vẻ như nhau. Nhưng nếu thuê dài ngày, khoản chênh giá thuê xe tuần tháng mới là con số đáng nhìn. Năm mươi nghìn mỗi ngày, sau một tuần thành ba trăm năm mươi nghìn, sau một tháng thành 1.500.000 đồng. Bài viết này giúp bạn cộng dồn nhanh và quyết định dòng xe nào đáng trả thêm.
 
 ## Chênh giá thuê xe tuần tháng cộng dồn nhanh thế nào
 
-Cách tính rất thẳng: lấy phần chênh theo ngày nhân với số ngày dự kiến. Chênh 50k một ngày, bảy ngày là ba trăm năm mươi nghìn, ba mươi ngày là 1.500.000đ. Với dòng xe đắt hơn 100k một ngày, con số tháng lên tới ba triệu. Vì vậy, khi xem hai bảng giá chỉ khác nhau vài chục nghìn, đừng so theo mức ngày mà hãy quy cả hai ra tuần hoặc tháng.
+Cách tính rất thẳng: lấy phần chênh theo ngày nhân với số ngày dự kiến. Chênh 50k một ngày, bảy ngày là ba trăm năm mươi nghìn, ba mươi ngày là 1.500.000 đồng. Với dòng xe đắt hơn 100k một ngày, con số tháng lên tới ba triệu. Vì vậy, khi xem hai bảng giá chỉ khác nhau vài chục nghìn, đừng so theo mức ngày mà hãy quy cả hai ra tuần hoặc tháng.
 
 Nhiều khách chỉ hỏi giá ngày rồi quyết định nhanh. Với chuyến đi hai ba ngày, cách đó ổn. Nhưng từ khoảng năm ngày trở lên, phần chênh cộng dồn đã đủ để đổi sang một bữa ăn ngon hoặc một đêm nghỉ trọ. Đó là lý do nên xin cả ba mức giá: ngày, tuần, tháng, rồi mới so.
 
 ## So sánh theo dòng xe phổ biến
 
-Lấy ví dụ từ bảng giá tham khảo ở Hà Nội. Wave hoặc Sirius khoảng 150k một ngày, Click và Mio cũng ở mức 150k. Vision hoặc Air Blade khoảng 200k một ngày, tức chênh 50k so với nhóm xe số. Theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ, Vision khoảng 800.000đ đến 1.000.000đ. Theo tháng, Click hoặc Mio khoảng 1.000.000đ đến 1.200.000đ, Vision khoảng 1.800.000đ đến 2.000.000đ, Air Blade khoảng 1.400.000đ.
+Lấy ví dụ từ bảng giá tham khảo ở Hà Nội. Wave hoặc Sirius khoảng 150k một ngày, Click và Mio cũng ở mức 150k. Vision hoặc Air Blade khoảng 200k một ngày, tức chênh 50k so với nhóm xe số. Theo tuần, Click hoặc Mio khoảng 600.000đ đến 700.000đ, Vision khoảng 800.000đ đến 1.000.000 đồng. Theo tháng, Click hoặc Mio khoảng 1.000.000 đồng đến 1.200.000 đồng, Vision khoảng 1.800.000 đồng đến 2.000.000 đồng, Air Blade khoảng 1.400.000 đồng.
 
 Riêng nhóm Air Blade, mức tháng nằm giữa Click và Vision, tạo thành thang giá rõ rệt theo từng dòng xe. Với phần lớn khách thuê quanh Hà Nội, thang tháng này dao động từ một triệu đến hai triệu, tùy dòng xe và thời điểm. Nhìn theo thang đó, bạn định vị nhanh được nhóm xe phù hợp ngân sách của mình.
 

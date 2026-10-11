@@ -14,7 +14,7 @@ article_id: BLG-02386
 writer: W1
 ---
 
-Nhận báo giá từ hai ba nơi, gần như lúc nào bạn cũng thấy một khoảng: 800.000đ đến 1 triệu một tuần, hoặc 1.800.000đ đến 2.000.000đ một tháng. Với nhiều khách, báo giá thuê xe máy dạng khoảng gây khó xử: không biết nên chuẩn bị tiền theo con số nào. Bài viết này giúp bạn đọc đúng khoảng giá và chọn cách lập ngân sách phù hợp.
+Nhận báo giá từ hai ba nơi, gần như lúc nào bạn cũng thấy một khoảng: 800.000đ đến 1 triệu một tuần, hoặc 1.800.000 đồng đến 2.000.000 đồng một tháng. Với nhiều khách, báo giá thuê xe máy dạng khoảng gây khó xử: không biết nên chuẩn bị tiền theo con số nào. Bài viết này giúp bạn đọc đúng khoảng giá và chọn cách lập ngân sách phù hợp.
 
 ## Vì sao báo giá thuê xe máy dạng khoảng là chuyện bình thường
 
@@ -38,9 +38,9 @@ Câu trả lời ngắn: chuẩn bị theo mức cao, kỳ vọng theo mức th�
 
 Với chuyến đi quan trọng như đón khách, ra sân bay sáng sớm hoặc lịch trình không thể trễ, hãy chủ động tính theo mức trên ngay từ đầu. Chênh lệch vài chục nghìn một ngày đổi lấy sự chắc chắn là khoản đáng chi. Với lịch trình mềm dẻo, thoải mái dời ngày, bạn có nhiều không gian chờ mức dưới hơn.
 
-Một cách khác là gộp khoảng giá vào tổng chi. Cộng khoảng thuê với chi phí xăng, gửi xe, ăn uống dự kiến, bạn có một khoảng ngân sách tổng thay vì một con số duy nhất. Ví dụ thuê một tuần trong khoảng 800.000đ đến 1.000.000đ, cộng thêm phần xăng và gửi xe, bạn nên chuẩn bị sẵn khoảng 1.200.000đ cho gọn. Khoảng tổng cho bạn biết biên an toàn nằm ở đâu.
+Một cách khác là gộp khoảng giá vào tổng chi. Cộng khoảng thuê với chi phí xăng, gửi xe, ăn uống dự kiến, bạn có một khoảng ngân sách tổng thay vì một con số duy nhất. Ví dụ thuê một tuần trong khoảng 800.000đ đến 1.000.000 đồng, cộng thêm phần xăng và gửi xe, bạn nên chuẩn bị sẵn khoảng 1.200.000 đồng cho gọn. Khoảng tổng cho bạn biết biên an toàn nằm ở đâu.
 
-Với khách thuê dài hạn một tháng, cách làm tương tự nhưng nhân hệ số thời gian. Khoảng tháng 1.800.000đ đến 2.000.000đ cho dòng tay ga, chuẩn bị theo mức trên cộng phần xăng, bạn sẽ không bao giờ rơi vào thế bị động giữa kỳ thuê.
+Với khách thuê dài hạn một tháng, cách làm tương tự nhưng nhân hệ số thời gian. Khoảng tháng 1.800.000 đồng đến 2.000.000 đồng cho dòng tay ga, chuẩn bị theo mức trên cộng phần xăng, bạn sẽ không bao giờ rơi vào thế bị động giữa kỳ thuê.
 
 ## Thu hẹp khoảng giá trước khi chốt
 
