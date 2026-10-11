@@ -12,7 +12,7 @@ Blog nội dung SEO cho dịch vụ cho thuê xe máy tại Hà Nội, tách bi�
 
 - Content Factory hỗ trợ TỐI ĐA 10.000 bài hợp lệ (HARD CAPACITY — trần kỹ thuật). Quyết định chủ xe 2026-09-27: 10.000 bài hợp lệ PUBLISHED là CHỈ TIÊU sản xuất của một chiến dịch liên tục — không đệm, không hạ gate, đạt bằng chủ đề hợp lệ qua gate mở rộng.
 - Chủ đề mở rộng LAZY: chỉ sinh candidate khi queue PLANNED tụt dưới ngưỡng, và chỉ nhận chủ đề có ý định tìm kiếm thật, qua các gate chống trùng (G1–G8). Chi tiết kiến trúc: `docs/ARCHITECTURE-10K.md`; chính sách biên tập/scale: `docs/CONTENT-POLICY-10K.md`.
-- Bài xuất bản qua publish gate (quality ≥ 90, seo ≥ 90, business fact + legal PASS, hash bằng chứng khớp). Chi tiết: `docs/CONTENT-FACTORY.md`, `docs/QUALITY-RUBRIC.md`.
+- Bài xuất bản qua publish gate (quality ≥ 75, seo ≥ 70, business fact + legal PASS, hash bằng chứng khớp; điểm 90+ là EXCELLENT, không phải ngưỡng bắt buộc). Chi tiết: `docs/CONTENT-FACTORY.md`, `docs/QUALITY-RUBRIC.md`.
 
 ## Trạng thái động (dynamic state) — đọc tại nguồn, KHÔNG tin số trong prose docs
 
@@ -40,11 +40,15 @@ hất.
 - `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
 - `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
 - `reports/factory/` — report sinh từ dữ liệu thật.
-- `.github/workflows/` — CHÍNH XÁC 6 workflow (docs/factory-workflow-contract.md): `quality-gate.yml` (CI FAST mọi push/PR, read-only), `factory-publish.yml` (production publisher DUY NHẤT — push main `_drafts/**`, turbo queue 2..10 draft/push chia pair 2), `factory-liveness.yml` (liveness read-only mỗi 6 giờ), `factory-publish-verify.yml` (FULL audit read-only, dispatch), `factory-soak.yml` (soak hermetic on-demand), `article-batch.yml` (batch planning dry-run read-only). Pages deploy bằng cơ chế built-in của GitHub.
+- `.github/workflows/` — production dùng `factory-publish.yml` (tối đa 10 draft/push, pair 2), `factory-refill.yml` (stage + materialize candidate), `quality-gate.yml` (CI FAST/FULL), `factory-publish-verify.yml` và các workflow kiểm tra/bảo trì theo `docs/factory-workflow-contract.md`. GitHub Pages deploy qua cơ chế của GitHub; không tạo publisher thứ hai.
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 
 EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → push draft `_drafts/` (2..10 ID/push) → `factory-publish.yml` tự chạy đường nóng (selection EXACT ID → pair 2 → claim/QA/publish — KHÔNG AI, KHÔNG secret AI, KHÔNG cron sản xuất) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy theo lệnh.
+
+## Chế độ viết nhanh có kiểm soát
+
+- Hướng dẫn cho AI writer: [`docs/TURBO-WRITER-RUNBOOK.md`](docs/TURBO-WRITER-RUNBOOK.md). Mặc định gom tới 10 draft/push khi đủ hàng hợp lệ, publisher xử lý pair 2 và giữ nguyên QA. Refill chủ đề trước khi hết queue, không bịa nội dung để đạt số lượng.
 
 ## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 
@@ -73,6 +77,7 @@ python3 scripts/factory/refill-queue.py --verify  # gate refill G1-G8 (read-only
 | `docs/CONTENT-POLICY-10K.md` | chính sách biên tập/scale/chống trùng |
 | `docs/QUALITY-RUBRIC.md` | hợp đồng chấm QA |
 | `docs/ENGINE-RUNBOOK.md` | lệnh thực thi/operator |
+| `docs/TURBO-WRITER-RUNBOOK.md` | giao thức 10 draft/push, preflight/refill/multi-writer cho AI ngoài |
 | `docs/RECOVERY.md` | crash/lỗi/phục hồi/resume |
 | `docs/SOURCE-RESEARCH.md` | chính sách nghiên cứu/nguồn (A/B/C) |
 | `docs/INTERNAL-LINKING.md` | chính sách liên kết nội bộ/reverse-link |

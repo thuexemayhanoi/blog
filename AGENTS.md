@@ -41,14 +41,15 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
   concurrency group `factory-publish` với publisher (hai run xếp hàng,
   KHÔNG mutate state cùng lúc). KHÔNG claim, KHÔNG publish bài.
 
+Chế độ TURBO mặc định cho external AI writer: khi có đủ hàng PLANNED hợp lệ và lease riêng, chuẩn bị đủ 10 draft rồi push trong MỘT commit; publisher vẫn chia 5 pair x 2. Không tăng production-control.chunk_size (giữ 2), không tự promote, không giảm QA. Ít hơn 10 bài khi thiếu hàng hợp lệ hoặc cần sửa REPAIR; không tạo bài đệm. Quy trình chi tiết: `docs/TURBO-WRITER-RUNBOOK.md`.
+
 Luồng pair bài (push-driven): writer đọc status/manifests → viết 2..10
 draft `_drafts/` → push → workflow TỰ claim EXACT ID (pair 2) → QA
 (chấm + evidence hash) → publish hàng PASS qua gate → sửa REPAIR thì chỉ
 cần push lại draft đã sửa (repair push, mode repair KHÔNG claim lại từ
 đầu) → chờ Quality gate xanh + Pages deploy + kiểm URL live.
 
-Refill khi queue cạn (hợp đồng sau sự cố drift 2026-10-05): còn
-PLANNED < chunk_size thì writer CHỈ push (1) batch chủ đề thật
+Refill theo ngưỡng vận hành `min_ready_queue=100`, mục tiêu `refill_target=300` trong `data/factory-capacity.json`: AI coordinator chuẩn bị và lọc chủ đề sớm khi PLANNED < 100; tuyệt đối không coi capacity là bài đã viết. Khi cần refill, writer CHỈ push (1) batch chủ đề thật
 `data/factory/refill-batches/<date>-<tag>.json` (đã qua gate G1-G8) và
 (2) bump `data/factory/refill-request.json`. Workflow
 `factory-refill.yml` (CÙNG concurrency group `factory-publish` với
@@ -80,9 +81,7 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
    bảo hiểm, địa danh.
 5. Bài viết tuân thủ `docs/ARTICLE-RULES.md` + `docs/QUALITY-RUBRIC.md`;
    draft nằm trong `_drafts/`, KHÔNG bao giờ vào `_posts/` tay.
-6. Một writer tại một thời điểm: writer-lock O_EXCL + ownership token;
-   transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock
-   lock của chủ khác.
+6. Chỉ MỘT publisher được mutate production mỗi lúc (writer-lock O_EXCL + ownership token); tối đa 3 external writer có thể soạn song song nếu lease ID không trùng (`writer-claim.py`). Transaction conflict → STOP theo `docs/RECOVERY.md`, KHÔNG force-unlock lock của chủ khác.
 7. Sản xuất qua `factory-publish.yml` (push `_drafts/` tự động; op bảo trì
    chạy local qua `factory-operator.py`), KHÔNG chạy shell tùy ý trong
    Actions. `recover` TRƯỚC mọi op mutating. Op FAIL → DỪNG, giữ việc đã
