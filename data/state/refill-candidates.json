@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-11T10:23:21+00:00",
-    "staged_at": "2026-10-11T11:01:14+00:00"
+    "staged_at": "2026-10-11T11:06:12+00:00"
   },
   "candidates": [
     {
@@ -10968,6 +10968,158 @@
       "subtopic": "refill-2026-10-11-R47",
       "audience": "Khách sắp rời Hà Nội bằng máy bay hoặc tàu hỏa, đang thuê xe máy và cần trả xe đúng kế hoạch",
       "location_scope": "Khu Long Biên, sân bay Nội Bài, ga Hà Nội (Hà Nội)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-001",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Đang chạy bỗng hoảng hoặc run tay: tấp xe vào đâu để lấy lại bình tĩnh",
+      "intent": "Biết cách nhận ra dấu hiệu hoảng khi đang chạy xe máy thuê giữa phố, chọn chỗ tấp xe an toàn và làm các bước lấy lại bình tĩnh trước khi quyết định đi tiếp hay dừng buổi chạy.",
+      "kw": "đang chạy xe máy bị hoảng sợ",
+      "kw2": [
+        "run tay khi chạy xe máy",
+        "tấp xe vào đâu khi hoảng"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người lần đầu thuê xe máy bỗng thấy hoảng hoặc run tay giữa dòng xe đông",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-002",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Sau ngày đầu cầm lái xe máy thuê: tự đánh giá để lên kế hoạch ngày thứ hai",
+      "intent": "Biết cách ngồi lại cuối ngày đầu để xem mình đã vững ở khâu nào, còn ngại ở khâu nào, rồi chỉnh tuyến đường, giờ chạy và nhịp tập cho ngày thứ hai.",
+      "kw": "sau ngày đầu đi xe máy thuê",
+      "kw2": [
+        "ngày thứ hai thuê xe máy",
+        "tự đánh giá cách chạy xe máy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người mới vừa qua ngày đầu cầm lái xe thuê và còn thuê thêm vài ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-003",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Quan sát trước khi tự lái ở Hà Nội: ngồi sau xe ôm công nghệ và nhìn dòng xe",
+      "intent": "Biết cách dùng vài chuyến ngồi sau xe ôm công nghệ và vài phút đứng nhìn một nút giao để học nhịp dòng xe Hà Nội bằng mắt, rồi mang những gì quan sát được vào lần tự lái đầu tiên.",
+      "kw": "quan sát giao thông trước khi lái",
+      "kw2": [
+        "ngồi sau xe ôm công nghệ",
+        "làm quen dòng xe Hà Nội"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người chưa dám tự lái ngay và muốn làm quen giao thông Hà Nội trước khi thuê xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-004",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Đọc địa chỉ ngõ, ngách, hẻm ở Hà Nội: tìm đúng nhà khi đi xe máy",
+      "intent": "Hiểu cách Hà Nội ghi địa chỉ có ngõ, ngách, hẻm và số nhà dạng gạch chéo, để tìm đúng chỗ ở, quán, nơi hẹn bằng xe máy mà không phải lòng vòng hay dừng giữa đường xem lại điện thoại.",
+      "kw": "cách đọc địa chỉ ngõ ngách Hà Nội",
+      "kw2": [
+        "tìm nhà trong ngõ Hà Nội",
+        "số nhà gạch chéo là gì"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người mới đến Hà Nội phải tìm nhà trọ, homestay, quán hoặc nơi hẹn trong khu nhiều ngõ",
+      "location_scope": "Hà Nội, các khu phố cũ và khu dân cư nhiều ngõ",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-005",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Chớp đèn, vẫy tay, bấm còi nhẹ ở Hà Nội: người ta muốn nói gì với bạn",
+      "intent": "Hiểu các tín hiệu không lời hay gặp trên đường Hà Nội như chớp đèn pha, vẫy tay, chỉ tay, bấm còi ngắn, để đọc đúng ý người xung quanh và tự đáp lại bằng cử chỉ lịch sự thay vì hiểu nhầm theo thói quen nước khác.",
+      "kw": "chớp đèn pha nghĩa là gì",
+      "kw2": [
+        "vẫy tay khi đi xe máy nghĩa là gì",
+        "bấm còi ngắn ở Hà Nội"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người mới, kể cả khách nước ngoài, chưa quen cách người địa phương ra hiệu trên đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-006",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Tìm nhà vệ sinh khi đi xe máy cả ngày ở Hà Nội: dừng ở đâu cho tiện",
+      "intent": "Biết cách tính trước các điểm dừng có nhà vệ sinh khi đi xe máy cả ngày ở Hà Nội (cây xăng lớn, trung tâm thương mại, quán cà phê, công viên, bảo tàng) và cách khóa xe, giữ đồ khi vào dùng.",
+      "kw": "tìm nhà vệ sinh khi đi xe máy",
+      "kw2": [
+        "nhà vệ sinh khi đi chơi Hà Nội",
+        "dừng xe đi vệ sinh ở đâu"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "khách và người mới đi xe máy thuê cả ngày, chưa biết chỗ dừng tiện",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-007",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Có người vẫy báo xe bạn có vấn đề giữa đường: dừng ở đâu và kiểm tra gì",
+      "intent": "Biết cách xử lý bình tĩnh khi có người đi đường vẫy hoặc gọi báo xe có vấn đề (cốp mở, đèn hậu, đồ rơi, lốp): chọn chỗ dừng an toàn, tự kiểm tra nhanh, giữ đồ và chìa trong tầm tay.",
+      "kw": "người lạ vẫy báo xe có vấn đề",
+      "kw2": [
+        "có người báo rơi đồ khi chạy xe",
+        "cốp xe mở khi đang chạy"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người mới đang chạy xe thuê giữa phố, chưa quen xử lý khi bị người lạ gọi",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-R39-008",
+      "child_id": "C-HD-NGUOI-MOI",
+      "title": "Siết chặt tay lái khiến mỏi tay, tê ngón: người mới thả lỏng thế nào",
+      "intent": "Hiểu vì sao người mới hay siết chặt tay lái và tay ga làm mỏi cẳng tay, tê ngón sau buổi chạy, và biết cách đặt tay, thả vai, chia lại lực để chạy lâu hơn mà đỡ mỏi.",
+      "kw": "mỏi tay tê ngón khi chạy xe máy",
+      "kw2": [
+        "siết tay lái quá chặt",
+        "cầm tay lái thế nào cho đỡ mỏi"
+      ],
+      "links": [
+        "/hoi-dap/hoi-dap-nguoi-moi/",
+        "/hoi-dap/"
+      ],
+      "subtopic": "refill-2026-10-11-R39",
+      "audience": "người mới tập chạy xe máy, thấy mỏi tay hoặc tê ngón sau mỗi buổi chạy",
+      "location_scope": "Hà Nội",
       "word_target": 1200
     }
   ],
