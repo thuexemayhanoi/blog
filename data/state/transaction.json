@@ -1,118 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T07:48:09+00:00",
+  "updated_at": "2026-10-11T10:06:41+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02069",
-      "started_at": "2026-10-11T06:04:05+00:00",
-      "source": "_drafts/2026-10-11-i-honda-wave-uong-dai-toc-o-thoai-mai-va-iem-nghi.md",
-      "destination": "_posts/2026-10-11-i-honda-wave-uong-dai-toc-o-thoai-mai-va-iem-nghi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "443fdbcfa6f09b3777fce11844b30110e456c115",
-      "finished_at": "2026-10-11T06:04:06+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02071",
-      "started_at": "2026-10-11T06:04:06+00:00",
-      "source": "_drafts/2026-10-11-honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan.md",
-      "destination": "_posts/2026-10-11-honda-vision-voi-nguoi-thap-chieu-ke-yen-va-tu-the-at-chan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "443fdbcfa6f09b3777fce11844b30110e456c115",
-      "finished_at": "2026-10-11T06:04:06+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02072",
-      "started_at": "2026-10-11T06:04:09+00:00",
-      "source": "_drafts/2026-10-11-honda-vision-len-doc-dai-giu-toc-va-phanh-ung.md",
-      "destination": "_posts/2026-10-11-honda-vision-len-doc-dai-giu-toc-va-phanh-ung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "443fdbcfa6f09b3777fce11844b30110e456c115",
-      "finished_at": "2026-10-11T06:04:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02074",
-      "started_at": "2026-10-11T06:05:26+00:00",
-      "source": "_drafts/2026-10-11-giu-khoang-cach-voi-xe-phia-truoc-quy-tac-hai-giay.md",
-      "destination": "_posts/2026-10-11-giu-khoang-cach-voi-xe-phia-truoc-quy-tac-hai-giay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3b8025d1ed0462ff82a4d2c8c2429c72c797fa88",
-      "finished_at": "2026-10-11T06:05:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02073",
-      "started_at": "2026-10-11T06:05:44+00:00",
-      "source": "_drafts/2026-10-11-chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai.md",
-      "destination": "_posts/2026-10-11-chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1d46342c876f00f9750b560f2984eb0df3b8dc83",
-      "finished_at": "2026-10-11T06:05:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02075",
-      "started_at": "2026-10-11T06:09:44+00:00",
-      "source": "_drafts/2026-10-11-lui-xe-may-trong-hem-hep-ap-at-va-goc-nghieng.md",
-      "destination": "_posts/2026-10-11-lui-xe-may-trong-hem-hep-ap-at-va-goc-nghieng.md",
-      "result": "PUBLISHED",
-      "commit_sha": "43ff0f431f97088a7a70f4ca490f9f0813620749",
-      "finished_at": "2026-10-11T06:09:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02076",
-      "started_at": "2026-10-11T06:09:44+00:00",
-      "source": "_drafts/2026-10-11-quay-au-xe-may-tren-uong-vang-chon-iem-va-trinh-tu.md",
-      "destination": "_posts/2026-10-11-quay-au-xe-may-tren-uong-vang-chon-iem-va-trinh-tu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "43ff0f431f97088a7a70f4ca490f9f0813620749",
-      "finished_at": "2026-10-11T06:09:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02077",
-      "started_at": "2026-10-11T06:10:50+00:00",
-      "source": "_drafts/2026-10-11-e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang.md",
-      "destination": "_posts/2026-10-11-e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "79256eb1c07bbd7609710aa188adc14e2d822bc4",
-      "finished_at": "2026-10-11T06:10:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02078",
-      "started_at": "2026-10-11T06:10:50+00:00",
-      "source": "_drafts/2026-10-11-cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe.md",
-      "destination": "_posts/2026-10-11-cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "79256eb1c07bbd7609710aa188adc14e2d822bc4",
-      "finished_at": "2026-10-11T06:10:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02079",
-      "started_at": "2026-10-11T06:11:46+00:00",
-      "source": "_drafts/2026-10-11-ve-so-truoc-khi-vao-cua-ky-thuat-chay-muot.md",
-      "destination": "_posts/2026-10-11-ve-so-truoc-khi-vao-cua-ky-thuat-chay-muot.md",
-      "result": "PUBLISHED",
-      "commit_sha": "02bbd745f797677d87d314935520f43ea173ba9e",
-      "finished_at": "2026-10-11T06:11:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02080",
       "started_at": "2026-10-11T06:11:46+00:00",
@@ -275,6 +165,116 @@
       "result": "PUBLISHED",
       "commit_sha": "fba6b8721008818401e6a97e05c3601da1d903be",
       "finished_at": "2026-10-11T07:48:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02095",
+      "started_at": "2026-10-11T10:06:15+00:00",
+      "source": "_drafts/2026-10-11-uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som.md",
+      "destination": "_posts/2026-10-11-uong-phu-bui-at-sau-mua-giam-toc-va-phanh-som.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02096",
+      "started_at": "2026-10-11T10:06:15+00:00",
+      "source": "_drafts/2026-10-11-cho-thung-giay-cong-kenh-tren-xe-may-buoc-va-at-ung-cach.md",
+      "destination": "_posts/2026-10-11-cho-thung-giay-cong-kenh-tren-xe-may-buoc-va-at-ung-cach.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:15+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02097",
+      "started_at": "2026-10-11T10:06:22+00:00",
+      "source": "_drafts/2026-10-11-cho-ghe-nhua-gap-bang-xe-may-xep-va-buoc-gon.md",
+      "destination": "_posts/2026-10-11-cho-ghe-nhua-gap-bang-xe-may-xep-va-buoc-gon.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02098",
+      "started_at": "2026-10-11T10:06:22+00:00",
+      "source": "_drafts/2026-10-11-cho-xap-ban-ve-a0-tren-xe-may-cuon-ong-va-buoc-ngang.md",
+      "destination": "_posts/2026-10-11-cho-xap-ban-ve-a0-tren-xe-may-cuon-ong-va-buoc-ngang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02099",
+      "started_at": "2026-10-11T10:06:28+00:00",
+      "source": "_drafts/2026-10-11-cho-an-guitar-tren-xe-may-buoc-ngang-lung-va-chong-am.md",
+      "destination": "_posts/2026-10-11-cho-an-guitar-tren-xe-may-buoc-ngang-lung-va-chong-am.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02100",
+      "started_at": "2026-10-11T10:06:28+00:00",
+      "source": "_drafts/2026-10-11-cho-ket-trung-tren-xe-may-giam-xoc-tung-lop-em.md",
+      "destination": "_posts/2026-10-11-cho-ket-trung-tren-xe-may-giam-xoc-tung-lop-em.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:28+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02101",
+      "started_at": "2026-10-11T10:06:34+00:00",
+      "source": "_drafts/2026-10-11-gui-xe-may-o-trung-tam-thuong-mai-gio-cao-iem.md",
+      "destination": "_posts/2026-10-11-gui-xe-may-o-trung-tam-thuong-mai-gio-cao-iem.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:34+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02102",
+      "started_at": "2026-10-11T10:06:34+00:00",
+      "source": "_drafts/2026-10-11-gui-xe-may-truoc-cong-truong-luc-tan-hoc.md",
+      "destination": "_posts/2026-10-11-gui-xe-may-truoc-cong-truong-luc-tan-hoc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:34+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02103",
+      "started_at": "2026-10-11T10:06:41+00:00",
+      "source": "_drafts/2026-10-11-gui-xe-may-qua-em-o-bai-trong-giu.md",
+      "destination": "_posts/2026-10-11-gui-xe-may-qua-em-o-bai-trong-giu.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02104",
+      "started_at": "2026-10-11T10:06:41+00:00",
+      "source": "_drafts/2026-10-11-gui-xe-may-o-ga-uong-sat-ha-noi-quy-trinh-va-luu-y.md",
+      "destination": "_posts/2026-10-11-gui-xe-may-o-ga-uong-sat-ha-noi-quy-trinh-va-luu-y.md",
+      "result": "PUBLISHED",
+      "commit_sha": "05f6c739c73836ce8766a93b920a4a726dfb2d92",
+      "finished_at": "2026-10-11T10:06:41+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
