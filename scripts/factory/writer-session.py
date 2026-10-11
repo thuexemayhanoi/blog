@@ -19,9 +19,11 @@ NGUYÊN TẮC CAS (compare-and-swap trên ref origin/main — không force push)
 
 LỆNH:
   begin   --slot W1|W2|W3|auto   nhận slot + lease (resume-first: giữ ID
-          [--count N|--ids ..]   đang dở, bù cho đủ 10). In slot/session/
-          [--label L] [--ttl-hours H] [--adopt] [--session S]
-          [--allow-new-with-repair]
+          [--count N|--ids ..]   đang dở, bù cho đủ N — N là TỔNG số ID
+          [--label L] [--ttl-hours H]  muốn giữ, mặc định 10). In slot/
+          [--adopt] [--session S]      session/ID. Mỗi phiên chỉ MỘT slot;
+          [--allow-new-with-repair]    --session tường minh được LƯU cho các
+                                       lệnh sau (bàn giao AI -> AI)
   status  [--slot W]             đọc: slot, ai giữ, hạn, ID của tôi,
                                  draft chưa push, việc tiếp theo
   sync                           ff-only working copy theo origin/main
@@ -33,7 +35,10 @@ LỆNH:
                                  giữ (+ heartbeat) trong MỘT commit CAS
   confirm [--ids ..]             chờ factory publish: PUBLISHED / REPAIR /
           [--timeout S] [--poll S] [--nudge-after S]
-  heartbeat | release [--ids ..|--all]
+  heartbeat | release [--ids ..|--all] [--even-if-queued]
+          release bị chặn (DRAFT_QUEUED) khi ID đã push draft nhưng chưa publish
+  repair-registry                registry origin hỏng: CAS-commit bản hợp lệ gần
+                                 nhất trong git history (không tạo lease mới)
 
 Thoát: 0 ok; 1 từ chối/lỗi; 2 dùng sai; 3 có REPAIR cần sửa; 4 còn chờ
 (hết timeout, chưa publish); 5 mất lease (không push gì).
@@ -61,6 +66,8 @@ QA_DIR = 'data/qa'
 DRAFTS_DIR = '_drafts'
 FRONT_ID_RE = re.compile(r'^article_id:\s*(BLG-\d+)', re.M)
 MAX_PUSH_IDS = 10
+BEGIN_TTL_HOURS = 12.0       # TTL mặc định của lease MỚI do `begin` tạo
+RENEW_MIN_GAIN_S = 900       # push lặp chỉ ghi gia hạn khi hạn tăng >= 15 phút
 CAS_ATTEMPTS = 8
 NET_ATTEMPTS = 4
 TRANSIENT_RE = re.compile(
@@ -72,6 +79,11 @@ TRANSIENT_RE = re.compile(
 FATAL_RE = re.compile(r'(permission denied|authentication failed|'
                       r'protected branch|\b40[13]\b|\b404\b|'
                       r'repository not found|not allowed)', re.I)
+# từ chối VĨNH VIỄN (retry vô ích): có thể đi kèm chữ "rejected" của git
+PERMANENT_RE = re.compile(r'(protected branch|\bGH0(06|13)\b|'
+                          r'repository rule violations|permission denied|'
+                          r'authentication failed|repository not found)',
+                          re.I)
 
 E_OK, E_REFUSED, E_USAGE, E_REPAIR, E_PENDING, E_LEASE_LOST = 0, 1, 2, 3, 4, 5
 
@@ -131,7 +143,12 @@ class Git:
     def fetch(self):
         last = ''
         for attempt in range(1, NET_ATTEMPTS + 1):
-            r = self.run(['fetch', '-q', self.remote, self.branch],
+            # refspec TƯỜNG MINH (KHÔNG dấu +: nếu origin bị viết lại lịch sử
+            # thì fetch từ chối — fail-closed): clone --single-branch/khác nhánh
+            # vẫn có refs/remotes/<remote>/<branch> (không crash ở rev-parse)
+            r = self.run(['fetch', '-q', self.remote,
+                          'refs/heads/%s:refs/remotes/%s/%s'
+                          % (self.branch, self.remote, self.branch)],
                          check=False)
             if r.returncode == 0:
                 return
@@ -143,6 +160,24 @@ class Git:
 
     def rev(self, ref):
         return self.run(['rev-parse', '--verify', '-q', ref]).stdout.strip()
+
+    def read(self, rev, path):
+        """Nội dung `path` tại `rev`; None CHỈ khi path vắng thật sự. Đọc lỗi
+        (object hỏng, partial clone chưa tải được...) -> Refuse GIT_READ_FAILED
+        — KHÔNG coi là "vắng" (registry bị đọc lỗi từng bị coi là rỗng và bị
+        ghi đè)."""
+        ls = self.run(['ls-tree', rev, '--', path], check=False)
+        if ls.returncode != 0:
+            raise Refuse('GIT_READ_FAILED', 'khong doc duoc cay %s tai %s: %s'
+                         % (path, rev[:10], (ls.stderr or '').strip()[-200:]))
+        if not ls.stdout.strip():
+            return None
+        data = self.show(rev, path)
+        if data is None:
+            raise Refuse('GIT_READ_FAILED', 'path %s co tren %s nhung khong '
+                         'doc duoc noi dung (object hong/chua tai)'
+                         % (path, rev[:10]))
+        return data
 
     def show(self, rev, path):
         r = self.run(['show', '%s:%s' % (rev, path)], check=False,
@@ -185,6 +220,8 @@ class Git:
         if r.returncode == 0:
             return True, 'ok', ''
         err = (r.stderr + r.stdout).strip()
+        if PERMANENT_RE.search(err):
+            return False, 'fatal', err
         if FATAL_RE.search(err) and not re.search(r'rejected', err, re.I):
             return False, 'fatal', err
         if re.search(r'(rejected|non-fast-forward|fetch first|stale info|'
@@ -198,7 +235,9 @@ class Git:
         r = self.run(['var', 'GIT_AUTHOR_IDENT'], check=False)
         if r.returncode == 0:
             return {}
-        name = os.environ.get('FACTORY_WRITER_GIT_NAME', 'writer-%s' % slot)
+        name = os.environ.get('FACTORY_WRITER_GIT_NAME',
+                              'writer-%s' % (slot if slot and slot != 'W?'
+                                             else 'auto'))
         mail = os.environ.get('FACTORY_WRITER_GIT_EMAIL',
                               'noreply@users.noreply.github.com')
         return {'GIT_AUTHOR_NAME': name, 'GIT_AUTHOR_EMAIL': mail,
@@ -214,13 +253,13 @@ class Git:
             base = self.rev(self.ref)
 
             def read(path, _base=base):
-                return self.show(_base, path)
+                return self.read(_base, path)
             changes, message, result = build(base, read)
             if not changes:
                 result['attempts'] = attempt
                 return result, None
             commit = self.make_commit(base, changes, message,
-                                      self.ident(slot))
+                                      self.ident(result.get('slot') or slot))
             ok, kind, err = self.push_commit(commit)
             if ok:
                 result['attempts'] = attempt
@@ -257,8 +296,9 @@ def parse_registry_bytes(data):
                      'repair-registry --from-git' % e)
 
 
-def local_drafts(repo):
-    """{article_id: path_rel} của draft trong working copy."""
+def local_drafts_all(repo):
+    """{article_id: [path_rel, ...]} của draft trong working copy (mọi file
+    khai ID đó — phát hiện hai bản cho một ID)."""
     out = {}
     d = os.path.join(repo, DRAFTS_DIR)
     if not os.path.isdir(d):
@@ -268,13 +308,40 @@ def local_drafts(repo):
             continue
         try:
             with open(os.path.join(d, fn), encoding='utf-8') as f:
-                head = f.read(2500)
-        except OSError:
+                head = f.read(2000)
+        except (OSError, UnicodeDecodeError):
             continue
         m = FRONT_ID_RE.search(head)
         if m:
-            out.setdefault(m.group(1), '%s/%s' % (DRAFTS_DIR, fn))
+            out.setdefault(m.group(1), []).append('%s/%s' % (DRAFTS_DIR, fn))
     return out
+
+
+def local_drafts(repo):
+    """{article_id: path_rel đầu tiên} — dùng khi chỉ cần một bản."""
+    return {i: ps[0] for i, ps in local_drafts_all(repo).items()}
+
+
+def row_slug(row):
+    """Slug draft của một hàng — CÙNG cách factory-operator.find_draft."""
+    out = row.get('output_path') or ''
+    if out.startswith('_posts/{date}-') and out.endswith('.md'):
+        return out[len('_posts/{date}-'):-3]
+    m = re.match(r'_posts/\d{4}-\d{2}-\d{2}-(.+)\.md$', out)
+    return m.group(1) if m else None
+
+
+def origin_drafts_of(g, base, row):
+    """Các file draft CỦA HÀNG này trên origin (tên đúng dạng
+    YYYY-MM-DD-<slug>.md) — để xóa bản cũ khi chủ mới push bản mới."""
+    slug = row_slug(row)
+    if not slug:
+        return []
+    names = g.run(['ls-tree', '-r', '--name-only', base, '--',
+                   DRAFTS_DIR + '/'], check=False).stdout.splitlines()
+    pat = re.compile(r'^%s/\d{4}-\d{2}-\d{2}-%s\.md$'
+                     % (re.escape(DRAFTS_DIR), re.escape(slug)))
+    return [n for n in names if pat.match(n)]
 
 
 def set_identity(path_abs, slot, session):
@@ -318,56 +385,87 @@ def refuse_out(e):
 
 # ------------------------------------------------------------------ lệnh
 
-def pick_slot(reg, rows, want, now):
-    """auto -> slot đang là của TÔI (session mặc định khớp), nếu không thì
-    slot trống đầu tiên; slot hết hạn coi như trống."""
+def pick_slot(reg, rows, want, now, sess):
+    """auto -> slot đang là của PHIÊN này, nếu không thì slot trống đầu tiên
+    (slot hết hạn coi như trống). Mỗi phiên chỉ giữ MỘT slot: đòi slot khác
+    khi đang giữ slot -> SESSION_HOLDS_OTHER_SLOT. Lease legacy (không
+    session) KHÔNG được auto nhận — chỉ `--slot Wn` tường minh mới adopt."""
     work = json.loads(json.dumps(reg))
     WC.prune_registry(work, rows, now)
+    mine = [s for s in WC.SLOTS
+            if sess and (work['leases'].get(s) or {}).get('session') == sess]
     if want != 'auto':
+        if not WC.SLOT_RE.match(want or ''):
+            raise Refuse('BAD_SLOT', 'slot %r khong hop le (chi W1, W2, W3 '
+                         'hoac auto)' % want)
+        other = [s for s in mine if s != want]
+        if other:
+            raise Refuse('SESSION_HOLDS_OTHER_SLOT',
+                         'phien %s dang giu slot %s — moi phien chi mot slot '
+                         '(release truoc, hoac dung --slot %s)'
+                         % (sess, ','.join(other), other[0]),
+                         holder_slots=other)
         return want
-    for s in WC.SLOTS:
-        lease = work['leases'].get(s)
-        mine = WC.default_session(s, create=False)
-        if lease and mine and lease.get('session') == mine:
-            return s
+    if mine:
+        return mine[0]
     for s in WC.SLOTS:
         if s not in work['leases']:
             return s
-    raise Refuse('NO_FREE_SLOT', 'ca %d slot deu dang duoc phien khac giu; '
-                 'xem `writer-session.py status` de biet gio het han'
-                 % WC.MAX_WRITERS,
+    legacy = [s for s, l in work['leases'].items() if not l.get('session')]
+    raise Refuse('NO_FREE_SLOT', 'ca %d slot deu dang duoc giu; xem '
+                 '`writer-session.py status` de biet gio het han%s'
+                 % (WC.MAX_WRITERS,
+                    ('. Slot legacy (lease cu khong session) %s: neu la cua '
+                     'ban chay `begin --slot <slot>` de nhan'
+                     % ','.join(sorted(legacy))) if legacy else ''),
                  slots={w: l.get('expires_at')
-                        for w, l in work['leases'].items()})
+                        for w, l in work['leases'].items()},
+                 legacy_slots=sorted(legacy))
 
 
 def cmd_begin(g, a):
     session = a.session or None
-    result_holder = {}
+    if a.slot != 'auto' and not WC.SLOT_RE.match(a.slot or ''):
+        raise Refuse('BAD_SLOT', 'slot %r khong hop le (chi W1, W2, W3 hoac '
+                     'auto)' % a.slot)
 
     def build(base, read):
         reg = parse_registry_bytes(read(REGISTRY_REL))
         rows = parse_matrix(read(MATRIX_REL))
         now = time.time()
-        slot = pick_slot(reg, rows, a.slot, now)
-        sess = session or WC.default_session(slot)
+        sess = session or WC.default_session()
+        slot = pick_slot(reg, rows, a.slot, now, sess)
         status_of = {r['id']: r['status'] for r in rows}
         lease = reg['leases'].get(slot)
-        mine_ids = list(lease['ids']) if lease and \
-            lease.get('session') in (sess, None) and \
-            WC._epoch_of(lease.get('expires_at', '')) >= now else []
+        # ID đang giữ của CHÍNH phiên này (kể cả lease vừa hết hạn mà chưa ai
+        # nhận: apply_claim nối lại); lease legacy chỉ tính khi còn sống
+        mine_ids = []
+        if lease and (lease.get('session') == sess or (
+                lease.get('session') is None
+                and WC._epoch_of(lease.get('expires_at', '')) >= now)):
+            mine_ids = [i for i in lease['ids']
+                        if status_of.get(i) in WC.LEASABLE]
         repair = [i for i in mine_ids if status_of.get(i) == 'REPAIR']
         count, ids = a.count, _split(a.ids)
         resumed_only = False
         if repair and not a.allow_new_with_repair and not ids:
             count = 0          # resume-first của CHÍNH writer này
             resumed_only = True
+        elif count is not None and not ids:
+            # --count N = TỔNG số ID muốn giữ (không cộng dồn): lặp lại lệnh
+            # (retry CAS sau lỗi 5xx đã áp dụng) KHÔNG phình lease
+            count = max(count - len(mine_ids), 0)
+        ttl = a.ttl_hours
+        if ttl is None and not (lease and lease.get('session') == sess):
+            ttl = BEGIN_TTL_HOURS       # lease MỚI; gia hạn giữ TTL hiện có
         if count == 0 and not ids:
             res = WC.apply_heartbeat(reg, rows, slot, sess, now=now,
-                                     ttl_hours=a.ttl_hours)
+                                     ttl_hours=ttl)
             if not res['ok'] and res.get('code') == 'NO_LEASE':
                 res = WC.apply_claim(reg, rows, slot, sess, count=0,
-                                     now=now, ttl_hours=a.ttl_hours,
-                                     label=a.label, adopt=a.adopt)
+                                     now=now, ttl_hours=ttl,
+                                     label=a.label, adopt=a.adopt,
+                                     allow_empty_pool=True)
                 if not res['ok']:
                     raise Refuse(res['code'], res['error'], **{
                         k: v for k, v in res.items()
@@ -376,8 +474,9 @@ def cmd_begin(g, a):
                 raise Refuse(res['code'], res['error'])
         else:
             res = WC.apply_claim(reg, rows, slot, sess, count=count, ids=ids,
-                                 now=now, ttl_hours=a.ttl_hours,
-                                 label=a.label, adopt=a.adopt)
+                                 now=now, ttl_hours=ttl,
+                                 label=a.label, adopt=a.adopt,
+                                 allow_empty_pool=True)
             if not res['ok']:
                 raise Refuse(res['code'], res['error'], **{
                     k: v for k, v in res.items()
@@ -392,6 +491,7 @@ def cmd_begin(g, a):
                                                             [])}
         res['titles'] = {r['id']: r['title'][:100] for r in rows
                          if r['id'] in set(res.get('leased_total', []))}
+        res['orphan_inflight'] = WC.orphan_rows(reg, rows, now)
         text = WC.dump_registry(reg)
         old = read(REGISTRY_REL)
         changes = {} if old is not None and _same_registry(old, text) \
@@ -399,11 +499,14 @@ def cmd_begin(g, a):
         first = res.get('claimed') or res.get('leased_total') or ['-']
         msg = ('writer-claim(%s): lease %s\n\nWriter-Session: %s'
                % (slot, ','.join(first[:1] + first[-1:]), sess))
-        result_holder.update(slot=slot)
         return changes, msg, res
 
     res, commit = g.cas(build, a.slot if a.slot != 'auto' else 'W?')
     res.pop('ok', None)
+    if session:
+        # bàn giao/nối phiên tường minh: lưu để status/check/push/confirm
+        # (không nhận --session) nhận ra cùng phiên
+        WC.save_session(res['session'])
     sync = try_sync(g)
     res['sync'] = sync
     print('SLOT %s | session %s | epoch %s | han %s | ID: %s'
@@ -437,9 +540,13 @@ def try_sync(g):
         cur = g.run(['rev-parse', '--abbrev-ref', 'HEAD']).stdout.strip()
         if cur != g.branch:
             return {'synced': False, 'reason': 'khong o nhanh %s' % g.branch}
-        dirty = g.run(['status', '--porcelain', '--untracked-files=no']
-                      ).stdout.strip()
-        if dirty:
+        if _tracked_dirty(g):
+            # draft đã tracked mà writer sửa rồi `push` (plumbing, không đẩy
+            # nhánh local): bản local GIỐNG HỆT origin => khôi phục về HEAD để
+            # ff-merge đưa về đúng bản đã push (không bao giờ bỏ qua đồng bộ
+            # vĩnh viễn vì file "dirty" thực ra đã được push)
+            _reconcile_tracked_drafts(g)
+        if _tracked_dirty(g):
             return {'synced': False, 'reason': 'co thay doi tracked cuc bo'}
         for attempt in range(2):
             r = g.run(['merge', '--ff-only', '-q', g.ref], check=False)
@@ -469,23 +576,53 @@ def try_sync(g):
         return {'synced': False, 'reason': str(e)[:200]}
 
 
+def _tracked_dirty(g):
+    return g.run(['status', '--porcelain', '--untracked-files=no']
+                 ).stdout.strip() != ''
+
+
+def _reconcile_tracked_drafts(g):
+    out = g.run(['status', '--porcelain', '-z', '--untracked-files=no'],
+                check=False).stdout
+    for ent in out.split('\0'):
+        if len(ent) < 4:
+            continue
+        xy, path = ent[:2], ent[3:]
+        if not path.startswith(DRAFTS_DIR + '/') or 'R' in xy or 'C' in xy:
+            continue
+        up = g.show(g.ref, path)
+        loc = os.path.join(g.repo, path)
+        try:
+            with open(loc, 'rb') as f:
+                cur = f.read()
+        except OSError:
+            cur = None               # đã xóa ở working copy
+        if up == cur:                # cùng bản origin (kể cả cùng bị xóa)
+            g.run(['checkout', '-q', 'HEAD', '--', path], check=False)
+
+
 def cmd_sync(g, a):
     g.fetch()
     return emit(E_OK, {'ok': True, 'sync': try_sync(g)})
 
 
 def my_slot_and_session(g, a, reg, rows):
-    """Slot/session hiện tại của tôi: --slot hoặc suy ra từ session mặc định."""
+    """Slot/session hiện tại của PHIÊN này (--session > env > file working
+    copy). Không có phiên hoặc không giữ slot nào -> (None, None, None)."""
     now = time.time()
     work = json.loads(json.dumps(reg))
     WC.prune_registry(work, rows, now)
-    slots = [a.slot] if getattr(a, 'slot', None) and a.slot != 'auto' \
-        else list(WC.SLOTS)
-    sess_arg = getattr(a, 'session', None)
+    sess = getattr(a, 'session', None) or WC.default_session(create=False)
+    if not sess:
+        return None, None, None
+    want = getattr(a, 'slot', None)
+    slots = [want] if want and want != 'auto' else list(WC.SLOTS)
     for s in slots:
-        sess = sess_arg or WC.default_session(s, create=False)
+        if not WC.SLOT_RE.match(s or ''):
+            raise Refuse('BAD_SLOT', 'slot %r khong hop le (chi W1, W2, W3)'
+                         % s)
         lease = work['leases'].get(s)
-        if lease and sess and lease.get('session') == sess:
+        if lease and lease.get('session') == sess:
             return s, sess, lease
     return None, None, None
 
@@ -493,8 +630,8 @@ def my_slot_and_session(g, a, reg, rows):
 def cmd_status(g, a):
     g.fetch()
     base = g.rev(g.ref)
-    reg = parse_registry_bytes(g.show(base, REGISTRY_REL))
-    rows = parse_matrix(g.show(base, MATRIX_REL))
+    reg = parse_registry_bytes(g.read(base, REGISTRY_REL))
+    rows = parse_matrix(g.read(base, MATRIX_REL))
     now = time.time()
     status_of = {r['id']: r['status'] for r in rows}
     work = json.loads(json.dumps(reg))
@@ -502,8 +639,12 @@ def cmd_status(g, a):
     slot, sess, lease = my_slot_and_session(g, a, reg, rows)
     slots = {w: WC._slot_view(w, l, status_of, now)
              for w, l in work['leases'].items()}
+    legacy = sorted(w for w, l in work['leases'].items()
+                    if not l.get('session'))
     out = {'ok': True, 'head': base[:10], 'slots': slots,
            'free_slots': [s for s in WC.SLOTS if s not in work['leases']],
+           'legacy_slots': legacy,
+           'orphan_inflight': WC.orphan_rows(reg, rows, now),
            'planned_left': sum(1 for r in rows if r['status'] == 'PLANNED'),
            'me': None}
     if slot:
@@ -528,10 +669,16 @@ def cmd_status(g, a):
         else:
             out['next_action'] = 'begin de nhan batch ke tiep'
     else:
-        out['next_action'] = ('begin --slot auto de nhan slot'
-                              if out['free_slots'] else
-                              'ca 3 slot dang bi giu — cho het han hoac '
-                              'dung slot cua minh voi --session')
+        if legacy:
+            out['next_action'] = ('slot legacy %s (lease cu khong session): '
+                                  'neu la cua ban chay `begin --slot <slot>` '
+                                  'de nhan; con lai: begin --slot auto'
+                                  % ','.join(legacy))
+        elif out['free_slots']:
+            out['next_action'] = 'begin --slot auto de nhan slot'
+        else:
+            out['next_action'] = ('ca 3 slot dang bi giu — cho het han hoac '
+                                  'dung phien/token cua minh (--session)')
     return emit(E_OK, out)
 
 
@@ -564,14 +711,24 @@ def cmd_check(g, a, then_push=False):
     g.fetch()
     sync = try_sync(g)      # QA cục bộ phải thấy bài/matrix mới nhất
     base = g.rev(g.ref)
-    reg = parse_registry_bytes(g.show(base, REGISTRY_REL))
-    rows = parse_matrix(g.show(base, MATRIX_REL))
+    reg = parse_registry_bytes(g.read(base, REGISTRY_REL))
+    rows = parse_matrix(g.read(base, MATRIX_REL))
     slot, sess, lease = my_slot_and_session(g, a, reg, rows)
     if not slot:
         raise Refuse('LEASE_LOST', 'khong con slot song cho phien nay — '
-                     'chay begin')
+                     'chay begin (lease legacy khong session: begin --slot '
+                     '<slot> de nhan)')
     ids = _resolve_ids(g, a, slot, lease)
-    drafts = local_drafts(g.repo)
+    all_drafts = local_drafts_all(g.repo)
+    dups = {i: all_drafts[i] for i in ids if len(all_drafts.get(i, [])) > 1}
+    if dups:
+        raise Refuse('DUPLICATE_DRAFT',
+                     'nhieu file draft cho cung mot ID (khong biet ban nao '
+                     'la ban dung): %s — giu MOT file, xoa ban thua'
+                     % '; '.join('%s: %s' % (i, ', '.join(ps))
+                                 for i, ps in sorted(dups.items())),
+                     duplicates=dups)
+    drafts = {i: ps[0] for i, ps in all_drafts.items()}
     missing = [i for i in ids if i not in drafts]
     have = [i for i in ids if i in drafts]
     status_of = {r['id']: r['status'] for r in rows}
@@ -618,8 +775,10 @@ def cmd_push(g, a):
     def build(base, read):
         reg = parse_registry_bytes(read(REGISTRY_REL))
         rows = parse_matrix(read(MATRIX_REL))
+        by_id = {r['id']: r for r in rows}
         status_of = {r['id']: r['status'] for r in rows}
         now = time.time()
+        before_exp = (reg['leases'].get(slot) or {}).get('expires_at')
         res = WC.apply_heartbeat(reg, rows, slot, sess, now=now,
                                  ttl_hours=a.ttl_hours)
         if not res['ok']:
@@ -640,15 +799,40 @@ def cmd_push(g, a):
             cur = read(path)
             if cur is not None and cur == blobs[path]:
                 changes.pop(path)           # đã có đúng nội dung: idempotent
+        # draft CŨ của cùng ID còn trên origin (lease cũ hết hạn / đổi ngày):
+        # chủ hiện tại là người duy nhất được giữ bản cho ID này — xóa bản cũ
+        # TRONG CÙNG commit, nếu không selector/engine không chọn được giữa
+        # hai bản (hoặc chọn nhầm bản cũ)
+        removed = []
+        for i in passed:
+            for old in origin_drafts_of(g, base, by_id[i]):
+                if old != drafts[i]:
+                    changes[old] = None
+                    removed.append(old)
         if not changes:
             res['already_pushed'] = True
+            gain = (WC._epoch_of(res.get('expires_at'))
+                    - WC._epoch_of(before_exp))
+            if gain >= RENEW_MIN_GAIN_S:
+                # push lặp sau một khoảng chờ publisher dài: GHI gia hạn lease
+                # (nếu không lease có thể hết hạn rồi draft bị cách ly dù
+                # push báo thành công)
+                res['lease_renewed'] = True
+                return ({REGISTRY_REL: WC.dump_registry(reg).encode('utf-8')},
+                        'writer-claim(%s): heartbeat (push lap)\n\n'
+                        'Writer-Session: %s' % (slot, sess),
+                        dict(res, pushed=[], ids=passed))
+            # không ghi gì: KHÔNG báo hạn mới như thể đã lưu
+            res['lease_renewed'] = False
+            res['expires_at'] = before_exp
             return {}, '', dict(res, pushed=[], ids=passed)
         changes[REGISTRY_REL] = WC.dump_registry(reg).encode('utf-8')
         msg = ('draft(%s..%s): push batch %d draft cho factory publish '
                '(writer %s)\n\nWriter-Session: %s'
                % (passed[0], passed[-1], len(passed), slot, sess))
         return changes, msg, dict(res, pushed=passed,
-                                  files=sorted(blobs))
+                                  files=sorted(blobs),
+                                  removed_stale=sorted(removed))
     try:
         res, commit = g.cas(build, slot)
     except Refuse as e:
@@ -656,14 +840,38 @@ def cmd_push(g, a):
                     dict(out, ok=False, code=e.code, error=e.msg))
     res.pop('ok', None)
     res['sync'] = try_sync(g)
+    _remember_pushed(passed)
     payload = dict(out, **{k: v for k, v in res.items()
-                           if k in ('commit', 'attempts', 'pushed',
-                                    'already_pushed', 'expires_at', 'sync')})
+                           if k in ('commit', 'attempts', 'pushed', 'files',
+                                    'removed_stale', 'already_pushed',
+                                    'lease_renewed', 'expires_at', 'sync')})
     payload['ok'] = True
     print('PUSH OK: %d draft (%s) commit %s' % (
         len(passed), ','.join(passed), (commit or '-')[:10]),
         file=sys.stderr)
     return emit(E_OK, payload)
+
+
+def _last_push_file():
+    return WC._session_dir() / 'last-push.json'
+
+
+def _remember_pushed(ids):
+    """Nhớ ID vừa push (cho `confirm` không --ids sau khi lease đã prune vì
+    đã publish hết)."""
+    try:
+        WC._write_atomic(_last_push_file(), json.dumps(
+            {'ids': list(ids), 'at': WC._now()}))
+    except OSError:
+        pass
+
+
+def _recall_pushed():
+    try:
+        d = json.loads(_last_push_file().read_text(encoding='utf-8'))
+        return [i for i in d.get('ids', []) if isinstance(i, str)]
+    except Exception:
+        return []
 
 
 def read_qa_failures(g, base, i):
@@ -689,10 +897,11 @@ def read_qa_failures(g, base, i):
 def cmd_confirm(g, a):
     g.fetch()
     base = g.rev(g.ref)
-    reg = parse_registry_bytes(g.show(base, REGISTRY_REL))
-    rows = parse_matrix(g.show(base, MATRIX_REL))
+    reg = parse_registry_bytes(g.read(base, REGISTRY_REL))
+    rows = parse_matrix(g.read(base, MATRIX_REL))
     slot, sess, lease = my_slot_and_session(g, a, reg, rows)
-    ids = _split(a.ids) or (list(lease['ids']) if lease else [])
+    ids = _split(a.ids) or (list(lease['ids']) if lease else []) \
+        or _recall_pushed()
     if not ids:
         raise Refuse('NO_IDS', 'khong co ID de xac nhan (truyen --ids)')
     t0 = time.time()
@@ -702,11 +911,13 @@ def cmd_confirm(g, a):
     while True:
         g.fetch()
         base = g.rev(g.ref)
-        rows = parse_matrix(g.show(base, MATRIX_REL))
+        rows = parse_matrix(g.read(base, MATRIX_REL))
         st = {r['id']: r['status'] for r in rows}
         last = {i: st.get(i, '?') for i in ids}
         published = [i for i in ids if last[i] == 'PUBLISHED']
         repair = [i for i in ids if last[i] == 'REPAIR']
+        blocked = [i for i in ids if last[i] in ('BLOCKED', 'EXISTING',
+                                                 'REVIEW')]
         waiting = [i for i in ids if last[i] in ('PLANNED', 'WRITING', 'QA',
                                                 'PASS')]
         if len(published) == len(ids):
@@ -718,9 +929,16 @@ def cmd_confirm(g, a):
         if repair and not waiting:
             return emit(E_REPAIR, {
                 'ok': False, 'code': 'REPAIR', 'published': published,
+                'blocked': {i: last[i] for i in blocked},
                 'repair': {i: read_qa_failures(g, base, i) for i in repair},
                 'hint': 'sua draft theo failed_checks roi push lai (cung '
                         'ID); KHONG ha nguong QA'})
+        if blocked and not waiting:
+            return emit(E_REFUSED, {
+                'ok': False, 'code': 'BLOCKED', 'published': published,
+                'blocked': {i: last[i] for i in blocked},
+                'hint': 'hang bi khoa/da co/dang review — KHONG tu mo; bao '
+                        'chu xe'})
         elapsed = time.time() - t0
         if elapsed >= a.timeout:
             return emit(E_PENDING, {
@@ -767,7 +985,9 @@ def cmd_heartbeat(g, a):
         rows = parse_matrix(read(MATRIX_REL))
         slot, sess, lease = my_slot_and_session(g, a, reg, rows)
         if not slot:
-            raise Refuse('LEASE_LOST', 'khong con slot song cho phien nay')
+            raise Refuse('LEASE_LOST', 'khong con slot song cho phien nay '
+                         '(lease legacy khong session: begin --slot <slot> '
+                         'de nhan)')
         res = WC.apply_heartbeat(reg, rows, slot, sess, ttl_hours=a.ttl_hours)
         if not res['ok']:
             raise Refuse('LEASE_LOST', res['error'])
@@ -789,6 +1009,19 @@ def cmd_release(g, a):
         if not slot:
             return {}, '', {'released': [], 'ended': False,
                             'note': 'khong co lease song de release'}
+        status_of = {r['id']: r['status'] for r in rows}
+        by_id = {r['id']: r for r in rows}
+        dropping = list(lease['ids']) if a.all else [
+            i for i in (ids or []) if i in lease['ids']]
+        queued = [i for i in dropping if status_of.get(i) == 'PLANNED'
+                  and origin_drafts_of(g, base, by_id[i])]
+        if queued and not a.even_if_queued:
+            raise Refuse('DRAFT_QUEUED',
+                         'ID %s da push draft len main va dang cho '
+                         'publisher: release luc nay lam draft mo coi (selector '
+                         'cach ly vi khong con lease). Cho `confirm` bao '
+                         'PUBLISHED roi release, hoac them --even-if-queued'
+                         % ','.join(queued), queued=queued)
         res = WC.apply_release(reg, rows, slot, sess, ids=ids or [],
                                end=a.all)
         if not res['ok']:
@@ -801,10 +1034,49 @@ def cmd_release(g, a):
     return emit(E_OK, dict(res, ok=True))
 
 
+def cmd_repair_registry(g, a):
+    """Registry trên origin/main HỎNG (REGISTRY_CORRUPT làm mọi lệnh khác và
+    selector fail-closed): lấy bản hợp lệ GẦN NHẤT trong git history của
+    file, prune theo matrix hiện tại rồi CAS-commit thay file hỏng. KHÔNG
+    tạo lease mới, KHÔNG force push. Registry đang hợp lệ -> không làm gì."""
+    def build(base, read):
+        raw = read(REGISTRY_REL)
+        try:
+            if raw is not None:
+                WC.parse_registry(raw.decode('utf-8'))
+                return {}, '', {'repaired': False,
+                                'note': 'registry hop le — khong can sua'}
+        except (WC.RegistryCorrupt, UnicodeDecodeError):
+            pass
+        rows = parse_matrix(read(MATRIX_REL))
+        shas = g.run(['log', '--format=%H', '-n', '100', base, '--',
+                      REGISTRY_REL], check=False).stdout.split()
+        for sha in shas:
+            data = g.show(sha, REGISTRY_REL)
+            if data is None:
+                continue
+            try:
+                reg = WC.parse_registry(data.decode('utf-8'))
+            except (WC.RegistryCorrupt, UnicodeDecodeError):
+                continue
+            report = WC.prune_registry(reg, rows, time.time())
+            return ({REGISTRY_REL: WC.dump_registry(reg).encode('utf-8')},
+                    'writer-claim: repair registry from %s' % sha[:10],
+                    {'repaired': True, 'source': sha[:10], 'report': report})
+        raise Refuse('NO_VALID_VERSION', 'khong tim thay ban registry hop le '
+                     'trong 100 commit gan nhat — sua tay (docs/RECOVERY.md)')
+    res, commit = g.cas(build, 'W?')
+    res.pop('ok', None)
+    return emit(E_OK, dict(res, ok=True, commit=commit))
+
+
 # -------------------------------------------------------------------- main
 
 def toplevel(repo):
     if repo:
+        if not os.path.isdir(repo):
+            print('LOI: --repo %s khong ton tai' % repo, file=sys.stderr)
+            sys.exit(E_USAGE)
         return os.path.abspath(repo)
     r = subprocess.run(['git', 'rev-parse', '--show-toplevel'],
                        capture_output=True, text=True)
@@ -832,7 +1104,8 @@ def main(argv=None):
     b.add_argument('--count', type=int, default=None)
     b.add_argument('--ids', default=None)
     b.add_argument('--label', default=None)
-    b.add_argument('--ttl-hours', type=float, default=12.0)
+    b.add_argument('--ttl-hours', type=float, default=None,
+                   help='TTL lease mới (mặc định 12h); gia hạn giữ TTL cũ')
     b.add_argument('--adopt', action='store_true')
     b.add_argument('--allow-new-with-repair', action='store_true')
     b.add_argument('--session', default=None)
@@ -857,16 +1130,27 @@ def main(argv=None):
     r = sub.add_parser('release')
     ids_opt(r)
     r.add_argument('--all', action='store_true')
+    r.add_argument('--even-if-queued', action='store_true',
+                   help='release cả ID đã push draft nhưng chưa publish')
+    sub.add_parser('repair-registry')
     a = ap.parse_args(argv)
     repo = toplevel(a.repo)
     g = Git(repo, a.remote, a.branch)
     try:
+        if getattr(a, 'session', None) and not WC.valid_session(a.session):
+            raise Refuse('BAD_SESSION', 'session id khong hop le (chi '
+                         '[A-Za-z0-9._-], toi da 64 ky tu)')
         fn = {'begin': cmd_begin, 'status': cmd_status, 'sync': cmd_sync,
               'check': cmd_check, 'push': cmd_push, 'confirm': cmd_confirm,
-              'heartbeat': cmd_heartbeat, 'release': cmd_release}[a.cmd]
+              'heartbeat': cmd_heartbeat, 'release': cmd_release,
+              'repair-registry': cmd_repair_registry}[a.cmd]
         return fn(g, a)
     except Refuse as e:
         return refuse_out(e)
+    except WC.BadSession as e:
+        return refuse_out(Refuse('BAD_SESSION', str(e)))
+    except RuntimeError as e:        # git lỗi không lường trước: có cấu trúc
+        return refuse_out(Refuse('GIT_FAILED', str(e)[-300:]))
 
 
 if __name__ == '__main__':

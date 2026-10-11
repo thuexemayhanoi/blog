@@ -30,8 +30,10 @@ HỢP ĐỒNG (TURBO MULTI-WRITER):
       (a) lease hết hạn bị drop;
       (b) id không còn leasable (PUBLISHED/EXISTING/BLOCKED/REVIEW/lạ)
           bị drop;
-      (c) lease legacy (không session) không còn id bị xóa; slot có
-          session được GIỮ (đặt chỗ) cho tới khi release/hết hạn;
+      (c) lease không còn id (đã publish hết) bị xóa — KỂ CẢ lease có
+          session: slot KHÔNG được đặt chỗ giữa hai batch (một lease rỗng
+          không bảo vệ ID nào, mà khóa slot tới 48h nếu container của phiên
+          bị tạo lại); phiên cũ chỉ cần `begin`/`claim` lại;
       (d) ID trùng giữa hai lease sống -> giữ lease claimed_at SỚM HƠN;
       (e) vượt MAX_WRITERS -> bỏ lease claim MUỚI NHẤT (không đụng
           lease cũ đang sống);
@@ -93,11 +95,15 @@ import uuid
 ROOT = pathlib.Path(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
 MATRIX = ROOT / 'data' / 'content-matrix.csv'
-REGISTRY = pathlib.Path(os.environ.get(
-    'WRITER_CLAIMS', str(ROOT / 'data' / 'state' / 'writer-claims.json')))
+REGISTRY = pathlib.Path(os.environ.get('WRITER_CLAIMS')
+                        or str(ROOT / 'data' / 'state' / 'writer-claims.json'))
 SCHEMA_VERSION = '2'
 SLOTS = ('W1', 'W2', 'W3')
 SLOT_RE = re.compile(r'^W[1-3]$')
+# token phiên: chỉ ký tự an toàn (được ghi nguyên văn vào frontmatter draft —
+# KHÔNG cho dấu cách/xuống dòng/':' làm hỏng YAML hay chèn khóa lạ)
+SESSION_RE = re.compile(r'^[A-Za-z0-9._-]{1,64}$')
+ID_RE = re.compile(r'^BLG-\d+$')
 MAX_LEASE = 10     # lease sống tối đa mỗi writer (write-ahead buffer)
 MAX_WRITERS = 3    # registry từ chối writer thứ 4
 TTL_HOURS = 48.0   # TTL mặc định; mỗi claim/heartbeat gia hạn
@@ -128,13 +134,33 @@ def _epoch_of(iso):
     bao giờ sống lại. DÙNG calendar.timegm (UTC thuần): time.mktime diễn
     giải theo múi giờ MÁY — lệch ±7h giữa phiên ở múi giờ khác nhau, làm
     lease còn hạn bị coi là hết hạn (hoặc ngược lại)."""
+    e = _parse_ts(iso)
+    return 0.0 if e is None else e
+
+
+_TS_RE = re.compile(r'^(\d{4}-\d{2}-\d{2})[T ](\d{2}:\d{2}:\d{2})(?:\.\d+)?'
+                    r'(Z|[+-]\d{2}:?\d{2})?$')
+
+
+def _parse_ts(iso):
+    """Epoch UTC của timestamp ISO-8601 (Z hoặc ±hh:mm, chịu phân số giây);
+    None nếu không phân tích được (KHÔNG đoán)."""
     if not iso or not isinstance(iso, str):
-        return 0.0
-    base = re.sub(r'\.\d+Z$', 'Z', iso)
+        return None
+    m = _TS_RE.match(iso.strip())
+    if not m:
+        return None
     try:
-        return float(calendar.timegm(time.strptime(base, '%Y-%m-%dT%H:%M:%SZ')))
+        base = float(calendar.timegm(time.strptime(
+            '%sT%sZ' % (m.group(1), m.group(2)), '%Y-%m-%dT%H:%M:%SZ')))
     except Exception:
-        return 0.0
+        return None
+    tz = m.group(3)
+    if tz and tz != 'Z':
+        sign = 1 if tz[0] == '+' else -1
+        digits = tz[1:].replace(':', '')
+        base -= sign * (int(digits[:2]) * 3600 + int(digits[2:]) * 60)
+    return base
 
 
 def _clamp_ttl(ttl_hours=None):
@@ -179,6 +205,16 @@ def parse_registry(text):
                                   % w)
         if not isinstance(l.get('ids', []), list):
             raise RegistryCorrupt('lease %s: "ids" khong phai list' % w)
+        bad = [a for a in l.get('ids', [])
+               if not (isinstance(a, str) and ID_RE.match(a))]
+        if bad:
+            raise RegistryCorrupt('lease %s: ID khong hop le %r' % (w, bad[:3]))
+        exp = l.get('expires_at')
+        if exp not in (None, '') and _parse_ts(exp) is None:
+            # timestamp hỏng KHÔNG được coi là "đã chết" (sẽ làm lease sống
+            # bị chiếm): fail-closed, người vận hành sửa tay
+            raise RegistryCorrupt('lease %s: expires_at khong phan tich duoc '
+                                  '(%r)' % (w, exp))
     d.setdefault('schema_version', '1')
     return d
 
@@ -251,36 +287,63 @@ def new_session_id():
     return 's-' + uuid.uuid4().hex[:12]
 
 
-def default_session(slot, create=True):
-    """Phiên mặc định cho slot. Thứ tự:
+class BadSession(ValueError):
+    """Token phiên không hợp lệ (ký tự lạ / dài quá)."""
+
+
+def valid_session(s):
+    return isinstance(s, str) and bool(SESSION_RE.match(s))
+
+
+def _session_file():
+    return _session_dir() / 'session.json'
+
+
+def default_session(slot=None, create=True):
+    """Phiên của working copy này. Thứ tự:
       1. env FACTORY_WRITER_SESSION (token TƯỜNG MINH do AI/chủ xe đặt: nối
          việc sau khi container bị tạo lại, hoặc bàn giao AI -> AI);
-      2. file phiên của working copy (git-dir, KHÔNG commit);
+      2. file phiên của working copy (git-dir, KHÔNG commit) — MỘT phiên cho
+         cả working copy (một working copy = một AI = tối đa MỘT slot);
       3. ngẫu nhiên (lưu vào git-dir ở lần đầu).
     KHÔNG suy phiên từ danh tính git: nhiều AI cùng một nhà cung cấp dùng
     CHUNG một danh tính git, suy ra phiên sẽ coi chúng là MỘT phiên và hai AI
     sẽ cùng ghi một slot/ID. Muốn một "người viết" sống sót qua việc tạo lại
     container: đặt FACTORY_WRITER_SESSION=<token riêng của nó> (hoặc
-    `--session`)."""
+    `--session`; `begin --session` lưu lại cho các lệnh sau). Token chỉ gồm
+    [A-Za-z0-9._-], tối đa 64 ký tự (nó được ghi vào frontmatter draft).
+    `slot` giữ lại cho tương thích chữ ký, không còn ảnh hưởng tên file."""
     env = os.environ.get('FACTORY_WRITER_SESSION', '').strip()
     if env:
+        if not valid_session(env):
+            raise BadSession('FACTORY_WRITER_SESSION khong hop le (chi '
+                             '[A-Za-z0-9._-], toi da 64 ky tu): %r' % env[:80])
         return env
-    f = _session_dir() / ('%s.json' % slot)
+    f = _session_file()
     try:
         d = json.loads(f.read_text(encoding='utf-8'))
-        if isinstance(d, dict) and d.get('session'):
+        if isinstance(d, dict) and valid_session(d.get('session')):
             return d['session']
     except Exception:
         pass
     if not create:
         return None
     sid = new_session_id()
+    save_session(sid)
+    return sid
+
+
+def save_session(sess):
+    """Lưu phiên của working copy (sau `begin --session S` tường minh, để
+    status/check/push/confirm nhận ra cùng phiên)."""
+    if not valid_session(sess):
+        raise BadSession('session khong hop le (chi [A-Za-z0-9._-], toi da '
+                         '64 ky tu): %r' % str(sess)[:80])
     try:
-        _write_atomic(f, json.dumps({'slot': slot, 'session': sid,
-                                     'created_at': _now()}))
+        _write_atomic(_session_file(), json.dumps(
+            {'session': sess, 'saved_at': _now()}))
     except OSError:
         pass   # không ghi được: phiên chỉ sống trong tiến trình này
-    return sid
 
 
 # --------------------------------------------------------------- lõi thuần
@@ -327,9 +390,10 @@ def prune_registry(reg, rows, now=None):
         if dropped:
             report['invalid_ids'][w] = dropped
         lease['ids'] = keep
-        if not keep and not lease.get('session'):
-            # lease legacy (v1) không còn id: xóa như semantics cũ. Slot
-            # có session được GIỮ — phiên đang sống đặt chỗ giữa hai batch.
+        if not keep:
+            # lease không còn id: xóa (như semantics cũ của v1). Lease rỗng
+            # không bảo vệ ID nào; giữ nó chỉ khóa slot (tới expires_at) với
+            # phiên đã mất container.
             del reg['leases'][w]
             report['removed_writers'].append(w)
     # (d) ID trùng giữa hai lease sống: giữ lease claim SỚM HƠN
@@ -346,7 +410,7 @@ def prune_registry(reg, rows, now=None):
                 owner[a] = w
                 keep.append(a)
         lease['ids'] = keep
-        if not keep and not lease.get('session'):
+        if not keep:
             del reg['leases'][w]
             report['removed_writers'].append(w)
     # (e) vượt MAX_WRITERS: bỏ lease claim MỚI NHẤT (người đến sau thua)
@@ -373,7 +437,8 @@ def _err(code, msg, **extra):
 
 
 def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
-                ttl_hours=None, label=None, adopt=False):
+                ttl_hours=None, label=None, adopt=False,
+                allow_empty_pool=False):
     """Claim THUẦN trên registry trong bộ nhớ (writer-session.py dùng lại
     cho CAS). Mutate `reg` CHỈ khi thành công; trả dict {ok: True, ...}
     hoặc {ok: False, code, error, ...}. KHÔNG I/O."""
@@ -383,6 +448,9 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
                     % writer, writer=writer)
     if not session:
         return _err('NO_SESSION', 'thieu session id', writer=writer)
+    if not valid_session(session):
+        return _err('BAD_SESSION', 'session id khong hop le (chi '
+                    '[A-Za-z0-9._-], toi da 64 ky tu)', writer=writer)
     work = json.loads(json.dumps(reg))      # sao chép: lỗi thì KHÔNG đổi reg
     prev = work['leases'].get(writer)       # trước prune: biết epoch cũ
     report = prune_registry(work, rows, now)
@@ -411,6 +479,16 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
                         'previous_expires_at': prev.get('expires_at')}
     live = _live_leases(work, now)
     already = list(lease['ids']) if lease else []
+    resumed_after_lapse = []
+    if lease is None and prev is not None and prev.get('session') == session:
+        # CÙNG phiên quay lại sau khi lease hết hạn mà chưa ai nhận slot: nối
+        # lại các ID của chính mình còn leasable (kể cả hàng REPAIR) — không
+        # bỏ rơi chúng thành orphan rồi cấp ID mới.
+        resumed_after_lapse = [
+            a for a in prev.get('ids', [])
+            if status_of.get(a) in LEASABLE
+            and not (live.get(a) and live[a][0] != writer)]
+        already = list(resumed_after_lapse)
     want_ids = [a for a in (ids or []) if a]
     for a in want_ids:
         st = status_of.get(a)
@@ -449,10 +527,15 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
                 if (a not in live or live[a][0] == writer)
                 and a not in already and a not in new_ids]
         new_ids.extend(free[:max(want_count - len(new_ids), 0)])
-        if want_count > 0 and not new_ids:
+        if want_count > 0 and not new_ids and not (already
+                                                   and allow_empty_pool):
             return _err('NO_FREE_ID', 'khong con hang PLANNED tu do de lease',
                         writer=writer, free_count=0)
     lease_ids = sorted(set(already + new_ids))
+    if not lease_ids:
+        return _err('EMPTY_CLAIM', 'khong co ID nao de giu (count=0 va slot '
+                    '%s chua co lease song) — lease rong khong duoc tao'
+                    % writer, writer=writer)
     ttl_eff = _clamp_ttl(ttl_hours if ttl_hours is not None
                          else (lease or {}).get('ttl_hours'))
     epoch = int((lease or prev or {}).get('epoch') or 0)
@@ -483,6 +566,7 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
             'expires_at': new_lease['expires_at'],
             'repair_first': repair_first,
             'legacy_adopted': legacy_adopted, 'takeover': takeover,
+            'resumed_after_lapse': resumed_after_lapse,
             'pruned': report['kept'] and {k: v for k, v in report.items()
                                           if k != 'kept' and v}}
 
@@ -492,6 +576,8 @@ def apply_heartbeat(reg, rows, writer, session, now=None, ttl_hours=None):
     now = now if now is not None else time.time()
     if not SLOT_RE.match(writer or ''):
         return _err('BAD_SLOT', 'slot khong hop le %r' % writer, writer=writer)
+    if not valid_session(session):
+        return _err('BAD_SESSION', 'session id khong hop le', writer=writer)
     work = json.loads(json.dumps(reg))
     prune_registry(work, rows, now)
     lease = work['leases'].get(writer)
@@ -521,6 +607,8 @@ def apply_heartbeat(reg, rows, writer, session, now=None, ttl_hours=None):
 def apply_release(reg, rows, writer, session, ids=None, end=False, now=None):
     """Release ID (hoặc cả slot nếu end) — CHỈ chủ lease. Thuần."""
     now = now if now is not None else time.time()
+    if not valid_session(session):
+        return _err('BAD_SESSION', 'session id khong hop le', writer=writer)
     work = json.loads(json.dumps(reg))
     prune_registry(work, rows, now)
     mine = work['leases'].get(writer)
@@ -539,8 +627,7 @@ def apply_release(reg, rows, writer, session, ids=None, end=False, now=None):
     ended = False
     if end or not keep:
         # release hết ID = trả luôn slot (như v1; phiên có thể begin lại
-        # ngay). Slot có session chỉ được GIỮ đặt chỗ khi prune dọn ID đã
-        # publish — không phải khi chủ chủ động release.
+        # ngay).
         del work['leases'][writer]
         ended = True
     else:
@@ -581,7 +668,27 @@ def check_invariants(reg, rows=None, now=None):
             if status is not None and a not in status:
                 problems.append('ID %s (slot %s) khong co trong matrix'
                                 % (a, w))
+    by_session = {}
+    for w, l in leases.items():
+        s = l.get('session')
+        if s and _epoch_of(l.get('expires_at', '')) >= now:
+            by_session.setdefault(s, []).append(w)
+    for s, ws in sorted(by_session.items()):
+        if len(ws) > 1:
+            problems.append('phien %s giu %d slot song (%s) — moi phien chi '
+                            'duoc MOT slot' % (s, len(ws), ','.join(sorted(ws))))
     return problems
+
+
+def orphan_rows(reg, rows, now=None):
+    """ID in-flight (WRITING/QA/PASS/REPAIR) KHÔNG thuộc lease sống nào —
+    orphan, nhận bằng `begin --ids ... --adopt`. Thuần, không ghi."""
+    now = now if now is not None else time.time()
+    work = json.loads(json.dumps(reg))
+    prune_registry(work, rows, now)
+    held = set(_live_leases(work, now))
+    return [r['id'] for r in rows
+            if r['status'] in INFLIGHT and r['id'] not in held]
 
 
 # --------------------------------------------------------------------- CLI
@@ -689,7 +796,7 @@ def cmd_status(writer=None, session=None):
         sess = session or default_session(writer, create=False)
         lease = reg['leases'].get(writer)
         me = {'writer': writer, 'session': sess,
-              'owns_slot': bool(lease and lease.get('session') == sess),
+              'owns_slot': bool(lease and sess and lease.get('session') == sess),
               'slot_free': lease is None,
               'legacy_lease': bool(lease and not lease.get('session'))}
     out = {'me': me,
@@ -739,13 +846,13 @@ def merge_registries(local, other, rows):
             if (_epoch_of(l.get('claimed_at') or ''), w) < \
                (_epoch_of(ol.get('claimed_at') or ''), ow):
                 ol['ids'] = [x for x in ol['ids'] if x != a]
-                if not ol['ids'] and not ol.get('session'):
+                if not ol['ids']:
                     del local['leases'][ow]
                 conflicts.append({'id': a, 'winner': w, 'loser': ow})
                 keep.append(a)
             else:
                 lost.append({'id': a, 'winner': ow, 'loser': w})
-        if keep or l.get('session'):
+        if keep:
             mine = local['leases'].get(w) or {}
             same = (not mine.get('session') or not l.get('session')
                     or mine.get('session') == l.get('session'))
@@ -910,6 +1017,10 @@ def main():
         print(json.dumps({'code': 'REGISTRY_CORRUPT', 'error': str(e),
                           'hint': 'chay: writer-claim.py repair-registry '
                                   '--from-git'}, ensure_ascii=False))
+        return 1
+    except BadSession as e:
+        print(json.dumps({'code': 'BAD_SESSION', 'error': str(e)},
+                         ensure_ascii=False))
         return 1
     return 2
 

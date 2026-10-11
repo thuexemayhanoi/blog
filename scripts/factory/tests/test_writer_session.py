@@ -401,6 +401,29 @@ class TestLeaseLifecycle(SessionBase):
         self.assertIn(rid, parse_session_out(r.stdout)['leased_total'])
 
 
+    def test_37_finished_batch_frees_the_slot_no_empty_reservation(self):
+        """Mọi ID của lease đã PUBLISHED -> lease rỗng bị prune: container mới
+        của cùng "người viết" (không giữ token) nhận slot NGAY, không bị khóa
+        tới expires_at (review: lease rỗng 48h khóa slot)."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1')
+        self.sim.set_status({i: 'PUBLISHED' for i in a['leased_total']})
+        self.sim.clone('a2', identity='a')      # container mới, không file phiên
+        b = self.begin('a2', '--slot', 'W1')
+        self.assertEqual(b['slot'], 'W1')
+        self.assertNotEqual(b['session'], a['session'])
+        self.assertFalse(set(b['leased_total']) & set(a['leased_total']))
+        reg = self.sim.origin_registry()
+        self.assertEqual(reg['leases']['W1']['session'], b['session'])
+
+    def test_38_empty_claim_is_refused_not_an_empty_reservation(self):
+        self.sim.clone('a')
+        r = self.sim.session_cmd('a', 'begin', '--slot', 'W1', '--count', '0')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(parse_session_out(r.stdout)['code'], 'EMPTY_CLAIM')
+        self.assertEqual(self.sim.origin_registry()['leases'], {})
+
+
 class TestRegistryRobustness(SessionBase):
 
     def test_30_corrupt_registry_fails_closed(self):
@@ -508,6 +531,382 @@ class TestRegistryRobustness(SessionBase):
         self.assertEqual(out['free_slots'], ['W1', 'W2', 'W3'])
         self.assertIn('begin', out['next_action'])
         self.assertEqual(self.sim.origin_head(), head)
+
+
+class TestReviewFixes(SessionBase):
+    """Lỗi tìm được bởi review đối kháng (registry/CAS) — mỗi test tái hiện
+    kịch bản lỗi và chứng minh đã chặn."""
+
+    TOK = {'FACTORY_WRITER_SESSION': 's-review-a'}
+
+    def run_cmd(self, clone, *args, env=None):
+        r = self.sim.session_cmd(clone, *args, env=env)
+        return r, parse_session_out(r.stdout)
+
+    def test_50_unreadable_registry_blob_is_not_treated_as_absent(self):
+        """R1: object registry đọc lỗi từng bị coi là "registry vắng" => registry
+        rỗng bị push đè lên lease sống của người khác."""
+        self.sim.clone('a')
+        self.sim.clone('b')
+        self.begin('a', '--slot', 'W1')
+        r, _ = self.run_cmd('b', 'status')            # b fetch: object về loose
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        b = self.sim.clones['b']
+        blob = git(b, 'rev-parse',
+                   'origin/main:data/state/writer-claims.json').stdout.strip()
+        obj = os.path.join(b, '.git', 'objects', blob[:2], blob[2:])
+        if not os.path.exists(obj):
+            self.skipTest('blob nam trong pack')
+        os.remove(obj)
+        head = self.sim.origin_head()
+        r, out = self.run_cmd('b', 'begin', '--slot', 'auto')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'GIT_READ_FAILED')
+        self.assertEqual(self.sim.origin_head(), head, 'khong push gi')
+        self.assertIn('W1', self.sim.origin_registry()['leases'])
+
+    def test_51_one_session_holds_at_most_one_slot(self):
+        """R2: cùng một phiên không được giữ hai slot; `--slot auto` (có
+        token/--session) nối lại slot ĐANG giữ."""
+        self.sim.clone('a')
+        r, w1 = self.run_cmd('a', 'begin', '--slot', 'W1', env=self.TOK)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        r, out = self.run_cmd('a', 'begin', '--slot', 'W2', env=self.TOK)
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'SESSION_HOLDS_OTHER_SLOT')
+        r, auto = self.run_cmd('a', 'begin', '--slot', 'auto', env=self.TOK)
+        self.assertEqual(r.returncode, 0)
+        self.assertEqual(auto['slot'], 'W1')
+        self.assertEqual(auto['leased_total'], w1['leased_total'])
+        r, auto2 = self.run_cmd('a', 'begin', '--slot', 'auto',
+                                '--session', 's-review-a')
+        self.assertEqual(auto2['slot'], 'W1')
+        self.assertEqual(list(self.sim.origin_registry()['leases']), ['W1'])
+
+    def test_52_explicit_session_begin_persists_for_later_commands(self):
+        """R3: bàn giao `begin --session S` phải lưu phiên: status/check/push
+        sau đó (không truyền --session) nhận ra cùng phiên."""
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W2')
+        b = self.begin('b', '--slot', 'W2', '--session', a['session'])
+        self.assertEqual(b['session'], a['session'])
+        r, st = self.run_cmd('b', 'status')
+        self.assertEqual(st['me']['slot'], 'W2')
+        self.assertEqual(st['me']['session'], a['session'])
+
+    def test_53_two_local_files_for_one_id_refused_by_check(self):
+        """R4: hai file cùng ID — không biết bản nào đúng (từng push nhầm bản
+        cũ của chủ trước)."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1')
+        aid = a['leased_total'][0]
+        c = self.sim.clones['a']
+        write_draft(c, aid, slot='W1', date='2026-10-10')
+        write_draft(c, aid, slot='W1', date='2026-10-12')
+        r, out = self.run_cmd('a', 'check', '--no-qa')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'DUPLICATE_DRAFT')
+
+    def test_54_push_removes_stale_same_id_draft_from_origin(self):
+        """R4: chủ cũ để lại draft; chủ mới (sau khi lease cũ hết hạn) push
+        bản mới đổi ngày -> bản cũ bị xóa trong CÙNG commit (selector/engine
+        không bao giờ phải chọn giữa hai bản)."""
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W1')
+        aid = a['leased_total'][0]
+        write_draft(self.sim.clones['a'], aid, slot='W1', date='2026-10-10')
+        r, out = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        old = '_drafts/2026-10-10-bai-viet-so-%d.md' % int(aid.split('-')[1])
+        self.assertIn(old, self.sim.origin_files('_drafts/'))
+        self.sim.edit_registry(lambda reg: reg['leases']['W1'].update(
+            expires_at='2000-01-01T00:00:00Z'))
+        r, bb = self.run_cmd('b', 'begin', '--slot', 'W2', '--ids', aid)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        c = self.sim.clones['b']
+        os.remove(os.path.join(c, old))           # chủ mới bỏ bản cũ khỏi cây
+        write_draft(c, aid, slot='W2', date='2026-10-12')
+        r, out = self.run_cmd('b', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual(out['removed_stale'], [old])
+        files = self.sim.origin_files('_drafts/')
+        self.assertNotIn(old, files)
+        self.assertIn('_drafts/2026-10-12-bai-viet-so-%d.md'
+                      % int(aid.split('-')[1]), files)
+
+    def test_55_same_session_resumes_ids_and_repair_after_lapse(self):
+        """R5: phiên quay lại sau khi lease hết hạn (chưa ai nhận slot) phải
+        nối lại ID + hàng REPAIR của MÌNH, không cấp ID mới bỏ rơi chúng."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'auto', '--count', '4')
+        rep = a['leased_total'][:2]
+        self.sim.set_status({i: 'REPAIR' for i in rep})
+        self.sim.edit_registry(lambda reg: reg['leases']['W1'].update(
+            expires_at='2000-01-01T00:00:00Z'))
+        b = self.begin('a', '--slot', 'auto')
+        self.assertEqual(b['slot'], 'W1')
+        self.assertEqual(b['session'], a['session'])
+        self.assertTrue(set(rep) <= set(b['leased_total']), b)
+        self.assertTrue(set(a['leased_total']) <= set(b['leased_total']))
+        self.assertEqual(sorted(b['resumed_after_lapse']),
+                         sorted(a['leased_total']))
+        self.assertEqual(b['epoch'], a['epoch'], 'khong co takeover')
+
+    def test_56_begin_count_is_a_target_total_and_idempotent(self):
+        """R6: retry CAS sau lỗi 5xx đã áp dụng làm lease phình (3 -> 6)."""
+        self.sim.clone('a')
+        r1 = self.begin('a', '--slot', 'W1', '--count', '3')
+        self.assertEqual(len(r1['leased_total']), 3)
+        r2 = self.begin('a', '--slot', 'W1', '--count', '3')
+        self.assertEqual(r2['leased_total'], r1['leased_total'])
+        r3 = self.begin('a', '--slot', 'W1', '--count', '5')
+        self.assertEqual(len(r3['leased_total']), 5)
+        self.assertTrue(set(r1['leased_total']) <= set(r3['leased_total']))
+
+    def test_57_plain_begin_never_shortens_ttl_and_survives_empty_pool(self):
+        """R7: begin gia hạn mặc định 12h từng RÚT lease 48h; holder 1-9 ID
+        khi hết PLANNED từng nhận NO_FREE_ID và không gia hạn."""
+        self.sim = Sim(n_planned=3)
+        self.addCleanup(self.sim.cleanup)
+        self.sim.clone('a')
+        r1 = self.begin('a', '--slot', 'W1', '--ttl-hours', '48')
+        self.assertEqual(len(r1['leased_total']), 3)
+        r2 = self.begin('a', '--slot', 'W1')          # pool rỗng + gia hạn
+        self.assertEqual(r2['claimed'], [])
+        self.assertGreaterEqual(r2['expires_at'], r1['expires_at'])
+
+    def test_58_repair_registry_replaces_a_corrupt_origin_registry(self):
+        """R8: registry hỏng trên origin: mọi lệnh REGISTRY_CORRUPT; phải có
+        đường CAS để sửa (không chỉ working copy)."""
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W1')
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': '{"leases": [truncated'},
+            'corrupt registry')
+        r, out = self.run_cmd('b', 'begin', '--slot', 'auto')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
+        r, fixed = self.run_cmd('b', 'repair-registry')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertTrue(fixed['repaired'])
+        self.assertEqual(self.sim.origin_registry()['leases']['W1']['ids'],
+                         a['leased_total'], 'lease song duoc khoi phuc')
+        r, again = self.run_cmd('b', 'repair-registry')
+        self.assertFalse(again['repaired'])
+        self.begin('b', '--slot', 'auto')
+
+    def test_59_legacy_leases_listed_and_only_explicit_slot_adopts(self):
+        """R9: lease v1 (không session) — `auto` không adopt (tránh cấp thêm
+        slot thứ hai cho chủ legacy); status/NO_FREE_SLOT chỉ cách adopt."""
+        legacy = {'schema_version': '1', 'updated_at': None, 'leases': {
+            s: {'ids': [], 'claimed_at': '2026-10-11T00:00:00Z',
+                'expires_at': '2099-01-01T00:00:00Z'}
+            for s in ('W1', 'W2', 'W3')}}
+        # lease legacy phải có ID thật để không bị prune
+        for n, s in enumerate(('W1', 'W2', 'W3')):
+            legacy['leases'][s]['ids'] = ['BLG-%05d' % (n * 2 + 1),
+                                          'BLG-%05d' % (n * 2 + 2)]
+        self.sim.clone('a')
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': json.dumps(legacy)}, 'legacy')
+        r, out = self.run_cmd('a', 'begin', '--slot', 'auto')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'NO_FREE_SLOT')
+        self.assertEqual(out['legacy_slots'], ['W1', 'W2', 'W3'])
+        r, st = self.run_cmd('a', 'status')
+        self.assertEqual(st['legacy_slots'], ['W1', 'W2', 'W3'])
+        self.assertIn('begin --slot', st['next_action'])
+        r, adopted = self.run_cmd('a', 'begin', '--slot', 'W2')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertTrue(adopted['legacy_adopted'])
+
+    def test_60_bad_session_token_refused(self):
+        """R10: token ghi nguyên văn vào frontmatter — ký tự lạ làm hỏng YAML
+        hoặc chèn khóa (permalink)."""
+        self.sim.clone('a')
+        for bad in ('s-gpt 5: writer 2', 's-x\npermalink: /evil/', 'a' * 65):
+            r, out = self.run_cmd('a', 'begin', '--slot', 'W1',
+                                  '--session', bad)
+            self.assertEqual(r.returncode, 1, bad)
+            self.assertEqual(out['code'], 'BAD_SESSION')
+        r, out = self.run_cmd('a', 'begin', '--slot', 'W1',
+                              env={'FACTORY_WRITER_SESSION': 'co dau cach'})
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'BAD_SESSION')
+        self.assertEqual(self.sim.origin_registry()['leases'], {})
+
+    def test_61_bad_slot_creates_no_files_and_is_structured(self):
+        self.sim.clone('a')
+        r, out = self.run_cmd('a', 'begin', '--slot', '../../evil')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'BAD_SLOT')
+        c = self.sim.clones['a']
+        stray = [f for f in os.listdir(os.path.dirname(c))
+                 if f.startswith('evil')]
+        self.assertEqual(stray, [])
+
+    def test_62_structured_errors_not_tracebacks(self):
+        """R11: --repo sai; clone single-branch; draft không phải UTF-8."""
+        r = subprocess.run(
+            [sys.executable, os.path.join(
+                self.sim.seed, 'scripts', 'factory', 'writer-session.py'),
+             '--repo', '/nonexistent-repo-dir', 'status'],
+            capture_output=True, text=True)
+        self.assertEqual(r.returncode, 2)
+        self.assertNotIn('Traceback', r.stderr)
+        git(self.sim.origin, 'branch', 'dev', 'main')
+        sb = os.path.join(self.sim.base, 'clone-single')
+        git(self.sim.base, 'clone', '-q', '--single-branch', '--branch',
+            'dev', self.sim.origin, sb)
+        git(sb, 'config', 'user.name', 'single')
+        git(sb, 'config', 'user.email', 'single@sim.example')
+        self.sim.clones['single'] = sb
+        r, out = self.run_cmd('single', 'begin', '--slot', 'W1')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        with open(os.path.join(sb, '_drafts', '2026-10-11-bin.md'),
+                  'wb') as f:
+            f.write(b'---\narticle_id: BLG-00001\n---\n\xff\xfe')
+        r, out = self.run_cmd('single', 'status')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertNotIn('Traceback', r.stderr)
+
+    def test_63_protected_branch_fails_fast_not_retried_8_times(self):
+        self.sim.clone('a')
+        self.sim.install_push_failures(
+            50, message='remote: error: GH006: Protected branch update '
+                        'failed for refs/heads/main.')
+        r, out = self.run_cmd('a', 'begin', '--slot', 'W1')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'PUSH_FATAL')
+        with open(os.path.join(self.sim.origin, 'push-fail-count')) as f:
+            left = int(f.read())
+        self.assertEqual(left, 49, 'dung ngay lan dau, khong retry')
+
+    def test_64_release_refused_while_pushed_draft_waits_for_publisher(self):
+        """P5: release --all sau push làm draft PLANNED mồ côi (selector cách
+        ly vì không còn lease)."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        aid = a['leased_total'][0]
+        write_draft(self.sim.clones['a'], aid, slot='W1')
+        r, out = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        r, out = self.run_cmd('a', 'release', '--all')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'DRAFT_QUEUED')
+        self.assertEqual(out['queued'], [aid])
+        r, out = self.run_cmd('a', 'release', '--all', '--even-if-queued')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual(self.sim.origin_registry()['leases'], {})
+
+    def test_65_malformed_expiry_in_registry_is_corrupt_not_dead(self):
+        """Timestamp hỏng từng được coi là "đã chết" => lease sống bị chiếm."""
+        self.sim.clone('a')
+        legacy = {'schema_version': '2', 'updated_at': None, 'leases': {
+            'W1': {'ids': ['BLG-00001'], 'session': 's-x', 'epoch': 1,
+                   'claimed_at': '2026-10-11T00:00:00Z',
+                   'expires_at': '2026-10-13T15:5'}}}
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': json.dumps(legacy)}, 'bad ts')
+        r, out = self.run_cmd('a', 'begin', '--slot', 'W1')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
+
+
+class TestCodexFindings(SessionBase):
+    """Góp ý của Codex review trên PR #7 (đã kiểm chứng là lỗi thật)."""
+
+    def run_cmd(self, clone, *args, env=None):
+        r = self.sim.session_cmd(clone, *args, env=env)
+        return r, parse_session_out(r.stdout)
+
+    def test_68_idempotent_push_renews_lease_only_when_it_matters(self):
+        """Push lặp (draft đã có đúng nội dung trên origin) từng bỏ rơi
+        heartbeat nhưng vẫn báo hạn mới: lease hết hạn dù push "thành công"."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '1')
+        aid = a['leased_total'][0]
+        write_draft(self.sim.clones['a'], aid, slot='W1')
+        r1, o1 = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r1.returncode, 0, r1.stdout + r1.stderr)
+        head = self.sim.origin_head()
+        r2, o2 = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r2.returncode, 0, r2.stdout + r2.stderr)
+        self.assertTrue(o2['already_pushed'])
+        self.assertFalse(o2['lease_renewed'])
+        self.assertEqual(o2['expires_at'], o1['expires_at'],
+                         'khong bao han moi khi khong ghi')
+        self.assertEqual(self.sim.origin_head(), head, 'khong commit moi')
+        # chờ publisher lâu: lease đã tiêu hao (còn 1h trên TTL 12h)
+        soon = time.strftime('%Y-%m-%dT%H:%M:%SZ',
+                             time.gmtime(time.time() + 3600))
+        self.sim.edit_registry(lambda reg: reg['leases']['W1'].update(
+            expires_at=soon, ttl_hours=12.0))
+        head = self.sim.origin_head()
+        r3, o3 = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r3.returncode, 0, r3.stdout + r3.stderr)
+        self.assertTrue(o3['lease_renewed'])
+        self.assertNotEqual(self.sim.origin_head(), head,
+                            'gia han duoc ghi len origin')
+        exp = self.sim.origin_registry()['leases']['W1']['expires_at']
+        self.assertGreater(exp, soon)
+
+    def test_69_sync_reconciles_tracked_drafts_already_pushed(self):
+        """Draft đã tracked, writer sửa rồi `push` (plumbing): bản local giống
+        hệt origin nhưng `try_sync` từng bỏ qua mãi vì file 'dirty'."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '1')
+        aid = a['leased_total'][0]
+        c = self.sim.clones['a']
+        path = write_draft(c, aid, slot='W1')
+        r1, o1 = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r1.returncode, 0, r1.stdout + r1.stderr)
+        self.assertTrue(o1['sync']['synced'], o1['sync'])
+        with open(path, 'a', encoding='utf-8') as f:
+            f.write('\nSua lai noi dung sau khi publisher bao REPAIR.\n')
+        r2, o2 = self.run_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r2.returncode, 0, r2.stdout + r2.stderr)
+        self.assertTrue(o2['sync']['synced'], o2['sync'])
+        self.assertEqual(git(c, 'status', '--porcelain',
+                             '--untracked-files=no').stdout.strip(), '')
+        self.assertEqual(git(c, 'rev-parse', 'HEAD').stdout.strip(),
+                         self.sim.origin_head())
+
+
+class TestConfirmEdges(SessionBase):
+
+    def test_66_confirm_blocked_is_terminal_not_a_timeout(self):
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        ids = a['leased_total']
+        self.sim.set_status({ids[0]: 'PUBLISHED', ids[1]: 'BLOCKED'})
+        t0 = time.time()
+        r = self.sim.session_cmd('a', 'confirm', '--ids', ','.join(ids),
+                                 '--timeout', '30', '--poll', '0.1')
+        out = parse_session_out(r.stdout)
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'BLOCKED')
+        self.assertEqual(out['published'], [ids[0]])
+        self.assertLess(time.time() - t0, 20, 'khong cho het timeout')
+
+    def test_67_confirm_without_ids_remembers_last_push(self):
+        """Sau khi publish hết, lease bị prune; `confirm` không --ids từng
+        trả NO_IDS."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '1')
+        aid = a['leased_total'][0]
+        write_draft(self.sim.clones['a'], aid, slot='W1')
+        r = self.sim.session_cmd('a', 'push', '--no-qa', '--ids', aid)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.sim.set_status({aid: 'PUBLISHED'})
+        r = self.sim.session_cmd('a', 'confirm', '--timeout', '5',
+                                 '--poll', '0.1')
+        out = parse_session_out(r.stdout)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual(out['published'], [aid])
 
 
 class TestConfirm(SessionBase):
