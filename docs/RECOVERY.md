@@ -2,7 +2,7 @@
 
 ## Chạy mới bắt đầu bằng
 
-1. `git fetch` HEAD mới nhất; đọc README.md, docs/mistral/README.md.
+1. `git fetch` HEAD mới nhất; đọc AGENTS.md, README.md (writer: docs/AI-WRITER-QUICKSTART.md).
 2. Đọc trạng thái theo thứ tự: `data/state/transaction.json` → `data/state/checkpoint.json` → `data/state/writer-lock.json` → `reports/factory/progress.json`.
 
 ## Transaction treo (`active: true`)
@@ -104,3 +104,18 @@ RECOVER -> RESUME -> REPAIR -> VERIFY -> NEW WORK
 ## Báo cáo sau khi phục hồi
 
 Ghi vào `reports/factory/latest.md`: nguyên nhân, hành động, HEAD mới, trạng thái build/deploy, các kiểm tra runtime đã làm.
+
+
+## Registry lease (writer-claims.json) — đa-writer
+
+- Xem: `python3 scripts/factory/writer-claim.py show` / `status` (đọc, không ghi). Kiểm bất biến: `check-registry`.
+- `REGISTRY_CORRUPT` (JSON hỏng/sai cấu trúc): mọi tool fail-closed, KHÔNG coi là rỗng. Phục hồi:
+  `python3 scripts/factory/writer-claim.py repair-registry --from-git` (lấy bản hợp lệ gần nhất trong git history rồi prune; không tạo
+  lease mới). Rồi commit registry theo CAS (`writer-session.py` hoặc commit thủ công fast-forward).
+- Writer chết giữ slot: KHÔNG chiếm lease còn hạn. Chờ `expires_at` (mặc định 12h với `writer-session.py begin`, 48h với claim cũ);
+  ID PLANNED tự trả về pool, hàng in-flight (REPAIR/PASS…) thành orphan: `begin --ids BLG-… --adopt`.
+- Hai phiên cùng một slot (SLOT_HELD): phiên đến sau dùng slot khác; không sửa tay registry để "giành" slot.
+- Hàng REPAIR của writer đã chết KHÔNG chặn publisher (resume-first là per-writer). Muốn giải phóng sớm: chủ xe/coordinator cho
+  một slot `--adopt` rồi sửa draft; hoặc `requeue --ids` (op local, tôn trọng budget).
+- Run đỏ `upstream_overlap` (publisher-push.py): bình thường — writer sửa draft đúng lúc publisher chốt; main không đổi, run kế
+  drain lại và QA nội dung mới. Không can thiệp.

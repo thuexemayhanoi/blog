@@ -1,0 +1,89 @@
+# MULTI-WRITER SEO FACTORY — kiến trúc, bất biến, phục hồi
+
+Cập nhật: 2026-10-11 (audit + hardening đa-writer). Provider-neutral: slot `W1/W2/W3` do BẤT KỲ AI nào giữ.
+Writer chỉ cần: git + Python 3 stdlib (`docs/AI-WRITER-QUICKSTART.md`). Actions: deterministic, KHÔNG API ngoài, KHÔNG AI, KHÔNG secret.
+
+```
+W1 ─┐  writer-session.py (CAS: fetch → tính lại → push, không force)
+W2 ─┼─►  main ──► factory-publish.yml  (MỘT publisher, group factory-publish)
+W3 ─┘        │       push-selection.py --backlog  (strict cho push, lenient cho backlog)
+             │       factory-queue.py            (pair 2: in-flight trước, PLANNED sau; QA 75/70)
+             │       publisher-push.py           (1 commit/run, guard giao-path, không force)
+             └──►  Pages (built-in)
+```
+
+## 1. Trước / sau
+
+| | Trước (audit 268e8e5) | Sau |
+|---|---|---|
+| Danh tính slot | chỉ là TÊN (`--writer W1`); hai phiên cùng tên dùng chung lease | slot gắn **session id**; phiên khác bị `SLOT_HELD`; hết hạn mới được chiếm (`epoch+1`) |
+| Hạn lease | `mktime` theo múi giờ MÁY (±7h), `claimed_at` bị reset khi renew | UTC (`timegm`), `heartbeat_at/expires_at`, `claimed_at` giữ nguyên |
+| Registry hỏng/vắng | hỏng ⇒ coi là rỗng; vắng ⇒ ownership TẮT | hỏng ⇒ **fail-closed**; `repair-registry --from-git`; ghi nguyên tử |
+| Claim | writer tự viết git; registry nằm lẫn trong commit draft | `writer-session.py` CAS (plumbing, không đụng working tree) |
+| Trigger | chỉ diff của push (HEAD~1) ⇒ run bị GitHub hủy làm mất draft | **drain**: mỗi run quét toàn bộ `_drafts/` trên main mới nhất |
+| REPAIR | MỘT hàng REPAIR của writer chết ⇒ `prepare-next` bail ⇒ mọi push FATAL (deadlock) | REPAIR chờ chủ; không chặn ai; resume-first là **per-writer** (ở bước claim) |
+| Pair hỗn hợp | `[PASS, REPAIR]` ⇒ cả pair recoverable, PASS kẹt | chỉ publish phần PASS; pair đồng nhất (in-flight trước) |
+| Push publisher | `git rebase` ghép ÂM THẦM sửa đổi draft của writer vào bài vừa publish (đi vòng QA) | `publisher-push.py`: guard giao-path + sha256(bài) == `content_sha256` |
+| Sở hữu draft | REPAIR không cần lease ⇒ writer khác sửa được | lease sống của writer khác ⇒ refuse; orphan (hết hạn) ⇒ ai nhận (`--adopt`) cũng được |
+| Queue/run | 10 ID | 30 ID (3×10), pair vẫn 2 |
+
+QA KHÔNG đổi: `quality ≥ 75`, `seo ≥ 70`, business_fact PASS, legal PASS/NOT_REQUIRED, không critical, hard gate trùng title/slug/intent, evidence `content_sha256` + `matrix_row_sha256`, publish-gate.
+
+## 2. Vòng đời slot (state machine)
+
+```
+FREE ──begin──► HELD(session S, epoch e, expires_at) ──begin/push/heartbeat──► HELD (gia hạn)
+HELD ──release --all──► FREE            HELD ──hết hạn──► EXPIRED ──begin(phiên khác)──► HELD(S', e+1)
+```
+- ID: `PLANNED` ──lease──► giữ trong lease; engine claim ⇒ `WRITING/QA/PASS/REPAIR` VẪN thuộc lease chủ; `PUBLISHED/EXISTING/BLOCKED` ⇒ prune.
+- Lease hết hạn: ID PLANNED trả về pool; hàng in-flight thành **orphan** (nhận bằng `begin --ids … --adopt`).
+- Phiên mặc định = NGẪU NHIÊN theo working copy (lưu trong `.git/`), KHÔNG suy từ danh tính git: nhiều AI cùng nhà cung cấp dùng chung một danh tính git, suy phiên từ đó sẽ gộp chúng thành MỘT phiên. Muốn một AI sống sót qua việc tạo lại container, hoặc bàn giao AI→AI: đặt `FACTORY_WRITER_SESSION=<token riêng>` (hoặc `--session <id>`); id là công khai, không bí mật, nhưng chỉ AI nào được trao nó mới nối được phiên đó.
+- Tuyệt đối không chiếm lease còn hạn; vượt `MAX_WRITERS` ⇒ người đến sau thua (không đá lease cũ).
+
+## 3. Bất biến và cách cưỡng chế
+
+| Bất biến | Cưỡng chế | Bằng chứng test |
+|---|---|---|
+| ≤3 slot, ≤10 ID/slot, mỗi ID một chủ | `writer-claim.py` (`apply_claim`, `prune_registry`, `check_invariants`), `validate.py` | `test_writer_claim`, `test_writer_session` T01–T05 |
+| Một slot — một phiên | session id + `SLOT_HELD/NOT_OWNER` | `test_writer_session` T03, T22, T26 |
+| Không mất bài khi run bị hủy | `push-selection.py --backlog` | `test_selector_drain` T01–T02, `test_multiwriter_sim` S1, S4 |
+| Không deadlock vì REPAIR | `factory-operator.py prepare-next --ids` không chặn bởi hàng dở của writer khác | `test_factory_queue` 15b, `test_multiwriter_sim` S2 |
+| Không lọt nội dung chưa QA | `publisher-push.py` (guard giao-path + integrity sha256) | `test_publisher_push` T03–T06, `test_multiwriter_sim` S6 |
+| Bài PUBLISHED bất biến | selector `published_edits` (no-op xanh) | `test_selector_drain` T20, `test_multiwriter_sim` S5 |
+| Không force push | origin `receive.denyNonFastForwards` trong sim; code không có `--force` (test tĩnh) | `test_hardening` S6, mọi sim |
+| Một publisher ghi production | concurrency group `factory-publish` + engine lock O_EXCL + queue lock | `test_multiwriter_sim` (mô hình 1 chạy + 1 chờ) |
+| Idempotent | re-run trigger cũ ⇒ no-op xanh; push lặp ⇒ không commit mới | `test_selector_drain` T20, `test_writer_session` T14, sim S7 |
+| Fail-closed | registry hỏng, lock/txn treo, checkpoint lệch ⇒ run đỏ, không đổi gì | `test_selector_drain` T10, sim S8, S9 |
+
+## 4. GitHub concurrency — vì sao cần drain
+
+`concurrency: group: factory-publish, cancel-in-progress: false` giữ **một** run đang chạy + **một** run chờ; run chờ cũ bị **hủy** khi có run chờ mới (kể cả bởi `factory-refill.yml` cùng group). Trigger chỉ là gợi ý; **repo là hàng đợi**:
+1. mỗi run quét mọi draft trong `_drafts/` trên main mới nhất (tối đa 30 ID/run; draft không hợp lệ bị **cách ly**, không chặn draft khác; REPAIR chưa sửa được bỏ qua);
+2. run chờ bị hủy không mất gì — run sống sau sẽ publish draft của nó;
+3. nếu run chờ bị refill thay và không còn push nào sau đó, writer chạy `writer-session.py confirm` — tự **nudge** (`_drafts/.nudge-Wx`, không phải `.md`) để kích lại publisher.
+Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
+
+## 5. Phục hồi
+
+| Tình huống | Hành động |
+|---|---|
+| Writer hết quota/mất kết nối | push phần đã xong; lease tự hết hạn (mặc định 12h với `begin`); AI khác `begin`; phần đã push vẫn được publish |
+| Lease hết hạn khi draft đã push chưa publish | selector cách ly (không lease sống); chủ cũ/mới `begin` lại ⇒ lease sống ⇒ `confirm` nudge ⇒ publish |
+| Hàng REPAIR orphan | `begin --ids BLG-… --adopt`, sửa draft, `push` |
+| `REGISTRY_CORRUPT` | `python3 scripts/factory/writer-claim.py repair-registry --from-git` (lấy bản hợp lệ gần nhất; không tạo lease mới) |
+| Run đỏ `upstream_overlap` | không cần làm gì: main không đổi, run kế drain từ truth mới |
+| Run đỏ stale lock/txn | `docs/RECOVERY.md` (op `recover`); không force-unlock |
+| Checkpoint lệch | `factory-operator.py repair-checkpoint` (chỉ op này sửa số đếm) |
+
+## 6. Tương thích ngược / rollback
+
+- Lease v1 (không session) hợp lệ; phiên đầu tiên chạm vào sẽ nhận (adopt). `writer-claim.py claim --writer W2 --ids …` (cũ) vẫn chạy; phiên mặc định theo working copy.
+- Draft không khai `writer_session:` vẫn được nhận (cảnh báo) — chỉ kiểm khi có khai. Registry vắng ⇒ chế độ single-writer cũ.
+- Rollback: revert commit merge; không có migration dữ liệu (registry v2 đọc được bởi v1 — trường thừa bị bỏ qua).
+
+## 7. Giới hạn đã biết (không che giấu)
+
+- Danh tính phiên là **cộng tác** (cùng một token GitHub): chống nhầm lẫn/đua, không chống kẻ cố tình giả `writer_session`.
+- Container bị tạo lại mà AI không giữ token phiên (`FACTORY_WRITER_SESSION`/`--session`): lease cũ vẫn là của phiên cũ cho đến `expires_at` (12h với `begin`, 48h với claim cũ) — hệ thống KHÔNG chiếm lease còn hạn. Writer chạy lặp (routine) nên đặt token cố định.
+- Run chờ bị hủy bởi run KHÁC workflow chỉ được kích lại bởi push kế tiếp hoặc `confirm --nudge`.
+- Dữ liệu cũ (ngoài phạm vi): 1069 bằng chứng QA của bài đã publish lệch hash sau đợt migrate domain (`validate.py --scope batch|full` đỏ; `chunk` xanh) (hàng BLG-02021 có `internal_links` sai đã được sửa bằng PR #6 — một ô dữ liệu, không đổi vân tay QA). Việc re-attest 1069 bằng chứng cần chủ xe duyệt (xem báo cáo audit).

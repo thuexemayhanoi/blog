@@ -40,15 +40,15 @@ hất.
 - `data/` — taxonomy, inventory, business facts, matrix, state (checkpoint/lock/transaction), seed.
 - `scripts/factory/` — công cụ factory; `docs/ENGINE-RUNBOOK.md` là danh mục lệnh chuẩn.
 - `reports/factory/` — report sinh từ dữ liệu thật.
-- `.github/workflows/` — production dùng `factory-publish.yml` (tối đa 10 draft/push, pair 2), `factory-refill.yml` (stage + materialize candidate), `quality-gate.yml` (CI FAST/FULL), `factory-publish-verify.yml` và các workflow kiểm tra/bảo trì theo `docs/factory-workflow-contract.md`. GitHub Pages deploy qua cơ chế của GitHub; không tạo publisher thứ hai.
+- `.github/workflows/` — production dùng `factory-publish.yml` (tối đa 10 draft/push, queue ≤30 ID/run, pair 2), `factory-refill.yml` (stage + materialize candidate), `quality-gate.yml` (CI FAST/FULL + unit test engine), `factory-publish-verify.yml`, helper `factory-extract-rows.yml` và các workflow kiểm tra/bảo trì theo `docs/factory-workflow-contract.md`. GitHub Pages deploy qua cơ chế của GitHub; không tạo publisher thứ hai.
 
 ## Mô hình vận hành factory (docs/PROC-PUBLISH.md)
 
-EXTERNAL AI (writer/coordinator, chỉ cần GitHub read/write) → push draft `_drafts/` (2..10 ID/push) → `factory-publish.yml` tự chạy đường nóng (selection EXACT ID → pair 2 → claim/QA/publish — KHÔNG AI, KHÔNG secret AI, KHÔNG cron sản xuất) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer duy nhất; engine là nguồn sự thật duy nhất; không có cron — chạy theo lệnh.
+EXTERNAL AI (tối đa 3 writer W1/W2/W3, bất kỳ nhà cung cấp nào; `scripts/factory/writer-session.py`) → push draft `_drafts/` (1..10 ID/push) → `factory-publish.yml` tự chạy đường nóng (selection EXACT ID + drain backlog → pair 2 → claim/QA/publish — KHÔNG AI, KHÔNG secret AI, KHÔNG API ngoài, KHÔNG cron sản xuất) → `scripts/factory/factory-operator.py` → engine chuẩn (writer lock + transaction + checkpoint + publish-gate.py + refill-queue.py + matrix + QA evidence). Actions là deterministic hands; external AI là writer (tối đa 3 slot, mỗi ID một chủ); engine là nguồn sự thật duy nhất; không cron sản xuất (chỉ watchdog read-only theo lịch) — chạy theo push.
 
 ## Chế độ viết nhanh có kiểm soát
 
-- Hướng dẫn cho AI writer: [`docs/TURBO-WRITER-RUNBOOK.md`](docs/TURBO-WRITER-RUNBOOK.md). Mặc định gom tới 10 draft/push khi đủ hàng hợp lệ, publisher xử lý pair 2 và giữ nguyên QA. Refill chủ đề trước khi hết queue, không bịa nội dung để đạt số lượng.
+- Vào việc nhanh cho AI writer: [`docs/AI-WRITER-QUICKSTART.md`](docs/AI-WRITER-QUICKSTART.md); kiến trúc đa-writer: [`docs/MULTI-WRITER-ARCHITECTURE.md`](docs/MULTI-WRITER-ARCHITECTURE.md); chi tiết: [`docs/TURBO-WRITER-RUNBOOK.md`](docs/TURBO-WRITER-RUNBOOK.md), [`docs/CONTINUOUS-WRITER.md`](docs/CONTINUOUS-WRITER.md). Mặc định gom tới 10 draft/push khi đủ hàng hợp lệ, publisher xử lý pair 2 và giữ nguyên QA. Refill chủ đề trước khi hết queue, không bịa nội dung để đạt số lượng.
 
 ## Lệnh kiểm tra cốt lõi (danh mục đầy đủ: docs/ENGINE-RUNBOOK.md)
 

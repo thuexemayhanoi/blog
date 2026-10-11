@@ -7,18 +7,19 @@ Mục tiêu: xuất bản liên tục từng cặp 2 bài (chunk_size trong `dat
 
 ```
 EXTERNAL AI (writer/coordinator)      ← viết prose, điều phối
-   |  commit/push draft vào _drafts/ (2..10 ID/push — turbo queue
-   |  write-ahead, consume theo pair 2), chỉ cần GitHub read/write,
-   |  KHÔNG cần git/Python/Node
+   |  commit/push draft vào _drafts/ (1..10 ID/push — turbo queue
+   |  write-ahead, consume theo pair 2) qua scripts/factory/writer-session.py
+   |  (CAS, tối đa 3 slot W1/W2/W3, mỗi slot một phiên); cần git + Python 3
    v
 GitHub Actions factory-publish.yml ← MÔI TRƯỜNG THỰC THI
    |  PUSH main paths _drafts/** TỰ ĐỘNG CHẠY ĐƯỜNG NÓNG:
-   |  selection EXACT ID qua canonical push-selection.py (refuse >10 ID, ID trùng,
-   |  ID lạ, ID đã EXISTING/BLOCKED; hàng PUBLISHED trong push = race push trùng đã superseded → bỏ qua sạch exit 0) → guard không
-   |  transaction/lock (FAIL-CLOSED) → chia PAIR 2 theo thứ tự
-   |  matrix → prepare-next --ids (chỉ hàng PLANNED) → qa --ids
-   |  --scope fast → publish --ids (hàng PASS) → light smoke →
-   |  commit/push MỘT lần → assert clean state
+   |  selection EXACT ID qua canonical push-selection.py (push: refuse >10 ID, ID trùng,
+   |  ID lạ, ID đã EXISTING/BLOCKED/REVIEW, sai chủ lease; hàng PUBLISHED = race push trùng đã superseded → bỏ qua sạch exit 0)
+   |  + DRAIN backlog (--backlog: mọi draft đang xếp hàng trong _drafts/, ≤30 ID/run, draft hỏng bị cách ly)
+   |  → guard không transaction/lock (FAIL-CLOSED) → chia PAIR 2 (in-flight trước, PLANNED sau)
+   |  → prepare-next --ids (chỉ hàng PLANNED) → qa --ids
+   |  --scope fast → publish --ids (CHỈ hàng PASS) → light smoke →
+   |  publisher-push.py: commit/push MỘT lần (guard giao-path, integrity sha256) → assert clean state
    |  KHÔNG workflow_dispatch — op bảo trì chạy LOCAL
    v
 scripts/factory/factory-operator.py    ← TAY DETERMINISTIC
@@ -60,10 +61,11 @@ main (paths `_drafts/**`):
 4. `qa --ids --scope fast` + `publish --ids` từng pair (ngưỡng 75/70
    KHÔNG đổi; publish QUA publish-gate.py — cơ chế promote DUY NHẤT,
    mọi hard gate giữ nguyên).
-5. Pair FAIL content → pair đó recoverable (REPAIR, giữ QA evidence),
-   KHÔNG rollback pair đã publish; engine resume-first — từ đó pair còn
-   lại chỉ DEFERRED (không claim mới khi còn việc dở). FATAL (claim/QA
-   hạ tầng) → run FAIL, KHÔNG commit.
+5. Pair FAIL content → hàng đó recoverable (REPAIR, giữ QA evidence),
+   KHÔNG rollback pair đã publish và KHÔNG chặn pair/writer khác; hàng
+   REPAIR chờ CHỦ lease của nó sửa (resume-first là PER-WRITER, thực thi
+   ở bước claim). FATAL (claim/QA hạ tầng) → run FAIL, KHÔNG commit,
+   pair chưa chạy ghi `deferred`, run kế drain lại.
 6. Light smoke: `validate.py --scope chunk` (KHÔNG verify
    full/soak/hardening trong hot loop — đó là của factory-publish-verify
    / factory-soak).
@@ -115,14 +117,14 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
    `docs/ARTICLE-RULES.md`, `docs/SOURCE-RESEARCH.md`,
    `docs/INTERNAL-LINKING.md`, `docs/QUALITY-RUBRIC.md`; frontmatter bắt
    buộc `article_id` đúng hàng matrix; tên file
-   `<YYYY-MM-DD>-<slug>.md` đúng slug hàng; commit/push 2..10 draft
+   `<YYYY-MM-DD>-<slug>.md` đúng slug hàng; commit/push 1..10 draft
    (turbo queue, tối đa 10 ID mỗi push — consume theo pair 2).
 2. Push tự kích hoạt đường nóng: selection → claim EXACT ID → QA chấm
    từng draft (cấu trúc, SEO on-page, link nội bộ, business facts,
    cannibalization, legal/source), ghi evidence SHA gắn với nội dung +
    hàng matrix. PASS → hàng PASS (90+ cả hai chỉ ghi nhãn EXCELLENT; 75-89 là PASS
    hợp lệ — KHÔNG ép 90/100, KHÔNG cảnh báo band, bài >= 75/70 không sửa
-   chỉ để tăng điểm); thiếu điểm → REPAIR (writer sửa rồi push lại);
+   chỉ để tăng điểm); thiếu điểm → REPAIR (CHỦ lease sửa rồi push lại);
    hard gate chống trùng (duplicate title/slug/canonical/intent gần
    trùng với hàng active) → REPAIR ngay bất kể điểm; hết budget repair
    → BLOCKED. QA không bao giờ tự hạ ngưỡng.
@@ -135,31 +137,21 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 5. Chờ Quality gate xanh trên đúng HEAD + Pages deploy SUCCESS + kiểm tra
    live URL 200 + sitemap.
 
-## Pipeline chết giữa chừng (resume-first, KHÔNG quét backlog tự động)
+## Pipeline chết giữa chừng / run bị hủy (DRAIN backlog)
 
-Nếu một queue run chết SAU khi draft đã vào `_drafts/` nhưng TRƯỚC
-claim/QA/publish hoàn tất, các hàng liên quan KHÔNG bị mất — engine là
-resume-first và selection của factory-publish.yml CHỈ đọc các file
-draft ADDED/MODIFIED trong push hiện tại (không quét backlog toàn
-`_drafts/`):
+Repo là hàng đợi, trigger chỉ là gợi ý. GitHub giữ một run chờ mỗi concurrency group và hủy run chờ cũ khi có run chờ mới
+(kể cả bởi factory-refill.yml), nên MỖI run quét toàn bộ draft đang xếp hàng (`push-selection.py --backlog`, tối đa 30 ID):
 
-- Hàng đang dở (WRITING/QA/REPAIR/PASS): writer push lại draft của ID
-  đó (repair push — touch/modify file) để ID vào lại queue; mode
-  `repair` CHỈ QA/publish EXACT ID đã sửa, KHÔNG claim lại từ đầu.
-- Engine resume-first: còn hàng REPAIR/unresolved thì KHÔNG claim bài
-  mới — các pair PLANNED còn lại trong cùng queue bị DEFERRED, lần
-  publish kế tiếp xử lý sau khi repair xong (prepare-next TỪ CHỐI claim
-  mới khi còn việc dở).
-- Draft sót hợp lệ chưa từng claim: push lại (touch/modify) draft đó
-  trong push kế — nó trở thành queue của push mới và được claim đúng
-  EXACT ID. KHÔNG BAO GIỜ claim hàng PLANNED không có draft trong push;
-  KHÔNG BAO GIỜ đụng hàng PUBLISHED (kể cả khi draft sót trỏ ID đã xuất
-  bản — selection REFUSE).
-- Draft KHÔNG hợp lệ (mẫu nháp, thiếu `article_id`, ID lạ, hàng được
-  bảo vệ) bị selection REFUSE/bo qua một cách fail-closed — KHÔNG âm
-  thầm publish.
-- Repair có ưu tiên trước việc mới; KHÔNG yêu cầu writer tạo lại draft
-  đã push.
+- Run bị hủy / chết TRƯỚC commit: không đổi gì trên main; draft còn trong `_drafts/` và run kế publish chúng (không cần
+  "touch" lại).
+- Hàng đang dở (PASS còn chờ publish; WRITING/QA có draft): tự được nhặt lại. Hàng REPAIR chỉ vào queue khi draft ĐỔI so với
+  bằng chứng QA cuối (sha256) — không QA lại vô hạn bản đã FAIL.
+- Draft KHÔNG hợp lệ (thiếu `article_id`, ID lạ, hàng được bảo vệ, không có lease sống, sai chủ, nhiều file cùng ID) bị CÁCH LY
+  (ghi trong log run) — không chặn draft khác, không bị âm thầm publish.
+- Draft của ID đã PUBLISHED: bỏ qua sạch (no-op xanh), KHÔNG BAO GIỜ đụng lại bài đã publish.
+- Re-run của một push cũ (draft đã chuyển sang `_posts/`): no-op xanh, idempotent.
+- Run chờ bị run KHÁC workflow (refill) thay và không còn push nào sau đó: `writer-session.py confirm` tự nudge
+  (`_drafts/.nudge-Wx`), hoặc bất kỳ push draft kế tiếp sẽ drain.
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 
