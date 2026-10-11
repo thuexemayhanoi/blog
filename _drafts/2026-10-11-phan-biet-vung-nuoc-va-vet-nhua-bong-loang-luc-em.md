@@ -38,7 +38,7 @@ Hình dạng là dấu hiệu thứ hai: vũng nước trũng theo mặt đườ
 
 Khi không phân biệt nổi, nguyên tắc đầu tiên là giảm tốc. Tiếp theo, quan sát vệt đi của xe phía trước: bánh xe xe khác quét qua mà nước văng toé hai bên là nước thật, còn xe trước đi qua vệt êm ru không văng giọt nào thì khả năng lớn là nhựa. Giữ khoảng cách đủ để đọc được chuyển động này, thay vì ép sát đèn hậu xe trước.
 
-Nếu buộc phải đi qua vũng mà không rõ sâu nông, hãy đi thẳng, giữ tốc độ thấp đều, không bẻ lái, không phanh ngay giữa vũng, và giữ chắc hai tay vì bánh xe có thể chồm hụt khi gặp mép vũng phía xa. Tuyệt đối không tăng ga để lao qua cho nhanh: cú lao đó là nguyên nhân xe trượt dài trên mặt nước mỏng hoặc văng nước vào khoang điện.
+Nếu buộc phải đi qua vũng mà không rõ sâu nông, hãy đi thẳng, giữ tốc độ thấp đều, không bẻ lái, không phanh ngay giữa vũng, và giữ chắc hai tay vì bánh xe có thể chồm hụt khi gặp mép vũng phía xa. Tuyệt đối không tăng ga để lao qua cho nhanh: cú lao đó là nguyên nhân xe trượt dài trên mặt nước mỏng hoặc văng nước vào khoang điện. Trên đoạn vắng không có xe trước để quan sát vệt, hãy dời về giữa làn nơi mặt đường phẳng nhất và giữ thẳng tay lái, vì mép vũng sát lề thường sâu hơn và dễ kèm lỗ hỏng ẩn.
 
 ## Những hiểu lầm khiến người lái ngã trên vệt bóng
 

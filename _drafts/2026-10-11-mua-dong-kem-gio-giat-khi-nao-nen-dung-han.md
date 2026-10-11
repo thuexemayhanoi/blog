@@ -38,7 +38,7 @@ Chạm tới hai trong ba mốc này, hãy tìm chỗ dừng ngay. Dừng không
 
 ## Chọn nơi dừng an toàn và những chỗ tuyệt đối tránh
 
-Nơi dừng tốt là chỗ có mái che và tường chắn: vỉa hè khu nhà cao tầng, mái hiên khu dân cư, trạm chờ xe buýt. Tránh tuyệt đối gốc cây to giữa trời trống, biển quảng cáo lớn, các tấm tôn lợp chưa buộc chặt và hàng cây gần đường điện, vì dông dễ quật gãy ngọn hoặc rơi đồ đạc xuống đầu. Mặt cầu vượt và tầng hầm mở cũng là chỗ gió xoáy mạnh, không nên đứng trú ở trục cầu trống.
+Nơi dừng tốt là chỗ có mái che và tường chắn: vỉa hè khu nhà cao tầng, mái hiên khu dân cư, trạm chờ xe buýt. Tránh tuyệt đối gốc cây to giữa trời trống, biển quảng cáo lớn, các tấm tôn lợp chưa buộc chặt và hàng cây gần đường điện, vì dông dễ quật gãy ngọn hoặc rơi đồ đạc xuống đầu. Mặt cầu vượt và tầng hầm mở cũng là chỗ gió xoáy mạnh, không nên đứng trú ở trục cầu trống. Giàn giáo công trình và hàng rào tôn chưa neo chắc cũng cần tránh xa như biển quảng cáo, vì một cú giật mạnh đủ làm đổ cả cụm giàn xuống vỉa hè.
 
 Khi buộc dừng ven đường vì chưa tìm được mái che, hãy bật cả đèn pha lẫn xi nhan, dựng xe sát lề theo chiều gió, và đứng cách xe một khoảng để tránh xe bị gió quật đè lên người. Nếu đi xe thuê và gặp sự cố giữa dông, bài [nhớ cứu hộ xe máy thuê ở Hà Nội](/thue-xe/2026/09/27/nho-cuu-ho-xe-may-thue-o-ha-noi) tổng hợp các thông tin cần chuẩn bị trước khi nhờ người tới hỗ trợ.
 
