@@ -3,11 +3,12 @@
   "mode": "new",
   "queue": [
     "BLG-02383",
-    "BLG-02384"
+    "BLG-02384",
+    "BLG-02386"
   ],
   "pair_size": 2,
-  "started": "2026-10-11T18:57:00Z",
-  "finished": "2026-10-11T18:57:06Z",
+  "started": "2026-10-11T19:06:05Z",
+  "finished": "2026-10-11T19:06:09Z",
   "pairs": [
     {
       "pair_index": 1,
@@ -16,6 +17,13 @@
         "BLG-02384"
       ],
       "status": "recoverable"
+    },
+    {
+      "pair_index": 2,
+      "ids": [
+        "BLG-02386"
+      ],
+      "status": "deferred"
     }
   ],
   "published": [],
@@ -23,6 +31,8 @@
     "BLG-02383",
     "BLG-02384"
   ],
-  "deferred": [],
+  "deferred": [
+    "BLG-02386"
+  ],
   "fatal": null
 }
