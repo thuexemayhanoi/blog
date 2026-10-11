@@ -14,11 +14,11 @@ article_id: BLG-02384
 writer: W1
 ---
 
-Hai bảng giá chỉ cách nhau năm mươi nghìn đồng một ngày nghe có vẻ như nhau. Nhưng nếu thuê dài ngày, khoản chênh giá thuê xe tuần tháng mới là con số đáng nhìn. Năm mươi nghìn mỗi ngày, sau một tuần thành ba trăm năm mươi nghìn, sau một tháng thành 1.500.000 đồng. Bài viết này giúp bạn cộng dồn nhanh và quyết định dòng xe nào đáng trả thêm.
+Hai bảng giá chỉ cách nhau năm mươi nghìn đồng một ngày nghe có vẻ như nhau. Nhưng nếu thuê dài ngày, khoản chênh giá thuê xe tuần tháng mới là con số đáng nhìn. Năm mươi nghìn mỗi ngày, sau một tuần thành ba trăm năm mươi nghìn, sau một tháng thành một triệu rưỡi. Bài viết này giúp bạn cộng dồn nhanh và quyết định dòng xe nào đáng trả thêm.
 
 ## Chênh giá thuê xe tuần tháng cộng dồn nhanh thế nào
 
-Cách tính rất thẳng: lấy phần chênh theo ngày nhân với số ngày dự kiến. Chênh 50k một ngày, bảy ngày là ba trăm năm mươi nghìn, ba mươi ngày là 1.500.000 đồng. Với dòng xe đắt hơn 100k một ngày, con số tháng lên tới ba triệu. Vì vậy, khi xem hai bảng giá chỉ khác nhau vài chục nghìn, đừng so theo mức ngày mà hãy quy cả hai ra tuần hoặc tháng.
+Cách tính rất thẳng: lấy phần chênh theo ngày nhân với số ngày dự kiến. Chênh 50k một ngày, bảy ngày là ba trăm năm mươi nghìn, ba mươi ngày là một triệu rưỡi. Với dòng xe đắt hơn 100k một ngày, con số tháng lên tới ba triệu. Vì vậy, khi xem hai bảng giá chỉ khác nhau vài chục nghìn, đừng so theo mức ngày mà hãy quy cả hai ra tuần hoặc tháng.
 
 Nhiều khách chỉ hỏi giá ngày rồi quyết định nhanh. Với chuyến đi hai ba ngày, cách đó ổn. Nhưng từ khoảng năm ngày trở lên, phần chênh cộng dồn đã đủ để đổi sang một bữa ăn ngon hoặc một đêm nghỉ trọ. Đó là lý do nên xin cả ba mức giá: ngày, tuần, tháng, rồi mới so.
 
