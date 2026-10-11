@@ -1,0 +1,959 @@
+{
+  "_meta": {
+    "note": "50 doc lap topic candidates long-tail theo yeu cau tang toc; de factory-refill stage + gate G1-G8 tren main; khong sua checkpoint thu cong",
+    "created": "2026-10-11",
+    "source": "editorial intent planning; must pass canonical G1-G8 before materialization"
+  },
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-11-U001",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Gặp gác chắn đường sắt đang hạ khi đi xe máy: chờ đúng vị trí",
+      "intent": "Cách dừng xe và chọn vị trí chờ an toàn khi gác chắn đường sắt đang hạ trên tuyến đường đi xe máy",
+      "kw": "gác chắn đường sắt đang hạ",
+      "kw2": [
+        "chờ tàu tại gác đường sắt",
+        "đi xe máy qua đường sắt an toàn"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy qua tuyến có đường sắt cắt ngang",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U002",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Đi sau xe tải chở cát đá: khoảng cách và vị trí an toàn",
+      "intent": "Giữ khoảng cách và chọn vị trí đi an toàn khi bám sau xe tải chở cát đá rơi văng",
+      "kw": "đi sau xe tải chở cát đá",
+      "kw2": [
+        "cát đá rơi từ xe tải",
+        "khoảng cách với xe tải"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy trên tuyến thi công và vận tải vật liệu",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U003",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Xe container quay đầu trên đường hẹp: xử lý thế nào khi đi xe máy",
+      "intent": "Nhận tín hiệu và nhường vị trí an toàn khi xe container quay đầu trên đường hẹp",
+      "kw": "container quay đầu đường hẹp",
+      "kw2": [
+        "xe container quay đầu",
+        "nhường đường xe container"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy trong khu vực đường hẹp nội thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U004",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Đèn vàng tại ngã tư đông người: đi tiếp hay dừng lại",
+      "intent": "Quyết định dừng hay đi an toàn khi đèn vàng bật tại ngã tư đông người đi xe máy",
+      "kw": "đèn vàng ngã tư đi hay dừng",
+      "kw2": [
+        "xử lý đèn vàng khi đi xe máy",
+        "đèn vàng có nên vượt ngã tư"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mới đi xe máy trong phố",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U005",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Xe buýt ghé trạm giữa làn hẹp: vượt hay chờ",
+      "intent": "Cách vượt hoặc chờ sau xe buýt ghé trạm an toàn khi làn đường hẹp",
+      "kw": "xe buýt ghé trạm vượt thế nào",
+      "kw2": [
+        "vượt xe buýt đang đón khách",
+        "làn hẹp gặp xe buýt"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy trên tuyến có nhiều trạm buýt",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U006",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Vượt xe ba gánh chở hàng dài đi chậm",
+      "intent": "Quan sát và vượt xe ba gánh chở hàng dài thò ra an toàn trên đường tỉnh",
+      "kw": "vượt xe ba gánh hàng dài",
+      "kw2": [
+        "xe ba gánh chở hàng thò ra",
+        "hàng longue trên xe ba gánh"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy đường tỉnh và ngoại thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U007",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Đi xe máy qua đoạn thi công đường có rào chắn tạm",
+      "intent": "Nhận diện lối đi tạm và giữ khoảng cách với máy thi công khi qua đoạn đường đang sửa",
+      "kw": "đi xe máy qua đoạn thi công đường",
+      "kw2": [
+        "đường đang thi công đi xe máy",
+        "rào chắn tạm trên đường"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy qua các tuyến đang nâng cấp",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U008",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Quẹo trái tại ngã tư không đèn tín hiệu: trình tự quan sát đúng",
+      "intent": "Trình tự quan sát và nhường xe trước khi quẹo trái tại ngã tư không đèn tín hiệu",
+      "kw": "quẹo trái ngã tư không đèn",
+      "kw2": [
+        "rẽ trái ngã tư không đèn đỏ",
+        "nhường đường khi rẽ trái"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy ở khu ngã tư không đèn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U009",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Người đi bộ băng đường đột ngột: phản ứng an toàn",
+      "intent": "Phản ứng giảm tốc và giữ thăng bằng khi người đi bộ băng đường đột ngột phía trước",
+      "kw": "người đi bộ băng đường đột ngột",
+      "kw2": [
+        "tránh người băng đường",
+        "phanh khi có người băng qua"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy gần trường học và khu dân cư",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U010",
+      "child_id": "C-KY-NANG-TINH-HUONG",
+      "title": "Bị kẹp giữa xe tải tại đèn đỏ: đặt xe ở đâu cho an toàn",
+      "intent": "Chọn vị trí dừng thoát hiểm khi bị kẹp giữa các xe tải tại vạch đèn đỏ",
+      "kw": "kẹp giữa xe tải đèn đỏ",
+      "kw2": [
+        "dừng giữa xe tải nguy hiểm",
+        "lối thoát khi dừng đèn đỏ"
+      ],
+      "links": [
+        "/ky-nang/tinh-huong-giao-thong/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy phải dừng chung làn với xe lớn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U011",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi xe máy trong sương mù sáng sớm trên vành đai",
+      "intent": "Giữ khoảng cách và dùng đèn đúng cách khi đi xe máy trong sương mù sáng sớm",
+      "kw": "sương mù sáng sớm đi xe máy",
+      "kw2": [
+        "đi xe khi có sương mù",
+        "tầm nhìn sương mù buổi sáng"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy sáng sớm trên vành đai",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U012",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Nắng chiều chói mặt hướng tây: giữ tầm nhìn khi lái",
+      "intent": "Giảm tốc và dùng tấm che mặt hợp lý khi nắng chiều chói làm mất tầm nhìn",
+      "kw": "nắng chói mặt buổi chiều",
+      "kw2": [
+        "nắng chiều hướng tây khi đi xe",
+        "tầm nhìn bị nắng chói"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy tan tầm hướng tây",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U013",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Phân biệt vũng nước và vệt nhựa bóng loáng lúc đêm",
+      "intent": "Nhận biết vệt bóng loáng trên đường đêm là nước hay nhựa để chọn cách đi",
+      "kw": "đường bóng loáng đêm",
+      "kw2": [
+        "nhựa đường bóng đêm",
+        "phân biệt vũng nước trên đường"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy buổi tối mưa nhỏ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U014",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mưa dông kèm gió giật: khi nào nên dừng hẳn",
+      "intent": "Nhận biết mốc an toàn để dừng hẳn xe khi gặp mưa dông gió giật giữa chặng",
+      "kw": "mưa dông gió giật đi xe máy",
+      "kw2": [
+        "gió giật khi đi xe máy",
+        "dừng xe khi mưa dông"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy mùa giông bão",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U015",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đường phủ bụi đất sau mưa: giảm tốc và phanh sớm",
+      "intent": "Đi xe máy an toàn trên đoạn đường phủ bụi đất trơn sau mưa",
+      "kw": "đường bụi sau mưa trơn",
+      "kw2": [
+        "bụi đất sau mưa dễ ngã",
+        "đường trơn bụi mưa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy trên tuyến đất đỏ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U016",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở thùng giấy cồng kềnh trên xe máy: buộc và đặt đúng cách",
+      "intent": "Đóng gói và buộc thùng giấy cồng kềnh trên xe máy không cản tầm nhìn",
+      "kw": "chở thùng giấy lớn trên xe máy",
+      "kw2": [
+        "đóng gói thùng carton chở xe",
+        "buộc thùng hàng lên xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người chuyển đồ đạc nhẹ bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U017",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở ghế nhựa gập bằng xe máy: xếp và buộc gọn",
+      "intent": "Xếp ghế nhựa gập chồng lên nhau và buộc chắc khi chở bằng xe máy",
+      "kw": "chở ghế nhựa gập trên xe máy",
+      "kw2": [
+        "chở đồ cồng kềnh bằng xe máy",
+        "buộc đồ lên giá sau"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mua đồ gia dụng nhẹ về nhà bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U018",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở xấp bản vẽ A0 trên xe máy: cuộn ống và buộc ngang",
+      "intent": "Cuộn và buộc xấp bản vẽ A0 ngang lưng xe máy sao cho không gập mép",
+      "kw": "chở bản vẽ a0 trên xe máy",
+      "kw2": [
+        "chở hồ sơ giấy lớn trên xe",
+        "buộc ống giấy lên xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người chở bản vẽ và hồ sơ khổ lớn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U019",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở đàn guitar trên xe máy: buộc ngang lưng và chống ẩm",
+      "intent": "Buộc đàn guitar ngang lưng xe máy và che mưa cho vỏ đàn",
+      "kw": "chở guitar trên xe máy",
+      "kw2": [
+        "chở đàn nhạc bằng xe máy",
+        "buộc guitar lên xe máy"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người chở đàn đi diễn và tập nhạc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U020",
+      "child_id": "C-KY-NANG-CHO-DO",
+      "title": "Chở két trứng trên xe máy: giảm xóc từng lớp đệm",
+      "intent": "Lót đệm và xếp lớp két trứng trên xe máy để về nhà nguyên vẹn",
+      "kw": "chở trứng trên xe máy",
+      "kw2": [
+        "chở đồ dễ vỡ bằng xe máy",
+        "xếp két trứng trên xe"
+      ],
+      "links": [
+        "/ky-nang/cho-do-va-hanh-ly/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mua thực phẩm dễ vỡ về bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U021",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe máy ở trung tâm thương mại giờ cao điểm",
+      "intent": "Ghi nhớ vị trí gửi xe và nhận nhanh khi gửi xe máy ở trung tâm thương mại giờ đông",
+      "kw": "gửi xe máy trung tâm thương mại",
+      "kw2": [
+        "gửi xe tòa nhà thương mại",
+        "tìm xe trong bãi đông"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi mua sắm cuối tuần bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U022",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe máy trước cổng trường lúc tan học",
+      "intent": "Chọn điểm gửi và nhận nhanh xe máy trước cổng trường lúc tan học đông",
+      "kw": "gửi xe máy trước cổng trường",
+      "kw2": [
+        "bãi xe cổng trường",
+        "gửi xe giờ tan học"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "phụ huynh đón học sinh bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U023",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe máy qua đêm ở bãi trông giữ",
+      "intent": "Những điều cần chụp lại và xác nhận khi gửi xe máy qua đêm ở bãi trông giữ",
+      "kw": "gửi xe qua đêm bãi trông giữ",
+      "kw2": [
+        "gửi xe máy qua đêm",
+        "bãi trông giữ xe qua đêm"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người để xe qua đêm sau chuyến đi xa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U024",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe máy ở ga đường sắt Hà Nội: quy trình và lưu ý",
+      "intent": "Quy trình gửi và nhận xe máy ở các ga đường sắt Hà Nội khi đi tàu xa",
+      "kw": "gửi xe máy ga đường sắt hà nội",
+      "kw2": [
+        "gửi xe ở ga hà nội",
+        "trông giữ xe ở ga tàu"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách đi tàu từ Hà Nội cần gửi xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U025",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Gửi xe máy khi đi xem phim đêm: bãi về khuya",
+      "intent": "Chọn bãi và ghi nhớ điểm lấy xe khi đi xem phim khuya về muộn",
+      "kw": "gửi xe máy đi xem phim",
+      "kw2": [
+        "gửi xe buổi tối đi chơi",
+        "bãi xe về khuya có mở không"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xem phim buổi tối bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U026",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Chuyển làn an toàn khi đi xe máy: gương, xi nhan, vai",
+      "intent": "Trình tự gương, xi nhan và quan sát vai khi chuyển làn an toàn trên xe máy",
+      "kw": "chuyển làn an toàn xe máy",
+      "kw2": [
+        "quy tắc chuyển làn",
+        "xi nhan khi chuyển làn"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mới đi xe máy trên đường nhiều làn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U027",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Giữ khoảng cách với xe phía trước: quy tắc hai giây",
+      "intent": "Áp dụng quy tắc hai giây để giữ khoảng cách an toàn với xe phía trước",
+      "kw": "khoảng cách xe máy phía trước",
+      "kw2": [
+        "quy tắc hai giây khi đi xe",
+        "khoảng cách an toàn đèn đỏ"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy trong phố đông",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U028",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Lùi xe máy trong hẻm hẹp: đạp đất và góc nghiêng",
+      "intent": "Kỹ thuật lùi xe máy trong hẻm hẹp bằng đạp đất và giữ góc nghiêng",
+      "kw": "lùi xe máy trong hẻm hẹp",
+      "kw2": [
+        "lùi xe trong không gian chật",
+        "xoay xe trong hẻm nhỏ"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người sống trong phố hẻm nội thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U029",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Quay đầu xe máy trên đường vắng: chọn điểm và trình tự",
+      "intent": "Chọn điểm quay đầu an toàn và trình tự quan sát khi quay xe máy trên đường vắng",
+      "kw": "quay đầu xe máy an toàn",
+      "kw2": [
+        "chọn chỗ quay đầu xe",
+        "quay xe trên đường hẹp"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mới đi xe máy hay đi sai đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U030",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đề xe số trên dốc nghiêng: chống trôi và giữ thăng bằng",
+      "intent": "Đề và vào số xe máy trên dốc nghiêng mà không để xe trôi",
+      "kw": "đề xe số trên dốc",
+      "kw2": [
+        "khởi hành xe số trên dốc",
+        "chống trôi xe khi đề máy dốc"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe số thường xuyên gặp dốc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U031",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Chở người ngồi sau lần đầu: thống nhất tín hiệu trước khi lên xe",
+      "intent": "Thống nhất tín hiệu và tư thế với người ngồi sau lần đầu đi chung xe máy",
+      "kw": "chở người sau lần đầu",
+      "kw2": [
+        "ngồi sau xe máy an toàn",
+        "lên xuống xe máy đúng cách"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mới chở người thân đi chung",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U032",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Về số trước khi vào cua: kỹ thuật chạy mượt",
+      "intent": "Về số đúng trước khi vào cua để xe máy không bị hụt hơi và rung giật",
+      "kw": "về số trước khi vào cua",
+      "kw2": [
+        "về số đúng thời điểm",
+        "cua gắt về số mấy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe số đường vòng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U033",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Xi nhan đúng thời điểm khi đi xe máy",
+      "intent": "Bật xi nhan đúng thời điểm và tắt kịp lúc để không gây hiểu nhầm",
+      "kw": "xi nhan khi đi xe máy",
+      "kw2": [
+        "bật xi nhan đúng lúc",
+        "tín hiệu đèn định hướng"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người mới đi xe máy trong phố",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U034",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Tay tê cứng khi lái xe máy mùa đông: giữ ấm và nghỉ đúng điểm",
+      "intent": "Giữ ấm tay và chọn điểm nghỉ để không bị tê cứng mất cảm giác lái mùa đông",
+      "kw": "tay tê cứng khi đi xe máy",
+      "kw2": [
+        "giữ ấm tay khi đi xe",
+        "tê tay khi lái xe mùa lạnh"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy sáng mùa đông",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U035",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đau lưng trên chuyến xe máy dài: tư thế ngồi và điểm dừng chân",
+      "intent": "Điều chỉnh tư thế ngồi và điểm dừng chân để giảm đau lưng trên chuyến xe máy dài",
+      "kw": "đau lưng khi đi xe máy đường dài",
+      "kw2": [
+        "tư thế ngồi xe máy đúng",
+        "giảm đau lưng khi lái xe"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người chạy cung dài cuối tuần",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U036",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Giảm mỏi cổ vai trên chuyến xe máy dài",
+      "intent": "Các bài giãn tại chỗ giúp giảm mỏi cổ vai trên những chuyến xe máy dài",
+      "kw": "mỏi cổ vai khi đi xe máy",
+      "kw2": [
+        "giãn cơ khi đi xe dài",
+        "cổ vai mỏi vì mũ bảo hiểm"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người đi xe máy nhiều giờ liên tục",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U037",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Chống buồn ngủ khi chạy xe máy sáng sớm",
+      "intent": "Chuẩn bị trước khi lên xe và cách xử lý khi buồn ngủ giữa chuyến sáng sớm",
+      "kw": "buồn ngủ khi đi xe máy sáng sớm",
+      "kw2": [
+        "chống ngáp buồn ngủ khi lái",
+        "đi xe sáng sớm an toàn"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "người dậy sớm chạy xe đường dài",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U038",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Trả xe máy thuê sau giờ đóng cửa của hàng",
+      "intent": "Quy trình trả xe máy thuê khi cửa hàng đã đóng cửa và cách lưu bằng chứng",
+      "kw": "trả xe thuê ngoài giờ",
+      "kw2": [
+        "trả xe sau giờ hành chính",
+        "giao xe khi cửa hàng đóng"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe trả xe khuya",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U039",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhận xe máy thuê giờ cao điểm: kiểm tra nhanh không bỏ sót",
+      "intent": "Cách kiểm tra nhanh nhưng đủ hạng mục khi nhận xe máy thuê vào giờ cao điểm",
+      "kw": "nhận xe thuê giờ cao điểm",
+      "kw2": [
+        "kiểm tra xe nhanh lúc đông khách",
+        "nhận xe khi cửa hàng đông"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách nhận xe lúc cửa hàng đông khách",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U040",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Gia hạn thuê xe máy thêm ngày: thông báo đúng lúc",
+      "intent": "Thông báo gia hạn thuê xe máy đúng thời điểm để không phát sinh phạt",
+      "kw": "gia hạn thuê xe máy",
+      "kw2": [
+        "gia hạn thêm ngày thuê xe",
+        "thông báo gia hạn thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách muốn dùng xe thêm ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U041",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhận xe máy thuê buổi sáng sớm: kiểm tra trong ánh sáng yếu",
+      "intent": "Các hạng mục cần soi kỹ khi nhận xe máy thuê buổi sáng sớm ánh sáng còn yếu",
+      "kw": "nhận xe thuê buổi sáng sớm",
+      "kw2": [
+        "nhận xe sáng sớm",
+        "kiểm tra xe khi trời còn mờ"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách nhận xe đi sớm trong ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U042",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Trả xe máy thuê dưới mưa to: che đậy và ghi hình",
+      "intent": "Che đậy và ghi hình tình trạng xe khi trả xe máy thuê dưới mưa to",
+      "kw": "trả xe thuê trời mưa",
+      "kw2": [
+        "trả xe khi mưa lớn",
+        "giao xe trong mưa"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách trả xe đúng lúc trời mưa dông",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U043",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhận xe thuê phát hiện đồ của khách trước trong cốp",
+      "intent": "Xử lý đúng cách khi nhận xe thuê thấy đồ của khách trước còn trong cốp",
+      "kw": "đồ quên trên xe thuê",
+      "kw2": [
+        "cốp xe thuê có đồ cũ",
+        "báo đồ quên cho cửa hàng"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách nhận xe thuê trong ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U044",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Cần số xe máy thuê bị kẹt: xử lý tại chỗ và báo cửa hàng",
+      "intent": "Xử lý khi cần số xe máy thuê bị kẹt giữa chặng và cách báo cửa hàng",
+      "kw": "xe thuê kẹt cần số",
+      "kw2": [
+        "cần số không qua được",
+        "khóa cần số xe máy"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe gặp cần số kẹt",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U045",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Còi xe máy thuê không hoạt động: có nên tiếp tục hành trình",
+      "intent": "Đánh giá mức an toàn khi còi xe máy thuê không hoạt động và cách báo cửa hàng",
+      "kw": "còi xe thuê không chạy",
+      "kw2": [
+        "còi xe máy hỏng",
+        "đi xe không có còi an toàn không"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe phát hiện còi hỏng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U046",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe máy thuê chai lực khi lên dốc: nhận biết sớm",
+      "intent": "Nhận sớm dấu hiệu xe máy thuê chai lực khi lên dốc và cách báo cửa hàng",
+      "kw": "xe thuê chai lực lên dốc",
+      "kw2": [
+        "xe máy yếu khi lên dốc",
+        "xe thuê đuối sức"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe đi đường dốc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U047",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe máy thuê có mùi khét khi phanh: dừng kiểm tra hay gọi hỗ trợ",
+      "intent": "Phân biệt mức độ mùi khét khi phanh xe máy thuê để quyết định dừng kiểm tra hay gọi hỗ trợ",
+      "kw": "mùi khét khi phanh xe máy",
+      "kw2": [
+        "phanh xe có mùi khét",
+        "mùi cháy khi phanh"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe gặp dấu hiệu phanh bất thường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U048",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Chìa xe máy thuê kẹt trong ổ khóa: xử lý không làm hỏng ổ",
+      "intent": "Xử lý khi chìa xe máy thuê kẹt trong ổ khóa mà không làm hỏng ổ khóa",
+      "kw": "chìa khóa kẹt ổ khóa xe máy",
+      "kw2": [
+        "chìa xe kẹt không xoay được",
+        "ổ khóa xe máy bị kẹt"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe gặp khóa kẹt",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U049",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe máy thuê chết máy giữa đêm: kiểm tra theo thứ tự",
+      "intent": "Kiểm tra tuần tự các nguyên nhân khi xe máy thuê chết máy giữa đêm",
+      "kw": "xe thuê chết máy giữa đêm",
+      "kw2": [
+        "xe máy chết máy lúc nửa đêm",
+        "xe chết máy giữa đường đêm"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe đi ca đêm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-11-U050",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Chân chống xe máy thuê bị gãy giữa chuyến: chống đổ và báo cửa hàng",
+      "intent": "Chống đổ xe tạm thời khi chân chống xe máy thuê bị gãy và cách báo cửa hàng",
+      "kw": "chân chống xe thuê bị gãy",
+      "kw2": [
+        "gãy chân chống xe máy",
+        "đỡ xe không chân chống"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-11-turbo-U",
+      "audience": "khách thuê xe gặp hỏng chân chống",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ]
+}
