@@ -166,6 +166,15 @@ def make_fixture(ledger_candidates=None, head_seq=None):
               'scripts/factory/generate-matrix.py',
               'scripts/factory/expand-topic-universe.py'):
         shutil.copy(os.path.join(ROOT, p), os.path.join(work, p))
+    # hermetic: op refill chi chay khi claimable < min_ready_queue
+    # (queue.py --needs-refill, lazy capacity). Repo that dang day PLANNED
+    # (>= 100) -> op refill la no-op rc=0. Ep nguong cao CHI TRONG BAN SAO.
+    capp = os.path.join(work, 'data/factory-capacity.json')
+    with open(capp, encoding='utf-8') as _f:
+        cap0 = json.load(_f)
+    cap0['thresholds']['min_ready_queue'] = 10 ** 9
+    with open(capp, 'w', encoding='utf-8') as _f:
+        json.dump(cap0, _f, ensure_ascii=False, indent=2)
     # generate-matrix.py liet ke _posts/ va ghi reports/factory/
     shutil.copytree(os.path.join(ROOT, '_posts'), os.path.join(work, '_posts'))
     os.makedirs(os.path.join(work, 'reports/factory'))

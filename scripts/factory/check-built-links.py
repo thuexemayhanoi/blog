@@ -302,6 +302,15 @@ def http_get(url, timeout=30):
 
 
 def run_live(base):
+    # CHỈ chạy tay và CHỈ host của chính site: workflow/Actions không bao
+    # giờ gọi --live, và công cụ này không được phép chạm host lạ.
+    pr = urllib.parse.urlsplit(base)
+    if pr.scheme != 'https' or pr.netloc != HOST[len('https://'):]:
+        raise RuntimeError('--live chi cho phep host cua site (%s), khong '
+                           'phai %r' % (HOST, base))
+    if os.environ.get('FACTORY_LIVE_LINKS') != '1':
+        raise RuntimeError('--live la che do chay tay: dat '
+                           'FACTORY_LIVE_LINKS=1 de bat (mac dinh tat)')
     if not base.endswith('/'):
         base += '/'
     status, sm = http_get(base + 'sitemap.xml')

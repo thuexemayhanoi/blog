@@ -34,6 +34,7 @@ Phủ các kịch bản yêu cầu:
 Chạy: python3 scripts/factory/tests/test_hardening.py (không đổi ROOT).
 """
 import csv
+import importlib.util
 import io
 import json
 import os
@@ -475,158 +476,52 @@ sys.exit(int(os.environ.get('VERIFY_EXIT', '0')))
 """
 
 
-class PushBlockSim(unittest.TestCase):
-    """Mô phỏng run-block commit của factory-publish.yml bằng fake git:
-    pipeline đơn giản — commit 1 lần rồi push; push non-FF => bounded
-    retry (fetch + rebase, tối đa 3 lần thử rồi FAIL — KHÔNG bao giờ
-    force push); rebase conflict => abort ngay; không thay đổi =>
-    không commit."""
+class PublisherPushStatic(unittest.TestCase):
+    """Commit/push của factory-publish.yml nay là script CANONICAL
+    scripts/factory/publisher-push.py (hành vi động được kiểm bằng
+    test_publisher_push.py trên origin bare thật: nothing-to-commit,
+    non-FF bounded retry, KHÔNG force, guard giao-path chống rebase ghép
+    sửa đổi vào bài đã publish, integrity sha256 == QA evidence). Ở đây
+    chốt hợp đồng TĨNH của workflow + script."""
 
-    def setUp(self):
-        self.work, self.tmp = fresh_copy()
-        self.bin = os.path.join(self.tmp, 'bin')
-        os.makedirs(self.bin)
-        self.scen_path = os.path.join(self.tmp, 'scenario.json')
-        self.git_log = os.path.join(self.tmp, 'git.log')
-        self.verify_log = os.path.join(self.tmp, 'verify.log')
-        self.block = extract_run_block(
-            read_workflow(), 'Commit publish results (single commit per queue run)')
-        # GitHub Actions thay ${{ }} trước khi bash chạy; làm giống engine
-        # để bash chạy đúng ở local
-        self.block = self.block.replace(
-            '${{ steps.select.outputs.mode }}', 'new')
-        self.block = self.block.replace(
-            '${{ steps.select.outputs.queue }}', 'TESTIDS')
-        # kịch bản chung: config ×2, add -A, diff --cached (có thay đổi),
-        # commit
-        self.common = [
-            {'args': ['config'], 'exit': 0},
-            {'args': ['config'], 'exit': 0},
-            {'args': ['add'], 'exit': 0},
-            {'args': ['diff', '--cached', '--quiet'], 'exit': 1},
-            {'args': ['commit'], 'exit': 0},
-        ]
+    def _src(self):
+        with open(os.path.join(ROOT, 'scripts/factory/publisher-push.py'),
+                  encoding='utf-8') as f:
+            return f.read()
 
-    def tearDown(self):
-        shutil.rmtree(self.tmp, ignore_errors=True)
+    def test_s6a_workflow_commit_step_uses_canonical_script(self):
+        y = read_workflow()
+        block = extract_run_block(
+            y, 'Commit publish results (single commit per queue run)')
+        self.assertIn('scripts/factory/publisher-push.py', block)
+        self.assertIn('[automated txn]', block)
+        # KHÔNG còn vòng push/rebase inline trong YAML
+        for inline in ('until git push', 'git rebase', 'git push'):
+            self.assertNotIn(inline, block)
 
-    def _git_shim(self):
-        p = os.path.join(self.bin, 'git')
-        with open(p, 'w', encoding='utf-8') as f:
-            f.write(FAKE_GIT)
-        os.chmod(p, os.stat(p).st_mode | stat.S_IEXEC)
-        p = os.path.join(self.bin, 'python3')
-        with open(p, 'w', encoding='utf-8') as f:
-            f.write(STUB_PY)
-        os.chmod(p, os.stat(p).st_mode | stat.S_IEXEC)
+    def test_s6b_script_bounded_retries_and_overlap_guard(self):
+        src = self._src()
+        self.assertIn('MAX_REBASES = 3', src)
+        self.assertIn('upstream_overlap', src)
+        self.assertIn('integrity_after_rebase', src)
+        self.assertIn('integrity_before_push', src)
+        self.assertIn('merge.directoryRenames=false', src)
+        self.assertIn("'diff', '--name-only', '--no-renames'", src)
 
-    def _run_block(self, extra_steps, env_extra=None):
-        scenario = {'steps': self.common + extra_steps}
-        with open(self.scen_path, 'w') as f:
-            json.dump(scenario, f)
-        self._git_shim()
-        env = dict(os.environ)
-        env.update({
-            'PATH': self.bin + os.pathsep + env['PATH'],
-            'FAKE_GIT_SCENARIO': self.scen_path,
-            'FAKE_GIT_LOG': self.git_log,
-            'VERIFY_LOG': self.verify_log,
-            'VERIFY_EXIT': '0',
-            'GITHUB_ENV': '/dev/null',
-            'ACTION': 'qa',
-        })
-        env.update(env_extra or {})
-        script = os.path.join(self.tmp, 'push_block.sh')
-        with open(script, 'w', encoding='utf-8') as f:
-            f.write(self.block)
-        return subprocess.run(['bash', script], cwd=self.work, env=env,
-                              capture_output=True, text=True)
-
-    def _git_calls(self):
-        with open(self.git_log) as f:
-            return f.read().splitlines()
-
-    def test_s6a_non_ff_bounded_retry_then_fail(self):
-        r = self._run_block([
-            {'args': ['push'], 'exit': 1,
-             'err': 'non-fast-forward\n'},
-            {'args': ['fetch', 'origin'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 0},
-            {'args': ['push'], 'exit': 1,
-             'err': 'non-fast-forward\n'},
-            {'args': ['fetch', 'origin'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 0},
-            {'args': ['push'], 'exit': 1,
-             'err': 'non-fast-forward\n'},
-        ])
-        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
-        calls = self._git_calls()
-        self.assertEqual(calls.count('CALL push'), 3,
-                         'non-FF: toi da 3 lan thu — khong treo mai, '
-                         'khong force')
-        self.assertEqual(
-            sum(1 for c in calls if c.startswith('CALL fetch origin')), 2,
-            'moi retry phai fetch truth tuoi truoc khi rebase')
-        self.assertEqual(
-            sum(1 for c in calls if c == 'CALL rebase origin/main'), 2,
-            'moi retry phai rebase len truth tuoi')
-        self.assertNotIn('--force', '\n'.join(calls))
-
-    def test_s6b_retry_recovers_then_success(self):
-        r = self._run_block([
-            {'args': ['push'], 'exit': 1,
-             'err': 'non-fast-forward\n'},
-            {'args': ['fetch', 'origin'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 0},
-            {'args': ['push'], 'exit': 0},
-        ])
-        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
-        calls = self._git_calls()
-        i_commit = next(i for i, c in enumerate(calls)
-                        if c.startswith('CALL commit'))
-        i_push = next(i for i, c in enumerate(calls)
-                      if c == 'CALL push')
-        self.assertLess(i_commit, i_push, 'commit phai TRUOC push')
-        self.assertEqual(calls.count('CALL push'), 2,
-                         'thua race mot lan -> fetch+rebase -> push lai')
-        # thu tu: push FAIL -> fetch -> rebase -> push OK
-        self.assertEqual(calls[i_push + 1], 'CALL fetch origin main')
-        self.assertEqual(calls[i_push + 2], 'CALL rebase origin/main')
-
-    def test_s6c_nothing_to_commit_skips_push(self):
-        self.common[3] = {'args': ['diff', '--cached', '--quiet'],
-                          'exit': 0}
-        r = self._run_block([])
-        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
-        calls = self._git_calls()
-        self.assertFalse(any(c.startswith('CALL commit') for c in calls),
-                         'khong thay doi thi KHONG commit')
-        self.assertFalse(any(c == 'CALL push' for c in calls),
-                         'khong thay doi thi KHONG push')
+    def test_s6c_script_only_runs_in_actions_or_local_remotes(self):
+        src = self._src()
+        self.assertIn("GITHUB_ACTIONS", src)
+        self.assertIn('FACTORY_PUSH_ALLOW_LOCAL', src)
 
     def test_s6d_no_force_push_static(self):
         y = read_workflow()
         self.assertNotIn('push -f', y)
         self.assertNotIn('git push --force', y)
         self.assertNotIn('--force', y.replace('force push', ''))
-
-    def test_s6e_rebase_conflict_aborts_cleanly(self):
-        """Rebase conflict: abort NGAY, KHÔNG thử push lại, KHÔNG force."""
-        r = self._run_block([
-            {'args': ['push'], 'exit': 1,
-             'err': 'non-fast-forward\n'},
-            {'args': ['fetch', 'origin'], 'exit': 0},
-            {'args': ['rebase', 'origin/main'], 'exit': 1,
-             'err': 'CONFLICT\n'},
-            {'args': ['rebase', '--abort'], 'exit': 0},
-        ])
-        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
-        calls = self._git_calls()
-        self.assertEqual(calls.count('CALL push'), 1,
-                         'rebase conflict phai STOP ngay')
-        self.assertIn('CALL rebase --abort', calls,
-                      'rebase conflict phai abort, khong de rebase dang treo')
-        self.assertNotIn('--force', '\n'.join(calls))
+        src = self._src()
+        self.assertNotIn('--force', src.replace('force push', ''))
+        self.assertNotIn('+HEAD', src)
+        self.assertNotIn('--force-with-lease', src)
 
 
 # ------------------------------------------------------------------ S7
@@ -643,6 +538,7 @@ def code_lines(text):
 
 
 CURRENT_WORKFLOWS = [
+    'factory-extract-rows.yml',
     'factory-liveness.yml',
     'factory-publish-verify.yml',
     'factory-publish.yml',
@@ -663,6 +559,7 @@ RETIRED_WORKFLOWS = [
     'publish-queue.yml',
     'weekly-maintenance.yml',
     'diag-factory-tests.yml',
+    'custom-domain-migration.yml',
 ]
 
 
@@ -689,7 +586,8 @@ class StaticContract(unittest.TestCase):
                                                        '.github/workflows'))
                    if f.endswith('.yml'))
         self.assertEqual(wf, CURRENT_WORKFLOWS,
-                         'hop dong CHINH XAC 6 workflow — khong them, '
+                         'hop dong CHINH XAC 8 workflow (7 hop dong + helper '
+                         'factory-extract-rows) — khong them, '
                          'khong bot workflow ngoai danh sach')
         # các workflow/test đã retire KHÔNG quay lại
         for name in RETIRED_WORKFLOWS:
@@ -713,8 +611,21 @@ class StaticContract(unittest.TestCase):
             y = wf_text(name)
             if name == 'factory-publish.yml':
                 self.assertIn('contents: write', y)
-                self.assertIn('git push', y)
-                self.assertIn('git commit', y)
+                # commit/push của publisher sống trong CANONICAL
+                # scripts/factory/publisher-push.py (testable, có guard
+                # giao-path chống rebase ghép sửa đổi vào bài đã publish)
+                self.assertIn('scripts/factory/publisher-push.py', y)
+                self.assertNotIn('git push', y)
+            elif name == 'factory-extract-rows.yml':
+                # helper chỉ đọc matrix + commit các file báo cáo extracted-rows*
+                self.assertIn('contents: write', y)
+                self.assertIn("'data/factory/extract-request.json'", y)
+                self.assertIn("'data/factory/extract-request-W*.json'", y)
+                self.assertIn(
+                    "git add -- 'reports/factory/extracted-rows*.json'", y)
+                self.assertNotIn('git add -A', y)
+                self.assertNotIn('publish-gate', y)
+                self.assertNotIn('--force', y)
             elif name == 'factory-refill.yml':
                 self.assertIn('contents: write', y)
                 self.assertIn('git push', y)
@@ -747,8 +658,9 @@ class StaticContract(unittest.TestCase):
         # dual-mode: selector CANONICAL gate-scope.py quyết định chế độ
         self.assertIn('scripts/factory/gate-scope.py', y)
         self.assertEqual(
-            y.count("if: steps.mode.outputs.mode == 'full'"), 4,
-            'build/links/draft-leak/sitemap CHỈ chạy ở mode full')
+            y.count("if: steps.mode.outputs.mode == 'full'"), 7,
+            'build/links/canonical/draft-leak/sitemap/crawler CHỈ chạy ở '
+            'mode full')
 
     def test_s7_publish_hotpath(self):
         """factory-publish.yml — production publisher DUY NHẤT (mô hình
@@ -796,13 +708,14 @@ class StaticContract(unittest.TestCase):
         # race push trùng: hàng PUBLISHED bị bỏ qua sạch (published_edits,
         # exit 0 GREEN no-op) — chỉ EXISTING/BLOCKED còn refuse fail-closed
         self.assertIn('published_edits', sel)
-        self.assertIn("REFUSED_STATUSES = ('EXISTING', 'BLOCKED')", sel)
+        self.assertIn("REFUSED_STATUSES = ('EXISTING', 'BLOCKED', 'REVIEW')",
+                      sel)
         # template bài nhập mẫu bị loại khỏi selection (chuỗi GHÉP để
         # file test không chứa slug template nguyên vẹn — draft-leak
         # gate grep slug này trên cây build)
         self.assertIn("'mau' + '-nhap'", sel)
         # queue sắp theo thứ tự matrix (deterministic)
-        self.assertIn('sorted(queue, key=lambda i: order[i])', sel)
+        self.assertIn('sorted(set(queue), key=lambda i: order[i])', sel)
         # production-control enabled=false: exit sạch TRƯỚC claim
         self.assertIn('production-control paused', sel)
         # mode: new (cần claim) / repair (KHÔNG claim lại từ đầu)
@@ -827,25 +740,29 @@ class StaticContract(unittest.TestCase):
                       fq)
         self.assertIn("'prepare-next', '--ids', ','.join(planned)", fq)
         self.assertIn("'qa', '--ids', label, '--scope', 'fast'", fq)
-        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", fq)
-        # resume-first: pair FAIL -> recoverable, KHÔNG claim pair mới
-        self.assertIn('DEFERRED (engine resume-first', fq)
-        self.assertIn('blocked and any(', fq)
+        # chỉ publish các hàng PASS của pair (QA vẫn là cổng cứng)
+        self.assertIn("'publish', '--ids', ','.join(passing)", fq)
+        # pair đồng nhất: hàng in-flight trước, PLANNED sau
+        self.assertIn('ordered_pairs(queue', fq)
+        # resume-first là PER-WRITER (ở bước claim, writer-session.py): pair
+        # FAIL -> recoverable, KHÔNG chặn pair/writer khác
+        self.assertNotIn('blocked and any(', fq)
+        self.assertNotIn('DEFERRED (engine resume-first', fq)
         # một pair lỗi KHÔNG rollback pair đã publish (recoverable riêng)
-        self.assertIn("state['recoverable'].extend(pair)", fq)
-        self.assertIn("state['published'].extend(pair)", fq)
+        self.assertIn("state['recoverable'].extend(failing)", fq)
+        self.assertIn("state['published'].extend(passing)", fq)
         self.assertIn('FATAL rc=%s', fq)
         # guard fail-closed: KHÔNG publish khi còn transaction/lock
         guard = extract_run_block(
             y, 'Guard no pending transaction and no lock (fail-closed)')
         self.assertIn('writer-lock.active', guard)
         self.assertIn('active', guard)
-        # commit/push deterministic state; bounded retry non-FF, never force
-        self.assertIn('git add -A', y)
+        # commit/push deterministic state qua publisher-push.py; bounded
+        # retry non-FF, never force (chi tiet: PublisherPushStatic)
         self.assertIn('[automated txn]', y)
-        self.assertIn('until git push', y)
-        self.assertIn('"$n" -ge 3', y)
-        self.assertIn('git rebase origin/main', y)
+        self.assertIn('scripts/factory/publisher-push.py', y)
+        self.assertIn('push-selection.py', y)
+        self.assertIn('--backlog', y)
         self.assertNotIn('--force', y.replace('force push', ''))
         # cuối run: state sạch (không lock, không txn active)
         clean = extract_run_block(y, 'Assert clean factory state')
@@ -884,7 +801,7 @@ class StaticContract(unittest.TestCase):
                   encoding='utf-8') as f:
             fq = f.read()
         self.assertIn("'qa', '--ids', label, '--scope', 'fast'", fq)
-        self.assertIn("'publish', '--ids', label, '--scope', 'fast'", fq)
+        self.assertIn("'publish', '--ids', ','.join(passing)", fq)
         self.assertIn('check=True', fq)
         self.assertNotIn('|| true', fq)
 
@@ -1013,6 +930,24 @@ class StaticContract(unittest.TestCase):
             for bad in ('api_key', 'API_KEY', 'sk-', 'OPENAI', 'MISTRAL',
                         'anthropic', '${{ secrets.'):
                 self.assertNotIn(bad, y, '%s chua %s' % (wf, bad))
+            # quy tac "workflow khong goi API ngoai, khong dung AI ma
+            # nguon mo": khong ten nha cung cap AI / thu vien ML / cong cu
+            # mang trong BAT KY workflow nao (khong phan biet hoa thuong)
+            low = y.lower()
+            for bad in ('mistral', 'openai', 'anthropic', 'chatgpt',
+                        'gemini', 'llama', 'ollama', 'huggingface',
+                        'transformers', 'sentence-transformers', 'torch',
+                        'curl ', 'wget ', 'pip install', 'npm install',
+                        'urllib.request', 'requests.get', 'requests.post',
+                        'http.client'):
+                self.assertNotIn(bad, low, '%s chua %s' % (wf, bad))
+            # moi `uses:` chi la action cua GitHub (actions/*)
+            for line in y.splitlines():
+                st = line.strip()
+                if st.startswith('- uses:') or st.startswith('uses:'):
+                    self.assertRegex(st, r'uses:\s*actions/[\w-]+@',
+                                     '%s: action ngoai GitHub: %s'
+                                     % (wf, st))
 
     def test_s7_publish_gate_canonical(self):
         """publish-gate.py vẫn là người xuất bản duy nhất (tham chiếu
@@ -1027,6 +962,45 @@ class StaticContract(unittest.TestCase):
                   encoding='utf-8') as f:
             pub = f.read()
         self.assertRegex(pub, r'(?m)^enabled:\s*false\s*$')
+
+
+class EngineTestRunner(unittest.TestCase):
+    """CI (quality-gate.yml, job engine-tests) chạy
+    `python3 scripts/factory/run-tests.py --suites ci`. scripts/factory/queue.py
+    (script legacy) che `queue` của stdlib nếu thư mục script còn trên sys.path:
+    runner phải khởi động được ĐÚNG như CI, và mọi test_*.py phải thuộc một
+    nhóm (không suite mồ côi bị bỏ qua âm thầm)."""
+
+    def _runner(self):
+        spec = importlib.util.spec_from_file_location(
+            'run_tests_mod', os.path.join(ROOT, 'scripts/factory/run-tests.py'))
+        mod = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(mod)
+        return mod
+
+    def test_runner_starts_like_ci(self):
+        r = subprocess.run(
+            [sys.executable, 'scripts/factory/run-tests.py', '--suites', 'ci',
+             '--only', 'test_gate_scope', '--jobs', '1'],
+            cwd=ROOT, capture_output=True, text=True, timeout=180)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertIn('1 suite, 1 PASS, 0 FAIL', r.stdout)
+
+    def test_every_suite_belongs_to_a_group(self):
+        rt = self._runner()
+        files = sorted(f[:-3] for f in os.listdir(os.path.join(
+            ROOT, 'scripts/factory/tests'))
+            if f.startswith('test_') and f.endswith('.py'))
+        grouped = set(rt.CI) | set(rt.DATA) | set(rt.HEAVY)
+        self.assertEqual([f for f in files if f not in grouped], [],
+                         'suite mo coi: them vao CI/DATA/HEAVY trong run-tests.py')
+        self.assertEqual([g for g in grouped if g not in files], [],
+                         'nhom tro toi suite khong ton tai')
+        self.assertEqual(len(rt.CI), len(set(rt.CI)), 'suite trung trong CI')
+
+    def test_ci_workflow_runs_the_ci_group(self):
+        y = wf_text('quality-gate.yml')
+        self.assertIn('python3 scripts/factory/run-tests.py --suites ci', y)
 
 
 if __name__ == '__main__':

@@ -1,14 +1,19 @@
 name: Factory extract rows
 
-# Helper (writer sandbox khong doc duoc content-matrix.csv >1MB).
-# Chi chay khi data/factory/extract-request.json thay doi; chi commit
-# reports/factory/extracted-rows.json. KHONG cham state san xuat khac.
+# Helper (writer sandbox khong doc duoc content-matrix.csv >1MB). Moi writer
+# dung request file RIENG de 3 writer khong de nhau:
+#   data/factory/extract-request.json         -> reports/factory/extracted-rows.json   (legacy)
+#   data/factory/extract-request-W1..W3.json  -> reports/factory/extracted-rows-W1..W3.json
+# Chi doc matrix; chi commit cac file reports/factory/extracted-rows*.json;
+# push co bounded rebase retry (khong giao path voi publisher), KHONG force
+# push, KHONG cham state san xuat khac, KHONG API ngoai.
 
 on:
   push:
     branches: [main]
     paths:
       - 'data/factory/extract-request.json'
+      - 'data/factory/extract-request-W*.json'
 
 permissions:
   contents: write
@@ -19,31 +24,56 @@ concurrency:
 
 jobs:
   extract:
+    if: github.repository == 'thuexemayhanoi/blog'
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
       - name: Extract requested rows
         run: |
           python3 - <<'PY'
-          import json, csv
-          req = json.load(open('data/factory/extract-request.json', encoding='utf-8'))
-          ids = set(req['ids'])
-          rows = {}
+          import csv, glob, json, os, re, sys
+          rows_by_id = {}
           with open('data/content-matrix.csv', newline='', encoding='utf-8') as f:
               for r in csv.DictReader(f):
-                  if r.get('id') in ids:
-                      rows[r['id']] = r
-          with open('reports/factory/extracted-rows.json', 'w', encoding='utf-8') as f:
-              json.dump({'requested': req['ids'], 'rows': rows}, f, ensure_ascii=False, indent=1)
-          missing = ids - set(rows)
-          print('extracted', len(rows), 'missing', sorted(missing))
-          if missing:
-              raise SystemExit('missing ids: ' + ', '.join(sorted(missing)))
+                  rows_by_id[r['id']] = r
+          bad = []
+          for req_path in sorted(glob.glob('data/factory/extract-request*.json')):
+              m = re.match(r'^data/factory/extract-request(-W[1-3])?\.json$', req_path)
+              if not m:
+                  continue
+              suffix = m.group(1) or ''
+              req = json.load(open(req_path, encoding='utf-8'))
+              ids = list(req['ids'])
+              rows = {i: rows_by_id[i] for i in ids if i in rows_by_id}
+              out = 'reports/factory/extracted-rows%s.json' % suffix
+              with open(out, 'w', encoding='utf-8') as f:
+                  json.dump({'requested': ids, 'rows': rows}, f, ensure_ascii=False, indent=1)
+              missing = sorted(set(ids) - set(rows))
+              print(req_path, '->', out, 'extracted', len(rows), 'missing', missing)
+              if missing:
+                  bad.append((req_path, missing))
+          if bad:
+              raise SystemExit('missing ids: %s' % bad)
           PY
       - name: Commit report
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add reports/factory/extracted-rows.json
-          git commit -m "factory: extracted rows report [automated]" || echo "no changes"
-          git push
+          git add -- 'reports/factory/extracted-rows*.json'
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "factory: extracted rows report [automated]"
+          n=0
+          until git push; do
+            n=$((n+1))
+            if [ "$n" -ge 3 ]; then
+              echo "push failed after $n retries"
+              exit 1
+            fi
+            git fetch origin main
+            git rebase origin/main || { git rebase --abort; echo "rebase conflict; aborting"; exit 1; }
+          done

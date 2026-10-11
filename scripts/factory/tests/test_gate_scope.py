@@ -142,12 +142,16 @@ class TestQualityGateWiring(unittest.TestCase):
         # selector CANONICAL, không phải logic inline trong YAML
         self.assertIn('scripts/factory/gate-scope.py', y)
         self.assertIn("echo \"mode=$MODE\" >> \"$GITHUB_OUTPUT\"", y)
-        # 4 step nặng phải điều kiện theo mode == full
+        # 7 step nặng phải điều kiện theo mode == full
         self.assertEqual(
-            y.count("if: steps.mode.outputs.mode == 'full'"), 4,
-            'build/links/draft-leak/sitemap phải chạy CHỈ ở mode full')
+            y.count("if: steps.mode.outputs.mode == 'full'"), 7,
+            'build/links/canonical/draft-leak/sitemap/crawler/sitemap-targets '
+            'phải chạy CHỈ ở mode full')
         for step in ('Build site', 'Built-site link integrity',
-                     'Drafts must not be deployed', 'Sitemap + schema'):
+                     'Canonical + legacy-host sanity',
+                     'Drafts must not be deployed', 'Sitemap + schema',
+                     'Crawler metadata sanity',
+                     'Sitemap targets must exist in built site'):
             self.assertIn(step, y)
         # validate FAST luôn chạy (cả hai mode)
         self.assertIn('validate.py --scope chunk', y)

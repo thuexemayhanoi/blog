@@ -141,6 +141,11 @@ def last_valid_progress(root, now):
             t = parse_any_iso(lease.get('claimed_at'))
             if t:
                 stamps.append(('writer-claims:' + str(w), t))
+            # registry v2: claimed_at là mốc nhận slot (không reset khi
+            # renew) — nhịp sống của phiên là heartbeat_at
+            t = parse_any_iso(lease.get('heartbeat_at'))
+            if t:
+                stamps.append(('writer-claims.heartbeat:' + str(w), t))
 
     # 4. QA evidence mới (publish/xếp hạng bài)
     for path in glob.glob(p(root, QA_DIR + '/*.json')):
