@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T06:09:44+00:00",
+  "updated_at": "2026-10-11T06:10:50+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02052",
-      "started_at": "2026-10-11T05:23:00+00:00",
-      "source": "_drafts/2026-10-11-coi-xe-may-thue-khong-hoat-ong-co-nen-tiep-tuc-hanh-trinh.md",
-      "destination": "_posts/2026-10-11-coi-xe-may-thue-khong-hoat-ong-co-nen-tiep-tuc-hanh-trinh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e40daf5479fa4d8230933fa132560b299601a0a2",
-      "finished_at": "2026-10-11T05:23:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02053",
-      "started_at": "2026-10-11T05:23:03+00:00",
-      "source": "_drafts/2026-10-11-xe-may-thue-chai-luc-khi-len-doc-nhan-biet-som.md",
-      "destination": "_posts/2026-10-11-xe-may-thue-chai-luc-khi-len-doc-nhan-biet-som.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e40daf5479fa4d8230933fa132560b299601a0a2",
-      "finished_at": "2026-10-11T05:23:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02054",
       "started_at": "2026-10-11T05:23:04+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "43ff0f431f97088a7a70f4ca490f9f0813620749",
       "finished_at": "2026-10-11T06:09:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02077",
+      "started_at": "2026-10-11T06:10:50+00:00",
+      "source": "_drafts/2026-10-11-e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang.md",
+      "destination": "_posts/2026-10-11-e-xe-so-tren-doc-nghieng-chong-troi-va-giu-thang-bang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "79256eb1c07bbd7609710aa188adc14e2d822bc4",
+      "finished_at": "2026-10-11T06:10:50+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02078",
+      "started_at": "2026-10-11T06:10:50+00:00",
+      "source": "_drafts/2026-10-11-cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe.md",
+      "destination": "_posts/2026-10-11-cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "79256eb1c07bbd7609710aa188adc14e2d822bc4",
+      "finished_at": "2026-10-11T06:10:50+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
