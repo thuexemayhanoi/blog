@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T06:12:49+00:00",
+  "updated_at": "2026-10-11T06:14:06+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02058",
-      "started_at": "2026-10-11T05:43:41+00:00",
-      "source": "_drafts/2026-10-11-e-xe-so-troi-lanh-meo-e-may-lan-au-thanh-cong.md",
-      "destination": "_posts/2026-10-11-e-xe-so-troi-lanh-meo-e-may-lan-au-thanh-cong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4b637a18f6ddb7dd6929457fb32f46ee99d79710",
-      "finished_at": "2026-10-11T05:43:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-02059",
-      "started_at": "2026-10-11T05:52:56+00:00",
-      "source": "_drafts/2026-10-11-nhan-biet-xe-so-sap-het-xang-dau-hieu-va-xu-ly.md",
-      "destination": "_posts/2026-10-11-nhan-biet-xe-so-sap-het-xang-dau-hieu-va-xu-ly.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c33462cec9c731094fc3ce866ff5b20067072efd",
-      "finished_at": "2026-10-11T05:52:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02060",
       "started_at": "2026-10-11T05:52:56+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "57dff1d806ad27851b93e848ddf6b2e01388f556",
       "finished_at": "2026-10-11T06:12:49+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02083",
+      "started_at": "2026-10-11T06:14:06+00:00",
+      "source": "_drafts/2026-10-11-xe-container-quay-au-tren-uong-hep-xu-ly-the-nao-khi-i-xe-may.md",
+      "destination": "_posts/2026-10-11-xe-container-quay-au-tren-uong-hep-xu-ly-the-nao-khi-i-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a8c5b495c4122e560158da52e57a3e2f70576359",
+      "finished_at": "2026-10-11T06:14:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02084",
+      "started_at": "2026-10-11T06:14:06+00:00",
+      "source": "_drafts/2026-10-11-en-vang-tai-nga-tu-ong-nguoi-i-tiep-hay-dung-lai.md",
+      "destination": "_posts/2026-10-11-en-vang-tai-nga-tu-ong-nguoi-i-tiep-hay-dung-lai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a8c5b495c4122e560158da52e57a3e2f70576359",
+      "finished_at": "2026-10-11T06:14:06+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
