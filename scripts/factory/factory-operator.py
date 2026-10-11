@@ -921,17 +921,10 @@ def op_prepare_next(args, biz, tax):
              'claim thêm.')
     txn, cp, rows = preflight(scope=vscope)
     explicit = [i.strip() for i in (args.ids or '').split(',') if i.strip()]
-    # hòa giải việc dở trước: không claim mới khi còn hàng đang làm.
-    # CHỈ áp cho đường người vận hành (--count, tự chọn hàng PLANNED).
-    # Đường PUSH HOT PATH (--ids EXACT do push-selection.py chọn) KHÔNG bị
-    # chặn bởi hàng dở của writer KHÁC: với 3 writer song song, MỘT hàng
-    # REPAIR của writer đã chết từng làm mọi push khác FATAL (deadlock
-    # toàn nhà máy). Resume-first khi đó là PER-WRITER: hàng REPAIR vẫn
-    # nằm trong lease của chủ (writer-claim.py giữ ID in-flight) và
-    # writer-session.py begin không cấp ID mới cho chủ còn REPAIR.
+    # hòa giải việc dở trước: không claim mới khi còn hàng đang làm
     unfinished = [r['id'] for r in rows
                   if r['status'] in ('WRITING', 'QA', 'REPAIR', 'PASS')]
-    if unfinished and not explicit:
+    if unfinished:
         bail('còn %d hàng chưa xong (%s...) — hoàn tất/QA/publish '
              'trước khi claim mới (không bỏ qua việc dở để lấy throughput).'
              % (len(unfinished), ','.join(unfinished[:5])))

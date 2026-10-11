@@ -323,14 +323,6 @@ class FxTestCase(unittest.TestCase):
         drafts_dir = os.path.join(self.fx, '_drafts')
         for fn in os.listdir(drafts_dir):
             os.remove(os.path.join(drafts_dir, fn))
-        # hermetic: registry writer-claims THẬT (lease sống của writer
-        # production, hạn lease tính theo đồng hồ thật) KHÔNG được rò vào
-        # fixture — test lease/ownership tự dựng registry của mình.
-        reg = os.path.join(self.fx, 'data', 'state', 'writer-claims.json')
-        if os.path.exists(reg):
-            with open(reg, 'w', encoding='utf-8') as f:
-                json.dump({'schema_version': '2', 'updated_at': None,
-                           'leases': {}}, f)
         self.addCleanup(shutil.rmtree, base, ignore_errors=True)
 
     def py(self, *args):

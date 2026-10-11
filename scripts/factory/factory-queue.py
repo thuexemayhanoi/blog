@@ -12,15 +12,11 @@ push — queue 2..10, exact article_id, matrix order, refuse fail-closed):
   python3 scripts/factory/factory-queue.py run \
       --ids BLG-001,BLG-002,... --mode new|repair [--pair-size 2]
 
-Hợp đồng tiêu thụ (semantics inline cũ của factory-publish.yml + harden
-multi-writer):
-  queue -> deterministic PAIRS of 2 (pair cuối 1 ID khi queue lẻ);
-           pair ĐỒNG NHẤT: hàng in-flight (WRITING/QA/PASS/REPAIR đã sửa)
-           đi TRƯỚC theo thứ tự matrix, rồi mới đến hàng PLANNED cần claim
+Hợp đồng tiêu thụ (port NGUYÊN semantics inline cũ của factory-publish.yml):
+  queue -> deterministic PAIRS of 2 (pair cuối 1 ID khi queue lẻ)
   -> pair: claim exact PLANNED subset (prepare-next --scope fast)
            -> scoped QA fast (threshold 75/70, KHÔNG hạ)
-           -> transactional publish CHỈ các hàng PASS của pair
-              (hàng REPAIR cùng pair không kéo hàng PASS xuống)
+           -> transactional publish PASS only (publish --scope fast)
            -> checkpoint (report rewrite sau TỪNG pair — crash-resume)
   -> pair kế. Publisher concurrency = 1.
 
@@ -34,14 +30,12 @@ Safety:
     engine writer-lock của từng op (prepare/qa/publish) tách bạch và vẫn
     transactional đúng engine canonical;
   - pair FAIL không BAO GIỜ rollback pair đã publish;
-  - pair FAIL content (hàng về REPAIR/PASS) = recoverable: hàng REPAIR
-    chờ CHỦ của nó sửa (push lại draft đã sửa) — KHÔNG chặn writer khác
-    (trước đây resume-first toàn cục làm MỘT hàng REPAIR của writer đã
-    chết deadlock cả nhà máy); các pair sau vẫn chạy. Resume-first nay
-    là PER-WRITER, thực thi ở bước claim (writer-session.py begin);
-  - pair FAIL hạ tầng (claim/QA infra) = FATAL: dừng NGAY queue, các
-    pair chưa chạy ghi `deferred`, báo rõ, exit 1 (workflow fail trước
-    commit step; draft còn xếp hàng trên main, run kế drain lại);
+  - pair FAIL content (mọi trạng thái pair về REPAIR/PASS) = recoverable
+    + engine resume-first: các pair PLANNED sau DEFERRED sang lần chạy
+    kế (repair-first), KHÔNG nửa vời;
+  - pair FAIL hạ tầng (claim/QA infra) = FATAL: dừng NGAY queue, báo
+    rõ, exit 1 — pair đã publish GIỮ NGUYÊN (workflow fail trước commit
+    step; draft còn xếp hàng trên main, lần push kế retry);
   - KHÔNG full-site audit trong hot path (mọi op gọi --scope fast;
     light matrix smoke là step riêng của workflow);
   - KHÔNG AI, KHÔNG API, KHÔNG secrets, KHÔNG git push (commit/push
@@ -56,8 +50,6 @@ published_ids/recoverable_ids/deferred_ids giữ nguyên interface.
 
 Thoát: 0 = queue đã xử lý (published hoặc recoverable); 1 = fatal /
 refuse (KHÔNG đổi gì khi refuse).
-
-Giới hạn: MAX_QUEUE = 30 ID/run (3 writer x 10 lease); mỗi pair vẫn 2.
 """
 import argparse
 import csv
@@ -77,8 +69,8 @@ QUEUE_LOCK_META = 'data/state/factory-queue.json'
 OP = 'scripts/factory/factory-operator.py'
 
 PAIR_SIZE = 2          # hợp đồng turbo queue: pair 2 bài
-MAX_QUEUE = 30         # tối đa 30 ID/queue run (3 writer x lease 10)
-LOCKED_STATUSES = ('PUBLISHED', 'EXISTING', 'BLOCKED', 'REVIEW')
+MAX_QUEUE = 10         # tối đa 10 ID/queue run (lease limit mỗi writer)
+LOCKED_STATUSES = ('PUBLISHED', 'EXISTING', 'BLOCKED')
 RECOVERABLE = ('REPAIR', 'PASS')
 
 REPORT = os.environ.get(
@@ -153,16 +145,6 @@ def validate_queue(ids):
     if miss:
         return None, 'id chua co draft trong _drafts/: %s' % ','.join(miss)
     return sorted(ids, key=lambda a: order[a]), None
-
-
-def ordered_pairs(queue, status, pair_size=PAIR_SIZE):
-    """Pair ĐỒNG NHẤT: hàng đã claim (in-flight) trước, hàng PLANNED sau;
-    mỗi nhóm giữ thứ tự matrix. Pair không trộn hàng cần claim với hàng
-    đã claim nên một hàng dở không kéo hàng mới vào trạng thái nửa vời."""
-    inflight = [a for a in queue if status.get(a) != 'PLANNED']
-    planned = [a for a in queue if status.get(a) == 'PLANNED']
-    return (split_pairs(inflight, pair_size)
-            + split_pairs(planned, pair_size))
 
 
 def acquire_queue_lock():
@@ -243,8 +225,8 @@ def run_queue(mode, ids, pair_size=PAIR_SIZE):
         print(json.dumps({'error': 'refusing queue: %s' % err,
                           'mode': mode}, ensure_ascii=False))
         return 1
-    pairs = ordered_pairs(queue, status_map(load_rows()), pair_size)
-    state = {'schema_version': '2', 'mode': mode, 'queue': queue,
+    pairs = split_pairs(queue, pair_size)
+    state = {'schema_version': '1', 'mode': mode, 'queue': queue,
              'pair_size': pair_size, 'started': started, 'finished': None,
              'pairs': [], 'published': [], 'recoverable': [],
              'deferred': [], 'fatal': None}
@@ -256,6 +238,7 @@ def run_queue(mode, ids, pair_size=PAIR_SIZE):
         write_state(state)
         print(json.dumps({'error': str(e)}, ensure_ascii=False))
         return 1
+    blocked = False
     try:
         for idx, pair in enumerate(pairs, 1):
             label = ','.join(pair)
@@ -264,60 +247,41 @@ def run_queue(mode, ids, pair_size=PAIR_SIZE):
             write_state(state)
             st = {i: s for i, s in status_map(load_rows()).items()
                   if i in pair}
+            if blocked and any(v == 'PLANNED' for v in st.values()):
+                # engine resume-first: sau pair FAIL content KHÔNG claim
+                # thêm bài mới — pair PLANNED còn lại DEFERRED lần kế
+                state['deferred'].extend(pair)
+                entry['status'] = 'deferred'
+                write_state(state)
+                print('pair %s: DEFERRED (engine resume-first — hoan '
+                      'tat repair truoc)' % label)
+                continue
             try:
                 planned = [i for i in pair if st[i] == 'PLANNED']
                 if planned:
                     _op(['prepare-next', '--ids', ','.join(planned),
                          '--scope', 'fast'])
                 _op(['qa', '--ids', label, '--scope', 'fast'])
-                # chỉ publish các hàng PASS của pair: hàng REPAIR cùng pair
-                # (QA FAIL) chờ chủ sửa, KHÔNG kéo hàng PASS xuống
-                st_qa = {i: s for i, s in status_map(load_rows()).items()
-                         if i in pair}
-                passing = [i for i in pair if st_qa.get(i) == 'PASS']
-                failing = [i for i in pair if st_qa.get(i) != 'PASS']
-                if passing:
-                    _op(['publish', '--ids', ','.join(passing),
-                         '--scope', 'fast'])
-                state['published'].extend(passing)
-                if failing:
-                    state['recoverable'].extend(failing)
-                    entry['status'] = 'partial' if passing else 'recoverable'
-                    print('pair %s: published=%s recoverable=%s (REPAIR, '
-                          'chu draft push lai ban sua)'
-                          % (label, ','.join(passing) or '-',
-                             ','.join(failing)))
-                else:
-                    entry['status'] = 'published'
-                    print('pair %s: PUBLISHED' % label)
+                _op(['publish', '--ids', label, '--scope', 'fast'])
+                state['published'].extend(pair)
+                entry['status'] = 'published'
+                print('pair %s: PUBLISHED' % label)
             except subprocess.CalledProcessError as e:
                 st2 = {i: s for i, s in
                        status_map(load_rows()).items() if i in pair}
-                done = [i for i in pair if st2.get(i) == 'PUBLISHED']
-                rest = [i for i in pair if i not in done]
-                # chỉ op `publish` (gate từ chối nội dung) mới là lỗi NỘI
-                # DUNG recoverable; prepare-next/qa thất bại (rc != 0) là
-                # lỗi hạ tầng (reports/validate/claim) -> FATAL dù trạng
-                # thái hàng trông giống recoverable
-                failed_op = [str(x) for x in (e.cmd or [])]
-                content_fail = ('publish' in failed_op and bool(rest)
-                                and all(st2.get(i) in RECOVERABLE
-                                        for i in rest))
+                content_fail = all(v in RECOVERABLE for v in st2.values())
                 if content_fail:
-                    state['published'].extend(done)
-                    state['recoverable'].extend(rest)
+                    state['recoverable'].extend(pair)
+                    blocked = True
                     entry['status'] = 'recoverable'
                     print('pair %s: FAIL content (recoverable, can '
                           'repair push) rc=%s' % (label, e.returncode))
                 else:
                     state['fatal'] = 'pair %s rc=%s' % (label, e.returncode)
                     entry['status'] = 'fatal'
-                    state['deferred'].extend(
-                        i for later in pairs[idx:] for i in later)
                     write_state(state)
                     print('pair %s: FATAL rc=%s — dung ngay, khong tiep '
-                          'tuc pair ke (pair chua chay -> deferred, run '
-                          'ke drain lai)' % (label, e.returncode))
+                          'tuc pair ke' % (label, e.returncode))
                     return 1
             write_state(state)
     finally:
