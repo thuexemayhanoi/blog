@@ -10,7 +10,7 @@ Triết lý: sản xuất → QA nhanh → publish → audit sâu định kỳ. 
 ## Mô hình workflow (docs/factory-workflow-contract.md) — 7 hợp đồng + 1 helper
 
 - `quality-gate.yml` — cổng READ-ONLY dual-mode, trigger push main / PR **theo paths**
-  (matrix, `_drafts/**`, `_posts/**`, `scripts/**`, layouts/includes/data/config). Content push:
+  (matrix, `_drafts/**`, `_posts/**`, `scripts/**`, `.github/workflows/**`, layouts/includes/data/config). Content push:
   CHỈ `validate.py --scope chunk`. Engine push (scripts/layouts/…): + Jekyll build + link
   integrity + draft leak + sitemap/hub sanity (mode `full`).
 - `factory-publish.yml` — production publisher DUY NHẤT, PUSH-DRIVEN + **DRAIN**: writer push
