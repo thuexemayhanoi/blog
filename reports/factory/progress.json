@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-11T19:06:08+00:00",
+  "generated_at": "2026-10-11T19:12:08+00:00",
   "data_through": "2026-10-11",
-  "data_fingerprint": "db5fafd112aa90eaf1231a0e17d3f336469ccf19bd404949e03473b48fe68a00",
-  "matrix_sha256": "071ab3fbe01c66742464c832bd67f40e2827f8c66b27a64f474946ad1a68c66b",
+  "data_fingerprint": "3bbdb7c0fb653118ccf3a9d94a829dda60c2b983571303f5b397cea0ac64aa32",
+  "matrix_sha256": "9a173cbf747258d8f8c8af0990d2c2253fa32685d6f3dc6a56b9cb639eea9771",
   "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
   "inventory_sha256": "6f49ba6547da9aae1824d5ab61ad4babfd01c8b8f2e30582f05cebf42036755f",
   "generated_by": "scripts/factory/generate-reports.py (từ dữ liệu thật, bảo toàn tiến độ)",
@@ -13,23 +13,23 @@
     "legacy_mapped": 483,
     "legacy_review": 10,
     "legacy_existing": 473,
-    "planned_total": 578,
+    "planned_total": 570,
     "writing": 0,
     "qa": 0,
-    "pass": 1,
-    "published": 1898,
-    "repair": 1,
+    "pass": 0,
+    "published": 1908,
+    "repair": 0,
     "blocked": 1,
     "fail": 0,
-    "planned_claimable": 578
+    "planned_claimable": 570
   },
   "taxonomy": {
     "parents": 7,
     "children": 56
   },
-  "published_through_factory": 1898,
+  "published_through_factory": 1908,
   "audit": {
-    "repair_pending": 1,
+    "repair_pending": 0,
     "review_pending": 10,
     "post_publish_audit_pending": 0
   },
@@ -43,13 +43,10 @@
     "claims_stale": 0
   },
   "checkpoint_progress": {
-    "last_completed_article_id": "BLG-02382",
+    "last_completed_article_id": "BLG-02392",
     "last_batch_id": null,
-    "next_claimable_id": "BLG-02385",
-    "in_progress_chunk": [
-      "BLG-02383",
-      "BLG-02384"
-    ]
+    "next_claimable_id": "BLG-02393",
+    "in_progress_chunk": null
   },
   "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận cặp 2 hàng PLANNED (chunk_size trong data/factory/production-control.json) bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart."
 }

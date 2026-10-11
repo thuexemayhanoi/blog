@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-02383",
   "title": "Đọc giá thuê xe máy bằng tiếng Việt: 150k, 1tr8, một trăm rưỡi là bao nhiêu",
-  "scored_at": "2026-10-11T19:06:05+00:00",
+  "scored_at": "2026-10-11T19:11:28+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -46,9 +46,10 @@
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-11-oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu.md",
-  "content_sha256": "57f70b7d0315092eecfe54ece7c8cee15802ea59417295b2a2582befe0702332",
-  "matrix_row_sha256": "4c5a094523b98c60fa0badc70da9fbec78eba785e0f3064ab1854440d4a54411",
+  "source_path": "_posts/2026-10-11-oc-gia-thue-xe-may-bang-tieng-viet-150k-1tr8-mot-tram-ruoi-la-bao-nhieu.md",
+  "content_sha256": "d419cc3075305841c8aefa07b63ae0404129d3daa731d03c32b684fb5b92db72",
+  "matrix_row_sha256": "7448e1f61a76b1bc328aa443da1ba2032eab9d0cd27a97c9e8d998ce1ba88b80",
   "result": "PASS",
-  "grade": "EXCELLENT"
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-11T19:11:33+00:00"
 }

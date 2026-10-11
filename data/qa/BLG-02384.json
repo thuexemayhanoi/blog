@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-02384",
   "title": "Xe đắt hơn 50.000đ một ngày: cộng dồn theo tuần và tháng chênh bao nhiêu",
-  "scored_at": "2026-10-11T19:06:06+00:00",
+  "scored_at": "2026-10-11T19:11:30+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -28,29 +28,28 @@
     "hanoi_example": true,
     "reads_naturally_proxy": true,
     "no_placeholder": true,
-    "business_amounts": false,
+    "business_amounts": true,
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1191,
+  "word_count": 1193,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
   "duplicate_title_clash": [],
   "duplicate_slug_clash": [],
   "intent_unique_clash": [],
-  "non_approved_amounts": [
-    1500000
-  ],
+  "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 80,
+  "quality": 100,
   "seo": 100,
-  "business_fact": "FAIL",
+  "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
-  "source_path": "_drafts/2026-10-11-xe-at-hon-50000-mot-ngay-cong-don-theo-tuan-va-thang-chenh-bao-nhieu.md",
-  "content_sha256": "68a4d98cb8799e3c8d8f86ef94b321aa48b60bffa49f37e1daee2f640d546cb5",
-  "matrix_row_sha256": "2ea8f5144029ce267c44805c89d602be3a5dd4f6405fe37a7666cdfc72f9a3ef",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "critical_failure": false,
+  "source_path": "_posts/2026-10-11-xe-at-hon-50000-mot-ngay-cong-don-theo-tuan-va-thang-chenh-bao-nhieu.md",
+  "content_sha256": "3ca8f7e59d9bf4f2bfe4e2a28d0325f1de3944cbefe149711d8a9e7ea5a8a055",
+  "matrix_row_sha256": "6dd48eb8f0bf34ac7ee1f8a699fd4266a1528deda3e89d04bd4fc8bc3941a963",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-11T19:11:33+00:00"
 }
