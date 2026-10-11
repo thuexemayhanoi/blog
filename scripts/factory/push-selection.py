@@ -81,9 +81,16 @@ Semantics (giữ NGUYÊN semantics của selector cũ; phần mới ghi rõ):
         khớp (draft không khai -> cảnh báo, tương thích ngược);
       * hàng in-flight (WRITING/QA/PASS/REPAIR) có lease sống của writer
         KHÁC với draft đã ĐỔI nội dung -> sai chủ (không writer nào sửa
-        draft thuộc writer khác); không có lease sống = orphan, được phép
-        (hết hạn lease không giam hàng); nội dung CHƯA đổi so với bằng
-        chứng QA (đang chờ publish) không cần kiểm chủ;
+        draft thuộc writer khác); nội dung CHƯA đổi so với bằng chứng QA
+        (đang chờ publish) không cần kiểm chủ (hết hạn lease không giam
+        hàng); orphan (không lease sống) mà draft bị SỬA sau lần QA gần
+        nhất phải được NHẬN trước (`begin --ids ... --adopt`) — refuse ở push,
+        cách ly ở drain; orphan chưa có bằng chứng (publisher chạy dở) tiếp
+        tục;
+      * một ID nằm trong >= 2 lease SỐNG (merge git thô) -> registry mơ hồ
+        chủ sở hữu -> refuse fail-closed như registry hỏng;
+      * cắt trần 30 ID/run: hàng in-flight trước rồi PLANNED (mỗi nhóm theo
+        matrix order); lọc production-control paused làm TRƯỚC khi cắt;
     vi phạm với draft của push -> REFUSE fail-closed exit 3 (KHÔNG đổi gì);
   - selector CHỈ ĐỌC: KHÔNG mutate matrix/checkpoint/production-control/
     bất kỳ file nào của repo (chỉ ghi stdout hoặc $GITHUB_OUTPUT);
@@ -186,6 +193,15 @@ def claim_registry():
         raise Refuse('registry writer-claims hong (%s) — multi-writer mode '
                      'khong xac dinh duoc chu; chay: writer-claim.py '
                      'repair-registry --from-git' % e)
+    dup = mod.live_conflicts(reg)
+    if dup:
+        # cùng một ID thuộc >= 2 lease SỐNG: chủ sở hữu mơ hồ -> KHÔNG chọn
+        # đại slot nào (fail-closed như registry hỏng)
+        raise Refuse('registry writer-claims khong nhat quan: %s — moi ID chi '
+                     'duoc mot lease song; sua bang writer-claim.py '
+                     'repair-registry / release truoc khi publish tiep'
+                     % '; '.join('%s giu boi %s' % (a, '+'.join(ws))
+                                 for a, ws in sorted(dup.items())[:5]))
     return reg, mod._live_leases(reg)
 
 
@@ -201,6 +217,17 @@ def evidence_sha(aid):
             return (json.load(f) or {}).get('content_sha256')
     except (OSError, ValueError):
         return None
+
+
+def content_state(aid, rel):
+    """(changed, modified) của draft so với bằng chứng QA của ID: `changed` =
+    chưa có bằng chứng HOẶC sha khác; `modified` = CÓ bằng chứng và sha khác
+    (draft bị sửa sau lần QA gần nhất)."""
+    ev = evidence_sha(aid)
+    if ev is None or rel is None:
+        return True, False
+    differs = _sha256_file(os.path.join(ROOT, rel)) != ev
+    return differs, differs
 
 
 def parse_draft(path):
@@ -333,9 +360,11 @@ def ids_from(paths, by_slug=None, stale=None):
     return out
 
 
-def ownership_problem(aid, status, writer, session, registry, changed):
+def ownership_problem(aid, status, writer, session, registry, changed,
+                      modified=False):
     """None nếu hợp lệ, hoặc chuỗi mô tả vi phạm. `changed`: nội dung draft
-    đã đổi so với bằng chứng QA (hoặc chưa có bằng chứng)."""
+    đã đổi so với bằng chứng QA (hoặc chưa có bằng chứng); `modified`: CÓ
+    bằng chứng QA và draft khác nó (ai đó đã SỬA draft sau lần QA gần nhất)."""
     if registry is None:
         return None, None
     reg, live = registry
@@ -345,9 +374,19 @@ def ownership_problem(aid, status, writer, session, registry, changed):
             return ('%s: khong co lease song trong writer-claims '
                     'registry (multi-writer mode ON)' % aid), None
     else:
-        # hàng in-flight: orphan (không lease sống) được phép; nội dung
-        # chưa đổi (đang chờ publish) không cần kiểm chủ
-        if holder is None or not changed:
+        # hàng in-flight: nội dung chưa đổi (đang chờ publish) không cần
+        # kiểm chủ. Orphan (không lease sống) mà draft bị SỬA sau lần QA: phải
+        # NHẬN trước (`begin --ids ... --adopt`) — "nhận việc orphan chỉ qua
+        # --adopt" (AGENTS.md). Orphan chưa có bằng chứng (publisher chạy dở
+        # trước khi QA) thì tiếp tục: không ai sửa gì.
+        if not changed:
+            return None, None
+        if holder is None:
+            if modified:
+                return ('%s: hang %s khong co lease song (orphan) ma draft da '
+                        'bi sua sau lan QA truoc — nhan bang `writer-session.py '
+                        'begin --ids %s --adopt` roi push lai' % (aid, status,
+                                                                    aid)), None
             return None, None
     hw, hl = holder
     if writer != hw:
@@ -459,16 +498,13 @@ def select(added, modified, backlog=False, changed=()):
         bad, warns = [], []
         for aid in queue:
             st = by_id[aid]['status']
-            changed_content = True
+            changed_content, edited = True, False
             fp = push_paths_of(aid, entries)
             if st != 'PLANNED':
-                ev = evidence_sha(aid)
-                changed_content = (ev is None or fp is None
-                                   or _sha256_file(os.path.join(ROOT, fp))
-                                   != ev)
+                changed_content, edited = content_state(aid, fp)
             prob, warn = ownership_problem(aid, st, declared.get(aid),
                                            declared_sess.get(aid), registry,
-                                           changed_content)
+                                           changed_content, edited)
             if prob:
                 bad.append(prob)
             if warn:
@@ -549,16 +585,15 @@ def select(added, modified, backlog=False, changed=()):
                                           'bao ve' % st})
                 continue
             _, writer, session = parse_draft(os.path.join(ROOT, paths[0]))
-            changed_content = True
+            changed_content, edited = True, False
             if st != 'PLANNED':
-                ev = evidence_sha(aid)
-                changed_content = (ev is None or _sha256_file(
-                    os.path.join(ROOT, paths[0])) != ev)
+                changed_content, edited = content_state(aid, paths[0])
                 if st == 'REPAIR' and not changed_content:
                     out['waiting_repair'].append(aid)
                     continue
             prob, warn = ownership_problem(aid, st, writer, session,
-                                           registry, changed_content)
+                                           registry, changed_content,
+                                           edited)
             if prob:
                 out['quarantine'].append({'id': aid, 'path': paths[0],
                                           'reason': prob})
@@ -580,27 +615,34 @@ def select(added, modified, backlog=False, changed=()):
 
     # deterministic matrix order (KHÔNG theo tên file, KHÔNG theo thứ tự push)
     queue = sorted(set(queue), key=lambda i: order[i])
-    if len(queue) > MAX_QUEUE_PER_RUN:
-        out['warnings'].append(
-            'queue %d > %d: chi xu ly %d dau (matrix order), phan du cho '
-            'run ke' % (len(queue), MAX_QUEUE_PER_RUN, MAX_QUEUE_PER_RUN))
-        queue = queue[:MAX_QUEUE_PER_RUN]
-    out['backlog'] = [i for i in out['backlog'] if i in set(queue)]
 
     if not control_enabled and any(by_id[i]['status'] == 'PLANNED'
                                    for i in queue):
         # production-control paused: KHÔNG claim bài mới. Bỏ ID PLANNED khỏi
         # queue nhưng vẫn xử lý hàng in-flight (repair/PASS) — một draft
-        # PLANNED trong backlog không được làm đói các hàng đã claim.
+        # PLANNED trong backlog không được làm đói các hàng đã claim. Làm
+        # TRƯỚC khi cắt trần, kẻo PLANNED chiếm hết suất rồi bị bỏ đi.
         skipped = [i for i in queue if by_id[i]['status'] == 'PLANNED']
         queue = [i for i in queue if by_id[i]['status'] != 'PLANNED']
-        out['backlog'] = [i for i in out['backlog'] if i in set(queue)]
         out['warnings'].append(
             'production-control paused: bo %d ID PLANNED (khong claim bai '
             'moi): %s' % (len(skipped), ','.join(skipped[:10])))
         if not queue:
+            out['backlog'] = []
             out['mode'] = 'paused'
             return out
+
+    if len(queue) > MAX_QUEUE_PER_RUN:
+        # cắt trần: hàng IN-FLIGHT trước (đúng thứ tự pair của
+        # factory-queue.py), rồi PLANNED; trong mỗi nhóm theo matrix order
+        keep = set(sorted(queue, key=lambda i: (by_id[i]['status'] == 'PLANNED',
+                                                order[i]))[:MAX_QUEUE_PER_RUN])
+        out['warnings'].append(
+            'queue %d > %d: chi xu ly %d (hang in-flight truoc, roi matrix '
+            'order), phan du cho run ke' % (len(queue), MAX_QUEUE_PER_RUN,
+                                            MAX_QUEUE_PER_RUN))
+        queue = [i for i in queue if i in keep]
+    out['backlog'] = [i for i in out['backlog'] if i in set(queue)]
 
     needs_claim = any(by_id[i]['status'] == 'PLANNED' for i in queue)
     mode = 'new' if needs_claim else 'repair'

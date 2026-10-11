@@ -325,15 +325,43 @@ class TestOwnership(DrainBase):
         _, out, _ = self.sel(modified=[rel], rc_expect=3)
         self.assertIn('lease dang thuoc writer W1', out['refuse'])
 
-    def test_13_orphan_repair_can_be_fixed_by_anyone(self):
+    def test_13_orphan_repair_edit_requires_adoption(self):
+        """AGENTS.md #11: nhận việc orphan chỉ qua --adopt. Draft REPAIR bị SỬA
+        khi KHÔNG có lease sống: push -> refuse; drain -> cách ly (không chặn
+        ai); sau khi một writer nhận (lease sống) thì đi tiếp."""
         a = 'BLG-00141'
         self.r.registry({})
         rel = self.r.draft(a, writer='W2', body='Ban sua.')
         self.r.set_status({a: 'REPAIR'})
         self.r.evidence(a, rel, same=False)
-        _, out, _ = self.sel(modified=[rel])
-        self.assertTrue(out['proceed'])
+        _, out, _ = self.sel(modified=[rel], rc_expect=3)
+        self.assertIn('--adopt', out['refuse'])
+        _, out, _ = self.sel(backlog=True)
+        self.assertFalse(out['proceed'])
+        self.assertTrue(any(q.get('id') == a and '--adopt' in q['reason']
+                            for q in out['quarantine']), out['quarantine'])
+        # W2 nhận (lease sống, đúng chủ): hợp lệ, KHÔNG claim lại (REPAIR)
+        self.r.registry({'W2': lease([a], session='s-w2')})
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], [a])
         self.assertEqual(out['mode'], 'repair')
+        # ...nhưng writer KHÁC vẫn không sửa được draft đang có chủ sống
+        rel = self.r.draft(a, writer='W3', body='Ban sua cua W3.')
+        _, out, _ = self.sel(modified=[rel], rc_expect=3)
+        self.assertIn('lease dang thuoc writer W2', out['refuse'])
+
+    def test_13b_orphan_rows_without_edit_keep_flowing(self):
+        """Hết hạn lease không giam hàng: orphan CHƯA bị sửa sau QA (PASS chờ
+        publish) hoặc chưa có bằng chứng (publisher chạy dở) vẫn được xử lý."""
+        p_ok, w_ok = 'BLG-00143', 'BLG-00144'
+        self.r.registry({})
+        rel_p = self.r.draft(p_ok, writer='W1')
+        self.r.set_status({p_ok: 'PASS', w_ok: 'WRITING'})
+        self.r.evidence(p_ok, rel_p, same=True)
+        self.r.draft(w_ok, writer='W1')              # không có bằng chứng
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(sorted(out['queue']), [p_ok, w_ok], out)
+        self.assertEqual(out['quarantine'], [])
 
     def test_14_unchanged_pass_draft_needs_no_owner_check(self):
         a = 'BLG-00151'
@@ -351,6 +379,64 @@ class TestOwnership(DrainBase):
         self.r.registry({'W1': lease([a])})
         _, out, _ = self.sel(added=[rel], rc_expect=3)
         self.assertIn('khong duoc sua lai', out['refuse'])
+
+
+class TestRegistryAndCap(DrainBase):
+    """Góp ý Codex vòng 2 (đã kiểm chứng): registry mơ hồ chủ sở hữu và cắt
+    trần backlog trước khi xếp hàng in-flight."""
+
+    def test_16_same_id_in_two_live_leases_fails_closed(self):
+        a = 'BLG-00171'
+        self.r.registry({'W1': lease([a]), 'W2': lease([a])})
+        rel = self.r.draft(a, writer='W1')
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims khong nhat quan', out['refuse'])
+        self.assertIn(a, out['refuse'])
+        self.assertFalse(out['proceed'])
+        # drain cũng KHÔNG chọn đại một chủ
+        _, out, _ = self.sel(backlog=True, rc_expect=3)
+        self.assertFalse(out['proceed'])
+        self.assertEqual(out['queue'], [])
+
+    def test_16b_expired_duplicate_is_not_a_conflict(self):
+        a = 'BLG-00172'
+        dead = lease([a])
+        dead['expires_at'] = '2000-01-01T00:00:00Z'
+        self.r.registry({'W1': dead, 'W2': lease([a])})
+        rel = self.r.draft(a, writer='W2')
+        _, out, _ = self.sel(added=[rel])
+        self.assertEqual(out['queue'], [a])
+
+    def _thirty_planned_plus_late_pass(self):
+        ids = ['BLG-%05d' % i for i in range(1, 31)]
+        self.r.registry({'W1': lease(ids[:10]), 'W2': lease(ids[10:20]),
+                         'W3': lease(ids[20:30])})
+        for a in ids:
+            w = 'W1' if a in ids[:10] else 'W2' if a in ids[10:20] else 'W3'
+            self.r.draft(a, writer=w)
+        late = 'BLG-00150'                 # PASS đang chờ publish, matrix muộn
+        rel = self.r.draft(late, writer='W1')
+        self.r.set_status({late: 'PASS'})
+        self.r.evidence(late, rel, same=True)
+        return ids, late
+
+    def test_17_cap_keeps_inflight_rows_before_planned(self):
+        ids, late = self._thirty_planned_plus_late_pass()
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(len(out['queue']), 30)
+        self.assertIn(late, out['queue'])
+        self.assertNotIn(ids[-1], out['queue'], 'PLANNED cuoi nhuong cho run ke')
+        self.assertEqual(out['queue'], sorted(out['queue']),
+                         'dau ra van theo matrix order')
+
+    def test_18_paused_with_full_planned_backlog_still_selects_inflight(self):
+        ids, late = self._thirty_planned_plus_late_pass()
+        self.r.write_json('data/factory/production-control.json',
+                          {'enabled': False, 'chunk_size': 2})
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], [late])
+        self.assertEqual(out['mode'], 'repair')
+        self.assertTrue(out['proceed'])
 
 
 class TestIdempotentRerun(DrainBase):

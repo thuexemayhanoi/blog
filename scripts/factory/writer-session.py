@@ -386,8 +386,10 @@ def refuse_out(e):
 # ------------------------------------------------------------------ lệnh
 
 def pick_slot(reg, rows, want, now, sess):
-    """auto -> slot đang là của PHIÊN này, nếu không thì slot trống đầu tiên
-    (slot hết hạn coi như trống). Mỗi phiên chỉ giữ MỘT slot: đòi slot khác
+    """auto -> slot đang là của PHIÊN này; nếu lease của chính phiên này vừa
+    hết hạn mà chưa ai nhận thì chính slot đó (nối lại ID/REPAIR); nếu không
+    thì slot trống đầu tiên (slot hết hạn coi như trống). Mỗi phiên chỉ giữ
+    MỘT slot: đòi slot khác
     khi đang giữ slot -> SESSION_HOLDS_OTHER_SLOT. Lease legacy (không
     session) KHÔNG được auto nhận — chỉ `--slot Wn` tường minh mới adopt."""
     work = json.loads(json.dumps(reg))
@@ -408,6 +410,14 @@ def pick_slot(reg, rows, want, now, sess):
         return want
     if mine:
         return mine[0]
+    # lease CỦA CHÍNH phiên này vừa hết hạn mà chưa ai nhận slot: quay lại ĐÚNG
+    # slot đó (registry CHƯA prune) để apply_claim nối lại ID + hàng REPAIR
+    # của mình (resume-first). Chọn "slot trống đầu tiên" sẽ bỏ rơi chúng
+    # thành orphan và cấp ID mới.
+    for s in WC.SLOTS:
+        if sess and (reg['leases'].get(s) or {}).get('session') == sess \
+                and s not in work['leases']:
+            return s
     for s in WC.SLOTS:
         if s not in work['leases']:
             return s

@@ -362,6 +362,20 @@ def _live_leases(reg, now=None):
     return out
 
 
+def live_conflicts(reg, now=None):
+    """{article_id: [slot, ...]} cho ID bị GIỮ BỞI >= 2 lease còn sống. Registry
+    như vậy mơ hồ về chủ sở hữu (merge git thô của hai writer): người gọi
+    phải fail-closed, KHÔNG được chọn đại một slot."""
+    now = now if now is not None else time.time()
+    held = {}
+    for w, l in reg['leases'].items():
+        if not isinstance(l, dict) or _epoch_of(l.get('expires_at', '')) < now:
+            continue
+        for a in l.get('ids', []):
+            held.setdefault(a, []).append(w)
+    return {a: sorted(ws) for a, ws in held.items() if len(ws) > 1}
+
+
 def _planned_ids(rows):
     """ID các hàng PLANNED, deterministic theo THỨ TỰ MATRIX."""
     return [r['id'] for r in rows if r['status'] == PLANNED]

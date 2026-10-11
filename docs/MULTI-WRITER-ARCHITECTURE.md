@@ -24,7 +24,7 @@ W3 ─┘        │       push-selection.py --backlog  (strict cho push, lenien
 | REPAIR | MỘT hàng REPAIR của writer chết ⇒ `prepare-next` bail ⇒ mọi push FATAL (deadlock) | REPAIR chờ chủ; không chặn ai; resume-first là **per-writer** (ở bước claim) |
 | Pair hỗn hợp | `[PASS, REPAIR]` ⇒ cả pair recoverable, PASS kẹt | chỉ publish phần PASS; pair đồng nhất (in-flight trước) |
 | Push publisher | `git rebase` ghép ÂM THẦM sửa đổi draft của writer vào bài vừa publish (đi vòng QA) | `publisher-push.py`: guard giao-path + sha256(bài) == `content_sha256` |
-| Sở hữu draft | REPAIR không cần lease ⇒ writer khác sửa được | lease sống của writer khác ⇒ refuse; orphan (hết hạn) ⇒ ai nhận (`--adopt`) cũng được |
+| Sở hữu draft | REPAIR không cần lease ⇒ writer khác sửa được | lease sống của writer khác ⇒ refuse; orphan (hết hạn) mà draft bị SỬA sau lần QA ⇒ phải nhận (`--adopt`) trước (refuse ở push, cách ly ở drain); ai nhận cũng được |
 | Queue/run | 10 ID | 30 ID (3×10), pair vẫn 2 |
 
 QA KHÔNG đổi: `quality ≥ 75`, `seo ≥ 70`, business_fact PASS, legal PASS/NOT_REQUIRED, không critical, hard gate trùng title/slug/intent, evidence `content_sha256` + `matrix_row_sha256`, publish-gate.
@@ -50,6 +50,10 @@ HELD ──release --all──► FREE            HELD ──hết hạn──�
 | Một slot — một phiên; một phiên — một slot | session id + `SLOT_HELD/NOT_OWNER/SESSION_HOLDS_OTHER_SLOT`, `check_invariants` | `test_writer_session` T03, T22, T26, T51 |
 | Registry đọc lỗi không bị coi là rỗng | `Git.read` (ls-tree) ⇒ `GIT_READ_FAILED`; parse strict timestamp/ID | `test_writer_session` T50, T65 |
 | Draft "độc" không làm kẹt run | `push-selection.py` `engine_problem` (UTF-8, `date`/title/categories/description, placeholder, tên file, MỘT file/ID) | `test_selector_drain` T40–T48, sim S12 |
+| Registry mơ hồ chủ (một ID ở ≥ 2 lease sống) ⇒ fail-closed | `push-selection.py` `claim_registry` (`writer-claim.py live_conflicts`) | `test_selector_drain` T16, T16b |
+| Hàng in-flight không bị đói khi backlog > 30 hoặc production paused | selector cắt trần SAU lọc paused, in-flight trước PLANNED | `test_selector_drain` T17, T18 |
+| Orphan bị sửa phải được nhận trước | `ownership_problem` (`modified` so với bằng chứng QA) | `test_selector_drain` T13, T13b |
+| Phiên quay lại slot của chính mình sau khi hết hạn | `writer-session.py pick_slot` (nối lại ID + REPAIR) | `test_writer_session` T55, T71 |
 | Push hỏng không làm mất draft người khác | selector VẪN drain backlog khi push bị REFUSE; run đỏ ở step cuối | `test_selector_drain` T49–T50, sim S13 |
 | Không mất bài khi run bị hủy | `push-selection.py --backlog` | `test_selector_drain` T01–T02, `test_multiwriter_sim` S1, S4 |
 | Không deadlock vì REPAIR | `factory-operator.py prepare-next --ids` không chặn bởi hàng dở của writer khác | `test_factory_queue` 15b, `test_multiwriter_sim` S2 |

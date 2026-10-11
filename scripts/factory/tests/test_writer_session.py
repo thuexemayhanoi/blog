@@ -876,6 +876,27 @@ class TestCodexFindings(SessionBase):
                          self.sim.origin_head())
 
 
+class TestCodexRound2(SessionBase):
+    """Codex vòng 2 trên PR #7 (đã kiểm chứng là lỗi thật)."""
+
+    def test_71_auto_slot_returns_to_own_expired_slot_not_first_free(self):
+        """Lease của chính phiên (slot W2) hết hạn trong lúc W1 trống: `auto`
+        phải quay lại W2 (nối lại ID + REPAIR), không nhảy sang W1."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W2', '--count', '4')
+        rep = a['leased_total'][:2]
+        self.sim.set_status({i: 'REPAIR' for i in rep})
+        self.sim.edit_registry(lambda reg: reg['leases']['W2'].update(
+            expires_at='2000-01-01T00:00:00Z'))
+        b = self.begin('a', '--slot', 'auto')
+        self.assertEqual(b['slot'], 'W2', b)
+        self.assertEqual(b['session'], a['session'])
+        self.assertEqual(sorted(b['resumed_after_lapse']),
+                         sorted(a['leased_total']))
+        self.assertTrue(set(rep) <= set(b['leased_total']))
+        self.assertEqual(sorted(self.sim.origin_registry()['leases']), ['W2'])
+
+
 class TestConfirmEdges(SessionBase):
 
     def test_66_confirm_blocked_is_terminal_not_a_timeout(self):
