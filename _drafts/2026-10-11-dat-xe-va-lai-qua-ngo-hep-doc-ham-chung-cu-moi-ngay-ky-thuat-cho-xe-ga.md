@@ -45,7 +45,7 @@ Nhớ rằng mắt bạn cần vài giây điều chỉnh khi từ hầm tối r
 
 Chỗ đỗ tốt trong hầm là vị trí ngang cột bê tông, nơi bạn có điểm tựa đẩy xe lùi và có vạch rõ ràng của ô xe. Chỗ gần cống ngầm hoặc mép dãy ẩm thường có rêu, nên chọn ô giữa vành khơi ráo. Tránh ô sát tường cong ở cuối dãy, vì quẹt gương lúc ra vào là chuyện thường ngày ở các ô này.
 
-Trước khi để xe qua đêm, thử đẩy xe tới lui trong ô để chắc chắn khoảng hai đầu đủ cho xe sau mở cốp. Nhớ vị trí ô của bạn bằng cách chụp một tấm ảnh dòng số hoặc cột gần nhất; tìm xe giữa tầng hầm相似... hãy chụp một tấm ảnh cột gần nhất. Việc này nghe thừa, nhưng vào tối thứ hai khi cả tầng đã kín đặc, tấm ảnh là thứ giúp bạn không phải đi dạo quanh hầm mười lăm phút.
+Trước khi để xe qua đêm, thử đẩy xe tới lui trong ô để chắc chắn khoảng hai đầu đủ cho xe sau mở cốp. Nhớ vị trí ô của bạn bằng cách chụp một tấm ảnh cột hoặc số ô gần nhất ngay lúc đỗ xong. Việc này nghe thừa, nhưng vào tối thứ hai khi cả tầng đã kín đặc, tấm ảnh là thứ giúp bạn không phải đi dạo quanh hầm mười lăm phút.
 
 ## Khúc cua gắt và cửa chắn hầm
 
