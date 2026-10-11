@@ -6,8 +6,11 @@ Phase 3 (migration multi-writer từ /vanchinh): khối consume inline
 của factory-publish.yml được thay bằng script canonical. Bộ test chặt:
 
   14. queue 10 -> 5 pair (pair cuối queue lẻ được 1 ID);
-  15. pair FAIL content KHÔNG rollback pair đã publish; pair PLANNED
-      sau bị DEFERRED (engine resume-first); rc 0 (recoverable);
+  15. pair FAIL content KHÔNG rollback pair đã publish và KHÔNG chặn
+      pair sau / writer khác (v2: resume-first là PER-WRITER, thực thi ở
+      bước claim; trước đây một hàng REPAIR deadlock cả nhà máy); rc 0
+      (recoverable); 15b-15d: REPAIR của writer khác không chặn, pair
+      hỗn hợp chỉ publish phần PASS, hàng in-flight chạy trước PLANNED;
   16. transaction active TRƯỚC run -> refuse fail-closed (KHÔNG đổi gì);
   17. queue-level run-lock đã giữ -> refuse fail-closed;
   18. hot path KHÔNG full-site audit (static: mọi op --scope fast,
@@ -136,6 +139,13 @@ class PairingUnitTest(unittest.TestCase):
         for p in pairs:
             self.assertEqual(len(p), 2)
         self.assertEqual([i for pair in pairs for i in pair], q)
+
+    def test_01b_ordered_pairs_inflight_first_homogeneous(self):
+        m = load_queue_module(ROOT)
+        st = {'A': 'PLANNED', 'B': 'PASS', 'C': 'PLANNED', 'D': 'REPAIR',
+              'E': 'PLANNED'}
+        pairs = m.ordered_pairs(['A', 'B', 'C', 'D', 'E'], st, 2)
+        self.assertEqual(pairs, [['B', 'D'], ['A', 'C'], ['E']])
 
     def test_02_odd_queue_last_pair_single(self):
         m = load_queue_module(ROOT)
@@ -266,21 +276,32 @@ class QueueRefuseTest(FxTestCase):
         self.assertIn(rows[1]['id'], out['stdout'])
         self._assert_untouched()
 
-    def test_14_over_ten_ids_refused(self):
-        borrow_with_drafts(self.fx, 11)
-        rows = planned_rows(self.fx)[:11]
+    def test_14_over_max_queue_ids_refused(self):
+        # v2: một run drain tối đa 30 ID (3 writer x lease 10)
+        borrow_with_drafts(self.fx, 31)
+        rows = planned_rows(self.fx)[:31]
         out = queue_run(self.fx,
                         ','.join(r['id'] for r in rows), rc_expect=1)
-        self.assertIn('> toi da 10', out['stdout'])
+        self.assertIn('> toi da 30', out['stdout'])
         self._assert_untouched()
 
 
 class QueueConsumeTest(FxTestCase):
     """Item 15: chạy queue THẬT trên fixture (engine canonical)."""
 
-    def test_15_pair_fail_keeps_published_pairs_and_defers_rest(self):
+    def _starve(self, row):
+        p = os.path.join(self.fx, draft_rel(row))
+        with open(p, encoding='utf-8') as f:
+            text = f.read()
+        fm_end = text.index('\n---\n') + len('\n---\n')
+        body = text[fm_end:].split('\n\n')[0]
+        with open(p, 'w', encoding='utf-8') as f:
+            f.write(text[:fm_end] + body)
+
+    def test_15_pair_fail_keeps_published_pairs_and_continues(self):
         # 6 hàng PLANNED = 3 pair: pair1 đạt gate; pair2 QA FAIL ->
-        # REPAIR (recoverable); pair3 DEFERRED (engine resume-first).
+        # REPAIR (recoverable); pair3 VẪN chạy và publish (v2: REPAIR chờ
+        # chủ sửa, không chặn pair sau).
         rows = borrow_with_drafts(self.fx, 6,
                                   starve_ids=())
         p1, p2, p3 = ([rows[0]['id'], rows[1]['id']],
@@ -288,40 +309,33 @@ class QueueConsumeTest(FxTestCase):
                       [rows[4]['id'], rows[5]['id']])
         # cắt ngắn draft của pair2 SAU khi đã tạo đủ draft cho cả queue
         for r in rows[2:4]:
-            p = os.path.join(self.fx, draft_rel(r))
-            with open(p, encoding='utf-8') as f:
-                text = f.read()
-            fm_end = text.index('\n---\n') + len('\n---\n')
-            body = text[fm_end:].split('\n\n')[0]
-            with open(p, 'w', encoding='utf-8') as f:
-                f.write(text[:fm_end] + body)
+            self._starve(r)
         ids = ','.join(r['id'] for r in rows)
         out = queue_run(self.fx, ids, mode='new', rc_expect=0)
         rep = out['report']
-        self.assertEqual(rep['published'], p1,
-                         'pair1 PHẢI publish và KHÔNG bị rollback')
+        self.assertEqual(rep['published'], p1 + p3,
+                         'pair1 + pair3 PHẢI publish, pair1 KHÔNG rollback')
         self.assertEqual(rep['recoverable'], p2)
-        self.assertEqual(rep['deferred'], p3)
+        self.assertEqual(rep['deferred'], [])
         self.assertEqual(rep['pairs'],
                          [{'pair_index': 1, 'ids': p1,
                            'status': 'published'},
                           {'pair_index': 2, 'ids': p2,
                            'status': 'recoverable'},
                           {'pair_index': 3, 'ids': p3,
-                           'status': 'deferred'}])
+                           'status': 'published'}])
         self.assertEqual(rep['queue'], [r['id'] for r in rows])
         self.assertEqual(rep['pair_size'], 2)
         self.assertIsNotNone(rep['finished'])
         # summary interface của workflow
-        self.assertEqual(out['summary']['published'], p1)
+        self.assertEqual(out['summary']['published'], p1 + p3)
         self.assertEqual(out['summary']['recoverable'], p2)
-        self.assertEqual(out['summary']['deferred'], p3)
+        self.assertEqual(out['summary']['deferred'], [])
         self.assertIsNone(out['summary']['fatal'])
-        # matrix truth: pair1 PUBLISHED, pair2 REPAIR, pair3 PLANNED
+        # matrix truth: pair1+3 PUBLISHED, pair2 REPAIR
         st = {r['id']: r['status'] for r in matrix_rows(self.fx)}
-        self.assertEqual({st[i] for i in p1}, {'PUBLISHED'})
+        self.assertEqual({st[i] for i in p1 + p3}, {'PUBLISHED'})
         self.assertEqual({st[i] for i in p2}, {'REPAIR'})
-        self.assertEqual({st[i] for i in p3}, {'PLANNED'})
         # bài thật đã lên _posts cho pair1
         by_id = {r['id']: r for r in matrix_rows(self.fx)}
         for aid in p1:
@@ -337,6 +351,62 @@ class QueueConsumeTest(FxTestCase):
                                           'data/state/transaction.json'),
                              encoding='utf-8'))
         self.assertFalse(txn.get('active'))
+
+
+    def test_15b_other_writer_repair_row_does_not_block_new_pairs(self):
+        """P0-1 (audit): MỘT hàng REPAIR của writer đã chết làm
+        `prepare-next --ids` bail 'còn 1 hàng chưa xong' -> mọi queue khác
+        FATAL. v2: queue của writer khác vẫn publish bình thường."""
+        rows = borrow_with_drafts(self.fx, 3)
+        dead = rows[2]
+        allrows = matrix_rows(self.fx)
+        for r in allrows:
+            if r['id'] == dead['id']:
+                r['status'] = 'REPAIR'
+        save_matrix(self.fx, allrows)
+        rc = self.operator('repair-checkpoint')
+        self.assertEqual(rc.returncode, 0, rc.stdout + rc.stderr)
+        mine = [rows[0]['id'], rows[1]['id']]
+        out = queue_run(self.fx, ','.join(mine), mode='new', rc_expect=0)
+        self.assertEqual(out['report']['published'], mine)
+        self.assertIsNone(out['report']['fatal'])
+        st = {r['id']: r['status'] for r in matrix_rows(self.fx)}
+        self.assertEqual(st[dead['id']], 'REPAIR',
+                         'hang REPAIR cua writer khac khong bi dung')
+
+    def test_15c_partial_pair_publishes_only_pass_subset(self):
+        """Pair [đạt, hỏng]: hàng đạt PUBLISH, hàng hỏng REPAIR — hàng PASS
+        không bị kéo xuống (trước đây op publish bail cả pair)."""
+        rows = borrow_with_drafts(self.fx, 2)
+        self._starve(rows[1])
+        ids = [r['id'] for r in rows]
+        out = queue_run(self.fx, ','.join(ids), mode='new', rc_expect=0)
+        rep = out['report']
+        self.assertEqual(rep['published'], [ids[0]])
+        self.assertEqual(rep['recoverable'], [ids[1]])
+        self.assertEqual(rep['pairs'][0]['status'], 'partial')
+        st = {r['id']: r['status'] for r in matrix_rows(self.fx)}
+        self.assertEqual(st[ids[0]], 'PUBLISHED')
+        self.assertEqual(st[ids[1]], 'REPAIR')
+
+    def test_15d_inflight_pass_row_runs_before_planned_pairs(self):
+        """Hàng PASS (QA xong, chưa publish) đi pair RIÊNG trước các hàng
+        PLANNED; không trộn hàng cần claim với hàng đã claim."""
+        rows = borrow_with_drafts(self.fx, 3)
+        a = rows[0]['id']
+        r1 = self.operator('prepare-next', '--ids', a, '--scope', 'fast')
+        self.assertEqual(r1.returncode, 0, r1.stdout + r1.stderr)
+        r2 = self.operator('qa', '--ids', a, '--scope', 'fast')
+        self.assertEqual(r2.returncode, 0, r2.stdout + r2.stderr)
+        st = {r['id']: r['status'] for r in matrix_rows(self.fx)}
+        self.assertEqual(st[a], 'PASS')
+        ids = [r['id'] for r in rows]
+        out = queue_run(self.fx, ','.join(ids), mode='new', rc_expect=0)
+        rep = out['report']
+        self.assertEqual(rep['pairs'][0]['ids'], [a])
+        self.assertEqual(rep['pairs'][1]['ids'], ids[1:])
+        self.assertEqual(sorted(rep['published']), sorted(ids))
+        self.assertEqual(rep['recoverable'], [])
 
 
 if __name__ == '__main__':
