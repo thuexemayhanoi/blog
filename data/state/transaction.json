@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T06:05:26+00:00",
+  "updated_at": "2026-10-11T06:05:44+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02049",
-      "started_at": "2026-10-11T05:22:56+00:00",
-      "source": "_drafts/2026-10-11-tra-xe-may-thue-duoi-mua-to-che-ay-va-ghi-hinh.md",
-      "destination": "_posts/2026-10-11-tra-xe-may-thue-duoi-mua-to-che-ay-va-ghi-hinh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e40daf5479fa4d8230933fa132560b299601a0a2",
-      "finished_at": "2026-10-11T05:22:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02050",
       "started_at": "2026-10-11T05:22:56+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "3b8025d1ed0462ff82a4d2c8c2429c72c797fa88",
       "finished_at": "2026-10-11T06:05:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02073",
+      "started_at": "2026-10-11T06:05:44+00:00",
+      "source": "_drafts/2026-10-11-chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai.md",
+      "destination": "_posts/2026-10-11-chuyen-lan-an-toan-khi-i-xe-may-guong-xi-nhan-vai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "1d46342c876f00f9750b560f2984eb0df3b8dc83",
+      "finished_at": "2026-10-11T06:05:44+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
