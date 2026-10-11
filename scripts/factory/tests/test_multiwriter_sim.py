@@ -31,8 +31,9 @@ claim/push/lease/409-422-503 nằm ở test_writer_session.py:
   S9  checkpoint lệch -> fail-closed -> repair-checkpoint -> phục hồi
   S10 draft với lease hết hạn bị cách ly; writer mới reclaim + publish
 
-Heavy (~10 phút): KHÔNG nằm trong CI; chạy tay/`FACTORY_SIM_FULL=1` thêm
-kịch bản 3x10.   Chạy: python3 scripts/factory/tests/test_multiwriter_sim.py
+S1..S10 (~6 phút, 3 CPU) nằm trong CI (job engine-tests, chỉ ở FULL mode);
+`FACTORY_SIM_FULL=1` thêm kịch bản S11 (3 writer x 10 ID = 30 ID, ~3 phút).
+Chạy: python3 scripts/factory/tests/test_multiwriter_sim.py
 """
 import hashlib
 import json

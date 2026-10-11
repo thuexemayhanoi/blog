@@ -87,3 +87,32 @@ Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
 - Container bị tạo lại mà AI không giữ token phiên (`FACTORY_WRITER_SESSION`/`--session`): lease cũ vẫn là của phiên cũ cho đến `expires_at` (12h với `begin`, 48h với claim cũ) — hệ thống KHÔNG chiếm lease còn hạn. Writer chạy lặp (routine) nên đặt token cố định.
 - Run chờ bị hủy bởi run KHÁC workflow chỉ được kích lại bởi push kế tiếp hoặc `confirm --nudge`.
 - Dữ liệu cũ (ngoài phạm vi): 1069 bằng chứng QA của bài đã publish lệch hash sau đợt migrate domain (`validate.py --scope batch|full` đỏ; `chunk` xanh) (hàng BLG-02021 có `internal_links` sai đã được sửa bằng PR #6 — một ô dữ liệu, không đổi vân tay QA). Việc re-attest 1069 bằng chứng cần chủ xe duyệt (xem báo cáo audit).
+
+## 8. Audit đã sửa (P0–P3) và bằng chứng kiểm thử
+
+| # | Lỗi thật (đã repro offline) | Sửa ở | Chặn hồi quy bằng |
+|---|---|---|---|
+| P0-1 | một hàng REPAIR/WRITING/QA/PASS **bất kỳ** làm `prepare-next` bail ⇒ MỌI run đỏ, cả nhà máy đứng | `factory-operator.py` (`prepare-next --ids`), `factory-queue.py` (pair đồng nhất, chỉ publish tập PASS), resume-first PER-WRITER ở `writer-session.py begin` | sim S2, `test_factory_queue`, `test_writer_session` T27 |
+| P0-2 | run chờ bị hủy (kể cả bởi workflow refill) ⇒ draft nằm mãi trong `_drafts/` | `push-selection.py --backlog` (drain ≤30 ID/run), nudge `_drafts/.nudge-<slot>` | sim S1, S4, S7, `test_selector_drain`, `test_writer_session` T42 |
+| P0-3 | `git rebase` của publisher mang sửa đổi của writer qua rename `_drafts→_posts` ⇒ nội dung ≠ nội dung đã QA | `publisher-push.py` (guard giao path, sha256 trước/sau rebase, ≤3 rebase) | sim S6, `test_publisher_push` |
+| P1 | slot chỉ là tên; registry hỏng = rỗng; `mktime` lệch ±7h; REPAIR mất chủ; cap đá lease cũ nhất; không có CAS client; push không giới hạn path | `writer-claim.py` v2, `writer-session.py`, `validate.py` (check registry) | `test_writer_claim`, `test_writer_session` T01–T36 |
+| P2 | `writer-loop qa` thiếu whitelist số tiền; `txn_append(None)`; test không chạy trong CI; tên nhà cung cấp trong workflow/docs | `writer-loop.py`, `publish-gate.py`, job `engine-tests`, docs trung lập | `test_writer_loop`, `test_hardening` |
+| P3 | `__pycache__` không ignore; BLG-02021 sai route trong matrix (PR #6, một ô, không đổi vân tay QA) | `.gitignore`, `data/content-matrix.csv` | `check-built-links.py` (FULL gate) |
+
+Kịch bản bắt buộc → test (toàn bộ offline, origin bare cục bộ, `receive.denyNonFastForwards=true` ⇒ force push làm test hỏng):
+
+| Kịch bản | Test |
+|---|---|
+| nhiều writer claim đồng thời | `test_writer_session` T01, T04, T05 |
+| 3 writer push gần như cùng lúc | T10, sim S1, S11 (3x10 ID) |
+| 2 writer cùng một ID | T02, T15 |
+| 2 phiên cùng một slot | T03, T26, T35, T36 |
+| hết quota giữa batch / mất kết nối giữ lease | T20, T21, sim S3 |
+| lease hết hạn / reclaim / không chiếm lease sống | T21, T22, T23, sim S10 |
+| push bị HTTP 409/422/503 | T11, T12, T13 (hook pre-receive chèn lỗi) |
+| QA FAIL → REPAIR (không chặn người khác) | sim S2, T27, T41 |
+| publisher restart / retry / lock mồ côi | sim S7, S8 |
+| Factory Refill chạy giữa lúc publish | sim S4 |
+| push lặp / checkpoint cũ | T14, sim S7, S9 |
+| Actions bị hủy / lỗi | sim S1, S7, S8 |
+| sửa bài đã PUBLISHED | sim S5, S6 |
