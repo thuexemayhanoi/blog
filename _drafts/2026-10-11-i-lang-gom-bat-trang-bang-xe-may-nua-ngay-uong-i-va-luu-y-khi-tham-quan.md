@@ -3,7 +3,7 @@ title: "Đi làng gốm Bát Tràng bằng xe máy nửa ngày: đường đi v�
 date: 2026-10-11 09:00:00 +0700
 layout: post
 author: "Nguyễn Tú"
-description: "Đi Bát Tràng bằng xe máy nửa ngày từ Hà Nội: lộ trình qua cầu Chương Dương, giữ làn đường đông xe tải, gửi xe và dạo làng gốm đúng cách."
+description: "Đi Bát Tràng bằng xe máy nửa ngày từ Hà Nội: lộ trình qua cầu Chương Dương và Trâu Quỳ, giữ làn đường đông xe tải, gửi xe rồi dạo làng gốm đúng cách."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [đi bát tràng bằng xe máy, làng gốm bát tràng nửa ngày, đường đi bát tràng từ hà nội]
@@ -40,7 +40,9 @@ Cách đi dạo như người bản địa đã được kể trong bài về [l
 
 Xuất phát tám giờ sáng là khung đẹp nhất: đường còn vắng, nắng chưa gắt, và bạn tới làng lúc các xưởng vừa mở cửa. Khoảng chín giờ tới mười một giờ là thời gian dạo chợ, xem lò và nặn gốm; mười một giờ rưỡi ăn nhẹ ở quán ven làng rồi chạy về, kịp về phố cổ trước một giờ chiều. Chiều đi cũng được, nhưng nhớ tính giờ về trước khi trời tối và đường qua cầu đông giờ tan sở.
 
-Đồ mang theo nên gọn: nước lọc, mũ hoặc khăn che nắng, một túi vải gấp gọn để đựng gốm mua về. Mùa hè nắng gắt giữa trưa, nên kem chống nắng và kính râm là hai thứ đáng có. Điện thoại đầy pin để chụp lò gốm và quay lại vị trí bãi xe, vì các ngõ trong làng dễ khiến người mới lạc phương hướng.
+Nếu muốn tránh nắng trưa hoàn toàn, đi sớm hơn một chút nữa: bảy rưỡi xuất phát, tám rưỡi tới làng, xong phần dạo chợ trước mười giờ. Phần nặn gốm để sau, trong bóng râm của xưởng, vừa đỡ nắng vừa đúng lúc các nghệ nhân bắt đầu phiến đất. Khung lịch này để dành nửa buổi chiều cho một địa điểm khác trong thành phố.
+
+Đồ mang theo nên gọn: nước lọc, mũ hoặc khăn che nắng, một túi vải gấp gọn để đựng gốm mua về. Mùa hè nắng gắt giữa trưa, nên kem chống nắng và kính râm là hai thứ đáng có. Điện thoại đầy pin để chụp lò gốm và đánh dấu vị trí bãi xe, vì các ngõ trong làng dễ khiến người mới lạc phương hướng.
 
 ## Mua sắm và chở hàng về bằng xe máy
 
