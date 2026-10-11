@@ -1,26 +1,26 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-11T21:13:35Z",
+  "updated_at": "2026-10-11T21:17:45Z",
   "leases": {
     "W1": {
       "ids": [
-        "BLG-02433",
-        "BLG-02434",
-        "BLG-02435",
-        "BLG-02436",
-        "BLG-02437",
-        "BLG-02438",
-        "BLG-02439",
-        "BLG-02440",
-        "BLG-02441",
-        "BLG-02442"
+        "BLG-02443",
+        "BLG-02444",
+        "BLG-02445",
+        "BLG-02446",
+        "BLG-02447",
+        "BLG-02448",
+        "BLG-02449",
+        "BLG-02450",
+        "BLG-02451",
+        "BLG-02452"
       ],
       "session": "s-mistral-w1",
       "epoch": 1,
-      "claimed_at": "2026-10-11T20:57:24Z",
-      "heartbeat_at": "2026-10-11T21:13:35Z",
+      "claimed_at": "2026-10-11T21:17:45Z",
+      "heartbeat_at": "2026-10-11T21:17:45Z",
       "ttl_hours": 48,
-      "expires_at": "2026-10-13T20:57:24Z",
+      "expires_at": "2026-10-13T21:17:45Z",
       "label": "mistral-vibe"
     },
     "W2": {
