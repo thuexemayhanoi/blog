@@ -17,7 +17,7 @@ git fetch origin main && git checkout main && git pull --ff-only origin main
 python3 scripts/factory/writer-session.py begin --slot auto --label <ten-ai>     # nhận slot + ≤10 ID
 python3 scripts/factory/writer-session.py status                                  # slot, ai giữ, hạn, việc kế tiếp
 ```
-`begin` là CAS (fetch → tính lại claim trên truth mới nhất → push; bị từ chối thì làm lại, không bao giờ force push). Gọi lại = gia hạn + nối việc dở. Mặc định TTL 12h (`--ttl-hours` 0.25..48). Lỗi: `SLOT_HELD` (slot đang của phiên khác), `NO_FREE_SLOT`, `REGISTRY_CORRUPT` (xem `docs/RECOVERY.md`). Còn REPAIR của bạn → `begin` chỉ nối việc (sửa REPAIR trước, `--allow-new-with-repair` để ép nhận thêm).
+`begin` là CAS (fetch → tính lại claim trên truth mới nhất → push; bị từ chối thì làm lại, không bao giờ force push). Gọi lại = nối việc dở + bù đủ N ID (`--count N` là TỔNG số ID muốn giữ; chỉ gia hạn: `heartbeat`). Lease mới TTL 12h (`--ttl-hours` 0.25..48; gia hạn giữ TTL cũ). Mỗi phiên một slot. Lỗi: `SLOT_HELD` (slot đang của phiên khác), `NO_FREE_SLOT`, `REGISTRY_CORRUPT` (xem `docs/RECOVERY.md`). Còn REPAIR của bạn → `begin` chỉ nối việc (sửa REPAIR trước, `--allow-new-with-repair` để ép nhận thêm).
 
 Đối chiếu `data/state/checkpoint.json`, `reports/factory/progress.json`, `data/state/transaction.json`, `reports/factory/factory-queue-last-run.json`. Nếu transaction/maintenance lock đang tồn tại, xử lý theo `docs/RECOVERY.md` **trước**. Công cụ cũ vẫn chạy (`writer-claim.py claim --writer Wn --ids …`, `writer-loop.py`) nhưng KHÔNG tự viết git để đẩy registry.
 

@@ -48,8 +48,12 @@ main (paths `_drafts/**`):
    EXACT ID theo `article_id` của các file draft ADDED/MODIFIED trong
    push. REFUSE (fail-closed): >10 draft/push (turbo queue), ID trùng
    trong cùng push, thiếu `article_id`, ID không có trong matrix, ID đã
-   EXISTING/BLOCKED (KHÔNG BAO GIỜ ghi đè; hàng PUBLISHED bị push trùng sau race → bỏ qua sạch published_edits exit 0, KHÔNG refuse). Production-control
-   `enabled=false` + push cần claim → exit sạch TRƯỚC khi claim. Mode:
+   EXISTING/BLOCKED/REVIEW (KHÔNG BAO GIỜ ghi đè; hàng PUBLISHED bị push trùng sau race → bỏ qua sạch published_edits exit 0, KHÔNG refuse),
+   và draft "độc" không đi được qua engine (preflight engine-ready: không phải UTF-8, thiếu `date`/`title`/`categories`/`description`
+   trong frontmatter, còn placeholder, `date:` sai dạng hoặc lệch tiền tố tên file, tên file khác `YYYY-MM-DD-<slug hàng>.md`, hai file
+   cho một hàng). Push bị REFUSE vẫn DRAIN backlog hợp lệ của writer khác (run chờ của họ có thể đã bị run này thay) rồi mới làm ĐỎ run
+   ở step cuối (`refused=true`); backlog rỗng thì đỏ ngay. Production-control
+   `enabled=false` → bỏ ID PLANNED khỏi queue (không claim bài mới) nhưng vẫn xử lý hàng in-flight (repair/PASS). Mode:
    `new` (có hàng PLANNED cần claim) hoặc `repair` (chỉ QA/publish ID
    sửa, KHÔNG claim lại từ đầu).
 2. Guard FAIL-CLOSED: còn `data/state/writer-lock.active` hoặc
@@ -70,12 +74,15 @@ main (paths `_drafts/**`):
    full/soak/hardening trong hot loop — đó là của factory-publish-verify
    / factory-soak).
 7. Refill KHÔNG chạy trong đường nóng: khi pool claimable cạn, writer/
-   coordinator chạy op bảo trì LOCAL `factory-operator.py refill`,
-   CHỜ refill success, FETCH MAIN, rồi mới push cặp bài kế tiếp.
-8. Commit MỘT lần (`[automated txn]`) + push fast-forward; non-FF →
-   fetch + rebase, bounded retry tối đa 3 lần thử push; rebase conflict
-   → abort ngay, KHÔNG force push. Cuối run assert: không lock, không
-   txn active.
+   coordinator push batch chủ đề thật (`data/factory/refill-batches/`) +
+   bump `data/factory/refill-request.json`; `factory-refill.yml` (CÙNG
+   concurrency group với publisher) stage + materialize. CHỜ refill
+   success, FETCH MAIN, rồi mới push bài kế tiếp.
+8. Commit MỘT lần (`[automated txn]`) qua `publisher-push.py` + push
+   fast-forward; non-FF → fetch, CHỈ rebase khi upstream không đụng path
+   nào của commit này, tối đa 3 lần rebase (tức tối đa 4 lần push);
+   rebase conflict/giao path → dừng, KHÔNG force push. Cuối run assert:
+   không lock, không txn active.
 
 ## Op bảo trì (chạy LOCAL — factory-publish.yml KHÔNG có workflow_dispatch)
 
@@ -107,9 +114,9 @@ URL/canonical/permalink, taxonomy + hub, business facts (chỉ nguồn
 
 ## Quy trình một pair bài (push-driven)
 
-0. Trước khi chọn pair kế tiếp: nếu hàng PLANNED còn claim được < 2, chạy
-   op bảo trì local `factory-operator.py refill` rồi CHỜ refill success
-   và FETCH MAIN. Refill SUCCESS (PLANNED thật tăng) → chọn pair từ
+0. Trước khi chọn pair kế tiếp: nếu hàng PLANNED còn claim được < 2, push
+   batch chủ đề thật + bump `refill-request.json` (workflow
+   `factory-refill.yml` chạy refill) rồi CHỜ refill success và FETCH MAIN. Refill SUCCESS (PLANNED thật tăng) → chọn pair từ
    `next_claimable_id`/manifest và làm tiếp; NEEDS_TOPIC_EXPANSION →
    refill STOP sạch; writer báo đúng blocker (hết candidate STAGED trong
    ledger — cần mở rộng topic qua gate), KHÔNG tự tạo filler.
@@ -146,8 +153,9 @@ Repo là hàng đợi, trigger chỉ là gợi ý. GitHub giữ một run chờ 
   "touch" lại).
 - Hàng đang dở (PASS còn chờ publish; WRITING/QA có draft): tự được nhặt lại. Hàng REPAIR chỉ vào queue khi draft ĐỔI so với
   bằng chứng QA cuối (sha256) — không QA lại vô hạn bản đã FAIL.
-- Draft KHÔNG hợp lệ (thiếu `article_id`, ID lạ, hàng được bảo vệ, không có lease sống, sai chủ, nhiều file cùng ID) bị CÁCH LY
-  (ghi trong log run) — không chặn draft khác, không bị âm thầm publish.
+- Draft KHÔNG hợp lệ (thiếu `article_id`, ID lạ, hàng được bảo vệ, không có lease sống, sai chủ, nhiều file cùng ID, và draft "độc"
+  theo preflight engine-ready: không UTF-8, thiếu `date`/`title`/`categories`/`description`, placeholder, tên file/`date:` sai) bị CÁCH LY
+  (ghi trong log run) — không chặn draft khác, không bị âm thầm publish, không làm mọi run đỏ.
 - Draft của ID đã PUBLISHED: bỏ qua sạch (no-op xanh), KHÔNG BAO GIỜ đụng lại bài đã publish.
 - Re-run của một push cũ (draft đã chuyển sang `_posts/`): no-op xanh, idempotent.
 - Run chờ bị run KHÁC workflow (refill) thay và không còn push nào sau đó: `writer-session.py confirm` tự nudge
@@ -163,16 +171,20 @@ hiện tại. Hàng phải đang PASS. Mọi lệch hash → từ chối
 
 ## Chính sách lỗi
 
-- Op nào FAIL → workflow DỪNG, KHÔNG claim hàng mới; phần việc đã xong
-  an toàn được giữ. Ghi lại: ID lỗi, action lỗi, HEAD, checkpoint,
-  transaction, lock, các ID chưa xong, lệnh resume chính xác.
+- Op nào FAIL (FATAL hạ tầng) → workflow DỪNG, KHÔNG commit gì (phần pair
+  đã publish TRONG run đó bị bỏ cùng workspace; draft vẫn trong `_drafts/`,
+  run kế drain lại — chỉ tốn công làm lại, không mất bài). Content fail
+  (QA FAIL → REPAIR, gate từ chối) thì KHÔNG phải FATAL: pair khác vẫn
+  publish, hàng lỗi chờ chủ sửa. Ghi lại: ID lỗi, action lỗi, HEAD,
+  checkpoint, transaction, lock, các ID chưa xong, lệnh resume chính xác.
 - Lần chạy sau: chạy `recover` (op local) → hoàn tất việc dở → mới nhận
-  việc mới. Hàng PASS còn treo (QA xong nhưng chưa publish): push lại
-  draft của ID đó (repair push) — đường nóng QA lại rồi publish EXACT
-  ID. (Hợp đồng resume: `docs/RECOVERY.md`.)
-- Push chỉ fast-forward; origin đổi giữa chừng → fetch + rebase rồi
-  push lại (bounded, tối đa 3 lần thử push); rebase conflict → abort
-  ngay, KHÔNG force push, KHÔNG replay.
+  việc mới. Hàng PASS còn treo (QA xong nhưng chưa publish) được backlog
+  nhặt lại tự động; nếu draft không qua preflight/gate thì bị cách ly với
+  lý do trong log — sửa draft rồi push. (Hợp đồng resume:
+  `docs/RECOVERY.md`.)
+- Push chỉ fast-forward; origin đổi giữa chừng → fetch, rebase CHỈ khi
+  upstream không đụng path của commit (tối đa 3 lần rebase = 4 lần push);
+  giao path/rebase conflict → dừng ngay, KHÔNG force push, KHÔNG replay.
 
 ## QA modes — FAST / DEEP / FULL (sản xuất thủ công, không tự lặp)
 
@@ -215,7 +227,9 @@ integrity. Không sitemap live.
 ### FULL (weekly + trước/sau đổi engine)
 
 validate.py `--scope full`: toàn repository + capacity-audit + toàn bộ
-suite engine (12 suite, gồm hardening, watchdog, soak 20 vòng hermetic).
+suite engine (25 suite CI qua `scripts/factory/run-tests.py --suites ci`, gồm
+hardening, watchdog, mô phỏng đồng thời 3 writer; + soak 20 vòng hermetic).
+Job `engine-tests` của quality-gate.yml chạy nhóm CI ở FULL mode.
 KHÔNG phải điều kiện xuất bản mỗi cặp. factory-publish-verify.yml chạy mức
 này mỗi tuần (read-only).
 

@@ -119,5 +119,6 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
 FAST (mặc định mỗi chunk): validate `--scope chunk` + suite gate/operator/
 refill-safety/workflow-syntax. DEEP (~mỗi 50 bài): + link integrity, qa
 modes, publish flow, refill semantics (scope batch). FULL (weekly / trước
-đổi engine): validate full + 12 suite + soak (scope full). Ngưỡng KHÔNG đổi
+đổi engine): validate full + 25 suite CI (`scripts/factory/run-tests.py --suites ci`,
+job `engine-tests` của quality-gate ở FULL mode) + soak (scope full). Ngưỡng KHÔNG đổi
 giữa các mức.

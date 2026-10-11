@@ -109,9 +109,10 @@ Ghi vào `reports/factory/latest.md`: nguyên nhân, hành động, HEAD mới, 
 ## Registry lease (writer-claims.json) — đa-writer
 
 - Xem: `python3 scripts/factory/writer-claim.py show` / `status` (đọc, không ghi). Kiểm bất biến: `check-registry`.
-- `REGISTRY_CORRUPT` (JSON hỏng/sai cấu trúc): mọi tool fail-closed, KHÔNG coi là rỗng. Phục hồi:
-  `python3 scripts/factory/writer-claim.py repair-registry --from-git` (lấy bản hợp lệ gần nhất trong git history rồi prune; không tạo
-  lease mới). Rồi commit registry theo CAS (`writer-session.py` hoặc commit thủ công fast-forward).
+- `REGISTRY_CORRUPT` (JSON hỏng/sai cấu trúc, `expires_at` không phân tích được, ID sai dạng): mọi tool và selector fail-closed, KHÔNG coi
+  là rỗng. Phục hồi trên origin: `python3 scripts/factory/writer-session.py repair-registry` (CAS: lấy bản hợp lệ gần nhất trong git
+  history, prune theo matrix hiện tại, commit thay file hỏng; không tạo lease mới, không force push; registry đang hợp lệ thì không làm
+  gì). Chỉ sửa working copy: `writer-claim.py repair-registry --from-git` rồi tự commit/push fast-forward.
 - Writer chết giữ slot: KHÔNG chiếm lease còn hạn. Chờ `expires_at` (mặc định 12h với `writer-session.py begin`, 48h với claim cũ);
   ID PLANNED tự trả về pool, hàng in-flight (REPAIR/PASS…) thành orphan: `begin --ids BLG-… --adopt`.
 - Hai phiên cùng một slot (SLOT_HELD): phiên đến sau dùng slot khác; không sửa tay registry để "giành" slot.

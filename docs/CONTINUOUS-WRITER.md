@@ -25,9 +25,11 @@ Tài liệu canonical cho cách writer (AI bên ngoài, BẤT KỲ nhà cung c�
 - Draft của hàng PLANNED PHẢI khai (dòng TRẦN, không comment cuối dòng) trong frontmatter:
 
 ```yaml
-writer: W1             # W1 | W2 | W3 — đúng writer đang giữ lease của ID đó
-writer_session: s-abc  # session của lease (writer-session.py check tự gắn)
+writer: W1
+writer_session: s-abc
 ```
+(`writer:` = slot W1|W2|W3 đang giữ lease của ID; `writer_session:` = session của lease — `writer-session.py check` tự gắn. KHÔNG
+ghi comment cuối dòng: selector chỉ nhận dòng trần.)
 
 - Selector REFUSE fail-closed exit 3 (draft của push) khi: ID PLANNED không có lease sống; sai/khuyết `writer:`;
   `writer_session:` có khai nhưng lệch session của lease; hàng in-flight đã đổi nội dung mà lease sống thuộc writer khác.
