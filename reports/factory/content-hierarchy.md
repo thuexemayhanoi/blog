@@ -17,17 +17,17 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 30 | 140 | /thue-xe/khach-quoc-te/ |
 | P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 42 | 180 | /thue-xe/nhan-tra-xe/ |
 | P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 44 | 180 | /thue-xe/su-co/ |
-| P-XE-MAY | Xe số (C-XE-SO) | 3 | 34 | 160 | /xe-may/xe-so/ |
-| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 31 | 160 | /xe-may/xe-ga/ |
+| P-XE-MAY | Xe số (C-XE-SO) | 3 | 46 | 160 | /xe-may/xe-so/ |
+| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 41 | 160 | /xe-may/xe-ga/ |
 | P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 14 | 140 | /xe-may/xe-50cc/ |
 | P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 38 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 16 | 100 | /xe-may/xe-dap-dien/ |
-| P-XE-MAY | Honda Wave (C-HONDA-WAVE) | 1 | 15 | 120 | /xe-may/honda-wave/ |
-| P-XE-MAY | Honda Vision (C-HONDA-VISION) | 1 | 15 | 120 | /xe-may/honda-vision/ |
+| P-XE-MAY | Honda Wave (C-HONDA-WAVE) | 1 | 26 | 120 | /xe-may/honda-wave/ |
+| P-XE-MAY | Honda Vision (C-HONDA-VISION) | 1 | 23 | 120 | /xe-may/honda-vision/ |
 | P-XE-MAY | Honda Air Blade (C-HONDA-AIR-BLADE) | 1 | 10 | 110 | /xe-may/honda-air-blade/ |
 | P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 10 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 11 | 100 | /xe-may/yamaha-sirius/ |
-| P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 43 | 140 | /xe-may/bao-duong-xe/ |
+| P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 65 | 140 | /xe-may/bao-duong-xe/ |
 | P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 22 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
 | P-PHAP-LY | Bảo hiểm xe máy (C-BAO-HIEM) | 10 | 18 | 130 | /an-toan-phap-ly/bao-hiem/ |
 | P-PHAP-LY | Nồng độ cồn (C-NOI-DO-CONG) | 2 | 12 | 120 | /an-toan-phap-ly/noi-do-cong/ |
@@ -47,7 +47,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-CUNG-DUONG | Mộc Châu (C-CD-MOC-CHAU) | 0 | 15 | 80 | /cung-duong/moc-chau/ |
 | P-CUNG-DUONG | Hà Giang (C-CD-HA-GIANG) | 0 | 15 | 80 | /cung-duong/ha-giang/ |
 | P-CUNG-DUONG | Cung đường các tỉnh phía Bắc (C-CD-PHO-BAC) | 0 | 38 | 90 | /cung-duong/cung-duong-pho-bac/ |
-| P-KY-NANG | Kỹ năng lái cơ bản (C-KY-NANG-CO-BAN) | 35 | 45 | 180 | /ky-nang/ky-nang-lai-co-ban/ |
+| P-KY-NANG | Kỹ năng lái cơ bản (C-KY-NANG-CO-BAN) | 35 | 60 | 180 | /ky-nang/ky-nang-lai-co-ban/ |
 | P-KY-NANG | Tình huống giao thông (C-KY-NANG-TINH-HUONG) | 97 | 53 | 180 | /ky-nang/tinh-huong-giao-thong/ |
 | P-KY-NANG | Thời tiết & đường sá (C-KY-NANG-THOI-TIET) | 41 | 46 | 150 | /ky-nang/thoi-tiet-va-duong-sa/ |
 | P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 50 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 1641 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 1719 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

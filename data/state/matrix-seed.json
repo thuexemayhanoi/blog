@@ -5601,6 +5601,210 @@
           "audience": "người đi xe số dựng xe hằng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Xe số không có đèn báo số: cách biết bạn đang ở số mấy",
+          "intent": "Biết cách tự nhận ra mình đang chạy ở số mấy khi xe số phổ thông chỉ có đèn báo số mo, dựa vào tiếng máy, tốc độ và hành trình của cần số.",
+          "kw": "xe số không có đèn báo số",
+          "kw2": [
+            "đang ở số mấy xe máy",
+            "nghe tiếng máy để lên số"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người mới đi xe số lần đầu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Quen xe ga lần đầu đi xe số: những phản xạ cần chỉnh lại",
+          "intent": "Hiểu những thói quen của người quen xe tay ga phải đổi khi lần đầu cầm xe số: chân trái lo cần số, chân phải lo phanh sau, cách khởi hành và cách dừng xe.",
+          "kw": "từ xe ga chuyển sang xe số",
+          "kw2": [
+            "quen xe ga đi xe số lần đầu",
+            "đi xe số sau khi quen xe ga"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người quen xe tay ga lần đầu thuê xe số",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Mỏi cổ chân trái khi đi xe số trong phố đông: nguyên nhân và cách giảm",
+          "intent": "Biết vì sao cổ chân và bàn chân trái mỏi khi phải đổi số liên tục trong phố đông, và cách đặt chân, đổi số, chọn số để đỡ mỏi hơn.",
+          "kw": "mỏi chân trái khi đi xe số",
+          "kw2": [
+            "đau cổ chân khi đạp số",
+            "đi xe số trong phố đông bị mỏi chân"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người đi xe số nhiều giờ trong nội thành",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Về số mo xuống dốc cho đỡ hao xăng: vì sao nên bỏ thói quen này",
+          "intent": "Hiểu vì sao thả số mo hoặc tắt máy cho xe trôi khi xuống dốc là thói quen nguy hiểm, và cách tiết kiệm xăng đúng hơn khi đi xe số.",
+          "kw": "xe số xuống dốc thả số mo",
+          "kw2": [
+            "xe số tắt máy xuống dốc có tiết kiệm xăng không",
+            "thả trôi xe số xuống dốc"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người đi xe số hay nghe mẹo tiết kiệm xăng truyền miệng",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đổi số êm khi chở người ngồi sau: tránh để bạn đồng hành gật gù",
+          "intent": "Biết cách nhả ga, đạp số dứt khoát và báo trước để đổi số êm khi xe số chở thêm người ngồi sau.",
+          "kw": "đổi số êm khi chở người sau",
+          "kw2": [
+            "xe số chở người bị giật khi lên số",
+            "chở người ngồi sau xe số"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người thuê xe số chở bạn đồng hành",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bỏng ống xả khi đi xe số: cách lên xuống xe và trang phục để tránh",
+          "intent": "Biết vì sao dễ bị bỏng ống xả khi lên xuống xe số, cách lên xuống xe, đặt chân, chọn trang phục và xử lý ban đầu nếu lỡ bị bỏng.",
+          "kw": "bỏng ống xả khi đi xe số",
+          "kw2": [
+            "bị bỏng pô xe số",
+            "tránh bỏng ống xả khi lên xuống xe"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "khách du lịch mặc quần ngắn và người ngồi sau xe số",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Giảm số trên đường ướt: vì sao bánh sau dễ giật và cách giảm cho mượt",
+          "intent": "Hiểu vì sao giảm số gấp trên đường trơn ướt làm bánh sau giật hoặc trượt, và cách nhả ga, phanh bằng phanh trước rồi mới giảm số để giữ xe vững.",
+          "kw": "giảm số trên đường ướt xe số",
+          "kw2": [
+            "xe số bánh sau bị khóa khi giảm số",
+            "giảm số khi trời mưa"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người đi xe số trong những ngày mưa",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi nhóm lẫn xe số và xe ga: giữ nhịp để không bỏ nhau lại phía sau",
+          "intent": "Biết cách giữ nhịp, chọn điểm hẹn và sắp thứ tự hợp lý khi nhóm bạn chạy lẫn xe số và xe tay ga, nhất là lúc xuất phát ở đèn xanh.",
+          "kw": "đi nhóm xe số lẫn xe ga",
+          "kw2": [
+            "xe số theo kịp xe ga",
+            "nhóm bạn đi xe khác loại"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "nhóm bạn thuê cả xe số lẫn xe ga đi cùng nhau",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe số có nên về số khi vượt xe: lúc nào cần, lúc nào đừng",
+          "intent": "Biết khi nào nên chọn số thấp hơn trước khi vượt xe, vì sao không nên đạp số giữa lúc đang vượt và cách tính đà từ trước.",
+          "kw": "xe số về số khi vượt xe",
+          "kw2": [
+            "xuống số để vượt xe",
+            "xe số bứt tốc vượt xe tải"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người đi xe số ra đường ngoại thành",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh",
+          "intent": "Chọn cách chờ đèn đỏ hợp lý với xe số, về số mo hay giữ số 1, và thao tác xuất phát khi đèn xanh để không chết máy hay cuống tay chân.",
+          "kw": "đèn đỏ xe số về số mo",
+          "kw2": [
+            "dừng đèn đỏ giữ số 1 hay số mo",
+            "xuất phát đèn xanh xe số"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người đi xe số qua các ngã tư đông",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số: cách xử lý",
+          "intent": "Biết những phần áo mưa, ống quần, váy dễ chạm ống xả, quấn vào xích hoặc bánh sau và vướng cần số khi đi xe số, cùng cách mặc, cuộn, buộc để tránh.",
+          "kw": "áo mưa chạm pô xe số",
+          "kw2": [
+            "ống quần vướng xích xe số",
+            "mặc váy đi xe số"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người đi xe số mặc áo mưa, váy hoặc quần rộng",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe số xả khói trắng, xanh hay đen: khói nào cần báo cửa hàng",
+          "intent": "Phân biệt màu khói xả khi nổ máy và khi chạy, biết khói nào bình thường lúc trời lạnh và khói nào là dấu hiệu cần báo cửa hàng cho thuê.",
+          "kw": "màu khói xả xe số",
+          "kw2": [
+            "xe máy xả khói trắng buổi sáng",
+            "xe số bị khói xanh"
+          ],
+          "links": [
+            "/xe-may/xe-so/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R01",
+          "audience": "người thuê xe số thấy khói lạ từ ống xả",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -6085,6 +6289,176 @@
           "subtopic": "refill-2026-10-11-turbo-V",
           "audience": "người đi xe ga thấy bất thường khi phanh",
           "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Dựng xe ga bằng chân chống giữa: kỹ thuật nhấc nhẹ cho người mới",
+          "intent": "Biết cách dựng và hạ chân chống giữa của xe tay ga bằng lực chân và thân người thay vì lực tay, kèm nền nào nên và không nên dựng.",
+          "kw": "dựng xe ga bằng chân chống giữa",
+          "kw2": [
+            "cách dựng chân chống giữa xe tay ga",
+            "xe ga nặng khó dựng chân chống"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người mới đi xe ga và người nhẹ cân",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga vào ngõ nhỏ ở Hà Nội: giữ ga nhẹ, né gương và len qua chỗ hẹp",
+          "intent": "Biết cách điều khiển xe tay ga ở tốc độ rất chậm trong ngõ hẹp: giữ ga đều, dùng phanh sau, né gương và xử lý khi gặp người đi bộ.",
+          "kw": "xe ga đi ngõ nhỏ",
+          "kw2": [
+            "chạy xe tay ga trong ngõ hẹp",
+            "xe ga len qua ngõ chật"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người đi xe ga vào khu nhà trọ và khu tập thể",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga khởi hành lại giữa dốc cầu vượt: giữ phanh và ga để không tụt lùi",
+          "intent": "Biết cách dừng rồi khởi hành lại trên dốc cầu khi kẹt xe bằng xe tay ga: giữ phanh, vặn ga dần và tránh để xe tụt lùi vào người phía sau.",
+          "kw": "xe ga khởi hành trên dốc",
+          "kw2": [
+            "xe ga bị tụt dốc khi dừng",
+            "dừng giữa dốc cầu xe tay ga"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người đi xe ga qua các cầu vượt giờ cao điểm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm",
+          "intent": "Biết cách tìm và mở nắp bình xăng trên xe tay ga (dưới yên hoặc phía trước tùy xe) và từng bước đổ xăng tại trạm lần đầu.",
+          "kw": "mở nắp bình xăng xe tay ga",
+          "kw2": [
+            "xe ga đổ xăng ở đâu",
+            "đổ xăng xe tay ga lần đầu"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người lần đầu tự đổ xăng cho xe ga thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đồ không nên để trong cốp xe ga khi đỗ nắng nóng",
+          "intent": "Biết những món không nên để trong cốp xe tay ga ngày nắng nóng như pin dự phòng, bật lửa, đồ điện tử, thuốc, đồ ăn, và cách xếp lại cho an toàn.",
+          "kw": "cốp xe ga ngày nắng nóng",
+          "kw2": [
+            "để sạc dự phòng trong cốp xe",
+            "cốp xe máy nóng để đồ gì"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người đỗ xe ga ngoài nắng nhiều giờ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên",
+          "intent": "Biết kiểm tra theo thứ tự các chốt an toàn khiến xe ga không đề, như công tắc tắt máy, chân chống, tay phanh và vị trí chìa, trước khi nghĩ tới ắc quy.",
+          "kw": "bấm đề xe ga không phản ứng",
+          "kw2": [
+            "xe ga không đề được vì chân chống",
+            "xe tay ga phải bóp phanh mới đề"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người thuê xe ga lần đầu bấm đề mà không thấy gì",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga nổ máy nhưng vặn ga không đi: dấu hiệu hỏng bộ truyền động",
+          "intent": "Nhận biết khi xe tay ga nổ máy bình thường nhưng vặn ga không tiến, các nguyên nhân thường gặp ở bộ truyền động và cách xử lý an toàn.",
+          "kw": "xe ga nổ máy nhưng không chạy",
+          "kw2": [
+            "xe tay ga vặn ga không đi",
+            "đứt dây curoa xe ga"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người thuê xe ga gặp xe nổ máy mà không đi",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga vọt lên khi vặn ga quá tay: phản xạ cần có trong một giây",
+          "intent": "Biết cách phản ứng khi xe tay ga bất ngờ vọt lên do vặn ga quá tay lúc khởi hành, và cách tập tay ga nhẹ để tránh tình huống này.",
+          "kw": "xe ga vọt lên khi vặn ga",
+          "kw2": [
+            "xe tay ga lao đi khi khởi hành",
+            "tập tay ga nhẹ khi mới đi xe ga"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người mới đi xe tay ga lần đầu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tay ga xe máy bị kẹt không nhả: cách tắt máy và dừng xe an toàn",
+          "intent": "Biết cách xử lý trong vài giây khi tay ga kẹt, không tự nhả về: bóp phanh, dùng công tắc tắt máy hoặc tắt chìa, dừng xe rồi báo cửa hàng.",
+          "kw": "tay ga bị kẹt không nhả",
+          "kw2": [
+            "kẹt ga xe ga xử lý",
+            "tay ga không về khi đang chạy"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người thuê xe ga ở mọi trình độ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe ga leo dốc dài và đèo: giữ ga đều để bộ truyền động không quá nóng",
+          "intent": "Biết cách leo dốc dài hoặc đèo bằng xe tay ga: giữ ga đều, không dồn ga gắt, chọn điểm nghỉ cho máy và bộ truyền động nguội, nhận dấu hiệu quá tải.",
+          "kw": "xe tay ga leo đèo dài",
+          "kw2": [
+            "xe ga lên dốc bị mất lực",
+            "nghỉ giữa đèo cho xe ga nguội"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R02",
+          "audience": "người đi xe ga lên Tam Đảo, Ba Vì hoặc các đoạn dốc dài",
+          "location_scope": "Hà Nội và các cung đèo lân cận",
           "word_target": 1200
         }
       ]
@@ -7406,6 +7780,193 @@
           "audience": "khách tính chi phí xăng cho Wave",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Honda Wave phanh cơ khi đường ướt: phanh sớm hơn và rê phanh cho khô",
+          "intent": "Hiểu vì sao phanh cơ (phanh đùm) của nhiều xe Wave ăn yếu hơn khi ướt, cách phanh sớm, bóp nhịp và rê phanh sau khi qua vũng để lấy lại lực phanh.",
+          "kw": "Honda Wave phanh khi đường ướt",
+          "kw2": [
+            "phanh đùm xe Wave đi mưa",
+            "phanh cơ ăn yếu khi ướt"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người thuê Honda Wave đi mưa ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Wave Alpha hay Wave RSX: nhận biết bản xe đang thuê qua phanh và vành",
+          "intent": "Biết cách nhận ra xe đang cầm thuộc dòng Wave nào và bản nào qua các chi tiết nhìn thấy được như phanh cơ hay phanh đĩa, vành nan hoa hay vành đúc, đèn, rồi hiểu điều đó ảnh hưởng gì khi lái.",
+          "kw": "Wave Alpha và Wave RSX khác nhau",
+          "kw2": [
+            "phân biệt Wave Alpha và RSX",
+            "Wave RSX phanh đĩa vành đúc"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người thuê Honda Wave muốn biết mình đang cầm bản nào",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Wave nhẹ cân: lợi khi dắt xe vào ngõ, bất lợi khi gió ngang",
+          "intent": "Hiểu điểm lợi và hạn chế của việc Wave nhẹ: dễ dắt, quay đầu, dựng xe ở ngõ chật nhưng dễ bị gió ngang và xe tải vượt làm lạng tay lái.",
+          "kw": "Honda Wave nhẹ dễ dắt",
+          "kw2": [
+            "Wave bị gió thổi lạng tay lái",
+            "dắt xe Wave vào ngõ chật"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người thuê Wave ở khu nhà trọ, ngõ nhỏ và hay qua cầu",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Honda Wave ít chỗ cất đồ: để áo mưa, nước và sạc dự phòng ở đâu",
+          "intent": "Biết cách mang và cất áo mưa, chai nước, sạc dự phòng, ví và giấy tờ khi dùng Wave vì xe gần như không có cốp rộng, và cách giữ đồ an toàn khi gửi xe.",
+          "kw": "Honda Wave để đồ ở đâu",
+          "kw2": [
+            "Wave không có cốp",
+            "cất áo mưa trên xe số"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người thuê Wave đi cả ngày trong nội thành",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Vì sao ở đâu cũng có thợ sửa Wave: lợi ích khi thuê xe chạy xa",
+          "intent": "Hiểu vì sao Wave phổ biến nên phụ tùng, thợ vá lốp và tiệm sửa xe quen xe dễ tìm, và cách tận dụng điều đó khi có sự cố nhỏ mà vẫn báo cửa hàng trước.",
+          "kw": "thợ sửa xe Wave dễ tìm",
+          "kw2": [
+            "Wave hỏng vặt sửa ở đâu",
+            "xe Wave phổ biến dễ sửa"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người thuê Wave đi xa khỏi trung tâm",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Cùng giá 150.000đ mỗi ngày: nên thuê Honda Wave hay Honda Click",
+          "intent": "Chọn giữa Honda Wave (xe số) và Honda Click (xe ga) khi cùng mức giá thuê theo ngày, dựa trên cách lái, chỗ để đồ, đường đi và kinh nghiệm của người thuê.",
+          "kw": "thuê Honda Wave hay Honda Click",
+          "kw2": [
+            "xe số hay xe ga cùng giá",
+            "Wave và Click khác nhau"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người phân vân giữa xe số và xe ga cùng giá thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Wave 150.000đ hay Air Blade 200.000đ: chênh 50.000đ đổi lại gì",
+          "intent": "Hiểu mức chênh 50.000đ mỗi ngày giữa Wave và Air Blade đổi lại những gì khi lái, chở đồ và đi xa, để quyết định có đáng hay không.",
+          "kw": "thuê Honda Wave hay Air Blade",
+          "kw2": [
+            "Wave và Air Blade khác nhau",
+            "chênh giá thuê Wave Air Blade"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người cân nhắc giữa xe số giá mềm và xe ga mạnh hơn",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Người cao to đi Honda Wave: ngồi có gò, gối có vướng tay lái không",
+          "intent": "Biết người cao hoặc nặng ký ngồi Wave có thoải mái không, cách chỉnh tư thế, vị trí chân với cần số và phanh, và khi nào nên cân nhắc xe khác.",
+          "kw": "người cao to đi Honda Wave",
+          "kw2": [
+            "Wave có nhỏ quá với người cao 1m80",
+            "ngồi Wave bị gò gối"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "khách cao to thuê Wave",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Nhóm cùng thuê nhiều xe Wave giống hệt nhau: phân biệt xe và chìa thế nào",
+          "intent": "Biết cách phân biệt, đánh dấu tạm (hỏi chủ xe trước) và ghi nhớ xe của từng người khi cả nhóm thuê nhiều Wave cùng màu, để không lấy nhầm xe ở bãi gửi và quán.",
+          "kw": "thuê nhiều xe Wave giống nhau",
+          "kw2": [
+            "phân biệt xe Wave cùng màu",
+            "nhóm bạn thuê xe Wave"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "nhóm bạn thuê nhiều xe Wave cùng lúc",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Nhược điểm của Honda Wave khi thuê: những điều nên biết trước",
+          "intent": "Biết trước những hạn chế thật của Wave khi thuê ở Hà Nội, như ít chỗ cất đồ, phanh cơ, phải đổi số và không có đèn báo số, để quyết định có hợp mình không.",
+          "kw": "nhược điểm của Honda Wave",
+          "kw2": [
+            "Honda Wave có tệ không",
+            "xe Wave khi thuê có gì bất tiện"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người đang cân nhắc thuê Wave",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Wave đi làm hằng ngày trong nội thành: gửi xe, mưa nắng và đồ công sở",
+          "intent": "Biết cách dùng Wave đi làm mỗi ngày trong nội thành cho gọn: chọn cách gửi xe, xử lý mưa nắng, mặc đồ công sở với xe số và giữ xe ổn định cả tuần.",
+          "kw": "Honda Wave đi làm hằng ngày",
+          "kw2": [
+            "thuê xe số đi làm nội thành",
+            "mặc đồ công sở đi xe số"
+          ],
+          "links": [
+            "/xe-may/honda-wave/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R03",
+          "audience": "người đi làm văn phòng thuê Wave đi lại hằng ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -7645,6 +8206,150 @@
           ],
           "subtopic": "refill-2026-10-11-turbo-V",
           "audience": "khách thuê Vision đi tuyến dốc",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Giá thuê Honda Vision: so sánh gói ngày, tuần, tháng để chọn cho đúng",
+          "intent": "Biết các mức giá thuê Honda Vision theo ngày, tuần, tháng và tự tính gói nào hợp với số ngày dự định đi.",
+          "kw": "giá thuê honda vision",
+          "kw2": [
+            "thuê honda vision theo tuần",
+            "thuê honda vision theo tháng",
+            "honda vision thuê một ngày bao nhiêu"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "người đang so giá, chưa biết nên thuê Vision theo ngày, tuần hay tháng",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Người cao thuê Honda Vision: chân có chật không và nên ngồi thế nào cho đỡ mỏi",
+          "intent": "Biết người cao khoảng 1m75 trở lên ngồi Honda Vision có thoải mái không và cách chỉnh chỗ ngồi, đặt chân để đỡ mỏi gối, lưng.",
+          "kw": "người cao thuê honda vision",
+          "kw2": [
+            "honda vision cho người cao",
+            "vision có chật chân không",
+            "xe ga nhỏ cho người cao"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "khách cao khoảng 1m75 trở lên, đang phân vân giữa xe ga nhỏ và xe lớn hơn",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Một ngày tự lái Honda Vision quanh Hà Nội: gợi ý lộ trình cho du khách",
+          "intent": "Lên được lộ trình một ngày quanh phố cổ, Hồ Tây và cầu Long Biên bằng Honda Vision: thứ tự đi, đoạn nên tránh, lúc nào ghé nghỉ (không đi sâu vào giá vé hay giờ mở cửa).",
+          "kw": "lộ trình một ngày bằng honda vision",
+          "kw2": [
+            "thuê xe ga đi chơi hà nội một ngày",
+            "honda vision cho khách du lịch",
+            "tự lái xe máy dạo phố cổ hồ tây"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "du khách tự lái lần đầu ở Hà Nội, đi một mình hoặc hai người, chỉ có một ngày",
+          "location_scope": "Phố cổ Hoàn Kiếm, Hồ Tây và cầu Long Biên, Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Honda Vision đi ngoại thành trong ngày: chặng nào hợp, chặng nào nên cân nhắc",
+          "intent": "Biết xe ga nhỏ như Honda Vision hợp những chặng ngoại thành nào trong một ngày và cần chuẩn bị gì về xăng, giờ xuất phát, điểm nghỉ (không nêu số km chính xác).",
+          "kw": "honda vision đi ngoại thành",
+          "kw2": [
+            "xe ga nhỏ đi sơn tây",
+            "thuê vision đi ba vì",
+            "vision đi chùa hương có nổi không"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "khách muốn đi chơi ngoại thành trong ngày bằng xe ga nhỏ nhưng chưa chắc xe đủ sức",
+          "location_scope": "Hà Nội và các huyện ngoại thành như Gia Lâm, Sóc Sơn, Sơn Tây, Ba Vì, Mỹ Đức",
+          "word_target": 1300
+        },
+        {
+          "title": "Canh kim xăng Honda Vision: ghé cây xăng lúc nào để không chết máy giữa đường",
+          "intent": "Biết cách đọc kim xăng xe ga nhỏ và đặt thói quen đổ xăng theo quãng đường để không hết xăng giữa phố hay ngoại thành.",
+          "kw": "canh kim xăng honda vision",
+          "kw2": [
+            "honda vision hết xăng",
+            "kim xăng xe ga tụt nhanh",
+            "khi nào nên đổ xăng xe ga"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "người thuê xe ga lần đầu hay quên đổ xăng, hoặc sắp đi quãng dài trong ngày",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Cốp Honda Vision ngày nắng gắt: những món đồ không nên để lại trong cốp",
+          "intent": "Biết món đồ nào dễ hỏng, xẹp hay nguy hiểm khi để trong cốp xe ga phơi nắng ở Hà Nội và nên cất ở đâu thay thế.",
+          "kw": "đồ không nên để trong cốp xe",
+          "kw2": [
+            "sạc dự phòng để trong cốp xe",
+            "bật lửa trong cốp xe ngày nắng",
+            "cốp xe ga bị nóng"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "người dùng xe ga hay để đồ trong cốp rồi đỗ xe ngoài trời nắng",
+          "location_scope": "Hà Nội, mùa nắng nóng",
+          "word_target": 1200
+        },
+        {
+          "title": "Thuê Honda Vision dài ngày: những bộ phận hao mòn nhanh khi chạy phố mỗi ngày",
+          "intent": "Hiểu chạy phố đều đặn làm hao những bộ phận nào của xe ga nhỏ và cần để ý dấu hiệu gì trong cả tuần hay cả tháng thuê.",
+          "kw": "honda vision thuê dài ngày",
+          "kw2": [
+            "xe ga chạy phố hao bộ phận nào",
+            "thuê vision cả tháng",
+            "bộ phận mòn nhanh xe ga"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "người thuê Vision theo tuần hoặc theo tháng để đi làm hằng ngày",
+          "location_scope": "Hà Nội, đi lại trong nội thành",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy thử xe ga trước khi mua bằng Honda Vision thuê một tuần: nên để ý gì",
+          "intent": "Biết cách dùng một tuần thuê Honda Vision để đánh giá xe ga có hợp mình không: tư thế ngồi, cốp, phanh, độ ồn, chi phí xăng.",
+          "kw": "thuê thử xe ga trước khi mua",
+          "kw2": [
+            "thuê xe ga chạy thử một tuần",
+            "nên mua xe ga nào lần đầu",
+            "trải nghiệm xe ga trước khi mua"
+          ],
+          "links": [
+            "/xe-may/honda-vision/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R04",
+          "audience": "người đang cân nhắc mua xe ga đầu tiên, muốn chạy thử thật trong phố hằng ngày",
           "location_scope": "Hà Nội",
           "word_target": 1200
         }
@@ -8810,6 +9515,402 @@
           "audience": "người kiểm tra an toàn xe",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Lọc gió xe máy bẩn: dấu hiệu khi đi xe và lúc nào cần vệ sinh hay thay",
+          "intent": "Nhận ra lọc gió động cơ bẩn qua cảm giác lái (hụt ga, hao xăng, khói đen) và biết khi nào nên nhờ cửa hàng vệ sinh hoặc thay.",
+          "kw": "lọc gió xe máy bẩn",
+          "kw2": [
+            "dấu hiệu lọc gió xe máy bẩn",
+            "bao lâu thay lọc gió xe máy",
+            "lọc gió xe ga nằm ở đâu"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe dài ngày hay đi qua đường nhiều bụi",
+          "location_scope": "Hà Nội, đường nhiều bụi công trình và ven đê",
+          "word_target": 1200
+        },
+        {
+          "title": "Dây curoa và bi nồi xe ga: dấu hiệu mòn qua cảm giác lấy đà và tiếng kêu",
+          "intent": "Hiểu dây curoa và bi nồi trên xe ga làm gì, mòn thì xe biểu hiện ra sao khi lấy đà và khi nào cần báo cửa hàng kiểm tra.",
+          "kw": "dây curoa xe ga mòn",
+          "kw2": [
+            "bi nồi xe ga mòn",
+            "xe ga ì khi lấy đà",
+            "bao lâu thay dây curoa xe ga"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe ga đi phố hằng ngày, nghe tiếng lạ hoặc thấy xe ì",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Nhông xích đĩa xe số: khi nào phải thay cả bộ thay vì chỉ căng xích",
+          "intent": "Biết nhông, xích, đĩa mòn cùng nhau ra sao, nhận ra răng mòn và hiểu vì sao thay cả bộ chứ không chỉ căng lại xích.",
+          "kw": "thay nhông xích đĩa xe số",
+          "kw2": [
+            "nhông sên dĩa mòn",
+            "khi nào thay nhông sên dĩa",
+            "xích xe số bị rơ"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe số chạy nhiều, thấy xích hay rơ, kêu hoặc xe ì",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Giảm xóc xe máy yếu hoặc chảy dầu: cách tự nhận biết trước khi đi đường xấu",
+          "intent": "Nhận ra phuộc trước chảy dầu và phuộc sau lún yếu bằng mắt và tay, hiểu ảnh hưởng tới phanh, tay lái trước khi đi đường xấu.",
+          "kw": "giảm xóc xe máy chảy dầu",
+          "kw2": [
+            "phuộc xe máy bị yếu",
+            "cách kiểm tra giảm xóc xe máy",
+            "phuộc sau xe ga bị lún"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe sắp đi đường xấu, đường đê, ngoại thành hoặc chở thêm người",
+          "location_scope": "Hà Nội, đường xấu và đường đê ven sông Hồng",
+          "word_target": 1200
+        },
+        {
+          "title": "Bánh xe máy kêu ù hoặc tay lái rơ: nghi ngờ vòng bi bánh và cổ phuộc",
+          "intent": "Phân biệt tiếng ù của vòng bi bánh và độ rơ cổ phuộc với tiếng phanh hay lốp, biết kiểm tra đơn giản và khi nào báo cửa hàng.",
+          "kw": "vòng bi bánh xe máy kêu",
+          "kw2": [
+            "bạc đạn bánh xe kêu ù",
+            "cổ phuộc xe máy bị rơ",
+            "tay lái xe máy bị lắc"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe nghe tiếng ù khi chạy hoặc thấy tay lái lỏng lẻo",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Ống xả xe máy bị thủng hoặc rỉ: tiếng nổ to, mùi khí và cách nhận biết sớm",
+          "intent": "Nhận ra ống xả (pô) rỉ, thủng hay lỏng cổ pô qua tiếng nổ, mùi và độ nóng bất thường, hiểu vì sao không nên cố chạy tiếp khi pô hỏng nặng.",
+          "kw": "ống xả xe máy bị thủng",
+          "kw2": [
+            "pô xe máy kêu to bất thường",
+            "pô xe máy bị rỉ",
+            "cổ pô xe máy bị lỏng"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe nghe xe nổ to hơn thường lệ hoặc ngửi mùi khí thải nồng",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Khói pô xe máy màu xanh, trắng hay đen nói lên điều gì",
+          "intent": "Đọc màu khói pô (xanh, trắng, đen) để hiểu gợi ý vấn đề gì (hao nhớt, hơi nước, sặc xăng) và quyết định đi tiếp hay báo cửa hàng.",
+          "kw": "khói pô xe máy màu xanh",
+          "kw2": [
+            "khói trắng pô xe máy",
+            "khói đen xe máy",
+            "xe máy xì khói bất thường"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe thấy khói lạ sau xe, nhất là buổi sáng lạnh ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Dầu hộp số xe ga (nhớt láp): vì sao thay riêng với nhớt máy và hay bị quên",
+          "intent": "Biết xe ga có dầu hộp số (nhớt láp) riêng với nhớt máy, bao lâu cần kiểm tra và dấu hiệu rò rỉ hay kêu ở bánh sau để báo cửa hàng đúng lúc.",
+          "kw": "dầu hộp số xe ga",
+          "kw2": [
+            "nhớt láp xe ga",
+            "bao lâu thay nhớt láp",
+            "xe ga kêu ở bánh sau"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe ga dài ngày, chỉ nghe nói đến nhớt máy",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đọc nhãn nhớt xe máy: 10W-30, 10W-40 và JASO MA, MB nghĩa là gì",
+          "intent": "Hiểu các ký hiệu độ nhớt và chuẩn JASO trên chai nhớt, phân biệt nhớt khoáng, bán tổng hợp, tổng hợp để không chọn nhầm cho xe ga hay xe số.",
+          "kw": "đọc nhãn nhớt xe máy",
+          "kw2": [
+            "10w-40 nghĩa là gì",
+            "jaso ma mb khác nhau",
+            "nhớt tổng hợp và nhớt khoáng"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe hay phải tự mua nhớt hoặc đứng trước kệ nhớt ở tiệm",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Lốp xe máy bao nhiêu tuổi: đọc mã ngày sản xuất trên hông lốp",
+          "intent": "Biết cách tìm và đọc mã bốn số ngày sản xuất trên hông lốp để đánh giá lốp đã quá cũ dù gai còn nhiều.",
+          "kw": "mã ngày sản xuất lốp xe máy",
+          "kw2": [
+            "cách xem lốp xe máy sản xuất năm nào",
+            "lốp xe máy để lâu bị chai",
+            "mã dot trên lốp xe máy"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe muốn kiểm tra lốp trước chuyến dài, người sắp thay lốp",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đọc thông số trên lốp xe máy: 80/90-14 nghĩa là gì và vì sao không tự đổi cỡ",
+          "intent": "Hiểu các con số và chữ trên hông lốp (bề rộng, tỷ lệ thành lốp, đường kính vành, chỉ số tải) và vì sao thay lốp phải đúng cỡ.",
+          "kw": "thông số lốp xe máy",
+          "kw2": [
+            "80/90-14 là gì",
+            "cách đọc size lốp xe máy",
+            "đổi cỡ lốp xe máy có sao không"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe đứng trước tiệm thay lốp hoặc muốn hiểu hông lốp",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Lốp không săm bị đinh: vá dùi, vá nấm khác gì và khi nào phải thay lốp",
+          "intent": "Hiểu cách vá lốp không săm (vá dùi, vá nấm), vết thủng nào vá được, vết nào phải thay và nên chạy thế nào sau khi vá.",
+          "kw": "vá lốp không săm xe máy",
+          "kw2": [
+            "vá dùi vá nấm khác nhau",
+            "lốp không săm bị đinh",
+            "vá lốp xe máy có an toàn không"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe bị đinh xẹp lốp ở Hà Nội và đang hỏi tiệm vá",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chăm xe máy mùa nắng nóng Hà Nội: lốp, nhớt, phanh và ắc quy cần để ý gì",
+          "intent": "Biết nhiệt độ cao tác động tới lốp, nhớt, phanh và ắc quy ra sao và những kiểm tra ngắn nên làm vào mùa nắng.",
+          "kw": "chăm xe máy mùa nắng nóng",
+          "kw2": [
+            "xe máy mùa hè cần kiểm tra gì",
+            "lốp xe máy bị nóng",
+            "nhớt xe máy mùa nóng"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe đi hằng ngày vào các tháng hè nóng gắt ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đĩa phanh xe máy cong vênh hoặc mòn lõm: nhận biết qua tay phanh rung",
+          "intent": "Nhận ra đĩa phanh cong hoặc mòn không đều qua rung tay phanh và tiếng cọ theo vòng quay, biết khi nào nên báo cửa hàng.",
+          "kw": "đĩa phanh xe máy bị cong",
+          "kw2": [
+            "tay phanh bị rung khi bóp",
+            "đĩa phanh mòn lõm",
+            "phanh đĩa kêu theo vòng quay"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe thấy tay phanh rung hoặc phanh trước kêu theo nhịp vòng bánh",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tay ga xe máy nặng hoặc trả về chậm: dấu hiệu dây ga khô và cách xử lý",
+          "intent": "Nhận ra tay ga nặng, kẹt hay trả chậm do dây ga khô hoặc gập, hiểu rủi ro khi ga không về kịp và khi nào báo cửa hàng.",
+          "kw": "tay ga xe máy bị nặng",
+          "kw2": [
+            "tay ga không tự về",
+            "dây ga xe máy bị kẹt",
+            "bôi trơn dây ga xe máy"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe thấy tay ga cứng hoặc chậm trả khi nhả",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Cầu chì xe máy: tìm ở đâu, dấu hiệu cháy và vì sao không thay bằng dây đồng",
+          "intent": "Biết hộp cầu chì thường nằm đâu trên xe máy, nhận ra dấu hiệu cầu chì cháy và hiểu vì sao tuyệt đối không dùng dây đồng hay cầu chì lớn hơn.",
+          "kw": "cầu chì xe máy cháy",
+          "kw2": [
+            "hộp cầu chì xe máy ở đâu",
+            "xe máy mất điện đột ngột",
+            "thay cầu chì xe máy"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe bị mất đèn hoặc mất đề đột ngột, muốn biết có phải do cầu chì",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xi nhan chớp nhanh bất thường hoặc không chớp: bóng cháy, tiếp xúc kém hay rơ le",
+          "intent": "Hiểu vì sao xi nhan chớp nhanh hơn thường lệ hoặc không chớp, kiểm tra theo thứ tự đơn giản và biết khi nào cần báo cửa hàng.",
+          "kw": "xi nhan xe máy chớp nhanh",
+          "kw2": [
+            "xi nhan không chớp",
+            "bóng xi nhan bị cháy",
+            "rơ le xi nhan xe máy"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe thấy xi nhan chớp nhanh hơn bình thường",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chỉnh góc chiếu đèn pha xe máy: vì sao pha chói người đối diện hoặc soi không xa",
+          "intent": "Hiểu đèn pha chiếu quá cao hay quá thấp ảnh hưởng thế nào, cách kiểm tra nhanh vào buổi tối trước bức tường và khi nào nhờ cửa hàng chỉnh.",
+          "kw": "chỉnh góc chiếu đèn pha xe máy",
+          "kw2": [
+            "đèn pha xe máy chói mắt người đối diện",
+            "đèn pha chiếu quá cao",
+            "kiểm tra góc chiếu đèn pha"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe hay đi buổi tối, thấy pha soi không xa hoặc bị xe đối diện chớp pha",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe phun xăng điện tử có cần vệ sinh kim phun định kỳ không: khi nào nên làm",
+          "intent": "Hiểu vệ sinh kim phun để làm gì, dấu hiệu thật sự cần làm (hụt ga, hao xăng, nổ không đều) và khi nào chỉ cần dùng xe bình thường.",
+          "kw": "vệ sinh kim phun xe máy",
+          "kw2": [
+            "vệ sinh kim phun bao lâu một lần",
+            "xe phun xăng điện tử hụt ga",
+            "súc kim phun có cần không"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe dài ngày nghe tiệm đề nghị vệ sinh kim phun và muốn biết có cần không",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Bơm khí nitơ cho lốp xe máy có đáng tiền không: lợi ích thật và giới hạn",
+          "intent": "Biết bơm nitơ cho lốp xe máy khác bơm hơi thường thế nào, lợi ích thực tế và giới hạn, để quyết định có nên làm hay không.",
+          "kw": "bơm nitơ lốp xe máy",
+          "kw2": [
+            "bơm khí nitơ có tốt không",
+            "nitơ và bơm hơi thường khác gì",
+            "lốp xe máy bơm nitơ"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe dài ngày nghe tiệm mời bơm nitơ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiếng rè khi bật chìa xe phun xăng: bơm xăng chạy bình thường hay có vấn đề",
+          "intent": "Phân biệt tiếng bơm xăng chạy vài giây khi bật chìa là bình thường với tiếng to, kéo dài hay mất tiếng báo hiệu lỗi, và biết phản ứng ra sao.",
+          "kw": "tiếng bơm xăng xe máy kêu",
+          "kw2": [
+            "bơm xăng xe máy kêu to",
+            "bật chìa nghe tiếng rè",
+            "xe phun xăng không nổ máy"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê xe phun xăng điện tử nghe tiếng lạ khi bật chìa",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tự chăm xe thuê: việc nào làm được trong 10 phút, việc nào nên để thợ",
+          "intent": "Phân ranh giới rõ giữa việc người thuê nên tự làm (kiểm tra bằng mắt, bơm lốp, lau chùi) và việc phải để thợ hoặc cửa hàng xử lý.",
+          "kw": "tự chăm xe máy thuê",
+          "kw2": [
+            "việc nên tự làm khi thuê xe máy",
+            "tự sửa xe máy thuê được không",
+            "kiểm tra xe máy 10 phút"
+          ],
+          "links": [
+            "/xe-may/bao-duong-xe/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-11-R05",
+          "audience": "người thuê dài ngày muốn giữ xe tốt nhưng sợ làm sai",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
         }
       ]
     },
@@ -17265,6 +18366,276 @@
           "subtopic": "refill-2026-10-11-turbo-U",
           "audience": "người mới đi xe máy trong phố",
           "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Vào cua bằng xe máy: giảm tốc trước, nhìn ra cuối khúc cua rồi mới mở ga",
+          "intent": "Nắm quy trình vào, giữ và thoát khúc cua thông thường (đê, vòng cung trong phố, đường ngoại thành): giảm tốc trước, chọn đường chạy, nhìn xa, mở ga nhẹ khi ra cua.",
+          "kw": "cách vào cua xe máy",
+          "kw2": [
+            "kỹ thuật vào cua xe máy",
+            "vào cua xe máy cho người mới",
+            "nghiêng xe khi vào cua"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái hoặc khách du lịch lần đầu chạy xe máy qua đường có nhiều khúc cua",
+          "location_scope": "Hà Nội: đường đê ven sông Hồng, vòng cung trong phố, đường ngoại thành",
+          "word_target": 1300
+        },
+        {
+          "title": "Phanh giữa khúc cua: vì sao nên phanh xong rồi mới nghiêng xe",
+          "intent": "Hiểu vì sao bóp phanh gấp khi đang nghiêng dễ trượt bánh và cách xử lý khi buộc phải giảm tốc giữa cua: nhả ga, đỡ xe thẳng lên, phanh nhẹ và đều.",
+          "kw": "phanh giữa cua xe máy",
+          "kw2": [
+            "phanh khi đang nghiêng xe",
+            "phanh trước khi vào cua",
+            "xe trượt bánh khi phanh trong cua"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người đã chạy được xe nhưng còn giật mình bóp phanh gấp khi gặp cua bất ngờ",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Nhìn xa khi đi xe máy trong phố: mắt nhìn đâu để kịp xử lý tình huống",
+          "intent": "Tập thói quen nhìn xa vài xe phía trước, nhìn xuyên qua kính xe lớn và không dán mắt vào bánh xe trước hay ổ gà, để có thêm thời gian xử lý.",
+          "kw": "nhìn xa khi đi xe máy",
+          "kw2": [
+            "quét mắt khi đi xe máy",
+            "nhìn đâu khi chạy xe máy",
+            "tầm nhìn khi đi xe máy trong phố"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái hoặc khách lần đầu đi xe máy trong phố đông Hà Nội",
+          "location_scope": "Hà Nội, các trục phố đông xe",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi xe máy sát lề hay giữa làn: chọn vị trí trong làn theo từng đoạn đường",
+          "intent": "Chọn vị trí đi trong làn của mình phù hợp từng đoạn (đường rộng, đường có xe đỗ, gần ngã tư, đoạn nhiều nắp cống) để có khoảng hở hai bên và tránh điểm rủi ro ở mép đường.",
+          "kw": "xe máy sát lề hay giữa làn",
+          "kw2": [
+            "vị trí đi trong làn xe máy",
+            "đi sát lề có nguy hiểm không",
+            "chọn vị trí trong làn đường"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái ở Hà Nội hay lúng túng nên bám lề hay đi giữa dòng",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Chạy chậm mà không loạng choạng: ga nhẹ, phanh sau và ánh mắt khi kẹt xe",
+          "intent": "Biết cách giữ thăng bằng ở tốc độ rất thấp khi kẹt xe hay đi trong ngõ: giữ ga đều, kéo nhẹ phanh sau, nhìn xa thay vì nhìn bánh trước.",
+          "kw": "chạy xe máy chậm giữ thăng bằng",
+          "kw2": [
+            "đi xe máy chậm bị loạng choạng",
+            "giữ thăng bằng khi kẹt xe",
+            "kỹ thuật chạy chậm xe máy"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái hay bị chao đảo khi đi chậm trong dòng xe đông",
+          "location_scope": "Hà Nội, giờ cao điểm và ngõ nhỏ",
+          "word_target": 1200
+        },
+        {
+          "title": "Đi qua hàng ô tô đỗ ven đường: cửa xe bật mở và người bước ra giữa các xe",
+          "intent": "Nhận ra vùng nguy hiểm sát xe đỗ ven đường (cửa mở bất ngờ, người bước ra, xe đột ngột xuất phát) và chọn khoảng cách, tốc độ, ánh mắt để đi qua.",
+          "kw": "xe máy qua xe đỗ ven đường",
+          "kw2": [
+            "ô tô mở cửa bất ngờ xe máy",
+            "tránh cửa xe mở khi đi xe máy",
+            "đi sát xe đỗ ven đường"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người đi xe máy ở các phố Hà Nội hai bên đầy ô tô đỗ",
+          "location_scope": "Hà Nội, các phố hẹp có ô tô đỗ hai bên",
+          "word_target": 1200
+        },
+        {
+          "title": "Đọc ý định người đi xe xung quanh: dấu hiệu sắp rẽ, sắp tạt đầu hay sắp phanh",
+          "intent": "Học cách đoán hướng đi của xe máy, ô tô, người đi bộ xung quanh qua vai, đầu, bánh trước và khoảng hở để chủ động giảm tốc trước khi họ hành động.",
+          "kw": "dự đoán hành vi xe khác",
+          "kw2": [
+            "đọc ý định người đi đường",
+            "đi xe máy phòng thủ",
+            "xe tạt đầu bất ngờ"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái hay giật mình vì xe khác đột ngột rẽ hoặc tạt đầu",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đèn xanh vừa bật vẫn nhìn hai bên: thói quen một nhịp ở ngã tư đông xe",
+          "intent": "Tập thói quen nhìn trái phải một nhịp trước khi nhấc ga khi đèn vừa chuyển xanh, vì vẫn có xe vượt đèn muộn hoặc xe bám sát ra từ hướng khác.",
+          "kw": "đèn xanh vẫn nhìn hai bên",
+          "kw2": [
+            "xe vượt đèn đỏ lúc đèn xanh",
+            "ngã tư vừa chuyển xanh",
+            "nhìn hai bên trước khi qua ngã tư"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người đi xe máy ở ngã tư đông Hà Nội, nhất là người mới lái hay đi theo dòng",
+          "location_scope": "Hà Nội, các ngã tư đông xe",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe máy bị đổ nghiêng: cách một mình dựng xe lên mà không đau lưng",
+          "intent": "Biết các bước tắt máy, nhìn xăng tràn và dựng xe đổ lên đúng tư thế (đứng sát, gập gối, đẩy bằng chân) để không đau lưng, và khi nào nên nhờ người.",
+          "kw": "cách dựng xe máy bị đổ",
+          "kw2": [
+            "dựng xe máy bị ngã một mình",
+            "xe ga đổ nghiêng làm sao dựng",
+            "nâng xe máy đổ không đau lưng"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người thuê xe dáng nhỏ hoặc lần đầu để xe đổ ở bãi xe hay trong ngõ",
+          "location_scope": "Hà Nội, bãi gửi xe và ngõ nhỏ",
+          "word_target": 1200
+        },
+        {
+          "title": "Báo cho xe phía sau biết bạn giảm tốc: nhá phanh nhẹ và ra hiệu bằng tay",
+          "intent": "Dùng nhá phanh và ra hiệu tay đơn giản để cảnh báo xe phía sau khi giảm tốc, dừng đột ngột hoặc khi xi nhan khó thấy, và biết khi nào nên dùng.",
+          "kw": "ra hiệu tay khi đi xe máy",
+          "kw2": [
+            "nhá phanh báo xe sau",
+            "ra hiệu xin rẽ bằng tay",
+            "cảnh báo xe phía sau khi giảm tốc"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người đi xe máy trong phố Hà Nội hay bị xe phía sau áp sát",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tư thế điều khiển xe máy chắc tay: đặt tay, gối và bàn chân thế nào",
+          "intent": "Biết đặt tay, khuỷu, gối, hông và bàn chân đúng chỗ trên xe ga và xe số để điều khiển chắc khi phanh, vào cua và chạy chậm, không chỉ để đỡ mỏi.",
+          "kw": "tư thế lái xe máy đúng",
+          "kw2": [
+            "cách cầm tay lái xe máy",
+            "đặt chân khi lái xe số",
+            "tư thế ngồi lái xe ga"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái và khách du lịch muốn ngồi xe cho chắc và an toàn",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Quen đi bên trái đường, lần đầu đi xe máy ở Hà Nội: những phản xạ cần đổi",
+          "intent": "Biết những phản xạ dễ sai của người quen đi bên trái đường (nhìn sang trái trước, vào vòng xuyến ngược chiều, rẽ sai làn) và cách tập đổi ngay từ ngày đầu ở Hà Nội.",
+          "kw": "lái xe máy bên phải lần đầu",
+          "kw2": [
+            "khách quen đi bên trái đường thuê xe máy",
+            "vòng xuyến ngược chiều",
+            "phản xạ khi đổi chiều đi đường"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "khách đến từ nước đi bên trái đường (Anh, Úc, Nhật, Thái Lan...) lần đầu tự lái xe máy ở Hà Nội",
+          "location_scope": "Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Chọn tốc độ theo đoạn đường nhìn thấy: dừng được trong tầm mắt khi đi xe máy",
+          "intent": "Hiểu nguyên tắc chọn tốc độ sao cho dừng được trong đoạn đường nhìn rõ là trống, áp dụng ở khúc khuất, đầu ngõ, đường đê, ban đêm và đường ướt mà không dựa vào con số.",
+          "kw": "chọn tốc độ khi đi xe máy",
+          "kw2": [
+            "tốc độ an toàn xe máy",
+            "đi chậm ở chỗ khuất tầm nhìn",
+            "quãng dừng xe máy"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người mới lái và khách du lịch hay chạy theo dòng mà chưa biết chọn tốc độ theo điều kiện",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Ga bị kẹt không nhả khi đang chạy: tắt máy, bóp phanh và dừng xe an toàn",
+          "intent": "Biết phản ứng từng bước khi tay ga kẹt mở và xe không giảm tốc: giữ bình tĩnh, bóp phanh, tắt máy rồi tấp vào lề, và nên làm quen công tắc tắt máy ngay ngày đầu.",
+          "kw": "tay ga bị kẹt khi đang chạy",
+          "kw2": [
+            "xe máy bị kẹt ga phải làm gì",
+            "tắt máy khi đang chạy",
+            "xe tự tăng tốc không nhả ga"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người thuê xe muốn biết trước cách xử lý tình huống hiếm nhưng nguy hiểm này",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gương cầu lồi ở góc ngõ và lối ra hầm: đọc đúng khoảng cách xe đang tới",
+          "intent": "Biết gương cầu lồi làm vật trông nhỏ và xa hơn thực tế, cách đọc xe đang tới qua gương, và kết hợp tốc độ chậm, còi nhẹ khi gương mờ hoặc không có.",
+          "kw": "gương cầu lồi ở góc ngõ",
+          "kw2": [
+            "đọc gương cầu lồi khi đi xe máy",
+            "gương cầu lồi lối ra hầm",
+            "rẽ qua góc ngõ khuất"
+          ],
+          "links": [
+            "/ky-nang/ky-nang-lai-co-ban/",
+            "/ky-nang/"
+          ],
+          "subtopic": "refill-2026-10-11-R06",
+          "audience": "người đi xe máy trong ngõ và khu chung cư Hà Nội, nơi nhiều góc khuất",
+          "location_scope": "Hà Nội: ngõ nhỏ, lối ra hầm chung cư",
           "word_target": 1200
         }
       ]
