@@ -28,7 +28,7 @@ So sánh nhanh cho dễ hình dung: trên xe số, bạn còn có thể bấm c�
 
 Thứ hỏng trước tiên thường là bugi: đề nhiều mà không có xăng cháy, dầu thừa bám cực bugi khiến cực ướt, do đó sau khi đổ xăng, máy vẫn khó nổ hoặc nổ không đều. Thứ hai là lọc xăng và đường dẫn: khi bình gần kiệt, bơ hút cả phần cặn, bụi và giọt nước đọng ở đáy bình, đẩy lên lọc, về lâu làm nghẽn và cần được vệ sinh.
 
-Thứ ba mới là mô tơ đề và ắc quy: các lần đề dài liên tục làm mô tơ nóng, ắc quy tụt sâu, và ở giai đoạn này nhiều xe rơi vào vòng luẩn quẩn là đề càng yếu càng khó nổ. Tổng lại, nếu buộc phải xếp thứ tự, bugi chịu trước, lọc xăng chịu sau, còn mô tơ đề chỉ hao rõ khi bạn cố đề quá đà.
+Thứ ba mới là mô tơ đề và ắc quy: các lần đề dài liên tục làm mô tơ nóng, ắc quy tụt sâu, và ở giai đoạn này nhiều xe rơi vào vòng luẩn quẩn là đề càng yếu càng khó nổ. Tóm lại, nếu buộc phải xếp thứ tự, bugi chịu trước, lọc xăng chịu sau, còn mô tơ đề chỉ hao rõ khi bạn cố đề quá đà.
 
 ## Cách đề đúng khi bình gần cạn
 

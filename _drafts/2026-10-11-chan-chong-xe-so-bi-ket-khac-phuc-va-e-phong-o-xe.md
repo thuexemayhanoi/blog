@@ -28,7 +28,7 @@ Nguyên nhân thứ ba là tay khóa định vị mòn: cơ cấu cài giữ tr�
 
 Mức một, kẹt khi hạ nhưng vẫn dùng được: trụ đi cứng, có tiếng rít nhẹ, nhưng vẫn hạ hết cỡ và cài chặt. Mức hai, trụ không thu về được: hạ xuống ổn nhưng khi nhấc xe, trụ lì ra không bật, bạn phải kéo bằng tay. Mức ba, kẹt lỏng và nguy hiểm nhất: trụ hạ xuống nhưng không cài, chỉ cần xe nghiêng chút là trụ gập lên như không có chống.
 
-Cách kiểm tra tại chỗ mất mười giây: nhấn trụ xuống hết hành trình hai ba lần, nghe có tiếng rít hay lục cục, lắc nhẹ trụ khi đã hạ để xem có đong đưa không. Nếu trụ hạ xuống mà lắc được, đừng tin rằng xe đứng yên an toàn, vì trọng lượng xe chỉ cần nghiêng qua một bên là trụ tự gập.
+Cách kiểm tra tại chỗ chỉ mất mười giây: nhấn trụ xuống hết hành trình hai ba lần, nghe có tiếng rít hay lục cục, lắc nhẹ trụ khi đã hạ để xem có đong đưa không. Nếu trụ hạ xuống mà lắc được, đừng tin rằng xe đứng yên an toàn, vì trọng lượng xe chỉ cần nghiêng qua một bên là trụ tự gập.
 
 Tiếng cũng là dữ kiện có ích: rít khô nhẹ khi hạ trụ thường là bụi hoặc thiếu dầu, tiếng lục cục gần khớp có thể là chốt mòn, còn trụ im lặng nhưng đong đưa là cơ cấu cài đã lửng. Cách nghe đơn giản là hạ trụ chậm ở đoạn đường yên tĩnh, tai lại gần khớp trụ, trước khi xe chở đồ hoặc ở nơi ồn ào.
 

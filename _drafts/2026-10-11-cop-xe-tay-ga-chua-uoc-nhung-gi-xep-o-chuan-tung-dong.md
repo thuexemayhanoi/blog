@@ -24,7 +24,7 @@ Nhóm xe ga nhỏ gọn, kiểu như các mẫu phổ biến dành cho đô th�
 
 Nhóm xe ga cỡ trung và cỡ lớn có cốp sâu hơn: nón ba phần tư đặt được thoải mái, phần còn lại đủ cho áo mưa, áo khoác mỏng và một vài túi nhỏ. Với nhóm này, giới hạn thực tế thường không nằm ở thể tích cốp mà ở cách xếp: đồ cồng kềnh như hộp bánh hay chậu cây thì cốp nào cũng bất lực, còn các giải pháp bên ngoài như móc treo cần buộc chắc chắn và không nên dùng với đồ nóng dễ đổ.
 
-Nói thêm về nón bảo hiểm, kích cỡ nón quyết định gần như một nửa thể tích còn lại của cốp. Nón nửa đầu để được gọn, nón ba phần tư cỡ lớn chiếm gần hết cốp nhóm xe nhỏ. Nếu nhà bạn có nhiều nón, chọn nón gọn cho chuyến đi bằng xe ga nhỏ là lựa chọn thực tế nhất.
+Nói thêm về nón bảo hiểm, kích cỡ nón quyết định gần như một nửa thể tích còn lại của cốp. Nón nửa đầu để được gọn, nón ba phần tư cỡ lớn chiếm gần hết cốp nhóm xe nhỏ. Nếu bạn có nhiều nón, chọn nón gọn cho chuyến đi bằng xe ga nhỏ là lựa chọn thực tế nhất.
 
 ## Xếp đồ trong cốp xe ga đúng cách
 
