@@ -14,7 +14,7 @@ article_id: BLG-01998
 writer: W1
 ---
 
-Xe điện thuê bật nguồn nhưng không nhận tay ga là một trong những tình huống gây hoảng nhất với khách chưa quen xe máy điện: đèn màn hình sáng, còi vẫn bấm được, nhưng vặn ga thì xe im lặng. Với xe xăng, "không nổ máy" ta còn đoán được vài nguyên nhân quen thuộc; với xe điện có điện nhưng không chạy, phần lớn khách không biết bắt đầu từ đâu và dễ làm sai hai việc: tự tháo nắp sườn xem mạch, hoặc cùng lúc có thể phải đẩy xe cả đoạn đường trong khi có thể chỉ cần một thao tác nhỏ. Bài viết này đi qua trình tự xử lý an toàn từng bước, các nguyên nhân thường gặp, và cách báo cửa hàng để được hỗ trợ nhanh nhất.
+Xe điện thuê bật nguồn nhưng không nhận tay ga là tình huống gây hoảng: đèn màn hình sáng, còi vẫn bấm được, nhưng vặn ga thì xe im lặng. Với xe xăng không nổ máy ta đoán được vài nguyên nhân quen; với xe điện thuê không nhận tay ga, phần lớn khách không biết bắt đầu từ đâu và dễ làm sai hai việc: tự tháo nắp sườn xem mạch, hoặc cùng lúc có thể phải đẩy xe cả đoạn đường trong khi có thể chỉ cần một thao tác nhỏ. Bài viết này đi qua trình tự xử lý an toàn từng bước, các nguyên nhân thường gặp, và cách báo cửa hàng để được hỗ trợ nhanh nhất.
 
 Các tình huống sự cố khác trong kỳ thuê đã được gộp chung ở chuyên mục [sự cố khi thuê xe](/thue-xe/su-co/); bài này chỉ xử lý đúng hiện tượng xe điện đã bật nguồn nhưng ga không phản ứng.
 
@@ -24,16 +24,22 @@ Các tình huống sự cố khác trong kỳ thuê đã được gộp chung �
 
 Ngược lại, nếu màn hình sáng yếu, chớp hoặc báo pin gần cạn, thì vấn đề trước hết là năng lượng: xe máy điện có điện nhưng không chạy đôi khi chỉ là pin đã tụt dưới ngưỡng bảo vệ, bộ điều khiển từ chối cấp dòng lớn cho động cơ. Hai nhóm này dẫn tới hai cách xử lý khác nhau, nên đừng bỏ qua bước quan sát màn hình.
 
-## Trình tự kiểm tra an toàn tại chỗ
+## Quy trình xử lý an toàn khi xe điện thuê không nhận tay ga
 
-Với xe máy điện thuê, hãy làm theo lần lượt bảy bước dưới đây, đứng xe tại nơi an toàn, dùng xe chống chân hoặc nhờ người giữ:
+Với xe máy điện thuê ở Hà Nội, hãy làm theo lần lượt bảy bước dưới đây, đứng xe tại nơi an toàn, dùng xe chống chân hoặc nhờ người giữ:
 
 1. Tắt nguồn hoàn toàn, đợi khoảng mười giây, bật lại. Nghe bộ điều khiển khởi động lại: nhiều mẫu xe điện có lái tự reset lỗi nhỏ sau lần bật lại này.
+
 2. Kiểm tra khóa: nếu xe dùng khóa từ hoặc thẻ, rút ra lau sạch rồi gắn lại cho tới khi có tiếng bíp nhận khóa.
+
 3. Xem tay ga về đúng vị trí nghỉ: ga bị kẹt không tự trả về vị trí 0 cũng khiến bộ điều khiển từ chối chạy để bảo vệ. Vặn nhẹ ga vài lần, cảm nhận độ trả.
+
 4. Kiểm tra hai tay phanh: một số xe điện yêu cầu bóp nhẹ phanh trước khi vặn ga lần đầu (chức năng khởi động an toàn). Thử bóp phanh, giữ, rồi vặn ga.
+
 5. Xem màn hình báo lỗi: mã lỗi hoặc biểu tượng chấm than trên màn hình là thông tin quan trọng nhất khi gọi hỗ trợ; chụp lại màn hình.
+
 6. Quan sát chân chống: nhiều xe điện từ chối chạy khi chân chống chưa gập lên, đèn báo chân chống trên màn hình cho biết rõ.
+
 7. Kiểm tra tình trạng sạc và dây: nếu pin tháo rời được, xem pin đã khớp khoá vào sàn xe chưa, các cực tiếp xúc có bị lỏng không.
 
 không thử vận may với mạch điện: xe điện thuê thuộc cửa hàng, bạn đang trong hợp đồng, và mọi can thiệp sai có thể biến một lỗi nhỏ thành lỗi lớn theo cả nghĩa kỹ thuật lẫn nghĩa trách nhiệm hợp đồng.
@@ -43,7 +49,9 @@ không thử vận may với mạch điện: xe điện thuê thuộc cửa hàn
 Ba việc khách hay làm sai nhất với xe điện thuê:
 
 - Tháo nắp sườn hay tháo pin xem mạch: rủi ro điện, làm hỏng thêm, và vi phạm hợp đồng thuê.
+
 - Đẩy xe chạy đề hoặc nhờ xe khác kéo cho nổ: xe máy điện không có cơ chế truyền lực ngược như xe xăng; kéo kéo đẩy không giúp gì mà hại động cơ.
+
 - Kết nối sạc thử bằng sạc không đúng loại ở quán ven đường: sạc không khớp điện áp hoặc đầu cắm có thể làm hỏng cả pin.
 
 Thay vào đó, bước đúng tiếp theo luôn là gọi cửa hàng.
