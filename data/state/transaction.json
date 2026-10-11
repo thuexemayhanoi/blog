@@ -1,19 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T06:01:40+00:00",
+  "updated_at": "2026-10-11T06:03:47+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02044",
-      "started_at": "2026-10-11T05:02:00+00:00",
-      "source": "_drafts/2026-10-11-at-coc-thue-xe-may-cho-khach-quoc-te-ngoai-te-va-chuyen-khoan.md",
-      "destination": "_posts/2026-10-11-at-coc-thue-xe-may-cho-khach-quoc-te-ngoai-te-va-chuyen-khoan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "5c6ec71a3dfb69a95c825f388aa7f51ac2d5af96",
-      "finished_at": "2026-10-11T05:02:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-02045",
       "started_at": "2026-10-11T05:22:48+00:00",
@@ -275,6 +264,17 @@
       "result": "PUBLISHED",
       "commit_sha": "fd8b3d2ddb247522e05b502ae7bde4c73659c2e3",
       "finished_at": "2026-10-11T06:01:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-02070",
+      "started_at": "2026-10-11T06:03:47+00:00",
+      "source": "_drafts/2026-10-11-honda-wave-tieu-hao-xang-bao-nhieu-tren-100km.md",
+      "destination": "_posts/2026-10-11-honda-wave-tieu-hao-xang-bao-nhieu-tren-100km.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e6b415bb60dc6160c6e71ab2f380ac67334103a1",
+      "finished_at": "2026-10-11T06:03:47+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
