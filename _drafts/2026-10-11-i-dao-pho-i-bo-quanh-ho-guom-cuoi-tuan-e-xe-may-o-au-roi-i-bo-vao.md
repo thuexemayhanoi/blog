@@ -40,7 +40,7 @@ Nếu đi nhóm, cả nhóm nên gửi vào cùng một bãi thay vì mỗi ngư
 
 Dòng người quanh hồ thường dày nhất từ tám đến mười giờ tối, sau đó thưa dần. Đây cũng là lúc mọi bãi quanh hồ đồng loạt đông lại người đến lấy xe. Nếu muốn về gọn, hãy đi lấy xe sớm hai mươi phút so với dự định, và hẹn người cùng đi ở một điểm cụ thể bên ngoài mép bãi, đừng hẹn ngay trước cửa bãi vì lúc đó chật cứng cả người lẫn xe.
 
-Tối muộn, một số bãi vỉa hè chỉ còn lại người trông trực. Cầm theo đèn điện thoại khi đi lấy xe vì bãi trong ngõ khá tối, và nhớ đường quay ra phố chính để khỏi rẽ nhầm vào ngõ cụt giữa phố cổ.
+Tối muộn, một số bãi vỉa hè chỉ còn lại người trông trực. Cầm theo đèn điện thoại khi đi lấy xe vì bãi trong ngõ khá tối, và nhớ đường quay ra phố chính để khỏi rẽ nhầm vào ngõ cụt giữa phố cổ. Với bãi trong ngõ, nên ghi lại tên phố ở lối vào, vì nhiều ngõ quanh hồ về đêm trông gần giống nhau.
 
 Nếu còn hứng, sau khi lấy xe bạn có thể chạy thêm vòng về phía Hồ Tây, [cung đường chạy quanh Hồ Tây](/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/) có gợi ý điểm dừng và chỗ để xe. Còn nếu ra về qua phố cổ thì nên di chuyển chậm, đường vắng người dễ đi nhanh hơn ban ngày, và bài về [chạy xe máy trong phố cổ](/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/) có nhắc những khung giờ nên tránh.
 

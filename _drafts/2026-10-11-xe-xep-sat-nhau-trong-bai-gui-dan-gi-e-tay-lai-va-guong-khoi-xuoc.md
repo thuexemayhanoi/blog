@@ -42,7 +42,7 @@ Không treo mũ bảo hiểm lên gương khi bãi chật, vì người lôi xe 
 
 ## Giờ tan: lúc nào bãi dễ xước nhất
 
-Giờ tan là lúc rủi ro cao nhất: người lôi xe vội, có người đề máy nổ ngay trong hàng chật làm xe giật, gương xe bên bị quẹt. Vì vậy khi nhận xe, đừng kéo thẳng ra mà lùi từng nhịp, tay đỡ yên, chân ý thức đường sau. Đề máy khi nào đầu xe đã thoát khỏi hàng. Đi chậm thêm chục mét cho người sau lôi xe của họ.
+Giờ tan là lúc rủi ro cao nhất: người lôi xe vội, có người đề máy nổ ngay trong hàng chật làm xe giật, gương xe bên bị quẹt. Vì vậy khi nhận xe, đừng kéo thẳng ra mà lùi từng nhịp, tay đỡ yên, chân ý thức đường sau. Đề máy khi nào đầu xe đã thoát khỏi hàng. Đi chậm thêm chục mét cho người sau lôi xe của họ. Nếu bãi có lối ra vào riêng cho xe máy, đỗ gần mép lối đó, người trông sẽ ít phải kéo xe của bạn ra cho xe khác đi qua.
 
 Kinh nghiệm gửi xe ở bãi đông quanh các khu đi dạo, như bài về [gửi xe khi đi dạo quanh Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/), cũng cùng nguyên tắc: đến sớm chọn chỗ, gập gương trước khi rời.
 

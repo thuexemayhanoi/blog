@@ -47,7 +47,7 @@ Với các chuyến đi vùng ven, sân homestay đất sau một đêm sương 
 
 Tấm kê không cần cầu kỳ, chỉ cần phẳng, cứng và to hơn bàn chân một chút. Tấm gỗ dày không mối, tấm lót sàn, nắp hộp phẳng lớn đều dùng được. Tránh kính vỡ, kim loại sắc hoặc tấm quá mỏng vì sẽ thủng dưới sức nặng của xe. Kê xong, đẩy nhẹ vai xe một nhịp để chắc tấm không xê dịch.
 
-Nếu hay phải đỗ ngoài đường, có thể để sẵn trong cốp một tấm lót nhỏ, chiếm chút chỗ nhưng lần nào cần cũng có ngay, khỏi phải lùng sùng tìm miếng bìa quanh chỗ đỗ.
+Nếu hay phải đỗ ngoài đường, có thể để sẵn trong cốp một tấm lót nhỏ, chiếm chút chỗ nhưng lần nào cần cũng có ngay, khỏi phải lùng sùng tìm miếng bìa quanh chỗ đỗ. Xe càng đứng lâu thì chân chống càng lún sâu, nên với những chỗ đỗ cả ngày, tấm kê to bản hơn luôn đáng chỗ chiếm.
 
 ## Ưu tiên chỗ nào khi chọn nền đỗ
 

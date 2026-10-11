@@ -42,7 +42,7 @@ Mùa lễ hội sau Tết là lúc đông nhất, nhưng chùa Hương ngày th�
 
 Mùa lễ hội, mỗi xe một vé, mỗi người một vé thuyền tùy bến. Cất vé xe vào túi quần hoặc ví, không kẹp lên tay lái. Nếu đi nhóm, phân một người giữ vé xe của cả nhóm để khỏi lo mỗi người một mép. Chụp ảnh biển số và vị trí xe ngay lúc gửi, thói quen này đỡ cho bạn cả buổi đi lễ vì khỏi thấp thỏm nghĩ tới lúc tìm xe.
 
-Trên người chỉ nên mang đồ nhẹ. Đồ thừa để lại trong cốp xe nhưng không để thứ gì lộ ra ngoài, và khóa cổ xe cẩn thận. Kinh nghiệm về [thuê xe máy cho người mang balo đi du lịch dài](/hoi-dap/2026/10/11/thue-xe-may-cho-nguoi-co-balo-du-lich-lon-nen-chon-kieu-xe-nao/) có nhắc cách chọn xe gọn gàng cho những chuyến như vậy.
+Trên người chỉ nên mang đồ nhẹ. Đồ thừa để lại trong cốp xe nhưng không để thứ gì lộ ra ngoài, và khóa cổ xe cẩn thận. Trước khi lên thuyền, kéo mũ bảo hiểm vào cốp thay vì để hắt trên yên, vì bến đông, người qua lại dễ va. Kinh nghiệm về [thuê xe máy cho người mang balo đi du lịch dài](/hoi-dap/2026/10/11/thue-xe-may-cho-nguoi-co-balo-du-lich-lon-nen-chon-kieu-xe-nao/) có nhắc cách chọn xe gọn gàng cho những chuyến như vậy.
 
 ## Canh giờ về: lấy xe trước khi chạng vạng
 
