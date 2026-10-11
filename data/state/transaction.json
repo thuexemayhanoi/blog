@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-11T03:49:18+00:00",
+  "updated_at": "2026-10-11T03:53:09+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01972",
-      "started_at": "2026-10-10T21:31:21+00:00",
-      "source": "_drafts/2026-10-10-xe-so-giat-cuc-khi-vao-so-chinh-lai-tung-buoc.md",
-      "destination": "_posts/2026-10-10-xe-so-giat-cuc-khi-vao-so-chinh-lai-tung-buoc.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f102326bb992042c92dacfaac7ff2c9cb04d2a3a",
-      "finished_at": "2026-10-10T21:31:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01973",
-      "started_at": "2026-10-10T21:31:27+00:00",
-      "source": "_drafts/2026-10-10-xe-ga-rung-nhe-khi-tang-toc-hieu-nguyen-nhan.md",
-      "destination": "_posts/2026-10-10-xe-ga-rung-nhe-khi-tang-toc-hieu-nguyen-nhan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f102326bb992042c92dacfaac7ff2c9cb04d2a3a",
-      "finished_at": "2026-10-10T21:31:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01974",
       "started_at": "2026-10-10T21:31:27+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "93defb9746d07a47d49d4a016e91753eb161da01",
       "finished_at": "2026-10-11T03:49:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01997",
+      "started_at": "2026-10-11T03:53:09+00:00",
+      "source": "_drafts/2026-10-11-xe-may-thue-rung-tay-lai-tren-uong-xau-nen-lam-gi.md",
+      "destination": "_posts/2026-10-11-xe-may-thue-rung-tay-lai-tren-uong-xau-nen-lam-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b50d2137744909781061c7049a352441ff158b03",
+      "finished_at": "2026-10-11T03:53:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01998",
+      "started_at": "2026-10-11T03:53:09+00:00",
+      "source": "_drafts/2026-10-11-xe-ien-thue-bat-nguon-nhung-khong-nhan-tay-ga-cach-xu-ly-an-toan.md",
+      "destination": "_posts/2026-10-11-xe-ien-thue-bat-nguon-nhung-khong-nhan-tay-ga-cach-xu-ly-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b50d2137744909781061c7049a352441ff158b03",
+      "finished_at": "2026-10-11T03:53:09+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
