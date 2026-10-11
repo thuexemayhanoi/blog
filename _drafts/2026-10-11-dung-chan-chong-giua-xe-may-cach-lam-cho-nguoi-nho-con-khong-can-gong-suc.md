@@ -57,7 +57,7 @@ Khi nhận lại xe từ hàng chật, cũng chú ý gạt chân chống giữa 
 
 Đừng đợi tới lúc đứng giữa bãi đông mới lần đầu thử. Cuối tuần, đưa xe ra sân hoặc bãi vắng có nền bê tông, tập đúng sáu bước trên chậm rãi vài lượt. Nhờ người nhà xem giúp tư thế: vai có nhô quá không, chân trụ có thẳng không, cú đạp có dứt khoát không.
 
-Nếu nhà có hai loại xe số và xe ga, tập với xe ga là chuẩn hơn vì nó nặng và cao hơn. Mười lăm phút mỗi tối cuối tuần, sau chục lượt là đủ để cơ thể nhớ động tác. Kết hợp tập luôn việc hạ xe ra khỏi chân chống giữa: đẩy xe về phía trước một nhịp cho chân chống tự rơi xuống, rồi dắt xe đi vài bước cho quen cả hai chiều.
+Nếu nhà có hai loại xe số và xe ga, tập với xe ga là chuẩn hơn vì nó nặng và cao hơn. Mười lăm phút mỗi tối cuối tuần, sau chục lượt là đủ để cơ thể nhớ động tác. Kết hợp tập luôn việc hạ xe ra khỏi chân chống giữa: đẩy xe về phía trước một nhịp cho chân chống tự rơi xuống, rồi dắt xe đi vài bước cho quen cả hai chiều. Tập cả trên nền hơi nghiêng nhẹ nữa, vì nhiều bãi xe thực tế không phẳng trọn vẹn như sân tập.
 
 ## Lỗi hay gặp và cách tránh
 
