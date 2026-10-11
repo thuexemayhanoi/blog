@@ -161,9 +161,13 @@ def acquire_lock(holder):
 
 
 def txn_append(txn, entry, active, pending=None):
-    """APPEND history (có giới hạn), KHÔNG reset history cũ."""
-    hist = txn.get('history') or []
-    hist.append(entry)
+    """APPEND history (có giới hạn), KHÔNG reset history cũ. entry=None =
+    chỉ cập nhật cờ active/pending (đóng transaction): KHÔNG append phần
+    tử null (bản cũ làm history đầy `null` xen kẽ, HISTORY_MAX hiệu dụng
+    còn một nửa)."""
+    hist = [h for h in (txn.get('history') or []) if h]
+    if entry is not None:
+        hist.append(entry)
     txn['active'] = active
     txn['updated_at'] = now_iso()
     txn['pending'] = pending
