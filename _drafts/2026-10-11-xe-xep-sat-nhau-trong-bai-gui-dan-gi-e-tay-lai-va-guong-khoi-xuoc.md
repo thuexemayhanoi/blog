@@ -58,7 +58,7 @@ Tránh cãi to giữa bãi đông vì khó đi tới đâu; cần thiết thì t
 
 ## Chọn chỗ khi bãi còn thoáng
 
-Nếu đến sớm, hãy chọn mép hàng hoặc gần lối ra vào, nền phẳng, tránh ôm sát chân cột và mép hè vấp. Đừng chen vào khe hẹp giữa hai chiếc xe tay ga to, dù nhìn có vẻ vừa, vì cả bạn và người sau đều khó lôi xe ra. Chỗ đỗ thoáng mười giây lúc vào sẽ đỡ mười phút lúc ra.
+Nếu đến sớm, hãy chọn mép hàng hoặc gần lối ra vào, nền phẳng, tránh ôm sát chân cột và mép hè vấp. Đừng chen vào khe hẹp giữa hai chiếc xe tay ga to, dù nhìn có vẻ vừa, vì cả bạn và người sau đều khó lôi xe ra. Chỗ đỗ thoáng mười giây lúc vào sẽ đỡ mười phút lúc ra. Quan sát thêm chỗ người ta hay kéo lùi xe ra cũng hữu ích, vì đó chính là lối thoát chính của cả bãi.
 
 Cuối cùng, khi rời bãi nhớ quay lại nhìn một lần từ xa: xe đã đứng thẳng chưa, gương đã gập chưa, đồ đã vào cốp chưa. Ba giây đó tránh được kiểu sự cố ngớ ngẩn nhất là dạo xong hai tiếng mới phát hiện mũ vẫn còn treo trên gương.
 

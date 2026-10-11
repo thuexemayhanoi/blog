@@ -26,7 +26,7 @@ Cũng đừng vì tiếc vài phút đi bộ mà đỗ tạm trên vạch đi b�
 
 ## Ba kiểu bãi quen thuộc quanh khu hồ
 
-Một là bãi vỉa hè có bảng gửi xe ở các phố vành đai như Hàng Khay, Tràng Tiền, đầu phố cổ phía Hàng Đào, Đinh Liệt. Kiểu này gần hồ nhất nên tối muộn rất đông, xe xếp sát nhau, lấy ra lúc tan hơi mất công chờ. Hai là bãi trong các ngõ phố cổ, đi bộ xa hơn một chút nhưng thoáng xe hơn, thường do nhà dân mở và vẫn phát vé. Ba là bãi của toà nhà, chung cư hoặc trường học quanh khu vực, tối cuối tuần hay mở nhận giữ xe theo giờ, phù hợp nếu bạn định dạo trễ hoặc lỡ kẹt mưa.
+Một là bãi vỉa hè có bảng gửi xe ở các phố vành đai như Hàng Khay, Tràng Tiền, đầu phố cổ phía Hàng Đào, Đinh Liệt. Kiểu này gần hồ nhất nên tối muộn rất đông, xe xếp sát nhau, lấy ra lúc tan hơi mất công chờ. Hai là bãi trong các ngõ phố cổ, đi bộ xa hơn một chút nhưng thoáng xe hơn, thường do nhà dân mở và vẫn phát vé. Ba là bãi của toà nhà, chung cư hoặc trường học quanh khu vực, tối cuối tuần hay mở nhận giữ xe theo giờ, phù hợp nếu bạn định dạo trễ hoặc lỡ kẹt mưa. Quanh khu vực cũng có vài điểm giữ xe trong hầm toà nhà, khô ráo và thoáng hơn hẳn vỉa hè, đáng cân nhắc khi mưa kéo dài cả buổi.
 
 Với mọi kiểu bãi, thói quen nên giữ giống nhau: hỏi giờ đóng cửa, cầm vé trước khi rời, và chụp một tấm ảnh vị trí xe kèm điểm mốc gần đó như cột điện hay góc biển hiệu. Ảnh giúp bạn tìm xe nhanh khi bãi tan, đồng thời là căn cứ nếu có tranh chấp về xước móp. Bạn nên đọc thêm tổng hợp các [kỹ năng gửi và giữ xe máy](/ky-nang/gui-xe-va-giu-xe/) để hình thành thói quen này từ sớm.
 

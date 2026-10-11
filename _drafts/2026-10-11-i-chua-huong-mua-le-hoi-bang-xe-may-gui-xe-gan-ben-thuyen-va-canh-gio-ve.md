@@ -22,7 +22,7 @@ Chùa Hương thuộc xã Hương Sơn, huyện Mỹ Đức, cách trung tâm H�
 
 Nguyên tắc chọn chỗ trong bãi lớn: chụp ảnh biển số xe kèm một điểm mốc như rạp che, cột dây hoặc bảng số khu, vì chiều về bãi rộng thênh thang, đã mệt lại trời chạng vạng thì rất khó nhớ. Giữ vé như giữ vé thuyền, cất cùng ví, đừng kẹp lên yên xe rồi quên.
 
-Mùa lễ hội, bãi mở thêm các khu vành đai phía sau, đi bộ xa hơn chút nhưng dễ tìm xe hơn vì hàng ngắn. Nếu thấy khu trước đã xếp dày tới hai ba hàng sâu, cứ ra khu sau mà gửi, đổi hai mươi bước đi bộ lấy lại nửa tiếng chờ lôi xe khỏi hàng chật. Người trông thường đứng ở đầu hàng, cứ hỏi họ chỗ còn thoáng nhất.
+Mùa lễ hội, bãi mở thêm các khu vành đai phía sau, đi bộ xa hơn chút nhưng dễ tìm xe hơn vì hàng ngắn. Nếu thấy khu trước đã xếp dày tới hai ba hàng sâu, cứ ra khu sau mà gửi, đổi hai mươi bước đi bộ lấy lại nửa tiếng chờ lôi xe khỏi hàng chật. Người trông thường đứng ở đầu hàng, cứ hỏi họ chỗ còn thoáng nhất. Nếu định về muộn, nên dặn trước người trông để họ xếp xe ở hàng trong cùng, khỏi phải lói xuyên qua mấy lớp xe lúc trời tối.
 
 ## Từ Hà Nội đi chùa Hương bằng xe máy: cung đường và giờ đi
 
