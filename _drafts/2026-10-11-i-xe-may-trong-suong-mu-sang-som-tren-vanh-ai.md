@@ -48,7 +48,7 @@ Về phía sau, hãy bật xi nhan sớm và giảm tốc từ từ mỗi khi r�
 
 ## Về tới điểm đỗ: kiểm tra xe sau buổi sương
 
-Sương mang hơi ẩm ngấm khắp xe: kính mũ, gương, yên và cả khoang máy. Khi xuống xe, lau khô kính bằng khăn mềm, soi chóa đèn còn bám nước bụi hay không, và kiểm tra xích có bị ẩm để tra mỡ đúng lúc. Hơi ẩm buổi sớm đôi khi khiến máy nổ khó hơn với các xe cũ hoặc xe để qua đêm ngoài trời. Nếu bạn đi xe thuê và gặp hiện tượng máy chết giữa buổi sớm mù sương, trình tự xử lý từng bước trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua) áp dụng được cho cả môi trường ẩm đọng tương tự.
+Sương mang hơi ẩm ngấm khắp xe: kính mũ, gương, yên và cả khoang máy. Khi xuống xe, lau khô kính bằng khăn mềm, soi chóa đèn còn bám nước bụi hay không, và kiểm tra xích có bị ẩm để tra mỡ đúng lúc. Hơi ẩm buổi sớm đôi khi khiến máy nổ khó hơn với các xe cũ hoặc xe để qua đêm ngoài trời. Nếu bạn đi xe thuê và gặp hiện tượng máy chết giữa buổi sớm mù sương, trình tự xử lý từng bước trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap) áp dụng được cho cả môi trường ẩm đọng tương tự.
 
 ## Tổng kết
 

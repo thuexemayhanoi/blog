@@ -48,7 +48,7 @@ Hiểu lầm thứ ba là bật cốt cao cho rõ, trong khi cốt cao chỉ là
 
 ## Về đến nơi: kiểm tra xe sau buổi đi đêm mưa
 
-Sau chặng đêm qua nhiều vệt nước, nên kiểm tra xích và phanh khi về tới điểm đỗ: nước bắn lên có thể rửa trôi lớp mỡ cũ trên xích, còn má phanh ướt sẽ yếu đi vài phút đầu. Cho xe chạy chậm thêm một quãng ngắn, bóp phanh nhè nhẹ vài lần cho má phanh khô lại rồi mới vào đường nhanh. Với xe thuê, nếu máy chết giữa chặng đêm mưa dù đã né vũng sâu, trình tự xử lý trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua) giúp bạn xác định nguyên nhân trước khi cố nổ lại máy.
+Sau chặng đêm qua nhiều vệt nước, nên kiểm tra xích và phanh khi về tới điểm đỗ: nước bắn lên có thể rửa trôi lớp mỡ cũ trên xích, còn má phanh ướt sẽ yếu đi vài phút đầu. Cho xe chạy chậm thêm một quãng ngắn, bóp phanh nhè nhẹ vài lần cho má phanh khô lại rồi mới vào đường nhanh. Với xe thuê, nếu máy chết giữa chặng đêm mưa dù đã né vũng sâu, trình tự xử lý trong bài [xe thuê chết máy khi trời mưa](/xe-may/2026/09/29/xe-thue-chet-may-khi-troi-mua-nguyen-nhan-thuong-gap) giúp bạn xác định nguyên nhân trước khi cố nổ lại máy.
 
 ## Tổng kết
 
