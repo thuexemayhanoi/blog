@@ -1,30 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-10T22:03:16+00:00",
+  "updated_at": "2026-10-11T03:49:18+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-01970",
-      "started_at": "2026-10-10T20:42:56+00:00",
-      "source": "_drafts/2026-10-10-xe-may-thue-chet-may-giua-nga-tu.md",
-      "destination": "_posts/2026-10-10-xe-may-thue-chet-may-giua-nga-tu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "54cc0c0917fc8b151d6530c5ff7fde984e319056",
-      "finished_at": "2026-10-10T20:42:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
-    {
-      "article_id": "BLG-01971",
-      "started_at": "2026-10-10T21:31:21+00:00",
-      "source": "_drafts/2026-10-10-xe-thue-bi-tray-xuoc-nhe-khi-o-xe-xu-ly-ra-sao.md",
-      "destination": "_posts/2026-10-10-xe-thue-bi-tray-xuoc-nhe-khi-o-xe-xu-ly-ra-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f102326bb992042c92dacfaac7ff2c9cb04d2a3a",
-      "finished_at": "2026-10-10T21:31:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    null,
     {
       "article_id": "BLG-01972",
       "started_at": "2026-10-10T21:31:21+00:00",
@@ -275,6 +253,28 @@
       "result": "PUBLISHED",
       "commit_sha": "413ae46c14996aa9bdad444876ef1b99e6813198",
       "finished_at": "2026-10-10T22:03:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01995",
+      "started_at": "2026-10-11T03:49:18+00:00",
+      "source": "_drafts/2026-10-11-kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe.md",
+      "destination": "_posts/2026-10-11-kiem-tra-en-phanh-xe-may-thue-truoc-khi-nhan-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "93defb9746d07a47d49d4a016e91753eb161da01",
+      "finished_at": "2026-10-11T03:49:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    null,
+    {
+      "article_id": "BLG-01996",
+      "started_at": "2026-10-11T03:49:18+00:00",
+      "source": "_drafts/2026-10-11-nhan-xe-may-thue-luc-troi-mua-kiem-tra-lop-va-chan-bun.md",
+      "destination": "_posts/2026-10-11-nhan-xe-may-thue-luc-troi-mua-kiem-tra-lop-va-chan-bun.md",
+      "result": "PUBLISHED",
+      "commit_sha": "93defb9746d07a47d49d4a016e91753eb161da01",
+      "finished_at": "2026-10-11T03:49:18+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     },
     null
