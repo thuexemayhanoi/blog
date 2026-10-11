@@ -13,6 +13,7 @@ import csv
 import io
 import json
 import os
+import re
 import shutil
 import subprocess
 import sys
@@ -39,6 +40,45 @@ def git(cwd, *args, check=True, env=None, input=None):
     if check and r.returncode != 0:
         raise RuntimeError('git %s: %s' % (' '.join(args), r.stderr))
     return r
+
+
+def workflow_push_paths(workflow_file):
+    """`on.push.paths` của một workflow (danh sách flow một dòng, đúng cách
+    mọi workflow của repo này viết) — stdlib không có yaml."""
+    with open(workflow_file, encoding='utf-8') as f:
+        text = f.read()
+    m = re.search(r"^on:\s*\n(?:[ \t]+.*\n|\s*\n)*?[ \t]+push:\s*\n"
+                  r"(?:[ \t]{4,}.*\n)*?[ \t]+paths:\s*\[(.*?)\]", text, re.M)
+    if not m:
+        return None
+    return [p.strip().strip('\'"') for p in m.group(1).split(',') if p.strip()]
+
+
+def gh_path_match(patterns, path, dotfiles=False):
+    """Bộ lọc path kiểu GitHub: `*` = mọi ký tự trừ '/', `**` = mọi ký tự kể
+    cả '/'. dotfiles=False là cách đọc THẬN TRỌNG (như shell): wildcard
+    KHÔNG khớp dấu '.' đầu một path segment, nên file dotfile chỉ kích
+    workflow khi một pattern viết rõ dấu chấm đó — test không được dựa vào
+    việc GitHub có khớp dotfile bằng `**` hay không."""
+    def to_re(p):
+        out, i = [], 0
+        while i < len(p):
+            if p[i] == '*':
+                j = i
+                while j < len(p) and p[j] == '*':
+                    j += 1
+                deep = j - i >= 2
+                if dotfiles:
+                    out.append('.*' if deep else '[^/]*')
+                else:
+                    out.append('(?:[^.]|(?<=[^/])\\.)*' if deep
+                               else '(?:[^./]|(?<=[^/])\\.)*')
+                i = j
+            else:
+                out.append(re.escape(p[i]))
+                i += 1
+        return re.compile('^' + ''.join(out) + '$')
+    return any(to_re(p).match(path) for p in patterns)
 
 
 def make_matrix(n_planned=120, extra_rows=()):

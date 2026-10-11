@@ -48,6 +48,8 @@ import unittest
 
 ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.dirname(
     os.path.abspath(__file__)))))
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from sim_helpers import gh_path_match, workflow_push_paths  # noqa: E402
 PY = sys.executable
 
 IGNORE = shutil.ignore_patterns('__pycache__', '.git', '*.pyc')
@@ -1000,6 +1002,30 @@ class WorkflowTriggerContract(unittest.TestCase):
         y = wf_text('factory-publish.yml')
         self.assertIn("steps.select.outputs.refused == 'true'", y)
         self.assertIn('always()', y)
+
+    def test_nudge_triggers_publisher_even_if_wildcards_skip_dotfiles(self):
+        """writer-session.py confirm nudge publisher bằng `_drafts/.nudge-Wx`.
+        Việc GitHub có khớp dotfile bằng `**` hay không KHÔNG được kiểm chứng
+        offline => path filter phải viết rõ pattern của nudge; bộ lọc test
+        đọc THẬN TRỌNG (wildcard bỏ qua dotfile) nên chỉ pass khi pattern
+        tường minh còn đó. Đồng thời không được kích publisher quá rộng."""
+        paths = workflow_push_paths(
+            os.path.join(ROOT, '.github', 'workflows', 'factory-publish.yml'))
+        self.assertTrue(paths, 'khong doc duoc on.push.paths cua publisher')
+        # bản thân bộ lọc thận trọng: `_drafts/**` KHÔNG tự phủ dotfile
+        self.assertFalse(gh_path_match(['_drafts/**'], '_drafts/.nudge-W1'))
+        self.assertTrue(gh_path_match(['_drafts/**'], '_drafts/2026-10-11-a.md'))
+        for slot in ('W1', 'W2', 'W3'):
+            self.assertTrue(gh_path_match(paths, '_drafts/.nudge-%s' % slot),
+                            'nudge %s khong kich publisher: %s' % (slot, paths))
+        self.assertTrue(gh_path_match(paths, '_drafts/2026-10-11-a.md'))
+        self.assertTrue(gh_path_match(paths,
+                                      '.github/workflows/factory-publish.yml'))
+        for p in ('data/state/checkpoint.json', '_posts/2026-10-11-a.md',
+                  'reports/factory/factory-queue-last-run.json',
+                  'data/state/writer-claims.json', '_config.yml'):
+            self.assertFalse(gh_path_match(paths, p),
+                             'publisher khong duoc kich boi %s' % p)
 
 
 class EngineTestRunner(unittest.TestCase):

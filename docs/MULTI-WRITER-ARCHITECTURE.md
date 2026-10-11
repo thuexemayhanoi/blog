@@ -65,7 +65,7 @@ HELD ──release --all──► FREE            HELD ──hết hạn──�
 `concurrency: group: factory-publish, cancel-in-progress: false` giữ **một** run đang chạy + **một** run chờ; run chờ cũ bị **hủy** khi có run chờ mới (kể cả bởi `factory-refill.yml` cùng group). Trigger chỉ là gợi ý; **repo là hàng đợi**:
 1. mỗi run quét mọi draft trong `_drafts/` trên main mới nhất (tối đa 30 ID/run; draft không hợp lệ hoặc "độc" bị **cách ly**, không chặn draft khác; REPAIR chưa sửa được bỏ qua); push bị REFUSE vẫn drain backlog hợp lệ rồi mới làm đỏ run;
 2. run chờ bị hủy không mất gì — run sống sau sẽ publish draft của nó;
-3. nếu run chờ bị refill thay và không còn push nào sau đó, writer chạy `writer-session.py confirm` — tự **nudge** (`_drafts/.nudge-Wx`, không phải `.md`) để kích lại publisher.
+3. nếu run chờ bị refill thay và không còn push nào sau đó, writer chạy `writer-session.py confirm` — tự **nudge** (`_drafts/.nudge-Wx`, không phải `.md`) để kích lại publisher; path filter của workflow liệt kê `_drafts/.nudge-*` tường minh (không dựa vào việc `**` của GitHub có khớp dotfile) và test/mô phỏng dùng bộ lọc *thận trọng* nên pattern đó là bắt buộc.
 Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
 
 ## 5. Phục hồi
@@ -101,7 +101,7 @@ Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
 | # | Lỗi thật (đã repro offline) | Sửa ở | Chặn hồi quy bằng |
 |---|---|---|---|
 | P0-1 | một hàng REPAIR/WRITING/QA/PASS **bất kỳ** làm `prepare-next` bail ⇒ MỌI run đỏ, cả nhà máy đứng | `factory-operator.py` (`prepare-next --ids`), `factory-queue.py` (pair đồng nhất, chỉ publish tập PASS), resume-first PER-WRITER ở `writer-session.py begin` | sim S2, `test_factory_queue`, `test_writer_session` T27 |
-| P0-2 | run chờ bị hủy (kể cả bởi workflow refill) ⇒ draft nằm mãi trong `_drafts/` | `push-selection.py --backlog` (drain ≤30 ID/run), nudge `_drafts/.nudge-<slot>` | sim S1, S4, S7, `test_selector_drain`, `test_writer_session` T42 |
+| P0-2 | run chờ bị hủy (kể cả bởi workflow refill) ⇒ draft nằm mãi trong `_drafts/` | `push-selection.py --backlog` (drain ≤30 ID/run), nudge `_drafts/.nudge-<slot>` (+ pattern path filter tường minh) | sim S1, S4, S7, `test_selector_drain`, `test_writer_session` T42, `test_hardening` (nudge trigger contract) |
 | P0-3 | `git rebase` của publisher mang sửa đổi của writer qua rename `_drafts→_posts` ⇒ nội dung ≠ nội dung đã QA | `publisher-push.py` (guard giao path, sha256 trước/sau rebase, ≤3 rebase) | sim S6, `test_publisher_push` |
 | P1 | slot chỉ là tên; registry hỏng = rỗng; `mktime` lệch ±7h; REPAIR mất chủ; cap đá lease cũ nhất; không có CAS client; push không giới hạn path | `writer-claim.py` v2, `writer-session.py`, `validate.py` (check registry) | `test_writer_claim`, `test_writer_session` T01–T36 |
 | P2 | `writer-loop qa` thiếu whitelist số tiền; `txn_append(None)`; test không chạy trong CI; tên nhà cung cấp trong workflow/docs | `writer-loop.py`, `publish-gate.py`, job `engine-tests`, docs trung lập | `test_writer_loop`, `test_hardening` |

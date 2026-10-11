@@ -65,7 +65,10 @@ name: Factory Publish (chunked)
 on:
   push:
     branches: [main]
-    paths: ['_drafts/**', '.github/workflows/factory-publish.yml']
+    # `_drafts/.nudge-*` viết rõ dấu chấm: writer-session.py confirm nudge
+    # publisher bằng file này (không phải .md, selector bỏ qua) — không phụ
+    # thuộc việc `**` của GitHub có khớp dotfile hay không.
+    paths: ['_drafts/**', '_drafts/.nudge-*', '.github/workflows/factory-publish.yml']
 
 permissions:
   contents: write

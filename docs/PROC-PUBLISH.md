@@ -159,7 +159,7 @@ Repo là hàng đợi, trigger chỉ là gợi ý. GitHub giữ một run chờ 
 - Draft của ID đã PUBLISHED: bỏ qua sạch (no-op xanh), KHÔNG BAO GIỜ đụng lại bài đã publish.
 - Re-run của một push cũ (draft đã chuyển sang `_posts/`): no-op xanh, idempotent.
 - Run chờ bị run KHÁC workflow (refill) thay và không còn push nào sau đó: `writer-session.py confirm` tự nudge
-  (`_drafts/.nudge-Wx`), hoặc bất kỳ push draft kế tiếp sẽ drain.
+  (`_drafts/.nudge-Wx`; path filter có pattern tường minh `_drafts/.nudge-*`), hoặc bất kỳ push draft kế tiếp sẽ drain.
 
 ## Bằng chứng PASS khi xuất bản (publish-gate kiểm tra, không tự khai)
 

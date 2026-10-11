@@ -27,7 +27,12 @@ import time
 
 TESTS_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, TESTS_DIR)
-from sim_helpers import REPO_ROOT, git, parse_session_out  # noqa: E402
+from sim_helpers import (REPO_ROOT, git, gh_path_match,  # noqa: E402
+                         parse_session_out, workflow_push_paths)
+
+# `on.push.paths` của workflow publisher ĐANG TEST (không hard-code lại)
+PUBLISH_PATHS = workflow_push_paths(os.path.join(
+    REPO_ROOT, '.github', 'workflows', 'factory-publish.yml'))
 
 IGNORE = shutil.ignore_patterns('.git', '_site', '.jekyll-cache',
                                 '__pycache__', 'node_modules', 'vendor',
@@ -218,11 +223,12 @@ class EngineSim:
         return r.returncode, out
 
     def draft_commit_touches_drafts(self, sha):
+        """Lọc path ĐÚNG như `on.push.paths` của factory-publish.yml (đọc từ
+        file workflow đang test), cách đọc THẬN TRỌNG: wildcard không khớp
+        dotfile — nudge phải được pattern viết rõ."""
         names = git(self.origin, 'diff', '--name-only', '--no-renames',
                     '%s~1' % sha, sha).stdout.split()
-        return any(n.startswith('_drafts/') or
-                   n == '.github/workflows/factory-publish.yml'
-                   for n in names)
+        return any(gh_path_match(PUBLISH_PATHS, n) for n in names)
 
     def maybe_trigger(self, sha):
         if self.draft_commit_touches_drafts(sha):
