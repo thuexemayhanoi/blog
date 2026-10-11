@@ -20,7 +20,7 @@ Trên các tuyến vành đai Hà Nội lúc năm, sáu giờ sáng mùa thu đ�
 
 Vành đai là tuyến thông thoáng, hai bên không có dãy nhà chắn gió, nên sương không bị chia cắt mà dày đều trên mặt đường, nhiều khi lơ lửng thành từng lớp ngay tầm mắt người ngồi trên yên. Trong phố, bạn đi chậm và có lề đường làm mốc tham chiếu; trên vành đai, không gian rộng và trống khiến não bộ không có vật thể để ước lượng khoảng cách, tốc độ vì thế bị giữ theo quán tính của những ngày trời quang.
 
-Sương còn làm biến dạng thông tin trên đường: đèn xi nhan, đèn hậu và vạch kẻ loang thành các quầng sáng, mép làn gần như tan biến. Mặt đường buổi sớm đọng một lớp hơi ẩm trộn với bụi mỏng, vừa đủ để bánh xe mất bám trong cú phanh gấp. Nói cho cùng, rủi ro lớn nhất không nằm ở sương, mà ở khoảng cách giữa tốc độ bạn đang giữ và tầm nhìn mà sương cho phép.
+Sương còn làm biến dạng thông tin trên đường: đèn xi nhan, đèn hậu và vạch kẻ loang thành các quầng sáng, mép làn gần như tan biến. Mặt đường buổi sớm đọng một lớp hơi ẩm trộn với bụi mỏng, vừa đủ khiến bánh xe mất bám trong cú phanh gấp. Nói cho cùng, rủi ro lớn nhất không nằm ở sương, mà ở khoảng cách giữa tốc độ bạn đang giữ và tầm nhìn mà sương cho phép.
 
 ## Chuẩn bị xe trước khi đi xe khi có sương mù
 
