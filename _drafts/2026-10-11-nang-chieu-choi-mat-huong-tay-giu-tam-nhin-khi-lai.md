@@ -32,13 +32,13 @@ Cách nhận hướng đi rất đơn giản: chiều muộn mặt trời luôn 
 
 Bước một, hạ tốc ngay khi nhận ra mảng chói phía trước, đặc biệt khi tiến gần ngã tư: tốc độ thấp cho đồng tử kịp thu nhỏ và cho bạn thêm thời gian quét các chi tiết còn đọc được. Bước hai, nghiêng đầu nhẹ vài độ để đổi góc kính mũ: ánh chói thường phản theo một góc cố định, chỉ cần đổi góc nhìn chút ít là mảng loá tách khỏi trục mắt. Bước ba, dùng tay trái làm màn che: đưa bàn tay lên ngang trán, giữ khoảng hở với kính mũ, chắn thẳng nguồn nắng mà mắt vẫn dõi đường bên dưới lòng bàn tay.
 
-Ba bước này kéo dài chưa tới hai giây nhưng trả lại cho bạn hình ảnh đèn tín hiệu và vạch dừng. Điều tối kỵ là nhắm mắt hoặc liếc lệch sang bên để trốn nắng, vì hai cách đó xóa sạch thông tin phía trước. Nếu vẫn không đọc được giao lộ, hãy giảm hẳn tốc về mức gần như đi bộ rồi mới vượt qua điểm giao, chấp nhận chậm hơn những xe xung quanh.
+Ba bước này kéo dài chưa tới hai giây nhưng trả lại cho bạn hình ảnh đèn tín hiệu và vạch dừng. Điều tối kỵ là nhắm mắt hoặc liếc lệch sang bên để trốn nắng, vì hai cách đó xóa sạch thông tin phía trước. Nếu vẫn không đọc được giao lộ, hãy giảm hẳn tốc về mức gần như đi bộ rồi mới vượt qua điểm giao, chấp nhận chậm hơn những xe xung quanh. Khi dừng chờ đèn ở giao lộ bị chói, dừng sớm hơn vạch dừng một khoảng tầm một chiếc xe để đèn tín hiệu không rơi hẳn vào mảng chói, thay vì ép sát vạch như thói quen thường ngày.
 
 ## Điểm đổi sáng tối: cổng hầm, bóng cây, bóng nhà cao
 
 Tai nạn do nắng chiều không chỉ xảy ra trong mảng chói mà ở ranh giới sáng tối. Khi đi từ bóng nhà cao hoặc từ hầm xuyên đường ra vùng nắng trực tiếp, mắt mất một nhịp thích ứng, toàn bộ không gian ngoài bóng trở thành trắng lóa, và trong nhịp đó xe máy phía trước đang dừng hay người băng đường đều biến mất hoàn toàn.
 
-Kỹ năng đối ứng là nhìn sớm từ trong bóng: khi còn cách mép bóng vài chục mét, đảo mắt quan sát vùng sáng phía trước, và giữ tốc độ thấp cho tới khi mắt bắt nhịp xong. Chiều ngược lại, từ vùng nắng chói lao vào bóng đổ của cổng hầm cũng mù đen một nhịp, nên hãy hạ tốc trước mép tối thay vì để việc phanh diễn ra ở nơi đã không còn nhìn thấy gì.
+Kỹ năng đối ứng là nhìn sớm từ trong bóng: khi còn cách mép bóng vài chục mét, đảo mắt quan sát vùng sáng phía trước, và giữ tốc độ thấp cho tới khi mắt bắt nhịp xong. Chiều ngược lại, từ vùng nắng chói lao vào bóng đổ của cổng hầm cũng mù đen một nhịp, nên hãy hạ tốc trước mép tối thay vì để việc phanh diễn ra ở nơi đđã không còn nhìn thấy gì.
 
 ## Những điểm cần đề phòng trên tuyến hướng tây
 
