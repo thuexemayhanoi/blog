@@ -117,9 +117,13 @@ def verify_state(root, now=None, skip_tests=False):
         'active=%s pending=%s' % (txn.get('active'),
                                   bool(txn.get('pending'))))
 
-    # 5. queue/assignment state: lease còn sống đều trỏ id PLANNED
+    # 5. queue/assignment state: lease còn sống đều trỏ id PLANNED hoặc hàng
+    # in-flight (WRITING/QA/PASS/REPAIR — registry v2 giữ hàng đang dở cho
+    # đúng chủ lease; chỉ PUBLISHED/EXISTING/BLOCKED/lạ mới là lệch)
     rows = _matrix_rows(root)
-    planned = {r['id'] for r in rows if r.get('status') == 'PLANNED'}
+    planned = {r['id'] for r in rows
+               if r.get('status') in ('PLANNED', 'WRITING', 'QA', 'PASS',
+                                      'REPAIR')}
     claims = _load(root, CLAIMS, {'leases': {}})
     bad = []
     now = M.as_dt(now) if now is not None else M.as_dt(M.now_iso())

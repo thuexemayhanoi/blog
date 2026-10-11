@@ -73,6 +73,15 @@ def make_fixture():
                     ignore=shutil.ignore_patterns('.git', 'assets',
                                                   '*.jpeg', '*.png',
                                                   '*.jpg', '*.webp'))
+    # hermetic: op refill chi chay khi claimable < min_ready_queue
+    # (queue.py --needs-refill, lazy capacity). Repo that dang day PLANNED
+    # (>= 100) -> op refill la no-op rc=0. Ep nguong cao CHI TRONG BAN SAO.
+    capp = os.path.join(work, 'data/factory-capacity.json')
+    with open(capp, encoding='utf-8') as _f:
+        cap0 = json.load(_f)
+    cap0['thresholds']['min_ready_queue'] = 10 ** 9
+    with open(capp, 'w', encoding='utf-8') as _f:
+        json.dump(cap0, _f, ensure_ascii=False, indent=2)
     # git_head co dinh (fixture khong can git — dung co che giong
     # test_refill_safety/test_refill_semantics).
     p = os.path.join(work, 'scripts/factory/refill-queue.py')

@@ -23,6 +23,7 @@ import hashlib
 import json
 import os
 import sys
+import time
 import unittest
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
@@ -78,10 +79,18 @@ def write_registry(fx, leases):
                 'leases': leases})
 
 
-def lease_entry(ids, claimed='2026-10-01T00:00:00Z',
-                expires='2026-10-04T00:00:00Z'):
-    return {'ids': list(ids), 'claimed_at': claimed,
-            'expires_at': expires}
+def _iso(ts):
+    return time.strftime('%Y-%m-%dT%H:%M:%SZ', time.gmtime(ts))
+
+
+def lease_entry(ids, claimed=None, expires=None):
+    # writer-claim._live_leases so expires_at với time.time(): ngày cố định
+    # sẽ HẾT HẠN theo đồng hồ thật và làm hỏng cả bộ test (time-bomb đã
+    # làm test này đỏ từ 2026-10-04) -> dùng mốc tương đối NOW.
+    now = time.time()
+    return {'ids': list(ids),
+            'claimed_at': claimed or _iso(now - 3600),
+            'expires_at': expires or _iso(now + 47 * 3600)}
 
 
 def declare_writer(fx, rel, writer):

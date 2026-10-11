@@ -59,7 +59,9 @@ def write_json(fx, rel, obj):
 class WriterLoopTestCase(unittest.TestCase):
     """Sao chép repository thật vào thư mục tạm cho MỖI test — mọi
     mutation xảy ra trên bản sao riêng. Fixture hermetic: registry lease
-    reset về rỗng (repo thật có thể đang giữ lease thật)."""
+    reset về rỗng (repo thật có thể đang giữ lease thật) và `_drafts/` chỉ
+    còn template (writer thật đang xếp draft vào đó; CI chạy trên merge-ref
+    với main hiện tại nên hàng PLANNED đầu tiên có thể ĐÃ có draft)."""
 
     def setUp(self):
         base = tempfile.mkdtemp(prefix='writer-loop-')
@@ -67,6 +69,10 @@ class WriterLoopTestCase(unittest.TestCase):
         shutil.copytree(ROOT, self.fx, ignore=IGNORE)
         write_json(self.fx, 'data/state/writer-claims.json',
                    {'schema_version': '1', 'updated_at': None, 'leases': {}})
+        drafts = os.path.join(self.fx, '_drafts')
+        for fn in os.listdir(drafts):
+            if fn.endswith('.md') and 'mau-nhap-bai-moi' not in fn:
+                os.remove(os.path.join(drafts, fn))
         self.addCleanup(shutil.rmtree, base, ignore_errors=True)
 
     def loop(self, *args):
@@ -155,6 +161,31 @@ class WriterLoopTestCase(unittest.TestCase):
         for rel, h in guards.items():
             self.assertEqual(sha(self.fx, rel), h,
                              'next/release KHÔNG đụng %s' % rel)
+
+
+    def test_qa_uses_publisher_amount_whitelist(self):
+        """Lỗi audit P2-1: writer-loop qa không dựng whitelist giá nên mọi
+        số tiền dạng 1.400.000 bị chấm non_approved (FAIL giả). Phải khớp
+        publisher (factory-operator.main() gọi build_amount_whitelist)."""
+        sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+        from test_qa_modes import make_draft
+        aid = self.first_planned()
+        row = next(r for r in matrix_rows(self.fx) if r['id'] == aid)
+        make_draft(self.fx, row)
+        slug = row['output_path'][len('_posts/{date}-'):-3]
+        path = os.path.join(self.fx, '_drafts', '2026-09-28-%s.md' % slug)
+        self.assertTrue(os.path.exists(path), path)
+        with open(path, 'a', encoding='utf-8') as f:
+            f.write('\nGia tham khao 1.400.000 dong moi thang.\n')
+        r = self.loop('qa', '--ids', aid)
+        self.assertNotIn('non_approved_amounts', r.stdout + r.stderr,
+                         r.stdout + r.stderr)
+        # số KHÔNG duyệt vẫn bị bắt (không nới lỏng QA)
+        with open(path, 'a', encoding='utf-8') as f:
+            f.write('\nGia uu dai 123.456 dong.\n')
+        r = self.loop('qa', '--ids', aid)
+        self.assertIn('non_approved_amounts', r.stdout)
+        self.assertNotEqual(r.returncode, 0)
 
 
 if __name__ == '__main__':

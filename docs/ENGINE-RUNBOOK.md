@@ -28,19 +28,21 @@ lenh nao chua implement. Chay tu goc repository.
   Ops whitelist: status, prepare-next (—ids cho exact-ID claim), qa,
   publish, recover, requeue, verify, refill, reports. TU HOP DONG 6
   WORKFLOW san xuat CHAY THEO PUSH: writer push draft _drafts/ ->
-  factory-publish.yml tu dong (selection EXACT ID queue 2..10 trong
-  workflow -> chia pair 2 -> prepare-next --ids -> qa --ids ->
-  publish --ids --scope fast); KHONG con workflow_dispatch san xuat —
+  factory-publish.yml tu dong (selection EXACT ID + drain backlog,
+  queue <=30 ID/run -> chia pair 2 -> prepare-next --ids -> qa --ids ->
+  publish --ids (hang PASS) --scope fast -> publisher-push.py);
+  KHONG con workflow_dispatch san xuat —
   op bao tri (status/recover/refill/diagnostics) chay LOCAL qua file
   nay. REFILL KHONG chay trong duong nong publish: khi pool claimable
   can (claimable PLANNED < chunk_size), writer/coordinator chay op
   bao tri local `factory-operator.py refill`, CHO refill success,
   FETCH MAIN, roi push cap ke tiep; mot lan refill sai KHONG BAO GIO
-  lam hong publish bai vua chay. ENGINE RESUME-FIRST: con hang
-  REPAIR/unresolved thi KHONG claim bai moi — repair push xu ly ID do
-  truoc (repair rows KHONG claim lai tu dau), PLANNED con lai
-  DEFERRED lan chay ke; draft sot khong hop le bi tu choi o selection,
-  khong chan publish; KHONG bao gio dung hang PUBLISHED. Workflow
+  lam hong publish bai vua chay. RESUME-FIRST PER-WRITER: hang REPAIR
+  cho CHU lease sua (repair rows KHONG claim lai tu dau) va KHONG chan
+  writer khac; `prepare-next --ids` khong bi chan boi hang dang do cua
+  writer khac (truoc day mot hang REPAIR lam ca nha may FATAL); draft
+  sot khong hop le bi cach ly o backlog (hoac tu choi o push), khong
+  chan publish; KHONG bao gio dung hang PUBLISHED. Workflow
   la TAY deterministic (khong AI, khong secret AI, khong cron san
   xuat).
 

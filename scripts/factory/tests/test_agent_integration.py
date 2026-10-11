@@ -269,7 +269,11 @@ class AgentIntegrationContractTest(unittest.TestCase):
                 text = f.read()
             if 'contents: write' in text:
                 writers.append(name)
-        self.assertEqual(writers, ['factory-publish.yml'])
+        # mutator được duyệt: publisher (bài), refill (state refill) và helper
+        # extract-rows (chỉ commit reports/factory/extracted-rows*.json)
+        self.assertEqual(writers, ['factory-extract-rows.yml',
+                                   'factory-publish.yml',
+                                   'factory-refill.yml'])
 
     def test_no_real_article_generated_anywhere(self):
         # toàn bộ chuỗi 3 agent + wake: KHÔNG sinh bài, KHÔNG claim,

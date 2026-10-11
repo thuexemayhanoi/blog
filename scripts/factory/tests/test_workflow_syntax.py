@@ -105,18 +105,19 @@ class WorkflowShellSyntaxTest(unittest.TestCase):
 
     def test_all_workflows_exist(self):
         found = glob.glob(os.path.join(WORKFLOWS, '*.yml'))
-        self.assertEqual(len(found), 7,
+        self.assertEqual(len(found), 8,
                           'thiếu workflow trong .github/workflows')
         names = sorted(os.path.basename(f) for f in found)
         self.assertEqual(
-            names, ['factory-liveness.yml',
+            names, ['factory-extract-rows.yml', 'factory-liveness.yml',
                     'factory-publish-verify.yml', 'factory-publish.yml',
                     'factory-refill.yml', 'factory-soak.yml',
                     'production-watchdog.yml', 'quality-gate.yml'],
-            'hop dong CHINH XAC 7 workflow hien tai (factory-publish.yml '
-            'la production publisher duy nhat; cac workflow legacy da '
-            'retire KHONG quay lai): khong them workflow moi ngoai danh '
-            'sach hop dong')
+            'hop dong CHINH XAC 8 workflow hien tai (7 workflow hop dong + '
+            'helper factory-extract-rows.yml; factory-publish.yml la '
+            'production publisher duy nhat; cac workflow legacy da retire '
+            'KHONG quay lai): khong them workflow moi ngoai danh sach '
+            'hop dong')
 
     def test_every_run_block_passes_bash_n(self):
         paths = sorted(glob.glob(os.path.join(WORKFLOWS, '*.yml')))

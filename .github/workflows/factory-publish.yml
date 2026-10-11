@@ -2,33 +2,46 @@ name: Factory Publish (chunked)
 
 # Ported from thuexemayhanoi/vanchinh .github/workflows/factory-publish.yml
 # (SOURCE OF TRUTH) and adapted to /blog. Automated, deterministic publish
-# pipeline. NO AI, NO API keys, NO secrets. The external WRITER(s) (Mistral
-# runs) commit drafts under _drafts/; WRITERS ARE NOT PUBLISHERS — only
+# pipeline. NO AI, NO API keys, NO secrets, NO network except git to this
+# repository. The external WRITER(s) (any AI provider, up to 3 slots
+# W1/W2/W3) commit drafts under _drafts/; WRITERS ARE NOT PUBLISHERS — only
 # this workflow mutates production state, one queue run at a time.
 #
-# TURBO QUEUE CONTRACT (write-ahead queue, ported as-is from /vanchinh):
-#   - one writer push queues 2..10 consecutive drafts (10 = lease limit
-#     per writer; up to 3 writers x 10 = max 30 live ids in flight);
-#   - the queue is validated (draft must have article_id, no duplicate
-#     ids, no unknown matrix ids, no PUBLISHED/EXISTING/BLOCKED rows,
-#     matrix order, max 10) and split into deterministic PAIRS of 2;
-#   - pairs are consumed sequentially inside this SAME production run:
-#     pair -> claim (prepare-next, PLANNED rows only) -> scoped QA
-#     (threshold 75/70) -> transactional publish (PASS only, canonical
-#     scripts/factory/publish-gate.py) -> checkpoint -> next pair;
-#   - a failed pair NEVER rolls back already-published pairs; it stays
-#     recoverable (REPAIR status + QA evidence kept in matrix) and is
-#     reported explicitly for a follow-up repair push. Repair rows skip
-#     claim. The engine is resume-first: it refuses new claims while
-#     repair work is unfinished, so later PLANNED pairs in the same
-#     queue are DEFERRED to the next run, not published half-done;
-#   - a FATAL failure (claim/QA infrastructure, non-FF push after 3
-#     rebase retries) fails the run WITHOUT commit; drafts stay queued
-#     on main and the next push retries them.
-#   - multi-writer: up to 3 independent writers lease disjoint ids via
-#     a writer-claim registry (MISSING in /blog — see migration report);
-#     writer pushes never publish, they only queue here, and this
-#     single concurrency group serializes every queue run.
+# TURBO QUEUE CONTRACT (write-ahead queue, ported from /vanchinh and
+# hardened for concurrent writers):
+#   - one writer push queues 1..10 drafts (10 = lease limit per writer; up
+#     to 3 writers x 10 = max 30 live ids in flight). The push drafts are
+#     validated STRICTLY (refuse fail-closed: draft must have article_id,
+#     no duplicate ids, no unknown matrix ids, no EXISTING/BLOCKED/REVIEW
+#     rows, max 10, lease owner = declared writer);
+#   - DRAIN: the repository is the queue, the trigger is only a hint.
+#     GitHub keeps ONE pending run per concurrency group and cancels older
+#     pending runs (also across factory-refill.yml), so a run may never
+#     happen for a push. Every run therefore also sweeps ALL drafts queued
+#     in _drafts/ on the freshest main (push-selection.py --backlog; invalid
+#     ones are quarantined, never block the rest, max 30 ids per run) — a
+#     cancelled run loses nothing, the next run publishes its drafts;
+#   - the queue is split into deterministic PAIRS of 2 (in-flight rows
+#     first, then PLANNED rows) and consumed sequentially inside this SAME
+#     production run: pair -> claim (prepare-next, PLANNED rows only) ->
+#     scoped QA (threshold 75/70) -> transactional publish (PASS rows only,
+#     canonical scripts/factory/publish-gate.py) -> checkpoint -> next pair;
+#   - a failed pair NEVER rolls back already-published pairs; its REPAIR
+#     rows stay recoverable (QA evidence kept in matrix), are reported
+#     explicitly and wait for their OWNER's repair push. They do NOT block
+#     other writers (resume-first is per writer, enforced at claim time by
+#     scripts/factory/writer-session.py);
+#   - a FATAL failure (claim/QA infrastructure) fails the run WITHOUT
+#     commit; drafts stay queued on main and the next run drains them;
+#   - commit + push go through scripts/factory/publisher-push.py: single
+#     commit per run, bounded retries, NEVER force push, and a rebase is
+#     only done when upstream did not touch the paths this commit touches
+#     (plain `git rebase` silently merged a writer's concurrent edit of a
+#     just-published draft into the post — audit P0-3);
+#   - multi-writer: up to 3 independent writers lease disjoint ids via the
+#     writer-claims registry (scripts/factory/writer-claim.py, session-bound
+#     slots, TTL leases); writer pushes never publish, they only queue
+#     here, and this single concurrency group serializes every queue run.
 #
 # Mapping /vanchinh -> /blog:
 #   cam-nang/ -> _drafts/ (promoted to _posts by publish-gate.py)
@@ -37,8 +50,8 @@ name: Factory Publish (chunked)
 #     primitives prepare-next --ids / qa --ids --scope fast /
 #     publish --ids thuộc scripts/factory/factory-operator.py)
 #   scripts/factory_push_selection.py -> scripts/factory/push-selection.py
-#     (CANONICAL queue selector — cùng refuse semantics, queue 2..10;
-#     workflow chỉ orchestration, KHÔNG giữ bản selection trùng lặp)
+#     (CANONICAL queue selector — cùng refuse semantics; workflow chỉ
+#     orchestration, KHÔNG giữ bản selection trùng lặp)
 #   data/batches/lock.json -> data/state/writer-lock.active
 #   data/batches/txn/txn.json -> data/state/transaction.json (active flag)
 #   validate_content_matrix.py + check_matrix_sync.py ->
@@ -52,7 +65,10 @@ name: Factory Publish (chunked)
 on:
   push:
     branches: [main]
-    paths: ['_drafts/**', '.github/workflows/factory-publish.yml']
+    # `_drafts/.nudge-*` viết rõ dấu chấm: writer-session.py confirm nudge
+    # publisher bằng file này (không phải .md, selector bỏ qua) — không phụ
+    # thuộc việc `**` của GitHub có khớp dotfile hay không.
+    paths: ['_drafts/**', '_drafts/.nudge-*', '.github/workflows/factory-publish.yml']
 
 permissions:
   contents: write
@@ -84,9 +100,12 @@ jobs:
           # modifications are rebuilds and are ignored by selection).
           git diff --name-only --diff-filter=A HEAD~1 HEAD -- _drafts/ > /tmp/added.txt || true
           git diff --name-only --diff-filter=M HEAD~1 HEAD -- _drafts/ > /tmp/modified.txt || true
+          # every path of the push commit (writer-scope warning only)
+          git diff --name-only --no-renames HEAD~1 HEAD > /tmp/changed.txt || true
           echo "push added drafts: $(wc -l < /tmp/added.txt || echo 0), modified: $(wc -l < /tmp/modified.txt || echo 0)"
           cp /tmp/added.txt /tmp/added.push.txt
           cp /tmp/modified.txt /tmp/modified.push.txt
+          cp /tmp/changed.txt /tmp/changed.push.txt
 
       - name: Refresh repository truth (fetch origin/main; never force)
         run: |
@@ -101,12 +120,17 @@ jobs:
           set -e
           cp /tmp/added.push.txt /tmp/added.txt
           cp /tmp/modified.push.txt /tmp/modified.txt
+          cp /tmp/changed.push.txt /tmp/changed.txt
           # CANONICAL selector: scripts/factory/push-selection.py
-          # (queue 2..10, EXACT article_id, refuse fail-closed exit 3,
-          # KHÔNG mutate state; ghi queue/mode/pairs vao $GITHUB_OUTPUT)
+          # (push drafts: EXACT article_id, refuse fail-closed exit 3;
+          # --backlog: also drain every draft queued in _drafts/ so a run
+          # cancelled by GitHub concurrency loses nothing; KHÔNG mutate
+          # state; ghi queue/mode/pairs vao $GITHUB_OUTPUT)
           python3 scripts/factory/push-selection.py \
             --added /tmp/added.txt \
-            --modified /tmp/modified.txt
+            --modified /tmp/modified.txt \
+            --changed /tmp/changed.txt \
+            --backlog
 
       - name: Guard no pending transaction and no lock (fail-closed)
         if: steps.select.outputs.queue != ''
@@ -148,35 +172,26 @@ jobs:
           if rep.get('recoverable'):
               print('RECOVERABLE (repair push needed): %s' % ', '.join(rep['recoverable']))
           if rep.get('deferred'):
-              print('DEFERRED (resume-first, lan chay ke): %s' % ', '.join(rep['deferred']))
+              print('DEFERRED (chua xu ly do FATAL, run ke drain lai tu _drafts/): %s' % ', '.join(rep['deferred']))
           if rep.get('fatal'):
               raise SystemExit('fatal: %s' % rep['fatal'])
           EOF
 
       - name: Commit publish results (single commit per queue run)
         if: steps.select.outputs.queue != ''
+        env:
+          QUEUE_MODE: ${{ steps.select.outputs.mode }}
+          QUEUE_IDS: ${{ steps.select.outputs.queue }}
         run: |
           set -e
           git config user.name "blog-factory-bot"
           git config user.email "nguyentuantu2482@users.noreply.github.com"
-          git add -A
-          if git diff --cached --quiet; then
-            echo "no state changes to commit"
-          else
-            git commit -m "factory: ${{ steps.select.outputs.mode }} publish (${{ steps.select.outputs.queue }}) [automated txn]"
-            # push with truth refresh + rebase retry; NEVER force push
-            n=0
-            until git push; do
-              n=$((n+1))
-              if [ "$n" -ge 3 ]; then
-                echo "push failed after $n retries (non-FF races); leaving committed state for the next run"
-                exit 1
-              fi
-              echo "push race lost; fetching fresh truth and rebasing (attempt $n)"
-              git fetch origin main
-              git rebase origin/main || { git rebase --abort; echo "rebase conflict; aborting"; exit 1; }
-            done
-          fi
+          # CANONICAL safe push (scripts/factory/publisher-push.py): one
+          # commit per run, integrity check (post sha256 == QA evidence),
+          # bounded retries, rebase ONLY when upstream touched none of the
+          # paths of this commit, NEVER force push.
+          python3 scripts/factory/publisher-push.py \
+            --message "factory: ${QUEUE_MODE} publish (${QUEUE_IDS}) [automated txn]"
 
       - name: Assert clean factory state
         if: steps.select.outputs.queue != ''
@@ -189,3 +204,12 @@ jobs:
               raise SystemExit('txn active left behind')
           print('clean state OK: khong lock, khong txn active')
           EOF
+
+      # Push bị REFUSED nhưng backlog có draft hợp lệ của writer khác: selector
+      # vẫn drain chúng (các step trên đã chạy + commit); run phải ĐỎ ở đây để
+      # chủ push hỏng thấy lỗi — KHÔNG im lặng.
+      - name: Fail the run when the push was REFUSED (valid backlog already drained)
+        if: always() && steps.select.outputs.refused == 'true'
+        run: |
+          echo "::error::push bi REFUSED boi push-selection.py (xem step Select queue scope); draft hop le cua writer khac da duoc xu ly o tren. Sua draft bi tu choi roi push lai."
+          exit 1
