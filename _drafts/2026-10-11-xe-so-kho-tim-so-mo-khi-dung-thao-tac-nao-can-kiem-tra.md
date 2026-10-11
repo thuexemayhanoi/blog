@@ -29,20 +29,27 @@ Một điểm hay gây nhầm: trên nhiều xe số phổ thông, số mo nằm
 Trình tự chuẩn dưới đây áp dụng cho phần lớn xe số phổ thông đang cho thuê tại Hà Nội:
 
 1. Trước khi phanh dừng hẳn, nhấc nhẹ cần số từ số một lên nửa bước: phần lớn xe vào mo dễ nhất từ phía số một, khi xe còn đang lăn chậm. Đèn đỏ phía trước còn xa chừng vài chục mét là lúc lý tưởng.
+
 2. Khi xe đã đứng hẳn mới muốn về mo, hạ cần số về số một cho chắc, rồi nhấc nhẹ lên nửa bước: nghe tiếng "cạch" nhỏ là vào mo.
+
 3. Nếu nhấc một lần nhảy sang số hai, hạ lại số một và thử lại với lực nhẹ hơn; độ dài bước cần số mỗi xe mỗi khác, cần vài lần để quen xe thuê.
+
 4. Dấu hiệu xác nhận đã vào mo: nhả hết tay côn từ từ, xe không giật, không tắt máy, và nhấc hẳn cần số một bước đầy sẽ lên số một hoặc số hai rõ ràng.
+
 5. Với xe có đồng hồ hiển thị số, mắt liếc kiểm tra chỉ số N trên bảng; với xe không có hiển thị, dùng phản xạ côn ở bước 4 để xác nhận.
 
 Quan trọng nhất là ở điểm 1: về mo khi xe còn lăn nhẹ luôn dễ hơn nhiều so với khi xe đã đứng im, vì các răng ăn khớp trong hộp số còn đang quay, tìm khe vào mo dễ hơn. Đây là kỹ thuật đáng biến thành thói quen, không chỉ giải quyết khó về số N xe số khi dừng mà còn giảm mòn hộp số về lâu về dài.
 
-## Nguyên nhân khi thao tác chuẩn vẫn khó về mo
+## Nguyên nhân khiến khó về số N xe số dù thao tác chuẩn
 
 Nếu đã thử đủ cả hai hướng vào mo, khi lẫn khi đứng, mà cần số vẫn lì, đó là lúc xem xét bốn nguyên nhân theo thứ tự:
 
 - Dây côn căng hoặc lỏng sai chuẩn: côn chưa tách hết truyền lực thì hộp số chịu tải, về số và tìm mo đều nặng. Dấu hiệu kèm: vào số một từ mo có tiếng "cạch" to, xe hơi giật khi vào số. Cách chỉnh dây côn từng bước đã có riêng trong bài [xe số giật cục khi vào số: chỉnh lại từng bước](/xe-may/2026/10/10/xe-so-giat-cuc-khi-vao-so-chinh-lai-tung-buoc/), bạn có thể tự đọc để hiểu nguyên lý, nhưng với xe thuê, việc chỉnh nên nhờ cửa hàng.
+
 - Mỏ vịt và thanh truyền cần số khô dầu: các khớp nối của cơ cấu đổi số bị bụi bám, thiếu dầu bôi trơn thì bước cần số nặng và mờ, không còn cảm giác "cạch" rõ vào mo.
+
 - Răng ăn khớp hoặc đòn gạt trong hộp số mòn: hiếm hơn, đi kèm tiếng kêu lạ từ hộp số và hiện tượng nhảy số khi đang chạy. Nếu tới mức này, không nên tự xử lý gì ngoài việc báo cửa hàng.
+
 - Thói quen đạp cần số bằng mũi giày quá mạnh, lâu ngày làm cơ cấu cần số xô lệch: gặp nhiều ở xe cho thuê dùng chung, thử rà nhẹ và đều tay thay vì đạp mạnh.
 
 Một cách phân biệt nhanh giữa nhóm nhẹ (dây côn, khô dầu) và nhóm nặng (hộp số): hiện tượng nhóm nhẹ thường chỉ khó về mo, còn chạy các số đều vẫn được; nhóm nặng thường đi kèm khó vào số một từ mo hoặc nhảy số khi tăng tốc.
@@ -52,7 +59,9 @@ Một cách phân biệt nhanh giữa nhóm nhẹ (dây côn, khô dầu) và nh
 Ba tín hiệu sau nghĩa là nên dừng việc tự xoay xở và liên hệ nơi cho thuê:
 
 1. Về mo được nhưng luôn kèm tiếng kêu khô, "keng keng" từ phía hộp số.
+
 2. Không thể vào số một từ mo khi xe đứng im, dù côn bóp hết.
+
 3. Xe nhảy số hoặc tuột số khi đang chạy đoạn bằng.
 
 Khi gọi, mô tả theo đúng cấu trúc: hiện tượng (khó về mo từ phía nào, có tiếng kêu không), thao tác đã thử (hai hướng vào mo, khi lăn và khi đứng), và tình trạng các số khác khi chạy. Với xe đang thuê, đừng tự mở nắp háp hoặc chỉnh ốc bên trong: lỗi của xe cho thuê được xử lý bởi cửa hàng, vừa an toàn kỹ thuật vừa giữ trách nhiệm hợp đồng rõ ràng. Trường hợp khó vào số khi tăng tốc lên cầu, dốc liên quan tới nhóm khác đã nói trong bài [xe số bị hút ga khi lên cầu vượt: cách xử lý](/xe-may/2026/10/10/xe-so-bi-hut-ga-khi-len-cau-vuot-cach-xu-ly/), đọc thêm nếu hiện tượng của bạn xuất hiện ở đoạn dốc.
