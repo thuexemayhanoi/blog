@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-11T20:57:24Z",
+  "updated_at": "2026-10-11T21:01:49Z",
   "leases": {
     "W1": {
       "ids": [
@@ -18,7 +18,7 @@
       "session": "s-mistral-w1",
       "epoch": 1,
       "claimed_at": "2026-10-11T20:57:24Z",
-      "heartbeat_at": "2026-10-11T20:57:24Z",
+      "heartbeat_at": "2026-10-11T21:01:49Z",
       "ttl_hours": 48,
       "expires_at": "2026-10-13T20:57:24Z",
       "label": "mistral-vibe"
