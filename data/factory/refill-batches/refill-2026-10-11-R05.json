@@ -1,0 +1,449 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R05: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R05-001",
+   "child_id": "C-BAO-DUONG",
+   "title": "Lọc gió xe máy bẩn: dấu hiệu khi đi xe và lúc nào cần vệ sinh hay thay",
+   "intent": "Nhận ra lọc gió động cơ bẩn qua cảm giác lái (hụt ga, hao xăng, khói đen) và biết khi nào nên nhờ cửa hàng vệ sinh hoặc thay.",
+   "kw": "lọc gió xe máy bẩn",
+   "kw2": [
+    "dấu hiệu lọc gió xe máy bẩn",
+    "bao lâu thay lọc gió xe máy",
+    "lọc gió xe ga nằm ở đâu"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe dài ngày hay đi qua đường nhiều bụi",
+   "location_scope": "Hà Nội, đường nhiều bụi công trình và ven đê",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-002",
+   "child_id": "C-BAO-DUONG",
+   "title": "Dây curoa và bi nồi xe ga: dấu hiệu mòn qua cảm giác lấy đà và tiếng kêu",
+   "intent": "Hiểu dây curoa và bi nồi trên xe ga làm gì, mòn thì xe biểu hiện ra sao khi lấy đà và khi nào cần báo cửa hàng kiểm tra.",
+   "kw": "dây curoa xe ga mòn",
+   "kw2": [
+    "bi nồi xe ga mòn",
+    "xe ga ì khi lấy đà",
+    "bao lâu thay dây curoa xe ga"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe ga đi phố hằng ngày, nghe tiếng lạ hoặc thấy xe ì",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-003",
+   "child_id": "C-BAO-DUONG",
+   "title": "Nhông xích đĩa xe số: khi nào phải thay cả bộ thay vì chỉ căng xích",
+   "intent": "Biết nhông, xích, đĩa mòn cùng nhau ra sao, nhận ra răng mòn và hiểu vì sao thay cả bộ chứ không chỉ căng lại xích.",
+   "kw": "thay nhông xích đĩa xe số",
+   "kw2": [
+    "nhông sên dĩa mòn",
+    "khi nào thay nhông sên dĩa",
+    "xích xe số bị rơ"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe số chạy nhiều, thấy xích hay rơ, kêu hoặc xe ì",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-004",
+   "child_id": "C-BAO-DUONG",
+   "title": "Giảm xóc xe máy yếu hoặc chảy dầu: cách tự nhận biết trước khi đi đường xấu",
+   "intent": "Nhận ra phuộc trước chảy dầu và phuộc sau lún yếu bằng mắt và tay, hiểu ảnh hưởng tới phanh, tay lái trước khi đi đường xấu.",
+   "kw": "giảm xóc xe máy chảy dầu",
+   "kw2": [
+    "phuộc xe máy bị yếu",
+    "cách kiểm tra giảm xóc xe máy",
+    "phuộc sau xe ga bị lún"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe sắp đi đường xấu, đường đê, ngoại thành hoặc chở thêm người",
+   "location_scope": "Hà Nội, đường xấu và đường đê ven sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-005",
+   "child_id": "C-BAO-DUONG",
+   "title": "Bánh xe máy kêu ù hoặc tay lái rơ: nghi ngờ vòng bi bánh và cổ phuộc",
+   "intent": "Phân biệt tiếng ù của vòng bi bánh và độ rơ cổ phuộc với tiếng phanh hay lốp, biết kiểm tra đơn giản và khi nào báo cửa hàng.",
+   "kw": "vòng bi bánh xe máy kêu",
+   "kw2": [
+    "bạc đạn bánh xe kêu ù",
+    "cổ phuộc xe máy bị rơ",
+    "tay lái xe máy bị lắc"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe nghe tiếng ù khi chạy hoặc thấy tay lái lỏng lẻo",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-006",
+   "child_id": "C-BAO-DUONG",
+   "title": "Ống xả xe máy bị thủng hoặc rỉ: tiếng nổ to, mùi khí và cách nhận biết sớm",
+   "intent": "Nhận ra ống xả (pô) rỉ, thủng hay lỏng cổ pô qua tiếng nổ, mùi và độ nóng bất thường, hiểu vì sao không nên cố chạy tiếp khi pô hỏng nặng.",
+   "kw": "ống xả xe máy bị thủng",
+   "kw2": [
+    "pô xe máy kêu to bất thường",
+    "pô xe máy bị rỉ",
+    "cổ pô xe máy bị lỏng"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe nghe xe nổ to hơn thường lệ hoặc ngửi mùi khí thải nồng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-007",
+   "child_id": "C-BAO-DUONG",
+   "title": "Khói pô xe máy màu xanh, trắng hay đen nói lên điều gì",
+   "intent": "Đọc màu khói pô (xanh, trắng, đen) để hiểu gợi ý vấn đề gì (hao nhớt, hơi nước, sặc xăng) và quyết định đi tiếp hay báo cửa hàng.",
+   "kw": "khói pô xe máy màu xanh",
+   "kw2": [
+    "khói trắng pô xe máy",
+    "khói đen xe máy",
+    "xe máy xì khói bất thường"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe thấy khói lạ sau xe, nhất là buổi sáng lạnh ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-008",
+   "child_id": "C-BAO-DUONG",
+   "title": "Dầu hộp số xe ga (nhớt láp): vì sao thay riêng với nhớt máy và hay bị quên",
+   "intent": "Biết xe ga có dầu hộp số (nhớt láp) riêng với nhớt máy, bao lâu cần kiểm tra và dấu hiệu rò rỉ hay kêu ở bánh sau để báo cửa hàng đúng lúc.",
+   "kw": "dầu hộp số xe ga",
+   "kw2": [
+    "nhớt láp xe ga",
+    "bao lâu thay nhớt láp",
+    "xe ga kêu ở bánh sau"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe ga dài ngày, chỉ nghe nói đến nhớt máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-009",
+   "child_id": "C-BAO-DUONG",
+   "title": "Đọc nhãn nhớt xe máy: 10W-30, 10W-40 và JASO MA, MB nghĩa là gì",
+   "intent": "Hiểu các ký hiệu độ nhớt và chuẩn JASO trên chai nhớt, phân biệt nhớt khoáng, bán tổng hợp, tổng hợp để không chọn nhầm cho xe ga hay xe số.",
+   "kw": "đọc nhãn nhớt xe máy",
+   "kw2": [
+    "10w-40 nghĩa là gì",
+    "jaso ma mb khác nhau",
+    "nhớt tổng hợp và nhớt khoáng"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe hay phải tự mua nhớt hoặc đứng trước kệ nhớt ở tiệm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-010",
+   "child_id": "C-BAO-DUONG",
+   "title": "Lốp xe máy bao nhiêu tuổi: đọc mã ngày sản xuất trên hông lốp",
+   "intent": "Biết cách tìm và đọc mã bốn số ngày sản xuất trên hông lốp để đánh giá lốp đã quá cũ dù gai còn nhiều.",
+   "kw": "mã ngày sản xuất lốp xe máy",
+   "kw2": [
+    "cách xem lốp xe máy sản xuất năm nào",
+    "lốp xe máy để lâu bị chai",
+    "mã dot trên lốp xe máy"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe muốn kiểm tra lốp trước chuyến dài, người sắp thay lốp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-011",
+   "child_id": "C-BAO-DUONG",
+   "title": "Đọc thông số trên lốp xe máy: 80/90-14 nghĩa là gì và vì sao không tự đổi cỡ",
+   "intent": "Hiểu các con số và chữ trên hông lốp (bề rộng, tỷ lệ thành lốp, đường kính vành, chỉ số tải) và vì sao thay lốp phải đúng cỡ.",
+   "kw": "thông số lốp xe máy",
+   "kw2": [
+    "80/90-14 là gì",
+    "cách đọc size lốp xe máy",
+    "đổi cỡ lốp xe máy có sao không"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe đứng trước tiệm thay lốp hoặc muốn hiểu hông lốp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-012",
+   "child_id": "C-BAO-DUONG",
+   "title": "Lốp không săm bị đinh: vá dùi, vá nấm khác gì và khi nào phải thay lốp",
+   "intent": "Hiểu cách vá lốp không săm (vá dùi, vá nấm), vết thủng nào vá được, vết nào phải thay và nên chạy thế nào sau khi vá.",
+   "kw": "vá lốp không săm xe máy",
+   "kw2": [
+    "vá dùi vá nấm khác nhau",
+    "lốp không săm bị đinh",
+    "vá lốp xe máy có an toàn không"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe bị đinh xẹp lốp ở Hà Nội và đang hỏi tiệm vá",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-013",
+   "child_id": "C-BAO-DUONG",
+   "title": "Chăm xe máy mùa nắng nóng Hà Nội: lốp, nhớt, phanh và ắc quy cần để ý gì",
+   "intent": "Biết nhiệt độ cao tác động tới lốp, nhớt, phanh và ắc quy ra sao và những kiểm tra ngắn nên làm vào mùa nắng.",
+   "kw": "chăm xe máy mùa nắng nóng",
+   "kw2": [
+    "xe máy mùa hè cần kiểm tra gì",
+    "lốp xe máy bị nóng",
+    "nhớt xe máy mùa nóng"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe đi hằng ngày vào các tháng hè nóng gắt ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-014",
+   "child_id": "C-BAO-DUONG",
+   "title": "Đĩa phanh xe máy cong vênh hoặc mòn lõm: nhận biết qua tay phanh rung",
+   "intent": "Nhận ra đĩa phanh cong hoặc mòn không đều qua rung tay phanh và tiếng cọ theo vòng quay, biết khi nào nên báo cửa hàng.",
+   "kw": "đĩa phanh xe máy bị cong",
+   "kw2": [
+    "tay phanh bị rung khi bóp",
+    "đĩa phanh mòn lõm",
+    "phanh đĩa kêu theo vòng quay"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe thấy tay phanh rung hoặc phanh trước kêu theo nhịp vòng bánh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-015",
+   "child_id": "C-BAO-DUONG",
+   "title": "Tay ga xe máy nặng hoặc trả về chậm: dấu hiệu dây ga khô và cách xử lý",
+   "intent": "Nhận ra tay ga nặng, kẹt hay trả chậm do dây ga khô hoặc gập, hiểu rủi ro khi ga không về kịp và khi nào báo cửa hàng.",
+   "kw": "tay ga xe máy bị nặng",
+   "kw2": [
+    "tay ga không tự về",
+    "dây ga xe máy bị kẹt",
+    "bôi trơn dây ga xe máy"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe thấy tay ga cứng hoặc chậm trả khi nhả",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-016",
+   "child_id": "C-BAO-DUONG",
+   "title": "Cầu chì xe máy: tìm ở đâu, dấu hiệu cháy và vì sao không thay bằng dây đồng",
+   "intent": "Biết hộp cầu chì thường nằm đâu trên xe máy, nhận ra dấu hiệu cầu chì cháy và hiểu vì sao tuyệt đối không dùng dây đồng hay cầu chì lớn hơn.",
+   "kw": "cầu chì xe máy cháy",
+   "kw2": [
+    "hộp cầu chì xe máy ở đâu",
+    "xe máy mất điện đột ngột",
+    "thay cầu chì xe máy"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe bị mất đèn hoặc mất đề đột ngột, muốn biết có phải do cầu chì",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-017",
+   "child_id": "C-BAO-DUONG",
+   "title": "Xi nhan chớp nhanh bất thường hoặc không chớp: bóng cháy, tiếp xúc kém hay rơ le",
+   "intent": "Hiểu vì sao xi nhan chớp nhanh hơn thường lệ hoặc không chớp, kiểm tra theo thứ tự đơn giản và biết khi nào cần báo cửa hàng.",
+   "kw": "xi nhan xe máy chớp nhanh",
+   "kw2": [
+    "xi nhan không chớp",
+    "bóng xi nhan bị cháy",
+    "rơ le xi nhan xe máy"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe thấy xi nhan chớp nhanh hơn bình thường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-018",
+   "child_id": "C-BAO-DUONG",
+   "title": "Chỉnh góc chiếu đèn pha xe máy: vì sao pha chói người đối diện hoặc soi không xa",
+   "intent": "Hiểu đèn pha chiếu quá cao hay quá thấp ảnh hưởng thế nào, cách kiểm tra nhanh vào buổi tối trước bức tường và khi nào nhờ cửa hàng chỉnh.",
+   "kw": "chỉnh góc chiếu đèn pha xe máy",
+   "kw2": [
+    "đèn pha xe máy chói mắt người đối diện",
+    "đèn pha chiếu quá cao",
+    "kiểm tra góc chiếu đèn pha"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe hay đi buổi tối, thấy pha soi không xa hoặc bị xe đối diện chớp pha",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-019",
+   "child_id": "C-BAO-DUONG",
+   "title": "Xe phun xăng điện tử có cần vệ sinh kim phun định kỳ không: khi nào nên làm",
+   "intent": "Hiểu vệ sinh kim phun để làm gì, dấu hiệu thật sự cần làm (hụt ga, hao xăng, nổ không đều) và khi nào chỉ cần dùng xe bình thường.",
+   "kw": "vệ sinh kim phun xe máy",
+   "kw2": [
+    "vệ sinh kim phun bao lâu một lần",
+    "xe phun xăng điện tử hụt ga",
+    "súc kim phun có cần không"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe dài ngày nghe tiệm đề nghị vệ sinh kim phun và muốn biết có cần không",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-020",
+   "child_id": "C-BAO-DUONG",
+   "title": "Bơm khí nitơ cho lốp xe máy có đáng tiền không: lợi ích thật và giới hạn",
+   "intent": "Biết bơm nitơ cho lốp xe máy khác bơm hơi thường thế nào, lợi ích thực tế và giới hạn, để quyết định có nên làm hay không.",
+   "kw": "bơm nitơ lốp xe máy",
+   "kw2": [
+    "bơm khí nitơ có tốt không",
+    "nitơ và bơm hơi thường khác gì",
+    "lốp xe máy bơm nitơ"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe dài ngày nghe tiệm mời bơm nitơ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-021",
+   "child_id": "C-BAO-DUONG",
+   "title": "Tiếng rè khi bật chìa xe phun xăng: bơm xăng chạy bình thường hay có vấn đề",
+   "intent": "Phân biệt tiếng bơm xăng chạy vài giây khi bật chìa là bình thường với tiếng to, kéo dài hay mất tiếng báo hiệu lỗi, và biết phản ứng ra sao.",
+   "kw": "tiếng bơm xăng xe máy kêu",
+   "kw2": [
+    "bơm xăng xe máy kêu to",
+    "bật chìa nghe tiếng rè",
+    "xe phun xăng không nổ máy"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê xe phun xăng điện tử nghe tiếng lạ khi bật chìa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R05-022",
+   "child_id": "C-BAO-DUONG",
+   "title": "Tự chăm xe thuê: việc nào làm được trong 10 phút, việc nào nên để thợ",
+   "intent": "Phân ranh giới rõ giữa việc người thuê nên tự làm (kiểm tra bằng mắt, bơm lốp, lau chùi) và việc phải để thợ hoặc cửa hàng xử lý.",
+   "kw": "tự chăm xe máy thuê",
+   "kw2": [
+    "việc nên tự làm khi thuê xe máy",
+    "tự sửa xe máy thuê được không",
+    "kiểm tra xe máy 10 phút"
+   ],
+   "links": [
+    "/xe-may/bao-duong-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R05",
+   "audience": "người thuê dài ngày muốn giữ xe tốt nhưng sợ làm sai",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

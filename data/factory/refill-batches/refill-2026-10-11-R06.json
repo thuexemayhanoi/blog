@@ -1,0 +1,309 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R06: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R06-001",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Vào cua bằng xe máy: giảm tốc trước, nhìn ra cuối khúc cua rồi mới mở ga",
+   "intent": "Nắm quy trình vào, giữ và thoát khúc cua thông thường (đê, vòng cung trong phố, đường ngoại thành): giảm tốc trước, chọn đường chạy, nhìn xa, mở ga nhẹ khi ra cua.",
+   "kw": "cách vào cua xe máy",
+   "kw2": [
+    "kỹ thuật vào cua xe máy",
+    "vào cua xe máy cho người mới",
+    "nghiêng xe khi vào cua"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái hoặc khách du lịch lần đầu chạy xe máy qua đường có nhiều khúc cua",
+   "location_scope": "Hà Nội: đường đê ven sông Hồng, vòng cung trong phố, đường ngoại thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-002",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Phanh giữa khúc cua: vì sao nên phanh xong rồi mới nghiêng xe",
+   "intent": "Hiểu vì sao bóp phanh gấp khi đang nghiêng dễ trượt bánh và cách xử lý khi buộc phải giảm tốc giữa cua: nhả ga, đỡ xe thẳng lên, phanh nhẹ và đều.",
+   "kw": "phanh giữa cua xe máy",
+   "kw2": [
+    "phanh khi đang nghiêng xe",
+    "phanh trước khi vào cua",
+    "xe trượt bánh khi phanh trong cua"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người đã chạy được xe nhưng còn giật mình bóp phanh gấp khi gặp cua bất ngờ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-003",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Nhìn xa khi đi xe máy trong phố: mắt nhìn đâu để kịp xử lý tình huống",
+   "intent": "Tập thói quen nhìn xa vài xe phía trước, nhìn xuyên qua kính xe lớn và không dán mắt vào bánh xe trước hay ổ gà, để có thêm thời gian xử lý.",
+   "kw": "nhìn xa khi đi xe máy",
+   "kw2": [
+    "quét mắt khi đi xe máy",
+    "nhìn đâu khi chạy xe máy",
+    "tầm nhìn khi đi xe máy trong phố"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái hoặc khách lần đầu đi xe máy trong phố đông Hà Nội",
+   "location_scope": "Hà Nội, các trục phố đông xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-004",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Đi xe máy sát lề hay giữa làn: chọn vị trí trong làn theo từng đoạn đường",
+   "intent": "Chọn vị trí đi trong làn của mình phù hợp từng đoạn (đường rộng, đường có xe đỗ, gần ngã tư, đoạn nhiều nắp cống) để có khoảng hở hai bên và tránh điểm rủi ro ở mép đường.",
+   "kw": "xe máy sát lề hay giữa làn",
+   "kw2": [
+    "vị trí đi trong làn xe máy",
+    "đi sát lề có nguy hiểm không",
+    "chọn vị trí trong làn đường"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái ở Hà Nội hay lúng túng nên bám lề hay đi giữa dòng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-005",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Chạy chậm mà không loạng choạng: ga nhẹ, phanh sau và ánh mắt khi kẹt xe",
+   "intent": "Biết cách giữ thăng bằng ở tốc độ rất thấp khi kẹt xe hay đi trong ngõ: giữ ga đều, kéo nhẹ phanh sau, nhìn xa thay vì nhìn bánh trước.",
+   "kw": "chạy xe máy chậm giữ thăng bằng",
+   "kw2": [
+    "đi xe máy chậm bị loạng choạng",
+    "giữ thăng bằng khi kẹt xe",
+    "kỹ thuật chạy chậm xe máy"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái hay bị chao đảo khi đi chậm trong dòng xe đông",
+   "location_scope": "Hà Nội, giờ cao điểm và ngõ nhỏ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-006",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Đi qua hàng ô tô đỗ ven đường: cửa xe bật mở và người bước ra giữa các xe",
+   "intent": "Nhận ra vùng nguy hiểm sát xe đỗ ven đường (cửa mở bất ngờ, người bước ra, xe đột ngột xuất phát) và chọn khoảng cách, tốc độ, ánh mắt để đi qua.",
+   "kw": "xe máy qua xe đỗ ven đường",
+   "kw2": [
+    "ô tô mở cửa bất ngờ xe máy",
+    "tránh cửa xe mở khi đi xe máy",
+    "đi sát xe đỗ ven đường"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người đi xe máy ở các phố Hà Nội hai bên đầy ô tô đỗ",
+   "location_scope": "Hà Nội, các phố hẹp có ô tô đỗ hai bên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-007",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Đọc ý định người đi xe xung quanh: dấu hiệu sắp rẽ, sắp tạt đầu hay sắp phanh",
+   "intent": "Học cách đoán hướng đi của xe máy, ô tô, người đi bộ xung quanh qua vai, đầu, bánh trước và khoảng hở để chủ động giảm tốc trước khi họ hành động.",
+   "kw": "dự đoán hành vi xe khác",
+   "kw2": [
+    "đọc ý định người đi đường",
+    "đi xe máy phòng thủ",
+    "xe tạt đầu bất ngờ"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái hay giật mình vì xe khác đột ngột rẽ hoặc tạt đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-008",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Đèn xanh vừa bật vẫn nhìn hai bên: thói quen một nhịp ở ngã tư đông xe",
+   "intent": "Tập thói quen nhìn trái phải một nhịp trước khi nhấc ga khi đèn vừa chuyển xanh, vì vẫn có xe vượt đèn muộn hoặc xe bám sát ra từ hướng khác.",
+   "kw": "đèn xanh vẫn nhìn hai bên",
+   "kw2": [
+    "xe vượt đèn đỏ lúc đèn xanh",
+    "ngã tư vừa chuyển xanh",
+    "nhìn hai bên trước khi qua ngã tư"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người đi xe máy ở ngã tư đông Hà Nội, nhất là người mới lái hay đi theo dòng",
+   "location_scope": "Hà Nội, các ngã tư đông xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-009",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Xe máy bị đổ nghiêng: cách một mình dựng xe lên mà không đau lưng",
+   "intent": "Biết các bước tắt máy, nhìn xăng tràn và dựng xe đổ lên đúng tư thế (đứng sát, gập gối, đẩy bằng chân) để không đau lưng, và khi nào nên nhờ người.",
+   "kw": "cách dựng xe máy bị đổ",
+   "kw2": [
+    "dựng xe máy bị ngã một mình",
+    "xe ga đổ nghiêng làm sao dựng",
+    "nâng xe máy đổ không đau lưng"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người thuê xe dáng nhỏ hoặc lần đầu để xe đổ ở bãi xe hay trong ngõ",
+   "location_scope": "Hà Nội, bãi gửi xe và ngõ nhỏ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-010",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Báo cho xe phía sau biết bạn giảm tốc: nhá phanh nhẹ và ra hiệu bằng tay",
+   "intent": "Dùng nhá phanh và ra hiệu tay đơn giản để cảnh báo xe phía sau khi giảm tốc, dừng đột ngột hoặc khi xi nhan khó thấy, và biết khi nào nên dùng.",
+   "kw": "ra hiệu tay khi đi xe máy",
+   "kw2": [
+    "nhá phanh báo xe sau",
+    "ra hiệu xin rẽ bằng tay",
+    "cảnh báo xe phía sau khi giảm tốc"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người đi xe máy trong phố Hà Nội hay bị xe phía sau áp sát",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-011",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Tư thế điều khiển xe máy chắc tay: đặt tay, gối và bàn chân thế nào",
+   "intent": "Biết đặt tay, khuỷu, gối, hông và bàn chân đúng chỗ trên xe ga và xe số để điều khiển chắc khi phanh, vào cua và chạy chậm, không chỉ để đỡ mỏi.",
+   "kw": "tư thế lái xe máy đúng",
+   "kw2": [
+    "cách cầm tay lái xe máy",
+    "đặt chân khi lái xe số",
+    "tư thế ngồi lái xe ga"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái và khách du lịch muốn ngồi xe cho chắc và an toàn",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-012",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Quen đi bên trái đường, lần đầu đi xe máy ở Hà Nội: những phản xạ cần đổi",
+   "intent": "Biết những phản xạ dễ sai của người quen đi bên trái đường (nhìn sang trái trước, vào vòng xuyến ngược chiều, rẽ sai làn) và cách tập đổi ngay từ ngày đầu ở Hà Nội.",
+   "kw": "lái xe máy bên phải lần đầu",
+   "kw2": [
+    "khách quen đi bên trái đường thuê xe máy",
+    "vòng xuyến ngược chiều",
+    "phản xạ khi đổi chiều đi đường"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "khách đến từ nước đi bên trái đường (Anh, Úc, Nhật, Thái Lan...) lần đầu tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-013",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Chọn tốc độ theo đoạn đường nhìn thấy: dừng được trong tầm mắt khi đi xe máy",
+   "intent": "Hiểu nguyên tắc chọn tốc độ sao cho dừng được trong đoạn đường nhìn rõ là trống, áp dụng ở khúc khuất, đầu ngõ, đường đê, ban đêm và đường ướt mà không dựa vào con số.",
+   "kw": "chọn tốc độ khi đi xe máy",
+   "kw2": [
+    "tốc độ an toàn xe máy",
+    "đi chậm ở chỗ khuất tầm nhìn",
+    "quãng dừng xe máy"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người mới lái và khách du lịch hay chạy theo dòng mà chưa biết chọn tốc độ theo điều kiện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-014",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Ga bị kẹt không nhả khi đang chạy: tắt máy, bóp phanh và dừng xe an toàn",
+   "intent": "Biết phản ứng từng bước khi tay ga kẹt mở và xe không giảm tốc: giữ bình tĩnh, bóp phanh, tắt máy rồi tấp vào lề, và nên làm quen công tắc tắt máy ngay ngày đầu.",
+   "kw": "tay ga bị kẹt khi đang chạy",
+   "kw2": [
+    "xe máy bị kẹt ga phải làm gì",
+    "tắt máy khi đang chạy",
+    "xe tự tăng tốc không nhả ga"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người thuê xe muốn biết trước cách xử lý tình huống hiếm nhưng nguy hiểm này",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R06-015",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Gương cầu lồi ở góc ngõ và lối ra hầm: đọc đúng khoảng cách xe đang tới",
+   "intent": "Biết gương cầu lồi làm vật trông nhỏ và xa hơn thực tế, cách đọc xe đang tới qua gương, và kết hợp tốc độ chậm, còi nhẹ khi gương mờ hoặc không có.",
+   "kw": "gương cầu lồi ở góc ngõ",
+   "kw2": [
+    "đọc gương cầu lồi khi đi xe máy",
+    "gương cầu lồi lối ra hầm",
+    "rẽ qua góc ngõ khuất"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-11-R06",
+   "audience": "người đi xe máy trong ngõ và khu chung cư Hà Nội, nơi nhiều góc khuất",
+   "location_scope": "Hà Nội: ngõ nhỏ, lối ra hầm chung cư",
+   "word_target": 1200
+  }
+ ]
+}

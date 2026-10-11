@@ -1,0 +1,199 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R02: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R02-001",
+   "child_id": "C-XE-GA",
+   "title": "Dựng xe ga bằng chân chống giữa: kỹ thuật nhấc nhẹ cho người mới",
+   "intent": "Biết cách dựng và hạ chân chống giữa của xe tay ga bằng lực chân và thân người thay vì lực tay, kèm nền nào nên và không nên dựng.",
+   "kw": "dựng xe ga bằng chân chống giữa",
+   "kw2": [
+    "cách dựng chân chống giữa xe tay ga",
+    "xe ga nặng khó dựng chân chống"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người mới đi xe ga và người nhẹ cân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-002",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga vào ngõ nhỏ ở Hà Nội: giữ ga nhẹ, né gương và len qua chỗ hẹp",
+   "intent": "Biết cách điều khiển xe tay ga ở tốc độ rất chậm trong ngõ hẹp: giữ ga đều, dùng phanh sau, né gương và xử lý khi gặp người đi bộ.",
+   "kw": "xe ga đi ngõ nhỏ",
+   "kw2": [
+    "chạy xe tay ga trong ngõ hẹp",
+    "xe ga len qua ngõ chật"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người đi xe ga vào khu nhà trọ và khu tập thể",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-003",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga khởi hành lại giữa dốc cầu vượt: giữ phanh và ga để không tụt lùi",
+   "intent": "Biết cách dừng rồi khởi hành lại trên dốc cầu khi kẹt xe bằng xe tay ga: giữ phanh, vặn ga dần và tránh để xe tụt lùi vào người phía sau.",
+   "kw": "xe ga khởi hành trên dốc",
+   "kw2": [
+    "xe ga bị tụt dốc khi dừng",
+    "dừng giữa dốc cầu xe tay ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người đi xe ga qua các cầu vượt giờ cao điểm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-004",
+   "child_id": "C-XE-GA",
+   "title": "Đổ xăng cho xe tay ga thuê: nắp xăng ở đâu và thao tác tại trạm",
+   "intent": "Biết cách tìm và mở nắp bình xăng trên xe tay ga (dưới yên hoặc phía trước tùy xe) và từng bước đổ xăng tại trạm lần đầu.",
+   "kw": "mở nắp bình xăng xe tay ga",
+   "kw2": [
+    "xe ga đổ xăng ở đâu",
+    "đổ xăng xe tay ga lần đầu"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người lần đầu tự đổ xăng cho xe ga thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-005",
+   "child_id": "C-XE-GA",
+   "title": "Đồ không nên để trong cốp xe ga khi đỗ nắng nóng",
+   "intent": "Biết những món không nên để trong cốp xe tay ga ngày nắng nóng như pin dự phòng, bật lửa, đồ điện tử, thuốc, đồ ăn, và cách xếp lại cho an toàn.",
+   "kw": "cốp xe ga ngày nắng nóng",
+   "kw2": [
+    "để sạc dự phòng trong cốp xe",
+    "cốp xe máy nóng để đồ gì"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người đỗ xe ga ngoài nắng nhiều giờ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-006",
+   "child_id": "C-XE-GA",
+   "title": "Bấm đề xe ga không phản ứng: những công tắc an toàn hay bị quên",
+   "intent": "Biết kiểm tra theo thứ tự các chốt an toàn khiến xe ga không đề, như công tắc tắt máy, chân chống, tay phanh và vị trí chìa, trước khi nghĩ tới ắc quy.",
+   "kw": "bấm đề xe ga không phản ứng",
+   "kw2": [
+    "xe ga không đề được vì chân chống",
+    "xe tay ga phải bóp phanh mới đề"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người thuê xe ga lần đầu bấm đề mà không thấy gì",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-007",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga nổ máy nhưng vặn ga không đi: dấu hiệu hỏng bộ truyền động",
+   "intent": "Nhận biết khi xe tay ga nổ máy bình thường nhưng vặn ga không tiến, các nguyên nhân thường gặp ở bộ truyền động và cách xử lý an toàn.",
+   "kw": "xe ga nổ máy nhưng không chạy",
+   "kw2": [
+    "xe tay ga vặn ga không đi",
+    "đứt dây curoa xe ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người thuê xe ga gặp xe nổ máy mà không đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-008",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga vọt lên khi vặn ga quá tay: phản xạ cần có trong một giây",
+   "intent": "Biết cách phản ứng khi xe tay ga bất ngờ vọt lên do vặn ga quá tay lúc khởi hành, và cách tập tay ga nhẹ để tránh tình huống này.",
+   "kw": "xe ga vọt lên khi vặn ga",
+   "kw2": [
+    "xe tay ga lao đi khi khởi hành",
+    "tập tay ga nhẹ khi mới đi xe ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người mới đi xe tay ga lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-009",
+   "child_id": "C-XE-GA",
+   "title": "Tay ga xe máy bị kẹt không nhả: cách tắt máy và dừng xe an toàn",
+   "intent": "Biết cách xử lý trong vài giây khi tay ga kẹt, không tự nhả về: bóp phanh, dùng công tắc tắt máy hoặc tắt chìa, dừng xe rồi báo cửa hàng.",
+   "kw": "tay ga bị kẹt không nhả",
+   "kw2": [
+    "kẹt ga xe ga xử lý",
+    "tay ga không về khi đang chạy"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người thuê xe ga ở mọi trình độ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R02-010",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga leo dốc dài và đèo: giữ ga đều để bộ truyền động không quá nóng",
+   "intent": "Biết cách leo dốc dài hoặc đèo bằng xe tay ga: giữ ga đều, không dồn ga gắt, chọn điểm nghỉ cho máy và bộ truyền động nguội, nhận dấu hiệu quá tải.",
+   "kw": "xe tay ga leo đèo dài",
+   "kw2": [
+    "xe ga lên dốc bị mất lực",
+    "nghỉ giữa đèo cho xe ga nguội"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R02",
+   "audience": "người đi xe ga lên Tam Đảo, Ba Vì hoặc các đoạn dốc dài",
+   "location_scope": "Hà Nội và các cung đèo lân cận",
+   "word_target": 1200
+  }
+ ]
+}

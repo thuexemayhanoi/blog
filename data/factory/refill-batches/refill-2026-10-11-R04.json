@@ -1,0 +1,169 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R04: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R04-001",
+   "child_id": "C-HONDA-VISION",
+   "title": "Giá thuê Honda Vision: so sánh gói ngày, tuần, tháng để chọn cho đúng",
+   "intent": "Biết các mức giá thuê Honda Vision theo ngày, tuần, tháng và tự tính gói nào hợp với số ngày dự định đi.",
+   "kw": "giá thuê honda vision",
+   "kw2": [
+    "thuê honda vision theo tuần",
+    "thuê honda vision theo tháng",
+    "honda vision thuê một ngày bao nhiêu"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "người đang so giá, chưa biết nên thuê Vision theo ngày, tuần hay tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-002",
+   "child_id": "C-HONDA-VISION",
+   "title": "Người cao thuê Honda Vision: chân có chật không và nên ngồi thế nào cho đỡ mỏi",
+   "intent": "Biết người cao khoảng 1m75 trở lên ngồi Honda Vision có thoải mái không và cách chỉnh chỗ ngồi, đặt chân để đỡ mỏi gối, lưng.",
+   "kw": "người cao thuê honda vision",
+   "kw2": [
+    "honda vision cho người cao",
+    "vision có chật chân không",
+    "xe ga nhỏ cho người cao"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "khách cao khoảng 1m75 trở lên, đang phân vân giữa xe ga nhỏ và xe lớn hơn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-003",
+   "child_id": "C-HONDA-VISION",
+   "title": "Một ngày tự lái Honda Vision quanh Hà Nội: gợi ý lộ trình cho du khách",
+   "intent": "Lên được lộ trình một ngày quanh phố cổ, Hồ Tây và cầu Long Biên bằng Honda Vision: thứ tự đi, đoạn nên tránh, lúc nào ghé nghỉ (không đi sâu vào giá vé hay giờ mở cửa).",
+   "kw": "lộ trình một ngày bằng honda vision",
+   "kw2": [
+    "thuê xe ga đi chơi hà nội một ngày",
+    "honda vision cho khách du lịch",
+    "tự lái xe máy dạo phố cổ hồ tây"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "du khách tự lái lần đầu ở Hà Nội, đi một mình hoặc hai người, chỉ có một ngày",
+   "location_scope": "Phố cổ Hoàn Kiếm, Hồ Tây và cầu Long Biên, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-004",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision đi ngoại thành trong ngày: chặng nào hợp, chặng nào nên cân nhắc",
+   "intent": "Biết xe ga nhỏ như Honda Vision hợp những chặng ngoại thành nào trong một ngày và cần chuẩn bị gì về xăng, giờ xuất phát, điểm nghỉ (không nêu số km chính xác).",
+   "kw": "honda vision đi ngoại thành",
+   "kw2": [
+    "xe ga nhỏ đi sơn tây",
+    "thuê vision đi ba vì",
+    "vision đi chùa hương có nổi không"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "khách muốn đi chơi ngoại thành trong ngày bằng xe ga nhỏ nhưng chưa chắc xe đủ sức",
+   "location_scope": "Hà Nội và các huyện ngoại thành như Gia Lâm, Sóc Sơn, Sơn Tây, Ba Vì, Mỹ Đức",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-005",
+   "child_id": "C-HONDA-VISION",
+   "title": "Canh kim xăng Honda Vision: ghé cây xăng lúc nào để không chết máy giữa đường",
+   "intent": "Biết cách đọc kim xăng xe ga nhỏ và đặt thói quen đổ xăng theo quãng đường để không hết xăng giữa phố hay ngoại thành.",
+   "kw": "canh kim xăng honda vision",
+   "kw2": [
+    "honda vision hết xăng",
+    "kim xăng xe ga tụt nhanh",
+    "khi nào nên đổ xăng xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "người thuê xe ga lần đầu hay quên đổ xăng, hoặc sắp đi quãng dài trong ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-006",
+   "child_id": "C-HONDA-VISION",
+   "title": "Cốp Honda Vision ngày nắng gắt: những món đồ không nên để lại trong cốp",
+   "intent": "Biết món đồ nào dễ hỏng, xẹp hay nguy hiểm khi để trong cốp xe ga phơi nắng ở Hà Nội và nên cất ở đâu thay thế.",
+   "kw": "đồ không nên để trong cốp xe",
+   "kw2": [
+    "sạc dự phòng để trong cốp xe",
+    "bật lửa trong cốp xe ngày nắng",
+    "cốp xe ga bị nóng"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "người dùng xe ga hay để đồ trong cốp rồi đỗ xe ngoài trời nắng",
+   "location_scope": "Hà Nội, mùa nắng nóng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-007",
+   "child_id": "C-HONDA-VISION",
+   "title": "Thuê Honda Vision dài ngày: những bộ phận hao mòn nhanh khi chạy phố mỗi ngày",
+   "intent": "Hiểu chạy phố đều đặn làm hao những bộ phận nào của xe ga nhỏ và cần để ý dấu hiệu gì trong cả tuần hay cả tháng thuê.",
+   "kw": "honda vision thuê dài ngày",
+   "kw2": [
+    "xe ga chạy phố hao bộ phận nào",
+    "thuê vision cả tháng",
+    "bộ phận mòn nhanh xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "người thuê Vision theo tuần hoặc theo tháng để đi làm hằng ngày",
+   "location_scope": "Hà Nội, đi lại trong nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R04-008",
+   "child_id": "C-HONDA-VISION",
+   "title": "Chạy thử xe ga trước khi mua bằng Honda Vision thuê một tuần: nên để ý gì",
+   "intent": "Biết cách dùng một tuần thuê Honda Vision để đánh giá xe ga có hợp mình không: tư thế ngồi, cốp, phanh, độ ồn, chi phí xăng.",
+   "kw": "thuê thử xe ga trước khi mua",
+   "kw2": [
+    "thuê xe ga chạy thử một tuần",
+    "nên mua xe ga nào lần đầu",
+    "trải nghiệm xe ga trước khi mua"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R04",
+   "audience": "người đang cân nhắc mua xe ga đầu tiên, muốn chạy thử thật trong phố hằng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

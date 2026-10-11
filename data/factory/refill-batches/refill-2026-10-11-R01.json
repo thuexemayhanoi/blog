@@ -1,0 +1,237 @@
+{
+ "_meta": {
+  "note": "Topic batch refill 2026-10-11 R01: chu de that, tao boi writer theo gate G1-G8.",
+  "created": "2026-10-11",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-11-R01-001",
+   "child_id": "C-XE-SO",
+   "title": "Xe số không có đèn báo số: cách biết bạn đang ở số mấy",
+   "intent": "Biết cách tự nhận ra mình đang chạy ở số mấy khi xe số phổ thông chỉ có đèn báo số mo, dựa vào tiếng máy, tốc độ và hành trình của cần số.",
+   "kw": "xe số không có đèn báo số",
+   "kw2": [
+    "đang ở số mấy xe máy",
+    "nghe tiếng máy để lên số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người mới đi xe số lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-002",
+   "child_id": "C-XE-SO",
+   "title": "Quen xe ga lần đầu đi xe số: những phản xạ cần chỉnh lại",
+   "intent": "Hiểu những thói quen của người quen xe tay ga phải đổi khi lần đầu cầm xe số: chân trái lo cần số, chân phải lo phanh sau, cách khởi hành và cách dừng xe.",
+   "kw": "từ xe ga chuyển sang xe số",
+   "kw2": [
+    "quen xe ga đi xe số lần đầu",
+    "đi xe số sau khi quen xe ga"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người quen xe tay ga lần đầu thuê xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-003",
+   "child_id": "C-XE-SO",
+   "title": "Mỏi cổ chân trái khi đi xe số trong phố đông: nguyên nhân và cách giảm",
+   "intent": "Biết vì sao cổ chân và bàn chân trái mỏi khi phải đổi số liên tục trong phố đông, và cách đặt chân, đổi số, chọn số để đỡ mỏi hơn.",
+   "kw": "mỏi chân trái khi đi xe số",
+   "kw2": [
+    "đau cổ chân khi đạp số",
+    "đi xe số trong phố đông bị mỏi chân"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người đi xe số nhiều giờ trong nội thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-004",
+   "child_id": "C-XE-SO",
+   "title": "Về số mo xuống dốc cho đỡ hao xăng: vì sao nên bỏ thói quen này",
+   "intent": "Hiểu vì sao thả số mo hoặc tắt máy cho xe trôi khi xuống dốc là thói quen nguy hiểm, và cách tiết kiệm xăng đúng hơn khi đi xe số.",
+   "kw": "xe số xuống dốc thả số mo",
+   "kw2": [
+    "xe số tắt máy xuống dốc có tiết kiệm xăng không",
+    "thả trôi xe số xuống dốc"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người đi xe số hay nghe mẹo tiết kiệm xăng truyền miệng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-005",
+   "child_id": "C-XE-SO",
+   "title": "Đổi số êm khi chở người ngồi sau: tránh để bạn đồng hành gật gù",
+   "intent": "Biết cách nhả ga, đạp số dứt khoát và báo trước để đổi số êm khi xe số chở thêm người ngồi sau.",
+   "kw": "đổi số êm khi chở người sau",
+   "kw2": [
+    "xe số chở người bị giật khi lên số",
+    "chở người ngồi sau xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người thuê xe số chở bạn đồng hành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-006",
+   "child_id": "C-XE-SO",
+   "title": "Bỏng ống xả khi đi xe số: cách lên xuống xe và trang phục để tránh",
+   "intent": "Biết vì sao dễ bị bỏng ống xả khi lên xuống xe số, cách lên xuống xe, đặt chân, chọn trang phục và xử lý ban đầu nếu lỡ bị bỏng.",
+   "kw": "bỏng ống xả khi đi xe số",
+   "kw2": [
+    "bị bỏng pô xe số",
+    "tránh bỏng ống xả khi lên xuống xe"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "khách du lịch mặc quần ngắn và người ngồi sau xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-007",
+   "child_id": "C-XE-SO",
+   "title": "Giảm số trên đường ướt: vì sao bánh sau dễ giật và cách giảm cho mượt",
+   "intent": "Hiểu vì sao giảm số gấp trên đường trơn ướt làm bánh sau giật hoặc trượt, và cách nhả ga, phanh bằng phanh trước rồi mới giảm số để giữ xe vững.",
+   "kw": "giảm số trên đường ướt xe số",
+   "kw2": [
+    "xe số bánh sau bị khóa khi giảm số",
+    "giảm số khi trời mưa"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người đi xe số trong những ngày mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-008",
+   "child_id": "C-XE-SO",
+   "title": "Đi nhóm lẫn xe số và xe ga: giữ nhịp để không bỏ nhau lại phía sau",
+   "intent": "Biết cách giữ nhịp, chọn điểm hẹn và sắp thứ tự hợp lý khi nhóm bạn chạy lẫn xe số và xe tay ga, nhất là lúc xuất phát ở đèn xanh.",
+   "kw": "đi nhóm xe số lẫn xe ga",
+   "kw2": [
+    "xe số theo kịp xe ga",
+    "nhóm bạn đi xe khác loại"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "nhóm bạn thuê cả xe số lẫn xe ga đi cùng nhau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-009",
+   "child_id": "C-XE-SO",
+   "title": "Xe số có nên về số khi vượt xe: lúc nào cần, lúc nào đừng",
+   "intent": "Biết khi nào nên chọn số thấp hơn trước khi vượt xe, vì sao không nên đạp số giữa lúc đang vượt và cách tính đà từ trước.",
+   "kw": "xe số về số khi vượt xe",
+   "kw2": [
+    "xuống số để vượt xe",
+    "xe số bứt tốc vượt xe tải"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người đi xe số ra đường ngoại thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-010",
+   "child_id": "C-XE-SO",
+   "title": "Dừng đèn đỏ bằng xe số: về số mo hay giữ số 1 chờ đèn xanh",
+   "intent": "Chọn cách chờ đèn đỏ hợp lý với xe số, về số mo hay giữ số 1, và thao tác xuất phát khi đèn xanh để không chết máy hay cuống tay chân.",
+   "kw": "đèn đỏ xe số về số mo",
+   "kw2": [
+    "dừng đèn đỏ giữ số 1 hay số mo",
+    "xuất phát đèn xanh xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người đi xe số qua các ngã tư đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-011",
+   "child_id": "C-XE-SO",
+   "title": "Áo mưa, ống quần và váy dễ vướng pô, xích khi đi xe số: cách xử lý",
+   "intent": "Biết những phần áo mưa, ống quần, váy dễ chạm ống xả, quấn vào xích hoặc bánh sau và vướng cần số khi đi xe số, cùng cách mặc, cuộn, buộc để tránh.",
+   "kw": "áo mưa chạm pô xe số",
+   "kw2": [
+    "ống quần vướng xích xe số",
+    "mặc váy đi xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người đi xe số mặc áo mưa, váy hoặc quần rộng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-11-R01-012",
+   "child_id": "C-XE-SO",
+   "title": "Xe số xả khói trắng, xanh hay đen: khói nào cần báo cửa hàng",
+   "intent": "Phân biệt màu khói xả khi nổ máy và khi chạy, biết khói nào bình thường lúc trời lạnh và khói nào là dấu hiệu cần báo cửa hàng cho thuê.",
+   "kw": "màu khói xả xe số",
+   "kw2": [
+    "xe máy xả khói trắng buổi sáng",
+    "xe số bị khói xanh"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-11-R01",
+   "audience": "người thuê xe số thấy khói lạ từ ống xả",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
