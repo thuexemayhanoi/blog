@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-12T05:47:20+00:00",
+  "updated_at": "2026-10-12T11:45:44+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02443",
-      "started_at": "2026-10-11T21:29:45+00:00",
-      "source": "_drafts/2026-10-11-nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien.md",
-      "destination": "_posts/2026-10-11-nen-ua-tien-coc-luc-nao-truoc-hay-sau-khi-xem-xe-va-chot-ieu-kien.md",
-      "result": "PUBLISHED",
-      "commit_sha": "56b589aac58511f1621694422a8ba54017850ac7",
-      "finished_at": "2026-10-11T21:29:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02444",
-      "started_at": "2026-10-11T21:29:45+00:00",
-      "source": "_drafts/2026-10-11-quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan.md",
-      "destination": "_posts/2026-10-11-quet-ma-qr-e-chuyen-coc-thue-xe-soat-ten-nguoi-nhan-truoc-khi-xac-nhan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "56b589aac58511f1621694422a8ba54017850ac7",
-      "finished_at": "2026-10-11T21:29:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02445",
       "started_at": "2026-10-11T21:29:53+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "a7d0bc9c980d5df294539c12b9fbc47639e428a9",
       "finished_at": "2026-10-12T05:47:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02463",
+      "started_at": "2026-10-12T11:45:44+00:00",
+      "source": "_drafts/2026-10-12-xe-may-bi-xit-lop-giua-uong-o-ha-noi-nhan-ra-tiem-va-xe-va-nho-giup-the-nao.md",
+      "destination": "_posts/2026-10-12-xe-may-bi-xit-lop-giua-uong-o-ha-noi-nhan-ra-tiem-va-xe-va-nho-giup-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e6de20a14da8e21340b92ec27c317f528d4b53b5",
+      "finished_at": "2026-10-12T11:45:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02464",
+      "started_at": "2026-10-12T11:45:44+00:00",
+      "source": "_drafts/2026-10-12-xe-may-thue-khong-e-uoc-cac-ieu-tu-kiem-tra-truoc-khi-goi-chu-xe.md",
+      "destination": "_posts/2026-10-12-xe-may-thue-khong-e-uoc-cac-ieu-tu-kiem-tra-truoc-khi-goi-chu-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e6de20a14da8e21340b92ec27c317f528d4b53b5",
+      "finished_at": "2026-10-12T11:45:44+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
