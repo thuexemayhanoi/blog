@@ -1,0 +1,836 @@
+{
+ "metadata": {
+  "rendered_title_len_gt_60": 289,
+  "rendered_title_len_gt_70": 226,
+  "rendered_title_len_max": 116,
+  "rendered_title_len_median": 82,
+  "description_len_lt_70": 0,
+  "description_len_gt_160": 128,
+  "description_len_min": 83,
+  "description_len_max": 219,
+  "description_missing": 0,
+  "robots_meta_set": 0,
+  "canonical_override_set": 0,
+  "title_already_contains_site_name": 0
+ },
+ "duplicates_in_sample": {
+  "duplicate_titles": [],
+  "duplicate_descriptions": []
+ },
+ "permalinks": {
+  "urls_with_non_ascii_path": 300,
+  "urls_with_space_in_path": 300,
+  "first_segment_counts": {
+   "du lịch": 24,
+   "kinh nghiệm": 206,
+   "chia sẻ": 70
+  },
+  "example": [
+   {
+    "id": "BLG-00001",
+    "canonical_url": "https://blog.thuexemaynguyentu.com/du%20l%E1%BB%8Bch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/"
+   },
+   {
+    "id": "BLG-00002",
+    "canonical_url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/"
+   },
+   {
+    "id": "BLG-00003",
+    "canonical_url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+   }
+  ],
+  "note": "Legacy posts use the Jekyll category name (e.g. \"Kinh nghiệm\") verbatim as the first URL segment (permalink: pretty); factory posts use ASCII category slugs. Changing a URL needs redirects: NOT in scope of this audit."
+ },
+ "structure": {
+  "word_count_min": 1486,
+  "word_count_median": 1564,
+  "word_count_max": 2196,
+  "body_h1_present": [
+   "BLG-00238"
+  ],
+  "posts_with_table": 1,
+  "posts_without_h3": 288,
+  "posts_with_ge4_h2": 300,
+  "posts_with_question_form_heading": 5,
+  "posts_with_faq_like_heading": 25,
+  "posts_with_detected_qa_pairs": 5,
+  "posts_with_nonapproved_amounts_signal": [
+   "BLG-00001",
+   "BLG-00002",
+   "BLG-00020",
+   "BLG-00032",
+   "BLG-00035",
+   "BLG-00039",
+   "BLG-00040",
+   "BLG-00041",
+   "BLG-00042",
+   "BLG-00044",
+   "BLG-00047",
+   "BLG-00048",
+   "BLG-00059",
+   "BLG-00073",
+   "BLG-00081",
+   "BLG-00102",
+   "BLG-00127",
+   "BLG-00132",
+   "BLG-00173",
+   "BLG-00213",
+   "BLG-00231",
+   "BLG-00249",
+   "BLG-00250",
+   "BLG-00276",
+   "BLG-00280"
+  ],
+  "posts_with_forbidden_claim_hits": [
+   "BLG-00037",
+   "BLG-00211",
+   "BLG-00265"
+  ],
+  "body_internal_links_total": 0,
+  "body_external_links_total": 0,
+  "heading_level_skips": {
+   "posts": 0,
+   "examples": {}
+  },
+  "generic_repeated_headings_top": [
+   {
+    "heading": "tóm lại",
+    "posts_count_occurrences": 112
+   },
+   {
+    "heading": "kết lại",
+    "posts_count_occurrences": 65
+   },
+   {
+    "heading": "kết luận",
+    "posts_count_occurrences": 6
+   },
+   {
+    "heading": "ưu điểm",
+    "posts_count_occurrences": 3
+   },
+   {
+    "heading": "nhược điểm",
+    "posts_count_occurrences": 3
+   },
+   {
+    "heading": "đối tượng phù hợp",
+    "posts_count_occurrences": 3
+   },
+   {
+    "heading": "câu hỏi thường gặp",
+    "posts_count_occurrences": 3
+   },
+   {
+    "heading": "an toàn giao thông",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "tiết kiệm nhiên liệu",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "phanh trước và phanh sau",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "ghi lại các điểm chính",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "những tình huống thường gặp",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "sau chuyến đi",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "nếu ở lại một đêm",
+    "posts_count_occurrences": 2
+   },
+   {
+    "heading": "tại sao nên khám phá hà nội bằng xe máy?",
+    "posts_count_occurrences": 1
+   }
+  ]
+ },
+ "clusters": {
+  "by_parent": {
+   "P-DU-LICH": 9,
+   "P-KY-NANG": 164,
+   "P-XE-MAY": 29,
+   "P-THUE-XE": 64,
+   "P-CUNG-DUONG": 5,
+   "P-PHAP-LY": 19,
+   "P-HOI-DAP": 10
+  },
+  "by_child_top": {
+   "P-KY-NANG/C-KY-NANG-TINH-HUONG": 66,
+   "P-KY-NANG/C-KY-NANG-THOI-TIET": 23,
+   "P-KY-NANG/C-KY-NANG-CO-BAN": 20,
+   "P-KY-NANG/C-KY-NANG-CHO-DO": 20,
+   "P-KY-NANG/C-KY-NANG-SUC-KHOE": 18,
+   "P-THUE-XE/C-THUE-SU-CO": 17,
+   "P-KY-NANG/C-KY-NANG-GUI-XE": 17,
+   "P-THUE-XE/C-THUE-NHAN-TRA": 13,
+   "P-THUE-XE/C-THUE-THU-TUC": 11,
+   "P-HOI-DAP/C-HD-NGUOI-MOI": 10,
+   "P-THUE-XE/C-THUE-NGAY": 9,
+   "P-XE-MAY/C-BAO-DUONG": 8,
+   "P-THUE-XE/C-THUE-THANG": 8,
+   "P-PHAP-LY/C-GIAY-TO": 6,
+   "P-XE-MAY/C-XE-GA": 6,
+   "P-PHAP-LY/C-QUY-DINH": 6,
+   "P-XE-MAY/C-XE-DIEN": 5,
+   "P-DU-LICH/C-DIEM-DEN": 4,
+   "P-CUNG-DUONG/C-CD-CUOI-TUAN": 4,
+   "P-PHAP-LY/C-BAO-HIEM": 4
+  }
+ },
+ "similarity": {
+  "threshold": 0.4,
+  "sample_posts_with_top_similar_ge_0_4": 45,
+  "sample_posts_with_top_similar_ge_0_5": 18,
+  "pairs_inside_or_crossing_sample_ge_0_4": 60,
+  "connected_components": [
+   {
+    "ids": [
+     "BLG-00045",
+     "BLG-00049",
+     "BLG-00576",
+     "BLG-00581",
+     "BLG-02066"
+    ],
+    "size": 5,
+    "in_sample": [
+     "BLG-00045",
+     "BLG-00049"
+    ],
+    "titles": [
+     "Thuê xe máy điện ở Hà Nội: quãng đường, sạc pin và những điều cần biết",
+     "Tiền đặt cọc khi thuê xe máy ở Hà Nội: cần biết gì trước khi đưa tiền",
+     "(outside sample)",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00176",
+     "BLG-00770",
+     "BLG-01101",
+     "BLG-01738",
+     "BLG-01810"
+    ],
+    "size": 5,
+    "in_sample": [
+     "BLG-00176"
+    ],
+    "titles": [
+     "Đi Tam Đảo bằng xe máy từ Hà Nội",
+     "(outside sample)",
+     "(outside sample)",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00207",
+     "BLG-00828",
+     "BLG-01340",
+     "BLG-01642",
+     "BLG-01979"
+    ],
+    "size": 5,
+    "in_sample": [
+     "BLG-00207"
+    ],
+    "titles": [
+     "Đi xe máy thuê qua đường ngập nước sau mưa",
+     "(outside sample)",
+     "(outside sample)",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00064",
+     "BLG-00065",
+     "BLG-00651",
+     "BLG-00994"
+    ],
+    "size": 4,
+    "in_sample": [
+     "BLG-00064",
+     "BLG-00065"
+    ],
+    "titles": [
+     "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì",
+     "Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00143",
+     "BLG-00144",
+     "BLG-01188",
+     "BLG-01189"
+    ],
+    "size": 4,
+    "in_sample": [
+     "BLG-00143",
+     "BLG-00144"
+    ],
+    "titles": [
+     "Chuyến đi chùa Hương mùa lễ bằng xe máy",
+     "Chuyến đi chùa Tam Chúc bằng xe máy",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00004",
+     "BLG-00499",
+     "BLG-01950"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00004"
+    ],
+    "titles": [
+     "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00015",
+     "BLG-00220",
+     "BLG-00933"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00015",
+     "BLG-00220"
+    ],
+    "titles": [
+     "Dấu hiệu xe thuê cần báo cửa hàng ngay",
+     "Đọc dấu hiệu lốp xe máy mòn: khi nào cần báo cửa hàng thuê",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00020",
+     "BLG-00510",
+     "BLG-01993"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00020"
+    ],
+    "titles": [
+     "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00040",
+     "BLG-00041",
+     "BLG-00602"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00040",
+     "BLG-00041"
+    ],
+    "titles": [
+     "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố",
+     "Thuê Honda Vision ở Hà Nội: dòng xe ga nhỏ gọn hợp với ai",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00122",
+     "BLG-01299",
+     "BLG-01581"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00122"
+    ],
+    "titles": [
+     "Chở hoa và cây cảnh trên xe máy sao cho an toàn",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00128",
+     "BLG-01409",
+     "BLG-01940"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00128"
+    ],
+    "titles": [
+     "Chở người lớn tuổi đi khám bệnh định kỳ",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00131",
+     "BLG-00135",
+     "BLG-01813"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00131",
+     "BLG-00135"
+    ],
+    "titles": [
+     "Chở thú cưng trên xe máy: an toàn cho cả hai",
+     "Chở vật dài trên xe máy an toàn",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00265",
+     "BLG-00429",
+     "BLG-00522"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00265"
+    ],
+    "titles": [
+     "Gửi xe dài hạn ở nơi ở và nơi làm việc khi thuê xe máy theo tháng",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00273",
+     "BLG-01641",
+     "BLG-02023"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00273"
+    ],
+    "titles": [
+     "Gương chiếu hậu xe máy thuê bị lỏng giữa kỳ: xử lý tạm và cách báo cửa hàng",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00282",
+     "BLG-01386",
+     "BLG-01976"
+    ],
+    "size": 3,
+    "in_sample": [
+     "BLG-00282"
+    ],
+    "titles": [
+     "Khám phá làng cổ Đường Lâm bằng xe máy",
+     "(outside sample)",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00001",
+     "BLG-00231"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00001",
+     "BLG-00231"
+    ],
+    "titles": [
+     "Gợi ý khám phá Hà Nội bằng xe máy cho người mới",
+     "Lịch trình khám phá Hà Nội một tuần bằng xe máy thuê"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00007",
+     "BLG-00502"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00007"
+    ],
+    "titles": [
+     "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00008",
+     "BLG-00742"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00008"
+    ],
+    "titles": [
+     "Cầu Long Biên và khu Long Biên bằng xe máy: trải nghiệm đáng đi ở Hà Nội",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00035",
+     "BLG-00505"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00035"
+    ],
+    "titles": [
+     "Trả xe thuê đúng cách: quy trình tránh mọi tranh chấp",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00039",
+     "BLG-00596"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00039"
+    ],
+    "titles": [
+     "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00042",
+     "BLG-00586"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00042"
+    ],
+    "titles": [
+     "Thuê Honda Wave ở Hà Nội: dòng xe số bền bỉ hợp với nhu cầu nào",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00047",
+     "BLG-00938"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00047"
+    ],
+    "titles": [
+     "Thuê xe máy theo ngày, theo tuần hay theo tháng: nên chọn kiểu nào",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00048",
+     "BLG-00566"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00048"
+    ],
+    "titles": [
+     "Thuê xe tay ga ở Hà Nội: dòng xe phù hợp với ai và lưu ý khi lái trong phố",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00051",
+     "BLG-00560"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00051"
+    ],
+    "titles": [
+     "Xe số là gì, ưu và nhược điểm khi thuê xe số ở Hà Nội",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00052",
+     "BLG-00611"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00052"
+    ],
+    "titles": [
+     "Ắc quy xe tay ga yếu và khóa từ: dấu hiệu, xử lý và phòng tránh",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00106",
+     "BLG-01446"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00106"
+    ],
+    "titles": [
+     "Chỉnh gương chiếu hậu xe máy đúng cách cho người thuê xe",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00139",
+     "BLG-02109"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00139"
+    ],
+    "titles": [
+     "Chống buồn ngủ khi chạy xe buổi trưa",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00194",
+     "BLG-01296"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00194"
+    ],
+    "titles": [
+     "Đi xe máy ngày trời quang nắng gắt",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00204",
+     "BLG-00955"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00204"
+    ],
+    "titles": [
+     "Đi xe máy xuyên quận qua cầu Long Biên",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00219",
+     "BLG-00959"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00219"
+    ],
+    "titles": [
+     "Gặp đoàn rước lễ hội trên đường khi đi xe máy: xử lý thế nào",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00221",
+     "BLG-01453"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00221"
+    ],
+    "titles": [
+     "Đọc hiểu điều khoản hợp đồng thuê xe máy: những câu cần làm rõ",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00238",
+     "BLG-02012"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00238"
+    ],
+    "titles": [
+     "Dừng xe chụp ảnh an toàn trên đường",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00251",
+     "BLG-00466"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00251"
+    ],
+    "titles": [
+     "Giao nhận xe máy vào ngày mưa cần lưu ý gì",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00254",
+     "BLG-00500"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00254"
+    ],
+    "titles": [
+     "Giấy tờ cần mang khi đi xe máy thường ngày",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00260",
+     "BLG-00815"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00260"
+    ],
+    "titles": [
+     "Giữ khoảng cách với xe tải và xe container khi đi xe máy ở Hà Nội",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00277",
+     "BLG-01729"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00277"
+    ],
+    "titles": [
+     "Hồ Quan Sơn một ngày đi xe máy",
+     "(outside sample)"
+    ]
+   },
+   {
+    "ids": [
+     "BLG-00303",
+     "BLG-00304"
+    ],
+    "size": 2,
+    "in_sample": [
+     "BLG-00303",
+     "BLG-00304"
+    ],
+    "titles": [
+     "Làm quen xe côn tay thuê lần đầu",
+     "Làm quen với xe đạp điện thuê lần đầu"
+    ]
+   }
+  ],
+  "method": "title tokens + H2/H3 tokens + bigrams, IDF-weighted, ascii-folded; advisory only"
+ },
+ "slug_defect_dropped_d": {
+  "counts": {
+   "rows_EXISTING": 473,
+   "title_has_d_EXISTING": 337,
+   "rows_PUBLISHED": 2010,
+   "title_has_d_PUBLISHED": 1371,
+   "slug_drops_d_PUBLISHED": 1371,
+   "rows_PLANNED": 468,
+   "title_has_d_PLANNED": 388,
+   "slug_drops_d_PLANNED": 388
+  },
+  "examples": [
+   {
+    "id": "BLG-00485",
+    "title": "Những yếu tố làm giá thuê xe máy thay đổi",
+    "slug": "nhung-yeu-to-lam-gia-thue-xe-may-thay-oi",
+    "expected_url": "/thue-xe/2026/09/27/nhung-yeu-to-lam-gia-thue-xe-may-thay-oi/"
+   },
+   {
+    "id": "BLG-00491",
+    "title": "Giá thuê xe máy điện ở Hà Nội",
+    "slug": "gia-thue-xe-may-ien-o-ha-noi",
+    "expected_url": "/thue-xe/2026/09/27/gia-thue-xe-may-ien-o-ha-noi/"
+   },
+   {
+    "id": "BLG-00495",
+    "title": "Giá thuê xe máy dịp lễ tết có thay đổi không",
+    "slug": "gia-thue-xe-may-dip-le-tet-co-thay-oi-khong",
+    "expected_url": "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-oi-khong/"
+   },
+   {
+    "id": "BLG-00496",
+    "title": "Dự toán chi phí thuê xe máy cho chuyến 3 ngày 2 đêm",
+    "slug": "du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em",
+    "expected_url": "/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/"
+   },
+   {
+    "id": "BLG-00497",
+    "title": "Giá thuê xe máy dịp lễ Tết thường thay đổi thế nào",
+    "slug": "gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao",
+    "expected_url": "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao/"
+   },
+   {
+    "id": "BLG-00498",
+    "title": "Cách đọc báo giá thuê xe máy: con số nào là con số thật",
+    "slug": "cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that",
+    "expected_url": "/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/"
+   },
+   {
+    "id": "BLG-00499",
+    "title": "Thủ tục thuê xe máy ở Hà Nội cho người lần đầu",
+    "slug": "thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au",
+    "expected_url": "/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/"
+   },
+   {
+    "id": "BLG-00500",
+    "title": "Giấy tờ cần mang khi đi thuê xe máy",
+    "slug": "giay-to-can-mang-khi-i-thue-xe-may",
+    "expected_url": "/thue-xe/2026/09/27/giay-to-can-mang-khi-i-thue-xe-may/"
+   }
+  ],
+  "root_cause": "slugify() in scripts/factory/refill-queue.py:82 and scripts/factory/generate-matrix.py:62 call norm(), which NFD-decomposes and strips combining marks, then deletes every character outside [a-z0-9 ]. The Vietnamese letter \"đ\" (U+0111) has no decomposition, so it is DELETED instead of being mapped to \"d\" (e.g. \"điện\" -> \"ien\", \"đạp\" -> \"ap\").",
+  "scope_note": "Outside the 300-post sample (legacy slugs are hand-made) but it affects the factory output and therefore any URL-level SEO/AEO work. NOT changed here (no URL/redirect changes in this phase)."
+ }
+}

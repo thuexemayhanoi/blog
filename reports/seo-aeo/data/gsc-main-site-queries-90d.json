@@ -1,0 +1,298 @@
+{
+ "source": "Google Search Console via Windsor.ai connector `searchconsole`",
+ "property": "https://thuexemaynguyentu.com/ (MAIN SITE, URL-prefix property)",
+ "NOT_the_blog": true,
+ "blog_property_connected": false,
+ "note": "No Search Console property for https://blog.thuexemaynguyentu.com/ is connected (connected: https://thuexemaynguyentu.com/ and https://chatbot.thuexemaynguyentu.com/). Therefore NO impressions/clicks/positions exist for any blog URL; this table is only topic-level demand context for the business.",
+ "fetched": "2026-10-12",
+ "date_preset": "last_90d",
+ "filter": "impressions >= 15",
+ "totals_property_last_90d": {
+  "clicks": 680,
+  "impressions": 11009
+ },
+ "columns": [
+  "query",
+  "clicks",
+  "impressions",
+  "avg_position"
+ ],
+ "rows": [
+  [
+   "thuê xe máy hà nội",
+   44,
+   774,
+   15.7119
+  ],
+  [
+   "thuê xe máy 50cc hà nội",
+   34,
+   356,
+   4.5337
+  ],
+  [
+   "thuê xe máy ở hà nội",
+   32,
+   757,
+   13.4848
+  ],
+  [
+   "thuê xe máy nguyễn tú",
+   30,
+   116,
+   1.2414
+  ],
+  [
+   "thuê xe đạp điện hà nội",
+   29,
+   302,
+   5.7483
+  ],
+  [
+   "thuê xe 50cc hà nội",
+   28,
+   217,
+   4.212
+  ],
+  [
+   "cho thuê xe đạp điện hà nội",
+   13,
+   109,
+   7.3303
+  ],
+  [
+   "thue xe may ha noi",
+   12,
+   200,
+   8.19
+  ],
+  [
+   "thuê xe máy điện hà nội",
+   11,
+   121,
+   10.4132
+  ],
+  [
+   "thuê xe máy long biên",
+   9,
+   262,
+   1.6985
+  ],
+  [
+   "thue xe may nguyen tu",
+   7,
+   205,
+   1.2976
+  ],
+  [
+   "thuê xe máy hà nội không cọc",
+   7,
+   90,
+   8
+  ],
+  [
+   "thuê xe đạp điện",
+   7,
+   161,
+   7.9317
+  ],
+  [
+   "thuê xe 50cc",
+   6,
+   68,
+   7.9412
+  ],
+  [
+   "app thuê xe máy hà nội",
+   4,
+   20,
+   9.95
+  ],
+  [
+   "thue xe may o ha noi",
+   4,
+   189,
+   9.8413
+  ],
+  [
+   "thuê xe máy giao tận nơi hà nội",
+   4,
+   51,
+   7.5882
+  ],
+  [
+   "giá thuê xe máy hà nội",
+   3,
+   27,
+   19.1481
+  ],
+  [
+   "cho thuê xe đạp điện",
+   2,
+   20,
+   5.95
+  ],
+  [
+   "thuê xe máy 50cc",
+   2,
+   44,
+   8.0682
+  ],
+  [
+   "thuê xe máy hà nội 50cc",
+   2,
+   17,
+   4.3529
+  ],
+  [
+   "thuê xe máy long biên hà nội",
+   2,
+   74,
+   2.4595
+  ],
+  [
+   "thuê xe máy phố cổ hà nội",
+   2,
+   36,
+   13.3611
+  ],
+  [
+   "thuê xe máy tại hà nội",
+   2,
+   74,
+   24.8919
+  ],
+  [
+   "cho thuê xe máy hà nội",
+   1,
+   19,
+   20.9474
+  ],
+  [
+   "cho thuê xe máy điện hà nội",
+   1,
+   16,
+   10.125
+  ],
+  [
+   "thuê xe máy gần đây",
+   1,
+   41,
+   9.1951
+  ],
+  [
+   "thuê xe máy hoàn kiếm hà nội",
+   1,
+   54,
+   16.0741
+  ],
+  [
+   "thuê xe máy hà nội giao tận nơi",
+   1,
+   25,
+   5.76
+  ],
+  [
+   "thuê xe máy không cọc",
+   1,
+   35,
+   9.0857
+  ],
+  [
+   "thuê xe máy phố cổ",
+   1,
+   16,
+   10.375
+  ],
+  [
+   "cho thue xe dap dien",
+   0,
+   80,
+   12.6875
+  ],
+  [
+   "cho thuê xe máy gần đây",
+   0,
+   15,
+   14.0667
+  ],
+  [
+   "dịch vụ cho thuê xe máy",
+   0,
+   15,
+   40.8
+  ],
+  [
+   "mio ultimo",
+   0,
+   50,
+   1.38
+  ],
+  [
+   "thuê xe máy",
+   0,
+   129,
+   25.3798
+  ],
+  [
+   "thuê xe máy hoàn kiếm, hà nội",
+   0,
+   56,
+   15.7321
+  ],
+  [
+   "thuê xe máy hoàng mai",
+   0,
+   16,
+   27.4375
+  ],
+  [
+   "thuê xe máy hà nội giá bao nhiêu",
+   0,
+   35,
+   23.1714
+  ],
+  [
+   "thuê xe máy hà đông",
+   0,
+   15,
+   27.2667
+  ],
+  [
+   "thuê xe máy tự lái",
+   0,
+   18,
+   30
+  ],
+  [
+   "thuê xe máy tự lái hà nội",
+   0,
+   20,
+   11.8
+  ],
+  [
+   "thuê xe máy vision tphcm",
+   0,
+   66,
+   46.9697
+  ],
+  [
+   "thuê xe đạp điện theo tháng",
+   0,
+   23,
+   7.913
+  ],
+  [
+   "xe ultimo",
+   0,
+   30,
+   2.6667
+  ],
+  [
+   "yamaha ultimo",
+   0,
+   16,
+   1.1875
+  ]
+ ]
+}
