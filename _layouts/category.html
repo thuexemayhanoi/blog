@@ -7,8 +7,10 @@ layout: default
 <section class="section page-section">
   <div class="container">
     <h1>{{ page_title | default: page.category }}</h1>
-    
-    {% if page.description %}
+    {%- comment -%} Không in mô tả hai lần khi thân bài trùng đúng câu mô tả. {%- endcomment -%}
+    {%- assign lead_body = content | strip_html | normalize_whitespace | strip -%}
+    {%- assign lead_desc = page.description | default: '' | normalize_whitespace | strip -%}
+    {% if page.description and lead_body != lead_desc %}
     <p class="page-description">{{ page.description }}</p>
     {% endif %}
     

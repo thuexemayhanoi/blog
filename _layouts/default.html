@@ -47,9 +47,14 @@
   {% include assistant.html %}
   
   <main>
-    {% if page.layout != 'home' and page.url != '/' %}
+    {%- comment -%}
+      post / hub / topic / topic-listing tự render breadcrumb phân cấp riêng; listing tự include breadcrumb.html.
+      Không include thêm breadcrumb chung ở đây (trước đây gây 2 thanh breadcrumb trên mọi bài/hub/topic).
+    {%- endcomment -%}
+    {% assign own_breadcrumb = 'post,hub,topic,listing,topic-listing' | split: ',' %}
+    {% unless page.layout == 'home' or page.url == '/' or own_breadcrumb contains page.layout %}
       {% include breadcrumb.html %}
-    {% endif %}
+    {% endunless %}
     
     {{ content }}
   </main>

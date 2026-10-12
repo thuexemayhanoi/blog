@@ -69,8 +69,13 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     </nav>
     {% endif %}
 
+    {%- comment -%}
+      Một số bài legacy viết link nội bộ dạng .../slug// (nối thêm "/" sau {% raw %}{% post_url %}{% endraw %}). URL đó vẫn trả 200
+      nhưng là biến thể không canonical; chuẩn hóa khi render (không sửa _posts/).
+    {%- endcomment -%}
+    {%- assign post_body_html = content | replace: '//">', '/">' -%}
     <div class="post-content article-body">
-      {{ content }}
+      {{ post_body_html }}
     </div>
 
     <div class="post-navigation">
