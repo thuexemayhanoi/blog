@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-12T17:29:40+00:00",
+  "updated_at": "2026-10-12T17:37:09+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02523",
-      "started_at": "2026-10-12T05:46:41+00:00",
-      "source": "_drafts/2026-10-11-ra-e-song-hong-ngam-hoang-hon-gan-cau-long-bien-bang-xe-ap-ien.md",
-      "destination": "_posts/2026-10-11-ra-e-song-hong-ngam-hoang-hon-gan-cau-long-bien-bang-xe-ap-ien.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a7d0bc9c980d5df294539c12b9fbc47639e428a9",
-      "finished_at": "2026-10-12T05:46:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02524",
-      "started_at": "2026-10-12T05:46:41+00:00",
-      "source": "_drafts/2026-10-11-mua-thu-ha-noi-bang-xe-ap-ien-uong-hoa-sua-lang-com-vong-va-ho-tay.md",
-      "destination": "_posts/2026-10-11-mua-thu-ha-noi-bang-xe-ap-ien-uong-hoa-sua-lang-com-vong-va-ho-tay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a7d0bc9c980d5df294539c12b9fbc47639e428a9",
-      "finished_at": "2026-10-12T05:46:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02525",
       "started_at": "2026-10-12T05:46:51+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "28d9d9f8646dae271f04f3d0a5670b2bf98eae7d",
       "finished_at": "2026-10-12T17:29:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02483",
+      "started_at": "2026-10-12T17:37:09+00:00",
+      "source": "_drafts/2026-10-12-tu-vung-viet-anh-khi-nhan-va-tra-xe-may-thue-xuoc-phanh-binh-xang.md",
+      "destination": "_posts/2026-10-12-tu-vung-viet-anh-khi-nhan-va-tra-xe-may-thue-xuoc-phanh-binh-xang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "fbd7d49d1ea897c7ec0ca44e64273193455bd20e",
+      "finished_at": "2026-10-12T17:37:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02484",
+      "started_at": "2026-10-12T17:37:09+00:00",
+      "source": "_drafts/2026-10-12-vua-roi-cua-hang-thay-xe-co-tieng-la-hoac-rung-dung-au-va-bao-the-nao.md",
+      "destination": "_posts/2026-10-12-vua-roi-cua-hang-thay-xe-co-tieng-la-hoac-rung-dung-au-va-bao-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "fbd7d49d1ea897c7ec0ca44e64273193455bd20e",
+      "finished_at": "2026-10-12T17:37:09+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
