@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-12T13:14:41+00:00",
+  "updated_at": "2026-10-12T15:18:30+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02407",
-      "started_at": "2026-10-12T02:56:54+00:00",
-      "source": "_drafts/2026-10-11-thue-thu-vision-hoac-air-blade-vai-ngay-truoc-khi-quyet-inh-mua-xe.md",
-      "destination": "_posts/2026-10-11-thue-thu-vision-hoac-air-blade-vai-ngay-truoc-khi-quyet-inh-mua-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c81ebaebf6a6d2e78db81504cacb55bd1658aa59",
-      "finished_at": "2026-10-12T02:56:54+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02408",
-      "started_at": "2026-10-12T02:56:54+00:00",
-      "source": "_drafts/2026-10-11-hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may.md",
-      "destination": "_posts/2026-10-11-hoi-khach-san-hoac-homestay-ve-cho-e-xe-truoc-khi-chot-thue-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c81ebaebf6a6d2e78db81504cacb55bd1658aa59",
-      "finished_at": "2026-10-12T02:56:54+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02409",
       "started_at": "2026-10-12T02:57:02+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
       "finished_at": "2026-10-12T13:14:41+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02465",
+      "started_at": "2026-10-12T15:18:29+00:00",
+      "source": "_drafts/2026-10-12-nga-xe-nhe-khi-i-choi-o-ha-noi-viec-au-tien-nen-lam-va-nho-ai-giup.md",
+      "destination": "_posts/2026-10-12-nga-xe-nhe-khi-i-choi-o-ha-noi-viec-au-tien-nen-lam-va-nho-ai-giup.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f83b05b8bced05129c37262fa29c89323c30f02f",
+      "finished_at": "2026-10-12T15:18:29+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02466",
+      "started_at": "2026-10-12T15:18:29+00:00",
+      "source": "_drafts/2026-10-12-uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc.md",
+      "destination": "_posts/2026-10-12-uong-ngap-sau-mua-lon-o-ha-noi-khi-nao-nen-dung-khi-nao-moi-qua-uoc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f83b05b8bced05129c37262fa29c89323c30f02f",
+      "finished_at": "2026-10-12T15:18:30+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
