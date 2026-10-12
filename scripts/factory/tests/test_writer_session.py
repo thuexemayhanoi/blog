@@ -1044,6 +1044,26 @@ class TestRegistryConflictBoundary(SessionBase):
         r, out = self.run_cmd('c', 'heartbeat')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
+    def test_81_conflict_plus_oversized_lease_is_still_a_conflict_not_repairable(self):
+        """Codex P2 (vòng 6): lease vượt MAX_LEASE (sửa được) CỘNG tranh chấp ID sống
+        phải là REGISTRY_CONFLICT; nếu là CORRUPT thì repair-registry khôi phục bản cũ
+        và âm thầm mất lease đang tranh chấp."""
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        self.begin('b', '--slot', 'W2', '--count', '2')
+        extra = ['BLG-%05d' % n for n in range(100, 110)]
+        self.sim.edit_registry(lambda reg: (
+            reg['leases']['W1'].update(ids=a['leased_total'] + extra),
+            reg['leases']['W2']['ids'].append(a['leased_total'][0])))
+        head = self.sim.origin_head()
+        for args in (['status'], ['repair-registry'], ['heartbeat']):
+            r, out = self.run_cmd('a', *args)
+            self.assertEqual(r.returncode, 1, (args, r.stdout, r.stderr))
+            self.assertEqual(out['code'], 'REGISTRY_CONFLICT', (args, out))
+        self.assertEqual(self.sim.origin_head(), head,
+                         'repair không được ghi/rollback origin khi có tranh chấp')
+
     def test_80_lease_without_ids_key_does_not_crash_begin(self):
         """Review độc lập: lease sống thiếu khóa `ids` làm `begin` KeyError."""
         self.sim.clone('a')

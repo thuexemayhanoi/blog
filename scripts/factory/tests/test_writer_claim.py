@@ -472,6 +472,35 @@ class SessionOwnershipTest(unittest.TestCase):
         self.assertEqual(parsed['leases']['W1']['ids'], ids)
         self.assertEqual(report['self_duplicates'], {'W1': [ids[0]]})
 
+    def test_ownership_conflict_wins_over_repairable_corruption(self):
+        """Codex P2 (vòng 6): registry vừa tranh chấp chủ SỐNG vừa có lỗi cấu trúc sửa
+        được phải là REGISTRY_CONFLICT (chờ TTL/coordinator, KHÔNG rollback); nếu báo
+        REGISTRY_CORRUPT thì repair-registry khôi phục bản cũ và âm thầm mất lease
+        đang tranh chấp."""
+        ids = [r['id'] for r in self.rows[10:10 + WC.MAX_LEASE + 1]]
+        cases = {
+            'lease vuot MAX_LEASE + ID dung chung':
+                lambda reg: (reg['leases']['W1'].update(ids=ids),
+                             reg['leases']['W2'].update(ids=[ids[0]])),
+            'epoch sai kieu + ID dung chung':
+                lambda reg: (reg['leases']['W1'].update(epoch='abc'),
+                             reg['leases']['W2']['ids'].append(
+                                 reg['leases']['W1']['ids'][0])),
+            'ttl_hours sai kieu + session dung chung':
+                lambda reg: (reg['leases']['W1'].update(ttl_hours='abc'),
+                             reg['leases']['W2'].update(
+                                 session=reg['leases']['W1']['session'])),
+            'khoa slot la + ID dung chung':
+                lambda reg: reg['leases'].update(
+                    W4=dict(reg['leases']['W1'], session='s-four')),
+        }
+        for label, mutate in cases.items():
+            with self.subTest(label):
+                reg = self._three_live()
+                mutate(reg)
+                with self.assertRaises(WC.OwnershipConflict):
+                    WC.parse_registry(json.dumps(reg))
+
     def test_oversized_integer_ttl_is_corruption_not_an_overflow(self):
         """Codex P2 (vòng 5): số nguyên JSON quá lớn cho double làm math.isfinite raise
         OverflowError (traceback, repair --from-git cũng chết) thay vì RegistryCorrupt."""
@@ -807,6 +836,23 @@ class WriterClaimTest(FxTestCase):
             self.assertEqual(rc, 1, (args, so, se))
             self.assertEqual(out.get('code'), 'REGISTRY_CORRUPT', (args, so, se))
             self.assertNotIn('Traceback', se, (args, se))
+
+    def test_conflict_plus_repairable_error_is_still_a_conflict_everywhere(self):
+        """Codex P2 (vòng 6): registry tranh chấp chủ + lỗi kiểu trường: mọi lệnh,
+        kể cả repair-registry [--from-git], báo REGISTRY_CONFLICT và không ghi gì."""
+        path = self._conflicted_registry('id')
+        reg = self.reg()
+        reg['leases']['W1']['epoch'] = 'abc'
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        before = _hash(path)
+        for args in (['repair-registry'], ['repair-registry', '--from-git'],
+                     ['check-registry'], ['prune'], ['status']):
+            rc, out, so, se = wc(self.fx, *args)
+            self.assertEqual(rc, 1, (args, so, se))
+            self.assertEqual(out.get('code'), 'REGISTRY_CONFLICT', (args, so, se))
+            self.assertNotIn('--from-git', so, (args, so))
+        self.assertEqual(_hash(path), before)
 
     def _history(self):
         """v1 hợp lệ (W1+W2) đã commit; trả (path, registry v1)."""
