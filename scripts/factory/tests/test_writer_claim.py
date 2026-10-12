@@ -284,6 +284,78 @@ class SessionOwnershipTest(unittest.TestCase):
         self.assertTrue(any('giu boi' in p for p in cm.exception.problems),
                         cm.exception.problems)
 
+    # ---- Codex P2 round 2 (PR #9) ----
+
+    def test_merge_legacy_adoption_requires_lineage(self):
+        """Lease v1 local (ID A) + lease CÓ session ở incoming (ID B, rời A) KHÔNG
+        chứng minh được là cùng một chủ (hai working copy tự claim độc lập):
+        fail-closed, không gộp A+B dưới session của incoming."""
+        self.claim('W1', 's-one')
+        local_ids = list(self.reg['leases']['W1']['ids'])
+        self.reg['leases']['W1'].pop('session')
+        other = WC.empty_registry()
+        other['leases']['W1'] = dict(self.reg['leases']['W1'], session='s-two',
+                                    ids=['BLG-00031', 'BLG-00032'])
+        before = copy.deepcopy(self.reg)
+        with self.assertRaises(WC.OwnershipConflict) as cm:
+            WC.merge_registries(self.reg, other, self.rows)
+        self.assertTrue(cm.exception.problems)
+        self.assertEqual(self.reg, before)
+        self.assertEqual(self.reg['leases']['W1']['ids'], local_ids)
+
+    def test_merge_session_local_vs_legacy_incoming_requires_lineage_too(self):
+        self.claim('W1', 's-one')
+        other = WC.empty_registry()
+        other['leases']['W1'] = {'ids': ['BLG-00031', 'BLG-00032'],
+                                 'claimed_at': WC._iso(self.now),
+                                 'expires_at': WC._iso(self.now + 3600)}
+        before = copy.deepcopy(self.reg)
+        with self.assertRaises(WC.OwnershipConflict):
+            WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg, before)
+
+    def test_merge_adoption_that_released_some_ids_still_has_lineage(self):
+        """Phiên đã nhận có thể đã release bớt ID: còn GIỮ ít nhất một ID của
+        lease v1 local là đủ chứng minh dòng dõi."""
+        self.claim('W1', 's-one')
+        ids = list(self.reg['leases']['W1']['ids'])
+        other = copy.deepcopy(self.reg)
+        other['leases']['W1']['ids'] = ids[:1]
+        self.reg['leases']['W1'].pop('session')
+        WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg['leases']['W1']['session'], 's-one')
+        self.assertEqual(sorted(self.reg['leases']['W1']['ids']), sorted(ids))
+
+    def test_malformed_live_session_is_corruption_not_a_conflict(self):
+        """Token session hỏng KHÔNG phải hai chủ tranh nhau: là REGISTRY_CORRUPT
+        để `repair-registry --from-git` còn dùng được."""
+        self.claim('W1', 's-one')
+        self.reg['leases']['W1']['session'] = 'bad session!'
+        with self.assertRaises(WC.RegistryCorrupt) as cm:
+            WC.parse_registry(json.dumps(self.reg))
+        self.assertNotIsInstance(cm.exception, WC.OwnershipConflict)
+
+    def test_expired_malformed_session_is_ignored(self):
+        self.claim('W1', 's-one')
+        self.reg['leases']['W1']['session'] = 'bad session!'
+        self.reg['leases']['W1']['expires_at'] = WC._iso(self.now - 10)
+        WC.parse_registry(json.dumps(self.reg))
+
+    def test_empty_lease_does_not_count_for_session_conflict(self):
+        """Lease rỗng không giữ việc gì (sẽ bị prune): không được làm cả registry
+        REGISTRY_CONFLICT chỉ vì cùng session với một lease còn việc."""
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2']['session'] = 's-one'
+        self.reg['leases']['W1']['ids'] = []
+        WC.parse_registry(json.dumps(self.reg))
+        self.assertEqual(WC.live_ownership_problems(self.reg, self.now), [])
+        self.assertEqual([p for p in WC.check_invariants(self.reg, self.rows, self.now)
+                          if 'phien' in p], [])
+        report = WC.prune_registry(self.reg, self.rows, self.now)
+        self.assertNotIn('W1', self.reg['leases'])
+        self.assertEqual(self.reg['leases']['W2']['session'], 's-one')
+
 
 class WriterClaimTest(FxTestCase):
     """Mọi test chạy trên bản sao repo riêng (self.fx)."""
@@ -395,6 +467,57 @@ class WriterClaimTest(FxTestCase):
         self.assertEqual(merged['leases']['W1']['session'], 's-test-W1')
         self.assertEqual(merged['leases']['W1']['ids'],
                          remote['leases']['W1']['ids'])
+
+    def _git(self, *args):
+        env = dict(os.environ, GIT_AUTHOR_NAME='t', GIT_AUTHOR_EMAIL='t@t',
+                   GIT_COMMITTER_NAME='t', GIT_COMMITTER_EMAIL='t@t')
+        r = subprocess.run(['git'] + list(args), cwd=self.fx, env=env,
+                           capture_output=True, text=True)
+        self.assertEqual(r.returncode, 0, r.stderr)
+
+    def test_repair_from_git_never_rolls_back_past_a_conflicted_version(self):
+        """Codex P2: registry hiện tại hỏng cú pháp, bản git mới nhất còn tranh
+        chấp chủ SỐNG: KHÔNG được nhảy về bản cũ hơn (làm mất lease tranh chấp)."""
+        self.planned(8)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        self._git('init', '-q')
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v0 valid')
+        wc(self.fx, 'claim', '--writer', 'W2', '--count', '2')
+        reg = self.reg()
+        reg['leases']['W2']['ids'].append(reg['leases']['W1']['ids'][0])
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v1 conflicted')
+        with open(path, 'w') as f:
+            f.write('{"leases": ')
+        before = _hash(path)
+        rc, out, so, se = wc(self.fx, 'repair-registry', '--from-git')
+        self.assertEqual(rc, 1, (so, se))
+        self.assertEqual(out.get('code'), 'REGISTRY_CONFLICT', (so, se))
+        self.assertEqual(_hash(path), before, 'khong duoc ghi registry')
+
+    def test_prune_cleans_an_empty_lease_that_shares_a_session(self):
+        self.planned(8)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        wc(self.fx, 'claim', '--writer', 'W2', '--count', '2')
+        reg = self.reg()
+        reg['leases']['W2']['session'] = reg['leases']['W1']['session']
+        reg['leases']['W1']['ids'] = []
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        rc, out, so, se = wc(self.fx, 'prune')
+        self.assertEqual(rc, 0, (so, se))
+        after = self.reg()
+        self.assertNotIn('W1', after['leases'])
+        self.assertIn('W2', after['leases'])
 
     def test_01_w1_claims_10_ids(self):
         ids = self.planned(10)

@@ -1076,6 +1076,11 @@ def cmd_repair_registry(g, a):
                 continue
             try:
                 reg = WC.parse_registry(data.decode('utf-8'))
+            except WC.OwnershipConflict as e:
+                # ban lich su gan nhat con mo ho chu SONG: khong nhay qua no
+                raise Refuse('REGISTRY_CONFLICT', 'ban %s: %s — %s' % (
+                    sha[:10], e, WC.CONFLICT_HINT),
+                    problems=list(e.problems), hint=WC.CONFLICT_HINT)
             except (WC.RegistryCorrupt, UnicodeDecodeError):
                 continue
             report = WC.prune_registry(reg, rows, time.time())

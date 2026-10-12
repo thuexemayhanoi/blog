@@ -48,11 +48,34 @@ using the actual current corpus, taxonomy, business facts and unchanged 75/70
 thresholds. It does not call `op_qa`, publish, prepare-next or recovery.
 Fresh QA failures remain failures, even when the historical diff is domain-only.
 
-Read-only rescore on this snapshot: **976** of the 1063 domain-only cases
-are eligible proposals awaiting approval; **87** fail current canonical QA
-(business_amounts is a failing hard gate in all 87). The six exceptions remain
-manual review; BLG-01478 also fails current business-fact QA. No old evidence
-was replaced and no production row was marked REPAIR by this analysis.
+Read-only rescore on this snapshot (canonical scorer WITH the approved-amount
+whitelist initialised, exactly like `factory-operator.main` and `writer-loop`):
+**1060** of the 1063 domain-only cases are eligible proposals awaiting approval;
+**3** fail current canonical QA (BLG-00484, BLG-00485, BLG-00493: quality 75, seo 65;
+failed checks `description_keyword`, `headings_intent`, `intent_opening`,
+`links_count`, `links_matrix_required`, `links_parent_hub`, `word_count`).
+The six exceptions stay manual review (they now also score PASS on the current
+scorer, but their evidence was never bound to the published bytes). No old
+evidence was replaced and no production row was marked REPAIR by this analysis.
+
+**Correction (Codex P1 on PR #9, reproduced):** the first version of this audit
+did not call `build_amount_whitelist`, so every money amount looked unapproved
+(`APPROVED_AMOUNTS` was empty) and 87 domain-only articles that quote approved
+prices (150.000 / 200.000 / ...) were reported as failing `business_amounts`; the
+earlier 976 / 87 counts were wrong and are superseded by the numbers above.
+`RealScorerTest.test_rescore_uses_the_approved_amount_whitelist` guards the
+regression (approved price passes, an unapproved amount still fails).
+
+**Independent cross-check (2026-10-12, separate analysis with its own code that
+does not import this tool):** 1063 DOMAIN_ONLY / 6 other / 849 matching at the
+snapshot, identical ids; the migration rule was re-derived from
+`scripts/migrate-custom-domain.py` at `1b55bd81` (`MIGRATION_VERSION = 3`) and
+reproduces `04d46bef` byte-for-byte on all in-scope files. Caveat it found:
+33 DOMAIN_ONLY articles (BLG-00484..00497, parts of 00605..00614, 00629..00634,
+00727, 00730, 00731, 01098, 01138) had a documented hash-only re-stamp before the
+baseline (same `scored_at`, new `content_sha256`), so their OLD scores are weaker
+provenance. That is why a re-attestation must never reuse old scores: it only
+accepts a FRESH independent scoring of the exact current bytes.
 
 ## Proposed attestation procedure — NOT implemented or authorized
 

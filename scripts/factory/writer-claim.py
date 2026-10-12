@@ -250,6 +250,14 @@ def parse_registry(text):
             # bị chiếm): fail-closed, người vận hành sửa tay
             raise RegistryCorrupt('lease %s: expires_at khong phan tich duoc '
                                   '(%r)' % (w, exp))
+        sess = l.get('session')
+        if sess is not None and not valid_session(sess) \
+                and _epoch_of(exp or '') >= time.time():
+            # token hong KHONG phai hai chu tranh nhau: la REGISTRY_CORRUPT
+            # (de `repair-registry --from-git` con dung duoc). Lease het han
+            # se bi prune nen bo qua.
+            raise RegistryCorrupt('lease %s: session khong hop le (%r)'
+                                  % (w, str(sess)[:40]))
     d.setdefault('schema_version', '1')
     require_live_ownership(d)
     return d
@@ -419,12 +427,13 @@ def live_ownership_problems(reg, now=None):
                 for a, ws in sorted(live_conflicts(reg, now).items())]
     sessions = {}
     for w, lease in reg['leases'].items():
-        if _epoch_of(lease.get('expires_at', '')) < now:
+        # lease het han / RONG khong giu viec gi (se bi prune): khong tinh vao
+        # "mot phien giu nhieu slot". Token session hong la REGISTRY_CORRUPT
+        # (parse_registry), khong phai tranh chap chu.
+        if _epoch_of(lease.get('expires_at', '')) < now or not lease.get('ids'):
             continue
         s = lease.get('session')
-        if s is not None and not valid_session(s):
-            problems.append('slot %s co session khong hop le' % w)
-        elif s:
+        if s:
             sessions.setdefault(s, []).append(w)
     problems.extend('session %s giu nhieu slot %s' % (s, ','.join(sorted(ws)))
                     for s, ws in sorted(sessions.items()) if len(ws) > 1)
@@ -441,6 +450,7 @@ def require_live_ownership(reg, now=None):
 def _session_slot_error(reg, writer, session, now):
     others = sorted(w for w, l in reg['leases'].items()
                     if w != writer and l.get('session') == session
+                    and l.get('ids')
                     and _epoch_of(l.get('expires_at', '')) >= now)
     if others:
         return _err('SESSION_HOLDS_OTHER_SLOT',
@@ -776,7 +786,7 @@ def check_invariants(reg, rows=None, now=None):
     by_session = {}
     for w, l in leases.items():
         s = l.get('session')
-        if s and _epoch_of(l.get('expires_at', '')) >= now:
+        if s and l.get('ids') and _epoch_of(l.get('expires_at', '')) >= now:
             by_session.setdefault(s, []).append(w)
     for s, ws in sorted(by_session.items()):
         if len(ws) > 1:
@@ -938,11 +948,20 @@ def merge_registries(local, other, rows):
     incoming = json.loads(json.dumps(other))
     prune_registry(incoming, rows, now)
     for w, lease in incoming['leases'].items():
-        mine_s = (work['leases'].get(w) or {}).get('session')
+        mine = work['leases'].get(w) or {}
+        mine_s = mine.get('session')
         s = lease.get('session')
         if mine_s and s and mine_s != s:
             msg = ('slot %s dang co lease song cua phien %s; ban remote '
                    'thuoc phien khac %s' % (w, mine_s, s))
+            raise OwnershipConflict(msg, [msg])
+        if mine and bool(mine_s) != bool(s) \
+                and not (set(mine.get('ids', [])) & set(lease.get('ids', []))):
+            # v1 <-> da nhan chi la MOT chu khi ban da nhan con GIU it nhat mot
+            # ID cua lease v1 (nhan lease khong doi ID); khong chung ID thi la
+            # hai working copy claim doc lap: mo ho chu => fail-closed.
+            msg = ('slot %s: lease v1 va lease da nhan session khong chung ID '
+                   'song nao — khong chung minh duoc cung chu' % w)
             raise OwnershipConflict(msg, [msg])
         if s and _session_slot_error(work, w, s, now):
             msg = 'session %s khong duoc giu hai slot' % s
@@ -1083,6 +1102,11 @@ def cmd_repair_registry(from_git=False, ref='HEAD'):
                 reg = parse_registry(txt)
                 source = 'git:%s' % sha[:10]
                 break
+            except OwnershipConflict as e:
+                # ban gan nhat con mo ho chu SONG: nhay qua no ve ban cu hon
+                # se lang le mat cac lease dang tranh chap
+                print(json.dumps(conflict_payload(e), ensure_ascii=False))
+                return 1
             except RegistryCorrupt:
                 continue
         if reg is None:

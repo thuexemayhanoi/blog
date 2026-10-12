@@ -105,7 +105,13 @@ def classify(row, current, evidence, old_row=None, old_bytes=None, old_ev=None):
 
 
 def rescore_published(op, row, rows, biz, tax):
-    """Read actual _posts bytes through the SAME scorer; never invoke op_qa."""
+    """Read actual _posts bytes through the SAME scorer; never invoke op_qa.
+
+    qa_check_one reads the module-global APPROVED_AMOUNTS, which only
+    build_amount_whitelist(biz) fills (factory-operator.main and writer-loop do
+    it before scoring). Without it every money amount looks unapproved and
+    business_fact is a false FAIL for any post that quotes an approved price."""
+    op.build_amount_whitelist(biz)
     original = op.find_draft
     path = row['output_path']
     slug = pathlib.Path(path).name[11:-3]

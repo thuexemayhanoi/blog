@@ -111,6 +111,51 @@ class RealScorerTest(FxTestCase):
                          current, row, op.QUALITY_MIN, op.SEO_MIN), 'FRESH_QA_FAILED')
         self.assertEqual(path.read_bytes(), current, 'read-only rescore changed the post')
 
+    def _fixture_scorer(self):
+        spec = importlib.util.spec_from_file_location('fixture_legacy_scorer2',
+            pathlib.Path(self.fx) / 'scripts/factory/factory-operator.py')
+        op = importlib.util.module_from_spec(spec)
+        spec.loader.exec_module(op)
+        biz = json.loads((pathlib.Path(self.fx) / 'data/business-facts.json').read_text())
+        tax = json.loads((pathlib.Path(self.fx) / 'data/content-taxonomy.json').read_text())
+        return op, biz, tax
+
+    def test_rescore_uses_the_approved_amount_whitelist(self):
+        """Codex P1: qa_check_one dựa vào APPROVED_AMOUNTS (build_amount_whitelist
+        điền, như operator.main/writer-loop). Rescore từng bỏ bước đó nên MỌI số
+        tiền bị coi chưa duyệt (87 FAIL giả). Số đã duyệt phải PASS; số lạ vẫn FAIL."""
+        rows = matrix_rows(self.fx)
+        cwd = os.getcwd()
+        try:
+            op, biz, tax = self._fixture_scorer()
+            self.assertEqual(len(op.APPROVED_AMOUNTS), 0, 'module moi: chua khoi tao')
+            row = None
+            for cand in rows:
+                if cand['status'] != 'PUBLISHED':
+                    continue
+                if A.rescore_published(op, cand, rows, biz, tax).get('business_fact') == 'PASS':
+                    row = cand
+                    break
+            self.assertIsNotNone(row, 'fixture phai co mot bai PUBLISHED dat business_fact')
+            path = pathlib.Path(self.fx) / row['output_path']
+            base = path.read_bytes()
+            approved = next(v for r in biz['approved_pricing'].values()
+                            if isinstance(r, dict) and isinstance(r.get('day'), int)
+                            for v in [r['day']])
+            shown = '{:,}'.format(approved).replace(',', '.')
+            path.write_bytes(base + ('\nGiá thuê tham khảo %s đồng một ngày.\n' % shown).encode())
+            op2, _, _ = self._fixture_scorer()
+            fresh = A.rescore_published(op2, row, rows, biz, tax)
+            self.assertEqual(fresh['non_approved_amounts'], [], fresh['non_approved_amounts'])
+            self.assertEqual(fresh['business_fact'], 'PASS')
+            path.write_bytes(base + '\nGiá thuê được cam kết là 9.876.543 đồng.\n'.encode())
+            op3, _, _ = self._fixture_scorer()
+            fresh = A.rescore_published(op3, row, rows, biz, tax)
+            self.assertEqual(fresh['business_fact'], 'FAIL')
+            self.assertIn(9876543, fresh['non_approved_amounts'])
+        finally:
+            os.chdir(cwd)
+
 
 if __name__ == '__main__':
     unittest.main(verbosity=2)

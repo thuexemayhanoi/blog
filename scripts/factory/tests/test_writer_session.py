@@ -1002,6 +1002,34 @@ class TestRegistryConflictBoundary(SessionBase):
         self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
         self.assertNotIn('Traceback', r.stderr)
 
+    def test_77_repair_stops_at_a_conflicted_historical_version(self):
+        """Codex P2: registry hiện tại hỏng cú pháp, bản lịch sử mới nhất còn
+        mơ hồ chủ SỐNG: repair KHÔNG được nhảy qua nó về bản cũ hơn (làm mất
+        các lease đang tranh chấp) — REGISTRY_CONFLICT, origin không đổi."""
+        a = self._conflict('id')
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': '{"leases": [truncated'},
+            'corrupt registry')
+        head = self.sim.origin_head()
+        r, out = self.run_cmd('a', 'repair-registry')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'REGISTRY_CONFLICT', out)
+        self.assertTrue(out.get('problems'))
+        self.assertEqual(self.sim.origin_head(), head)
+
+    def test_78_empty_lease_sharing_a_session_is_not_a_conflict(self):
+        """Codex P2: lease rỗng (không giữ việc gì) cùng session với lease khác
+        không được làm mọi lệnh REGISTRY_CONFLICT."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        self.sim.clone('b')
+        self.begin('b', '--slot', 'W2', '--count', '2')
+        self.sim.edit_registry(lambda reg: (
+            reg['leases']['W2'].update(session=a['session']),
+            reg['leases']['W1'].update(ids=[])))
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
 
 class TestConfirmEdges(SessionBase):
 
