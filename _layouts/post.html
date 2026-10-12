@@ -107,14 +107,6 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     {% assign art_cat = page.categories | first %}
     {% include related-articles.html parent_id=art_parent_id child_id=art_child_id category=art_cat %}
 
-    <div class="post-cta">
-      <h3>Bạn cần thuê xe máy tại Hà Nội?</h3>
-      <p>Liên hệ <strong>{{ business.display_name }}</strong> để biết tình trạng xe và điều kiện cho kỳ thuê của bạn. Các khoản như tiền đặt cọc hoặc phát sinh cần xác nhận trực tiếp trước khi đặt.</p>
-      <div class="cta-group">
-        <a href="{{ business.contact.phone_uri }}" class="btn btn-primary">Gọi {{ business.contact.phone }}</a>
-        <a href="{{ business.contact.zalo }}" class="btn btn-secondary">Zalo</a>
-        <a href="{{ '/bang-gia/' | relative_url }}" class="btn btn-outline">Xem bảng giá</a>
-      </div>
-    </div>
+    {% include post-cta.html %}
   </div>
 </article>

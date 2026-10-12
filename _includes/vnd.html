@@ -1,0 +1,11 @@
+{%- comment -%}
+  Số nguyên VND -> chuỗi có dấu chấm ngăn nghìn (150000 -> 150.000, 1800000 -> 1.800.000). Dùng: {% include vnd.html n=150000 %}
+  Chỉ định dạng HIỂN THỊ; số liệu vẫn lấy từ _data/pricing.yml (không đổi giá, không thêm số).
+{%- endcomment -%}
+{%- assign vnd_n = include.n | plus: 0 -%}
+{%- assign vnd_mil = vnd_n | divided_by: 1000000 -%}
+{%- assign vnd_thou = vnd_n | modulo: 1000000 | divided_by: 1000 -%}
+{%- assign vnd_rest = vnd_n | modulo: 1000 -%}
+{%- if vnd_mil > 0 -%}{{ vnd_mil }}.{{ vnd_thou | prepend: '00' | slice: -3, 3 }}.{{ vnd_rest | prepend: '00' | slice: -3, 3 }}
+{%- elsif vnd_thou > 0 -%}{{ vnd_thou }}.{{ vnd_rest | prepend: '00' | slice: -3, 3 }}
+{%- else -%}{{ vnd_rest }}{%- endif -%}

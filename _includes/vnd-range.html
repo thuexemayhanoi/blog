@@ -1,0 +1,8 @@
+{%- comment -%}
+  Khoảng giá hiển thị: min == max (hoặc không có max) -> "150.000 VND"; khác nhau -> "800.000 - 1.000.000 VND".
+  Dùng: {% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}
+  Trước đây in thẳng "150000 - 150000 VND" (số thô, hai đầu trùng nhau) — khó đọc và khó trích cho công cụ trả lời.
+{%- endcomment -%}
+{%- assign vr_lo = include.min -%}
+{%- assign vr_hi = include.max | default: include.min -%}
+{%- include vnd.html n=vr_lo -%}{%- if vr_hi != vr_lo %} - {% include vnd.html n=vr_hi %}{%- endif %} VND

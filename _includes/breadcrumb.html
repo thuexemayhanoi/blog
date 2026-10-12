@@ -17,7 +17,8 @@
   {%- endfor -%}
 {%- endif -%}
 {%- assign bc_page_title = page.title | split: ' - ' | first -%}
-{%- if page.layout == 'category' -%}{%- assign bc_page_title = page.category | default: page.title -%}{%- endif -%}
+{%- comment -%} Nhãn breadcrumb của trang danh mục lấy từ title (có dấu: "Du lịch"), không dùng front matter `category` (khoá ASCII: "Du lich"). {%- endcomment -%}
+{%- if page.layout == 'category' -%}{%- assign bc_page_title = page.title | split: ' - ' | first | default: page.category -%}{%- endif -%}
 {%- assign bc_show_current = true -%}
 {%- if page.layout == 'post' or bc_page_title == 'Trang chủ' -%}{%- assign bc_show_current = false -%}{%- endif -%}
 <nav class="breadcrumb" aria-label="Đường dẫn">
