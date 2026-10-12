@@ -451,11 +451,43 @@ class SessionOwnershipTest(unittest.TestCase):
 
     def test_live_lease_over_max_lease_is_corruption_but_an_expired_one_is_ignored(self):
         reg = self._three_live()
-        reg['leases']['W1']['ids'] = [r['id'] for r in self.rows[:WC.MAX_LEASE + 1]]
-        with self.assertRaises(WC.RegistryCorrupt):
+        # ID KHÔNG trùng W2/W3 (nếu trùng thì parse raise OwnershipConflict vì lý do khác)
+        reg['leases']['W1']['ids'] = [r['id'] for r in
+                                      self.rows[10:10 + WC.MAX_LEASE + 1]]
+        with self.assertRaises(WC.RegistryCorrupt) as cm:
             WC.parse_registry(json.dumps(reg))
+        self.assertNotIsInstance(cm.exception, WC.OwnershipConflict)
         reg['leases']['W1']['expires_at'] = WC._iso(self.now - 10)
         WC.parse_registry(json.dumps(reg))          # hết hạn: bị prune, không chặn
+
+    def test_live_lease_cap_counts_distinct_ids_so_prune_can_normalize_a_duplicate(self):
+        """Codex P2 (vòng 5): 10 ID khác nhau + một ID lặp là MỘT chủ giữ 10 ID, không
+        vượt MAX_LEASE: parse phải nhận để prune dọn bản lặp (self_duplicates) thay vì
+        bắt khôi phục từ git history."""
+        reg = self._three_live()
+        ids = [r['id'] for r in self.rows[10:10 + WC.MAX_LEASE]]
+        reg['leases']['W1']['ids'] = ids + [ids[0]]
+        parsed = WC.parse_registry(json.dumps(reg))
+        report = WC.prune_registry(parsed, self.rows, self.now)
+        self.assertEqual(parsed['leases']['W1']['ids'], ids)
+        self.assertEqual(report['self_duplicates'], {'W1': [ids[0]]})
+
+    def test_oversized_integer_ttl_is_corruption_not_an_overflow(self):
+        """Codex P2 (vòng 5): số nguyên JSON quá lớn cho double làm math.isfinite raise
+        OverflowError (traceback, repair --from-git cũng chết) thay vì RegistryCorrupt."""
+        for bad in (10 ** 1000, -10 ** 1000):
+            with self.subTest(ttl_hours_digits=len(str(abs(bad)))):
+                reg = self._three_live()
+                reg['leases']['W1']['ttl_hours'] = bad
+                with self.assertRaises(WC.RegistryCorrupt):
+                    WC.parse_registry(json.dumps(reg))
+        # số nguyên lớn nhưng HỮU HẠN (vừa double): hợp lệ, heartbeat kẹp về MAX_TTL
+        reg = self._three_live()
+        reg['leases']['W1']['ttl_hours'] = 10 ** 300
+        parsed = WC.parse_registry(json.dumps(reg))
+        res = WC.apply_heartbeat(parsed, self.rows, 'W1', 's-one', now=self.now)
+        self.assertTrue(res['ok'], res)
+        self.assertEqual(parsed['leases']['W1']['ttl_hours'], WC.MAX_TTL_HOURS)
 
     def test_odd_typed_lease_fields_are_corruption_not_a_traceback(self):
         for key, bad in (('epoch', 'abc'), ('epoch', [1]), ('epoch', True),
@@ -759,6 +791,22 @@ class WriterClaimTest(FxTestCase):
             self.assertEqual(out.get('code'), 'REGISTRY_CORRUPT', (args, so, se))
             self.assertNotIn('Traceback', se, (args, se))
         self.assertEqual(_hash(path), before, 'lệnh bị từ chối không được ghi registry')
+
+    def test_oversized_integer_ttl_is_a_structured_corruption_in_the_cli(self):
+        self.planned(4)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        reg = self.reg()
+        reg['leases']['W1']['ttl_hours'] = 10 ** 1000
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        for args in (['check-registry'], ['heartbeat', '--writer', 'W1'], ['prune']):
+            rc, out, so, se = wc(self.fx, *args)
+            self.assertEqual(rc, 1, (args, so, se))
+            self.assertEqual(out.get('code'), 'REGISTRY_CORRUPT', (args, so, se))
+            self.assertNotIn('Traceback', se, (args, se))
 
     def _history(self):
         """v1 hợp lệ (W1+W2) đã commit; trả (path, registry v1)."""

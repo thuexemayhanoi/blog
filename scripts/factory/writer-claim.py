@@ -262,11 +262,16 @@ def parse_registry(text):
             raise RegistryCorrupt('lease %s: epoch khong phai so nguyen (%r)'
                                   % (w, str(ep)[:20]))
         tt = l.get('ttl_hours')
-        if tt is not None and (isinstance(tt, bool)
-                               or not isinstance(tt, (int, float))
-                               or not math.isfinite(tt)):
-            raise RegistryCorrupt('lease %s: ttl_hours khong phai so huu han '
-                                  '(%r)' % (w, str(tt)[:20]))
+        if tt is not None:
+            try:
+                tt_ok = (not isinstance(tt, bool)
+                         and isinstance(tt, (int, float))
+                         and math.isfinite(tt))
+            except OverflowError:      # so nguyen JSON qua lon cho double
+                tt_ok = False
+            if not tt_ok:
+                raise RegistryCorrupt('lease %s: ttl_hours khong phai so huu '
+                                      'han (%r)' % (w, str(tt)[:20]))
         for key in ('label', 'claimed_at', 'heartbeat_at'):
             v = l.get(key)
             if v is not None and not isinstance(v, str):
@@ -280,11 +285,14 @@ def parse_registry(text):
             # cat), nen duoc bo qua nhu moi lease het han khac.
             raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
                                   % str(w)[:20])
-        if live and len(l.get('ids', [])) > MAX_LEASE:
-            # lease SONG vuot MAX_LEASE: chu lease bi LEASE_FULL ke ca count=0,
-            # prune khong cat -> corrupt (sua tu git history), khong ket toi TTL
+        distinct = len(set(l.get('ids', [])))
+        if live and distinct > MAX_LEASE:
+            # lease SONG vuot MAX_LEASE ID KHAC NHAU: chu lease bi LEASE_FULL ke
+            # ca count=0, prune khong cat -> corrupt (sua tu git history), khong
+            # ket toi TTL. Dem ID PHAN BIET: ID lap trong lease la mot chu, prune
+            # tu don (self_duplicates) nen khong bi coi la vuot tran.
             raise RegistryCorrupt('lease %s: %d ID (> %d)'
-                                  % (w, len(l['ids']), MAX_LEASE))
+                                  % (w, distinct, MAX_LEASE))
         l.setdefault('ids', [])         # khong co khoa ids = lease rong (se bi prune)
         sess = l.get('session')
         if sess is not None and not valid_session(sess) and live:
