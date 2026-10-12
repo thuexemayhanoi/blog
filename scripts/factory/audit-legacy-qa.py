@@ -106,24 +106,36 @@ def classify(row, current, evidence, old_row=None, old_bytes=None, old_ev=None):
     return result
 
 
-# Directories whose untracked files can change what the audit reads (matrix, posts,
-# QA evidence, scorer, business facts, taxonomy, drafts used by uniqueness checks).
-INPUT_DIRS = ('_posts', '_drafts', 'data', 'scripts', '_data', '_includes', '_layouts')
+# Untracked files can change what the audit reads. By path: the matrix, posts and
+# evidence (data/, _posts/), business facts / taxonomy (data/) and the scorer code
+# (scripts/). By content: factory-operator.canonical_routes() walks the whole repo and
+# reads the `permalink:` of every .md/.html outside ROUTE_EXCLUDED, so an untracked page
+# anywhere else can flip `links_routes_valid` / `critical_failure`. ROUTE_EXCLUDED mirrors
+# that function (it never reads _drafts/, docs/, reports/ ...), so a writer's untracked
+# draft or an `> audit.json` redirect does not trip the guard.
+INPUT_DIRS = ('_posts', 'data', 'scripts')
+ROUTE_EXCLUDED = ('scripts', 'assets', 'data', 'reports', 'docs', 'en', '_queue', '_drafts',
+                  'gemfiles', 'node_modules', 'vendor', '.git', '.jekyll-cache',
+                  '.sass-cache', '__pycache__')
 
 
 def dirty_inputs(root=ROOT):
-    """Paths whose working-tree state differs from the checked-out HEAD: any tracked
-    modification/deletion, plus untracked files inside the input directories. The audit
-    reads the matrix, posts, QA evidence, scorer, business facts and taxonomy from the
-    working tree, so a result is only attributable to `head` when this list is empty."""
-    tracked = subprocess.check_output(
-        ['git', 'status', '--porcelain', '--untracked-files=no'], cwd=root, text=True)
-    untracked = subprocess.check_output(
-        ['git', 'status', '--porcelain', '--untracked-files=all', '--'] + list(INPUT_DIRS),
-        cwd=root, text=True)
-    out = [line for line in tracked.splitlines() if line.strip()]
-    out += [line for line in untracked.splitlines()
-            if line.startswith('??') and line not in out]
+    """Paths whose working-tree state differs from the checked-out HEAD in a way the audit
+    can see: any tracked modification/deletion, plus untracked files the audit reads (see
+    INPUT_DIRS / ROUTE_EXCLUDED). The result is only attributable to `head` when empty."""
+    def porcelain(*extra):
+        raw = subprocess.check_output(['git', 'status', '--porcelain=v1', '-z'] + list(extra),
+                                      cwd=root)
+        return [e.decode('utf-8', 'surrogateescape') for e in raw.split(b'\0') if e]
+
+    out = [e for e in porcelain('--untracked-files=no') if e.strip()]
+    for entry in porcelain('--untracked-files=all'):
+        if not entry.startswith('?? '):
+            continue
+        path = entry[3:]
+        top = path.split('/')[0]
+        if top in INPUT_DIRS or (path.endswith(('.md', '.html')) and top not in ROUTE_EXCLUDED):
+            out.append(entry)
     return out
 
 

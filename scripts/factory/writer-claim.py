@@ -259,7 +259,9 @@ def parse_registry(text):
 
     THỨ TỰ phân loại (để không bao giờ rollback nhầm lease SỐNG đang tranh chấp):
       1. hình dạng tối thiểu: lease là object, `expires_at` đọc được (biết lease
-         sống hay chết); lease HẾT HẠN chỉ được chuẩn hóa kiểu (vật bỏ, prune xóa);
+         sống hay chết); lease HẾT HẠN chỉ được chuẩn hóa kiểu (vật bỏ, prune xóa).
+         Lease sai hình dạng chỉ bị GHI NHẬN (báo RegistryCorrupt SAU bước 2): nó
+         không che được tranh chấp chứng minh được giữa các lease còn lại;
       2. TRANH CHẤP chủ, phân tích trên dữ liệu NHẬN DIỆN ĐƯỢC của lease sống (ID
          đúng định dạng, session hợp lệ) -> OwnershipConflict (REGISTRY_CONFLICT:
          chờ TTL/coordinator, KHÔNG repair/rollback) — kể cả khi cùng lúc có lỗi
@@ -276,21 +278,29 @@ def parse_registry(text):
         raise RegistryCorrupt('registry sai cau truc: thieu object "leases"')
     now = time.time()
     live_of = {}
+    shape_error = None       # lease khong doc duoc hinh dang/han: hoan lai, KHONG che tranh chap
     for w, l in d['leases'].items():
         if not isinstance(l, dict):
-            raise RegistryCorrupt('lease %s sai cau truc (khong phai object)'
-                                  % w)
+            shape_error = shape_error or ('lease %s sai cau truc (khong phai '
+                                          'object)' % w)
+            continue
         exp = l.get('expires_at')
         if exp not in (None, '') and _parse_ts(exp) is None:
             # timestamp hỏng KHÔNG được coi là "đã chết" (sẽ làm lease sống
             # bị chiếm): fail-closed, người vận hành sửa tay
-            raise RegistryCorrupt('lease %s: expires_at khong phan tich duoc '
-                                  '(%r)' % (w, exp))
+            shape_error = shape_error or ('lease %s: expires_at khong phan '
+                                          'tich duoc (%r)' % (w, exp))
+            continue
         live_of[w] = _epoch_of(exp or '') >= now
         if not live_of[w]:
             _sanitize_expired(l)
     d.setdefault('schema_version', '1')
+    # tranh chap chung minh duoc giua cac lease con lai thang MOI loi hinh dang cua lease
+    # khac (live_ownership_problems bo qua lease khong phai object / han khong doc duoc):
+    # neu khong, repair-registry khoi phuc ban cu va am tham xoa lease dang tranh chap
     require_live_ownership(d, now)
+    if shape_error:
+        raise RegistryCorrupt(shape_error)
     for w, l in d['leases'].items():
         if not live_of[w]:
             continue
