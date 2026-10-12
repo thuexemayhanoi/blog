@@ -78,6 +78,9 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
       {{ post_body_html }}
     </div>
 
+    {%- comment -%} FAQ dùng chung (_data/faq/<slug>.json); không có dữ liệu => không in gì. {%- endcomment -%}
+    {% include faq.html key=page.slug %}
+
     <div class="post-navigation">
       {% assign same_lang_posts = site.posts | where: "lang", page.lang %}
       {% assign sorted_posts = same_lang_posts | sort: "date" | reverse %}

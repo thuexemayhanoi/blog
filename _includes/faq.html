@@ -1,0 +1,33 @@
+{%- comment -%}
+  FAQ dùng chung: MỘT nguồn dữ liệu -> khối hỏi–đáp hiển thị + (tuỳ chọn) JSON-LD FAQPage, luôn khớp 1:1.
+
+  Dùng:  {% include faq.html key=page.slug %}      (bài viết: khoá = slug)
+         {% include faq.html key=page.faq_key %}    (trang tĩnh/hub/topic: khoá = front matter faq_key)
+  Dữ liệu: _data/faq/<khoá>.json = {"schema": true|false, "heading": "...", "items": [{"q","a","src"}]}
+
+  MẶC ĐỊNH KHÔNG LÀM GÌ: không có file dữ liệu hoặc < 2 mục => không in HTML nào (trang giữ nguyên byte).
+  Bảo đảm do công cụ (CI), không do template:
+    - scripts/faq/validate_faq.py : câu trả lời trích NGUYÊN VĂN từ nguồn trang (không thêm sự thật mới),
+      không chạm chủ đề BLOCKED (cọc/phí trễ/bảo hiểm/giữ giấy tờ/mũ/hoàn tiền), không trùng câu hỏi.
+    - scripts/faq/faq_parity_check.py : sau build, JSON-LD == khối hiển thị (không có schema "mồ côi").
+  Chuỗi hiển thị qua `escape`; chuỗi JSON-LD qua `jsonify` + thay '</' (jsonify không escape '</').
+  Google đã ngừng hiển thị FAQ rich result (2026-05-07); FAQPage chỉ là markup hợp lệ, KHÔNG đảm bảo AI Overviews/rich result.
+{%- endcomment -%}
+{%- assign faq_data = site.data.faq[include.key] -%}
+{%- if faq_data and faq_data.items.size >= 2 -%}
+{%- assign faq_heading = faq_data.heading | default: 'Câu hỏi thường gặp' -%}
+<section class="faq" id="faq" aria-labelledby="faq-heading"{% if faq_data.schema %} data-faq-schema="1"{% endif %}>
+  <h2 id="faq-heading">{{ faq_heading | escape }}</h2>
+  {%- for it in faq_data.items %}
+  <div class="faq-item">
+    <h3>{{ it.q | escape }}</h3>
+    <p>{{ it.a | escape }}</p>
+  </div>
+  {%- endfor %}
+</section>
+{%- if faq_data.schema %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for it in faq_data.items -%}{"@type":"Question","name":{{ it.q | jsonify | replace: '</', '<\/' }},"acceptedAnswer":{"@type":"Answer","text":{{ it.a | jsonify | replace: '</', '<\/' }}}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]}
+</script>
+{%- endif -%}
+{%- endif -%}
