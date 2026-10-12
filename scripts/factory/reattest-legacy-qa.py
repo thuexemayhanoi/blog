@@ -269,6 +269,11 @@ def build_new_evidence(ctx, e, fresh, old_ev):
     for k in ('scored_at', 'published_at'):       # mốc lịch sử: giữ nguyên
         if old_ev.get(k):
             new[k] = old_ev[k]
+    # Trường chú thích LỊCH SỬ mà scorer không sinh ra (post_publish_repair, hash_sync_note,
+    # rescore_note, restamped_note...): sao nguyên văn sang khối reattestation de nguoi doc
+    # evidence moi van thay "evidence cu tung bi re-stamp/sua sau xuat ban". Khong mat dau vet.
+    carried = {k: copy.deepcopy(v) for k, v in old_ev.items()
+               if k not in new and k != 'reattestation'}
     new['reattestation'] = {
         'schema': 'reattestation/1',
         'kind': 'domain-migration-v3',
@@ -294,6 +299,8 @@ def build_new_evidence(ctx, e, fresh, old_ev):
                  '(watchdog doc chung nhu tin hieu hoat dong); chat diem '
                  'doc lap xay ra luc rescored_at'),
     }
+    if carried:
+        new['reattestation']['previous_evidence_annotations'] = carried
     return new
 
 
@@ -462,6 +469,9 @@ def verify_backup(ctx, backup):
         prov = ev.get('reattestation') or {}
         old_sha = sha(b['old_evidence_text'].encode('utf-8'))
         old = json.loads(b['old_evidence_text'])
+        carried = {k: v for k, v in old.items() if k not in ev}
+        if (prov.get('previous_evidence_annotations') or {}) != carried:
+            problems.append('%s: chu thich lich su cua evidence cu khong duoc giu nguyen' % aid)
         if (b['old_evidence_sha256'] != old_sha
                 or prov.get('previous_evidence_sha256') != old_sha
                 or prov.get('previous_content_sha256') != old.get('content_sha256')

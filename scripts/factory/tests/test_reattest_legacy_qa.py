@@ -66,7 +66,7 @@ class ReattestBase(FxTestCase):
 
     # ---- dựng ca "domain-only" trong fixture ---------------------------------
     def make_stale(self, aid, *, edit_after_migration=None, bad_amount=False,
-                   unbound=False):
+                   unbound=False, annotations=None):
         """Biến evidence của bài PUBLISHED `aid` thành evidence CŨ (hash của
         baseline chưa migrate) và nạp baseline vào self.history."""
         rows = matrix_rows(self.fx)
@@ -94,6 +94,8 @@ class ReattestBase(FxTestCase):
                       matrix_row_sha256=A.fingerprint(old_row))
         if unbound:
             old_ev['content_sha256'] = '0' * 64
+        if annotations:                     # chu thich lich su cua evidence that (hash_sync_note...)
+            old_ev.update(annotations)
         ev_path.write_text(json.dumps(old_ev, ensure_ascii=False, indent=2),
                            encoding='utf-8')
         self.history[row['output_path']] = old
@@ -192,6 +194,46 @@ class TestReattest(ReattestBase):
         self.assertEqual(R.verify_backup(ctx, backup), [])
         # KHÔNG đụng bài / matrix / state / draft
         self.assertEqual(tree_hashes(self.root, GUARD), guard)
+
+    def test_02b_historical_annotations_are_carried_into_the_reattestation_block(self):
+        """Real legacy evidence carries notes the scorer never produces (post_publish_repair,
+        hash_sync_note, rescore_note, restamped_note). A fresh evidence object would silently
+        drop them; the re-attestation copies them verbatim so the live file still says the old
+        evidence had been re-stamped / repaired after publication."""
+        a, b = self.good_ids(2)
+        notes = {'post_publish_repair': {'type': 'missing-blog-prefix', 'repaired_links': 5,
+                                         'note': 'test', 'previous_content_sha256': '0' * 64},
+                 'hash_sync_note': 'cap nhat sau repair-frontmatter (test)'}
+        self.make_stale(a, annotations=notes)
+        self.make_stale(b)
+        ctx = self.ctx(batch='reattest-test-notes')
+        rep = R.apply_batch(ctx, self.plan(), [a, b])
+        ev = self.evidence(a)
+        self.assertEqual(ev['reattestation']['previous_evidence_annotations'], notes)
+        for k in notes:       # never promoted to top level as if the fresh scorer had produced them
+            self.assertNotIn(k, ev)
+        self.assertNotIn('previous_evidence_annotations', self.evidence(b)['reattestation'])
+        backup = json.loads((self.root / rep['backup']).read_text(encoding='utf-8'))
+        self.assertEqual(R.verify_backup(ctx, backup), [])
+
+    def test_02c_a_builder_that_drops_the_annotations_is_caught_and_rolled_back(self):
+        a, = self.good_ids(1)
+        self.make_stale(a, annotations={'hash_sync_note': 'cap nhat sau repair (test)'})
+        m = self.plan()
+        before = self.evidence(a)
+        real = R.build_new_evidence
+
+        def lossy(ctx, e, fresh, old_ev):
+            new = real(ctx, e, fresh, old_ev)
+            new['reattestation'].pop('previous_evidence_annotations', None)
+            return new
+        R.build_new_evidence = lossy
+        self.addCleanup(setattr, R, 'build_new_evidence', real)
+        with self.assertRaises(R.Refuse) as cm:
+            R.apply_batch(self.ctx(batch='reattest-test-lossy'), m, [a])
+        self.assertEqual(cm.exception.code, 'POST_VERIFY_FAILED')
+        self.assertEqual(self.evidence(a), before)
+        self.assertFalse((self.root / R.BACKUP_DIR / 'reattest-test-lossy.json').exists())
 
     def test_03_no_approval_means_no_write(self):
         a, = self.good_ids(1)
