@@ -287,11 +287,17 @@ def parse_matrix(data):
 
 
 def parse_registry_bytes(data):
+    """Registry trên origin -> dict. Hai lỗi KHÁC NHAU, hai lối ra KHÁC NHAU:
+    REGISTRY_CORRUPT (hỏng thật -> repair-registry) và REGISTRY_CONFLICT
+    (đọc được nhưng mơ hồ chủ -> KHÔNG rollback; chờ TTL/coordinator)."""
     if data is None:
         return WC.empty_registry()
     try:
         return WC.parse_registry(data.decode('utf-8'))
-    except WC.RegistryCorrupt as e:
+    except WC.OwnershipConflict as e:
+        raise Refuse('REGISTRY_CONFLICT', '%s — %s' % (e, WC.CONFLICT_HINT),
+                     problems=list(e.problems), hint=WC.CONFLICT_HINT)
+    except (WC.RegistryCorrupt, UnicodeDecodeError) as e:
         raise Refuse('REGISTRY_CORRUPT', '%s — chay: writer-claim.py '
                      'repair-registry --from-git' % e)
 
@@ -1057,8 +1063,8 @@ def cmd_repair_registry(g, a):
                 return {}, '', {'repaired': False,
                                 'note': 'registry hop le — khong can sua'}
         except WC.OwnershipConflict as e:
-            raise Refuse('REGISTRY_CONFLICT', '%s — khong rollback lease song; '
-                         'cho het TTL hoac coordinator hoa giai' % e)
+            raise Refuse('REGISTRY_CONFLICT', '%s — %s' % (e, WC.CONFLICT_HINT),
+                         problems=list(e.problems), hint=WC.CONFLICT_HINT)
         except (WC.RegistryCorrupt, UnicodeDecodeError):
             pass
         rows = parse_matrix(read(MATRIX_REL))

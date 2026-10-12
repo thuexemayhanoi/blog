@@ -426,6 +426,10 @@ def check_writer_registry(scope):
     report = err if scope in ('batch', 'full') else warn
     try:
         reg = mod.load_registry(path)
+    except mod.OwnershipConflict as e:
+        report('writer-claims REGISTRY_CONFLICT (doc duoc nhung mo ho chu '
+               'so huu): %s — %s' % (e, mod.CONFLICT_HINT))
+        return
     except mod.RegistryCorrupt as e:
         report('writer-claims registry hong: %s (chay: writer-claim.py '
                'repair-registry --from-git)' % e)

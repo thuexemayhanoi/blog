@@ -205,6 +205,85 @@ class SessionOwnershipTest(unittest.TestCase):
             WC.merge_registries(self.reg, other, self.rows)
         self.assertEqual(self.reg, before)
 
+    # ---- Codex P2 (PR #9): lease v1 -> v2 qua merge, và REGISTRY_CONFLICT ----
+
+    def test_merge_adopts_legacy_local_lease_from_incoming_session(self):
+        """Local còn lease v1 (chưa session), remote là CHÍNH lease đó sau lần
+        nhận hợp lệ đầu tiên: không phải hai chủ tranh nhau — giữ session đã nhận."""
+        self.claim('W1', 's-one')
+        other = copy.deepcopy(self.reg)
+        self.reg['leases']['W1'].pop('session')
+        out = WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg['leases']['W1']['session'], 's-one')
+        self.assertEqual(self.reg['leases']['W1']['ids'],
+                         other['leases']['W1']['ids'])
+        self.assertEqual(out['lost_to_other_writer'], [])
+        self.assertEqual(WC.check_invariants(self.reg, self.rows, self.now), [])
+
+    def test_merge_never_downgrades_local_session_to_legacy(self):
+        """Remote là bản cũ (v1) của lease local đã nhận: giữ session local."""
+        self.claim('W1', 's-one')
+        local = copy.deepcopy(self.reg['leases']['W1'])
+        other = copy.deepcopy(self.reg)
+        other['leases']['W1'].pop('session')
+        WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg['leases']['W1']['session'], 's-one')
+        self.assertEqual(self.reg['leases']['W1']['ids'], local['ids'])
+
+    def test_merge_two_legacy_leases_of_one_slot_merge(self):
+        self.claim('W1', 's-one')
+        self.reg['leases']['W1'].pop('session')
+        other = copy.deepcopy(self.reg)
+        WC.merge_registries(self.reg, other, self.rows)
+        self.assertNotIn('session', self.reg['leases']['W1'])
+
+    def test_merge_unequal_present_sessions_is_an_ownership_conflict(self):
+        """Chỉ HAI session cùng có mặt mà khác nhau mới là tranh chủ — và đó là
+        REGISTRY_CONFLICT (chờ TTL/coordinator), không phải "registry hỏng"."""
+        self.claim('W1', 's-one')
+        other = WC.empty_registry()
+        other['leases']['W1'] = dict(self.reg['leases']['W1'],
+                                    session='s-two')
+        before = copy.deepcopy(self.reg)
+        with self.assertRaises(WC.OwnershipConflict) as cm:
+            WC.merge_registries(self.reg, other, self.rows)
+        self.assertTrue(cm.exception.problems, cm.exception)
+        self.assertEqual(self.reg, before)
+
+    def test_merge_legacy_adoption_cannot_give_session_a_second_slot(self):
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2'].pop('session')
+        other = WC.empty_registry()
+        other['leases']['W2'] = dict(self.reg['leases']['W2'],
+                                    session='s-one')
+        before = copy.deepcopy(self.reg)
+        with self.assertRaises(WC.OwnershipConflict):
+            WC.merge_registries(self.reg, other, self.rows)
+        self.assertEqual(self.reg, before)
+
+    def test_merge_union_keeps_every_local_id_first_up_to_max_lease(self):
+        """ID local đã được CAS/commit không bị đá ra bởi ID incoming nhỏ hơn."""
+        local_ids = ['BLG-%05d' % n for n in range(10, 19)]
+        self.assertTrue(WC.apply_claim(self.reg, self.rows, 'W1', 's-one',
+                                       ids=local_ids, now=self.now)['ok'])
+        other = copy.deepcopy(self.reg)
+        other['leases']['W1']['ids'] = ['BLG-00001', 'BLG-00002'] + local_ids[:2]
+        WC.merge_registries(self.reg, other, self.rows)
+        got = self.reg['leases']['W1']['ids']
+        self.assertLessEqual(len(got), WC.MAX_LEASE)
+        self.assertTrue(set(local_ids) <= set(got), got)
+
+    def test_ownership_conflict_exposes_the_problem_list(self):
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2']['ids'].append(
+            self.reg['leases']['W1']['ids'][0])
+        with self.assertRaises(WC.OwnershipConflict) as cm:
+            WC.parse_registry(json.dumps(self.reg))
+        self.assertTrue(any('giu boi' in p for p in cm.exception.problems),
+                        cm.exception.problems)
+
 
 class WriterClaimTest(FxTestCase):
     """Mọi test chạy trên bản sao repo riêng (self.fx)."""
@@ -217,8 +296,10 @@ class WriterClaimTest(FxTestCase):
 
     def reg(self):
         p = os.path.join(self.fx, REG)
-        return json.load(open(p, encoding='utf-8')) \
-            if os.path.exists(p) else {'leases': {}}
+        if not os.path.exists(p):
+            return {'leases': {}}
+        with open(p, encoding='utf-8') as f:
+            return json.load(f)
 
     def matrix_guard(self):
         return _hash(os.path.join(self.fx, MATRIX))
@@ -236,6 +317,84 @@ class WriterClaimTest(FxTestCase):
         self.assertEqual(rc, 1, out)
         self.assertEqual(out['code'], 'REGISTRY_CONFLICT')
         self.assertEqual(_hash(path), before)
+
+    def _conflicted_registry(self, kind='id'):
+        """W1 và W2 (hai phiên) hợp lệ, rồi ép tranh chấp chủ: một ID bị hai
+        lease sống giữ ('id') hoặc một phiên giữ hai slot sống ('session')."""
+        self.planned(8)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        wc(self.fx, 'claim', '--writer', 'W2', '--count', '2')
+        reg = self.reg()
+        if kind == 'id':
+            reg['leases']['W2']['ids'].append(reg['leases']['W1']['ids'][0])
+        else:
+            reg['leases']['W2']['session'] = reg['leases']['W1']['session']
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        return path
+
+    def test_registry_conflict_is_reported_as_conflict_by_every_command(self):
+        """Codex P2: OwnershipConflict là con của RegistryCorrupt nhưng KHÔNG
+        được báo REGISTRY_CORRUPT kèm hướng dẫn khôi phục từ git (repair-registry
+        từ chối đúng tình huống đó): mọi lệnh thường phải báo REGISTRY_CONFLICT
+        (chờ TTL/coordinator), có danh sách problems, không ghi gì."""
+        for kind in ('id', 'session'):
+            with self.subTest(kind=kind):
+                path = self._conflicted_registry(kind)
+                before = _hash(path)
+                incoming = os.path.join(self.fx, 'incoming-registry.json')
+                with open(incoming, 'w') as f:
+                    json.dump({'schema_version': '2', 'leases': {}}, f)
+                for args in (['claim', '--writer', 'W3', '--count', '2'],
+                             ['heartbeat', '--writer', 'W1'],
+                             ['release', '--writer', 'W1', '--all'],
+                             ['show'], ['status'], ['prune'],
+                             ['check-registry'],
+                             ['merge', '--file', incoming],
+                             ['repair-registry']):
+                    rc, out, so, se = wc(self.fx, *args)
+                    self.assertEqual(rc, 1, (kind, args, so, se))
+                    self.assertEqual(out.get('code'), 'REGISTRY_CONFLICT',
+                                     (kind, args, so, se))
+                    self.assertTrue(out.get('problems'), (kind, args, out))
+                    self.assertNotIn('--from-git', so, (kind, args, so))
+                    self.assertEqual(_hash(path), before,
+                                     'lenh %s da ghi registry' % args)
+
+    def test_corrupt_registry_still_points_to_repair(self):
+        """Hỏng thật (JSON/cấu trúc) vẫn là REGISTRY_CORRUPT + repair-registry."""
+        self.planned(2)
+        path = os.path.join(self.fx, REG)
+        with open(path, 'w') as f:
+            f.write('{"leases": ')
+        rc, out, so, se = wc(self.fx, 'check-registry')
+        self.assertEqual(rc, 1, (so, se))
+        self.assertEqual(out.get('code'), 'REGISTRY_CORRUPT')
+        self.assertIn('repair-registry', so)
+
+    def test_merge_cli_adopts_a_legacy_lease_without_conflict(self):
+        """Lease v1 ở local + bản remote đã được nhận (session): merge hợp lệ,
+        giữ session đã nhận, ID không đổi."""
+        self.planned(6)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        path = os.path.join(self.fx, REG)
+        reg = self.reg()
+        remote = copy.deepcopy(reg)
+        reg['leases']['W1'].pop('session')
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        incoming = os.path.join(self.fx, 'incoming-registry.json')
+        with open(incoming, 'w') as f:
+            json.dump(remote, f)
+        rc, out, so, se = wc(self.fx, 'merge', '--file', incoming)
+        self.assertEqual(rc, 0, (so, se))
+        merged = self.reg()
+        self.assertEqual(merged['leases']['W1']['session'], 's-test-W1')
+        self.assertEqual(merged['leases']['W1']['ids'],
+                         remote['leases']['W1']['ids'])
 
     def test_01_w1_claims_10_ids(self):
         ids = self.planned(10)

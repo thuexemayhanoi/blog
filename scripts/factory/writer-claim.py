@@ -44,6 +44,11 @@ HỢP ĐỒNG (TURBO MULTI-WRITER):
     REGISTRY_CORRUPT), KHÔNG coi là rỗng. Phục hồi:
     `repair-registry --from-git` lấy bản hợp lệ gần nhất trong git
     history. Ghi file nguyên tử (tmp + fsync + replace);
+  - registry ĐỌC ĐƯỢC nhưng mơ hồ chủ (một ID bị >= 2 lease sống giữ, một
+    phiên giữ >= 2 slot sống) => exit 1, code REGISTRY_CONFLICT (KHÔNG phải
+    REGISTRY_CORRUPT): mọi lệnh từ chối, không ghi gì, và KHÔNG được
+    rollback/repair từ git (sẽ làm mất lease sống). Lối ra: chờ lease hết
+    TTL hoặc coordinator hóa giải có bằng chứng (docs/RECOVERY.md);
   - thời gian luôn UTC (calendar.timegm) — KHÔNG phụ thuộc múi giờ máy;
   - registry sống ở data/state/writer-claims.json (env WRITER_CLAIMS).
     Path nằm NGOÀI paths filter của factory-publish.yml nên push registry
@@ -75,7 +80,11 @@ Lệnh:
   status  [--writer W] [--session S] trạng thái slot chi tiết (ĐỌC)
   prune                             rà hiệu lực lease NGAY BÂY GIỜ (ghi)
   merge   --file registry.json      gộp phần không tranh chấp; không chuyển
-                                    chủ slot/ID local đang sống
+                                    chủ slot/ID local đang sống. Cùng slot:
+                                    lease v1 (chưa session) + bản đã nhận
+                                    = CÙNG chủ (giữ session đã nhận, không
+                                    hạ cấp); chỉ hai session cùng có mặt mà
+                                    khác nhau mới là REGISTRY_CONFLICT
   check-registry                    kiểm tra bất biến registry (exit 1 nếu hỏng)
   repair-registry [--from-git [--ref R]]  sửa trùng lặp / lấy bản hợp lệ
                                     từ git history
@@ -122,7 +131,26 @@ class RegistryCorrupt(Exception):
 
 
 class OwnershipConflict(RegistryCorrupt):
-    """Lease sống mơ hồ: không tự rollback registry để chọn một chủ."""
+    """Lease sống mơ hồ: không tự rollback registry để chọn một chủ.
+    Là con của RegistryCorrupt để code cũ vẫn fail-closed, nhưng MỌI ranh
+    giới công cụ phải bắt riêng và báo REGISTRY_CONFLICT (conflict_payload),
+    không báo REGISTRY_CORRUPT + hướng dẫn khôi phục từ git."""
+
+    def __init__(self, msg, problems=None):
+        super().__init__(msg)
+        self.problems = list(problems or [])
+
+
+CONFLICT_HINT = ('KHONG rollback/khoi phuc registry tu git (se mat lease '
+                 'song): cho lease het TTL hoac coordinator hoa giai co '
+                 'bang chung (docs/RECOVERY.md)')
+
+
+def conflict_payload(e):
+    """Payload JSON THỐNG NHẤT cho REGISTRY_CONFLICT (CLI + writer-session)."""
+    return {'code': 'REGISTRY_CONFLICT', 'error': str(e),
+            'problems': list(getattr(e, 'problems', []) or []),
+            'hint': CONFLICT_HINT}
 
 
 # --------------------------------------------------------------- thời gian
@@ -407,7 +435,7 @@ def require_live_ownership(reg, now=None):
     problems = live_ownership_problems(reg, now)
     if problems:
         raise OwnershipConflict('registry ownership khong nhat quan: ' +
-                              '; '.join(problems))
+                                '; '.join(problems), problems)
 
 
 def _session_slot_error(reg, writer, session, now):
@@ -512,7 +540,8 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
                     '[A-Za-z0-9._-], toi da 64 ky tu)', writer=writer)
     problems = live_ownership_problems(reg, now)
     if problems:
-        return _err('REGISTRY_CONFLICT', '; '.join(problems))
+        return _err('REGISTRY_CONFLICT', '; '.join(problems),
+                    problems=problems, hint=CONFLICT_HINT)
     work = json.loads(json.dumps(reg))      # sao chép: lỗi thì KHÔNG đổi reg
     prev = work['leases'].get(writer)       # trước prune: biết epoch cũ
     report = prune_registry(work, rows, now)
@@ -645,7 +674,8 @@ def apply_heartbeat(reg, rows, writer, session, now=None, ttl_hours=None):
         return _err('BAD_SESSION', 'session id khong hop le', writer=writer)
     problems = live_ownership_problems(reg, now)
     if problems:
-        return _err('REGISTRY_CONFLICT', '; '.join(problems))
+        return _err('REGISTRY_CONFLICT', '; '.join(problems),
+                    problems=problems, hint=CONFLICT_HINT)
     work = json.loads(json.dumps(reg))
     prune_registry(work, rows, now)
     session_error = _session_slot_error(work, writer, session, now)
@@ -682,7 +712,8 @@ def apply_release(reg, rows, writer, session, ids=None, end=False, now=None):
         return _err('BAD_SESSION', 'session id khong hop le', writer=writer)
     problems = live_ownership_problems(reg, now)
     if problems:
-        return _err('REGISTRY_CONFLICT', '; '.join(problems))
+        return _err('REGISTRY_CONFLICT', '; '.join(problems),
+                    problems=problems, hint=CONFLICT_HINT)
     work = json.loads(json.dumps(reg))
     prune_registry(work, rows, now)
     mine = work['leases'].get(writer)
@@ -893,7 +924,12 @@ def cmd_prune():
 
 
 def merge_registries(local, other, rows):
-    """Merge nguyên tử; không chuyển chủ lease local còn sống bằng timestamp."""
+    """Merge nguyên tử; không chuyển chủ lease local còn sống bằng timestamp.
+
+    Cùng slot hai bên chỉ XUNG ĐỘT (OwnershipConflict) khi CẢ HAI cùng có
+    session và hai session KHÁC nhau. Lease v1 (chưa session) đối diện bản
+    đã được nhận (v2) là MỘT chủ ở hai thời điểm: giữ session đã nhận, KHÔNG
+    hạ cấp v2 -> v1. Một phiên không được giữ hai slot sống."""
     now = time.time()
     require_live_ownership(local, now)
     require_live_ownership(other, now)
@@ -902,17 +938,51 @@ def merge_registries(local, other, rows):
     incoming = json.loads(json.dumps(other))
     prune_registry(incoming, rows, now)
     for w, lease in incoming['leases'].items():
-        mine = work['leases'].get(w)
-        if mine and mine.get('session') != lease.get('session'):
-            raise RegistryCorrupt('slot %s dang co lease song cua phien khac' % w)
+        mine_s = (work['leases'].get(w) or {}).get('session')
         s = lease.get('session')
+        if mine_s and s and mine_s != s:
+            msg = ('slot %s dang co lease song cua phien %s; ban remote '
+                   'thuoc phien khac %s' % (w, mine_s, s))
+            raise OwnershipConflict(msg, [msg])
         if s and _session_slot_error(work, w, s, now):
-            raise RegistryCorrupt('session %s khong duoc giu hai slot' % s)
+            msg = 'session %s khong duoc giu hai slot' % s
+            raise OwnershipConflict(msg, [msg])
     out = _merge_uncontested(work, incoming, rows)
     require_live_ownership(work, now)
     local.clear()
     local.update(work)
     return out
+
+
+def _lease_stamp(lease):
+    """Thứ tự "mới hơn" của hai bản CÙNG MỘT lease: heartbeat/claim, rồi hạn."""
+    return (_epoch_of(lease.get('heartbeat_at') or lease.get('claimed_at')
+                      or ''), _epoch_of(lease.get('expires_at') or ''))
+
+
+def _merge_same_slot(mine, theirs, keep):
+    """Hai bản của CÙNG lease (sessions không xung đột — đã kiểm). Bản ĐÃ NHẬN
+    (có session) mới hơn bản v1 nên làm gốc; cùng loại thì bản có heartbeat/
+    hạn mới hơn (hòa: local). ID: ID local trước (đã commit/CAS, không bị đá
+    ra bởi ID incoming), rồi ID incoming mới, tối đa MAX_LEASE. Hạn = muộn
+    hơn trong hai bản (cùng chủ); epoch = lớn hơn."""
+    if bool(mine.get('session')) != bool(theirs.get('session')):
+        base = theirs if theirs.get('session') else mine
+    else:
+        base = theirs if _lease_stamp(theirs) > _lease_stamp(mine) else mine
+    lease = dict(base)
+    ids = list(mine.get('ids', []))
+    ids += [a for a in keep if a not in ids]
+    lease['ids'] = sorted(ids[:MAX_LEASE])
+    latest = max((mine, theirs),
+                 key=lambda x: _epoch_of(x.get('expires_at') or ''))
+    if latest.get('expires_at'):
+        lease['expires_at'] = latest['expires_at']
+    epochs = [e for e in (mine.get('epoch'), theirs.get('epoch'))
+              if isinstance(e, int)]
+    if epochs:
+        lease['epoch'] = max(epochs)
+    return lease
 
 
 def _merge_uncontested(local, other, rows):
@@ -941,16 +1011,12 @@ def _merge_uncontested(local, other, rows):
             # quyền chuyển chủ ID đang sống. Writer phải fetch và claim lại.
             lost.append({'id': a, 'winner': ow, 'loser': w})
         if keep:
-            mine = local['leases'].get(w) or {}
-            same = (not mine.get('session') or not l.get('session')
-                    or mine.get('session') == l.get('session'))
-            if mine and not same and \
-                    _epoch_of(mine.get('claimed_at') or '') <= \
-                    _epoch_of(l.get('claimed_at') or ''):
-                continue                      # lease local của phiên khác cũ hơn: giữ
-            lease = dict(l)
-            lease['ids'] = sorted(set(list(mine.get('ids', [])) + keep))[:MAX_LEASE] \
-                if same else sorted(keep)[:MAX_LEASE]
+            mine = local['leases'].get(w)
+            if mine:
+                lease = _merge_same_slot(mine, l, keep)
+            else:
+                lease = dict(l)
+                lease['ids'] = sorted(keep)[:MAX_LEASE]
             local['leases'][w] = lease
     prune_registry(local, rows)
     return {'merged': True, 'conflicts': conflicts,
@@ -994,9 +1060,8 @@ def cmd_repair_registry(from_git=False, ref='HEAD'):
         reg = load_registry()
         source = 'working-copy'
     except OwnershipConflict as e:
-        return _out_err(_err('REGISTRY_CONFLICT', str(e),
-                            hint='khong rollback lease song; cho het TTL '
-                                 'hoac coordinator hoa giai co bang chung'))
+        print(json.dumps(conflict_payload(e), ensure_ascii=False))
+        return 1
     except RegistryCorrupt as e:
         if not from_git:
             print(json.dumps({'ok': False, 'code': 'REGISTRY_CORRUPT',
@@ -1105,6 +1170,9 @@ def main():
             return cmd_check_registry()
         if args.command == 'repair-registry':
             return cmd_repair_registry(args.from_git, args.ref)
+    except OwnershipConflict as e:
+        print(json.dumps(conflict_payload(e), ensure_ascii=False))
+        return 1
     except RegistryCorrupt as e:
         print(json.dumps({'code': 'REGISTRY_CORRUPT', 'error': str(e),
                           'hint': 'chay: writer-claim.py repair-registry '

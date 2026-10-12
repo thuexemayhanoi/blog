@@ -912,6 +912,97 @@ class TestCodexRound2(SessionBase):
         self.assertEqual(sorted(self.sim.origin_registry()['leases']), ['W2'])
 
 
+class TestRegistryConflictBoundary(SessionBase):
+    """Codex P2 trên PR #9: OwnershipConflict (lease sống mơ hồ) phải ra
+    REGISTRY_CONFLICT ở MỌI lệnh thường — chờ TTL/coordinator — chứ không bị
+    báo REGISTRY_CORRUPT kèm hướng dẫn `repair-registry --from-git` (lệnh đó
+    từ chối đúng tình huống này: ngõ cụt, và nếu làm được sẽ mất lease sống)."""
+
+    def run_cmd(self, clone, *args, env=None):
+        r = self.sim.session_cmd(clone, *args, env=env)
+        return r, parse_session_out(r.stdout)
+
+    def _conflict(self, kind):
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        self.begin('b', '--slot', 'W2', '--count', '2')
+        if kind == 'id':
+            self.sim.edit_registry(lambda reg: reg['leases']['W2']['ids']
+                                   .append(a['leased_total'][0]))
+        else:
+            self.sim.edit_registry(lambda reg: reg['leases']['W2']
+                                   .update(session=a['session']))
+        return a
+
+    def _assert_conflict_everywhere(self, kind):
+        a = self._conflict(kind)
+        head = self.sim.origin_head()
+        for clone, args in (('a', ['status']),
+                            ('b', ['status']),
+                            ('a', ['begin', '--slot', 'auto']),
+                            ('a', ['begin', '--slot', 'W3']),
+                            ('a', ['heartbeat']),
+                            ('a', ['release', '--all']),
+                            ('a', ['check']),
+                            ('a', ['repair-registry'])):
+            r, out = self.run_cmd(clone, *args)
+            tag = (kind, clone, args, r.stdout, r.stderr)
+            self.assertEqual(r.returncode, 1, tag)
+            self.assertEqual(out['code'], 'REGISTRY_CONFLICT', tag)
+            self.assertTrue(out.get('problems'), tag)
+            self.assertNotIn('--from-git', out['error'], tag)
+        self.assertEqual(self.sim.origin_head(), head,
+                         'lenh bi tu choi khong duoc ghi gi len origin')
+        self.assertEqual(sorted(self.sim.origin_registry()['leases']),
+                         ['W1', 'W2'], 'khong lease nao bi xoa/rollback')
+        return a
+
+    def test_72_duplicate_live_id_is_reported_as_conflict(self):
+        self._assert_conflict_everywhere('id')
+
+    def test_73_one_session_in_two_live_slots_is_reported_as_conflict(self):
+        self._assert_conflict_everywhere('session')
+
+    def test_74_conflict_clears_when_one_lease_expires(self):
+        """Đường thoát đúng như tài liệu: hết TTL của một bên thì registry hết
+        mơ hồ và lệnh chạy lại bình thường (không cần repair)."""
+        a = self._conflict('id')
+        self.sim.edit_registry(lambda reg: reg['leases']['W2']
+                               .update(expires_at='2000-01-01T00:00:00Z'))
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual(out['me']['slot'], 'W1')
+        self.assertEqual(out['me']['ids'], a['leased_total'])
+
+    def test_75_real_corruption_still_points_to_repair(self):
+        self.sim.clone('a')
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': '{"leases": '}, 'corrupt')
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
+        self.assertIn('repair-registry', out['error'])
+
+    def test_76_non_utf8_registry_is_corrupt_not_a_traceback(self):
+        self.sim.clone('a')
+        # bytes không hợp lệ UTF-8 phải đi qua commit nhị phân
+        import shutil
+        wd = os.path.join(self.sim.base, 'ext-bad-bytes')
+        git(self.sim.base, 'clone', '-q', self.sim.origin, wd)
+        git(wd, 'checkout', '-q', '-B', 'main', 'origin/main')
+        with open(os.path.join(wd, 'data/state/writer-claims.json'), 'wb') as f:
+            f.write(b'{"leases": {}, "x": "\xff\xfe"}')
+        git(wd, 'add', '-A')
+        git(wd, 'commit', '-q', '-m', 'non-utf8 registry')
+        git(wd, 'push', '-q', 'origin', 'HEAD:main')
+        shutil.rmtree(wd, ignore_errors=True)
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
+        self.assertNotIn('Traceback', r.stderr)
+
+
 class TestConfirmEdges(SessionBase):
 
     def test_66_confirm_blocked_is_terminal_not_a_timeout(self):
