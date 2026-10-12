@@ -832,5 +832,190 @@
   ],
   "root_cause": "slugify() in scripts/factory/refill-queue.py:82 and scripts/factory/generate-matrix.py:62 call norm(), which NFD-decomposes and strips combining marks, then deletes every character outside [a-z0-9 ]. The Vietnamese letter \"đ\" (U+0111) has no decomposition, so it is DELETED instead of being mapped to \"d\" (e.g. \"điện\" -> \"ien\", \"đạp\" -> \"ap\").",
   "scope_note": "Outside the 300-post sample (legacy slugs are hand-made) but it affects the factory output and therefore any URL-level SEO/AEO work. NOT changed here (no URL/redirect changes in this phase)."
+ },
+ "rendered_posts": {
+  "n": 300,
+  "jsonld_all_valid": 300,
+  "jsonld_has_faqpage": 0,
+  "jsonld_types_union": [
+   "BlogPosting",
+   "BreadcrumbList",
+   "LocalBusiness",
+   "Organization",
+   "WebSite"
+  ],
+  "breadcrumb_list_jsonld_exactly_one": 300,
+  "breadcrumb_null_names": 0,
+  "blogposting_missing_image": 300,
+  "blogposting_missing_mainEntityOfPage": 300,
+  "blogposting_missing_inLanguage": 300,
+  "dateModified_equals_datePublished": 300,
+  "localbusiness_priceRange_values": [
+   "150000-200000 VND"
+  ],
+  "title_h1_mismatch": [],
+  "h1_count_not_one": [
+   "BLG-00238"
+  ],
+  "canonical_mismatch": [],
+  "robots_meta_present": 0,
+  "details_faq_visible": 0,
+  "faq_like_headings_visible": 16,
+  "two_breadcrumb_navs": 24,
+  "links_by_region": {
+   "breadcrumb": {
+    "min": 5,
+    "max": 6,
+    "posts_with_zero": 0
+   },
+   "related": {
+    "min": 4,
+    "max": 4,
+    "posts_with_zero": 0
+   },
+   "prev_next": {
+    "min": 1,
+    "max": 2,
+    "posts_with_zero": 0
+   },
+   "cta": {
+    "min": 1,
+    "max": 1,
+    "posts_with_zero": 0
+   },
+   "article_body": {
+    "min": 0,
+    "max": 5,
+    "posts_with_zero": 3
+   }
+  },
+  "toc_present": 300
+ },
+ "rendered_pages": {
+  "n": 77,
+  "jsonld_all_valid": 77,
+  "jsonld_has_faqpage": 0,
+  "breadcrumb_list_jsonld": 0,
+  "pages_with_visible_faq_heading": [
+   "PG-HOI-DAP",
+   "PG-CHIA-SE",
+   "PG-KINH-NGHIEM",
+   "PG-BAI-VIET",
+   "PG-BANG-GIA-XE-50CC",
+   "PG-BANG-GIA-XE-DIEN",
+   "PG-BANG-GIA-XE-GA",
+   "PG-BANG-GIA-XE-SO",
+   "PG-BANG-GIA",
+   "PG-GIOI-THIEU",
+   "PG-LIEN-HE",
+   "PG-HOI-DAP-HOI-DAP-CHON-XE",
+   "PG-HOI-DAP-HOI-DAP-GIA",
+   "PG-HOI-DAP-HOI-DAP-NGUOI-MOI",
+   "PG-HOI-DAP-HOI-DAP-PHAP-LY",
+   "PG-HOI-DAP-HOI-DAP-SU-CO",
+   "PG-HOI-DAP-HOI-DAP-THU-TUC"
+  ],
+  "pages_not_h1_equal_title_prefix": [
+   "PG-CHU-DE"
+  ],
+  "duplicate_meta_descriptions": [
+   {
+    "description": "Kinh nghiệm thuê xe máy Hà Nội, chọn xe, du lịch, bảng giá và hướng dẫn di chuyển từ Nguyễn Tú.",
+    "pages": [
+     "PG-HOME",
+     "PG-BAI-VIET"
+    ]
+   }
+  ],
+  "description_text_repeated_in_main": {
+   "count": 53,
+   "pages": [
+    "PG-AN-TOAN-PHAP-LY-BAO-HIEM",
+    "PG-AN-TOAN-PHAP-LY-BIEN-BAO",
+    "PG-AN-TOAN-PHAP-LY-GIAY-PHEP-LAI-XE",
+    "PG-AN-TOAN-PHAP-LY-GIAY-TO",
+    "PG-AN-TOAN-PHAP-LY-NOI-DO-CONG",
+    "PG-AN-TOAN-PHAP-LY-PHAT-NGUOI",
+    "PG-AN-TOAN-PHAP-LY-QUY-DINH-GIAO-THONG",
+    "PG-CUNG-DUONG-CUNG-DUONG-CUOI-TUAN",
+    "PG-CUNG-DUONG-CUNG-DUONG-NOI-THANH",
+    "PG-CUNG-DUONG-CUNG-DUONG-PHO-BAC",
+    "PG-CUNG-DUONG-HA-GIANG",
+    "PG-CUNG-DUONG-MAI-CHAU",
+    "PG-CUNG-DUONG-MOC-CHAU",
+    "PG-DU-LICH-BAO-TANG",
+    "PG-DU-LICH-DIEM-DEN",
+    "PG-DU-LICH-HO-TAY",
+    "PG-DU-LICH-LONG-BIEN",
+    "PG-DU-LICH-NGOAI-THANH",
+    "PG-DU-LICH-PHO-CO",
+    "PG-HOI-DAP-HOI-DAP-CHON-XE",
+    "PG-HOI-DAP-HOI-DAP-GIA",
+    "PG-HOI-DAP-HOI-DAP-NGUOI-MOI",
+    "PG-HOI-DAP-HOI-DAP-PHAP-LY",
+    "PG-HOI-DAP-HOI-DAP-SU-CO",
+    "PG-HOI-DAP-HOI-DAP-THU-TUC",
+    "PG-KY-NANG-CHO-DO-VA-HANH-LY",
+    "PG-KY-NANG-GUI-XE-VA-GIU-XE",
+    "PG-KY-NANG-KY-NANG-LAI-CO-BAN",
+    "PG-KY-NANG-SUC-KHOE-KHI-LAI-XE",
+    "PG-KY-NANG-THOI-TIET-VA-DUONG-SA",
+    "PG-KY-NANG-TINH-HUONG-GIAO-THONG",
+    "PG-THUE-XE-DAT-COC",
+    "PG-THUE-XE-GIA-THUE",
+    "PG-THUE-XE-KHACH-QUOC-TE",
+    "PG-THUE-XE-NHAN-TRA-XE",
+    "PG-THUE-XE-SU-CO",
+    "PG-THUE-XE-THU-TUC",
+    "PG-THUE-XE-THUE-NGAY",
+    "PG-THUE-XE-THUE-THANG",
+    "PG-THUE-XE-THUE-THEO-DOI-TUONG",
+    "PG-THUE-XE-THUE-TUAN",
+    "PG-XE-MAY-BAO-DUONG-XE",
+    "PG-XE-MAY-CHON-LOAI-XE",
+    "PG-XE-MAY-HONDA-AIR-BLADE",
+    "PG-XE-MAY-HONDA-CLICK",
+    "PG-XE-MAY-HONDA-VISION",
+    "PG-XE-MAY-HONDA-WAVE",
+    "PG-XE-MAY-XE-50CC",
+    "PG-XE-MAY-XE-DAP-DIEN",
+    "PG-XE-MAY-XE-DIEN",
+    "PG-XE-MAY-XE-GA",
+    "PG-XE-MAY-XE-SO",
+    "PG-XE-MAY-YAMAHA-SIRIUS"
+   ]
+  },
+  "editorial_words_by_type": {
+   "Homepage": {
+    "n": 1,
+    "median": 1162,
+    "min": 1162,
+    "max": 1162
+   },
+   "Hub": {
+    "n": 6,
+    "median": 71,
+    "min": 58,
+    "max": 81
+   },
+   "Category": {
+    "n": 3,
+    "median": 708,
+    "min": 695,
+    "max": 774
+   },
+   "Page": {
+    "n": 11,
+    "median": 621,
+    "min": 235,
+    "max": 1114
+   },
+   "Topic cluster page": {
+    "n": 56,
+    "median": 40,
+    "min": 28,
+    "max": 61
+   }
+  }
  }
 }

@@ -18,10 +18,22 @@ the same definitions. Agents only READ the repository and write ONE JSON file wi
    (address, phone, hours 09:00-21:00, vehicle types, five approved day/week/month price lines, deposit
    = "Xác nhận trực tiếp", electric price = "liên hệ"). Everything else a post says about prices, deposits,
    fees, laws, penalties, documents or third-party places is an UNVERIFIED claim: flag it, do not endorse it.
+   The owner has also declared these topics BLOCKED until the owner decides (read `reports/factory/policy-conflicts.md`): a deposit
+   amount/range, a late-return fee, renter insurance, holding ID documents, helmet included, refund of unused days. A page that
+   STATES any of these as fact (amount or commitment) carries an unverifiable claim (kind DEPOSIT / PRICE / OTHER); a FAQ about
+   them is `NOT_RECOMMENDED` (or `needs_fact_check=true` on a suggested question) and an existing FAQ that states them is
+   `IMPROVE` with priority `P0`.
 4. NEVER write a suggested FAQ answer that is not already supported by a passage in the page. A suggested
    question is only allowed if you can quote the existing passage that answers it WITHOUT changing its meaning.
 5. FAQPage structured data is only legitimate when the same questions and answers are VISIBLE on the page.
-   FAQ markup is not a guarantee of AI Overviews, AI Mode or any rich result. Do not promise outcomes.
+   CURRENT GOOGLE FACTS (verified on Google Search Central, 2026-10-12): the FAQ rich result feature is deprecated and no longer
+   shown in Google Search since 2026-05-07 (documentation removed June 2026); Google's AI-features guide (updated 2026-07-10) says
+   structured data is not required for generative AI search, there is no special schema.org markup to add, "chunking" content
+   into tiny pieces, rewriting content just for AI systems and llms.txt are not needed, and creating separate content for every
+   query variation can violate the scaled-content spam policy. So NEVER justify a FAQ by "rich result", "AI Overview" or "schema
+   boost". A FAQ is only worth recommending when it HELPS THE READER find a real answer that is currently buried, vague or
+   scattered; if the answer is already clear under a descriptive heading, duplicating it in a Q&A block adds nothing => `NO_FAQ`.
+   Do not promise outcomes.
 6. Do not create a template of 5-10 generic questions. Questions must come from THIS page's content.
 7. Write all free-text fields in Vietnamese (the owner reads Vietnamese). Enumerations stay in English
    upper-case exactly as listed. Keep each free-text field short (<= the limit given in the schema).
@@ -33,6 +45,12 @@ the same definitions. Agents only READ the repository and write ONE JSON file wi
   followed by an answer (question-form headings with answers beneath them, bold question + answer, `Q:`/`A:`
   lines, `<details>`). A heading such as "Câu hỏi thường gặp" that only lists questions the reader should ASK
   THE SHOP (a checklist) or only has a generic sentence is NOT explicit.
+  RUN-IN Q&A counts as explicit: many posts write the pairs inside ordinary paragraphs ("Hỏi một: ...? <answer> Hỏi hai: ...?",
+  "Hỏi: ...? Trả lời: ...", "Câu hỏi đầu tiên: ... Câu hỏi thứ hai: ..."). It is visible Q&A, so `EXPLICIT`, but its quality is at most
+  `FAIR` (not separable / not markup-ready) and the usual action is `IMPROVE` (restructure into discrete Q&A through the shared
+  component WITHOUT changing the meaning), plus P0 if the answers state unverified legal / price / deposit facts. A single incidental
+  "Hỏi:" is not a FAQ. List every pair in `existing_faq` (verbatim question text without the "Hỏi một:" label is fine; the quote must
+  still be found in the source).
 * `IMPLICIT` — no explicit FAQ section, but the body already answers >= 2 DISTINCT, search-realistic questions
   (a person could type or say them) in self-contained 1-3 sentence passages that could be lifted as Q&A without
   changing meaning.
@@ -49,8 +67,8 @@ the same definitions. Agents only READ the repository and write ONE JSON file wi
   and the FAQ is already present).
 * `IMPROVE` — EXPLICIT FAQ exists but is FAIR/WEAK (numbering inside questions, answer starts with "Trả lời:",
   answers that overreach, unverified legal/price claims, duplicate/generic questions, missing the key question).
-* `ADD` — IMPLICIT answers exist and a visible FAQ block built from those existing passages would be genuinely
-  useful (clear question intent, helps AI/answer extraction and the reader).
+* `ADD` — IMPLICIT answers exist, they are currently hard to find (buried in long paragraphs, vague headings, no question-style
+  signposting) and a short visible FAQ block built from those existing passages would genuinely help the reader. Use sparingly.
 * `MERGE` — the same FAQ / same question set / same intent exists on another URL: consolidate to one
   canonical answer and cross-link, do not duplicate.
 * `NO_FAQ` — leave the page without FAQ (status NONE or NOT_RECOMMENDED).
@@ -74,8 +92,9 @@ NO_FAQ (with reason) or MERGE.
   answers.
 * `MEDIUM` — informational topic with some direct answers or moderate commercial relevance.
 * `LOW` — narrative/local-culture content, thin or off-intent, or answers are not stable/verifiable.
-This is a qualitative editorial judgement. It is NOT based on traffic, rankings or citation data (none is
-available for this blog property) — never imply otherwise.
+This is a qualitative editorial judgement about reader value and answer clarity. It is NOT based on traffic, rankings or citation
+data (none is available for this blog property) — never imply otherwise. `HIGH` does not mean "add FAQ schema"; it means the page
+serves a core renter question and its answer could be made clearer.
 
 ## 5. Other fields
 
@@ -92,13 +111,14 @@ available for this blog property) — never imply otherwise.
 * Internal links: the RENDERED page already gets links from the layout: a generic breadcrumb, the taxonomy breadcrumb
   (home -> Cẩm nang -> hub -> topic), a TOC, prev/next (chronological, NOT topical), up to 4 related posts (same
   topic cluster, taken in site order, NOT chosen by relevance) and a CTA button to /bang-gia/ (see
-  `rendered_links_from_layout` and `layout_links_already_present` in your pack). Legacy posts have ZERO links in the
-  body text (verified). Judge (a) whether the layout's related posts are really relevant to this page's intent and
-  (b) whether a contextual in-body link is missing. Suggest at most 3 ADDITIONAL links, ONLY to targets listed in
-  `allowed_link_targets` (that list already excludes what the layout links), each with a reason. Put layout links that
-  are irrelevant or defective into `fix`. Never invent URLs.
-* Title/meta: judge intent match, length (rendered title incl. site suffix > 60 chars is long; description
-  < 70 or > 170 chars), duplicated boilerplate, missing keyword. Keep notes short.
+  `rendered_links_from_layout`, `layout_links_already_present` and `rendered_body_links` in your pack). Most legacy posts also carry
+  2-5 TEMPLATED in-body links (mainly /lien-he/, /kinh-nghiem/, /bang-gia/ and the pillar post "kinh-nghiem-thue-xe-may-ha-noi"; the
+  link to the pillar post ends in a double slash `//`, which is served as 200 with a single-slash canonical). Judge (a) whether the
+  layout's related posts are really relevant to this page's intent, (b) whether the body's templated links are relevant or only
+  boilerplate, and (c) whether a contextual in-body link is missing. Suggest at most 3 ADDITIONAL links, ONLY to targets listed in
+  `allowed_link_targets` (that list already excludes what the layout links), each with a reason. Put links that are irrelevant or
+  defective into `fix`. Never invent URLs.
+* Title/meta: judge intent match, keyword placement and clarity (see the clarification above about length). Keep notes short.
 * Implementation method: `TEMPLATE` (change in a layout/include for all posts), `COMPONENT` (a shared FAQ
   component fed by per-page data), `GENERATOR` (derived by tooling from existing content, then reviewed), or
   `CONTENT` (manual editorial edit of that one page).
@@ -152,6 +172,18 @@ Record fields (all keys required; use empty arrays / "" where nothing applies):
 `schema_fit.faqpage_eligible_now` is true ONLY when the page already shows >= 2 visible Q&A pairs whose answers
 are accurate enough to mark up. `existing_faq` must list every visible Q&A pair (EXPLICIT) and be empty otherwise.
 
+
+Shape and semantics clarifications (from the calibration run):
+* `internal_links.fix` is a list of short strings (each <= 120 chars), e.g. `"related block shows 4 posts about X, irrelevant to this topic"`.
+* `risk.level` = the risk that this page's CURRENT content, or the FAQ you recommend, misleads renters or breaks the owner's policy
+  (unverified facts, BLOCKED topics, legal claims). It is NOT the technical risk of editing the page.
+* `MERGE`: put the proposed canonical URL's id first in `cannibalization.competing_ids` (at least one id) and say in
+  `cannibalization.notes` which page should own the answer and why.
+* `implicit_questions` may be filled for any status (EXPLICIT, NOT_RECOMMENDED included) with body-only candidates; keep it empty for NONE.
+* Title / description length: do NOT flag the site-suffix length or generic over-length by itself (all posts share the same 31-char
+  suffix; it is a template-wide finding measured deterministically). Use `title_meta.assessment = IMPROVE` only for content-specific problems:
+  vague or clickbait title, keyword/intent mismatch, duplicate of another title/description, description that does not match the page.
+
 ## 7. Calibration anchors
 
 * A post with the heading "Câu hỏi thường gặp" followed by five `###` questions each with a "Trả lời:" answer
@@ -162,7 +194,9 @@ are accurate enough to mark up. `existing_faq` must list every visible Q&A pair 
   ask the shop (no answers) => NOT an explicit FAQ. Judge the rest of the post: if it contains separable answers
   => `IMPLICIT`, else `NONE`. A deposit topic is high intent, but amounts/conditions must come only from
   approved facts => risk and `needs_fact_check` accordingly.
-* A heading "Câu hỏi thường gặp khi sạc xe điện" with a paragraph but no Q&A pairs => not explicit.
+* A heading "Câu hỏi thường gặp khi sạc xe điện" followed by ONE paragraph that holds five run-in question/answer pairs => `EXPLICIT`
+  (visible Q&A), quality `FAIR` (not separable), action `IMPROVE` (restructure without changing meaning). If the same heading only has a generic
+  sentence and no real pairs => not explicit.
 * A walking-tour / local-culture narrative => `NONE`, `NO_FAQ`, opportunity `LOW`.
 
 ## 8. Main pages (items with `"kind": "PAGE"`)
@@ -183,3 +217,15 @@ are accurate enough to mark up. `existing_faq` must list every visible Q&A pair 
   documents / area topics are the usual overlaps.
 * `implementation_method` for pages is usually `COMPONENT` (shared FAQ include fed by data) or `CONTENT`; `TEMPLATE` only when
   a layout-level change helps every page of that type.
+
+## 9. Working rules (speed and consistency)
+
+* Facts already verified for the whole site — do NOT re-verify them: there is NO FAQ component and NO `FAQPage` JSON-LD anywhere; the
+  head JSON-LD (Organization / LocalBusiness / WebSite / BlogPosting) and the post BreadcrumbList are valid on every audited page; robots.txt
+  allows everything; every audited URL is in the sitemap and returns 200; the layout adds breadcrumbs, TOC, prev/next, 4 related posts and a
+  CTA (see your pack); `data/business-facts.json` and `reports/factory/policy-conflicts.md` are the only fact sources.
+* Read each source file fully, once. Do NOT read other posts in full to compare. For cannibalization use the titles/headings in the pack's
+  `similar` list; at most 2 `grep -n '^#' <file>` calls on competing posts if a judgement really needs it.
+* Process the items one by one. Keep each free-text field short; quotes are the evidence, prose is only the label.
+* Write the single output file once at the end with the Write tool, run the validator, fix every error, and finish. Do not leave scratch
+  files in the repository.

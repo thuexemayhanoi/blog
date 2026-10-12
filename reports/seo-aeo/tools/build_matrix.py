@@ -29,7 +29,8 @@ COLUMNS = [
     # extra evidence columns
     'Title', 'Word Count (visible)', 'Semantic Entities', 'Answer Directness', 'AI Extractability', 'Heading Structure',
     'Content Accuracy / Completeness', 'Unverifiable Claims', 'Title / Meta / Canonical / Indexability',
-    'JSON-LD on page (rendered)', 'Inbound Links From Other Post Bodies', 'FAQ Duplication', 'Confidence',
+    'JSON-LD on page (rendered)', 'Inbound Links (body / related / prev-next)', 'FAQ Duplication', 'Business-Fact Signals (factory scorer, informational)',
+    'External Sources Cited', 'Main-site GSC theme (context only, not blog data)', 'Confidence',
 ]
 STATUS_LABEL = {'EXPLICIT': 'Explicit', 'IMPLICIT': 'Implicit', 'NONE': 'None', 'NOT_RECOMMENDED': 'Not recommended'}
 ACTION_LABEL = {'KEEP': 'KEEP', 'IMPROVE': 'IMPROVE', 'ADD': 'ADD', 'MERGE': 'MERGE', 'NO_FAQ': 'NO FAQ'}
@@ -38,6 +39,24 @@ METHOD_LABEL = {'TEMPLATE': 'Template', 'COMPONENT': 'Component', 'GENERATOR': '
 QUALITY_LABEL = {'GOOD': 'Good', 'FAIR': 'Fair', 'WEAK': 'Weak', 'NA': 'N/A'}
 PRIORITY_ORDER = {'P0': 0, 'P1': 1, 'P2': 2, 'P3': 3}
 LEVEL_ORDER = {'HIGH': 0, 'MEDIUM': 1, 'LOW': 2}
+
+
+GSC_THEMES = [  # (label, regex on ascii-folded text) — themes taken from the REAL main-site Search Console queries (90 days)
+    ('xe 50cc', r'\b50 ?cc\b'), ('xe đạp điện / xe điện', r'xe dap dien|xe may dien|xe dien'),
+    ('đặt cọc / không cọc', r'\bcoc\b|dat coc|khong coc'), ('giao xe tận nơi', r'giao (xe )?tan noi|giao xe'),
+    ('giá thuê', r'\bgia\b|bang gia|chi phi'), ('Long Biên', r'long bien'), ('Phố cổ / Hoàn Kiếm', r'pho co|hoan kiem'),
+    ('xe tự lái / người mới', r'tu lai|nguoi moi'),
+]
+
+
+def fold(s):
+    import unicodedata
+    return re.sub(r'\s+', ' ', ''.join(c for c in unicodedata.normalize('NFD', s or '') if unicodedata.category(c) != 'Mn').replace('đ', 'd').replace('Đ', 'D').lower())
+
+
+def gsc_themes(*texts):
+    t = fold(' '.join(texts))
+    return ', '.join(lbl for lbl, rx in GSC_THEMES if re.search(rx, t))
 
 
 def j(*parts):
@@ -148,8 +167,13 @@ def row_for(kind, ident, det, rend, a, url_of):
         'Title / Meta / Canonical / Indexability': j(meta_summary(det, rend, det.get('canonical_url') or ''),
                                                       a['title_meta']['assessment'] + ': ' + a['title_meta'].get('notes', '')),
         'JSON-LD on page (rendered)': jsonld_summary(rend),
-        'Inbound Links From Other Post Bodies': det.get('_inbound', ''),
+        'Inbound Links (body / related / prev-next)': det.get('_inbound', ''),
         'FAQ Duplication': '%s - %s' % (a['faq_duplication']['risk'], a['faq_duplication'].get('notes', '')),
+        'Business-Fact Signals (factory scorer, informational)': det.get('_bf', ''),
+        'External Sources Cited': det.get('_ext', ''),
+        'Main-site GSC theme (context only, not blog data)': gsc_themes(a['primary_keyword']['value'], a['primary_intent']['description'],
+                                                                         *[x['question'] for x in a['suggested_questions']],
+                                                                         *[x['question'] for x in a['existing_faq']]) or 'none',
         'Confidence': a['confidence'],
     }
     return row
@@ -170,6 +194,8 @@ def main():
     rpages = {r['page_id']: r for r in json.loads((data / 'rendered-pages.json').read_text(encoding='utf-8'))}
     an_posts = load_analyses(os.path.join(a.analysis, 'B*.json'))
     an_pages = load_analyses(os.path.join(a.analysis, 'P*.json'))
+    ig = data / 'inbound-graph.json'
+    inbound = json.loads(ig.read_text(encoding='utf-8'))['sample'] if ig.is_file() else {}
     mat = {r['id']: r for r in csv.DictReader(open('data/content-matrix.csv', encoding='utf-8', newline=''))}
     url_of = {i: (r['expected_url'] or '') for i, r in mat.items()}
     for p in pages:
@@ -185,7 +211,16 @@ def main():
             continue
         tx = p['taxonomy']
         p['_cluster'] = '%s / %s' % (tx.get('parent_title') or '?', tx.get('child_title') or '?')
-        p['_inbound'] = p['links']['inbound_from_posts']
+        ib = (inbound.get(p['id']) or {})
+        p['_inbound'] = '%s / %s / %s' % (ib.get('inbound_body', '?'), ib.get('inbound_related', '?'), ib.get('inbound_prev_next', '?'))
+        sc = p.get('qa_scorer') or {}
+        sig = []
+        if sc.get('non_approved_amounts'):
+            sig.append('amounts not in approved facts: %s' % ', '.join(str(x) for x in sc['non_approved_amounts']))
+        if sc.get('forbidden_hits'):
+            sig.append('forbidden-claim hits: %s' % ', '.join(str(x) for x in sc['forbidden_hits']))
+        p['_bf'] = '; '.join(sig) or 'none'
+        p['_ext'] = len(p['links']['external'])
         row = row_for('Post', p['id'], p, rposts[p['id']], an_posts[p['id']], url_of)
         rows_posts.append(row)
         full.append({'id': p['id'], 'kind': 'Post', 'url': p['canonical_url'], 'row': row, 'analysis': an_posts[p['id']],
@@ -197,7 +232,9 @@ def main():
         kind = {'Homepage': 'Homepage', 'Hub': 'Hub', 'Category': 'Category', 'Topic cluster page': 'Topic', 'Page': 'Page'}[pg['page_type']]
         parts = [x for x in pg['canonical_path'].strip('/').split('/') if x]
         pg['_cluster'] = ' / '.join(parts) if parts else 'Trang chủ'
-        pg['_inbound'] = ''
+        pg['_inbound'] = 'n/a (page)'
+        pg['_bf'] = 'not scored (page)'
+        pg['_ext'] = ''
         row = row_for(kind, pg['page_id'], pg, rpages[pg['page_id']], an_pages[pg['page_id']], url_of)
         rows_pages.append(row)
         full.append({'id': pg['page_id'], 'kind': kind, 'url': pg['canonical_url'], 'row': row, 'analysis': an_pages[pg['page_id']],
@@ -261,6 +298,55 @@ def main():
                 for _, _, _, i, r in rows[:20]]
 
     stats_doc['top20'] = top20()
+
+    # ---- duplicated / overlapping question clusters across ALL audited URLs (existing + suggested questions)
+    import importlib.util
+    spec = importlib.util.spec_from_file_location('extract_audit_data', str(ROOT / 'reports/seo-aeo/tools/extract_audit_data.py'))
+    ex = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(ex)
+    qs = []
+    for i, r in both.items():
+        for x in r['existing_faq']:
+            qs.append((i, 'existing', x['question']))
+        for x in r['suggested_questions']:
+            qs.append((i, 'suggested', x['question']))
+    def qtoks(q):
+        q = re.sub(r'^\s*\d+[.)]\s*', '', q)
+        return frozenset(ex.tokens(q))
+    items_q = [(i, kind, q, qtoks(q)) for i, kind, q in qs if len(qtoks(q)) >= 3]
+    inv = collections.defaultdict(set)
+    for n, (_, _, _, t) in enumerate(items_q):
+        for tok in t:
+            inv[tok].add(n)
+    parent = list(range(len(items_q)))
+    def find(a):
+        while parent[a] != a:
+            parent[a] = parent[parent[a]]
+            a = parent[a]
+        return a
+    for n, (i, kind, q, t) in enumerate(items_q):
+        cand = set()
+        for tok in t:
+            if len(inv[tok]) < 200:
+                cand |= inv[tok]
+        for m in cand:
+            if m <= n or items_q[m][0] == i:
+                continue
+            u = t | items_q[m][3]
+            if len(t & items_q[m][3]) / len(u) >= 0.6:
+                parent[find(m)] = find(n)
+    groups = collections.defaultdict(list)
+    for n in range(len(items_q)):
+        groups[find(n)].append(n)
+    dup_clusters = []
+    for g in groups.values():
+        urls = sorted({items_q[n][0] for n in g})
+        if len(urls) >= 2:
+            dup_clusters.append({'urls': urls, 'n_urls': len(urls),
+                                 'questions': [{'id': items_q[n][0], 'kind': items_q[n][1], 'q': items_q[n][2]} for n in g][:8]})
+    dup_clusters.sort(key=lambda c: -c['n_urls'])
+    stats_doc['duplicate_question_clusters'] = {'method': 'token-set Jaccard >= 0.6 on ascii-folded question tokens, different URLs',
+                                                'count': len(dup_clusters), 'clusters': dup_clusters[:60]}
     stats_doc['rows'] = {'posts': len(rows_posts), 'pages': len(rows_pages), 'missing': missing}
     cann = collections.defaultdict(list)
     for i, r in both.items():

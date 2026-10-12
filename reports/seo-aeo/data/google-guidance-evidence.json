@@ -1,0 +1,35 @@
+{
+  "fetched": "2026-10-12",
+  "method": "Firecrawl scrape of Google Search Central pages (public documentation); quotes below are verbatim from the fetched pages.",
+  "sources": [
+    {
+      "url": "https://developers.google.com/search/updates",
+      "page_footer": "Last updated 2026-10-08 UTC",
+      "entries": [
+        {"date": "May 8, 2026", "title": "Deprecating the FAQ rich result feature",
+         "quote": "This feature will no longer appear in Google Search starting May 7, 2026."},
+        {"date": "June 2026", "title": "Removing documentation for the FAQ rich result feature",
+         "quote": "The FAQ rich result feature is no longer shown in Google Search results, as announced in the changelog entry in May 2026."},
+        {"date": "June 2026", "title": "Clarifying guidance on llms.txt files",
+         "quote": "while these files aren't needed for Google Search (and won't negatively or positively impact your visibility or rankings), it's fine if you want to maintain these files for other services or systems that use them."},
+        {"date": "May 2026", "title": "Adding a new guide on optimizing for generative AI features",
+         "quote": "mythbusting common \"AEO/GEO\" misconceptions"}
+      ]
+    },
+    {
+      "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+      "page_footer": "Last updated 2026-07-10 UTC",
+      "quotes": [
+        "Structured data isn't required for generative AI search, and there's no special schema.org markup you need to add. However, it's a good idea to continue using it as part of your overall SEO strategy, as it helps with being eligible for rich results on Google Search.",
+        "There's no requirement to break your content into tiny pieces for AI to better understand it.",
+        "You don't need to write in a specific way just for generative AI search.",
+        "You don't need to create new machine readable files, AI text files, markup, or Markdown to appear in Google Search (including its generative AI capabilities), as Google Search itself doesn't use them.",
+        "While it might be tempting to create separate content for every possible variation of how people might search (for example, by focusing on other queries that people have asked, or fan-out queries), doing so primarily to manipulate rankings or generative AI responses in Google Search violates Google's scaled content abuse spam policy.",
+        "Creating content that people find unique, compelling, and useful will likely influence your website's presence in generative AI search in the long run more than any of the other suggestions in this guide.",
+        "To be eligible to be shown in generative AI features on Google Search, a page must be indexed and eligible to be shown in Google Search with a snippet",
+        "To measure how your content is performing in generative AI features on Google Search and Discover, use the Generative AI performance report in Search Console."
+      ]
+    }
+  ],
+  "implication": "FAQPage JSON-LD has no Google rich-result value since 2026-05-07 and is not needed for AI features. A FAQ is only worth adding as visible, reader-useful content. Other consumers of FAQPage markup (other search engines / AI systems) were NOT verified in this audit."
+}

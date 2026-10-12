@@ -29,6 +29,7 @@ def slug_without_d_fix(title):
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('--out', default='reports/seo-aeo/data')
+    ap.add_argument('--text-dir', help='directory with PG-*.txt text exports of the rendered pages')
     a = ap.parse_args()
     os.chdir(ROOT)
     out = pathlib.Path(a.out)
@@ -166,6 +167,59 @@ def main():
         'scope_note': 'Outside the 300-post sample (legacy slugs are hand-made) but it affects the factory output and therefore any URL-level '
                       'SEO/AEO work. NOT changed here (no URL/redirect changes in this phase).',
     }
+    # ---- rendered evidence: posts + pages (needs extract_rendered.py output)
+    rp_path, rpg_path = out / 'rendered-first300.json', out / 'rendered-pages.json'
+    if rp_path.is_file() and rpg_path.is_file():
+        rposts = json.loads(rp_path.read_text(encoding='utf-8'))
+        rpages = json.loads(rpg_path.read_text(encoding='utf-8'))
+        pg_meta = {x['page_id']: x for x in json.loads((out / 'pages-extract.json').read_text(encoding='utf-8'))}
+        def region_stat(key):
+            vals = [(r.get('links_by_region') or {}).get(key, 0) for r in rposts]
+            return {'min': min(vals), 'max': max(vals), 'posts_with_zero': sum(1 for v in vals if v == 0)}
+        res['rendered_posts'] = {
+            'n': len(rposts),
+            'jsonld_all_valid': sum(1 for r in rposts if r['jsonld_all_valid']),
+            'jsonld_has_faqpage': sum(1 for r in rposts if r['jsonld_has_faqpage']),
+            'jsonld_types_union': sorted({t for r in rposts for t in r['jsonld_types']}),
+            'breadcrumb_list_jsonld_exactly_one': sum(1 for r in rposts if r['breadcrumb_list_count'] == 1),
+            'breadcrumb_null_names': sum(1 for r in rposts for b in r['jsonld_blocks'] if b.get('breadcrumb', {}).get('null_or_empty_names')),
+            'blogposting_missing_image': sum(1 for r in rposts for b in r['jsonld_blocks'] if 'blogposting' in b and not b['blogposting']['image']),
+            'blogposting_missing_mainEntityOfPage': sum(1 for r in rposts for b in r['jsonld_blocks'] if 'blogposting' in b and not b['blogposting']['mainEntityOfPage']),
+            'blogposting_missing_inLanguage': sum(1 for r in rposts for b in r['jsonld_blocks'] if 'blogposting' in b and not b['blogposting']['inLanguage']),
+            'dateModified_equals_datePublished': sum(1 for r in rposts for b in r['jsonld_blocks'] if 'blogposting_values' in b and b['blogposting_values']['dateModified'] == b['blogposting_values']['datePublished']),
+            'localbusiness_priceRange_values': sorted({b.get('localbusiness_priceRange') for r in rposts for b in r['jsonld_blocks'] if b.get('localbusiness_priceRange')}),
+            'title_h1_mismatch': [r['id'] for r in rposts if not r['h1'] or r['h1'][0] != (r['title'] or '').rsplit(' - ', 1)[0]],
+            'h1_count_not_one': [r['id'] for r in rposts if len(r['h1']) != 1],
+            'canonical_mismatch': [r['id'] for r in rposts if (r['canonical'] or '') != next(p['canonical_url'] for p in posts if p['id'] == r['id'])],
+            'robots_meta_present': sum(1 for r in rposts if r['robots']),
+            'details_faq_visible': sum(1 for r in rposts if r['faq']['details_outside_toc']),
+            'faq_like_headings_visible': sum(1 for r in rposts if r['faq']['faq_like_headings']),
+            'two_breadcrumb_navs': sum(1 for r in rposts if (r.get('links_by_region') or {}).get('breadcrumb', 0) > 5),
+            'links_by_region': {k: region_stat(k) for k in ('breadcrumb', 'related', 'prev_next', 'cta', 'article_body')},
+            'toc_present': sum(1 for r in rposts if r.get('toc_entries', 0) > 0),
+        }
+        pages_res = {
+            'n': len(rpages),
+            'jsonld_all_valid': sum(1 for r in rpages if r['jsonld_all_valid']),
+            'jsonld_has_faqpage': sum(1 for r in rpages if r['jsonld_has_faqpage']),
+            'breadcrumb_list_jsonld': sum(1 for r in rpages if r['breadcrumb_list_count']),
+            'pages_with_visible_faq_heading': [r['page_id'] for r in rpages if r['faq']['faq_like_headings']],
+            'pages_not_h1_equal_title_prefix': [r['page_id'] for r in rpages if not r['h1'] or not (r['title'] or '').startswith(r['h1'][0])],
+            'duplicate_meta_descriptions': [{'description': d[:100], 'pages': [r['page_id'] for r in rpages if r['meta_description'] == d]}
+                                            for d, n in collections.Counter(r['meta_description'] for r in rpages).items() if n > 1],
+        }
+        if a.text_dir:
+            dup_lead, editorial = [], collections.defaultdict(list)
+            for r in rpages:
+                t = pathlib.Path(a.text_dir, r['page_id'] + '.txt').read_text(encoding='utf-8')
+                d = (r['meta_description'] or '').strip()
+                if d and t.count(d) >= 2:
+                    dup_lead.append(r['page_id'])
+                ed = sum(len(re.findall(r'\w+', l)) for l in t.split('\n') if not l.startswith(('* ', '- ', '[...', '#')))
+                editorial[pg_meta[r['page_id']]['page_type']].append(ed)
+            pages_res['description_text_repeated_in_main'] = {'count': len(dup_lead), 'pages': dup_lead}
+            pages_res['editorial_words_by_type'] = {k: {'n': len(v), 'median': sorted(v)[len(v) // 2], 'min': min(v), 'max': max(v)} for k, v in editorial.items()}
+        res['rendered_pages'] = pages_res
     (out / 'deterministic-findings.json').write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding='utf-8')
     print(json.dumps({k: (v if k in ('metadata', 'permalinks', 'slug_defect_dropped_d') else '...') for k, v in res.items()},
                      ensure_ascii=False, indent=1)[:3500])

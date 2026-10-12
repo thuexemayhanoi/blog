@@ -1,0 +1,19 @@
+{%- comment -%}
+  Shared FAQ component (PROTOTYPE, throwaway). One data variable -> visible block AND FAQPage JSON-LD.
+  Renders nothing unless status == approved and >= 2 approved items. O(1) per page (no loop over site.posts).
+{%- endcomment -%}
+{%- assign faq_items = include.items.items | where: "approved", true -%}
+{%- if include.items.status == "approved" and faq_items.size >= 2 -%}
+<section class="faq" id="faq" aria-labelledby="faq-heading">
+  <h2 id="faq-heading">Câu hỏi thường gặp</h2>
+  {%- for it in faq_items %}
+  <div class="faq-item">
+    <h3>{{ it.question | escape }}</h3>
+    <p>{{ it.answer | escape }}</p>
+  </div>
+  {%- endfor %}
+</section>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{%- for it in faq_items -%}{"@type":"Question","name":{{ it.question | jsonify | replace: '</', '<\/' }},"acceptedAnswer":{"@type":"Answer","text":{{ it.answer | jsonify | replace: '</', '<\/' }}}}{% unless forloop.last %},{% endunless %}{%- endfor -%}]}
+</script>
+{%- endif -%}

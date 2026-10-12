@@ -36,7 +36,7 @@ def short_headings(heads, offset=0):
     return ['H%d@L%d: %s' % (h['level'], h['line'] + offset, h['text']) for h in heads]
 
 
-def post_pack(rec, faq_index, rendered=None):
+def post_pack(rec, faq_index, rendered=None, inbound=None):
     sc = rec.get('qa_scorer') or {}
     rendered = rendered or {}
     present = set()
@@ -47,7 +47,7 @@ def post_pack(rec, faq_index, rendered=None):
             rl[region] = [{'target': x['t'], 'text': x['x']} for x in rendered.get(key, [])]
             present |= {x['t'] for x in rendered.get(key, [])}
         rl['toc_entries'] = rendered.get('toc_entries', 0)
-        rl['body_links'] = len(rendered.get('links_article_body', []))
+        rl['rendered_body_links'] = [{'target': x['t'], 'text': x['x']} for x in rendered.get('links_article_body', [])]
     targets = []
     tx = rec['taxonomy']
     for t in (tx.get('hub_url'), tx.get('topic_url')):
@@ -86,9 +86,9 @@ def post_pack(rec, faq_index, rendered=None):
             'question_form_headings': [h['text'] for h in rec['faq']['question_headings']],
             'details_blocks': rec['faq']['details_blocks'],
         },
-        'links': {'body_internal_links': rec['links']['internal_count'],
+        'links': {'rendered_body_links_count': len(rendered.get('links_article_body', [])) if rendered else None,
                   'body_external_links': len(rec['links']['external']),
-                  'inbound_links_from_other_post_bodies': rec['links']['inbound_from_posts']},
+                  'inbound_links_to_this_post (rendered site-wide graph)': inbound or None},
         'qa_scorer_signals_informational': {
             'non_approved_amounts': sc.get('non_approved_amounts'), 'forbidden_hits': sc.get('forbidden_hits'),
             'failed_checks': sc.get('failed_checks')},
@@ -131,6 +131,8 @@ def main():
     if a.mode in ('posts', 'calibration'):
         recs = json.loads((DATA / 'first300-extract.json').read_text(encoding='utf-8'))
         rend = {r['id']: r for r in json.loads((DATA / 'rendered-first300.json').read_text(encoding='utf-8'))}
+        ig = DATA / 'inbound-graph.json'
+        inb = json.loads(ig.read_text(encoding='utf-8'))['sample'] if ig.is_file() else {}
         if a.mode == 'calibration':
             by = {r['id']: r for r in recs}
             ids = list(CALIBRATION_IDS)
@@ -143,10 +145,10 @@ def main():
                     if r['id'] not in ids and pred(r):
                         ids.append(r['id'])
                         break
-            items = [post_pack(by[i], faq_index, rend.get(i)) for i in ids]
+            items = [post_pack(by[i], faq_index, rend.get(i), {k: v for k, v in (inb.get(i) or {}).items() if k != 'from_body'} or None) for i in ids]
             names = write_batches(items, 20, out, 'CAL')
         else:
-            items = [post_pack(r, faq_index, rend.get(r['id'])) for r in recs]
+            items = [post_pack(r, faq_index, rend.get(r['id']), {k: v for k, v in (inb.get(r['id']) or {}).items() if k != 'from_body'} or None) for r in recs]
             names = write_batches(items, a.size, out, 'B')
     else:
         sys.exit('pages mode is implemented in build_page_batches.py')

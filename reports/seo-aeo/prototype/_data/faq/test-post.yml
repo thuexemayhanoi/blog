@@ -1,0 +1,11 @@
+status: approved
+items:
+  - question: "Xe ga có tốn xăng hơn xe số không? (\"khoảng\" 10-20% & <b>không</b>)"
+    answer: "Xe ga thường tiêu hao nhiên liệu nhiều hơn xe số. Chênh lệch **không đáng kể** so với sự thoải mái. Đường dẫn: C:\\tmp & <script>x</script>"
+    approved: true
+  - question: "Tôi chưa từng lái xe máy nên chọn loại nào?"
+    answer: "Xe ga: hộp số tự động, chỉ cần vặn ga."
+    approved: true
+  - question: "Câu chưa duyệt"
+    answer: "Không được hiển thị."
+    approved: false

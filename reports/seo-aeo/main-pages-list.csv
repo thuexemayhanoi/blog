@@ -1,0 +1,78 @@
+Page ID,Page Type,layout,URL (canonical),repo source file,in live sitemap
+PG-HOME,Homepage,home,https://blog.thuexemaynguyentu.com/,index.md,yes
+PG-AN-TOAN-PHAP-LY,Hub,hub,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/,an-toan-phap-ly.md,yes
+PG-CUNG-DUONG,Hub,hub,https://blog.thuexemaynguyentu.com/cung-duong/,cung-duong.md,yes
+PG-HOI-DAP,Hub,hub,https://blog.thuexemaynguyentu.com/hoi-dap/,hoi-dap.md,yes
+PG-KY-NANG,Hub,hub,https://blog.thuexemaynguyentu.com/ky-nang/,ky-nang.md,yes
+PG-THUE-XE,Hub,hub,https://blog.thuexemaynguyentu.com/thue-xe/,thue-xe.md,yes
+PG-XE-MAY,Hub,hub,https://blog.thuexemaynguyentu.com/xe-may/,xe-may.md,yes
+PG-CHIA-SE,Category,category,https://blog.thuexemaynguyentu.com/chia-se/,chia-se.md,yes
+PG-DU-LICH,Category,category,https://blog.thuexemaynguyentu.com/du-lich/,du-lich.md,yes
+PG-KINH-NGHIEM,Category,category,https://blog.thuexemaynguyentu.com/kinh-nghiem/,kinh-nghiem.md,yes
+PG-BAI-VIET,Page,page,https://blog.thuexemaynguyentu.com/bai-viet/,blog.md,yes
+PG-BANG-GIA-XE-50CC,Page,page,https://blog.thuexemaynguyentu.com/bang-gia-xe-50cc/,bang-gia-xe-50cc.md,yes
+PG-BANG-GIA-XE-DIEN,Page,page,https://blog.thuexemaynguyentu.com/bang-gia-xe-dien/,bang-gia-xe-dien.md,yes
+PG-BANG-GIA-XE-GA,Page,page,https://blog.thuexemaynguyentu.com/bang-gia-xe-ga/,bang-gia-xe-ga.md,yes
+PG-BANG-GIA-XE-SO,Page,page,https://blog.thuexemaynguyentu.com/bang-gia-xe-so/,bang-gia-xe-so.md,yes
+PG-BANG-GIA,Page,page,https://blog.thuexemaynguyentu.com/bang-gia/,bang-gia.md,yes
+PG-BAO-MAT,Page,page,https://blog.thuexemaynguyentu.com/bao-mat/,bao-mat.md,yes
+PG-CHU-DE,Page,default,https://blog.thuexemaynguyentu.com/chu-de/,chu-de.md,yes
+PG-DIEU-KHOAN,Page,page,https://blog.thuexemaynguyentu.com/dieu-khoan/,dieu-khoan.md,yes
+PG-GIOI-THIEU,Page,page,https://blog.thuexemaynguyentu.com/gioi-thieu/,gioi-thieu.md,yes
+PG-LIEN-HE,Page,page,https://blog.thuexemaynguyentu.com/lien-he/,lien-he.md,yes
+PG-AN-TOAN-PHAP-LY-BAO-HIEM,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/bao-hiem/,an-toan-phap-ly/bao-hiem.md,yes
+PG-AN-TOAN-PHAP-LY-BIEN-BAO,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/bien-bao/,an-toan-phap-ly/bien-bao.md,yes
+PG-AN-TOAN-PHAP-LY-GIAY-PHEP-LAI-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/giay-phep-lai-xe/,an-toan-phap-ly/giay-phep-lai-xe.md,yes
+PG-AN-TOAN-PHAP-LY-GIAY-TO,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/giay-to/,an-toan-phap-ly/giay-to.md,yes
+PG-AN-TOAN-PHAP-LY-NOI-DO-CONG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/noi-do-cong/,an-toan-phap-ly/noi-do-cong.md,yes
+PG-AN-TOAN-PHAP-LY-PHAT-NGUOI,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/phat-nguoi/,an-toan-phap-ly/phat-nguoi.md,yes
+PG-AN-TOAN-PHAP-LY-QUY-DINH-GIAO-THONG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/an-toan-phap-ly/quy-dinh-giao-thong/,an-toan-phap-ly/quy-dinh-giao-thong.md,yes
+PG-CUNG-DUONG-CUNG-DUONG-CUOI-TUAN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/cung-duong/cung-duong-cuoi-tuan/,cung-duong/cung-duong-cuoi-tuan.md,yes
+PG-CUNG-DUONG-CUNG-DUONG-NOI-THANH,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/cung-duong/cung-duong-noi-thanh/,cung-duong/cung-duong-noi-thanh.md,yes
+PG-CUNG-DUONG-CUNG-DUONG-PHO-BAC,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/cung-duong/cung-duong-pho-bac/,cung-duong/cung-duong-pho-bac.md,yes
+PG-CUNG-DUONG-HA-GIANG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/cung-duong/ha-giang/,cung-duong/ha-giang.md,yes
+PG-CUNG-DUONG-MAI-CHAU,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/cung-duong/mai-chau/,cung-duong/mai-chau.md,yes
+PG-CUNG-DUONG-MOC-CHAU,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/cung-duong/moc-chau/,cung-duong/moc-chau.md,yes
+PG-DU-LICH-BAO-TANG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/du-lich/bao-tang/,du-lich/bao-tang.md,yes
+PG-DU-LICH-DIEM-DEN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/du-lich/diem-den/,du-lich/diem-den.md,yes
+PG-DU-LICH-HO-TAY,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/du-lich/ho-tay/,du-lich/ho-tay.md,yes
+PG-DU-LICH-LONG-BIEN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/du-lich/long-bien/,du-lich/long-bien.md,yes
+PG-DU-LICH-NGOAI-THANH,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/du-lich/ngoai-thanh/,du-lich/ngoai-thanh.md,yes
+PG-DU-LICH-PHO-CO,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/du-lich/pho-co/,du-lich/pho-co.md,yes
+PG-HOI-DAP-HOI-DAP-CHON-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-chon-xe/,hoi-dap/hoi-dap-chon-xe.md,yes
+PG-HOI-DAP-HOI-DAP-GIA,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-gia/,hoi-dap/hoi-dap-gia.md,yes
+PG-HOI-DAP-HOI-DAP-NGUOI-MOI,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-nguoi-moi/,hoi-dap/hoi-dap-nguoi-moi.md,yes
+PG-HOI-DAP-HOI-DAP-PHAP-LY,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-phap-ly/,hoi-dap/hoi-dap-phap-ly.md,yes
+PG-HOI-DAP-HOI-DAP-SU-CO,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-su-co/,hoi-dap/hoi-dap-su-co.md,yes
+PG-HOI-DAP-HOI-DAP-THU-TUC,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-thu-tuc/,hoi-dap/hoi-dap-thu-tuc.md,yes
+PG-KY-NANG-CHO-DO-VA-HANH-LY,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/ky-nang/cho-do-va-hanh-ly/,ky-nang/cho-do-va-hanh-ly.md,yes
+PG-KY-NANG-GUI-XE-VA-GIU-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/ky-nang/gui-xe-va-giu-xe/,ky-nang/gui-xe-va-giu-xe.md,yes
+PG-KY-NANG-KY-NANG-LAI-CO-BAN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/ky-nang/ky-nang-lai-co-ban/,ky-nang/ky-nang-lai-co-ban.md,yes
+PG-KY-NANG-SUC-KHOE-KHI-LAI-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/ky-nang/suc-khoe-khi-lai-xe/,ky-nang/suc-khoe-khi-lai-xe.md,yes
+PG-KY-NANG-THOI-TIET-VA-DUONG-SA,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/ky-nang/thoi-tiet-va-duong-sa/,ky-nang/thoi-tiet-va-duong-sa.md,yes
+PG-KY-NANG-TINH-HUONG-GIAO-THONG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/ky-nang/tinh-huong-giao-thong/,ky-nang/tinh-huong-giao-thong.md,yes
+PG-THUE-XE-DAT-COC,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/dat-coc/,thue-xe/dat-coc.md,yes
+PG-THUE-XE-GIA-THUE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/gia-thue/,thue-xe/gia-thue.md,yes
+PG-THUE-XE-KHACH-QUOC-TE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/khach-quoc-te/,thue-xe/khach-quoc-te.md,yes
+PG-THUE-XE-NHAN-TRA-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/nhan-tra-xe/,thue-xe/nhan-tra-xe.md,yes
+PG-THUE-XE-SU-CO,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/su-co/,thue-xe/su-co.md,yes
+PG-THUE-XE-THU-TUC,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/thu-tuc/,thue-xe/thu-tuc.md,yes
+PG-THUE-XE-THUE-NGAY,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/thue-ngay/,thue-xe/thue-ngay.md,yes
+PG-THUE-XE-THUE-THANG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/thue-thang/,thue-xe/thue-thang.md,yes
+PG-THUE-XE-THUE-THEO-DIA-DIEM,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/thue-theo-dia-diem/,thue-xe/thue-theo-dia-diem.md,yes
+PG-THUE-XE-THUE-THEO-DOI-TUONG,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/thue-theo-doi-tuong/,thue-xe/thue-theo-doi-tuong.md,yes
+PG-THUE-XE-THUE-TUAN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/thue-xe/thue-tuan/,thue-xe/thue-tuan.md,yes
+PG-XE-MAY-BAO-DUONG-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/bao-duong-xe/,xe-may/bao-duong-xe.md,yes
+PG-XE-MAY-CHON-LOAI-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/chon-loai-xe/,xe-may/chon-loai-xe.md,yes
+PG-XE-MAY-HONDA-AIR-BLADE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/honda-air-blade/,xe-may/honda-air-blade.md,yes
+PG-XE-MAY-HONDA-CLICK,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/honda-click/,xe-may/honda-click.md,yes
+PG-XE-MAY-HONDA-VISION,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/honda-vision/,xe-may/honda-vision.md,yes
+PG-XE-MAY-HONDA-WAVE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/honda-wave/,xe-may/honda-wave.md,yes
+PG-XE-MAY-SO-SANH-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/so-sanh-xe/,xe-may/so-sanh-xe.md,yes
+PG-XE-MAY-XE-50CC,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/xe-50cc/,xe-may/xe-50cc.md,yes
+PG-XE-MAY-XE-DAP-DIEN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/xe-dap-dien/,xe-may/xe-dap-dien.md,yes
+PG-XE-MAY-XE-DIEN,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/xe-dien/,xe-may/xe-dien.md,yes
+PG-XE-MAY-XE-GA,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/xe-ga/,xe-may/xe-ga.md,yes
+PG-XE-MAY-XE-SO,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/xe-so/,xe-may/xe-so.md,yes
+PG-XE-MAY-XU-LY-SU-CO-XE,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/xu-ly-su-co-xe/,xe-may/xu-ly-su-co-xe.md,yes
+PG-XE-MAY-YAMAHA-SIRIUS,Topic cluster page,topic,https://blog.thuexemaynguyentu.com/xe-may/yamaha-sirius/,xe-may/yamaha-sirius.md,yes

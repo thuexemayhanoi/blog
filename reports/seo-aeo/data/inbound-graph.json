@@ -1,0 +1,2376 @@
+{
+ "definition": "inbound links counted from the rendered HTML of every live post (article body / related block / prev-next)",
+ "posts_parsed": 2483,
+ "sample": {
+  "BLG-00001": {
+   "inbound_body": 70,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00008",
+    "BLG-00016",
+    "BLG-00024",
+    "BLG-00025",
+    "BLG-00026",
+    "BLG-00029",
+    "BLG-00030",
+    "BLG-00105",
+    "BLG-00188",
+    "BLG-00195",
+    "BLG-00196",
+    "BLG-00200"
+   ]
+  },
+  "BLG-00002": {
+   "inbound_body": 283,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00004",
+    "BLG-00006",
+    "BLG-00010",
+    "BLG-00013",
+    "BLG-00015",
+    "BLG-00020",
+    "BLG-00021",
+    "BLG-00027",
+    "BLG-00028",
+    "BLG-00034",
+    "BLG-00041",
+    "BLG-00046"
+   ]
+  },
+  "BLG-00003": {
+   "inbound_body": 41,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00039",
+    "BLG-00040",
+    "BLG-00041",
+    "BLG-00042",
+    "BLG-00043",
+    "BLG-00044",
+    "BLG-00045",
+    "BLG-00048",
+    "BLG-00050",
+    "BLG-00051",
+    "BLG-00113",
+    "BLG-00120"
+   ]
+  },
+  "BLG-00004": {
+   "inbound_body": 13,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00526",
+    "BLG-00529",
+    "BLG-00532",
+    "BLG-00534",
+    "BLG-00539",
+    "BLG-00890",
+    "BLG-00898",
+    "BLG-00902",
+    "BLG-00910",
+    "BLG-00912",
+    "BLG-00943",
+    "BLG-00944"
+   ]
+  },
+  "BLG-00006": {
+   "inbound_body": 12,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00597",
+    "BLG-00918",
+    "BLG-00948",
+    "BLG-00949",
+    "BLG-02169",
+    "BLG-02170",
+    "BLG-02176",
+    "BLG-02177",
+    "BLG-02178",
+    "BLG-02183",
+    "BLG-02185",
+    "BLG-02187"
+   ]
+  },
+  "BLG-00007": {
+   "inbound_body": 14,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00527",
+    "BLG-00535",
+    "BLG-00539",
+    "BLG-00897",
+    "BLG-00901",
+    "BLG-00902",
+    "BLG-00904",
+    "BLG-00905",
+    "BLG-00912",
+    "BLG-00913",
+    "BLG-00943",
+    "BLG-00945"
+   ]
+  },
+  "BLG-00008": {
+   "inbound_body": 11,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00750",
+    "BLG-00751",
+    "BLG-00752",
+    "BLG-00753",
+    "BLG-00756",
+    "BLG-00765",
+    "BLG-00766",
+    "BLG-00767",
+    "BLG-00768",
+    "BLG-00955",
+    "BLG-00956"
+   ]
+  },
+  "BLG-00009": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00526"
+   ]
+  },
+  "BLG-00010": {
+   "inbound_body": 20,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00525",
+    "BLG-00527",
+    "BLG-00528",
+    "BLG-00529",
+    "BLG-00530",
+    "BLG-00531",
+    "BLG-00532",
+    "BLG-00537",
+    "BLG-00895",
+    "BLG-00897",
+    "BLG-00899",
+    "BLG-00903"
+   ]
+  },
+  "BLG-00011": {
+   "inbound_body": 9,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00839",
+    "BLG-00840",
+    "BLG-00842",
+    "BLG-00848",
+    "BLG-00849",
+    "BLG-00851",
+    "BLG-00958",
+    "BLG-00961",
+    "BLG-02099"
+   ]
+  },
+  "BLG-00012": {
+   "inbound_body": 6,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": [
+    "BLG-00526",
+    "BLG-00534",
+    "BLG-00538",
+    "BLG-00896",
+    "BLG-00903",
+    "BLG-00913"
+   ]
+  },
+  "BLG-00013": {
+   "inbound_body": 6,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": [
+    "BLG-00810",
+    "BLG-00838",
+    "BLG-00840",
+    "BLG-00958",
+    "BLG-00960",
+    "BLG-00961"
+   ]
+  },
+  "BLG-00014": {
+   "inbound_body": 9,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": [
+    "BLG-00893",
+    "BLG-00898",
+    "BLG-00911",
+    "BLG-00919",
+    "BLG-02207",
+    "BLG-02208",
+    "BLG-02210",
+    "BLG-02213",
+    "BLG-02214"
+   ]
+  },
+  "BLG-00015": {
+   "inbound_body": 9,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00525",
+    "BLG-00527",
+    "BLG-00528",
+    "BLG-00529",
+    "BLG-00538",
+    "BLG-00897",
+    "BLG-00904",
+    "BLG-00911",
+    "BLG-00944"
+   ]
+  },
+  "BLG-00016": {
+   "inbound_body": 3,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00831",
+    "BLG-00834",
+    "BLG-00948"
+   ]
+  },
+  "BLG-00019": {
+   "inbound_body": 8,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00816",
+    "BLG-00841",
+    "BLG-00848",
+    "BLG-00849",
+    "BLG-00853",
+    "BLG-00856",
+    "BLG-00958",
+    "BLG-00960"
+   ]
+  },
+  "BLG-00020": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00648",
+    "BLG-00651",
+    "BLG-00950",
+    "BLG-00951"
+   ]
+  },
+  "BLG-00021": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00844",
+    "BLG-00845",
+    "BLG-00846",
+    "BLG-00962"
+   ]
+  },
+  "BLG-00022": {
+   "inbound_body": 11,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00699",
+    "BLG-00701",
+    "BLG-00706",
+    "BLG-00737",
+    "BLG-00739",
+    "BLG-00740",
+    "BLG-00742",
+    "BLG-00745",
+    "BLG-00747",
+    "BLG-00748",
+    "BLG-00955"
+   ]
+  },
+  "BLG-00023": {
+   "inbound_body": 7,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00696",
+    "BLG-00697",
+    "BLG-00698",
+    "BLG-00707",
+    "BLG-00717",
+    "BLG-00735",
+    "BLG-00736"
+   ]
+  },
+  "BLG-00024": {
+   "inbound_body": 19,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00695",
+    "BLG-00705",
+    "BLG-00707",
+    "BLG-00708",
+    "BLG-00709",
+    "BLG-00710",
+    "BLG-00720",
+    "BLG-00724",
+    "BLG-00725",
+    "BLG-00726",
+    "BLG-00729",
+    "BLG-00735"
+   ]
+  },
+  "BLG-00025": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00700",
+    "BLG-00706",
+    "BLG-00953",
+    "BLG-00954"
+   ]
+  },
+  "BLG-00026": {
+   "inbound_body": 11,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00706",
+    "BLG-00724",
+    "BLG-00727",
+    "BLG-00728",
+    "BLG-00730",
+    "BLG-00735",
+    "BLG-00737",
+    "BLG-00741",
+    "BLG-00742",
+    "BLG-00952",
+    "BLG-00954"
+   ]
+  },
+  "BLG-00027": {
+   "inbound_body": 16,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00520",
+    "BLG-00524",
+    "BLG-00525",
+    "BLG-00528",
+    "BLG-00533",
+    "BLG-00534",
+    "BLG-00536",
+    "BLG-00899",
+    "BLG-00901",
+    "BLG-00903",
+    "BLG-00911",
+    "BLG-00914"
+   ]
+  },
+  "BLG-00028": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00029": {
+   "inbound_body": 6,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": [
+    "BLG-00815",
+    "BLG-00844",
+    "BLG-00846",
+    "BLG-00847",
+    "BLG-00855",
+    "BLG-00959"
+   ]
+  },
+  "BLG-00030": {
+   "inbound_body": 23,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00750",
+    "BLG-00751",
+    "BLG-00754",
+    "BLG-00755",
+    "BLG-00756",
+    "BLG-00757",
+    "BLG-00758",
+    "BLG-00759",
+    "BLG-00760",
+    "BLG-00765",
+    "BLG-00766",
+    "BLG-00767"
+   ]
+  },
+  "BLG-00031": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00032": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00033": {
+   "inbound_body": 7,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00915",
+    "BLG-00942",
+    "BLG-00947",
+    "BLG-02521",
+    "BLG-02533",
+    "BLG-02535",
+    "BLG-02541"
+   ]
+  },
+  "BLG-00034": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02209",
+    "BLG-02216"
+   ]
+  },
+  "BLG-00035": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00036": {
+   "inbound_body": 7,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00915",
+    "BLG-00942",
+    "BLG-00947",
+    "BLG-00949",
+    "BLG-02256",
+    "BLG-02257",
+    "BLG-02259"
+   ]
+  },
+  "BLG-00037": {
+   "inbound_body": 11,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00930",
+    "BLG-00941",
+    "BLG-00942",
+    "BLG-00948",
+    "BLG-00949",
+    "BLG-01098",
+    "BLG-02166",
+    "BLG-02172",
+    "BLG-02173",
+    "BLG-02174",
+    "BLG-02181"
+   ]
+  },
+  "BLG-00038": {
+   "inbound_body": 3,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02188",
+    "BLG-02189",
+    "BLG-02194"
+   ]
+  },
+  "BLG-00039": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00914",
+    "BLG-00918",
+    "BLG-00935",
+    "BLG-00948"
+   ]
+  },
+  "BLG-00040": {
+   "inbound_body": 3,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00914",
+    "BLG-00917",
+    "BLG-00935"
+   ]
+  },
+  "BLG-00041": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02160",
+    "BLG-02162"
+   ]
+  },
+  "BLG-00042": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00043": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00044": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00045": {
+   "inbound_body": 5,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02243",
+    "BLG-02247",
+    "BLG-02255",
+    "BLG-02261",
+    "BLG-02264"
+   ]
+  },
+  "BLG-00046": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00047": {
+   "inbound_body": 3,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02204",
+    "BLG-02211",
+    "BLG-02412"
+   ]
+  },
+  "BLG-00048": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02137",
+    "BLG-02138",
+    "BLG-02142",
+    "BLG-02144"
+   ]
+  },
+  "BLG-00049": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00050": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02231",
+    "BLG-02232",
+    "BLG-02233",
+    "BLG-02240"
+   ]
+  },
+  "BLG-00051": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00052": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": []
+  },
+  "BLG-00054": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": []
+  },
+  "BLG-00055": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00056": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00057": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00058": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00059": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00950",
+    "BLG-00951"
+   ]
+  },
+  "BLG-00060": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00061": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00062": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00063": {
+   "inbound_body": 6,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02513",
+    "BLG-02514",
+    "BLG-02516",
+    "BLG-02517",
+    "BLG-02518",
+    "BLG-02520"
+   ]
+  },
+  "BLG-00064": {
+   "inbound_body": 3,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00649",
+    "BLG-00650",
+    "BLG-00950"
+   ]
+  },
+  "BLG-00065": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00651"
+   ]
+  },
+  "BLG-00066": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00951"
+   ]
+  },
+  "BLG-00067": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00068": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00652"
+   ]
+  },
+  "BLG-00069": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00070": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00071": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00072": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00073": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00074": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00075": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00076": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00885"
+   ]
+  },
+  "BLG-00077": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00078": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00079": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00080": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00081": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00082": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02170",
+    "BLG-02172"
+   ]
+  },
+  "BLG-00083": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00084": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02203"
+   ]
+  },
+  "BLG-00085": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00086": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00087": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00088": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00089": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00090": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00091": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00092": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00093": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00094": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00095": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00096": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00097": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00098": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00099": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00100": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00101": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00102": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00103": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00104": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00892"
+   ]
+  },
+  "BLG-00105": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00106": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00107": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00738",
+    "BLG-00740"
+   ]
+  },
+  "BLG-00108": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00109": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00110": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00111": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00112": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00113": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00114": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00115": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00116": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00117": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00118": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00119": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00120": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00121": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00122": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00123": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00124": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00125": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00126": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00127": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00128": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00129": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00130": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00131": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00132": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00133": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00134": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02095"
+   ]
+  },
+  "BLG-00135": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00136": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00137": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00138": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00139": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02109"
+   ]
+  },
+  "BLG-00140": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00141": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02408"
+   ]
+  },
+  "BLG-00142": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00143": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00144": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00145": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00146": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02132"
+   ]
+  },
+  "BLG-00147": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00148": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00149": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00150": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00151": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00152": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00153": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02108"
+   ]
+  },
+  "BLG-00154": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00155": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00156": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00157": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00158": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00159": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00160": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00161": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00162": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00163": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00164": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00165": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00166": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00167": {
+   "inbound_body": 5,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00629",
+    "BLG-00630",
+    "BLG-00631",
+    "BLG-00632",
+    "BLG-00633"
+   ]
+  },
+  "BLG-00168": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00169": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00170": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00171": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00759"
+   ]
+  },
+  "BLG-00172": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02106"
+   ]
+  },
+  "BLG-00173": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00174": {
+   "inbound_body": 3,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00886",
+    "BLG-00888",
+    "BLG-00891"
+   ]
+  },
+  "BLG-00175": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00176": {
+   "inbound_body": 12,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00755",
+    "BLG-00763",
+    "BLG-00795",
+    "BLG-00801",
+    "BLG-00802",
+    "BLG-00803",
+    "BLG-00804",
+    "BLG-00806",
+    "BLG-00807",
+    "BLG-00809",
+    "BLG-00956",
+    "BLG-00957"
+   ]
+  },
+  "BLG-00177": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00178": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00179": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00180": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00181": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00182": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00183": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00184": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00185": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00186": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00187": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00188": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00189": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00190": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00191": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00192": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00193": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00194": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00195": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00196": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00197": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00198": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00199": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00200": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00201": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00202": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00203": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00204": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00205": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00206": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00207": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02095"
+   ]
+  },
+  "BLG-00208": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00209": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02517"
+   ]
+  },
+  "BLG-00210": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00211": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00212": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00213": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00214": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00215": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00216": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02141",
+    "BLG-02142"
+   ]
+  },
+  "BLG-00217": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00218": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00219": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00220": {
+   "inbound_body": 4,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02168",
+    "BLG-02175",
+    "BLG-02176",
+    "BLG-02181"
+   ]
+  },
+  "BLG-00221": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02406"
+   ]
+  },
+  "BLG-00222": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00223": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00224": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00225": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00226": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": []
+  },
+  "BLG-00229": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 1,
+   "from_body": []
+  },
+  "BLG-00230": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00231": {
+   "inbound_body": 32,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-00702",
+    "BLG-00703",
+    "BLG-00704",
+    "BLG-00708",
+    "BLG-00711",
+    "BLG-00712",
+    "BLG-00713",
+    "BLG-00716",
+    "BLG-00718",
+    "BLG-00719",
+    "BLG-00721",
+    "BLG-00722"
+   ]
+  },
+  "BLG-00232": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00233": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00234": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00235": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00236": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02191"
+   ]
+  },
+  "BLG-00237": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00238": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00239": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00240": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00241": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00242": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00243": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00244": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02514"
+   ]
+  },
+  "BLG-00245": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00246": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02201"
+   ]
+  },
+  "BLG-00247": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00248": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00249": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00250": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00251": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00252": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00253": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00254": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00255": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00256": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00257": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00258": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00259": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00260": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00261": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00262": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00263": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00264": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02358"
+   ]
+  },
+  "BLG-00265": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00266": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00267": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00268": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00269": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02101"
+   ]
+  },
+  "BLG-00270": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00271": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00272": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00273": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00274": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00275": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00276": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00277": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00278": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00279": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00280": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02405"
+   ]
+  },
+  "BLG-00281": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00282": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00283": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00284": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00285": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00286": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00287": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02356"
+   ]
+  },
+  "BLG-00288": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00289": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00290": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00291": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00292": {
+   "inbound_body": 1,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02016"
+   ]
+  },
+  "BLG-00293": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00294": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00295": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00296": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00297": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00298": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00299": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00300": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00301": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00302": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00303": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  },
+  "BLG-00304": {
+   "inbound_body": 11,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02005",
+    "BLG-02521",
+    "BLG-02522",
+    "BLG-02523",
+    "BLG-02527",
+    "BLG-02528",
+    "BLG-02529",
+    "BLG-02530",
+    "BLG-02534",
+    "BLG-02539",
+    "BLG-02541"
+   ]
+  },
+  "BLG-00305": {
+   "inbound_body": 2,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": [
+    "BLG-02247",
+    "BLG-02251"
+   ]
+  },
+  "BLG-00306": {
+   "inbound_body": 0,
+   "inbound_related": 0,
+   "inbound_prev_next": 2,
+   "from_body": []
+  }
+ },
+ "sample_zero_inbound_body": 225,
+ "sample_zero_inbound_body_and_related": 225,
+ "sample_zero_inbound_anywhere": 0,
+ "top_linked_by_body_across_site": [
+  {
+   "id": "BLG-00002",
+   "inbound_body": 283
+  },
+  {
+   "id": "BLG-00001",
+   "inbound_body": 70
+  },
+  {
+   "id": "BLG-00647",
+   "inbound_body": 42
+  },
+  {
+   "id": "BLG-00003",
+   "inbound_body": 41
+  },
+  {
+   "id": "BLG-00900",
+   "inbound_body": 39
+  },
+  {
+   "id": "BLG-00231",
+   "inbound_body": 32
+  },
+  {
+   "id": "BLG-00504",
+   "inbound_body": 29
+  },
+  {
+   "id": "BLG-00030",
+   "inbound_body": 23
+  },
+  {
+   "id": "BLG-00779",
+   "inbound_body": 21
+  },
+  {
+   "id": "BLG-00010",
+   "inbound_body": 20
+  },
+  {
+   "id": "BLG-00024",
+   "inbound_body": 19
+  },
+  {
+   "id": "BLG-01060",
+   "inbound_body": 17
+  },
+  {
+   "id": "BLG-01735",
+   "inbound_body": 16
+  },
+  {
+   "id": "BLG-00027",
+   "inbound_body": 16
+  },
+  {
+   "id": "BLG-01572",
+   "inbound_body": 15
+  }
+ ],
+ "posts_with_double_slash_body_links": 309,
+ "matrix_expected_url_differs_from_real_permalink": {
+  "count": 50,
+  "ids": [
+   "BLG-00820",
+   "BLG-00821",
+   "BLG-00822",
+   "BLG-00823",
+   "BLG-00824",
+   "BLG-00825",
+   "BLG-00826",
+   "BLG-00827",
+   "BLG-00828",
+   "BLG-00829",
+   "BLG-00830",
+   "BLG-00831",
+   "BLG-00832",
+   "BLG-00833",
+   "BLG-00834",
+   "BLG-00835",
+   "BLG-00836",
+   "BLG-00837",
+   "BLG-00838",
+   "BLG-00839",
+   "BLG-00840",
+   "BLG-00841",
+   "BLG-00842",
+   "BLG-00843",
+   "BLG-00844",
+   "BLG-00845",
+   "BLG-00846",
+   "BLG-00847",
+   "BLG-00848",
+   "BLG-00849",
+   "BLG-00850",
+   "BLG-00851",
+   "BLG-00852",
+   "BLG-00853",
+   "BLG-00854",
+   "BLG-00855",
+   "BLG-00856",
+   "BLG-00857",
+   "BLG-00858",
+   "BLG-00859",
+   "BLG-00860",
+   "BLG-00861",
+   "BLG-00862",
+   "BLG-00863",
+   "BLG-00864",
+   "BLG-00865",
+   "BLG-00866",
+   "BLG-00867",
+   "BLG-00868",
+   "BLG-00869"
+  ]
+ }
+}

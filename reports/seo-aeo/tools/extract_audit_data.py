@@ -116,7 +116,7 @@ def norm_path(p):
     return p
 
 
-LINK_MD = re.compile(r'\[([^\]]+)\]\(([^)\s]+)(?:\s+"[^"]*")?\)')
+LINK_MD = re.compile(r'\[([^\]]*)\]\(\s*((?:\{\{.*?\}\}|\{%.*?%\}|[^)\s])+(?:\s*\{\{.*?\}\})?(?:\{%.*?%\})?[^)\s]*)\s*\)')
 LINK_HTML = re.compile(r'<a\s[^>]*href="([^"]+)"[^>]*>(.*?)</a>', re.S | re.I)
 LIQUID_PATH = re.compile(r"""['"](/[^'"]*)['"]\s*\|\s*(?:relative_url|absolute_url)""")
 

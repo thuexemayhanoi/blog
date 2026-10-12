@@ -217,6 +217,9 @@ def validate(batch, analysis, existing_ids=None):
         if not isinstance(add, list) or len(add) > 3:
             E('internal_links.add must be a list of <= 3')
             add = []
+        fixes = il.get('fix', [])
+        if not isinstance(fixes, list) or not all(isinstance(x, str) for x in fixes):
+            E('internal_links.fix must be a list of strings')
         allowed = set(it.get('allowed_link_targets') or [])
         for i, x in enumerate(add):
             if x.get('target') not in allowed:
@@ -226,6 +229,8 @@ def validate(batch, analysis, existing_ids=None):
             ok = cid in {s['id'] for s in it.get('similar', [])} or (existing_ids is not None and cid in existing_ids)
             if not ok:
                 E('cannibalization.competing_ids has unknown id %r' % cid)
+        if act == 'MERGE' and not cb.get('competing_ids'):
+            E('MERGE requires cannibalization.competing_ids (canonical target first)')
         if cb.get('level') in ('MEDIUM', 'HIGH') and not cb.get('competing_ids'):
             E('cannibalization level %s requires competing_ids' % cb.get('level'))
         # keyword source
