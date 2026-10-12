@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-12T17:40:53+00:00",
+  "updated_at": "2026-10-12T17:44:47+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02527",
-      "started_at": "2026-10-12T05:47:01+00:00",
-      "source": "_drafts/2026-10-11-ap-xe-ien-giua-nang-nong-ha-noi-chon-gio-chay-uong-co-bong-cay.md",
-      "destination": "_posts/2026-10-11-ap-xe-ien-giua-nang-nong-ha-noi-chon-gio-chay-uong-co-bong-cay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a7d0bc9c980d5df294539c12b9fbc47639e428a9",
-      "finished_at": "2026-10-12T05:47:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02528",
-      "started_at": "2026-10-12T05:47:01+00:00",
-      "source": "_drafts/2026-10-11-ap-xe-ien-khi-mua-phun-uong-tron-tam-nhin-kem-thi-chay-the-nao.md",
-      "destination": "_posts/2026-10-11-ap-xe-ien-khi-mua-phun-uong-tron-tam-nhin-kem-thi-chay-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a7d0bc9c980d5df294539c12b9fbc47639e428a9",
-      "finished_at": "2026-10-12T05:47:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02529",
       "started_at": "2026-10-12T05:47:10+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "7bb0d182a7c6eed3b12165cdfde205a6bd645a2c",
       "finished_at": "2026-10-12T17:40:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02487",
+      "started_at": "2026-10-12T17:44:47+00:00",
+      "source": "_drafts/2026-10-12-gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra.md",
+      "destination": "_posts/2026-10-12-gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a858a1d07b8660dcc70ca5889d8a9bef5173c74d",
+      "finished_at": "2026-10-12T17:44:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02488",
+      "started_at": "2026-10-12T17:44:47+00:00",
+      "source": "_drafts/2026-10-12-xe-lam-bun-bui-sau-chuyen-i-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra.md",
+      "destination": "_posts/2026-10-12-xe-lam-bun-bui-sau-chuyen-i-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a858a1d07b8660dcc70ca5889d8a9bef5173c74d",
+      "finished_at": "2026-10-12T17:44:47+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
