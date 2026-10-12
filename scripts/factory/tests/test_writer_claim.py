@@ -423,6 +423,18 @@ class SessionOwnershipTest(unittest.TestCase):
                     WC.parse_registry(json.dumps(reg))
                 self.assertNotIsInstance(cm.exception, WC.OwnershipConflict)
 
+    def test_expired_lease_under_an_unknown_slot_key_is_just_pruned(self):
+        """Lease HẾT HẠN với khóa lạ vô hại (prune xóa nó trước bước cắt
+        MAX_WRITERS) nên được bỏ qua như mọi lease hết hạn — repair-agent
+        `prune-writer-claims` dựa vào đó."""
+        reg = self._three_live()
+        reg['leases']['W9'] = dict(reg['leases']['W1'], session='s-old',
+                                   ids=[self.rows[30]['id']],
+                                   expires_at=WC._iso(self.now - 10))
+        parsed = WC.parse_registry(json.dumps(reg))
+        WC.prune_registry(parsed, self.rows, self.now)
+        self.assertEqual(sorted(parsed['leases']), ['W1', 'W2', 'W3'])
+
     def test_merge_refuses_a_slot_outside_w1_w3_and_keeps_every_local_lease(self):
         local = self._three_live()
         other = WC.empty_registry()
@@ -433,6 +445,9 @@ class SessionOwnershipTest(unittest.TestCase):
         with self.assertRaises(WC.RegistryCorrupt):
             WC.merge_registries(local, other, self.rows)
         self.assertEqual(local, before, 'W3 (live) không được bị đá khỏi registry')
+        other['leases']['W4']['expires_at'] = WC._iso(self.now - 10)   # hết hạn: bỏ qua
+        WC.merge_registries(local, other, self.rows)
+        self.assertEqual(sorted(local['leases']), ['W1', 'W2', 'W3'])
 
     def test_live_lease_over_max_lease_is_corruption_but_an_expired_one_is_ignored(self):
         reg = self._three_live()

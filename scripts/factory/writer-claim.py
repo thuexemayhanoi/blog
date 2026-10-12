@@ -239,12 +239,6 @@ def parse_registry(text):
         raise RegistryCorrupt('registry sai cau truc: thieu object "leases"')
     now = time.time()
     for w, l in d['leases'].items():
-        if not (isinstance(w, str) and SLOT_RE.match(w)):
-            # khoa slot la khoa GAN NGUOI (typo W4 / w1 / 'W1 ' / 'W1\n'): nhan
-            # no thi prune (vuot MAX_WRITERS: "nguoi den sau thua") se bo lease
-            # SONG hop le claim moi nhat de giu lease "ma" -> fail-closed
-            raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
-                                  % str(w)[:20])
         if not isinstance(l, dict):
             raise RegistryCorrupt('lease %s sai cau truc (khong phai object)'
                                   % w)
@@ -278,6 +272,14 @@ def parse_registry(text):
             if v is not None and not isinstance(v, str):
                 raise RegistryCorrupt('lease %s: %s khong phai chuoi' % (w, key))
         live = _epoch_of(exp or '') >= now
+        if live and not (isinstance(w, str) and SLOT_RE.match(w)):
+            # khoa slot la khoa GAN NGUOI (typo W4 / w1 / 'W1 ' / 'W1\n'): nhan
+            # lease SONG voi khoa la thi prune (vuot MAX_WRITERS: "nguoi den sau
+            # thua") se bo lease SONG hop le claim moi nhat de giu lease "ma" ->
+            # fail-closed. Lease HET HAN voi khoa la vo hai (bi prune truoc buoc
+            # cat), nen duoc bo qua nhu moi lease het han khac.
+            raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
+                                  % str(w)[:20])
         if live and len(l.get('ids', [])) > MAX_LEASE:
             # lease SONG vuot MAX_LEASE: chu lease bi LEASE_FULL ke ca count=0,
             # prune khong cat -> corrupt (sua tu git history), khong ket toi TTL
@@ -1003,10 +1005,11 @@ def merge_registries(local, other, rows):
     hạ cấp v2 -> v1. Một phiên không được giữ hai slot sống."""
     now = time.time()
     for reg_in in (local, other):
-        for w in reg_in.get('leases') or {}:
-            if not (isinstance(w, str) and SLOT_RE.match(w)):
-                # slot la khoa gan nguoi: nhap "ma" W4 se day lease SONG hop le
-                # (claim moi nhat) ra khoi registry o buoc cat MAX_WRITERS
+        for w, lease in (reg_in.get('leases') or {}).items():
+            if _epoch_of((lease or {}).get('expires_at', '')) >= now \
+                    and not (isinstance(w, str) and SLOT_RE.match(w)):
+                # slot la khoa gan nguoi: nhap "ma" W4 SONG se day lease SONG
+                # hop le (claim moi nhat) ra khoi registry o buoc cat MAX_WRITERS
                 raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
                                       % str(w)[:20])
     require_live_ownership(local, now)
