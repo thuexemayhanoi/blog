@@ -94,6 +94,22 @@ word_target >= 1.200 (G5); candidate_id unique (G6);
 child thuoc taxonomy, ke thua source policy (G7);
 title khong trung toan matrix (G8).
 
+Slug / URL cua hang da sinh (bat bien "URL da sinh khong doi"):
+- Tai sinh matrix (generate-matrix.py) GIU slug/expected_url/output_path/canonical_url cua moi hang da co,
+  ke ca PLANNED: writer claim hang va dat ten ban nhap theo output_path; cot `slug` nam trong hang ma bang
+  chung QA (matrix_row_sha256) rang buoc.
+- slugify(): chu "d" (d gach) KHONG co dang phan ra NFD nen tung bi xoa ("xe dap dien" -> "xe-ap-ien"). Da sua o
+  CA generate-matrix.py va refill-queue.py (doi d -> d truoc khi chuan hoa); norm() giu nguyen (khoa trung/cannibalization).
+  Hang MOI nhan slug dung; bai da xuat ban giu URL cu (khong redirect).
+- Sua slug hang PLANNED da co slug sai: ngoai le DUY NHAT, mot lan, co kiem soat:
+  python3 scripts/factory/generate-matrix.py --reslug-planned-after BLG-NNNNN
+  fail-closed: tu choi neu ranh gioi < (id lon nhat trong lease writer / ban nhap _drafts, _queue) + 40, neu registry
+  khong doc duoc, hoac neu slug moi trung slug hang khac; chi doi 4 cot URL cua hang PLANNED co id > ranh gioi
+  (post-condition kiem TRUOC khi ghi: moi hang/cot khac nguyen ven); idempotent; tai sinh thuong sau do khong doi gi.
+  Quy trinh: lay main moi nhat -> chay lenh -> git diff chi 4 cot -> chay chuoi drift (generate-matrix,
+  expand-topic-universe, generate-listing-pages) phai sach -> PR (gate content FAST). Rollback: git revert commit do.
+  Test: scripts/factory/tests/test_slugify_vi.py.
+
 LUU Y CI: cac workflow read-only la quality-gate.yml (dual-mode:
 content push = validate FAST scoped, engine push = FULL gate)
 va factory-publish-verify.yml (FULL audit theo yeu cau) — khong bao gio

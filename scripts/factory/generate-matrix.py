@@ -28,9 +28,18 @@ Quy tắc:
 - Không đệm hàng rỗng cho đủ chỉ tiêu: chỉ sinh hàng từ seed; phần thiếu
   được báo cáo trung thực trong matrix-report.md.
 - Idempotent: chạy lại cho file giống hệt (không dùng giờ hệ thống).
+- BẤT BIẾN "URL đã sinh không đổi": slug/expected_url/output_path/canonical_url của hàng đã có trong matrix
+  (mọi trạng thái, kể cả PLANNED) được GIỮ khi tái sinh. Writer claim hàng và đặt tên bản nháp theo output_path;
+  cột `slug` nằm trong hàng ma trận mà bằng chứng QA ràng buộc. Hàng MỚI (seed thêm) nhận slugify() hiện hành.
 
 Chạy: python3 scripts/factory/generate-matrix.py   (từ gốc repository)
+
+Ngoại lệ DUY NHẤT, một lần và có kiểm soát (xem docs/ENGINE-RUNBOOK.md "Sửa slug hàng PLANNED"):
+  python3 scripts/factory/generate-matrix.py --reslug-planned-after BLG-NNNNN
+sinh lại slug/URL cho hàng PLANNED có id > BLG-NNNNN (sau khi slugify() đã sửa chữ "đ"). Fail-closed: từ chối nếu
+ranh giới cách lease writer / bản nháp lớn nhất chưa đủ RESLUG_MARGIN hàng, hoặc nếu bất kỳ hàng nào khác bị đổi.
 """
+import argparse
 import csv
 import json
 import os
@@ -60,7 +69,13 @@ def norm(s):
 
 
 def slugify(s):
-    """Slug không dấu, chữ thường, gạch ngang - dùng cho hàng PLANNED."""
+    """Slug không dấu, chữ thường, gạch ngang - dùng cho hàng PLANNED.
+
+    "đ"/"Đ" KHÔNG có dạng phân rã trong Unicode NFD (không phải "d" + dấu), nên bước loại dấu của norm() từng
+    xoá mất chữ này ("xe đạp điện" -> "xe-ap-ien"). Đổi đ -> d TRƯỚC khi chuẩn hoá. norm() giữ nguyên vì còn
+    dùng so trùng/cannibalization (đổi nó sẽ đổi khoá trùng của toàn matrix).
+    """
+    s = s.replace('đ', 'd').replace('Đ', 'D')
     s = norm(s)
     return re.sub(r'\s+', '-', s)[:80].strip('-')
 
@@ -168,7 +183,98 @@ def expand_child(child, spec):
     return out
 
 
-def main():
+RESLUG_MARGIN = 40          # hàng đệm giữa lease/bản nháp lớn nhất và ranh giới được phép sinh lại slug
+URL_FIELDS = ('slug', 'expected_url', 'output_path', 'canonical_url')
+REGISTRY_PATH = 'data/state/writer-claims.json'
+
+
+def _id_num(i):
+    m = re.fullmatch(r'BLG-(\d{5})', str(i or '').strip())
+    return int(m.group(1)) if m else None
+
+
+def reslug_guard(boundary_id):
+    """Trả về ranh giới (số) nếu AN TOÀN; ngược lại thoát (fail-closed, không ghi gì)."""
+    boundary = _id_num(boundary_id)
+    if boundary is None:
+        sys.exit('--reslug-planned-after phải có dạng BLG-NNNNN (nhận %r)' % boundary_id)
+    busy = []
+    if os.path.exists(REGISTRY_PATH):
+        try:
+            with open(REGISTRY_PATH, encoding='utf-8') as f:
+                reg = json.load(f)
+        except (OSError, ValueError) as exc:
+            sys.exit('FAIL-CLOSED: không đọc được registry writer (%s): %s' % (REGISTRY_PATH, exc))
+        leases = reg.get('leases', {}) if isinstance(reg, dict) else None
+        if not isinstance(leases, dict):
+            sys.exit('FAIL-CLOSED: registry writer sai hình dạng')
+        for slot, lease in leases.items():
+            for i in (lease.get('ids', []) if isinstance(lease, dict) else []):
+                n = _id_num(i)
+                if n is None:
+                    sys.exit('FAIL-CLOSED: lease %s có id lạ %r' % (slot, i))
+                busy.append(('lease %s' % slot, n))
+    for d in ('_drafts', '_queue'):
+        if not os.path.isdir(d):
+            continue
+        for fn in sorted(os.listdir(d)):
+            if not fn.endswith('.md'):
+                continue
+            with open(os.path.join(d, fn), encoding='utf-8', errors='replace') as f:
+                head = f.read(4000)
+            m = re.search(r'(?m)^article_id:\s*["\']?(BLG-\d{5})', head)
+            if m:
+                busy.append(('bản nháp %s/%s' % (d, fn), _id_num(m.group(1))))
+    hi = max((n for _, n in busy), default=0)
+    if boundary < hi + RESLUG_MARGIN:
+        who = [w for w, n in busy if n == hi][:3]
+        sys.exit('FAIL-CLOSED: ranh giới BLG-%05d quá gần id lớn nhất đang bị giữ BLG-%05d (%s); cần >= BLG-%05d'
+                 % (boundary, hi, ', '.join(who), hi + RESLUG_MARGIN))
+    return boundary
+
+
+def check_final_uniqueness(rows):
+    """Sau bước giữ URL cũ: id/output_path/canonical duy nhất; slug hàng PLANNED không trùng slug hàng nào khác."""
+    errs, seen = [], {'id': {}, 'output_path': {}, 'canonical_url': {}, 'slug': {}}
+    for r in rows:
+        for col in ('id', 'output_path', 'canonical_url'):
+            if r[col] in seen[col]:
+                errs.append('%s trùng sau khi giữ URL cũ: %s (%s vs %s)' % (col, r[col], seen[col][r[col]], r['id']))
+            seen[col][r[col]] = r['id']
+        if r['slug']:
+            seen['slug'].setdefault(r['slug'], []).append(r)
+    for slug, rs in seen['slug'].items():
+        if len(rs) > 1 and any(x['status'] == 'PLANNED' for x in rs):
+            errs.append('slug trùng sau khi giữ URL cũ: %s (%s)' % (slug, ', '.join(x['id'] for x in rs)))
+    return errs
+
+
+def check_reslug_postconditions(old_rows, rows, boundary):
+    """Cờ --reslug-planned-after chỉ được đổi 4 cột URL của hàng PLANNED có id > ranh giới."""
+    errs, changed = [], []
+    new_by_id = {r['id']: r for r in rows}
+    for i, o in old_rows.items():
+        n = new_by_id.get(i)
+        if n is None:
+            errs.append('mất hàng %s' % i)
+            continue
+        allowed = o['status'] == 'PLANNED' and (_id_num(i) or 0) > boundary
+        for col in o:
+            if col in URL_FIELDS and allowed:
+                continue
+            if str(o[col]) != str(n.get(col, '')):   # hàng sinh mới có thể mang int (word_target): so sánh dạng chuỗi CSV
+                errs.append('%s.%s bị đổi ngoài phạm vi cho phép: %r -> %r' % (i, col, str(o[col])[:60], str(n.get(col))[:60]))
+        if allowed and any(str(o[c]) != str(n[c]) for c in URL_FIELDS):
+            changed.append(i)
+    return errs, changed
+
+
+def main(argv=None):
+    ap = argparse.ArgumentParser(description='Sinh data/content-matrix.csv từ seed (idempotent).')
+    ap.add_argument('--reslug-planned-after', metavar='BLG-NNNNN', default=None,
+                    help='MỘT LẦN, có kiểm soát: sinh lại slug/URL cho hàng PLANNED có id > BLG-NNNNN')
+    args = ap.parse_args(argv)
+    boundary = reslug_guard(args.reslug_planned_after) if args.reslug_planned_after else None
     tax, inv, seed = read_sources()
     parents = {p['parent_id']: p for p in tax['parents']}
     children = {c['child_id']: c for c in tax['children']}
@@ -324,12 +430,24 @@ def main():
             if o.get('batch_id'):
                 r['batch_id'] = o['batch_id']
             if o['status'] not in ('PLANNED',):
-                for k in ('status', 'expected_url', 'output_path', 'canonical_url', 'batch', 'batch_id', 'repair_count', 'published_date', 'published_commit_sha', 'notes'):
+                # `slug` cũng được giữ: cột này nằm trong hàng ma trận mà bằng chứng QA (matrix_row_sha256) ràng buộc,
+                # và phải khớp tên tệp đã xuất bản — sinh lại bằng slugify() đã sửa sẽ lệch (xem docstring slugify).
+                for k in ('status', 'slug', 'expected_url', 'output_path', 'canonical_url', 'batch', 'batch_id', 'repair_count', 'published_date', 'published_commit_sha', 'notes'):
                     r[k] = o.get(k, r[k])   # cột v2 cũ có thể thiếu: giữ giá trị sinh mới
                 # hàng PUBLISHED không được ghi đè sau khi xuất bản:
                 # internal_links giữ nguyên bằng chứng tại thời điểm promote.
                 if o['status'] == 'PUBLISHED' and o.get('internal_links'):
                     r['internal_links'] = o['internal_links']
+            else:
+                # PLANNED: slug/URL đã sinh được GIỮ NGUYÊN (bất biến "URL không đổi sau khi sinh"). Writer claim
+                # hàng và đặt tên bản nháp theo output_path; sửa slugify() (hoặc đổi seed) không được âm thầm đổi
+                # đường dẫn của hàng đã claim/đang viết. Đổi slug hàng PLANNED chỉ qua công cụ có kiểm soát
+                # (scripts/factory/reslug-planned.py), không qua tái sinh.
+                if boundary is not None and (_id_num(r['id']) or 0) > boundary:
+                    continue   # --reslug-planned-after: hàng PLANNED sau ranh giới dùng slug/URL mới sinh
+                for k in URL_FIELDS:
+                    if o.get(k):
+                        r[k] = o[k]
         # Giữ nguyên thứ tự hàng của file cũ (idempotent): tái sinh theo
         # seed có thể đổi thứ tự file khi seed bổ sung hàng giữa các
         # child, làm lệch bất biến "batch_id không giảm theo thứ tự
@@ -399,10 +517,26 @@ def main():
             print(' -', e)
         sys.exit(1)
 
+    final_errors = check_final_uniqueness(rows)
+    reslugged = []
+    if boundary is not None and os.path.exists(OUT_PATH):
+        with open(OUT_PATH, encoding='utf-8', newline='') as f:
+            prev = {r['id']: r for r in csv.DictReader(f)}
+        post_errors, reslugged = check_reslug_postconditions(prev, rows, boundary)
+        final_errors += post_errors
+    if final_errors:
+        print('LỖI SAU BƯỚC GIỮ URL (không ghi gì):')
+        for e in final_errors[:20]:
+            print(' -', e)
+        sys.exit(1)
+
     with open(OUT_PATH, 'w', encoding='utf-8', newline='') as f:
         w = csv.DictWriter(f, fieldnames=fields, lineterminator='\n')
         w.writeheader()
         w.writerows(rows)
+    if boundary is not None:
+        print('RESLUG: %d hàng PLANNED (id > BLG-%05d) được sinh lại slug/URL; mọi hàng khác nguyên vẹn.'
+              % (len(reslugged), boundary))
 
     # ---------------- report
     planned = [r for r in rows if r['status'] == 'PLANNED']
