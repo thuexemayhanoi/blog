@@ -129,6 +129,7 @@ duy nhất cho evidence cũ): `scripts/factory/reattest-legacy-qa.py plan|apply|
 số liệu: `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`. Domain-only không đồng nghĩa QA PASS: chỉ bài có hash cũ
 buộc đúng byte/hàng baseline VÀ chấm lại độc lập (ngưỡng 75/70, business_fact, legal, critical) đạt mới được
 thay evidence, cần `--approval-ref` của chủ xe, batch ≤ 300, backup `reports/qa-audit/reattest/<batch>.json`.
+Chỉ áp dụng lên evidence thật SAU KHI chủ website đã nghiệm thu quy trình (chỉ thị MASTER 2026-10-12): writer/Routine KHÔNG tự chạy `apply`.
 Ca không đạt / nội dung đổi thật GIỮ NGUYÊN để xử lý riêng. Không sửa `_posts/`, matrix, checkpoint, lease và
 không sửa tay `data/qa/` để làm audit xanh.
 

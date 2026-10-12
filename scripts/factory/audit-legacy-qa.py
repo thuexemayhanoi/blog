@@ -119,10 +119,24 @@ ROUTE_EXCLUDED = ('scripts', 'assets', 'data', 'reports', 'docs', 'en', '_queue'
                   '.sass-cache', '__pycache__')
 
 
+def hidden_index_flags(root=ROOT):
+    """Index entries marked skip-worktree ('S') or assume-unchanged (lower-case tag in
+    `git ls-files -v`): `git status` is blind to edits of those files, so a lowered threshold in
+    the scorer or an edited matrix would look like a clean tree. Any such flag is reported."""
+    raw = subprocess.check_output(['git', 'ls-files', '-v', '-z'], cwd=root)
+    out = []
+    for rec in raw.split(b'\0'):
+        if len(rec) > 2 and (rec[:1] == b'S' or rec[:1].islower()):
+            out.append('!! %s %s' % (rec[:1].decode('ascii'),
+                                     rec[2:].decode('utf-8', 'surrogateescape')))
+    return out
+
+
 def dirty_inputs(root=ROOT):
     """Paths whose working-tree state differs from the checked-out HEAD in a way the audit
     can see: any tracked modification/deletion, plus untracked files the audit reads (see
-    INPUT_DIRS / ROUTE_EXCLUDED). The result is only attributable to `head` when empty."""
+    INPUT_DIRS / ROUTE_EXCLUDED), plus index entries hidden from `git status` by
+    skip-worktree / assume-unchanged. The result is only attributable to `head` when empty."""
     def porcelain(*extra):
         raw = subprocess.check_output(['git', 'status', '--porcelain=v1', '-z'] + list(extra),
                                       cwd=root)
@@ -136,7 +150,7 @@ def dirty_inputs(root=ROOT):
         top = path.split('/')[0]
         if top in INPUT_DIRS or (path.endswith(('.md', '.html')) and top not in ROUTE_EXCLUDED):
             out.append(entry)
-    return out
+    return out + hidden_index_flags(root)
 
 
 def rescore_published(op, row, rows, biz, tax):

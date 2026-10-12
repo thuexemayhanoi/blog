@@ -30,6 +30,14 @@ Kết quả ghi (CHỈ `data/qa/<ID>.json` của ID được duyệt + một fil
     kiện (chấm lại FAIL, nội dung/matrix đổi thật, baseline không buộc) GIỮ
     NGUYÊN để xử lý riêng — tool từ chối, không có cờ ép.
 
+Rào do TOOL tự giữ (không tin repo): sàn 75/70 cứng (scorer thấp hơn => THRESHOLD_BELOW_FLOOR),
+baseline ghim 1b55bd81 và phải là tiền bối của HEAD, manifest phải lập bởi cùng baseline/scorer/
+facts/taxonomy/ngưỡng (SCORER_CHANGED_SINCE_PLAN), ID/batch-id/output_path được kiểm cú pháp,
+mỗi file evidence được compare-and-swap trước khi ghi, apply lỗi giữa chừng trả MỌI ID đã bắt đầu
+ghi về byte cũ (chỉ xóa sao lưu khi tất cả đã về, nếu không giữ: PARTIAL_APPLY_BACKUP_KEPT),
+`verify` chấm lại độc lập từng ID (--no-rescore: chỉ cấu trúc), evidence cũ không có scored_at lịch
+sử bị từ chối, chú thích lịch sử của evidence cũ được chép sang `reattestation`.
+
 Chốt cây sạch: kết quả chấm điểm chỉ quy được cho một commit khi mọi đầu vào (matrix,
 bài, evidence, scorer, business-facts, taxonomy) đúng bằng HEAD. `plan` và `apply` TỪ
 CHỐI (DIRTY_TREE) khi cây làm việc khác HEAD (cùng phép kiểm với audit-legacy-qa.py);
@@ -63,6 +71,7 @@ import io
 import json
 import os
 import pathlib
+import re
 import subprocess
 import sys
 
@@ -73,6 +82,15 @@ BACKUP_SCHEMA = 'reattest-backup/1'
 BACKUP_DIR = 'reports/qa-audit/reattest'
 ELIGIBLE = 'ELIGIBLE_PROPOSAL_AWAITING_OWNER_APPROVAL'
 MAX_BATCH = 300
+# Rao CUNG — khong lay tu repo (scorer/manifest/baseline la thu tool khong duoc tin):
+FLOOR_QUALITY, FLOOR_SEO = 75, 70
+# Baseline bat bien cua migration v3 (cha cua 04d46bef). Chi baseline nay duoc chap nhan.
+PINNED_BASELINE = '1b55bd810aac85dc919eb2a43d71de30ad8d4595'
+BATCH_ID_RE = re.compile(r'^[A-Za-z0-9][A-Za-z0-9._-]{0,79}\Z')
+AID_RE = re.compile(r'^BLG-[0-9]+\Z')            # ASCII only (\d would match other scripts' digits)
+POST_RE = re.compile(r'^_posts/[^/]+\.md\Z')
+# Khoa lich su/provenance cua evidence: KHONG so voi diem cham lai.
+PROVENANCE_KEYS = ('reattestation', 'scored_at', 'published_at')
 # Trường buộc manifest với hiện trạng; lệch bất kỳ trường nào => TỪ CHỐI.
 BINDING = ('classification', 'old_evidence_sha256', 'current_content_sha256',
            'current_matrix_sha256', 'recorded_content_sha256',
@@ -125,11 +143,26 @@ def atomic_write(path, data):
     path = pathlib.Path(path)
     path.parent.mkdir(parents=True, exist_ok=True)
     tmp = path.with_name(path.name + '.reattest.tmp')
-    with open(tmp, 'wb') as f:
-        f.write(data)
-        f.flush()
-        os.fsync(f.fileno())
-    os.replace(tmp, path)
+    try:
+        with open(tmp, 'wb') as f:
+            f.write(data)
+            f.flush()
+            os.fsync(f.fileno())
+        os.replace(tmp, path)
+    except BaseException:
+        try:
+            tmp.unlink()                      # khong de lai *.reattest.tmp
+        except FileNotFoundError:
+            pass
+        raise
+    try:                                      # ben vung ten file moi (fsync thu muc)
+        fd = os.open(str(path.parent), os.O_RDONLY)
+        try:
+            os.fsync(fd)
+        finally:
+            os.close(fd)
+    except OSError:
+        pass
 
 
 def git_out(root, *args):
@@ -150,6 +183,7 @@ class Ctx:
         self.approval_ref = approval_ref
         self.batch_id = batch_id
         self.head, self.tool_commit = head, tool_commit
+        self.guard = None        # callable kiem lai cay sach NGAY TRUOC khi ghi (CLI dat)
         self.rows = read_rows(self.root)
         self.by_id = {r['id']: r for r in self.rows}
         self.old_rows = {r['id']: r for r in csv.DictReader(io.StringIO(
@@ -176,8 +210,19 @@ def make_ctx(root, baseline, approval_ref='', batch_id=None, history=None):
         commit = git_out(root, 'rev-parse', '--verify', baseline + '^{commit}')
         if not commit:
             raise Refuse('BAD_BASELINE', 'baseline %r khong phai commit' % baseline)
+        if commit != PINNED_BASELINE:
+            raise Refuse('BASELINE_NOT_PINNED',
+                         'chi baseline bat bien %s duoc chap nhan (nhan %s)' % (PINNED_BASELINE, commit))
+        if subprocess.run(['git', 'merge-base', '--is-ancestor', commit, 'HEAD'],
+                          cwd=str(root), capture_output=True).returncode != 0:
+            raise Refuse('BASELINE_NOT_ANCESTOR', 'baseline %s khong phai tien boi cua HEAD' % commit)
         history = A.historical_blobs(commit)
     op = _load('operator_for_reattest', str(root / 'scripts/factory/factory-operator.py'))
+    if op.QUALITY_MIN < FLOOR_QUALITY or op.SEO_MIN < FLOOR_SEO:
+        # Nguong la thu tool KHONG duoc ha, du repo (scorer) noi gi: chan cua rieng tool.
+        raise Refuse('THRESHOLD_BELOW_FLOOR',
+                     'scorer co nguong %s/%s thap hon san %s/%s — khong re-attest'
+                     % (op.QUALITY_MIN, op.SEO_MIN, FLOOR_QUALITY, FLOOR_SEO))
     biz = json.loads((root / 'data/business-facts.json').read_text(encoding='utf-8'))
     tax = json.loads((root / 'data/content-taxonomy.json').read_text(encoding='utf-8'))
     # qa_check_one doc APPROVED_AMOUNTS (module-global) do build_amount_whitelist
@@ -264,7 +309,22 @@ def make_plan(ctx, ids=None, head_bound=True):
 
 # --------------------------------------------------------------------- apply
 
+_MISSING = object()
+
+
+def score_diff(evidence, fresh):
+    """Khoa khac nhau giua evidence tren dia va diem scorer cham lai (bo qua khoa
+    lich su/provenance). Rong = evidence dung la dau ra cua scorer cho byte/hang nay."""
+    a = {k: v for k, v in evidence.items() if k not in PROVENANCE_KEYS}
+    b = {k: v for k, v in fresh.items() if k not in PROVENANCE_KEYS}
+    return sorted(k for k in set(a) | set(b) if a.get(k, _MISSING) != b.get(k, _MISSING))
+
+
 def build_new_evidence(ctx, e, fresh, old_ev):
+    if not old_ev.get('scored_at'):
+        # scored_at moi = bay gio se bi watchdog doc nhu hoat dong gia: khong re-attest.
+        raise Refuse('NO_HISTORICAL_SCORED_AT',
+                     '%s: evidence cu khong co scored_at lich su de giu' % e['id'])
     new = copy.deepcopy(fresh)
     for k in ('scored_at', 'published_at'):       # mốc lịch sử: giữ nguyên
         if old_ev.get(k):
@@ -310,9 +370,12 @@ def prepare(ctx, manifest, aid):
     e = manifest['entries'].get(aid)
     if e is None or aid not in manifest['eligible']:
         raise Refuse('NOT_ELIGIBLE', '%s khong thuoc danh sach du dieu kien cua manifest' % aid)
+    e = dict(e, id=aid)               # id dung la khoa da kiem, khong phai gia tri manifest tu khai
     row = ctx.by_id.get(aid)
     if row is None or row['status'] != 'PUBLISHED':
         raise Refuse('NOT_PUBLISHED', '%s khong phai hang PUBLISHED' % aid)
+    if not POST_RE.match(row.get('output_path') or ''):
+        raise Refuse('BAD_OUTPUT_PATH', '%s: output_path %r khong nam trong _posts/' % (aid, row.get('output_path')))
     ev_path = ctx.root / 'data/qa' / (aid + '.json')
     if not ev_path.is_file():
         raise Refuse('NO_EVIDENCE', '%s khong co evidence' % aid)
@@ -323,6 +386,12 @@ def prepare(ctx, manifest, aid):
             and A.fingerprint(row) == evidence.get('matrix_row_sha256'):
         prov = evidence.get('reattestation') or {}
         if prov.get('previous_evidence_sha256') == e['old_evidence_sha256']:
+            # tu khai provenance khong du: diem tren dia phai dung la dau ra scorer
+            diff = score_diff(evidence, A.rescore_published(ctx.op, row, ctx.rows, ctx.biz, ctx.tax))
+            if diff or evidence.get('article_id') != aid:
+                raise Refuse('UNEXPECTED_CURRENT_EVIDENCE',
+                             '%s: evidence khop hash + provenance nhung diem khac cham lai doc lap '
+                             '(%s) — khong coi la da re-attest' % (aid, ', '.join(diff[:6])))
             return 'already_current', ev_bytes, None
         raise Refuse('UNEXPECTED_CURRENT_EVIDENCE',
                      '%s: evidence da khop hash nhung khong phai ket qua re-attest '
@@ -355,6 +424,19 @@ def check_manifest(manifest):
                      'khong co head_bound) — chay lai plan tren cay lam viec sach')
 
 
+def check_manifest_current(ctx, manifest):
+    """Manifest phai lap bang CUNG baseline/scorer/facts/taxonomy/nguong voi hien tai:
+    khac => scorer/du lieu da doi tu luc plan, chay lai plan (fail-closed)."""
+    if manifest.get('baseline_commit') != ctx.baseline:
+        raise Refuse('MANIFEST_BASELINE_MISMATCH',
+                     'manifest lap tren baseline %s, hien tai %s' % (manifest.get('baseline_commit'), ctx.baseline))
+    for k, v in ctx.code_sha.items():
+        if manifest.get(k) != v:
+            raise Refuse('SCORER_CHANGED_SINCE_PLAN', '%s khac manifest (scorer/facts/taxonomy da doi) — chay lai plan' % k)
+    if manifest.get('thresholds') != {'quality_min': ctx.op.QUALITY_MIN, 'seo_min': ctx.op.SEO_MIN}:
+        raise Refuse('SCORER_CHANGED_SINCE_PLAN', 'nguong QA khac manifest — chay lai plan')
+
+
 def require_clean_tree(root=ROOT):
     """Cay lam viec phai bang HEAD (cung phep kiem voi audit-legacy-qa.py): diem chi
     quy duoc cho mot commit khi matrix/bai/evidence/scorer/facts/taxonomy dung la cua no."""
@@ -369,11 +451,17 @@ def apply_batch(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
     if not (ctx.approval_ref or '').strip():
         raise Refuse('NO_APPROVAL', '--approval-ref la bat buoc (ghi vao provenance)')
     check_manifest(manifest)
+    check_manifest_current(ctx, manifest)
     ids = sorted(set(ids))
     if not ids:
         raise Refuse('NO_IDS', 'khong co ID nao duoc chon')
     if len(ids) > MAX_BATCH:
         raise Refuse('BATCH_TOO_LARGE', 'toi da %d ID/batch (batch co gioi han)' % MAX_BATCH)
+    bad = [a for a in ids if not isinstance(a, str) or not AID_RE.match(a)]
+    if bad:
+        raise Refuse('BAD_ID', 'ID sai dinh dang: %s' % bad[:5])
+    if ctx.batch_id is not None and not BATCH_ID_RE.match(ctx.batch_id):
+        raise Refuse('BAD_BATCH_ID', 'batch-id chi gom A-Za-z0-9._- (toi da 80 ky tu)')
     if not ctx.batch_id:
         ctx.batch_id = 'reattest-%s-%s-%s' % (
             datetime.datetime.now(datetime.timezone.utc).strftime('%Y%m%d'), ids[0], ids[-1])
@@ -393,8 +481,12 @@ def apply_batch(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
               'skipped_ineligible': ineligible}
     if dry_run or not prepared:
         return report
+    if ctx.guard:
+        ctx.guard()               # cay lam viec con sach NGAY TRUOC khi ghi (batch chay vai phut)
     backup_rel = '%s/%s.json' % (BACKUP_DIR, ctx.batch_id)
     backup_path = ctx.root / backup_rel
+    if backup_path.parent.resolve() != (ctx.root / BACKUP_DIR).resolve():
+        raise Refuse('BAD_BATCH_ID', 'sao luu phai nam truc tiep trong %s' % BACKUP_DIR)
     if backup_path.exists():
         raise Refuse('BATCH_EXISTS', 'sao luu %s da ton tai — dung batch-id khac' % backup_rel)
     backup = {'schema': BACKUP_SCHEMA, 'batch_id': ctx.batch_id,
@@ -417,29 +509,68 @@ def apply_batch(ctx, manifest, ids, dry_run=False, skip_ineligible=False):
     if json.loads(backup_path.read_text(encoding='utf-8')) != json.loads(doc_text(backup)):
         backup_path.unlink()
         raise Refuse('BACKUP_READBACK_FAILED', 'doc lai sao luu khong khop — chua sua evidence nao')
-    written = []
+    attempted = []
     try:
-        for aid, _, _ in prepared:
+        for aid, old_bytes, _ in prepared:
             p = ctx.root / 'data/qa' / (aid + '.json')
+            if p.read_bytes() != old_bytes:       # CAS: evidence doi giua luc kiem va luc ghi
+                raise Refuse('EVIDENCE_CHANGED_DURING_APPLY', '%s: evidence doi trong luc apply' % aid)
+            attempted.append(aid)                 # TRUOC khi ghi: ngat giua atomic_write van duoc tinh
             atomic_write(p, new_blobs[aid])
-            written.append(aid)
             if sha(p.read_bytes()) != backup['entries'][aid]['new_evidence_sha256']:
                 raise Refuse('WRITE_MISMATCH', '%s: doc lai khong khop' % aid)
         problems = verify_backup(ctx, backup)
         if problems:
             raise Refuse('POST_VERIFY_FAILED', '; '.join(problems[:5]), problems=problems)
-    except BaseException:
-        rollback_backup(ctx.root, backup, ids=written)
-        backup_path.unlink()               # file này do chính lần chạy này tạo
+    except BaseException as exc:
+        _abort_apply(ctx, backup, backup_path, exc, attempted)
         raise
     report['backup'] = backup_rel
     return report
 
 
+def _abort_apply(ctx, backup, backup_path, exc, attempted):
+    """Apply that bai giua chung: tra moi ID MA LAN CHAY NAY DA BAT DAU GHI ve byte cu (ke ca ID
+    ma mot ngat o giua atomic_write da doi ten file nhung chua kip ghi nhan). Chi xoa sao luu khi
+    MOI ID do da bang byte cu; neu khong, giu sao luu va bao ro de khoi phuc tay. ID chua bat dau
+    ghi (vd. bi CAS tu choi) khong phai viec cua tool: khong dong vao."""
+    ids = set(attempted)
+    try:
+        rollback_backup(ctx.root, backup, ids=ids)
+    except BaseException:
+        pass                                  # van kiem ket qua that o duoi
+    left = []
+    for aid in sorted(ids):
+        b = backup['entries'][aid]
+        p = ctx.root / 'data/qa' / (aid + '.json')
+        if not p.is_file() or sha(p.read_bytes()) != b['old_evidence_sha256']:
+            left.append(aid)
+    if left:
+        raise Refuse('PARTIAL_APPLY_BACKUP_KEPT',
+                     'apply loi (%s: %s) va %d evidence chua ve byte cu: %s — GIU sao luu %s, '
+                     'khoi phuc bang `rollback --backup`' % (type(exc).__name__, exc, len(left),
+                                                         ', '.join(left[:5]), backup_path.name),
+                     left=left) from exc
+    backup_path.unlink()                      # file nay do chinh lan chay nay tao
+
+
 # ------------------------------------------------------------ verify / rollback
 
-def verify_backup(ctx, backup):
-    """Tương đương kiểm của validate.py + provenance. Trả danh sách lỗi."""
+def check_backup_shape(backup):
+    if not isinstance(backup.get('entries'), dict) or not backup['entries']:
+        raise Refuse('BAD_BACKUP', 'sao luu khong co entries')
+    for aid, b in backup['entries'].items():
+        if not AID_RE.match(aid) or not isinstance(b, dict):
+            raise Refuse('BAD_BACKUP', 'khoa entries %r khong hop le' % (aid,))
+        for k in ('old_evidence_text', 'old_evidence_sha256', 'new_evidence_sha256'):
+            if not isinstance(b.get(k), str):
+                raise Refuse('BAD_BACKUP', '%s: thieu %s' % (aid, k))
+
+
+def verify_backup(ctx, backup, rescore=True):
+    """Tương đương kiểm của validate.py + provenance + (rescore) cham lai DOC LAP: diem tren dia
+    phai dung la dau ra scorer cho byte/hang hien tai. Tra danh sach loi."""
+    check_backup_shape(backup)
     problems = []
     for aid, b in sorted(backup['entries'].items()):
         p = ctx.root / 'data/qa' / (aid + '.json')
@@ -461,8 +592,10 @@ def verify_backup(ctx, backup):
             problems.append('%s: matrix_row_sha256 khong khop hang hien tai' % aid)
         if ev.get('source_path') != row['output_path']:
             problems.append('%s: source_path != output_path' % aid)
-        if not (ev.get('result') == 'PASS' and ev.get('quality', 0) >= ctx.op.QUALITY_MIN
-                and ev.get('seo', 0) >= ctx.op.SEO_MIN and ev.get('business_fact') == 'PASS'
+        if ev.get('article_id') != aid:
+            problems.append('%s: article_id trong evidence la %r' % (aid, ev.get('article_id')))
+        if not (ev.get('result') == 'PASS' and ev.get('quality', 0) >= FLOOR_QUALITY
+                and ev.get('seo', 0) >= FLOOR_SEO and ev.get('business_fact') == 'PASS'
                 and ev.get('legal') in ('PASS', 'NOT_REQUIRED')
                 and ev.get('critical_failure') is False):
             problems.append('%s: diem/cong QA khong dat nguong' % aid)
@@ -478,10 +611,20 @@ def verify_backup(ctx, backup):
                 or prov.get('previous_matrix_row_sha256') != old.get('matrix_row_sha256')
                 or not (prov.get('approval_ref') or '').strip()):
             problems.append('%s: provenance khong khop sao luu' % aid)
+        if rescore:
+            diff = score_diff(ev, A.rescore_published(ctx.op, row, ctx.rows, ctx.biz, ctx.tax))
+            if diff:
+                problems.append('%s: diem trong evidence khac diem cham lai doc lap (%s)'
+                                % (aid, ', '.join(diff[:6])))
     return problems
 
 
 def rollback_backup(root, backup, ids=None, dry_run=False):
+    check_backup_shape(backup)
+    if ids is not None:
+        unknown = sorted(set(ids) - set(backup['entries']))
+        if unknown:
+            raise Refuse('UNKNOWN_IDS', 'ID khong co trong sao luu: %s' % unknown[:5])
     out = {'restored': [], 'skipped_changed_since_apply': [], 'dry_run': dry_run}
     for aid, b in sorted(backup['entries'].items()):
         if ids is not None and aid not in ids:
@@ -528,22 +671,25 @@ def main(argv=None):
                     help='ID khong con du dieu kien luc apply bi BO QUA (bao cao) thay vi dung ca batch')
     v = sub.add_parser('verify')
     v.add_argument('--backup', required=True)
+    v.add_argument('--no-rescore', action='store_true',
+                   help='chi kiem cau truc/hash/provenance, khong cham lai (mac dinh cham lai doc lap)')
     r = sub.add_parser('rollback')
     r.add_argument('--backup', required=True)
-    r.add_argument('--ids', default='')
+    r.add_argument('--ids', default=None)
     r.add_argument('--dry-run', action='store_true')
     a = ap.parse_args(argv)
     try:
         if a.cmd == 'plan':
+            out_path = os.path.abspath(a.out) if a.out else None   # truoc make_ctx (chdir)
             dirty = A.dirty_inputs(ROOT)
             if dirty and not a.allow_dirty:
                 require_clean_tree(ROOT)
             ctx = make_ctx(ROOT, a.baseline)
             manifest = make_plan(ctx, set(_ids(a.ids)) or None, head_bound=not dirty)
             text = doc_text(manifest)
-            if a.out:
-                atomic_write(a.out, text.encode('utf-8'))
-                print(json.dumps({'ok': True, 'out': a.out, 'counts': manifest['counts'],
+            if out_path:
+                atomic_write(out_path, text.encode('utf-8'))
+                print(json.dumps({'ok': True, 'out': out_path, 'counts': manifest['counts'],
                                   'excluded': {k: len(v) for k, v in manifest['excluded'].items()}},
                                  ensure_ascii=False, indent=2))
             else:
@@ -560,6 +706,7 @@ def main(argv=None):
                     raise Refuse('NO_IDS', 'can --ids hoac --limit N [--offset K]')
                 ids = elig[a.offset:a.offset + a.limit]
             ctx = make_ctx(ROOT, manifest['baseline_commit'], a.approval_ref, a.batch_id)
+            ctx.guard = lambda: require_clean_tree(ROOT)
             print(json.dumps(apply_batch(ctx, manifest, ids, a.dry_run, a.skip_ineligible),
                              ensure_ascii=False, indent=2))
             return 0
@@ -568,11 +715,16 @@ def main(argv=None):
             raise Refuse('BAD_BACKUP', 'schema sao luu khong dung')
         if a.cmd == 'verify':
             ctx = make_ctx(ROOT, backup['baseline_commit'], history={})
-            problems = verify_backup(ctx, backup)
+            problems = verify_backup(ctx, backup, rescore=not a.no_rescore)
             print(json.dumps({'ok': not problems, 'checked': len(backup['entries']),
                               'problems': problems}, ensure_ascii=False, indent=2))
             return 0 if not problems else 1
-        out = rollback_backup(ROOT, backup, set(_ids(a.ids)) or None, a.dry_run)
+        ids = None
+        if a.ids is not None:
+            ids = set(_ids(a.ids))
+            if not ids:
+                raise Refuse('BAD_IDS', '--ids rong: bo --ids de khoi phuc ca batch')
+        out = rollback_backup(ROOT, backup, ids, a.dry_run)
         out['ok'] = True
         print(json.dumps(out, ensure_ascii=False, indent=2))
         return 0

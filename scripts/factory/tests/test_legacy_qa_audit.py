@@ -144,6 +144,25 @@ class DirtyTreeTest(unittest.TestCase):
         for rel in ignored:
             self.assertFalse(any(line.endswith(' ' + rel) for line in listed), (rel, listed))
 
+    def test_hidden_index_flags_are_reported(self):
+        """Review độc lập: `git update-index --skip-worktree|--assume-unchanged` làm `git status`
+        mù với file bị sửa (vd. hạ ngưỡng trong scorer) — cây trông sạch nhưng đầu vào không phải
+        của HEAD. Cờ ẩn phải bị báo, và sửa file đó phải làm guard từ chối."""
+        self.assertEqual(A.dirty_inputs(self.d), [])
+        for flag, tag in (('--skip-worktree', 'S'), ('--assume-unchanged', 'h')):
+            _git(self.d, 'update-index', flag, 'data/x.txt')
+            with open(os.path.join(self.d, 'data/x.txt'), 'w') as f:
+                f.write('edited behind the index (%s)\n' % flag)
+            self.assertEqual(_git(self.d, 'status', '--porcelain').strip(), '',
+                             'git status must be blind here, that is the point')
+            listed = A.dirty_inputs(self.d)
+            self.assertTrue(any(l.startswith('!! %s ' % tag) and l.endswith(' data/x.txt')
+                                for l in listed), (flag, listed))
+            _git(self.d, 'update-index', '--no-skip-worktree' if tag == 'S' else '--no-assume-unchanged',
+                 'data/x.txt')
+            _git(self.d, 'checkout', '-q', '--', 'data/x.txt')
+            self.assertEqual(A.dirty_inputs(self.d), [])
+
     def test_cli_refuses_a_dirty_tree_before_reading_any_input(self):
         with open(os.path.join(self.d, 'data/x.txt'), 'w') as f:
             f.write('edited after the checkout\n')

@@ -91,9 +91,13 @@ accepts a FRESH independent scoring of the exact current bytes.
 ## Re-attestation procedure — `scripts/factory/reattest-legacy-qa.py`
 
 Owner authorization: the project owner authorized (chat, 2026-10-12, "ỦY QUYỀN TOÀN DIỆN",
-item 9) preparing and applying re-attestation **only** for evidence that is proven valid, with
-independent scoring, full provenance, backups, tests and rollback. Pass that reference as
-`--approval-ref`; the tool refuses to write without one.
+item 9) preparing the re-attestation **only** for evidence that is proven valid, with
+independent scoring, full provenance, backups, tests and rollback. The owner's later MASTER
+instruction (2026-10-12, section 9) forbids re-attesting old evidence outside a procedure that
+has been approved AND accepted: **nothing is applied to production evidence until the owner has
+accepted this procedure** (acceptance package: the tool, its tests, an independent review, a
+rehearsal on a disposable worktree and a read-only dry run on the real tree). The accepted
+reference is then passed as `--approval-ref`; the tool refuses to write without one.
 
 ```bash
 # 0. start from a clean checkout of the commit you will cite (plan/apply refuse a tree that differs from HEAD)
@@ -111,31 +115,57 @@ What it guarantees (covered by `scripts/factory/tests/test_reattest_legacy_qa.py
 
 1. **Provenance, not labels.** An ID qualifies only when the old evidence hashes bind the
    immutable baseline bytes AND matrix row, and the exact migration-v3 transform of those bytes
-   reproduces the current bytes/row fields (no whitespace stripping, no fuzzy match).
+   reproduces the current bytes/row fields (no whitespace stripping, no fuzzy match). The
+   baseline is **pinned** in the tool (`1b55bd81…`, the parent of the migration commit) and must
+   be an ancestor of `HEAD` (`BASELINE_NOT_PINNED`, `BASELINE_NOT_ANCESTOR`).
 2. **Independent scoring.** The canonical scorer (`qa_check_one`, current corpus/taxonomy/
-   business facts, the approved-amount whitelist, unchanged 75/70 thresholds) re-scores the
-   current bytes. Old scores/results are never reused; any failing gate (quality, seo,
-   business_fact, legal, critical failure) means the ID is refused — there is no force flag.
+   business facts, the approved-amount whitelist) re-scores the current bytes. Old scores/results
+   are never reused; any failing gate (quality, seo, business_fact, legal, critical failure) means
+   the ID is refused — there is no force flag. The **75/70 floors are hard-coded in the tool**:
+   a scorer whose constants are lower is refused (`THRESHOLD_BELOW_FLOOR`), so lowering the
+   repository's own thresholds cannot make a failing article eligible.
 3. **The manifest is not authority.** `apply` re-derives everything from git and the current
-   bytes; a stale, edited or forged manifest can only make `apply` refuse. One failing ID stops
-   the whole batch before anything is written (atomic); `--skip-ineligible` only skips IDs whose
-   *state changed since the plan* and reports them.
-4. **Backup before write.** `reports/qa-audit/reattest/<batch>.json` (verbatim old evidence plus
-   old/new sha256 of every ID) is written and read back before the first evidence file changes.
+   bytes; a stale, edited or forged manifest can only make `apply` refuse. The manifest must have
+   been made for the same baseline, scorer, business-facts, taxonomy and thresholds
+   (`SCORER_CHANGED_SINCE_PLAN`: re-plan). One failing ID stops the whole batch before anything is
+   written (atomic); `--skip-ineligible` only skips IDs whose *state changed since the plan* and
+   reports them. IDs, batch ids and `output_path` are validated (`BAD_ID`, `BAD_BATCH_ID`,
+   `BAD_OUTPUT_PATH`).
+4. **Backup before write, and an honest failure path.** `reports/qa-audit/reattest/<batch>.json`
+   (verbatim old evidence plus old/new sha256 of every ID) is written and read back before the
+   first evidence file changes. Each evidence file is compare-and-swapped (it must still equal the
+   bytes that were checked). If `apply` fails midway, every ID the run had started to write is
+   restored; the backup is deleted only when all of them are back to the old bytes, otherwise it
+   is kept (`PARTIAL_APPLY_BACKUP_KEPT`) so `rollback --backup` can finish the job.
 5. **Minimal footprint.** Only the approved `data/qa/<ID>.json` files and the backup are
    written; `_posts/`, matrix, checkpoint, leases and drafts are never touched. The new evidence
    carries a `reattestation` block (old evidence hash, baseline proof, scorer/business-facts/
    taxonomy hashes, approval, `rescored_at`); `scored_at`/`published_at` keep their historical
-   values so the watchdog sees no fake activity.
+   values so the production watchdog (which reads them as progress signals) sees no fake activity
+   — evidence without a historical `scored_at` is refused (`NO_HISTORICAL_SCORED_AT`). Notes the
+   scorer never produces (`post_publish_repair`, `hash_sync_note`, `rescore_note`,
+   `restamped_note`: 25 of the 1,060 eligible files, the ones re-stamped or repaired after
+   publication) are copied verbatim into `reattestation.previous_evidence_annotations`.
 6. **Rollback.** `rollback` restores the old evidence byte-exactly, and only if the file still
-   equals the bytes the tool wrote. Re-running `apply` on already-current evidence is a no-op.
+   equals the bytes the tool wrote; `--ids` must name IDs of the backup (`UNKNOWN_IDS`). Re-running
+   `apply` on already-current evidence is a no-op — but only when the evidence on disk still equals
+   a fresh independent score (a hand-edited score with intact hashes is refused as
+   `UNEXPECTED_CURRENT_EVIDENCE`, not treated as done).
 7. **Clean tree, bound manifest.** A score is only attributable to a commit when the matrix,
    posts, evidence, scorer, business facts and taxonomy are that commit's. `plan` and `apply`
    (dry runs included) refuse a working tree that differs from `HEAD` (`DIRTY_TREE`, same check as
    `audit-legacy-qa.py`); `plan --allow-dirty` is the explicit opt-out and marks the manifest
    `head_bound: false`, which `apply` refuses (`MANIFEST_NOT_HEAD_BOUND`, as it does for manifests
-   that predate the field). A successful `apply` leaves the tree dirty on purpose: commit the batch
-   (evidence + backup) before the next one; `verify` and `rollback` are never guarded.
+   that predate the field). "Differs" includes files hidden from `git status` by
+   `skip-worktree` / `assume-unchanged` flags, and `apply` re-checks the tree right before it writes.
+   A successful `apply` leaves the tree dirty on purpose: commit the batch (evidence + backup)
+   before the next one; `verify` and `rollback` are never guarded.
+8. **`verify` is an independent re-derivation, not a self-check.** Besides hashes, provenance and
+   the gates it re-scores every ID and compares the whole evidence (everything except the
+   provenance stamps) with the scorer's output, so a score edited together with its backup entry
+   is caught (`--no-rescore` keeps only the structural checks). CI wiring: a push/PR that touches
+   `data/qa/**` or `reports/qa-audit/**` now triggers the quality gate (FULL: the backup is outside
+   the content contract) and verifies every backup file added or changed by the change.
 
 The three genuine failures (BLG-00484/00485/00493) and the six real-change cases are never
 re-attested by this tool; they stay for separate handling (content repair or explicit review).

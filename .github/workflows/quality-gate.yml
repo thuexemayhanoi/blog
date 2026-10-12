@@ -25,9 +25,9 @@ name: Quality gate
 on:
   push:
     branches: [main]
-    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
+    paths: ['data/content-matrix.csv', 'data/qa/**', 'reports/qa-audit/**', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
   pull_request:
-    paths: ['data/content-matrix.csv', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
+    paths: ['data/content-matrix.csv', 'data/qa/**', 'reports/qa-audit/**', '_drafts/**', '_posts/**', 'scripts/**', '_layouts/**', '_includes/**', '_data/**', '_config.yml', '.github/workflows/**']
   workflow_dispatch:
 
 permissions:
@@ -76,7 +76,7 @@ jobs:
           : > changed-files.txt
           if [ "$EVENT_NAME" = "push" ]; then
             if [ -n "$BEFORE_SHA" ] && [ "$BEFORE_SHA" != "0000000000000000000000000000000000000000" ]; then
-              git diff --name-only "$BEFORE_SHA" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml > changed-files.txt || true
+              git diff --name-only "$BEFORE_SHA" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml reports/qa-audit > changed-files.txt || true
             else
               scope="full"
             fi
@@ -84,7 +84,7 @@ jobs:
             git fetch origin "$PR_BASE_SHA" --depth=1 >/dev/null 2>&1 || true
             MB="$(git merge-base "$PR_BASE_SHA" "$SHA" 2>/dev/null || true)"
             if [ -n "$MB" ]; then
-              git diff --name-only "$MB" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml > changed-files.txt || true
+              git diff --name-only "$MB" "$SHA" -- data _drafts _posts _layouts _includes _data scripts docs .github _config.yml reports/qa-audit > changed-files.txt || true
             else
               scope="full"
             fi
@@ -102,6 +102,25 @@ jobs:
         run: |
           set -eu
           python3 scripts/factory/validate.py --scope chunk
+
+      - name: Re-attestation backups touched by this change must verify
+        run: |
+          set -eu
+          # Evidence-only batches (scripts/factory/reattest-legacy-qa.py) commit their own backup
+          # file. Every backup ADDED OR CHANGED by this push/PR must verify: structure, hashes,
+          # provenance and an independent re-score of each ID. Older backups are not re-checked
+          # (their evidence may legitimately have been replaced since).
+          found=0
+          while IFS= read -r f; do
+            case "$f" in
+              reports/qa-audit/reattest/*.json)
+                [ -f "$f" ] || continue
+                found=1
+                python3 scripts/factory/reattest-legacy-qa.py verify --backup "$f"
+                ;;
+            esac
+          done < changed-files.txt
+          if [ "$found" = 0 ]; then echo "no re-attestation backup in this change"; fi
 
       - name: Custom-domain invariants
         run: |
