@@ -115,6 +115,11 @@ trùng giữa lease sống) → fail-closed, selector không publish, claim/hear
 release không ghi gì. Không rollback về git history để tự chọn chủ và không
 dùng timestamp từ registry ngoài để thay lease đang sống. Chờ TTL hoặc
 coordinator hòa giải với bằng chứng; không tự reset/force/overwrite lease.
+Một ID lặp TRONG CHÍNH một lease (`ids: [A, A]`) chỉ có một chủ nên KHÔNG phải
+`REGISTRY_CONFLICT`: `check-registry` báo `ID lap`, `writer-claim.py prune` (và
+mọi claim/heartbeat) tự bỏ bản lặp, giữ chủ và thứ tự. Release một phần lease
+legacy cũng là nhận lease nên chịu cùng guard "một phiên một slot"
+(`SESSION_HOLDS_OTHER_SLOT`, registry không đổi).
 
 Evidence QA cũ lệch hash: chỉ audit theo `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`.
 Không coi recovery registry hay domain migration là quyền re-attest bài cũ.

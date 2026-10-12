@@ -356,6 +356,95 @@ class SessionOwnershipTest(unittest.TestCase):
         self.assertNotIn('W1', self.reg['leases'])
         self.assertEqual(self.reg['leases']['W2']['session'], 's-one')
 
+    def test_same_lease_duplicate_id_is_one_owner_not_a_conflict(self):
+        """Codex P2 (vòng 3): `ids: [A, A]` trong MỘT lease chỉ có MỘT chủ — không
+        phải tranh chấp. REGISTRY_CONFLICT dành cho >= 2 slot KHÁC NHAU; ID lặp là
+        hỏng cấu trúc nhẹ: check_invariants vẫn báo, prune tự dọn (không đổi chủ)."""
+        self.claim('W1', 's-one')
+        lease = self.reg['leases']['W1']
+        first = lease['ids'][0]
+        lease['ids'].append(first)
+        self.assertEqual(WC.live_conflicts(self.reg, self.now), {})
+        self.assertEqual(WC.live_ownership_problems(self.reg, self.now), [])
+        WC.parse_registry(json.dumps(self.reg))     # KHÔNG raise OwnershipConflict
+        problems = WC.check_invariants(self.reg, self.rows, self.now)
+        self.assertTrue(any('ID lap' in p for p in problems), problems)
+        self.assertFalse(any('hai lease song' in p for p in problems), problems)
+        report = WC.prune_registry(self.reg, self.rows, self.now)
+        self.assertTrue(WC._changed(report))
+        ids = self.reg['leases']['W1']['ids']
+        self.assertEqual(ids, list(dict.fromkeys(ids)))
+        self.assertEqual(len(ids), 2)
+        self.assertEqual(ids[0], first)                 # thứ tự lần xuất hiện đầu giữ nguyên
+        self.assertEqual(self.reg['leases']['W1']['session'], 's-one')
+        self.assertEqual(WC.check_invariants(self.reg, self.rows, self.now), [])
+
+    def test_conflict_lists_each_slot_once_even_with_ids_repeated_inside_a_lease(self):
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        shared = self.reg['leases']['W1']['ids'][0]
+        self.reg['leases']['W1']['ids'].append(shared)      # lặp trong chính W1
+        self.reg['leases']['W2']['ids'].append(shared)      # và W2 giữ cùng ID: tranh chấp thật
+        self.assertEqual(WC.live_conflicts(self.reg, self.now), {shared: ['W1', 'W2']})
+        with self.assertRaises(WC.OwnershipConflict):
+            WC.parse_registry(json.dumps(self.reg))
+
+    def test_merge_never_writes_an_id_twice_into_one_lease(self):
+        self.claim('W1', 's-one')
+        other = WC.empty_registry()
+        a, b = self.rows[20]['id'], self.rows[21]['id']
+        other['leases']['W2'] = {'ids': [a, a, b], 'session': 's-two', 'epoch': 1,
+                                 'claimed_at': WC._iso(self.now),
+                                 'expires_at': WC._iso(self.now + 3600)}
+        WC.merge_registries(self.reg, other, self.rows)
+        ids = self.reg['leases']['W2']['ids']
+        self.assertEqual(sorted(ids), sorted({a, b}))
+        self.assertEqual(WC.check_invariants(self.reg, self.rows, self.now), [])
+
+    def _legacy_w2_with_session_on_w1(self):
+        """s-one giữ W1; W2 là lease legacy (không session) có >= 2 ID."""
+        self.claim('W1', 's-one')
+        self.claim('W2', 's-two')
+        self.reg['leases']['W2'].pop('session')
+        ids = list(self.reg['leases']['W2']['ids'])
+        self.assertGreaterEqual(len(ids), 2)
+        return ids
+
+    def test_release_cannot_adopt_a_legacy_lease_for_a_session_with_another_slot(self):
+        """Codex P2 (vòng 3): release một phần lease legacy từng GẮN session của
+        người gọi vào slot đó (nhận lease) mà không kiểm 'một phiên một slot' ->
+        s-one giữ hai slot sống, mọi lệnh sau đó REGISTRY_CONFLICT."""
+        ids = self._legacy_w2_with_session_on_w1()
+        before = copy.deepcopy(self.reg)
+        res = WC.apply_release(self.reg, self.rows, 'W2', 's-one',
+                               ids=[ids[0]], now=self.now)
+        self.assertFalse(res['ok'], res)
+        self.assertEqual(res['code'], 'SESSION_HOLDS_OTHER_SLOT')
+        self.assertEqual(res['holder_slots'], ['W1'])
+        self.assertEqual(self.reg, before, 'lệnh bị từ chối không được đổi registry')
+        self.assertEqual(WC.live_ownership_problems(self.reg, self.now), [])
+
+    def test_release_still_adopts_a_legacy_lease_for_a_session_without_a_slot(self):
+        ids = self._legacy_w2_with_session_on_w1()
+        res = WC.apply_release(self.reg, self.rows, 'W2', 's-new',
+                               ids=[ids[0]], now=self.now)
+        self.assertTrue(res['ok'], res)
+        self.assertEqual(self.reg['leases']['W2']['session'], 's-new')
+        self.assertEqual(self.reg['leases']['W2']['ids'], ids[1:])
+        self.assertEqual(WC.live_ownership_problems(self.reg, self.now), [])
+
+    def test_release_of_a_whole_legacy_lease_only_reduces_holdings(self):
+        """Trả HẾT lease legacy không gắn session mới cho ai: vẫn được phép (chỉ
+        giảm phần đang giữ) và không đụng slot khác của phiên."""
+        ids = self._legacy_w2_with_session_on_w1()
+        w1 = copy.deepcopy(self.reg['leases']['W1'])
+        res = WC.apply_release(self.reg, self.rows, 'W2', 's-one',
+                               ids=ids, now=self.now)
+        self.assertTrue(res['ok'], res)
+        self.assertTrue(res['ended'])
+        self.assertNotIn('W2', self.reg['leases'])
+        self.assertEqual(self.reg['leases']['W1'], w1)
+
 
 class WriterClaimTest(FxTestCase):
     """Mọi test chạy trên bản sao repo riêng (self.fx)."""
@@ -518,6 +607,60 @@ class WriterClaimTest(FxTestCase):
         after = self.reg()
         self.assertNotIn('W1', after['leases'])
         self.assertIn('W2', after['leases'])
+
+    def test_same_lease_duplicate_id_is_reported_then_pruned_not_a_conflict(self):
+        """Codex P2 (vòng 3): ID lặp trong MỘT lease không được thành
+        REGISTRY_CONFLICT (không có chủ thứ hai) — `check-registry` báo đúng lỗi
+        cấu trúc, các lệnh khác vẫn chạy, `prune` tự dọn không đổi chủ."""
+        self.planned(8)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        reg = self.reg()
+        ids = list(reg['leases']['W1']['ids'])
+        reg['leases']['W1']['ids'] = ids + [ids[0]]
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        rc, out, so, se = wc(self.fx, 'check-registry')
+        self.assertEqual(rc, 1, (so, se))
+        self.assertNotIn(out.get('code'), ('REGISTRY_CONFLICT', 'REGISTRY_CORRUPT'), out)
+        self.assertTrue(any('ID lap' in p for p in out['problems']), out)
+        for args in (['show'], ['status']):
+            rc, out, so, se = wc(self.fx, *args)
+            self.assertEqual(rc, 0, (args, so, se))
+        rc, out, so, se = wc(self.fx, 'prune')
+        self.assertEqual(rc, 0, (so, se))
+        after = self.reg()['leases']['W1']
+        self.assertEqual(after['ids'], ids)
+        self.assertEqual(after['session'], reg['leases']['W1']['session'])
+        rc, out, so, se = wc(self.fx, 'check-registry')
+        self.assertEqual(rc, 0, (so, se))
+
+    def test_release_cli_cannot_give_a_session_two_live_slots(self):
+        """Codex P2 (vòng 3): đường trực tiếp tài liệu hóa
+        `release --writer <slot legacy> --session <phiên đã giữ slot khác> --ids <1 ID>`
+        từng ghi registry mà một phiên giữ hai slot sống (rồi mọi lệnh sau đó
+        REGISTRY_CONFLICT). Phải bị từ chối, registry không đổi, vẫn hợp lệ."""
+        self.planned(8)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        wc(self.fx, 'claim', '--writer', 'W2', '--count', '2')
+        reg = self.reg()
+        reg['leases']['W2'].pop('session')               # W2 = lease legacy v1
+        w2_ids = list(reg['leases']['W2']['ids'])
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        before = _hash(path)
+        rc, out, so, se = wc(self.fx, 'release', '--writer', 'W2', '--session',
+                             reg['leases']['W1']['session'], '--ids', w2_ids[0])
+        self.assertEqual(rc, 1, (so, se))
+        self.assertEqual(out.get('code'), 'SESSION_HOLDS_OTHER_SLOT', out)
+        self.assertEqual(_hash(path), before, 'lệnh bị từ chối không được ghi registry')
+        rc, out, so, se = wc(self.fx, 'check-registry')
+        self.assertEqual(rc, 0, (so, se))
 
     def test_01_w1_claims_10_ids(self):
         ids = self.planned(10)

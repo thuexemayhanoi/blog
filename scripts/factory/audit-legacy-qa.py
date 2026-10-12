@@ -12,6 +12,7 @@ import hashlib
 import importlib.util
 import io
 import json
+import os
 import pathlib
 import re
 import subprocess
@@ -115,11 +116,24 @@ def rescore_published(op, row, rows, biz, tax):
     original = op.find_draft
     path = row['output_path']
     slug = pathlib.Path(path).name[11:-3]
+    # qa_check_one opens the post by its repo-relative path, i.e. relative to the
+    # PROCESS cwd. The CLI only works from elsewhere because importing the
+    # operator happens to chdir; a library caller (tests, re-attestation tool)
+    # must not depend on that. Pin the cwd to the scorer's own repo root for the
+    # call and give the caller's cwd back.
+    root = getattr(op, 'ROOT', None) or str(ROOT)
     try:
+        previous = os.getcwd()
+    except OSError:                      # caller's cwd was deleted
+        previous = None
+    try:
+        os.chdir(root)
         op.find_draft = lambda r: (path, slug) if r['id'] == row['id'] else original(r)
         return op.qa_check_one(row, rows, biz, tax)
     finally:
         op.find_draft = original
+        if previous is not None:
+            os.chdir(previous)
 
 
 def proposal_decision(classification, fresh, current, row, quality_min, seo_min):

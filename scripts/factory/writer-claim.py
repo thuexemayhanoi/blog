@@ -409,13 +409,15 @@ def _live_leases(reg, now=None):
 def live_conflicts(reg, now=None):
     """{article_id: [slot, ...]} cho ID bị GIỮ BỞI >= 2 lease còn sống. Registry
     như vậy mơ hồ về chủ sở hữu (merge git thô của hai writer): người gọi
-    phải fail-closed, KHÔNG được chọn đại một slot."""
+    phải fail-closed, KHÔNG được chọn đại một slot. Mỗi slot đếm MỘT lần cho
+    mỗi ID: `ids: [A, A]` trong MỘT lease vẫn chỉ có một chủ (hỏng cấu trúc
+    nhẹ do check_invariants báo và prune dọn), không phải tranh chấp."""
     now = now if now is not None else time.time()
     held = {}
     for w, l in reg['leases'].items():
         if not isinstance(l, dict) or _epoch_of(l.get('expires_at', '')) < now:
             continue
-        for a in l.get('ids', []):
+        for a in dict.fromkeys(l.get('ids', [])):
             held.setdefault(a, []).append(w)
     return {a: sorted(ws) for a, ws in held.items() if len(ws) > 1}
 
@@ -473,7 +475,8 @@ def prune_registry(reg, rows, now=None):
     KHÔNG bao giờ raise, KHÔNG đụng lease còn sống của người khác."""
     now = now if now is not None else time.time()
     report = {'expired': [], 'invalid_ids': {}, 'removed_writers': [],
-              'duplicates': [], 'capped': [], 'kept': {}}
+              'duplicates': [], 'self_duplicates': {}, 'capped': [],
+              'kept': {}}
     for w in [w for w, l in reg['leases'].items()
               if _epoch_of(l.get('expires_at', '')) < now]:
         del reg['leases'][w]
@@ -503,6 +506,10 @@ def prune_registry(reg, rows, now=None):
             if a in owner and owner[a] != w:
                 report['duplicates'].append(
                     {'id': a, 'kept_by': owner[a], 'dropped_from': w})
+            elif a in keep:
+                # ID lặp TRONG CHÍNH lease này: vẫn một chủ, chỉ bỏ bản lặp
+                # (giữ thứ tự lần xuất hiện đầu) — không đổi chủ, không đổi ID.
+                report['self_duplicates'].setdefault(w, []).append(a)
             else:
                 owner[a] = w
                 keep.append(a)
@@ -524,7 +531,7 @@ def prune_registry(reg, rows, now=None):
 def _changed(report):
     return bool(report['expired'] or report['invalid_ids']
                 or report['removed_writers'] or report['duplicates']
-                or report['capped'])
+                or report['self_duplicates'] or report['capped'])
 
 
 def _err(code, msg, **extra):
@@ -746,9 +753,17 @@ def apply_release(reg, rows, writer, session, ids=None, end=False, now=None):
         del work['leases'][writer]
         ended = True
     else:
-        mine['ids'] = keep
         if not mine.get('session'):
+            # Release MỘT PHẦN lease legacy = phiên này nhận lease (như
+            # heartbeat/claim): phải qua cùng guard "một phiên một slot", nếu
+            # không phiên đã giữ slot khác sẽ giữ HAI slot sống và mọi lệnh sau
+            # đó là REGISTRY_CONFLICT. (Trả hết lease không nhận ai nên không
+            # cần guard: chỉ giảm phần đang giữ.)
+            session_error = _session_slot_error(work, writer, session, now)
+            if session_error:
+                return session_error
             mine['session'] = session
+        mine['ids'] = keep
     reg.clear()
     reg.update(work)
     return {'ok': True, 'writer': writer, 'released': sorted(drop),
@@ -776,7 +791,9 @@ def check_invariants(reg, rows=None, now=None):
         live = _epoch_of(l.get('expires_at', '')) >= now
         for a in ids:
             if live:
-                if a in seen:
+                if a in seen and seen[a] != w:
+                    # ID lặp trong CHÍNH một lease đã báo ở 'co ID lap' (một
+                    # chủ); chỉ hai slot KHÁC nhau mới là "hai lease sống".
                     problems.append('ID %s bi giu boi hai lease song (%s, %s)'
                                     % (a, seen[a], w))
                 seen[a] = w
@@ -1014,7 +1031,7 @@ def _merge_uncontested(local, other, rows):
             continue
         if _epoch_of(l.get('expires_at', '')) < time.time():
             continue                          # lease hết hạn không vào local
-        incoming = list(l.get('ids', []))
+        incoming = list(dict.fromkeys(l.get('ids', [])))   # ID lặp trong một lease: một chủ
         keep = []
         for a in incoming:
             if a not in valid:

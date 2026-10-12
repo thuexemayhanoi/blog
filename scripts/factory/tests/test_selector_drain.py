@@ -418,6 +418,17 @@ class TestRegistryAndCap(DrainBase):
         _, out, _ = self.sel(added=[rel])
         self.assertEqual(out['queue'], [a])
 
+    def test_16c_id_repeated_inside_one_lease_is_one_owner(self):
+        """Codex P2 (vòng 3): `ids: [A, A]` trong MỘT lease không có chủ thứ hai
+        — selector vẫn nhận draft của chủ đó, KHÔNG chặn publisher vì registry."""
+        a = 'BLG-00173'
+        self.r.registry({'W1': lease([a, a])})
+        rel = self.r.draft(a, writer='W1')
+        _, out, _ = self.sel(added=[rel])
+        self.assertEqual(out['queue'], [a])
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], [a])
+
     def _thirty_planned_plus_late_pass(self):
         ids = ['BLG-%05d' % i for i in range(1, 31)]
         self.r.registry({'W1': lease(ids[:10]), 'W2': lease(ids[10:20]),

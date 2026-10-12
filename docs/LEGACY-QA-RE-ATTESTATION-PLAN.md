@@ -65,6 +65,10 @@ prices (150.000 / 200.000 / ...) were reported as failing `business_amounts`; th
 earlier 976 / 87 counts were wrong and are superseded by the numbers above.
 `RealScorerTest.test_rescore_uses_the_approved_amount_whitelist` guards the
 regression (approved price passes, an unapproved amount still fails).
+`rescore_published` also pins the process cwd to the scorer's own repo root for
+the call (and restores it): `qa_check_one` opens the post by its repo-relative
+path, and the CLI only worked from other directories because importing the
+operator happens to `chdir` (`test_rescore_does_not_depend_on_the_callers_working_directory`).
 
 **Independent cross-check (2026-10-12, separate analysis with its own code that
 does not import this tool):** 1063 DOMAIN_ONLY / 6 other / 849 matching at the

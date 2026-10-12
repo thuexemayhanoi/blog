@@ -6,6 +6,7 @@ import json
 import os
 import pathlib
 import sys
+import tempfile
 import unittest
 
 SCRIPT = pathlib.Path(__file__).resolve().parents[1] / 'audit-legacy-qa.py'
@@ -155,6 +156,29 @@ class RealScorerTest(FxTestCase):
             self.assertIn(9876543, fresh['non_approved_amounts'])
         finally:
             os.chdir(cwd)
+
+    def test_rescore_does_not_depend_on_the_callers_working_directory(self):
+        """Codex P2 (vòng 3): qa_check_one mở `output_path` TƯƠNG ĐỐI theo cwd của
+        người gọi. CLI chạy được từ nơi khác chỉ nhờ operator `chdir` lúc import;
+        `rescore_published` là hàm thư viện (tool re-attest, test) nên phải tự giải
+        đường dẫn từ gốc repo của scorer và TRẢ cwd lại như cũ."""
+        rows = matrix_rows(self.fx)
+        row = next(r for r in rows if r['status'] == 'PUBLISHED')
+        cwd = os.getcwd()
+        try:
+            op, biz, tax = self._fixture_scorer()
+            here = A.rescore_published(op, row, rows, biz, tax)
+            self.assertNotEqual(here.get('result'), 'NO_DRAFT', here)
+            with tempfile.TemporaryDirectory() as elsewhere:
+                os.chdir(elsewhere)
+                there = A.rescore_published(op, row, rows, biz, tax)
+                self.assertEqual(os.path.realpath(os.getcwd()),
+                                 os.path.realpath(elsewhere),
+                                 'rescore khong duoc doi cwd cua nguoi goi')
+        finally:
+            os.chdir(cwd)
+        drop = lambda ev: {k: v for k, v in ev.items() if k != 'scored_at'}
+        self.assertEqual(drop(there), drop(here))
 
 
 if __name__ == '__main__':
