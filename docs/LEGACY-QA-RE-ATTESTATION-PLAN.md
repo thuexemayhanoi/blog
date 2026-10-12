@@ -1,9 +1,10 @@
-# Legacy QA evidence — audit-only, approval required
+# Legacy QA evidence — read-only audit + controlled re-attestation
 
 Scope: **thuexemayhanoi/blog**, production main, https://blog.thuexemaynguyentu.com/.
 Snapshot: `eb2afa24a46caa102a4b3045704b62ca15fd1841`; pre-migration baseline:
 `1b55bd810aac85dc919eb2a43d71de30ad8d4595` (parent of `04d46bef`).
-No published content, matrix, checkpoint, lease or QA evidence was rewritten by this audit.
+No published content, matrix, checkpoint, lease or QA evidence is rewritten by the audit itself;
+evidence is only ever replaced through the re-attestation tool described below.
 
 ## Provenance findings
 
@@ -81,31 +82,49 @@ baseline (same `scored_at`, new `content_sha256`), so their OLD scores are weake
 provenance. That is why a re-attestation must never reuse old scores: it only
 accepts a FRESH independent scoring of the exact current bytes.
 
-## Proposed attestation procedure — NOT implemented or authorized
+## Re-attestation procedure — `scripts/factory/reattest-legacy-qa.py`
 
-1. Obtain separate owner approval for exact IDs and purpose. Freeze a git SHA
-   and manifest of old QA blobs, post hashes, row fingerprints, scorer code,
-   business-facts/taxonomy hashes and migration commit. Preserve the original
-   evidence in an immutable git ref/archive; never delete its history.
-2. Reconfirm old hashes against immutable baseline bytes AND row. A migration
-   label without this proof is insufficient. Put the six real-change cases in
-   a separate manual-review list, with exact diffs and decisions.
-3. Independently score current bytes with the canonical scorer in an isolated
-   checkout. Do not reuse `result`, quality, seo or checks from old evidence.
-   Record all failures. A failure requires a separately authorized content
-   repair or explicit deferment, never a new PASS label/hash alone.
-4. Prepare append-only attestations linking old evidence, exact new bytes,
-   current matrix fingerprint, fresh scorer output, reason, reviewer approval,
-   tool version and previous attestation hash. Bind legal/source review where
-   the scorer requires it. Proposal manifests remain non-authoritative.
-5. Add a dedicated validator/publisher-compatible attestation reader in a new
-   reviewed PR. Reject absent approval, unknown IDs, changed code/inputs,
-   changed post or row since scoring, broken provenance and failed QA. Use
-   CAS against the approved SHA; preserve both old and new evidence.
-6. Test on fixtures first; only after approval, apply the approved IDs in
-   bounded batches on a separate branch. Validate FULL + build/link/schema,
-   review diff, CI, merge, Pages SUCCESS and URL checks. No `_posts` edits in
-   an evidence-only batch. Unapproved/failed cases stay unresolved.
+Owner authorization: the project owner authorized (chat, 2026-10-12, "ỦY QUYỀN TOÀN DIỆN",
+item 9) preparing and applying re-attestation **only** for evidence that is proven valid, with
+independent scoring, full provenance, backups, tests and rollback. Pass that reference as
+`--approval-ref`; the tool refuses to write without one.
+
+```bash
+# 1. proposal (read-only, several minutes of CPU): manifest of every stale row with its binding facts
+python3 scripts/factory/reattest-legacy-qa.py plan --baseline 1b55bd810aac85dc919eb2a43d71de30ad8d4595 --out plan.json
+# 2. bounded batch on a branch (<= 300 IDs); everything is re-verified at apply time
+python3 scripts/factory/reattest-legacy-qa.py apply --manifest plan.json --approval-ref "<owner approval>" --limit 10 --dry-run
+python3 scripts/factory/reattest-legacy-qa.py apply --manifest plan.json --approval-ref "<owner approval>" --limit 10 --batch-id <id>
+# 3. check and, if anything is wrong, undo byte-exactly
+python3 scripts/factory/reattest-legacy-qa.py verify   --backup reports/qa-audit/reattest/<id>.json
+python3 scripts/factory/reattest-legacy-qa.py rollback --backup reports/qa-audit/reattest/<id>.json [--ids A,B] [--dry-run]
+```
+
+What it guarantees (covered by `scripts/factory/tests/test_reattest_legacy_qa.py`):
+
+1. **Provenance, not labels.** An ID qualifies only when the old evidence hashes bind the
+   immutable baseline bytes AND matrix row, and the exact migration-v3 transform of those bytes
+   reproduces the current bytes/row fields (no whitespace stripping, no fuzzy match).
+2. **Independent scoring.** The canonical scorer (`qa_check_one`, current corpus/taxonomy/
+   business facts, the approved-amount whitelist, unchanged 75/70 thresholds) re-scores the
+   current bytes. Old scores/results are never reused; any failing gate (quality, seo,
+   business_fact, legal, critical failure) means the ID is refused — there is no force flag.
+3. **The manifest is not authority.** `apply` re-derives everything from git and the current
+   bytes; a stale, edited or forged manifest can only make `apply` refuse. One failing ID stops
+   the whole batch before anything is written (atomic); `--skip-ineligible` only skips IDs whose
+   *state changed since the plan* and reports them.
+4. **Backup before write.** `reports/qa-audit/reattest/<batch>.json` (verbatim old evidence plus
+   old/new sha256 of every ID) is written and read back before the first evidence file changes.
+5. **Minimal footprint.** Only the approved `data/qa/<ID>.json` files and the backup are
+   written; `_posts/`, matrix, checkpoint, leases and drafts are never touched. The new evidence
+   carries a `reattestation` block (old evidence hash, baseline proof, scorer/business-facts/
+   taxonomy hashes, approval, `rescored_at`); `scored_at`/`published_at` keep their historical
+   values so the watchdog sees no fake activity.
+6. **Rollback.** `rollback` restores the old evidence byte-exactly, and only if the file still
+   equals the bytes the tool wrote. Re-running `apply` on already-current evidence is a no-op.
+
+The three genuine failures (BLG-00484/00485/00493) and the six real-change cases are never
+re-attested by this tool; they stay for separate handling (content repair or explicit review).
 
 ## Negative tests and limits
 
@@ -121,6 +140,8 @@ with privileged access to change code and all evidence cannot be stopped by
 an unsigned JSON field. The future write path therefore needs owner-approved
 manifests, CI review and immutable history; no blanket security claim is made.
 
-Until approved and implemented, **FULL evidence validation remains FAIL**.
-A green FULL build-mode quality gate (which validates scope chunk) proves
-the current build/links and engine checks, not all historical evidence hashes.
+`validate --scope full` stays FAIL for every row that is not yet re-attested (2 errors per
+ID: content hash and matrix fingerprint); it drops by exactly 2 per re-attested ID. The nine
+rows above (3 genuine failures + 6 real changes) remain failing by design until handled
+separately. A green FULL build-mode quality gate (which validates scope chunk) proves the
+current build/links and engine checks, not all historical evidence hashes.
