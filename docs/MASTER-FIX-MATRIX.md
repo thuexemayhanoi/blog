@@ -108,3 +108,14 @@ Safari/iPhone: NOT VERIFIED. Lighthouse/CWV: NOT MEASURED. Mọi kết luận re
 - H7. Đánh giá trung thực: legacy 483 + EDITORIAL_TARGET 6.980 = 7.463 <
   10.000. Taxonomy vẫn không thể đạt 10.000 hợp lệ. RESERVED_CAPACITY
   9.057 chỉ dành cho chủ đề thật sau này — KHÔNG ĐỆM.
+
+## I. Kiểm toán hợp đồng URL của tài liệu SEO (2026-10-13)
+
+Mục này sửa **hướng dẫn kỹ thuật**, không chỉnh trang công khai, không đổi URL/canonical/bài đã đăng, không sửa matrix/checkpoint/lease, không thay publishing gate.
+
+| ID | Lỗi | Bằng chứng | Thao tác trong nhánh `audit/seo-baseurl-contract-20261013` | QA / phạm vi | Trạng thái |
+|---|---|---|---|---|---|
+| I1 | `docs/SEO-TECHNICAL.md` hướng dẫn `baseurl /blog` trong khi site chạy ở gốc custom domain. Writer có thể chèn thừa `/blog/` vào link/canonical. | `_config.yml`: `baseurl: ""`, `url: "https://blog.thuexemaynguyentu.com"`; `README.md`: Base URL `/`; robots trỏ sitemap tại gốc domain. | Đồng bộ nguồn chuẩn với config thật; ví dụ URL đúng `/thue-xe/` và ví dụ tiền tố sai; nhắc không đổi đường dẫn legacy. | Đối chiếu tĩnh 3 nguồn; không có thay đổi render/live ở PR này. | VERIFIED (DOCS); LIVE N/A |
+| I2 | Tài liệu QA cố định 39 hub con, trong khi taxonomy tiếp tục mở rộng. | `reports/factory/progress.json` hiện có 56 child; mục tiêu QA cần lấy từ taxonomy/matrix thay vì số viết tay. | Chuyển thành kiểm tra **các hub có bài** trong taxonomy hiện hành, không cố định số lượng. | Không đổi script/factory, sitemap, hoặc điều kiện QA hiện có. | VERIFIED (DOCS); LIVE N/A |
+
+**Gating phát hành:** thay đổi documentation-only trên nhánh riêng; kiểm tra diff chỉ gồm `docs/SEO-TECHNICAL.md` và mục I này. Các PR kỹ thuật đang mở, bao gồm FAQ và slugify, vẫn để nguyên. Không tự động tiếp nhận lease W1/W2 hoặc ghi `_posts/`, `_drafts/`, `data/state/`, `reports/`.
