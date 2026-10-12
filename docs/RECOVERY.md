@@ -124,6 +124,7 @@ Không coi recovery registry hay domain migration là quyền re-attest bài cũ
   là rỗng. Phục hồi trên origin: `python3 scripts/factory/writer-session.py repair-registry` (CAS: lấy bản hợp lệ gần nhất trong git
   history, prune theo matrix hiện tại, commit thay file hỏng; không tạo lease mới, không force push; registry đang hợp lệ thì không làm
   gì). Chỉ sửa working copy: `writer-claim.py repair-registry --from-git` rồi tự commit/push fast-forward.
+- `REGISTRY_CONFLICT` (registry đọc được nhưng một ID ở ≥ 2 lease sống, hoặc một phiên giữ ≥ 2 slot sống): MỌI công cụ (`writer-claim.py`, `writer-session.py`, `validate.py`, `writer-loop.py status`, selector) báo đúng mã này kèm `problems`, không ghi gì. KHÔNG chạy `repair-registry` / rollback git (sẽ làm mất lease sống; `repair-registry` cũng từ chối). Lối ra: chờ một trong các lease hết `expires_at`, hoặc coordinator hóa giải bằng chứng rồi CAS-commit registry đã sửa. `writer-claim.py merge`: lease v1 + bản đã nhận của cùng slot là cùng chủ (không xung đột).
 - Writer chết giữ slot: KHÔNG chiếm lease còn hạn. Chờ `expires_at` (mặc định 12h với `writer-session.py begin`, 48h với claim cũ);
   ID PLANNED tự trả về pool, hàng in-flight (REPAIR/PASS…) thành orphan: `begin --ids BLG-… --adopt`.
 - Hai phiên cùng một slot (SLOT_HELD): phiên đến sau dùng slot khác; không sửa tay registry để "giành" slot.

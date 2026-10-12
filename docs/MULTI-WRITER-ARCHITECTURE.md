@@ -38,7 +38,7 @@ HELD ──release --all──► FREE            HELD ──hết hạn──�
 - ID: `PLANNED` ──lease──► giữ trong lease; engine claim ⇒ `WRITING/QA/PASS/REPAIR` VẪN thuộc lease chủ; `PUBLISHED/EXISTING/BLOCKED` ⇒ prune.
 - Lease hết hạn: ID PLANNED trả về pool; hàng in-flight thành **orphan** (nhận bằng `begin --ids … --adopt`). CÙNG phiên quay lại trước khi ai nhận slot thì nối lại ID + REPAIR của chính mình (`resumed_after_lapse`).
 - Lease không còn ID (publish hết) bị prune ngay: slot KHÔNG đặt chỗ giữa hai batch (lease rỗng không bảo vệ ID nào mà khóa slot tới TTL nếu container bị tạo lại). Mỗi phiên chỉ giữ MỘT slot; lease legacy chỉ nhận bằng `begin --slot Wn`.
-- Registry đọc lỗi KHÔNG phải "vắng": `GIT_READ_FAILED` (không ghi gì); timestamp/ID sai dạng ⇒ `REGISTRY_CORRUPT` (fail-closed; sửa: `writer-session.py repair-registry`).
+- Registry đọc lỗi KHÔNG phải "vắng": `GIT_READ_FAILED` (không ghi gì); timestamp/ID sai dạng hoặc không phải UTF-8 ⇒ `REGISTRY_CORRUPT` (fail-closed; sửa: `writer-session.py repair-registry`). Đọc được nhưng MƠ HỒ CHỦ (một ID ở ≥ 2 lease sống, một phiên giữ ≥ 2 slot sống) ⇒ `REGISTRY_CONFLICT` (fail-closed, có danh sách `problems`; KHÔNG repair/rollback vì mất lease sống; chờ TTL hoặc coordinator).
 - Phiên mặc định = NGẪU NHIÊN theo working copy (lưu trong `.git/`), KHÔNG suy từ danh tính git: nhiều AI cùng nhà cung cấp dùng chung một danh tính git, suy phiên từ đó sẽ gộp chúng thành MỘT phiên. Muốn một AI sống sót qua việc tạo lại container, hoặc bàn giao AI→AI: đặt `FACTORY_WRITER_SESSION=<token riêng>` (hoặc `--session <id>`); id là công khai, không bí mật, nhưng chỉ AI nào được trao nó mới nối được phiên đó.
 - Tuyệt đối không chiếm lease còn hạn; vượt `MAX_WRITERS` ⇒ người đến sau thua (không đá lease cũ).
 
@@ -51,6 +51,8 @@ HELD ──release --all──► FREE            HELD ──hết hạn──�
 | Registry đọc lỗi không bị coi là rỗng | `Git.read` (ls-tree) ⇒ `GIT_READ_FAILED`; parse strict timestamp/ID | `test_writer_session` T50, T65 |
 | Draft "độc" không làm kẹt run | `push-selection.py` `engine_problem` (UTF-8, `date`/title/categories/description, placeholder, tên file, MỘT file/ID) | `test_selector_drain` T40–T48, sim S12 |
 | Registry mơ hồ chủ (một ID ở ≥ 2 lease sống) ⇒ fail-closed | `push-selection.py` `claim_registry` (`writer-claim.py live_conflicts`) | `test_selector_drain` T16, T16b |
+| `REGISTRY_CONFLICT` ≠ `REGISTRY_CORRUPT` ở MỌI ranh giới (writer-claim CLI, writer-session, validate, writer-loop status, selector); không ghi gì | `writer-claim.py conflict_payload`, `writer-session.py parse_registry_bytes` | `test_writer_claim` (mọi lệnh, 2 loại xung đột), `test_writer_session` T72–T76 |
+| Merge offline: lease v1 + bản đã nhận = cùng chủ (giữ session đã nhận, không hạ v2→v1, không đá ID local); chỉ hai session cùng có mặt mà khác nhau mới là xung đột | `writer-claim.py merge_registries/_merge_same_slot` | `test_writer_claim` (`test_merge_*`) |
 | Hàng in-flight không bị đói khi backlog > 30 hoặc production paused | selector cắt trần SAU lọc paused, in-flight trước PLANNED | `test_selector_drain` T17, T18 |
 | Orphan bị sửa phải được nhận trước | `ownership_problem` (`modified` so với bằng chứng QA) | `test_selector_drain` T13, T13b |
 | Phiên quay lại slot của chính mình sau khi hết hạn | `writer-session.py pick_slot` (nối lại ID + REPAIR) | `test_writer_session` T55, T71 |
@@ -80,13 +82,14 @@ Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
 | Lease hết hạn khi draft đã push chưa publish | selector cách ly (không lease sống); chủ cũ/mới `begin --ids …`, `check` + `push` (gắn lại `writer_session`; bản draft cũ của cùng ID bị xóa trong cùng commit) ⇒ `confirm` nudge ⇒ publish. `release` bị chặn (`DRAFT_QUEUED`) khi draft đã push còn chờ |
 | Hàng REPAIR orphan | `begin --ids BLG-… --adopt`, sửa draft, `push` |
 | `REGISTRY_CORRUPT` | `python3 scripts/factory/writer-session.py repair-registry` (CAS: lấy bản hợp lệ gần nhất trong git history, prune, commit; không tạo lease mới) |
+| `REGISTRY_CONFLICT` (ID/session trùng giữa lease sống) | KHÔNG `repair-registry`, KHÔNG rollback git: chờ lease hết TTL hoặc coordinator hóa giải có bằng chứng; mọi lệnh từ chối và không ghi gì (xem `problems`) |
 | Run đỏ `upstream_overlap` | không cần làm gì: main không đổi, run kế drain từ truth mới |
 | Run đỏ stale lock/txn | `docs/RECOVERY.md` (op `recover`); không force-unlock |
 | Checkpoint lệch | `factory-operator.py repair-checkpoint` (chỉ op này sửa số đếm) |
 
 ## 6. Tương thích ngược / rollback
 
-- Lease v1 (không session) hợp lệ; phiên đầu tiên chạm vào sẽ nhận (adopt). `writer-claim.py claim --writer W2 --ids …` (cũ) vẫn chạy; phiên mặc định theo working copy.
+- Lease v1 (không session) hợp lệ; phiên đầu tiên chạm vào sẽ nhận (adopt). `writer-claim.py merge`: lease v1 ở local + bản remote của CHÍNH slot đó sau lần nhận = cùng chủ (giữ session đã nhận; không bao giờ hạ v2 → v1). `writer-claim.py claim --writer W2 --ids …` (cũ) vẫn chạy; phiên mặc định theo working copy.
 - Draft không khai `writer_session:` vẫn được nhận (cảnh báo) — chỉ kiểm khi có khai. Registry vắng ⇒ chế độ single-writer cũ.
 - Rollback: revert commit merge; không có migration dữ liệu (registry v2 đọc được bởi v1 — trường thừa bị bỏ qua).
 
@@ -95,7 +98,7 @@ Không cron, không `workflow_dispatch` mới (giữ hợp đồng).
 - Danh tính phiên là **cộng tác** (cùng một token GitHub): chống nhầm lẫn/đua, không chống kẻ cố tình giả `writer_session`.
 - Lease dựa trên ĐỒNG HỒ máy writer (`expires_at` ghi bằng đồng hồ máy này, so bằng đồng hồ máy kia): đồng hồ lệch quá TTL có thể làm lease sống bị coi hết hạn (hoặc ngược lại). Giữ NTP đúng; TTL mặc định 12h/48h đủ rộng cho lệch phút. Không có nguồn thời gian tin cậy từ git.
 - Tên file draft trùng hậu tố với slug của hàng khác (`*-<slug>.md` khớp `thue-<slug>.md`) làm `factory-operator.find_draft` (glob đầu tiên) có thể chọn nhầm file: selector cách ly cả hai — đặt slug không là hậu tố của nhau.
-- `writer-claim.py merge` chỉ gộp phần không tranh chấp: không thay chủ slot/ID local còn sống bằng timestamp từ file ngoài. Cùng session trên hai slot hoặc hai session trên một slot → từ chối nguyên tử. Luồng thường dùng CAS, không merge registry thủ công.
+- `writer-claim.py merge` chỉ gộp phần không tranh chấp: không thay chủ slot/ID local còn sống bằng timestamp từ file ngoài. Cùng session trên hai slot hoặc hai session (cùng có mặt, khác nhau) trên một slot → `REGISTRY_CONFLICT`, từ chối nguyên tử; lease v1 đối diện bản đã nhận KHÔNG phải xung đột. Luồng thường dùng CAS, không merge registry thủ công.
 - Container bị tạo lại mà AI không giữ token phiên (`FACTORY_WRITER_SESSION`/`--session`): lease cũ vẫn là của phiên cũ cho đến `expires_at` (12h với `begin`, 48h với claim cũ) — hệ thống KHÔNG chiếm lease còn hạn. Writer chạy lặp (routine) nên đặt token cố định.
 - Run chờ bị hủy bởi run KHÁC workflow chỉ được kích lại bởi push kế tiếp hoặc `confirm --nudge`.
 - Evidence cũ: snapshot `eb2afa24` có 1069 bài lệch ít nhất một hash (1066 content, 1067 matrix). 1063 chứng minh được chỉ đổi domain; 6 bài cần review riêng, không gộp vào migration. `validate --scope full` vẫn đỏ; FULL build gate dùng validate chunk và không thay thế audit evidence toàn bộ. Audit và phương án: `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`. Chưa có quyền re-attest.
