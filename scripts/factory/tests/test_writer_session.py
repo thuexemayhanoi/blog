@@ -1064,6 +1064,25 @@ class TestRegistryConflictBoundary(SessionBase):
         self.assertEqual(self.sim.origin_head(), head,
                          'repair không được ghi/rollback origin khi có tranh chấp')
 
+    def test_82_conflict_masked_by_a_shape_error_elsewhere_is_never_rolled_back(self):
+        """Review độc lập: W1/W2 tranh chấp ID, W3 là lease SỐNG của phiên thứ ba, và một
+        lease khác sai hình dạng (`W4: 5`) từng làm registry thành REGISTRY_CORRUPT: CAS
+        `repair-registry` khôi phục bản cũ, đẩy rollback và XÓA lease sống W3."""
+        for n, slot in (('a', 'W1'), ('b', 'W2'), ('c', 'W3')):
+            self.sim.clone(n)
+            self.begin(n, '--slot', slot, '--count', '2')
+        good = self.sim.origin_registry()
+        self.sim.edit_registry(lambda reg: (
+            reg['leases']['W2']['ids'].append(reg['leases']['W1']['ids'][0]),
+            reg['leases'].update(W4=5)))
+        head = self.sim.origin_head()
+        for args in (['status'], ['repair-registry'], ['heartbeat']):
+            r, out = self.run_cmd('a', *args)
+            self.assertEqual(r.returncode, 1, (args, r.stdout, r.stderr))
+            self.assertEqual(out['code'], 'REGISTRY_CONFLICT', (args, out))
+        self.assertEqual(self.sim.origin_head(), head, 'repair khong duoc rollback origin')
+        self.assertEqual(self.sim.origin_registry()['leases']['W3'], good['leases']['W3'])
+
     def test_80_lease_without_ids_key_does_not_crash_begin(self):
         """Review độc lập: lease sống thiếu khóa `ids` làm `begin` KeyError."""
         self.sim.clone('a')

@@ -120,6 +120,30 @@ class DirtyTreeTest(unittest.TestCase):
         self.assertTrue(any('_posts/new.md' in line for line in listed), listed)
         self.assertFalse(any('notes.txt' in line for line in listed), listed)
 
+    def test_guard_mirrors_what_the_scorer_reads(self):
+        """Review độc lập: canonical_routes() đọc `permalink:` của MỌI .md/.html ngoài
+        các thư mục bị loại — một trang untracked ở ngoài INPUT_DIRS lật được
+        `links_routes_valid`/`critical_failure` mà guard cũ không thấy; ngược lại
+        `_drafts/` không bao giờ được đọc nên draft untracked của writer không được
+        làm audit từ chối."""
+        def touch(rel, text='x'):
+            full = os.path.join(self.d, rel)
+            os.makedirs(os.path.dirname(full) or self.d, exist_ok=True)
+            with open(full, 'w', encoding='utf-8') as f:
+                f.write(text)
+        flagged = ['zz-untracked-page.md', 'listing/new.md', 'thue-xe/x.html',
+                   'trang-đẹp.md', 'data/anything.json', 'scripts/helper.py',
+                   '_posts/2026-10-12-x.md']
+        ignored = ['_drafts/2026-10-12-wip.md', 'docs/note.md', 'reports/r.md',
+                   'assets/page.html', 'en/page.md', 'notes.txt', 'out.json']
+        for rel in flagged + ignored:
+            touch(rel)
+        listed = A.dirty_inputs(self.d)
+        for rel in flagged:
+            self.assertTrue(any(line.endswith(' ' + rel) for line in listed), (rel, listed))
+        for rel in ignored:
+            self.assertFalse(any(line.endswith(' ' + rel) for line in listed), (rel, listed))
+
     def test_cli_refuses_a_dirty_tree_before_reading_any_input(self):
         with open(os.path.join(self.d, 'data/x.txt'), 'w') as f:
             f.write('edited after the checkout\n')

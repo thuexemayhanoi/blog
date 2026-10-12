@@ -46,7 +46,10 @@ python3 scripts/factory/validate.py --scope full
 The audit emits JSON to stdout only. It cannot promote, write QA, or set PASS. Run it on a clean
 checkout of the commit you cite: it reads the matrix, posts, QA evidence, scorer, business facts and
 taxonomy from the working tree, so it refuses a tree that differs from `HEAD` (`DIRTY_TREE`;
-`--allow-dirty` is the explicit opt-out and marks the output `head_bound: false`).
+`--allow-dirty` is the explicit opt-out and marks the output `head_bound: false`). "Differs" means any
+tracked change plus untracked files the scorer can read: anything under `data/`, `scripts/`, `_posts/`, and
+any `.md`/`.html` page outside the directories `canonical_routes()` skips (it reads every page's `permalink:`);
+a writer's untracked `_drafts/` entry or an `> audit.json` redirect does not trip it.
 `--rescore-stale` calls `factory-operator.py qa_check_one` on each actual post,
 using the actual current corpus, taxonomy, business facts and unchanged 75/70
 thresholds. It does not call `op_qa`, publish, prepare-next or recovery.
