@@ -79,11 +79,17 @@ def cmd_status(args):
     claimable = [r['id'] for r in rows if r['status'] == 'PLANNED']
     unfinished = [r['id'] for r in rows if r['status'] in UNFINISHED]
     wc = _claim_module()
+    registry_error_code = None
     try:
         reg = wc.load_registry()
+    except wc.OwnershipConflict as e:
+        reg = None
+        registry_error = str(e)
+        registry_error_code = 'REGISTRY_CONFLICT'
     except wc.RegistryCorrupt as e:
         reg = None
         registry_error = str(e)
+        registry_error_code = 'REGISTRY_CORRUPT'
     else:
         registry_error = None
     leases, expired, slots = {}, [], {}
@@ -109,6 +115,7 @@ def cmd_status(args):
         'expired_leases': expired,
         'slots': slots,
         'registry_error': registry_error,
+        'registry_error_code': registry_error_code,
         'next_pairs': [claimable[i:i + 2] for i in range(0, min(len(claimable), 6), 2)],
     }
     print(json.dumps(out, ensure_ascii=False, indent=1))

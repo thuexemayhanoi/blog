@@ -60,6 +60,21 @@ class SessionBase(unittest.TestCase):
 
 class TestConcurrentClaims(SessionBase):
 
+    def test_same_session_races_two_different_slots(self):
+        self.sim.clone('a')
+        self.sim.clone('b')
+        procs = [self.sim.session_popen(n, 'begin', '--slot', slot,
+                                       '--session', 's-shared-race', '--count', '2')
+                 for n, slot in [('a', 'W1'), ('b', 'W2')]]
+        results = []
+        for p in procs:
+            so, se = p.communicate(timeout=120)
+            results.append((p.returncode, parse_session_out(so)))
+        self.assertEqual(sorted(c for c, _ in results), [0, 1], results)
+        self.assertEqual(next(o['code'] for c, o in results if c),
+                         'SESSION_HOLDS_OTHER_SLOT')
+        self.assertEqual(len(self.sim.origin_registry()['leases']), 1)
+
     def test_01_three_writers_begin_concurrently(self):
         for n in ('a', 'b', 'c'):
             self.sim.clone(n)
@@ -895,6 +910,181 @@ class TestCodexRound2(SessionBase):
                          sorted(a['leased_total']))
         self.assertTrue(set(rep) <= set(b['leased_total']))
         self.assertEqual(sorted(self.sim.origin_registry()['leases']), ['W2'])
+
+
+class TestRegistryConflictBoundary(SessionBase):
+    """Codex P2 trên PR #9: OwnershipConflict (lease sống mơ hồ) phải ra
+    REGISTRY_CONFLICT ở MỌI lệnh thường — chờ TTL/coordinator — chứ không bị
+    báo REGISTRY_CORRUPT kèm hướng dẫn `repair-registry --from-git` (lệnh đó
+    từ chối đúng tình huống này: ngõ cụt, và nếu làm được sẽ mất lease sống)."""
+
+    def run_cmd(self, clone, *args, env=None):
+        r = self.sim.session_cmd(clone, *args, env=env)
+        return r, parse_session_out(r.stdout)
+
+    def _conflict(self, kind):
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        self.begin('b', '--slot', 'W2', '--count', '2')
+        if kind == 'id':
+            self.sim.edit_registry(lambda reg: reg['leases']['W2']['ids']
+                                   .append(a['leased_total'][0]))
+        else:
+            self.sim.edit_registry(lambda reg: reg['leases']['W2']
+                                   .update(session=a['session']))
+        return a
+
+    def _assert_conflict_everywhere(self, kind):
+        a = self._conflict(kind)
+        head = self.sim.origin_head()
+        for clone, args in (('a', ['status']),
+                            ('b', ['status']),
+                            ('a', ['begin', '--slot', 'auto']),
+                            ('a', ['begin', '--slot', 'W3']),
+                            ('a', ['heartbeat']),
+                            ('a', ['release', '--all']),
+                            ('a', ['check']),
+                            ('a', ['repair-registry'])):
+            r, out = self.run_cmd(clone, *args)
+            tag = (kind, clone, args, r.stdout, r.stderr)
+            self.assertEqual(r.returncode, 1, tag)
+            self.assertEqual(out['code'], 'REGISTRY_CONFLICT', tag)
+            self.assertTrue(out.get('problems'), tag)
+            self.assertNotIn('--from-git', out['error'], tag)
+        self.assertEqual(self.sim.origin_head(), head,
+                         'lenh bi tu choi khong duoc ghi gi len origin')
+        self.assertEqual(sorted(self.sim.origin_registry()['leases']),
+                         ['W1', 'W2'], 'khong lease nao bi xoa/rollback')
+        return a
+
+    def test_72_duplicate_live_id_is_reported_as_conflict(self):
+        self._assert_conflict_everywhere('id')
+
+    def test_73_one_session_in_two_live_slots_is_reported_as_conflict(self):
+        self._assert_conflict_everywhere('session')
+
+    def test_74_conflict_clears_when_one_lease_expires(self):
+        """Đường thoát đúng như tài liệu: hết TTL của một bên thì registry hết
+        mơ hồ và lệnh chạy lại bình thường (không cần repair)."""
+        a = self._conflict('id')
+        self.sim.edit_registry(lambda reg: reg['leases']['W2']
+                               .update(expires_at='2000-01-01T00:00:00Z'))
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.assertEqual(out['me']['slot'], 'W1')
+        self.assertEqual(out['me']['ids'], a['leased_total'])
+
+    def test_75_real_corruption_still_points_to_repair(self):
+        self.sim.clone('a')
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': '{"leases": '}, 'corrupt')
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 1)
+        self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
+        self.assertIn('repair-registry', out['error'])
+
+    def test_76_non_utf8_registry_is_corrupt_not_a_traceback(self):
+        self.sim.clone('a')
+        # bytes không hợp lệ UTF-8 phải đi qua commit nhị phân
+        import shutil
+        wd = os.path.join(self.sim.base, 'ext-bad-bytes')
+        git(self.sim.base, 'clone', '-q', self.sim.origin, wd)
+        git(wd, 'checkout', '-q', '-B', 'main', 'origin/main')
+        with open(os.path.join(wd, 'data/state/writer-claims.json'), 'wb') as f:
+            f.write(b'{"leases": {}, "x": "\xff\xfe"}')
+        git(wd, 'add', '-A')
+        git(wd, 'commit', '-q', '-m', 'non-utf8 registry')
+        git(wd, 'push', '-q', 'origin', 'HEAD:main')
+        shutil.rmtree(wd, ignore_errors=True)
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'REGISTRY_CORRUPT')
+        self.assertNotIn('Traceback', r.stderr)
+
+    def test_77_repair_stops_at_a_conflicted_historical_version(self):
+        """Codex P2: registry hiện tại hỏng cú pháp, bản lịch sử mới nhất còn
+        mơ hồ chủ SỐNG: repair KHÔNG được nhảy qua nó về bản cũ hơn (làm mất
+        các lease đang tranh chấp) — REGISTRY_CONFLICT, origin không đổi."""
+        a = self._conflict('id')
+        self.sim.commit_on_origin(
+            {'data/state/writer-claims.json': '{"leases": [truncated'},
+            'corrupt registry')
+        head = self.sim.origin_head()
+        r, out = self.run_cmd('a', 'repair-registry')
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        self.assertEqual(out['code'], 'REGISTRY_CONFLICT', out)
+        self.assertTrue(out.get('problems'))
+        self.assertEqual(self.sim.origin_head(), head)
+
+    def test_79_unknown_slot_key_is_corruption_not_an_eviction(self):
+        """Review độc lập: khóa 'W4' được nhận; một heartbeat bình thường của W1
+        cắt MAX_WRITERS và ĐÁ lease SỐNG W3 (claim mới nhất) khỏi origin. Giờ:
+        REGISTRY_CORRUPT ở mọi lệnh, origin không đổi; `repair-registry` khôi
+        phục bản tốt gần nhất — W1/W2/W3 nguyên vẹn, không có 'ma' W4."""
+        for n, slot in (('a', 'W1'), ('b', 'W2'), ('c', 'W3')):
+            self.sim.clone(n)
+            self.begin(n, '--slot', slot, '--count', '2')
+        good = self.sim.origin_registry()
+        self.sim.edit_registry(lambda reg: reg['leases'].update(
+            W4=dict(reg['leases']['W1'], session='s-ghost', ids=['BLG-00110'])))
+        head = self.sim.origin_head()
+        for clone, args in (('a', ['status']), ('a', ['heartbeat']),
+                            ('c', ['heartbeat']), ('a', ['check'])):
+            r, out = self.run_cmd(clone, *args)
+            tag = (clone, args, r.stdout, r.stderr)
+            self.assertEqual(r.returncode, 1, tag)
+            self.assertEqual(out['code'], 'REGISTRY_CORRUPT', tag)
+        self.assertEqual(self.sim.origin_head(), head, 'lệnh bị từ chối không được ghi origin')
+        r, out = self.run_cmd('a', 'repair-registry')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        reg = self.sim.origin_registry()
+        self.assertEqual(sorted(reg['leases']), ['W1', 'W2', 'W3'])
+        self.assertEqual(reg['leases']['W3']['ids'], good['leases']['W3']['ids'])
+        r, out = self.run_cmd('c', 'heartbeat')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
+    def test_81_conflict_plus_oversized_lease_is_still_a_conflict_not_repairable(self):
+        """Codex P2 (vòng 6): lease vượt MAX_LEASE (sửa được) CỘNG tranh chấp ID sống
+        phải là REGISTRY_CONFLICT; nếu là CORRUPT thì repair-registry khôi phục bản cũ
+        và âm thầm mất lease đang tranh chấp."""
+        self.sim.clone('a')
+        self.sim.clone('b')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        self.begin('b', '--slot', 'W2', '--count', '2')
+        extra = ['BLG-%05d' % n for n in range(100, 110)]
+        self.sim.edit_registry(lambda reg: (
+            reg['leases']['W1'].update(ids=a['leased_total'] + extra),
+            reg['leases']['W2']['ids'].append(a['leased_total'][0])))
+        head = self.sim.origin_head()
+        for args in (['status'], ['repair-registry'], ['heartbeat']):
+            r, out = self.run_cmd('a', *args)
+            self.assertEqual(r.returncode, 1, (args, r.stdout, r.stderr))
+            self.assertEqual(out['code'], 'REGISTRY_CONFLICT', (args, out))
+        self.assertEqual(self.sim.origin_head(), head,
+                         'repair không được ghi/rollback origin khi có tranh chấp')
+
+    def test_80_lease_without_ids_key_does_not_crash_begin(self):
+        """Review độc lập: lease sống thiếu khóa `ids` làm `begin` KeyError."""
+        self.sim.clone('a')
+        self.begin('a', '--slot', 'W1', '--count', '2')
+        self.sim.edit_registry(lambda reg: reg['leases']['W1'].pop('ids'))
+        r, out = self.run_cmd('a', 'begin', '--slot', 'W1', '--count', '2')
+        self.assertNotIn('Traceback', r.stderr, r.stderr)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
+    def test_78_empty_lease_sharing_a_session_is_not_a_conflict(self):
+        """Codex P2: lease rỗng (không giữ việc gì) cùng session với lease khác
+        không được làm mọi lệnh REGISTRY_CONFLICT."""
+        self.sim.clone('a')
+        a = self.begin('a', '--slot', 'W1', '--count', '2')
+        self.sim.clone('b')
+        self.begin('b', '--slot', 'W2', '--count', '2')
+        self.sim.edit_registry(lambda reg: (
+            reg['leases']['W2'].update(session=a['session']),
+            reg['leases']['W1'].update(ids=[])))
+        r, out = self.run_cmd('a', 'status')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
 
 
 class TestConfirmEdges(SessionBase):

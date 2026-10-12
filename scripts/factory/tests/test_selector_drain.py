@@ -385,6 +385,17 @@ class TestRegistryAndCap(DrainBase):
     """Góp ý Codex vòng 2 (đã kiểm chứng): registry mơ hồ chủ sở hữu và cắt
     trần backlog trước khi xếp hàng in-flight."""
 
+    def test_one_session_in_two_live_slots_fails_closed(self):
+        a, b = 'BLG-00171', 'BLG-00172'
+        self.r.registry({'W1': dict(lease([a]), session='s-shared'),
+                         'W2': dict(lease([b]), session='s-shared')})
+        rel = self.r.draft(a, writer='W1')
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims khong nhat quan', out['refuse'])
+        self.assertFalse(out['proceed'])
+        _, out, _ = self.sel(backlog=True, rc_expect=3)
+        self.assertEqual(out['queue'], [])
+
     def test_16_same_id_in_two_live_leases_fails_closed(self):
         a = 'BLG-00171'
         self.r.registry({'W1': lease([a]), 'W2': lease([a])})
@@ -406,6 +417,36 @@ class TestRegistryAndCap(DrainBase):
         rel = self.r.draft(a, writer='W2')
         _, out, _ = self.sel(added=[rel])
         self.assertEqual(out['queue'], [a])
+
+    def test_16c_id_repeated_inside_one_lease_is_one_owner(self):
+        """Codex P2 (vòng 3): `ids: [A, A]` trong MỘT lease không có chủ thứ hai
+        — selector vẫn nhận draft của chủ đó, KHÔNG chặn publisher vì registry."""
+        a = 'BLG-00173'
+        self.r.registry({'W1': lease([a, a])})
+        rel = self.r.draft(a, writer='W1')
+        _, out, _ = self.sel(added=[rel])
+        self.assertEqual(out['queue'], [a])
+        _, out, _ = self.sel(backlog=True)
+        self.assertEqual(out['queue'], [a])
+
+    def test_16d_non_utf8_registry_is_refused_not_a_traceback(self):
+        """Review độc lập: registry byte không phải UTF-8 làm selector crash
+        (rc=1, traceback) thay vì REFUSED có cấu trúc (rc=3, fail-closed)."""
+        a = 'BLG-00174'
+        rel = self.r.draft(a, writer='W1')
+        with open(self.r.path('data/state/writer-claims.json'), 'wb') as f:
+            f.write(b'{"schema_version": "2", "leases": {}, "label": "caf\xe9"}')
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims hong', out['refuse'])
+        self.assertFalse(out['proceed'])
+
+    def test_16e_unknown_slot_key_fails_closed_in_the_selector(self):
+        a = 'BLG-00175'
+        rel = self.r.draft(a, writer='W1')
+        self.r.registry({'W1': lease([a]), 'W4': lease(['BLG-00176'])})
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims hong', out['refuse'])
+        self.assertFalse(out['proceed'])
 
     def _thirty_planned_plus_late_pass(self):
         ids = ['BLG-%05d' % i for i in range(1, 31)]

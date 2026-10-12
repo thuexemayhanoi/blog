@@ -25,6 +25,15 @@ In ra `SLOT W2 | session s-… | hạn … | ID: BLG-…` (và dòng JSON `BLOG_
 - Ghi lại **slot + session id**. Gọi lại `begin` = **nối việc dở + bù cho đủ N ID** (mặc định N=10; `--count N` là **tổng** số ID bạn muốn giữ nên lặp lại lệnh không làm lease phình). Chỉ gia hạn, không nhận ID mới: `heartbeat`. Lease mới có TTL 12h; gia hạn giữ TTL cũ (không bao giờ rút ngắn).
 - Mỗi phiên (mỗi working copy hoặc token) chỉ giữ **MỘT** slot: đòi slot thứ hai → `SESSION_HOLDS_OTHER_SLOT`. Slot **legacy** (lease cũ không có session) chỉ nhận bằng `begin --slot Wn` tường minh; `--slot auto` không nhận.
 - Container của bạn có thể bị tạo lại (routine, restart)? Đặt **token phiên cố định, riêng của bạn** ở đầu mỗi lần chạy: `export FACTORY_WRITER_SESSION=s-<ten-ban>-<slot>` (chỉ `A-Za-z0-9._-`, tối đa 64 ký tự) — không dùng chung với AI khác. Không có token thì mỗi container là một phiên mới và slot cũ của bạn bị giữ đến khi hết hạn.
+- **Session ổn định theo slot** (nhãn CÔNG KHAI trong registry — không phải bí mật; không bao giờ dùng token GitHub/API làm session id):
+
+  | Slot | `FACTORY_WRITER_SESSION` | Trạng thái |
+  |---|---|---|
+  | W1 | `s-mistral-w1` | đang dùng |
+  | W2 | `s-claude-w2` | đang dùng |
+  | W3 | `s-<ai>-w3` (ví dụ `s-codex-w3`) | trống — AI mới tự chọn nhãn theo mẫu này và giữ nguyên mãi |
+
+  Resume sau hết quota/đổi container: `git pull` → export lại ĐÚNG nhãn → `status` → `begin --slot <slot>`. Không dùng nhãn của slot khác.
 - `NO_FREE_SLOT` → cả 3 slot đang có người; xem `status` để biết giờ hết hạn. `SLOT_HELD` → slot đó đang của phiên khác: chọn slot khác, **đừng chiếm**.
 - Còn hàng **REPAIR** của bạn → `begin` chỉ nối việc, **sửa REPAIR trước** (resume-first của riêng bạn).
 - Xem trạng thái: `python3 scripts/factory/writer-session.py status`.
@@ -56,7 +65,7 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 ```
 | kết quả | ý nghĩa | làm gì |
 |---|---|---|
-| exit 0 `published` | đã lên site (Factory Publish xanh) | `begin` batch kế |
+| exit 0 `published` | đã promote qua factory; chưa chứng minh URL live | `begin` batch kế; xác nhận Pages SUCCESS và URL HTTP 200 trước khi báo live |
 | exit 3 `REPAIR` + `failed_checks` | QA FAIL, bài chờ **bạn** sửa | sửa đúng draft đó rồi `push` lại (không hạ ngưỡng, không đổi slug/ID) |
 | exit 4 `PENDING` | factory đang xếp hàng | chờ/chạy lại `confirm`; tool tự nudge publisher tối đa 3 lần |
 | `DEFERRED`/FATAL trong log run | run dừng vì hạ tầng | không mất draft: run kế tự nhặt lại; liên hệ chủ xe nếu lặp |
@@ -87,6 +96,7 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 | `LEASE_LOST` (exit 5) | lease hết hạn hoặc phiên khác đã nhận | `begin` lại (slot mới), viết lại phần chưa publish |
 | `NOT_MY_IDS` | ID không thuộc lease của bạn | chỉ push ID bạn giữ |
 | `CAS_EXHAUSTED` | push bị từ chối liên tục | chạy lại `push` (idempotent); nếu mạng/GitHub lỗi kéo dài thì chờ |
+| `REGISTRY_CONFLICT` | registry đọc được nhưng mơ hồ chủ (một ID hoặc một session ở ≥ 2 lease sống) | KHÔNG `repair-registry`/rollback; chờ lease hết hạn hoặc chủ xe/coordinator hóa giải; mọi lệnh từ chối và không ghi gì (`problems` liệt kê chi tiết) |
 | `REGISTRY_CORRUPT` | `writer-claims.json` hỏng/timestamp sai | `python3 scripts/factory/writer-session.py repair-registry` (CAS, lấy bản hợp lệ gần nhất) |
 | `GIT_READ_FAILED` | object git đọc lỗi (clone hỏng/partial) | `git fetch` lại hoặc clone mới; tool KHÔNG ghi gì khi gặp lỗi này |
 | `SESSION_HOLDS_OTHER_SLOT` | phiên này đã giữ slot khác | dùng slot đang giữ (`--slot auto`) hoặc `release` trước |

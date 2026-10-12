@@ -1,0 +1,315 @@
+{
+  "sitemap_http": 200,
+  "sitemap_urls": 2728,
+  "sitemap_wrong_host": 0,
+  "duplicate_sitemap_urls": 0,
+  "new_article_count": 10,
+  "new_pages": [
+    {
+      "id": "BLG-02393",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/chia-khoa-xe-thue-hoi-chia-phu-va-cach-bao-khi-lo-lam-mat/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 148,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02394",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/xe-thue-thung-lop-hay-chet-may-giua-uong-bao-cua-hang-truoc-hay-tu-sua/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 148,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02395",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/xe-thue-bi-mat-cap-viec-can-lam-ngay-va-cach-bao-cho-cua-hang/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/xe-thue-bi-mat-cap-viec-can-lam-ngay-va-cach-bao-cho-cua-hang/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/xe-thue-bi-mat-cap-viec-can-lam-ngay-va-cach-bao-cho-cua-hang/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 142,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02396",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/nhan-xe-thue-buoi-toi-hoac-em-hen-gio-va-kiem-tra-xe-khi-thieu-sang/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/nhan-xe-thue-buoi-toi-hoac-em-hen-gio-va-kiem-tra-xe-khi-thieu-sang/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/nhan-xe-thue-buoi-toi-hoac-em-hen-gio-va-kiem-tra-xe-khi-thieu-sang/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 146,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02397",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/nhan-xe-tay-ga-lan-au-mo-cop-o-xang-chan-chong-nen-nho-chi-nhung-gi/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 147,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02398",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-au/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-au/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/rua-xe-truoc-khi-tra-xe-thue-co-can-khong-va-nen-hoi-gi-tu-au/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 143,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02399",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/so-sanh-bao-gia-hai-cua-hang-thue-xe-may-hoi-gi-e-so-cho-cong-bang/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/so-sanh-bao-gia-hai-cua-hang-thue-xe-may-hoi-gi-e-so-cho-cong-bang/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/so-sanh-bao-gia-hai-cua-hang-thue-xe-may-hoi-gi-e-so-cho-cong-bang/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 147,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02400",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-dip-le-dai-va-tet-at-som-va-hoi-lich-nhan-tra-ra-sao/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 143,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02401",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-theo-thang-thu-tuc-khac-gi-thue-vai-ngay/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-theo-thang-thu-tuc-khac-gi-thue-vai-ngay/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-theo-thang-thu-tuc-khac-gi-thue-vai-ngay/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 149,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    },
+    {
+      "id": "BLG-02402",
+      "url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-theo-thang-khi-nao-can-bao-duong-va-bao-cua-hang-the-nao/",
+      "http": 200,
+      "final_url": "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-theo-thang-khi-nao-can-bao-duong-va-bao-cua-hang-the-nao/",
+      "in_sitemap": true,
+      "canonical": [
+        "https://blog.thuexemaynguyentu.com/thue-xe/2026/10/11/thue-xe-may-theo-thang-khi-nao-can-bao-duong-va-bao-cua-hang-the-nao/"
+      ],
+      "canonical_ok": true,
+      "og_url_ok": true,
+      "description_length": 146,
+      "schema_types": [
+        "Organization",
+        "LocalBusiness",
+        "PostalAddress",
+        "OpeningHoursSpecification",
+        "WebSite",
+        "BlogPosting",
+        "Person",
+        "Organization",
+        "BreadcrumbList",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem",
+        "ListItem"
+      ],
+      "schema_article_present": true
+    }
+  ],
+  "internal_links_checked": 64,
+  "internal_link_failures": [],
+  "drafts_present": 10,
+  "draft_urls_in_sitemap": [],
+  "unpublished_drafts_present": 0,
+  "note": "10 leftover drafts map to PUBLISHED rows; their public published URLs are not unpublished draft leaks."
+}

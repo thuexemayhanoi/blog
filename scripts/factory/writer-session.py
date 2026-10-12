@@ -287,11 +287,17 @@ def parse_matrix(data):
 
 
 def parse_registry_bytes(data):
+    """Registry trên origin -> dict. Hai lỗi KHÁC NHAU, hai lối ra KHÁC NHAU:
+    REGISTRY_CORRUPT (hỏng thật -> repair-registry) và REGISTRY_CONFLICT
+    (đọc được nhưng mơ hồ chủ -> KHÔNG rollback; chờ TTL/coordinator)."""
     if data is None:
         return WC.empty_registry()
     try:
         return WC.parse_registry(data.decode('utf-8'))
-    except WC.RegistryCorrupt as e:
+    except WC.OwnershipConflict as e:
+        raise Refuse('REGISTRY_CONFLICT', '%s — %s' % (e, WC.CONFLICT_HINT),
+                     problems=list(e.problems), hint=WC.CONFLICT_HINT)
+    except (WC.RegistryCorrupt, UnicodeDecodeError) as e:
         raise Refuse('REGISTRY_CORRUPT', '%s — chay: writer-claim.py '
                      'repair-registry --from-git' % e)
 
@@ -1056,6 +1062,9 @@ def cmd_repair_registry(g, a):
                 WC.parse_registry(raw.decode('utf-8'))
                 return {}, '', {'repaired': False,
                                 'note': 'registry hop le — khong can sua'}
+        except WC.OwnershipConflict as e:
+            raise Refuse('REGISTRY_CONFLICT', '%s — %s' % (e, WC.CONFLICT_HINT),
+                         problems=list(e.problems), hint=WC.CONFLICT_HINT)
         except (WC.RegistryCorrupt, UnicodeDecodeError):
             pass
         rows = parse_matrix(read(MATRIX_REL))
@@ -1067,6 +1076,11 @@ def cmd_repair_registry(g, a):
                 continue
             try:
                 reg = WC.parse_registry(data.decode('utf-8'))
+            except WC.OwnershipConflict as e:
+                # ban lich su gan nhat con mo ho chu SONG: khong nhay qua no
+                raise Refuse('REGISTRY_CONFLICT', 'ban %s: %s — %s' % (
+                    sha[:10], e, WC.CONFLICT_HINT),
+                    problems=list(e.problems), hint=WC.CONFLICT_HINT)
             except (WC.RegistryCorrupt, UnicodeDecodeError):
                 continue
             report = WC.prune_registry(reg, rows, time.time())

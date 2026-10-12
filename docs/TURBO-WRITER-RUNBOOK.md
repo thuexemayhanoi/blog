@@ -51,6 +51,15 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 
 ### Hết quota / mất kết nối
 
+Lưu token phiên và slot ở nơi có thể đọc lại trước khi hết quota. Phần đã QA
+PASS có thể push riêng bằng `push --ids ...`; không cần chờ đủ 10 bài.
+Draft chưa hoàn thành/chưa QA phải checkpoint trên branch cá nhân riêng,
+chỉ commit draft của ID mình giữ, không merge vào main. Ghi lại branch +
+slot + session + ID. Lease bảo vệ ownership, **không lưu thay bytes chưa push**.
+Container mới: fetch main, `begin --slot <slot cũ> --session <token cũ>` rồi
+kiểm lease trước khi lấy lại draft từ branch checkpoint; không áp dụng registry
+cũ hoặc cherry-pick cả state. Nếu ID đã PUBLISHED thì dừng sửa ID đó.
+
 Push phần đã xong (≤10) rồi dừng; phần chưa push ở lại trong lease đến khi hết hạn rồi AI khác nhận. Draft ĐÃ push không mất (publisher vẫn publish, kể cả khi lease hết hạn sau đó — selector chỉ cách ly rồi `begin` lại + `confirm` kích lại). Quay lại cùng working copy: `begin --slot <slot cũ>`; bị mất slot: `begin --slot auto` và viết lại phần chưa publish.
 
 ## 4. Giảm deploy lãng phí
