@@ -19,6 +19,18 @@ Lọc bài qua child_id (frontmatter hoặc factory-map), 24 bài/trang, không 
         <li aria-current="page">Trang {{ page.page_num }}</li>
       </ol>
     </nav>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": {{ '/' | absolute_url | jsonify }}},
+        {"@type": "ListItem", "position": 2, "name": "Cẩm nang", "item": {{ '/chu-de/' | absolute_url | jsonify }}},
+        {"@type": "ListItem", "position": 3, "name": {{ tl_child.t | default: page.title | jsonify | replace: '</', '<\/' }}, "item": {{ tl_hub | absolute_url | jsonify }}},
+        {"@type": "ListItem", "position": 4, "name": "Trang {{ page.page_num }}", "item": {{ page.url | absolute_url | jsonify }}}
+      ]
+    }
+    </script>
     <h1>{{ tl_child.t | default: page.title | split: ' - ' | first }}</h1>
     <p class="page-description">Trang {{ page.page_num }} / {{ page.total_pages }}.</p>
     {% assign offset = page.page_num | minus: 1 | times: page.page_size %}

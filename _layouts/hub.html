@@ -5,7 +5,10 @@ layout: default
   <div class="container">
     {% include topic-breadcrumb.html %}
     <h1>{{ page.title | split: ' - ' | first }}</h1>
-    {% if page.description %}
+    {%- comment -%} Không in mô tả hai lần: nhiều trang chủ đề có thân bài trùng đúng câu mô tả. {%- endcomment -%}
+    {%- assign lead_body = content | strip_html | normalize_whitespace | strip -%}
+    {%- assign lead_desc = page.description | default: '' | normalize_whitespace | strip -%}
+    {% if page.description and lead_body != lead_desc %}
     <p class="page-description">{{ page.description }}</p>
     {% endif %}
     {{ content }}

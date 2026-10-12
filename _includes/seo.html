@@ -69,40 +69,63 @@
 {% endif %}
 
 <!-- Schema.org Markup -->
+{%- comment -%}
+  JSON-LD: mọi chuỗi nội suy đều qua `jsonify` (escape " \ xuống dòng) rồi `replace: '</', '<\/'`
+  (jsonify KHÔNG escape "</" — thiếu bước này một giá trị chứa </script> sẽ thoát khỏi khối JSON-LD).
+  priceRange lấy từ _data/pricing.yml (min/max giá ngày đã duyệt); page.price_range vẫn ghi đè được.
+{%- endcomment -%}
+{%- assign ld_site = site.url | append: site.baseurl | append: '/' -%}
+{%- assign ld_name = business.display_name | default: site.title -%}
+{%- assign ld_phone = business.contact.phone_uri | default: '' | remove: 'tel:' -%}
+{%- assign ld_email = business.contact.email | default: site.email | default: '' -%}
+{%- assign ld_logo = '' -%}
+{%- if business.logo -%}{%- assign ld_logo = business.logo | absolute_url -%}{%- endif -%}
+{%- assign ld_pr_min = 0 -%}
+{%- assign ld_pr_max = 0 -%}
+{%- for v in site.data.pricing.vehicles -%}
+  {%- assign ld_day = v.rates.day.min -%}
+  {%- if ld_day -%}
+    {%- if ld_pr_min == 0 or ld_day < ld_pr_min -%}{%- assign ld_pr_min = ld_day -%}{%- endif -%}
+    {%- if ld_day > ld_pr_max -%}{%- assign ld_pr_max = ld_day -%}{%- endif -%}
+  {%- endif -%}
+{%- endfor -%}
+{%- assign ld_price_range = '150000-200000 VND' -%}
+{%- if ld_pr_min > 0 and ld_pr_max > 0 -%}{%- capture ld_price_range -%}{{ ld_pr_min }}-{{ ld_pr_max }} VND{%- endcapture -%}{%- endif -%}
+{%- if page.price_range -%}{%- assign ld_price_range = page.price_range -%}{%- endif -%}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "{{ site.url }}{{ site.baseurl }}/#organization",
-      "name": "{{ business.display_name | default: site.title }}",
-      "description": "{{ site.description }}",
-      {% if business.logo %}
-      "logo": "{{ business.logo | absolute_url }}",
+      "@id": "{{ ld_site }}#organization",
+      "name": {{ ld_name | jsonify | replace: '</', '<\/' }},
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }},
+      {% if ld_logo != '' %}
+      "logo": {{ ld_logo | jsonify }},
       {% endif %}
-      "url": "{{ site.url }}{{ site.baseurl }}/",
-      "telephone": "{{ business.contact.phone_uri | default: '' | remove: 'tel:' }}",
-      "email": "{{ business.contact.email | default: site.email }}"
+      "url": "{{ ld_site }}",
+      "telephone": {{ ld_phone | jsonify }},
+      "email": {{ ld_email | jsonify }}
     },
     {
       "@type": "LocalBusiness",
-      "@id": "{{ site.url }}{{ site.baseurl }}/#localbusiness",
-      "name": "{{ business.display_name | default: site.title }}",
-      "description": "{{ site.description }}",
-      {% if business.logo %}
-      "image": "{{ business.logo | absolute_url }}",
+      "@id": "{{ ld_site }}#localbusiness",
+      "name": {{ ld_name | jsonify | replace: '</', '<\/' }},
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }},
+      {% if ld_logo != '' %}
+      "image": {{ ld_logo | jsonify }},
       {% endif %}
-      "url": "{{ site.url }}{{ site.baseurl }}/",
-      "telephone": "{{ business.contact.phone_uri | default: '' | remove: 'tel:' }}",
-      "email": "{{ business.contact.email | default: site.email }}",
-      "priceRange": "{{ page.price_range | default: '150000-200000 VND' }}",
+      "url": "{{ ld_site }}",
+      "telephone": {{ ld_phone | jsonify }},
+      "email": {{ ld_email | jsonify }},
+      "priceRange": {{ ld_price_range | jsonify | replace: '</', '<\/' }},
       "address": {
         "@type": "PostalAddress",
-        "streetAddress": "{{ business.address.street | default: '' }}",
-        "addressLocality": "{{ business.address.city | default: 'Ha Noi' }}",
-        "addressRegion": "{{ business.address.region | default: 'Ha Noi' }}",
-        "addressCountry": "{{ business.address.country | default: 'Viet Nam' }}"
+        "streetAddress": {{ business.address.street | default: '' | jsonify | replace: '</', '<\/' }},
+        "addressLocality": {{ business.address.city | default: 'Ha Noi' | jsonify | replace: '</', '<\/' }},
+        "addressRegion": {{ business.address.region | default: 'Ha Noi' | jsonify | replace: '</', '<\/' }},
+        "addressCountry": {{ business.address.country | default: 'Viet Nam' | jsonify | replace: '</', '<\/' }}
       },
       "openingHoursSpecification": [
         {
@@ -121,27 +144,35 @@
     },
     {
       "@type": "WebSite",
-      "@id": "{{ site.url }}{{ site.baseurl }}/#website",
-      "url": "{{ site.url }}{{ site.baseurl }}/",
-      "name": "{{ site.title }}",
-      "description": "{{ site.description }}"
+      "@id": "{{ ld_site }}#website",
+      "url": "{{ ld_site }}",
+      "name": {{ site.title | jsonify | replace: '</', '<\/' }},
+      "description": {{ site.description | default: '' | jsonify | replace: '</', '<\/' }}
     }
     {% if page.layout == 'post' %}
     ,
     {
       "@type": "BlogPosting",
-      "@id": "{{ page.url | absolute_url }}#blogposting",
-      "headline": "{{ page.title }}",
-      "description": "{{ page.description | default: page.excerpt | strip_html | truncatewords: 50 }}",
+      "@id": {{ page.url | absolute_url | append: '#blogposting' | jsonify }},
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": {{ page.url | absolute_url | jsonify }}
+      },
+      "headline": {{ page.title | jsonify | replace: '</', '<\/' }},
+      "description": {{ page.description | default: page.excerpt | strip_html | normalize_whitespace | truncatewords: 50 | jsonify | replace: '</', '<\/' }},
+      "inLanguage": {{ page.lang | default: 'vi' | jsonify }},
+      {% if ld_logo != '' %}
+      "image": {{ ld_logo | jsonify }},
+      {% endif %}
       "datePublished": "{{ page.date | date_to_xmlschema }}",
       "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
       "author": {
         "@type": "Person",
-        "name": "{{ page.author | default: site.author }}"
+        "name": {{ page.author | default: site.author | jsonify | replace: '</', '<\/' }}
       },
       "publisher": {
         "@type": "Organization",
-        "@id": "{{ site.url }}{{ site.baseurl }}/#organization"
+        "@id": "{{ ld_site }}#organization"
       }
     }
     {% endif %}

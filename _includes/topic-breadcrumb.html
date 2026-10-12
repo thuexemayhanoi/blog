@@ -1,4 +1,12 @@
+{%- comment -%}
+Breadcrumb cho hub / topic: Trang chủ -> Cẩm nang -> Parent -> (trang hiện tại).
+Trang HUB chính là parent nên KHÔNG lặp parent hai lần. JSON-LD BreadcrumbList sinh từ CÙNG các biến với
+phần hiển thị (khớp 1:1, theo docs/SCHEMA-GEO.md).
+{%- endcomment -%}
 {% assign business = site.data.business %}
+{%- assign tb_title = page.title | split: ' - ' | first | default: site.title -%}
+{%- assign tb_show_parent = false -%}
+{%- if page.parent_id and page.layout != 'hub' -%}{%- assign tb_show_parent = true -%}{%- endif -%}
 <nav class="breadcrumb" aria-label="Đường dẫn">
   <ol>
     <li>
@@ -8,9 +16,22 @@
       </a>
     </li>
     <li><a href="{{ '/chu-de/' | relative_url }}">Cẩm nang</a></li>
-    {% if page.parent_id %}
+    {% if tb_show_parent %}
     <li><a href="{{ page.parent_slug | prepend: '/' | append: '/' | relative_url }}">{{ page.parent_title }}</a></li>
     {% endif %}
-    <li aria-current="page">{{ page.title | split: ' - ' | first }}</li>
+    <li aria-current="page">{{ tb_title }}</li>
   </ol>
 </nav>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {"@type": "ListItem", "position": 1, "name": "Trang chủ", "item": {{ '/' | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 2, "name": "Cẩm nang", "item": {{ '/chu-de/' | absolute_url | jsonify }}}{% if tb_show_parent %},
+    {"@type": "ListItem", "position": 3, "name": {{ page.parent_title | default: tb_title | jsonify | replace: '</', '<\/' }}, "item": {{ page.parent_slug | prepend: '/' | append: '/' | absolute_url | jsonify }}},
+    {"@type": "ListItem", "position": 4, "name": {{ tb_title | jsonify | replace: '</', '<\/' }}, "item": {{ page.url | absolute_url | jsonify }}}{% else %},
+    {"@type": "ListItem", "position": 3, "name": {{ tb_title | jsonify | replace: '</', '<\/' }}, "item": {{ page.url | absolute_url | jsonify }}}{% endif %}
+  ]
+}
+</script>

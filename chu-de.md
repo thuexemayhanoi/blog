@@ -6,8 +6,6 @@ lang: vi
 permalink: /chu-de/
 ---
 
-{% include topic-breadcrumb.html %}
-
 <section class="section page-section">
   <div class="container">
     <h1>Tất cả chủ đề cẩm nang</h1>
