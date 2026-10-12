@@ -80,6 +80,9 @@ def norm(s):
 
 
 def slugify(s):
+    # "đ"/"Đ" không có dạng phân rã NFD => norm() xoá mất ("xe đạp điện" -> "xe-ap-ien"); đổi đ -> d trước.
+    # PHẢI đồng bộ với generate-matrix.py:slugify (G4/G4b dự đoán đúng output_path mà generator sẽ sinh).
+    s = s.replace('đ', 'd').replace('Đ', 'D')
     s = norm(s)
     return re.sub(r'\s+', '-', s)[:80].strip('-')
 
