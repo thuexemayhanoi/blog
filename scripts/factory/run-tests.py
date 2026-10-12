@@ -41,7 +41,7 @@ CI = [
     'test_gate_scope', 'test_workflow_syntax', 'test_agent_integration',
     'test_operator', 'test_publish_gate', 'test_production_watchdog',
     'test_reports_resume', 'test_repair_agent', 'test_supervisor_agent',
-    'test_topic_universe', 'test_legacy_qa_audit',
+    'test_topic_universe', 'test_legacy_qa_audit', 'test_reattest_legacy_qa',
     # refill / publish flow
     'test_refill_safety', 'test_refill_semantics', 'test_refill_drift',
     'test_publish_flow',
