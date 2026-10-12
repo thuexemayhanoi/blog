@@ -429,6 +429,25 @@ class TestRegistryAndCap(DrainBase):
         _, out, _ = self.sel(backlog=True)
         self.assertEqual(out['queue'], [a])
 
+    def test_16d_non_utf8_registry_is_refused_not_a_traceback(self):
+        """Review độc lập: registry byte không phải UTF-8 làm selector crash
+        (rc=1, traceback) thay vì REFUSED có cấu trúc (rc=3, fail-closed)."""
+        a = 'BLG-00174'
+        rel = self.r.draft(a, writer='W1')
+        with open(self.r.path('data/state/writer-claims.json'), 'wb') as f:
+            f.write(b'{"schema_version": "2", "leases": {}, "label": "caf\xe9"}')
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims hong', out['refuse'])
+        self.assertFalse(out['proceed'])
+
+    def test_16e_unknown_slot_key_fails_closed_in_the_selector(self):
+        a = 'BLG-00175'
+        rel = self.r.draft(a, writer='W1')
+        self.r.registry({'W1': lease([a]), 'W4': lease(['BLG-00176'])})
+        _, out, _ = self.sel(added=[rel], rc_expect=3)
+        self.assertIn('registry writer-claims hong', out['refuse'])
+        self.assertFalse(out['proceed'])
+
     def _thirty_planned_plus_late_pass(self):
         ids = ['BLG-%05d' % i for i in range(1, 31)]
         self.r.registry({'W1': lease(ids[:10]), 'W2': lease(ids[10:20]),

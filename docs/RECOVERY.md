@@ -115,7 +115,10 @@ trùng giữa lease sống) → fail-closed, selector không publish, claim/hear
 release không ghi gì. Không rollback về git history để tự chọn chủ và không
 dùng timestamp từ registry ngoài để thay lease đang sống. Chờ TTL hoặc
 coordinator hòa giải với bằng chứng; không tự reset/force/overwrite lease.
-Một ID lặp TRONG CHÍNH một lease (`ids: [A, A]`) chỉ có một chủ nên KHÔNG phải
+Registry sai cấu trúc (khóa slot ngoài W1..W3, lease sống > 10 ID, `epoch`/`ttl_hours`/`label` sai kiểu,
+byte không phải UTF-8) là `REGISTRY_CORRUPT`, không phải conflict: `writer-session.py repair-registry`
+(hoặc `writer-claim.py repair-registry --from-git`) khôi phục bản hợp lệ gần nhất và không lệnh nào
+ghi đè lease sống trước đó. Một ID lặp TRONG CHÍNH một lease (`ids: [A, A]`) chỉ có một chủ nên KHÔNG phải
 `REGISTRY_CONFLICT`: `check-registry` báo `ID lap`, `writer-claim.py prune` (và
 mọi claim/heartbeat) tự bỏ bản lặp, giữ chủ và thứ tự. Release một phần lease
 legacy cũng là nhận lease nên chịu cùng guard "một phiên một slot"

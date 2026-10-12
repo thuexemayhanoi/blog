@@ -401,6 +401,94 @@ class SessionOwnershipTest(unittest.TestCase):
         self.assertEqual(sorted(ids), sorted({a, b}))
         self.assertEqual(WC.check_invariants(self.reg, self.rows, self.now), [])
 
+    # ---- review độc lập (fuzz) trên c2ef32f: registry sửa tay / merge thô ----
+
+    def _three_live(self):
+        reg = WC.empty_registry()
+        for slot, sess in (('W1', 's-one'), ('W2', 's-two'), ('W3', 's-three')):
+            res = WC.apply_claim(reg, self.rows, slot, sess, now=self.now, count=2)
+            self.assertTrue(res['ok'], res)
+        return reg
+
+    def test_slot_key_outside_w1_w3_is_corruption_never_an_eviction(self):
+        """Parse từng nhận khóa lạ ('W4', 'w1', 'W1 ', 'W1\\n'): một heartbeat bình thường
+        rồi cắt MAX_WRITERS và ĐÁ lease SỐNG hợp lệ claim mới nhất (W3), giữ lease 'ma'.
+        Khóa slot lạ phải là REGISTRY_CORRUPT (repair từ git còn dùng được)."""
+        for w in ('W4', 'w1', 'W1 ', 'W1\n', 'W0', ''):
+            with self.subTest(slot=repr(w)):
+                reg = self._three_live()
+                reg['leases'][w] = dict(reg['leases']['W1'], session='s-four',
+                                        ids=[self.rows[30]['id']])
+                with self.assertRaises(WC.RegistryCorrupt) as cm:
+                    WC.parse_registry(json.dumps(reg))
+                self.assertNotIsInstance(cm.exception, WC.OwnershipConflict)
+
+    def test_merge_refuses_a_slot_outside_w1_w3_and_keeps_every_local_lease(self):
+        local = self._three_live()
+        other = WC.empty_registry()
+        other['leases']['W4'] = {'ids': [self.rows[30]['id']], 'session': 's-four',
+                                 'epoch': 1, 'claimed_at': WC._iso(self.now - 4000),
+                                 'expires_at': WC._iso(self.now + 3600)}
+        before = copy.deepcopy(local)
+        with self.assertRaises(WC.RegistryCorrupt):
+            WC.merge_registries(local, other, self.rows)
+        self.assertEqual(local, before, 'W3 (live) không được bị đá khỏi registry')
+
+    def test_live_lease_over_max_lease_is_corruption_but_an_expired_one_is_ignored(self):
+        reg = self._three_live()
+        reg['leases']['W1']['ids'] = [r['id'] for r in self.rows[:WC.MAX_LEASE + 1]]
+        with self.assertRaises(WC.RegistryCorrupt):
+            WC.parse_registry(json.dumps(reg))
+        reg['leases']['W1']['expires_at'] = WC._iso(self.now - 10)
+        WC.parse_registry(json.dumps(reg))          # hết hạn: bị prune, không chặn
+
+    def test_odd_typed_lease_fields_are_corruption_not_a_traceback(self):
+        for key, bad in (('epoch', 'abc'), ('epoch', [1]), ('epoch', True),
+                         ('epoch', 1.5), ('ttl_hours', 'abc'), ('ttl_hours', []),
+                         ('ttl_hours', True), ('ttl_hours', float('nan')),
+                         ('ttl_hours', float('inf')), ('label', 5),
+                         ('label', {}), ('claimed_at', 5), ('heartbeat_at', [])):
+            with self.subTest(field=key, value=repr(bad)):
+                reg = self._three_live()
+                reg['leases']['W1'][key] = bad
+                with self.assertRaises(WC.RegistryCorrupt):
+                    WC.parse_registry(json.dumps(reg))
+
+    def test_lease_without_an_ids_key_is_an_empty_lease_not_a_keyerror(self):
+        reg = self._three_live()
+        reg['leases']['W1'].pop('ids')
+        parsed = WC.parse_registry(json.dumps(reg))
+        self.assertEqual(parsed['leases']['W1']['ids'], [])
+
+    def test_slot_session_and_id_tokens_reject_a_trailing_newline(self):
+        """'$' khớp trước '\\n' cuối: 'W1\\n' lọt qua thành slot thứ hai, 's-a\\n' thành
+        phiên không bao giờ khớp token trong draft (chủ lease bị kẹt)."""
+        self.assertIsNone(WC.SLOT_RE.match('W1\n'))
+        self.assertFalse(WC.valid_session('s-a\n'))
+        self.assertIsNone(WC.ID_RE.match('BLG-00001\n'))
+        reg = WC.empty_registry()
+        res = WC.apply_claim(reg, self.rows, 'W1\n', 's-a', now=self.now, count=1)
+        self.assertEqual(res.get('code'), 'BAD_SLOT', res)
+        res = WC.apply_claim(reg, self.rows, 'W1', 's-a\n', now=self.now, count=1)
+        self.assertEqual(res.get('code'), 'BAD_SESSION', res)
+        self.assertEqual(reg['leases'], {})
+        reg = self._three_live()
+        reg['leases']['W1']['ids'][0] = 'BLG-00001\n'
+        with self.assertRaises(WC.RegistryCorrupt):
+            WC.parse_registry(json.dumps(reg))
+
+    def test_prune_is_linear_in_the_number_of_ids(self):
+        """`a not in set(keep)` dựng lại set cho TỪNG phần tử: 10k ID ~4s, 20k ~26s."""
+        n = 20000
+        rows = [{'id': 'BLG-%05d' % i, 'status': 'PLANNED'} for i in range(1, n + 1)]
+        reg = WC.empty_registry()
+        reg['leases']['W1'] = {'ids': [r['id'] for r in rows], 'session': 's-one',
+                               'epoch': 1, 'claimed_at': WC._iso(self.now),
+                               'expires_at': WC._iso(self.now + 3600)}
+        t0 = time.time()
+        WC.prune_registry(reg, rows, self.now)
+        self.assertLess(time.time() - t0, 3.0, 'prune phải tuyến tính theo số ID')
+
     def _legacy_w2_with_session_on_w1(self):
         """s-one giữ W1; W2 là lease legacy (không session) có >= 2 ID."""
         self.claim('W1', 's-one')
@@ -636,6 +724,82 @@ class WriterClaimTest(FxTestCase):
         self.assertEqual(after['session'], reg['leases']['W1']['session'])
         rc, out, so, se = wc(self.fx, 'check-registry')
         self.assertEqual(rc, 0, (so, se))
+
+    def test_non_utf8_registry_is_corrupt_for_every_command(self):
+        """Review độc lập: registry byte không phải UTF-8 là UnicodeDecodeError
+        traceback ở CLI/validate/selector (docs hứa REGISTRY_CORRUPT có cấu trúc)."""
+        self.planned(4)
+        path = os.path.join(self.fx, REG)
+        with open(path, 'wb') as f:
+            f.write(b'{"schema_version": "2", "leases": {"W1": {"ids": [], '
+                    b'"label": "caf\xe9"}}}')
+        before = _hash(path)
+        for args in (['check-registry'], ['show'], ['status'], ['prune'],
+                     ['claim', '--writer', 'W1', '--count', '1'],
+                     ['heartbeat', '--writer', 'W1'],
+                     ['release', '--writer', 'W1', '--all'],
+                     ['repair-registry']):
+            rc, out, so, se = wc(self.fx, *args)
+            self.assertEqual(rc, 1, (args, so, se))
+            self.assertEqual(out.get('code'), 'REGISTRY_CORRUPT', (args, so, se))
+            self.assertNotIn('Traceback', se, (args, se))
+        self.assertEqual(_hash(path), before, 'lệnh bị từ chối không được ghi registry')
+
+    def _history(self):
+        """v1 hợp lệ (W1+W2) đã commit; trả (path, registry v1)."""
+        self.planned(8)
+        path = os.path.join(self.fx, REG)
+        if os.path.exists(path):
+            os.remove(path)
+        wc(self.fx, 'claim', '--writer', 'W1', '--count', '2')
+        wc(self.fx, 'claim', '--writer', 'W2', '--count', '2')
+        self._git('init', '-q')
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v1 valid')
+        return path, self.reg()
+
+    def test_repair_from_git_skips_a_non_utf8_historical_version(self):
+        path, good = self._history()
+        with open(path, 'wb') as f:
+            f.write(b'{"schema_version": "2", "leases": {}, "note": "caf\xe9"}')
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v2 invalid utf8')
+        with open(path, 'w') as f:
+            f.write('{"schema_version": "2", "leases": {')
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v3 truncated (HEAD)')
+        rc, out, so, se = wc(self.fx, 'repair-registry', '--from-git')
+        self.assertEqual(rc, 0, (so, se))
+        self.assertTrue(out.get('source', '').startswith('git:'), out)
+        self.assertEqual(sorted(self.reg()['leases']), ['W1', 'W2'])
+        self.assertEqual(self.reg()['leases']['W1']['ids'], good['leases']['W1']['ids'])
+
+    def test_unknown_slot_key_is_corruption_and_never_evicts_a_live_lease(self):
+        """Review độc lập: khóa 'W4' được nhận, heartbeat của W1 cắt MAX_WRITERS
+        và ĐÁ lease sống W3 (claim mới nhất). Giờ: REGISTRY_CORRUPT, không ghi gì,
+        `repair-registry --from-git` khôi phục bản tốt gần nhất với W1/W2 nguyên vẹn."""
+        path, good = self._history()
+        wc(self.fx, 'claim', '--writer', 'W3', '--count', '2')
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v2 with W3')
+        reg = self.reg()
+        reg['leases']['W4'] = dict(reg['leases']['W1'], session='s-ghost',
+                                   ids=[self.planned(30)[-1]],
+                                   claimed_at='2026-01-01T00:00:00Z')
+        with open(path, 'w') as f:
+            json.dump(reg, f)
+        self._git('add', REG)
+        self._git('commit', '-q', '-m', 'v3 bogus W4')
+        before = _hash(path)
+        for args in (['check-registry'], ['status'],
+                     ['heartbeat', '--writer', 'W1'], ['prune']):
+            rc, out, so, se = wc(self.fx, *args)
+            self.assertEqual(rc, 1, (args, so, se))
+            self.assertEqual(out.get('code'), 'REGISTRY_CORRUPT', (args, so, se))
+        self.assertEqual(_hash(path), before, 'không lệnh nào được ghi registry')
+        rc, out, so, se = wc(self.fx, 'repair-registry', '--from-git')
+        self.assertEqual(rc, 0, (so, se))
+        self.assertEqual(sorted(self.reg()['leases']), ['W1', 'W2', 'W3'])
 
     def test_release_cli_cannot_give_a_session_two_live_slots(self):
         """Codex P2 (vòng 3): đường trực tiếp tài liệu hóa

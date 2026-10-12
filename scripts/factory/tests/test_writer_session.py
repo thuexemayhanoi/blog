@@ -1017,6 +1017,42 @@ class TestRegistryConflictBoundary(SessionBase):
         self.assertTrue(out.get('problems'))
         self.assertEqual(self.sim.origin_head(), head)
 
+    def test_79_unknown_slot_key_is_corruption_not_an_eviction(self):
+        """Review độc lập: khóa 'W4' được nhận; một heartbeat bình thường của W1
+        cắt MAX_WRITERS và ĐÁ lease SỐNG W3 (claim mới nhất) khỏi origin. Giờ:
+        REGISTRY_CORRUPT ở mọi lệnh, origin không đổi; `repair-registry` khôi
+        phục bản tốt gần nhất — W1/W2/W3 nguyên vẹn, không có 'ma' W4."""
+        for n, slot in (('a', 'W1'), ('b', 'W2'), ('c', 'W3')):
+            self.sim.clone(n)
+            self.begin(n, '--slot', slot, '--count', '2')
+        good = self.sim.origin_registry()
+        self.sim.edit_registry(lambda reg: reg['leases'].update(
+            W4=dict(reg['leases']['W1'], session='s-ghost', ids=['BLG-00110'])))
+        head = self.sim.origin_head()
+        for clone, args in (('a', ['status']), ('a', ['heartbeat']),
+                            ('c', ['heartbeat']), ('a', ['check'])):
+            r, out = self.run_cmd(clone, *args)
+            tag = (clone, args, r.stdout, r.stderr)
+            self.assertEqual(r.returncode, 1, tag)
+            self.assertEqual(out['code'], 'REGISTRY_CORRUPT', tag)
+        self.assertEqual(self.sim.origin_head(), head, 'lệnh bị từ chối không được ghi origin')
+        r, out = self.run_cmd('a', 'repair-registry')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        reg = self.sim.origin_registry()
+        self.assertEqual(sorted(reg['leases']), ['W1', 'W2', 'W3'])
+        self.assertEqual(reg['leases']['W3']['ids'], good['leases']['W3']['ids'])
+        r, out = self.run_cmd('c', 'heartbeat')
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
+    def test_80_lease_without_ids_key_does_not_crash_begin(self):
+        """Review độc lập: lease sống thiếu khóa `ids` làm `begin` KeyError."""
+        self.sim.clone('a')
+        self.begin('a', '--slot', 'W1', '--count', '2')
+        self.sim.edit_registry(lambda reg: reg['leases']['W1'].pop('ids'))
+        r, out = self.run_cmd('a', 'begin', '--slot', 'W1', '--count', '2')
+        self.assertNotIn('Traceback', r.stderr, r.stderr)
+        self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+
     def test_78_empty_lease_sharing_a_session_is_not_a_conflict(self):
         """Codex P2: lease rỗng (không giữ việc gì) cùng session với lease khác
         không được làm mọi lệnh REGISTRY_CONFLICT."""
