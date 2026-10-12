@@ -107,7 +107,7 @@ def links_summary(rend, a, is_post):
     keep = []
     if is_post:
         keep.append('keep: breadcrumb x%d (hub+topic), TOC x%d, prev/next x%d, related x%d, CTA->/bang-gia/ x%d, body x%d' % (
-            reg.get('breadcrumb', 0), reg.get('toc', 0), reg.get('prev_next', 0), reg.get('related', 0), reg.get('cta', 0),
+            reg.get('breadcrumb', 0), rend.get('toc_entries', 0), reg.get('prev_next', 0), reg.get('related', 0), reg.get('cta', 0),
             reg.get('article_body', 0)))
     else:
         keep.append('keep: breadcrumb x%d, main x%d' % (reg.get('breadcrumb', 0), reg.get('main_other', 0)))
