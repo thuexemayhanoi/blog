@@ -5,6 +5,8 @@ import importlib.util
 import json
 import os
 import pathlib
+import shutil
+import subprocess
 import sys
 import tempfile
 import unittest
@@ -76,6 +78,65 @@ class LegacyEvidenceTest(unittest.TestCase):
         self.classification()
         self.decision(self.fresh)
         self.assertEqual((self.ev, self.fresh, self.row), before)
+
+
+def _git(cwd, *args):
+    r = subprocess.run(['git', '-c', 'commit.gpgsign=false', '-c', 'user.name=t',
+                        '-c', 'user.email=t@t'] + list(args), cwd=cwd,
+                       capture_output=True, text=True)
+    assert r.returncode == 0, r.stderr
+    return r.stdout
+
+
+class DirtyTreeTest(unittest.TestCase):
+    """Codex P2 (vòng 7): `head` chỉ gắn được với kết quả khi các đầu vào (matrix, bài,
+    evidence, scorer, business facts, taxonomy) đọc từ cây làm việc KHỚP HEAD."""
+
+    def setUp(self):
+        self.d = tempfile.mkdtemp(prefix='audit-dirty-')
+        self.addCleanup(shutil.rmtree, self.d, ignore_errors=True)
+        os.makedirs(os.path.join(self.d, 'scripts/factory'))
+        shutil.copy(SCRIPT, os.path.join(self.d, 'scripts/factory/audit-legacy-qa.py'))
+        os.makedirs(os.path.join(self.d, 'data'))
+        with open(os.path.join(self.d, 'data/x.txt'), 'w') as f:
+            f.write('v1\n')
+        _git(self.d, 'init', '-q')
+        _git(self.d, 'add', '-A')
+        _git(self.d, 'commit', '-q', '-m', 'base')
+
+    def test_dirty_inputs_reports_tracked_changes_and_untracked_inputs_only(self):
+        self.assertEqual(A.dirty_inputs(self.d), [])
+        with open(os.path.join(self.d, 'data/x.txt'), 'w') as f:
+            f.write('v2\n')
+        self.assertTrue(any('data/x.txt' in line for line in A.dirty_inputs(self.d)))
+        _git(self.d, 'checkout', '-q', '--', 'data/x.txt')
+        self.assertEqual(A.dirty_inputs(self.d), [])
+        os.makedirs(os.path.join(self.d, '_posts'))
+        with open(os.path.join(self.d, '_posts/new.md'), 'w') as f:
+            f.write('x')
+        with open(os.path.join(self.d, 'notes.txt'), 'w') as f:
+            f.write('outside the input directories')
+        listed = A.dirty_inputs(self.d)
+        self.assertTrue(any('_posts/new.md' in line for line in listed), listed)
+        self.assertFalse(any('notes.txt' in line for line in listed), listed)
+
+    def test_cli_refuses_a_dirty_tree_before_reading_any_input(self):
+        with open(os.path.join(self.d, 'data/x.txt'), 'w') as f:
+            f.write('edited after the checkout\n')
+        r = subprocess.run([sys.executable, os.path.join(self.d, 'scripts/factory/audit-legacy-qa.py'),
+                            '--baseline', 'HEAD', '--rescore-stale'],
+                           cwd=self.d, capture_output=True, text=True)
+        self.assertEqual(r.returncode, 1, r.stdout + r.stderr)
+        out = json.loads(r.stdout)
+        self.assertEqual(out['code'], 'DIRTY_TREE')
+        self.assertTrue(out['dirty'])
+        self.assertNotIn('Traceback', r.stderr)
+        # --allow-dirty is the explicit opt-out: it is not refused as DIRTY_TREE (it then
+        # fails on the missing matrix of this toy repo, which proves nothing was read before)
+        r = subprocess.run([sys.executable, os.path.join(self.d, 'scripts/factory/audit-legacy-qa.py'),
+                            '--baseline', 'HEAD', '--allow-dirty'],
+                           cwd=self.d, capture_output=True, text=True)
+        self.assertNotIn('DIRTY_TREE', r.stdout)
 
 
 class RealScorerTest(FxTestCase):

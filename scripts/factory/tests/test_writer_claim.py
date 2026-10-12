@@ -501,6 +501,71 @@ class SessionOwnershipTest(unittest.TestCase):
                 with self.assertRaises(WC.OwnershipConflict):
                     WC.parse_registry(json.dumps(reg))
 
+    def test_classification_matrix_conflict_beats_every_repairable_error(self):
+        """Codex P2 (vòng 6-7): MỌI cặp (tranh chấp chủ SỐNG chứng minh được) x (lỗi cấu
+        trúc sửa được) là REGISTRY_CONFLICT. Phân tích tranh chấp chạy trên dữ liệu NHẬN
+        DIỆN ĐƯỢC nên một thành viên hỏng (ID sai dạng, token session hỏng...) không che
+        được nó, và repair không bao giờ khôi phục bản cũ làm mất lease đang tranh chấp."""
+        first = lambda reg: reg['leases']['W1']['ids'][0]
+        conflicts = {
+            'ID dung chung': lambda reg: reg['leases']['W2']['ids'].append(first(reg)),
+            'session dung chung': lambda reg: reg['leases']['W2'].update(
+                session=reg['leases']['W1']['session']),
+        }
+        anomalies = {
+            'ID anh em sai dinh dang': lambda reg: reg['leases']['W1']['ids'].append('bad-id'),
+            'ID anh em khong phai chuoi': lambda reg: reg['leases']['W1']['ids'].append(['x']),
+            'epoch sai kieu': lambda reg: reg['leases']['W1'].update(epoch='abc'),
+            'ttl khong huu han': lambda reg: reg['leases']['W1'].update(ttl_hours=10 ** 1000),
+            'label sai kieu': lambda reg: reg['leases']['W2'].update(label=5),
+            'vuot MAX_LEASE': lambda reg: reg['leases']['W3']['ids'].extend(
+                r['id'] for r in self.rows[10:10 + WC.MAX_LEASE]),
+            'khoa slot la': lambda reg: reg['leases'].update(
+                W4=dict(reg['leases']['W3'], session='s-four', ids=[self.rows[35]['id']])),
+            'token session hong o lease thu ba': lambda reg: reg['leases']['W3'].update(
+                session='bad session!'),
+            'session khong phai chuoi o lease thu ba': lambda reg: reg['leases']['W3'].update(
+                session=5),
+        }
+        for c_label, conflict in conflicts.items():
+            for a_label, anomaly in anomalies.items():
+                with self.subTest(conflict=c_label, anomaly=a_label):
+                    reg = self._three_live()
+                    conflict(reg)
+                    anomaly(reg)
+                    with self.assertRaises(WC.OwnershipConflict):
+                        WC.parse_registry(json.dumps(reg))
+
+    def test_shared_malformed_session_is_corruption_not_a_conflict(self):
+        """Codex P2 (vòng 7): hai lease sống cùng một token HỎNG không có chủ hợp lệ nào
+        tranh nhau: REGISTRY_CORRUPT (repair --from-git dùng được); một tranh chấp ID hợp
+        lệ độc lập vẫn thắng."""
+        reg = self._three_live()
+        for w in ('W1', 'W2'):
+            reg['leases'][w]['session'] = 'bad session!'
+        with self.assertRaises(WC.RegistryCorrupt) as cm:
+            WC.parse_registry(json.dumps(reg))
+        self.assertNotIsInstance(cm.exception, WC.OwnershipConflict)
+        reg['leases']['W3']['ids'].append(reg['leases']['W1']['ids'][0])
+        with self.assertRaises(WC.OwnershipConflict):
+            WC.parse_registry(json.dumps(reg))
+
+    def test_expired_lease_members_are_sanitized_not_validated(self):
+        """Codex P2 (vòng 7): lease HẾT HẠN là vật bỏ: trường hỏng trong đó không được
+        chặn cả registry (ép khôi phục từ git history có thể làm mất lease SỐNG mới hơn).
+        Parse chuẩn hóa kiểu rồi prune xóa; claim/takeover slot đó không crash."""
+        reg = self._three_live()
+        dead = reg['leases']['W1']
+        dead.update(expires_at=WC._iso(self.now - 10), epoch='abc', ttl_hours='abc',
+                    label=5, claimed_at=5, heartbeat_at=[], session=5)
+        dead['ids'] = dead['ids'] + ['bad-id', ['x']]
+        parsed = WC.parse_registry(json.dumps(reg))
+        WC.check_invariants(parsed, self.rows, self.now)      # không crash
+        res = WC.apply_claim(parsed, self.rows, 'W1', 's-new', count=1, now=self.now)
+        self.assertTrue(res['ok'], res)
+        self.assertEqual(parsed['leases']['W1']['session'], 's-new')
+        self.assertEqual(sorted(parsed['leases']), ['W1', 'W2', 'W3'])
+
     def test_oversized_integer_ttl_is_corruption_not_an_overflow(self):
         """Codex P2 (vòng 5): số nguyên JSON quá lớn cho double làm math.isfinite raise
         OverflowError (traceback, repair --from-git cũng chết) thay vì RegistryCorrupt."""

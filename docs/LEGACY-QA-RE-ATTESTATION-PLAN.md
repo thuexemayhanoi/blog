@@ -42,7 +42,10 @@ python3 scripts/factory/audit-legacy-qa.py --baseline 1b55bd810aac85dc919eb2a43d
 python3 scripts/factory/validate.py --scope full
 ```
 
-The audit emits JSON to stdout only. It cannot promote, write QA, or set PASS.
+The audit emits JSON to stdout only. It cannot promote, write QA, or set PASS. Run it on a clean
+checkout of the commit you cite: it reads the matrix, posts, QA evidence, scorer, business facts and
+taxonomy from the working tree, so it refuses a tree that differs from `HEAD` (`DIRTY_TREE`;
+`--allow-dirty` is the explicit opt-out and marks the output `head_bound: false`).
 `--rescore-stale` calls `factory-operator.py qa_check_one` on each actual post,
 using the actual current corpus, taxonomy, business facts and unchanged 75/70
 thresholds. It does not call `op_qa`, publish, prepare-next or recovery.

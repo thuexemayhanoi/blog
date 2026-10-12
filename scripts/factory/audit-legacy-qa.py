@@ -16,6 +16,7 @@ import os
 import pathlib
 import re
 import subprocess
+import sys
 
 ROOT = pathlib.Path(__file__).resolve().parents[2]
 FP_FIELDS = ('title', 'intent', 'primary_keyword', 'expected_url',
@@ -105,6 +106,27 @@ def classify(row, current, evidence, old_row=None, old_bytes=None, old_ev=None):
     return result
 
 
+# Directories whose untracked files can change what the audit reads (matrix, posts,
+# QA evidence, scorer, business facts, taxonomy, drafts used by uniqueness checks).
+INPUT_DIRS = ('_posts', '_drafts', 'data', 'scripts', '_data', '_includes', '_layouts')
+
+
+def dirty_inputs(root=ROOT):
+    """Paths whose working-tree state differs from the checked-out HEAD: any tracked
+    modification/deletion, plus untracked files inside the input directories. The audit
+    reads the matrix, posts, QA evidence, scorer, business facts and taxonomy from the
+    working tree, so a result is only attributable to `head` when this list is empty."""
+    tracked = subprocess.check_output(
+        ['git', 'status', '--porcelain', '--untracked-files=no'], cwd=root, text=True)
+    untracked = subprocess.check_output(
+        ['git', 'status', '--porcelain', '--untracked-files=all', '--'] + list(INPUT_DIRS),
+        cwd=root, text=True)
+    out = [line for line in tracked.splitlines() if line.strip()]
+    out += [line for line in untracked.splitlines()
+            if line.startswith('??') and line not in out]
+    return out
+
+
 def rescore_published(op, row, rows, biz, tax):
     """Read actual _posts bytes through the SAME scorer; never invoke op_qa.
 
@@ -160,11 +182,22 @@ def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--baseline', required=True)
     parser.add_argument('--rescore-stale', action='store_true')
+    parser.add_argument('--allow-dirty', action='store_true',
+                        help='run on a modified working tree (output then says head_bound: false)')
     args = parser.parse_args()
     baseline = subprocess.check_output(
         ['git', 'rev-parse', '--verify', args.baseline + '^{commit}'], cwd=ROOT,
         text=True).strip()
     head = subprocess.check_output(['git', 'rev-parse', 'HEAD'], cwd=ROOT, text=True).strip()
+    dirty = dirty_inputs()
+    if dirty and not args.allow_dirty:
+        # The JSON names `head`; with a modified matrix/post/evidence/scorer/facts the
+        # numbers would be attributed to a commit that never contained those inputs.
+        print(json.dumps({'ok': False, 'code': 'DIRTY_TREE', 'head': head,
+                          'error': 'working tree differs from HEAD; audit a clean checkout '
+                                   '(or pass --allow-dirty, which marks head_bound: false)',
+                          'dirty': dirty[:20], 'dirty_count': len(dirty)}, indent=2))
+        return 1
     rows = list(csv.DictReader((ROOT / 'data/content-matrix.csv').open(encoding='utf-8')))
     history = historical_blobs(baseline)
     old_rows = {r['id']: r for r in csv.DictReader(io.StringIO(
@@ -197,7 +230,7 @@ def main():
                 result['classification'], fresh, current, row, op.QUALITY_MIN, op.SEO_MIN)
         results.append(result)
     output = {'audit_only': True, 're_attestation_authorized': False,
-              'head': head, 'baseline_commit': baseline,
+              'head': head, 'head_bound': not dirty, 'baseline_commit': baseline,
               'matrix_sha256': sha((ROOT / 'data/content-matrix.csv').read_bytes()),
               'migration_rule': '04d46bef v3: OLD_BASE replacement + bounded /blog/ prefix removal',
               'published_count': len(results),
@@ -208,7 +241,8 @@ def main():
                                                            for r in results)),
               'articles': results}
     print(json.dumps(output, ensure_ascii=False, indent=2))
+    return 0
 
 
 if __name__ == '__main__':
-    main()
+    sys.exit(main())

@@ -228,18 +228,45 @@ def empty_registry():
             'leases': {}}
 
 
+def _sanitize_expired(l):
+    """Lease HET HAN la vat bo (prune xoa no truoc khi dung): KHONG validate thanh vien
+    — mot truong hong o do khong duoc chan ca registry (ep khoi phuc tu git history,
+    co the lam mat lease SONG moi hon). Chi chuan hoa kieu de moi noi doc lease truoc
+    prune (check_invariants, claim doc epoch cu, resume ID cu...) khong crash."""
+    ids = l.get('ids')
+    l['ids'] = ([a for a in ids if isinstance(a, str) and ID_RE.match(a)]
+                if isinstance(ids, list) else [])
+    ep = l.get('epoch')
+    if ep is not None and (isinstance(ep, bool) or not isinstance(ep, int)):
+        l['epoch'] = None
+    tt = l.get('ttl_hours')
+    if tt is not None:
+        try:
+            ok = (not isinstance(tt, bool) and isinstance(tt, (int, float))
+                  and math.isfinite(tt))
+        except OverflowError:
+            ok = False
+        if not ok:
+            l['ttl_hours'] = None
+    for key in ('label', 'claimed_at', 'heartbeat_at', 'session'):
+        v = l.get(key)
+        if v is not None and not isinstance(v, str):
+            l[key] = None
+
+
 def parse_registry(text):
     """Parse + kiểm cấu trúc; raise RegistryCorrupt (KHÔNG trả rỗng).
 
-    HAI PHA, để phân loại không bao giờ rollback nhầm lease SỐNG đang tranh chấp:
-      1. hình dạng TỐI THIỂU đủ để phát hiện tranh chấp chủ (lease là object,
-         `ids` là list ID hợp lệ, `expires_at` đọc được, session của lease sống là
-         chuỗi) rồi `require_live_ownership` -> OwnershipConflict (REGISTRY_CONFLICT:
-         chờ TTL/coordinator, KHÔNG repair/rollback);
-      2. lỗi cấu trúc SỬA ĐƯỢC (khóa slot lạ, vượt MAX_LEASE, kiểu trường, token
-         session hỏng) -> RegistryCorrupt (`repair-registry --from-git`).
-    Registry vừa tranh chấp vừa có lỗi pha 2 là REGISTRY_CONFLICT: repair khôi phục
-    bản cũ sẽ âm thầm làm mất lease đang tranh chấp."""
+    THỨ TỰ phân loại (để không bao giờ rollback nhầm lease SỐNG đang tranh chấp):
+      1. hình dạng tối thiểu: lease là object, `expires_at` đọc được (biết lease
+         sống hay chết); lease HẾT HẠN chỉ được chuẩn hóa kiểu (vật bỏ, prune xóa);
+      2. TRANH CHẤP chủ, phân tích trên dữ liệu NHẬN DIỆN ĐƯỢC của lease sống (ID
+         đúng định dạng, session hợp lệ) -> OwnershipConflict (REGISTRY_CONFLICT:
+         chờ TTL/coordinator, KHÔNG repair/rollback) — kể cả khi cùng lúc có lỗi
+         cấu trúc sửa được, vì repair khôi phục bản cũ sẽ âm thầm mất lease đó;
+      3. lỗi cấu trúc SỬA ĐƯỢC của lease SỐNG (ID sai dạng, khóa slot lạ, vượt
+         MAX_LEASE, kiểu trường, token session hỏng) -> RegistryCorrupt
+         (`repair-registry --from-git`)."""
     try:
         d = json.loads(text)
     except Exception as e:
@@ -249,17 +276,10 @@ def parse_registry(text):
         raise RegistryCorrupt('registry sai cau truc: thieu object "leases"')
     now = time.time()
     live_of = {}
-    # ---- pha 1: hinh dang toi thieu de phat hien tranh chap chu ----
     for w, l in d['leases'].items():
         if not isinstance(l, dict):
             raise RegistryCorrupt('lease %s sai cau truc (khong phai object)'
                                   % w)
-        if not isinstance(l.get('ids', []), list):
-            raise RegistryCorrupt('lease %s: "ids" khong phai list' % w)
-        bad = [a for a in l.get('ids', [])
-               if not (isinstance(a, str) and ID_RE.match(a))]
-        if bad:
-            raise RegistryCorrupt('lease %s: ID khong hop le %r' % (w, bad[:3]))
         exp = l.get('expires_at')
         if exp not in (None, '') and _parse_ts(exp) is None:
             # timestamp hỏng KHÔNG được coi là "đã chết" (sẽ làm lease sống
@@ -267,15 +287,19 @@ def parse_registry(text):
             raise RegistryCorrupt('lease %s: expires_at khong phan tich duoc '
                                   '(%r)' % (w, exp))
         live_of[w] = _epoch_of(exp or '') >= now
-        sess = l.get('session')
-        if live_of[w] and sess is not None and not isinstance(sess, str):
-            raise RegistryCorrupt('lease %s: session khong phai chuoi (%r)'
-                                  % (w, str(sess)[:40]))
+        if not live_of[w]:
+            _sanitize_expired(l)
     d.setdefault('schema_version', '1')
-    require_live_ownership(d)
-    # ---- pha 2: loi cau truc SUA DUOC (repair-registry --from-git) ----
+    require_live_ownership(d, now)
     for w, l in d['leases'].items():
-        live = live_of[w]
+        if not live_of[w]:
+            continue
+        if not isinstance(l.get('ids', []), list):
+            raise RegistryCorrupt('lease %s: "ids" khong phai list' % w)
+        bad = [a for a in l.get('ids', [])
+               if not (isinstance(a, str) and ID_RE.match(a))]
+        if bad:
+            raise RegistryCorrupt('lease %s: ID khong hop le %r' % (w, bad[:3]))
         # kieu cac truong con lai: sai kieu (sua tay) lam claim/heartbeat crash
         # (int()/float()/[:80]) va repair khong don duoc -> corrupt, co cau truc
         ep = l.get('epoch')
@@ -298,7 +322,7 @@ def parse_registry(text):
             v = l.get(key)
             if v is not None and not isinstance(v, str):
                 raise RegistryCorrupt('lease %s: %s khong phai chuoi' % (w, key))
-        if live and not (isinstance(w, str) and SLOT_RE.match(w)):
+        if not (isinstance(w, str) and SLOT_RE.match(w)):
             # khoa slot la khoa GAN NGUOI (typo W4 / w1 / 'W1 ' / 'W1\n'): nhan
             # lease SONG voi khoa la thi prune (vuot MAX_WRITERS: "nguoi den sau
             # thua") se bo lease SONG hop le claim moi nhat de giu lease "ma" ->
@@ -307,7 +331,7 @@ def parse_registry(text):
             raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
                                   % str(w)[:20])
         distinct = len(set(l.get('ids', [])))
-        if live and distinct > MAX_LEASE:
+        if distinct > MAX_LEASE:
             # lease SONG vuot MAX_LEASE ID KHAC NHAU: chu lease bi LEASE_FULL ke
             # ca count=0, prune khong cat -> corrupt (sua tu git history), khong
             # ket toi TTL. Dem ID PHAN BIET: ID lap trong lease la mot chu, prune
@@ -316,10 +340,9 @@ def parse_registry(text):
                                   % (w, distinct, MAX_LEASE))
         l.setdefault('ids', [])         # khong co khoa ids = lease rong (se bi prune)
         sess = l.get('session')
-        if sess is not None and not valid_session(sess) and live:
-            # token hong KHONG phai hai chu tranh nhau: la REGISTRY_CORRUPT
-            # (de `repair-registry --from-git` con dung duoc). Lease het han
-            # se bi prune nen bo qua.
+        if sess is not None and not valid_session(sess):
+            # token hong (hoac khong phai chuoi) KHONG phai hai chu tranh nhau: la
+            # REGISTRY_CORRUPT (de `repair-registry --from-git` con dung duoc).
             raise RegistryCorrupt('lease %s: session khong hop le (%r)'
                                   % (w, str(sess)[:40]))
     return d
@@ -477,6 +500,16 @@ def _live_leases(reg, now=None):
     return out
 
 
+def _recognizable_ids(lease):
+    """ID NHAN DIEN DUOC cua lease (chuoi dung dinh dang). Phan tich tranh chap chu
+    chi dung phan nay: mot thanh vien hong khong lam crash va khong che mat mot tranh
+    chap co the chung minh bang cac ID/session con lai."""
+    ids = lease.get('ids') if isinstance(lease, dict) else None
+    if not isinstance(ids, list):
+        return []
+    return [a for a in ids if isinstance(a, str) and ID_RE.match(a)]
+
+
 def live_conflicts(reg, now=None):
     """{article_id: [slot, ...]} cho ID bị GIỮ BỞI >= 2 lease còn sống. Registry
     như vậy mơ hồ về chủ sở hữu (merge git thô của hai writer): người gọi
@@ -488,7 +521,7 @@ def live_conflicts(reg, now=None):
     for w, l in reg['leases'].items():
         if not isinstance(l, dict) or _epoch_of(l.get('expires_at', '')) < now:
             continue
-        for a in dict.fromkeys(l.get('ids', [])):
+        for a in dict.fromkeys(_recognizable_ids(l)):
             held.setdefault(a, []).append(w)
     return {a: sorted(ws) for a, ws in held.items() if len(ws) > 1}
 
@@ -501,12 +534,15 @@ def live_ownership_problems(reg, now=None):
     sessions = {}
     for w, lease in reg['leases'].items():
         # lease het han / RONG khong giu viec gi (se bi prune): khong tinh vao
-        # "mot phien giu nhieu slot". Token session hong la REGISTRY_CORRUPT
-        # (parse_registry), khong phai tranh chap chu.
-        if _epoch_of(lease.get('expires_at', '')) < now or not lease.get('ids'):
+        # "mot phien giu nhieu slot". Token session HONG (hoac khong phai chuoi) la
+        # REGISTRY_CORRUPT (parse_registry), khong phai tranh chap chu: khong co
+        # chu hop le nao tranh nhau.
+        if not isinstance(lease, dict) \
+                or _epoch_of(lease.get('expires_at', '')) < now \
+                or not _recognizable_ids(lease):
             continue
         s = lease.get('session')
-        if s:
+        if isinstance(s, str) and valid_session(s):
             sessions.setdefault(s, []).append(w)
     problems.extend('session %s giu nhieu slot %s' % (s, ','.join(sorted(ws)))
                     for s, ws in sorted(sessions.items()) if len(ws) > 1)
