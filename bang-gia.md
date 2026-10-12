@@ -44,19 +44,19 @@ Xe số là nhóm xe vận hành bằng hộp số tay, phổ biến nhất tạ
         {% if vehicle.rates.day.min %}
         <div class="price-item">
           <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}</span>
         </div>
         {% endif %}
         {% if vehicle.rates.week.min %}
         <div class="price-item">
           <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
         </div>
         {% endif %}
         {% if vehicle.rates.month.min %}
         <div class="price-item">
           <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
         </div>
         {% endif %}
       </div>
@@ -85,19 +85,19 @@ Xe tay ga sử dụng hộp số tự động, chỉ cần vặn ga là xe chạ
         {% if vehicle.rates.day.min %}
         <div class="price-item">
           <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{{ vehicle.rates.day.min }} - {{ vehicle.rates.day.max | default: vehicle.rates.day.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}</span>
         </div>
         {% endif %}
         {% if vehicle.rates.week.min %}
         <div class="price-item">
           <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
         </div>
         {% endif %}
         {% if vehicle.rates.month.min %}
         <div class="price-item">
           <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
         </div>
         {% endif %}
       </div>
@@ -126,14 +126,12 @@ Chi tiết tại trang [thuê xe máy điện Hà Nội]({{ '/bang-gia-xe-dien/'
 
 ## Loại hình thuê
 
-<div class="rental-types">
+{% comment %} Hình thức thuê lấy từ _data/pricing.yml (rental_types chỉ có tên, không có mô tả): in danh sách thay vì H4 + đoạn rỗng (nhảy cấp H2->H4). {% endcomment %}
+<ul class="rental-types">
   {% for rental in pricing.rental_types %}
-  <div class="rental-type">
-    <h4>{{ rental.name }}</h4>
-    <p>{{ rental.description }}</p>
-  </div>
+  <li class="rental-type"><strong>{{ rental.name }}</strong>{% if rental.description %}: {{ rental.description }}{% endif %}</li>
   {% endfor %}
-</div>
+</ul>
 
 ## Tiền đặt cọc
 

@@ -33,19 +33,19 @@ Mức giá tham khảo hiện hành:
         {% if vehicle.rates.day.min %}
         <div class="price-item">
           <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{{ vehicle.rates.day.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min %}</span>
         </div>
         {% endif %}
         {% if vehicle.rates.week.min %}
         <div class="price-item">
           <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{{ vehicle.rates.week.min }} - {{ vehicle.rates.week.max | default: vehicle.rates.week.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
         </div>
         {% endif %}
         {% if vehicle.rates.month.min %}
         <div class="price-item">
           <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{{ vehicle.rates.month.min }} - {{ vehicle.rates.month.max | default: vehicle.rates.month.min }} VND</span>
+          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
         </div>
         {% endif %}
       </div>

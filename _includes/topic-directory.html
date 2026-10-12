@@ -91,7 +91,7 @@
                 {% endif %}
                 {% if mychild == cid %}{% assign cnt = cnt | plus: 1 %}{% endif %}
               {% endfor %}
-              <a class="topic-row" href="{{ g_slug | prepend: '/' | append: '/' | append: node.s | relative_url }}">
+              <a class="topic-row" href="{{ g_slug | prepend: '/' | append: '/' | append: node.s | append: '/' | relative_url }}">
                 <span class="topic-row__title">{{ node.t }}</span>
                 {% if cnt > 0 %}
                   <span class="topic-row__count">{{ cnt }} bài</span>

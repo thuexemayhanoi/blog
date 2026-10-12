@@ -29,7 +29,7 @@ layout: default
           {% endfor %}
           {% if cnt > 0 %}
           <li>
-            <a href="{{ page.parent_slug | prepend: '/' | append: '/' | append: node.s | relative_url }}">{{ node.t }}</a>
+            <a href="{{ page.parent_slug | prepend: '/' | append: '/' | append: node.s | append: '/' | relative_url }}">{{ node.t }}</a>
             <span>({{ cnt }} bài)</span>
           </li>
           {% endif %}
@@ -55,5 +55,6 @@ layout: default
         {% endif %}
       {% endfor %}
     </div>
+    {% include post-cta.html %}
   </div>
 </section>
