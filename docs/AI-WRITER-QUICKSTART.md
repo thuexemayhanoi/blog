@@ -34,6 +34,7 @@ In ra `SLOT W2 | session s-… | hạn … | ID: BLG-…` (và dòng JSON `BLOG_
   | W3 | `s-<ai>-w3` (ví dụ `s-codex-w3`) | trống — AI mới tự chọn nhãn theo mẫu này và giữ nguyên mãi |
 
   Resume sau hết quota/đổi container: `git pull` → export lại ĐÚNG nhãn → `status` → `begin --slot <slot>`. Không dùng nhãn của slot khác.
+- **AI mới nhận W3** (slot trống): (1) chọn MỘT nhãn riêng theo mẫu `s-<ten-ai>-w3` (chỉ `A-Za-z0-9._-`, ≤ 64 ký tự) và giữ nguyên mãi cho slot này; (2) `export FACTORY_WRITER_SESSION=<nhãn>` ở đầu MỌI lần chạy; (3) `git pull` → `writer-session.py status`: W3 phải trống hoặc đã hết hạn — lease W1/W2 còn hạn là của AI khác, KHÔNG đụng; (4) `writer-session.py begin --slot W3 --label <ten-ai>`. Không mượn `s-mistral-w1` / `s-claude-w2`; không dùng token GitHub/API làm nhãn.
 - `NO_FREE_SLOT` → cả 3 slot đang có người; xem `status` để biết giờ hết hạn. `SLOT_HELD` → slot đó đang của phiên khác: chọn slot khác, **đừng chiếm**.
 - Còn hàng **REPAIR** của bạn → `begin` chỉ nối việc, **sửa REPAIR trước** (resume-first của riêng bạn).
 - Xem trạng thái: `python3 scripts/factory/writer-session.py status`.
@@ -74,6 +75,15 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 ## 6. Hết quota / mất kết nối / bàn giao AI → AI
 
 - **Hết quota giữa batch**: `push` phần đã xong (≤10), rồi dừng. Phần chưa push nằm trong lease đến khi hết hạn (mặc định 12h với `begin`), sau đó AI khác nhận được. Muốn nhả sớm: `release --ids … ` hoặc `release --all` (trả luôn slot). **Đừng release ID đã push mà chưa PUBLISHED**: tool chặn (`DRAFT_QUEUED`; chờ `confirm`, hoặc `--even-if-queued` nếu chắc chắn) vì draft mất chủ sẽ bị publisher cách ly.
+- **Checklist resume theo slot** (làm đúng thứ tự):
+
+  | Slot | Nhãn session (cố định) | Sau hết quota / đổi container / restart |
+  |---|---|---|
+  | W1 | `s-mistral-w1` | `export FACTORY_WRITER_SESSION=s-mistral-w1` → `git pull` → `status` → `begin --slot W1` |
+  | W2 | `s-claude-w2` | `export FACTORY_WRITER_SESSION=s-claude-w2` → `git pull` → `status` → `begin --slot W2` |
+  | W3 | `s-<ai>-w3` | `export FACTORY_WRITER_SESSION=s-<ai>-w3` → `git pull` → `status` → `begin --slot W3` |
+
+  Sau `begin`: (a) `status` mục `me` phải hiện slot + lease của bạn (lease đã hết hạn mà chưa ai nhận thì cùng phiên nối lại ID/REPAIR của nó; draft đã push vẫn được publisher xử lý); (b) còn **REPAIR** của bạn → sửa trước khi viết bài mới; (c) `SLOT_HELD` / `SESSION_HOLDS_OTHER_SLOT` = nhãn sai hoặc slot của AI khác → DỪNG, kiểm tra lại nhãn, không `release` / `--adopt` của người khác; (d) lỗi `REGISTRY_CONFLICT` thì KHÔNG chạy `repair-registry`.
 - **Quay lại sau khi bị ngắt**: chạy `begin --slot <slot cũ>` trên **cùng working copy** (session lưu trong `.git/`) hoặc với **cùng `FACTORY_WRITER_SESSION`** trên container mới. Slot còn hạn → nối việc tiếp; hết hạn và bị người khác lấy → `begin --slot auto` nhận slot khác. Phiên mặc định là ngẫu nhiên (KHÔNG suy từ danh tính git — nhiều AI cùng nhà cung cấp dùng chung danh tính): không token + container mới = phiên mới = `SLOT_HELD` với chính lease cũ cho đến khi hết hạn.
 - **Bàn giao cho AI khác (cùng slot, cùng lease)**: gửi cho AI kia `slot + session id`; nó chạy `begin --slot W2 --session s-…` (lệnh này **lưu phiên** vào working copy nên `status/check/push/confirm` sau đó nhận ra cùng phiên). Chủ mới phải `check` + `push` lại draft để gắn `writer_session` của mình. Chỉ làm khi bạn chắc đã dừng.
 - **Nhận việc orphan** (REPAIR của writer đã hết hạn; danh sách: `status` → `orphan_inflight`): `begin --ids BLG-… --adopt`.
@@ -96,8 +106,8 @@ python3 scripts/factory/writer-session.py confirm --ids BLG-…,BLG-…
 | `LEASE_LOST` (exit 5) | lease hết hạn hoặc phiên khác đã nhận | `begin` lại (slot mới), viết lại phần chưa publish |
 | `NOT_MY_IDS` | ID không thuộc lease của bạn | chỉ push ID bạn giữ |
 | `CAS_EXHAUSTED` | push bị từ chối liên tục | chạy lại `push` (idempotent); nếu mạng/GitHub lỗi kéo dài thì chờ |
-| `REGISTRY_CONFLICT` | registry đọc được nhưng mơ hồ chủ (một ID hoặc một session ở ≥ 2 lease sống) | KHÔNG `repair-registry`/rollback; chờ lease hết hạn hoặc chủ xe/coordinator hóa giải; mọi lệnh từ chối và không ghi gì (`problems` liệt kê chi tiết) |
-| `REGISTRY_CORRUPT` | `writer-claims.json` hỏng/timestamp sai | `python3 scripts/factory/writer-session.py repair-registry` (CAS, lấy bản hợp lệ gần nhất) |
+| `REGISTRY_CONFLICT` | registry đọc được nhưng mơ hồ chủ (một ID hoặc một session ở ≥ 2 lease sống; hiếm: registry sửa tay để một phiên giữ lease đã publish hết ID cạnh lease sống của chính nó — `docs/MULTI-WRITER-ARCHITECTURE.md` §7) | KHÔNG `repair-registry`/rollback; chờ lease hết hạn hoặc chủ xe/coordinator hóa giải; mọi lệnh từ chối và không ghi gì (`problems` liệt kê chi tiết) |
+| `REGISTRY_CORRUPT` | `writer-claims.json` hỏng: JSON/timestamp sai, khóa slot lạ (`W4`, `w1`), lease sống > 10 ID khác nhau, trường sai kiểu, token session sai dạng, byte không phải UTF-8 | `python3 scripts/factory/writer-session.py repair-registry` (CAS, lấy bản hợp lệ gần nhất; từ chối nếu thực ra là `REGISTRY_CONFLICT`) |
 | `GIT_READ_FAILED` | object git đọc lỗi (clone hỏng/partial) | `git fetch` lại hoặc clone mới; tool KHÔNG ghi gì khi gặp lỗi này |
 | `SESSION_HOLDS_OTHER_SLOT` | phiên này đã giữ slot khác | dùng slot đang giữ (`--slot auto`) hoặc `release` trước |
 | `DUPLICATE_DRAFT` | hai file draft cho một ID | giữ MỘT file, xóa bản thừa |
