@@ -103,6 +103,13 @@ jobs:
           set -eu
           python3 scripts/factory/validate.py --scope chunk
 
+      - name: FAQ source validation (answers verbatim from the page, no BLOCKED facts, no duplicates)
+        run: |
+          set -eu
+          # _data/faq/*.json: mặc định không có file => OK. Chạy ở cả hai chế độ (rẻ, chỉ đọc file):
+          # sửa bài legacy làm mất câu trả lời nguyên văn sẽ đỏ ngay trên PR, không đợi lần FULL sau.
+          python3 scripts/faq/validate_faq.py
+
       - name: Re-attestation backups touched by this change must verify
         run: |
           set -eu
@@ -143,6 +150,12 @@ jobs:
         run: |
           set -eu
           python3 scripts/factory/check-built-links.py --site ./_site
+
+      - name: FAQ parity (visible Q&A == FAQPage JSON-LD) + every JSON-LD block parses
+        if: steps.mode.outputs.mode == 'full'
+        run: |
+          set -eu
+          python3 scripts/faq/faq_parity_check.py --site ./_site
 
       - name: Canonical + legacy-host sanity
         if: steps.mode.outputs.mode == 'full'

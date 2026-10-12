@@ -2235,3 +2235,30 @@
     height: 40px;
   }
 }
+
+/* FAQ dùng chung (_includes/faq.html): cùng typography/độ rộng với .article-body */
+.faq {
+  max-width: 760px;
+  margin: var(--spacing-xl) auto;
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--color-text);
+}
+
+.faq h2 {
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-tight);
+  margin: 0 0 var(--spacing-sm);
+}
+
+.faq-item h3 {
+  font-size: var(--font-size-lg);
+  line-height: var(--line-height-tight);
+  margin: var(--spacing-lg) 0 var(--spacing-xs);
+  overflow-wrap: break-word;
+}
+
+.faq-item p {
+  margin: 0 0 var(--spacing-md);
+  overflow-wrap: break-word;
+}
