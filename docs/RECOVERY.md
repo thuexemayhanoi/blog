@@ -124,8 +124,12 @@ mọi claim/heartbeat) tự bỏ bản lặp, giữ chủ và thứ tự. Releas
 legacy cũng là nhận lease nên chịu cùng guard "một phiên một slot"
 (`SESSION_HOLDS_OTHER_SLOT`, registry không đổi).
 
-Evidence QA cũ lệch hash: chỉ audit theo `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`.
-Không coi recovery registry hay domain migration là quyền re-attest bài cũ.
+Evidence QA cũ lệch hash: chỉ audit/re-attest theo `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`.
+Không coi recovery registry hay domain migration là quyền re-attest bài cũ. Mọi lần re-attest
+để lại `reports/qa-audit/reattest/<batch>.json` (evidence cũ nguyên văn + sha256): hoàn tác
+byte-exact bằng `python3 scripts/factory/reattest-legacy-qa.py rollback --backup <file>`
+(từ chối nếu evidence đã đổi sau đó); kiểm lại bằng `... verify --backup <file>`. Không sửa
+tay `data/qa/`, không `git reset` về evidence cũ.
 
 - Xem: `python3 scripts/factory/writer-claim.py show` / `status` (đọc, không ghi). Kiểm bất biến: `check-registry`.
 - `REGISTRY_CORRUPT` (JSON hỏng/sai cấu trúc, `expires_at` không phân tích được, ID sai dạng): mọi tool và selector fail-closed, KHÔNG coi

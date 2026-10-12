@@ -114,6 +114,8 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
    workflow, KHÔNG sửa nội dung đã PUBLISHED, KHÔNG gọi API/host ngoài GitHub từ workflow, KHÔNG dùng AI mã nguồn mở.
 9. KHÔNG force push, KHÔNG reset checkpoint/matrix/lease đang hoạt động, KHÔNG xóa evidence
    `data/qa/<ID>.json`. `content_sha256`/`matrix_row_sha256` phải khớp. KHÔNG làm giả evidence, KHÔNG PASS/PUBLISHED thủ công.
+   Evidence cũ lệch hash vì migrate domain CHỈ được thay bằng bản chấm lại ĐỘC LẬP qua
+   `scripts/factory/reattest-legacy-qa.py` (chủ duyệt, backup byte-exact, verify, rollback) — không bao giờ sửa tay.
 10. Trước khi tuyên bố xong: Quality gate XANH trên đúng HEAD của push (commit bot dùng GITHUB_TOKEN không kích hoạt gate — kiểm
     bằng run publish xanh) + Pages deploy SUCCESS + URL live 200. Báo cáo phân biệt HEAD đã chạy vs HEAD đã push.
 11. Không chiếm lease còn hạn; không sửa draft thuộc lease sống của writer khác; nhận việc orphan chỉ qua `--adopt`.
@@ -122,13 +124,18 @@ thật mới, KHÔNG filler, KHÔNG báo SUCCESS giả. Hồi quy:
 
 ## QA modes (docs/PROC-PUBLISH.md)
 
-Audit evidence cũ chỉ đọc: `scripts/factory/audit-legacy-qa.py`; phương án chờ duyệt:
-`docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`. Domain-only không đồng nghĩa QA PASS;
-không tự ghi hash mới, không sửa `_posts/` hoặc `data/qa/` để làm audit xanh.
+Audit evidence cũ chỉ đọc: `scripts/factory/audit-legacy-qa.py`. Re-attest có kiểm soát (đường GHI
+duy nhất cho evidence cũ): `scripts/factory/reattest-legacy-qa.py plan|apply|verify|rollback`, quy trình +
+số liệu: `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`. Domain-only không đồng nghĩa QA PASS: chỉ bài có hash cũ
+buộc đúng byte/hàng baseline VÀ chấm lại độc lập (ngưỡng 75/70, business_fact, legal, critical) đạt mới được
+thay evidence, cần `--approval-ref` của chủ xe, batch ≤ 300, backup `reports/qa-audit/reattest/<batch>.json`.
+Chỉ áp dụng lên evidence thật SAU KHI chủ website đã nghiệm thu quy trình (chỉ thị MASTER 2026-10-12): writer/Routine KHÔNG tự chạy `apply`.
+Ca không đạt / nội dung đổi thật GIỮ NGUYÊN để xử lý riêng. Không sửa `_posts/`, matrix, checkpoint, lease và
+không sửa tay `data/qa/` để làm audit xanh.
 
 FAST (mặc định mỗi chunk): validate `--scope chunk` + suite gate/operator/
 refill-safety/workflow-syntax. DEEP (~mỗi 50 bài): + link integrity, qa
 modes, publish flow, refill semantics (scope batch). FULL (weekly / trước
-đổi engine): validate full + 26 suite CI (`scripts/factory/run-tests.py --suites ci`,
+đổi engine): validate full + 27 suite CI (`scripts/factory/run-tests.py --suites ci`,
 job `engine-tests` của quality-gate ở FULL mode) + soak (scope full). Ngưỡng KHÔNG đổi
 giữa các mức.

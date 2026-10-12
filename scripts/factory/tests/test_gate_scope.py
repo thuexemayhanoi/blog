@@ -161,6 +161,23 @@ class TestQualityGateWiring(unittest.TestCase):
         self.assertNotIn('contents: write', y)
         self.assertNotIn('git push', y)
 
+    def test_evidence_batches_trigger_the_gate_and_verify_their_backups(self):
+        """Review độc lập: một PR chỉ có data/qa + reports/qa-audit không chạy CI nào (paths
+        filter), nên không ai chạy `verify` cho backup của lô re-attest. Gate phải được kích
+        hoạt và phải verify mọi backup được thêm/sửa trong thay đổi."""
+        y = open(WF, encoding='utf-8').read()
+        self.assertEqual(y.count("'data/qa/**'"), 2, 'push + pull_request')
+        self.assertEqual(y.count("'reports/qa-audit/**'"), 2, 'push + pull_request')
+        self.assertEqual(y.count('reports/qa-audit > changed-files.txt'), 2,
+                         'backup phải nằm trong changed-files để gate-scope thấy')
+        self.assertIn('reattest-legacy-qa.py verify --backup', y)
+        self.assertIn('reports/qa-audit/reattest/*.json', y)
+        gs = gate_mod()
+        # backup nằm ngoài hợp đồng content => FULL (fail-closed); evidence đơn lẻ vẫn là content
+        self.assertEqual(gs.classify(['data/qa/BLG-00486.json',
+                                      'reports/qa-audit/reattest/reattest-1.json'])[0], 'full')
+        self.assertEqual(gs.classify(['data/qa/BLG-00486.json'])[0], 'content')
+
     def test_gate_scope_script_is_pure_selector(self):
         """gate-scope.py KHÔNG mutate state — chỉ in JSON ra stdout."""
         s = open(GATE, encoding='utf-8').read()
