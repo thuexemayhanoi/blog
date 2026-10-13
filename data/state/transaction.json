@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T06:42:34+00:00",
+  "updated_at": "2026-10-13T06:46:37+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02553",
-      "started_at": "2026-10-13T05:06:07+00:00",
-      "source": "_drafts/2026-10-13-air-blade-cho-hai-nguoi-leo-doc-dai-tam-dao-ba-vi-giu-ga-deu-va-nghi-may.md",
-      "destination": "_posts/2026-10-13-air-blade-cho-hai-nguoi-leo-doc-dai-tam-dao-ba-vi-giu-ga-deu-va-nghi-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "68d4cc5ea9fa1fafa8581a946628b0de5b2f3620",
-      "finished_at": "2026-10-13T05:06:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02554",
-      "started_at": "2026-10-13T05:06:08+00:00",
-      "source": "_drafts/2026-10-13-vuot-xe-tai-xe-khach-bang-honda-air-blade-khi-nao-vuot-khi-nao-thoi.md",
-      "destination": "_posts/2026-10-13-vuot-xe-tai-xe-khach-bang-honda-air-blade-khi-nao-vuot-khi-nao-thoi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "68d4cc5ea9fa1fafa8581a946628b0de5b2f3620",
-      "finished_at": "2026-10-13T05:06:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02555",
       "started_at": "2026-10-13T05:09:26+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "7d41e18a1235e682875a9bbc753b9aa52dfc10a4",
       "finished_at": "2026-10-13T06:42:34+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02613",
+      "started_at": "2026-10-13T06:46:37+00:00",
+      "source": "_drafts/2026-10-13-dang-tham-bao-tang-thi-troi-mua-lay-xe-mac-ao-mua-va-chay-ve-sao-cho-an-toan.md",
+      "destination": "_posts/2026-10-13-dang-tham-bao-tang-thi-troi-mua-lay-xe-mac-ao-mua-va-chay-ve-sao-cho-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "19f82fb1a27e43774d82889a21a392a1093c223f",
+      "finished_at": "2026-10-13T06:46:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02614",
+      "started_at": "2026-10-13T06:46:37+00:00",
+      "source": "_drafts/2026-10-13-he-ha-noi-nang-gat-xep-lich-di-bao-tang-bang-xe-may-de-tranh-gio-nong-nhat.md",
+      "destination": "_posts/2026-10-13-he-ha-noi-nang-gat-xep-lich-di-bao-tang-bang-xe-may-de-tranh-gio-nong-nhat.md",
+      "result": "PUBLISHED",
+      "commit_sha": "19f82fb1a27e43774d82889a21a392a1093c223f",
+      "finished_at": "2026-10-13T06:46:37+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
