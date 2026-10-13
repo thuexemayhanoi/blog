@@ -26,7 +26,7 @@ robots: noindex,follow
         <ul style="list-style: none; padding: 0;">
           <li>Kiểm tra lại URL</li>
           <li>Sử dụng menu điều hướng</li>
-          <li>Tìm kiếm trên website</li>
+          <li><a href="{{ '/chu-de/' | relative_url }}">Duyệt các chủ đề có sẵn</a></li>
         </ul>
       </div>
     </div>
@@ -39,40 +39,40 @@ robots: noindex,follow
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, var(--bg-light), var(--bg));
-    padding: var(--space-2xl);
+    background: linear-gradient(135deg, var(--color-surface-dark), var(--color-background));
+    padding: var(--spacing-2xl);
   }
   
   .error-content {
     max-width: 600px;
-    padding: var(--space-3xl);
+    padding: var(--spacing-2xl);
     text-align: center;
   }
   
   .error-content h1 {
-    font-size: var(--font-size-5xl);
-    color: var(--primary);
-    margin-bottom: var(--space-md);
+    font-size: var(--font-size-3xl);
+    color: var(--color-primary);
+    margin-bottom: var(--spacing-md);
   }
   
   .error-content h2 {
     font-size: var(--font-size-2xl);
-    color: var(--text);
-    margin-bottom: var(--space-md);
+    color: var(--color-text);
+    margin-bottom: var(--spacing-md);
   }
   
   .error-content p {
-    font-size: var(--font-size-base);
-    color: var(--text-light);
-    margin-bottom: var(--space-xl);
+    font-size: var(--font-size-sm);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-xl);
   }
   
   .error-actions {
     display: flex;
-    gap: var(--space-md);
+    gap: var(--spacing-md);
     justify-content: center;
     flex-wrap: wrap;
-    margin-bottom: var(--space-xl);
+    margin-bottom: var(--spacing-xl);
   }
   
   .error-suggestion {
@@ -81,8 +81,8 @@ robots: noindex,follow
   
   .error-suggestion p {
     font-size: var(--font-size-sm);
-    color: var(--text-light);
-    margin-bottom: var(--space-sm);
+    color: var(--color-text-secondary);
+    margin-bottom: var(--spacing-sm);
   }
   
   .error-suggestion ul {
@@ -92,15 +92,15 @@ robots: noindex,follow
   
   .error-suggestion li {
     font-size: var(--font-size-sm);
-    color: var(--text);
+    color: var(--color-text);
     margin-bottom: var(--space-xs);
-    padding-left: var(--space-md);
+    padding-left: var(--spacing-md);
     position: relative;
   }
   
   .error-suggestion li::before {
     content: '';
-    color: var(--primary);
+    color: var(--color-primary);
     position: absolute;
     left: 0;
   }
