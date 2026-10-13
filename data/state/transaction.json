@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T05:18:05+00:00",
+  "updated_at": "2026-10-13T05:23:32+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02471",
-      "started_at": "2026-10-12T15:44:07+00:00",
-      "source": "_drafts/2026-10-12-nua-ngay-quanh-ba-inh-va-van-mieu-bang-xe-may-thu-tu-tham-quan-hop-ly.md",
-      "destination": "_posts/2026-10-12-nua-ngay-quanh-ba-inh-va-van-mieu-bang-xe-may-thu-tu-tham-quan-hop-ly.md",
-      "result": "PUBLISHED",
-      "commit_sha": "eeff58ba95168a6a9d0adea813be0bd3c31c8317",
-      "finished_at": "2026-10-12T15:44:07+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02472",
-      "started_at": "2026-10-12T15:44:08+00:00",
-      "source": "_drafts/2026-10-12-kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang.md",
-      "destination": "_posts/2026-10-12-kiem-tra-lop-xe-may-thue-khi-nhan-xe-mon-nut-va-o-cang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "eeff58ba95168a6a9d0adea813be0bd3c31c8317",
-      "finished_at": "2026-10-12T15:44:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02473",
       "started_at": "2026-10-12T17:03:58+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "dbfb8e21a8026e757039fb4e3670b034153a0656",
       "finished_at": "2026-10-13T05:18:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02561",
+      "started_at": "2026-10-13T05:23:32+00:00",
+      "source": "_drafts/2026-10-13-thue-honda-air-blade-mot-tuan-de-thu-truoc-khi-mua-nen-de-y-gi.md",
+      "destination": "_posts/2026-10-13-thue-honda-air-blade-mot-tuan-de-thu-truoc-khi-mua-nen-de-y-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4295a0ae25d20bfc18aeeab91ae41391cadeccfe",
+      "finished_at": "2026-10-13T05:23:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02562",
+      "started_at": "2026-10-13T05:23:32+00:00",
+      "source": "_drafts/2026-10-13-quen-xe-so-lan-dau-cam-honda-air-blade-phanh-sau-o-tay-trai-khong-con-can-so.md",
+      "destination": "_posts/2026-10-13-quen-xe-so-lan-dau-cam-honda-air-blade-phanh-sau-o-tay-trai-khong-con-can-so.md",
+      "result": "PUBLISHED",
+      "commit_sha": "4295a0ae25d20bfc18aeeab91ae41391cadeccfe",
+      "finished_at": "2026-10-13T05:23:32+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
