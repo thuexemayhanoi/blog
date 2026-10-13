@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T04:57:49+00:00",
+  "updated_at": "2026-10-13T04:59:43+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02549",
-      "started_at": "2026-10-12T13:14:31+00:00",
-      "source": "_drafts/2026-10-11-honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe.md",
-      "destination": "_posts/2026-10-11-honda-air-blade-cho-nguoi-thap-kiem-tra-yen-chan-cham-at-va-cach-dung-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:31+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02550",
-      "started_at": "2026-10-12T13:14:31+00:00",
-      "source": "_drafts/2026-10-11-nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-o-moi.md",
-      "destination": "_posts/2026-10-11-nguoi-cao-thue-honda-air-blade-goi-tay-lai-va-tu-the-ngoi-cho-o-moi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:31+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02551",
       "started_at": "2026-10-12T13:14:41+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "6b2b9210e934fc436b79b7e843d5e8f224965b8a",
       "finished_at": "2026-10-13T04:57:49+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02511",
+      "started_at": "2026-10-13T04:59:43+00:00",
+      "source": "_drafts/2026-10-13-quai-balo-hoac-vat-ao-mua-cuon-vao-banh-xe-may-xu-ly-va-cach-phong-tranh.md",
+      "destination": "_posts/2026-10-13-quai-balo-hoac-vat-ao-mua-cuon-vao-banh-xe-may-xu-ly-va-cach-phong-tranh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3c8a1d630f27eb113d1e86f18b5ddd7e7e80885d",
+      "finished_at": "2026-10-13T04:59:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02512",
+      "started_at": "2026-10-13T04:59:43+00:00",
+      "source": "_drafts/2026-10-13-xe-tat-may-trong-ham-chui-hoac-tren-cau-vuot-ua-xe-ra-cho-an-toan-the-nao.md",
+      "destination": "_posts/2026-10-13-xe-tat-may-trong-ham-chui-hoac-tren-cau-vuot-ua-xe-ra-cho-an-toan-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3c8a1d630f27eb113d1e86f18b5ddd7e7e80885d",
+      "finished_at": "2026-10-13T04:59:43+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
