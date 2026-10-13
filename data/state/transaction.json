@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T10:59:22+00:00",
+  "updated_at": "2026-10-13T10:59:48+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02614",
-      "started_at": "2026-10-13T06:46:37+00:00",
-      "source": "_drafts/2026-10-13-he-ha-noi-nang-gat-xep-lich-di-bao-tang-bang-xe-may-de-tranh-gio-nong-nhat.md",
-      "destination": "_posts/2026-10-13-he-ha-noi-nang-gat-xep-lich-di-bao-tang-bang-xe-may-de-tranh-gio-nong-nhat.md",
-      "result": "PUBLISHED",
-      "commit_sha": "19f82fb1a27e43774d82889a21a392a1093c223f",
-      "finished_at": "2026-10-13T06:46:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02615",
       "started_at": "2026-10-13T06:50:36+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "f77c314eec8f3bc79055131d61115e82fca7ed01",
       "finished_at": "2026-10-13T10:59:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02663",
+      "started_at": "2026-10-13T10:59:47+00:00",
+      "source": "_drafts/2026-10-13-lang-tam-huong-quang-phu-cau-o-ung-hoa-bang-xe-may-duong-lang-va-gio-nen-di.md",
+      "destination": "_posts/2026-10-13-lang-tam-huong-quang-phu-cau-o-ung-hoa-bang-xe-may-duong-lang-va-gio-nen-di.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6d99094a762cf66b0216e32a22e680b9a87c246a",
+      "finished_at": "2026-10-13T10:59:48+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
