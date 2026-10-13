@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T04:59:43+00:00",
+  "updated_at": "2026-10-13T05:06:08+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02551",
-      "started_at": "2026-10-12T13:14:41+00:00",
-      "source": "_drafts/2026-10-11-cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac.md",
-      "destination": "_posts/2026-10-11-cop-honda-air-blade-thue-chua-uoc-gi-va-o-nao-nen-e-cho-khac.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02552",
-      "started_at": "2026-10-12T13:14:41+00:00",
-      "source": "_drafts/2026-10-11-cho-nguoi-ngoi-sau-bang-honda-air-blade-xuat-phat-va-phanh-sao-cho-em.md",
-      "destination": "_posts/2026-10-11-cho-nguoi-ngoi-sau-bang-honda-air-blade-xuat-phat-va-phanh-sao-cho-em.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:41+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02465",
       "started_at": "2026-10-12T15:18:29+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "3c8a1d630f27eb113d1e86f18b5ddd7e7e80885d",
       "finished_at": "2026-10-13T04:59:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02553",
+      "started_at": "2026-10-13T05:06:07+00:00",
+      "source": "_drafts/2026-10-13-air-blade-cho-hai-nguoi-leo-doc-dai-tam-dao-ba-vi-giu-ga-deu-va-nghi-may.md",
+      "destination": "_posts/2026-10-13-air-blade-cho-hai-nguoi-leo-doc-dai-tam-dao-ba-vi-giu-ga-deu-va-nghi-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "68d4cc5ea9fa1fafa8581a946628b0de5b2f3620",
+      "finished_at": "2026-10-13T05:06:07+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02554",
+      "started_at": "2026-10-13T05:06:08+00:00",
+      "source": "_drafts/2026-10-13-vuot-xe-tai-xe-khach-bang-honda-air-blade-khi-nao-vuot-khi-nao-thoi.md",
+      "destination": "_posts/2026-10-13-vuot-xe-tai-xe-khach-bang-honda-air-blade-khi-nao-vuot-khi-nao-thoi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "68d4cc5ea9fa1fafa8581a946628b0de5b2f3620",
+      "finished_at": "2026-10-13T05:06:08+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
