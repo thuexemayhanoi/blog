@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T12:11:04+00:00",
+  "updated_at": "2026-10-13T13:27:19+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02593",
-      "started_at": "2026-10-13T07:19:23+00:00",
-      "source": "_drafts/2026-10-13-nguoi-cao-to-di-yamaha-sirius-ngoi-co-chat-goi-co-vuong-tay-lai-khong.md",
-      "destination": "_posts/2026-10-13-nguoi-cao-to-di-yamaha-sirius-ngoi-co-chat-goi-co-vuong-tay-lai-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4bb7bc0ffca2d3c785ace9f7884ce489ab3d385",
-      "finished_at": "2026-10-13T07:19:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02594",
-      "started_at": "2026-10-13T07:19:23+00:00",
-      "source": "_drafts/2026-10-13-yamaha-sirius-hay-yamaha-mio-cung-hang-chon-xe-so-hay-xe-ga-cho-ngay-di.md",
-      "destination": "_posts/2026-10-13-yamaha-sirius-hay-yamaha-mio-cung-hang-chon-xe-so-hay-xe-ga-cho-ngay-di.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c4bb7bc0ffca2d3c785ace9f7884ce489ab3d385",
-      "finished_at": "2026-10-13T07:19:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02627",
       "started_at": "2026-10-13T07:55:28+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "1182fdb2bb324f03dc2f890f2483599d2d49c4a3",
       "finished_at": "2026-10-13T12:11:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02667",
+      "started_at": "2026-10-13T13:27:19+00:00",
+      "source": "_drafts/2026-10-13-gui-xe-dau-lang-hay-chay-vao-ngo-lang-co-cach-chon-khi-tham-lang-nghe.md",
+      "destination": "_posts/2026-10-13-gui-xe-dau-lang-hay-chay-vao-ngo-lang-co-cach-chon-khi-tham-lang-nghe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a40e93778b2c3364ad645a7d7fca8ad18686cdc0",
+      "finished_at": "2026-10-13T13:27:19+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02668",
+      "started_at": "2026-10-13T13:27:19+00:00",
+      "source": "_drafts/2026-10-13-quen-chay-xe-trong-pho-lan-dau-ra-tinh-lo-ngoai-thanh-dieu-gi-khac-pho.md",
+      "destination": "_posts/2026-10-13-quen-chay-xe-trong-pho-lan-dau-ra-tinh-lo-ngoai-thanh-dieu-gi-khac-pho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a40e93778b2c3364ad645a7d7fca8ad18686cdc0",
+      "finished_at": "2026-10-13T13:27:19+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
