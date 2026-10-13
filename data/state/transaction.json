@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T05:59:46+00:00",
+  "updated_at": "2026-10-13T06:03:32+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02491",
-      "started_at": "2026-10-12T18:04:43+00:00",
-      "source": "_drafts/2026-10-12-nhan-xe-may-thue-vao-ngay-ret-am-e-no-cham-tay-phanh-lanh-va-suong-som.md",
-      "destination": "_posts/2026-10-12-nhan-xe-may-thue-vao-ngay-ret-am-e-no-cham-tay-phanh-lanh-va-suong-som.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dbe4f1ad650d4819ead8158a1a29fbf3e55bc6ff",
-      "finished_at": "2026-10-12T18:04:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02492",
-      "started_at": "2026-10-12T18:04:43+00:00",
-      "source": "_drafts/2026-10-12-nguoi-nhan-lai-xe-khong-phai-nguoi-a-giao-xe-cach-tranh-lech-thong-tin.md",
-      "destination": "_posts/2026-10-12-nguoi-nhan-lai-xe-khong-phai-nguoi-a-giao-xe-cach-tranh-lech-thong-tin.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dbe4f1ad650d4819ead8158a1a29fbf3e55bc6ff",
-      "finished_at": "2026-10-12T18:04:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02493",
       "started_at": "2026-10-12T18:07:57+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "ce1a0fc98be2c3c8c0c6c04ee241fb8928550ec9",
       "finished_at": "2026-10-13T05:59:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02581",
+      "started_at": "2026-10-13T06:03:32+00:00",
+      "source": "_drafts/2026-10-13-thue-honda-click-mot-tuan-o-ha-noi-lich-7-ngay-diem-gan-xen-diem-xa.md",
+      "destination": "_posts/2026-10-13-thue-honda-click-mot-tuan-o-ha-noi-lich-7-ngay-diem-gan-xen-diem-xa.md",
+      "result": "PUBLISHED",
+      "commit_sha": "52b9105755799a1dde82b68b2668fb40b57d90fe",
+      "finished_at": "2026-10-13T06:03:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02582",
+      "started_at": "2026-10-13T06:03:32+00:00",
+      "source": "_drafts/2026-10-13-honda-click-hay-vision-khi-thue-hai-xe-ga-nho-khac-nhau-o-diem-nao.md",
+      "destination": "_posts/2026-10-13-honda-click-hay-vision-khi-thue-hai-xe-ga-nho-khac-nhau-o-diem-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "52b9105755799a1dde82b68b2668fb40b57d90fe",
+      "finished_at": "2026-10-13T06:03:32+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
