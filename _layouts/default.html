@@ -40,12 +40,13 @@
     window.NGUYEN_TU_ASSISTANT = {{ site.data.assistant | jsonify }};
   </script>
 </head>
-<body class="vi">
+<body class="vi" id="site-top">
+  <a href="#main-content" class="skip-link">Chuyển đến nội dung chính</a>
   {% include header.html %}
   {% include quick-contact.html %}
   {% include assistant.html %}
   
-  <main>
+  <main id="main-content" tabindex="-1">
     {%- comment -%}
       post / hub / topic / topic-listing tự render breadcrumb phân cấp riêng; listing tự include breadcrumb.html.
       Không include thêm breadcrumb chung ở đây (trước đây gây 2 thanh breadcrumb trên mọi bài/hub/topic).
