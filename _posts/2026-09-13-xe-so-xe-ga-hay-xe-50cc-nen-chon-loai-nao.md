@@ -2,6 +2,7 @@
 layout: post
 title: "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?"
 date: 2026-09-13 14:00:00 +0700
+last_modified_at: 2026-10-13 10:00:00 +0700
 author: "Nguyễn Tú"
 description: "So sánh ưu nhược điểm của xe số, xe ga và xe 50cc để giúp bạn lựa chọn phù hợp nhất"
 categories: [Chia sẻ]
@@ -220,7 +221,7 @@ Xe 50cc và xe số có giá thuê tương đương, trong khi xe ga có giá ca
 
 ## Kinh nghiệm từ chuyên gia tại Nguyễn Tú
 
-Dựa trên kinh nghiệm phục vụ hàng nghìn khách hàng, **{{ site.data.business.display_name }}** gợi ý:
+Dựa trên nhu cầu thuê xe thực tế của khách tại Hà Nội, **{{ site.data.business.display_name }}** gợi ý:
 
 ### 1. Nếu bạn là du khách nước ngoài
 
@@ -296,7 +297,7 @@ Dựa trên kinh nghiệm phục vụ hàng nghìn khách hàng, **{{ site.data.
 
 ### 4. Xe ga có tốn xăng hơn xe số không?
 
-**Trả lời:** Có. Xe ga thường tiêu hao nhiên liệu nhiều hơn xe số khoảng 10-20%. Tuy nhiên, sự chênh lệch này không đáng kể so với sự thoải mái mà xe ga mang lại.
+**Trả lời:** Có. Xe ga thường tiêu hao nhiên liệu nhiều hơn xe số. Tuy nhiên, sự chênh lệch này không đáng kể so với sự thoải mái mà xe ga mang lại.
 
 ### 5. Tôi có thể thử tất cả các loại xe trước khi quyết định không?
 

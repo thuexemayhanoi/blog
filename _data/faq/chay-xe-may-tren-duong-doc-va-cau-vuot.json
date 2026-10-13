@@ -1,0 +1,16 @@
+{
+  "schema": false,
+  "heading": "Câu hỏi thường gặp",
+  "items": [
+    {
+      "q": "Xe ga hay xe số dễ chạy dốc hơn?",
+      "a": "Với người mới, xe ga thường an toàn hơn ở tuần đầu vì không có rủi ro chết máy giữa dốc đông xe; với người quen tay, hai loại tương đương.",
+      "src": "body"
+    },
+    {
+      "q": "Người mới đến hoặc du khách có nên chạy qua cầu ngay những ngày đầu không?",
+      "a": "Các tuyến vào trung tâm qua cầu cần kinh nghiệm hơn chạy vòng quanh hồ, nên hãy để các ngày đầu cho tuyến phẳng, và chỉ thêm cầu vào tuyến khi đã quen xe và quen đường.",
+      "src": "body"
+    }
+  ]
+}
