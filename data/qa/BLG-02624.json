@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-02624",
   "title": "Lần đầu tự chạy xe máy đi bảo tàng ở Hà Nội: tìm đúng chỗ trên bản đồ điện thoại",
-  "scored_at": "2026-10-13T10:12:13+00:00",
+  "scored_at": "2026-10-13T10:16:25+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -18,7 +18,7 @@
     "links_matrix_required": true,
     "links_parent_hub": true,
     "links_count": true,
-    "links_routes_valid": false,
+    "links_routes_valid": true,
     "no_hardcoded_blog": true,
     "cannibalization": true,
     "duplicate_title": true,
@@ -32,11 +32,9 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1199,
+  "word_count": 1205,
   "word_target": 1200,
-  "bad_routes": [
-    "/du-lich/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/"
-  ],
+  "bad_routes": [],
   "cannibalization_clash": [],
   "duplicate_title_clash": [],
   "duplicate_slug_clash": [],
@@ -47,10 +45,11 @@
   "seo": 100,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
-  "critical_failure": true,
-  "source_path": "_drafts/2026-10-13-lan-dau-tu-chay-xe-may-di-bao-tang-o-ha-noi-tim-dung-cho-tren-ban-do-dien-thoai.md",
-  "content_sha256": "2dbe5d749aa36416b725ecbe1114bcc97740a67a6d72ff815f784e6b80ebc55d",
-  "matrix_row_sha256": "647583d21498054dccf0dc54d6db2f29b5a213ad314c82514d4fef019247a0b7",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "critical_failure": false,
+  "source_path": "_posts/2026-10-13-lan-dau-tu-chay-xe-may-di-bao-tang-o-ha-noi-tim-dung-cho-tren-ban-do-dien-thoai.md",
+  "content_sha256": "562463d79bc30afc9cd086611ec4841d9631ff0912c9f62b457a5feb111b6c9f",
+  "matrix_row_sha256": "323e2a5d238c88e97943dec1fbf2aed9b65e6bad3e7f7dd637e78086fa06f5e5",
+  "result": "PASS",
+  "grade": "EXCELLENT",
+  "published_at": "2026-10-13T10:16:28+00:00"
 }
