@@ -18,12 +18,36 @@
                 <span>{{ item.name }}</span>
                 {% include icon.html name="chevron-down" size="16" class="dropdown-icon" %}
               </button>
-              <ul class="dropdown-menu" id="nav-submenu-{{ item.id }}">
+              <ul class="dropdown-menu mega-menu{% if item.id == 'blog' %} mega-menu--topics{% else %} mega-menu--pricing{% endif %}" id="nav-submenu-{{ item.id }}">
+                <li class="mega-menu-heading">
+                  <span>{{ item.name }}</span>
+                  <small>Khám phá {{ item.name | downcase }}</small>
+                </li>
                 {% for child in item.children %}
-                <li>
-                  <a href="{{ child.url | relative_url }}" class="dropdown-item" {% if page.url == child.url %}aria-current="page"{% endif %}>{{ child.name }}</a>
+                <li class="mega-menu-entry">
+                  <a href="{{ child.url | relative_url }}" class="dropdown-item mega-menu-card" {% if page.url == child.url %}aria-current="page"{% endif %}>
+                    {% if child.icon %}{% include icon.html name=child.icon size="18" %}{% endif %}
+                    <span>{{ child.name }}</span>
+                  </a>
                 </li>
                 {% endfor %}
+                {% if item.id == 'blog' %}
+                  {% assign featured_nav = site.data.navigation.footer | where: 'title', 'CHỦ ĐỀ NỔI BẬT' | first %}
+                  {% if featured_nav and featured_nav.links.size > 0 %}
+                  <li class="mega-menu-featured">
+                    <strong>Chủ đề nổi bật</strong>
+                    <ul>
+                      {% for feature in featured_nav.links %}
+                      <li><a href="{{ feature.url | relative_url }}">{{ feature.name }}</a></li>
+                      {% endfor %}
+                    </ul>
+                  </li>
+                  {% endif %}
+                {% else %}
+                <li class="mega-menu-all">
+                  <a href="{{ item.url | relative_url }}">Xem toàn bộ {{ item.name | downcase }} →</a>
+                </li>
+                {% endif %}
               </ul>
             </li>
             {% else %}
