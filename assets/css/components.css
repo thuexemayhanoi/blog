@@ -266,8 +266,7 @@
   transition: all var(--transition-fast);
 }
 
-.dropdown:hover .dropdown-menu,
-.dropdown-toggle:focus-within + .dropdown-menu {
+.dropdown-toggle[aria-expanded="true"] + .dropdown-menu {
   opacity: 1;
   visibility: visible;
   transform: translateY(0);
@@ -598,6 +597,15 @@
 
 .submenu-toggle[aria-expanded="true"] .submenu-arrow {
   transform: rotate(90deg);
+}
+
+.mobile-submenu[aria-hidden="true"] {
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.submenu-toggle[aria-expanded="true"] + .mobile-submenu {
+  visibility: visible;
 }
 
 .mobile-submenu {
