@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T02:13:27+00:00",
+  "updated_at": "2026-10-13T04:53:38+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02543",
-      "started_at": "2026-10-12T13:14:00+00:00",
-      "source": "_drafts/2026-10-11-quang-ngan-trong-noi-thanh-xe-ap-ien-i-bo-hay-goi-xe-cong-nghe.md",
-      "destination": "_posts/2026-10-11-quang-ngan-trong-noi-thanh-xe-ap-ien-i-bo-hay-goi-xe-cong-nghe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02544",
-      "started_at": "2026-10-12T13:14:00+00:00",
-      "source": "_drafts/2026-10-11-ha-noi-gio-cao-iem-ap-xe-ien-luc-nao-uong-nao-o-tac.md",
-      "destination": "_posts/2026-10-11-ha-noi-gio-cao-iem-ap-xe-ien-luc-nao-uong-nao-o-tac.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02545",
       "started_at": "2026-10-12T13:14:11+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "c788d96df4f988a8327403d4f28ce05eb4e851b3",
       "finished_at": "2026-10-13T02:13:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02505",
+      "started_at": "2026-10-13T04:53:38+00:00",
+      "source": "_drafts/2026-10-13-bi-giat-ien-thoai-hoac-tui-khi-i-xe-may-phan-ung-an-toan-viec-can-lam-tiep.md",
+      "destination": "_posts/2026-10-13-bi-giat-ien-thoai-hoac-tui-khi-i-xe-may-phan-ung-an-toan-viec-can-lam-tiep.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0ff28b803ca903fb8d42e51cfd65bf7ef99be0e1",
+      "finished_at": "2026-10-13T04:53:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02506",
+      "started_at": "2026-10-13T04:53:38+00:00",
+      "source": "_drafts/2026-10-13-kim-xang-xe-tay-ga-nhay-lung-tung-uoc-luong-xang-con-lai-e-khoi-chet-may.md",
+      "destination": "_posts/2026-10-13-kim-xang-xe-tay-ga-nhay-lung-tung-uoc-luong-xang-con-lai-e-khoi-chet-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "0ff28b803ca903fb8d42e51cfd65bf7ef99be0e1",
+      "finished_at": "2026-10-13T04:53:38+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
