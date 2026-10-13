@@ -14,7 +14,7 @@ Status: **ALL THREE PRS ARE DRAFT; NO MERGE / NO DEPLOY BY THIS TASK.**
 ## PR #26 — P0 Legal factual accuracy
 URL: https://github.com/thuexemayhanoi/blog/pull/26
 Branch: `fix/p0-license-facts-2026-10-14`
-Commit: `8e755d9ee9e4a60cc0aa30cf43bf7026c265acb9`
+Initial patch commit: `8e755d9ee9e4a60cc0aa30cf43bf7026c265acb9`; source-update commit: `b32a3694b097f2f479c288494ba0311f3d5c44db`.
 Changed file (ONLY): `_posts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md` (`BLG-00614`).
 
 Implemented ten exact, bounded substitutions in article text:
@@ -30,9 +30,9 @@ Implemented ten exact, bounded substitutions in article text:
 - Frontmatter is byte-identical; original `permalink`, `article_id`, SEO title, description, author, taxonomy preserved.
 - Strict source assertions: 10/10 old text patterns matched exactly once; after patch, original concrete false claims are absent.
 - GitHub PR diff: one article, approximately 8 added + 8 removed lines (same structural headings).
-- GitHub Actions run: https://github.com/thuexemayhanoi/blog/actions/runs/38437300022
-- **Quality gate (content FAST / engine FULL): SUCCESS** on patch SHA; **engine unit + concurrency tests: SKIPPED** for this content-only patch. Successful content gate is not proof of live rendered HTML/mobile QA.
-- Legislation source: https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm — Articles 56, 57, 59 (read and checked). Subject to current amendments and historical licence transition rules.
+- GitHub Actions initial-patch run: https://github.com/thuexemayhanoi/blog/actions/runs/38437300022
+- **Quality gate (content FAST / engine FULL): SUCCESS** on initial patch SHA `8e755d9...`; **RECHECK REQUIRED ON LATEST SHA `b32a369...`** after adding consolidated-law reference; **engine unit + concurrency tests: SKIPPED** for this content-only patch. Successful content gate is not proof of live rendered HTML/mobile QA.
+- Legislation: https://chinhphu.vn/?docid=217295&pageid=27160 (Văn bản hợp nhất 55/VBHN-VPQH 2026, updated for Law 118/2025/QH15 effective 2026-07-01) and https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm (law 36/2024/QH15, Articles 56/57/59). Historical licence transition rules must be treated separately.
 
 ## PR #25 — P1 Pricing Hub
 URL: https://github.com/thuexemayhanoi/blog/pull/25
