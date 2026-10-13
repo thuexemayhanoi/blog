@@ -24,6 +24,7 @@ plugins:
 exclude:
   - AGENTS.md
   - README.md
+  - THEME_UPGRADE_MATRIX.md
   - .sass-cache/
   - .jekyll-cache/
   - docs/
