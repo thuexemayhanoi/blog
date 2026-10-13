@@ -35,3 +35,13 @@ Snapshot base: `d3a6b13e528f4738e88c9df36efa6445517c09f9`.
 6. Do NOT modify 3 SEO PRs, `_posts/`, `_drafts/`, `data/state/`, matrix/content index, manifests, claims, transactions, workflow files, NAP or pricing, and DO NOT activate Writer.
 
 These are actual changes on independent GitHub branches, not production changes. No task automation was scheduled/modified as part of this theme job.
+
+## Additional independent performance batch E1
+- [PR #30](https://github.com/thuexemayhanoi/blog/pull/30), branch `feature/premium-theme-p1-remove-unused-nav-payload-2026-10-14`.
+- Commit `c1298c816aaa616943e2fd0aeac7e3769b236217`: remove unused `window.NGUYEN_TU_NAVIGATION` serialization only in `_layouts/default.html`.
+- Read-only usage audit: `main.js`, `calculator.js`, `assistant.js` contain **zero** usages of `NGUYEN_TU_NAVIGATION`; all required business, assistant, pricing globals and include tags preserved.
+- [Existing FULL Quality Gate](https://github.com/thuexemayhanoi/blog/actions/runs/38446332380) **IN PROGRESS** at last check. No measured payload savings yet; do not claim benchmark.
+- Three distinct Draft PRs #28 (accessibility), #29 (404), #30 (head payload), no merge to production.
+
+## Latest verification reminder
+Multiple new checkpoint/matrix commits were added to PR #28 after the first build started. GitHub checks are SHA-scoped; a green check on the earlier `30c54fc7` commit is **not** evidence that the newest PR #28 head `6e2cf4de` passed. Refresh checks for the current PR HEAD. Avoid additional workflow traffic solely for reporting.
