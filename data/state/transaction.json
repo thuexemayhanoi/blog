@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T05:49:03+00:00",
+  "updated_at": "2026-10-13T05:56:52+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02487",
-      "started_at": "2026-10-12T17:44:47+00:00",
-      "source": "_drafts/2026-10-12-gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra.md",
-      "destination": "_posts/2026-10-12-gan-gia-o-ien-thoai-len-xe-may-thue-hoi-cua-hang-va-thao-gon-khi-tra.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a858a1d07b8660dcc70ca5889d8a9bef5173c74d",
-      "finished_at": "2026-10-12T17:44:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02488",
-      "started_at": "2026-10-12T17:44:47+00:00",
-      "source": "_drafts/2026-10-12-xe-lam-bun-bui-sau-chuyen-i-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra.md",
-      "destination": "_posts/2026-10-12-xe-lam-bun-bui-sau-chuyen-i-ngoai-thanh-lau-so-va-chup-anh-truoc-khi-tra.md",
-      "result": "PUBLISHED",
-      "commit_sha": "a858a1d07b8660dcc70ca5889d8a9bef5173c74d",
-      "finished_at": "2026-10-12T17:44:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02489",
       "started_at": "2026-10-12T18:01:20+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "9e997d65254763da857cc9ee6b367101db7e6d4d",
       "finished_at": "2026-10-13T05:49:03+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02577",
+      "started_at": "2026-10-13T05:56:52+00:00",
+      "source": "_drafts/2026-10-13-di-xe-ga-ngay-ret-dam-o-ha-noi-mac-gi-de-khong-cung-tay-cung-chan.md",
+      "destination": "_posts/2026-10-13-di-xe-ga-ngay-ret-dam-o-ha-noi-mac-gi-de-khong-cung-tay-cung-chan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "181d0f36df9994afc96997c121e8a974c0267783",
+      "finished_at": "2026-10-13T05:56:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02578",
+      "started_at": "2026-10-13T05:56:52+00:00",
+      "source": "_drafts/2026-10-13-mot-vong-ho-tay-bang-honda-click-lo-trinh-diem-dung-va-gio-dep-trong-ngay.md",
+      "destination": "_posts/2026-10-13-mot-vong-ho-tay-bang-honda-click-lo-trinh-diem-dung-va-gio-dep-trong-ngay.md",
+      "result": "PUBLISHED",
+      "commit_sha": "181d0f36df9994afc96997c121e8a974c0267783",
+      "finished_at": "2026-10-13T05:56:52+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
