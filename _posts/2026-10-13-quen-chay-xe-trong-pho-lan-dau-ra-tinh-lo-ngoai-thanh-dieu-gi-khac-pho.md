@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-mistral-w1
 ---
 
-Chạy xe máy trong nội thành Hà Nội nhiều năm tạo ra một bộ phản xạ rất riêng: ga ngắt liên tục, bám sat xe trước để chen, giảm tốc nhờ đèn đỏ. Lần đầu chạy xe máy đường ngoại thành, bộ phản xạ đó gần như vô dụng, thậm chí nguy hiểm, vì tỉnh lộ chơi theo luật khác: tốc độ đều, khoảng cách xa, tầm nhìn dài. Bài này chỉ ra từng khác biệt cụ thể giữa phố và tỉnh lộ, ba thói quen phố cần bỏ ngay, cách xử lý xe tải lớn, và cách chia nghỉ để không về nhà trong tình trạng tay run.
+Chạy xe máy trong nội thành Hà Nội nhiều năm tạo ra một bộ phản xạ rất riêng: ga ngắt liên tục, bám sát xe trước để chen, giảm tốc nhờ đèn đỏ. Lần đầu chạy xe máy đường ngoại thành, bộ phản xạ đó gần như vô dụng, thậm chí nguy hiểm, vì tỉnh lộ chơi theo luật khác: tốc độ đều, khoảng cách xa, tầm nhìn dài. Bài này chỉ ra từng khác biệt cụ thể giữa phố và tỉnh lộ, ba thói quen phố cần bỏ ngay, cách xử lý xe tải lớn, và cách chia nghỉ để không về nhà trong tình trạng tay run.
 
 ## Lần đầu chạy xe máy đường ngoại thành: giữ ga đều thay vì ga ngắt
 
@@ -25,7 +25,7 @@ Không có vạch kẻ rõ ở nhiều đoạn, nên khái niệm làn xe trong 
 
 ## Người quen đi phố chạy đường tỉnh lộ: ba thói quen cần bỏ ngay
 
-Thói quen thứ nhất: bám sat. Trong phố, bám sat giúp bạn không bị chen mất chỗ; trên tỉnh lộ, bám sat là tự mất phản xạ của mình, vì bạn chỉ nhìn được vào đuôi xe trước mà không thấy chướng ngại phía xa. Khoảng cách an toàn tối thiểu là hai giây đếm trong đầu, và ba giây khi đường ướt.
+Thói quen thứ nhất: bám sát. Trong phố, bám sát giúp bạn không bị chen mất chỗ; trên tỉnh lộ, bám sát là tự mất phản xạ của mình, vì bạn chỉ nhìn được vào đuôi xe trước mà không thấy chướng ngại phía xa. Khoảng cách an toàn tối thiểu là hai giây đếm trong đầu, và ba giây khi đường ướt.
 
 Thói quen thứ hai: dựa vào đèn đỏ để giảm. Ngoài đô thị đèn đỏ hiếm, mà khi có cũng nằm ở giao lộ lớn có xe container; nếu bạn để chân ga hết cỡ rồi phanh sát vạch, phanh sau trên mặt đường bụi dễ trượt. Tập giảm sớm từ xa bằng buông ga, xem phanh là phương án cuối.
 
@@ -43,4 +43,4 @@ Nhiều người mới tưởng chạy tỉnh lộ nhẹ hơn phố vì đỡ ch
 
 Một điều nữa đáng chuẩn bị từ trước là thời tiết của ngày đầu ra tỉnh lộ. Nửa sáng mùa thu ở đồng ruộng ngoại thành Hà Nội thường có sương mù nhẹ, kéo tới tận tám giờ mới tan; người mới nên dời giờ xuất phát để đi sau khi sương tan, hoặc tạm giữ tuyến đường lớn thay vì đường đê hẹp. Nửa chiều trời đổi nhanh thành mưa dông, nên túi ni lông đựng giấy tờ và chiếc áo mưa mỏng gọn có giá trị hơn mọi phụ kiện khác. Về đêm, đoạn qua thị trấn thường đông hơn đoạn giữa vì dân đi ăn tối, đúng lúc đèn xe bạn phải bật sớm và mắt cần thời gian quen lại với bóng tối.
 
-Người quen đi phố muốn tập dượt trước kỳ đi xa, nên chọn tuyến và điểm dừng trong chuyên mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/). Các gợi ý về địa điểm cho chuyến ngày cuối tuần nằm trong mục [điểm đến](/du-lich/diem-den/); còn quy hoạch cả chuyến nhiều ngày quanh Hà Nội thì xem trong chuyên mục [du lịch Hà Nội](/du-lich/).
+Người quen đi phố muốn tập dượt trước kỳ đi xa, nên chọn tuyến và điểm dừng trong chuyên mục [ngoại thành Hà Nội](/du-lich/ngoai-thanh/). Các gợi ý về địa điểm cho chuyến ngày cuối tuần nằm trong mục [điểm đến](/du-lich/diem-den/); còn để chọn dòng xe và kiểu chuyến phù hợp, chuyên mục [du lịch Hà Nội](/du-lich/) có đầy đủ.
