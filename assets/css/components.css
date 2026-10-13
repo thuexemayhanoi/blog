@@ -2405,3 +2405,40 @@
     grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
+
+/* MEGA FOOTER: accessible back-to-top and a calmer premium visual rhythm. */
+.footer-bottom {
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+  flex-wrap: wrap;
+}
+.footer-back-to-top {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-xs) var(--spacing-md);
+  min-height: 44px;
+  color: var(--color-text);
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-full);
+  font-size: var(--font-size-xs);
+  font-weight: var(--font-weight-semibold);
+  text-decoration: none;
+}
+.footer-back-to-top:hover,
+.footer-back-to-top:focus-visible {
+  color: var(--color-primary);
+  border-color: var(--color-primary);
+}
+@media (max-width: 767px) {
+  .footer-bottom {
+    flex-direction: column;
+    text-align: center;
+  }
+  .footer-back-to-top {
+    width: 100%;
+  }
+}
