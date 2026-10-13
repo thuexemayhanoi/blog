@@ -9,26 +9,26 @@
         <span>{{ business.brand }}</span>
       </a>
       
-      <nav class="desktop-nav">
-        <ul class="nav-list" role="menubar">
+      <nav class="desktop-nav" aria-label="Điều hướng chính">
+        <ul class="nav-list">
           {% for item in nav %}
             {% if item.children %}
             <li class="dropdown">
-              <button class="dropdown-toggle" aria-expanded="false" aria-haspopup="true" role="menuitem">
+              <button type="button" class="dropdown-toggle" aria-expanded="false" aria-controls="nav-submenu-{{ item.id }}">
                 <span>{{ item.name }}</span>
                 {% include icon.html name="chevron-down" size="16" class="dropdown-icon" %}
               </button>
-              <ul class="dropdown-menu" role="menu">
+              <ul class="dropdown-menu" id="nav-submenu-{{ item.id }}">
                 {% for child in item.children %}
                 <li>
-                  <a href="{{ child.url | relative_url }}" class="dropdown-item" role="menuitem" {% if page.url == child.url %}aria-current="page"{% endif %}>{{ child.name }}</a>
+                  <a href="{{ child.url | relative_url }}" class="dropdown-item" {% if page.url == child.url %}aria-current="page"{% endif %}>{{ child.name }}</a>
                 </li>
                 {% endfor %}
               </ul>
             </li>
             {% else %}
             <li>
-              <a href="{{ item.url | relative_url }}" role="menuitem" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.name }}</a>
+              <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}aria-current="page"{% endif %}>{{ item.name }}</a>
             </li>
             {% endif %}
           {% endfor %}
@@ -66,7 +66,7 @@
   </div>
 </header>
 
-<div class="mobile-menu" id="mobileMenu" role="dialog" aria-modal="true">
+<div class="mobile-menu" id="mobileMenu" role="dialog" aria-modal="true" aria-label="Điều hướng trên thiết bị di động" aria-hidden="true" inert>
   <div class="mobile-menu-inner">
     <div class="mobile-header">
       <a href="{{ '/' | relative_url }}" class="mobile-logo">
@@ -82,12 +82,12 @@
         {% for item in nav %}
           {% if item.children %}
           <li class="mobile-nav-item has-submenu">
-            <button class="submenu-toggle" aria-expanded="false" {% if item.id == 'pricing' %}id="pricing-toggle"{% endif %}>
+            <button type="button" class="submenu-toggle" aria-expanded="false" aria-controls="mobile-submenu-{{ item.id }}">
               {% include icon.html name=item.icon size="20" %}
               <span>{{ item.name }}</span>
               {% include icon.html name="chevron-right" size="16" class="submenu-arrow" %}
             </button>
-            <ul class="mobile-submenu" {% if item.id == 'pricing' %}id="pricing-submenu"{% endif %} style="list-style: none; margin: 0; padding-left: 0;">
+            <ul class="mobile-submenu" id="mobile-submenu-{{ item.id }}" aria-hidden="true" inert style="list-style: none; margin: 0; padding-left: 0;">
     
           {% for child in item.children %}
       
