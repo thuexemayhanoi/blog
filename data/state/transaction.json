@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T02:07:08+00:00",
+  "updated_at": "2026-10-13T02:08:58+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02539",
-      "started_at": "2026-10-12T11:58:00+00:00",
-      "source": "_drafts/2026-10-11-dat-dung-chan-chong-quay-au-xe-ap-ien-nang-tay-meo-cho-nguoi-nho-con.md",
-      "destination": "_posts/2026-10-11-dat-dung-chan-chong-quay-au-xe-ap-ien-nang-tay-meo-cho-nguoi-nho-con.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42573cface59ee8a7fba03c112977bf25eb25869",
-      "finished_at": "2026-10-12T11:58:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02540",
       "started_at": "2026-10-12T11:58:00+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "ef088de736cda304b052eaba6fccb3ddb4005c45",
       "finished_at": "2026-10-13T02:07:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02501",
+      "started_at": "2026-10-13T02:08:58+00:00",
+      "source": "_drafts/2026-10-13-nga-xe-mot-minh-o-khuc-cua-kiem-tra-nguoi-va-xe-truoc-khi-chay-tiep.md",
+      "destination": "_posts/2026-10-13-nga-xe-mot-minh-o-khuc-cua-kiem-tra-nguoi-va-xe-truoc-khi-chay-tiep.md",
+      "result": "PUBLISHED",
+      "commit_sha": "97fb39ef2b48da30f89c815f151f0a93af9f127a",
+      "finished_at": "2026-10-13T02:08:58+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
