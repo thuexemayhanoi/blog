@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T06:12:27+00:00",
+  "updated_at": "2026-10-13T06:16:09+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02497",
-      "started_at": "2026-10-13T02:03:30+00:00",
-      "source": "_drafts/2026-10-13-xe-ga-thue-giat-cuc-khi-vua-bop-ga-luc-en-xanh-bat-dau-hieu-can-bao-cua-hang.md",
-      "destination": "_posts/2026-10-13-xe-ga-thue-giat-cuc-khi-vua-bop-ga-luc-en-xanh-bat-dau-hieu-can-bao-cua-hang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dba13a178a13de0c68a5d7ff183cb30ad11af522",
-      "finished_at": "2026-10-13T02:03:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02498",
-      "started_at": "2026-10-13T02:03:30+00:00",
-      "source": "_drafts/2026-10-13-xe-thue-tu-tat-may-moi-lan-dung-en-o-giu-an-toan-giua-nga-tu-ong.md",
-      "destination": "_posts/2026-10-13-xe-thue-tu-tat-may-moi-lan-dung-en-o-giu-an-toan-giua-nga-tu-ong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dba13a178a13de0c68a5d7ff183cb30ad11af522",
-      "finished_at": "2026-10-13T02:03:30+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02499",
       "started_at": "2026-10-13T02:07:08+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "d6b9d23657b3ae122384eb8ae20c2ba13f5b81bf",
       "finished_at": "2026-10-13T06:12:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02597",
+      "started_at": "2026-10-13T06:16:09+00:00",
+      "source": "_drafts/2026-10-13-yamaha-sirius-di-ba-vi-trong-ngay-duong-len-nui-diem-nghi-va-gio-xuat-phat.md",
+      "destination": "_posts/2026-10-13-yamaha-sirius-di-ba-vi-trong-ngay-duong-len-nui-diem-nghi-va-gio-xuat-phat.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a7b1caeab2117a589fbf93b6f3c0605e04ef4f1f",
+      "finished_at": "2026-10-13T06:16:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02598",
+      "started_at": "2026-10-13T06:16:09+00:00",
+      "source": "_drafts/2026-10-13-tu-long-bien-di-lang-gom-bat-trang-bang-sirius-duong-de-va-ngo-lang.md",
+      "destination": "_posts/2026-10-13-tu-long-bien-di-lang-gom-bat-trang-bang-sirius-duong-de-va-ngo-lang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "a7b1caeab2117a589fbf93b6f3c0605e04ef4f1f",
+      "finished_at": "2026-10-13T06:16:09+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
