@@ -9,6 +9,11 @@ main:
     url: "/gioi-thieu/"
     icon: "info"
 
+  - id: search
+    name: "Tìm kiếm"
+    url: "/tim-kiem/"
+    icon: "search"
+
   - id: blog
     name: "Cẩm nang"
     url: "/chu-de/"
@@ -159,6 +164,9 @@ footer:
 
   - title: "TIỆN ÍCH"
     links:
+      - name: "Tìm bài viết"
+        url: "/tim-kiem/"
+        icon: "search"
       - name: "Tính giá thuê"
         url: "/bang-gia/#tinh-gia"
         icon: "calculator"
