@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T06:18:27+00:00",
+  "updated_at": "2026-10-13T06:21:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02501",
-      "started_at": "2026-10-13T02:08:58+00:00",
-      "source": "_drafts/2026-10-13-nga-xe-mot-minh-o-khuc-cua-kiem-tra-nguoi-va-xe-truoc-khi-chay-tiep.md",
-      "destination": "_posts/2026-10-13-nga-xe-mot-minh-o-khuc-cua-kiem-tra-nguoi-va-xe-truoc-khi-chay-tiep.md",
-      "result": "PUBLISHED",
-      "commit_sha": "97fb39ef2b48da30f89c815f151f0a93af9f127a",
-      "finished_at": "2026-10-13T02:08:58+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02502",
-      "started_at": "2026-10-13T02:09:20+00:00",
-      "source": "_drafts/2026-10-13-tay-ga-bi-ket-khong-nha-ve-tat-may-bop-phanh-va-dung-xe-an-toan.md",
-      "destination": "_posts/2026-10-13-tay-ga-bi-ket-khong-nha-ve-tat-may-bop-phanh-va-dung-xe-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "be35bcb11a85774275a084c1b3b0dce90632df9a",
-      "finished_at": "2026-10-13T02:09:20+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02503",
       "started_at": "2026-10-13T02:13:27+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "d7cd00bc153606b9e8479c3152143e6248907e60",
       "finished_at": "2026-10-13T06:18:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02601",
+      "started_at": "2026-10-13T06:21:16+00:00",
+      "source": "_drafts/2026-10-13-sirius-ton-xang-co-nao-cho-mot-ngay-di-tu-do-bang-hai-lan-do-day-binh.md",
+      "destination": "_posts/2026-10-13-sirius-ton-xang-co-nao-cho-mot-ngay-di-tu-do-bang-hai-lan-do-day-binh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9aab4c0683725ee0b9b0217e020fe57a23f06c02",
+      "finished_at": "2026-10-13T06:21:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02602",
+      "started_at": "2026-10-13T06:21:16+00:00",
+      "source": "_drafts/2026-10-13-sirius-jupiter-va-exciter-ba-xe-so-yamaha-hay-bi-nham-khac-nhau-o-dau.md",
+      "destination": "_posts/2026-10-13-sirius-jupiter-va-exciter-ba-xe-so-yamaha-hay-bi-nham-khac-nhau-o-dau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9aab4c0683725ee0b9b0217e020fe57a23f06c02",
+      "finished_at": "2026-10-13T06:21:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
