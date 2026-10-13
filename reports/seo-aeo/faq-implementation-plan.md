@@ -27,8 +27,8 @@
 | Template: JSON-LD an toàn, `BlogPosting` đủ trường, `BreadcrumbList` mọi loại trang, bỏ breadcrumb/lead lặp, `priceRange` từ dữ liệu (§4 Template) | #14, #17 | Đã merge |
 | Hạ tầng FAQ dùng chung: `faq.html` + validator + parity + test + CI; mặc định không đổi HTML, schema tắt (pha 2) | #15 | Đã merge |
 | Sửa `slugify` mất chữ "đ" + re-slug hàng PLANNED chưa viết (phát hiện ngoài FAQ) | #19, #21 | Đã merge |
-| "Bài liên quan" phân bố đều + O(cụm) (phát hiện từ phân tích liên kết nội bộ; giảm thời gian build) | xem `faq-audit-summary.md` §16 | Xem §16 |
-| Nội dung theo matrix (pha 1/3/4) | — | Chỉ phần không cần quyết định của chủ; phần BLOCKED/pháp lý/MERGE chờ chủ (`faq-audit-summary.md` §17) |
+| "Bài liên quan" phân bố đều + O(cụm) (phát hiện từ phân tích liên kết nội bộ; giảm thời gian build ≈ 2 lần) | #22 | Đã merge (2026-10-13) |
+| Nội dung theo matrix (pha 1/3/4): 2 FAQ pilot (BLG-00090, BLG-00049; schema tắt), Q&A rời BLG-00036, bỏ claim bịa BLG-00003, mô tả riêng `/bai-viet/` | #23 | Đã merge (2026-10-13); phần BLOCKED/pháp lý/MERGE chờ chủ (`faq-audit-summary.md` §17) |
 
 ## 1. Ràng buộc lấy từ chính repo (không phải giả định)
 
