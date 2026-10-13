@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T02:03:30+00:00",
+  "updated_at": "2026-10-13T02:07:08+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02537",
-      "started_at": "2026-10-12T11:57:51+00:00",
-      "source": "_drafts/2026-10-11-chinh-yen-va-tay-lai-xe-ap-ien-cho-nguoi-thap-nguoi-cao-o-moi-goi-moi-lung.md",
-      "destination": "_posts/2026-10-11-chinh-yen-va-tay-lai-xe-ap-ien-cho-nguoi-thap-nguoi-cao-o-moi-goi-moi-lung.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42573cface59ee8a7fba03c112977bf25eb25869",
-      "finished_at": "2026-10-12T11:57:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02538",
-      "started_at": "2026-10-12T11:57:51+00:00",
-      "source": "_drafts/2026-10-11-mac-gi-khi-ap-xe-ien-vay-dep-le-quan-ong-rong-co-vuong-khong.md",
-      "destination": "_posts/2026-10-11-mac-gi-khi-ap-xe-ien-vay-dep-le-quan-ong-rong-co-vuong-khong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42573cface59ee8a7fba03c112977bf25eb25869",
-      "finished_at": "2026-10-12T11:57:52+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02539",
       "started_at": "2026-10-12T11:58:00+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "dba13a178a13de0c68a5d7ff183cb30ad11af522",
       "finished_at": "2026-10-13T02:03:30+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02499",
+      "started_at": "2026-10-13T02:07:08+00:00",
+      "source": "_drafts/2026-10-13-van-ga-may-gam-to-nhung-xe-khong-tien-nen-dung-va-goi-cua-hang.md",
+      "destination": "_posts/2026-10-13-van-ga-may-gam-to-nhung-xe-khong-tien-nen-dung-va-goi-cua-hang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ef088de736cda304b052eaba6fccb3ddb4005c45",
+      "finished_at": "2026-10-13T02:07:08+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02500",
+      "started_at": "2026-10-13T02:07:08+00:00",
+      "source": "_drafts/2026-10-13-chup-anh-va-quay-video-khi-xe-thue-gap-su-co-can-ghi-lai-nhung-gi.md",
+      "destination": "_posts/2026-10-13-chup-anh-va-quay-video-khi-xe-thue-gap-su-co-can-ghi-lai-nhung-gi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "ef088de736cda304b052eaba6fccb3ddb4005c45",
+      "finished_at": "2026-10-13T02:07:08+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
