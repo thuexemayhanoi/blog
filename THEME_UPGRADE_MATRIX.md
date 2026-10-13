@@ -87,3 +87,6 @@ No URL renames, canonical/structured-data changes, Factory state edits or genera
 - 40,000-post build capacity, Core Web Vitals LCP/INP/CLS, all responsive breakpoints, VoiceOver and WCAG 2.2 AA sitewide are **NOT BENCHMARKED / NOT CERTIFIED**.
 - Existing pagination and hub/site.posts scanning could become superlinear at high corpus counts. Any generator refactor needs separate Writer/Factory scope approval; do not silently alter.
 - Next action: await full gate #35, publish if PASS and owner approval still valid; refresh main and final Pages run; run live 404/home/search/article/menu/CTA smoke; update completion criteria honestly.
+
+### Verified Jekyll build baseline (NOT 40K)
+The completed [PR #33 FULL Quality Gate](https://github.com/thuexemayhanoi/blog/actions/runs/38451530588) job log shows Jekyll "done in **226.186 seconds**" and FAQ/schema audit "pages scanned: **3100**, pages with FAQ: **2**, errors: **0**". This is a measured production-like build for the then-current ~3.1K rendered page sample, **not** a 40,000-post performance extrapolation. Jekyll `post.html` prev/next and generated listing templates still iterate `site.posts`; optimizing those without output-diff evidence could change internal linking and is **blocked pending separate SEO + Factory scope approval**.
