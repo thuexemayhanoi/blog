@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T10:35:38+00:00",
+  "updated_at": "2026-10-13T10:37:39+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02599",
-      "started_at": "2026-10-13T06:18:27+00:00",
-      "source": "_drafts/2026-10-13-can-nhac-mua-sirius-thue-thu-vai-ngay-de-kiem-tra-gi-truoc-khi-quyet-dinh.md",
-      "destination": "_posts/2026-10-13-can-nhac-mua-sirius-thue-thu-vai-ngay-de-kiem-tra-gi-truoc-khi-quyet-dinh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d7cd00bc153606b9e8479c3152143e6248907e60",
-      "finished_at": "2026-10-13T06:18:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02600",
-      "started_at": "2026-10-13T06:18:27+00:00",
-      "source": "_drafts/2026-10-13-tieng-la-tu-may-xe-so-sirius-tieng-binh-thuong-tieng-can-bao-cua-hang.md",
-      "destination": "_posts/2026-10-13-tieng-la-tu-may-xe-so-sirius-tieng-binh-thuong-tieng-can-bao-cua-hang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d7cd00bc153606b9e8479c3152143e6248907e60",
-      "finished_at": "2026-10-13T06:18:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02601",
       "started_at": "2026-10-13T06:21:16+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "41ab4eb05ed6f8d3f7ed6bb8ef34936ebd09b22d",
       "finished_at": "2026-10-13T10:35:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02649",
+      "started_at": "2026-10-13T10:37:39+00:00",
+      "source": "_drafts/2026-10-13-chua-kim-lien-va-chua-tu-lien-ben-duong-au-co-ghe-ca-hai-trong-mot-buoi-sang.md",
+      "destination": "_posts/2026-10-13-chua-kim-lien-va-chua-tu-lien-ben-duong-au-co-ghe-ca-hai-trong-mot-buoi-sang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9c8e4775f2647e4868aa9310eb75b21a43707e1a",
+      "finished_at": "2026-10-13T10:37:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02650",
+      "started_at": "2026-10-13T10:37:39+00:00",
+      "source": "_drafts/2026-10-13-chay-xe-ven-de-va-bai-song-hong-khi-nuoc-len-dau-hieu-nen-quay-dau.md",
+      "destination": "_posts/2026-10-13-chay-xe-ven-de-va-bai-song-hong-khi-nuoc-len-dau-hieu-nen-quay-dau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9c8e4775f2647e4868aa9310eb75b21a43707e1a",
+      "finished_at": "2026-10-13T10:37:39+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
