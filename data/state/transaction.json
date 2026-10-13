@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T06:06:01+00:00",
+  "updated_at": "2026-10-13T06:12:27+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02495",
-      "started_at": "2026-10-12T18:14:02+00:00",
-      "source": "_drafts/2026-10-12-lac-tay-lai-nhun-phuoc-xoay-banh-kiem-tra-khung-xe-thue-bang-tay.md",
-      "destination": "_posts/2026-10-12-lac-tay-lai-nhun-phuoc-xoay-banh-kiem-tra-khung-xe-thue-bang-tay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1fea6058646305439e5ba65f24fea505b2cbe1fb",
-      "finished_at": "2026-10-12T18:14:02+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02496",
-      "started_at": "2026-10-12T18:14:02+00:00",
-      "source": "_drafts/2026-10-12-tay-phanh-xe-thue-bi-mem-bop-sat-tay-lai-van-hut-dung-an-toan-the-nao.md",
-      "destination": "_posts/2026-10-12-tay-phanh-xe-thue-bi-mem-bop-sat-tay-lai-van-hut-dung-an-toan-the-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1fea6058646305439e5ba65f24fea505b2cbe1fb",
-      "finished_at": "2026-10-12T18:14:02+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02497",
       "started_at": "2026-10-13T02:03:30+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "ded8cac828451c6fb28f996d7624ab5a8d27edf5",
       "finished_at": "2026-10-13T06:06:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02595",
+      "started_at": "2026-10-13T06:12:26+00:00",
+      "source": "_drafts/2026-10-13-quen-xe-con-tay-lan-dau-di-sirius-ly-hop-tu-dong-khac-gi-khi-doi-so.md",
+      "destination": "_posts/2026-10-13-quen-xe-con-tay-lan-dau-di-sirius-ly-hop-tu-dong-khac-gi-khi-doi-so.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d6b9d23657b3ae122384eb8ae20c2ba13f5b81bf",
+      "finished_at": "2026-10-13T06:12:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02596",
+      "started_at": "2026-10-13T06:12:27+00:00",
+      "source": "_drafts/2026-10-13-yamaha-sirius-di-tam-dao-tu-ha-noi-leo-doc-xuong-deo-va-nghi-may.md",
+      "destination": "_posts/2026-10-13-yamaha-sirius-di-tam-dao-tu-ha-noi-leo-doc-xuong-deo-va-nghi-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d6b9d23657b3ae122384eb8ae20c2ba13f5b81bf",
+      "finished_at": "2026-10-13T06:12:27+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
