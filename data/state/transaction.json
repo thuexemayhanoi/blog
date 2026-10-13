@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T14:02:32+00:00",
+  "updated_at": "2026-10-13T14:06:57+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02635",
-      "started_at": "2026-10-13T07:56:11+00:00",
-      "source": "_drafts/2026-10-13-chon-khach-san-trong-pho-co-khi-di-xe-may-hoi-gi-ve-cho-de-xe-va-duong-vao-ngo.md",
-      "destination": "_posts/2026-10-13-chon-khach-san-trong-pho-co-khi-di-xe-may-hoi-gi-ve-cho-de-xe-va-duong-vao-ngo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "50e9f2cc3c9566645392ebe934847883ce8f5009",
-      "finished_at": "2026-10-13T07:56:11+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02636",
-      "started_at": "2026-10-13T07:56:12+00:00",
-      "source": "_drafts/2026-10-13-di-le-ram-mung-mot-quanh-ho-guom-cho-do-le-bang-xe-may-va-cho-gui-xe.md",
-      "destination": "_posts/2026-10-13-di-le-ram-mung-mot-quanh-ho-guom-cho-do-le-bang-xe-may-va-cho-gui-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "50e9f2cc3c9566645392ebe934847883ce8f5009",
-      "finished_at": "2026-10-13T07:56:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02619",
       "started_at": "2026-10-13T09:45:53+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "d3b02ad9c54ac64b04156741708e51f53c56776e",
       "finished_at": "2026-10-13T14:02:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02687",
+      "started_at": "2026-10-13T14:06:57+00:00",
+      "source": "_drafts/2026-10-13-den-tran-va-chua-pho-minh-nam-dinh-bang-xe-may-mot-ngay-theo-dau-nha-tran.md",
+      "destination": "_posts/2026-10-13-den-tran-va-chua-pho-minh-nam-dinh-bang-xe-may-mot-ngay-theo-dau-nha-tran.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3b6c3de8f0d636d083bb8bee11e8e76bb03bb2d3",
+      "finished_at": "2026-10-13T14:06:57+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02688",
+      "started_at": "2026-10-13T14:06:57+00:00",
+      "source": "_drafts/2026-10-13-mua-vai-luc-ngan-bang-xe-may-di-cuoi-tuan-thang-sau-va-ghe-ho-cam-son.md",
+      "destination": "_posts/2026-10-13-mua-vai-luc-ngan-bang-xe-may-di-cuoi-tuan-thang-sau-va-ghe-ho-cam-son.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3b6c3de8f0d636d083bb8bee11e8e76bb03bb2d3",
+      "finished_at": "2026-10-13T14:06:57+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
