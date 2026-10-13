@@ -1,5 +1,6 @@
 ---
 date: 2026-09-18 09:56:44 +0700
+last_modified_at: 2026-10-13 10:00:00 +0700
 layout: post
 title: "Sạc pin xe máy điện đúng cách"
 author: "Nguyễn Tú"
@@ -51,7 +52,25 @@ Nhiệt độ cũng ảnh hưởng đến pin: để xe dưới nắng gắt lâ
 
 ## Câu hỏi thường gặp khi sạc xe điện
 
-Xe sạc bao lâu thì đầy? Thời gian sạc tùy dòng xe và dung lượng pin, thông tin cụ thể được ghi trong hướng dẫn đi kèm hoặc do cửa hàng tư vấn khi nhận xe, hãy hỏi rõ trước khi rời cửa hàng. Có thể sạc khi pin còn khá nhiều không? Được, sạc từng phần không gây hại như để cạn kiệt. Đang sạc có dùng xe được không? Không nên, hãy đợi rút sạc xong rồi mới khởi động. Nếu cúp điện giữa chừng sạc thì sao? Cắm lại là được, nhưng nên kiểm tra đèn báo sạc đã sáng lại chưa. Mưa có sạc được không? Chỉ sạc trong nơi khô ráo, tránh cắm sạc ngoài trời khi trời mưa để đảm bảo an toàn điện.
+### Xe sạc bao lâu thì đầy?
+
+Thời gian sạc tùy dòng xe và dung lượng pin, thông tin cụ thể được ghi trong hướng dẫn đi kèm hoặc do cửa hàng tư vấn khi nhận xe, hãy hỏi rõ trước khi rời cửa hàng.
+
+### Có thể sạc khi pin còn khá nhiều không?
+
+Được, sạc từng phần không gây hại như để cạn kiệt.
+
+### Đang sạc có dùng xe được không?
+
+Không nên, hãy đợi rút sạc xong rồi mới khởi động.
+
+### Nếu cúp điện giữa chừng sạc thì sao?
+
+Cắm lại là được, nhưng nên kiểm tra đèn báo sạc đã sáng lại chưa.
+
+### Mưa có sạc được không?
+
+Chỉ sạc trong nơi khô ráo, tránh cắm sạc ngoài trời khi trời mưa để đảm bảo an toàn điện.
 
 ## Kết luận
 

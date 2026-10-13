@@ -1,0 +1,16 @@
+{
+  "schema": true,
+  "heading": "Câu hỏi thường gặp",
+  "items": [
+    {
+      "q": "Đặt cọc thuê xe máy ở Nguyễn Tú là bao nhiêu?",
+      "a": "Mức cọc chính xác cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt.",
+      "src": "body"
+    },
+    {
+      "q": "Thuê xe máy điện hoặc xe đạp điện thì đặt cọc thế nào?",
+      "a": "Giá thuê hai dòng xe này hiện không niêm yết mức cố định, vì vậy cả giá thuê lẫn điều kiện cọc đều cần xác nhận trực tiếp trước khi đặt.",
+      "src": "body"
+    }
+  ]
+}
