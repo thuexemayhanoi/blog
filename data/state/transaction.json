@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T17:05:53+00:00",
+  "updated_at": "2026-10-13T17:09:58+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02647",
-      "started_at": "2026-10-13T10:35:38+00:00",
-      "source": "_drafts/2026-10-13-di-le-dau-nam-quanh-ho-tay-bang-xe-may-thu-tu-ghe-phu-chua-den-va-gio-do-dong.md",
-      "destination": "_posts/2026-10-13-di-le-dau-nam-quanh-ho-tay-bang-xe-may-thu-tu-ghe-phu-chua-den-va-gio-do-dong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "41ab4eb05ed6f8d3f7ed6bb8ef34936ebd09b22d",
-      "finished_at": "2026-10-13T10:35:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02648",
-      "started_at": "2026-10-13T10:35:38+00:00",
-      "source": "_drafts/2026-10-13-an-banh-tom-ho-tay-ven-duong-thanh-nien-ghe-bang-xe-may-luc-nao-gui-xe-ra-sao.md",
-      "destination": "_posts/2026-10-13-an-banh-tom-ho-tay-ven-duong-thanh-nien-ghe-bang-xe-may-luc-nao-gui-xe-ra-sao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "41ab4eb05ed6f8d3f7ed6bb8ef34936ebd09b22d",
-      "finished_at": "2026-10-13T10:35:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02649",
       "started_at": "2026-10-13T10:37:39+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "3ab84e818371279f82cd9ad9f32280e47de1c8bb",
       "finished_at": "2026-10-13T17:05:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02697",
+      "started_at": "2026-10-13T17:09:58+00:00",
+      "source": "_drafts/2026-10-13-di-mot-duong-ve-duong-khac-ghep-vong-tron-cho-chuyen-cuoi-tuan-tu-ha-noi.md",
+      "destination": "_posts/2026-10-13-di-mot-duong-ve-duong-khac-ghep-vong-tron-cho-chuyen-cuoi-tuan-tu-ha-noi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "17a25eb934b91c0c5804fbcf68bdba703e88a49b",
+      "finished_at": "2026-10-13T17:09:58+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02698",
+      "started_at": "2026-10-13T17:09:58+00:00",
+      "source": "_drafts/2026-10-13-dua-bo-me-lon-tuoi-di-choi-cuoi-tuan-bang-xe-may-chon-noi-it-leo-treo.md",
+      "destination": "_posts/2026-10-13-dua-bo-me-lon-tuoi-di-choi-cuoi-tuan-bang-xe-may-chon-noi-it-leo-treo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "17a25eb934b91c0c5804fbcf68bdba703e88a49b",
+      "finished_at": "2026-10-13T17:09:58+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
