@@ -61,7 +61,9 @@
   {% include footer.html %}
   
   <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
+  {% if page.layout == 'home' or page.url == '/bang-gia/' %}
   <script src="{{ '/assets/js/calculator.js' | relative_url }}"></script>
+  {% endif %}
   <script src="{{ '/assets/js/assistant.js' | relative_url }}"></script>
 </body>
 </html>
