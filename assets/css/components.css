@@ -1075,6 +1075,12 @@
   border-color: var(--color-primary);
   box-shadow: 0 0 0 3px var(--color-primary-light);
 }
+/* WCAG 2.2 AA: the subtle shadow alone is not sufficient keyboard focus. */
+.form-select:focus-visible,
+.form-input:focus-visible {
+  outline: 2px solid var(--color-primary);
+  outline-offset: 3px;
+}
 
 .form-select {
   cursor: pointer;
