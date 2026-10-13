@@ -71,3 +71,18 @@ P1 hubs: PR #25 and #27 remain Draft pending successful Jekyll build/HTML checks
 Rollback (if later deployed): revert the exact approved merge commits by ordinary non-force commit, preserving published Writer commits and content state.
 
 No changes to production in this audit run.
+
+## Full Jekyll QA trigger — 2026-10-14
+The existing read-only `.github/workflows/quality-gate.yml` was already designed to build Jekyll in FULL mode, but pure `thue-xe/*.md` changes were not in the PR trigger path list. Without changing workflow/code, added evidence-only Markdown under `reports/qa-audit/**` on **each independent draft PR branch**; this path is an existing PR trigger and makes `gate-scope.py` fail-closed to FULL. `reports/` is excluded from Jekyll public deployment via `_config.yml`.
+
+| PR | New QA-only commit | GitHub Actions run | Latest observed state |
+|---|---|---|---|
+| #25 Price | `190ad2ebd550fa8733ca85aa0895b905dc479cff` | https://github.com/thuexemayhanoi/blog/actions/runs/38439103882 | **IN_PROGRESS, Jekyll build running** |
+| #26 Legal | `cff28867cc197e9702ccc80f906d384b62ecc055` | https://github.com/thuexemayhanoi/blog/actions/runs/38439108006 | **PENDING** behind earlier legal PR check |
+| #27 Procedure | `458b536f451ec7c09ad45e2cd1c21be261f9859b` | https://github.com/thuexemayhanoi/blog/actions/runs/38439116291 | **IN_PROGRESS, Jekyll build running** |
+
+Do not imply any of these runs passed before the workflow reports completed/success; this is a launch/status snapshot, not QA certificate. Do not merge all drafts based merely on source-level checks.
+
+The pre-existing gate checks site-wide Jekyll build, built internal links, FAQ/schema, canonical and legacy hosts, sitemap hub integrity and crawler metadata; FULL mode also runs offline engine suites, potentially costly under active Writer production. No production/publisher state was changed.
+
+**Remaining** after SUCCESS: verify exact rendered H1/metadata of affected URLs (workflow's site-wide checks do not assert these three URLs specifically), user-facing responsive/visual QA, business policy and legal factual review, compare PR head against the continuously advancing `main`. Explicit release approval is still required.
