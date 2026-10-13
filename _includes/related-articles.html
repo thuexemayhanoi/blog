@@ -1,42 +1,89 @@
 {% comment %}
-Bài viết liên quan — chọn theo ngữ cảnh, KHÔNG ngẫu nhiên:
-1) cùng child_id (frontmatter hoặc factory-map), 2) cùng parent_id,
-3) cùng danh mục Jekyll. Tối đa 4 bài, không tự link. Thẻ chỉ chữ.
+Bài viết liên quan — chọn theo ngữ cảnh, KHÔNG ngẫu nhiên, và PHÂN PHỐI ĐỀU link nội bộ:
+1) cùng child_id (frontmatter hoặc factory-map), 2) cùng parent_id, 3) cùng danh mục Jekyll.
+Tối đa 4 bài, không tự link. Thẻ chỉ chữ.
+
+TRƯỚC ĐÂY: (a) lấy 4 bài MỚI NHẤT của cụm => mọi bài trong cụm cùng một bộ 4 bài, 100% link liên quan dồn vào bài mới,
+88% bài không nhận link nội bộ nào; (b) mỗi bài quét TOÀN BỘ site.posts (O(N^2) cho cả site) => ~45% thời gian build Jekyll.
+
+BÂY GIỜ:
+- Xếp các bài cùng cụm theo thứ tự CŨ -> MỚI (bài legacy theo _data/legacy-clusters.yml, rồi bài factory theo ngày)
+  và lấy 4 bài KẾ TIẾP theo vòng tròn (i+1..i+4): mỗi bài nhận đúng 4 link liên quan (cụm >= 5 bài), bộ liên quan khác nhau
+  giữa các bài, và bài đã đăng KHÔNG đổi bộ liên quan khi có bài mới (chỉ 4 bài cuối quay vòng đổi).
+- Chi phí mỗi trang ~ O(kích thước cụm): bài factory lấy bằng `where: "child_id"` (hàm C của Jekyll), bài legacy lấy từ
+  _data/legacy-clusters.yml (sinh từ factory-map); chỉ 4 bài kế tiếp mới cần tra object (`where: "slug"`).
+- Cụm < 5 bài: bù từ cùng parent rồi cùng danh mục bằng đường quét cũ (hiếm, chỉ chạy khi cần).
+Bất biến dữ liệu (scripts/factory/tests/test_related_cluster_data.py): bài legacy KHÔNG có child_id trong frontmatter và
+mọi slug trong legacy-clusters là bài thật; bài factory luôn có child_id trong frontmatter.
 {% endcomment %}
 {% assign rel_parent_id = include.parent_id %}
 {% assign rel_child_id = include.child_id %}
 {% assign rel_cat = include.category %}
-{% assign rel_same_child = '' | split: '' %}
-{% assign rel_same_parent = '' | split: '' %}
-{% assign rel_same_cat = '' | split: '' %}
-{% for post in site.posts %}
-  {% if post.url == page.url %}{% continue %}{% endif %}
-  {% assign p_parent = post.parent_id %}
-  {% assign p_child = post.child_id %}
-  {% if p_parent == nil or p_child == nil %}
-    {% assign m = site.data.factory-map[post.slug] %}
-    {% if m %}
-      {% if p_parent == nil %}{% assign p_parent = m.p %}{% endif %}
-      {% if p_child == nil %}{% assign p_child = m.c %}{% endif %}
+{% assign related = '' | split: '' %}
+
+{% if rel_child_id %}
+  {% assign rel_fac = site.posts | where: "child_id", rel_child_id | reverse %}
+  {% assign rel_leg = site.data.legacy-clusters[rel_child_id] %}
+  {% unless rel_leg %}{% assign rel_leg = '' | split: '' %}{% endunless %}
+  {% assign rel_nleg = rel_leg.size %}
+  {% assign rel_n = rel_nleg | plus: rel_fac.size %}
+  {% assign rel_idx = -1 %}
+  {% for s in rel_leg %}
+    {% if s == page.slug %}{% assign rel_idx = forloop.index0 %}{% break %}{% endif %}
+  {% endfor %}
+  {% if rel_idx < 0 %}
+    {% for p in rel_fac %}
+      {% if p.url == page.url %}{% assign rel_idx = forloop.index0 | plus: rel_nleg %}{% break %}{% endif %}
+    {% endfor %}
+  {% endif %}
+  {% if rel_idx >= 0 and rel_n > 1 %}
+    {% assign rel_take = rel_n | minus: 1 %}
+    {% if rel_take > 4 %}{% assign rel_take = 4 %}{% endif %}
+    {% for k in (1..rel_take) %}
+      {% assign rel_pos = rel_idx | plus: k | modulo: rel_n %}
+      {% if rel_pos < rel_nleg %}
+        {% assign rel_obj = site.posts | where: "slug", rel_leg[rel_pos] | first %}
+      {% else %}
+        {% assign rel_fpos = rel_pos | minus: rel_nleg %}
+        {% assign rel_obj = rel_fac[rel_fpos] %}
+      {% endif %}
+      {% if rel_obj %}{% assign related = related | push: rel_obj %}{% endif %}
+    {% endfor %}
+  {% endif %}
+{% endif %}
+
+{% if related.size < 4 %}
+  {%- comment -%} Cụm quá nhỏ (hoặc không có child_id): bù từ cùng parent rồi cùng danh mục (quét toàn site; hiếm). {%- endcomment -%}
+  {% assign rel_same_parent = '' | split: '' %}
+  {% assign rel_same_cat = '' | split: '' %}
+  {% for post in site.posts %}
+    {% if post.url == page.url %}{% continue %}{% endif %}
+    {% assign p_parent = post.parent_id %}
+    {% assign p_child = post.child_id %}
+    {% if p_parent == nil or p_child == nil %}
+      {% assign m = site.data.factory-map[post.slug] %}
+      {% if m %}
+        {% if p_parent == nil %}{% assign p_parent = m.p %}{% endif %}
+        {% if p_child == nil %}{% assign p_child = m.c %}{% endif %}
+      {% endif %}
     {% endif %}
-  {% endif %}
-  {% if p_child == rel_child_id and rel_same_child.size < 4 %}
-    {% assign rel_same_child = rel_same_child | push: post %}
-  {% elsif p_parent == rel_parent_id and rel_same_parent.size < 4 %}
-    {% assign rel_same_parent = rel_same_parent | push: post %}
-  {% elsif rel_cat and post.categories contains rel_cat and rel_same_cat.size < 4 %}
-    {% assign rel_same_cat = rel_same_cat | push: post %}
-  {% endif %}
-{% endfor %}
-{% assign related = rel_same_child %}
-{% assign maxp = 4 | minus: related.size %}
-{% for post in rel_same_parent limit: maxp %}
-  {% assign related = related | push: post %}
-{% endfor %}
-{% assign maxc = 4 | minus: related.size %}
-{% for post in rel_same_cat limit: maxc %}
-  {% assign related = related | push: post %}
-{% endfor %}
+    {% if p_child == rel_child_id %}{% continue %}{% endif %}
+    {% if p_parent == rel_parent_id and rel_same_parent.size < 4 %}
+      {% assign rel_same_parent = rel_same_parent | push: post %}
+    {% elsif rel_cat and post.categories contains rel_cat and rel_same_cat.size < 4 %}
+      {% assign rel_same_cat = rel_same_cat | push: post %}
+    {% endif %}
+  {% endfor %}
+  {% assign maxp = 4 | minus: related.size %}
+  {% for post in rel_same_parent limit: maxp %}
+    {% assign related = related | push: post %}
+  {% endfor %}
+  {% assign maxc = 4 | minus: related.size %}
+  {% for post in rel_same_cat limit: maxc %}
+    {% assign related = related | push: post %}
+  {% endfor %}
+{% endif %}
+
 {% if related.size > 0 %}
 <section class="article-related" aria-labelledby="related-heading">
   <h2 id="related-heading">Bài viết liên quan</h2>
