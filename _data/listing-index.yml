@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 152
   size: 12
-  total: 1814
+  total: 1816
 chia-se:
   pages: 10
   size: 12
@@ -53,6 +53,10 @@ topic:
     size: 24
     total: 46
   du-lich_ho-tay:
+    pages: 2
+    size: 24
+    total: 26
+  xe-may_honda-air-blade:
     pages: 2
     size: 24
     total: 26
