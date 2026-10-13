@@ -2,26 +2,23 @@
   "schema_version": "2",
   "mode": "new",
   "queue": [
-    "BLG-02623",
-    "BLG-02624"
+    "BLG-02626"
   ],
   "pair_size": 2,
-  "started": "2026-10-13T10:12:08Z",
-  "finished": "2026-10-13T10:12:16Z",
+  "started": "2026-10-13T10:13:32Z",
+  "finished": "2026-10-13T10:13:36Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-02623",
-        "BLG-02624"
+        "BLG-02626"
       ],
       "status": "recoverable"
     }
   ],
   "published": [],
   "recoverable": [
-    "BLG-02623",
-    "BLG-02624"
+    "BLG-02626"
   ],
   "deferred": [],
   "fatal": null
