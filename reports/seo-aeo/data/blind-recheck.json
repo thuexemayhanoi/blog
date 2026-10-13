@@ -1,0 +1,115 @@
+{
+ "n": 27,
+ "exact": {
+  "faq_status": "20/27 (74%)",
+  "recommended_action": "25/27 (93%)",
+  "priority": "25/27 (93%)",
+  "risk.level": "22/27 (81%)",
+  "ai_search_opportunity.level": "22/27 (81%)",
+  "cannibalization.level": "22/27 (81%)"
+ },
+ "priority_within_1": "27/27",
+ "disagreements": [
+  {
+   "id": "BLG-00194",
+   "first_vs_blind": {
+    "faq_status": [
+     "IMPLICIT",
+     "NONE"
+    ]
+   }
+  },
+  {
+   "id": "BLG-00083",
+   "first_vs_blind": {
+    "faq_status": [
+     "NONE",
+     "IMPLICIT"
+    ]
+   }
+  },
+  {
+   "id": "BLG-00077",
+   "first_vs_blind": {
+    "priority": [
+     "P3",
+     "P2"
+    ]
+   }
+  },
+  {
+   "id": "BLG-00207",
+   "first_vs_blind": {
+    "recommended_action": [
+     "MERGE",
+     "IMPROVE"
+    ]
+   }
+  },
+  {
+   "id": "BLG-00241",
+   "first_vs_blind": {
+    "faq_status": [
+     "NONE",
+     "IMPLICIT"
+    ]
+   }
+  },
+  {
+   "id": "BLG-00242",
+   "first_vs_blind": {
+    "faq_status": [
+     "NONE",
+     "IMPLICIT"
+    ]
+   }
+  },
+  {
+   "id": "BLG-00164",
+   "first_vs_blind": {
+    "faq_status": [
+     "NOT_RECOMMENDED",
+     "IMPLICIT"
+    ],
+    "recommended_action": [
+     "MERGE",
+     "NO_FAQ"
+    ],
+    "priority": [
+     "P2",
+     "P3"
+    ]
+   }
+  },
+  {
+   "id": "PG-CUNG-DUONG-CUNG-DUONG-CUOI-TUAN",
+   "first_vs_blind": {
+    "faq_status": [
+     "NONE",
+     "NOT_RECOMMENDED"
+    ]
+   }
+  },
+  {
+   "id": "PG-KY-NANG-TINH-HUONG-GIAO-THONG",
+   "first_vs_blind": {
+    "faq_status": [
+     "NONE",
+     "NOT_RECOMMENDED"
+    ]
+   }
+  }
+ ],
+ "p0_overlap": {
+  "first_only": [],
+  "blind_only": [],
+  "both": [
+   "BLG-00002",
+   "BLG-00003",
+   "BLG-00064",
+   "BLG-00073",
+   "PG-BANG-GIA",
+   "PG-BANG-GIA-XE-SO"
+  ]
+ }
+}

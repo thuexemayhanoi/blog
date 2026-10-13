@@ -1,0 +1,3509 @@
+{
+ "posts": {
+  "n": 300,
+  "status_NONE": 19,
+  "action_NO_FAQ": 269,
+  "priority_P3": 245,
+  "opportunity_LOW": 75,
+  "method_CONTENT": 294,
+  "risk_MEDIUM": 115,
+  "canni_LOW": 96,
+  "dup_NONE": 55,
+  "directness_PARTIAL": 205,
+  "extract_MEDIUM": 262,
+  "headings_OK": 120,
+  "unverifiable_claims_urls": 299,
+  "faqpage_eligible_now": 2,
+  "intent_INFORMATIONAL": 277,
+  "jsonld_all_valid_True": 300,
+  "has_faqpage_jsonld": 0,
+  "should_have_faq": 13,
+  "should_not_have_faq": 269,
+  "merge": 18,
+  "status_NOT_RECOMMENDED": 38,
+  "priority_P0": 26,
+  "opportunity_HIGH": 46,
+  "risk_HIGH": 26,
+  "canni_HIGH": 88,
+  "dup_LOW": 157,
+  "extract_HIGH": 30,
+  "headings_GOOD": 180,
+  "status_EXPLICIT": 13,
+  "action_IMPROVE": 10,
+  "canni_MEDIUM": 103,
+  "dup_HIGH": 88,
+  "intent_COMMERCIAL": 22,
+  "explicit_quality_FAIR": 11,
+  "status_IMPLICIT": 230,
+  "opportunity_MEDIUM": 179,
+  "risk_LOW": 159,
+  "intent_TRANSACTIONAL": 1,
+  "action_KEEP": 1,
+  "explicit_quality_GOOD": 1,
+  "priority_P2": 24,
+  "directness_DIRECT": 90,
+  "action_MERGE": 18,
+  "priority_P1": 5,
+  "method_COMPONENT": 6,
+  "action_ADD": 2,
+  "extract_LOW": 8,
+  "canni_NONE": 13,
+  "explicit_quality_WEAK": 1,
+  "directness_INDIRECT": 5,
+  "label": "posts"
+ },
+ "pages": {
+  "n": 77,
+  "status_NOT_RECOMMENDED": 53,
+  "action_NO_FAQ": 67,
+  "priority_P3": 66,
+  "opportunity_MEDIUM": 31,
+  "method_TEMPLATE": 7,
+  "risk_LOW": 38,
+  "canni_MEDIUM": 52,
+  "dup_HIGH": 50,
+  "directness_DIRECT": 11,
+  "extract_MEDIUM": 26,
+  "headings_OK": 73,
+  "unverifiable_claims_urls": 65,
+  "faqpage_eligible_now": 0,
+  "intent_COMMERCIAL": 8,
+  "jsonld_all_valid_True": 77,
+  "has_faqpage_jsonld": 0,
+  "should_have_faq": 10,
+  "should_not_have_faq": 67,
+  "merge": 0,
+  "opportunity_LOW": 40,
+  "method_CONTENT": 68,
+  "risk_MEDIUM": 27,
+  "canni_LOW": 9,
+  "directness_PARTIAL": 9,
+  "intent_INFORMATIONAL": 13,
+  "status_NONE": 13,
+  "dup_NONE": 16,
+  "directness_INDIRECT": 57,
+  "dup_LOW": 11,
+  "status_EXPLICIT": 10,
+  "action_IMPROVE": 10,
+  "priority_P0": 11,
+  "risk_HIGH": 12,
+  "explicit_quality_FAIR": 6,
+  "status_IMPLICIT": 1,
+  "headings_GOOD": 1,
+  "opportunity_HIGH": 6,
+  "canni_HIGH": 15,
+  "extract_HIGH": 9,
+  "explicit_quality_WEAK": 4,
+  "intent_NAVIGATIONAL": 55,
+  "canni_NONE": 1,
+  "headings_WEAK": 3,
+  "method_COMPONENT": 2,
+  "intent_LOCAL": 1,
+  "extract_LOW": 42,
+  "label": "pages"
+ },
+ "top20": [
+  {
+   "id": "BLG-00042",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/18/thue-honda-wave-o-ha-noi/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Chọn xe, giá, giấy tờ, cọc là câu hỏi cốt lõi của người thuê và bài đã có đáp án trực tiếp; nhưng đáp án giấy tờ/cọc là nội dung BLOCKED nên chỉ khai thác được sau khi chủ xe duyệt.",
+   "risk_reason": "Bài nêu khoảng cọc 2-5 triệu (BLOCKED), cam kết hoàn cọc và điều kiện bằng lái/tuổi như quy định chưa kiểm chứng; mâu thuẫn business-facts (cọc: xác nhận trực tiếp) và có thể làm khách hiểu sai."
+  },
+  {
+   "id": "BLG-00044",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/18/thue-xe-may-cho-sinh-vien-o-ha-noi/",
+   "priority": "P0",
+   "action": "MERGE",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Giá, chọn xe, giấy tờ cho sinh viên là câu hỏi thật và trang có đáp án; nhưng đáp án chính dính khẳng định chưa duyệt, trùng 2 bài cùng cụm. Đánh giá định tính, không dựa trên lưu lượng.",
+   "risk_reason": "Nêu khoảng cọc 2-5 triệu kèm cam kết hoàn cọc (BLOCKED) và điều kiện tuổi/CCCD/GPLX không nguồn; sinh viên có thể chuẩn bị sai số tiền và hiểu sai điều kiện."
+  },
+  {
+   "id": "BLG-00102",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/19/chi-phi-thue-xe-may-o-ha-noi-toan-canh/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Câu hỏi cốt lõi về chi phí thuê; bài có câu trả lời trực tiếp cho giá đã duyệt, nhưng chỉ nên khai thác sau khi bỏ số liệu cọc/phí trễ chưa duyệt. Đánh giá biên tập, không dựa trên dữ liệu truy cập.",
+   "risk_reason": "Bài nêu như sự thật khoảng cọc 2-5 triệu, hoàn cọc có điều kiện và phí trễ 20.000đ/giờ (BLOCKED); có thể làm người thuê hiểu sai điều kiện thuê."
+  },
+  {
+   "id": "PG-GIOI-THIEU",
+   "url": "https://blog.thuexemaynguyentu.com/gioi-thieu/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Có đáp án trực tiếp cho câu hỏi người thuê thật (loại xe, quy trình, giao nhận, giờ, giá tham khảo đã duyệt) và đã có khối Q&A; nhưng phải xử lý mục BLOCKED trước.",
+   "risk_reason": "FAQ và thân bài nêu cọc 2–5 triệu, phí trễ, 'không cung cấp bảo hiểm' (BLOCKED), cộng giấy tờ/tuổi chưa duyệt; đánh dấu FAQPage sẽ khuếch đại."
+  },
+  {
+   "id": "BLG-00003",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Chọn loại xe là quyết định cốt lõi của người thuê và bài đã có câu trả lời trực tiếp (bảng so sánh, gợi ý theo đối tượng, FAQ).",
+   "risk_reason": "FAQ nêu luật 50cc/GPLX như sự thật không nguồn, số % nhiên liệu không nguồn và 'hàng nghìn khách hàng' (claim bị cấm); có thể khiến khách hiểu sai."
+  },
+  {
+   "id": "BLG-00031",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/18/nen-thue-hay-mua-xe-may-o-ha-noi/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Câu hỏi 'thuê hay mua' là quyết định thực tế của người ở Hà Nội một thời gian và trang có đáp án trực tiếp, nhưng phải gỡ khoảng cọc chưa duyệt trước khi khai thác thêm.",
+   "risk_reason": "Trang nêu khoảng cọc 2–5 triệu và cam kết hoàn cọc đầy đủ — chủ đề BLOCKED, vượt dữ liệu đã duyệt (không nêu số cọc); khách có thể bị dẫn sai."
+  },
+  {
+   "id": "PG-BANG-GIA",
+   "url": "https://blog.thuexemaynguyentu.com/bang-gia/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Trang giá là ý định quyết định cao nhất (giá, cọc, giao nhận, trả muộn) và đã có câu trả lời trực tiếp; chỉ khai thác an toàn sau khi gỡ số BLOCKED. Đánh giá định tính, không dựa số liệu truy cập.",
+   "risk_reason": "Trang giá chính nêu cọc 2–5 triệu, hoàn cọc, phí trễ, bảo hiểm, mũ (BLOCKED) ngay trong FAQ; đánh dấu FAQPage sẽ khuếch đại số liệu chưa duyệt."
+  },
+  {
+   "id": "PG-BANG-GIA-XE-50CC",
+   "url": "https://blog.thuexemaynguyentu.com/bang-gia-xe-50cc/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Người thuê hỏi nhiều về bằng lái, giá và độ phù hợp của xe 50cc; trang đã có câu trả lời ngắn, trực tiếp. Chỉ khai thác an toàn sau khi bỏ khẳng định pháp lý không nguồn. Đánh giá định tính.",
+   "risk_reason": "Câu trả lời giấy phép lái xe (LEGAL) nằm trong FAQ sẽ bị đánh dấu; thân trang còn nêu phí trễ và mũ đi kèm (BLOCKED)."
+  },
+  {
+   "id": "PG-BANG-GIA-XE-GA",
+   "url": "https://blog.thuexemaynguyentu.com/bang-gia-xe-ga/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Ý định giá/chọn xe của người thuê, trang có giá duyệt kèm câu trả lời trực tiếp; cơ hội cao nhưng phải gỡ cọc/phí trễ/mũ và khẳng định pháp lý trước. Đánh giá định tính.",
+   "risk_reason": "FAQ có khẳng định pháp lý 'bắt buộc theo quy định giao thông' không nguồn; thân trang nêu cọc 2–5 triệu, phí trễ, mũ đi kèm (BLOCKED)."
+  },
+  {
+   "id": "BLG-00032",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/18/nen-thue-xe-may-tu-lai-hay-di-xe-cong-nghe/",
+   "priority": "P0",
+   "action": "MERGE",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Câu hỏi quyết định thực tế (tự lái hay gọi xe) có đáp án trực tiếp theo tần suất; nhưng cần gỡ các khẳng định chưa xác minh và gộp với bài trùng ý định.",
+   "risk_reason": "Câu bảo hiểm nêu như sự thật thuộc chủ đề BLOCKED, cộng khẳng định pháp lý không nguồn; gộp bài mà không xử lý sẽ nhân đôi các khẳng định này."
+  },
+  {
+   "id": "BLG-00007",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Cách đặt xe và giờ nhận là nhu cầu cốt lõi của người thuê; bài đã có hướng dẫn trực tiếp nhưng lẫn số liệu phí trả trễ chưa duyệt.",
+   "risk_reason": "Nêu phí trả trễ 20.000đ/giờ và 150.000-200.000đ như sự thật (chủ đề BLOCKED chưa duyệt); trang đặt xe có ý định cao nên dễ khiến khách hiểu sai."
+  },
+  {
+   "id": "BLG-00048",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/18/thue-xe-tay-ga-o-ha-noi-phu-hop-voi-ai/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "IMPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Chọn xe ga hay xe số và giá thuê xe ga là câu hỏi cốt lõi; trang có đáp án và giá khớp danh mục duyệt, cần bỏ khoảng cọc và chọn URL chuẩn trước. Đánh giá định tính.",
+   "risk_reason": "Nêu khoảng cọc 2-5 triệu và 'quy trình hoàn cọc' (BLOCKED) trên trang giá/chọn xe có ý định cao; khách có thể hiểu sai số tiền phải chuẩn bị."
+  },
+  {
+   "id": "PG-LIEN-HE",
+   "url": "https://blog.thuexemaynguyentu.com/lien-he/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Ý định địa phương/đặt xe rõ, có sẵn đáp án ngắn cho câu hỏi người thuê thật và dữ liệu địa chỉ/giờ đã duyệt; nhưng phải xử lý mục BLOCKED trước.",
+   "risk_reason": "FAQ nêu cọc 2–5 triệu, phí trả xe trễ, 'không cung cấp bảo hiểm' (BLOCKED) cùng thanh toán/giấy phép chưa duyệt; đánh dấu FAQPage sẽ khuếch đại."
+  },
+  {
+   "id": "BLG-00020",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Giấy tờ là câu hỏi cốt lõi trước khi thuê và trang có nhiều câu trả lời trực tiếp, nhưng chỉ nên khai thác sau khi gỡ nội dung chưa xác minh. Đánh giá biên tập, không dựa trên dữ liệu truy cập.",
+   "risk_reason": "Trang ý định cao (giấy tờ) nêu khoảng cọc 2-5 triệu (BLOCKED), ngụ ý giữ giấy tờ và nhiều khẳng định pháp lý chưa xác minh."
+  },
+  {
+   "id": "BLG-00035",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/18/quy-trinh-tra-xe-thue-dung-cach-tranh-tranh-chap/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Trả xe/hoàn cọc là câu hỏi cốt lõi của người thuê và bài có hướng dẫn trực tiếp; chỉ khai thác an toàn được sau khi chủ xe duyệt phí trễ và cọc.",
+   "risk_reason": "Bài nêu phí trễ 20.000đ/giờ, +1 ngày thuê 150-200k và cam kết hoàn cọc (BLOCKED, chưa có trong business-facts) nên có thể làm khách hiểu sai điều khoản."
+  },
+  {
+   "id": "BLG-00221",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/19/doc-hieu-dieu-khoan-hop-dong-thue-xe/",
+   "priority": "P0",
+   "action": "NO_FAQ",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Ý định cốt lõi của người thuê (hợp đồng, cọc, phí trễ) nhưng đáp án trực tiếp phần lớn thuộc chủ đề BLOCKED nên chưa khai thác được. Đánh giá biên tập, không dựa trên dữ liệu truy cập.",
+   "risk_reason": "Khẳng định như sự thật các mục BLOCKED (bên cho thuê không có bảo hiểm cho người thuê, không hoàn tiền thời gian chưa dùng, cơ chế cọc/phí trễ) và một khẳng định pháp lý không nguồn."
+  },
+  {
+   "id": "BLG-00046",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/18/thue-xe-may-ha-noi-cho-nguoi-nuoc-ngoai/",
+   "priority": "P0",
+   "action": "MERGE",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Giấy tờ và giấy phép lái xe cho khách nước ngoài là câu hỏi cốt lõi, trang có đáp án trực tiếp; chỉ khai thác sau khi chủ xe xác minh pháp lý và chọn URL chuẩn. Đánh giá định tính.",
+   "risk_reason": "Nhiều khẳng định pháp lý (GPLX, IDP, xe 50cc không cần bằng) và bảo hiểm (BLOCKED) nêu như sự thật; khách nước ngoài có thể làm theo rồi vi phạm hoặc thiếu bảo vệ."
+  },
+  {
+   "id": "BLG-00127",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/19/cho-nguoi-khac-muon-xe-thue-trach-nhiem/",
+   "priority": "P0",
+   "action": "MERGE",
+   "faq_status": "NOT_RECOMMENDED",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Câu hỏi quyết định thực tế của người thuê (cho bạn mượn xe, ai chịu cọc/hư hỏng) và bài có đáp án trực tiếp; chỉ khai thác an toàn sau khi gỡ cọc/bảo hiểm BLOCKED và chọn bài chuẩn với BLG-02030.",
+   "risk_reason": "Bài nêu khoảng cọc 2-5 triệu và 'cửa hàng không cung cấp bảo hiểm' như sự thật (BLOCKED, mâu thuẫn business-facts: cọc xác nhận trực tiếp), kèm khẳng định pháp lý không nguồn; khách có thể hiểu sai."
+  },
+  {
+   "id": "BLG-00132",
+   "url": "https://blog.thuexemaynguyentu.com/chia%20s%E1%BA%BB/2026/09/19/cho-tre-em-di-xe-may-thue-o-ha-noi/",
+   "priority": "P0",
+   "action": "IMPROVE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Câu hỏi thật của phụ huynh thuê xe (tuổi chở trẻ, mũ trẻ em, chọn xe) và bài đã có khối hỏi-đáp; chỉ khai thác an toàn khi gỡ khẳng định pháp lý không nguồn và phân vai với BLG-01702/BLG-01429.",
+   "risk_reason": "FAQ và thân bài nêu nghĩa vụ pháp lý về ghế/mũ trẻ em như chắc chắn nhưng không dẫn nguồn; câu 1 không nêu tuổi cụ thể; đánh dấu FAQPage sẽ khuếch đại. Mũ kèm xe cần giữ dạng 'hỏi trước'."
+  },
+  {
+   "id": "BLG-00213",
+   "url": "https://blog.thuexemaynguyentu.com/kinh%20nghi%E1%BB%87m/2026/09/19/dieu-kien-do-tuoi-khi-thue-va-lai-xe-may/",
+   "priority": "P0",
+   "action": "MERGE",
+   "faq_status": "EXPLICIT",
+   "opportunity": "HIGH",
+   "risk": "HIGH",
+   "why": "Câu hỏi tuổi/giấy phép khi thuê là ý định thật của người thuê và phụ huynh, bài có đáp án trực tiếp; nhưng cơ hội thuộc về một URL chuẩn của cụm (đánh giá biên tập, không có dữ liệu).",
+   "risk_reason": "Nêu khoảng cọc 2-5 triệu (BLOCKED) và các khẳng định pháp lý về tuổi/giấy phép như sự thật, kể cả trong cặp Q&A; dễ khiến người thuê hiểu sai."
+  }
+ ],
+ "duplicate_question_clusters": {
+  "method": "token-set Jaccard >= 0.6 on ascii-folded question tokens, different URLs",
+  "count": 22,
+  "clusters": [
+   {
+    "urls": [
+     "BLG-00081",
+     "PG-BANG-GIA-XE-50CC",
+     "PG-BANG-GIA-XE-DIEN",
+     "PG-BANG-GIA-XE-SO",
+     "PG-GIOI-THIEU",
+     "PG-KINH-NGHIEM",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 7,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "existing",
+      "q": "Tôi cần mang giấy tờ gì khi thuê xe?"
+     },
+     {
+      "id": "PG-KINH-NGHIEM",
+      "kind": "suggested",
+      "q": "Cần giấy tờ gì để thuê xe máy ở Hà Nội?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-50CC",
+      "kind": "suggested",
+      "q": "Thuê xe 50cc cần mang giấy tờ gì?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-DIEN",
+      "kind": "suggested",
+      "q": "Cần mang giấy tờ gì khi thuê xe điện?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-SO",
+      "kind": "suggested",
+      "q": "Cần mang giấy tờ gì khi thuê xe số?"
+     },
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "existing",
+      "q": "Tôi cần giấy tờ gì để thuê xe?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "existing",
+      "q": "Tôi cần những giấy tờ nào để thuê xe máy?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00051",
+     "PG-BANG-GIA",
+     "PG-BANG-GIA-XE-50CC",
+     "PG-BANG-GIA-XE-DIEN",
+     "PG-BANG-GIA-XE-SO"
+    ],
+    "n_urls": 5,
+    "questions": [
+     {
+      "id": "BLG-00051",
+      "kind": "existing",
+      "q": "Giá thuê xe số bao nhiêu?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-50CC",
+      "kind": "existing",
+      "q": "Giá thuê xe 50cc là bao nhiêu?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-DIEN",
+      "kind": "existing",
+      "q": "Giá thuê xe điện là bao nhiêu?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-SO",
+      "kind": "existing",
+      "q": "Giá thuê xe số theo tuần và tháng là bao nhiêu?"
+     },
+     {
+      "id": "PG-BANG-GIA",
+      "kind": "suggested",
+      "q": "Xe máy điện và xe đạp điện thuê giá bao nhiêu?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-BAI-VIET",
+     "PG-BANG-GIA",
+     "PG-BANG-GIA-XE-SO",
+     "PG-GIOI-THIEU"
+    ],
+    "n_urls": 4,
+    "questions": [
+     {
+      "id": "PG-BAI-VIET",
+      "kind": "suggested",
+      "q": "Có giao xe ngoài giờ hoạt động không?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-SO",
+      "kind": "suggested",
+      "q": "Có giao xe số ngoài giờ hoạt động không?"
+     },
+     {
+      "id": "PG-BANG-GIA",
+      "kind": "suggested",
+      "q": "Nguyễn Tú có giao xe ngoài giờ hoạt động không?"
+     },
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "suggested",
+      "q": "Nguyễn Tú có giao xe ngoài giờ hoạt động không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-BANG-GIA-XE-50CC",
+     "PG-BANG-GIA-XE-DIEN",
+     "PG-BANG-GIA-XE-GA",
+     "PG-BANG-GIA-XE-SO"
+    ],
+    "n_urls": 4,
+    "questions": [
+     {
+      "id": "PG-BANG-GIA-XE-50CC",
+      "kind": "suggested",
+      "q": "Nhận xe 50cc ở đâu và trong khung giờ nào?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-DIEN",
+      "kind": "suggested",
+      "q": "Nhận xe điện ở đâu và trong khung giờ nào?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-GA",
+      "kind": "suggested",
+      "q": "Nhận xe ga ở đâu và trong khung giờ nào?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-SO",
+      "kind": "suggested",
+      "q": "Nhận xe số ở đâu và trong khung giờ nào?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00003",
+     "BLG-00051",
+     "PG-BANG-GIA-XE-GA"
+    ],
+    "n_urls": 3,
+    "questions": [
+     {
+      "id": "BLG-00003",
+      "kind": "existing",
+      "q": "Xe ga có tốn xăng hơn xe số không?"
+     },
+     {
+      "id": "BLG-00051",
+      "kind": "suggested",
+      "q": "Xe số có tiết kiệm xăng hơn xe ga không?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-GA",
+      "kind": "existing",
+      "q": "Xe ga tốn xăng hơn xe số không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00050",
+     "PG-BANG-GIA-XE-50CC",
+     "PG-BANG-GIA-XE-DIEN"
+    ],
+    "n_urls": 3,
+    "questions": [
+     {
+      "id": "BLG-00050",
+      "kind": "suggested",
+      "q": "Xe 50cc có cần bằng lái không?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-50CC",
+      "kind": "existing",
+      "q": "Xe 50cc có cần giấy phép lái xe không?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-DIEN",
+      "kind": "existing",
+      "q": "Xe điện có cần giấy phép lái xe không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00081",
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 3,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "existing",
+      "q": "Tiền cọc bao nhiêu?"
+     },
+     {
+      "id": "BLG-00081",
+      "kind": "suggested",
+      "q": "Tiền cọc khi thuê xe là bao nhiêu?"
+     },
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "existing",
+      "q": "Tiền đặt cọc là bao nhiêu?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "existing",
+      "q": "Tiền đặt cọc là bao nhiêu?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00081",
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 3,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "existing",
+      "q": "Xe có đi kèm mũ bảo hiểm không?"
+     },
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "existing",
+      "q": "Xe có bảo hiểm không?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "existing",
+      "q": "Xe có bảo hiểm không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00081",
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 3,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "existing",
+      "q": "Cửa hàng có giao xe tận nơi không?"
+     },
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "existing",
+      "q": "Có giao xe tận nơi không?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "existing",
+      "q": "Có giao xe đến nơi tôi không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-BANG-GIA",
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 3,
+    "questions": [
+     {
+      "id": "PG-BANG-GIA",
+      "kind": "suggested",
+      "q": "Mức đặt cọc được xác nhận như thế nào?"
+     },
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "suggested",
+      "q": "Tiền đặt cọc khi thuê xe được xác nhận như thế nào?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "suggested",
+      "q": "Tiền đặt cọc khi thuê xe được xác nhận như thế nào?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00003",
+     "BLG-00050"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "BLG-00003",
+      "kind": "suggested",
+      "q": "Xe 50cc có đi đường dài hoặc lên đồi núi được không?"
+     },
+     {
+      "id": "BLG-00050",
+      "kind": "suggested",
+      "q": "Xe 50cc có đi đường dài được không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00050",
+     "PG-BANG-GIA-XE-50CC"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "BLG-00050",
+      "kind": "suggested",
+      "q": "Khi nào không nên chọn xe 50cc?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-50CC",
+      "kind": "suggested",
+      "q": "Khi nào không nên thuê xe 50cc?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00081",
+     "PG-KINH-NGHIEM"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "existing",
+      "q": "Xe hỏng giữa đường thì sao?"
+     },
+     {
+      "id": "PG-KINH-NGHIEM",
+      "kind": "existing",
+      "q": "Xe hỏng giữa đường thì sao?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00081",
+     "PG-BANG-GIA-XE-DIEN"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "existing",
+      "q": "Mưa to có chạy xe tiếp được không?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-DIEN",
+      "kind": "existing",
+      "q": "Xe điện có chạy được khi trời mưa không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "BLG-00081",
+     "BLG-00100"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "BLG-00081",
+      "kind": "suggested",
+      "q": "Trả xe trễ thì nên làm gì?"
+     },
+     {
+      "id": "BLG-00100",
+      "kind": "suggested",
+      "q": "Nếu có nguy cơ trả xe trễ thì nên làm gì?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-BANG-GIA-XE-50CC",
+     "PG-BANG-GIA-XE-GA"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-BANG-GIA-XE-50CC",
+      "kind": "existing",
+      "q": "Xe 50cc có chỗ chứa đồ không?"
+     },
+     {
+      "id": "PG-BANG-GIA-XE-GA",
+      "kind": "existing",
+      "q": "Xe ga có hộc chứa đồ không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-BANG-GIA",
+     "PG-BANG-GIA-XE-GA"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-BANG-GIA-XE-GA",
+      "kind": "suggested",
+      "q": "Giá thuê Honda Vision theo ngày, tuần, tháng là bao nhiêu?"
+     },
+     {
+      "id": "PG-BANG-GIA",
+      "kind": "suggested",
+      "q": "Giá thuê Honda Vision theo ngày, tuần, tháng là bao nhiêu?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-BANG-GIA",
+     "PG-BANG-GIA-XE-SO"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-BANG-GIA-XE-SO",
+      "kind": "suggested",
+      "q": "Giá thuê Honda Wave một ngày là bao nhiêu?"
+     },
+     {
+      "id": "PG-BANG-GIA",
+      "kind": "suggested",
+      "q": "Giá thuê Honda Wave một ngày là bao nhiêu?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "existing",
+      "q": "Thời gian thuê tối thiểu là bao lâu?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "existing",
+      "q": "Thời gian thuê tối thiểu là bao nhiêu?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "existing",
+      "q": "Tôi có thể hủy lịch đặt xe không?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "existing",
+      "q": "Tôi có thể hủy hoặc thay đổi lịch đặt xe không?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "suggested",
+      "q": "Tôi có thể hủy hoặc thay đổi lịch đặt xe không?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "suggested",
+      "q": "Cửa hàng thuê xe máy Nguyễn Tú ở đâu?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "suggested",
+      "q": "Cửa hàng thuê xe máy Nguyễn Tú ở đâu?"
+     }
+    ]
+   },
+   {
+    "urls": [
+     "PG-GIOI-THIEU",
+     "PG-LIEN-HE"
+    ],
+    "n_urls": 2,
+    "questions": [
+     {
+      "id": "PG-GIOI-THIEU",
+      "kind": "suggested",
+      "q": "Nguyễn Tú làm việc từ mấy giờ đến mấy giờ?"
+     },
+     {
+      "id": "PG-LIEN-HE",
+      "kind": "suggested",
+      "q": "Giờ làm việc của Nguyễn Tú là mấy giờ?"
+     }
+    ]
+   }
+  ]
+ },
+ "rows": {
+  "posts": 300,
+  "pages": 77,
+  "missing": []
+ },
+ "cannibalization_groups": [
+  {
+   "ids": [
+    "BLG-00002",
+    "BLG-00354",
+    "BLG-00432",
+    "BLG-00484"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00432 cùng câu hỏi 'cần chuẩn bị gì trước khi nhận xe' (giấy tờ, kiểm tra xe); BLG-00354 = câu nên hỏi cửa hàng; BLG-00484 = bảng giá. Bài này nên là bản chuẩn (trụ cột) cho 'kinh nghiệm thuê xe'."
+  },
+  {
+   "ids": [
+    "BLG-00003",
+    "BLG-01355",
+    "BLG-01532",
+    "BLG-01826",
+    "BLG-01965",
+    "BLG-02285"
+   ],
+   "level": "MEDIUM",
+   "notes": "Các bài hỏi-đáp chuyên biệt (lần đầu thuê, đi làm, dài hạn, Ba Vì, phố cổ) trả lời cùng câu hỏi chọn số hay ga theo từng tình huống; bài này giữ vai trò so sánh tổng quan."
+  },
+  {
+   "ids": [
+    "BLG-00004",
+    "BLG-00499",
+    "BLG-00968",
+    "BLG-01950"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00499 và BLG-01950 gần như trùng tiêu đề/ý định 'thủ tục thuê xe cho người lần đầu' nhưng ngắn hơn; bài này đủ 7 bước nên là bản chuẩn, hai bài kia gộp/chuyển hướng hoặc phân biệt ý định. BLG-00968 = câu nên hỏi."
+  },
+  {
+   "ids": [
+    "BLG-00006",
+    "BLG-00335",
+    "BLG-01375",
+    "BLG-01686"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01686 (xe ga) và BLG-01375 (xe số đường trường) trả lời riêng 'áp suất bao nhiêu'; BLG-00335 nói nắp van và kiểm tra xe thuê. Bài này nên là bài tổng quan, các bài kia là ý định con."
+  },
+  {
+   "ids": [
+    "BLG-00007",
+    "BLG-00502",
+    "BLG-00511",
+    "BLG-01766"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00502 gần như cùng tiêu đề/ý định 'đặt trước qua điện thoại hoặc Zalo' nhưng ngắn hơn; BLG-00511 trùng phần điện thoại; BLG-01766 là hỏi-đáp chốt cọc qua Zalo. Bài này đầy đủ nhất nên làm bản chuẩn."
+  },
+  {
+   "ids": [
+    "BLG-00008",
+    "BLG-00672",
+    "BLG-00742",
+    "BLG-01494",
+    "BLG-02309"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00742 gần như cùng câu hỏi (cầu Long Biên + đường ven sông bằng xe máy); BLG-00672 gửi xe/đường đi, BLG-01494 chợ sáng, BLG-02309 lịch sử là ý định con mà bài này gộp chung. Nên chọn một bài chính và liên kết sang bài con."
+  },
+  {
+   "ids": [
+    "BLG-00010",
+    "BLG-00504",
+    "BLG-00543",
+    "BLG-01538",
+    "BLG-01792"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00504 cùng cấu trúc (vòng ngoài, điện, vận hành, chạy thử, biên nhận); BLG-00543 thêm thời điểm nhận; BLG-01792/01538 là ý định con 'nhận xe buổi tối'. Bài này dài và đầy đủ nhất nên làm bản chuẩn."
+  },
+  {
+   "ids": [
+    "BLG-00003",
+    "BLG-00012",
+    "BLG-00569",
+    "BLG-00921",
+    "BLG-01532",
+    "BLG-02285"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00921 và BLG-00569 cùng câu hỏi chính (xe số hay xe ga đường trường); BLG-00012 dài và đủ hơn nên là bản chính đề xuất. BLG-02285 (Ba Vì, Tam Đảo), BLG-01532 (dài hạn), BLG-00003 (có 50cc) là ý định con."
+  },
+  {
+   "ids": [
+    "BLG-00013",
+    "BLG-00014",
+    "BLG-00176",
+    "BLG-00743",
+    "BLG-00770"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài tổng quan: Bước 5 (đồ đạc) trùng BLG-00014, thời tiết và kiểm tra xe cũng có bài riêng. Bài tuyến cụ thể (Tam Đảo BLG-00770/00176, Ba Vì BLG-00743) phục vụ ý định theo điểm đến."
+  },
+  {
+   "ids": [
+    "BLG-00015",
+    "BLG-00220",
+    "BLG-00933",
+    "BLG-01773",
+    "BLG-02395",
+    "BLG-02402"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00933 cùng câu hỏi chính (khi nào báo cửa hàng); BLG-00015 dài, chi tiết hơn nên là bản chính đề xuất. BLG-01773 (phanh yếu), BLG-00220 (lốp mòn) là ý định con; BLG-02402, BLG-02395 khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00016",
+    "BLG-00180",
+    "BLG-00264",
+    "BLG-01363"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00180 (đi xe đêm muộn an toàn) trùng một phần chủ đề đi đêm; BLG-01363 (đèn pha không sáng) trùng mục đèn sự cố; BLG-00264 (gửi xe ban đêm) khác ý định, chỉ liên quan."
+  },
+  {
+   "ids": [
+    "BLG-00020",
+    "BLG-00500",
+    "BLG-00510",
+    "BLG-00534",
+    "BLG-00539",
+    "BLG-01993"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01993, BLG-00500, BLG-00510 cùng câu hỏi chính (giấy tờ cần mang); BLG-00539, BLG-00534 là ý định con (khách nước ngoài). BLG-00020 là ứng viên bản chính (đầy đủ nhất, thuộc hub Giấy tờ) sau khi gỡ nội dung BLOCKED."
+  },
+  {
+   "ids": [
+    "BLG-00021",
+    "BLG-00268",
+    "BLG-00962",
+    "BLG-00991"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00268 trùng mục gửi xe tham quan, BLG-00962 trùng mục qua đêm (ý định con); BLG-00991 cùng chủ đề cho khách quốc tế. Bài này là hướng dẫn chung, nên link sang bài con thay vì lặp."
+  },
+  {
+   "ids": [
+    "BLG-00022",
+    "BLG-00307",
+    "BLG-00675",
+    "BLG-01612",
+    "BLG-01976"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài tổng hợp trùng mục đường đê với BLG-01976/BLG-01612 và mục Bát Tràng với BLG-00307/BLG-00675 (ý định con). Đánh giá chỉ dựa trên tiêu đề, cần đối chiếu nội dung trước khi gộp hay phân vai."
+  },
+  {
+   "ids": [
+    "BLG-00024",
+    "BLG-00026",
+    "BLG-01713"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00026 (cùng cụm Phố cổ Hoàn Kiếm) trùng phố đi bộ cuối tuần, gửi xe, lịch trình; BLG-01713 chuyên 'gửi xe phố đi bộ Hồ Gươm'. Bài này nên giữ vai trò hướng dẫn khu vực tổng quan."
+  },
+  {
+   "ids": [
+    "BLG-00025",
+    "BLG-01716",
+    "BLG-01834"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01716 (chạy xe vòng Hồ Tây buổi sáng sớm) trùng mục đường ven hồ và thời điểm; BLG-01834 (điểm gửi xe và cung đường quanh Hồ Tây) trùng mục gửi xe. Các bài khu vực khác (Phố Cổ, Ba Đình, Hoàn Kiếm) khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00024",
+    "BLG-00026",
+    "BLG-00029",
+    "BLG-01713"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00024 (cùng cụm) trùng phố đi bộ cuối tuần, gửi xe, lịch trình; BLG-01713 chuyên gửi xe phố đi bộ; BLG-00029 chuyên lái xe giờ cao điểm. Bài này giữ vai trò hướng dẫn khu Phố Cổ từ Long Biên."
+  },
+  {
+   "ids": [
+    "BLG-00028",
+    "BLG-00794",
+    "BLG-00796",
+    "BLG-00802",
+    "BLG-00804",
+    "BLG-00806"
+   ],
+   "level": "MEDIUM",
+   "notes": "Năm bài 'Kinh nghiệm đường đến Cửa Lò/Yên Tử/Ba Bể/Thiên Cầm/Sầm Sơn: xăng và nghỉ' cùng khuôn 'xăng và nghỉ' nhưng gắn điểm đến riêng (đối chiếu qua tiêu đề, chưa đọc nội dung). Bài này nên là bài tổng quan."
+  },
+  {
+   "ids": [
+    "BLG-00030",
+    "BLG-00407",
+    "BLG-02282"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00407 (đã xem tiêu đề mục): thuê xe cuối tuần ngay trong Hà Nội, có mục chi phí; BLG-02282: một ngày nội đô, một ngày ngoại thành. Bài này tập trung chuyến ra ngoại thành 60–100 km."
+  },
+  {
+   "ids": [
+    "BLG-00031",
+    "BLG-00333",
+    "BLG-00435",
+    "BLG-00523",
+    "BLG-02407"
+   ],
+   "level": "MEDIUM",
+   "notes": "Họ bài 'thuê hay mua': BLG-00523 (chi phí thuê tháng và mua xe cũ), BLG-00435 (thuê trải nghiệm trước khi mua), BLG-00333 (mua xe riêng), BLG-02407 (thuê thử Vision/Air Blade). Bài này là so sánh tổng quan."
+  },
+  {
+   "ids": [
+    "BLG-00032",
+    "BLG-00940",
+    "BLG-01411",
+    "BLG-01789",
+    "BLG-02419"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00940 trả lời cùng câu hỏi chính (tự lái hay xe ôm công nghệ nội đô); BLG-01789 (thuê tháng vs xe ôm), BLG-02419 (thuê tháng vs buýt/xe công nghệ), BLG-01411 (xe thuê vs taxi) là nhánh chi phí. Cần chọn một bài chuẩn."
+  },
+  {
+   "ids": [
+    "BLG-00033",
+    "BLG-00579",
+    "BLG-00582",
+    "BLG-02248"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00582 'Xe đạp điện khác gì xe máy điện' trả lời cùng câu hỏi chính với cùng bộ tiêu chí (cấu tạo, tốc độ, giấy tờ, sạc, chọn loại); bài này dài hơn. BLG-02248 hẹp hơn (đi dạo quanh hồ); BLG-00579 là điện so với xăng."
+  },
+  {
+   "ids": [
+    "BLG-00034",
+    "BLG-00516"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00516 'Thuê xe máy một ngày đi được bao nhiêu km' (cùng cụm Thuê xe theo ngày) trả lời cùng câu hỏi chính, góc xe thuê/giới hạn km; bài này góc thể lực và lập kế hoạch. Cần phân vai và liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00035",
+    "BLG-00250",
+    "BLG-00505"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00505 cùng ý định chính (quy trình trả xe tránh tranh chấp); BLG-00250 (tranh chấp hư hỏng khi trả) và BLG-00530 (tranh chấp cọc) là ý định phụ. Nên chọn một bản canonical sau khi chủ xe chốt chính sách."
+  },
+  {
+   "ids": [
+    "BLG-00036",
+    "BLG-00381",
+    "BLG-01985",
+    "BLG-02066"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trùng ý định phụ: sạc xe điện thuê ở ổ sạc/trạm đổi pin (BLG-02066) và trạm công cộng (BLG-01985, BLG-00381). Bài này là nguyên tắc sạc chung + kiểm tra khi nhận xe."
+  },
+  {
+   "ids": [
+    "BLG-00037",
+    "BLG-01416"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01416 'Thuê xe máy theo tháng ai chịu phí thay dầu định kỳ' trùng ý định phụ 'ai chịu thay nhớt khi thuê'; ý định chính (kỳ hạn, dấu hiệu) khác. Dầu phanh (BLG-01986/01379) và lọc gió (BLG-02166) chỉ liên quan."
+  },
+  {
+   "ids": [
+    "BLG-00038",
+    "BLG-00310",
+    "BLG-00336"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00336 trả lời cùng câu hỏi quyết định 'có nên đi khi thời tiết xấu' (góc người thuê xe); BLG-00310 trùng phần 'đọc dự báo theo khung giờ' và 'thời tiết theo mùa'. Cần phân vai, liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00039",
+    "BLG-00596",
+    "BLG-01674"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00596 (cùng cụm, tương đồng 0,62) trùng nửa sau tiêu đề 'khác gì xe ga phổ thông'; bài này có thêm giá và thuê dài ngày. BLG-01674 (người thích ga mạnh) là ý định phụ."
+  },
+  {
+   "ids": [
+    "BLG-00040",
+    "BLG-00602",
+    "BLG-01677"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00602 'So sánh Honda Click và Yamaha Mio khi thuê' (cùng cụm) trùng phần giá/chọn xe; BLG-01677 (Click cho khách thích xe nhỏ gọn) là ý định phụ. Bài Vision (BLG-00041) cùng khuôn nhưng khác xe."
+  },
+  {
+   "ids": [
+    "BLG-00041",
+    "BLG-00048",
+    "BLG-00591"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00591 cùng câu hỏi chính (Vision hợp với ai, giá, nhận xe); BLG-00048 trùng ý định 'xe tay ga hợp với ai' ở mức loại xe. BLG-00040 (Click/Mio) cùng khuôn nhưng khác xe."
+  },
+  {
+   "ids": [
+    "BLG-00042",
+    "BLG-00586",
+    "BLG-02375"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00586 'Honda Wave hợp với nhu cầu thuê nào' (tương đồng 0,47) cùng câu hỏi chính; BLG-02375 (hỏi-đáp Wave/Vision/Air Blade/Click/Mio hợp với ai) trùng phần 'so nhanh'. BLG-00934 (Wave và Sirius) là ý định phụ."
+  },
+  {
+   "ids": [
+    "BLG-00044",
+    "BLG-01074",
+    "BLG-02110"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02110 (giá và điều kiện cho sinh viên) cùng câu hỏi chính, đề xuất làm URL chuẩn vì tiêu đề khớp; BLG-01074 là sub-intent thuê tháng. Bài này giữ phần riêng (làm thêm, giờ cao điểm) và link về URL chuẩn."
+  },
+  {
+   "ids": [
+    "BLG-00045",
+    "BLG-00576",
+    "BLG-00577",
+    "BLG-00581",
+    "BLG-02066"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00576 và BLG-00581 cùng câu hỏi chính (thuê xe điện cần biết gì); BLG-02066 (sạc) và BLG-00577 (quãng đường) là sub-intent đã có bài riêng. Bài này đầy đủ nhất, nên làm URL chuẩn tổng quan."
+  },
+  {
+   "ids": [
+    "BLG-00046",
+    "BLG-00534",
+    "BLG-00994",
+    "BLG-01091"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00534 cùng câu hỏi chính (người nước ngoài cần gì); BLG-01091 giấy tờ + cách trao đổi; BLG-00994 bị dừng kiểm tra giấy tờ. Chỉ một URL chuẩn giữ phần giấy tờ/GPLX (đề xuất BLG-00534); bài này giữ phần giao thông/gửi xe."
+  },
+  {
+   "ids": [
+    "BLG-00047",
+    "BLG-00938",
+    "BLG-01468",
+    "BLG-02416"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02416 cùng câu hỏi (ngày/tuần/tháng, mốc chốt gói tháng); BLG-00938 là sub-intent 3 tháng so với 1 tháng; BLG-01468 là lịch bảo dưỡng khi thuê tháng. Bài này rộng nhất, nên làm URL chuẩn và link sang các bài con."
+  },
+  {
+   "ids": [
+    "BLG-00040",
+    "BLG-00041",
+    "BLG-00048",
+    "BLG-00566"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00566 cùng câu hỏi chính (xe tay ga phù hợp với ai); BLG-00041 (Vision) và BLG-00040 (Click/Mio) là sub-intent theo dòng xe, chồng mục giá. Bài này đầy đủ hơn, có thể làm URL chuẩn sau khi bỏ khoảng cọc."
+  },
+  {
+   "ids": [
+    "BLG-00049",
+    "BLG-00532",
+    "BLG-00944"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00532 cùng cụm cọc (checklist câu hỏi), gần cùng câu hỏi chính; BLG-00944 là ý định 'thuê không cần đặt cọc'. Bài này đầy đủ hơn, nên làm URL chuẩn của cụm cọc (cần chủ xe xác nhận)."
+  },
+  {
+   "ids": [
+    "BLG-00050",
+    "BLG-00490",
+    "BLG-01655",
+    "BLG-02064"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02064 (50cc đi phố: nhẹ, chậm, đúng làn) trùng phần phù hợp/giới hạn; BLG-00490 là sub-intent giá thuê 50cc; BLG-01655 là 50cc cho học sinh. Bài này là tổng quan, giữ làm URL chuẩn cho 'xe 50cc có phù hợp'."
+  },
+  {
+   "ids": [
+    "BLG-00051",
+    "BLG-00560",
+    "BLG-00565"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00560 (Xe số là gì và ai nên thuê) cùng câu hỏi chính, cũng có mục câu hỏi thường gặp; BLG-00565 (ai nên thuê xe số) là sub-intent. Cần thống nhất URL chuẩn và bộ câu hỏi, tránh hai FAQ trùng."
+  },
+  {
+   "ids": [
+    "BLG-00052",
+    "BLG-00318",
+    "BLG-00611",
+    "BLG-00927"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00611 và BLG-00927 cùng ý định dấu hiệu/xử lý ắc quy yếu; bài này khác ở xe ga + khóa từ + phòng tránh; BLG-00318 (mất chìa khóa) là sub-intent liền kề, được nhắc nhưng chưa liên kết."
+  },
+  {
+   "ids": [
+    "BLG-00055",
+    "BLG-00113",
+    "BLG-01964"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00113 (chở đồ đi chợ và mua sắm an toàn bằng xe máy thuê) cùng câu hỏi chính, theo tiêu đề (chưa đọc nội dung); bài này là biến thể 'bà mẹ'. BLG-01964 là gửi xe khi đi chợ. Nên phân vai hoặc gộp."
+  },
+  {
+   "ids": [
+    "BLG-00056",
+    "BLG-00298",
+    "BLG-00313",
+    "BLG-01339",
+    "BLG-01743",
+    "BLG-01854"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00298 (kỹ năng vào ngõ hẹp) cùng câu hỏi chính; BLG-01854/01743/00313 chuyên quay đầu trong ngõ; BLG-01339 là xe ngược chiều. Theo tiêu đề (chưa đọc nội dung); bài này nên làm tổng quan và link xuống."
+  },
+  {
+   "ids": [
+    "BLG-00057",
+    "BLG-02332"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02332 (bản đồ offline và sóng điện thoại trên đường đi Mộc Châu) cùng chủ đề tải bản đồ offline, kiểm tra pin/sạc nhưng gắn một tuyến cụ thể; bài này là bản tổng quát vùng ven. Cần phân vai và link chéo."
+  },
+  {
+   "ids": [
+    "BLG-00058",
+    "BLG-00933",
+    "BLG-02037",
+    "BLG-02402"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02402 cùng câu hỏi chính (bảo dưỡng giữa kỳ thuê tháng, báo cửa hàng; gần trùng bộ H2) nên là canonical ứng viên; BLG-02037 là 'ai chịu chi phí', BLG-00933 là 'khi nào báo cửa hàng'. Chưa đọc nội dung; nên phân vai hoặc gộp."
+  },
+  {
+   "ids": [
+    "BLG-00059",
+    "BLG-01428",
+    "BLG-01919",
+    "BLG-01942"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01428 (xe thuê có bảo hiểm dân sự bắt buộc chưa) và BLG-01942 (mua thêm bảo hiểm tự nguyện khi thuê) trả lời hai nửa bài này; BLG-01919 liên quan. Theo ma trận. Chọn canonical sau khi chủ xe chốt chính sách BLOCKED."
+  },
+  {
+   "ids": [
+    "BLG-00060",
+    "BLG-01838",
+    "BLG-02008",
+    "BLG-02169"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02169 (nhận biết giảm xóc yếu/chảy dầu) trùng phần 'giảm xóc mòn' (ý định phụ); BLG-02008 (tay phanh mềm) và BLG-01838 (xe thuê rung bất thường) chỉ cùng nhóm triệu chứng. Câu hỏi chính 'lún mềm sau mưa' là riêng."
+  },
+  {
+   "ids": [
+    "BLG-00061",
+    "BLG-00472",
+    "BLG-01887",
+    "BLG-02253"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00472 (xe máy thuê nghỉ vài ngày không dùng: việc nên làm trước khi đi lại) cùng câu hỏi chính, theo tiêu đề (chưa đọc nội dung); BLG-02253 (pin xe điện để không) và BLG-01887 (xe để lâu không chạy) là ý định phụ. Cần phân vai hoặc gộp."
+  },
+  {
+   "ids": [
+    "BLG-00064",
+    "BLG-00065",
+    "BLG-00651",
+    "BLG-00994"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00065 cùng ý định chính (bị kiểm tra giấy tờ khi đi xe thuê; tương đồng 0,55; kề nhau trong prev/next); BLG-00651 (giấy tờ cần có mặt) và BLG-00994 (người nước ngoài bị dừng) là ý định phụ. Chọn một canonical và link chéo."
+  },
+  {
+   "ids": [
+    "BLG-00064",
+    "BLG-00065",
+    "BLG-00651",
+    "BLG-00864",
+    "BLG-00994"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00064 trùng ý định chính và đã có mục FAQ: nên là trang chính, bài này gộp/dẫn về. BLG-00651 (có mục Nguồn tham khảo) lo giấy tờ phải có; BLG-00994 khách nước ngoài; BLG-00864 giấy tờ khi thuê."
+  },
+  {
+   "ids": [
+    "BLG-00066",
+    "BLG-00873",
+    "BLG-01695"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01695 (cùng cụm) và BLG-00873 (hỏi-đáp) trả lời riêng 'ai chịu/nộp phạt nguội'; bài này rộng hơn (quy trình khi nhận thông báo). Mục 'Trách nhiệm' trùng ý phụ: dẫn link thay vì nhân đôi."
+  },
+  {
+   "ids": [
+    "BLG-00067",
+    "BLG-00481",
+    "BLG-01291"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00481 (va chạm nhẹ khi đi xe thuê, từng bước) và BLG-01291 (xe thuê bị va quẹt trong bãi xe) trùng phần 'báo cửa hàng, chụp ảnh'. Bài này khác ở chỗ bên kia bỏ chạy/ghi biển số: giữ riêng, liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00068",
+    "BLG-00641",
+    "BLG-00642",
+    "BLG-00646",
+    "BLG-01697"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài tổng quan 'thường gặp trong phố' phủ nhiều ý phụ mà bài chuyên biệt đã nhận: biển cấm xe máy (BLG-00641, BLG-01697), biển hiệu lệnh (BLG-00642), phố đi bộ (BLG-00646). Nên liên kết sang thay vì mở rộng."
+  },
+  {
+   "ids": [
+    "BLG-00073",
+    "BLG-00354",
+    "BLG-00858"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00354 ('nên hỏi gì') trùng bộ bốn câu hỏi; bài này là 'cách đánh giá cửa hàng' nên ý chính khác. Các bài giá (BLG-00858...) chỉ trùng nhẹ phần hỏi giá."
+  },
+  {
+   "ids": [
+    "BLG-00074",
+    "BLG-00188"
+   ],
+   "level": "MEDIUM",
+   "notes": "Tiêu đề BLG-00188 cùng chủ đề gió lớn/gió ngang ở Hà Nội, có thể trả lời cùng câu hỏi chính; cần so H2 hai bài trước khi quyết định giữ riêng hay gộp. Chưa đọc nội dung BLG-00188."
+  },
+  {
+   "ids": [
+    "BLG-00077",
+    "BLG-00443",
+    "BLG-01804"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00443 nên là trang chuẩn cho 'phần ngày chưa dùng'; BLG-01804 cho trả sớm hơn giờ hẹn. Trang này giữ trọng tâm rời Hà Nội gấp: báo sớm, nhờ người trả hộ, đối chiếu cuối."
+  },
+  {
+   "ids": [
+    "BLG-00078",
+    "BLG-02016",
+    "BLG-02021"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02021 (chọn kiểu đeo kính dưới mũ) và BLG-02016 (mưa phùn làm mờ kính mũ) trùng mục mũ (L48) và mưa bụi (L52). Trang này là bài tổng quan, hai bài kia chuyên sâu: nên cross-link, không lặp."
+  },
+  {
+   "ids": [
+    "BLG-00079",
+    "BLG-00512",
+    "BLG-01092"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01092: nhận xe buổi tối và trả sáng sớm khi giờ lệch (trùng phương án nhận tối hôm trước); BLG-00512: thử xe khi nhận (khác ý định). Trang này nên giữ góc 'cần xe trước 9 giờ', cross-link sang BLG-01092."
+  },
+  {
+   "ids": [
+    "BLG-00080",
+    "BLG-00388",
+    "BLG-01655"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01655 (thuê xe 50cc cho học sinh) và BLG-02110 phục vụ ý định thuê; BLG-00388 là an toàn đi học buổi tối. Trang này là góc phụ huynh: giữ ranh giới, không dẫn tới ý định thuê xe cho trẻ vị thành niên."
+  },
+  {
+   "ids": [
+    "BLG-00020",
+    "BLG-00081",
+    "BLG-00354",
+    "BLG-01993"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trang FAQ tổng hợp nên giữ vai trò này. BLG-00354: danh sách câu nên hỏi cửa hàng (hướng khác); giấy tờ đã có bài chuyên đề BLG-00020/BLG-01993, nên rút gọn và dẫn link."
+  },
+  {
+   "ids": [
+    "BLG-00082",
+    "BLG-00520",
+    "BLG-01796"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01796 (lau chùi điểm nào sau mưa) trả lời cùng câu hỏi chính, trùng mục dây xích, ổ khóa, báo cửa hàng; BLG-00520 là chăm xe cả tuần thuê. Cần chủ xe chọn bản chuẩn rồi cross-link."
+  },
+  {
+   "ids": [
+    "BLG-00084",
+    "BLG-01968",
+    "BLG-02203"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02203: thuê 1 ngày để chạy thử tuyến đi làm (quyết định thuê); BLG-01968: người mới đi đường phố ngày đầu (kỹ năng). Trang này giữ góc how-to chạy thử tuyến bằng xe vừa nhận, cross-link hai bài."
+  },
+  {
+   "ids": [
+    "BLG-00017",
+    "BLG-00085",
+    "BLG-01751"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00017 (đi xe mùa đông: trang phục, găng, xe lạnh, giữ ấm khi dừng) và BLG-01751 (mặc gì ngày đầu đông) trùng ý định 'mặc gì/giữ ấm'. Trang này riêng ở khung chiều tối, ăn uống, nghỉ chặng."
+  },
+  {
+   "ids": [
+    "BLG-00088",
+    "BLG-00835",
+    "BLG-00960",
+    "BLG-01297",
+    "BLG-01922"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'gặp mưa dông/bão khi đi xe: dừng hay đi tiếp, trú đâu' với BLG-00960 (chỗ trú Hà Nội), BLG-00835 (giông), BLG-01922. Trang này riêng ở đọc tin bão, hoãn chuyến, xe điện."
+  },
+  {
+   "ids": [
+    "BLG-00037",
+    "BLG-00089",
+    "BLG-01832",
+    "BLG-01963"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00037 (kỳ hạn, dấu hiệu, xe ga/xe số, ai chịu khi thuê; có FAQ) nên là trang chính về nhớt; BLG-01832/01963 trùng mục kiểm tra mức nhớt. Trang này riêng ở tình huống 'sắp đến hạn, chạy tiếp được không'."
+  },
+  {
+   "ids": [
+    "BLG-00090",
+    "BLG-00295",
+    "BLG-00297"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00297 'Kỹ năng qua cầu ở Hà Nội khi đi xe máy thuê' trùng mục dốc cầu, xuống cầu, cầu đêm; BLG-00295 là đường đê (khác). Trang này riêng ở đề pa dốc xe số, xe ga vs xe số trên dốc, cầu vượt."
+  },
+  {
+   "ids": [
+    "BLG-00091",
+    "BLG-00940",
+    "BLG-01789",
+    "BLG-02403"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02403 (thuê xe chạy giao hàng/xe công nghệ, báo mục đích) cùng đối tượng; BLG-01789 và BLG-00940 so sánh thuê xe với đi xe ôm công nghệ (ý định khác). Trang này riêng ở sức khỏe, an toàn khách, điện thoại."
+  },
+  {
+   "ids": [
+    "BLG-00092",
+    "BLG-00297",
+    "BLG-00834"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00297 (qua cầu ở Hà Nội cho người thuê, có mục cầu đêm và sự cố trên cầu) và BLG-00834 (chạy xe ban đêm nội đô) trùng ý định phụ; trang này dựa trên 'cầu vòng kính' riêng, chưa kiểm chứng."
+  },
+  {
+   "ids": [
+    "BLG-00093",
+    "BLG-00202",
+    "BLG-01866",
+    "BLG-01931"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01866 ('Chạy xe qua khu vực thi công: né rãnh và đọc biển tạm') và BLG-00202 ('Đi xe máy thuê qua khu vực thi công...') trả lời cùng câu hỏi chính; BLG-01931 là phần biển báo tạm. Cần chọn một trang chính trước khi tối ưu."
+  },
+  {
+   "ids": [
+    "BLG-00094",
+    "BLG-00831",
+    "BLG-01295",
+    "BLG-01906",
+    "BLG-02091"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'chạy xe máy trong sương mù sáng sớm': BLG-01295 (ở Hà Nội), BLG-01906, BLG-00831 (đường đèo), BLG-02091 (vành đai). Trang này riêng ở lạnh, xe điện, ven sông; nên chọn một URL chính trước khi tối ưu."
+  },
+  {
+   "ids": [
+    "BLG-00096",
+    "BLG-00740",
+    "BLG-01921",
+    "BLG-02214"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02214 (một ngày đi làng nghề phía Nam, có tên làng) và BLG-00740 (làng nghề Gia Lâm nửa ngày) cùng ý định nhưng cụ thể hơn; bài này là bản chung không tên làng. BLG-01921: chạy ngoại thành buổi sáng sớm."
+  },
+  {
+   "ids": [
+    "BLG-00099",
+    "BLG-00833",
+    "BLG-01147",
+    "BLG-01654",
+    "BLG-01956"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00833 (đường đá dăm và vùng núi, chủ từ khóa 'đường đá dăm' trong matrix) trả lời cùng câu hỏi chính. BLG-01956/01147/01654 là biến thể theo dòng xe. Cần phân vai rõ, liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00010",
+    "BLG-00100",
+    "BLG-00544"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00544 trả lời cùng câu hỏi chính (từ khóa matrix 'trả xe thuê máy', URL /thue-xe/). Đề xuất bản chính: BLG-00544; chuyển phần riêng của bài này sang đó. BLG-00010 là kiểm xe khi nhận: khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00036",
+    "BLG-00101",
+    "BLG-00578",
+    "BLG-02066"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00578 và BLG-02066 (sạc xe máy điện khi thuê, trạm đổi pin/ổ sạc) trùng mục sạc; BLG-00036 hướng dẫn sạc đúng cách. Ý định chính của bài này (kiểm tra khi nhận xe điện) khác; phần sạc nên liên kết sang bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00049",
+    "BLG-00102",
+    "BLG-00975",
+    "BLG-01351"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01351 (chi phí thuê một tuần) trùng mục giá theo gói; BLG-00049 (đặt cọc) trùng mục cọc; BLG-00975/01110/01220 là biến thể theo đối tượng hoặc chuyến. Bài này là tổng quan; chỉ nên giữ một nơi phát biểu cọc/phí trễ."
+  },
+  {
+   "ids": [
+    "BLG-00105",
+    "BLG-00827",
+    "BLG-02426",
+    "BLG-02449"
+   ],
+   "level": "HIGH",
+   "notes": "02426 (giờ xuất phát + tuyến chính/phụ khi đi làm) và 02449 (khung giờ + hướng đường cho người mới) trả lời cùng câu hỏi; 00827 chồng ở kỹ năng kẹt xe. 00105 dài và đủ ý nhất (7 H2, ~1.700 từ vs 4 H2, ~1.100 từ) nên nên là bài chủ."
+  },
+  {
+   "ids": [
+    "BLG-00106",
+    "BLG-00273",
+    "BLG-01446",
+    "BLG-01641",
+    "BLG-02023",
+    "BLG-02423"
+   ],
+   "level": "HIGH",
+   "notes": "Theo tiêu đề/H2: 01446 cùng câu hỏi chính (chỉnh gương đúng, có kiểm tra gương xe thuê); 02423 trùng phần làm quen xe; 00273/01641/02023 trùng mục gương hỏng. 00106 rộng nhất (8 H2, ~1.560 từ) nên là bài chủ về kỹ thuật chỉnh gương."
+  },
+  {
+   "ids": [
+    "BLG-00109",
+    "BLG-00122",
+    "BLG-01299",
+    "BLG-01345",
+    "BLG-01507",
+    "BLG-01581"
+   ],
+   "level": "HIGH",
+   "notes": "Theo tiêu đề/H2: câu hỏi chính 'chở cây cảnh bằng xe máy' đã có ≥4 URL (00122 tổng quát; 01581/01299 bản ngắn; 01507 chậu cây; 01345 chậu lớn). Nên chọn một bài chủ (đề xuất 00122); 00109 giữ góc 'cây nhỏ mua ở vườn' và link sang bài chủ."
+  },
+  {
+   "ids": [
+    "BLG-00110",
+    "BLG-01645",
+    "BLG-01844"
+   ],
+   "level": "HIGH",
+   "notes": "01844 ('Bị chó đuổi khi đi xe máy') và 01645 (xe thuê bị chó đuổi trên đường quê) cùng ý định chính. 00110 đầy đủ nhất (10 H2, ~1.590 từ vs 5-6 H2, ~1.130 từ) nên nên là bài chủ; hai bài kia cần phân hóa hoặc gộp."
+  },
+  {
+   "ids": [
+    "BLG-00113",
+    "BLG-01473",
+    "BLG-01554",
+    "BLG-01962"
+   ],
+   "level": "MEDIUM",
+   "notes": "Theo tiêu đề: nhiều bài biến thể 'chở đồ đi chợ' theo loại xe (01473 xe số, 01962 xe ga cốp nhỏ, 01554 Vision). 00113 là bài tổng quát nên làm bài chủ và dẫn link tới các bài theo loại xe."
+  },
+  {
+   "ids": [
+    "BLG-00115",
+    "BLG-00316",
+    "BLG-01825"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01825: chở đồ dễ vỡ nói chung; BLG-00316: đồ dài + dễ vỡ. Trang này hẹp hơn (điện tử gia dụng) nhưng mục màn hình trùng ý với BLG-01883/BLG-01848 (chỉ đọc tiêu đề). Giữ góc riêng: đóng gói tại cửa hàng, hơi ẩm ngưng tụ."
+  },
+  {
+   "ids": [
+    "BLG-00011",
+    "BLG-00121",
+    "BLG-02458"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00011 là bài tổng quát về chở hành lý (cốp, ba lô, thùng gió, xe thuê) nên làm bài chính cho ý đó; BLG-02458 (vali nhỏ, ba lô) trùng mục buộc vali. Trang này giữ góc riêng: túi lớn, chuyển chỗ ở, ra ga."
+  },
+  {
+   "ids": [
+    "BLG-00122",
+    "BLG-01299",
+    "BLG-01581"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý chính 'chở hoa/cây cảnh'. BLG-00122 sớm nhất (2026-09-20) và đủ nhất (10 H2: bó, giỏ, chậu, nắng, mưa, cưới/viếng); nên là bài chính, còn BLG-01299 (3 H2) và BLG-01581 (5 H2) gộp hoặc khác biệt hóa."
+  },
+  {
+   "ids": [
+    "BLG-00127",
+    "BLG-00471",
+    "BLG-00552",
+    "BLG-01930",
+    "BLG-02030"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02030 trả lời cùng câu hỏi chính (cho người khác mượn xe thuê); đề xuất làm bài chuẩn (đúng cụm thủ tục) và gộp phần dùng được của bài này sau khi gỡ nội dung BLOCKED. BLG-00552/00471/01930: nhánh mất xe, hư hỏng, phạt nguội."
+  },
+  {
+   "ids": [
+    "BLG-00128",
+    "BLG-00129",
+    "BLG-01409",
+    "BLG-01940"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01940 (xe ga chở người lớn tuổi đi khám) trùng câu hỏi chính và cấu trúc; chọn một bài chuẩn (đề xuất bài này: tổng quát, đủ mục) rồi cross-link. BLG-01409: góc chọn xe; BLG-00129: trùng kỹ thuật lên xuống/lái."
+  },
+  {
+   "ids": [
+    "BLG-00128",
+    "BLG-00129",
+    "BLG-00422",
+    "BLG-00969",
+    "BLG-02363"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02363 (chở bố mẹ ngồi sau, nên thuê xe nào) trùng nhóm người chở và mục lên xuống/tư thế; BLG-00128 (đi khám) trùng kỹ thuật; BLG-00422/BLG-00969 là góc thuê xe cho người lớn tuổi."
+  },
+  {
+   "ids": [
+    "BLG-00131",
+    "BLG-01813"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01813 (Chở thú cưng trên xe máy sao cho an toàn) trùng câu hỏi chính, cùng cụm chở đồ; bài này dài hơn và có mục thú y/tình huống nên đề xuất làm bài chuẩn, BLG-01813 gộp hoặc cross-link."
+  },
+  {
+   "ids": [
+    "BLG-00132",
+    "BLG-01429",
+    "BLG-01702"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01702 (trẻ em dưới bao nhiêu tuổi) và BLG-01429 (mũ trẻ em) trả lời sâu hai câu hỏi của FAQ này; bài này giữ vai tổng quan cho phụ huynh. BLG-00363 là trẻ tự đi lại, khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00133",
+    "BLG-01211",
+    "BLG-02078"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01211 (lần đầu chở người ngồi sau: tập ở đâu) trùng mục 'Buổi tập đầu tiên'; BLG-02078 (thống nhất tín hiệu) trùng mục 'Ba quy tắc'. Bài này riêng cho trẻ đủ tuổi nên giữ góc phụ huynh-con."
+  },
+  {
+   "ids": [
+    "BLG-00134",
+    "BLG-00835",
+    "BLG-00960",
+    "BLG-02529"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00960 (trú đâu và lưu ý gì khi mưa lớn) trùng câu hỏi chính, cùng cụm thời tiết; nên phân vai: bài này giữ 'trú tạm' (đồ ba lớp, giữ xe), BLG-00960 giữ 'đi tiếp hay dừng/lái đường ướt'. BLG-02529, BLG-00835: nhánh xe đạp điện, giông."
+  },
+  {
+   "ids": [
+    "BLG-00122",
+    "BLG-00135",
+    "BLG-00316"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00316 (đồ dài và đồ dễ vỡ) chồng lấn một phần: cùng buộc đồ và người ngồi sau, bài này chuyên vật dài. BLG-00122 (hoa, cây cảnh) và bài chở thú cưng/cây/laptop là ý định riêng."
+  },
+  {
+   "ids": [
+    "BLG-00138",
+    "BLG-00917",
+    "BLG-01210",
+    "BLG-01460",
+    "BLG-01782",
+    "BLG-02116"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00917 và BLG-01782 trả lời cùng câu hỏi chính (chọn xe theo chiều cao/yên); BLG-02116, BLG-01210, BLG-01460 là biến thể người cao to/trên 1m70. Cần chọn một bài chuẩn; bài này rộng hơn nhưng chưa đọc nội dung các bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00139",
+    "BLG-00855",
+    "BLG-01349",
+    "BLG-02109"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02109 (sáng sớm) và BLG-01349 (chiều muộn) cùng mẫu 'chống buồn ngủ khi chạy xe' chỉ đổi khung giờ; BLG-00855 nói chung về mệt/thiếu ngủ. Ý định khác nhau theo khung giờ nhưng chồng lấn phần cách xử lý."
+  },
+  {
+   "ids": [
+    "BLG-00140",
+    "BLG-00546",
+    "BLG-00550",
+    "BLG-01224",
+    "BLG-01526",
+    "BLG-01639"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00550 và BLG-00546 trả lời cùng câu hỏi (chụp/ghi hình khi nhận và trả); BLG-01224 (các góc ảnh) và BLG-01526 (để làm gì) là ý con; BLG-01639 (video hay ảnh) khác ý định. Cần chọn một bài chuẩn; chưa đọc nội dung các bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00142",
+    "BLG-00173",
+    "BLG-00382",
+    "BLG-02221"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00173 (đi lại hằng ngày cho người mới đến làm việc) và BLG-02221 (tuần chuyển đến: thuê xe xem phòng trọ) chồng lấn ý 'người mới đến Hà Nội đi lại thế nào'; BLG-00382 (sai lầm di chuyển) liên quan. Cần phân định trọng tâm từng bài."
+  },
+  {
+   "ids": [
+    "BLG-00143",
+    "BLG-00771",
+    "BLG-00957",
+    "BLG-01387",
+    "BLG-02346"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02346 (mùa lễ hội: gửi xe, canh giờ về) và BLG-01387 (mùa festival cần chuẩn bị gì) trả lời cùng câu hỏi chính; BLG-00771 và BLG-00957 chồng lấn một phần. Cần chọn bài chuẩn cho chùa Hương; chưa đọc nội dung các bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00144",
+    "BLG-01188",
+    "BLG-01189"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01188 trả lời cùng câu hỏi chính (Hà Nội đi Tam Chúc bằng xe máy: cung đường, thời gian); BLG-01189 là ý con (điểm nghỉ chân). BLG-00143 (chùa Hương) cùng mẫu bài nhưng khác điểm đến. Cần chọn bài chuẩn; chưa đọc nội dung các bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00146",
+    "BLG-02126",
+    "BLG-02422"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02422 có từ khóa chính 'chuyển từ xe số sang xe ga' trùng hoàn toàn (cùng ý định, tuần đầu); BLG-02126 là chiều ngược (xe ga sang xe số). Bài này dài hơn nhưng có lỗi kỹ thuật; cần chọn bài chuẩn sau khi sửa."
+  },
+  {
+   "ids": [
+    "BLG-00149",
+    "BLG-00150",
+    "BLG-00885"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00885 trả lời 'xe thuê thủng lốp ai sửa/ai chịu phí' (trùng mục Vá lốp); BLG-00150 cũng dặn gọi cửa hàng trước khi có sự cố. Bài này phục vụ việc tự lập danh sách điểm hỗ trợ."
+  },
+  {
+   "ids": [
+    "BLG-00149",
+    "BLG-00150",
+    "BLG-00403",
+    "BLG-02517"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02517 (tiêu đề: gọi số khẩn cấp 113/114/115), BLG-00403 (quy trình khi xe thuê bị mất) và BLG-00149 (điểm sửa xe, sự cố xe thuê) chạm các nhánh; bài này là chuẩn bị tổng thể."
+  },
+  {
+   "ids": [
+    "BLG-00151",
+    "BLG-00969",
+    "BLG-01667",
+    "BLG-01940"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00969 cùng chủ đề chính (thuê xe cho người lớn tuổi, có mục người thân thuê hộ, giao nhận) và tiêu đề dễ tìm hơn; BLG-01940 (xe ga đi khám bệnh), BLG-01667 (xe đạp điện) là nhánh. Bài này nên giữ góc đặt từ xa."
+  },
+  {
+   "ids": [
+    "BLG-00153",
+    "BLG-00854",
+    "BLG-01209",
+    "BLG-02108"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00854 và BLG-02108 cùng câu hỏi chính (đau lưng/cổ vai khi đi xe, giãn cơ, tư thế); BLG-02108 có mục nguồn đối chiếu. BLG-01209 là nhánh chọn xe khi hay đau lưng. Cần chọn bài chuẩn; giữ góc xe thuê/mùa lạnh của bài này."
+  },
+  {
+   "ids": [
+    "BLG-00154",
+    "BLG-00195",
+    "BLG-01763",
+    "BLG-02092"
+   ],
+   "level": "HIGH",
+   "notes": "Cả ba cùng ý định chói nắng khi chạy xe: BLG-01763 (câu hỏi 'làm sao', cùng cụm sức khỏe), BLG-02092 (hướng tây), BLG-00195 (ngược nắng sáng/chiều, cấu trúc gần giống bài này). Bài này rộng nhất (13 mục); cần chọn bài chuẩn rồi cross-link."
+  },
+  {
+   "ids": [
+    "BLG-00156",
+    "BLG-00839",
+    "BLG-01105"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00839 cùng chủ đề buộc đồ (điểm tựa, căng đều, buộc chéo, kiểm tra giữa hành trình); BLG-01105 buộc hộp bánh kem. Bài này riêng ở rủi ro dây lỏng vướng bánh/dây ga."
+  },
+  {
+   "ids": [
+    "BLG-00160",
+    "BLG-00218",
+    "BLG-00818",
+    "BLG-02077"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00218 trùng gần hết (vị trí đỗ, hướng chống chân, khởi động lại trên dốc) nên đề xuất làm bài chuẩn; BLG-02077 chuyên xe số lên dốc; BLG-00818 lên/xuống dốc cho người mới. Chủ xe so nội dung rồi chọn; chưa có dữ liệu traffic."
+  },
+  {
+   "ids": [
+    "BLG-00164",
+    "BLG-00165",
+    "BLG-01313",
+    "BLG-01519"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01313 (bài ngắn hơn, H2 theo ý định: dấu hiệu, kiểm tra, chạy đêm, báo cửa hàng) đề xuất làm bài chuẩn; BLG-01519 xử lý lúc đêm; BLG-00165 quyết định có xuất phát. Chủ xe so nội dung rồi chọn; chưa có dữ liệu traffic."
+  },
+  {
+   "ids": [
+    "BLG-00164",
+    "BLG-00165",
+    "BLG-00929",
+    "BLG-01313"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01313 (đèn yếu dần: kiểm tra), BLG-00929 (đèn không sáng khi đi đêm), BLG-00164 (nguyên nhân yếu dần) cùng ý định đèn xe thuê ban đêm. Bài này riêng ở quyết định đi hay hoãn trước chuyến tối; cần phân vai, liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00153",
+    "BLG-00166",
+    "BLG-00840",
+    "BLG-02108"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00840 (đeo ba lô hay buộc sau) trùng ý phụ 'giảm mỏi vai'; BLG-02108 và BLG-00153 phủ mỏi/đau vai cổ. Bài này riêng ở chỉnh quai, xếp đồ, tâm nặng; nên liên kết chéo thay vì lặp."
+  },
+  {
+   "ids": [
+    "BLG-00167",
+    "BLG-01563",
+    "BLG-01564",
+    "BLG-01692",
+    "BLG-02357"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02357 (để xe qua đêm, lấy xe sáng hôm sau) cùng ý định với mục L32-38; BLG-01692/01563 trả lời 'uống bia xong bao lâu'; BLG-01564 về sáng hôm sau. Bài này khác ở góc nhìn cả kỳ thuê; cần phân vai, liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00168",
+    "BLG-01369",
+    "BLG-02112"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01369 (thuê tháng cho người làm ca đêm) và BLG-02112 (tan ca đêm: an toàn và tuyến về) cùng ý định chính; bài này rộng hơn (ca xoay, ca sớm, buồn ngủ, thủ tục giữa kỳ). Cần phân vai và liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00169",
+    "BLG-01693",
+    "BLG-01884"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01693 cùng ý định chính (đi tiệc về khuya bằng xe máy thuê); BLG-01884 phủ riêng gửi và lấy xe ở nhà hàng tiệc cưới. Bài này rộng hơn (đồ đạc, trang phục, người ngồi sau); cần phân vai, liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00170",
+    "BLG-01072",
+    "BLG-01284"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01072 và BLG-01284 cùng điểm đến và phương tiện nhưng tập trung cung đường, chuyến trong ngày; bài này khác ở lịch 2 ngày 1 đêm, tắm biển, đồ mang. Mô tả tuyến ở đây mâu thuẫn BLG-01072 (trục QL5)."
+  },
+  {
+   "ids": [
+    "BLG-00173",
+    "BLG-00522",
+    "BLG-01075",
+    "BLG-01316"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01075 cùng ý định (thuê xe đi làm hằng ngày); BLG-01316 (ngày so với tháng) và BLG-00522 (thuê tháng cho người sống và làm việc ở Hà Nội) trùng phần giá và chọn gói. Bài này riêng ở làm quen tuyến, gửi xe, mưa nắng."
+  },
+  {
+   "ids": [
+    "BLG-00174",
+    "BLG-01944",
+    "BLG-02306",
+    "BLG-02457"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02457 (2 xe, giữ liên lạc), BLG-02306 (2-3 xe quanh Long Biên: đội hình, điểm hẹn) và BLG-01944 (khoảng cách khi đi nhóm) phủ từng mảng của bài này; bài này là bài tổng quát. Nên phân vai và liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00175",
+    "BLG-01889"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01889 'Đúng làn xe máy khi qua nút giao lớn' trùng ý chọn làn và xử lý khi lỡ làn. Bài này giữ góc vòng xuyến + nút không đèn cho người mới; nên link chéo, không lặp phần làn."
+  },
+  {
+   "ids": [
+    "BLG-00176",
+    "BLG-00770",
+    "BLG-01101",
+    "BLG-01738",
+    "BLG-01810"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng câu hỏi chính 'Hà Nội đi Tam Đảo bằng xe máy': 01810 (cung đường, thời gian), 01738/00770 (chuẩn bị, lên dốc), 01101 (đèo sương, xuống dốc). Bài này bao trùm cả bốn; cần phân vai tổng quan/chi tiết và link chéo."
+  },
+  {
+   "ids": [
+    "BLG-00177",
+    "BLG-00990",
+    "BLG-01102",
+    "BLG-01570"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01102 cùng câu hỏi chính (Hà Nội đi Ninh Bình xe máy hai ngày, chia lộ trình; thêm Bái Đính/Hoa Lư). BLG-01570/01584 là đỗ xe Tràng An/Bái Đính; BLG-00990 là khách quốc tế tự lái. Cần phân vai và link chéo."
+  },
+  {
+   "ids": [
+    "BLG-00184",
+    "BLG-00206",
+    "BLG-00838",
+    "BLG-01824"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00206 (xe thuê gặp lạnh đột ngột: ắc quy, trang phục) chồng một phần với cặp FAQ 'hỏng xe' và mục trang phục; BLG-01824/00838 là chuẩn bị mùa lạnh/sáng sớm. Bài này giữ góc 'bị bất ngờ giữa đêm'; cần phân vai và link chéo."
+  },
+  {
+   "ids": [
+    "BLG-00187",
+    "BLG-00299",
+    "BLG-00855",
+    "BLG-02109"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trùng ở 2 phần: mục ốm dài ngày/trả xe ↔ BLG-00299 (kỳ thuê gián đoạn do ốm); buồn ngủ/mệt khi lái ↔ BLG-00855, BLG-02109. Ý định chính (ốm, thuốc) vẫn riêng. Chỉ dựa trên tiêu đề."
+  },
+  {
+   "ids": [
+    "BLG-00074",
+    "BLG-00188",
+    "BLG-01835",
+    "BLG-01957"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00074 (gió ngang, 12 mục, ~1,6k từ) và BLG-01835 (gió mạnh ở Hà Nội) trả lời cùng câu hỏi chính; BLG-01957 là mảng qua cầu. 'similar' trong pack chủ yếu trùng chữ 'lớn' (Nhà thờ/Nhà hát Lớn). Chủ xe chọn 1 URL chủ (dựa trên tiêu đề/H2)."
+  },
+  {
+   "ids": [
+    "BLG-00189",
+    "BLG-02135",
+    "BLG-02361"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02135 (váy/ống quần vướng xích-pô khi đi xe số) trùng mảng xử lý váy, ống quần, vải bị vướng; BLG-02361 trả lời ý định chọn xe ga hay số khi mặc váy. Bài này rộng hơn (khăn, ngồi sau, theo mùa). Chỉ dựa trên tiêu đề/H2."
+  },
+  {
+   "ids": [
+    "BLG-00190",
+    "BLG-00855",
+    "BLG-01349",
+    "BLG-02109"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00855 (chạy xe khi mệt/thiếu ngủ: rủi ro) cùng nền ý định (dấu hiệu, xử lý khi buồn ngủ); bài này khác ở đối tượng phụ huynh có con nhỏ. BLG-01349, BLG-02109 là buồn ngủ theo khung giờ. Chỉ dựa trên tiêu đề/H2."
+  },
+  {
+   "ids": [
+    "BLG-00191",
+    "BLG-00330",
+    "BLG-01749",
+    "BLG-01812"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00330 (mưa phùn gió bấc kéo dài cả tuần, 11 mục) trả lời cùng câu hỏi chính (đi xe qua đợt mưa dài: áo, mũ, đường ẩm, xe, đồ khô). BLG-01749 trùng mảng giữ đồ khô; BLG-01812 là mưa nhỏ. Chủ xe chọn URL chủ (dựa trên tiêu đề/H2)."
+  },
+  {
+   "ids": [
+    "BLG-00192",
+    "BLG-00855",
+    "BLG-02211"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02211 (ngày đầu đến Hà Nội sau chuyến bay dài: thuê xe luôn hay nghỉ đã) trả lời cùng quyết định (lái/thuê ngay hay nghỉ) từ góc người thuê; bài này nhìn từ người có xe/người về nhà. BLG-00855 là mệt/thiếu ngủ chung."
+  },
+  {
+   "ids": [
+    "BLG-00193",
+    "BLG-02210",
+    "BLG-02273"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02210 (đi lễ chùa ngày rằm/mùng 1 bằng xe máy thuê: sáng hay chiều, gửi xe, trang phục) và BLG-02273 (Phủ Tây Hồ, chùa Kim Liên) trùng mảng giờ đi, gửi xe. Bài này là bản tổng quát. BLG-02636 (PLANNED) trùng mảng chở đồ lễ."
+  },
+  {
+   "ids": [
+    "BLG-00194",
+    "BLG-00447",
+    "BLG-00832",
+    "BLG-01296",
+    "BLG-01343"
+   ],
+   "level": "HIGH",
+   "notes": "≥4 bài khác trả lời cùng 'đi xe máy ngày nắng gắt/trời nóng' (thêm BLG-01580, BLG-01451). Bài này rộng nhất (7 mục, ~1,6k từ) nên hợp làm trang chủ; bài kia nên hẹp ý định hoặc gộp về đây. Chủ xe quyết định; dựa trên tiêu đề/H2."
+  },
+  {
+   "ids": [
+    "BLG-00195",
+    "BLG-01296",
+    "BLG-02092"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02092 trả lời 'nắng chiều chói mặt hướng tây' (trùng phần chiều); BLG-01296 'ngày nắng gắt: giữ sức' trùng phần nhiệt độ/cơ thể. Bài này bao cả sáng và chiều nên ý chính vẫn khác."
+  },
+  {
+   "ids": [
+    "BLG-00197",
+    "BLG-00297",
+    "BLG-01865"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01865 (hầm chui: vào đúng làn, mở đèn sớm) trùng phần hầm chui; bài này bao thêm gầm cầu, ánh sáng, mặt đường ẩm. BLG-00297 chỉ là đi QUA cầu, khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00198",
+    "BLG-01246",
+    "BLG-02104"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02104 (gửi xe ở ga đường sắt) trùng mục gửi/lấy xe ở ga; BLG-01246 (đến Ga Hà Nội) trùng đường đi và gửi xe. Bài này rộng hơn: ga + bến + hành lý + đón người."
+  },
+  {
+   "ids": [
+    "BLG-00201",
+    "BLG-00389",
+    "BLG-01295",
+    "BLG-01342",
+    "BLG-01906",
+    "BLG-02091"
+   ],
+   "level": "HIGH",
+   "notes": "≥5 bài cùng truy vấn 'đi xe máy khi sương mù buổi sáng'. BLG-00389 gần như trùng dàn ý và độ dài; 02091 (vành đai), 01342/01906/01295 ngắn hơn. Nên chọn một bài chủ (bài này hoặc 00389) và liên kết các bài còn lại về đó."
+  },
+  {
+   "ids": [
+    "BLG-00202",
+    "BLG-00216",
+    "BLG-01866",
+    "BLG-02087"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02087 và BLG-01866 trả lời cùng câu hỏi 'đi xe máy qua khu thi công' bằng bài ngắn hơn (~1.2k từ so với ~1.6k). Bài này đầy đủ nhất cụm nên là bài chủ; hai bài kia liên kết về đây. BLG-00216 là chuyện gửi xe, khác ý."
+  },
+  {
+   "ids": [
+    "BLG-00203",
+    "BLG-00819",
+    "BLG-01261"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01261 (gửi xe trong ngõ phố cổ) trùng mục gửi xe; BLG-00819 (quay đầu xe trong ngõ phố cổ) trùng kỹ năng xoay xe/đi ngõ. Bài này rộng hơn (giờ cao điểm, tình huống, xe thuê)."
+  },
+  {
+   "ids": [
+    "BLG-00204",
+    "BLG-00672",
+    "BLG-00955"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00955 (qua cầu lúc nào đẹp nhất) trùng mục khung giờ; BLG-00672 (đến cầu bằng xe máy: gửi xe, đường đi) trùng mục gửi xe. Các bài còn lại thiên về đi chơi/lịch sử. Bài này lo kỹ thuật đi qua cầu."
+  },
+  {
+   "ids": [
+    "BLG-00017",
+    "BLG-00184",
+    "BLG-00206",
+    "BLG-00838",
+    "BLG-01751",
+    "BLG-01824"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng câu hỏi 'đi xe máy khi trời lạnh ở Hà Nội': BLG-00017 tổng quan mùa đông (cũ nhất), BLG-00184 gió lạnh về đêm, BLG-00838 sáng sớm, BLG-01824 đầu mùa. Góc riêng của bài này: xe thuê + lạnh đột ngột. Chỉ đối chiếu tiêu đề/H2."
+  },
+  {
+   "ids": [
+    "BLG-00207",
+    "BLG-00828",
+    "BLG-01340",
+    "BLG-01642",
+    "BLG-01979",
+    "BLG-02428"
+   ],
+   "level": "HIGH",
+   "notes": "5 bài cùng câu hỏi 'qua đường ngập'. Đề xuất BLG-02428 làm bài chuẩn (tiêu đề dạng câu hỏi, H2 gần trùng, hub thuê xe, URL không dấu); giữ phần riêng của bài này (bản đồ ngập, gửi xe, giao/trả xe mùa mưa). Chỉ đối chiếu tiêu đề/H2."
+  },
+  {
+   "ids": [
+    "BLG-00208",
+    "BLG-00229",
+    "BLG-02221"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02221 (thuê xe máy đi xem phòng trọ và chốt chỗ ở) trùng ý định 'xem trọ bằng xe máy' nhưng góc thuê xe; BLG-00229 trùng phần chuyển nhà. Bài này là quy trình xem trọ; nên liên kết chéo, không nhân bản."
+  },
+  {
+   "ids": [
+    "BLG-00209",
+    "BLG-00211",
+    "BLG-00214",
+    "BLG-00288",
+    "BLG-02460"
+   ],
+   "level": "MEDIUM",
+   "notes": "Cùng cụm bản đồ/định vị: BLG-00288 (không phụ thuộc một app bản đồ), BLG-02460 (lạc đường, hỏi người địa phương), BLG-00211 (mục dự phòng), BLG-00214 (mốc lớn) trùng một phần; góc riêng là hết pin giữa đường. Chỉ đối chiếu tiêu đề."
+  },
+  {
+   "ids": [
+    "BLG-00212",
+    "BLG-00228",
+    "BLG-00525",
+    "BLG-01815",
+    "BLG-02220"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài bao quát 3 hướng. Phần 'kéo dài' trùng BLG-01815/BLG-00525 (gia hạn), đổi gói trùng BLG-02220, đổi xe trùng BLG-00228; góc riêng là 'rút ngắn/trả sớm'. Giữ làm bài tổng quan, liên kết sang bài con."
+  },
+  {
+   "ids": [
+    "BLG-00046",
+    "BLG-00213",
+    "BLG-00867",
+    "BLG-00869",
+    "BLG-01609"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00867 'Bao nhiêu tuổi mới được thuê xe máy' (cùng BLG-00869, BLG-01609) trả lời cùng câu hỏi; đề xuất BLG-00867 làm bài chuẩn (tiêu đề dạng câu hỏi, cụm Hỏi đáp thủ tục). Giữ lớp 'ký hợp đồng' khi gộp. Chỉ đối chiếu tiêu đề/H2."
+  },
+  {
+   "ids": [
+    "BLG-00214",
+    "BLG-00234",
+    "BLG-00288",
+    "BLG-02460"
+   ],
+   "level": "MEDIUM",
+   "notes": "Phần 'không phụ thuộc bản đồ số' trùng BLG-00288, BLG-00234 (dùng bản đồ an toàn); BLG-02460 (lạc đường, hỏi người địa phương). Góc riêng: hệ mốc sông-cầu-vành đai. BLG-00209 cũng lặp phần mốc. Chỉ đối chiếu tiêu đề."
+  },
+  {
+   "ids": [
+    "BLG-00217",
+    "BLG-00361",
+    "BLG-00726",
+    "BLG-02345"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02345, BLG-00726, BLG-00361 trả lời 'để xe ở đâu rồi đi bộ vào phố đi bộ/Hồ Gươm': trùng ý định con với mục chọn điểm trung chuyển. Bài này giữ quy tắc chung (khi nào đáng làm); nên link sang bài khu vực."
+  },
+  {
+   "ids": [
+    "BLG-00160",
+    "BLG-00218",
+    "BLG-02012"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00160 (đầu xe, lên xe trên dốc, để tạm lề đường) trả lời cùng câu hỏi chính; BLG-02012 là biến thể dừng chụp ảnh trên dốc. Bài này bao quát hơn nên hợp làm bài chủ, nhưng cần sửa lỗi kỹ thuật trước khi gộp."
+  },
+  {
+   "ids": [
+    "BLG-00219",
+    "BLG-00959"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00959 trả lời cùng câu hỏi chính, H2 trùng: nhận biết sớm, giữ khoảng cách/chờ, ban đêm. Bài này bao quát hơn (11 H2, có xe thuê, đổi đường) nên hợp làm bài chủ; BLG-00959 nên gộp hoặc thu hẹp vào 'đường hẹp'."
+  },
+  {
+   "ids": [
+    "BLG-00015",
+    "BLG-00220",
+    "BLG-00608",
+    "BLG-00933"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00608 (lốp khi nào cần thay, cùng cụm) trùng mục 'Ngưỡng nào thì cần thay'; BLG-00015 và BLG-00933 trả lời 'khi nào báo cửa hàng' ở mức chung. Bài này giữ góc đọc dấu hiệu lốp + báo cửa hàng về lốp."
+  },
+  {
+   "ids": [
+    "BLG-00059",
+    "BLG-00221",
+    "BLG-00980",
+    "BLG-01223",
+    "BLG-01453",
+    "BLG-02036"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01223 (đọc kỹ hợp đồng) và BLG-01453 (hợp đồng cần ghi rõ gì) trả lời cùng câu hỏi chính; BLG-02036 (theo tháng), BLG-00980 (bồi thường), BLG-00059 (bảo hiểm) là ý định con. Chưa chọn bài chủ vì chưa so nội dung."
+  },
+  {
+   "ids": [
+    "BLG-00224",
+    "BLG-00227",
+    "BLG-00228",
+    "BLG-01634",
+    "BLG-01951"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01634 trả lời cùng câu hỏi chính (trả xe ở nơi khác nơi nhận). BLG-00227/00228/01951 là 'đổi xe giữa kỳ' (đổi chiếc xe, không phải nơi trả), chỉ trùng từ khóa 'giữa kỳ thuê'. Chưa chọn bài chủ."
+  },
+  {
+   "ids": [
+    "BLG-00225",
+    "BLG-00227",
+    "BLG-00228",
+    "BLG-01368"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mục 'Đổi xe giữa kỳ: điều nên hỏi' trùng ý với 00227 (đổi xe giữa kỳ khi có việc đổi), 00228 và 01368 (chuyên về đổi xe giữa kỳ). Bài này chỉ nên giữ góc 'đổi chỗ làm' và dẫn link sang các bài đó."
+  },
+  {
+   "ids": [
+    "BLG-00001",
+    "BLG-00231",
+    "BLG-00487",
+    "BLG-00983",
+    "BLG-02281"
+   ],
+   "level": "MEDIUM",
+   "notes": "00001 (điểm 0,41) trùng góc 'khám phá Hà Nội bằng xe máy'; 02281 là lịch 1 ngày; mục giá tuần trùng bài chuyên đề 00487/00983. Bài này giữ ý định 'lịch trình 7 ngày', dẫn link thay vì lặp giá/cọc."
+  },
+  {
+   "ids": [
+    "BLG-00232",
+    "BLG-01204",
+    "BLG-01219",
+    "BLG-02362"
+   ],
+   "level": "MEDIUM",
+   "notes": "01219 (đưa đón con thi chuyển cấp) trùng phần 'Mùa thi'; 02362 trùng 'xe ga hay xe số khi chở con'; 01204 trùng 'gửi xe ở trường'. Bài này giữ vai trò tổng quan, dẫn link sang ba bài chuyên."
+  },
+  {
+   "ids": [
+    "BLG-00236",
+    "BLG-02090",
+    "BLG-02299"
+   ],
+   "level": "MEDIUM",
+   "notes": "02090 (bị kẹp giữa xe tải tại đèn đỏ) trùng mục 'vùng mù xe tải' và 'đứng giữa hai xe'; 02299 (xe tải/container, điểm mù) liên quan nhẹ. Bài này giữ ý định tổng quát 'chọn vị trí dừng đèn đỏ', link sang 02090 cho tình huống xe tải."
+  },
+  {
+   "ids": [
+    "BLG-00237",
+    "BLG-02117",
+    "BLG-02141"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02117 (chọn xe thuê cho người hay chở đồ) trả lời cùng câu hỏi chính; nên là trang chủ đạo (mới hơn, heading dạng câu hỏi). BLG-02141 chỉ trùng ý phụ: đồ nào không để trong cốp khi nắng. Chỉ đối chiếu heading."
+  },
+  {
+   "ids": [
+    "BLG-00227",
+    "BLG-00240",
+    "BLG-01089"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01089 (thuê tháng chạy ship: xe bền, gói tháng, hỏng giữa ca) nên là trang chính cho ý ship; 00240 rộng hơn (đa điểm, tàu điện, mưa). BLG-00227 phục vụ đổi xe giữa kỳ. Chỉ đối chiếu heading."
+  },
+  {
+   "ids": [
+    "BLG-00243",
+    "BLG-00309",
+    "BLG-00909",
+    "BLG-01431"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trùng ý phụ (theo tiêu đề): BLG-01431 = nhận biết biển cấm xe máy; BLG-00909 = thuê xe ở phố cổ, đường cấm; BLG-00309 = lập tuyến tránh đường cấm. 00243 = hệ thống một chiều/cấm rẽ, xử lý đi nhầm. Cần link chéo."
+  },
+  {
+   "ids": [
+    "BLG-00244",
+    "BLG-01104",
+    "BLG-02298",
+    "BLG-02427"
+   ],
+   "level": "MEDIUM",
+   "notes": "Theo tiêu đề: BLG-02427 (đi làm ngày mưa: áo mưa, phanh trơn, vạch sơn ướt) trùng ý phụ về phanh/đường ướt; BLG-02298 (cầu Long Biên ngày mưa), BLG-01104 (ngày nồm) là ca hẹp. 00244 tập trung mặt đường sau mưa."
+  },
+  {
+   "ids": [
+    "BLG-00016",
+    "BLG-00094",
+    "BLG-00245",
+    "BLG-01363"
+   ],
+   "level": "MEDIUM",
+   "notes": "Theo tiêu đề: BLG-00016 (đèn xe và tầm nhìn ban đêm) trùng ý phụ về đèn/tầm nhìn; BLG-00094 (sương sáng sớm) trùng mục sương; BLG-01363 là ca đèn pha hỏng. 00245 tập trung đường vắng không đèn."
+  },
+  {
+   "ids": [
+    "BLG-00140",
+    "BLG-00248",
+    "BLG-00384"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00384 (xếp giờ nhận/trả quanh giờ cửa hàng) trùng mục 'Đồng bộ giờ giấc'; BLG-00140 (chụp ảnh bằng chứng) trùng phần ghi chú kèm giờ. Bài này nên giữ vai trò thói quen ghi mốc giờ và nhắc giờ trả."
+  },
+  {
+   "ids": [
+    "BLG-00249",
+    "BLG-00525",
+    "BLG-01352",
+    "BLG-01815",
+    "BLG-02047"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'gia hạn thuê xe máy' với 4 bài đã xuất bản. Đề xuất BLG-01815 làm URL chuẩn (từ khóa chính khớp, cùng cụm Thủ tục thuê xe); bài này riêng ở phần đổi gói ngày sang tuần/tháng."
+  },
+  {
+   "ids": [
+    "BLG-00035",
+    "BLG-00250",
+    "BLG-00471",
+    "BLG-00505",
+    "BLG-00530"
+   ],
+   "level": "MEDIUM",
+   "notes": "Cùng họ 'hư hỏng/trả xe': BLG-00471 phân định trách nhiệm, BLG-00530 tranh chấp về cọc, BLG-00035/BLG-00505 quy trình trả xe. Bài này phục vụ xử lý bất đồng về hư hỏng lúc trả; cần phân vai và dẫn link qua lại."
+  },
+  {
+   "ids": [
+    "BLG-00251",
+    "BLG-01130",
+    "BLG-01996",
+    "BLG-02049"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01996 (nhận xe lúc mưa), BLG-02049 và BLG-01130 (trả xe lúc mưa to) trùng 2 mục của bài này; BLG-00466 chỉ chung từ 'mưa'. Bài này nên giữ vai trò tổng quan giao nhận ngày mưa."
+  },
+  {
+   "ids": [
+    "BLG-00252",
+    "BLG-00352",
+    "BLG-01121"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mục xe thuê giao cho người thân trùng ý với BLG-00352 (nhờ người thân nhận/trả xe thuê hộ, trách nhiệm người ký hợp đồng); BLG-01121 (thuê xe cho người thân từ tỉnh lên) liên quan nhưng khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00254",
+    "BLG-00500",
+    "BLG-00647",
+    "BLG-01566",
+    "BLG-01993"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00647 (giấy tờ bắt buộc khi lái xe, có mục Nguồn tham khảo) cùng ý định chính nên làm URL chuẩn; BLG-00500/BLG-01993 lo giấy tờ khi thuê xe; BLG-01566 đường dài. Bài này gộp hoặc dẫn về."
+  },
+  {
+   "ids": [
+    "BLG-00255",
+    "BLG-00500",
+    "BLG-00647"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00647 có mục 'Bản gốc hay tài khoản định danh điện tử' và mục Nguồn tham khảo; BLG-00500 lo giấy tờ khi thuê xe. Đây là bài duy nhất chuyên về e-ID nên giữ, nhưng cần dẫn link và tránh lặp ý."
+  },
+  {
+   "ids": [
+    "BLG-00016",
+    "BLG-00163",
+    "BLG-00256"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00163 (đèn và chạy xe lúc chạng vạng tối) có mục gần trùng: bật đèn sớm, tầm nhìn, người đi bộ, kính mũ, tốc độ; BLG-00016 (đèn và tầm nhìn ban đêm) trùng phần đèn. Nên chọn một URL chính cho 'chạng vạng'."
+  },
+  {
+   "ids": [
+    "BLG-00257",
+    "BLG-00393",
+    "BLG-00978",
+    "BLG-01090",
+    "BLG-01629"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01090 và BLG-01629 trả lời 'giữ bằng chứng nào' riêng cho tiền cọc (chuyển khoản/ứng dụng); BLG-00393 là thuê tháng + chứng từ; BLG-00978 là thanh toán không tiền mặt. Bài này là bản tổng quát, cần liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00260",
+    "BLG-00815",
+    "BLG-01035",
+    "BLG-01741",
+    "BLG-01978",
+    "BLG-02450"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00815 và BLG-01741 (H2 gần như trùng) trả lời đúng câu hỏi này; BLG-01978 chỉ đường hẹp, BLG-02450 xe buýt/taxi, BLG-01035 xe nói chung. Theo H2 và số từ, bài này rộng nhất nên là ứng viên bài chủ; chưa đọc toàn văn các bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00180",
+    "BLG-00264",
+    "BLG-01106",
+    "BLG-01583",
+    "BLG-02103",
+    "BLG-02112"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01583, BLG-01106, BLG-02103 (cùng cụm 'Gửi xe & giữ xe') trả lời cùng câu 'gửi xe qua đêm thế nào'; BLG-02112, BLG-00180 khác ý định (tuyến về, đi xe về muộn). Theo H2 và số từ, bài này rộng nhất; chưa đọc toàn văn bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00266",
+    "BLG-00984",
+    "BLG-01510",
+    "BLG-01872"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01872 (bãi trong bến vs bãi lân cận, giữ vé, giá) trùng phần chọn bãi/vé/giá; BLG-00984 và BLG-01510 trả lời cách tính ngày thuê khi về quê, trùng mục 'xe máy thuê'. BLG-02296 là đi tiếp từ bến, ý định khác."
+  },
+  {
+   "ids": [
+    "BLG-00269",
+    "BLG-00353",
+    "BLG-00845",
+    "BLG-01801",
+    "BLG-02101"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01801 (siêu thị/TTTM: bố trí bãi, cao điểm, an toàn) và BLG-02101 (giờ đông, ghi nhớ vị trí, nhận xe) trùng ý định chính; BLG-00353 trùng phần nhớ vị trí. Bài này rộng hơn theo H2: nên chọn một bài chủ, bài kia phân vai và liên kết chéo."
+  },
+  {
+   "ids": [
+    "BLG-00271",
+    "BLG-01303",
+    "BLG-01450",
+    "BLG-01760"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01303 (thủ tục & an toàn hầm chung cư) và BLG-01450 (báo chủ xe) trùng ý định đăng ký/thủ tục; BLG-01760 về hầm chung cư. Bài này rộng hơn (tòa nhà văn phòng, thẻ từ, đổi xe giữa kỳ)."
+  },
+  {
+   "ids": [
+    "BLG-00272",
+    "BLG-01303",
+    "BLG-02019",
+    "BLG-02435"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02019 (hầm chung cư dốc/cua gắt: chuẩn bị, kỹ thuật xuống dốc, quy trình gửi nhận, rủi ro) trùng ý định chính; BLG-02435 kỹ thuật xe ga; BLG-01303 thủ tục hầm chung cư. Bài này rộng hơn theo H2: nên là bài chủ, bài kia phân vai/liên kết về."
+  },
+  {
+   "ids": [
+    "BLG-00106",
+    "BLG-00273",
+    "BLG-01641",
+    "BLG-02023"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02023 (hoi-dap) trùng ý định chính theo tiêu đề và H2; BLG-01641 là gương gãy/bồi hoàn (ý định con); BLG-00106 chỉnh gương đúng cách. Bài này rộng hơn: nên là bài chủ, BLG-02023 phân vai và liên kết về."
+  },
+  {
+   "ids": [
+    "BLG-00275",
+    "BLG-00886",
+    "BLG-01116",
+    "BLG-01376"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01116 (hết xăng giữa phố: đẩy vào lề, gọi đúng người) trùng ý định con 'hết xăng'; BLG-01376 và BLG-00886 trùng ý định con 'đổ nhầm xăng'. Bài này gộp cả hai nên không trùng hoàn toàn."
+  },
+  {
+   "ids": [
+    "BLG-00059",
+    "BLG-00276",
+    "BLG-00280",
+    "BLG-00484",
+    "BLG-00486"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trùng ý định con: bảng giá (BLG-00484, BLG-00486), bảo hiểm (BLG-00059), hợp đồng (BLG-00280). Giá/cọc/bảo hiểm nên do các bài đó sở hữu, sau khi rà theo dữ liệu đã duyệt."
+  },
+  {
+   "ids": [
+    "BLG-00277",
+    "BLG-01729"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01729 cùng điểm đến nhưng nhánh qua đêm/2 ngày; bài này phục vụ đi về trong ngày. Chồng lấn ở tuyến đường và chuẩn bị nên cần cross-link, tránh lặp. Các bài hồ khác (Đồng Mô, Sóc Sơn) khác điểm đến."
+  },
+  {
+   "ids": [
+    "BLG-00278",
+    "BLG-00550",
+    "BLG-01224",
+    "BLG-01533",
+    "BLG-01802"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài này bao quát nhất (hồ sơ 3 phần, 4 mức xước, kiểm chức năng). BLG-00550/01224: chụp ảnh nhận-trả; BLG-01533: thuê dài hạn; BLG-01802: đọc biên nhận. Mỗi bài trùng một nhánh: cần cross-link, không nhân đôi."
+  },
+  {
+   "ids": [
+    "BLG-00279",
+    "BLG-00393",
+    "BLG-00522"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00393 (thanh toán tháng, giữ chứng từ) trùng phần ghi sổ, biên nhận, gia hạn, tất toán của thuê dài hạn; bài này riêng ở góc công việc (hóa đơn, nhật ký xe). BLG-00522 là thuê tháng đi làm: liên quan nhưng khác ý định."
+  },
+  {
+   "ids": [
+    "BLG-00221",
+    "BLG-00280",
+    "BLG-00501",
+    "BLG-01223",
+    "BLG-01453"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-01453 trả lời đúng câu hỏi chính 'hợp đồng cần ghi rõ gì' với bố cục tương đương (nhận diện, tiền và cọc, tình trạng xe, trách nhiệm): nên là bài chuẩn, sau khi kiểm BLOCKED. BLG-00221 và BLG-01223 trùng lớn; BLG-00501 hẹp hơn."
+  },
+  {
+   "ids": [
+    "BLG-00282",
+    "BLG-00773",
+    "BLG-01282",
+    "BLG-01386",
+    "BLG-01728"
+   ],
+   "level": "HIGH",
+   "notes": "Năm bài cùng 'Đường Lâm bằng xe máy'. BLG-00773 nên là bài chuẩn (từ khóa chính, H2 'bao xa và đi đường nào'); BLG-01728 gần trùng (một ngày); BLG-01282 nhánh gửi xe; BLG-01386 nhánh ghép thành cổ Sơn Tây. Chủ xe so nội dung rồi chọn."
+  },
+  {
+   "ids": [
+    "BLG-00283",
+    "BLG-00579",
+    "BLG-00580",
+    "BLG-00915",
+    "BLG-01462",
+    "BLG-01966"
+   ],
+   "level": "HIGH",
+   "notes": "Nhiều bài cùng 'thuê xe điện hay xe xăng'. BLG-00579 cùng cụm Xe máy điện, có H2 'nên chọn xe điện hay xe xăng khi thuê' nên làm bài chuẩn; BLG-00915/01966 nhánh nội đô; BLG-00580 chi phí; BLG-01462 quãng 10 km. Giữ phần tiêu chí tự chẩn đoán khi gộp."
+  },
+  {
+   "ids": [
+    "BLG-00052",
+    "BLG-00286",
+    "BLG-01794",
+    "BLG-02055",
+    "BLG-02335"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-02335 (khóa cổ kẹt) và BLG-01794/02055 (chìa kẹt trong ổ khóa) trả lời cùng triệu chứng; BLG-00052 trùng phần ắc quy/khóa từ. Bài này bao quát nhất nên đề xuất làm bài chuẩn, các bài hẹp gộp hoặc cross-link."
+  },
+  {
+   "ids": [
+    "BLG-00057",
+    "BLG-00234",
+    "BLG-00288",
+    "BLG-01309"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00234 (cùng cụm, độ dài tương đương) có H2 trùng: thiết lập trước, dừng trước khi nhìn màn hình, nhớ tuyến theo mốc; nên là bài chính. BLG-00057 (offline) và BLG-01309 (người mới) là ý định phụ."
+  },
+  {
+   "ids": [
+    "BLG-00289",
+    "BLG-00371",
+    "BLG-00396",
+    "BLG-00525",
+    "BLG-01532",
+    "BLG-01617"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài khung chồng ý định phụ của bài cùng cụm: chọn xe số/ga (BLG-01532), chi phí kỳ thuê (BLG-01617, BLG-00371), kiểm tra định kỳ (BLG-00396), gia hạn (BLG-00525). Giữ làm bài khung, dẫn link sang bài chuyên sâu."
+  },
+  {
+   "ids": [
+    "BLG-00290",
+    "BLG-01157",
+    "BLG-01538",
+    "BLG-01635"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01157 (xi nhan/còi trước chuyến xa) chồng ý định phụ xi nhan-còi; BLG-01635 (cốp xe ga) và BLG-01538 (nhận xe buổi tối) là bước nhận xe khác. Bài này là bài tổng cho ga-đề-còi-xi nhan khi nhận xe."
+  },
+  {
+   "ids": [
+    "BLG-00292",
+    "BLG-02016",
+    "BLG-02021"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02016 (mưa phùn làm mờ kính) có H2 trùng ý định phụ: chống mờ trước khi đi, giữ tầm nhìn giữa đường; BLG-02021 (đeo kính cận dưới mũ) là biến thể riêng. Bài này tổng quát hơn."
+  },
+  {
+   "ids": [
+    "BLG-00294",
+    "BLG-00478",
+    "BLG-00924"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00924 và BLG-00478 (xe thuê không nổ máy: kiểm tra, khi nào gọi cửa hàng) chồng các mục 'khi nào liên hệ', 'phòng tránh từ đầu kỳ'; bài này riêng ở kỹ năng dắt/đẩy xe. Nên dẫn link sang bài kia."
+  },
+  {
+   "ids": [
+    "BLG-00090",
+    "BLG-00295",
+    "BLG-00748",
+    "BLG-01329"
+   ],
+   "level": "MEDIUM",
+   "notes": "Nhiều bài về đường đê sông Hồng (BLG-00748 chạy xe ngoại thành, BLG-01329 lối lên đê Gia Lâm) chồng ý định phụ 'đi đê / lối lên xuống'; BLG-00090 (dốc, cầu vượt) chồng kỹ năng dốc. Bài này là bài kỹ năng an toàn."
+  },
+  {
+   "ids": [
+    "BLG-00075",
+    "BLG-00296",
+    "BLG-01577"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00075 (cảm nhận độ ăn phanh định kỳ) chồng mục luyện cảm giác/kiểm tra phanh; BLG-01577 (xe phía trước phanh gấp, phản ứng) chồng tình huống số hai. Bài này giữ ý định 'kỹ năng phanh gấp' tổng quát."
+  },
+  {
+   "ids": [
+    "BLG-00090",
+    "BLG-00197",
+    "BLG-00297"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00090 (dốc lên/xuống, tình huống cầu Hà Nội) trùng mạnh với mục dốc cầu và cầu Hà Nội; BLG-00197 (gầm cầu, hầm chui) liền kề nhưng khác ý. Phân vai: bài này = trình tự qua cầu sông + sự cố."
+  },
+  {
+   "ids": [
+    "BLG-00077",
+    "BLG-00299",
+    "BLG-00441"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00077 (rời Hà Nội đột xuất giữa kỳ: liên hệ sớm, ngày thuê chưa dùng, nhờ người trả xe) trùng mạnh mục công tác/về quê; BLG-00441 (tổng kết kỳ thuê, gia hạn) trùng mục gia hạn. Bài này giữ vai trò tổng quan."
+  },
+  {
+   "ids": [
+    "BLG-00304",
+    "BLG-00305",
+    "BLG-01142"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00305 (xe máy điện lần đầu) cùng khuôn: ga, phanh tái sinh, pin, sạc, mưa; BLG-01142 chuyên phanh tái sinh. Bài này khác ở đối tượng xe đạp điện; cần nêu rõ khác biệt xe đạp điện/xe máy điện ở mở bài."
+  },
+  {
+   "ids": [
+    "BLG-00304",
+    "BLG-00305",
+    "BLG-01142",
+    "BLG-01806"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01142 chuyên phanh tái sinh/làm quen; BLG-00304 cùng khuôn cho xe đạp điện; BLG-01806 thuê xe điện đi phố cổ. Bài này là tổng quan 'xe máy điện lần đầu' nên giữ vai trò canonical, các bài kia dẫn về đây."
+  },
+  {
+   "ids": [
+    "BLG-00306",
+    "BLG-00730",
+    "BLG-01889",
+    "BLG-01932"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01889 (đúng làn qua nút giao lớn) trùng mục làn rẽ/mũi tên; BLG-01932 (nhường đoàn xe ưu tiên) liền kề mục làn khẩn cấp; BLG-00730 (phố cổ giờ cấm) trùng mục phố cổ. Bài này giữ vai trò nhận biết làn buýt/khẩn cấp."
+  },
+  {
+   "ids": [
+    "PG-BANG-GIA",
+    "PG-GIOI-THIEU",
+    "PG-HOME",
+    "PG-THUE-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Cùng máy tính giá với /bang-gia/ (ý định giá); khối giới thiệu trùng /gioi-thieu/; hub /thue-xe/ nhắm cùng cụm 'thuê xe máy Hà Nội'. Trang chủ giữ vai trò thương hiệu/điều hướng."
+  },
+  {
+   "ids": [
+    "BLG-00081",
+    "PG-BANG-GIA",
+    "PG-HOI-DAP",
+    "PG-LIEN-HE"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00081 (FAQ tổng hợp 'câu hỏi thường gặp khi thuê xe máy') trùng ý chính của hub; /lien-he/ và /bang-gia/ có FAQ giá/giấy tờ/cọc. Hub chỉ nên là mục lục dẫn tới một đáp án chuẩn."
+  },
+  {
+   "ids": [
+    "BLG-00002",
+    "PG-HOME",
+    "PG-KINH-NGHIEM",
+    "PG-THUE-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Hub nhắm 'thuê xe máy Hà Nội' như trang chủ; /kinh-nghiem/ có hướng dẫn 6 bước + FAQ (~2.000 từ), BLG-00002 là bài trụ cột (đang map vào hub Kỹ năng). Hub mỏng (466 từ) khó thắng ý định 'cách thuê xe'."
+  },
+  {
+   "ids": [
+    "BLG-00003",
+    "BLG-02375",
+    "PG-XE-MAY"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-02375 (từ khóa 'các dòng xe máy cho thuê ở hà nội') và BLG-00003 (xe số/xe ga/50cc nên chọn loại nào) trả lời trực tiếp ý định mà hub chỉ nêu mục lục; hub không có đáp án riêng."
+  },
+  {
+   "ids": [
+    "BLG-00081",
+    "BLG-00268",
+    "PG-CHIA-SE",
+    "PG-KINH-NGHIEM"
+   ],
+   "level": "MEDIUM",
+   "notes": "FAQ trùng ý với /kinh-nghiem/ (hướng dẫn 6 bước + FAQ) và BLG-00081 (FAQ tổng hợp); mục 'Gửi xe ở Hà Nội' gần ý BLG-00268. Ý định: chia sẻ trải nghiệm vs hướng dẫn thuê vs FAQ."
+  },
+  {
+   "ids": [
+    "BLG-00705",
+    "BLG-02160",
+    "BLG-02281",
+    "PG-DU-LICH",
+    "PG-DU-LICH-DIEM-DEN"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mục 'Lộ trình gợi ý một ngày' trùng ý định với BLG-02281 (cả ngày nội đô), BLG-00705 (nửa ngày), BLG-02160 (một ngày Vision); PG-DU-LICH-DIEM-DEN cũng gom bài điểm đến."
+  },
+  {
+   "ids": [
+    "BLG-00002",
+    "BLG-00049",
+    "BLG-00081",
+    "BLG-00430",
+    "PG-KINH-NGHIEM"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00002 trả lời cùng câu hỏi chính (kinh nghiệm thuê xe máy Hà Nội); BLG-00081 là bài FAQ trùng bộ câu hỏi; BLG-00049 (cọc) và BLG-00430 (trả trễ) trùng ý định phụ."
+  },
+  {
+   "ids": [
+    "PG-BAI-VIET",
+    "PG-CHU-DE",
+    "PG-GIOI-THIEU",
+    "PG-HOME"
+   ],
+   "level": "MEDIUM",
+   "notes": "Cùng ý định điều hướng blog với PG-CHU-DE (thư mục chủ đề) và PG-HOME (bài mới nhất, chủ đề blog); 'Tóm tắt nhanh' lặp PG-GIOI-THIEU và PG-BANG-GIA."
+  },
+  {
+   "ids": [
+    "BLG-00490",
+    "BLG-00572",
+    "BLG-00870",
+    "BLG-01548",
+    "PG-BANG-GIA-XE-50CC",
+    "PG-XE-MAY-XE-50CC"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00490 'Giá thuê xe 50cc ở Hà Nội' cùng câu hỏi chính (giá); BLG-00572/00870/01548 cùng câu hỏi bằng lái của FAQ; PG-XE-MAY-XE-50CC là trang chủ đề cùng dòng xe. Cần chọn trang chuẩn cho giá xe 50cc."
+  },
+  {
+   "ids": [
+    "BLG-00045",
+    "BLG-00491",
+    "BLG-01553",
+    "PG-BANG-GIA-XE-DIEN",
+    "PG-XE-MAY-XE-DIEN"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00491 'Giá thuê xe máy điện ở Hà Nội' cùng câu hỏi chính (giá); BLG-00045 (thuê xe điện, quãng đường, sạc) trùng nội dung; BLG-01553 phục vụ xe đạp điện; PG-XE-MAY-XE-DIEN là trang chủ đề cùng dòng xe."
+  },
+  {
+   "ids": [
+    "BLG-00040",
+    "BLG-00489",
+    "BLG-02158",
+    "BLG-02421",
+    "PG-BANG-GIA-XE-GA",
+    "PG-XE-MAY-XE-GA"
+   ],
+   "level": "MEDIUM",
+   "notes": "Bài từng mẫu (BLG-00040 Click/Mio, BLG-02158 giá Vision) và bài so sánh (BLG-00489 giá xe số/xe ga, BLG-02421 chọn xe ga theo tháng) trùng ý định phụ; PG-XE-MAY-XE-GA là trang chủ đề cùng dòng xe."
+  },
+  {
+   "ids": [
+    "BLG-00042",
+    "BLG-00484",
+    "BLG-00489",
+    "BLG-00560",
+    "PG-BANG-GIA-XE-SO",
+    "PG-XE-MAY-XE-SO"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00484 (bảng giá theo loại xe) và BLG-00489 (so sánh giá xe số/xe ga) chung ý định giá; BLG-00560/BLG-00042 phục vụ 'xe số là gì/ai nên thuê/Wave'; PG-XE-MAY-XE-SO là trang chủ đề cùng dòng xe."
+  },
+  {
+   "ids": [
+    "BLG-00484",
+    "BLG-00989",
+    "BLG-01601",
+    "PG-BANG-GIA",
+    "PG-THUE-XE-DAT-COC",
+    "PG-THUE-XE-GIA-THUE"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00484 có cùng từ khóa chính 'bảng giá thuê xe máy Hà Nội'; BLG-01601 (so sánh giá theo ngày) và BLG-00989 (đặt cọc) trùng ý định phụ; hai trang chủ đề giá và cọc cũng gom nội dung. Cần xác định trang chuẩn."
+  },
+  {
+   "ids": [
+    "BLG-00049",
+    "BLG-00864",
+    "BLG-00974",
+    "BLG-00989",
+    "PG-BANG-GIA",
+    "PG-GIOI-THIEU",
+    "PG-LIEN-HE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trùng ở câu con: FAQ giấy tờ/cọc/giao xe/hủy trùng PG-LIEN-HE; giá, cọc, phí trễ trùng PG-BANG-GIA; cọc: BLG-00049, BLG-00989; giấy tờ: BLG-00864; giá theo khu vực: BLG-00974. Ý định 'giới thiệu cửa hàng' không bài nào chiếm."
+  },
+  {
+   "ids": [
+    "BLG-00007",
+    "BLG-00502",
+    "BLG-00864",
+    "PG-BANG-GIA",
+    "PG-GIOI-THIEU",
+    "PG-LIEN-HE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trùng FAQ giấy tờ/cọc/giao xe với PG-GIOI-THIEU và PG-BANG-GIA; BLG-00007/BLG-00502 (đặt xe qua Zalo/điện thoại) cùng ý định liên hệ đặt xe; BLG-00864 cùng câu giấy tờ."
+  },
+  {
+   "ids": [
+    "BLG-00623",
+    "BLG-00628",
+    "BLG-01428",
+    "BLG-01690",
+    "BLG-01904",
+    "PG-AN-TOAN-PHAP-LY-BAO-HIEM"
+   ],
+   "level": "MEDIUM",
+   "notes": "Từ khóa đầu 'bảo hiểm xe máy' bị nhiều bài cùng ý trong cụm: BLG-00623/BLG-01904/BLG-00628 (TNDS là gì/gồm gì), BLG-01428/BLG-01690 (xe thuê đã có bảo hiểm chưa). Trang chủ đề chỉ điều hướng."
+  },
+  {
+   "ids": [
+    "BLG-00068",
+    "BLG-00641",
+    "BLG-01431",
+    "BLG-01697",
+    "PG-AN-TOAN-PHAP-LY-BIEN-BAO"
+   ],
+   "level": "MEDIUM",
+   "notes": "Từ khóa đầu 'biển báo giao thông xe máy' trùng bài tổng quan BLG-00068 và 3 bài biển cấm xe máy (BLG-00641, BLG-01431, BLG-01697) cùng ý; trang chủ đề chỉ điều hướng."
+  },
+  {
+   "ids": [
+    "BLG-00614",
+    "BLG-01381",
+    "BLG-01480",
+    "BLG-01559",
+    "BLG-01688",
+    "BLG-01903",
+    "PG-AN-TOAN-PHAP-LY-GIAY-PHEP-LAI-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Từ khóa đầu trùng bài tổng quan BLG-00614 'Các hạng bằng lái xe máy tại Việt Nam'; trong cụm có 4 bài 'A1 chạy được xe nào' và 4 bài 'thi A1 bằng xe thuê' cùng ý. Trang chủ đề chỉ điều hướng."
+  },
+  {
+   "ids": [
+    "BLG-00020",
+    "BLG-01993",
+    "PG-AN-TOAN-PHAP-LY-GIAY-TO",
+    "PG-HOI-DAP-HOI-DAP-THU-TUC",
+    "PG-THUE-XE-DAT-COC"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01993 (hỏi đáp) và BLG-00020 trả lời thẳng 'giấy tờ cần mang khi thuê xe'; trang Hỏi đáp thủ tục và Đặt cọc & giữ giấy tờ cùng ý định. Trong cụm: BLG-00064/00065/00651 và BLG-00254/00647 trùng ý."
+  },
+  {
+   "ids": [
+    "BLG-00629",
+    "BLG-00630",
+    "BLG-00659",
+    "BLG-01563",
+    "BLG-01692",
+    "PG-AN-TOAN-PHAP-LY-NOI-DO-CONG"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00629 (quy định) và BLG-00630 (mức phạt) trả lời thẳng ý định chính; BLG-00659 ở cụm Quy định giao thông trùng chủ đề; trong cụm 'uống bia xong bao lâu' có 2 bài (BLG-01563, BLG-01692)."
+  },
+  {
+   "ids": [
+    "BLG-00635",
+    "BLG-00636",
+    "BLG-00637",
+    "BLG-00951",
+    "BLG-01430",
+    "PG-AN-TOAN-PHAP-LY-PHAT-NGUOI"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00635 (phạt nguội là gì) và BLG-00636 (tra cứu) trả lời thẳng ý định chính; trong cụm trùng ý: nhóm tra cứu/kiểm tra (5 bài) và nhóm 'ai nhận thông báo' (BLG-00637, 01430)."
+  },
+  {
+   "ids": [
+    "BLG-00374",
+    "BLG-00652",
+    "BLG-00653",
+    "BLG-00658",
+    "BLG-00659",
+    "PG-AN-TOAN-PHAP-LY-QUY-DINH-GIAO-THONG",
+    "PG-HOI-DAP-HOI-DAP-PHAP-LY"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00374, 00652, 00658 nhắm cùng từ khóa 'quy định giao thông xe máy'; mũ bảo hiểm (BLG-00653) và nồng độ cồn (BLG-00659) lặp với cụm Nồng độ cồn; trang Hỏi đáp pháp lý cùng ý định pháp lý."
+  },
+  {
+   "ids": [
+    "BLG-00030",
+    "BLG-00407",
+    "BLG-01335",
+    "PG-CUNG-DUONG-CUNG-DUONG-CUOI-TUAN",
+    "PG-CUNG-DUONG-CUNG-DUONG-PHO-BAC",
+    "PG-DU-LICH-NGOAI-THANH"
+   ],
+   "level": "MEDIUM",
+   "notes": "'Cung đường cuối tuần' trùng tiêu đề BLG-01335 và ý định BLG-00407/00030; điểm đến trùng trang phố Bắc (Tam Đảo, Bái Đính/Ninh Bình) và trang Ngoại thành Hà Nội; Ba Vì có ≥5 bài cùng ý định."
+  },
+  {
+   "ids": [
+    "BLG-00750",
+    "BLG-00754",
+    "BLG-01333",
+    "PG-CUNG-DUONG-CUNG-DUONG-NOI-THANH",
+    "PG-DU-LICH-HO-TAY",
+    "PG-DU-LICH-PHO-CO"
+   ],
+   "level": "MEDIUM",
+   "notes": "Nhiều bài trùng tuyến (vòng Hồ Gươm/Hồ Tây: BLG-00751, 01333, 01891); BLG-00750 và BLG-00754 là bài đầu mối nội thành. Trang Hồ Tây & lân cận và Phố cổ Hoàn Kiếm (mục Du lịch) trùng ý định địa điểm."
+  },
+  {
+   "ids": [
+    "BLG-00412",
+    "BLG-00809",
+    "BLG-01284",
+    "PG-CUNG-DUONG-CUNG-DUONG-CUOI-TUAN",
+    "PG-CUNG-DUONG-CUNG-DUONG-PHO-BAC",
+    "PG-CUNG-DUONG-HA-GIANG"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00809 và BLG-00412 trả lời thẳng ý định 'chạy xe đi tỉnh xa từ Hà Nội'; Đồng Văn (BLG-01574) trùng trang Hà Giang; Tam Đảo, Bái Đính/Ninh Bình trùng trang cuối tuần; Đồ Sơn có BLG-01072 và BLG-01284 ở hai cụm."
+  },
+  {
+   "ids": [
+    "BLG-00412",
+    "BLG-00790",
+    "BLG-01444",
+    "BLG-01737",
+    "PG-CUNG-DUONG-CUNG-DUONG-PHO-BAC",
+    "PG-CUNG-DUONG-HA-GIANG"
+   ],
+   "level": "MEDIUM",
+   "notes": "Trong cụm có 3 bài cùng ý định 'thuê xe đi Hà Giang' (BLG-01737, 01444, 00790) cạnh tranh với trang; BLG-00412 (thuê xe đi liên tỉnh) trùng chặng xa; bài Đồng Văn nằm ở trang phố Bắc."
+  },
+  {
+   "ids": [
+    "BLG-00774",
+    "BLG-00778",
+    "PG-CUNG-DUONG-MAI-CHAU",
+    "PG-CUNG-DUONG-MOC-CHAU"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00778 (chuẩn bị) và BLG-00774 (tuyến QL6) trả lời đúng ý định 'lộ trình, điểm dừng, lưu ý' mà meta hứa; trang chỉ liệt kê. Mộc Châu: khác đích, chung trục QL6 (LOW). Cụm có cặp bài trùng ý: mùa lúa chín (BLG-00958/01442)."
+  },
+  {
+   "ids": [
+    "BLG-00779",
+    "BLG-01572",
+    "BLG-02334",
+    "PG-CUNG-DUONG-MOC-CHAU"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00779 trả lời đúng ý định 'cung Hà Nội - Mộc Châu qua Quốc lộ 6' mà meta lặp lại; BLG-01572 (thuê xe mấy ngày) và BLG-02334 (xe máy hay xe khách) phục vụ ý định chọn phương án, khác nhau. Giữ trang chỉ là danh mục."
+  },
+  {
+   "ids": [
+    "BLG-01042",
+    "BLG-01323",
+    "BLG-01808",
+    "BLG-01890",
+    "PG-DU-LICH-BAO-TANG"
+   ],
+   "level": "MEDIUM",
+   "notes": "Meta mở bằng 'Bảo tàng Hà Nội' trùng tên một bảo tàng cụ thể (BLG-01042); BLG-01890 khớp từ khóa trang nhưng nằm cụm Điểm đến. Dân tộc học có 4 bài trùng ý định gửi xe/đường đi (BLG-01808, 01710, 01323, 00953)."
+  },
+  {
+   "ids": [
+    "BLG-00001",
+    "BLG-00231",
+    "PG-DU-LICH-DIEM-DEN",
+    "PG-DU-LICH-HO-TAY",
+    "PG-DU-LICH-NGOAI-THANH"
+   ],
+   "level": "MEDIUM",
+   "notes": "Cụm tổng hợp chồng với trang khu vực: Cổ Loa (BLG-02265↔01053), Sóc Sơn (BLG-02269↔01274), chợ hoa Quảng Bá (BLG-02286↔01263). BLG-00001/00231 phục vụ ý định chung 'khám phá Hà Nội bằng xe máy'."
+  },
+  {
+   "ids": [
+    "BLG-00739",
+    "BLG-01809",
+    "BLG-02286",
+    "PG-DU-LICH-DIEM-DEN",
+    "PG-DU-LICH-HO-TAY"
+   ],
+   "level": "MEDIUM",
+   "notes": "Chồng với trang Điểm đến (chợ hoa Quảng Bá: BLG-01263↔02286) và 'ven sông Hồng' (BLG-01809, 00739). Trong cụm có ≥6 bài cùng ý định 'chạy vòng Hồ Tây' (vd. BLG-00731, 01437, 01716): xử lý MERGE ở audit bài."
+  },
+  {
+   "ids": [
+    "BLG-00008",
+    "BLG-00912",
+    "BLG-00913",
+    "BLG-01051",
+    "PG-DU-LICH-LONG-BIEN"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00008 (cầu Long Biên và khu Long Biên bằng xe máy) khớp từ khóa trang nhưng nằm cụm Cung đường nội thành. BLG-00912/00913 (thuê xe máy Long Biên/Gia Lâm) là ý định thuê. Chợ đầu mối có 3 bài trùng ý (BLG-01051, 01720, 02287)."
+  },
+  {
+   "ids": [
+    "BLG-00765",
+    "BLG-01921",
+    "BLG-02282",
+    "PG-DU-LICH-DIEM-DEN",
+    "PG-DU-LICH-NGOAI-THANH"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-01921 trả lời ý định chung của trang; BLG-02282 (một ngày ngoại thành) nằm cụm Điểm đến. Trùng cụm Điểm đến: Cổ Loa (BLG-01053↔02265), Sóc Sơn (BLG-01274↔02269); Đồng Mô có 3 bài (BLG-01330, 00745, 00765)."
+  },
+  {
+   "ids": [
+    "BLG-00361",
+    "BLG-00427",
+    "BLG-01713",
+    "BLG-02453",
+    "PG-DU-LICH-PHO-CO"
+   ],
+   "level": "MEDIUM",
+   "notes": "Meta nhắc 'phố đi bộ cuối tuần': 4 bài cùng ý định gửi/đi xe ở phố đi bộ (BLG-01713, 00726 trong cụm; BLG-02453, 00361 ngoài cụm). BLG-00427 (thuê xe máy gần Hoàn Kiếm) là ý định thuê, khác."
+  },
+  {
+   "ids": [
+    "PG-HOI-DAP-HOI-DAP-CHON-XE",
+    "PG-XE-MAY-CHON-LOAI-XE",
+    "PG-XE-MAY-SO-SANH-XE"
+   ],
+   "level": "HIGH",
+   "notes": "Hub /xe-may/chon-loai-xe/ (22 bài) và /xe-may/so-sanh-xe/ cùng ý 'nên thuê xe nào'; hub này dạng hỏi–đáp, hub kia dạng hướng dẫn. Trong chủ đề có bài trùng ('đi phố nên thuê xe số hay xe ga': BLG-01946, 01771, 00883)."
+  },
+  {
+   "ids": [
+    "BLG-00081",
+    "BLG-01992",
+    "PG-BANG-GIA",
+    "PG-HOI-DAP-HOI-DAP-GIA",
+    "PG-THUE-XE-GIA-THUE"
+   ],
+   "level": "HIGH",
+   "notes": "Hub /thue-xe/gia-thue/ và /bang-gia/ cùng ý 'giá thuê xe máy' (hub = duyệt bài, bang-gia = giao dịch). BLG-01992 (theo tuần) trùng BLG-00859; BLG-00081 là FAQ tổng hợp."
+  },
+  {
+   "ids": [
+    "BLG-00081",
+    "BLG-00499",
+    "BLG-00968",
+    "PG-HOI-DAP-HOI-DAP-CHON-XE",
+    "PG-HOI-DAP-HOI-DAP-NGUOI-MOI"
+   ],
+   "level": "MEDIUM",
+   "notes": "Hub chồng ý với hub chọn xe ('lần đầu nên chọn xe số hay xe ga': BLG-01826, 01307) và với BLG-00499/BLG-00081 (thủ tục, FAQ tổng hợp). Hub phục vụ duyệt, bài phục vụ trả lời."
+  },
+  {
+   "ids": [
+    "BLG-00081",
+    "PG-AN-TOAN-PHAP-LY-GIAY-PHEP-LAI-XE",
+    "PG-AN-TOAN-PHAP-LY-PHAT-NGUOI",
+    "PG-HOI-DAP-HOI-DAP-PHAP-LY",
+    "PG-THUE-XE-KHACH-QUOC-TE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Hub chồng ý với hub GPLX, phạt nguội (An toàn & pháp lý) và khách quốc tế; hub này dạng hỏi–đáp ngắn, hub kia dạng hướng dẫn. BLG-00081 là FAQ tổng hợp 'từ giấy tờ đến trả xe'."
+  },
+  {
+   "ids": [
+    "BLG-01910",
+    "PG-HOI-DAP-HOI-DAP-SU-CO",
+    "PG-THUE-XE-SU-CO",
+    "PG-XE-MAY-XU-LY-SU-CO-XE"
+   ],
+   "level": "HIGH",
+   "notes": "Ba hub cùng ý 'xe thuê hỏng thì làm gì': /thue-xe/su-co/ (hỏng, mất cắp, tranh chấp), /xe-may/xu-ly-su-co-xe/ (kỹ thuật) và hub này (hỏi–đáp). Nhiều bài trùng, vd 'chết máy giữa ngã tư'; BLG-01910 (mất chìa) trùng 2 bài cùng chủ đề."
+  },
+  {
+   "ids": [
+    "BLG-00081",
+    "BLG-00499",
+    "PG-AN-TOAN-PHAP-LY-GIAY-TO",
+    "PG-HOI-DAP-HOI-DAP-THU-TUC",
+    "PG-THUE-XE-DAT-COC",
+    "PG-THUE-XE-THU-TUC"
+   ],
+   "level": "HIGH",
+   "notes": "Hub /thue-xe/thu-tuc/, /thue-xe/dat-coc/ và /an-toan-phap-ly/giay-to/ cùng ý 'thủ tục, giấy tờ, cọc'; BLG-00499 (thủ tục lần đầu) và BLG-00081 (FAQ tổng hợp) trả lời cùng câu hỏi lõi. Hub này dạng hỏi–đáp ngắn."
+  },
+  {
+   "ids": [
+    "BLG-00316",
+    "BLG-01825",
+    "PG-KY-NANG-CHO-DO-VA-HANH-LY"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mô tả hub nhắc đúng 'đồ dễ vỡ, vật dài' như BLG-00316 và BLG-01825 (hướng dẫn chở đồ dễ vỡ/vật dài). Hub phục vụ duyệt, bài phục vụ hướng dẫn. Trong chủ đề nhiều bài trùng đề."
+  },
+  {
+   "ids": [
+    "BLG-01301",
+    "BLG-01583",
+    "PG-KY-NANG-GUI-XE-VA-GIU-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mô tả hub 'giữ xe qua đêm' trùng ý chính BLG-01301/BLG-01583/BLG-02103 (gửi xe máy qua đêm). Hub phục vụ duyệt, bài phục vụ trả lời; nhiều bài con gần trùng đề."
+  },
+  {
+   "ids": [
+    "BLG-00049",
+    "BLG-00941",
+    "BLG-01469",
+    "PG-BANG-GIA",
+    "PG-LIEN-HE",
+    "PG-THUE-XE-DAT-COC"
+   ],
+   "level": "MEDIUM",
+   "notes": "Tiêu đề trang nhắm đúng 'đặt cọc thuê xe máy' nhưng không có câu trả lời; BLG-00049 (tổng quan), BLG-00941 (so sánh hình thức), BLG-01469 (giữ giấy tờ) trả lời trực tiếp; /bang-gia/ và /lien-he/ có FAQ cọc riêng."
+  },
+  {
+   "ids": [
+    "BLG-00484",
+    "BLG-01522",
+    "PG-BANG-GIA",
+    "PG-THUE-XE-GIA-THUE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mô tả hứa 'Bảng giá' nhưng bảng giá nằm ở /bang-gia/ và BLG-00484 (giá theo loại xe); BLG-01522 trùng ý yếu tố giá tháng. 3 ứng viên đầu của pack (Chùa Hương) chỉ trùng token, không cạnh tranh."
+  },
+  {
+   "ids": [
+    "BLG-00046",
+    "BLG-00539",
+    "BLG-00945",
+    "BLG-01091",
+    "PG-THUE-XE-KHACH-QUOC-TE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mô tả trùng ý 4 bài giấy tờ cho khách quốc tế, vốn có tiêu đề gần giống nhau và tự cạnh tranh: BLG-00046, 00539, 00945, 01091. BLG-01470 trả lời riêng về bằng lái quốc tế."
+  },
+  {
+   "ids": [
+    "BLG-00548",
+    "BLG-00550",
+    "BLG-01471",
+    "PG-THUE-XE-NHAN-TRA-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Mô tả 'checklist nhận xe' trùng BLG-00548; BLG-00550 và BLG-01471 phục vụ ý định chụp ảnh khi nhận/trả. Trong cụm có cặp bài trùng ý: trả ngoài giờ (BLG-02045, 01793), trả sớm (BLG-01804, 01539)."
+  },
+  {
+   "ids": [
+    "BLG-00403",
+    "BLG-02395",
+    "PG-HOI-DAP-HOI-DAP-SU-CO",
+    "PG-THUE-XE-SU-CO",
+    "PG-XE-MAY-XU-LY-SU-CO-XE"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'xử lý sự cố trong kỳ thuê': PG-HOI-DAP-HOI-DAP-SU-CO (hỏi đáp), PG-XE-MAY-XU-LY-SU-CO-XE (hỏng kỹ thuật). Mất cắp: BLG-00403 (cụm Sự cố) và BLG-02395 (cụm Thủ tục) trùng nhau. Trang 1 có thủng lốp x2, kẹt chìa x2."
+  },
+  {
+   "ids": [
+    "BLG-00004",
+    "BLG-00499",
+    "PG-AN-TOAN-PHAP-LY-GIAY-TO",
+    "PG-HOI-DAP-HOI-DAP-THU-TUC",
+    "PG-THUE-XE-DAT-COC",
+    "PG-THUE-XE-THU-TUC"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'thủ tục thuê xe máy lần đầu': BLG-00004 và BLG-00499 (trùng nhau, trùng đúng ý định trang), PG-HOI-DAP-HOI-DAP-THU-TUC (hỏi đáp). Giấy tờ/cọc thuộc PG-THUE-XE-DAT-COC, PG-AN-TOAN-PHAP-LY-GIAY-TO."
+  },
+  {
+   "ids": [
+    "BLG-00936",
+    "BLG-01110",
+    "PG-HOI-DAP-HOI-DAP-GIA",
+    "PG-THUE-XE-GIA-THUE",
+    "PG-THUE-XE-THUE-NGAY"
+   ],
+   "level": "MEDIUM",
+   "notes": "Ý định phụ 'chi phí thuê theo ngày' trùng PG-THUE-XE-GIA-THUE, PG-HOI-DAP-HOI-DAP-GIA (giá), BLG-00936 (ngày vs tuần), BLG-01110 (công tác 2 ngày); các thẻ lộ trình/du lịch trong ngày là ý định riêng."
+  },
+  {
+   "ids": [
+    "BLG-00265",
+    "BLG-00429",
+    "BLG-00522",
+    "BLG-00897",
+    "PG-THUE-XE-THUE-THANG"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'thuê xe máy theo tháng cho người đi làm': BLG-00522, BLG-00429, BLG-00897 (trùng cả meta trang); BLG-00265 là hướng con (gửi xe dài hạn). Trang tổng hợp nên nhường bài trụ cột, không thêm FAQ."
+  },
+  {
+   "ids": [
+    "BLG-00433",
+    "BLG-00906",
+    "PG-THUE-XE-THUE-THEO-DIA-DIEM"
+   ],
+   "level": "MEDIUM",
+   "notes": "Cụm có nhiều bài trùng ý định (Nội Bài x3, Long Biên x3; Cầu Giấy, Giáp Bát, Mỹ Đình, ga, hồ Gươm x2); BLG-00906 và BLG-00433 cùng trả lời 'thuê xe máy từ sân bay Nội Bài'. Trang tổng hợp không tranh ý định từng bài; cần gộp bài trùng."
+  },
+  {
+   "ids": [
+    "BLG-00044",
+    "BLG-00539",
+    "BLG-01091",
+    "PG-THUE-XE-KHACH-QUOC-TE",
+    "PG-THUE-XE-THUE-THEO-DOI-TUONG"
+   ],
+   "level": "MEDIUM",
+   "notes": "Nhóm 'khách quốc tế/người nước ngoài' trùng PG-THUE-XE-KHACH-QUOC-TE, BLG-00539, BLG-01091 (giấy tờ); trong cụm có 4 thẻ sinh viên cùng ý định, BLG-00044 (cụm Thuê tháng) cũng cùng nhóm."
+  },
+  {
+   "ids": [
+    "BLG-00518",
+    "BLG-01088",
+    "BLG-01936",
+    "PG-THUE-XE-THUE-NGAY",
+    "PG-THUE-XE-THUE-THANG",
+    "PG-THUE-XE-THUE-TUAN"
+   ],
+   "level": "HIGH",
+   "notes": "Cùng ý định 'thuê xe máy theo tuần': BLG-00518 (phù hợp nhu cầu nào), BLG-01936 (ở dài ngày), BLG-01088 (công tác). PG-THUE-XE-THUE-NGAY/THANG chung quyết định ngày-tuần-tháng. Trang 1 có 2 thẻ trùng 'kiểm tra xe giữa kỳ'."
+  },
+  {
+   "ids": [
+    "BLG-02518",
+    "PG-THUE-XE-SU-CO",
+    "PG-XE-MAY-BAO-DUONG-XE",
+    "PG-XE-MAY-XU-LY-SU-CO-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "Dấu hiệu hỏng xe (phanh, khói pô, thủng lốp) trùng PG-XE-MAY-XU-LY-SU-CO-XE và PG-THUE-XE-SU-CO; cùng câu hỏi 'khói pô màu xanh/trắng/đen' có ở BLG-02172 (cụm này) và BLG-02518 (cụm Sự cố)."
+  },
+  {
+   "ids": [
+    "BLG-00003",
+    "BLG-01210",
+    "PG-HOI-DAP-HOI-DAP-CHON-XE",
+    "PG-XE-MAY-CHON-LOAI-XE"
+   ],
+   "level": "HIGH",
+   "notes": "Trang /hoi-dap/hoi-dap-chon-xe/ cùng ý định 'chọn xe theo nhu cầu'; BLG-00003 (số/ga/50cc nên chọn loại nào) bị gán cụm 50cc; BLG-01210 gần trùng BLG-02116 (người cao to)."
+  },
+  {
+   "ids": [
+    "BLG-00039",
+    "BLG-00596",
+    "PG-BANG-GIA-XE-GA",
+    "PG-XE-MAY-HONDA-AIR-BLADE"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00039 (đầu mối 'Thuê Honda Air Blade ở Hà Nội') và BLG-00596 cùng trả lời 'Air Blade khác gì xe ga phổ thông'; PG-BANG-GIA-XE-GA phục vụ ý định giá. Trang này chỉ liệt kê nên khác vai."
+  },
+  {
+   "ids": [
+    "BLG-00040",
+    "BLG-00600",
+    "BLG-01677",
+    "PG-BANG-GIA-XE-GA",
+    "PG-XE-MAY-HONDA-CLICK"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00040 (đầu mối 'Thuê Honda Click và Yamaha Mio ở Hà Nội') trùng ý BLG-00600 và BLG-01677 (Click nhỏ gọn hợp ai); PG-BANG-GIA-XE-GA phục vụ ý định giá. Trang này chỉ liệt kê."
+  },
+  {
+   "ids": [
+    "BLG-00041",
+    "BLG-00591",
+    "BLG-02158",
+    "PG-BANG-GIA-XE-GA",
+    "PG-XE-MAY-HONDA-VISION"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00041 (đầu mối 'Thuê Honda Vision ở Hà Nội') và BLG-00591 cùng 'Vision hợp với ai'; BLG-02158 và PG-BANG-GIA-XE-GA cùng ý định giá Vision. Trang này chỉ liệt kê."
+  },
+  {
+   "ids": [
+    "BLG-00042",
+    "BLG-00586",
+    "PG-BANG-GIA-XE-SO",
+    "PG-XE-MAY-HONDA-WAVE"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00042 (đầu mối 'Thuê Honda Wave ở Hà Nội') và BLG-00586 cùng 'Wave hợp nhu cầu nào'; PG-BANG-GIA-XE-SO phục vụ ý định giá Wave. Trang này chỉ liệt kê nên khác vai."
+  },
+  {
+   "ids": [
+    "BLG-00468",
+    "BLG-00937",
+    "BLG-01411",
+    "BLG-01788",
+    "PG-THUE-XE-GIA-THUE",
+    "PG-XE-MAY-SO-SANH-XE"
+   ],
+   "level": "MEDIUM",
+   "notes": "3 bài cùng ý 'thuê xe máy hay taxi rẻ hơn' (BLG-00937, BLG-01411, BLG-01788) nằm trong trang; BLG-00468 (bài cũ) so với phương tiện khác; PG-THUE-XE-GIA-THUE trùng phần so sánh giá."
+  },
+  {
+   "ids": [
+    "BLG-00050",
+    "BLG-00490",
+    "BLG-02064",
+    "PG-BANG-GIA-XE-50CC",
+    "PG-XE-MAY-XE-50CC"
+   ],
+   "level": "MEDIUM",
+   "notes": "PG-BANG-GIA-XE-50CC, BLG-00050 ('Thuê xe 50cc ở Hà Nội'), BLG-00490 (giá) và BLG-02064 cùng nhắm 'thuê xe 50cc'; 3 bài (BLG-00572, BLG-00870, BLG-01548) cùng hỏi 'xe 50cc cần bằng lái không'."
+  },
+  {
+   "ids": [
+    "BLG-00033",
+    "BLG-00582",
+    "BLG-00584",
+    "BLG-01553",
+    "PG-BANG-GIA-XE-DIEN",
+    "PG-XE-MAY-XE-DAP-DIEN",
+    "PG-XE-MAY-XE-DIEN"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00033 và BLG-00582 cùng 'xe đạp điện khác xe máy điện'; BLG-01553 và BLG-00584 cùng 'thuê xe đạp điện ở Hà Nội'; PG-BANG-GIA-XE-DIEN phục vụ ý định giá; PG-XE-MAY-XE-DIEN trùng bài so sánh xe điện."
+  },
+  {
+   "ids": [
+    "BLG-00045",
+    "BLG-00577",
+    "BLG-02066",
+    "BLG-02068",
+    "PG-BANG-GIA-XE-DIEN",
+    "PG-XE-MAY-XE-DIEN"
+   ],
+   "level": "HIGH",
+   "notes": "BLG-00045 (cùng chủ đề 'quãng đường, sạc pin') và PG-BANG-GIA-XE-DIEN (giá + FAQ) cùng nhắm 'thuê xe máy điện Hà Nội'; BLG-00577/02066/02068 trùng ý phụ (quãng đường, sạc, đổi pin). Giữ vai trò, không gộp."
+  },
+  {
+   "ids": [
+    "BLG-00048",
+    "PG-BANG-GIA-XE-GA",
+    "PG-XE-MAY-XE-GA"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00048 (ai hợp xe ga, lưu ý lái) và PG-BANG-GIA-XE-GA (giá + FAQ) trùng ý chính 'thuê xe tay ga'. Ứng viên trùng token 'ga' (vd BLG-01779 'quanh ga Hà Nội') là nhiễu: ga = nhà ga, không cùng ý."
+  },
+  {
+   "ids": [
+    "BLG-00051",
+    "BLG-00563",
+    "PG-BANG-GIA-XE-SO",
+    "PG-XE-MAY-XE-SO"
+   ],
+   "level": "MEDIUM",
+   "notes": "BLG-00051 (xe số là gì, ưu/nhược) và PG-BANG-GIA-XE-SO (giá + FAQ) cùng nhắm 'thuê xe số Hà Nội'; BLG-00563 trùng ý phụ 'tiết kiệm xăng'. BLG-01088, BLG-02318, BLG-02334 chỉ trùng từ chung, không cùng ý."
+  },
+  {
+   "ids": [
+    "BLG-01898",
+    "PG-HOI-DAP-HOI-DAP-SU-CO",
+    "PG-THUE-XE-SU-CO",
+    "PG-XE-MAY-XU-LY-SU-CO-XE"
+   ],
+   "level": "HIGH",
+   "notes": "PG-THUE-XE-SU-CO (hỏng hóc, mất cắp, va chạm, tranh chấp) và PG-HOI-DAP-HOI-DAP-SU-CO (hỏi đáp nhanh) cùng ý 'xe thuê gặp sự cố'; trang này chỉ nhận lỗi kỹ thuật. BLG-01898 trùng bài 'chết máy giữa ngã tư'."
+  },
+  {
+   "ids": [
+    "BLG-00563",
+    "BLG-01153",
+    "PG-XE-MAY-SO-SANH-XE",
+    "PG-XE-MAY-YAMAHA-SIRIUS"
+   ],
+   "level": "MEDIUM",
+   "notes": "Từ khóa chính 'thuê Yamaha Sirius' chỉ trang này nhắm tới. Ý phụ 'tiết kiệm xăng' trùng BLG-00563 (xe số nói chung) và BLG-01153; ý 'Sirius với Wave' trùng 4 bài ở cụm PG-XE-MAY-SO-SANH-XE."
+  }
+ ]
+}

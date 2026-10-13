@@ -286,16 +286,24 @@ def main():
     both = {**{k: v for k, v in an_posts.items()}, **{k: v for k, v in an_pages.items()}}
 
     def top20():
+        # Editorial ranking (NOT traffic): priority > AI-search opportunity > risk, then data-driven tie-breaks so the order
+        # inside the large P0/HIGH/HIGH tie group is not just "smallest id first":
+        #   decision-stage intent first (TRANSACTIONAL/COMMERCIAL/LOCAL), then the number of unverified DEPOSIT/PRICE/LEGAL claims
+        #   (more = more misleading text a renter could act on), then body links pointing to the URL (posts only; amplification), then id.
+        intent_rank = {'TRANSACTIONAL': 0, 'COMMERCIAL': 0, 'LOCAL': 1, 'INFORMATIONAL': 2, 'NAVIGATIONAL': 3}
         rows = []
         for i, r in both.items():
+            hi_claims = sum(1 for c in (r['content_assessment'].get('unverifiable_claims') or []) if c.get('kind') in ('DEPOSIT', 'PRICE', 'LEGAL'))
+            body_in = (inbound.get(i) or {}).get('inbound_body') or 0
             rows.append((PRIORITY_ORDER[r['priority']], LEVEL_ORDER[r['ai_search_opportunity']['level']],
-                         0 if r['risk']['level'] == 'HIGH' else 1 if r['risk']['level'] == 'MEDIUM' else 2, i, r))
-        rows.sort(key=lambda x: x[:4])
+                         0 if r['risk']['level'] == 'HIGH' else 1 if r['risk']['level'] == 'MEDIUM' else 2,
+                         intent_rank.get(r['primary_intent']['type'], 2), -hi_claims, -body_in, i, r))
+        rows.sort(key=lambda x: x[:7])
         fm = {x['id']: x for x in full}
         return [{'id': i, 'url': fm[i]['url'], 'priority': r['priority'], 'action': r['recommended_action'],
                  'faq_status': r['faq_status'], 'opportunity': r['ai_search_opportunity']['level'], 'risk': r['risk']['level'],
                  'why': r['ai_search_opportunity']['reason'], 'risk_reason': r['risk']['reason']}
-                for _, _, _, i, r in rows[:20]]
+                for _, _, _, _, _, _, i, r in rows[:20]]
 
     stats_doc['top20'] = top20()
 

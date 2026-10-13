@@ -1,8 +1,9 @@
-# Kế hoạch triển khai FAQ / nội dung trả lời cho AI-search — CHỈ ĐỀ XUẤT, CHƯA TRIỂN KHAI
+# Kế hoạch triển khai FAQ / nội dung trả lời cho AI-search
 
-> **Trạng thái: giai đoạn AUDIT.** Tài liệu này KHÔNG thay đổi website. Mọi thay đổi bên dưới chỉ được làm SAU KHI chủ website duyệt matrix
-> (`faq-matrix-first300.csv`, `faq-matrix-main-pages.csv`, `faq-matrix-master.csv`) và duyệt từng pha, mỗi pha một PR riêng có CI xanh + rollback.
-> Số liệu cụ thể từng URL nằm trong matrix; tổng hợp nằm trong `faq-audit-summary.md`.
+> **Trạng thái (cập nhật 2026-10-13): matrix hoàn tất (377 URL) và chủ website đã ủy quyền tối ưu theo matrix.** Phần *hạ tầng và template* đã triển khai bằng PR riêng
+> (bảng tiến độ ở §0b); phần *nội dung* chỉ làm những gì không cần quyết định kinh doanh/pháp lý của chủ — các mục `BLOCKED` và pháp lý giữ nguyên chờ quyết định
+> (danh sách ở `faq-audit-summary.md` §17). Mỗi thay đổi: PR riêng, CI xanh, rollback = `git revert`.
+> Số liệu cụ thể từng URL nằm trong matrix (`faq-matrix-first300.csv`, `faq-matrix-main-pages.csv`, `faq-matrix-master.csv`); tổng hợp nằm trong `faq-audit-summary.md`.
 
 ## 0. Điều cần chủ website biết trước khi duyệt (quan trọng nhất)
 
@@ -19,13 +20,23 @@
    (giá, cọc, giấy tờ, chọn xe, nhận/trả xe) → (P2) xử lý trùng ý định/cannibalization và trang chủ đề mỏng → (P3) hạ tầng FAQ dùng chung + schema tùy chọn.
 3. **Không FAQ hàng loạt.** Chỉ những URL mà matrix ghi `ADD`/`IMPROVE` mới được đề xuất làm; phần lớn URL là `NO FAQ`.
 
+## 0b. Tiến độ triển khai (sau khi chủ ủy quyền, 2026-10-12 → 2026-10-13)
+
+| Hạng mục (mục trong kế hoạch) | PR | Trạng thái |
+|---|---|---|
+| Template: JSON-LD an toàn, `BlogPosting` đủ trường, `BreadcrumbList` mọi loại trang, bỏ breadcrumb/lead lặp, `priceRange` từ dữ liệu (§4 Template) | #14, #17 | Đã merge |
+| Hạ tầng FAQ dùng chung: `faq.html` + validator + parity + test + CI; mặc định không đổi HTML, schema tắt (pha 2) | #15 | Đã merge |
+| Sửa `slugify` mất chữ "đ" + re-slug hàng PLANNED chưa viết (phát hiện ngoài FAQ) | #19, #21 | Đã merge |
+| "Bài liên quan" phân bố đều + O(cụm) (phát hiện từ phân tích liên kết nội bộ; giảm thời gian build) | xem `faq-audit-summary.md` §16 | Xem §16 |
+| Nội dung theo matrix (pha 1/3/4) | — | Chỉ phần không cần quyết định của chủ; phần BLOCKED/pháp lý/MERGE chờ chủ (`faq-audit-summary.md` §17) |
+
 ## 1. Ràng buộc lấy từ chính repo (không phải giả định)
 
 | Ràng buộc | Nguồn trong repo | Hệ quả cho thiết kế |
 |---|---|---|
-| Bài PUBLISHED/legacy bị ràng buộc bởi hash nội dung của evidence QA (`data/qa/<ID>.json` → `content_sha256`) | `AGENTS.md` quy tắc 8–9, `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md` | **Không sửa `_posts/*.md`** (kể cả front matter) để thêm/đổi FAQ cho bài đã có. Thay đổi cho bài cũ chỉ nằm ở `_includes/`, `_layouts/`, `_data/`, hoặc là một quyết định riêng "đổi nội dung + chấm lại QA độc lập" do chủ duyệt. |
+| Bài **factory PUBLISHED** (BLG-00484 trở đi, 2.052 bài) bị ràng buộc bởi hash nội dung của evidence QA (`data/qa/<ID>.json` → `content_sha256`). **Bài legacy** (BLG-00001…00483: 473 EXISTING + 10 REVIEW, gồm cả 300 bài mẫu) **không có evidence QA** (`data/qa/` chỉ có file từ BLG-00484) nên không bị ràng buộc hash | `AGENTS.md` quy tắc 8–9, `docs/LEGACY-QA-RE-ATTESTATION-PLAN.md`; kiểm chứng: `ls data/qa` | **Không sửa `_posts/*.md` của bài factory PUBLISHED** (kể cả front matter). Bài legacy: chỉ sửa nhỏ, có kiểm soát (khẳng định bị cấm, định dạng FAQ nguyên văn), qua batch nhỏ + guard; FAQ mới ưu tiên nằm ở `_data/faq/`. Nội dung kinh doanh/pháp lý vẫn cần quyết định của chủ. |
 | GitHub Pages dựng bằng gem `github-pages` (Jekyll 3.10, safe mode, chỉ Liquid) | `_config.yml`, workflow `pages build and deployment` | Component viết bằng Liquid thuần; không plugin Ruby, không JS bắt buộc. |
-| Build ~12 phút / 2.483 bài (đo cục bộ 708 s) vì `related-articles.html`, `hub.html`, `topic.html` lặp `site.posts` | `docs/CAPACITY-20K-FEASIBILITY.md`, đo trong audit | Component FAQ phải **O(1)** theo trang (tra khóa trong `site.data`), KHÔNG thêm vòng lặp `site.posts`. |
+| Build ~12 phút / 2.483 bài (đo cục bộ 708 s) chủ yếu do `related-articles.html` (và `hub.html`, `topic.html`) lặp `site.posts` cho từng trang; sau khi tối ưu `related-articles.html` (PR §0b) đo cục bộ 2.535 bài: **8 phút 29 giây → 4 phút 24 giây** | `docs/CAPACITY-20K-FEASIBILITY.md`, đo trong audit và sau tối ưu | Component FAQ phải **O(1)** theo trang (tra khóa trong `site.data`), KHÔNG thêm vòng lặp `site.posts`. |
 | Schema phải khớp nội dung thật, không bịa rating/review | `docs/SCHEMA-GEO.md` | Nếu có `FAQPage`, sinh từ **cùng biến dữ liệu** với phần hiển thị (một nguồn sự thật) + kiểm parity trong CI. |
 | Dữ kiện kinh doanh chỉ từ `data/business-facts.json`; cọc / phí trễ / bảo hiểm / giữ giấy tờ / mũ bảo hiểm / hoàn tiền đang **BLOCKED** chờ chủ xe | `reports/factory/policy-conflicts.md` | FAQ về các chủ đề này KHÔNG được bật cho tới khi chủ xe quyết định; validator chặn số tiền ngoài danh sách duyệt. |
 | "Không FAQ hàng loạt" | `docs/CONTENT-FACTORY.md` (nhóm bị cấm), yêu cầu của chủ website | Không dựng bộ câu hỏi giống nhau cho mọi bài; mỗi câu phải có đoạn nguồn thật trên chính trang đó. |
@@ -40,7 +51,7 @@
 * JSON-LD hiện có (`_includes/seo.html`, `_includes/article-breadcrumb.html`): `Organization`, `LocalBusiness`, `WebSite` trên MỌI trang; `BlogPosting` +
   `BreadcrumbList` trên bài. Hub/topic/category/page chỉ có breadcrumb hiển thị, **không có BreadcrumbList JSON-LD** (77/77).
   Cả 377 trang: JSON hợp lệ.
-* Hạn chế template đã thấy (không sửa trong giai đoạn này): `BlogPosting` thiếu `image`, `mainEntityOfPage`, `inLanguage` (300/300), `dateModified` luôn bằng
+* Hạn chế template đã thấy trong audit (**đã sửa sau audit bằng PR #14**, xem §0b): `BlogPosting` thiếu `image`, `mainEntityOfPage`, `inLanguage` (300/300), `dateModified` luôn bằng
   `datePublished`; `LocalBusiness.priceRange` cứng `"150000-200000 VND"` trong `_includes/seo.html:99` (không lấy từ `business-facts.json`); nội suy
   `"{{ page.title }}"` / `"{{ page.description }}"` trong JSON-LD **không escape** (hiện 0/2.483 bài có ký tự phá JSON, nhưng là rủi ro tiềm ẩn).
 * FAQ đang có đều là **nội dung viết tay trong thân bài/trang** (heading `###`/`####`, hoặc đoạn văn "Hỏi … Trả lời …"), không có dữ liệu cấu trúc.
@@ -50,7 +61,7 @@
 ### 3.1 Nguyên tắc
 1. **Một nguồn sự thật** cho mỗi cặp hỏi–đáp: một biến dữ liệu duy nhất sinh ra khối hiển thị (và JSON-LD nếu bật).
 2. **Hiển thị trước, schema sau**: không có hiển thị thì không có schema.
-3. **Không chạm `_posts/`** của bài đã xuất bản (giữ hash evidence). FAQ cho bài cũ nằm trong `_data/faq/`.
+3. **Không chạm `_posts/` của bài factory đã xuất bản** (giữ hash evidence); bài legacy chỉ sửa nhỏ có kiểm soát. FAQ mới cho bài cũ nằm trong `_data/faq/`.
 4. **O(1) mỗi trang**, không vòng lặp `site.posts`.
 5. **Mặc định không làm gì**: trang không có dữ liệu → HTML byte-identical với hiện tại.
 6. **Không sinh FAQ tự động hàng loạt**: dữ liệu do người duyệt, mỗi câu trích từ đoạn có thật (có `source.quote`) hoặc do chủ viết cho trang tĩnh.
@@ -91,14 +102,14 @@ Câu trả lời là **văn bản thuần** (không HTML/Markdown) để hiển 
 
 ### 3.5 FAQ đang có sẵn trong thân bài
 * Giữ nguyên hiển thị (không sửa `_posts/`). Component **không** vẽ khối thứ hai cho trang đã có FAQ trong thân bài (tránh trùng).
-* Chỉnh câu chữ/độ chính xác của FAQ trong thân bài = **đổi nội dung bài đã xuất bản** → cần quyết định riêng của chủ + chấm lại QA độc lập; chưa làm trong kế hoạch này.
+* Chỉnh câu chữ/độ chính xác của FAQ trong thân bài: với **bài factory PUBLISHED** = đổi nội dung bị ràng buộc hash → cần quyết định riêng của chủ + chấm lại QA độc lập; với **bài legacy** (gồm cả 13 bài mẫu có FAQ) = được phép nhưng chỉ khi không phải quyết định kinh doanh/pháp lý (các câu BLOCKED/pháp lý chờ chủ).
 * Trang tĩnh (`bang-gia.md`, `lien-he.md`, `gioi-thieu.md`…) **không bị ràng buộc hash** → có thể sửa trực tiếp sau khi chủ duyệt nội dung.
 
 ### 3.6 Bài mới của factory
 * Đề xuất (giai đoạn sau, cần duyệt riêng): front matter tùy chọn `faq:` cho bài mới, QA kiểm cùng bộ luật validator. Yêu cầu đổi scorer của Factory QA → **không** thực hiện trong giai đoạn này.
 
 ## 4. Phương án triển khai theo nhóm URL
-(Số lượng từng nhóm lấy từ matrix; xem `faq-audit-summary.md` §8.)
+(Số lượng từng nhóm lấy từ matrix; xem `faq-audit-summary.md` §12.)
 
 | Phương án | Dùng cho | Ưu | Nhược / rủi ro |
 |---|---|---|---|
@@ -144,11 +155,12 @@ heading chung ("Tóm lại", "Kết lại"); (4) giảm trùng ý định (gộp
 Không làm: `llms.txt`, "chunking", viết riêng cho AI, tạo hàng loạt trang theo biến thể truy vấn, tìm "mentions" không thật.
 
 ## 9. Quyết định cần chủ website
-1. Duyệt/chỉnh matrix và thứ tự ưu tiên; xác nhận cách hiểu "300 bài PUBLISHED" (xem `faq-audit-summary.md` §3).
+1. ~~Duyệt matrix~~ (đã ủy quyền tối ưu theo matrix, 2026-10-12); còn lại: xác nhận cách hiểu "300 bài PUBLISHED" (xem `faq-audit-summary.md` §3).
 2. Quyết định các mục BLOCKED trong `reports/factory/policy-conflicts.md` (khoảng cọc, phí trễ, bảo hiểm, giữ giấy tờ, mũ, hoàn tiền) — cần để sửa P0.
-3. Có triển khai hạ tầng FAQ dùng chung (pha 2) không, và có bật JSON-LD (`faq_schema`) không.
+3. ~~Có triển khai hạ tầng FAQ dùng chung không~~ (đã làm, PR #15); còn lại: có bật JSON-LD (`faq_schema`) không — khuyến nghị giữ tắt.
 4. Kết nối Search Console của `blog.thuexemaynguyentu.com`.
-5. Các phát hiện ngoài phạm vi FAQ (slug mất chữ "đ" của factory, 50 bài permalink dạng ngày-gạch…) có cần xử lý trước khi W2 tiếp tục không.
+5. Các phát hiện ngoài phạm vi FAQ: slug mất chữ "đ" (đã chặn cho bài mới, PR #19/#21; 1.371 bài đã xuất bản giữ URL — cần quyết định redirect), 50 bài permalink dạng ngày-gạch, 7 bài sai `parent_id`/`child_id`.
+6. Danh sách đầy đủ các quyết định đang chờ: `faq-audit-summary.md` §17.
 
 ## 10. Chưa xác minh được trong audit này
 Số liệu hiển thị/click/xếp hạng/trích dẫn AI của blog (không có Search Console của blog); công cụ kiểm tra dữ liệu có cấu trúc của Google; tác dụng của `FAQPage` với công cụ ngoài Google;
