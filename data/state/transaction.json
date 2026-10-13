@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T10:37:39+00:00",
+  "updated_at": "2026-10-13T10:41:43+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02601",
-      "started_at": "2026-10-13T06:21:16+00:00",
-      "source": "_drafts/2026-10-13-sirius-ton-xang-co-nao-cho-mot-ngay-di-tu-do-bang-hai-lan-do-day-binh.md",
-      "destination": "_posts/2026-10-13-sirius-ton-xang-co-nao-cho-mot-ngay-di-tu-do-bang-hai-lan-do-day-binh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9aab4c0683725ee0b9b0217e020fe57a23f06c02",
-      "finished_at": "2026-10-13T06:21:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02602",
-      "started_at": "2026-10-13T06:21:16+00:00",
-      "source": "_drafts/2026-10-13-sirius-jupiter-va-exciter-ba-xe-so-yamaha-hay-bi-nham-khac-nhau-o-dau.md",
-      "destination": "_posts/2026-10-13-sirius-jupiter-va-exciter-ba-xe-so-yamaha-hay-bi-nham-khac-nhau-o-dau.md",
-      "result": "PUBLISHED",
-      "commit_sha": "9aab4c0683725ee0b9b0217e020fe57a23f06c02",
-      "finished_at": "2026-10-13T06:21:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02603",
       "started_at": "2026-10-13T06:26:52+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "9c8e4775f2647e4868aa9310eb75b21a43707e1a",
       "finished_at": "2026-10-13T10:37:39+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02651",
+      "started_at": "2026-10-13T10:41:43+00:00",
+      "source": "_drafts/2026-10-13-an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau.md",
+      "destination": "_posts/2026-10-13-an-pho-cuon-ngu-xa-khi-chay-xe-ho-tay-truc-bach-di-gio-nao-de-xe-o-dau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5251b4fc8181753d98800b712e2434fd0fc3f77e",
+      "finished_at": "2026-10-13T10:41:43+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02652",
+      "started_at": "2026-10-13T10:41:43+00:00",
+      "source": "_drafts/2026-10-13-ho-tay-hay-ho-guom-cho-mot-buoi-chieu-chay-xe-may-so-sanh-de-chon-dung.md",
+      "destination": "_posts/2026-10-13-ho-tay-hay-ho-guom-cho-mot-buoi-chieu-chay-xe-may-so-sanh-de-chon-dung.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5251b4fc8181753d98800b712e2434fd0fc3f77e",
+      "finished_at": "2026-10-13T10:41:43+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
