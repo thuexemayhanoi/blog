@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T10:56:05+00:00",
+  "updated_at": "2026-10-13T10:59:22+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02613",
-      "started_at": "2026-10-13T06:46:37+00:00",
-      "source": "_drafts/2026-10-13-dang-tham-bao-tang-thi-troi-mua-lay-xe-mac-ao-mua-va-chay-ve-sao-cho-an-toan.md",
-      "destination": "_posts/2026-10-13-dang-tham-bao-tang-thi-troi-mua-lay-xe-mac-ao-mua-va-chay-ve-sao-cho-an-toan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "19f82fb1a27e43774d82889a21a392a1093c223f",
-      "finished_at": "2026-10-13T06:46:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02614",
       "started_at": "2026-10-13T06:46:37+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "49eed668153f830dc77d89550795bddf6c7e2929",
       "finished_at": "2026-10-13T10:56:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02664",
+      "started_at": "2026-10-13T10:59:22+00:00",
+      "source": "_drafts/2026-10-13-ho-tuy-lai-o-my-duc-bang-xe-may-duong-di-va-cho-dung-ngam-ho.md",
+      "destination": "_posts/2026-10-13-ho-tuy-lai-o-my-duc-bang-xe-may-duong-di-va-cho-dung-ngam-ho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f77c314eec8f3bc79055131d61115e82fca7ed01",
+      "finished_at": "2026-10-13T10:59:22+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
