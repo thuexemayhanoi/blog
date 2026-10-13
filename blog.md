@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Blog - Thuê Xe Máy Hà Nội Nguyễn Tú"
-description: "Kinh nghiệm thuê xe máy Hà Nội, chọn xe, du lịch, bảng giá và hướng dẫn di chuyển từ Nguyễn Tú."
+description: "Các bài viết mới nhất về thuê xe máy ở Hà Nội: kinh nghiệm, cung đường du lịch, kỹ năng lái xe và hướng dẫn từ Nguyễn Tú."
 lang: vi
 translation_key: blog
 permalink: /bai-viet/
