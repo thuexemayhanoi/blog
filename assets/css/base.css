@@ -186,3 +186,27 @@ button:focus {
     padding-bottom: calc(76px + env(safe-area-inset-bottom, 0px));
   }
 }
+
+/* PREMIUM ACCESSIBILITY SKIP LINK — usable with keyboard, visually hidden otherwise. */
+.skip-link {
+  position: fixed;
+  left: var(--spacing-md);
+  top: -120px;
+  z-index: calc(var(--z-modal) + 1);
+  background: var(--color-primary);
+  color: var(--color-white);
+  padding: var(--spacing-sm) var(--spacing-lg);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-md);
+  font-weight: var(--font-weight-semibold);
+  text-decoration: none;
+}
+.skip-link:focus,
+.skip-link:focus-visible {
+  top: var(--spacing-sm);
+  outline: 3px solid var(--color-secondary);
+  outline-offset: 3px;
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+}
