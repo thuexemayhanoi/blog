@@ -1,0 +1,13 @@
+source_url,target_url,relationship,editorial_reason,status,http_source,http_target,production_mutation
+"/","/thue-xe/","NAV","Core topic entry","VERIFY_PRESENT_BEFORE_ADD","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/","/thue-xe/gia-thue/","HUB_CHILD","Price intent","VERIFY_PRESENT_BEFORE_ADD","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/","/thue-xe/thu-tuc/","HUB_CHILD","Rental procedure intent","VERIFY_PRESENT_BEFORE_ADD","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/gia-thue/","/bang-gia/","COMMERCIAL","Price table supports pricing research","PROPOSE_IF_MISSING","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/thu-tuc/","/thue-xe/dat-coc/","CROSS_CHILD","Deposit documentation","PROPOSE_IF_MISSING","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/thue-thang/","/thue-xe/thue-tuan/","CROSS_CHILD","Compare rental duration","PROPOSE_IF_MISSING","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/thue-tuan/","/thue-xe/thue-thang/","CROSS_CHILD","Compare rental duration","PROPOSE_IF_MISSING","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/khach-quoc-te/","/an-toan-phap-ly/giay-phep-lai-xe/","LEGAL_CONTEXT","License requirements; source refresh mandatory","SOURCE_REVIEW_REQUIRED","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/nhan-tra-xe/","/thue-xe/su-co/","SUPPORT","What to do if incident after vehicle handover","PROPOSE_IF_MISSING","NOT_TESTED","NOT_TESTED","NONE"
+"/xe-may/xe-50cc/","/an-toan-phap-ly/giay-phep-lai-xe/","LEGAL_CONTEXT","Vehicle class and licensing eligibility","SOURCE_REVIEW_REQUIRED","NOT_TESTED","NOT_TESTED","NONE"
+"/cung-duong/","/thue-xe/","CONTEXTUAL","Rental decision in an itinerary","ONLY_IF_RELEVANT","NOT_TESTED","NOT_TESTED","NONE"
+"/thue-xe/gia-thue/","/lien-he/","CONVERSION","Ask for current rental quote","PROPOSE_IF_MISSING","NOT_TESTED","NOT_TESTED","NONE"
