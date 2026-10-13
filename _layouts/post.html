@@ -34,6 +34,7 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
 {% assign art_h2_count = art_h2s.size | minus: 1 %}
 
 <article class="post-detail">
+  <div class="reading-progress" aria-hidden="true"><span class="reading-progress-bar"></span></div>
   <header class="post-header">
     <div class="container">
       {% include article-breadcrumb.html %}
@@ -113,3 +114,4 @@ LAYOUT BÀI VIẾT (dùng chung cho 483 bài legacy + bài factory):
     {% include post-cta.html %}
   </div>
 </article>
+<script defer src="{{ '/assets/js/reading-progress.js' | relative_url }}"></script>
