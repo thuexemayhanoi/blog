@@ -1,16 +1,16 @@
 # Sinh bởi scripts/factory/generate-listing-pages.py. Không sửa tay.
 kinh-nghiem:
-  pages: 155
+  pages: 156
   size: 12
-  total: 1858
+  total: 1865
 chia-se:
   pages: 10
   size: 12
   total: 112
 du-lich:
-  pages: 41
+  pages: 42
   size: 12
-  total: 492
+  total: 495
 topic:
   xe-may_bao-duong-xe:
     pages: 4
@@ -43,7 +43,7 @@ topic:
   cung-duong_cung-duong-pho-bac:
     pages: 2
     size: 24
-    total: 38
+    total: 41
   du-lich_diem-den:
     pages: 7
     size: 24
@@ -95,7 +95,7 @@ topic:
   ky-nang_tinh-huong-giao-thong:
     pages: 7
     size: 24
-    total: 150
+    total: 157
   du-lich_long-bien:
     pages: 3
     size: 24
