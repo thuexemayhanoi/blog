@@ -24,10 +24,19 @@ description: "{{ site.description }}"
       </div>
     </div>
     
-    <!-- Premium Visual Card (CSS only) -->
+    <!-- Hero photo from existing business data; no invented vehicles or offers -->
+    {% assign hero_vehicle = business.vehicle_types | first %}
+    {% if hero_vehicle and hero_vehicle.image %}
     <div class="hero-visual">
-      <div class="visual-card glass-card"></div>
+      <figure class="hero-showcase glass-card">
+        <img src="{{ hero_vehicle.image | relative_url }}" alt="{{ hero_vehicle.image_alt | default: hero_vehicle.name | escape }}" width="640" height="480" decoding="async" fetchpriority="high">
+        <figcaption class="hero-showcase-caption">
+          <span>{{ hero_vehicle.name }}</span>
+          <small>Hình tham khảo từ danh mục xe. Tình trạng xe cần xác nhận khi liên hệ.</small>
+        </figcaption>
+      </figure>
     </div>
+    {% endif %}
   </div>
 </section>
 
