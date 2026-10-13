@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T06:21:16+00:00",
+  "updated_at": "2026-10-13T06:26:52+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02503",
-      "started_at": "2026-10-13T02:13:27+00:00",
-      "source": "_drafts/2026-10-13-xi-nhan-xe-thue-nhay-nhanh-bat-thuong-hoac-khong-nhay-co-nen-chay-tiep.md",
-      "destination": "_posts/2026-10-13-xi-nhan-xe-thue-nhay-nhanh-bat-thuong-hoac-khong-nhay-co-nen-chay-tiep.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c788d96df4f988a8327403d4f28ce05eb4e851b3",
-      "finished_at": "2026-10-13T02:13:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02504",
-      "started_at": "2026-10-13T02:13:27+00:00",
-      "source": "_drafts/2026-10-13-nguoi-la-bao-xe-ban-xi-lop-hoac-chay-dau-giua-uong-kiem-tra-sao-cho-tinh-tao.md",
-      "destination": "_posts/2026-10-13-nguoi-la-bao-xe-ban-xi-lop-hoac-chay-dau-giua-uong-kiem-tra-sao-cho-tinh-tao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c788d96df4f988a8327403d4f28ce05eb4e851b3",
-      "finished_at": "2026-10-13T02:13:27+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02505",
       "started_at": "2026-10-13T04:53:38+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "9aab4c0683725ee0b9b0217e020fe57a23f06c02",
       "finished_at": "2026-10-13T06:21:16+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02603",
+      "started_at": "2026-10-13T06:26:52+00:00",
+      "source": "_drafts/2026-10-13-bao-tang-chien-thang-b52-o-pho-doi-can-chay-xe-may-tu-trung-tam-va-cho-dung-xe.md",
+      "destination": "_posts/2026-10-13-bao-tang-chien-thang-b52-o-pho-doi-can-chay-xe-may-tu-trung-tam-va-cho-dung-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9c46a80093d4311c52db5a1def5015698f5aeea8",
+      "finished_at": "2026-10-13T06:26:52+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02604",
+      "started_at": "2026-10-13T06:26:52+00:00",
+      "source": "_drafts/2026-10-13-bao-tang-bien-phong-o-tran-hung-dao-chay-xe-may-tu-ho-guom-can-hoi-gi-truoc.md",
+      "destination": "_posts/2026-10-13-bao-tang-bien-phong-o-tran-hung-dao-chay-xe-may-tu-ho-guom-can-hoi-gi-truoc.md",
+      "result": "PUBLISHED",
+      "commit_sha": "9c46a80093d4311c52db5a1def5015698f5aeea8",
+      "finished_at": "2026-10-13T06:26:52+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
