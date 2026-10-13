@@ -16,6 +16,9 @@
   <link rel="stylesheet" href="{{ '/assets/css/base.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/components.css' | relative_url }}">
   <link rel="stylesheet" href="{{ '/assets/css/responsive.css' | relative_url }}">
+  {% if page.layout == 'home' or page.layout == 'post' %}
+  <link rel="stylesheet" href="{{ '/assets/css/editorial.css' | relative_url }}">
+  {% endif %}
   
   <script>
     (function() {
