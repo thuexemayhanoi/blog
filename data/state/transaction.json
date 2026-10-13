@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T18:01:32+00:00",
+  "updated_at": "2026-10-13T18:04:22+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02645",
-      "started_at": "2026-10-13T12:11:04+00:00",
-      "source": "_drafts/2026-10-13-mua-quat-canh-o-lang-tu-lien-truoc-tet-bang-xe-may-duong-vao-chon-cay-cho-ve.md",
-      "destination": "_posts/2026-10-13-mua-quat-canh-o-lang-tu-lien-truoc-tet-bang-xe-may-duong-vao-chon-cay-cho-ve.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1182fdb2bb324f03dc2f890f2483599d2d49c4a3",
-      "finished_at": "2026-10-13T12:11:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02646",
-      "started_at": "2026-10-13T12:11:04+00:00",
-      "source": "_drafts/2026-10-13-di-tha-ca-chep-ngay-23-thang-chap-o-ho-tay-bang-xe-may-cho-ca-va-tha-dung-cho.md",
-      "destination": "_posts/2026-10-13-di-tha-ca-chep-ngay-23-thang-chap-o-ho-tay-bang-xe-may-cho-ca-va-tha-dung-cho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "1182fdb2bb324f03dc2f890f2483599d2d49c4a3",
-      "finished_at": "2026-10-13T12:11:04+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02667",
       "started_at": "2026-10-13T13:27:19+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "2fb5c5f822c73a1e2905d022d0f7fae8003e9a68",
       "finished_at": "2026-10-13T18:01:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02725",
+      "started_at": "2026-10-13T18:04:22+00:00",
+      "source": "_drafts/2026-10-13-tu-nga-ba-tong-dau-vao-mai-chau-re-khoi-quoc-lo-6-qua-thi-tran-toi-ban-lac.md",
+      "destination": "_posts/2026-10-13-tu-nga-ba-tong-dau-vao-mai-chau-re-khoi-quoc-lo-6-qua-thi-tran-toi-ban-lac.md",
+      "result": "PUBLISHED",
+      "commit_sha": "32e6a61e78b4c0f239ff09815020fe9c2e5630a0",
+      "finished_at": "2026-10-13T18:04:22+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02726",
+      "started_at": "2026-10-13T18:04:22+00:00",
+      "source": "_drafts/2026-10-13-tra-tinh-hinh-quoc-lo-6-truoc-khi-di-mai-chau-sat-lo-cam-duong-hoi-o-dau.md",
+      "destination": "_posts/2026-10-13-tra-tinh-hinh-quoc-lo-6-truoc-khi-di-mai-chau-sat-lo-cam-duong-hoi-o-dau.md",
+      "result": "PUBLISHED",
+      "commit_sha": "32e6a61e78b4c0f239ff09815020fe9c2e5630a0",
+      "finished_at": "2026-10-13T18:04:22+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
