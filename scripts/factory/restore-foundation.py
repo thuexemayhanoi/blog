@@ -14,6 +14,7 @@ Sinh ra (idempotent, không bịa dữ liệu):
   - data/content-inventory.csv       (kiểm kê 483 bài legacy, URL giữ nguyên)
   - _data/factory-taxonomy.yml      (child_id -> parent/slug/title cho layout hub)
   - _data/factory-map.yml           (slug bài legacy -> parent/child cho layout hub)
+  - _data/legacy-clusters.yml       (child_id -> slug bài legacy của cụm, cho bài viết liên quan)
   - _data/factory-parents.yml       (parent_id -> slug/title cho topic-directory)
 
 LƯU Ý QUAN TRỌNG: data/content-matrix.csv KHÔNG thể khôi phục từ nguồn nào
@@ -152,6 +153,19 @@ with open('_data/factory-map.yml', 'w', encoding='utf-8') as f:
     for r in rows:
         f.write('%s:\n  p: %s\n  c: %s\n' % (r['slug'], r['likely_parent'], r['likely_child']))
 
+# cụm legacy (child_id -> slug bài legacy, theo thứ tự tệp _posts) cho _includes/related-articles.html:
+# tra O(1) thay vì quét toàn bộ factory-map ở MỖI trang (build Jekyll từng tốn ~45% thời gian ở vòng quét này).
+by_child = {}
+for r in rows:
+    by_child.setdefault(r['likely_child'], []).append(r['slug'])
+with open('_data/legacy-clusters.yml', 'w', encoding='utf-8') as f:
+    f.write('# Sinh bởi scripts/factory/restore-foundation.py từ data/state/existing-map.json (cùng nguồn factory-map.yml).\n')
+    f.write('# child_id -> danh sách slug bài legacy của cụm, theo thứ tự tệp _posts (cũ -> mới). Không sửa tay.\n')
+    for cid in sorted(by_child):
+        f.write('%s:\n' % cid)
+        for slug in by_child[cid]:
+            f.write('  - %s\n' % slug)
+
 print('=== RESTORE FOUNDATION ===')
 print('taxonomy: %d parent, %d child (khôi phục từ seed)' % (len(parents), len(children)))
 print('inventory: %d bài legacy, URL giữ nguyên' % len(rows))
@@ -161,7 +175,7 @@ with open('_data/factory-parents.yml', 'w', encoding='utf-8') as f:
     for p in parents:
         f.write('%s:\n  s: %s\n  t: "%s"\n' % (p['parent_id'], p['slug'], p['title']))
 
-print('_data/factory-taxonomy.yml + _data/factory-map.yml + _data/factory-parents.yml: đã sinh')
+print('_data/factory-taxonomy.yml + _data/factory-map.yml + _data/factory-parents.yml + _data/legacy-clusters.yml: đã sinh')
 if not os.path.exists('data/content-matrix.csv'):
     print('BLOCKED: data/content-matrix.csv không thể khôi phục từ nguồn đã commit — xem reports/factory/matrix-recovery-blocked.md')
 print('KẾT QUẢ: PASS')

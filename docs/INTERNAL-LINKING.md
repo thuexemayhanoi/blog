@@ -24,6 +24,12 @@ bài mới
  -> bài hỗ trợ sâu hơn khi hữu ích
 ```
 
+## Khối "Bài viết liên quan" của layout (`_includes/related-articles.html`)
+
+- Mỗi bài hiển thị tối đa 4 bài **cùng cụm (child_id)**, xếp cũ → mới (bài legacy theo `_data/legacy-clusters.yml`, rồi bài factory theo ngày) và lấy 4 bài **kế tiếp theo vòng tròn**. Hệ quả: mọi bài trong cụm ≥ 5 bài nhận đúng 4 link liên quan, bộ liên quan khác nhau giữa các bài, bài đã đăng **không đổi** bộ liên quan khi có bài mới (chỉ vài bài cuối cụm quay vòng). Cụm < 5 bài được bù từ cùng parent rồi cùng danh mục.
+- Trước đây khối này lấy 4 bài **mới nhất** của cụm cho *mọi* bài (cùng một bộ 4 bài; khoảng 89% bài không nhận link liên quan nào) và quét toàn bộ `site.posts` ở từng trang (O(N²), phần lớn thời gian build Jekyll). Chi phí hiện ~ O(kích thước cụm).
+- `_data/legacy-clusters.yml` được **sinh** bởi `scripts/factory/restore-foundation.py` (cùng nguồn `existing-map.json` với `factory-map.yml`) — không sửa tay. Bất biến dữ liệu: `scripts/factory/tests/test_related_cluster_data.py`.
+
 ## Cơ hội reverse-link (liên kết ngược)
 
 - Nếu bài mới là nguồn hỗ trợ mạnh cho một bài published cũ, ghi lại cơ hội backlink (bài cũ → bài mới) vào ghi chú/báo cáo của chunk, kèm lý do.

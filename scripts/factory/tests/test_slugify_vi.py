@@ -176,10 +176,28 @@ class TestGeneratorInvariant(unittest.TestCase):
         self.restore()
 
 
-class TestReslugFlag(unittest.TestCase):
-    """--reslug-planned-after: một lần, có kiểm soát, fail-closed (chạy trên bản sao, production không bị đụng)."""
+def old_slugify(title):
+    """slugify TRƯỚC bản sửa: norm() xoá "đ" nên "xe đạp điện" -> "xe-ap-ien" (dùng dựng lại trạng thái trước migration)."""
+    return re.sub(r'\s+', '-', GEN.norm(title))[:80].strip('-')
 
-    BOUNDARY = 'BLG-02600'   # registry thật: lease lớn nhất ~BLG-02480 => ranh giới này an toàn (>= +40)
+
+class TestReslugFlag(unittest.TestCase):
+    """--reslug-planned-after: một lần, có kiểm soát, fail-closed (chạy trên bản sao, production không bị đụng).
+
+    Matrix thật đã được re-slug bằng đợt riêng (PR #21) nên KHÔNG còn hàng PLANNED slug cũ-lỗi để thử cờ; và registry thật
+    đổi theo tiến độ factory. Vì vậy fixture được DỰNG LẠI trên bản sao: (1) ranh giới = lease lớn nhất của registry bản sao
+    + 100 (luôn >= +40 theo đúng luật của công cụ), (2) hàng PLANNED sau ranh giới có chữ đ lấy lại slug CŨ (đã mất đ) —
+    đúng trạng thái trước migration. Không test nào còn phụ thuộc vào việc matrix thật có/không còn hàng lỗi."""
+
+    BOUNDARY = 'BLG-02600'   # ghi đè ở setUpClass theo registry bản sao (giá trị này chỉ là mặc định)
+    MIN_DEGRADED = 10
+
+    @staticmethod
+    def _csv_write(path, fieldnames, rows):
+        with open(path, 'w', encoding='utf-8', newline='') as f:
+            w = csv.DictWriter(f, fieldnames=fieldnames, lineterminator='\n')
+            w.writeheader()
+            w.writerows(rows)
 
     @classmethod
     def setUpClass(cls):
@@ -189,6 +207,38 @@ class TestReslugFlag(unittest.TestCase):
         cls.registry = os.path.join(cls.work, 'data/state/writer-claims.json')
         with open(cls.registry, 'rb') as f:
             cls.registry_before = f.read()
+        reg = json.loads(cls.registry_before.decode('utf-8'))
+        leased = [int(i[4:]) for lease in (reg.get('leases') or {}).values() for i in (lease.get('ids') or [])]
+        cls.BOUNDARY = 'BLG-%05d' % (max(leased + [2504]) + 100)
+        cls._degrade_far_planned_rows()
+
+    @classmethod
+    def _degrade_far_planned_rows(cls):
+        with open(cls.matrix, encoding='utf-8', newline='') as f:
+            reader = csv.DictReader(f)
+            fields, rows = reader.fieldnames, list(reader)
+        b = int(cls.BOUNDARY[4:])
+        degraded = 0
+        for r in rows:
+            if r['status'] != 'PLANNED' or int(r['id'][4:]) <= b:
+                continue
+            new, old = r['slug'], old_slugify(r['title'])
+            if old == new:
+                continue
+            r['slug'] = old
+            for col in ('expected_url', 'canonical_url'):
+                head, sep, tail = r[col].rpartition('/%s/' % new)
+                if sep:
+                    r[col] = head + '/%s/' % old + tail
+            head, sep, tail = r['output_path'].rpartition('{date}-%s.md' % new)
+            if sep:
+                r['output_path'] = head + '{date}-%s.md' % old + tail
+            degraded += 1
+        assert degraded >= cls.MIN_DEGRADED, 'fixture cần >= %d hàng PLANNED có chữ đ sau ranh giới %s (có %d)' % (
+            cls.MIN_DEGRADED, cls.BOUNDARY, degraded)
+        cls._csv_write(cls.matrix, fields, rows)
+        with open(cls.matrix, 'rb') as f:
+            cls.base.matrix_before = f.read()
 
     @classmethod
     def tearDownClass(cls):
@@ -222,7 +272,7 @@ class TestReslugFlag(unittest.TestCase):
         self.assertEqual(set(before), set(after))
         b = int(self.BOUNDARY[4:])
         changed = [i for i in before if before[i] != after[i]]
-        self.assertGreater(len(changed), 50, 'phải có nhiều hàng PLANNED có chữ đ được sửa')
+        self.assertGreaterEqual(len(changed), self.MIN_DEGRADED, 'phải có nhiều hàng PLANNED có chữ đ được sửa')
         for i in changed:
             self.assertEqual(before[i]['status'], 'PLANNED')
             self.assertGreater(int(i[4:]), b)
@@ -254,9 +304,10 @@ class TestReslugFlag(unittest.TestCase):
 
     def test_refuses_when_draft_is_beyond_boundary(self):
         os.makedirs(os.path.join(self.work, '_drafts'), exist_ok=True)
+        draft_id = 'BLG-%05d' % (int(self.BOUNDARY[4:]) + 50)   # bản nháp NẰM SAU ranh giới
         with open(os.path.join(self.work, '_drafts', '2026-10-12-x.md'), 'w', encoding='utf-8') as f:
-            f.write('---\narticle_id: BLG-02900\ntitle: "x"\n---\nnội dung\n')
-        r = self.run_gen('--reslug-planned-after', 'BLG-02850')
+            f.write('---\narticle_id: %s\ntitle: "x"\n---\nnội dung\n' % draft_id)
+        r = self.run_gen('--reslug-planned-after', self.BOUNDARY)
         self.assertNotEqual(r.returncode, 0)
         self.assertIn('bản nháp', r.stdout + r.stderr)
         self.assertEqual(self.matrix_bytes(), self.base.matrix_before)
