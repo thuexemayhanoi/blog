@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-mistral-w1
 ---
 
-Một suất múa rối nước là mục quen trong kế hoạch của nhiều người khi về khu Hồ Gươm, và gần như ai cũng chọn đi xem múa rối nước bằng xe máy cho chủ động giờ giấc. Nhà hát nằm trên phố Đinh Tiên Hoàng, phía đông hồ, một vị trí đẹp nhưng cũng thuộc khu ít chỗ đỗ nhất thành phố, nhất là vào tối cuối tuần. Ba câu hỏi thực tế nhất trước buổi đi: đến sớm bao lâu so với giờ diễn, gửi xe ở đâu quanh nhà hát, và khi ra về lúc màn trời vừa tối thì chú ý gì. Bài này trả lời cả ba theo trình tự của một buổi đi thực tế. Ai muốn nắm địa hình trước có thể xem [bài khám phá khu Hoàn Kiếm](/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/ "Khám phá khu Hoàn Kiếm bằng xe máy").
+Một suất múa rối nước là mục quen trong kế hoạch của nhiều người khi về khu Hồ Gươm, và gần như ai cũng chọn đi xem múa rối nước bằng xe máy cho chủ động giờ giấc. Nhà hát nằm trên phố Đinh Tiên Hoàng, phía đông hồ, một vị trí đẹp nhưng cũng thuộc khu ít chỗ đỗ nhất thành phố, nhất là vào tối cuối tuần. Ba câu hỏi thực tế nhất trước buổi đi: đến sớm bao lâu so với giờ diễn, gửi xe ở đâu quanh nhà hát, và khi ra về lúc màn trời vừa tối thì chú ý gì. Bài này trả lời cả ba theo trình tự của một buổi đi thực tế. Nhịp đông vắng quanh hồ theo từng khung giờ đã được kể trong [bài đi lễ rằm, mùng Một quanh Hồ Gươm](/du-lich/2026/10/13/di-le-ram-mung-mot-quanh-ho-guom-cho-do-le-bang-xe-may-va-cho-gui-xe/ "Đi lễ rằm, mùng Một quanh Hồ Gươm"), đọc trước vài phút sẽ hình dung được lúc nào khu này dễ gửi xe.
 
 ## Xem múa rối nước bằng xe máy: tính giờ xuất phát theo suất diễn
 
@@ -43,6 +43,6 @@ Nếu đó là tối thứ Sáu hoặc Chủ nhật, dải phố quanh hồ chuy
 
 ## Ghép điểm quanh đó trong cùng buổi
 
-Suất diễn ngắn nên nhiều người ghép thêm điểm quanh hồ trong cùng buổi: dạo vòng hồ trước suất chiều, ăn uống trong phố cổ sau suất tối. Cách xếp một buổi như vậy đã có [bài khám phá Phố Cổ Hà Nội](/du-lich/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/ "Khám phá Phố Cổ Hà Nội bằng xe máy") trình bày theo khung giờ; theo đó mà xếp thì vừa đủ xem diễn vừa đủ dạo phố. Ai có nhiều ngày ở Hà Nội, xếp suất múa rối nước vào ngày thời tiết không đẹp, dành ngày nắng cho các điểm ngoài trời.
+Suất diễn ngắn nên nhiều người ghép thêm điểm quanh hồ trong cùng buổi: dạo vòng hồ trước suất chiều, ăn uống trong phố cổ sau suất tối. Ai còn cần mua quà cho người thân thì xem [bài mua quà lưu niệm ở phố cổ rồi chở về bằng xe máy](/du-lich/2026/10/13/mua-qua-luu-niem-o-pho-co-roi-cho-ve-bang-xe-may-pho-nao-ban-gi-dong-goi-sao/ "Mua quà lưu niệm ở phố cổ") để biết phố nào bán gì và đóng gói sao cho gọn, ghé luôn trong buổi đi là vừa đủ xem diễn vừa đủ mua quà. Ai có nhiều ngày ở Hà Nội, xếp suất múa rối nước vào ngày thời tiết không đẹp, dành ngày nắng cho các điểm ngoài trời.
 
 Chốt lại: một buổi đi xem múa rối nước quanh Hồ Gươm gọn trong ba việc: chốt suất trước và đến sớm ba mươi phút trở lên, gửi xe ở bãi phố cổ rồi đi bộ vào, và chuẩn bị đường về cho khung tối. Thông tin về các điểm quanh khu này nằm trong mục [phố cổ](/du-lich/pho-co/ "Phố cổ Hà Nội"), còn các tuyến đi chơi khác nằm trong chủ đề [du lịch](/du-lich/ "Du lịch Hà Nội") của trang.

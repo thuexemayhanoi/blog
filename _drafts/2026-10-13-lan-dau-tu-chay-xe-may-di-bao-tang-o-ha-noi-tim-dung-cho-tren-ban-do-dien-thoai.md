@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-mistral-w1
 ---
 
-Lần đầu cầm chiếc xe máy thuê rời khỏi phố cổ để đi bảo tàng, gần như mọi người đều mở bản đồ điện thoại tìm bảo tàng rồi bấm đi theo chỉ dẫn. Công cụ đó đúng là hữu ích, nhưng cũng là chỗ nhiều chuyến đi rẽ nhầm: ghim trùng, bảo tàng hai cơ sở, ghim cũ sau khi chuyển địa chỉ, hay chỉ dẫn đưa bạn vào phố một chiều lúc đang hối. Bài này liệt kê những chỗ bản đồ hay gây nhầm nhất khi tìm bảo tàng ở Hà Nội, cách đặt điểm đến cho đúng, và cách xử lý khi định vị lệch giữa phố hẹp. Ai mới đến Hà Nội lần đầu nên đọc kèm [bài gợi ý khám phá Hà Nội cho người mới](/du-lich/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/ "Gợi ý khám phá Hà Nội bằng xe máy cho người mới").
+Lần đầu cầm chiếc xe máy thuê rời khỏi phố cổ để đi bảo tàng, gần như mọi người đều mở bản đồ điện thoại tìm bảo tàng rồi bấm đi theo chỉ dẫn. Công cụ đó đúng là hữu ích, nhưng cũng là chỗ nhiều chuyến đi rẽ nhầm: ghim trùng, bảo tàng hai cơ sở, ghim cũ sau khi chuyển địa chỉ, hay chỉ dẫn đưa bạn vào phố một chiều lúc đang hối. Bài này liệt kê những chỗ bản đồ hay gây nhầm nhất khi tìm bảo tàng ở Hà Nội, cách đặt điểm đến cho đúng, và cách xử lý khi định vị lệch giữa phố hẹp. Ai mới đến Hà Nội lần đầu nên đọc kèm [bài kiểm tra giờ, ngày nghỉ và địa chỉ bảo tàng](/du-lich/2026/10/13/kiem-tra-gio-ngay-nghi-va-dia-chi-bao-tang-truoc-khi-chay-xe-tranh-di-hut/ "Kiểm tra giờ, ngày nghỉ và địa chỉ bảo tàng") để chốt lịch trước khi nổ máy.
 
 ## Dùng bản đồ điện thoại tìm bảo tàng: gõ tên thế nào cho ra đúng chỗ
 

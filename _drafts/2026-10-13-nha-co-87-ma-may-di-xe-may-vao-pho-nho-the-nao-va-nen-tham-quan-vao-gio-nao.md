@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-mistral-w1
 ---
 
-Trong các di tích còn mở cửa trong khu phố cổ, nhà cổ 87 Mã Mây là điểm nhỏ mà đáng xem: một ngôi nhà ống tuổi đời gần hai trăm năm, còn giữ không gian sống của một gia đình Hà Nội xưa. Điều cần tính nhất là chuyện nhà cổ Mã Mây đi xe máy vào thế nào, khi phố Mã Mây hẹp, đông và gần như không có chỗ đỗ ngay trước cửa. Bài này đi theo trình tự thực tế của một buổi: chọn lối vào phố nhỏ, để xe ở mép phố cổ rồi đi bộ tới, và chọn giờ xem cho khỏi chen trong nhà ống chật. Ai chưa quen địa hình khu này nên xem trước [bài khám phá Phố Cổ Hà Nội](/du-lich/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/ "Khám phá Phố Cổ Hà Nội bằng xe máy").
+Trong các di tích còn mở cửa trong khu phố cổ, nhà cổ 87 Mã Mây là điểm nhỏ mà đáng xem: một ngôi nhà ống tuổi đời gần hai trăm năm, còn giữ không gian sống của một gia đình Hà Nội xưa. Điều cần tính nhất là chuyện nhà cổ Mã Mây đi xe máy vào thế nào, khi phố Mã Mây hẹp, đông và gần như không có chỗ đỗ ngay trước cửa. Bài này đi theo trình tự thực tế của một buổi: chọn lối vào phố nhỏ, để xe ở mép phố cổ rồi đi bộ tới, và chọn giờ xem cho khỏi chen trong nhà ống chật. Cách đi vào một phố hẹp khác trong cùng khu đã được kể trong [bài về đền Bạch Mã ở phố Hàng Buồm](/du-lich/2026/10/13/den-bach-ma-o-pho-hang-buom-di-le-va-tham-quan-ngoi-den-tran-dong-bang-xe-may/ "Đền Bạch Mã ở phố Hàng Buồm"), đọc trước vài phút sẽ hình dung được kiểu phố nhỏ quanh đây.
 
 ## Nhà cổ Mã Mây đi xe máy: chọn lối vào phố nhỏ
 
@@ -43,6 +43,6 @@ Một chi tiết nhỏ nữa: nhiều nhà cổ trong phố cổ mở cửa đó
 
 ## Ghép điểm quanh Mã Mây trong cùng buổi
 
-Quanh Mã Mây có sẵn các điểm đi bộ gần: các phố nghề với hàng quán đặc trưng, các đền chùa nhỏ trong ngõ, và mép hồ phía nam đi bộ chừng mười lăm phút là tới. Xếp một buổi kiểu: sáng sớm xem nhà cổ lúc vắng, đi bộ dạo các phố quanh đó, trưa về nghỉ, chiều quay ra mép hồ. Ai muốn nắm trước khu ven hồ có thể xem [bài khám phá khu Hoàn Kiếm](/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/ "Khám phá khu Hoàn Kiếm bằng xe máy") rồi chốt tuyến đi bộ cho cả buổi.
+Quanh Mã Mây có sẵn các điểm đi bộ gần: các phố nghề với hàng quán đặc trưng, các đền chùa nhỏ trong ngõ, và mép hồ phía nam đi bộ chừng mười lăm phút là tới. Xếp một buổi kiểu: sáng sớm xem nhà cổ lúc vắng, đi bộ dạo các phố quanh đó, trưa về nghỉ, chiều quay ra mép hồ. Ai định đi tiếp các đền chùa quanh hồ thì xem trước [bài đi lễ rằm, mùng Một quanh Hồ Gươm](/du-lich/2026/10/13/di-le-ram-mung-mot-quanh-ho-guom-cho-do-le-bang-xe-may-va-cho-gui-xe/ "Đi lễ rằm, mùng Một quanh Hồ Gươm") để biết chỗ gửi xe quanh khu đó rồi chốt tuyến đi bộ cho cả buổi.
 
 Chốt lại: một buổi xem nhà cổ 87 Mã Mây gọn trong ba bước: chạy xe tới mép phố cổ theo đúng chiều một chiều, gửi xe ở bãi gần đầu phố rồi đi bộ vài phút vào, và chọn giờ vắng để xem ngôi nhà ống cho thoải mái. Các điểm quanh khu này nằm trong mục [phố cổ](/du-lich/pho-co/ "Phố cổ Hà Nội"), còn các tuyến tham quan khác nằm trong chủ đề [du lịch](/du-lich/ "Du lịch Hà Nội") của trang.

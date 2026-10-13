@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-mistral-w1
 ---
 
-Cuối tuần, câu hỏi phố đi bộ Hồ Gươm bảo tàng khu trung tâm đi thế nào xuất hiện trong kế hoạch của rất nhiều người: dải phố quanh hồ chuyển sang chế độ đi bộ, xe máy bị giữ lại ở vành ngoài, trong khi các bảo tàng quanh khu trung tâm vẫn mở cửa đón khách suốt thứ Bảy và Chủ nhật. Ghép hai việc trong một buổi nghe thuận, nhưng nếu không tính trước lối vào và chỗ gửi xe, bạn dễ mất nửa tiếng chạy vòng quanh hồ tìm chỗ đỗ. Bài này gộp ba thứ cần nắm: khung giờ và phạm vi cấm xe, hướng vào hợp lý cho xe máy, và cách chọn điểm dừng ngoài vùng đi bộ. Ai chưa quen các trục quanh đây có thể xem lại [bài khám phá khu Hoàn Kiếm](/du-lich/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/ "Khám phá khu Hoàn Kiếm bằng xe máy") để nắm địa hình trước khi đọc tiếp.
+Cuối tuần, câu hỏi phố đi bộ Hồ Gươm bảo tàng khu trung tâm đi thế nào xuất hiện trong kế hoạch của rất nhiều người: dải phố quanh hồ chuyển sang chế độ đi bộ, xe máy bị giữ lại ở vành ngoài, trong khi các bảo tàng quanh khu trung tâm vẫn mở cửa đón khách suốt thứ Bảy và Chủ nhật. Ghép hai việc trong một buổi nghe thuận, nhưng nếu không tính trước lối vào và chỗ gửi xe, bạn dễ mất nửa tiếng chạy vòng quanh hồ tìm chỗ đỗ. Bài này gộp ba thứ cần nắm: khung giờ và phạm vi cấm xe, hướng vào hợp lý cho xe máy, và cách chọn điểm dừng ngoài vùng đi bộ. Trước buổi đi, xem lại giờ mở và ngày nghỉ của bảo tàng mình chọn theo cách đã trình bày trong [bài kiểm tra giờ, ngày nghỉ và địa chỉ bảo tàng](/du-lich/2026/10/13/kiem-tra-gio-ngay-nghi-va-dia-chi-bao-tang-truoc-khi-chay-xe-tranh-di-hut/ "Kiểm tra giờ, ngày nghỉ và địa chỉ bảo tàng") để khỏi đi hụt giữa buổi cuối tuần.
 
 ## Phố đi bộ Hồ Gươm bảo tàng: khung giờ và phạm vi cấm xe
 
