@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T02:09:20+00:00",
+  "updated_at": "2026-10-13T02:13:27+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02541",
-      "started_at": "2026-10-12T11:58:09+00:00",
-      "source": "_drafts/2026-10-11-i-the-nao-e-pin-xe-ap-ien-u-dung-ca-buoi-thoi-quen-tiet-kiem-ien.md",
-      "destination": "_posts/2026-10-11-i-the-nao-e-pin-xe-ap-ien-u-dung-ca-buoi-thoi-quen-tiet-kiem-ien.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42573cface59ee8a7fba03c112977bf25eb25869",
-      "finished_at": "2026-10-12T11:58:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02542",
-      "started_at": "2026-10-12T11:58:09+00:00",
-      "source": "_drafts/2026-10-11-xe-ap-ien-hay-xe-ap-thuong-i-pho-ha-noi-mua-nong-chon-loai-nao.md",
-      "destination": "_posts/2026-10-11-xe-ap-ien-hay-xe-ap-thuong-i-pho-ha-noi-mua-nong-chon-loai-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42573cface59ee8a7fba03c112977bf25eb25869",
-      "finished_at": "2026-10-12T11:58:09+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02543",
       "started_at": "2026-10-12T13:14:00+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "be35bcb11a85774275a084c1b3b0dce90632df9a",
       "finished_at": "2026-10-13T02:09:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02503",
+      "started_at": "2026-10-13T02:13:27+00:00",
+      "source": "_drafts/2026-10-13-xi-nhan-xe-thue-nhay-nhanh-bat-thuong-hoac-khong-nhay-co-nen-chay-tiep.md",
+      "destination": "_posts/2026-10-13-xi-nhan-xe-thue-nhay-nhanh-bat-thuong-hoac-khong-nhay-co-nen-chay-tiep.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c788d96df4f988a8327403d4f28ce05eb4e851b3",
+      "finished_at": "2026-10-13T02:13:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02504",
+      "started_at": "2026-10-13T02:13:27+00:00",
+      "source": "_drafts/2026-10-13-nguoi-la-bao-xe-ban-xi-lop-hoac-chay-dau-giua-uong-kiem-tra-sao-cho-tinh-tao.md",
+      "destination": "_posts/2026-10-13-nguoi-la-bao-xe-ban-xi-lop-hoac-chay-dau-giua-uong-kiem-tra-sao-cho-tinh-tao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c788d96df4f988a8327403d4f28ce05eb4e851b3",
+      "finished_at": "2026-10-13T02:13:27+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
