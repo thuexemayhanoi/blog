@@ -1,0 +1,16 @@
+{
+ "snapshot": "live sitemap fetched earlier in this audit session (2,831 <loc> URLs), decoded",
+ "accounting": {
+  "live_sitemap_urls": 2831,
+  "posts_live_total": 2493,
+  "posts_by_matrix_status": {
+   "PUBLISHED": 2010,
+   "EXISTING": 473,
+   "REVIEW": 10
+  },
+  "main_pages_audited": 77,
+  "pagination_listing_pages_(/trang/N/)": 261,
+  "unaccounted": 0
+ },
+ "note": "2,493 + 77 + 261 = 2,831. Every sitemap URL is a post, one of the 77 main pages, or a pagination page of a listing. Pagination pages and 404.html are not audited as main pages (listing pagination / error page). The 10 REVIEW posts are live but are excluded from the sample by the owner's rule; the 50 factory posts BLG-00820..00869 use an explicit date-dash permalink (/<cat>/YYYY-MM-DD/<slug>/) that differs from the matrix expected_url."
+}

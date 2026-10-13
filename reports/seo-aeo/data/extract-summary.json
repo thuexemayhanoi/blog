@@ -1,0 +1,47 @@
+{
+ "sample_definition": "first 300 live articles (matrix status EXISTING or PUBLISHED) by article id ascending, excluding REVIEW/BLOCKED/PLANNED/draft",
+ "sample_first_id": "BLG-00001",
+ "sample_last_id": "BLG-00306",
+ "sample_status_counts": {
+  "EXISTING": 300
+ },
+ "excluded_ids_inside_span": [
+  {
+   "id": "BLG-00005",
+   "status": "REVIEW",
+   "title": "An toàn khi chạy xe đường trường: kỹ năng và nguyên tắc khi rời khỏi phố"
+  },
+  {
+   "id": "BLG-00017",
+   "status": "REVIEW",
+   "title": "Đi xe máy ở Hà Nội mùa đông: giữ ấm và an toàn khi trời lạnh"
+  },
+  {
+   "id": "BLG-00018",
+   "status": "REVIEW",
+   "title": "Đi xe máy ở Hà Nội ngày mưa: chuẩn bị và kỹ thuật giữ an toàn"
+  },
+  {
+   "id": "BLG-00053",
+   "status": "REVIEW",
+   "title": "An toàn khi chạy xe máy ở Hà Nội: tổng quan cho người thuê xe"
+  },
+  {
+   "id": "BLG-00227",
+   "status": "REVIEW",
+   "title": "Đổi xe giữa kỳ thuê khi có việc đổi"
+  },
+  {
+   "id": "BLG-00228",
+   "status": "REVIEW",
+   "title": "Đổi xe giữa kỳ thuê ở Hà Nội: khi nào cần và cách làm đúng"
+  }
+ ],
+ "sample_all_in_live_sitemap": true,
+ "alt_sample_definition": "first 300 rows with status PUBLISHED (factory-published) by id ascending",
+ "alt_sample_first_id": "BLG-00484",
+ "alt_sample_last_id": "BLG-00784",
+ "live_sitemap_urls": 2831,
+ "main_pages": 77,
+ "main_pages_in_sitemap": 77
+}

@@ -1,0 +1,3039 @@
+{
+ "definition": "first 300 live articles (matrix status EXISTING or PUBLISHED) by article id ascending, excluding REVIEW/BLOCKED/PLANNED/draft",
+ "sample": [
+  {
+   "id": "BLG-00001",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/13/goi-y-kham-pha-ha-noi-bang-xe-may-cho-nguoi-moi/",
+   "title": "Gợi ý khám phá Hà Nội bằng xe máy cho người mới"
+  },
+  {
+   "id": "BLG-00002",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/13/kinh-nghiem-thue-xe-may-ha-noi/",
+   "title": "Kinh nghiệm thuê xe máy tại Hà Nội: Những điều nên biết trước khi nhận xe"
+  },
+  {
+   "id": "BLG-00003",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/",
+   "title": "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?"
+  },
+  {
+   "id": "BLG-00004",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/17/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-moi/",
+   "title": "Thủ tục thuê xe máy ở Hà Nội: quy trình từng bước cho người lần đầu thuê"
+  },
+  {
+   "id": "BLG-00006",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/",
+   "title": "Áp suất lốp xe máy: kiểm tra thế nào và vì sao quan trọng hơn bạn nghĩ"
+  },
+  {
+   "id": "BLG-00007",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/cach-dat-xe-may-truoc-tu-xa/",
+   "title": "Đặt xe máy trước từ xa: cách đặt qua Zalo hoặc điện thoại để chủ động chọn xe"
+  },
+  {
+   "id": "BLG-00008",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/cau-long-bien-va-khu-long-bien-bang-xe-may/",
+   "title": "Cầu Long Biên và khu Long Biên bằng xe máy: trải nghiệm đáng đi ở Hà Nội"
+  },
+  {
+   "id": "BLG-00009",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/cham-soc-day-xich-xe-may/",
+   "title": "Chăm sóc dây xích xe máy: nhận biết xích khô và cách xử lý đúng"
+  },
+  {
+   "id": "BLG-00010",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/checklist-kiem-tra-xe-khi-nhan-xe-thue/",
+   "title": "Danh sách kiểm tra xe khi nhận xe thuê: những điểm cần soi kỹ"
+  },
+  {
+   "id": "BLG-00011",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/cho-hanh-ly-an-toan-tren-xe-may/",
+   "title": "Chở hành lý an toàn trên xe máy: theo dung lượng, không theo cảm hứng"
+  },
+  {
+   "id": "BLG-00012",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/chon-loai-xe-cho-chuyen-di-dai/",
+   "title": "Chọn loại xe cho chuyến đi dài: xe số hay xe ga hợp với đường trường"
+  },
+  {
+   "id": "BLG-00013",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/chuan-bi-chuyen-di-gan-ha-noi-bang-xe-may/",
+   "title": "Chuẩn bị chuyến đi gần Hà Nội bằng xe máy: từng bước từ chọn tuyến đến kiểm tra xe"
+  },
+  {
+   "id": "BLG-00014",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/danh-sach-do-cho-chuyen-di-1-ngay-bang-xe-may/",
+   "title": "Danh sách đồ cho chuyến đi một ngày bằng xe máy: gọn nhẹ nhưng đủ dùng"
+  },
+  {
+   "id": "BLG-00015",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/dau-hieu-xe-thue-can-bao-cua-hang-ngay/",
+   "title": "Dấu hiệu xe thuê cần báo cửa hàng ngay"
+  },
+  {
+   "id": "BLG-00016",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/",
+   "title": "Đèn xe và tầm nhìn khi đi xe máy ban đêm"
+  },
+  {
+   "id": "BLG-00019",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/do-bao-ho-khi-di-xe-may/",
+   "title": "Đồ bảo hộ khi đi xe máy: chọn đúng mức cho từng loại chuyến đi"
+  },
+  {
+   "id": "BLG-00020",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/",
+   "title": "Giấy tờ thuê xe máy ở Hà Nội: cần mang gì khi đến cửa hàng"
+  },
+  {
+   "id": "BLG-00021",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/gui-xe-o-ha-noi-meo-thuc-te/",
+   "title": "Gửi xe ở Hà Nội: mẹo thực tế để gửi và nhận xe thuận lợi"
+  },
+  {
+   "id": "BLG-00022",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/kham-pha-gia-lam-va-ven-song-hong-bang-xe-may/",
+   "title": "Gia Lâm và ven sông Hồng bằng xe máy: đường đê, đồng ruộng và làng gốm"
+  },
+  {
+   "id": "BLG-00023",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/kham-pha-khu-ba-dinh-bang-xe-may/",
+   "title": "Khám phá khu Ba Đình bằng xe máy: điểm đến và lưu ý gửi xe quanh khu di tích"
+  },
+  {
+   "id": "BLG-00024",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/kham-pha-khu-hoan-kiem-bang-xe-may/",
+   "title": "Khám phá khu Hoàn Kiếm bằng xe máy: lịch trình, gửi xe và những trải nghiệm đáng giá"
+  },
+  {
+   "id": "BLG-00025",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/kham-pha-khu-tay-ho-bang-xe-may/",
+   "title": "Khám phá khu Tây Hồ bằng xe máy: đường ven hồ và những thời điểm đẹp nhất"
+  },
+  {
+   "id": "BLG-00026",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/kham-pha-pho-co-ha-noi-bang-xe-may/",
+   "title": "Khám phá Phố Cổ Hà Nội bằng xe máy: cách đi, gửi xe và thời điểm hợp lý"
+  },
+  {
+   "id": "BLG-00027",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/kiem-tra-xe-truoc-moi-chuyen-di/",
+   "title": "Kiểm tra xe trước mỗi chuyến đi: quy trình hai phút cho mọi người"
+  },
+  {
+   "id": "BLG-00028",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/kinh-nghiem-do-xang-va-nghi-tuyen/",
+   "title": "Kinh nghiệm đổ xăng và nghỉ trên tuyến khi chạy xe đường trường"
+  },
+  {
+   "id": "BLG-00029",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/lai-xe-trong-pho-co-gio-cao-diem/",
+   "title": "Lái xe trong phố cổ giờ cao điểm: cách xử lý mật độ xe dày"
+  },
+  {
+   "id": "BLG-00030",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/len-ke-hoach-chuyen-cuoi-tuan-bang-xe-may/",
+   "title": "Lên kế hoạch chuyến cuối tuần bằng xe máy: sắp xếp hai ngày gọn gàng"
+  },
+  {
+   "id": "BLG-00031",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/nen-thue-hay-mua-xe-may-o-ha-noi/",
+   "title": "Nên thuê hay mua xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00032",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/nen-thue-xe-may-tu-lai-hay-di-xe-cong-nghe/",
+   "title": "Nên thuê xe máy tự lái hay đi xe công nghệ ở Hà Nội: so sánh theo tần suất di chuyển"
+  },
+  {
+   "id": "BLG-00033",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/",
+   "title": "Xe đạp điện và xe máy điện khác nhau thế nào: chọn theo nhu cầu thực tế"
+  },
+  {
+   "id": "BLG-00034",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/18/quang-duong-hop-ly-trong-ngay-khi-di-xe-may/",
+   "title": "Quãng đường hợp lý trong ngày khi đi xe máy: nên chạy bao nhiêu cây số"
+  },
+  {
+   "id": "BLG-00035",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/quy-trinh-tra-xe-thue-dung-cach-tranh-tranh-chap/",
+   "title": "Trả xe thuê đúng cách: quy trình tránh mọi tranh chấp"
+  },
+  {
+   "id": "BLG-00036",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/sac-pin-xe-may-dien-dung-cach/",
+   "title": "Sạc pin xe máy điện đúng cách"
+  },
+  {
+   "id": "BLG-00037",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/",
+   "title": "Thay nhớt định kỳ cho xe máy: kỳ hạn, dấu hiệu và ai chịu khi đi xe thuê"
+  },
+  {
+   "id": "BLG-00038",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/thoi-tiet-va-ke-hoach-chuyen-di-bang-xe-may/",
+   "title": "Thời tiết và kế hoạch chuyến đi bằng xe máy: đọc dự báo và quyết định có nên đi"
+  },
+  {
+   "id": "BLG-00039",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-honda-air-blade-o-ha-noi/",
+   "title": "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông"
+  },
+  {
+   "id": "BLG-00040",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-honda-click-va-yamaha-mio-o-ha-noi/",
+   "title": "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố"
+  },
+  {
+   "id": "BLG-00041",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-honda-vision-o-ha-noi/",
+   "title": "Thuê Honda Vision ở Hà Nội: dòng xe ga nhỏ gọn hợp với ai"
+  },
+  {
+   "id": "BLG-00042",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-honda-wave-o-ha-noi/",
+   "title": "Thuê Honda Wave ở Hà Nội: dòng xe số bền bỉ hợp với nhu cầu nào"
+  },
+  {
+   "id": "BLG-00043",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-xe-con-tay-co-nen-thu-cho-nguoi-moi-khong/",
+   "title": "Thuê xe côn tay ở Hà Nội: có nên thử nếu bạn mới biết lái"
+  },
+  {
+   "id": "BLG-00044",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-xe-may-cho-sinh-vien-o-ha-noi/",
+   "title": "Thuê xe máy cho sinh viên ở Hà Nội: chọn xe và chi phí hợp lý khi đi học, đi làm thêm"
+  },
+  {
+   "id": "BLG-00045",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-xe-may-dien-o-ha-noi-can-biet-gi/",
+   "title": "Thuê xe máy điện ở Hà Nội: quãng đường, sạc pin và những điều cần biết"
+  },
+  {
+   "id": "BLG-00046",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/18/thue-xe-may-ha-noi-cho-nguoi-nuoc-ngoai/",
+   "title": "Thuê xe máy ở Hà Nội cho người nước ngoài: điều kiện giấy tờ và lưu ý giao thông"
+  },
+  {
+   "id": "BLG-00047",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/17/thue-xe-may-theo-ngay-tuan-hay-thang/",
+   "title": "Thuê xe máy theo ngày, theo tuần hay theo tháng: nên chọn kiểu nào"
+  },
+  {
+   "id": "BLG-00048",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/thue-xe-tay-ga-o-ha-noi-phu-hop-voi-ai/",
+   "title": "Thuê xe tay ga ở Hà Nội: dòng xe phù hợp với ai và lưu ý khi lái trong phố"
+  },
+  {
+   "id": "BLG-00049",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/17/tien-dat-coc-khi-thue-xe-may-o-ha-noi/",
+   "title": "Tiền đặt cọc khi thuê xe máy ở Hà Nội: cần biết gì trước khi đưa tiền"
+  },
+  {
+   "id": "BLG-00050",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/xe-50cc-co-phu-hop-voi-ban-khong/",
+   "title": "Thuê xe 50cc ở Hà Nội: dòng xe nhẹ có phù hợp với bạn"
+  },
+  {
+   "id": "BLG-00051",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/18/xe-so-uu-va-nhuoc-diem-khi-thue-o-ha-noi/",
+   "title": "Xe số là gì, ưu và nhược điểm khi thuê xe số ở Hà Nội"
+  },
+  {
+   "id": "BLG-00052",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ac-quy-xe-tay-ga-yeu-va-khoa-tu/",
+   "title": "Ắc quy xe tay ga yếu và khóa từ: dấu hiệu, xử lý và phòng tránh"
+  },
+  {
+   "id": "BLG-00054",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/anh-chi-shipper-di-cuoc-cuoi-ngay/",
+   "title": "Shipper chạy cước khung giờ cuối ngày"
+  },
+  {
+   "id": "BLG-00055",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/ba-me-di-cho-cuoi-tuan-cho-ca-nha/",
+   "title": "Bà mẹ đi chợ cuối tuần cho cả nhà"
+  },
+  {
+   "id": "BLG-00056",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ban-do-dan-vao-ngo-cut/",
+   "title": "Đi vào ngõ cụt và ngõ nhỏ: xử lý sao cho gọn"
+  },
+  {
+   "id": "BLG-00057",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ban-do-offline-vung-ven-song-yeu/",
+   "title": "Bản đồ offline khi đi vùng ven sóng yếu"
+  },
+  {
+   "id": "BLG-00058",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bao-duong-giua-ky-thue-xe-dai-han/",
+   "title": "Bảo dưỡng giữa kỳ khi thuê xe dài hạn: phối hợp với cửa hàng"
+  },
+  {
+   "id": "BLG-00059",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bao-hiem-cho-nguoi-thue-xe-may-o-ha-noi/",
+   "title": "Bảo hiểm cho người thuê xe máy ở Hà Nội: những điều cần hiểu rõ"
+  },
+  {
+   "id": "BLG-00060",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bao-hiem-lun-mam-xe-sau-mua-to/",
+   "title": "Xe lún mềm bất thường sau mưa to"
+  },
+  {
+   "id": "BLG-00061",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bao-quan-xe-thue-khi-khong-dung-nhieu-ngay/",
+   "title": "Bảo quản xe máy thuê khi không dùng trong nhiều ngày"
+  },
+  {
+   "id": "BLG-00062",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bao-ve-giay-to-khoi-mua-khi-di-xe-may/",
+   "title": "Bảo vệ giấy tờ và tài liệu khỏi mưa khi đi xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00063",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bao-vi-tri-chinh-xac-khi-xe-thue-su-co-giua-duong/",
+   "title": "Báo vị trí chính xác khi xe máy thuê gặp sự cố giữa đường"
+  },
+  {
+   "id": "BLG-00064",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bi-dung-kiem-tra-giay-to-khi-di-xe-thue/",
+   "title": "Bị dừng kiểm tra giấy tờ khi đi xe máy thuê: nên làm gì"
+  },
+  {
+   "id": "BLG-00065",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bi-kiem-tra-giay-to-khi-di-xe-thue/",
+   "title": "Bị kiểm tra giấy tờ khi đi xe máy thuê cần lưu ý gì"
+  },
+  {
+   "id": "BLG-00066",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bi-phat-nguoi-qua-camera-giua-ky-thue/",
+   "title": "Bị phạt nguội qua camera giữa kỳ thuê"
+  },
+  {
+   "id": "BLG-00067",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bi-va-quet-roi-bo-di-xu-ly-tung-buoc/",
+   "title": "Bị va quẹt rồi bỏ đi: xử lý từng bước"
+  },
+  {
+   "id": "BLG-00068",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bien-bao-giao-thong-thuong-gap-khi-di-trong-pho/",
+   "title": "Biển báo giao thông thường gặp khi đi trong phố"
+  },
+  {
+   "id": "BLG-00069",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/bo-do-che-mua-che-nang-mang-tren-xe-ca-ngay/",
+   "title": "Bộ đồ che mưa che nắng nên mang theo khi đi xe máy cả ngày"
+  },
+  {
+   "id": "BLG-00070",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/bo-do-nghe-sua-xe-mini-khi-di-xe-thue-dai-han/",
+   "title": "Bộ đồ nghề sửa xe mini nên mang theo khi thuê xe dài hạn"
+  },
+  {
+   "id": "BLG-00071",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/bo-y-te-mini-tren-xe-may-cho-nguoi-di-duong-nhieu/",
+   "title": "Bộ y tế mini nên có trên xe máy cho người đi đường nhiều"
+  },
+  {
+   "id": "BLG-00072",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/buoi-toi-chay-xe-giai-toa-dau-oc/",
+   "title": "Buổi tối chạy xe giải tỏa đầu óc"
+  },
+  {
+   "id": "BLG-00073",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cach-danh-gia-cua-hang-cho-thue-xe-may/",
+   "title": "Cách đánh giá một cửa hàng cho thuê xe máy ở Hà Nội trước khi đặt"
+  },
+  {
+   "id": "BLG-00074",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cam-giac-lang-xe-khi-di-qua-vung-co-gio-ngang/",
+   "title": "Cảm giác lạng xe khi qua vùng có gió ngang"
+  },
+  {
+   "id": "BLG-00075",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cam-nhan-do-an-phanh-dinh-ky-tren-xe-may-thue/",
+   "title": "Cảm nhận độ ăn phanh định kỳ trên xe máy thuê"
+  },
+  {
+   "id": "BLG-00076",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/can-ho-tro-ngoai-gio-hoat-dong/",
+   "title": "Cần hỗ trợ ngoài giờ hoạt động thì xử lý thế nào"
+  },
+  {
+   "id": "BLG-00077",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/can-roi-ha-noi-dot-xuat-giua-ky-thue-xe/",
+   "title": "Cần rời Hà Nội đột ngột giữa kỳ thuê xe"
+  },
+  {
+   "id": "BLG-00078",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/can-thi-kinh-can-va-thi-giac-khi-di-xe-may/",
+   "title": "Cận thị, kính và việc nhìn rõ khi đi xe máy"
+  },
+  {
+   "id": "BLG-00079",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/can-xe-truoc-9-gio-sang/",
+   "title": "Cấn xe trước 9 giờ sáng: nhận xe sớm như thế nào"
+  },
+  {
+   "id": "BLG-00080",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cau-be-trung-hoc-di-xe-may-toan-truong/",
+   "title": "Học sinh trung học đi xe máy tới trường"
+  },
+  {
+   "id": "BLG-00081",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cau-hoi-thuong-gap-khi-thue-xe-may-o-ha-noi/",
+   "title": "Câu hỏi thường gặp khi thuê xe máy ở Hà Nội: giải đáp từ giấy tờ đến trả xe"
+  },
+  {
+   "id": "BLG-00082",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cham-soc-xe-thue-sau-khi-di-mua/",
+   "title": "Chăm sóc xe máy thuê sau những chuyến đi mưa"
+  },
+  {
+   "id": "BLG-00083",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/chay-pho-ngam-den-tet/",
+   "title": "Chạy phố ngắm đèn Tết bằng xe máy"
+  },
+  {
+   "id": "BLG-00084",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-thu-tuyen-moi-truoc-ngay-dau-tien/",
+   "title": "Chạy thử tuyến mới trước ngày đầu tiên dùng xe máy thuê"
+  },
+  {
+   "id": "BLG-00085",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-chieu-toi-mua-dong-lanh-buot/",
+   "title": "Chạy xe chiều tối mùa đông lạnh buốt"
+  },
+  {
+   "id": "BLG-00086",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-dung-o-do-chen-lan-xe-dung/",
+   "title": "Chạy xe đúng chỗ ở đoạn chen làn xe dừng"
+  },
+  {
+   "id": "BLG-00087",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-duong-lang-duong-trong-khu-vuc-moi/",
+   "title": "Chạy xe đường làng đường trơn khu vực mới mở"
+  },
+  {
+   "id": "BLG-00088",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-giua-cong-bao-lon-mua-he/",
+   "title": "Chạy xe giữa cơn bão lớn mùa hè"
+  },
+  {
+   "id": "BLG-00089",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-khi-dau-nhot-bao-ky-han/",
+   "title": "Chạy xe khi đến hạn nhớt sắp đến"
+  },
+  {
+   "id": "BLG-00090",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-may-tren-duong-doc-va-cau-vuot/",
+   "title": "Chạy xe máy trên đường dốc và cầu vượt ở Hà Nội: kỹ năng cần tập"
+  },
+  {
+   "id": "BLG-00091",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-om-cong-nghe-thoi-vu-bang-xe-thue/",
+   "title": "Chạy xe ôm công nghệ thời vụ bằng xe thuê"
+  },
+  {
+   "id": "BLG-00092",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-qua-cau-vong-kinh-ha-noi-ban-dem/",
+   "title": "Chạy xe qua cầu vòng kính Hà Nội ban đêm"
+  },
+  {
+   "id": "BLG-00093",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-qua-do-duong-dang-sua-ne-tranh/",
+   "title": "Chạy xe qua đoạn đường đang sửa và cách né tránh"
+  },
+  {
+   "id": "BLG-00094",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-sang-som-co-vang-suong/",
+   "title": "Chạy xe sáng sớm có vàng sương"
+  },
+  {
+   "id": "BLG-00095",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-sang-som-quanh-ho-ne-dong-nguoi-tap-the-duc/",
+   "title": "Chạy xe sáng sớm quanh hồ, né dòng người tập thể dục"
+  },
+  {
+   "id": "BLG-00096",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/chay-xe-sang-som-ve-lang-nghe-vung-ven-ha-noi/",
+   "title": "Chạy xe sáng sớm về làng nghề vùng ven Hà Nội"
+  },
+  {
+   "id": "BLG-00097",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-sang-toi-cho-dau-moi-mua-ra-si/",
+   "title": "Chạy xe sáng tới chợ đầu mối mua rau sỉ"
+  },
+  {
+   "id": "BLG-00098",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/chay-xe-toi-cho-hoa-tet-o-ha-noi/",
+   "title": "Chạy xe tới chợ hoa Tết ở Hà Nội"
+  },
+  {
+   "id": "BLG-00099",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chay-xe-tren-duong-da-dam-soi/",
+   "title": "Chạy xe trên đường đá dăm và sỏi"
+  },
+  {
+   "id": "BLG-00100",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/checklist-ngay-tra-xe-may-thue/",
+   "title": "Ngày trả xe máy thuê: danh sách việc cần làm cho buổi tất toán"
+  },
+  {
+   "id": "BLG-00101",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/checklist-nhan-xe-may-dien-thue/",
+   "title": "Kiểm tra khi nhận xe máy điện thuê: pin, sạc và đèn báo"
+  },
+  {
+   "id": "BLG-00102",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chi-phi-thue-xe-may-o-ha-noi-toan-canh/",
+   "title": "Chi phí thuê xe máy ở Hà Nội nhìn tổng thể: tính đủ mọi khoản trước khi đặt cọc"
+  },
+  {
+   "id": "BLG-00103",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chia-lan-voi-xe-dap-xe-dien/",
+   "title": "Chia làn với xe đạp và xe đạp điện trên đường"
+  },
+  {
+   "id": "BLG-00104",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/chia-se-vi-tri-voi-nguoi-than-khi-di-khuya/",
+   "title": "Chia sẻ vị trí với người thân khi đi khuya"
+  },
+  {
+   "id": "BLG-00105",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chien-luoc-di-xe-gio-cao-diem-ha-noi/",
+   "title": "Đi xe máy giờ cao điểm ở Hà Nội: chiến lược thời gian và tuyến đường"
+  },
+  {
+   "id": "BLG-00106",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chinh-guong-chieu-hau-xe-may-dung-cach/",
+   "title": "Chỉnh gương chiếu hậu xe máy đúng cách cho người thuê xe"
+  },
+  {
+   "id": "BLG-00107",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-banh-keo-dai-hoi-lang-xom/",
+   "title": "Chở bánh kẹo đi hội làng"
+  },
+  {
+   "id": "BLG-00108",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-binh-nuoc-lon-tren-xe-may/",
+   "title": "Chở bình nước lớn trên xe máy an toàn"
+  },
+  {
+   "id": "BLG-00109",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-cay-canh-nho-mua-vuon/",
+   "title": "Chở cây cảnh nhỏ mua ở vườn"
+  },
+  {
+   "id": "BLG-00110",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-chay-theo-xe-xu-ly-the-nao/",
+   "title": "Chó chạy theo xe: xử lý thế nào"
+  },
+  {
+   "id": "BLG-00111",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-an-thuc-uong-khong-do-vang/",
+   "title": "Chở đồ ăn thức uống trên xe máy thuê mà không đổ vỡ"
+  },
+  {
+   "id": "BLG-00112",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/cho-do-di-cam-trai-picnic/",
+   "title": "Chở đồ đi cắm trại picnic bằng xe máy"
+  },
+  {
+   "id": "BLG-00113",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-di-cho-va-mua-sam-bang-xe-thue/",
+   "title": "Chở đồ đi chợ và mua sắm an toàn bằng xe máy thuê"
+  },
+  {
+   "id": "BLG-00114",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-di-tap-the-thao/",
+   "title": "Chở đồ đi tập thể thao trên xe máy gọn gàng"
+  },
+  {
+   "id": "BLG-00115",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-dien-tu-gia-dung-kho-vo/",
+   "title": "Chở đồ điện tử gia dụng dễ vỡ"
+  },
+  {
+   "id": "BLG-00116",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-dung-cho-em-be-tren-xe-may/",
+   "title": "Chở đồ dùng cho em bé trên xe máy: sắp xếp gọn và an toàn"
+  },
+  {
+   "id": "BLG-00117",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-hinh-tru-va-do-de-lan-tren-xe-may/",
+   "title": "Chở đồ hình trụ và đồ dễ lăn trên xe máy"
+  },
+  {
+   "id": "BLG-00118",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-do-noi-that-nho-tren-xe-may/",
+   "title": "Chở nội thất nhỏ trên xe máy"
+  },
+  {
+   "id": "BLG-00119",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-do-tiep-te-cho-gia-dinh-co-em-be-moi-sinh/",
+   "title": "Chở đồ tiếp tế cho gia đình có em bé mới sinh"
+  },
+  {
+   "id": "BLG-00120",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-dung-cu-lam-viec-tren-xe-may-thue/",
+   "title": "Chở dụng cụ làm việc trên xe máy thuê: nguyên tắc an toàn"
+  },
+  {
+   "id": "BLG-00121",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-hanh-ly-vali-tren-xe-may-thue/",
+   "title": "Chở hành lý vali trên xe máy thuê khi chuyển chỗ, ra ga"
+  },
+  {
+   "id": "BLG-00122",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-hoa-va-cay-canh-tren-xe-may/",
+   "title": "Chở hoa và cây cảnh trên xe máy sao cho an toàn"
+  },
+  {
+   "id": "BLG-00123",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-hop-qua-le-cuoi-tren-xe-may/",
+   "title": "Chở hộp quà lễ cưới trên xe máy"
+  },
+  {
+   "id": "BLG-00124",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-laptop-an-toan-tren-xe-may-thue/",
+   "title": "Chở laptop an toàn trên xe máy thuê ở Hà Nội"
+  },
+  {
+   "id": "BLG-00125",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-long-chim-di-dao-sang/",
+   "title": "Chở lồng chim đi dạo sáng ở Hà Nội"
+  },
+  {
+   "id": "BLG-00126",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-may-anh-thiet-bi-quay-phim-tren-xe-may/",
+   "title": "Chở máy ảnh và thiết bị quay phim an toàn trên xe máy"
+  },
+  {
+   "id": "BLG-00127",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-nguoi-khac-muon-xe-thue-trach-nhiem/",
+   "title": "Cho người khác mượn xe máy thuê: trách nhiệm nằm ở đâu"
+  },
+  {
+   "id": "BLG-00128",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-nguoi-lon-tuoi-di-kham-benh-dinh-ky/",
+   "title": "Chở người lớn tuổi đi khám bệnh định kỳ"
+  },
+  {
+   "id": "BLG-00129",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-nguoi-lon-tuoi-ngoi-sau-xe-may/",
+   "title": "Chở người lớn tuổi ngồi sau xe máy: những điều cần để ý"
+  },
+  {
+   "id": "BLG-00130",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-qua-tai-tren-xe-thue/",
+   "title": "Chở quá tải trên xe thuê: giới hạn thực tế ở đâu"
+  },
+  {
+   "id": "BLG-00131",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-thu-cung-tren-xe-may-an-toan-cho-ca-hai/",
+   "title": "Chở thú cưng trên xe máy: an toàn cho cả hai"
+  },
+  {
+   "id": "BLG-00132",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-tre-em-di-xe-may-thue-o-ha-noi/",
+   "title": "Cho trẻ em đi trên xe máy thuê ở Hà Nội: lưu ý an toàn dành cho phụ huynh"
+  },
+  {
+   "id": "BLG-00133",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/cho-tre-moi-lon-du-tuoi-ngoi-sau-lan-dau/",
+   "title": "Chở trẻ mới lớn đủ tuổi ngồi sau lần đầu"
+  },
+  {
+   "id": "BLG-00134",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-tru-tam-khi-mua-lon-dang-giua-duong/",
+   "title": "Trú tạm ở đâu khi mưa lớn đang giữa đường"
+  },
+  {
+   "id": "BLG-00135",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/cho-vat-dai-tren-xe-may-an-toan/",
+   "title": "Chở vật dài trên xe máy an toàn"
+  },
+  {
+   "id": "BLG-00136",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chon-cua-hang-gan-nha-hay-gan-noi-lam-viec/",
+   "title": "Chọn cửa hàng cho thuê gần nhà hay gần nơi làm việc"
+  },
+  {
+   "id": "BLG-00137",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chon-tuyen-di-xe-may-theo-tinh-trang-mat-duong-o-ha-noi/",
+   "title": "Chọn tuyến đi xe máy theo tình trạng mặt đường ở Hà Nội"
+  },
+  {
+   "id": "BLG-00138",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chon-xe-theo-voc-dang-va-chieu-cao-yen/",
+   "title": "Chọn xe máy thuê theo vóc dáng và chiều cao yên xe"
+  },
+  {
+   "id": "BLG-00139",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chong-buon-ngu-khi-chay-xe-buoi-trua/",
+   "title": "Chống buồn ngủ khi chạy xe buổi trưa"
+  },
+  {
+   "id": "BLG-00140",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chup-anh-khi-nhan-va-tra-xe-thue/",
+   "title": "Chụp ảnh khi nhận và trả xe thuê: bộ bằng chứng nhỏ có tác dụng lớn"
+  },
+  {
+   "id": "BLG-00141",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chuyen-cho-o-giua-ky-thue-xe-may/",
+   "title": "Chuyển chỗ ở giữa kỳ thuê xe máy ở Hà Nội: dọn đồ, chỗ gửi xe mới và các thủ tục"
+  },
+  {
+   "id": "BLG-00142",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chuyen-den-ha-noi-di-chuyen-tuan-dau/",
+   "title": "Chuyển đến Hà Nội sinh sống: thiết lập việc đi lại trong tuần đầu"
+  },
+  {
+   "id": "BLG-00143",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/chuyen-di-chua-huong-mua-le-bang-xe-may/",
+   "title": "Chuyến đi chùa Hương mùa lễ bằng xe máy"
+  },
+  {
+   "id": "BLG-00144",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/chuyen-di-chua-tam-chuc-bang-xe-may/",
+   "title": "Chuyến đi chùa Tam Chúc bằng xe máy"
+  },
+  {
+   "id": "BLG-00145",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/chuyen-hen-ho-bang-xe-may/",
+   "title": "Chuyến hẹn hò bằng xe máy"
+  },
+  {
+   "id": "BLG-00146",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/chuyen-tu-xe-so-sang-xe-tay-ga/",
+   "title": "Chuyển từ xe số sang xe tay ga: hướng dẫn làm quen cho người thuê"
+  },
+  {
+   "id": "BLG-00147",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/co-xe-keo-dai-khi-troi-am/",
+   "title": "Cò xe kéo dài khi trời ẩm ướt"
+  },
+  {
+   "id": "BLG-00148",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/con-trung-bay-vao-mat/",
+   "title": "Côn trùng bay vào mặt khi đang chạy xe"
+  },
+  {
+   "id": "BLG-00149",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/danh-ba-diem-sua-xe-cay-xang-tuyen-thuong-di/",
+   "title": "Danh bạ điểm sửa xe, vá lốp, cây xăng trên tuyến thường đi"
+  },
+  {
+   "id": "BLG-00150",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/danh-ba-khan-cap-va-phuong-an-du-phong-khi-di-xe-may-thue/",
+   "title": "Danh bạ khẩn cấp và phương án dự phòng khi đi xe máy thuê"
+  },
+  {
+   "id": "BLG-00151",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/dat-xe-giup-nguoi-lon-tuoi/",
+   "title": "Đặt xe giúp người lớn tuổi trong nhà"
+  },
+  {
+   "id": "BLG-00152",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dau-bat-thuong-xuat-hien-giua-duong-dung-o-dau/",
+   "title": "Đau bất thường xuất hiện giữa đường: dừng ở đâu"
+  },
+  {
+   "id": "BLG-00153",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/dau-lung-vai-co-khi-di-xe-may-hang-ngay-nguyen-nhan-va-cach-giam/",
+   "title": "Đau lưng, vai cổ khi đi xe máy hằng ngày: nguyên nhân và cách giảm"
+  },
+  {
+   "id": "BLG-00154",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dau-mat-luc-chieu-nang-nhin-thang/",
+   "title": "Đau mắt lúc chiều nắng chiếu thẳng"
+  },
+  {
+   "id": "BLG-00155",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/day-nguoi-khac-lai-tren-xe-thue/",
+   "title": "Dạy người khác lái thử trên xe thuê"
+  },
+  {
+   "id": "BLG-00156",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/day-thun-day-buoc-do-vuong-banh-xe/",
+   "title": "Dây thun, dây buộc và nguy cơ dây lỏng vướng bánh xe khi chở đồ"
+  },
+  {
+   "id": "BLG-00157",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/de-xe-may-buoi-sang-lanh-o-ha-noi/",
+   "title": "Đề xe máy buổi sáng lạnh ở Hà Nội: thao tác nhẹ nhàng và những điều nên tránh"
+  },
+  {
+   "id": "BLG-00158",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/de-xe-may-thue-duoi-nang-ca-ngay-anh-huong-va-cach-bao-ve/",
+   "title": "Để xe máy thuê dưới nắng cả ngày: ảnh hưởng và cách bảo vệ"
+  },
+  {
+   "id": "BLG-00159",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/de-xe-thue-qua-dem-ngoai-troi-o-khu-tro/",
+   "title": "Để xe thuê qua đêm ngoài trời ở khu trọ: bảo vệ xe và giữ quan hệ tốt"
+  },
+  {
+   "id": "BLG-00160",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/de-xe-tren-do-doc-nho-va-len-xe-tro-lai/",
+   "title": "Để xe trên dốc nhỏ và lên xe trở lại"
+  },
+  {
+   "id": "BLG-00161",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dem-phao-hoa-o-ha-noi-di-xe-may-the-nao/",
+   "title": "Đêm pháo hoa ở Hà Nội: đi xe máy thế nào cho an toàn"
+  },
+  {
+   "id": "BLG-00162",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/den-bao-va-tieng-keu-bat-thuong-tren-xe-tay-ga-thue/",
+   "title": "Đèn báo và tiếng kêu bất thường trên xe tay ga thuê: đọc đúng và phản ứng đúng"
+  },
+  {
+   "id": "BLG-00163",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/den-chieu-choi-tu-xe-nguoc-chieu/",
+   "title": "Đèn chiều hời và chạy xe lúc chạng vạng tối"
+  },
+  {
+   "id": "BLG-00164",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/den-pha-yeu-dan-tu-vang-buon/",
+   "title": "Đèn pha yếu dần dần buổi tối"
+  },
+  {
+   "id": "BLG-00165",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/den-pha-yeu-truoc-chuyen-di-chieu-toi/",
+   "title": "Đèn pha yếu trước chuyến đi buổi tối: kiểm tra và quyết định có nên xuất phát"
+  },
+  {
+   "id": "BLG-00166",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/deo-balo-nang-khi-di-xe-may/",
+   "title": "Đeo ba lô nặng khi đi xe máy: cách giảm mỏi và rủi ro"
+  },
+  {
+   "id": "BLG-00167",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-an-uong-co-con-ve-nha-the-nao/",
+   "title": "Đi ăn uống có dùng đồ có cồn thì về nhà thế nào khi đang thuê xe máy"
+  },
+  {
+   "id": "BLG-00168",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-chuyen-theo-ca-lam-viec-voi-xe-thue/",
+   "title": "Đi lại theo ca làm việc bằng xe máy thuê: ca đêm, ca xoay và ca sớm"
+  },
+  {
+   "id": "BLG-00169",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-dam-cuoc-tiec-tung-va-ruou-bia/",
+   "title": "Đi đám cưới, tiệc tùng về khuya bằng xe máy"
+  },
+  {
+   "id": "BLG-00170",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/di-do-son-hai-ngay-bang-xe-may/",
+   "title": "Đi Đồ Sơn hai ngày bằng xe máy"
+  },
+  {
+   "id": "BLG-00171",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/di-ho-nui-coc-bang-xe-may/",
+   "title": "Đi hồ Núi Cốc Thái Nguyên bằng xe máy"
+  },
+  {
+   "id": "BLG-00172",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-lai-bang-xe-may-khi-chan-tay-bi-thuong-tam-thoi/",
+   "title": "Đi lại bằng xe máy khi chân hoặc tay bị thương tạm thời"
+  },
+  {
+   "id": "BLG-00173",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-lai-hang-ngay-cho-nguoi-moi-den-ha-noi-lam-viec/",
+   "title": "Đi lại hằng ngày bằng xe máy cho người mới đến Hà Nội làm việc"
+  },
+  {
+   "id": "BLG-00174",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/di-nhom-nhieu-xe-may-giu-lien-lac/",
+   "title": "Đi nhóm nhiều xe máy và cách giữ liên lạc"
+  },
+  {
+   "id": "BLG-00175",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-qua-vong-xuyen-va-nut-giao-lon-o-ha-noi/",
+   "title": "Đi qua vòng xuyến và nút giao lớn ở Hà Nội: hướng dẫn cho người mới"
+  },
+  {
+   "id": "BLG-00176",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/di-tam-dao-bang-xe-may-tu-ha-noi/",
+   "title": "Đi Tam Đảo bằng xe máy từ Hà Nội"
+  },
+  {
+   "id": "BLG-00177",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/di-trang-an-ninh-binh-qua-dem-bang-xe-may/",
+   "title": "Đi Tràng An Ninh Bình qua đêm bằng xe máy"
+  },
+  {
+   "id": "BLG-00178",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/di-vang-ha-noi-nhieu-ngay-trong-ky-thue/",
+   "title": "Đi vắng Hà Nội nhiều ngày trong kỳ thuê xe máy xử lý thế nào"
+  },
+  {
+   "id": "BLG-00179",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-khi-dang-tuc-gian/",
+   "title": "Đi xe khi đang tức giận"
+  },
+  {
+   "id": "BLG-00180",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-ban-dem-muon-o-ha-noi/",
+   "title": "Đi xe máy về muộn ban đêm ở Hà Nội: cách đi an toàn"
+  },
+  {
+   "id": "BLG-00181",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-den-benh-vien-o-ha-noi/",
+   "title": "Đi xe máy đến bệnh viện ở Hà Nội: chuẩn bị để chuyến đi ít căng thẳng"
+  },
+  {
+   "id": "BLG-00182",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/di-xe-may-den-dam-gio-dam-tang-vung-ven-ha-noi/",
+   "title": "Đi xe máy đến đám giỗ, đám tang vùng ven Hà Nội"
+  },
+  {
+   "id": "BLG-00183",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/di-xe-may-don-ca-sinh-giua-dem/",
+   "title": "Đi xe máy đón ca sinh giữa đêm"
+  },
+  {
+   "id": "BLG-00184",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-dot-gion-lanh-ve-dem-ha-noi/",
+   "title": "Đi xe máy đột gió lạnh về đêm Hà Nội"
+  },
+  {
+   "id": "BLG-00185",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-kem-tre-tap-xe-dap-o-khu-dan-cu/",
+   "title": "Đi xe máy kèm trẻ tập xe đạp ở khu dân cư"
+  },
+  {
+   "id": "BLG-00186",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-khi-co-viec-gap-can-den-ngay/",
+   "title": "Đi xe máy khi có việc gấp cần đến ngay"
+  },
+  {
+   "id": "BLG-00187",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/di-xe-may-khi-dang-om-hoac-dung-thuoc-gay-buon-ngu/",
+   "title": "Đi xe máy khi đang ốm hoặc dùng thuốc gây buồn ngủ"
+  },
+  {
+   "id": "BLG-00188",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-khi-gio-lon-va-gio-ngang-o-ha-noi/",
+   "title": "Đi xe máy khi gió lớn và gió ngang ở Hà Nội"
+  },
+  {
+   "id": "BLG-00189",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/di-xe-may-khi-mac-vay-va-trang-phuc-dai-cac-meo-thuc-te/",
+   "title": "Đi xe máy khi mặc váy và trang phục dài: các mẹo thực tế"
+  },
+  {
+   "id": "BLG-00190",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-khi-mat-ngu-vi-con-nho-quay-dem/",
+   "title": "Đi xe máy khi mất ngủ vì con nhỏ quấy đêm"
+  },
+  {
+   "id": "BLG-00191",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-khi-troi-mua-rau-rau-nang/",
+   "title": "Đi xe máy khi trời mưa dầm nhiều ngày"
+  },
+  {
+   "id": "BLG-00192",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-khi-vua-ve-tu-chuyen-bay-dai/",
+   "title": "Đi xe máy khi vừa về từ chuyến bay dài"
+  },
+  {
+   "id": "BLG-00193",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-ngay-mung-1-va-ram-thang/",
+   "title": "Đi xe máy ngày mùng 1 và rằm tháng"
+  },
+  {
+   "id": "BLG-00194",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-ngay-troi-quang-nang-gac/",
+   "title": "Đi xe máy ngày trời quang nắng gắt"
+  },
+  {
+   "id": "BLG-00195",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-nguoc-nang-buoi-sang-chieu-giam-choi-va-giu-an-toan/",
+   "title": "Đi xe máy ngược nắng buổi sáng chiều: giảm chói và giữ an toàn"
+  },
+  {
+   "id": "BLG-00196",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-qua-cho-tam-va-duong-hop-cho-sang-som-o-ha-noi/",
+   "title": "Đi xe máy qua chợ tạm và đường họp chợ sáng sớm ở Hà Nội"
+  },
+  {
+   "id": "BLG-00197",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-qua-gam-cau-va-ham-chui-o-ha-noi/",
+   "title": "Đi xe máy qua gầm cầu và hầm chui ở Hà Nội"
+  },
+  {
+   "id": "BLG-00198",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-ra-ga-va-ben-xe/",
+   "title": "Đi xe máy ra ga tàu và bến xe ở Hà Nội"
+  },
+  {
+   "id": "BLG-00199",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/di-xe-may-tham-gia-hoat-dong-tinh-nguyen/",
+   "title": "Đi xe máy tham gia hoạt động tình nguyện"
+  },
+  {
+   "id": "BLG-00200",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-theo-nhom-ban-be-ky-nang-phoi-hop/",
+   "title": "Đi xe máy theo nhóm bạn bè: kỹ năng phối hợp cần biết"
+  },
+  {
+   "id": "BLG-00201",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-thue-buoi-sang-suong-mu-tam-nhin-thap-can-lam-gi/",
+   "title": "Đi xe máy thuê buổi sáng sương mù: tầm nhìn thấp cần làm gì"
+  },
+  {
+   "id": "BLG-00202",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-thue-qua-khu-vuc-thi-cong-duong-bo-an-toan/",
+   "title": "Đi xe máy thuê qua khu vực thi công đường bộ an toàn"
+  },
+  {
+   "id": "BLG-00203",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-vao-ngo-hem-pho-co-sang-chieu/",
+   "title": "Đi xe máy vào ngõ phố cổ sáng chiều"
+  },
+  {
+   "id": "BLG-00204",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-may-xuyen-quan-qua-cau-long-bien/",
+   "title": "Đi xe máy xuyên quận qua cầu Long Biên"
+  },
+  {
+   "id": "BLG-00205",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-sau-khi-ngoi-lau-o-may-tinh/",
+   "title": "Đi xe sau khi ngồi lâu ở máy tính"
+  },
+  {
+   "id": "BLG-00206",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-thue-khi-troi-tro-lanh-dot-ngot/",
+   "title": "Đi xe máy thuê khi trời trở lạnh đột ngột ở Hà Nội"
+  },
+  {
+   "id": "BLG-00207",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-thue-qua-duong-ngap-nuoc-sau-mua/",
+   "title": "Đi xe máy thuê qua đường ngập nước sau mưa"
+  },
+  {
+   "id": "BLG-00208",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/di-xe-tim-phong-tro-moi/",
+   "title": "Đi xe máy xem phòng trọ mới"
+  },
+  {
+   "id": "BLG-00209",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dien-thoai-het-pin-khi-dang-dinh-vi/",
+   "title": "Điện thoại hết pin khi đang định vị trên xe máy"
+  },
+  {
+   "id": "BLG-00210",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dien-thoai-roi-xuong-duong-giua-chuyen-di/",
+   "title": "Điện thoại rơi xuống đường giữa chuyến đi"
+  },
+  {
+   "id": "BLG-00211",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dien-thoai-tren-xe-may-gia-do-sac-va-thoi-quen-an-toan/",
+   "title": "Điện thoại trên xe máy: giá đỡ, sạc và thói quen an toàn"
+  },
+  {
+   "id": "BLG-00212",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dieu-chinh-thoi-gian-thue-giua-ky/",
+   "title": "Thay đổi thời gian thuê giữa kỳ: rút ngắn, kéo dài và đổi gói giá"
+  },
+  {
+   "id": "BLG-00213",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dieu-kien-do-tuoi-khi-thue-va-lai-xe-may/",
+   "title": "Điều kiện độ tuổi khi thuê và điều khiển xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00214",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dinh-huong-o-ha-noi-bang-moc-lon-song-cau-va-vanh-dai/",
+   "title": "Định hướng ở Hà Nội bằng mốc lớn: sông, cầu và các vành đai"
+  },
+  {
+   "id": "BLG-00215",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/do-xe-duoi-cay-lau-ngay-nhua-cay-phan-chim/",
+   "title": "Đỗ xe máy dưới cây lâu ngày: nhựa cây, phân chim và các vết ố"
+  },
+  {
+   "id": "BLG-00216",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/do-xe-gan-khu-vuc-thi-cong/",
+   "title": "Gửi xe máy gần khu vực thi công: chọn chỗ và bảo vệ chiếc xe thuê"
+  },
+  {
+   "id": "BLG-00217",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/do-xe-roi-di-bo-phan-cuoi/",
+   "title": "Để xe rồi đi bộ phần cuối: khi nào đáng làm"
+  },
+  {
+   "id": "BLG-00218",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/do-xe-tren-duong-doc/",
+   "title": "Đỗ xe trên đường dốc an toàn"
+  },
+  {
+   "id": "BLG-00219",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/doan-ruoc-le-hoi-tren-duong-va-cach-xu-ly/",
+   "title": "Gặp đoàn rước lễ hội trên đường khi đi xe máy: xử lý thế nào"
+  },
+  {
+   "id": "BLG-00220",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/doc-dau-hieu-lop-xe-may-mon-khi-nao-can-bao-cua-hang-thue/",
+   "title": "Đọc dấu hiệu lốp xe máy mòn: khi nào cần báo cửa hàng thuê"
+  },
+  {
+   "id": "BLG-00221",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/doc-hieu-dieu-khoan-hop-dong-thue-xe/",
+   "title": "Đọc hiểu điều khoản hợp đồng thuê xe máy: những câu cần làm rõ"
+  },
+  {
+   "id": "BLG-00222",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/doc-mat-duong-tranh-o-ga-va-do-vat-roi/",
+   "title": "Đọc mặt đường né ổ gà và vật rơi khi đi xe máy"
+  },
+  {
+   "id": "BLG-00223",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/doi-be-trap-dam-cuoi-sang-song-voi-xe-may/",
+   "title": "Đội bê tráp đám cưới sáng sớm với xe máy"
+  },
+  {
+   "id": "BLG-00224",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/doi-dia-diem-tra-xe-giua-ky-thue/",
+   "title": "Đổi địa điểm trả xe giữa kỳ thuê: thương lượng sao cho gọn"
+  },
+  {
+   "id": "BLG-00225",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/doi-noi-lam-viec-giua-ky-thue-xe-may/",
+   "title": "Đổi nơi làm việc giữa kỳ thuê xe máy: giữ di chuyển liền mạch"
+  },
+  {
+   "id": "BLG-00226",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/doi-so-dien-thoai-giua-ky-thue/",
+   "title": "Đổi số điện thoại giữa kỳ thuê xe máy nên làm gì"
+  },
+  {
+   "id": "BLG-00229",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/don-phong-tro-bang-xe-may/",
+   "title": "Dọn phòng trọ bằng xe máy sao cho ít chuyến"
+  },
+  {
+   "id": "BLG-00230",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dong-ho-bao-xang-sai-tren-xe-ga-cu/",
+   "title": "Đồng hồ báo xăng sai trên xe ga cũ"
+  },
+  {
+   "id": "BLG-00231",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/du-lich-ha-noi-mot-tuan-bang-xe-may/",
+   "title": "Lịch trình khám phá Hà Nội một tuần bằng xe máy thuê"
+  },
+  {
+   "id": "BLG-00232",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dua-don-con-hai-chieu-truong-xa-bang-xe-thue/",
+   "title": "Đưa đón con trường xa bằng xe thuê tháng"
+  },
+  {
+   "id": "BLG-00233",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dua-nguoi-nha-xuat-vien-bang-xe-may/",
+   "title": "Đưa người nhà xuất viện bằng xe máy"
+  },
+  {
+   "id": "BLG-00234",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dung-ban-do-an-toan-tren-xe-may/",
+   "title": "Dùng bản đồ và chỉ đường an toàn khi chạy xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00235",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dung-coi-xe-may-khi-nao/",
+   "title": "Dùng còi xe máy như thế nào cho đúng lúc"
+  },
+  {
+   "id": "BLG-00236",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dung-den-do-chon-vi-tri/",
+   "title": "Dừng đèn đỏ và chọn vị trí đứng đợi an toàn"
+  },
+  {
+   "id": "BLG-00237",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dung-tich-cop-xe-va-kha-nang-chua-do/",
+   "title": "Dung tích cốp xe máy thuê và khả năng chứa đồ hằng ngày"
+  },
+  {
+   "id": "BLG-00238",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dung-xe-chup-anh-an-toan/",
+   "title": "Dừng xe chụp ảnh an toàn trên đường"
+  },
+  {
+   "id": "BLG-00239",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/dung-xe-dung-vach-trang-do-xe-keo-dai/",
+   "title": "Dừng xe đúng vạch trắng và đỗ xe kéo dài"
+  },
+  {
+   "id": "BLG-00240",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/dung-xe-thue-cho-cong-viec-linh-hoat/",
+   "title": "Dùng xe thuê cho công việc linh hoạt: ship hàng, đi nhiều điểm, lịch trình thay đổi"
+  },
+  {
+   "id": "BLG-00241",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/duong-be-tong-re-xu-khi-di-vung-ven/",
+   "title": "Đường bê tông rêu xanh khi đi vùng ven"
+  },
+  {
+   "id": "BLG-00242",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/duong-bi-dong-tam-va-duong-tranh-khi-di-xe-may-o-ha-noi/",
+   "title": "Đường bị đóng tạm và đường tránh khi đi xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00243",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/duong-mot-chieu-va-cam-re-o-pho-dong/",
+   "title": "Đường một chiều và cấm rẽ ở phố đông Hà Nội"
+  },
+  {
+   "id": "BLG-00244",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/duong-tron-sau-mua-o-ga-va-vet-dau/",
+   "title": "Đường trơn sau mưa ở Hà Nội: ổ gà, vệt dầu và cách giữ bánh xe"
+  },
+  {
+   "id": "BLG-00245",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/duong-vang-mat-dien-dem-toi/",
+   "title": "Đường vắng và mất điện sáng đèn về đêm"
+  },
+  {
+   "id": "BLG-00246",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gan-phu-kien-them-len-xe-thue-nen-hay-khong/",
+   "title": "Gắn phụ kiện thêm lên xe thuê: điều nào nên làm, điều nào phải hỏi"
+  },
+  {
+   "id": "BLG-00247",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ghi-chep-hanh-trinh-de-toi-uu-tuyen-di/",
+   "title": "Ghi chép hành trình để tối ưu tuyến đi"
+  },
+  {
+   "id": "BLG-00248",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/ghi-gio-nhan-xe-va-tra-xe-thoi-quen-nho/",
+   "title": "Ghi giờ nhận xe và trả xe: thói quen nhỏ tránh tranh luận lớn"
+  },
+  {
+   "id": "BLG-00249",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gia-han-thue-xe-may-o-ha-noi/",
+   "title": "Gia hạn thuê xe máy giữa kỳ: cách làm đúng để không phát sinh rắc rối"
+  },
+  {
+   "id": "BLG-00250",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giai-quyet-tranh-chap-hu-hong-khi-tra-xe-thue/",
+   "title": "Tranh chấp hư hỏng khi trả xe thuê: quy trình giải quyết bình tĩnh và minh bạch"
+  },
+  {
+   "id": "BLG-00251",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/giao-nhan-xe-ngay-mua/",
+   "title": "Giao nhận xe máy vào ngày mưa cần lưu ý gì"
+  },
+  {
+   "id": "BLG-00252",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giao-xe-cho-nguoi-than-di-tinh-lau-dai/",
+   "title": "Giao xe cho người thân đi tỉnh lâu dài"
+  },
+  {
+   "id": "BLG-00253",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giay-dep-khi-di-xe-may-thuc-te/",
+   "title": "Giày dép khi đi xe máy: lựa chọn thực tế cho các chuyến đi Hà Nội"
+  },
+  {
+   "id": "BLG-00254",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giay-to-can-mang-khi-di-xe-may-thuong-ngay/",
+   "title": "Giấy tờ cần mang khi đi xe máy thường ngày"
+  },
+  {
+   "id": "BLG-00255",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giay-to-dinh-danh-dien-tu-khi-di-xe-thue/",
+   "title": "Giấy tờ định danh điện tử khi đi xe thuê"
+  },
+  {
+   "id": "BLG-00256",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gio-chang-vang-tam-nhin-kho-khi-di-xe-may/",
+   "title": "Giờ chạng vạng ở Hà Nội: đi xe máy khi tầm nhìn bị đánh lừa"
+  },
+  {
+   "id": "BLG-00257",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/giu-bang-chung-thanh-toan-khi-thue-xe/",
+   "title": "Giữ bằng chứng thanh toán khi thuê xe máy"
+  },
+  {
+   "id": "BLG-00258",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giu-chia-khoa-xe-thue-kho-va-an-toan/",
+   "title": "Giữ chìa khóa xe máy thuê khô ráo và an toàn suốt kỳ thuê"
+  },
+  {
+   "id": "BLG-00259",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/giu-do-cong-so-sach-se-gon-gang-khi-di-lam-bang-xe-may/",
+   "title": "Giữ đồ công sở sạch sẽ gọn gàng khi đi làm bằng xe máy"
+  },
+  {
+   "id": "BLG-00260",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giu-khoang-cach-voi-xe-tai-xe-container/",
+   "title": "Giữ khoảng cách với xe tải và xe container khi đi xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00261",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/giu-tai-san-ca-nhan-an-toan-khi-di-xe-may/",
+   "title": "Giữ an toàn tài sản cá nhân khi di chuyển bằng xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00262",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/go-giam-toc-va-barie-ngo/",
+   "title": "Gờ giảm tốc và barrier: phanh và tư thế đúng"
+  },
+  {
+   "id": "BLG-00263",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gom-chuyen-di-de-giam-quang-duong-moi-ngay/",
+   "title": "Gộp chuyến đi để giảm quãng đường mỗi ngày"
+  },
+  {
+   "id": "BLG-00264",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-ban-dem-va-an-toan-xe-thue/",
+   "title": "Gửi xe ban đêm và giữ an toàn cho xe máy thuê"
+  },
+  {
+   "id": "BLG-00265",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-dai-han-o-noi-o-va-noi-lam-viec/",
+   "title": "Gửi xe dài hạn ở nơi ở và nơi làm việc khi thuê xe máy theo tháng"
+  },
+  {
+   "id": "BLG-00266",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-o-ben-xe-khi-di-xe-khach-ve-que/",
+   "title": "Gửi xe ở bến xe khi đi xe khách về quê"
+  },
+  {
+   "id": "BLG-00267",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-o-cho-doc-va-via-he-hep-chon-vi-tri-nao/",
+   "title": "Gửi xe máy thuê ở nơi dốc và vỉa hè hẹp nên chọn vị trí nào"
+  },
+  {
+   "id": "BLG-00268",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/gui-xe-o-diem-tham-quan-quanh-ha-noi/",
+   "title": "Gửi xe ở các điểm tham quan quanh Hà Nội: kinh nghiệm thực tế"
+  },
+  {
+   "id": "BLG-00269",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-o-trung-tam-thuong-mai/",
+   "title": "Gửi xe ở trung tâm thương mại và ghi nhớ vị trí xe"
+  },
+  {
+   "id": "BLG-00270",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-tam-khi-vao-lam-viec-lat-vat/",
+   "title": "Gửi xe tạm khi vào làm việc lặt vặt: chợ, ngân hàng, tiệm thuốc"
+  },
+  {
+   "id": "BLG-00271",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-thue-tai-chung-cu-va-toa-nha-van-phong/",
+   "title": "Gửi xe máy thuê tại chung cư và tòa nhà văn phòng: thủ tục, thẻ từ và các quy định"
+  },
+  {
+   "id": "BLG-00272",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/gui-xe-trong-ham-toa-nha-doc-ham-va-cua-hep-can-luu-y/",
+   "title": "Gửi xe trong hầm tòa nhà: dốc hầm và cua hẹp cần lưu ý"
+  },
+  {
+   "id": "BLG-00273",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/guong-chieu-hau-bi-long-giua-ky-thue/",
+   "title": "Gương chiếu hậu xe máy thuê bị lỏng giữa kỳ: xử lý tạm và cách báo cửa hàng"
+  },
+  {
+   "id": "BLG-00274",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/hai-nguoi-dung-chung-mot-xe-thue-trong-nha/",
+   "title": "Hai người dùng chung một chiếc xe thuê trong nhà: sắp xếp thế nào cho thuận"
+  },
+  {
+   "id": "BLG-00275",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/het-xang-va-do-nham-loai-xang-khi-di-xe-thue/",
+   "title": "Hết xăng giữa đường và lỗi đổ nhầm loại xăng khi đi xe thuê"
+  },
+  {
+   "id": "BLG-00276",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/hieu-lam-pho-bien-ve-thue-xe-may-ha-noi/",
+   "title": "Những hiểu lầm phổ biến về thuê xe máy ở Hà Nội"
+  },
+  {
+   "id": "BLG-00277",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/ho-quan-son-mot-ngay-di-xe-may/",
+   "title": "Hồ Quan Sơn một ngày đi xe máy"
+  },
+  {
+   "id": "BLG-00278",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ho-so-ban-giao-va-phan-loai-tray-xuoc/",
+   "title": "Hồ sơ bàn giao xe thuê: ghi nhận trầy xước và tình trạng xe"
+  },
+  {
+   "id": "BLG-00279",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ho-so-hoa-don-khi-thue-xe-cho-cong-viec/",
+   "title": "Hồ sơ và hóa đơn khi thuê xe máy cho công việc"
+  },
+  {
+   "id": "BLG-00280",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/hop-dong-thue-xe-may-can-co-nhung-gi/",
+   "title": "Hợp đồng thuê xe máy ở Hà Nội nên có những gì"
+  },
+  {
+   "id": "BLG-00281",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ket-hop-tau-dien-va-xe-may-thue-khi-di-lam-o-ha-noi/",
+   "title": "Kết hợp tàu điện và xe máy thuê khi đi làm ở Hà Nội"
+  },
+  {
+   "id": "BLG-00282",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/kham-pha-lang-co-duong-lam-bang-xe-may/",
+   "title": "Khám phá làng cổ Đường Lâm bằng xe máy"
+  },
+  {
+   "id": "BLG-00283",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/khi-nao-chon-xe-dien-thay-xe-xang/",
+   "title": "Khi nào nên chọn xe điện thay vì xe xăng khi thuê ở Hà Nội"
+  },
+  {
+   "id": "BLG-00284",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/khi-nao-thuyet-phu-cha-me-giao-lai-xe/",
+   "title": "Khi nào nên nói chuyện để cha mẹ bớt tự lái xe"
+  },
+  {
+   "id": "BLG-00285",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/khi-xe-thue-ton-nhien-lieu-bat-thuong/",
+   "title": "Khi xe thuê tốn nhiên liệu bất thường"
+  },
+  {
+   "id": "BLG-00286",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/khoa-co-hoa-dien-bi-ket-giua-ky-thue/",
+   "title": "Khóa cổ hoặc khóa điện bị kẹt giữa kỳ thuê"
+  },
+  {
+   "id": "BLG-00287",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/khong-de-xe-no-may-khi-cho-lau/",
+   "title": "Không để xe nổ máy khi chờ lâu: thói quen nhỏ nhiều lợi ích"
+  },
+  {
+   "id": "BLG-00288",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/khong-phu-thuoc-mot-ung-dung-ban-do/",
+   "title": "Không phụ thuộc vào một ứng dụng bản đồ khi đi xe máy"
+  },
+  {
+   "id": "BLG-00289",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/khung-ke-hoach-thue-xe-dai-han-nhieu-thang/",
+   "title": "Khung kế hoạch thuê xe máy dài hạn nhiều tháng"
+  },
+  {
+   "id": "BLG-00290",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/kiem-tra-ga-de-may-coi-va-xi-nhan-khi-nhan-xe-thue/",
+   "title": "Kiểm tra ga, đề máy, còi và xi nhan khi nhận xe máy thuê"
+  },
+  {
+   "id": "BLG-00291",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/kiem-tra-xe-sau-khi-bi-nguoi-khac-dich-chuyen/",
+   "title": "Kiểm tra xe sau khi bị người khác di chuyển khi vắng mặt"
+  },
+  {
+   "id": "BLG-00292",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/kinh-mu-bao-hiem-bi-mo-suong-khi-di-xe-may/",
+   "title": "Kính mũ bảo hiểm bị mờ sương khi đi xe máy: cách xử lý và phòng tránh"
+  },
+  {
+   "id": "BLG-00293",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/kinh-mu-bao-hiem-tray-loe-sang-khi-chay-dem/",
+   "title": "Kính mũ bảo hiểm trầy, loe sáng khi chạy đêm"
+  },
+  {
+   "id": "BLG-00294",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ky-nang-day-va-di-chuyen-xe-may-khong-no/",
+   "title": "Kỹ năng đẩy và di chuyển xe máy không nổ máy khi đi thuê xe"
+  },
+  {
+   "id": "BLG-00295",
+   "status": "EXISTING",
+   "canonical_path": "/du lịch/2026/09/19/ky-nang-di-xe-tren-duong-de-va-duong-ven-song/",
+   "title": "Kỹ năng đi xe máy trên đường đê và đường ven sông Hà Nội"
+  },
+  {
+   "id": "BLG-00296",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ky-nang-phanh-gap-an-toan-tren-xe-may/",
+   "title": "Kỹ năng phanh gấp an toàn trên xe máy"
+  },
+  {
+   "id": "BLG-00297",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ky-nang-qua-cau-o-ha-noi-khi-di-xe-may-thue/",
+   "title": "Kỹ năng qua cầu ở Hà Nội khi đi xe máy thuê"
+  },
+  {
+   "id": "BLG-00298",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ky-nang-vao-ngo-hep-va-ra-vao-cong-nha/",
+   "title": "Kỹ năng vào ngõ hẹp và ra vào cổng nhà bằng xe máy"
+  },
+  {
+   "id": "BLG-00299",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/ky-thue-xe-bi-gian-doan-dot-xuat-om-cong-tac-viec-gia-dinh/",
+   "title": "Kỳ thuê xe bị gián đoạn đột xuất: ốm, công tác, việc gia đình"
+  },
+  {
+   "id": "BLG-00300",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/lai-lai-xe-sau-nhieu-nam-khong-lai/",
+   "title": "Lái lại xe máy sau nhiều năm không lái cần làm gì"
+  },
+  {
+   "id": "BLG-00301",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/lam-cha-lan-dau-di-xe-can-ky-hon/",
+   "title": "Làm cha lần đầu: đi xe cẩn kỹ hơn"
+  },
+  {
+   "id": "BLG-00302",
+   "status": "EXISTING",
+   "canonical_path": "/chia sẻ/2026/09/19/lam-giao-hang-bang-xe-may-thue/",
+   "title": "Làm giao hàng bằng xe máy thuê nên chuẩn bị gì"
+  },
+  {
+   "id": "BLG-00303",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/lam-quen-xe-con-tay-thue-lan-dau/",
+   "title": "Làm quen xe côn tay thuê lần đầu"
+  },
+  {
+   "id": "BLG-00304",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/lam-quen-xe-dap-dien-thue/",
+   "title": "Làm quen với xe đạp điện thuê lần đầu"
+  },
+  {
+   "id": "BLG-00305",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/lam-quen-xe-may-dien-lan-dau/",
+   "title": "Làm quen xe máy điện lần đầu nên biết gì"
+  },
+  {
+   "id": "BLG-00306",
+   "status": "EXISTING",
+   "canonical_path": "/kinh nghiệm/2026/09/19/lan-xe-buyt-va-cac-lan-cam-nhan-biet-the-nao/",
+   "title": "Làn xe buýt, làn khẩn cấp và các làn cấm: người đi xe máy cần nhận biết thế nào"
+  }
+ ],
+ "excluded_ids_inside_span": [
+  {
+   "id": "BLG-00005",
+   "status": "REVIEW",
+   "title": "An toàn khi chạy xe đường trường: kỹ năng và nguyên tắc khi rời khỏi phố"
+  },
+  {
+   "id": "BLG-00017",
+   "status": "REVIEW",
+   "title": "Đi xe máy ở Hà Nội mùa đông: giữ ấm và an toàn khi trời lạnh"
+  },
+  {
+   "id": "BLG-00018",
+   "status": "REVIEW",
+   "title": "Đi xe máy ở Hà Nội ngày mưa: chuẩn bị và kỹ thuật giữ an toàn"
+  },
+  {
+   "id": "BLG-00053",
+   "status": "REVIEW",
+   "title": "An toàn khi chạy xe máy ở Hà Nội: tổng quan cho người thuê xe"
+  },
+  {
+   "id": "BLG-00227",
+   "status": "REVIEW",
+   "title": "Đổi xe giữa kỳ thuê khi có việc đổi"
+  },
+  {
+   "id": "BLG-00228",
+   "status": "REVIEW",
+   "title": "Đổi xe giữa kỳ thuê ở Hà Nội: khi nào cần và cách làm đúng"
+  }
+ ],
+ "alternative_sample_factory_published": [
+  {
+   "id": "BLG-00484",
+   "canonical_path": "/thue-xe/2026/09/27/bang-gia-thue-xe-may-tai-ha-noi-theo-loai-xe/"
+  },
+  {
+   "id": "BLG-00485",
+   "canonical_path": "/thue-xe/2026/09/27/nhung-yeu-to-lam-gia-thue-xe-may-thay-oi/"
+  },
+  {
+   "id": "BLG-00486",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-may-theo-ngay-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00487",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-may-theo-tuan-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00488",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-may-theo-thang-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00489",
+   "canonical_path": "/thue-xe/2026/09/27/so-sanh-gia-thue-xe-so-va-xe-tay-ga/"
+  },
+  {
+   "id": "BLG-00490",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-50cc-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00491",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-may-ien-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00492",
+   "canonical_path": "/thue-xe/2026/09/27/phi-phat-sinh-khi-thue-xe-may-can-biet-truoc/"
+  },
+  {
+   "id": "BLG-00493",
+   "canonical_path": "/thue-xe/2026/09/27/cach-so-sanh-bao-gia-thue-xe-giua-cac-cua-hang/"
+  },
+  {
+   "id": "BLG-00494",
+   "canonical_path": "/thue-xe/2026/09/27/cach-dung-may-tinh-gia-thue-xe-may/"
+  },
+  {
+   "id": "BLG-00495",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-co-thay-oi-khong/"
+  },
+  {
+   "id": "BLG-00496",
+   "canonical_path": "/thue-xe/2026/09/27/du-toan-chi-phi-thue-xe-may-cho-chuyen-3-ngay-2-em/"
+  },
+  {
+   "id": "BLG-00497",
+   "canonical_path": "/thue-xe/2026/09/27/gia-thue-xe-may-dip-le-tet-thuong-thay-oi-the-nao/"
+  },
+  {
+   "id": "BLG-00498",
+   "canonical_path": "/thue-xe/2026/09/27/cach-oc-bao-gia-thue-xe-may-con-so-nao-la-con-so-that/"
+  },
+  {
+   "id": "BLG-00499",
+   "canonical_path": "/thue-xe/2026/09/27/thu-tuc-thue-xe-may-o-ha-noi-cho-nguoi-lan-au/"
+  },
+  {
+   "id": "BLG-00500",
+   "canonical_path": "/thue-xe/2026/09/27/giay-to-can-mang-khi-i-thue-xe-may/"
+  },
+  {
+   "id": "BLG-00501",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-may-can-hop-ong-khong/"
+  },
+  {
+   "id": "BLG-00502",
+   "canonical_path": "/thue-xe/2026/09/27/at-xe-may-truoc-qua-ien-thoai-hoac-zalo/"
+  },
+  {
+   "id": "BLG-00503",
+   "canonical_path": "/thue-xe/2026/09/27/nhan-xe-tai-cua-hang-hay-giao-xe-tan-noi/"
+  },
+  {
+   "id": "BLG-00504",
+   "canonical_path": "/thue-xe/2026/09/27/kiem-tra-xe-truoc-khi-ky-nhan/"
+  },
+  {
+   "id": "BLG-00505",
+   "canonical_path": "/thue-xe/2026/09/27/tra-xe-ung-quy-trinh-e-tranh-tranh-chap/"
+  },
+  {
+   "id": "BLG-00506",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-may-cho-nguoi-nuoc-ngoai-thu-tuc-rieng/"
+  },
+  {
+   "id": "BLG-00508",
+   "canonical_path": "/thue-xe/2026/09/27/bao-luu-va-oi-lich-nhan-xe/"
+  },
+  {
+   "id": "BLG-00509",
+   "canonical_path": "/thue-xe/2026/09/27/nhung-cau-nen-hoi-cua-hang-truoc-khi-thue/"
+  },
+  {
+   "id": "BLG-00510",
+   "canonical_path": "/thue-xe/2026/09/27/chuan-bi-giay-to-gi-truoc-khi-en-cua-hang-thue-xe/"
+  },
+  {
+   "id": "BLG-00511",
+   "canonical_path": "/thue-xe/2026/09/27/quy-trinh-at-xe-truoc-qua-ien-thoai-chot-truoc-ieu-gi/"
+  },
+  {
+   "id": "BLG-00512",
+   "canonical_path": "/thue-xe/2026/09/27/nen-thu-xe-nhu-the-nao-khi-nhan-xe-may-thue/"
+  },
+  {
+   "id": "BLG-00513",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-may-theo-ngay-hop-ong-voi-ai/"
+  },
+  {
+   "id": "BLG-00514",
+   "canonical_path": "/thue-xe/2026/09/27/thoi-gian-tinh-mot-ngay-thue-xe-tinh-tu-khi-nao/"
+  },
+  {
+   "id": "BLG-00515",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-theo-ngay-nen-nhan-xe-buoi-nao-tien/"
+  },
+  {
+   "id": "BLG-00516",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-may-mot-ngay-i-uoc-bao-nhieu-km/"
+  },
+  {
+   "id": "BLG-00517",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-theo-ngay-ket-hop-gui-xe-quanh-thanh-pho/"
+  },
+  {
+   "id": "BLG-00518",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-may-theo-tuan-phu-hop-nhu-cau-nao/"
+  },
+  {
+   "id": "BLG-00519",
+   "canonical_path": "/thue-xe/2026/09/27/thue-theo-tuan-khac-gi-thue-theo-ngay/"
+  },
+  {
+   "id": "BLG-00520",
+   "canonical_path": "/thue-xe/2026/09/27/cham-xe-trong-suot-tuan-thue/"
+  },
+  {
+   "id": "BLG-00521",
+   "canonical_path": "/thue-xe/2026/09/27/ke-hoach-chuyen-i-7-ngay-quanh-ha-noi-bang-xe-may/"
+  },
+  {
+   "id": "BLG-00522",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-may-theo-thang-cho-nguoi-song-va-lam-viec-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00523",
+   "canonical_path": "/thue-xe/2026/09/27/chi-phi-thue-xe-thang-so-voi-mua-xe-cu/"
+  },
+  {
+   "id": "BLG-00524",
+   "canonical_path": "/thue-xe/2026/09/27/nghia-vu-khi-thue-xe-nhieu-thang/"
+  },
+  {
+   "id": "BLG-00525",
+   "canonical_path": "/thue-xe/2026/09/27/gia-han-hop-ong-thue-xe-theo-thang/"
+  },
+  {
+   "id": "BLG-00526",
+   "canonical_path": "/thue-xe/2026/09/27/thue-xe-thang-cho-khach-nuoc-ngoai-song-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00527",
+   "canonical_path": "/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-hoat-ong-the-nao/"
+  },
+  {
+   "id": "BLG-00528",
+   "canonical_path": "/thue-xe/2026/09/27/giu-giay-to-thay-at-coc-nen-hay-khong/"
+  },
+  {
+   "id": "BLG-00529",
+   "canonical_path": "/thue-xe/2026/09/27/ieu-kien-nhan-lai-tien-coc-u/"
+  },
+  {
+   "id": "BLG-00530",
+   "canonical_path": "/thue-xe/2026/09/27/tranh-chap-ve-coc-nen-xu-ly-the-nao/"
+  },
+  {
+   "id": "BLG-00531",
+   "canonical_path": "/thue-xe/2026/09/27/at-coc-bang-chuyen-khoan-hay-tien-mat/"
+  },
+  {
+   "id": "BLG-00532",
+   "canonical_path": "/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/"
+  },
+  {
+   "id": "BLG-00533",
+   "canonical_path": "/thue-xe/2026/09/27/nhan-lai-tien-coc-khi-tra-xe-ieu-kien-thuong-gap/"
+  },
+  {
+   "id": "BLG-00534",
+   "canonical_path": "/thue-xe/2026/09/27/nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi/"
+  },
+  {
+   "id": "BLG-00535",
+   "canonical_path": "/thue-xe/2026/09/27/giay-phep-lai-xe-quoc-te-va-giay-phep-cong-nhan-tai-viet-nam/"
+  },
+  {
+   "id": "BLG-00536",
+   "canonical_path": "/thue-xe/2026/09/27/khach-quoc-te-oc-bien-bao-va-luat-giao-thong-co-ban/"
+  },
+  {
+   "id": "BLG-00537",
+   "canonical_path": "/thue-xe/2026/09/27/mu-bao-hiem-cho-nguoi-thue-xe-quoc-te/"
+  },
+  {
+   "id": "BLG-00538",
+   "canonical_path": "/thue-xe/2026/09/27/i-xe-may-tu-ha-noi-ra-noi-bai-hoac-cac-tinh-lan-can/"
+  },
+  {
+   "id": "BLG-00539",
+   "canonical_path": "/thue-xe/2026/09/27/khach-quoc-te-thue-xe-may-o-ha-noi-can-giay-to-gi/"
+  },
+  {
+   "id": "BLG-00540",
+   "canonical_path": "/thue-xe/2026/09/27/international-driving-permit-o-viet-nam-khach-quoc-te-can-biet-gi/"
+  },
+  {
+   "id": "BLG-00541",
+   "canonical_path": "/thue-xe/2026/09/27/khach-quoc-te-nen-thue-xe-so-hay-xe-ga-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00542",
+   "canonical_path": "/thue-xe/2026/09/27/giao-tiep-voi-cua-hang-khi-khong-noi-tieng-viet/"
+  },
+  {
+   "id": "BLG-00543",
+   "canonical_path": "/thue-xe/2026/09/27/nen-nhan-xe-luc-nao-va-kiem-tra-nhung-gi/"
+  },
+  {
+   "id": "BLG-00544",
+   "canonical_path": "/thue-xe/2026/09/27/tra-xe-viec-can-lam-30-phut-cuoi/"
+  },
+  {
+   "id": "BLG-00545",
+   "canonical_path": "/thue-xe/2026/09/27/xang-khi-nhan-va-khi-tra-xe-xu-ly-the-nao/"
+  },
+  {
+   "id": "BLG-00546",
+   "canonical_path": "/thue-xe/2026/09/27/ghi-hinh-xe-khi-nhan-va-tra-e-lam-bang-chung/"
+  },
+  {
+   "id": "BLG-00547",
+   "canonical_path": "/thue-xe/2026/09/27/bien-ban-giao-nhan-xe-chua-nhung-gi/"
+  },
+  {
+   "id": "BLG-00548",
+   "canonical_path": "/thue-xe/2026/09/27/checklist-nhan-xe-may-thue-kiem-tra-gi-truoc-khi-roi-cua-hang/"
+  },
+  {
+   "id": "BLG-00549",
+   "canonical_path": "/thue-xe/2026/09/27/tra-xe-thue-som-hon-du-kien-hoi-truoc-ieu-gi/"
+  },
+  {
+   "id": "BLG-00550",
+   "canonical_path": "/thue-xe/2026/09/27/chup-lai-tinh-trang-xe-khi-nhan-va-khi-tra/"
+  },
+  {
+   "id": "BLG-00551",
+   "canonical_path": "/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/"
+  },
+  {
+   "id": "BLG-00552",
+   "canonical_path": "/thue-xe/2026/09/27/xe-thue-bi-mat-trinh-tu-bao-va-trach-nhiem/"
+  },
+  {
+   "id": "BLG-00553",
+   "canonical_path": "/thue-xe/2026/09/27/xe-thue-bi-tai-nan-cac-buoc-ngay-sau-va-cham/"
+  },
+  {
+   "id": "BLG-00554",
+   "canonical_path": "/thue-xe/2026/09/27/xe-thue-bi-csgt-giu-thu-tuc-lay-lai/"
+  },
+  {
+   "id": "BLG-00555",
+   "canonical_path": "/thue-xe/2026/09/27/hong-nhe-do-su-dung-thong-thuong-ai-chiu/"
+  },
+  {
+   "id": "BLG-00556",
+   "canonical_path": "/thue-xe/2026/09/27/nho-cuu-ho-xe-may-thue-o-ha-noi/"
+  },
+  {
+   "id": "BLG-00557",
+   "canonical_path": "/thue-xe/2026/09/27/xe-thue-hong-giua-chuyen-i-trach-nhiem-thuoc-ve-ai/"
+  },
+  {
+   "id": "BLG-00558",
+   "canonical_path": "/thue-xe/2026/09/27/tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay/"
+  },
+  {
+   "id": "BLG-00559",
+   "canonical_path": "/thue-xe/2026/09/27/xe-thue-bi-mat-trom-trinh-tu-can-lam/"
+  },
+  {
+   "id": "BLG-00560",
+   "canonical_path": "/xe-may/2026/09/27/xe-so-la-gi-va-ai-nen-thue/"
+  },
+  {
+   "id": "BLG-00561",
+   "canonical_path": "/xe-may/2026/09/27/ky-thuat-len-xuong-so-xe-may-so/"
+  },
+  {
+   "id": "BLG-00562",
+   "canonical_path": "/xe-may/2026/09/27/xe-so-i-uong-eo-doc-co-on-khong/"
+  },
+  {
+   "id": "BLG-00563",
+   "canonical_path": "/xe-may/2026/09/27/xe-so-tiet-kiem-xang-the-nao/"
+  },
+  {
+   "id": "BLG-00564",
+   "canonical_path": "/xe-may/2026/09/27/nguoi-moi-lai-xe-may-nen-tap-voi-xe-so-khong/"
+  },
+  {
+   "id": "BLG-00565",
+   "canonical_path": "/xe-may/2026/09/27/ai-nen-thue-xe-so-va-vi-sao/"
+  },
+  {
+   "id": "BLG-00566",
+   "canonical_path": "/xe-may/2026/09/27/xe-tay-ga-phu-hop-voi-ai-khi-thue/"
+  },
+  {
+   "id": "BLG-00567",
+   "canonical_path": "/xe-may/2026/09/27/lai-xe-ga-trong-pho-ong-meo-giu-an-toan/"
+  },
+  {
+   "id": "BLG-00568",
+   "canonical_path": "/xe-may/2026/09/27/khoang-e-o-duoi-yen-xe-ga-cho-uoc-gi/"
+  },
+  {
+   "id": "BLG-00569",
+   "canonical_path": "/xe-may/2026/09/27/xe-ga-va-xe-so-tren-uong-truong-khac-biet-ra-sao/"
+  },
+  {
+   "id": "BLG-00570",
+   "canonical_path": "/xe-may/2026/09/27/xe-ga-cho-nu-gioi-i-lai-hang-ngay/"
+  },
+  {
+   "id": "BLG-00571",
+   "canonical_path": "/xe-may/2026/09/27/xe-50cc-la-gi-va-i-uoc-nhung-au/"
+  },
+  {
+   "id": "BLG-00572",
+   "canonical_path": "/xe-may/2026/09/27/co-can-bang-lai-khi-i-xe-50cc-khong/"
+  },
+  {
+   "id": "BLG-00573",
+   "canonical_path": "/xe-may/2026/09/27/xe-50cc-voi-nguoi-chua-tung-lai-xe/"
+  },
+  {
+   "id": "BLG-00574",
+   "canonical_path": "/xe-may/2026/09/27/o-an-toan-cua-xe-50cc-trong-pho-ha-noi/"
+  },
+  {
+   "id": "BLG-00575",
+   "canonical_path": "/xe-may/2026/09/27/thue-xe-50cc-khi-chua-co-bang-luu-y-phap-ly/"
+  },
+  {
+   "id": "BLG-00576",
+   "canonical_path": "/xe-may/2026/09/27/thue-xe-may-ien-o-ha-noi-can-biet-gi/"
+  },
+  {
+   "id": "BLG-00577",
+   "canonical_path": "/xe-may/2026/09/27/quang-uong-mot-lan-sac-cua-xe-may-ien/"
+  },
+  {
+   "id": "BLG-00578",
+   "canonical_path": "/xe-may/2026/09/27/sac-xe-may-ien-khi-thue-o-au-va-mat-bao-lau/"
+  },
+  {
+   "id": "BLG-00579",
+   "canonical_path": "/xe-may/2026/09/27/xe-may-ien-voi-xe-xang-chon-nao-khi-thue/"
+  },
+  {
+   "id": "BLG-00580",
+   "canonical_path": "/xe-may/2026/09/27/chi-phi-van-hanh-xe-may-ien-so-voi-xe-xang/"
+  },
+  {
+   "id": "BLG-00581",
+   "canonical_path": "/xe-may/2026/09/27/thue-xe-ien-trong-noi-o-ha-noi-nhung-ieu-can-biet/"
+  },
+  {
+   "id": "BLG-00582",
+   "canonical_path": "/xe-may/2026/09/27/xe-ap-ien-khac-gi-xe-may-ien/"
+  },
+  {
+   "id": "BLG-00583",
+   "canonical_path": "/xe-may/2026/09/27/xe-ap-ien-co-can-bang-lai-khong/"
+  },
+  {
+   "id": "BLG-00584",
+   "canonical_path": "/xe-may/2026/09/27/thue-xe-ap-ien-i-quanh-pho-co-va-ho-guom/"
+  },
+  {
+   "id": "BLG-00585",
+   "canonical_path": "/xe-may/2026/09/27/xe-ap-ien-cho-hoc-sinh-sinh-vien/"
+  },
+  {
+   "id": "BLG-00586",
+   "canonical_path": "/xe-may/2026/09/27/honda-wave-hop-voi-nhu-cau-thue-nao/"
+  },
+  {
+   "id": "BLG-00587",
+   "canonical_path": "/xe-may/2026/09/27/honda-wave-cho-hanh-trinh-dai-ngay/"
+  },
+  {
+   "id": "BLG-00588",
+   "canonical_path": "/xe-may/2026/09/27/iem-manh-ben-bi-cua-honda-wave-khi-thue-dai-han/"
+  },
+  {
+   "id": "BLG-00589",
+   "canonical_path": "/xe-may/2026/09/27/khoi-ong-va-khac-phuc-may-honda-wave-mua-lanh/"
+  },
+  {
+   "id": "BLG-00590",
+   "canonical_path": "/xe-may/2026/09/27/thue-honda-wave-cho-nguoi-moi-vi-sao-hay-uoc-chon/"
+  },
+  {
+   "id": "BLG-00591",
+   "canonical_path": "/xe-may/2026/09/27/honda-vision-hop-voi-ai-khi-thue/"
+  },
+  {
+   "id": "BLG-00592",
+   "canonical_path": "/xe-may/2026/09/27/honda-vision-i-pho-nhe-va-tien-the-nao/"
+  },
+  {
+   "id": "BLG-00593",
+   "canonical_path": "/xe-may/2026/09/27/honda-vision-voi-nu-gioi-i-lam-hang-ngay/"
+  },
+  {
+   "id": "BLG-00594",
+   "canonical_path": "/xe-may/2026/09/27/khoang-o-cua-honda-vision-chua-uoc-gi/"
+  },
+  {
+   "id": "BLG-00595",
+   "canonical_path": "/xe-may/2026/09/27/thue-honda-vision-i-lam-noi-o-trai-nghiem-thuc-te/"
+  },
+  {
+   "id": "BLG-00596",
+   "canonical_path": "/xe-may/2026/09/27/honda-air-blade-khac-gi-xe-ga-pho-thong/"
+  },
+  {
+   "id": "BLG-00597",
+   "canonical_path": "/xe-may/2026/09/27/honda-air-blade-cho-nguoi-thich-chay-khoe/"
+  },
+  {
+   "id": "BLG-00598",
+   "canonical_path": "/xe-may/2026/09/27/air-blade-i-cap-voi-chuyen-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00599",
+   "canonical_path": "/xe-may/2026/09/27/thue-honda-air-blade-chay-uong-truong-co-ang-khong/"
+  },
+  {
+   "id": "BLG-00600",
+   "canonical_path": "/xe-may/2026/09/27/honda-click-gon-nhe-hop-ai/"
+  },
+  {
+   "id": "BLG-00601",
+   "canonical_path": "/xe-may/2026/09/27/honda-click-trong-pho-co-nho-hep/"
+  },
+  {
+   "id": "BLG-00602",
+   "canonical_path": "/xe-may/2026/09/27/so-sanh-honda-click-va-yamaha-mio-khi-thue/"
+  },
+  {
+   "id": "BLG-00603",
+   "canonical_path": "/xe-may/2026/09/27/yamaha-sirius-khi-nao-ang-thue/"
+  },
+  {
+   "id": "BLG-00604",
+   "canonical_path": "/xe-may/2026/09/27/yamaha-sirius-voi-honda-wave-chon-nao/"
+  },
+  {
+   "id": "BLG-00605",
+   "canonical_path": "/xe-may/2026/09/27/sirius-cho-chang-uong-truong-quang-ngan/"
+  },
+  {
+   "id": "BLG-00606",
+   "canonical_path": "/xe-may/2026/09/27/thue-yamaha-sirius-dai-han-xe-so-ben-cho-nguoi-i-lam/"
+  },
+  {
+   "id": "BLG-00607",
+   "canonical_path": "/xe-may/2026/09/27/bao-duong-inh-ky-xe-may-gom-nhung-gi/"
+  },
+  {
+   "id": "BLG-00608",
+   "canonical_path": "/xe-may/2026/09/27/lop-xe-may-khi-nao-can-thay/"
+  },
+  {
+   "id": "BLG-00609",
+   "canonical_path": "/xe-may/2026/09/27/dau-may-xe-may-oi-sau-bao-lau/"
+  },
+  {
+   "id": "BLG-00610",
+   "canonical_path": "/xe-may/2026/09/27/o-kim-va-xich-xe-may-cang-ung-cach/"
+  },
+  {
+   "id": "BLG-00611",
+   "canonical_path": "/xe-may/2026/09/27/ac-quy-xe-may-yeu-dau-hieu-va-xu-ly/"
+  },
+  {
+   "id": "BLG-00612",
+   "canonical_path": "/xe-may/2026/09/27/phanh-xe-may-ia-va-bo-kiem-tra-the-nao/"
+  },
+  {
+   "id": "BLG-00613",
+   "canonical_path": "/xe-may/2026/09/27/en-xe-may-mo-va-cach-khac-phuc/"
+  },
+  {
+   "id": "BLG-00614",
+   "canonical_path": "/an-toan-phap-ly/2026/09/27/cac-hang-bang-lai-xe-may-tai-viet-nam/"
+  },
+  {
+   "id": "BLG-00615",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/thi-bang-lai-a1-quy-trinh-hien-hanh/"
+  },
+  {
+   "id": "BLG-00616",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/oi-bang-lai-khi-giay-het-han/"
+  },
+  {
+   "id": "BLG-00617",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/i-xe-may-khong-bang-lai-bi-xu-ly-the-nao/"
+  },
+  {
+   "id": "BLG-00618",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bang-lai-uoc-cap-o-nuoc-ngoai-dung-uoc-khong/"
+  },
+  {
+   "id": "BLG-00619",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/sat-hach-ly-thuyet-a1-nhung-cau-hay-gap/"
+  },
+  {
+   "id": "BLG-00620",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/mat-bang-lai-xe-may-xin-cap-lai-the-nao/"
+  },
+  {
+   "id": "BLG-00621",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bang-lai-a1-ieu-khien-xe-may-pham-vi-nao/"
+  },
+  {
+   "id": "BLG-00622",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/oi-bang-lai-nuoc-ngoai-sang-bang-viet-nam-huong-dan-co-ban/"
+  },
+  {
+   "id": "BLG-00623",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bao-hiem-trach-nhiem-dan-su-xe-may-la-gi/"
+  },
+  {
+   "id": "BLG-00624",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/mua-bao-hiem-xe-may-o-au-va-hieu-luc-ra-sao/"
+  },
+  {
+   "id": "BLG-00625",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/khong-co-bao-hiem-xe-may-bi-phat-the-nao/"
+  },
+  {
+   "id": "BLG-00626",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bao-hiem-tu-nguyen-cho-xe-may-co-ang-khong/"
+  },
+  {
+   "id": "BLG-00627",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/tai-nan-xay-ra-voi-xe-thue-bao-hiem-chi-tra-phan-nao/"
+  },
+  {
+   "id": "BLG-00628",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bao-hiem-trach-nhiem-dan-su-voi-xe-may-khach-thue-can-biet-gi/"
+  },
+  {
+   "id": "BLG-00629",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/quy-inh-nong-o-con-khi-lai-xe-hien-hanh/"
+  },
+  {
+   "id": "BLG-00630",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/muc-phat-nong-o-con-xe-may-moi-nhat/"
+  },
+  {
+   "id": "BLG-00631",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bia-ruou-chieu-nao-hom-sau-con-bi-phat-hien/"
+  },
+  {
+   "id": "BLG-00632",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/trinh-chu-xe-thue-khi-bi-xu-ly-nong-o-con/"
+  },
+  {
+   "id": "BLG-00633",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/o-nong-o-con-quyen-va-trinh-tu/"
+  },
+  {
+   "id": "BLG-00634",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-khi-i-xe-may-chuan-nao/"
+  },
+  {
+   "id": "BLG-00635",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/phat-nguoi-la-gi-va-xe-may-co-bi-khong/"
+  },
+  {
+   "id": "BLG-00636",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/tra-cuu-phat-nguoi-bang-cach-nao/"
+  },
+  {
+   "id": "BLG-00637",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/nhan-thong-bao-phat-nguoi-cua-xe-thue-xu-ly-the-nao/"
+  },
+  {
+   "id": "BLG-00638",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/nop-phat-nguoi-tre-co-bi-cong-them-khong/"
+  },
+  {
+   "id": "BLG-00639",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/phat-nguoi-loi-nao-thuong-gap-voi-xe-may/"
+  },
+  {
+   "id": "BLG-00640",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/khong-mang-bang-lai-khi-ang-i-xe-co-bi-xu-ly-khong/"
+  },
+  {
+   "id": "BLG-00641",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bien-bao-cam-xe-may-thuong-gap/"
+  },
+  {
+   "id": "BLG-00642",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bien-bao-hieu-lenh-can-tuan-thu-khi-i-xe/"
+  },
+  {
+   "id": "BLG-00643",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bien-chi-dan-va-bien-phu-hieu-the-nao/"
+  },
+  {
+   "id": "BLG-00644",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bien-bao-nguy-hiem-tren-uong-truong/"
+  },
+  {
+   "id": "BLG-00645",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/vach-ke-uong-xe-may-phai-i-the-nao/"
+  },
+  {
+   "id": "BLG-00646",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/bien-bao-khu-vuc-pho-i-bo/"
+  },
+  {
+   "id": "BLG-00647",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/giay-to-bat-buoc-mang-theo-khi-lai-xe-may/"
+  },
+  {
+   "id": "BLG-00648",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/ca-vat-xe-va-ang-ky-xe-khac-nhau-the-nao/"
+  },
+  {
+   "id": "BLG-00649",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/tem-kiem-inh-xe-may-con-hieu-luc-ra-sao/"
+  },
+  {
+   "id": "BLG-00650",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/thieu-giay-to-xe-may-bi-xu-ly-ra-sao/"
+  },
+  {
+   "id": "BLG-00651",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/giay-to-xe-thue-can-co-mat-khi-bi-kiem-tra/"
+  },
+  {
+   "id": "BLG-00652",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/quy-inh-moi-ve-xe-may-can-biet/"
+  },
+  {
+   "id": "BLG-00653",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/mu-bao-hiem-at-chuan-va-quy-inh-oi-mu/"
+  },
+  {
+   "id": "BLG-00654",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/xe-may-co-uoc-vao-cao-toc-khong/"
+  },
+  {
+   "id": "BLG-00655",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/cho-nguoi-tren-xe-may-quy-inh-hien-hanh/"
+  },
+  {
+   "id": "BLG-00656",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/en-tin-hieu-va-coi-xe-may-theo-quy-inh/"
+  },
+  {
+   "id": "BLG-00657",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/xe-may-ien-va-quy-inh-quan-ly-phuong-tien/"
+  },
+  {
+   "id": "BLG-00658",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/nghi-inh-xu-phat-vi-pham-giao-thong-xe-may/"
+  },
+  {
+   "id": "BLG-00659",
+   "canonical_path": "/an-toan-phap-ly/2026/09/28/nong-o-con-khi-lai-xe-may-quy-inh-hien-hanh-can-nguon-chinh-thong/"
+  },
+  {
+   "id": "BLG-00660",
+   "canonical_path": "/du-lich/2026/09/28/en-van-mieu-quoc-tu-giam-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00661",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-van-mieu-quoc-tu-giam-nua-ngay/"
+  },
+  {
+   "id": "BLG-00662",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-van-mieu-quoc-tu-giam/"
+  },
+  {
+   "id": "BLG-00663",
+   "canonical_path": "/du-lich/2026/09/28/en-hoang-thanh-thang-long-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00664",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-hoang-thanh-thang-long-nua-ngay/"
+  },
+  {
+   "id": "BLG-00665",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-hoang-thanh-thang-long/"
+  },
+  {
+   "id": "BLG-00666",
+   "canonical_path": "/du-lich/2026/09/28/en-chua-mot-cot-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00667",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-chua-mot-cot-nua-ngay/"
+  },
+  {
+   "id": "BLG-00668",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-chua-mot-cot/"
+  },
+  {
+   "id": "BLG-00669",
+   "canonical_path": "/du-lich/2026/09/28/en-bao-tang-dan-toc-hoc-viet-nam-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00670",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-bao-tang-dan-toc-hoc-viet-nam-nua-ngay/"
+  },
+  {
+   "id": "BLG-00671",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-bao-tang-dan-toc-hoc-viet-nam/"
+  },
+  {
+   "id": "BLG-00672",
+   "canonical_path": "/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00673",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-cau-long-bien-nua-ngay/"
+  },
+  {
+   "id": "BLG-00674",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-cau-long-bien/"
+  },
+  {
+   "id": "BLG-00675",
+   "canonical_path": "/du-lich/2026/09/28/en-lang-gom-bat-trang-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00676",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-lang-gom-bat-trang-nua-ngay/"
+  },
+  {
+   "id": "BLG-00677",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-lang-gom-bat-trang/"
+  },
+  {
+   "id": "BLG-00678",
+   "canonical_path": "/du-lich/2026/09/28/en-am-sen-tay-ho-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00679",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-am-sen-tay-ho-nua-ngay/"
+  },
+  {
+   "id": "BLG-00680",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-am-sen-tay-ho/"
+  },
+  {
+   "id": "BLG-00681",
+   "canonical_path": "/du-lich/2026/09/28/en-cong-vien-thu-le-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00682",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-cong-vien-thu-le-nua-ngay/"
+  },
+  {
+   "id": "BLG-00683",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-cong-vien-thu-le/"
+  },
+  {
+   "id": "BLG-00684",
+   "canonical_path": "/du-lich/2026/09/28/en-k9-va-uong-ho-chi-minh-tai-ba-vi-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00685",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-k9-va-uong-ho-chi-minh-tai-ba-vi-nua-ngay/"
+  },
+  {
+   "id": "BLG-00686",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-k9-va-uong-ho-chi-minh-tai-ba-vi/"
+  },
+  {
+   "id": "BLG-00687",
+   "canonical_path": "/du-lich/2026/09/28/en-chua-tran-quoc-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00688",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-chua-tran-quoc-nua-ngay/"
+  },
+  {
+   "id": "BLG-00689",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-chua-tran-quoc/"
+  },
+  {
+   "id": "BLG-00690",
+   "canonical_path": "/du-lich/2026/09/28/en-lang-hoa-nhat-tan-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00691",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-lang-hoa-nhat-tan-nua-ngay/"
+  },
+  {
+   "id": "BLG-00692",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-lang-hoa-nhat-tan/"
+  },
+  {
+   "id": "BLG-00693",
+   "canonical_path": "/du-lich/2026/09/28/en-khu-ho-guom-va-thap-rua-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00694",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-khu-ho-guom-va-thap-rua-nua-ngay/"
+  },
+  {
+   "id": "BLG-00695",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-khu-ho-guom-va-thap-rua/"
+  },
+  {
+   "id": "BLG-00696",
+   "canonical_path": "/du-lich/2026/09/28/en-vuon-hoa-hung-vuong-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00697",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-vuon-hoa-hung-vuong-nua-ngay/"
+  },
+  {
+   "id": "BLG-00698",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-vuon-hoa-hung-vuong/"
+  },
+  {
+   "id": "BLG-00699",
+   "canonical_path": "/du-lich/2026/09/28/en-bai-song-hong-trong-noi-o-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00700",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-bai-song-hong-trong-noi-o-nua-ngay/"
+  },
+  {
+   "id": "BLG-00701",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-bai-song-hong-trong-noi-o/"
+  },
+  {
+   "id": "BLG-00702",
+   "canonical_path": "/du-lich/2026/09/28/en-vuon-quoc-gia-ba-vi-bang-xe-may-gui-xe-va-uong-i/"
+  },
+  {
+   "id": "BLG-00703",
+   "canonical_path": "/du-lich/2026/09/28/kinh-nghiem-ghe-tham-vuon-quoc-gia-ba-vi-nua-ngay/"
+  },
+  {
+   "id": "BLG-00704",
+   "canonical_path": "/du-lich/2026/09/28/nhung-luu-y-khi-chay-xe-quanh-vuon-quoc-gia-ba-vi/"
+  },
+  {
+   "id": "BLG-00705",
+   "canonical_path": "/du-lich/2026/09/28/lich-trinh-nua-ngay-i-ha-noi-bang-xe-may-chon-lo-trinh-theo-gio/"
+  },
+  {
+   "id": "BLG-00706",
+   "canonical_path": "/du-lich/2026/09/28/am-thuc-ha-noi-theo-cung-uong-xe-may-i-au-an-gi/"
+  },
+  {
+   "id": "BLG-00707",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-lich-su-quoc-gia-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00708",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-lich-su-quoc-gia-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00709",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-phu-nu-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00710",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-phu-nu-viet-nam-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00711",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-my-thuat-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00712",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-my-thuat-viet-nam-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00713",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-khong-khi-khong-gian-sao-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00714",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-khong-khi-khong-gian-sao-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00715",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-quan-y-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00716",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-quan-y-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00717",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-ha-noi-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00718",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-ha-noi-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00719",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-con-roi-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00720",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-con-roi-viet-nam-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00721",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-uong-sat-viet-nam-bang-xe-may-gui-xe-va-gio-mo-cua/"
+  },
+  {
+   "id": "BLG-00722",
+   "canonical_path": "/du-lich/2026/09/28/trai-nghiem-bao-tang-uong-sat-viet-nam-nen-i-cung-ai-va-luc-nao/"
+  },
+  {
+   "id": "BLG-00723",
+   "canonical_path": "/du-lich/2026/09/28/ghe-bao-tang-ha-noi-bang-xe-may-giu-xe-o-au/"
+  },
+  {
+   "id": "BLG-00724",
+   "canonical_path": "/du-lich/2026/09/28/chay-xe-may-trong-pho-co-gio-nao-nen-tranh/"
+  },
+  {
+   "id": "BLG-00725",
+   "canonical_path": "/du-lich/2026/09/28/gui-xe-quanh-ho-guom-gia-va-vi-tri/"
+  },
+  {
+   "id": "BLG-00726",
+   "canonical_path": "/du-lich/2026/09/28/pho-i-bo-cuoi-tuan-va-xe-may-e-au/"
+  },
+  {
+   "id": "BLG-00727",
+   "canonical_path": "/du-lich/2026/09/28/uong-36-pho-phuong-chay-xe-kieu-gi/"
+  },
+  {
+   "id": "BLG-00728",
+   "canonical_path": "/du-lich/2026/09/28/an-uong-quanh-pho-co-e-xe-o-au/"
+  },
+  {
+   "id": "BLG-00729",
+   "canonical_path": "/du-lich/2026/09/28/chup-anh-pho-co-voi-xe-may-ep-o-au/"
+  },
+  {
+   "id": "BLG-00730",
+   "canonical_path": "/du-lich/2026/09/28/lai-xe-trong-pho-co-gio-cam-can-biet-gi-truoc-khi-i/"
+  },
+  {
+   "id": "BLG-00731",
+   "canonical_path": "/du-lich/2026/09/28/chay-vong-ho-tay-cung-uong-va-iem-dung/"
+  },
+  {
+   "id": "BLG-00732",
+   "canonical_path": "/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/"
+  },
+  {
+   "id": "BLG-00733",
+   "canonical_path": "/du-lich/2026/09/28/quan-nghe-va-iem-dung-chan-quanh-ho-tay-chay-xe-ghe/"
+  },
+  {
+   "id": "BLG-00734",
+   "canonical_path": "/du-lich/2026/09/28/uong-nguyen-hoang-va-khu-tribeca-chay-xe-buoi-toi/"
+  },
+  {
+   "id": "BLG-00735",
+   "canonical_path": "/du-lich/2026/09/28/tu-ho-tay-vao-pho-co-mat-bao-lau-bang-xe-may/"
+  },
+  {
+   "id": "BLG-00736",
+   "canonical_path": "/du-lich/2026/09/28/cung-uong-chay-quanh-ho-tay-iem-dung-va-cho-gui-xe/"
+  },
+  {
+   "id": "BLG-00737",
+   "canonical_path": "/du-lich/2026/09/28/long-bien-chay-xe-may-nhung-cung-uong-ang-thu/"
+  },
+  {
+   "id": "BLG-00738",
+   "canonical_path": "/du-lich/2026/09/28/cho-em-long-bien-va-cho-e-xe/"
+  },
+  {
+   "id": "BLG-00739",
+   "canonical_path": "/du-lich/2026/09/28/tu-long-bien-chay-ra-khu-ven-song-hong/"
+  },
+  {
+   "id": "BLG-00740",
+   "canonical_path": "/du-lich/2026/09/28/gia-lam-va-cac-lang-nghe-gan-o-chay-xe-nua-ngay/"
+  },
+  {
+   "id": "BLG-00741",
+   "canonical_path": "/du-lich/2026/09/28/thue-xe-o-long-bien-i-vao-noi-o-thuan-tien-the-nao/"
+  },
+  {
+   "id": "BLG-00742",
+   "canonical_path": "/du-lich/2026/09/28/cau-long-bien-va-uong-ven-song-trai-nghiem-i-xe-may/"
+  },
+  {
+   "id": "BLG-00743",
+   "canonical_path": "/du-lich/2026/09/28/ba-vi-nua-ngay-bang-xe-may-tu-ha-noi/"
+  },
+  {
+   "id": "BLG-00744",
+   "canonical_path": "/du-lich/2026/09/28/uong-ve-son-tay-va-uong-lang-uoc-mo/"
+  },
+  {
+   "id": "BLG-00745",
+   "canonical_path": "/du-lich/2026/09/28/ong-mo-va-ho-suoi-hai-chay-xe-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00746",
+   "canonical_path": "/du-lich/2026/09/28/lang-van-hoa-cac-dan-toc-va-vuon-quoc-gia-ba-vi/"
+  },
+  {
+   "id": "BLG-00747",
+   "canonical_path": "/du-lich/2026/09/28/soc-son-va-ho-ong-o-chay-xe-tranh-xa-pho/"
+  },
+  {
+   "id": "BLG-00748",
+   "canonical_path": "/du-lich/2026/09/28/uong-e-song-hong-chay-xe-ngoai-thanh/"
+  },
+  {
+   "id": "BLG-00749",
+   "canonical_path": "/du-lich/2026/09/28/i-xe-may-ra-ngoai-thanh-ha-noi-cuoi-tuan-chon-huong-nao/"
+  },
+  {
+   "id": "BLG-00750",
+   "canonical_path": "/cung-duong/2026/09/28/cung-uong-chay-xe-vong-trung-tam-ha-noi-sang-som/"
+  },
+  {
+   "id": "BLG-00751",
+   "canonical_path": "/cung-duong/2026/09/28/cung-vong-ho-guom-ho-tay-mot-buoi-chieu/"
+  },
+  {
+   "id": "BLG-00752",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-doc-song-hong-noi-o/"
+  },
+  {
+   "id": "BLG-00753",
+   "canonical_path": "/cung-duong/2026/09/28/cung-qua-cau-long-bien-va-quan-ha-ong/"
+  },
+  {
+   "id": "BLG-00754",
+   "canonical_path": "/cung-duong/2026/09/28/cung-noi-thanh-cho-nguoi-moi-chay-lan-au/"
+  },
+  {
+   "id": "BLG-00755",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-tam-coc-bich-ong-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00756",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-tam-coc-bich-ong/"
+  },
+  {
+   "id": "BLG-00757",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-chua-huong-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00758",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-chua-huong/"
+  },
+  {
+   "id": "BLG-00759",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-trang-an-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00760",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-trang-an/"
+  },
+  {
+   "id": "BLG-00761",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-cuc-phuong-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00762",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-cuc-phuong/"
+  },
+  {
+   "id": "BLG-00763",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-ho-luc-quan-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00764",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-ho-luc-quan/"
+  },
+  {
+   "id": "BLG-00765",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-khu-du-lich-ong-mo-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00766",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-khu-du-lich-ong-mo/"
+  },
+  {
+   "id": "BLG-00767",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-tu-ha-noi-en-ao-com-va-bai-truoc-song-ay-cuoi-tuan/"
+  },
+  {
+   "id": "BLG-00768",
+   "canonical_path": "/cung-duong/2026/09/28/iem-nghi-chan-tren-uong-en-ao-com-va-bai-truoc-song-ay/"
+  },
+  {
+   "id": "BLG-00769",
+   "canonical_path": "/cung-duong/2026/09/28/ha-noi-i-tam-coc-trang-an-bang-xe-may-cung-uong-va-thoi-gian/"
+  },
+  {
+   "id": "BLG-00770",
+   "canonical_path": "/cung-duong/2026/09/28/ha-noi-i-tam-ao-bang-xe-may-len-doc-can-chuan-bi-gi/"
+  },
+  {
+   "id": "BLG-00771",
+   "canonical_path": "/cung-duong/2026/09/28/chua-huong-bang-xe-may-tu-ha-noi-chuan-bi-truoc-khi-i/"
+  },
+  {
+   "id": "BLG-00772",
+   "canonical_path": "/cung-duong/2026/09/28/ha-noi-i-ba-vi-cuoi-tuan-bang-xe-may/"
+  },
+  {
+   "id": "BLG-00773",
+   "canonical_path": "/cung-duong/2026/09/28/uong-lam-tu-ha-noi-bang-xe-may/"
+  },
+  {
+   "id": "BLG-00774",
+   "canonical_path": "/cung-duong/2026/09/28/cung-ha-noi-mai-chau-qua-cao-toc-hoa-binh/"
+  },
+  {
+   "id": "BLG-00775",
+   "canonical_path": "/cung-duong/2026/09/28/thang-muoi-va-ban-lac-mai-chau-nen-i-luc-nao/"
+  },
+  {
+   "id": "BLG-00776",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-may-qua-eo-thung-khe-an-toan-the-nao/"
+  },
+  {
+   "id": "BLG-00777",
+   "canonical_path": "/cung-duong/2026/09/28/nghi-o-mai-chau-khi-i-bang-xe-may/"
+  },
+  {
+   "id": "BLG-00778",
+   "canonical_path": "/cung-duong/2026/09/28/ha-noi-i-mai-chau-bang-xe-may-chuan-bi-cung-uong/"
+  },
+  {
+   "id": "BLG-00779",
+   "canonical_path": "/cung-duong/2026/09/28/cung-ha-noi-moc-chau-qua-quoc-lo-6/"
+  },
+  {
+   "id": "BLG-00780",
+   "canonical_path": "/cung-duong/2026/09/28/moc-chau-mua-hoa-man-trang-i-thang-may/"
+  },
+  {
+   "id": "BLG-00781",
+   "canonical_path": "/cung-duong/2026/09/28/oi-che-moc-chau-va-canh-ong-nghien/"
+  },
+  {
+   "id": "BLG-00782",
+   "canonical_path": "/cung-duong/2026/09/28/chay-xe-may-moc-chau-trong-2-ngay/"
+  },
+  {
+   "id": "BLG-00783",
+   "canonical_path": "/cung-duong/2026/09/28/eo-doc-tren-uong-moc-chau-va-cach-vao-so/"
+  },
+  {
+   "id": "BLG-00784",
+   "canonical_path": "/cung-duong/2026/09/28/ha-noi-i-moc-chau-bang-xe-may-mua-hoa-len-uong-luc-nao/"
+  }
+ ]
+}

@@ -1,0 +1,4435 @@
+[
+ {
+  "page_id": "PG-HOME",
+  "page_type": "Homepage",
+  "layout": "home",
+  "source": "index.md",
+  "canonical_path": "/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/",
+  "in_live_sitemap": true,
+  "title": "",
+  "description": "",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "home"
+  },
+  "source_words": 0,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "none",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY",
+  "page_type": "Hub",
+  "layout": "hub",
+  "source": "an-toan-phap-ly.md",
+  "canonical_path": "/an-toan-phap-ly/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/",
+  "in_live_sitemap": true,
+  "title": "An toàn & pháp lý - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Giấy phép lái xe, bảo hiểm, nồng độ cồn, phạt nguội, biển báo và quy định giao thông khi điều khiển xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly"
+  },
+  "source_words": 53,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG",
+  "page_type": "Hub",
+  "layout": "hub",
+  "source": "cung-duong.md",
+  "canonical_path": "/cung-duong/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/",
+  "in_live_sitemap": true,
+  "title": "Cung đường & hành trình - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Lộ trình và cung đường phượt từ Hà Nội: nội thành, cuối tuần, Mai Châu, Mộc Châu, Hà Giang và các tỉnh phía Bắc.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong"
+  },
+  "source_words": 43,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP",
+  "page_type": "Hub",
+  "layout": "hub",
+  "source": "hoi-dap.md",
+  "canonical_path": "/hoi-dap/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp thuê xe máy - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Giải đáp nhanh mọi câu hỏi về giá thuê, thủ tục, pháp lý, chọn xe, sự cố và người mới thuê xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap"
+  },
+  "source_words": 35,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG",
+  "page_type": "Hub",
+  "layout": "hub",
+  "source": "ky-nang.md",
+  "canonical_path": "/ky-nang/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/",
+  "in_live_sitemap": true,
+  "title": "Kỹ năng & tình huống - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Kỹ năng lái xe máy, xử lý tình huống giao thông, thời tiết xấu, chở đồ, gửi xe và giữ sức khỏe khi di chuyển.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang"
+  },
+  "source_words": 46,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE",
+  "page_type": "Hub",
+  "layout": "hub",
+  "source": "thue-xe.md",
+  "canonical_path": "/thue-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe máy Hà Nội - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Tất tần tật về thuê xe máy ở Hà Nội: giá, thủ tục, đặt cọc, thuê ngày/tuần/tháng, nhận trả xe và xử lý sự cố.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe"
+  },
+  "source_words": 54,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY",
+  "page_type": "Hub",
+  "layout": "hub",
+  "source": "xe-may.md",
+  "canonical_path": "/xe-may/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/",
+  "in_live_sitemap": true,
+  "title": "Xe máy & dòng xe - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Kiến thức về các dòng xe cho thuê: xe số, xe ga, xe 50cc, xe điện và các mẫu Honda Wave, Vision, Air Blade, Click, Yamaha Sirius.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may"
+  },
+  "source_words": 44,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CHIA-SE",
+  "page_type": "Category",
+  "layout": "category",
+  "source": "chia-se.md",
+  "canonical_path": "/chia-se/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/chia-se/",
+  "in_live_sitemap": true,
+  "title": "Chia sẻ - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Chia sẻ kinh nghiệm thực tế về sử dụng xe máy tại Hà Nội: đi lại hàng ngày, đổ xăng, gửi xe, chạy xe buổi tối và lưu ý an toàn.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "sharing",
+   "category": "Chia se"
+  },
+  "source_words": 1475,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Chia sẻ về sử dụng xe máy tại Hà Nội",
+    "line": 6
+   },
+   {
+    "level": 2,
+    "text": "Bài viết chia sẻ",
+    "line": 10
+   },
+   {
+    "level": 2,
+    "text": "Xe máy trong đời sống thường ngày ở Hà Nội",
+    "line": 38
+   },
+   {
+    "level": 2,
+    "text": "Đi lại vào giờ cao điểm",
+    "line": 48
+   },
+   {
+    "level": 2,
+    "text": "Đổ xăng và chi phí nhiên liệu",
+    "line": 59
+   },
+   {
+    "level": 2,
+    "text": "Gửi xe ở Hà Nội",
+    "line": 69
+   },
+   {
+    "level": 2,
+    "text": "Chạy xe buổi tối và khi trời mưa",
+    "line": 77
+   },
+   {
+    "level": 2,
+    "text": "Một vài lưu ý khi sử dụng xe thuê",
+    "line": 87
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 98
+   },
+   {
+    "level": 3,
+    "text": "Thuê xe theo tháng có tiện hơn thuê theo ngày không?",
+    "line": 100
+   },
+   {
+    "level": 3,
+    "text": "Xe thuê có được kiểm tra trước khi nhận không?",
+    "line": 104
+   },
+   {
+    "level": 3,
+    "text": "Nếu xe gặp sự cố giữa đường thì sao?",
+    "line": 108
+   },
+   {
+    "level": 3,
+    "text": "Tôi có thể tự sửa xe trong thời gian thuê không?",
+    "line": 112
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ Nguyễn Tú",
+    "line": 116
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [
+    {
+     "question": "Thuê xe theo tháng có tiện hơn thuê theo ngày không?",
+     "answer_snippet": "Với nhu cầu đi lại thường xuyên trong nhiều tuần, thuê theo tháng thường có mức giá ưu đãi hơn so với cộng dồn từng ngày. Mức giá cụ thể cho từng loại xe được niêm yết tại [bảng giá]({{ '/bang-gia/' | relativeurl }}).",
+     "where": "H3 under \"Câu hỏi thường gặp\" line 100",
+     "form": "heading"
+    },
+    {
+     "question": "Xe thuê có được kiểm tra trước khi nhận không?",
+     "answer_snippet": "Có. Bạn nên tự kiểm tra cùng người giao xe: phanh, đèn, còi, gương, lốp và tình trạng chung của xe.",
+     "where": "H3 under \"Câu hỏi thường gặp\" line 104",
+     "form": "heading"
+    },
+    {
+     "question": "Nếu xe gặp sự cố giữa đường thì sao?",
+     "answer_snippet": "Hãy liên hệ ngay với chúng tôi qua số điện thoại hoặc Zalo để được hướng dẫn. Tùy tình huống, chúng tôi sẽ tư vấn cách xử lý gần nhất; chi phí phát sinh (nếu có) được xác nhận rõ ràng trước khi thực hiện.",
+     "where": "H3 under \"Câu hỏi thường gặp\" line 108",
+     "form": "heading"
+    },
+    {
+     "question": "Tôi có thể tự sửa xe trong thời gian thuê không?",
+     "answer_snippet": "Không nên. Việc tự tháo ráp hoặc sửa chữa có thể làm hỏng thêm và ảnh hưởng đến việc trả xe.",
+     "where": "H3 under \"Câu hỏi thường gặp\" line 112",
+     "form": "heading"
+    }
+   ],
+   "question_headings": [
+    {
+     "level": 3,
+     "text": "Thuê xe theo tháng có tiện hơn thuê theo ngày không?",
+     "line": 100
+    },
+    {
+     "level": 3,
+     "text": "Xe thuê có được kiểm tra trước khi nhận không?",
+     "line": 104
+    },
+    {
+     "level": 3,
+     "text": "Nếu xe gặp sự cố giữa đường thì sao?",
+     "line": 108
+    },
+    {
+     "level": 3,
+     "text": "Tôi có thể tự sửa xe trong thời gian thuê không?",
+     "line": 112
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH",
+  "page_type": "Category",
+  "layout": "category",
+  "source": "du-lich.md",
+  "canonical_path": "/du-lich/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/",
+  "in_live_sitemap": true,
+  "title": "Du lịch - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Cẩm nang du lịch Hà Nội bằng xe máy: gợi ý lộ trình, điểm tham quan và kinh nghiệm di chuyển trong thành phố.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "travel",
+   "category": "Du lich"
+  },
+  "source_words": 1663,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Du lịch Hà Nội bằng xe máy",
+    "line": 6
+   },
+   {
+    "level": 2,
+    "text": "Bài viết du lịch",
+    "line": 12
+   },
+   {
+    "level": 2,
+    "text": "Những khu vực đáng đi trong nội thành",
+    "line": 40
+   },
+   {
+    "level": 3,
+    "text": "Phố Cổ và Hồ Gươm",
+    "line": 42
+   },
+   {
+    "level": 3,
+    "text": "Hồ Tây và đường ven hồ",
+    "line": 46
+   },
+   {
+    "level": 3,
+    "text": "Hoàn Kiếm đến Ba Đình",
+    "line": 50
+   },
+   {
+    "level": 3,
+    "text": "Long Biên và Gia Lâm",
+    "line": 54
+   },
+   {
+    "level": 2,
+    "text": "Chuyến đi ngắn quanh Hà Nội",
+    "line": 58
+   },
+   {
+    "level": 2,
+    "text": "Kinh nghiệm di chuyển trong Hà Nội",
+    "line": 69
+   },
+   {
+    "level": 2,
+    "text": "Lộ trình gợi ý một ngày trong nội thành",
+    "line": 78
+   },
+   {
+    "level": 2,
+    "text": "Ứng phó thời tiết theo mùa",
+    "line": 89
+   },
+   {
+    "level": 2,
+    "text": "An toàn khi đi đêm",
+    "line": 98
+   },
+   {
+    "level": 2,
+    "text": "Nghỉ ngơi và ăn uống trên đường",
+    "line": 102
+   },
+   {
+    "level": 2,
+    "text": "Chuẩn bị cho chuyến đi trên xe máy",
+    "line": 106
+   },
+   {
+    "level": 2,
+    "text": "Thuê xe cho chuyến du lịch",
+    "line": 118
+   },
+   {
+    "level": 2,
+    "text": "Chủ đề con trong Du lịch",
+    "line": 137
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bai-viet/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KINH-NGHIEM",
+  "page_type": "Category",
+  "layout": "category",
+  "source": "kinh-nghiem.md",
+  "canonical_path": "/kinh-nghiem/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/kinh-nghiem/",
+  "in_live_sitemap": true,
+  "title": "Kinh nghiệm - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Kinh nghiệm thuê xe máy tại Hà Nội: chọn xe, giấy tờ, đặt cọc, kiểm tra xe và lưu ý khi di chuyển an toàn.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "experience",
+   "category": "Kinh nghiem"
+  },
+  "source_words": 1537,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Kinh nghiệm thuê xe máy tại Hà Nội",
+    "line": 6
+   },
+   {
+    "level": 2,
+    "text": "Bài viết kinh nghiệm",
+    "line": 10
+   },
+   {
+    "level": 2,
+    "text": "Bước 1: Chọn loại xe phù hợp",
+    "line": 38
+   },
+   {
+    "level": 2,
+    "text": "Bước 2: Chuẩn bị giấy tờ",
+    "line": 48
+   },
+   {
+    "level": 2,
+    "text": "Bước 3: Xác nhận giá và điều kiện thuê",
+    "line": 56
+   },
+   {
+    "level": 2,
+    "text": "Bước 4: Kiểm tra xe trước khi nhận",
+    "line": 68
+   },
+   {
+    "level": 2,
+    "text": "Bước 5: Trong thời gian thuê",
+    "line": 81
+   },
+   {
+    "level": 2,
+    "text": "Bước 6: Trả xe đúng hạn",
+    "line": 92
+   },
+   {
+    "level": 2,
+    "text": "Những điều nên tránh",
+    "line": 101
+   },
+   {
+    "level": 2,
+    "text": "Giao thông Hà Nội: những điều cần biết",
+    "line": 111
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 119
+   },
+   {
+    "level": 4,
+    "text": "Thuê xe máy ở Hà Nội có an toàn không?",
+    "line": 121
+   },
+   {
+    "level": 4,
+    "text": "Tôi cần đặt cọc bao nhiêu?",
+    "line": 125
+   },
+   {
+    "level": 4,
+    "text": "Xe hỏng giữa đường thì sao?",
+    "line": 129
+   },
+   {
+    "level": 4,
+    "text": "Trả xe trễ có bị tính phí không?",
+    "line": 133
+   },
+   {
+    "level": 4,
+    "text": "Có nên thuê xe số hay xe ga khi chưa quen đường?",
+    "line": 137
+   },
+   {
+    "level": 4,
+    "text": "Tôi muốn đổi loại xe sau khi nhận được sao?",
+    "line": 141
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ để thuê xe",
+    "line": 145
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 4,
+     "text": "Thuê xe máy ở Hà Nội có an toàn không?",
+     "line": 121
+    },
+    {
+     "level": 4,
+     "text": "Tôi cần đặt cọc bao nhiêu?",
+     "line": 125
+    },
+    {
+     "level": 4,
+     "text": "Xe hỏng giữa đường thì sao?",
+     "line": 129
+    },
+    {
+     "level": 4,
+     "text": "Trả xe trễ có bị tính phí không?",
+     "line": 133
+    },
+    {
+     "level": 4,
+     "text": "Có nên thuê xe số hay xe ga khi chưa quen đường?",
+     "line": 137
+    },
+    {
+     "level": 4,
+     "text": "Tôi muốn đổi loại xe sau khi nhận được sao?",
+     "line": 141
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bai-viet/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BAI-VIET",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "blog.md",
+  "canonical_path": "/bai-viet/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bai-viet/",
+  "in_live_sitemap": true,
+  "title": "Blog - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Kinh nghiệm thuê xe máy Hà Nội, chọn xe, du lịch, bảng giá và hướng dẫn di chuyển từ Nguyễn Tú.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "blog"
+  },
+  "source_words": 1573,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Blog của Thuê Xe Máy Hà Nội Nguyễn Tú",
+    "line": 6
+   },
+   {
+    "level": 2,
+    "text": "Bài viết mới nhất",
+    "line": 12
+   },
+   {
+    "level": 2,
+    "text": "Chủ đề blog",
+    "line": 32
+   },
+   {
+    "level": 2,
+    "text": "Bạn sẽ tìm thấy gì trong blog?",
+    "line": 52
+   },
+   {
+    "level": 3,
+    "text": "Du lịch",
+    "line": 56
+   },
+   {
+    "level": 3,
+    "text": "Kinh nghiệm",
+    "line": 60
+   },
+   {
+    "level": 3,
+    "text": "Chia sẻ",
+    "line": 64
+   },
+   {
+    "level": 2,
+    "text": "Vì sao nên đọc trước khi thuê xe?",
+    "line": 68
+   },
+   {
+    "level": 2,
+    "text": "Thông tin dịch vụ",
+    "line": 77
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 87
+   },
+   {
+    "level": 4,
+    "text": "Blog có cập nhật bài viết mới không?",
+    "line": 89
+   },
+   {
+    "level": 4,
+    "text": "Tôi có thể sử dụng thông tin trong blog để chuẩn bị chuyến đi không?",
+    "line": 93
+   },
+   {
+    "level": 4,
+    "text": "Tôi có câu hỏi không có trong blog, hỏi ở đâu?",
+    "line": 97
+   },
+   {
+    "level": 4,
+    "text": "Blog có bài so sánh các loại xe không?",
+    "line": 101
+   },
+   {
+    "level": 4,
+    "text": "Thông tin về quy định giao thông có trong blog không?",
+    "line": 105
+   },
+   {
+    "level": 4,
+    "text": "Tôi muốn đề xuất chủ đề bài viết mới thì làm thế nào?",
+    "line": 109
+   },
+   {
+    "level": 2,
+    "text": "Tóm tắt nhanh trước khi thuê xe",
+    "line": 113
+   },
+   {
+    "level": 2,
+    "text": "Cách sử dụng thông tin trong blog",
+    "line": 127
+   },
+   {
+    "level": 2,
+    "text": "Chuẩn bị trước khi đọc và đặt xe",
+    "line": 137
+   },
+   {
+    "level": 2,
+    "text": "Bạn cần thuê xe máy?",
+    "line": 149
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 2,
+     "text": "Bạn sẽ tìm thấy gì trong blog?",
+     "line": 52
+    },
+    {
+     "level": 2,
+     "text": "Vì sao nên đọc trước khi thuê xe?",
+     "line": 68
+    },
+    {
+     "level": 4,
+     "text": "Blog có cập nhật bài viết mới không?",
+     "line": 89
+    },
+    {
+     "level": 4,
+     "text": "Tôi có thể sử dụng thông tin trong blog để chuẩn bị chuyến đi không?",
+     "line": 93
+    },
+    {
+     "level": 4,
+     "text": "Tôi có câu hỏi không có trong blog, hỏi ở đâu?",
+     "line": 97
+    },
+    {
+     "level": 4,
+     "text": "Blog có bài so sánh các loại xe không?",
+     "line": 101
+    },
+    {
+     "level": 4,
+     "text": "Thông tin về quy định giao thông có trong blog không?",
+     "line": 105
+    },
+    {
+     "level": 4,
+     "text": "Tôi muốn đề xuất chủ đề bài viết mới thì làm thế nào?",
+     "line": 109
+    },
+    {
+     "level": 2,
+     "text": "Bạn cần thuê xe máy?",
+     "line": 149
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bang-gia/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BANG-GIA-XE-50CC",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "bang-gia-xe-50cc.md",
+  "canonical_path": "/bang-gia-xe-50cc/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bang-gia-xe-50cc/",
+  "in_live_sitemap": true,
+  "title": "Bảng giá xe 50cc - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Thuê xe 50cc tại Hà Nội: đặc điểm, lưu ý khi lái và cách đặt xe. Liên hệ Nguyễn Tú để biết giá thuê xe 50cc hiện tại.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "xe-50cc"
+  },
+  "source_words": 1474,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Thuê xe 50cc tại Hà Nội",
+    "line": 4
+   },
+   {
+    "level": 2,
+    "text": "Giá thuê xe 50cc",
+    "line": 10
+   },
+   {
+    "level": 2,
+    "text": "Đặc điểm của xe 50cc",
+    "line": 20
+   },
+   {
+    "level": 2,
+    "text": "Ai phù hợp với xe 50cc?",
+    "line": 28
+   },
+   {
+    "level": 2,
+    "text": "Giấy tờ và quy định khi thuê xe 50cc",
+    "line": 37
+   },
+   {
+    "level": 2,
+    "text": "Lưu ý khi lái xe 50cc tại Hà Nội",
+    "line": 50
+   },
+   {
+    "level": 2,
+    "text": "Quy trình thuê xe 50cc",
+    "line": 59
+   },
+   {
+    "level": 2,
+    "text": "So sánh nhanh: xe 50cc, xe ga và xe số",
+    "line": 69
+   },
+   {
+    "level": 2,
+    "text": "Kinh nghiệm lái xe 50cc cho du khách nước ngoài",
+    "line": 77
+   },
+   {
+    "level": 2,
+    "text": "Xe 50cc trong mùa mưa",
+    "line": 88
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 97
+   },
+   {
+    "level": 4,
+    "text": "Xe 50cc có cần giấy phép lái xe không?",
+    "line": 99
+   },
+   {
+    "level": 4,
+    "text": "Xe 50cc chạy được bao nhanh?",
+    "line": 103
+   },
+   {
+    "level": 4,
+    "text": "Giá thuê xe 50cc là bao nhiêu?",
+    "line": 107
+   },
+   {
+    "level": 4,
+    "text": "Tôi có thể thuê xe 50cc đi các tỉnh lân cận không?",
+    "line": 111
+   },
+   {
+    "level": 4,
+    "text": "Xe 50cc có chỗ chứa đồ không?",
+    "line": 115
+   },
+   {
+    "level": 4,
+    "text": "Trời mưa có nên đi xe 50cc không?",
+    "line": 119
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ đặt xe 50cc",
+    "line": 123
+   }
+  ],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 2,
+     "text": "Ai phù hợp với xe 50cc?",
+     "line": 28
+    },
+    {
+     "level": 4,
+     "text": "Xe 50cc có cần giấy phép lái xe không?",
+     "line": 99
+    },
+    {
+     "level": 4,
+     "text": "Xe 50cc chạy được bao nhanh?",
+     "line": 103
+    },
+    {
+     "level": 4,
+     "text": "Giá thuê xe 50cc là bao nhiêu?",
+     "line": 107
+    },
+    {
+     "level": 4,
+     "text": "Tôi có thể thuê xe 50cc đi các tỉnh lân cận không?",
+     "line": 111
+    },
+    {
+     "level": 4,
+     "text": "Xe 50cc có chỗ chứa đồ không?",
+     "line": 115
+    },
+    {
+     "level": 4,
+     "text": "Trời mưa có nên đi xe 50cc không?",
+     "line": 119
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bang-gia/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BANG-GIA-XE-DIEN",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "bang-gia-xe-dien.md",
+  "canonical_path": "/bang-gia-xe-dien/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bang-gia-xe-dien/",
+  "in_live_sitemap": true,
+  "title": "Bảng giá xe điện - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Thuê xe máy điện và xe đạp điện tại Hà Nội: đặc điểm, phạm vi hoạt động và lưu ý khi sạc pin. Liên hệ Nguyễn Tú để biết giá hiện tại.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "xe-dien"
+  },
+  "source_words": 1461,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Thuê xe máy điện tại Hà Nội",
+    "line": 4
+   },
+   {
+    "level": 2,
+    "text": "Giá thuê xe điện",
+    "line": 10
+   },
+   {
+    "level": 2,
+    "text": "Xe máy điện và xe đạp điện khác nhau thế nào?",
+    "line": 21
+   },
+   {
+    "level": 3,
+    "text": "Xe máy điện",
+    "line": 23
+   },
+   {
+    "level": 3,
+    "text": "Xe đạp điện",
+    "line": 30
+   },
+   {
+    "level": 2,
+    "text": "Ưu điểm của xe điện",
+    "line": 37
+   },
+   {
+    "level": 2,
+    "text": "Hạn chế cần cân nhắc",
+    "line": 45
+   },
+   {
+    "level": 2,
+    "text": "Ai phù hợp với xe điện?",
+    "line": 55
+   },
+   {
+    "level": 2,
+    "text": "Lưu ý khi sử dụng xe điện",
+    "line": 62
+   },
+   {
+    "level": 2,
+    "text": "Quy trình thuê xe điện",
+    "line": 71
+   },
+   {
+    "level": 2,
+    "text": "Xe điện phù hợp với hành trình nào?",
+    "line": 81
+   },
+   {
+    "level": 2,
+    "text": "Quy tắc an toàn với pin và sạc",
+    "line": 92
+   },
+   {
+    "level": 2,
+    "text": "Xe điện theo mùa",
+    "line": 102
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 108
+   },
+   {
+    "level": 4,
+    "text": "Xe điện đi được bao xa mỗi lần sạc?",
+    "line": 110
+   },
+   {
+    "level": 4,
+    "text": "Tôi cần chỗ sạc ở đâu?",
+    "line": 114
+   },
+   {
+    "level": 4,
+    "text": "Giá thuê xe điện là bao nhiêu?",
+    "line": 118
+   },
+   {
+    "level": 4,
+    "text": "Xe điện có cần giấy phép lái xe không?",
+    "line": 122
+   },
+   {
+    "level": 4,
+    "text": "Thuê xe điện dài hạn có lợi không?",
+    "line": 126
+   },
+   {
+    "level": 4,
+    "text": "Pin xe điện bền bao lâu?",
+    "line": 130
+   },
+   {
+    "level": 4,
+    "text": "Xe điện có chạy được khi trời mưa không?",
+    "line": 134
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ đặt xe điện",
+    "line": 138
+   }
+  ],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 2,
+     "text": "Xe máy điện và xe đạp điện khác nhau thế nào?",
+     "line": 21
+    },
+    {
+     "level": 2,
+     "text": "Ai phù hợp với xe điện?",
+     "line": 55
+    },
+    {
+     "level": 2,
+     "text": "Xe điện phù hợp với hành trình nào?",
+     "line": 81
+    },
+    {
+     "level": 4,
+     "text": "Xe điện đi được bao xa mỗi lần sạc?",
+     "line": 110
+    },
+    {
+     "level": 4,
+     "text": "Tôi cần chỗ sạc ở đâu?",
+     "line": 114
+    },
+    {
+     "level": 4,
+     "text": "Giá thuê xe điện là bao nhiêu?",
+     "line": 118
+    },
+    {
+     "level": 4,
+     "text": "Xe điện có cần giấy phép lái xe không?",
+     "line": 122
+    },
+    {
+     "level": 4,
+     "text": "Thuê xe điện dài hạn có lợi không?",
+     "line": 126
+    },
+    {
+     "level": 4,
+     "text": "Pin xe điện bền bao lâu?",
+     "line": 130
+    },
+    {
+     "level": 4,
+     "text": "Xe điện có chạy được khi trời mưa không?",
+     "line": 134
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bang-gia/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BANG-GIA-XE-GA",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "bang-gia-xe-ga.md",
+  "canonical_path": "/bang-gia-xe-ga/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bang-gia-xe-ga/",
+  "in_live_sitemap": true,
+  "title": "Bảng giá xe ga - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Giá thuê xe tay ga tại Hà Nội theo ngày, tuần và tháng. Honda Vision, Honda Air Blade, Honda Click, Yamaha Mio từ Nguyễn Tú.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "xe-ga"
+  },
+  "source_words": 1609,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Bảng giá thuê xe ga tại Hà Nội",
+    "line": 5
+   },
+   {
+    "level": 2,
+    "text": "Giá thuê xe ga",
+    "line": 11
+   },
+   {
+    "level": 2,
+    "text": "Ưu điểm của xe ga",
+    "line": 56
+   },
+   {
+    "level": 2,
+    "text": "Chọn mẫu xe ga nào?",
+    "line": 64
+   },
+   {
+    "level": 3,
+    "text": "Honda Vision",
+    "line": 66
+   },
+   {
+    "level": 3,
+    "text": "Honda Air Blade",
+    "line": 70
+   },
+   {
+    "level": 3,
+    "text": "Honda Click / Yamaha Mio",
+    "line": 74
+   },
+   {
+    "level": 2,
+    "text": "Xe ga phù hợp với ai?",
+    "line": 78
+   },
+   {
+    "level": 2,
+    "text": "Thuê xe ga theo tuần và tháng",
+    "line": 87
+   },
+   {
+    "level": 2,
+    "text": "Quy trình thuê xe ga",
+    "line": 97
+   },
+   {
+    "level": 2,
+    "text": "Lưu ý khi lái xe ga tại Hà Nội",
+    "line": 105
+   },
+   {
+    "level": 2,
+    "text": "Bảo quản xe ga khi thuê dài ngày",
+    "line": 114
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 124
+   },
+   {
+    "level": 4,
+    "text": "Tôi chưa từng lái xe máy, có nên thuê xe ga không?",
+    "line": 126
+   },
+   {
+    "level": 4,
+    "text": "Khách nước ngoài cần giấy tờ gì để thuê xe ga?",
+    "line": 130
+   },
+   {
+    "level": 4,
+    "text": "Giá thuê xe ga có rẻ hơn khi thuê dài hạn không?",
+    "line": 134
+   },
+   {
+    "level": 4,
+    "text": "Có giao xe ga đến sân bay không?",
+    "line": 138
+   },
+   {
+    "level": 4,
+    "text": "Xe ga có hộc chứa đồ không?",
+    "line": 142
+   },
+   {
+    "level": 4,
+    "text": "Khi thuê xe ga, tôi cần kiểm tra những gì?",
+    "line": 146
+   },
+   {
+    "level": 4,
+    "text": "Xe ga tốn xăng hơn xe số không?",
+    "line": 150
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ đặt xe ga",
+    "line": 154
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 2,
+     "text": "Chọn mẫu xe ga nào?",
+     "line": 64
+    },
+    {
+     "level": 2,
+     "text": "Xe ga phù hợp với ai?",
+     "line": 78
+    },
+    {
+     "level": 4,
+     "text": "Tôi chưa từng lái xe máy, có nên thuê xe ga không?",
+     "line": 126
+    },
+    {
+     "level": 4,
+     "text": "Khách nước ngoài cần giấy tờ gì để thuê xe ga?",
+     "line": 130
+    },
+    {
+     "level": 4,
+     "text": "Giá thuê xe ga có rẻ hơn khi thuê dài hạn không?",
+     "line": 134
+    },
+    {
+     "level": 4,
+     "text": "Có giao xe ga đến sân bay không?",
+     "line": 138
+    },
+    {
+     "level": 4,
+     "text": "Xe ga có hộc chứa đồ không?",
+     "line": 142
+    },
+    {
+     "level": 4,
+     "text": "Khi thuê xe ga, tôi cần kiểm tra những gì?",
+     "line": 146
+    },
+    {
+     "level": 4,
+     "text": "Xe ga tốn xăng hơn xe số không?",
+     "line": 150
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bang-gia/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BANG-GIA-XE-SO",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "bang-gia-xe-so.md",
+  "canonical_path": "/bang-gia-xe-so/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bang-gia-xe-so/",
+  "in_live_sitemap": true,
+  "title": "Bảng giá xe số - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Giá thuê xe số tại Hà Nội theo ngày, tuần và tháng. Honda Wave và các mẫu xe số phổ biến khác từ Nguyễn Tú.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "xe-so"
+  },
+  "source_words": 1577,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Bảng giá thuê xe số tại Hà Nội",
+    "line": 5
+   },
+   {
+    "level": 2,
+    "text": "Giá thuê xe số",
+    "line": 11
+   },
+   {
+    "level": 2,
+    "text": "Ưu điểm của xe số",
+    "line": 55
+   },
+   {
+    "level": 2,
+    "text": "Ai nên thuê xe số?",
+    "line": 65
+   },
+   {
+    "level": 2,
+    "text": "Xe số và xe ga: nên chọn loại nào?",
+    "line": 76
+   },
+   {
+    "level": 2,
+    "text": "Honda Wave: mẫu xe số tiêu biểu",
+    "line": 85
+   },
+   {
+    "level": 2,
+    "text": "Quy trình thuê xe số",
+    "line": 96
+   },
+   {
+    "level": 2,
+    "text": "Tiền đặt cọc và các khoản cần xác nhận",
+    "line": 104
+   },
+   {
+    "level": 2,
+    "text": "Lưu ý khi lái xe số tại Hà Nội",
+    "line": 115
+   },
+   {
+    "level": 2,
+    "text": "Xe số cho khách nước ngoài",
+    "line": 124
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 136
+   },
+   {
+    "level": 4,
+    "text": "Xe số có khó lái với người nước ngoài không?",
+    "line": 138
+   },
+   {
+    "level": 4,
+    "text": "Giá thuê xe số theo tuần và tháng là bao nhiêu?",
+    "line": 142
+   },
+   {
+    "level": 4,
+    "text": "Xe số có tiêu hao xăng nhiều không?",
+    "line": 146
+   },
+   {
+    "level": 4,
+    "text": "Tôi có thể yêu cầu giao xe số đến khách sạn không?",
+    "line": 150
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ đặt xe số",
+    "line": 154
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 2,
+     "text": "Ai nên thuê xe số?",
+     "line": 65
+    },
+    {
+     "level": 2,
+     "text": "Xe số và xe ga: nên chọn loại nào?",
+     "line": 76
+    },
+    {
+     "level": 4,
+     "text": "Xe số có khó lái với người nước ngoài không?",
+     "line": 138
+    },
+    {
+     "level": 4,
+     "text": "Giá thuê xe số theo tuần và tháng là bao nhiêu?",
+     "line": 142
+    },
+    {
+     "level": 4,
+     "text": "Xe số có tiêu hao xăng nhiều không?",
+     "line": 146
+    },
+    {
+     "level": 4,
+     "text": "Tôi có thể yêu cầu giao xe số đến khách sạn không?",
+     "line": 150
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [
+   "/bang-gia/"
+  ],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BANG-GIA",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "bang-gia.md",
+  "canonical_path": "/bang-gia/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bang-gia/",
+  "in_live_sitemap": true,
+  "title": "Bảng giá thuê xe máy Hà Nội - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Bảng giá thuê xe máy tại Hà Nội theo ngày, tuần và tháng. Giá tham khảo các dòng xe số, xe ga và hướng dẫn đặt cọc, giao nhận từ Nguyễn Tú.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "pricing"
+  },
+  "source_words": 1725,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Bảng giá thuê xe máy tại Hà Nội",
+    "line": 5
+   },
+   {
+    "level": 2,
+    "text": "Tính giá thuê nhanh",
+    "line": 17
+   },
+   {
+    "level": 2,
+    "text": "Bảng giá theo loại xe",
+    "line": 23
+   },
+   {
+    "level": 3,
+    "text": "Xe số",
+    "line": 25
+   },
+   {
+    "level": 3,
+    "text": "Xe tay ga",
+    "line": 66
+   },
+   {
+    "level": 3,
+    "text": "Xe 50cc",
+    "line": 107
+   },
+   {
+    "level": 3,
+    "text": "Xe máy điện và xe đạp điện",
+    "line": 113
+   },
+   {
+    "level": 2,
+    "text": "Loại hình thuê",
+    "line": 119
+   },
+   {
+    "level": 2,
+    "text": "Tiền đặt cọc",
+    "line": 130
+   },
+   {
+    "level": 2,
+    "text": "Phí giao nhận xe",
+    "line": 140
+   },
+   {
+    "level": 2,
+    "text": "Trả xe và phí trả muộn",
+    "line": 149
+   },
+   {
+    "level": 2,
+    "text": "Bảo hiểm",
+    "line": 158
+   },
+   {
+    "level": 2,
+    "text": "Lưu ý quan trọng",
+    "line": 162
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 171
+   },
+   {
+    "level": 4,
+    "text": "Giá trong bảng giá có phải giá cuối cùng không?",
+    "line": 173
+   },
+   {
+    "level": 4,
+    "text": "Tôi nên thuê theo ngày hay theo tuần?",
+    "line": 177
+   },
+   {
+    "level": 4,
+    "text": "Tiền đặt cọc bao nhiêu và khi nào được hoàn?",
+    "line": 181
+   },
+   {
+    "level": 4,
+    "text": "Trả xe muộn bị tính thế nào?",
+    "line": 185
+   },
+   {
+    "level": 4,
+    "text": "Có phát sinh chi phí khác không?",
+    "line": 189
+   },
+   {
+    "level": 2,
+    "text": "Hướng dẫn đặt xe",
+    "line": 193
+   }
+  ],
+  "source_has_liquid_loops": true,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 4,
+     "text": "Giá trong bảng giá có phải giá cuối cùng không?",
+     "line": 173
+    },
+    {
+     "level": 4,
+     "text": "Tôi nên thuê theo ngày hay theo tuần?",
+     "line": 177
+    },
+    {
+     "level": 4,
+     "text": "Tiền đặt cọc bao nhiêu và khi nào được hoàn?",
+     "line": 181
+    },
+    {
+     "level": 4,
+     "text": "Trả xe muộn bị tính thế nào?",
+     "line": 185
+    },
+    {
+     "level": 4,
+     "text": "Có phát sinh chi phí khác không?",
+     "line": 189
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-BAO-MAT",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "bao-mat.md",
+  "canonical_path": "/bao-mat/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/bao-mat/",
+  "in_live_sitemap": true,
+  "title": "Chính sách bảo mật - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Chính sách bảo mật thông tin cá nhân của khách hàng khi sử dụng dịch vụ thuê xe máy tại Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "privacy"
+  },
+  "source_words": 529,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Chính sách bảo mật",
+    "line": 4
+   },
+   {
+    "level": 3,
+    "text": "Thông tin chúng tôi thu thập",
+    "line": 10
+   },
+   {
+    "level": 3,
+    "text": "Cách chúng tôi sử dụng thông tin của bạn",
+    "line": 19
+   },
+   {
+    "level": 3,
+    "text": "Cách chúng tôi chia sẻ thông tin của bạn",
+    "line": 29
+   },
+   {
+    "level": 3,
+    "text": "Bảo mật dữ liệu",
+    "line": 37
+   },
+   {
+    "level": 3,
+    "text": "Quyền của bạn",
+    "line": 41
+   },
+   {
+    "level": 3,
+    "text": "Liên hệ với chúng tôi",
+    "line": 50
+   },
+   {
+    "level": 3,
+    "text": "Thay đổi chính sách",
+    "line": 58
+   }
+  ],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CHU-DE",
+  "page_type": "Page",
+  "layout": "default",
+  "source": "chu-de.md",
+  "canonical_path": "/chu-de/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/chu-de/",
+  "in_live_sitemap": true,
+  "title": "Tất cả chủ đề - Cẩm nang Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Toàn bộ chủ đề cẩm nang thuê xe máy Hà Nội: thuê xe, dòng xe, an toàn pháp lý, du lịch, cung đường, kỹ năng và hỏi đáp.",
+  "front_matter": {
+   "lang": "vi"
+  },
+  "source_words": 68,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DIEU-KHOAN",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "dieu-khoan.md",
+  "canonical_path": "/dieu-khoan/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/dieu-khoan/",
+  "in_live_sitemap": true,
+  "title": "Điều khoản sử dụng - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Điều khoản và điều kiện sử dụng dịch vụ thuê xe máy tại Hà Nội của Nguyễn Tú.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "terms"
+  },
+  "source_words": 755,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Điều khoản sử dụng",
+    "line": 4
+   },
+   {
+    "level": 3,
+    "text": "Hợp đồng thuê xe",
+    "line": 10
+   },
+   {
+    "level": 3,
+    "text": "Bảo hiểm",
+    "line": 20
+   },
+   {
+    "level": 3,
+    "text": "Trách nhiệm",
+    "line": 24
+   },
+   {
+    "level": 3,
+    "text": "Việc sử dụng bị cấm",
+    "line": 40
+   },
+   {
+    "level": 3,
+    "text": "Phí và chi phí",
+    "line": 50
+   },
+   {
+    "level": 3,
+    "text": "Hủy và thay đổi đặt xe",
+    "line": 61
+   },
+   {
+    "level": 3,
+    "text": "Miễn trừ trách nhiệm",
+    "line": 65
+   },
+   {
+    "level": 3,
+    "text": "Giải quyết tranh chấp",
+    "line": 73
+   },
+   {
+    "level": 3,
+    "text": "Liên hệ với chúng tôi",
+    "line": 77
+   }
+  ],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-GIOI-THIEU",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "gioi-thieu.md",
+  "canonical_path": "/gioi-thieu/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/gioi-thieu/",
+  "in_live_sitemap": true,
+  "title": "Giới thiệu - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Giới thiệu Nguyễn Tú và dịch vụ cho thuê xe máy tại Hà Nội: các loại xe, quy trình thuê, tiền đặt cọc, giao nhận xe và khu vực phục vụ.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "about"
+  },
+  "source_words": 2093,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Giới thiệu Nguyễn Tú",
+    "line": 4
+   },
+   {
+    "level": 2,
+    "text": "Dịch vụ cho thuê xe máy tại Hà Nội",
+    "line": 12
+   },
+   {
+    "level": 2,
+    "text": "Các loại xe hiện có",
+    "line": 25
+   },
+   {
+    "level": 2,
+    "text": "Thuê theo ngày, tuần và tháng",
+    "line": 37
+   },
+   {
+    "level": 2,
+    "text": "Quy trình thuê xe",
+    "line": 54
+   },
+   {
+    "level": 2,
+    "text": "Tiền đặt cọc và xác nhận thông tin",
+    "line": 67
+   },
+   {
+    "level": 2,
+    "text": "Giao nhận xe tại Hà Nội",
+    "line": 81
+   },
+   {
+    "level": 2,
+    "text": "Khu vực phục vụ",
+    "line": 92
+   },
+   {
+    "level": 2,
+    "text": "Giờ hoạt động",
+    "line": 105
+   },
+   {
+    "level": 2,
+    "text": "Lưu ý khi thuê xe",
+    "line": 111
+   },
+   {
+    "level": 2,
+    "text": "Câu hỏi thường gặp",
+    "line": 125
+   },
+   {
+    "level": 4,
+    "text": "Tôi cần giấy tờ gì để thuê xe?",
+    "line": 127
+   },
+   {
+    "level": 4,
+    "text": "Thời gian thuê tối thiểu là bao lâu?",
+    "line": 131
+   },
+   {
+    "level": 4,
+    "text": "Có giao xe tận nơi không?",
+    "line": 135
+   },
+   {
+    "level": 4,
+    "text": "Tiền đặt cọc là bao nhiêu?",
+    "line": 139
+   },
+   {
+    "level": 4,
+    "text": "Xe có bảo hiểm không?",
+    "line": 143
+   },
+   {
+    "level": 4,
+    "text": "Tôi có thể hủy lịch đặt xe không?",
+    "line": 147
+   },
+   {
+    "level": 2,
+    "text": "Liên hệ Nguyễn Tú",
+    "line": 151
+   }
+  ],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [],
+   "question_headings": [
+    {
+     "level": 4,
+     "text": "Tôi cần giấy tờ gì để thuê xe?",
+     "line": 127
+    },
+    {
+     "level": 4,
+     "text": "Thời gian thuê tối thiểu là bao lâu?",
+     "line": 131
+    },
+    {
+     "level": 4,
+     "text": "Có giao xe tận nơi không?",
+     "line": 135
+    },
+    {
+     "level": 4,
+     "text": "Tiền đặt cọc là bao nhiêu?",
+     "line": 139
+    },
+    {
+     "level": 4,
+     "text": "Xe có bảo hiểm không?",
+     "line": 143
+    },
+    {
+     "level": 4,
+     "text": "Tôi có thể hủy lịch đặt xe không?",
+     "line": 147
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-LIEN-HE",
+  "page_type": "Page",
+  "layout": "page",
+  "source": "lien-he.md",
+  "canonical_path": "/lien-he/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/lien-he/",
+  "in_live_sitemap": true,
+  "title": "Liên hệ - Thuê Xe Máy Hà Nội Nguyễn Tú",
+  "description": "Thông tin liên hệ để thuê xe máy tại Hà Nội. Điện thoại, Zalo, WhatsApp, Google Maps và giờ hoạt động của Nguyễn Tú.",
+  "front_matter": {
+   "lang": "vi",
+   "translation_key": "contact"
+  },
+  "source_words": 746,
+  "source_headings": [
+   {
+    "level": 2,
+    "text": "Liên hệ với Nguyễn Tú",
+    "line": 4
+   },
+   {
+    "level": 3,
+    "text": "Thông tin liên hệ",
+    "line": 8
+   },
+   {
+    "level": 3,
+    "text": "Kết nối với chúng tôi",
+    "line": 30
+   },
+   {
+    "level": 3,
+    "text": "Câu hỏi thường gặp",
+    "line": 49
+   },
+   {
+    "level": 4,
+    "text": "Tôi cần những giấy tờ nào để thuê xe máy?",
+    "line": 51
+   },
+   {
+    "level": 4,
+    "text": "Thời gian thuê tối thiểu là bao nhiêu?",
+    "line": 61
+   },
+   {
+    "level": 4,
+    "text": "Xe có bảo hiểm không?",
+    "line": 65
+   },
+   {
+    "level": 4,
+    "text": "Có giao xe đến nơi tôi không?",
+    "line": 69
+   },
+   {
+    "level": 4,
+    "text": "Tiền đặt cọc là bao nhiêu?",
+    "line": 73
+   },
+   {
+    "level": 4,
+    "text": "Tôi có thể hủy hoặc thay đổi lịch đặt xe không?",
+    "line": 77
+   },
+   {
+    "level": 4,
+    "text": "Phương thức thanh toán nào được chấp nhận?",
+    "line": 81
+   },
+   {
+    "level": 4,
+    "text": "Trả xe trễ giờ thì sao?",
+    "line": 85
+   },
+   {
+    "level": 3,
+    "text": "Sẵn sàng đặt xe?",
+    "line": 89
+   }
+  ],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [
+    "Câu hỏi thường gặp"
+   ],
+   "faq_pairs": [
+    {
+     "question": "Tôi cần những giấy tờ nào để thuê xe máy?",
+     "answer_snippet": "Bạn cần xuất trình khi nhận xe: - Chứng minh nhân dân hoặc căn cước công dân (khách Việt Nam) - Hộ chiếu (khách nước ngoài) - Giấy phép lái xe phù hợp nếu thuê xe trên 50cc Người thuê cần đủ 18 tuổi trở lên.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 51",
+     "form": "heading"
+    },
+    {
+     "question": "Thời gian thuê tối thiểu là bao nhiêu?",
+     "answer_snippet": "Thời gian thuê tối thiểu là 1 ngày. Chúng tôi nhận thuê theo tuần và theo tháng, mức giá cho từng loại xe được niêm yết tại trang [bảng giá thuê xe máy]({{ '/bang-gia/' | relativeurl }}).",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 61",
+     "form": "heading"
+    },
+    {
+     "question": "Xe có bảo hiểm không?",
+     "answer_snippet": "Người thuê tự mua bảo hiểm cho bản thân khi cần. Nguyễn Tú không cung cấp bảo hiểm cho người thuê xe.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 65",
+     "form": "heading"
+    },
+    {
+     "question": "Có giao xe đến nơi tôi không?",
+     "answer_snippet": "Chúng tôi nhận giao xe trong khu vực phục vụ quanh Hà Nội. Thời gian và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 69",
+     "form": "heading"
+    },
+    {
+     "question": "Tiền đặt cọc là bao nhiêu?",
+     "answer_snippet": "Tiền đặt cọc phổ biến trong khoảng 2.000.000–5.000.000đ tùy loại xe. Mức đặt cọc cụ thể được xác nhận trực tiếp khi đặt xe và hoàn trả khi bạn trả xe đúng hẹn, xe không có hư hỏng phát sinh.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 73",
+     "form": "heading"
+    },
+    {
+     "question": "Tôi có thể hủy hoặc thay đổi lịch đặt xe không?",
+     "answer_snippet": "Có. Vui lòng liên hệ với chúng tôi sớm nhất có thể nếu bạn cần hủy hoặc thay đổi lịch đặt xe.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 77",
+     "form": "heading"
+    },
+    {
+     "question": "Phương thức thanh toán nào được chấp nhận?",
+     "answer_snippet": "Chúng tôi nhận thanh toán bằng tiền mặt (VND) và các hình thức thanh toán di động phổ biến. Vui lòng xác nhận phương thức thanh toán với chúng tôi khi đặt xe.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 81",
+     "form": "heading"
+    },
+    {
+     "question": "Trả xe trễ giờ thì sao?",
+     "answer_snippet": "Phí trả xe trễ là 20.000đ mỗi giờ trễ. Nếu trễ hơn 6 tiếng, có thể tính thêm một ngày thuê theo loại xe, khoảng 150.000–200.000đ/ngày.",
+     "where": "H4 under \"Câu hỏi thường gặp\" line 85",
+     "form": "heading"
+    }
+   ],
+   "question_headings": [
+    {
+     "level": 4,
+     "text": "Tôi cần những giấy tờ nào để thuê xe máy?",
+     "line": 51
+    },
+    {
+     "level": 4,
+     "text": "Thời gian thuê tối thiểu là bao nhiêu?",
+     "line": 61
+    },
+    {
+     "level": 4,
+     "text": "Xe có bảo hiểm không?",
+     "line": 65
+    },
+    {
+     "level": 4,
+     "text": "Có giao xe đến nơi tôi không?",
+     "line": 69
+    },
+    {
+     "level": 4,
+     "text": "Tiền đặt cọc là bao nhiêu?",
+     "line": 73
+    },
+    {
+     "level": 4,
+     "text": "Tôi có thể hủy hoặc thay đổi lịch đặt xe không?",
+     "line": 77
+    },
+    {
+     "level": 4,
+     "text": "Phương thức thanh toán nào được chấp nhận?",
+     "line": 81
+    },
+    {
+     "level": 4,
+     "text": "Trả xe trễ giờ thì sao?",
+     "line": 85
+    },
+    {
+     "level": 3,
+     "text": "Sẵn sàng đặt xe?",
+     "line": 89
+    }
+   ],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "breadcrumb include",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-BAO-HIEM",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/bao-hiem.md",
+  "canonical_path": "/an-toan-phap-ly/bao-hiem/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/bao-hiem/",
+  "in_live_sitemap": true,
+  "title": "Bảo hiểm xe máy - An toàn & pháp lý",
+  "description": "Bảo hiểm trách nhiệm dân sự bắt buộc và bảo hiểm tự nguyện.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-BAO-HIEM"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-BIEN-BAO",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/bien-bao.md",
+  "canonical_path": "/an-toan-phap-ly/bien-bao/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/bien-bao/",
+  "in_live_sitemap": true,
+  "title": "Biển báo giao thông - An toàn & pháp lý",
+  "description": "Ý nghĩa biển báo đường bộ cần biết khi lái xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-BIEN-BAO"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-GIAY-PHEP-LAI-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/giay-phep-lai-xe.md",
+  "canonical_path": "/an-toan-phap-ly/giay-phep-lai-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/giay-phep-lai-xe/",
+  "in_live_sitemap": true,
+  "title": "Giấy phép lái xe - An toàn & pháp lý",
+  "description": "Hạng giấy phép lái xe máy, điều kiện được phép lái.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-GPLX"
+  },
+  "source_words": 11,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-GIAY-TO",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/giay-to.md",
+  "canonical_path": "/an-toan-phap-ly/giay-to/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/giay-to/",
+  "in_live_sitemap": true,
+  "title": "Giấy tờ xe & cá nhân - An toàn & pháp lý",
+  "description": "CCCD, đăng ký xe, giấy tờ cần mang theo khi điều khiển xe.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-GIAY-TO"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-NOI-DO-CONG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/noi-do-cong.md",
+  "canonical_path": "/an-toan-phap-ly/noi-do-cong/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/noi-do-cong/",
+  "in_live_sitemap": true,
+  "title": "Nồng độ cồn - An toàn & pháp lý",
+  "description": "Quy định nồng độ cồn khi điều khiển xe máy và mức xử phạt.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-NOI-DO-CONG"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-PHAT-NGUOI",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/phat-nguoi.md",
+  "canonical_path": "/an-toan-phap-ly/phat-nguoi/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/phat-nguoi/",
+  "in_live_sitemap": true,
+  "title": "Phạt nguội - An toàn & pháp lý",
+  "description": "Phạt nguội xe máy: cách tra cứu, xử lý và phòng tránh.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-PHAT-NGUOI"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-AN-TOAN-PHAP-LY-QUY-DINH-GIAO-THONG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "an-toan-phap-ly/quy-dinh-giao-thong.md",
+  "canonical_path": "/an-toan-phap-ly/quy-dinh-giao-thong/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/an-toan-phap-ly/quy-dinh-giao-thong/",
+  "in_live_sitemap": true,
+  "title": "Quy định giao thông - An toàn & pháp lý",
+  "description": "Tốc độ, làn đường, mũ bảo hiểm và các quy định áp dụng cho xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-PHAP-LY",
+   "parent_title": "An toàn & pháp lý",
+   "parent_slug": "an-toan-phap-ly",
+   "child_id": "C-QUY-DINH"
+  },
+  "source_words": 16,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG-CUNG-DUONG-CUOI-TUAN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "cung-duong/cung-duong-cuoi-tuan.md",
+  "canonical_path": "/cung-duong/cung-duong-cuoi-tuan/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/cung-duong-cuoi-tuan/",
+  "in_live_sitemap": true,
+  "title": "Cung đường cuối tuần - Cung đường & hành trình",
+  "description": "Hành trình 1-2 ngày quanh Hà Nội cho kỳ nghỉ cuối tuần.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong",
+   "child_id": "C-CD-CUOI-TUAN"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG-CUNG-DUONG-NOI-THANH",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "cung-duong/cung-duong-noi-thanh.md",
+  "canonical_path": "/cung-duong/cung-duong-noi-thanh/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/cung-duong-noi-thanh/",
+  "in_live_sitemap": true,
+  "title": "Cung đường nội thành - Cung đường & hành trình",
+  "description": "Lộ trình di chuyển giữa các khu vực nội thành Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong",
+   "child_id": "C-CD-NOI-THANH"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG-CUNG-DUONG-PHO-BAC",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "cung-duong/cung-duong-pho-bac.md",
+  "canonical_path": "/cung-duong/cung-duong-pho-bac/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/cung-duong-pho-bac/",
+  "in_live_sitemap": true,
+  "title": "Cung đường các tỉnh phía Bắc - Cung đường & hành trình",
+  "description": "Sơn La, Điện Biên, Ninh Bình, Tam Đảo và các tỉnh khác.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong",
+   "child_id": "C-CD-PHO-BAC"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG-HA-GIANG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "cung-duong/ha-giang.md",
+  "canonical_path": "/cung-duong/ha-giang/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/ha-giang/",
+  "in_live_sitemap": true,
+  "title": "Hà Giang - Cung đường & hành trình",
+  "description": "Chặng đường Hà Nội - Hà Giang và câu hỏi thuê xe cho chặng xa.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong",
+   "child_id": "C-CD-HA-GIANG"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG-MAI-CHAU",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "cung-duong/mai-chau.md",
+  "canonical_path": "/cung-duong/mai-chau/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/mai-chau/",
+  "in_live_sitemap": true,
+  "title": "Mai Châu - Cung đường & hành trình",
+  "description": "Cung đường Hà Nội - Mai Châu: lộ trình, điểm dừng, lưu ý.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong",
+   "child_id": "C-CD-MAI-CHAU"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-CUNG-DUONG-MOC-CHAU",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "cung-duong/moc-chau.md",
+  "canonical_path": "/cung-duong/moc-chau/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/cung-duong/moc-chau/",
+  "in_live_sitemap": true,
+  "title": "Mộc Châu - Cung đường & hành trình",
+  "description": "Cung đường Hà Nội - Mộc Châu qua Quốc lộ 6.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-CUNG-DUONG",
+   "parent_title": "Cung đường & hành trình",
+   "parent_slug": "cung-duong",
+   "child_id": "C-CD-MOC-CHAU"
+  },
+  "source_words": 10,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH-BAO-TANG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "du-lich/bao-tang.md",
+  "canonical_path": "/du-lich/bao-tang/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/bao-tang/",
+  "in_live_sitemap": true,
+  "title": "Bảo tàng - Du lịch Hà Nội",
+  "description": "Bảo tàng Hà Nội: lịch sử, không gian trưng bày và di chuyển.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-DU-LICH",
+   "parent_title": "Du lịch Hà Nội",
+   "parent_slug": "du-lich",
+   "child_id": "C-BAO-TANG"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH-DIEM-DEN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "du-lich/diem-den.md",
+  "canonical_path": "/du-lich/diem-den/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/diem-den/",
+  "in_live_sitemap": true,
+  "title": "Điểm đến Hà Nội - Du lịch Hà Nội",
+  "description": "Các điểm đến nổi tiếng ở Hà Nội nên đi bằng xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-DU-LICH",
+   "parent_title": "Du lịch Hà Nội",
+   "parent_slug": "du-lich",
+   "child_id": "C-DIEM-DEN"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH-HO-TAY",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "du-lich/ho-tay.md",
+  "canonical_path": "/du-lich/ho-tay/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/ho-tay/",
+  "in_live_sitemap": true,
+  "title": "Hồ Tây & lân cận - Du lịch Hà Nội",
+  "description": "Khu Hồ Tây, đền thờ và ven sông Hồng.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-DU-LICH",
+   "parent_title": "Du lịch Hà Nội",
+   "parent_slug": "du-lich",
+   "child_id": "C-HO-TAY"
+  },
+  "source_words": 9,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH-LONG-BIEN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "du-lich/long-bien.md",
+  "canonical_path": "/du-lich/long-bien/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/long-bien/",
+  "in_live_sitemap": true,
+  "title": "Long Biên & Gia Lâm - Du lịch Hà Nội",
+  "description": "Khu Long Biên, Bồ Đề, Gia Lâm, cầu Long Biên và chợ đầu mối.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-DU-LICH",
+   "parent_title": "Du lịch Hà Nội",
+   "parent_slug": "du-lich",
+   "child_id": "C-LONG-BIEN"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH-NGOAI-THANH",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "du-lich/ngoai-thanh.md",
+  "canonical_path": "/du-lich/ngoai-thanh/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/ngoai-thanh/",
+  "in_live_sitemap": true,
+  "title": "Ngoại thành Hà Nội - Du lịch Hà Nội",
+  "description": "Các huyện ngoại thành Hà Nội khám phá bằng xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-DU-LICH",
+   "parent_title": "Du lịch Hà Nội",
+   "parent_slug": "du-lich",
+   "child_id": "C-NGOAI-THANH"
+  },
+  "source_words": 11,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-DU-LICH-PHO-CO",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "du-lich/pho-co.md",
+  "canonical_path": "/du-lich/pho-co/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/du-lich/pho-co/",
+  "in_live_sitemap": true,
+  "title": "Phố cổ Hoàn Kiếm - Du lịch Hà Nội",
+  "description": "Phố cổ, Hồ Hoàn Kiếm và phố đi bộ cuối tuần.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-DU-LICH",
+   "parent_title": "Du lịch Hà Nội",
+   "parent_slug": "du-lich",
+   "child_id": "C-PHO-CO"
+  },
+  "source_words": 11,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP-HOI-DAP-CHON-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "hoi-dap/hoi-dap-chon-xe.md",
+  "canonical_path": "/hoi-dap/hoi-dap-chon-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-chon-xe/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp chọn xe - Hỏi đáp thuê xe máy",
+  "description": "Trả lời nhanh các câu hỏi chọn dòng xe phù hợp nhu cầu.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap",
+   "child_id": "C-HD-CHON-XE"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP-HOI-DAP-GIA",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "hoi-dap/hoi-dap-gia.md",
+  "canonical_path": "/hoi-dap/hoi-dap-gia/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-gia/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp về giá - Hỏi đáp thuê xe máy",
+  "description": "Trả lời nhanh các câu hỏi thường gặp về giá thuê xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap",
+   "child_id": "C-HD-GIA"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP-HOI-DAP-NGUOI-MOI",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "hoi-dap/hoi-dap-nguoi-moi.md",
+  "canonical_path": "/hoi-dap/hoi-dap-nguoi-moi/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-nguoi-moi/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp người mới - Hỏi đáp thuê xe máy",
+  "description": "Trả lời nhanh cho người lần đầu thuê xe máy ở Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap",
+   "child_id": "C-HD-NGUOI-MOI"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP-HOI-DAP-PHAP-LY",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "hoi-dap/hoi-dap-phap-ly.md",
+  "canonical_path": "/hoi-dap/hoi-dap-phap-ly/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-phap-ly/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp pháp lý - Hỏi đáp thuê xe máy",
+  "description": "Trả lời nhanh các câu hỏi pháp lý khi thuê và lái xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap",
+   "child_id": "C-HD-PHAP-LY"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP-HOI-DAP-SU-CO",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "hoi-dap/hoi-dap-su-co.md",
+  "canonical_path": "/hoi-dap/hoi-dap-su-co/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-su-co/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp sự cố - Hỏi đáp thuê xe máy",
+  "description": "Trả lời nhanh các câu hỏi xử lý sự cố trong kỳ thuê.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap",
+   "child_id": "C-HD-SU-CO"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-HOI-DAP-HOI-DAP-THU-TUC",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "hoi-dap/hoi-dap-thu-tuc.md",
+  "canonical_path": "/hoi-dap/hoi-dap-thu-tuc/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/hoi-dap/hoi-dap-thu-tuc/",
+  "in_live_sitemap": true,
+  "title": "Hỏi đáp thủ tục - Hỏi đáp thuê xe máy",
+  "description": "Trả lời nhanh các câu hỏi về thủ tục, giấy tờ thuê xe.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-HOI-DAP",
+   "parent_title": "Hỏi đáp thuê xe máy",
+   "parent_slug": "hoi-dap",
+   "child_id": "C-HD-THU-TUC"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG-CHO-DO-VA-HANH-LY",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "ky-nang/cho-do-va-hanh-ly.md",
+  "canonical_path": "/ky-nang/cho-do-va-hanh-ly/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/cho-do-va-hanh-ly/",
+  "in_live_sitemap": true,
+  "title": "Chở đồ & hành lý - Kỹ năng & tình huống",
+  "description": "Chở hành lý, đồ dễ vỡ, thú cưng và vật dài trên xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang",
+   "child_id": "C-KY-NANG-CHO-DO"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG-GUI-XE-VA-GIU-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "ky-nang/gui-xe-va-giu-xe.md",
+  "canonical_path": "/ky-nang/gui-xe-va-giu-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/gui-xe-va-giu-xe/",
+  "in_live_sitemap": true,
+  "title": "Gửi xe & giữ xe - Kỹ năng & tình huống",
+  "description": "Chọn vị trí gửi, giữ xe qua đêm, phòng mất cắp.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang",
+   "child_id": "C-KY-NANG-GUI-XE"
+  },
+  "source_words": 11,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG-KY-NANG-LAI-CO-BAN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "ky-nang/ky-nang-lai-co-ban.md",
+  "canonical_path": "/ky-nang/ky-nang-lai-co-ban/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/ky-nang-lai-co-ban/",
+  "in_live_sitemap": true,
+  "title": "Kỹ năng lái cơ bản - Kỹ năng & tình huống",
+  "description": "Tư thế, quan sát, vào cua, phanh và các kỹ năng nền tảng.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang",
+   "child_id": "C-KY-NANG-CO-BAN"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG-SUC-KHOE-KHI-LAI-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "ky-nang/suc-khoe-khi-lai-xe.md",
+  "canonical_path": "/ky-nang/suc-khoe-khi-lai-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/suc-khoe-khi-lai-xe/",
+  "in_live_sitemap": true,
+  "title": "Sức khỏe khi lái xe - Kỹ năng & tình huống",
+  "description": "Mệt mỏi, say rượu, thị giác, phụ nữ mang thai và người lớn tuổi.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang",
+   "child_id": "C-KY-NANG-SUC-KHOE"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG-THOI-TIET-VA-DUONG-SA",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "ky-nang/thoi-tiet-va-duong-sa.md",
+  "canonical_path": "/ky-nang/thoi-tiet-va-duong-sa/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/thoi-tiet-va-duong-sa/",
+  "in_live_sitemap": true,
+  "title": "Thời tiết & đường sá - Kỹ năng & tình huống",
+  "description": "Chạy xe trong mưa, sương mu, nắng nóng và mặt đường xấu.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang",
+   "child_id": "C-KY-NANG-THOI-TIET"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-KY-NANG-TINH-HUONG-GIAO-THONG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "ky-nang/tinh-huong-giao-thong.md",
+  "canonical_path": "/ky-nang/tinh-huong-giao-thong/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/ky-nang/tinh-huong-giao-thong/",
+  "in_live_sitemap": true,
+  "title": "Tình huống giao thông - Kỹ năng & tình huống",
+  "description": "Xử lý ngã tư, vòng xuyến, đường trơn, chướng ngại bất ngờ.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-KY-NANG",
+   "parent_title": "Kỹ năng & tình huống",
+   "parent_slug": "ky-nang",
+   "child_id": "C-KY-NANG-TINH-HUONG"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-DAT-COC",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/dat-coc.md",
+  "canonical_path": "/thue-xe/dat-coc/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/dat-coc/",
+  "in_live_sitemap": true,
+  "title": "Đặt cọc & giữ giấy tờ - Thuê xe máy Hà Nội",
+  "description": "Tiền đặt cọc, hình thức giữ giấy tờ, hoàn cọc khi trả xe.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-DAT-COC"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-GIA-THUE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/gia-thue.md",
+  "canonical_path": "/thue-xe/gia-thue/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/gia-thue/",
+  "in_live_sitemap": true,
+  "title": "Giá thuê xe máy - Thuê xe máy Hà Nội",
+  "description": "Bảng giá và các yếu tố ảnh hưởng đến giá thuê xe máy ở Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-GIA"
+  },
+  "source_words": 16,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-KHACH-QUOC-TE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/khach-quoc-te.md",
+  "canonical_path": "/thue-xe/khach-quoc-te/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/khach-quoc-te/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe cho khách quốc tế - Thuê xe máy Hà Nội",
+  "description": "Điều kiện giấy tờ, giấy phép lái xe và lưu ý cho người nước ngoài.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-QUOC-TE"
+  },
+  "source_words": 15,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-NHAN-TRA-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/nhan-tra-xe.md",
+  "canonical_path": "/thue-xe/nhan-tra-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/nhan-tra-xe/",
+  "in_live_sitemap": true,
+  "title": "Nhận xe & trả xe - Thuê xe máy Hà Nội",
+  "description": "Checklist nhận xe, kiểm tra tình trạng và quy trình trả xe.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-NHAN-TRA"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-SU-CO",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/su-co.md",
+  "canonical_path": "/thue-xe/su-co/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/su-co/",
+  "in_live_sitemap": true,
+  "title": "Sự cố khi thuê xe - Thuê xe máy Hà Nội",
+  "description": "Xử lý hỏng hóc, mất cắp, va chạm và tranh chấp trong kỳ thuê.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-SU-CO"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-THU-TUC",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/thu-tuc.md",
+  "canonical_path": "/thue-xe/thu-tuc/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/thu-tuc/",
+  "in_live_sitemap": true,
+  "title": "Thủ tục thuê xe - Thuê xe máy Hà Nội",
+  "description": "Quy trình liên hệ, đặt xe, giấy tờ và ký nhận khi thuê xe máy.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-THU-TUC"
+  },
+  "source_words": 15,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-THUE-NGAY",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/thue-ngay.md",
+  "canonical_path": "/thue-xe/thue-ngay/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/thue-ngay/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe theo ngày - Thuê xe máy Hà Nội",
+  "description": "Thuê xe máy theo ngày: khi nào hợp lý, chi phí và lưu ý.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-NGAY"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-THUE-THANG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/thue-thang.md",
+  "canonical_path": "/thue-xe/thue-thang/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/thue-thang/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe theo tháng - Thuê xe máy Hà Nội",
+  "description": "Thuê xe máy dài hạn theo tháng cho người ở và làm việc tại Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-THANG"
+  },
+  "source_words": 16,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-THUE-THEO-DIA-DIEM",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/thue-theo-dia-diem.md",
+  "canonical_path": "/thue-xe/thue-theo-dia-diem/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/thue-theo-dia-diem/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe theo địa điểm - Thuê xe máy Hà Nội",
+  "description": "Thuê xe máy quanh ga, bến xe, sân bay và các khu vực trọng điểm của Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-DIA-DIEM"
+  },
+  "source_words": 24,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-THUE-THEO-DOI-TUONG",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/thue-theo-doi-tuong.md",
+  "canonical_path": "/thue-xe/thue-theo-doi-tuong/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/thue-theo-doi-tuong/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe theo đối tượng - Thuê xe máy Hà Nội",
+  "description": "Kinh nghiệm thuê xe máy cho từng nhóm người: sinh viên, người đi làm, gia đình, khách quốc tế, người mới biết lái.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-DOI-TUONG"
+  },
+  "source_words": 23,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-THUE-XE-THUE-TUAN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "thue-xe/thue-tuan.md",
+  "canonical_path": "/thue-xe/thue-tuan/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/thue-xe/thue-tuan/",
+  "in_live_sitemap": true,
+  "title": "Thuê xe theo tuần - Thuê xe máy Hà Nội",
+  "description": "Thuê xe máy theo tuần cho chuyến đi hoặc nhu cầu nhiều ngày.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-THUE-XE",
+   "parent_title": "Thuê xe máy Hà Nội",
+   "parent_slug": "thue-xe",
+   "child_id": "C-THUE-TUAN"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-BAO-DUONG-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/bao-duong-xe.md",
+  "canonical_path": "/xe-may/bao-duong-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/bao-duong-xe/",
+  "in_live_sitemap": true,
+  "title": "Bảo dưỡng xe máy - Xe máy & dòng xe",
+  "description": "Kiến thức bảo dưỡng cơ bản cho xe thuê: nhớt, lốp, đèn, phanh.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-BAO-DUONG"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-CHON-LOAI-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/chon-loai-xe.md",
+  "canonical_path": "/xe-may/chon-loai-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/chon-loai-xe/",
+  "in_live_sitemap": true,
+  "title": "Chọn loại xe khi thuê - Xe máy & dòng xe",
+  "description": "Tư vấn chọn xe số, xe ga, xe điện, dung tích và độ cao yên theo nhu cầu thực tế của người thuê.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-LUA-CHON"
+  },
+  "source_words": 23,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-HONDA-AIR-BLADE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/honda-air-blade.md",
+  "canonical_path": "/xe-may/honda-air-blade/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/honda-air-blade/",
+  "in_live_sitemap": true,
+  "title": "Honda Air Blade - Xe máy & dòng xe",
+  "description": "Honda Air Blade: xe ga mạnh mẽ cho nhiều loại nhu cầu.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-HONDA-AIR-BLADE"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-HONDA-CLICK",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/honda-click.md",
+  "canonical_path": "/xe-may/honda-click/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/honda-click/",
+  "in_live_sitemap": true,
+  "title": "Honda Click - Xe máy & dòng xe",
+  "description": "Honda Click và các dòng xe ga nhỏ gọn giá tốt.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-HONDA-CLICK"
+  },
+  "source_words": 11,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-HONDA-VISION",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/honda-vision.md",
+  "canonical_path": "/xe-may/honda-vision/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/honda-vision/",
+  "in_live_sitemap": true,
+  "title": "Honda Vision - Xe máy & dòng xe",
+  "description": "Honda Vision: xe ga nhỏ gọn phù hợp di chuyển phố.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-HONDA-VISION"
+  },
+  "source_words": 11,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-HONDA-WAVE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/honda-wave.md",
+  "canonical_path": "/xe-may/honda-wave/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/honda-wave/",
+  "in_live_sitemap": true,
+  "title": "Honda Wave - Xe máy & dòng xe",
+  "description": "Honda Wave: đặc tính, độ bền và phù hợp với ai khi thuê.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-HONDA-WAVE"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-SO-SANH-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/so-sanh-xe.md",
+  "canonical_path": "/xe-may/so-sanh-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/so-sanh-xe/",
+  "in_live_sitemap": true,
+  "title": "So sánh khi thuê xe máy - Xe máy & dòng xe",
+  "description": "So sánh model với model, hình thức thuê theo thời gian và chi phí thuê với các phương tiện khác.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-SO-SANH"
+  },
+  "source_words": 24,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-XE-50CC",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/xe-50cc.md",
+  "canonical_path": "/xe-may/xe-50cc/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/xe-50cc/",
+  "in_live_sitemap": true,
+  "title": "Xe 50cc - Xe máy & dòng xe",
+  "description": "Xe 50cc cho người mới biết lái và di chuyển quãng ngắn.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-50CC"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-XE-DAP-DIEN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/xe-dap-dien.md",
+  "canonical_path": "/xe-may/xe-dap-dien/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/xe-dap-dien/",
+  "in_live_sitemap": true,
+  "title": "Xe đạp điện - Xe máy & dòng xe",
+  "description": "Xe đạp điện cho nhu cầu đi lại ngắn trong nội thành.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-DAP-DIEN"
+  },
+  "source_words": 12,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-XE-DIEN",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/xe-dien.md",
+  "canonical_path": "/xe-may/xe-dien/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/xe-dien/",
+  "in_live_sitemap": true,
+  "title": "Xe máy điện - Xe máy & dòng xe",
+  "description": "Thuê xe máy điện: quãng đường, sạc pin và chi phí cần xác nhận.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-DIEN"
+  },
+  "source_words": 14,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-XE-GA",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/xe-ga.md",
+  "canonical_path": "/xe-may/xe-ga/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/xe-ga/",
+  "in_live_sitemap": true,
+  "title": "Xe tay ga - Xe máy & dòng xe",
+  "description": "Đặc điểm, cách vận hành và lựa chọn xe tay ga cho thuê.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-GA"
+  },
+  "source_words": 13,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-XE-SO",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/xe-so.md",
+  "canonical_path": "/xe-may/xe-so/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/xe-so/",
+  "in_live_sitemap": true,
+  "title": "Xe số - Xe máy & dòng xe",
+  "description": "Đặc điểm, cách lái và kiến thức chọn xe số khi thuê ở Hà Nội.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-SO"
+  },
+  "source_words": 15,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-XU-LY-SU-CO-XE",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/xu-ly-su-co-xe.md",
+  "canonical_path": "/xe-may/xu-ly-su-co-xe/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/xu-ly-su-co-xe/",
+  "in_live_sitemap": true,
+  "title": "Xử lý sự cố xe máy thuê - Xe máy & dòng xe",
+  "description": "Các sự cố kỹ thuật thường gặp khi đang thuê xe máy và cách xử lý ban đầu đúng cách.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-XE-KHAC-PHUC"
+  },
+  "source_words": 27,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ },
+ {
+  "page_id": "PG-XE-MAY-YAMAHA-SIRIUS",
+  "page_type": "Topic cluster page",
+  "layout": "topic",
+  "source": "xe-may/yamaha-sirius.md",
+  "canonical_path": "/xe-may/yamaha-sirius/",
+  "canonical_url": "https://blog.thuexemaynguyentu.com/xe-may/yamaha-sirius/",
+  "in_live_sitemap": true,
+  "title": "Yamaha Sirius - Xe máy & dòng xe",
+  "description": "Yamaha Sirius: xe số gọn nhẹ, tiết kiệm xăng.",
+  "front_matter": {
+   "lang": "vi",
+   "parent_id": "P-XE-MAY",
+   "parent_title": "Xe máy & dòng xe",
+   "parent_slug": "xe-may",
+   "child_id": "C-YAMAHA-SIRIUS"
+  },
+  "source_words": 9,
+  "source_headings": [],
+  "source_has_liquid_loops": false,
+  "faq_signals_source": {
+   "faq_section_headings": [],
+   "faq_pairs": [],
+   "question_headings": [],
+   "bold_question_lines": [],
+   "details_blocks": 0
+  },
+  "internal_links_source": [],
+  "jsonld_sim": {
+   "graph": [
+    "Organization",
+    "LocalBusiness",
+    "WebSite"
+   ],
+   "breadcrumb": "topic-breadcrumb microdata only (no BreadcrumbList JSON-LD)",
+   "faqpage": false
+  }
+ }
+]
