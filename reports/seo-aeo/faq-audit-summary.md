@@ -5,7 +5,7 @@
 | Repo | `thuexemayhanoi/blog` (chỉ repo này) — website `https://blog.thuexemaynguyentu.com/` |
 | Nhánh audit | `claude/seo-aeo-faq-audit` (chỉ ghi vào `reports/seo-aeo/**`; thư mục này bị `exclude` khỏi build Jekyll nên **không thể lên production**) |
 | Commit gốc | `c338333f` (main lúc bắt đầu audit) |
-| Trạng thái | **AUDIT DONE** theo mục 10 của chỉ thị — kèm các hạn chế nêu rõ ở §13 (chưa kiểm chứng) |
+| Trạng thái | **AUDIT DONE** theo điều kiện hoàn thành (mục 10) trong chỉ thị của chủ website — kèm các hạn chế nêu rõ ở §13 (chưa kiểm chứng) |
 | Deliverables | `faq-matrix-first300.csv` (300 dòng) · `faq-matrix-main-pages.csv` (77 dòng) · `faq-matrix-master.csv` (377 dòng) · `faq-audit-summary.md` (file này) · `faq-implementation-plan.md` · `data/*.json` (dữ liệu máy đọc) |
 
 > Mọi nhận định bên dưới là **đánh giá chuyên môn có bằng chứng** (trích nguyên văn từ bài/trang, kiểm bằng validator cơ học), **không phải số đo lưu lượng**.
@@ -14,10 +14,10 @@
 ## 0. Kết luận ngắn
 
 1. **Đủ phạm vi**: 300 bài thực tế đang live + 77 trang chính = **377 URL**, mỗi URL một dòng đủ 21 cột bắt buộc, kể cả những bài "không cần FAQ". Validator cơ học (`tools/validate_analysis.py`, `tools/verify_deliverables.py`) đạt 100%.
-2. **Hiện không có FAQPage JSON-LD ở bất kỳ URL nào (0/377)**; toàn bộ JSON-LD (377/377) hợp lệ cú pháp. 23 URL có FAQ *hiển thị* (13 bài + 10 trang) — nhưng 22/23 cần sửa nội dung trước (IMPROVE/MERGE) vì chứa khẳng định chưa duyệt hoặc cấu trúc không tách được.
+2. **Hiện không có FAQPage JSON-LD ở bất kỳ URL nào (0/377)**; toàn bộ JSON-LD (377/377) hợp lệ cú pháp. 23 URL có FAQ *hiển thị* (13 bài + 10 trang) — nhưng 22/23 cần xử lý trước (IMPROVE/MERGE) vì chứa khẳng định chưa duyệt hoặc cấu trúc không tách được thành cặp hỏi–đáp rời.
 3. **Phần lớn URL KHÔNG nên thêm FAQ**: 336/377 là NO FAQ; chỉ **2 bài** là ADD (BLG-00049, BLG-00090). FAQ hàng loạt sẽ chỉ nhân bản nội dung trùng và nhân rủi ro (đúng cảnh báo *scaled content* của Google).
-4. **Rủi ro lớn nhất là độ chính xác, không phải thiếu FAQ**: 37 URL ưu tiên P0 (26 bài + 11 trang). 72/300 bài mẫu (≈24%) và 30/77 trang có ít nhất một khẳng định mà phân tích gắn là chủ đề **BLOCKED** của chủ xe (cọc 2–5 triệu, phí trễ 20.000đ/giờ, bảo hiểm, giữ giấy tờ gốc, mũ bảo hiểm, hoàn tiền); ngoài ra còn khẳng định pháp lý không nguồn (88 bài, 20 trang có ít nhất một). Các mục BLOCKED **chỉ chủ xe quyết định được**; audit không tự sửa.
-5. **Cannibalization / trùng ý định đáng kể**: 258 nhóm URL (103 mức HIGH, 155 MEDIUM) quanh 767 URL; 22 cụm câu hỏi trùng giữa các URL; 18 bài đề xuất MERGE. Gộp/redirect cần chính sách canonical của chủ — chưa đổi URL nào.
+4. **Rủi ro lớn nhất là độ chính xác, không phải thiếu FAQ**: 37 URL ưu tiên P0 (26 bài + 11 trang). 40/300 bài mẫu (≈13%) và 19/77 trang có ít nhất một khẳng định chưa xác minh thuộc loại cọc hoặc được ghi rõ là chủ đề **BLOCKED** của chủ xe (cọc 2–5 triệu, phí trễ 20.000đ/giờ, bảo hiểm, giữ giấy tờ gốc, mũ bảo hiểm, hoàn tiền ngày chưa dùng); nếu tính cả khẳng định ngầm/chạm chủ đề nêu trong mô tả rủi ro thì 57/300 bài (≈19%) và 26/77 trang. Ngoài ra còn khẳng định pháp lý không nguồn (88 bài, 20 trang có ít nhất một). Các mục BLOCKED **chỉ chủ xe quyết định được**; audit không tự sửa.
+5. **Cannibalization / trùng ý định đáng kể**: 258 nhóm chồng lấn (mỗi nhóm = một URL có cannibalization HIGH/MEDIUM cùng các URL đối thủ nó nêu; 103 HIGH, 155 MEDIUM) bao 767 URL (gộp liên thông còn 87 cụm); 22 cụm câu hỏi trùng giữa các URL; 18 bài đề xuất MERGE. Gộp/redirect cần chính sách canonical của chủ — chưa đổi URL nào.
 6. **Giải pháp tập trung đã được dựng, không sửa tay hàng loạt**: sửa template chung (JSON-LD an toàn, BreadcrumbList cho mọi loại trang, bỏ breadcrumb kép…), component FAQ dùng chung + validator + parity check (mặc định không đổi HTML), phân bố lại "bài liên quan" — xem §16.
 7. **Google đã gỡ FAQ rich result (không còn hiển thị từ 2026-05-07)** và hướng dẫn AI của Google (2026-07-10) nói không cần schema đặc biệt/chunking/llms.txt. Vì vậy giá trị còn lại của FAQ là **nội dung hiển thị chính xác, dễ trích xuất**, không phải "schema để được hiện".
 
@@ -36,12 +36,12 @@
 |---|---|---|
 | 1 | Tổng 300 bài thực tế đã audit | **300/300** (BLG-00001…BLG-00306 trừ 6 bài REVIEW; danh sách: `sample-first300-ids.csv`) — cả 300 đều trong sitemap live |
 | 2 | Số trang chính được audit | **77** (1 trang chủ, 6 hub, 3 chuyên mục, 11 trang tĩnh, 56 trang chủ đề) — `main-pages-list.csv` |
-| 3 | URL đã có FAQ | **23** = 13 bài + 10 trang (Explicit): 1 KEEP (BLG-00009), 20 IMPROVE (10 bài + 10 trang), 2 MERGE (BLG-00207, BLG-00213). Chỉ 2 bài (BLG-00009, BLG-00037) đủ điều kiện đánh dấu ngay (§6, §11) |
+| 3 | URL đã có FAQ | **23** = 13 bài + 10 trang (Explicit): 1 KEEP (BLG-00009), 20 IMPROVE (10 bài + 10 trang), 2 MERGE (BLG-00207, BLG-00213). Chỉ 2 bài (BLG-00009, BLG-00037) được phân tích đánh dấu là có đáp án đủ chính xác để đánh dấu `FAQPage` (BLG-00037 sau khi diễn đạt lại câu 4) (§6, §11) |
 | 4 | URL có nội dung trả lời nhưng chưa có FAQ | **231** = 230 bài + 1 trang (Implicit) — phần lớn đã nằm dưới heading mô tả rõ nên *không cần* FAQ (§7) |
 | 5 | URL nên bổ sung/cải thiện FAQ | **23** (KEEP + IMPROVE + ADD): bài 13 (1 KEEP, 10 IMPROVE, **2 ADD**) + trang 10 (IMPROVE). Cần *thêm mới* chỉ 2 bài |
 | 6 | URL không nên có FAQ | **336** (269 bài + 67 trang) |
 | 7 | Schema hợp lệ / lỗi | JSON-LD parse **377/377 hợp lệ, 0 lỗi cú pháp**; `FAQPage` **0**; `BreadcrumbList` có ở 300/300 bài nhưng **0/77 trang**; `BlogPosting` thiếu `image`/`mainEntityOfPage`/`inLanguage` ở 300/300 bài; schema FAQ "Missing" 15 bài + 10 trang (§11) |
-| 8 | Cụm câu hỏi trùng lặp / cannibalization | **258 nhóm** cannibalization (103 HIGH / 155 MEDIUM, 767 URL) và **22 cụm câu hỏi FAQ trùng** (§10) |
+| 8 | Cụm câu hỏi trùng lặp / cannibalization | **258 nhóm chồng lấn** (103 HIGH / 155 MEDIUM, bao 767 URL, 87 cụm liên thông) và **22 cụm câu hỏi FAQ trùng** (§10) |
 | 9 | Top 20 URL ưu tiên | §8 |
 | 10 | Phương án triển khai | §12 và `faq-implementation-plan.md` |
 
@@ -83,7 +83,7 @@ Chỉ tiêu cụ thể:
 
 ## 3. Mẫu 300 bài — cách hiểu "300 bài PUBLISHED đầu tiên"
 
-* Trạng thái `PUBLISHED` trong matrix của factory chỉ gán cho bài do factory viết (BLG-00484 trở đi); 483 bài đầu (BLG-00001…BLG-00483) là bài **legacy** (`EXISTING`, + 10 `REVIEW`) đã live từ trước. Hiểu theo nghĩa hẹp ("PUBLISHED" = trạng thái factory) thì mẫu là **BLG-00484…BLG-00784**; hiểu theo nghĩa thực tế ("bài đang live, ID tăng dần, bỏ draft/REVIEW") thì mẫu là **BLG-00001…BLG-00306 trừ 6 bài REVIEW (5, 17, 18, 53, 227, 228)**.
+* Trạng thái `PUBLISHED` trong matrix của factory chỉ gán cho bài do factory viết (BLG-00484 trở đi); 483 bài đầu (BLG-00001…BLG-00483) là bài **legacy** (`EXISTING`, + 10 `REVIEW`) đã live từ trước. Hiểu theo nghĩa hẹp ("PUBLISHED" = trạng thái factory) thì mẫu là **BLG-00484…BLG-00784 (trừ BLG-00507, trạng thái BLOCKED)**; hiểu theo nghĩa thực tế ("bài đang live, ID tăng dần, bỏ draft/REVIEW") thì mẫu là **BLG-00001…BLG-00306 trừ 6 bài REVIEW (5, 17, 18, 53, 227, 228)**.
 * Audit dùng cách hiểu thứ hai vì chỉ thị nhấn mạnh "bài thực tế, không giả định BLG-00001…00300 đều tồn tại, không đưa draft/REVIEW/URL không tồn tại" và vì đó là 300 bài *đầu tiên* của blog. **Cả 300 ID đều thực sự live và có trong sitemap.** Nếu chủ muốn mẫu theo nghĩa hẹp, pipeline chạy lại được (`tools/`), chi phí tương đương.
 * Hệ quả cần biết: cả 300 bài mẫu là bài legacy (không có evidence QA của factory; `data/qa/` chỉ có cho bài factory BLG-00484+); chất lượng/độ rủi ro **không đại diện** cho 2.000+ bài factory, vốn đi qua cổng QA 75/70.
 
@@ -103,12 +103,12 @@ Trang chủ đề mỏng (trung vị ≈ 40 từ biên tập; hub ≈ 71 từ) v
 
 ## 5. Phát hiện chính (kèm bằng chứng)
 
-1. **FAQ đang hiển thị có chất lượng "vừa phải", cấu trúc yếu, nội dung rủi ro.** 23 URL có FAQ: 1 chất lượng GOOD (BLG-00009), 17 FAIR, 5 WEAK. 9/13 bài (BLG-00003, 00036, 00064, 00081, 00125, 00132, 00184, 00207, 00213) viết FAQ dạng *run-in* ("Hỏi: … Trả lời: …", "Câu hỏi đầu tiên: …") trong 1–2 đoạn văn → không tách được thành cặp hỏi–đáp rời, không đánh dấu được; chỉ 4 bài (00009, 00037, 00050, 00051) có heading + đáp án tách rời. **10/10 trang có FAQ và 3/13 bài (BLG-00081, BLG-00207, BLG-00213) kéo theo khẳng định BLOCKED** (trong đáp án FAQ hoặc cùng trang) (§6, §9).
-2. **Trang `/bang-gia/` (và `/bang-gia-xe-*/`, `/gioi-thieu/`, `/lien-he/`, `/kinh-nghiem/`, `/chia-se/`, `/bai-viet/`, `/dieu-khoan/`) nêu cọc 2–5 triệu, hoàn cọc, phí trễ 20.000đ/giờ (+1 ngày sau 6 giờ), bảo hiểm, mũ bảo hiểm.** Đây là chủ đề `BLOCKED` trong `reports/factory/policy-conflicts.md` (chủ xe chưa quyết định) và đang **mâu thuẫn** với `data/business-facts.json` ("mức cọc: xác nhận trực tiếp"). Thêm `FAQPage` lên các trang này ở hiện trạng sẽ *khuếch đại* thông tin chưa duyệt → ưu tiên P0, chưa động vào.
+1. **FAQ đang hiển thị có chất lượng "vừa phải", cấu trúc yếu, nội dung rủi ro.** 23 URL có FAQ: 1 chất lượng GOOD (BLG-00009), 17 FAIR, 5 WEAK. 8/13 bài (BLG-00036, 00064, 00081, 00125, 00132, 00184, 00207, 00213) viết FAQ dạng *run-in* ("Hỏi: … Trả lời: …", "Câu hỏi đầu tiên: …") trong 1–2 đoạn văn (riêng BLG-00081 là 20 đoạn) → không tách được thành cặp hỏi–đáp rời, không đánh dấu được; 5/13 bài (BLG-00003, 00009, 00037, 00050, 00051) có câu hỏi dạng heading + đáp án tách rời. **10/10 trang có FAQ và 2/13 bài (BLG-00081, BLG-00213) kéo theo khẳng định thuộc chủ đề BLOCKED** (trong đáp án FAQ hoặc cùng trang) (§6, §9).
+2. **Các trang giá và thông tin cửa hàng nêu số liệu thuộc chủ đề BLOCKED.** `/bang-gia/`, `/gioi-thieu/`, `/lien-he/`, `/kinh-nghiem/`, `/bai-viet/`, `/dieu-khoan/` và `/bang-gia-xe-ga/`, `/bang-gia-xe-so/` nêu (mỗi trang một phần) cọc 2–5 triệu, hoàn cọc, phí trễ 20.000đ/giờ (+1 ngày sau 6 giờ), bảo hiểm, mũ bảo hiểm; `/chia-se/` chỉ nói phí trễ "theo thỏa thuận" cùng cam kết "ưu đãi"; `/bang-gia-xe-50cc/` và `/bang-gia-xe-dien/` chủ yếu có câu giấy phép không nguồn và phí trễ/mũ trong thân trang. Đây là các chủ đề `BLOCKED` trong `reports/factory/policy-conflicts.md` (chủ xe chưa quyết định) và đang **mâu thuẫn** với `data/business-facts.json` ("mức cọc: xác nhận trực tiếp"). Thêm `FAQPage` lên các trang này ở hiện trạng sẽ *khuếch đại* thông tin chưa duyệt → ưu tiên P0, chưa động vào.
 3. **Một số khẳng định pháp lý không nguồn nằm trong FAQ và thân bài** (ví dụ BLG-00003: "Theo luật Việt Nam, du khách nước ngoài có thể thuê xe 50cc mà không cần giấy phép lái xe…"; BLG-00064 về người ngồi sau/giấy tờ bắt buộc; BLG-00132 về ghế/mũ trẻ em). Cùng một câu hỏi pháp lý được trả lời ở nhiều bài với mức chắc chắn khác nhau.
-4. **Khẳng định bị cấm** (`forbidden_claims` trong `data/business-facts.json`): BLG-00003 viết "kinh nghiệm phục vụ hàng nghìn khách hàng" (nhóm "số lượng khách đã phục vụ" — bằng chứng bịa; đã sửa, §16). Bộ lọc `forbidden_claims` của scorer còn khớp 3 bài khác (BLG-00037, BLG-00211: "bảo hành" theo nghĩa bảo hành của hãng xe/điện thoại; BLG-00265: "thứ hạng ưu tiên") — đọc ngữ cảnh đó là cách dùng thông thường, không phải cam kết của cửa hàng nên chỉ ghi nhận, không sửa. Ngoài ra 25/300 bài nêu số tiền không có trong danh mục dữ kiện đã duyệt; 0/300 bài dẫn nguồn ngoài.
+4. **Khẳng định bị cấm** (`forbidden_claims` trong `data/business-facts.json`): BLG-00003 viết "kinh nghiệm phục vụ hàng nghìn khách hàng" (nhóm "số lượng khách đã phục vụ" — bằng chứng bịa; đang sửa ở PR #23 (chưa merge), §16). Bộ lọc `forbidden_claims` của scorer còn khớp 3 bài khác (BLG-00037, BLG-00211: "bảo hành" theo nghĩa bảo hành của hãng xe/điện thoại; BLG-00265: "thứ hạng ưu tiên") — đọc ngữ cảnh đó là cách dùng thông thường, không phải cam kết của cửa hàng nên chỉ ghi nhận, không sửa. Ngoài ra 25/300 bài nêu số tiền không có trong danh mục dữ kiện đã duyệt; 0/300 bài dẫn nguồn ngoài.
 5. **Bài đã trả lời trực tiếp nhưng nằm dưới heading mô tả tốt nên không cần FAQ**: 180/300 bài heading GOOD, 120 OK, 0 WEAK; 90/300 trả lời trực tiếp ngay đầu bài, 205 một phần. FAQ chỉ có giá trị khi câu trả lời đang bị "vùi" (2 bài ADD).
-6. **Liên kết nội bộ lệch**: "bài liên quan" của layout dùng 4 bài **mới nhất** cùng cụm → 288/300 bài mẫu có *cùng một bộ* liên quan; 100% trong 1.200 link liên quan trỏ tới bài đăng 2026-10-07…12; 225/300 bài mẫu không nhận link nào từ thân bài khác lẫn từ khối liên quan (chỉ prev/next). Trụ cột BLG-00002 nhận 283 link thân bài (157 bài trong số đó dùng URL dạng `//`, trả 200 nhưng khác canonical), BLG-00001 nhận 70. 297/300 bài có 2–5 link thân bài dạng mẫu (`/lien-he/`, `/kinh-nghiem/`, `/bang-gia/`) — không có link ngữ cảnh tới bài cùng chủ đề (ví dụ BLG-00002: "body x0").
+6. **Liên kết nội bộ lệch**: "bài liên quan" của layout dùng 4 bài **mới nhất** cùng cụm → chỉ có 38 bộ liên quan khác nhau trong 300 bài mẫu (bộ lớn nhất dùng chung bởi 66 bài) và 288/300 bài dùng chung bộ 4 bài với ít nhất một bài khác; 100% trong 1.200 link liên quan trỏ tới bài đăng 2026-10-07…12; 225/300 bài mẫu không nhận link nào từ thân bài khác lẫn từ khối liên quan (chỉ prev/next). Trụ cột BLG-00002 nhận link từ thân bài của 283 bài khác (trong 2.483 bài đã dựng; hầu hết, ≈97%, dùng URL dạng `//` — trả 200 nhưng khác canonical), BLG-00001 nhận 70. 297/300 bài có 2–5 link thân bài dạng mẫu (`/lien-he/`, `/kinh-nghiem/`, `/bang-gia/`) — không có link ngữ cảnh tới bài cùng chủ đề (ví dụ BLG-00002: "body x0").
 7. **Title/meta**: title hiển thị (gồm hậu tố thương hiệu) > 60 ký tự ở 289/300 bài (trung vị 82, tối đa 116); mô tả > 160 ký tự ở 128/300 (tài liệu chính sách nội bộ ghi 140–160). Không trùng title/description trong mẫu; canonical khớp 300/300; không có `robots` chặn. **Chưa thay title/meta** (ngoài phạm vi matrix FAQ, chờ chủ quyết định).
 8. **Permalink legacy chứa dấu cách + ký tự Unicode ở 300/300 bài** (`/kinh nghiệm/2026/09/13/…`) — URL thật đã live, tài liệu nội bộ ghi nhận là chấp nhận; không đề xuất đổi URL.
 9. **Lỗi slug của factory (ngoài mẫu nhưng ảnh hưởng lớn)**: hàm `slugify` bỏ chữ "đ" (đ→"", "xe đạp điện" → `xe-ap-ien`): tại commit gốc, trong 2.010 bài factory PUBLISHED có 1.371 bài có "đ" trong tiêu đề và **cả 1.371 bài** đều mất "đ" trong slug; 388/468 hàng PLANNED sắp bị ảnh hưởng. Chỉ chặn được cho bài chưa viết (§16); bài đã xuất bản giữ URL (không có quyền redirect).
@@ -142,8 +142,9 @@ Trang chủ đề mỏng (trung vị ≈ 40 từ biên tập; hub ≈ 71 từ) v
 | PG-GIOI-THIEU | Page | 6 | FAIR | IMPROVE | P0 | Câu hỏi tự nhiên, đáp ngắn. Nhưng 'Tiền đặt cọc' nêu khoảng 2–5 triệu và 'Xe có bảo hiểm không?' nêu 'không cung cấp bả… |
 | PG-LIEN-HE | Page | 8 | WEAK | IMPROVE | P0 | Hỏi–đáp tự nhiên, ngắn, đúng định dạng; nhưng 3/8 đáp án nêu nội dung BLOCKED (cọc 2–5 triệu, phí trễ, không bảo hiểm),… |
 
-* Chỉ **BLG-00009** (KEEP) có cấu trúc và nội dung tốt: 3 câu tự nhiên, đáp án 2–3 câu tự đứng, không giá/cọc/pháp lý.
-* **BLG-00036 và BLG-00051** (rủi ro LOW) chỉ cần sửa **cách trình bày** (tách cặp thành khối rời, giữ nguyên nghĩa). **BLG-00037, 00050, 00184** có cấu trúc/chủ đề đúng nhưng cần xác nhận hoặc diễn đạt lại vài câu (giấy phép 50cc không nguồn, cam kết bảo dưỡng, khẳng định y học/ắc quy, cụm bị cấm). **BLG-00064, 00125, 00132, 00207, 00213** viết run-in trong một đoạn (không tách được); 00064, 00132, 00213 mang khẳng định pháp lý không nguồn; **BLG-00003 và BLG-00081 là P0** (luật 50cc, "hàng nghìn khách hàng", cọc/phí trễ).
+* Chỉ **BLG-00009** (KEEP) có cấu trúc và nội dung tốt: 3 câu tự nhiên, đáp án 2–3 câu tự đứng, không giá/cọc/pháp lý (nên xác nhận thêm câu về bảo dưỡng).
+* **Có heading + đáp án tách rời (5 bài: BLG-00003, 00009, 00037, 00050, 00051)**: cấu trúc đủ để đánh dấu, nhưng nội dung cần xử lý — BLG-00003 (P0: luật 50cc/GPLX không nguồn, "hàng nghìn khách hàng"), BLG-00037 (diễn đạt lại câu 4 có "bảo hành", thiếu câu "ai chịu thay nhớt"), BLG-00050 (giấy phép 50cc không nguồn, câu trả lời né câu hỏi), BLG-00051 (xác nhận hai cam kết dịch vụ, quy tắc xăng dư, lỗi "dây curoa").
+* **Run-in, không tách được (8 bài: BLG-00036, 00064, 00081, 00125, 00132, 00184, 00207, 00213)**: BLG-00036 (rủi ro LOW) chỉ cần tách khối nhưng vẫn cần xác nhận vài câu (đổi xe khác, ngưỡng 20–30%); BLG-00064, 00132, 00213 mang khẳng định pháp lý không nguồn; BLG-00081 là P0 (cọc/phí trễ, 20 đoạn Q&A); BLG-00184 (2 đoạn) có khẳng định y học/ắc quy không nguồn; BLG-00125 (P3) kinh nghiệm dân gian không nguồn; BLG-00207 cùng ý định với 4 bài khác (MERGE).
 * **10 trang** có FAQ (heading + đoạn ngắn — cấu trúc tốt) nhưng **10/10 liên quan khẳng định BLOCKED** (trong FAQ hoặc cùng trang): cần chủ xe quyết định trước khi đánh dấu hoặc mở rộng.
 
 ## 7. Nội dung đã trả lời nhưng chưa có FAQ (231 URL Implicit) — vì sao phần lớn KHÔNG thêm FAQ
@@ -254,8 +255,8 @@ P0 = vấn đề phải giải quyết TRƯỚC mọi việc FAQ: khẳng địn
 
 ## 10. Cannibalization và trùng lặp câu hỏi
 
-* **258 nhóm URL cùng ý định** (103 mức HIGH, 155 MEDIUM) bao quanh **767 URL** (699 bài, 68 trang; gồm cả bài ngoài mẫu 300 là đối thủ nội bộ). Trong 300 bài mẫu: cannibalization HIGH 88, MEDIUM 103, LOW 96, NONE 13; **18 bài đề xuất MERGE**. Trang chính: HIGH 15, MEDIUM 52, LOW 9, NONE 1.
-* **Quy tắc đã dùng**: chỉ coi là cannibalization khi *câu hỏi chính* (không chỉ chủ đề) trùng; mỗi nhóm có **bài chuẩn đề xuất** (ghi trong cột *Cannibalization* của matrix). **Chưa gộp, xóa hay redirect** bài nào — cần chính sách canonical/301 của chủ.
+* **258 nhóm chồng lấn** — mỗi nhóm là một URL có cannibalization HIGH/MEDIUM (191 bài + 67 trang trong mẫu; 103 HIGH, 155 MEDIUM) cùng các URL đối thủ nó nêu; các nhóm chồng lấn nhau (224 URL thuộc ≥ 2 nhóm) nên tổng cộng bao **767 URL** (699 bài, 68 trang; gồm cả bài ngoài mẫu 300 là đối thủ nội bộ), gộp liên thông còn 87 cụm (cụm lớn nhất 229 URL vì liên thông qua chuỗi đối thủ, không có nghĩa là cùng một ý định). Trong 300 bài mẫu: cannibalization HIGH 88, MEDIUM 103, LOW 96, NONE 13; **18 bài đề xuất MERGE**. Trang chính: HIGH 15, MEDIUM 52, LOW 9, NONE 1.
+* **Quy tắc đã dùng**: HIGH = trùng *câu hỏi chính*; MEDIUM = trùng *ý định con* (một phần/FAQ), không chỉ trùng chủ đề; cột *Cannibalization* của matrix liệt kê URL đối thủ và, ở nhiều nhóm, bài chuẩn đề xuất — các nhóm còn lại cần chủ chọn bài chuẩn. **Chưa gộp, xóa hay redirect** bài nào — cần chính sách canonical/301 của chủ.
 * 40 nhóm lớn nhất:
 
 | # URL | Mức | IDs | Ghi chú |
@@ -340,7 +341,7 @@ P0 = vấn đề phải giải quyết TRƯỚC mọi việc FAQ: khẳng địn
 | Schema FAQ "Existing / Invalid" | 0 / 0 | 0 / 0 |
 | Schema FAQ "Not applicable" | 285 | 67 |
 
-* "Missing" nghĩa là URL *nên có* FAQ hiển thị nhưng chưa có markup — **không** có nghĩa là phải thêm `FAQPage` ngay: Google không còn hiển thị FAQ rich result; markup chỉ nên bật sau khi nội dung hỏi–đáp đã được sửa (P0) và **chỉ khi hỏi–đáp xuất hiện trên trang** (parity). Hiện chỉ 2 bài (BLG-00009, BLG-00037) đủ điều kiện đánh dấu ngay mà không sửa nội dung.
+* "Missing" nghĩa là URL *nên có* FAQ hiển thị nhưng chưa có markup — **không** có nghĩa là phải thêm `FAQPage` ngay: Google không còn hiển thị FAQ rich result; markup chỉ nên bật sau khi nội dung hỏi–đáp đã được sửa (P0) và **chỉ khi hỏi–đáp xuất hiện trên trang** (parity). Hiện chỉ 2 bài (BLG-00009, BLG-00037) được phân tích gắn cờ `faqpage_eligible_now` (BLG-00037 cần diễn đạt lại câu 4 trước; BLG-00009 nên xác nhận câu bảo dưỡng).
 * Loại JSON-LD đang phát: bài = `BlogPosting` + `BreadcrumbList` + `LocalBusiness` + `Organization` + `WebSite` (2 khối); trang chính = `LocalBusiness` + `Organization` + `WebSite` (1 khối). `<title>` khớp H1 và canonical khớp URL ở 300/300 bài (BLG-00238 có thêm một H1 thứ hai trong thân bài); không có `robots` chặn index; `dateModified` luôn bằng `datePublished` (300/300).
 
 ## 12. Phương án triển khai (chi tiết: `faq-implementation-plan.md`)
@@ -352,7 +353,7 @@ P0 = vấn đề phải giải quyết TRƯỚC mọi việc FAQ: khẳng địn
 | **Generator** | Sinh bản *nháp* dữ liệu FAQ từ cột *Suggested Questions*/*Answer Source* của matrix (status draft, không tự duyệt) | — |
 | **Content** (sửa nội dung có kiểm soát) | P0 (BLOCKED/pháp lý), MERGE/cannibalization, bỏ khẳng định bị cấm | 294 bài + 68 trang (đa số là NO FAQ/không đổi; P0/MERGE cần chủ quyết định) |
 
-Nguyên tắc: **không FAQ hàng loạt**; mỗi câu phải có đoạn nguồn thật trên chính trang đó; chủ đề BLOCKED không được bật cho tới khi chủ xe quyết định; schema tắt mặc định (`faq_schema: false`).
+Nguyên tắc: **không FAQ hàng loạt**; mỗi câu phải có đoạn nguồn thật trên chính trang đó; chủ đề BLOCKED không được bật cho tới khi chủ xe quyết định; `FAQPage` JSON-LD chỉ phát khi file `_data/faq/<khóa>.json` có `"schema": true` (không có file ⇒ HTML không đổi).
 
 ## 13. Chưa kiểm chứng được / hạn chế
 
@@ -380,15 +381,15 @@ Kết luận: danh sách P0 và hành động (thứ phục vụ quyết định
 
 ## 15. Phát hiện ngoài phạm vi FAQ (cần chú ý)
 
-1. **GitHub Pages bị hủy build liên tục**: trong 12 lần "pages build and deployment" gần nhất có 11 lần bị hủy vì factory đẩy commit mỗi vài phút; build thành công mất ≈ 10,4 phút (đo của `docs/CAPACITY-20K-FEASIBILITY.md`) → nội dung mới chỉ lên production khi các writer dừng. Nguyên nhân kỹ thuật cục bộ: `related-articles.html` quét toàn bộ `site.posts` cho từng bài (O(N²)) — phần lớn thời gian build (đo bằng `jekyll build --profile`). Đã xử lý ở §16.
+1. **GitHub Pages bị hủy build liên tục**: factory đẩy commit mỗi vài phút và mỗi push hủy lần "pages build and deployment" đang chạy — đo ngày 2026-10-13 03:26Z: 10/12 lần gần nhất bị hủy (khoảng 2026-10-12 18:14Z–2026-10-13 01:30Z là 11/12); lần thành công mất khoảng 6–12 phút (mẫu trong `docs/CAPACITY-20K-FEASIBILITY.md`: 10,4 phút) → nội dung mới chỉ lên production khi các writer dừng. Nguyên nhân kỹ thuật cục bộ: `related-articles.html` quét toàn bộ `site.posts` cho từng bài (O(N²)) — phần lớn thời gian build (đo bằng `jekyll build --profile`). Đã xử lý ở §16.
 2. **Capacity 10K vs 20K**: chỉ tiêu biên tập đã kiểm chứng 7.463 bài (6.980 + 483 legacy); trần engine 10.000; mục tiêu 20.000 cần sửa cấu hình + giải bài toán build. Đề xuất ở `docs/CAPACITY-20K-FEASIBILITY.md`.
-3. **7 bài PUBLISHED có `parent_id`/`child_id` sai trong front matter** (ràng buộc hash của evidence → chỉ sửa được qua quy trình re-attest đã duyệt).
+3. **7 bài PUBLISHED mang `parent_id`/`child_id` không tồn tại trong taxonomy** (BLG-00513, 00514, 01381–01384, 01591) **và 2 bài lệch matrix dù ID hợp lệ** (BLG-01526, BLG-01536) — front matter ràng buộc hash của evidence QA nên chỉ sửa được qua quy trình re-attest đã duyệt.
 4. **Một số bài legacy bị xếp sai cụm** (ví dụ BLG-00002 vào "Kỹ năng lái cơ bản", BLG-00060 vào "Bảo hiểm xe máy") → khối liên quan lệch ý định; dữ liệu `existing-map.json` là seed không chỉnh tay.
-5. **Hai trang trùng meta description** (Trang chủ và `/bai-viet/`) — đã sửa: `/bai-viet/` có mô tả riêng (§16).
+5. **Hai trang trùng meta description** (Trang chủ và `/bai-viet/`) — đang sửa ở PR #23 (chưa merge): `/bai-viet/` có mô tả riêng (§16).
 
 ## 16. Tối ưu đã triển khai sau khi chủ ủy quyền (cập nhật sau audit)
 
-Các sửa dưới đây **không thay đổi URL, canonical, title, meta, nội dung bài, QA, engine gate hay evidence** và mỗi PR có CI xanh + rollback bằng `git revert`:
+Các sửa dưới đây **không thay đổi URL, canonical, title, QA, engine gate hay evidence**; trừ #23 (nội dung bài legacy và meta description của `/bai-viet/`) cũng không đổi nội dung bài/meta. Mỗi PR có CI xanh + rollback bằng `git revert`:
 
 | PR | Nội dung | Trạng thái |
 |---|---|---|
@@ -404,14 +405,14 @@ Các sửa dưới đây **không thay đổi URL, canonical, title, meta, nội
 
 Các mục dưới đây **không thuộc quyền tự quyết của AI** (dữ kiện kinh doanh, pháp lý, chính sách URL, quyền hạn hệ thống). Nội dung liên quan được **giữ nguyên, không sửa, không khuếch đại bằng FAQ** cho tới khi có quyết định.
 
-1. **Chủ đề BLOCKED** (`reports/factory/policy-conflicts.md`): mức cọc, hoàn cọc/khấu trừ, phí trả trễ (20.000đ/giờ và +1 ngày sau 6 giờ), bảo hiểm, giữ giấy tờ gốc, mũ bảo hiểm kèm xe, hoàn tiền trả sớm. Có mặt ở 68/300 bài mẫu và 30/77 trang (gồm toàn bộ 10 trang có FAQ) — đây là nguyên nhân của hầu hết 37 URL P0. Cần **một quyết định chính sách** (hoặc xác nhận "xác nhận trực tiếp, không nêu số") để sửa đồng bộ qua dữ liệu, không sửa tay từng bài.
+1. **Chủ đề BLOCKED** (`reports/factory/policy-conflicts.md`): mức đặt cọc, phí trả trễ (20.000đ/giờ và +1 ngày sau 6 giờ), bảo hiểm cho người thuê, giữ giấy tờ tùy thân, mũ bảo hiểm kèm xe, hoàn tiền thời gian chưa dùng. Có mặt dưới dạng khẳng định cụ thể ở 40/300 bài mẫu và 19/77 trang (tối đa 57 bài và 26 trang nếu tính cả khẳng định ngầm/chạm chủ đề; 10/10 trang có FAQ đều liên quan) — đây là nguyên nhân của hầu hết 37 URL P0. Cần **một quyết định chính sách** (hoặc xác nhận "xác nhận trực tiếp, không nêu số") để sửa đồng bộ qua dữ liệu, không sửa tay từng bài.
 2. **Khẳng định pháp lý** (giấy phép lái xe 50cc/xe điện, IDP, trẻ em/ghế/mũ, giấy tờ bắt buộc…): cần nguồn chính thức hoặc người có thẩm quyền xác nhận; hiện chỉ được hedge/gắn cờ.
-3. **Cannibalization / MERGE** (261 nhóm, 16 bài MERGE trong mẫu): chọn bài chuẩn cho từng cụm và **chính sách canonical/301**. Chưa có quyền đổi URL hay redirect nên chưa gộp bài nào.
+3. **Cannibalization / MERGE** (258 nhóm chồng lấn, 18 bài MERGE trong mẫu): chọn bài chuẩn cho từng cụm và **chính sách canonical/301**. Chưa có quyền đổi URL hay redirect nên chưa gộp bài nào.
 4. **1.371 bài factory đã xuất bản có slug mất chữ "đ"** (URL thật đang live; số này chỉ tính các bài đã xuất bản tại thời điểm audit, các bài W1/W2 xuất bản sau đó trước khi có bản sửa cũng bị): giữ nguyên hay chuyển hướng 301? Hàng PLANNED chưa viết: 349 hàng (BLG-02553…02961) đã được sửa slug (PR #21); còn 7 hàng (BLG-02505…02512) nằm trong vùng đệm 40 hàng quanh lease đang hoạt động của W1 nên công cụ từ chối sửa (fail-closed) — làm ở đợt sau khi không còn lease gần. Bài đã xuất bản không đụng tới khi chưa có quyết định.
-5. **7 bài PUBLISHED có `parent_id`/`child_id` sai trong front matter** (bị ràng buộc hash evidence QA): chỉ sửa được qua quy trình re-attest đã dựng (PR-B/C đang chờ chủ nghiệm thu).
+5. **7 bài PUBLISHED mang `parent_id`/`child_id` không tồn tại trong taxonomy** (BLG-00513, 00514, 01381–01384, 01591) **và 2 bài lệch matrix** (BLG-01526, BLG-01536) (bị ràng buộc hash evidence QA): chỉ sửa được qua quy trình re-attest đã dựng (PR-B/C đang chờ chủ nghiệm thu).
 6. **Search Console của `blog.thuexemaynguyentu.com`** chưa kết nối vào connector → không đo được tác động (hiển thị, click, xếp hạng, báo cáo AI). Cần kết nối trước khi tuyên bố bất kỳ hiệu quả nào.
-7. **Cách hiểu "300 bài PUBLISHED đầu tiên"** (§3): mẫu hiện tại = 300 bài live đầu tiên (đều là bài legacy). Nếu muốn mẫu theo nghĩa hẹp (BLG-00484…BLG-00784, bài của factory), chạy lại pipeline.
-8. **Title/meta**: 289/300 title > 60 ký tự, 128/300 mô tả > 160 ký tự (chưa đổi vì thuộc quyết định SEO riêng, không nằm trong matrix FAQ). Trùng meta description giữa Trang chủ và `/bai-viet/` đã được sửa (mô tả riêng cho `/bai-viet/`, §16).
+7. **Cách hiểu "300 bài PUBLISHED đầu tiên"** (§3): mẫu hiện tại = 300 bài live đầu tiên (đều là bài legacy). Nếu muốn mẫu theo nghĩa hẹp (BLG-00484…BLG-00784 trừ BLG-00507 đang BLOCKED, bài của factory), chạy lại pipeline.
+8. **Title/meta**: 289/300 title > 60 ký tự, 128/300 mô tả > 160 ký tự (chưa đổi vì thuộc quyết định SEO riêng, không nằm trong matrix FAQ). Trùng meta description giữa Trang chủ và `/bai-viet/`: đang sửa ở PR #23 (chưa merge) (mô tả riêng cho `/bai-viet/`, §16).
 9. **JSON-LD `FAQPage` có nên bật không**: Google đã ngừng FAQ rich result và hướng dẫn AI không yêu cầu schema, nên giá trị chủ yếu là nội dung hiển thị rõ ràng. Hai bài pilot (BLG-00049, BLG-00090) hiển thị khối FAQ nhưng để `"schema": false` (JSON-LD tắt); hạ tầng đã sẵn sàng và đã qua parity check — muốn bật chỉ cần đổi một dòng trong file dữ liệu. Chỉ nên mở rộng FAQ/schema sang trang khác sau khi các mục BLOCKED/pháp lý của trang đó được chủ quyết định.
 10. **Capacity 10K vs 20K** (`docs/CAPACITY-20K-FEASIBILITY.md`): chỉ tiêu biên tập đã kiểm chứng 7.463 bài; vượt 10.000 cần sửa cấu hình + code + test và giải bài toán build.
-11. **Triển khai/build của GitHub Pages**: build thành công mất ≈ 10 phút và bị hủy khi factory đẩy commit mỗi vài phút (11/12 lần gần nhất bị hủy) → nội dung mới chỉ lên production khi writer dừng. Cần quyết định kiến trúc (ví dụ gom push, deploy bằng workflow riêng, giảm thời gian build); đã giảm chi phí build một phần bằng tối ưu "bài liên quan" (§16).
+11. **Triển khai/build của GitHub Pages**: build thành công mất khoảng 6–12 phút và bị hủy mỗi khi factory đẩy commit mới (đo 2026-10-13 03:26Z: 10/12 lần gần nhất bị hủy) → nội dung mới chỉ lên production khi writer dừng. Cần quyết định kiến trúc (ví dụ gom push, deploy bằng workflow riêng, giảm thời gian build); đã giảm chi phí build một phần bằng tối ưu "bài liên quan" (§16).

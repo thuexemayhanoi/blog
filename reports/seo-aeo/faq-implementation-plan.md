@@ -70,14 +70,14 @@
 | Thành phần | Vai trò | Ghi chú |
 |---|---|---|
 | `_includes/faq.html` | Khối hiển thị `section.faq` + (tùy chọn) `FAQPage` JSON-LD từ cùng biến | Prototype đã chạy thử trong site Jekyll tạm ngoài repo: `reports/seo-aeo/prototype/` |
-| `_data/faq/<khóa>.yml` | Dữ liệu FAQ theo trang. Khóa = `page.slug` (bài) hoặc `page.faq_key` (trang tĩnh) | Mỗi file một trang → diff nhỏ, ít xung đột |
+| `_data/faq/<khóa>.json` | Dữ liệu FAQ theo trang. Khóa = `page.slug` (bài) hoặc `page.faq_key` (trang tĩnh) | Mỗi file một trang → diff nhỏ, ít xung đột |
 | Hook trong `_layouts/post.html` (và `page.html`, có thể `topic.html`) | `{% assign faq_data = site.data.faq[page.slug] %}{% include faq.html items=faq_data %}` | Jekyll 3.10 **không** cho truyền `site.data.faq[page.slug]` trực tiếp làm tham số include (đã thử: `Invalid syntax for include tag`) → phải `assign` trước |
-| `_config.yml` → `faq_schema: false/true` | Công tắc bật/tắt JSON-LD toàn site | Mặc định `false` (xem §0: Google đã gỡ rich result) |
+| `"schema": true/false` trong từng `_data/faq/<khóa>.json` | Công tắc JSON-LD **theo từng trang** (đã triển khai ở PR #15; không có khóa cấu hình toàn site) | Không có file ⇒ không in gì; `schema: false` ⇒ chỉ khối hiển thị (xem §0: Google đã gỡ rich result) |
 | `scripts/faq/validate_faq.py` (CI) | Kiểm dữ liệu: ≥2 và ≤6 câu/trang; mỗi câu có `source.quote` tìm thấy nguyên văn trong bài (hoặc `source.type: editorial` cho trang tĩnh); mọi số tiền/giờ/thời hạn phải thuộc `data/business-facts.json`; chủ đề BLOCKED bị chặn; không trùng câu hỏi giữa các trang (Jaccard ≥ 0.6) trừ khi `shared: true` | Dùng lại bộ chuẩn hóa tiếng Việt của audit |
 | `scripts/faq/faq_parity_check.py` (CI, sau build) | Parity hiển thị ↔ JSON-LD trên `_site`: đúng 1 `FAQPage`, cặp hỏi–đáp trùng khít, không có khối ẩn | Prototype đã thử cả hai chiều (pass khi đúng, exit 1 khi lệch) |
 | Test | Unit test cho validator; test build trên site mẫu (không dữ liệu → output giống hệt; có dữ liệu → parity) | Thêm vào nhóm CI hiện có |
 
-### 3.3 Mô hình dữ liệu (đề xuất)
+### 3.3 Mô hình dữ liệu (đề xuất; **đã triển khai bằng JSON** ở PR #15 — định dạng thật: `docs/FAQ-COMPONENT.md`, khóa `heading`, `schema`, `items[{q,a,src}]`)
 ```yaml
 # _data/faq/<slug>.yml  — một file một trang
 status: approved            # draft | approved  (chỉ approved mới hiển thị)
@@ -115,7 +115,7 @@ Câu trả lời là **văn bản thuần** (không HTML/Markdown) để hiển 
 |---|---|---|---|
 | **Template** (layout/include dùng chung) | Sửa đồng loạt không đụng nội dung: breadcrumb JSON-LD cho hub/topic, `BlogPosting` bổ sung `image`/`mainEntityOfPage`/`inLanguage`, escape JSON-LD, `priceRange` lấy từ dữ liệu, khối "bài liên quan" theo ngữ cảnh | Một chỗ sửa, áp cho mọi trang | Đụng HTML của toàn site → cần build diff + kiểm sample; không phải FAQ |
 | **Component** (`faq.html` + `_data/faq/`) | URL `ADD` (ý trả lời đã có nhưng bị vùi) và trang tĩnh/chủ đề | Một nguồn sự thật, không đụng `_posts/`, parity kiểm tự động | Cần người duyệt từng câu; tăng số file dữ liệu |
-| **Generator** (script gợi ý từ matrix `Suggested Questions`/`Answer Source`) | Tạo bản nháp `_data/faq/*.yml` (status: draft) từ matrix đã duyệt | Nhanh, có truy vết đoạn nguồn | Chỉ ra bản nháp; không tự `approved` |
+| **Generator** (script gợi ý từ matrix `Suggested Questions`/`Answer Source`) | Tạo bản nháp `_data/faq/*.json` (status: draft) từ matrix đã duyệt | Nhanh, có truy vết đoạn nguồn | Chỉ ra bản nháp; không tự `approved` |
 | **Content** (sửa tay nội dung) | FAQ đang hiển thị có rủi ro chính xác (P0); gộp/phân biệt ý định trùng; làm mỏng trùng lặp | Giải quyết gốc vấn đề | Đổi hash nội dung → chấm lại QA độc lập; làm từng trang, có chủ duyệt |
 
 ## 5. Lộ trình theo pha (mỗi pha: PR riêng, CI xanh, rollback = `git revert`)
@@ -125,7 +125,7 @@ Câu trả lời là **văn bản thuần** (không HTML/Markdown) để hiển 
 | **0 — Audit (xong khi chủ duyệt)** | Matrix + báo cáo trên nhánh `claude/seo-aeo-faq-audit`; không đụng website | Chủ duyệt matrix và thứ tự ưu tiên | Xóa nhánh |
 | **1 — Quyết định nội dung P0** | Chủ quyết định các mục BLOCKED (cọc, phí trễ, bảo hiểm, giữ giấy tờ, mũ, hoàn tiền); sửa/gỡ các khẳng định rủi ro trong FAQ đang hiển thị (đầu tiên `/bang-gia/`, rồi các bài P0 trong matrix) | Danh sách P0 = 0 mục tồn đọng | Revert từng PR nội dung |
 | **2 — Hạ tầng, không đổi hiển thị** | `_includes/faq.html` + validator + parity check + test; không có dữ liệu → HTML giống hệt | `jekyll build` trước/sau giống byte-for-byte; CI xanh; chủ duyệt | `git revert` (không có dữ liệu thật) |
-| **3 — Pilot 10 URL** | 10 URL P1 (mix bài + trang) với `_data/faq/*.yml` đã duyệt, `faq_schema: false` | Parity OK; không tăng thời gian build đáng kể; đọc thử bằng mắt; chủ duyệt từng câu | Xóa file dữ liệu |
+| **3 — Pilot 10 URL** | 10 URL P1 (mix bài + trang) với `_data/faq/*.json` đã duyệt, `"schema": false` | Parity OK; không tăng thời gian build đáng kể; đọc thử bằng mắt; chủ duyệt từng câu | Xóa file dữ liệu |
 | **4 — Mở rộng theo ưu tiên** | 25–50 URL/PR theo P1 → P2 | Cùng tiêu chí pha 3 + không trùng câu hỏi | Revert PR |
 | **5 — Bài mới** | `faq:` cho factory (cần đổi QA scorer, duyệt riêng) | Riêng | Riêng |
 | **Song song — Template** | Nhóm sửa template ở §4 (chỉ khi chủ duyệt), mỗi nhóm một PR, diff `_site` trên mẫu 30 trang | Không đổi canonical/title/meta | `git revert` |
@@ -157,7 +157,7 @@ Không làm: `llms.txt`, "chunking", viết riêng cho AI, tạo hàng loạt tr
 ## 9. Quyết định cần chủ website
 1. ~~Duyệt matrix~~ (đã ủy quyền tối ưu theo matrix, 2026-10-12); còn lại: xác nhận cách hiểu "300 bài PUBLISHED" (xem `faq-audit-summary.md` §3).
 2. Quyết định các mục BLOCKED trong `reports/factory/policy-conflicts.md` (khoảng cọc, phí trễ, bảo hiểm, giữ giấy tờ, mũ, hoàn tiền) — cần để sửa P0.
-3. ~~Có triển khai hạ tầng FAQ dùng chung không~~ (đã làm, PR #15); còn lại: có bật JSON-LD (`faq_schema`) không — khuyến nghị giữ tắt.
+3. ~~Có triển khai hạ tầng FAQ dùng chung không~~ (đã làm, PR #15); còn lại: có bật JSON-LD (`"schema": true` trong file dữ liệu) không — khuyến nghị giữ tắt.
 4. Kết nối Search Console của `blog.thuexemaynguyentu.com`.
 5. Các phát hiện ngoài phạm vi FAQ: slug mất chữ "đ" (đã chặn cho bài mới, PR #19/#21; 1.371 bài đã xuất bản giữ URL — cần quyết định redirect), 50 bài permalink dạng ngày-gạch, 7 bài sai `parent_id`/`child_id`.
 6. Danh sách đầy đủ các quyết định đang chờ: `faq-audit-summary.md` §17.
