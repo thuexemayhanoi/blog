@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T02:08:58+00:00",
+  "updated_at": "2026-10-13T02:09:20+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02540",
-      "started_at": "2026-10-12T11:58:00+00:00",
-      "source": "_drafts/2026-10-11-len-doc-bang-xe-ap-ien-giu-a-ap-phu-cung-motor-e-o-nang-chan.md",
-      "destination": "_posts/2026-10-11-len-doc-bang-xe-ap-ien-giu-a-ap-phu-cung-motor-e-o-nang-chan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "42573cface59ee8a7fba03c112977bf25eb25869",
-      "finished_at": "2026-10-12T11:58:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02541",
       "started_at": "2026-10-12T11:58:09+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "97fb39ef2b48da30f89c815f151f0a93af9f127a",
       "finished_at": "2026-10-13T02:08:58+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02502",
+      "started_at": "2026-10-13T02:09:20+00:00",
+      "source": "_drafts/2026-10-13-tay-ga-bi-ket-khong-nha-ve-tat-may-bop-phanh-va-dung-xe-an-toan.md",
+      "destination": "_posts/2026-10-13-tay-ga-bi-ket-khong-nha-ve-tat-may-bop-phanh-va-dung-xe-an-toan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "be35bcb11a85774275a084c1b3b0dce90632df9a",
+      "finished_at": "2026-10-13T02:09:20+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
