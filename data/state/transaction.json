@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T06:16:09+00:00",
+  "updated_at": "2026-10-13T06:18:27+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02499",
-      "started_at": "2026-10-13T02:07:08+00:00",
-      "source": "_drafts/2026-10-13-van-ga-may-gam-to-nhung-xe-khong-tien-nen-dung-va-goi-cua-hang.md",
-      "destination": "_posts/2026-10-13-van-ga-may-gam-to-nhung-xe-khong-tien-nen-dung-va-goi-cua-hang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ef088de736cda304b052eaba6fccb3ddb4005c45",
-      "finished_at": "2026-10-13T02:07:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02500",
-      "started_at": "2026-10-13T02:07:08+00:00",
-      "source": "_drafts/2026-10-13-chup-anh-va-quay-video-khi-xe-thue-gap-su-co-can-ghi-lai-nhung-gi.md",
-      "destination": "_posts/2026-10-13-chup-anh-va-quay-video-khi-xe-thue-gap-su-co-can-ghi-lai-nhung-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ef088de736cda304b052eaba6fccb3ddb4005c45",
-      "finished_at": "2026-10-13T02:07:08+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02501",
       "started_at": "2026-10-13T02:08:58+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "a7b1caeab2117a589fbf93b6f3c0605e04ef4f1f",
       "finished_at": "2026-10-13T06:16:09+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02599",
+      "started_at": "2026-10-13T06:18:27+00:00",
+      "source": "_drafts/2026-10-13-can-nhac-mua-sirius-thue-thu-vai-ngay-de-kiem-tra-gi-truoc-khi-quyet-dinh.md",
+      "destination": "_posts/2026-10-13-can-nhac-mua-sirius-thue-thu-vai-ngay-de-kiem-tra-gi-truoc-khi-quyet-dinh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d7cd00bc153606b9e8479c3152143e6248907e60",
+      "finished_at": "2026-10-13T06:18:27+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02600",
+      "started_at": "2026-10-13T06:18:27+00:00",
+      "source": "_drafts/2026-10-13-tieng-la-tu-may-xe-so-sirius-tieng-binh-thuong-tieng-can-bao-cua-hang.md",
+      "destination": "_posts/2026-10-13-tieng-la-tu-may-xe-so-sirius-tieng-binh-thuong-tieng-can-bao-cua-hang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d7cd00bc153606b9e8479c3152143e6248907e60",
+      "finished_at": "2026-10-13T06:18:27+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
