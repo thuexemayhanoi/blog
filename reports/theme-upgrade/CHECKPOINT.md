@@ -68,3 +68,9 @@ Seven premium theme PRs #28–#34 are **MERGED**; last verified theme merge is `
 
 ### Rollback
 If a specific just-released theme feature fails production QA, use an ordinary non-force revert commit of that PR's exact squash merge, then rerun Jekyll FULL QA. Do not revert the entire main history (it contains Writer publications). Theme merges #28–#34 and SHAs are listed in Matrix release ledger.
+
+## Latest production smoke evidence
+- GitHub Pages run 38453495400 SUCCESS on main SHA `15a24a758fef41f9aaedca3a6857f529258515f5`.
+- Fresh live 404 text and real /chu-de/ link verified via Parallel Search; /tim-kiem/ verified; live Jekyll JSON search index parsed as valid 300-element array with internal URLs.
+- Jekyll full gate run 38451530588: generated in 226.186s, QA scanned 3100 pages with zero FAQ/schema errors; do not extrapolate to 40K.
+- Real browser mobile/VoiceOver/CWV visual QA was not completed because read-only browser task exhausted its cost limit; do not claim passed.
