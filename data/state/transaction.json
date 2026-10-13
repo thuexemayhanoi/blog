@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T04:56:04+00:00",
+  "updated_at": "2026-10-13T04:57:49+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02547",
-      "started_at": "2026-10-12T13:14:21+00:00",
-      "source": "_drafts/2026-10-11-thue-air-blade-ngay-200000-tuan-800000-hay-thang-1400000-chon-goi-nao.md",
-      "destination": "_posts/2026-10-11-thue-air-blade-ngay-200000-tuan-800000-hay-thang-1400000-chon-goi-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02548",
-      "started_at": "2026-10-12T13:14:21+00:00",
-      "source": "_drafts/2026-10-11-air-blade-hay-honda-click-khi-thue-50000-moi-ngay-mua-them-uoc-gi.md",
-      "destination": "_posts/2026-10-11-air-blade-hay-honda-click-khi-thue-50000-moi-ngay-mua-them-uoc-gi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "6e2ece2d12841967f3132d13409f9a7fd194fc4e",
-      "finished_at": "2026-10-12T13:14:21+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02549",
       "started_at": "2026-10-12T13:14:31+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "f96dd21dae649f86ff7ada92e20883a4a348ae74",
       "finished_at": "2026-10-13T04:56:04+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02509",
+      "started_at": "2026-10-13T04:57:48+00:00",
+      "source": "_drafts/2026-10-13-xe-so-thue-tu-nhay-so-khi-ang-chay-dung-an-toan-va-bao-cua-hang.md",
+      "destination": "_posts/2026-10-13-xe-so-thue-tu-nhay-so-khi-ang-chay-dung-an-toan-va-bao-cua-hang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6b2b9210e934fc436b79b7e843d5e8f224965b8a",
+      "finished_at": "2026-10-13T04:57:48+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02510",
+      "started_at": "2026-10-13T04:57:48+00:00",
+      "source": "_drafts/2026-10-13-xe-ien-thue-bao-pin-yeu-giua-uong-uoc-luong-quang-con-lai-va-xu-ly.md",
+      "destination": "_posts/2026-10-13-xe-ien-thue-bao-pin-yeu-giua-uong-uoc-luong-quang-con-lai-va-xu-ly.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6b2b9210e934fc436b79b7e843d5e8f224965b8a",
+      "finished_at": "2026-10-13T04:57:49+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
