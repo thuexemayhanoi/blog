@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T07:56:12+00:00",
+  "updated_at": "2026-10-13T09:45:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02579",
-      "started_at": "2026-10-13T05:59:46+00:00",
-      "source": "_drafts/2026-10-13-di-lang-gom-bat-trang-bang-xe-ga-duong-di-tu-pho-co-va-luc-nen-ve.md",
-      "destination": "_posts/2026-10-13-di-lang-gom-bat-trang-bang-xe-ga-duong-di-tu-pho-co-va-luc-nen-ve.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ce1a0fc98be2c3c8c0c6c04ee241fb8928550ec9",
-      "finished_at": "2026-10-13T05:59:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02580",
-      "started_at": "2026-10-13T05:59:46+00:00",
-      "source": "_drafts/2026-10-13-nua-ngay-khu-ba-dinh-va-van-mieu-bang-honda-click-thu-tu-di-va-cho-dung-xe.md",
-      "destination": "_posts/2026-10-13-nua-ngay-khu-ba-dinh-va-van-mieu-bang-honda-click-thu-tu-di-va-cho-dung-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "ce1a0fc98be2c3c8c0c6c04ee241fb8928550ec9",
-      "finished_at": "2026-10-13T05:59:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02581",
       "started_at": "2026-10-13T06:03:32+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "50e9f2cc3c9566645392ebe934847883ce8f5009",
       "finished_at": "2026-10-13T07:56:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02619",
+      "started_at": "2026-10-13T09:45:53+00:00",
+      "source": "_drafts/2026-10-13-kiem-tra-gio-ngay-nghi-va-dia-chi-bao-tang-truoc-khi-chay-xe-tranh-di-hut.md",
+      "destination": "_posts/2026-10-13-kiem-tra-gio-ngay-nghi-va-dia-chi-bao-tang-truoc-khi-chay-xe-tranh-di-hut.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f85967a9f8bba20fbf4eda523c46e43d849d691b",
+      "finished_at": "2026-10-13T09:45:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02620",
+      "started_at": "2026-10-13T09:45:53+00:00",
+      "source": "_drafts/2026-10-13-bao-tang-nghi-trua-lap-khoang-trong-giua-hai-ca-tham-quan-khi-di-bang-xe-may.md",
+      "destination": "_posts/2026-10-13-bao-tang-nghi-trua-lap-khoang-trong-giua-hai-ca-tham-quan-khi-di-bang-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "f85967a9f8bba20fbf4eda523c46e43d849d691b",
+      "finished_at": "2026-10-13T09:45:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
