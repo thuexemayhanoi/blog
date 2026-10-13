@@ -297,7 +297,7 @@ Dựa trên nhu cầu thuê xe thực tế của khách tại Hà Nội, **{{ si
 
 ### 4. Xe ga có tốn xăng hơn xe số không?
 
-**Trả lời:** Có. Xe ga thường tiêu hao nhiên liệu nhiều hơn xe số khoảng 10-20%. Tuy nhiên, sự chênh lệch này không đáng kể so với sự thoải mái mà xe ga mang lại.
+**Trả lời:** Có. Xe ga thường tiêu hao nhiên liệu nhiều hơn xe số. Tuy nhiên, sự chênh lệch này không đáng kể so với sự thoải mái mà xe ga mang lại.
 
 ### 5. Tôi có thể thử tất cả các loại xe trước khi quyết định không?
 

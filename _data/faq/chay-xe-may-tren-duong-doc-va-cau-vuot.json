@@ -1,5 +1,5 @@
 {
-  "schema": true,
+  "schema": false,
   "heading": "Câu hỏi thường gặp",
   "items": [
     {
@@ -10,11 +10,6 @@
     {
       "q": "Người mới đến hoặc du khách có nên chạy qua cầu ngay những ngày đầu không?",
       "a": "Các tuyến vào trung tâm qua cầu cần kinh nghiệm hơn chạy vòng quanh hồ, nên hãy để các ngày đầu cho tuyến phẳng, và chỉ thêm cầu vào tuyến khi đã quen xe và quen đường.",
-      "src": "body"
-    },
-    {
-      "q": "Xe thuê thấy phanh khác lạ sau khi xuống dốc dài thì nên làm gì?",
-      "a": "Nếu phanh cảm giác khác sau vài lần xuống dốc dài, báo cửa hàng sớm. Má phanh mòn thường lộ rõ trên dốc trước khi lộ trên đường bằng, và với xe thuê, một tin nhắn báo sớm về cảm giác phanh là việc đáng làm cho cả phần còn lại của kỳ.",
       "src": "body"
     }
   ]
