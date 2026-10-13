@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-13T10:49:06+00:00",
+  "updated_at": "2026-10-13T10:51:07+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02609",
-      "started_at": "2026-10-13T06:37:25+00:00",
-      "source": "_drafts/2026-10-13-den-di-tich-nha-tu-hoa-lo-bang-xe-may-duong-vao-khu-pho-cu-va-cho-dung-xe.md",
-      "destination": "_posts/2026-10-13-den-di-tich-nha-tu-hoa-lo-bang-xe-may-duong-vao-khu-pho-cu-va-cho-dung-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e37a5e9b97fc4cf01cb757eda2fb5c910f88657c",
-      "finished_at": "2026-10-13T06:37:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02610",
-      "started_at": "2026-10-13T06:37:25+00:00",
-      "source": "_drafts/2026-10-13-mot-buoi-sang-bang-xe-may-bao-tang-phu-nu-hoa-lo-va-lich-su-quoc-gia.md",
-      "destination": "_posts/2026-10-13-mot-buoi-sang-bang-xe-may-bao-tang-phu-nu-hoa-lo-va-lich-su-quoc-gia.md",
-      "result": "PUBLISHED",
-      "commit_sha": "e37a5e9b97fc4cf01cb757eda2fb5c910f88657c",
-      "finished_at": "2026-10-13T06:37:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02611",
       "started_at": "2026-10-13T06:42:34+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "b195fc1c07d884023e79a6639d768b538d182736",
       "finished_at": "2026-10-13T10:49:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02659",
+      "started_at": "2026-10-13T10:51:06+00:00",
+      "source": "_drafts/2026-10-13-lang-non-chuong-o-thanh-oai-di-xe-may-mua-non-la-va-cho-non-ve-nguyen-ven.md",
+      "destination": "_posts/2026-10-13-lang-non-chuong-o-thanh-oai-di-xe-may-mua-non-la-va-cho-non-ve-nguyen-ven.md",
+      "result": "PUBLISHED",
+      "commit_sha": "56a2deda92c6b06657fa0b386e373359c76022f8",
+      "finished_at": "2026-10-13T10:51:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02660",
+      "started_at": "2026-10-13T10:51:07+00:00",
+      "source": "_drafts/2026-10-13-lang-may-tre-dan-phu-vinh-o-chuong-my-bang-xe-may-di-xem-tho-dan-the-nao.md",
+      "destination": "_posts/2026-10-13-lang-may-tre-dan-phu-vinh-o-chuong-my-bang-xe-may-di-xem-tho-dan-the-nao.md",
+      "result": "PUBLISHED",
+      "commit_sha": "56a2deda92c6b06657fa0b386e373359c76022f8",
+      "finished_at": "2026-10-13T10:51:07+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
