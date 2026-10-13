@@ -1,0 +1,6 @@
+legacy_id_a,legacy_id_b,child_id,analysis_result,proposed_action,evidence_reason,evidence_file,production_mutation
+"BLG-00005","BLG-00053","C-KY-NANG-TINH-HUONG","SAFE_DISTINCT_REVIEW_PENDING","KEEP_BOTH_CROSS_LINK_AFTER_QA","long-distance versus Hanoi urban safety","reports/factory/review-pairs.md","NONE"
+"BLG-00017","BLG-00018","C-KY-NANG-THOI-TIET","SAFE_DISTINCT_REVIEW_PENDING","KEEP_BOTH","winter weather versus rain conditions","reports/factory/review-pairs.md","NONE"
+"BLG-00227","BLG-00228","C-THUE-THU-TUC","MERGE_CANDIDATE_HUMAN_REVIEW","NO_REDIRECT_NO_MERGE_UNTIL_APPROVED","same midterm vehicle replacement user intent","reports/factory/review-pairs.md","NONE"
+"BLG-00410","BLG-00411","C-DIEM-DEN","SAFE_DISTINCT_REVIEW_PENDING","KEEP_BOTH","wedding shoot versus graduation photos","reports/factory/review-pairs.md","NONE"
+"BLG-00423","BLG-00424","C-KY-NANG-CO-BAN","SAFE_DISTINCT_REVIEW_PENDING","KEEP_BOTH","groups/families versus women","reports/factory/review-pairs.md","NONE"
