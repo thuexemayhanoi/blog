@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 153
   size: 12
-  total: 1830
+  total: 1832
 chia-se:
   pages: 10
   size: 12
@@ -60,6 +60,10 @@ topic:
     pages: 2
     size: 24
     total: 28
+  xe-may_honda-click:
+    pages: 2
+    size: 24
+    total: 25
   xe-may_honda-wave:
     pages: 2
     size: 24
