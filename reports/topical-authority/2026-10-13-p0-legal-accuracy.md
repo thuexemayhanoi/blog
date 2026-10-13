@@ -17,6 +17,18 @@ Governing source: Article 57(1)(c), Law 36/2024/QH15: B1 covers three-wheeled mo
 Official source: https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm
 Severity: HIGH. Recommendation: verify present regulation and transitional license conditions with an expert and correct the relevant sentence on the same URL in a small authorized content edit; no new overlapping article.
 
+## Finding L03 — False blanket statement that motorcycle licences expire
+Observed in the published article under "Điều kiện thi và thủ tục": "giấy phép lái xe máy có thời hạn theo quy định, đến hạn phải đổi đúng thủ tục." The FAQ also generalizes expired motorcycle licences.
+Governing source: **Article 57(5)(a)**, Law 36/2024/QH15: A1, A and B1 driving licences are **without an expiry date**. Conditions affecting licence validity (e.g. withdrawal or points) are separate from fixed validity duration. This is about licences issued under the new regime; historical transitional licence classifications require review before making blanket claims.
+Official source: https://xaydungchinhsach.chinhphu.vn/toan-van-luat-trat-tu-an-toan-giao-thong-duong-bo-119240909105718285.htm
+Severity: HIGH. Recommendation: amend the blanket statement and the FAQ after owner authorization; retain the original article URL and avoid rewriting unrelated text.
+
+## Evidence verification 2026-10-14
+- Original _posts source file: `_posts/2026-09-27-cac-hang-bang-lai-xe-may-tai-viet-nam.md` on GitHub main; source blob: `1328f3a119820924f485751f5dbf03c11de5dd76`.
+- Tavily Extract fetched the public URL and reflected all three findings. These errors are present in original repository text, not artifacts of HTML/markdown extraction.
+- Parallel Search found relevant legal sources; the authoritative review used government-published full law (Article 57, Article 59).
+- Note: the "16 tuổi thi được hạng A1" error also appears in the FAQ — correcting only the Hạng A1 paragraph would leave a conflicting statement on the page.
+
 ## Controlled remediation gate
 - Freeze original article bytes, URL, canonical, metadata and inbound links.
 - Produce one minimal content diff limited to provably inaccurate statements, with legal references and effective date.
