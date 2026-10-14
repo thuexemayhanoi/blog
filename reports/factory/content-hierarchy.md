@@ -9,17 +9,17 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | Parent | Child | Bài legacy | Hàng matrix (không legacy) | planned_target (seed) | Hub URL |
 |---|---|---|---|---|---|
 | P-THUE-XE | Giá thuê xe máy (C-THUE-GIA) | 6 | 57 | 220 | /thue-xe/gia-thue/ |
-| P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 73 | 200 | /thue-xe/thu-tuc/ |
-| P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 43 | 180 | /thue-xe/thue-ngay/ |
-| P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 33 | 170 | /thue-xe/thue-tuan/ |
-| P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 52 | 200 | /thue-xe/thue-thang/ |
+| P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 98 | 200 | /thue-xe/thu-tuc/ |
+| P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 68 | 180 | /thue-xe/thue-ngay/ |
+| P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 58 | 170 | /thue-xe/thue-tuan/ |
+| P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 77 | 200 | /thue-xe/thue-thang/ |
 | P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 30 | 150 | /thue-xe/dat-coc/ |
 | P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 55 | 140 | /thue-xe/khach-quoc-te/ |
-| P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 66 | 180 | /thue-xe/nhan-tra-xe/ |
+| P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 91 | 180 | /thue-xe/nhan-tra-xe/ |
 | P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 69 | 180 | /thue-xe/su-co/ |
-| P-XE-MAY | Xe số (C-XE-SO) | 3 | 46 | 160 | /xe-may/xe-so/ |
-| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 41 | 160 | /xe-may/xe-ga/ |
-| P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 29 | 140 | /xe-may/xe-50cc/ |
+| P-XE-MAY | Xe số (C-XE-SO) | 3 | 71 | 160 | /xe-may/xe-so/ |
+| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 66 | 160 | /xe-may/xe-ga/ |
+| P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 54 | 140 | /xe-may/xe-50cc/ |
 | P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 60 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 41 | 100 | /xe-may/xe-dap-dien/ |
 | P-XE-MAY | Honda Wave (C-HONDA-WAVE) | 1 | 26 | 120 | /xe-may/honda-wave/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 2479 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 2679 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

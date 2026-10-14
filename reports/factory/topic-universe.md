@@ -8,11 +8,11 @@ Mọi ứng viên phải qua cổng scoring và chống trùng máy trước khi
 | Khái niệm | Giá trị |
 |---|---|
 | HARD_CAPACITY | 10000 |
-| CURRENT_ROWS (matrix trước mở rộng) | 2962 |
-| CURRENT_SEEDED_ROWS (planned trước mở rộng) | 2479 |
+| CURRENT_ROWS (matrix trước mở rộng) | 3162 |
+| CURRENT_SEEDED_ROWS (planned trước mở rộng) | 2679 |
 | Legacy | 483 |
 | EDITORIAL_TARGET sau mở rộng (tổng planned_target) | 6980 |
-| RESERVED_CAPACITY sau mở rộng | 7038 |
+| RESERVED_CAPACITY sau mở rộng | 6838 |
 | Ứng viên đề xuất | 121 |
 | Hàng mở rộng hiện có trong seed | 109 |
 | Ứng viên bị từ chối lần chạy gần nhất | 121 |
