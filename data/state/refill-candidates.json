@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-14T16:18:42+00:00",
-    "staged_at": "2026-10-14T18:02:19+00:00"
+    "staged_at": "2026-10-14T18:03:11+00:00"
   },
   "candidates": [
     {
@@ -7076,6 +7076,481 @@
       "subtopic": "refill-2026-10-14-W2X",
       "audience": "người bôi kem chống nắng khi đi xe ban ngày",
       "location_scope": "Hà Nội mùa hè",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-001",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Con đường gốm sứ ven đê sông Hồng bằng xe máy: đoạn nào nên xem, dừng xe ở đâu cho an toàn",
+      "intent": "Lên kế hoạch chạy xe dọc con đường gốm sứ trên đê Hồng Hà – Yên Phụ, biết đoạn nên đi chậm ngắm tranh và chỗ dừng xe không cản trở dòng xe trên đê.",
+      "kw": "con đường gốm sứ hà nội",
+      "kw2": [
+        "đi xe máy xem con đường gốm sứ",
+        "con đường gốm sứ đê sông hồng"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "du khách và người trẻ thích chụp ảnh",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-002",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Vòng ba hồ nhỏ phía tây Ba Đình bằng xe máy: hồ Giảng Võ, hồ Thành Công và hồ Hoàng Cầu",
+      "intent": "Lên một vòng chạy xe buổi chiều nối hồ Giảng Võ, hồ Thành Công và hồ Hoàng Cầu, biết thứ tự đi, đoạn đường vòng hồ và chỗ dừng chân.",
+      "kw": "vòng hồ giảng võ thành công",
+      "kw2": [
+        "chạy xe quanh hồ thành công",
+        "hồ hoàng cầu buổi chiều"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người ở Hà Nội và khách ở lâu muốn dạo chiều",
+      "location_scope": "Ba Đình, Đống Đa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-003",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Ngắm khu tập thể cũ Hà Nội bằng xe máy: vòng Kim Liên, Trung Tự, Khương Thượng và Thành Công",
+      "intent": "Lên lộ trình xe máy đi qua các khu tập thể cũ thời bao cấp, biết khu nào nằm cạnh trục lớn, nên đi giờ nào và dừng xem kiến trúc mà không chắn lối dân cư.",
+      "kw": "dạo khu tập thể cũ hà nội",
+      "kw2": [
+        "khu tập thể kim liên trung tự",
+        "tour tập thể cũ bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "du khách thích Hà Nội bao cấp và người chụp ảnh",
+      "location_scope": "Đống Đa, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-004",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Thăng Long tứ trấn bằng xe máy trong một ngày: đền Bạch Mã, Voi Phục, Quán Thánh và Kim Liên",
+      "intent": "Lên lộ trình nối bốn ngôi đền trấn giữ kinh thành Thăng Long theo thứ tự hợp lý, biết khoảng cách giữa các đền, giờ nên đến và cách ăn mặc khi vào đền.",
+      "kw": "thăng long tứ trấn xe máy",
+      "kw2": [
+        "đi thăm tứ trấn thăng long",
+        "lộ trình bốn đền trấn hà nội"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi lễ và du khách thích lịch sử",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Đống Đa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-005",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi tìm dấu tích các cửa ô Hà Nội bằng xe máy: Ô Chợ Dừa, Ô Cầu Dền, Ô Đống Mác, Ô Cầu Giấy",
+      "intent": "Hiểu các cửa ô Hà Nội xưa nay chỉ còn là tên địa danh ở đâu, và lên vòng xe máy đi qua những nút giao mang tên cửa ô cùng câu chuyện của từng nơi.",
+      "kw": "các cửa ô hà nội ngày nay",
+      "kw2": [
+        "ô chợ dừa ô cầu dền ở đâu",
+        "đi xe máy qua các cửa ô"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người thích lịch sử phố phường Hà Nội",
+      "location_scope": "Đống Đa, Hai Bà Trưng, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-006",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Vòng các nhà thờ cổ nội thành bằng xe máy: Nhà thờ Lớn, Nhà thờ Cửa Bắc và Nhà thờ Hàm Long",
+      "intent": "Lên một buổi chạy xe ngắm kiến trúc ba nhà thờ Công giáo lâu đời ở trung tâm, biết thứ tự đi, đường nối giữa các nhà thờ và cách dừng xe lịch sự ngoài giờ lễ.",
+      "kw": "nhà thờ cửa bắc hàm long",
+      "kw2": [
+        "vòng nhà thờ cổ hà nội",
+        "đi xe máy ngắm nhà thờ hà nội"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "du khách và người thích kiến trúc",
+      "location_scope": "Hoàn Kiếm, Ba Đình",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-007",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Xem lễ thượng cờ ở Quảng trường Ba Đình: chạy xe máy từ phố cổ lúc trời còn tối và gửi xe gần đó",
+      "intent": "Biết cách dậy sớm chạy xe từ phố cổ tới Quảng trường Ba Đình kịp lễ thượng cờ buổi sáng, chọn đường vắng, chỗ gửi xe và trang phục phù hợp nơi trang nghiêm.",
+      "kw": "xem lễ thượng cờ lăng bác",
+      "kw2": [
+        "lễ thượng cờ quảng trường ba đình",
+        "đi xem thượng cờ bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "du khách và gia đình có con nhỏ",
+      "location_scope": "Hoàn Kiếm, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-008",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ khu Ciputra, Nam Thăng Long vào Hồ Gươm bằng xe máy: Lạc Long Quân hay Hoàng Quốc Việt – Đội Cấn",
+      "intent": "Chọn hướng đi xe máy từ khu đô thị Ciputra vào trung tâm Hoàn Kiếm, so sánh trục ven Hồ Tây với trục Hoàng Quốc Việt – Đội Cấn theo giờ đi và độ đông.",
+      "kw": "từ ciputra vào trung tâm",
+      "kw2": [
+        "ciputra đi hồ gươm bằng xe máy",
+        "từ nam thăng long vào phố cổ"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người sống ở Ciputra và khách lưu trú khu tây bắc",
+      "location_scope": "Bắc Từ Liêm, Tây Hồ, Ba Đình, Hoàn Kiếm",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-009",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ Times City vào phố cổ bằng xe máy: trục Minh Khai – Bạch Mai, Kim Ngưu và chỗ hay kẹt xe",
+      "intent": "Chọn đường xe máy từ khu Times City, Minh Khai vào phố cổ, biết các trục chính đi được, các nút giao hay ùn và cách vào khu Hồ Gươm theo chiều phố đúng.",
+      "kw": "từ times city vào phố cổ",
+      "kw2": [
+        "times city đi hồ gươm xe máy",
+        "từ minh khai vào trung tâm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người ở Times City và khách lưu trú quận Hai Bà Trưng",
+      "location_scope": "Hai Bà Trưng, Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-010",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Cặp phố một chiều Bà Triệu – Phố Huế: chạy xe máy vào Hồ Gươm và ra phía nam sao cho đúng chiều",
+      "intent": "Hiểu cách hai phố song song Bà Triệu và Phố Huế được tổ chức một chiều, để chọn phố đi vào trung tâm, phố đi ra và chỗ rẽ ngang mà không đi ngược chiều.",
+      "kw": "phố bà triệu phố huế một chiều",
+      "kw2": [
+        "đi xe máy phố huế",
+        "chiều đi phố bà triệu"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người mới đến Hà Nội và khách thuê xe lần đầu",
+      "location_scope": "Hoàn Kiếm, Hai Bà Trưng",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-011",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Chạy xe máy đường Đê La Thành: đoạn uốn lượn, chỗ đường hẹp và nút giao Ô Chợ Dừa giờ tan tầm",
+      "intent": "Biết đặc điểm đường Đê La Thành khi đi xe máy, gồm các khúc cua theo đê cũ, đoạn hẹp đông xe và cách qua nút Ô Chợ Dừa an toàn vào giờ đông.",
+      "kw": "đường đê la thành xe máy",
+      "kw2": [
+        "nút giao ô chợ dừa",
+        "chạy xe đê la thành giờ tan tầm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi làm và khách ở khu Đống Đa",
+      "location_scope": "Đống Đa, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-012",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Trục Liễu Giai – Nguyễn Chí Thanh bằng xe máy: đi từ Ba Đình xuống Láng và Đống Đa cho thoáng",
+      "intent": "Biết cách dùng trục Liễu Giai – Nguyễn Chí Thanh để đi xe máy từ khu Ba Đình xuống đường Láng, so với đi xuyên phố nhỏ, và chỗ quay đầu, rẽ trái trên trục này.",
+      "kw": "đường nguyễn chí thanh xe máy",
+      "kw2": [
+        "từ liễu giai đi láng",
+        "trục liễu giai nguyễn chí thanh"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi làm và khách ở Ba Đình",
+      "location_scope": "Ba Đình, Đống Đa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-013",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Phố Nhật Linh Lang – Đào Tấn bằng xe máy: vòng ăn tối khu người Nhật và chỗ để xe trong phố nhỏ",
+      "intent": "Lên vòng xe máy khám phá khu phố có nhiều quán Nhật quanh Linh Lang, Đào Tấn, Kim Mã, biết phố nào hẹp, nên đỗ xe ở đâu và giờ nào đỡ đông.",
+      "kw": "phố nhật linh lang",
+      "kw2": [
+        "khu người nhật ở hà nội",
+        "đi linh lang đào tấn bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người thích ẩm thực Nhật và khách công tác",
+      "location_scope": "Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-014",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi Lotte Mall Tây Hồ bằng xe máy: đường Võ Chí Công, lối vào hầm xe và hướng về trung tâm",
+      "intent": "Biết đường xe máy từ trung tâm tới Lotte Mall Tây Hồ qua Võ Chí Công, lối rẽ vào khu để xe máy và cách về phố cổ tránh vòng xa vì dải phân cách.",
+      "kw": "đi lotte mall tây hồ bằng xe máy",
+      "kw2": [
+        "lotte mall west lake gửi xe máy",
+        "đường võ chí công xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi mua sắm, gia đình và khách du lịch",
+      "location_scope": "Tây Hồ, Cầu Giấy",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-015",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Hồ Đền Lừ và hồ Định Công bằng xe máy: vòng chiều thong thả ở Hoàng Mai cách trung tâm không xa",
+      "intent": "Lên vòng chạy xe buổi chiều quanh hai hồ khu Hoàng Mai, biết đường từ trung tâm xuống, đoạn ven hồ đi được và chỗ dừng nghỉ khi muốn tránh khu Hồ Gươm đông.",
+      "kw": "hồ đền lừ hoàng mai",
+      "kw2": [
+        "chạy xe hồ định công",
+        "dạo hồ hoàng mai bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người ở phía nam Hà Nội và khách lưu trú Hoàng Mai",
+      "location_scope": "Hoàng Mai",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-016",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Dạo phố cũ quận Hai Bà Trưng bằng xe máy: Lò Đúc, Hàng Chuối, Nguyễn Du và Triệu Việt Vương",
+      "intent": "Lên vòng xe máy qua những con phố cũ yên tĩnh phía nam Hồ Gươm với nhà kiểu Pháp, hàng cây và quán quen, biết chiều phố và cách dừng xe trong phố hẹp.",
+      "kw": "phố lò đúc hàng chuối",
+      "kw2": [
+        "dạo phố hai bà trưng xe máy",
+        "phố triệu việt vương nguyễn du"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người thích phố cũ và khách ở lâu",
+      "location_scope": "Hai Bà Trưng, Hoàn Kiếm",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-017",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Hoa sưa, bằng lăng, lộc vừng trên phố Hà Nội: cung xe máy ngắm hoa từ cuối xuân sang đầu hè",
+      "intent": "Lên cung xe máy đi qua những tuyến phố có hàng hoa sưa, bằng lăng, lộc vừng theo mùa, biết đoạn nào đẹp và cách dừng chụp ảnh không chắn đường.",
+      "kw": "ngắm hoa sưa hà nội",
+      "kw2": [
+        "đường hoa bằng lăng hà nội",
+        "hoa lộc vừng hồ gươm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người thích chụp ảnh và du khách mùa xuân hè",
+      "location_scope": "Ba Đình, Hoàn Kiếm, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-018",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ Tây Hồ xuống Hoàng Mai bằng xe máy: đi bên dưới Vành đai 2 hay cắt thẳng qua khu trung tâm",
+      "intent": "Chọn tuyến xe máy xuyên thành phố từ bắc xuống nam, so sánh đi đường bên dưới Vành đai 2 với cắt qua trung tâm, và lưu ý không đi lên phần đường trên cao.",
+      "kw": "từ tây hồ xuống hoàng mai",
+      "kw2": [
+        "đi xuyên hà nội bắc nam bằng xe máy",
+        "vành đai 2 đường dưới xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi làm và khách cần di chuyển xa trong nội thành",
+      "location_scope": "Tây Hồ, Ba Đình, Đống Đa, Hai Bà Trưng, Hoàng Mai",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-019",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Lên khu Ngoại giao đoàn Xuân Tảo bằng xe máy: các hướng đi từ Cầu Giấy, Tây Hồ và giờ ít kẹt",
+      "intent": "Biết các hướng đi xe máy từ Cầu Giấy và Tây Hồ lên khu Ngoại giao đoàn ở Bắc Từ Liêm, chọn tuyến theo giờ và cách tìm đúng lối vào trong khu.",
+      "kw": "đường lên khu ngoại giao đoàn",
+      "kw2": [
+        "ngoại giao đoàn xuân tảo xe máy",
+        "từ cầu giấy lên ngoại giao đoàn"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người làm việc, sống ở khu Ngoại giao đoàn và khách",
+      "location_scope": "Bắc Từ Liêm, Cầu Giấy, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-020",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi xem bóng đá ở sân Hàng Đẫy bằng xe máy: hướng vào Trịnh Hoài Đức và cách về sau khi tan trận",
+      "intent": "Lên kế hoạch đi xe máy tới sân Hàng Đẫy ngày có trận, chọn hướng tiếp cận ít ùn, đến sớm bao lâu và đường thoát ra khi cả khán đài cùng về.",
+      "kw": "sân hàng đẫy đi xe máy",
+      "kw2": [
+        "xem bóng đá hàng đẫy",
+        "đường đến sân hàng đẫy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "cổ động viên và khách muốn xem V-League",
+      "location_scope": "Đống Đa, Ba Đình",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-021",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ trung tâm về Vinhomes Smart City Tây Mỗ bằng xe máy: các hướng đi, đường gom và đoạn hay kẹt",
+      "intent": "Chọn đường xe máy từ khu trung tâm về khu đô thị Smart City ở Tây Mỗ, hiểu cách đi đường gom thay vì phần đường cấm xe máy và tránh các nút ùn giờ tan tầm.",
+      "kw": "từ trung tâm về smart city tây mỗ",
+      "kw2": [
+        "vinhomes smart city đi xe máy",
+        "đường về tây mỗ xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "cư dân Smart City và khách thuê nhà khu phía tây",
+      "location_scope": "Nam Từ Liêm, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-022",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Những ngôi trường cổ thời Pháp ở Hà Nội bằng xe máy: Chu Văn An, Trưng Vương, Việt Đức, Đông Dương",
+      "intent": "Lên vòng xe máy ngắm kiến trúc các ngôi trường có từ thời Pháp ở nội thành, biết vị trí, thứ tự đi và dừng xem từ ngoài cổng mà không làm phiền giờ học.",
+      "kw": "trường cổ thời pháp hà nội",
+      "kw2": [
+        "trường chu văn an thụy khuê",
+        "đại học đông dương lê thánh tông"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "cựu học sinh, người thích kiến trúc và du khách",
+      "location_scope": "Tây Hồ, Hoàn Kiếm",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-023",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Vòng chợ dân sinh Ba Đình buổi sáng bằng xe máy: chợ Châu Long, chợ Ngọc Hà và chợ Thành Công",
+      "intent": "Lên vòng xe máy buổi sáng qua các chợ dân sinh khu Ba Đình để xem nhịp sống, mua đồ ăn sáng và biết chỗ gửi xe cạnh chợ giờ đông.",
+      "kw": "chợ châu long ngọc hà",
+      "kw2": [
+        "đi chợ sáng ba đình xe máy",
+        "chợ dân sinh hà nội buổi sáng"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "khách ở lâu, người nấu ăn và du khách thích chợ",
+      "location_scope": "Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-024",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi làm ở phố Duy Tân, Cầu Giấy bằng xe máy: lối vào từ Xuân Thủy, Trần Thái Tông và giờ tan tầm",
+      "intent": "Biết các lối xe máy vào khu văn phòng phố Duy Tân, tuyến nào đỡ ùn buổi sáng, cách vào hầm tòa nhà và hướng ra khi tan tầm cả phố cùng về.",
+      "kw": "đi làm phố duy tân xe máy",
+      "kw2": [
+        "đường vào phố duy tân",
+        "duy tân giờ tan tầm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi làm văn phòng và khách công tác",
+      "location_scope": "Cầu Giấy",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W2V-025",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đường Hoàng Hoa Thám bằng xe máy: đi từ Ba Đình lên Bưởi, các nút Văn Cao, Ngọc Hà hay ùn lúc nào",
+      "intent": "Biết cách dùng trục Hoàng Hoa Thám để đi xe máy từ khu Ba Đình lên phía Bưởi, tránh đường ven Hồ Tây đông, và qua các nút giao Văn Cao, Ngọc Hà an toàn.",
+      "kw": "đường hoàng hoa thám xe máy",
+      "kw2": [
+        "từ ba đình lên bưởi",
+        "nút giao văn cao hoàng hoa thám"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-14-W2V",
+      "audience": "người đi làm và khách ở khu Ba Đình, Tây Hồ",
+      "location_scope": "Ba Đình, Tây Hồ",
       "word_target": 1200
     }
   ],
