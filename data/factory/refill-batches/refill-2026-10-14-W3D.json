@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3D: chu de that, tao boi writer W3 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-001",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Đã đặt xe rồi mới đổi người thuê: nhắn tiệm ở Hà Nội cập nhật tên và giấy tờ trước ngày nhận",
+   "intent": "Biết cách báo cửa hàng khi người đứng tên thuê thay đổi sau lúc đặt xe, gửi lại thông tin người mới và xác nhận tiệm có chấp nhận hay không trước ngày nhận.",
+   "kw": "đổi người thuê xe đã đặt",
+   "kw2": [
+    "đổi tên người thuê xe máy",
+    "đặt xe rồi đổi người thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người đã đặt xe nhưng người thuê thực tế thay đổi trước ngày nhận",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-002",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Về trước khi hết kỳ thuê, bạn ở lại Hà Nội dùng tiếp xe: chuyển hợp đồng hay trả xe rồi thuê mới",
+   "intent": "Hiểu các phương án khi người đứng tên phải rời Hà Nội sớm trong lúc bạn đi cùng muốn giữ xe, gồm cách xử lý giấy tờ đang gửi tiệm và hỏi cửa hàng ký lại với người mới.",
+   "kw": "chuyển hợp đồng thuê xe cho bạn",
+   "kw2": [
+    "bạn dùng tiếp xe thuê",
+    "người thuê về trước"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "nhóm bạn hoặc cặp đôi có người phải rời Hà Nội trước ngày trả xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-003",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Gia hạn thuê xe máy có phải ký lại hợp đồng không: tin nhắn xác nhận, phụ lục hay ghi bổ sung",
+   "intent": "Biết những hình thức ghi nhận việc gia hạn mà cửa hàng có thể dùng và nội dung nên có trong xác nhận (ngày trả mới, xe, giấy tờ đang giữ) để hai bên hiểu giống nhau.",
+   "kw": "gia hạn thuê xe có ký lại hợp đồng",
+   "kw2": [
+    "xác nhận gia hạn thuê xe",
+    "phụ lục gia hạn thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người đang thuê xe muốn kéo dài thêm ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-004",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Muốn gia hạn nhưng chiếc xe đã có khách khác đặt tiếp: hỏi tiệm đổi xe hay trả đúng hẹn",
+   "intent": "Chọn cách xử lý khi cửa hàng báo chiếc xe đang thuê đã có lịch giao cho khách sau, gồm hỏi đổi sang xe khác, hẹn bàn giao lại và giữ đúng giờ trả ban đầu.",
+   "kw": "gia hạn thuê xe đã có người đặt",
+   "kw2": [
+    "xe thuê đã có khách đặt tiếp",
+    "đổi xe khi gia hạn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê muốn ở lại Hà Nội thêm ngày vào mùa đông khách",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-005",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Ngày trả xe thuê rơi đúng hôm tiệm nghỉ lễ: hỏi trước để gia hạn qua lễ hay trả sớm một ngày",
+   "intent": "Lên kế hoạch trả xe khi lịch hẹn trùng ngày cửa hàng nghỉ Tết hoặc nghỉ lễ, hỏi tiệm lịch làm việc thực tế và thống nhất phương án bằng tin nhắn từ sớm.",
+   "kw": "trả xe thuê đúng ngày tiệm nghỉ",
+   "kw2": [
+    "tiệm thuê xe nghỉ lễ trả xe",
+    "lịch nghỉ tết tiệm thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe dịp Tết, 30/4, 2/9 ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-006",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tên lúc đặt xe viết không dấu hoặc đảo họ tên so với hộ chiếu, căn cước: có cần báo tiệm không",
+   "intent": "Hiểu vì sao tên nhắn khi đặt xe nên khớp với giấy tờ sẽ đưa lúc nhận, và cách báo tiệm khi tên viết khác (không dấu, đảo thứ tự họ tên) để tránh nhầm đơn.",
+   "kw": "tên đặt xe khác tên giấy tờ",
+   "kw2": [
+    "viết tên không dấu khi đặt xe",
+    "họ tên hộ chiếu đảo thứ tự"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "khách nước ngoài, Việt kiều và người đặt xe qua tin nhắn",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-007",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm hỏi số điện thoại người thân khi làm hợp đồng thuê xe: vì sao hỏi và nên cho số của ai",
+   "intent": "Hiểu lý do cửa hàng có thể xin số liên hệ thứ hai lúc làm thủ tục và chọn người phù hợp để cung cấp, kèm việc báo trước cho người đó.",
+   "kw": "thuê xe hỏi số người thân",
+   "kw2": [
+    "số liên hệ phụ khi thuê xe",
+    "hợp đồng thuê xe xin số người nhà"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe đang làm thủ tục tại cửa hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-008",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Làm hợp đồng thuê xe bị hỏi nơi đang ở và ngày rời Hà Nội: ghi khách sạn hay địa chỉ thường trú",
+   "intent": "Biết cách khai nơi lưu trú hiện tại và dự kiến ngày rời Hà Nội khi cửa hàng hỏi, phân biệt với địa chỉ thường trú trên giấy tờ và hỏi lại tiệm cần ghi mục nào.",
+   "kw": "hợp đồng thuê xe ghi địa chỉ nào",
+   "kw2": [
+    "khai nơi ở khi thuê xe",
+    "thuê xe hỏi khách sạn đang ở"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "du khách và người ở Hà Nội ngắn ngày đang làm hợp đồng thuê xe",
+   "location_scope": "Hà Nội (khu phố cổ, Hoàn Kiếm và nội thành)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-009",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Ảnh trên căn cước chụp từ lâu, nay khác mặt nhiều: đi thuê xe máy nên mang thêm giấy tờ gì",
+   "intent": "Chuẩn bị giấy tờ phụ có ảnh gần đây và nhắn trước cho cửa hàng khi ảnh trên căn cước đã cũ, để việc đối chiếu lúc nhận xe diễn ra nhanh.",
+   "kw": "ảnh căn cước khác mặt thuê xe",
+   "kw2": [
+    "ảnh căn cước cũ thuê xe",
+    "đối chiếu mặt khi thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người có thẻ căn cước cấp đã lâu đi thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-010",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Ghi chú mục đích lên bản photo căn cước khi đưa tiệm thuê xe: có nên và ghi thế nào cho gọn",
+   "intent": "Biết cách ghi một dòng mục đích sử dụng và ngày tháng lên bản photo căn cước đưa cửa hàng thuê xe, đồng thời hỏi tiệm có chấp nhận bản đã ghi chú hay không.",
+   "kw": "ghi chú lên bản photo căn cước",
+   "kw2": [
+    "ghi chỉ dùng thuê xe lên bản photo",
+    "bảo vệ bản photo căn cước"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe lo bản photo giấy tờ bị dùng sai mục đích",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-011",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Ký xong hợp đồng thuê xe có được giữ một bản không: xin bản giấy hay chụp ảnh lại tại quầy",
+   "intent": "Biết cách đề nghị cửa hàng đưa một bản hợp đồng hoặc cho chụp lại sau khi ký, kiểm tra ảnh đủ rõ chữ ký và các trang trước khi rời tiệm.",
+   "kw": "xin bản hợp đồng thuê xe",
+   "kw2": [
+    "giữ bản hợp đồng thuê xe máy",
+    "chụp lại hợp đồng thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người vừa ký hợp đồng thuê xe tại cửa hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-012",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Đặt xe số rồi muốn đổi sang xe ga trước ngày nhận: nhắn tiệm sớm thế nào để còn xe",
+   "intent": "Biết cách tự đề nghị đổi dòng xe sau khi đã đặt, hỏi lại tình trạng còn xe, giá và giấy tờ có thay đổi không, rồi chốt lại bằng tin nhắn.",
+   "kw": "đổi loại xe sau khi đặt thuê",
+   "kw2": [
+    "đặt xe số đổi sang xe ga",
+    "đổi dòng xe trước ngày nhận"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người đã đặt xe nhưng đổi ý về loại xe trước ngày nhận",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-013",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm cho lấy xe trước, bổ sung giấy tờ sau: có nên nhận lời và cần thống nhất những gì",
+   "intent": "Cân nhắc khi cửa hàng cho nhận xe trước lúc đưa đủ giấy tờ, thống nhất hạn bổ sung, giấy tờ nào còn thiếu và ghi lại bằng tin nhắn để không vướng khi đi đường.",
+   "kw": "lấy xe trước bổ sung giấy tờ sau",
+   "kw2": [
+    "nhận xe thuê khi thiếu giấy tờ",
+    "hẹn bổ sung giấy tờ thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe gấp còn thiếu một phần giấy tờ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-014",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Đến tiệm nhận xe mới biết để quên căn cước ở khách sạn: các cách xử lý cho đỡ mất công",
+   "intent": "Xử lý tình huống quên căn cước ở nơi lưu trú khi đã đến cửa hàng nhận xe, gồm hỏi tiệm có giữ xe chờ không, quay về lấy hay hẹn đổi giờ nhận.",
+   "kw": "quên căn cước khi đi thuê xe",
+   "kw2": [
+    "để quên căn cước ở khách sạn",
+    "đến tiệm thuê xe quên giấy tờ"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "du khách ở khách sạn, homestay đến cửa hàng nhận xe đã đặt",
+   "location_scope": "Hà Nội (khu phố cổ và nội thành)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-015",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Xin tiệm gửi trước mẫu hợp đồng thuê xe để đọc ở nhà: hỏi thế nào và đọc chậm phần nào",
+   "intent": "Biết cách đề nghị cửa hàng gửi trước mẫu hợp đồng hoặc ảnh các trang điều khoản qua tin nhắn, để đọc kỹ lúc rảnh và chuẩn bị câu hỏi trước buổi nhận xe.",
+   "kw": "xin mẫu hợp đồng thuê xe trước",
+   "kw2": [
+    "đọc hợp đồng thuê xe trước khi đến",
+    "gửi trước điều khoản thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe muốn đọc kỹ điều khoản trước khi đến tiệm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-016",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Đã hẹn giao xe tận nơi rồi muốn tự đến tiệm lấy: nhắn đổi thế nào cho tiệm kịp sắp xếp",
+   "intent": "Biết cách báo cửa hàng chuyển từ giao xe tận nơi sang tự đến tiệm nhận, hỏi lại giờ mở cửa, địa chỉ chính xác và những thỏa thuận cũ có thay đổi không.",
+   "kw": "hủy giao xe tận nơi tự đến lấy",
+   "kw2": [
+    "đổi sang tự đến tiệm nhận xe",
+    "đổi hình thức nhận xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người đã đặt giao xe tận nơi nhưng lịch thay đổi",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-017",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Muốn thuê lại đúng chiếc xe lần trước ở cùng tiệm: nhắn biển số và hỏi lịch trống từ sớm",
+   "intent": "Biết cách giữ thông tin chiếc xe đã thuê ưng ý (biển số, dòng xe) và nhắn cửa hàng hỏi lịch trống cho lần sau, chấp nhận phương án xe tương tự nếu chiếc đó bận.",
+   "kw": "thuê lại đúng chiếc xe cũ",
+   "kw2": [
+    "thuê lại xe lần trước",
+    "nhắn biển số xe muốn thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "khách quay lại Hà Nội thuê xe lần hai",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-018",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm giao xe đến khách sạn khi mình chưa về: có nên để lễ tân ký nhận xe thay không",
+   "intent": "Cân nhắc việc nhờ lễ tân khách sạn nhận xe thay khi mình đi vắng, những gì cần báo tiệm và lễ tân, và cách kiểm tra lại xe ngay khi về.",
+   "kw": "lễ tân ký nhận xe thuê thay",
+   "kw2": [
+    "nhờ khách sạn nhận xe thuê",
+    "giao xe thuê khi mình vắng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "du khách ở khách sạn phố cổ đặt giao xe tận nơi",
+   "location_scope": "Hà Nội (khách sạn khu phố cổ, Hoàn Kiếm)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-019",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm hỏi link Facebook hoặc Zalo cá nhân khi thuê xe máy: vì sao hỏi và nên chia sẻ đến đâu",
+   "intent": "Hiểu lý do một số cửa hàng xin tài khoản mạng xã hội khi khách đặt xe từ xa, và cân nhắc chia sẻ vừa đủ, hỏi tiệm dùng thông tin vào việc gì.",
+   "kw": "thuê xe hỏi facebook cá nhân",
+   "kw2": [
+    "tiệm thuê xe xin zalo cá nhân",
+    "xác minh khách thuê xe qua mạng xã hội"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người đặt xe từ xa qua tin nhắn, lo về thông tin cá nhân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-020",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm cho thuê xe máy không hỏi giấy tờ gì: nên mừng hay nên hỏi lại cho chắc",
+   "intent": "Hiểu vì sao thủ tục quá sơ sài lại là dấu hiệu nên hỏi kỹ: xe có giấy tờ đi kèm không, ai chịu trách nhiệm khi có sự cố và có biên nhận gì cho hai bên.",
+   "kw": "thuê xe không hỏi giấy tờ",
+   "kw2": [
+    "tiệm thuê xe không cần giấy tờ",
+    "thuê xe máy thủ tục quá dễ"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe gặp nơi cho thuê làm thủ tục quá đơn giản",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-021",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Bằng lái ghi số chứng minh 9 số cũ, căn cước nay 12 số: đi thuê xe có cần mang thêm giấy gì",
+   "intent": "Chuẩn bị khi số giấy tờ trên bằng lái khác số căn cước hiện tại, hỏi trước cửa hàng có cần giấy tờ đối chiếu hay không và mang theo giấy tờ phù hợp.",
+   "kw": "bằng lái số cmnd cũ thuê xe",
+   "kw2": [
+    "số chứng minh cũ khác căn cước",
+    "bằng lái ghi số cmnd 9 số"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người có bằng lái cấp từ thời chứng minh nhân dân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-022",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Thẻ căn cước đã quá hạn đổi mà chưa kịp làm lại: có thuê được xe máy ở Hà Nội không",
+   "intent": "Hiểu vì sao giấy tờ tùy thân quá hạn có thể khiến cửa hàng ngần ngại, nhắn hỏi tiệm trước, chuẩn bị giấy tờ thay thế và lên lịch đổi thẻ theo hướng dẫn của cơ quan công an.",
+   "kw": "căn cước hết hạn thuê xe được không",
+   "kw2": [
+    "thẻ căn cước quá hạn thuê xe",
+    "chưa đổi căn cước thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người có thẻ căn cước đến tuổi đổi thẻ nhưng chưa làm lại",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-023",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm chụp ảnh người thuê đứng cạnh xe lúc giao: vì sao làm vậy và đề nghị gì về lưu ảnh",
+   "intent": "Hiểu mục đích cửa hàng chụp ảnh người nhận xe cùng chiếc xe lúc bàn giao, và cách hỏi tiệm ảnh được lưu ở đâu, dùng vào việc gì, xóa khi nào.",
+   "kw": "tiệm chụp ảnh người thuê xe",
+   "kw2": [
+    "chụp ảnh khách khi giao xe",
+    "ảnh người thuê xe lưu ở đâu"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe quan tâm đến ảnh cá nhân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-024",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm báo dời giờ hoặc ngày giao xe đã hẹn: hỏi lại gì và khi nào nên tìm phương án khác",
+   "intent": "Biết cách phản hồi khi chính cửa hàng xin đổi lịch giao xe, hỏi giờ chắc chắn, xe có còn đúng loại đã đặt và quyết định chờ hay chuyển sang lựa chọn khác.",
+   "kw": "tiệm báo dời lịch giao xe",
+   "kw2": [
+    "cửa hàng đổi giờ giao xe",
+    "tiệm thuê xe lùi lịch hẹn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người đã đặt xe có lịch trình cố định ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3D-025",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm đề nghị ký thêm giấy cam kết riêng ngoài hợp đồng thuê xe: đọc những gì trước khi ký",
+   "intent": "Biết cách đọc một tờ cam kết riêng mà cửa hàng đưa kèm hợp đồng, hỏi rõ từng câu chưa hiểu, đối chiếu với điều đã thỏa thuận và giữ lại bản chụp.",
+   "kw": "giấy cam kết khi thuê xe",
+   "kw2": [
+    "ký cam kết thuê xe máy",
+    "tờ cam kết ngoài hợp đồng thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3D",
+   "audience": "người thuê xe đang làm thủ tục ký giấy tờ tại cửa hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
