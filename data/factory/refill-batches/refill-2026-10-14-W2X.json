@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2X: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-001",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Tê mông, tê chân khi ngồi xe máy lâu: đổi tư thế trên yên và nhịp nghỉ chân hợp lý",
+   "intent": "Biết vì sao ngồi yên xe máy lâu bị tê mông, tê đùi và cách đổi tư thế, nhổm người, dừng nghỉ chân để máu lưu thông trước khi tê ảnh hưởng tới việc điều khiển xe.",
+   "kw": "tê mông khi đi xe máy",
+   "kw2": [
+    "ngồi xe máy lâu bị tê chân",
+    "đi xe máy lâu bị tê đùi"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "khách đi xe máy nửa ngày trở lên",
+   "location_scope": "nội thành và các chặng ra ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-002",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Khô mắt, chảy nước mắt vì gió khi chạy xe: kính chắn gió, kính mắt và cách chớp mắt",
+   "intent": "Hiểu vì sao gió thổi thẳng vào mắt khi chạy xe gây khô, cay, chảy nước mắt và cách che chắn bằng kính mũ bảo hiểm, kính mắt, dừng nghỉ trên các cung đường thoáng gió.",
+   "kw": "khô mắt khi đi xe máy",
+   "kw2": [
+    "chảy nước mắt khi đi xe máy",
+    "gió thổi vào mắt khi lái xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người không quen chạy xe đường thoáng gió",
+   "location_scope": "cầu Nhật Tân, đê sông Hồng, Đại lộ Thăng Long",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-003",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Đeo kính áp tròng khi chạy xe máy ở Hà Nội: gió, bụi và những gì nên mang theo",
+   "intent": "Biết những bất tiện khi đeo kính áp tròng chạy xe máy (gió làm khô, bụi lọt vào mắt) và cách chuẩn bị: kính che, kính gọng dự phòng, chỗ dừng an toàn khi mắt khó chịu.",
+   "kw": "đeo kính áp tròng đi xe máy",
+   "kw2": [
+    "kính áp tròng khi lái xe máy",
+    "lens bị khô khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người cận thị dùng kính áp tròng",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-004",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Đeo kính râm khi đi xe máy: chọn tròng thế nào và khi nào phải tháo ra trước hầm chui",
+   "intent": "Chọn kính râm phù hợp khi lái xe máy (độ tối tròng, màu, gọng vừa mũ) và biết lúc nào phải tháo kính như khi vào hầm chui Kim Liên, Thanh Xuân hay khi trời chuyển tối.",
+   "kw": "đeo kính râm đi xe máy",
+   "kw2": [
+    "chọn kính râm lái xe máy",
+    "kính râm khi vào hầm chui"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người lái xe ban ngày nhiều nắng",
+   "location_scope": "hầm Kim Liên, hầm chui Thanh Xuân, đường vành đai Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-005",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Kính lão, kính đa tròng khi đi xe máy: nhìn đồng hồ gần và nhìn đường xa cho rõ",
+   "intent": "Hiểu vì sao người đeo kính lão hoặc kính đa tròng dễ nhìn nhòe khi chuyển mắt giữa đồng hồ xe và mặt đường, và cách chọn kính, chỉnh tư thế đầu khi lái xe máy.",
+   "kw": "kính đa tròng đi xe máy",
+   "kw2": [
+    "đeo kính lão lái xe máy",
+    "người lớn tuổi đeo kính khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người trung niên, lớn tuổi đeo kính",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-006",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Hắt hơi, ho, sổ mũi khi đang chạy xe máy: giữ tay lái và tầm nhìn trong vài giây mất tập trung",
+   "intent": "Biết cách giữ xe ổn định khi bất chợt hắt hơi hay ho lúc đang lái: giảm ga, giữ thẳng tay lái, chủ động tấp vào lề nếu cần và chuẩn bị khăn, khẩu trang để bớt bị kích ứng.",
+   "kw": "hắt hơi khi đang lái xe máy",
+   "kw2": [
+    "ho khi đang chạy xe máy",
+    "sổ mũi khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người hay hắt hơi khi gặp gió, bụi",
+   "location_scope": "đường phố đông xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-007",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Chuột rút bắp chân khi đang chạy xe đường dài: tấp vào lề an toàn và duỗi chân thế nào",
+   "intent": "Biết cách xử lý khi bị chuột rút chân giữa chuyến xe máy dài: giảm tốc, tìm chỗ dừng an toàn, duỗi nhẹ cơ, và cách ngồi, nghỉ để hạn chế lặp lại ở các chặng sau.",
+   "kw": "chuột rút khi đi xe máy",
+   "kw2": [
+    "chuột rút chân khi lái xe",
+    "bị chuột rút giữa đường đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người chạy chuyến xe dài ra ngoại thành",
+   "location_scope": "các chặng ra Ba Vì, Sơn Tây, Hòa Lạc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-008",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Da mặt, môi khô nứt sau nhiều ngày chạy xe mùa hanh khô Hà Nội: che chắn và giữ ẩm",
+   "intent": "Biết vì sao gió hanh khô cuối thu đầu đông làm da mặt, môi khô nứt khi đi xe máy hằng ngày và cách che chắn bằng mũ có kính, khăn, khẩu trang cùng thói quen giữ ẩm đơn giản.",
+   "kw": "khô da mặt khi đi xe máy",
+   "kw2": [
+    "nứt môi khi đi xe máy mùa đông",
+    "đi xe máy mùa hanh khô"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người đi xe máy hằng ngày mùa khô",
+   "location_scope": "Hà Nội mùa thu đông",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-009",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Mũ bảo hiểm chật gây đau đầu, cấn trán: thử cỡ mũ cho vừa khi nhận xe máy thuê",
+   "intent": "Biết dấu hiệu mũ bảo hiểm quá chật (đau đầu, hằn trán, nhức thái dương) hay quá rộng và cách thử, chỉnh quai, đổi cỡ mũ ngay lúc nhận xe để đội cả ngày không mệt.",
+   "kw": "mũ bảo hiểm chật đau đầu",
+   "kw2": [
+    "chọn cỡ mũ bảo hiểm vừa đầu",
+    "đội mũ bảo hiểm bị đau đầu"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "khách thuê xe dùng mũ của cửa hàng",
+   "location_scope": "điểm nhận xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-010",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Đội mũ bảo hiểm nóng bí đầu mùa hè: mũ thoáng, khăn lót và những lần tháo mũ lúc nghỉ",
+   "intent": "Hiểu vì sao đội mũ giữa trưa hè Hà Nội dễ nóng đầu, đổ mồ hôi, mệt và cách chọn mũ thoáng, dùng khăn lót, tranh thủ tháo mũ hong khô khi dừng nghỉ mà vẫn đội đúng khi chạy.",
+   "kw": "đội mũ bảo hiểm nóng đầu",
+   "kw2": [
+    "mũ bảo hiểm bí nóng mùa hè",
+    "đổ mồ hôi đầu khi đội mũ bảo hiểm"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người đi xe máy ban ngày mùa hè",
+   "location_scope": "Hà Nội tháng 5 đến tháng 8",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-011",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Chạy xe máy ngay sau buổi tập gym hay đá bóng: tay chân run mỏi, nên nghỉ bao lâu",
+   "intent": "Biết vì sao sau buổi tập nặng tay dễ run, chân mỏi, phản xạ chậm hơn khi cầm lái và cách nghỉ, uống nước, đi chậm trên đường về để không mất kiểm soát xe.",
+   "kw": "đi xe máy sau khi tập gym",
+   "kw2": [
+    "lái xe sau khi đá bóng",
+    "mệt sau tập thể thao có nên lái xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người tập thể thao buổi tối rồi tự lái xe về",
+   "location_scope": "phòng tập, sân bóng mini trong nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-012",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Lái xe máy về sau khi massage, spa hay xông hơi: người lâng lâng có nên chạy ngay",
+   "intent": "Hiểu cảm giác lâng lâng, buồn ngủ, khát nước sau khi massage, xông hơi và biết nên ngồi nghỉ, uống nước bao lâu, kiểm tra độ tỉnh táo trước khi tự lái xe máy về chỗ ở.",
+   "kw": "lái xe sau khi massage",
+   "kw2": [
+    "đi xe máy sau khi xông hơi",
+    "đi spa xong có nên lái xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "khách du lịch đi spa, massage chân",
+   "location_scope": "phố cổ và khu Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-013",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Người ngồi sau tê chân, mỏi lưng trên chuyến xe dài: tư thế ngồi, gác chân và chỗ bám tay",
+   "intent": "Biết cách giúp người ngồi sau đỡ tê chân, mỏi lưng trên chuyến xe máy dài: hạ gác chân, chỗ đặt tay, cách ngồi thẳng mà không làm lệch xe, và khi nào nên dừng cho cả hai duỗi chân.",
+   "kw": "ngồi sau xe máy lâu mỏi lưng",
+   "kw2": [
+    "người ngồi sau tê chân",
+    "tư thế ngồi sau xe máy đường dài"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "cặp đôi, bạn bè đi chung một xe",
+   "location_scope": "các chuyến xe máy từ Hà Nội đi Ba Vì, Tam Đảo, Ninh Bình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-014",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Mùi hoa sữa nồng khi chạy xe tối mùa thu: khó chịu, hắt hơi và chọn phố đi tránh",
+   "intent": "Biết vì sao một số người thấy nhức đầu, hắt hơi khi chạy xe qua những phố trồng nhiều hoa sữa vào tối mùa thu và cách đeo khẩu trang, chọn đường vòng khác để đỡ khó chịu.",
+   "kw": "hoa sữa gây khó chịu khi đi xe",
+   "kw2": [
+    "mùi hoa sữa nhức đầu",
+    "tránh phố hoa sữa khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người nhạy cảm với mùi hương mạnh",
+   "location_scope": "phố Nguyễn Du, Quang Trung, Hồ Tây vào tháng 10, 11",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-015",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Màn hình điện thoại dẫn đường chói mắt khi chạy xe đêm: chỉnh độ sáng và chế độ tối",
+   "intent": "Biết cách chỉnh độ sáng, bật chế độ tối và đặt điện thoại dẫn đường ở góc hợp lý để không bị chói mắt, mỏi mắt khi liếc màn hình lúc lái xe máy trên đường tối.",
+   "kw": "màn hình điện thoại chói mắt ban đêm",
+   "kw2": [
+    "chỉnh độ sáng điện thoại khi lái xe",
+    "chế độ tối bản đồ khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người dùng điện thoại dẫn đường khi đi xe tối",
+   "location_scope": "đường ngoại thành ít đèn quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-016",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Mỏi đầu gối khi đi xe ga đường dài: đặt bàn chân trên sàn xe sao cho chân đỡ gập",
+   "intent": "Hiểu vì sao đầu gối dễ mỏi khi ngồi xe ga sàn phẳng lâu và cách đổi vị trí bàn chân trên sàn để chân, chỉnh khoảng ngồi, kết hợp dừng duỗi chân trên chuyến đi dài.",
+   "kw": "mỏi đầu gối khi đi xe ga",
+   "kw2": [
+    "đặt chân trên sàn xe ga",
+    "đau gối khi ngồi xe máy lâu"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người lái xe ga trên chuyến đi dài",
+   "location_scope": "các chuyến từ Hà Nội ra ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-017",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Đổ mồ hôi ướt lưng áo khi đi xe máy mùa hè: đến chỗ làm, gặp khách mà vẫn gọn gàng",
+   "intent": "Biết cách hạn chế mồ hôi ướt lưng áo khi chạy xe máy trưa hè Hà Nội: chọn áo khoác thoáng, giờ đi, mang áo thay và chỗ chỉnh trang trước khi vào văn phòng hay buổi hẹn.",
+   "kw": "đổ mồ hôi khi đi xe máy mùa hè",
+   "kw2": [
+    "ướt lưng áo khi đi xe máy",
+    "đi xe máy đi làm mùa hè"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người đi làm, đi gặp đối tác bằng xe máy",
+   "location_scope": "nội thành Hà Nội mùa hè",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-018",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Bị ướt mưa giữa đường rồi lạnh run: thay đồ khô, giữ ấm và khi nào mới chạy tiếp",
+   "intent": "Biết cách xử lý khi bị mắc mưa ướt người giữa chuyến xe máy và bắt đầu lạnh run: tìm chỗ trú, thay đồ khô, giữ ấm tay chân và đánh giá đã đủ tỉnh táo để lái tiếp hay chưa.",
+   "kw": "đi xe máy bị ướt mưa lạnh",
+   "kw2": [
+    "mắc mưa ướt người khi đi xe máy",
+    "lạnh run sau khi dầm mưa đi xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người hay đi xe khi trời mưa bất chợt",
+   "location_scope": "Hà Nội mùa mưa và mùa xuân lạnh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-019",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Đang đau mắt đỏ có nên tự chạy xe máy: tầm nhìn, gió bụi và nhờ người chở",
+   "intent": "Cân nhắc có nên tự lái xe máy khi đang bị đau mắt đỏ: ảnh hưởng tới tầm nhìn, chói sáng, gió bụi, và các lựa chọn đi lại khác trong những ngày mắt chưa khỏi.",
+   "kw": "đau mắt đỏ có nên đi xe máy",
+   "kw2": [
+    "đau mắt đỏ lái xe",
+    "bị đau mắt có nên chạy xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người đang thuê xe máy bị đau mắt",
+   "location_scope": "Hà Nội mùa thu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-020",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Thôi miên đường khi chạy đoạn thẳng dài Đại lộ Thăng Long: giữ mắt tỉnh, đầu óc tập trung",
+   "intent": "Hiểu hiện tượng đầu óc lơ đãng, mắt nhìn đờ khi chạy xe máy trên đoạn đường thẳng, đơn điệu và cách đổi nhịp, chia chặng, dừng nghỉ để giữ tập trung.",
+   "kw": "thôi miên đường khi chạy xe",
+   "kw2": [
+    "mất tập trung khi chạy đường thẳng dài",
+    "lơ đãng khi lái xe máy đường dài"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người chạy xe đi Hòa Lạc, Ba Vì",
+   "location_scope": "Đại lộ Thăng Long, đường Hồ Chí Minh đoạn Hòa Lạc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-021",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Mỏi mệt tích lũy trên chuyến xe máy nhiều ngày từ Hà Nội: nhận ra sớm và rút ngắn chặng",
+   "intent": "Biết dấu hiệu mệt dồn qua nhiều ngày liên tiếp chạy xe máy đường dài (phản xạ chậm, cáu gắt, đau mỏi kéo dài) và cách điều chỉnh lịch trình, rút ngắn chặng, thêm ngày nghỉ.",
+   "kw": "mệt mỏi chuyến xe máy nhiều ngày",
+   "kw2": [
+    "đi phượt xe máy nhiều ngày bị mệt",
+    "lịch nghỉ chuyến xe máy dài ngày"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "khách thuê xe đi chuyến dài nhiều ngày",
+   "location_scope": "các chuyến từ Hà Nội đi Mai Châu, Ninh Bình, Mộc Châu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-022",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Sợ độ cao khi chạy xe máy qua cầu lớn: nhìn đâu cho đỡ chóng mặt trên cầu Nhật Tân",
+   "intent": "Biết cách giữ bình tĩnh khi thấy chóng mặt, sợ độ cao lúc chạy xe máy qua cầu cao, dài: chọn làn, hướng nhìn, tốc độ và lộ trình thay thế nếu chưa quen.",
+   "kw": "sợ độ cao khi đi xe qua cầu",
+   "kw2": [
+    "chóng mặt khi đi qua cầu",
+    "đi xe máy qua cầu cao bị sợ"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người sợ độ cao hoặc mới tự lái xe",
+   "location_scope": "cầu Nhật Tân, cầu Vĩnh Tuy, cầu Thanh Trì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-023",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Đeo máy trợ thính khi lái xe máy: tiếng gió trong mũ, nghe còi và bù bằng quan sát",
+   "intent": "Hiểu những khó khăn khi người đeo máy trợ thính hoặc nghe kém lái xe máy (tiếng gió rít, khó nghe còi) và cách bù bằng gương chiếu hậu, quan sát và chọn giờ, đường đi vắng hơn.",
+   "kw": "đeo máy trợ thính lái xe máy",
+   "kw2": [
+    "người nghe kém đi xe máy",
+    "tiếng gió trong mũ bảo hiểm"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người nghe kém, người lớn tuổi",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-024",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Người mù màu lái xe máy ở Hà Nội: đọc đèn giao thông theo vị trí và đèn đếm ngược",
+   "intent": "Biết cách người khó phân biệt màu đỏ, xanh nhận ra tín hiệu đèn giao thông dựa vào vị trí đèn, đèn đếm ngược và dòng xe xung quanh để đi qua ngã tư an toàn.",
+   "kw": "người mù màu lái xe máy",
+   "kw2": [
+    "mù màu nhìn đèn giao thông",
+    "phân biệt đèn đỏ đèn xanh khi lái xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người mù màu đỏ xanh",
+   "location_scope": "các ngã tư có đèn tín hiệu ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2X-025",
+   "child_id": "C-KY-NANG-SUC-KHOE",
+   "title": "Kem chống nắng chảy vào mắt khi chạy xe ra mồ hôi: xử lý lúc đang lái và cách bôi",
+   "intent": "Biết cách xử lý khi mồ hôi cuốn kem chống nắng chảy vào mắt gây cay, nhòe lúc đang chạy xe: giảm tốc, tấp vào lề, rửa mắt bằng nước sạch và cách bôi kem tránh vùng trán, mi mắt.",
+   "kw": "kem chống nắng chảy vào mắt",
+   "kw2": [
+    "cay mắt khi đi xe máy mùa hè",
+    "mồ hôi chảy vào mắt khi lái xe"
+   ],
+   "links": [
+    "/ky-nang/suc-khoe-khi-lai-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-14-W2X",
+   "audience": "người bôi kem chống nắng khi đi xe ban ngày",
+   "location_scope": "Hà Nội mùa hè",
+   "word_target": 1200
+  }
+ ]
+}

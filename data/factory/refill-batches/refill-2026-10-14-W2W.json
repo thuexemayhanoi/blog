@@ -1,0 +1,465 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2W: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-001",
+   "child_id": "C-BAO-TANG",
+   "title": "Nhà lưu niệm 48 Hàng Ngang, nơi soạn Tuyên ngôn Độc lập: ghé bằng xe máy giữa phố cổ",
+   "intent": "Biết cách chạy xe máy vào phố Hàng Ngang đông đúc, dừng xe gần di tích số 48 và sắp xếp buổi thăm căn nhà nơi Chủ tịch Hồ Chí Minh soạn thảo Tuyên ngôn Độc lập.",
+   "kw": "di tích 48 hàng ngang",
+   "kw2": [
+    "nhà lưu niệm 48 hàng ngang",
+    "nơi soạn tuyên ngôn độc lập"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách và người Hà Nội tự chạy xe máy đi tham quan di tích, bảo tàng",
+   "location_scope": "Phố Hàng Ngang, phố cổ Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-002",
+   "child_id": "C-BAO-TANG",
+   "title": "Hồ Hữu Tiệp và xác máy bay B-52 trong ngõ Ngọc Hà: tìm đường vào và dừng xe ở ngõ hẹp",
+   "intent": "Biết đường xe máy vào ngõ nhỏ khu Ngọc Hà để xem xác máy bay B-52 nằm giữa hồ Hữu Tiệp, cách dừng xe không chắn lối dân cư và nên ở lại bao lâu.",
+   "kw": "hồ hữu tiệp xác b52",
+   "kw2": [
+    "xác máy bay b52 ngọc hà",
+    "đường vào hồ hữu tiệp"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách quan tâm di tích chiến tranh chống Mỹ, tự chạy xe máy ở Ba Đình",
+   "location_scope": "Phường Ngọc Hà, Ba Đình, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-003",
+   "child_id": "C-BAO-TANG",
+   "title": "Di tích số 5D Hàm Long, nơi ra đời chi bộ cộng sản đầu tiên: ghé xe máy từ Hồ Gươm",
+   "intent": "Hiểu di tích 5D Hàm Long là gì, chạy xe máy từ Hồ Gươm qua Bà Triệu tới phố Hàm Long thế nào và dừng xe ra sao trên con phố nhỏ một chiều.",
+   "kw": "di tích 5d hàm long",
+   "kw2": [
+    "chi bộ cộng sản đầu tiên hàm long",
+    "5d hàm long ở đâu"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Học sinh, sinh viên và người Hà Nội tìm hiểu di tích lịch sử cách mạng",
+   "location_scope": "Phố Hàm Long, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-004",
+   "child_id": "C-BAO-TANG",
+   "title": "Khu di tích Phủ Chủ tịch: nhà sàn Bác Hồ, ao cá, đường xoài, đi xe máy và gửi xe thế nào",
+   "intent": "Lên kế hoạch thăm khu nhà sàn và Phủ Chủ tịch khi tự đi xe máy: nên vào từ cổng nào, gửi xe ở đâu quanh Hùng Vương, Ngọc Hà và đi bộ tham quan theo thứ tự nào.",
+   "kw": "thăm nhà sàn bác hồ",
+   "kw2": [
+    "khu di tích phủ chủ tịch",
+    "nhà sàn bác hồ gửi xe"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách và người Hà Nội tự chạy xe máy đi tham quan di tích, bảo tàng",
+   "location_scope": "Khu Phủ Chủ tịch, Ba Đình, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-005",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Công an nhân dân ở Hà Nội: đi xe máy, gửi xe và những hiện vật nên xem trước",
+   "intent": "Biết cách tìm đến Bảo tàng Công an nhân dân bằng xe máy, hỏi chỗ để xe trước khi tới và chọn khu trưng bày nên xem nếu chỉ có khoảng một giờ.",
+   "kw": "bảo tàng công an nhân dân",
+   "kw2": [
+    "bảo tàng công an hà nội",
+    "đi bảo tàng công an nhân dân"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội, học sinh và du khách muốn tìm hiểu lịch sử lực lượng công an",
+   "location_scope": "Quận Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-006",
+   "child_id": "C-BAO-TANG",
+   "title": "Trung tâm Triển lãm Văn hóa Nghệ thuật số 2 Hoa Lư: chạy xe máy đi xem triển lãm",
+   "intent": "Biết cách chạy xe máy tới Trung tâm Triển lãm Văn hóa Nghệ thuật Việt Nam ở số 2 Hoa Lư, gửi xe ngày có triển lãm lớn và kiểm tra lịch trưng bày trước khi đi.",
+   "kw": "triển lãm số 2 hoa lư",
+   "kw2": [
+    "trung tâm triển lãm văn hóa nghệ thuật việt nam",
+    "xem triển lãm hoa lư"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội và khách yêu mỹ thuật, nhiếp ảnh, hay đi xem triển lãm cuối tuần",
+   "location_scope": "Phố Hoa Lư, Hai Bà Trưng, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-007",
+   "child_id": "C-BAO-TANG",
+   "title": "Nhà triển lãm 16 Ngô Quyền: xem triển lãm mỹ thuật giữa khu phố Pháp bằng xe máy",
+   "intent": "Biết đường xe máy tới nhà triển lãm 16 Ngô Quyền, dừng xe ở đâu trên phố một chiều và cách xem lịch khai mạc để không đến vào ngày đang thay trưng bày.",
+   "kw": "nhà triển lãm 16 ngô quyền",
+   "kw2": [
+    "triển lãm mỹ thuật ngô quyền",
+    "xem triển lãm tranh hà nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Sinh viên mỹ thuật, người yêu hội họa và du khách thích nghệ thuật",
+   "location_scope": "Phố Ngô Quyền, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-008",
+   "child_id": "C-BAO-TANG",
+   "title": "Trung tâm Hội chợ Triển lãm Quốc gia ở Đông Anh: chạy xe máy qua cầu và gửi xe ngày đông",
+   "intent": "Lên kế hoạch đi xe máy từ nội thành qua sông Hồng tới Trung tâm Hội chợ Triển lãm Quốc gia ở Đông Anh, chọn cầu, chọn giờ và gửi xe khi có triển lãm lớn đông người.",
+   "kw": "trung tâm triển lãm quốc gia đông anh",
+   "kw2": [
+    "đi triển lãm đông anh bằng xe máy",
+    "gửi xe trung tâm hội chợ triển lãm quốc gia"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội và khách đi xem triển lãm quy mô lớn bên kia sông Hồng",
+   "location_scope": "Huyện Đông Anh, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-009",
+   "child_id": "C-BAO-TANG",
+   "title": "Triển lãm ở Cung Văn hóa Hữu nghị trên Trần Hưng Đạo: đi xe máy, gửi xe và giờ vắng",
+   "intent": "Biết đi xe máy tới Cung Văn hóa Hữu nghị Việt Xô khi có hội chợ, triển lãm chuyên ngành, chọn lối vào gửi xe và khung giờ tránh đông.",
+   "kw": "triển lãm cung văn hóa hữu nghị",
+   "kw2": [
+    "gửi xe cung văn hóa hữu nghị",
+    "hội chợ 91 trần hưng đạo"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người đi làm, doanh nghiệp nhỏ và khách tham quan hội chợ triển lãm chuyên ngành",
+   "location_scope": "Phố Trần Hưng Đạo, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-010",
+   "child_id": "C-BAO-TANG",
+   "title": "Trung tâm Nghệ thuật Đương đại Vincom ở Royal City: xem triển lãm và gửi xe tầng hầm",
+   "intent": "Biết cách đi xe máy vào hầm Royal City trên Nguyễn Trãi, tìm lối lên khu trưng bày nghệ thuật đương đại VCCA và kiểm tra triển lãm đang mở trước khi đi.",
+   "kw": "vcca royal city",
+   "kw2": [
+    "trung tâm nghệ thuật đương đại vincom",
+    "triển lãm nghệ thuật đương đại hà nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Giới trẻ, sinh viên và người yêu nghệ thuật đương đại ở Hà Nội",
+   "location_scope": "Royal City, đường Nguyễn Trãi, Thanh Xuân, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-011",
+   "child_id": "C-BAO-TANG",
+   "title": "Đền Voi Phục ở Thủ Lệ, ngôi trấn Tây của Thăng Long: đi xe máy và dừng xe cạnh đền",
+   "intent": "Hiểu vì sao đền Voi Phục được xem là trấn Tây của kinh thành cũ, chạy xe máy tới đường Kim Mã, Thủ Lệ thế nào và dừng xe ra sao khi vào đền.",
+   "kw": "đền voi phục thủ lệ",
+   "kw2": [
+    "đền voi phục ở đâu",
+    "thăng long tứ trấn trấn tây"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội và du khách tìm hiểu Thăng Long tứ trấn",
+   "location_scope": "Khu Thủ Lệ, Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-012",
+   "child_id": "C-BAO-TANG",
+   "title": "Tour đêm Hoàng thành Thăng Long: đặt chỗ, gửi xe buổi tối và chạy xe máy về khuya",
+   "intent": "Biết cách tìm và đặt chương trình tham quan Hoàng thành Thăng Long buổi tối, tới cổng bằng xe máy đúng giờ tập trung, gửi xe ban đêm và về an toàn sau khi kết thúc.",
+   "kw": "tour đêm hoàng thành thăng long",
+   "kw2": [
+    "giải mã hoàng thành thăng long",
+    "tham quan hoàng thành buổi tối"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách và người Hà Nội muốn trải nghiệm di tích về đêm",
+   "location_scope": "Hoàng thành Thăng Long, Ba Đình, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-013",
+   "child_id": "C-BAO-TANG",
+   "title": "Tour đêm Nhà tù Hỏa Lò: chuẩn bị, giờ tập trung và gửi xe máy quanh phố Hỏa Lò buổi tối",
+   "intent": "Lên kế hoạch tham gia chương trình tham quan đêm tại Di tích Nhà tù Hỏa Lò: kiểm tra lịch và cách đặt chỗ, đến bằng xe máy, gửi xe buổi tối và lưu ý cho người đi cùng trẻ em.",
+   "kw": "tour đêm hỏa lò",
+   "kw2": [
+    "đêm thiêng liêng hỏa lò",
+    "tham quan hỏa lò buổi tối"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách, nhóm bạn trẻ và gia đình muốn trải nghiệm di tích buổi tối",
+   "location_scope": "Phố Hỏa Lò, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-014",
+   "child_id": "C-BAO-TANG",
+   "title": "Văn Miếu buổi tối với chương trình Tinh hoa Đạo học: đi xe máy, gửi xe và giờ vào",
+   "intent": "Biết cách tham dự chương trình tham quan đêm Tinh hoa Đạo học ở Văn Miếu - Quốc Tử Giám: xem lịch và đặt chỗ, đi xe máy tới cổng, gửi xe buổi tối và về sau khi kết thúc.",
+   "kw": "văn miếu về đêm",
+   "kw2": [
+    "tinh hoa đạo học văn miếu",
+    "tour đêm văn miếu quốc tử giám"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách, học sinh và gia đình muốn tham quan Văn Miếu buổi tối",
+   "location_scope": "Văn Miếu - Quốc Tử Giám, Đống Đa, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-015",
+   "child_id": "C-BAO-TANG",
+   "title": "Ngày Quốc tế Bảo tàng 18/5 ở Hà Nội: theo dõi hoạt động và chạy xe máy đi nhiều điểm",
+   "intent": "Biết cách theo dõi thông báo hoạt động dịp Ngày Quốc tế Bảo tàng 18/5 của các bảo tàng Hà Nội và xếp lộ trình xe máy hợp lý để ghé nhiều nơi trong một ngày đông khách.",
+   "kw": "ngày quốc tế bảo tàng 18/5",
+   "kw2": [
+    "hoạt động bảo tàng hà nội 18/5",
+    "bảo tàng hà nội ngày 18 tháng 5"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội, sinh viên và gia đình hay đi bảo tàng vào dịp đặc biệt",
+   "location_scope": "Các bảo tàng nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-016",
+   "child_id": "C-BAO-TANG",
+   "title": "Đài tưởng niệm Khâm Thiên: ghé khu tưởng niệm nạn nhân bom B-52 năm 1972 bằng xe máy",
+   "intent": "Hiểu ý nghĩa Đài tưởng niệm trên phố Khâm Thiên, chạy xe máy tới đây từ Lê Duẩn hay Tôn Đức Thắng và dừng xe trên con phố đông mà không gây cản trở.",
+   "kw": "đài tưởng niệm khâm thiên",
+   "kw2": [
+    "tượng đài khâm thiên",
+    "di tích bom b52 khâm thiên"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người quan tâm lịch sử 12 ngày đêm tháng 12 năm 1972, học sinh và du khách",
+   "location_scope": "Phố Khâm Thiên, Đống Đa, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-017",
+   "child_id": "C-BAO-TANG",
+   "title": "Trung tâm Văn hóa Pháp L'Espace ở Tràng Tiền: xem triển lãm, chiếu phim và gửi xe gần đó",
+   "intent": "Biết cách đi xe máy tới L'Espace trên phố Tràng Tiền, tìm chỗ gửi xe quanh khu Nhà hát Lớn và xem lịch triển lãm, sự kiện văn hóa trước khi đến.",
+   "kw": "trung tâm văn hóa pháp l'espace",
+   "kw2": [
+    "l'espace tràng tiền",
+    "triển lãm l'espace hà nội"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội, sinh viên học tiếng Pháp và khách yêu nghệ thuật",
+   "location_scope": "Phố Tràng Tiền, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-018",
+   "child_id": "C-BAO-TANG",
+   "title": "Làng cổ Đông Ngạc ở Bắc Từ Liêm: đình làng, nhà thờ họ khoa bảng và đường xe máy vào làng",
+   "intent": "Lên kế hoạch thăm làng khoa bảng Đông Ngạc bằng xe máy: đi theo hướng nào từ nội thành, dừng xe ở đâu trong làng và ghé đình, nhà thờ họ theo thứ tự nào.",
+   "kw": "làng cổ đông ngạc",
+   "kw2": [
+    "làng vẽ đông ngạc",
+    "đình đông ngạc đi xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội và du khách thích làng cổ, di tích khoa bảng",
+   "location_scope": "Đông Ngạc, Bắc Từ Liêm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-019",
+   "child_id": "C-BAO-TANG",
+   "title": "Đền Kim Liên, trấn Nam của Thăng Long ở Phương Liên: đi xe máy và lối vào đền",
+   "intent": "Biết vị trí đền Kim Liên trong ngõ phía Phương Liên, chạy xe máy từ Giải Phóng hay Lê Duẩn vào thế nào và dừng xe ở đâu khi đi lễ, tham quan.",
+   "kw": "đền kim liên trấn nam",
+   "kw2": [
+    "đền kim liên ở đâu",
+    "đền kim liên đống đa"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội đi lễ, khách tìm hiểu Thăng Long tứ trấn",
+   "location_scope": "Phương Liên, Đống Đa, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-020",
+   "child_id": "C-BAO-TANG",
+   "title": "Gò Đống Đa và tượng đài Quang Trung: đi xe máy tới công viên văn hóa trên Tây Sơn",
+   "intent": "Hiểu di tích Gò Đống Đa gắn với chiến thắng năm Kỷ Dậu, chạy xe máy tới công viên trên phố Tây Sơn, gửi xe ở đâu và dịp hội đầu xuân nên đi giờ nào.",
+   "kw": "gò đống đa",
+   "kw2": [
+    "tượng đài quang trung tây sơn",
+    "lễ hội gò đống đa"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội, học sinh và du khách tìm hiểu chiến thắng Ngọc Hồi - Đống Đa",
+   "location_scope": "Phố Tây Sơn, Đống Đa, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-021",
+   "child_id": "C-BAO-TANG",
+   "title": "Chùa Láng trên phố Chùa Láng: ghé ngôi chùa cổ thờ Từ Đạo Hạnh bằng xe máy",
+   "intent": "Biết đường xe máy tới chùa Láng từ Láng Hạ hay đường Láng, chỗ dừng xe trên phố Chùa Láng đông sinh viên và những hạng mục kiến trúc nên xem khi vào chùa.",
+   "kw": "chùa láng hà nội",
+   "kw2": [
+    "chùa láng đi xe máy",
+    "chùa láng thờ từ đạo hạnh"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội, sinh viên và khách thích kiến trúc chùa cổ",
+   "location_scope": "Phố Chùa Láng, Đống Đa, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-023",
+   "child_id": "C-BAO-TANG",
+   "title": "Nhà thờ Cửa Bắc trên Phan Đình Phùng: ngắm kiến trúc và dừng xe máy bên con phố cây cổ thụ",
+   "intent": "Biết cách chạy xe máy tới nhà thờ Cửa Bắc trên phố Phan Đình Phùng, dừng xe ở đâu để ngắm và chụp ảnh kiến trúc mà không vi phạm dừng đỗ.",
+   "kw": "nhà thờ cửa bắc",
+   "kw2": [
+    "nhà thờ cửa bắc phan đình phùng",
+    "chụp ảnh nhà thờ cửa bắc"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách và người Hà Nội thích kiến trúc Pháp, chụp ảnh phố",
+   "location_scope": "Phố Phan Đình Phùng, Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-024",
+   "child_id": "C-BAO-TANG",
+   "title": "Ngày Di sản Văn hóa Việt Nam 23/11: chọn di tích ở Hà Nội và chạy xe máy đi tham quan",
+   "intent": "Biết cách theo dõi hoạt động dịp Ngày Di sản Văn hóa Việt Nam 23/11 tại các di tích Hà Nội và chọn cụm điểm gần nhau để đi xe máy trong một buổi mà không bị vội.",
+   "kw": "ngày di sản văn hóa 23/11",
+   "kw2": [
+    "di tích hà nội ngày 23/11",
+    "tham quan di sản hà nội tháng 11"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Người Hà Nội, học sinh, sinh viên và gia đình muốn đi di tích dịp 23/11",
+   "location_scope": "Các di tích nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2W-025",
+   "child_id": "C-BAO-TANG",
+   "title": "Đền Lý Quốc Sư giữa phố cổ: thăm ngôi đền thờ Thiền sư Nguyễn Minh Không bằng xe máy",
+   "intent": "Biết đường xe máy tới đền Lý Quốc Sư gần Nhà thờ Lớn, chọn chỗ gửi xe quanh khu phố cổ đông khách và hiểu sơ lược sự tích trước khi vào thăm.",
+   "kw": "đền lý quốc sư",
+   "kw2": [
+    "đền lý quốc sư hà nội",
+    "phố lý quốc sư đi xe máy"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2W",
+   "audience": "Du khách và người Hà Nội dạo phố cổ, tìm hiểu đền cổ thời Lý",
+   "location_scope": "Phố Lý Quốc Sư, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

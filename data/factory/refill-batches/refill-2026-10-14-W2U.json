@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2U: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-001",
+   "child_id": "C-HO-TAY",
+   "title": "Chùa Tảo Sách ở Phú Thượng bằng xe máy: chạy ven đê, ngõ vào chùa và chỗ để xe",
+   "intent": "Biết cách tìm đường đến chùa Tảo Sách ở làng Thượng Thụy, Phú Thượng bằng xe máy: lối rẽ từ đường đê, ngõ làng hẹp, chỗ dừng xe và cách viếng chùa yên tĩnh.",
+   "kw": "chùa Tảo Sách Phú Thượng",
+   "kw2": [
+    "đi chùa Tảo Sách",
+    "chùa cổ Phú Thượng Tây Hồ"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người đi lễ, khách thích chùa cổ ít đông",
+   "location_scope": "Làng Thượng Thụy, phường Phú Thượng, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-002",
+   "child_id": "C-HO-TAY",
+   "title": "Đền Đồng Cổ ở làng Bưởi: đi xe máy từ Thụy Khuê, tích hội thề và chỗ gửi xe",
+   "intent": "Hiểu đền Đồng Cổ gắn với lệ hội thề thời Lý ra sao và biết cách đi xe máy từ đường Thụy Khuê vào ngõ đến đền, gửi xe ở đâu, giờ nào đỡ người.",
+   "kw": "đền Đồng Cổ Bưởi",
+   "kw2": [
+    "đi đền Đồng Cổ bằng xe máy",
+    "hội thề đền Đồng Cổ"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách thích di tích lịch sử, người đi lễ",
+   "location_scope": "Khu Bưởi, đường Thụy Khuê, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-003",
+   "child_id": "C-HO-TAY",
+   "title": "Làng xôi Phú Thượng sáng sớm bằng xe máy: đường vào làng, mua xôi và chở về không nát",
+   "intent": "Lên kế hoạch ghé làng Phú Thượng mua xôi buổi sáng bằng xe máy: đường từ đê Lạc Long Quân hay Âu Cơ vào làng, dừng xe trước nhà làm xôi và cách mang xôi về còn ngon.",
+   "kw": "làng xôi Phú Thượng",
+   "kw2": [
+    "mua xôi Phú Thượng",
+    "xôi Phú Thượng ở đâu"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người thích ẩm thực truyền thống, gia đình mua xôi cỗ",
+   "location_scope": "Làng Phú Thượng, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-004",
+   "child_id": "C-HO-TAY",
+   "title": "Dấu vết làng giấy dó Bưởi: chạy xe qua Yên Thái, Hồ Khẩu, Đông Xã tìm lại nghề xưa",
+   "intent": "Hiểu làng nghề giấy dó vùng Bưởi từng nằm ở đâu và lên lộ trình xe máy qua các làng Yên Thái, Hồ Khẩu, Đông Xã để xem những gì còn lại mà không hy vọng sai về một làng nghề đang hoạt động.",
+   "kw": "làng giấy dó Bưởi",
+   "kw2": [
+    "giấy dó Yên Thái",
+    "làng nghề cũ Tây Hồ"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người yêu văn hóa, khách tìm hiểu nghề truyền thống Hà Nội",
+   "location_scope": "Khu Bưởi: Yên Thái, Hồ Khẩu, Đông Xã, Tây Hồ, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-005",
+   "child_id": "C-HO-TAY",
+   "title": "Chợ Bưởi bằng xe máy: hàng cây giống, cây cảnh và cách chở chậu cây về an toàn",
+   "intent": "Biết cách đi xe máy đến chợ Bưởi để mua cây giống, cây cảnh: lối vào chợ, chỗ dừng xe, giờ chợ đông và cách cố định chậu cây trên xe khi chạy về.",
+   "kw": "chợ Bưởi mua cây cảnh",
+   "kw2": [
+    "chợ cây giống Bưởi",
+    "đi chợ Bưởi bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người trồng cây ban công, khách mua cây cảnh",
+   "location_scope": "Chợ Bưởi, Thụy Khuê – Hoàng Hoa Thám, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-006",
+   "child_id": "C-HO-TAY",
+   "title": "Làng Võng Thị bên Hồ Tây: ngõ làng cổ, đình chùa và lối đi xe máy giữa Bưởi và Lạc Long Quân",
+   "intent": "Biết cách khám phá làng Võng Thị bằng xe máy: vào từ phía Bưởi hay Lạc Long Quân, đi chậm trong ngõ làng, dừng xe ở đâu để xem đình chùa mà không cản lối dân.",
+   "kw": "làng Võng Thị Tây Hồ",
+   "kw2": [
+    "ngõ làng Võng Thị",
+    "đình chùa Võng Thị"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách thích làng cổ trong phố, người chụp ảnh đường phố",
+   "location_scope": "Làng Võng Thị, phường Bưởi, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-007",
+   "child_id": "C-HO-TAY",
+   "title": "Làng Yên Phụ giữa đê và hồ: đình làng, ngõ nhỏ ven hồ và cách xuống làng bằng xe máy",
+   "intent": "Hiểu làng Yên Phụ nằm kẹp giữa đường đê và Hồ Tây thế nào, biết lối rẽ từ đường Yên Phụ xuống làng, cách đi trong ngõ nhỏ và dừng xe khi ghé đình làng.",
+   "kw": "làng Yên Phụ ven hồ",
+   "kw2": [
+    "đình Yên Phụ",
+    "ngõ làng Yên Phụ xe máy"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách thích khám phá ngõ làng, người ở trọ quanh Yên Phụ",
+   "location_scope": "Làng Yên Phụ, phường Yên Phụ, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-008",
+   "child_id": "C-HO-TAY",
+   "title": "Làng Xuân La và đường Vệ Hồ: ngõ làng cũ giữa khu đô thị mới phía tây Hồ Tây",
+   "intent": "Biết cách đi xe máy vào làng Xuân La và men đường Vệ Hồ để thấy phần làng cũ còn lại giữa chung cư mới, chỗ dừng ngắm hồ và đoạn nào nên đi chậm.",
+   "kw": "làng Xuân La Vệ Hồ",
+   "kw2": [
+    "đường Vệ Hồ hồ Tây",
+    "làng cũ Xuân La"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người thích khám phá khu dân cư cũ, khách ở quanh Lạc Long Quân",
+   "location_scope": "Phường Xuân La, đường Vệ Hồ, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-009",
+   "child_id": "C-HO-TAY",
+   "title": "Chùa Châu Long và chợ Châu Long cạnh hồ Trúc Bạch: ghé bằng xe máy trong một buổi sáng",
+   "intent": "Lên kế hoạch ghé chùa Châu Long rồi đi chợ Châu Long gần hồ Trúc Bạch bằng xe máy: thứ tự ghé, chỗ để xe, giờ chợ đông và phố một chiều xung quanh.",
+   "kw": "chùa Châu Long chợ Châu Long",
+   "kw2": [
+    "đi chợ Châu Long",
+    "chùa Châu Long Trúc Bạch"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người đi lễ, khách thích chợ dân sinh",
+   "location_scope": "Phố Châu Long, gần hồ Trúc Bạch, Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-010",
+   "child_id": "C-HO-TAY",
+   "title": "Đạp vịt thiên nga trên Hồ Tây: đi xe máy đến bến thuyền, gửi xe và lưu ý khi có trẻ nhỏ",
+   "intent": "Biết cách đi xe máy đến các bến thuyền đạp vịt ven Hồ Tây, gửi xe trước khi xuống thuyền, chọn giờ ít nắng gió và lưu ý an toàn khi đi cùng trẻ nhỏ.",
+   "kw": "đạp vịt Hồ Tây",
+   "kw2": [
+    "thuyền thiên nga Hồ Tây",
+    "bến thuyền đạp vịt hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "gia đình có trẻ nhỏ, các cặp đôi",
+   "location_scope": "Bến thuyền ven Hồ Tây, đường Thanh Niên và quanh hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-011",
+   "child_id": "C-HO-TAY",
+   "title": "Du thuyền ăn tối trên Hồ Tây: đi xe máy đến bến, gửi xe và về nhà an toàn sau bữa tối",
+   "intent": "Biết cách đến bến du thuyền Hồ Tây bằng xe máy cho bữa tối trên hồ: đến sớm bao lâu, gửi xe ở đâu, đi bằng gì nếu có uống đồ có cồn và lối về sau giờ tàu cập bến.",
+   "kw": "du thuyền Hồ Tây buổi tối",
+   "kw2": [
+    "ăn tối du thuyền hồ Tây",
+    "bến du thuyền Hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "cặp đôi, nhóm bạn, khách du lịch muốn trải nghiệm buổi tối",
+   "location_scope": "Bến du thuyền ven Hồ Tây, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-012",
+   "child_id": "C-HO-TAY",
+   "title": "Chèo SUP và kayak trên Hồ Tây: chở ván, gửi xe và giữ đồ khô khi đi bằng xe máy",
+   "intent": "Biết cách đi chèo SUP hoặc kayak ở Hồ Tây bằng xe máy: mang gì, chở đồ ra sao, gửi xe gần điểm xuống nước và giữ điện thoại, giấy tờ, chìa khóa xe khô ráo.",
+   "kw": "chèo SUP Hồ Tây",
+   "kw2": [
+    "kayak Hồ Tây",
+    "chèo ván đứng hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người trẻ thích thể thao nước, khách nước ngoài sống ở Tây Hồ",
+   "location_scope": "Mặt Hồ Tây và các điểm thuê ván ven hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-013",
+   "child_id": "C-HO-TAY",
+   "title": "Cây cô đơn Hồ Tây: tìm đúng chỗ chụp ảnh, giờ ánh sáng đẹp và dừng xe máy không cản đường",
+   "intent": "Biết vị trí cây cô đơn ven Hồ Tây hay được chụp ảnh, đi xe máy đến giờ nào có ánh sáng đẹp, dừng xe ở đâu cho hợp lệ và chụp mà không chắn lối người khác.",
+   "kw": "cây cô đơn Hồ Tây",
+   "kw2": [
+    "chụp ảnh cây cô đơn hồ Tây",
+    "góc chụp ảnh đẹp Hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người chụp ảnh, cặp đôi chụp ảnh kỷ niệm",
+   "location_scope": "Ven Hồ Tây, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-014",
+   "child_id": "C-HO-TAY",
+   "title": "Đêm Trung thu ở Hồ Tây bằng xe máy: đường ven hồ đông, chỗ ngắm trăng và đưa trẻ đi chơi",
+   "intent": "Lên kế hoạch đi chơi đêm rằm Trung thu quanh Hồ Tây bằng xe máy: đoạn nào đông, chỗ dừng ngắm trăng trên mặt hồ, gửi xe và giữ trẻ an toàn giữa đám đông.",
+   "kw": "Trung thu Hồ Tây",
+   "kw2": [
+    "ngắm trăng Hồ Tây",
+    "đêm rằm tháng Tám Hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "phụ huynh có con nhỏ, các cặp đôi",
+   "location_scope": "Quanh Hồ Tây, Hà Nội, đêm rằm tháng Tám",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-015",
+   "child_id": "C-HO-TAY",
+   "title": "Truyền thuyết Hồ Tây trên đường xe chạy: trâu vàng, đầm Xác Cáo và tên đường Lạc Long Quân",
+   "intent": "Hiểu các truyền thuyết về Hồ Tây như trâu vàng và cáo chín đuôi, và biết những cái tên trên lộ trình xe máy quanh hồ gắn với các tích đó để chuyến đi có thêm câu chuyện.",
+   "kw": "truyền thuyết Hồ Tây",
+   "kw2": [
+    "sự tích Hồ Tây trâu vàng",
+    "sự tích cáo chín đuôi Hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách du lịch, phụ huynh kể chuyện cho con",
+   "location_scope": "Quanh Hồ Tây, Tây Hồ, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-016",
+   "child_id": "C-HO-TAY",
+   "title": "Ăn ốc quanh Hồ Tây bằng xe máy: bún ốc, ốc luộc, giờ quán đông và chỗ để xe ven hồ",
+   "intent": "Biết cách đi ăn ốc ở khu Hồ Tây bằng xe máy: món ốc nào nên thử, giờ quán thường đông, dừng xe sao cho gọn trên vỉa hè hẹp ven hồ.",
+   "kw": "ăn ốc Hồ Tây",
+   "kw2": [
+    "bún ốc Hồ Tây",
+    "quán ốc quanh hồ Tây"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người thích ăn vặt, khách du lịch muốn thử món Hà Nội",
+   "location_scope": "Quanh Hồ Tây, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-017",
+   "child_id": "C-HO-TAY",
+   "title": "Đường Thụy Khuê bằng xe máy: trường Chu Văn An, phố dài sát hồ và ngõ xuống mặt nước",
+   "intent": "Biết đặc điểm đường Thụy Khuê khi chạy xe máy: những mốc như trường Chu Văn An, các ngõ dẫn xuống mặt hồ, đoạn hay ùn giờ tan học và chỗ dừng xe ngắm hồ.",
+   "kw": "đường Thụy Khuê xe máy",
+   "kw2": [
+    "trường Chu Văn An Thụy Khuê",
+    "ngõ xuống hồ Tây Thụy Khuê"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách khám phá phố ven hồ, phụ huynh đưa đón con",
+   "location_scope": "Đường Thụy Khuê, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-018",
+   "child_id": "C-HO-TAY",
+   "title": "Lotte Mall Tây Hồ bằng xe máy: đường vào từ Võ Chí Công, xuống hầm gửi xe và giờ đông",
+   "intent": "Biết cách đi xe máy đến Lotte Mall Tây Hồ: hướng vào từ đường Võ Chí Công, lối xuống hầm gửi xe máy, giờ cuối tuần đông và cách nhớ vị trí xe khi ra về.",
+   "kw": "Lotte Mall Tây Hồ xe máy",
+   "kw2": [
+    "gửi xe Lotte Mall Tây Hồ",
+    "đường vào Lotte Mall Tây Hồ"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "gia đình đi mua sắm cuối tuần, khách du lịch",
+   "location_scope": "Lotte Mall Tây Hồ, đường Võ Chí Công, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-019",
+   "child_id": "C-HO-TAY",
+   "title": "Đường Võ Chí Công bằng xe máy: trục lớn phía tây Hồ Tây và chỗ rẽ vào Lạc Long Quân, Xuân La",
+   "intent": "Hiểu đường Võ Chí Công nối cầu Nhật Tân với Cầu Giấy ra sao, biết chọn làn xe máy, chỗ quay đầu và các điểm rẽ vào Lạc Long Quân, Xuân La để xuống ven hồ.",
+   "kw": "đường Võ Chí Công xe máy",
+   "kw2": [
+    "Võ Chí Công rẽ Lạc Long Quân",
+    "đi Võ Chí Công về Cầu Giấy"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người mới đi xe ở Hà Nội, khách ở khu phía tây Hồ Tây",
+   "location_scope": "Đường Võ Chí Công, Tây Hồ – Cầu Giấy, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-020",
+   "child_id": "C-HO-TAY",
+   "title": "Phố Tô Ngọc Vân và ngõ Quảng An: quán cà phê, cửa hàng khách nước ngoài và cách ghé bằng xe máy",
+   "intent": "Biết cách đi xe máy vào phố Tô Ngọc Vân và các ngõ Quảng An nơi nhiều quán của khách nước ngoài: ngõ hẹp hai chiều, chỗ dừng trước quán, quay đầu và tránh người đi bộ.",
+   "kw": "phố Tô Ngọc Vân Tây Hồ",
+   "kw2": [
+    "ngõ Quảng An xe máy",
+    "cà phê Tô Ngọc Vân"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách nước ngoài sống ở Tây Hồ, người trẻ thích cà phê",
+   "location_scope": "Phố Tô Ngọc Vân và phường Quảng An, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-021",
+   "child_id": "C-HO-TAY",
+   "title": "Đường Nhật Chiêu ven bờ bắc Hồ Tây: đoạn ven hồ ít người biết và lối nối sang Phú Thượng",
+   "intent": "Biết đường Nhật Chiêu chạy ven bờ bắc Hồ Tây ra sao, đoạn nào nhìn được mặt hồ, chỗ dừng xe và cách nối sang Phú Thượng hay ra đường Võ Chí Công.",
+   "kw": "đường Nhật Chiêu Hồ Tây",
+   "kw2": [
+    "Nhật Chiêu ven hồ",
+    "bờ bắc Hồ Tây xe máy"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người thích tuyến ven hồ ít đông, cư dân Nhật Tân",
+   "location_scope": "Đường Nhật Chiêu, phường Nhật Tân, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-022",
+   "child_id": "C-HO-TAY",
+   "title": "Ngày có giải chạy quanh Hồ Tây: đường ven hồ bị rào chắn và cách đi xe máy vòng tránh",
+   "intent": "Biết nhận biết ngày có giải chạy hoặc sự kiện thể thao quanh Hồ Tây, đoạn đường ven hồ thường bị rào sáng sớm và cách chọn đường vòng bằng xe máy khi cần đi qua khu vực.",
+   "kw": "giải chạy Hồ Tây cấm đường",
+   "kw2": [
+    "đường vòng khi chặn Hồ Tây",
+    "marathon Hồ Tây phân luồng"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "cư dân Tây Hồ, khách cần đi qua khu hồ buổi sáng cuối tuần",
+   "location_scope": "Các tuyến ven Hồ Tây, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-023",
+   "child_id": "C-HO-TAY",
+   "title": "Trà sen ướp kiểu Quảng An: mùa ướp trà, đi xe máy vào làng và cách mang trà về giữ hương",
+   "intent": "Hiểu nghề ướp trà sen Hồ Tây ở làng Quảng An, biết mùa nào có thể tìm mua, đi xe máy vào ngõ làng thế nào và mang trà về sao cho không mất hương.",
+   "kw": "trà sen Quảng An",
+   "kw2": [
+    "ướp trà sen Hồ Tây",
+    "mua trà sen Tây Hồ"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người thích trà, khách tìm quà Hà Nội",
+   "location_scope": "Làng Quảng An, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-024",
+   "child_id": "C-HO-TAY",
+   "title": "Phố Từ Hoa và làng Nghi Tàm: tích công chúa trồng dâu nuôi tằm và đoạn đường ven hồ yên tĩnh",
+   "intent": "Hiểu tên phố Từ Hoa gắn với tích công chúa trồng dâu nuôi tằm ở làng Nghi Tàm và biết cách đi xe máy dọc phố ven hồ này, chỗ dừng xe và đoạn nên đi chậm.",
+   "kw": "phố Từ Hoa Nghi Tàm",
+   "kw2": [
+    "sự tích công chúa Từ Hoa",
+    "làng Nghi Tàm trồng dâu"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "khách thích lịch sử địa danh, người dạo hồ buổi chiều",
+   "location_scope": "Phố Từ Hoa, làng Nghi Tàm, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2U-025",
+   "child_id": "C-HO-TAY",
+   "title": "Khu Tây Hồ Tây bằng xe máy: đường mới mở rộng, chỗ dừng chân và lối nối về Lạc Long Quân",
+   "intent": "Biết cách đi xe máy quanh khu đô thị Tây Hồ Tây: các trục đường mới rộng, đoạn còn công trình, chỗ dừng chân buổi chiều và đường nối về Lạc Long Quân, Võ Chí Công.",
+   "kw": "khu Tây Hồ Tây xe máy",
+   "kw2": [
+    "đường khu đô thị Tây Hồ Tây",
+    "Tây Hồ Tây buổi chiều"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2U",
+   "audience": "người ở hoặc làm việc phía tây Hồ Tây, khách khám phá khu mới",
+   "location_scope": "Khu đô thị Tây Hồ Tây, Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
