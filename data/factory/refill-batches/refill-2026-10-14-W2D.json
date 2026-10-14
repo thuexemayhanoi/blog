@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2D: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-001",
+   "child_id": "C-XE-SO",
+   "title": "Cần số hai đầu trên xe số: khi nào dùng gót để lên số, khi nào chỉ cần mũi giày",
+   "intent": "Biết cách dùng cần số hai đầu (gót và mũi) trên xe số thuê để lên số không trầy giày, không đạp hụt và không vô tình về nhầm số khi đi phố Hà Nội.",
+   "kw": "cần số hai đầu xe số",
+   "kw2": [
+    "lên số bằng gót chân",
+    "cần số gót mũi xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người mới đi xe số, người hay đi giày da hoặc dép",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-002",
+   "child_id": "C-XE-SO",
+   "title": "Số tròn trên xe số: từ số cao về số mo hoạt động thế nào và vì sao chỉ xảy ra khi xe dừng",
+   "intent": "Hiểu cơ chế số tròn trên nhiều mẫu xe số phổ thông để không hốt hoảng khi đạp thêm một nấc từ số cao mà xe về số mo, và biết cách tránh nhầm khi đang chạy.",
+   "kw": "số tròn xe số",
+   "kw2": [
+    "xe số về số mo từ số 4",
+    "xe số có số tròn không"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số chưa quen hộp số",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-003",
+   "child_id": "C-XE-SO",
+   "title": "Phanh chân sau và phanh tay trước trên xe số: phối hợp thế nào khi phải dừng gấp trong phố",
+   "intent": "Biết cách phân lực giữa bàn đạp phanh sau bằng chân phải và tay phanh trước trên xe số để dừng xe thẳng, không khóa bánh sau khi phải dừng gấp ở các tuyến phố đông Hà Nội.",
+   "kw": "phanh chân xe số",
+   "kw2": [
+    "cách phanh xe số an toàn",
+    "phối hợp phanh trước phanh sau xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người quen xe ga có phanh tay hai bên",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-004",
+   "child_id": "C-XE-SO",
+   "title": "Xe số qua đường sắt cắt ngang trong nội đô Hà Nội: chọn số trước khi qua và giữ đà cho đều",
+   "intent": "Biết cách chuẩn bị số và ga trước các điểm đường sắt cắt ngang như Khâm Thiên, Trần Hưng Đạo, Hàng Bột để xe số không chết máy hay giật cục giữa đường ray.",
+   "kw": "xe số qua đường ray",
+   "kw2": [
+    "chọn số khi qua đường tàu",
+    "xe số chết máy trên đường ray"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số đi lại trong nội đô",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-005",
+   "child_id": "C-XE-SO",
+   "title": "Xe số đi qua đoạn ngập sau mưa lớn: giữ số thấp và ga đều để nước không tràn vào ống xả",
+   "intent": "Biết cách cầm xe số qua đoạn ngập nông sau mưa ở Hà Nội: chọn số thấp, giữ ga đều không nhả, nhận biết lúc nước quá sâu cần dừng và báo cửa hàng nếu xe chết máy.",
+   "kw": "xe số đi đường ngập",
+   "kw2": [
+    "xe số lội nước giữ số mấy",
+    "xe số qua chỗ ngập"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số vào mùa mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-006",
+   "child_id": "C-XE-SO",
+   "title": "Đạp nổ xe số khi đề điện yếu: tư thế đứng, lực đạp và lúc nên ngừng thử để báo cửa hàng",
+   "intent": "Biết cách dùng cần khởi động (cần đạp) trên xe số khi đề điện không quay đủ mạnh, đạp đúng tư thế để không đau cổ chân và biết khi nào nên dừng thử để gọi cửa hàng.",
+   "kw": "đạp nổ xe số",
+   "kw2": [
+    "cách đạp nổ xe máy",
+    "xe số đề không nổ phải đạp"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số chưa từng đạp nổ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-007",
+   "child_id": "C-XE-SO",
+   "title": "Xe số đi tắc đường giờ cao điểm Nguyễn Trãi, Cầu Giấy: bò số 1 mà không nóng máy, mỏi chân",
+   "intent": "Biết cách xử lý xe số khi phải nhích từng mét trong giờ cao điểm trên các trục như Nguyễn Trãi, Cầu Giấy, Xuân Thủy: giữ số 1 hay về số mo, nhịp ga và cách đỡ mỏi chân.",
+   "kw": "xe số đi tắc đường",
+   "kw2": [
+    "xe số giờ cao điểm",
+    "đi xe số khi tắc đường hà nội"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người đi làm hằng ngày bằng xe số thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-008",
+   "child_id": "C-XE-SO",
+   "title": "Côn tự động trên xe số: vì sao không có tay côn mà xe vẫn ăn số khi vào số và nhả ga",
+   "intent": "Hiểu ly hợp tự động trên xe số phổ thông vận hành thế nào để biết vì sao phải nhả ga khi đổi số, điều gì làm xe bị giật và khác gì so với xe côn tay.",
+   "kw": "côn tự động xe số",
+   "kw2": [
+    "xe số có côn không",
+    "ly hợp tự động xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số muốn hiểu cách xe vận hành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-009",
+   "child_id": "C-XE-SO",
+   "title": "Xe số xuống hầm gửi xe chung cư, trung tâm thương mại: số, phanh và cách lên dốc ra",
+   "intent": "Biết cách đưa xe số xuống và lên dốc hầm gửi xe ở chung cư, trung tâm thương mại tại Hà Nội: dùng số thấp, phanh chân đều, dừng ở chốt soát vé trên dốc mà không trôi xe.",
+   "kw": "xe số xuống hầm gửi xe",
+   "kw2": [
+    "xe số lên dốc hầm",
+    "đi xe số vào hầm chung cư"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số ở chung cư hoặc hay đi trung tâm thương mại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-010",
+   "child_id": "C-XE-SO",
+   "title": "Xe số chạy Đại lộ Thăng Long đi Hòa Lạc: giữ số cao và nhịp ga đều trên đoạn đường thẳng dài",
+   "intent": "Lên kế hoạch chạy xe số trên làn xe máy của Đại lộ Thăng Long về phía Hòa Lạc: giữ số cao ổn định, nghỉ đúng lúc, xử lý gió ngang và tránh mỏi tay ga trên quãng dài thẳng.",
+   "kw": "xe số đi đại lộ thăng long",
+   "kw2": [
+    "xe số đi hòa lạc",
+    "chạy xe số đường thẳng dài"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số đi Hòa Lạc hoặc phía tây Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-011",
+   "child_id": "C-XE-SO",
+   "title": "Nổ máy xe số thuê lần đầu: thứ tự bật khóa, kiểm tra đèn số mo, đề máy và chờ máy ổn định",
+   "intent": "Biết đúng thứ tự thao tác để nổ máy một chiếc xe số thuê lần đầu: bật khóa, nhìn đèn báo số mo, bóp phanh, đề và để máy chạy ổn định trước khi vào số.",
+   "kw": "cách nổ máy xe số",
+   "kw2": [
+    "cách đề xe số",
+    "nổ máy xe số lần đầu"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số lần đầu ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-012",
+   "child_id": "C-XE-SO",
+   "title": "Cốp nhỏ dưới yên xe số: xếp giấy tờ, áo mưa và đồ cá nhân thế nào cho gọn và không ướt",
+   "intent": "Biết cách tận dụng cốp nhỏ, móc treo và giỏ trước trên xe số để mang theo giấy tờ, áo mưa, sạc điện thoại khi đi trong ngày mà không chật, không ướt và không vướng chân.",
+   "kw": "cốp xe số để đồ",
+   "kw2": [
+    "xe số để đồ ở đâu",
+    "móc treo đồ xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số đi chơi hoặc đi làm trong ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-013",
+   "child_id": "C-XE-SO",
+   "title": "Mở yên xe số để đổ xăng: vị trí nắp bình, khóa yên bằng chìa và đóng lại cho chắc trước khi đi",
+   "intent": "Biết vị trí bình xăng dưới yên trên xe số phổ thông, cách mở yên bằng chìa, vặn nắp bình, báo nhân viên cây xăng và kiểm tra đã đóng chặt nắp, khóa yên trước khi chạy tiếp.",
+   "kw": "mở yên xe số đổ xăng",
+   "kw2": [
+    "nắp xăng xe số ở đâu",
+    "đổ xăng xe số thuê"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số chưa quen cách đổ xăng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-014",
+   "child_id": "C-XE-SO",
+   "title": "Đèn kiểm tra động cơ sáng trên xe số thuê: lúc nào là bình thường, lúc nào phải dừng báo cửa hàng",
+   "intent": "Hiểu ý nghĩa đèn báo kiểm tra động cơ trên xe số phun xăng: sáng thoáng khi bật khóa là bình thường, sáng liên tục hoặc nháy khi đang chạy thì nên dừng chỗ an toàn và báo cửa hàng.",
+   "kw": "đèn báo lỗi xe số",
+   "kw2": [
+    "đèn check engine xe số",
+    "xe số sáng đèn động cơ"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số phun xăng điện tử",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-015",
+   "child_id": "C-XE-SO",
+   "title": "Semi-automatic là gì: khách nước ngoài làm quen xe số trong buổi đầu tiên ở Hà Nội",
+   "intent": "Hiểu xe số (semi-automatic) khác xe ga và xe côn tay thế nào, và lên kế hoạch tập buổi đầu ở nơi vắng trước khi hòa vào giao thông phố cổ Hà Nội.",
+   "kw": "xe số semi automatic",
+   "kw2": [
+    "semi automatic motorbike hanoi",
+    "xe số cho khách nước ngoài"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "khách nước ngoài lần đầu thuê xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-016",
+   "child_id": "C-XE-SO",
+   "title": "Tư thế ngồi lái xe số: đặt bàn chân trên gác chân, mũi giày sát cần số và khoảng cách tới tay lái",
+   "intent": "Biết cách ngồi đúng trên xe số để đổi số nhanh, phanh chân kịp và không mỏi lưng: vị trí bàn chân trên gác chân, mũi giày so với cần số, khoảng cách tay tới ghi đông.",
+   "kw": "tư thế lái xe số",
+   "kw2": [
+    "cách ngồi lái xe số",
+    "đặt chân khi đi xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người mới đi xe số",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-017",
+   "child_id": "C-XE-SO",
+   "title": "Xe số tự tắt máy khi đang chạy: nguyên nhân thường gặp và cách tấp vào lề an toàn",
+   "intent": "Biết cách phản ứng khi xe số đang chạy bỗng tắt máy: về số mo, bật xi nhan, tấp vào lề, thử nổ lại đúng cách và nhận biết các nguyên nhân thường gặp để báo cửa hàng.",
+   "kw": "xe số tắt máy khi đang chạy",
+   "kw2": [
+    "xe số đang đi tự tắt",
+    "xe số chết máy giữa đường"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số trong nội đô và ngoại thành",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-018",
+   "child_id": "C-XE-SO",
+   "title": "Tiếng lạch cạch ở cần số và hộp số xe số: phân biệt với tiếng xích để báo cửa hàng cho đúng",
+   "intent": "Biết cách nghe và phân biệt tiếng kêu khi sang số, tiếng lạch cạch từ cần số, hộp số với tiếng xích chùng để mô tả đúng cho cửa hàng mà không tự tháo sửa.",
+   "kw": "xe số kêu lạch cạch",
+   "kw2": [
+    "xe số kêu khi sang số",
+    "hộp số xe số kêu"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số dài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-019",
+   "child_id": "C-XE-SO",
+   "title": "Phanh động cơ trên xe số: về số thấp để giảm tốc trong phố thay vì chỉ bóp phanh",
+   "intent": "Hiểu phanh động cơ trên xe số là gì và cách về số từng nấc để giảm tốc mượt khi tới ngã tư, vòng xuyến hay dòng xe chậm lại, giúp phanh đỡ nóng và xe vững hơn.",
+   "kw": "phanh động cơ xe số",
+   "kw2": [
+    "giảm tốc bằng số xe máy",
+    "về số để giảm tốc"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người đi xe số trong phố Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-020",
+   "child_id": "C-XE-SO",
+   "title": "Sang số thấy nặng hoặc kẹt nấc trên xe số thuê: kiểm tra thao tác trước, báo cửa hàng sau",
+   "intent": "Biết cách tự kiểm tra thao tác của mình khi cần số xe số thuê bị nặng hoặc khó vào nấc (chưa nhả ga hết, đạp nửa chừng) và nhận ra lúc nên dừng để báo cửa hàng.",
+   "kw": "xe số sang số nặng",
+   "kw2": [
+    "cần số xe số bị cứng",
+    "xe số khó vào số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số dài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-021",
+   "child_id": "C-XE-SO",
+   "title": "Xe số đỗ ngoài trời mưa qua đêm: lau yên, kiểm tra phanh và đề nổ thế nào trước khi đi sáng hôm sau",
+   "intent": "Biết những việc cần làm sáng hôm sau khi xe số thuê phải đỗ ngoài trời mưa cả đêm ở Hà Nội: lau yên, thử phanh ướt, đề nổ đúng cách và để ý dấu hiệu máy chưa ổn.",
+   "kw": "xe số để ngoài mưa qua đêm",
+   "kw2": [
+    "xe số dính mưa khó nổ",
+    "xe máy để ngoài mưa cả đêm"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người ở trọ, homestay không có chỗ để xe trong nhà",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-022",
+   "child_id": "C-XE-SO",
+   "title": "Vào cua bằng xe số: chọn số trước khi cua và không đổi số giữa cua trên đường Thanh Niên, ven hồ",
+   "intent": "Biết cách chuẩn bị số trước khi vào cua trên xe số, giữ ga đều trong cua và tránh đổi số giữa cua khi đi các cung đường vòng như đường Thanh Niên, ven Hồ Tây.",
+   "kw": "xe số vào cua",
+   "kw2": [
+    "cách vào cua xe số",
+    "xe số đổi số khi cua"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người đi xe số dạo phố, ven hồ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-023",
+   "child_id": "C-XE-SO",
+   "title": "Ống xả xe số kêu bụp bụp khi nhả ga: hiện tượng nổ pô có đáng lo với xe đang thuê không",
+   "intent": "Hiểu vì sao xe số đôi khi kêu bụp ở ống xả khi nhả ga hoặc xuống dốc, khi nào là hiện tượng thường gặp và khi nào cần dừng kiểm tra, báo cửa hàng.",
+   "kw": "xe số nổ pô khi nhả ga",
+   "kw2": [
+    "xe máy nổ bụp ống xả",
+    "nổ pô xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số nghe tiếng lạ ở ống xả",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-024",
+   "child_id": "C-XE-SO",
+   "title": "Công tắc trên tay lái xe số: xi nhan, còi, đèn pha cos và thao tác khi vừa đổi số vừa ra tín hiệu",
+   "intent": "Biết vị trí các công tắc xi nhan, còi, đèn pha cos trên tay lái xe số phổ thông và cách phối hợp ra tín hiệu khi đang đổi số, chuyển làn trong phố Hà Nội.",
+   "kw": "công tắc tay lái xe số",
+   "kw2": [
+    "xi nhan xe số ở đâu",
+    "nút còi đèn xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người mới thuê xe số, khách nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2D-025",
+   "child_id": "C-XE-SO",
+   "title": "Khóa cổ và nắp che ổ khóa trên xe số thuê: khóa đúng cách khi đỗ ở phố cổ và ven Hồ Tây",
+   "intent": "Biết cách bẻ lái khóa cổ, đóng nắp che ổ khóa từ trên xe số thuê và chọn chỗ đỗ, gửi xe hợp lý khi dừng ở phố cổ, ven Hồ Tây để giảm rủi ro mất xe.",
+   "kw": "khóa cổ xe số",
+   "kw2": [
+    "cách khóa cổ xe máy số",
+    "khóa từ xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2D",
+   "audience": "người thuê xe số đi chơi trong nội đô",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

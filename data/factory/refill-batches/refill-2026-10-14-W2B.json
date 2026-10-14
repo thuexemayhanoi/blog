@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2B: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-001",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần đi Hà Giang từ Hà Nội bằng xe máy thuê: chia chặng, nghỉ đêm và hẹn ngày trả xe",
+   "intent": "Lên kế hoạch vòng Hà Giang trong một tuần thuê xe xuất phát từ Hà Nội, chia chặng hợp sức và tính giờ về kịp trả xe.",
+   "kw": "thuê xe máy đi hà giang một tuần",
+   "kw2": [
+    "vòng hà giang xe máy thuê",
+    "thuê xe tuần đi hà giang"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người muốn tự lái vòng Hà Giang từ Hà Nội",
+   "location_scope": "Hà Nội – Hà Giang",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-002",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần vòng Mai Châu – Mộc Châu – Sơn La bằng xe máy thuê từ Hà Nội: lịch đi và lưu ý đèo dốc",
+   "intent": "Lên lịch bảy ngày đi Mai Châu, Mộc Châu, Sơn La bằng xe máy thuê tuần, biết đoạn đèo cần chú ý và cách chia ngày nghỉ.",
+   "kw": "thuê xe máy một tuần đi tây bắc",
+   "kw2": [
+    "xe máy thuê đi mộc châu",
+    "phượt tây bắc xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người đi phượt Tây Bắc ngắn ngày",
+   "location_scope": "Hà Nội – Hòa Bình – Sơn La",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-003",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thuê xe máy theo tuần dịp Tết ở Hà Nội: đặt sớm, lịch nhận trả và phố xá ngày vắng",
+   "intent": "Biết cách giữ xe thuê tuần cho dịp Tết, hỏi tiệm lịch nhận trả xe những ngày nghỉ và đi lại khi phố Hà Nội vắng.",
+   "kw": "thuê xe máy tuần dịp tết",
+   "kw2": [
+    "thuê xe máy tết hà nội",
+    "đặt xe thuê tuần tết"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người ở lại Hà Nội hoặc về Hà Nội ăn Tết",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-004",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thuê xe máy theo tuần dịp nghỉ lễ 30/4 – 1/5: giữ xe sớm, tránh giờ cao điểm ra khỏi Hà Nội",
+   "intent": "Chuẩn bị thuê xe tuần cho kỳ nghỉ 30/4 – 1/5, chọn giờ rời và về Hà Nội tránh dòng xe đông ở các cửa ngõ.",
+   "kw": "thuê xe máy dịp lễ 30/4",
+   "kw2": [
+    "thuê xe tuần nghỉ lễ",
+    "xe máy thuê dịp 30/4 1/5"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người tận dụng kỳ nghỉ lễ dài",
+   "location_scope": "Hà Nội và cửa ngõ ra tỉnh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-005",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần đưa con đi thi ở Hà Nội: thuê xe máy đi giữa chỗ trọ và điểm thi, xem trước đường đi",
+   "intent": "Biết cách dùng xe thuê tuần đưa đón thí sinh, đi thử đường đến điểm thi trước ngày thi và tránh trễ giờ do tắc đường.",
+   "kw": "thuê xe máy đưa con đi thi hà nội",
+   "kw2": [
+    "xe máy thuê mùa thi",
+    "đưa đón thí sinh hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "phụ huynh từ tỉnh đưa con lên Hà Nội thi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-006",
+   "child_id": "C-THUE-TUAN",
+   "title": "Gia hạn thuê xe máy theo tuần: báo tiệm lúc nào, có cần mang xe về kiểm tra lại không",
+   "intent": "Hiểu cách xin gia hạn khi đang thuê tuần mà cần dùng xe thêm, nên báo tiệm từ khi nào và chuẩn bị gì cho kỳ tiếp theo.",
+   "kw": "gia hạn thuê xe máy theo tuần",
+   "kw2": [
+    "thuê thêm tuần xe máy",
+    "kéo dài thời gian thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người đang thuê tuần cần dùng xe lâu hơn dự tính",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-007",
+   "child_id": "C-THUE-TUAN",
+   "title": "Trả xe thuê tuần sớm hơn dự kiến: cần báo trước những gì và trao đổi lại với tiệm thế nào",
+   "intent": "Biết những điều cần nói với tiệm khi kế hoạch thay đổi và muốn trả xe thuê tuần sớm vài ngày, tránh hiểu lầm khi quyết toán.",
+   "kw": "trả xe thuê tuần sớm",
+   "kw2": [
+    "trả xe máy thuê trước hạn",
+    "đổi kế hoạch khi thuê tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người thuê tuần bị đổi lịch đột xuất",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-008",
+   "child_id": "C-THUE-TUAN",
+   "title": "Giấy tờ khi thuê xe máy theo tuần ở Hà Nội: căn cước, bằng lái và những thứ nên mang theo",
+   "intent": "Chuẩn bị đúng giấy tờ trước khi đến nhận xe thuê tuần, biết loại bằng lái cần có cho từng dòng xe và giấy tờ nào nên giữ bên người.",
+   "kw": "giấy tờ thuê xe máy theo tuần",
+   "kw2": [
+    "thủ tục thuê xe máy tuần",
+    "cần gì để thuê xe tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người Việt lần đầu thuê xe dài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-009",
+   "child_id": "C-THUE-TUAN",
+   "title": "Đặt cọc khi thuê xe máy theo tuần: hỏi tiệm những gì trước khi giao giấy tờ hoặc tiền cọc",
+   "intent": "Hiểu các câu hỏi cần làm rõ về đặt cọc trước khi nhận xe thuê tuần, cách giữ biên nhận và lấy lại cọc khi trả xe.",
+   "kw": "đặt cọc thuê xe máy theo tuần",
+   "kw2": [
+    "cọc thuê xe tuần",
+    "hỏi gì trước khi đặt cọc xe"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người thuê xe tuần muốn rõ ràng về cọc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-010",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ở phố cổ một tuần với xe máy thuê: chỗ gửi xe, giờ phố đi bộ và đường ra cầu Long Biên",
+   "intent": "Biết cách sống cả tuần ở khu phố cổ với xe máy thuê: gửi xe qua đêm ở đâu, tránh khung giờ phố đi bộ và lối ra các cầu.",
+   "kw": "thuê xe máy tuần ở phố cổ",
+   "kw2": [
+    "gửi xe máy ở phố cổ",
+    "đi xe máy quanh hồ gươm"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "khách lưu trú ở quận Hoàn Kiếm",
+   "location_scope": "Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-011",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ở Cầu Giấy, Mỹ Đình một tuần: thuê xe máy đi lại giữa Phạm Hùng, Trần Duy Hưng và trung tâm",
+   "intent": "Chọn tuyến đi hằng ngày cho tuần thuê xe khi ở khu Cầu Giấy – Mỹ Đình, biết đoạn hay tắc và giờ nên tránh vào trung tâm.",
+   "kw": "thuê xe máy tuần ở mỹ đình",
+   "kw2": [
+    "thuê xe máy cầu giấy",
+    "đi xe máy mỹ đình vào trung tâm"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người ở khu phía tây Hà Nội một tuần",
+   "location_scope": "Cầu Giấy, Nam Từ Liêm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-012",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ở Long Biên, Gia Lâm một tuần: xe máy thuê qua cầu Chương Dương, Vĩnh Tuy vào nội thành",
+   "intent": "Biết cách đi lại cả tuần từ Long Biên, Gia Lâm sang nội thành bằng xe máy thuê, chọn cầu nào theo giờ và hướng đi.",
+   "kw": "thuê xe máy tuần ở long biên",
+   "kw2": [
+    "đi xe máy qua cầu chương dương",
+    "xe máy thuê gia lâm"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người ở bờ đông sông Hồng",
+   "location_scope": "Long Biên, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-013",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thuê xe máy một tuần vào mùa mưa Hà Nội: áo mưa, đoạn đường hay ngập và cất xe qua đêm",
+   "intent": "Chuẩn bị cho tuần thuê xe giữa mùa mưa: mang áo mưa phù hợp, tránh các tuyến hay ngập và xử lý khi xe bị ướt qua đêm.",
+   "kw": "thuê xe máy tuần mùa mưa",
+   "kw2": [
+    "đi xe máy mùa mưa hà nội",
+    "xe thuê đi qua đường ngập"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người thuê xe dài ngày vào mùa mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-014",
+   "child_id": "C-THUE-TUAN",
+   "title": "Thuê xe máy một tuần giữa mùa đông Hà Nội: sương sớm, gió lạnh trên cầu và đồ giữ ấm",
+   "intent": "Biết cách đi xe máy thuê cả tuần trong những ngày lạnh: chuẩn bị đồ giữ ấm, lái an toàn khi sương mù và khởi động xe buổi sáng.",
+   "kw": "thuê xe máy tuần mùa đông hà nội",
+   "kw2": [
+    "đi xe máy trời lạnh",
+    "đồ giữ ấm khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người đến Hà Nội vào mùa đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-015",
+   "child_id": "C-THUE-TUAN",
+   "title": "Khách nước ngoài thuê xe máy theo tuần ở Hà Nội: hỏi trước về giấy tờ, liên lạc và hỗ trợ",
+   "intent": "Hiểu những điều người nước ngoài nên hỏi tiệm trước khi thuê xe tuần ở Hà Nội: giấy tờ, cách liên lạc khi cần và quy tắc giao thông cơ bản.",
+   "kw": "người nước ngoài thuê xe máy theo tuần",
+   "kw2": [
+    "foreigner rent motorbike weekly hanoi",
+    "khách tây thuê xe tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người nước ngoài ở Hà Nội một đến vài tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-016",
+   "child_id": "C-THUE-TUAN",
+   "title": "Lâu không đi xe máy mà thuê nguyên tuần: hai ngày đầu tập lại ở cung đường vắng nào",
+   "intent": "Lấy lại cảm giác lái an toàn trong những ngày đầu thuê tuần khi đã lâu không đi xe, chọn giờ và cung đường vắng để tập.",
+   "kw": "lâu không đi xe máy thuê tuần",
+   "kw2": [
+    "tập lại đi xe máy ở hà nội",
+    "đường vắng tập xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người lâu năm không lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-017",
+   "child_id": "C-THUE-TUAN",
+   "title": "Xe thuê tuần bị thủng lốp hoặc chết máy giữa đường: gọi tiệm trước hay tự tìm chỗ sửa",
+   "intent": "Biết cách xử lý khi xe thuê tuần gặp sự cố giữa đường, khi nào cần gọi tiệm trước và cần ghi lại gì nếu phải sửa ngoài.",
+   "kw": "xe thuê tuần bị hỏng giữa đường",
+   "kw2": [
+    "xe máy thuê thủng lốp",
+    "xe thuê chết máy phải làm sao"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người đang thuê xe tuần gặp sự cố",
+   "location_scope": "Hà Nội và vùng lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-018",
+   "child_id": "C-THUE-TUAN",
+   "title": "Muốn đổi sang dòng xe khác giữa tuần thuê: khi nào nên đổi và cần trao đổi gì với tiệm",
+   "intent": "Quyết định có nên đổi xe giữa kỳ thuê tuần khi xe không hợp nhu cầu, và biết cách trao đổi với tiệm để đổi gọn.",
+   "kw": "đổi xe giữa tuần thuê",
+   "kw2": [
+    "đổi xe máy thuê khác",
+    "xe thuê không hợp muốn đổi"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người thấy xe đang thuê không hợp lịch trình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-019",
+   "child_id": "C-THUE-TUAN",
+   "title": "Gửi xe thuê tuần qua đêm ở chung cư, nhà trọ, khách sạn: chọn chỗ và giữ vé xe thế nào",
+   "intent": "Chọn nơi gửi xe qua đêm an toàn trong suốt tuần thuê, biết cách giữ vé, khóa xe và kiểm tra xe khi lấy ra buổi sáng.",
+   "kw": "gửi xe thuê qua đêm ở hà nội",
+   "kw2": [
+    "chỗ gửi xe máy qua đêm",
+    "giữ xe thuê an toàn"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người thuê xe ở chung cư, nhà trọ hoặc khách sạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-020",
+   "child_id": "C-THUE-TUAN",
+   "title": "Chụp ảnh và quay video xe khi nhận thuê tuần: những góc cần ghi lại để trả xe nhẹ nhàng",
+   "intent": "Biết cách ghi lại tình trạng xe lúc nhận thuê tuần bằng ảnh và video để đối chiếu khi trả, tránh tranh cãi về vết xước có sẵn.",
+   "kw": "chụp ảnh xe khi nhận thuê",
+   "kw2": [
+    "ghi lại tình trạng xe thuê",
+    "quay video xe máy khi nhận"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người thuê xe muốn bàn giao rõ ràng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-021",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần thuê xe có một ngày lên Tam Đảo hoặc Ba Vì: kiểm tra phanh, xăng và giờ xuống núi",
+   "intent": "Chuẩn bị xe thuê tuần cho một ngày đi đường núi Tam Đảo hoặc Ba Vì, kiểm tra phanh, đổ xăng trước và về trước khi trời tối.",
+   "kw": "thuê xe tuần đi tam đảo ba vì",
+   "kw2": [
+    "xe máy lên tam đảo",
+    "đi ba vì bằng xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người muốn xen một ngày đi núi gần Hà Nội",
+   "location_scope": "Hà Nội – Vĩnh Phúc – Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-022",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần lo đám cưới người thân ở Hà Nội: thuê xe máy chạy việc, đón khách và mua đồ cưới",
+   "intent": "Lên kế hoạch dùng xe thuê tuần cho những ngày chuẩn bị đám cưới: chạy việc, đón họ hàng từ bến xe và chở đồ an toàn.",
+   "kw": "thuê xe máy tuần lo đám cưới",
+   "kw2": [
+    "thuê xe máy dịp cưới",
+    "xe máy chạy việc đám cưới"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "gia đình từ tỉnh lên Hà Nội lo cưới",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-023",
+   "child_id": "C-THUE-TUAN",
+   "title": "Hai người đi chung một xe máy thuê cả tuần: chọn dòng xe, hành lý và mũ bảo hiểm cho cả hai",
+   "intent": "Chọn dòng xe và cách sắp đồ khi hai người dùng chung một xe thuê tuần, đảm bảo đủ mũ bảo hiểm và ngồi thoải mái đường dài.",
+   "kw": "thuê một xe máy cho hai người",
+   "kw2": [
+    "hai người đi chung xe máy",
+    "cặp đôi thuê xe máy tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "cặp đôi hoặc hai người bạn đi cùng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-024",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ngày trả xe sau một tuần thuê: đổ xăng, lau xe và soát lại đồ để quên trong cốp",
+   "intent": "Biết những việc nên làm trước khi mang xe trả sau một tuần thuê: kiểm lại xăng, lau xe, lấy hết đồ trong cốp và đối chiếu tình trạng.",
+   "kw": "trả xe máy sau một tuần thuê",
+   "kw2": [
+    "chuẩn bị trả xe thuê",
+    "kiểm tra trước khi trả xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người sắp kết thúc kỳ thuê tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2B-025",
+   "child_id": "C-THUE-TUAN",
+   "title": "Đặt trước xe thuê tuần khi chưa tới Hà Nội: nhắn tiệm những thông tin gì để giữ đúng xe",
+   "intent": "Biết cách đặt xe thuê tuần từ xa, gửi cho tiệm đủ thông tin về ngày đến, dòng xe và giấy tờ để nhận xe đúng hẹn.",
+   "kw": "đặt trước xe máy thuê tuần",
+   "kw2": [
+    "đặt xe máy online hà nội",
+    "giữ xe thuê trước khi đến"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2B",
+   "audience": "người ở tỉnh hoặc nước ngoài sắp đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

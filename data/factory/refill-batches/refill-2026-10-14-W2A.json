@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2A: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-001",
+   "child_id": "C-THUE-THANG",
+   "title": "Đi làm qua cầu mỗi ngày bằng xe thuê tháng: Vĩnh Tuy, Chương Dương, Long Biên và gió ngang",
+   "intent": "Biết cách đi xe máy thuê qua các cầu sông Hồng mỗi ngày an toàn: chọn cầu cho xe máy, giữ làn, xử lý gió ngang và giờ đông.",
+   "kw": "đi xe máy qua cầu đi làm",
+   "kw2": [
+    "cầu cho xe máy Hà Nội",
+    "đi xe máy qua cầu Vĩnh Tuy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người ở Long Biên, Gia Lâm đi làm trung tâm",
+   "location_scope": "Long Biên, Gia Lâm, Hoàn Kiếm, Hai Bà Trưng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-002",
+   "child_id": "C-THUE-THANG",
+   "title": "Thực tập sinh vài tháng ở Hà Nội: có nên thuê xe máy theo tháng và chọn xe thế nào",
+   "intent": "Quyết định có nên thuê xe máy theo tháng trong kỳ thực tập ngắn ở Hà Nội và chọn loại xe hợp lịch đi thực tập.",
+   "kw": "thuê xe máy cho thực tập sinh",
+   "kw2": [
+    "thực tập ở Hà Nội đi lại bằng gì",
+    "thuê xe máy ngắn hạn khi thực tập"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "sinh viên thực tập, thực tập sinh từ tỉnh",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-003",
+   "child_id": "C-THUE-THANG",
+   "title": "Kỹ sư đi công trường bằng xe máy thuê tháng: đường đất, bụi, ổ gà và giữ xe bền",
+   "intent": "Biết cách dùng xe máy thuê tháng khi phải đi nhiều công trường: chọn xe, đi đường đất và bụi, vệ sinh và báo cửa hàng khi xe hao mòn.",
+   "kw": "thuê xe máy đi công trường",
+   "kw2": [
+    "đi xe máy đường đất công trường",
+    "xe máy đi công trình"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "kỹ sư, giám sát công trình",
+   "location_scope": "các công trường ven đô Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-004",
+   "child_id": "C-THUE-THANG",
+   "title": "Xe thuê theo tháng có được đi tỉnh cuối tuần không: về quê bằng xe thuê hay đi xe khách",
+   "intent": "Hiểu những điều cần hỏi cửa hàng trước khi chạy xe thuê tháng ra khỏi Hà Nội cuối tuần và so sánh với việc đi xe khách về quê.",
+   "kw": "xe thuê tháng có được đi tỉnh",
+   "kw2": [
+    "chạy xe thuê về quê cuối tuần",
+    "đi xe máy thuê ra tỉnh"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đi làm ở Hà Nội, cuối tuần về quê",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-005",
+   "child_id": "C-THUE-THANG",
+   "title": "Cho người khác mượn xe máy đang thuê theo tháng: được không và rủi ro khi xảy ra sự cố",
+   "intent": "Hiểu trách nhiệm của người thuê khi cho bạn bè, người thân mượn xe thuê tháng và cách trao đổi với cửa hàng trước khi cho mượn.",
+   "kw": "cho mượn xe máy đang thuê",
+   "kw2": [
+    "người khác đi xe thuê của mình",
+    "cho bạn mượn xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe tháng ở chung với bạn, người thân",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-006",
+   "child_id": "C-THUE-THANG",
+   "title": "Xe ga Smartkey thuê tháng: remote hết pin, quên khóa và cách mở máy khẩn cấp",
+   "intent": "Biết cách xử lý khi remote Smartkey của xe ga thuê tháng hết pin hoặc không nhận, và thói quen giữ remote để không bị kẹt xe giữa đường.",
+   "kw": "xe smartkey hết pin remote",
+   "kw2": [
+    "mở khóa smartkey khẩn cấp",
+    "remote xe ga không nhận"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe ga đời mới theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-007",
+   "child_id": "C-THUE-THANG",
+   "title": "Đi làm bằng xe máy mùa nắng nóng Hà Nội: chống nắng, xe nóng máy và chỗ để xe giữa trưa",
+   "intent": "Chuẩn bị đi làm bằng xe máy thuê trong những ngày nắng gắt mùa hè Hà Nội: bảo vệ cơ thể, giữ xe không quá nóng và chọn chỗ đỗ.",
+   "kw": "đi xe máy mùa nắng nóng",
+   "kw2": [
+    "chống nắng khi đi xe máy",
+    "xe ga nóng máy mùa hè"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đi làm bằng xe máy hằng ngày",
+   "location_scope": "Hà Nội mùa hè",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-008",
+   "child_id": "C-THUE-THANG",
+   "title": "Mùa đông Hà Nội đi làm sớm bằng xe máy: rét buốt, sương mù và xe khó nổ buổi sáng",
+   "intent": "Biết cách đi làm bằng xe máy thuê tháng trong những sáng rét và sương mù của Hà Nội: giữ ấm, tăng tầm nhìn và khởi động xe đúng cách.",
+   "kw": "đi xe máy mùa đông Hà Nội",
+   "kw2": [
+    "đi xe máy trời sương mù",
+    "giữ ấm khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đi làm sáng sớm bằng xe máy",
+   "location_scope": "Hà Nội mùa đông",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-009",
+   "child_id": "C-THUE-THANG",
+   "title": "Mùa nồm ẩm ở Hà Nội: giữ xe máy thuê khô ráo, chống mốc cốp xe và đường trơn",
+   "intent": "Biết cách chăm xe máy thuê và đi đường an toàn trong những tuần nồm ẩm cuối đông đầu xuân ở Hà Nội.",
+   "kw": "xe máy mùa nồm ẩm",
+   "kw2": [
+    "chống ẩm cốp xe máy",
+    "đường trơn mùa nồm"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe dài hạn ở nhà trọ, chung cư",
+   "location_scope": "Hà Nội mùa nồm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-010",
+   "child_id": "C-THUE-THANG",
+   "title": "Chọn mũ bảo hiểm cho người đi làm hằng ngày bằng xe thuê: mũ nửa đầu, ba phần tư và kính chắn",
+   "intent": "Chọn được mũ bảo hiểm đạt chuẩn, vừa đầu và hợp quãng đường đi làm hằng ngày khi dùng xe máy thuê theo tháng.",
+   "kw": "chọn mũ bảo hiểm đi làm",
+   "kw2": [
+    "mũ bảo hiểm đạt chuẩn",
+    "mũ bảo hiểm ba phần tư"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đi làm bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-011",
+   "child_id": "C-THUE-THANG",
+   "title": "Chở con đi học bằng xe máy thuê tháng: mũ trẻ em, cách ngồi và giờ đón ở cổng trường",
+   "intent": "Biết cách chở trẻ đi học an toàn bằng xe máy thuê tháng ở Hà Nội: chuẩn bị mũ, tư thế ngồi và xử lý giờ đông trước cổng trường.",
+   "kw": "chở con đi học bằng xe máy",
+   "kw2": [
+    "mũ bảo hiểm cho trẻ em",
+    "chở trẻ em trên xe máy an toàn"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "phụ huynh ở Hà Nội thuê xe tháng",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-012",
+   "child_id": "C-THUE-THANG",
+   "title": "Bán hàng online lấy hàng ở chợ Đồng Xuân, Ninh Hiệp: thuê xe tháng và chằng buộc hàng gọn",
+   "intent": "Lên kế hoạch dùng xe máy thuê tháng để đi lấy hàng ở các chợ đầu mối Hà Nội: chọn xe, chằng buộc hàng và gửi xe ở chợ.",
+   "kw": "thuê xe máy đi lấy hàng chợ",
+   "kw2": [
+    "lấy hàng chợ Ninh Hiệp",
+    "chằng buộc hàng trên xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người bán hàng online, chủ shop nhỏ",
+   "location_scope": "Hoàn Kiếm, Gia Lâm (Ninh Hiệp)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-013",
+   "child_id": "C-THUE-THANG",
+   "title": "Chuyển nhà trọ khi đang thuê xe theo tháng: báo địa chỉ mới và chở đồ bằng xe máy an toàn",
+   "intent": "Biết những việc cần làm khi đổi chỗ ở giữa kỳ thuê xe tháng: thông báo cho cửa hàng, giữ xe ở chỗ mới và tránh chở đồ quá tải.",
+   "kw": "chuyển trọ khi đang thuê xe máy",
+   "kw2": [
+    "báo cửa hàng đổi địa chỉ thuê xe",
+    "chở đồ chuyển trọ bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người ở trọ thuê xe tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-014",
+   "child_id": "C-THUE-THANG",
+   "title": "Đi làm Mỹ Đình, Linh Đàm, Thanh Xuân bằng xe máy: tránh lên nhầm đường trên cao Vành đai 3",
+   "intent": "Hiểu vì sao xe máy không được đi đường trên cao Vành đai 3 và chọn tuyến đường dưới hợp lý khi đi làm phía tây và nam Hà Nội.",
+   "kw": "xe máy đi vành đai 3",
+   "kw2": [
+    "đường trên cao cấm xe máy",
+    "đi làm Linh Đàm Mỹ Đình bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đi làm khu tây và nam Hà Nội",
+   "location_scope": "Nam Từ Liêm, Thanh Xuân, Hoàng Mai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-015",
+   "child_id": "C-THUE-THANG",
+   "title": "Xe ga thuê tháng nên đổ xăng gì: RON 95, E5 và cách đọc khuyến cáo nhiên liệu của xe",
+   "intent": "Biết chọn loại xăng phù hợp cho xe ga thuê tháng theo khuyến cáo của nhà sản xuất và thói quen đổ xăng hợp lý khi đi làm.",
+   "kw": "xe ga đổ xăng gì",
+   "kw2": [
+    "xăng E5 cho xe máy",
+    "đổ xăng RON 95 hay E5"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe ga đi làm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-016",
+   "child_id": "C-THUE-THANG",
+   "title": "Thanh toán tiền thuê xe máy hằng tháng: chuyển khoản, ghi nội dung và lưu biên nhận",
+   "intent": "Biết cách trả tiền thuê xe theo tháng rõ ràng: thống nhất ngày trả, ghi nội dung chuyển khoản và giữ chứng từ để đối chiếu.",
+   "kw": "thanh toán tiền thuê xe máy hàng tháng",
+   "kw2": [
+    "chuyển khoản tiền thuê xe",
+    "biên nhận thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe dài hạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-017",
+   "child_id": "C-THUE-THANG",
+   "title": "Xe thuê theo tháng bị phạt nguội: tra cứu theo biển số và phối hợp với cửa hàng",
+   "intent": "Hiểu cách tra cứu phạt nguội theo biển số trên kênh chính thức và quy trình phối hợp với cửa hàng khi xe thuê tháng có thông báo vi phạm.",
+   "kw": "xe thuê bị phạt nguội",
+   "kw2": [
+    "tra cứu phạt nguội xe máy",
+    "phạt nguội xe thuê ai chịu"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe dài hạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-018",
+   "child_id": "C-THUE-THANG",
+   "title": "Đi xe máy thuê theo tháng cần mang giấy tờ gì: bằng lái, đăng ký xe và bảo hiểm bắt buộc",
+   "intent": "Biết những giấy tờ cần mang theo khi lái xe máy thuê hằng ngày và cách giữ bản giấy tờ xe cửa hàng giao một cách cẩn thận.",
+   "kw": "đi xe thuê cần mang giấy tờ gì",
+   "kw2": [
+    "giấy tờ khi lái xe máy thuê",
+    "bảo hiểm bắt buộc xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-019",
+   "child_id": "C-THUE-THANG",
+   "title": "Xe thuê theo tháng bị va chạm nhẹ: chụp ảnh hiện trường, báo cửa hàng và không tự sửa ngoài",
+   "intent": "Biết các bước xử lý khi xe máy thuê tháng bị quệt hoặc va chạm nhẹ trên đường: ghi nhận, báo cửa hàng và tránh tự ý sửa chữa.",
+   "kw": "xe thuê va chạm nhẹ",
+   "kw2": [
+    "quệt xe máy thuê xử lý",
+    "xe thuê bị trầy xước"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe dài hạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-020",
+   "child_id": "C-THUE-THANG",
+   "title": "Rửa xe ga thuê tháng đúng cách: tránh xịt nước vào ổ khóa, hộp điện và lọc gió",
+   "intent": "Biết cách rửa và vệ sinh xe ga thuê dài hạn không làm hỏng các bộ phận điện, ổ khóa và lọc gió.",
+   "kw": "rửa xe ga đúng cách",
+   "kw2": [
+    "vệ sinh xe máy tại nhà",
+    "rửa xe máy có hại không"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người thuê xe ga theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-021",
+   "child_id": "C-THUE-THANG",
+   "title": "Người nhà lên Hà Nội chơi khi đang thuê xe tháng: thuê thêm xe ngắn ngày hay chở chung",
+   "intent": "Lên kế hoạch đi lại khi có người thân lên Hà Nội vài ngày trong lúc đang thuê xe tháng: thuê thêm xe ngắn ngày, chở chung hay kết hợp phương tiện khác.",
+   "kw": "thuê thêm xe khi người nhà lên chơi",
+   "kw2": [
+    "người thân lên Hà Nội đi lại bằng gì",
+    "thuê thêm xe máy vài ngày"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đang thuê xe tháng có khách gia đình",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-022",
+   "child_id": "C-THUE-THANG",
+   "title": "Phố đi bộ Hồ Gươm cuối tuần: người ở Hà Nội đi xe máy thuê nên gửi xe ở đâu và đi đường nào",
+   "intent": "Biết các tuyến phố bị cấm xe quanh hồ Hoàn Kiếm dịp cuối tuần và cách tìm chỗ gửi xe hợp lệ khi đi chơi bằng xe máy thuê.",
+   "kw": "gửi xe khi đi phố đi bộ Hồ Gươm",
+   "kw2": [
+    "phố đi bộ Hồ Gươm cấm xe máy",
+    "gửi xe máy quanh hồ Hoàn Kiếm"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người sống và làm việc ở Hà Nội",
+   "location_scope": "Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-023",
+   "child_id": "C-THUE-THANG",
+   "title": "Dùng Google Maps chỉ đường cho xe máy ở Hà Nội: chế độ xe hai bánh, đường một chiều và phố cấm",
+   "intent": "Biết cách dùng ứng dụng bản đồ để dẫn đường xe máy ở Hà Nội và nhận ra lúc chỉ dẫn sai so với biển báo thực tế.",
+   "kw": "google maps chỉ đường xe máy",
+   "kw2": [
+    "chế độ xe hai bánh google maps",
+    "đi xe máy theo bản đồ Hà Nội"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người mới đi lại ở Hà Nội",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-024",
+   "child_id": "C-THUE-THANG",
+   "title": "Lắp giá đỡ điện thoại và cổng sạc lên xe thuê tháng: loại kẹp không khoan và lưu ý an toàn",
+   "intent": "Chọn phụ kiện giữ điện thoại, sạc điện thoại có thể tháo ra khi trả xe, và hỏi cửa hàng trước khi lắp thêm đồ lên xe thuê.",
+   "kw": "lắp giá đỡ điện thoại xe máy",
+   "kw2": [
+    "giá kẹp điện thoại xe máy",
+    "lắp sạc điện thoại cho xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "người đi làm, shipper dùng xe thuê tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2A-025",
+   "child_id": "C-THUE-THANG",
+   "title": "Đi công tác dài ngày khi đang thuê xe tháng: để xe ở nhà, gửi bãi hay báo cửa hàng giữ hộ",
+   "intent": "Quyết định cách xử lý xe thuê tháng khi phải vắng Hà Nội nhiều ngày: nơi để xe an toàn, cách để xe lâu không chạy và trao đổi với cửa hàng.",
+   "kw": "đi công tác khi đang thuê xe tháng",
+   "kw2": [
+    "để xe máy lâu không đi",
+    "gửi xe máy dài ngày"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2A",
+   "audience": "nhân viên hay đi công tác",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2C: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-001",
+   "child_id": "C-XE-GA",
+   "title": "Khóa thông minh smartkey trên xe ga thuê: mở máy, khóa cổ và xử lý khi chìa báo yếu pin",
+   "intent": "Biết cách dùng khóa smartkey trên xe tay ga thuê: bật máy, khóa cổ, mở yên và làm gì khi xe không nhận chìa vì pin remote yếu.",
+   "kw": "khóa smartkey xe ga thuê",
+   "kw2": [
+    "cách mở khóa smartkey xe tay ga",
+    "xe ga không nhận chìa thông minh"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách lần đầu thuê xe ga có khóa thông minh",
+   "location_scope": "Hà Nội, khu Long Biên và nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-002",
+   "child_id": "C-XE-GA",
+   "title": "Chức năng ngắt động cơ tạm thời Idling Stop: bật, tắt và dùng sao cho hợp khi kẹt xe Hà Nội",
+   "intent": "Hiểu chức năng Idling Stop trên xe tay ga tự tắt máy khi dừng và nổ lại khi vặn ga, để không hoảng khi xe im máy ở đèn đỏ và biết lúc nào nên tắt chức năng này.",
+   "kw": "idling stop xe tay ga",
+   "kw2": [
+    "ngắt động cơ tạm thời xe ga",
+    "tắt idling stop khi kẹt xe"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người thuê xe ga đi lại trong phố giờ cao điểm",
+   "location_scope": "Hà Nội, các nút đèn đỏ đông như Ngã Tư Sở, Kim Mã",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-003",
+   "child_id": "C-XE-GA",
+   "title": "Phanh kết hợp CBS trên xe tay ga thuê: bóp phanh trái thế nào để xe dừng thẳng và không trượt",
+   "intent": "Hiểu cơ chế phanh kết hợp CBS trên xe tay ga và tập phối hợp phanh trái, phanh phải để dừng xe ngắn, thẳng trên mặt đường phố Hà Nội.",
+   "kw": "phanh cbs xe tay ga",
+   "kw2": [
+    "phanh kết hợp xe ga là gì",
+    "bóp phanh trái xe ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người mới đi xe ga và người chuyển từ xe số",
+   "location_scope": "Hà Nội, đường phố nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-004",
+   "child_id": "C-XE-GA",
+   "title": "Xe tay ga có ABS và không có ABS: khác biệt khi phanh gấp trên mặt đường ướt ở Hà Nội",
+   "intent": "Hiểu phanh ABS giúp gì và không giúp gì khi phanh gấp trên đường ướt, để người thuê xe ga giữ khoảng cách và cách bóp phanh phù hợp với chiếc xe mình đang đi.",
+   "kw": "xe ga có abs khác gì không abs",
+   "kw2": [
+    "phanh abs xe tay ga đường ướt",
+    "xe ga không abs phanh gấp"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người thuê xe ga hay đi trời mưa",
+   "location_scope": "Hà Nội, các trục đường lớn như Nguyễn Văn Cừ, Võ Chí Công",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-005",
+   "child_id": "C-XE-GA",
+   "title": "Ổ khóa từ và nắp che ổ khóa trên xe ga: đóng mở đúng cách để giảm rủi ro khi gửi xe ngoài phố",
+   "intent": "Biết cách dùng nắp che ổ khóa từ và khóa cổ trên xe tay ga thuê mỗi lần dừng đỗ, cùng các thói quen giữ xe khi gửi ở bãi trông xe ven phố.",
+   "kw": "khóa từ xe tay ga",
+   "kw2": [
+    "nắp che ổ khóa xe ga",
+    "khóa cổ xe tay ga khi gửi"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga hay dừng đỗ nhiều điểm trong ngày",
+   "location_scope": "Hà Nội, phố cổ và các bãi gửi xe ven hồ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-006",
+   "child_id": "C-XE-GA",
+   "title": "Đèn báo lỗi FI nhấp nháy trên đồng hồ xe ga: dừng lại, quan sát gì và báo tiệm ra sao",
+   "intent": "Nhận biết đèn báo lỗi phun xăng điện tử FI trên đồng hồ xe tay ga và biết nên dừng xe, ghi lại dấu hiệu gì để báo tiệm cho thuê xử lý thay vì cố chạy tiếp.",
+   "kw": "đèn báo lỗi fi xe ga",
+   "kw2": [
+    "đèn check engine xe tay ga",
+    "xe ga sáng đèn báo lỗi"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách đang thuê xe ga gặp đèn báo lạ",
+   "location_scope": "Hà Nội và ngoại thành gần",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-007",
+   "child_id": "C-XE-GA",
+   "title": "Thuê Vision hay Air Blade ở Hà Nội: so sánh tư thế ngồi, cốp xe và cảm giác lái trong phố",
+   "intent": "Chọn giữa Honda Vision và Honda Air Blade khi thuê xe ga ở Hà Nội dựa trên vóc người, quãng đường hay đi, nhu cầu chở đồ và cảm giác lái thực tế.",
+   "kw": "thuê vision hay air blade",
+   "kw2": [
+    "so sánh vision và air blade",
+    "nên thuê xe ga nào ở hà nội"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách đang phân vân chọn mẫu xe ga để thuê",
+   "location_scope": "Hà Nội, nội thành và Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-008",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga cỡ nhỏ Click, Mio và Vision: khác nhau ở trọng lượng, độ dễ dắt và chỗ để chân",
+   "intent": "Chọn một mẫu xe ga cỡ nhỏ dễ dắt, dễ dựng cho người nhẹ cân hoặc mới tập đi bằng cách so sánh trọng lượng cảm nhận, sàn để chân và cách xoay xở trong ngõ.",
+   "kw": "xe ga cỡ nhỏ dễ dắt",
+   "kw2": [
+    "thuê click hay mio",
+    "xe ga nhẹ cho người mới"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người nhẹ cân, sinh viên, người mới tập đi xe ga",
+   "location_scope": "Hà Nội, khu nhà trong ngõ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-009",
+   "child_id": "C-XE-GA",
+   "title": "Dắt và quay đầu xe tay ga khi tắt máy ở bãi gửi chật: tư thế đứng, bẻ lái và giữ phanh",
+   "intent": "Biết cách dắt bộ, lùi và quay đầu xe tay ga đã tắt máy trong bãi gửi xe chật hoặc trước cửa nhà hẹp mà không làm đổ xe hay quẹt xe bên cạnh.",
+   "kw": "dắt xe ga quay đầu chỗ hẹp",
+   "kw2": [
+    "cách lùi xe tay ga",
+    "dắt xe ga trong bãi gửi chật"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người mới đi xe ga, người nhẹ cân",
+   "location_scope": "Hà Nội, bãi gửi xe chung cư và ngõ phố cổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-010",
+   "child_id": "C-XE-GA",
+   "title": "Lốp không săm xe ga bị đinh giữa đường: còn chạy được không và đẩy xe đến đâu để vá",
+   "intent": "Biết cách nhận ra lốp không săm của xe tay ga bị đinh, quyết định có nên chạy chậm tiếp hay dừng hẳn, và liên hệ tiệm cho thuê trước khi vá ở hàng sửa ven đường.",
+   "kw": "lốp không săm xe ga bị đinh",
+   "kw2": [
+    "xe ga thủng lốp không săm",
+    "vá lốp xe tay ga ven đường"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách đang thuê xe ga gặp thủng lốp",
+   "location_scope": "Hà Nội, các trục đường ven đê và đường vành đai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-011",
+   "child_id": "C-XE-GA",
+   "title": "Bơm lốp xe tay ga ở hàng sửa ven đường: đọc tem áp suất và tránh bơm quá căng hoặc quá non",
+   "intent": "Biết đọc tem áp suất lốp in trên xe tay ga, nhờ hàng sửa xe bơm đúng mức và tự kiểm tra lốp non bằng mắt và cảm giác lái khi đang thuê xe.",
+   "kw": "bơm lốp xe tay ga",
+   "kw2": [
+    "tem áp suất lốp xe ga",
+    "lốp xe ga bị non"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga dài ngày",
+   "location_scope": "Hà Nội, hàng sửa xe ven phố",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-012",
+   "child_id": "C-XE-GA",
+   "title": "Xe tay ga qua đoạn phố ngập sau mưa lớn: mức nước nào nên quay đầu và cách giữ máy không tắt",
+   "intent": "Quyết định có nên cho xe tay ga đi qua đoạn đường ngập hay tìm đường vòng, và nếu buộc phải đi thì giữ ga, tốc độ và khoảng cách thế nào để hạn chế nước vào máy.",
+   "kw": "xe ga đi qua đường ngập",
+   "kw2": [
+    "xe tay ga lội nước",
+    "đi xe ga mùa ngập hà nội"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người đi xe ga trong mùa mưa",
+   "location_scope": "Hà Nội, các điểm hay ngập như Nguyễn Khuyến, Thái Hà, Phạm Văn Đồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-013",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga chết máy sau khi lội nước: vì sao không nên đề liên tục và cần báo tiệm những gì",
+   "intent": "Biết làm gì ngay sau khi xe tay ga tắt máy giữa hoặc sau đoạn ngập: dắt lên chỗ cao, không đề liên tục, kiểm tra dấu hiệu và gọi tiệm cho thuê để được hướng dẫn.",
+   "kw": "xe ga chết máy sau khi lội nước",
+   "kw2": [
+    "xe tay ga ngập nước không nổ",
+    "xử lý xe ga bị vào nước"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga gặp ngập",
+   "location_scope": "Hà Nội, mùa mưa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-014",
+   "child_id": "C-XE-GA",
+   "title": "Đèn pha và đèn cos trên xe tay ga: chuyển chế độ, nháy xin vượt và tránh chói xe ngược chiều",
+   "intent": "Biết vị trí công tắc đèn pha, đèn cos và nút nháy pha trên tay lái xe tay ga, dùng đúng lúc khi đi đêm trên đường tối ven đô và trong phố có xe ngược chiều.",
+   "kw": "đèn pha cos xe tay ga",
+   "kw2": [
+    "nháy pha xin vượt xe ga",
+    "công tắc đèn xe tay ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga đi buổi tối",
+   "location_scope": "Hà Nội, đường Võ Nguyên Giáp, đê Long Biên và đường ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-015",
+   "child_id": "C-XE-GA",
+   "title": "Chỉnh gương chiếu hậu xe tay ga trước khi rời tiệm: góc nhìn đúng để thấy xe phía sau",
+   "intent": "Biết cách chỉnh hai gương chiếu hậu của xe tay ga thuê theo tư thế ngồi của mình và thói quen liếc gương khi chuyển làn, rẽ trái trong phố đông.",
+   "kw": "chỉnh gương xe tay ga",
+   "kw2": [
+    "cách chỉnh gương chiếu hậu xe máy",
+    "gương xe ga bị lệch"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người mới nhận xe ga thuê",
+   "location_scope": "Hà Nội, nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-016",
+   "child_id": "C-XE-GA",
+   "title": "Móc treo đồ và hộc đựng phía trước xe ga: treo túi thế nào để không vướng chân và tay lái",
+   "intent": "Biết dùng móc treo và hộc đựng đồ phía trước của xe tay ga để mang túi đồ, chai nước, điện thoại mà không làm vướng chân, kẹt tay lái hay rơi đồ khi xe xóc.",
+   "kw": "móc treo đồ xe tay ga",
+   "kw2": [
+    "hộc đựng đồ trước xe ga",
+    "treo túi trên xe tay ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga đi chợ, đi làm hằng ngày",
+   "location_scope": "Hà Nội, nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-017",
+   "child_id": "C-XE-GA",
+   "title": "Đỗ xe ga trên đường dốc và dốc hầm gửi xe: chọn chân chống nào để xe không trôi, không đổ",
+   "intent": "Biết chọn chân chống nghiêng hay chân chống giữa và hướng đầu xe khi đỗ xe tay ga trên nền dốc, để xe đứng vững trong lúc chủ xe đi vắng.",
+   "kw": "đỗ xe ga trên dốc",
+   "kw2": [
+    "xe tay ga trôi khi đỗ dốc",
+    "dựng chân chống trên dốc"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga ở chung cư, nhà phố có dốc",
+   "location_scope": "Hà Nội, chung cư và nhà phố có dốc dắt xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-018",
+   "child_id": "C-XE-GA",
+   "title": "Đi xe ga xuống hầm gửi xe chung cư và trung tâm thương mại: dốc xoắn, sàn sơn trơn, đèn tối",
+   "intent": "Biết cách điều khiển xe tay ga khi xuống và lên hầm gửi xe có dốc vòng, sàn sơn trơn và ánh sáng yếu, kể cả lúc có xe khác đi ngược chiều.",
+   "kw": "xe ga xuống hầm gửi xe",
+   "kw2": [
+    "đi xe máy xuống hầm chung cư",
+    "dốc hầm gửi xe trơn"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga ở chung cư hoặc đi trung tâm thương mại",
+   "location_scope": "Hà Nội, các khu như Times City, Royal City, Vinhomes Riverside",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-019",
+   "child_id": "C-XE-GA",
+   "title": "Ngồi sau xe tay ga cho đúng: đặt chân lên gác chân, bám vào đâu và lên xuống xe an toàn",
+   "intent": "Hướng dẫn người ngồi sau xe tay ga cách lên xuống xe, đặt chân, bám tay và giữ thân người để người lái giữ thăng bằng tốt trong phố đông.",
+   "kw": "ngồi sau xe tay ga",
+   "kw2": [
+    "gác chân sau xe ga",
+    "người ngồi sau xe máy bám vào đâu"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách đi hai người, du khách ngồi sau",
+   "location_scope": "Hà Nội, nội thành và phố cổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-020",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga kêu lạch cạch hoặc rít khi chạy: phân biệt tiếng từ dàn nồi, phanh và ốp nhựa",
+   "intent": "Nhận biết các tiếng kêu lạ thường gặp trên xe tay ga khi tăng tốc, phanh hay đi qua ổ gà, để biết tiếng nào chỉ là ốp lỏng và tiếng nào cần báo tiệm kiểm tra ngay.",
+   "kw": "xe ga kêu lạch cạch",
+   "kw2": [
+    "xe tay ga kêu rít khi phanh",
+    "tiếng lạ dàn nồi xe ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách đang thuê xe ga nghe tiếng lạ",
+   "location_scope": "Hà Nội và ngoại thành gần",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-021",
+   "child_id": "C-XE-GA",
+   "title": "Xe ga bốc mùi khét khi đang chạy: mùi từ dây curoa, má phanh hay dầu nhớt và cách xử lý",
+   "intent": "Phân biệt các loại mùi khét trên xe tay ga sau đoạn leo dốc, kẹt xe hay phanh nhiều, biết khi nào chỉ cần nghỉ cho máy nguội và khi nào phải dừng hẳn, gọi tiệm.",
+   "kw": "xe ga có mùi khét",
+   "kw2": [
+    "mùi khét dây curoa xe ga",
+    "xe tay ga bốc mùi khét khi phanh"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga đi đường dài hoặc kẹt xe lâu",
+   "location_scope": "Hà Nội, các cầu và đường dốc ven đô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-022",
+   "child_id": "C-XE-GA",
+   "title": "Ống xả xe tay ga nóng: cách lên xuống xe, dắt xe và để chân người ngồi sau để tránh bỏng",
+   "intent": "Biết vị trí ống xả trên xe tay ga và các tình huống dễ bị bỏng bắp chân như lên xe phía bên phải, dắt xe hay dừng chân lúc đèn đỏ, cùng cách phòng tránh.",
+   "kw": "bỏng ống xả xe ga",
+   "kw2": [
+    "tránh bỏng pô xe máy",
+    "ống xả xe tay ga nóng"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "du khách, người ngồi sau, người mặc quần ngắn",
+   "location_scope": "Hà Nội, mùa nóng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-023",
+   "child_id": "C-XE-GA",
+   "title": "Chuyển từ xe số sang xe tay ga: những thói quen cũ cần bỏ để không phanh nhầm, ga nhầm",
+   "intent": "Nhận ra các phản xạ của người quen đi xe số dễ gây nguy hiểm khi lái xe tay ga như tìm phanh chân, nhả ga đột ngột hay ôm cua sai, và tập lại cho quen.",
+   "kw": "chuyển từ xe số sang xe ga",
+   "kw2": [
+    "người đi xe số lần đầu đi xe ga",
+    "khác biệt khi lái xe ga"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "người quen xe số lần đầu thuê xe ga",
+   "location_scope": "Hà Nội, đường phố nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-024",
+   "child_id": "C-XE-GA",
+   "title": "Thuê xe ga dài ngày: dấu hiệu đến lúc thay nhớt máy, nhớt láp và cách hẹn tiệm kiểm tra",
+   "intent": "Nhận biết các dấu hiệu xe tay ga thuê theo tuần, theo tháng cần thay nhớt máy, nhớt láp hoặc kiểm tra định kỳ, và cách trao đổi với tiệm cho thuê để sắp xếp.",
+   "kw": "thay nhớt xe ga thuê dài ngày",
+   "kw2": [
+    "nhớt láp xe tay ga",
+    "thuê xe ga theo tháng bảo dưỡng"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga theo tuần, theo tháng",
+   "location_scope": "Hà Nội, khách ở dài hạn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2C-025",
+   "child_id": "C-XE-GA",
+   "title": "Đạp nổ xe tay ga bằng cần khởi động: dựng chân chống giữa, tư thế đứng và cách đạp đúng lực",
+   "intent": "Biết cách dùng cần đạp khởi động trên xe tay ga khi đề điện không nổ: dựng xe, bóp phanh, đứng đúng phía và đạp dứt khoát mà không làm đau chân hay hỏng cần.",
+   "kw": "đạp nổ xe tay ga",
+   "kw2": [
+    "cần đạp khởi động xe ga",
+    "xe ga không đề được đạp nổ"
+   ],
+   "links": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2C",
+   "audience": "khách thuê xe ga gặp đề điện yếu",
+   "location_scope": "Hà Nội, sáng sớm và mùa lạnh",
+   "word_target": 1200
+  }
+ ]
+}
