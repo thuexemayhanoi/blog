@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-14T04:19:53+00:00",
+  "updated_at": "2026-10-14T04:25:11+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02785",
-      "started_at": "2026-10-14T02:11:19+00:00",
-      "source": "_drafts/2026-10-11-bi-bam-coi-lien-tuc-tu-phia-sau-hieu-tieng-coi-o-ha-noi-va-phan-ung-binh-tinh.md",
-      "destination": "_posts/2026-10-11-bi-bam-coi-lien-tuc-tu-phia-sau-hieu-tieng-coi-o-ha-noi-va-phan-ung-binh-tinh.md",
-      "result": "PUBLISHED",
-      "commit_sha": "629fc327063e37ea4ffbcc2ff79e0b481d35e29e",
-      "finished_at": "2026-10-14T02:11:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02786",
-      "started_at": "2026-10-14T02:11:19+00:00",
-      "source": "_drafts/2026-10-11-lo-loi-re-khi-di-theo-ban-do-di-tiep-tim-cho-quay-dau-dung-phanh-gap.md",
-      "destination": "_posts/2026-10-11-lo-loi-re-khi-di-theo-ban-do-di-tiep-tim-cho-quay-dau-dung-phanh-gap.md",
-      "result": "PUBLISHED",
-      "commit_sha": "629fc327063e37ea4ffbcc2ff79e0b481d35e29e",
-      "finished_at": "2026-10-14T02:11:19+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02787",
       "started_at": "2026-10-14T02:11:28+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "b61da9453c4dd41c19cd74315fac3b7380efb529",
       "finished_at": "2026-10-14T04:19:53+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02759",
+      "started_at": "2026-10-14T04:25:11+00:00",
+      "source": "_drafts/2026-10-14-deo-pha-din-tren-duong-len-dien-bien-chay-xe-may-qua-doan-suong-va-cua-gat.md",
+      "destination": "_posts/2026-10-14-deo-pha-din-tren-duong-len-dien-bien-chay-xe-may-qua-doan-suong-va-cua-gat.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3ab260ec62680ddf0d82e68508f95521a9098355",
+      "finished_at": "2026-10-14T04:25:11+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02760",
+      "started_at": "2026-10-14T04:25:11+00:00",
+      "source": "_drafts/2026-10-14-ha-noi-di-dien-bien-phu-bang-xe-may-ba-ngay-chia-chang-qua-moc-chau-va-son-la.md",
+      "destination": "_posts/2026-10-14-ha-noi-di-dien-bien-phu-bang-xe-may-ba-ngay-chia-chang-qua-moc-chau-va-son-la.md",
+      "result": "PUBLISHED",
+      "commit_sha": "3ab260ec62680ddf0d82e68508f95521a9098355",
+      "finished_at": "2026-10-14T04:25:11+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
