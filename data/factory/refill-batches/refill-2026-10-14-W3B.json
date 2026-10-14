@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3B: chu de that, tao boi writer W3 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-001",
+   "child_id": "C-HD-SU-CO",
+   "title": "Yên xe thuê tự bật lên khi đang chạy: vì sao khóa yên không ăn và nên dừng xử lý thế nào",
+   "intent": "Biết cách dừng xe an toàn khi yên xe tay ga thuê bất ngờ bật mở lúc đang chạy, đóng lại cho chắc và báo cửa hàng nếu khóa yên không giữ được.",
+   "kw": "yên xe máy tự bật lên",
+   "kw2": [
+    "khóa yên xe ga không ăn",
+    "yên xe bật mở khi đang chạy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, phố nội đô và đường vành đai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-002",
+   "child_id": "C-HD-SU-CO",
+   "title": "Cổng sạc điện thoại trên xe thuê không ra điện: tự kiểm tra gì trước khi báo cửa hàng",
+   "intent": "Biết cách kiểm tra nhanh cổng sạc điện thoại gắn trên xe tay ga thuê khi cắm không vào điện, phân biệt lỗi dây cáp với lỗi của xe và báo cửa hàng đúng lúc.",
+   "kw": "cổng sạc xe máy không vào điện",
+   "kw2": [
+    "ổ sạc điện thoại trên xe ga không sạc",
+    "cổng sạc usb xe máy hỏng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "khách du lịch và người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, đi lại nội đô dùng điện thoại chỉ đường",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-003",
+   "child_id": "C-HD-SU-CO",
+   "title": "Có người gọi xưng nhân viên cửa hàng đòi chuyển khoản tiền sửa xe thuê: xác minh thế nào",
+   "intent": "Nhận ra cuộc gọi hoặc tin nhắn giả danh cửa hàng cho thuê xe đòi chuyển tiền sửa xe hay tiền phạt, và biết cách xác minh qua kênh liên lạc đã lưu trước khi làm gì tiếp.",
+   "kw": "giả danh cửa hàng thuê xe đòi tiền",
+   "kw2": [
+    "cuộc gọi lạ đòi chuyển khoản sửa xe",
+    "lừa đảo khi đang thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "khách du lịch và người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, liên lạc qua điện thoại và Zalo trong kỳ thuê",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-004",
+   "child_id": "C-HD-SU-CO",
+   "title": "Gọi cửa hàng không ai nghe máy khi xe thuê gặp sự cố ban đêm: làm gì trong lúc chờ",
+   "intent": "Biết nên làm gì khi xe thuê trục trặc lúc khuya mà chưa liên lạc được với cửa hàng: đưa xe vào chỗ an toàn, gửi tin nhắn đủ thông tin và quyết định chờ hay về nghỉ.",
+   "kw": "gọi cửa hàng thuê xe không nghe máy",
+   "kw2": [
+    "xe thuê hỏng ban đêm không liên lạc được",
+    "nhắn cửa hàng khi xe hỏng lúc khuya"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, nội đô và vùng ven vào ban đêm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-005",
+   "child_id": "C-HD-SU-CO",
+   "title": "Mới đi một đoạn đã phát hiện xe thuê có lỗi từ trước: báo cửa hàng sao cho không bị tính cho mình",
+   "intent": "Biết cách báo ngay cho cửa hàng khi vừa nhận xe và đi được một đoạn thì phát hiện lỗi có sẵn, kèm ảnh, video và thời điểm để hai bên cùng ghi nhận rõ ràng.",
+   "kw": "phát hiện lỗi xe thuê sau khi nhận",
+   "kw2": [
+    "xe thuê có lỗi sẵn báo cửa hàng",
+    "xe vừa thuê bị hỏng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, quãng đường đầu tiên sau khi rời cửa hàng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-006",
+   "child_id": "C-HD-SU-CO",
+   "title": "Đến hạn trả mà xe thuê còn nằm ở tiệm sửa dọc đường: báo cửa hàng và sắp xếp lại lịch trả",
+   "intent": "Biết cách xử lý khi sắp đến giờ trả xe mà xe thuê vẫn đang được sửa ở tiệm ngoài: báo sớm cho cửa hàng, cung cấp địa chỉ tiệm và thống nhất cách bàn giao.",
+   "kw": "xe thuê đang sửa đến hạn trả",
+   "kw2": [
+    "trả xe thuê trễ vì xe đang sửa",
+    "xe thuê để ở tiệm sửa khi hết hạn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội và các huyện ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-007",
+   "child_id": "C-HD-SU-CO",
+   "title": "Quay lại thấy ổ khóa xe thuê bị cạy dở, không cắm được chìa: xử lý tại chỗ và báo cửa hàng",
+   "intent": "Biết phải làm gì khi phát hiện ổ khóa xe thuê có dấu hiệu bị cạy phá hoặc nhét vật lạ, xe vẫn còn nhưng không mở được: không cố vặn, chụp ảnh, trình báo và gọi cửa hàng.",
+   "kw": "ổ khóa xe máy bị cạy phá",
+   "kw2": [
+    "ổ khóa xe bị nhét vật lạ",
+    "xe máy bị phá khóa nhưng không mất"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, phố cổ và khu đỗ xe ngoài trời",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-008",
+   "child_id": "C-HD-SU-CO",
+   "title": "Để quên chìa khóa cắm trên xe thuê đỗ ngoài phố: quay lại cần kiểm tra những gì",
+   "intent": "Biết cách kiểm tra xe, chìa và đồ trong cốp khi lỡ để chìa cắm ở ổ khóa xe thuê một thời gian, và khi nào nên báo cửa hàng dù xe vẫn còn nguyên.",
+   "kw": "quên rút chìa khóa xe máy",
+   "kw2": [
+    "để chìa khóa cắm trên xe",
+    "quên chìa trong ổ khóa xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, phố đông và khu quán xá",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-009",
+   "child_id": "C-HD-SU-CO",
+   "title": "Xe máy điện thuê bật khóa nhưng không lên nguồn, màn hình tối đen: kiểm tra theo thứ tự nào",
+   "intent": "Biết các bước kiểm tra an toàn khi xe máy điện thuê không lên nguồn lúc bật khóa, như chế độ khóa, chân chống, mức pin và kết nối pin, trước khi gọi cửa hàng.",
+   "kw": "xe máy điện không lên nguồn",
+   "kw2": [
+    "xe điện bật khóa không sáng màn hình",
+    "xe máy điện thuê không khởi động"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, khu chung cư và nhà trọ có chỗ sạc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-010",
+   "child_id": "C-HD-SU-CO",
+   "title": "Làm mất hoặc làm hỏng bộ sạc đi kèm xe máy điện thuê: báo cửa hàng và sạc tạm ở đâu",
+   "intent": "Biết nên làm gì khi lỡ để quên, làm rơi hoặc làm hỏng bộ sạc đi kèm xe máy điện thuê: báo cửa hàng sớm, không dùng sạc khác loại và tính quãng đường còn lại.",
+   "kw": "mất sạc xe máy điện thuê",
+   "kw2": [
+    "hỏng bộ sạc xe điện thuê",
+    "quên cục sạc xe máy điện"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, nội đô và khu nhà trọ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-011",
+   "child_id": "C-HD-SU-CO",
+   "title": "Xe thuê để qua đêm sáng ra bị hút trộm xăng: nhận biết và báo cửa hàng thế nào",
+   "intent": "Nhận ra dấu hiệu xe thuê bị hút trộm xăng khi đỗ qua đêm, kiểm tra ống dẫn và nắp bình có bị phá không, rồi ghi nhận và báo cửa hàng trước khi đổ xăng đi tiếp.",
+   "kw": "xe máy bị hút trộm xăng",
+   "kw2": [
+    "sáng ra xe hết sạch xăng",
+    "trộm xăng xe máy qua đêm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, ngõ nhỏ và khu nhà trọ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-012",
+   "child_id": "C-HD-SU-CO",
+   "title": "Chuột cắn dây điện xe thuê để trong ngõ hoặc nhà trọ: dấu hiệu và vì sao không nên tự nối",
+   "intent": "Nhận biết dấu hiệu dây điện xe thuê bị chuột cắn sau khi để qua đêm, hiểu vì sao không nên tự nối dây và biết cách báo cửa hàng cũng như chọn chỗ để xe hạn chế chuột.",
+   "kw": "chuột cắn dây điện xe máy",
+   "kw2": [
+    "xe máy bị chuột cắn dây",
+    "xe thuê để trong nhà bị chuột cắn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, nhà ống, ngõ nhỏ và khu chợ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-013",
+   "child_id": "C-HD-SU-CO",
+   "title": "Lỡ làm đổ xe của người khác khi dắt xe thuê ra khỏi bãi gửi: nên nói gì và có cần báo cửa hàng",
+   "intent": "Biết cách cư xử và ghi nhận sự việc khi lỡ làm đổ xe của người khác lúc dắt xe thuê ra khỏi bãi chật, phối hợp với người trông xe và báo cửa hàng nếu xe thuê cũng bị ảnh hưởng.",
+   "kw": "làm đổ xe người khác ở bãi gửi",
+   "kw2": [
+    "dắt xe làm đổ xe bên cạnh",
+    "làm đổ xe máy người khác"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, bãi gửi xe chật ở phố cổ, chợ và trung tâm thương mại",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-014",
+   "child_id": "C-HD-SU-CO",
+   "title": "Đèn soi biển số xe thuê tắt khi đi buổi tối: tự kiểm tra gì và báo cửa hàng ra sao",
+   "intent": "Biết cách nhận ra đèn soi biển số phía sau xe thuê không sáng, kiểm tra nhanh các nguyên nhân thường gặp và báo cửa hàng thay bóng sớm để đi đêm cho đúng.",
+   "kw": "đèn soi biển số xe máy không sáng",
+   "kw2": [
+    "đèn biển số xe máy bị tắt",
+    "bóng đèn biển số xe thuê cháy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, đi lại buổi tối trong nội đô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-015",
+   "child_id": "C-HD-SU-CO",
+   "title": "Xe thuê bị khóa lại vì đỗ trước cửa nhà dân trong ngõ: nói chuyện thế nào để lấy xe ra",
+   "intent": "Biết cách xử lý ôn hòa khi quay lại thấy xe thuê bị người dân khóa chặn hoặc dán giấy nhắc vì đỗ chắn cửa trong ngõ, và chọn chỗ đỗ đúng để không lặp lại.",
+   "kw": "xe máy bị khóa vì đỗ trước cửa nhà",
+   "kw2": [
+    "đỗ xe chắn cửa nhà dân bị khóa xe",
+    "xe thuê bị dân khóa lại"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "khách du lịch và người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, ngõ nhỏ khu Đống Đa, Ba Đình và phố cổ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-016",
+   "child_id": "C-HD-SU-CO",
+   "title": "Pin rời của xe máy điện thuê bị lấy trộm khi đỗ: trình báo và báo cửa hàng những gì",
+   "intent": "Biết các bước cần làm khi phát hiện pin tháo rời của xe máy điện thuê bị lấy mất lúc đỗ: chụp ảnh hiện trường, tìm camera, trình báo công an phường và báo cửa hàng.",
+   "kw": "pin xe máy điện bị trộm",
+   "kw2": [
+    "mất pin rời xe điện thuê",
+    "xe máy điện bị tháo trộm pin"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, khu chung cư, ký túc xá và bãi đỗ ngoài trời",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-017",
+   "child_id": "C-HD-SU-CO",
+   "title": "Tắt máy rồi mà xe ga thuê vẫn có tiếng quạt chạy hoặc tiếng tách tách: có phải đã hỏng",
+   "intent": "Hiểu vì sao một số xe tay ga làm mát bằng dung dịch vẫn có tiếng quạt sau khi tắt máy và tiếng tách tách khi ống xả nguội, phân biệt với âm thanh bất thường cần báo cửa hàng.",
+   "kw": "tắt máy xe ga vẫn có tiếng quạt",
+   "kw2": [
+    "xe ga tắt máy kêu tách tách",
+    "quạt két nước xe máy chạy sau khi tắt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "khách du lịch và người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, mùa nóng và giờ kẹt xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-018",
+   "child_id": "C-HD-SU-CO",
+   "title": "Chắn bùn xe thuê cọ vào bánh sau khi va gờ hoặc dắt xe: nhận biết tiếng cọ và báo cửa hàng",
+   "intent": "Nhận biết tiếng cọ sột soạt khi chắn bùn hoặc ốp bánh bị đẩy lệch chạm vào lốp, hiểu vì sao không nên đi tiếp lâu và biết báo cửa hàng chỉnh lại.",
+   "kw": "chắn bùn cọ vào bánh xe máy",
+   "kw2": [
+    "dè xe máy cọ bánh",
+    "xe máy có tiếng cọ ở bánh trước"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, đường nhiều gờ giảm tốc và vỉa hè cao",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-019",
+   "child_id": "C-HD-SU-CO",
+   "title": "Nút đề xe thuê bị kẹt, củ đề quay mãi không nhả: tắt máy ngay và báo cửa hàng ra sao",
+   "intent": "Biết phản ứng đúng khi bấm đề xong mà củ đề vẫn quay rít liên tục do nút đề kẹt: tắt khóa ngay, không bấm thử lại nhiều lần và báo cửa hàng kiểm tra.",
+   "kw": "nút đề xe máy bị kẹt",
+   "kw2": [
+    "củ đề xe máy quay liên tục",
+    "bấm đề không nhả xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, nội đô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-020",
+   "child_id": "C-HD-SU-CO",
+   "title": "Còi xe thuê kêu liên tục không tắt được giữa phố: ngắt tạm thế nào cho an toàn",
+   "intent": "Biết cách xử lý khi nút còi xe thuê bị kẹt làm còi kêu liên tục giữa phố: tấp vào lề, tắt khóa để ngắt tạm và báo cửa hàng thay vì tự tháo dây.",
+   "kw": "còi xe máy kêu liên tục",
+   "kw2": [
+    "nút còi xe máy bị kẹt",
+    "còi xe kêu không tắt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, phố đông và khu dân cư buổi tối",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-021",
+   "child_id": "C-HD-SU-CO",
+   "title": "Đèn phanh xe thuê sáng liên tục dù không bóp phanh: có nguy hiểm không và báo cửa hàng gì",
+   "intent": "Hiểu vì sao đèn phanh xe thuê có thể sáng mãi dù không bóp phanh, rủi ro gây nhầm cho xe phía sau và cách kiểm tra nhanh trước khi báo cửa hàng.",
+   "kw": "đèn phanh xe máy sáng liên tục",
+   "kw2": [
+    "đèn phanh không tắt",
+    "công tắc đèn phanh xe máy kẹt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, đi lại buổi tối trên đường vành đai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-022",
+   "child_id": "C-HD-SU-CO",
+   "title": "Ống xả xe thuê nhỏ giọt nước khi mới nổ máy buổi sáng: hiện tượng bình thường hay lỗi",
+   "intent": "Hiểu vì sao ống xả xe máy có thể nhỏ vài giọt nước lúc mới nổ máy trong sáng lạnh hoặc mùa nồm, và phân biệt với chất lỏng có màu, mùi bất thường cần báo cửa hàng.",
+   "kw": "ống xả xe máy nhỏ nước",
+   "kw2": [
+    "pô xe máy chảy nước",
+    "nước chảy ra từ ống xả xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "khách du lịch và người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, mùa đông và mùa nồm ẩm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-023",
+   "child_id": "C-HD-SU-CO",
+   "title": "Người ngồi sau bị kẹt chân vào bánh hoặc nan hoa xe thuê: dừng xe và sơ cứu ban đầu",
+   "intent": "Biết cách dừng xe ngay và xử lý ban đầu khi chân người ngồi sau, nhất là trẻ nhỏ, bị cuốn vào bánh hoặc nan hoa xe thuê, khi nào cần gọi cấp cứu và cách phòng tránh.",
+   "kw": "kẹt chân vào bánh xe máy",
+   "kw2": [
+    "trẻ em kẹt chân vào nan hoa xe máy",
+    "người ngồi sau kẹt chân vào bánh"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, đi lại trong phố có chở người ngồi sau",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-024",
+   "child_id": "C-HD-SU-CO",
+   "title": "Đèn pha xe thuê luôn sáng, không tìm thấy công tắc tắt đèn: có phải xe bị lỗi không",
+   "intent": "Hiểu vì sao nhiều mẫu xe máy đời mới tự sáng đèn khi nổ máy và không có công tắc tắt đèn, để không lo nhầm là xe thuê bị hỏng hay sợ hết ắc quy.",
+   "kw": "đèn xe máy không tắt được",
+   "kw2": [
+    "xe máy luôn sáng đèn khi nổ máy",
+    "xe thuê không có công tắc tắt đèn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "khách du lịch và người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, đi lại ban ngày trong phố",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3B-025",
+   "child_id": "C-HD-SU-CO",
+   "title": "Dây ga xe thuê bị đứt giữa đường: vặn ga máy chỉ nổ không, đưa xe vào lề thế nào",
+   "intent": "Biết nhận ra dấu hiệu dây ga bị đứt khi vặn tay ga mà máy không lên ga, đưa xe vào chỗ an toàn, không tự buộc tạm dây ga và gọi cửa hàng hỗ trợ.",
+   "kw": "đứt dây ga xe máy",
+   "kw2": [
+    "vặn ga xe máy không ăn",
+    "dây ga xe máy bị đứt giữa đường"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-14-W3B",
+   "audience": "người đang thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội, nội đô và đường đê ven sông",
+   "word_target": 1200
+  }
+ ]
+}
