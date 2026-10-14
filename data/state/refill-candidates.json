@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-14T20:24:07+00:00",
-    "staged_at": "2026-10-14T23:00:03+00:00"
+    "staged_at": "2026-10-14T23:04:06+00:00"
   },
   "candidates": [
     {
@@ -2383,6 +2383,481 @@
       "subtopic": "refill-2026-10-14-W3D",
       "audience": "người thuê xe đang làm thủ tục ký giấy tờ tại cửa hàng",
       "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-001",
+      "child_id": "C-THUE-GIA",
+      "title": "Ô ghi 'liên hệ' và 'xác nhận trực tiếp' trên bảng giá thuê xe máy: vì sao không có số và nên hỏi gì",
+      "intent": "Hiểu vì sao bảng giá thuê xe để trống số ở xe máy điện, xe đạp điện và mục tiền cọc, và biết chuẩn bị câu hỏi để nhận con số chính xác từ cửa hàng trước khi đặt xe.",
+      "kw": "bảng giá thuê xe ghi liên hệ",
+      "kw2": [
+        "giá thuê xe máy liên hệ là gì",
+        "cọc xác nhận trực tiếp nghĩa là gì"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người đang xem bảng giá trước khi thuê xe máy ở Hà Nội",
+      "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-002",
+      "child_id": "C-THUE-GIA",
+      "title": "Honda Wave chỉ niêm yết giá ngày 150.000đ: muốn thuê Wave cả tuần hoặc cả tháng thì hỏi cửa hàng thế nào",
+      "intent": "Biết cách hỏi giá khi cần thuê Honda Wave nhiều ngày trong khi bảng giá chỉ có mức theo ngày, tránh tự nhân giá ngày để đoán giá tuần hoặc tháng.",
+      "kw": "giá thuê honda wave theo tuần",
+      "kw2": [
+        "thuê wave theo tháng hà nội",
+        "giá thuê xe số wave dài ngày"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người muốn thuê xe số tiết kiệm nhiều ngày ở Hà Nội",
+      "location_scope": "Hà Nội, đi lại nội đô và ven đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-003",
+      "child_id": "C-THUE-GIA",
+      "title": "Vision và Air Blade cùng 200.000đ một ngày: vì sao giá tuần, giá tháng lại khác nhau trên bảng giá",
+      "intent": "Hiểu sự khác nhau giữa giá tuần, giá tháng của Honda Vision và Honda Air Blade dù giá ngày bằng nhau, để chọn đúng xe khi định thuê từ một tuần trở lên.",
+      "kw": "giá thuê vision air blade theo tháng",
+      "kw2": [
+        "so sánh giá thuê vision và air blade",
+        "giá tuần vision air blade"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người định thuê xe ga một tuần hoặc một tháng ở Hà Nội",
+      "location_scope": "Hà Nội, đi làm và sinh hoạt nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-004",
+      "child_id": "C-THUE-GIA",
+      "title": "Honda Click và Yamaha Mio chung một dòng trên bảng giá: giá ngày, tuần, tháng áp dụng thế nào khi chọn xe",
+      "intent": "Hiểu cách đọc dòng giá gộp Honda Click và Yamaha Mio, biết mức ngày, tuần, tháng đang áp dụng và cần hỏi gì để biết mẫu nào còn xe vào ngày nhận.",
+      "kw": "giá thuê honda click yamaha mio",
+      "kw2": [
+        "thuê xe click hà nội giá",
+        "giá thuê mio theo tháng"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người tìm xe ga nhỏ gọn giá vừa phải ở Hà Nội",
+      "location_scope": "Hà Nội, phố nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-005",
+      "child_id": "C-THUE-GIA",
+      "title": "Giá thuê xe đạp điện ở Hà Nội: cần gửi cửa hàng những thông tin gì để được báo giá đúng",
+      "intent": "Biết những thông tin cần nhắn cửa hàng như ngày nhận, số ngày dùng, quãng đường đi lại và người dùng xe để nhận báo giá thuê xe đạp điện rõ ràng vì bảng giá chưa ghi số.",
+      "kw": "giá thuê xe đạp điện hà nội",
+      "kw2": [
+        "thuê xe đạp điện bao nhiêu tiền",
+        "hỏi giá thuê xe đạp điện"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người lớn tuổi, khách du lịch và người cần xe đạp điện đi quãng ngắn",
+      "location_scope": "Hà Nội, nội thành và khu Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-006",
+      "child_id": "C-THUE-GIA",
+      "title": "Thuê Yamaha Sirius giá bao nhiêu: vì sao chưa có trên bảng giá và cách hỏi để so với các xe số khác",
+      "intent": "Biết cách hỏi giá thuê Yamaha Sirius khi bảng giá chưa niêm yết mẫu này, và đối chiếu với mức đã duyệt của Honda Wave để quyết định có nên chờ xe Sirius hay không.",
+      "kw": "giá thuê yamaha sirius",
+      "kw2": [
+        "thuê xe sirius hà nội bao nhiêu",
+        "hỏi giá thuê xe số sirius"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người quen tay xe số muốn thuê Sirius ở Hà Nội",
+      "location_scope": "Hà Nội, nội đô và ven đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-007",
+      "child_id": "C-THUE-GIA",
+      "title": "Chỉ đi xe máy vào các cuối tuần trong tháng: thuê lẻ từng cuối tuần hay giữ xe theo gói tháng",
+      "intent": "Tính và so sánh hai cách thuê cho người chỉ cần xe vào thứ Bảy, Chủ nhật trong một tháng: thuê lẻ mỗi cuối tuần theo giá ngày hay giữ xe cả tháng, kèm chi phí gửi xe ngày thường.",
+      "kw": "thuê xe máy các cuối tuần trong tháng",
+      "kw2": [
+        "thuê xe máy chỉ cuối tuần",
+        "thuê lẻ cuối tuần hay thuê tháng"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người ở Hà Nội chỉ cần xe máy vào cuối tuần",
+      "location_scope": "Hà Nội, đi chơi cuối tuần nội đô và ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-008",
+      "child_id": "C-THUE-GIA",
+      "title": "Tháng đầu đi làm ở Hà Nội chưa nhận lương: chọn cách trả tiền thuê xe máy theo tuần hay theo tháng",
+      "intent": "Lên kế hoạch tiền thuê xe máy cho tháng đầu đi làm khi tiền mặt còn ít: so trả theo tuần và trả gói tháng, và biết cần hỏi cửa hàng về thời điểm thanh toán.",
+      "kw": "thuê xe máy tháng đầu đi làm",
+      "kw2": [
+        "thuê xe máy trả theo tuần",
+        "người mới đi làm thuê xe máy tiết kiệm"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người mới đi làm, mới chuyển đến Hà Nội",
+      "location_scope": "Hà Nội, đi làm từ chỗ trọ vào nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-009",
+      "child_id": "C-THUE-GIA",
+      "title": "Đặt xe máy trước vài tuần: giá thuê đã báo có được giữ đến ngày nhận xe không",
+      "intent": "Biết cách hỏi và lưu lại giá thuê đã báo khi đặt xe sớm trước chuyến đi, để đến ngày nhận không bị bất ngờ nếu bảng giá có điều chỉnh.",
+      "kw": "giá thuê xe máy khi đặt trước",
+      "kw2": [
+        "đặt xe máy sớm có giữ giá không",
+        "lưu báo giá thuê xe máy"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "khách du lịch và người đặt xe máy trước chuyến đi đến Hà Nội",
+      "location_scope": "Hà Nội, đặt xe từ xa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-010",
+      "child_id": "C-THUE-GIA",
+      "title": "Xe thuê phải nằm sửa vài ngày giữa kỳ: những ngày không có xe được tính tiền thuê thế nào",
+      "intent": "Biết cần hỏi cửa hàng điều gì về tiền thuê trong những ngày xe hỏng phải sửa mà không có xe thay, và cách ghi lại thời gian để hai bên tính lại cho rõ.",
+      "kw": "xe thuê nằm sửa có tính tiền không",
+      "kw2": [
+        "ngày sửa xe thuê có trừ tiền",
+        "xe thuê hỏng không có xe thay"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người đang thuê xe máy theo tuần hoặc theo tháng ở Hà Nội",
+      "location_scope": "Hà Nội, trong kỳ thuê dài ngày",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-011",
+      "child_id": "C-THUE-GIA",
+      "title": "Được đổi sang xe khác dòng khi xe thuê hỏng: giá thuê tính theo xe cũ hay xe mới",
+      "intent": "Biết cần thống nhất gì về giá khi cửa hàng giao xe thay thế thuộc dòng khác trên bảng giá, ví dụ từ xe 150.000đ một ngày sang xe 200.000đ một ngày, trước khi nhận xe mới.",
+      "kw": "xe thay thế khác dòng giá thuê",
+      "kw2": [
+        "đổi xe thuê khác loại có tính thêm tiền",
+        "giá thuê khi đổi xe giữa kỳ"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người đang thuê xe máy gặp sự cố giữa kỳ ở Hà Nội",
+      "location_scope": "Hà Nội, trong kỳ thuê",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-012",
+      "child_id": "C-THUE-GIA",
+      "title": "Gia hạn thuê xe tháng khi bảng giá vừa điều chỉnh: tháng tiếp theo tính giá cũ hay giá mới",
+      "intent": "Biết cách hỏi cửa hàng về mức giá áp dụng cho tháng gia hạn khi bảng giá đã thay đổi, và chốt bằng tin nhắn trước ngày hết hạn tháng đang thuê.",
+      "kw": "gia hạn thuê xe tháng giá mới",
+      "kw2": [
+        "giá thuê tháng tiếp theo",
+        "bảng giá thay đổi khi đang thuê xe"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người thuê xe máy theo tháng ở Hà Nội",
+      "location_scope": "Hà Nội, thuê dài hạn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-013",
+      "child_id": "C-THUE-GIA",
+      "title": "Thấy hai bảng giá thuê xe máy khác nhau trên mạng: kiểm tra giá hiện hành của cửa hàng ở đâu",
+      "intent": "Biết cách xác định bảng giá thuê xe đang áp dụng khi gặp các mức giá cũ được chia sẻ lại trên mạng xã hội, diễn đàn hoặc trang khác, và hỏi lại cửa hàng cho chắc.",
+      "kw": "kiểm tra giá thuê xe máy hiện hành",
+      "kw2": [
+        "bảng giá thuê xe máy cũ",
+        "giá thuê xe trên mạng khác nhau"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người tìm hiểu giá thuê xe máy trên mạng trước khi đến Hà Nội",
+      "location_scope": "Hà Nội, tìm hiểu trực tuyến",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-014",
+      "child_id": "C-THUE-GIA",
+      "title": "Gói tuần thuê xe máy tính bảy ngày liên tục: nhận xe thứ mấy thì trả thứ mấy cho đúng",
+      "intent": "Hiểu cách đếm bảy ngày của gói thuê tuần theo ngày và giờ nhận xe, để hẹn ngày trả đúng hạn và không bị tính thêm ngày lẻ ngoài ý muốn.",
+      "kw": "gói tuần thuê xe máy tính thế nào",
+      "kw2": [
+        "thuê xe tuần nhận thứ mấy trả thứ mấy",
+        "cách đếm ngày gói tuần thuê xe"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người thuê xe máy theo tuần ở Hà Nội",
+      "location_scope": "Hà Nội, cửa hàng mở 09:00 đến 21:00",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-015",
+      "child_id": "C-THUE-GIA",
+      "title": "Tính tiền lần cuối khi trả xe máy thuê: đối chiếu số ngày, gói giá và khoản đã trả trước",
+      "intent": "Biết cách tự đối chiếu tổng tiền thuê khi trả xe: ngày nhận, ngày trả, gói đã chọn và số tiền đã thanh toán trước, để kết thúc kỳ thuê rõ ràng, không thắc mắc về sau.",
+      "kw": "tính tiền khi trả xe máy thuê",
+      "kw2": [
+        "đối chiếu tiền thuê xe khi trả",
+        "tổng tiền thuê xe máy cuối kỳ"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người sắp trả xe máy thuê ở Hà Nội",
+      "location_scope": "Hà Nội, trả xe tại cửa hàng Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-016",
+      "child_id": "C-THUE-GIA",
+      "title": "Hai người thay nhau lái một xe máy thuê: giá có khác không và cần báo cửa hàng những gì",
+      "intent": "Hiểu cần trao đổi gì với cửa hàng khi hai người cùng cầm lái một xe thuê, từ giá thuê, giấy tờ của người lái thứ hai đến trách nhiệm khi có sự cố.",
+      "kw": "hai người lái chung xe máy thuê",
+      "kw2": [
+        "thuê xe máy hai người lái",
+        "người lái thứ hai xe thuê"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "cặp đôi, bạn bè đi chung một xe máy thuê ở Hà Nội",
+      "location_scope": "Hà Nội, du lịch nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-017",
+      "child_id": "C-THUE-GIA",
+      "title": "Quá cảnh ở Hà Nội một ngày: có nên thuê xe máy đi phố cổ, tính tiền thuê và giờ trả xe ra sao",
+      "intent": "Quyết định có nên thuê xe máy trong một ngày dừng chân ở Hà Nội giữa hai chặng bay, tính tiền thuê theo giá ngày và lên giờ trả xe trước khi ra sân bay Nội Bài.",
+      "kw": "quá cảnh hà nội thuê xe máy",
+      "kw2": [
+        "thuê xe máy một ngày khi transit",
+        "dừng chân hà nội một ngày đi xe máy"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "khách quá cảnh có một ngày ở Hà Nội",
+      "location_scope": "Hà Nội, phố cổ Hoàn Kiếm và đường ra Nội Bài",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-018",
+      "child_id": "C-THUE-GIA",
+      "title": "Đặt xe rồi nhưng đến nhận muộn một ngày: ngày cửa hàng giữ xe có bị tính tiền thuê không",
+      "intent": "Biết cần báo cửa hàng thế nào và hỏi gì về tiền thuê khi lịch đến Hà Nội bị lùi một ngày sau khi đã đặt xe, để thống nhất ngày bắt đầu tính tiền.",
+      "kw": "đến nhận xe thuê muộn một ngày",
+      "kw2": [
+        "nhận xe máy thuê trễ có tính tiền",
+        "lùi ngày nhận xe máy thuê"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "khách đã đặt xe máy nhưng đổi lịch đến Hà Nội",
+      "location_scope": "Hà Nội, nhận xe tại cửa hàng hoặc điểm hẹn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-019",
+      "child_id": "C-THUE-GIA",
+      "title": "Thuê xe máy có sẵn baga hoặc thùng chở hàng: hỏi cửa hàng giá có khác và lắp thêm được không",
+      "intent": "Biết cách hỏi cửa hàng về baga, thùng chở hàng trên xe thuê, việc lắp thêm có được phép và có tính thêm vào giá thuê không, trước khi dùng xe chở hàng nhỏ.",
+      "kw": "thuê xe máy có baga chở hàng",
+      "kw2": [
+        "thuê xe máy lắp thùng chở hàng",
+        "xe thuê có baga sau không"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người buôn bán nhỏ, bán hàng online cần chở hàng ở Hà Nội",
+      "location_scope": "Hà Nội, các chợ đầu mối và nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-020",
+      "child_id": "C-THUE-GIA",
+      "title": "Đi làm khu công nghiệp Thăng Long, Bắc Thăng Long ở Đông Anh: tính tiền thuê xe máy theo tháng",
+      "intent": "Lên ngân sách thuê xe máy theo tháng cho người làm ở khu công nghiệp phía bắc sông Hồng, chọn dòng xe theo bảng giá và cộng thêm xăng, gửi xe cho quãng đi qua cầu Thăng Long, Nhật Tân.",
+      "kw": "thuê xe máy đi làm khu công nghiệp",
+      "kw2": [
+        "thuê xe máy đông anh theo tháng",
+        "công nhân thuê xe máy hà nội"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "công nhân, kỹ sư làm việc tại khu công nghiệp Đông Anh",
+      "location_scope": "Hà Nội, Đông Anh, cầu Thăng Long và cầu Nhật Tân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-021",
+      "child_id": "C-THUE-GIA",
+      "title": "Mang xe máy từ quê lên Hà Nội hay thuê tại chỗ: những khoản cần so trước khi quyết định",
+      "intent": "So sánh hai lựa chọn cho người mới lên Hà Nội học hoặc làm: gửi xe nhà từ quê lên hay thuê xe theo tháng, liệt kê các khoản cần hỏi giá và cách tự đối chiếu.",
+      "kw": "mang xe từ quê lên hà nội hay thuê",
+      "kw2": [
+        "gửi xe máy từ quê lên hà nội",
+        "có nên thuê xe máy khi lên hà nội"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "sinh viên, người đi làm từ tỉnh lên Hà Nội",
+      "location_scope": "Hà Nội và các tỉnh lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-022",
+      "child_id": "C-THUE-GIA",
+      "title": "Bán hoa dịp 20/10, 8/3: thuê thêm xe máy vài ngày cao điểm giao hàng, tính theo ngày hay gói tuần",
+      "intent": "Lên kế hoạch thuê thêm xe máy cho vài ngày giao hoa cao điểm dịp 20/10 hoặc 8/3, so giá ngày với gói tuần trên bảng giá và đặt xe sớm trước ngày đông đơn.",
+      "kw": "thuê xe máy giao hoa 20/10",
+      "kw2": [
+        "thuê xe máy ngắn ngày giao hàng",
+        "thuê thêm xe máy dịp cao điểm bán hàng"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người bán hoa và quà tặng online ở Hà Nội",
+      "location_scope": "Hà Nội, chợ hoa Quảng An và nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-023",
+      "child_id": "C-THUE-GIA",
+      "title": "Hè đưa đón con đi học bơi, học thêm: thuê xe máy theo tuần hay theo tháng cho vừa ngân sách",
+      "intent": "Tính chi phí thuê xe máy cho kỳ nghỉ hè đưa đón con đi học bơi, học thêm hằng ngày, chọn giữa gói tuần và gói tháng theo bảng giá và chọn xe chở trẻ an toàn.",
+      "kw": "thuê xe máy đưa con đi học hè",
+      "kw2": [
+        "thuê xe máy mùa hè đưa đón con",
+        "thuê xe tháng đưa con đi học bơi"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "phụ huynh ở Hà Nội cần xe tạm trong kỳ nghỉ hè",
+      "location_scope": "Hà Nội, quanh trường học và bể bơi nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-024",
+      "child_id": "C-THUE-GIA",
+      "title": "Từ tỉnh lên Hà Nội nộp hồ sơ, phỏng vấn visa: thuê xe máy một hai ngày và tính tiền theo bảng giá",
+      "intent": "Lên kế hoạch thuê xe máy ngắn ngày cho chuyến lên Hà Nội làm hồ sơ, phỏng vấn ở khu đại sứ quán Ba Đình, tính tiền thuê theo giá ngày và giờ nhận trả hợp với lịch hẹn.",
+      "kw": "thuê xe máy đi phỏng vấn visa",
+      "kw2": [
+        "thuê xe máy đi đại sứ quán hà nội",
+        "lên hà nội làm visa đi lại bằng xe máy"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "người từ tỉnh lên Hà Nội làm thủ tục visa, hồ sơ",
+      "location_scope": "Hà Nội, khu Ba Đình, Liễu Giai, Ngọc Khánh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-14-W3C-025",
+      "child_id": "C-THUE-GIA",
+      "title": "Muốn thuê đúng màu hoặc đúng bản xe tay ga: giá thuê có khác bảng giá chung không",
+      "intent": "Biết cách hỏi cửa hàng khi muốn một màu xe, bản khóa thông minh hay bản cụ thể của Vision, Air Blade, Click để chụp ảnh hoặc dùng quen tay, và giá có thay đổi theo bản xe không.",
+      "kw": "thuê xe máy chọn màu xe",
+      "kw2": [
+        "thuê xe ga đúng bản khóa thông minh",
+        "giá thuê xe theo phiên bản"
+      ],
+      "links": [
+        "/thue-xe/gia-thue/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-14-W3C",
+      "audience": "khách du lịch, người chụp ảnh và người quen tay một bản xe",
+      "location_scope": "Hà Nội, đặt xe trước chuyến đi",
       "word_target": 1200
     }
   ],
