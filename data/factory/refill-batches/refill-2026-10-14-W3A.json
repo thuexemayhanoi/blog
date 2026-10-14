@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3A: chu de that, tao boi writer W3 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-001",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Cát Bà bằng xe máy từ Hà Nội: qua cầu Tân Vũ – Lạch Huyện, phà Gót – Cái Viềng và chia hai ngày",
+   "intent": "Lên kế hoạch chạy xe máy từ Hà Nội ra đảo Cát Bà qua Hải Phòng, cầu Tân Vũ – Lạch Huyện và phà sang đảo, chia chặng hợp lý trong hai ngày.",
+   "kw": "đi Cát Bà bằng xe máy",
+   "kw2": [
+    "phà Gót Cái Viềng xe máy",
+    "Hà Nội Cát Bà hai ngày"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Nhóm bạn trẻ muốn ra đảo cuối tuần bằng xe máy tự lái",
+   "location_scope": "Hải Phòng, đảo Cát Hải và Cát Bà",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-002",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Hang Múa Ninh Bình bằng xe máy: leo bậc đá lên đỉnh, chọn giờ đi và gửi xe dưới chân núi",
+   "intent": "Biết cách chạy xe từ Hà Nội đến Hang Múa, chọn khung giờ leo bậc đá lên đỉnh ngắm Tam Cốc và gửi xe yên tâm trước khi leo.",
+   "kw": "Hang Múa bằng xe máy",
+   "kw2": [
+    "leo Hang Múa giờ nào đẹp",
+    "gửi xe Hang Múa"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người trẻ thích chụp ảnh từ trên cao và leo núi nhẹ",
+   "location_scope": "Hang Múa, Hoa Lư, Ninh Bình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-003",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Vườn chim Thung Nham Ninh Bình bằng xe máy: đến chiều để xem chim về tổ và về Hà Nội lúc nào",
+   "intent": "Biết cách đi xe máy đến vườn chim Thung Nham, canh giờ chiều để xem đàn chim bay về và tính giờ quay lại Hà Nội an toàn.",
+   "kw": "vườn chim Thung Nham xe máy",
+   "kw2": [
+    "Thung Nham Ninh Bình xem chim",
+    "đi Thung Nham từ Hà Nội"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Gia đình và người yêu thiên nhiên muốn xem chim hoang dã",
+   "location_scope": "Thung Nham, Hoa Lư, Ninh Bình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-004",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Kẽm Trống và chùa Địa Tạng Phi Lai bằng xe máy: một ngày ở Thanh Liêm, Hà Nam dọc quốc lộ 1",
+   "intent": "Lên kế hoạch một ngày chạy xe máy từ Hà Nội xuống Thanh Liêm ghé Kẽm Trống và chùa Địa Tạng Phi Lai, sắp xếp thứ tự và chỗ dừng xe.",
+   "kw": "Kẽm Trống chùa Địa Tạng Phi Lai",
+   "kw2": [
+    "đi chùa Địa Tạng Phi Lai bằng xe máy",
+    "Kẽm Trống Hà Nam"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người muốn một chuyến lễ chùa và ngắm cảnh sông núi gần Hà Nội",
+   "location_scope": "Thanh Liêm, Hà Nam cũ (nay thuộc Ninh Bình)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-005",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Ngũ Động Thi Sơn Kim Bảng bằng xe máy: năm hang núi đá vôi và cách ghép với chuyến Hà Nam",
+   "intent": "Biết đường đi xe máy từ Hà Nội đến khu Ngũ Động Thi Sơn ở Kim Bảng, xem gì ở các hang và ghép thêm điểm nào cho đủ một ngày.",
+   "kw": "Ngũ Động Thi Sơn xe máy",
+   "kw2": [
+    "đi Ngũ Động Thi Sơn Hà Nam",
+    "hang động Kim Bảng"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích khám phá hang động ít người biết gần Hà Nội",
+   "location_scope": "Thi Sơn, Kim Bảng, Hà Nam cũ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-006",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Biển Thịnh Long và nhà thờ đổ Hải Lý bằng xe máy: cuối tuần hai ngày ở Hải Hậu, Nam Định",
+   "intent": "Lên kế hoạch hai ngày chạy xe máy từ Hà Nội xuống Hải Hậu tắm biển Thịnh Long và ghé phế tích nhà thờ đổ Hải Lý, chia chặng đi về.",
+   "kw": "biển Thịnh Long bằng xe máy",
+   "kw2": [
+    "nhà thờ đổ Hải Lý xe máy",
+    "Hà Nội đi Hải Hậu cuối tuần"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Nhóm bạn và gia đình muốn biển gần, vắng hơn Đồ Sơn",
+   "location_scope": "Hải Hậu, Nam Định cũ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-007",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Vườn quốc gia Xuân Thủy và biển Quất Lâm bằng xe máy: xem chim di cư mùa đông ở Giao Thủy",
+   "intent": "Biết cách đi xe máy từ Hà Nội đến vườn quốc gia Xuân Thủy, chọn mùa xem chim di cư và ghép nghỉ đêm ở biển Quất Lâm.",
+   "kw": "vườn quốc gia Xuân Thủy xe máy",
+   "kw2": [
+    "biển Quất Lâm cuối tuần",
+    "xem chim di cư Xuân Thủy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người yêu thiên nhiên, nhiếp ảnh chim muốn đi hai ngày",
+   "location_scope": "Giao Thủy, Nam Định cũ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-008",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Biển Đồng Châu và Cồn Vành Thái Bình bằng xe máy: rừng phi lao, bãi bồi và đi về trong ngày",
+   "intent": "Biết đường chạy xe máy từ Hà Nội xuống Tiền Hải đến biển Đồng Châu và Cồn Vành, chọn đi về trong ngày hay ở lại một đêm.",
+   "kw": "biển Đồng Châu bằng xe máy",
+   "kw2": [
+    "Cồn Vành Thái Bình",
+    "Hà Nội đi biển Đồng Châu"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người muốn biển hoang sơ, yên tĩnh gần Hà Nội",
+   "location_scope": "Tiền Hải, Thái Bình cũ (nay thuộc Hưng Yên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-009",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Đền Trần Thái Bình ở Hưng Hà bằng xe máy: khu lăng mộ nhà Trần và khác gì đền Trần Nam Định",
+   "intent": "Hiểu sự khác nhau giữa đền Trần Thái Bình và đền Trần Nam Định, biết đường đi xe máy từ Hà Nội đến Hưng Hà và xem gì trong một ngày.",
+   "kw": "đền Trần Thái Bình xe máy",
+   "kw2": [
+    "đền Trần Hưng Hà",
+    "lăng mộ nhà Trần Thái Bình"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích lịch sử muốn tìm hiểu cội nguồn nhà Trần",
+   "location_scope": "Tiến Đức, Hưng Hà, Thái Bình cũ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-010",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Tân Trào Tuyên Quang bằng xe máy: đình Tân Trào, lán Nà Lừa, cây đa và hai ngày đi về",
+   "intent": "Lên kế hoạch hai ngày chạy xe máy từ Hà Nội lên khu di tích Tân Trào, biết thứ tự thăm đình, lán Nà Lừa, cây đa và chỗ nghỉ đêm.",
+   "kw": "Tân Trào bằng xe máy",
+   "kw2": [
+    "đi Tân Trào Tuyên Quang",
+    "khu di tích Tân Trào hai ngày"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích di tích cách mạng, gia đình có con tuổi học sinh",
+   "location_scope": "Tân Trào, Sơn Dương, Tuyên Quang",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-011",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Hang Phượng Hoàng và suối Mỏ Gà Võ Nhai bằng xe máy: leo hang, tắm suối và về trước tối",
+   "intent": "Biết cách đi xe máy từ Hà Nội đến hang Phượng Hoàng và suối Mỏ Gà ở Võ Nhai, chuẩn bị leo bậc vào hang và canh giờ quay về.",
+   "kw": "hang Phượng Hoàng suối Mỏ Gà",
+   "kw2": [
+    "đi Võ Nhai bằng xe máy",
+    "hang Phượng Hoàng Thái Nguyên"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Nhóm bạn trẻ thích hang động, suối mát mùa hè",
+   "location_scope": "Phú Thượng, Võ Nhai, Thái Nguyên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-012",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Suối Mỡ Lục Nam bằng xe máy: đền Suối Mỡ, tắm suối mùa hè và đường vào chân núi Huyền Đinh",
+   "intent": "Biết đường chạy xe máy từ Hà Nội đến khu Suối Mỡ ở Lục Nam, xem đền, tắm suối an toàn và chọn mùa đi hợp lý.",
+   "kw": "Suối Mỡ Bắc Giang xe máy",
+   "kw2": [
+    "đi Suối Mỡ Lục Nam",
+    "đền Suối Mỡ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Gia đình và nhóm bạn muốn suối mát cuối tuần gần Hà Nội",
+   "location_scope": "Nghĩa Phương, Lục Nam, Bắc Giang cũ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-013",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Đồi chè Long Cốc Phú Thọ bằng xe máy: ngủ lại để đón bình minh trên đồi chè hai ngày",
+   "intent": "Lên kế hoạch hai ngày chạy xe máy từ Hà Nội lên đồi chè Long Cốc ở Tân Sơn, ngủ lại để ngắm bình minh và chọn đường về an toàn.",
+   "kw": "đồi chè Long Cốc xe máy",
+   "kw2": [
+    "Hà Nội đi Long Cốc",
+    "săn mây đồi chè Long Cốc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người trẻ thích săn mây, chụp ảnh đồi chè",
+   "location_scope": "Long Cốc, Tân Sơn, Phú Thọ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-014",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Đầm Ao Châu và đền Mẫu Âu Cơ Hạ Hòa bằng xe máy: đi thuyền trên đầm và ghé đền một ngày",
+   "intent": "Biết cách đi xe máy từ Hà Nội lên Hạ Hòa, đi thuyền ngắm đầm Ao Châu và ghé đền Mẫu Âu Cơ, sắp xếp đủ trong một ngày hoặc ngủ lại.",
+   "kw": "đầm Ao Châu xe máy",
+   "kw2": [
+    "đền Mẫu Âu Cơ Hạ Hòa",
+    "đi Hạ Hòa Phú Thọ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích hồ nước, đền cổ và chuyến đi chậm",
+   "location_scope": "Hạ Hòa, Phú Thọ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-015",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Thành nhà Hồ Thanh Hóa bằng xe máy: di sản thế giới ở Vĩnh Lộc và chia hai ngày từ Hà Nội",
+   "intent": "Lên kế hoạch hai ngày chạy xe máy từ Hà Nội vào thành nhà Hồ ở Vĩnh Lộc, biết xem gì ở di sản và chọn điểm ngủ lại trên đường.",
+   "kw": "thành nhà Hồ bằng xe máy",
+   "kw2": [
+    "Hà Nội đi thành nhà Hồ",
+    "thành Tây Đô Vĩnh Lộc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích di sản, lịch sử muốn đi xa hơn Ninh Bình",
+   "location_scope": "Vĩnh Lộc, Thanh Hóa",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-016",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Suối cá thần Cẩm Lương bằng xe máy: đường qua Hòa Bình vào Cẩm Thủy và ghép với chuyến miền Tây Thanh Hóa",
+   "intent": "Biết đường đi xe máy từ Hà Nội đến suối cá thần Cẩm Lương, ứng xử đúng khi tham quan và cách ghép vào chuyến hai ngày.",
+   "kw": "suối cá thần Cẩm Lương xe máy",
+   "kw2": [
+    "đi suối cá Cẩm Thủy",
+    "Hà Nội đi Cẩm Lương"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Gia đình có trẻ nhỏ và người thích điểm lạ ở Thanh Hóa",
+   "location_scope": "Cẩm Lương, Cẩm Thủy, Thanh Hóa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-017",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Chùa Ngọa Vân và chùa Quỳnh Lâm Đông Triều bằng xe máy: theo dấu Trúc Lâm phía tây Yên Tử",
+   "intent": "Biết cách chạy xe máy từ Hà Nội đến Đông Triều thăm chùa Quỳnh Lâm và leo lên chùa Ngọa Vân, chọn giờ đi và chỗ gửi xe.",
+   "kw": "chùa Ngọa Vân xe máy",
+   "kw2": [
+    "chùa Quỳnh Lâm Đông Triều",
+    "đi Đông Triều bằng xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Phật tử và người thích chùa núi yên tĩnh",
+   "location_scope": "Đông Triều, Quảng Ninh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-018",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Tháp Bình Sơn Lập Thạch bằng xe máy: tháp gạch cổ ven sông Lô và nửa ngày ở Vĩnh Phúc",
+   "intent": "Biết đường đi xe máy từ Hà Nội đến tháp Bình Sơn ở Lập Thạch, hiểu giá trị của tháp và ghép thêm điểm gần để đủ nửa ngày.",
+   "kw": "tháp Bình Sơn xe máy",
+   "kw2": [
+    "đi tháp Bình Sơn Vĩnh Phúc",
+    "tháp gạch cổ Lập Thạch"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích kiến trúc cổ, nhiếp ảnh di tích",
+   "location_scope": "Tam Sơn, Lập Thạch, Vĩnh Phúc cũ (nay thuộc Phú Thọ)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-019",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Hồ Xạ Hương dưới chân Tam Đảo bằng xe máy: cắm trại ven hồ thay vì leo dốc lên thị trấn",
+   "intent": "Chọn hồ Xạ Hương làm điểm đi chơi cuối tuần cho người ngại leo dốc Tam Đảo, biết đường vào, chỗ dừng xe và lưu ý khi cắm trại ven hồ.",
+   "kw": "hồ Xạ Hương xe máy",
+   "kw2": [
+    "cắm trại hồ Xạ Hương",
+    "đi hồ Xạ Hương từ Hà Nội"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người lái xe chưa vững dốc, gia đình muốn cắm trại",
+   "location_scope": "Minh Quang, Tam Đảo, Vĩnh Phúc cũ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-020",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Suối Thanh Lanh Bình Xuyên bằng xe máy: đường vào khe suối, cắm trại và lưu ý mùa mưa lũ",
+   "intent": "Biết cách đi xe máy từ Hà Nội đến suối Thanh Lanh, đoạn đường vào bản, chỗ để xe và khi nào không nên tắm suối vì mưa lũ.",
+   "kw": "suối Thanh Lanh xe máy",
+   "kw2": [
+    "cắm trại Thanh Lanh",
+    "đi Thanh Lanh Vĩnh Phúc"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Nhóm bạn trẻ thích cắm trại, tắm suối gần Hà Nội",
+   "location_scope": "Trung Mỹ, Bình Xuyên, Vĩnh Phúc cũ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-021",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Chùa Phật Tích Tiên Du bằng xe máy: tượng A Di Đà thời Lý, dãy linh thú đá và đường từ Hà Nội",
+   "intent": "Biết đường chạy xe máy từ Hà Nội đến chùa Phật Tích, nên xem tượng A Di Đà và dãy linh thú đá thời Lý thế nào trong một buổi.",
+   "kw": "chùa Phật Tích bằng xe máy",
+   "kw2": [
+    "đi chùa Phật Tích Bắc Ninh",
+    "chùa Phật Tích Tiên Du"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích mỹ thuật cổ và di tích thời Lý",
+   "location_scope": "Phật Tích, Tiên Du, Bắc Ninh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-022",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Đền Bà Chúa Kho bằng xe máy đầu năm: chọn ngày vắng, gửi xe và giữ đồ lúc đông người",
+   "intent": "Biết cách đi xe máy từ Hà Nội đến đền Bà Chúa Kho dịp đầu năm, chọn ngày giờ đỡ đông, gửi xe nơi rõ ràng và giữ an toàn tài sản.",
+   "kw": "đền Bà Chúa Kho bằng xe máy",
+   "kw2": [
+    "đi đền Bà Chúa Kho đầu năm",
+    "gửi xe đền Bà Chúa Kho"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người kinh doanh, gia đình đi lễ đầu năm",
+   "location_scope": "Cổ Mễ, Bắc Ninh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-023",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Làng quan họ Diềm bằng xe máy: đền Vua Bà, giếng Ngọc và nghe quan họ ở Viêm Xá, Bắc Ninh",
+   "intent": "Biết đường đi xe máy từ Hà Nội đến làng Diềm, nơi được coi là làng quan họ gốc, xem đền Vua Bà, giếng Ngọc và khi nào có thể nghe hát.",
+   "kw": "làng quan họ Diềm xe máy",
+   "kw2": [
+    "đi làng Diềm Bắc Ninh",
+    "làng Viêm Xá quan họ"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người yêu văn hóa dân gian, khách muốn nghe quan họ",
+   "location_scope": "Hòa Long, Bắc Ninh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-024",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Làng gốm Thổ Hà Việt Yên bằng xe máy: qua sông Cầu vào làng cổ và khác Bát Tràng thế nào",
+   "intent": "Biết cách chạy xe máy từ Hà Nội đến làng cổ Thổ Hà bên sông Cầu, đường vào làng, xem đình, nhà cổ và hiểu khác biệt với Bát Tràng.",
+   "kw": "làng gốm Thổ Hà xe máy",
+   "kw2": [
+    "đi làng Thổ Hà Bắc Giang",
+    "làng cổ Thổ Hà"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Người thích làng cổ, gốm và nhiếp ảnh kiến trúc",
+   "location_scope": "Vân Hà, Việt Yên, Bắc Giang cũ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3A-025",
+   "child_id": "C-CD-CUOI-TUAN",
+   "title": "Đảo cò Chi Lăng Nam Thanh Miện bằng xe máy: đi thuyền ngắm cò lúc chiều và đường về Hà Nội",
+   "intent": "Biết đường đi xe máy từ Hà Nội đến đảo cò Chi Lăng Nam, chọn mùa và giờ chiều để xem cò về tổ, rồi quay lại Hà Nội trước khi quá muộn.",
+   "kw": "đảo cò Chi Lăng Nam",
+   "kw2": [
+    "đi đảo cò Thanh Miện",
+    "đảo cò Hải Dương xe máy"
+   ],
+   "links": [
+    "/cung-duong/cung-duong-cuoi-tuan/",
+    "/cung-duong/"
+   ],
+   "subtopic": "refill-2026-10-14-W3A",
+   "audience": "Gia đình có trẻ nhỏ và người thích xem chim",
+   "location_scope": "Chi Lăng Nam, Thanh Miện, Hải Dương cũ",
+   "word_target": 1200
+  }
+ ]
+}
