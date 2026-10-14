@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2S: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-001",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Chùa Mía ở Sơn Tây bằng xe máy: xem tượng cổ, gửi xe và ghép với làng Đường Lâm",
+   "intent": "Lên kế hoạch đi chùa Mía bằng xe máy từ Hà Nội: hướng chạy lên Sơn Tây, chỗ để xe, cách xem chùa và nối tiếp vào làng cổ.",
+   "kw": "chùa Mía bằng xe máy",
+   "kw2": [
+    "chùa Mía Sơn Tây",
+    "đường đi chùa Mía"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người thích chùa cổ, đi cuối tuần",
+   "location_scope": "Sơn Tây, Đường Lâm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-002",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Chùa Đậu ở Thường Tín bằng xe máy: đi theo quốc lộ 1A cũ và lưu ý khi vào chùa",
+   "intent": "Biết cách chạy xe máy xuống chùa Đậu ở Thường Tín: hướng đi từ nội thành, đoạn rẽ vào đường làng, chỗ để xe và ứng xử khi tham quan.",
+   "kw": "chùa Đậu Thường Tín xe máy",
+   "kw2": [
+    "đi chùa Đậu",
+    "chùa Đậu ở đâu"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người đi lễ, khách tìm hiểu chùa cổ",
+   "location_scope": "Thường Tín, Thanh Trì, Hoàng Mai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-003",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Chùa Bối Khê ở Thanh Oai bằng xe máy: cung đường qua Hà Đông và chỗ dừng xe",
+   "intent": "Lên lộ trình xe máy từ phố đến chùa Bối Khê ở Thanh Oai: chọn đường qua Hà Đông, chỗ dừng xe trong khuôn viên và giờ nên đến.",
+   "kw": "chùa Bối Khê bằng xe máy",
+   "kw2": [
+    "chùa Bối Khê Thanh Oai",
+    "đường đến chùa Bối Khê"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người đi chùa, nhóm bạn đi nửa ngày",
+   "location_scope": "Thanh Oai, Hà Đông",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-004",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng tiện gỗ Nhị Khê ở Thường Tín bằng xe máy: xem thợ tiện và mua đồ gỗ nhỏ",
+   "intent": "Hiểu làng tiện Nhị Khê có gì để xem, cách chạy xe máy tới, nơi để xe và cách chọn đồ gỗ tiện nhỏ gọn chở về trên xe.",
+   "kw": "làng tiện Nhị Khê",
+   "kw2": [
+    "làng nghề Nhị Khê Thường Tín",
+    "đồ gỗ tiện Nhị Khê"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người mê đồ thủ công, khách chụp ảnh làng nghề",
+   "location_scope": "Thường Tín",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-005",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng tạc tượng Sơn Đồng ở Hoài Đức bằng xe máy: đường vào làng và cách xem xưởng",
+   "intent": "Biết cách đi xe máy đến làng tạc tượng Sơn Đồng: hướng qua Đại lộ Thăng Long hoặc quốc lộ 32, chỗ dừng xe và cách ghé xưởng mà không làm phiền thợ.",
+   "kw": "làng tạc tượng Sơn Đồng",
+   "kw2": [
+    "làng Sơn Đồng Hoài Đức",
+    "đi Sơn Đồng bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người quan tâm mỹ thuật dân gian",
+   "location_scope": "Hoài Đức, Nam Từ Liêm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-006",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng gốm Kim Lan ở Gia Lâm bằng xe máy: chạy đường đê và tránh nhầm với Bát Tràng",
+   "intent": "Lên kế hoạch thăm làng gốm Kim Lan bằng xe máy: đi theo đê tả ngạn sông Hồng, phân biệt với Bát Tràng, chỗ để xe và nơi xem gốm.",
+   "kw": "làng gốm Kim Lan",
+   "kw2": [
+    "đi Kim Lan Gia Lâm",
+    "làng gốm cổ Kim Lan"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người thích gốm, khách muốn chỗ vắng hơn Bát Tràng",
+   "location_scope": "Gia Lâm, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-007",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng Cựu ở Phú Xuyên bằng xe máy: ngắm dãy nhà Tây cổ giữa làng quê phía nam",
+   "intent": "Biết cách đi xe máy xuống làng Cựu ở Phú Xuyên để xem các ngôi nhà kiến trúc Pháp: lộ trình, chỗ để xe và cách đi dạo trong làng lịch sự.",
+   "kw": "làng Cựu Phú Xuyên",
+   "kw2": [
+    "nhà Tây cổ làng Cựu",
+    "làng Cựu Vân Từ"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người thích kiến trúc cổ, nhóm chụp ảnh",
+   "location_scope": "Phú Xuyên, Thường Tín",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-008",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng tò he Xuân La ở Phú Xuyên bằng xe máy: đưa trẻ con đi xem nặn tò he",
+   "intent": "Lên kế hoạch đưa trẻ nhỏ đi xe máy xuống làng tò he Xuân La: quãng đường hợp sức trẻ, giờ nên đến, chỗ dừng xe và cách xem nghệ nhân nặn.",
+   "kw": "làng tò he Xuân La",
+   "kw2": [
+    "đi Xuân La Phú Xuyên",
+    "làng nặn tò he Hà Nội"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "bố mẹ có con nhỏ",
+   "location_scope": "Phú Xuyên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-009",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng nhạc cụ Đào Xá ở Ứng Hòa bằng xe máy: xem làm đàn dân tộc và chở đàn về",
+   "intent": "Hiểu làng Đào Xá làm những nhạc cụ nào, cách chạy xe máy xuống Ứng Hòa, chỗ để xe và cách chằng đàn mua về sao cho không va đập.",
+   "kw": "làng nhạc cụ Đào Xá",
+   "kw2": [
+    "làng làm đàn Đào Xá",
+    "nhạc cụ dân tộc Ứng Hòa"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người chơi nhạc cụ dân tộc, phụ huynh học đàn",
+   "location_scope": "Ứng Hòa, Thanh Oai",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-010",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng rối nước Đào Thục ở Đông Anh bằng xe máy: xem rối ở làng thay vì ở phố",
+   "intent": "Biết cách đi xe máy sang làng rối nước Đào Thục ở Đông Anh: qua cầu nào, đường vào làng, chỗ để xe và nên hỏi lịch biểu diễn trước ra sao.",
+   "kw": "làng rối nước Đào Thục",
+   "kw2": [
+    "rối nước Đông Anh",
+    "đi Đào Thục bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "gia đình, khách muốn xem rối nước kiểu làng",
+   "location_scope": "Đông Anh, Tây Hồ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-011",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền Sái ở Đông Anh bằng xe máy: đường lên núi Sái, gửi xe và mùa lễ hội tháng Giêng",
+   "intent": "Lên kế hoạch đi đền Sái bằng xe máy: hướng qua cầu Nhật Tân hoặc Thăng Long, chỗ gửi xe dưới chân núi và lưu ý khi đi dịp lễ hội đầu năm.",
+   "kw": "đền Sái Đông Anh",
+   "kw2": [
+    "đi đền Sái bằng xe máy",
+    "núi Sái Thụy Lâm"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người đi lễ đầu năm",
+   "location_scope": "Đông Anh, Tây Hồ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-012",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đình Tây Đằng ở Ba Vì bằng xe máy: ghé ngôi đình gỗ cổ trên đường lên núi",
+   "intent": "Biết cách ghép đình Tây Đằng vào chuyến xe máy lên Ba Vì: vị trí trên đường đi, chỗ dừng xe và cách xem kiến trúc gỗ của đình.",
+   "kw": "đình Tây Đằng Ba Vì",
+   "kw2": [
+    "đình cổ Tây Đằng",
+    "đi đình Tây Đằng"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người mê kiến trúc đình làng",
+   "location_scope": "Ba Vì, Sơn Tây",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-013",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đình Thụy Phiêu ở Ba Vì bằng xe máy: tìm đường vào làng và xem đình làng cổ",
+   "intent": "Lên lộ trình xe máy tới đình Thụy Phiêu ở Ba Vì: đường làng dẫn vào, chỗ để xe, ứng xử trong đình và nối với các điểm Ba Vì khác.",
+   "kw": "đình Thụy Phiêu",
+   "kw2": [
+    "đình Thụy Phiêu Ba Vì",
+    "đình làng cổ Ba Vì"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người tìm hiểu đình làng Bắc Bộ",
+   "location_scope": "Ba Vì",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-014",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Hồ Xuân Khanh ở Sơn Tây bằng xe máy: đường ven hồ, chỗ dừng chân và giờ đẹp",
+   "intent": "Biết cách chạy xe máy ra hồ Xuân Khanh: hướng từ trung tâm Sơn Tây, đoạn đường ven hồ, chỗ dừng xe an toàn và buổi nào ngắm hồ đẹp.",
+   "kw": "hồ Xuân Khanh Sơn Tây",
+   "kw2": [
+    "đi hồ Xuân Khanh",
+    "hồ Xuân Khanh bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "nhóm bạn đi dã ngoại cuối tuần",
+   "location_scope": "Sơn Tây, Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-015",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền Chèm ở Thụy Phương bằng xe máy: chạy ven đê phía bắc và gửi xe ngày rằm",
+   "intent": "Lên kế hoạch đi đền Chèm bằng xe máy: đường theo đê sông Hồng từ phía Tây Hồ, chỗ gửi xe và lưu ý khi đi ngày rằm, mùng một đông người.",
+   "kw": "đền Chèm bằng xe máy",
+   "kw2": [
+    "đình Chèm Bắc Từ Liêm",
+    "đường đến đền Chèm"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người đi lễ, khách thích đình đền cổ",
+   "location_scope": "Bắc Từ Liêm, Tây Hồ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-016",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng thêu Quất Động ở Thường Tín bằng xe máy: xem tranh thêu tay và mua quà nhỏ",
+   "intent": "Hiểu làng thêu Quất Động có gì đáng xem, cách đi xe máy theo hướng nam, chỗ để xe và cách chọn đồ thêu gọn nhẹ để chở về.",
+   "kw": "làng thêu Quất Động",
+   "kw2": [
+    "đi Quất Động bằng xe máy",
+    "tranh thêu Quất Động"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người thích đồ thủ công, khách mua quà",
+   "location_scope": "Thường Tín",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-017",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng bánh chưng Tranh Khúc ở Thanh Trì bằng xe máy: đi dịp cận Tết và chở bánh",
+   "intent": "Biết cách đi xe máy vào làng bánh chưng Tranh Khúc dịp cận Tết: đường vào làng ven sông Hồng, giờ đông người và cách buộc bánh chưng lên xe.",
+   "kw": "làng bánh chưng Tranh Khúc",
+   "kw2": [
+    "mua bánh chưng Tranh Khúc",
+    "đi Tranh Khúc Thanh Trì"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "gia đình mua bánh Tết, người ở xa quê",
+   "location_scope": "Thanh Trì, Hoàng Mai",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-018",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Lăng Ngô Quyền ở Đường Lâm bằng xe máy: tìm đường vào lăng và để xe ở đâu",
+   "intent": "Lên kế hoạch thăm lăng Ngô Quyền bằng xe máy: vị trí trong làng Đường Lâm, đường vào, chỗ để xe và cách ghép với đền thờ Phùng Hưng gần đó.",
+   "kw": "lăng Ngô Quyền Đường Lâm",
+   "kw2": [
+    "đi lăng Ngô Quyền",
+    "lăng Ngô Quyền Sơn Tây"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người yêu lịch sử, học sinh sinh viên",
+   "location_scope": "Sơn Tây, Đường Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-019",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Nhà thờ đổ trên núi Ba Vì bằng xe máy: đường lên cốt 400 và đoạn đi bộ trong rừng",
+   "intent": "Biết cách đi xe máy lên khu nhà thờ đổ trong vườn quốc gia Ba Vì: chạy tới đâu thì gửi xe, đoạn đi bộ trong rừng và chuẩn bị gì để an toàn.",
+   "kw": "nhà thờ đổ Ba Vì",
+   "kw2": [
+    "đường lên nhà thờ đổ Ba Vì",
+    "nhà thờ đổ cốt 400"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "nhóm bạn trẻ, người chụp ảnh",
+   "location_scope": "Ba Vì",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-020",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền Thượng trên núi Ba Vì: chạy xe máy tới đâu, gửi xe chỗ nào và leo bậc đá",
+   "intent": "Lên kế hoạch lên đền Thượng Ba Vì: đoạn nào chạy xe máy được, nơi để xe trước khi leo bậc đá, sức đi bộ cần có và giờ xuống núi.",
+   "kw": "đền Thượng Ba Vì",
+   "kw2": [
+    "leo đền Thượng Ba Vì",
+    "đường lên đền Thượng"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người đi lễ, khách thích leo núi nhẹ",
+   "location_scope": "Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-021",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Bãi đá sông Hồng ở Long Biên bằng xe máy: đường xuống bãi, mùa hoa và chỗ để xe",
+   "intent": "Biết cách đi xe máy ra bãi đá sông Hồng: lối từ chân cầu Nhật Tân hoặc đê Ngọc Thụy, chỗ để xe, mùa hoa đẹp và lưu ý đường đất khi trời mưa.",
+   "kw": "bãi đá sông Hồng",
+   "kw2": [
+    "đường ra bãi đá sông Hồng",
+    "bãi đá sông Hồng chụp ảnh"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người trẻ chụp ảnh, gia đình đi dã ngoại",
+   "location_scope": "Long Biên, Tây Hồ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-022",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đền Bà Tấm ở Gia Lâm bằng xe máy: cung đường qua Long Biên và lễ hội tháng Hai",
+   "intent": "Lên kế hoạch đi đền Bà Tấm ở Dương Xá bằng xe máy: hướng qua cầu Chương Dương hoặc Vĩnh Tuy, chỗ để xe và lưu ý khi đi dịp lễ hội.",
+   "kw": "đền Bà Tấm Gia Lâm",
+   "kw2": [
+    "đi đền Bà Tấm",
+    "đền Bà Tấm Dương Xá"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người đi lễ, gia đình",
+   "location_scope": "Gia Lâm, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-023",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng sừng Thụy Ứng ở Thường Tín bằng xe máy: xem làm lược sừng và đồ mỹ nghệ",
+   "intent": "Hiểu làng sừng Thụy Ứng làm sản phẩm gì, cách chạy xe máy tới làng, chỗ để xe và cách hỏi mua lược sừng tại xưởng.",
+   "kw": "làng sừng Thụy Ứng",
+   "kw2": [
+    "lược sừng Thụy Ứng",
+    "làng nghề sừng Thường Tín"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người thích đồ mỹ nghệ, khách mua quà",
+   "location_scope": "Thường Tín",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-024",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng may Trạch Xá ở Ứng Hòa bằng xe máy: xem may áo dài và đường đi phía nam",
+   "intent": "Biết cách đi xe máy về làng may Trạch Xá ở Ứng Hòa: lộ trình phía nam Hà Nội, chỗ để xe và cách ghé xem các hộ may áo dài.",
+   "kw": "làng may Trạch Xá",
+   "kw2": [
+    "áo dài Trạch Xá",
+    "đi Trạch Xá Ứng Hòa"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người thích áo dài truyền thống",
+   "location_scope": "Ứng Hòa, Thanh Oai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2S-025",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Làng hoa Mê Linh bằng xe máy: qua cầu Thăng Long, vào vườn hoa và chở hoa về",
+   "intent": "Lên kế hoạch chạy xe máy lên làng hoa Mê Linh: đường qua cầu Thăng Long, cách vào vườn hỏi mua, mùa hoa và buộc hoa trên xe để không dập.",
+   "kw": "làng hoa Mê Linh",
+   "kw2": [
+    "đi làng hoa Mê Linh",
+    "mua hoa Mê Linh bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2S",
+   "audience": "người mua hoa, nhóm chụp ảnh",
+   "location_scope": "Mê Linh, Bắc Từ Liêm",
+   "word_target": 1300
+  }
+ ]
+}

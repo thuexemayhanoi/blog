@@ -1,0 +1,446 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2T: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-001",
+   "child_id": "C-LONG-BIEN",
+   "title": "Bãi giữa sông Hồng dưới chân cầu Long Biên: lối xuống, đi dạo vườn chuối và để xe máy ở đâu",
+   "intent": "Biết cách đến bãi giữa sông Hồng bằng xe máy: tìm lối xuống từ cầu Long Biên, chỗ để xe, đi dạo bãi bồi và lưu ý khi nước lên.",
+   "kw": "bãi giữa sông Hồng",
+   "kw2": [
+    "bãi giữa cầu Long Biên",
+    "vườn chuối bãi giữa sông Hồng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách thích chụp ảnh và khám phá chỗ ít người biết",
+   "location_scope": "bãi giữa sông Hồng, chân cầu Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-002",
+   "child_id": "C-LONG-BIEN",
+   "title": "Ăn vặt phố Ngọc Lâm buổi chiều bằng xe máy: dạo quán ven phố và dừng xe sao cho gọn",
+   "intent": "Lên kế hoạch một buổi chiều ăn vặt ở phố Ngọc Lâm: chạy xe từ đầu cầu Long Biên vào, dừng ở quán vỉa hè và để xe không cản lối.",
+   "kw": "ăn vặt phố Ngọc Lâm",
+   "kw2": [
+    "quán ăn Ngọc Lâm Long Biên",
+    "phố Ngọc Lâm buổi chiều"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách du lịch và người trẻ thích ăn đường phố",
+   "location_scope": "phố Ngọc Lâm, phường Ngọc Lâm, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-003",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Bồ Đề bên bờ sông Hồng: đi xe máy từ phố cổ, giờ viếng và cách ăn mặc khi vào chùa",
+   "intent": "Hiểu cách viếng chùa Bồ Đề ở Long Biên bằng xe máy: đường qua cầu, chỗ để xe trong ngõ, khung giờ yên tĩnh và trang phục phù hợp nơi thờ tự.",
+   "kw": "chùa Bồ Đề Long Biên",
+   "kw2": [
+    "viếng chùa Bồ Đề",
+    "chùa Bồ Đề đi xe máy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách muốn thăm chùa cổ gần trung tâm",
+   "location_scope": "phường Bồ Đề, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-004",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đền Ghềnh ở Bồ Đề: tìm đường vào bằng xe máy từ chân cầu Chương Dương và lưu ý khi đi lễ",
+   "intent": "Biết cách tìm đường vào Đền Ghềnh bằng xe máy từ phía cầu Chương Dương, nơi dừng xe và nếp ứng xử khi đi lễ đền thờ Mẫu.",
+   "kw": "Đền Ghềnh Long Biên",
+   "kw2": [
+    "đường vào Đền Ghềnh",
+    "đi lễ Đền Ghềnh"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "người đi lễ đền và khách thích tín ngưỡng thờ Mẫu",
+   "location_scope": "phường Bồ Đề, gần cầu Chương Dương",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-005",
+   "child_id": "C-LONG-BIEN",
+   "title": "Làng rau Văn Đức ven sông Hồng: chạy xe máy qua đê Gia Lâm ngắm cánh đồng rau bãi",
+   "intent": "Khám phá làng trồng rau Văn Đức bằng xe máy: đường đê dẫn vào, những đoạn đường bê tông nhỏ giữa ruộng và cách đi không làm phiền người làm vườn.",
+   "kw": "làng rau Văn Đức",
+   "kw2": [
+    "Văn Đức Gia Lâm",
+    "cánh đồng rau ven sông Hồng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách thích cảnh đồng quê gần Hà Nội",
+   "location_scope": "xã Văn Đức, Gia Lâm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-006",
+   "child_id": "C-LONG-BIEN",
+   "title": "Vinhomes Riverside Long Biên bằng xe máy: đi dạo dọc kênh, cổng vào và chỗ gửi xe cho khách",
+   "intent": "Lên kế hoạch đi dạo khu Vinhomes Riverside bằng xe máy: chọn cổng vào, tìm chỗ gửi xe cho khách vãng lai và các đoạn đi bộ ven kênh nên ghé.",
+   "kw": "Vinhomes Riverside Long Biên",
+   "kw2": [
+    "đi dạo Vinhomes Riverside",
+    "gửi xe Vinhomes Riverside"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "gia đình và cặp đôi muốn đi dạo cuối tuần",
+   "location_scope": "khu Vinhomes Riverside, Phúc Lợi, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-007",
+   "child_id": "C-LONG-BIEN",
+   "title": "Savico Megamall Long Biên bằng xe máy: lối vào bãi xe, giờ đông và kết hợp đi đâu sau đó",
+   "intent": "Biết cách đến Savico Megamall bằng xe máy: hướng vào bãi gửi xe từ đường Nguyễn Văn Linh, tránh giờ đông và ghé điểm gần đó sau khi mua sắm.",
+   "kw": "Savico Megamall xe máy",
+   "kw2": [
+    "gửi xe Savico Long Biên",
+    "đường đến Savico Megamall"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách mua sắm và gia đình ở phía đông Hà Nội",
+   "location_scope": "đường Nguyễn Văn Linh, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-008",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chợ Sủi ở Phú Thị, Gia Lâm: đi xe máy tới phiên chợ quê cổ và chỗ để xe quanh chợ",
+   "intent": "Khám phá chợ Sủi, một chợ quê lâu đời ở Phú Thị: đường đi từ Long Biên bằng xe máy, cách để xe ngoài chợ và đi chợ không chen lấn.",
+   "kw": "chợ Sủi Gia Lâm",
+   "kw2": [
+    "chợ Sủi Phú Thị",
+    "đi chợ quê gần Hà Nội"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách thích chợ quê và văn hóa làng",
+   "location_scope": "xã Phú Thị, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-009",
+   "child_id": "C-LONG-BIEN",
+   "title": "Qua cầu Đuống bằng xe máy: chọn cầu cũ hay cầu mới và hướng rẽ về Đức Giang, Yên Viên",
+   "intent": "Hiểu cách qua sông Đuống bằng xe máy giữa Long Biên và phía bắc: phân biệt cầu Đuống cũ với cầu mới, làn dành cho xe máy và chỗ rẽ về Đức Giang, Yên Viên.",
+   "kw": "qua cầu Đuống bằng xe máy",
+   "kw2": [
+    "cầu Đuống cũ và mới",
+    "cầu Đuống đi Đức Giang"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách đi từ Long Biên lên Gia Lâm phía bắc",
+   "location_scope": "cầu Đuống, Đức Giang, Yên Viên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-010",
+   "child_id": "C-LONG-BIEN",
+   "title": "Hội Gióng ở đền Phù Đổng tháng Tư âm lịch: đi xe máy ngày hội, gửi xe và tránh dòng người",
+   "intent": "Lên kế hoạch đi xem hội Gióng Phù Đổng bằng xe máy: xuất phát sớm, gửi xe xa khu lễ, đi bộ vào và giữ đồ trong ngày đông người.",
+   "kw": "hội Gióng Phù Đổng",
+   "kw2": [
+    "xem hội Gióng bằng xe máy",
+    "lễ hội đền Phù Đổng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách muốn xem lễ hội truyền thống",
+   "location_scope": "xã Phù Đổng, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-011",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chợ vải Ninh Hiệp bằng xe máy: đường lên Gia Lâm, giờ chợ sáng và chở hàng về an toàn",
+   "intent": "Biết cách đi chợ vải Ninh Hiệp bằng xe máy: đường từ Long Biên lên, nên đến lúc nào, gửi xe ở đâu và buộc kiện vải trên xe cho chắc.",
+   "kw": "chợ vải Ninh Hiệp",
+   "kw2": [
+    "đi Ninh Hiệp bằng xe máy",
+    "chở vải Ninh Hiệp"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "người buôn bán nhỏ và khách mua vải",
+   "location_scope": "xã Ninh Hiệp, Gia Lâm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-012",
+   "child_id": "C-LONG-BIEN",
+   "title": "Cà phê ven đê Ngọc Thụy nhìn sông Hồng: chạy xe máy tìm quán và để xe trên đê",
+   "intent": "Chọn quán cà phê ven đê Ngọc Thụy có tầm nhìn sông Hồng, biết cách dừng xe an toàn trên mặt đê hẹp và đi giờ nào để ngắm cảnh.",
+   "kw": "cà phê ven đê Ngọc Thụy",
+   "kw2": [
+    "cafe view sông Hồng Long Biên",
+    "quán cà phê Ngọc Thụy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "người trẻ và khách thích chỗ ngồi yên tĩnh",
+   "location_scope": "đê Ngọc Thụy, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-013",
+   "child_id": "C-LONG-BIEN",
+   "title": "Ăn tối ở Đức Giang bằng xe máy: phố Ngô Gia Tự, quán quen người địa phương và chỗ đỗ xe",
+   "intent": "Lên kế hoạch một bữa tối ở khu Đức Giang: chạy xe dọc Ngô Gia Tự, chọn quán đông người địa phương và đỗ xe gọn trên vỉa hè hẹp.",
+   "kw": "ăn tối Đức Giang",
+   "kw2": [
+    "quán ăn Ngô Gia Tự",
+    "Đức Giang buổi tối"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách ở khu đông Hà Nội tìm chỗ ăn tối",
+   "location_scope": "phường Đức Giang, phố Ngô Gia Tự",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-014",
+   "child_id": "C-LONG-BIEN",
+   "title": "Xem tàu hỏa chạy qua cầu Long Biên: đi xe máy tới điểm ngắm và đứng chờ ở đâu cho an toàn",
+   "intent": "Biết cách ngắm tàu hỏa đi qua cầu Long Biên: tra lịch tàu trên kênh chính thức, chọn điểm đứng ngoài hành lang an toàn đường sắt và để xe không vướng lối.",
+   "kw": "xem tàu qua cầu Long Biên",
+   "kw2": [
+    "tàu hỏa cầu Long Biên",
+    "ngắm tàu chạy trên cầu"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách du lịch và người mê đường sắt",
+   "location_scope": "cầu Long Biên, hai đầu cầu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-015",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chụp ảnh cầu Long Biên bằng xe máy: góc từ đê Ngọc Thụy, bãi giữa và chân cầu phía Gia Lâm",
+   "intent": "Tìm các góc chụp ảnh cầu Long Biên bằng xe máy: di chuyển giữa các điểm ở phía Long Biên, dừng xe ở chỗ cho phép và tránh đứng giữa lòng cầu.",
+   "kw": "chụp ảnh cầu Long Biên",
+   "kw2": [
+    "góc chụp cầu Long Biên",
+    "điểm chụp ảnh Long Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "người chụp ảnh và khách chụp kỷ niệm",
+   "location_scope": "cầu Long Biên, Ngọc Thụy, bãi giữa",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-016",
+   "child_id": "C-LONG-BIEN",
+   "title": "Nặn gốm ở Bát Tràng nửa ngày: chọn xưởng trải nghiệm, mang đồ gì và chạy xe về khi sản phẩm còn ướt",
+   "intent": "Lên kế hoạch buổi nặn gốm ở Bát Tràng: chọn xưởng có lớp trải nghiệm, chuẩn bị quần áo, hỏi việc nung và nhận sản phẩm, rồi chạy xe máy về an toàn.",
+   "kw": "nặn gốm Bát Tràng",
+   "kw2": [
+    "trải nghiệm làm gốm Bát Tràng",
+    "xưởng nặn gốm Bát Tràng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "gia đình có trẻ em và nhóm bạn trẻ",
+   "location_scope": "làng gốm Bát Tràng, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-018",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đi bộ trên cầu Long Biên: gửi xe máy ở đầu cầu nào, lên lối bộ hành từ đâu và đi bao lâu",
+   "intent": "Biết cách đi bộ trên cầu Long Biên: chọn chỗ gửi xe máy ở một đầu cầu, tìm lối lên phần đường bộ hành và tự ước thời gian đi bộ qua lại.",
+   "kw": "đi bộ cầu Long Biên",
+   "kw2": [
+    "gửi xe đi bộ cầu Long Biên",
+    "lối lên cầu Long Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách du lịch muốn đi bộ ngắm sông Hồng",
+   "location_scope": "cầu Long Biên, phía Hoàn Kiếm và phía Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-019",
+   "child_id": "C-LONG-BIEN",
+   "title": "Bảo tàng gốm Bát Tràng bằng xe máy: tìm tòa nhà, gửi xe và xem trưng bày trong một buổi",
+   "intent": "Lên kế hoạch tham quan bảo tàng gốm ở Bát Tràng: đường vào bằng xe máy, chỗ gửi xe, cách xem trưng bày gốm và kết hợp dạo làng sau đó.",
+   "kw": "bảo tàng gốm Bát Tràng",
+   "kw2": [
+    "tham quan bảo tàng gốm",
+    "Bát Tràng có gì tham quan"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách thích văn hóa và kiến trúc mới",
+   "location_scope": "làng gốm Bát Tràng, Gia Lâm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-020",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đường Cổ Linh buổi tối: chạy xe dọc dải quán ăn, cà phê và đỗ xe cạnh trục đường lớn",
+   "intent": "Biết cách tận hưởng buổi tối trên đường Cổ Linh: chọn quán ăn và cà phê dọc tuyến, vào ra làn đường gom an toàn và đỗ xe đúng chỗ.",
+   "kw": "đường Cổ Linh buổi tối",
+   "kw2": [
+    "quán ăn Cổ Linh",
+    "cà phê Cổ Linh Long Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "người trẻ và gia đình ở phía đông Hà Nội",
+   "location_scope": "đường Cổ Linh, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-021",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đình Ái Mộ và đình Gia Thụy: hai di tích làng cổ giữa phố Long Biên đi bằng xe máy",
+   "intent": "Khám phá hai ngôi đình cổ ở Long Biên trong một buổi: lộ trình nối đình Ái Mộ với đình Gia Thụy, chỗ dừng xe trước cổng và cách tham quan đúng mực.",
+   "kw": "đình Ái Mộ Long Biên",
+   "kw2": [
+    "đình Gia Thụy",
+    "di tích làng cổ Long Biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách yêu kiến trúc đình làng Bắc Bộ",
+   "location_scope": "phường Bồ Đề và Gia Thụy, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-022",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chạy xe dọc đê sông Đuống phía Gia Lâm: làng ven đê, bãi ngô và chỗ dừng chân",
+   "intent": "Lên kế hoạch chạy xe máy dọc đê sông Đuống ở Gia Lâm: chọn đoạn lên đê, nhận diện làng ven sông, chỗ dừng nghỉ và lưu ý xe tải trên đê.",
+   "kw": "đê sông Đuống xe máy",
+   "kw2": [
+    "chạy xe ven sông Đuống",
+    "làng ven sông Đuống"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách thích cung đường quê ít xe",
+   "location_scope": "đê sông Đuống, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-023",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đi lễ đầu năm ở Long Biên bằng xe máy: nối các đền chùa gần nhau và gửi xe ngày Tết",
+   "intent": "Lên lộ trình đi lễ đầu năm quanh Long Biên bằng xe máy: nối các đền chùa gần nhau, xuất phát giờ vắng và giữ xe, giữ đồ khi đông người.",
+   "kw": "đi lễ đầu năm Long Biên",
+   "kw2": [
+    "lễ chùa đầu năm Long Biên",
+    "đền chùa Long Biên ngày Tết"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "người ở Hà Nội và khách về ăn Tết",
+   "location_scope": "phường Bồ Đề, Ngọc Thụy, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2T-024",
+   "child_id": "C-LONG-BIEN",
+   "title": "Xe thủng lốp hay chết máy trên đường làng Gia Lâm: tìm tiệm sửa và báo cửa hàng cho thuê",
+   "intent": "Biết cách xử lý khi xe máy thuê thủng lốp hoặc chết máy ở đường làng Gia Lâm: dắt xe vào lề, tìm tiệm sửa gần nhất và liên hệ cửa hàng trước khi sửa.",
+   "kw": "sửa xe máy Gia Lâm",
+   "kw2": [
+    "thủng lốp xe máy Gia Lâm",
+    "xe chết máy đường làng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2T",
+   "audience": "khách thuê xe đi làng nghề Gia Lâm",
+   "location_scope": "đường làng và đường đê Gia Lâm",
+   "word_target": 1200
+  }
+ ]
+}
