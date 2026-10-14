@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 196
   size: 12
-  total: 2341
+  total: 2351
 chia-se:
   pages: 10
   size: 12
@@ -79,7 +79,7 @@ topic:
   xe-may_honda-air-blade:
     pages: 3
     size: 24
-    total: 49
+    total: 53
   xe-may_honda-click:
     pages: 2
     size: 24
@@ -211,4 +211,4 @@ topic:
   xe-may_yamaha-sirius:
     pages: 2
     size: 24
-    total: 26
+    total: 32
