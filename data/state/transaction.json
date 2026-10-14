@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-14T08:06:24+00:00",
+  "updated_at": "2026-10-14T08:06:53+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02760",
-      "started_at": "2026-10-14T04:25:11+00:00",
-      "source": "_drafts/2026-10-14-ha-noi-di-dien-bien-phu-bang-xe-may-ba-ngay-chia-chang-qua-moc-chau-va-son-la.md",
-      "destination": "_posts/2026-10-14-ha-noi-di-dien-bien-phu-bang-xe-may-ba-ngay-chia-chang-qua-moc-chau-va-son-la.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3ab260ec62680ddf0d82e68508f95521a9098355",
-      "finished_at": "2026-10-14T04:25:11+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02761",
       "started_at": "2026-10-14T04:29:27+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "6bc3e57bc310605d2f43e45bd78ce4c6769c31d9",
       "finished_at": "2026-10-14T08:06:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02769",
+      "started_at": "2026-10-14T08:06:53+00:00",
+      "source": "_drafts/2026-10-14-doi-che-tan-cuong-thai-nguyen-bang-xe-may-ghe-buoi-sang-mua-che-va-cho-ve.md",
+      "destination": "_posts/2026-10-14-doi-che-tan-cuong-thai-nguyen-bang-xe-may-ghe-buoi-sang-mua-che-va-cho-ve.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d2c49d7c05958552153d22da7967cb2d65bfad5e",
+      "finished_at": "2026-10-14T08:06:53+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
