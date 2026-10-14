@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2Z: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-001",
+   "child_id": "C-DIEM-DEN",
+   "title": "Viếng Lăng Chủ tịch Hồ Chí Minh bằng xe máy: đến sớm, trang phục, xếp hàng và chỗ gửi xe",
+   "intent": "Biết cách đi xe máy đến viếng Lăng Bác: nên xuất phát lúc nào, ăn mặc ra sao, xếp hàng ở đâu, gửi xe ở khu vực nào và xem lịch mở cửa chính thức trước khi đi.",
+   "kw": "viếng lăng Bác đi xe máy",
+   "kw2": [
+    "gửi xe khi viếng lăng Bác",
+    "viếng lăng Bác cần chuẩn bị gì"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "khách lần đầu viếng Lăng, gia đình có người lớn tuổi",
+   "location_scope": "Lăng Chủ tịch Hồ Chí Minh, Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-002",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Hà ở Cầu Giấy bằng xe máy: đường vào phố Chùa Hà, giờ đông khách và chỗ dừng xe",
+   "intent": "Biết đường đi xe máy tới chùa Hà trên phố Chùa Hà, quận Cầu Giấy, ngày nào chùa đông, dừng xe ở đâu để không chắn lối đi trong phố nhỏ.",
+   "kw": "đi chùa Hà Cầu Giấy",
+   "kw2": [
+    "chùa Hà gửi xe ở đâu",
+    "chùa Hà ngày rằm"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người trẻ và gia đình đi lễ trong nội thành",
+   "location_scope": "phố Chùa Hà, Dịch Vọng, Cầu Giấy, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-003",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Quán Sứ trên phố Quán Sứ: đi lễ bằng xe máy, gửi xe và cách cư xử khi vào chùa",
+   "intent": "Hiểu cách đi xe máy đến chùa Quán Sứ ở Hoàn Kiếm, chỗ gửi xe quanh phố Quán Sứ, Lý Thường Kiệt và những điều nên giữ khi vào lễ trong ngôi chùa lớn giữa phố.",
+   "kw": "chùa Quán Sứ gửi xe máy",
+   "kw2": [
+    "đường đến chùa Quán Sứ",
+    "đi lễ chùa Quán Sứ"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người đi lễ và khách tìm hiểu Phật giáo",
+   "location_scope": "phố Quán Sứ, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-004",
+   "child_id": "C-DIEM-DEN",
+   "title": "Công viên Thiên văn học ở Dương Nội, Hà Đông: đi xe máy từ trung tâm và nên xem gì",
+   "intent": "Lên kế hoạch đi xe máy từ trung tâm Hà Nội đến Công viên Thiên văn học ở Dương Nội, chọn đường qua Tố Hữu hay Lê Văn Lương, chỗ gửi xe và các khu nên dạo khi đi cùng trẻ nhỏ.",
+   "kw": "công viên Thiên văn học Hà Đông",
+   "kw2": [
+    "đường đến công viên Thiên văn học",
+    "công viên Thiên văn Dương Nội"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "gia đình có trẻ nhỏ, học sinh",
+   "location_scope": "Dương Nội, Hà Đông, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-005",
+   "child_id": "C-DIEM-DEN",
+   "title": "Công viên Cầu Giấy bằng xe máy: lối vào, chỗ gửi xe và dạo hồ cuối chiều cho gia đình",
+   "intent": "Biết lối vào Công viên Cầu Giấy từ các phố Duy Tân, Thành Thái, cách gửi xe máy gần cổng và chọn giờ dạo hồ thoáng mát cho gia đình.",
+   "kw": "công viên Cầu Giấy gửi xe",
+   "kw2": [
+    "lối vào công viên Cầu Giấy",
+    "dạo công viên Cầu Giấy buổi chiều"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "gia đình và nhân viên văn phòng ở Cầu Giấy",
+   "location_scope": "Dịch Vọng, Cầu Giấy, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-006",
+   "child_id": "C-DIEM-DEN",
+   "title": "Làng cốm Mễ Trì bằng xe máy: mùa cốm mới, đường vào làng và cách mua cốm mang về",
+   "intent": "Biết khi nào làng Mễ Trì vào mùa cốm, đi xe máy vào làng qua đường nào, dừng xe ở đâu để xem làm cốm và giữ cốm dẻo, không nát khi chở về.",
+   "kw": "làng cốm Mễ Trì",
+   "kw2": [
+    "mùa cốm Mễ Trì",
+    "mua cốm Mễ Trì ở đâu"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích ẩm thực truyền thống mùa thu",
+   "location_scope": "Mễ Trì, Nam Từ Liêm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-007",
+   "child_id": "C-DIEM-DEN",
+   "title": "Phố đi bộ Trịnh Công Sơn ven sông Hồng: đi xe máy buổi tối, gửi xe và đi bộ dạo phố",
+   "intent": "Biết cách đi xe máy tới phố đi bộ Trịnh Công Sơn ở Tây Hồ, những tối nào phố mở, nên gửi xe ở đâu rồi đi bộ và lối ra để về trung tâm đỡ kẹt.",
+   "kw": "phố đi bộ Trịnh Công Sơn",
+   "kw2": [
+    "phố Trịnh Công Sơn gửi xe",
+    "đường đến phố đi bộ Trịnh Công Sơn"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người trẻ, cặp đôi đi chơi buổi tối",
+   "location_scope": "đường Trịnh Công Sơn, Tây Hồ, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-008",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Liên Phái ở Bạch Mai: tìm đường vào ngõ chùa bằng xe máy và ngắm tháp Diệu Quang",
+   "intent": "Biết cách tìm ngõ Chùa Liên Phái từ phố Bạch Mai, dắt xe hay để xe ở đâu trong ngõ hẹp và nên xem những gì trong ngôi chùa cổ có tháp Diệu Quang.",
+   "kw": "chùa Liên Phái Bạch Mai",
+   "kw2": [
+    "ngõ chùa Liên Phái",
+    "tháp Diệu Quang chùa Liên Phái"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích kiến trúc chùa cổ trong phố",
+   "location_scope": "ngõ Chùa Liên Phái, Hai Bà Trưng, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-009",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Vua trên phố Thịnh Yên: ghé ngôi chùa cổ ở Hai Bà Trưng bằng xe máy và dừng xe",
+   "intent": "Biết đường đi xe máy đến chùa Vua ở phố Thịnh Yên, nghe sơ lược tích ngôi chùa gắn với vua Lê và chọn chỗ dừng xe gọn trong phố nhỏ ít người biết.",
+   "kw": "chùa Vua phố Thịnh Yên",
+   "kw2": [
+    "đường đến chùa Vua",
+    "chùa Vua Hai Bà Trưng"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích khám phá di tích ít khách",
+   "location_scope": "phố Thịnh Yên, Hai Bà Trưng, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-010",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Hòe Nhai ở phố Hàng Than: ghé ngôi chùa cổ sát rìa phố cổ bằng xe máy và gửi xe",
+   "intent": "Biết vị trí chùa Hòe Nhai trên phố Hàng Than, đi xe máy từ Hồ Gươm hay từ cầu Long Biên vào cho gọn và gửi xe ở đâu khi ghé chùa.",
+   "kw": "chùa Hòe Nhai Hàng Than",
+   "kw2": [
+    "đi chùa Hòe Nhai",
+    "chùa Hòe Nhai gửi xe"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người đi lễ và khách thích chùa cổ",
+   "location_scope": "phố Hàng Than, Ba Đình, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-011",
+   "child_id": "C-DIEM-DEN",
+   "title": "Vườn hoa Lênin và Đài tưởng niệm Bắc Sơn: dừng xe máy ở đâu khi dạo quanh khu Cột Cờ",
+   "intent": "Biết cách nối vườn hoa Lênin trên Điện Biên Phủ với Đài tưởng niệm các anh hùng liệt sĩ ở phố Bắc Sơn trong một lượt xe máy, chỗ dừng xe và đoạn nên đi bộ.",
+   "kw": "vườn hoa Lênin Điện Biên Phủ",
+   "kw2": [
+    "đài tưởng niệm Bắc Sơn",
+    "vườn hoa Chi Lăng"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "khách muốn dạo khu Ba Đình theo nhịp chậm",
+   "location_scope": "phố Điện Biên Phủ và Bắc Sơn, Ba Đình, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-012",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Bằng (Linh Tiên tự) ở Hoàng Mai: đi xe máy từ Linh Đàm và lưu ý khi vào chùa",
+   "intent": "Biết đường đi xe máy đến chùa Bằng ở Hoàng Liệt, Hoàng Mai từ khu Linh Đàm hay đường Giải Phóng, chỗ để xe và những điều nên giữ khi tham quan ngôi chùa cổ.",
+   "kw": "chùa Bằng Linh Tiên tự",
+   "kw2": [
+    "đường đến chùa Bằng Hoàng Mai",
+    "chùa Bằng Linh Đàm"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "cư dân phía nam thành phố, người đi lễ",
+   "location_scope": "Hoàng Liệt, Hoàng Mai, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-013",
+   "child_id": "C-DIEM-DEN",
+   "title": "Hồ Văn Quán ở Hà Đông bằng xe máy: vòng quanh hồ, chỗ dừng chân và giờ đi dạo mát",
+   "intent": "Biết cách đi xe máy vòng quanh hồ Văn Quán, đoạn nào dừng xe ngắm hồ được, chỗ gửi xe để đi bộ và giờ nào hồ thoáng, ít người tập thể dục.",
+   "kw": "hồ Văn Quán Hà Đông",
+   "kw2": [
+    "dạo hồ Văn Quán",
+    "đường quanh hồ Văn Quán"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người ở Hà Đông, Thanh Xuân muốn đi dạo gần nhà",
+   "location_scope": "Văn Quán, Hà Đông, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-014",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Phúc Khánh ở Ngã Tư Sở: đi lễ bằng xe máy, lối vào và chỗ để xe cạnh nút giao đông",
+   "intent": "Biết lối rẽ vào chùa Phúc Khánh ngay cạnh nút Ngã Tư Sở, chọn hướng đi xe máy để vào cổng chùa an toàn và để xe ở đâu ngày rằm, mùng một.",
+   "kw": "chùa Phúc Khánh Ngã Tư Sở",
+   "kw2": [
+    "đi lễ chùa Phúc Khánh",
+    "chùa Phúc Khánh gửi xe"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người đi lễ cầu an ở Đống Đa",
+   "location_scope": "phố Tây Sơn, Đống Đa, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-015",
+   "child_id": "C-DIEM-DEN",
+   "title": "Công viên hồ điều hòa Nhân Chính bằng xe máy: lối vào, gửi xe và dạo hồ buổi chiều",
+   "intent": "Biết đường vào công viên hồ điều hòa Nhân Chính từ Hoàng Minh Giám, Khuất Duy Tiến, chỗ gửi xe máy và khoảng giờ đi dạo, chạy bộ quanh hồ dễ chịu.",
+   "kw": "công viên hồ điều hòa Nhân Chính",
+   "kw2": [
+    "hồ điều hòa Nhân Chính gửi xe",
+    "dạo hồ Nhân Chính"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "cư dân Thanh Xuân, Cầu Giấy",
+   "location_scope": "Nhân Chính, Thanh Xuân, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-016",
+   "child_id": "C-DIEM-DEN",
+   "title": "Làng bún Phú Đô ở Nam Từ Liêm: đi xe máy xem làm bún buổi sớm và chỗ dừng xe trong làng",
+   "intent": "Biết làng bún Phú Đô làm bún vào khung giờ nào, đường xe máy từ Mễ Trì, Lê Quang Đạo vào làng và cách dừng xe không cản lối xe chở bún.",
+   "kw": "làng bún Phú Đô",
+   "kw2": [
+    "đường vào làng Phú Đô",
+    "xem làm bún Phú Đô"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích tìm hiểu nghề truyền thống",
+   "location_scope": "Phú Đô, Nam Từ Liêm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-017",
+   "child_id": "C-DIEM-DEN",
+   "title": "Khu du lịch hồ Tiên Sa ở Ba Vì bằng xe máy: đường vào hồ, chỗ để xe và đi dạo quanh hồ",
+   "intent": "Lên kế hoạch đi xe máy từ Hà Nội đến khu hồ Tiên Sa ở Ba Vì, đi qua Sơn Tây hay Hòa Lạc, đoạn đường vào hồ cần chú ý gì và chỗ để xe khi đi dạo.",
+   "kw": "hồ Tiên Sa Ba Vì",
+   "kw2": [
+    "đường đi hồ Tiên Sa",
+    "khu du lịch Tiên Sa Ba Vì"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "nhóm bạn, gia đình đi chơi trong ngày",
+   "location_scope": "Tản Lĩnh, Ba Vì, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-018",
+   "child_id": "C-DIEM-DEN",
+   "title": "Tìm vườn bưởi Diễn còn lại ở Phú Diễn bằng xe máy: mùa bưởi chín và cách mua mang về",
+   "intent": "Biết bưởi Diễn chín vào dịp nào, những khu vườn còn trồng bưởi quanh Phú Diễn, Bắc Từ Liêm, cách đi xe máy vào ngõ và chằng bưởi chắc chắn khi chở về.",
+   "kw": "làng bưởi Diễn",
+   "kw2": [
+    "mua bưởi Diễn tại vườn",
+    "mùa bưởi Diễn"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người mua quà Tết, người thích vườn quả",
+   "location_scope": "Phú Diễn, Bắc Từ Liêm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-019",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đền Bà Kiệu bên Hồ Gươm: ghé ngôi đền nhỏ trên phố Đinh Tiên Hoàng bằng xe máy và gửi xe",
+   "intent": "Biết vị trí đền Bà Kiệu đối diện đền Ngọc Sơn qua phố Đinh Tiên Hoàng, cách gửi xe máy quanh bờ hồ và ghé đền trong lượt dạo Hồ Gươm.",
+   "kw": "đền Bà Kiệu Hồ Gươm",
+   "kw2": [
+    "đền Bà Kiệu Đinh Tiên Hoàng",
+    "đi lễ đền Bà Kiệu"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người đi lễ và khách dạo Hồ Gươm",
+   "location_scope": "phố Đinh Tiên Hoàng, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-020",
+   "child_id": "C-DIEM-DEN",
+   "title": "Nhà thờ Phùng Khoang ở Nam Từ Liêm: đi xe máy ngắm kiến trúc nhà thờ cổ và dừng xe",
+   "intent": "Biết đường đi xe máy đến nhà thờ Phùng Khoang từ Trần Phú, Hà Đông hoặc Nguyễn Trãi, chỗ dừng xe và cách tham quan, chụp ảnh lịch sự ngoài giờ lễ.",
+   "kw": "nhà thờ Phùng Khoang",
+   "kw2": [
+    "đường đến nhà thờ Phùng Khoang",
+    "chụp ảnh nhà thờ Phùng Khoang"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích chụp ảnh kiến trúc",
+   "location_scope": "Phùng Khoang, Nam Từ Liêm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-021",
+   "child_id": "C-DIEM-DEN",
+   "title": "Nhà thờ Thái Hà trên phố Nguyễn Lương Bằng: đi xe máy, giờ lễ đông người và chỗ gửi xe",
+   "intent": "Biết cách đi xe máy đến nhà thờ Thái Hà ở Đống Đa, khung giờ lễ khiến phố đông và nên gửi xe ở đâu khi đi tham quan hoặc dự lễ.",
+   "kw": "nhà thờ Thái Hà gửi xe",
+   "kw2": [
+    "đường đến nhà thờ Thái Hà",
+    "nhà thờ Thái Hà Đống Đa"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "giáo dân và khách tham quan",
+   "location_scope": "phố Nguyễn Lương Bằng, Đống Đa, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-022",
+   "child_id": "C-DIEM-DEN",
+   "title": "Làng Triều Khúc gần đường Nguyễn Trãi: đi xe máy thăm đình làng và lưu ý trong ngõ hẹp",
+   "intent": "Biết cách rẽ từ Nguyễn Trãi vào làng Triều Khúc bằng xe máy, tìm đình làng cổ, chạy chậm trong ngõ hẹp và chỗ dừng xe khi tham quan.",
+   "kw": "đình làng Triều Khúc",
+   "kw2": [
+    "làng Triều Khúc Thanh Xuân",
+    "đường vào làng Triều Khúc"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích làng cổ giữa đô thị",
+   "location_scope": "Tân Triều, Thanh Trì, giáp Thanh Xuân, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-023",
+   "child_id": "C-DIEM-DEN",
+   "title": "Bốt Hàng Đậu và vườn hoa Hàng Đậu: dừng xe máy ngắm tháp nước cổ ở rìa phố cổ",
+   "intent": "Biết cách tiếp cận bốt Hàng Đậu, tháp nước cổ ở đầu phố Hàng Đậu, Phan Đình Phùng, chỗ dừng xe an toàn quanh vườn hoa và góc chụp ảnh không cản dòng xe.",
+   "kw": "bốt Hàng Đậu",
+   "kw2": [
+    "tháp nước Hàng Đậu",
+    "vườn hoa Hàng Đậu"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích kiến trúc cũ và chụp ảnh phố",
+   "location_scope": "phố Hàng Đậu, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-024",
+   "child_id": "C-DIEM-DEN",
+   "title": "Bích Câu đạo quán trên phố Cát Linh: tìm đường bằng xe máy và nghe tích Tú Uyên – Giáng Kiều",
+   "intent": "Biết vị trí Bích Câu đạo quán trên phố Cát Linh, Đống Đa, cách đi xe máy từ Văn Miếu sang, chỗ dừng xe và câu chuyện Tú Uyên gặp tiên gắn với di tích.",
+   "kw": "Bích Câu đạo quán",
+   "kw2": [
+    "đường đến Bích Câu đạo quán",
+    "Bích Câu Cát Linh"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích di tích gắn với truyền thuyết",
+   "location_scope": "phố Cát Linh, Đống Đa, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Z-025",
+   "child_id": "C-DIEM-DEN",
+   "title": "Đình Chu Quyến ở Ba Vì bằng xe máy: chạm khắc gỗ cổ, đường vào làng và nối tiếp đình Tây Đằng",
+   "intent": "Biết đường đi xe máy đến đình Chu Quyến ở xã Chu Minh, Ba Vì, nên xem phần chạm khắc nào và cách ghép đình Chu Quyến với đình Tây Đằng trong một buổi.",
+   "kw": "đình Chu Quyến Ba Vì",
+   "kw2": [
+    "đường đến đình Chu Quyến",
+    "đình Chu Quyến và đình Tây Đằng"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Z",
+   "audience": "người thích kiến trúc đình làng Bắc Bộ",
+   "location_scope": "Chu Minh, Ba Vì, Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
