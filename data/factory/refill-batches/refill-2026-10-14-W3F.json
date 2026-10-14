@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3F: chu de that, tao boi writer W3 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-001",
+   "child_id": "C-THUE-TUAN",
+   "title": "Sinh viên đi thực địa một tuần ở ngoại thành Hà Nội: thuê xe máy, xếp lịch phỏng vấn và đi đường làng",
+   "intent": "Lên kế hoạch một tuần đi thực địa cho đề tài, khóa luận ở các xã ngoại thành Hà Nội bằng xe máy thuê: chia điểm theo hướng, giữ lịch hẹn phỏng vấn và chở đồ ghi chép gọn gàng.",
+   "kw": "thuê xe máy đi thực địa",
+   "kw2": [
+    "sinh viên đi thực tế ngoại thành bằng xe máy",
+    "thuê xe tuần làm khóa luận"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "sinh viên, học viên làm đề tài cần đi thực địa nhiều xã",
+   "location_scope": "ngoại thành Hà Nội: Thanh Oai, Thường Tín, Quốc Oai, Đông Anh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-002",
+   "child_id": "C-THUE-TUAN",
+   "title": "Đi xem nhà đất ven đô Hà Nội trong một tuần: thuê xe máy qua Đông Anh, Gia Lâm, Hoài Đức và ghi chép từng nơi",
+   "intent": "Biết cách dùng một tuần thuê xe máy để đi xem nhà đất ở các huyện ven đô Hà Nội, thử quãng đường vào trung tâm giờ cao điểm và ghi chép để so sánh từng điểm.",
+   "kw": "thuê xe máy đi xem đất",
+   "kw2": [
+    "đi xem nhà đất ven đô bằng xe máy",
+    "xem đất đông anh gia lâm"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người đang tìm mua nhà đất ở ven đô Hà Nội",
+   "location_scope": "Đông Anh, Gia Lâm, Hoài Đức, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-003",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tìm mặt bằng mở quán ở Hà Nội trong một tuần: thuê xe máy đi xem phố, quan sát khách theo từng khung giờ",
+   "intent": "Lên lịch một tuần đi xem mặt bằng kinh doanh bằng xe máy thuê, quay lại cùng con phố vào các khung giờ khác nhau để đánh giá người qua lại và chỗ để xe cho khách.",
+   "kw": "thuê xe máy đi tìm mặt bằng",
+   "kw2": [
+    "đi xem mặt bằng mở quán",
+    "tìm mặt bằng kinh doanh hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người chuẩn bị mở quán ăn, quán cà phê nhỏ ở Hà Nội",
+   "location_scope": "các quận nội thành Hà Nội và Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-004",
+   "child_id": "C-THUE-TUAN",
+   "title": "Sắp chuyển nhà đến Hà Nội: một tuần thuê xe máy đi xem trường cho con và thử đường đưa đón giờ tan học",
+   "intent": "Biết cách sắp một tuần thuê xe máy để đi xem các trường cho con trước khi chuyển đến Hà Nội, thử quãng đường giờ cao điểm và tìm chỗ dừng xe đón con trước cổng trường.",
+   "kw": "đi xem trường cho con ở hà nội",
+   "kw2": [
+    "chuyển đến hà nội chọn trường cho con",
+    "thuê xe máy đi xem trường"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "phụ huynh sắp chuyển gia đình đến Hà Nội",
+   "location_scope": "các quận Hà Nội: Long Biên, Cầu Giấy, Hà Đông, Hoàng Mai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-005",
+   "child_id": "C-THUE-TUAN",
+   "title": "Đến Hà Nội dự giải chạy: thuê xe máy cả tuần đi nhận đồ thi, xem trước cung đường và né đường cấm ngày đua",
+   "intent": "Biết cách dùng xe máy thuê theo tuần khi lên Hà Nội dự giải chạy: đi nhận bộ đồ thi, xem trước đường chạy, gửi xe xa khu xuất phát và tránh các tuyến rào chắn sáng ngày đua.",
+   "kw": "thuê xe máy dự giải chạy hà nội",
+   "kw2": [
+    "đi giải chạy marathon hà nội bằng xe máy",
+    "gửi xe ngày chạy marathon"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người từ tỉnh khác hoặc nước ngoài đến Hà Nội dự giải chạy",
+   "location_scope": "Hà Nội: khu Hồ Gươm, Hồ Tây và các tuyến chạy nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-006",
+   "child_id": "C-THUE-TUAN",
+   "title": "Xe máy nhà vừa bị mất trộm: thuê xe theo tuần trong lúc trình báo, chờ kết quả và tính chuyện mua xe khác",
+   "intent": "Biết sắp xếp việc đi lại bằng xe thuê theo tuần sau khi xe nhà bị mất trộm: những việc nên làm trước, giấy tờ cần giữ lại và lúc nào chuyển sang thuê dài hơn hoặc mua xe.",
+   "kw": "xe nhà bị mất trộm thuê xe",
+   "kw2": [
+    "mất xe máy thuê xe đi tạm",
+    "thuê xe tuần sau khi mất xe"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người ở Hà Nội vừa bị mất xe máy và vẫn cần đi làm hằng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-007",
+   "child_id": "C-THUE-TUAN",
+   "title": "Đã bán xe trước khi ra nước ngoài: thuê xe máy theo tuần cho những ngày cuối ở Hà Nội và hẹn trả trước giờ bay",
+   "intent": "Lên kế hoạch thuê xe theo tuần cho quãng ngày cuối ở Hà Nội sau khi đã bán xe nhà, đủ chạy việc giấy tờ, chào người thân và trả xe kịp trước chuyến bay.",
+   "kw": "bán xe rồi thuê xe máy tạm",
+   "kw2": [
+    "thuê xe máy những ngày cuối ở hà nội",
+    "thuê xe tuần trước khi đi nước ngoài"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người sắp đi du học, đi làm hoặc định cư nước ngoài",
+   "location_scope": "Hà Nội, sân bay Nội Bài",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-008",
+   "child_id": "C-THUE-TUAN",
+   "title": "Công tác một tuần ở khu công nghiệp Bắc Ninh, Hưng Yên mà ngủ ở Hà Nội: đi về bằng xe máy thuê theo quốc lộ",
+   "intent": "Biết chọn quốc lộ cho xe máy, tránh các tuyến cao tốc cấm xe máy, khi đi về hằng ngày giữa Hà Nội và khu công nghiệp ở Bắc Ninh, Hưng Yên trong một tuần công tác, và tính giờ tránh lúc tan ca.",
+   "kw": "đi khu công nghiệp bắc ninh bằng xe máy",
+   "kw2": [
+    "xe máy hà nội đi phố nối",
+    "đường xe máy hà nội bắc ninh"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "kỹ sư, nhân viên đi công tác ngắn ngày ở khu công nghiệp gần Hà Nội",
+   "location_scope": "Hà Nội – Bắc Ninh – Hưng Yên, quốc lộ 1 cũ, quốc lộ 5",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-009",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ở Đông Anh hoặc Sóc Sơn một tuần: xe máy thuê vào nội thành qua cầu Nhật Tân, cầu Thăng Long và giờ nên đi",
+   "intent": "Biết cách đi lại cả tuần khi ở phía Bắc sông Hồng như Đông Anh, Sóc Sơn bằng xe máy thuê: chọn cầu nào, đi đúng làn dành cho xe máy và tính giờ vào trung tâm.",
+   "kw": "thuê xe máy tuần ở đông anh",
+   "kw2": [
+    "ở sóc sơn đi xe máy vào nội thành",
+    "đông anh vào trung tâm bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người ở nhờ nhà người quen hoặc lưu trú gần sân bay Nội Bài",
+   "location_scope": "Đông Anh, Sóc Sơn, cầu Nhật Tân, cầu Thăng Long",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-010",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần đi hội đầu xuân tháng Giêng quanh Hà Nội: chia ngày chùa Hương, đền Sóc, hội Lim bằng xe máy thuê",
+   "intent": "Lên lịch một tuần thuê xe để đi các lễ hội đầu xuân quanh Hà Nội, xếp ngày theo hướng đường và ngày chính hội, chọn chỗ gửi xe và giờ về tránh dòng người.",
+   "kw": "đi lễ hội tháng giêng bằng xe máy",
+   "kw2": [
+    "lịch đi hội xuân quanh hà nội",
+    "thuê xe tuần đi hội xuân"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người muốn đi nhiều lễ hội đầu năm trong một chuyến ở Hà Nội",
+   "location_scope": "Mỹ Đức, Sóc Sơn, Bắc Ninh và nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-011",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tảo mộ cuối năm bằng xe máy thuê: một tuần đi Văn Điển, Yên Kỳ, Thanh Tước và chở đồ lễ cho an toàn",
+   "intent": "Lên kế hoạch tuần tảo mộ cuối năm bằng xe máy thuê khi phải đi nhiều nghĩa trang ở các hướng ngoại thành Hà Nội, chở đồ lễ gọn gàng và tránh giờ đông những ngày giáp Tết.",
+   "kw": "tảo mộ cuối năm bằng xe máy",
+   "kw2": [
+    "thuê xe máy đi tảo mộ",
+    "đường đi nghĩa trang yên kỳ thanh tước"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người con xa nhà về Hà Nội lo việc tảo mộ tháng Chạp",
+   "location_scope": "Thanh Trì, Ba Vì, Mê Linh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-012",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần vòng đồng bằng bằng xe máy thuê từ Hà Nội: Phố Hiến, chùa Keo, đền Trần Nam Định và Tràng An",
+   "intent": "Lên kế hoạch vòng đồng bằng sông Hồng trong một tuần thuê xe: thứ tự các tỉnh, chỗ nghỉ đêm và quốc lộ cho xe máy để quay về Hà Nội đúng ngày trả xe.",
+   "kw": "vòng đồng bằng sông hồng bằng xe máy",
+   "kw2": [
+    "thuê xe tuần đi nam định thái bình",
+    "một tuần đi hưng yên nam định ninh bình"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người thích đi chậm, xem đền chùa và làng quê vùng đồng bằng",
+   "location_scope": "Hà Nội – Hưng Yên – Thái Bình – Nam Định – Ninh Bình",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-013",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần vòng Đông Bắc bằng xe máy thuê từ Hà Nội: Lạng Sơn, Cao Bằng, Bản Giốc, Ba Bể và cách chia chặng",
+   "intent": "Lên lịch vòng Đông Bắc trong bảy ngày thuê xe, chia chặng qua Lạng Sơn, Cao Bằng, Ba Bể, kiểm tra xe ở chặng giữa và tính đường về để trả xe đúng hẹn.",
+   "kw": "thuê xe máy đi đông bắc một tuần",
+   "kw2": [
+    "vòng cao bằng ba bể xe máy",
+    "lịch trình đông bắc 7 ngày xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người tự lái đường dài muốn đi vòng Đông Bắc từ Hà Nội",
+   "location_scope": "Hà Nội – Lạng Sơn – Cao Bằng – Bắc Kạn",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-014",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần ra biển Đông Bắc bằng xe máy thuê: Hải Phòng, Cát Bà, Hạ Long, các chặng phà và quốc lộ 5",
+   "intent": "Lên lịch chuyến biển kéo dài một tuần bằng xe máy thuê từ Hà Nội: quốc lộ dành cho xe máy, các chặng phà chở được xe và chỗ nghỉ để quay về trả xe đúng ngày.",
+   "kw": "thuê xe máy đi cát bà hạ long",
+   "kw2": [
+    "vòng hải phòng cát bà hạ long xe máy",
+    "một tuần đi biển bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "nhóm bạn, cặp đôi muốn đi biển bằng xe máy từ Hà Nội",
+   "location_scope": "Hà Nội – Hải Phòng – Cát Bà – Hạ Long",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-015",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần ôn và thi sát hạch bằng lái ô tô ở ngoại thành Hà Nội: thuê xe máy đi lại giữa chỗ ở và sân thi",
+   "intent": "Biết cách thuê xe máy theo tuần cho đợt ôn tập và thi sát hạch ô tô ở trung tâm ngoại thành, tính giờ có mặt sớm, chỗ gửi xe và đường về khi lịch thi kéo dài.",
+   "kw": "thuê xe máy đi thi bằng ô tô",
+   "kw2": [
+    "đi sân sát hạch ô tô bằng xe máy",
+    "thuê xe tuần ôn thi lái xe"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "học viên từ tỉnh lên hoặc ở xa trung tâm sát hạch",
+   "location_scope": "ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-016",
+   "child_id": "C-THUE-TUAN",
+   "title": "Học khóa tiếng Việt ngắn hạn ở Hà Nội: người nước ngoài thuê xe máy theo tuần đi học, gửi xe và tập hỏi đường",
+   "intent": "Biết cách sắp xếp xe máy thuê theo tuần khi theo khóa tiếng Việt ngắn hạn ở Hà Nội: tuyến đi học buổi sáng, chỗ gửi xe ở trường và dùng câu tiếng Việt mới học khi đổ xăng, hỏi đường.",
+   "kw": "thuê xe máy đi học tiếng việt",
+   "kw2": [
+    "người nước ngoài học tiếng việt ở hà nội",
+    "khóa tiếng việt ngắn hạn đi lại bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người nước ngoài ở Hà Nội 1–2 tuần để học tiếng Việt",
+   "location_scope": "Hà Nội: Cầu Giấy, Thanh Xuân, Ba Đình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-017",
+   "child_id": "C-THUE-TUAN",
+   "title": "Vợ hoặc chồng mang xe nhà đi công tác cả tuần: thuê thêm xe máy để người ở nhà đưa đón con và đi chợ",
+   "intent": "Biết cách thuê một xe máy theo tuần khi chiếc xe duy nhất của gia đình vắng nhà: chọn xe hợp người ở nhà lái, sắp lịch đưa đón con và giữ xe an toàn trong khu ở.",
+   "kw": "nhà chỉ có một xe máy thuê thêm",
+   "kw2": [
+    "thuê xe máy khi chồng đi công tác",
+    "thuê xe tuần cho người ở nhà"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "gia đình ở Hà Nội chỉ có một xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-018",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần đi biếu quà Tết khách hàng bằng xe máy thuê: xếp lộ trình theo quận và chằng giỏ quà cho chắc",
+   "intent": "Lên kế hoạch tuần đi biếu quà Tết đối tác, khách hàng ở nhiều quận Hà Nội bằng xe máy thuê: gom điểm theo hướng, chọn xe có chỗ để đồ và tránh giờ kẹt những ngày giáp Tết.",
+   "kw": "thuê xe máy đi biếu quà tết",
+   "kw2": [
+    "đi biếu quà tết khách hàng bằng xe máy",
+    "lộ trình đi tặng quà tết"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "chủ cửa hàng, nhân viên công ty nhỏ phụ trách quà Tết",
+   "location_scope": "các quận nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-019",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tuần nhận bàn giao căn hộ mới ở Hà Nội: thuê xe máy đi kiểm tra nhà, hẹn thợ và chở đồ dùng nhỏ",
+   "intent": "Biết dùng một tuần thuê xe máy cho đợt nhận bàn giao căn hộ: lịch đi lại giữa chỗ ở cũ và nhà mới, gửi xe ở hầm tòa nhà mới và chở đồ dùng nhỏ an toàn.",
+   "kw": "nhận bàn giao căn hộ thuê xe máy",
+   "kw2": [
+    "thuê xe tuần khi nhận nhà chung cư",
+    "gửi xe hầm chung cư mới nhận nhà"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người vừa mua căn hộ đang làm thủ tục nhận nhà",
+   "location_scope": "các khu đô thị mới ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-020",
+   "child_id": "C-THUE-TUAN",
+   "title": "Ở Sơn Tây một tuần làm chỗ nghỉ: thuê xe máy từ Hà Nội đi Đường Lâm, Ba Vì, Đồng Mô theo từng ngày",
+   "intent": "Lên kế hoạch một tuần lấy Sơn Tây làm chỗ ở, dùng xe máy thuê từ Hà Nội để đi các điểm phía Tây theo từng ngày, chọn nơi để xe qua đêm và tính đường về trả xe.",
+   "kw": "ở sơn tây một tuần bằng xe máy",
+   "kw2": [
+    "thuê xe tuần nghỉ ở sơn tây",
+    "lịch đi ba vì đường lâm nhiều ngày"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người muốn nghỉ chậm ở vùng ven phía Tây Hà Nội",
+   "location_scope": "Sơn Tây, Ba Vì, Đồng Mô",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-021",
+   "child_id": "C-THUE-TUAN",
+   "title": "Người miền Nam ra Hà Nội một tuần thuê xe máy: trời rét, mưa phùn, phố một chiều và cách gọi tên đường",
+   "intent": "Hiểu những khác biệt người quen chạy xe ở miền Nam hay gặp trong tuần đầu ở Hà Nội: thời tiết lạnh ẩm, phố một chiều, cách gọi tên đường và cầu qua sông Hồng, để chuẩn bị trước khi nhận xe.",
+   "kw": "người miền nam ra hà nội đi xe máy",
+   "kw2": [
+    "sài gòn ra hà nội thuê xe máy",
+    "khác biệt đi xe máy hà nội và sài gòn"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người từ TP.HCM và các tỉnh phía Nam ra Hà Nội ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-022",
+   "child_id": "C-THUE-TUAN",
+   "title": "Một tuần tra cứu tài liệu ở Hà Nội: thuê xe máy đi Thư viện Quốc gia, kho lưu trữ và các viện nghiên cứu",
+   "intent": "Lên lịch một tuần đi tra cứu tài liệu bằng xe máy thuê, xếp các thư viện, kho lưu trữ theo giờ mở cửa và khu vực, giữ tài liệu khô ráo khi đi giữa các nơi.",
+   "kw": "thuê xe máy đi thư viện tra cứu",
+   "kw2": [
+    "đi thư viện quốc gia bằng xe máy",
+    "tra cứu tài liệu ở hà nội một tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "nghiên cứu sinh, người viết sách từ nơi khác đến Hà Nội",
+   "location_scope": "Hoàn Kiếm, Ba Đình, Cầu Giấy",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-023",
+   "child_id": "C-THUE-TUAN",
+   "title": "Tạm thuê xe theo tuần trong lúc đi xem mua xe máy cũ: hẹn người bán, rủ người rành xe đi cùng và chạy thử",
+   "intent": "Biết dùng xe thuê theo tuần trong thời gian đi tìm mua xe máy cũ ở Hà Nội: hẹn xem xe ở nhiều nơi, rủ người rành xe đi kiểm tra và tránh vội chốt chỉ vì đang cần xe gấp.",
+   "kw": "thuê xe tạm khi tìm mua xe cũ",
+   "kw2": [
+    "đi xem xe máy cũ ở hà nội",
+    "thuê xe tuần chờ mua xe"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "người đang tìm mua xe máy cũ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-024",
+   "child_id": "C-THUE-TUAN",
+   "title": "Con đi khóa tu mùa hè ở chùa ngoại thành: phụ huynh thuê xe máy theo tuần đưa đón, thăm con và chở đồ",
+   "intent": "Lên kế hoạch thuê xe máy theo tuần khi con tham gia khóa tu mùa hè ở chùa ngoại thành Hà Nội: ngày đưa và đón, giờ thăm theo quy định của chùa và chở đồ dùng cho con.",
+   "kw": "đưa con đi khóa tu mùa hè",
+   "kw2": [
+    "thuê xe máy đưa đón khóa tu",
+    "khóa tu mùa hè ngoại thành hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "phụ huynh có con tham gia khóa tu mùa hè",
+   "location_scope": "ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W3F-025",
+   "child_id": "C-THUE-TUAN",
+   "title": "Chạy thử tuyến tour xe máy mới quanh Hà Nội trong một tuần: thuê xe, bấm giờ từng chặng và chấm điểm dừng",
+   "intent": "Biết cách người làm tour nhỏ hoặc hướng dẫn viên tự do dùng một tuần thuê xe để chạy thử tuyến mới: đo thời gian từng chặng, kiểm tra chỗ gửi xe cho đoàn và ghi lại đoạn đường khó.",
+   "kw": "chạy thử tuyến tour xe máy",
+   "kw2": [
+    "dò tuyến tour xe máy hà nội",
+    "hướng dẫn viên thuê xe đi dò tuyến"
+   ],
+   "links": [
+    "/thue-xe/thue-tuan/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W3F",
+   "audience": "hướng dẫn viên tự do, người mở tour xe máy nhỏ",
+   "location_scope": "Hà Nội và ngoại thành",
+   "word_target": 1200
+  }
+ ]
+}
