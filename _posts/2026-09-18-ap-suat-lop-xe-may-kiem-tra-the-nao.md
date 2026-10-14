@@ -11,7 +11,7 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Trong danh sách những việc bảo dưỡng xe máy, kiểm tra áp suất lốp nghe có vẻ nhỏ nhặt nhất, nhưng lại là một trong những yếu tố ảnh hưởng trực tiếp nhất đến an toàn. Một chiếc lốp non mất một phần lực phanh, dễ trượt khi đường ướt và nóng máy nhanh hơn bình thường. Với xe thuê, việc nắm kiến thức cơ bản về áp suất lốp còn giúp bạn phát hiện sớm sự cố trước khi nó xảy ra giữa chuyến đi. Bài viết này trình bày những điều cần biết một cách thực tế và dễ áp dụng.
+Trong danh sách những việc bảo dưỡng xe máy, kiểm tra áp suất lốp nghe có vẻ nhỏ nhặt nhất, nhưng lại là một trong những yếu tố ảnh hưởng trực tiếp nhất đến an toàn. Một chiếc lốp non mất một phần lực phanh, dễ trượt khi đường ướt và nóng máy nhanh hơn bình thường. Với xe thuê, việc nắm kiến thức cơ bản về áp suất lốp còn giúp bạn phát hiện sớm sự cố trước khi nó xảy ra giữa chuyến đi. Nói ngắn gọn: hãy kiểm tra khi lốp còn nguội, ngay lúc nhận xe, trước chuyến đi dài và khi cảm giác lái thay đổi; bơm theo mức in trên khung xe hoặc catalogue bằng máy bơm ở trạm xăng; nếu là xe thuê, thấy lốp mòn, nứt hay non lặp lại thì báo cửa hàng. Chi tiết từng phần ở dưới.
 
 ## Áp suất lốp ảnh hưởng đến những gì
 
@@ -34,7 +34,7 @@ Mỗi dòng xe có mức áp suất riêng do nhà sản xuất khuyến cáo, t
 - Xe số và xe ga phổ thông: lốp trước khoảng 1,8 đến 2,2 bar, lốp sau khoảng 2,0 đến 2,5 bar.
 - Khi chở thêm người hoặc đồ nặng, lốp sau có thể bơm cao hơn mức thường khoảng 0,2 bar theo khuyến cáo của hãng.
 
-Con số trên chỉ mang tính tham khảo cho dòng xe phổ thông. Luôn ưu tiên mức in trên khung xe hoặc catalogue của chính chiếc xe bạn đang đi, vì hai dòng xe ga và xe số, thậm chí hai đời xe khác nhau, có thể yêu cầu khác nhau. Nếu thuê xe và không chắc mức chuẩn, hãy hỏi cửa hàng ngay khi nhận xe.
+Con số trên chỉ mang tính tham khảo cho dòng xe phổ thông. Luôn ưu tiên mức in trên khung xe hoặc catalogue của chính chiếc xe bạn đang đi, vì hai dòng xe ga và xe số, thậm chí hai đời xe khác nhau, có thể yêu cầu khác nhau. Nếu thuê xe và không chắc mức chuẩn, hãy hỏi cửa hàng ngay khi nhận xe. Với từng trường hợp cụ thể, xem thêm [áp suất lốp chuẩn cho xe ga thuê](/xe-may/2026/10/09/ap-suat-lop-xe-ga-thue-chuan-bao-nhieu/) và [áp suất lốp khi xe số chạy đường trường](/xe-may/2026/10/05/xe-so-chay-uong-truong-nen-e-ap-suat-lop-bao-nhieu/).
 
 Đơn vị đo cũng đáng chú ý: máy bơm ở Việt Nam thường hiển thị bằng đơn vị kilôgam trên centimet vuông, viết tắt là kg/cm², gần bằng bar. Một vài máy hiển thị PSI, khi đó 1 bar xấp xỉ 14,5 PSI. Đừng lo lắng về phép quy đổi chính xác, chỉ cần nhớ khoảng áp suất chuẩn của xe mình và chọn máy hiển thị đơn vị mình quen.
 
@@ -63,7 +63,7 @@ Lưu ý nhỏ: kiểm tra khi lốp còn nguội cho con số chính xác nhất
 
 Ngoài áp suất, vài dấu hiệu về tình trạng lốp đáng để bạn biết:
 
-- Mặt lốp mòn gần tới các rãnh chỉ báo mòn, thường là gờ cao su nhỏ nằm rải rác trong rãnh lốp. Lốp đến mức này cần thay, không phải bơm.
+- Mặt lốp mòn gần tới các rãnh chỉ báo mòn, thường là gờ cao su nhỏ nằm rải rác trong rãnh lốp. Lốp đến mức này cần thay, không phải bơm. Cách xem chi tiết có trong bài [kiểm tra độ mòn lốp trước mùa mưa](/xe-may/2026/10/10/o-mon-lop-xe-may-kiem-tra-truoc-mua-mua/).
 - Lốp bị chai cứng hoặc nứt nhỏ trên hông lốp, dấu hiệu của cao su lão hóa.
 - Vật lạ cắm vào lốp như đinh, ốc. Nếu xe bị non lặp lại, khả năng cao có vật cắm khiến rò rỉ chậm.
 - Van xì khí: bọt xà phòng quanh van khi bơm sẽ sủi lên nếu van hở.
@@ -76,7 +76,7 @@ Xe máy điện và xe đạp điện thường dùng lốp nhỏ hơn và áp s
 
 ## Kiểm tra áp suất như một phần của thói quen trước chuyến đi
 
-Để không phải nhớ từng việc riêng lẻ, hãy gộp kiểm tra lốp vào quy trình hai phút trước mỗi chuyến đi quan trọng: nhìn hai bánh xe, bóp thử hoặc đo áp suất nếu lâu chưa kiểm tra, thử phanh trước sau, xem đèn, chỉnh gương. Quy trình ngắn này bao trùm phần lớn sự cố phổ biến nhất của xe hai bánh. Bạn có thể tham khảo danh sách kiểm tra chi tiết hơn trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/), vốn dành riêng cho lúc nhận xe thuê.
+Để không phải nhớ từng việc riêng lẻ, hãy gộp kiểm tra lốp vào quy trình hai phút trước mỗi chuyến đi quan trọng: nhìn hai bánh xe, bóp thử hoặc đo áp suất nếu lâu chưa kiểm tra, thử phanh trước sau, xem đèn, chỉnh gương. Quy trình ngắn này bao trùm phần lớn sự cố phổ biến nhất của xe hai bánh. Bạn có thể tham khảo danh sách kiểm tra chi tiết hơn trong bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}), vốn dành riêng cho lúc nhận xe thuê.
 
 ## Sai lầm thường gặp khi bơm lốp
 
