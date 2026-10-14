@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2Y: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-001",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Biên nhận tiền cọc thuê xe máy ở Hà Nội: những dòng nên có trước khi hai bên ký nhận",
+   "intent": "Biết một tờ biên nhận cọc thuê xe cần ghi những thông tin gì (tên hai bên, biển số, hình thức cọc, điều kiện và thời điểm hoàn) để khi trả xe có căn cứ đối chiếu rõ ràng.",
+   "kw": "biên nhận tiền cọc thuê xe",
+   "kw2": [
+    "mẫu biên nhận đặt cọc thuê xe máy",
+    "biên nhận cọc ghi những gì"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội muốn có giấy tờ rõ ràng cho khoản cọc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-002",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Được đề nghị ký biên nhận cọc còn để trống: vì sao nên từ chối và điền đủ trước khi ký",
+   "intent": "Hiểu rủi ro khi ký trước một biên nhận hoặc hợp đồng thuê xe còn bỏ trống phần cọc, và biết cách đề nghị điền đủ, gạch chỗ trống rồi mới ký.",
+   "kw": "ký biên nhận cọc để trống",
+   "kw2": [
+    "có nên ký giấy trắng khi thuê xe",
+    "điền đủ biên nhận cọc trước khi ký"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội đang làm thủ tục nhận xe tại tiệm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-003",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Dời ngày nhận xe sau khi đã đặt cọc giữ chỗ: nhắn tiệm thế nào để khoản cọc vẫn được giữ",
+   "intent": "Biết cách báo tiệm khi cần đổi ngày nhận xe máy đã đặt cọc giữ chỗ, hỏi rõ khoản cọc có được chuyển sang ngày mới không và lưu lại xác nhận bằng tin nhắn.",
+   "kw": "dời ngày nhận xe đã đặt cọc",
+   "kw2": [
+    "đổi ngày thuê xe máy đã cọc",
+    "lùi lịch nhận xe thuê giữ cọc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đã đặt cọc giữ xe máy ở Hà Nội nhưng kế hoạch thay đổi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-004",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Đến nhận xe mà không đúng chiếc đã cọc giữ chỗ: nhận xe khác hay đề nghị lấy lại tiền cọc",
+   "intent": "Biết xử lý khi đến tiệm thấy xe khác đời, khác loại so với xe đã đặt cọc hoặc tiệm báo hết xe, cân nhắc nhận xe thay thế hay đề nghị hoàn lại khoản cọc giữ chỗ.",
+   "kw": "xe không đúng như đã đặt cọc",
+   "kw2": [
+    "tiệm hết xe đã giữ chỗ",
+    "lấy lại tiền cọc giữ xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đã chuyển cọc giữ xe máy trước khi đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-005",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Đã chuyển cọc giữ xe online, đến nhận xe có phải cọc thêm không: hỏi rõ cọc hai bước",
+   "intent": "Hiểu vì sao một số tiệm thu khoản giữ chỗ khi đặt online rồi mới chốt cọc chính lúc giao xe, và biết hỏi trước để không bất ngờ khi đến tiệm.",
+   "kw": "đặt cọc online có cọc thêm không",
+   "kw2": [
+    "cọc giữ chỗ và cọc nhận xe",
+    "chuyển cọc trước khi nhận xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đặt xe máy thuê từ xa trước khi đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-006",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Đến tiệm bị yêu cầu cọc khác với tin nhắn đã chốt: đối chiếu bình tĩnh và quyết định tại chỗ",
+   "intent": "Biết cách xử lý khi điều kiện cọc hoặc giấy tờ tiệm yêu cầu lúc nhận xe khác với những gì đã thống nhất qua tin nhắn, dùng tin nhắn cũ để đối chiếu và quyết định thuê hay không.",
+   "kw": "tiệm đòi cọc khác đã chốt",
+   "kw2": [
+    "tiệm đổi điều kiện cọc lúc nhận xe",
+    "điều kiện cọc thay đổi lúc giao xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đã trao đổi trước với tiệm thuê xe máy qua Zalo hoặc điện thoại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-007",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Giữ chỗ xe máy thuê ở nhiều tiệm cùng lúc mùa đông khách: vì sao dễ mất cọc và nên làm gì",
+   "intent": "Hiểu hệ quả của việc chuyển cọc giữ xe ở nhiều tiệm cùng lúc dịp cao điểm ở Hà Nội, và biết cách chốt một nơi, báo hủy sớm những chỗ còn lại cho minh bạch.",
+   "kw": "giữ chỗ thuê xe nhiều tiệm",
+   "kw2": [
+    "đặt cọc nhiều tiệm thuê xe cùng lúc",
+    "báo hủy giữ chỗ thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đặt xe máy thuê ở Hà Nội vào dịp lễ, cuối tuần đông khách",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-008",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Để lại xe máy của mình làm tin khi thuê xe khác: đăng ký xe, chỗ để xe và trách nhiệm hai bên",
+   "intent": "Biết những điều cần thỏa thuận khi muốn để lại xe máy cá nhân cùng giấy đăng ký làm tin thay tiền cọc: tiệm có nhận không, xe để ở đâu và ai chịu trách nhiệm trong thời gian gửi.",
+   "kw": "để xe máy làm tin thuê xe",
+   "kw2": [
+    "để lại xe cá nhân thay tiền cọc",
+    "gửi đăng ký xe làm tin thuê xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người Hà Nội cần thuê loại xe khác trong vài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-009",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm đề nghị giữ điện thoại hoặc laptop làm tin khi thuê xe máy: có nên đồng ý và nên hỏi gì",
+   "intent": "Cân nhắc rủi ro khi để lại đồ điện tử cá nhân làm tin thay tiền cọc, biết các câu cần hỏi về bảo quản, biên nhận và lựa chọn thay thế an toàn hơn.",
+   "kw": "giữ điện thoại làm tin thuê xe",
+   "kw2": [
+    "để laptop làm tin khi thuê xe máy",
+    "đồ có giá trị thay tiền cọc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Khách du lịch và người ở trọ thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-010",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm đề nghị giữ bằng lái làm cọc: vì sao người lái cần mang bằng theo và đưa giấy tờ nào thay",
+   "intent": "Hiểu vì sao không nên để lại giấy phép lái xe ở tiệm khi chính mình sẽ chạy xe, và biết cách đề nghị phương án cọc hoặc giấy tờ khác phù hợp.",
+   "kw": "tiệm giữ bằng lái làm cọc",
+   "kw2": [
+    "để bằng lái ở tiệm thuê xe",
+    "không mang bằng lái vì đã gửi tiệm"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội được yêu cầu để lại giấy tờ làm cọc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-011",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Thẻ sinh viên, thẻ nhân viên có dùng làm giấy tờ giữ khi thuê xe máy được không: hỏi tiệm gì",
+   "intent": "Biết loại thẻ sinh viên hoặc thẻ công ty có được chấp nhận để giữ khi thuê xe hay không, và chuẩn bị phương án khác khi tiệm chỉ nhận giấy tờ tùy thân chính thức.",
+   "kw": "thẻ sinh viên thay cọc thuê xe",
+   "kw2": [
+    "thẻ nhân viên làm tin thuê xe máy",
+    "giấy tờ giữ khi thuê xe sinh viên"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Sinh viên và người đi làm ở Cầu Giấy, Hai Bà Trưng muốn thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-012",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Vừa đặt tiền cọc vừa để lại giấy tờ gốc khi thuê xe: hỏi lý do và thỏa thuận cho hợp lý",
+   "intent": "Hiểu vì sao có tiệm yêu cầu cả tiền cọc lẫn giấy tờ gốc, biết hỏi lý do cụ thể và đề nghị ghi rõ từng thứ được giữ vào biên nhận.",
+   "kw": "vừa cọc tiền vừa giữ giấy tờ",
+   "kw2": [
+    "thuê xe phải để cả cọc và giấy tờ",
+    "tiệm giữ giấy tờ gốc và tiền cọc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội lần đầu gặp yêu cầu giữ cả hai",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-013",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Thuê xe đi tỉnh nhiều ngày: chọn giấy tờ để lại tiệm, giữ lại giấy nào để nhận phòng và đi đường",
+   "intent": "Lên kế hoạch giấy tờ trước chuyến đi xa bằng xe thuê từ Hà Nội: cân nhắc để lại giấy nào ở tiệm, giữ lại căn cước, bằng lái để nhận phòng nghỉ và xuất trình khi cần.",
+   "kw": "giấy tờ để lại tiệm đi tỉnh",
+   "kw2": [
+    "giữ căn cước khi đi phượt xe thuê",
+    "cọc giấy tờ thuê xe đi xa"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội đi Hà Giang, Mộc Châu, Ninh Bình nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-014",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Căn cước đang gửi ở tiệm thuê xe mà cần dùng gấp: mượn lại tạm thời và đổi sang hình thức khác",
+   "intent": "Biết cách liên hệ tiệm khi cần dùng căn cước đang để lại làm cọc để làm thủ tục ngân hàng, bay nội địa hay giấy tờ khác, và các phương án thay thế để tiệm vẫn yên tâm.",
+   "kw": "cần dùng căn cước đang gửi tiệm",
+   "kw2": [
+    "mượn lại căn cước giữ cọc",
+    "đổi hình thức cọc giữa kỳ thuê"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đang thuê xe máy ở Hà Nội phát sinh việc cần giấy tờ gốc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-015",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Sau khi hoàn cọc: đề nghị tiệm trả bản photo và xóa ảnh căn cước đã gửi qua tin nhắn",
+   "intent": "Biết cách nhắc tiệm trả lại bản sao giấy tờ và xóa ảnh chụp căn cước, bằng lái đã gửi qua Zalo sau khi kết thúc thuê để hạn chế rủi ro lộ thông tin cá nhân.",
+   "kw": "xóa ảnh căn cước sau thuê xe",
+   "kw2": [
+    "lấy lại bản photo giấy tờ thuê xe",
+    "bảo vệ thông tin cá nhân khi thuê xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đã trả xe máy thuê ở Hà Nội và muốn khép lại giao dịch gọn gàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-016",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiền cọc thuê xe có phải là bảo hiểm không: phân biệt cọc, bảo hiểm bắt buộc và trách nhiệm khi va quẹt",
+   "intent": "Hiểu tiền cọc khác bảo hiểm trách nhiệm dân sự bắt buộc ở điểm nào, để không lầm rằng đã đặt cọc thì mọi rủi ro khi va quẹt đều đã được bảo hiểm.",
+   "kw": "tiền cọc có phải bảo hiểm không",
+   "kw2": [
+    "cọc thuê xe và bảo hiểm xe máy",
+    "đặt cọc có thay bảo hiểm không"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội chưa rõ cọc và bảo hiểm khác nhau thế nào",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-017",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Cụm từ 'cọc không hoàn lại' trong tin nhắn hoặc hợp đồng thuê xe: hỏi rõ áp dụng khi nào",
+   "intent": "Biết cách hỏi lại tiệm khi thấy cụm 'cọc không hoàn lại' hay 'mất cọc' để hiểu chính xác trường hợp nào áp dụng, và đề nghị ghi rõ bằng chữ trước khi chuyển tiền.",
+   "kw": "cọc không hoàn lại thuê xe",
+   "kw2": [
+    "mất cọc khi hủy thuê xe máy",
+    "điều khoản không hoàn cọc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người chuẩn bị đặt cọc thuê xe máy ở Hà Nội qua tin nhắn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-018",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm tạm giữ tiền cọc chờ báo giá sửa xe: thống nhất thời hạn, cách báo và nơi nhận phần còn lại",
+   "intent": "Biết thỏa thuận gì khi trả xe có hư hỏng cần thợ kiểm tra và tiệm tạm giữ cọc: hẹn mốc báo giá, hình thức gửi hóa đơn và cách nhận lại phần cọc còn lại.",
+   "kw": "tiệm tạm giữ cọc chờ sửa xe",
+   "kw2": [
+    "giữ cọc chờ báo giá sửa chữa",
+    "nhận phần cọc còn lại sau sửa xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người vừa trả xe máy thuê ở Hà Nội có va quẹt cần sửa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-019",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm đề nghị bổ sung cọc giữa kỳ thuê: hỏi lý do, ghi nhận bằng văn bản và giữ biên nhận mới",
+   "intent": "Hiểu những tình huống tiệm có thể đề nghị cọc thêm giữa kỳ thuê như đổi xe hay đi xa, biết hỏi lý do và yêu cầu biên nhận bổ sung rõ ràng.",
+   "kw": "bổ sung cọc giữa kỳ thuê xe",
+   "kw2": [
+    "tiệm đòi cọc thêm khi đang thuê",
+    "biên nhận cọc bổ sung xe máy"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đang thuê xe máy dài ngày ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-020",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Khách thuê xe quen nhiều lần: có được linh hoạt thủ tục cọc không và nên đề nghị thế nào",
+   "intent": "Biết cách trao đổi lịch sự với tiệm quen về thủ tục cọc và giấy tờ cho lần thuê tiếp theo, hiểu rằng mỗi lần thuê vẫn cần xác nhận lại trực tiếp.",
+   "kw": "khách quen thuê xe có cần cọc",
+   "kw2": [
+    "thuê xe nhiều lần thủ tục cọc",
+    "đề nghị tiệm quen linh hoạt cọc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người ở Hà Nội thường xuyên thuê xe máy ở cùng một tiệm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-021",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Đặt cọc thuê xe máy bằng thẻ tín dụng ở Hà Nội: tiệm nhỏ có nhận không và nên hỏi gì trước",
+   "intent": "Biết cách hỏi tiệm thuê xe có nhận cọc qua thẻ tín dụng hay không, phân biệt quẹt thẻ thanh toán với tạm giữ tiền, và chuẩn bị phương án khác nếu tiệm không nhận.",
+   "kw": "cọc thuê xe bằng thẻ tín dụng",
+   "kw2": [
+    "quẹt thẻ đặt cọc thuê xe máy",
+    "thuê xe máy cọc bằng thẻ"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người quen thanh toán bằng thẻ, gồm cả Việt kiều về Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-022",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Thuê xe máy qua người quen giới thiệu: vẫn nên có biên nhận cọc và tin nhắn xác nhận điều kiện",
+   "intent": "Hiểu vì sao dù thuê xe của người quen hoặc qua lời giới thiệu vẫn nên ghi rõ khoản cọc, giấy tờ để lại và điều kiện hoàn, để giữ quan hệ tốt khi có sự cố.",
+   "kw": "thuê xe người quen cần biên nhận",
+   "kw2": [
+    "thuê xe qua giới thiệu đặt cọc",
+    "biên nhận cọc khi thuê xe người quen"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội qua bạn bè, đồng nghiệp giới thiệu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-023",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm thuê xe chuyển địa chỉ khi bạn đang thuê dài ngày: cập nhật biên nhận cọc và nơi trả xe",
+   "intent": "Biết cần làm gì khi tiệm thông báo chuyển sang địa điểm mới trong lúc mình đang thuê xe dài ngày: xác nhận lại người giữ cọc, giấy tờ và địa chỉ trả xe bằng tin nhắn.",
+   "kw": "tiệm thuê xe chuyển địa chỉ",
+   "kw2": [
+    "đổi nơi trả xe thuê dài hạn",
+    "xác nhận lại cọc khi tiệm chuyển"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy theo tháng hoặc dài ngày ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-024",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Xe thuê có gắn định vị: hỏi tiệm dùng để làm gì và có liên quan đến điều kiện hoàn cọc không",
+   "intent": "Hiểu vì sao một số xe thuê có thiết bị định vị, biết hỏi tiệm về mục đích sử dụng, phạm vi đi lại đã thỏa thuận và việc đó có ảnh hưởng tới hoàn cọc hay không.",
+   "kw": "xe thuê có gắn định vị",
+   "kw2": [
+    "thiết bị định vị xe máy thuê",
+    "định vị xe thuê và tiền cọc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người thuê xe máy ở Hà Nội muốn đi ra ngoại thành hoặc đi tỉnh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2Y-025",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Chuyển cọc dư hoặc chuyển trùng hai lần khi thuê xe: nhắn tiệm đối chiếu và nhận lại phần thừa",
+   "intent": "Biết các bước khi lỡ chuyển khoản cọc nhiều hơn thỏa thuận hoặc chuyển trùng hai lần: chụp lịch sử giao dịch, nhắn tiệm đối chiếu và hẹn cách hoàn phần thừa.",
+   "kw": "chuyển cọc thuê xe bị dư",
+   "kw2": [
+    "chuyển trùng tiền cọc thuê xe",
+    "nhận lại tiền cọc chuyển thừa"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2Y",
+   "audience": "Người đặt cọc thuê xe máy ở Hà Nội bằng chuyển khoản",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
