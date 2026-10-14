@@ -21,13 +21,13 @@ Nhiều người nghĩ biển là phải đi xa, nhưng với hai ngày cuối t
 
 ## Chọn xe cho tuyến biển
 
-Tuyến Đồ Sơn không có dốc, nhưng có ba loại áp lực riêng lên chiếc xe: gió biển, cát và muối. Gió ngang ở đoạn đê và đoạn ven biển cuối chiều có thể mạnh bất ngờ, nhất là khi xe chở hai người và túi đồ, nên chọn xe có trọng lượng vừa phải và tay lái chắc, không quá nhẹ. Xe ga tiện cốp đựng đồ tắm và đồ khô riêng; xe số khỏe hơn khi vượt đoạn đường đê có gió ngang. Trước khi nhận xe, kiểm tra phanh, lốp, và đặc biệt đèn, vì nhiều người chủ quan đoạn về biển lúc chiều muộn rồi gặp trời tối sớm hơn dự kiến.
+Tuyến Đồ Sơn không có dốc, nhưng có ba loại áp lực riêng lên chiếc xe: gió biển, cát và muối. Gió ngang ở đoạn đê và đoạn ven biển cuối chiều có thể mạnh bất ngờ, nhất là khi xe chở hai người và túi đồ, nên chọn xe có trọng lượng vừa phải và tay lái chắc, không quá nhẹ. Xe ga tiện cốp đựng đồ tắm và đồ khô riêng; xe số khỏe hơn khi vượt đoạn đường đê có gió ngang. Trước khi nhận xe, kiểm tra phanh, lốp, và đặc biệt đèn, vì nhiều người chủ quan đoạn về biển lúc chiều muộn rồi gặp trời tối sớm hơn dự kiến. Muốn hỏi xe nào hợp với tuyến biển trước khi nhận, bạn có thể nhắn qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
 
 Về xăng: đổ đầy trước khi rời vành đai Hà Nội, rồi đổ lại một lần ở khu gần biển. Trạm xăng ở vùng ven có những giờ đông như cuối tuần trưa, chủ động tránh để không mất nửa tiếng xếp hàng dưới nắng.
 
 ## Lộ trình gợi ý chiều đi
 
-Xuất phát bảy giờ sáng, ăn nhẹ trước khi lên đường vì quãng xuống phía Nam thường đói sớm. Chạy theo trục hướng nam, qua khu vực Hưng Yên hoặc sang tuyến đê tùy theo sở thích cảnh: tuyến đê dài hơn chút nhưng thoáng và an toàn cho xe máy, ít xe tải. Dừng giải lao lần một sau khoảng một tiếng rưỡi, uống nước, kiểm tra lại dây buộc đồ phía sau.
+Xuất phát bảy giờ sáng, ăn nhẹ trước khi lên đường vì quãng xuống phía Nam thường đói sớm. Chạy theo trục hướng nam, qua khu vực Hưng Yên hoặc sang tuyến đê tùy theo sở thích cảnh: tuyến đê dài hơn chút nhưng thoáng và an toàn cho xe máy, ít xe tải. Dừng giải lao lần một sau khoảng một tiếng rưỡi, uống nước, kiểm tra lại dây buộc đồ phía sau. Các phương án tuyến khác được mô tả trong bài [cung đường từ Hà Nội xuống Đồ Sơn](/cung-duong/2026/10/01/i-o-son-bang-xe-may-tu-ha-noi-cung-uong-ven-bien/), còn gợi ý chỗ dừng chân có trong bài [điểm nghỉ trên đường đi biển Đồ Sơn](/cung-duong/2026/10/04/i-bien-o-son-bang-xe-may-tu-ha-noi-cung-uong-va-iem-nghi/).
 
 Đoạn qua Thái Bình là phần đẹp nhất của chiều đi nếu đi đúng mùa lúa: đê cao, đồng hai bên phẳng xanh, gió sông thổi mát cả người. Cầu Hai và các cầu nhỏ dọc tuyến hay có gió chéo, giảm tốc và ngồi thấp lại khi qua. Ranh giới vào Hải Phòng dễ nhận vì mật độ xe tăng và nhà cửa dày dần lên; từ đây đến Đồ Sơn còn chặng ngắn, đi chậm theo dòng xe địa phương. Đến khu biển trước mười một giờ trưa, gửi xe tại chỗ nghỉ, thay đồ và dùng bữa trưa hải sản ở khu chợ gần biển, giá thường dễ chịu hơn khu nhà hàng mặt bãi.
 
@@ -57,8 +57,6 @@ Hai ngày một đêm với xe máy nghĩa là toàn bộ hành trang phải gó
 Giày đi biển nên là đôi sandal quai hậu, giày vải trắng đẹp trên ảnh nhưng ướt muối thì coi như bỏ. Mũ rộng vành quan trọng hơn vẻ ngoài: nắng biển hai ngày chiếu thẳng vào cổ gáy người lái, say nắng biển dễ hơn say nắng phố vì ít khi được bóng che. Kem chống nắng bôi trước khi lên đường và sau mỗi lần tắm, da cháy nắng chiều về mới nhận ra thì đã muộn.
 
 Một vật ít ai nhớ: vài túi nilon lớn để bọc điện thoại và giấy tờ khi dạo bãi, sóng tạt và mưa biển đến không báo trước. Còng chìa khóa chỗ nghỉ nên đeo cổ tay khi tắm, chìa xe để tại két sắt nơi gửi đồ, không mang theo ra bãi vì mất chìa giữa cát là rắc rối lớn với xe thuê.
-
-Đồ Sơn hai ngày: đi sớm thứ bảy theo tuyến đê, nghỉ đêm gần bãi, tắm sáng sớm ngày hai khi nước còn trong, ăn hải sản ở quán dân, và rời biển trước ba giờ chiều chủ nhật. Chọn xe chắc tay, đổ xăng chủ động, giữ đồ khô riêng khỏi cát. Tham khảo thêm các điểm du lịch quanh Hà Nội trong mục [du lịch]( {{ '/du-lich/' | relative_url }}), và kinh nghiệm thuê xe cho các tuyến xa trong mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}).
 
 ## Tóm lại
 

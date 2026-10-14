@@ -13,7 +13,7 @@ campaign: hanoi-seo-480
 
 Ngồi làm việc bên máy tính suốt tám tiếng rồi bắt xe về nhà, cơ thể và đôi mắt chưa sẵn sàng cho dòng xe giờ cao điểm. Bài viết này giải thích vì sao giai đoạn chuyển từ màn hình sang tay lái dễ xảy ra sự cố, và những bài khởi động ngắn giúp bạn lấy lại trạng thái lái an toàn.
 
-Trả lời ngắn gọn: sau nhiều giờ ngồi máy tính, cổ vai gáy cứng, mắt mỏi vì nhìn gần liên tục và phản xạ chậm đi, tất cả đều là yếu tố lái xe xấu. Trước khi lên xe, dành ba đến năm phút đi bộ nhẹ, xoay cổ vai, nhìn xa để mắt điều tiết lại, và chặng đầu tiên đi chậm hơn bình thường. Cơ thể cần thời gian chuyển đổi, giống máy cần thời gian khởi động.
+Trả lời ngắn gọn: sau nhiều giờ ngồi máy tính, cổ vai gáy cứng, mắt mỏi vì nhìn gần liên tục và phản xạ chậm đi, tất cả đều là yếu tố lái xe xấu. Trước khi lên xe, dành khoảng ba phút đi bộ nhẹ, xoay cổ vai, nhìn xa để mắt điều tiết lại, và chặng đầu tiên đi chậm hơn bình thường. Cơ thể cần thời gian chuyển đổi, giống máy cần thời gian khởi động.
 
 ## Cơ thể thay đổi gì sau ngày ngồi máy tính
 
@@ -33,7 +33,7 @@ Một cú sốc ánh sáng ít ai để ý: từ phòng máy lạnh với màn h
 
 ## Tư thế trên xe sau ngày ngồi sai
 
-Tư thế xấu trong ngày kéo theo tư thế xấu trên yên: vai cao lên, cằm thò ra, lưng cong. Tư thế này vừa làm mỏi nhanh hơn khi lái, vừa giảm tầm quan sát vì đầu không xoay thoải mái. Khi mới lên xe, chỉnh lại mình một lần có chủ đích: hạ vai, kéo cằm nhẹ, ngồi thẳng lưng, hai tay giữ tay lái ở vị trí khuỷu cong. Thỉnh thoảng ở đèn đỏ dài, dùng vài giây để xoay cổ và hạ vai trở lại. Với quãng về dài, đây là những lần khởi động giữa chặng quý giá.
+Tư thế xấu trong ngày kéo theo tư thế xấu trên yên: vai cao lên, cằm thò ra, lưng cong. Tư thế này vừa làm mỏi nhanh hơn khi lái, vừa giảm tầm quan sát vì đầu không xoay thoải mái. Khi mới lên xe, chỉnh lại mình một lần có chủ đích: hạ vai, kéo cằm nhẹ, ngồi thẳng lưng, hai tay giữ tay lái ở vị trí khuỷu cong. Thỉnh thoảng ở đèn đỏ dài, dùng vài giây để xoay cổ và hạ vai trở lại. Với quãng về dài, đây là những lần khởi động giữa chặng quý giá; cách ngồi trên yên cho chặng dài được nói kỹ hơn ở bài [tư thế ngồi khi đi xe máy lâu](/kinh%20nghi%E1%BB%87m/2026/09/19/tu-the-va-ve-sinh-khi-di-xe-may-lau/).
 
 ## Mệt mỏi tích lũy và quyết định về nhà
 
@@ -45,11 +45,11 @@ Người về muộn trên xe điện cần lưu ý thêm về pin: chạy khi m
 
 ## Những cơn đau báo hiệu cần điều chỉnh lại ngày làm việc
 
-Nếu mỗi buổi tối về bạn đều thấy tê bàn tay, mỏi cổ tới khó xoay, hoặc nhức mắt khô rát, đó là những tín hiệu của tư thế làm việc cần chỉnh, không chỉ là chuyện lái xe. Kiểm tra lại chiều cao màn hình ngang mắt, ghế ngồi có chống đỡ thắt lưng không, và thói quen đứng dậy mỗi giờ. Vấn đề ở văn phòng sẽ theo bạn lên yên xe mỗi tối, nên sửa ở gốc luôn hiệu quả hơn xử lý ở ngọn. Một cơ thể được chăm sóc tốt trong giờ làm sẽ lái xe tốt hơn vào giờ về, và đó là lý do những điều chỉnh nhỏ nơi làm việc cũng là một khoản đầu tư an toàn giao thông.
+Nếu mỗi buổi tối về bạn đều thấy tê bàn tay, mỏi cổ tới khó xoay, hoặc nhức mắt khô rát, đó là những tín hiệu của tư thế làm việc cần chỉnh, không chỉ là chuyện lái xe. Nếu cổ vẫn đau cả khi đang lái, xem thêm [cách chỉnh tư thế khi ngồi xe lâu bị đau cổ](/ky-nang/2026/10/07/ngoi-xe-may-lau-au-co-nen-chinh-tu-the-the-nao/). Kiểm tra lại chiều cao màn hình ngang mắt, ghế ngồi có chống đỡ thắt lưng không, và thói quen đứng dậy mỗi giờ. Vấn đề ở văn phòng sẽ theo bạn lên yên xe mỗi tối, nên sửa ở gốc luôn hiệu quả hơn xử lý ở ngọn. Một cơ thể được chăm sóc tốt trong giờ làm sẽ lái xe tốt hơn vào giờ về, và đó là lý do những điều chỉnh nhỏ nơi làm việc cũng là một khoản đầu tư an toàn giao thông.
 
 ## Uống nước và ăn nhẹ trước quãng về
 
-Cơ thể mất nước sau ngày ngồi phòng lạnh khiến sự tập trung giảm âm thầm, và đường huyết thấp vào cuối chiều gây khó chịu mơ hồ mà nhiều người nhầm là chỉ muốn về nhanh. Uống một cốc nước và ăn nhẹ gì đó trước khi lên xe là cách tiếp nhiên liệu cho cả người lẫn sự phán đoán. Tránh các món quá no khiến buồn ngủ, và tránh cà phê muộn nếu quãng về dài, vì caffeine làm tay rung nhẹ đủ ảnh hưởng độ mượt của thao tác ga phanh.
+Cơ thể mất nước sau ngày ngồi phòng lạnh khiến sự tập trung giảm âm thầm, và đường huyết thấp vào cuối chiều gây khó chịu mơ hồ mà nhiều người nhầm là chỉ muốn về nhanh. Uống một cốc nước và ăn nhẹ gì đó trước khi lên xe là cách tiếp nhiên liệu cho cả người lẫn sự phán đoán. Tránh các món quá no khiến buồn ngủ, và tránh cà phê muộn nếu quãng về dài, vì với một số người caffeine có thể làm tay rung nhẹ, ảnh hưởng độ mượt của thao tác ga phanh.
 
 ## Kết bạn với quãng chuyển tiếp
 

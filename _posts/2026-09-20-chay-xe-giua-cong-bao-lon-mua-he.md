@@ -15,13 +15,13 @@ Mưa hè thông thường là chuyện quen, nhưng cơn dông bão là chuyện
 
 ## Quyết định đầu tiên và quan trọng nhất: dừng
 
-Giữa cơn bão, mọi phân tích kỹ thuật đều kém hơn một quyết định đơn giản: dừng lại ở nơi an toàn. Cơn dông hè thường dữ trong hai mươi phút đến một giờ rồi giảm, và phần lớn tai nạn xảy ra trong khung dữ nhất vì người ta cố chạy đua với nó. Dừng không phải bỏ cuộc, dừng là chờ khung an toàn nhất của cả cơn mưa, và gần như lúc nào cũng tồn tại một chỗ trú trong bán kính vài trăm mét: mái hiên nhà dòng, cửa hàng, trạm chờ xe buýt, cầu vượt có mái, sảnh chung cư, mái che bến xe.
+Giữa cơn bão, mọi phân tích kỹ thuật đều kém hơn một quyết định đơn giản: dừng lại ở nơi an toàn. Cơn dông hè thường dữ trong hai mươi phút đến một giờ rồi giảm, và nhiều tình huống nguy hiểm xảy ra trong khung dữ nhất vì người ta cố chạy đua với nó. Dừng không phải bỏ cuộc, dừng là chờ khung an toàn nhất của cả cơn mưa, và gần như lúc nào cũng tồn tại một chỗ trú trong bán kính vài trăm mét: mái hiên nhà dân, cửa hàng, trạm chờ xe buýt, cầu vượt có mái, sảnh chung cư, mái che bến xe.
 
-Cách dừng cũng quan trọng. Không phanh gấp giữa làn rồi đứng dưới mưa nhìn quanh tìm chỗ, mà giảm tốc, bật xi nhan sớm, bám lề từ từ và đi chậm tới điểm trú gần nhất. Nếu đang ở đoạn cao tốc lòng đường hay cầu dài không có chỗ dừng, giữ tốc độ thấp ổn định, bật đèn, và đi tới điểm xuống gần nhất thay vì quay đầu giữa cầu trong bão.
+Cách dừng cũng quan trọng. Không phanh gấp giữa làn rồi đứng dưới mưa nhìn quanh tìm chỗ, mà giảm tốc, bật xi nhan sớm, bám lề từ từ và đi chậm tới điểm trú gần nhất. Nếu đang ở đoạn cao tốc lòng đường hay cầu dài không có chỗ dừng, giữ tốc độ thấp ổn định, bật đèn, và đi tới điểm xuống gần nhất thay vì quay đầu giữa cầu trong bão. Cách giữ xe khi [gió lớn và giông nổi lên giữa đường](/ky-nang/2026-09-29/gio-lon-va-con-giong-giua-uong/) được nói kỹ ở một bài riêng.
 
 ## Chọn chỗ trú đúng
 
-Không phải mọi mái che đều an toàn trong bão. Chỗ tốt: công trình kiên cố có mái chắc, bên trong sâu khỏi mép mái vì nước chảy mái và gió tạt mưa ngang, xa khỏi biển quảng cáo lớn, cây to, chậu hoa mái nhà, và các vật treo cao. Chỗ xấu nhưng hay bị chọn vì quen: dưới gốc cây to, điện thêm rủi ro sét và cành gãy, hai bên biển bạt quảng cáo, có thể bay bất cứ lúc nào, và sát cột điện, tủ điện. Cầu vượt có mái là lựa chọn tốt nhưng đông nhanh, vào sớm thì có chỗ, và nhớ dựng xe sát nhau nhường chỗ cho người đến sau.
+Không phải mọi mái che đều an toàn trong bão. Chỗ tốt: công trình kiên cố có mái chắc, bên trong sâu khỏi mép mái vì nước chảy mái và gió tạt mưa ngang, xa khỏi biển quảng cáo lớn, cây to, chậu hoa mái nhà, và các vật treo cao. Chỗ xấu nhưng hay bị chọn vì quen: dưới gốc cây to, thêm rủi ro sét và cành gãy, cạnh biển bạt quảng cáo có thể bay bất cứ lúc nào, và sát cột điện, tủ điện. Cầu vượt có mái là lựa chọn tốt nhưng đông nhanh, vào sớm thì có chỗ, và nhớ dựng xe sát nhau nhường chỗ cho người đến sau. Gợi ý thêm về [chỗ trú khi mưa lớn ở Hà Nội](/ky-nang/2026/09/30/chay-xe-may-khi-mua-lon-o-ha-noi-tru-au-va-luu-y-gi/) có trong bài riêng.
 
 Một lưu ý về thời gian trú: cơn dông giảm không có nghĩa là hết rủi ro. Mưa tạnh gió yếu nhưng đường còn ngập các đoạn, cành cây còn gãy lắt nhắt, và biển báo cột mốc có thể bị xê dịch. Trú đủ lâu cho cơn dữ qua, rồi đi chậm phần còn lại của chuyến với tâm thế đường đã đổi khác trước khi mình đi lại.
 
@@ -33,7 +33,7 @@ Với xe máy điện, giữa bão tuyệt đối không sạc và không để 
 
 ## Khi nào bắt buộc hoãn hẳn
 
-Có những lúc đúng là không nên đi tiếp, dù trời đã tạnh: sau bão mà dự báo còn đợt giông tiếp theo trong buổi, quãng đường còn lại trùm lên các vùng ngập sâu, trời đã tối hẳn cộng đường bão chưa ráo, hoặc bản thân đã ướt lướt thướt và lạnh run giữa mùa hè cũng xảy ra với mưa bão to. Các phương án hoãn: gửi xe qua đêm ở bãi trông tin cậy, tận dụng nơi trú là chỗ quen để chờ người nhà, hoặc chấp nhận motel quán trọ gần nếu quãng về quá dài. Quyết định hoãn một buổi tối giá rẻ hơn nhiều quyết định băng qua vùng ngập đêm.
+Có những lúc đúng là không nên đi tiếp, dù trời đã tạnh: sau bão mà dự báo còn đợt giông tiếp theo trong buổi, quãng đường còn lại trùm lên các vùng ngập sâu, trời đã tối hẳn cộng đường bão chưa ráo, hoặc bản thân đã ướt sũng và lạnh run, điều vẫn xảy ra giữa mùa hè khi mưa bão to. Các phương án hoãn: gửi xe qua đêm ở bãi trông tin cậy, tận dụng nơi trú là chỗ quen để chờ người nhà, hoặc chấp nhận nhà nghỉ, quán trọ gần nếu quãng về quá dài. Hoãn một buổi tối rẻ hơn nhiều so với băng qua vùng ngập ban đêm.
 
 Với các chuyến đi có lịch hẹn trong bão, hẹn có thể dời, và một tin nhắn báo lý do ai cũng hiểu, vì người nhận tin có lẽ cũng đang trú bão đâu đó.
 
@@ -49,9 +49,9 @@ Khi cơn đã qua hẳn và mình về được, vài việc kết thúc đúng 
 
 Người đi xe máy cần biết đọc tin bão theo cách riêng của mình, khác với cách dân ở nhà đọc. Mức gió cấp tám cấp chín trung tâm bão không quan trọng bằng câu hỏi cụ thể: lúc mấy giờ, gió mạnh bao nhiêu tại vị trí của mình. Bão ngoài khơi Thanh Hóa vẫn có thể quét mưa lớn gió giật cấp sáu ở Hà Nội vào một buổi chiều nhất định, và ngược lại, tin bão trực tiếp nhiều khi chỉ gây mưa rào ở nội thành. Vì vậy đừng quyết định theo tiêu đề tin, hãy xem bản tin dự báo theo giờ của đài khí tượng, cộng với ứng dụng radar mưa để tự thấy đám mây đang dịch chuyển hướng nào, còn bao lâu tới chỗ mình đứng.
 
-Kinh nghiệm của người đi xe nhiều là soi radar trước khi ra đường vào mùa bão, ngay cả khi trời đang đẹp. Mây đối lưu mùa hè di chuyển nhanh, và khoảng cách hai mươi phút trên radar thường là thời gian đủ để quyết định đi ngay, đợi, hay đổi lịch hẹn. Chụp màn hình radar gửi cho người cùng hẹn cũng là thói quen tử tế,thay vì để mỗi người phỏng đoán riêng, giúp  mọi người cùng biết tình hình thay vì để mỗi người phỏng đoán riêng.
+Một thói quen nên có là soi radar trước khi ra đường vào mùa bão, ngay cả khi trời đang đẹp. Mây đối lưu mùa hè di chuyển nhanh, và khoảng cách hai mươi phút trên radar thường là thời gian đủ để quyết định đi ngay, đợi, hay đổi lịch hẹn. Chụp màn hình radar gửi cho người cùng hẹn cũng là thói quen tử tế, giúp mọi người cùng biết tình hình thay vì để mỗi người phỏng đoán riêng.
 
-Một điểm dễ quên là cúp điện và cây đổ không nằm trong dự báo. Với người đi xe, hậu quả bão mới là mối nguy chính: lòng đường đầy cành gãy, biển quảng cáo cong vẹo, dây điện chùng. Sau khi tâm bão đi qua, đường có thể đẹp trời nhưng vẫn đầy rác thải mưa và vật sắc nhọn, nên nếu buộc phải đi ngay sau bão, chạy chậm và nhìn đường thật kỹ thay vì mừng trời đã trong.
+Một điểm dễ quên là cúp điện và cây đổ không nằm trong dự báo. Với người đi xe, hậu quả bão mới là mối nguy chính: lòng đường đầy cành gãy, biển quảng cáo cong vẹo, dây điện chùng. Sau khi tâm bão đi qua, đường có thể đẹp trời nhưng vẫn đầy rác thải mưa và vật sắc nhọn, nên nếu buộc phải đi ngay sau bão, chạy chậm và nhìn đường thật kỹ thay vì mừng trời đã trong, nhất là [những đoạn nên tránh ngay sau mưa lớn](/ky-nang/2026/10/04/chay-xe-ngay-sau-mua-lon-nhung-oan-nen-tranh/).
 
 ## Chia sẻ phương án với người cùng đi
 

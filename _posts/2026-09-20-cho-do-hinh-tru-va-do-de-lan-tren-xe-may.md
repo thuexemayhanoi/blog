@@ -13,9 +13,11 @@ campaign: hanoi-seo-480
 
 Chở đồ dài đã khó, nhưng chở đồ hình trụ và đồ dễ lăn là một bài toán khác hẳn: chai nước lớn, thùng carton tròn, ống nhựa cuộn, hộp bánh hình trụ, thùng phuy nhỏ. Đặc điểm nguy hiểm của nhóm đồ này là nó không nằm yên: vật tròn muốn lăn theo mọi hướng xe nghiêng, muốn trượt ra sau khi tăng ga, và muốn văng ra trước khi phanh gấp. Bài viết này đi qua cách khiến vật tròn trở thành vật đứng yên trên suốt hành trình.
 
+Ngắn gọn: đặt vật tròn càng thấp càng tốt, chặn chiều lăn bằng điểm chặn hoặc dây buộc chéo chữ X, kiểm tra lại dây sau đoạn đi đầu tiên, đi chậm và tránh rẽ gấp; hàng quá khả năng của xe máy thì gọi xe chở.
+
 ## Vì sao đồ tròn là loại đồ nguy hiểm nhất để chở
 
-Một vật hình hộp khi buộc lỏng chỉ trượt đi từng phần, nhưng một vật hình tròn khi buộc lỏng thì biến sức buộc của bạn thành trục lăn: xe nghiêng mười độ, vật lăn ra phía nghiêng, làm xe nghiêng thêm, và vòng lặp phản hồi này diễn ra trong nửa giây. Cú ngã vì thùng tròn lăn dưới đòn sau là kiểu tai nạn rất phổ biến với người chở hàng bằng xe máy. Về vật lý, giải pháp chỉ có hai nhánh: hoặc biến vật tròn thành vật có mặt phẳng đứng, hoặc khóa chiều lăn của nó bằng các điểm chặn. Mọi kỹ thuật dưới đây đều là biến thể của hai nhánh đó.
+Một vật hình hộp khi buộc lỏng chỉ trượt đi từng phần, nhưng một vật hình tròn khi buộc lỏng thì biến sức buộc của bạn thành trục lăn: xe nghiêng mười độ, vật lăn ra phía nghiêng, làm xe nghiêng thêm, và vòng lặp phản hồi này diễn ra trong nửa giây. Thùng tròn lăn lệch trên giá sau hoàn toàn có thể khiến xe ngã. Về vật lý, giải pháp chỉ có hai nhánh: hoặc biến vật tròn thành vật có mặt phẳng đứng, hoặc khóa chiều lăn của nó bằng các điểm chặn. Mọi kỹ thuật dưới đây đều là biến thể của hai nhánh đó.
 
 ## Biến vật tròn thành vật đứng vững
 
@@ -23,7 +25,7 @@ Cách đơn giản nhất để chở vật tròn là đặt nó nằm ngang và
 
 ## Dây buộc và các nút chặn
 
-Loại dây quyết định thành bại của việc chở đồ tròn. Dây thun trơn trượt là lựa chọn tệ nhất cho vật tròn, vì mặt tiếp xúc giữa dây và vật cong chỉ là một điểm nhỏ, dây dễ trượt dọc thân vật. Dây buộc hàng có khóa căng là lựa chọn tốt, cùng với lưới chùm hàng cho các vật nhiều chiếc. Kỹ thuật buộc vật tròn luôn là chéo chữ X qua thân vật và cố định vào hai điểm khác phía trên và dưới, biến lực căng thành lực ép vật vào mặt phẳng đỡ. Luôn kiểm tra lại độ căng sau hai trăm mét đầu tiên đi thử, vì vật tròn có xu hướng tự chỉnh vị trí trong lần rung đầu tiên và sau đó dây liền tỏa ra. Mang theo vài sợi dây dự phòng, vì một sợi bị tuột rơi giữa đường là chuyện thường.
+Loại dây quyết định thành bại của việc chở đồ tròn. Dây thun trơn trượt là lựa chọn tệ nhất cho vật tròn, vì mặt tiếp xúc giữa dây và vật cong chỉ là một điểm nhỏ, dây dễ trượt dọc thân vật. Dây buộc hàng có khóa căng là lựa chọn tốt, cùng với lưới chùm hàng cho các vật nhiều chiếc. Kỹ thuật buộc vật tròn nên là chéo chữ X qua thân vật và cố định vào hai điểm khác phía trên và dưới, biến lực căng thành lực ép vật vào mặt phẳng đỡ. Luôn kiểm tra lại độ căng sau hai trăm mét đầu tiên đi thử, vì vật tròn có xu hướng tự chỉnh vị trí trong lần rung đầu tiên và sau đó dây dễ bị chùng ra. Mang theo vài sợi dây dự phòng, vì một sợi bị tuột rơi giữa đường là chuyện thường.
 
 ## Bình nước, phuy nhựa và các vật chứa chất lỏng
 
@@ -31,7 +33,7 @@ Bình nước lớn chở trên xe có thêm một vấn đề: chất lỏng b�
 
 ## Thùng carton và các vật giấy
 
-Thùng carton tròn chứa đồ nhẹ dễ chở hơn bình nước nhưng có vấn đề riêng: mưa và độ ẩm làm các nếp gấp mềm đi, và thùng ướt rách giữa chừng. Nếu dự báo có mưa, bọc thùng trong túi lớn, và khi buộc, chèn các miếng bìa cứng vào các vị trí dây đè lên mép thùng để phân tán lực, tránh dây cắt rách nắp. Thùng vuông chở được nhiều hơn nhưng dễ tạo cảm giác quá khổ, hãy luôn đối chiếu tổng chiều rộng của hàng với lan can xe xung quanh: nếu hàng rộng hơn thân xe quá hai bàn tay mỗi bên, gió và các xe vuốt qua sẽ tác động lên hàng liên tục, và khi đó mọi kỹ thuật buộc cũng chỉ giảm chứ không hết rủi ro.
+Thùng carton tròn chứa đồ nhẹ dễ chở hơn bình nước nhưng có vấn đề riêng: mưa và độ ẩm làm các nếp gấp mềm đi, và thùng ướt rách giữa chừng. Nếu dự báo có mưa, bọc thùng trong túi lớn, và khi buộc, chèn các miếng bìa cứng vào các vị trí dây đè lên mép thùng để phân tán lực, tránh dây cắt rách nắp. Thùng vuông chở được nhiều hơn nhưng dễ tạo cảm giác quá khổ, hãy luôn đối chiếu tổng chiều rộng của hàng với chiều rộng thân xe: nếu hàng rộng hơn thân xe quá hai bàn tay mỗi bên, gió và các xe vuốt qua sẽ tác động lên hàng liên tục, và khi đó mọi kỹ thuật buộc cũng chỉ giảm chứ không hết rủi ro.
 
 ## Ống cuộn, ống nhựa và vật cuộn dài
 
@@ -39,11 +41,11 @@ Vật cuộn dài như ống nhựa, ống đồng cuộn tròn có một lợi 
 
 ## Phân bổ trọng lượng giữa các chuyến
 
-Vật tròn và nặng, ví dụ bình đầy nước, nên đặt thấp nhất có thể: sát vào khoang chân hoặc trên bệ giữa hai càng, không bao giờ chất cao trên yên sau hoặc lên giàn trên cao, vì trọng tâm cao làm mọi chuyển động của vật khuếch đại thành lực lật. Chia hàng thành nhiều chuyến với mỗi chuyến hai ba vật to luôn an toàn hơn gom một chuyến lớn, và tính toán tuyến đi đường to, ít ngõ gập, dù xa hơn chút. Tốc độ đi khi chở đồ tròn nên giảm một mức so với không đồ, và tránh tuyệt đối các cú rẽ nhanh, vì lực ly tâm tác động lên vật tròn theo hướng lăn ra ngoài cua, đúng hướng làm bạn mất thăng bằng.
+Vật tròn và nặng, ví dụ bình đầy nước, nên đặt thấp nhất có thể: sát vào khoang chân hoặc trên bệ giữa hai càng, không bao giờ chất cao trên yên sau hoặc lên giàn trên cao, vì trọng tâm cao làm mọi chuyển động của vật khuếch đại thành lực lật. Chia hàng thành nhiều chuyến với mỗi chuyến hai ba vật to thường an toàn hơn gom một chuyến lớn, và tính toán tuyến đi đường to, ít ngõ gập, dù xa hơn chút. Tốc độ đi khi chở đồ tròn nên giảm một mức so với không đồ, và tránh tuyệt đối các cú rẽ nhanh, vì lực ly tâm tác động lên vật tròn theo hướng lăn ra ngoài cua, đúng hướng làm bạn mất thăng bằng.
 
 ## Đi thử và kiểm tra giữa chừng
 
-Trước mỗi chuyến chở đồ tròn đáng kể, đi thử một vòng ngắn quanh khu: phanh nhẹ, phanh gấp có kiểm soát, rẽ hai bên, và để ý mọi tiếng trượt hay cảm giác xe nặng lệch một bên. Trên đường dài, dừng kiểm tra dây và vị trí hàng sau mỗi vài cây số đầu tiên, vì hầu hết các sự cố rơi hàng xảy ra trong năm cây số đầu của chuyến đi, khi hàng chưa vào thế ổn định. Nếu có người ngồi sau, phân công rõ: người lái lo lái, người sau lo hai tay giữ hàng, và tuyệt đối không để người ngồi sau vừa giữ hàng to vừa cầm điện thoại hay ô dù.
+Trước mỗi chuyến chở đồ tròn đáng kể, đi thử một vòng ngắn quanh khu: phanh nhẹ, phanh gấp có kiểm soát, rẽ hai bên, và để ý mọi tiếng trượt hay cảm giác xe nặng lệch một bên. Trên đường dài, dừng kiểm tra dây và vị trí hàng sau mỗi vài cây số đầu tiên, vì hàng thường xê dịch nhiều ở đoạn đầu của chuyến đi, khi chưa vào thế ổn định. Nếu có người ngồi sau, phân công rõ: người lái lo lái, người sau lo hai tay giữ hàng, và tuyệt đối không để người ngồi sau vừa giữ hàng to vừa cầm điện thoại hay ô dù.
 
 ## Khi hàng quá khả năng của xe máy
 
@@ -55,4 +57,4 @@ Trời mưa làm mọi vấn đề của hàng tròn tệ hơn gấp đôi: dây
 
 ## Tổng kết cách nghĩ về hàng tròn
 
-Chở đồ hình trụ an toàn nhất định ở ba nguyên tắc: biến tròn thành đứng, chặn chiều lăn, và kiểm tra lại sau khi vào thế. Đầy đủ dây đúng loại, các miếng chèn, và sự kiên nhẫn chia chuyến, gần như mọi nhu cầu chở vật tròn hằng ngày đều xử lý được. Nếu bạn có nhu cầu chở hàng thường xuyên trong kỳ thuê xe dài hạn và muốn tư vấn loại xe có giàn, cốp phù hợp, hãy xem [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) hoặc [liên hệ]( {{ '/lien-he/' | relative_url }}) để được trao đổi cụ thể.
+Chở đồ hình trụ an toàn nhất định ở ba nguyên tắc: biến tròn thành đứng, chặn chiều lăn, và kiểm tra lại sau khi vào thế. Đầy đủ dây đúng loại, các miếng chèn, và sự kiên nhẫn chia chuyến, gần như mọi nhu cầu chở vật tròn hằng ngày đều xử lý được. Nếu bạn có nhu cầu chở hàng thường xuyên trong kỳ thuê xe dài hạn và muốn tư vấn loại xe có giàn, cốp phù hợp, hãy xem [bảng giá thuê xe số](/bang-gia-xe-so/), các bài [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) hoặc [liên hệ]( {{ '/lien-he/' | relative_url }}) để được trao đổi cụ thể.

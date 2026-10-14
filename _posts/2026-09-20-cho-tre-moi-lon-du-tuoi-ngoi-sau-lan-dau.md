@@ -19,15 +19,15 @@ Có một cột mốc ít ai nói tới nhưng ai cũng trải qua: buổi đầ
 
 ## Chọn mũ bảo hiểm đúng cho lần đầu
 
-Mũ của trẻ mới lớn là khoản đáng đầu tư, vì đầu trẻ lớn nhanh và cái mũ cũ của ba năm trước gần như chắc chắn đã chật. Mũ phải ôm vòng đầu, buộc chặt hai tua, không lệch khi lắc đầu. Trẻ thường chọn mũ theo màu và hình in, hãy lợi dụng điều đó: để con chọn màu con thích trong nhóm mũ đạt chuẩn, con sẽ thích đội hơn và ít vùng vằng mỗi sáng. Trước buổi chạy đầu tiên, cho con đội mũ ở nhà mười lăm phút để quen cảm giác, điều chỉnh dây trước gương. Một lỗi của cha mẹ là cài dây lỏng cho con dễ chịu, nhưng dây lỏng làm mũ tuột khỏi đúng vị trí khi cần đến nó nhất.
+Mũ của trẻ mới lớn là khoản đáng đầu tư, vì đầu trẻ lớn nhanh và cái mũ cũ của ba năm trước nhiều khả năng đã chật. Mũ phải ôm vòng đầu, buộc chặt hai tua, không lệch khi lắc đầu. Trẻ thường chọn mũ theo màu và hình in, hãy lợi dụng điều đó: để con chọn màu con thích trong nhóm mũ đạt chuẩn, con sẽ thích đội hơn và ít vùng vằng mỗi sáng. Trước buổi chạy đầu tiên, cho con đội mũ ở nhà mười lăm phút để quen cảm giác, điều chỉnh dây trước gương. Một lỗi của cha mẹ là cài dây lỏng cho con dễ chịu, nhưng dây lỏng làm mũ tuột khỏi đúng vị trí khi cần đến nó nhất.
 
 ## Ba quy tắc phải thống nhất trước khi lên xe
 
-Trước buổi chạy đầu, ngồi xuống với con và thống nhất ba quy tắc, chỉ ba thôi để con nhớ. Một, hai tay luôn bám tay nắm hoặc ôm người lớn, không buông tay vì bất kỳ lý do gì, kể cả khi muốn chỉ thứ gì đó, muốn chỉ thì nói bằng miệng. Hai, người ngồi yên theo xe, không nghiêng ngắm, không xoay lại nhìn bạn gọi. Ba, lên xuống xe chỉ khi được phép, nghe chữ xuống mới được xuống. Nhắc lại ba quy tắc này ngay trước mỗi chuyến trong tuần đầu. Trẻ ghi nhớ quy tắc tốt hơn lời khuyên dài dòng, vì quy tắc ngắn có thể tự nhắc lại trong đầu khi đang ngồi sau.
+Trước buổi chạy đầu, ngồi xuống với con và thống nhất ba quy tắc, chỉ ba thôi để con nhớ. Một, hai tay luôn bám tay nắm hoặc ôm người lớn, không buông tay vì bất kỳ lý do gì, kể cả khi muốn chỉ thứ gì đó, muốn chỉ thì nói bằng miệng. Hai, người ngồi yên theo xe, không nghiêng ngắm, không xoay lại nhìn bạn gọi. Ba, lên xuống xe chỉ khi được phép, nghe chữ xuống mới được xuống. Nhắc lại ba quy tắc này ngay trước mỗi chuyến trong tuần đầu. Trẻ ghi nhớ quy tắc tốt hơn lời khuyên dài dòng, vì quy tắc ngắn có thể tự nhắc lại trong đầu khi đang ngồi sau. Xem thêm [cách thống nhất tín hiệu với người ngồi sau trước khi lên xe](/ky-nang/2026/10/11/cho-nguoi-ngoi-sau-lan-au-thong-nhat-tin-hieu-truoc-khi-len-xe/).
 
 ## Buổi tập đầu tiên: đoạn ngắn nơi vắng
 
-Đừng cho chuyến đầu tiên của con là đi học sáng thứ hai giữa giờ cao điểm. Chọn buổi chiều cuối tuần, đoạn đường thẳng vắng xe gần nhà, dài một hai cây số, chạy chậm. Buổi chạy này mục đích là cho cả hai quen cảm giác mới: con quen bám và cân bằng, bạn quen thêm khối lượng và cảm giác có người dịch chuyển phía sau. Trên đường, nói chuyện với con liên tục: sắp qua ổ gà nhé, con bám chắc, sắp rẽ nhé. Giọng bạn bình tĩnh truyền cho con sự bình tĩnh. Về tới nhà, hỏi con cảm giác gì, chỗ nào con thấy sợ, rồi sửa. Hãy khen đúng điểm con làm tốt, ví dụ con đã bám chắc suốt đường, bởi cảm giác được công nhận khiến buổi sau con tự giác hơn hẳn thay vì bị nhắc nhủ. Hai ba buổi như thế là đủ nền.
+Đừng cho chuyến đầu tiên của con là đi học sáng thứ hai giữa giờ cao điểm. Chọn buổi chiều cuối tuần, đoạn đường thẳng vắng xe gần nhà, dài một hai cây số, chạy chậm. Buổi chạy này mục đích là cho cả hai quen cảm giác mới: con quen bám và cân bằng, bạn quen thêm khối lượng và cảm giác có người dịch chuyển phía sau. Trên đường, nói chuyện với con liên tục: sắp qua ổ gà nhé, con bám chắc, sắp rẽ nhé. Giọng bạn bình tĩnh truyền cho con sự bình tĩnh. Về tới nhà, hỏi con cảm giác gì, chỗ nào con thấy sợ, rồi sửa. Hãy khen đúng điểm con làm tốt, ví dụ con đã bám chắc suốt đường, bởi cảm giác được công nhận khiến buổi sau con tự giác hơn hẳn thay vì bị nhắc nhủ. Hai ba buổi như thế là đủ nền. Nếu cần gợi ý chọn chỗ tập, hãy đọc [nên tập chở người ngồi sau lần đầu ở đâu](/hoi-dap/2026/10/04/lan-au-cho-nguoi-ngoi-sau-tap-o-au-va-lam-sao/).
 
 ## Nâng độ khó chuyến đi theo bậc
 
@@ -43,7 +43,7 @@ Trẻ ngồi sau chịu thời tiết mạnh hơn người lái vì không đư�
 
 ## Người lái thay đổi khi có trẻ phía sau
 
-Đây là phần ít người nói: khi có trẻ mới lớn ngồi sau, chính người lái phải tự chỉnh lại mình. Ga dịu hơn, phanh sớm hơn, né ổ gà thay vì cố chịu, giữ khoảng cách dài hơn với xe trước, và hạn chế tối đa các cua gắt. Tốc độ của chuyến đi với trẻ nên thấp hơn tốc độ bạn chạy một mình khoảng một phần tư. Bỏ thói quen luồn lách, vì mỗi lần luồn là một lần trẻ phải bám thêm để giữ thăng bằng mà con chưa quen. Hãy coi giai đoạn này là khóa học lại cho chính mình, nhiều cha mẹ kể rằng sau một mùa chở con, họ lái nhẹ nhàng hẳn với cả khi đi một mình.
+Đây là phần ít người nói: khi có trẻ mới lớn ngồi sau, chính người lái phải tự chỉnh lại mình. Ga dịu hơn, phanh sớm hơn, né ổ gà thay vì cố chịu, giữ khoảng cách dài hơn với xe trước, và hạn chế tối đa các cua gắt. Tốc độ của chuyến đi với trẻ nên thấp hơn tốc độ bạn chạy một mình khoảng một phần tư. Bỏ thói quen luồn lách, vì mỗi lần luồn là một lần trẻ phải bám thêm để giữ thăng bằng mà con chưa quen. Hãy coi giai đoạn này là khóa học lại cho chính mình, sau một mùa chở con, bạn có thể sẽ lái nhẹ nhàng hẳn kể cả khi đi một mình.
 
 ## Khi nào nhường cho con tự lái
 

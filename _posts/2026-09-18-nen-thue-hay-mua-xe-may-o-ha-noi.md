@@ -17,7 +17,7 @@ Câu hỏi nghe đơn giản nhưng được đặt ra rất thường xuyên: n
 
 Thuê phù hợp nhất với người ở Hà Nội trong thời gian ngắn hoặc trung bình: khách du lịch, người đi công tác dài ngày, sinh viên trao đổi, hoặc người mới chuyển đến đang cân nhắc mua xe. Với nhóm này, thuê giúp bỏ qua toàn bộ các khoản chi phí ban đầu của việc sở hữu: tiền mua xe, làm giấy tờ, mua bảo hiểm, mua nón và phụ kiện. Bạn chỉ trả tiền thuê theo ngày hoặc theo tuần, nhận xe là đi được ngay.
 
-Thuê còn phù hợp với người cần linh hoạt: hôm nay cần xe số nhẹ để đi phố, tuần sau cần xe ga chở thoải mái hơn cho chuyến chơi xa cùng nhóm bạn. Với xe của riêng mình, bạn không có lựa chọn đổi dòng xe theo từng giai đoạn. Chi phí thuê tham khảo hiện nay: các dòng xe số phổ thông như Wave khoảng một trăm năm mươi nghìn đồng mỗi ngày, xe ga như Vision hoặc Air Blade khoảng hai trăm nghìn đồng mỗi ngày, và các dòng xe ga nhỏ gọn như Click, Mio khoảng một trăm năm mươi nghìn đồng mỗi ngày. Giá thuê theo tuần thường thấp hơn so với cộng dồn theo ngày, ví dụ nhóm xe ga nhỏ gọn có gói tuần trong khoảng sáu trăm đến bảy trăm nghìn đồng, còn nhóm xe ga lớn hơn từ khoảng tám trăm nghìn đồng tùy dòng. Mức chi tiết được cập nhật tại [trang bảng giá]({{ '/bang-gia/' | relative_url }}).
+Thuê còn phù hợp với người cần linh hoạt: hôm nay cần xe số nhẹ để đi phố, tuần sau cần xe ga chở thoải mái hơn cho chuyến chơi xa cùng nhóm bạn. Với xe của riêng mình, bạn không có lựa chọn đổi dòng xe theo từng giai đoạn. Chi phí thuê tham khảo hiện nay: các dòng [xe số phổ thông](/bang-gia-xe-so/) như Wave khoảng một trăm năm mươi nghìn đồng mỗi ngày, [xe ga](/bang-gia-xe-ga/) như Vision hoặc Air Blade khoảng hai trăm nghìn đồng mỗi ngày, và các dòng xe ga nhỏ gọn như Click, Mio khoảng một trăm năm mươi nghìn đồng mỗi ngày. Giá thuê theo tuần thường thấp hơn so với cộng dồn theo ngày, ví dụ nhóm xe ga nhỏ gọn có gói tuần trong khoảng sáu trăm đến bảy trăm nghìn đồng, còn nhóm xe ga lớn hơn từ khoảng tám trăm nghìn đồng tùy dòng. Mức chi tiết được cập nhật tại [trang bảng giá]({{ '/bang-gia/' | relative_url }}).
 
 ## Chi phí sở hữu một chiếc xe
 
@@ -43,7 +43,7 @@ Nếu bạn ở Hà Nội dưới vài tháng, phần giấy tờ và thủ tụ
 
 ## Linh hoạt đổi xe theo nhu cầu
 
-Một lợi ích ít được nhắc đến của việc thuê: bạn luôn đi trên chiếc xe được bảo dưỡng đều. Đội xe cho thuê được cửa hàng kiểm tra liên tục giữa các lượt khách, nên xác suất gặp hỏng hóc lớn giữa đường thường thấp hơn so với một chiếc xe cũ do chủ quen hay trì hoãn bảo dưỡng. Khi xe bạn thuê có dấu hiệu bất thường, bạn có thể yêu cầu đổi xe khác thay vì chờ sửa.
+Một lợi ích ít được nhắc đến của việc thuê: bạn thường được đi trên chiếc xe được bảo dưỡng đều. Đội xe cho thuê được cửa hàng kiểm tra liên tục giữa các lượt khách, nên xác suất gặp hỏng hóc lớn giữa đường thường thấp hơn so với một chiếc xe cũ do chủ quen hay trì hoãn bảo dưỡng. Khi xe bạn thuê có dấu hiệu bất thường, bạn có thể yêu cầu đổi xe khác thay vì chờ sửa.
 
 Đi xa vào cuối tuần, bạn cũng dễ thuê dòng xe phù hợp hơn: xe ga êm cho chặng trường, hoặc xe số nhẹ cho đường đông. Nếu sở hữu một chiếc xe số nhỏ mà bỗng có chuyến đi xa chở thêm người, bạn sẽ phải thuê thêm hoặc chấp nhận đi không thoải mái.
 
@@ -55,8 +55,8 @@ Mùa đông Hà Nội lạnh, tay lái sớm muộn cũng sờ vào kim loại b
 
 ## Ai nên mua, ai nên thuê
 
-Tóm gọn theo nhóm: nếu bạn ở Hà Nội dưới khoảng ba đến sáu tháng, hoặc nhu cầu đi lại thất thường theo tuần, thuê gần như luôn là lựa chọn hợp lý hơn. Nếu bạn ở dài hạn, đi lại hằng ngày với quãng đường ổn định, và sẵn sàng dành thời gian chăm xe, mua xe sẽ kinh tế hơn về lâu dài. Nhiều người còn kết hợp cả hai: có một chiếc xe cũ đi hằng ngày, và thuê dòng xe tốt hơn cho dịp đặc biệt như đưa đón người thân hoặc chuyến chơi xa.
+Tóm gọn theo nhóm: nếu bạn ở Hà Nội dưới khoảng ba đến sáu tháng, hoặc nhu cầu đi lại thất thường theo tuần, thuê thường là lựa chọn hợp lý hơn. Nếu bạn ở dài hạn, đi lại hằng ngày với quãng đường ổn định, và sẵn sàng dành thời gian chăm xe, mua xe sẽ kinh tế hơn về lâu dài. Nhiều người còn kết hợp cả hai: có một chiếc xe cũ đi hằng ngày, và thuê dòng xe tốt hơn cho dịp đặc biệt như đưa đón người thân hoặc chuyến chơi xa.
 
 ## Kết luận
 
-Không có câu trả lời đúng cho mọi người, chỉ có câu trả lời đúng cho hoàn cảnh của bạn. Hãy cân nhắc thời gian ở lại, tần suất di chuyển, ngân sách ban đầu và mức độ sẵn lòng chăm sóc xe. Nếu chọn thuê, bạn có thể xem mức giá cụ thể từng dòng xe tại [trang bảng giá]({{ '/bang-gia/' | relative_url }}), tìm hiểu thêm về cửa hàng tại [trang giới thiệu]({{ '/gioi-thieu/' | relative_url }}), hoặc ghé trực tiếp địa chỉ 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội trong giờ làm việc từ 09:00 đến 21:00 để được tư vấn dòng xe phù hợp với nhu cầu.
+Không có câu trả lời đúng cho mọi người, chỉ có câu trả lời đúng cho hoàn cảnh của bạn. Hãy cân nhắc thời gian ở lại, tần suất di chuyển, ngân sách ban đầu và mức độ sẵn lòng chăm sóc xe. Nếu chọn thuê, bạn có thể xem mức giá cụ thể từng dòng xe tại [trang bảng giá]({{ '/bang-gia/' | relative_url }}), tìm hiểu thêm về cửa hàng tại [trang giới thiệu]({{ '/gioi-thieu/' | relative_url }}), hoặc ghé trực tiếp địa chỉ 112 Nguyễn Văn Cừ, phường Bồ Đề, quận Long Biên, Hà Nội trong giờ làm việc từ 09:00 đến 21:00 để được [tư vấn dòng xe phù hợp](/lien-he/) với nhu cầu.

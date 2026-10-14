@@ -17,7 +17,7 @@ Dưới đây là tập hợp các câu hỏi mà khách hàng hay hỏi nhất 
 
 Hỏi: Tôi cần mang giấy tờ gì khi thuê xe? Trả lời: Với người Việt Nam, mang theo căn cước công dân hoặc giấy tờ tùy thân bản gốc để đối chiếu. Bản gốc vẫn do bạn giữ trong suốt thời gian thuê, cửa hàng chỉ ghi lại thông tin cần thiết vào hợp đồng. Với người nước ngoài, cần hộ chiếu và giấy phép lái xe có hiệu lực, vì lái xe không có giấy phép phù hợp vừa rủi ro pháp lý vừa làm mọi tình huống phát sinh phức tạp hơn.
 
-Hỏi: Tôi mất căn cước, có thuê được xe không? Trả lời: Hãy gọi trước cho cửa hàng để hỏi các giấy tờ thay thế được chấp nhận, vì mỗi nơi có quy định riêng. Một số nơi chấp nhận hộ chiếu hoặc giấy xác nhận tạm thời kèm giấy tờ khác có ảnh. Việc gọi trước luôn tốt hơn việc đến rồi bị từ chối.
+Hỏi: Tôi mất căn cước, có thuê được xe không? Trả lời: Hãy gọi trước cho cửa hàng để hỏi các giấy tờ thay thế được chấp nhận, vì mỗi nơi có quy định riêng. Một số nơi chấp nhận hộ chiếu hoặc giấy xác nhận tạm thời kèm giấy tờ khác có ảnh. Việc gọi trước luôn tốt hơn việc đến rồi bị từ chối. Chi tiết từng trường hợp có trong bài [giấy tờ cần mang khi thuê xe máy ở Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/18/giay-to-thue-xe-may-o-ha-noi-can-mang-gi/).
 
 Hỏi: Thủ tục mất bao lâu? Trả lời: Với khách đã chốt thông tin trước qua điện thoại, việc đối chiếu giấy tờ, ký hợp đồng và kiểm tra xe thường hoàn tất trong khoảng mười đến mười lăm phút. Khách đến không hẹn trước có thể cần thêm thời gian nếu cửa hàng đang đông.
 
@@ -57,7 +57,7 @@ Hỏi: Tôi đi tỉnh xa được không? Trả lời: Với các chặng ven t
 
 ## Còn thắc mắc thì hỏi ở đâu
 
-Mọi câu hỏi cụ thể nhất, từ tình trạng xe hiện có đến phương án cho lịch trình đặc biệt, đều được giải đáp nhanh qua điện thoại hoặc Zalo số 0942 467 674, trong khung giờ từ 09:00 đến 21:00 hàng ngày. Bạn cũng có thể xem trước [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), trang [liên hệ]( {{ '/lien-he/' | relative_url }}), hoặc đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để có bối cảnh đầy đủ trước khi gọi.
+Mọi câu hỏi cụ thể nhất, từ tình trạng xe hiện có đến phương án cho lịch trình đặc biệt, đều được giải đáp nhanh qua điện thoại hoặc Zalo số 0942 467 674, trong khung giờ từ 09:00 đến 21:00 hàng ngày. Bạn cũng có thể xem trước [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}), trang [liên hệ]( {{ '/lien-he/' | relative_url }}), hoặc đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để có bối cảnh đầy đủ trước khi gọi. Để cuộc gọi gọn hơn, hãy chuẩn bị sẵn [những câu nên hỏi cửa hàng trước khi thuê](/kinh%20nghi%E1%BB%87m/2026/09/19/nhung-cau-hoi-nen-hoi-truoc-khi-thue-xe-may/).
 
 Hỏi: Tôi muốn thuê hai chiếc trở lên cho nhóm thì thế nào? Trả lời: Hoàn toàn được, nhưng hãy báo trước số lượng và dòng xe để cửa hàng chuẩn bị. Với nhóm đông, mức cọc tính theo từng xe, và việc một người đứng ra chốt toàn bộ giúp quá trình nhận xe nhanh hơn. Kinh nghiệm đi lại theo nhóm được trình bày chi tiết trong các bài viết về thuê xe cho nhóm và gia đình.
 

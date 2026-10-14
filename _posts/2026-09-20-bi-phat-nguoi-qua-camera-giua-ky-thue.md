@@ -15,7 +15,7 @@ Nhận được thông báo phạt nguội trong lúc đang thuê xe máy là t�
 
 ## Thông báo phạt nguội đến từ đâu và qua đâu
 
-Phạt nguội là hình thức xử lý vi phạm dựa trên camera giám sát, sau khi hành vi đã xảy ra. Thông báo thường đến qua tin nhắn của cơ quan chức năng tới số điện thoại đăng ký phương tiện, hoặc qua thư gửi tới địa chỉ đăng ký. Đây chính là điểm mấu chốt với xe thuê: số điện thoại và địa chỉ đăng ký xe là của cửa hàng, nên người nhận thông báo đầu tiên là chủ xe, không phải bạn. Vì thế nhiều khách thuê chỉ biết mình bị phạt nguội khi cửa hàng liên hệ lại, có khi sau nhiều ngày. Hệ quả là thời điểm biết tin trễ hơn so với đi xe của mình, và bạn cần dựa vào thông báo để tái hiện lại đúng ngày đó.
+Phạt nguội là hình thức xử lý vi phạm dựa trên camera giám sát, sau khi hành vi đã xảy ra, khác với tình huống [bị dừng xe xử lý ngay giữa đường](/kinh%20nghi%E1%BB%87m/2026/09/19/xu-ly-khi-bi-can-phat-giua-duong/). Thông báo thường đến qua tin nhắn của cơ quan chức năng tới số điện thoại đăng ký phương tiện, hoặc qua thư gửi tới địa chỉ đăng ký. Đây chính là điểm mấu chốt với xe thuê: số điện thoại và địa chỉ đăng ký xe thường là của cửa hàng, nên người nhận thông báo đầu tiên là chủ xe, không phải bạn. Vì thế nhiều khách thuê chỉ biết mình bị phạt nguội khi cửa hàng liên hệ lại, có khi sau nhiều ngày. Hệ quả là thời điểm biết tin trễ hơn so với đi xe của mình, và bạn cần dựa vào thông báo để tái hiện lại đúng ngày đó.
 
 ## Đọc kỹ nội dung thông báo
 
@@ -35,7 +35,7 @@ Nếu lỗi là có thật, cách nhanh gọn nhất là nộp phạt theo đún
 
 ## Trách nhiệm giữa người thuê và cửa hàng
 
-Đây là điểm quan trọng nhất với xe thuê. Người điều khiển phương tiện là người chịu trách nhiệm về hành vi vi phạm của mình, còn chủ xe có nghĩa vụ cung cấp thông tin người thuê khi được yêu cầu. Về mặt thực tế, quy trình thường diễn ra thế này: thông báo đến tay cửa hàng, cửa hàng đối chiếu sổ sách xác định người thuê đúng khung giờ, sau đó chuyển thông tin để người vi phạm tự đi xử lý. Tiền phạt là của người vi phạm. Hãy chủ động hỏi cửa hàng ngay khi nhận tin để thống nhất ai làm thủ tục gì, tránh tình trạng mỗi bên đợi bên kia khiến thời hạn trôi qua. Minh bạch từ đầu luôn rẻ hơn tranh luận về sau.
+Đây là điểm quan trọng nhất với xe thuê. Người điều khiển phương tiện là người chịu trách nhiệm về hành vi vi phạm của mình, còn chủ xe có nghĩa vụ cung cấp thông tin người thuê khi được yêu cầu. Về mặt thực tế, quy trình thường diễn ra thế này: thông báo đến tay cửa hàng, cửa hàng đối chiếu sổ sách xác định người thuê đúng khung giờ, sau đó chuyển thông tin để người vi phạm tự đi xử lý. Tiền phạt là của người vi phạm. Hãy chủ động hỏi cửa hàng ngay khi nhận tin để thống nhất ai làm thủ tục gì, tránh tình trạng mỗi bên đợi bên kia khiến thời hạn trôi qua. Minh bạch từ đầu luôn rẻ hơn tranh luận về sau. Câu hỏi ai là người nộp khoản tiền này được giải đáp riêng trong [bài hỏi đáp về xe thuê bị ghi lỗi qua camera](/hoi-dap/2026/09/29/xe-may-thue-bi-phat-nguoi-ai-nop-phat/).
 
 ## Cách ngăn phạt nguội cho các chuyến sau
 

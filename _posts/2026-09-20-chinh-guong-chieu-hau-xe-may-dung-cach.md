@@ -11,7 +11,7 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Gương chiếu hậu là bộ phận rẻ nhất nhưng được dùng nhiều nhất trên chiếc xe máy: mỗi lần đổi làn, mỗi lần rẽ, mỗi cú phanh, đôi mắt bạn đều cần tới nó trước khi hành động. Thế nhưng gương cũng là bộ phận bị chỉnh sai nhiều nhất, bởi đa số người ngồi lên một chiếc xe còn lạ đều giữ nguyên vị trí gương của người đi trước, dù người ấy cao hơn, thấp hơn hoặc ngồi khác tư thế. Với khách thuê xe, chuyện nhận một chiếc xe có gương lệch chuẩn gần như là mặc định. Bài viết này hướng dẫn cách chỉnh gương đúng trong hai phút đầu tiên của buổi nhận xe.
+Gương chiếu hậu là bộ phận rẻ nhất nhưng được dùng nhiều nhất trên chiếc xe máy: mỗi lần đổi làn, mỗi lần rẽ, mỗi cú phanh, đôi mắt bạn đều cần tới nó trước khi hành động. Thế nhưng gương cũng là bộ phận bị chỉnh sai nhiều nhất, bởi đa số người ngồi lên một chiếc xe còn lạ đều giữ nguyên vị trí gương của người đi trước, dù người ấy cao hơn, thấp hơn hoặc ngồi khác tư thế. Với khách thuê xe, rất có thể gương đang ở vị trí hợp với người dùng trước chứ chưa hợp với bạn. Bài viết này hướng dẫn cách chỉnh gương đúng trong hai phút đầu tiên của buổi nhận xe. Tóm gọn: ngồi đúng tư thế lái, chỉnh sao cho mép trong mỗi bên gương thấy một phần vai hoặc khuỷu tay của bạn, phần còn lại là làn đường phía sau, rồi chạy thử một đoạn ngắn và chỉnh lại nếu phải cúi hay nghiêng người mới thấy xe phía sau.
 
 ## Vì sao gương sai vị trí là rủi ro thật
 
@@ -23,7 +23,7 @@ Ngược lại, gương đúng vị trí cho phép bạn quan sát chỉ bằng 
 
 Nguyên tắc phổ biến nhất dễ áp dụng: ngồi đúng tư thế lái của mình, rồi chỉnh sao cho mép trong của mỗi bên gương thấy một phần vai hoặc khuỷu tay của chính bạn, phần còn lại của mặt gương là làn đường phía sau. Chỗ vai xuất hiện ở mép trong giúp bạn định vị gương mỗi khi liếc, trong khi phần lớn diện tích gương làm việc quan sát xe phía sau.
 
-Gương trái nên mở đủ rộng để che góc mù phía sau vai trái, nơi xe máy khác hay vượt lên bất ngờ khi bạn chậm lại. Gương phải tương tự, và vì gương phải thường xa người lái hơn trên nhiều dòng xe, cần chú ý không để nó chỉ hướng xuống lòng đường. Sau khi chỉnh tĩnh, hãy chạy thử một đoạn ngắn vắng xe rồi nhìn lại: nếu phải cúi hoặc nghiêng người mới thấy được dòng xe phía sau, quay lại chỉnh tiếp. Hai vòng chỉnh như vậy là đủ cho gần hết các dòng xe phổ thông.
+Gương trái nên mở đủ rộng để che góc mù phía sau vai trái, nơi xe máy khác hay vượt lên bất ngờ khi bạn chậm lại. Gương phải tương tự, và vì gương phải thường xa người lái hơn trên nhiều dòng xe, cần chú ý không để nó chỉ hướng xuống lòng đường. Sau khi chỉnh tĩnh, hãy chạy thử một đoạn ngắn vắng xe rồi nhìn lại: nếu phải cúi hoặc nghiêng người mới thấy được dòng xe phía sau, quay lại chỉnh tiếp. Thường chỉ cần vài vòng chỉnh như vậy là gương đã vào đúng vị trí. Muốn tận dụng lúc dừng xe để chỉnh lại, xem thêm cách [chỉnh gương khi dừng đèn đỏ](/ky-nang/2026/10/05/chinh-guong-xe-may-ung-cach-khi-dung-en-o/).
 
 Điểm nhỏ hay bị bỏ qua: đế gương lỏng là lỗi thường gặp trên xe đi nhiều. Lắc nhẹ từng gương bằng tay khi nhận xe; nếu đế xoay tự do, hãy nhờ cửa hàng siết lại trước khi về, vì một cú sốc ổ gà đủ làm gương cụp hẳn xuống giữa chừng.
 
@@ -45,7 +45,7 @@ Chỉnh đúng gương mới là một nửa; nửa còn lại là cách dùng. 
 
 Trẻ nhỏ và người mới tập đi xe máy hay mắc lỗi ngược lại: chỉ nhìn gương mà quên liếc vai, hoặc nhìn gương quá lâu khiến xe trôi lệch làn. Nếu bạn đang giúp một người nhà làm quen với xe, hãy tập cho họ chu trình ngắn: gương, vai, tín hiệu, hành động. Bốn bước lặp lại thành phản xạ là nền tảng an toàn khi đi trong phố đông. Các tình huống giao thông đặc thù của thủ đô được chia sẻ thêm trong nhóm bài tại mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}).
 
-Với người mới đến Hà Nội và bắt đầu một kỳ thuê dài hạn, việc làm quen xe trong hai mươi bốn giờ đầu, trong đó có chỉnh gương, là một trong những việc đáng làm sớm. Các nguyên tắc tổng quát khi nhận xe nằm trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/). Gương chiếm đúng ba mươi giây trong quy trình kiểm tra nhanh mỗi sáng nhưng trả lại giá trị suốt cả ngày.
+Với người mới đến Hà Nội và bắt đầu một kỳ thuê dài hạn, việc làm quen xe trong hai mươi bốn giờ đầu, trong đó có chỉnh gương, là một trong những việc đáng làm sớm. Các nguyên tắc tổng quát khi nhận xe nằm trong bài [kinh nghiệm thuê xe máy ở Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}). Gương chiếm đúng ba mươi giây trong quy trình kiểm tra nhanh mỗi sáng nhưng trả lại giá trị suốt cả ngày.
 
 ## Gương và các tình huống đặc biệt
 
@@ -53,7 +53,7 @@ Mưa lớn làm gương hai bên gần như vô dụng vì nước che mặt kí
 
 ## Khi gương bị hỏng giữa kỳ thuê
 
-Gương bị xe khác quẹt gãy trong lúc đỗ là sự cố nhỏ nhưng ảnh hưởng an toàn ngay, vì đi xe máy thiếu một bên gương trong phố đông là tự đặt mình vào thế mù một phía. Nếu xảy ra trong ngày, hãy báo cửa hàng theo kênh liên hệ thường dùng và mô tả cụ thể: gương bên nào, gãy ở thân hay chỉ lệch đế, xe có tiếp tục đi được an toàn không. Nhiều khi vặt gương chỉ cần siết lại là xong, còn gãy thân gương thì cần thay bộ phận, và đây là dạng hư hỏng nên để cửa hàng xử lý thay vì tự mua gương lạ về lắp. Trong lúc chờ xử lý, nếu buộc phải đi, chọn tuyến quen, giảm tốc, tăng khoảng cách và chủ động liếc vai nhiều hơn bù cho bên mất gương. Đừng kéo dài tình trạng này nhiều ngày, vì chi phí một bộ gương nhỏ hơn rất nhiều so với một lần va chạm do không thấy xe phía sau.
+Gương bị xe khác quẹt gãy trong lúc đỗ là sự cố nhỏ nhưng ảnh hưởng an toàn ngay, vì đi xe máy thiếu một bên gương trong phố đông là tự đặt mình vào thế mù một phía. Nếu xảy ra trong ngày, hãy báo cửa hàng theo [kênh liên hệ](/lien-he/) thường dùng và mô tả cụ thể: gương bên nào, gãy ở thân hay chỉ lệch đế, xe có tiếp tục đi được an toàn không. Nhiều khi vặt gương chỉ cần siết lại là xong, còn gãy thân gương thì cần thay bộ phận, và đây là dạng hư hỏng nên để cửa hàng xử lý thay vì tự mua gương lạ về lắp. Trong lúc chờ xử lý, nếu buộc phải đi, chọn tuyến quen, giảm tốc, tăng khoảng cách và chủ động liếc vai nhiều hơn bù cho bên mất gương. Đừng kéo dài tình trạng này nhiều ngày, vì thiếu gương làm tăng nguy cơ va chạm do không thấy xe phía sau. Trường hợp gương chỉ bị lỏng, bài [gương chiếu hậu bị lỏng giữa kỳ thuê](/kinh%20nghi%E1%BB%87m/2026/09/19/guong-chieu-hau-bi-long-giua-ky-thue/) hướng dẫn chi tiết hơn.
 
 ## Hai phút đầu tiên đáng giá nhất
 

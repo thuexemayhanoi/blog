@@ -21,7 +21,7 @@ Người mới tập chạy dốc nên xem Tam Đảo là bài học nâng cao, 
 
 ## Chọn xe cho cung dốc dài
 
-Với Tam Đảo, xe số khỏe hoặc xe ga máy tốt đều đi được, nhưng cách bạn dùng xe quan trọng hơn loại xe. Khi lên dốc, về số thấp sớm để máy không bị đuối, đừng đợi xe rung mới về số. Khi xuống dốc, dùng phanh động cơ kết hợp phanh nhịp, tránh phanh liên tục. Xe ga khi xuống dốc dài nên về ga nhẹ và phanh bằng tay nhịp nhàng, kiên nhẫn với tốc độ chậm. Kiểm tra phanh trước khi nhận xe là bước bắt buộc của tuyến này: phanh trước ăn sâu, phanh sau không bị kêu rít, tay phanh chắc.
+Với Tam Đảo, [xe số](/bang-gia-xe-so/) khỏe hoặc xe ga máy tốt đều đi được, nhưng cách bạn dùng xe quan trọng hơn loại xe. Khi lên dốc, về số thấp sớm để máy không bị đuối, đừng đợi xe rung mới về số. Khi xuống dốc, dùng phanh động cơ kết hợp phanh nhịp, tránh phanh liên tục. Xe ga khi xuống dốc dài nên về ga nhẹ và phanh bằng tay nhịp nhàng, kiên nhẫn với tốc độ chậm. Kiểm tra phanh trước khi nhận xe là bước bắt buộc của tuyến này: phanh trước ăn sâu, phanh sau không bị kêu rít, tay phanh chắc. Cách lên dốc và danh sách chuẩn bị chi tiết có trong bài [lên dốc Tam Đảo cần chuẩn bị gì](/cung-duong/2026/09/28/ha-noi-i-tam-ao-bang-xe-may-len-doc-can-chuan-bi-gi/).
 
 Tình trạng xe cụ thể từng thời điểm, bạn nên liên hệ để xác nhận. Nói với cửa hàng bạn định đi Tam Đảo, họ sẽ chọn xe phù hợp hơn so với khi bạn chỉ nói thuê đi chơi.
 
@@ -47,7 +47,7 @@ Nếu săn mây, khung giờ đẹp thường là sáng sớm sau đêm mưa, nh
 
 ## Xuống dốc an toàn và về Hà Nội
 
-Xuống dốc Tam Đảo là lúc sa sút kỹ năng dễ xảy ra tai nạn nhất. Ba quy tắc: tốc độ thấp hơn bạn nghĩ cần, phanh nhịp nhàng xen kẽ trước sau, và giữ khoảng cách lớn với xe phía trước vì người khác cũng đang vật lộn với dốc như bạn. Nếu thấy mùi khét từ phanh hoặc tay phanh mềm, dừng ở lối tránh cho xe qua lại, để xe nguội vài phút. Đừng bao giờ xuống dốc bằng cách tắt máy để tiết kiệm xăng, mất phanh động cơ trên dốc là lựa chọn nguy hiểm.
+Xuống dốc Tam Đảo là lúc sa sút kỹ năng dễ xảy ra tai nạn nhất. Ba quy tắc: tốc độ thấp hơn bạn nghĩ cần, phanh nhịp nhàng xen kẽ trước sau, và giữ khoảng cách lớn với xe phía trước vì người khác cũng đang vật lộn với dốc như bạn. Nếu thấy mùi khét từ phanh hoặc tay phanh mềm, dừng ở lối tránh cho xe qua lại, để xe nguội vài phút. Đừng bao giờ xuống dốc bằng cách tắt máy để tiết kiệm xăng, mất phanh động cơ trên dốc là lựa chọn nguy hiểm. Đoạn đèo nhiều sương và kỹ thuật chạy xuống được bàn kỹ hơn trong bài [đèo sương và chạy xuống Tam Đảo](/du-lich/2026/10/01/tam-ao-bang-xe-may-tu-ha-noi-eo-suong-va-chay-xuong/).
 
 Chặng quốc lộ về nên dừng nghỉ một lần. Về tới nội thành lúc tối, đèn sớm và cẩn thận đoạn thiếu đèn ven đô. Trả xe trong ngày: cửa hàng đóng cửa hai mươi mốt giờ, tính khe hở, mùa đông trời tối sớm nên thời gian về sát hơn bạn tưởng.
 

@@ -35,7 +35,7 @@ Không phải va quẹt nào cũng cần lên phường. Nếu không ai bị th
 
 ## Va quẹt với xe thuê: báo cửa hàng ngay
 
-Đây là điểm khác biệt quan trọng khi bạn đang đi xe thuê. Chiếc xe không thuộc sở hữu của bạn, nên mọi tổn thất đều liên quan đến thỏa thuận thuê. Ngay sau khi an toàn, hãy gọi cửa hàng để báo tình huống, mô tả mức độ hư hỏng và hỏi cách xử lý tiếp theo, ví dụ có cần đưa xe về kiểm tra hay tiếp tục dùng và báo khi trả. Nói thật, có ảnh kèm theo, luôn thuận lợi hơn nhiều so với để cửa hàng tự phát hiện vết xước mới lúc nhận lại xe. Nhiều tranh cãi khi trả xe chỉ xuất phát từ việc khách không chủ động thông tin sớm.
+Đây là điểm khác biệt quan trọng khi bạn đang đi xe thuê. Chiếc xe không thuộc sở hữu của bạn, nên mọi tổn thất đều liên quan đến thỏa thuận thuê. Ngay sau khi an toàn, hãy gọi cửa hàng để báo tình huống, mô tả mức độ hư hỏng và hỏi cách xử lý tiếp theo, ví dụ có cần đưa xe về kiểm tra hay tiếp tục dùng và báo khi trả. Nói thật, có ảnh kèm theo, luôn thuận lợi hơn nhiều so với để cửa hàng tự phát hiện vết xước mới lúc nhận lại xe. Chủ động thông tin sớm giúp tránh những hiểu lầm không đáng có khi trả xe. Các bước chi tiết khi xe thuê gặp sự cố tương tự có trong bài [xử lý va chạm nhẹ khi đang đi xe thuê](/kinh%20nghi%E1%BB%87m/2026/09/19/xu-ly-va-cham-nhe-bang-xe-thue/) và bài về [xe thuê bị va quẹt nhẹ khi đang đỗ trong bãi](/ky-nang/2026/10/04/xu-ly-khi-xe-thue-bi-va-quet-nhe-trong-bai-xe/).
 
 ## Không tự xử lý kiểu cà khịa
 
@@ -43,7 +43,7 @@ Một số người sau khi ghi được biển số tìm cách khiếu nại tr
 
 ## Chẩn đoán xe sau va quẹt nhẹ
 
-Va quẹt bỏ đi thường để lại tổn thất nhẹ nhưng đôi chỗ khó thấy. Kiểm tra theo thứ tự: tay lái có bị lệch không bằng cách nhìn thẳng nhìn trước ghi đông, phanh trước sau còn ăn không, còi và đèn có hoạt động không, gương có lệch không. Cúi xem phía dưới xe có dầu hoặc nước rò rỉ không, đặc biệt với xe ga. Lốp bị cạ vào lề có thể rách nhẹ ở hông, loại hỏng hóc chỉ bùng ra khi đang chạy nhanh. Nếu xe có dấu hiệu bất thường ở khung hoặc phanh, dừng dùng và gọi cửa hàng. Không cố chạy tiếp một chiếc xe mà tay lái đã lệch, vì hành vi đó tự biến va quẹt nhỏ thành rủi ro lớn.
+Va quẹt bỏ đi thường để lại tổn thất nhẹ nhưng đôi chỗ khó thấy. Kiểm tra theo thứ tự: tay lái có bị lệch không bằng cách nhìn thẳng nhìn trước ghi đông, phanh trước sau còn ăn không, còi và đèn có hoạt động không, gương có lệch không. Cúi xem phía dưới xe có dầu hoặc nước rò rỉ không, đặc biệt với xe ga. Lốp bị cạ vào lề có thể rách nhẹ ở hông, loại hỏng hóc chỉ bùng ra khi đang chạy nhanh. Nếu xe có dấu hiệu bất thường ở khung hoặc phanh, dừng dùng và gọi cửa hàng, theo các bước trong bài [xe thuê bị hỏng giữa đường](/thue-xe/2026/09/27/xe-thue-bi-hong-giua-uong-xu-ly-tung-buoc/). Không cố chạy tiếp một chiếc xe mà tay lái đã lệch, vì hành vi đó tự biến va quẹt nhỏ thành rủi ro lớn.
 
 ## Tâm lý sau khi bị va quẹt
 

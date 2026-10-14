@@ -13,6 +13,8 @@ campaign: hanoi-seo-480
 
 Chuyến đi xe máy gần Hà Nội có trọn vẹn hay không thường được quyết định trước khi bạn ngồi lên yên: đó là việc xem thời tiết. Cùng một tuyến đường, ngày nắng là trải nghiệm đáng nhớ, ngày mưa to có thể thành một cuộc vật lộn mệt mỏi và rủi ro. Bài viết này hướng dẫn cách đọc dự báo, đánh giá tình huống và quyết định đi, đổi lịch hay đổi tuyến, để kế hoạch của bạn luôn có phương án cho từng loại thời tiết.
 
+Tóm gọn: xem dự báo đúng khu vực điểm đến và theo khung giờ; nên hoãn khi dự báo mưa to kèm dông diện rộng suốt khung giờ đi, gió mạnh trên tuyến có đê hoặc cầu dài, hoặc đường còn ngập sau mưa lớn từ đêm trước; các trường hợp khác thường chỉ cần đổi giờ, đổi tuyến hoặc đổi điểm đến.
+
 ## Vì sao thời tiết quan trọng hơn với xe máy
 
 Ngồi trong xe hơi, mưa lớn chỉ là tiếng gõ trên mái. Ngồi trên xe máy, mưa lớn là tầm nhìn giảm, đường trơn, người ướt và lạnh. Xe máy phơi người lái ra mọi thay đổi của trời: nắng gắt, gió ngang, sương mù, bụi đường khô. Vì vậy, người đi xe máy cần xem thời tiết như một phần của kế hoạch, không phải thông tin nền.
@@ -53,7 +55,7 @@ Buổi chiều muộn, mây kéo kín và trời tối nhanh cũng là lúc nên
 
 Thời tiết xấu ở hướng này không có nghĩa là xấu ở hướng khác: mưa ở hướng tây nhiều khi trời vẫn ráo ở hướng đông ven sông. Khi dự báo xấu cho điểm đến chính, hãy đổi sang một điểm gần hơn, ở hướng khác, hoặc loại hình trong nhà. Chuyến đi bảo tàng ngày mưa vẫn là một chuyến đi tốt, và những ngày mưa phùn Hà Nội có vẻ riêng của nó trên các con phố cổ.
 
-Đổi điểm đến cũng giữ được tinh thần cho cả nhóm, thay vì hủy hoàn toàn. Trong lập kế hoạch, luôn để một phương án dự phòng dạng mưa, ví dụ một điểm trong nhà bán kính ba mươi cây số, để sáng hôm ấy có thể quyết định nhanh mà không phải tranh luận.
+Đổi điểm đến cũng giữ được tinh thần cho cả nhóm, thay vì hủy hoàn toàn. Khi [lập kế hoạch chuyến đi](/thue-xe/2026/09/27/ke-hoach-chuyen-i-7-ngay-quanh-ha-noi-bang-xe-may/), luôn để một phương án dự phòng dạng mưa, ví dụ một điểm trong nhà bán kính ba mươi cây số, để sáng hôm ấy có thể quyết định nhanh mà không phải tranh luận.
 
 ## Thời tiết theo mùa quanh Hà Nội
 
@@ -63,4 +65,4 @@ Hiểu quy luật mùa giúp bạn chọn cả thời điểm đi lẫn loại �
 
 ## Tóm lại
 
-Thời tiết là biến số lớn nhất của mọi chuyến đi xe máy, và cũng là biến số đoán trước được nhiều nhất. Xem dự báo cho đúng khu vực và đúng khung giờ, chuẩn bị phương án cho mưa, quyết định hoãn dứt khoát khi có giông diện rộng hoặc gió mạnh, và luôn có sẵn điểm đến dự phòng. Cách đọc thời tiết chi tiết hơn theo từng mùa và các gợi ý chọn tuyến theo mùa được tổng hợp trong chuyên mục [du lịch]( {{ '/du-lich/' | relative_url }} ), còn các kỹ năng lái xe ứng phó từng tình huống nằm trong chuyên mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }} ).
+Thời tiết là biến số lớn nhất của mọi chuyến đi xe máy, và cũng là biến số đoán trước được nhiều nhất. Xem dự báo cho đúng khu vực và đúng khung giờ, chuẩn bị phương án cho mưa, quyết định hoãn dứt khoát khi có giông diện rộng hoặc gió mạnh, và luôn có sẵn điểm đến dự phòng. Cách đọc dự báo theo từng khung giờ và dời lịch được hướng dẫn kỹ hơn trong bài [lên lịch theo dự báo thời tiết](/kinh%20nghi%E1%BB%87m/2026/09/19/len-lich-di-lai-theo-du-bao-thoi-tiet/), còn [khung quyết định đi hay hoãn khi trời xấu](/chia%20s%E1%BA%BB/2026/09/19/nen-di-xe-hay-khong-khi-thoi-tiet-xau/) được trình bày ở một bài riêng.

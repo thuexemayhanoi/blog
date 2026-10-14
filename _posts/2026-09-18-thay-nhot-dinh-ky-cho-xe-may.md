@@ -11,7 +11,7 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Trong các hạng mục bảo dưỡng xe máy, thay nhớt là việc cơ bản nhất, được nhắc đến nhiều nhất, và cũng là việc dễ bị hiểu sai nhất về kỳ hạn. Với người đi xe của riêng mình, hiểu đúng về nhớt giúp xe bền và đỡ tốn kém. Với người thuê xe, hiểu về nhớt giúp bạn biết mình cần quan tâm gì và không cần lo gì. Bài viết này giải thích cả hai góc nhìn một cách thực tế, không dùng số liệu máy móc cứng nhắc.
+Trong các hạng mục bảo dưỡng xe máy, thay nhớt là việc cơ bản nhất, được nhắc đến nhiều nhất, và cũng là việc dễ bị hiểu sai nhất về kỳ hạn. Với người đi xe của riêng mình, hiểu đúng về nhớt giúp xe bền và đỡ tốn kém. Với người thuê xe, hiểu về nhớt giúp bạn biết mình cần quan tâm gì và không cần lo gì. Bài viết này giải thích cả hai góc nhìn một cách thực tế, không dùng số liệu máy móc cứng nhắc. Tóm gọn: kỳ hạn chuẩn nhất là theo sổ tay của từng xe và loại nhớt đang dùng; nên thay sớm khi máy kêu khô, nhớt đen đặc hoặc loãng có mùi xăng, hay xe vừa chạy chặng dài trời nóng hoặc qua vùng ngập; còn với xe thuê, phần của bạn là quan sát và báo ngay khi có dấu hiệu lạ.
 
 ## Nhớt máy làm việc gì trong động cơ
 
@@ -42,7 +42,7 @@ Với xe có que thăm nhớt, kiểm tra mức nhớt là việc một phút: d
 
 ## Lọc nhớt và lọc gió đi kèm thế nào
 
-Cùng với nhớt, hai chi tiết lọc cũng quyết định tuổi thọ động cơ. Lọc nhớt giữ lại mảnh kim loại và cặn trước khi nhớt quay lại bôi trơn; theo kỳ dài hơn chu kỳ nhớt, lọc bẩn sẽ làm nhớt mới mau bẩn lại. Lọc gió giữ bụi ngoài không khí không lọt vào buồng đốt; lọc gió bẩn làm xe yếu ga và uống xăng nhiều hơn. Ở Hà Nội, bụi đường phố là điều kiện khắc nghiệt rõ rệt cho lọc gió, nên các xe chạy phố nhiều thường cần tháo vệ sinh lọc sớm hơn xe chạy đường trường. Khi mang xe đi thay nhớt, nhờ tiệm kiểm tra luôn hai cái lọc này; chi phí vệ sinh lọc gió thường nhỏ nhưng hiệu quả về độ ga và mức xăng tiêu thụ thì thấy được sau vài bình xăng.
+Cùng với nhớt, hai chi tiết lọc cũng quyết định tuổi thọ động cơ. Lọc nhớt giữ lại mảnh kim loại và cặn trước khi nhớt quay lại bôi trơn; theo kỳ dài hơn chu kỳ nhớt, lọc bẩn sẽ làm nhớt mới mau bẩn lại. Lọc gió giữ bụi ngoài không khí không lọt vào buồng đốt; lọc gió bẩn làm xe yếu ga và uống xăng nhiều hơn. Ở Hà Nội, bụi đường phố là điều kiện khắc nghiệt rõ rệt cho lọc gió, nên các xe chạy phố nhiều thường cần tháo [vệ sinh lọc gió](/xe-may/2026/10/11/loc-gio-xe-may-ban-dau-hieu-khi-i-xe-va-luc-nao-can-ve-sinh-hay-thay/) sớm hơn xe chạy đường trường. Khi mang xe đi thay nhớt, nhờ tiệm kiểm tra luôn hai cái lọc này; chi phí vệ sinh lọc gió thường nhỏ nhưng hiệu quả về độ ga và mức xăng tiêu thụ thì thấy được sau vài bình xăng.
 
 ## Xe số và xe ga khác nhau thế nào về nhớt
 
@@ -57,7 +57,7 @@ Ngoài ra, xe ga phổ biến tại Việt Nam thường dùng hệ thống làm
 Nhiệm vụ của người thuê chỉ gồm ba việc quan sát:
 
 - Khi nhận xe, nghe thử động cơ khi máy nổ: tiếng máy khô, to bất thường là điều đáng hỏi ngay.
-- Trong chuyến đi, để ý đèn báo nhớt hoặc tiếng máy thay đổi; xe có đèn báo áp suất nhớt sáng lên giữa đường thì dừng ở nơi an toàn và gọi cửa hàng ngay.
+- Trong chuyến đi, để ý đèn báo nhớt hoặc tiếng máy thay đổi; xe có đèn báo áp suất nhớt sáng lên giữa đường thì dừng ở nơi an toàn và [gọi cửa hàng](/lien-he/) ngay.
 - Không tự đổ thêm nhớt hay bất kỳ phụ gia nào vào xe thuê nếu chưa được cửa hàng hướng dẫn, vì mỗi xe đang dùng một loại nhớt, trộn lẫn các loại có thể gây phản tác dụng.
 
 Nếu bạn thuê xe của Thuê Xe Máy Hà Nội Nguyễn Tú, các chiếc xe trong đội đều được bảo dưỡng theo lịch. Khi có bất kỳ dấu hiệu bất thường nào về động cơ trong thời gian thuê, hãy gọi 0942 467 674 hoặc nhắn Zalo; cửa hàng ở 112 Nguyễn Văn Cừ, Long Biên, mở từ 09:00 đến 21:00 hàng ngày và sẽ tư vấn ngay cả khi bạn đang ở xa Hà Nội.
@@ -74,8 +74,8 @@ Nhớt tổng hợp hoàn toàn thường chịu nhiệt tốt hơn và giữ ch
 Nhớt bị oxy hóa theo thời gian kể cả khi xe đứng yên. Với xe đứng nhiều tháng, nên kiểm tra và thay nếu nhớt đã sẫm màu hoặc bị tách lớp, bất kể số cây số chưa tới.
 
 ### Thay nhớt ở tiệm gần nhà hay trung tâm bảo hành
-Với xe còn trong thời hạn bảo hành, làm ở trung tâm bảo hành giữ trọn quyền lợi. Với xe cũ, tiệm gần nhà uy tín cũng xử lý tốt, miễn là bạn theo dõi được loại nhớt họ đổ và kỳ thay tiếp theo được ghi lại rõ ràng.
+Với xe còn trong thời hạn của hãng, nên hỏi trung tâm của hãng về điều kiện bảo dưỡng trước khi thay ở nơi khác. Với xe cũ, tiệm gần nhà uy tín cũng xử lý tốt, miễn là bạn theo dõi được loại nhớt họ đổ và kỳ thay tiếp theo được ghi lại rõ ràng.
 
 ## Tóm lại
 
-Thay nhớt định kỳ là cách bảo vệ động cơ đơn giản và rẻ nhất so với mọi hạng mục sửa chữa. Ghi lại số cây số mỗi lần thay, chọn loại nhớt phù hợp xe, thay sớm khi xe vừa trải qua điều kiện khắc nghiệt, và kiểm tra mức nhớt hàng tuần nếu xe là của bạn. Với xe thuê, việc bảo dưỡng thuộc về cửa hàng, còn phần của bạn là quan sát, hỏi khi nhận xe, và báo ngay khi có dấu hiệu lạ. Bạn có thể đọc thêm các bài bảo dưỡng thực tế khác trong mục [kinh nghiệm]({{ '/kinh-nghiem/' | relative_url }}) và [chia sẻ]({{ '/chia-se/' | relative_url }}) của chúng tôi.
+Thay nhớt định kỳ là cách bảo vệ động cơ đơn giản và rẻ nhất so với mọi hạng mục sửa chữa. Ghi lại số cây số mỗi lần thay, chọn loại nhớt phù hợp xe, thay sớm khi xe vừa trải qua điều kiện khắc nghiệt, và kiểm tra mức nhớt hàng tuần nếu xe là của bạn. Với xe thuê, việc bảo dưỡng thuộc về cửa hàng, còn phần của bạn là quan sát, hỏi khi nhận xe, và báo ngay khi có dấu hiệu lạ. Nếu thuê xe dài ngày, bạn có thể đọc thêm bài [thuê xe theo tháng và việc thay dầu định kỳ](/thue-xe/2026/10/05/thue-xe-may-theo-thang-ai-chiu-phi-thay-dau-inh-ky/) của chúng tôi.

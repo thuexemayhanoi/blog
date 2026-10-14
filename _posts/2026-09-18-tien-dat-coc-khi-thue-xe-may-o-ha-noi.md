@@ -25,14 +25,14 @@ Khoản cọc không phải là chi phí thuê xe. Khi bạn trả xe đúng h�
 Tùy cửa hàng và tùy khách, việc đặt cọc thường rơi vào một trong các hình thức sau:
 
 - Tiền mặt. Đây là cách phổ biến nhất. Bạn giao tiền khi nhận xe và nhận lại đúng khoản đó khi trả xe.
-- Giữ giấy tờ tùy thân. Nhiều cửa hàng chấp nhận giữ CCCD hoặc hộ chiếu thay cho tiền cọc, hoặc kết hợp giữa một phần tiền và giấy tờ. Với khách quốc tế, hộ chiếu là giấy tờ thường được yêu cầu.
+- Giữ giấy tờ tùy thân. Nhiều cửa hàng chấp nhận giữ CCCD hoặc hộ chiếu thay cho tiền cọc, hoặc kết hợp giữa một phần tiền và giấy tờ. Với khách quốc tế, hộ chiếu là [giấy tờ thường được yêu cầu](/hoi-dap/2026/10/10/can-mang-giay-to-gi-khi-thue-xe-may-o-ha-noi/).
 - Chuyển khoản hoặc đặt cọc trước từ xa nếu bạn muốn giữ xe trước cho một mốc thời gian cụ thể.
 
-Mỗi hình thức có cái hợp lý riêng. Hình thức cọc bằng giấy tờ giúp bạn không phải mang theo tiền lẻ lớn, nhưng cũng đòi hỏi kế hoạch lấy lại giấy tờ đúng giờ. Cọc tiền mặt thì rõ ràng, dễ đối chiếu, nhưng bạn nên nhận giấy xác nhận hoặc ghi lại số tiền đã giao.
+Mỗi hình thức có cái hợp lý riêng. Hình thức cọc bằng giấy tờ giúp bạn không phải mang theo tiền lẻ lớn, nhưng cũng đòi hỏi kế hoạch lấy lại giấy tờ đúng giờ. Cọc tiền mặt thì rõ ràng, dễ đối chiếu, nhưng bạn nên nhận giấy xác nhận hoặc ghi lại số tiền đã giao. Nếu bạn thắc mắc liệu có thể [thuê xe máy ở Hà Nội mà không phải đặt khoản tiền này](/thue-xe/2026/09/30/co-shop-nao-cho-thue-xe-may-khong-can-at-coc-o-ha-noi-khong/) hay không, hãy đọc bài giải đáp riêng.
 
 ## Điều gì ảnh hưởng đến mức đặt cọc
 
-Không có một mức cọc cố áp dụng cho mọi trường hợp. Những yếu tố thường ảnh hưởng đến con số này gồm:
+Không có một mức cọc cố định áp dụng cho mọi trường hợp. Những yếu tố thường ảnh hưởng đến con số này gồm:
 
 - Loại xe. Xe càng đắt tiền, giá trị tài sản càng cao thì khoản bảo đảm thường càng lớn.
 - Thời gian thuê. Thuê một ngày và thuê cả tháng là hai khoản khác nhau về mức độ rủi ro, nên mức cọc có thể được cân nhắc khác nhau.
@@ -51,7 +51,7 @@ Trước khi giao tiền hoặc giấy tờ, hãy hỏi rõ năm điều sau:
 4. Nếu xe gặp sự cố không do lỗi của tôi, ví dụ hỏng giữa đường, việc cọc xử lý thế nào?
 5. Có biên bản hoặc xác nhận bằng văn bản nào cho khoản cọc không?
 
-Câu hỏi số bốn đặc biệt quan trọng. Xe máy là phương tiện cơ khí, và dù được bảo dưỡng đều, một sự cố bất ngờ vẫn có thể xảy ra. Việc thống nhất trước cách xử lý giúp bạn không bị động nếu chuyện đó xảy ra giữa chuyến đi.
+Câu hỏi số bốn đặc biệt quan trọng. Xe máy là phương tiện cơ khí, và dù được bảo dưỡng đều, một sự cố bất ngờ vẫn có thể xảy ra. Việc thống nhất trước cách xử lý giúp bạn không bị động nếu chuyện đó xảy ra giữa chuyến đi. Bạn có thể xem thêm [danh sách điều nên hỏi rõ trước khi giao tiền](/thue-xe/2026/09/27/at-coc-khi-thue-xe-may-can-hoi-ro-ieu-gi/) để chuẩn bị đầy đủ hơn.
 
 ## Cách bảo vệ quyền lợi của mình khi đặt cọc
 
@@ -93,4 +93,4 @@ Nguyên tắc chung cho mọi thời lượng thuê vẫn là minh bạch: mọi
 
 Tiền đặt cọc là phần tất yếu của thủ tục thuê xe máy, và nó không có gì đáng lo nếu được thỏa thuận rõ ràng từ đầu. Ba nguyên tắc cần nhớ: hỏi mức cọc và điều kiện hoàn trước khi đưa tiền, ghi lại tình trạng xe lúc nhận bằng hình ảnh, và trả xe đúng hẹn. Làm được ba việc đó, khoản cọc gần như luôn quay về tay bạn trọn vẹn.
 
-Nếu bạn còn câu hỏi về mức cọc cho một dòng xe cụ thể hoặc cho lịch trình của mình, hãy liên hệ trực tiếp. Mọi con số và điều khoản đều được xác nhận rõ ràng trước khi bạn quyết định. Thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}), và bạn cũng có thể đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm tổng quan trước khi đặt xe.
+Nếu bạn còn câu hỏi về mức cọc cho một dòng xe cụ thể hoặc cho lịch trình của mình, hãy liên hệ trực tiếp. Mọi con số và điều khoản đều được xác nhận rõ ràng trước khi bạn quyết định. Thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}), và bạn cũng có thể đọc thêm [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm tổng quan trước khi đặt xe.

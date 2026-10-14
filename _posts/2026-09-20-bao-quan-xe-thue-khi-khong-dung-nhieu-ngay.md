@@ -13,11 +13,13 @@ campaign: hanoi-seo-480
 
 Kỳ thuê dài hạn luôn có những khoảng xe nằm không: tuần về quê, mười ngày công tác xa, hai tuần bệnh nghỉ ở nhà. Chiếc xe thuê vẫn tính tiền trong lúc đó, nên ít nhất nó xứng đáng được đỗ tử tế để quay lại còn nguyên vẹn. Để xe máy nhiều ngày không dùng nghe như việc không cần làm gì, nhưng cách để sai đủ khiến pin hỏng, lốp méo và đồ đạc bay màu. Bài viết này nói về cách để đúng.
 
+Nói ngắn gọn: đỗ xe ở chỗ an toàn, có mái che và không cản trở người khác; trước khi đi thì vệ sinh xe, bơm lốp căng hơn một chút, dọn cốp, khóa kỹ và chụp ảnh hiện trạng; xe điện không để pin cạn, xe xăng nên đổ đầy bình nếu nghỉ lâu; khi quay lại thì kiểm tra xe kỹ trước chuyến đầu.
+
 ## Chọn chỗ đỗ cho những ngày vắng mặt
 
 Tiêu chí đầu tiên của chỗ đỗ dài hạn là an toàn, tiêu chí thứ hai là che được nắng mưa, thứ ba là không cản trở người khác. Kết hợp cả ba không phải lúc nào dễ: bãi gửi có mái che là lựa chọn tốt nhất cho kỳ nghỉ dài, đặc biệt bãi có vé dài hạn hoặc thỏa thuận theo tuần; chỗ để xe trong nhà hoặc dưới ban công có mái là kế tiếp; còn vỉa hè có mái che công cộng là phương án cuối cùng, chỉ dùng khi không có gì khác.
 
-Về chi phí, bãi gửi tính theo tuần hoặc tháng cho kỳ dài thường rẻ hơn tính lẻ hàng ngày, nên đáng hỏi trước. So sánh nhanh với tổng tiền thuê xe đang trả: nếu chi phí gửi tuần của kỳ vắng mặt vượt một phần đáng kể giá thuê một tuần cùng dòng xe, cân nhắc phương án trả xe sớm cho quãng vắng mặt rồi thuê lại khi về, tùy điều khoản hợp đồng của bạn.
+Về chi phí, bãi gửi tính theo tuần hoặc tháng cho kỳ dài thường rẻ hơn tính lẻ hàng ngày, nên đáng hỏi trước. So sánh nhanh với tổng tiền thuê xe đang trả: nếu chi phí gửi tuần của kỳ vắng mặt vượt một phần đáng kể [giá thuê một tuần cùng dòng xe](/bang-gia-xe-so/), cân nhắc phương án trả xe sớm cho quãng vắng mặt rồi thuê lại khi về, tùy điều khoản hợp đồng của bạn.
 
 Nếu phải để xe ngoài trời không có mái, ít nhất hãy che xe. Áo che xe nguyên chiếc loại tốt chống nước và chống nắng, chật hết bánh và cốp, cột chặt mép dưới tránh gió cuốn. Tránh che bằng bạt nhựa lớn buộc hờ: gió Hà Nội mùa bão đủ làm bạt quật vào xe hàng đêm, tạo những vết trầy mà không cơn mưa nào gây ra được.
 
@@ -31,11 +33,11 @@ Việc ba: dọn đồ đạc trong cốp và khóa kỹ. Lấy mọi vật dụ
 
 ## Riêng với xe máy điện: pin là ưu tiên số một
 
-Xe điện nghỉ dài ngày có một việc quan trọng hơn mọi việc khác: pin không được để cạn khi đứng lâu. Pin lithium để ở mức rất thấp trong nhiều tuần là kịch bản xấu nhất cho tuổi thọ của nó, thậm chí có thể về mức sâu khiến không sạc lại được bằng bộ sạc thường. Trước kỳ nghỉ dài, sạc pin tới khoảng nửa trở lên, tốt nhất là khoảng sáu bảy mươi phần trăm, mức được coi là lành mạnh cho việc bảo quản lithium theo tài liệu của các nhà sản xuất.
+Xe điện nghỉ dài ngày có một việc quan trọng hơn mọi việc khác: pin không được để cạn khi đứng lâu. Pin lithium để ở mức rất thấp trong nhiều tuần là kịch bản xấu nhất cho tuổi thọ của nó, thậm chí có thể về mức sâu khiến không sạc lại được bằng bộ sạc thường. Trước kỳ nghỉ dài, sạc pin tới khoảng nửa trở lên, không để quá thấp; mức bảo quản cụ thể nên theo sách hướng dẫn của xe.
 
-Nếu chỗ ở có ổ cắm gần chỗ để xe và kỳ vắng mặt dài hơn một tháng, phương án chu đáo hơn là nhờ người thân sạc bổ sung một lần giữa kỳ, giữ pin quanh mức bảo quản. Nếu không có người nhờ, mức sáu bảy mươi phần trăm ban đầu thường đủ cho sáu tám tuần đứng yên mà không xuống mức nguy hiểm, tùy dòng xe và tuổi pin. Khi quay lại, sạc đầy trước khi đi lại như thường lệ, và nếu thấy thời gian sạc đầy bất thường so với trước, báo cửa hàng để kiểm pin.
+Nếu chỗ ở có ổ cắm gần chỗ để xe và kỳ vắng mặt dài hơn một tháng, phương án chu đáo hơn là nhờ người thân sạc bổ sung một lần giữa kỳ, giữ pin quanh mức bảo quản. Nếu không có người nhờ, sạc đủ mức bảo quản trước khi đi giúp pin không xuống quá thấp trong lúc đứng yên, dù mức hao còn tùy dòng xe và tuổi pin. Khi quay lại, sạc đầy trước khi đi lại như thường lệ, và nếu thấy thời gian sạc đầy bất thường so với trước, báo cửa hàng để kiểm pin.
 
-Với xe điện, thêm hai việc nhỏ trước khi đi: tắt aptomat hoặc ngắt nguồn nồi nếu xe có công tắc nguồn chính, giảm mọi dòng tiêu hao ẩn; và che phần màn hình và cổ sạc nếu để ngoài trời, vì nước mưa đọng ở khe cổ sạc là chuyện phiền toái thật của nhiều dòng xe.
+Với xe điện, thêm hai việc nhỏ trước khi đi: tắt aptomat hoặc ngắt nguồn nếu xe có công tắc nguồn chính, giảm mọi dòng tiêu hao ẩn; và che phần màn hình và cổ sạc nếu để ngoài trời, vì nước mưa đọng ở khe cổ sạc là chuyện phiền toái thật của nhiều dòng xe. Nếu đang cân nhắc thuê xe điện cho kỳ tới, xem trang [giá thuê xe máy điện](/bang-gia-xe-dien/).
 
 ## Riêng với xe xăng: xăng và bình chứa
 
@@ -54,10 +56,10 @@ Nếu phát hiện gì bất thường sau kỳ nghỉ, chụp ảnh và báo c�
 
 ## Kiểm tra nhanh trong ngày đầu quay lại
 
-Ngoài vòng chạy thử, có vài điểm đáng nhìn bằng mắt trong mười phút đầu. Xích xe số và dây curoa xe tay ga nằm ở hai vị trí khác nhau nhưng cùng câu hỏi: còn dầu không, có bị gỉ sau độ ẩm không. Ốc guốc hai bánh vẫn chặt sau khi xe bị rung lắc hay di chuyển khỏi vị trí đỗ. Bao tay lái và gương không bị ai xoay lệch, gat ga vẫn trả về đúng. Với xe điện, màn hình hiển thị phần trăm pin khởi động bình thường, sạc nhận điện ngay từ lần cắm đầu tiên. Những dấu hiệu này nhỏ, nhưng chúng nói lên chiếc xe đã được giữ tử tế trong lúc bạn vắng mặt, và kịp phát hiện sớm nếu điều ngược lại xảy ra.
+Ngoài vòng chạy thử, có vài điểm đáng nhìn bằng mắt trong mười phút đầu. Xích xe số và dây curoa xe tay ga nằm ở hai vị trí khác nhau nhưng cùng câu hỏi: còn dầu không, có bị gỉ sau độ ẩm không. Ốc guốc hai bánh vẫn chặt sau khi xe bị rung lắc hay di chuyển khỏi vị trí đỗ. Bao tay lái và gương không bị ai xoay lệch, tay ga vẫn trả về đúng. Với xe điện, màn hình hiển thị phần trăm pin khởi động bình thường, sạc nhận điện ngay từ lần cắm đầu tiên. Những dấu hiệu này nhỏ, nhưng chúng nói lên chiếc xe đã được giữ tử tế trong lúc bạn vắng mặt, và kịp phát hiện sớm nếu điều ngược lại xảy ra.
 
 ## Trước khi thuê dài hạn: hỏi về những kỳ vắng mặt
 
-Nếu bạn biết trước công việc của mình hay có những khoảng vắng mặt dài, hãy trao đổi lúc ký hợp đồng dài hạn: kỳ thuê có thể tạm nghỉ được không, phí giữ xe trong lúc nghỉ thế nào, và liệu có phương án trả rồi thuê lại cho từng khoảng. Câu hỏi này không phải ăn xin đặc quyền, mà là lập kế hoạch, và câu trả lời giúp bạn chọn giữa giữ xe trả phí hay trả xe rồi thuê lại. Xem thêm [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh chi phí các gói, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) về quy trình chung, và hỏi cụ thể về chính sách tạm nghỉ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
+Nếu bạn biết trước công việc của mình hay có những khoảng vắng mặt dài, hãy trao đổi lúc ký hợp đồng dài hạn: kỳ thuê có thể tạm nghỉ được không, phí giữ xe trong lúc nghỉ thế nào, và liệu có phương án trả rồi thuê lại cho từng khoảng. Câu hỏi này không phải ăn xin đặc quyền, mà là lập kế hoạch, và câu trả lời giúp bạn chọn giữa giữ xe trả phí hay trả xe rồi thuê lại. Xem thêm [bảng giá thuê xe]( {{ '/bang-gia/' | relative_url }}) để so sánh chi phí các gói, đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) về quy trình chung, và hỏi cụ thể về chính sách tạm nghỉ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}).
 
 Chiếc xe đứng yên cũng cần được chăm chút, chỉ ít hơn khi nó chạy. Mười lăm phút trước khi rời đi và mười phút khi quay lại là toàn bộ công thức, và nó giữ cho phần tiền thuê của những ngày vắng mặt không thêm một khoản sửa chữa nào.

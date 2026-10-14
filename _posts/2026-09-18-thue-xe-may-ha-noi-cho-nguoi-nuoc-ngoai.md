@@ -21,6 +21,8 @@ Với khách nước ngoài, giấy tờ xác minh danh tính bắt buộc là h
 - Nếu bạn là expat sống lâu dài tại Việt Nam và có thẻ tạm trú hoặc CCCD dành cho người nước ngoài, các giấy tờ này cũng được dùng để xác minh danh tính.
 - Nên nhớ địa chỉ nơi lưu trú của mình, vì một số cửa hàng ghi thêm thông tin này vào biên bản.
 
+Nếu muốn có một danh sách gọn để đối chiếu trước chuyến đi, bạn có thể xem thêm [những thứ khách nước ngoài cần chuẩn bị khi thuê xe máy](/thue-xe/2026/09/27/nguoi-nuoc-ngoai-thue-xe-may-o-ha-noi-can-gi/).
+
 Độ tuổi tối thiểu để ký hợp đồng thuê xe là 18 tuổi, áp dụng như với khách Việt Nam.
 
 ## Quy định về giấy phép lái xe
@@ -32,7 +34,7 @@ rước chuyến đi.
 - Nếu bạn có giấy phép lái xe do Việt Nam cấp (khả thi với expat cư trú lâu dài): giấy phép này sử dụng bình thường.
 - Nếu không có giấy phép lái hiệu lực tại Việt Nam: nhóm xe 50cc là lựa chọn phù hợp, vì dòng xe này không yêu cầu giấy phép lái theo quy định hiện hành, miễn là bạn đủ tự tin với kỹ năng lái của mình.
 
-Nhiều du khách chọn phương án an toàn nhất: xác nhận trước với cửa hàng về loại xe phù hợp với giấy tờ mình có. Đừng ngại hỏi qua Zalo hoặc WhatsApp trước khi đến nhận xe.
+Nhiều du khách chọn phương án an toàn nhất: xác nhận trước với cửa hàng về loại xe phù hợp với giấy tờ mình có. Đừng ngại hỏi qua Zalo hoặc WhatsApp trước khi đến nhận xe. Nếu lo gặp tình huống bị dừng kiểm tra trên đường, hãy đọc thêm bài [khi khách nước ngoài bị dừng kiểm tra giấy tờ](/thue-xe/2026/09/30/nguoi-nuoc-ngoai-bi-dung-kiem-tra-giay-to-khi-thue-xe-may/).
 
 ## Chọn loại xe phù hợp
 
@@ -81,10 +83,10 @@ Nếu bạn định đi cùng người ngồi sau, hãy chắc chắn người �
 
 ## Liên hệ và hỗ trợ trong thời gian thuê
 
-Trước và trong suốt thời gian thuê, bạn có thể liên hệ cửa hàng qua điện thoại, Zalo hoặc WhatsApp để hỏi tình trạng xe, giá hiện hành hoặc được hỗ trợ khi cần. Mọi thắc mắc về giấy tờ và điều kiện thuê đều được xác nhận trực tiếp trước khi bạn đặt xe, và thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}).
+Trước và trong suốt thời gian thuê, bạn có thể liên hệ cửa hàng qua điện thoại, Zalo hoặc WhatsApp để hỏi tình trạng xe, giá hiện hành hoặc được hỗ trợ khi cần. Mọi thắc mắc về giấy tờ và điều kiện thuê đều được xác nhận trực tiếp trước khi bạn đặt xe, và thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}). Để chuẩn bị trước nội dung cần trao đổi, bạn có thể tham khảo [giấy tờ và cách trao đổi với cửa hàng dành cho khách quốc tế](/thue-xe/2026/10/01/khach-quoc-te-thue-xe-may-ha-noi-giay-to-va-cach-trao-oi/).
 
 Thời gian hoạt động của cửa hàng từ 09:00 đến 21:00 hàng ngày: hãy sắp xếp nhận và trả xe trong khung giờ này, kể cả khi bạn yêu cầu giao xe đến tận nơi.
 
 ## Tóm lại
 
-Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) trước khi lên đường.
+Thuê xe máy ở Hà Nội với khách nước ngoài không phức tạp nếu chuẩn bị đủ ba thứ: hộ chiếu gốc, phương án giấy phép lái phù hợp (xe 50cc nếu chưa có bằng hiệu lực tại Việt Nam), và tâm thế làm quen với nhịp giao thông địa phương. Chậm rãi, quan sát nhiều và luôn đội mũ bảo hiểm, bạn sẽ có trải nghiệm khám phá Hà Nội đúng chất người bản xứ. Để nắm thêm các kinh nghiệm tổng quan, hãy đọc bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) trước khi lên đường.

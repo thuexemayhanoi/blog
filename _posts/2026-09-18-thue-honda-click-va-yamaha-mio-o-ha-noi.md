@@ -17,7 +17,7 @@ Giữa các dòng xe ga lớn và các dòng xe số giản dị, Honda Click v�
 
 Honda Click và Yamaha Mio đều là dòng xe tay ga hạng nhỏ, cùng phân khúc với Honda Vision. Điểm chung của cả hai là thiết kế nhỏ gọn, nhẹ nhàng, trọng lượng thấp, yên vừa phải và động cơ nhỏ đủ dùng cho việc đi lại trong đô thị. Đây là nhóm xe được các thương hiệu hướng đến người trẻ và nhu cầu di chuyển hằng ngày.
 
-Honda Click mang dáng vẻ thể thao gọn gàng, mặt trước vuông vức, cốp xe vừa phải. Yamaha Mio thiên về thiết kế tròn trịa, mềm mại, chi tiết nhẹ nhàng. Về cảm giác lái, cả hai đều nhạy ga, nhẹ tay, dễ điều khiển ở tốc độ phố, và đều có cốp dưới yên đủ đựng mũ bảo hiểm nửa đầu kèm vài đồ cá nhân nhỏ.
+Honda Click mang dáng vẻ thể thao gọn gàng, mặt trước vuông vức, cốp xe vừa phải. Yamaha Mio thiên về thiết kế tròn trịa, mềm mại, chi tiết nhẹ nhàng. Về cảm giác lái, cả hai đều nhạy ga, nhẹ tay, dễ điều khiển ở tốc độ phố, và đều có cốp dưới yên đủ đựng mũ bảo hiểm nửa đầu kèm vài đồ cá nhân nhỏ. Nếu muốn đối chiếu kỹ hơn từng điểm, bạn có thể xem thêm bài [so sánh Click và Mio khi thuê](/xe-may/2026/09/27/so-sanh-honda-click-va-yamaha-mio-khi-thue/).
 
 Điểm đáng chú ý của nhóm xe này là mức tiêu hao xăng rất thấp. Máy nhỏ kết hợp trọng lượng nhẹ khiến chi phí nhiên liệu cho một ngày đi lại trong nội thành thuộc nhóm thấp nhất trong các dòng xe ga. Với khách thuê đi lại nhiều trong ngày, đây là khoản tiết kiệm thực tế cộng dồn theo từng ngày thuê.
 
@@ -29,13 +29,13 @@ Câu hỏi thường gặp là: nếu cần tiết kiệm, sao không thuê xe s
 
 Xe ga nhỏ như Click hay Mio bỏ hoàn toàn thao tác đó: bóp phanh, dừng, đèn xanh bóp ga đi tiếp. Với người đi phố nhiều, tín hiệu đèn đỏ dày đặc, sự khác biệt về độ mệt mỏi giữa xe số và xe ga tích lũy rất rõ vào cuối ngày. Ngoài ra cốp dưới yên của xe ga chứa được mũ bảo hiểm khi xuống xe đi bộ, trong khi xe số phải mang mũ theo tay hoặc móc ngoài.
 
-Với người đã quen xe số, việc chuyển sang xe ga nhỏ gần như không cần thời gian làm quen. Chiều ngược lại cũng đúng. Nếu bạn phân vân lâu hơn, bài viết [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) phân tích chi tiết từng tình huống.
+Với người đã quen xe số, việc chuyển sang xe ga nhỏ gần như không cần thời gian làm quen. Chiều ngược lại cũng đúng. Nếu bạn phân vân lâu hơn, bài viết [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) phân tích chi tiết từng tình huống.
 
 ## Giá thuê Click và Mio tham khảo
 
 Mức giá thuê tham khảo của Honda Click và Yamaha Mio là 150.000đ mỗi ngày, ngang bằng Honda Wave và thấp hơn 50.000đ so với Honda Vision và Air Blade. Theo tuần, mức tham khảo từ 600.000đ đến 700.000đ. Theo tháng, từ 1.000.000đ đến 1.200.000đ tùy thời điểm và tình trạng xe.
 
-So với Vision ở cùng phân khúc ga nhỏ, Click và Mio rẻ hơn 50.000đ mỗi ngày. Đổi lại, Vision có cốp rộng hơn và yên rộng hơn một chút khi chở hai người. Nếu bạn đi một mình, ưu tiên gọn nhẹ và giá thấp, Click hoặc Mio là lựa chọn tối ưu. Nếu thường chở thêm người sau, Vision xứng đáng với khoản chênh lệch.
+So với [Honda Vision](/chia%20s%E1%BA%BB/2026/09/18/thue-honda-vision-o-ha-noi/) ở cùng phân khúc ga nhỏ, Click và Mio rẻ hơn 50.000đ mỗi ngày. Đổi lại, Vision có cốp rộng hơn và yên rộng hơn một chút khi chở hai người. Nếu bạn đi một mình, ưu tiên gọn nhẹ và giá thấp, Click hoặc Mio là lựa chọn tối ưu. Nếu thường chở thêm người sau, Vision xứng đáng với khoản chênh lệch.
 
 Toàn bộ mức giá theo ngày, tuần, tháng của các dòng xe được liệt kê trong trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ), riêng nhóm xe ga trong trang [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }} ). Đây là mức tham khảo; giá thực tế và điều khoản cần được xác nhận trực tiếp với cửa hàng trước khi đặt xe.
 
@@ -59,13 +59,13 @@ Khi gửi xe ở khu trung tâm, chụp ảnh biển số trước khi giao chì
 
 Về thời điểm chạy xe: nếu bạn đến Hà Nội vào mùa hè, chọn khung giờ sáng sớm và chiều tối để chạy xe thoải mái hơn giữa trưa nắng gắt. Mùa đông, gió lạnh về chiều làm tay tê khi chạy đường dài, găng tay mỏng và áo gió là hai món đáng mang theo. Cốp xe nhỏ của Click và Mio không chứa được áo khoác dày, nên balo vẫn là giải pháp tốt nhất cho các món giữ ấm.
 
-Về bảo quản khi thuê dài ngày: kiểm tra lốp, đèn và phanh theo tuần, và báo ngay cho cửa hàng nếu có tiếng kêu bất thường thay vì cố chạy tiếp. Xe thuê được bảo dưỡng định kỳ, nhưng việc bạn phát hiện sớm bất thường vẫn là cách bảo vệ chính lịch trình của mình. Mọi trao đổi về tình trạng xe đều thực hiện được qua kênh trong trang [liên hệ]( {{ '/lien-he/' | relative_url }} ).
+Về bảo quản khi thuê dài ngày: kiểm tra lốp, đèn và phanh theo tuần, và báo ngay cho cửa hàng nếu có tiếng kêu bất thường thay vì cố chạy tiếp. Việc bạn phát hiện sớm bất thường là cách bảo vệ chính lịch trình của mình. Mọi trao đổi về tình trạng xe đều thực hiện được qua kênh trong trang [liên hệ]( {{ '/lien-he/' | relative_url }} ).
 
 ## Thuê Click hoặc Mio tại cửa hàng như thế nào
 
 Thủ tục thuê hai dòng xe này không khác các dòng khác: mang theo giấy tờ tùy thân, kiểm tra xe cùng người giao xe, ghi nhận tình trạng xăng và các vết trầy sẵn có, sau đó ký biên bản và nhận chìa khóa. Cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày, không giao xe ngoài giờ hoạt động, nên hãy sắp xếp giờ nhận và trả xe trong khung này.
 
-Nếu bạn muốn chủ động chọn đúng đời xe mong muốn, đặc biệt vào mùa cao điểm du lịch hoặc cuối tuần, hãy đặt trước qua điện thoại hoặc Zalo một vài ngày. Khi đặt trước, cung cấp sẵn thông tin loại xe, thời gian thuê và giờ nhận xe dự kiến để cửa hàng chuẩn bị. Cách đặt xe chi tiết từng bước đã được hướng dẫn trong bài viết về đặt xe máy trước từ xa.
+Nếu bạn muốn chủ động chọn đúng đời xe mong muốn, đặc biệt vào mùa cao điểm du lịch hoặc cuối tuần, hãy đặt trước qua điện thoại hoặc Zalo một vài ngày. Khi đặt trước, cung cấp sẵn thông tin loại xe, thời gian thuê và giờ nhận xe dự kiến để cửa hàng chuẩn bị. Cách đặt xe chi tiết từng bước đã được hướng dẫn trong bài viết về [đặt xe máy trước từ xa](/chia%20s%E1%BA%BB/2026/09/18/cach-dat-xe-may-truoc-tu-xa/).
 
 ## Tóm lại
 

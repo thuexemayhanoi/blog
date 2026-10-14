@@ -13,7 +13,7 @@ campaign: hanoi-seo-480
 
 Chạy xe máy qua đoạn đường đang sửa là tình huống hàng tuần ở Hà Nội: rào tôn che tầm nhìn, đá dăm rải lỏm chỏm, xe tải vật liệu ra vào bất chợt và mặt đường tạm gồ ghề. Bài viết này trả lời hai câu hỏi: làm sao đi qua đoạn đang sửa an toàn, và làm sao phát hiện sớm để né sang tuyến khác.
 
-Trả lời ngắn gọn: khi đã vào trong đoạn thi công, giảm tốc, đi theo vệt xe trước, và coi mọi khoảng trống giữa rào chắn là nơi có thể có xe lao ra. Khi chưa vào, dùng ứng dụng bản đồ xem tình trạng giao thông và chọn sẵn một tuyến vòng, vì né một kilômét đường xấu luôn nhàn hơn năm phút chông chênh trên đá dăm.
+Trả lời ngắn gọn: khi đã vào trong đoạn thi công, giảm tốc, đi theo vệt xe trước, và coi mọi khoảng trống giữa rào chắn là nơi có thể có xe lao ra. Khi chưa vào, dùng ứng dụng bản đồ xem tình trạng giao thông và chọn sẵn một tuyến vòng, vì né một kilômét đường xấu thường nhàn hơn năm phút chông chênh trên đá dăm.
 
 ## Nhận diện sớm đoạn đang thi công
 
@@ -29,7 +29,7 @@ Trên đá dăm, nguyên tắc vàng là không thay đổi tốc độ và hư�
 
 ## Những điểm mù giữa rào chắn
 
-Mỗi khoảng hở giữa hai tấm rào tôn là một giao cắt không ai điều khiển. Cách đi an toàn qua các khoảng hở: giảm tốc thật sâu trước khi đến, nghiêng đầu nhìn qua khe hở từ sớm, và phỏng đoán dòng ngược chiều cũng đang làm tương tự. Đừng bao giờ bám sát một xe khác đang lách qua khe hở, vì nếu họ phanh giữa chừng vì xe ngược chiều, bạn sẽ đâm thẳng vào họ mà không có lối thoát. Quy tắc một xe một lượt qua mỗi khe hẹp luôn đáng giá hơn vài giây được tiết kiệm.
+Mỗi khoảng hở giữa hai tấm rào tôn là một giao cắt không ai điều khiển. Cách đi an toàn qua các khoảng hở: giảm tốc thật sâu trước khi đến, nghiêng đầu nhìn qua khe hở từ sớm, và phỏng đoán dòng ngược chiều cũng đang làm tương tự. Đừng bao giờ bám sát một xe khác đang lách qua khe hở, vì nếu họ phanh giữa chừng vì xe ngược chiều, bạn sẽ đâm thẳng vào họ mà không có lối thoát. Quy tắc một xe một lượt qua mỗi khe hẹp đáng giá hơn vài giây được tiết kiệm.
 
 ## Khi có xe lu, xe ben đang làm việc
 
@@ -37,7 +37,7 @@ Xe lu và xe ben trong công trường có thể xoay đầu, lùi và dừng đ
 
 ## Né tránh bằng cách lên kế hoạch tuyến
 
-Cách thông minh nhất với đoạn đường đang sửa là không đi qua nó. Trước giờ cao điểm, mở bản đồ xem vệt tắc, và nếu thấy đoạn quen có màu đỏ kéo dài bất thường, chọn luôn tuyến vòng dù dài hơn. Với ai đi làm cố định, nên thử hai ba tuyến thay thế trong ngày cuối tuần rảnh để biết đường nào rộng, đường nào có chỗ gửi xe, thay vì đến lúc cần mới mò. Khi gặp biển báo rẽ tạm theo luồng, hãy đi theo biển ngay từ vị trí đầu, đừng cố bám làn cũ đến sát điểm chặn rồi mới ép rẽ, đó là nguyên nhân của nhiều va chạm tại mép công trường.
+Cách thông minh nhất với đoạn đường đang sửa là không đi qua nó. Trước giờ cao điểm, mở bản đồ xem vệt tắc, và nếu thấy đoạn quen có màu đỏ kéo dài bất thường, chọn luôn tuyến vòng dù dài hơn. Với ai đi làm cố định, nên thử hai ba tuyến thay thế trong ngày cuối tuần rảnh để biết đường nào rộng, đường nào có chỗ gửi xe, thay vì đến lúc cần mới mò. Khi gặp biển báo rẽ tạm theo luồng, hãy đi theo biển ngay từ vị trí đầu, đừng cố bám làn cũ đến sát điểm chặn rồi mới ép rẽ, đó là nguyên nhân của nhiều va chạm tại mép công trường. Cách né rãnh và đọc biển tạm khi buộc phải đi qua được bàn thêm trong bài [chạy xe qua khu vực thi công](/ky-nang/2026/10/10/chay-xe-qua-khu-vuc-thi-cong-ne-ranh-va-oc-bien-tam/).
 
 ## Với xe máy thuê qua đoạn thi công
 
@@ -55,7 +55,7 @@ Bụi xi măng và đá dăm bám vào xe sau mỗi lần qua công trường t�
 
 Nhiều người nghĩ rào tôn chỉ che một bên nên bám sát mép kia là an toàn. Thực tế mép kia thường là nơi xe máy đổ ra từ các khe hở, và người đi ở mép này không nhìn thấy họ. Một hiểu lầm khác là đi sát sau xe lớn để nhờ họ mở đường, nhưng xe ben có điểm mù rất rộng và có thể lùi đột ngột. Cách nghĩ đúng hơn: trong công trường, mọi phương tiện đều đang di chuyển trong trạng thái bán mù, kể cả bạn, nên tốc độ thấp và khoảng cách xa là ngôn ngữ chung để mọi bên sống sót.
 
-Ngoài ra hãy để ý biển báo tạm bằng vải hoặc gỗ cắm trong công trường, chúng thường báo luồng đổi hướng mà không có trên ứng dụng bản đồ, và không đọc chúng là tự đưa mình vào ngõ cụt giữa dãy rào tôn.
+Ngoài ra hãy để ý [biển báo tạm](/an-toan-phap-ly/2026/10/10/bien-bao-tam-thoi-o-oan-uong-ang-sua/) bằng vải hoặc gỗ cắm trong công trường, chúng thường báo luồng đổi hướng mà không có trên ứng dụng bản đồ, và không đọc chúng là tự đưa mình vào ngõ cụt giữa dãy rào tôn.
 
 ## Tóm lại
 

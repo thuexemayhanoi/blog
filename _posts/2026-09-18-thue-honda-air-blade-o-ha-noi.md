@@ -29,7 +29,7 @@ Khác biệt lớn nhất nằm ở khung xe và hệ thống treo. Air Blade s�
 
 Khác biệt thứ ba là diện tích để chân và yên xe rộng rãi hơn. Khách đi xa hoặc người cao lớn sẽ thấy thoải mái hơn rõ rệt so với các dòng ga nhỏ. Đổi lại, cốp của Air Blade thường hẹp hơn cốp Vision, nên nếu bạn mang nhiều đồ, cân nhắc phương án balo thay vì dựa hoàn toàn vào cốp xe.
 
-Cuối cùng là trọng lượng. Air Blade nặng hơn các dòng ga nhỏ, người có vóc dáng nhỏ hoặc chưa quen tay lái có thể thấy khó xử lý khi đẩy xe hoặc quay đầu ở chỗ hẹp. Đây là điểm cần tự đánh giá trung thực trước khi chọn xe.
+Cuối cùng là trọng lượng. Air Blade nặng hơn các dòng ga nhỏ, người có vóc dáng nhỏ hoặc chưa quen tay lái có thể thấy khó xử lý khi đẩy xe hoặc quay đầu ở chỗ hẹp. Đây là điểm cần tự đánh giá trung thực trước khi chọn xe. Nếu muốn xem kỹ hơn từng điểm khác biệt, bạn có thể đọc thêm [phân tích Air Blade so với các dòng ga phổ thông](/xe-may/2026/09/27/honda-air-blade-khac-gi-xe-ga-pho-thong/).
 
 ## Giá thuê Air Blade tham khảo
 
@@ -37,7 +37,7 @@ Mức giá thuê Air Blade tham khảo là 200.000đ mỗi ngày, ngang với Ho
 
 So sánh nhanh theo ngày: Wave 150.000đ, Click và Mio 150.000đ, Vision 200.000đ, Air Blade 200.000đ. Với cùng mức giá ngày như Vision, bạn nhận được máy mạnh hơn và khung chắc hơn, đánh đổi bằng trọng lượng nặng hơn và cốp hẹp hơn. Quyết định vì vậy phụ thuộc vào nhu cầu sử dụng thật hơn là mức giá.
 
-Bảng giá đầy đủ theo ngày, tuần, tháng của tất cả các dòng xe được cập nhật trong trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ), riêng nhóm xe ga trong trang [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }} ). Giá thực tế, tiền đặt cọc và điều khoản thuê cần được xác nhận trực tiếp với cửa hàng trước khi đặt xe.
+Bảng giá đầy đủ theo ngày, tuần, tháng của tất cả các dòng xe được cập nhật trong trang [bảng giá thuê xe máy]( {{ '/bang-gia/' | relative_url }} ), riêng nhóm xe ga trong trang [bảng giá xe tay ga]( {{ '/bang-gia-xe-ga/' | relative_url }} ). Giá thực tế, tiền đặt cọc và điều khoản thuê cần được [xác nhận trực tiếp với cửa hàng](/lien-he/) trước khi đặt xe.
 
 ## Air Blade hợp với ai
 
@@ -47,7 +47,7 @@ Nhóm thứ hai là khách công tác dài ngày. Với mức tháng tham khảo
 
 Nhóm thứ ba là khách muốn trải nghiệm cảm giác lái thể thao trong ngân sách hợp lý. Nếu bạn vốn quen xe lớn hoặc thích phong cách mạnh mẽ, Air Blade mang lại phần lớn sự thú vị đó mà không phải trả mức giá của các dòng xe cao cấp hơn hẳn.
 
-Ngược lại, nếu bạn là người mới biết lái, có vóc dáng nhỏ, hoặc chủ yếu đi một mình trong ngõ nhỏ, các dòng ga nhỏ như Vision, Click hoặc Mio sẽ dễ xử lý hơn. Bài [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}/) có thêm phần so sánh để bạn tự chọn.
+Ngược lại, nếu bạn là người mới biết lái, có vóc dáng nhỏ, hoặc chủ yếu đi một mình trong ngõ nhỏ, các dòng ga nhỏ như Vision, Click hoặc Mio sẽ dễ xử lý hơn. Bài [xe số, xe ga hay xe 50cc: nên chọn loại nào]({{ site.baseurl }}{% post_url 2026-09-13-xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao %}) có thêm phần so sánh để bạn tự chọn.
 
 ## Kinh nghiệm lái Air Blade trong phố
 
@@ -57,13 +57,13 @@ Khi luồn trong kẹt xe, vùng khuất tầm nhìn của xe tải và xe buýt
 
 Nếu chạy đường trường hoặc vành đai, giữ tốc độ trong giới hạn cho phép và chú ý gió ngang khi có xe container vượt qua. Thân xe Air Blade ổn định nhưng lực gió từ xe lớn vẫn có thể đẩy lệch hướng đi của bạn. Tốc độ càng cao, khoảng cách với xe phía trước càng cần được mở rộng.
 
-Khi gửi xe, thân xe to của Air Blade chiếm chỗ hơn các dòng ga nhỏ; ở các bãi chật trong phố cổ, chọn vị trí sát tường hoặc nơi có khoảng dựng rộng. Ghi nhớ vị trí xe và chụp ảnh biển số để nhận lại nhanh, vì cuối tuần các bãi trung tâm thường chứa hàng trăm xe.
+Khi gửi xe, thân xe to của Air Blade chiếm chỗ hơn các dòng ga nhỏ; ở các bãi chật trong phố cổ, chọn vị trí sát tường hoặc nơi có khoảng dựng rộng. Ghi nhớ vị trí xe và chụp ảnh biển số để nhận lại nhanh, vì cuối tuần các bãi trung tâm thường rất đông xe.
 
 Cuối cùng, nếu lịch trình của bạn kết thúc muộn, hãy nhớ cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày và không giao xe ngoài giờ hoạt động. Sắp xếp thời gian trả xe trong khung giờ này để tránh phát sinh chi phí trễ giờ.
 
 ## Thuê Air Blade dài ngày cần lưu ý gì
 
-Với mức tháng tham khảo 1.400.000đ, nhóm khách thuê Air Blade dài ngày chủ yếu là người đi làm hoặc công tác cả tháng. Khi thuê dài ngày, bạn nên thống nhất rõ ngay từ đầu về lịch bảo dưỡng: xe chạy nhiều cần được kiểm tra lốp, nhớt và dây xích định kỳ, và việc ai thực hiện bảo dưỡng giữa kỳ nên được ghi rõ trong biên bản thuê xe.
+Với mức tháng tham khảo 1.400.000đ, thuê Air Blade dài ngày khá hợp với người đi làm hoặc công tác cả tháng. Khi thuê dài ngày, bạn nên thống nhất rõ ngay từ đầu về lịch bảo dưỡng: xe chạy nhiều cần được kiểm tra lốp, nhớt và dây xích định kỳ, và việc ai thực hiện bảo dưỡng giữa kỳ nên được ghi rõ trong biên bản thuê xe.
 
 Về nhiên liệu, Air Blade có bình xăng lớn hơn các dòng ga nhỏ, mỗi lần đổ đầy chạy được nhiều km hơn, nhưng không nên để xe cạn kiệt rồi mới đổ. Thói quen đổ khi kim xăng còn khoảng một phần tư giúp máy hoạt động ổn định và giúp bạn chủ động với lịch trình di chuyển dày đặc.
 

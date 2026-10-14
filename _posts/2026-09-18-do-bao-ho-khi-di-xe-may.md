@@ -11,11 +11,11 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Người ta chuẩn bị kỹ cho chuyến đi: chọn điểm đến, đặt phòng, lên lộ trình, nhưng đồ bảo hộ thường chỉ được nghĩ đến ở phút cuối, hoặc không được nghĩ đến. Thực tế, các số liệu tai nạn giao thông ở Việt Nam qua nhiều năm đều cho thấy chấn thương đầu là nguyên nhân gây tử vong hàng đầu trên xe máy, trong khi hầu hết các chấn thương tay chân có thể giảm nhẹ đáng kể chỉ bằng găng tay và giày kín. Bài viết này giúp bạn chọn đồ bảo hộ theo mức phù hợp với từng loại chuyến đi, không thừa, không thiếu.
+Người ta chuẩn bị kỹ cho chuyến đi: chọn điểm đến, đặt phòng, lên lộ trình, nhưng đồ bảo hộ thường chỉ được nghĩ đến ở phút cuối, hoặc không được nghĩ đến. Thực tế, chấn thương đầu là loại chấn thương nguy hiểm nhất khi đi xe máy, trong khi nhiều chấn thương tay chân có thể giảm nhẹ đáng kể chỉ bằng găng tay và giày kín. Ngắn gọn: mũ đạt chuẩn cài quai là món không thể thiếu trong mọi chuyến; chạy phố cần thêm giày kín mũi và quần dài; chơi ngày quanh Hà Nội thêm găng, kính và áo mưa theo mùa; đường trường nhiều ngày thì đủ bộ với giày cao cổ và áo mưa một mảnh. Phần dưới giúp bạn chọn đồ bảo hộ theo mức phù hợp với từng loại chuyến đi, không thừa, không thiếu.
 
 ## Mũ bảo hiểm: món không được phép tiết kiệm
 
-Mũ bảo hiểm là đồ bảo hộ duy nhất bắt buộc theo luật, và cũng là món đáng đầu tư nhất. Ba tiêu chí khi chọn mũ:
+Mũ bảo hiểm là đồ bảo hộ duy nhất bắt buộc theo luật, và cũng là món đáng đầu tư nhất. Ba tiêu chí khi chọn mũ, kèm cách giữ gìn mũ đúng cách:
 
 ### Chuẩn đạt
 
@@ -27,7 +27,7 @@ Mũ rộng sẽ xê dịch khi rung, mất tác dụng giữ đầu; mũ chật 
 
 ### Còn tình trạng tốt
 
-Mũ từng chịu một cú đập mạnh, kể cả khi nhìn ngoài không thấy vết, cũng nên thay: lớp hấp thụ xung lực bên trong đã mất khả năng làm việc. Mũ dùng nhiều năm, lớp xốp bên trong bị vụn, quai bị rão, cũng đến lúc thay. Về nguyên tắc chung, mũ bảo hiểm có tuổi thọ sử dụng vài năm tùy tần suất và điều kiện giữ gìn, và mọi cú rơi từ tay lên mặt đường cứng cũng đáng một lần kiểm tra.
+Mũ từng chịu một cú đập mạnh, kể cả khi nhìn ngoài không thấy vết, cũng nên thay: lớp hấp thụ xung lực bên trong đã mất khả năng làm việc. Mũ dùng nhiều năm, lớp xốp bên trong bị vụn, quai bị rão, cũng đến lúc thay. Về nguyên tắc chung, mũ bảo hiểm có tuổi thọ sử dụng nhất định tùy tần suất và điều kiện giữ gìn, và mọi cú rơi từ tay lên mặt đường cứng cũng đáng một lần kiểm tra.
 
 ### Giữ gìn đúng cách
 
@@ -35,7 +35,7 @@ Mũ cần được để nơi thoáng, tránh nắng gắt thường xuyên làm
 
 ## Găng tay: rẻ nhất, hiệu quả cao bất ngờ
 
-Khi ngã, phản xạ đầu tiên của con người là chống tay. Bàn tay trần chạm mặt đường ở tốc độ chạy xe là trượt da, gãy xương ngón, và vài tuần bất tiện. Một đôi găng tay may đủ dày, kín ngón, giữ được độ bám khi ướt, đã giảm đáng kể mức thương tích này, với chi phí chỉ bằng một bữa ăn.
+Khi ngã, phản xạ đầu tiên của con người là chống tay. Bàn tay trần chạm mặt đường ở tốc độ chạy xe là trượt da, gãy xương ngón, và vài tuần bất tiện. Một đôi găng tay may đủ dày, kín ngón, giữ được độ bám khi ướt, đã giảm đáng kể mức thương tích này, với chi phí không lớn.
 
 Găng xe máy tốt có thêm tấm đệm ở vùng bàn tay và khớp ngón, đúng hai điểm chạm đất đầu tiên. Găng mùa hè có lỗ thoáng; găng mùa đông dày hơn kèm lớp chắn gió. Khi thuê xe đường trường, nếu không mang theo găng, một đôi găng vải dày thông dụng cũng tốt hơn hẳn bàn tay trần.
 
@@ -65,7 +65,7 @@ Mũ đạt chuẩn cài quai, giày kín mũi, quần dài. Găng và kính tùy
 
 ### Chuyến chơi ngày quanh Hà Nội
 
-Thêm găng tay, kính, và áo mưa theo mùa. Nếu đi nhóm, thống nhất mức trang bị chung để không ai trong nhóm là điểm yếu về an toàn.
+Thêm găng tay, kính, và áo mưa theo mùa. Nếu đi nhóm, thống nhất mức trang bị chung để không ai trong nhóm là điểm yếu về an toàn. Phần chuẩn bị còn lại cho chuyến kiểu này có trong bài [chuẩn bị chuyến đi gần Hà Nội từng bước](/kinh%20nghi%E1%BB%87m/2026/09/18/chuan-bi-chuyen-di-gan-ha-noi-bang-xe-may/).
 
 ### Chuyến đường trường nhiều ngày
 
@@ -75,7 +75,7 @@ Thêm găng tay, kính, và áo mưa theo mùa. Nếu đi nhóm, thống nhất 
 
 Hỏi trước xem mũ bảo hiểm có đi kèm xe không. Nếu có, hãy kiểm tra mũ như kiểm tra xe: quai còn chắc, lớp trong còn nguyên, không có vết nứt. Nếu mũ không đạt các điểm này, yêu cầu đổi chiếc khác; đây là yêu cầu hoàn toàn chính đáng. Nếu bạn có mũ riêng vừa cỡ, mang theo vẫn là lựa chọn tốt nhất, vì không mũ nào vừa bằng mũ bạn đã quen đeo.
 
-Bạn có thể hỏi trước về mũ đi kèm khi đặt xe qua Zalo hoặc điện thoại. Thông tin liên hệ của Thuê Xe Máy Hà Nội Nguyễn Tú, ở 112 Nguyễn Văn Cừ, Long Biên, có đầy đủ trên trang [liên hệ]({{ '/lien-he/' | relative_url }}), cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày.
+Bạn có thể hỏi trước về mũ đi kèm khi [đặt xe trước chuyến đi](/thue-xe/2026/10/10/at-xe-may-thue-truoc-chuyen-i-bao-lau-la-hop-ly/) qua Zalo hoặc điện thoại. Thông tin liên hệ của Thuê Xe Máy Hà Nội Nguyễn Tú, ở 112 Nguyễn Văn Cừ, Long Biên, có đầy đủ trên trang [liên hệ]({{ '/lien-he/' | relative_url }}), cửa hàng mở cửa từ 09:00 đến 21:00 hằng ngày.
 
 ## Bảo quản bộ đồ bảo hộ
 
@@ -85,4 +85,4 @@ Một nguyên tắc sắp xếp nhỏ: để toàn bộ đồ bảo hộ ở m�
 
 ## Tóm lại
 
-Đồ bảo hộ không cần đắt, cần đúng và đủ: mũ đạt chuẩn cài quai là bắt buộc, găng và giày kín là hai món rẻ nhất cho phần thân, kính và áo mưa tùy mùa và độ dài chuyến đi. Chọn mức theo loại chuyến: phố, chơi ngày, hay đường trường nhiều ngày. Chi phí cả bộ đồ bảo hộ cơ bản thường thấp hơn một lần điều trị thương tích nhẹ. Hãy đọc thêm các bài về an toàn đường trường và chuẩn bị chuyến đi trong mục [kinh nghiệm]({{ '/kinh-nghiem/' | relative_url }}) và [chia sẻ]({{ '/chia-se/' | relative_url }}) của chúng tôi.
+Đồ bảo hộ không cần đắt, cần đúng và đủ: mũ đạt chuẩn cài quai là bắt buộc, găng và giày kín là hai món rẻ nhất cho phần thân, kính và áo mưa tùy mùa và độ dài chuyến đi. Chọn mức theo loại chuyến: phố, chơi ngày, hay đường trường nhiều ngày. Đầu tư cho bộ đồ bảo hộ cơ bản là khoản đáng bỏ ra so với rủi ro chấn thương. Hãy đọc thêm các bài về an toàn đường trường và chuẩn bị chuyến đi trong mục [kinh nghiệm]({{ '/kinh-nghiem/' | relative_url }}) và [chia sẻ]({{ '/chia-se/' | relative_url }}) của chúng tôi.

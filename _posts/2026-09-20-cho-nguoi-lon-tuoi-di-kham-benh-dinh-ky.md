@@ -29,7 +29,7 @@ Về vật lý: cho ông bà mặc quần dài thoải mái dễ bước qua yê
 
 Xuống xe thì càng phải chậm: xe đã chống chân đứng chắc, người lái giữ yên, ông bà nhấc chân qua về một bên rồi bước xuống, tuyệt đối không chống tay lên vai người lái để đè xuống khi xuống, vì lực đè làm cả hai mất thăng bằng. Nếu chỗ xuống xe không có bậc cao để dựa, nghiêng xe nhẹ về phía người xuống cho khoảng cách chân với mặt đất ngắn lại.
 
-Người bị đau khớp gối thì lên xuống kiểu bước qua sau (ngồi hướng về phía sau rồi xoay) không phù hợp với xe máy, nên chọn điểm lên xuống có bậc. Một mẹo của nhiều gia đình: chở tới nơi có bậc thềm nhà hoặc ghế đá gần cổng, cho ông bà xuống tại đó rồi mới dắt xe vào chỗ đỗ, thay vì bắt lên xuống giữa bãi xe chen chúc.
+Người bị đau khớp gối thì lên xuống kiểu bước qua sau (ngồi hướng về phía sau rồi xoay) không phù hợp với xe máy, nên chọn điểm lên xuống có bậc. Một mẹo của nhiều gia đình: chở tới nơi có bậc thềm nhà hoặc ghế đá gần cổng, cho ông bà xuống tại đó rồi mới dắt xe vào chỗ đỗ, thay vì bắt lên xuống giữa bãi xe chen chúc. Nếu nhà dùng xe tay ga, xem thêm bài về [xe ga chở người lớn tuổi đi khám bệnh](/xe-may/2026/10/10/xe-ga-cho-nguoi-lon-tuoi-i-kham-benh/).
 
 ## Cách đi đường cho người ngồi sau là người già
 
@@ -53,10 +53,10 @@ Sau mỗi chuyến khám, cũng đáng dành một phút rà soát: đoạn đư
 
 ## Chọn khung giờ để cả hai đỡ mệt
 
-Bệnh viện Hà Nội có các nhịp đông riêng: sáng bảy tới chín giờ là đỉt lấy số và chờ khám, mười một giờ trưa là lúc đói và mệt, và chiều hai ba giờ thường vắng hơn buổi sáng. Với người lớn tuổi, khung chiều nhiều khi là lựa chọn tốt hơn cho các khám định kỳ không cần xét nghiệm đói. Hỏi trước khi đặt lịch hẹn xem buổi nào khu khám vắng, và nhiều bệnh viện có ứng dụng đặt số thứ tự trực tuyến giúp tránh cả khung chờ đông nhất.
+Mỗi bệnh viện Hà Nội có nhịp đông riêng: nhiều nơi sáng bảy tới chín giờ là đỉnh lấy số và chờ khám, mười một giờ trưa là lúc đói và mệt, và chiều hai ba giờ có nơi vắng hơn buổi sáng. Với người lớn tuổi, khung chiều có thể đáng cân nhắc cho các khám định kỳ không cần xét nghiệm đói, nhưng nên hỏi nơi khám trước. Hỏi trước khi đặt lịch hẹn xem buổi nào khu khám vắng, và bệnh viện có cho đặt số thứ tự trực tuyến không để tránh khung chờ đông nhất.
 
 Thời điểm đi đường cũng nên né giờ tan tầm: sáu giờ chiều kẹt xe với người ngồi sau là người già là mười lăm phút ngồi rung rinh giữa khói bụi, mệt không kém nửa tiếng xếp hàng. Tránh được khung đó chỉ bằng cách đặt lịch giờ vắng và chủ động đi về trước đỉnh điểm.
 
 ## Tóm lại
 
-Chở người lớn tuổi đi khám định kỳ: chuẩn bị hồ sơ thuốc từ tối, ghi sẵn khu và giờ hẹn, lên xuống xe theo đúng trình tự chống chân chắc, đi chậm đều chọn đường thẳng ít xóc, dừng nghỉ nếu xa, và kiên nhẫn lo phần xếp hàng tại bệnh viện. Ghi lại chỉ định bác sĩ bằng điện thoại, sắp thuốc ngay tối hôm đó, và lịch tái khám có nhắc. Chuyến đi kiểu này đo không bằng kilomet mà bằng sự thoải mái của người ngồi sau. Tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chở người trên xe máy và khi cần xe phù hợp để chở người lớn tuổi, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}).
+Chở người lớn tuổi đi khám định kỳ: chuẩn bị hồ sơ thuốc từ tối, ghi sẵn khu và giờ hẹn, lên xuống xe theo đúng trình tự chống chân chắc, đi chậm đều chọn đường thẳng ít xóc, dừng nghỉ nếu xa, và kiên nhẫn lo phần xếp hàng tại bệnh viện. Ghi lại chỉ định bác sĩ bằng điện thoại, sắp thuốc ngay tối hôm đó, và lịch tái khám có nhắc. Chuyến đi kiểu này đo không bằng kilomet mà bằng sự thoải mái của người ngồi sau. Tham khảo thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) về chở người trên xe máy, cách [chọn xe máy cho người cao tuổi đi khám](/xe-may/2026/10/05/chon-xe-may-cho-nguoi-cao-tuoi-i-kham-benh-inh-ky/), bài về [thuê xe máy cho người lớn tuổi](/thue-xe/2026/09/30/thue-xe-may-cho-nguoi-lon-tuoi-o-ha-noi/), và khi cần xe phù hợp để chở người lớn tuổi, hãy [liên hệ]( {{ '/lien-he/' | relative_url }}).

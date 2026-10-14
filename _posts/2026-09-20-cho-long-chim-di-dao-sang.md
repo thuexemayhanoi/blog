@@ -31,13 +31,13 @@ Chuyển động cần mềm: vào số nhẹ, ga đều, phanh sớm và nhịp
 
 Giờ dạo chim là giờ phố còn thưa, cũng là giờ dễ chạy nhất với lồng treo lơ lửng trên xe. Năm giờ rưỡi tới bảy giờ, các trục quanh hồ và công viên gần như chỉ có người đi bộ và chạy xe chậm, nguy cơ phanh gấp thấp. Sau bảy giờ rưỡi, dòng xe đi làm bắt đầu dày, và lồng chim trên xe giữa dòng xe nhanh là hình ảnh khiến cả người chơi chim lâu năm cũng thấy chùn tay.
 
-Tuyến đi nên chọn đường nhỏ, nhiều tán cây, ít xe tải, kể cả khi dài hơn vài phút. Người chơi chim thường có sẵn hai ba tuyến dự phòng theo mùa đông hè: mùa đông chọn tuyến ngắn để lồng khỏi gió lạnh, mùa hè chọn tuyến râm. Quãng dạo chim quen của nhiều người chỉ hai ba cây số, không phải cuộc di chuyển xa, và chính vì quen thuộc nên mọi ổ gà trên tuyến đều nằm trong trí nhớ.
+Tuyến đi nên chọn đường nhỏ, nhiều tán cây, ít xe tải, kể cả khi dài hơn vài phút. Nếu tuyến quen đi ngang chợ tạm, xem thêm cách [đi xe qua chợ tạm và đường họp chợ sáng sớm](/kinh%20nghi%E1%BB%87m/2026/09/19/di-xe-may-qua-cho-tam-va-duong-hop-cho-sang-som-o-ha-noi/). Người chơi chim thường có sẵn hai ba tuyến dự phòng theo mùa đông hè: mùa đông chọn tuyến ngắn để lồng khỏi gió lạnh, mùa hè chọn tuyến râm. Quãng dạo chim quen của nhiều người chỉ hai ba cây số, không phải cuộc di chuyển xa, và chính vì quen thuộc nên mọi ổ gà trên tuyến đều nằm trong trí nhớ.
 
 ## Chuyện chợ chim và những buổi mang lồng đi xa
 
 Ngoài dạo sáng thường nhật, dân chơi chim còn có những chuyến mang lồng đi xa hơn: chợ chim cuối tuần ở các vùng ven, hoặc mang chim về quê cho bạn bè nghe thử. Chuyến xa với lồng chim cần chuẩn bị hơn hẳn: quây lồng bằng vải mỏng quanh thân lồng cho chim bớt gió và bớt nhìn cảnh vật vun vút, che nửa mặt lồng phía hướng gió, và dừng mỗi chặng cho chim nghỉ, che kín rồi mở hé khi dừng.
 
-Với lồng giá trị, người mang đi xa thường không treo lơ lửng mà đặt lồng vào thùng xe ba bánh hoặc ôm trước ngực nếu ngồi sau. Chở bằng xe máy thuê cho chuyến này, nói trước với cửa hàng để chọn xe có tay cầm chắc và móc treo sẵn, và nhớ mang theo khăn để phủ lồng khi trời đổ mưa bất chợt, chim ướt gió là chim ốm.
+Với lồng giá trị, người mang đi xa thường không treo lơ lửng mà đặt lồng vào thùng xe ba bánh hoặc ôm trước ngực nếu ngồi sau. Chở bằng xe máy thuê cho chuyến này, hỏi trước cửa hàng xem có xe tay cầm chắc và móc treo sẵn không, và nhớ mang theo khăn để phủ lồng khi trời đổ mưa bất chợt, chim ướt gió là chim ốm.
 
 ## Những câu chuyện bên chiếc lồng
 
@@ -48,9 +48,9 @@ Với người trẻ mới nhập hội, việc chở lồng đi dạo sáng cũ
 
 ## Lồng chim với người chạy xe thuê
 
-Người chơi chim không nhất thiết đã có xe máy riêng, và đây là chỗ xe thuê chợt có một vai trò rất đời. Người về Hà Nội thăm cha mẹ già vài tuần, muốn duy trì thói quen dạo chim mà nhà không còn xe, hoặc người mới chuyển tới ở trọ quanh khu công viên quen thuộc, thuê một chiếc xe số tay cầm chắc trong một tháng mỗi sáng chở lồng, là cách giữ nhịp sống cũ ở nơi ở mới. Khi thuê cho mục đích này, nói rõ với cửa hàng để chọn chiếc có móc treo hoặc thanh ngang, và hỏi lịch bảo dưỡng để tránh giữa tháng xe phải nghỉ đúng mùa chim căng giọng.
+Người chơi chim không nhất thiết đã có xe máy riêng, và đây là chỗ xe thuê chợt có một vai trò rất đời. Người về Hà Nội thăm cha mẹ già vài tuần, muốn duy trì thói quen dạo chim mà nhà không còn xe, hoặc người mới chuyển tới ở trọ quanh khu công viên quen thuộc, thuê một chiếc [xe số](/bang-gia-xe-so/) tay cầm chắc trong một tháng mỗi sáng chở lồng, là cách giữ nhịp sống cũ ở nơi ở mới. Khi thuê cho mục đích này, nói rõ mục đích qua trang [liên hệ](/lien-he/) và hỏi cửa hàng xem có chiếc nào có móc treo hoặc thanh ngang, và hỏi lịch bảo dưỡng để tránh giữa tháng xe phải nghỉ đúng mùa chim căng giọng.
 
-Có nhóm bạn chơi chim còn đi thuê xe theo buổi cho những chuyến chợ chim cuối tuần ở vùng ven, mỗi người chở hai lồng, đoàn ba bốn xe chạy nối đuôi nhau trên đường tỉnh, trông không khác gì một đoàn xe có nhiệm vụ riêng. Chi phí chia đầu người thường rẻ hơn thuê xe ôm hai chặng, và quan trọng hơn, lồng chim ở trên tay người trong cuộc chứ không phải trên tay người chạy hộ.
+Có nhóm bạn chơi chim còn đi thuê xe cho những chuyến chợ chim cuối tuần ở vùng ven, mỗi người chở hai lồng, đoàn ba bốn xe chạy nối đuôi nhau trên đường tỉnh, trông không khác gì một đoàn xe có nhiệm vụ riêng. Chi phí nên tính trước khi đi, và quan trọng hơn, lồng chim ở trên tay người trong cuộc chứ không phải trên tay người chạy hộ.
 
 ## Vài điều nhỏ người mới hay hỏi
 

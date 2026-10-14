@@ -33,7 +33,7 @@ Tránh gió ngang bằng tốc độ là chiến lược chính đáng: hạ t�
 
 ## Gió ngang khi chở người hoặc hàng
 
-Chở người thứ hai tăng diện hứng gió và thay đổi mômen quay của khối xe, làm cú lạng rõ hơn và độ phục hồi chậm hơn. Với hành khách sau, dặn họ ôm nhẹ vào người lái hoặc ngồi ép sát thay vì ngồi thẳng lỏng lẻo, và giữ yên người khi có cú gió, vì một cú nghiêng ngả theo phản xạ của hành khách đúng lúc gió quật là đủ mất thăng bằng. Với hàng cồng kềnh chằng phía sau, hạ tốc ở các đoạn gió hơn mức bình thường, và cân đối lại việc chia đồ nếu có thể, vì hàng xếp trọng tâm thấp luôn dễ giữ hơn.
+Chở người thứ hai tăng diện hứng gió và thay đổi mômen quay của khối xe, làm cú lạng rõ hơn và độ phục hồi chậm hơn. Với hành khách sau, dặn họ ôm nhẹ vào người lái hoặc ngồi ép sát thay vì ngồi thẳng lỏng lẻo, và giữ yên người khi có cú gió, vì một cú nghiêng ngả theo phản xạ của hành khách đúng lúc gió quật là đủ mất thăng bằng. Với hàng cồng kềnh chằng phía sau, hạ tốc ở các đoạn gió hơn mức bình thường, và cân đối lại việc chia đồ nếu có thể, vì hàng xếp trọng tâm thấp thường dễ giữ hơn.
 
 ## Kỹ thuật qua cầu và đầu cầu
 
@@ -53,7 +53,7 @@ Gió mạnh thường đến sau các đợt không khí lạnh hoặc trước 
 
 ## Gió ngang và loại xe bạn đi
 
-Mỗi loại xe phản ứng với gió theo cách riêng: xe nặng và yên thấp thường bám đường tốt hơn, xe nhẹ với thân cao dễ bị quật rõ hơn, và các xe có tấm chắn gió lớn trước người vừa giúp chắn gió xuôi vừa tăng lực hứng gió ngang. Với xe điện nhiều dòng có khối pin đặt thấp, trọng tâm thấp lại là lợi thế đáng kể trong gió ngang. Nếu bạn thường xuyên đi các tuyến thoáng gió và sắp thuê xe dài hạn, đây là một tiêu chí đáng để trao đổi với nơi cho thuê, cùng những tiêu chí quen thuộc như độ êm và độ tiết kiệm nhiên liệu.
+Mỗi loại xe phản ứng với gió theo cách riêng: xe nặng và yên thấp thường bám đường tốt hơn, xe nhẹ với thân cao dễ bị quật rõ hơn, và các xe có tấm chắn gió lớn trước người vừa giúp chắn gió xuôi vừa tăng lực hứng gió ngang. Với xe điện nhiều dòng có khối pin đặt thấp, trọng tâm thấp có thể là một lợi thế trong gió ngang. Nếu bạn thường xuyên đi các tuyến thoáng gió và sắp thuê xe dài hạn, đây là một tiêu chí đáng để trao đổi với nơi cho thuê, cùng những tiêu chí quen thuộc như độ êm và độ tiết kiệm nhiên liệu.
 
 ## Khi gió kèm mưa hoặc bụi
 
@@ -61,4 +61,4 @@ Gió ngang kết hợp mưa là tổ hợp khó nhất: mặt đường trơn, t
 
 ## Tóm lại
 
-Gió ngang là hiện tượng vật lý quen thuộc của xe hai bánh, và sự lạng của xe không phải dấu hiệu xe hỏng mà là phản ứng bình thường của khối cao và hẹp. Chìa khóa là hạ tốc ở chỗ hay gió, tư thế lỏng nhưng chủ động, và tôn trọng khoảng cách với các nguồn gió từ phương tiện lớn. Tham khảo thêm về cảm giác lái trong các điều kiện đường khác trong mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}), và khi cần trao đổi về tình trạng xe trước khi thuê cho mùa gió, xem [liên hệ]( {{ '/lien-he/' | relative_url }}).
+Gió ngang là hiện tượng vật lý quen thuộc của xe hai bánh, và sự lạng của xe không phải dấu hiệu xe hỏng mà là phản ứng bình thường của khối cao và hẹp. Chìa khóa là hạ tốc ở chỗ hay gió, tư thế lỏng nhưng chủ động, và tôn trọng khoảng cách với các nguồn gió từ phương tiện lớn. Nếu cần chuẩn bị cho cả một ngày gió mạnh, xem thêm bài [đi xe máy khi gió lớn ở Hà Nội](/kinh%20nghi%E1%BB%87m/2026/09/19/di-xe-may-khi-gio-lon-va-gio-ngang-o-ha-noi/). Tham khảo thêm về cảm giác lái trong các điều kiện đường khác trong mục [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}), và khi cần trao đổi về tình trạng xe trước khi thuê cho mùa gió, xem [liên hệ]( {{ '/lien-he/' | relative_url }}).

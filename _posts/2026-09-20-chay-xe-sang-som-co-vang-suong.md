@@ -21,7 +21,7 @@ Nhiều người đi xe nhiều năm nhầm sương với mưa nhỏ, nhưng hai
 
 ## Tầm nhìn và việc nhìn xa trong sương vàng
 
-Nguyên tắc vàng khi đi trong sương: chỉ chạy nhanh đến mức bạn dừng được trong khoảng mình nhìn thấy rõ. Vệt sương sáng sớm thường mỏng, vài trăm mét là thoáng, nhưng có những đoạn trũng ven sông hoặc giữa hai dãy nhà cao sương dày đột ngột. Nhìn xa bằng cách liếc qua khoảng trống giữa các xe phía trước, và đừng bám đèn hậu của một xe duy nhất làm mốc duy nhất, vì nếu họ lệch hướng, bạn theo lệch. Còi sáng sớm vang xa hơn trong không khí ẩm tĩnh, nên nhấn còi nhẹ trước các ngã tư không đèn để báo hiệu tồn tại của mình.
+Nguyên tắc vàng khi đi trong sương: chỉ chạy nhanh đến mức bạn dừng được trong khoảng mình nhìn thấy rõ. Vệt sương sáng sớm thường mỏng, vài trăm mét là thoáng, nhưng có những đoạn trũng ven sông hoặc giữa hai dãy nhà cao sương dày đột ngột. Nhìn xa bằng cách liếc qua khoảng trống giữa các xe phía trước, và đừng bám đèn hậu của một xe duy nhất làm mốc duy nhất, vì nếu họ lệch hướng, bạn theo lệch. Kỹ năng nhìn đường trong sương mù buổi sớm có thêm ở bài [chạy xe máy trong sương mù buổi sớm ở Hà Nội](/ky-nang/2026/10/04/chay-xe-may-trong-suong-mu-buoi-som-o-ha-noi/). Còi sáng sớm vang xa hơn trong không khí ẩm tĩnh, nên nhấn còi nhẹ trước các ngã tư không đèn để báo hiệu tồn tại của mình.
 
 ## Mặt đường ẩm và vệt sơn trơn
 
@@ -33,11 +33,11 @@ Nhiệt độ sáng sớm mùa thu đông ở Hà Nội đủ làm tay chân co 
 
 ## Đèn xe trong sương sáng
 
-Sương sáng kết hợp với đèn pha tạo hiện tượng phản xạ trắng mờ, giống chạy trong đèn mờ milimet, nên nhiều người bật đèn chiếu xa tưởng sáng hơn nhưng thực ra làm vệt sương lóe lên trắng che đường. Chế độ đèn chiếu gần hạ vệt sáng xuống mặt đường, cho độ tương phản tốt hơn trong sương. Đèn hậu và đèn phanh sáng rõ giúp xe phía sau thấy bạn sớm, nên bật đèn xe ngay từ khi trời còn ửng sáng, cả khi bạn nghĩ mình thấy đủ.
+Sương sáng kết hợp với đèn pha tạo hiện tượng phản xạ trắng mờ, nên nhiều người bật đèn chiếu xa tưởng sáng hơn nhưng thực ra làm vệt sương lóe lên trắng che đường. Chế độ đèn chiếu gần hạ vệt sáng xuống mặt đường, cho độ tương phản tốt hơn trong sương. Đèn hậu và đèn phanh sáng rõ giúp xe phía sau thấy bạn sớm, nên bật đèn xe ngay từ khi trời còn ửng sáng, cả khi bạn nghĩ mình thấy đủ.
 
 ## Những người và vật trên đường sáng sớm
 
-Khung giờ sương sáng có bộ nhân vật riêng: người đi bộ tập thể dục mặc quần áo tối màu, xe đạp chở rau đi chợ sớm không đèn, người quét đường làm việc giữa lòng đường, và đàn gà vịt băng qua ở ngoại ô. Tất cả đều khó thấy trong sương và đều không mong đợi xe chạy nhanh. Cách ứng xử: còi nhẹ từ xa với mọi bóng người phía trước, giảm tốc sâu khi qua khu có người tập thể dục ven đường hồ, và luôn giả định bóng mờ phía trước có thể đột ngột đổi hướng.
+Khung giờ sương sáng có bộ nhân vật riêng: người đi bộ tập thể dục mặc quần áo tối màu, xe đạp chở rau đi chợ sớm không đèn, người quét đường làm việc giữa lòng đường, và đàn gà vịt băng qua ở ngoại ô. Tất cả đều khó thấy trong sương và đều không mong đợi xe chạy nhanh. Cách ứng xử: còi nhẹ từ xa với mọi bóng người phía trước, giảm tốc sâu khi qua khu có người tập thể dục ven đường hồ, và luôn giả định bóng mờ phía trước có thể đột ngột đổi hướng. Nếu hay đi quanh phố cổ lúc sáng sớm, bài [chạy xe phố cổ sáng sớm](/cung-duong/2026/10/10/chay-xe-pho-co-sang-som-cung-i-va-iem-dung/) gợi ý cung đi và điểm dừng.
 
 ## Với xe máy điện sáng sớm
 
@@ -49,7 +49,7 @@ Chuyến đi sáng sớm an toàn bắt đầu từ tối hôm trước: để x
 
 ## Sương và những con đường ven sông
 
-Các tuyến ven sông và ven đê là nơi sương dày nhất và tồn lâu nhất buổi sáng, vì mặt nước tỏa ẩm qua đêm. Nếu tuyến đi sớm dọc qua các khu này, hãy chấp nhận tốc độ thấp hơn hẳn và canh thời gian sương tan, thường chậm hơn phố trong khoảng nửa tiếng đến một tiếng. Người đi quen có mẹo sạc thêm mười lăm phút vào lịch trình cho những ngày dự báo có sương mù, để không bị cuống vì chậm mà đâm tăng tốc trong sương, quyết định luôn tệ vào đúng thời điểm tệ nhất.
+Các tuyến ven sông và ven đê là nơi sương dày nhất và tồn lâu nhất buổi sáng, vì mặt nước tỏa ẩm qua đêm. Nếu tuyến đi sớm dọc qua các khu này, hãy chấp nhận tốc độ thấp hơn hẳn và canh thời gian sương tan, thường chậm hơn phố trong khoảng nửa tiếng đến một tiếng. Người đi quen có mẹo cộng thêm mười lăm phút vào lịch trình cho những ngày dự báo có sương mù, để không bị cuống vì chậm mà đâm tăng tốc trong sương, quyết định thường tệ vào đúng thời điểm tệ nhất.
 
 ## Gửi xe buổi sớm và lớp ẩm trên yên
 

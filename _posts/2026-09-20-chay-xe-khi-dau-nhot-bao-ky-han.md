@@ -17,7 +17,7 @@ Trước hết cần nói rõ: thay nhớt đúng kỳ là việc bảo dưỡng
 
 ## Nhớt làm gì và vì sao kỳ hạn tồn tại
 
-Dầu nhớt trong xe máy bốn thì thực hiện đồng thời nhiều việc: bôi trơn các chi tiết chuyển động, mang nhiệt từ piston tỏa ra thành máy, đóng rác và mịn kim loại sinh ra từ mài mòn, và giữ kín khe piston. Theo thời gian, nhớt bị loãng bởi xăng lọt qua khe piston, bị oxi hóa bởi nhiệt, và chất phụ gia giảm dần tác dụng. Kỳ thay nhớt là ước lượng thời điểm nhớt còn làm việc tốt, qua thời điểm đó thì các chức năng trên suy giảm nhanh.
+Dầu nhớt trong xe máy bốn thì thực hiện đồng thời nhiều việc: bôi trơn các chi tiết chuyển động, mang nhiệt từ piston tỏa ra thành máy, đóng rác và mịn kim loại sinh ra từ mài mòn, và giữ kín khe piston. Theo thời gian, nhớt bị loãng bởi xăng lọt qua khe piston, bị oxi hóa bởi nhiệt, và chất phụ gia giảm dần tác dụng. Kỳ thay nhớt là ước lượng thời điểm nhớt còn làm việc tốt, qua thời điểm đó thì các chức năng trên suy giảm nhanh. Kỳ hạn và các dấu hiệu cần thay được trình bày kỹ hơn trong bài [thay nhớt định kỳ cho xe máy](/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/).
 
 Chạy quá kỳ nhớt ngắn thì chưa thấy gì, nhưng chạy quãng rất dài với nhớt cũ thì hệ quả tích lũy: máy nóng nhanh hơn, tiếng máy to hơn, mòn séc măng và xy lanh, và trong trường hợp nặng, thiếu nhớt kẹt piston. Đó là lý do việc đáng quan tâm không phải lê thêm ba ngày mà là đừng để tình trạng thiếu nhớt hay nhớt biến chất nặng xảy ra.
 
@@ -25,11 +25,11 @@ Chạy quá kỳ nhớt ngắn thì chưa thấy gì, nhưng chạy quãng rất
 
 Khi phát hiện kỳ nhớt sắp đến, hãy trả lời ba câu hỏi. Một, đã trễ bao lâu hay còn bao nhiêu cây số: dựa vào sticker nhớt, sổ bảo dưỡng, hoặc số km trên đồng hồ trừ mốc thay gần nhất. Hai, cách chạy những ngày gần đây ra sao: đi phố ngắn nhiều lần hay chạy trường dài liên tục, vì đi phố ngắn làm nhớt biến chất nhanh hơn chạy trường. Ba, xe có dấu hiệu bất thường không: máy khô tiếng hơn, đề nặng, khói cửa ống xả khác thường, nhiệt độ thành máy cao hơn mức quen thuộc.
 
-Nếu mới đến kỳ hoặc trễ trong phạm vi vài trăm cây số, xe không có dấu hiệu bất thường, và những ngày tới đi lại bình thường, thì chạy thêm vài ngày chờ đến lịch thay thuận tiện là chấp nhận được, miễn là có kế hoạch thay rõ ràng chứ không phải trượt dần vô thời hạn. Nếu đã trễ xa, chạy nặng liên tục, hoặc có dấu hiệu bất thường, thì việc thay nên được ưu tiên lên trước mọi lịch trình khác, vì chi phí thay nhớt luôn nhỏ hơn bất cứ chi phí sửa máy nào.
+Nếu mới đến kỳ hoặc trễ trong phạm vi vài trăm cây số, xe không có dấu hiệu bất thường, và những ngày tới đi lại bình thường, thì chạy thêm vài ngày chờ đến lịch thay thuận tiện là chấp nhận được, miễn là có kế hoạch thay rõ ràng chứ không phải trượt dần vô thời hạn. Nếu đã trễ xa, chạy nặng liên tục, hoặc có dấu hiệu bất thường, thì việc thay nên được ưu tiên lên trước mọi lịch trình khác, vì chi phí thay nhớt thường nhỏ hơn nhiều so với chi phí sửa máy.
 
 ## Kiểm tra mức nhớt tại chỗ
 
-Một thao tác đáng biết là thăm dầu. Với xe số, dựng xe thẳng bằng chân giữa, tua máy hoặc để xe nguội vài phút, rút que thăm lau khô, cắm lại hết cỡ rồi rút ra đọc vết dầu. Mức trong khoảng hai vạch là được, dưới vạch dưới là phải bổ sung ngay. Que thăm dầu của xe tay ga nằm ở cùm máy, thao tác tương tự nhưng cần để xe nguội. Với xe thuê mà không có que thăm hoặc vị trí khó với tới, đừng mò mẫm tháo lung tung, gọi hỏi nơi cho thuê để được hướng dẫn hoặc mang xe tới kiểm.
+Một thao tác đáng biết là thăm dầu. Với xe số, dựng xe thẳng bằng chân giữa, tua máy hoặc để xe nguội vài phút, rút que thăm lau khô, cắm lại hết cỡ rồi rút ra đọc vết dầu. Mức trong khoảng hai vạch là được, dưới vạch dưới là phải bổ sung ngay. Que thăm dầu của xe tay ga nằm ở cùm máy, thao tác tương tự nhưng cần để xe nguội. Với xe thuê mà không có que thăm hoặc vị trí khó với tới, đừng mò mẫm tháo lung tung, gọi hỏi nơi cho thuê để được hướng dẫn hoặc mang xe tới kiểm. Các bước cụ thể có trong bài [tự kiểm tra nhớt xe thuê trước chuyến đi xa](/xe-may/2026/10/10/tu-kiem-tra-nhot-xe-thue-truoc-chuyen-i-xa/).
 
 Mức nhớt và chất nhớt là hai việc khác nhau: mức đủ nhưng nhớt đã đen đặc và loãng như nước thì vẫn là nhớt hết kỳ, và màu nhớt trên que thăm là chỉ báo thô nhưng hữu ích. Nhớt mới có màu nâu sáng sẫm, nhớt cũ đen bẩn là bình thường, nhưng nhớt màu sữa trắng ngà báo có nước lọt vào, và đó là lý do phải đến cửa hàng ngay chứ không phải chuyện thay nhớt định kỳ nữa.
 

@@ -23,13 +23,13 @@ Mùa lễ chùa Hương thường bắt đầu từ sau Tết nguyên đán và 
 
 Tuyến chùa Hương gần như toàn bộ là đường nhựa bằng phẳng, không có dốc lớn như các tuyến núi phía tây, nên bạn không cần xe máy quá mạnh. Điều quan trọng hơn là sự êm ái cho chặng dài và cốp đủ đựng đồ: áo mưa, nước, đồ lễ gọn nhẹ nếu bạn mang. Xe ga tiện cho người thích nhẹ tay, xe số vẫn hoàn toàn ổn. Tình trạng xe cụ thể từng thời điểm, bạn nên liên hệ để xác nhận trước khi nhận xe.
 
-Kiểm tra khi nhận xe như mọi chuyến dài: phanh hai bánh, đèn còi, áp suất lốp, mức xăng giao nhận. Đường quốc lộ mùa lễ đông xe, phanh ăn sâu và đèn sáng sớm chiều là hai thứ bạn sẽ dùng nhiều nhất.
+Kiểm tra khi nhận xe như mọi chuyến dài: phanh hai bánh, đèn còi, áp suất lốp, mức xăng giao nhận. Đường quốc lộ mùa lễ đông xe, phanh ăn sâu và đèn sáng sớm chiều là hai thứ bạn sẽ dùng nhiều nhất. Danh sách việc cần lo từ trước ngày đi có trong bài [chuẩn bị đi chùa Hương bằng xe máy từ Hà Nội](/cung-duong/2026/09/28/chua-huong-bang-xe-may-tu-ha-noi-chuan-bi-truoc-khi-i/).
 
 ## Lộ trình và các điểm dừng hợp lý
 
 Từ Hà Nội, bạn đi theo trục quốc lộ hướng nam, sau đó rẽ theo tuyến đường dẫn về khu vực Mỹ Đức. Đoạn trong thành phố nên đi sớm để tránh giờ cao điểm, vì mất ba mươi phút kẹt xe ngay đầu chuyến sẽ phá hết nhịp của ngày. Trên quốc lộ, hãy đi đúng làn, tránh sánh hàng với xe khách chở khách đi lễ, loại xe này chiếm số lượng lớn vào mùa lễ và tài xế thường đi rất gấp. Dừng nghỉ một lần ở giữa chặng là đủ, vừa đi vệ sinh vừa uống nước.
 
-Đến khu vực chùa Hương, việc đầu tiên là gửi xe. Bãi gửi quanh khu vực cửa ngõ nhiều, mùa lễ chật, hãy chọn bãi có người trông và lấy vé. Ghi nhớ vị trí bãi bằng cách chụp ảnh biển số nhà hoặc mốc gần đó, vì chiều về mệt lử giữa hàng chục bãi giống nhau, trí nhớ của bạn không đáng tin như tấm ảnh.
+Đến khu vực chùa Hương, việc đầu tiên là gửi xe. Bãi gửi quanh khu vực cửa ngõ nhiều, mùa lễ chật, hãy chọn bãi có người trông và lấy vé. Ghi nhớ vị trí bãi bằng cách chụp ảnh biển số nhà hoặc mốc gần đó, vì chiều về mệt lử giữa hàng chục bãi giống nhau, trí nhớ của bạn không đáng tin như tấm ảnh. Cách chọn bãi gần bến và canh giờ về được bàn kỹ hơn trong bài [gửi xe gần bến thuyền mùa lễ hội chùa Hương](/ky-nang/2026/10/11/i-chua-huong-mua-le-hoi-bang-xe-may-gui-xe-gan-ben-thuyen-va-canh-gio-ve/).
 
 ## Đi thuyền và leo núi: phân bổ sức khỏe
 
@@ -59,7 +59,7 @@ Trước chuyến đi dài với người lớn tuổi, một buổi tập đi t
 
 ## Tiền lẻ và các khoản nhỏ trong ngày
 
-Một ngày ở khu vực đông vui như mùa lễ chùa Hương là chuỗi các khoản nhỏ: gửi xe, vé thuyền, các khoản vé khu vực, ăn uống, đồ lễ nếu mua tại chỗ. Đổ tiền lẻ từ trước ở thành phố, vì đổi tiền quanh khu đông người vừa mất giờ vừa khó. Giữ tiền trong hai nơi khác nhau, một chỗ tiền lẻ dùng trong ngày, một chỗ số lớn cất kỹ, tránh rút cả xấp ra giữa dòng người. Người đi lễ về chiều mệt mỏi là thời điểm dễ đánh rơi đồ nhất, hãy để mọi thứ vào cốm túi kín trước khi lên xe về.
+Một ngày ở khu vực đông vui như mùa lễ chùa Hương là chuỗi các khoản nhỏ: gửi xe, vé thuyền, các khoản vé khu vực, ăn uống, đồ lễ nếu mua tại chỗ. Đổi tiền lẻ từ trước ở thành phố, vì đổi tiền quanh khu đông người vừa mất giờ vừa khó. Giữ tiền trong hai nơi khác nhau, một chỗ tiền lẻ dùng trong ngày, một chỗ số lớn cất kỹ, tránh rút cả xấp ra giữa dòng người. Người đi lễ về chiều mệt mỏi là thời điểm dễ đánh rơi đồ nhất, hãy để mọi thứ vào cốp hoặc túi kín trước khi lên xe về.
 
 ## Tóm lại
 

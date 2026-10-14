@@ -11,11 +11,11 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Chở bình nước lớn trên xe máy, kiểu bình hai mươi lít hoặc can nhựa cỡ bốn mươi lít của các điểm bán nước tinh khiết, là việc làm được nhưng chỉ an toàn khi chở đúng cách. Trả lời ngắn gọn: đặt bình ở vị trí giữa khung xe, ngay phía trước hoặc sau trọng tâm gốc, buộc hai điểm trở lên bằng dây đàn hồi tốt, đổ đầy hoặc đổ bớt cho nước ít đong đưa, và chạy chậm hơn bình thường năm đến mười cây số một giờ. Sai lầm nguy hiểm nhất là kẹp bình giữa hai chân hoặc để bình lủng lẳng sau yên, vì khối nước di động bên trong bình sẽ tự dao động ngược pha với xe và đẩy bạn ngã ở đúng lúc chạy chậm.
+Chở bình nước lớn trên xe máy, kiểu bình hai mươi lít hoặc can nhựa cỡ bốn mươi lít của các điểm bán nước tinh khiết, là việc làm được nhưng chỉ an toàn khi chở đúng cách. Trả lời ngắn gọn: đặt bình ở vị trí giữa khung xe, ngay phía trước hoặc sau trọng tâm gốc, buộc hai điểm trở lên bằng dây đàn hồi tốt, đổ đầy hoặc đổ bớt cho nước ít đong đưa, và chạy chậm hơn bình thường năm đến mười cây số một giờ. Sai lầm nguy hiểm nhất là treo bình một bên hông xe hoặc để bình lủng lẳng sau yên, vì khối nước di động bên trong bình sẽ tự dao động ngược pha với xe và đẩy bạn ngã ở đúng lúc chạy chậm.
 
 ## Vì sao nước lại khó chở hơn đồ cứng cùng cân nặng
 
-Mười lít nước nặng đúng mười ký, tương đương một thùng sách, nhưng hành vi của hai vật này trên yên xe khác nhau hẳn. Thùng sách là khối cứng, nằm yên ở đâu thì nằm yên ở đó. Nước trong bình là khối lỏng, mỗi lần xe nghiêng, nước tràn về phía thấp, làm xe nghiêng thêm, bạn chỉnh lại, nước tràn ngược, và chuỗi dao động này cộng dồn đúng vào tần số tự nhiên của cặp bánh xe. Hiện tượng này gọi là hiệu ứng sóng trong bình, là lý do xe chở nước dễ ngã ở tốc độ chậm và khi rẽ hơn là khi chạy thẳng nhanh.
+Mười lít nước nặng đúng mười ký, tương đương một thùng sách, nhưng hành vi của hai vật này trên yên xe khác nhau hẳn. Thùng sách là khối cứng, nằm yên ở đâu thì nằm yên ở đó. Nước trong bình là khối lỏng, mỗi lần xe nghiêng, nước tràn về phía thấp, làm xe nghiêng thêm, bạn chỉnh lại, nước tràn ngược, và chuỗi dao động này có thể cộng dồn thành chao lắc của cả xe. Hiện tượng này gọi là hiệu ứng sóng trong bình, là lý do xe chở nước dễ ngã ở tốc độ chậm và khi rẽ hơn là khi chạy thẳng nhanh.
 
 Chính vì vậy, nguyên tắc đầu tiên khi chở nước: bình càng đầy càng tốt. Bình đầy gần kín chỉ còn chút khí, nước gần như hóa thành khối cứng, hết dao động. Bình nửa vời là tồi nhất. Nếu chỉ cần mười lít mà bình hai mươi lít, hãy đổ cho đầy bình nhỏ hoặc chuyển sang can nhỏ đầy kín, đừng để can lớn lưng chừng.
 
@@ -33,7 +33,7 @@ Dây thun bện rộng loại to là lựa chọn số một cho việc chở n�
 
 Buộc xong, thử bằng cách lắc mạnh thân xe khi xe đứng: bình không xê dịch, dây không chùng. Trước mỗi chặng dừng, vào quán hay chốt đường, kiểm tra lại một vòng, dây thun chùng đi vài phân sau mười cây số chạy là chuyện thường.
 
-Chở bằng xe số hay xe ga cũng khác nhau chút. Xe số có khung ống sau rộng, dễ tìm điểm neo tốt. Xe ga có cốp nhưng cốp không chứa được bình lớn, và sàn phẳng của xe ga lại là lợi thế cho vị trí giữa hai chân. Với các bình to quá tầm, phương án đúng không phải là cố chở bằng một xe mà là chia hai chuyến hoặc hai xe.
+Chở bằng xe số hay xe ga cũng khác nhau chút. Xe số có khung ống sau rộng, dễ tìm điểm neo tốt. Xe ga có cốp nhưng cốp không chứa được bình lớn, và sàn phẳng của xe ga lại là lợi thế cho vị trí giữa hai chân. Với các bình to quá tầm, phương án đúng không phải là cố chở bằng một xe mà là chia hai chuyến hoặc hai xe. Giá theo từng loại xe có trong bảng giá [xe số](/bang-gia-xe-so/) và [xe tay ga](/bang-gia-xe-ga/).
 
 ## Chạy xe khi đã chở bình
 
@@ -58,7 +58,7 @@ Sau khi trả xe, kể lại ngắn gọn cho cửa hàng biết xe vừa chở 
 
 ## Những thay thế đáng cân nhắc
 
-Nếu quãng đường phải chở bình đi lại hàng tuần, ví dụ nhà trọ xa điểm bán nước, cân nhắc vài phương án thay thế trước khi chọn chạy xe mỗi lần. Một là chọn điểm bán có dịch vụ giao bình tận nơi, phần chênh phí giao thường rẻ hơn rủi ro và công sức tự chở. Hai là đổi sang bình nhỏ hơn, hai bình mười lít chở hai bên cân bằng tốt hơn một bình hai mươi lít, vì hai khối nước ở hai bên triệt tiêu mô men nghiêng của nhau. Ba là chia lịch mua dày hơn với lượng mỗi lần ít hơn, thay vì tích hai bình một chuyến.
+Nếu quãng đường phải chở bình đi lại hàng tuần, ví dụ nhà trọ xa điểm bán nước, cân nhắc vài phương án thay thế trước khi chọn chạy xe mỗi lần. Một là chọn điểm bán có dịch vụ giao bình tận nơi, phí giao có thể đáng cân nhắc so với rủi ro và công sức tự chở, nên hỏi trước mức phí. Hai là đổi sang bình nhỏ hơn, hai bình mười lít chở hai bên cân bằng tốt hơn một bình hai mươi lít, vì hai khối nước ở hai bên triệt tiêu mô men nghiêng của nhau. Ba là chia lịch mua dày hơn với lượng mỗi lần ít hơn, thay vì tích hai bình một chuyến.
 
 Với người dùng nước cho việc rửa xe hoặc vệ sinh sân, can nhỏ năm lít có quai chắc là lựa chọn hợp lý duy nhất cho xe máy, cột vào càng sau bằng hai móc, mỗi lần một can, chở nhiều lần trong ngày còn an toàn hơn chở một can lớn một lần.
 ## Tóm lại

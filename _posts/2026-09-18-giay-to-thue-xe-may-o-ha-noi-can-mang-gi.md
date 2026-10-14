@@ -27,10 +27,9 @@ Thẻ căn cước gắn chip cũng được dùng như CCCD thường. Điều 
 
 ## Giấy tờ với khách nước ngoài
 
-Khách quốc tế đến Hà Nội cần mang hộ chiếu gốc còn hiệu lực, kể cả khi chỉ thuê xe trong một ngày. Hộ chiếu là căn cứ xác minh danh tính phổ biến nhất với khách nước ngoài. Ngoài hộ chiếu, bạn nên chuẩn bị sẵn thông tin nơi lưu trú tại Hà Nội vì một số cửa hàng sẽ hỏi 
-để ghi vào biên bản.
+Khách quốc tế đến Hà Nội cần mang hộ chiếu gốc còn hiệu lực, kể cả khi chỉ thuê xe trong một ngày. Hộ chiếu là căn cứ xác minh danh tính phổ biến nhất với khách nước ngoài. Ngoài hộ chiếu, bạn nên chuẩn bị sẵn thông tin nơi lưu trú tại Hà Nội vì một số cửa hàng sẽ hỏi để ghi vào biên bản.
 
-Với khách nước ngoài đang sinh sống và làm việc lâu dài tại Việt Nam, thẻ tạm trú hoặc CCCD dành cho người nước ngoài cũng là giấy tờ hợp lệ để xác minh danh tính. Nếu bạn không chắc loại giấy tờ mình có được chấp nhận hay không, cứ nhắn tin hoặc gọi trước để hỏi rõ, đừng để lúc nhận xe mới phát hiện thiếu.
+Với khách nước ngoài đang sinh sống và làm việc lâu dài tại Việt Nam, thẻ tạm trú hoặc CCCD dành cho người nước ngoài cũng là giấy tờ hợp lệ để xác minh danh tính. Nếu bạn không chắc loại giấy tờ mình có được chấp nhận hay không, cứ nhắn tin hoặc gọi trước để hỏi rõ, đừng để lúc nhận xe mới phát hiện thiếu. Hướng dẫn riêng cho nhóm khách này có trong bài [giấy tờ cho khách quốc tế thuê xe máy ở Hà Nội](/thue-xe/2026/09/27/khach-quoc-te-thue-xe-may-o-ha-noi-can-giay-to-gi/).
 
 ## Giấy phép lái xe: khi nào bắt buộc
 
@@ -51,8 +50,7 @@ Trước khi đến nhận xe, danh sách kiểm tra nhanh gồm:
 
 1. Giấy tờ tùy thân gốc (CCCD hoặc hộ chiếu).
 2. Giấy phép lái xe còn hiệu lực nếu thuê xe trên 50cc.
-3. Tiền đặt cọc theo mức đã thỏa thu
-ận.
+3. Tiền đặt cọc theo mức đã thỏa thuận.
 4. Đã xác nhận trước giờ nhận xe trong khung hoạt động từ 09:00 đến 21:00.
 5. Đã rõ loại xe mình cần và thời gian thuê dự kiến.
 
@@ -64,7 +62,7 @@ Ngoài giấy tờ, bạn nên chuẩn bị thêm vài thứ nhỏ để thủ t
 
 Trường hợp quên mang giấy tờ, cách tốt nhất là gọi ngay cho cửa hàng để báo và dời giờ nhận xe, vì không có giấy tờ hợp lệ thì cửa hàng không thể lập biên bản giao nhận. Đừng đề nghị thuê không cần giấy tờ: đây là rủi ro cho cả hai bên và không thuộc điều kiện cho thuê của bất kỳ cửa hàng làm bài bản nào.
 
-Nếu bạn chỉ quên bằng lái nhưng vẫn có CCCD, một số cửa hàng có thể gợi ý chuyển sang xe 50cc cho chuyến trong ngày. Tuy nhiên việc này phụ thuộc tình trạng xe sẵn có, nên hãy hỏi trực tiếp qua điện thoại hoặc Zalo trước khi di chuyển đến.
+Nếu bạn chỉ quên bằng lái nhưng vẫn có CCCD, một số cửa hàng có thể gợi ý chuyển sang [xe 50cc](/bang-gia-xe-50cc/) cho chuyến trong ngày. Tuy nhiên việc này phụ thuộc tình trạng xe sẵn có, nên hãy hỏi trực tiếp qua điện thoại hoặc Zalo trước khi di chuyển đến.
 
 ## Lưu ý về bản sao và thông tin cá nhân
 
@@ -76,9 +74,8 @@ Sau khi trả xe và hoàn tất hợp đồng, bạn có thể hỏi cửa hàn
 
 Khi thuê dài hạn theo tuần hoặc theo tháng, quy định giấy tờ không thay đổi so với thuê theo ngày: vẫn cần giấy tờ tùy thân gốc và bằng lái phù hợp. Tuy nhiên với hợp đồng dài ngày, một số cửa hàng lập biên bản chi tiết hơn về tình trạng xe ban đầu để thuận tiện khi trả xe, vì xe sử dụng lâu ngày sẽ có hao mòn tự nhiên nhiều hơn.
 
-Với trường hợp một người đặt xe cho người khác dùng, người thực tế điều khiển xe vẫn phải có đầy đủ giấy tờ và là người ký hợp đồng. Không cho người khác điều khiển xe trong thời gian
- thuê là một điều khoản cơ bản của mọi hợp đồng thuê xe.
+Với trường hợp một người đặt xe cho người khác dùng, người thực tế điều khiển xe vẫn phải có đầy đủ giấy tờ và là người ký hợp đồng. Không cho người khác điều khiển xe trong thời gian thuê là một điều khoản cơ bản của mọi hợp đồng thuê xe.
 
 ## Tóm lại
 
-Giấy tờ cần mang khi thuê xe máy ở Hà Nội khá đơn giản: CCCD hoặc hộ chiếu gốc, bằng lái nếu thuê xe trên 50cc, và tiền đặt cọc theo thỏa thuận. Khách nước ngoài cần lưu ý thêm về hiệu lực của giấy phép lái quốc tế. Nếu còn băn khoăn về loại giấy tờ cụ thể cho trường hợp của mình, hãy gọi trực tiếp để được xác nhận trước. Thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}), và nếu bạn mới thuê xe lần đầu, bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) sẽ giúp bạn nắm tổng quan quy trình từ A đến Z.
+Giấy tờ cần mang khi thuê xe máy ở Hà Nội khá đơn giản: CCCD hoặc hộ chiếu gốc, bằng lái nếu thuê xe trên 50cc, và tiền đặt cọc theo thỏa thuận. Khách nước ngoài cần lưu ý thêm về hiệu lực của giấy phép lái quốc tế. Nếu còn băn khoăn về loại giấy tờ cụ thể cho trường hợp của mình, hãy gọi trực tiếp để được xác nhận trước. Thông tin liên lạc đầy đủ nằm trong trang [liên hệ]({{ '/lien-he/' | relative_url }}), và nếu bạn mới thuê xe lần đầu, bài [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) sẽ giúp bạn nắm tổng quan quy trình từ A đến Z.

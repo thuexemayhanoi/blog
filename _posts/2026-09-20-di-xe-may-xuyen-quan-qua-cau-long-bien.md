@@ -33,7 +33,7 @@ Hai đầu cầu Long Biên mở ra khoảng không sông Hồng, gió ngang m�
 
 ## Chọn khung giờ đi cầu
 
-Cầu Long Biên tập trung dòng xe hai bánh đi lại giữa các quận rất dày vào giờ sáng đi làm và giờ chiều về. Đoạn hai đầu cầu dễ tắc đứng do đèn đỏ và giao nhau hẹp. Nếu công việc cho phép, dời khung đi lại nửa tiếng giúp trải nghiệm khác hẳn. Buổi tối muộn, cầu vắng hơn nhưng đèn chiếu sáng có đoạn mờ, và gió sông về đêm lạnh nhanh, nên ai hay đi tối cần áo gió và kiểm tra đèn xe trước mỗi chuyến.
+Cầu Long Biên tập trung dòng xe hai bánh đi lại giữa các quận rất dày vào giờ sáng đi làm và giờ chiều về. Đoạn hai đầu cầu dễ tắc đứng do đèn đỏ và giao nhau hẹp. Nếu công việc cho phép, dời khung đi lại nửa tiếng giúp trải nghiệm khác hẳn. Buổi tối muộn, cầu vắng hơn nhưng đèn chiếu sáng có đoạn mờ, và gió sông về đêm lạnh nhanh, nên ai hay đi tối cần áo gió và kiểm tra đèn xe trước mỗi chuyến. Nếu bạn chọn giờ để ngắm cảnh chứ không chỉ để tránh đông, xem thêm [khung giờ đẹp để đi xe qua cầu Long Biên](/du-lich/2026/09/30/i-xe-may-qua-cau-long-bien-luc-nao-ep-nhat/).
 
 ## Chở hàng nặng qua cầu
 
@@ -41,7 +41,7 @@ Xe chở hàng nặng lên dốc cầu cần chuẩn bị trước khi vào cầ
 
 ## Với khách du lịch và người mới đến
 
-Cầu Long Biên hấp dẫn khách chụp ảnh hoàng hôn và cảnh bãi sông, nhưng đứng dừng xe giữa làn cầu để chụp ảnh là điều tuyệt đối tránh. Muốn ngắm cảnh, hãy rời cầu xuống khu vực bãi bên phía đầu cầu và gửi xe đúng nơi quy định. Người mới đến nên đi thử cầu vào buổi sáng cuối tuần trước khi dùng nó làm tuyến đi làm chính, để làm quen nhịp dốc, mối ghép và các điểm giao nhau hai đầu cầu trong điều kiện ít áp lực.
+Cầu Long Biên hấp dẫn khách chụp ảnh hoàng hôn và cảnh bãi sông, nhưng đứng dừng xe giữa làn cầu để chụp ảnh là điều tuyệt đối tránh. Muốn ngắm cảnh, hãy rời cầu xuống khu vực bãi bên phía đầu cầu và gửi xe đúng nơi quy định; một số gợi ý chỗ dừng hợp lý có trong bài [lịch sử cầu Long Biên và những điểm nên dừng](/du-lich/2026/10/11/lich-su-cau-long-bien-va-nhung-iem-nen-dung-khi-i-qua-bang-xe-may/). Người mới đến nên đi thử cầu vào buổi sáng cuối tuần trước khi dùng nó làm tuyến đi làm chính, để làm quen nhịp dốc, mối ghép và các điểm giao nhau hai đầu cầu trong điều kiện ít áp lực.
 
 ## Mưa trên cầu và mặt thép ướt
 
@@ -53,7 +53,7 @@ Mối ghép thép trên cầu Long Biên khi ướt trở nên trơn hơn mặt 
 
 ## Gửi xe và nối tuyến hai đầu cầu
 
-Muốn băng qua cầu để vào phố cổ, nhiều người chọn gửi xe ở đầu cầu phía bên này rồi đi bộ qua cầu hoặc ngược lại, tùy mục đích. Cách này vừa tiết kiệm công mò chỗ gửi trong phố vừa cho cơ hội đi bộ ngắm cầu. Khi gửi xe gần đầu cầu, nhớ lấy vé và chụp lại vị trí xe, vì các bãi giờ cao điểm xếp xe dày và dễ nhầm xe giống nhau. Ai nối tuyến xe buýt hoặc xe điện cũng nên biết trước vị trí điểm đỗ gần đầu cầu để không phải lúi húi tìm giữa vỉa hè đông.
+Muốn băng qua cầu để vào phố cổ, nhiều người chọn gửi xe ở đầu cầu phía bên này rồi đi bộ qua cầu hoặc ngược lại, tùy mục đích. Cách này vừa tiết kiệm công mò chỗ gửi trong phố vừa cho cơ hội đi bộ ngắm cầu. Khi gửi xe gần đầu cầu, nhớ lấy vé và chụp lại vị trí xe, vì các bãi giờ cao điểm xếp xe dày và dễ nhầm xe giống nhau. Chỗ gửi và lối vào cầu được nói kỹ hơn trong bài [đến cầu Long Biên bằng xe máy](/du-lich/2026/09/28/en-cau-long-bien-bang-xe-may-gui-xe-va-uong-i/). Ai nối tuyến xe buýt hoặc xe điện cũng nên biết trước vị trí điểm đỗ gần đầu cầu để không phải lúi húi tìm giữa vỉa hè đông.
 
 ## Thói quen kiểm tra trước khi qua cầu
 

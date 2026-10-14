@@ -11,7 +11,7 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Công cụ bảo vệ quyền lợi rẻ nhất khi thuê xe máy không phải là một cuộc tranh luận giỏi, mà là một bộ ảnh chụp đúng lúc. Ba mươi giây cầm điện thoại quay quanh chiếc xe khi nhận, và ba mươi giây lặp lại khi trả, đổi lấy khả năng chứng minh mọi điểm tranh cãi về vết xước, hư hỏng hay tình trạng xe. Bài viết này hướng dẫn chụp ảnh sao cho bộ ảnh thực sự dùng được khi cần.
+Công cụ bảo vệ quyền lợi rẻ nhất khi thuê xe máy không phải là một cuộc tranh luận giỏi, mà là một bộ ảnh chụp đúng lúc. Ba mươi giây cầm điện thoại quay quanh chiếc xe khi nhận, và ba mươi giây lặp lại khi trả, đổi lấy căn cứ rõ ràng khi có tranh cãi về vết xước, hư hỏng hay tình trạng xe. Nói ngắn gọn: chụp đủ các góc thân xe, lốp, đồng hồ, cốp và phụ kiện ngay trước khi xe rời cửa hàng, lặp lại đúng các góc đó khi trả, rồi lưu chung vào một album riêng cho kỳ thuê. Bài viết này hướng dẫn chụp ảnh sao cho bộ ảnh thực sự dùng được khi cần.
 
 ## Vì sao bộ ảnh quan trọng đến vậy
 
@@ -53,4 +53,4 @@ Các tin nhắn trao đổi trong kỳ thuê, từ báo sự cố đến thỏa 
 
 ## Tóm lại
 
-Chụp ảnh khi nhận và trả xe thuê là thói quen ba mươi giây đổi lấy sự an tâm cho cả kỳ thuê: đủ góc, đủ ánh sáng, lưu thành album riêng, và đối chiếu theo cặp khi cần. Kết hợp với biên bản rõ ràng và tin nhắn được giữ lại, bộ hồ sơ này bảo vệ cả bạn lẫn cửa hàng. Để hỏi về quy trình nhận xe và các ghi nhận tình trạng, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), tham khảo [danh sách kiểm tra xe khi nhận xe thuê]( {{ '/kinh-nghiem/' | relative_url }}) cho các điểm cần soi, và đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}/) để nắm trọn quy trình.
+Chụp ảnh khi nhận và trả xe thuê là thói quen ba mươi giây đổi lấy sự an tâm cho cả kỳ thuê: đủ góc, đủ ánh sáng, lưu thành album riêng, và đối chiếu theo cặp khi cần. Kết hợp với biên bản rõ ràng và tin nhắn được giữ lại, bộ hồ sơ này bảo vệ cả bạn lẫn cửa hàng. Để hỏi về quy trình nhận xe và các ghi nhận tình trạng, hãy liên hệ qua trang [liên hệ]( {{ '/lien-he/' | relative_url }}), tham khảo [các góc ảnh nên có khi nhận xe](/thue-xe/2026/10/04/chup-lai-tinh-trang-xe-khi-nhan-cac-goc-anh-nen-co/) cho các điểm cần soi, và đọc [kinh nghiệm thuê xe máy tại Hà Nội]({{ site.baseurl }}{% post_url 2026-09-13-kinh-nghiem-thue-xe-may-ha-noi %}) để nắm trọn quy trình. Nếu đang phân vân nên quay video hay chụp ảnh, bài [so sánh quay video và chụp ảnh khi nhận, trả xe](/thue-xe/2026/10/07/chup-video-xe-khi-nhan-va-tra-co-hon-chup-anh-khong/) sẽ giúp bạn chọn cách phù hợp.

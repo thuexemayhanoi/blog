@@ -33,7 +33,7 @@ Nếu không nhất thiết phải vào ngõ lúc sáu giờ tối, hãy dời c
 
 ## Gửi xe quanh phố cổ
 
-Chỗ gửi xe ở khu phố cổ vào sáng cuối tuần thường đầy nhanh, và việc mò vào ngõ để tìm chỗ trống gây ách tắc cục bộ. Cách làm khôn ngoan là gửi xe ở bãi ven các trục lớn rồi đi bộ vào ngõ. Đi bộ trong phố cổ vốn là cách thưởng thức khu phố đúng nghĩa, và bạn tránh được rủi ro va quẹt giữa ngõ nhỏ. Trước khi gửi xe, chụp lại biển số vị trí và chụp đồng hồ xăng nếu dùng xe thuê, để có căn cứ rõ ràng khi nhận lại xe.
+Chỗ gửi xe ở khu phố cổ vào sáng cuối tuần thường đầy nhanh, và việc mò vào ngõ để tìm chỗ trống gây ách tắc cục bộ. Cách làm khôn ngoan là gửi xe ở bãi ven các trục lớn rồi đi bộ vào ngõ; nếu muốn có một điểm gửi cố định, xem thêm [cách chọn chỗ gửi xe quen trong ngõ phố cổ](/du-lich/2026/10/04/gui-xe-may-trong-ngo-pho-co-cach-chon-cho-quen/). Đi bộ trong phố cổ vốn là cách thưởng thức khu phố đúng nghĩa, và bạn tránh được rủi ro va quẹt giữa ngõ nhỏ. Trước khi gửi xe, chụp lại biển số vị trí và chụp đồng hồ xăng nếu dùng xe thuê, để có căn cứ rõ ràng khi nhận lại xe.
 
 ## Những tình huống thường gặp và cách xử lý
 
@@ -45,7 +45,7 @@ Ngõ phố cổ ăn mòn các chi tiết nhỏ trên xe: gương vuốt vào tư
 
 ## Nhận diện các đoạn ngõ nên tránh hoàn toàn
 
-Không phải ngõ nào cũng dành được cho xe máy hai chiều. Một số ngõ phố cổ thực tế chỉ vừa một xe và một người đi bộ, hoặc có bậc cấp, cống hở, dây điện thấp treo qua đầu. Trước khi rẽ vào một ngõ lạ trong giờ cao điểm, hãy quan sát từ miệng ngõ: nếu thấy dòng xe phía trong đang tắc tít hoặc có người dắt bộ, đừng cố lách vào, hãy đi tiếp tìm ngõ kế bên. Kinh nghiệm của dân đi phố lâu năm là ghi nhớ một vài tuyến ngõ quen qua từng khu, thay vì mỗi lần lại mò đại một lối mới giữa giờ đông. Các ứng dụng bản đồ đôi khi chỉ đường tắt qua ngõ nhỏ không phản ánh được tình trạng thực tế lúc cao điểm, nên đầu óc vẫn phải là người quyết định cuối cùng.
+Không phải ngõ nào cũng dành được cho xe máy hai chiều. Một số ngõ phố cổ thực tế chỉ vừa một xe và một người đi bộ, hoặc có bậc cấp, cống hở, dây điện thấp treo qua đầu. Trước khi rẽ vào một ngõ lạ trong giờ cao điểm, hãy quan sát từ miệng ngõ: nếu thấy dòng xe phía trong đang tắc tít hoặc có người dắt bộ, đừng cố lách vào, hãy đi tiếp tìm ngõ kế bên. Nếu lỡ vào đoạn quá chật và cần xoay xe ra, tham khảo [mẹo quay đầu xe máy trong ngõ hẹp](/ky-nang/2026/09/29/quay-au-xe-trong-ngo-pho-co-meo-cho-xe-may/). Kinh nghiệm của dân đi phố lâu năm là ghi nhớ một vài tuyến ngõ quen qua từng khu, thay vì mỗi lần lại mò đại một lối mới giữa giờ đông. Các ứng dụng bản đồ đôi khi chỉ đường tắt qua ngõ nhỏ không phản ánh được tình trạng thực tế lúc cao điểm, nên đầu óc vẫn phải là người quyết định cuối cùng.
 
 ## Giữ bình tĩnh khi bị va quẹt nhẹ
 

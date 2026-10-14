@@ -11,9 +11,9 @@ reading_time: 9
 campaign: hanoi-seo-480
 ---
 
-Mưa dầm là kiểu thời tiết riêng của miền Bắc: không có cơn dông nào đáng kể, chỉ là trời xám suốt nhiều ngày liền, mưa nhỏ lâm râm từ sáng tới tối, hết ngày này sang ngày khác. Người đi xe máy ở Hà Nội ai cũng từng trải qua những đợt như vậy, thường vào cuối xuân và đầu hè, khi mà áo mưa ướt từ hôm trước treo lên chưa kịp khô thì hôm nay lại phải mặc tiếp. Bài này nói về cách sống và đi lại qua một đợt mưa dầm nhiều ngày, sao cho cả người lẫn xe đều không xuống cấp theo thời tiết.
+Mưa dầm là kiểu thời tiết riêng của miền Bắc: không có cơn dông nào đáng kể, chỉ là trời xám suốt nhiều ngày liền, mưa nhỏ lâm râm từ sáng tới tối, hết ngày này sang ngày khác. Người đi xe máy ở Hà Nội ai cũng từng trải qua những đợt như vậy, thường vào cuối xuân và đầu hè, khi mà áo mưa ướt từ hôm trước treo lên chưa kịp khô thì hôm nay lại phải mặc tiếp. Bài này nói về cách sống và đi lại qua một đợt mưa dầm nhiều ngày, sao cho cả người lẫn xe đều không xuống cấp theo thời tiết. Nói gọn: có hai bộ áo mưa xoay vòng, dùng găng và giày chịu ẩm, đi chậm đều trên đường nhớp, chăm các điểm điện và xích của xe, giữ mũ và cốp khô, và gộp chuyến để bớt thời gian ngoài trời.
 
-Khác với mưa to, mưa dầm ít gây nguy hiểm tức thời nhưng gây tổn hại tích lũy. Không ai ngã vì đường ướt vào một khoảnh khắc cụ thể, nhưng ai cũng thấy mệt vì đi trong ẩm ướt liên tục, và xe máy thì chậm hỏng theo từng ngày ẩm. Cách ứng xử với mưa dầm vì vậy là cách của cuộc chiến dài hơi chứ không phải né tránh một cơn.
+Khác với mưa to, vốn đòi hỏi [giảm tốc và bật đèn sớm khi trời mưa lớn](/ky-nang/2026-09-29/chay-xe-may-troi-mua-lon-giam-toc-va-en/), mưa dầm ít gây nguy hiểm tức thời nhưng gây tổn hại tích lũy. Không ai ngã vì đường ướt vào một khoảnh khắc cụ thể, nhưng ai cũng thấy mệt vì đi trong ẩm ướt liên tục, và xe máy thì chậm hỏng theo từng ngày ẩm. Cách ứng xử với mưa dầm vì vậy là cách của cuộc chiến dài hơi chứ không phải né tránh một cơn.
 
 ## Trang phục qua đợt mưa kéo dài
 
@@ -35,13 +35,13 @@ Vạch kẻ đường sơn trắng, nắp cống, miếng vá nhựa đường l
 
 Mưa dầm làm xe hỏng theo kiểu âm thầm. Còi, đèn, cúc đề, các phím bấm điện là những chỗ đầu tiên báo hiệu ẩm: khi nào bấm còi nghe rè rè, đề máy phải bấm hai ba lần, thì đó là hơi ẩm đã len vào các tiếp điểm. Với xe thuê, việc cần làm là báo lại cửa hàng để họ biết, chớ không nên tự tháo lắp hay xịt dung dịch tùy tiện. Với xe của mình thì lau khô sau mỗi ngày mưa, nhất là quanh khu ổ khóa và bảng điều khiển, là đủ để giảm phần lớn các trục trặc nhỏ.
 
-Dây côn và cáp ga cũng se kẹt hơn trong không khí ẩm, thể hiện ở cảm giác giật nhẹ khi vào số hoặc vòng tua không đều. Nhớt xích trong mưa dầm bị nước rửa trôi liên tục, nên chu kỳ xịt nhớt xích cần ngắn lại, có thể mỗi vài ngày một lần thay vì mỗi tuần. Người hay bỏ qua khâu này sẽ nghe xích kêu lạo xạo trước khi hỏng hóc thật.
+Dây côn và cáp ga cũng se kẹt hơn trong không khí ẩm, thể hiện ở cảm giác giật nhẹ khi vào số hoặc vòng tua không đều. Nhớt xích trong mưa dầm bị nước rửa trôi liên tục, nên xịt nhớt xích thường xuyên hơn ngày khô, tùy loại xe và mức đi lại. Người hay bỏ qua khâu này sẽ nghe xích kêu lạo xạo trước khi hỏng hóc thật.
 
 Bánh xe ngày mưa dầm mang đầy bùn đất bám vào hai bên nắp che và cẳng xe, lớp bùn đó giữ ẩm lâu, làm ốc xì và các mối hàn rỉ nhanh bất thường. Rửa xe giữa đợt mưa nghe có vẻ vô nghĩa nhưng thực ra là việc giữ xe tốt, rửa trôi bùn muối bẩn thay vì để nó bám cả tuần. Chọn giờ rửa là lúc tạnh tạm, và lau khô ngay sau khi rửa thay vì phơi ẩm tiếp.
 
 ## Cất xe và quản lý đồ đạc hàng ngày
 
-Trong tuần mưa, cốp xe gần như lúc nào cũng có nước lọt vào ít nhiều. Đồ quan trọng như giấy tờ, tài liệu, laptop nên luôn có túi chống nước riêng, không tin vào độ kín của cốp. Vị trí cất xe ban đêm cũng nên cân nhắc lại: dưới mái hiên đọng nước, cạnh tường dột, hay nền trũng đều làm xe ẩm kép. Nếu nhà có hiên hẹp, kê xe hơi chúc về phía sau để nước không dồn vào chỗ bơm xăng.
+Trong tuần mưa, cốp xe gần như lúc nào cũng có nước lọt vào ít nhiều. Đồ quan trọng như giấy tờ, tài liệu, laptop nên luôn có túi chống nước riêng, không tin vào độ kín của cốp. Vị trí cất xe ban đêm cũng nên cân nhắc lại: dưới mái hiên đọng nước, cạnh tường dột, hay nền trũng đều làm xe ẩm kép. Nếu nhà có hiên hẹp, kê xe hơi chúc về phía sau để nước không dồn vào chỗ bơm xăng. Cách gói ghém đồ đạc khi phải chạy xe nhiều ngày mưa được nói kỹ hơn trong bài [giữ đồ khô khi chạy xe ngày mưa dầm](/ky-nang/2026/10/09/chay-xe-may-ngay-mua-dam-giu-kho-o-cach-nao/).
 
 Mũ bảo hiểm là món đồ hay bị quên. Mũ đi mưa dầm nhiều ngày sẽ ẩm bên trong, và đội mũ ẩm lên đầu mỗi sáng là con đường ngắn nhất tới cảm lạnh và đau đầu. Sau mỗi ngày về, mở chắn gió nếu có, treo mũ nơi thoáng gió, hoặc ít nhất đặt ngửa cho lót mũ khô bớt. Ai đi lại hằng ngày trong mùa mưa nên có lót mũ lưới tháo rời để thay phiên, giống như thay tất.
 
@@ -53,4 +53,4 @@ Nếu công việc đòi hỏi đi ngoài trời liên tục trong đợt mưa, 
 
 ## Tóm lại
 
-Đợt mưa dầm nhiều ngày ở Hà Nội là bài kiểm tra sức bền hơn là bài kiểm tra kỹ năng né tránh. Trang bị hai bộ áo mưa xoay vòng, chuyển sang găng và giày chịu ẩm, đi chậm đều trên lớp đường nhớp, chăm chút các điểm điện và xích của xe, giữ mũ và cốp khô, và chủ động gộp chuyến để giảm thời gian ngoài trời. Ai vượt qua được những đợt mưa kiểu này với xe máy mà vẫn khỏe mạnh thì gần như không còn kiểu thời tiết nào của miền Bắc làm khó được họ nữa. Để biết thêm các kinh nghiệm đi xe theo mùa, xem thêm [kinh nghiệm]( {{ '/kinh-nghiem/' | relative_url }}) và nếu cần xe phục vụ đi lại trong mùa mưa, liên hệ [liên hệ]( {{ '/lien-he/' | relative_url }}).
+Đợt mưa dầm nhiều ngày ở Hà Nội là bài kiểm tra sức bền hơn là bài kiểm tra kỹ năng né tránh. Trang bị hai bộ áo mưa xoay vòng, chuyển sang găng và giày chịu ẩm, đi chậm đều trên lớp đường nhớp, chăm chút các điểm điện và xích của xe, giữ mũ và cốp khô, và chủ động gộp chuyến để giảm thời gian ngoài trời. Ai vượt qua được những đợt mưa kiểu này với xe máy mà vẫn khỏe mạnh thì gần như không còn kiểu thời tiết nào của miền Bắc làm khó được họ nữa. Với những hôm chỉ mưa nhẹ, xem thêm [nên chuẩn bị gì khi đi xe lúc trời mưa nhỏ](/ky-nang/2026/10/10/i-xe-may-luc-troi-mua-nho-can-chuan-bi-gi/), và nếu cần xe phục vụ đi lại trong mùa mưa, hãy [liên hệ với cửa hàng]( {{ '/lien-he/' | relative_url }}).
