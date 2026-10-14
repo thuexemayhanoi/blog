@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-14T04:53:12+00:00",
+  "updated_at": "2026-10-14T04:54:30+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02793",
-      "started_at": "2026-10-14T02:24:56+00:00",
-      "source": "_drafts/2026-10-11-roi-my-dinh-sau-tran-dau-hoac-buoi-dien-lon-bang-xe-may-di-ngay-hay-cho.md",
-      "destination": "_posts/2026-10-11-roi-my-dinh-sau-tran-dau-hoac-buoi-dien-lon-bang-xe-may-di-ngay-hay-cho.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4635716aa1423e388e02db37a220abc48c604b93",
-      "finished_at": "2026-10-14T02:24:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-02794",
-      "started_at": "2026-10-14T02:24:56+00:00",
-      "source": "_drafts/2026-10-11-re-vao-ngo-tat-de-tranh-ket-xe-khi-nao-dang-di-khi-nao-mat-thoi-gian-hon.md",
-      "destination": "_posts/2026-10-11-re-vao-ngo-tat-de-tranh-ket-xe-khi-nao-dang-di-khi-nao-mat-thoi-gian-hon.md",
-      "result": "PUBLISHED",
-      "commit_sha": "4635716aa1423e388e02db37a220abc48c604b93",
-      "finished_at": "2026-10-14T02:24:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02795",
       "started_at": "2026-10-14T02:25:07+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "846ca727f3ba3b69ec773a0ad7dc65ba8461abcd",
       "finished_at": "2026-10-14T04:53:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02767",
+      "started_at": "2026-10-14T04:54:29+00:00",
+      "source": "_drafts/2026-10-14-di-na-hang-lam-binh-bang-xe-may-tu-ha-noi-duong-len-ho-va-chia-chang.md",
+      "destination": "_posts/2026-10-14-di-na-hang-lam-binh-bang-xe-may-tu-ha-noi-duong-len-ho-va-chia-chang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "684e3934dd4ca550f431a5fe70ec225d8ecb4d26",
+      "finished_at": "2026-10-14T04:54:30+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02768",
+      "started_at": "2026-10-14T04:54:30+00:00",
+      "source": "_drafts/2026-10-14-atk-dinh-hoa-bang-xe-may-tu-ha-noi-di-trong-ngay-hay-o-lai-thai-nguyen-mot-dem.md",
+      "destination": "_posts/2026-10-14-atk-dinh-hoa-bang-xe-may-tu-ha-noi-di-trong-ngay-hay-o-lai-thai-nguyen-mot-dem.md",
+      "result": "PUBLISHED",
+      "commit_sha": "684e3934dd4ca550f431a5fe70ec225d8ecb4d26",
+      "finished_at": "2026-10-14T04:54:30+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
