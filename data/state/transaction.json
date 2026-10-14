@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-14T07:51:21+00:00",
+  "updated_at": "2026-10-14T08:06:24+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-02759",
-      "started_at": "2026-10-14T04:25:11+00:00",
-      "source": "_drafts/2026-10-14-deo-pha-din-tren-duong-len-dien-bien-chay-xe-may-qua-doan-suong-va-cua-gat.md",
-      "destination": "_posts/2026-10-14-deo-pha-din-tren-duong-len-dien-bien-chay-xe-may-qua-doan-suong-va-cua-gat.md",
-      "result": "PUBLISHED",
-      "commit_sha": "3ab260ec62680ddf0d82e68508f95521a9098355",
-      "finished_at": "2026-10-14T04:25:11+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-02760",
       "started_at": "2026-10-14T04:25:11+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "6797f177712318746ae2c13f0cfcb98741d19155",
       "finished_at": "2026-10-14T07:51:21+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02770",
+      "started_at": "2026-10-14T08:06:23+00:00",
+      "source": "_drafts/2026-10-14-vuon-quoc-gia-xuan-son-bang-xe-may-duong-qua-thanh-son-tan-son-va-nghi-dem.md",
+      "destination": "_posts/2026-10-14-vuon-quoc-gia-xuan-son-bang-xe-may-duong-qua-thanh-son-tan-son-va-nghi-dem.md",
+      "result": "PUBLISHED",
+      "commit_sha": "6bc3e57bc310605d2f43e45bd78ce4c6769c31d9",
+      "finished_at": "2026-10-14T08:06:24+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
