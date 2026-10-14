@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2F: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-001",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Biên bản bàn giao xe thuê: các mục cần ghi khi nhận xe và khi trả xe",
+   "intent": "Biết cần ghi những mục nào trong biên bản bàn giao để lúc trả xe hai bên đối chiếu dễ dàng, không tranh cãi.",
+   "kw": "biên bản bàn giao xe thuê",
+   "kw2": [
+    "mẫu biên bản giao nhận xe máy",
+    "bàn giao xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách thuê lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-002",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Cửa hàng giữ giấy tờ gì khi cho thuê xe máy: hỏi rõ cách bảo quản và biên nhận",
+   "intent": "Hiểu vì sao cửa hàng giữ giấy tờ khi cho thuê xe và cách hỏi biên nhận, cách bảo quản để yên tâm suốt kỳ thuê.",
+   "kw": "cửa hàng giữ giấy tờ khi thuê xe",
+   "kw2": [
+    "để lại giấy tờ khi thuê xe máy",
+    "biên nhận giữ giấy tờ"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách thuê ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-003",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Hẹn giao xe máy thuê ở phố cổ Hoàn Kiếm: chọn điểm gặp dễ tìm và dễ dừng xe",
+   "intent": "Chọn được điểm hẹn nhận xe trong khu phố cổ Hoàn Kiếm vừa dễ tìm vừa có chỗ dừng xe để ký nhận an toàn.",
+   "kw": "giao xe máy thuê phố cổ",
+   "kw2": [
+    "thuê xe máy phố cổ Hà Nội",
+    "điểm hẹn nhận xe phố cổ"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "du khách lưu trú phố cổ",
+   "location_scope": "Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-004",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Vừa hạ cánh Nội Bài muốn thuê xe máy: các bước liên hệ và hẹn nhận xe",
+   "intent": "Lên kế hoạch liên hệ cửa hàng và hẹn nhận xe khi vừa đến sân bay Nội Bài, tránh phải chờ lâu hoặc đi lại vòng vèo.",
+   "kw": "thuê xe máy từ sân bay Nội Bài",
+   "kw2": [
+    "thuê xe máy Nội Bài",
+    "nhận xe máy khi xuống sân bay"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách bay đến Hà Nội",
+   "location_scope": "Sóc Sơn, Nội Bài, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-005",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Xuống tàu đêm ở Ga Hà Nội muốn có xe máy: hẹn nhận xe sáng sớm thế nào",
+   "intent": "Biết cách chốt lịch nhận xe sáng sớm với cửa hàng khi đến Ga Hà Nội trên phố Lê Duẩn bằng tàu đêm.",
+   "kw": "thuê xe máy gần ga Hà Nội",
+   "kw2": [
+    "nhận xe máy thuê sáng sớm",
+    "thuê xe máy ga Lê Duẩn"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách đi tàu hỏa",
+   "location_scope": "Đống Đa, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-006",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Đến bến xe Mỹ Đình hoặc Giáp Bát muốn thuê xe máy: liên hệ và hẹn nhận xe",
+   "intent": "Biết các bước liên hệ, gửi thông tin và hẹn nhận xe máy thuê khi vừa xuống xe khách ở bến Mỹ Đình hoặc Giáp Bát.",
+   "kw": "thuê xe máy gần bến xe Mỹ Đình",
+   "kw2": [
+    "thuê xe máy bến xe Giáp Bát",
+    "nhận xe thuê ở bến xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách từ tỉnh lên bằng xe khách",
+   "location_scope": "Nam Từ Liêm, Hoàng Mai, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-007",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Hợp đồng thuê xe song ngữ cho khách nước ngoài: thống nhất cách hiểu từng điều khoản",
+   "intent": "Hiểu cách đọc hợp đồng thuê xe song ngữ Việt - Anh và thống nhất nghĩa của từng điều khoản khi hai bản dịch có thể hiểu khác nhau.",
+   "kw": "hợp đồng thuê xe song ngữ",
+   "kw2": [
+    "rental contract tiếng Anh thuê xe máy",
+    "hợp đồng thuê xe máy tiếng Anh"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-008",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Ký hợp đồng thuê xe máy online qua điện thoại: lưu bản nào và kiểm tra những gì",
+   "intent": "Biết cách kiểm tra và lưu trữ hợp đồng thuê xe khi ký qua điện thoại, ảnh chụp hoặc file gửi qua Zalo.",
+   "kw": "ký hợp đồng thuê xe online",
+   "kw2": [
+    "hợp đồng thuê xe điện tử",
+    "lưu hợp đồng thuê xe trên điện thoại"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách đặt xe từ xa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-009",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Thuê nhiều xe máy cùng lúc: chung một hợp đồng hay mỗi xe một hợp đồng",
+   "intent": "Chọn cách làm hợp đồng phù hợp khi thuê từ hai xe trở lên, để rõ ai chịu trách nhiệm xe nào và trả xe không nhầm.",
+   "kw": "thuê nhiều xe máy một hợp đồng",
+   "kw2": [
+    "hợp đồng thuê nhiều xe máy",
+    "mỗi xe một hợp đồng thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "gia đình hoặc nhóm bạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-010",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Ghi vết xước cũ vào hợp đồng thuê xe: cách mô tả bằng chữ để hai bên cùng hiểu",
+   "intent": "Biết cách mô tả vị trí, kích thước tương đối của vết xước và móp cũ bằng chữ trong hợp đồng, bổ sung cho ảnh chụp.",
+   "kw": "ghi vết xước cũ xe thuê",
+   "kw2": [
+    "mô tả tình trạng xe trong hợp đồng",
+    "ghi chú hư hỏng sẵn có xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách thuê lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-011",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Mất bản hợp đồng hoặc biên nhận thuê xe: cách xin lại bản sao và đối chiếu",
+   "intent": "Xử lý đúng khi lỡ làm mất bản hợp đồng hoặc biên nhận thuê xe giữa kỳ, xin lại bản sao và đối chiếu thông tin trước ngày trả xe.",
+   "kw": "mất hợp đồng thuê xe máy",
+   "kw2": [
+    "xin lại hợp đồng thuê xe",
+    "mất biên nhận thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách đang thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-012",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Nhận lại tiền cọc khi trả xe thuê: các bước đối chiếu và giấy tờ cần mang",
+   "intent": "Hiểu trình tự đối chiếu tình trạng xe, giấy tờ và cách nhận lại tiền cọc khi trả xe để quyết toán nhanh, rõ ràng.",
+   "kw": "nhận lại tiền cọc thuê xe máy",
+   "kw2": [
+    "hoàn cọc khi trả xe thuê",
+    "thủ tục trả cọc xe máy"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách sắp trả xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-013",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Làm thẻ gửi xe tháng ở chung cư cho xe thuê: cần xin gì từ cửa hàng",
+   "intent": "Biết cần chuẩn bị giấy tờ, thông tin biển số gì từ cửa hàng để đăng ký gửi xe tháng ở hầm chung cư như Times City, Royal City.",
+   "kw": "làm thẻ gửi xe cho xe thuê",
+   "kw2": [
+    "gửi xe thuê ở hầm chung cư",
+    "đăng ký gửi xe tháng xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "người thuê xe theo tháng ở chung cư",
+   "location_scope": "Hai Bà Trưng, Thanh Xuân, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-014",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Túi giấy tờ đi kèm xe thuê: kiểm tra những gì trước khi lăn bánh",
+   "intent": "Biết kiểm tra túi giấy tờ cửa hàng giao kèm xe thuê và cách cất giữ để không thất lạc trong suốt kỳ thuê.",
+   "kw": "giấy tờ xe đi kèm xe thuê",
+   "kw2": [
+    "giấy tờ xe khi thuê xe máy",
+    "kiểm tra giấy tờ xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách vừa nhận xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-015",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Thuê xe máy bằng tài khoản VNeID thay thẻ căn cước: hỏi cửa hàng trước những gì",
+   "intent": "Hiểu cách hỏi trước cửa hàng có nhận xuất trình qua VNeID hay không và chuẩn bị phương án dự phòng khi quên mang thẻ.",
+   "kw": "thuê xe máy bằng VNeID",
+   "kw2": [
+    "dùng VNeID khi thuê xe",
+    "quên thẻ căn cước thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "người dân trong nước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-016",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Chăm người nhà nằm viện Bạch Mai hay Việt Đức: thuê xe máy nhanh để tiện đi lại",
+   "intent": "Lên kế hoạch thuê xe máy với thủ tục gọn khi phải ở Hà Nội chăm người nhà ở các bệnh viện lớn như Bạch Mai, Việt Đức, K Tân Triều.",
+   "kw": "thuê xe máy gần bệnh viện Bạch Mai",
+   "kw2": [
+    "thuê xe máy chăm người nhà nằm viện",
+    "thuê xe máy gần bệnh viện Việt Đức"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "người nhà bệnh nhân từ tỉnh",
+   "location_scope": "Đống Đa, Hoàn Kiếm, Thanh Trì, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-017",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Thực tập sinh nước ngoài ở Hà Nội thuê xe máy: tự ký hay nhờ công ty đứng tên",
+   "intent": "Chọn cách đứng tên hợp đồng thuê xe phù hợp cho thực tập sinh nước ngoài và biết cần trao đổi gì với công ty tiếp nhận.",
+   "kw": "thực tập sinh nước ngoài thuê xe máy",
+   "kw2": [
+    "intern nước ngoài thuê xe máy Hà Nội",
+    "công ty đứng tên thuê xe cho thực tập sinh"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "thực tập sinh quốc tế",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-018",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Chuyển khoản giữ xe trước khi đến: ghi nội dung thế nào để cửa hàng dễ đối chiếu",
+   "intent": "Biết cách ghi nội dung chuyển khoản giữ xe và lưu ảnh giao dịch để cửa hàng đối chiếu nhanh khi nhận xe.",
+   "kw": "nội dung chuyển khoản đặt xe thuê",
+   "kw2": [
+    "chuyển khoản giữ xe máy thuê",
+    "ghi nội dung chuyển khoản thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách đặt xe trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-019",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Cần chứng từ thanh toán khi thuê xe máy đi công tác: hỏi trước những thông tin gì",
+   "intent": "Biết cần gửi thông tin gì và hỏi trước cửa hàng về chứng từ thanh toán khi thuê xe máy để công ty thanh toán chi phí công tác.",
+   "kw": "hóa đơn thuê xe máy công tác",
+   "kw2": [
+    "chứng từ thuê xe máy",
+    "xuất hóa đơn thuê xe máy"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "nhân viên đi công tác",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-020",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Lịch trả xe thuê rơi vào giờ cao điểm: dời giờ hay hẹn trả ở điểm khác",
+   "intent": "Chọn cách sắp xếp giờ và điểm trả xe khi lịch trùng giờ tan tầm trên các trục như Nguyễn Trãi, Phạm Văn Đồng.",
+   "kw": "trả xe thuê giờ cao điểm",
+   "kw2": [
+    "dời giờ trả xe máy thuê",
+    "hẹn trả xe thuê tan tầm"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách sắp kết thúc kỳ thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-021",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Mẫu tin nhắn đặt thuê xe máy: gửi một lần đủ ngày giờ, loại xe và điểm nhận",
+   "intent": "Soạn một tin nhắn đặt xe đầy đủ ngay lần đầu để cửa hàng báo lại nhanh, không phải hỏi qua lại nhiều lần.",
+   "kw": "mẫu tin nhắn đặt thuê xe máy",
+   "kw2": [
+    "tin nhắn đặt xe máy thuê",
+    "cách nhắn đặt thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách đặt xe qua Zalo hoặc Messenger",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-022",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Thuê kèm mũ bảo hiểm, áo mưa, giá đỡ điện thoại: ghi phụ kiện vào hợp đồng ra sao",
+   "intent": "Biết cách liệt kê phụ kiện đi kèm xe thuê vào hợp đồng hoặc biên bản để lúc trả xe đối chiếu đủ đồ.",
+   "kw": "ghi phụ kiện vào hợp đồng thuê xe",
+   "kw2": [
+    "phụ kiện đi kèm xe máy thuê",
+    "mũ bảo hiểm áo mưa khi thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách thuê nhiều ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-023",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Ở Hà Đông hoặc Long Biên muốn thuê xe máy: chốt điểm nhận và lịch hẹn cho gọn",
+   "intent": "Lên kế hoạch hẹn nhận xe khi ở xa trung tâm như Hà Đông, Long Biên để không mất nhiều thời gian đi lấy xe.",
+   "kw": "thuê xe máy ở Hà Đông",
+   "kw2": [
+    "thuê xe máy Long Biên",
+    "nhận xe thuê ngoài trung tâm"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "người ở quận ven nội thành",
+   "location_scope": "Hà Đông, Long Biên, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-024",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Nhờ người khác mang xe thuê đi trả hộ: báo trước và bàn giao thế nào cho đúng",
+   "intent": "Biết cần báo trước những gì cho cửa hàng và dặn người trả hộ mang theo gì khi mình không thể tự đi trả xe.",
+   "kw": "nhờ người trả xe thuê hộ",
+   "kw2": [
+    "trả xe máy thuê hộ",
+    "người khác trả xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách bận đột xuất",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2F-025",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Nhắn xác nhận lại lịch nhận xe một ngày trước: những thông tin nên hỏi lại",
+   "intent": "Biết cách nhắn xác nhận lại với cửa hàng trước ngày nhận xe để chắc loại xe, giờ hẹn và giấy tờ không có gì thay đổi.",
+   "kw": "xác nhận lại lịch nhận xe thuê",
+   "kw2": [
+    "nhắc lịch nhận xe máy thuê",
+    "xác nhận đặt xe trước một ngày"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2F",
+   "audience": "khách đã đặt xe trước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
