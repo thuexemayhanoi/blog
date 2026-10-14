@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2I: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-001",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Hợp đồng thuê xe máy song ngữ ở Hà Nội: các mục khách quốc tế nên hỏi lại trước khi ký",
+   "intent": "Hiểu từng mục trong hợp đồng thuê xe song ngữ và biết câu nào cần hỏi lại chủ xe trước khi ký để tránh hiểu lầm khi trả xe.",
+   "kw": "hợp đồng thuê xe máy song ngữ",
+   "kw2": [
+    "đọc hợp đồng thuê xe tiếng anh",
+    "điều khoản thuê xe máy cho người nước ngoài"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-002",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Chụp ảnh và quay video xe máy lúc nhận: cách khách quốc tế lưu bằng chứng tình trạng xe",
+   "intent": "Biết cách chụp ảnh, quay video các vết xước, đồng hồ km và mức xăng lúc nhận xe để hai bên cùng đối chiếu khi trả xe.",
+   "kw": "chụp ảnh xe máy khi nhận",
+   "kw2": [
+    "quay video tình trạng xe thuê",
+    "lưu bằng chứng vết xước xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-003",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đọc đồng hồ xe máy thuê ở Việt Nam: tốc độ km/h, kim xăng và các đèn báo trên mặt đồng hồ",
+   "intent": "Hiểu ý nghĩa đồng hồ tốc độ, kim xăng và các đèn báo trên xe số, xe ga để không bị bất ngờ khi đang chạy trong phố Hà Nội.",
+   "kw": "đồng hồ xe máy đọc thế nào",
+   "kw2": [
+    "đèn báo trên xe máy",
+    "kim xăng xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-004",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "SIM du lịch và dữ liệu di động để dùng bản đồ khi chạy xe máy thuê ở Hà Nội",
+   "intent": "Chọn cách có kết nối dữ liệu ổn định ngay từ đầu chuyến để dùng bản đồ, nhắn tin chủ xe và gọi trợ giúp khi đang ở ngoài đường.",
+   "kw": "sim du lịch dùng bản đồ hà nội",
+   "kw2": [
+    "esim du lịch việt nam",
+    "mạng di động khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-005",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Gắn giá đỡ điện thoại lên xe máy thuê: chọn vị trí, chống rung và tránh bị giật máy",
+   "intent": "Biết cách gắn và dùng giá đỡ điện thoại trên xe máy để xem bản đồ an toàn mà không làm rơi hay bị giật điện thoại ở chỗ đông.",
+   "kw": "giá đỡ điện thoại xe máy",
+   "kw2": [
+    "kẹp điện thoại xe máy",
+    "xem bản đồ khi lái xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-006",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Nhóm bạn nước ngoài thuê nhiều xe máy cùng lúc ở Hà Nội: chia người lái và sắp lịch nhận xe",
+   "intent": "Lên kế hoạch cho nhóm nhiều người thuê vài xe cùng lúc: ai lái, ai ngồi sau, nhận trả xe chung một giờ và giữ liên lạc cả nhóm.",
+   "kw": "nhóm khách quốc tế thuê nhiều xe máy",
+   "kw2": [
+    "thuê nhiều xe máy cùng lúc",
+    "đi phượt nhóm bằng xe máy hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "nhóm bạn khách quốc tế đi chơi Hà Nội bằng nhiều xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-007",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Mùa nồm ẩm ở Hà Nội: đường trơn, kính mũ mờ và cách khách quốc tế chạy xe máy an toàn",
+   "intent": "Nhận biết kiểu thời tiết nồm ẩm cuối đông đầu xuân và biết cách giảm tốc, giữ khoảng cách, lau kính khi mặt đường trơn.",
+   "kw": "đường trơn mùa nồm hà nội",
+   "kw2": [
+    "chạy xe máy trời nồm",
+    "kính mũ bảo hiểm bị mờ"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-008",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Chạy xe máy giữa trưa hè Hà Nội: chống nắng, uống nước và chọn giờ đi cho khách quốc tế",
+   "intent": "Chuẩn bị trang phục, nước uống và lịch đi tránh giờ nắng gắt khi tự lái xe máy ngày hè ở Hà Nội để không bị say nắng.",
+   "kw": "chạy xe máy nắng nóng hà nội",
+   "kw2": [
+    "chống nắng khi đi xe máy",
+    "mùa hè hà nội đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-009",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đường một chiều trong phố cổ Hà Nội: cách khách quốc tế nhận biển và không đi ngược chiều",
+   "intent": "Biết cách nhận biển đường một chiều và đọc hướng trên bản đồ để không vô tình đi ngược chiều trong các phố hẹp quanh Hoàn Kiếm.",
+   "kw": "đường một chiều phố cổ hà nội",
+   "kw2": [
+    "biển cấm đi ngược chiều",
+    "đi ngược chiều xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Phố cổ, quận Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-010",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đi xe máy qua cầu Long Biên và cầu Chương Dương: khách quốc tế sang bờ Long Biên thế nào",
+   "intent": "Biết làn dành cho xe máy, chỗ lên xuống cầu và cách chọn cầu phù hợp khi muốn sang bờ Long Biên bằng xe máy thuê.",
+   "kw": "xe máy qua cầu long biên",
+   "kw2": [
+    "đi cầu chương dương xe máy",
+    "sang long biên bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Cầu Long Biên, cầu Chương Dương, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-011",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Ở khu Cầu Giấy, Mỹ Đình đi vào phố cổ bằng xe máy: tuyến đường dễ đi cho khách quốc tế",
+   "intent": "Chọn tuyến đường dễ nhớ, ít nút giao phức tạp khi ở khách sạn khu Cầu Giấy, Mỹ Đình và muốn tự lái vào trung tâm phố cổ.",
+   "kw": "từ mỹ đình vào phố cổ bằng xe máy",
+   "kw2": [
+    "cầu giấy đi hoàn kiếm xe máy",
+    "đường vào trung tâm hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Cầu Giấy, Nam Từ Liêm, Hoàn Kiếm, Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-012",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Dừng xe ăn quán vỉa hè ở Hà Nội: dựng xe máy đúng chỗ và giữ đồ khi ngồi ăn",
+   "intent": "Biết cách dựng xe, khóa cổ và để ý đồ đạc khi dừng ăn phở, bún chả ở quán vỉa hè mà không chắn lối đi hay bị nhắc nhở.",
+   "kw": "dựng xe máy khi ăn quán vỉa hè",
+   "kw2": [
+    "để xe máy trước quán ăn",
+    "khóa cổ xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-013",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Gia hạn thời gian thuê xe máy khi kéo dài chuyến đi ở Hà Nội: báo chủ xe sớm thế nào",
+   "intent": "Biết khi nào và bằng cách nào báo chủ xe để kéo dài thời gian thuê, cần xác nhận lại những gì khi chuyến đi ở Hà Nội dài hơn dự kiến.",
+   "kw": "gia hạn thuê xe máy",
+   "kw2": [
+    "kéo dài thời gian thuê xe",
+    "báo chủ xe thuê thêm ngày"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-014",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Xe máy thuê không hợp người lái: khách quốc tế trao đổi đổi xe giữa kỳ thuê ra sao",
+   "intent": "Biết cách mô tả với tiệm vì sao xe chưa hợp (quá cao, khó vào số, yên chật) và hỏi khả năng đổi xe khác giữa kỳ thuê.",
+   "kw": "đổi xe máy giữa kỳ thuê",
+   "kw2": [
+    "xe máy thuê không vừa người",
+    "yêu cầu đổi xe thuê"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-015",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Tự kiểm tra xe máy trước khi nhận: phanh, lốp, đèn và còi cho khách quốc tế lần đầu thuê",
+   "intent": "Biết thứ tự tự kiểm tra phanh, lốp, đèn, còi, gương trong vài phút trước khi ký nhận xe để phát hiện sớm vấn đề cần chủ xe xử lý.",
+   "kw": "kiểm tra xe máy trước khi nhận",
+   "kw2": [
+    "kiểm tra phanh lốp xe thuê",
+    "checklist nhận xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-016",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đi Ba Vì bằng xe máy từ Hà Nội trong ngày: lộ trình và lưu ý cho khách quốc tế",
+   "intent": "Lên kế hoạch một ngày tự lái xe máy từ nội thành lên vùng núi Ba Vì: hướng đi, giờ xuất phát, chỗ nghỉ và lúc nên quay về.",
+   "kw": "khách quốc tế đi ba vì xe máy",
+   "kw2": [
+    "ba vì bằng xe máy",
+    "đi chơi ba vì trong ngày"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội - Ba Vì",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-017",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Lên Tam Đảo bằng xe máy thuê ở Hà Nội: đường đèo, thời tiết và chuẩn bị cho khách quốc tế",
+   "intent": "Chuẩn bị cho chuyến tự lái xe máy từ Hà Nội lên Tam Đảo: đoạn đường đèo, sương mù, phanh xe khi xuống dốc và đồ mang theo.",
+   "kw": "đi tam đảo bằng xe máy",
+   "kw2": [
+    "đường đèo tam đảo xe máy",
+    "từ hà nội lên tam đảo"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội - Tam Đảo (Vĩnh Phúc)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-018",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Khách sạn phố cổ không có chỗ để xe máy: hỏi lễ tân và tìm chỗ gửi xe qua đêm",
+   "intent": "Biết cách hỏi khách sạn về chỗ để xe qua đêm và tìm điểm gửi xe gần chỗ ở trong phố cổ khi khách sạn không có sân.",
+   "kw": "khách sạn phố cổ chỗ để xe máy",
+   "kw2": [
+    "gửi xe máy qua đêm phố cổ",
+    "khách sạn không có chỗ để xe"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Phố cổ, quận Hoàn Kiếm, Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-019",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Mất chìa khóa xe máy thuê ở Hà Nội: khách quốc tế nên làm gì trước khi gọi chủ xe",
+   "intent": "Biết các bước bình tĩnh tìm lại, giữ xe an toàn tại chỗ và báo chủ xe đầy đủ thông tin khi lỡ làm mất chìa khóa xe thuê.",
+   "kw": "mất chìa khóa xe máy thuê",
+   "kw2": [
+    "làm mất chìa khóa xe máy",
+    "quên chìa khóa xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-020",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Quen lái bên trái ở Anh, Úc, Nhật: khách quốc tế chỉnh thói quen khi chạy xe máy Hà Nội",
+   "intent": "Hiểu những tình huống dễ phản xạ sai khi quen lái bên trái (rẽ, quay đầu, vào vòng xuyến) và cách tập lại thói quen đi bên phải.",
+   "kw": "quen lái bên trái đi xe máy việt nam",
+   "kw2": [
+    "đi bên phải đường việt nam",
+    "khách anh úc lái xe ở việt nam"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế đến từ nước lái xe bên trái",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-021",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Trả xe máy trước giờ ra sân bay Nội Bài: khách quốc tế sắp thời gian thế nào cho kịp",
+   "intent": "Lên lịch trả xe, kiểm xe, nhận lại giấy tờ và di chuyển ra sân bay Nội Bài sao cho không bị trễ chuyến bay.",
+   "kw": "trả xe máy trước khi ra sân bay",
+   "kw2": [
+    "trả xe thuê ngày bay về",
+    "từ phố cổ ra nội bài"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội - sân bay Nội Bài",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-022",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Lưu số chủ xe qua Zalo, WhatsApp hay gọi thường: kênh liên lạc khách quốc tế nên chuẩn bị",
+   "intent": "Chọn và thử trước kênh liên lạc với chủ xe ngay khi nhận xe để gọi được ngay khi xe có vấn đề hoặc bị lạc đường.",
+   "kw": "liên lạc chủ xe qua zalo whatsapp",
+   "kw2": [
+    "zalo cho người nước ngoài",
+    "số điện thoại chủ xe thuê"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-023",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Áo mưa cánh dơi hay áo mưa bộ: khách quốc tế chọn loại nào khi chạy xe máy ở Hà Nội",
+   "intent": "So sánh áo mưa cánh dơi và áo mưa bộ về độ kín, độ an toàn khi chạy xe và cách mặc nhanh khi mưa bất chợt ở Hà Nội.",
+   "kw": "áo mưa đi xe máy loại nào",
+   "kw2": [
+    "áo mưa cánh dơi",
+    "áo mưa bộ đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-024",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Xe máy thuê hết xăng giữa đường Hà Nội: dắt xe tìm cây xăng và nhờ người giúp thế nào",
+   "intent": "Biết cách nhận ra xe sắp hết xăng, tìm cây xăng gần nhất và xử lý khi xe đã tắt máy giữa phố đông.",
+   "kw": "xe máy hết xăng giữa đường",
+   "kw2": [
+    "tìm cây xăng gần nhất hà nội",
+    "dắt xe máy hết xăng"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2I-025",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Xi nhan, đèn pha và nháy đèn ở Hà Nội: hiểu tín hiệu ánh sáng khi khách quốc tế chạy xe máy",
+   "intent": "Hiểu người đi đường Hà Nội dùng xi nhan, nháy đèn pha để báo gì và biết tự bật tín hiệu đúng lúc khi rẽ, chuyển làn.",
+   "kw": "nháy đèn xe máy nghĩa là gì",
+   "kw2": [
+    "bật xi nhan xe máy",
+    "tín hiệu đèn khi đi đường"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2I",
+   "audience": "khách quốc tế du lịch hoặc công tác ngắn ngày tự lái xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

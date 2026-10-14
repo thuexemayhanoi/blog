@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2L: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-001",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Chuyển từ xe ga sang Honda Wave: làm quen cần số, côn tự động và lúc dừng đèn đỏ",
+   "intent": "Hiểu cách vận hành cần số và côn tự động của Honda Wave khi chỉ quen xe ga, để không giật xe hay chết máy ở các nút đèn đỏ trong phố.",
+   "kw": "người quen xe ga chuyển sang wave",
+   "kw2": [
+    "cách đi xe số wave cho người đi xe ga",
+    "côn tự động honda wave"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "người chỉ quen xe ga, khách thuê lần đầu đi xe số",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-002",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Đi Honda Wave số mấy cho hợp: chọn số khi tắc đường, phố thoáng và đường vành đai",
+   "intent": "Chọn đúng số cho từng tình huống giao thông Hà Nội khi đi Wave thuê, tránh để số cao lúc tắc làm xe ì và số thấp lúc đường thoáng làm máy gào.",
+   "kw": "đi wave số mấy",
+   "kw2": [
+    "chọn số xe wave khi tắc đường",
+    "về số xe số đúng lúc"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê xe số, người mới tự lái",
+   "location_scope": "nội thành và đường Vành đai 2, Vành đai 3 tầng mặt đất",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-003",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave lên dốc cầu và đường dốc ngoại thành: về số thấp trước khi xe hụt hơi",
+   "intent": "Biết cách về số và giữ ga đều khi đưa Wave lên dốc cầu Long Biên, Vĩnh Tuy hay đường dốc ngoại thành, nhất là lúc chở thêm người.",
+   "kw": "honda wave lên dốc",
+   "kw2": [
+    "wave lên dốc bị yếu",
+    "về số khi lên dốc xe số"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê đi xa, người chở hai",
+   "location_scope": "dốc cầu Long Biên, Vĩnh Tuy và khu Ba Vì, Sóc Sơn",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-004",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Xuống dốc dài bằng Honda Wave: giữ số để hãm bằng động cơ thay vì bóp phanh liên tục",
+   "intent": "Hiểu cách để Wave ở số thấp khi xuống dốc dài, phối hợp phanh trước, phanh sau để phanh không bị nóng và xe không trôi nhanh.",
+   "kw": "wave xuống dốc dùng số",
+   "kw2": [
+    "phanh động cơ xe số",
+    "xuống dốc xe wave an toàn"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê đi cung đường đồi núi quanh Hà Nội",
+   "location_scope": "Ba Vì, Tam Đảo, Sóc Sơn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-005",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Cần đạp khởi động trên Honda Wave: khi nào dùng và đạp sao cho xe nổ, không đau chân",
+   "intent": "Biết cách dùng cần đạp khởi động của Wave khi nút đề không nổ, đạp đúng tư thế và nhận biết khi nào nên gọi cửa hàng thay vì cố đạp mãi.",
+   "kw": "đạp nổ xe wave",
+   "kw2": [
+    "cần khởi động xe wave",
+    "xe wave đề không nổ"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê gặp sự cố khởi động, người chưa quen xe số",
+   "location_scope": "Hà Nội và các chuyến đi ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-006",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Khóa cổ Honda Wave khi gửi xe ở chợ, phố cổ: bẻ lái, khóa cổ và rút chìa đúng cách",
+   "intent": "Biết cách bẻ lái và khóa cổ Wave cho chắc khi phải dừng ngắn ở chợ, vỉa hè phố cổ hay quán ven đường, giảm nguy cơ mất xe thuê.",
+   "kw": "khóa cổ xe wave",
+   "kw2": [
+    "cách khóa cổ xe số",
+    "giữ xe thuê không bị mất"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách du lịch, khách thuê ngắn ngày",
+   "location_scope": "phố cổ Hoàn Kiếm, chợ Đồng Xuân, chợ Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-007",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Đổ xăng Honda Wave: mở yên bằng chìa, tìm nắp bình xăng và thói quen đổ vừa đủ",
+   "intent": "Biết thao tác mở yên để đổ xăng cho Wave thuê, nói với nhân viên cây xăng thế nào và giữ thói quen không để bình xăng cạn giữa đường.",
+   "kw": "đổ xăng xe wave",
+   "kw2": [
+    "mở yên xe wave",
+    "bình xăng xe wave ở đâu"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê lần đầu, khách nước ngoài",
+   "location_scope": "cây xăng trong nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-008",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Xích Honda Wave thuê: nhìn độ chùng, nghe tiếng kêu và lúc nào nên báo cửa hàng",
+   "intent": "Hiểu cách tự quan sát xích (sên) của Wave trước và trong chuyến đi, nhận biết dấu hiệu xích chùng hay khô để báo cửa hàng xử lý kịp.",
+   "kw": "xích xe wave bị chùng",
+   "kw2": [
+    "sên xe wave kêu",
+    "kiểm tra xích xe số"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê dài ngày, người đi xa",
+   "location_scope": "Hà Nội và các cung đường ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-009",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Lốp Honda Wave khi thuê: xem độ mòn, bóp thử độ căng và xử lý khi thủng giữa đường",
+   "intent": "Biết cách kiểm tra nhanh lốp Wave lúc nhận xe, bóp thử độ căng trước khi đi xa và làm gì khi lốp thủng ở nội thành hay ngoại thành.",
+   "kw": "lốp xe wave thuê",
+   "kw2": [
+    "kiểm tra lốp xe wave",
+    "xe wave thủng lốp"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê đi xa, người đi làm hằng ngày",
+   "location_scope": "Hà Nội nội thành và ngoại thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-010",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave qua đường ngập ở Nguyễn Khuyến, Phan Bội Châu: giữ ga đều, số thấp và việc sau đó",
+   "intent": "Lên kế hoạch đưa Wave qua đoạn ngập sau mưa lớn ở Hà Nội: chọn làn, giữ số thấp và ga đều, cùng các việc nên kiểm tra khi đã qua chỗ ngập.",
+   "kw": "wave đi đường ngập",
+   "kw2": [
+    "xe số lội nước",
+    "xe wave chết máy khi ngập"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê mùa mưa, người đi làm",
+   "location_scope": "các điểm hay ngập trong nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-011",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Đi Honda Wave buổi tối: bật đèn pha, xi nhan rõ và đường ngoại thành thiếu sáng",
+   "intent": "Biết cách dùng đèn pha, đèn cốt và xi nhan trên Wave khi chạy đêm, nhất là trên đê và đường ngoại thành ít đèn đường.",
+   "kw": "đi wave ban đêm",
+   "kw2": [
+    "đèn pha xe wave",
+    "chạy xe số buổi tối"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê hay về muộn, người đi xa",
+   "location_scope": "đường đê sông Hồng, đường ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-012",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Sinh viên thuê Honda Wave theo tháng ở Cầu Giấy, Bách Khoa: đi học, gửi xe và giữ xe bền",
+   "intent": "Lên kế hoạch thuê Wave theo tháng cho sinh viên: dùng xe đi học, gửi xe ở trường, ký túc xá và giữ xe sạch, bền đến lúc trả.",
+   "kw": "sinh viên thuê xe wave",
+   "kw2": [
+    "thuê xe số theo tháng cho sinh viên",
+    "gửi xe wave ở ký túc xá"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "sinh viên, người mới lên Hà Nội học",
+   "location_scope": "Cầu Giấy, Hai Bà Trưng, Đống Đa",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-013",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Khách nước ngoài thuê Honda Wave ở phố cổ: làm quen xe số trước khi ra đường lớn",
+   "intent": "Hiểu những gì khách nước ngoài cần làm quen trên Wave như cần số, phanh chân và đèn báo số trước khi rời phố cổ ra đường lớn đông xe.",
+   "kw": "khách nước ngoài thuê honda wave",
+   "kw2": [
+    "foreigner rent honda wave hanoi",
+    "du khách đi xe số ở hà nội"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách du lịch nước ngoài",
+   "location_scope": "phố cổ Hoàn Kiếm và các tuyến ra khỏi phố cổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-014",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Đi Ba Vì trong ngày bằng Honda Wave: qua Sơn Tây, nghỉ xe và chạy lên đường núi",
+   "intent": "Lên kế hoạch một chuyến Ba Vì trong ngày bằng Wave thuê: lộ trình qua Sơn Tây, chỗ nghỉ cho người và xe, cách chạy đoạn đường núi.",
+   "kw": "đi ba vì bằng wave",
+   "kw2": [
+    "phượt ba vì bằng xe số",
+    "đi ba vì trong ngày bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "nhóm bạn trẻ, khách đi chơi cuối tuần",
+   "location_scope": "Hà Nội đến Sơn Tây và Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-015",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Móc treo đồ trên Honda Wave: treo túi đi chợ sao cho không vướng chân và không lệch xe",
+   "intent": "Biết cách dùng móc treo đồ trên Wave để mang túi đồ đi chợ, đi siêu thị mà không vướng cần số, không làm xe lệch khi rẽ.",
+   "kw": "móc treo đồ xe wave",
+   "kw2": [
+    "treo túi trên xe wave",
+    "mang đồ đi chợ bằng xe số"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "người thuê dài ngày, người ở trọ",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-016",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Mặc váy, đi giày cao gót lái Honda Wave: ngồi lên xe, gạt số và xuống xe gọn gàng",
+   "intent": "Hiểu cách ngồi, gạt số bằng chân và lên xuống Wave khi mặc váy hay đi giày cao gót, để đi làm, đi tiệc vẫn an toàn và gọn.",
+   "kw": "mặc váy đi xe wave",
+   "kw2": [
+    "đi giày cao gót lái xe số",
+    "nữ đi xe wave"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "phụ nữ thuê xe đi làm, đi sự kiện",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-017",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave thuê kêu lạch cạch: phân biệt tiếng xích, tiếng yếm và lúc nào phải dừng xe",
+   "intent": "Phân biệt các tiếng kêu thường gặp trên Wave như tiếng xích, ốp nhựa rung hay tiếng lạ từ bánh xe, và biết khi nào cần dừng lại gọi cửa hàng.",
+   "kw": "xe wave kêu lạch cạch",
+   "kw2": [
+    "tiếng kêu lạ xe wave",
+    "xe số kêu khi chạy"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê dài ngày, người đi xa",
+   "location_scope": "Hà Nội và cung đường ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-018",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Đọc đồng hồ Honda Wave: đèn báo số, kim xăng và số km để ghi lúc nhận, trả xe",
+   "intent": "Biết cách đọc các thông tin trên đồng hồ Wave như đèn báo số, kim xăng và đồng hồ km, và ghi lại lúc nhận, trả xe để đối chiếu với cửa hàng.",
+   "kw": "đồng hồ xe wave",
+   "kw2": [
+    "đèn báo số xe wave",
+    "kim xăng xe wave"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê lần đầu, khách nước ngoài",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-019",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Honda Wave chết máy giữa ngã tư: dắt vào lề, kiểm tra xăng, số và gọi cửa hàng",
+   "intent": "Biết các bước xử lý khi Wave thuê chết máy giữa ngã tư đông xe: đưa xe vào lề an toàn, kiểm tra những nguyên nhân đơn giản và liên hệ cửa hàng.",
+   "kw": "xe wave chết máy giữa đường",
+   "kw2": [
+    "xe số chết máy khi dừng đèn đỏ",
+    "xử lý xe thuê chết máy"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê lần đầu, người chưa quen xe số",
+   "location_scope": "các ngã tư đông xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-020",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Thuê Honda Wave hay Yamaha Sirius: hai xe số phổ thông khác nhau ở cảm giác lái nào",
+   "intent": "Chọn giữa Wave và Sirius khi thuê xe số ở Hà Nội dựa trên tư thế ngồi, cảm giác vào số và mục đích chuyến đi, không cần so thông số.",
+   "kw": "thuê wave hay sirius",
+   "kw2": [
+    "so sánh wave và sirius",
+    "nên thuê xe số nào"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách thuê xe số, người đi xa",
+   "location_scope": "Hà Nội nội thành và ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-021",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Thuê Honda Wave hay Honda Vision cho 3 ngày du lịch Hà Nội: xe số hay xe ga hợp hơn",
+   "intent": "Chọn giữa Wave và Vision cho chuyến du lịch ngắn ở Hà Nội, cân nhắc kinh nghiệm lái, chỗ cất đồ và cung đường định đi.",
+   "kw": "thuê wave hay vision",
+   "kw2": [
+    "xe số hay xe ga cho du lịch hà nội",
+    "nên thuê wave hay vision"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "khách du lịch ngắn ngày",
+   "location_scope": "Hà Nội nội thành và vùng lân cận",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-022",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Đưa Honda Wave xuống hầm gửi xe chung cư, tòa nhà: dốc hầm hẹp, số thấp và vé gửi",
+   "intent": "Biết cách đưa Wave xuống, lên dốc hầm gửi xe hẹp ở chung cư, tòa văn phòng mà không chết máy, kèm việc giữ vé gửi xe thuê.",
+   "kw": "wave xuống hầm gửi xe",
+   "kw2": [
+    "đi xe số xuống hầm",
+    "dốc hầm gửi xe chung cư"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "người đi làm văn phòng, người ở chung cư",
+   "location_scope": "Cầu Giấy, Nam Từ Liêm, Thanh Xuân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-023",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Dựng chân chống giữa Honda Wave: mẹo cho người nhỏ con và khi phải đỗ trên dốc",
+   "intent": "Biết cách dựng chân chống giữa của Wave nhẹ nhàng dù nhỏ con, và khi nào nên dùng chân chống nghiêng hay chống giữa lúc đỗ trên dốc, vỉa hè.",
+   "kw": "dựng chân chống giữa xe wave",
+   "kw2": [
+    "chân chống xe wave",
+    "dựng xe số cho người nhỏ con"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "phụ nữ, người nhỏ con, khách thuê lần đầu",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-024",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Phanh chân sau của Honda Wave: tập phối hợp với phanh tay cho người quen xe ga",
+   "intent": "Hiểu cách dùng phanh sau đạp chân trên Wave và tập phối hợp với phanh trước bên tay phải, để người quen xe ga không bóp nhầm hay quên phanh sau.",
+   "kw": "phanh chân xe wave",
+   "kw2": [
+    "phanh sau xe số",
+    "người đi xe ga dùng phanh chân"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "người quen xe ga, khách nước ngoài",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2L-025",
+   "child_id": "C-HONDA-WAVE",
+   "title": "Tập đi xe số với Honda Wave thuê: bài tập ngắn ở bãi rộng trước khi vào phố đông",
+   "intent": "Lên kế hoạch tự tập vào số, đề pa, dừng và quay đầu với Wave ở một bãi rộng, ít xe trước khi đi vào các tuyến phố đông của Hà Nội.",
+   "kw": "tập đi xe số wave",
+   "kw2": [
+    "học đi xe số",
+    "bài tập lái xe wave"
+   ],
+   "links": [
+    "/xe-may/honda-wave/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-14-W2L",
+   "audience": "người mới tập xe số, khách nước ngoài",
+   "location_scope": "bãi đất rộng ven đô, khu Mỹ Đình, ven hồ ít xe",
+   "word_target": 1200
+  }
+ ]
+}

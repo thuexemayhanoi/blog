@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2J: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-14",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-001",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Nhận thông báo phạt nguội sau khi đã trả xe thuê: xác minh lỗi vi phạm và phối hợp với cửa hàng",
+   "intent": "Biết cách xác minh một thông báo phạt nguội liên quan đến xe đã thuê, đối chiếu thời gian và lộ trình, rồi phối hợp với cửa hàng xử lý cho đúng.",
+   "kw": "phạt nguội xe máy thuê",
+   "kw2": [
+    "tra cứu phạt nguội xe thuê",
+    "xe thuê bị phạt nguội ai nộp"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "người thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Hà Nội, các tuyến có camera giám sát giao thông",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-002",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Quay lại không thấy xe thuê ở chỗ đỗ vỉa hè: phân biệt bị tạm giữ do đỗ sai hay bị trộm",
+   "intent": "Phân biệt xe thuê biến mất khỏi chỗ đỗ vỉa hè là do bị lực lượng chức năng tạm giữ hay bị trộm, và biết nên hỏi ai trước khi trình báo.",
+   "kw": "xe máy đỗ vỉa hè bị mất",
+   "kw2": [
+    "đỗ xe sai chỗ bị tạm giữ hà nội",
+    "không thấy xe ở chỗ đỗ"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Phố cổ Hoàn Kiếm và các phố trung tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-003",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Mất vé gửi xe máy thuê ở bãi trông giữ: chứng minh xe của mình và lấy xe ra đúng thủ tục",
+   "intent": "Biết cách chứng minh quyền sử dụng xe thuê với người trông giữ khi làm mất vé gửi xe, gồm giấy tờ cần đưa ra và lúc nào nên gọi cửa hàng hỗ trợ.",
+   "kw": "mất vé gửi xe máy",
+   "kw2": [
+    "mất vé gửi xe thuê",
+    "mất thẻ gửi xe lấy xe thế nào"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Bãi gửi xe quanh hồ Hoàn Kiếm, chợ Đồng Xuân, phố đi bộ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-004",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê bị đổ hoặc trầy trong bãi gửi xe: ghi nhận với người trông giữ và báo cửa hàng",
+   "intent": "Hiểu cần làm gì khi phát hiện xe thuê bị đổ, móp hoặc trầy trong lúc gửi ở bãi trông giữ: chụp ảnh, ghi nhận với bảo vệ và báo cửa hàng trước khi rời đi.",
+   "kw": "xe bị trầy trong bãi gửi xe",
+   "kw2": [
+    "xe gửi bãi bị đổ",
+    "bãi gửi xe làm hỏng xe"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Bãi gửi xe trung tâm thương mại, bệnh viện, phố cổ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-005",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Tiệm sửa xe ven đường báo giá bất thường khi xe thuê hỏng: cách từ chối và gọi cửa hàng",
+   "intent": "Biết cách nhận ra khi tiệm sửa xe ven đường đề nghị thay nhiều phụ tùng không cần thiết cho xe thuê, từ chối lịch sự và để cửa hàng quyết định việc sửa.",
+   "kw": "sửa xe ven đường chặt chém",
+   "kw2": [
+    "tiệm sửa xe báo giá cao",
+    "sửa xe thuê ở tiệm lạ"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Các tuyến ra vào Hà Nội: Đại lộ Thăng Long, Võ Văn Kiệt, quốc lộ 1A",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-006",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Giông lốc bất chợt khi đang chạy xe thuê ở Hà Nội: tìm chỗ trú và tránh cây đổ, biển quảng cáo",
+   "intent": "Biết cách phản ứng khi giông lốc ập đến lúc đang chạy xe máy trong phố: giảm tốc, chọn chỗ trú an toàn và tránh những vị trí dễ có cây gãy hay vật rơi.",
+   "kw": "đi xe máy gặp giông lốc",
+   "kw2": [
+    "mưa giông đi xe máy hà nội",
+    "trú mưa khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội mùa giông: đường Láng, Kim Mã, Nguyễn Chí Thanh, các phố nhiều cây cổ thụ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-007",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Cây đổ hoặc vật rơi trúng xe thuê đang đỗ sau giông: chụp ảnh hiện trường và báo cửa hàng",
+   "intent": "Hiểu các bước cần làm khi xe thuê đang đỗ bị cây gãy, cành cây hoặc vật treo rơi trúng: kiểm tra an toàn, ghi lại hiện trường và báo cửa hàng.",
+   "kw": "cây đổ trúng xe máy",
+   "kw2": [
+    "cành cây rơi trúng xe thuê",
+    "xe đỗ bị vật rơi trúng"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "người thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Các phố nhiều cây lâu năm ở Hà Nội như Phan Đình Phùng, Hoàng Diệu",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-008",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Remote Smartkey xe ga thuê không nhận hoặc hết pin: những gì cần thử trước khi gọi cửa hàng",
+   "intent": "Biết cách xử lý khi xe tay ga thuê dùng khóa thông minh không nhận remote, những bước an toàn có thể tự thử và khi nào nên gọi cửa hàng.",
+   "kw": "smartkey xe ga không nhận",
+   "kw2": [
+    "remote smartkey hết pin",
+    "xe ga thuê không mở được khóa thông minh"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-009",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Báo động chống trộm của xe thuê kêu liên tục giữa đêm: tắt đúng cách và báo cửa hàng",
+   "intent": "Biết cách tắt chuông báo động chống trộm trên xe thuê khi nó kêu liên tục ở nơi đỗ, tránh làm phiền hàng xóm và báo cửa hàng nếu lỗi lặp lại.",
+   "kw": "báo động xe máy kêu liên tục",
+   "kw2": [
+    "tắt chống trộm xe máy",
+    "chống trộm xe thuê kêu"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Khu lưu trú homestay, khách sạn mini ở phố cổ và Tây Hồ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-010",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bị dắt nhầm hoặc lấy nhầm xe cùng mẫu cùng màu ở bãi gửi đông người: xử lý thế nào",
+   "intent": "Hiểu cách nhận diện đúng xe thuê của mình trong bãi gửi đông, và các bước cần làm khi phát hiện xe bị người khác dắt nhầm hoặc chính mình lấy nhầm.",
+   "kw": "lấy nhầm xe ở bãi gửi",
+   "kw2": [
+    "bị dắt nhầm xe máy",
+    "nhận diện xe thuê ở bãi gửi"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Bãi gửi xe sự kiện, sân vận động Mỹ Đình, phố đi bộ Hồ Gươm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-011",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Mũ bảo hiểm đi kèm xe thuê bị mất hoặc vỡ: báo cửa hàng và đi tiếp an toàn trong ngày",
+   "intent": "Biết cách xử lý khi làm mất hoặc vỡ mũ bảo hiểm đi kèm xe thuê, vì sao không nên chạy tiếp khi thiếu mũ và cách báo cửa hàng.",
+   "kw": "mất mũ bảo hiểm xe thuê",
+   "kw2": [
+    "mũ bảo hiểm xe thuê bị vỡ",
+    "bị trộm mũ bảo hiểm khi gửi xe"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-012",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê bị tháo trộm gương, nắp yên hay phụ kiện khi đỗ qua đêm: kiểm tra và trình báo",
+   "intent": "Hiểu cần kiểm tra những gì khi phát hiện xe thuê bị tháo trộm phụ tùng sau một đêm đỗ ngoài trời, cách ghi nhận và trình báo với cửa hàng, công an phường.",
+   "kw": "xe máy bị tháo trộm phụ tùng",
+   "kw2": [
+    "bị trộm gương xe máy",
+    "xe thuê mất phụ kiện khi đỗ"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "người thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Khu nhà trọ, ngõ nhỏ và chung cư cũ ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-013",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Người gây va chạm với xe thuê bỏ chạy: ghi nhận biển số, nhân chứng và camera quanh đó",
+   "intent": "Biết cần ghi lại những gì khi người va chạm với mình bỏ chạy: biển số, đặc điểm xe, nhân chứng và vị trí camera, rồi trình báo và báo cửa hàng.",
+   "kw": "va chạm xe máy bỏ chạy",
+   "kw2": [
+    "gây tai nạn bỏ chạy xử lý",
+    "bị đâm rồi người kia bỏ chạy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Các nút giao đông ở Hà Nội: Ngã Tư Sở, Kim Liên, Cầu Giấy",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-014",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bị đòi tiền bồi thường ngay tại chỗ sau va quẹt khi đi xe thuê: bình tĩnh và gọi cửa hàng",
+   "intent": "Biết cách giữ bình tĩnh khi bên kia đòi trả tiền ngay sau một va quẹt nhẹ, không vội thỏa thuận khi chưa rõ lỗi và gọi cửa hàng hoặc cơ quan chức năng hỗ trợ.",
+   "kw": "bị đòi tiền sau va quẹt",
+   "kw2": [
+    "va quẹt bị bắt đền tại chỗ",
+    "người nước ngoài bị đòi tiền va chạm"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Phố cổ, Tây Hồ và các tuyến đông khách du lịch ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-015",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê trục trặc lặp đi lặp lại: cách đề nghị cửa hàng kiểm tra lại hoặc đổi xe giữa kỳ",
+   "intent": "Biết cách mô tả một lỗi cứ tái diễn trên xe thuê và trao đổi với cửa hàng để được kiểm tra lại hoặc đổi xe khác giữa kỳ thuê.",
+   "kw": "đổi xe thuê giữa kỳ",
+   "kw2": [
+    "xe thuê hỏng nhiều lần",
+    "yêu cầu đổi xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "người thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-016",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê trục trặc trên đường đi Ba Vì hoặc Sóc Sơn: tìm tiệm sửa gần và giữ liên lạc với cửa hàng",
+   "intent": "Lên kế hoạch xử lý khi xe thuê gặp trục trặc ở vùng ngoại thành xa trung tâm: tìm chỗ sửa gần nhất, giữ pin điện thoại và liên lạc với cửa hàng.",
+   "kw": "xe máy hỏng khi đi Ba Vì",
+   "kw2": [
+    "xe thuê hỏng ngoại thành hà nội",
+    "tìm tiệm sửa xe ở Sóc Sơn"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Ngoại thành Hà Nội: Ba Vì, Sóc Sơn, Hồ Đồng Mô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-017",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê gặp sự cố trên đường đê sông Hồng buổi tối: dừng ở chỗ sáng và chờ hỗ trợ an toàn",
+   "intent": "Biết chọn chỗ dừng an toàn khi xe thuê trục trặc trên tuyến đê vắng, thiếu đèn buổi tối và cách chờ người hỗ trợ mà không đứng sát làn xe tải.",
+   "kw": "xe hỏng trên đường đê",
+   "kw2": [
+    "đi đường đê sông Hồng buổi tối",
+    "xe chết máy chỗ vắng"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Đường đê sông Hồng: Âu Cơ, Nghi Tàm, Hồng Hà, đê Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-018",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Xe thuê dính sơn, vữa xi măng hoặc nhựa đường từ công trình: làm sạch được gì và nên báo gì",
+   "intent": "Hiểu cách xử lý khi xe thuê bị dính sơn, vữa hoặc nhựa đường lúc đi qua đoạn đang thi công, phần nào có thể làm sạch nhẹ và khi nào nên báo cửa hàng.",
+   "kw": "xe máy dính nhựa đường",
+   "kw2": [
+    "xe dính sơn công trình",
+    "làm sạch vữa xi măng trên xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "người thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Các đoạn thi công đường, đường sắt đô thị ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-019",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bãi gửi xe đóng cửa khi xe thuê vẫn còn bên trong: liên hệ ai và sắp xếp đi lại thế nào",
+   "intent": "Biết cách xử lý khi quay lại muộn mà bãi gửi xe ở trung tâm thương mại hay tòa nhà đã đóng cửa, cần liên hệ ai và báo cửa hàng về việc trả xe.",
+   "kw": "bãi gửi xe đóng cửa",
+   "kw2": [
+    "gửi xe quá giờ không lấy được",
+    "bãi xe trung tâm thương mại đóng cửa"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Trung tâm thương mại và tòa nhà văn phòng ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-020",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bị cho là làm hỏng xe lúc trả mà bạn không gây ra: dùng ảnh lúc nhận xe để đối chiếu",
+   "intent": "Biết cách dùng ảnh, video lúc nhận xe để đối chiếu và trao đổi bình tĩnh khi có ý kiến khác nhau về một vết hỏng phát hiện lúc trả xe thuê.",
+   "kw": "tranh chấp hư hỏng khi trả xe",
+   "kw2": [
+    "bị bắt đền xe thuê vô lý",
+    "đối chiếu ảnh nhận xe khi trả"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-021",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Không kịp trả xe thuê đúng giờ vì tắc đường hay mưa ngập: báo cửa hàng sớm và sắp xếp lại",
+   "intent": "Biết cách báo sớm cho cửa hàng khi tắc đường hoặc mưa ngập làm trễ giờ trả xe, và những thông tin cần cung cấp để cùng sắp xếp lại lịch trả.",
+   "kw": "trả xe thuê muộn do tắc đường",
+   "kw2": [
+    "trễ giờ trả xe máy thuê",
+    "mưa ngập không trả xe kịp"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "người thuê xe máy ngắn ngày ở Hà Nội",
+   "location_scope": "Các điểm hay tắc, ngập ở Hà Nội: Nguyễn Trãi, Trường Chinh, Huỳnh Thúc Kháng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-022",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Người đi cùng mượn lái xe thuê rồi gặp sự cố: những điều cần báo cửa hàng ngay",
+   "intent": "Hiểu cần báo gì với cửa hàng khi người không đứng tên hợp đồng mượn lái xe thuê và xảy ra va chạm hay hỏng hóc, và vì sao không nên giấu thông tin.",
+   "kw": "cho người khác lái xe thuê",
+   "kw2": [
+    "bạn mượn xe thuê gây tai nạn",
+    "người lái không phải người thuê"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội và các tuyến đi chơi gần",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-023",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Giá đỡ điện thoại gãy hoặc điện thoại rơi khi đang chạy xe: không phanh gấp giữa làn",
+   "intent": "Biết cách phản ứng an toàn khi giá đỡ điện thoại trên tay lái gãy hoặc điện thoại rơi xuống đường lúc đang chạy, tránh phanh gấp và quay đầu nguy hiểm.",
+   "kw": "điện thoại rơi khi đi xe máy",
+   "kw2": [
+    "giá đỡ điện thoại xe máy bị gãy",
+    "rơi điện thoại giữa đường"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Các tuyến đông xe ở Hà Nội như Phạm Văn Đồng, Giải Phóng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-024",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Lỡ đi vào đường cấm xe máy như đường trên cao Vành đai 3: cách thoát ra an toàn và đúng luật",
+   "intent": "Biết cách nhận ra mình đã đi nhầm vào tuyến cấm xe máy theo chỉ dẫn bản đồ và xử lý an toàn, không quay đầu hay đi ngược chiều.",
+   "kw": "đi nhầm đường cấm xe máy",
+   "kw2": [
+    "xe máy đi vào đường trên cao",
+    "bản đồ dẫn vào đường cấm xe máy"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Đường trên cao Vành đai 3, cầu Thanh Trì, Đại lộ Thăng Long đoạn cao tốc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-14-W2J-025",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Cốp xe thuê bị cạy mất đồ khi đỗ ngoài phố: trình báo công an phường và báo cửa hàng",
+   "intent": "Biết các bước cần làm khi phát hiện cốp xe thuê bị cạy và mất đồ cá nhân: giữ nguyên hiện trạng, trình báo công an phường và báo cửa hàng về hư hỏng ổ khóa.",
+   "kw": "cốp xe máy bị cạy",
+   "kw2": [
+    "mất đồ trong cốp xe thuê",
+    "trình báo mất trộm đồ trong cốp xe"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-14-W2J",
+   "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+   "location_scope": "Phố cổ, chợ đêm và các điểm tham quan đông khách ở Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}
