@@ -8,9 +8,9 @@ chia-se:
   size: 12
   total: 112
 du-lich:
-  pages: 42
+  pages: 43
   size: 12
-  total: 503
+  total: 505
 topic:
   xe-may_bao-duong-xe:
     pages: 4
@@ -28,6 +28,10 @@ topic:
     pages: 5
     size: 24
     total: 110
+  cung-duong_ha-giang:
+    pages: 2
+    size: 24
+    total: 25
   cung-duong_mai-chau:
     pages: 2
     size: 24
