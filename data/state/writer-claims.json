@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-15T10:50:24Z",
+  "updated_at": "2026-10-15T10:57:21Z",
   "leases": {
     "W2": {
       "ids": [
@@ -19,7 +19,7 @@
       "epoch": 1,
       "claimed_at": "2026-10-15T10:50:24Z",
       "heartbeat_at": "2026-10-15T10:50:24Z",
-      "ttl_hours": 48.0,
+      "ttl_hours": 48,
       "expires_at": "2026-10-17T10:50:24Z",
       "label": "claude-b"
     },
@@ -43,6 +43,27 @@
       "ttl_hours": 48,
       "expires_at": "2026-10-17T05:18:51Z",
       "label": "claude"
+    },
+    "W1": {
+      "ids": [
+        "BLG-03689",
+        "BLG-03690",
+        "BLG-03691",
+        "BLG-03692",
+        "BLG-03693",
+        "BLG-03694",
+        "BLG-03695",
+        "BLG-03696",
+        "BLG-03697",
+        "BLG-03698"
+      ],
+      "session": "s-mistral-w1",
+      "epoch": 1,
+      "claimed_at": "2026-10-15T10:57:21Z",
+      "heartbeat_at": "2026-10-15T10:57:21Z",
+      "ttl_hours": 12,
+      "expires_at": "2026-10-15T22:57:21Z",
+      "label": "mistral"
     }
   }
 }
