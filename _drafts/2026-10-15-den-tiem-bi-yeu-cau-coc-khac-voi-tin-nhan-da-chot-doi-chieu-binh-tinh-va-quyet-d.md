@@ -35,7 +35,7 @@ Nếu sau khi đối chiếu, tiệm vẫn giữ yêu cầu mới, hãy đặt b
 - Khoản chênh so với tin nhắn cũ được bù lại bằng gì: giá thuê giảm, thời gian trả xe dài hơn, hay thêm dịch vụ?
 - Nếu tôi không chấp nhận điều kiện mới, tôi được nhận lại toàn bộ những gì đã chuyển trước không?
 
-Câu trả lời cho biết bạn đang thương lượng hay đang bị đẩy vào thế phải nhận. Một tiệm tử tế sẽ giải thích được lý do và sẵn sàng bù trừ; một tiệm chỉ muốn bạn chịu thêm thì sẽ quanh co, đổ lỗi vagues, hoặc gấp gáp "thuê thì thuê, không thì thôi".
+Câu trả lời cho biết bạn đang thương lượng hay đang bị đẩy vào thế phải nhận. Một tiệm tử tế sẽ giải thích được lý do và sẵn sàng bù trừ; một tiệm chỉ muốn bạn chịu thêm thì sẽ quanh co, đổ lỗi mơ hồ, hoặc gấp gáp "thuê thì thuê, không thì thôi".
 
 ## Bước 3: Quyết định tại chỗ theo ba tiêu chí
 
