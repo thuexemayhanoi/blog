@@ -3,13 +3,13 @@ date: 2026-10-15 09:00:00 +0700
 layout: post
 title: "Học khóa tiếng Việt ngắn hạn ở Hà Nội: người nước ngoài thuê xe máy theo tuần đi học, gửi xe và tập hỏi đường"
 author: "Nguyễn Tú"
-description: "Người nước ngoài học khóa tiếng Việt ngắn hạn ở Hà Nội thuê xe máy theo tuần: tuyến đi học buổi sáng, chỗ gửi xe ở trường và câu tiếng Việt dùng khi hỏi đường, đổ xăng."
+description: "Người nước ngoài thuê xe máy đi học tiếng Việt theo tuần ở Hà Nội: tuyến đi học buổi sáng, chỗ gửi xe ở trường và câu tiếng Việt dùng khi hỏi đường, đổ xăng."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thuê xe máy đi học tiếng việt, người nước ngoài học tiếng việt ở hà nội, khóa tiếng việt ngắn hạn đi lại bằng xe máy, thuê xe máy Hà Nội]
 permalink: /thue-xe/2026/10/15/hoc-khoa-tieng-viet-ngan-han-o-ha-noi-nguoi-nuoc-ngoai-thue-xe-may-theo-tuan-di/
 parent_id: P-THUE-XE
-child_id: undefined
+child_id: C-THUE-TUAN
 article_id: BLG-03650
 writer: W1
 writer_session: s-mistral-w1

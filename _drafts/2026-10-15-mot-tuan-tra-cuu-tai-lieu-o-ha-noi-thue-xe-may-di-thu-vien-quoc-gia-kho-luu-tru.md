@@ -3,13 +3,13 @@ date: 2026-10-15 09:00:00 +0700
 layout: post
 title: "Một tuần tra cứu tài liệu ở Hà Nội: thuê xe máy đi Thư viện Quốc gia, kho lưu trữ và các viện nghiên cứu"
 author: "Nguyễn Tú"
-description: "Một tuần tra cứu tài liệu ở Hà Nội với xe máy thuê: xếp lịch đi Thư viện Quốc gia và các kho lưu trữ theo giờ mở cửa, theo khu vực và giữ tài liệu khô ráo giữa chặng."
+description: "Một tuần tra cứu tài liệu ở Hà Nội: thuê xe máy đi thư viện tra cứu, xếp lịch Thư viện Quốc gia và kho lưu trữ theo giờ mở cửa, giữ tài liệu khô ráo giữa chặng."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [thuê xe máy đi thư viện tra cứu, đi thư viện quốc gia bằng xe máy, tra cứu tài liệu ở hà nội một tuần, thuê xe máy Hà Nội]
 permalink: /thue-xe/2026/10/15/mot-tuan-tra-cuu-tai-lieu-o-ha-noi-thue-xe-may-di-thu-vien-quoc-gia-kho-luu-tru/
 parent_id: P-THUE-XE
-child_id: undefined
+child_id: C-THUE-TUAN
 article_id: BLG-03656
 writer: W1
 writer_session: s-mistral-w1

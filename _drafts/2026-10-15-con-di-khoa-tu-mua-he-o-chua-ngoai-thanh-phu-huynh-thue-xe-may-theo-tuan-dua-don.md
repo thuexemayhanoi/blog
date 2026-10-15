@@ -3,13 +3,13 @@ date: 2026-10-15 09:00:00 +0700
 layout: post
 title: "Con đi khóa tu mùa hè ở chùa ngoại thành: phụ huynh thuê xe máy theo tuần đưa đón, thăm con và chở đồ"
 author: "Nguyễn Tú"
-description: "Phụ huynh thuê xe máy theo tuần đưa con đi khóa tu mùa hè ở chùa ngoại thành Hà Nội: ngày đưa, ngày đón, giờ thăm theo quy định chùa và cách chở đồ dùng cho con."
+description: "Phụ huynh thuê xe máy theo tuần đưa con đi khóa tu mùa hè ở chùa ngoại thành Hà Nội: ngày đưa đón, giờ thăm theo quy định chùa và chở đồ dùng cho con."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [đưa con đi khóa tu mùa hè, thuê xe máy đưa đón khóa tu, khóa tu mùa hè ngoại thành hà nội, thuê xe máy Hà Nội]
 permalink: /thue-xe/2026/10/15/con-di-khoa-tu-mua-he-o-chua-ngoai-thanh-phu-huynh-thue-xe-may-theo-tuan-dua-don/
 parent_id: P-THUE-XE
-child_id: undefined
+child_id: C-THUE-TUAN
 article_id: BLG-03658
 writer: W1
 writer_session: s-mistral-w1
