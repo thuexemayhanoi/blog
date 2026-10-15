@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-030: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-001",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Tiêu Dao ở thôn Giang Cao: ngôi chùa ốp gốm cạnh Bát Tràng và cách đi xe máy từ Long Biên",
+   "intent": "Biết cách tìm đường bằng xe máy từ Long Biên tới chùa Tiêu Dao ở Giang Cao, nhận ra các chi tiết gốm đặc trưng của chùa và ứng xử đúng mực khi vào lễ",
+   "kw": "chùa tiêu dao giang cao",
+   "kw2": [
+    "chùa gốm sứ bát tràng",
+    "chùa tiêu dao gia lâm"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "khách du lịch thích kiến trúc tâm linh và đồ gốm",
+   "location_scope": "Giang Cao, Bát Tràng, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-002",
+   "child_id": "C-LONG-BIEN",
+   "title": "Nghề thuốc Bắc ở Ninh Hiệp: tìm đình thờ tổ nghề và các hiệu thuốc cũ trong làng bằng xe máy",
+   "intent": "Hiểu lịch sử nghề thuốc Bắc của làng Nành ở Ninh Hiệp và lên lộ trình xe máy ghé đình thờ tổ nghề, các hiệu thuốc còn lại mà không bị cuốn vào khu chợ vải đông đúc",
+   "kw": "làng thuốc bắc ninh hiệp",
+   "kw2": [
+    "nghề thuốc bắc làng nành",
+    "đình thờ tổ nghề thuốc ninh hiệp"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích tìm hiểu làng nghề truyền thống",
+   "location_scope": "Ninh Hiệp, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-003",
+   "child_id": "C-LONG-BIEN",
+   "title": "Lễ hội làng Lệ Mật tháng Ba âm lịch: xem rước nước, múa rắn và gửi xe máy quanh đình",
+   "intent": "Lên kế hoạch đi xem lễ hội làng Lệ Mật dịp tháng Ba âm lịch bằng xe máy, nắm các nghi thức chính như rước nước, múa rắn và chọn chỗ gửi xe khi làng đông khách",
+   "kw": "lễ hội làng lệ mật",
+   "kw2": [
+    "hội lệ mật tháng ba",
+    "múa rắn lệ mật"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích lễ hội truyền thống ở Hà Nội",
+   "location_scope": "Lệ Mật, Việt Hưng, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-004",
+   "child_id": "C-LONG-BIEN",
+   "title": "Cụm đình chùa Trường Lâm ở Việt Hưng: tìm lối vào bằng xe máy và hiểu tục thờ Linh Lang",
+   "intent": "Biết cách đi xe máy vào cụm đình chùa Trường Lâm nằm giữa khu dân cư Việt Hưng, hiểu vì sao Long Biên có nhiều nơi thờ Linh Lang Đại vương và dịp nào có hội làng",
+   "kw": "đình chùa trường lâm việt hưng",
+   "kw2": [
+    "đình trường lâm long biên",
+    "thờ linh lang đại vương long biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người tìm hiểu di tích làng cổ giữa phố",
+   "location_scope": "Trường Lâm, Việt Hưng, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-005",
+   "child_id": "C-LONG-BIEN",
+   "title": "Làng hoa Xuân Quan ở Văn Giang: từ Long Biên chạy xe máy qua đê sông Hồng xem vườn hoa chậu",
+   "intent": "Lên kế hoạch chuyến xe máy nửa ngày từ Long Biên tới làng hoa Xuân Quan, chọn mùa hoa đẹp, đi đường đê an toàn và chở vài chậu hoa nhỏ về cho gọn",
+   "kw": "làng hoa xuân quan văn giang",
+   "kw2": [
+    "đi xuân quan bằng xe máy",
+    "làng hoa gần ecopark"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người yêu hoa và gia đình đi chơi cuối tuần",
+   "location_scope": "Long Biên, Gia Lâm, Văn Giang (Hưng Yên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-006",
+   "child_id": "C-LONG-BIEN",
+   "title": "Khu Cầu Chui ở Long Biên: chọn làn xe máy qua nút giao Nguyễn Văn Cừ, Ngô Gia Tự, Nguyễn Văn Linh",
+   "intent": "Nắm cách đọc hướng và chọn làn xe máy tại khu Cầu Chui, nơi Nguyễn Văn Cừ, Ngô Gia Tự và Nguyễn Văn Linh gặp nhau quanh cầu vượt thép, để rẽ đúng mà không phải quay đầu",
+   "kw": "cầu chui long biên xe máy",
+   "kw2": [
+    "nút giao cầu chui gia lâm",
+    "cầu vượt thép long biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người mới đi xe máy ở Long Biên",
+   "location_scope": "Cầu Chui, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-007",
+   "child_id": "C-LONG-BIEN",
+   "title": "Nhà máy Xe lửa Gia Lâm hơn trăm năm: đi xe máy ngang phố Ngọc Lâm và dịp được vào bên trong",
+   "intent": "Hiểu giá trị di sản công nghiệp của Nhà máy Xe lửa Gia Lâm từ năm 1905, biết nên ngắm từ bên ngoài ở đâu và theo dõi các dịp mở cửa sự kiện để vào tham quan",
+   "kw": "nhà máy xe lửa gia lâm",
+   "kw2": [
+    "di sản công nghiệp long biên",
+    "nhà máy xe lửa gia lâm tham quan"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích lịch sử, kiến trúc và chụp ảnh",
+   "location_scope": "Ngọc Lâm, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-008",
+   "child_id": "C-LONG-BIEN",
+   "title": "Khu ăn uống quanh Học viện Nông nghiệp ở Trâu Quỳ: chạy xe máy từ Long Biên và đỗ xe trong ngõ chợ",
+   "intent": "Biết cách tìm khu quán ăn sinh viên quanh Học viện Nông nghiệp Việt Nam ở Trâu Quỳ bằng xe máy, chọn giờ bớt đông và dừng đỗ gọn gàng trong các ngõ chợ hẹp",
+   "kw": "quán ăn gần học viện nông nghiệp",
+   "kw2": [
+    "ăn uống trâu quỳ",
+    "chợ sinh viên trâu quỳ"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "sinh viên, phụ huynh và khách lưu trú ở Gia Lâm",
+   "location_scope": "Trâu Quỳ, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-009",
+   "child_id": "C-LONG-BIEN",
+   "title": "Một ngày làng nghề Gia Lâm bằng xe máy: nối Bát Tràng, Kim Lan và Kiêu Kỵ thành một vòng không quay lại",
+   "intent": "Lên kế hoạch một ngày đi ba làng nghề Bát Tràng, Kim Lan và Kiêu Kỵ bằng xe máy theo vòng hợp lý, chia giờ cho từng làng và về Long Biên trước giờ tan tầm",
+   "kw": "một ngày làng nghề gia lâm",
+   "kw2": [
+    "lịch trình bát tràng kim lan kiêu kỵ",
+    "vòng làng nghề gia lâm xe máy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "khách du lịch có một ngày trống ở Hà Nội",
+   "location_scope": "Bát Tràng, Kim Lan, Kiêu Kỵ, Gia Lâm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-010",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Kiến Sơ cạnh đền Phù Đổng: nơi khởi đầu thiền phái Vô Ngôn Thông và cách ghé bằng xe máy",
+   "intent": "Hiểu vị trí của chùa Kiến Sơ trong lịch sử Phật giáo Việt Nam và biết cách đi xe máy tới, gửi xe, kết hợp viếng chùa với khu di tích Phù Đổng trong cùng một buổi",
+   "kw": "chùa kiến sơ phù đổng",
+   "kw2": [
+    "thiền phái vô ngôn thông",
+    "chùa kiến sơ gia lâm"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "Phật tử và người thích di tích cổ",
+   "location_scope": "Phù Đổng, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-011",
+   "child_id": "C-LONG-BIEN",
+   "title": "Làng đồ gỗ Đồng Kỵ ở Từ Sơn: từ Long Biên qua cầu Đuống bằng xe máy xem xưởng gỗ mỹ nghệ",
+   "intent": "Lên kế hoạch chuyến xe máy từ Long Biên lên làng Đồng Kỵ, biết đường qua cầu Đuống, cách vào xem xưởng gỗ mỹ nghệ và đi lại an toàn giữa các xe chở gỗ",
+   "kw": "làng đồ gỗ đồng kỵ",
+   "kw2": [
+    "đi đồng kỵ bằng xe máy",
+    "xưởng gỗ mỹ nghệ từ sơn"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "khách thích làng nghề và người đi xem đồ gỗ",
+   "location_scope": "Long Biên, cầu Đuống, Từ Sơn (Bắc Ninh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-012",
+   "child_id": "C-LONG-BIEN",
+   "title": "Lăng và đền Kinh Dương Vương ở Thuận Thành: chạy xe máy từ Long Biên và mùa lễ hội tháng Giêng",
+   "intent": "Biết cách đi xe máy từ Long Biên tới khu lăng đền Kinh Dương Vương ở thôn Á Lữ, hiểu ý nghĩa di tích và chọn thời điểm đi tránh đông dịp lễ hội tháng Giêng",
+   "kw": "lăng kinh dương vương thuận thành",
+   "kw2": [
+    "đền kinh dương vương bắc ninh",
+    "lễ hội kinh dương vương"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người tìm hiểu cội nguồn lịch sử và đi lễ đầu năm",
+   "location_scope": "Long Biên, Á Lữ, Thuận Thành (Bắc Ninh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-013",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đình Bát Tràng, Văn Chỉ và nhà cổ trong làng: góc di sản ít người ghé khi đi xe máy tới làng gốm",
+   "intent": "Biết cách gửi xe rồi đi bộ khám phá đình Bát Tràng, Văn Chỉ và các ngõ nhà cổ xây gạch Bát Tràng, hiểu truyền thống khoa bảng của làng bên cạnh nghề gốm",
+   "kw": "đình bát tràng văn chỉ",
+   "kw2": [
+    "nhà cổ bát tràng",
+    "ngõ cổ làng bát tràng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "khách du lịch thích văn hóa làng cổ",
+   "location_scope": "Bát Tràng, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-014",
+   "child_id": "C-LONG-BIEN",
+   "title": "Cầu Đông Trù qua sông Đuống: chạy xe máy từ Long Biên sang Đông Anh và lưu ý khi ngắm cầu vòm",
+   "intent": "Nắm lộ trình xe máy từ Long Biên qua cầu Đông Trù sang Đông Anh, đi đúng làn dành cho xe máy và biết chỗ dừng ngắm cầu vòm thép an toàn thay vì đỗ trên cầu",
+   "kw": "cầu đông trù xe máy",
+   "kw2": [
+    "qua cầu đông trù sang đông anh",
+    "ngắm cầu vòm đông trù"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích chạy xe ngắm cầu và người đi sang Đông Anh",
+   "location_scope": "Ngọc Thụy, Long Biên, Đông Anh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-015",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Thái Lạc ở Văn Lâm: xem chạm khắc gỗ thời Trần, đi xe máy từ Long Biên theo quốc lộ 5",
+   "intent": "Lên kế hoạch đi xe máy từ Long Biên theo quốc lộ 5 tới chùa Thái Lạc, biết những mảng chạm khắc gỗ thời Trần nằm ở đâu và ứng xử đúng mực tại di tích",
+   "kw": "chùa thái lạc văn lâm",
+   "kw2": [
+    "chạm khắc gỗ thời trần",
+    "chùa pháp vân hưng yên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người yêu mỹ thuật cổ và di tích",
+   "location_scope": "Long Biên, quốc lộ 5, Văn Lâm (Hưng Yên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-016",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Tiêu ở Từ Sơn gắn với thiền sư Vạn Hạnh: chạy xe máy từ Long Biên và đi bộ lên núi Tiêu",
+   "intent": "Biết cách đi xe máy từ Long Biên lên chùa Tiêu, gửi xe dưới chân núi, đi bộ lên chùa và hiểu mối liên hệ của chùa với thiền sư Vạn Hạnh và Lý Công Uẩn",
+   "kw": "chùa tiêu từ sơn",
+   "kw2": [
+    "chùa tiêu bắc ninh xe máy",
+    "thiền sư vạn hạnh chùa tiêu"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người đi lễ và người thích lịch sử nhà Lý",
+   "location_scope": "Long Biên, Tam Sơn, Từ Sơn (Bắc Ninh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-017",
+   "child_id": "C-LONG-BIEN",
+   "title": "Công viên Long Biên quanh hồ Kim Quan: đi xe máy tới, chọn cổng gửi xe và dạo hồ buổi chiều",
+   "intent": "Biết cách đến công viên Long Biên ở nút giao Đoàn Khuê và Vạn Hạnh bằng xe máy, chọn cổng và chỗ gửi xe, rồi dạo quanh hồ Kim Quan vào khung giờ mát",
+   "kw": "công viên long biên hồ kim quan",
+   "kw2": [
+    "hồ kim quan long biên",
+    "công viên long biên gửi xe"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "gia đình và người ở Long Biên cần chỗ dạo mát",
+   "location_scope": "Việt Hưng, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-018",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Ngọc Lâm trên đường Nguyễn Văn Cừ: ghé lễ bằng xe máy và dừng đỗ cạnh trục đường đông",
+   "intent": "Biết cách ghé chùa Ngọc Lâm, tức Linh Quang tự, trên đường Nguyễn Văn Cừ bằng xe máy, chọn hướng đi để vào cổng thuận, gửi xe và hiểu lối kiến trúc tiền Thần hậu Phật",
+   "kw": "chùa ngọc lâm long biên",
+   "kw2": [
+    "linh quang tự ngọc lâm",
+    "chùa trên đường nguyễn văn cừ"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người đi lễ chùa và khách ở Long Biên",
+   "location_scope": "Ngọc Lâm, Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-019",
+   "child_id": "C-LONG-BIEN",
+   "title": "Cỗ Bát Tràng và món canh măng mực: đặt bữa trưa trong làng gốm khi đi xe máy từ Long Biên",
+   "intent": "Hiểu nét riêng của mâm cỗ Bát Tràng với canh măng mực, biết cách hỏi đặt bữa trưa trước, xếp giờ ăn giữa buổi tham quan và chỗ để xe khi dùng bữa",
+   "kw": "cỗ bát tràng canh măng mực",
+   "kw2": [
+    "ăn trưa ở bát tràng",
+    "đặc sản làng bát tràng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "khách du lịch thích ẩm thực truyền thống",
+   "location_scope": "Bát Tràng, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-020",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đình Đình Bảng ở Từ Sơn: ngắm ngôi đình gỗ lim cổ, đi xe máy từ Long Biên và chỗ gửi xe",
+   "intent": "Lên kế hoạch ghé đình Đình Bảng bằng xe máy từ Long Biên, biết những mảng chạm khắc nên xem, chỗ gửi xe và cách kết hợp với khu Đền Đô ở gần đó",
+   "kw": "đình đình bảng từ sơn",
+   "kw2": [
+    "đình làng đình bảng",
+    "đình gỗ lim bắc ninh"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích kiến trúc đình làng Bắc Bộ",
+   "location_scope": "Long Biên, Đình Bảng, Từ Sơn (Bắc Ninh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-021",
+   "child_id": "C-LONG-BIEN",
+   "title": "Cụm đình chùa Thổ Khối ở Cự Khối: chạy xe máy dọc đê tả ngạn tìm di tích làng ven sông Hồng",
+   "intent": "Biết cách tìm đường vào cụm đình chùa Thổ Khối từ đê tả ngạn sông Hồng bằng xe máy, chỗ dừng xe trong làng và những gì nên xem ở di tích làng ven sông",
+   "kw": "đình chùa thổ khối",
+   "kw2": [
+    "đình thổ khối cự khối",
+    "di tích cự khối long biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích khám phá làng cổ ít người biết",
+   "location_scope": "Cự Khối, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-022",
+   "child_id": "C-LONG-BIEN",
+   "title": "Đền Trấn Vũ ở Thạch Bàn: xem pho tượng đồng bảo vật quốc gia và đi xe máy vào làng",
+   "intent": "Biết cách đi xe máy tới đền Trấn Vũ ở Thạch Bàn, gửi xe trong làng và hiểu giá trị pho tượng Huyền Thiên Trấn Vũ bằng đồng đã được công nhận bảo vật quốc gia",
+   "kw": "đền trấn vũ thạch bàn",
+   "kw2": [
+    "tượng huyền thiên trấn vũ thạch bàn",
+    "đền trấn vũ long biên"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích di tích, cổ vật và đi lễ",
+   "location_scope": "Thạch Bàn, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-023",
+   "child_id": "C-LONG-BIEN",
+   "title": "Kéo co ngồi ở lễ hội đền Trấn Vũ đầu tháng Ba âm lịch: đi xe máy xem hội và đứng xem ở đâu",
+   "intent": "Lên kế hoạch xem nghi lễ kéo co ngồi của làng Ngọc Trì tại lễ hội đền Trấn Vũ, hiểu vì sao nghi lễ được UNESCO ghi danh và chọn chỗ đứng, chỗ gửi xe khi đông",
+   "kw": "kéo co ngồi thạch bàn",
+   "kw2": [
+    "lễ hội đền trấn vũ",
+    "kéo co ngồi ngọc trì"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người thích lễ hội và di sản phi vật thể",
+   "location_scope": "Thạch Bàn, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-024",
+   "child_id": "C-LONG-BIEN",
+   "title": "Làng đúc đồng Đại Bái ở Gia Bình: chuyến xe máy trong ngày từ Long Biên xem thợ gò đồng",
+   "intent": "Lên kế hoạch chuyến xe máy trong ngày từ Long Biên tới làng Đại Bái, chọn đường đi, xem thợ gò đúc đồng làm việc và chở đồ đồng nặng về an toàn",
+   "kw": "làng đúc đồng đại bái",
+   "kw2": [
+    "đi đại bái bằng xe máy",
+    "làng gò đồng bắc ninh"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "khách thích làng nghề thủ công",
+   "location_scope": "Long Biên, Gia Bình (Bắc Ninh)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-030-025",
+   "child_id": "C-LONG-BIEN",
+   "title": "Mua bánh phu thê ở Đình Bảng: đi xe máy từ Long Biên, chọn bánh và chở về không bị dập",
+   "intent": "Biết cách đi xe máy từ Long Biên lên Đình Bảng mua bánh phu thê, phân biệt với bánh xu xê, chọn bánh theo cặp và xếp hộp bánh trên xe để không bị dập",
+   "kw": "bánh phu thê đình bảng",
+   "kw2": [
+    "mua bánh phu thê bắc ninh",
+    "đặc sản đình bảng"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-030",
+   "audience": "người mua quà đặc sản và chuẩn bị lễ cưới hỏi",
+   "location_scope": "Long Biên, Đình Bảng, Từ Sơn (Bắc Ninh)",
+   "word_target": 1200
+  }
+ ]
+}
