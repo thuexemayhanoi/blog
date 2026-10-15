@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-14T20:24:07+00:00",
-    "staged_at": "2026-10-15T04:09:19+00:00"
+    "staged_at": "2026-10-15T04:19:47+00:00"
   },
   "candidates": [
     {
@@ -6487,6 +6487,937 @@
       "subtopic": "refill-2026-10-15-W2-005",
       "audience": "người đang so sánh lịch trình chưa chắc thuê",
       "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-001",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga nhả ga vẫn trôi xa: vì sao gần như không có phanh động cơ và cách giảm tốc sớm trong phố",
+      "intent": "Hiểu vì sao xe tay ga nhả ga vẫn trôi xa hơn xe số và biết cách nhả ga sớm, rà phanh, giữ khoảng cách để dừng kịp trong dòng xe đông ở Hà Nội.",
+      "kw": "xe ga không có phanh động cơ",
+      "kw2": [
+        "xe tay ga nhả ga bị trôi",
+        "giảm tốc xe ga trong phố"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người quen xe số mới chuyển sang thuê xe ga",
+      "location_scope": "nội thành Hà Nội, các trục Nguyễn Văn Cừ, Trần Khát Chân, Láng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-002",
+      "child_id": "C-XE-GA",
+      "title": "Hộp số vô cấp CVT trên xe tay ga: vì sao không cần sang số mà xe vẫn tự tăng tốc và leo dốc",
+      "intent": "Hiểu nguyên lý hộp số vô cấp và ly hợp ly tâm trên xe tay ga để vặn ga đúng lúc khi xuất phát, leo dốc cầu và chở nặng mà không làm nóng dàn nồi.",
+      "kw": "hộp số vô cấp xe tay ga",
+      "kw2": [
+        "xe ga cvt là gì",
+        "ly hợp ly tâm xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga muốn hiểu cách xe vận hành",
+      "location_scope": "Hà Nội, dốc cầu Chương Dương, Vĩnh Tuy và phố nội thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-003",
+      "child_id": "C-XE-GA",
+      "title": "Bấm nhầm còi và xi nhan trên xe tay ga lạ tay: làm quen cụm công tắc bên trái trước khi ra phố",
+      "intent": "Biết vị trí và cách bấm còi, xi nhan, tắt xi nhan trên cụm công tắc trái của xe tay ga để ra tín hiệu chuẩn trong khi tay trái vẫn sẵn sàng bóp phanh sau.",
+      "kw": "công tắc tay lái xe ga",
+      "kw2": [
+        "bấm nhầm còi xi nhan xe ga",
+        "tắt xi nhan xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "khách mới nhận xe ga lần đầu, người quen xe đời khác",
+      "location_scope": "Hà Nội, ngã tư đông và phố một chiều quanh Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-004",
+      "child_id": "C-XE-GA",
+      "title": "Vào cua bằng xe tay ga: giữ ga nhẹ qua cua và nghiêng vừa đủ để không cạ chân chống xuống đường",
+      "intent": "Biết cách giảm tốc trước cua, giữ ga đều khi nghiêng xe và hiểu vì sao xe tay ga gầm thấp dễ cạ chân chống giữa ở cua gắt, vòng xuyến và lối lên cầu.",
+      "kw": "xe ga vào cua",
+      "kw2": [
+        "xe tay ga cạ chân chống khi vào cua",
+        "ôm cua xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga đi phố, vòng xuyến và đường ven hồ",
+      "location_scope": "Hà Nội, vòng xuyến, lối lên xuống cầu và đường ven hồ Tây",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-005",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga chạy Đại lộ Thăng Long đi Hòa Lạc: giữ ga đều, chịu gió ngang và đổ xăng trước khi vào",
+      "intent": "Lên kế hoạch chạy xe tay ga trên Đại lộ Thăng Long đi Hòa Lạc: đi đúng phần đường cho xe máy, giữ ga đều trên đoạn thẳng dài, chống gió ngang và canh xăng.",
+      "kw": "xe ga đi đại lộ thăng long",
+      "kw2": [
+        "xe tay ga đi hòa lạc",
+        "chạy xe ga đường thẳng dài"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga đi Hòa Lạc, Thạch Thất trong ngày",
+      "location_scope": "Đại lộ Thăng Long qua Hoài Đức, Quốc Oai, Thạch Thất",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-006",
+      "child_id": "C-XE-GA",
+      "title": "Tư thế ngồi lái xe tay ga: vị trí trên yên, bàn chân trên sàn và khuỷu tay để đỡ mỏi lưng",
+      "intent": "Biết cách ngồi đúng chỗ trên yên, đặt bàn chân trên sàn để chân, giữ khuỷu tay chùng và đổi tư thế hợp lý để lái xe tay ga lâu mà không mỏi lưng, mỏi gối.",
+      "kw": "tư thế lái xe tay ga",
+      "kw2": [
+        "ngồi xe tay ga đúng cách",
+        "đặt chân trên sàn xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga đi làm hằng ngày hoặc đi chơi cả ngày",
+      "location_scope": "Hà Nội, các tuyến đi làm qua cầu và đường vành đai",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-007",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga tắt máy đột ngột khi đang chạy: tấp vào lề, kiểm tra chân chống, xăng và thử đề lại",
+      "intent": "Biết cách xử lý khi xe tay ga đang chạy bỗng tắt máy dù đồng hồ vẫn sáng: tấp lề an toàn, kiểm tra chân chống nghiêng, mức xăng, đề lại đúng cách và báo tiệm.",
+      "kw": "xe ga tắt máy khi đang chạy",
+      "kw2": [
+        "xe tay ga đang chạy bị tắt máy",
+        "xe ga chết máy giữa đường"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga đi trong phố và ra ngoại thành",
+      "location_scope": "Hà Nội, đường đông nội thành và quốc lộ ra ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-008",
+      "child_id": "C-XE-GA",
+      "title": "Vừa vặn ga vừa bóp phanh trên xe tay ga: thói quen làm nóng dàn nồi, mòn má phanh và cách bỏ",
+      "intent": "Hiểu vì sao vừa giữ ga vừa rà phanh trên xe tay ga làm nóng bộ ly hợp, mòn phanh, hao xăng và biết cách tách ga với phanh khi bò chậm hay dừng đèn đỏ.",
+      "kw": "vừa ga vừa phanh xe ga",
+      "kw2": [
+        "rà phanh khi vặn ga xe tay ga",
+        "xe ga giữ phanh khi dừng đèn đỏ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người mới đi xe ga và người hay đi giờ cao điểm",
+      "location_scope": "Hà Nội, nút đèn đỏ đông như Ngã Tư Sở, Kim Liên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-009",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga phun xăng có cần làm nóng máy buổi sáng không: để nổ bao lâu rồi mới chạy",
+      "intent": "Hiểu xe tay ga phun xăng điện tử cần làm nóng máy đến mức nào trong những sáng lạnh ở Hà Nội, vì sao không nên rồ ga lúc máy nguội và nên chạy nhẹ những phút đầu.",
+      "kw": "xe ga có cần làm nóng máy",
+      "kw2": [
+        "làm nóng máy xe tay ga buổi sáng",
+        "để xe ga nổ máy bao lâu"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga đi làm sớm, nhất là mùa đông",
+      "location_scope": "Hà Nội, khu chung cư và nhà trọ vào sáng sớm mùa đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-010",
+      "child_id": "C-XE-GA",
+      "title": "Dắt xe ga khi máy còn nổ, rồ ga lúc dựng chân chống giữa: những lúc xe tự lao đi và cách tránh",
+      "intent": "Nắm những tình huống xe tay ga lao đi khi người lái không ngồi trên xe như dắt xe còn nổ máy hay rồ ga lúc dựng chân chống giữa, và thói quen tắt máy, bóp phanh để tránh.",
+      "kw": "dắt xe ga khi đang nổ máy",
+      "kw2": [
+        "xe ga lao đi khi hạ chân chống",
+        "rồ ga khi dựng chân chống giữa"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người mới đi xe ga, người hay dắt xe vào nhà và hầm gửi",
+      "location_scope": "Hà Nội, ngõ nhỏ, cổng nhà ống và bãi gửi xe",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-011",
+      "child_id": "C-XE-GA",
+      "title": "Mới có bằng lái, trước giờ chỉ đi xe đạp: chuyển sang xe tay ga thuê thế nào cho quen tay",
+      "intent": "Lên kế hoạch chuyển từ xe đạp sang xe tay ga thuê cho người mới có bằng lái: tận dụng khả năng giữ thăng bằng, tập ga và phanh hai tay ở chỗ vắng trước khi ra phố.",
+      "kw": "từ xe đạp chuyển sang xe ga",
+      "kw2": [
+        "biết đi xe đạp có đi được xe ga",
+        "mới có bằng lái tập xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người mới có bằng A1, quen xe đạp, chưa lái xe máy thường xuyên",
+      "location_scope": "Hà Nội, đường rộng vắng ở Long Biên, Gia Lâm",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-012",
+      "child_id": "C-XE-GA",
+      "title": "Thuê xe ga bản smartkey hay bản chìa cơ: chọn theo thói quen đỗ xe, đi mưa và độ hay quên",
+      "intent": "Biết cách chọn giữa xe tay ga dùng khóa thông minh và xe dùng chìa cơ khi thuê, dựa trên nơi thường đỗ xe, thói quen giữ đồ và rủi ro remote hết pin.",
+      "kw": "xe ga smartkey hay chìa cơ",
+      "kw2": [
+        "nên thuê xe ga khóa thông minh không",
+        "xe tay ga chìa cơ hay smartkey"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "khách đang cân nhắc đặt xe ga theo ngày hoặc theo tuần",
+      "location_scope": "Hà Nội, khu phố cổ, chung cư và homestay",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-013",
+      "child_id": "C-XE-GA",
+      "title": "Tắt máy xe ga thả dốc cho đỡ tốn xăng: vì sao không nên làm khi xuống dốc cầu, dốc đèo",
+      "intent": "Hiểu vì sao tắt máy thả trôi xe tay ga khi xuống dốc không tiết kiệm được bao nhiêu mà làm mất khả năng tăng tốc tránh xe, dễ quên mở máy và nguy hiểm trên dốc dài.",
+      "kw": "xe ga tắt máy thả dốc",
+      "kw2": [
+        "tắt máy xuống dốc xe tay ga",
+        "thả dốc tiết kiệm xăng xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga hay tìm cách tiết kiệm xăng",
+      "location_scope": "Hà Nội và vùng lân cận: dốc cầu Nhật Tân, đường lên Ba Vì, Tam Đảo",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-014",
+      "child_id": "C-XE-GA",
+      "title": "Smartkey xe ga nằm trong túi người khác: người ngồi sau xuống xe, nhờ bảo vệ dắt xe thì xử lý sao",
+      "intent": "Hiểu xe tay ga khóa thông minh phản ứng thế nào khi remote rời xe lúc máy đang nổ, và biết cách giữ, giao remote khi chở người hoặc nhờ người trông xe dắt hộ.",
+      "kw": "smartkey xe ga ngoài phạm vi",
+      "kw2": [
+        "remote smartkey rời xe khi đang nổ máy",
+        "giao chìa smartkey cho bảo vệ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga smartkey hay chở bạn, gửi xe ở quán",
+      "location_scope": "Hà Nội, quán ăn, quán cà phê có người trông xe ở phố cổ, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-015",
+      "child_id": "C-XE-GA",
+      "title": "Quen xe máy điện, lần đầu lái xe tay ga chạy xăng: khác ở độ ăn ga, tiếng máy, trọng lượng và đổ xăng",
+      "intent": "Biết những khác biệt khi chuyển từ xe máy điện sang xe tay ga chạy xăng như độ trễ ga, phanh, tiếng máy, trọng lượng và việc đổ xăng để làm quen nhanh, an toàn.",
+      "kw": "từ xe điện chuyển sang xe ga",
+      "kw2": [
+        "quen xe máy điện lái xe ga xăng",
+        "xe máy điện và xe ga khác gì khi lái"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "học sinh, sinh viên quen xe máy điện mới thuê xe ga",
+      "location_scope": "Hà Nội, khu trường học và ký túc xá ở Cầu Giấy, Hai Bà Trưng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-016",
+      "child_id": "C-XE-GA",
+      "title": "Đi giày cao gót, giày đế trơn lái xe tay ga: đặt chân trên sàn, chống chân khi dừng và phanh gấp",
+      "intent": "Biết cách lái xe tay ga an toàn khi đi giày cao gót hoặc giày đế trơn: đặt chân vững trên sàn, chống chân khi dừng đèn đỏ, phanh gấp và lúc nào nên đổi giày.",
+      "kw": "đi giày cao gót lái xe ga",
+      "kw2": [
+        "giày cao gót đi xe tay ga",
+        "chống chân xe ga khi đi giày trơn"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "nữ đi làm văn phòng hoặc đi tiệc bằng xe ga thuê",
+      "location_scope": "Hà Nội, khu văn phòng Cầu Giấy, Đống Đa, Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-017",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga có đẩy nổ được như xe số không: vì sao không được và cách nổ máy khi ắc quy yếu",
+      "intent": "Hiểu vì sao xe tay ga không thể đẩy cho nổ máy như xe số do ly hợp ly tâm, và biết các cách nổ máy thay thế khi ắc quy yếu hoặc củ đề không quay.",
+      "kw": "xe ga có đẩy nổ được không",
+      "kw2": [
+        "đẩy xe ga cho nổ máy",
+        "xe ga ắc quy yếu nổ máy thế nào"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga gặp xe khó nổ giữa đường",
+      "location_scope": "Hà Nội, bãi gửi xe, ngõ nhà trọ và đường ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-018",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga bị đổ rồi không nổ máy được: cảm biến nghiêng ngắt máy và cách khởi động lại",
+      "intent": "Hiểu chức năng cảm biến nghiêng tự ngắt máy trên nhiều xe tay ga phun xăng khi xe đổ, và biết trình tự dựng xe, kiểm tra, tắt rồi bật khóa để nổ máy lại.",
+      "kw": "xe ga bị đổ không nổ máy",
+      "kw2": [
+        "cảm biến nghiêng xe tay ga",
+        "xe ga đổ xong đề không nổ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga lỡ làm đổ xe khi dắt, đỗ hoặc ngã nhẹ",
+      "location_scope": "Hà Nội, bãi gửi xe chật, ngõ dốc và đường trơn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-019",
+      "child_id": "C-XE-GA",
+      "title": "Củ đề ACG trên xe tay ga: vì sao bấm đề gần như không có tiếng và khi nào im lặng mới là lỗi",
+      "intent": "Hiểu cách củ đề ACG trên xe tay ga Honda khởi động êm, không có tiếng rè, để phân biệt đề bình thường với lúc đề thật sự không quay và cần báo tiệm.",
+      "kw": "củ đề acg xe tay ga",
+      "kw2": [
+        "xe ga đề không có tiếng",
+        "đề êm xe tay ga honda"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người quen xe số hoặc xe đời cũ mới thuê xe ga Honda",
+      "location_scope": "Hà Nội, lúc nhận xe ở Long Biên và khi đi trong phố",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-020",
+      "child_id": "C-XE-GA",
+      "title": "Tay nhỏ bóp phanh xe tay ga không tới: cách đặt ngón, kiểm tra hành trình tay phanh và báo tiệm",
+      "intent": "Biết cách bóp phanh xe tay ga hiệu quả khi bàn tay nhỏ, ngón ngắn: đặt ngón đúng chỗ, thử hành trình tay phanh trước khi đi và lúc nào nhờ tiệm chỉnh lại.",
+      "kw": "tay nhỏ bóp phanh xe ga",
+      "kw2": [
+        "bóp phanh xe tay ga không tới",
+        "tay phanh xe ga quá xa"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "nữ giới nhỏ người, người tay nhỏ mới thuê xe ga",
+      "location_scope": "Hà Nội, phố đông và dốc cầu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-021",
+      "child_id": "C-XE-GA",
+      "title": "Tìm xe ga trong bãi gửi lớn bằng nút định vị trên smartkey: dùng ở hầm trung tâm thương mại, bến xe",
+      "intent": "Biết cách dùng nút định vị trên remote smartkey để xe tay ga nháy đèn, phát tiếng bíp giúp tìm xe trong bãi gửi lớn, kèm cách ghi nhớ vị trí đỗ cho chắc.",
+      "kw": "nút định vị smartkey xe ga",
+      "kw2": [
+        "tìm xe ga trong bãi gửi",
+        "smartkey xe ga kêu bíp tìm xe"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga hay đi trung tâm thương mại, bến xe",
+      "location_scope": "AEON Mall Long Biên, bến xe Gia Lâm và các hầm gửi xe nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-022",
+      "child_id": "C-XE-GA",
+      "title": "Thuật ngữ xe tay ga khi thuê và khi báo lỗi cho tiệm: dàn nồi, nhớt láp, CBS, smartkey, idling stop",
+      "intent": "Nắm nghĩa các thuật ngữ thường gặp trên xe tay ga như dàn nồi, dây curoa, nhớt láp, CBS, smartkey, idling stop để hiểu hướng dẫn và mô tả lỗi rõ ràng cho tiệm.",
+      "kw": "thuật ngữ xe tay ga",
+      "kw2": [
+        "dàn nồi xe ga là gì",
+        "nhớt láp là gì"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người lần đầu thuê xe ga, khách ít rành kỹ thuật",
+      "location_scope": "Hà Nội, lúc nhận xe và khi gọi tiệm báo lỗi",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-023",
+      "child_id": "C-XE-GA",
+      "title": "Nắp bình xăng xe ga không mở được ở cây xăng: thử lại chìa, núm khóa thông minh và xử lý nhẹ tay",
+      "intent": "Biết cách xử lý khi nắp bình xăng xe tay ga không bật ra tại cây xăng: kiểm tra thao tác chìa hoặc núm smartkey, ấn nắp đúng chỗ và lúc nào nên gọi tiệm.",
+      "kw": "nắp xăng xe ga không mở được",
+      "kw2": [
+        "xe tay ga kẹt nắp bình xăng",
+        "mở nắp xăng xe ga smartkey"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "người thuê xe ga đổ xăng lần đầu",
+      "location_scope": "cây xăng trong nội thành và ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-003-024",
+      "child_id": "C-XE-GA",
+      "title": "Phòng giật túi, giật điện thoại khi chạy xe ga ở Hà Nội: để đồ ở đâu trên xe và trên người",
+      "intent": "Biết cách để túi xách, điện thoại, ví khi lái xe tay ga ở Hà Nội để giảm rủi ro bị giật đồ: không treo móc trước, cất cốp, đeo túi đúng cách và chọn đường sáng.",
+      "kw": "phòng giật đồ khi đi xe ga",
+      "kw2": [
+        "giật điện thoại khi đi xe máy",
+        "để túi xách trên xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-003",
+      "audience": "khách du lịch và nữ giới đi xe ga buổi tối",
+      "location_scope": "Hà Nội, phố đông và đường vắng buổi tối",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-001",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Bị cửa ô tô bật mở bất ngờ đâm phải khi đang đi xe thuê: xử lý tại chỗ và làm việc với tài xế",
+      "intent": "Biết cách xử lý ngay khi bị cửa ô tô đang đỗ bật mở va phải: kiểm tra thương tích, đưa xe vào lề, chụp ảnh hiện trường, trao đổi với tài xế và báo cửa hàng.",
+      "kw": "bị cửa ô tô mở đâm phải",
+      "kw2": [
+        "va chạm cửa ô tô khi đi xe máy",
+        "tài xế mở cửa ô tô không quan sát"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi trong phố có nhiều ô tô đỗ ven đường",
+      "location_scope": "các phố có ô tô đỗ hai bên ở Hoàn Kiếm, Ba Đình, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-002",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Bị xe phía sau tông vào đuôi khi đang dừng đèn đỏ: kiểm tra người, đèn hậu, biển số rồi báo cửa hàng",
+      "intent": "Nắm trình tự xử lý khi xe thuê bị tông từ phía sau lúc dừng đèn đỏ: tách khỏi luồng xe, kiểm tra cổ và lưng, soát đèn hậu, biển số và ghi thông tin bên gây va chạm.",
+      "kw": "xe máy bị tông đuôi",
+      "kw2": [
+        "bị đâm từ phía sau khi dừng đèn đỏ",
+        "va chạm phía sau xe thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi lại hằng ngày qua các ngã tư đông",
+      "location_scope": "các nút giao đông ở nội thành Hà Nội như Ngã Tư Sở, Kim Liên, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-003",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Lỡ va phải người đi bộ khi đang đi xe thuê: sơ cứu, gọi 115, giữ hiện trường và báo cửa hàng",
+      "intent": "Hiểu trách nhiệm của người điều khiển xe khi va phải người đi bộ theo luật hiện hành và biết các bước sơ cứu, gọi cấp cứu, giữ nguyên hiện trường, hợp tác với công an và báo cửa hàng.",
+      "kw": "xe máy va phải người đi bộ",
+      "kw2": [
+        "đâm vào người đi bộ phải làm gì",
+        "trách nhiệm khi gây tai nạn cho người đi bộ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe tự lái, gồm cả khách du lịch lần đầu chạy ở Hà Nội",
+      "location_scope": "phố cổ, khu chợ và các tuyến phố đông người đi bộ ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-004",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Đâm phải chó hoặc gà chạy ngang đường làng ngoại thành: dừng xe, kiểm tra xe và nói chuyện với chủ",
+      "intent": "Biết cách phản ứng sau khi xe thuê va phải vật nuôi chạy ngang đường làng: dừng an toàn, kiểm tra người và xe, trao đổi bình tĩnh với chủ vật nuôi và báo lại cửa hàng.",
+      "kw": "đâm phải chó khi đi xe máy",
+      "kw2": [
+        "va phải vật nuôi trên đường làng",
+        "xe máy đâm gà chạy ngang"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi chơi vùng ven vào cuối tuần",
+      "location_scope": "đường làng khu vực Gia Lâm, Đông Anh, Sóc Sơn, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-005",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Người ngồi sau bị ngã khỏi xe thuê khi đang chạy: dừng an toàn, kiểm tra chấn thương và gọi trợ giúp",
+      "intent": "Biết cách xử lý khi người ngồi sau ngã khỏi xe: dừng xe không gây va chạm thêm, cảnh báo xe phía sau, đánh giá chấn thương, gọi 115 khi cần và báo cửa hàng.",
+      "kw": "người ngồi sau bị ngã khỏi xe",
+      "kw2": [
+        "người ngồi sau xe máy bị ngã",
+        "ngã khỏi xe máy khi đang chạy"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe chở bạn đồng hành hoặc người thân",
+      "location_scope": "đường nội thành và đường ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-006",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Chân trẻ nhỏ ngồi sau bị kẹp vào nan hoa xe số thuê: dừng ngay, sơ cứu và cách phòng tránh lần sau",
+      "intent": "Biết cách dừng xe và sơ cứu khi chân trẻ ngồi sau bị cuốn vào nan hoa bánh xe số, nhận biết khi nào cần đưa trẻ đến cơ sở y tế và cách phòng tránh lặp lại.",
+      "kw": "trẻ bị kẹp chân vào nan hoa",
+      "kw2": [
+        "kẹp chân vào bánh xe máy",
+        "chở trẻ nhỏ trên xe số an toàn"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "phụ huynh thuê xe số chở con nhỏ",
+      "location_scope": "các tuyến đưa đón con đi học và đi chơi ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-007",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Lỡ quệt xước ô tô đang đỗ khi đi xe thuê trong ngõ hẹp: chờ chủ xe, để lại liên lạc và báo cửa hàng",
+      "intent": "Biết cách xử lý có trách nhiệm khi xe thuê quệt xước ô tô đang đỗ: chụp ảnh vết xước, tìm hoặc chờ chủ xe, để lại thông tin liên lạc và báo cửa hàng trước khi thỏa thuận.",
+      "kw": "quệt xước ô tô đang đỗ",
+      "kw2": [
+        "xe máy làm xước ô tô",
+        "va quẹt ô tô đỗ trong ngõ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe ở khu dân cư nhiều ngõ nhỏ",
+      "location_scope": "ngõ hẹp ở Đống Đa, Thanh Xuân, Cầu Giấy, Hai Bà Trưng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-008",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Phải nằm viện sau va chạm khi đang thuê xe máy: nhờ người thân báo cửa hàng và lo chiếc xe thế nào",
+      "intent": "Lên kế hoạch liên lạc với cửa hàng khi phải điều trị sau va chạm: nhờ người thân thông báo, xác định xe đang ở đâu, sắp xếp đưa xe về và trao đổi về kỳ thuê còn lại.",
+      "kw": "nằm viện khi đang thuê xe máy",
+      "kw2": [
+        "nhờ người thân trả xe thuê",
+        "báo cửa hàng khi bị tai nạn phải nhập viện"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe bị thương phải điều trị và người thân của họ",
+      "location_scope": "các bệnh viện lớn ở Hà Nội như Việt Đức, Bạch Mai, Xanh Pôn",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-009",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm khi đi xe thuê ở Ninh Bình hay Mộc Châu, xa cửa hàng: phối hợp từ xa và đưa xe về Hà Nội",
+      "intent": "Lên kế hoạch xử lý va chạm xảy ra khi đi xe thuê ra tỉnh xa: ghi nhận hiện trường, làm việc với công an địa phương, gửi ảnh cho cửa hàng và thống nhất cách đưa xe về.",
+      "kw": "va chạm xe thuê ở tỉnh xa",
+      "kw2": [
+        "tai nạn xe máy thuê khi đi phượt",
+        "đưa xe máy hỏng về hà nội"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "nhóm bạn và khách du lịch thuê xe đi chuyến xa vài ngày",
+      "location_scope": "Ninh Bình, Mộc Châu và các cung đường xa Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-010",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê bị mất trong bãi trông giữ có vé: giữ vé, đề nghị lập biên bản và trình báo công an",
+      "intent": "Hiểu trách nhiệm của bên trông giữ xe theo Bộ luật Dân sự và biết các bước khi xe thuê mất trong bãi có vé: giữ vé, yêu cầu lập biên bản, trình báo công an và báo cửa hàng.",
+      "kw": "mất xe máy trong bãi trông giữ",
+      "kw2": [
+        "bãi gửi xe làm mất xe",
+        "trách nhiệm bãi giữ xe khi mất xe"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe thường gửi ở bãi trông giữ có thu phí",
+      "location_scope": "bãi trông giữ xe ở chợ, bệnh viện, trung tâm thương mại Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-011",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Ổ khóa xe thuê bị chọc phá nhưng xe vẫn còn: không cố vặn chìa, chụp ảnh và trình báo thế nào",
+      "intent": "Biết cách nhận ra dấu hiệu ổ khóa xe bị kẻ gian chọc phá, lý do không nên cố vặn chìa, cách ghi nhận dấu vết, báo cửa hàng và trình báo công an phường.",
+      "kw": "ổ khóa xe máy bị chọc phá",
+      "kw2": [
+        "xe máy bị phá khóa hụt",
+        "kẻ gian phá ổ khóa từ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đỗ ngoài phố hoặc trước nhà trọ qua đêm",
+      "location_scope": "khu nhà trọ, ngõ phố và chỗ đỗ tự phát ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-012",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Sáng ra xe thuê cạn xăng dù tối qua còn nhiều: nghi bị hút trộm xăng thì kiểm tra và báo gì",
+      "intent": "Biết cách phân biệt xe bị hút trộm xăng với rò rỉ hay đồng hồ báo sai, kiểm tra nắp bình và ống dẫn, đổ xăng an toàn rồi báo cửa hàng và người quản lý chỗ để xe.",
+      "kw": "xe máy bị hút trộm xăng",
+      "kw2": [
+        "sáng ra xe máy hết xăng",
+        "trộm xăng xe máy qua đêm"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe để xe ngoài trời hoặc ở bãi chung qua đêm",
+      "location_scope": "khu nhà trọ, tập thể cũ và bãi xe chung ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-013",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Chuột cắn dây điện xe thuê để qua đêm ở nhà trọ: dấu hiệu nhận biết và cách báo cửa hàng",
+      "intent": "Nắm các dấu hiệu xe bị chuột cắn dây điện như mất đèn, không đề được hay có vụn dây dưới gầm, hiểu vì sao không nên tự nối dây và biết cách báo cửa hàng xử lý.",
+      "kw": "chuột cắn dây điện xe máy",
+      "kw2": [
+        "xe máy bị chuột cắn dây",
+        "chống chuột cắn dây điện xe"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe dài ngày ở nhà trọ, nhà ống",
+      "location_scope": "nhà trọ, nhà ống gần chợ và khu dân cư cũ ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-014",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Chìa khóa xe thuê bị gãy hoặc cong khi đang vặn: giữ nguyên ổ khóa và gọi cửa hàng ra sao",
+      "intent": "Biết cách xử lý khi chìa khóa xe bị gãy hoặc cong trong lúc vặn: không cố lấy mảnh chìa bằng vật nhọn, giữ xe ở chỗ an toàn và mô tả chính xác tình trạng cho cửa hàng.",
+      "kw": "chìa khóa xe máy bị gãy",
+      "kw2": [
+        "gãy chìa trong ổ khóa xe máy",
+        "chìa khóa xe bị cong"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe số và xe ga dùng chìa cơ",
+      "location_scope": "các điểm đỗ xe trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-015",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Chìa khóa xe thuê rơi xuống cống hoặc khe rãnh thoát nước: lấy lên thế nào cho an toàn",
+      "intent": "Biết cách lấy lại chìa khóa rơi xuống cống, rãnh hay khe vỉa hè mà không tự cạy nắp cống nguy hiểm, khi nào nên nhờ người địa phương và khi nào cần gọi cửa hàng.",
+      "kw": "chìa khóa rơi xuống cống",
+      "kw2": [
+        "làm rơi chìa khóa xe xuống rãnh",
+        "lấy chìa khóa rơi khe vỉa hè"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi trong phố và vùng ven",
+      "location_scope": "vỉa hè và rãnh thoát nước ở các phố Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-016",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Dây ga xe thuê bị đứt giữa đường: vặn ga không lên, tấp vào lề và gọi hỗ trợ thế nào",
+      "intent": "Biết nhận ra dây ga bị đứt khi vặn ga mà máy chỉ nổ không tải, đưa xe vào lề an toàn, hiểu vì sao không tự buộc dây tạm và biết cách báo cửa hàng.",
+      "kw": "dây ga xe máy bị đứt",
+      "kw2": [
+        "vặn ga không lên ga",
+        "đứt dây ga giữa đường"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe số và xe ga đi nhiều trong ngày",
+      "location_scope": "đường nội thành và ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-017",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Còi xe thuê tự kêu liên tục không tắt được: tấp vào lề, tắt khóa điện và báo cửa hàng",
+      "intent": "Biết cách xử lý khi còi xe tự kêu liên tục do công tắc kẹt hay chập điện: tấp vào lề, tắt khóa điện, thử công tắc nhẹ nhàng và báo cửa hàng thay vì tự cắt dây.",
+      "kw": "còi xe máy kêu liên tục",
+      "kw2": [
+        "còi xe máy bị kẹt",
+        "công tắc còi xe máy bị chập"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi trong phố đông và khu dân cư",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-018",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Yên xe ga thuê không sập khóa được: giữ đồ trong cốp và đi tiếp an toàn thế nào",
+      "intent": "Hiểu các nguyên nhân thường gặp khiến yên xe ga không sập khóa như vật kẹt hay chốt lệch, biết cách kiểm tra nhẹ, giữ đồ an toàn và báo cửa hàng trước khi đi tiếp.",
+      "kw": "yên xe ga không đóng được",
+      "kw2": [
+        "khóa yên xe ga bị hỏng",
+        "yên xe máy không sập khóa"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê Vision, Air Blade, Click để đi lại hằng ngày",
+      "location_scope": "quán ăn, cây xăng và bãi gửi xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-019",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Nắp bình xăng xe thuê không mở được khi đang ở cây xăng: thử gì trước khi gọi cửa hàng",
+      "intent": "Biết cách mở đúng nắp bình xăng theo từng dòng xe ga và xe số, nhận ra các lỗi thao tác hay gặp, hiểu vì sao không dùng lực bẩy và khi nào nên gọi cửa hàng.",
+      "kw": "nắp bình xăng không mở được",
+      "kw2": [
+        "không mở được nắp xăng xe ga",
+        "kẹt nắp bình xăng xe máy"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người mới thuê xe lần đầu tự đổ xăng",
+      "location_scope": "các cây xăng trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-020",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê để dưới hầm chung cư bị ngập sau mưa lớn: không đề máy, ghi nhận và báo cửa hàng",
+      "intent": "Biết cách xử lý khi xe thuê gửi trong hầm bị nước ngập: không bật khóa hay đề máy, chờ nước rút mới đưa xe ra, chụp ảnh mức ngập và báo cửa hàng cùng ban quản lý.",
+      "kw": "xe máy bị ngập trong hầm",
+      "kw2": [
+        "hầm chung cư ngập xe máy",
+        "xe máy ngập nước khi đang gửi"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe sống ở chung cư có hầm gửi xe",
+      "location_scope": "các khu chung cư có hầm gửi xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-021",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Bị CSGT dừng vì xe thuê hỏng đèn hoặc thiếu gương: trình bày, nhận biên bản và báo cửa hàng",
+      "intent": "Hiểu quy định hiện hành về điều kiện kỹ thuật của xe mô tô khi tham gia giao thông và biết cách trình bày, ký biên bản, báo cửa hàng khi xe thuê hỏng đèn hoặc thiếu gương.",
+      "kw": "xe thuê hỏng đèn bị phạt",
+      "kw2": [
+        "thiếu gương chiếu hậu bị phạt",
+        "lỗi kỹ thuật xe thuê ai chịu"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi lại trong phố và ra ngoại thành",
+      "location_scope": "các tuyến có cảnh sát giao thông tuần tra ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-022",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Sạc dự phòng phồng hoặc bốc khói trong cốp xe thuê để dưới nắng: xử lý an toàn từng bước",
+      "intent": "Biết cách xử lý khi sạc dự phòng trong cốp xe bị phồng, nóng hoặc bốc khói: tắt máy, tránh xa, gọi 114 khi có lửa, chỉ lấy ra khi đã nguội và báo cửa hàng kiểm tra cốp.",
+      "kw": "sạc dự phòng phồng trong cốp xe",
+      "kw2": [
+        "pin dự phòng bốc khói cốp xe máy",
+        "để sạc dự phòng trong cốp xe nóng"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe ga hay để đồ điện tử trong cốp",
+      "location_scope": "bãi đỗ ngoài trời ở Hà Nội vào mùa hè",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-023",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Thanh chắn barrier bãi xe hạ xuống trúng người hoặc xe thuê: ghi nhận và làm việc với ban quản lý",
+      "intent": "Biết cách xử lý khi barrier tự động ở bãi xe chung cư hay tòa nhà hạ trúng người hoặc xe: kiểm tra thương tích, chụp ảnh, đề nghị trích xuất camera và báo ban quản lý.",
+      "kw": "barrier bãi xe hạ trúng xe máy",
+      "kw2": [
+        "bị barrier đập trúng khi ra bãi xe",
+        "thanh chắn bãi gửi xe hạ xuống người"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe gửi ở chung cư, tòa văn phòng, trung tâm thương mại",
+      "location_scope": "bãi xe có barrier tự động ở chung cư và tòa nhà Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-024",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Bị cướp xe thuê bằng vũ lực: ưu tiên an toàn bản thân, ghi nhớ đặc điểm và báo 113",
+      "intent": "Nắm nguyên tắc ưu tiên tính mạng khi bị cướp xe, cách ghi nhớ đặc điểm kẻ cướp và hướng tẩu thoát, gọi 113, trình báo công an rồi báo cửa hàng về chiếc xe bị cướp.",
+      "kw": "bị cướp xe máy",
+      "kw2": [
+        "bị cướp xe máy ban đêm phải làm gì",
+        "trình báo cướp xe thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi về khuya hoặc qua đoạn đường vắng",
+      "location_scope": "đường đê, đoạn ven đô và đường vắng ở Hà Nội về đêm",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-008-025",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Ngã xe vì hố công trình hoặc ổ gà không có rào chắn: ghi nhận hiện trường và phản ánh tới cơ quan quản lý",
+      "intent": "Biết cách ghi nhận hiện trường khi ngã xe vì hố đào hay ổ gà không biển báo, phản ánh tới chính quyền qua kênh chính thức và báo cửa hàng về hư hỏng xe.",
+      "kw": "ngã xe vì hố công trình",
+      "kw2": [
+        "phản ánh ổ gà gây tai nạn",
+        "hố đào không rào chắn gây ngã xe"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-008",
+      "audience": "người thuê xe đi qua các đoạn đường đang thi công",
+      "location_scope": "các tuyến đang thi công, đào đường ở Hà Nội",
       "word_target": 1200
     }
   ],
