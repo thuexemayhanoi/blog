@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T04:50:23+00:00",
-    "staged_at": "2026-10-15T10:10:53+00:00"
+    "staged_at": "2026-10-15T10:36:31+00:00"
   },
   "candidates": [
     {
@@ -8331,6 +8331,956 @@
       "audience": "người muốn xem nhiều làng nghề trong một chuyến",
       "location_scope": "Thường Tín",
       "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-001",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ Linh Đàm lên Cầu Giấy bằng xe máy: đi Nguyễn Xiển – Khuất Duy Tiến hay men Kim Giang, đường Láng",
+      "intent": "Biết cách chọn giữa hai hướng chính từ bán đảo Linh Đàm lên Cầu Giấy theo giờ đi làm, nắm các nút giao dễ ùn và đoạn chạy dưới đường trên cao không được rẽ lên.",
+      "kw": "từ linh đàm lên cầu giấy",
+      "kw2": [
+        "linh đàm đi cầu giấy đường nào",
+        "hoàng mai lên cầu giấy bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người thuê nhà ở Linh Đàm đi làm, đi học phía Cầu Giấy",
+      "location_scope": "Linh Đàm, Định Công, Thanh Xuân, Cầu Giấy",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-002",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi giữa Mỹ Đình và Hà Đông bằng xe máy: rẽ vào Tố Hữu hay chạy tiếp Khuất Duy Tiến xuống Nguyễn Trãi",
+      "intent": "Lên kế hoạch quãng đi lại hằng ngày giữa khu Mỹ Đình và Hà Đông, so sánh trục Tố Hữu với trục Nguyễn Trãi về độ đông, đèn đỏ và chỗ quay đầu.",
+      "kw": "từ mỹ đình về hà đông",
+      "kw2": [
+        "mỹ đình đi hà đông xe máy",
+        "đường từ hà đông lên mỹ đình"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người sống ở Hà Đông làm việc quanh Mỹ Đình, Phạm Hùng",
+      "location_scope": "Mỹ Đình, Mễ Trì, Thanh Xuân, Hà Đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-003",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ Thanh Xuân sang Long Biên bằng xe máy: đi đường dưới Vành đai 2 tới cầu Vĩnh Tuy và chỗ cần vào làn sớm",
+      "intent": "Biết cách đi xuyên thành phố từ Ngã Tư Sở sang bờ Long Biên theo các phố dưới Vành đai 2, không lên nhầm cầu cạn cấm xe máy và vào đúng làn lên cầu Vĩnh Tuy.",
+      "kw": "từ thanh xuân sang long biên",
+      "kw2": [
+        "ngã tư sở đi cầu vĩnh tuy",
+        "thanh xuân qua long biên đường nào"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi làm, thăm người thân từ phía tây nam sang bờ đông sông Hồng",
+      "location_scope": "Thanh Xuân, Đống Đa, Hai Bà Trưng, cầu Vĩnh Tuy, Long Biên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-004",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Trục ven đê Trần Nhật Duật – Trần Quang Khải – Trần Khánh Dư: đi vòng ngoài phố cổ bằng xe máy cho đỡ kẹt",
+      "intent": "Biết cách dùng trục đường ven đê phía đông để đi từ khu chợ Long Biên xuống Lương Yên mà không phải len vào phố cổ, nắm chỗ rẽ vào trung tâm và đoạn hay ùn.",
+      "kw": "đường trần quang khải trần khánh dư",
+      "kw2": [
+        "đi vòng phố cổ bằng xe máy",
+        "đường ven đê trần nhật duật"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người cần đi ngang qua khu Hoàn Kiếm vào giờ cao điểm",
+      "location_scope": "Trần Nhật Duật, Trần Quang Khải, Trần Khánh Dư, Hoàn Kiếm, Hai Bà Trưng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-005",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi lại trong khu Trung Hòa – Nhân Chính bằng xe máy: Hoàng Đạo Thúy, Lê Văn Lương và Trần Duy Hưng giờ tan tầm",
+      "intent": "Nắm mạng phố bên trong khu chung cư Trung Hòa – Nhân Chính để ra vào các trục lớn đúng chỗ, tránh nút đông giờ tan tầm và biết lối nối giữa các cụm tòa nhà.",
+      "kw": "khu trung hòa nhân chính xe máy",
+      "kw2": [
+        "đường hoàng đạo thúy",
+        "trần duy hưng giờ tan tầm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người mới thuê căn hộ hoặc mới đến làm việc ở khu Trung Hòa – Nhân Chính",
+      "location_scope": "Trung Hòa, Nhân Chính, Cầu Giấy, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-006",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Từ Hà Đông sang Linh Đàm bằng xe máy: cắt ngang phía nam qua Nguyễn Xiển hay vòng qua Tân Triều",
+      "intent": "Lên kế hoạch đi ngang giữa Hà Đông và khu Linh Đàm – Định Công, biết các hướng nối phía nam thành phố, đoạn đường hẹp và những nút giao hay ùn vào chiều tối.",
+      "kw": "từ hà đông sang linh đàm",
+      "kw2": [
+        "hà đông đi linh đàm đường nào",
+        "đường tân triều đi linh đàm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người sống ở Hà Đông có việc thường xuyên ở Hoàng Mai",
+      "location_scope": "Hà Đông, Tân Triều, Thanh Xuân, Linh Đàm, Định Công",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-007",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Ba hồ từng là một: vòng Thiền Quang, Bảy Mẫu và Ba Mẫu bằng xe máy quanh Lê Duẩn, Trần Nhân Tông",
+      "intent": "Hiểu chuyện ba hồ Thiền Quang, Bảy Mẫu, Ba Mẫu vốn chung một vùng nước và biết cách nối cả ba trong một vòng xe máy buổi chiều, dừng xe đúng chỗ để dạo bộ.",
+      "kw": "vòng hồ thiền quang ba mẫu",
+      "kw2": [
+        "hồ ba mẫu đi xe máy",
+        "hồ bảy mẫu công viên thống nhất"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người thích dạo hồ buổi chiều, khách tìm góc yên tĩnh gần trung tâm",
+      "location_scope": "Hai Bà Trưng, Đống Đa: Trần Nhân Tông, Lê Duẩn, Xã Đàn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-008",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi sự kiện ở Trung tâm Hội nghị Quốc gia bằng xe máy: hướng vào từ Phạm Hùng, Mễ Trì và đường về lúc tan",
+      "intent": "Biết cách tới Trung tâm Hội nghị Quốc gia dự hội thảo, biểu diễn hay triển lãm bằng xe máy, chọn hướng tiếp cận ít ùn và rời khu vực khi đông người cùng ra về.",
+      "kw": "đi trung tâm hội nghị quốc gia",
+      "kw2": [
+        "sự kiện trung tâm hội nghị quốc gia",
+        "đường vào hội nghị quốc gia mễ trì"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi dự hội thảo, biểu diễn, triển lãm ở Mễ Trì",
+      "location_scope": "Mễ Trì, Phạm Hùng, Nam Từ Liêm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-009",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi AEON Mall Hà Đông bằng xe máy từ trung tâm: theo Tố Hữu, rẽ Ngô Thì Nhậm hay vào từ Lê Trọng Tấn",
+      "intent": "Biết cách đi từ nội thành tới AEON Mall Hà Đông ở Dương Nội, chọn hướng theo điểm xuất phát, nhận lối vào khu gửi xe máy và đường về lúc tối cuối tuần.",
+      "kw": "đi aeon mall hà đông",
+      "kw2": [
+        "aeon hà đông đi đường nào",
+        "aeon mall hà đông gửi xe máy"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "gia đình ở nội thành đi mua sắm, vui chơi cuối tuần",
+      "location_scope": "Tố Hữu, Dương Nội, Hà Đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-010",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Theo dấu 12 ngày đêm năm 1972 bằng xe máy: Bảo tàng Chiến thắng B-52, hồ Hữu Tiệp và đài tưởng niệm Khâm Thiên",
+      "intent": "Lên kế hoạch một buổi xe máy nối các dấu tích trận Điện Biên Phủ trên không trong nội thành theo thứ tự hợp lý, biết chỗ dừng xe và cách cư xử ở nơi tưởng niệm.",
+      "kw": "dấu tích 12 ngày đêm hà nội",
+      "kw2": [
+        "điện biên phủ trên không hà nội đi đâu",
+        "hồ hữu tiệp và bảo tàng b52"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người yêu lịch sử, khách muốn đi theo một chủ đề trong nửa ngày",
+      "location_scope": "Ba Đình, Đống Đa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-011",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Dạo Hà Nội ngày Tết bằng xe máy: cung phố vắng sáng mùng 2, mùng 3 qua Hồ Gươm, Ba Đình và Hồ Tây",
+      "intent": "Lên kế hoạch một vòng dạo phố những ngày đầu năm âm lịch khi đường vắng, biết nơi vẫn đông khách lễ, giờ đẹp để chụp ảnh và cách tìm chỗ gửi xe còn nhận.",
+      "kw": "dạo phố hà nội ngày tết",
+      "kw2": [
+        "hà nội ngày tết đi đâu bằng xe máy",
+        "đường phố hà nội vắng dịp tết"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người ở lại Hà Nội dịp Tết, khách du lịch đến đúng Tết",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-012",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Theo dấu mùa thu năm 1945 bằng xe máy: Nhà hát Lớn, Bắc Bộ phủ, nhà 48 Hàng Ngang và Quảng trường Ba Đình",
+      "intent": "Hiểu trình tự các sự kiện Cách mạng tháng Tám ở Hà Nội qua những địa điểm còn lại và biết cách nối chúng thành một cung xe máy nửa ngày đi đúng chiều phố.",
+      "kw": "dấu tích cách mạng tháng tám",
+      "kw2": [
+        "nhà 48 hàng ngang đi xe máy",
+        "bắc bộ phủ ngô quyền"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "học sinh, người yêu lịch sử, khách dịp Quốc khánh",
+      "location_scope": "Hoàn Kiếm, Ba Đình",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-013",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Năm làng Mọc giữa phố Thanh Xuân bằng xe máy: Quan Nhân, Giáp Nhất, Chính Kinh và những ngõ làng còn lại",
+      "intent": "Hiểu vùng Kẻ Mọc xưa gồm những làng nào và biết cách đi xe máy tìm đình, cổng làng còn sót giữa khu đô thị mới, dừng xe ở ngõ hẹp không làm phiền người dân.",
+      "kw": "làng mọc thanh xuân",
+      "kw2": [
+        "kẻ mọc nhân chính",
+        "đình quan nhân thanh xuân"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người thích tìm hiểu làng cổ trong lòng phố",
+      "location_scope": "Nhân Chính, Thanh Xuân, Trung Văn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-014",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Về khuya từ phố cổ ra Cầu Giấy, Hà Đông bằng xe máy: chọn trục lớn sáng đèn, tránh lối tắt vắng người",
+      "intent": "Biết cách chọn đường về nhà sau 23 giờ từ khu phố cổ ra các khu phía tây, ưu tiên trục đông người, sáng đèn và tránh những đoạn tối, vắng dễ gặp rủi ro.",
+      "kw": "về khuya từ phố cổ",
+      "kw2": [
+        "đi xe máy đêm khuya hà nội đường nào",
+        "đường về cầu giấy ban đêm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi chơi, làm ca tối ở phố cổ rồi về khu phía tây",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Cầu Giấy, Thanh Xuân, Hà Đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-015",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đường Trương Định bằng xe máy: trục dọc từ nút Minh Khai, Đại La xuống Giáp Bát và các đoạn hẹp hay ùn",
+      "intent": "Nắm cách đi trục Trương Định nối khu Minh Khai, Bạch Mai với Tân Mai và Giáp Bát, biết đoạn lòng đường hẹp, giờ hàng quán lấn ra và lối thoát sang Giải Phóng.",
+      "kw": "đường trương định xe máy",
+      "kw2": [
+        "trương định đi giáp bát",
+        "phố trương định giờ cao điểm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người sống ở Hai Bà Trưng, Hoàng Mai đi lại hằng ngày",
+      "location_scope": "Hai Bà Trưng, Hoàng Mai: Trương Định, Tân Mai, Giáp Bát",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-016",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Vòng ba chùa cổ phía tây bằng xe máy trong một buổi sáng: chùa Láng, chùa Hà và chùa Bộc",
+      "intent": "Lên kế hoạch đi lễ hoặc tham quan ba ngôi chùa cổ ở Đống Đa và Cầu Giấy theo thứ tự ít quay đầu, biết giờ đông người và chỗ để xe trước cổng chùa.",
+      "kw": "đi lễ chùa láng chùa hà",
+      "kw2": [
+        "chùa bộc đống đa đi xe máy",
+        "đi chùa cầu giấy đống đa một buổi"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi lễ đầu tháng, khách thích kiến trúc chùa cổ",
+      "location_scope": "Láng, Cầu Giấy, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-017",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi Royal City bằng xe máy từ phố cổ, Cầu Giấy: lối rẽ từ Nguyễn Trãi và đường về tránh nút Ngã Tư Sở",
+      "intent": "Biết cách tới tổ hợp Royal City trên Nguyễn Trãi từ các khu trung tâm, nhận lối rẽ vào hầm xe từ đúng phía đường và chọn đường về ít ùn khi tan tầm.",
+      "kw": "đi royal city bằng xe máy",
+      "kw2": [
+        "royal city nguyễn trãi đi đường nào",
+        "đường về từ royal city"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi mua sắm, vui chơi trong nhà cuối tuần",
+      "location_scope": "Nguyễn Trãi, Thanh Xuân, Ngã Tư Sở",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-018",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Sinh viên Ngoại thương, Ngoại giao đi học bằng xe máy: phố Chùa Láng hẹp, lối vào từ Nguyễn Chí Thanh và Láng",
+      "intent": "Biết cách ra vào phố Chùa Láng giờ vào học buổi sáng, chọn hướng từ Nguyễn Chí Thanh hoặc đường Láng, nắm đoạn tắc trước cổng trường và cách tìm chỗ gửi xe.",
+      "kw": "phố chùa láng giờ đi học",
+      "kw2": [
+        "sinh viên ngoại thương đi xe máy",
+        "phố chùa láng tắc đường"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "sinh viên Đại học Ngoại thương, Học viện Ngoại giao",
+      "location_scope": "phố Chùa Láng, Láng Thượng, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-019",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Sáng khai giảng 5 tháng 9 ở Hà Nội: đường quanh các trường nội thành ùn ra sao và lối đi làm tránh cổng trường",
+      "intent": "Hiểu vì sao buổi sáng khai giảng năm học mới đường quanh trường đông bất thường và lên kế hoạch giờ đi, lối đi thay thế cho người không đưa con đến trường.",
+      "kw": "ngày khai giảng hà nội tắc đường",
+      "kw2": [
+        "sáng 5/9 đường hà nội đông",
+        "tránh cổng trường giờ khai giảng"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi làm sớm, phụ huynh đưa con đi khai giảng",
+      "location_scope": "các phường trung tâm Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-020",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi chợ Nghĩa Tân bằng xe máy: vào từ Tô Hiệu hay Hoàng Quốc Việt, giờ chợ đông và chỗ dừng xe mua nhanh",
+      "intent": "Biết cách tới chợ Nghĩa Tân từ các hướng quanh khu tập thể, chọn lối vào ít chen, giờ chợ đông nên tránh và cách dừng xe mua đồ ăn nhanh không cản lối.",
+      "kw": "đi chợ nghĩa tân bằng xe máy",
+      "kw2": [
+        "chợ nghĩa tân cầu giấy",
+        "đường vào chợ nghĩa tân"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người ở Cầu Giấy, khách tìm đồ ăn quen của khu Nghĩa Tân",
+      "location_scope": "Nghĩa Tân, Tô Hiệu, Hoàng Quốc Việt, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-021",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Đi làm ở khu văn phòng Phạm Hùng bằng xe máy: chọn làn, điểm quay đầu và lối xuống hầm giờ cao điểm",
+      "intent": "Nắm cách đi làm hằng ngày tới các tòa văn phòng dọc Phạm Hùng, chọn làn để rẽ vào đúng tòa, biết chỗ quay đầu hợp lệ và giờ xếp hàng xuống hầm xe.",
+      "kw": "đi làm phạm hùng bằng xe máy",
+      "kw2": [
+        "tòa văn phòng phạm hùng gửi xe",
+        "quay đầu trên đường phạm hùng"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "nhân viên văn phòng mới chuyển tới làm ở khu Mỹ Đình – Phạm Hùng",
+      "location_scope": "Phạm Hùng, Mỹ Đình, Mễ Trì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-022",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Phố Khâm Thiên bằng xe máy: lối ngang từ Lê Duẩn sang Ô Chợ Dừa, đoạn phố hẹp và các ngõ đổ ra đường",
+      "intent": "Biết cách dùng phố Khâm Thiên làm đường ngang giữa Lê Duẩn và Ô Chợ Dừa, lường trước đoạn lòng đường hẹp, người từ ngõ đổ ra và giờ nên chọn đường khác.",
+      "kw": "phố khâm thiên xe máy",
+      "kw2": [
+        "đi từ lê duẩn sang ô chợ dừa",
+        "đường khâm thiên giờ cao điểm"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người đi làm, giao hàng qua khu Đống Đa",
+      "location_scope": "Khâm Thiên, Lê Duẩn, Ô Chợ Dừa, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-023",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Sinh viên trọ ở Cổ Nhuế đi học Mỏ – Địa chất, Học viện Tài chính bằng xe máy: đường Trần Cung và ngõ chợ",
+      "intent": "Nắm các lối đi ngắn giữa xóm trọ Cổ Nhuế, Đức Thắng và hai trường đại học, biết đoạn ngõ chợ chật giờ sáng và hướng ra Phạm Văn Đồng khi cần vào trung tâm.",
+      "kw": "sinh viên trọ cổ nhuế đi học",
+      "kw2": [
+        "đường trần cung cổ nhuế",
+        "từ cổ nhuế ra phạm văn đồng"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "sinh viên Đại học Mỏ – Địa chất, Học viện Tài chính thuê trọ",
+      "location_scope": "Cổ Nhuế, Đức Thắng, Bắc Từ Liêm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-024",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Vòng tượng đài giữa phố bằng xe máy: Lý Thái Tổ, Quyết tử để Tổ quốc quyết sinh và Lê Nin trong một buổi chiều",
+      "intent": "Hiểu ý nghĩa ba tượng đài lớn ở trung tâm và lên kế hoạch nối chúng thành một vòng xe máy ngắn quanh Hồ Gươm và Ba Đình, dừng xe chụp ảnh đúng chỗ.",
+      "kw": "các tượng đài ở hà nội",
+      "kw2": [
+        "tượng đài lý thái tổ hồ gươm",
+        "vườn hoa lê nin điện biên phủ"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "khách du lịch, học sinh tìm hiểu lịch sử qua công trình",
+      "location_scope": "Hoàn Kiếm, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-032-025",
+      "child_id": "C-CD-NOI-THANH",
+      "title": "Tìm nhà trong khu tập thể Thanh Xuân Bắc, Thanh Xuân Nam bằng xe máy: đọc số dãy nhà và lối vào từ đường lớn",
+      "intent": "Biết cách đọc cách đánh số dãy nhà trong khu tập thể Thanh Xuân, chọn cổng vào gần nhất từ đường lớn và đi chậm trong lối hẹp khi giao hàng hay thăm người quen.",
+      "kw": "khu tập thể thanh xuân bắc",
+      "kw2": [
+        "tìm nhà tập thể thanh xuân nam",
+        "đánh số nhà khu tập thể hà nội"
+      ],
+      "links": [
+        "/cung-duong/cung-duong-noi-thanh/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-032",
+      "audience": "người giao hàng, khách lần đầu đến thăm người quen",
+      "location_scope": "Thanh Xuân Bắc, Thanh Xuân Nam, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-001",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Mượn xe máy của người quen hay tự thuê xe ở Hà Nội: giấy tờ, trách nhiệm và chi phí thật",
+      "intent": "Hiểu khác biệt giữa mượn xe máy của người quen và tự thuê xe ở cửa hàng về giấy tờ cần mang, trách nhiệm khi va chạm hay hỏng hóc và chi phí thật để chọn cách hợp hoàn cảnh.",
+      "kw": "mượn xe máy hay thuê xe",
+      "kw2": [
+        "mượn xe máy của người quen",
+        "giấy tờ khi mượn xe máy"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người mới lên Hà Nội học tập, làm việc có bạn bè hoặc họ hàng sẵn xe",
+      "location_scope": "các quận nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-002",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Ở nhờ nhà người thân khi về Hà Nội: tự thuê xe máy hay để người nhà đưa đón mỗi ngày",
+      "intent": "Lên kế hoạch đi lại khi ở nhờ người thân tại Hà Nội, cân nhắc tự thuê xe máy hay nhờ người nhà đưa đón theo thời gian, sự chủ động, chỗ để xe và nỗi ngại làm phiền.",
+      "kw": "tự thuê xe hay nhờ người nhà",
+      "kw2": [
+        "ở nhờ nhà người thân ở hà nội",
+        "về hà nội thăm họ hàng đi lại"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "Việt kiều và người ở tỉnh về Hà Nội thăm họ hàng vài ngày đến vài tuần",
+      "location_scope": "nội thành và ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-003",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Ông bà lên Hà Nội trông cháu: thuê xe máy hay xe đạp điện để đưa đón cháu đi học",
+      "intent": "Nắm các tiêu chí giúp ông bà chọn giữa xe máy và xe đạp điện thuê để đưa đón cháu: sức khỏe, tốc độ, quãng đường tới trường, chỗ ngồi cho trẻ, mũ bảo hiểm và giờ tan học đông.",
+      "kw": "ông bà đưa đón cháu đi học",
+      "kw2": [
+        "xe đạp điện hay xe máy cho người già",
+        "thuê xe đưa đón cháu"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "ông bà lớn tuổi từ quê lên Hà Nội trông cháu",
+      "location_scope": "khu dân cư quanh trường mầm non, tiểu học nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-004",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Tham quan Hà Nội bằng xe buýt hai tầng hay thuê xe máy tự lái: chọn cách nào cho chuyến ngắn",
+      "intent": "Lên kế hoạch tham quan trung tâm Hà Nội khi phân vân giữa xe buýt hai tầng chạy tuyến cố định và xe máy tự lái, so chi phí, sự linh hoạt, độ an toàn và số ngày lưu trú.",
+      "kw": "xe buýt hai tầng hay xe máy",
+      "kw2": [
+        "xe buýt hai tầng tham quan hà nội",
+        "tự lái xe máy tham quan hà nội"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch ở Hà Nội một đến hai ngày, lần đầu đến thành phố",
+      "location_scope": "Hoàn Kiếm, Ba Đình, quanh Hồ Gươm và Hồ Tây",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-005",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi làng gốm Bát Tràng nửa ngày: thuê xe máy hay đi xe buýt từ Long Biên và phố cổ",
+      "intent": "Biết cách so sánh xe máy thuê và xe buýt khi đi Bát Tràng nửa ngày, dựa trên thời gian chờ xe, quãng đi bộ trong làng, việc mang đồ gốm về và sự chủ động giờ giấc.",
+      "kw": "đi bát tràng bằng xe buýt",
+      "kw2": [
+        "xe máy đi bát tràng nửa ngày",
+        "tự đi bát tràng"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch và người ở nội thành muốn đi làng gốm",
+      "location_scope": "phố cổ, Long Biên, Gia Lâm, làng Bát Tràng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-006",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Lên Tam Đảo trong ngày: tự lái xe máy thuê hay đi xe khách rồi bắt xe lên thị trấn",
+      "intent": "Lên kế hoạch chuyến Tam Đảo trong ngày bằng cách so tự lái xe máy thuê với đi xe khách kết hợp xe trung chuyển lên núi, xét đèo dốc, sương mù, chi phí và sức người lái.",
+      "kw": "tam đảo xe máy hay xe khách",
+      "kw2": [
+        "tam đảo đi bằng gì",
+        "hà nội đi tam đảo xe khách"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "nhóm bạn trẻ và cặp đôi ở Hà Nội đi chơi cuối tuần",
+      "location_scope": "Hà Nội và thị trấn Tam Đảo",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-007",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Sa Pa từ Hà Nội: chạy xe máy thuê suốt chặng hay đi xe giường nằm rồi thuê xe tại Sa Pa",
+      "intent": "Hiểu ưu nhược điểm giữa tự chạy xe máy thuê từ Hà Nội lên Sa Pa và đi xe giường nằm rồi thuê xe tại chỗ, theo số ngày nghỉ, kinh nghiệm chạy đèo, chi phí và độ mệt.",
+      "kw": "thuê xe máy đi sa pa",
+      "kw2": [
+        "đi sa pa xe giường nằm",
+        "lên sa pa rồi mới thuê xe"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người đi phượt có ba đến năm ngày nghỉ",
+      "location_scope": "Hà Nội, Lào Cai, Sa Pa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-008",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hà Nội đi Hải Phòng: chạy xe máy thuê theo quốc lộ 5 hay đi tàu hỏa rồi di chuyển tại chỗ",
+      "intent": "Nắm cách chọn giữa chạy xe máy thuê theo quốc lộ 5 và đi tàu hỏa khi đến Hải Phòng, so thời gian, độ mệt, rủi ro xe container, chi phí và cách đi lại khi đã tới nơi.",
+      "kw": "đi hải phòng bằng tàu hỏa",
+      "kw2": [
+        "chạy xe máy đi hải phòng",
+        "hà nội đi hải phòng bằng gì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch và người đi công tác ngắn ngày",
+      "location_scope": "Hà Nội, quốc lộ 5, Hải Phòng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-009",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi chùa Hương mùa lễ hội: tự chạy xe máy thuê hay đi xe khách để đỡ cảnh chen chúc gửi xe",
+      "intent": "Lên kế hoạch đi chùa Hương mùa lễ hội bằng cách so tự chạy xe máy thuê với đi xe khách, xét giờ đông, bãi gửi xe gần bến Đục, chi phí và sức khỏe người lớn tuổi.",
+      "kw": "đi chùa hương bằng xe gì",
+      "kw2": [
+        "xe khách đi chùa hương",
+        "tự đi xe máy chùa hương mùa hội"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người đi lễ đầu năm, gia đình có người lớn tuổi",
+      "location_scope": "Hà Nội, Hà Đông, Mỹ Đức, Hương Sơn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-010",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đoàn tám đến mười lăm người đi Ba Vì: thuê nhiều xe máy hay thuê xe du lịch 16 chỗ",
+      "intent": "Biết cách so phương án cả đoàn thuê nhiều xe máy với thuê xe 16 chỗ có tài xế khi đi Ba Vì, theo chi phí chia đầu người, số người biết lái, độ an toàn và lịch trình.",
+      "kw": "thuê xe 16 chỗ hay xe máy",
+      "kw2": [
+        "đi ba vì theo đoàn",
+        "chi phí cả đoàn đi ba vì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "nhóm bạn, đồng nghiệp, lớp học từ tám đến mười lăm người",
+      "location_scope": "Hà Nội và Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-011",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hà Nội – Ninh Bình – Hạ Long trong năm ngày: giữ một xe máy thuê đi suốt hay xe khách nối chặng",
+      "intent": "Lên kế hoạch hành trình nhiều tỉnh từ Hà Nội bằng cách so giữ một xe máy thuê đi suốt với đi xe khách nối chặng rồi thuê xe tại từng điểm, xét quãng đường, hành lý và chi phí.",
+      "kw": "một xe máy đi nhiều tỉnh",
+      "kw2": [
+        "lịch trình hà nội ninh bình hạ long",
+        "xe khách nối chặng thuê xe tại chỗ"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch có bốn đến sáu ngày ở miền Bắc",
+      "location_scope": "Hà Nội, Ninh Bình, Hạ Long",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-012",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Sắp đi xa bằng xe thuê: nhận xe từ chiều hôm trước để chạy quen hay nhận sáng ngày khởi hành",
+      "intent": "Biết cách quyết định có nên nhận xe thuê sớm một buổi trước chuyến đi xa, cân nhắc tiền thuê thêm, thời gian chạy làm quen, kiểm tra xe kỹ và giờ mở cửa của cửa hàng.",
+      "kw": "nhận xe thuê trước một ngày",
+      "kw2": [
+        "nhận xe sớm để chạy quen",
+        "đi xa nên nhận xe lúc nào"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người thuê xe đi Hà Giang, Mai Châu, Ninh Bình muốn xuất phát sớm",
+      "location_scope": "Long Biên và các hướng ra khỏi Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-013",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Mùa mưa bão ở Hà Nội: thuê xe máy trọn gói tuần hay thuê lẻ từng ngày trời tạnh",
+      "intent": "Lên kế hoạch thuê xe máy trong tuần có dự báo mưa bão, so gói tuần với thuê lẻ theo ngày dựa trên lịch trình, khả năng phải ở trong nhà và mức giá ngày, giá tuần đã niêm yết.",
+      "kw": "mùa mưa thuê xe tuần hay ngày",
+      "kw2": [
+        "thuê xe máy ngày mưa bão",
+        "dự báo mưa có nên thuê xe"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch đến Hà Nội từ tháng sáu đến tháng chín",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-014",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Thuê xe Honda hay Yamaha ở Hà Nội: khác nhau ở cảm giác ga, lực phanh và tư thế ngồi",
+      "intent": "Nắm những khác biệt thực tế giữa xe Honda và Yamaha phổ biến trong đội xe cho thuê về cách lên ga, lực phanh, tư thế ngồi và độ êm, để chọn hãng hợp với thói quen lái của mình.",
+      "kw": "thuê xe honda hay yamaha",
+      "kw2": [
+        "xe honda và yamaha khác nhau",
+        "chọn hãng xe máy khi thuê"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người thuê đã quen lái một hãng và khách quốc tế",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-015",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hay say xe khách đường dài: tự lái xe máy thuê đi Ninh Bình, Ba Vì có dễ chịu hơn không",
+      "intent": "Hiểu vì sao người hay say xe khách thường thấy dễ chịu hơn khi tự cầm lái xe máy, đồng thời nắm rủi ro mệt mỏi, nắng gió và giới hạn quãng đường để chọn phương án phù hợp.",
+      "kw": "say xe khách nên đi xe máy",
+      "kw2": [
+        "người hay say xe đi du lịch",
+        "tự lái xe máy đỡ say xe"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người hay say xe ô tô, xe khách muốn đi tỉnh gần",
+      "location_scope": "Hà Nội, Ninh Bình, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-016",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi làng lụa Vạn Phúc: thuê xe máy hay đi tàu điện Cát Linh – Hà Đông rồi đi tiếp vào làng",
+      "intent": "Biết cách so xe máy thuê với tàu điện Cát Linh – Hà Đông khi đi làng lụa Vạn Phúc, xét đoạn nối từ ga vào làng, giờ tàu, chỗ gửi xe đầu làng và việc ghé thêm điểm khác.",
+      "kw": "đi vạn phúc bằng tàu điện",
+      "kw2": [
+        "làng lụa vạn phúc đi bằng gì",
+        "tàu điện cát linh hà đông đi vạn phúc"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch và người ở nội thành đi chơi nửa ngày",
+      "location_scope": "Đống Đa, Thanh Xuân, Hà Đông, làng lụa Vạn Phúc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-017",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Du lịch Hà Nội hai ba ngày: thuê xe máy hay xe đạp điện để đi phố cổ, Hồ Tây và Ba Đình",
+      "intent": "Nắm tiêu chí chọn giữa xe máy và xe đạp điện thuê cho chuyến du lịch ngắn trong nội thành: giấy phép lái, tốc độ, quãng đường mỗi ngày, sức đạp, chỗ gửi xe và sự tự tin.",
+      "kw": "thuê xe máy hay xe đạp điện",
+      "kw2": [
+        "xe đạp điện đi phố cổ",
+        "khách du lịch chọn xe máy hay xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch trong nước và quốc tế ở Hà Nội hai đến ba ngày",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-018",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi xa qua vùng ít tiệm sửa: xe số hay xe ga dễ tìm thợ, dễ xử lý hỏng vặt dọc đường hơn",
+      "intent": "Hiểu vì sao xe số và xe ga khác nhau về độ phổ biến của phụ tùng, kiểu hỏng vặt hay gặp và khả năng thợ vùng quê sửa được, để chọn xe thuê cho chuyến đi xa ít tiệm.",
+      "kw": "xe số hay xe ga dễ sửa",
+      "kw2": [
+        "thuê xe đi xa chọn xe dễ sửa",
+        "hỏng xe vùng quê"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người thuê xe đi đường dài, cung đèo và vùng núi phía Bắc",
+      "location_scope": "Hà Nội và các tuyến ngoại tỉnh phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-019",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi làm cùng hướng với đồng nghiệp: đi nhờ xe mỗi ngày hay tự thuê xe máy theo tháng",
+      "intent": "Hiểu những điều cần cân nhắc khi chọn giữa đi nhờ xe đồng nghiệp và tự thuê xe máy theo tháng: giờ tan ca lệch nhau, chia tiền xăng, sự chủ động và mức độ ngại làm phiền.",
+      "kw": "đi nhờ xe đồng nghiệp",
+      "kw2": [
+        "đi chung xe với đồng nghiệp",
+        "tự chủ đi lại khi đi làm"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "nhân viên mới chuyển đến Hà Nội làm việc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-020",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Khách sạn cho mượn xe đạp miễn phí: đã đủ đi chơi Hà Nội hay vẫn nên thuê xe máy",
+      "intent": "Biết cách đánh giá xe đạp miễn phí của khách sạn so với thuê xe máy theo lịch trình thực tế: quãng đường, thời tiết, điểm xa như Hồ Tây hay Long Biên, chỗ gửi xe và sức người.",
+      "kw": "khách sạn cho mượn xe đạp",
+      "kw2": [
+        "xe đạp miễn phí khách sạn hà nội",
+        "đi xe đạp hay thuê xe máy"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách lưu trú ở khách sạn, hostel trong phố cổ",
+      "location_scope": "phố cổ Hoàn Kiếm, Hồ Tây, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-021",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Mai Châu hai ngày: chạy xe máy thuê từ Hà Nội hay đi xe khách rồi thuê xe ở bản Lác",
+      "intent": "Lên kế hoạch chuyến Mai Châu hai ngày, so tự chạy xe máy thuê từ Hà Nội với đi xe khách rồi thuê xe tại bản, xét đèo Thung Khe, độ mệt, chi phí và việc đi giữa các bản.",
+      "kw": "mai châu xe máy hay xe khách",
+      "kw2": [
+        "thuê xe ở bản lác mai châu",
+        "hà nội đi mai châu bằng gì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "cặp đôi và nhóm bạn đi nghỉ cuối tuần",
+      "location_scope": "Hà Nội, Hòa Bình, Mai Châu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-022",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi gặp khách nhiều nơi trong ngày: bao xe ôm cả ngày hay tự thuê xe máy để chủ động",
+      "intent": "Nắm cách so bao một người chở bằng xe máy cả ngày với tự thuê xe máy khi phải gặp khách nhiều nơi, xét chi phí, sự chủ động, việc thuộc đường, chỗ gửi xe và trang phục công sở.",
+      "kw": "bao xe ôm cả ngày",
+      "kw2": [
+        "thuê người chở xe máy cả ngày",
+        "đi công tác hà nội đi lại bằng gì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "người đi công tác, nhân viên kinh doanh chưa quen đường Hà Nội",
+      "location_scope": "các quận trung tâm Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-023",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hai vợ chồng và một bé dưới 12 tuổi: thuê một xe máy chở cả nhà hay thuê hai xe cho thoải mái",
+      "intent": "Nắm quy định chở trẻ em dưới 12 tuổi trên xe máy và so phương án một xe chở cả nhà với thuê hai xe, xét an toàn của bé, quãng đường, chi phí và chỗ để đồ.",
+      "kw": "chở vợ và con trên xe máy",
+      "kw2": [
+        "chở trẻ dưới 12 tuổi trên xe máy",
+        "gia đình ba người thuê mấy xe"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "gia đình trẻ có một con nhỏ đi du lịch Hà Nội",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-024",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Cát Bà hai ngày: chạy xe máy thuê từ Hà Nội qua phà hay đi xe khách rồi thuê xe trên đảo",
+      "intent": "Lên kế hoạch chuyến Cát Bà hai ngày bằng cách so tự chạy xe máy thuê từ Hà Nội qua phà với đi xe khách rồi thuê xe trên đảo, xét quãng đường, giờ phà, độ mệt và chi phí.",
+      "kw": "cát bà xe máy hay xe khách",
+      "kw2": [
+        "thuê xe máy trên đảo cát bà",
+        "hà nội đi cát bà bằng gì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "nhóm bạn trẻ và cặp đôi đi biển cuối tuần",
+      "location_scope": "Hà Nội, Hải Phòng, đảo Cát Bà",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-033-025",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Một tuần vừa đi phố vừa đi đèo: giữ một xe ga suốt chuyến hay trả xe, thuê xe số cho ngày đi xa",
+      "intent": "Hiểu lợi và bất tiện khi giữ một dòng xe suốt chuyến so với trả xe rồi thuê dòng khác cho ngày đi đèo, xét chênh giá thuê, thời gian làm thủ tục, độ quen tay lái và hành lý.",
+      "kw": "đổi dòng xe giữa chuyến",
+      "kw2": [
+        "giữ một xe hay đổi xe",
+        "thuê xe số cho ngày đi đèo"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-033",
+      "audience": "khách du lịch ở Hà Nội một tuần có lịch đi Ba Vì, Tam Đảo hoặc Mai Châu",
+      "location_scope": "Hà Nội và các cung đèo lân cận",
+      "word_target": 1200
     }
   ],
   "rejected": [
