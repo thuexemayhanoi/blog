@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-029: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-001",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở xe đạp trẻ em, xe chòi chân hay scooter gấp bằng xe máy: xoay ghi đông, buộc khung, tránh chạm bánh sau",
+   "intent": "Biết cách đặt và buộc xe đạp trẻ em, xe chòi chân hoặc scooter gấp lên xe máy sao cho bánh, bàn đạp và ghi đông không chạm bánh sau, không vướng người lái.",
+   "kw": "chở xe đạp trẻ em",
+   "kw2": [
+    "chở xe chòi chân trên xe máy",
+    "buộc scooter gấp lên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "phụ huynh có con nhỏ ở Hà Nội",
+   "location_scope": "từ cửa hàng đồ trẻ em, công viên về nhà trong nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-002",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở đệm cuộn hút chân không bằng xe máy: đặt dọc yên hay ngang, buộc mấy dây và khi nào nên thôi",
+   "intent": "Biết cách ước lượng kích thước, cân nặng của đệm cuộn hút chân không, đặt và buộc lên xe máy để không lệch tải, đồng thời nhận ra khi nào đệm quá cỡ cần gọi xe chở hàng.",
+   "kw": "chở đệm cuộn bằng xe máy",
+   "kw2": [
+    "đệm hút chân không chở xe máy",
+    "chở nệm bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "sinh viên, người thuê trọ mới chuyển đến",
+   "location_scope": "khu trọ Cầu Giấy, Đống Đa, Thanh Xuân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-003",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở chồng sách nặng mua ở phố sách Đinh Lễ bằng xe máy: chia túi, giữ gáy sách và chống ướt",
+   "intent": "Biết cách chia sách và tài liệu nặng thành nhiều túi vừa sức, đặt ở vị trí thấp gần tâm xe, giữ gáy sách không cong và bọc kín khi trời chuyển mưa.",
+   "kw": "chở sách nặng bằng xe máy",
+   "kw2": [
+    "mua sách phố đinh lễ",
+    "bọc sách chống ướt khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "sinh viên, giáo viên và người mua sách số lượng lớn",
+   "location_scope": "phố Đinh Lễ, Hoàn Kiếm và các trường đại học nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-004",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở xe lăn gấp và khung tập đi cho người nhà bằng xe máy: gập gọn, buộc chắc, không để người sau ôm",
+   "intent": "Biết cách gập và cố định xe lăn gấp hoặc khung tập đi lên xe máy khi đưa người nhà từ bệnh viện về, tránh để người ngồi sau phải ôm và hiểu khi nào nên chuyển sang taxi.",
+   "kw": "chở xe lăn bằng xe máy",
+   "kw2": [
+    "chở khung tập đi bằng xe máy",
+    "xe lăn gấp buộc lên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người chăm sóc người bệnh, người lớn tuổi",
+   "location_scope": "quanh các bệnh viện lớn nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-005",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Bán hàng hội chợ, chợ phiên cuối tuần: chở bàn gấp, hàng mẫu và bạt che bằng một xe máy",
+   "intent": "Lên kế hoạch chở trọn bộ quầy hàng nhỏ gồm bàn gấp, thùng hàng mẫu, bạt che và biển hiệu bằng một xe máy, chia chuyến hợp lý và xếp đồ để dỡ nhanh tại điểm bán.",
+   "kw": "chở hàng đi hội chợ",
+   "kw2": [
+    "chở bàn gấp trên xe máy",
+    "đồ bày bán chợ phiên cuối tuần"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người bán hàng nhỏ, chủ shop online đi hội chợ",
+   "location_scope": "hội chợ, chợ phiên cuối tuần ở nội thành và ven đô Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-006",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở loa kéo karaoke đi tiệc bằng xe máy: đặt loa ở đâu, giữ tay kéo và bánh xe khỏi lắc",
+   "intent": "Biết cách đặt loa kéo karaoke nặng lên xe máy, thu tay kéo, chèn bánh xe và buộc dây để loa không xoay, không đập vào người lái khi phanh trên đường đi tiệc.",
+   "kw": "chở loa kéo bằng xe máy",
+   "kw2": [
+    "buộc loa kéo karaoke lên xe máy",
+    "mang loa đi tiệc bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người tổ chức tiệc sinh nhật, liên hoan nhỏ",
+   "location_scope": "nội thành Hà Nội và các khu dân cư ven đô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-007",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở đàn organ, piano điện bằng xe máy đi học, đi diễn: túi đàn, đặt dọc hay ngang và chống rung phím",
+   "intent": "Biết cách cho đàn organ hoặc piano điện vào túi đàn có đệm, chọn tư thế đặt trên xe máy, cố định chân đàn và adapter riêng để phím, màn hình không hỏng vì rung.",
+   "kw": "chở đàn organ bằng xe máy",
+   "kw2": [
+    "chở piano điện trên xe máy",
+    "túi đựng đàn organ đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "học viên, giáo viên nhạc và người chơi đàn biểu diễn",
+   "location_scope": "nội thành Hà Nội, các trung tâm âm nhạc và sân khấu nhỏ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-008",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Xuống dốc dài khi đang chở đồ nặng phía sau: phanh sớm, giữ tốc thấp và tránh đuôi xe đẩy lệch",
+   "intent": "Nắm cách xuống dốc dài an toàn khi xe đang chở hành lý nặng, hiểu vì sao quãng phanh dài hơn và biết kiểm tra dây buộc trước những đoạn dốc như Tam Đảo, Ba Vì.",
+   "kw": "xuống dốc khi chở đồ nặng",
+   "kw2": [
+    "phanh xe máy khi chở nặng",
+    "xuống dốc tam đảo chở hành lý"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người đi xe máy cuối tuần chở hành lý lên vùng núi gần Hà Nội",
+   "location_scope": "dốc Tam Đảo, đường lên Ba Vì và đèo Thung Khe",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-009",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Túi treo hông hai bên xe máy cho chuyến dài: lắp sao không chạm ống xả, bánh sau và chân người sau",
+   "intent": "Hiểu túi treo hông hai bên hợp với dòng xe nào, biết cách lắp cân tải hai phía, giữ khoảng cách với ống xả nóng, bánh sau và chỗ để chân của người ngồi sau.",
+   "kw": "túi treo hông xe máy",
+   "kw2": [
+    "túi thồ hai bên xe máy",
+    "lắp túi hông đi phượt"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người đi phượt nhiều ngày bằng xe máy thuê",
+   "location_scope": "chuyến dài từ Hà Nội lên Hà Giang, Mộc Châu, Cao Bằng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-010",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chọn dây buộc đồ cho xe máy: dây chun móc, lưới ràng, dây dù hay dây đai khóa cam cho từng loại hàng",
+   "intent": "Biết phân biệt dây chun có móc, lưới ràng, dây dù và dây đai khóa cam, chọn đúng loại cho đồ nhẹ, đồ nặng hay đồ nhiều mảnh và nhận ra dây đã giãn, mòn cần thay.",
+   "kw": "dây buộc đồ xe máy loại nào",
+   "kw2": [
+    "lưới ràng đồ xe máy",
+    "dây đai khóa cam chở hàng"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người thường xuyên chở đồ bằng xe máy ở Hà Nội",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-011",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Nút thắt dây dù khi chở đồ bằng xe máy: nút siết tăng đơ, nút chốt và nút gỡ nhanh khi tới nơi",
+   "intent": "Biết thắt vài nút dây dù cơ bản như nút siết tăng đơ để kéo căng, nút chốt đầu dây và nút gỡ nhanh, giúp đồ buộc chặt suốt đường mà tới nơi vẫn tháo nhanh.",
+   "kw": "nút buộc dây chở hàng xe máy",
+   "kw2": [
+    "cách thắt nút dây dù",
+    "nút tăng đơ buộc đồ"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người mới tập tự buộc đồ trên xe máy",
+   "location_scope": "mọi chuyến chở đồ quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-012",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở đồ cồng kềnh về chung cư: dừng ở sảnh dỡ đồ trước hay chở thẳng xuống dốc hầm gửi xe",
+   "intent": "Biết cân nhắc nên dừng ở sảnh dỡ đồ cồng kềnh trước hay chở thẳng xuống hầm, cách đi dốc hầm cong hẹp khi xe đang có tải và chuyển đồ lên căn hộ gọn nhất.",
+   "kw": "chở đồ cồng kềnh về chung cư",
+   "kw2": [
+    "xuống hầm chung cư khi chở đồ",
+    "dỡ đồ ở sảnh chung cư"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "cư dân chung cư và người mới chuyển đến căn hộ",
+   "location_scope": "các khu chung cư cao tầng ở Hoàng Mai, Nam Từ Liêm, Thanh Xuân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-013",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Xe ga không có baga sau: buộc dây vào tay dắt, gác chân hay khung nào để chắc mà không gãy nhựa",
+   "intent": "Nắm những điểm có thể móc dây chắc chắn trên xe ga không có baga như tay dắt sau, khung gác chân, tránh móc vào ốp nhựa, đèn hậu hay chắn bùn dễ gãy.",
+   "kw": "buộc đồ xe ga không có baga",
+   "kw2": [
+    "điểm móc dây trên xe ga",
+    "buộc dây vào tay dắt sau xe"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người thuê xe tay ga như Vision, Air Blade cần chở thêm đồ",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-014",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở case máy tính để bàn bằng xe máy: tháo card rời, chèn xốp và đặt thùng máy nằm hay đứng",
+   "intent": "Biết cách chuẩn bị case máy tính để bàn trước khi chở bằng xe máy, tháo hoặc chèn linh kiện nặng, đóng thùng có xốp và đặt máy để giảm rung trên đường phố.",
+   "kw": "chở case máy tính bằng xe máy",
+   "kw2": [
+    "chở máy tính để bàn trên xe máy",
+    "tháo card đồ họa khi vận chuyển"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "game thủ, người làm văn phòng mua máy hoặc mang máy đi sửa",
+   "location_scope": "nội thành Hà Nội, từ cửa hàng máy tính về nhà hoặc văn phòng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-015",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở đồ nặng giữa giờ tan tầm Hà Nội: xuất phát ở đèn đỏ, chống chân và đi trong dòng xe đặc",
+   "intent": "Biết giữ xe vững khi chở đồ nặng giữa dòng xe dừng đi liên tục giờ tan tầm, cách xuất phát ở đèn đỏ, chống chân khi dừng và chọn làn ít bị chen ép.",
+   "kw": "chở đồ nặng giờ cao điểm",
+   "kw2": [
+    "chở hàng nặng khi tắc đường",
+    "xuất phát đèn đỏ khi chở nặng"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người đi làm chở đồ về nhà sau giờ tan tầm",
+   "location_scope": "Ngã Tư Sở, Cầu Giấy, Nguyễn Trãi, Giải Phóng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-016",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chất đồ lên xe và dỡ đồ xuống mà xe không đổ: chân chống giữa, thứ tự đặt và thứ tự tháo dây",
+   "intent": "Biết thứ tự chất đồ lên xe máy và dỡ xuống an toàn: dựng chân chống giữa, đặt món nặng trước, tháo dây theo thứ tự để xe không nghiêng đổ khi đang đứng yên.",
+   "kw": "chất đồ lên xe máy không đổ",
+   "kw2": [
+    "dỡ đồ khỏi xe máy",
+    "dựng chân chống giữa khi chở đồ"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người tự chở đồ khi chuyển nhà, mua sắm số lượng lớn",
+   "location_scope": "trước cửa nhà, trong ngõ và bãi gửi xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-017",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Mang bếp nướng than hoa đi picnic bằng xe máy: chở bếp, than và dập lửa kỹ trước khi về",
+   "intent": "Biết cách chở bếp nướng, bao than và dụng cụ nướng bằng xe máy, dập tắt than và để bếp nguội hẳn trước khi buộc lên xe trở về, tránh cháy túi và bỏng chân.",
+   "kw": "chở bếp nướng than bằng xe máy",
+   "kw2": [
+    "mang bếp nướng đi picnic",
+    "dập than sau khi nướng ngoài trời"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "nhóm bạn trẻ đi picnic, cắm trại trong ngày",
+   "location_scope": "bãi ven sông Hồng, hồ Đồng Mô và các khu cắm trại ven Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-018",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở gạch ốp lát, bồn rửa và đồ sứ vệ sinh bằng xe máy: nặng, giòn, cạnh sắc cần xử lý thế nào",
+   "intent": "Biết cách chở gạch ốp lát, lavabo và đồ sứ vệ sinh bằng xe máy: ước lượng cân nặng thật, giữ nguyên thùng, chèn chống mẻ góc và biết lúc nên thuê xe chở hàng.",
+   "kw": "chở gạch ốp lát bằng xe máy",
+   "kw2": [
+    "chở bồn rửa lavabo bằng xe máy",
+    "chở đồ sứ vệ sinh"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người tự sửa nhà, chủ nhà mua vật liệu hoàn thiện",
+   "location_scope": "Hà Nội và các huyện ven đô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-019",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở tạ tay, tạ đĩa mua về tập ở nhà bằng xe máy: món nhỏ mà rất nặng, đặt sao cho xe không chúi",
+   "intent": "Biết cách chở tạ tay, tạ đĩa bằng xe máy: chia nhỏ khối lượng, đặt thấp sát tâm xe, chặn tạ đĩa không lăn và không dồn cả vào cốp hay sàn để chân.",
+   "kw": "chở tạ bằng xe máy",
+   "kw2": [
+    "chở tạ đĩa trên xe máy",
+    "mang tạ tay về nhà bằng xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người tập thể hình tại nhà",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-020",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Mang thêm mũ bảo hiểm khi đi đón người: treo móc, khóa vào xe hay cất cốp để không vướng lái",
+   "intent": "Biết cách mang theo mũ bảo hiểm thứ hai khi đi đón bạn, người nhà hoặc khách, cất mũ chắc trên xe để không đung đưa, không vướng tay lái và không bị rơi.",
+   "kw": "mang mũ bảo hiểm đi đón",
+   "kw2": [
+    "treo mũ bảo hiểm trên xe máy khi chạy",
+    "cất mũ bảo hiểm thứ hai"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người đi đón bạn bè, người thân ở ga, bến xe, cổng trường",
+   "location_scope": "ga Hà Nội, bến xe Mỹ Đình, Giáp Bát và cổng trường học",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-021",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở cây thông Noel và đồ trang trí Giáng sinh mua ở Hàng Mã bằng xe máy: gọn cành, không gãy",
+   "intent": "Biết cách chở cây thông Noel giả đóng hộp hoặc cây thông chậu cùng đồ trang trí Giáng sinh mua ở Hàng Mã về nhà bằng xe máy mà không gãy cành, không vướng xe khác.",
+   "kw": "chở cây thông noel bằng xe máy",
+   "kw2": [
+    "mua đồ trang trí noel hàng mã",
+    "chở đồ giáng sinh trên xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "gia đình, quán cà phê trang trí mùa Giáng sinh",
+   "location_scope": "phố Hàng Mã, Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-022",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Mang hàng ra bến xe Mỹ Đình, Giáp Bát gửi xe khách về quê: đóng gói, buộc chở và chỗ dừng xe",
+   "intent": "Biết cách đóng gói, ghi tên người nhận và chở thùng hàng bằng xe máy ra bến xe để gửi theo xe khách, chọn chỗ dừng an toàn quanh bến và giữ giấy biên nhận.",
+   "kw": "gửi hàng xe khách bến xe",
+   "kw2": [
+    "gửi hàng xe khách bến xe mỹ đình",
+    "nhận hàng gửi xe khách ở bến"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người gửi đồ về quê hoặc nhận hàng gia đình gửi lên",
+   "location_scope": "bến xe Mỹ Đình, Giáp Bát, Nước Ngầm, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-023",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chia hành lý theo ngày cho chuyến xe máy 3 đến 5 ngày rời Hà Nội: túi nào để ngoài, túi nào buộc kín",
+   "intent": "Lên kế hoạch chia hành lý cho chuyến đi xe máy nhiều ngày thành các túi theo ngày và theo mức dùng, để mỗi tối chỉ cần mở một túi mà không phải tháo cả bó đồ.",
+   "kw": "chia hành lý chuyến nhiều ngày",
+   "kw2": [
+    "xếp đồ đi phượt nhiều ngày",
+    "túi hành lý theo ngày"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "khách du lịch tự lái đi xe máy nhiều ngày",
+   "location_scope": "các cung từ Hà Nội đi Hà Giang, Mộc Châu, Ninh Bình",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-024",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở mô hình kiến trúc, đồ án sinh viên đi nộp bằng xe máy: hộp cứng, chắn gió và giữ thăng bằng",
+   "intent": "Biết cách đóng hộp cứng cho mô hình kiến trúc hoặc đồ án dạng khối, chọn cầm tay hay buộc, chắn gió và đi chậm để mô hình tới trường nguyên vẹn đúng hạn nộp.",
+   "kw": "chở mô hình kiến trúc",
+   "kw2": [
+    "mang đồ án mô hình đi nộp",
+    "hộp đựng mô hình kiến trúc"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "sinh viên kiến trúc, thiết kế nội thất",
+   "location_scope": "quanh Đại học Kiến trúc Hà Nội trên đường Nguyễn Trãi, Thanh Xuân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-029-025",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Đổ xăng giữa chặng khi hành lý đang buộc trên yên xe: buộc thế nào để mở yên mà không tháo hết",
+   "intent": "Biết cách bố trí dây buộc và hành lý trên yên sao cho tới cây xăng chỉ cần nới một phía để mở yên hoặc nắp bình, đổ xăng nhanh rồi siết lại đúng như cũ.",
+   "kw": "đổ xăng khi đang buộc hành lý",
+   "kw2": [
+    "mở yên xe khi chở hành lý",
+    "buộc hành lý không vướng nắp xăng"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-029",
+   "audience": "người đi xe máy đường dài có hành lý buộc trên yên",
+   "location_scope": "các chặng quốc lộ rời Hà Nội như QL6, QL2, QL32",
+   "word_target": 1200
+  }
+ ]
+}
