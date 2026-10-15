@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-019: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-001",
+   "child_id": "C-QUY-DINH",
+   "title": "Đèn đỏ có được rẽ phải bằng xe máy không: mũi tên xanh, biển phụ và vạch mắt võng ở ngã tư Hà Nội",
+   "intent": "Nắm các trường hợp luật cho phép xe máy rẽ phải khi đèn đỏ, nhận ra mũi tên xanh, biển phụ và vạch mắt võng tại nút giao Hà Nội để không vô tình vượt đèn đỏ.",
+   "kw": "đèn đỏ có được rẽ phải",
+   "kw2": [
+    "rẽ phải khi đèn đỏ xe máy",
+    "biển phụ cho phép rẽ phải"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người thuê xe máy chạy nội đô Hà Nội lần đầu",
+   "location_scope": "các ngã tư có đèn tín hiệu trong nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-002",
+   "child_id": "C-QUY-DINH",
+   "title": "Đèn chuyển đỏ khi bánh xe vừa chạm vạch dừng: thế nào mới bị coi là vượt đèn đỏ khi đi xe máy",
+   "intent": "Hiểu mốc vạch dừng quyết định lỗi vượt đèn đỏ, phân biệt với trường hợp đèn vàng được đi tiếp, và biết căn khoảng cách khi tới gần ngã tư để dừng kịp.",
+   "kw": "thế nào là vượt đèn đỏ",
+   "kw2": [
+    "vạch dừng đèn đỏ xe máy",
+    "đèn chuyển đỏ khi qua vạch"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người đi xe máy thuê hay qua nút giao đông",
+   "location_scope": "nút giao có đèn tín hiệu ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-003",
+   "child_id": "C-QUY-DINH",
+   "title": "Đi xe máy theo nhóm bạn ở Hà Nội: dàn hàng ngang bị luật cấm thế nào và cách đi đoàn cho đúng",
+   "intent": "Biết cách tổ chức một nhóm xe máy thuê đi chơi mà không chạy dàn hàng ngang, hiểu điều luật cấm hành vi này và cách giữ đội hình nối đuôi an toàn.",
+   "kw": "đi xe máy dàn hàng ngang",
+   "kw2": [
+    "dàn hàng ngang có bị phạt",
+    "đi xe máy theo đoàn đúng luật"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "nhóm bạn trẻ thuê nhiều xe đi chơi cuối tuần",
+   "location_scope": "đường vành đai, đường đê và quốc lộ ra ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-004",
+   "child_id": "C-QUY-DINH",
+   "title": "Người ngồi sau xe máy che ô, cầm điện thoại quay phim phố Hà Nội: hành vi nào bị luật cấm",
+   "intent": "Hiểu những việc người ngồi sau xe máy bị luật cấm như che ô, bám kéo xe khác, và phân biệt với việc cầm điện thoại quay phim để chuyến đi phố không phạm luật.",
+   "kw": "ngồi sau xe máy che ô",
+   "kw2": [
+    "người ngồi sau xe máy bị cấm gì",
+    "ngồi sau xe máy quay phim"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "khách du lịch đi hai người một xe ngắm phố",
+   "location_scope": "phố cổ, Hồ Gươm và các tuyến phố trung tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-005",
+   "child_id": "C-QUY-DINH",
+   "title": "Cầm điện thoại xem tin nhắn lúc dừng chờ đèn đỏ khi đi xe máy có bị coi là vi phạm không",
+   "intent": "Hiểu vì sao lúc dừng chờ đèn đỏ người lái vẫn được tính là đang điều khiển xe tham gia giao thông, và biết dừng xe đúng chỗ khi thật sự cần dùng điện thoại.",
+   "kw": "dùng điện thoại khi dừng đèn đỏ",
+   "kw2": [
+    "cầm điện thoại khi đi xe máy",
+    "dừng đèn đỏ xem điện thoại"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người đi làm hằng ngày bằng xe máy thuê theo tháng",
+   "location_scope": "ngã tư có đèn tín hiệu trong nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-006",
+   "child_id": "C-QUY-DINH",
+   "title": "Luồn lách khi tắc đường giờ cao điểm ở Hà Nội: ranh giới nào biến thành lỗi lạng lách, đánh võng",
+   "intent": "Nắm cách luật mô tả hành vi lạng lách, đánh võng và các kiểu điều khiển nguy hiểm bị cấm, để nhận ra lúc nào chen xe khi tắc đã vượt khỏi giới hạn cho phép.",
+   "kw": "lạng lách đánh võng là gì",
+   "kw2": [
+    "luồn lách khi tắc đường",
+    "điều khiển xe máy nguy hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người mới chạy xe máy trong giờ cao điểm Hà Nội",
+   "location_scope": "các trục đường hay ùn tắc nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-007",
+   "child_id": "C-QUY-DINH",
+   "title": "Chạy xe máy chậm để ngắm phố, tìm địa chỉ: luật yêu cầu đi bên phải ra sao để không cản dòng xe",
+   "intent": "Hiểu quy tắc xe chạy tốc độ thấp phải đi về bên phải, biết chọn vị trí trong làn khi vừa đi vừa tìm đường để không cản trở các xe phía sau.",
+   "kw": "xe chạy chậm phải đi bên phải",
+   "kw2": [
+    "chạy xe máy chậm cản trở giao thông",
+    "vừa đi vừa tìm đường bằng xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "khách du lịch tự lái vừa đi vừa ngắm cảnh",
+   "location_scope": "phố trung tâm và đường ven hồ ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-008",
+   "child_id": "C-QUY-DINH",
+   "title": "Quay đầu xe máy ở đâu bị luật cấm: cầu, gầm cầu vượt, hầm, vạch đi bộ và đoạn đường cong khuất",
+   "intent": "Nắm danh sách vị trí luật cấm quay đầu xe, nhận diện chúng trên đường Hà Nội và biết chọn điểm quay đầu hợp lệ khi lỡ đi quá chỗ cần rẽ.",
+   "kw": "nơi cấm quay đầu xe máy",
+   "kw2": [
+    "quay đầu xe máy đúng luật",
+    "quay đầu ở gầm cầu vượt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người thuê xe máy hay đi nhầm đường ở Hà Nội",
+   "location_scope": "cầu, hầm chui và cầu vượt nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-009",
+   "child_id": "C-QUY-DINH",
+   "title": "Dừng xe máy giữa phố để hỏi đường, xem bản đồ: luật cho dừng ở đâu và phải báo hiệu thế nào",
+   "intent": "Biết cách dừng xe máy tạm thời đúng quy tắc khi cần hỏi đường hay xem bản đồ: chọn vị trí sát lề phải, báo tín hiệu và tránh các điểm luật cấm dừng xe.",
+   "kw": "quy tắc dừng xe máy trên phố",
+   "kw2": [
+    "dừng xe hỏi đường",
+    "nơi cấm dừng xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "khách du lịch tự lái chưa thuộc đường Hà Nội",
+   "location_scope": "phố cổ và các tuyến phố đông xe nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-010",
+   "child_id": "C-QUY-DINH",
+   "title": "Đèn xanh vẫn phải nhường người đi bộ và xe lăn đang qua đường: quy định người đi xe máy cần nắm",
+   "intent": "Hiểu nghĩa vụ giảm tốc hoặc dừng lại nhường người đi bộ, xe lăn của người khuyết tật ngay cả khi đèn xanh, và cách xử lý tại vạch kẻ đường dành cho người đi bộ.",
+   "kw": "nhường đường cho người đi bộ",
+   "kw2": [
+    "đèn xanh nhường người đi bộ",
+    "vạch kẻ đường người đi bộ xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người lái xe máy thuê đi qua khu phố đông khách bộ hành",
+   "location_scope": "quanh Hồ Gươm, phố cổ và các nút giao có vạch đi bộ ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-011",
+   "child_id": "C-QUY-DINH",
+   "title": "Gặp xe ngược chiều trên đường dốc hẹp Ba Vì, Sóc Sơn: luật tránh xe quy định ai phải nhường",
+   "intent": "Nắm quy tắc tránh xe đi ngược chiều trên đường hẹp, đường dốc và cầu hẹp, biết bên nào phải nhường và cách dừng chờ an toàn khi chạy xe máy lên vùng đồi núi ngoại thành.",
+   "kw": "tránh xe ngược chiều đường hẹp",
+   "kw2": [
+    "xe xuống dốc nhường xe lên dốc",
+    "tránh xe trên cầu hẹp"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người đi xe máy thuê dã ngoại vùng đồi núi ngoại thành",
+   "location_scope": "Ba Vì, Sóc Sơn và các đường đồi ven Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-012",
+   "child_id": "C-QUY-DINH",
+   "title": "Xe phía sau bấm còi, nháy đèn xin vượt: người đi xe máy có nghĩa vụ nhường đường thế nào theo luật",
+   "intent": "Hiểu nghĩa vụ của xe phía trước khi có xe xin vượt: giảm tốc, đi sát bên phải và không gây trở ngại, cùng cách phản ứng bình tĩnh khi bị xe lớn xin đường.",
+   "kw": "nhường đường cho xe xin vượt",
+   "kw2": [
+    "xe sau xin vượt phải làm gì",
+    "bị xin vượt khi đi xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người đi xe máy thuê chạy quốc lộ ra ngoại thành",
+   "location_scope": "quốc lộ và đường tỉnh quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-013",
+   "child_id": "C-QUY-DINH",
+   "title": "Khi nào xe máy được vượt bên phải và những nơi luật cấm vượt xe trên đường Hà Nội, ngoại thành",
+   "intent": "Nắm nguyên tắc vượt bên trái, các ngoại lệ được vượt bên phải và danh sách vị trí cấm vượt như cầu hẹp, đường cong khuất, nơi giao nhau, để quyết định vượt đúng luật.",
+   "kw": "vượt bên phải xe máy",
+   "kw2": [
+    "trường hợp không được vượt xe",
+    "quy tắc vượt xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người lái xe máy thuê thường xuyên chạy đường dài",
+   "location_scope": "nội đô Hà Nội và quốc lộ ra ngoại thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-014",
+   "child_id": "C-QUY-DINH",
+   "title": "Hiệu lệnh tay của cảnh sát giao thông tại ngã tư: người đi xe máy đọc và làm theo thế nào cho đúng",
+   "intent": "Hiểu ý nghĩa từng tư thế chỉ huy của người điều khiển giao thông như giơ tay thẳng đứng, dang ngang tay, và biết dừng hoặc đi tiếp đúng hướng khi gặp ở nút giao.",
+   "kw": "hiệu lệnh của cảnh sát giao thông",
+   "kw2": [
+    "tư thế chỉ huy giao thông",
+    "cảnh sát giao thông giơ tay"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "khách nước ngoài và người mới lái xe máy ở Hà Nội",
+   "location_scope": "nút giao có cảnh sát phân luồng ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-015",
+   "child_id": "C-QUY-DINH",
+   "title": "Đèn xanh nhưng biển cấm rẽ, có người phân luồng: xe máy theo báo hiệu nào khi chỉ dẫn khác nhau",
+   "intent": "Nắm thứ tự ưu tiên giữa hiệu lệnh người điều khiển giao thông, đèn tín hiệu, biển báo và vạch kẻ đường để chọn đúng cách đi khi các báo hiệu chỉ dẫn khác nhau.",
+   "kw": "thứ tự chấp hành báo hiệu",
+   "kw2": [
+    "đèn tín hiệu và biển báo khác nhau",
+    "báo hiệu đường bộ ưu tiên"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người lái xe máy thuê chưa quen hệ thống báo hiệu Việt Nam",
+   "location_scope": "nút giao đang phân luồng hoặc thi công ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-016",
+   "child_id": "C-QUY-DINH",
+   "title": "Từ mấy giờ phải bật đèn xe máy và khi nào phải hạ xuống đèn chiếu gần: quy định chiếu sáng cần nhớ",
+   "intent": "Nắm khung giờ bắt buộc bật đèn chiếu sáng, các điều kiện thời tiết phải bật đèn, và những tình huống phải chuyển từ đèn chiếu xa sang đèn chiếu gần khi đi xe máy.",
+   "kw": "mấy giờ phải bật đèn xe máy",
+   "kw2": [
+    "quy định bật đèn chiếu sáng",
+    "khi nào dùng đèn chiếu gần"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người chạy xe máy thuê buổi tối và sáng sớm",
+   "location_scope": "nội đô Hà Nội và đường ngoại thành thiếu sáng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-017",
+   "child_id": "C-QUY-DINH",
+   "title": "Chạy xe máy qua vỉa hè để vào nhà, vào cơ quan: khi nào được phép và khi nào thành lỗi đi trên vỉa hè",
+   "intent": "Hiểu ranh giới giữa việc đi qua vỉa hè để vào nhà, cơ quan được luật chấp nhận và hành vi chạy dọc vỉa hè tránh tắc bị xử lý, để ra vào chỗ ở cho đúng.",
+   "kw": "chạy xe qua vỉa hè vào nhà",
+   "kw2": [
+    "đi xe máy trên vỉa hè",
+    "leo vỉa hè xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người thuê xe theo tháng ở nhà mặt phố hoặc trong ngõ Hà Nội",
+   "location_scope": "phố có vỉa hè cao trong nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-018",
+   "child_id": "C-QUY-DINH",
+   "title": "Những trường hợp người đi xe máy bắt buộc giảm tốc độ: cổng trường, chợ, đường hẹp, trời mưa, sương mù",
+   "intent": "Nắm danh sách tình huống luật buộc người lái phải giảm tốc độ dù chưa vượt tốc độ tối đa cho phép, và biết nhận diện chúng trên các tuyến đường Hà Nội.",
+   "kw": "trường hợp phải giảm tốc độ",
+   "kw2": [
+    "bắt buộc giảm tốc độ xe máy",
+    "giảm tốc độ khu đông dân cư"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người lái xe máy thuê đi lại trong khu dân cư",
+   "location_scope": "khu trường học, chợ và khu dân cư ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-019",
+   "child_id": "C-QUY-DINH",
+   "title": "Đi xe máy trên Đại lộ Thăng Long lên Hòa Lạc: chỉ chạy đường song hành, không vào làn ô tô",
+   "intent": "Biết cách đi đúng phần đường song hành dành cho xe máy trên Đại lộ Thăng Long, nhận ra các lối nhập chỉ dành cho ô tô và hiểu vì sao xe máy bị cấm vào làn chính.",
+   "kw": "xe máy đi đại lộ thăng long",
+   "kw2": [
+    "đường song hành đại lộ thăng long",
+    "xe máy vào làn ô tô đại lộ thăng long"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người thuê xe máy đi Hòa Lạc, Ba Vì",
+   "location_scope": "Đại lộ Thăng Long từ Trung Hòa đến Hòa Lạc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-020",
+   "child_id": "C-QUY-DINH",
+   "title": "Qua cầu Thăng Long bằng xe máy: đi tầng dưới, lối lên cầu và vì sao không được chạy lên mặt cầu ô tô",
+   "intent": "Biết cách tìm lối lên tầng dưới dành cho xe máy của cầu Thăng Long, hiểu quy định phân làn trên cầu và tránh đi nhầm lên phần đường chỉ dành cho ô tô.",
+   "kw": "xe máy qua cầu thăng long",
+   "kw2": [
+    "cầu thăng long tầng dưới xe máy",
+    "lối lên cầu thăng long"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người ở Đông Anh, Mê Linh đi xe máy thuê vào nội thành",
+   "location_scope": "cầu Thăng Long, đường Phạm Văn Đồng và Đông Anh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-021",
+   "child_id": "C-QUY-DINH",
+   "title": "Tắc đường giờ cao điểm, lấn sang phần đường ngược chiều bằng xe máy: luật coi là lỗi gì, nguy hiểm ra sao",
+   "intent": "Hiểu quy tắc đi bên phải theo chiều đi và đúng phần đường, nhận ra hậu quả của việc lấn làn ngược chiều khi tắc, và lựa chọn cách chờ hoặc đổi lộ trình hợp lệ.",
+   "kw": "lấn làn ngược chiều khi tắc đường",
+   "kw2": [
+    "đi sai phần đường xe máy",
+    "đi bên phải theo chiều đi"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người đi làm bằng xe máy thuê giờ cao điểm",
+   "location_scope": "đường hai chiều không có dải phân cách ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-022",
+   "child_id": "C-QUY-DINH",
+   "title": "Dừng chờ đèn đỏ chắn lối rẽ phải: người đi thẳng bằng xe máy nên đứng ở làn nào tại ngã tư Hà Nội",
+   "intent": "Biết cách chọn vị trí chờ đèn đỏ khi đi thẳng để không chắn lối của xe được phép rẽ phải, hiểu quy định liên quan và cách nhận biết làn rẽ phải tại nút giao.",
+   "kw": "dừng đèn đỏ chắn lối rẽ phải",
+   "kw2": [
+    "đứng chờ đèn đỏ đúng làn",
+    "chắn làn rẽ phải xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người mới chạy xe máy ở Hà Nội",
+   "location_scope": "ngã tư có đèn và biển cho phép rẽ phải ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-023",
+   "child_id": "C-QUY-DINH",
+   "title": "Trú mưa dưới gầm cầu vượt, trong hầm chui bằng xe máy: luật cấm dừng đỗ ra sao và nên tấp vào đâu",
+   "intent": "Hiểu vì sao luật cấm dừng, đỗ xe dưới gầm cầu vượt và trong hầm, và biết chọn chỗ tấp xe mặc áo mưa an toàn, hợp lệ khi gặp mưa bất chợt ở Hà Nội.",
+   "kw": "trú mưa dưới gầm cầu vượt",
+   "kw2": [
+    "dừng xe dưới gầm cầu",
+    "cấm dừng đỗ trong hầm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người đi xe máy thuê gặp mưa giông mùa hè",
+   "location_scope": "gầm cầu vượt và hầm chui nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-024",
+   "child_id": "C-QUY-DINH",
+   "title": "Từ ngõ nhỏ, cổng chung cư ra đường lớn bằng xe máy: luật nhường đường quy định ai được đi trước",
+   "intent": "Nắm quy tắc nhường đường khi đi từ đường nhánh, ngõ hoặc lối ra khu dân cư vào đường chính, để biết lúc nào phải dừng chờ và lúc nào được quyền đi trước.",
+   "kw": "từ ngõ ra đường chính nhường đường",
+   "kw2": [
+    "nhường đường đường nhánh đường chính",
+    "ra khỏi ngõ bằng xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người thuê xe máy ở trọ trong ngõ hoặc chung cư",
+   "location_scope": "ngõ phố và khu chung cư ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-019-025",
+   "child_id": "C-QUY-DINH",
+   "title": "Chở người bệnh đi cấp cứu bằng xe máy: có được coi là xe ưu tiên và được chở mấy người theo luật",
+   "intent": "Hiểu xe máy chở người bệnh không thuộc nhóm xe ưu tiên, nắm ngoại lệ được chở thêm người khi đưa người đi cấp cứu, và biết khi nào nên gọi xe cứu thương 115.",
+   "kw": "xe máy chở người cấp cứu",
+   "kw2": [
+    "chở người bệnh bằng xe máy",
+    "xe ưu tiên gồm những xe nào"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-019",
+   "audience": "người thuê xe máy sống cùng gia đình có người lớn tuổi",
+   "location_scope": "nội đô Hà Nội và đường tới các bệnh viện lớn",
+   "word_target": 1200
+  }
+ ]
+}
