@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-015: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-001",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Nút tìm xe trên Smart Key của Honda Air Blade: tìm xe thuê giữa bãi gửi đông ở trung tâm thương mại",
+   "intent": "Biết cách dùng nút tìm xe trên remote Smart Key của Honda Air Blade để xe nháy đèn và phát tiếng báo khi lạc giữa bãi gửi đông, cùng thói quen ghi nhớ khu vực đỗ.",
+   "kw": "tìm xe air blade bằng smart key",
+   "kw2": [
+    "nút tìm xe smart key honda",
+    "quên chỗ để xe trong bãi gửi"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "khách du lịch và người mới đến Hà Nội hay gửi xe ở bãi lớn",
+   "location_scope": "bãi gửi xe trung tâm thương mại, chung cư ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-002",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Để remote Smart Key trong cốp hay túi người ngồi sau khi đi Honda Air Blade: vì sao dễ gặp rắc rối",
+   "intent": "Hiểu vì sao không nên cất remote Smart Key của Air Blade trong cốp hoặc giao cho người ngồi sau giữ, và biết chỗ để remote an toàn khi đỗ xe hay khi đổi người lái.",
+   "kw": "để remote air blade trong cốp",
+   "kw2": [
+    "giữ remote smart key xe ga",
+    "người ngồi sau cầm remote"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người thuê Air Blade bản Smart Key lần đầu",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-003",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đánh rơi remote Smart Key khi đang chạy Honda Air Blade thuê: xe còn đi được đến đâu và làm gì ngay",
+   "intent": "Nắm cách nhận ra remote Smart Key đã rơi khi Air Blade vẫn nổ máy, chọn chỗ dừng an toàn trước khi tắt máy, quay lại tìm và báo tiệm cho thuê đúng thông tin.",
+   "kw": "rơi remote air blade khi đang chạy",
+   "kw2": [
+    "mất remote smart key giữa đường",
+    "đèn báo smart key nhấp nháy"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người đang thuê Air Blade bản Smart Key",
+   "location_scope": "Hà Nội và các chặng ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-004",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Honda Air Blade 125 hay 160 khi thuê: nhìn đâu để biết bản xe và lái khác nhau ra sao lúc tăng tốc, phanh",
+   "intent": "Biết cách nhận ra chiếc Air Blade đang thuê là bản 125 hay 160 qua tem xe, đồng hồ và cụm phanh, đồng thời hiểu khác biệt khi tăng tốc, phanh để chỉnh cách lái.",
+   "kw": "air blade 125 hay 160",
+   "kw2": [
+    "phân biệt air blade 125 và 160",
+    "air blade 160 khác gì 125"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người thuê xe ga muốn hiểu chiếc Air Blade mình nhận",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-005",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Air Blade 160 có ABS bánh trước: vẫn phải dùng phanh sau và cảm giác rung tay phanh khi ABS làm việc",
+   "intent": "Hiểu ABS trên Air Blade 160 chỉ chống bó cứng bánh trước, vì sao vẫn cần phối hợp phanh sau, và nhận biết cảm giác rung tay phanh khi ABS can thiệp trên mặt đường trơn.",
+   "kw": "abs air blade 160",
+   "kw2": [
+    "phanh abs bánh trước xe ga",
+    "tay phanh rung khi abs hoạt động"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người lái Air Blade 160 chưa quen phanh ABS",
+   "location_scope": "đường phố và đường ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-006",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Cổng sạc USB trên Honda Air Blade thuê: sạc điện thoại chạy bản đồ, đi dây gọn và đóng nắp khi trời mưa",
+   "intent": "Biết cách dùng cổng sạc USB trên các bản Air Blade đời mới để giữ pin điện thoại khi dẫn đường, đi dây không vướng tay lái và che cổng sạc khỏi nước mưa.",
+   "kw": "cổng sạc usb air blade",
+   "kw2": [
+    "sạc điện thoại trên xe air blade",
+    "air blade có cổng sạc không"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "khách du lịch dùng điện thoại dẫn đường cả ngày",
+   "location_scope": "Hà Nội và các chuyến đi trong ngày",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-007",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Honda Air Blade làm mát bằng dung dịch: tiếng quạt két nước khi kẹt xe là bình thường hay cần báo tiệm",
+   "intent": "Hiểu vì sao quạt làm mát của Air Blade chạy ồn khi kẹt xe lâu, phân biệt tiếng quạt bình thường với dấu hiệu bất thường như rò nước, mùi lạ để biết khi nào báo tiệm.",
+   "kw": "quạt két nước air blade",
+   "kw2": [
+    "air blade làm mát bằng dung dịch",
+    "air blade kêu vù vù khi dừng"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người quen xe làm mát bằng gió như Wave, Vision",
+   "location_scope": "nội thành Hà Nội giờ cao điểm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-008",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Bấm đề Honda Air Blade gần như không nghe tiếng đề: bộ đề ACG và cách biết xe đã nổ máy",
+   "intent": "Hiểu bộ đề ACG giúp Air Blade khởi động êm, biết dấu hiệu xe đã nổ trên đồng hồ và qua tiếng máy để không bấm đề nhiều lần hay vặn ga khi chưa sẵn sàng.",
+   "kw": "bộ đề acg air blade",
+   "kw2": [
+    "air blade đề không có tiếng",
+    "cách biết xe ga đã nổ máy"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người quen tiếng đề của xe số khi chuyển sang Air Blade",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-009",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Bằng A1 cấp từ năm 2025 có lái được Honda Air Blade 160 không: đọc đúng hạng bằng trước khi nhận xe",
+   "intent": "Hiểu theo Luật Trật tự, an toàn giao thông đường bộ 2024, bằng A1 mới chỉ cho lái xe đến 125 cm3 còn bằng A1 cấp trước 2025 vẫn dùng được, để chọn đúng bản Air Blade.",
+   "kw": "bằng a1 lái air blade 160",
+   "kw2": [
+    "bằng a1 mới lái xe bao nhiêu phân khối",
+    "air blade 160 cần bằng gì"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người mới thi bằng lái xe máy từ năm 2025",
+   "location_scope": "Việt Nam, áp dụng khi thuê xe ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-010",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Honda Air Blade qua gờ giảm tốc khu đô thị và đường làng: nhả ga sớm để người ngồi sau đỡ bị xóc",
+   "intent": "Biết cách giảm ga, nhả phanh đúng lúc và giữ tư thế khi đưa Air Blade chở người qua gờ giảm tốc, ổ gà ở khu đô thị mới và đường làng để người ngồi sau không bị dằn.",
+   "kw": "air blade qua gờ giảm tốc",
+   "kw2": [
+    "chở người qua gờ giảm tốc êm",
+    "air blade đi đường làng ổ gà"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người lái Air Blade thường chở bạn đồng hành",
+   "location_scope": "khu đô thị mới và đường làng ven Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-011",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Sinh viên quanh đường Giải Phóng thuê Honda Air Blade theo tháng: đi học, gửi xe trường và làm thêm buổi tối",
+   "intent": "Lên kế hoạch dùng một chiếc Air Blade thuê tháng cho sinh viên khu Giải Phóng, Kinh tế Quốc dân, Xây dựng: tuyến đi học, gửi xe trong trường và đi làm thêm về khuya an toàn.",
+   "kw": "sinh viên thuê air blade theo tháng",
+   "kw2": [
+    "thuê xe tháng gần kinh tế quốc dân",
+    "sinh viên giải phóng thuê xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "sinh viên ở trọ khu Giải Phóng, Bạch Mai, Phương Mai",
+   "location_scope": "Hai Bà Trưng, Đống Đa, Hoàng Mai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-012",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi hồ Núi Cốc bằng Honda Air Blade thuê: theo quốc lộ 3 cũ, tránh lối lên cao tốc và nghỉ giữa chặng",
+   "intent": "Lên kế hoạch chuyến trong ngày từ Hà Nội đến hồ Núi Cốc bằng Air Blade: đi quốc lộ 3 cũ qua Sóc Sơn, Phổ Yên, không nhầm lối lên cao tốc, đổ xăng và canh giờ quay về.",
+   "kw": "đi hồ núi cốc bằng air blade",
+   "kw2": [
+    "hà nội đi núi cốc xe máy quốc lộ 3",
+    "xe máy không đi cao tốc thái nguyên"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "nhóm bạn hoặc cặp đôi muốn đi chơi xa trong ngày",
+   "location_scope": "Hà Nội – Sóc Sơn – Thái Nguyên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-013",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi Yên Tử bằng Honda Air Blade thuê: quốc lộ 18 nhiều xe tải, điểm nghỉ và gửi xe dưới chân núi",
+   "intent": "Lên kế hoạch chuyến đi Yên Tử bằng Air Blade: chia chặng qua Bắc Ninh, chạy quốc lộ 18 đông xe tải, chọn điểm nghỉ đổ xăng, gửi xe ở chân núi và về trước khi trời tối.",
+   "kw": "đi yên tử bằng air blade",
+   "kw2": [
+    "hà nội đi yên tử xe máy",
+    "quốc lộ 18 xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người đi lễ hoặc leo núi tự lái xe máy",
+   "location_scope": "Hà Nội – Bắc Ninh – Quảng Ninh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-014",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi Hải Phòng bằng Honda Air Blade thuê theo quốc lộ 5: làn xe máy, xe container và điểm nghỉ dọc đường",
+   "intent": "Lên kế hoạch chặng Hà Nội đi Hải Phòng bằng Air Blade theo quốc lộ 5: giữ làn bên phải, cẩn trọng với xe container, chọn điểm nghỉ và tránh đi nhầm vào đường cao tốc.",
+   "kw": "đi hải phòng bằng air blade",
+   "kw2": [
+    "hà nội hải phòng xe máy quốc lộ 5",
+    "xe máy đi quốc lộ 5"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người tự lái xe máy đi Hải Phòng ăn uống, thăm người thân",
+   "location_scope": "Hà Nội – Hưng Yên – Hải Phòng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-015",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi Phố Hiến mùa nhãn lồng bằng Honda Air Blade thuê: theo đường đê sông Hồng và chở nhãn về Hà Nội",
+   "intent": "Lên kế hoạch chuyến đi Phố Hiến vào mùa nhãn lồng bằng Air Blade: chạy đường đê qua Văn Giang, Khoái Châu, ghé vườn nhãn, xếp nhãn vào cốp, móc treo và về trước tối.",
+   "kw": "phố hiến mùa nhãn bằng xe máy",
+   "kw2": [
+    "mùa nhãn lồng hưng yên",
+    "đường đê hà nội hưng yên"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người Hà Nội và khách du lịch đi chơi cuối tuần mùa hè",
+   "location_scope": "Hà Nội – Văn Giang – Khoái Châu – Phố Hiến, Hưng Yên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-016",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi Đền Hùng bằng Honda Air Blade thuê: chặng gần 100 km, canh xăng giữa đường và gửi xe chân núi Nghĩa Lĩnh",
+   "intent": "Lên kế hoạch đi Đền Hùng trong ngày bằng Air Blade: chọn tuyến qua Sơn Tây hoặc Vĩnh Yên, canh mức xăng theo dung tích bình, nghỉ giữa chặng và gửi xe dưới chân núi Nghĩa Lĩnh.",
+   "kw": "đi đền hùng bằng air blade",
+   "kw2": [
+    "hà nội đi đền hùng xe máy bao lâu",
+    "gửi xe đền hùng"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "gia đình hai người hoặc nhóm bạn đi lễ",
+   "location_scope": "Hà Nội – Phú Thọ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-017",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi chùa Tam Chúc bằng Honda Air Blade thuê: theo quốc lộ 1 qua Phủ Lý, không vào cao tốc và gửi xe ở khu chùa",
+   "intent": "Lên kế hoạch chuyến đi chùa Tam Chúc bằng Air Blade: chạy quốc lộ 1 qua Phủ Lý rồi rẽ quốc lộ 21B, tránh lối lên cao tốc, gửi xe và di chuyển trong khu chùa rộng.",
+   "kw": "đi chùa tam chúc bằng air blade",
+   "kw2": [
+    "hà nội đi tam chúc xe máy",
+    "gửi xe chùa tam chúc"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người đi lễ chùa, gia đình hai người",
+   "location_scope": "Hà Nội – Phủ Lý – Tam Chúc",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-018",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi lễ đền Bà Chúa Kho tháng Giêng bằng Honda Air Blade thuê: giờ tránh đông, gửi xe và giữ đồ lễ",
+   "intent": "Lên kế hoạch đi lễ đền Bà Chúa Kho ở Bắc Ninh dịp tháng Giêng bằng Air Blade: chọn giờ đi tránh kẹt, gửi xe ở bãi có vé, xếp đồ lễ vào cốp và giữ an toàn tài sản.",
+   "kw": "đền bà chúa kho bằng xe máy",
+   "kw2": [
+    "đền bà chúa kho tháng giêng",
+    "gửi xe đền bà chúa kho"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người đi lễ đầu năm từ Hà Nội",
+   "location_scope": "Hà Nội – Bắc Ninh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-019",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi cắm trại qua đêm bằng Honda Air Blade thuê: xếp lều, túi ngủ, bếp vào cốp và yên sau cho hai người",
+   "intent": "Biết cách chia đồ cắm trại cho hai người trên một chiếc Air Blade: món nào để cốp, món nào buộc yên sau, giữ trọng tâm xe và để xe an toàn qua đêm ở bãi cắm trại.",
+   "kw": "chở đồ cắm trại bằng air blade",
+   "kw2": [
+    "cắm trại gần hà nội bằng xe máy",
+    "buộc lều lên xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "cặp đôi hoặc hai bạn đi cắm trại cuối tuần",
+   "location_scope": "Sóc Sơn, Đồng Mô, Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-020",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Honda Air Blade lên tốc độ nhanh hơn bạn nghĩ: canh đồng hồ để không vượt tốc độ cho phép trên đường thoáng",
+   "intent": "Hiểu vì sao Air Blade dễ vượt tốc độ cho phép trên đường rộng như Võ Nguyên Giáp hay đường gom Đại lộ Thăng Long, và biết cách giữ ga, đọc biển báo tốc độ để chạy đúng luật.",
+   "kw": "air blade chạy quá tốc độ",
+   "kw2": [
+    "tốc độ tối đa xe máy ngoài khu dân cư",
+    "giữ tốc độ đều xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người quen xe yếu hơn lần đầu lái Air Blade",
+   "location_scope": "đường lớn ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-021",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Thuê Honda Air Blade theo tháng: nhớt máy, má phanh, lốp và dây curoa cần nhắn tiệm kiểm khi nào",
+   "intent": "Nắm các mốc và dấu hiệu hao mòn của Air Blade khi chạy hằng ngày suốt tháng như nhớt máy, má phanh, lốp, dây curoa để chủ động nhắn tiệm kiểm tra thay vì tự sửa.",
+   "kw": "thuê air blade theo tháng bảo dưỡng",
+   "kw2": [
+    "air blade bao lâu thay nhớt",
+    "dấu hiệu má phanh air blade mòn"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người thuê Air Blade dài hạn để đi làm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-022",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Quen chạy xe ở TP.HCM, ra Hà Nội thuê Honda Air Blade: phố một chiều, cầu qua sông Hồng và mùa lạnh",
+   "intent": "Hiểu những khác biệt khi người quen chạy xe ở TP.HCM lái Air Blade tại Hà Nội: phố cổ nhiều đường một chiều, định hướng theo các cầu sông Hồng và thời tiết lạnh ẩm.",
+   "kw": "người sài gòn chạy xe hà nội",
+   "kw2": [
+    "khác biệt giao thông hà nội và sài gòn",
+    "người miền nam thuê xe máy hà nội"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người từ TP.HCM và các tỉnh phía Nam ra Hà Nội công tác, du lịch",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-023",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Từ ngõ ra đường lớn và nhập làn từ đường gom bằng Honda Air Blade: canh khoảng trống, không vọt ga",
+   "intent": "Biết cách đưa Air Blade từ ngõ nhỏ ra đường chính và từ đường gom nhập vào trục lớn như Phạm Văn Đồng: dừng quan sát, canh khoảng trống, bật xi nhan và tăng ga vừa đủ.",
+   "kw": "air blade nhập làn đường lớn",
+   "kw2": [
+    "từ ngõ ra đường lớn xe máy",
+    "nhập làn từ đường gom"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người mới lái Air Blade ở Hà Nội",
+   "location_scope": "Cầu Giấy, Bắc Từ Liêm, Thanh Xuân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-024",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Đi làng cổ Nôm bằng Honda Air Blade thuê: theo quốc lộ 5 sang Văn Lâm, gửi xe đầu làng và đi bộ qua cầu đá",
+   "intent": "Lên kế hoạch nửa ngày thăm làng cổ Nôm bằng Air Blade: chạy quốc lộ 5 qua Như Quỳnh, rẽ đường làng, gửi xe đầu làng, đi bộ quanh cầu đá, chợ Nôm và về trước giờ tan tầm.",
+   "kw": "đi làng nôm bằng xe máy",
+   "kw2": [
+    "làng cổ nôm hưng yên",
+    "cầu đá làng nôm"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "khách thích làng cổ và chụp ảnh",
+   "location_scope": "Hà Nội – Văn Lâm, Hưng Yên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-015-025",
+   "child_id": "C-HONDA-AIR-BLADE",
+   "title": "Ngắm dã quỳ Ba Vì tháng Mười Một bằng Honda Air Blade thuê: giờ đi, đường lên vườn quốc gia và chỗ dừng chụp",
+   "intent": "Lên kế hoạch chuyến ngắm hoa dã quỳ ở Vườn quốc gia Ba Vì bằng Air Blade: chọn ngày giữa tuần, giờ xuất phát, đoạn đường dốc quanh co và chỗ dừng xe chụp ảnh không cản lối.",
+   "kw": "dã quỳ ba vì bằng xe máy",
+   "kw2": [
+    "mùa dã quỳ ba vì tháng 11",
+    "đường lên vườn quốc gia ba vì"
+   ],
+   "links": [
+    "/xe-may/honda-air-blade/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-015",
+   "audience": "người thích chụp ảnh mùa hoa",
+   "location_scope": "Ba Vì, Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

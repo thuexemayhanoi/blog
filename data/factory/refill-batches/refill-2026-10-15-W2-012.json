@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-012: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-001",
+   "child_id": "C-XE-DIEN",
+   "title": "Ứng dụng kết nối trên xe máy điện thuê: xem mức pin, định vị xe và những điều nên hỏi chủ xe",
+   "intent": "Hiểu ứng dụng điện thoại kết nối với xe máy điện thuê làm được gì như xem mức pin, định vị, cảnh báo, và biết hỏi chủ xe về quyền truy cập, đăng xuất khi trả xe.",
+   "kw": "ứng dụng kết nối xe máy điện",
+   "kw2": [
+    "app xem pin xe máy điện",
+    "định vị xe máy điện thuê"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện quen dùng điện thoại thông minh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-002",
+   "child_id": "C-XE-DIEN",
+   "title": "Cốp xe máy điện nhỏ vì khoang pin: mang theo gì và cất đồ ở đâu khi đi chơi trong ngày ở Hà Nội",
+   "intent": "Biết cách sắp xếp đồ khi cốp xe máy điện bị khoang pin chiếm chỗ: chọn đồ cần mang, chỗ để mũ, áo mưa, bộ sạc và giữ đồ khô ráo, gọn gàng suốt ngày.",
+   "kw": "cốp xe máy điện",
+   "kw2": [
+    "xe máy điện để đồ ở đâu",
+    "cốp xe điện chứa được gì"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "khách du lịch thuê xe máy điện đi chơi cả ngày",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-003",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện tự giảm công suất khi pin thấp hoặc nóng máy: chế độ bảo vệ hoạt động ra sao",
+   "intent": "Hiểu vì sao xe máy điện tự yếu ga, giới hạn tốc độ khi pin xuống thấp hoặc động cơ, bộ điều khiển quá nóng, và cách lái, dừng nghỉ an toàn khi chế độ bảo vệ kích hoạt.",
+   "kw": "xe máy điện tự giảm tốc",
+   "kw2": [
+    "xe điện yếu ga khi pin thấp",
+    "chế độ bảo vệ xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện đi nhiều chặng trong ngày",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-004",
+   "child_id": "C-XE-DIEN",
+   "title": "Động cơ trong bánh sau hay đặt giữa thân xe: cảm giác lái xe máy điện thuê khác nhau thế nào",
+   "intent": "Nắm khác biệt giữa xe máy điện dùng động cơ trong bánh sau và động cơ đặt giữa có truyền động, để biết cảm giác tăng tốc, leo dốc, tiếng động và cách lái cho phù hợp.",
+   "kw": "động cơ trong bánh xe máy điện",
+   "kw2": [
+    "động cơ hub xe máy điện",
+    "động cơ đặt giữa xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê muốn hiểu cấu tạo chiếc xe máy điện mình nhận",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-005",
+   "child_id": "C-XE-DIEN",
+   "title": "Từ nội thành đi Ecopark bằng xe máy điện thuê: chọn cầu qua sông Hồng và tính pin khứ hồi",
+   "intent": "Lên kế hoạch chuyến đi từ nội thành Hà Nội sang khu đô thị Ecopark bằng xe máy điện thuê: chọn cầu cho phép xe máy, ước quãng đường khứ hồi và giữ pin dự phòng.",
+   "kw": "đi ecopark bằng xe máy điện",
+   "kw2": [
+    "xe điện từ hà nội sang ecopark",
+    "ecopark cách hà nội bao xa"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người ở nội thành muốn đi dạo cuối tuần bằng xe máy điện",
+   "location_scope": "Hoàn Kiếm, Long Biên, Gia Lâm, Văn Giang (Hưng Yên)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-006",
+   "child_id": "C-XE-DIEN",
+   "title": "Người dáng nhỏ thuê xe máy điện: chiều cao yên, trọng lượng xe và cách chống chân khi dừng đèn đỏ",
+   "intent": "Biết cách chọn và làm quen xe máy điện thuê khi dáng người nhỏ: kiểm tra chiều cao yên, sức nặng của xe có pin, và tư thế chống chân, dừng xe vững ở ngã tư đông.",
+   "kw": "xe máy điện cho người thấp",
+   "kw2": [
+    "chiều cao yên xe máy điện",
+    "xe điện cho nữ dáng nhỏ"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "phụ nữ và người dáng nhỏ dưới 1m55",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-007",
+   "child_id": "C-XE-DIEN",
+   "title": "Đi nhóm có cả xe máy điện và xe xăng: thống nhất tốc độ, điểm dừng sạc và lộ trình chung",
+   "intent": "Lên kế hoạch cho nhóm bạn đi cùng nhau khi có người lái xe máy điện, người lái xe xăng: chọn tốc độ chung, chặng nghỉ có chỗ sạc và lộ trình vừa với quãng pin.",
+   "kw": "đi nhóm xe điện và xe xăng",
+   "kw2": [
+    "đi chơi nhóm có xe máy điện",
+    "điểm dừng sạc khi đi nhóm"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "nhóm bạn, gia đình thuê nhiều xe đi chơi chung",
+   "location_scope": "Hà Nội và các điểm ven đô",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-008",
+   "child_id": "C-XE-DIEN",
+   "title": "Thuê xe máy điện dịp Tết ở Hà Nội: trạm sạc, điểm đổi pin ngày nghỉ lễ và đi chúc Tết xa nhà",
+   "intent": "Lên kế hoạch dùng xe máy điện thuê những ngày Tết ở Hà Nội: hỏi trước lịch hoạt động của trạm sạc, điểm đổi pin, sạc đầy trước mỗi chuyến chúc Tết và chia chặng hợp lý.",
+   "kw": "xe máy điện dịp tết",
+   "kw2": [
+    "sạc xe điện ngày tết",
+    "đi chúc tết bằng xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người ở lại Hà Nội dịp Tết và người về thăm nhà",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-009",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện xuống bãi đất, bãi cát ven sông Hồng: giữ ga đều, tránh sa lầy và khi nào nên dắt bộ",
+   "intent": "Biết cách điều khiển xe máy điện nặng trên nền đất mềm, cát và lối mòn ven bãi sông Hồng: giữ ga đều, không quay bánh tại chỗ và nhận ra lúc nên dừng, dắt xe.",
+   "kw": "xe máy điện đi đường cát",
+   "kw2": [
+    "xe điện bị sa lầy cát",
+    "xe máy điện xuống bãi sông hồng"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người đi chụp ảnh, ngắm hoa ở các bãi ven sông",
+   "location_scope": "bãi ven sông Hồng thuộc Tây Hồ, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-010",
+   "child_id": "C-XE-DIEN",
+   "title": "Lên dốc hầm gửi xe và vỉa hè cao bằng xe máy điện: ga nhẹ để xe không chồm, không cạ gầm",
+   "intent": "Biết cách vượt dốc ngắn ở lối xuống hầm gửi xe và mép vỉa hè cao bằng xe máy điện có lực kéo tức thì: góc vào dốc, mức ga, tư thế ngồi và tránh cạ gầm.",
+   "kw": "xe máy điện lên dốc hầm",
+   "kw2": [
+    "xe điện lên vỉa hè cao",
+    "xe máy điện bị chồm khi vặn ga"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người ở chung cư, làm văn phòng có hầm gửi xe",
+   "location_scope": "chung cư và tòa nhà văn phòng ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-011",
+   "child_id": "C-XE-DIEN",
+   "title": "Đèn, còi và cổng USB sạc điện thoại trên xe máy điện: thiết bị nào thật sự làm hao pin",
+   "intent": "Hiểu mức tiêu thụ điện của đèn, còi, cổng sạc điện thoại so với động cơ trên xe máy điện, để biết thiết bị nào bật thoải mái và lúc pin thấp nên tiết chế gì.",
+   "kw": "cổng usb xe máy điện",
+   "kw2": [
+    "bật đèn xe điện có tốn pin không",
+    "sạc điện thoại trên xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện dùng điện thoại dẫn đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-012",
+   "child_id": "C-XE-DIEN",
+   "title": "Tiền điện sạc xe máy điện ở nhà trọ: ước lượng số kWh mỗi lần sạc và thỏa thuận với chủ trọ",
+   "intent": "Biết cách ước lượng lượng điện một lần sạc xe máy điện từ điện áp và dung lượng pin, quy ra số kWh để thỏa thuận rõ ràng với chủ nhà trọ về cách tính tiền điện.",
+   "kw": "tiền điện sạc xe máy điện",
+   "kw2": [
+    "sạc xe điện hết bao nhiêu số điện",
+    "chủ trọ tính tiền sạc xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê trọ, sinh viên dùng xe máy điện thuê dài ngày",
+   "location_scope": "các khu nhà trọ ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-013",
+   "child_id": "C-XE-DIEN",
+   "title": "Chạy giao hàng cả ngày bằng xe máy điện thuê: chia ca sạc, quãng đường và tải trọng thùng hàng",
+   "intent": "Lên kế hoạch dùng xe máy điện thuê cho việc giao hàng cả ngày: chia chặng theo pin, chọn giờ sạc xen giữa ca, giới hạn tải hàng và hỏi rõ chủ xe về mục đích sử dụng.",
+   "kw": "xe máy điện chạy giao hàng",
+   "kw2": [
+    "shipper dùng xe máy điện",
+    "xe điện chạy cả ngày sạc mấy lần"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người làm giao hàng, chạy đơn bán thời gian",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-014",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện có hai khay pin: dùng pin thứ hai thế nào để kéo dài quãng đường trong ngày",
+   "intent": "Hiểu cách xe máy điện hai khay pin luân phiên hoặc cộng dồn dung lượng, cách đọc mức từng pin, sạc cả hai và lên lịch dùng pin thứ hai cho ngày đi xa.",
+   "kw": "xe máy điện hai pin",
+   "kw2": [
+    "xe điện hai khay pin",
+    "pin thứ hai xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê cần quãng đường dài hơn một pin",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-015",
+   "child_id": "C-XE-DIEN",
+   "title": "Ghi số km và phần trăm pin sau mỗi lần sạc: tự tính mức tiêu hao thật của xe máy điện đang thuê",
+   "intent": "Biết cách ghi lại số km trên đồng hồ và phần trăm pin qua vài ngày để tự tính mỗi phần trăm pin đi được bao xa, từ đó lên kế hoạch sạc sát thực tế.",
+   "kw": "mức tiêu hao pin xe máy điện",
+   "kw2": [
+    "mỗi phần trăm pin đi bao nhiêu km",
+    "nhật ký sạc xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện theo tuần hoặc theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-016",
+   "child_id": "C-XE-DIEN",
+   "title": "Sạc nhanh hay sạc thường cho xe máy điện thuê: khi nào nên dùng trụ sạc nhanh và ảnh hưởng tới pin",
+   "intent": "Hiểu khác biệt giữa sạc nhanh và sạc thường cho xe máy điện, cách kiểm tra xe thuê có hỗ trợ sạc nhanh hay không, khi nào nên dùng và vì sao không nên lạm dụng.",
+   "kw": "sạc nhanh xe máy điện",
+   "kw2": [
+    "sạc nhanh có hại pin xe điện không",
+    "trụ sạc nhanh xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện cần nạp pin gấp giữa ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-017",
+   "child_id": "C-XE-DIEN",
+   "title": "Cầu dao nhảy khi cắm sạc xe máy điện ở nhà trọ: nguyên nhân thường gặp và cách xử lý an toàn",
+   "intent": "Biết cách xử lý khi cầu dao hoặc aptomat ngắt điện lúc cắm sạc xe máy điện: rút sạc, kiểm tra quá tải, ổ cắm ẩm, và khi nào ngừng sạc để báo chủ xe.",
+   "kw": "cầu dao nhảy khi sạc xe điện",
+   "kw2": [
+    "aptomat ngắt khi sạc xe máy điện",
+    "sạc xe điện bị nhảy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê trọ, ở nhà dân tự sạc xe tại chỗ ở",
+   "location_scope": "nhà trọ, nhà dân ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-018",
+   "child_id": "C-XE-DIEN",
+   "title": "Khu nhà bị cắt điện theo lịch: chuẩn bị pin xe máy điện thuê và tìm chỗ sạc dự phòng ở Hà Nội",
+   "intent": "Lên kế hoạch khi khu ở có lịch cắt điện: theo dõi thông báo của ngành điện, sạc đầy trước giờ cắt, giảm chuyến không cần thiết và chọn nơi sạc thay thế an toàn.",
+   "kw": "cắt điện sạc xe máy điện",
+   "kw2": [
+    "lịch cắt điện hà nội sạc xe",
+    "mất điện không sạc được xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người ở trọ, chung cư dùng xe máy điện thuê hằng ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-019",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện có cần thay dầu không: những hạng mục người thuê dài ngày nên để ý và báo chủ xe",
+   "intent": "Hiểu xe máy điện không thay dầu máy như xe xăng nhưng vẫn cần để ý dầu phanh, dầu hộp số nếu có, lốp, má phanh, và biết lúc nào báo chủ xe kiểm tra.",
+   "kw": "xe máy điện có cần thay dầu",
+   "kw2": [
+    "bảo dưỡng xe máy điện định kỳ",
+    "xe điện thay dầu hộp số"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-020",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện tự tắt nguồn khi dừng lâu: vì sao xảy ra và cách khởi động lại an toàn giữa phố",
+   "intent": "Hiểu chức năng tự ngắt nguồn sau thời gian đứng yên trên nhiều xe máy điện, phân biệt với lỗi, và biết thao tác bật lại xe an toàn khi đang chờ giữa dòng xe.",
+   "kw": "xe máy điện tự tắt nguồn",
+   "kw2": [
+    "xe điện tự ngắt khi dừng lâu",
+    "bật lại nguồn xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người mới thuê xe máy điện ở Hà Nội",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-021",
+   "child_id": "C-XE-DIEN",
+   "title": "Khách quốc tế thuê xe máy điện ở Hà Nội: những điểm khác xe xăng cần hỏi trước khi nhận xe",
+   "intent": "Nắm những câu nên hỏi chủ xe khi khách quốc tế thuê xe máy điện ở Hà Nội: quãng đường thực, cách sạc, đọc đồng hồ, xử lý khi pin yếu và kênh liên hệ hỗ trợ.",
+   "kw": "khách nước ngoài thuê xe máy điện",
+   "kw2": [
+    "rent electric scooter hanoi",
+    "du khách thuê xe điện hà nội"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "khách du lịch quốc tế lần đầu dùng xe máy điện",
+   "location_scope": "Hoàn Kiếm, Tây Hồ, Ba Đình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-022",
+   "child_id": "C-XE-DIEN",
+   "title": "Sạc mãi không đầy hoặc đèn sạc báo xanh mà đồng hồ pin chưa đầy: nguyên nhân và khi nào báo chủ xe",
+   "intent": "Hiểu vì sao xe máy điện sạc lâu bất thường hoặc đèn sạc báo đầy mà đồng hồ chưa tới mức tối đa, phân biệt hiện tượng bình thường với lỗi cần báo chủ xe.",
+   "kw": "sạc xe máy điện mãi không đầy",
+   "kw2": [
+    "sạc xe điện báo đầy nhưng pin chưa đầy",
+    "sạc xe máy điện lâu đầy"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện tự sạc tại chỗ ở",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-023",
+   "child_id": "C-XE-DIEN",
+   "title": "Mang pin tháo rời lên phòng để sạc: sức nặng, cách xách và chỗ đặt pin xe máy điện an toàn",
+   "intent": "Biết cách tháo, xách pin rời của xe máy điện lên nhà an toàn, chọn chỗ đặt khi sạc thoáng mát, xa vật dễ cháy, và lắp lại pin đúng cách trước khi đi.",
+   "kw": "mang pin xe điện lên phòng sạc",
+   "kw2": [
+    "tháo pin xe máy điện mang đi sạc",
+    "chỗ đặt pin xe điện khi sạc"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người ở khu tập thể, nhà ống không dắt được xe vào nhà",
+   "location_scope": "khu tập thể, nhà ống ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-024",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện cho người làm ca đêm: sạc lúc nào trong ngày và giữ pin cho chặng về lúc khuya",
+   "intent": "Lên kế hoạch sạc xe máy điện thuê theo lịch làm ca đêm: chọn giờ sạc khi nghỉ ban ngày, giữ pin dự phòng cho chặng về khuya và chọn đường sáng, có chỗ dừng.",
+   "kw": "xe máy điện đi làm ca đêm",
+   "kw2": [
+    "sạc xe điện khi làm ca đêm",
+    "đi xe điện về khuya hà nội"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "y tá, bảo vệ, nhân viên làm ca đêm",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-012-025",
+   "child_id": "C-XE-DIEN",
+   "title": "Thuê xe máy điện dài ngày: hỏi chủ xe về tuổi pin, số lần sạc và quãng đường thực trước khi chốt",
+   "intent": "Nắm các câu hỏi về tuổi pin, số chu kỳ sạc, quãng đường thực tế và lịch kiểm tra xe để đánh giá xe máy điện trước khi chốt thuê theo tuần hoặc theo tháng.",
+   "kw": "tuổi pin xe máy điện thuê",
+   "kw2": [
+    "hỏi chủ xe về pin xe điện",
+    "chu kỳ sạc pin xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-012",
+   "audience": "người thuê xe máy điện theo tuần hoặc tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

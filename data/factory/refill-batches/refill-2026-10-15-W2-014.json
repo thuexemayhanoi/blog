@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-014: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-001",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mùa nước sông Hồng lên cao: đường xuống bãi ven sông và dốc ngoài đê nên tránh khi đi xe máy",
+   "intent": "Nắm cách nhận biết những ngày nước sông Hồng dâng cao, các đoạn đường xuống bãi ven sông và dốc ngoài đê dễ ngập hoặc sạt mép, để chọn lộ trình trong đê khi đi xe máy.",
+   "kw": "nước sông hồng lên đi xe máy",
+   "kw2": [
+    "đường ngoài đê sông hồng mùa lũ",
+    "bãi ven sông hồng ngập nước"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy sống hoặc thường đi qua khu ven sông Hồng",
+   "location_scope": "Long Biên, Tây Hồ, Hoàng Mai, ven đê sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-002",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Chương Mỹ, Quốc Oai mùa lũ sông Bùi, sông Tích: đường làng ngập nhiều ngày, đi xe máy thế nào",
+   "intent": "Hiểu vì sao vùng trũng Chương Mỹ, Quốc Oai có thể ngập kéo dài khi sông Bùi, sông Tích lên, để biết hỏi tình hình, chọn đường cao và quyết định hoãn chuyến xe máy.",
+   "kw": "chương mỹ ngập lụt đi xe máy",
+   "kw2": [
+    "lũ sông bùi chương mỹ",
+    "đường ngập quốc oai mùa mưa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi làm, về quê hoặc đi chơi vùng ven phía tây Hà Nội",
+   "location_scope": "Chương Mỹ, Quốc Oai, Thạch Thất",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-003",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Khe co giãn bằng thép trên cầu lớn khi trời ướt: đi thẳng qua, không phanh và không đổi làn",
+   "intent": "Biết cách nhận ra khe co giãn bằng thép ở đầu cầu và giữa các nhịp cầu, giữ xe máy thẳng, nhả phanh khi bánh xe đi qua lúc mặt cầu ướt mưa hoặc đọng sương.",
+   "kw": "khe co giãn cầu trơn khi mưa",
+   "kw2": [
+    "qua khe co giãn cầu bằng xe máy",
+    "khe nối mặt cầu đường ướt"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy qua cầu sông Hồng hằng ngày",
+   "location_scope": "cầu Vĩnh Tuy, Chương Dương, Nhật Tân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-004",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mũ len, khăn ống và khẩu trang dày dưới mũ bảo hiểm ngày rét: khi nào làm mũ lỏng và che tầm nhìn",
+   "intent": "Hiểu lớp giữ ấm nào đội bên trong mũ bảo hiểm làm quai lỏng, mũ xê dịch hoặc che khóe mắt, và biết chọn đồ giữ ấm đầu cổ mà vẫn cài quai mũ đúng cách.",
+   "kw": "đội mũ len dưới mũ bảo hiểm",
+   "kw2": [
+    "khăn ống giữ ấm khi đi xe máy",
+    "mũ bảo hiểm mùa rét bị lỏng"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy sáng sớm và tối muộn mùa đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-005",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Áo mưa trùm che đèn hậu, xi nhan và biển số: mặc sao để xe phía sau vẫn nhìn thấy bạn",
+   "intent": "Biết cách mặc và giữ vạt áo mưa cánh dơi, áo mưa trùm không che đèn hậu, xi nhan, biển số, giúp người phía sau nhận ra bạn đang phanh hay chuyển hướng khi trời mưa.",
+   "kw": "áo mưa che đèn hậu biển số",
+   "kw2": [
+    "vạt áo mưa che xi nhan",
+    "mặc áo mưa trùm đúng cách"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy hay dùng áo mưa trùm, áo mưa cánh dơi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-006",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mưa ập xuống khi đang ở giữa cầu Nhật Tân, Vĩnh Tuy: đi tiếp tới đâu mới dừng mặc áo mưa",
+   "intent": "Biết cách xử lý khi gặp mưa giữa cây cầu dài: không dừng trên làn cầu, giảm tốc giữ làn trước gió và chọn điểm dừng an toàn sau chân cầu để mặc áo mưa.",
+   "kw": "gặp mưa khi đang đi trên cầu",
+   "kw2": [
+    "dừng xe trên cầu mặc áo mưa",
+    "mưa gió trên cầu nhật tân"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy qua cầu sông Hồng",
+   "location_scope": "cầu Nhật Tân, Vĩnh Tuy, Chương Dương",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-007",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Đường đất đỏ ở đồi Sóc Sơn, chân núi Ba Vì sau mưa: lớp bùn mỏng trơn hơn bạn nghĩ",
+   "intent": "Hiểu vì sao đường đất đỏ và đường nhựa phủ đất đỏ vùng đồi trở nên rất trơn sau mưa, và biết cách giảm tốc, giữ ga đều, tránh phanh trước gấp khi đi xe máy.",
+   "kw": "đường đất đỏ trơn sau mưa",
+   "kw2": [
+    "đường đồi sóc sơn trơn khi mưa",
+    "đất đỏ ba vì đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi dã ngoại, cắm trại bằng xe máy ở vùng đồi ngoại thành",
+   "location_scope": "Sóc Sơn, Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-008",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Đi qua vũng nước cạnh người đi bộ, người đứng chờ xe buýt: giảm tốc để không tạt nước vào ai",
+   "intent": "Biết cách quan sát người đi bộ, người đứng chờ ở mép đường khi trời mưa, giảm tốc và chọn vệt bánh để không làm nước bắn lên người khác mà vẫn giữ an toàn cho mình.",
+   "kw": "xe máy tạt nước người đi bộ",
+   "kw2": [
+    "giảm tốc khi qua vũng nước",
+    "ứng xử khi đi xe ngày mưa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy trong phố ngày mưa",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-009",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Sáng rét lốp xe máy nguội và non hơi: vài cây số đầu nên phanh, vào cua nhẹ tay hơn",
+   "intent": "Hiểu vì sao buổi sáng trời rét lốp xe máy giảm áp suất và bám đường kém hơn lúc đầu, biết cách kiểm tra hơi lốp và điều chỉnh phanh, vào cua trong quãng đường đầu.",
+   "kw": "lốp xe máy trời rét",
+   "kw2": [
+    "áp suất lốp giảm khi trời lạnh",
+    "lốp nguội bám đường kém"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi làm sớm bằng xe máy mùa đông",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-010",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mặt trời thấp sau lưng lúc sáng sớm, chiều muộn: xe ngược chiều bị chói và khó nhìn thấy bạn",
+   "intent": "Hiểu khi mặt trời thấp chiếu từ phía sau mình thì người đi ngược chiều, xe chờ rẽ bị chói mắt, để biết bật đèn, giảm tốc và giữ khoảng cách ở ngã tư cho an toàn.",
+   "kw": "xe ngược chiều bị chói nắng",
+   "kw2": [
+    "đi xe máy xuôi hướng mặt trời",
+    "người đối diện bị chói không thấy xe"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy hướng đông buổi sáng, hướng tây buổi chiều",
+   "location_scope": "các trục đường đông tây ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-011",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mùa làm đất cấy lúa ven Hà Nội: bùn máy cày kéo ra đường và nước ruộng tràn mặt đường liên xã",
+   "intent": "Nắm thời điểm làm đất, cấy lúa vụ xuân và vụ mùa ở các huyện ngoại thành, nhận biết bùn bánh máy cày và nước ruộng tràn mặt đường liên xã để đi xe máy chậm, an toàn.",
+   "kw": "đường bùn mùa cấy lúa xe máy",
+   "kw2": [
+    "máy cày kéo bùn ra đường",
+    "đường liên xã trơn mùa cấy"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người về quê hoặc đi chơi đồng quê ngoại thành bằng xe máy",
+   "location_scope": "Ứng Hòa, Mỹ Đức, Phú Xuyên, Đông Anh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-012",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Nước ngập quanh cột điện, tủ điện và trạm biến áp: vì sao không nên đi hoặc dắt xe máy sát qua",
+   "intent": "Hiểu nguy cơ điện rò khi nước ngập quanh cột điện, tủ điện, trạm biến áp, và biết cách chọn đường vòng, giữ khoảng cách, báo ngành điện khi thấy dây hoặc tủ điện ngập.",
+   "kw": "đường ngập gần cột điện",
+   "kw2": [
+    "nguy cơ điện giật khi đường ngập",
+    "tủ điện ngập nước ven đường"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy qua phố ngập mùa mưa bão",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-013",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Đi dưới đường trên cao Vành đai 3 và đường sắt đô thị ngày mưa: nước xả, cột trụ và người dừng trú",
+   "intent": "Biết cách đi xe máy dưới các tuyến đường trên cao khi trời mưa: tránh dòng nước xả từ ống thoát, để ý cột trụ khuất tầm nhìn và người dừng trú mưa chắn làn.",
+   "kw": "đi dưới đường trên cao trời mưa",
+   "kw2": [
+    "trú mưa dưới gầm đường trên cao",
+    "nước xả từ ống thoát cầu cạn"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi làm qua các trục có đường trên cao",
+   "location_scope": "Khuất Duy Tiến, Nguyễn Xiển, Phạm Văn Đồng, Nguyễn Trãi, Xuân Thủy",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-014",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Chở trẻ nhỏ bằng xe máy ngày rét đậm hoặc nắng gắt: giữ ấm, che nắng mà bé vẫn ngồi vững",
+   "intent": "Biết cách chuẩn bị quần áo, mũ, khẩu trang, chọn giờ đi và tư thế ngồi cho trẻ nhỏ trên xe máy khi trời rét đậm hoặc nắng gắt, tránh để bé bị lạnh hay mệt vì nóng.",
+   "kw": "chở trẻ nhỏ ngày rét đậm",
+   "kw2": [
+    "chở con đi học trời nắng gắt",
+    "giữ ấm cho bé ngồi xe máy"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "phụ huynh chở con đi học, đi chơi bằng xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-015",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Thời tiết Hà Nội từng tháng trong năm: lịch đi xe máy, tháng nào dễ chịu và tháng nào cần đề phòng",
+   "intent": "Lên kế hoạch thuê và đi xe máy ở Hà Nội theo từng tháng: nắm kiểu thời tiết điển hình như rét, nồm, mưa giông, nắng nóng, hanh khô và việc chuẩn bị tương ứng.",
+   "kw": "thời tiết hà nội từng tháng",
+   "kw2": [
+    "tháng nào đi xe máy hà nội dễ chịu",
+    "lịch thời tiết hà nội cho khách"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "khách du lịch và người mới chuyển đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-016",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Gương chiếu hậu đọng nước mưa, hơi sương buổi sớm: lau thế nào và khi nào gương hết đáng tin",
+   "intent": "Biết cách giữ gương chiếu hậu nhìn rõ khi hạt mưa, hơi sương bám kín: lau đúng lúc trước và giữa chuyến, chỉnh góc gương, và nhận ra khi nào gương không còn đáng tin.",
+   "kw": "gương xe máy bị mờ khi mưa",
+   "kw2": [
+    "gương chiếu hậu đọng sương",
+    "lau gương xe máy trời mưa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy ngày mưa và sáng sương",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-017",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Gió khi chạy xe khiến người lạnh hơn nhiệt độ dự báo: hiểu để mặc đủ ấm trước khi xuất phát",
+   "intent": "Hiểu vì sao gió do tốc độ xe tạo ra làm cơ thể mất nhiệt nhanh, khiến cảm giác lạnh hơn nhiệt độ trong bản tin, để chọn đủ lớp áo, che cổ và tay trước chuyến đi.",
+   "kw": "nhiệt độ cảm nhận khi chạy xe",
+   "kw2": [
+    "vì sao đi xe máy thấy lạnh hơn",
+    "gió lùa khi chạy xe máy"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy quãng dài mùa đông và khách đến từ nơi ấm",
+   "location_scope": "Hà Nội và các cung ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-018",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Dấu hiệu sắp có giông khi đang chạy xe máy: mây đen, gió đổi chiều, bụi cuốn và lúc nên tấp vào",
+   "intent": "Nắm những dấu hiệu bầu trời và gió báo cơn giông sắp tới khi đang đi đường, để quyết định sớm nơi dừng, mặc áo mưa và tránh bị mắc kẹt giữa gió giật.",
+   "kw": "dấu hiệu sắp có giông",
+   "kw2": [
+    "nhìn trời đoán mưa khi đi xe",
+    "trời sắp mưa đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy ngoại thành và chuyến dài mùa hè",
+   "location_scope": "Hà Nội và vùng lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-019",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Xe phía trước bất ngờ lách tránh vũng nước, ổ gà ngày mưa: giữ khoảng cách và đoán trước",
+   "intent": "Biết cách đoán trước việc xe phía trước đột ngột lách hoặc phanh để né vũng nước, ổ gà, nắp cống khi trời mưa, giữ khoảng cách và vị trí để không bị bất ngờ.",
+   "kw": "xe phía trước lách tránh vũng nước",
+   "kw2": [
+    "giữ khoảng cách khi trời mưa",
+    "xe máy né ổ gà đột ngột"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy trong dòng xe đông ngày mưa",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-020",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Nắng lên ngay sau cơn mưa rào: mặt đường ướt phản chiếu chói mắt mà bánh xe vẫn dễ trượt",
+   "intent": "Hiểu vì sao lúc nắng vừa lên sau cơn mưa mặt đường loang loáng gây chói và che ổ gà, vạch sơn, và biết cách giảm tốc, chỉnh tầm nhìn cho tới khi đường khô hẳn.",
+   "kw": "nắng sau mưa đường chói trơn",
+   "kw2": [
+    "mặt đường ướt phản chiếu nắng",
+    "đi xe máy lúc mưa vừa tạnh"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy mùa mưa rào",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-021",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Đeo kính cận đi xe máy trời mưa buổi tối: hạt mưa trên tròng kính, đèn xe nhòe và cách nhìn rõ",
+   "intent": "Biết cách giữ tầm nhìn khi đeo kính cận đi xe máy trời mưa buổi tối: hạn chế nước đọng trên tròng, dùng mũ có kính chắn, lau đúng cách và giảm tốc khi đèn xe nhòe.",
+   "kw": "kính cận đi mưa buổi tối",
+   "kw2": [
+    "kính cận bị nước mưa bám",
+    "người cận thị đi xe đêm mưa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người cận thị đi xe máy buổi tối",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-022",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mặt đường bị cào bóc chờ thảm lại: vì sao tay lái rung, bánh xe lạng và cách giữ xe đi thẳng",
+   "intent": "Hiểu vì sao đoạn đường vừa cào bóc lớp nhựa cũ có rãnh nhỏ làm bánh xe máy rung, lạng, và biết cách giữ tay lái lỏng, tốc độ đều, tránh mép chênh khi đổi làn.",
+   "kw": "đường cào bóc mặt nhựa xe máy",
+   "kw2": [
+    "mặt đường cào bóc rung tay lái",
+    "đường đang sửa chờ thảm nhựa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy qua tuyến phố đang sửa mặt đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-023",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Tay ga, tay phanh ướt trơn khi đi mưa: găng tay chống trơn và cách giữ tay lái chắc",
+   "intent": "Biết cách chọn găng tay chống trơn, lau tay và tay nắm, giữ lực cầm vừa phải để vặn ga, bóp phanh chính xác khi tay lái xe máy ướt nước mưa.",
+   "kw": "tay lái ướt trơn khi mưa",
+   "kw2": [
+    "găng tay đi mưa chống trơn",
+    "tay ga ướt khó điều khiển"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy hằng ngày mùa mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-024",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mặt đường sụt lún, hố sụt sau mưa lớn kéo dài: dấu hiệu nhận biết từ xa và cách tránh khi đi xe máy",
+   "intent": "Nắm các dấu hiệu mặt đường sắp sụt hoặc vừa sụt sau mưa lớn như vết nứt, chỗ lõm, nước sủi, rào tạm, và biết cách giảm tốc, đổi làn, báo cơ quan chức năng khi gặp.",
+   "kw": "hố sụt mặt đường sau mưa",
+   "kw2": [
+    "đường sụt lún khi mưa lớn",
+    "nhận biết đường sắp sụt"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy mùa mưa lớn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-014-025",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Mưa to át tiếng còi và tiếng xe phía sau: bù bằng mắt, gương và tín hiệu sớm khi đi xe máy",
+   "intent": "Hiểu vì sao tiếng mưa, mũ trùm áo mưa và mũ bảo hiểm kín làm khó nghe còi, tiếng xe phía sau, để biết quan sát nhiều hơn, bật xi nhan sớm và giữ làn ổn định.",
+   "kw": "mưa to không nghe tiếng còi",
+   "kw2": [
+    "nghe kém khi trùm mũ áo mưa",
+    "quan sát phía sau khi trời mưa"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-014",
+   "audience": "người đi xe máy ngày mưa lớn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
