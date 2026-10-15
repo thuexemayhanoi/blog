@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T04:50:23+00:00",
-    "staged_at": "2026-10-15T05:02:12+00:00"
+    "staged_at": "2026-10-15T05:05:47+00:00"
   },
   "candidates": [
     {
@@ -2155,6 +2155,956 @@
       "subtopic": "refill-2026-10-15-W2-017",
       "audience": "sinh viên, người lao động mang xe từ quê lên Hà Nội",
       "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-001",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Uống bia không cồn rồi lái xe máy: loại ghi 0,0% và loại dưới 0,5% có khác nhau khi đo",
+      "intent": "Hiểu bia không cồn vẫn có thể còn một lượng cồn nhỏ tùy nhãn, cách đọc thông tin trên vỏ lon và vì sao người lái xe máy nên thận trọng thay vì mặc định là an toàn.",
+      "kw": "bia không cồn lái xe máy",
+      "kw2": [
+        "uống bia 0 độ có bị phạt",
+        "bia không cồn đo nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy muốn uống xã giao trong bữa ăn",
+      "location_scope": "nhà hàng, quán ăn nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-002",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Nước súc miệng, siro ho và thuốc xịt họng có cồn: dùng trước khi chạy xe máy có bị đo ra cồn",
+      "intent": "Nắm những sản phẩm vệ sinh răng miệng và thuốc thông dụng có chứa cồn, cách đọc thành phần trên nhãn và cách sắp xếp thời điểm dùng để không cầm lái khi hơi thở còn cồn.",
+      "kw": "nước súc miệng đo nồng độ cồn",
+      "kw2": [
+        "siro ho có cồn lái xe",
+        "thuốc có cồn đi xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người đang dùng thuốc cảm ho, người có thói quen súc miệng sau ăn",
+      "location_scope": "toàn Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-003",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Ăn sầu riêng, vải chín hay mít để lâu rồi chạy xe máy: trái cây lên men có làm máy đo báo cồn",
+      "intent": "Hiểu vì sao trái cây chín kỹ hoặc để lâu có thể sinh cồn do lên men, cách nhận biết quả đã lên men và nên xử lý thế nào khi vừa ăn xong mà phải đi xe.",
+      "kw": "ăn sầu riêng đo nồng độ cồn",
+      "kw2": [
+        "trái cây lên men nồng độ cồn",
+        "ăn vải có bị thổi ra cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người mua trái cây mùa hè rồi đi xe máy trong ngày",
+      "location_scope": "chợ hoa quả và quán trái cây nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-004",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bò sốt vang, tiramisu hay cà phê pha rượu rum: ăn uống món có rượu rồi lái xe máy có sao không",
+      "intent": "Biết cách nhận ra món ăn, bánh ngọt và đồ uống có thêm rượu vang, rượu rum hay bia, phân biệt món nấu kỹ với món cho rượu sống và quyết định khi nào không nên cầm lái.",
+      "kw": "món ăn có rượu lái xe",
+      "kw2": [
+        "ăn bò sốt vang có bị nồng độ cồn",
+        "bánh tiramisu có cồn không"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "thực khách ăn tối ở nhà hàng, quán cà phê rồi tự lái xe máy về",
+      "location_scope": "phố cổ, Tây Hồ và các quán cà phê nội thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-005",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Ăn cơm rượu nếp ngày Tết Đoan Ngọ ở Hà Nội rồi đi làm bằng xe máy: có bị phát hiện nồng độ cồn",
+      "intent": "Hiểu vì sao rượu nếp, cơm rượu ăn dịp mùng 5 tháng 5 âm lịch vẫn chứa cồn do lên men, lượng ăn ảnh hưởng thế nào và cách sắp xếp bữa diệt sâu bọ trước giờ chạy xe.",
+      "kw": "ăn rượu nếp đi xe máy",
+      "kw2": [
+        "rượu nếp tết đoan ngọ nồng độ cồn",
+        "cơm rượu có cồn không"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người đi làm buổi sáng giữ tục ăn rượu nếp Tết Đoan Ngọ",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-006",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Một chén rượu thuốc, rượu ngâm trước bữa cơm gia đình: vẫn là rượu khi ngồi lên xe máy",
+      "intent": "Hiểu rằng rượu thuốc, rượu ngâm thảo dược hay rượu sâm vẫn là đồ uống có cồn theo luật giao thông, và biết cách từ chối khéo khi người lớn trong nhà mời trước lúc mình phải chạy xe.",
+      "kw": "uống rượu thuốc lái xe",
+      "kw2": [
+        "rượu ngâm có bị phạt nồng độ cồn",
+        "rượu thuốc có cồn không"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người ăn cơm cùng gia đình có thói quen mời rượu thuốc",
+      "location_scope": "gia đình ở nội thành và các huyện ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-007",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Ngậm kẹo cao su, uống nước giải rượu hay cà phê đặc: có làm giảm kết quả đo nồng độ cồn không",
+      "intent": "Hiểu vì sao các mẹo truyền miệng như ngậm kẹo, uống nước giải rượu, cà phê đặc hay ăn thật no không làm cơ thể đào thải cồn nhanh hơn, và chỉ thời gian mới làm nồng độ cồn giảm.",
+      "kw": "giải rượu có hết nồng độ cồn",
+      "kw2": [
+        "mẹo qua máy đo nồng độ cồn",
+        "uống cà phê có hết say không"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người vừa đi nhậu muốn về sớm bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-008",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Mua máy đo nồng độ cồn cá nhân để tự kiểm tra trước khi chạy xe máy: kết quả đáng tin đến đâu",
+      "intent": "Hiểu giới hạn của máy đo nồng độ cồn cầm tay bán trên thị trường, các yếu tố gây sai số và vì sao kết quả tự đo không thay được quyết định không cầm lái khi đã uống.",
+      "kw": "máy đo nồng độ cồn cá nhân",
+      "kw2": [
+        "máy thổi nồng độ cồn mini",
+        "tự đo nồng độ cồn tại nhà"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người hay có tiệc tùng muốn tự kiểm tra trước khi lái",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-009",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đọc phiếu kết quả đo nồng độ cồn: miligam trên lít khí thở và trên 100 mililít máu nghĩa là gì",
+      "intent": "Nắm cách đọc con số in trên phiếu kết quả đo hơi thở hoặc xét nghiệm máu, quan hệ giữa hai đơn vị đo và các ngưỡng mà Nghị định 168/2024/NĐ-CP dùng để phân mức xử lý.",
+      "kw": "đơn vị đo nồng độ cồn",
+      "kw2": [
+        "miligam trên lít khí thở là gì",
+        "nồng độ cồn trong máu và hơi thở"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy muốn hiểu đúng kết quả đo của chính mình",
+      "location_scope": "áp dụng toàn quốc, khi đi xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-010",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Xe máy điện thuê có bị kiểm tra nồng độ cồn như xe xăng không: người lái đã uống cần biết gì",
+      "intent": "Hiểu cách luật xếp xe máy điện vào nhóm xe gắn máy hoặc xe mô tô, vì sao người lái có nồng độ cồn bị xử lý như xe xăng cùng loại và không nhầm với xe đạp điện.",
+      "kw": "xe máy điện nồng độ cồn",
+      "kw2": [
+        "đi xe máy điện uống rượu bia",
+        "xe điện có bị phạt nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người thuê xe máy điện đi lại trong phố",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-011",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đạp xe hoặc đi xe đạp điện quanh Hồ Tây sau vài ly bia: có bị xử lý nồng độ cồn không",
+      "intent": "Nắm việc người đi xe đạp, xe đạp điện có nồng độ cồn cũng bị xử phạt theo Nghị định 168/2024/NĐ-CP, mức xử lý khác xe máy và cách về an toàn sau buổi ngồi quán ven hồ.",
+      "kw": "xe đạp điện nồng độ cồn",
+      "kw2": [
+        "đi xe đạp uống bia có bị phạt",
+        "đạp xe sau khi uống rượu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người đạp xe dạo Hồ Tây buổi tối, khách thuê xe đạp điện",
+      "location_scope": "quanh Hồ Tây, đường Thanh Niên và Trích Sài",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-012",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Du khách nước ngoài tự lái xe máy ở Hà Nội: luật cấm tuyệt đối nồng độ cồn áp dụng như với người Việt",
+      "intent": "Hiểu rằng người nước ngoài lái xe máy tại Việt Nam chịu cùng lệnh cấm có nồng độ cồn, các hình thức xử lý với giấy phép lái xe quốc tế và cách tránh rủi ro sau buổi đi bar.",
+      "kw": "du khách nước ngoài nồng độ cồn",
+      "kw2": [
+        "du khách lái xe máy uống bia",
+        "giấy phép lái xe quốc tế nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "khách du lịch quốc tế thuê xe máy tự lái",
+      "location_scope": "phố cổ, Tây Hồ và các khu nhiều quán bar",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-013",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Gây va chạm, tai nạn khi trong người có cồn: trách nhiệm hình sự và dân sự nặng hơn thế nào",
+      "intent": "Hiểu vì sao có nồng độ cồn vượt mức khi gây tai nạn là tình tiết định khung tăng nặng theo Điều 260 Bộ luật Hình sự, các bước kiểm tra tại hiện trường và hệ quả bồi thường.",
+      "kw": "gây tai nạn có nồng độ cồn",
+      "kw2": [
+        "say rượu gây tai nạn xe máy",
+        "điều 260 bộ luật hình sự"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-014",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Thấy chốt kiểm tra nồng độ cồn liền quay đầu bỏ chạy: những hậu quả pháp lý có thể nặng hơn",
+      "intent": "Hiểu vì sao không chấp hành yêu cầu kiểm tra nồng độ cồn bị xử lý ở mức cao nhất, quay đầu ẩu giữa đường gây nguy hiểm ra sao và cách dừng xe đúng khi được yêu cầu.",
+      "kw": "bỏ chạy khi đo nồng độ cồn",
+      "kw2": [
+        "không chấp hành kiểm tra nồng độ cồn",
+        "quay đầu tránh chốt csgt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy đi về khuya",
+      "location_scope": "các tuyến phố Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-015",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đi chúc Tết họ hàng bằng xe máy ở Hà Nội: nhà nào cũng mời rượu thì giữ nguyên tắc thế nào",
+      "intent": "Lên kế hoạch cho những ngày chúc Tết liên tiếp nhiều nhà, cách từ chối chén rượu đầu năm mà không mất lòng và phân công người cầm lái không uống cho cả gia đình.",
+      "kw": "đi chúc tết uống rượu lái xe",
+      "kw2": [
+        "từ chối rượu ngày tết",
+        "chúc tết bằng xe máy không uống rượu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "gia đình đi chúc Tết bằng xe máy thuê hoặc xe nhà",
+      "location_scope": "nội thành và các huyện ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-016",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bị ép uống thêm ly trong bữa nhậu khi còn phải đi xe máy về: luật nói gì và cách từ chối",
+      "intent": "Nắm việc Luật Phòng, chống tác hại của rượu, bia 2019 cấm xúi giục, ép buộc người khác uống, và biết cách từ chối dứt khoát khi mình là người phải cầm lái xe máy về.",
+      "kw": "bị ép uống rượu bia",
+      "kw2": [
+        "luật cấm ép uống rượu bia",
+        "cách từ chối uống rượu khi đi xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "nhân viên văn phòng đi tiếp khách, liên hoan",
+      "location_scope": "nhà hàng, quán nhậu ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-017",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bạn đi cùng đã say nhưng nhất quyết tự chạy xe máy về: làm gì để ngăn mà không xô xát",
+      "intent": "Biết cách thuyết phục, giữ chìa khóa và sắp xếp phương án về nhà khác cho người bạn đã uống mà vẫn đòi tự lái xe máy, kể cả khi chiếc xe đó là xe đang thuê.",
+      "kw": "ngăn bạn say lái xe",
+      "kw2": [
+        "bạn say đòi đi xe máy về",
+        "giữ chìa khóa xe người say"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "nhóm bạn đi nhậu, liên hoan",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-018",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Cảnh sát giao thông được dừng xe máy để kiểm tra nồng độ cồn trong những trường hợp nào",
+      "intent": "Hiểu các căn cứ để cảnh sát giao thông dừng phương tiện theo Luật Trật tự, an toàn giao thông đường bộ 2024 và Thông tư 73/2024/TT-BCA, kể cả khi người lái không có lỗi nhìn thấy được.",
+      "kw": "csgt dừng xe đo nồng độ cồn",
+      "kw2": [
+        "csgt có được dừng xe không vi phạm",
+        "kế hoạch kiểm tra nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy thường đi qua các chốt kiểm tra",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-019",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bị tước bằng lái vì nồng độ cồn khi đang sống ở Hà Nội: xoay xở đi làm hằng ngày bằng gì",
+      "intent": "Lên kế hoạch đi lại khi bị tước quyền sử dụng giấy phép lái xe vì nồng độ cồn, bằng xe buýt, đường sắt đô thị hay xe đạp, mà không phạm thêm lỗi lái xe không bằng.",
+      "kw": "bị tước bằng đi xe gì",
+      "kw2": [
+        "bị tước bằng có được đi xe đạp điện",
+        "đi làm bằng xe buýt metro hà nội"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người đi làm ở Hà Nội vừa bị tước bằng lái",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-020",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Mời bạn bè đến nhà ăn uống có rượu bia: chủ nhà sắp xếp sao cho khách đi xe máy về an toàn",
+      "intent": "Lên kế hoạch cho buổi liên hoan tại nhà để khách đi xe máy không phải cầm lái sau khi uống: báo trước, chuẩn bị đồ uống không cồn, chỗ ngủ lại và gọi xe đưa về.",
+      "kw": "tiệc tại nhà khách đi xe máy",
+      "kw2": [
+        "chủ nhà giữ khách say ở lại",
+        "gọi xe đưa khách say về"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người tổ chức tiệc tại nhà ở chung cư, nhà phố",
+      "location_scope": "chung cư và nhà phố ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-021",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Vài ly bia đã ảnh hưởng thế nào đến thăng bằng, phản xạ và tầm nhìn khi lái xe máy",
+      "intent": "Hiểu cồn tác động lên khả năng giữ thăng bằng, thời gian phản xạ và khả năng quan sát của người lái xe hai bánh, vì sao cảm giác vẫn tỉnh không đồng nghĩa với lái xe an toàn.",
+      "kw": "rượu bia ảnh hưởng lái xe máy",
+      "kw2": [
+        "uống bia phản xạ chậm",
+        "tác hại rượu bia khi lái xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy tự tin mình uống tốt",
+      "location_scope": "đường phố Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-022",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Uống một chén rượu cho ấm người trước khi chạy xe máy ngày rét đậm Hà Nội: vì sao phản tác dụng",
+      "intent": "Hiểu vì sao rượu chỉ tạo cảm giác ấm tức thời nhưng làm cơ thể mất nhiệt nhanh hơn, vừa vi phạm quy định nồng độ cồn vừa nguy hiểm, và cách giữ ấm thay thế khi chạy xe.",
+      "kw": "uống rượu cho ấm đi xe máy",
+      "kw2": [
+        "uống rượu có ấm người không",
+        "giữ ấm khi đi xe máy mùa đông"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người chạy xe sáng sớm mùa đông, người đi phượt vùng núi lạnh",
+      "location_scope": "Hà Nội và các cung Tam Đảo, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-023",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bị dừng vì nồng độ cồn mà còn không đội mũ bảo hiểm hoặc chở ba: các lỗi bị xử lý ra sao",
+      "intent": "Nắm nguyên tắc nhiều hành vi vi phạm hành chính thì bị xử phạt từng hành vi, áp dụng khi nồng độ cồn đi kèm lỗi không đội mũ bảo hiểm, chở quá số người hay không có bằng.",
+      "kw": "nồng độ cồn kèm lỗi khác",
+      "kw2": [
+        "vi phạm nhiều lỗi cùng lúc phạt thế nào",
+        "cộng dồn lỗi giao thông xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người lái xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-024",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Không đồng ý quyết định xử phạt vi phạm nồng độ cồn: khiếu nại hoặc khởi kiện theo trình tự nào",
+      "intent": "Nắm quyền khiếu nại, khởi kiện quyết định xử phạt vi phạm hành chính, thời hạn, nơi gửi đơn và những chứng cứ nên giữ khi tin rằng kết quả đo hoặc thủ tục có sai sót.",
+      "kw": "khiếu nại xử phạt nồng độ cồn",
+      "kw2": [
+        "khởi kiện quyết định xử phạt giao thông",
+        "thời hạn khiếu nại quyết định xử phạt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người bị xử phạt nồng độ cồn cho rằng có sai sót",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-020-025",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Xem bóng đá ở quán bia rồi muốn đi bão mừng chiến thắng: người đã uống đừng cầm lái xe máy",
+      "intent": "Lên kế hoạch cho tối xem bóng đá ở quán: chọn người lái không uống, cách hòa vào không khí ăn mừng mà không tự cầm lái giữa dòng xe đông khi trong người còn cồn.",
+      "kw": "đi bão sau khi uống bia",
+      "kw2": [
+        "xem bóng đá quán bia đi xe máy",
+        "đi bão có bị kiểm tra nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-020",
+      "audience": "người hâm mộ bóng đá xem trận ở quán bia",
+      "location_scope": "quanh Hồ Gươm, phố cổ và các trục ăn mừng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-001",
+      "child_id": "C-BAO-HIEM",
+      "title": "Người ngồi sau bị thương khi xe máy va chạm: bảo hiểm TNDS bắt buộc của chính xe đó có chi trả không",
+      "intent": "Hiểu vì sao người lái và người ngồi trên chính chiếc xe máy không thuộc bên thứ ba theo Nghị định 67/2023/NĐ-CP và những nguồn chi trả khác khi người ngồi sau bị thương.",
+      "kw": "bảo hiểm người ngồi sau xe máy",
+      "kw2": [
+        "người ngồi sau có được bảo hiểm không",
+        "bên thứ ba trong bảo hiểm xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người chở bạn bè, người thân bằng xe máy",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-002",
+      "child_id": "C-BAO-HIEM",
+      "title": "Lái xe máy có nồng độ cồn gây va chạm: bảo hiểm TNDS xử lý thiệt hại về người và về tài sản khác nhau ra sao",
+      "intent": "Hiểu điểm loại trừ trong Nghị định 67/2023/NĐ-CP với thiệt hại tài sản khi người lái có nồng độ cồn vượt mức, phần thiệt hại về người vẫn được xem xét và trách nhiệm tự chịu của người lái.",
+      "kw": "uống rượu gây tai nạn bảo hiểm",
+      "kw2": [
+        "uống rượu bia gây tai nạn có được bảo hiểm",
+        "loại trừ bảo hiểm khi có cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy sau các buổi liên hoan, ăn uống",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-003",
+      "child_id": "C-BAO-HIEM",
+      "title": "Lái xe máy không có bằng hoặc bằng sai hạng gây tai nạn: vì sao bảo hiểm TNDS có thể từ chối bồi thường",
+      "intent": "Nắm các trường hợp về giấy phép lái xe khiến doanh nghiệp bảo hiểm được loại trừ trách nhiệm như không có bằng, bằng hết hạn, sai hạng, bị tước hoặc thu hồi, và hậu quả người lái tự gánh.",
+      "kw": "không bằng lái bảo hiểm bồi thường",
+      "kw2": [
+        "bằng lái hết hạn bảo hiểm xe máy",
+        "giấy phép lái xe không phù hợp bảo hiểm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người tự lái xe máy, kể cả người dùng bằng lái nước ngoài",
+      "location_scope": "Hà Nội và các tỉnh lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-004",
+      "child_id": "C-BAO-HIEM",
+      "title": "Gây va chạm rồi rời khỏi hiện trường: khi nào bảo hiểm TNDS xe máy bị loại trừ trách nhiệm bồi thường",
+      "intent": "Hiểu điều kiện cố ý bỏ chạy mà không thực hiện trách nhiệm dân sự khiến bảo hiểm không bồi thường, khác với rời đi để đưa người bị thương cấp cứu, và việc cần làm để giữ quyền lợi.",
+      "kw": "gây tai nạn bỏ chạy bảo hiểm",
+      "kw2": [
+        "rời hiện trường tai nạn xe máy",
+        "bỏ trốn sau va chạm có được bảo hiểm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy vừa gây va chạm nhỏ trong phố",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-005",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bị xe máy tông rồi bỏ chạy hoặc xe gây tai nạn không có bảo hiểm: hỗ trợ nhân đạo từ Quỹ bảo hiểm xe cơ giới",
+      "intent": "Hiểu khi nào nạn nhân tai nạn giao thông hoặc thân nhân được Quỹ bảo hiểm xe cơ giới xem xét hỗ trợ nhân đạo, giấy tờ cần chuẩn bị và nơi gửi đề nghị hỗ trợ.",
+      "kw": "quỹ bảo hiểm xe cơ giới",
+      "kw2": [
+        "quỹ bảo hiểm xe cơ giới hỗ trợ nhân đạo",
+        "bị tông bỏ chạy được hỗ trợ gì"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người bị thương do xe không xác định được và gia đình",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-006",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bị xe máy khác va vào khi đang đi đường: người bị hại yêu cầu bảo hiểm TNDS của bên gây tai nạn thế nào",
+      "intent": "Biết cách xin thông tin giấy chứng nhận bảo hiểm của xe gây tai nạn, thông báo cho doanh nghiệp bảo hiểm của bên đó và theo dõi hồ sơ khi chính mình là người bị thiệt hại.",
+      "kw": "người bị hại đòi bảo hiểm",
+      "kw2": [
+        "bị xe máy tông đòi bồi thường bảo hiểm",
+        "liên hệ bảo hiểm của bên gây tai nạn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy hoặc đi bộ bị va chạm không do lỗi mình",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-007",
+      "child_id": "C-BAO-HIEM",
+      "title": "Tạm ứng bồi thường bảo hiểm TNDS khi tai nạn xe máy có người bị thương nặng: ai đề nghị và trong bao lâu",
+      "intent": "Nắm quy định doanh nghiệp bảo hiểm phải tạm ứng bồi thường cho thiệt hại về sức khỏe, tính mạng, thời hạn tạm ứng và giấy tờ cần có để không phải chờ hết vụ việc.",
+      "kw": "tạm ứng bồi thường bảo hiểm",
+      "kw2": [
+        "tạm ứng bồi thường tnds",
+        "bảo hiểm tạm ứng chi phí điều trị"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người gây hoặc bị tai nạn có thương tích phải nằm viện",
+      "location_scope": "các bệnh viện ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-008",
+      "child_id": "C-BAO-HIEM",
+      "title": "Quá bao lâu thì không còn yêu cầu bồi thường bảo hiểm TNDS xe máy được: các mốc thời hạn cần nhớ sau va chạm",
+      "intent": "Hiểu các mốc thời hạn theo quy định hiện hành gồm thông báo tai nạn, nộp hồ sơ yêu cầu bồi thường, thời hạn doanh nghiệp bảo hiểm trả tiền hoặc trả lời từ chối bằng văn bản.",
+      "kw": "thời hạn đòi bồi thường bảo hiểm",
+      "kw2": [
+        "nộp hồ sơ bồi thường bảo hiểm muộn",
+        "thời hạn thanh toán bồi thường tnds"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy có va chạm nhưng chưa làm hồ sơ bảo hiểm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-009",
+      "child_id": "C-BAO-HIEM",
+      "title": "Đã tự thỏa thuận đền tiền cho người bị va chạm: giữ giấy tờ gì để đề nghị bảo hiểm TNDS hoàn trả",
+      "intent": "Biết cách lập văn bản thỏa thuận, giấy biên nhận và giữ chứng từ khi đã tự bồi thường cho người bị hại để sau đó đề nghị doanh nghiệp bảo hiểm trả lại phần thuộc trách nhiệm bảo hiểm.",
+      "kw": "tự bồi thường rồi đòi bảo hiểm",
+      "kw2": [
+        "thỏa thuận bồi thường tai nạn xe máy",
+        "giấy biên nhận bồi thường va chạm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người gây va quệt đã dàn xếp riêng với bên bị hại",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-010",
+      "child_id": "C-BAO-HIEM",
+      "title": "Hai xe máy va chạm mà cả hai cùng có lỗi: bảo hiểm TNDS của mỗi bên bồi thường theo mức độ lỗi ra sao",
+      "intent": "Hiểu nguyên tắc bồi thường theo mức độ lỗi khi hai xe máy cùng có lỗi, vai trò biên bản của cơ quan chức năng và cách mỗi bên làm việc với doanh nghiệp bảo hiểm của mình.",
+      "kw": "hai xe cùng có lỗi bảo hiểm",
+      "kw2": [
+        "va chạm hai xe máy cùng có lỗi",
+        "bồi thường theo mức độ lỗi"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy va chạm tại ngã tư, nút giao đông xe",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-011",
+      "child_id": "C-BAO-HIEM",
+      "title": "Xe máy quẹt vào ô tô đang đỗ bên đường: bảo hiểm TNDS bắt buộc chi trả thiệt hại tài sản đến đâu",
+      "intent": "Nắm mức trách nhiệm về tài sản của bảo hiểm TNDS xe máy cho mỗi vụ, phần vượt mức người lái phải tự trả và cách ghi nhận vết hư hỏng ô tô khi va quẹt trong phố hẹp.",
+      "kw": "xe máy quẹt ô tô bảo hiểm",
+      "kw2": [
+        "bảo hiểm xe máy bồi thường thiệt hại tài sản",
+        "mức trách nhiệm tài sản bảo hiểm xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy trong phố hẹp có ô tô đỗ hai bên",
+      "location_scope": "phố cổ, Hoàn Kiếm, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-012",
+      "child_id": "C-BAO-HIEM",
+      "title": "Va chạm xe máy làm hỏng điện thoại, hàng hóa của người khác: bảo hiểm TNDS tính và loại trừ tài sản nào",
+      "intent": "Hiểu thiệt hại tài sản của bên thứ ba trong bảo hiểm TNDS gồm gì, nhóm tài sản đặc biệt bị loại trừ như vàng bạc, tiền, giấy tờ có giá và cách chứng minh giá trị đồ bị hỏng.",
+      "kw": "tài sản loại trừ bảo hiểm tnds",
+      "kw2": [
+        "va chạm làm vỡ điện thoại người khác",
+        "hàng hóa hỏng do tai nạn xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy va chạm với người giao hàng, người bán rong",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-013",
+      "child_id": "C-BAO-HIEM",
+      "title": "Thiệt hại vượt mức trách nhiệm bảo hiểm TNDS xe máy: phần chênh lệch ai trả theo Bộ luật Dân sự",
+      "intent": "Hiểu rằng bảo hiểm TNDS chỉ chi trả trong giới hạn mức trách nhiệm, phần thiệt hại vượt mức do người gây tai nạn bồi thường theo quy định bồi thường ngoài hợp đồng của Bộ luật Dân sự 2015.",
+      "kw": "thiệt hại vượt mức bảo hiểm",
+      "kw2": [
+        "bồi thường ngoài hợp đồng tai nạn xe máy",
+        "phần vượt mức bảo hiểm tnds"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người gây tai nạn có thiệt hại lớn về người hoặc tài sản",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-014",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bảng tỷ lệ thương tật trong bảo hiểm TNDS xe máy: cách đọc để biết tiền bồi thường thiệt hại về sức khỏe",
+      "intent": "Hiểu cách doanh nghiệp bảo hiểm dùng bảng quy định trả tiền bồi thường thiệt hại về sức khỏe, tính mạng ban hành kèm Nghị định 67/2023/NĐ-CP để xác định số tiền theo từng loại thương tích.",
+      "kw": "bảng tỷ lệ thương tật bảo hiểm",
+      "kw2": [
+        "cách tính bồi thường thương tật tnds",
+        "bồi thường sức khỏe tai nạn xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người bị thương sau tai nạn xe máy và người nhà",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-015",
+      "child_id": "C-BAO-HIEM",
+      "title": "Mua xe máy cũ còn hạn bảo hiểm TNDS: sang tên xong có cần mua giấy chứng nhận bảo hiểm mới không",
+      "intent": "Hiểu quy định quyền lợi bảo hiểm TNDS vẫn còn hiệu lực với chủ xe mới khi chuyển quyền sở hữu trong thời hạn bảo hiểm và những gì cần kiểm tra khi nhận giấy chứng nhận từ người bán.",
+      "kw": "xe máy cũ bảo hiểm còn hạn",
+      "kw2": [
+        "sang tên xe máy bảo hiểm tnds",
+        "chuyển quyền sở hữu xe bảo hiểm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "sinh viên, người mới đến Hà Nội mua xe máy cũ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-016",
+      "child_id": "C-BAO-HIEM",
+      "title": "Xe máy mới mua chưa có biển số: mua bảo hiểm TNDS ghi số khung, số máy trên giấy chứng nhận ra sao",
+      "intent": "Biết cách mua bảo hiểm TNDS cho xe máy mới chưa đăng ký biển số, đối chiếu số khung, số máy trên giấy chứng nhận và việc cần làm với bảo hiểm sau khi đã có biển số.",
+      "kw": "xe chưa biển số mua bảo hiểm",
+      "kw2": [
+        "bảo hiểm xe máy ghi số khung số máy",
+        "xe máy mới mua cần bảo hiểm gì"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người vừa mua xe máy mới tại đại lý",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-017",
+      "child_id": "C-BAO-HIEM",
+      "title": "Giấy chứng nhận bảo hiểm xe máy ghi sai biển số hoặc tên chủ xe: sửa thế nào để không mất quyền lợi",
+      "intent": "Biết cách phát hiện thông tin sai trên giấy chứng nhận bảo hiểm TNDS, đề nghị doanh nghiệp bảo hiểm sửa đổi hoặc cấp lại và giữ bằng chứng mua bảo hiểm trong thời gian chờ.",
+      "kw": "bảo hiểm ghi sai biển số",
+      "kw2": [
+        "sửa thông tin giấy chứng nhận bảo hiểm",
+        "bảo hiểm xe máy sai tên chủ xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "chủ xe máy vừa mua hoặc gia hạn bảo hiểm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-018",
+      "child_id": "C-BAO-HIEM",
+      "title": "Mất giấy chứng nhận bảo hiểm xe máy bản giấy: xin cấp lại hay tra cứu bản điện tử để xuất trình",
+      "intent": "Nắm cách liên hệ doanh nghiệp bảo hiểm để cấp lại giấy chứng nhận khi bị mất, cách tra cứu bản điện tử còn hiệu lực và lưu ý khi được yêu cầu xuất trình trên đường.",
+      "kw": "mất giấy bảo hiểm xe máy",
+      "kw2": [
+        "cấp lại giấy chứng nhận bảo hiểm xe máy",
+        "tra cứu bảo hiểm xe máy điện tử"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy làm rơi ví, mất giấy tờ",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-019",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bảo hiểm xe máy bán dạo ven đường ở Hà Nội: cách kiểm tra giấy chứng nhận thật trước khi trả tiền",
+      "intent": "Biết cách đối chiếu tên doanh nghiệp bảo hiểm, mã tra cứu, thông tin xe và thời hạn trên giấy chứng nhận mua ở lề đường để tránh mua phải bảo hiểm giả hoặc không có hiệu lực.",
+      "kw": "bảo hiểm xe máy bán vỉa hè",
+      "kw2": [
+        "kiểm tra bảo hiểm xe máy thật giả",
+        "giấy chứng nhận bảo hiểm giả"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy được mời mua bảo hiểm ở lề đường, cây xăng",
+      "location_scope": "các tuyến phố lớn ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-020",
+      "child_id": "C-BAO-HIEM",
+      "title": "Xe máy điện có phải mua bảo hiểm TNDS bắt buộc không: phân biệt với xe đạp điện khi đi ở Hà Nội",
+      "intent": "Hiểu xe máy điện thuộc nhóm xe cơ giới phải có bảo hiểm TNDS bắt buộc, còn xe đạp điện được xếp loại khác theo Luật Trật tự, an toàn giao thông đường bộ 2024.",
+      "kw": "xe máy điện có cần bảo hiểm",
+      "kw2": [
+        "bảo hiểm bắt buộc xe máy điện",
+        "xe đạp điện có phải mua bảo hiểm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy điện, học sinh và phụ huynh",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-021",
+      "child_id": "C-BAO-HIEM",
+      "title": "Xe máy để trong nhà xe chung cư bị cháy khi sạc hoặc chập điện: bảo hiểm nào có thể chi trả",
+      "intent": "Nắm giới hạn của bảo hiểm TNDS bắt buộc với thiệt hại của chính chiếc xe bị cháy, quyền lợi cháy nổ trong bảo hiểm vật chất xe máy tự nguyện và phần loại trừ khi sạc xe trong nhà.",
+      "kw": "bảo hiểm cháy xe máy",
+      "kw2": [
+        "xe máy điện cháy khi sạc bảo hiểm",
+        "bảo hiểm vật chất xe máy cháy nổ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "cư dân chung cư, nhà trọ để xe máy dưới tầng hầm",
+      "location_scope": "chung cư, nhà trọ ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-022",
+      "child_id": "C-BAO-HIEM",
+      "title": "Xe máy chết máy do ngập nước mùa mưa Hà Nội: bảo hiểm vật chất tự nguyện có chi trả sửa chữa không",
+      "intent": "Biết cách đọc điều khoản về ngập nước, thủy kích trong hợp đồng bảo hiểm vật chất xe máy tự nguyện, giữ bằng chứng hư hỏng và thông báo cho doanh nghiệp bảo hiểm trước khi đem xe đi sửa.",
+      "kw": "xe máy ngập nước bảo hiểm",
+      "kw2": [
+        "bảo hiểm thủy kích xe máy",
+        "xe máy chết máy ngập nước bồi thường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi xe máy qua các tuyến phố hay ngập",
+      "location_scope": "các tuyến phố ngập khi mưa lớn ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-023",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bảo hiểm mất cắp toàn bộ xe máy: điều kiện bồi thường khi xe bị trộm và giấy tờ trình báo cần có",
+      "intent": "Nắm điều kiện chung của quyền lợi mất cắp toàn bộ xe trong bảo hiểm vật chất xe máy tự nguyện, thời gian chờ xác minh, giấy xác nhận trình báo công an và lý do hay bị từ chối.",
+      "kw": "bảo hiểm mất cắp xe máy",
+      "kw2": [
+        "bảo hiểm trộm cắp xe máy",
+        "xe máy bị trộm bảo hiểm có đền không"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "chủ xe máy thường gửi xe ở nơi công cộng",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-024",
+      "child_id": "C-BAO-HIEM",
+      "title": "Bị doanh nghiệp bảo hiểm từ chối bồi thường TNDS xe máy: khiếu nại ở đâu và cần chuẩn bị những gì",
+      "intent": "Biết cách yêu cầu văn bản nêu lý do từ chối, gửi khiếu nại đến doanh nghiệp bảo hiểm, phản ánh tới cơ quan quản lý bảo hiểm thuộc Bộ Tài chính hoặc khởi kiện khi không đồng ý.",
+      "kw": "bảo hiểm từ chối bồi thường",
+      "kw2": [
+        "khiếu nại công ty bảo hiểm xe máy",
+        "tranh chấp bồi thường bảo hiểm tnds"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người gây hoặc bị tai nạn có hồ sơ bồi thường bị từ chối",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-021-025",
+      "child_id": "C-BAO-HIEM",
+      "title": "Đi xe máy từ Hà Nội về Ninh Bình, lên Mộc Châu: bảo hiểm TNDS ở tỉnh khác và cách báo tai nạn khi ở xa",
+      "intent": "Lên kế hoạch trước chuyến đi xe máy liên tỉnh: kiểm tra giấy chứng nhận bảo hiểm còn hạn, lưu đường dây nóng của doanh nghiệp bảo hiểm và biết cách báo, giám định khi va chạm xa Hà Nội.",
+      "kw": "bảo hiểm xe máy đi tỉnh khác",
+      "kw2": [
+        "báo bảo hiểm khi tai nạn ở tỉnh xa",
+        "bảo hiểm tnds hiệu lực toàn quốc"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bao-hiem/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-021",
+      "audience": "người đi phượt cuối tuần bằng xe máy",
+      "location_scope": "Hà Nội, Ninh Bình, Mộc Châu (Sơn La)",
       "word_target": 1200
     }
   ],
