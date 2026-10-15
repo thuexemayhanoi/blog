@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-15T03:53:45Z",
+  "updated_at": "2026-10-15T03:55:13Z",
   "leases": {
     "W1": {
       "ids": [
@@ -19,25 +19,25 @@
       "expires_at": "2026-10-16T08:45:20Z",
       "label": "mistral-vibe"
     },
-    "W2": {
+    "W3": {
       "ids": [
-        "BLG-03369",
-        "BLG-03370",
-        "BLG-03371",
-        "BLG-03372",
-        "BLG-03373",
-        "BLG-03374",
-        "BLG-03375",
-        "BLG-03376",
-        "BLG-03377",
-        "BLG-03378"
+        "BLG-03379",
+        "BLG-03380",
+        "BLG-03381",
+        "BLG-03382",
+        "BLG-03383",
+        "BLG-03384",
+        "BLG-03385",
+        "BLG-03386",
+        "BLG-03387",
+        "BLG-03388"
       ],
-      "session": "s-claude-w2",
+      "session": "s-claude-w3",
       "epoch": 1,
-      "claimed_at": "2026-10-15T03:46:38Z",
-      "heartbeat_at": "2026-10-15T03:53:45Z",
-      "ttl_hours": 48.0,
-      "expires_at": "2026-10-17T03:53:45Z",
+      "claimed_at": "2026-10-15T03:55:13Z",
+      "heartbeat_at": "2026-10-15T03:55:13Z",
+      "ttl_hours": 12.0,
+      "expires_at": "2026-10-15T15:55:13Z",
       "label": "claude"
     }
   }
