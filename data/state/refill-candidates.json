@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T04:50:23+00:00",
-    "staged_at": "2026-10-15T16:46:15+00:00"
+    "staged_at": "2026-10-15T17:06:30+00:00"
   },
   "candidates": [
     {
@@ -11161,6 +11161,481 @@
       "subtopic": "refill-2026-10-15-W2-035",
       "audience": "kiến trúc sư, nhân viên thiết kế và giám sát nội thất",
       "location_scope": "nhà phố, chung cư nội thành và xưởng mộc ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-001",
+      "child_id": "C-QUY-DINH",
+      "title": "Đeo tai nghe, mở loa bluetooth nghe chỉ đường khi chạy xe máy ở Hà Nội: luật cấm thiết bị âm thanh ra sao",
+      "intent": "Hiểu điểm c khoản 3 Điều 33 Luật Trật tự, an toàn giao thông đường bộ cấm người lái xe máy dùng thiết bị âm thanh, ngoại lệ thiết bị trợ thính và cách nghe chỉ đường hợp lệ.",
+      "kw": "đeo tai nghe khi đi xe máy",
+      "kw2": [
+        "nghe chỉ đường khi lái xe máy",
+        "loa bluetooth trên xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe tự lái quen nghe ứng dụng bản đồ chỉ đường",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-002",
+      "child_id": "C-QUY-DINH",
+      "title": "Đi quá số nhà trên phố một chiều ở phố cổ: có được lùi xe máy lại vài mét và nơi nào luật cấm lùi xe",
+      "intent": "Nắm Điều 16 Luật Trật tự, an toàn giao thông đường bộ về lùi xe, những nơi cấm lùi như đường một chiều, nơi giao nhau, vạch người đi bộ, hầm và cách quay lại đúng luật.",
+      "kw": "lùi xe máy trên đường một chiều",
+      "kw2": [
+        "nơi cấm lùi xe",
+        "quy định lùi xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "khách du lịch tự lái tìm địa chỉ trong phố cổ",
+      "location_scope": "phố cổ Hoàn Kiếm và các phố một chiều nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-003",
+      "child_id": "C-QUY-DINH",
+      "title": "Gắn điện thoại lên giá đỡ xem bản đồ khi chạy xe máy: luật cấm cầm tay sử dụng, còn chạm màn hình thì sao",
+      "intent": "Hiểu khoản 6 Điều 9 Luật Trật tự, an toàn giao thông đường bộ cấm cầm và sử dụng điện thoại khi xe di chuyển, phân biệt với nhìn bản đồ trên giá đỡ.",
+      "kw": "xem bản đồ điện thoại khi lái",
+      "kw2": [
+        "giá đỡ điện thoại có bị phạt",
+        "chạm màn hình khi lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe đi làm, đi giao đồ dùng ứng dụng bản đồ",
+      "location_scope": "Hà Nội và các tuyến ra ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-004",
+      "child_id": "C-QUY-DINH",
+      "title": "Bị kiểm tra ma túy khi đi xe máy qua chốt kiểm soát ở Hà Nội: luật cấm gì và người lái cần hợp tác thế nào",
+      "intent": "Nắm khoản 3 Điều 9 Luật Trật tự, an toàn giao thông đường bộ cấm lái xe khi trong cơ thể có chất ma túy, nghĩa vụ chấp hành yêu cầu kiểm tra và cách phối hợp tại chốt.",
+      "kw": "kiểm tra ma túy người lái xe",
+      "kw2": [
+        "test ma túy khi đi xe máy",
+        "chốt kiểm soát giao thông"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy buổi tối và người thuê xe lần đầu gặp chốt kiểm tra",
+      "location_scope": "các trục đường Hà Nội có tổ chức kiểm soát giao thông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-005",
+      "child_id": "C-QUY-DINH",
+      "title": "Xe máy thiếu gương chiếu hậu bên trái, còi không kêu, đèn phanh tắt: điều kiện kỹ thuật tối thiểu khi ra đường",
+      "intent": "Hiểu yêu cầu an toàn kỹ thuật của xe máy khi tham gia giao thông theo Luật Trật tự, an toàn giao thông đường bộ và các bộ phận bắt buộc như gương trái, còi, đèn báo hãm.",
+      "kw": "xe máy thiếu gương bên trái",
+      "kw2": [
+        "điều kiện an toàn kỹ thuật xe máy",
+        "xe máy không có còi"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe muốn tự kiểm tra xe theo luật trước khi chạy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-006",
+      "child_id": "C-QUY-DINH",
+      "title": "Tắt máy chạy vào mua bánh mì: lúc đó là dừng xe hay đỗ xe máy theo luật và mỗi trạng thái bị ràng buộc gì",
+      "intent": "Hiểu định nghĩa dừng xe và đỗ xe tại Điều 18 Luật Trật tự, an toàn giao thông đường bộ, việc tắt máy, rời khỏi xe và yêu cầu đỗ sát lề phải khi ghé quán trong phố.",
+      "kw": "phân biệt dừng xe và đỗ xe",
+      "kw2": [
+        "dừng xe có được tắt máy",
+        "đỗ xe máy sát lề đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy hay ghé quán ăn, cửa hàng ven đường",
+      "location_scope": "các phố nội đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-007",
+      "child_id": "C-QUY-DINH",
+      "title": "Đi theo khúc cua của đường hay rẽ vào nhánh đường dẫn: khi nào luật buộc xe máy bật xi nhan và giữ đến lúc nào",
+      "intent": "Hiểu Điều 15 Luật Trật tự, an toàn giao thông đường bộ về tín hiệu báo hướng rẽ khi chuyển hướng, phải dùng liên tục suốt quá trình, và ngoại lệ khi chỉ đi theo hướng cong của đường.",
+      "kw": "đường cong có phải bật xi nhan",
+      "kw2": [
+        "xi nhan khi chuyển hướng",
+        "quy định bật xi nhan xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người mới tự lái xe máy ở Hà Nội",
+      "location_scope": "đường vòng ven hồ, đường dẫn lên cầu và nút giao ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-008",
+      "child_id": "C-QUY-DINH",
+      "title": "Buông hai tay, ngồi lệch một bên, ngoảnh ra sau nói chuyện khi lái xe máy: những tư thế điều khiển luật cấm",
+      "intent": "Nắm điểm d và điểm e khoản 3 Điều 33 Luật Trật tự, an toàn giao thông đường bộ về các tư thế bị cấm như buông hai tay, đi một bánh, ngồi một bên, quay người, quệt chân chống.",
+      "kw": "tư thế lái xe máy bị cấm",
+      "kw2": [
+        "buông hai tay khi lái xe máy",
+        "ngồi một bên điều khiển xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "nhóm bạn trẻ thuê xe đi chơi và quay video trên đường",
+      "location_scope": "nội thành và các cung đường ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-009",
+      "child_id": "C-QUY-DINH",
+      "title": "Đi xe máy sát hàng ô tô đỗ ven phố Hà Nội: luật mở cửa xe quy định gì và nên giữ khoảng cách bao xa",
+      "intent": "Hiểu Điều 19 Luật Trật tự, an toàn giao thông đường bộ về nghĩa vụ quan sát trước khi mở cửa ô tô, rủi ro với người đi xe máy sát lề và cách chọn vị trí trong làn.",
+      "kw": "ô tô mở cửa va xe máy",
+      "kw2": [
+        "quy định mở cửa xe ô tô",
+        "đi xe máy sát ô tô đỗ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy hằng ngày trên phố có ô tô đỗ dưới lòng đường",
+      "location_scope": "các phố có điểm đỗ ô tô dưới lòng đường ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-010",
+      "child_id": "C-QUY-DINH",
+      "title": "Nhóm bạn dừng xe máy dưới lòng đường ven Hồ Tây chụp ảnh: khi nào bị coi là tụ tập gây cản trở giao thông",
+      "intent": "Nắm quy định cấm dừng xe song song, dừng xe gây cản trở và tụ tập từ ba xe trở lên ở lòng đường theo Luật Trật tự, an toàn giao thông đường bộ và Nghị định 168/2024/NĐ-CP.",
+      "kw": "tụ tập xe máy dưới lòng đường",
+      "kw2": [
+        "dừng xe song song trên đường",
+        "dừng xe chụp ảnh hồ tây"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "nhóm bạn trẻ đi xe máy dạo phố buổi tối",
+      "location_scope": "đường Thanh Niên, ven Hồ Tây và các tuyến đi dạo",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-011",
+      "child_id": "C-QUY-DINH",
+      "title": "Đội mũ bảo hiểm nhưng không cài quai hoặc cài lỏng: luật xử lý như không đội và cách cài đúng quy cách",
+      "intent": "Hiểu khoản 2 Điều 33 Luật Trật tự, an toàn giao thông đường bộ yêu cầu người lái và người ngồi sau cài quai đúng quy cách, vì sao quai lỏng vẫn vi phạm và cách chỉnh quai vừa cằm.",
+      "kw": "không cài quai mũ bảo hiểm",
+      "kw2": [
+        "cài quai mũ bảo hiểm đúng cách",
+        "mũ bảo hiểm cài quai lỏng"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe dùng mũ bảo hiểm đi kèm của cửa hàng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-012",
+      "child_id": "C-QUY-DINH",
+      "title": "Mỗi lần chỉ được chuyển sang một làn liền kề: quy tắc chuyển làn khi đi xe máy trên đường nhiều làn ở Hà Nội",
+      "intent": "Nắm khoản 2 Điều 13 Luật Trật tự, an toàn giao thông đường bộ: chỉ chuyển làn ở nơi cho phép, mỗi lần sang một làn liền kề, có tín hiệu báo trước và quan sát khoảng cách hai bên.",
+      "kw": "chuyển sang làn liền kề",
+      "kw2": [
+        "quy tắc chuyển làn xe máy",
+        "chuyển nhiều làn một lúc"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy thường vào trục lớn, đường vành đai",
+      "location_scope": "các trục đường nhiều làn ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-013",
+      "child_id": "C-QUY-DINH",
+      "title": "Xin vượt bằng còi hay nháy đèn khi đi xe máy trên đường hai chiều ngoại thành: tín hiệu nào luật bắt buộc",
+      "intent": "Hiểu khoản 5 Điều 14 Luật Trật tự, an toàn giao thông đường bộ: xin vượt bằng đèn hoặc còi, giữ tín hiệu suốt lúc vượt, ban đêm trong đô thị chỉ xin vượt bằng đèn.",
+      "kw": "tín hiệu xin vượt xe máy",
+      "kw2": [
+        "xin vượt bằng đèn ban đêm",
+        "bật xi nhan khi vượt xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe đi phượt ngắn ngày quanh Hà Nội",
+      "location_scope": "quốc lộ, tỉnh lộ hai chiều hướng Ba Vì, Sóc Sơn",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-014",
+      "child_id": "C-QUY-DINH",
+      "title": "Lách qua khe hở dải phân cách giữa đường để sang quán bên kia phố: luật xếp hành vi này vào lỗi gì",
+      "intent": "Hiểu vì sao điều khiển xe máy đi qua dải phân cách cố định ở giữa hai phần đường bị xử phạt theo Nghị định 168/2024/NĐ-CP, khác với quay đầu ở điểm mở dải phân cách hợp lệ.",
+      "kw": "đi qua dải phân cách giữa đường",
+      "kw2": [
+        "lách qua dải phân cách xe máy",
+        "điểm mở dải phân cách hợp lệ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy quen tìm đường tắt trong nội đô",
+      "location_scope": "các trục đường có dải phân cách cứng ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-015",
+      "child_id": "C-QUY-DINH",
+      "title": "Dừng xe máy chụp ảnh cánh đồng, đường đê ngoại thành Hà Nội: luật buộc tấp vào lề ra sao để không chắn làn",
+      "intent": "Nắm khoản 5 Điều 18 Luật Trật tự, an toàn giao thông đường bộ: ngoài đô thị chỉ dừng đỗ ở lề rộng hoặc sát mép phải, không dừng trên phần đường xe chạy nơi có lề đường.",
+      "kw": "dừng xe trên đường ngoài đô thị",
+      "kw2": [
+        "dừng xe máy chụp ảnh ven đường",
+        "tấp xe vào lề đường ngoại thành"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "khách du lịch tự lái đi ngắm cảnh ngoại thành",
+      "location_scope": "đường đê sông Hồng, cánh đồng Mê Linh, Sóc Sơn, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-016",
+      "child_id": "C-QUY-DINH",
+      "title": "Bật đèn khẩn cấp trên xe máy khi nào là đúng luật: xe hỏng phải đỗ chiếm làn, mưa lớn hay dừng chờ người",
+      "intent": "Hiểu khoản 7 Điều 18 Luật Trật tự, an toàn giao thông đường bộ về báo hiệu bằng đèn khẩn cấp khi buộc phải đỗ chiếm phần đường xe chạy, và những lúc không nên bật đèn này.",
+      "kw": "bật đèn khẩn cấp xe máy",
+      "kw2": [
+        "nút đèn cảnh báo nguy hiểm xe ga",
+        "xe hỏng phải đỗ chiếm làn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe tay ga đời mới có nút đèn khẩn cấp",
+      "location_scope": "Hà Nội và các tuyến quốc lộ lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-017",
+      "child_id": "C-QUY-DINH",
+      "title": "Nhà ở gần đầu phố một chiều: đi ngược chiều vài chục mét bằng xe máy cho nhanh có bị coi là vi phạm",
+      "intent": "Hiểu vì sao đi ngược chiều trên đường một chiều dù chỉ một đoạn ngắn vẫn là lỗi theo Luật Trật tự, an toàn giao thông đường bộ và Nghị định 168/2024/NĐ-CP, cùng cách vòng xe hợp lệ.",
+      "kw": "đi ngược chiều một đoạn ngắn",
+      "kw2": [
+        "đi ngược chiều đường một chiều",
+        "vòng xe về nhà phố một chiều"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe theo tháng sống trong ngõ thông ra phố một chiều",
+      "location_scope": "phố cổ, Hoàn Kiếm, Ba Đình và các phố một chiều nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-018",
+      "child_id": "C-QUY-DINH",
+      "title": "Cửa hàng nằm bên trái phố một chiều: có được dừng xe máy sát lề trái để ghé mua đồ hay phải sang lề phải",
+      "intent": "Nắm điểm a khoản 4 Điều 18 Luật Trật tự, an toàn giao thông đường bộ cấm dừng đỗ bên trái đường một chiều, cùng cách tìm chỗ gửi xe hợp lệ khi ghé cửa hàng phía trái.",
+      "kw": "dừng xe bên trái đường một chiều",
+      "kw2": [
+        "đỗ xe máy lề trái phố một chiều",
+        "ghé cửa hàng phố một chiều"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "khách đi mua sắm bằng xe máy thuê",
+      "location_scope": "phố Huế, Bà Triệu và các phố một chiều trong phố cổ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-019",
+      "child_id": "C-QUY-DINH",
+      "title": "Rú ga liên tục khi chờ đèn đỏ hay chạy trong ngõ đêm: hành vi bị cấm cùng nhóm với lạng lách đánh võng",
+      "intent": "Hiểu khoản 5 Điều 9 Luật Trật tự, an toàn giao thông đường bộ xếp rú ga liên tục vào nhóm hành vi nghiêm cấm, ranh giới với nhấp ga bình thường và ảnh hưởng tới người xung quanh.",
+      "kw": "rú ga liên tục xe máy",
+      "kw2": [
+        "rú ga có bị phạt không",
+        "nẹt pô trong khu dân cư"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người trẻ thuê xe đi chơi đêm",
+      "location_scope": "khu dân cư, ngõ phố Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-020",
+      "child_id": "C-QUY-DINH",
+      "title": "Gặp rào chắn đường ngập, sạt lở ở ngoại thành Hà Nội mùa mưa: vòng qua rào để đi tiếp có vi phạm luật",
+      "intent": "Hiểu rào chắn là một loại báo hiệu đường bộ theo Điều 11 Luật Trật tự, an toàn giao thông đường bộ, hậu quả khi tự vượt rào và cách tìm đường vòng an toàn.",
+      "kw": "vượt rào chắn đường ngập",
+      "kw2": [
+        "rào chắn báo hiệu đường bộ",
+        "đường cấm do sạt lở"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy ra ngoại thành mùa mưa bão",
+      "location_scope": "Ba Vì, Sóc Sơn, Quốc Oai và vùng trũng ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-021",
+      "child_id": "C-QUY-DINH",
+      "title": "Dừng xe máy thả flycam quay cung đèo Tam Đảo, Ba Vì khi đi phượt: luật giao thông cấm bay trên đường thế nào",
+      "intent": "Hiểu khoản 27 Điều 9 Luật Trật tự, an toàn giao thông đường bộ cấm điều khiển tàu bay không người lái trong khổ giới hạn đường bộ gây cản trở, và cách dừng xe đúng chỗ khi quay.",
+      "kw": "thả flycam khi đi phượt xe máy",
+      "kw2": [
+        "flycam trên đường bộ",
+        "quay flycam cung đường đèo"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "nhóm phượt quay video bằng flycam",
+      "location_scope": "đường lên Tam Đảo, Ba Vì và các cung phượt quanh Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-022",
+      "child_id": "C-QUY-DINH",
+      "title": "Phố có đường tàu chạy qua như Phùng Hưng, Lê Duẩn: luật cấm dừng đỗ xe máy gần đường sắt ra sao",
+      "intent": "Nắm điểm m khoản 4 Điều 18 Luật Trật tự, an toàn giao thông đường bộ cấm dừng đỗ trong phạm vi an toàn của đường sắt và cách gửi xe hợp lệ khi ghé khu phố có đường tàu.",
+      "kw": "dừng đỗ xe gần đường sắt",
+      "kw2": [
+        "phố đường tàu hà nội gửi xe",
+        "phạm vi an toàn đường sắt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "khách du lịch muốn xem tàu chạy qua phố",
+      "location_scope": "Phùng Hưng, Trần Phú, Lê Duẩn, Khâm Thiên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-023",
+      "child_id": "C-QUY-DINH",
+      "title": "Chở thêm ông bà già yếu hoặc người khuyết tật trên xe máy: khi nào luật cho phép người lái chở hai người",
+      "intent": "Hiểu điểm d khoản 1 Điều 33 Luật Trật tự, an toàn giao thông đường bộ về ngoại lệ chở hai người khi có người già yếu, người khuyết tật và yêu cầu mũ bảo hiểm cho cả hai.",
+      "kw": "chở người già yếu trên xe máy",
+      "kw2": [
+        "chở người khuyết tật bằng xe máy",
+        "trường hợp được chở hai người"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "gia đình thuê xe đưa người thân lớn tuổi đi khám, đi lễ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-024",
+      "child_id": "C-QUY-DINH",
+      "title": "Đón bạn ở điểm dừng xe buýt, cổng bến xe bằng xe máy: luật cấm dừng đỗ tại điểm đón trả khách thế nào",
+      "intent": "Nắm điểm i khoản 4 Điều 18 Luật Trật tự, an toàn giao thông đường bộ cấm dừng đỗ tại điểm đón, trả khách và cách hẹn chỗ đón người hợp lệ gần điểm dừng xe buýt, bến xe.",
+      "kw": "dừng xe máy ở điểm xe buýt",
+      "kw2": [
+        "đón người ở bến xe bằng xe máy",
+        "cấm dừng tại điểm đón trả khách"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người thuê xe đi đón bạn bè, người thân từ xe buýt, xe khách",
+      "location_scope": "bến xe Mỹ Đình, Gia Lâm và các điểm dừng xe buýt nội đô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-036-025",
+      "child_id": "C-QUY-DINH",
+      "title": "Xe phía trước dừng lại nhường người đi bộ ở vạch sang đường: vì sao xe máy phía sau không được lách lên vượt",
+      "intent": "Hiểu khoản 6 Điều 14 Luật Trật tự, an toàn giao thông đường bộ cấm vượt xe tại vạch người đi bộ qua đường và khi có người đang qua, cùng cách xử lý khi bị che tầm nhìn.",
+      "kw": "không vượt xe ở vạch đi bộ",
+      "kw2": [
+        "xe trước dừng nhường người đi bộ",
+        "vượt xe ở vạch sang đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-036",
+      "audience": "người đi xe máy trong phố đông người đi bộ",
+      "location_scope": "phố cổ, khu trường học, bệnh viện nội đô Hà Nội",
       "word_target": 1200
     }
   ],
