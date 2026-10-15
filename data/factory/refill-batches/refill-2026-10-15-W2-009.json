@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-009: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-001",
+   "child_id": "C-HONDA-VISION",
+   "title": "Đổ xăng Honda Vision thuê: mở yên bằng chìa hoặc núm khóa thông minh, tìm nắp bình dưới yên và đổ vừa đủ",
+   "intent": "Biết cách mở yên Honda Vision bằng chìa cơ hoặc núm khóa thông minh, mở và đóng nắp bình xăng đúng thao tác, chọn loại xăng và đổ vừa đủ tại cây xăng ở Hà Nội.",
+   "kw": "đổ xăng honda vision",
+   "kw2": [
+    "nắp bình xăng honda vision",
+    "mở yên vision để đổ xăng"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người thuê Honda Vision lần đầu tự đổ xăng",
+   "location_scope": "cây xăng nội thành Hà Nội và Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-002",
+   "child_id": "C-HONDA-VISION",
+   "title": "Đọc đồng hồ Honda Vision thuê: kim tốc độ, vạch báo xăng, số km tổng và ý nghĩa các đèn báo trên mặt đồng hồ",
+   "intent": "Hiểu từng thông tin trên mặt đồng hồ Honda Vision gồm tốc độ, vạch xăng, số km và các đèn báo để theo dõi xe khi chạy và biết lúc nào cần dừng hỏi tiệm.",
+   "kw": "đồng hồ honda vision",
+   "kw2": [
+    "đèn báo trên đồng hồ vision",
+    "xem số km honda vision"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người mới lái xe ga và khách du lịch thuê Honda Vision",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-003",
+   "child_id": "C-HONDA-VISION",
+   "title": "Nhận biết phiên bản Honda Vision đang thuê: chìa cơ hay khóa thông minh, đời cũ hay mới và khác gì khi dùng",
+   "intent": "Nắm cách nhận ra chiếc Honda Vision mình thuê là bản chìa cơ hay khóa thông minh, đời cũ hay đời mới, để mở máy, mở yên và dùng tiện ích trên xe cho đúng.",
+   "kw": "phiên bản honda vision",
+   "kw2": [
+    "vision bản tiêu chuẩn và cao cấp",
+    "phân biệt các đời honda vision"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người thuê xe chưa quen các đời Honda Vision",
+   "location_scope": "Hà Nội, lúc nhận xe tại tiệm ở Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-004",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision bản chìa cơ: mở nắp khóa từ, khóa cổ và mở yên đúng thứ tự cho người mới nhận xe thuê",
+   "intent": "Biết cách dùng ổ khóa đa năng trên Honda Vision bản chìa cơ: mở và đóng nắp khóa từ, bẻ lái khóa cổ, mở yên và rút chìa đúng thứ tự mỗi lần gửi xe.",
+   "kw": "honda vision chìa cơ",
+   "kw2": [
+    "khóa từ honda vision",
+    "khóa cổ honda vision"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người mới nhận Honda Vision bản dùng chìa",
+   "location_scope": "phố cổ, chợ và bãi gửi xe ngoài trời ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-005",
+   "child_id": "C-HONDA-VISION",
+   "title": "Nhận Honda Vision thuê tại tiệm: chụp ảnh thân xe, thử phanh, còi, đèn và ghi mức xăng trước khi lăn bánh",
+   "intent": "Biết cách kiểm tra nhanh chiếc Honda Vision khi nhận tại tiệm: chụp ảnh các góc xe, thử phanh, còi, đèn, xi nhan, ghi mức xăng và hỏi rõ điều còn thắc mắc trước khi đi.",
+   "kw": "nhận xe honda vision thuê",
+   "kw2": [
+    "kiểm tra honda vision khi nhận",
+    "chụp ảnh xe thuê khi nhận"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách thuê Honda Vision theo ngày hoặc theo tuần",
+   "location_scope": "tiệm ở Bồ Đề, Long Biên và điểm hẹn nhận xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-006",
+   "child_id": "C-HONDA-VISION",
+   "title": "Nhược điểm của Honda Vision khi thuê: bình xăng nhỏ, bánh nhỏ, máy 110cc và những chuyến nên chọn xe khác",
+   "intent": "Hiểu rõ những hạn chế của Honda Vision như bình xăng nhỏ, bánh nhỏ, máy 110cc và cốp vừa phải để quyết định có nên thuê cho lịch trình và người đi cùng mình.",
+   "kw": "nhược điểm honda vision",
+   "kw2": [
+    "honda vision có nhược điểm gì",
+    "vision không hợp với chuyến nào"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người đang cân nhắc thuê Honda Vision",
+   "location_scope": "Hà Nội và các chuyến ngoại thành trong ngày",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-007",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision đang chạy bỗng tắt máy: tấp vào lề an toàn, kiểm tra xăng, chân chống bên và gọi tiệm cho thuê",
+   "intent": "Biết cách xử lý khi Honda Vision tắt máy giữa đường: bật xi nhan tấp vào lề, kiểm tra xăng, chân chống bên, thử đề lại đúng cách và gọi tiệm khi xe vẫn không nổ.",
+   "kw": "honda vision tự tắt máy",
+   "kw2": [
+    "vision chết máy giữa đường",
+    "xe vision đang chạy bị tắt"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người đang đi Honda Vision thuê trong phố",
+   "location_scope": "đường phố và ngã tư đông xe ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-008",
+   "child_id": "C-HONDA-VISION",
+   "title": "Lỡ làm đổ Honda Vision khi dắt hoặc dựng xe: cách dựng lại, kiểm tra gương, tay phanh, ốp nhựa và báo tiệm",
+   "intent": "Biết cách dựng chiếc Honda Vision bị đổ nghiêng mà không đau lưng, rồi kiểm tra gương, tay phanh, ốp nhựa, dấu hiệu rò xăng và báo tiệm trước khi chạy tiếp.",
+   "kw": "honda vision bị đổ",
+   "kw2": [
+    "dựng xe vision bị ngã",
+    "làm đổ xe ga thuê"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người nhỏ con hoặc mới làm quen xe ga",
+   "location_scope": "bãi gửi xe, vỉa hè và ngõ nhỏ ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-009",
+   "child_id": "C-HONDA-VISION",
+   "title": "Nhóm bạn thuê nhiều Honda Vision cùng màu: đánh dấu từng xe, giữ đúng chìa hoặc remote và tìm xe ở bãi gửi",
+   "intent": "Lên kế hoạch cho nhóm thuê nhiều Honda Vision giống nhau: ghi biển số, đánh dấu xe mà không làm hỏng sơn, giao chìa hoặc remote cho từng người và tìm đúng xe ở bãi gửi chung.",
+   "kw": "nhóm thuê nhiều xe vision",
+   "kw2": [
+    "phân biệt xe vision giống nhau",
+    "nhóm bạn thuê honda vision"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "nhóm bạn hoặc gia đình 3 đến 6 người thuê cùng dòng xe",
+   "location_scope": "phố cổ, Hồ Tây và các bãi gửi xe đông ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-010",
+   "child_id": "C-HONDA-VISION",
+   "title": "Đi thành Cổ Loa bằng Honda Vision thuê: chọn cầu sang Đông Anh, gửi xe và dạo khu di tích trong nửa ngày",
+   "intent": "Lên kế hoạch nửa ngày đi thành Cổ Loa bằng Honda Vision: chọn cầu và tuyến sang Đông Anh, chỗ gửi xe, thứ tự tham quan khu di tích và giờ quay về tránh tắc.",
+   "kw": "honda vision đi cổ loa",
+   "kw2": [
+    "đi cổ loa bằng xe máy",
+    "đường từ long biên đi cổ loa"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách du lịch và người ở Hà Nội thích di tích",
+   "location_scope": "Đông Anh, cầu Nhật Tân, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-011",
+   "child_id": "C-HONDA-VISION",
+   "title": "Đi làng lụa Vạn Phúc bằng Honda Vision: từ trung tâm về Hà Đông, gửi xe đầu làng và chở lụa về gọn gàng",
+   "intent": "Lên kế hoạch đi làng lụa Vạn Phúc bằng Honda Vision: tuyến từ trung tâm về Hà Đông, chỗ gửi xe, cách dạo làng và chở túi lụa về không nhàu, không ướt.",
+   "kw": "honda vision đi làng lụa vạn phúc",
+   "kw2": [
+    "đường đi làng lụa vạn phúc",
+    "gửi xe ở làng vạn phúc"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách du lịch và nhóm bạn thích mua lụa",
+   "location_scope": "Hà Đông, trục Nguyễn Trãi và Tố Hữu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-012",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision trên Khuất Duy Tiến – Nguyễn Xiển dưới Vành đai 3 trên cao: xe tải, nút giao và làn nên đi",
+   "intent": "Biết cách chạy Honda Vision an toàn trên trục Khuất Duy Tiến – Nguyễn Xiển bên dưới Vành đai 3 trên cao: chọn làn, giữ cự ly với xe tải và qua các nút giao đông.",
+   "kw": "đi xe máy đường khuất duy tiến",
+   "kw2": [
+    "vành đai 3 dưới thấp xe máy",
+    "honda vision đường nguyễn xiển"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người đi làm khu Thanh Xuân, Hoàng Mai bằng xe thuê",
+   "location_scope": "Khuất Duy Tiến, Nguyễn Xiển, nút giao Nguyễn Trãi",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-013",
+   "child_id": "C-HONDA-VISION",
+   "title": "Chở vali cabin trên Honda Vision: đặt ở sàn để chân hay buộc sau yên, giữ thăng bằng và không che đèn hậu",
+   "intent": "Biết cách chở một vali cabin hoặc ba lô lớn trên Honda Vision: chọn chỗ đặt, buộc chắc bằng dây chằng, giữ thăng bằng khi rẽ và không che đèn hậu, biển số.",
+   "kw": "chở vali bằng honda vision",
+   "kw2": [
+    "để vali ở sàn xe vision",
+    "buộc vali lên xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách du lịch tự chở hành lý về chỗ ở",
+   "location_scope": "từ bến xe, ga tàu về phố cổ và Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-014",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision làm mát bằng gió chạy liên tục lâu: dấu hiệu nóng máy và lịch nghỉ khi đi xa hoặc kẹt xe trưa hè",
+   "intent": "Hiểu vì sao động cơ làm mát bằng gió của Honda Vision dễ nóng khi chạy liên tục hoặc kẹt xe giữa trưa hè, nhận biết dấu hiệu và biết lúc nào nên dừng nghỉ.",
+   "kw": "honda vision nóng máy",
+   "kw2": [
+    "vision chạy đường dài có nóng máy không",
+    "xe ga làm mát bằng gió"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người đi Honda Vision chặng dài hoặc giữa trưa hè",
+   "location_scope": "Hà Nội và các tuyến ngoại thành 40 đến 80 km",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-015",
+   "child_id": "C-HONDA-VISION",
+   "title": "Qua gờ giảm tốc, ổ gà và nắp cống bằng Honda Vision: nhả ga sớm, giữ tay lái lỏng và báo người ngồi sau",
+   "intent": "Biết cách đưa Honda Vision bánh nhỏ qua gờ giảm tốc, ổ gà và nắp cống: giảm tốc từ trước, giữ tay lái lỏng, không phanh gấp giữa chướng ngại và báo người ngồi sau.",
+   "kw": "honda vision qua ổ gà",
+   "kw2": [
+    "vision qua gờ giảm tốc",
+    "xe ga bánh nhỏ đi đường xấu"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người thuê Honda Vision đi phố và đường ven đô",
+   "location_scope": "ngõ phố, khu đô thị và đường ven đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-016",
+   "child_id": "C-HONDA-VISION",
+   "title": "Quen đi Honda Wave, lần đầu lái Honda Vision: bỏ thói quen tìm cần số, phanh sau ở tay trái và xuất phát êm",
+   "intent": "Biết cách chuyển từ xe số Wave sang Honda Vision trong buổi đầu: đặt chân trên sàn, dùng phanh sau tay trái, vặn ga xuất phát êm và giữ tốc đều khi vào cua.",
+   "kw": "từ wave chuyển sang vision",
+   "kw2": [
+    "quen xe số lần đầu đi vision",
+    "đi xe số chuyển sang xe ga"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người quen xe số lần đầu thuê Honda Vision",
+   "location_scope": "khu phố vắng rồi phố đông ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-017",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision đi Ninh Bình trong ngày có nổi không: đi quốc lộ 1 thay cao tốc, chia chặng, về Hà Nội trước tối",
+   "intent": "Lên kế hoạch đi Ninh Bình trong ngày bằng Honda Vision: tuyến quốc lộ cho xe máy thay vì cao tốc, điểm đổ xăng và nghỉ máy, giờ xuất phát và mốc quay về Hà Nội.",
+   "kw": "honda vision đi ninh bình",
+   "kw2": [
+    "đi ninh bình bằng xe ga",
+    "xe máy đi ninh bình đường nào"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách du lịch tự lái muốn đi xa trong ngày",
+   "location_scope": "Hà Nội, quốc lộ 1, Phủ Lý, Ninh Bình",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-018",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision hỏng vặt khi đi xa Hà Nội: vì sao dễ tìm thợ quen xe và vẫn phải gọi tiệm cho thuê trước khi sửa",
+   "intent": "Hiểu vì sao Honda Vision dễ tìm thợ và phụ tùng ở ven đô, đồng thời biết gọi tiệm cho thuê trước khi sửa, hỏi rõ việc cần làm và giữ lại ảnh chụp, hóa đơn.",
+   "kw": "sửa honda vision khi đi xa",
+   "kw2": [
+    "tìm thợ sửa xe vision",
+    "xe thuê hỏng ở ngoại thành"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người đi Honda Vision thuê ra ngoại thành",
+   "location_scope": "ngoại thành Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-019",
+   "child_id": "C-HONDA-VISION",
+   "title": "Giáo viên nước ngoài thuê Honda Vision theo tháng ở Hà Nội: lịch dạy tối, chạy giữa các trung tâm và gửi xe",
+   "intent": "Lên kế hoạch đi lại bằng Honda Vision thuê tháng cho giáo viên nước ngoài: sắp lịch dạy nhiều điểm, tránh giờ tắc buổi tối, gửi xe ở tòa nhà và mang giấy phép lái xe hợp lệ.",
+   "kw": "giáo viên nước ngoài thuê honda vision",
+   "kw2": [
+    "thuê xe tháng đi dạy tiếng anh",
+    "người nước ngoài thuê vision theo tháng"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "giáo viên tiếng Anh người nước ngoài ở Hà Nội",
+   "location_scope": "Cầu Giấy, Tây Hồ, Đống Đa, Thanh Xuân",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-020",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision trục Tôn Đức Thắng – Nguyễn Lương Bằng – Tây Sơn giờ cao điểm: xe buýt vào trạm và nút Ô Chợ Dừa",
+   "intent": "Biết cách đi Honda Vision trên trục Tôn Đức Thắng – Nguyễn Lương Bằng – Tây Sơn giờ cao điểm: tránh xe buýt vào trạm, qua nút Ô Chợ Dừa và rẽ vào ngõ an toàn.",
+   "kw": "đi xe máy đường tôn đức thắng",
+   "kw2": [
+    "nút ô chợ dừa giờ cao điểm",
+    "đường tây sơn đi xe máy"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người đi làm và sinh viên khu Đống Đa",
+   "location_scope": "Văn Miếu, Ô Chợ Dừa, Thái Hà, Ngã Tư Sở",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-021",
+   "child_id": "C-HONDA-VISION",
+   "title": "Thợ trang điểm đi makeup tận nhà mùa cưới bằng Honda Vision thuê: chở vali đồ nghề, xuất phát sớm và gửi xe",
+   "intent": "Lên kế hoạch dùng Honda Vision thuê trong mùa cưới khi làm trang điểm tận nhà: chở vali đồ nghề an toàn, xuất phát lúc trời còn tối và tìm chỗ để xe ở nhà cô dâu.",
+   "kw": "thợ trang điểm thuê honda vision",
+   "kw2": [
+    "chở vali makeup bằng xe máy",
+    "thuê xe máy mùa cưới"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "thợ trang điểm, làm tóc tự do",
+   "location_scope": "nội thành và các xã ven Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-022",
+   "child_id": "C-HONDA-VISION",
+   "title": "Honda Vision máy êm trong phố cổ: người đi bộ, xe đạp khó nghe tiếng xe và cách báo hiệu, giảm tốc cho an toàn",
+   "intent": "Hiểu vì sao Honda Vision chạy êm dễ khiến người đi bộ, xe đạp không nhận ra mình và biết cách giảm tốc, giữ khoảng cách, dùng còi nhẹ đúng lúc trong phố cổ.",
+   "kw": "honda vision chạy êm",
+   "kw2": [
+    "người đi bộ không nghe tiếng xe",
+    "bấm còi lịch sự trong phố cổ"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách du lịch và người mới lái xe ga",
+   "location_scope": "phố cổ Hoàn Kiếm và các ngõ chợ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-023",
+   "child_id": "C-HONDA-VISION",
+   "title": "Một ngày tự lái Honda Vision ở Hà Nội tốn bao nhiêu: tiền thuê 200.000đ, tiền xăng và phí gửi xe nên dự trù",
+   "intent": "Lên kế hoạch ngân sách cho một ngày tự lái Honda Vision ở Hà Nội: tiền thuê 200.000đ, cách ước lượng tiền xăng theo quãng đường và phí gửi xe ở từng điểm dừng.",
+   "kw": "chi phí một ngày đi honda vision",
+   "kw2": [
+    "tốn bao nhiêu khi thuê vision",
+    "dự trù tiền xăng và gửi xe"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "khách du lịch tự túc tính ngân sách",
+   "location_scope": "phố cổ, Hồ Tây, Ba Đình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-024",
+   "child_id": "C-HONDA-VISION",
+   "title": "Cốp Honda Vision không mở được: kiểm tra núm vặn, chìa, pin remote và khi nào nên gọi tiệm thay vì cạy",
+   "intent": "Biết cách xử lý khi cốp Honda Vision không mở: kiểm tra vị trí núm vặn hoặc chìa, pin remote, đồ bị kẹt dưới yên và gọi tiệm thay vì tự cạy làm hỏng khóa.",
+   "kw": "cốp honda vision không mở được",
+   "kw2": [
+    "kẹt cốp vision",
+    "không mở được yên xe vision"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người thuê Honda Vision bản chìa cơ và bản khóa thông minh",
+   "location_scope": "Hà Nội, bãi gửi xe và chỗ ở",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-009-025",
+   "child_id": "C-HONDA-VISION",
+   "title": "Hộc đồ phía trước và cổng sạc trên Honda Vision đời mới: sạc điện thoại, để vé gửi xe và tránh để gì khi mưa",
+   "intent": "Nắm cách dùng hộc đồ phía trước và cổng sạc trên Honda Vision đời mới: sạc điện thoại đúng cách, để vé gửi xe, khẩu trang và tránh để đồ dễ hỏng khi trời mưa.",
+   "kw": "cổng sạc honda vision",
+   "kw2": [
+    "hộc đồ phía trước vision",
+    "sạc điện thoại trên xe vision"
+   ],
+   "links": [
+    "/xe-may/honda-vision/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-009",
+   "audience": "người thuê Honda Vision đời mới",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
