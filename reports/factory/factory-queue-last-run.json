@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "mode": "new",
+  "mode": "repair",
   "queue": [
     "BLG-03699",
     "BLG-03700",
@@ -14,8 +14,8 @@
     "BLG-03708"
   ],
   "pair_size": 2,
-  "started": "2026-10-15T11:30:43Z",
-  "finished": "2026-10-15T11:31:39Z",
+  "started": "2026-10-15T11:35:49Z",
+  "finished": "2026-10-15T11:36:47Z",
   "pairs": [
     {
       "pair_index": 1,
@@ -23,7 +23,7 @@
         "BLG-03699",
         "BLG-03700"
       ],
-      "status": "recoverable"
+      "status": "published"
     },
     {
       "pair_index": 2,
@@ -31,7 +31,7 @@
         "BLG-03701",
         "BLG-03702"
       ],
-      "status": "recoverable"
+      "status": "published"
     },
     {
       "pair_index": 3,
@@ -39,7 +39,7 @@
         "BLG-03703",
         "BLG-03704"
       ],
-      "status": "recoverable"
+      "status": "published"
     },
     {
       "pair_index": 4,
@@ -47,7 +47,7 @@
         "BLG-03705",
         "BLG-03706"
       ],
-      "status": "recoverable"
+      "status": "published"
     },
     {
       "pair_index": 5,
@@ -55,11 +55,10 @@
         "BLG-03707",
         "BLG-03708"
       ],
-      "status": "recoverable"
+      "status": "published"
     }
   ],
-  "published": [],
-  "recoverable": [
+  "published": [
     "BLG-03699",
     "BLG-03700",
     "BLG-03701",
@@ -71,6 +70,7 @@
     "BLG-03707",
     "BLG-03708"
   ],
+  "recoverable": [],
   "deferred": [],
   "fatal": null
 }
