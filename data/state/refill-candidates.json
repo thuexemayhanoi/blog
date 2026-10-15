@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-14T20:24:07+00:00",
-    "staged_at": "2026-10-14T23:43:49+00:00"
+    "staged_at": "2026-10-15T03:47:45+00:00"
   },
   "candidates": [
     {
@@ -3770,6 +3770,481 @@
       "subtopic": "refill-2026-10-14-W3F",
       "audience": "hướng dẫn viên tự do, người mở tour xe máy nhỏ",
       "location_scope": "Hà Nội và ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-001",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Tay ga hay trợ lực bàn đạp trên xe đạp điện thuê: dùng cái nào khi xuất phát, đi phố đông và vào ngõ",
+      "intent": "Biết khi nào nên vặn tay ga, khi nào nên đạp để bật trợ lực trên xe đạp điện thuê ở Hà Nội, kể cả loại xe phải đạp vài vòng mới nhận ga, để xuất phát êm và không bị vọt giữa phố đông.",
+      "kw": "trợ lực bàn đạp xe đạp điện",
+      "kw2": [
+        "xe đạp điện tay ga hay đạp trợ lực",
+        "xe đạp điện phải đạp mới chạy"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người thuê xe đạp điện lần đầu, chưa quen chế độ trợ lực",
+      "location_scope": "phố đông và ngõ nội thành Hà Nội: Hoàn Kiếm, Đống Đa, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-002",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Ngừng đạp mà xe đạp điện vẫn đẩy thêm một nhịp: tránh bị vọt khi dừng đèn đỏ, vào ngõ hay đỗ sát người",
+      "intent": "Hiểu vì sao xe đạp điện có cảm biến trợ lực vẫn đẩy tiếp một chút sau khi ngừng đạp và tập thói quen nhả đạp sớm, chạm phanh để dừng đúng chỗ ở ngã tư, đầu ngõ hay cạnh người đi bộ.",
+      "kw": "xe đạp điện trợ lực bị trễ",
+      "kw2": [
+        "xe đạp điện vẫn chạy khi ngừng đạp",
+        "dừng xe đạp điện bị vọt"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện có chế độ trợ lực trong phố",
+      "location_scope": "ngã tư, đầu ngõ và phố đông người ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-003",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Tắt điện, đạp chay qua đoạn đông người: đi xe đạp điện qua chợ, cổng chùa, ngõ hẹp mà vẫn chủ động",
+      "intent": "Biết lúc nào nên tắt nguồn hoặc hạ trợ lực để đạp xe đạp điện như xe đạp thường qua chỗ chen chúc, giữ tốc độ thật chậm mà không lỡ tay vặn ga làm xe lao vào người khác.",
+      "kw": "tắt điện đạp xe đạp điện",
+      "kw2": [
+        "đạp chay xe đạp điện chỗ đông",
+        "xe đạp điện đi qua chợ đông người"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện thường ghé chợ, chùa, ngõ đông",
+      "location_scope": "chợ dân sinh, cổng chùa và ngõ nhỏ ở các quận nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-004",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Đạp xe điện có tập thể dục được không: chỉnh mức trợ lực, tắt điện từng đoạn và chọn cung đường bằng phẳng",
+      "intent": "Hiểu xe đạp điện giúp vận động được bao nhiêu tùy cách đạp, biết cách hạ trợ lực hoặc tắt điện từng đoạn để đạp nhiều hơn mà vẫn còn điện cho lúc mỏi chân hay đường về.",
+      "kw": "đạp xe điện tập thể dục",
+      "kw2": [
+        "đạp xe điện có tập thể dục được không",
+        "đạp xe điện tắt trợ lực"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người muốn vận động nhẹ hằng ngày bằng xe đạp điện thuê",
+      "location_scope": "đường ven hồ và phố ít xe ở Hà Nội: Hồ Tây, hồ Thiền Quang, Trúc Bạch",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-005",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Bàn đạp xe đạp điện quẹt đất khi vào cua gấp: giữ bàn đạp phía trong ở trên và nghiêng xe vừa phải",
+      "intent": "Biết vì sao bàn đạp xe đạp điện có thể chạm mặt đường hoặc bó vỉa khi nghiêng xe vào cua, và cách để bàn đạp đúng vị trí, giảm tốc trước góc phố để không bị hất xe.",
+      "kw": "bàn đạp xe đạp điện chạm đất",
+      "kw2": [
+        "vào cua bằng xe đạp điện",
+        "bàn đạp quẹt đất khi cua"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện chưa quen xe có bàn đạp",
+      "location_scope": "góc phố hẹp, đầu ngõ và lối rẽ gấp ở phố cổ, khu tập thể Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-006",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Đặt chân lên bàn đạp xe đạp điện cho đúng: đạp bằng nửa trước bàn chân, không trượt chân khi qua chỗ xóc",
+      "intent": "Biết cách đặt bàn chân lên bàn đạp xe đạp điện khi đạp và khi chỉ vặn ga, để chân không trượt xuống chạm bánh, không vướng xích và đạp đỡ mỏi trên đường gồ ghề.",
+      "kw": "đặt chân bàn đạp xe đạp điện",
+      "kw2": [
+        "cách đạp xe đạp điện đỡ mỏi",
+        "trượt chân khỏi bàn đạp"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người lâu không đạp xe, mới thuê xe đạp điện",
+      "location_scope": "đường nội thành có đoạn xóc, nắp cống, gờ giảm tốc ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-007",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Tay phanh xe đạp điện có công tắc ngắt điện: vì sao xe hụt lực khi để ngón tay hờ trên tay phanh",
+      "intent": "Hiểu cơ chế tay phanh ngắt motor trên xe đạp điện, nhận ra vì sao xe chợt mất lực khi lỡ chạm phanh hoặc khi tay phanh không nhả hết, và biết lúc nào cần báo chủ xe kiểm tra.",
+      "kw": "phanh ngắt điện xe đạp điện",
+      "kw2": [
+        "xe đạp điện chạm phanh mất ga",
+        "tay phanh xe đạp điện không nhả hết"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người thuê xe đạp điện thấy xe hụt lực bất thường",
+      "location_scope": "đường phố nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-008",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Xe đạp điện tuột xích bàn đạp giữa đường: còn vặn ga đi tiếp được không và lắp xích lại thế nào",
+      "intent": "Biết xử lý khi xích bàn đạp xe đạp điện bị tuột: tấp vào lề an toàn, kiểm tra xe còn chạy bằng tay ga hay không, cách lắp xích đơn giản và khi nào nên dừng hẳn để gọi chủ xe.",
+      "kw": "xe đạp điện tuột xích",
+      "kw2": [
+        "lắp xích xe đạp điện",
+        "xe đạp điện tuột xích có đi được không"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đang đi xe đạp điện thuê gặp sự cố xích",
+      "location_scope": "đường phố và ngõ nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-009",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Bàn đạp xe đạp điện bị lỏng, đùi đĩa kêu cộc cộc khi đạp: kiểm tra nhanh và lúc nào nên báo chủ xe",
+      "intent": "Nhận biết bàn đạp hoặc đùi đĩa xe đạp điện bị lỏng qua tiếng kêu và cảm giác khi đạp, kiểm tra nhanh tại chỗ và biết khi nào ngừng đạp, chỉ chạy tay ga về hoặc gọi chủ xe.",
+      "kw": "bàn đạp xe đạp điện bị lỏng",
+      "kw2": [
+        "đùi đĩa xe đạp điện kêu",
+        "xe đạp điện kêu khi đạp"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người thuê xe đạp điện nghe tiếng lạ khi đạp",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-010",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Bánh xe đạp điện bị đảo, vành cọ má phanh: nhận biết khi đang đi và vì sao không nên cố chạy tiếp",
+      "intent": "Biết nhận ra bánh xe đạp điện bị đảo hoặc cọ phanh qua tiếng rít đều theo vòng bánh và cảm giác lắc tay lái, hiểu rủi ro khi chạy tiếp và cách báo chủ xe cho đúng tình trạng.",
+      "kw": "bánh xe đạp điện bị đảo",
+      "kw2": [
+        "vành xe đạp điện cọ phanh",
+        "xe đạp điện rít theo vòng bánh"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người thuê xe đạp điện thấy bánh xe lắc hoặc có tiếng rít",
+      "location_scope": "đường phố nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-011",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Các nút trên tay lái xe đạp điện thuê: công tắc nguồn, đèn, còi, xi nhan, nút tốc độ và vạch báo pin",
+      "intent": "Làm quen nhanh với cụm nút trên tay lái xe đạp điện thuê trước khi ra đường: bật tắt nguồn, đèn, còi, xi nhan, chọn mức tốc độ hoặc trợ lực và đọc các vạch báo pin cho đúng.",
+      "kw": "nút bấm tay lái xe đạp điện",
+      "kw2": [
+        "cách dùng xe đạp điện thuê",
+        "đọc vạch pin xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người mới nhận xe đạp điện thuê, chưa quen các nút điều khiển",
+      "location_scope": "tại điểm nhận xe trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-012",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Chọn kiểu xe đạp điện khi thuê: khung thấp dễ bước qua, khung ngang, bánh nhỏ hay có baga chở đồ",
+      "intent": "Chọn đúng kiểu xe đạp điện khi thuê theo vóc dáng, trang phục và việc định làm: khung thấp cho người mặc váy hoặc lớn tuổi, bánh nhỏ cho người thấp, xe có giỏ và baga cho người hay chở đồ.",
+      "kw": "chọn xe đạp điện khung thấp",
+      "kw2": [
+        "kiểu xe đạp điện nên thuê",
+        "xe đạp điện bánh nhỏ hay bánh to"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người chuẩn bị thuê xe đạp điện, phân vân giữa các kiểu xe",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-013",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Lên và xuống xe đạp điện an toàn: bóp phanh trước khi ngồi, bước qua khung và tránh vặn ga lúc chưa sẵn sàng",
+      "intent": "Tập thao tác lên xuống xe đạp điện đúng thứ tự để xe không chồm lên khi lỡ chạm tay ga, không đổ khi bước qua khung và không vướng bàn đạp vào chân, nhất là khi dừng ở lề phố hẹp.",
+      "kw": "cách lên xuống xe đạp điện",
+      "kw2": [
+        "xe đạp điện chồm lên khi ngồi",
+        "bước lên xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người nhỏ con, người lớn tuổi, người mặc váy thuê xe đạp điện",
+      "location_scope": "lề phố hẹp, trước cửa nhà, quán ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-014",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Chưa biết đi xe đạp có thuê xe đạp điện được không: tập giữ thăng bằng ở đâu trước khi ra phố",
+      "intent": "Hiểu vì sao người chưa từng đi xe đạp không nên ra phố ngay bằng xe đạp điện, cách tập thăng bằng, phanh và dừng chống chân ở chỗ vắng trước, và khi nào nên chọn cách đi lại khác.",
+      "kw": "người chưa biết đi xe đạp",
+      "kw2": [
+        "chưa biết đi xe đạp đi xe đạp điện được không",
+        "tập thăng bằng xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người lớn chưa từng đi xe đạp muốn thuê xe đạp điện",
+      "location_scope": "bãi rộng, đường nội bộ ít xe ở Hà Nội trước khi vào phố",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-015",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Quen xe đạp trợ lực ở châu Âu, Nhật Bản: xe đạp điện thuê ở Hà Nội khác gì về tay ga, phanh và cảm giác lái",
+      "intent": "Giúp khách nước ngoài đã quen xe đạp trợ lực chỉ chạy khi đạp hiểu những khác biệt của xe đạp điện có tay ga thường gặp ở Hà Nội, để không bất ngờ khi xe tự chạy, xe nặng hơn hay phanh khác tay.",
+      "kw": "xe đạp trợ lực hay tay ga",
+      "kw2": [
+        "thuê e-bike ở Hà Nội",
+        "khách nước ngoài thuê xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "khách nước ngoài quen xe đạp trợ lực ở nước họ",
+      "location_scope": "phố cổ, Hồ Tây và nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-016",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Đi sát lề phải bằng xe đạp điện mà xe máy vẫn chen vào bên phải: giữ vị trí và không bị ép vào lề",
+      "intent": "Biết giữ khoảng cách hợp lý với mép đường khi đi xe đạp điện sát phải, xử lý khi xe máy lách vào khe giữa mình và lề, và tránh bị dồn vào nắp cống, mép vỡ hay xe đỗ ven đường.",
+      "kw": "xe đạp điện đi sát lề phải",
+      "kw2": [
+        "xe máy chen bên phải xe đạp điện",
+        "bị ép lề khi đi xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện trên đường đông xe máy",
+      "location_scope": "trục phố đông ở Hà Nội: Nguyễn Trãi, Xã Đàn, Tây Sơn, Kim Mã",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-017",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Xe vượt lên rồi rẽ phải ngay trước bánh xe đạp điện: đoán trước ở đầu ngõ, cổng nhà và lối vào cây xăng",
+      "intent": "Nhận biết sớm tình huống xe máy, ô tô vừa vượt đã rẽ phải cắt ngang trước mặt người đi xe đạp điện sát lề, và cách giảm tốc, giữ khoảng trống ở những đoạn có nhiều lối rẽ vào ngõ hay cổng.",
+      "kw": "xe rẽ phải cắt ngang xe đạp",
+      "kw2": [
+        "xe rẽ phải cắt đầu xe đạp điện",
+        "đi sát lề gặp xe rẽ phải"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện sát lề trong phố",
+      "location_scope": "phố nhiều ngõ, cổng nhà và lối vào cây xăng ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-018",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Muốn sang bên kia đường lớn bằng xe đạp điện: xuống dắt qua chỗ người đi bộ hay chạy vòng tìm chỗ quay đầu",
+      "intent": "Chọn cách an toàn để sang phía bên kia một con đường lớn có dải phân cách khi đi xe đạp điện: lúc nào nên xuống dắt xe theo người đi bộ ở nút có đèn, lúc nào nên chạy vòng quay đầu.",
+      "kw": "xe đạp điện sang đường lớn",
+      "kw2": [
+        "dắt xe đạp điện qua đường",
+        "quay đầu xe đạp điện đường lớn"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện cần sang phía bên kia đường lớn",
+      "location_scope": "đường có dải phân cách ở Hà Nội: Láng Hạ, Giải Phóng, Nguyễn Văn Cừ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-019",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Vượt xích lô, xe đạp thồ hàng rong ở làn sát phải phố cổ khi đi xe đạp điện: chênh tốc độ ít thì vượt sao",
+      "intent": "Biết lúc nào nên vượt và lúc nào nên đi chậm phía sau xích lô, xe đạp thồ hàng rong trong phố cổ khi xe đạp điện chỉ nhanh hơn chút ít, quan sát phía sau và trở lại làn sát phải gọn gàng.",
+      "kw": "xe đạp điện vượt xích lô",
+      "kw2": [
+        "xe đạp điện vượt xe hàng rong",
+        "đi xe đạp điện phố cổ làn sát phải"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "du khách và người Hà Nội đạp xe điện trong phố cổ",
+      "location_scope": "phố cổ Hoàn Kiếm: Hàng Bạc, Hàng Buồm, Đinh Tiên Hoàng, Hàng Bè",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-020",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Đi xe đạp điện gặp đoàn xe điện du lịch quanh Hồ Gươm, phố cổ: vượt, nhường và chỗ xe dừng đón khách",
+      "intent": "Biết cách đi cùng đoàn xe điện chở khách du lịch có tốc độ gần bằng xe đạp điện quanh Hồ Gươm và phố cổ: khi nào nên chờ, vượt bên nào và cẩn thận chỗ xe dừng cho khách lên xuống.",
+      "kw": "gặp xe điện du lịch phố cổ",
+      "kw2": [
+        "xe điện du lịch phố cổ",
+        "đi xe đạp điện quanh hồ gươm"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đạp xe điện dạo Hồ Gươm và phố cổ",
+      "location_scope": "Hồ Gươm, Đinh Tiên Hoàng, Lê Thái Tổ và các phố cổ Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-021",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Đi ngược chiều một đoạn ngắn sát lề cho nhanh bằng xe đạp điện: vì sao nguy hiểm và cách đi vòng hợp lý",
+      "intent": "Hiểu vì sao thói quen đi ngược chiều sát lề bằng xe đạp điện để đỡ vòng lại rất dễ va chạm và trái luật giao thông, và cách lên lộ trình để không phải đi ngược chiều ở đường một chiều, đường có dải phân cách.",
+      "kw": "đi xe đạp điện ngược chiều",
+      "kw2": [
+        "xe đạp điện đi ngược chiều sát lề",
+        "đường một chiều xe đạp điện"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện quãng ngắn trong khu dân cư",
+      "location_scope": "đường một chiều và đường có dải phân cách ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-022",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Leo vỉa hè tránh tắc bằng xe đạp điện: người đi bộ, bậc vỉa hè, hàng quán và lựa chọn thay thế khi kẹt",
+      "intent": "Hiểu vì sao không nên đi xe đạp điện trên vỉa hè dù xe nhỏ và chậm, rủi ro với người đi bộ, bậc cao, hàng quán, và biết cách chờ hoặc đổi đường khi phố bị ùn.",
+      "kw": "đi xe đạp điện trên vỉa hè",
+      "kw2": [
+        "xe đạp điện leo vỉa hè",
+        "kẹt xe đi xe đạp điện thế nào"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện trong giờ phố đông",
+      "location_scope": "các phố hay ùn ở Hà Nội: Chùa Bộc, Thái Hà, Phố Huế",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-023",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Xe đạp điện thuê không có gương hoặc gương nhỏ: ngoái nhìn phía sau thế nào trước khi tách lề, đổi hướng",
+      "intent": "Biết quan sát phía sau an toàn khi xe đạp điện không có hoặc chỉ có gương nhỏ: ngoái đầu đúng lúc mà tay lái vẫn thẳng, giảm tốc trước khi tách khỏi lề và báo hiệu cho xe phía sau.",
+      "kw": "xe đạp điện không có gương",
+      "kw2": [
+        "quan sát phía sau khi đi xe đạp điện",
+        "ngoái đầu khi đi xe đạp"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "người đi xe đạp điện thuê ít gương chiếu hậu",
+      "location_scope": "đường phố nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-024",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Đi xe đạp điện kèm con tự đạp xe đạp quanh khu nhà: đi phía nào, giữ tốc độ theo con và chọn đường vắng",
+      "intent": "Lên cách đi kèm khi bố mẹ đi xe đạp điện còn con tự đạp xe đạp riêng quanh khu nhà hoặc ven hồ: vị trí của người lớn, nhịp đi chậm, điểm dừng và những đoạn nên xuống dắt cùng con.",
+      "kw": "đạp xe điện kèm con đạp xe",
+      "kw2": [
+        "đi kèm con đạp xe đạp",
+        "xe đạp điện đi cùng trẻ đạp xe"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "bố mẹ đi xe đạp điện đi kèm con tự đạp xe đạp",
+      "location_scope": "đường nội bộ khu dân cư, ven hồ ít xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3G-025",
+      "child_id": "C-XE-DAP-DIEN",
+      "title": "Xe đạp công cộng quét mã hay thuê xe đạp điện theo buổi ở Hà Nội: chọn theo lộ trình, chỗ trả xe và sức đạp",
+      "intent": "So sánh xe đạp công cộng thuê bằng ứng dụng với xe đạp điện thuê ở tiệm theo nhu cầu thật: đi một chiều hay vòng tròn, có cần trả xe tại trạm, đi bao lâu và có muốn đạp nhiều hay không.",
+      "kw": "xe đạp công cộng hà nội",
+      "kw2": [
+        "xe đạp công cộng hay xe đạp điện",
+        "thuê xe đạp điện theo buổi"
+      ],
+      "links": [
+        "/xe-may/xe-dap-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3G",
+      "audience": "du khách và người Hà Nội cân nhắc giữa xe đạp công cộng và xe đạp điện thuê",
+      "location_scope": "phố cổ, Hồ Gươm, Hồ Tây và nội thành Hà Nội",
       "word_target": 1200
     }
   ],
