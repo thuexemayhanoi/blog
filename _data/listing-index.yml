@@ -2,15 +2,15 @@
 kinh-nghiem:
   pages: 237
   size: 12
-  total: 2833
+  total: 2835
 chia-se:
   pages: 10
   size: 12
   total: 112
 du-lich:
-  pages: 60
+  pages: 61
   size: 12
-  total: 719
+  total: 727
 topic:
   xe-may_bao-duong-xe:
     pages: 5
@@ -27,7 +27,7 @@ topic:
   cung-duong_cung-duong-cuoi-tuan:
     pages: 6
     size: 24
-    total: 127
+    total: 135
   cung-duong_ha-giang:
     pages: 2
     size: 24
@@ -97,9 +97,9 @@ topic:
     size: 24
     total: 95
   ky-nang_ky-nang-lai-co-ban:
-    pages: 5
+    pages: 6
     size: 24
-    total: 120
+    total: 122
   ky-nang_gui-xe-va-giu-xe:
     pages: 5
     size: 24
