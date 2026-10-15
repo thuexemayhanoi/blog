@@ -21,7 +21,7 @@ Bạn đã nhắn tin với tiệm thuê xe máy cả buổi: dòng xe, giá thu
 
 Không phải lúc nào cũng chủ ý. Một số tình huống rất đời: người nhắn tin với bạn là nhân viên ca sáng, người trực ca chiều chưa đọc hết lịch sử trò chuyện; dòng xe bạn đặt đã có khách trả trễ nên tiệm đề nghị dòng khác kèm điều kiện khác; bạn đến vào đúng giờ đông khách nên quy trình bị gấp rút. Tuy nhiên, cũng có tiệm cố tình nâng điều kiện khi thấy khách đã đến nơi, đánh vào tâm lý ngại đi tìm chỗ khác. Phân biệt hai trường hợp này bằng cách đối chiếu, không phải bằng cảm xúc.
 
-## Bước 1: Đưa tin nhắn đã chốt ra đối chiếu
+## Tiệm đòi cọc khác đã chốt: bước 1 là đưa tin nhắn cũ ra đối chiếu
 
 Đây là lý do bạn nên chốt điều kiện qua tin nhắn chứ không chỉ gọi miệng. Mở đoạn hội thoại, tìm đúng câu trả lời của tiệm về cọc hoặc giấy tờ, rồi điện thoại úp màn hình cho người trực quầy xem và nói một câu trung tính: "Em chốt với anh/chị kia là giữ giấy tờ, giờ mình nói lại giúp em với ạ."
 

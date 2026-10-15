@@ -21,7 +21,7 @@ Bạn thuê xe máy đã một tuần, căn cước đang nằm ở tiệm làm 
 
 Căn cước không chỉ dùng khi bị kiểm tra giấy tờ. Nó cần cho: mở hoặc xác thực tài khoản ngân hàng, làm thủ tục khám chữa bệnh có bảo hiểm, nhận hàng bưu điện có yêu cầu định danh, làm thủ tục sân bay nội địa, đăng ký sim, và vô số việc hành chính lặt vặt khác. Khi bạn thuê xe theo tuần hay theo tháng và để lại căn cước suốt, xác suất một trong các việc trên phát sinh là khá cao. Vì vậy ngay từ lúc nhận xe, hãy tính trước kịch bản mượn lại: đó không phải chuyện hi hữu mà là phần kế hoạch.
 
-## Bước 1: Nhắn tiệm sớm và nói rõ tình huống
+## Cần dùng căn cước đang gửi tiệm: nhắn sớm và nói rõ tình huống
 
 Đừng đợi đến sát giờ cần mới gọi. Nhắn tiệm càng sớm càng tốt, với bốn thông tin:
 

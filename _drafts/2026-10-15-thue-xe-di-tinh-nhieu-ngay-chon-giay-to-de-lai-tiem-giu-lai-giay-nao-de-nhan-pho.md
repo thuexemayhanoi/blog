@@ -23,7 +23,7 @@ Trước tiên, nhìn rõ bản đồ nhu cầu. Một là tiệm thuê xe: cầ
 
 Sai lầm phổ biến nhất của người đi xa là để lại căn cước cho tiệm. Đúng là tiệm thường muốn giấy tờ tùy thân, nhưng nếu bạn đưa căn cước, bạn đã mất đi thứ mà mọi nơi nghỉ trên đường đều xin. Vậy nguyên tắc đầu tiên: căn cước giữ lại theo người, trừ khi bạn thật sự không còn phương án nào khác.
 
-## Phân bổ giấy tờ cho chuyến đi nhiều ngày
+## Giấy tờ để lại tiệm đi tỉnh: phân bổ cho chuyến đi nhiều ngày
 
 Một phân bổ hợp lý cho chuyến năm bảy ngày như sau:
 

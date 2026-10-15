@@ -23,7 +23,7 @@ Nghĩ thử một vòng kịch bản thực tế ở Hà Nội. Bạn thuê xe b
 
 Còn những kịch bản không may hơn: xe trục trặc cần đổi xe ở một chi nhánh khác, hoặc bạn đổi kế hoạch trả xe ở địa điểm khác với chỗ nhận. Không có bằng theo người, mỗi tình huống như vậy đều thành vấn đề. Nói ngắn lại: bằng lái là giấy tờ đi cùng người lái, để lại nó ở tiệm đồng nghĩa với việc tự giảm phòng hè của chính mình.
 
-## Vì sao tiệm vẫn đề nghị giữ bằng lái
+## Tiệm giữ bằng lái làm cọc: vì sao họ vẫn đề nghị
 
 Để công bằng với các tiệm, lý do của họ không phải vô lý. Bằng lái là giấy tờ có tên, có ảnh, có số, giúp tiệm xác định danh tính người thuê và có một thứ khách sẽ quay lại lấy, nên về mặt bảo đảm nó khá giống căn cước. Với khách du lịch nước ngoài, international driving permit đôi khi là giấy duy nhất họ có, và tiệm nhận vì không còn lựa chọn. Đề nghị giữ bằng lái vì vậy xuất phát từ góc nhìn bảo đảm của tiệm, chứ không phải để gây khó cho bạn. Nhưng lợi ích của hai bên khác nhau, và bạn có quyền đề nghị phương án khác.
 

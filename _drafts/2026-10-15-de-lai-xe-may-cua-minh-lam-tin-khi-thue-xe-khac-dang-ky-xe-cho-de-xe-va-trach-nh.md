@@ -17,7 +17,7 @@ writer_session: s-mistral-w1
 
 Nhà bạn có một chiếc Wave cũ đang tốt, nhưng cuối tuần này bạn cần một chiếc xe ga để chở gia đình đi xa, hoặc cần một chiếc xe số khác cho người thân tập đi. Bạn nghĩ ra cách: để luôn chiếc xe của mình ở tiệm làm tin thay tiền cọc. Ý tưởng này nghe hợp lý vì xe của bạn có giá trị, nhưng để làm tin cho tử tế thì có vài điều phải thỏa thuận trước. Bài này chỉ ra những gì cần hỏi, cái gì phải ghi nhận bằng văn bản, và giới hạn trách nhiệm của hai bên.
 
-## Tiệm có nhận xe cá nhân làm tin không
+## Để xe máy làm tin thuê xe khác: tiệm có nhận không
 
 Trước hết, đây không phải hình thức mọi tiệm đều nhận. Xe cá nhân làm tin đặt ra cho tiệm vài gánh nặng: họ phải có chỗ để xe của bạn suốt thời gian thuê, phải chịu trách nhiệm giữ gìn một tài sản không phải của mình, và khi có trục trặc giữa chừng thì quan hệ hai bên phức tạp hơn nhiều so với tiền cọc. Vì vậy, đừng mặc định; hãy hỏi trực tiếp và hỏi sớm.
 

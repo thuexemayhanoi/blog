@@ -23,7 +23,7 @@ Với tiệm, điện thoại hay laptop là tài sản có giá trị, dễ nh�
 
 Đặc biệt với khách du lịch, điện thoại còn là bản đồ, từ điển, ví điện tử và phương tiện liên lạc duy nhất. Đem đổi chiếc xe thuê lấy sự mất phương tiện di chuyển số thì nhiều khi món cọc không đáng.
 
-## Nếu cân nhắc đồng ý, hỏi kỹ bốn câu
+## Giữ điện thoại làm tin thuê xe: nếu đồng ý thì hỏi kỹ bốn câu
 
 Không phải trường hợp nào cũng nên từ chối thẳng. Nếu bạn thuê ở khu quen thuộc, thời gian ngắn và tiệm có vẻ làm việc chỉn chu, hãy hỏi bốn câu trước khi đưa máy:
 

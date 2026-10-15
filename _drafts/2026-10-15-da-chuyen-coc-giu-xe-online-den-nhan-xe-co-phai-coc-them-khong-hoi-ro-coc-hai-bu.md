@@ -23,7 +23,7 @@ Khoản giữ chỗ khi đặt online thường có mục đích rất cụ th�
 
 Vì hai khoản phục vụ mục đích khác nhau nên nhiều tiệm tách riêng. Khoản giữ chỗ thường nhỏ hơn, đôi khi được trừ vào tiền thuê; khoản cọc chính bằng tiền mặt hoặc giấy tờ, được thỏa thuận lúc giao xe. Khi hiểu đúng vai trò từng khoản, bạn sẽ không còn cảm giác bị "đòi thêm" mà chỉ là đang hoàn tất nốt phần việc chưa chốt.
 
-## Vì sao nên hỏi rõ trước khi chuyển tiền giữ chỗ
+## Đặt cọc online có cọc thêm không: vì sao nên hỏi rõ trước khi chuyển tiền
 
 Điều khiến khách khó chịu nhất không phải khoản tiền, mà là sự bất ngờ. Vài câu hỏi gửi cho tiệm trước khi chuyển khoản giữ chỗ sẽ giúp bạn tránh hoàn toàn tình huống đó:
 

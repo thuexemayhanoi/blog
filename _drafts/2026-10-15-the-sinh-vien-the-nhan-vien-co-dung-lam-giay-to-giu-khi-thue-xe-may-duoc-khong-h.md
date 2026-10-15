@@ -34,7 +34,7 @@ Chưa kể độ đa dạng của các loại thẻ: mỗi trường một mẫu
 
 Tin nhắn có đủ thông tin giúp tiệm trả lời một lần là xong, và trả lời bằng văn bản giúp bạn có căn cứ khi đến nhận xe. Đặc biệt mùa cao điểm, tin nhắn rõ ràng còn giúp bạn không phải xếp hàng hỏi đi hỏi lại.
 
-## Ba phương án dự phòng nếu tiệm không nhận thẻ
+## Thẻ sinh viên thay cọc thuê xe bị từ chối: ba phương án dự phòng
 
 - **Cọc bằng tiền.** Với sinh viên thuê vài ngày, đây thường là phương án gọn nhất. Mức cọc và điều kiện hoàn cần được xác nhận trực tiếp với cửa hàng trước khi bạn đến.
 - **Kết hợp thẻ và tiền.** Một số tiệm linh hoạt: nhận thẻ sinh viên kèm một khoản cọc nhỏ, vừa đủ tạo động lực trả xe đúng hạn, vừa không khiến khách tốn quá nhiều.
