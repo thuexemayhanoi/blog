@@ -54,7 +54,7 @@ Chuyến đi xa có quá nhiều biến số ngoài giấy tờ: thời tiết, 
 
 ## Ví dụ một chuyến Mộc Châu bốn ngày
 
-Một cặp bạn thuê xe đi Mộc Châu bốn ngày. Trước khi nhận xe, họ nhắn tiệm đề nghị cọc tiền thay vì để lại căn crosse, vì cần căn cước nhận phòng ở hai homestay trên đường. Tiệm đồng ý, ghi biên nhận đủ mục, hai người mang bằng lái và căn cước theo người. Trên đường về gặp trạm kiểm tra ở đoạn quốc lộ, người lái trình bằng trong một phút. Chuyến đi không có khúc giấy tờ nào đáng kể, vì mọi phân bổ đã được sắp từ Hà Nội.
+Một cặp bạn thuê xe đi Mộc Châu bốn ngày. Trước khi nhận xe, họ nhắn tiệm đề nghị cọc tiền thay vì để lại căn cước, vì cần căn cước nhận phòng ở hai homestay trên đường. Tiệm đồng ý, ghi biên nhận đủ mục, hai người mang bằng lái và căn cước theo người. Trên đường về gặp trạm kiểm tra ở đoạn quốc lộ, người lái trình bằng trong một phút. Chuyến đi không có khúc giấy tờ nào đáng kể, vì mọi phân bổ đã được sắp từ Hà Nội.
 
 Chuyến xa là bài kiểm tra tổ chức, không phải bài kiểm tra may rủi. Chuẩn bị phân bổ giấy tờ đúng, xác nhận điều kiện cọc với cửa hàng trước, và bạn đã xử lý xong phần việc dễ quản lý nhất của cả hành trình.
 ## Khi cần hỏi lại về cọc và giấy tờ
