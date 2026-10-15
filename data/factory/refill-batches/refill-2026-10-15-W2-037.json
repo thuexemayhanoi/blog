@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-037: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-001",
+   "child_id": "C-THUE-NGAY",
+   "title": "Đi phát thiệp cưới khắp Hà Nội trong một ngày bằng xe máy thuê: xếp tuyến theo quận và giữ thiệp phẳng",
+   "intent": "Lên kế hoạch một ngày tự tay đi phát thiệp cưới ở nhiều quận Hà Nội bằng xe máy thuê: chia tuyến theo khu vực, hẹn giờ gặp và giữ thiệp không nhàu, không ướt.",
+   "kw": "đi phát thiệp cưới",
+   "kw2": [
+    "phát thiệp cưới bằng xe máy",
+    "lịch đi phát thiệp cưới"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "cô dâu, chú rể và người nhà đang chuẩn bị đám cưới ở Hà Nội",
+   "location_scope": "các quận nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-002",
+   "child_id": "C-THUE-NGAY",
+   "title": "Về Hà Nội dự họp lớp cũ: thuê xe máy một ngày đi gặp bạn bè và tính cách về khi buổi tiệc có rượu bia",
+   "intent": "Biết cách sắp một ngày dự họp lớp ở Hà Nội bằng xe máy thuê: ghé bạn cũ ở nhiều nơi, gửi xe ở nhà hàng và tính sẵn cách về không cầm lái khi đã uống rượu bia.",
+   "kw": "thuê xe máy đi họp lớp",
+   "kw2": [
+    "họp lớp ở hà nội đi xe máy",
+    "đi họp lớp uống rượu về bằng gì"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người đang làm việc ở tỉnh khác về Hà Nội dự họp lớp, họp khóa",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-003",
+   "child_id": "C-THUE-NGAY",
+   "title": "Trao quà từ thiện ở mái ấm, trung tâm bảo trợ ven Hà Nội: thuê xe máy một ngày chở quà và hẹn giờ với cơ sở",
+   "intent": "Biết cách tổ chức một ngày đi trao quà ở mái ấm, trung tâm bảo trợ ven Hà Nội bằng xe máy thuê: liên hệ cơ sở trước, chia quà lên từng xe và chạy đường ngoại thành an toàn.",
+   "kw": "thuê xe máy đi làm từ thiện",
+   "kw2": [
+    "chở quà từ thiện bằng xe máy",
+    "đi trao quà ở mái ấm"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "nhóm bạn, câu lạc bộ thiện nguyện tự tổ chức đi trao quà",
+   "location_scope": "ngoại thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-004",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi đền Phù Ủng thờ Phạm Ngũ Lão: rẽ từ quốc lộ 5, đường làng và mùa hội tháng Giêng",
+   "intent": "Lên kế hoạch một ngày đi đền Phù Ủng ở Ân Thi bằng xe máy thuê: theo quốc lộ 5 rồi rẽ về vùng đồng bằng, chạy đường làng hẹp, gửi xe ngày hội và về trước tối.",
+   "kw": "đi đền phù ủng",
+   "kw2": [
+    "đền phù ủng cách hà nội",
+    "lễ hội đền phù ủng"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người yêu lịch sử nhà Trần và người đi lễ đầu năm từ Hà Nội",
+   "location_scope": "Phạm Ngũ Lão, Ân Thi (Hưng Yên), cách Hà Nội khoảng 45 km",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-005",
+   "child_id": "C-THUE-NGAY",
+   "title": "Đi tiền trạm trước chuyến đi nhóm: thuê xe máy một ngày chạy thử cung đường, điểm nghỉ và chỗ gửi xe",
+   "intent": "Biết cách dùng một ngày thuê xe máy để khảo sát trước cung đường sẽ dẫn cả nhóm đi: đo thời gian chạy thực, ghi điểm đổ xăng, chỗ nghỉ, chỗ gửi xe và đoạn đường xấu.",
+   "kw": "đi tiền trạm bằng xe máy",
+   "kw2": [
+    "khảo sát cung đường trước chuyến đi",
+    "trưởng nhóm đi tiền trạm"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "trưởng nhóm, người tổ chức chuyến đi xe máy cho bạn bè hoặc đồng nghiệp",
+   "location_scope": "cung đường ngoại thành Hà Nội và các tỉnh lân cận",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-006",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thanh lý đồ đạc trước khi rời Hà Nội: thuê xe máy một ngày giao đồ cho người mua và mang phần còn lại đi gửi",
+   "intent": "Lên kế hoạch một ngày thuê xe máy để giao đồ đã bán cho người mua ở nhiều nơi, hẹn giờ giao nhận rõ ràng và gom đồ còn lại gửi về quê trước khi rời Hà Nội.",
+   "kw": "thanh lý đồ trước khi chuyển đi",
+   "kw2": [
+    "giao đồ thanh lý bằng xe máy",
+    "bán đồ cũ trước khi rời hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "sinh viên mới ra trường, người đi làm sắp rời Hà Nội",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-007",
+   "child_id": "C-THUE-NGAY",
+   "title": "Dự tiệc tân gia ở khu đô thị mới xa trung tâm: thuê xe máy một ngày, tìm đúng tòa nhà và chỗ gửi xe khách",
+   "intent": "Biết cách đến dự tiệc tân gia ở khu đô thị mới rìa Hà Nội bằng xe máy thuê: tìm đúng tòa và cổng vào, gửi xe khách vãng lai, mang quà gọn và về an toàn buổi tối.",
+   "kw": "đi mừng tân gia chung cư",
+   "kw2": [
+    "gửi xe khách ở chung cư",
+    "tân gia ở khu đô thị mới"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người được mời mừng nhà mới của bạn bè, đồng nghiệp ở chung cư",
+   "location_scope": "khu đô thị mới ven Hà Nội như Tây Mỗ, Gia Lâm, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-008",
+   "child_id": "C-THUE-NGAY",
+   "title": "Đưa con nhỏ đi khám ở Bệnh viện Nhi Trung ương bằng xe máy thuê: đi sớm lấy số, gửi xe và chở bé về",
+   "intent": "Lên kế hoạch buổi đưa con nhỏ đi khám ở Bệnh viện Nhi Trung ương bằng xe máy thuê: giờ xuất phát, chỗ gửi xe quanh đường La Thành, giữ ấm cho bé và chở trẻ đang mệt về.",
+   "kw": "đưa con đi khám nhi trung ương",
+   "kw2": [
+    "gửi xe bệnh viện nhi trung ương",
+    "chở trẻ ốm bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "bố mẹ ở ngoại thành hoặc tỉnh lân cận đưa con nhỏ đi khám",
+   "location_scope": "Bệnh viện Nhi Trung ương, đường La Thành, Đống Đa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-009",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thăm con đang đi nghĩa vụ quân sự ở đơn vị ngoại thành: thuê xe máy một ngày, hỏi lịch thăm và đồ mang theo",
+   "intent": "Lên kế hoạch một ngày đi thăm con em đang làm nghĩa vụ quân sự ở đơn vị quanh Hà Nội bằng xe máy thuê: hỏi trước lịch thăm, giấy tờ, đồ được mang vào và giờ về.",
+   "kw": "thăm con đi nghĩa vụ quân sự",
+   "kw2": [
+    "thăm chiến sĩ mới ngày chủ nhật",
+    "đi thăm đơn vị bộ đội bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "bố mẹ, người thân có con em đang tại ngũ ở các đơn vị quanh Hà Nội",
+   "location_scope": "đơn vị đóng quân ở ngoại thành Hà Nội như Sơn Tây, Ba Vì, Sóc Sơn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-010",
+   "child_id": "C-THUE-NGAY",
+   "title": "Lần đầu về ra mắt nhà người yêu ở ngoại thành Hà Nội: thuê xe máy một ngày, chọn quà và đến đúng giờ",
+   "intent": "Biết cách chuẩn bị chuyến về ra mắt gia đình người yêu ở ngoại thành bằng xe máy thuê: ăn mặc hợp khi lái, chở quà an toàn, hỏi đường vào làng và tính giờ về.",
+   "kw": "về ra mắt nhà người yêu",
+   "kw2": [
+    "ra mắt nhà người yêu mang gì",
+    "đi xe máy về nhà người yêu"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người trẻ đi làm ở Hà Nội sắp ra mắt gia đình người yêu",
+   "location_scope": "làng, xã ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-011",
+   "child_id": "C-THUE-NGAY",
+   "title": "Công ty tổ chức team building ở khu sinh thái ngoại thành: tự đi bằng xe máy thuê một ngày cần lưu ý gì",
+   "intent": "Nắm những việc cần chuẩn bị khi tự chạy xe máy thuê đi team building cả ngày ở ngoại thành: đến điểm tập trung đúng giờ, mang đồ thay, giữ sức sau trò chơi vận động và về an toàn.",
+   "kw": "đi team building bằng xe máy",
+   "kw2": [
+    "team building ngoại thành hà nội",
+    "tự đi xe máy đến điểm team building"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "nhân viên văn phòng ở Hà Nội chưa có xe riêng",
+   "location_scope": "khu sinh thái, khu nghỉ ngoại thành Hà Nội như Ba Vì, Sóc Sơn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-012",
+   "child_id": "C-THUE-NGAY",
+   "title": "Chỉ rảnh một ngày cuối tuần: thuê xe máy đi ngoại thành vào thứ Bảy hay Chủ nhật thì đỡ kẹt xe hơn",
+   "intent": "Hiểu khác biệt khi đi chơi ngoại thành bằng xe máy thuê vào thứ Bảy so với Chủ nhật: lượng xe ở cửa ngõ Hà Nội, độ đông ở điểm đến và giờ quay về.",
+   "kw": "đi chơi thứ bảy hay chủ nhật",
+   "kw2": [
+    "thuê xe máy cuối tuần ngày nào",
+    "giờ về hà nội chiều chủ nhật"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người đi làm chỉ có một ngày nghỉ cuối tuần",
+   "location_scope": "cửa ngõ Hà Nội và các điểm đi chơi ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-013",
+   "child_id": "C-THUE-NGAY",
+   "title": "Ngày vía Thần Tài mùng 10 tháng Giêng đi mua vàng bằng xe máy thuê: phố đông, gửi xe và giữ an toàn",
+   "intent": "Lên kế hoạch đi mua vàng ngày vía Thần Tài ở Hà Nội bằng xe máy thuê: chọn khung giờ bớt đông, gửi xe gần cửa hàng, cất giữ vàng và hóa đơn an toàn trên đường về.",
+   "kw": "ngày vía thần tài mua vàng",
+   "kw2": [
+    "đi mua vàng vía thần tài hà nội",
+    "gửi xe phố trần nhân tông"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người dân Hà Nội mua vàng lấy may đầu năm",
+   "location_scope": "phố Trần Nhân Tông (Hai Bà Trưng) và các phố nhiều tiệm vàng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-014",
+   "child_id": "C-THUE-NGAY",
+   "title": "Mua đồ cũ qua mạng từ nhiều người bán ở Hà Nội: thuê xe máy một ngày xem hàng, hẹn chỗ đông người và chở về",
+   "intent": "Biết cách gom các lịch hẹn mua đồ cũ rao trên mạng vào một ngày thuê xe máy: xếp tuyến hợp lý, hẹn gặp ở nơi đông người, kiểm hàng tại chỗ và chở đồ về an toàn.",
+   "kw": "đi mua đồ cũ trên mạng",
+   "kw2": [
+    "hẹn xem đồ cũ rao bán online",
+    "chở đồ cũ mua về bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "sinh viên, người mới chuyển đến Hà Nội sắm đồ cũ giá rẻ",
+   "location_scope": "nhiều quận nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-015",
+   "child_id": "C-THUE-NGAY",
+   "title": "Cùng con lớp 12 đi xem tận nơi các trường đại học ở Hà Nội: thuê xe máy một ngày, đi theo cụm trường",
+   "intent": "Lên kế hoạch một ngày cùng con đi xem trực tiếp các trường đại học định xét tuyển ở Hà Nội bằng xe máy thuê: chia theo cụm trường, ước thời gian từ khu trọ và gửi xe.",
+   "kw": "đi xem trường đại học hà nội",
+   "kw2": [
+    "tham quan trường đại học trước khi xét tuyển",
+    "các cụm trường đại học hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "phụ huynh và học sinh lớp 12 ở tỉnh muốn chọn trường",
+   "location_scope": "cụm trường đại học ở Cầu Giấy, Đống Đa, Hai Bà Trưng, Thanh Xuân",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-016",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi chùa Bà Đanh bên sông Đáy: theo quốc lộ 1 qua Phủ Lý và giờ quay về Hà Nội",
+   "intent": "Lên kế hoạch đi chùa Bà Đanh ở Kim Bảng trong ngày bằng xe máy thuê: đi quốc lộ 1 không vào cao tốc, rẽ quốc lộ 21, nghỉ chân ở Phủ Lý và canh giờ về trước tối.",
+   "kw": "đi chùa bà đanh bằng xe máy",
+   "kw2": [
+    "chùa bà đanh cách hà nội bao xa",
+    "đường đi chùa bà đanh"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người Hà Nội thích đi chùa cổ yên tĩnh vào cuối tuần",
+   "location_scope": "Kim Bảng (Hà Nam cũ, nay thuộc tỉnh Ninh Bình), cách Hà Nội hơn 60 km",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-017",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày về Lý Nhân: viếng đền Trần Thương và thăm làng Đại Hoàng quê nhà văn Nam Cao",
+   "intent": "Lên kế hoạch một ngày đi xe máy thuê từ Hà Nội về vùng Lý Nhân để viếng đền Trần Thương, thăm làng Đại Hoàng quê Nam Cao, chọn đường đi, chỗ gửi xe và giờ quay về.",
+   "kw": "đi đền trần thương bằng xe máy",
+   "kw2": [
+    "làng đại hoàng quê nam cao",
+    "lý nhân một ngày bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người yêu văn học và di tích muốn đi một ngày gần Hà Nội",
+   "location_scope": "Lý Nhân (Hà Nam cũ, nay thuộc tỉnh Ninh Bình), cách Hà Nội hơn 60 km",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-018",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi đền Lảnh Giang bên bờ sông Hồng: rẽ từ Đồng Văn, chạy đường đê và gửi xe ngày lễ",
+   "intent": "Biết cách đi đền Lảnh Giang ở Duy Tiên trong ngày bằng xe máy thuê: theo quốc lộ 1 đến Đồng Văn rồi rẽ quốc lộ 38, chạy đường đê an toàn và gửi xe ngày đông.",
+   "kw": "đi đền lảnh giang",
+   "kw2": [
+    "đền lảnh giang cách hà nội bao xa",
+    "đường đi đền lảnh giang"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người đi lễ đền, phủ cuối tuần từ Hà Nội",
+   "location_scope": "Mộc Nam, Duy Tiên (Hà Nam cũ, nay thuộc tỉnh Ninh Bình)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-019",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi Vĩnh Yên: dạo quanh đầm Vạc và ghé làng gốm Hương Canh trên đường về",
+   "intent": "Lên kế hoạch một ngày đi xe máy thuê lên Vĩnh Yên theo quốc lộ 2 không vào cao tốc, dạo quanh đầm Vạc, ghé làng gốm Hương Canh xem lò và về trước giờ tan tầm.",
+   "kw": "đi vĩnh yên bằng xe máy",
+   "kw2": [
+    "đầm vạc vĩnh yên",
+    "làng gốm hương canh"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người Hà Nội muốn đi chơi gần, ít đông trong ngày",
+   "location_scope": "Vĩnh Yên và Bình Xuyên (Vĩnh Phúc cũ, nay thuộc tỉnh Phú Thọ), cách Hà Nội khoảng 40–60 km",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-020",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi Văn Miếu Mao Điền theo quốc lộ 5: xem nhà bia tiến sĩ và tránh xe tải đường dài",
+   "intent": "Lên kế hoạch đi Văn Miếu Mao Điền ở Cẩm Giàng trong ngày bằng xe máy thuê: chạy quốc lộ 5 giữ làn phải giữa nhiều xe tải, gửi xe ở di tích và ghép điểm dừng khi về.",
+   "kw": "đi văn miếu mao điền",
+   "kw2": [
+    "văn miếu mao điền bằng xe máy",
+    "văn miếu mao điền cách hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "học sinh, sinh viên và phụ huynh muốn đi lễ cầu học ngoài Hà Nội",
+   "location_scope": "Cẩm Giàng (Hải Dương cũ, nay thuộc TP Hải Phòng), cách Hà Nội khoảng 40 km theo quốc lộ 5",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-021",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi hồ Ghềnh Chè ở Sông Công: đường lên Thái Nguyên, dã ngoại ven hồ và giờ về",
+   "intent": "Lên kế hoạch một ngày đi hồ Ghềnh Chè bằng xe máy thuê từ Hà Nội: chọn quốc lộ 3 thay vì cao tốc, đường vào hồ, chỗ dừng dã ngoại và giờ quay về trước tối.",
+   "kw": "đi hồ ghềnh chè bằng xe máy",
+   "kw2": [
+    "hồ ghềnh chè thái nguyên",
+    "hồ ghềnh chè cách hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "nhóm bạn trẻ muốn đi dã ngoại hồ nước gần Hà Nội",
+   "location_scope": "Bình Sơn, Sông Công (Thái Nguyên), cách Hà Nội khoảng 70 km",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-022",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi chùa Tiên và Đầm Đa ở Lạc Thủy: chọn đường từ Hà Nội, gửi xe và giờ quay về",
+   "intent": "Lên kế hoạch một ngày đi khu chùa Tiên – Đầm Đa ở Lạc Thủy bằng xe máy thuê: so hai hướng đi từ Hà Nội, chỗ gửi xe, đoạn leo bậc lên chùa và canh giờ về trước tối.",
+   "kw": "đi chùa tiên lạc thủy",
+   "kw2": [
+    "chùa tiên đầm đa bằng xe máy",
+    "chùa tiên hòa bình cách hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người Hà Nội đi lễ chùa kết hợp ngắm cảnh núi đá",
+   "location_scope": "Lạc Thủy (Hòa Bình cũ, nay thuộc tỉnh Phú Thọ), gần khu chùa Hương",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-023",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi chùa Cổ Lễ ở Trực Ninh: chặng đường xa, nghỉ giữa đường và giờ quay về Hà Nội",
+   "intent": "Lên kế hoạch chuyến đi chùa Cổ Lễ trong ngày bằng xe máy thuê: ước quãng đường khứ hồi, chọn quốc lộ không vào cao tốc, chia chặng nghỉ và xuất phát sớm để kịp về trước tối.",
+   "kw": "đi chùa cổ lễ bằng xe máy",
+   "kw2": [
+    "chùa cổ lễ nam định",
+    "chùa cổ lễ cách hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người thích kiến trúc chùa độc đáo, đã quen chạy xe đường dài",
+   "location_scope": "Cổ Lễ, Trực Ninh (Nam Định cũ, nay thuộc tỉnh Ninh Bình)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-024",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi động Kính Chủ ở Kinh Môn: theo quốc lộ 5, leo bậc vào động và giờ quay về",
+   "intent": "Lên kế hoạch một ngày đi động Kính Chủ bằng xe máy thuê: theo quốc lộ 5 rồi rẽ về Kinh Môn, gửi xe dưới chân núi, leo bậc vào động và về trước khi trời tối.",
+   "kw": "đi động kính chủ",
+   "kw2": [
+    "động kính chủ bằng xe máy",
+    "động kính chủ cách hà nội"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "người thích di tích hang động và bia đá cổ",
+   "location_scope": "Kinh Môn (Hải Dương cũ, nay thuộc TP Hải Phòng), cách Hà Nội khoảng 90–100 km",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-037-025",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày đi tắm khoáng nóng Thanh Thủy: theo Đại lộ Thăng Long, qua cầu Đồng Quang và giờ về",
+   "intent": "Lên kế hoạch một ngày đi tắm khoáng nóng Thanh Thủy bằng xe máy thuê: chạy đường song hành Đại lộ Thăng Long, qua sông Đà ở Ba Vì, nghỉ đủ sau khi ngâm rồi mới lái về.",
+   "kw": "đi khoáng nóng thanh thủy",
+   "kw2": [
+    "tắm khoáng thanh thủy bằng xe máy",
+    "thanh thủy cách hà nội bao xa"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-037",
+   "audience": "cặp đôi, gia đình nhỏ muốn đi thư giãn mùa lạnh",
+   "location_scope": "Thanh Thủy (Phú Thọ), cách Hà Nội khoảng 65 km",
+   "word_target": 1200
+  }
+ ]
+}
