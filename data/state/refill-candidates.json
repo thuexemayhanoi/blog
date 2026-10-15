@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T04:50:23+00:00",
-    "staged_at": "2026-10-15T17:32:59+00:00"
+    "staged_at": "2026-10-15T17:55:31+00:00"
   },
   "candidates": [
     {
@@ -13537,6 +13537,956 @@
       "audience": "nhóm thiện nguyện, sinh viên, người đi làm tham gia chuyến trao quà",
       "location_scope": "từ Hà Nội lên vùng núi phía Bắc như Hà Giang, Cao Bằng, Sơn La",
       "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-001",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đã uống rượu bia, dắt bộ xe máy hay chỉ chạy vài trăm mét về nhà: khi nào vẫn bị coi là điều khiển xe",
+      "intent": "Hiểu ranh giới giữa dắt bộ và điều khiển xe máy khi trong người có cồn, vì sao quãng đường ngắn không phải ngoại lệ và nên làm gì khi quán nhậu ở ngay gần nhà.",
+      "kw": "dắt bộ xe máy khi uống rượu",
+      "kw2": [
+        "uống rượu dắt xe qua chốt",
+        "đi gần nhà có bị phạt nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người hay ăn nhậu ở quán gần nhà, khách thuê xe ở trọ trong ngõ",
+      "location_scope": "ngõ phố và quán ăn khu dân cư nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-002",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Thổi hời hợt, nín thở hay từ chối thổi máy đo: vì sao bị coi là không chấp hành kiểm tra nồng độ cồn",
+      "intent": "Nắm việc cố tình thổi sai cách, câu giờ hoặc từ chối đo có thể bị xử lý như hành vi không chấp hành yêu cầu kiểm tra nồng độ cồn và cách hợp tác đúng quy trình tại chốt.",
+      "kw": "từ chối thổi nồng độ cồn",
+      "kw2": [
+        "thổi không đủ hơi máy đo cồn",
+        "không chấp hành kiểm tra nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người lái xe máy lo lắng khi gặp chốt kiểm tra",
+      "location_scope": "các điểm kiểm tra giao thông trên địa bàn Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-003",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bị xử phạt nồng độ cồn lần thứ hai khi đi xe máy: tái phạm được tính thế nào và ảnh hưởng mức phạt ra sao",
+      "intent": "Hiểu khái niệm tái phạm trong xử phạt vi phạm hành chính, khi nào lần vi phạm nồng độ cồn thứ hai bị coi là tình tiết tăng nặng và hệ quả đối với mức tiền phạt được áp dụng.",
+      "kw": "tái phạm nồng độ cồn",
+      "kw2": [
+        "vi phạm nồng độ cồn lần 2",
+        "tình tiết tăng nặng nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người từng bị xử phạt nồng độ cồn và vẫn đi xe máy hằng ngày",
+      "location_scope": "toàn Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-004",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Lỗi nồng độ cồn có bị phạt nguội qua camera không: vì sao phải đo tại chỗ và khi nào hình ảnh vẫn là chứng cứ",
+      "intent": "Hiểu vì sao vi phạm nồng độ cồn cần kết quả đo trực tiếp thay vì phạt nguội, và vai trò của camera, clip ghi hình trong việc xác định ai đang điều khiển xe trước khi đến chốt.",
+      "kw": "nồng độ cồn có bị phạt nguội",
+      "kw2": [
+        "camera phát hiện nồng độ cồn",
+        "phạt nguội lỗi uống rượu bia"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người lái xe máy nghe tin đồn về phạt nguội nồng độ cồn",
+      "location_scope": "các tuyến phố có camera giám sát giao thông ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-005",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Nhậu trưa giữa giờ làm rồi chạy xe máy về cơ quan: vướng cả luật rượu bia lẫn luật giao thông",
+      "intent": "Nắm quy định cấm uống rượu bia ngay trước, trong giờ làm việc và nghỉ giữa giờ cùng lệnh cấm lái xe có nồng độ cồn, để sắp xếp bữa trưa với đồng nghiệp cho đúng luật.",
+      "kw": "nhậu trưa chạy xe máy",
+      "kw2": [
+        "uống bia giờ nghỉ trưa",
+        "uống rượu bia trong giờ làm việc"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "nhân viên văn phòng, công chức đi làm bằng xe máy",
+      "location_scope": "khu văn phòng Cầu Giấy, Đống Đa, Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-006",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Một lon bia, một ly vang hay một chén rượu trắng chứa bao nhiêu cồn: hiểu đơn vị cồn chuẩn để không chủ quan",
+      "intent": "Hiểu khái niệm đơn vị cồn chuẩn, cách quy đổi các loại đồ uống phổ biến ở Hà Nội và vì sao đồ uống nhẹ hay chén nhỏ vẫn đưa cồn vào máu của người sắp cầm lái xe máy.",
+      "kw": "đơn vị cồn chuẩn",
+      "kw2": [
+        "một lon bia bao nhiêu cồn",
+        "quy đổi rượu bia ra đơn vị cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người lái xe máy hay uống xã giao một hai ly",
+      "location_scope": "quán bia hơi, nhà hàng và tiệc gia đình ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-007",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Vì sao cùng uống như nhau mà người nhỏ con, phụ nữ hay người uống lúc bụng đói lại bị đo ra cồn cao hơn",
+      "intent": "Hiểu các yếu tố cơ thể như cân nặng, giới tính, bụng đói và mệt mỏi làm nồng độ cồn khác nhau giữa những người cùng bàn, để không nhìn người khác mà quyết định tự cầm lái.",
+      "kw": "yếu tố ảnh hưởng nồng độ cồn",
+      "kw2": [
+        "uống bia lúc đói nồng độ cồn",
+        "phụ nữ uống rượu nồng độ cồn cao hơn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "nhóm bạn, đồng nghiệp đi ăn uống cùng nhau bằng xe máy",
+      "location_scope": "quán ăn, quán nhậu nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-008",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đang uống thuốc cảm, thuốc chống dị ứng mà dùng thêm bia rượu: vì sao lái xe máy càng nguy hiểm",
+      "intent": "Hiểu tác dụng gây buồn ngủ của một số thuốc thông dụng khi kết hợp với rượu bia, cách đọc cảnh báo trên tờ hướng dẫn sử dụng và lý do không nên cầm lái trong tình huống này.",
+      "kw": "uống thuốc cảm với bia lái xe",
+      "kw2": [
+        "thuốc dị ứng và rượu bia",
+        "thuốc gây buồn ngủ khi lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người đang dùng thuốc cảm cúm, thuốc dị ứng theo mùa",
+      "location_scope": "toàn Hà Nội, nhất là lúc giao mùa và mùa nồm ẩm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-009",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Thấy người say rượu chạy xe máy lạng lách trên đường: báo cho ai và giữ khoảng cách an toàn thế nào",
+      "intent": "Biết cách nhận diện người điều khiển xe máy có dấu hiệu say, giữ khoảng cách để tự bảo vệ, ghi nhận thông tin cần thiết và báo cho lực lượng chức năng qua kênh phù hợp.",
+      "kw": "báo công an người say lái xe",
+      "kw2": [
+        "gặp người say lái xe máy",
+        "phản ánh người lái xe say rượu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người đi xe máy về khuya trong nội thành",
+      "location_scope": "đường vành đai, đại lộ và phố đêm ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-010",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Lên xe ôm công nghệ mới thấy tài xế có mùi rượu bia: dừng chuyến, đổi xe và phản ánh thế nào cho an toàn",
+      "intent": "Biết cách xử lý khi phát hiện tài xế xe ôm công nghệ có dấu hiệu đã uống rượu bia, từ việc đề nghị dừng ở chỗ an toàn đến đổi phương tiện và gửi phản ánh trên ứng dụng.",
+      "kw": "tài xế xe ôm có mùi rượu",
+      "kw2": [
+        "xe ôm công nghệ say rượu",
+        "phản ánh tài xế uống rượu bia"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "khách du lịch và người không tự lái dùng xe ôm công nghệ",
+      "location_scope": "nội thành Hà Nội, đặc biệt các chuyến buổi tối",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-011",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Trưởng đoàn phượt xe máy từ Hà Nội: đặt luật không rượu bia khi còn chạy xe và xử lý thành viên vi phạm",
+      "intent": "Lên kế hoạch chuyến đi nhóm bằng xe máy với nguyên tắc rượu bia rõ ràng: thống nhất trước khi khởi hành, sắp lịch chạy và nghỉ, xử lý khi thành viên đã uống mà vẫn muốn lái.",
+      "kw": "đi phượt xe máy uống rượu",
+      "kw2": [
+        "luật đoàn phượt không rượu bia",
+        "trưởng đoàn phượt an toàn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "trưởng nhóm, người tổ chức chuyến đi xe máy nhiều người",
+      "location_scope": "cung đường từ Hà Nội đi Ba Vì, Mộc Châu, Hà Giang",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-012",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Con chưa đủ 18 tuổi uống bia rồi đi xe máy: luật rượu bia, xử phạt người chưa thành niên và vai trò cha mẹ",
+      "intent": "Nắm quy định cấm người chưa đủ 18 tuổi uống rượu bia, cách xử phạt người chưa thành niên vi phạm nồng độ cồn khi điều khiển xe và những việc cha mẹ nên làm để phòng ngừa.",
+      "kw": "vị thành niên uống bia lái xe",
+      "kw2": [
+        "học sinh uống bia đi xe máy",
+        "dưới 18 tuổi uống rượu bia"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "phụ huynh có con đang học cấp ba",
+      "location_scope": "toàn Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-013",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bị xe khác va nhẹ, mình không có lỗi nhưng đã uống một ly: vẫn bị đo và xử lý nồng độ cồn không",
+      "intent": "Hiểu vì sao khi xảy ra va chạm, lực lượng chức năng có thể kiểm tra nồng độ cồn của các bên liên quan và việc không có lỗi gây va chạm không loại trừ vi phạm nồng độ cồn.",
+      "kw": "va chạm nhẹ có nồng độ cồn",
+      "kw2": [
+        "không có lỗi nhưng có nồng độ cồn",
+        "va chạm giao thông đo nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người lái xe máy thuê vừa gặp va chạm nhỏ trên phố",
+      "location_scope": "các nút giao đông xe nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-014",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Tour ẩm thực đêm, quán bia thủ công hay làng nghề có mời nếm rượu: khách tự lái xe máy nên sắp xếp thế nào",
+      "intent": "Lên kế hoạch tham quan có phần nếm thử bia rượu mà không phải cầm lái sau đó: chọn tour có người chở, đi bộ, gọi xe hoặc từ chối nếm khi vẫn còn phải tự lái xe máy.",
+      "kw": "nếm rượu khi tự lái xe máy",
+      "kw2": [
+        "food tour hà nội có bia",
+        "quán bia thủ công đi xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "khách du lịch tự lái xe máy thuê khám phá ẩm thực",
+      "location_scope": "phố cổ, Tây Hồ và các làng nghề ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-015",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đưa tiền xin bỏ qua lỗi nồng độ cồn tại chốt kiểm tra: rủi ro pháp lý của hành vi đưa hối lộ",
+      "intent": "Hiểu vì sao đưa tiền, quà hoặc lợi ích khác để được bỏ qua vi phạm nồng độ cồn có thể bị xử lý về hành vi đưa hối lộ và cách làm việc đúng luật.",
+      "kw": "xin bỏ qua lỗi nồng độ cồn",
+      "kw2": [
+        "đưa tiền csgt có bị xử lý",
+        "tội đưa hối lộ vi phạm giao thông"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người lái xe máy, kể cả khách du lịch, khi bị dừng kiểm tra",
+      "location_scope": "các điểm kiểm tra giao thông ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-016",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Gặp người say rượu ngã xe máy bên đường lúc đêm khuya: sơ cứu ban đầu, gọi 115 và giữ an toàn hiện trường",
+      "intent": "Biết cách xử lý khi gặp người đi xe máy có men rượu bị ngã: bảo đảm an toàn cho bản thân, cảnh báo xe phía sau, sơ cứu cơ bản, gọi cấp cứu và báo cho công an.",
+      "kw": "người say ngã xe máy sơ cứu",
+      "kw2": [
+        "gặp tai nạn xe máy ban đêm",
+        "sơ cứu người ngã xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người đi đường, khách thuê xe máy đi về khuya",
+      "location_scope": "đường ven đô, đường đê và phố vắng ban đêm ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-017",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bố mẹ, ông bà quen uống vài chén rồi đi xe máy: con cháu thuyết phục và sắp xếp đi lại thế nào",
+      "intent": "Biết cách trò chuyện với người lớn tuổi có thói quen uống rượu trước khi đi xe máy, giải thích quy định hiện hành và sắp xếp phương án đưa đón thay thế trong gia đình.",
+      "kw": "bố mẹ uống rượu đi xe máy",
+      "kw2": [
+        "người già uống rượu lái xe",
+        "khuyên người thân không lái xe khi uống"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "con cháu sống cùng người lớn tuổi",
+      "location_scope": "nội thành và các khu ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-018",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Uống bia, rượu vang trên chuyến bay tới Hà Nội rồi đi nhận xe máy thuê: vì sao nên đợi trước khi tự lái",
+      "intent": "Lên kế hoạch nhận xe máy thuê sau chuyến bay mà không cầm lái khi còn cồn: đồ uống có cồn trên máy bay, mệt mỏi sau chặng bay và cách sắp xếp thời điểm bắt đầu tự lái.",
+      "kw": "uống rượu trên máy bay lái xe",
+      "kw2": [
+        "uống bia trên máy bay rồi chạy xe",
+        "vừa hạ cánh có nên lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "khách du lịch quốc tế và trong nước vừa hạ cánh muốn tự lái",
+      "location_scope": "từ sân bay Nội Bài về nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-019",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Người thân đột ngột cần đi viện khi mình đã uống rượu bia: gọi 115, taxi hay tự chở bằng xe máy",
+      "intent": "Biết cách xử lý tình huống khẩn cấp về sức khỏe khi bản thân đã uống rượu bia: ưu tiên gọi cấp cứu, xe dịch vụ hoặc người tỉnh táo, và hiểu rủi ro nếu tự cầm lái.",
+      "kw": "đã uống rượu chở người đi viện",
+      "kw2": [
+        "gọi 115 khi đã uống rượu",
+        "đưa người đi cấp cứu khi say"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người đang dự tiệc hoặc ăn uống cùng gia đình",
+      "location_scope": "nội thành và ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-020",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bartender, đầu bếp nếm đồ uống và món có rượu trong ca làm: về khuya bằng xe máy cần lưu ý gì",
+      "intent": "Hiểu việc nếm thử cocktail, rượu vang hay món nấu rượu trong ca làm vẫn có thể để lại cồn trong hơi thở, và cách sắp xếp ca, đi lại để không cầm lái khi còn cồn.",
+      "kw": "bartender đi xe máy về khuya",
+      "kw2": [
+        "nếm rượu trong ca làm",
+        "nhân viên quán bar nồng độ cồn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "nhân viên pha chế, đầu bếp, phục vụ nhà hàng và quán bar",
+      "location_scope": "quán bar, nhà hàng ở phố cổ và Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-021",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Bị người say rượu đi xe máy đâm phải: đề nghị kiểm tra nồng độ cồn bên kia và giữ quyền đòi bồi thường",
+      "intent": "Biết cách bảo vệ quyền lợi khi bị người có dấu hiệu say rượu gây va chạm: gọi lực lượng chức năng, đề nghị đo nồng độ cồn, lưu chứng cứ và các bước yêu cầu bồi thường.",
+      "kw": "bị người say rượu đâm xe",
+      "kw2": [
+        "bị người say gây tai nạn đòi bồi thường",
+        "đề nghị đo nồng độ cồn người gây tai nạn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người đi xe máy, khách thuê xe là bên bị va chạm",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-022",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Biết bạn đã uống mà vẫn ngồi sau xe máy: khi ngã bị thương, trách nhiệm bồi thường được chia thế nào",
+      "intent": "Hiểu nguyên tắc bồi thường thiệt hại khi người ngồi sau biết người lái đã uống rượu bia mà vẫn đi cùng, lỗi của người bị thiệt hại được xem xét ra sao và vì sao nên từ chối.",
+      "kw": "ngồi sau người say bị thương",
+      "kw2": [
+        "ngồi sau xe người uống rượu bồi thường",
+        "lỗi của người bị thiệt hại"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người được bạn bè chở về sau bữa nhậu",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-023",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Gọi dịch vụ lái xe hộ đưa người và xe máy về nhà sau khi uống: cách hoạt động và những điều cần kiểm tra",
+      "intent": "Hiểu mô hình dịch vụ lái hộ đưa cả người lẫn xe máy về sau bữa nhậu, cách gọi, thông tin cần kiểm tra về người lái hộ và điều nên thỏa thuận trước khi giao xe.",
+      "kw": "dịch vụ lái xe máy hộ",
+      "kw2": [
+        "lái hộ xe máy khi say",
+        "gọi người chở về sau khi nhậu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người đi xe máy đến tiệc, quán nhậu",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-024",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Đi quán bar, quán bia cùng bạn mà vẫn phải lái xe máy về: gọi đồ uống không cồn nào cho hợp cuộc vui",
+      "intent": "Biết các lựa chọn đồ uống không cồn phổ biến ở quán bar, quán bia Hà Nội như mocktail, nước ép, trà, cách gọi món và giữ nhịp cuộc vui mà vẫn tỉnh táo để tự lái.",
+      "kw": "đồ uống không cồn khi lái xe",
+      "kw2": [
+        "mocktail cho người lái xe",
+        "gọi gì ở quán bia khi không uống"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người trẻ đi chơi tối cuối tuần bằng xe máy",
+      "location_scope": "Tạ Hiện, Tây Hồ, Trúc Bạch",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-041-025",
+      "child_id": "C-NOI-DO-CONG",
+      "title": "Say rượu rồi lời qua tiếng lại, xô đẩy CSGT tại chốt: từ lỗi giao thông thành vi phạm trật tự hoặc tội hình sự",
+      "intent": "Hiểu hậu quả pháp lý khi người đã uống rượu bia có lời lẽ xúc phạm, cản trở hay dùng vũ lực với người thi hành công vụ tại chốt kiểm tra và cách giữ bình tĩnh khi làm việc.",
+      "kw": "chống đối csgt khi say rượu",
+      "kw2": [
+        "chống người thi hành công vụ khi say",
+        "xúc phạm csgt bị xử lý"
+      ],
+      "links": [
+        "/an-toan-phap-ly/noi-do-cong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-041",
+      "audience": "người lái xe máy và người đi cùng khi bị dừng kiểm tra",
+      "location_scope": "các điểm kiểm tra nồng độ cồn ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-001",
+      "child_id": "C-XE-GA",
+      "title": "Đọc bảng thông số xe tay ga trước khi chọn thuê: chiều cao yên, trọng lượng, bình xăng và cốp nói gì",
+      "intent": "Biết cách đọc bảng thông số kỹ thuật của các dòng xe tay ga cho thuê để tự đánh giá xe có vừa người, đủ xăng cho lịch đi và đủ chỗ chứa đồ hay không.",
+      "kw": "thông số xe tay ga",
+      "kw2": [
+        "chiều cao yên xe ga",
+        "trọng lượng xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người đang phân vân chọn dòng xe tay ga để thuê",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-002",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga tự nhích lên khi nổ máy chờ đèn đỏ: ga cầm chừng cao hay bộ ly hợp dính và báo tiệm thế nào",
+      "intent": "Hiểu vì sao xe tay ga thuê tự nhích lên dù không vặn ga khi đang chờ đèn đỏ, biết giữ phanh cho an toàn và mô tả đúng hiện tượng để tiệm kiểm tra.",
+      "kw": "xe ga tự bò khi chờ đèn",
+      "kw2": [
+        "xe tay ga ga cầm chừng cao",
+        "xe ga tự chạy khi nổ máy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người đang thuê xe tay ga đi phố hằng ngày",
+      "location_scope": "các ngã tư đông ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-003",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga làm mát bằng gió hay bằng dung dịch: chọn thuê thế nào khi hay kẹt xe trưa hè và chạy xa",
+      "intent": "Hiểu khác biệt giữa xe tay ga làm mát bằng gió và làm mát bằng dung dịch để chọn dòng xe thuê hợp với lịch hay kẹt xe giữa trưa hè hoặc chặng dài ra ngoại thành.",
+      "kw": "kiểu làm mát xe tay ga",
+      "kw2": [
+        "xe tay ga làm mát bằng dung dịch",
+        "xe ga làm mát bằng gió"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người thuê xe đi làm và đi xa vào mùa nắng nóng",
+      "location_scope": "nội thành Hà Nội và các chặng ra ngoại thành",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-004",
+      "child_id": "C-XE-GA",
+      "title": "Hạ xe tay ga khỏi chân chống giữa: đẩy xe về trước đúng lực, giữ phanh và không để xe lao xuống bậc",
+      "intent": "Biết cách đưa xe tay ga từ chân chống giữa xuống mặt đường nhẹ nhàng, giữ phanh để xe không trôi, không va người phía trước và không làm đổ xe ở chỗ chật.",
+      "kw": "hạ chân chống giữa xe ga",
+      "kw2": [
+        "cách hạ chân chống giữa",
+        "đẩy xe ga khỏi chân chống"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người mới thuê xe tay ga và người nhỏ người",
+      "location_scope": "bãi gửi xe, vỉa hè và ngõ nhỏ ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-005",
+      "child_id": "C-XE-GA",
+      "title": "Người thuận tay trái lái xe tay ga: tập tay phải giữ ga đều, bóp đủ phanh trước và tránh chỉ dùng phanh trái",
+      "intent": "Biết cách luyện tay phải giữ ga ổn định và phối hợp đủ lực hai phanh khi là người thuận tay trái, tránh thói quen chỉ bóp phanh trái khiến quãng dừng xe dài hơn.",
+      "kw": "người thuận tay trái lái xe ga",
+      "kw2": [
+        "thuận tay trái đi xe máy",
+        "tay phải giữ ga xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người thuận tay trái mới lái xe tay ga",
+      "location_scope": "bãi vắng để tập và phố đông ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-006",
+      "child_id": "C-XE-GA",
+      "title": "Gập gương xe tay ga khi dắt qua khe hẹp và xếp xe ở bãi gửi: gập đúng chiều, chỉnh lại trước khi lăn bánh",
+      "intent": "Biết cách gập gương xe tay ga đúng chiều khi dắt qua chỗ hẹp hoặc xếp sát xe khác, rồi chỉnh lại góc nhìn trước khi chạy để không mất tầm quan sát phía sau.",
+      "kw": "gập gương xe tay ga",
+      "kw2": [
+        "gương xe ga bị lệch sau khi gửi",
+        "dắt xe ga qua khe hẹp"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người gửi xe ở bãi đông, nhà ống và ngõ hẹp",
+      "location_scope": "phố cổ, ngõ nhỏ và bãi gửi xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-007",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga chở được bao nặng: tra tải trọng tối đa của hãng, cộng người và đồ trước khi đi chuyến xa",
+      "intent": "Hiểu tải trọng tối đa mà nhà sản xuất ghi cho xe tay ga, biết cộng cân nặng người lái, người ngồi sau và hành lý để không bắt phanh, lốp và giảm xóc làm việc quá sức.",
+      "kw": "tải trọng xe tay ga",
+      "kw2": [
+        "xe ga chở hai người và đồ",
+        "xe tay ga chở quá tải"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "cặp đôi hoặc nhóm bạn đi chơi xa bằng một xe tay ga",
+      "location_scope": "Hà Nội và các chặng ra ngoại thành",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-008",
+      "child_id": "C-XE-GA",
+      "title": "Tay lái xe tay ga bỗng nặng khi đi chậm: lốp trước non, cổ lái khô hay vướng đồ treo và lúc nên báo tiệm",
+      "intent": "Biết cách tự kiểm tra nhanh vì sao tay lái xe tay ga thuê đột nhiên nặng khi đi chậm hoặc quay đầu, phân biệt lỗi đơn giản với lỗi cần dừng xe và báo tiệm.",
+      "kw": "tay lái xe ga bị nặng",
+      "kw2": [
+        "xe tay ga khó bẻ lái",
+        "lốp trước xe ga non"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người đang thuê xe tay ga nhiều ngày",
+      "location_scope": "phố và ngõ ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-009",
+      "child_id": "C-XE-GA",
+      "title": "Quen đi SH, PCX ở nhà, ra Hà Nội thuê Vision hay Click: xe nhẹ, bánh nhỏ và cảm giác phanh khác ra sao",
+      "intent": "Hiểu những khác biệt về trọng lượng, cỡ bánh, độ ăn ga và lực phanh khi chuyển từ xe tay ga cỡ lớn quen dùng sang xe tay ga cỡ nhỏ thuê ở Hà Nội để làm quen nhanh.",
+      "kw": "quen sh thuê xe ga nhỏ",
+      "kw2": [
+        "từ sh sang vision",
+        "xe ga bánh nhỏ khác bánh lớn"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người quen đi xe tay ga cỡ lớn ở quê nhà hoặc thành phố khác",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-010",
+      "child_id": "C-XE-GA",
+      "title": "Quen xe côn tay, lần đầu lái xe tay ga: tay trái giờ là phanh sau, bỏ thói quen bóp côn khi dừng và vào cua",
+      "intent": "Biết cách bỏ phản xạ bóp tay côn bên trái khi chuyển sang xe tay ga, vì trên xe ga tay trái là phanh sau, để tránh hãm xe bất ngờ khi vào cua hoặc giảm tốc.",
+      "kw": "từ xe côn tay sang xe ga",
+      "kw2": [
+        "quen côn tay đi xe ga",
+        "bóp nhầm phanh trái xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người quen đi xe côn tay hoặc mô tô",
+      "location_scope": "phố đông và đường vành đai ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-011",
+      "child_id": "C-XE-GA",
+      "title": "Lỡ vặn núm smartkey về OFF khi xe tay ga đang chạy: máy tắt ra sao, tay lái có bị khóa không và làm gì ngay",
+      "intent": "Hiểu điều gì xảy ra khi lỡ tay xoay núm khóa thông minh về OFF lúc xe tay ga đang chạy, biết giữ thăng bằng, tấp vào lề và nổ máy lại đúng thứ tự.",
+      "kw": "vặn núm smartkey khi đang chạy",
+      "kw2": [
+        "xe ga tắt máy do chạm núm smartkey",
+        "núm khóa thông minh xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người thuê xe tay ga bản khóa thông minh",
+      "location_scope": "đường phố Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-012",
+      "child_id": "C-XE-GA",
+      "title": "Bóp phanh trước khi đang bẻ lái chậm vào ngõ: vì sao xe tay ga dễ đổ sập và nên dùng phanh nào lúc rẽ",
+      "intent": "Hiểu vì sao bóp mạnh phanh trước lúc tay lái đang bẻ ở tốc độ thấp khiến xe tay ga đổ sập, biết giảm tốc trước khi rẽ và rà phanh sau nhẹ khi xe đã nghiêng.",
+      "kw": "bóp phanh trước khi bẻ lái",
+      "kw2": [
+        "xe ga đổ khi rẽ chậm",
+        "phanh khi rẽ vào ngõ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người mới lái xe tay ga trong phố",
+      "location_scope": "ngõ nhỏ, đầu ngõ và lối vào nhà ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-013",
+      "child_id": "C-XE-GA",
+      "title": "Tra sách hướng dẫn sử dụng chính hãng của xe tay ga đang thuê: tìm đúng đời xe và đọc những mục nào trước",
+      "intent": "Biết cách tìm sách hướng dẫn sử dụng chính hãng đúng đời xe tay ga đang thuê trên điện thoại và đọc trước các mục về khởi động, khóa thông minh, đèn báo và bảo dưỡng.",
+      "kw": "sách hướng dẫn xe tay ga",
+      "kw2": [
+        "hướng dẫn sử dụng honda vision",
+        "tài liệu chính hãng xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người thuê xe tay ga muốn tự tìm hiểu kỹ chiếc xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-014",
+      "child_id": "C-XE-GA",
+      "title": "Dắt bộ xe tay ga xuống dốc nhà, dốc hầm khi đã tắt máy: bóp phanh nào và đứng bên nào để không tuột tay",
+      "intent": "Biết cách dắt bộ xe tay ga đã tắt máy xuống dốc ngắn ở cửa nhà, ngõ hoặc dốc hầm, giữ phanh đều tay để xe không kéo tuột và không đè lên chân người dắt.",
+      "kw": "dắt xe ga xuống dốc",
+      "kw2": [
+        "dắt xe tay ga xuống dốc hầm",
+        "giữ phanh khi dắt xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người ở nhà ống, chung cư mini và homestay",
+      "location_scope": "nhà ống, ngõ dốc và hầm gửi xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-015",
+      "child_id": "C-XE-GA",
+      "title": "Đổ xăng tràn ra quanh nắp bình dưới yên xe tay ga: lau sạch, cho bay mùi và kiểm tra đồ trong cốp",
+      "intent": "Biết cách xử lý khi xăng tràn ra quanh nắp bình dưới yên xe tay ga, lau khô an toàn, tránh xa nguồn lửa và kiểm tra đồ trong cốp trước khi đóng yên đi tiếp.",
+      "kw": "đổ xăng tràn xe ga",
+      "kw2": [
+        "xăng tràn vào cốp xe ga",
+        "mùi xăng trong cốp xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người tự đổ xăng hoặc nhờ nhân viên đổ cho xe tay ga thuê",
+      "location_scope": "cây xăng trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-016",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga lội nước xong rú máy mà xe ì, có lúc trượt nồi: nước vào bộ truyền động và có nên chạy tiếp",
+      "intent": "Hiểu vì sao xe tay ga vừa đi qua đoạn ngập bị rú máy mà không lấy được đà, biết đi chậm để bộ truyền động khô dần và lúc nào phải dừng hẳn để báo tiệm.",
+      "kw": "xe ga lội nước bị trượt nồi",
+      "kw2": [
+        "nước vào dàn nồi xe ga",
+        "xe ga rú máy không đi sau mưa"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người thuê xe tay ga vào mùa mưa",
+      "location_scope": "các tuyến phố hay ngập ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-017",
+      "child_id": "C-XE-GA",
+      "title": "Vượt xe chậm trên đường hai làn ngoại thành bằng xe tay ga: hiểu nhịp lấy đà và canh quãng vượt an toàn",
+      "intent": "Hiểu cách xe tay ga tăng tốc theo bộ truyền động vô cấp khi vặn ga để vượt, biết ước quãng trống, vặn ga dứt khoát và bỏ ý định vượt khi không đủ khoảng an toàn.",
+      "kw": "vượt xe bằng xe tay ga",
+      "kw2": [
+        "xe ga tăng tốc khi vượt",
+        "vượt xe trên quốc lộ bằng xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người đi xe tay ga ra ngoại thành và tỉnh lân cận",
+      "location_scope": "quốc lộ, tỉnh lộ hai làn quanh Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-018",
+      "child_id": "C-XE-GA",
+      "title": "Trẻ nhỏ trèo lên xe tay ga đang đỗ, nghịch tay ga và nút đề: tắt khóa, cất remote và tránh bỏng ống xả",
+      "intent": "Biết cách đỗ và khóa xe tay ga khi có trẻ nhỏ xung quanh, tránh để trẻ trèo làm đổ xe, vô tình nổ máy với khóa thông minh hoặc chạm vào ống xả còn nóng.",
+      "kw": "trẻ nghịch xe tay ga đang đỗ",
+      "kw2": [
+        "trẻ em trèo lên xe máy đỗ",
+        "an toàn xe ga khi có trẻ nhỏ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "gia đình có con nhỏ thuê xe tay ga",
+      "location_scope": "sân nhà, homestay và quán cà phê ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-019",
+      "child_id": "C-XE-GA",
+      "title": "Đi xe tay ga trời mưa vẫn ướt giày và ống quần: nước bắn từ bánh trước, sàn để chân và cách giữ chân khô",
+      "intent": "Hiểu vì sao người lái xe tay ga vẫn bị ướt chân khi trời mưa dù phía trước có yếm che, biết đặt chân, chọn áo mưa, giày và tốc độ qua vũng để chân khô hơn.",
+      "kw": "đi xe ga trời mưa ướt chân",
+      "kw2": [
+        "giữ giày khô khi đi xe máy mưa",
+        "nước bắn lên chân xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người đi làm bằng xe tay ga mùa mưa",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-020",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga không có chỗ kẹp gối như mô tô: giữ thân người thế nào khi phanh gấp và khi qua đoạn xóc",
+      "intent": "Hiểu vì sao trên xe tay ga không thể kẹp gối vào bình xăng như mô tô, biết dùng bàn chân, hông và hai tay để giữ thân người ổn định khi phanh gấp hoặc qua đoạn xóc.",
+      "kw": "giữ người khi phanh gấp xe ga",
+      "kw2": [
+        "tư thế phanh gấp trên xe tay ga",
+        "tì chân lên sàn xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người quen mô tô hoặc mới lái xe tay ga",
+      "location_scope": "phố đông và đường xấu ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-021",
+      "child_id": "C-XE-GA",
+      "title": "Remote smartkey xe tay ga bị ướt mưa hoặc rơi vào vũng nước: lau khô, thử nút và cách nổ máy dự phòng",
+      "intent": "Biết cách xử lý ngay khi remote khóa thông minh của xe tay ga thuê bị ướt hoặc rơi xuống nước, làm khô đúng cách, kiểm tra xe còn nhận khóa và báo tiệm khi cần.",
+      "kw": "remote smartkey bị ướt",
+      "kw2": [
+        "chìa khóa thông minh xe ga dính nước",
+        "smartkey xe ga rơi xuống nước"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người thuê xe tay ga bản khóa thông minh vào mùa mưa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-022",
+      "child_id": "C-XE-GA",
+      "title": "Bọc cao su tay ga xe tay ga bị lỏng, xoay trượt khi vặn: vì sao nguy hiểm và cách báo tiệm cho thuê",
+      "intent": "Nắm dấu hiệu lớp bọc cao su tay ga trên xe tay ga thuê bị lỏng hoặc xoay trượt, hiểu rủi ro mất kiểm soát ga và biết dừng xe, mô tả đúng lỗi cho tiệm.",
+      "kw": "bọc tay ga bị lỏng",
+      "kw2": [
+        "tay ga xe ga bị xoay trượt",
+        "cao su tay ga lỏng"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người đang thuê xe tay ga dài ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-023",
+      "child_id": "C-XE-GA",
+      "title": "Nổ máy xe tay ga trong nhà ống, gian để xe kín cho máy ấm: khí thải nguy hiểm thế nào và nên làm ra sao",
+      "intent": "Hiểu rủi ro khi nổ máy và để xe tay ga chạy cầm chừng trong nhà ống, gian để xe hoặc hầm kín, biết dắt xe ra nơi thoáng rồi mới khởi động và cho xe chạy.",
+      "kw": "nổ máy xe ga trong nhà",
+      "kw2": [
+        "khí thải xe máy trong nhà kín",
+        "đề xe trong nhà ống"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người ở nhà ống, homestay và chung cư mini",
+      "location_scope": "nhà ống, ngõ phố cổ và khu tập thể ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-024",
+      "child_id": "C-XE-GA",
+      "title": "Ngồi lên xe tay ga đang dựng chân chống nghiêng để chờ người hay uống trà đá: vì sao dễ cong chân chống, đổ xe",
+      "intent": "Hiểu vì sao ngồi đè lên xe tay ga khi xe chỉ đứng trên chân chống nghiêng dễ làm cong chân chống hoặc đổ xe, biết cách dựng xe và ngồi chờ an toàn hơn.",
+      "kw": "ngồi trên xe ga dựng chân chống",
+      "kw2": [
+        "cong chân chống nghiêng xe ga",
+        "ngồi chờ trên xe máy đỗ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "người hay dừng chờ, ngồi quán vỉa hè",
+      "location_scope": "vỉa hè, quán trà đá và cổng trường ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-042-025",
+      "child_id": "C-XE-GA",
+      "title": "Đỗ xe tay ga sát bếp than, lò nướng trên vỉa hè phố cổ: nhựa thân xe, yên xe và vì sao nên lùi ra xa",
+      "intent": "Biết cách chọn chỗ đỗ xe tay ga khi ăn ở quán nướng, quán lẩu vỉa hè, tránh để thân nhựa, yên và lốp xe sát nguồn nhiệt hoặc than hồng rơi xuống.",
+      "kw": "đỗ xe ga gần bếp than",
+      "kw2": [
+        "xe máy đỗ cạnh hàng nướng",
+        "nhựa xe ga bị nóng chảy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-042",
+      "audience": "khách du lịch và nhóm bạn ăn tối ở phố cổ",
+      "location_scope": "các phố ăn uống quanh phố cổ Hoàn Kiếm",
+      "word_target": 1200
     }
   ],
   "rejected": [
