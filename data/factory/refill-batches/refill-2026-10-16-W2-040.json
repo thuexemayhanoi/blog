@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-040: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-16",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-001",
+   "child_id": "C-BAO-HIEM",
+   "title": "Mua bảo hiểm TNDS xe máy theo từng năm hay nhiều năm một lần: chọn thời hạn và theo dõi ngày hết hạn",
+   "intent": "Nắm quy định về thời hạn tối thiểu và tối đa của bảo hiểm TNDS xe máy theo Nghị định 67/2023/NĐ-CP, cân nhắc mua một hay nhiều năm và cách tự nhắc ngày tái tục để không lỡ hiệu lực.",
+   "kw": "bảo hiểm xe máy mua mấy năm",
+   "kw2": [
+    "thời hạn bảo hiểm tnds xe máy",
+    "tái tục bảo hiểm xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người có xe máy riêng ở Hà Nội lần đầu tự mua bảo hiểm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-002",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy bị thu hồi đăng ký, biển số hoặc hỏng hẳn không dùng nữa: hợp đồng bảo hiểm TNDS chấm dứt ra sao",
+   "intent": "Hiểu các trường hợp hợp đồng bảo hiểm TNDS xe máy được chấm dứt trước hạn theo Nghị định 67/2023/NĐ-CP, cách thông báo cho doanh nghiệp bảo hiểm và những giấy tờ nên giữ lại.",
+   "kw": "chấm dứt bảo hiểm xe máy",
+   "kw2": [
+    "thu hồi biển số xe máy bảo hiểm",
+    "chấm dứt hợp đồng bảo hiểm tnds trước hạn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "chủ xe máy cũ muốn thanh lý hoặc ngừng sử dụng xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-003",
+   "child_id": "C-BAO-HIEM",
+   "title": "Giám định thiệt hại xe máy sau va chạm: doanh nghiệp bảo hiểm làm những gì và không đồng ý kết quả thì sao",
+   "intent": "Biết cách phối hợp khi doanh nghiệp bảo hiểm giám định thiệt hại xe máy sau va chạm, những điểm nên ghi nhận cùng giám định viên và quyền đề nghị giám định độc lập khi không thống nhất.",
+   "kw": "giám định thiệt hại xe máy",
+   "kw2": [
+    "giám định bảo hiểm xe máy va chạm",
+    "không đồng ý kết quả giám định bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy vừa gặp va chạm và đang yêu cầu bồi thường",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-004",
+   "child_id": "C-BAO-HIEM",
+   "title": "Tự ngã xe máy trên đường trơn mùa nồm ở Hà Nội: bảo hiểm TNDS có chi trả cho chính người lái không",
+   "intent": "Hiểu vì sao bảo hiểm TNDS bắt buộc chỉ bồi thường cho người thứ ba, nên khi tự ngã mà không có bên nào khác gây ra thì người lái cần trông vào những loại bảo hiểm cá nhân nào.",
+   "kw": "tự ngã xe máy bảo hiểm",
+   "kw2": [
+    "tự té xe máy bảo hiểm chi trả",
+    "bảo hiểm cho người lái xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi làm bằng xe máy hằng ngày",
+   "location_scope": "nội thành Hà Nội mùa nồm ẩm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-005",
+   "child_id": "C-BAO-HIEM",
+   "title": "Du khách nước ngoài tự lái xe máy ở Hà Nội: bảo hiểm du lịch mua ở nước nhà có chi trả khi gặp tai nạn",
+   "intent": "Biết cách đọc điều khoản bảo hiểm du lịch trước chuyến đi Việt Nam, nhất là yêu cầu về giấy phép lái xe hợp lệ, mũ bảo hiểm và nồng độ cồn, để không bị từ chối chi trả.",
+   "kw": "bảo hiểm du lịch lái xe máy",
+   "kw2": [
+    "bảo hiểm du lịch quốc tế tai nạn xe máy",
+    "giấy phép lái xe quốc tế và bảo hiểm du lịch"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "khách du lịch nước ngoài tự lái xe máy lần đầu ở Việt Nam",
+   "location_scope": "Hà Nội và các cung đường lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-006",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy va đổ biển báo, cột đèn, dải phân cách ở Hà Nội: bảo hiểm TNDS có chi trả thiệt hại tài sản công",
+   "intent": "Hiểu tài sản công bị xe máy làm hư hại có được xem là thiệt hại tài sản của người thứ ba không, ai yêu cầu bồi thường và người lái cần làm gì tại hiện trường.",
+   "kw": "xe máy làm hỏng tài sản công",
+   "kw2": [
+    "tông biển báo giao thông phải bồi thường",
+    "bảo hiểm tnds tài sản nhà nước"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy thường xuyên trong nội đô",
+   "location_scope": "các trục đường lớn nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-007",
+   "child_id": "C-BAO-HIEM",
+   "title": "Vượt đèn đỏ, đi ngược chiều rồi gây va chạm: lỗi vi phạm giao thông có làm bảo hiểm TNDS từ chối bồi thường",
+   "intent": "Nắm sự khác nhau giữa lỗi vi phạm giao thông thông thường và các trường hợp loại trừ trong Nghị định 67/2023/NĐ-CP, để biết lỗi nào chỉ ảnh hưởng mức độ lỗi chứ không làm mất quyền bồi thường.",
+   "kw": "vượt đèn đỏ bảo hiểm bồi thường",
+   "kw2": [
+    "đi ngược chiều gây tai nạn bảo hiểm",
+    "vi phạm giao thông có được bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy muốn hiểu đúng phạm vi loại trừ bảo hiểm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-008",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy bị đâm phải nằm xưởng nhiều ngày: chi phí đi lại tạm thời có được bảo hiểm TNDS bồi thường không",
+   "intent": "Hiểu thiệt hại gián tiếp bị loại trừ trong bảo hiểm TNDS xe máy như chi phí đi lại khi xe nằm xưởng, khác thiệt hại trực tiếp ra sao và cách yêu cầu theo Bộ luật Dân sự.",
+   "kw": "thiệt hại gián tiếp bảo hiểm tnds",
+   "kw2": [
+    "xe nằm xưởng có được bồi thường",
+    "chi phí đi lại khi xe đang sửa bồi thường"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người bị va chạm cần xe máy để đi làm, chạy việc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-009",
+   "child_id": "C-BAO-HIEM",
+   "title": "Phí bảo hiểm TNDS bắt buộc của xe 50cc, xe số, xe tay ga và mô tô phân khối lớn có khác nhau không",
+   "intent": "Nắm cách biểu phí bảo hiểm TNDS bắt buộc theo Nghị định 67/2023/NĐ-CP phân loại xe mô tô, xe gắn máy và xe máy điện, để tự kiểm tra mức phí ghi trên giấy chứng nhận có đúng loại xe.",
+   "kw": "phí bảo hiểm xe máy bắt buộc",
+   "kw2": [
+    "phí bảo hiểm xe 50cc",
+    "phí bảo hiểm mô tô phân khối lớn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người mua xe máy mới hoặc đổi sang dòng xe khác",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-010",
+   "child_id": "C-BAO-HIEM",
+   "title": "Mức khấu trừ trong bảo hiểm vật chất xe máy: đọc điều khoản thế nào để biết mỗi vụ phải tự chịu bao nhiêu",
+   "intent": "Hiểu mức khấu trừ là khoản bên mua bảo hiểm tự chịu trong mỗi sự kiện bảo hiểm, cách điều khoản bảo hiểm vật chất xe máy thường quy định và cách so sánh trước khi ký hợp đồng.",
+   "kw": "khấu trừ bảo hiểm xe máy",
+   "kw2": [
+    "mức khấu trừ bảo hiểm vật chất",
+    "điều khoản bảo hiểm vật chất xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "chủ xe máy giá trị cao đang cân nhắc bảo hiểm vật chất",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-011",
+   "child_id": "C-BAO-HIEM",
+   "title": "Mua bảo hiểm TNDS xe máy có bị bắt buộc mua kèm bảo hiểm tai nạn người ngồi trên xe không",
+   "intent": "Biết cách phân biệt phần bắt buộc và phần tự nguyện khi mua gói bảo hiểm xe máy, quyền từ chối sản phẩm bán kèm theo Luật Kinh doanh bảo hiểm 2022 và cách kiểm tra chứng từ thu phí.",
+   "kw": "mua kèm bảo hiểm tai nạn",
+   "kw2": [
+    "bảo hiểm tai nạn người ngồi trên xe",
+    "có bắt buộc mua bảo hiểm tai nạn không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người mua bảo hiểm xe máy qua đại lý, điểm bán hoặc ứng dụng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-012",
+   "child_id": "C-BAO-HIEM",
+   "title": "Cách đọc giấy chứng nhận bảo hiểm TNDS xe máy: số seri, thời hạn, mức trách nhiệm và đường dây nóng",
+   "intent": "Biết cách đọc từng mục trên giấy chứng nhận bảo hiểm TNDS xe máy bản giấy hoặc điện tử, đối chiếu với giấy đăng ký xe và dùng thông tin trên đó khi cần báo tai nạn.",
+   "kw": "đọc giấy chứng nhận bảo hiểm",
+   "kw2": [
+    "nội dung giấy chứng nhận bảo hiểm xe máy",
+    "số seri bảo hiểm xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người mới có xe máy hoặc đang đi xe của người thân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-013",
+   "child_id": "C-BAO-HIEM",
+   "title": "Dùng xe máy riêng chạy giao hàng, chở khách qua ứng dụng ở Hà Nội: bảo hiểm TNDS có khác đi xe cá nhân",
+   "intent": "Hiểu bảo hiểm TNDS bắt buộc áp dụng thế nào khi xe máy dùng để kiếm tiền, khác gì bảo hiểm người ngồi trên xe hay bảo hiểm hàng hóa, và điều cần hỏi đơn vị vận hành ứng dụng.",
+   "kw": "bảo hiểm xe máy chạy giao hàng",
+   "kw2": [
+    "bảo hiểm tài xế xe ôm công nghệ",
+    "shipper cần những bảo hiểm gì"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người tự có xe chạy giao hàng hoặc xe ôm công nghệ bán thời gian",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-014",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy bị lấy trộm rồi kẻ trộm gây tai nạn: chủ xe có phải bồi thường và bảo hiểm TNDS xử lý ra sao",
+   "intent": "Hiểu nguyên tắc bồi thường khi nguồn nguy hiểm cao độ bị chiếm hữu trái pháp luật theo Bộ luật Dân sự, vai trò của bảo hiểm TNDS và lý do chủ xe cần trình báo mất xe sớm.",
+   "kw": "xe bị trộm gây tai nạn",
+   "kw2": [
+    "xe mất trộm gây tai nạn chủ xe có chịu",
+    "chiếm hữu trái pháp luật xe máy bồi thường"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "chủ xe máy vừa bị mất xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-015",
+   "child_id": "C-BAO-HIEM",
+   "title": "Một vụ va chạm xe máy làm nhiều người bị thương: mức trách nhiệm bảo hiểm TNDS tính theo người hay theo vụ",
+   "intent": "Nắm cách Nghị định 67/2023/NĐ-CP áp mức trách nhiệm về sức khỏe, tính mạng cho từng người và mức trách nhiệm về tài sản cho mỗi vụ, để ước lượng đúng phần bảo hiểm có thể chi trả.",
+   "kw": "nhiều người bị thương bảo hiểm tnds",
+   "kw2": [
+    "mức trách nhiệm bảo hiểm mỗi người",
+    "bảo hiểm tnds tính theo vụ tai nạn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy và gia đình người bị hại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-016",
+   "child_id": "C-BAO-HIEM",
+   "title": "Bảo hiểm TNDS đã bồi thường cho nạn nhân: người gây tai nạn xe máy có còn bị xử lý hình sự không",
+   "intent": "Hiểu tách bạch trách nhiệm dân sự do bảo hiểm chi trả với trách nhiệm hình sự theo Bộ luật Hình sự, và khi nào việc bồi thường chỉ là tình tiết giảm nhẹ chứ không chấm dứt vụ việc.",
+   "kw": "bảo hiểm và trách nhiệm hình sự",
+   "kw2": [
+    "gây tai nạn xe máy trách nhiệm hình sự",
+    "bồi thường xong có bị truy cứu không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy lỡ gây tai nạn có người bị thương",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-017",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy đang đỗ bị đổ vào ô tô hoặc người đi đường: bảo hiểm TNDS có coi là tai nạn để bồi thường không",
+   "intent": "Hiểu định nghĩa xe cơ giới hoạt động gồm di chuyển, dừng, đỗ có sự điều khiển của người lái trong Nghị định 67/2023/NĐ-CP, từ đó biết khi nào xe đỗ gây thiệt hại được bảo hiểm xem xét.",
+   "kw": "xe máy đỗ bị đổ bảo hiểm",
+   "kw2": [
+    "xe máy đổ vào ô tô bồi thường",
+    "xe đỗ gây thiệt hại ai chịu trách nhiệm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đỗ xe máy trên vỉa hè, trước nhà hoặc quán xá",
+   "location_scope": "phố nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-018",
+   "child_id": "C-BAO-HIEM",
+   "title": "Bảo hiểm vật chất xe máy mua cao hoặc thấp hơn giá trị thực tế: khi có tổn thất được bồi thường thế nào",
+   "intent": "Hiểu quy định về hợp đồng bảo hiểm trên giá trị và dưới giá trị trong Luật Kinh doanh bảo hiểm 2022, cách xác định giá trị xe máy khi mua và ảnh hưởng tới số tiền được bồi thường.",
+   "kw": "bảo hiểm dưới giá trị xe máy",
+   "kw2": [
+    "bảo hiểm trên giá trị xe máy",
+    "số tiền bảo hiểm vật chất xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "chủ xe tay ga, mô tô đời mới đang cân nhắc bảo hiểm vật chất",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-019",
+   "child_id": "C-BAO-HIEM",
+   "title": "Kê khai sai thông tin khi mua bảo hiểm vật chất xe máy: doanh nghiệp bảo hiểm có quyền từ chối bồi thường",
+   "intent": "Nắm nghĩa vụ cung cấp thông tin trung thực của bên mua bảo hiểm theo Luật Kinh doanh bảo hiểm 2022, các thông tin về xe và mục đích sử dụng cần khai đúng, cùng hậu quả khi khai sai.",
+   "kw": "kê khai sai bảo hiểm xe máy",
+   "kw2": [
+    "nghĩa vụ cung cấp thông tin khi mua bảo hiểm",
+    "khai sai mục đích sử dụng xe bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người mua bảo hiểm tự nguyện cho xe máy cũ hoặc xe mới",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-020",
+   "child_id": "C-BAO-HIEM",
+   "title": "Bị xe khác ép, tạt đầu khiến tự ngã dù không chạm nhau: đòi bảo hiểm TNDS của xe gây ra như thế nào",
+   "intent": "Biết cách chứng minh quan hệ nhân quả khi bị ngã do xe khác ép, tạt đầu mà không va chạm trực tiếp, chứng cứ cần thu thập và cách yêu cầu bảo hiểm TNDS của xe đó.",
+   "kw": "bị ép xe ngã không va chạm",
+   "kw2": [
+    "bị tạt đầu ngã xe đòi bồi thường",
+    "tai nạn không va chạm bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy trên đường đông giờ cao điểm",
+   "location_scope": "các nút giao đông xe ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-021",
+   "child_id": "C-BAO-HIEM",
+   "title": "Bị ô tô tải, xe của doanh nghiệp tông khi đi xe máy: đòi doanh nghiệp chủ xe và bảo hiểm của xe đó bồi thường",
+   "intent": "Hiểu trách nhiệm bồi thường của pháp nhân khi người làm công lái xe gây thiệt hại theo Bộ luật Dân sự, cách xác định chủ xe, doanh nghiệp bảo hiểm của xe và hồ sơ cần gửi.",
+   "kw": "xe công ty gây tai nạn",
+   "kw2": [
+    "tài xế công ty gây tai nạn ai bồi thường",
+    "bảo hiểm xe tải tông xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy bị xe tải, xe dịch vụ va phải",
+   "location_scope": "Vành đai 3, Quốc lộ 1A, Quốc lộ 5 quanh Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-022",
+   "child_id": "C-BAO-HIEM",
+   "title": "Người nước ngoài sống ở Hà Nội tự mua xe máy: mua bảo hiểm TNDS bắt buộc và đứng tên như thế nào",
+   "intent": "Biết cách người nước ngoài cư trú dài hạn ở Hà Nội mua bảo hiểm TNDS bắt buộc cho xe đứng tên mình, các giấy tờ thường được yêu cầu và cách lưu giấy chứng nhận bản điện tử.",
+   "kw": "người nước ngoài bảo hiểm xe máy",
+   "kw2": [
+    "expat mua bảo hiểm xe máy hà nội",
+    "bảo hiểm tnds cho người nước ngoài"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người nước ngoài làm việc, sinh sống dài hạn tại Hà Nội",
+   "location_scope": "Tây Hồ, Ba Đình, Cầu Giấy",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-023",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy ba bánh của người khuyết tật ở Hà Nội: mua bảo hiểm TNDS bắt buộc theo loại xe nào cho đúng",
+   "intent": "Nắm cách xác định loại xe khi mua bảo hiểm TNDS cho xe mô tô ba bánh dùng cho người khuyết tật, mức trách nhiệm áp dụng và những lưu ý khi cần yêu cầu bồi thường.",
+   "kw": "bảo hiểm xe ba bánh",
+   "kw2": [
+    "bảo hiểm xe mô tô ba bánh người khuyết tật",
+    "xe máy ba bánh có cần bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người khuyết tật và gia đình đang dùng xe ba bánh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-024",
+   "child_id": "C-BAO-HIEM",
+   "title": "Va quệt xe máy trong hầm gửi xe chung cư hoặc sân trường: bảo hiểm TNDS có bồi thường như ngoài đường",
+   "intent": "Hiểu phạm vi bảo hiểm TNDS đối với xe cơ giới hoạt động ngoài đường công cộng như hầm chung cư, sân trường, bãi xe nội bộ và cách xử lý va quệt cùng bên quản lý khu vực.",
+   "kw": "va quệt xe trong hầm chung cư",
+   "kw2": [
+    "va chạm xe máy trong bãi xe nội bộ",
+    "bảo hiểm tnds ngoài đường công cộng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "cư dân chung cư và sinh viên đi xe máy",
+   "location_scope": "khu đô thị, chung cư và trường học ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-040-025",
+   "child_id": "C-BAO-HIEM",
+   "title": "Xe máy của người bị hại hư hỏng nặng sau va chạm: bảo hiểm TNDS bên gây tai nạn tính tiền sửa hay giá trị xe",
+   "intent": "Hiểu cách bảo hiểm TNDS xác định thiệt hại khi xe máy bị hư hỏng nặng, khi nào bồi thường theo chi phí sửa chữa, khi nào theo giá trị thực tế và khấu hao được tính ra sao.",
+   "kw": "bồi thường xe máy hư hỏng nặng",
+   "kw2": [
+    "xe máy hỏng toàn bộ bồi thường",
+    "chi phí sửa xe máy sau va chạm bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bao-hiem/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-040",
+   "audience": "người đi xe máy bị xe khác va phải",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
