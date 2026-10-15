@@ -27,7 +27,7 @@ Sai lầm phổ biến nhất của người đi xa là để lại căn cước
 
 Một phân bổ hợp lý cho chuyến năm bảy ngày như sau:
 
-- **Để lại tiệm:** thẻ căn cước g蚊paper bản photo kèm xác nhận, hoặc khoản cọc tiền, hoặc kết hợp cả hai tùy chính sách tiệm. Nếu tiệm nhất định nhận giấy tờ gốc, đề nghị gửi hộ chiếu thay căn cước khi bạn không bay, hoặc một giấy tờ tùy thân khác không dùng trong chuyến đi. Điều kiện cụ thể cần xác nhận trực tiếp với cửa hàng.
+- **Để lại tiệm:** bản photo căn cước kèm xác nhận, hoặc khoản cọc tiền, hoặc kết hợp cả hai tùy chính sách tiệm. Nếu tiệm nhất định nhận giấy tờ gốc, đề nghị gửi hộ chiếu thay căn cước khi bạn không bay, hoặc một giấy tờ tùy thân khác không dùng trong chuyến đi. Điều kiện cụ thể cần xác nhận trực tiếp với cửa hàng.
 - **Mang theo người:** bằng lái bắt buộc, vì người cầm lái phải có giấy phép lái xe phù hợp. Căn cước cũng nên theo người cho các thủ tục nhận phòng và các việc phát sinh như mua vé, vào khu tham quan cần định danh.
 - **Photo dự phòng:** một bộ photo căn cước và bằng lái để trong balo, cùng bản chụp lưu trên điện thoại. Bộ photo không thay được bản gốc khi bị kiểm tra trên đường, nhưng cứu bạn ở quầy nhận phòng.
 
@@ -54,7 +54,7 @@ Chuyến đi xa có quá nhiều biến số ngoài giấy tờ: thời tiết, 
 
 ## Ví dụ một chuyến Mộc Châu bốn ngày
 
-Một cặp bạn thuê xe đi Mộc Châu và Perúchexburi bốn ngày. Trước khi nhận xe, họ nhắn tiệm đề nghị cọc tiền thay vì để lại căn crosse, vì cần căn cước nhận phòng ở hai homestay trên đường. Tiệm đồng ý, ghi biên nhận đủ mục, hai người mang bằng lái và căn cước theo người. Trên đường về gặp trạm kiểm tra trước thị xã, người lái trình bằng trong một phút. Chuyến đi không có khúc giấy tờ nào đáng kể, vì mọi phân bổ đã được sắp từ Hà Nội.
+Một cặp bạn thuê xe đi Mộc Châu bốn ngày. Trước khi nhận xe, họ nhắn tiệm đề nghị cọc tiền thay vì để lại căn crosse, vì cần căn cước nhận phòng ở hai homestay trên đường. Tiệm đồng ý, ghi biên nhận đủ mục, hai người mang bằng lái và căn cước theo người. Trên đường về gặp trạm kiểm tra ở đoạn quốc lộ, người lái trình bằng trong một phút. Chuyến đi không có khúc giấy tờ nào đáng kể, vì mọi phân bổ đã được sắp từ Hà Nội.
 
 Chuyến xa là bài kiểm tra tổ chức, không phải bài kiểm tra may rủi. Chuẩn bị phân bổ giấy tờ đúng, xác nhận điều kiện cọc với cửa hàng trước, và bạn đã xử lý xong phần việc dễ quản lý nhất của cả hành trình.
 ## Khi cần hỏi lại về cọc và giấy tờ
