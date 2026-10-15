@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-025: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-001",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Gắn thêm đèn trợ sáng, đèn LED hay còi to lên xe máy thuê đi phượt: có bị coi là sai thiết kế không",
+   "intent": "Hiểu quy định về lắp thêm đèn trợ sáng, đổi bóng LED và thay còi trên xe máy theo luật giao thông hiện hành để không tự ý thay đổi xe thuê trước chuyến đi phượt quanh Hà Nội.",
+   "kw": "lắp đèn trợ sáng xe máy",
+   "kw2": [
+    "đèn trợ sáng có bị phạt không",
+    "độ còi xe máy có vi phạm không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "nhóm bạn trẻ thuê xe máy đi phượt đêm",
+   "location_scope": "Hà Nội và các cung đường đèo Ba Vì, Tam Đảo",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-002",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bạn đi cùng hết xăng: dùng chân đẩy hoặc dây kéo bằng xe máy thuê có vi phạm luật giao thông không",
+   "intent": "Nắm quy định cấm người lái xe mô tô dùng xe để kéo, đẩy xe khác tại Điều 33 Luật Trật tự, an toàn giao thông đường bộ 2024 và cách xử lý khi xe đi cùng hết xăng.",
+   "kw": "dùng chân đẩy xe máy hết xăng",
+   "kw2": [
+    "kéo xe máy bằng dây có bị phạt",
+    "xe máy đẩy xe khác có vi phạm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "nhóm bạn đi chơi bằng hai xe máy thuê",
+   "location_scope": "đường ngoại thành Hà Nội như Sóc Sơn, Ba Vì, Đông Anh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-003",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Chở chó mèo bằng xe máy và dắt chó chạy theo xe: luật giao thông cấm cụ thể hành vi nào",
+   "intent": "Hiểu sự khác nhau giữa chở vật nuôi trong lồng, balo trên xe máy và hành vi dẫn dắt vật nuôi bị cấm theo Luật Trật tự, an toàn giao thông đường bộ 2024 khi đi trong phố Hà Nội.",
+   "kw": "dắt chó chạy theo xe máy",
+   "kw2": [
+    "chở chó mèo bằng xe máy",
+    "chở thú cưng trên xe máy có bị phạt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người nuôi thú cưng thuê xe máy ở Hà Nội",
+   "location_scope": "quanh Hồ Tây, công viên và khu dân cư nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-004",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Dừng xe máy đứng xem, quay clip nhóm đua xe trái phép lúc nửa đêm: người cổ vũ có vi phạm luật không",
+   "intent": "Hiểu vì sao Luật Trật tự, an toàn giao thông đường bộ 2024 cấm cả hành vi xúi giục, giúp sức, cổ vũ đua xe trái phép và cách rời đám đông tụ tập khi đi xe máy ban đêm.",
+   "kw": "cổ vũ đua xe trái phép",
+   "kw2": [
+    "đứng xem đua xe có bị phạt",
+    "quay clip đua xe trái phép"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người trẻ đi xe máy thuê dạo phố đêm",
+   "location_scope": "các trục đường rộng và cầu lớn ở Hà Nội về đêm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-005",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Gây va chạm có người bị thương rồi tự chở nạn nhân đi viện: có bị coi là bỏ trốn khỏi hiện trường không",
+   "intent": "Nắm trách nhiệm của người gây tai nạn: dừng xe, cấp cứu người bị thương, báo công an và khi nào rời hiện trường để đưa nạn nhân đi cấp cứu là chính đáng.",
+   "kw": "gây tai nạn đưa người đi viện",
+   "kw2": [
+    "rời hiện trường tai nạn giao thông",
+    "trách nhiệm người gây tai nạn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy lỡ gây va chạm có người bị thương",
+   "location_scope": "đường phố nội thành và ngoại thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-006",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Đi ngang một vụ tai nạn giao thông trên phố Hà Nội: người có mặt được luật yêu cầu làm những gì",
+   "intent": "Hiểu trách nhiệm của người có mặt tại nơi xảy ra tai nạn giao thông đường bộ: bảo vệ hiện trường, giúp cấp cứu người bị nạn, báo tin cho công an và làm chứng khi được yêu cầu.",
+   "kw": "người chứng kiến tai nạn giao thông",
+   "kw2": [
+    "giúp người bị tai nạn giao thông",
+    "báo tin tai nạn giao thông"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người đi xe máy thuê tình cờ gặp tai nạn trên đường",
+   "location_scope": "phố đông và nút giao lớn ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-007",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị xe khác tông khi đang đi xe máy thuê, mình không có lỗi: CSGT có được giữ xe để chờ bồi thường không",
+   "intent": "Nắm quy định tại Thông tư 72/2024/TT-BCA về việc trả ngay phương tiện cho người điều khiển không có lỗi sau khám nghiệm và việc nghiêm cấm giữ xe làm căn cứ giải quyết bồi thường.",
+   "kw": "không có lỗi có bị giữ xe",
+   "kw2": [
+    "bị tông xe có bị tạm giữ xe",
+    "thông tư 72/2024 trả phương tiện"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy bị xe khác va vào",
+   "location_scope": "nội thành Hà Nội và quốc lộ ra ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-008",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Người thuê xe máy gây thiệt hại cho người khác: người thuê hay chủ xe phải bồi thường theo Bộ luật Dân sự",
+   "intent": "Hiểu Điều 601 Bộ luật Dân sự 2015 về bồi thường thiệt hại do nguồn nguy hiểm cao độ khi chủ xe đã giao xe cho người thuê sử dụng và vai trò của thỏa thuận trong hợp đồng.",
+   "kw": "thuê xe gây tai nạn bồi thường",
+   "kw2": [
+    "chủ xe cho thuê có phải bồi thường",
+    "nguồn nguy hiểm cao độ xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy ngắn ngày và dài hạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-009",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Không có lỗi trong va chạm vẫn có thể phải bồi thường: hiểu nguyên tắc nguồn nguy hiểm cao độ khi lái xe máy",
+   "intent": "Nắm các trường hợp người lái xe được miễn bồi thường theo khoản 3 Điều 601 Bộ luật Dân sự: thiệt hại hoàn toàn do lỗi cố ý của người bị hại, bất khả kháng hoặc tình thế cấp thiết.",
+   "kw": "không có lỗi có phải bồi thường",
+   "kw2": [
+    "bồi thường khi không có lỗi giao thông",
+    "lỗi cố ý của người bị thiệt hại"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người lái xe máy thuê vừa gặp va chạm bất ngờ",
+   "location_scope": "phố đông người đi bộ băng ngang ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-010",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Con 16, 17 tuổi đi xe gắn máy gây va chạm: cha mẹ có phải bồi thường thay theo Bộ luật Dân sự không",
+   "intent": "Hiểu Điều 586 Bộ luật Dân sự 2015 về bồi thường khi người từ đủ 15 đến dưới 18 tuổi gây thiệt hại lúc đi xe gắn máy và phần cha mẹ phải bù khi con không đủ tài sản.",
+   "kw": "cha mẹ bồi thường thay con",
+   "kw2": [
+    "người chưa thành niên gây tai nạn",
+    "con 16 tuổi đi xe gây va chạm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "phụ huynh có con tuổi 16, 17 đi xe gắn máy",
+   "location_scope": "Hà Nội, quanh khu trường học và khu dân cư",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-011",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Va chạm xe máy đã lâu mới thấy đau trở lại: thời hiệu yêu cầu bồi thường thiệt hại là bao lâu",
+   "intent": "Nắm thời hiệu khởi kiện yêu cầu bồi thường thiệt hại ngoài hợp đồng theo Điều 588 Bộ luật Dân sự và cách lưu hồ sơ y tế, giấy tờ vụ va chạm để không mất quyền yêu cầu.",
+   "kw": "thời hiệu đòi bồi thường tai nạn",
+   "kw2": [
+    "va chạm lâu rồi có đòi bồi thường được không",
+    "thời hiệu khởi kiện bồi thường thiệt hại"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người từng bị va chạm khi đi xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-012",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị xe khác tông khi đi xe máy ở Hà Nội: người bị thương được yêu cầu bồi thường những khoản nào",
+   "intent": "Hiểu các khoản thiệt hại do sức khỏe bị xâm phạm theo Điều 590 Bộ luật Dân sự: chi phí cứu chữa, thu nhập bị mất, chi phí người chăm sóc và khoản bù đắp tổn thất tinh thần.",
+   "kw": "khoản bồi thường tai nạn giao thông",
+   "kw2": [
+    "bồi thường thiệt hại sức khỏe tai nạn",
+    "tổn thất tinh thần tai nạn giao thông"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người đi xe máy thuê bị thương do xe khác gây ra",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-013",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Người mặc thường phục ra hiệu dừng xe máy: CSGT hóa trang có được trực tiếp dừng xe không",
+   "intent": "Nắm quy định của Thông tư 73/2024/TT-BCA về tuần tra công khai kết hợp hóa trang, việc dừng phương tiện do tổ tuần tra công khai thực hiện và cách phản ứng an toàn khi bị ra hiệu dừng.",
+   "kw": "csgt mặc thường phục dừng xe",
+   "kw2": [
+    "csgt hóa trang có được dừng xe",
+    "thông tư 73/2024 tuần tra hóa trang"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người đi xe máy thuê chạy đường vắng buổi tối",
+   "location_scope": "ven đô và quốc lộ cửa ngõ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-014",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị CSGT dừng xe máy vì vi phạm: có quyền đề nghị xem hình ảnh và tự ghi hình khi làm việc không",
+   "intent": "Hiểu quyền đề nghị xem thông tin, hình ảnh về vi phạm theo Thông tư 73/2024/TT-BCA và giới hạn khi tự ghi âm, ghi hình để không bị coi là cản trở người thi hành công vụ.",
+   "kw": "xem hình ảnh vi phạm giao thông",
+   "kw2": [
+    "quay video khi bị csgt dừng xe",
+    "quyền của người bị csgt dừng xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy lần đầu bị CSGT dừng kiểm tra",
+   "location_scope": "các nút giao có tổ tuần tra ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-015",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị phạt tại chỗ mà không lập biên bản khi đi xe máy: trường hợp nào hợp lệ và cần nhận chứng từ gì",
+   "intent": "Nắm điều kiện xử phạt vi phạm hành chính không lập biên bản theo Điều 56 Luật Xử lý vi phạm hành chính, nội dung quyết định xử phạt và chứng từ nộp phạt người đi xe máy cần giữ.",
+   "kw": "phạt không lập biên bản",
+   "kw2": [
+    "xử phạt tại chỗ vi phạm giao thông",
+    "biên lai nộp phạt tại chỗ"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người đi xe máy thuê bị xử phạt lỗi nhẹ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-016",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Không đồng ý với nội dung biên bản vi phạm giao thông: ghi ý kiến hay từ chối ký thế nào cho đúng",
+   "intent": "Biết cách ghi ý kiến, giải trình vào biên bản vi phạm hành chính, hậu quả khi không ký theo Điều 58 Luật Xử lý vi phạm hành chính và quyền khiếu nại quyết định xử phạt sau đó.",
+   "kw": "không đồng ý biên bản vi phạm",
+   "kw2": [
+    "có nên ký biên bản vi phạm giao thông",
+    "từ chối ký biên bản csgt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy bị lập biên bản mà thấy chưa đúng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-017",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Dừng xe máy trên cầu Long Biên để chụp ảnh: quy định cấm dừng đỗ trên cầu áp dụng ra sao",
+   "intent": "Hiểu quy định không được dừng xe, đỗ xe trên cầu tại Điều 18 Luật Trật tự, an toàn giao thông đường bộ 2024 và cách gửi xe rồi đi bộ lên cầu Long Biên để chụp ảnh đúng luật.",
+   "kw": "dừng xe trên cầu long biên",
+   "kw2": [
+    "dừng đỗ xe trên cầu có bị phạt",
+    "chụp ảnh cầu long biên bằng xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "khách du lịch thuê xe máy thích chụp ảnh",
+   "location_scope": "cầu Long Biên, phố Phúc Tân và chợ Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-018",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Đèn vàng nhấp nháy ở ngã tư Hà Nội lúc đêm khuya: xe máy được đi tiếp nhưng phải nhường ai",
+   "intent": "Nắm ý nghĩa tín hiệu đèn vàng nhấp nháy theo Điều 11 Luật Trật tự, an toàn giao thông đường bộ 2024 và quy tắc nhường đường áp dụng khi ngã tư không còn điều khiển bằng đèn xanh đỏ.",
+   "kw": "đèn vàng nhấp nháy xe máy",
+   "kw2": [
+    "đèn vàng nhấp nháy có được đi",
+    "ngã tư đèn vàng nhấp nháy ban đêm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người đi xe máy thuê về khuya",
+   "location_scope": "các ngã tư nội thành Hà Nội sau giờ cao điểm đêm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-019",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Quá hạn trả xe máy thuê mà không liên lạc với chủ xe: khi nào có thể bị tố giác lạm dụng tín nhiệm",
+   "intent": "Hiểu ranh giới giữa vi phạm nghĩa vụ trả tài sản thuê theo Bộ luật Dân sự và tội lạm dụng tín nhiệm chiếm đoạt tài sản theo Điều 175 Bộ luật Hình sự để chủ động xin gia hạn.",
+   "kw": "thuê xe không trả bị tội gì",
+   "kw2": [
+    "lạm dụng tín nhiệm chiếm đoạt xe thuê",
+    "quá hạn trả xe thuê bị tố cáo"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy dài ngày có lịch trình thay đổi",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-020",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Đang quá hạn trả xe thì xe thuê bị mất hoặc hỏng: người thuê chịu rủi ro thế nào theo Bộ luật Dân sự",
+   "intent": "Nắm quy định Bộ luật Dân sự về nghĩa vụ trả tài sản thuê đúng hạn và việc bên thuê chịu rủi ro xảy ra với xe trong thời gian chậm trả, kể cả hư hỏng không do lỗi mình.",
+   "kw": "rủi ro khi chậm trả xe thuê",
+   "kw2": [
+    "chậm trả tài sản thuê chịu rủi ro",
+    "xe thuê bị mất khi quá hạn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy theo ngày hoặc theo tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-021",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Xe thuê hỏng vì lỗi có sẵn từ trước khi nhận: Bộ luật Dân sự quy định bên cho thuê phải làm gì",
+   "intent": "Hiểu nghĩa vụ bảo đảm giá trị sử dụng của bên cho thuê theo Bộ luật Dân sự 2015, quyền yêu cầu sửa chữa hoặc đổi xe của người thuê và cách ghi nhận lỗi có sẵn khi phát hiện.",
+   "kw": "nghĩa vụ bên cho thuê xe máy",
+   "kw2": [
+    "bảo đảm giá trị sử dụng tài sản thuê",
+    "xe thuê hỏng do lỗi có sẵn"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy gặp hỏng hóc trong vài ngày đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-022",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Hợp đồng thuê xe máy soạn sẵn theo mẫu: Luật Bảo vệ quyền lợi người tiêu dùng 2023 bảo vệ người thuê ra sao",
+   "intent": "Nắm quy định về hợp đồng theo mẫu và điều kiện giao dịch chung trong Luật Bảo vệ quyền lợi người tiêu dùng 2023, những điều khoản không có hiệu lực và quyền được giải thích trước khi ký.",
+   "kw": "hợp đồng theo mẫu thuê xe",
+   "kw2": [
+    "luật bảo vệ người tiêu dùng thuê xe",
+    "điều khoản không có hiệu lực hợp đồng mẫu"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy lần đầu ký hợp đồng in sẵn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-023",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Tranh chấp với cửa hàng thuê xe máy không tự thương lượng được: hòa giải hay khởi kiện ở đâu tại Hà Nội",
+   "intent": "Lên kế hoạch giải quyết tranh chấp thuê xe qua thương lượng, hòa giải, trọng tài hoặc tòa án theo Luật Bảo vệ quyền lợi người tiêu dùng 2023 và chuẩn bị chứng cứ cần thiết cho từng bước.",
+   "kw": "tranh chấp hợp đồng thuê xe máy",
+   "kw2": [
+    "khởi kiện tranh chấp thuê xe",
+    "hòa giải tranh chấp người tiêu dùng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người thuê xe máy có bất đồng với cửa hàng",
+   "location_scope": "Hà Nội, tòa án nhân dân khu vực và hòa giải ở cơ sở",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-024",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị xử phạt vi phạm giao thông khi đi xe thuê có bị ghi vào lý lịch tư pháp hay ảnh hưởng xin việc không",
+   "intent": "Hiểu khác biệt giữa xử phạt vi phạm hành chính và án tích trong phiếu lý lịch tư pháp, cùng thời hạn được coi là chưa bị xử phạt theo Luật Xử lý vi phạm hành chính.",
+   "kw": "phạt giao thông ảnh hưởng lý lịch",
+   "kw2": [
+    "vi phạm hành chính có bị lưu hồ sơ",
+    "thời hạn coi như chưa bị xử phạt"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "sinh viên và người đi làm thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-025-025",
+   "child_id": "C-HD-PHAP-LY",
+   "title": "Bị người đi đường quay clip va chạm rồi đăng lên mạng xã hội: quyền đối với hình ảnh của người đi xe máy",
+   "intent": "Hiểu quyền của cá nhân đối với hình ảnh theo Điều 32 Bộ luật Dân sự 2015, khi nào đăng clip va chạm cần sự đồng ý và cách yêu cầu gỡ bỏ hoặc trình báo khi bị xúc phạm.",
+   "kw": "bị quay clip đăng mạng xã hội",
+   "kw2": [
+    "quyền hình ảnh cá nhân bộ luật dân sự",
+    "clip va chạm giao thông trên mạng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-phap-ly/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-025",
+   "audience": "người đi xe máy thuê vừa gặp va chạm nơi đông người",
+   "location_scope": "phố đông và nút giao ở Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
