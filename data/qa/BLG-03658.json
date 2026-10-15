@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03658",
   "title": "Con đi khóa tu mùa hè ở chùa ngoại thành: phụ huynh thuê xe máy theo tuần đưa đón, thăm con và chở đồ",
-  "scored_at": "2026-10-15T10:32:09+00:00",
+  "scored_at": "2026-10-15T10:34:22+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -10,7 +10,7 @@
     "permalink_canonical": true,
     "word_count": false,
     "title_match": true,
-    "description_length": false,
+    "description_length": true,
     "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 80,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-con-di-khoa-tu-mua-he-o-chua-ngoai-thanh-phu-huynh-thue-xe-may-theo-tuan-dua-don.md",
-  "content_sha256": "bc15574fe11a9ab3ff5b463d97bef146fba45d50fd5efdc3c91b37bbffca54c8",
-  "matrix_row_sha256": "ae5a508d3a4af36b0a9272a46fc8731ae3abd680f5ac0a71f82f17d10faf1523",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-con-di-khoa-tu-mua-he-o-chua-ngoai-thanh-phu-huynh-thue-xe-may-theo-tuan-dua-don.md",
+  "content_sha256": "640b1735ef5648cf357a74d6e83f0ee949e509e2431d2fdfdc9c837de82e367e",
+  "matrix_row_sha256": "25c5710e37292098817d8acd9e85f6599bcfca3b95914fc7b398c9019695c7f7",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T10:34:28+00:00"
 }

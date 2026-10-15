@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03656",
   "title": "Một tuần tra cứu tài liệu ở Hà Nội: thuê xe máy đi Thư viện Quốc gia, kho lưu trữ và các viện nghiên cứu",
-  "scored_at": "2026-10-15T10:31:57+00:00",
+  "scored_at": "2026-10-15T10:34:13+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -10,8 +10,8 @@
     "permalink_canonical": true,
     "word_count": false,
     "title_match": true,
-    "description_length": false,
-    "description_keyword": false,
+    "description_length": true,
+    "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
     "headings_intent": false,
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 80,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-mot-tuan-tra-cuu-tai-lieu-o-ha-noi-thue-xe-may-di-thu-vien-quoc-gia-kho-luu-tru.md",
-  "content_sha256": "ba65db6eae9f2f9c2258513a1146901b9b10c4118e4f989bb32e0a260fb87c89",
-  "matrix_row_sha256": "274dd617a69178e9135fb301f28a1a49b11c0ff5c55921d0dc392b02278e7725",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-mot-tuan-tra-cuu-tai-lieu-o-ha-noi-thue-xe-may-di-thu-vien-quoc-gia-kho-luu-tru.md",
+  "content_sha256": "c263160e4db991a2208bbac79b8c6863bf650fe92e0d130cbe3dc8ad39b3df80",
+  "matrix_row_sha256": "676e43a3f7d1439a72f690061b51334b39aa3ac172a0a00219d45b95385dda37",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T10:34:19+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03650",
   "title": "Học khóa tiếng Việt ngắn hạn ở Hà Nội: người nước ngoài thuê xe máy theo tuần đi học, gửi xe và tập hỏi đường",
-  "scored_at": "2026-10-15T10:31:18+00:00",
+  "scored_at": "2026-10-15T10:34:10+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -10,8 +10,8 @@
     "permalink_canonical": true,
     "word_count": false,
     "title_match": true,
-    "description_length": false,
-    "description_keyword": false,
+    "description_length": true,
+    "description_keyword": true,
     "h2_min": true,
     "no_h1_in_body": true,
     "headings_intent": false,
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 80,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-hoc-khoa-tieng-viet-ngan-han-o-ha-noi-nguoi-nuoc-ngoai-thue-xe-may-theo-tuan-di.md",
-  "content_sha256": "4a6b10e695269aa3c8d7566d18a6ce0017dd134bd5281f75d9eb226430144f97",
-  "matrix_row_sha256": "09d4a0a54934f596910a823c6e53029223f75caabf9a2b23870d71faaf05cded",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-hoc-khoa-tieng-viet-ngan-han-o-ha-noi-nguoi-nuoc-ngoai-thue-xe-may-theo-tuan-di.md",
+  "content_sha256": "94f315eea5d74a27f5b8accaef8848c34d8b1592460c14df11639616709831e8",
+  "matrix_row_sha256": "37897d177a9bbbad5c16ee372f789238ecd9ddf715e0f0ae0ff807a6e8e9b6ff",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T10:34:19+00:00"
 }
