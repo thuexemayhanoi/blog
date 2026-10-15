@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 222
   size: 12
-  total: 2653
+  total: 2663
 chia-se:
   pages: 10
   size: 12
@@ -179,7 +179,7 @@ topic:
   xe-may_xe-50cc:
     pages: 3
     size: 24
-    total: 57
+    total: 62
   xe-may_xe-dap-dien:
     pages: 2
     size: 24
@@ -191,7 +191,7 @@ topic:
   xe-may_xe-ga:
     pages: 4
     size: 24
-    total: 91
+    total: 96
   xe-may_xu-ly-su-co-xe:
     pages: 3
     size: 24
