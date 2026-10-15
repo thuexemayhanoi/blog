@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-14T20:24:07+00:00",
-    "staged_at": "2026-10-15T04:19:47+00:00"
+    "staged_at": "2026-10-15T04:29:02+00:00"
   },
   "candidates": [
     {
@@ -7418,6 +7418,1906 @@
       "subtopic": "refill-2026-10-15-W2-008",
       "audience": "người thuê xe đi qua các đoạn đường đang thi công",
       "location_scope": "các tuyến đang thi công, đào đường ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-001",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc được chạy tối đa bao nhiêu km/h: quy định tốc độ của xe gắn máy và cách giữ tốc độ trong phố",
+      "intent": "Nắm quy định tốc độ khai thác tối đa của xe gắn máy theo Thông tư 38/2024/TT-BGTVT và biết cách giữ tốc độ phù hợp khi đi xe 50cc trong phố, khu dân cư và đường lớn Hà Nội.",
+      "kw": "tốc độ tối đa xe 50cc",
+      "kw2": [
+        "xe gắn máy chạy tối đa bao nhiêu km/h",
+        "quy định tốc độ xe gắn máy"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người thuê xe 50cc chưa rõ quy định tốc độ",
+      "location_scope": "nội thành và các trục đường lớn Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-002",
+      "child_id": "C-XE-50CC",
+      "title": "Xe thuê có đúng là xe 50cc không: xem dung tích trên giấy đăng ký trước khi lăn bánh",
+      "intent": "Biết cách đối chiếu dung tích xi lanh ghi trên giấy đăng ký với chiếc xe 50cc được giao và hiểu vì sao điều này quyết định loại xe mình được phép điều khiển khi chưa có bằng lái.",
+      "kw": "kiểm tra dung tích xe 50cc",
+      "kw2": [
+        "giấy đăng ký xe 50cc",
+        "xe 50cc có đúng 50cc không"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người chưa có bằng lái định thuê xe 50cc",
+      "location_scope": "Hà Nội, tại điểm nhận xe thuê",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-003",
+      "child_id": "C-XE-50CC",
+      "title": "Uống bia rồi đi xe 50cc có bị xử lý như xe máy lớn không: quy định nồng độ cồn với xe gắn máy",
+      "intent": "Hiểu rằng lệnh cấm lái xe khi có nồng độ cồn trong Luật Trật tự, an toàn giao thông đường bộ 2024 áp dụng cả với xe 50cc và biết cách về nhà an toàn sau bữa rượu bia.",
+      "kw": "xe 50cc nồng độ cồn",
+      "kw2": [
+        "uống bia đi xe 50cc",
+        "xe gắn máy có bị đo nồng độ cồn"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người đi xe 50cc đi ăn uống, liên hoan buổi tối",
+      "location_scope": "các phố ăn uống buổi tối ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-004",
+      "child_id": "C-XE-50CC",
+      "title": "Xe bạn chết máy giữa đường: có được dùng xe 50cc kéo hoặc đẩy xe kia về tiệm sửa không",
+      "intent": "Hiểu quy định cấm người lái xe gắn máy kéo, đẩy xe khác, thấy rủi ro khi xe 50cc yếu lực làm việc này và biết các cách đưa xe hỏng tới tiệm sửa an toàn hơn.",
+      "kw": "xe 50cc kéo đẩy xe khác",
+      "kw2": [
+        "dùng xe máy đẩy xe hỏng",
+        "luật cấm kéo đẩy xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "nhóm bạn đi chơi có một xe gặp sự cố",
+      "location_scope": "nội thành và ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-005",
+      "child_id": "C-XE-50CC",
+      "title": "Biển cấm xe gắn máy và biển cấm xe máy khác nhau thế nào: xe 50cc được đi những đường nào",
+      "intent": "Nắm cách phân biệt biển P.111a cấm xe gắn máy với biển P.104 cấm xe máy theo QCVN 41:2024/BGTVT để biết đoạn đường nào xe 50cc được đi và đoạn nào phải vòng tránh.",
+      "kw": "biển cấm xe gắn máy",
+      "kw2": [
+        "biển p.111a cấm xe gắn máy",
+        "xe 50cc có bị cấm như xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người lái xe 50cc tự tìm đường trong phố",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-006",
+      "child_id": "C-XE-50CC",
+      "title": "Vượt xe khác bằng xe 50cc: khi nào đủ lực để vượt và khi nào nên bám sau chờ đoạn đường thoáng",
+      "intent": "Biết cách đánh giá khoảng trống, tốc độ xe phía trước và sức kéo hạn chế của xe 50cc để quyết định vượt hay chờ, tránh bị kẹt giữa hai làn khi đang vượt trên đường Hà Nội.",
+      "kw": "vượt xe bằng xe 50cc",
+      "kw2": [
+        "xe 50cc có nên vượt xe tải",
+        "vượt xe an toàn khi xe yếu lực"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người lái xe 50cc đã quen phố, bắt đầu đi đường lớn",
+      "location_scope": "các trục đường lớn và ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-007",
+      "child_id": "C-XE-50CC",
+      "title": "Từ ngõ nhỏ ra đường lớn bằng xe 50cc: chờ khoảng trống đủ dài và nhập làn sát lề phải",
+      "intent": "Biết cách quan sát, ước lượng khoảng trống và nhập làn từ ngõ ra đường chính khi xe 50cc tăng tốc chậm, để không cắt ngang dòng xe đang chạy nhanh trên các trục đường Hà Nội.",
+      "kw": "xe 50cc từ ngõ ra đường lớn",
+      "kw2": [
+        "nhập làn bằng xe 50cc",
+        "ra đường chính từ ngõ an toàn"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người ở trọ trong ngõ đi xe 50cc hằng ngày",
+      "location_scope": "các ngõ đổ ra Trường Chinh, Giải Phóng, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-008",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc lên xuống dốc đê Yên Phụ, Nghi Tàm, Âu Cơ: dốc ngắn mà gắt vào các ngõ ven sông Hồng",
+      "intent": "Biết cách xuất phát lên dốc đê, giữ ga đều và phanh khi xuống những con dốc ngắn, gắt nối đường đê với khu dân cư ven sông Hồng bằng chiếc xe 50cc ít lực.",
+      "kw": "xe 50cc lên dốc đê",
+      "kw2": [
+        "dốc đê âu cơ nghi tàm",
+        "đi xe máy đường đê yên phụ"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách ở homestay ven đê Tây Hồ, Ba Đình đi xe 50cc",
+      "location_scope": "đường đê Yên Phụ, Nghi Tàm, Âu Cơ, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-009",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc bỗng chạy ì, nặng hơn mọi ngày: kiểm tra lốp non, phanh bó và tải chở trước khi nghĩ đến máy",
+      "intent": "Biết cách tự kiểm tra nhanh những nguyên nhân ngoài động cơ làm xe 50cc chạy ì như lốp non, phanh bó, chở quá sức và khi nào cần dừng lại báo cửa hàng.",
+      "kw": "xe 50cc chạy ì",
+      "kw2": [
+        "xe 50cc yếu máy",
+        "lốp non xe 50cc"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người đang thuê xe 50cc thấy xe kém bốc",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-010",
+      "child_id": "C-XE-50CC",
+      "title": "Đi quen xe 50cc rồi chuyển lên xe 110cc: lực kéo, trọng lượng và phanh khác nhau ra sao",
+      "intent": "Hiểu những khác biệt về lực kéo, trọng lượng, phanh và điều kiện bằng lái khi chuyển từ xe 50cc sang xe 110cc như Wave, để vài ngày đầu đi xe mới không bị bất ngờ.",
+      "kw": "từ xe 50cc lên xe 110cc",
+      "kw2": [
+        "chuyển từ xe 50cc sang xe số",
+        "đi xe 50cc rồi đi wave"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người mới có bằng A1, trước đây chỉ đi xe 50cc",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-011",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc đi sát lề phải: xe ra từ ngõ, taxi tấp lề đón khách và người bước xuống lòng đường",
+      "intent": "Nắm những tình huống bất ngờ ở dải sát lề phải nơi xe 50cc thường chạy như xe ra từ ngõ, taxi tấp lề, người bước xuống đường và biết cách giữ khoảng cách để kịp xử lý.",
+      "kw": "xe 50cc đi sát lề",
+      "kw2": [
+        "nguy hiểm khi đi sát lề phải",
+        "xe ra từ ngõ bất ngờ"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người đi xe 50cc chạy chậm trong phố đông",
+      "location_scope": "các phố nhiều ngõ và cửa hàng mặt đường ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-012",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc muốn rẽ trái trên đường nhiều làn: sang làn sớm hay đi thẳng tới điểm quay đầu",
+      "intent": "Lên kế hoạch rẽ trái khi đang đi xe 50cc sát lề phải trên đường nhiều làn, biết lúc nào nên chuyển làn sớm và lúc nào đi tiếp tới điểm quay đầu hợp lệ cho an toàn.",
+      "kw": "xe 50cc rẽ trái đường lớn",
+      "kw2": [
+        "rẽ trái khi xe chạy chậm",
+        "chuyển làn rẽ trái bằng xe 50cc"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người đi xe 50cc trên các trục đường nhiều làn",
+      "location_scope": "Láng, Trường Chinh, Phạm Văn Đồng, Lê Văn Lương",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-013",
+      "child_id": "C-XE-50CC",
+      "title": "Đi xe 50cc mất bao lâu từ phố cổ đến Cầu Giấy, Mỹ Đình, Long Biên, Hà Đông: ước giờ đi cho đúng hẹn",
+      "intent": "Lên kế hoạch thời gian di chuyển bằng xe 50cc giữa phố cổ và các khu Cầu Giấy, Mỹ Đình, Long Biên, Hà Đông, có tính giờ cao điểm, đèn đỏ và thời gian gửi xe để đến đúng hẹn.",
+      "kw": "xe 50cc đi mất bao lâu",
+      "kw2": [
+        "thời gian đi xe 50cc trong hà nội",
+        "từ phố cổ đi mỹ đình bằng xe 50cc"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách ở phố cổ có lịch hẹn ở quận khác",
+      "location_scope": "phố cổ, Cầu Giấy, Mỹ Đình, Long Biên, Hà Đông",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-014",
+      "child_id": "C-XE-50CC",
+      "title": "Lịch trình 3 ngày ở Hà Nội vừa sức xe 50cc: mỗi ngày một cụm điểm, quãng ngắn và nghỉ giữa trưa",
+      "intent": "Lên kế hoạch ba ngày khám phá Hà Nội bằng xe 50cc, chia điểm đến theo cụm gần nhau, giữ quãng đường mỗi ngày vừa sức xe và tránh giờ cao điểm cùng nắng trưa.",
+      "kw": "lịch trình 3 ngày bằng xe 50cc",
+      "kw2": [
+        "du lịch hà nội bằng xe 50cc",
+        "đi chơi hà nội 3 ngày bằng xe nhỏ"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách du lịch thuê xe 50cc ba ngày",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ, Long Biên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-015",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc đi làng cổ Đông Ngạc và đình Chèm: đường từ Phạm Văn Đồng, ngõ làng hẹp và chỗ dừng xe",
+      "intent": "Lên kế hoạch đi xe 50cc từ nội thành tới làng cổ Đông Ngạc và đình Chèm ở Bắc Từ Liêm, biết tuyến đường, đoạn ngõ hẹp cần dắt xe và chỗ dừng khi thăm di tích.",
+      "kw": "xe 50cc đi làng cổ đông ngạc",
+      "kw2": [
+        "đường đi đình chèm bằng xe máy",
+        "làng đông ngạc đi xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách thích làng cổ, đi xe 50cc nửa ngày",
+      "location_scope": "Đông Ngạc, Thụy Phương, Bắc Từ Liêm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-016",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc đi làng rèn Đa Sỹ, Hà Đông: đường vào, ngõ làng và giờ các lò rèn còn đỏ lửa",
+      "intent": "Lên kế hoạch đi xe 50cc tới làng rèn Đa Sỹ ở Kiến Hưng, Hà Đông, biết hướng đi từ nội thành, cách đi trong ngõ làng và khung giờ nên ghé để xem thợ làm việc.",
+      "kw": "xe 50cc đi làng rèn đa sỹ",
+      "kw2": [
+        "làng rèn đa sỹ đi xe máy",
+        "đường đến làng đa sỹ hà đông"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách du lịch thích làng nghề quanh Hà Nội",
+      "location_scope": "Kiến Hưng, Hà Đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-017",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc đi làng hoa Tây Tựu: đường làng hẹp, xe chở hoa và cách mang bó hoa về không dập",
+      "intent": "Lên kế hoạch đi xe 50cc tới làng hoa Tây Tựu, biết đường từ nội thành, cách đi trên đường làng hẹp có xe chở hoa và cách buộc giữ bó hoa trên chiếc xe nhỏ.",
+      "kw": "xe 50cc đi làng hoa tây tựu",
+      "kw2": [
+        "đường đến làng hoa tây tựu",
+        "chở hoa bằng xe 50cc"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người thích chụp ảnh và mua hoa tận vườn",
+      "location_scope": "Tây Tựu, Bắc Từ Liêm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-018",
+      "child_id": "C-XE-50CC",
+      "title": "Mùa cốm làng Vòng bằng xe 50cc: tìm ngõ vào Dịch Vọng Hậu, dừng xe mua cốm và giữ cốm không nát",
+      "intent": "Lên kế hoạch đi xe 50cc mua cốm làng Vòng vào mùa thu, biết cách tìm các ngõ làm cốm ở Cầu Giấy, dừng xe đúng chỗ và mang cốm về không bị nát.",
+      "kw": "xe 50cc đi làng cốm vòng",
+      "kw2": [
+        "mùa cốm làng vòng",
+        "mùa cốm hà nội đi xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người muốn mua cốm tươi tận làng",
+      "location_scope": "Dịch Vọng Hậu, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-019",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc vào làng bún Phú Đô lúc sáng sớm: ngõ hẹp, xe chở bún ra chợ và mặt đường ướt",
+      "intent": "Biết cách đi xe 50cc vào làng bún Phú Đô lúc rạng sáng để xem làm bún, nhường xe chở hàng trong ngõ hẹp và giữ xe vững trên mặt đường ướt nước.",
+      "kw": "xe 50cc đi làng bún phú đô",
+      "kw2": [
+        "làng bún phú đô đi xe máy",
+        "xem làm bún phú đô sáng sớm"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách thích ẩm thực, muốn xem làng nghề buổi sớm",
+      "location_scope": "Phú Đô, Nam Từ Liêm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-020",
+      "child_id": "C-XE-50CC",
+      "title": "Cư dân Ocean Park, Gia Lâm đi xe 50cc: quãng ngắn trong khu đô thị và ra Trâu Quỳ, Đa Tốn",
+      "intent": "Lên kế hoạch dùng xe 50cc cho các chuyến ngắn hằng ngày trong khu đô thị Ocean Park và quanh Trâu Quỳ, Đa Tốn, biết đoạn nào xe nhỏ đi thoải mái và lúc nào nên chọn cách khác.",
+      "kw": "xe 50cc ở ocean park",
+      "kw2": [
+        "đi lại trong ocean park bằng xe máy",
+        "xe máy nhỏ đi trong khu đô thị"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "cư dân và người thuê nhà ngắn hạn ở Ocean Park",
+      "location_scope": "Ocean Park, Trâu Quỳ, Đa Tốn, Gia Lâm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-021",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc lên Ba Vì hay Tam Đảo có nổi không: quãng đường xa, dốc núi dài và phanh nóng khi xuống",
+      "intent": "Hiểu giới hạn của xe 50cc trên các cung đường núi gần Hà Nội như Ba Vì, Tam Đảo, gồm quãng đường dài, dốc dài và phanh nóng, để quyết định có nên đi hay đổi phương án.",
+      "kw": "xe 50cc đi ba vì tam đảo",
+      "kw2": [
+        "xe 50cc leo dốc núi",
+        "xe 50cc đi đường đèo"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người chưa có bằng muốn đi chơi núi gần Hà Nội",
+      "location_scope": "Ba Vì, Tam Đảo",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-022",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc đi làng nón Chuông và làng cổ Cự Đà, Thanh Oai: tuyến qua Hà Đông, đường làng và chỗ nghỉ",
+      "intent": "Lên kế hoạch một buổi đi xe 50cc qua Hà Đông tới làng nón Chuông và làng cổ Cự Đà ở Thanh Oai, chia quãng đường, chọn chỗ nghỉ và về trước giờ cao điểm chiều.",
+      "kw": "xe 50cc đi làng chuông",
+      "kw2": [
+        "làng nón chuông đi xe máy",
+        "đường đi làng cự đà"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách thích làng nghề, đi xe 50cc nửa ngày đến một ngày",
+      "location_scope": "Cự Khê, Phương Trung, Thanh Oai",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-023",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc nhỏ gọn có nên len giữa hai hàng ô tô khi kẹt xe: gương ô tô, cửa xe và điểm mù",
+      "intent": "Hiểu rủi ro khi lách xe 50cc vào khe giữa hai hàng ô tô lúc kẹt xe, gồm gương va quẹt, cửa mở và điểm mù, để chọn vị trí chờ an toàn hơn trong dòng xe Hà Nội.",
+      "kw": "xe 50cc len giữa ô tô",
+      "kw2": [
+        "lách xe máy giữa hai hàng ô tô",
+        "điểm mù ô tô với xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người đi xe 50cc trong giờ kẹt xe",
+      "location_scope": "Trần Duy Hưng, Nguyễn Chí Thanh, Láng Hạ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-024",
+      "child_id": "C-XE-50CC",
+      "title": "Đi xe 50cc qua khu trường học giờ tan trường: xe đạp điện học sinh, phụ huynh dừng đón và giữ làn",
+      "intent": "Biết cách đi xe 50cc qua khu trường học giờ tan trường ở Hà Nội, giữ làn giữa dòng xe đạp điện học sinh, xe phụ huynh dừng đón và trẻ em sang đường bất ngờ.",
+      "kw": "xe 50cc giờ tan trường",
+      "kw2": [
+        "đi qua cổng trường giờ tan học",
+        "xe đạp điện học sinh trên đường"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "người đi làm về bằng xe 50cc qua khu trường học",
+      "location_scope": "các phố có trường học ở Cầu Giấy, Đống Đa, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-006-025",
+      "child_id": "C-XE-50CC",
+      "title": "Xe 50cc dạo khu phố Pháp: đường rộng ô tô chạy nhanh, đèn tín hiệu dày và chỗ dừng quanh Nhà hát Lớn",
+      "intent": "Lên kế hoạch dạo khu phố Pháp bằng xe 50cc, biết cách giữ làn trên các đường rộng như Lý Thường Kiệt, Trần Hưng Đạo, canh đèn tín hiệu dày và tìm chỗ dừng xe quanh Nhà hát Lớn.",
+      "kw": "xe 50cc dạo khu phố pháp",
+      "kw2": [
+        "khu phố pháp hà nội đi xe máy",
+        "đường quanh nhà hát lớn"
+      ],
+      "links": [
+        "/xe-may/xe-50cc/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-006",
+      "audience": "khách du lịch đi xe 50cc trong trung tâm",
+      "location_scope": "Tràng Tiền, Lý Thường Kiệt, Trần Hưng Đạo, Ngô Quyền",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-001",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Tập phanh dừng đúng vạch ở bãi trống: luyện cự ly phanh xe máy trước khi ra phố Hà Nội",
+      "intent": "Biết cách tự dựng bài tập phanh dừng đúng điểm ở bãi trống, tăng dần tốc độ, phối hợp hai tay phanh và ghi nhớ quãng dừng thực tế của chiếc xe đang thuê trước khi vào phố đông.",
+      "kw": "tập phanh xe máy dừng đúng điểm",
+      "kw2": [
+        "bài tập phanh xe máy",
+        "luyện phanh ở bãi trống"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái và người lâu không cầm lái",
+      "location_scope": "bãi trống, khu đô thị mới vắng xe ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-002",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Tập lượn zíc zắc qua hàng cọc bằng xe máy: đổi hướng liên tục ở tốc độ chậm mà không chống chân",
+      "intent": "Biết cách xếp hàng cọc hoặc chai nước làm bài tập lượn, giữ ga nhỏ, nhìn trước hai cọc và nghiêng xe nhẹ để đổi hướng liên tục mà không phải chống chân hay phanh gấp.",
+      "kw": "tập lượn zíc zắc xe máy",
+      "kw2": [
+        "bài tập lượn cọc xe máy",
+        "luyện đổi hướng tốc độ chậm"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái muốn chắc tay lái trước khi vào ngõ hẹp",
+      "location_scope": "sân rộng, bãi trống vắng xe ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-003",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đánh lái ngược trên xe máy: vì sao đẩy nhẹ tay lái bên trái lại làm xe nghiêng và rẽ sang trái",
+      "intent": "Hiểu cơ chế đánh lái ngược khi xe đã chạy đủ nhanh, cảm nhận lực đẩy nhẹ vào tay lái phía muốn rẽ và tập dần trên đường vắng để đổi hướng dứt khoát, chính xác hơn.",
+      "kw": "đánh lái ngược xe máy",
+      "kw2": [
+        "countersteering xe máy",
+        "đẩy tay lái để nghiêng xe"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đã lái quen trong phố muốn hiểu sâu cách xe đổi hướng",
+      "location_scope": "đường vắng, đường gom ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-004",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Nhìn chằm chằm vào ổ gà lại lao thẳng vào nó: tập đưa mắt về lối thoát khi đi xe máy",
+      "intent": "Hiểu hiện tượng xe đi theo hướng mắt nhìn, nhận ra thói quen dán mắt vào chướng ngại vật và tập chuyển ánh nhìn sang khoảng trống an toàn để tay lái tự đi theo.",
+      "kw": "nhìn đâu xe đi đó",
+      "kw2": [
+        "nhìn chằm chằm vào chướng ngại",
+        "ánh mắt dẫn hướng xe máy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái hay giật mình trước ổ gà, vật cản",
+      "location_scope": "phố nội đô và đường ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-005",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Rẽ phải ở góc phố hẹp bằng xe máy: sát lề phải, nhường người đi bộ, không ôm rộng ra giữa đường",
+      "intent": "Biết cách chuẩn bị rẽ phải từ sớm, đi sát mép phải, quan sát người đi bộ ở góc phố, rẽ gọn trong làn mình và hiểu chỉ rẽ phải khi đèn đỏ nếu có biển cho phép.",
+      "kw": "cách rẽ phải xe máy",
+      "kw2": [
+        "rẽ phải góc phố hẹp",
+        "rẽ phải khi đèn đỏ xe máy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái trong phố cũ",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-006",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đeo găng tay dày khi lái xe máy mùa đông Hà Nội: giữ cảm giác tay ga, tay phanh và nút xi nhan",
+      "intent": "Biết cách chọn găng tay đủ ấm mà không quá dày, thử ga, phanh, còi, xi nhan khi còn đứng yên và chỉnh cách cầm để không vặn ga hay bóp phanh quá tay khi trời rét.",
+      "kw": "găng tay lái xe máy mùa đông",
+      "kw2": [
+        "đeo găng tay đi xe máy",
+        "găng tay dày bóp phanh"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đi làm sớm bằng xe máy thuê những ngày rét",
+      "location_scope": "Hà Nội mùa đông, các tuyến ven sông và cầu lớn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-007",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Liếc đồng hồ tốc độ khi đang lái xe máy: nhìn lúc nào, bao lâu và đoán tốc độ bằng cảm giác",
+      "intent": "Biết cách chọn thời điểm an toàn để liếc đồng hồ tốc độ thật nhanh, không rời mắt khỏi đường quá lâu, và tập cảm nhận tốc độ qua tiếng gió, tiếng máy và cảnh vật lướt qua.",
+      "kw": "liếc đồng hồ tốc độ xe máy",
+      "kw2": [
+        "ước lượng tốc độ xe máy",
+        "nhìn đồng hồ khi đang lái"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái chưa quen ước lượng tốc độ",
+      "location_scope": "nội đô và đường vành đai Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-008",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Giữ khoảng cách ngang với xe máy bên cạnh trong dòng xe đông Hà Nội: tránh va gương, chạm tay lái",
+      "intent": "Biết cách giữ khoảng trống hai bên thân xe khi đi giữa đàn xe máy dày, nhận ra xe bên cạnh sắp lạng sang và giữ lái thẳng, không giật tay khi lỡ chạm nhẹ gương hay tay lái.",
+      "kw": "khoảng cách ngang khi đi xe máy",
+      "kw2": [
+        "đi xe máy sát nhau",
+        "chạm tay lái xe bên cạnh"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đi làm giờ cao điểm",
+      "location_scope": "các trục đông xe như Nguyễn Trãi, Giải Phóng, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-009",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Bánh xe máy tụt khỏi mép đường bê tông hẹp ở ngoại thành: giảm ga, giữ thẳng rồi mới leo lên",
+      "intent": "Hiểu vì sao giật lái leo ngược lên mép bê tông cao dễ gây ngã, biết cách giữ bánh xa mép khi tránh xe ngược chiều và xử lý từng bước khi một bánh đã rơi xuống lề đất.",
+      "kw": "xe máy tụt mép đường bê tông",
+      "kw2": [
+        "đường bê tông hẹp ngoại thành",
+        "bánh xe rơi xuống lề đất"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người thuê xe đi làng nghề, đường liên thôn",
+      "location_scope": "đường liên thôn ở Đông Anh, Gia Lâm, Thanh Oai và vùng ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-010",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đặt sẵn ngón tay trên tay phanh khi đi phố đông: phản xạ nhanh hơn mà không thành rà phanh",
+      "intent": "Hiểu lợi ích của việc đặt hờ hai ngón tay trên tay phanh ở đoạn đông xe, biết khi nào nên làm, khi nào nên thôi, và cách tránh rà phanh liên tục làm sáng đèn phanh vô cớ.",
+      "kw": "đặt ngón tay sẵn trên tay phanh",
+      "kw2": [
+        "che phanh khi đi xe máy",
+        "rà phanh tay xe máy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái trong phố đông",
+      "location_scope": "phố cũ và trục đông xe nội đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-011",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Quên tắt xi nhan sau khi rẽ xe máy: xe khác hiểu sai thế nào và tập thói quen bấm tắt ngay",
+      "intent": "Hiểu vì sao xi nhan trên xe máy phổ thông không tự tắt, nhận ra nguy cơ xe khác tưởng mình sắp rẽ, và tạo thói quen nhìn đèn báo trên đồng hồ sau mỗi lần rẽ.",
+      "kw": "quên tắt xi nhan xe máy",
+      "kw2": [
+        "xi nhan không tự tắt",
+        "tắt xi nhan sau khi rẽ"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái và người quen lái ô tô",
+      "location_scope": "nội đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-012",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đầu xe máy lắc qua lại khi chạy nhanh trên đường thẳng: thả lỏng tay, nhả ga từ từ và dừng kiểm tra",
+      "intent": "Biết cách phản ứng khi tay lái tự lắc ở tốc độ cao: không ghì chặt, không phanh gấp, giảm ga dần, rồi tấp vào kiểm tra lốp, tải phía sau và báo cửa hàng trước khi đi tiếp.",
+      "kw": "xe máy lắc đầu khi chạy nhanh",
+      "kw2": [
+        "tay lái lắc lư tốc độ cao",
+        "tay lái tự lắc khi chạy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người thuê xe chạy đường dài ra ngoại thành",
+      "location_scope": "các trục đường thẳng dài từ Hà Nội ra ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-013",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Buộc phải rời một tay khỏi tay lái khi đang chạy: chọn lúc, giữ ga đều và đặt tay lại thật nhanh",
+      "intent": "Biết những lúc buộc phải rời một tay như ra hiệu, lau kính hay chỉnh mũ, cách chọn đoạn đường thẳng vắng để làm, giữ tay ga ổn định và vì sao không bao giờ buông cả hai tay.",
+      "kw": "rời một tay khỏi tay lái",
+      "kw2": [
+        "lái xe máy một tay",
+        "buông tay lái khi đang chạy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái và khách du lịch tự lái",
+      "location_scope": "nội đô và ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-014",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Thả chân lê đất khi bò chậm trong kẹt xe: vì sao dễ bị bánh xe cán và cách giữ chân trên xe",
+      "intent": "Hiểu nguy cơ khi thả chân quét đất lúc xe còn lăn trong kẹt xe như bị bánh xe khác cán, vướng bánh sau hay trẹo cổ chân, và tập chỉ đặt chân xuống khi xe đã dừng hẳn.",
+      "kw": "lê chân khi đi xe máy",
+      "kw2": [
+        "chống chân khi xe còn lăn",
+        "bị cán chân khi kẹt xe"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đi làm qua các điểm kẹt xe giờ cao điểm",
+      "location_scope": "các nút hay ùn tắc ở nội đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-015",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đèn tín hiệu có số đếm ngược ở ngã tư Hà Nội: dùng số giây để nhả ga sớm và không xuất phát trước giờ",
+      "intent": "Biết cách đọc số đếm ngược của đèn xanh, đèn đỏ để quyết định giảm tốc dừng êm từ xa, không cố vượt khi chỉ còn ít giây và không nhích xe khi đèn đỏ sắp hết.",
+      "kw": "đèn đếm ngược ngã tư xe máy",
+      "kw2": [
+        "đọc đèn giao thông đếm ngược",
+        "đèn đỏ sắp hết có được đi"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái và khách mới đến Hà Nội",
+      "location_scope": "các ngã tư có đèn đếm ngược ở nội đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-016",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Cua trái và cua phải liên tiếp trên đường đèo hai chiều: chọn vị trí trong làn để không lấn tâm đường",
+      "intent": "Biết cách chọn vị trí trong làn khi vào cua trái và cua phải nối tiếp trên đường dốc núi hai chiều, nhìn qua khúc cua khuất và giữ nhịp ga để xe không văng ra tâm đường.",
+      "kw": "vị trí trong làn khi vào cua",
+      "kw2": [
+        "cua liên tiếp đường đèo",
+        "không lấn làn khi ôm cua"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người thuê xe đi đường núi cuối tuần",
+      "location_scope": "đường lên Tam Đảo, Ba Vì và các cung đèo gần Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-017",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Xe máy sắp đổ ở tốc độ chậm: buông xe, không chống thẳng tay xuống đất và kéo chân ra khỏi thân xe",
+      "intent": "Hiểu cách tự bảo vệ khi xe chắc chắn sẽ đổ ở tốc độ thấp: nhận ra lúc không cứu được xe, buông tay lái, tránh chống thẳng tay gây chấn thương cổ tay và giữ chân không bị kẹp.",
+      "kw": "cách ngã xe máy an toàn",
+      "kw2": [
+        "xe đổ ở tốc độ chậm",
+        "chống tay khi ngã xe máy"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái và người tập lại sau thời gian dài",
+      "location_scope": "ngõ hẹp, bãi gửi xe và đường đông ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-018",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Bánh trước xe máy bị trượt khi bóp phanh trên mặt đường bụi cát: nhả ngay phanh trước để bánh lăn lại",
+      "intent": "Hiểu dấu hiệu bánh trước bị khóa và trượt khi phanh trên cát bụi hay mặt đường trơn, biết phản xạ nhả phanh trước tức thì, giữ tay lái thẳng rồi phanh lại nhẹ tay hơn.",
+      "kw": "bánh trước xe máy bị trượt",
+      "kw2": [
+        "khóa bánh trước khi phanh",
+        "phanh trước trên đường cát"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người lái xe thuê qua khu công trình, đường ven đô",
+      "location_scope": "đường gần công trình, đường đất cát ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-019",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Mặt đường hằn lún vệt bánh xe tải trên quốc lộ ra Hà Nội: xe máy đi trong rãnh hay đi trên gờ",
+      "intent": "Hiểu vì sao vệt hằn lún làm xe máy bị kéo lệch hướng, biết chọn đi trong lòng vệt hay trên phần phẳng, và cách cắt ngang gờ lún với góc lớn khi cần đổi làn.",
+      "kw": "đường hằn lún vệt bánh xe",
+      "kw2": [
+        "xe máy đi qua vệt lún",
+        "cắt ngang gờ lún quốc lộ"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người thuê xe đi tỉnh lân cận theo quốc lộ",
+      "location_scope": "Quốc lộ 6, Quốc lộ 32 và các tuyến xe tải ra vào Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-020",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Qua cầu dân sinh hẹp không lan can ở ngoại thành bằng xe máy: đi giữa cầu, không dừng, nhường xe đã lên",
+      "intent": "Biết cách quan sát hai đầu cầu dân sinh hẹp bắc qua kênh mương, nhường xe đã lên cầu trước, giữ bánh ở giữa mặt cầu với tốc độ đều và không dừng hay quay đầu giữa cầu.",
+      "kw": "qua cầu dân sinh hẹp xe máy",
+      "kw2": [
+        "cầu bê tông không lan can",
+        "cầu qua kênh mương ngoại thành"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người thuê xe đi làng quê, làng nghề ven đô",
+      "location_scope": "các xã ven kênh mương phía nam và tây nam Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-021",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Dịch người trên yên khi lên dốc và xuống dốc bằng xe máy: dồn trọng tâm để hai bánh bám đường",
+      "intent": "Hiểu trọng tâm thay đổi thế nào khi xe lên hoặc xuống dốc, biết cách nhích người về trước hay về sau trên yên, giữ tay lỏng và kẹp nhẹ đầu gối cho thân xe vững.",
+      "kw": "dồn trọng tâm khi lên dốc",
+      "kw2": [
+        "tư thế ngồi khi xuống dốc",
+        "ngồi nhích lên khi leo dốc"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái gặp dốc đê, dốc hầm, đường đồi",
+      "location_scope": "dốc đê sông Hồng, dốc hầm gửi xe và đường đồi Sóc Sơn, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-022",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Nhìn đèn hậu xe phía trước khi đi xe máy ban đêm: ước lượng khoảng cách và nhận ra xe đang phanh",
+      "intent": "Biết cách dùng độ lớn, độ sáng của đèn hậu và đèn phanh xe phía trước để ước lượng khoảng cách ban đêm, nhận ra xe sắp giảm tốc và giữ khoảng cách rộng hơn ban ngày.",
+      "kw": "đèn hậu xe phía trước ban đêm",
+      "kw2": [
+        "ước lượng khoảng cách ban đêm",
+        "đèn phanh xe trước sáng"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đi làm về muộn và khách đi chơi tối",
+      "location_scope": "đường vành đai và ven đô Hà Nội về đêm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-023",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Dừng sau xe khác trên dốc cầu khi kẹt xe: chừa khoảng phòng xe phía trước tụt lùi lúc xuất phát",
+      "intent": "Biết cách chọn chỗ dừng cách xe phía trước đủ xa khi kẹt trên dốc cầu hay dốc hầm, nhận ra xe nào dễ tụt lùi và luôn có chỗ né khi dòng xe bắt đầu nhích lên.",
+      "kw": "dừng sau xe khác trên dốc",
+      "kw2": [
+        "xe phía trước tụt lùi trên dốc",
+        "kẹt xe trên dốc cầu"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đi làm qua cầu giờ cao điểm",
+      "location_scope": "dốc cầu Chương Dương, Vĩnh Tuy và dốc hầm gửi xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-024",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Đi xe máy qua đoạn phố nhiều bóng cây, nắng loang lổ: mắt khó thấy ổ gà và người bất ngờ bước ra",
+      "intent": "Hiểu vì sao vệt sáng tối xen kẽ dưới tán cây làm mắt chậm thích nghi, khó thấy ổ gà và người bước ra, biết cách giảm tốc, nhìn xa và nới khoảng cách trên những đoạn phố như vậy.",
+      "kw": "phố bóng cây nắng loang lổ",
+      "kw2": [
+        "sáng tối xen kẽ khi đi xe máy",
+        "mắt khó thích nghi dưới tán cây"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người đi xe máy ban ngày trong phố cũ",
+      "location_scope": "Phan Đình Phùng, Hoàng Diệu và các phố cây cổ thụ ở Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-007-025",
+      "child_id": "C-KY-NANG-CO-BAN",
+      "title": "Lái xe phòng thủ khi đi xe máy ở Hà Nội: coi như người khác chưa thấy mình và luôn chừa đường thoát",
+      "intent": "Nắm tư duy lái xe phòng thủ cho người đi xe máy: giả định mình chưa được nhìn thấy, đứng ở vị trí dễ thấy, chừa khoảng trống thoát hiểm và chuẩn bị sẵn phương án trước mỗi tình huống.",
+      "kw": "lái xe máy phòng thủ",
+      "kw2": [
+        "kỹ năng lái xe phòng thủ",
+        "đi xe máy an toàn chủ động"
+      ],
+      "links": [
+        "/ky-nang/ky-nang-lai-co-ban/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-007",
+      "audience": "người mới lái và khách tự lái lần đầu ở Hà Nội",
+      "location_scope": "nội đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-001",
+      "child_id": "C-HONDA-VISION",
+      "title": "Đổ xăng Honda Vision thuê: mở yên bằng chìa hoặc núm khóa thông minh, tìm nắp bình dưới yên và đổ vừa đủ",
+      "intent": "Biết cách mở yên Honda Vision bằng chìa cơ hoặc núm khóa thông minh, mở và đóng nắp bình xăng đúng thao tác, chọn loại xăng và đổ vừa đủ tại cây xăng ở Hà Nội.",
+      "kw": "đổ xăng honda vision",
+      "kw2": [
+        "nắp bình xăng honda vision",
+        "mở yên vision để đổ xăng"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người thuê Honda Vision lần đầu tự đổ xăng",
+      "location_scope": "cây xăng nội thành Hà Nội và Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-002",
+      "child_id": "C-HONDA-VISION",
+      "title": "Đọc đồng hồ Honda Vision thuê: kim tốc độ, vạch báo xăng, số km tổng và ý nghĩa các đèn báo trên mặt đồng hồ",
+      "intent": "Hiểu từng thông tin trên mặt đồng hồ Honda Vision gồm tốc độ, vạch xăng, số km và các đèn báo để theo dõi xe khi chạy và biết lúc nào cần dừng hỏi tiệm.",
+      "kw": "đồng hồ honda vision",
+      "kw2": [
+        "đèn báo trên đồng hồ vision",
+        "xem số km honda vision"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người mới lái xe ga và khách du lịch thuê Honda Vision",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-003",
+      "child_id": "C-HONDA-VISION",
+      "title": "Nhận biết phiên bản Honda Vision đang thuê: chìa cơ hay khóa thông minh, đời cũ hay mới và khác gì khi dùng",
+      "intent": "Nắm cách nhận ra chiếc Honda Vision mình thuê là bản chìa cơ hay khóa thông minh, đời cũ hay đời mới, để mở máy, mở yên và dùng tiện ích trên xe cho đúng.",
+      "kw": "phiên bản honda vision",
+      "kw2": [
+        "vision bản tiêu chuẩn và cao cấp",
+        "phân biệt các đời honda vision"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người thuê xe chưa quen các đời Honda Vision",
+      "location_scope": "Hà Nội, lúc nhận xe tại tiệm ở Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-004",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision bản chìa cơ: mở nắp khóa từ, khóa cổ và mở yên đúng thứ tự cho người mới nhận xe thuê",
+      "intent": "Biết cách dùng ổ khóa đa năng trên Honda Vision bản chìa cơ: mở và đóng nắp khóa từ, bẻ lái khóa cổ, mở yên và rút chìa đúng thứ tự mỗi lần gửi xe.",
+      "kw": "honda vision chìa cơ",
+      "kw2": [
+        "khóa từ honda vision",
+        "khóa cổ honda vision"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người mới nhận Honda Vision bản dùng chìa",
+      "location_scope": "phố cổ, chợ và bãi gửi xe ngoài trời ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-005",
+      "child_id": "C-HONDA-VISION",
+      "title": "Nhận Honda Vision thuê tại tiệm: chụp ảnh thân xe, thử phanh, còi, đèn và ghi mức xăng trước khi lăn bánh",
+      "intent": "Biết cách kiểm tra nhanh chiếc Honda Vision khi nhận tại tiệm: chụp ảnh các góc xe, thử phanh, còi, đèn, xi nhan, ghi mức xăng và hỏi rõ điều còn thắc mắc trước khi đi.",
+      "kw": "nhận xe honda vision thuê",
+      "kw2": [
+        "kiểm tra honda vision khi nhận",
+        "chụp ảnh xe thuê khi nhận"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách thuê Honda Vision theo ngày hoặc theo tuần",
+      "location_scope": "tiệm ở Bồ Đề, Long Biên và điểm hẹn nhận xe",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-006",
+      "child_id": "C-HONDA-VISION",
+      "title": "Nhược điểm của Honda Vision khi thuê: bình xăng nhỏ, bánh nhỏ, máy 110cc và những chuyến nên chọn xe khác",
+      "intent": "Hiểu rõ những hạn chế của Honda Vision như bình xăng nhỏ, bánh nhỏ, máy 110cc và cốp vừa phải để quyết định có nên thuê cho lịch trình và người đi cùng mình.",
+      "kw": "nhược điểm honda vision",
+      "kw2": [
+        "honda vision có nhược điểm gì",
+        "vision không hợp với chuyến nào"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người đang cân nhắc thuê Honda Vision",
+      "location_scope": "Hà Nội và các chuyến ngoại thành trong ngày",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-007",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision đang chạy bỗng tắt máy: tấp vào lề an toàn, kiểm tra xăng, chân chống bên và gọi tiệm cho thuê",
+      "intent": "Biết cách xử lý khi Honda Vision tắt máy giữa đường: bật xi nhan tấp vào lề, kiểm tra xăng, chân chống bên, thử đề lại đúng cách và gọi tiệm khi xe vẫn không nổ.",
+      "kw": "honda vision tự tắt máy",
+      "kw2": [
+        "vision chết máy giữa đường",
+        "xe vision đang chạy bị tắt"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người đang đi Honda Vision thuê trong phố",
+      "location_scope": "đường phố và ngã tư đông xe ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-008",
+      "child_id": "C-HONDA-VISION",
+      "title": "Lỡ làm đổ Honda Vision khi dắt hoặc dựng xe: cách dựng lại, kiểm tra gương, tay phanh, ốp nhựa và báo tiệm",
+      "intent": "Biết cách dựng chiếc Honda Vision bị đổ nghiêng mà không đau lưng, rồi kiểm tra gương, tay phanh, ốp nhựa, dấu hiệu rò xăng và báo tiệm trước khi chạy tiếp.",
+      "kw": "honda vision bị đổ",
+      "kw2": [
+        "dựng xe vision bị ngã",
+        "làm đổ xe ga thuê"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người nhỏ con hoặc mới làm quen xe ga",
+      "location_scope": "bãi gửi xe, vỉa hè và ngõ nhỏ ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-009",
+      "child_id": "C-HONDA-VISION",
+      "title": "Nhóm bạn thuê nhiều Honda Vision cùng màu: đánh dấu từng xe, giữ đúng chìa hoặc remote và tìm xe ở bãi gửi",
+      "intent": "Lên kế hoạch cho nhóm thuê nhiều Honda Vision giống nhau: ghi biển số, đánh dấu xe mà không làm hỏng sơn, giao chìa hoặc remote cho từng người và tìm đúng xe ở bãi gửi chung.",
+      "kw": "nhóm thuê nhiều xe vision",
+      "kw2": [
+        "phân biệt xe vision giống nhau",
+        "nhóm bạn thuê honda vision"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "nhóm bạn hoặc gia đình 3 đến 6 người thuê cùng dòng xe",
+      "location_scope": "phố cổ, Hồ Tây và các bãi gửi xe đông ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-010",
+      "child_id": "C-HONDA-VISION",
+      "title": "Đi thành Cổ Loa bằng Honda Vision thuê: chọn cầu sang Đông Anh, gửi xe và dạo khu di tích trong nửa ngày",
+      "intent": "Lên kế hoạch nửa ngày đi thành Cổ Loa bằng Honda Vision: chọn cầu và tuyến sang Đông Anh, chỗ gửi xe, thứ tự tham quan khu di tích và giờ quay về tránh tắc.",
+      "kw": "honda vision đi cổ loa",
+      "kw2": [
+        "đi cổ loa bằng xe máy",
+        "đường từ long biên đi cổ loa"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách du lịch và người ở Hà Nội thích di tích",
+      "location_scope": "Đông Anh, cầu Nhật Tân, Long Biên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-011",
+      "child_id": "C-HONDA-VISION",
+      "title": "Đi làng lụa Vạn Phúc bằng Honda Vision: từ trung tâm về Hà Đông, gửi xe đầu làng và chở lụa về gọn gàng",
+      "intent": "Lên kế hoạch đi làng lụa Vạn Phúc bằng Honda Vision: tuyến từ trung tâm về Hà Đông, chỗ gửi xe, cách dạo làng và chở túi lụa về không nhàu, không ướt.",
+      "kw": "honda vision đi làng lụa vạn phúc",
+      "kw2": [
+        "đường đi làng lụa vạn phúc",
+        "gửi xe ở làng vạn phúc"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách du lịch và nhóm bạn thích mua lụa",
+      "location_scope": "Hà Đông, trục Nguyễn Trãi và Tố Hữu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-012",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision trên Khuất Duy Tiến – Nguyễn Xiển dưới Vành đai 3 trên cao: xe tải, nút giao và làn nên đi",
+      "intent": "Biết cách chạy Honda Vision an toàn trên trục Khuất Duy Tiến – Nguyễn Xiển bên dưới Vành đai 3 trên cao: chọn làn, giữ cự ly với xe tải và qua các nút giao đông.",
+      "kw": "đi xe máy đường khuất duy tiến",
+      "kw2": [
+        "vành đai 3 dưới thấp xe máy",
+        "honda vision đường nguyễn xiển"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người đi làm khu Thanh Xuân, Hoàng Mai bằng xe thuê",
+      "location_scope": "Khuất Duy Tiến, Nguyễn Xiển, nút giao Nguyễn Trãi",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-013",
+      "child_id": "C-HONDA-VISION",
+      "title": "Chở vali cabin trên Honda Vision: đặt ở sàn để chân hay buộc sau yên, giữ thăng bằng và không che đèn hậu",
+      "intent": "Biết cách chở một vali cabin hoặc ba lô lớn trên Honda Vision: chọn chỗ đặt, buộc chắc bằng dây chằng, giữ thăng bằng khi rẽ và không che đèn hậu, biển số.",
+      "kw": "chở vali bằng honda vision",
+      "kw2": [
+        "để vali ở sàn xe vision",
+        "buộc vali lên xe ga"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách du lịch tự chở hành lý về chỗ ở",
+      "location_scope": "từ bến xe, ga tàu về phố cổ và Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-014",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision làm mát bằng gió chạy liên tục lâu: dấu hiệu nóng máy và lịch nghỉ khi đi xa hoặc kẹt xe trưa hè",
+      "intent": "Hiểu vì sao động cơ làm mát bằng gió của Honda Vision dễ nóng khi chạy liên tục hoặc kẹt xe giữa trưa hè, nhận biết dấu hiệu và biết lúc nào nên dừng nghỉ.",
+      "kw": "honda vision nóng máy",
+      "kw2": [
+        "vision chạy đường dài có nóng máy không",
+        "xe ga làm mát bằng gió"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người đi Honda Vision chặng dài hoặc giữa trưa hè",
+      "location_scope": "Hà Nội và các tuyến ngoại thành 40 đến 80 km",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-015",
+      "child_id": "C-HONDA-VISION",
+      "title": "Qua gờ giảm tốc, ổ gà và nắp cống bằng Honda Vision: nhả ga sớm, giữ tay lái lỏng và báo người ngồi sau",
+      "intent": "Biết cách đưa Honda Vision bánh nhỏ qua gờ giảm tốc, ổ gà và nắp cống: giảm tốc từ trước, giữ tay lái lỏng, không phanh gấp giữa chướng ngại và báo người ngồi sau.",
+      "kw": "honda vision qua ổ gà",
+      "kw2": [
+        "vision qua gờ giảm tốc",
+        "xe ga bánh nhỏ đi đường xấu"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người thuê Honda Vision đi phố và đường ven đô",
+      "location_scope": "ngõ phố, khu đô thị và đường ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-016",
+      "child_id": "C-HONDA-VISION",
+      "title": "Quen đi Honda Wave, lần đầu lái Honda Vision: bỏ thói quen tìm cần số, phanh sau ở tay trái và xuất phát êm",
+      "intent": "Biết cách chuyển từ xe số Wave sang Honda Vision trong buổi đầu: đặt chân trên sàn, dùng phanh sau tay trái, vặn ga xuất phát êm và giữ tốc đều khi vào cua.",
+      "kw": "từ wave chuyển sang vision",
+      "kw2": [
+        "quen xe số lần đầu đi vision",
+        "đi xe số chuyển sang xe ga"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người quen xe số lần đầu thuê Honda Vision",
+      "location_scope": "khu phố vắng rồi phố đông ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-017",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision đi Ninh Bình trong ngày có nổi không: đi quốc lộ 1 thay cao tốc, chia chặng, về Hà Nội trước tối",
+      "intent": "Lên kế hoạch đi Ninh Bình trong ngày bằng Honda Vision: tuyến quốc lộ cho xe máy thay vì cao tốc, điểm đổ xăng và nghỉ máy, giờ xuất phát và mốc quay về Hà Nội.",
+      "kw": "honda vision đi ninh bình",
+      "kw2": [
+        "đi ninh bình bằng xe ga",
+        "xe máy đi ninh bình đường nào"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách du lịch tự lái muốn đi xa trong ngày",
+      "location_scope": "Hà Nội, quốc lộ 1, Phủ Lý, Ninh Bình",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-018",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision hỏng vặt khi đi xa Hà Nội: vì sao dễ tìm thợ quen xe và vẫn phải gọi tiệm cho thuê trước khi sửa",
+      "intent": "Hiểu vì sao Honda Vision dễ tìm thợ và phụ tùng ở ven đô, đồng thời biết gọi tiệm cho thuê trước khi sửa, hỏi rõ việc cần làm và giữ lại ảnh chụp, hóa đơn.",
+      "kw": "sửa honda vision khi đi xa",
+      "kw2": [
+        "tìm thợ sửa xe vision",
+        "xe thuê hỏng ở ngoại thành"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người đi Honda Vision thuê ra ngoại thành",
+      "location_scope": "ngoại thành Hà Nội và các tỉnh lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-019",
+      "child_id": "C-HONDA-VISION",
+      "title": "Giáo viên nước ngoài thuê Honda Vision theo tháng ở Hà Nội: lịch dạy tối, chạy giữa các trung tâm và gửi xe",
+      "intent": "Lên kế hoạch đi lại bằng Honda Vision thuê tháng cho giáo viên nước ngoài: sắp lịch dạy nhiều điểm, tránh giờ tắc buổi tối, gửi xe ở tòa nhà và mang giấy phép lái xe hợp lệ.",
+      "kw": "giáo viên nước ngoài thuê honda vision",
+      "kw2": [
+        "thuê xe tháng đi dạy tiếng anh",
+        "người nước ngoài thuê vision theo tháng"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "giáo viên tiếng Anh người nước ngoài ở Hà Nội",
+      "location_scope": "Cầu Giấy, Tây Hồ, Đống Đa, Thanh Xuân",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-020",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision trục Tôn Đức Thắng – Nguyễn Lương Bằng – Tây Sơn giờ cao điểm: xe buýt vào trạm và nút Ô Chợ Dừa",
+      "intent": "Biết cách đi Honda Vision trên trục Tôn Đức Thắng – Nguyễn Lương Bằng – Tây Sơn giờ cao điểm: tránh xe buýt vào trạm, qua nút Ô Chợ Dừa và rẽ vào ngõ an toàn.",
+      "kw": "đi xe máy đường tôn đức thắng",
+      "kw2": [
+        "nút ô chợ dừa giờ cao điểm",
+        "đường tây sơn đi xe máy"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người đi làm và sinh viên khu Đống Đa",
+      "location_scope": "Văn Miếu, Ô Chợ Dừa, Thái Hà, Ngã Tư Sở",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-021",
+      "child_id": "C-HONDA-VISION",
+      "title": "Thợ trang điểm đi makeup tận nhà mùa cưới bằng Honda Vision thuê: chở vali đồ nghề, xuất phát sớm và gửi xe",
+      "intent": "Lên kế hoạch dùng Honda Vision thuê trong mùa cưới khi làm trang điểm tận nhà: chở vali đồ nghề an toàn, xuất phát lúc trời còn tối và tìm chỗ để xe ở nhà cô dâu.",
+      "kw": "thợ trang điểm thuê honda vision",
+      "kw2": [
+        "chở vali makeup bằng xe máy",
+        "thuê xe máy mùa cưới"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "thợ trang điểm, làm tóc tự do",
+      "location_scope": "nội thành và các xã ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-022",
+      "child_id": "C-HONDA-VISION",
+      "title": "Honda Vision máy êm trong phố cổ: người đi bộ, xe đạp khó nghe tiếng xe và cách báo hiệu, giảm tốc cho an toàn",
+      "intent": "Hiểu vì sao Honda Vision chạy êm dễ khiến người đi bộ, xe đạp không nhận ra mình và biết cách giảm tốc, giữ khoảng cách, dùng còi nhẹ đúng lúc trong phố cổ.",
+      "kw": "honda vision chạy êm",
+      "kw2": [
+        "người đi bộ không nghe tiếng xe",
+        "bấm còi lịch sự trong phố cổ"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách du lịch và người mới lái xe ga",
+      "location_scope": "phố cổ Hoàn Kiếm và các ngõ chợ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-023",
+      "child_id": "C-HONDA-VISION",
+      "title": "Một ngày tự lái Honda Vision ở Hà Nội tốn bao nhiêu: tiền thuê 200.000đ, tiền xăng và phí gửi xe nên dự trù",
+      "intent": "Lên kế hoạch ngân sách cho một ngày tự lái Honda Vision ở Hà Nội: tiền thuê 200.000đ, cách ước lượng tiền xăng theo quãng đường và phí gửi xe ở từng điểm dừng.",
+      "kw": "chi phí một ngày đi honda vision",
+      "kw2": [
+        "tốn bao nhiêu khi thuê vision",
+        "dự trù tiền xăng và gửi xe"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "khách du lịch tự túc tính ngân sách",
+      "location_scope": "phố cổ, Hồ Tây, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-024",
+      "child_id": "C-HONDA-VISION",
+      "title": "Cốp Honda Vision không mở được: kiểm tra núm vặn, chìa, pin remote và khi nào nên gọi tiệm thay vì cạy",
+      "intent": "Biết cách xử lý khi cốp Honda Vision không mở: kiểm tra vị trí núm vặn hoặc chìa, pin remote, đồ bị kẹt dưới yên và gọi tiệm thay vì tự cạy làm hỏng khóa.",
+      "kw": "cốp honda vision không mở được",
+      "kw2": [
+        "kẹt cốp vision",
+        "không mở được yên xe vision"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người thuê Honda Vision bản chìa cơ và bản khóa thông minh",
+      "location_scope": "Hà Nội, bãi gửi xe và chỗ ở",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-009-025",
+      "child_id": "C-HONDA-VISION",
+      "title": "Hộc đồ phía trước và cổng sạc trên Honda Vision đời mới: sạc điện thoại, để vé gửi xe và tránh để gì khi mưa",
+      "intent": "Nắm cách dùng hộc đồ phía trước và cổng sạc trên Honda Vision đời mới: sạc điện thoại đúng cách, để vé gửi xe, khẩu trang và tránh để đồ dễ hỏng khi trời mưa.",
+      "kw": "cổng sạc honda vision",
+      "kw2": [
+        "hộc đồ phía trước vision",
+        "sạc điện thoại trên xe vision"
+      ],
+      "links": [
+        "/xe-may/honda-vision/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-009",
+      "audience": "người thuê Honda Vision đời mới",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-001",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave chế hòa khí hay phun xăng điện tử: nhận biết bản xe thuê và khác nhau khi đề máy, vặn ga",
+      "intent": "Hiểu cách nhận biết chiếc Honda Wave đang thuê dùng chế hòa khí hay phun xăng điện tử, và điều chỉnh thói quen đề máy, dùng le gió, vặn ga cho đúng với từng loại.",
+      "kw": "wave chế hòa khí hay phun xăng",
+      "kw2": [
+        "wave alpha chế hòa khí",
+        "wave rsx phun xăng điện tử"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người thuê xe số muốn hiểu chiếc xe mình nhận",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-002",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Wave, Blade hay Future: ba xe số Honda hay bị nhầm, nhìn đâu để biết đúng chiếc Honda Wave mình thuê",
+      "intent": "Nắm các điểm nhìn nhanh như dáng đèn pha, thân xe, tem và kích thước để phân biệt Honda Wave với Blade, Future, tránh nhầm khi đặt, nhận hoặc tìm lại xe thuê.",
+      "kw": "phân biệt wave blade future",
+      "kw2": [
+        "xe wave và xe blade khác nhau",
+        "honda future hay wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "khách du lịch và người mới chưa rành các dòng xe số Honda",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-003",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Quen xe côn tay, lần đầu đi Honda Wave: không có tay côn, số tròn và nhịp nhả ga khi đổi số",
+      "intent": "Biết cách chuyển phản xạ từ xe côn tay sang Honda Wave côn tự động: bỏ thói quen tìm tay côn, nhả ga trước mỗi lần đạp số và hiểu số tròn hoạt động khi xe dừng.",
+      "kw": "quen xe côn tay đi wave",
+      "kw2": [
+        "xe wave không có tay côn",
+        "người đi côn tay chuyển sang xe số"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người quen xe côn tay hoặc mô tô có ly hợp tay ở nước ngoài",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-004",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave bánh 17 inch qua ổ gà, gờ giảm tốc và nắp cống: đi sao cho êm và giữ xe bền",
+      "intent": "Hiểu vì sao bánh 17 inch của Honda Wave qua ổ gà, gờ giảm tốc, nắp cống vững hơn bánh nhỏ, đồng thời biết giảm tốc, nhổm người và chọn số để xe thuê không bị dội.",
+      "kw": "honda wave qua ổ gà",
+      "kw2": [
+        "bánh 17 inch xe wave",
+        "xe wave qua gờ giảm tốc"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người thuê đi đường phố cũ và đường làng ven đô",
+      "location_scope": "ngõ phố cũ và đường làng ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-005",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Người thấp dưới 1m55 đi Honda Wave: chống chân khi dừng đèn đỏ, dắt xe và lên xuống vỉa hè",
+      "intent": "Biết cách ngồi lệch hông, chống một chân khi dừng đèn đỏ, dắt xe và đưa Honda Wave lên xuống vỉa hè an toàn khi chiều cao dưới 1m55 và chân chưa chạm đất trọn bàn.",
+      "kw": "người thấp đi xe wave",
+      "kw2": [
+        "xe wave cho người thấp",
+        "chiều cao yên honda wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người nhỏ người, chiều cao dưới 1m55",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-006",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Chở trẻ nhỏ bằng Honda Wave thuê: bé ngồi sau hay ghế gắn phía trước, mũ trẻ em và tốc độ trong phố",
+      "intent": "Biết chọn chỗ ngồi cho bé trên Honda Wave giữa yên sau và ghế gắn phía trước, chuẩn bị mũ bảo hiểm trẻ em, giữ tốc độ và phanh êm khi chở con đi lại trong phố.",
+      "kw": "chở trẻ nhỏ bằng xe wave",
+      "kw2": [
+        "ghế ngồi cho bé xe số",
+        "chở con đi học bằng xe wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "phụ huynh có con nhỏ thuê xe số đi lại",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-007",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Chân trái đau hoặc vừa bong gân có nên thuê Honda Wave: gạt số liên tục và những lựa chọn nhẹ chân hơn",
+      "intent": "Hiểu chân trái phải làm việc gì trên Honda Wave khi gạt số trong phố đông, tự đánh giá mình có lái an toàn được không và biết khi nào nên chuyển sang xe ga.",
+      "kw": "đau chân trái đi xe wave",
+      "kw2": [
+        "bong gân chân trái lái xe số",
+        "đau gối có đi xe số được không"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người đang đau cổ chân, đầu gối trái hoặc mới bong gân",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-008",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đưa Honda Wave vào nhà ống, homestay qua đêm: lên bậc thềm, tắt máy và xếp xe sát tường",
+      "intent": "Biết cách đưa Honda Wave qua bậc thềm hoặc tấm ván dắt xe vào nhà ống, về số N và tắt máy đúng lúc, xếp xe gọn trong phòng khách homestay mà không trầy xe.",
+      "kw": "dắt xe wave lên bậc thềm",
+      "kw2": [
+        "đưa xe máy vào nhà ống",
+        "để xe wave qua đêm ở homestay"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "khách ở homestay, nhà nghỉ nhà ống phải để xe trong nhà",
+      "location_scope": "phố cổ Hoàn Kiếm, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-009",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Nhóm bốn người đi chơi ngoại thành: thuê hai chiếc Honda Wave chở đôi hay bốn chiếc đi riêng",
+      "intent": "Lên kế hoạch cho nhóm bốn người chọn giữa hai Honda Wave chở đôi và bốn chiếc đi riêng, cân nhắc tiền thuê, sức xe khi lên dốc, người biết lái và độ mệt cả ngày.",
+      "kw": "nhóm bạn thuê xe wave",
+      "kw2": [
+        "thuê hai xe wave chở đôi",
+        "nhóm 4 người thuê mấy xe máy"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "nhóm bạn bốn người đi chơi trong ngày",
+      "location_scope": "ngoại thành Hà Nội: Ba Vì, Sóc Sơn, Đồng Mô",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-010",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Định mua Honda Wave: thuê vài ngày đi thử và để ý những gì trước khi xuống tiền",
+      "intent": "Lên kế hoạch thuê Honda Wave vài ngày để thử đúng nhu cầu thật của mình, ghi lại cảm giác lái, mức xăng, sự thoải mái khi chở người rồi mới quyết định mua xe.",
+      "kw": "thuê thử honda wave trước khi mua",
+      "kw2": [
+        "có nên mua honda wave",
+        "lái thử xe wave trước khi mua"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người đang cân nhắc mua xe số để đi làm, đi học",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-011",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Một bình xăng Honda Wave đi được bao xa: canh kim xăng trên đường núi và đường làng ít cây xăng",
+      "intent": "Lên kế hoạch điểm đổ xăng dựa trên bình xăng nhỏ của Honda Wave, biết đọc kim xăng sát vạch đỏ và đổ thêm sớm trước các đoạn đường núi, đường làng vắng cây xăng.",
+      "kw": "bình xăng wave đi được bao xa",
+      "kw2": [
+        "dung tích bình xăng honda wave",
+        "canh kim xăng xe wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người đi Honda Wave ra ngoại thành và tỉnh lân cận",
+      "location_scope": "ngoại thành Hà Nội và vùng núi lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-012",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave không có sàn để chân: chở vali, balo du lịch từ bến xe, sân bay về chỗ ở thế nào",
+      "intent": "Biết cách xếp và buộc balo, vali nhỏ lên Honda Wave khi xe không có sàn để chân, biết kiện nào quá cỡ nên gửi taxi riêng để giữ thăng bằng và không vướng cần số.",
+      "kw": "chở vali bằng xe wave",
+      "kw2": [
+        "buộc balo lên xe wave",
+        "xe số không có sàn để chân"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "khách balo vừa đến Hà Nội bằng xe khách hoặc máy bay",
+      "location_scope": "bến xe Gia Lâm, Mỹ Đình, sân bay Nội Bài",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-013",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi Honda Wave ngày rét đậm: giày bốt dày gạt số có vướng không, găng tay và áo phao thế nào cho gọn",
+      "intent": "Biết chọn giày, găng tay và áo khoác mùa rét sao cho vẫn gạt số Honda Wave chính xác, bóp phanh đủ lực và không để vạt áo phao vướng cần số hay pô xe.",
+      "kw": "đi xe wave mùa rét",
+      "kw2": [
+        "đi giày bốt gạt số xe wave",
+        "găng tay mùa đông đi xe số"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người đi xe số đi làm, đi chơi những ngày gió mùa đông bắc",
+      "location_scope": "Hà Nội mùa đông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-014",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Kiểm tra nhớt Honda Wave bằng que thăm: tìm nắp nhớt, dựng xe thẳng và đọc vạch trên dưới",
+      "intent": "Biết tự kiểm tra mức nhớt Honda Wave thuê bằng que thăm: tìm đúng nắp nhớt bên máy, dựng chân chống giữa cho xe thẳng, đọc vạch và báo cửa hàng khi nhớt thấp.",
+      "kw": "kiểm tra nhớt honda wave",
+      "kw2": [
+        "que thăm nhớt xe wave",
+        "xe wave cạn nhớt"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người thuê Honda Wave nhiều ngày hoặc trước chuyến đi xa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-015",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Phanh sau Honda Wave đạp sâu mới ăn: ốc chỉnh phanh tang trống và lúc nào nên nhờ cửa hàng",
+      "intent": "Hiểu vì sao phanh sau tang trống của Honda Wave có thể bị đạp sâu, biết vị trí ốc chỉnh phanh, mức chỉnh tạm an toàn và lúc nào phải dừng xe báo cửa hàng.",
+      "kw": "chỉnh phanh sau xe wave",
+      "kw2": [
+        "phanh sau wave đạp sâu",
+        "ốc chỉnh phanh tang trống"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người thuê xe số chạy nhiều ngày",
+      "location_scope": "Hà Nội và các chặng ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-016",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave thuê ở Hà Nội đi vòng Hà Giang: 110cc có đủ sức qua dốc Thẩm Mã, Mã Pí Lèng không",
+      "intent": "Hiểu sức kéo thực tế của Honda Wave 110cc trên dốc Thẩm Mã và đèo Mã Pí Lèng, khi đi một mình và chở hai người, để quyết định có thuê Wave cho vòng Hà Giang không.",
+      "kw": "xe wave đi hà giang",
+      "kw2": [
+        "wave 110 qua mã pí lèng",
+        "thuê wave hà nội đi hà giang"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người tự lái chuẩn bị vòng Hà Giang nhiều ngày",
+      "location_scope": "Hà Nội đi Hà Giang: Quản Bạ, Yên Minh, Đồng Văn, Mèo Vạc",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-017",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Lên cao nguyên Đồng Cao bằng Honda Wave: dốc bê tông dài, chở đồ cắm trại và về trước khi tối",
+      "intent": "Lên kế hoạch đi Đồng Cao bằng Honda Wave: chia chặng từ Hà Nội, leo đoạn dốc bê tông cuối bằng số thấp, buộc lều trại gọn và canh giờ xuống dốc trước khi trời tối.",
+      "kw": "đi đồng cao bằng xe wave",
+      "kw2": [
+        "đường lên đồng cao xe máy",
+        "cắm trại đồng cao bằng xe máy"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "nhóm bạn trẻ đi cắm trại cuối tuần",
+      "location_scope": "cao nguyên Đồng Cao, phía đông bắc Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-018",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave xuất phát khi đèn xanh và nhập dòng trên đường lớn: lên số đúng lúc để không bị kẹt giữa làn",
+      "intent": "Biết cách xuất phát Honda Wave gọn khi đèn xanh, lên số hai, số ba đúng vòng tua và tăng tốc đủ để nhập dòng trên đường lớn mà không bị kẹt giữa dòng xe ga.",
+      "kw": "xe wave tăng tốc chậm",
+      "kw2": [
+        "xuất phát xe wave khi đèn xanh",
+        "lên số xe wave nhập dòng"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người mới đi xe số trong giờ đông",
+      "location_scope": "các trục đường lớn nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-019",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi Tam Đảo trong ngày bằng Honda Wave: leo quốc lộ 2B, nghỉ máy giữa đèo và giờ xuống núi",
+      "intent": "Lên kế hoạch một ngày đi Tam Đảo bằng Honda Wave: giờ xuất phát, chọn số khi leo quốc lộ 2B, chỗ nghỉ máy giữa đèo và giờ xuống núi trước khi sương dày.",
+      "kw": "đi tam đảo bằng xe wave",
+      "kw2": [
+        "xe wave lên tam đảo",
+        "quốc lộ 2b đi tam đảo"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người thuê xe số đi chơi núi trong ngày",
+      "location_scope": "Hà Nội đi Tam Đảo qua Vĩnh Yên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-020",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Quên gạt chân chống nghiêng khi đi Honda Wave: nguy hiểm khi ôm cua trái và cách tạo thói quen kiểm tra",
+      "intent": "Hiểu rủi ro khi chân chống nghiêng của Honda Wave chưa gạt lên lúc xe chạy, nhất là khi ôm cua trái, và tạo thói quen kiểm tra trước mỗi lần lăn bánh.",
+      "kw": "quên gạt chân chống xe wave",
+      "kw2": [
+        "cà chân chống khi vào cua",
+        "chân chống nghiêng xe số"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người mới đi xe số và người quen xe ga",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-021",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Người ngoài 60 tuổi tự lái Honda Wave thuê: gạt số, phanh chân và quãng đường vừa sức mỗi ngày",
+      "intent": "Nắm những điểm người ngoài 60 tuổi cần tự đánh giá trước khi lái Honda Wave: lực chân gạt số, phản xạ phanh chân, tầm nhìn và quãng đường vừa sức mỗi ngày.",
+      "kw": "người lớn tuổi đi xe wave",
+      "kw2": [
+        "người trên 60 tuổi lái xe số",
+        "người già có nên đi xe wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người lớn tuổi tự lái, Việt kiều về thăm quê",
+      "location_scope": "Hà Nội và vùng ven",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-022",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đã quen Honda Wave ở Thái Lan, Malaysia: Wave thuê ở Hà Nội khác gì và đổi thói quen sang lái bên phải",
+      "intent": "Hiểu điểm giống và khác giữa Honda Wave ở Thái Lan, Malaysia với xe thuê ở Hà Nội, và biết chỉnh phản xạ rẽ, quay đầu, nhìn gương khi chuyển sang đi bên phải đường.",
+      "kw": "honda wave thái lan và việt nam",
+      "kw2": [
+        "khách malaysia thuê xe wave",
+        "chuyển sang lái bên phải ở hà nội"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "khách Đông Nam Á quen xe số Honda ở nước mình",
+      "location_scope": "phố cổ và nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-023",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi thung lũng Bắc Sơn bằng Honda Wave thuê: hướng qua Thái Nguyên, chia chặng nghỉ và mùa lúa chín",
+      "intent": "Lên kế hoạch chuyến Bắc Sơn bằng Honda Wave: chọn hướng đi qua Thái Nguyên, chia chặng nghỉ cho người và xe, canh mùa lúa chín và giờ quay về Hà Nội.",
+      "kw": "đi bắc sơn bằng xe wave",
+      "kw2": [
+        "thung lũng bắc sơn xe máy",
+        "hà nội đi bắc sơn bao xa"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người tự lái đi chơi hai ngày cuối tuần",
+      "location_scope": "Hà Nội đi thung lũng Bắc Sơn, Lạng Sơn",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-024",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Nhà sẵn xe ga có nên thuê thêm Honda Wave cho chuyến đi núi: khi nào đáng và khi nào không cần",
+      "intent": "Hiểu khi nào người đã có xe ga ở Hà Nội nên thuê thêm Honda Wave cho chuyến đi núi, dựa trên độ dốc cung đường, số người ngồi sau, hành lý và độ quen xe số.",
+      "kw": "có xe ga vẫn thuê xe wave",
+      "kw2": [
+        "thuê xe số đi núi",
+        "xe ga hay xe số đi đèo"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người Hà Nội đã có xe ga, chuẩn bị chuyến đi núi",
+      "location_scope": "Hà Nội và các cung núi phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-010-025",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Người nặng trên 85 kg đi Honda Wave thuê: giảm xóc sau, hơi lốp và sức kéo khi lên dốc cầu",
+      "intent": "Nắm những điểm người nặng trên 85 kg cần để ý khi lái Honda Wave: độ lún giảm xóc sau, bơm lốp đủ hơi, chọn số khi lên dốc cầu và hạn chế chở thêm người, hàng.",
+      "kw": "người nặng cân đi xe wave",
+      "kw2": [
+        "xe wave chịu tải bao nhiêu",
+        "giảm xóc sau xe wave bị lún"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-010",
+      "audience": "người to nặng thuê xe số đi lại hằng ngày",
+      "location_scope": "nội thành Hà Nội và các dốc cầu",
       "word_target": 1200
     }
   ],
