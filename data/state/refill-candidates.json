@@ -3,13 +3,1420 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "MATERIALIZED",
+    "status": "STAGED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T04:50:23+00:00",
-    "staged_at": "2026-10-15T04:42:57+00:00"
+    "staged_at": "2026-10-15T04:53:37+00:00"
   },
-  "candidates": [],
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-001",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Về đến khách sạn mới thấy vết xước chưa ghi trong biên bản nhận xe thuê: nhắn bổ sung ngay thế nào",
+      "intent": "Biết cách xử lý khi phát hiện vết xước, vết móp cũ chưa được ghi lúc nhận xe: chụp lại, nhắn bổ sung cho cửa hàng ngay trong ngày và giữ xác nhận để không bị hỏi khi trả.",
+      "kw": "bổ sung vết xước xe thuê",
+      "kw2": [
+        "nhận xe thuê thấy vết xước cũ",
+        "báo vết xước sau khi nhận xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người vừa nhận xe thuê, nhất là khách nhận xe lúc vội hoặc lúc trời tối",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-002",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Giữ ảnh, video và tin nhắn bàn giao sau khi đã trả xe thuê: lưu bao lâu và sắp xếp ra sao để tra lại",
+      "intent": "Hiểu vì sao nên giữ bộ ảnh, video, biên bản và tin nhắn bàn giao thêm một thời gian sau khi trả xe, cách đặt tên album, sao lưu và tra lại nhanh khi có câu hỏi phát sinh.",
+      "kw": "lưu ảnh bàn giao xe thuê",
+      "kw2": [
+        "giữ bằng chứng sau khi trả xe",
+        "sao lưu ảnh nhận trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê xe theo ngày, tuần, tháng muốn khép lại kỳ thuê gọn gàng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-003",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhóm thuê nhiều xe nhưng mỗi người rời Hà Nội một ngày: người về trước trả xe của mình sao cho rõ ràng",
+      "intent": "Lên kế hoạch trả từng chiếc xe khi cả nhóm thuê chung nhưng về không cùng lúc: báo trước với cửa hàng, đối chiếu đúng xe, đúng người đứng tên và chốt phần việc của từng người.",
+      "kw": "nhóm trả xe thuê không cùng lúc",
+      "kw2": [
+        "trả từng xe khi thuê theo nhóm",
+        "người về trước trả xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "nhóm bạn, gia đình thuê từ hai xe máy trở lên",
+      "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-004",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Gắn AirTag hoặc thiết bị định vị cá nhân lên xe máy thuê: có nên báo cửa hàng và nhớ gỡ khi trả xe",
+      "intent": "Biết cách dùng thiết bị định vị cá nhân trên xe thuê cho yên tâm: hỏi cửa hàng lúc nhận xe, chọn chỗ đặt không phải tháo lắp và kiểm tra gỡ ra trước khi bàn giao lại.",
+      "kw": "gắn airtag lên xe máy thuê",
+      "kw2": [
+        "thiết bị định vị cá nhân xe thuê",
+        "gỡ định vị trước khi trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê lo mất xe khi đỗ ngoài phố, khách du lịch quen dùng thiết bị định vị",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-005",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Xe thuê trông cũ hoặc đồng hồ báo số km cao: dấu hiệu nào thật sự đáng lo khi nhận và lúc nào nên xin đổi",
+      "intent": "Hiểu cách tách vẻ ngoài cũ và số km cao khỏi những dấu hiệu ảnh hưởng an toàn như phanh, lốp, tiếng máy, để quyết định nhận xe hay đề nghị cửa hàng đổi chiếc khác ngay lúc giao.",
+      "kw": "xe thuê cũ có nên nhận",
+      "kw2": [
+        "xe máy thuê số km cao",
+        "xin đổi xe khi nhận xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê lần đầu, người kỹ tính về tình trạng xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-006",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Thuê lại lần thứ hai ở cùng cửa hàng: bước kiểm tra nào vẫn phải làm đủ dù đã quen xe và quen người",
+      "intent": "Nắm những bước bàn giao không nên bỏ qua khi thuê lại ở cửa hàng quen, như chụp ảnh, ghi số km, mức xăng và ký biên bản mới, cùng những phần có thể làm nhanh hơn lần đầu.",
+      "kw": "thuê lại xe máy lần hai",
+      "kw2": [
+        "khách quen nhận xe thuê",
+        "thuê lại xe cùng cửa hàng"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "khách quay lại thuê xe từ lần thứ hai trở đi",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-007",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Vừa xong chuyến bay dài hoặc chuyến xe khách đêm: nên nhận xe máy thuê ngay hay để sáng hôm sau mới nhận",
+      "intent": "Lên kế hoạch thời điểm nhận xe khi vừa đến Hà Nội trong trạng thái mệt, thiếu ngủ: cân nhắc giờ mở cửa của cửa hàng, quãng đường về chỗ ở và cách hẹn lại giờ nhận xe.",
+      "kw": "nhận xe ngay sau chuyến bay",
+      "kw2": [
+        "dời giờ nhận xe máy thuê",
+        "hẹn nhận xe sáng hôm sau"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "khách du lịch, người đi công tác vừa đến Hà Nội bằng máy bay hoặc xe khách đêm",
+      "location_scope": "Nội Bài, các bến xe, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-008",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Đang ở Cầu Giấy, Tây Hồ hay Hà Đông mà phải về Bồ Đề trả xe: chọn cầu qua sông Hồng và tính giờ đi",
+      "intent": "Lên kế hoạch quãng đường chạy xe thuê từ phía tây Hà Nội về cửa hàng ở Long Biên: chọn cầu Long Biên, Chương Dương, Vĩnh Tuy hay Nhật Tân, tránh giờ tắc và đến kịp giờ hẹn trả.",
+      "kw": "chạy xe về long biên trả xe",
+      "kw2": [
+        "qua cầu chương dương giờ cao điểm",
+        "trả xe thuê ở bồ đề"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê ở trọ, ở khách sạn phía tây nội thành",
+      "location_scope": "Cầu Giấy, Tây Hồ, Hà Đông, Long Biên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-009",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Trả xe ở Bồ Đề rồi ra bến xe Gia Lâm đi Hải Phòng, Quảng Ninh: tính giờ, mang hành lý và đi quãng cuối",
+      "intent": "Lên kế hoạch buổi cuối khi trả xe thuê ở Long Biên rồi bắt xe khách tại bến xe Gia Lâm: tính ngược giờ từ chuyến xe, gom hành lý, bàn giao xe và cách đi quãng ngắn ra bến.",
+      "kw": "trả xe thuê trước giờ xe khách",
+      "kw2": [
+        "bến xe gia lâm đi hải phòng",
+        "trả xe máy gần bến gia lâm"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "khách rời Hà Nội bằng xe khách về các tỉnh phía Đông",
+      "location_scope": "Bồ Đề, Ngọc Lâm, bến xe Gia Lâm (Long Biên)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-010",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Gọi đúng tên các mảnh dàn áo khi ghi vết xước xe thuê: mặt nạ, yếm, ốp sườn, đuôi xe và dè chắn bùn",
+      "intent": "Nắm tên gọi phổ biến của các bộ phận nhựa bên ngoài xe máy để ghi chính xác vị trí vết xước, móp, nứt trong biên bản và tin nhắn, tránh hiểu nhầm với cửa hàng.",
+      "kw": "tên bộ phận dàn áo xe máy",
+      "kw2": [
+        "mặt nạ yếm ốp sườn xe máy",
+        "ghi vị trí vết xước xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê không rành tên bộ phận xe, người lần đầu ký biên bản bàn giao",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-011",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Tem, decal và miếng dán có sẵn trên xe thuê: chụp lại khi nhận, không tự bóc và không dán thêm trước khi trả",
+      "intent": "Hiểu vì sao tem, decal và miếng dán phản quang có sẵn trên xe thuê cần được ghi nhận khi nhận xe, và cách xử lý khi tem bị bong, rách hoặc bạn muốn dán thêm đồ trang trí.",
+      "kw": "dán decal lên xe máy thuê",
+      "kw2": [
+        "tem dán trên xe thuê bị bong",
+        "bóc decal xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê trẻ thích trang trí xe, người thuê dài ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-012",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhận xe đạp điện thuê: thử phanh, xích, bàn đạp, đèn, chuông và mức pin trước khi đạp ra đường",
+      "intent": "Biết cách kiểm tra một chiếc xe đạp điện thuê ngay tại cửa hàng, từ phanh, xích, bàn đạp, đèn, chuông đến mức pin, khóa và bộ sạc, để ghi nhận tình trạng xe trước khi đi.",
+      "kw": "kiểm tra xe đạp điện khi thuê",
+      "kw2": [
+        "nhận xe đạp điện thuê",
+        "thử phanh xe đạp điện"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "học sinh, sinh viên, người lớn tuổi và khách du lịch thuê xe đạp điện",
+      "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-013",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhận xe thuê vừa rửa xong còn ướt: lau khô chỗ cần soi vết xước và bóp thử phanh vài lần trước khi đi",
+      "intent": "Biết cách kiểm tra tình trạng xe khi cửa hàng vừa rửa xong: lau khô các mảng sơn để thấy rõ vết xước, chụp ảnh không bị lóa nước và làm khô phanh trước khi chạy ra đường.",
+      "kw": "nhận xe thuê vừa rửa còn ướt",
+      "kw2": [
+        "xe ướt khó thấy vết xước",
+        "phanh ướt sau khi rửa xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người nhận xe vào buổi sáng khi cửa hàng vừa vệ sinh xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-014",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Xe thuê vừa thay lốp hoặc má phanh mới: chạy rà vài cây số đầu thế nào cho an toàn sau khi nhận xe",
+      "intent": "Hiểu vì sao lốp mới có thể còn trơn và má phanh mới chưa ăn hết ở những cây số đầu, cách hỏi cửa hàng đã thay những gì và cách chạy rà, phanh sớm cho quen xe.",
+      "kw": "lốp mới thay bị trơn",
+      "kw2": [
+        "má phanh mới thay chưa ăn",
+        "chạy rà lốp mới xe máy"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người nhận xe vừa được bảo dưỡng hoặc thay phụ tùng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-015",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Cốp xe thuê bị đổ nước, dính đồ ăn hoặc ám mùi sau kỳ thuê: lau sạch và báo gì trước khi trả xe",
+      "intent": "Biết cách làm sạch cốp và hộc đồ của xe thuê khi lỡ đổ nước, dầu ăn, đồ ăn hoặc để lâu bị ám mùi, cách hong khô an toàn và nói rõ với cửa hàng lúc trả xe.",
+      "kw": "cốp xe thuê bị bẩn ám mùi",
+      "kw2": [
+        "vệ sinh cốp xe máy",
+        "đổ nước trong cốp xe ga"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê hay đi chợ, chở đồ ăn bằng cốp xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-016",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Nhân viên đến giao xe tận nơi: xác nhận đúng người của cửa hàng trước khi đưa giấy tờ, tiền và ký nhận",
+      "intent": "Biết cách đối chiếu người giao xe với thông tin cửa hàng đã hẹn, như số điện thoại, biển số xe và tin nhắn xác nhận, trước khi đưa giấy tờ, thanh toán hay ký biên bản nhận xe.",
+      "kw": "xác minh nhân viên giao xe thuê",
+      "kw2": [
+        "người giao xe thuê có đúng không",
+        "giao xe tận nơi tránh lừa đảo"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người đặt giao xe tận nơi tại khách sạn, chung cư",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-017",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Xe thuê dính cát và hơi muối sau chuyến biển Đồ Sơn, Hạ Long: làm sạch thế nào trước khi trả xe",
+      "intent": "Biết cách xử lý xe thuê sau chuyến đi biển: xả sạch cát, lau hơi muối ở vành, ốc, xích, pô, để xe khô đúng cách và kể lại quãng đường với cửa hàng khi trả xe.",
+      "kw": "xe máy đi biển về rửa muối",
+      "kw2": [
+        "xe thuê dính cát biển",
+        "trả xe sau chuyến đi biển"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê xe đi biển cuối tuần từ Hà Nội",
+      "location_scope": "Đồ Sơn, Hạ Long, Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-018",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Gia hạn hoặc chuyển từ thuê ngày sang thuê tuần: có cần chụp ảnh, ghi km và ký lại biên bản bàn giao",
+      "intent": "Hiểu khi nào nên làm lại bước bàn giao lúc gia hạn hay đổi gói thuê giữa chừng, gồm ảnh tình trạng mới, số km, mức xăng và xác nhận bằng văn bản, để mốc kỳ thuê rõ ràng.",
+      "kw": "đổi gói thuê xe máy giữa chừng",
+      "kw2": [
+        "gia hạn thuê xe ghi lại km",
+        "chuyển từ thuê ngày sang tuần"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê theo ngày quyết định ở lại Hà Nội lâu hơn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-019",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Ngồi thử thấy xe quá cao hoặc quá nặng so với mình: đề nghị đổi dòng xe ngay lúc nhận, trước khi ký",
+      "intent": "Biết cách nhận ra xe không vừa tầm vóc qua thử chống chân, dắt xe, dựng chân chống và đề nghị cửa hàng đổi sang dòng khác ngay tại chỗ, trước khi ký biên bản và lăn bánh.",
+      "kw": "xe thuê quá cao đổi xe khác",
+      "kw2": [
+        "xe máy thuê quá nặng với nữ",
+        "đổi dòng xe lúc nhận"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người dáng nhỏ, phụ nữ, người lớn tuổi lần đầu thuê xe ga",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-020",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Mất điện thoại hoặc lỡ xóa ảnh chụp lúc nhận xe trước ngày trả: còn bằng chứng nào để đối chiếu tình trạng",
+      "intent": "Nắm những nguồn đối chiếu còn lại khi mất ảnh lúc nhận xe, như biên bản có chữ ký, tin nhắn đã gửi, ảnh sao lưu đám mây và ảnh của cửa hàng, cùng cách trao đổi bình tĩnh.",
+      "kw": "mất ảnh lúc nhận xe thuê",
+      "kw2": [
+        "mất điện thoại khi đang thuê xe",
+        "khôi phục ảnh nhận xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê làm mất hoặc hỏng điện thoại giữa kỳ thuê",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-021",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Trả xe máy thuê mất bao lâu: các bước từ lúc dừng xe trước cửa hàng đến khi nhận lại giấy tờ",
+      "intent": "Hiểu trình tự và thời gian cần dành cho buổi trả xe, gồm kiểm tra xe, đối chiếu ảnh, xăng, phụ kiện, tất toán và nhận lại giấy tờ, để xếp lịch việc tiếp theo cho hợp lý.",
+      "kw": "trả xe máy thuê mất bao lâu",
+      "kw2": [
+        "thời gian trả xe thuê",
+        "các bước trả xe máy thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người cần trả xe trước chuyến bay, chuyến xe hoặc cuộc hẹn",
+      "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-022",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Lỡ cầm về chìa khóa, remote hoặc khóa đĩa của xe thuê sau khi đã trả xe: gửi lại cửa hàng thế nào",
+      "intent": "Biết cách xử lý khi phát hiện mình còn giữ chìa, remote smartkey hoặc phụ kiện của xe thuê sau khi đã trả: báo ngay, hẹn mang lại hoặc gửi qua dịch vụ giao hàng an toàn.",
+      "kw": "mang nhầm chìa khóa xe thuê về",
+      "kw2": [
+        "quên trả remote xe thuê",
+        "giữ nhầm khóa đĩa xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê vừa trả xe vội trước khi rời Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-023",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Đặt lại đồng hồ Trip khi nhận xe thuê: theo dõi quãng đã đi để ước lượng xăng và kể lại khi trả xe",
+      "intent": "Biết cách dùng đồng hồ Trip trên xe thuê có trang bị để đo quãng đường từng ngày, ước lượng lúc cần đổ xăng, ghi chép chuyến đi và đối chiếu với số km lúc nhận khi trả xe.",
+      "kw": "đặt lại trip xe máy",
+      "kw2": [
+        "đồng hồ trip xe ga",
+        "theo dõi quãng đường xe thuê"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê theo tuần, người đi phượt muốn ghi chép quãng đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-024",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Trả xe thuê tháng khi đang có thẻ gửi xe chung cư: hủy thẻ, gỡ tem xe và báo ban quản lý trước ngày trả",
+      "intent": "Lên kế hoạch thủ tục với bãi gửi xe chung cư trước khi trả xe thuê tháng: hủy hoặc chuyển thẻ gửi xe, gỡ tem dán, hỏi lại khoản đã nộp cho thẻ và tránh bị tính phí tháng sau.",
+      "kw": "hủy thẻ gửi xe chung cư",
+      "kw2": [
+        "trả xe thuê tháng ở chung cư",
+        "gỡ tem gửi xe khi trả xe"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người thuê xe theo tháng đang sống ở chung cư",
+      "location_scope": "chung cư ở Long Biên và các quận nội thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-011-025",
+      "child_id": "C-THUE-NHAN-TRA",
+      "title": "Cây xăng gần cửa hàng trên đường Nguyễn Văn Cừ, Bồ Đề: đổ xăng ngay sau khi nhận và trước khi trả xe",
+      "intent": "Lên kế hoạch ghé cây xăng gần cửa hàng ở Long Biên khi vừa nhận xe hoặc trước lúc trả: vị trí trên trục Nguyễn Văn Cừ, hướng đi, chỗ quay đầu và tránh giờ đông.",
+      "kw": "cây xăng nguyễn văn cừ long biên",
+      "kw2": [
+        "đổ xăng trước khi trả xe long biên",
+        "cây xăng gần bồ đề"
+      ],
+      "links": [
+        "/thue-xe/nhan-tra-xe/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-011",
+      "audience": "người nhận và trả xe tại cửa hàng ở Bồ Đề",
+      "location_scope": "Bồ Đề, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-001",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Tiền polymer Việt Nam dễ nhầm mệnh giá: khách quốc tế trả tiền xăng, gửi xe, vá lốp không bị lẫn",
+      "intent": "Biết cách phân biệt nhanh các tờ tiền polymer có màu gần giống nhau, chuẩn bị tiền lẻ và kiểm lại tiền thối khi trả tiền xăng, gửi xe hay vá lốp trong lúc tự lái xe máy.",
+      "kw": "tiền việt nam dễ nhầm mệnh giá",
+      "kw2": [
+        "phân biệt tiền polymer việt nam",
+        "tiền lẻ khi đi xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế mới đến, chưa quen tiền Việt",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-002",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "IDP theo Công ước 1949 hay 1968: kiểm tra giấy phép lái xe quốc tế trước khi chạy xe máy ở Việt Nam",
+      "intent": "Hiểu sự khác nhau giữa giấy phép lái xe quốc tế cấp theo Công ước Geneva 1949 và Công ước Vienna 1968, cách xem mẫu IDP của mình và hệ quả khi lái xe máy ở Việt Nam.",
+      "kw": "idp công ước 1968 việt nam",
+      "kw2": [
+        "giấy phép lái xe quốc tế 1949",
+        "công ước viên 1968 giấy phép lái xe"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế đã có hoặc đang định làm IDP",
+      "location_scope": "Việt Nam, áp dụng khi lái xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-003",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bằng lái nước mình chỉ có hạng ô tô hoặc là bằng tập lái: khách quốc tế có được chạy xe máy ở Việt Nam",
+      "intent": "Hiểu vì sao giấy phép lái xe chỉ ghi hạng ô tô, bằng tập lái hay bằng tạm thời không thay được hạng mô tô khi lái xe máy ở Việt Nam, và nên chuẩn bị gì trước chuyến đi.",
+      "kw": "idp không có hạng xe máy",
+      "kw2": [
+        "bằng tập lái nước ngoài ở việt nam",
+        "khách quốc tế chỉ có bằng ô tô"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế chỉ có bằng ô tô hoặc bằng tập lái",
+      "location_scope": "Việt Nam, khi thuê xe ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-004",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Giấy phép hạng A1 hay hạng A: khách quốc tế được lái xe máy dung tích bao nhiêu khi ở Hà Nội",
+      "intent": "Nắm cách đối chiếu hạng A1, hạng A ghi trên giấy phép lái xe quốc tế với phân hạng của Luật Trật tự, an toàn giao thông đường bộ 2024 để chọn xe máy có dung tích phù hợp.",
+      "kw": "idp hạng a1 xe 125cc",
+      "kw2": [
+        "giấy phép lái xe quốc tế hạng a",
+        "khách quốc tế lái xe trên 125cc"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế có giấy phép hạng A1 hoặc A ở nước mình",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-005",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bảo hiểm du lịch mua ở nước mình có chi trả khi tự lái xe máy ở Việt Nam: đọc điều khoản nào trước",
+      "intent": "Biết cách đọc các điều khoản bảo hiểm du lịch về lái xe máy như điều kiện giấy phép, dung tích xe, mũ bảo hiểm để hỏi lại hãng bảo hiểm trước khi thuê xe ở Hà Nội.",
+      "kw": "bảo hiểm du lịch xe máy",
+      "kw2": [
+        "travel insurance xe máy việt nam",
+        "bảo hiểm du lịch có trả tai nạn xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế mua bảo hiểm du lịch trước chuyến đi",
+      "location_scope": "Việt Nam, khi tự lái ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-006",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Vừa xuống chuyến bay dài đến Hà Nội có nên nhận xe máy ngay: lệch múi giờ, mệt và chọn giờ nhận xe",
+      "intent": "Lên kế hoạch thời điểm nhận xe máy sau chuyến bay dài, tự đánh giá mức mệt do lệch múi giờ và chọn khung giờ chạy đầu tiên an toàn hơn khi mới đặt chân tới Hà Nội.",
+      "kw": "nhận xe máy sau chuyến bay dài",
+      "kw2": [
+        "lệch múi giờ có nên lái xe máy",
+        "mới đến hà nội nhận xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế bay đường dài tới Nội Bài",
+      "location_scope": "Sân bay Nội Bài và nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-007",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Đèn đỏ có được rẽ phải không: khách quốc tế quen luật nước mình cần biết gì khi chạy xe máy ở Hà Nội",
+      "intent": "Hiểu quy định về rẽ phải khi đèn đỏ ở Việt Nam, nhận biết biển hoặc đèn cho phép rẽ phải và bỏ thói quen rẽ phải tự do mang từ nước mình khi chạy xe máy ở Hà Nội.",
+      "kw": "đèn đỏ có được rẽ phải",
+      "kw2": [
+        "rẽ phải khi đèn đỏ việt nam",
+        "biển cho phép rẽ phải khi đèn đỏ"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế quen luật rẽ phải khi đèn đỏ ở nước mình",
+      "location_scope": "Các ngã tư có đèn tín hiệu ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-008",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Thấy người địa phương leo vỉa hè, đi ngược chiều, chở ba: thói quen khách quốc tế không nên bắt chước",
+      "intent": "Hiểu vì sao những cảnh dễ thấy trên phố Hà Nội như leo vỉa hè, đi ngược chiều, vượt đèn đỏ hay chở ba người là vi phạm, và cách tự lái đúng luật mà vẫn hòa vào dòng xe.",
+      "kw": "thói quen xấu khi đi xe máy",
+      "kw2": [
+        "leo vỉa hè xe máy có bị phạt",
+        "chở ba người trên xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế quan sát giao thông Hà Nội lần đầu",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-009",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Hiệu lệnh còi và tay của cảnh sát giao thông ở ngã tư Hà Nội: khách quốc tế hiểu để dừng và đi đúng",
+      "intent": "Hiểu ý nghĩa các tư thế tay, gậy chỉ huy và tiếng còi của người điều khiển giao thông, cùng thứ tự ưu tiên giữa hiệu lệnh, đèn tín hiệu và biển báo khi chạy xe máy ở Hà Nội.",
+      "kw": "hiệu lệnh cảnh sát giao thông",
+      "kw2": [
+        "tư thế tay của cảnh sát giao thông",
+        "thứ tự ưu tiên hiệu lệnh đèn biển báo"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế tự lái qua ngã tư có người điều khiển",
+      "location_scope": "Các ngã tư lớn ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-010",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Ghé chùa, đền, phủ ở Hà Nội bằng xe máy: khách quốc tế dựng xe, ăn mặc và cư xử thế nào cho phải phép",
+      "intent": "Biết cách dựng xe đúng chỗ ở cổng chùa, đền, chuẩn bị trang phục kín đáo, tháo mũ, giữ yên lặng và ứng xử lịch sự khi ghé nơi thờ tự trong chuyến tự lái xe máy.",
+      "kw": "ứng xử khi đi chùa đền",
+      "kw2": [
+        "trang phục đi chùa ở hà nội",
+        "dựng xe máy ở cổng chùa"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế tham quan nơi thờ tự",
+      "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-011",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Rạp đám cưới, đám tang dựng kín ngõ ở Hà Nội: khách quốc tế dắt xe qua hay đi đường vòng",
+      "intent": "Biết cách xử lý khi ngõ bị rạp cưới hay rạp tang chắn lối: dừng sớm, hỏi lối đi, dắt xe hoặc đi vòng, không bấm còi và cư xử tôn trọng gia đình đang có việc.",
+      "kw": "rạp đám cưới chắn ngõ",
+      "kw2": [
+        "đám tang trong ngõ đi xe máy",
+        "gặp đoàn đưa tang trên đường"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế ở homestay, căn hộ trong ngõ",
+      "location_scope": "Các ngõ dân cư nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-012",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Biển Khu vực cấm và Cấm chụp ảnh ven đường ngoại thành: khách quốc tế đi xe máy nên dừng và chụp thế nào",
+      "intent": "Hiểu ý nghĩa biển khu vực cấm và biển cấm chụp ảnh gần doanh trại, công trình quốc phòng ở ngoại thành Hà Nội, từ đó biết cách dừng xe và chụp ảnh mà không vi phạm.",
+      "kw": "biển khu vực cấm chụp ảnh",
+      "kw2": [
+        "khu quân sự cấm chụp ảnh",
+        "khách nước ngoài chụp ảnh khu vực cấm"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế thích dừng xe chụp ảnh dọc đường",
+      "location_scope": "Ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-013",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Gõ tên phố không dấu trên bản đồ dễ dẫn sai chỗ: khách quốc tế tìm đúng địa điểm ở Hà Nội thế nào",
+      "intent": "Biết cách tìm đúng địa điểm khi tên phố tiếng Việt gõ không dấu bị trùng hoặc gần giống nhau, dùng ghim vị trí, ảnh địa chỉ và kiểm tra quận trước khi đi xe máy.",
+      "kw": "tên phố không dấu bản đồ",
+      "kw2": [
+        "tìm địa chỉ hà nội không dấu",
+        "tên đường trùng nhau ở hà nội"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế tự dẫn đường bằng điện thoại",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-014",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Đọc tin nhắn tiếng Việt viết tắt của chủ xe: ko, đc, nhé, ạ và cách trả lời ngắn gọn cho khách quốc tế",
+      "intent": "Hiểu các chữ viết tắt và từ đệm hay gặp trong tin nhắn tiếng Việt như ko, đc, nhé, ạ để không hiểu sai giờ hẹn, địa điểm và lời dặn của chủ xe, rồi trả lời ngắn gọn.",
+      "kw": "tiếng việt viết tắt trong tin nhắn",
+      "kw2": [
+        "ko đc nghĩa là gì",
+        "đọc tin nhắn tiếng việt của chủ xe"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế liên lạc với chủ xe qua ứng dụng nhắn tin",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-015",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Biển cấm đỗ ngày chẵn, ngày lẻ ở Hà Nội: khách quốc tế đọc biển và tính ngày để đỗ xe máy đúng chỗ",
+      "intent": "Nắm ý nghĩa biển cấm đỗ xe ngày chẵn, ngày lẻ, cách tính theo ngày dương lịch và cách đọc biển phụ khung giờ đi kèm để đỗ xe máy bên đường mà không vi phạm.",
+      "kw": "biển cấm đỗ ngày chẵn lẻ",
+      "kw2": [
+        "cấm đỗ xe ngày lẻ",
+        "biển cấm đỗ ngày chẵn với xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế đỗ xe ven đường",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-016",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bọc hộ chiếu và giấy phép lái xe quốc tế chống ướt khi chạy xe máy mùa mưa ở Hà Nội",
+      "intent": "Biết cách đóng gói hộ chiếu, giấy phép lái xe quốc tế và bằng lái gốc chống nước, để ở chỗ dễ lấy khi bị kiểm tra và tránh giấy tờ bị nhòe, rách khi gặp mưa hay lội nước.",
+      "kw": "bọc hộ chiếu chống nước",
+      "kw2": [
+        "giấy phép lái xe quốc tế bị ướt",
+        "túi chống nước đựng giấy tờ"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế tự lái trong mùa mưa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-017",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Chữ tiếng Việt trên biển phụ giao thông: trừ, cấm, giờ, xe máy và cách khách quốc tế dịch nhanh khi đang đi",
+      "intent": "Hiểu các từ tiếng Việt hay xuất hiện trên biển phụ như trừ, cấm, xe máy, ô tô, giờ, ngày để áp dụng đúng biển chính đi kèm khi tự lái xe máy ở Hà Nội.",
+      "kw": "chữ trên biển phụ giao thông",
+      "kw2": [
+        "biển phụ tiếng việt nghĩa là gì",
+        "từ tiếng việt trên biển báo"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế không đọc được tiếng Việt",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-018",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bị lập biên bản giao thông sát ngày bay: khách quốc tế nộp phạt thế nào để không bị tạm hoãn xuất cảnh",
+      "intent": "Hiểu các bước sau khi bị lập biên bản vi phạm giao thông, những cách nộp phạt chính thức và trường hợp người nước ngoài có thể bị tạm hoãn xuất cảnh khi chưa chấp hành quyết định xử phạt.",
+      "kw": "tạm hoãn xuất cảnh người nước ngoài",
+      "kw2": [
+        "nộp phạt giao thông trước khi về nước",
+        "khách quốc tế bị lập biên bản giao thông"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế sắp kết thúc chuyến đi",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-019",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Xe máy thuê đứng tên chủ xe, không phải tên mình: khách quốc tế có cần giấy ủy quyền khi bị kiểm tra",
+      "intent": "Hiểu vì sao người lái không cần đứng tên trên giấy đăng ký xe, lỗi không chính chủ áp dụng với ai và nên mang giấy tờ, hợp đồng thuê nào để trình bày khi bị kiểm tra.",
+      "kw": "đi xe không chính chủ",
+      "kw2": [
+        "lỗi không chính chủ xe máy",
+        "giấy ủy quyền khi lái xe máy thuê"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế lo bị phạt vì xe không đứng tên mình",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-020",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Khách quốc tế ở Hà Nội đúng Tết Nguyên đán: phố vắng, tiệm sửa xe nghỉ và những lưu ý khi tự lái xe máy",
+      "intent": "Lên kế hoạch tự lái xe máy trong những ngày Tết Nguyên đán ở Hà Nội khi nhiều tiệm sửa xe, quán ăn nghỉ, nhịp phố thay đổi và có những phong tục đầu năm cần tôn trọng.",
+      "kw": "đi xe máy hà nội dịp tết",
+      "kw2": [
+        "tết nguyên đán hà nội đi xe máy",
+        "tiệm sửa xe nghỉ tết"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế du lịch Hà Nội dịp Tết",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-021",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Tháng nào sang Hà Nội tự lái xe máy dễ chịu nhất: thời tiết từng mùa để khách quốc tế lên lịch chuyến đi",
+      "intent": "Lên kế hoạch chọn tháng đến Hà Nội phù hợp để tự lái xe máy, dựa trên đặc điểm thời tiết mùa xuân, hè, thu, đông và những dịp lễ đông đúc nên tránh.",
+      "kw": "tháng nào nên đi hà nội",
+      "kw2": [
+        "hà nội mùa nào đẹp nhất",
+        "thời tiết hà nội theo tháng"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế đang lên lịch chuyến đi",
+      "location_scope": "Hà Nội và vùng lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-022",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Sinh viên quốc tế học trao đổi một học kỳ ở Hà Nội thuê xe máy: gửi xe ở trường và đi lại quanh ký túc xá",
+      "intent": "Lên kế hoạch thuê và dùng xe máy trong một học kỳ trao đổi, từ giấy phép cần có, chỗ gửi xe trong trường đến tuyến đi giữa ký túc xá, giảng đường và khu trung tâm.",
+      "kw": "sinh viên quốc tế thuê xe máy",
+      "kw2": [
+        "sinh viên trao đổi ở hà nội",
+        "du học sinh nước ngoài đi xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "sinh viên quốc tế học trao đổi",
+      "location_scope": "Cầu Giấy, Đống Đa, Hai Bà Trưng",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-023",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bị người đi đường quát vì đi chậm hay chắn lối: khách quốc tế phản ứng thế nào để không thành xung đột",
+      "intent": "Biết cách giữ bình tĩnh khi bị người đi đường to tiếng vì đi chậm, chắn lối hay dừng đột ngột, tấp vào lề an toàn, xin lỗi ngắn gọn và không để va chạm lời nói leo thang.",
+      "kw": "bị quát khi đi xe máy",
+      "kw2": [
+        "tránh xung đột trên đường hà nội",
+        "khách nước ngoài bị mắng khi lái xe"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế mới tự lái",
+      "location_scope": "Nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-013-024",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Để giấy phép lái xe quốc tế ở khách sạn, chỉ mang ảnh chụp trên điện thoại: có đủ khi bị kiểm tra không",
+      "intent": "Hiểu vì sao ảnh chụp giấy phép lái xe và hộ chiếu trên điện thoại không thay được bản gốc khi bị kiểm tra, và cách mang bản gốc theo người gọn gàng, an toàn.",
+      "kw": "ảnh chụp bằng lái có hợp lệ",
+      "kw2": [
+        "mang bản gốc giấy phép lái xe quốc tế",
+        "ảnh chụp giấy tờ khi bị kiểm tra"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-013",
+      "audience": "khách quốc tế ngại mang giấy tờ gốc theo người",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-001",
+      "child_id": "C-GPLX",
+      "title": "Bằng A1 cấp trước năm 2025 khi đổi, cấp lại sẽ ghi hạng gì và kèm điều kiện hạn chế ra sao",
+      "intent": "Hiểu quy định chuyển tiếp của Luật Trật tự, an toàn giao thông đường bộ 2024 với bằng A1 cũ: khi nào còn dùng nguyên, khi đổi hoặc cấp lại được ghi hạng mới và hạn chế gì.",
+      "kw": "đổi bằng a1 cũ sang hạng mới",
+      "kw2": [
+        "bằng a1 cấp trước 2025",
+        "quy định chuyển tiếp giấy phép lái xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng A1 cấp trước năm 2025 đang đi xe ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-002",
+      "child_id": "C-GPLX",
+      "title": "Bằng A2 cũ có còn giá trị theo luật mới không: đổi sang hạng A và phạm vi xe được phép lái",
+      "intent": "Nắm việc bằng A2 cấp trước năm 2025 vẫn được sử dụng, khi đổi hoặc cấp lại sẽ chuyển sang hạng A, và người có bằng này được lái những loại mô tô hai bánh nào.",
+      "kw": "bằng a2 cũ đổi sang hạng a",
+      "kw2": [
+        "bằng a2 còn giá trị không",
+        "hạng a lái được xe gì"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người đi xe phân khối lớn đang giữ bằng A2 cũ",
+      "location_scope": "Hà Nội và các tỉnh lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-003",
+      "child_id": "C-GPLX",
+      "title": "Ngoài 50 tuổi mới học bằng lái xe máy A1 ở Hà Nội: khám sức khỏe, ôn lý thuyết và luyện sa hình",
+      "intent": "Lên kế hoạch học và thi bằng A1 khi đã lớn tuổi: chuẩn bị giấy khám sức khỏe, cách ôn lý thuyết vừa sức, luyện các bài sa hình và giữ an toàn trong những buổi tập.",
+      "kw": "lớn tuổi học bằng lái xe máy",
+      "kw2": [
+        "người trung niên thi bằng a1",
+        "học bằng a1 khi lớn tuổi"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người trung niên và cao tuổi chưa từng có bằng lái xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-004",
+      "child_id": "C-GPLX",
+      "title": "Đã có bằng A1 muốn lái mô tô trên 125cc: học và thi thêm giấy phép hạng A như thế nào",
+      "intent": "Biết cách đăng ký đào tạo và sát hạch giấy phép lái xe hạng A khi đã có bằng A1, gồm hồ sơ, khám sức khỏe, nội dung thi và thời gian chuẩn bị hợp lý.",
+      "kw": "có bằng a1 thi thêm hạng a",
+      "kw2": [
+        "thi bằng lái hạng a",
+        "học bằng mô tô trên 125cc"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng A1 muốn chuyển lên mô tô dung tích lớn hơn",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-005",
+      "child_id": "C-GPLX",
+      "title": "Lái xe máy không đúng hạng giấy phép: bị xử lý thế nào và vì sao rắc rối hơn khi có va chạm",
+      "intent": "Hiểu việc điều khiển xe máy vượt phạm vi hạng giấy phép bị coi là vi phạm gì theo Nghị định 168/2024/NĐ-CP và hậu quả pháp lý, trách nhiệm bồi thường khi xảy ra va chạm.",
+      "kw": "lái xe máy không đúng hạng bằng",
+      "kw2": [
+        "giấy phép lái xe không phù hợp loại xe",
+        "lái xe vượt hạng bằng lái"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người đi xe máy chưa rõ hạng bằng của mình phù hợp xe nào",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-006",
+      "child_id": "C-GPLX",
+      "title": "Khám sức khỏe để thi bằng lái xe máy A1 ở Hà Nội: khám ở đâu, khám những gì và mang giấy tờ nào",
+      "intent": "Biết cách chuẩn bị đi khám sức khỏe lái xe hạng A1 theo Thông tư 36/2024/TT-BYT: chọn cơ sở khám đủ điều kiện, các mục khám, giấy tờ mang theo và thời hạn dùng giấy khám.",
+      "kw": "khám sức khỏe thi bằng lái a1",
+      "kw2": [
+        "giấy khám sức khỏe lái xe",
+        "khám sức khỏe lái xe ở hà nội"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người chuẩn bị nộp hồ sơ học và thi bằng A1",
+      "location_scope": "Hà Nội (các bệnh viện, phòng khám được phép khám sức khỏe lái xe)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-007",
+      "child_id": "C-GPLX",
+      "title": "Cận thị, loạn thị hay mù màu có thi được bằng lái xe máy không: đọc đúng tiêu chuẩn sức khỏe hạng A1",
+      "intent": "Hiểu tiêu chuẩn thị lực và nhận biết màu sắc trong quy định sức khỏe người lái xe hạng A1, để biết mình có đủ điều kiện thi và cần chuẩn bị kính, khám mắt ra sao.",
+      "kw": "cận thị thi bằng lái xe máy",
+      "kw2": [
+        "mù màu thi bằng a1",
+        "tiêu chuẩn thị lực lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có tật khúc xạ hoặc rối loạn sắc giác muốn thi bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-008",
+      "child_id": "C-GPLX",
+      "title": "Sắp đủ 18 tuổi muốn có bằng A1: khi nào được đăng ký học và khi nào được dự sát hạch",
+      "intent": "Nắm cách tính tuổi theo Luật Trật tự, an toàn giao thông đường bộ 2024 để học sinh lớp 12 biết lúc nộp hồ sơ học, ngày đủ điều kiện dự sát hạch và được đi xe gì trước đó.",
+      "kw": "chưa đủ 18 tuổi thi bằng a1",
+      "kw2": [
+        "17 tuổi học bằng lái xe máy",
+        "đủ 18 tuổi thi bằng a1"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "học sinh lớp 12 và phụ huynh",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-009",
+      "child_id": "C-GPLX",
+      "title": "Người ngoại tỉnh thi bằng A1 ở Hà Nội: có cần đăng ký tạm trú và chọn nơi nộp hồ sơ thế nào",
+      "intent": "Biết cách đăng ký học và sát hạch bằng A1 ngay tại Hà Nội khi thường trú ở tỉnh khác, gồm điều kiện cư trú, giấy tờ tùy thân cần có và cách chọn cơ sở gần chỗ ở.",
+      "kw": "ngoại tỉnh thi bằng a1 hà nội",
+      "kw2": [
+        "thi bằng lái xe máy không cần hộ khẩu",
+        "sinh viên tỉnh khác thi bằng a1"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "sinh viên, người lao động từ tỉnh khác đang sống ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-010",
+      "child_id": "C-GPLX",
+      "title": "Đổi, cấp lại bằng lái xe máy ở Hà Nội từ năm 2025: nộp ở công an xã, phường hay Phòng CSGT",
+      "intent": "Biết cách chọn nơi nộp hồ sơ đổi, cấp lại giấy phép lái xe sau khi việc cấp chuyển sang ngành công an, kể cả khi bằng được cấp ở tỉnh khác, và cách nộp trực tuyến.",
+      "kw": "đổi bằng lái ở đâu hà nội",
+      "kw2": [
+        "đổi bằng lái tại công an xã",
+        "bằng lái tỉnh khác đổi ở hà nội"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng lái cần đổi hoặc cấp lại khi đang sống ở Hà Nội",
+      "location_scope": "Hà Nội (công an phường, xã có điểm tiếp nhận và Phòng CSGT)",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-011",
+      "child_id": "C-GPLX",
+      "title": "Bằng lái xe máy bị mờ chữ, gãy thẻ hoặc bong ảnh: đổi lại thế nào và có phải thi lại không",
+      "intent": "Biết cách xử lý thẻ giấy phép lái xe bị hỏng: đánh giá thẻ còn dùng được không, chuẩn bị hồ sơ đổi, trường hợp mất hồ sơ gốc và khi nào phải sát hạch lại.",
+      "kw": "bằng lái xe máy bị hỏng",
+      "kw2": [
+        "đổi bằng lái bị mờ",
+        "mất hồ sơ gốc bằng lái"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có thẻ bằng lái cũ bị hư hỏng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-012",
+      "child_id": "C-GPLX",
+      "title": "Bằng lái xe máy bìa giấy cấp trước tháng 7 năm 2012: còn dùng được không và có nên đổi sang thẻ PET",
+      "intent": "Hiểu giá trị sử dụng của bằng xe máy bìa giấy không thời hạn theo luật hiện hành, lý do nhà nước khuyến khích đổi và các bước đổi sang thẻ mới khi cần.",
+      "kw": "đổi bằng lái bìa giấy",
+      "kw2": [
+        "bằng lái giấy còn giá trị",
+        "đổi bằng lái giấy sang pet"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng lái xe máy cũ cấp từ nhiều năm trước",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-013",
+      "child_id": "C-GPLX",
+      "title": "Điểm giấy phép lái xe máy hoạt động thế nào: 12 điểm, bị trừ khi nào và khi nào tự phục hồi đủ",
+      "intent": "Hiểu cơ chế điểm của giấy phép lái xe theo Luật Trật tự, an toàn giao thông đường bộ 2024: số điểm ban đầu, cách bị trừ khi vi phạm và điều kiện tự phục hồi đủ 12 điểm.",
+      "kw": "điểm giấy phép lái xe máy",
+      "kw2": [
+        "12 điểm bằng lái",
+        "phục hồi điểm bằng lái"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người đi xe máy thường xuyên ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-014",
+      "child_id": "C-GPLX",
+      "title": "Bị trừ hết điểm giấy phép lái xe: bao lâu được kiểm tra kiến thức pháp luật để lái xe trở lại",
+      "intent": "Biết cách xử lý khi giấy phép lái xe bị trừ hết điểm: thời gian không được lái, đăng ký bài kiểm tra kiến thức pháp luật do Cảnh sát giao thông tổ chức và phục hồi điểm.",
+      "kw": "bị trừ hết điểm bằng lái",
+      "kw2": [
+        "thi lý thuyết phục hồi điểm",
+        "kiểm tra kiến thức pháp luật giao thông"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng lái đã bị trừ nhiều điểm",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-015",
+      "child_id": "C-GPLX",
+      "title": "Bị tước quyền sử dụng giấy phép lái xe máy: khác gì trừ điểm và trong thời gian bị tước có được lái",
+      "intent": "Hiểu hình thức tước quyền sử dụng giấy phép lái xe theo Nghị định 168/2024/NĐ-CP, phân biệt với trừ điểm, và hậu quả nếu vẫn điều khiển xe máy trong thời gian bị tước.",
+      "kw": "tước quyền sử dụng bằng lái",
+      "kw2": [
+        "bị tước bằng lái có được lái xe",
+        "tước bằng lái và trừ điểm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người vi phạm giao thông bị áp dụng hình thức tước bằng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-016",
+      "child_id": "C-GPLX",
+      "title": "Tích hợp giấy phép lái xe vào VNeID: các bước làm và cách kiểm tra thông tin hạng bằng hiển thị",
+      "intent": "Biết cách tích hợp giấy phép lái xe vào tài khoản định danh điện tử VNeID, kiểm tra hạng và ngày cấp hiển thị, và xử lý khi thông tin chưa đồng bộ hoặc bị sai.",
+      "kw": "tích hợp bằng lái vào vneid",
+      "kw2": [
+        "thêm bằng lái vào vneid",
+        "vneid không hiện bằng lái"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng lái muốn dùng giấy tờ điện tử",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-017",
+      "child_id": "C-GPLX",
+      "title": "Vừa thi đỗ sát hạch A1 nhưng chưa nhận thẻ: đã được tự đi xe máy ra đường hay chưa",
+      "intent": "Hiểu thời điểm người vừa đỗ sát hạch A1 chính thức được điều khiển xe máy, thời gian cấp giấy phép, cách kiểm tra bằng đã cấp trên VNeID và rủi ro khi đi sớm.",
+      "kw": "thi đỗ bằng a1 chưa có thẻ",
+      "kw2": [
+        "bao lâu có bằng a1 sau khi thi",
+        "chờ cấp bằng lái có được đi xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người vừa đỗ sát hạch A1",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-018",
+      "child_id": "C-GPLX",
+      "title": "Trượt sát hạch bằng A1: bảo lưu phần đã đạt, đăng ký thi lại và luyện lại phần trượt thế nào",
+      "intent": "Biết cách xử lý sau khi trượt sát hạch A1 theo Thông tư 12/2025/TT-BCA: phần nào được bảo lưu, thời hạn bảo lưu, thủ tục đăng ký thi lại và cách luyện phần còn yếu.",
+      "kw": "trượt thi bằng a1 thi lại",
+      "kw2": [
+        "bảo lưu kết quả sát hạch a1",
+        "đăng ký thi lại bằng a1"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người vừa trượt phần lý thuyết hoặc thực hành bằng A1",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-019",
+      "child_id": "C-GPLX",
+      "title": "Có bằng lái ô tô hạng B hoặc B2 cũ có được đi xe máy không: tránh nhầm với hạng B1 mới",
+      "intent": "Hiểu phạm vi giấy phép lái xe ô tô theo Luật 2024 và các bằng cấp trước 2025, để biết người chỉ có bằng ô tô có được điều khiển xe máy hay phải thi thêm A1.",
+      "kw": "bằng ô tô lái được xe máy",
+      "kw2": [
+        "bằng b2 có đi xe máy được không",
+        "bằng b1 mới lái xe gì"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người đã có bằng ô tô nhưng chưa có bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-020",
+      "child_id": "C-GPLX",
+      "title": "Người khuyết tật lái xe mô tô ba bánh dùng riêng: được cấp giấy phép lái xe hạng nào theo luật mới",
+      "intent": "Nắm quy định cấp giấy phép hạng A1 cho người khuyết tật điều khiển xe mô tô ba bánh dùng cho người khuyết tật, tiêu chuẩn sức khỏe áp dụng và các bước học, sát hạch.",
+      "kw": "người khuyết tật thi bằng lái",
+      "kw2": [
+        "xe ba bánh người khuyết tật cần bằng gì",
+        "bằng a1 cho người khuyết tật"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người khuyết tật vận động và gia đình",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-021",
+      "child_id": "C-GPLX",
+      "title": "Người nước ngoài sống ở Hà Nội chưa có bằng lái: học và thi sát hạch A1 Việt Nam cần những gì",
+      "intent": "Biết cách để người nước ngoài cư trú, làm việc hoặc học tập tại Hà Nội đăng ký học, sát hạch và nhận giấy phép A1 Việt Nam khi chưa có bằng ở nước mình để đổi.",
+      "kw": "người nước ngoài thi bằng a1",
+      "kw2": [
+        "thi bằng lái xe máy cho người nước ngoài",
+        "người nước ngoài học lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người nước ngoài làm việc, học tập dài hạn tại Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-022",
+      "child_id": "C-GPLX",
+      "title": "Người ngoài 60 tuổi có phải đổi bằng lái xe máy hay đi khám sức khỏe định kỳ để lái tiếp không",
+      "intent": "Hiểu quy định về thời hạn giấy phép A1 và điều kiện sức khỏe với người cao tuổi, để biết có bắt buộc đổi bằng, khám định kỳ hay chỉ cần tự đánh giá khả năng lái xe.",
+      "kw": "người cao tuổi đổi bằng lái",
+      "kw2": [
+        "bằng a1 có thời hạn không",
+        "60 tuổi có được lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người cao tuổi và con cháu trong gia đình",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-023",
+      "child_id": "C-GPLX",
+      "title": "Xe mô tô ba bánh chở hàng ở Hà Nội cần giấy phép lái xe hạng B1: hiểu đúng hạng mới từ năm 2025",
+      "intent": "Nắm phạm vi giấy phép hạng B1 theo Luật 2024 cho người lái xe mô tô ba bánh chở hàng, điều kiện học, sát hạch và cách kiểm tra xe ba bánh có đăng ký hợp lệ trước khi lái.",
+      "kw": "xe ba bánh cần bằng lái gì",
+      "kw2": [
+        "bằng b1 mô tô ba bánh",
+        "lái xe ba bánh chở hàng"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người buôn bán, giao hàng cần lái xe mô tô ba bánh",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-024",
+      "child_id": "C-GPLX",
+      "title": "Thông tin trên bằng lái xe máy bị sai họ tên hoặc ngày sinh: đề nghị sửa thế nào cho khớp căn cước",
+      "intent": "Biết cách xử lý khi họ tên, ngày sinh hoặc thông tin khác trên giấy phép lái xe không khớp căn cước: hồ sơ đề nghị cấp đổi, nơi nộp và cách kiểm tra lại trên VNeID.",
+      "kw": "sai thông tin trên bằng lái",
+      "kw2": [
+        "bằng lái sai ngày sinh",
+        "đổi bằng lái do sai tên"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người phát hiện bằng lái ghi sai thông tin cá nhân",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-018-025",
+      "child_id": "C-GPLX",
+      "title": "Giấy phép lái xe máy bị thu hồi trong những trường hợp nào: khác với tạm giữ và tước quyền sử dụng",
+      "intent": "Hiểu các trường hợp giấy phép lái xe bị thu hồi theo Luật 2024 như không đủ sức khỏe, cấp sai quy định, quá hạn tạm giữ không đến nhận, và việc cần làm sau khi bị thu hồi.",
+      "kw": "giấy phép lái xe bị thu hồi",
+      "kw2": [
+        "thu hồi bằng lái khi nào",
+        "bằng lái cấp sai quy định"
+      ],
+      "links": [
+        "/an-toan-phap-ly/giay-phep-lai-xe/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-018",
+      "audience": "người có bằng lái muốn hiểu rõ rủi ro pháp lý",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
