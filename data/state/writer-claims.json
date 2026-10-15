@@ -1,26 +1,47 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-15T10:28:31Z",
+  "updated_at": "2026-10-15T10:29:40Z",
   "leases": {
+    "W1": {
+      "ids": [
+        "BLG-03649",
+        "BLG-03650",
+        "BLG-03651",
+        "BLG-03652",
+        "BLG-03653",
+        "BLG-03654",
+        "BLG-03655",
+        "BLG-03656",
+        "BLG-03657",
+        "BLG-03658"
+      ],
+      "session": "s-mistral-w1",
+      "epoch": 1,
+      "claimed_at": "2026-10-15T10:28:31Z",
+      "heartbeat_at": "2026-10-15T10:28:31Z",
+      "ttl_hours": 12,
+      "expires_at": "2026-10-15T22:28:31Z",
+      "label": "mistral"
+    },
     "W2": {
       "ids": [
-        "BLG-03639",
-        "BLG-03640",
-        "BLG-03641",
-        "BLG-03642",
-        "BLG-03643",
-        "BLG-03644",
-        "BLG-03645",
-        "BLG-03646",
-        "BLG-03647",
-        "BLG-03648"
+        "BLG-03659",
+        "BLG-03660",
+        "BLG-03661",
+        "BLG-03662",
+        "BLG-03663",
+        "BLG-03664",
+        "BLG-03665",
+        "BLG-03666",
+        "BLG-03667",
+        "BLG-03668"
       ],
       "session": "s-claudeb-w2",
       "epoch": 1,
-      "claimed_at": "2026-10-15T10:19:22Z",
-      "heartbeat_at": "2026-10-15T10:27:50Z",
-      "ttl_hours": 48,
-      "expires_at": "2026-10-17T10:27:50Z",
+      "claimed_at": "2026-10-15T10:29:40Z",
+      "heartbeat_at": "2026-10-15T10:29:40Z",
+      "ttl_hours": 48.0,
+      "expires_at": "2026-10-17T10:29:40Z",
       "label": "claude-b"
     },
     "W3": {
@@ -43,27 +64,6 @@
       "ttl_hours": 48,
       "expires_at": "2026-10-17T05:18:51Z",
       "label": "claude"
-    },
-    "W1": {
-      "ids": [
-        "BLG-03649",
-        "BLG-03650",
-        "BLG-03651",
-        "BLG-03652",
-        "BLG-03653",
-        "BLG-03654",
-        "BLG-03655",
-        "BLG-03656",
-        "BLG-03657",
-        "BLG-03658"
-      ],
-      "session": "s-mistral-w1",
-      "epoch": 1,
-      "claimed_at": "2026-10-15T10:28:31Z",
-      "heartbeat_at": "2026-10-15T10:28:31Z",
-      "ttl_hours": 12,
-      "expires_at": "2026-10-15T22:28:31Z",
-      "label": "mistral"
     }
   }
 }
