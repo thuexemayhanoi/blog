@@ -44,7 +44,7 @@ Dù chọn phương án nào, chốt lại một tin nhắn cuối: "Em đã nh�
 
 ## Ví dụ một kịch bản xử lý gọn ở Long Biên
 
-Một khách thuê xe theo tháng để lại căn cước, tuần thứ hai công ty yêu cầu bay công tác Đà Nẵng hai ngày. Khách nhắn tiệm ngay buổi sáng: cần lấy lại căn cước cho chuyến bay, đề nghị gửi lại khoản cọc tiền cho hai ngày bay, xong chuyến thì đổi lại hoặc trả cọc tùy điều kiện. Tiệm đồng ý, khách ghé qua 112 Nguyễn Cừ lúc 10 giờ, nhận lại căn cước, đặt khoản cọc thay thế, chụp lại tin nhắn chốt. Chiều hôm sau khách về, hai bên đổi lại như cũ. Không ai mất thời gian quá mười phút, vì mọi thứ đều được nói trước bằng văn bản.
+Một khách thuê xe theo tháng để lại căn cước, tuần thứ hai công ty yêu cầu bay công tác Đà Nẵng hai ngày. Khách nhắn tiệm ngay buổi sáng: cần lấy lại căn cước cho chuyến bay, đề nghị gửi lại khoản cọc tiền cho hai ngày bay, xong chuyến thì đổi lại hoặc trả cọc tùy điều kiện. Tiệm đồng ý, khách ghé qua 112 Nguyễn Văn Cừ lúc 10 giờ, nhận lại căn cước, đặt khoản cọc thay thế, chụp lại tin nhắn chốt. Chiều hôm sau khách về, hai bên đổi lại như cũ. Không ai mất thời gian quá mười phút, vì mọi thứ đều được nói trước bằng văn bản.
 
 ## Chuẩn bị ngay từ đầu để khỏi bị động
 
