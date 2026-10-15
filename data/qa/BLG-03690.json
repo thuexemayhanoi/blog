@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03690",
   "title": "Đến tiệm bị yêu cầu cọc khác với tin nhắn đã chốt: đối chiếu bình tĩnh và quyết định tại chỗ",
-  "scored_at": "2026-10-15T10:58:55+00:00",
+  "scored_at": "2026-10-15T10:59:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1014,
+  "word_count": 1015,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-10-15-den-tiem-bi-yeu-cau-coc-khac-voi-tin-nhan-da-chot-doi-chieu-binh-tinh-va-quyet-d.md",
-  "content_sha256": "4c141609c7c9a500cce530e85999d1ba137afa7cd3f67c7c3e60e95ff4a046dd",
+  "content_sha256": "dff26b425fde6b2b97445456e79abb835da3a461dde58070f8981fda7c594892",
   "matrix_row_sha256": "b7cd43a3d0340095e218356295c42742d0563e0b57fd790ebeda78df4aad71b2",
   "result": "REPAIR",
   "grade": "REPAIR"

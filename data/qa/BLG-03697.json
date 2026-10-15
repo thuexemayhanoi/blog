@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03697",
   "title": "Thuê xe đi tỉnh nhiều ngày: chọn giấy tờ để lại tiệm, giữ lại giấy nào để nhận phòng và đi đường",
-  "scored_at": "2026-10-15T10:59:20+00:00",
+  "scored_at": "2026-10-15T10:59:53+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1069,
+  "word_count": 1066,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-10-15-thue-xe-di-tinh-nhieu-ngay-chon-giay-to-de-lai-tiem-giu-lai-giay-nao-de-nhan-pho.md",
-  "content_sha256": "405a02a5b6e309d1a3a8ceafef1d374aec9c906de7c5733ff8500847aa2a6447",
+  "content_sha256": "f4a99edb2bd6e46b88ff3985291df029a7d0d059c5bf0a1dafab506f860d5306",
   "matrix_row_sha256": "fbda23b3107ae6e78a48b8ab29fdbf466a667eab26a20c836c9b1230e185dd88",
   "result": "REPAIR",
   "grade": "REPAIR"

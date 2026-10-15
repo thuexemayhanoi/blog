@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03692",
   "title": "Để lại xe máy của mình làm tin khi thuê xe khác: đăng ký xe, chỗ để xe và trách nhiệm hai bên",
-  "scored_at": "2026-10-15T10:59:01+00:00",
+  "scored_at": "2026-10-15T10:59:47+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1063,
+  "word_count": 1069,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-10-15-de-lai-xe-may-cua-minh-lam-tin-khi-thue-xe-khac-dang-ky-xe-cho-de-xe-va-trach-nh.md",
-  "content_sha256": "7f3e4d6e2ae34b1c3832ba5a150b1dd9e568d13abc6609ce792c4039202291e5",
+  "content_sha256": "41daaf25722958f43d1575cf81c6f1f79a9c287e758a44c49525f7f4fd1d3045",
   "matrix_row_sha256": "aa0757f8dc9a14a0613407713a7e413ba4b21a0a1fa7e0faef634517c93b5864",
   "result": "REPAIR",
   "grade": "REPAIR"

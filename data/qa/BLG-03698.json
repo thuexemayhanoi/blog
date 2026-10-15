@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03698",
   "title": "Căn cước đang gửi ở tiệm thuê xe mà cần dùng gấp: mượn lại tạm thời và đổi sang hình thức khác",
-  "scored_at": "2026-10-15T10:59:21+00:00",
+  "scored_at": "2026-10-15T10:59:55+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1035,
+  "word_count": 1036,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -47,7 +47,7 @@
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
   "source_path": "_drafts/2026-10-15-can-cuoc-dang-gui-o-tiem-thue-xe-ma-can-dung-gap-muon-lai-tam-thoi-va-doi-sang-h.md",
-  "content_sha256": "e1b58727f530b70e5a9acfe25cb63f4b7ca1cb5f7f1073b64e260ef1b39d1d91",
+  "content_sha256": "cbeed3e60c93c959a3f25afc11bd0b82426c2b87bf818d35e60071311b58fb91",
   "matrix_row_sha256": "805f6506df271e7eec76cd6271e5491a4afbdea5130629fc9bdb07328d674629",
   "result": "REPAIR",
   "grade": "REPAIR"
