@@ -1,118 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-15T03:55:01+00:00",
+  "updated_at": "2026-10-15T04:03:13+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-03329",
-      "started_at": "2026-10-15T00:14:02+00:00",
-      "source": "_drafts/2026-10-15-sirius-hay-honda-future-xe-so-gon-nhe-hay-xe-so-dam-hon-cho-nguoi-di-xa.md",
-      "destination": "_posts/2026-10-15-sirius-hay-honda-future-xe-so-gon-nhe-hay-xe-so-dam-hon-cho-nguoi-di-xa.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03330",
-      "started_at": "2026-10-15T00:14:03+00:00",
-      "source": "_drafts/2026-10-15-sirius-hay-honda-vision-cho-khach-du-lich-xe-so-hay-xe-ga-de-di-hon-o-pho-co.md",
-      "destination": "_posts/2026-10-15-sirius-hay-honda-vision-cho-khach-du-lich-xe-so-hay-xe-ga-de-di-hon-o-pho-co.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:03+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03331",
-      "started_at": "2026-10-15T00:14:14+00:00",
-      "source": "_drafts/2026-10-15-di-sirius-ban-dem-o-ha-noi-bat-den-pha-den-cot-va-xu-ly-khi-bi-choi-den-nguoc-ch.md",
-      "destination": "_posts/2026-10-15-di-sirius-ban-dem-o-ha-noi-bat-den-pha-den-cot-va-xu-ly-khi-bi-choi-den-nguoc-ch.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:14+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03332",
-      "started_at": "2026-10-15T00:14:14+00:00",
-      "source": "_drafts/2026-10-15-sirius-trong-mua-nom-am-o-ha-noi-yen-uot-phanh-tron-va-de-may-kho-hon.md",
-      "destination": "_posts/2026-10-15-sirius-trong-mua-nom-am-o-ha-noi-yen-uot-phanh-tron-va-de-may-kho-hon.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:14+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03333",
-      "started_at": "2026-10-15T00:14:26+00:00",
-      "source": "_drafts/2026-10-15-yamaha-sirius-di-chua-huong-tu-ha-noi-duong-qua-my-duc-gui-xe-va-lich-xuat-phat.md",
-      "destination": "_posts/2026-10-15-yamaha-sirius-di-chua-huong-tu-ha-noi-duong-qua-my-duc-gui-xe-va-lich-xuat-phat.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03334",
-      "started_at": "2026-10-15T00:14:26+00:00",
-      "source": "_drafts/2026-10-15-yamaha-sirius-di-soc-son-va-den-soc-trong-ngay-duong-di-doc-len-den-va-cho-nghi.md",
-      "destination": "_posts/2026-10-15-yamaha-sirius-di-soc-son-va-den-soc-trong-ngay-duong-di-doc-len-den-va-cho-nghi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03335",
-      "started_at": "2026-10-15T00:14:37+00:00",
-      "source": "_drafts/2026-10-15-phanh-dia-sirius-keu-rit-hoac-rung-tay-khi-nao-binh-thuong-khi-nao-phai-dung-xe.md",
-      "destination": "_posts/2026-10-15-phanh-dia-sirius-keu-rit-hoac-rung-tay-khi-nao-binh-thuong-khi-nao-phai-dung-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03336",
-      "started_at": "2026-10-15T00:14:38+00:00",
-      "source": "_drafts/2026-10-15-sirius-bi-nhay-so-hoac-kho-vao-so-khi-dang-chay-dau-hieu-va-cach-xu-ly-tam-thoi.md",
-      "destination": "_posts/2026-10-15-sirius-bi-nhay-so-hoac-kho-vao-so-khi-dang-chay-dau-hieu-va-cach-xu-ly-tam-thoi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:38+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03337",
-      "started_at": "2026-10-15T00:14:50+00:00",
-      "source": "_drafts/2026-10-15-sirius-bi-nga-nhe-khi-dat-hoac-do-kiem-tra-can-so-tay-phanh-guong-truoc-khi-di-t.md",
-      "destination": "_posts/2026-10-15-sirius-bi-nga-nhe-khi-dat-hoac-do-kiem-tra-can-so-tay-phanh-guong-truoc-khi-di-t.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03338",
-      "started_at": "2026-10-15T00:14:50+00:00",
-      "source": "_drafts/2026-10-15-xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na.md",
-      "destination": "_posts/2026-10-15-xe-may-thue-vua-loi-qua-doan-pho-ngap-kiem-tra-gi-truoc-khi-no-may-lai-va-khi-na.md",
-      "result": "PUBLISHED",
-      "commit_sha": "c22e6449c64c0ff926e66474b9120b4e4ef4815a",
-      "finished_at": "2026-10-15T00:14:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-03339",
-      "started_at": "2026-10-15T00:20:23+00:00",
-      "source": "_drafts/2026-10-15-den-bao-loi-dong-co-tren-xe-phun-xang-nhay-hoac-sang-lien-tuc-y-nghia-va-viec-ne.md",
-      "destination": "_posts/2026-10-15-den-bao-loi-dong-co-tren-xe-phun-xang-nhay-hoac-sang-lien-tuc-y-nghia-va-viec-ne.md",
-      "result": "PUBLISHED",
-      "commit_sha": "8dfc6ac4f8f22f9118c41baa74308a3f263d3aaa",
-      "finished_at": "2026-10-15T00:20:23+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-03340",
       "started_at": "2026-10-15T00:20:23+00:00",
@@ -501,6 +391,116 @@
       "result": "PUBLISHED",
       "commit_sha": "6c932ffd4d57c7e7571f49794bd10f46474340d8",
       "finished_at": "2026-10-15T03:55:01+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-02813",
+      "started_at": "2026-10-15T04:02:12+00:00",
+      "source": "_drafts/2026-10-15-dien-thoai-dan-duong-gan-xe-may-tranh-nong-may-duoi-nang-tranh-nuoc-khi-mua.md",
+      "destination": "_posts/2026-10-15-dien-thoai-dan-duong-gan-xe-may-tranh-nong-may-duoi-nang-tranh-nuoc-khi-mua.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03379",
+      "started_at": "2026-10-15T04:02:12+00:00",
+      "source": "_drafts/2026-10-15-trung-tam-van-hoa-phap-lespace-o-trang-tien-xem-trien-lam-chieu-phim-va-gui-xe-g.md",
+      "destination": "_posts/2026-10-15-trung-tam-van-hoa-phap-lespace-o-trang-tien-xem-trien-lam-chieu-phim-va-gui-xe-g.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:12+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03380",
+      "started_at": "2026-10-15T04:02:24+00:00",
+      "source": "_drafts/2026-10-15-lang-co-dong-ngac-o-bac-tu-liem-dinh-lang-nha-tho-ho-khoa-bang-va-duong-xe-may-v.md",
+      "destination": "_posts/2026-10-15-lang-co-dong-ngac-o-bac-tu-liem-dinh-lang-nha-tho-ho-khoa-bang-va-duong-xe-may-v.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03381",
+      "started_at": "2026-10-15T04:02:24+00:00",
+      "source": "_drafts/2026-10-15-den-kim-lien-tran-nam-cua-thang-long-o-phuong-lien-di-xe-may-va-loi-vao-den.md",
+      "destination": "_posts/2026-10-15-den-kim-lien-tran-nam-cua-thang-long-o-phuong-lien-di-xe-may-va-loi-vao-den.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:25+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03382",
+      "started_at": "2026-10-15T04:02:37+00:00",
+      "source": "_drafts/2026-10-15-go-dong-da-va-tuong-dai-quang-trung-di-xe-may-toi-cong-vien-van-hoa-tren-tay-son.md",
+      "destination": "_posts/2026-10-15-go-dong-da-va-tuong-dai-quang-trung-di-xe-may-toi-cong-vien-van-hoa-tren-tay-son.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03383",
+      "started_at": "2026-10-15T04:02:37+00:00",
+      "source": "_drafts/2026-10-15-chua-lang-tren-pho-chua-lang-ghe-ngoi-chua-co-tho-tu-dao-hanh-bang-xe-may.md",
+      "destination": "_posts/2026-10-15-chua-lang-tren-pho-chua-lang-ghe-ngoi-chua-co-tho-tu-dao-hanh-bang-xe-may.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03384",
+      "started_at": "2026-10-15T04:02:50+00:00",
+      "source": "_drafts/2026-10-15-nha-tho-cua-bac-tren-phan-dinh-phung-ngam-kien-truc-va-dung-xe-may-ben-con-pho-c.md",
+      "destination": "_posts/2026-10-15-nha-tho-cua-bac-tren-phan-dinh-phung-ngam-kien-truc-va-dung-xe-may-ben-con-pho-c.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:50+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03385",
+      "started_at": "2026-10-15T04:02:50+00:00",
+      "source": "_drafts/2026-10-15-ngay-di-san-van-hoa-viet-nam-2311-chon-di-tich-o-ha-noi-va-chay-xe-may-di-tham-q.md",
+      "destination": "_posts/2026-10-15-ngay-di-san-van-hoa-viet-nam-2311-chon-di-tich-o-ha-noi-va-chay-xe-may-di-tham-q.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:02:50+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03386",
+      "started_at": "2026-10-15T04:03:02+00:00",
+      "source": "_drafts/2026-10-15-den-ly-quoc-su-giua-pho-co-tham-ngoi-den-tho-thien-su-nguyen-minh-khong-bang-xe.md",
+      "destination": "_posts/2026-10-15-den-ly-quoc-su-giua-pho-co-tham-ngoi-den-tho-thien-su-nguyen-minh-khong-bang-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:03:02+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03387",
+      "started_at": "2026-10-15T04:03:02+00:00",
+      "source": "_drafts/2026-10-15-cho-dong-xuan-bang-xe-may-cong-nao-de-gui-xe-khu-hang-nao-nen-ghe-va-gio-tranh-x.md",
+      "destination": "_posts/2026-10-15-cho-dong-xuan-bang-xe-may-cong-nao-de-gui-xe-khu-hang-nao-nen-ghe-va-gio-tranh-x.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:03:02+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03388",
+      "started_at": "2026-10-15T04:03:13+00:00",
+      "source": "_drafts/2026-10-15-cho-dem-pho-co-hang-dao-dong-xuan-cuoi-tuan-gui-xe-o-dau-va-dao-the-nao-cho-do-c.md",
+      "destination": "_posts/2026-10-15-cho-dem-pho-co-hang-dao-dong-xuan-cuoi-tuan-gui-xe-o-dau-va-dao-the-nao-cho-do-c.md",
+      "result": "PUBLISHED",
+      "commit_sha": "165cded5572b34974932a85157cc44b24298273e",
+      "finished_at": "2026-10-15T04:03:13+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
