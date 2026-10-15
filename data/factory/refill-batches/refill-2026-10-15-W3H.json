@@ -1,0 +1,351 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3H: chu de that, tao boi writer W3 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-001",
+   "child_id": "C-HD-GIA",
+   "title": "Thuê xe máy điện: tiền điện sạc pin ở nhà trọ, khách sạn có nằm trong giá thuê không",
+   "intent": "Hiểu rằng giá thuê xe máy điện cần liên hệ cửa hàng xác nhận, biết hỏi rõ tiền điện sạc do ai trả và cách thỏa thuận với chủ nhà trọ, khách sạn trước khi cắm sạc xe thuê.",
+   "kw": "tiền điện sạc xe máy điện thuê",
+   "kw2": [
+    "sạc xe điện ở nhà trọ có mất tiền",
+    "giá thuê xe máy điện gồm những gì"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người thuê xe máy điện đang ở trọ hoặc ở khách sạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-002",
+   "child_id": "C-HD-GIA",
+   "title": "Đi xe máy thuê cùng con nhỏ: ghế ngồi gắn xe, đai giữ bé có sẵn không và có tính thêm tiền",
+   "intent": "Biết hỏi cửa hàng trước khi đặt xe về ghế ngồi gắn xe hoặc đai giữ cho bé, khoản tiền nếu có (xác nhận trực tiếp) và khi nào nên tự mang đồ của gia đình theo.",
+   "kw": "ghế ngồi cho bé trên xe máy thuê",
+   "kw2": [
+    "đai đi xe máy cho bé",
+    "thuê xe máy có ghế trẻ em không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "gia đình có con nhỏ thuê xe máy đi lại trong thành phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-003",
+   "child_id": "C-HD-GIA",
+   "title": "Có cần boa cho nhân viên giao xe hoặc thợ đến sửa xe thuê không: thói quen ở Hà Nội",
+   "intent": "Hiểu tiền boa không phải khoản bắt buộc trong giá thuê xe máy, biết cách cảm ơn lịch sự và phân biệt tiền boa tự nguyện với chi phí giao nhận, sửa chữa cần xác nhận trước.",
+   "kw": "có cần boa khi thuê xe máy",
+   "kw2": [
+    "tiền tip nhân viên giao xe",
+    "boa thợ sửa xe máy hà nội"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách du lịch, nhất là khách nước ngoài quen văn hóa tip",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-004",
+   "child_id": "C-HD-GIA",
+   "title": "Đến nhận xe máy thuê nên mang bao nhiêu tiền: tiền thuê, tiền cọc và khoản để dự phòng",
+   "intent": "Biết cộng trước số tiền cần chuẩn bị khi đến nhận xe (tiền thuê theo bảng giá, tiền cọc do cửa hàng xác nhận, tiền xăng đầu ngày) và hỏi trước hình thức thanh toán để không phải chạy đi rút tiền.",
+   "kw": "nhận xe thuê cần mang bao nhiêu tiền",
+   "kw2": [
+    "chuẩn bị tiền khi đi thuê xe máy",
+    "tiền mặt khi nhận xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người lần đầu đến cửa hàng nhận xe thuê",
+   "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-005",
+   "child_id": "C-HD-GIA",
+   "title": "Chỉ cần xe máy từ thứ Hai đến thứ Sáu để đi làm: trả xe cuối tuần hay giữ nguyên gói tuần",
+   "intent": "So sánh hai cách cho người chỉ cần xe ngày làm việc: giữ xe cả tuần theo giá tuần hay thuê lẻ theo ngày rồi trả xe cuối tuần, dựa trên bảng giá và công đi lại nhận trả xe.",
+   "kw": "thuê xe máy chỉ ngày đi làm",
+   "kw2": [
+    "thuê xe máy 5 ngày làm việc",
+    "trả xe cuối tuần có lợi không"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người đi làm ngắn hạn ở Hà Nội, cuối tuần không cần xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-006",
+   "child_id": "C-HD-GIA",
+   "title": "Mới đến Hà Nội chưa có tiền Việt: chuẩn bị trả tiền thuê xe máy thế nào cho suôn sẻ",
+   "intent": "Biết các cách có tiền đồng để trả tiền thuê xe (rút tiền ở cây ATM, đổi tiền ở nơi được phép, chuyển khoản nếu cửa hàng nhận) và hỏi cửa hàng trước hình thức thanh toán thay vì mang ngoại tệ đến tiệm.",
+   "kw": "chưa có tiền việt thuê xe máy",
+   "kw2": [
+    "trả tiền thuê xe bằng đô la được không",
+    "đổi tiền trước khi thuê xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách nước ngoài vừa đến Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-007",
+   "child_id": "C-HD-GIA",
+   "title": "Giá xăng tăng thì giá thuê xe máy có tăng theo không: phân biệt tiền thuê và tiền xăng",
+   "intent": "Hiểu giá thuê xe máy tính theo bảng giá của cửa hàng còn tiền xăng do người thuê tự đổ, nên giá xăng lên xuống làm đổi chi phí đi lại chứ không tự làm đổi giá thuê đã chốt.",
+   "kw": "giá xăng tăng giá thuê xe máy",
+   "kw2": [
+    "xăng lên giá thuê xe có tăng",
+    "tiền xăng và tiền thuê xe khác nhau"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người thuê xe theo tuần hoặc tháng đang theo dõi giá xăng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-008",
+   "child_id": "C-HD-GIA",
+   "title": "Tiền thuê xe máy trả lúc nào: khi nhận xe, khi trả xe hay chia theo từng kỳ thuê",
+   "intent": "Biết hỏi cửa hàng thời điểm thanh toán tiền thuê với thuê ngày, tuần và tháng, phần nào trả khi nhận xe, phần nào khi gia hạn, rồi ghi lại bằng tin nhắn để lúc trả xe không hiểu nhầm.",
+   "kw": "tiền thuê xe máy trả khi nào",
+   "kw2": [
+    "thuê xe máy trả tiền trước hay sau",
+    "thời điểm thanh toán tiền thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người lần đầu thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-009",
+   "child_id": "C-HD-GIA",
+   "title": "Hỏi giá thuê xe máy bằng tiếng Anh: daily rate, weekly rate, deposit và những câu nên dùng",
+   "intent": "Biết các từ và câu tiếng Anh ngắn để hỏi giá ngày, giá tuần, giá tháng, tiền cọc, tiền xăng và phí giao xe, giúp khách nước ngoài nhận báo giá rõ ràng và không nhầm khoản.",
+   "kw": "hỏi giá thuê xe máy bằng tiếng anh",
+   "kw2": [
+    "daily rate weekly rate là gì",
+    "câu tiếng anh hỏi giá thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách nước ngoài và người Việt nhắn hỏi giá giúp bạn nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-010",
+   "child_id": "C-HD-GIA",
+   "title": "Mới mua xe máy đang chờ làm đăng ký, biển số: thuê xe tạm vài ngày tính theo ngày hay tuần",
+   "intent": "Lên kế hoạch thuê xe tạm trong lúc chờ hoàn tất đăng ký, biển số cho xe mới mua: ước số ngày chờ, chọn thuê ngày hay gói tuần theo bảng giá và hẹn ngày trả xe linh hoạt.",
+   "kw": "chờ đăng ký xe mới thuê xe tạm",
+   "kw2": [
+    "xe mới mua chưa có biển số",
+    "thuê xe máy trong lúc chờ biển số"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người vừa mua xe máy mới ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-011",
+   "child_id": "C-HD-GIA",
+   "title": "Gửi vali, ba lô lại cửa hàng thuê xe khi đi chơi bằng xe máy: có được không và có tính tiền",
+   "intent": "Biết hỏi cửa hàng trước về việc gửi tạm hành lý cồng kềnh khi nhận xe đi chơi trong ngày hoặc vài ngày, khoản phí nếu có (xác nhận trực tiếp) và những đồ không nên gửi.",
+   "kw": "gửi vali ở cửa hàng thuê xe",
+   "kw2": [
+    "gửi hành lý khi thuê xe máy",
+    "để ba lô lại tiệm thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách du lịch vừa trả phòng hoặc mới xuống tàu xe, mang theo vali",
+   "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-012",
+   "child_id": "C-HD-GIA",
+   "title": "Đi xe máy thuê một chiều sang tỉnh rồi không quay lại Hà Nội: trả xe ở nơi khác được không",
+   "intent": "Hiểu vì sao xe thuê thường phải trả về cửa hàng ở Hà Nội, biết hỏi trước nếu muốn kết thúc chuyến ở tỉnh khác, và tính phương án quay về trả xe hoặc đổi lịch trình cho hợp.",
+   "kw": "thuê xe máy một chiều đi tỉnh",
+   "kw2": [
+    "trả xe máy thuê ở tỉnh khác",
+    "thuê xe hà nội trả ở nơi khác"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách đi phượt hoặc đi xuyên tỉnh từ Hà Nội",
+   "location_scope": "Hà Nội và các tỉnh phía Bắc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-013",
+   "child_id": "C-HD-GIA",
+   "title": "Hỏi giá qua Zalo, Facebook hay gọi điện: giá thuê xe máy có khác nhau theo kênh liên hệ không",
+   "intent": "Hiểu giá thuê áp dụng theo bảng giá của cửa hàng dù hỏi qua kênh nào, biết đối chiếu số điện thoại và địa chỉ chính thức, và giữ lại tin nhắn báo giá để khớp khi nhận xe.",
+   "kw": "hỏi giá thuê xe qua zalo",
+   "kw2": [
+    "giá thuê xe máy trên facebook",
+    "gọi điện hay nhắn tin hỏi giá thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người đang so sánh cách liên hệ để đặt xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-014",
+   "child_id": "C-HD-GIA",
+   "title": "Đến trả xe đúng giờ nhưng phải chờ cửa hàng kiểm tra: thời gian chờ có bị tính quá giờ không",
+   "intent": "Biết cách nhắn báo đã đến nơi, chụp ảnh lưu giờ đến và đề nghị cửa hàng ghi nhận mốc trả xe, đồng thời trao đổi lịch sự khi phải chờ kiểm tra xe lâu vào lúc cửa hàng đông khách.",
+   "kw": "chờ kiểm tra khi trả xe thuê",
+   "kw2": [
+    "trả xe đúng giờ nhưng phải chờ",
+    "giờ trả xe tính từ lúc nào"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người trả xe sát giờ hẹn hoặc sát giờ ra ga, sân bay",
+   "location_scope": "Hà Nội, cửa hàng ở Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-015",
+   "child_id": "C-HD-GIA",
+   "title": "Đi phượt bằng xe máy thuê: cửa hàng có cho thuê kèm giáp, găng tay, áo phản quang không",
+   "intent": "Biết hỏi cửa hàng trước chuyến đi xa về đồ bảo hộ có thể thuê kèm và chi phí (xác nhận trực tiếp), đồng thời phân biệt món nên tự mua riêng vì vệ sinh và vừa người.",
+   "kw": "thuê kèm đồ bảo hộ đi phượt",
+   "kw2": [
+    "thuê giáp đi phượt hà nội",
+    "găng tay áo phản quang khi thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người chuẩn bị đi phượt nhiều ngày từ Hà Nội",
+   "location_scope": "Hà Nội và các cung đường phía Bắc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-016",
+   "child_id": "C-HD-GIA",
+   "title": "Thuê xe máy theo tháng mà đến kỳ chưa kịp chuyển tiền: báo cửa hàng thế nào cho rõ ràng",
+   "intent": "Biết nhắn báo sớm cho cửa hàng khi chưa kịp thanh toán kỳ thuê tháng tiếp theo, đề xuất ngày chuyển cụ thể và hỏi rõ có phát sinh khoản nào (xác nhận trực tiếp) trước khi tiếp tục dùng xe.",
+   "kw": "thuê xe tháng chậm chuyển tiền",
+   "kw2": [
+    "đến hạn trả tiền thuê xe chưa có tiền",
+    "thanh toán tiền thuê xe tháng trễ"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "người thuê xe theo tháng: sinh viên, người đi làm, người ở trọ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-017",
+   "child_id": "C-HD-GIA",
+   "title": "Gửi xe máy thuê theo tàu hỏa lên Lào Cai đi Sa Pa: có được không và tính tiền thuê thế nào",
+   "intent": "Biết hỏi cửa hàng trước khi định gửi xe thuê theo tàu đi tỉnh: có được phép không, những ngày xe nằm trên tàu vẫn tính tiền thuê ra sao, cước gửi xe do ai trả và giấy tờ cần mang.",
+   "kw": "gửi xe máy thuê theo tàu",
+   "kw2": [
+    "gửi xe máy theo tàu đi lào cai",
+    "mang xe thuê đi sa pa bằng tàu"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách muốn kết hợp tàu đêm và xe máy cho chuyến Sa Pa",
+   "location_scope": "Hà Nội, ga Hà Nội, Lào Cai",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W3H-018",
+   "child_id": "C-HD-GIA",
+   "title": "Thuê xe máy chủ yếu để đi buổi tối và đêm: giá thuê có khác ban ngày, nhận trả xe thế nào",
+   "intent": "Hiểu giá thuê tính theo ngày trên bảng giá chứ không chia ban ngày hay ban đêm, và sắp lịch nhận, trả xe khớp giờ mở cửa 09:00–21:00 của cửa hàng khi chủ yếu đi chơi buổi tối.",
+   "kw": "thuê xe máy đi buổi tối giá",
+   "kw2": [
+    "giá thuê xe máy ban đêm",
+    "thuê xe đi chơi đêm hà nội"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-gia/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-15-W3H",
+   "audience": "khách du lịch ban ngày đi tour, tối mới tự đi chơi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
