@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T04:50:23+00:00",
-    "staged_at": "2026-10-15T12:49:28+00:00"
+    "staged_at": "2026-10-15T12:52:06+00:00"
   },
   "candidates": [
     {
@@ -9755,6 +9755,481 @@
       "subtopic": "refill-2026-10-15-W3I",
       "audience": "người đi xe máy trong nội thành mùa hè",
       "location_scope": "Phan Đình Phùng và các phố trồng sấu lâu năm ở Ba Đình, Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-001",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Ba Vì về trong ngày: thuê xe máy điện có đủ pin khứ hồi hay chọn xe ga chạy xăng cho yên tâm",
+      "intent": "Chọn giữa xe máy điện và xe ga chạy xăng cho chuyến Ba Vì về trong ngày, biết cách ước lượng quãng đường khứ hồi, dốc lên vườn quốc gia và chỗ sạc trước khi quyết định.",
+      "kw": "đi ba vì xe máy điện hay xe xăng",
+      "kw2": [
+        "xe máy điện đi ba vì",
+        "thuê xe điện đi ngoại thành"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người muốn thuê xe máy điện cho chuyến đi xa đầu tiên ra ngoại thành",
+      "location_scope": "Hà Nội – Sơn Tây – Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-002",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi câu cá ở hồ Đồng Mô, hồ Quan Sơn: chở cần câu, thùng đồ trên xe số hay xe ga cho chắc chắn",
+      "intent": "Biết nên thuê xe số hay xe ga khi đi câu cá ngoại thành Hà Nội, so cách buộc cần câu dài, thùng giữ lạnh, ghế xếp và đường đất ven hồ để chuyến đi gọn và an toàn.",
+      "kw": "đi câu cá xe số hay xe ga",
+      "kw2": [
+        "chở cần câu bằng xe máy",
+        "thuê xe máy đi câu cá"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người thích câu cá cuối tuần ở các hồ ngoại thành",
+      "location_scope": "Sơn Tây, Mỹ Đức – Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-003",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Mùa mưa ngập ở Hà Nội: xe máy điện, xe số hay xe ga ít rủi ro hơn khi buộc phải đi qua đoạn nước",
+      "intent": "Hiểu mỗi loại xe máy điện, xe số và xe ga phản ứng khác nhau thế nào khi đi qua đường ngập sau mưa lớn ở Hà Nội để chọn xe thuê cho mùa mưa và biết lúc nào nên quay đầu.",
+      "kw": "mùa ngập thuê xe điện hay xe xăng",
+      "kw2": [
+        "xe điện đi đường ngập",
+        "xe nào đi ngập ít hỏng"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người thuê xe ở Hà Nội vào mùa mưa từ tháng 5 đến tháng 9",
+      "location_scope": "nội thành Hà Nội: Nguyễn Khuyến, Phan Bội Châu, Thái Hà",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-004",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Chưa từng lái xe máy, chỉ quen xe đạp: bắt đầu bằng xe 50cc hay xe máy điện để đi quanh khu ở",
+      "intent": "Chọn giữa xe 50cc chạy xăng và xe máy điện cho người chỉ quen đi xe đạp, so cách tăng tốc, trọng lượng, phanh và việc nạp xăng hay sạc pin khi mới tập đi quãng ngắn.",
+      "kw": "xe 50cc hay xe máy điện cho người mới",
+      "kw2": [
+        "người chưa biết đi xe máy",
+        "từ xe đạp lên xe máy"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người lớn chỉ quen đi xe đạp, lần đầu tập điều khiển xe có động cơ",
+      "location_scope": "khu dân cư, khu đô thị ít xe ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-005",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hà Nội đi Hạ Long bằng xe máy thuê: Honda Wave hay Air Blade cho chặng dài theo quốc lộ 18",
+      "intent": "Quyết định thuê Honda Wave hay Honda Air Blade cho chuyến Hạ Long, so độ bền khi chạy quốc lộ đông xe tải, chỗ để hành lý, mức mỏi sau nhiều giờ ngồi và cách xin giá cụ thể trước.",
+      "kw": "đi hạ long thuê wave hay air blade",
+      "kw2": [
+        "xe máy đi hạ long chọn xe nào",
+        "air blade đi hạ long"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người tự lái xe máy từ Hà Nội ra Quảng Ninh hai đến ba ngày",
+      "location_scope": "Hà Nội – Bắc Ninh – Chí Linh – Uông Bí – Hạ Long",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-006",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hai ngày ở Ninh Bình bằng xe máy thuê từ Hà Nội: xe số hay xe ga hợp quốc lộ 1 và đường làng Tam Cốc",
+      "intent": "Chọn xe số hay xe ga cho chuyến Ninh Bình hai ngày, cân giữa đoạn quốc lộ 1 nhiều xe tải và các đường làng hẹp quanh Tràng An, Tam Cốc, Hang Múa để đi êm và đỡ mệt.",
+      "kw": "đi ninh bình xe số hay xe ga",
+      "kw2": [
+        "thuê xe máy đi ninh bình 2 ngày",
+        "xe ga đi tam cốc"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "cặp đôi hoặc nhóm bạn tự lái xe máy về Ninh Bình nghỉ qua đêm",
+      "location_scope": "Hà Nội – Phủ Lý – Ninh Bình",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-007",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Một tuần du lịch Hà Nội: lấy gói tuần Honda Click 600.000–700.000đ hay Honda Vision 800.000–1.000.000đ",
+      "intent": "So sánh gói tuần của Honda Click và Honda Vision theo bảng giá đã công bố, biết khoản chênh đổi lại gì về cốp xe, tư thế ngồi và độ quen tay để chọn gói hợp lịch trình bảy ngày.",
+      "kw": "gói tuần click hay vision",
+      "kw2": [
+        "thuê click theo tuần",
+        "thuê vision theo tuần giá"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "khách du lịch ở Hà Nội khoảng một tuần, chủ yếu đi phố và vài điểm ven đô",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-008",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Côn Sơn – Kiếp Bạc ở Chí Linh: tự chạy xe máy thuê hay đi xe khách rồi bắt xe tại chỗ",
+      "intent": "Cân nhắc tự lái xe máy thuê hay đi xe khách từ Hà Nội lên Côn Sơn – Kiếp Bạc, so thời gian, độ chủ động khi đi giữa hai khu di tích, chỗ gửi xe và mức mệt khi về trong ngày.",
+      "kw": "đi côn sơn kiếp bạc bằng gì",
+      "kw2": [
+        "côn sơn xe máy hay xe khách",
+        "từ hà nội đi côn sơn"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi lễ, tham quan di tích Hải Dương trong một ngày",
+      "location_scope": "Hà Nội – khu di tích Côn Sơn, Kiếp Bạc",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-009",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Giỗ Tổ Hùng Vương đi Đền Hùng: tự lái xe máy thuê hay đi xe khách để tránh cảnh đông và khó gửi xe",
+      "intent": "Chọn giữa tự lái xe máy thuê và đi xe khách lên Đền Hùng dịp Giỗ Tổ mùng 10 tháng Ba âm lịch, hiểu cảnh đông người, chỗ gửi xe, giờ xuất phát và quãng leo núi để lên kế hoạch hợp sức.",
+      "kw": "giỗ tổ đi đền hùng bằng gì",
+      "kw2": [
+        "đền hùng xe máy hay xe khách",
+        "đi đền hùng ngày giỗ tổ"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi lễ Đền Hùng dịp Giỗ Tổ từ Hà Nội",
+      "location_scope": "Hà Nội – Việt Trì, Phú Thọ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-010",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi hội Lim tháng Giêng: chạy xe máy thuê sang Tiên Du hay đi xe buýt để khỏi lo gửi xe giữa hội",
+      "intent": "Quyết định nên tự đi xe máy thuê hay đi xe buýt từ Hà Nội sang hội Lim ở Tiên Du, Bắc Ninh, so cảnh đông người, chỗ gửi xe quanh đồi Lim, giờ về và việc đi lại khi hội tan.",
+      "kw": "đi hội lim bằng gì",
+      "kw2": [
+        "hội lim xe máy hay xe buýt",
+        "từ hà nội đi hội lim"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người Hà Nội và khách du lịch muốn nghe quan họ ở hội Lim",
+      "location_scope": "Hà Nội – Tiên Du, Bắc Ninh",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-011",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Lên Yên Tử từ Hà Nội: tự lái xe máy thuê theo quốc lộ 18 hay đi xe khách về Uông Bí rồi vào chùa",
+      "intent": "So sánh tự lái xe máy thuê với đi xe khách cho chuyến Yên Tử, hiểu đoạn quốc lộ 18 nhiều xe tải, chỗ gửi xe dưới chân núi, độ chủ động giờ về và sức khỏe khi vừa lái vừa leo núi.",
+      "kw": "đi yên tử bằng gì từ hà nội",
+      "kw2": [
+        "yên tử xe máy hay xe khách",
+        "đi yên tử tự lái xe máy"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi lễ Yên Tử hoặc leo núi cuối tuần",
+      "location_scope": "Hà Nội – Uông Bí, Quảng Ninh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-012",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Pù Luông ba ngày: chạy xe máy thuê từ Hà Nội hay đi xe khách rồi thuê xe ở Bá Thước",
+      "intent": "Lên kế hoạch chuyến Pù Luông bằng cách chọn giữa tự lái xe máy thuê từ Hà Nội và đi xe khách rồi thuê xe tại chỗ, cân quãng đường đèo, sức người lái, hành lý và lịch trả xe.",
+      "kw": "đi pù luông xe máy hay xe khách",
+      "kw2": [
+        "thuê xe máy đi pù luông",
+        "từ hà nội đi pù luông"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người trẻ thích nghỉ homestay vùng núi Thanh Hóa",
+      "location_scope": "Hà Nội – Mai Châu – Bá Thước, Thanh Hóa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-013",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi chùa Tam Chúc từ Hà Nội: tự lái xe máy thuê hay đi xe khách, xe du lịch ghép theo ngày",
+      "intent": "Chọn cách đi chùa Tam Chúc từ Hà Nội giữa tự lái xe máy thuê và đi xe khách hoặc xe ghép theo ngày, so độ chủ động, chỗ gửi xe, quãng đi bộ trong khu chùa và giờ quay về.",
+      "kw": "đi tam chúc bằng gì",
+      "kw2": [
+        "tam chúc xe máy hay xe khách",
+        "từ hà nội đi chùa tam chúc"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi lễ, gia đình có người lớn tuổi muốn thăm Tam Chúc",
+      "location_scope": "Hà Nội – Phủ Lý – khu chùa Tam Chúc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-014",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi làng cổ Đường Lâm: thuê xe máy chạy lên Sơn Tây hay đi xe buýt rồi đạp xe trong làng",
+      "intent": "Cân nhắc giữa tự lái xe máy thuê và đi xe buýt lên Sơn Tây thăm làng cổ Đường Lâm, so thời gian, độ chủ động khi ghé thêm thành cổ Sơn Tây, chùa Mía và việc đi lại trong làng.",
+      "kw": "đi đường lâm bằng xe buýt hay xe máy",
+      "kw2": [
+        "từ hà nội đi đường lâm",
+        "đi làng cổ đường lâm bằng gì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "khách du lịch và người Hà Nội đi chơi nửa ngày đến một ngày",
+      "location_scope": "Hà Nội – Sơn Tây",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-015",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi hội đền Sóc mùng 6 tháng Giêng: thuê xe máy lên Sóc Sơn hay đi xe buýt để tránh kẹt xe về",
+      "intent": "Quyết định tự đi xe máy thuê hay đi xe buýt lên hội đền Sóc ở Sóc Sơn, hiểu cảnh đông dịp hội, chỗ gửi xe, đoạn leo bậc lên đền và giờ về để tránh dòng xe dồn về nội thành.",
+      "kw": "đi hội đền sóc bằng gì",
+      "kw2": [
+        "đền sóc xe máy hay xe buýt",
+        "hội gióng sóc sơn đi thế nào"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi lễ đầu xuân ở ngoại thành Hà Nội",
+      "location_scope": "Hà Nội – Sóc Sơn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-016",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi chùa Thầy và chùa Tây Phương trong một ngày: thuê xe máy hay đi xe buýt rồi đi bộ giữa hai chùa",
+      "intent": "So sánh tự lái xe máy thuê với đi xe buýt khi đi chùa Thầy, chùa Tây Phương trong ngày, biết khoảng cách giữa hai chùa, bậc đá leo núi và cách giữ lịch trình không bị vội.",
+      "kw": "đi chùa thầy bằng xe buýt hay xe máy",
+      "kw2": [
+        "đi chùa tây phương bằng gì",
+        "chùa thầy tây phương một ngày"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người thích văn hóa, kiến trúc chùa cổ quanh Hà Nội",
+      "location_scope": "Quốc Oai, Thạch Thất – Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-017",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi hồ Hòa Bình và thủy điện Hòa Bình: tự lái xe máy thuê hay đi xe khách rồi thuê thuyền lên hồ",
+      "intent": "Chọn giữa tự lái xe máy thuê và đi xe khách cho chuyến hồ Hòa Bình, so đoạn đường quốc lộ 6 qua Xuân Mai, chỗ gửi xe ở bến thuyền, độ chủ động và mức mệt khi về trong ngày.",
+      "kw": "đi hồ hòa bình bằng gì",
+      "kw2": [
+        "hồ hòa bình xe máy hay xe khách",
+        "từ hà nội đi thủy điện hòa bình"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "nhóm bạn hoặc gia đình đi chơi cuối tuần một đến hai ngày",
+      "location_scope": "Hà Nội – Xuân Mai – Hòa Bình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-018",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Phố Hiến ở Hưng Yên: chạy xe máy thuê theo đường đê hay đi xe buýt, xe khách cho nhẹ người",
+      "intent": "Cân nhắc giữa tự lái xe máy thuê theo đường đê sông Hồng và đi xe buýt hoặc xe khách khi thăm Phố Hiến, so độ chủ động đi giữa các đền chùa, thời gian và sức người lái.",
+      "kw": "đi phố hiến bằng gì",
+      "kw2": [
+        "phố hiến xe máy hay xe buýt",
+        "từ hà nội đi hưng yên bằng gì"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người thích di tích cổ, đi chơi trong ngày từ Hà Nội",
+      "location_scope": "Hà Nội – Phố Hiến, Hưng Yên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-019",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Quen đi xe ga 50cc ở Nhật Bản, Đài Loan: sang Hà Nội nên thuê xe 50cc hay Honda Vision cỡ lớn hơn",
+      "intent": "Chọn giữa xe 50cc và Honda Vision cho người đã quen xe tay ga 50cc ở Nhật Bản hoặc Đài Loan, hiểu khác biệt về tốc độ theo dòng xe Hà Nội, chở người sau, giấy tờ cần hỏi và cảm giác lái.",
+      "kw": "quen xe 50cc thuê vision hay 50cc",
+      "kw2": [
+        "khách nhật thuê xe máy hà nội",
+        "khách đài loan thuê xe ga"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "khách đến từ Nhật Bản, Đài Loan đã quen xe tay ga nhỏ ở quê nhà",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-020",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi Mù Cang Chải mùa lúa chín bằng xe thuê từ Hà Nội: xe số hay xe ga qua đèo Khau Phạ yên tâm hơn",
+      "intent": "Quyết định thuê xe số hay xe ga cho chuyến Mù Cang Chải, so lực phanh khi đổ đèo Khau Phạ dài, cách xử lý dốc, chỗ để hành lý và mức mệt trên chặng qua Nghĩa Lộ, Tú Lệ.",
+      "kw": "đi mù cang chải xe số hay xe ga",
+      "kw2": [
+        "xe ga qua đèo khau phạ",
+        "thuê xe máy đi mù cang chải"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người tự lái đi ngắm ruộng bậc thang mùa lúa chín tháng 9, tháng 10",
+      "location_scope": "Hà Nội – Nghĩa Lộ – Tú Lệ – Mù Cang Chải",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-021",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Hà Nội đi Cao Bằng, thác Bản Giốc bằng xe máy thuê: xe số hay xe ga chịu được nhiều ngày đèo dốc",
+      "intent": "Chọn xe số hay xe ga cho chuyến Cao Bằng – thác Bản Giốc nhiều ngày, so độ bền khi chạy liên tục, đèo Mã Phục và đường biên giới, mức tiêu hao xăng, chỗ chở đồ và cách xử lý hỏng vặt.",
+      "kw": "đi cao bằng xe số hay xe ga",
+      "kw2": [
+        "xe ga đi bản giốc",
+        "thuê xe máy đi cao bằng"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "nhóm bạn đi vòng Đông Bắc bằng xe máy thuê",
+      "location_scope": "Hà Nội – Thái Nguyên – Cao Bằng – Trùng Khánh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-022",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Lên Điện Biên qua đèo Pha Đin bằng xe máy thuê: chọn xe số hay xe ga cho chặng dài ba ngày",
+      "intent": "Quyết định nên thuê xe số hay xe ga cho chuyến Hà Nội – Điện Biên dài ngày, hiểu yêu cầu với phanh, máy và người lái khi qua đèo Pha Đin, sương mù và các chặng xa trạm sửa.",
+      "kw": "đi điện biên xe số hay xe ga",
+      "kw2": [
+        "xe ga qua đèo pha đin",
+        "thuê xe máy đi điện biên"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi xe máy đường dài lên Tây Bắc lần đầu",
+      "location_scope": "Hà Nội – Mộc Châu – Sơn La – Điện Biên Phủ",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-023",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Lên đỉnh Mẫu Sơn ở Lạng Sơn: xe ga leo dốc đứng có ổn hay nên thuê xe số để giữ số thấp khi xuống",
+      "intent": "Hiểu khác biệt giữa xe ga và xe số trên đường lên đỉnh Mẫu Sơn dốc và nhiều cua gắt, biết cách giữ tốc khi xuống dốc, khi trời sương lạnh để chọn đúng loại xe thuê từ Hà Nội.",
+      "kw": "lên mẫu sơn xe ga hay xe số",
+      "kw2": [
+        "đường lên mẫu sơn bằng xe máy",
+        "xe ga lên dốc mẫu sơn"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi săn mây, ngắm băng tuyết mùa đông ở Lạng Sơn",
+      "location_scope": "Hà Nội – Lạng Sơn – Lộc Bình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-024",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi lễ khai ấn đền Trần ở Nam Định: tự lái xe máy thuê hay đi xe khách khi đường đông về đêm",
+      "intent": "Chọn giữa tự lái xe máy thuê và đi xe khách cho dịp khai ấn đền Trần đêm 14 tháng Giêng, hiểu cảnh đông người, gửi xe, đi đường đêm và cách sắp giờ về Hà Nội cho an toàn.",
+      "kw": "đi khai ấn đền trần bằng gì",
+      "kw2": [
+        "đền trần nam định xe máy hay xe khách",
+        "lễ khai ấn đền trần đi thế nào"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người đi lễ đầu năm ở Nam Định từ Hà Nội",
+      "location_scope": "Hà Nội – Phủ Lý – Nam Định",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W3J-025",
+      "child_id": "C-XE-SO-SANH",
+      "title": "Đi đồi chè Tân Cương ở Thái Nguyên: chạy xe máy thuê hay đi xe khách rồi thuê xe ôm vào vùng chè",
+      "intent": "Cân nhắc giữa tự lái xe máy thuê và đi xe khách lên Thái Nguyên thăm đồi chè Tân Cương, so độ chủ động khi vào các xóm chè, việc chở chè mua về và thời gian đi về trong ngày.",
+      "kw": "đi tân cương thái nguyên bằng gì",
+      "kw2": [
+        "đồi chè tân cương xe máy hay xe khách",
+        "từ hà nội đi đồi chè tân cương"
+      ],
+      "links": [
+        "/xe-may/so-sanh-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W3J",
+      "audience": "người thích chè, chụp ảnh đồi chè, đi chơi trong ngày",
+      "location_scope": "Hà Nội – thành phố Thái Nguyên – Tân Cương",
       "word_target": 1200
     }
   ],
