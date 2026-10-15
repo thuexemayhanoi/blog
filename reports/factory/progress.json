@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T04:40:40+00:00",
+  "generated_at": "2026-10-15T04:42:00+00:00",
   "data_through": "2026-10-15",
-  "data_fingerprint": "a29e3024f00b1fa4b2ebfb4bd50390c6d2270e6076d27e7f94092fcb3e02f4ad",
-  "matrix_sha256": "ef5eb9879eb307d92bcbf55d404e38d4f07384a6978ed0558d430867ebc5052e",
+  "data_fingerprint": "45d3720083c64db776b0a3aa33da35f0bb5f1cac3e1c593e9d02b6cd24cdd64c",
+  "matrix_sha256": "c83b7d5cfba5a3c0fbb7a9e2ecf318fbf5e6ade4c4f767cefa0986abd9044825",
   "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
   "inventory_sha256": "6f49ba6547da9aae1824d5ab61ad4babfd01c8b8f2e30582f05cebf42036755f",
   "generated_by": "scripts/factory/generate-reports.py (từ dữ liệu thật, bảo toàn tiến độ)",
@@ -13,21 +13,21 @@
     "legacy_mapped": 483,
     "legacy_review": 10,
     "legacy_existing": 473,
-    "planned_total": 111,
+    "planned_total": 101,
     "writing": 0,
     "qa": 0,
     "pass": 0,
-    "published": 2964,
+    "published": 2974,
     "repair": 0,
     "blocked": 1,
     "fail": 0,
-    "planned_claimable": 111
+    "planned_claimable": 101
   },
   "taxonomy": {
     "parents": 7,
     "children": 56
   },
-  "published_through_factory": 2964,
+  "published_through_factory": 2974,
   "audit": {
     "repair_pending": 0,
     "review_pending": 10,
@@ -43,9 +43,9 @@
     "claims_stale": 0
   },
   "checkpoint_progress": {
-    "last_completed_article_id": "BLG-03458",
+    "last_completed_article_id": "BLG-03448",
     "last_batch_id": null,
-    "next_claimable_id": "BLG-03439",
+    "next_claimable_id": "BLG-03459",
     "in_progress_chunk": null
   },
   "resume_point": "Matrix TẠO MỚI đã được chủ xe duyệt (2026-09-27). Nhận cặp 2 hàng PLANNED (chunk_size trong data/factory/production-control.json) bắt đầu từ next_claimable_id; giữ nguyên 10 hàng legacy REVIEW. Resume từ last_completed_article_id + in_progress_chunk, không restart."
