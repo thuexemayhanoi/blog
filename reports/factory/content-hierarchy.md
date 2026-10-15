@@ -8,17 +8,17 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 
 | Parent | Child | Bài legacy | Hàng matrix (không legacy) | planned_target (seed) | Hub URL |
 |---|---|---|---|---|---|
-| P-THUE-XE | Giá thuê xe máy (C-THUE-GIA) | 6 | 82 | 220 | /thue-xe/gia-thue/ |
+| P-THUE-XE | Giá thuê xe máy (C-THUE-GIA) | 6 | 96 | 220 | /thue-xe/gia-thue/ |
 | P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 123 | 200 | /thue-xe/thu-tuc/ |
-| P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 93 | 180 | /thue-xe/thue-ngay/ |
-| P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 83 | 170 | /thue-xe/thue-tuan/ |
-| P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 102 | 200 | /thue-xe/thue-thang/ |
-| P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 55 | 150 | /thue-xe/dat-coc/ |
-| P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 80 | 140 | /thue-xe/khach-quoc-te/ |
-| P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 91 | 180 | /thue-xe/nhan-tra-xe/ |
+| P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 118 | 180 | /thue-xe/thue-ngay/ |
+| P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 133 | 170 | /thue-xe/thue-tuan/ |
+| P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 127 | 200 | /thue-xe/thue-thang/ |
+| P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 80 | 150 | /thue-xe/dat-coc/ |
+| P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 104 | 140 | /thue-xe/khach-quoc-te/ |
+| P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 116 | 180 | /thue-xe/nhan-tra-xe/ |
 | P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 119 | 180 | /thue-xe/su-co/ |
 | P-XE-MAY | Xe số (C-XE-SO) | 3 | 96 | 160 | /xe-may/xe-so/ |
-| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 90 | 160 | /xe-may/xe-ga/ |
+| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 115 | 160 | /xe-may/xe-ga/ |
 | P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 79 | 140 | /xe-may/xe-50cc/ |
 | P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 110 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 66 | 100 | /xe-may/xe-dap-dien/ |
@@ -28,20 +28,20 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 58 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 51 | 100 | /xe-may/yamaha-sirius/ |
 | P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 90 | 140 | /xe-may/bao-duong-xe/ |
-| P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 22 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
-| P-PHAP-LY | Bảo hiểm xe máy (C-BAO-HIEM) | 10 | 18 | 130 | /an-toan-phap-ly/bao-hiem/ |
-| P-PHAP-LY | Nồng độ cồn (C-NOI-DO-CONG) | 2 | 12 | 120 | /an-toan-phap-ly/noi-do-cong/ |
-| P-PHAP-LY | Phạt nguội (C-PHAT-NGUOI) | 2 | 14 | 120 | /an-toan-phap-ly/phat-nguoi/ |
-| P-PHAP-LY | Biển báo giao thông (C-BIEN-BAO) | 1 | 13 | 100 | /an-toan-phap-ly/bien-bao/ |
-| P-PHAP-LY | Giấy tờ xe & cá nhân (C-GIAY-TO) | 8 | 13 | 110 | /an-toan-phap-ly/giay-to/ |
-| P-PHAP-LY | Quy định giao thông (C-QUY-DINH) | 13 | 20 | 150 | /an-toan-phap-ly/quy-dinh-giao-thong/ |
+| P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 71 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
+| P-PHAP-LY | Bảo hiểm xe máy (C-BAO-HIEM) | 10 | 68 | 130 | /an-toan-phap-ly/bao-hiem/ |
+| P-PHAP-LY | Nồng độ cồn (C-NOI-DO-CONG) | 2 | 62 | 120 | /an-toan-phap-ly/noi-do-cong/ |
+| P-PHAP-LY | Phạt nguội (C-PHAT-NGUOI) | 2 | 64 | 120 | /an-toan-phap-ly/phat-nguoi/ |
+| P-PHAP-LY | Biển báo giao thông (C-BIEN-BAO) | 1 | 63 | 100 | /an-toan-phap-ly/bien-bao/ |
+| P-PHAP-LY | Giấy tờ xe & cá nhân (C-GIAY-TO) | 8 | 38 | 110 | /an-toan-phap-ly/giay-to/ |
+| P-PHAP-LY | Quy định giao thông (C-QUY-DINH) | 13 | 70 | 150 | /an-toan-phap-ly/quy-dinh-giao-thong/ |
 | P-DU-LICH | Điểm đến Hà Nội (C-DIEM-DEN) | 11 | 174 | 170 | /du-lich/diem-den/ |
 | P-DU-LICH | Bảo tàng (C-BAO-TANG) | 0 | 87 | 90 | /du-lich/bao-tang/ |
-| P-DU-LICH | Phố cổ Hoàn Kiếm (C-PHO-CO) | 3 | 63 | 110 | /du-lich/pho-co/ |
-| P-DU-LICH | Hồ Tây & lân cận (C-HO-TAY) | 2 | 61 | 100 | /du-lich/ho-tay/ |
-| P-DU-LICH | Long Biên & Gia Lâm (C-LONG-BIEN) | 0 | 72 | 110 | /du-lich/long-bien/ |
-| P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 69 | 110 | /du-lich/ngoai-thanh/ |
-| P-CUNG-DUONG | Cung đường nội thành (C-CD-NOI-THANH) | 1 | 61 | 100 | /cung-duong/cung-duong-noi-thanh/ |
+| P-DU-LICH | Phố cổ Hoàn Kiếm (C-PHO-CO) | 3 | 88 | 110 | /du-lich/pho-co/ |
+| P-DU-LICH | Hồ Tây & lân cận (C-HO-TAY) | 2 | 86 | 100 | /du-lich/ho-tay/ |
+| P-DU-LICH | Long Biên & Gia Lâm (C-LONG-BIEN) | 0 | 97 | 110 | /du-lich/long-bien/ |
+| P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 94 | 110 | /du-lich/ngoai-thanh/ |
+| P-CUNG-DUONG | Cung đường nội thành (C-CD-NOI-THANH) | 1 | 86 | 100 | /cung-duong/cung-duong-noi-thanh/ |
 | P-CUNG-DUONG | Cung đường cuối tuần (C-CD-CUOI-TUAN) | 10 | 125 | 130 | /cung-duong/cung-duong-cuoi-tuan/ |
 | P-CUNG-DUONG | Mai Châu (C-CD-MAI-CHAU) | 0 | 38 | 80 | /cung-duong/mai-chau/ |
 | P-CUNG-DUONG | Mộc Châu (C-CD-MOC-CHAU) | 0 | 40 | 80 | /cung-duong/moc-chau/ |
@@ -49,13 +49,13 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-CUNG-DUONG | Cung đường các tỉnh phía Bắc (C-CD-PHO-BAC) | 0 | 62 | 90 | /cung-duong/cung-duong-pho-bac/ |
 | P-KY-NANG | Kỹ năng lái cơ bản (C-KY-NANG-CO-BAN) | 35 | 110 | 180 | /ky-nang/ky-nang-lai-co-ban/ |
 | P-KY-NANG | Tình huống giao thông (C-KY-NANG-TINH-HUONG) | 97 | 75 | 180 | /ky-nang/tinh-huong-giao-thong/ |
-| P-KY-NANG | Thời tiết & đường sá (C-KY-NANG-THOI-TIET) | 41 | 90 | 150 | /ky-nang/thoi-tiet-va-duong-sa/ |
-| P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 72 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
+| P-KY-NANG | Thời tiết & đường sá (C-KY-NANG-THOI-TIET) | 41 | 115 | 150 | /ky-nang/thoi-tiet-va-duong-sa/ |
+| P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 97 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
 | P-KY-NANG | Gửi xe & giữ xe (C-KY-NANG-GUI-XE) | 19 | 79 | 120 | /ky-nang/gui-xe-va-giu-xe/ |
 | P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 49 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
 | P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 45 | 90 | /hoi-dap/hoi-dap-gia/ |
 | P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 55 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
-| P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 13 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
+| P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 38 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
 | P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 47 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
 | P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 59 | 90 | /hoi-dap/hoi-dap-su-co/ |
 | P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 37 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
@@ -63,9 +63,9 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Thuê xe theo địa điểm (C-THUE-DIA-DIEM) | 0 | 26 | 70 | /thue-xe/thue-theo-dia-diem/ |
 | P-XE-MAY | Chọn loại xe khi thuê (C-XE-LUA-CHON) | 0 | 42 | 80 | /xe-may/chon-loai-xe/ |
 | P-XE-MAY | Xử lý sự cố xe máy thuê (C-XE-KHAC-PHUC) | 0 | 53 | 90 | /xe-may/xu-ly-su-co-xe/ |
-| P-XE-MAY | So sánh khi thuê xe máy (C-XE-SO-SANH) | 0 | 43 | 90 | /xe-may/so-sanh-xe/ |
+| P-XE-MAY | So sánh khi thuê xe máy (C-XE-SO-SANH) | 0 | 93 | 90 | /xe-may/so-sanh-xe/ |
 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 3641 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 4428 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

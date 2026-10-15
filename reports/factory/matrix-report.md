@@ -6,10 +6,10 @@
 |---|---|---|
 | HARD_CAPACITY | 10000 | Trần kỹ thuật của factory, KHÔNG phải chỉ tiêu biên tập. |
 | EDITORIAL_TARGET | 6980 | Tổng planned_target trong taxonomy — chỉ tiêu chủ đề đã kiểm chứng. |
-| CURRENT_VALID_ROWS | 4124 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
-| CURRENT_SEEDED_ROWS | 3641 | Hàng planned mới đã có ý định riêng. |
-| RESERVED_CAPACITY | 5876 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
-| MISSING_VALID_TOPIC_SPACE | 3339 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
+| CURRENT_VALID_ROWS | 4911 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
+| CURRENT_SEEDED_ROWS | 4428 | Hàng planned mới đã có ý định riêng. |
+| RESERVED_CAPACITY | 5089 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
+| MISSING_VALID_TOPIC_SPACE | 2552 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
 
 Lưu ý trung thực: 483 (legacy) + 6980 (EDITORIAL_TARGET) = 7463 < HARD_CAPACITY 10000. Taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng. Muốn tăng phải mở rộng seed bằng chủ đề thật (khác biệt ý định, không hoán đổi tên/từ). Đạt HARD_CAPACITY không phải điều kiện hoàn thành của matrix; điều kiện là mọi hàng đều hợp lệ và chống trùng PASS.
 
@@ -19,10 +19,10 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Tổng quan
 
-- Tổng hàng: 4124
+- Tổng hàng: 4911
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
-- PLANNED mới: 76
+- PLANNED mới: 863
 - Năng lực danh nghĩa cũ: 10.000 hàng; tổng planned_target trong taxonomy: 6980
 
 ## Chống trùng (đã kiểm máy, tất cả PASS)
@@ -33,21 +33,21 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Chênh lệch với chỉ tiêu — BÁO THIẾU, KHÔNG ĐỆM
 
-Seed chỉ đăng ký được 76 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
+Seed chỉ đăng ký được 863 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
 
 | Child | PLANNED đã có | planned_target (seed taxonomy) |
 |---|---|---|
-| C-THUE-GIA | 0 | 220 |
+| C-THUE-GIA | 14 | 220 |
 | C-THUE-THU-TUC | 0 | 200 |
-| C-THUE-NGAY | 0 | 180 |
-| C-THUE-TUAN | 0 | 170 |
-| C-THUE-THANG | 0 | 200 |
-| C-THUE-DAT-COC | 0 | 150 |
-| C-THUE-QUOC-TE | 0 | 140 |
-| C-THUE-NHAN-TRA | 0 | 180 |
+| C-THUE-NGAY | 25 | 180 |
+| C-THUE-TUAN | 50 | 170 |
+| C-THUE-THANG | 25 | 200 |
+| C-THUE-DAT-COC | 25 | 150 |
+| C-THUE-QUOC-TE | 24 | 140 |
+| C-THUE-NHAN-TRA | 25 | 180 |
 | C-THUE-SU-CO | 0 | 180 |
 | C-XE-SO | 0 | 160 |
-| C-XE-GA | 0 | 160 |
+| C-XE-GA | 25 | 160 |
 | C-XE-50CC | 0 | 140 |
 | C-XE-DIEN | 0 | 160 |
 | C-XE-DAP-DIEN | 0 | 100 |
@@ -57,20 +57,20 @@ Seed chỉ đăng ký được 76 hàng có giá trị riêng (mỗi hàng một
 | C-HONDA-CLICK | 0 | 100 |
 | C-YAMAHA-SIRIUS | 0 | 100 |
 | C-BAO-DUONG | 0 | 140 |
-| C-GPLX | 0 | 150 |
-| C-BAO-HIEM | 0 | 130 |
-| C-NOI-DO-CONG | 0 | 120 |
-| C-PHAT-NGUOI | 0 | 120 |
-| C-BIEN-BAO | 0 | 100 |
-| C-GIAY-TO | 0 | 110 |
-| C-QUY-DINH | 0 | 150 |
+| C-GPLX | 49 | 150 |
+| C-BAO-HIEM | 50 | 130 |
+| C-NOI-DO-CONG | 50 | 120 |
+| C-PHAT-NGUOI | 50 | 120 |
+| C-BIEN-BAO | 50 | 100 |
+| C-GIAY-TO | 25 | 110 |
+| C-QUY-DINH | 50 | 150 |
 | C-DIEM-DEN | 10 | 170 |
 | C-BAO-TANG | 0 | 90 |
-| C-PHO-CO | 0 | 110 |
-| C-HO-TAY | 0 | 100 |
-| C-LONG-BIEN | 0 | 110 |
-| C-NGOAI-THANH | 0 | 110 |
-| C-CD-NOI-THANH | 0 | 100 |
+| C-PHO-CO | 25 | 110 |
+| C-HO-TAY | 25 | 100 |
+| C-LONG-BIEN | 25 | 110 |
+| C-NGOAI-THANH | 25 | 110 |
+| C-CD-NOI-THANH | 25 | 100 |
 | C-CD-CUOI-TUAN | 0 | 130 |
 | C-CD-MAI-CHAU | 0 | 80 |
 | C-CD-MOC-CHAU | 0 | 80 |
@@ -78,13 +78,13 @@ Seed chỉ đăng ký được 76 hàng có giá trị riêng (mỗi hàng một
 | C-CD-PHO-BAC | 0 | 90 |
 | C-KY-NANG-CO-BAN | 0 | 180 |
 | C-KY-NANG-TINH-HUONG | 0 | 180 |
-| C-KY-NANG-THOI-TIET | 0 | 150 |
-| C-KY-NANG-CHO-DO | 0 | 130 |
+| C-KY-NANG-THOI-TIET | 25 | 150 |
+| C-KY-NANG-CHO-DO | 25 | 130 |
 | C-KY-NANG-GUI-XE | 0 | 120 |
 | C-KY-NANG-SUC-KHOE | 0 | 110 |
 | C-HD-GIA | 16 | 90 |
 | C-HD-THU-TUC | 25 | 90 |
-| C-HD-PHAP-LY | 0 | 90 |
+| C-HD-PHAP-LY | 25 | 90 |
 | C-HD-CHON-XE | 0 | 90 |
 | C-HD-SU-CO | 25 | 90 |
 | C-HD-NGUOI-MOI | 0 | 90 |
@@ -92,4 +92,4 @@ Seed chỉ đăng ký được 76 hàng có giá trị riêng (mỗi hàng một
 | C-THUE-DIA-DIEM | 0 | 70 |
 | C-XE-LUA-CHON | 0 | 80 |
 | C-XE-KHAC-PHUC | 0 | 90 |
-| C-XE-SO-SANH | 0 | 90 |
+| C-XE-SO-SANH | 50 | 90 |
