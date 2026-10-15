@@ -1,0 +1,275 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-016: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-001",
+   "child_id": "C-THUE-GIA",
+   "title": "Đi làm bằng xe máy thuê theo tháng: mỗi ngày đi làm thực tế tốn bao nhiêu tiền thuê xe",
+   "intent": "Hiểu cách chia giá thuê tháng đã duyệt của Click, Mio, Air Blade, Vision cho số ngày đi làm thực tế để biết mỗi ngày tốn bao nhiêu tiền xe và so với giá thuê theo ngày.",
+   "kw": "tiền thuê xe mỗi ngày đi làm",
+   "kw2": [
+    "giá thuê xe tháng chia theo ngày",
+    "chi phí thuê xe đi làm hằng ngày"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người đi làm văn phòng, công nhân thuê xe theo tháng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-002",
+   "child_id": "C-THUE-GIA",
+   "title": "Thuê xe máy khoảng 35 đến 45 ngày: ghép gói tháng với gói tuần hay lấy luôn hai tháng cho đỡ tiền",
+   "intent": "Lên kế hoạch tiền thuê xe máy cho thời gian ở Hà Nội dài hơn một tháng nhưng chưa tới hai tháng, so cách ghép gói tháng, gói tuần và ngày lẻ theo bảng giá đã duyệt.",
+   "kw": "thuê xe máy 45 ngày",
+   "kw2": [
+    "thuê xe máy hơn một tháng",
+    "thuê xe máy một tháng rưỡi"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người ở Hà Nội năm đến tám tuần vì dự án, thực tập ngắn hoặc thăm người thân",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-003",
+   "child_id": "C-THUE-GIA",
+   "title": "Thuê phòng trọ xa trung tâm cho rẻ rồi thuê xe máy theo tháng: cộng tiền xe vào bài toán tiền phòng",
+   "intent": "Biết cách cộng tiền thuê xe máy theo tháng vào chi phí chỗ ở khi cân nhắc phòng trọ xa trung tâm Hà Nội giá thấp hơn, để so đúng tổng chi tiêu mỗi tháng trước khi ký thuê phòng.",
+   "kw": "ở trọ xa thuê xe máy tháng",
+   "kw2": [
+    "tiền phòng trọ cộng tiền thuê xe",
+    "phòng trọ xa trung tâm đi xe thuê"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người đi làm, sinh viên đang chọn phòng trọ ở Hà Nội",
+   "location_scope": "Long Biên, Gia Lâm, Hà Đông, Nam Từ Liêm so với các quận trung tâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-004",
+   "child_id": "C-THUE-GIA",
+   "title": "Chỉ có 300.000 đến 500.000 đồng cho tiền thuê xe máy: thuê được dòng xe nào và mấy ngày ở Hà Nội",
+   "intent": "Nắm số ngày thuê được với ngân sách nhỏ từ 300.000 đến 500.000 đồng theo giá ngày đã duyệt của Wave, Click, Mio, Vision và Air Blade để sắp chuyến đi ngắn vừa túi tiền.",
+   "kw": "500 nghìn thuê xe máy mấy ngày",
+   "kw2": [
+    "thuê xe máy ngân sách thấp",
+    "thuê xe máy 300 nghìn"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "sinh viên, khách du lịch tự túc đi chơi ngắn ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-005",
+   "child_id": "C-THUE-GIA",
+   "title": "Thuê xe máy nhiều tháng liền ở Hà Nội: tổng tiền 3 tháng, 6 tháng và một năm theo từng dòng xe",
+   "intent": "Lên kế hoạch ngân sách thuê xe máy dài hạn bằng cách nhân giá tháng đã duyệt của Click, Mio, Air Blade, Vision cho 3, 6 và 12 tháng, và biết dòng xe nào phải hỏi giá cửa hàng.",
+   "kw": "thuê xe máy 6 tháng bao nhiêu",
+   "kw2": [
+    "tổng tiền thuê xe máy một năm",
+    "thuê xe máy 3 tháng hết bao nhiêu"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người sống và làm việc dài hạn ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-006",
+   "child_id": "C-THUE-GIA",
+   "title": "Công ty trả phụ cấp đi lại hằng tháng: khoản đó đủ thuê xe máy theo tháng chưa và phải bù thêm bao nhiêu",
+   "intent": "Biết cách đặt khoản phụ cấp đi lại công ty trả mỗi tháng cạnh giá thuê tháng đã duyệt của từng dòng xe để tính phần tự bù và chọn dòng xe vừa với khoản phụ cấp.",
+   "kw": "phụ cấp đi lại thuê xe máy",
+   "kw2": [
+    "phụ cấp xăng xe có đủ thuê xe",
+    "thuê xe máy bằng tiền phụ cấp"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "nhân viên văn phòng, công nhân được công ty trả phụ cấp đi lại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-007",
+   "child_id": "C-THUE-GIA",
+   "title": "Lập dự toán tiền thuê xe máy cho đề tài, dự án hay đợt khảo sát: lấy giá ngày, tuần, tháng nào để ghi",
+   "intent": "Biết cách đưa tiền thuê xe máy vào dự toán đề tài, dự án hoặc đợt khảo sát ở Hà Nội bằng giá đã duyệt, ghi rõ dòng xe, gói giá và số ngày để dễ duyệt chi.",
+   "kw": "dự toán tiền thuê xe máy",
+   "kw2": [
+    "lập dự toán thuê xe máy",
+    "thuê xe máy đi khảo sát dự án"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "cán bộ dự án, nhóm nghiên cứu, kế toán tổ chức phi lợi nhuận",
+   "location_scope": "Hà Nội và các huyện ngoại thành",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-008",
+   "child_id": "C-THUE-GIA",
+   "title": "Mượn xe máy của người quen hay tự thuê xe khi ở Hà Nội vài ngày: những khoản cần tính cho sòng phẳng",
+   "intent": "Hiểu các chi phí và trách nhiệm đi kèm khi mượn xe của người quen so với khoản tiền thuê rõ ràng theo bảng giá, để chọn cách phù hợp cho vài ngày ở Hà Nội mà không mất lòng.",
+   "kw": "mượn xe máy hay thuê xe",
+   "kw2": [
+    "mượn xe người quen ở hà nội",
+    "thuê xe thay vì mượn xe"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người từ tỉnh lên Hà Nội có họ hàng, bạn bè sẵn lòng cho mượn xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-009",
+   "child_id": "C-THUE-GIA",
+   "title": "Tiết kiệm tiền thuê xe máy mà không cần khuyến mãi: chọn đúng dòng xe, đúng gói và đúng số ngày",
+   "intent": "Nắm những cách giảm tổng tiền thuê xe máy ở Hà Nội chỉ bằng bảng giá đã duyệt: chọn dòng xe vừa nhu cầu, chuyển gói khi đủ ngày và không giữ xe những ngày không dùng.",
+   "kw": "cách tiết kiệm tiền thuê xe máy",
+   "kw2": [
+    "giảm chi phí thuê xe máy",
+    "thuê xe máy đỡ tốn tiền"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "khách thuê để ý ngân sách: sinh viên, khách du lịch tự túc, người đi làm",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-010",
+   "child_id": "C-THUE-GIA",
+   "title": "Cần xe từ 5, 6 giờ sáng mà cửa hàng mở cửa 9 giờ: nhận xe tối hôm trước thì tiền thuê tính thế nào",
+   "intent": "Biết cách tính số ngày thuê khi phải nhận xe máy từ tối hôm trước để kịp đi sớm, dựa trên giờ hoạt động 9:00 đến 21:00 và giá ngày đã duyệt, rồi xác nhận cách tính với cửa hàng.",
+   "kw": "nhận xe thuê từ tối hôm trước",
+   "kw2": [
+    "thuê xe máy đi sáng sớm",
+    "nhận xe máy thuê buổi tối"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người cần xuất phát sớm: ra sân bay, đi tỉnh, đi chợ đầu mối, dự sự kiện buổi sáng",
+   "location_scope": "Long Biên và các quận của Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-011",
+   "child_id": "C-THUE-GIA",
+   "title": "Dời lịch thuê xe máy vì bão hoặc mưa lớn: báo cửa hàng lúc nào và giá áp dụng cho ngày mới ra sao",
+   "intent": "Biết cách dời ngày nhận xe máy đã đặt khi Hà Nội có bão hoặc mưa lớn, báo cửa hàng sớm và xác nhận lại dòng xe, gói giá, số ngày cho lịch mới trước khi lên đường.",
+   "kw": "dời lịch thuê xe máy",
+   "kw2": [
+    "đổi ngày thuê xe máy vì mưa bão",
+    "hoãn thuê xe máy do thời tiết"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "khách đã đặt xe trước, nhất là khách du lịch vào mùa mưa bão",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-012",
+   "child_id": "C-THUE-GIA",
+   "title": "Hướng dẫn viên tự do dẫn khách tự lái xe máy: thuê theo từng ngày có tour hay giữ xe theo gói tháng",
+   "intent": "Lên kế hoạch thuê xe máy cho hướng dẫn viên tự do có lịch tour không đều, so tiền thuê theo ngày từng buổi dẫn khách với gói tuần, gói tháng đã duyệt để chọn cách ít tốn nhất.",
+   "kw": "hướng dẫn viên thuê xe máy",
+   "kw2": [
+    "thuê xe máy dẫn tour hà nội",
+    "hướng dẫn viên thuê xe theo tháng"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "hướng dẫn viên du lịch tự do, người dẫn tour phố và tour ẩm thực",
+   "location_scope": "Phố cổ, Hồ Tây và các tuyến quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-013",
+   "child_id": "C-THUE-GIA",
+   "title": "Ông bà từ quê lên Hà Nội trông cháu vài tháng: thuê xe máy theo tháng để đưa đón cháu và đi chợ",
+   "intent": "Lên kế hoạch thuê xe máy theo tháng cho ông bà lên Hà Nội trông cháu, chọn dòng xe dễ đi trong giá tháng đã duyệt và biết cách hỏi cửa hàng giá tháng của xe số Wave.",
+   "kw": "ông bà trông cháu thuê xe máy",
+   "kw2": [
+    "thuê xe máy cho ông bà đưa đón cháu",
+    "xe máy thuê cho ông bà đi chợ"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "gia đình trẻ có ông bà từ quê lên trông cháu",
+   "location_scope": "Các khu dân cư, chung cư ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-016-014",
+   "child_id": "C-THUE-GIA",
+   "title": "Mùa hoa sưa, cúc họa mi, lá vàng ở phố Hà Nội: thuê xe máy nửa ngày đi chụp ảnh tính giờ hay tính ngày",
+   "intent": "Biết cách chọn hình thức thuê xe máy cho một buổi đi chụp ảnh mùa hoa trong phố Hà Nội, so giá ngày đã duyệt với thuê theo giờ cần cửa hàng xác nhận và sắp giờ trả xe.",
+   "kw": "thuê xe máy chụp ảnh mùa hoa",
+   "kw2": [
+    "thuê xe máy nửa ngày chụp ảnh",
+    "mùa hoa hà nội đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/gia-thue/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-016",
+   "audience": "người trẻ, nhóm bạn, khách du lịch thích chụp ảnh",
+   "location_scope": "Hoàng Diệu, Phan Đình Phùng, Nhật Tân, Tây Hồ",
+   "word_target": 1200
+  }
+ ]
+}
