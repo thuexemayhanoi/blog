@@ -1,0 +1,465 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-013: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-001",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Tiền polymer Việt Nam dễ nhầm mệnh giá: khách quốc tế trả tiền xăng, gửi xe, vá lốp không bị lẫn",
+   "intent": "Biết cách phân biệt nhanh các tờ tiền polymer có màu gần giống nhau, chuẩn bị tiền lẻ và kiểm lại tiền thối khi trả tiền xăng, gửi xe hay vá lốp trong lúc tự lái xe máy.",
+   "kw": "tiền việt nam dễ nhầm mệnh giá",
+   "kw2": [
+    "phân biệt tiền polymer việt nam",
+    "tiền lẻ khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế mới đến, chưa quen tiền Việt",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-002",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "IDP theo Công ước 1949 hay 1968: kiểm tra giấy phép lái xe quốc tế trước khi chạy xe máy ở Việt Nam",
+   "intent": "Hiểu sự khác nhau giữa giấy phép lái xe quốc tế cấp theo Công ước Geneva 1949 và Công ước Vienna 1968, cách xem mẫu IDP của mình và hệ quả khi lái xe máy ở Việt Nam.",
+   "kw": "idp công ước 1968 việt nam",
+   "kw2": [
+    "giấy phép lái xe quốc tế 1949",
+    "công ước viên 1968 giấy phép lái xe"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế đã có hoặc đang định làm IDP",
+   "location_scope": "Việt Nam, áp dụng khi lái xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-003",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Bằng lái nước mình chỉ có hạng ô tô hoặc là bằng tập lái: khách quốc tế có được chạy xe máy ở Việt Nam",
+   "intent": "Hiểu vì sao giấy phép lái xe chỉ ghi hạng ô tô, bằng tập lái hay bằng tạm thời không thay được hạng mô tô khi lái xe máy ở Việt Nam, và nên chuẩn bị gì trước chuyến đi.",
+   "kw": "idp không có hạng xe máy",
+   "kw2": [
+    "bằng tập lái nước ngoài ở việt nam",
+    "khách quốc tế chỉ có bằng ô tô"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế chỉ có bằng ô tô hoặc bằng tập lái",
+   "location_scope": "Việt Nam, khi thuê xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-004",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Giấy phép hạng A1 hay hạng A: khách quốc tế được lái xe máy dung tích bao nhiêu khi ở Hà Nội",
+   "intent": "Nắm cách đối chiếu hạng A1, hạng A ghi trên giấy phép lái xe quốc tế với phân hạng của Luật Trật tự, an toàn giao thông đường bộ 2024 để chọn xe máy có dung tích phù hợp.",
+   "kw": "idp hạng a1 xe 125cc",
+   "kw2": [
+    "giấy phép lái xe quốc tế hạng a",
+    "khách quốc tế lái xe trên 125cc"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế có giấy phép hạng A1 hoặc A ở nước mình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-005",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Bảo hiểm du lịch mua ở nước mình có chi trả khi tự lái xe máy ở Việt Nam: đọc điều khoản nào trước",
+   "intent": "Biết cách đọc các điều khoản bảo hiểm du lịch về lái xe máy như điều kiện giấy phép, dung tích xe, mũ bảo hiểm để hỏi lại hãng bảo hiểm trước khi thuê xe ở Hà Nội.",
+   "kw": "bảo hiểm du lịch xe máy",
+   "kw2": [
+    "travel insurance xe máy việt nam",
+    "bảo hiểm du lịch có trả tai nạn xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế mua bảo hiểm du lịch trước chuyến đi",
+   "location_scope": "Việt Nam, khi tự lái ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-006",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Vừa xuống chuyến bay dài đến Hà Nội có nên nhận xe máy ngay: lệch múi giờ, mệt và chọn giờ nhận xe",
+   "intent": "Lên kế hoạch thời điểm nhận xe máy sau chuyến bay dài, tự đánh giá mức mệt do lệch múi giờ và chọn khung giờ chạy đầu tiên an toàn hơn khi mới đặt chân tới Hà Nội.",
+   "kw": "nhận xe máy sau chuyến bay dài",
+   "kw2": [
+    "lệch múi giờ có nên lái xe máy",
+    "mới đến hà nội nhận xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế bay đường dài tới Nội Bài",
+   "location_scope": "Sân bay Nội Bài và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-007",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đèn đỏ có được rẽ phải không: khách quốc tế quen luật nước mình cần biết gì khi chạy xe máy ở Hà Nội",
+   "intent": "Hiểu quy định về rẽ phải khi đèn đỏ ở Việt Nam, nhận biết biển hoặc đèn cho phép rẽ phải và bỏ thói quen rẽ phải tự do mang từ nước mình khi chạy xe máy ở Hà Nội.",
+   "kw": "đèn đỏ có được rẽ phải",
+   "kw2": [
+    "rẽ phải khi đèn đỏ việt nam",
+    "biển cho phép rẽ phải khi đèn đỏ"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế quen luật rẽ phải khi đèn đỏ ở nước mình",
+   "location_scope": "Các ngã tư có đèn tín hiệu ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-008",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Thấy người địa phương leo vỉa hè, đi ngược chiều, chở ba: thói quen khách quốc tế không nên bắt chước",
+   "intent": "Hiểu vì sao những cảnh dễ thấy trên phố Hà Nội như leo vỉa hè, đi ngược chiều, vượt đèn đỏ hay chở ba người là vi phạm, và cách tự lái đúng luật mà vẫn hòa vào dòng xe.",
+   "kw": "thói quen xấu khi đi xe máy",
+   "kw2": [
+    "leo vỉa hè xe máy có bị phạt",
+    "chở ba người trên xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế quan sát giao thông Hà Nội lần đầu",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-009",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Hiệu lệnh còi và tay của cảnh sát giao thông ở ngã tư Hà Nội: khách quốc tế hiểu để dừng và đi đúng",
+   "intent": "Hiểu ý nghĩa các tư thế tay, gậy chỉ huy và tiếng còi của người điều khiển giao thông, cùng thứ tự ưu tiên giữa hiệu lệnh, đèn tín hiệu và biển báo khi chạy xe máy ở Hà Nội.",
+   "kw": "hiệu lệnh cảnh sát giao thông",
+   "kw2": [
+    "tư thế tay của cảnh sát giao thông",
+    "thứ tự ưu tiên hiệu lệnh đèn biển báo"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế tự lái qua ngã tư có người điều khiển",
+   "location_scope": "Các ngã tư lớn ở nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-010",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Ghé chùa, đền, phủ ở Hà Nội bằng xe máy: khách quốc tế dựng xe, ăn mặc và cư xử thế nào cho phải phép",
+   "intent": "Biết cách dựng xe đúng chỗ ở cổng chùa, đền, chuẩn bị trang phục kín đáo, tháo mũ, giữ yên lặng và ứng xử lịch sự khi ghé nơi thờ tự trong chuyến tự lái xe máy.",
+   "kw": "ứng xử khi đi chùa đền",
+   "kw2": [
+    "trang phục đi chùa ở hà nội",
+    "dựng xe máy ở cổng chùa"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế tham quan nơi thờ tự",
+   "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-011",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Rạp đám cưới, đám tang dựng kín ngõ ở Hà Nội: khách quốc tế dắt xe qua hay đi đường vòng",
+   "intent": "Biết cách xử lý khi ngõ bị rạp cưới hay rạp tang chắn lối: dừng sớm, hỏi lối đi, dắt xe hoặc đi vòng, không bấm còi và cư xử tôn trọng gia đình đang có việc.",
+   "kw": "rạp đám cưới chắn ngõ",
+   "kw2": [
+    "đám tang trong ngõ đi xe máy",
+    "gặp đoàn đưa tang trên đường"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế ở homestay, căn hộ trong ngõ",
+   "location_scope": "Các ngõ dân cư nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-012",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Biển Khu vực cấm và Cấm chụp ảnh ven đường ngoại thành: khách quốc tế đi xe máy nên dừng và chụp thế nào",
+   "intent": "Hiểu ý nghĩa biển khu vực cấm và biển cấm chụp ảnh gần doanh trại, công trình quốc phòng ở ngoại thành Hà Nội, từ đó biết cách dừng xe và chụp ảnh mà không vi phạm.",
+   "kw": "biển khu vực cấm chụp ảnh",
+   "kw2": [
+    "khu quân sự cấm chụp ảnh",
+    "khách nước ngoài chụp ảnh khu vực cấm"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế thích dừng xe chụp ảnh dọc đường",
+   "location_scope": "Ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-013",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Gõ tên phố không dấu trên bản đồ dễ dẫn sai chỗ: khách quốc tế tìm đúng địa điểm ở Hà Nội thế nào",
+   "intent": "Biết cách tìm đúng địa điểm khi tên phố tiếng Việt gõ không dấu bị trùng hoặc gần giống nhau, dùng ghim vị trí, ảnh địa chỉ và kiểm tra quận trước khi đi xe máy.",
+   "kw": "tên phố không dấu bản đồ",
+   "kw2": [
+    "tìm địa chỉ hà nội không dấu",
+    "tên đường trùng nhau ở hà nội"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế tự dẫn đường bằng điện thoại",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-014",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Đọc tin nhắn tiếng Việt viết tắt của chủ xe: ko, đc, nhé, ạ và cách trả lời ngắn gọn cho khách quốc tế",
+   "intent": "Hiểu các chữ viết tắt và từ đệm hay gặp trong tin nhắn tiếng Việt như ko, đc, nhé, ạ để không hiểu sai giờ hẹn, địa điểm và lời dặn của chủ xe, rồi trả lời ngắn gọn.",
+   "kw": "tiếng việt viết tắt trong tin nhắn",
+   "kw2": [
+    "ko đc nghĩa là gì",
+    "đọc tin nhắn tiếng việt của chủ xe"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế liên lạc với chủ xe qua ứng dụng nhắn tin",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-015",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Biển cấm đỗ ngày chẵn, ngày lẻ ở Hà Nội: khách quốc tế đọc biển và tính ngày để đỗ xe máy đúng chỗ",
+   "intent": "Nắm ý nghĩa biển cấm đỗ xe ngày chẵn, ngày lẻ, cách tính theo ngày dương lịch và cách đọc biển phụ khung giờ đi kèm để đỗ xe máy bên đường mà không vi phạm.",
+   "kw": "biển cấm đỗ ngày chẵn lẻ",
+   "kw2": [
+    "cấm đỗ xe ngày lẻ",
+    "biển cấm đỗ ngày chẵn với xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế đỗ xe ven đường",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-016",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Bọc hộ chiếu và giấy phép lái xe quốc tế chống ướt khi chạy xe máy mùa mưa ở Hà Nội",
+   "intent": "Biết cách đóng gói hộ chiếu, giấy phép lái xe quốc tế và bằng lái gốc chống nước, để ở chỗ dễ lấy khi bị kiểm tra và tránh giấy tờ bị nhòe, rách khi gặp mưa hay lội nước.",
+   "kw": "bọc hộ chiếu chống nước",
+   "kw2": [
+    "giấy phép lái xe quốc tế bị ướt",
+    "túi chống nước đựng giấy tờ"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế tự lái trong mùa mưa",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-017",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Chữ tiếng Việt trên biển phụ giao thông: trừ, cấm, giờ, xe máy và cách khách quốc tế dịch nhanh khi đang đi",
+   "intent": "Hiểu các từ tiếng Việt hay xuất hiện trên biển phụ như trừ, cấm, xe máy, ô tô, giờ, ngày để áp dụng đúng biển chính đi kèm khi tự lái xe máy ở Hà Nội.",
+   "kw": "chữ trên biển phụ giao thông",
+   "kw2": [
+    "biển phụ tiếng việt nghĩa là gì",
+    "từ tiếng việt trên biển báo"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế không đọc được tiếng Việt",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-018",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Bị lập biên bản giao thông sát ngày bay: khách quốc tế nộp phạt thế nào để không bị tạm hoãn xuất cảnh",
+   "intent": "Hiểu các bước sau khi bị lập biên bản vi phạm giao thông, những cách nộp phạt chính thức và trường hợp người nước ngoài có thể bị tạm hoãn xuất cảnh khi chưa chấp hành quyết định xử phạt.",
+   "kw": "tạm hoãn xuất cảnh người nước ngoài",
+   "kw2": [
+    "nộp phạt giao thông trước khi về nước",
+    "khách quốc tế bị lập biên bản giao thông"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế sắp kết thúc chuyến đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-019",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Xe máy thuê đứng tên chủ xe, không phải tên mình: khách quốc tế có cần giấy ủy quyền khi bị kiểm tra",
+   "intent": "Hiểu vì sao người lái không cần đứng tên trên giấy đăng ký xe, lỗi không chính chủ áp dụng với ai và nên mang giấy tờ, hợp đồng thuê nào để trình bày khi bị kiểm tra.",
+   "kw": "đi xe không chính chủ",
+   "kw2": [
+    "lỗi không chính chủ xe máy",
+    "giấy ủy quyền khi lái xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế lo bị phạt vì xe không đứng tên mình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-020",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Khách quốc tế ở Hà Nội đúng Tết Nguyên đán: phố vắng, tiệm sửa xe nghỉ và những lưu ý khi tự lái xe máy",
+   "intent": "Lên kế hoạch tự lái xe máy trong những ngày Tết Nguyên đán ở Hà Nội khi nhiều tiệm sửa xe, quán ăn nghỉ, nhịp phố thay đổi và có những phong tục đầu năm cần tôn trọng.",
+   "kw": "đi xe máy hà nội dịp tết",
+   "kw2": [
+    "tết nguyên đán hà nội đi xe máy",
+    "tiệm sửa xe nghỉ tết"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế du lịch Hà Nội dịp Tết",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-021",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Tháng nào sang Hà Nội tự lái xe máy dễ chịu nhất: thời tiết từng mùa để khách quốc tế lên lịch chuyến đi",
+   "intent": "Lên kế hoạch chọn tháng đến Hà Nội phù hợp để tự lái xe máy, dựa trên đặc điểm thời tiết mùa xuân, hè, thu, đông và những dịp lễ đông đúc nên tránh.",
+   "kw": "tháng nào nên đi hà nội",
+   "kw2": [
+    "hà nội mùa nào đẹp nhất",
+    "thời tiết hà nội theo tháng"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế đang lên lịch chuyến đi",
+   "location_scope": "Hà Nội và vùng lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-022",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Sinh viên quốc tế học trao đổi một học kỳ ở Hà Nội thuê xe máy: gửi xe ở trường và đi lại quanh ký túc xá",
+   "intent": "Lên kế hoạch thuê và dùng xe máy trong một học kỳ trao đổi, từ giấy phép cần có, chỗ gửi xe trong trường đến tuyến đi giữa ký túc xá, giảng đường và khu trung tâm.",
+   "kw": "sinh viên quốc tế thuê xe máy",
+   "kw2": [
+    "sinh viên trao đổi ở hà nội",
+    "du học sinh nước ngoài đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "sinh viên quốc tế học trao đổi",
+   "location_scope": "Cầu Giấy, Đống Đa, Hai Bà Trưng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-023",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Bị người đi đường quát vì đi chậm hay chắn lối: khách quốc tế phản ứng thế nào để không thành xung đột",
+   "intent": "Biết cách giữ bình tĩnh khi bị người đi đường to tiếng vì đi chậm, chắn lối hay dừng đột ngột, tấp vào lề an toàn, xin lỗi ngắn gọn và không để va chạm lời nói leo thang.",
+   "kw": "bị quát khi đi xe máy",
+   "kw2": [
+    "tránh xung đột trên đường hà nội",
+    "khách nước ngoài bị mắng khi lái xe"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế mới tự lái",
+   "location_scope": "Nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-013-024",
+   "child_id": "C-THUE-QUOC-TE",
+   "title": "Để giấy phép lái xe quốc tế ở khách sạn, chỉ mang ảnh chụp trên điện thoại: có đủ khi bị kiểm tra không",
+   "intent": "Hiểu vì sao ảnh chụp giấy phép lái xe và hộ chiếu trên điện thoại không thay được bản gốc khi bị kiểm tra, và cách mang bản gốc theo người gọn gàng, an toàn.",
+   "kw": "ảnh chụp bằng lái có hợp lệ",
+   "kw2": [
+    "mang bản gốc giấy phép lái xe quốc tế",
+    "ảnh chụp giấy tờ khi bị kiểm tra"
+   ],
+   "links": [
+    "/thue-xe/khach-quoc-te/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-013",
+   "audience": "khách quốc tế ngại mang giấy tờ gốc theo người",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
