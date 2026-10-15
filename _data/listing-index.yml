@@ -8,9 +8,9 @@ chia-se:
   size: 12
   total: 112
 du-lich:
-  pages: 49
+  pages: 50
   size: 12
-  total: 587
+  total: 597
 topic:
   xe-may_bao-duong-xe:
     pages: 5
@@ -75,7 +75,7 @@ topic:
   du-lich_ho-tay:
     pages: 2
     size: 24
-    total: 38
+    total: 45
   xe-may_honda-air-blade:
     pages: 3
     size: 24
@@ -127,7 +127,7 @@ topic:
   du-lich_pho-co:
     pages: 3
     size: 24
-    total: 63
+    total: 66
   an-toan-phap-ly_quy-dinh-giao-thong:
     pages: 2
     size: 24
