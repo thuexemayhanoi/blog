@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-14T20:24:07+00:00",
-    "staged_at": "2026-10-15T04:29:02+00:00"
+    "staged_at": "2026-10-15T04:42:57+00:00"
   },
   "candidates": [
     {
@@ -9318,6 +9318,1431 @@
       "subtopic": "refill-2026-10-15-W2-010",
       "audience": "người to nặng thuê xe số đi lại hằng ngày",
       "location_scope": "nội thành Hà Nội và các dốc cầu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-001",
+      "child_id": "C-XE-DIEN",
+      "title": "Ứng dụng kết nối trên xe máy điện thuê: xem mức pin, định vị xe và những điều nên hỏi chủ xe",
+      "intent": "Hiểu ứng dụng điện thoại kết nối với xe máy điện thuê làm được gì như xem mức pin, định vị, cảnh báo, và biết hỏi chủ xe về quyền truy cập, đăng xuất khi trả xe.",
+      "kw": "ứng dụng kết nối xe máy điện",
+      "kw2": [
+        "app xem pin xe máy điện",
+        "định vị xe máy điện thuê"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện quen dùng điện thoại thông minh",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-002",
+      "child_id": "C-XE-DIEN",
+      "title": "Cốp xe máy điện nhỏ vì khoang pin: mang theo gì và cất đồ ở đâu khi đi chơi trong ngày ở Hà Nội",
+      "intent": "Biết cách sắp xếp đồ khi cốp xe máy điện bị khoang pin chiếm chỗ: chọn đồ cần mang, chỗ để mũ, áo mưa, bộ sạc và giữ đồ khô ráo, gọn gàng suốt ngày.",
+      "kw": "cốp xe máy điện",
+      "kw2": [
+        "xe máy điện để đồ ở đâu",
+        "cốp xe điện chứa được gì"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "khách du lịch thuê xe máy điện đi chơi cả ngày",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-003",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện tự giảm công suất khi pin thấp hoặc nóng máy: chế độ bảo vệ hoạt động ra sao",
+      "intent": "Hiểu vì sao xe máy điện tự yếu ga, giới hạn tốc độ khi pin xuống thấp hoặc động cơ, bộ điều khiển quá nóng, và cách lái, dừng nghỉ an toàn khi chế độ bảo vệ kích hoạt.",
+      "kw": "xe máy điện tự giảm tốc",
+      "kw2": [
+        "xe điện yếu ga khi pin thấp",
+        "chế độ bảo vệ xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện đi nhiều chặng trong ngày",
+      "location_scope": "Hà Nội và vùng ven",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-004",
+      "child_id": "C-XE-DIEN",
+      "title": "Động cơ trong bánh sau hay đặt giữa thân xe: cảm giác lái xe máy điện thuê khác nhau thế nào",
+      "intent": "Nắm khác biệt giữa xe máy điện dùng động cơ trong bánh sau và động cơ đặt giữa có truyền động, để biết cảm giác tăng tốc, leo dốc, tiếng động và cách lái cho phù hợp.",
+      "kw": "động cơ trong bánh xe máy điện",
+      "kw2": [
+        "động cơ hub xe máy điện",
+        "động cơ đặt giữa xe điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê muốn hiểu cấu tạo chiếc xe máy điện mình nhận",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-005",
+      "child_id": "C-XE-DIEN",
+      "title": "Từ nội thành đi Ecopark bằng xe máy điện thuê: chọn cầu qua sông Hồng và tính pin khứ hồi",
+      "intent": "Lên kế hoạch chuyến đi từ nội thành Hà Nội sang khu đô thị Ecopark bằng xe máy điện thuê: chọn cầu cho phép xe máy, ước quãng đường khứ hồi và giữ pin dự phòng.",
+      "kw": "đi ecopark bằng xe máy điện",
+      "kw2": [
+        "xe điện từ hà nội sang ecopark",
+        "ecopark cách hà nội bao xa"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người ở nội thành muốn đi dạo cuối tuần bằng xe máy điện",
+      "location_scope": "Hoàn Kiếm, Long Biên, Gia Lâm, Văn Giang (Hưng Yên)",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-006",
+      "child_id": "C-XE-DIEN",
+      "title": "Người dáng nhỏ thuê xe máy điện: chiều cao yên, trọng lượng xe và cách chống chân khi dừng đèn đỏ",
+      "intent": "Biết cách chọn và làm quen xe máy điện thuê khi dáng người nhỏ: kiểm tra chiều cao yên, sức nặng của xe có pin, và tư thế chống chân, dừng xe vững ở ngã tư đông.",
+      "kw": "xe máy điện cho người thấp",
+      "kw2": [
+        "chiều cao yên xe máy điện",
+        "xe điện cho nữ dáng nhỏ"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "phụ nữ và người dáng nhỏ dưới 1m55",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-007",
+      "child_id": "C-XE-DIEN",
+      "title": "Đi nhóm có cả xe máy điện và xe xăng: thống nhất tốc độ, điểm dừng sạc và lộ trình chung",
+      "intent": "Lên kế hoạch cho nhóm bạn đi cùng nhau khi có người lái xe máy điện, người lái xe xăng: chọn tốc độ chung, chặng nghỉ có chỗ sạc và lộ trình vừa với quãng pin.",
+      "kw": "đi nhóm xe điện và xe xăng",
+      "kw2": [
+        "đi chơi nhóm có xe máy điện",
+        "điểm dừng sạc khi đi nhóm"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "nhóm bạn, gia đình thuê nhiều xe đi chơi chung",
+      "location_scope": "Hà Nội và các điểm ven đô",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-008",
+      "child_id": "C-XE-DIEN",
+      "title": "Thuê xe máy điện dịp Tết ở Hà Nội: trạm sạc, điểm đổi pin ngày nghỉ lễ và đi chúc Tết xa nhà",
+      "intent": "Lên kế hoạch dùng xe máy điện thuê những ngày Tết ở Hà Nội: hỏi trước lịch hoạt động của trạm sạc, điểm đổi pin, sạc đầy trước mỗi chuyến chúc Tết và chia chặng hợp lý.",
+      "kw": "xe máy điện dịp tết",
+      "kw2": [
+        "sạc xe điện ngày tết",
+        "đi chúc tết bằng xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người ở lại Hà Nội dịp Tết và người về thăm nhà",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-009",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện xuống bãi đất, bãi cát ven sông Hồng: giữ ga đều, tránh sa lầy và khi nào nên dắt bộ",
+      "intent": "Biết cách điều khiển xe máy điện nặng trên nền đất mềm, cát và lối mòn ven bãi sông Hồng: giữ ga đều, không quay bánh tại chỗ và nhận ra lúc nên dừng, dắt xe.",
+      "kw": "xe máy điện đi đường cát",
+      "kw2": [
+        "xe điện bị sa lầy cát",
+        "xe máy điện xuống bãi sông hồng"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người đi chụp ảnh, ngắm hoa ở các bãi ven sông",
+      "location_scope": "bãi ven sông Hồng thuộc Tây Hồ, Long Biên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-010",
+      "child_id": "C-XE-DIEN",
+      "title": "Lên dốc hầm gửi xe và vỉa hè cao bằng xe máy điện: ga nhẹ để xe không chồm, không cạ gầm",
+      "intent": "Biết cách vượt dốc ngắn ở lối xuống hầm gửi xe và mép vỉa hè cao bằng xe máy điện có lực kéo tức thì: góc vào dốc, mức ga, tư thế ngồi và tránh cạ gầm.",
+      "kw": "xe máy điện lên dốc hầm",
+      "kw2": [
+        "xe điện lên vỉa hè cao",
+        "xe máy điện bị chồm khi vặn ga"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người ở chung cư, làm văn phòng có hầm gửi xe",
+      "location_scope": "chung cư và tòa nhà văn phòng ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-011",
+      "child_id": "C-XE-DIEN",
+      "title": "Đèn, còi và cổng USB sạc điện thoại trên xe máy điện: thiết bị nào thật sự làm hao pin",
+      "intent": "Hiểu mức tiêu thụ điện của đèn, còi, cổng sạc điện thoại so với động cơ trên xe máy điện, để biết thiết bị nào bật thoải mái và lúc pin thấp nên tiết chế gì.",
+      "kw": "cổng usb xe máy điện",
+      "kw2": [
+        "bật đèn xe điện có tốn pin không",
+        "sạc điện thoại trên xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện dùng điện thoại dẫn đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-012",
+      "child_id": "C-XE-DIEN",
+      "title": "Tiền điện sạc xe máy điện ở nhà trọ: ước lượng số kWh mỗi lần sạc và thỏa thuận với chủ trọ",
+      "intent": "Biết cách ước lượng lượng điện một lần sạc xe máy điện từ điện áp và dung lượng pin, quy ra số kWh để thỏa thuận rõ ràng với chủ nhà trọ về cách tính tiền điện.",
+      "kw": "tiền điện sạc xe máy điện",
+      "kw2": [
+        "sạc xe điện hết bao nhiêu số điện",
+        "chủ trọ tính tiền sạc xe điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê trọ, sinh viên dùng xe máy điện thuê dài ngày",
+      "location_scope": "các khu nhà trọ ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-013",
+      "child_id": "C-XE-DIEN",
+      "title": "Chạy giao hàng cả ngày bằng xe máy điện thuê: chia ca sạc, quãng đường và tải trọng thùng hàng",
+      "intent": "Lên kế hoạch dùng xe máy điện thuê cho việc giao hàng cả ngày: chia chặng theo pin, chọn giờ sạc xen giữa ca, giới hạn tải hàng và hỏi rõ chủ xe về mục đích sử dụng.",
+      "kw": "xe máy điện chạy giao hàng",
+      "kw2": [
+        "shipper dùng xe máy điện",
+        "xe điện chạy cả ngày sạc mấy lần"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người làm giao hàng, chạy đơn bán thời gian",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-014",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện có hai khay pin: dùng pin thứ hai thế nào để kéo dài quãng đường trong ngày",
+      "intent": "Hiểu cách xe máy điện hai khay pin luân phiên hoặc cộng dồn dung lượng, cách đọc mức từng pin, sạc cả hai và lên lịch dùng pin thứ hai cho ngày đi xa.",
+      "kw": "xe máy điện hai pin",
+      "kw2": [
+        "xe điện hai khay pin",
+        "pin thứ hai xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê cần quãng đường dài hơn một pin",
+      "location_scope": "Hà Nội và vùng ven",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-015",
+      "child_id": "C-XE-DIEN",
+      "title": "Ghi số km và phần trăm pin sau mỗi lần sạc: tự tính mức tiêu hao thật của xe máy điện đang thuê",
+      "intent": "Biết cách ghi lại số km trên đồng hồ và phần trăm pin qua vài ngày để tự tính mỗi phần trăm pin đi được bao xa, từ đó lên kế hoạch sạc sát thực tế.",
+      "kw": "mức tiêu hao pin xe máy điện",
+      "kw2": [
+        "mỗi phần trăm pin đi bao nhiêu km",
+        "nhật ký sạc xe điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện theo tuần hoặc theo tháng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-016",
+      "child_id": "C-XE-DIEN",
+      "title": "Sạc nhanh hay sạc thường cho xe máy điện thuê: khi nào nên dùng trụ sạc nhanh và ảnh hưởng tới pin",
+      "intent": "Hiểu khác biệt giữa sạc nhanh và sạc thường cho xe máy điện, cách kiểm tra xe thuê có hỗ trợ sạc nhanh hay không, khi nào nên dùng và vì sao không nên lạm dụng.",
+      "kw": "sạc nhanh xe máy điện",
+      "kw2": [
+        "sạc nhanh có hại pin xe điện không",
+        "trụ sạc nhanh xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện cần nạp pin gấp giữa ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-017",
+      "child_id": "C-XE-DIEN",
+      "title": "Cầu dao nhảy khi cắm sạc xe máy điện ở nhà trọ: nguyên nhân thường gặp và cách xử lý an toàn",
+      "intent": "Biết cách xử lý khi cầu dao hoặc aptomat ngắt điện lúc cắm sạc xe máy điện: rút sạc, kiểm tra quá tải, ổ cắm ẩm, và khi nào ngừng sạc để báo chủ xe.",
+      "kw": "cầu dao nhảy khi sạc xe điện",
+      "kw2": [
+        "aptomat ngắt khi sạc xe máy điện",
+        "sạc xe điện bị nhảy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê trọ, ở nhà dân tự sạc xe tại chỗ ở",
+      "location_scope": "nhà trọ, nhà dân ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-018",
+      "child_id": "C-XE-DIEN",
+      "title": "Khu nhà bị cắt điện theo lịch: chuẩn bị pin xe máy điện thuê và tìm chỗ sạc dự phòng ở Hà Nội",
+      "intent": "Lên kế hoạch khi khu ở có lịch cắt điện: theo dõi thông báo của ngành điện, sạc đầy trước giờ cắt, giảm chuyến không cần thiết và chọn nơi sạc thay thế an toàn.",
+      "kw": "cắt điện sạc xe máy điện",
+      "kw2": [
+        "lịch cắt điện hà nội sạc xe",
+        "mất điện không sạc được xe điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người ở trọ, chung cư dùng xe máy điện thuê hằng ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-019",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện có cần thay dầu không: những hạng mục người thuê dài ngày nên để ý và báo chủ xe",
+      "intent": "Hiểu xe máy điện không thay dầu máy như xe xăng nhưng vẫn cần để ý dầu phanh, dầu hộp số nếu có, lốp, má phanh, và biết lúc nào báo chủ xe kiểm tra.",
+      "kw": "xe máy điện có cần thay dầu",
+      "kw2": [
+        "bảo dưỡng xe máy điện định kỳ",
+        "xe điện thay dầu hộp số"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện theo tháng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-020",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện tự tắt nguồn khi dừng lâu: vì sao xảy ra và cách khởi động lại an toàn giữa phố",
+      "intent": "Hiểu chức năng tự ngắt nguồn sau thời gian đứng yên trên nhiều xe máy điện, phân biệt với lỗi, và biết thao tác bật lại xe an toàn khi đang chờ giữa dòng xe.",
+      "kw": "xe máy điện tự tắt nguồn",
+      "kw2": [
+        "xe điện tự ngắt khi dừng lâu",
+        "bật lại nguồn xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người mới thuê xe máy điện ở Hà Nội",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-021",
+      "child_id": "C-XE-DIEN",
+      "title": "Khách quốc tế thuê xe máy điện ở Hà Nội: những điểm khác xe xăng cần hỏi trước khi nhận xe",
+      "intent": "Nắm những câu nên hỏi chủ xe khi khách quốc tế thuê xe máy điện ở Hà Nội: quãng đường thực, cách sạc, đọc đồng hồ, xử lý khi pin yếu và kênh liên hệ hỗ trợ.",
+      "kw": "khách nước ngoài thuê xe máy điện",
+      "kw2": [
+        "rent electric scooter hanoi",
+        "du khách thuê xe điện hà nội"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "khách du lịch quốc tế lần đầu dùng xe máy điện",
+      "location_scope": "Hoàn Kiếm, Tây Hồ, Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-022",
+      "child_id": "C-XE-DIEN",
+      "title": "Sạc mãi không đầy hoặc đèn sạc báo xanh mà đồng hồ pin chưa đầy: nguyên nhân và khi nào báo chủ xe",
+      "intent": "Hiểu vì sao xe máy điện sạc lâu bất thường hoặc đèn sạc báo đầy mà đồng hồ chưa tới mức tối đa, phân biệt hiện tượng bình thường với lỗi cần báo chủ xe.",
+      "kw": "sạc xe máy điện mãi không đầy",
+      "kw2": [
+        "sạc xe điện báo đầy nhưng pin chưa đầy",
+        "sạc xe máy điện lâu đầy"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện tự sạc tại chỗ ở",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-023",
+      "child_id": "C-XE-DIEN",
+      "title": "Mang pin tháo rời lên phòng để sạc: sức nặng, cách xách và chỗ đặt pin xe máy điện an toàn",
+      "intent": "Biết cách tháo, xách pin rời của xe máy điện lên nhà an toàn, chọn chỗ đặt khi sạc thoáng mát, xa vật dễ cháy, và lắp lại pin đúng cách trước khi đi.",
+      "kw": "mang pin xe điện lên phòng sạc",
+      "kw2": [
+        "tháo pin xe máy điện mang đi sạc",
+        "chỗ đặt pin xe điện khi sạc"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người ở khu tập thể, nhà ống không dắt được xe vào nhà",
+      "location_scope": "khu tập thể, nhà ống ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-024",
+      "child_id": "C-XE-DIEN",
+      "title": "Xe máy điện cho người làm ca đêm: sạc lúc nào trong ngày và giữ pin cho chặng về lúc khuya",
+      "intent": "Lên kế hoạch sạc xe máy điện thuê theo lịch làm ca đêm: chọn giờ sạc khi nghỉ ban ngày, giữ pin dự phòng cho chặng về khuya và chọn đường sáng, có chỗ dừng.",
+      "kw": "xe máy điện đi làm ca đêm",
+      "kw2": [
+        "sạc xe điện khi làm ca đêm",
+        "đi xe điện về khuya hà nội"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "y tá, bảo vệ, nhân viên làm ca đêm",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-012-025",
+      "child_id": "C-XE-DIEN",
+      "title": "Thuê xe máy điện dài ngày: hỏi chủ xe về tuổi pin, số lần sạc và quãng đường thực trước khi chốt",
+      "intent": "Nắm các câu hỏi về tuổi pin, số chu kỳ sạc, quãng đường thực tế và lịch kiểm tra xe để đánh giá xe máy điện trước khi chốt thuê theo tuần hoặc theo tháng.",
+      "kw": "tuổi pin xe máy điện thuê",
+      "kw2": [
+        "hỏi chủ xe về pin xe điện",
+        "chu kỳ sạc pin xe máy điện"
+      ],
+      "links": [
+        "/xe-may/xe-dien/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-012",
+      "audience": "người thuê xe máy điện theo tuần hoặc tháng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-001",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mùa nước sông Hồng lên cao: đường xuống bãi ven sông và dốc ngoài đê nên tránh khi đi xe máy",
+      "intent": "Nắm cách nhận biết những ngày nước sông Hồng dâng cao, các đoạn đường xuống bãi ven sông và dốc ngoài đê dễ ngập hoặc sạt mép, để chọn lộ trình trong đê khi đi xe máy.",
+      "kw": "nước sông hồng lên đi xe máy",
+      "kw2": [
+        "đường ngoài đê sông hồng mùa lũ",
+        "bãi ven sông hồng ngập nước"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy sống hoặc thường đi qua khu ven sông Hồng",
+      "location_scope": "Long Biên, Tây Hồ, Hoàng Mai, ven đê sông Hồng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-002",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Chương Mỹ, Quốc Oai mùa lũ sông Bùi, sông Tích: đường làng ngập nhiều ngày, đi xe máy thế nào",
+      "intent": "Hiểu vì sao vùng trũng Chương Mỹ, Quốc Oai có thể ngập kéo dài khi sông Bùi, sông Tích lên, để biết hỏi tình hình, chọn đường cao và quyết định hoãn chuyến xe máy.",
+      "kw": "chương mỹ ngập lụt đi xe máy",
+      "kw2": [
+        "lũ sông bùi chương mỹ",
+        "đường ngập quốc oai mùa mưa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi làm, về quê hoặc đi chơi vùng ven phía tây Hà Nội",
+      "location_scope": "Chương Mỹ, Quốc Oai, Thạch Thất",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-003",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Khe co giãn bằng thép trên cầu lớn khi trời ướt: đi thẳng qua, không phanh và không đổi làn",
+      "intent": "Biết cách nhận ra khe co giãn bằng thép ở đầu cầu và giữa các nhịp cầu, giữ xe máy thẳng, nhả phanh khi bánh xe đi qua lúc mặt cầu ướt mưa hoặc đọng sương.",
+      "kw": "khe co giãn cầu trơn khi mưa",
+      "kw2": [
+        "qua khe co giãn cầu bằng xe máy",
+        "khe nối mặt cầu đường ướt"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy qua cầu sông Hồng hằng ngày",
+      "location_scope": "cầu Vĩnh Tuy, Chương Dương, Nhật Tân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-004",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mũ len, khăn ống và khẩu trang dày dưới mũ bảo hiểm ngày rét: khi nào làm mũ lỏng và che tầm nhìn",
+      "intent": "Hiểu lớp giữ ấm nào đội bên trong mũ bảo hiểm làm quai lỏng, mũ xê dịch hoặc che khóe mắt, và biết chọn đồ giữ ấm đầu cổ mà vẫn cài quai mũ đúng cách.",
+      "kw": "đội mũ len dưới mũ bảo hiểm",
+      "kw2": [
+        "khăn ống giữ ấm khi đi xe máy",
+        "mũ bảo hiểm mùa rét bị lỏng"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy sáng sớm và tối muộn mùa đông",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-005",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Áo mưa trùm che đèn hậu, xi nhan và biển số: mặc sao để xe phía sau vẫn nhìn thấy bạn",
+      "intent": "Biết cách mặc và giữ vạt áo mưa cánh dơi, áo mưa trùm không che đèn hậu, xi nhan, biển số, giúp người phía sau nhận ra bạn đang phanh hay chuyển hướng khi trời mưa.",
+      "kw": "áo mưa che đèn hậu biển số",
+      "kw2": [
+        "vạt áo mưa che xi nhan",
+        "mặc áo mưa trùm đúng cách"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy hay dùng áo mưa trùm, áo mưa cánh dơi",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-006",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mưa ập xuống khi đang ở giữa cầu Nhật Tân, Vĩnh Tuy: đi tiếp tới đâu mới dừng mặc áo mưa",
+      "intent": "Biết cách xử lý khi gặp mưa giữa cây cầu dài: không dừng trên làn cầu, giảm tốc giữ làn trước gió và chọn điểm dừng an toàn sau chân cầu để mặc áo mưa.",
+      "kw": "gặp mưa khi đang đi trên cầu",
+      "kw2": [
+        "dừng xe trên cầu mặc áo mưa",
+        "mưa gió trên cầu nhật tân"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy qua cầu sông Hồng",
+      "location_scope": "cầu Nhật Tân, Vĩnh Tuy, Chương Dương",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-007",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đường đất đỏ ở đồi Sóc Sơn, chân núi Ba Vì sau mưa: lớp bùn mỏng trơn hơn bạn nghĩ",
+      "intent": "Hiểu vì sao đường đất đỏ và đường nhựa phủ đất đỏ vùng đồi trở nên rất trơn sau mưa, và biết cách giảm tốc, giữ ga đều, tránh phanh trước gấp khi đi xe máy.",
+      "kw": "đường đất đỏ trơn sau mưa",
+      "kw2": [
+        "đường đồi sóc sơn trơn khi mưa",
+        "đất đỏ ba vì đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi dã ngoại, cắm trại bằng xe máy ở vùng đồi ngoại thành",
+      "location_scope": "Sóc Sơn, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-008",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi qua vũng nước cạnh người đi bộ, người đứng chờ xe buýt: giảm tốc để không tạt nước vào ai",
+      "intent": "Biết cách quan sát người đi bộ, người đứng chờ ở mép đường khi trời mưa, giảm tốc và chọn vệt bánh để không làm nước bắn lên người khác mà vẫn giữ an toàn cho mình.",
+      "kw": "xe máy tạt nước người đi bộ",
+      "kw2": [
+        "giảm tốc khi qua vũng nước",
+        "ứng xử khi đi xe ngày mưa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy trong phố ngày mưa",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-009",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Sáng rét lốp xe máy nguội và non hơi: vài cây số đầu nên phanh, vào cua nhẹ tay hơn",
+      "intent": "Hiểu vì sao buổi sáng trời rét lốp xe máy giảm áp suất và bám đường kém hơn lúc đầu, biết cách kiểm tra hơi lốp và điều chỉnh phanh, vào cua trong quãng đường đầu.",
+      "kw": "lốp xe máy trời rét",
+      "kw2": [
+        "áp suất lốp giảm khi trời lạnh",
+        "lốp nguội bám đường kém"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi làm sớm bằng xe máy mùa đông",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-010",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mặt trời thấp sau lưng lúc sáng sớm, chiều muộn: xe ngược chiều bị chói và khó nhìn thấy bạn",
+      "intent": "Hiểu khi mặt trời thấp chiếu từ phía sau mình thì người đi ngược chiều, xe chờ rẽ bị chói mắt, để biết bật đèn, giảm tốc và giữ khoảng cách ở ngã tư cho an toàn.",
+      "kw": "xe ngược chiều bị chói nắng",
+      "kw2": [
+        "đi xe máy xuôi hướng mặt trời",
+        "người đối diện bị chói không thấy xe"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy hướng đông buổi sáng, hướng tây buổi chiều",
+      "location_scope": "các trục đường đông tây ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-011",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mùa làm đất cấy lúa ven Hà Nội: bùn máy cày kéo ra đường và nước ruộng tràn mặt đường liên xã",
+      "intent": "Nắm thời điểm làm đất, cấy lúa vụ xuân và vụ mùa ở các huyện ngoại thành, nhận biết bùn bánh máy cày và nước ruộng tràn mặt đường liên xã để đi xe máy chậm, an toàn.",
+      "kw": "đường bùn mùa cấy lúa xe máy",
+      "kw2": [
+        "máy cày kéo bùn ra đường",
+        "đường liên xã trơn mùa cấy"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người về quê hoặc đi chơi đồng quê ngoại thành bằng xe máy",
+      "location_scope": "Ứng Hòa, Mỹ Đức, Phú Xuyên, Đông Anh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-012",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Nước ngập quanh cột điện, tủ điện và trạm biến áp: vì sao không nên đi hoặc dắt xe máy sát qua",
+      "intent": "Hiểu nguy cơ điện rò khi nước ngập quanh cột điện, tủ điện, trạm biến áp, và biết cách chọn đường vòng, giữ khoảng cách, báo ngành điện khi thấy dây hoặc tủ điện ngập.",
+      "kw": "đường ngập gần cột điện",
+      "kw2": [
+        "nguy cơ điện giật khi đường ngập",
+        "tủ điện ngập nước ven đường"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy qua phố ngập mùa mưa bão",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-013",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đi dưới đường trên cao Vành đai 3 và đường sắt đô thị ngày mưa: nước xả, cột trụ và người dừng trú",
+      "intent": "Biết cách đi xe máy dưới các tuyến đường trên cao khi trời mưa: tránh dòng nước xả từ ống thoát, để ý cột trụ khuất tầm nhìn và người dừng trú mưa chắn làn.",
+      "kw": "đi dưới đường trên cao trời mưa",
+      "kw2": [
+        "trú mưa dưới gầm đường trên cao",
+        "nước xả từ ống thoát cầu cạn"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi làm qua các trục có đường trên cao",
+      "location_scope": "Khuất Duy Tiến, Nguyễn Xiển, Phạm Văn Đồng, Nguyễn Trãi, Xuân Thủy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-014",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Chở trẻ nhỏ bằng xe máy ngày rét đậm hoặc nắng gắt: giữ ấm, che nắng mà bé vẫn ngồi vững",
+      "intent": "Biết cách chuẩn bị quần áo, mũ, khẩu trang, chọn giờ đi và tư thế ngồi cho trẻ nhỏ trên xe máy khi trời rét đậm hoặc nắng gắt, tránh để bé bị lạnh hay mệt vì nóng.",
+      "kw": "chở trẻ nhỏ ngày rét đậm",
+      "kw2": [
+        "chở con đi học trời nắng gắt",
+        "giữ ấm cho bé ngồi xe máy"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "phụ huynh chở con đi học, đi chơi bằng xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-015",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Thời tiết Hà Nội từng tháng trong năm: lịch đi xe máy, tháng nào dễ chịu và tháng nào cần đề phòng",
+      "intent": "Lên kế hoạch thuê và đi xe máy ở Hà Nội theo từng tháng: nắm kiểu thời tiết điển hình như rét, nồm, mưa giông, nắng nóng, hanh khô và việc chuẩn bị tương ứng.",
+      "kw": "thời tiết hà nội từng tháng",
+      "kw2": [
+        "tháng nào đi xe máy hà nội dễ chịu",
+        "lịch thời tiết hà nội cho khách"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "khách du lịch và người mới chuyển đến Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-016",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Gương chiếu hậu đọng nước mưa, hơi sương buổi sớm: lau thế nào và khi nào gương hết đáng tin",
+      "intent": "Biết cách giữ gương chiếu hậu nhìn rõ khi hạt mưa, hơi sương bám kín: lau đúng lúc trước và giữa chuyến, chỉnh góc gương, và nhận ra khi nào gương không còn đáng tin.",
+      "kw": "gương xe máy bị mờ khi mưa",
+      "kw2": [
+        "gương chiếu hậu đọng sương",
+        "lau gương xe máy trời mưa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy ngày mưa và sáng sương",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-017",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Gió khi chạy xe khiến người lạnh hơn nhiệt độ dự báo: hiểu để mặc đủ ấm trước khi xuất phát",
+      "intent": "Hiểu vì sao gió do tốc độ xe tạo ra làm cơ thể mất nhiệt nhanh, khiến cảm giác lạnh hơn nhiệt độ trong bản tin, để chọn đủ lớp áo, che cổ và tay trước chuyến đi.",
+      "kw": "nhiệt độ cảm nhận khi chạy xe",
+      "kw2": [
+        "vì sao đi xe máy thấy lạnh hơn",
+        "gió lùa khi chạy xe máy"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy quãng dài mùa đông và khách đến từ nơi ấm",
+      "location_scope": "Hà Nội và các cung ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-018",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Dấu hiệu sắp có giông khi đang chạy xe máy: mây đen, gió đổi chiều, bụi cuốn và lúc nên tấp vào",
+      "intent": "Nắm những dấu hiệu bầu trời và gió báo cơn giông sắp tới khi đang đi đường, để quyết định sớm nơi dừng, mặc áo mưa và tránh bị mắc kẹt giữa gió giật.",
+      "kw": "dấu hiệu sắp có giông",
+      "kw2": [
+        "nhìn trời đoán mưa khi đi xe",
+        "trời sắp mưa đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy ngoại thành và chuyến dài mùa hè",
+      "location_scope": "Hà Nội và vùng lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-019",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Xe phía trước bất ngờ lách tránh vũng nước, ổ gà ngày mưa: giữ khoảng cách và đoán trước",
+      "intent": "Biết cách đoán trước việc xe phía trước đột ngột lách hoặc phanh để né vũng nước, ổ gà, nắp cống khi trời mưa, giữ khoảng cách và vị trí để không bị bất ngờ.",
+      "kw": "xe phía trước lách tránh vũng nước",
+      "kw2": [
+        "giữ khoảng cách khi trời mưa",
+        "xe máy né ổ gà đột ngột"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy trong dòng xe đông ngày mưa",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-020",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Nắng lên ngay sau cơn mưa rào: mặt đường ướt phản chiếu chói mắt mà bánh xe vẫn dễ trượt",
+      "intent": "Hiểu vì sao lúc nắng vừa lên sau cơn mưa mặt đường loang loáng gây chói và che ổ gà, vạch sơn, và biết cách giảm tốc, chỉnh tầm nhìn cho tới khi đường khô hẳn.",
+      "kw": "nắng sau mưa đường chói trơn",
+      "kw2": [
+        "mặt đường ướt phản chiếu nắng",
+        "đi xe máy lúc mưa vừa tạnh"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy mùa mưa rào",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-021",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Đeo kính cận đi xe máy trời mưa buổi tối: hạt mưa trên tròng kính, đèn xe nhòe và cách nhìn rõ",
+      "intent": "Biết cách giữ tầm nhìn khi đeo kính cận đi xe máy trời mưa buổi tối: hạn chế nước đọng trên tròng, dùng mũ có kính chắn, lau đúng cách và giảm tốc khi đèn xe nhòe.",
+      "kw": "kính cận đi mưa buổi tối",
+      "kw2": [
+        "kính cận bị nước mưa bám",
+        "người cận thị đi xe đêm mưa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người cận thị đi xe máy buổi tối",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-022",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mặt đường bị cào bóc chờ thảm lại: vì sao tay lái rung, bánh xe lạng và cách giữ xe đi thẳng",
+      "intent": "Hiểu vì sao đoạn đường vừa cào bóc lớp nhựa cũ có rãnh nhỏ làm bánh xe máy rung, lạng, và biết cách giữ tay lái lỏng, tốc độ đều, tránh mép chênh khi đổi làn.",
+      "kw": "đường cào bóc mặt nhựa xe máy",
+      "kw2": [
+        "mặt đường cào bóc rung tay lái",
+        "đường đang sửa chờ thảm nhựa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy qua tuyến phố đang sửa mặt đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-023",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Tay ga, tay phanh ướt trơn khi đi mưa: găng tay chống trơn và cách giữ tay lái chắc",
+      "intent": "Biết cách chọn găng tay chống trơn, lau tay và tay nắm, giữ lực cầm vừa phải để vặn ga, bóp phanh chính xác khi tay lái xe máy ướt nước mưa.",
+      "kw": "tay lái ướt trơn khi mưa",
+      "kw2": [
+        "găng tay đi mưa chống trơn",
+        "tay ga ướt khó điều khiển"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy hằng ngày mùa mưa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-024",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mặt đường sụt lún, hố sụt sau mưa lớn kéo dài: dấu hiệu nhận biết từ xa và cách tránh khi đi xe máy",
+      "intent": "Nắm các dấu hiệu mặt đường sắp sụt hoặc vừa sụt sau mưa lớn như vết nứt, chỗ lõm, nước sủi, rào tạm, và biết cách giảm tốc, đổi làn, báo cơ quan chức năng khi gặp.",
+      "kw": "hố sụt mặt đường sau mưa",
+      "kw2": [
+        "đường sụt lún khi mưa lớn",
+        "nhận biết đường sắp sụt"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy mùa mưa lớn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-014-025",
+      "child_id": "C-KY-NANG-THOI-TIET",
+      "title": "Mưa to át tiếng còi và tiếng xe phía sau: bù bằng mắt, gương và tín hiệu sớm khi đi xe máy",
+      "intent": "Hiểu vì sao tiếng mưa, mũ trùm áo mưa và mũ bảo hiểm kín làm khó nghe còi, tiếng xe phía sau, để biết quan sát nhiều hơn, bật xi nhan sớm và giữ làn ổn định.",
+      "kw": "mưa to không nghe tiếng còi",
+      "kw2": [
+        "nghe kém khi trùm mũ áo mưa",
+        "quan sát phía sau khi trời mưa"
+      ],
+      "links": [
+        "/ky-nang/thoi-tiet-va-duong-sa/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-014",
+      "audience": "người đi xe máy ngày mưa lớn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-001",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Nút tìm xe trên Smart Key của Honda Air Blade: tìm xe thuê giữa bãi gửi đông ở trung tâm thương mại",
+      "intent": "Biết cách dùng nút tìm xe trên remote Smart Key của Honda Air Blade để xe nháy đèn và phát tiếng báo khi lạc giữa bãi gửi đông, cùng thói quen ghi nhớ khu vực đỗ.",
+      "kw": "tìm xe air blade bằng smart key",
+      "kw2": [
+        "nút tìm xe smart key honda",
+        "quên chỗ để xe trong bãi gửi"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "khách du lịch và người mới đến Hà Nội hay gửi xe ở bãi lớn",
+      "location_scope": "bãi gửi xe trung tâm thương mại, chung cư ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-002",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Để remote Smart Key trong cốp hay túi người ngồi sau khi đi Honda Air Blade: vì sao dễ gặp rắc rối",
+      "intent": "Hiểu vì sao không nên cất remote Smart Key của Air Blade trong cốp hoặc giao cho người ngồi sau giữ, và biết chỗ để remote an toàn khi đỗ xe hay khi đổi người lái.",
+      "kw": "để remote air blade trong cốp",
+      "kw2": [
+        "giữ remote smart key xe ga",
+        "người ngồi sau cầm remote"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người thuê Air Blade bản Smart Key lần đầu",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-003",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đánh rơi remote Smart Key khi đang chạy Honda Air Blade thuê: xe còn đi được đến đâu và làm gì ngay",
+      "intent": "Nắm cách nhận ra remote Smart Key đã rơi khi Air Blade vẫn nổ máy, chọn chỗ dừng an toàn trước khi tắt máy, quay lại tìm và báo tiệm cho thuê đúng thông tin.",
+      "kw": "rơi remote air blade khi đang chạy",
+      "kw2": [
+        "mất remote smart key giữa đường",
+        "đèn báo smart key nhấp nháy"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người đang thuê Air Blade bản Smart Key",
+      "location_scope": "Hà Nội và các chặng ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-004",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Honda Air Blade 125 hay 160 khi thuê: nhìn đâu để biết bản xe và lái khác nhau ra sao lúc tăng tốc, phanh",
+      "intent": "Biết cách nhận ra chiếc Air Blade đang thuê là bản 125 hay 160 qua tem xe, đồng hồ và cụm phanh, đồng thời hiểu khác biệt khi tăng tốc, phanh để chỉnh cách lái.",
+      "kw": "air blade 125 hay 160",
+      "kw2": [
+        "phân biệt air blade 125 và 160",
+        "air blade 160 khác gì 125"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người thuê xe ga muốn hiểu chiếc Air Blade mình nhận",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-005",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Air Blade 160 có ABS bánh trước: vẫn phải dùng phanh sau và cảm giác rung tay phanh khi ABS làm việc",
+      "intent": "Hiểu ABS trên Air Blade 160 chỉ chống bó cứng bánh trước, vì sao vẫn cần phối hợp phanh sau, và nhận biết cảm giác rung tay phanh khi ABS can thiệp trên mặt đường trơn.",
+      "kw": "abs air blade 160",
+      "kw2": [
+        "phanh abs bánh trước xe ga",
+        "tay phanh rung khi abs hoạt động"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người lái Air Blade 160 chưa quen phanh ABS",
+      "location_scope": "đường phố và đường ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-006",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Cổng sạc USB trên Honda Air Blade thuê: sạc điện thoại chạy bản đồ, đi dây gọn và đóng nắp khi trời mưa",
+      "intent": "Biết cách dùng cổng sạc USB trên các bản Air Blade đời mới để giữ pin điện thoại khi dẫn đường, đi dây không vướng tay lái và che cổng sạc khỏi nước mưa.",
+      "kw": "cổng sạc usb air blade",
+      "kw2": [
+        "sạc điện thoại trên xe air blade",
+        "air blade có cổng sạc không"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "khách du lịch dùng điện thoại dẫn đường cả ngày",
+      "location_scope": "Hà Nội và các chuyến đi trong ngày",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-007",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Honda Air Blade làm mát bằng dung dịch: tiếng quạt két nước khi kẹt xe là bình thường hay cần báo tiệm",
+      "intent": "Hiểu vì sao quạt làm mát của Air Blade chạy ồn khi kẹt xe lâu, phân biệt tiếng quạt bình thường với dấu hiệu bất thường như rò nước, mùi lạ để biết khi nào báo tiệm.",
+      "kw": "quạt két nước air blade",
+      "kw2": [
+        "air blade làm mát bằng dung dịch",
+        "air blade kêu vù vù khi dừng"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người quen xe làm mát bằng gió như Wave, Vision",
+      "location_scope": "nội thành Hà Nội giờ cao điểm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-008",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Bấm đề Honda Air Blade gần như không nghe tiếng đề: bộ đề ACG và cách biết xe đã nổ máy",
+      "intent": "Hiểu bộ đề ACG giúp Air Blade khởi động êm, biết dấu hiệu xe đã nổ trên đồng hồ và qua tiếng máy để không bấm đề nhiều lần hay vặn ga khi chưa sẵn sàng.",
+      "kw": "bộ đề acg air blade",
+      "kw2": [
+        "air blade đề không có tiếng",
+        "cách biết xe ga đã nổ máy"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người quen tiếng đề của xe số khi chuyển sang Air Blade",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-009",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Bằng A1 cấp từ năm 2025 có lái được Honda Air Blade 160 không: đọc đúng hạng bằng trước khi nhận xe",
+      "intent": "Hiểu theo Luật Trật tự, an toàn giao thông đường bộ 2024, bằng A1 mới chỉ cho lái xe đến 125 cm3 còn bằng A1 cấp trước 2025 vẫn dùng được, để chọn đúng bản Air Blade.",
+      "kw": "bằng a1 lái air blade 160",
+      "kw2": [
+        "bằng a1 mới lái xe bao nhiêu phân khối",
+        "air blade 160 cần bằng gì"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người mới thi bằng lái xe máy từ năm 2025",
+      "location_scope": "Việt Nam, áp dụng khi thuê xe ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-010",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Honda Air Blade qua gờ giảm tốc khu đô thị và đường làng: nhả ga sớm để người ngồi sau đỡ bị xóc",
+      "intent": "Biết cách giảm ga, nhả phanh đúng lúc và giữ tư thế khi đưa Air Blade chở người qua gờ giảm tốc, ổ gà ở khu đô thị mới và đường làng để người ngồi sau không bị dằn.",
+      "kw": "air blade qua gờ giảm tốc",
+      "kw2": [
+        "chở người qua gờ giảm tốc êm",
+        "air blade đi đường làng ổ gà"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người lái Air Blade thường chở bạn đồng hành",
+      "location_scope": "khu đô thị mới và đường làng ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-011",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Sinh viên quanh đường Giải Phóng thuê Honda Air Blade theo tháng: đi học, gửi xe trường và làm thêm buổi tối",
+      "intent": "Lên kế hoạch dùng một chiếc Air Blade thuê tháng cho sinh viên khu Giải Phóng, Kinh tế Quốc dân, Xây dựng: tuyến đi học, gửi xe trong trường và đi làm thêm về khuya an toàn.",
+      "kw": "sinh viên thuê air blade theo tháng",
+      "kw2": [
+        "thuê xe tháng gần kinh tế quốc dân",
+        "sinh viên giải phóng thuê xe ga"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "sinh viên ở trọ khu Giải Phóng, Bạch Mai, Phương Mai",
+      "location_scope": "Hai Bà Trưng, Đống Đa, Hoàng Mai",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-012",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi hồ Núi Cốc bằng Honda Air Blade thuê: theo quốc lộ 3 cũ, tránh lối lên cao tốc và nghỉ giữa chặng",
+      "intent": "Lên kế hoạch chuyến trong ngày từ Hà Nội đến hồ Núi Cốc bằng Air Blade: đi quốc lộ 3 cũ qua Sóc Sơn, Phổ Yên, không nhầm lối lên cao tốc, đổ xăng và canh giờ quay về.",
+      "kw": "đi hồ núi cốc bằng air blade",
+      "kw2": [
+        "hà nội đi núi cốc xe máy quốc lộ 3",
+        "xe máy không đi cao tốc thái nguyên"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "nhóm bạn hoặc cặp đôi muốn đi chơi xa trong ngày",
+      "location_scope": "Hà Nội – Sóc Sơn – Thái Nguyên",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-013",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi Yên Tử bằng Honda Air Blade thuê: quốc lộ 18 nhiều xe tải, điểm nghỉ và gửi xe dưới chân núi",
+      "intent": "Lên kế hoạch chuyến đi Yên Tử bằng Air Blade: chia chặng qua Bắc Ninh, chạy quốc lộ 18 đông xe tải, chọn điểm nghỉ đổ xăng, gửi xe ở chân núi và về trước khi trời tối.",
+      "kw": "đi yên tử bằng air blade",
+      "kw2": [
+        "hà nội đi yên tử xe máy",
+        "quốc lộ 18 xe máy"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người đi lễ hoặc leo núi tự lái xe máy",
+      "location_scope": "Hà Nội – Bắc Ninh – Quảng Ninh",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-014",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi Hải Phòng bằng Honda Air Blade thuê theo quốc lộ 5: làn xe máy, xe container và điểm nghỉ dọc đường",
+      "intent": "Lên kế hoạch chặng Hà Nội đi Hải Phòng bằng Air Blade theo quốc lộ 5: giữ làn bên phải, cẩn trọng với xe container, chọn điểm nghỉ và tránh đi nhầm vào đường cao tốc.",
+      "kw": "đi hải phòng bằng air blade",
+      "kw2": [
+        "hà nội hải phòng xe máy quốc lộ 5",
+        "xe máy đi quốc lộ 5"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người tự lái xe máy đi Hải Phòng ăn uống, thăm người thân",
+      "location_scope": "Hà Nội – Hưng Yên – Hải Phòng",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-015",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi Phố Hiến mùa nhãn lồng bằng Honda Air Blade thuê: theo đường đê sông Hồng và chở nhãn về Hà Nội",
+      "intent": "Lên kế hoạch chuyến đi Phố Hiến vào mùa nhãn lồng bằng Air Blade: chạy đường đê qua Văn Giang, Khoái Châu, ghé vườn nhãn, xếp nhãn vào cốp, móc treo và về trước tối.",
+      "kw": "phố hiến mùa nhãn bằng xe máy",
+      "kw2": [
+        "mùa nhãn lồng hưng yên",
+        "đường đê hà nội hưng yên"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người Hà Nội và khách du lịch đi chơi cuối tuần mùa hè",
+      "location_scope": "Hà Nội – Văn Giang – Khoái Châu – Phố Hiến, Hưng Yên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-016",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi Đền Hùng bằng Honda Air Blade thuê: chặng gần 100 km, canh xăng giữa đường và gửi xe chân núi Nghĩa Lĩnh",
+      "intent": "Lên kế hoạch đi Đền Hùng trong ngày bằng Air Blade: chọn tuyến qua Sơn Tây hoặc Vĩnh Yên, canh mức xăng theo dung tích bình, nghỉ giữa chặng và gửi xe dưới chân núi Nghĩa Lĩnh.",
+      "kw": "đi đền hùng bằng air blade",
+      "kw2": [
+        "hà nội đi đền hùng xe máy bao lâu",
+        "gửi xe đền hùng"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "gia đình hai người hoặc nhóm bạn đi lễ",
+      "location_scope": "Hà Nội – Phú Thọ",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-017",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi chùa Tam Chúc bằng Honda Air Blade thuê: theo quốc lộ 1 qua Phủ Lý, không vào cao tốc và gửi xe ở khu chùa",
+      "intent": "Lên kế hoạch chuyến đi chùa Tam Chúc bằng Air Blade: chạy quốc lộ 1 qua Phủ Lý rồi rẽ quốc lộ 21B, tránh lối lên cao tốc, gửi xe và di chuyển trong khu chùa rộng.",
+      "kw": "đi chùa tam chúc bằng air blade",
+      "kw2": [
+        "hà nội đi tam chúc xe máy",
+        "gửi xe chùa tam chúc"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người đi lễ chùa, gia đình hai người",
+      "location_scope": "Hà Nội – Phủ Lý – Tam Chúc",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-018",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi lễ đền Bà Chúa Kho tháng Giêng bằng Honda Air Blade thuê: giờ tránh đông, gửi xe và giữ đồ lễ",
+      "intent": "Lên kế hoạch đi lễ đền Bà Chúa Kho ở Bắc Ninh dịp tháng Giêng bằng Air Blade: chọn giờ đi tránh kẹt, gửi xe ở bãi có vé, xếp đồ lễ vào cốp và giữ an toàn tài sản.",
+      "kw": "đền bà chúa kho bằng xe máy",
+      "kw2": [
+        "đền bà chúa kho tháng giêng",
+        "gửi xe đền bà chúa kho"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người đi lễ đầu năm từ Hà Nội",
+      "location_scope": "Hà Nội – Bắc Ninh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-019",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi cắm trại qua đêm bằng Honda Air Blade thuê: xếp lều, túi ngủ, bếp vào cốp và yên sau cho hai người",
+      "intent": "Biết cách chia đồ cắm trại cho hai người trên một chiếc Air Blade: món nào để cốp, món nào buộc yên sau, giữ trọng tâm xe và để xe an toàn qua đêm ở bãi cắm trại.",
+      "kw": "chở đồ cắm trại bằng air blade",
+      "kw2": [
+        "cắm trại gần hà nội bằng xe máy",
+        "buộc lều lên xe máy"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "cặp đôi hoặc hai bạn đi cắm trại cuối tuần",
+      "location_scope": "Sóc Sơn, Đồng Mô, Ba Vì",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-020",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Honda Air Blade lên tốc độ nhanh hơn bạn nghĩ: canh đồng hồ để không vượt tốc độ cho phép trên đường thoáng",
+      "intent": "Hiểu vì sao Air Blade dễ vượt tốc độ cho phép trên đường rộng như Võ Nguyên Giáp hay đường gom Đại lộ Thăng Long, và biết cách giữ ga, đọc biển báo tốc độ để chạy đúng luật.",
+      "kw": "air blade chạy quá tốc độ",
+      "kw2": [
+        "tốc độ tối đa xe máy ngoài khu dân cư",
+        "giữ tốc độ đều xe ga"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người quen xe yếu hơn lần đầu lái Air Blade",
+      "location_scope": "đường lớn ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-021",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Thuê Honda Air Blade theo tháng: nhớt máy, má phanh, lốp và dây curoa cần nhắn tiệm kiểm khi nào",
+      "intent": "Nắm các mốc và dấu hiệu hao mòn của Air Blade khi chạy hằng ngày suốt tháng như nhớt máy, má phanh, lốp, dây curoa để chủ động nhắn tiệm kiểm tra thay vì tự sửa.",
+      "kw": "thuê air blade theo tháng bảo dưỡng",
+      "kw2": [
+        "air blade bao lâu thay nhớt",
+        "dấu hiệu má phanh air blade mòn"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người thuê Air Blade dài hạn để đi làm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-022",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Quen chạy xe ở TP.HCM, ra Hà Nội thuê Honda Air Blade: phố một chiều, cầu qua sông Hồng và mùa lạnh",
+      "intent": "Hiểu những khác biệt khi người quen chạy xe ở TP.HCM lái Air Blade tại Hà Nội: phố cổ nhiều đường một chiều, định hướng theo các cầu sông Hồng và thời tiết lạnh ẩm.",
+      "kw": "người sài gòn chạy xe hà nội",
+      "kw2": [
+        "khác biệt giao thông hà nội và sài gòn",
+        "người miền nam thuê xe máy hà nội"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người từ TP.HCM và các tỉnh phía Nam ra Hà Nội công tác, du lịch",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-023",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Từ ngõ ra đường lớn và nhập làn từ đường gom bằng Honda Air Blade: canh khoảng trống, không vọt ga",
+      "intent": "Biết cách đưa Air Blade từ ngõ nhỏ ra đường chính và từ đường gom nhập vào trục lớn như Phạm Văn Đồng: dừng quan sát, canh khoảng trống, bật xi nhan và tăng ga vừa đủ.",
+      "kw": "air blade nhập làn đường lớn",
+      "kw2": [
+        "từ ngõ ra đường lớn xe máy",
+        "nhập làn từ đường gom"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người mới lái Air Blade ở Hà Nội",
+      "location_scope": "Cầu Giấy, Bắc Từ Liêm, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-024",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Đi làng cổ Nôm bằng Honda Air Blade thuê: theo quốc lộ 5 sang Văn Lâm, gửi xe đầu làng và đi bộ qua cầu đá",
+      "intent": "Lên kế hoạch nửa ngày thăm làng cổ Nôm bằng Air Blade: chạy quốc lộ 5 qua Như Quỳnh, rẽ đường làng, gửi xe đầu làng, đi bộ quanh cầu đá, chợ Nôm và về trước giờ tan tầm.",
+      "kw": "đi làng nôm bằng xe máy",
+      "kw2": [
+        "làng cổ nôm hưng yên",
+        "cầu đá làng nôm"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "khách thích làng cổ và chụp ảnh",
+      "location_scope": "Hà Nội – Văn Lâm, Hưng Yên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-15-W2-015-025",
+      "child_id": "C-HONDA-AIR-BLADE",
+      "title": "Ngắm dã quỳ Ba Vì tháng Mười Một bằng Honda Air Blade thuê: giờ đi, đường lên vườn quốc gia và chỗ dừng chụp",
+      "intent": "Lên kế hoạch chuyến ngắm hoa dã quỳ ở Vườn quốc gia Ba Vì bằng Air Blade: chọn ngày giữa tuần, giờ xuất phát, đoạn đường dốc quanh co và chỗ dừng xe chụp ảnh không cản lối.",
+      "kw": "dã quỳ ba vì bằng xe máy",
+      "kw2": [
+        "mùa dã quỳ ba vì tháng 11",
+        "đường lên vườn quốc gia ba vì"
+      ],
+      "links": [
+        "/xe-may/honda-air-blade/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-15-W2-015",
+      "audience": "người thích chụp ảnh mùa hoa",
+      "location_scope": "Ba Vì, Hà Nội",
       "word_target": 1200
     }
   ],
