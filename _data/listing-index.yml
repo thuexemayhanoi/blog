@@ -2,7 +2,7 @@
 kinh-nghiem:
   pages: 262
   size: 12
-  total: 3133
+  total: 3143
 chia-se:
   pages: 10
   size: 12
@@ -52,6 +52,10 @@ topic:
     pages: 8
     size: 24
     total: 175
+  an-toan-phap-ly_giay-phep-lai-xe:
+    pages: 2
+    size: 24
+    total: 25
   hoi-dap_hoi-dap-chon-xe:
     pages: 2
     size: 24
@@ -189,9 +193,9 @@ topic:
     size: 24
     total: 121
   xe-may_xe-ga:
-    pages: 5
+    pages: 6
     size: 24
-    total: 112
+    total: 121
   xe-may_xu-ly-su-co-xe:
     pages: 3
     size: 24
