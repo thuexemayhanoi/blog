@@ -32,7 +32,7 @@ Không phải trường hợp nào cũng nên từ chối thẳng. Nếu bạn t
 - Nếu máy bị hỏng hay xước trong thời gian tiệm giữ, xử lý ra sao?
 - Giữa thời gian thuê, tôi có thể quay lại mượn máy dùng tạm được không, và nếu cần thì thủ tục ra sao?
 
-Câu trả lời cho câu cuối rất đáng giá: một tiệm linh hoạt sẽ cho mượn lại khi bạn cần làm thủ tục gì đó rồi nhận lại ngay; một tiệm cứng nhắc khiến bạn chốt cắt коммуникацию cả chuyến đi.
+Câu trả lời cho câu cuối rất đáng giá: một tiệm linh hoạt sẽ cho mượn lại khi bạn cần làm thủ tục gì đó rồi nhận lại ngay; một tiệm cứng nhắc khiến bạn mất phương tiện liên lạc suốt chuyến đi.
 
 ## Biên nhận là bắt buộc, kể cả cho một chiếc điện thoại
 
