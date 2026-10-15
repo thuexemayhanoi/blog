@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-004: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-001",
+   "child_id": "C-XE-SO",
+   "title": "Xe số không có đồng hồ vòng tua: nghe tiếng máy và cảm độ rung để biết lúc nào lên số, về số",
+   "intent": "Biết cách dựa vào tiếng máy, độ rung ở tay lái và đồng hồ tốc độ để chọn đúng thời điểm lên số và về số trên xe số thuê khi đi phố Hà Nội.",
+   "kw": "xe số khi nào lên số",
+   "kw2": [
+    "nghe tiếng máy xe số để sang số",
+    "thời điểm lên số xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người mới thuê xe số, chưa quen cảm giác sang số",
+   "location_scope": "nội đô Hà Nội: Hoàn Kiếm, Ba Đình, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-002",
+   "child_id": "C-XE-SO",
+   "title": "Quen lái ô tô số sàn, lần đầu đi xe số: cần số bằng chân, côn tự động và phanh động cơ giống khác ra sao",
+   "intent": "Hiểu những điểm giống và khác giữa hộp số sàn ô tô và hộp số xe số côn tự động để người đã quen lái ô tô chuyển sang xe số thuê nhanh và an toàn.",
+   "kw": "ô tô số sàn đi xe số",
+   "kw2": [
+    "người lái ô tô học đi xe số",
+    "xe số khác ô tô số sàn"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người quen lái ô tô số sàn, ít đi xe máy",
+   "location_scope": "phố nội đô và đường vành đai Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-003",
+   "child_id": "C-XE-SO",
+   "title": "Bàn chân to, giày cỡ lớn trên xe số: mũi giày khó lọt dưới cần số và cách đặt chân cho gọn",
+   "intent": "Nắm cách chỉnh vị trí bàn chân, chọn giày và tập thao tác gạt số khi bàn chân to hoặc giày cỡ lớn không lọt vừa khoảng trống dưới cần số của xe số.",
+   "kw": "chân to đi xe số",
+   "kw2": [
+    "giày to vướng cần số",
+    "mũi giày không lọt cần số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "khách nước ngoài và nam giới đi giày cỡ lớn thuê xe số",
+   "location_scope": "phố cổ và nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-004",
+   "child_id": "C-XE-SO",
+   "title": "Dắt và lùi xe số khi đã tắt máy: về số mo để bánh lăn nhẹ khi ra vào hàng xe ở bãi gửi phố cổ",
+   "intent": "Hiểu vì sao xe số còn để số sẽ nặng bánh khi dắt và biết cách về số mo, giữ phanh, lùi xe ra khỏi hàng xe xếp chật ở bãi gửi phố cổ.",
+   "kw": "dắt xe số bị nặng",
+   "kw2": [
+    "lùi xe số ở bãi gửi xe",
+    "về số mo khi dắt xe"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "khách du lịch thuê xe số gửi xe ở phố cổ",
+   "location_scope": "bãi gửi xe phố cổ Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-005",
+   "child_id": "C-XE-SO",
+   "title": "Đỗ xe số trên dốc: để số 1 khi tắt máy cho xe khỏi trôi và nhớ về số mo trước khi đề lại",
+   "intent": "Biết cách đỗ xe số an toàn ở lối vào nhà dốc hoặc đường ven đê, dùng số 1 và chân chống đúng hướng để xe không trôi, rồi khởi động lại đúng thứ tự.",
+   "kw": "đỗ xe số trên dốc",
+   "kw2": [
+    "để số khi đỗ xe số",
+    "xe số đỗ dốc bị trôi"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số ở nhà trong ngõ dốc, ven đê",
+   "location_scope": "ngõ dốc ven đê Long Biên, Tây Hồ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-006",
+   "child_id": "C-XE-SO",
+   "title": "Gờ giảm tốc liên tiếp trong Vinhomes Ocean Park, Ecopark: giữ xe số ở số 2 thay vì lên xuống số liên tục",
+   "intent": "Biết cách chọn một số phù hợp và điều chỉnh ga, phanh khi đi xe số qua chuỗi gờ giảm tốc dày đặc trong khu đô thị lớn để xe êm và đỡ mỏi chân.",
+   "kw": "xe số qua gờ giảm tốc",
+   "kw2": [
+    "gờ giảm tốc khu đô thị",
+    "đi xe số trong khu đô thị"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số ở hoặc đi chơi các khu đô thị lớn phía đông Hà Nội",
+   "location_scope": "Vinhomes Ocean Park (Gia Lâm), Ecopark (Văn Giang)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-007",
+   "child_id": "C-XE-SO",
+   "title": "Lối lên xuống đê sông Hồng ở Long Biên, Gia Lâm: dốc ngắn gắt nên vào số 1 hay số 2 khi đi xe số",
+   "intent": "Biết cách chọn số trước chân dốc, giữ đà và phanh khi đi xe số lên mặt đê rồi rẽ xuống các ngõ dốc ngắn, gắt dọc đê sông Hồng phía Long Biên, Gia Lâm.",
+   "kw": "xe số lên dốc đê",
+   "kw2": [
+    "dốc đê sông hồng long biên",
+    "rẽ xuống dốc đê xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số ở Long Biên, Gia Lâm hay đi đường đê",
+   "location_scope": "đê sông Hồng đoạn Ngọc Thụy, Bồ Đề, Bát Tràng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-008",
+   "child_id": "C-XE-SO",
+   "title": "Xe số đi đường cát xuống bãi giữa sông Hồng và bãi bồi ven đê: giữ số thấp, ga đều để bánh sau không sa",
+   "intent": "Nắm kỹ thuật giữ số thấp, ga đều, tay lái lỏng và cách xử lý khi bánh sau bắt đầu sa cát lúc đi xe số vào các bãi bồi ven sông Hồng.",
+   "kw": "xe số đi đường cát",
+   "kw2": [
+    "đi xe máy xuống bãi giữa sông hồng",
+    "bánh xe máy sa cát"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "nhóm bạn trẻ thuê xe số đi chụp ảnh, dã ngoại bãi sông",
+   "location_scope": "bãi giữa sông Hồng, bãi bồi ven đê Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-009",
+   "child_id": "C-XE-SO",
+   "title": "Xe số làm mát bằng gió chạy giữa trưa hè Hà Nội: dấu hiệu máy quá nóng và lúc nên dừng nghỉ cho máy",
+   "intent": "Hiểu cách động cơ làm mát bằng gió của xe số chịu nhiệt khi nắng nóng, nhận biết dấu hiệu quá nóng và biết sắp xếp điểm dừng nghỉ trong chuyến đi trưa hè.",
+   "kw": "xe số nóng máy mùa hè",
+   "kw2": [
+    "xe số làm mát bằng gió",
+    "xe máy quá nóng khi đi trưa"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số chạy việc hoặc đi chơi giữa trưa hè",
+   "location_scope": "Hà Nội và các cung ngoại thành đi trong ngày",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-010",
+   "child_id": "C-XE-SO",
+   "title": "Xe số vành nan hay vành đúc: lốp có săm, lốp không săm và điều cần biết khi bị đinh giữa đường",
+   "intent": "Hiểu khác biệt giữa vành nan và vành đúc trên xe số, loại lốp thường đi kèm và cách xử lý ban đầu khi lốp bị đinh để chọn xe thuê hợp chuyến đi.",
+   "kw": "xe số vành nan hay vành đúc",
+   "kw2": [
+    "xe số lốp có săm hay không săm",
+    "vành nan vành đúc khác nhau"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người đang chọn xe số để thuê đi phố hoặc đi xa",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-011",
+   "child_id": "C-XE-SO",
+   "title": "Xe số phun xăng điện tử hay chế hòa khí: nhận biết trên xe thuê và khác nhau khi đề máy, lên ga",
+   "intent": "Biết cách nhận ra xe số dùng phun xăng điện tử hay chế hòa khí và hiểu khác biệt khi đề máy sáng sớm, lên ga, đi đèo để dùng xe thuê cho đúng.",
+   "kw": "xe số fi hay chế hòa khí",
+   "kw2": [
+    "nhận biết xe số phun xăng điện tử",
+    "xe số chế hòa khí đề máy"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số muốn hiểu xe trước chuyến đi",
+   "location_scope": "Hà Nội và các cung đèo gần Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-012",
+   "child_id": "C-XE-SO",
+   "title": "Vô tình rà phanh chân sau khi đi xe số: chân phải đặt hờ lên bàn đạp làm nóng phanh và sáng đèn phanh",
+   "intent": "Nắm cách đặt chân phải đúng trên gác chân xe số để không rà phanh sau ngoài ý muốn, nhận biết dấu hiệu phanh bị rà và giảm mỏi chân khi đi lâu.",
+   "kw": "xe số rà phanh chân",
+   "kw2": [
+    "đặt chân lên phanh sau xe số",
+    "phanh sau xe số bị nóng"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người mới đi xe số, nhất là người quen xe ga",
+   "location_scope": "nội đô Hà Nội và đường trường ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-013",
+   "child_id": "C-XE-SO",
+   "title": "Quen Honda Dream, Cub đời cũ, nay thuê xe số đời mới: số mo, đề điện, phanh và cần số khác gì",
+   "intent": "Hiểu khác biệt về vị trí số mo, đề điện, phanh và cảm giác cần số giữa xe số đời cũ quen thuộc và xe số đời mới để người lớn tuổi lái lại tự tin.",
+   "kw": "quen dream cũ đi xe số mới",
+   "kw2": [
+    "xe số đời mới khác đời cũ",
+    "người lớn tuổi đi lại xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người trung niên, lớn tuổi từng đi Dream, Cub",
+   "location_scope": "phố nội đô và khu dân cư Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-014",
+   "child_id": "C-XE-SO",
+   "title": "Quên gạt chân chống nghiêng khi đi xe số: nguy hiểm ở khúc cua đầu tiên và thói quen kiểm tra trước khi đi",
+   "intent": "Hiểu rủi ro khi đi xe số còn hạ chân chống nghiêng và biết xây thói quen kiểm tra chân chống, số mo, phanh trước mỗi lần xuất phát trong ngày.",
+   "kw": "quên gạt chân chống xe số",
+   "kw2": [
+    "chân chống nghiêng chạm đất khi cua",
+    "kiểm tra chân chống trước khi đi"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "khách du lịch thuê xe số dừng đỗ nhiều lần trong ngày",
+   "location_scope": "phố cổ, Hồ Tây và các điểm tham quan Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-015",
+   "child_id": "C-XE-SO",
+   "title": "Gió ngược mạnh trên cầu Nhật Tân và đường đê: xe số nên về số 3 thay vì cố giữ số 4",
+   "intent": "Biết cách nhận ra lúc gió ngược làm xe số hụt lực, chọn số thấp hơn, giữ tốc độ và tư thế phù hợp khi qua cầu lớn hoặc đường đê thoáng gió.",
+   "kw": "xe số đi gió ngược",
+   "kw2": [
+    "qua cầu nhật tân bằng xe máy gió to",
+    "xe số hụt lực khi gió ngược"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số qua cầu lớn, đường đê ngày gió mùa",
+   "location_scope": "cầu Nhật Tân, đê sông Hồng đoạn Tây Hồ, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-016",
+   "child_id": "C-XE-SO",
+   "title": "Khởi hành bằng số 2 trên xe số: lúc nào chấp nhận được và lúc nào làm côn tự động nhanh mòn",
+   "intent": "Hiểu khi nào có thể khởi hành bằng số 2 trên xe số như đường trơn hoặc xuống dốc nhẹ, và vì sao không nên làm thường xuyên trong phố hay khi chở nặng.",
+   "kw": "xe số khởi hành bằng số 2",
+   "kw2": [
+    "đi số 2 khi khởi hành có sao không",
+    "khởi hành xe số đường trơn"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người đi xe số muốn sửa thói quen khởi hành",
+   "location_scope": "nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-017",
+   "child_id": "C-XE-SO",
+   "title": "Đường đồi lượn sóng ở Sóc Sơn: chọn số 2, số 3 cho xe số để không phải đổi số liên tục",
+   "intent": "Lên kế hoạch chọn số và nhịp ga cho xe số khi đi các đoạn lên xuống dốc ngắn nối tiếp ở Sóc Sơn để xe giữ đà, đỡ mỏi chân và an toàn.",
+   "kw": "xe số đi đường đồi lượn sóng",
+   "kw2": [
+    "đi sóc sơn bằng xe số",
+    "đường dốc ngắn liên tiếp xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số đi chơi cuối tuần ngoại thành phía bắc",
+   "location_scope": "Sóc Sơn: khu đền Sóc, hồ Đồng Quan, núi Hàm Lợn",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-018",
+   "child_id": "C-XE-SO",
+   "title": "Đi xe số về khuya trong ngõ, khu tập thể cũ: lên số sớm, ga nhẹ để không làm ồn hàng xóm",
+   "intent": "Biết cách điều khiển xe số êm tiếng khi về muộn trong ngõ hẹp, khu tập thể như Kim Liên, Thành Công: chọn số, giữ ga, tắt máy và dắt xe đúng chỗ.",
+   "kw": "đi xe số về khuya không ồn",
+   "kw2": [
+    "xe số đi êm trong ngõ",
+    "đi xe máy về khuya khu tập thể"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số ở trọ, homestay trong ngõ và khu tập thể",
+   "location_scope": "khu tập thể Kim Liên, Thành Công, ngõ phố cổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-019",
+   "child_id": "C-XE-SO",
+   "title": "Rét đậm Hà Nội đi xe số: chân cóng, giày dày khó cảm nấc cần số và cách giữ ấm bàn chân trái",
+   "intent": "Nắm cách giữ cảm giác bàn chân khi sang số trong ngày rét đậm, chọn giày và tất phù hợp, làm ấm chân trước khi đi và sang số chậm rãi cho chính xác.",
+   "kw": "đi xe số trời rét",
+   "kw2": [
+    "chân lạnh khó sang số",
+    "giày mùa đông đi xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số đi làm, đi chơi mùa đông",
+   "location_scope": "Hà Nội mùa đông, sáng sớm và tối muộn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-020",
+   "child_id": "C-XE-SO",
+   "title": "Dừng xe số giữa phố: chân trái chống đất, chân phải giữ phanh và cách xử lý khi mặt đường nghiêng",
+   "intent": "Biết cách phối hợp hai chân khi dừng xe số ở đèn đỏ hoặc ùn tắc, giữ phanh sau bằng chân phải và chuyển sang phanh tay khi đường nghiêng buộc phải chống chân phải.",
+   "kw": "dừng xe số chống chân nào",
+   "kw2": [
+    "chống chân khi dừng xe số",
+    "dừng xe máy trên đường nghiêng"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người mới đi xe số, người quen xe ga",
+   "location_scope": "nút giao và phố đông nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-021",
+   "child_id": "C-XE-SO",
+   "title": "Móc treo mũ bảo hiểm dưới yên xe số: cách móc quai mũ và đóng yên cho chắc khi gửi xe đi chơi",
+   "intent": "Biết cách tìm móc treo mũ bảo hiểm dưới yên xe số, móc quai đúng, đóng yên chắc và nhận ra những lúc không nên để mũ lại trên xe.",
+   "kw": "móc treo mũ bảo hiểm xe số",
+   "kw2": [
+    "để mũ bảo hiểm trên xe số",
+    "khóa mũ bảo hiểm khi gửi xe"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "khách du lịch thuê xe số đi tham quan, gửi xe nhiều chỗ",
+   "location_scope": "phố cổ, Hồ Tây, Văn Miếu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-022",
+   "child_id": "C-XE-SO",
+   "title": "Đạp cần số chưa tới nấc trên xe số: xe rú ga mà không đi và cách gạt số dứt khoát hơn",
+   "intent": "Hiểu hiện tượng cần số lửng giữa hai số khi đạp chưa hết hành trình, nhận biết tiếng máy rú mà xe không tăng tốc và tập gạt số dứt khoát, an toàn.",
+   "kw": "xe số đạp số không ăn",
+   "kw2": [
+    "xe số rú ga không đi",
+    "đạp số chưa hết nấc"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người mới đi xe số, khách nước ngoài",
+   "location_scope": "nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-023",
+   "child_id": "C-XE-SO",
+   "title": "Từ Bồ Đề qua cầu Chương Dương vào phố cổ bằng xe số: đoạn nào nên đi số 2, số 3 và số 4",
+   "intent": "Lên kế hoạch chọn số cho từng đoạn trên lộ trình từ Bồ Đề, Long Biên qua cầu Chương Dương vào phố cổ để xe số đi êm và đỡ phải đổi số liên tục.",
+   "kw": "xe số long biên vào phố cổ",
+   "kw2": [
+    "qua cầu chương dương bằng xe số",
+    "lộ trình bồ đề đi phố cổ"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "khách nhận xe số ở Long Biên đi vào trung tâm",
+   "location_scope": "Bồ Đề, Nguyễn Văn Cừ, cầu Chương Dương, Trần Quang Khải, phố cổ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-024",
+   "child_id": "C-XE-SO",
+   "title": "Đường nhiều lá rụng ở Phan Đình Phùng, Hoàng Diệu mùa cây thay lá: xe số giảm tốc thế nào cho khỏi trượt",
+   "intent": "Biết cách giảm tốc mềm bằng phanh và về số từ từ trên lớp lá khô, lá ướt khi đi xe số qua các con phố nhiều cây lớn ở khu Ba Đình.",
+   "kw": "xe số đi đường lá rụng",
+   "kw2": [
+    "đường lá rụng trơn xe máy",
+    "phan đình phùng mùa lá rụng"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "khách du lịch, người chụp ảnh dạo phố cây xanh bằng xe số",
+   "location_scope": "Phan Đình Phùng, Hoàng Diệu, Điện Biên Phủ (Ba Đình)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-004-025",
+   "child_id": "C-XE-SO",
+   "title": "Dắt xe số khi vẫn nổ máy ở số 1 lên dốc hầm, vỉa hè: vì sao dễ chồm và cách làm an toàn hơn",
+   "intent": "Hiểu rủi ro khi đi bộ cạnh xe số vẫn nổ máy, vào số 1 để đẩy xe lên dốc, và biết chọn cách an toàn hơn như lái hẳn lên hoặc tắt máy dắt ở số mo.",
+   "kw": "dắt xe số nổ máy",
+   "kw2": [
+    "dắt xe máy lên dốc hầm",
+    "vừa đi bộ vừa nhích ga xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-004",
+   "audience": "người thuê xe số ở chung cư, nhà có dốc dắt xe",
+   "location_scope": "hầm chung cư, vỉa hè cao trong nội đô Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
