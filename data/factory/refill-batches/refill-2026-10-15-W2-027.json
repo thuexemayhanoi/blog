@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-027: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-001",
+   "child_id": "C-PHO-CO",
+   "title": "Hội quán Quảng Đông ở 22 Hàng Buồm: ghé dấu tích người Hoa trong phố cổ bằng xe máy và gửi xe gần đó",
+   "intent": "Biết cách tìm đến Hội quán Quảng Đông số 22 Hàng Buồm bằng xe máy, chọn chỗ gửi xe trên phố một chiều và hiểu nên xem gì ở công trình hội quán người Hoa này.",
+   "kw": "hội quán quảng đông hàng buồm",
+   "kw2": [
+    "22 hàng buồm",
+    "việt đông hội quán hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người yêu kiến trúc cổ và khách du lịch tự lái",
+   "location_scope": "phố Hàng Buồm, Mã Mây, Đào Duy Từ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-002",
+   "child_id": "C-PHO-CO",
+   "title": "Quán Huyền Thiên ở phố Hàng Khoai: tìm ngôi đạo quán cổ sát chợ Đồng Xuân bằng xe máy",
+   "intent": "Biết cách đi xe máy tới Quán Huyền Thiên trên phố Hàng Khoai giữa giờ chợ Đồng Xuân đông xe hàng, dừng xe đúng chỗ và tham quan ngôi đạo quán cổ cho đúng phép.",
+   "kw": "quán huyền thiên hàng khoai",
+   "kw2": [
+    "chùa huyền thiên hà nội",
+    "di tích phố hàng khoai"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người đi lễ và khách thích tìm di tích nhỏ trong phố cổ",
+   "location_scope": "phố Hàng Khoai, chợ Đồng Xuân, Hàng Chiếu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-003",
+   "child_id": "C-PHO-CO",
+   "title": "Chùa Bà Đá ở số 3 phố Nhà Thờ: viếng ngôi chùa cổ sát Hồ Gươm bằng xe máy và để xe ở đâu",
+   "intent": "Biết cách đi xe máy tới chùa Bà Đá trên phố Nhà Thờ, chọn chỗ để xe khi khu Nhà thờ Lớn đông khách và giữ trang phục, cách cư xử phù hợp khi vào chùa.",
+   "kw": "chùa bà đá phố nhà thờ",
+   "kw2": [
+    "linh quang tự hà nội",
+    "chùa bà đá hoàn kiếm"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người đi lễ chùa và khách du lịch muốn tìm hiểu chùa cổ",
+   "location_scope": "phố Nhà Thờ, Ấu Triệu, Lý Quốc Sư",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-004",
+   "child_id": "C-PHO-CO",
+   "title": "Ngõ Phất Lộc nối Hàng Mắm với Nguyễn Hữu Huân: gửi xe máy ở đầu ngõ rồi đi bộ khám phá ngõ cổ",
+   "intent": "Hiểu ngõ Phất Lộc có những nhánh nào, nên gửi xe máy ở đầu phố nào trước khi đi bộ vào và cách khám phá con ngõ có người dân sinh sống mà không làm phiền.",
+   "kw": "ngõ phất lộc",
+   "kw2": [
+    "ngõ cổ phố cổ hà nội",
+    "ngõ phất lộc hàng mắm"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người thích dạo ngõ nhỏ và chụp ảnh đời thường",
+   "location_scope": "Hàng Mắm, Nguyễn Hữu Huân, Hàng Bạc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-005",
+   "child_id": "C-PHO-CO",
+   "title": "Nghe hát xẩm ở chợ Đồng Xuân và ca trù trong đình phố cổ buổi tối: đi xe máy tới sân diễn và gửi xe",
+   "intent": "Lên kế hoạch một buổi tối nghe hát xẩm ở sân khấu chợ Đồng Xuân và nghe ca trù trong đình phố cổ, biết cách hỏi lịch diễn, đến sớm và gửi xe máy gần chỗ diễn.",
+   "kw": "nghe hát xẩm chợ đồng xuân",
+   "kw2": [
+    "nghe ca trù phố cổ",
+    "xem hát xẩm ở hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người yêu âm nhạc truyền thống và khách du lịch",
+   "location_scope": "chợ Đồng Xuân, Hàng Đào, Hàng Bạc",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-006",
+   "child_id": "C-PHO-CO",
+   "title": "Phố sách Đinh Lễ sát Hồ Gươm: đi xe máy tìm sách, gửi xe trên phố ngắn và chở chồng sách nặng về",
+   "intent": "Biết cách đi xe máy đến phố sách Đinh Lễ, chọn chỗ gửi xe trên con phố ngắn đông khách, tìm sách hiệu quả và buộc chồng sách nặng lên xe chắc chắn.",
+   "kw": "phố sách đinh lễ",
+   "kw2": [
+    "mua sách cũ đinh lễ",
+    "nhà sách gần hồ gươm"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "sinh viên và người yêu sách ở Hà Nội",
+   "location_scope": "phố Đinh Lễ, Tràng Tiền, Lê Thái Tổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-007",
+   "child_id": "C-PHO-CO",
+   "title": "Mua giày dép ở phố Hàng Dầu gần Hồ Gươm: đi xe máy ghé nhiều cửa hàng, thử giày và chở hộp gọn",
+   "intent": "Biết cách đi xe máy đến phố giày dép Hàng Dầu, gửi xe một chỗ rồi đi bộ thử nhiều cửa hàng, chọn cỡ giày phù hợp và chở hộp giày về mà không rơi.",
+   "kw": "phố hàng dầu giày dép",
+   "kw2": [
+    "mua giày phố cổ hà nội",
+    "giày dép hàng dầu"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người mua sắm và khách du lịch cần mua giày dép",
+   "location_scope": "phố Hàng Dầu và quanh Hồ Gươm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-008",
+   "child_id": "C-PHO-CO",
+   "title": "Phố Hàng Bồ mua phụ liệu may, kim chỉ, cúc áo: đi xe máy tìm đúng cửa hàng trong dãy phố hẹp",
+   "intent": "Biết cách đi xe máy đến phố Hàng Bồ để mua phụ liệu may như kim chỉ, cúc, ren, dừng xe gọn trước dãy cửa hàng sát nhau và mang danh sách đồ cần mua.",
+   "kw": "phụ liệu may hàng bồ",
+   "kw2": [
+    "phố hàng bồ bán gì",
+    "mua kim chỉ cúc áo hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "thợ may, người làm đồ thủ công và sinh viên ngành thời trang",
+   "location_scope": "phố Hàng Bồ và các phố lân cận trong phố cổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-009",
+   "child_id": "C-PHO-CO",
+   "title": "Mùa đông ở phố cổ Hà Nội bằng xe máy: món nóng buổi tối, quán kín gió và lộ trình dạo ngắn",
+   "intent": "Lên kế hoạch dạo phố cổ vào những tối mùa đông lạnh bằng xe máy, chọn món nóng, chỗ ngồi kín gió và lộ trình ngắn để không bị rét khi di chuyển.",
+   "kw": "phố cổ hà nội mùa đông",
+   "kw2": [
+    "ăn gì ở phố cổ mùa đông",
+    "dạo phố cổ trời lạnh"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "khách du lịch đến Hà Nội từ tháng 12 đến tháng 2",
+   "location_scope": "phố cổ Hoàn Kiếm và quanh Hồ Gươm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-010",
+   "child_id": "C-PHO-CO",
+   "title": "Phố cổ dịp Quốc khánh 2/9: phố treo cờ, góc chụp ảnh và cách đi xe máy khi quanh Hồ Gươm đông người",
+   "intent": "Lên kế hoạch dạo phố cổ dịp Quốc khánh 2/9 bằng xe máy, chọn giờ đi, góc chụp ảnh phố treo cờ và cách gửi xe xa trung tâm khi Hồ Gươm quá đông.",
+   "kw": "phố cổ dịp quốc khánh 2/9",
+   "kw2": [
+    "chụp ảnh phố treo cờ hà nội",
+    "đi chơi 2/9 ở hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người dân và khách du lịch đi chơi dịp nghỉ lễ",
+   "location_scope": "phố cổ, Hồ Gươm, Hàng Mã",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-011",
+   "child_id": "C-PHO-CO",
+   "title": "Đi công tác Hà Nội chỉ có một buổi tối: lộ trình phố cổ ba tiếng bằng xe máy cho người bận rộn",
+   "intent": "Lên kế hoạch tận dụng một buổi tối rảnh trong chuyến công tác để dạo phố cổ bằng xe máy trong khoảng ba tiếng, gồm ăn tối, đi dạo và về khách sạn sớm.",
+   "kw": "một buổi tối ở phố cổ",
+   "kw2": [
+    "đi công tác hà nội chơi gì buổi tối",
+    "lịch trình phố cổ 3 tiếng"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người đi công tác ngắn ngày ở Hà Nội",
+   "location_scope": "phố cổ Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-012",
+   "child_id": "C-PHO-CO",
+   "title": "Nhóm năm đến mười xe máy dạo phố cổ: chọn điểm tập trung, gửi chung một bãi và đi bộ không lạc nhau",
+   "intent": "Biết cách tổ chức cho nhóm đông nhiều xe máy dạo phố cổ, chọn điểm hẹn dễ tìm, gửi xe chung một bãi và chia nhóm đi bộ mà vẫn giữ liên lạc.",
+   "kw": "đi phố cổ theo nhóm đông",
+   "kw2": [
+    "nhóm bạn dạo phố cổ hà nội",
+    "gửi nhiều xe máy phố cổ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "nhóm bạn và đoàn đồng nghiệp đi chơi buổi tối",
+   "location_scope": "phố cổ và quanh Hồ Gươm",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-013",
+   "child_id": "C-PHO-CO",
+   "title": "Sinh viên ra Hồ Gươm luyện nói tiếng Anh với khách nước ngoài: đi xe máy giờ nào và bắt chuyện lịch sự",
+   "intent": "Biết cách đi xe máy ra Hồ Gươm luyện nói tiếng Anh với du khách, chọn giờ và khu vực nhiều khách, gửi xe gần đó và bắt chuyện lịch sự, không làm phiền.",
+   "kw": "luyện tiếng anh ở hồ gươm",
+   "kw2": [
+    "bắt chuyện khách nước ngoài hồ gươm",
+    "nói tiếng anh với người nước ngoài"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "học sinh, sinh viên ở Hà Nội",
+   "location_scope": "quanh Hồ Gươm và phố đi bộ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-014",
+   "child_id": "C-PHO-CO",
+   "title": "Giao hàng trong phố cổ bằng xe máy: tìm số nhà, ngõ ngách và dừng xe nhanh mà không cản lối đi",
+   "intent": "Nắm cách đọc số nhà, nhận biết ngõ, ngách và phố một chiều trong phố cổ để giao hàng bằng xe máy nhanh, dừng xe gọn và gọi khách đúng lúc.",
+   "kw": "giao hàng trong phố cổ",
+   "kw2": [
+    "tìm số nhà phố cổ hà nội",
+    "shipper giao hàng phố cổ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người bán hàng online tự giao và shipper mới vào nghề",
+   "location_scope": "36 phố phường quận Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-015",
+   "child_id": "C-PHO-CO",
+   "title": "Ngồi ký họa phố cổ cả buổi: chọn góc vẽ, mang dụng cụ gọn trên xe máy và gửi xe ở đâu",
+   "intent": "Biết cách chuẩn bị một buổi ngồi ký họa phố cổ, chở ghế gấp và dụng cụ vẽ gọn trên xe máy, chọn góc vẽ không chắn lối và gửi xe dài giờ.",
+   "kw": "ký họa phố cổ hà nội",
+   "kw2": [
+    "góc vẽ phố cổ",
+    "vẽ ký họa hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người vẽ ký họa và sinh viên mỹ thuật",
+   "location_scope": "phố cổ và ven Hồ Gươm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-016",
+   "child_id": "C-PHO-CO",
+   "title": "Ngắm kiến trúc nhà ống và nhà phố kiểu Pháp trong phố cổ: dừng xe máy ở đâu để nhìn rõ mặt tiền",
+   "intent": "Hiểu đặc điểm nhà ống truyền thống và nhà phố mang dáng Pháp trong phố cổ, biết lộ trình xe máy qua các phố còn nhiều mặt tiền cũ và chỗ dừng ngắm an toàn.",
+   "kw": "kiến trúc nhà phố cổ hà nội",
+   "kw2": [
+    "nhà ống phố cổ",
+    "nhà phố kiểu pháp hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người yêu kiến trúc và sinh viên kiến trúc",
+   "location_scope": "Hàng Bạc, Hàng Buồm, Hàng Đào và các phố trong phố cổ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-017",
+   "child_id": "C-PHO-CO",
+   "title": "Đi vòng ngoài phố cổ qua Trần Nhật Duật, Trần Quang Khải: khi nào nên tránh xuyên phố cho nhanh",
+   "intent": "Hiểu khi nào nên đi vòng theo trục ven sông Trần Nhật Duật, Trần Quang Khải thay vì xuyên qua phố cổ đông đúc, và các lối rẽ vào phố cổ từ trục này.",
+   "kw": "đường vòng tránh phố cổ",
+   "kw2": [
+    "trần nhật duật trần quang khải",
+    "đi tránh tắc phố cổ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người đi xe máy cần băng qua khu phố cổ",
+   "location_scope": "Trần Nhật Duật, Trần Quang Khải, Hàng Đậu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-018",
+   "child_id": "C-PHO-CO",
+   "title": "Tìm nhà vệ sinh công cộng khi dạo phố cổ và Hồ Gươm: điểm quen thuộc và cách ghé khi đang đi xe máy",
+   "intent": "Biết cách tìm nhà vệ sinh công cộng quanh Hồ Gươm và trong phố cổ khi đang dạo bằng xe máy, cùng các lựa chọn dự phòng như quán cà phê, trung tâm thương mại.",
+   "kw": "nhà vệ sinh công cộng hồ gươm",
+   "kw2": [
+    "nhà vệ sinh phố cổ hà nội",
+    "nhà vệ sinh phố đi bộ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "gia đình có trẻ nhỏ, người lớn tuổi và khách du lịch",
+   "location_scope": "quanh Hồ Gươm, phố đi bộ và phố cổ",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-019",
+   "child_id": "C-PHO-CO",
+   "title": "Tìm cây xăng khi đang ở phố cổ: vì sao trong khu phố cũ khó thấy trạm và nên đổ xăng ở hướng nào",
+   "intent": "Hiểu vì sao trong lòng phố cổ ít trạm xăng, biết cách tìm cây xăng gần nhất trên bản đồ và lên kế hoạch đổ xăng trước khi vào phố hoặc trước giờ trả xe.",
+   "kw": "cây xăng gần phố cổ",
+   "kw2": [
+    "đổ xăng ở hoàn kiếm",
+    "trạm xăng gần hồ gươm"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "khách du lịch đang thuê xe máy ở khu phố cổ",
+   "location_scope": "phố cổ Hoàn Kiếm và các trục đường xung quanh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-020",
+   "child_id": "C-PHO-CO",
+   "title": "Ăn chay khi dạo phố cổ và quanh Hồ Gươm: tìm quán chay, ngày rằm đông khách và gửi xe gần quán",
+   "intent": "Biết cách tìm quán chay trong phố cổ và quanh Hồ Gươm khi đi xe máy, tránh giờ đông ngày rằm, mùng Một và chọn chỗ gửi xe gần quán.",
+   "kw": "ăn chay phố cổ hà nội",
+   "kw2": [
+    "quán chay gần hồ gươm",
+    "đồ chay phố cổ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người ăn chay và khách du lịch ăn chay",
+   "location_scope": "phố cổ và quanh Hồ Gươm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-021",
+   "child_id": "C-PHO-CO",
+   "title": "Quay vlog phố cổ khi đi xe máy: gắn điện thoại đúng cách, chỉ quay lúc dừng và tôn trọng người dân",
+   "intent": "Biết cách quay vlog phố cổ khi di chuyển bằng xe máy, gắn điện thoại hoặc máy quay an toàn, chỉ thao tác khi đã dừng hẳn và xin phép người bán hàng trước khi quay.",
+   "kw": "quay vlog phố cổ",
+   "kw2": [
+    "quay video phố cổ hà nội",
+    "gắn điện thoại quay video xe máy"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người làm nội dung và vlogger du lịch",
+   "location_scope": "phố cổ Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-022",
+   "child_id": "C-PHO-CO",
+   "title": "Trả phòng khách sạn phố cổ buổi trưa nhưng tối mới đi: gửi hành lý, giữ xe thuê và dạo nốt buổi chiều",
+   "intent": "Lên kế hoạch cho khoảng trống giữa giờ trả phòng và giờ ra sân bay hoặc ga tàu, biết hỏi khách sạn gửi hành lý, sắp giờ trả xe máy thuê và dạo phố cổ thêm vài tiếng.",
+   "kw": "gửi hành lý ở phố cổ",
+   "kw2": [
+    "trả phòng sớm chờ bay tối hà nội",
+    "chờ chuyến bay tối ở hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "khách du lịch có chuyến bay hoặc tàu đêm",
+   "location_scope": "phố cổ Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-023",
+   "child_id": "C-PHO-CO",
+   "title": "Trung tâm Giao lưu Văn hóa Phố cổ ở 50 Đào Duy Từ: xem trình diễn nghề, triển lãm và gửi xe máy gần đó",
+   "intent": "Biết cách đi xe máy tới Trung tâm Giao lưu Văn hóa Phố cổ trên phố Đào Duy Từ, theo dõi lịch hoạt động, gửi xe gần đó và kết hợp dạo khu Hàng Buồm.",
+   "kw": "trung tâm giao lưu phố cổ",
+   "kw2": [
+    "50 đào duy từ",
+    "trung tâm giao lưu văn hóa phố cổ hà nội"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người yêu văn hóa truyền thống và gia đình có con",
+   "location_scope": "phố Đào Duy Từ, Hàng Buồm, Tạ Hiện",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-024",
+   "child_id": "C-PHO-CO",
+   "title": "Người miền Nam ra Hà Nội lần đầu dạo phố cổ bằng xe máy: khác biệt đường phố, cách gọi món và thời tiết",
+   "intent": "Hiểu những khác biệt mà người từ miền Nam thường gặp khi lần đầu dạo phố cổ Hà Nội bằng xe máy, từ cách chạy phố hẹp, gọi tên món ăn đến thời tiết bốn mùa.",
+   "kw": "người miền nam dạo phố cổ",
+   "kw2": [
+    "người sài gòn ra hà nội chơi",
+    "khác biệt đi xe máy hà nội sài gòn"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "khách du lịch từ TP.HCM và các tỉnh phía Nam",
+   "location_scope": "phố cổ Hoàn Kiếm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-027-025",
+   "child_id": "C-PHO-CO",
+   "title": "Ngõ ẩm thực Trung Yên giữa Đinh Liệt và chợ Hàng Bè: để xe ở đầu ngõ nào và ăn gì trong con ngõ nhỏ",
+   "intent": "Biết cách đi xe máy tới ngõ Trung Yên, chọn đầu ngõ phía Đinh Liệt hoặc chợ Hàng Bè để dừng xe và lên lịch ăn vặt trong con ngõ hẹp mà không cản lối.",
+   "kw": "ngõ trung yên",
+   "kw2": [
+    "ăn vặt ngõ trung yên",
+    "ngõ ẩm thực phố cổ"
+   ],
+   "links": [
+    "/du-lich/pho-co/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-027",
+   "audience": "người thích ăn vặt và nhóm bạn trẻ",
+   "location_scope": "phố Đinh Liệt, Gia Ngư, chợ Hàng Bè",
+   "word_target": 1200
+  }
+ ]
+}
