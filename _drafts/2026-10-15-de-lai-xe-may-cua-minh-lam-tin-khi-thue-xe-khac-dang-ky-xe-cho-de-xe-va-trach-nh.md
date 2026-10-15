@@ -19,7 +19,7 @@ Nhà bạn có một chiếc Wave cũ đang tốt, nhưng cuối tuần này b�
 
 ## Tiệm có nhận xe cá nhân làm tin không
 
-Trước hết, đây không phải hình thức mọi tiệm đều nhận. Xe cá nhân làm tin đặt ra cho tiệm vài gánh nặng: họ phải có chỗ để xe của bạn suốt thời gian thuê, phải chịu trách nhiệm giữ xe không属于自己的拿不准东西, và khi có trục trặc giữa chừng thì quan hệ hai bên phức tạp hơn nhiều so với tiền cọc. Vì vậy, đừng mặc định; hãy hỏi trực tiếp và hỏi sớm.
+Trước hết, đây không phải hình thức mọi tiệm đều nhận. Xe cá nhân làm tin đặt ra cho tiệm vài gánh nặng: họ phải có chỗ để xe của bạn suốt thời gian thuê, phải chịu trách nhiệm giữ gìn một tài sản không phải của mình, và khi có trục trặc giữa chừng thì quan hệ hai bên phức tạp hơn nhiều so với tiền cọc. Vì vậy, đừng mặc định; hãy hỏi trực tiếp và hỏi sớm.
 
 Nếu tiệm nhận, phần lớn sẽ yêu cầu kèm giấy đăng ký xe, vì xe không kèm đăng ký rất khó xác định chủ. Vài nơi còn đề nghị bạn để cả chìa khóa. Đây là lúc cần cân nhắc kỹ xem hình thức này có đáng hơn cọc bằng tiền hay giấy tờ tùy thân không.
 
