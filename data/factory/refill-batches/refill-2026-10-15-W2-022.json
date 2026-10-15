@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-022: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-001",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Tin nhắn giả danh CSGT báo phạt nguội: dấu hiệu lừa đảo và cách tự kiểm tra trên kênh chính thức",
+   "intent": "Biết cách nhận diện tin nhắn, cuộc gọi giả danh cảnh sát giao thông đòi nộp phạt nguội qua đường link lạ, không cung cấp mã OTP và tự đối chiếu trên kênh chính thức của Bộ Công an.",
+   "kw": "tin nhắn phạt nguội lừa đảo",
+   "kw2": [
+    "giả danh csgt báo vi phạm",
+    "link nộp phạt nguội giả"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe máy dùng điện thoại thông minh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-002",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Xem thông báo vi phạm trên ứng dụng VNeTraffic: cài đặt, đăng nhập và đọc đúng từng thông tin",
+   "intent": "Biết cách cài và dùng ứng dụng VNeTraffic của Bộ Công an để xem thông báo vi phạm của phương tiện, hiểu đúng các mục thời gian, địa điểm, hành vi và đơn vị giải quyết trong thông báo.",
+   "kw": "thông báo phạt nguội vnetraffic",
+   "kw2": [
+    "cách dùng vnetraffic",
+    "xem vi phạm trên vnetraffic"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người đi xe máy lần đầu dùng ứng dụng tra cứu vi phạm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-003",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Camera AI ở các nút giao Hà Nội ghi những lỗi nào của xe máy: điều người thuê xe nên biết trước khi chạy",
+   "intent": "Hiểu hệ thống camera AI Hà Nội đưa vào vận hành từ cuối năm 2025 nhận diện những nhóm lỗi nào của xe máy và dữ liệu được kiểm duyệt ra sao trước khi thành thông báo phạt nguội.",
+   "kw": "camera ai phạt nguội hà nội",
+   "kw2": [
+    "camera ai ghi lỗi xe máy",
+    "nút giao có camera phạt nguội"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "khách thuê xe máy đi lại trong nội thành",
+   "location_scope": "các tuyến phố và nút giao nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-004",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Đèn vàng ở nút giao có camera: khi nào xe máy phải dừng, khi nào được đi tiếp để không dính phạt nguội",
+   "intent": "Nắm quy định về đèn tín hiệu màu vàng theo Luật Trật tự, an toàn giao thông đường bộ 2024, phân biệt lúc phải dừng trước vạch và lúc đã qua vạch được đi tiếp để tránh bị ghi lỗi.",
+   "kw": "đèn vàng có bị phạt nguội",
+   "kw2": [
+    "gặp đèn vàng có được đi tiếp",
+    "dừng trước vạch khi đèn vàng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người mới lái xe máy trong phố",
+   "location_scope": "nút giao có đèn tín hiệu ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-005",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Rẽ phải khi đèn đỏ bằng xe máy ở Hà Nội: nhận biết biển phụ và đèn mũi tên xanh trước khi rẽ",
+   "intent": "Biết cách nhận biết các báo hiệu cho phép rẽ phải khi đèn đỏ như biển phụ, đèn mũi tên xanh, tiểu đảo phân luồng và tránh dừng chắn làn rẽ phải ở nút giao có camera.",
+   "kw": "xe máy rẽ phải khi đèn đỏ",
+   "kw2": [
+    "biển phụ cho phép rẽ phải",
+    "dừng đèn đỏ chắn làn rẽ phải"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "khách du lịch tự lái xe máy lần đầu",
+   "location_scope": "nút giao nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-006",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Không đội mũ bảo hiểm khi đi qua camera giám sát: lỗi của người lái và người ngồi sau được ghi nhận ra sao",
+   "intent": "Hiểu cách camera giám sát ở Hà Nội ghi nhận lỗi không đội mũ bảo hiểm của người lái và người ngồi sau, thông báo gửi về chủ xe và việc xác định người vi phạm khi đi xe thuê.",
+   "kw": "không đội mũ bị phạt nguội",
+   "kw2": [
+    "người ngồi sau không đội mũ camera",
+    "camera ghi lỗi mũ bảo hiểm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người chở bạn bè, người thân bằng xe máy thuê",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-007",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Quay đầu xe máy ở nút giao có biển cấm: lỗi camera hay ghi và cách tìm điểm quay đầu hợp lệ",
+   "intent": "Nắm những vị trí xe máy không được quay đầu theo Luật Trật tự, an toàn giao thông đường bộ 2024, cách đọc biển cấm quay đầu và tìm điểm quay đầu hợp lệ trên đường có dải phân cách.",
+   "kw": "quay đầu xe máy nơi cấm",
+   "kw2": [
+    "biển cấm quay đầu xe",
+    "điểm quay đầu hợp lệ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe máy chưa quen đường Hà Nội",
+   "location_scope": "các trục đường có dải phân cách ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-008",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Đi lấn sang làn ô tô trên trục đường phân làn ở Hà Nội: lỗi sai làn mà camera giám sát hay ghi lại",
+   "intent": "Hiểu cách nhận biết làn dành cho xe máy qua vạch kẻ và biển phân làn trên các trục đường lớn, vì sao chuyển làn sai chỗ dễ bị camera ghi lại thành thông báo vi phạm.",
+   "kw": "đi sai làn bị phạt nguội",
+   "kw2": [
+    "xe máy lấn làn ô tô",
+    "biển phân làn xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người đi xe máy thuê theo tuần, theo tháng",
+   "location_scope": "các trục đường phân làn ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-009",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Phạt nguội từ clip người dân gửi qua VNeTraffic: hình ảnh nào có thể thành căn cứ xử phạt",
+   "intent": "Hiểu cơ chế công an tiếp nhận hình ảnh, video do người dân cung cấp theo Nghị định 135/2021/NĐ-CP để xác minh hành vi, xác định người điều khiển và xử phạt vi phạm giao thông.",
+   "kw": "phạt nguội từ clip người dân",
+   "kw2": [
+    "phản ánh vi phạm qua vnetraffic",
+    "clip mạng xã hội làm căn cứ xử phạt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người đi xe máy hằng ngày trong thành phố",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-010",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Phạt nguội có bị trừ điểm giấy phép lái xe không: điểm bị trừ của ai khi xe thuê vi phạm",
+   "intent": "Hiểu việc trừ điểm giấy phép lái xe theo Luật Trật tự, an toàn giao thông đường bộ 2024 và Nghị định 168/2024/NĐ-CP với vi phạm phát hiện qua camera, điểm trừ vào người điều khiển được xác định.",
+   "kw": "phạt nguội có bị trừ điểm",
+   "kw2": [
+    "trừ điểm bằng lái khi phạt nguội",
+    "điểm giấy phép lái xe người thuê"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe máy có bằng A1",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-011",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Vi phạm bao lâu thì có thông báo phạt nguội: các mốc xác minh, gửi thông báo và hẹn giải quyết",
+   "intent": "Nắm trình tự và mốc thời gian theo Thông tư 73/2024/TT-BCA từ lúc vi phạm bị ghi nhận đến khi cơ quan xác định chủ xe, gửi thông báo và hẹn người vi phạm đến giải quyết.",
+   "kw": "bao lâu có thông báo phạt nguội",
+   "kw2": [
+    "thời gian gửi thông báo phạt nguội",
+    "phạt nguội sau mấy ngày"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "khách thuê xe ngắn ngày đã trả xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-012",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Phạt nguội để lâu có hết hiệu lực không: thời hiệu xử phạt vi phạm hành chính về giao thông",
+   "intent": "Hiểu thời hiệu xử phạt vi phạm hành chính theo Luật Xử lý vi phạm hành chính, trường hợp thời hiệu được tính lại khi cố tình trốn tránh và vì sao không nên chờ thông báo tự hết hạn.",
+   "kw": "thời hiệu xử phạt phạt nguội",
+   "kw2": [
+    "phạt nguội để lâu có sao không",
+    "phạt nguội có hết hạn không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người đi xe máy nhận thông báo vi phạm cũ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-013",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Một lỗi bị nhiều camera ghi trên cùng tuyến phố: có bị xử phạt nhiều lần cho một hành vi không",
+   "intent": "Hiểu nguyên tắc mỗi hành vi vi phạm hành chính chỉ bị xử phạt một lần, phân biệt với trường hợp thực hiện nhiều hành vi khác nhau hoặc vi phạm nhiều lần trên cùng một hành trình.",
+   "kw": "một lỗi bị phạt nguội nhiều lần",
+   "kw2": [
+    "nhiều camera ghi cùng một lỗi",
+    "mỗi hành vi chỉ bị phạt một lần"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người đi xe máy hằng ngày",
+   "location_scope": "các tuyến phố có camera ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-014",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Thông báo phạt nguội nghi nhầm biển số hoặc xe bị làm biển giả: đối chiếu hình ảnh và đề nghị xác minh",
+   "intent": "Biết cách đối chiếu hình ảnh, loại xe, màu xe trong thông báo với xe thực tế, chuẩn bị chứng cứ và đề nghị đơn vị giải quyết xác minh khi nghi biển số bị đọc nhầm hoặc làm giả.",
+   "kw": "phạt nguội nhầm biển số",
+   "kw2": [
+    "biển số giả bị phạt nguội",
+    "khiếu nại thông báo phạt nguội sai"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe theo tháng và chủ xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-015",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Biển số xe máy thuê bị bẩn, cong hoặc bị đồ treo che khuất: kiểm tra trước khi chạy để tránh rắc rối",
+   "intent": "Biết cách kiểm tra biển số xe máy thuê trước khi chạy, không để túi đồ, áo mưa che biển và báo cửa hàng khi biển cong mờ, tránh lỗi và nhầm lẫn khi đối chiếu hình ảnh.",
+   "kw": "biển số xe máy bị che khuất",
+   "kw2": [
+    "biển số mờ có bị phạt",
+    "kiểm tra biển số xe thuê"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người nhận xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-016",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Được mời đến giải quyết phạt nguội ở Hà Nội: mang giấy tờ gì và trình bày ai điều khiển xe ra sao",
+   "intent": "Biết cách chuẩn bị giấy tờ tùy thân, giấy phép lái xe, thông báo vi phạm, hợp đồng thuê xe khi đến nơi giải quyết phạt nguội, cùng cách trình bày rõ ai điều khiển xe lúc vi phạm.",
+   "kw": "giải quyết phạt nguội cần mang gì",
+   "kw2": [
+    "làm việc với csgt về phạt nguội",
+    "giấy tờ khi đến xử lý vi phạm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe máy được chủ xe báo có vi phạm",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-017",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Nộp phạt nguội trực tiếp tại kho bạc, ngân hàng hoặc qua bưu điện: khi nào nên chọn thay vì nộp online",
+   "intent": "Nắm các phương thức nộp tiền phạt ngoài dịch vụ công trực tuyến như kho bạc, ngân hàng ghi trong quyết định xử phạt và dịch vụ bưu chính công ích, cùng điều kiện áp dụng của từng cách.",
+   "kw": "nộp phạt nguội trực tiếp",
+   "kw2": [
+    "nộp phạt tại kho bạc",
+    "nộp phạt giao thông qua bưu điện"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người không quen thanh toán trực tuyến",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-018",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Giữ biên lai và quyết định xử phạt sau khi nộp phạt nguội: lưu chứng từ để đối chiếu với cửa hàng thuê xe",
+   "intent": "Biết cách lấy và lưu biên lai, quyết định xử phạt sau khi nộp phạt nguội, kiểm tra trạng thái vi phạm đã xử lý trên hệ thống và gửi bản sao cho cửa hàng khi xe thuê liên quan.",
+   "kw": "biên lai nộp phạt nguội",
+   "kw2": [
+    "lưu quyết định xử phạt",
+    "kiểm tra vi phạm đã xử lý"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe đã nộp phạt nguội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-019",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Khách nước ngoài thuê xe máy nhận thông báo phạt nguội trước ngày rời Việt Nam: nên xử lý thế nào",
+   "intent": "Hiểu nghĩa vụ chấp hành quyết định xử phạt của người nước ngoài, khả năng bị tạm hoãn xuất cảnh khi chưa chấp hành và cách phối hợp với cửa hàng để giải quyết trước ngày bay.",
+   "kw": "người nước ngoài bị phạt nguội",
+   "kw2": [
+    "phạt nguội trước khi xuất cảnh",
+    "khách nước ngoài nộp phạt giao thông"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "khách quốc tế thuê xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-020",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Nhóm bạn thay nhau lái một xe máy thuê: ghi lại ai cầm lái để xác định đúng người khi có phạt nguội",
+   "intent": "Lên kế hoạch ghi lại người cầm lái theo từng chặng, từng khung giờ khi nhóm dùng chung xe máy thuê, để khi có thông báo phạt nguội có thể xác định đúng người điều khiển.",
+   "kw": "thay nhau lái xe thuê phạt nguội",
+   "kw2": [
+    "xác định người lái khi phạt nguội",
+    "nhiều người lái chung xe thuê"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "nhóm bạn, cặp đôi thuê chung xe máy",
+   "location_scope": "Hà Nội và vùng lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-021",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Lưu lịch sử vị trí và ảnh có mốc giờ khi thuê xe máy: bằng chứng khi thông báo vi phạm không khớp",
+   "intent": "Biết cách bật lịch sử vị trí trên điện thoại, chụp ảnh có mốc thời gian và lưu tệp camera hành trình trong kỳ thuê để đối chiếu khi có thông báo phạt nguội không khớp lộ trình.",
+   "kw": "lưu hành trình khi thuê xe máy",
+   "kw2": [
+    "lịch sử vị trí điện thoại làm bằng chứng",
+    "camera hành trình xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "khách thuê xe nhiều ngày",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-022",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Xe máy điện thuê có bị phạt nguội không: biển số, camera giám sát và cách tra cứu vi phạm",
+   "intent": "Hiểu xe máy điện có biển số cũng bị camera ghi nhận và xử lý vi phạm như xe máy xăng, cách tra cứu theo biển số và các lỗi người đi xe điện hay mắc trong nội thành.",
+   "kw": "xe máy điện bị phạt nguội",
+   "kw2": [
+    "tra cứu vi phạm xe máy điện",
+    "biển số xe máy điện"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe máy điện đi trong phố",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-023",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Dừng chờ đèn đỏ đè vạch dừng hoặc lấn vạch người đi bộ: vị trí dừng đúng để không bị camera ghi lỗi",
+   "intent": "Nắm vị trí dừng đúng của xe máy khi chờ đèn đỏ so với vạch dừng và vạch người đi bộ, tránh dồn lên phía trước khi đông xe ở nút giao có camera giám sát.",
+   "kw": "dừng xe đè vạch đèn đỏ",
+   "kw2": [
+    "vạch dừng xe ở ngã tư",
+    "lấn vạch người đi bộ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người đi xe máy giờ cao điểm",
+   "location_scope": "nút giao đông xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-024",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Dừng xe máy dưới lòng đường để mua đồ, chụp ảnh: camera giám sát trật tự đô thị ở Hà Nội ghi nhận ra sao",
+   "intent": "Hiểu việc Hà Nội dùng camera để phát hiện lỗi dừng, đỗ xe sai quy định trên các tuyến phố, biết chỗ được dừng ngắn và cách gửi xe đúng chỗ khi cần ghé mua đồ hoặc chụp ảnh.",
+   "kw": "dừng xe sai chỗ bị phạt nguội",
+   "kw2": [
+    "camera trật tự đô thị hà nội",
+    "dừng xe dưới lòng đường"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "khách du lịch dạo phố bằng xe máy thuê",
+   "location_scope": "Hoàn Kiếm, Ba Đình và các phố trung tâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-022-025",
+   "child_id": "C-PHAT-NGUOI",
+   "title": "Chạy xe máy thuê ra ngoại thành theo quốc lộ: tốc độ, làn đường và lỗi camera giám sát hay ghi nhận",
+   "intent": "Lên kế hoạch chạy xe máy trên các quốc lộ ra ngoại thành Hà Nội, nắm tốc độ tối đa theo loại đường, làn dành cho xe máy và những lỗi dễ bị camera giám sát ghi lại.",
+   "kw": "phạt nguội quốc lộ xe máy",
+   "kw2": [
+    "tốc độ xe máy trên quốc lộ",
+    "camera giám sát quốc lộ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/phat-nguoi/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-022",
+   "audience": "người thuê xe đi chơi cuối tuần",
+   "location_scope": "Sóc Sơn, Ba Vì, Sơn Tây và các quốc lộ ra khỏi nội thành",
+   "word_target": 1300
+  }
+ ]
+}

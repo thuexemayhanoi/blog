@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-023: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-15",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-001",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển cấm rẽ trái có cấm quay đầu không: phân biệt P.123a, P.124a và P.124c khi đi xe máy",
+   "intent": "Hiểu chính xác phạm vi cấm của biển cấm rẽ trái, biển cấm quay đầu và biển cấm rẽ trái kèm quay đầu theo QCVN 41:2024/BGTVT để xe máy không quay đầu sai chỗ ở ngã tư Hà Nội.",
+   "kw": "biển cấm rẽ trái quay đầu",
+   "kw2": [
+    "biển cấm quay đầu xe",
+    "biển cấm rẽ trái và quay đầu"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người thuê xe máy hay phải quay đầu ở ngã tư nội thành",
+   "location_scope": "ngã tư và chỗ mở dải phân cách nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-002",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển đường cấm và biển cấm đi ngược chiều khác nhau thế nào: xe máy được đi vào từ phía nào",
+   "intent": "Nắm điểm khác nhau giữa biển P.101 đường cấm và biển P.102 cấm đi ngược chiều để biết đoạn nào cấm mọi chiều xe, đoạn nào chỉ cấm đi vào từ phía đặt biển.",
+   "kw": "biển đường cấm và cấm ngược chiều",
+   "kw2": [
+    "biển p101 đường cấm",
+    "biển p102 cấm đi ngược chiều"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "khách tự lái xe máy thuê lần đầu đi phố nhỏ",
+   "location_scope": "phố nội thành Hoàn Kiếm, Ba Đình, Đống Đa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-003",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển báo, đèn tín hiệu và người điều khiển giao thông chỉ dẫn khác nhau: xe máy phải theo cái nào trước",
+   "intent": "Hiểu thứ tự hiệu lực của hệ thống báo hiệu đường bộ theo QCVN 41:2024/BGTVT, từ hiệu lệnh người điều khiển, đèn tín hiệu, biển báo đến vạch kẻ đường, để xử lý đúng khi các báo hiệu mâu thuẫn.",
+   "kw": "thứ tự hiệu lực báo hiệu",
+   "kw2": [
+    "biển báo và đèn tín hiệu theo cái nào",
+    "vạch kẻ đường và biển báo mâu thuẫn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê chưa quen giao thông Hà Nội",
+   "location_scope": "nút giao có cảnh sát điều tiết giờ cao điểm ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-004",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển báo cấm có hiệu lực đến đâu: qua ngã tư, ngõ nhỏ hay phải gặp biển hết cấm mới hết hiệu lực",
+   "intent": "Hiểu biển báo cấm bắt đầu và kết thúc hiệu lực ở đâu theo Điều 26 QCVN 41:2024/BGTVT, gồm vai trò nút giao, biển nhắc lại, biển phụ khoảng cách và biển hết tất cả các lệnh cấm.",
+   "kw": "biển cấm có hiệu lực đến đâu",
+   "kw2": [
+    "biển hết tất cả các lệnh cấm",
+    "phạm vi hiệu lực biển báo cấm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê dài ngày trong nội thành",
+   "location_scope": "trục phố có nhiều ngõ nhánh ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-005",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển cấm kèm biển phụ ghi khung giờ: đọc thế nào để biết lệnh cấm có áp dụng lúc mình đi qua",
+   "intent": "Biết cách đọc biển phụ biểu thị thời gian đặt dưới biển cấm theo QCVN 41:2024/BGTVT để xác định đúng giờ cấm, ngày áp dụng và không đi vào đoạn đường trong khung giờ bị cấm.",
+   "kw": "biển cấm theo khung giờ",
+   "kw2": [
+    "biển phụ biểu thị thời gian",
+    "đọc giờ cấm trên biển báo"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người thuê xe máy đi làm, đi học theo giờ cố định",
+   "location_scope": "các tuyến phố có biển cấm theo giờ ở nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-006",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển phụ ghi loại xe và biển phụ ngoại lệ dưới biển cấm: xe máy thuộc diện bị cấm hay được miễn",
+   "intent": "Hiểu cách biển phụ loại xe S.505a và biển phụ ngoại lệ S.H,6 trong QCVN 41:2024/BGTVT thu hẹp hoặc loại trừ đối tượng của biển cấm, để người đi xe máy không hiểu sai lệnh cấm.",
+   "kw": "biển phụ ngoại lệ loại xe",
+   "kw2": [
+    "biển phụ dưới biển cấm",
+    "biển phụ loại xe là gì"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê gặp biển cấm có gắn biển phụ",
+   "location_scope": "nội thành và các cửa ngõ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-007",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển ghép tốc độ tối đa theo làn và theo loại xe: người đi xe máy đọc ô nào trên biển",
+   "intent": "Biết cách đọc biển P.127b và P.127c ghép tốc độ tối đa theo từng làn và từng loại phương tiện để xác định đúng tốc độ áp dụng cho xe máy trên đại lộ, đường vành đai Hà Nội.",
+   "kw": "biển ghép tốc độ theo làn",
+   "kw2": [
+    "biển tốc độ theo loại xe",
+    "đọc biển tốc độ tối đa xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê chạy đường lớn ra ngoại thành",
+   "location_scope": "đại lộ, đường vành đai và cửa ngõ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-008",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển bắt đầu và hết khu đông dân cư trên quốc lộ ra khỏi Hà Nội: tốc độ xe máy thay đổi thế nào",
+   "intent": "Hiểu ý nghĩa biển R.420 bắt đầu khu đông dân cư và R.421 hết khu đông dân cư để biết khi nào áp dụng tốc độ trong khu đông dân cư theo quy định hiện hành khi đi quốc lộ.",
+   "kw": "biển khu đông dân cư",
+   "kw2": [
+    "biển hết khu đông dân cư",
+    "tốc độ xe máy trong khu đông dân cư"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "khách thuê xe máy đi tỉnh lần đầu",
+   "location_scope": "quốc lộ 1, 5, 6, 32 ra khỏi Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-009",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển đường dành cho xe máy và biển làn dành cho xe máy: đi đúng phần đường đến khi gặp biển kết thúc",
+   "intent": "Nắm khác biệt giữa biển R.403e đường dành cho xe máy, R.412d làn đường dành cho xe máy và các biển kết thúc tương ứng để chọn đúng phần đường trên cầu và trục lớn.",
+   "kw": "biển làn đường dành cho xe máy",
+   "kw2": [
+    "biển đường dành cho xe máy",
+    "biển kết thúc làn xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê qua cầu lớn và trục hướng tâm",
+   "location_scope": "cầu qua sông Hồng và các trục hướng tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-010",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển vòng xuyến hình tròn xanh và biển tam giác vòng xuyến: ý nghĩa khác nhau và cách xe máy vào nút",
+   "intent": "Hiểu khác biệt giữa biển hiệu lệnh R.303 nơi giao nhau chạy theo vòng xuyến và biển cảnh báo W.206 giao nhau chạy theo vòng xuyến, cùng quy tắc nhường đường khi xe máy vào nút.",
+   "kw": "biển báo vòng xuyến",
+   "kw2": [
+    "biển r303 vòng xuyến",
+    "biển w206 giao nhau vòng xuyến"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê mới đến Hà Nội",
+   "location_scope": "các nút giao vòng xuyến nội thành và ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-011",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển STOP dừng lại khi đi xe máy: phải dừng hẳn ở đâu và khi nào mới được đi tiếp",
+   "intent": "Biết cách chấp hành biển R.122 dừng lại theo QCVN 41:2024/BGTVT, gồm vị trí dừng trước vạch, dừng hẳn bánh xe, quan sát và nhường đường trước khi xe máy đi tiếp qua nút giao.",
+   "kw": "biển stop dừng lại",
+   "kw2": [
+    "biển r122 dừng lại",
+    "gặp biển stop xe máy làm gì"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê từ đường nhánh ra đường chính",
+   "location_scope": "nút giao đường nhánh với đường chính ở ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-012",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển nhường đường cho xe đi ngược chiều qua đoạn hẹp và cầu hẹp: xe máy đi trước hay phải chờ",
+   "intent": "Hiểu biển P.132 nhường đường cho xe cơ giới đi ngược chiều qua đường hẹp cùng biển cảnh báo đường bị thu hẹp và cầu hẹp, để xe máy xử lý đúng ở cầu nhỏ, đoạn đê hẹp.",
+   "kw": "biển nhường đường qua đường hẹp",
+   "kw2": [
+    "biển cầu hẹp",
+    "biển đường bị thu hẹp"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê đi đường làng, đường đê",
+   "location_scope": "đường đê sông Hồng, sông Đáy và các xã ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-013",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển cấm vượt trên quốc lộ ngoại thành: người đi xe máy được vượt xe nào và phải giữ hàng sau xe nào",
+   "intent": "Hiểu phạm vi biển P.125 cấm vượt và P.126 cấm xe ô tô tải vượt theo QCVN 41:2024/BGTVT, gồm đối tượng được vượt và điểm hết cấm vượt, để xe máy vượt đúng luật trên quốc lộ.",
+   "kw": "biển cấm vượt xe máy",
+   "kw2": [
+    "biển hết cấm vượt",
+    "xe máy có được vượt khi có biển cấm vượt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê đi tỉnh theo quốc lộ",
+   "location_scope": "quốc lộ và đường dẫn lên cầu quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-014",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển cấm sử dụng còi: hiệu lực kéo dài đến đâu và người đi xe máy báo hiệu thế nào khi cần",
+   "intent": "Hiểu ý nghĩa và phạm vi hiệu lực của biển P.128 cấm sử dụng còi theo QCVN 41:2024/BGTVT, gồm biển phụ phạm vi tác dụng và biển hết lệnh cấm, để xe máy không bấm còi sai chỗ.",
+   "kw": "biển cấm sử dụng còi",
+   "kw2": [
+    "biển cấm còi hiệu lực đến đâu",
+    "khu vực cấm bấm còi"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê quen bấm còi khi đông xe",
+   "location_scope": "khu bệnh viện, trường học và khu dân cư nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-015",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển cấm đỗ xe và tốc độ tối đa trong khu vực: hiệu lực kéo dài đến biển hết khu vực ra sao",
+   "intent": "Hiểu nhóm biển hiệu lệnh theo khu vực R.E,9 và R.E,10 trong QCVN 41:2024/BGTVT, cách xác định ranh giới khu vực, để xe máy dừng đỗ và chạy đúng tốc độ trong toàn khu.",
+   "kw": "biển báo theo khu vực",
+   "kw2": [
+    "biển cấm đỗ xe trong khu vực",
+    "biển tốc độ tối đa trong khu vực"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê vào khu đô thị, khu phố có quản lý riêng",
+   "location_scope": "khu đô thị mới và khu phố trung tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-016",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển trẻ em và biển người đi bộ cắt ngang: thấy biển tam giác này người đi xe máy phải làm gì",
+   "intent": "Biết cách phản ứng khi gặp biển cảnh báo W.225 trẻ em và W.224 đường người đi bộ cắt ngang, gồm giảm tốc, quan sát và nhường đường cho người đi bộ đúng quy định hiện hành.",
+   "kw": "biển báo trẻ em",
+   "kw2": [
+    "biển người đi bộ cắt ngang",
+    "gặp biển trẻ em phải làm gì"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê đưa đón con hoặc đi qua khu dân cư",
+   "location_scope": "đường quanh trường học và khu dân cư Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-017",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển đoạn đường hay xảy ra tai nạn trên quốc lộ quanh Hà Nội: người đi xe máy nên làm gì khi thấy biển",
+   "intent": "Biết cách điều chỉnh tốc độ, vị trí trong làn và khoảng cách khi gặp biển W.244 đoạn đường hay xảy ra tai nạn cùng biển W.233 nguy hiểm khác trên quốc lộ ngoại thành.",
+   "kw": "biển đường hay xảy ra tai nạn",
+   "kw2": [
+    "biển nguy hiểm khác",
+    "biển cảnh báo tai nạn quốc lộ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người thuê xe máy đi chơi xa cuối tuần",
+   "location_scope": "quốc lộ 6, 21, 32 ra khỏi Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-018",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển dốc nguy hiểm và chỗ ngoặt liên tiếp khi lên Ba Vì, Tam Đảo bằng xe máy: đọc biển để chọn số và tốc độ",
+   "intent": "Biết cách đọc biển dốc xuống nguy hiểm, dốc lên nguy hiểm, chỗ ngoặt nguy hiểm có nguy cơ lật xe và nhiều chỗ ngoặt liên tiếp để giảm tốc, chọn số phù hợp trên đường đèo.",
+   "kw": "biển dốc nguy hiểm đường đèo",
+   "kw2": [
+    "biển chỗ ngoặt nguy hiểm liên tiếp",
+    "biển nguy cơ lật xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "nhóm bạn thuê xe số đi đèo cuối tuần",
+   "location_scope": "đường lên Ba Vì và Tam Đảo",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-019",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển đường cao tốc phía trước và lối lên cao tốc: cách người đi xe máy nhận ra để rẽ tránh kịp",
+   "intent": "Biết cách nhận biết biển W.238 đường cao tốc phía trước và các biển chỉ dẫn lối vào cao tốc để xe máy chọn đường gom hoặc nhánh rẽ khác trước khi đi nhầm lên cao tốc.",
+   "kw": "biển đường cao tốc phía trước",
+   "kw2": [
+    "nhận biết lối lên cao tốc",
+    "xe máy đi nhầm lên cao tốc"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "khách thuê xe máy đi tỉnh dùng bản đồ điện thoại",
+   "location_scope": "nút giao Pháp Vân và đầu các tuyến cao tốc quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-020",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển cấm đi thẳng và các biển cấm kết hợp hướng đi ở ngã tư: xe máy còn được đi hướng nào",
+   "intent": "Nắm ý nghĩa biển P.136 cấm đi thẳng và các biển P.137, P.138, P.139 cấm kết hợp rẽ trái, rẽ phải theo QCVN 41:2024/BGTVT để chọn đúng hướng còn được đi tại nút giao.",
+   "kw": "biển cấm đi thẳng",
+   "kw2": [
+    "biển cấm đi thẳng rẽ trái",
+    "biển cấm rẽ trái rẽ phải"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê dùng chỉ đường điện thoại trong phố",
+   "location_scope": "các nút giao đã tổ chức lại giao thông ở nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-021",
+   "child_id": "C-BIEN-BAO",
+   "title": "Ký hiệu QL, ĐT, CT trên biển chỉ hướng đường: đọc đúng để không lạc khi đi xe máy ra khỏi Hà Nội",
+   "intent": "Biết cách đọc biển chỉ hướng đường và ký hiệu quốc lộ, đường tỉnh, đường cao tốc trên biển chỉ dẫn để chọn đúng tuyến cho phép xe máy khi rời Hà Nội đi các tỉnh lân cận.",
+   "kw": "ký hiệu đường trên biển chỉ dẫn",
+   "kw2": [
+    "biển chỉ hướng đường",
+    "ký hiệu ql đt ct là gì"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "khách thuê xe máy tự đi tỉnh lần đầu",
+   "location_scope": "cửa ngõ Hà Nội và quốc lộ đi các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-022",
+   "child_id": "C-BIEN-BAO",
+   "title": "Vạch kênh hóa dòng xe ở đầu cầu và nút giao: xe máy có được chạy đè lên vùng gạch chéo không",
+   "intent": "Hiểu ý nghĩa vạch kênh hóa dòng xe dạng gạch chéo và dạng chữ V theo QCVN 41:2024/BGTVT, phần mặt đường không dành cho xe chạy, và cách xe máy nhập, tách làn đúng.",
+   "kw": "vạch kênh hóa dòng xe",
+   "kw2": [
+    "vạch gạch chéo trên đường",
+    "vạch chữ v đầu cầu"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê hay cắt vào đường dẫn lên cầu",
+   "location_scope": "đầu cầu, nút giao lớn và đường dẫn ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-023",
+   "child_id": "C-BIEN-BAO",
+   "title": "Vạch vàng liền giữa đường hai chiều: xe máy có được đè vạch để vượt, rẽ trái hay quay đầu",
+   "intent": "Hiểu ý nghĩa vạch vàng liền, vạch vàng đứt và vạch vàng kép phân chia hai chiều xe chạy theo QCVN 41:2024/BGTVT để biết khi nào xe máy được cắt qua, khi nào phải đi tiếp.",
+   "kw": "vạch vàng liền giữa đường",
+   "kw2": [
+    "vạch vàng đứt có được đè không",
+    "vạch vàng kép giữa đường"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người đi xe máy thuê đi đường hai chiều ngoại thành",
+   "location_scope": "đường hai chiều ven đô và quốc lộ quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-024",
+   "child_id": "C-BIEN-BAO",
+   "title": "Biển đường ngầm và nguy cơ lũ quét: đi xe máy qua đường tràn ở vùng núi ven Hà Nội mùa mưa",
+   "intent": "Biết cách nhận biết biển đường ngầm và biển đường ngầm có nguy cơ lũ quét, đánh giá mực nước, rồi quyết định dừng chờ hoặc đổi đường khi xe máy gặp đường tràn mùa mưa.",
+   "kw": "biển đường ngầm lũ quét",
+   "kw2": [
+    "xe máy qua đường tràn",
+    "biển báo đường ngầm là gì"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "người thuê xe máy đi dã ngoại Ba Vì mùa mưa",
+   "location_scope": "đường tràn khu vực Ba Vì và vùng núi phía tây Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-15-W2-023-025",
+   "child_id": "C-BIEN-BAO",
+   "title": "Cột kilômét và cọc H trên quốc lộ: đọc vị trí để báo đúng chỗ khi xe máy thuê gặp sự cố",
+   "intent": "Biết cách đọc cột kilômét, cọc H và tên địa danh ghi trên cột theo QCVN 41:2024/BGTVT để xác định vị trí chính xác, báo cửa hàng hoặc cứu hộ khi xe hỏng trên quốc lộ.",
+   "kw": "cách đọc cột kilômét quốc lộ",
+   "kw2": [
+    "cọc h trên quốc lộ",
+    "báo vị trí khi xe hỏng giữa đường"
+   ],
+   "links": [
+    "/an-toan-phap-ly/bien-bao/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-15-W2-023",
+   "audience": "khách thuê xe máy tự lái đi tỉnh",
+   "location_scope": "quốc lộ 1, 2, 3, 5, 6 quanh Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
