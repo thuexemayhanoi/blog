@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T10:59:57+00:00",
+  "generated_at": "2026-10-15T11:00:21+00:00",
   "data_through": "2026-10-15",
-  "data_fingerprint": "787663275317b4eafaf2c93a02be2564c45637db329a7795603004315f383ecb",
-  "matrix_sha256": "8250b885291de0c868d05844ffda4b11acf1c923b99fa6503110136c4dd63450",
+  "data_fingerprint": "9bddecd4b73f54340cd6e3bebda45447783cfee061dcfdc938c058e968a414cd",
+  "matrix_sha256": "86e3a0df379d3de645bc787b6ee333c3fdb38a194e534ab0a2cb457d8629c95d",
   "taxonomy_sha256": "c541bcb4d74c31cfd0d4892b7b410ce04cb43afe91d6772bb09154eb9a6d9156",
   "inventory_sha256": "6f49ba6547da9aae1824d5ab61ad4babfd01c8b8f2e30582f05cebf42036755f",
   "generated_by": "scripts/factory/generate-reports.py (từ dữ liệu thật, bảo toàn tiến độ)",
