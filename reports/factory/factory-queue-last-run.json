@@ -2,75 +2,76 @@
   "schema_version": "2",
   "mode": "new",
   "queue": [
-    "BLG-03639",
-    "BLG-03640",
-    "BLG-03641",
-    "BLG-03642",
-    "BLG-03643",
-    "BLG-03644",
-    "BLG-03645",
-    "BLG-03646",
-    "BLG-03647",
-    "BLG-03648"
+    "BLG-03649",
+    "BLG-03650",
+    "BLG-03651",
+    "BLG-03652",
+    "BLG-03653",
+    "BLG-03654",
+    "BLG-03655",
+    "BLG-03656",
+    "BLG-03657",
+    "BLG-03658"
   ],
   "pair_size": 2,
-  "started": "2026-10-15T10:28:08Z",
-  "finished": "2026-10-15T10:29:24Z",
+  "started": "2026-10-15T10:31:11Z",
+  "finished": "2026-10-15T10:32:16Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-03639",
-        "BLG-03640"
+        "BLG-03649",
+        "BLG-03650"
       ],
-      "status": "published"
+      "status": "partial"
     },
     {
       "pair_index": 2,
       "ids": [
-        "BLG-03641",
-        "BLG-03642"
+        "BLG-03651",
+        "BLG-03652"
       ],
       "status": "published"
     },
     {
       "pair_index": 3,
       "ids": [
-        "BLG-03643",
-        "BLG-03644"
+        "BLG-03653",
+        "BLG-03654"
       ],
       "status": "published"
     },
     {
       "pair_index": 4,
       "ids": [
-        "BLG-03645",
-        "BLG-03646"
+        "BLG-03655",
+        "BLG-03656"
       ],
-      "status": "published"
+      "status": "partial"
     },
     {
       "pair_index": 5,
       "ids": [
-        "BLG-03647",
-        "BLG-03648"
+        "BLG-03657",
+        "BLG-03658"
       ],
-      "status": "published"
+      "status": "partial"
     }
   ],
   "published": [
-    "BLG-03639",
-    "BLG-03640",
-    "BLG-03641",
-    "BLG-03642",
-    "BLG-03643",
-    "BLG-03644",
-    "BLG-03645",
-    "BLG-03646",
-    "BLG-03647",
-    "BLG-03648"
+    "BLG-03649",
+    "BLG-03651",
+    "BLG-03652",
+    "BLG-03653",
+    "BLG-03654",
+    "BLG-03655",
+    "BLG-03657"
   ],
-  "recoverable": [],
+  "recoverable": [
+    "BLG-03650",
+    "BLG-03656",
+    "BLG-03658"
+  ],
   "deferred": [],
   "fatal": null
 }
