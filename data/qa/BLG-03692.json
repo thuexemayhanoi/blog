@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03692",
   "title": "Để lại xe máy của mình làm tin khi thuê xe khác: đăng ký xe, chỗ để xe và trách nhiệm hai bên",
-  "scored_at": "2026-10-15T10:59:47+00:00",
+  "scored_at": "2026-10-15T11:01:53+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": false,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": false,
     "links_parent_hub": false,
     "links_count": false,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1069,
+  "word_count": 1072,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 85,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-de-lai-xe-may-cua-minh-lam-tin-khi-thue-xe-khac-dang-ky-xe-cho-de-xe-va-trach-nh.md",
-  "content_sha256": "41daaf25722958f43d1575cf81c6f1f79a9c287e758a44c49525f7f4fd1d3045",
-  "matrix_row_sha256": "aa0757f8dc9a14a0613407713a7e413ba4b21a0a1fa7e0faef634517c93b5864",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-de-lai-xe-may-cua-minh-lam-tin-khi-thue-xe-khac-dang-ky-xe-cho-de-xe-va-trach-nh.md",
+  "content_sha256": "e22952c550238c6eeed4276818dad5aa829b3976d386b38e1e4fa4a150b56b99",
+  "matrix_row_sha256": "e9ad067b45d5b0200e137669d5d1d2c681f19e40850fa630b46322744b2f2b95",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T11:01:57+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03689",
   "title": "Đã chuyển cọc giữ xe online, đến nhận xe có phải cọc thêm không: hỏi rõ cọc hai bước",
-  "scored_at": "2026-10-15T10:58:54+00:00",
+  "scored_at": "2026-10-15T11:01:45+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": false,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": false,
     "links_parent_hub": false,
     "links_count": false,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1050,
+  "word_count": 1055,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 85,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-da-chuyen-coc-giu-xe-online-den-nhan-xe-co-phai-coc-them-khong-hoi-ro-coc-hai-bu.md",
-  "content_sha256": "7fe45fcc6cc707c7b05e78e07337613fdb06af751d8ed24413d106c889c19421",
-  "matrix_row_sha256": "9caf1418ff0604635943476e5bd33883f9591196301a896a2c3867b83c8b6fc6",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-da-chuyen-coc-giu-xe-online-den-nhan-xe-co-phai-coc-them-khong-hoi-ro-coc-hai-bu.md",
+  "content_sha256": "721bc4ec76497a2b82c6b710a5870ae8e025e652107ad7c98ed4e00c3c6193fa",
+  "matrix_row_sha256": "a099f48f8fe1bad7af8a09e60a417e0d010d5b94b5fa6e215e6108401da8d2df",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T11:01:49+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03697",
   "title": "Thuê xe đi tỉnh nhiều ngày: chọn giấy tờ để lại tiệm, giữ lại giấy nào để nhận phòng và đi đường",
-  "scored_at": "2026-10-15T10:59:53+00:00",
+  "scored_at": "2026-10-15T11:02:08+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": false,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": false,
     "links_parent_hub": false,
     "links_count": false,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1066,
+  "word_count": 1071,
   "word_target": 1300,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 85,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-thue-xe-di-tinh-nhieu-ngay-chon-giay-to-de-lai-tiem-giu-lai-giay-nao-de-nhan-pho.md",
-  "content_sha256": "f4a99edb2bd6e46b88ff3985291df029a7d0d059c5bf0a1dafab506f860d5306",
-  "matrix_row_sha256": "fbda23b3107ae6e78a48b8ab29fdbf466a667eab26a20c836c9b1230e185dd88",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-thue-xe-di-tinh-nhieu-ngay-chon-giay-to-de-lai-tiem-giu-lai-giay-nao-de-nhan-pho.md",
+  "content_sha256": "7262b4759961708b44093a4667d40f87628121e0a3a1ccfe2c0992542f04e722",
+  "matrix_row_sha256": "5288b93a8c6dd942dc6d87ef1dbf64ac1f14d1948b93745528ea8b5b25b7707c",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T11:02:12+00:00"
 }

@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03691",
   "title": "Giữ chỗ xe máy thuê ở nhiều tiệm cùng lúc mùa đông khách: vì sao dễ mất cọc và nên làm gì",
-  "scored_at": "2026-10-15T10:59:00+00:00",
+  "scored_at": "2026-10-15T11:01:52+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": false,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": false,
     "links_parent_hub": false,
     "links_count": false,
@@ -24,7 +24,7 @@
     "duplicate_title": true,
     "duplicate_slug": true,
     "intent_unique": true,
-    "intent_opening": false,
+    "intent_opening": true,
     "hanoi_example": true,
     "reads_naturally_proxy": false,
     "no_placeholder": true,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1072,
+  "word_count": 1039,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -41,14 +41,15 @@
   "intent_unique_clash": [],
   "non_approved_amounts": [],
   "forbidden_hits": [],
-  "quality": 55,
-  "seo": 65,
+  "quality": 80,
+  "seo": 85,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-giu-cho-xe-may-thue-o-nhieu-tiem-cung-luc-mua-dong-khach-vi-sao-de-mat-coc-va-ne.md",
-  "content_sha256": "9aeb0bf349afe51b7692aa6a6fa2c92f4ab4ae37b1bcd2d585c744c0f6a8d4ef",
-  "matrix_row_sha256": "19ec9e55d1703301bd47a8c3f0671d328312777e1037469e418e98a29d8f5540",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-giu-cho-xe-may-thue-o-nhieu-tiem-cung-luc-mua-dong-khach-vi-sao-de-mat-coc-va-ne.md",
+  "content_sha256": "8715e6a24c4a71ccb967bab8fc8ad10a934956a86f58ef8008aed0299714ac4d",
+  "matrix_row_sha256": "705c65dae0151133f9ad035a11c0a2ab61ea9e04c00deb0a7f2d289675f39960",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T11:01:56+00:00"
 }

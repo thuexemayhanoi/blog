@@ -1,7 +1,7 @@
 {
   "article_id": "BLG-03695",
   "title": "Thẻ sinh viên, thẻ nhân viên có dùng làm giấy tờ giữ khi thuê xe máy được không: hỏi tiệm gì",
-  "scored_at": "2026-10-15T10:59:12+00:00",
+  "scored_at": "2026-10-15T11:02:07+00:00",
   "scorer": "operator-qa-deterministic-v1",
   "checks": {
     "frontmatter_fields": true,
@@ -14,7 +14,7 @@
     "description_keyword": false,
     "h2_min": true,
     "no_h1_in_body": true,
-    "headings_intent": false,
+    "headings_intent": true,
     "links_matrix_required": false,
     "links_parent_hub": false,
     "links_count": false,
@@ -32,7 +32,7 @@
     "forbidden_claims": true,
     "phone_ok": true
   },
-  "word_count": 1029,
+  "word_count": 1034,
   "word_target": 1200,
   "bad_routes": [],
   "cannibalization_clash": [],
@@ -42,13 +42,14 @@
   "non_approved_amounts": [],
   "forbidden_hits": [],
   "quality": 75,
-  "seo": 65,
+  "seo": 85,
   "business_fact": "PASS",
   "legal": "NOT_REQUIRED",
   "critical_failure": false,
-  "source_path": "_drafts/2026-10-15-the-sinh-vien-the-nhan-vien-co-dung-lam-giay-to-giu-khi-thue-xe-may-duoc-khong-h.md",
-  "content_sha256": "105fffa0f4a273400f62b3988dd84efdc4c12e8c06d0cf399519889a492d7404",
-  "matrix_row_sha256": "ce406a3bf91d76379cb122f17341b26a29443596d2ea0efdfd1dccc72925ccc7",
-  "result": "REPAIR",
-  "grade": "REPAIR"
+  "source_path": "_posts/2026-10-15-the-sinh-vien-the-nhan-vien-co-dung-lam-giay-to-giu-khi-thue-xe-may-duoc-khong-h.md",
+  "content_sha256": "c35ba1448fe99eebdfc595fdaa78d90ee49b5c6c27080da3a23581d56c644e71",
+  "matrix_row_sha256": "42689ab6fd7b76c6485c23016f25831c44d68a93032815280b34d3e845bb872b",
+  "result": "PASS",
+  "grade": "PASS",
+  "published_at": "2026-10-15T11:02:12+00:00"
 }
