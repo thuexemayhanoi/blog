@@ -2,75 +2,76 @@
   "schema_version": "2",
   "mode": "new",
   "queue": [
-    "BLG-03669",
-    "BLG-03670",
-    "BLG-03671",
-    "BLG-03672",
-    "BLG-03673",
-    "BLG-03674",
-    "BLG-03675",
-    "BLG-03676",
-    "BLG-03677",
-    "BLG-03678"
+    "BLG-03689",
+    "BLG-03690",
+    "BLG-03691",
+    "BLG-03692",
+    "BLG-03693",
+    "BLG-03694",
+    "BLG-03695",
+    "BLG-03696",
+    "BLG-03697",
+    "BLG-03698"
   ],
   "pair_size": 2,
-  "started": "2026-10-15T10:48:52Z",
-  "finished": "2026-10-15T10:50:08Z",
+  "started": "2026-10-15T10:58:51Z",
+  "finished": "2026-10-15T10:59:24Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-03669",
-        "BLG-03670"
+        "BLG-03689",
+        "BLG-03690"
       ],
-      "status": "published"
+      "status": "recoverable"
     },
     {
       "pair_index": 2,
       "ids": [
-        "BLG-03671",
-        "BLG-03672"
+        "BLG-03691",
+        "BLG-03692"
       ],
-      "status": "published"
+      "status": "recoverable"
     },
     {
       "pair_index": 3,
       "ids": [
-        "BLG-03673",
-        "BLG-03674"
+        "BLG-03693",
+        "BLG-03694"
       ],
-      "status": "published"
+      "status": "recoverable"
     },
     {
       "pair_index": 4,
       "ids": [
-        "BLG-03675",
-        "BLG-03676"
+        "BLG-03695",
+        "BLG-03696"
       ],
-      "status": "published"
+      "status": "partial"
     },
     {
       "pair_index": 5,
       "ids": [
-        "BLG-03677",
-        "BLG-03678"
+        "BLG-03697",
+        "BLG-03698"
       ],
-      "status": "published"
+      "status": "recoverable"
     }
   ],
   "published": [
-    "BLG-03669",
-    "BLG-03670",
-    "BLG-03671",
-    "BLG-03672",
-    "BLG-03673",
-    "BLG-03674",
-    "BLG-03675",
-    "BLG-03676",
-    "BLG-03677",
-    "BLG-03678"
+    "BLG-03696"
   ],
-  "recoverable": [],
+  "recoverable": [
+    "BLG-03689",
+    "BLG-03690",
+    "BLG-03691",
+    "BLG-03692",
+    "BLG-03693",
+    "BLG-03694",
+    "BLG-03695",
+    "BLG-03697",
+    "BLG-03698"
+  ],
   "deferred": [],
   "fatal": null
 }

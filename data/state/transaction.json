@@ -1,18 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-15T10:50:06+00:00",
+  "updated_at": "2026-10-15T10:59:16+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-03629",
-      "started_at": "2026-10-15T10:18:20+00:00",
-      "source": "_drafts/2026-10-15-ca-nha-chi-co-mot-xe-may-ma-hom-do-ai-cung-can-thue-them-xe-theo-ngay-va-chia-li.md",
-      "destination": "_posts/2026-10-15-ca-nha-chi-co-mot-xe-may-ma-hom-do-ai-cung-can-thue-them-xe-theo-ngay-va-chia-li.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d1e67daaf9cc5952f8b94c9d45ca2e0248902903",
-      "finished_at": "2026-10-15T10:18:20+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-03630",
       "started_at": "2026-10-15T10:18:20+00:00",
@@ -501,6 +491,16 @@
       "result": "PUBLISHED",
       "commit_sha": "19e828f81c429bdd16c9233f5e5e335dc3e2507b",
       "finished_at": "2026-10-15T10:50:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-03696",
+      "started_at": "2026-10-15T10:59:16+00:00",
+      "source": "_drafts/2026-10-15-vua-dat-tien-coc-vua-de-lai-giay-to-goc-khi-thue-xe-hoi-ly-do-va-thoa-thuan-cho.md",
+      "destination": "_posts/2026-10-15-vua-dat-tien-coc-vua-de-lai-giay-to-goc-khi-thue-xe-hoi-ly-do-va-thoa-thuan-cho.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b22d0ec0a16197103b274d399e2602a59cedea95",
+      "finished_at": "2026-10-15T10:59:16+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
