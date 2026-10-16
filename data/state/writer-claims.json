@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-16T13:49:01Z",
+  "updated_at": "2026-10-16T14:01:00Z",
   "leases": {
     "W1": {
       "ids": [
@@ -73,9 +73,9 @@
       "session": "s-mistral-pool-test",
       "epoch": 1,
       "claimed_at": "2026-10-16T13:49:01Z",
-      "heartbeat_at": "2026-10-16T13:49:01Z",
+      "heartbeat_at": "2026-10-16T14:01:00Z",
       "ttl_hours": 12,
-      "expires_at": "2026-10-17T01:49:01Z",
+      "expires_at": "2026-10-17T02:01:00Z",
       "label": "mistral-test"
     }
   }
