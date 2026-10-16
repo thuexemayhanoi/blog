@@ -125,7 +125,10 @@ else:
     _SLOT_LIMIT = 3
 _SLOTS_OVERRIDE = os.environ.get('BLOG_WRITER_SLOTS')
 if _SLOTS_OVERRIDE is not None:
-    _SLOT_LIMIT = int(_SLOTS_OVERRIDE)
+    _ENV_LIMIT = int(_SLOTS_OVERRIDE)
+    if _POOL_CONFIG.is_file() and _ENV_LIMIT > _SLOT_LIMIT:
+        raise ValueError('BLOG_WRITER_SLOTS cannot exceed writer-pool.json max_slots')
+    _SLOT_LIMIT = _ENV_LIMIT
 if not isinstance(_SLOT_LIMIT, int) or not 3 <= _SLOT_LIMIT <= 64:
     raise ValueError('writer pool max_slots must be between 3 and 64')
 MAX_WRITERS = _SLOT_LIMIT
