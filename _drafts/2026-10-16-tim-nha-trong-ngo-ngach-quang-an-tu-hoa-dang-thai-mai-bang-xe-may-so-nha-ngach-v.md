@@ -23,9 +23,9 @@ Bán đảo Quảng An là nơi có rất nhiều căn hộ dịch vụ, homesta
 
 Ở khu này, một con ngõ có thể có hai đầu ra hai phố khác nhau, hoặc một ngõ trên phố này lại thông với ngách của phố kia. Vì vậy, hãy hỏi chủ nhà nên vào từ đầu nào trước khi đi.
 
-## Tên phường đã đổi, tên phố thì không
+## Tên phường đã đổi: tìm theo tên phố và số ngõ
 
-Từ ngày 1/7/2025, Hà Nội sắp xếp lại đơn vị hành chính. Theo nghị quyết của Ủy ban Thường vụ Quốc hội, phần lớn phường Quảng An cũ nay thuộc phường Tây Hồ, một phần được nhập vào phường Hồng Hà. Nhiều địa chỉ cũ vẫn ghi "Quảng An, Tây Hồ", còn địa chỉ mới ghi "phường Tây Hồ". Khi tìm đường, hãy dựa vào tên phố và số ngõ; cách ghi địa chỉ sau khi bỏ cấp quận có ở bài [địa chỉ Hà Nội sau khi bỏ cấp quận](/thue-xe/2026/10/15/dia-chi-ha-noi-sau-khi-bo-cap-quan-ghi-diem-hen-nhan-xe-va-dia-chi-trong-hop-don/ "Địa chỉ Hà Nội sau khi bỏ cấp quận").
+Từ ngày 1/7/2025, Hà Nội sắp xếp lại đơn vị hành chính. Theo nghị quyết của Ủy ban Thường vụ Quốc hội, phần lớn phường Quảng An cũ nay thuộc phường Tây Hồ, một phần được nhập vào phường Hồng Hà. Nhiều địa chỉ cũ vẫn ghi "Quảng An, Tây Hồ", còn địa chỉ mới ghi "phường Tây Hồ". Phần thay đổi nằm ở dòng phường; khi tìm đường, thứ bạn cần nhìn vẫn là tên phố, số ngõ, số ngách; cách ghi địa chỉ sau khi bỏ cấp quận có ở bài [địa chỉ Hà Nội sau khi bỏ cấp quận](/thue-xe/2026/10/15/dia-chi-ha-noi-sau-khi-bo-cap-quan-ghi-diem-hen-nhan-xe-va-dia-chi-trong-hop-don/ "Địa chỉ Hà Nội sau khi bỏ cấp quận").
 
 ## Ba phố, ba kiểu ngõ cần biết
 
@@ -44,7 +44,7 @@ Từ ngày 1/7/2025, Hà Nội sắp xếp lại đơn vị hành chính. Theo n
 
 ## Đi trong ngõ: chậm, nhìn số nhà, đừng bấm còi inh ỏi
 
-Vào ngõ, giảm tốc thật chậm, đi sát bên phải, nhường xe đi ngược chiều ở chỗ hẹp. Đừng vừa chạy vừa cúi xem điện thoại; muốn xem bản đồ, tấp hẳn vào chỗ không chắn lối rồi mới nhìn. Số nhà thường chẵn một bên, lẻ một bên; nếu số đang giảm dần, bạn đang đi ngược hướng.
+Vào ngõ, giảm tốc thật chậm, đi sát bên phải, nhường xe đi ngược chiều ở chỗ hẹp. Đừng vừa chạy vừa cúi xem điện thoại; muốn xem bản đồ, tấp hẳn vào chỗ không chắn lối rồi mới nhìn. Theo Thông tư 08/2024/TT-BXD về đánh số nhà, số lẻ ở bên trái, số chẵn ở bên phải theo hướng đánh số; nếu số đang giảm dần, bạn đang đi ngược hướng. Nhà xây chen giữa thường mang số có chữ phía sau như 20A, 20B.
 
 Ngõ ở đây nhiều nhà ở, có trẻ con và người già đi bộ. Theo Luật Trật tự, an toàn giao thông đường bộ năm 2024, từ 22 giờ tới 5 giờ sáng không được bấm còi trong khu đông dân cư; về khuya, đi chậm và báo hiệu bằng đèn.
 
@@ -56,7 +56,7 @@ Dấu hiệu ngõ cụt: thấy mép nước, tường rào kín hay cổng sắ
 2. Tắt máy nếu phải dắt lùi, tay giữ phanh.
 3. Quay đầu từng chút, nhìn kỹ hai bên, tránh chạm xe dựng trước cửa nhà dân.
 
-Ngõ ra mép hồ thường không có lan can chắc chắn, nên đừng tiến sát mép nước để quay đầu, nhất là buổi tối. Kỹ thuật quay đầu trong ngõ hẹp có ở bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung/ "Quay đầu xe máy trong ngõ cụt"), còn cách dắt xe vào homestay có ở bài [homestay trong ngõ nhỏ Hà Nội](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-au-an-toan/ "Homestay trong ngõ nhỏ Hà Nội: dắt xe máy vào ngõ").
+Với ngõ dừng ở mép hồ, đừng tiến sát mép nước để quay đầu, nhất là buổi tối khi khó nhìn rõ mép kè. Kỹ thuật quay đầu trong ngõ hẹp có ở bài [quay đầu xe máy trong ngõ cụt](/ky-nang/2026/10/10/quay-au-xe-may-trong-ngo-cut-ky-nang-it-nguoi-lam-ung/ "Quay đầu xe máy trong ngõ cụt"), còn cách dắt xe vào homestay có ở bài [homestay trong ngõ nhỏ Hà Nội](/thue-xe/2026/10/11/homestay-trong-ngo-nho-ha-noi-dat-xe-may-vao-ngo-va-quay-au-an-toan/ "Homestay trong ngõ nhỏ Hà Nội: dắt xe máy vào ngõ").
 
 ## Khi đã lạc: hỏi ai, hỏi thế nào
 

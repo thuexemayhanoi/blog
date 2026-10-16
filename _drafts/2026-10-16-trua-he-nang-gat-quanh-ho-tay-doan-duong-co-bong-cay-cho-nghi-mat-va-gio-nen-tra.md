@@ -21,11 +21,13 @@ Hồ Tây trưa hè nắng nóng khác hẳn những buổi sáng sớm mát m�
 
 Trong phố, nhà cao và hàng cây che bớt nắng. Ven hồ, mặt nước rộng phản chiếu ánh nắng lên mặt, nhiều đoạn đường chạy sát nước gần như không có bóng râm, nên vừa chói vừa nóng. Ngồi trên xe máy, bạn còn hứng thêm hơi nóng từ mặt đường và từ động cơ.
 
-Theo quy định về cảnh báo thiên tai, ngày có nhiệt độ cao nhất từ 35°C trở lên được gọi là nắng nóng, từ 37°C là nắng nóng gay gắt, từ 39°C là nắng nóng đặc biệt gay gắt. Những ngày cơ quan khí tượng báo nắng nóng gay gắt, hãy coi buổi trưa là lúc nghỉ, không phải lúc dạo hồ.
+Theo Quyết định 18/2021/QĐ-TTg, nắng nóng là khi nhiệt độ không khí cao nhất trong ngày vượt quá 35°C. Trong bản tin dự báo, mức khoảng 37 tới 39°C được gọi là nắng nóng gay gắt, từ 39°C trở lên là đặc biệt gay gắt.
+
+Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, các tháng nắng nóng cao điểm ở miền Bắc là tháng 5 tới tháng 8, và nhiệt độ trên 35°C thường rơi vào khoảng 12 giờ tới 16 giờ. Cơ quan khí tượng cũng lưu ý nhiệt độ cảm nhận ngoài trời, nhất là trên mặt đường nhựa, có thể cao hơn số liệu dự báo từ 2 tới 4°C. Ngày 4/6/2017, Hà Đông ghi nhận 42,5°C, mức cao nhất từng đo được ở Hà Nội.
 
 ## Đoạn có bóng cây và đoạn trống nắng
 
-**Những phố có hàng cây lớn.** Đường Thanh Niên và phố Thụy Khuê có nhiều cây cổ thụ ven đường; các bài báo về giông bão những năm qua đều nhắc tới cây lớn ở hai tuyến này, cũng như ở Nguyễn Đình Thi, Lạc Long Quân. Đi qua những đoạn đó buổi trưa dễ chịu hơn hẳn.
+**Những phố có hàng cây lớn.** Theo báo Dân trí, đường Thanh Niên có những hàng cây cổ thụ, trong đó có phượng vĩ, cho bóng mát cả buổi trưa. Một số phố quanh hồ khác cũng có cây lớn, nhưng độ râm mát mỗi đoạn mỗi khác, nên hãy quan sát rồi chọn đường. Ngày nghỉ lễ 30/4/2024 trời trên 39°C, báo VOV ghi nhận khu vực Hồ Tây gần như vắng vào ban ngày, chỉ một số người ngồi dưới những gốc cây ven hồ.
 
 **Những đoạn trống nắng.** Các quãng đường ven hồ mới mở rộng, các trục lớn phía tây hồ như Võ Chí Công, và những khoảng ven nước không có nhà, không có cây thường nắng gắt suốt buổi trưa. Nếu phải đi qua, đi một mạch, đừng dừng lại giữa nắng để chụp ảnh.
 
@@ -33,7 +35,7 @@ Gợi ý những điểm có nhiều bóng mát khắp Hà Nội có ở bài [H
 
 ## Giờ nên tránh chạy xe
 
-- **Khoảng giữa trưa tới đầu giờ chiều** là lúc nắng gắt nhất; nếu được, nghỉ trong nhà trong khung giờ này.
+- **Từ khoảng 10 giờ tới 16 giờ** là khung giờ Bộ Y tế khuyến cáo hạn chế ra đường khi nắng nóng gay gắt; nếu được, nghỉ trong nhà lúc này.
 - **Sáng sớm và chiều muộn** là lúc dạo hồ dễ chịu nhất trong mùa hè.
 - **Ngày nắng nóng gay gắt kéo dài**, chia chuyến đi thành chặng ngắn, mỗi chặng chỉ vài cây số rồi nghỉ.
 
@@ -51,9 +53,11 @@ Khi dừng, đỗ xe dưới bóng râm nếu được, che yên bằng khăn đ
 
 - Áo chống nắng sáng màu, găng tay, khẩu trang, kính râm.
 - Bôi kem chống nắng trước khi đi; cách xử lý khi kem chảy vào mắt có ở bài [kem chống nắng chảy vào mắt khi chạy xe](/ky-nang/2026/10/15/kem-chong-nang-chay-vao-mat-khi-chay-xe-ra-mo-hoi-xu-ly-luc-dang-lai-va-cach-boi/ "Kem chống nắng chảy vào mắt khi chạy xe").
-- Mang nước, uống từng ngụm nhỏ thường xuyên, không đợi khát mới uống.
-- Chọn mũ bảo hiểm thoáng, có lót sạch.
-- Không cần đổ đầy bình xăng tới miệng trong ngày nóng; giải thích có ở bài [ngày nắng nóng có nên đổ đầy bình xăng xe máy không](/ky-nang/2026/10/11/ngay-nang-nong-co-nen-do-day-binh-xang-xe-may-khong-su-that-ve-xang-gian-no/ "Ngày nắng nóng có nên đổ đầy bình xăng không").
+- Mang nước, uống từng ngụm nhỏ thường xuyên, không đợi khát mới uống; Bộ Y tế khuyên uống khoảng 1,5 tới 2 lít nước mỗi ngày khi trời nắng nóng.
+- Không đi thẳng từ phòng điều hòa ra nắng gắt; đứng ở chỗ râm một lúc cho cơ thể quen dần.
+- Chọn mũ bảo hiểm thoáng, có lót sạch; che kín vai, gáy, tay và chân.
+
+Không cần đổ đầy bình xăng tới miệng trong ngày nóng; giải thích có ở bài [ngày nắng nóng có nên đổ đầy bình xăng xe máy không](/ky-nang/2026/10/11/ngay-nang-nong-co-nen-do-day-binh-xang-xe-may-khong-su-that-ve-xang-gian-no/ "Ngày nắng nóng có nên đổ đầy bình xăng không").
 
 ## Dấu hiệu say nắng và cách xử lý
 
@@ -63,11 +67,11 @@ Choáng váng, đau đầu, buồn nôn, da nóng đỏ, mệt bất thường l
 
 ### Đi Hồ Tây mùa hè giờ nào là dễ chịu nhất?
 
-Sáng sớm và chiều muộn. Khoảng giữa trưa tới đầu giờ chiều nắng gắt nhất, nên nghỉ trong nhà hoặc trong quán.
+Sáng sớm và chiều muộn. Khi nắng nóng gay gắt, Bộ Y tế khuyến cáo hạn chế ra đường từ khoảng 10 giờ tới 16 giờ.
 
 ### Đoạn nào quanh Hồ Tây có nhiều bóng cây?
 
-Những phố có hàng cây lớn như đường Thanh Niên, phố Thụy Khuê, Nguyễn Đình Thi, Lạc Long Quân dễ chịu hơn các đoạn ven nước mới mở rộng.
+Đường Thanh Niên có hàng cây cổ thụ cho bóng mát cả buổi trưa; các đoạn ven nước mới mở rộng thường trống nắng.
 
 ### Thấy chóng mặt khi đang chạy xe giữa trưa thì làm gì?
 

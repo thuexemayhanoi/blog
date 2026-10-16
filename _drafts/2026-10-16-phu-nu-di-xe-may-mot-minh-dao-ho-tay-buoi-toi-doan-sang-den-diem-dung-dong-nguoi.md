@@ -34,7 +34,7 @@ Ngược lại, những quãng ven hồ ít nhà, ít quán thường tối và 
 - **Lưu sẵn các số khẩn cấp**: 113 công an, 115 cấp cứu, 114 cứu hỏa; lưu cả số của cửa hàng cho thuê xe.
 - **Kiểm tra xe**: đèn trước, đèn sau, phanh và xăng hoặc pin.
 - **Mặc trang phục thoải mái để lái xe**, mang thêm áo khoác mỏng vì gió hồ về đêm khá lạnh.
-- **Dùng túi đeo chéo có khóa kéo**, để ví và giấy tờ sát người.
+- **Mang ít đồ giá trị**, chỉ những thứ thật cần cho buổi tối.
 
 ## Chọn điểm dừng đông người
 
@@ -46,18 +46,20 @@ Khi muốn dừng nghỉ, hãy chọn nơi sáng đèn và có người:
 
 Tránh dừng một mình ở bãi cỏ tối, mép kè vắng hay gốc cây lớn khuất đèn. Nếu ngồi quán, chọn bàn nhìn ra chỗ để xe; cách giữ xe và đồ đạc có ở bài [ngồi quán ven Hồ Tây buổi tối: khóa xe, cất mũ bảo hiểm](/du-lich/2026/10/16/ngoi-quan-ven-ho-tay-buoi-toi-khoa-xe-cat-mu-bao-hiem-va-giu-do-trong-cop-cho-an/ "Ngồi quán ven Hồ Tây buổi tối: giữ xe và đồ đạc"). Không khí dãy quán Xuân Diệu buổi tối có ở bài [chạy xe đường Xuân Diệu buổi tối](/du-lich/2026/10/04/chay-xe-uong-xuan-dieu-buoi-toi-quan-ven-ho-va-gui-xe/ "Chạy xe đường Xuân Diệu buổi tối").
 
-## Giữ đồ khi đang dừng và đang chạy
+## Giữ đồ khi đang chạy và khi đã gửi xe
 
-- Không để điện thoại trên mép bàn sát lòng đường, không cầm điện thoại khi đang lái.
-- Không treo túi xách ở móc xe hay tay lái.
-- Công an TP Hà Nội khuyến cáo gửi xe ở nơi có người trông giữ và không để vật dụng có giá trị, giấy tờ quan trọng trong cốp xe.
+**Khi đang chạy:** theo Trưởng phòng Cảnh sát hình sự Công an TP Hà Nội, nên cất ví, điện thoại, túi xách vào cốp xe trước khi xuất phát, tuyệt đối không treo túi ở tay lái, giỏ xe hay đeo chéo khi đang lái. Không nghe điện thoại ở chỗ tối, vắng; muốn nghe máy, tấp vào nơi có người.
+
+**Khi đã gửi xe và rời xe:** mang ví, điện thoại, giấy tờ theo người, không để lại trong cốp. Công an TP Hà Nội cũng khuyến cáo gửi xe ở nơi có người trông giữ. Ngồi quán thì không để điện thoại trên mép bàn sát lòng đường.
 
 ## Nếu thấy có người bám theo hoặc làm phiền
 
-- **Đừng dừng lại tranh cãi.** Đi tiếp tới chỗ đông người, sáng đèn, rồi vào một quán hay cửa hàng.
+- **Đừng dừng lại tranh cãi.** Theo khuyến cáo của công an, hãy chạy tới khu đông người, trụ sở cơ quan hoặc cửa hàng gần nhất.
 - **Đừng về thẳng chỗ ở** nếu nghĩ mình đang bị bám theo; tới nơi đông người trước và gọi người thân.
-- **Gọi 113** nếu thấy bị đe dọa. Nếu an toàn, ghi nhớ biển số và đặc điểm xe của người kia.
+- **Gọi 113** nếu thấy bị đe dọa. Nếu bị giật đồ, giữ bình tĩnh, hô hoán, ghi nhớ đặc điểm người, loại xe, màu xe, biển số, hướng chạy rồi tới ngay cơ quan công an gần nhất.
 - **Nhờ người xung quanh giúp**: chủ quán, bảo vệ tòa nhà, người bán hàng.
+
+Công an cũng khuyên phụ nữ không nên đi một mình bằng xe máy ban đêm trên những tuyến đường vắng, thiếu ánh sáng; nếu buộc phải đi, chọn đường chính sáng đèn và đông người.
 
 ## Giờ nên về
 
