@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-051: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-16",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-001",
+   "child_id": "C-XE-DIEN",
+   "title": "Bóp nhẹ tay phanh là xe máy điện mất ga: công tắc ngắt động cơ ở tay phanh hoạt động thế nào",
+   "intent": "Hiểu vì sao xe máy điện thuê tự cắt lực kéo khi tay phanh bị chạm nhẹ, cách bỏ thói quen đặt ngón tay lên tay phanh và cách nhận biết công tắc phanh bị kẹt.",
+   "kw": "xe điện mất ga khi bóp phanh",
+   "kw2": [
+    "công tắc ngắt điện tay phanh",
+    "xe điện chạm phanh mất ga"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người quen xe xăng mới lái xe máy điện thuê",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-002",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện tự chạy hoặc tự giữ ga: phân biệt chế độ ga tự động với lỗi tay ga và cách dừng xe an toàn",
+   "intent": "Biết cách nhận ra xe máy điện thuê đang vào chế độ giữ ga tự động hay bị lỗi tay ga, thao tác dừng xe và ngắt nguồn an toàn rồi báo chủ xe đúng triệu chứng.",
+   "kw": "xe máy điện tự chạy",
+   "kw2": [
+    "xe máy điện tự giữ ga",
+    "lỗi tay ga xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê xe máy điện đi phố đông",
+   "location_scope": "các tuyến phố đông xe ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-003",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện cạn pin có mở được cốp và khóa cổ không: hỏi chủ xe cách mở dự phòng trước khi đi",
+   "intent": "Nắm được những bộ phận trên xe máy điện thuê phụ thuộc vào điện như cốp, khóa cổ, khóa điện tử và chuẩn bị cách mở dự phòng để không kẹt đồ khi pin cạn.",
+   "kw": "xe máy điện hết pin mở cốp",
+   "kw2": [
+    "mở cốp xe điện khi hết pin",
+    "khóa cổ xe máy điện hết pin"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê để giấy tờ, đồ cá nhân trong cốp xe máy điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-004",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện kêu bíp liên tục khi đang chạy: cảnh báo pin, nhiệt độ, chân chống hay xi nhan quên tắt",
+   "intent": "Hiểu ý nghĩa các tiếng bíp cảnh báo thường gặp trên xe máy điện thuê, biết dừng xe kiểm tra theo thứ tự và phân biệt cảnh báo nhắc nhở với cảnh báo cần báo chủ xe.",
+   "kw": "xe máy điện kêu bíp liên tục",
+   "kw2": [
+    "tiếng bíp cảnh báo xe điện",
+    "xe điện kêu bíp khi đang chạy"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người mới thuê xe máy điện lần đầu",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-005",
+   "child_id": "C-XE-DIEN",
+   "title": "Chạm vào khung xe máy điện thấy tê tay: dấu hiệu rò điện, khi nào dừng dùng và báo chủ xe",
+   "intent": "Hiểu các dấu hiệu rò điện trên xe máy điện thuê khi đang sạc hoặc vừa đi mưa, biết rút sạc và ngắt nguồn an toàn, không tự sửa và báo chủ xe kịp thời.",
+   "kw": "xe máy điện bị rò điện",
+   "kw2": [
+    "tê tay khi chạm xe điện",
+    "xe điện giật điện khi sạc"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê xe máy điện sạc tại nhà trọ, khách sạn",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-006",
+   "child_id": "C-XE-DIEN",
+   "title": "Lắp pin rời trở lại xe máy điện sau khi sạc: nghe tiếng chốt, kiểm tra giắc và nhận biết pin lắp chưa khít",
+   "intent": "Biết cách lắp lại pin rời vào khay xe máy điện thuê đúng chiều, khóa chốt chắc chắn và nhận ra dấu hiệu pin lỏng gây mất nguồn chập chờn khi qua ổ gà.",
+   "kw": "lắp pin xe máy điện",
+   "kw2": [
+    "lắp pin rời vào khay xe điện",
+    "xe điện mất nguồn khi qua ổ gà"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê xe máy điện pin tháo rời mang pin đi sạc",
+   "location_scope": "nhà trọ, chung cư ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-007",
+   "child_id": "C-XE-DIEN",
+   "title": "Lỡ làm rơi pin rời của xe máy điện thuê xuống sàn: kiểm tra gì trước khi lắp lại và khi nào ngừng dùng",
+   "intent": "Nắm được cách đánh giá pin xe máy điện thuê sau khi bị rơi, các dấu hiệu móp vỏ, nóng hoặc có mùi cần ngừng sạc và cách báo chủ xe kèm ảnh chụp.",
+   "kw": "làm rơi pin xe máy điện",
+   "kw2": [
+    "pin xe điện bị rơi có sao không",
+    "pin xe điện móp vỏ"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê tự xách pin xe máy điện lên xuống cầu thang",
+   "location_scope": "nhà trọ, nhà ống ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-008",
+   "child_id": "C-XE-DIEN",
+   "title": "Tay lái xe máy điện rung hoặc lắc khi chạy nhanh: kiểm tra lốp, bánh xe và khi nào phải giảm tốc ngay",
+   "intent": "Hiểu nguyên nhân thường gặp khiến tay lái xe máy điện thuê rung lắc ở tốc độ cao, biết các bước tự kiểm tra an toàn bên đường và thời điểm cần dừng xe gọi chủ xe.",
+   "kw": "tay lái xe máy điện bị rung",
+   "kw2": [
+    "xe máy điện lắc tay lái",
+    "xe điện rung khi chạy nhanh"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê xe máy điện đi các trục đường lớn",
+   "location_scope": "đường vành đai, trục hướng tâm Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-009",
+   "child_id": "C-XE-DIEN",
+   "title": "Vào cua và đi vòng xuyến bằng xe máy điện thuê: nhả ga trước khi nghiêng xe vì lực kéo đến tức thì",
+   "intent": "Biết cách giảm tốc trước khúc cua, giữ ga đều trong vòng xuyến và tránh vặn ga đột ngột khi xe đang nghiêng để xe máy điện thuê không bị trượt hay văng đuôi.",
+   "kw": "xe máy điện vào cua",
+   "kw2": [
+    "đi vòng xuyến bằng xe điện",
+    "xe điện vặn ga khi ôm cua"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người quen xe xăng chuyển sang lái xe máy điện thuê",
+   "location_scope": "các nút giao, vòng xuyến ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-010",
+   "child_id": "C-XE-DIEN",
+   "title": "Nhích chậm trong dòng xe kẹt bằng xe máy điện thuê: giữ thăng bằng, nhả ga mượt và tránh chống chân liên tục",
+   "intent": "Biết cách điều khiển xe máy điện thuê ở tốc độ rất thấp trong dòng xe ùn tắc, kiểm soát tay ga nhạy, giữ khoảng cách và đỡ mỏi chân khi phải dừng đi liên tục.",
+   "kw": "đi xe máy điện khi tắc đường",
+   "kw2": [
+    "nhích xe máy điện giờ cao điểm",
+    "giữ thăng bằng xe điện đi chậm"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người đi làm bằng xe máy điện thuê giờ cao điểm",
+   "location_scope": "các nút ùn tắc nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-011",
+   "child_id": "C-XE-DIEN",
+   "title": "Người cao to, nặng cân thuê xe máy điện: chọn công suất động cơ, độ dài yên và giảm xóc cho vừa người",
+   "intent": "Lên kế hoạch chọn mẫu xe máy điện thuê phù hợp vóc dáng lớn, hỏi chủ xe về công suất, tải trọng và chiều dài yên để xe không đuối và người lái không gò bó.",
+   "kw": "xe máy điện cho người nặng cân",
+   "kw2": [
+    "xe máy điện cho người cao to",
+    "tải trọng xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người cao trên trung bình hoặc nặng cân thuê xe máy điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-012",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện dáng tay ga hay dáng xe số: chọn kiểu nào khi thuê để đi phố, chở đồ và đi quãng xa hơn",
+   "intent": "Hiểu khác biệt giữa xe máy điện kiểu tay ga sàn phẳng và kiểu dáng xe số về chỗ để đồ, tư thế ngồi, cỡ bánh để chọn đúng loại khi hỏi thuê theo nhu cầu.",
+   "kw": "kiểu dáng xe máy điện",
+   "kw2": [
+    "xe máy điện dáng xe số",
+    "xe máy điện sàn để chân phẳng"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người lần đầu chọn loại xe máy điện để thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-013",
+   "child_id": "C-XE-DIEN",
+   "title": "Trước khi bão vào Hà Nội: sạc đầy xe máy điện thuê, rút sạc khi mất điện và cất pin rời ở chỗ khô, cao",
+   "intent": "Lên kế hoạch chuẩn bị xe máy điện thuê trước bão với mức pin dự trữ, cách rút sạc khi điện chập chờn, chỗ cất xe và pin tránh nước tràn để đi lại được sau bão.",
+   "kw": "xe máy điện khi có bão",
+   "kw2": [
+    "chuẩn bị xe điện trước bão",
+    "sạc xe điện khi mưa bão"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người đang thuê xe máy điện dài ngày",
+   "location_scope": "Hà Nội trong mùa mưa bão",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-014",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện thuê bị ngâm nước khi hầm gửi xe ngập: không bật nguồn, không cắm sạc và báo chủ xe những gì",
+   "intent": "Biết cách xử lý an toàn khi xe máy điện thuê bị ngập trong hầm gửi xe, các việc tuyệt đối không làm, cách ghi nhận mực nước và thông tin cần báo chủ xe.",
+   "kw": "xe máy điện bị ngâm nước",
+   "kw2": [
+    "hầm gửi xe ngập xe điện",
+    "xe điện ngập nước có sạc được không"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê gửi xe máy điện ở hầm chung cư, tòa nhà",
+   "location_scope": "các khu chung cư có hầm ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-015",
+   "child_id": "C-XE-DIEN",
+   "title": "Ba ngày ở Hà Nội với một xe máy điện thuê: chia cụm điểm tham quan theo ngày và lịch sạc mỗi tối",
+   "intent": "Lên kế hoạch lịch trình ba ngày khám phá Hà Nội bằng một xe máy điện thuê, gom điểm đến gần nhau trong ngày và sắp xếp sạc tại chỗ nghỉ mỗi tối.",
+   "kw": "lịch trình 3 ngày bằng xe điện",
+   "kw2": [
+    "du lịch hà nội bằng xe máy điện",
+    "lịch sạc xe điện nhiều ngày"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "khách du lịch tự túc ở Hà Nội từ hai đến ba ngày",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-016",
+   "child_id": "C-XE-DIEN",
+   "title": "Đi làng hoa Tây Tựu bằng xe máy điện thuê: đường làng hẹp, chỗ dừng chụp ảnh và tính pin từ nội thành",
+   "intent": "Lên kế hoạch đi ngắm và chụp ảnh ở làng hoa Tây Tựu bằng xe máy điện thuê, tính pin khứ hồi, chọn chỗ dừng không cản đường và tôn trọng vườn hoa của người dân.",
+   "kw": "đi làng hoa tây tựu xe điện",
+   "kw2": [
+    "chụp ảnh làng hoa tây tựu",
+    "tây tựu bằng xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thích chụp ảnh, nhóm bạn đi chơi cuối tuần",
+   "location_scope": "Tây Tựu, phía tây bắc Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-017",
+   "child_id": "C-XE-DIEN",
+   "title": "Đi chùa Thầy, chùa Tây Phương bằng xe máy điện thuê: tính quãng khứ hồi và phương án khi pin xuống thấp",
+   "intent": "Lên kế hoạch chuyến đi chùa Thầy và chùa Tây Phương trong ngày bằng xe máy điện thuê, ước lượng quãng đường khứ hồi, giữ pin dự phòng và chuẩn bị phương án khi pin xuống thấp.",
+   "kw": "đi chùa thầy bằng xe máy điện",
+   "kw2": [
+    "xe điện đi chùa tây phương",
+    "quãng đường chùa thầy hà nội"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "khách đi lễ chùa, nhóm bạn đi chơi ngoại thành trong ngày",
+   "location_scope": "Quốc Oai, Thạch Thất (Hà Nội)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-018",
+   "child_id": "C-XE-DIEN",
+   "title": "Sạc bổ sung ngắn lúc nghỉ trưa hoặc ngồi cà phê: xe máy điện thuê thêm được bao nhiêu quãng đường",
+   "intent": "Hiểu cách tận dụng các lần cắm sạc ngắn giữa ngày cho xe máy điện thuê, ước lượng phần pin nạp thêm theo thời gian và xếp giờ nghỉ hợp với lộ trình buổi chiều.",
+   "kw": "sạc bổ sung xe máy điện",
+   "kw2": [
+    "sạc xe điện giữa ngày",
+    "sạc xe điện 30 phút được bao nhiêu km"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người dùng xe máy điện thuê đi lại cả ngày",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-019",
+   "child_id": "C-XE-DIEN",
+   "title": "Ổ cắm hẹn giờ tự ngắt khi sạc xe máy điện thuê qua đêm: loại nào chịu được tải và khi nào không nên dùng",
+   "intent": "Biết cách chọn và dùng ổ cắm hẹn giờ cơ hoặc điện tử cho bộ sạc xe máy điện thuê, kiểm tra công suất chịu tải và nhận ra trường hợp hẹn giờ không thay được việc trông sạc.",
+   "kw": "ổ cắm hẹn giờ sạc xe điện",
+   "kw2": [
+    "hẹn giờ ngắt sạc xe máy điện",
+    "ổ hẹn giờ cho bộ sạc"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người sạc xe máy điện thuê qua đêm ở nhà trọ, căn hộ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-020",
+   "child_id": "C-XE-DIEN",
+   "title": "Bộ sạc xe máy điện kêu rè, có tiếng quạt hoặc nóng ấm khi sạc: mức nào bình thường, mức nào phải rút ngay",
+   "intent": "Hiểu các âm thanh và mức nóng thông thường của bộ sạc xe máy điện thuê khi đang sạc, phân biệt với dấu hiệu bất thường cần rút điện ngay và báo chủ xe đổi bộ sạc.",
+   "kw": "bộ sạc xe máy điện kêu",
+   "kw2": [
+    "bộ sạc xe điện bị nóng",
+    "tiếng quạt bộ sạc xe điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người tự sạc xe máy điện thuê tại chỗ ở",
+   "location_scope": "nhà trọ, căn hộ ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-021",
+   "child_id": "C-XE-DIEN",
+   "title": "Chung cư, tòa văn phòng không cho xe máy điện xuống hầm hoặc cấm sạc: tìm chỗ gửi và chỗ sạc thay thế",
+   "intent": "Lên kế hoạch khi nơi ở hoặc nơi làm việc hạn chế xe máy điện thuê, tìm bãi gửi xe khác gần đó, sắp giờ sạc ở nơi được phép và tuân thủ quy định ban quản lý.",
+   "kw": "tòa nhà cấm xe điện xuống hầm",
+   "kw2": [
+    "chung cư cấm sạc xe điện",
+    "chỗ gửi xe máy điện thay thế"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "nhân viên văn phòng và cư dân chung cư thuê xe máy điện",
+   "location_scope": "các quận nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-022",
+   "child_id": "C-XE-DIEN",
+   "title": "Cả nhóm thuê xe máy điện ở chung một chỗ nghỉ: xếp lượt sạc, không cắm dồn một ổ và chia lịch trình theo pin",
+   "intent": "Lên kế hoạch sạc cho nhiều xe máy điện thuê cùng lúc tại homestay hoặc khách sạn, chia lượt sạc theo ổ điện an toàn và xếp lịch trình chung theo xe có pin thấp nhất.",
+   "kw": "nhóm thuê nhiều xe máy điện",
+   "kw2": [
+    "sạc nhiều xe điện cùng lúc",
+    "đi nhóm toàn xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "nhóm bạn, gia đình đi du lịch cùng thuê xe máy điện",
+   "location_scope": "homestay, khách sạn ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-023",
+   "child_id": "C-XE-DIEN",
+   "title": "Trụ sạc ô tô điện có sạc được xe máy điện thuê không: phân biệt cổng sạc và loại trụ dành cho xe máy",
+   "intent": "Hiểu sự khác nhau giữa trụ sạc ô tô điện và điểm sạc dành cho xe máy điện, biết nhận dạng cổng sạc phù hợp và hỏi chủ xe nơi sạc đúng loại trước khi đi.",
+   "kw": "trụ sạc ô tô sạc xe điện",
+   "kw2": [
+    "cổng sạc xe máy điện",
+    "điểm sạc dành cho xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê xe máy điện tìm chỗ sạc ngoài đường",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-024",
+   "child_id": "C-XE-DIEN",
+   "title": "Pin LFP và pin NMC trên xe máy điện: khác nhau về độ bền, quãng đường và thói quen sạc người thuê nên biết",
+   "intent": "Hiểu đặc điểm hai loại pin lithium phổ biến trên xe máy điện, ảnh hưởng của chúng tới quãng đường, độ bền khi sạc nhiều và cách hỏi chủ xe xe đang dùng loại pin nào.",
+   "kw": "pin lfp và nmc xe máy điện",
+   "kw2": [
+    "pin lithium sắt photphat xe điện",
+    "loại pin xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "người thuê muốn hiểu kỹ về pin xe máy điện",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-051-025",
+   "child_id": "C-XE-DIEN",
+   "title": "Nhà có trẻ nhỏ khi sạc xe máy điện thuê: để xe, pin rời và dây sạc ngoài tầm với, tắt nguồn khi bé trèo lên xe",
+   "intent": "Biết cách bố trí chỗ để và chỗ sạc xe máy điện thuê trong nhà có trẻ nhỏ, cất pin rời và dây sạc an toàn, khóa nguồn để bé không vặn ga khi trèo lên xe.",
+   "kw": "trẻ nhỏ và xe máy điện sạc",
+   "kw2": [
+    "an toàn sạc xe điện có trẻ em",
+    "trẻ nghịch xe máy điện"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-051",
+   "audience": "gia đình có con nhỏ thuê xe máy điện",
+   "location_scope": "nhà ống, căn hộ ở Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}

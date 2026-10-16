@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-050: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-16",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-001",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Xe thuê gắn sẵn bao tay lái chống nắng, chống rét: thử bóp phanh, vặn ga và bấm công tắc trước khi nhận",
+   "intent": "Biết cách kiểm tra bao tay lái gắn sẵn trên xe thuê để chắc bao không vướng tay phanh, tay ga hay công tắc đèn còi trước khi rời cửa hàng và ghi tình trạng bao vào biên bản.",
+   "kw": "bao tay lái xe máy thuê",
+   "kw2": [
+    "bao tay xe máy chống rét",
+    "bao tay chống nắng xe ga"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe máy mùa đông và mùa hè ở Hà Nội",
+   "location_scope": "nội thành Hà Nội, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-002",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Vết sơn dặm, ốc khác màu và nhựa dán keo trên xe thuê: dấu sửa cũ nên hỏi và ghi vào biên bản khi nhận",
+   "intent": "Nhận ra những dấu hiệu xe thuê từng được sửa như sơn dặm, ốc thay khác màu hay ốp nhựa dán keo, rồi hỏi nhân viên và ghi đúng vào biên bản để không bị nhầm là hư hỏng mới.",
+   "kw": "dấu sửa chữa cũ trên xe thuê",
+   "kw2": [
+    "vết sơn dặm xe máy",
+    "xe máy từng sửa dàn áo"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe kỹ tính muốn hồ sơ bàn giao rõ ràng",
+   "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-003",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Cửa hàng mượn xe để thay nhớt, thay lốp giữa kỳ thuê tháng: nhận lại thì kiểm phần vừa làm và ghi chú gì",
+   "intent": "Lên kế hoạch bàn giao tạm khi cửa hàng đưa xe đang thuê tháng đi bảo dưỡng giữa kỳ, gồm ghi km, chụp ảnh trước sau và thử lại đúng bộ phận vừa thay khi nhận xe về.",
+   "kw": "nhận lại xe thuê sau bảo dưỡng",
+   "kw2": [
+    "bảo dưỡng xe giữa kỳ thuê tháng",
+    "giao lại xe thuê sau thay nhớt"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe máy theo tháng đi làm hằng ngày",
+   "location_scope": "Long Biên, Gia Lâm và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-004",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Lỡ sửa tạm xe thuê bằng băng keo, dây thít dọc đường: để nguyên chỗ sửa và kể rõ khi trả xe",
+   "intent": "Biết cách xử lý những chỗ đã buộc hay dán tạm trên xe thuê sau va quệt hoặc rung lỏng dọc đường, giữ nguyên hiện trạng, chụp ảnh và trình bày trung thực với cửa hàng lúc trả xe.",
+   "kw": "sửa tạm xe thuê bằng băng keo",
+   "kw2": [
+    "dây thít buộc tạm ốp xe máy",
+    "báo sửa tạm khi trả xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách đi xa hoặc phượt ngoại thành bằng xe thuê",
+   "location_scope": "ngoại thành Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-005",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Đến giờ hẹn mà xe thuê chưa sẵn sàng vì đang rửa, đổ xăng hay chờ khách trước trả: chờ thế nào cho hợp lý",
+   "intent": "Biết nên làm gì khi đến cửa hàng đúng giờ hẹn nhưng xe chưa giao được ngay, từ hỏi thời gian chờ, tận dụng lúc chờ để chuẩn bị giấy tờ đến xác nhận lại xe sẽ nhận.",
+   "kw": "xe thuê chưa sẵn sàng",
+   "kw2": [
+    "chờ nhận xe máy thuê",
+    "đến nhận xe phải chờ"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách du lịch và người đi công tác có lịch trình sát",
+   "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-006",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Điện thoại hết pin hoặc đầy bộ nhớ đúng lúc nhận xe thuê: ghi lại tình trạng xe bằng cách nào",
+   "intent": "Biết các cách thay thế để vẫn có bằng chứng tình trạng xe khi điện thoại không chụp được lúc nhận, như nhờ nhân viên chụp gửi qua tin nhắn, ghi tay vào biên bản hoặc sạc nhanh tại chỗ.",
+   "kw": "hết pin khi nhận xe thuê",
+   "kw2": [
+    "không chụp được ảnh khi nhận xe",
+    "ghi tình trạng xe thuê không có ảnh"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách vừa xuống máy bay hoặc xe khách đêm đến nhận xe",
+   "location_scope": "cửa hàng ở Bồ Đề và các điểm giao xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-007",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Xe thuê thủng lốp hoặc chết máy ngay trên đường đi trả, cách cửa hàng không xa: dắt đến, vá hay gọi nhân viên",
+   "intent": "Lên phương án khi xe thuê gặp sự cố trên đoạn đường cuối về cửa hàng trả xe, cân nhắc dắt bộ, vá gần đó hay gọi cửa hàng và báo lại giờ trả để không lỡ chuyến tiếp theo.",
+   "kw": "xe thuê hỏng trên đường đi trả",
+   "kw2": [
+    "thủng lốp trên đường trả xe",
+    "chết máy gần cửa hàng thuê xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách sắp kết thúc kỳ thuê và có giờ bay hoặc giờ xe cố định",
+   "location_scope": "Long Biên, Bồ Đề và các cầu qua sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-008",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Bật ngày giờ và vị trí trong ảnh điện thoại trước khi nhận xe thuê: mỗi ảnh bàn giao tự có dấu thời gian",
+   "intent": "Biết cách bật thông tin ngày giờ và vị trí lưu kèm ảnh trên điện thoại Android hoặc iPhone, xem lại thông tin đó trong thư viện ảnh và dùng khi cần đối chiếu tình trạng xe lúc trả.",
+   "kw": "ảnh chụp xe thuê có ngày giờ",
+   "kw2": [
+    "bật vị trí trong ảnh điện thoại",
+    "dấu thời gian ảnh chụp xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê muốn lưu bằng chứng bàn giao chắc chắn",
+   "location_scope": "áp dụng mọi điểm nhận xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-009",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Trả xe đạp điện thuê: mức pin, bộ sạc, giỏ xe, xích và bàn đạp cần bàn giao lại thế nào",
+   "intent": "Nắm danh sách những gì cần soát và bàn giao khi trả xe đạp điện thuê, từ mức pin, bộ sạc đến giỏ, xích, bàn đạp và đèn, để kết thúc kỳ thuê gọn gàng không phát sinh tranh luận.",
+   "kw": "trả xe đạp điện thuê",
+   "kw2": [
+    "bàn giao xe đạp điện khi trả",
+    "trả sạc xe đạp điện thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "học sinh, sinh viên và người lớn tuổi thuê xe đạp điện",
+   "location_scope": "Long Biên và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-010",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Đi nhận xe thuê có con nhỏ đi cùng: giữ bé ở đâu trong lúc kiểm xe, chạy thử và ký biên bản",
+   "intent": "Lên kế hoạch cho buổi nhận xe khi mang theo trẻ nhỏ, phân công người trông bé, chọn chỗ đứng an toàn tránh lối xe ra vào và vẫn kiểm tra, chạy thử xe đủ bước trước khi ký nhận.",
+   "kw": "nhận xe thuê đi cùng con nhỏ",
+   "kw2": [
+    "mang trẻ nhỏ đi nhận xe máy",
+    "gia đình có trẻ nhỏ nhận xe thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "gia đình du lịch Hà Nội có con nhỏ",
+   "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-011",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Ngại kiểm tra kỹ vì nhân viên đang bận hoặc giục ký: cách đề nghị đủ thời gian soát xe một cách lịch sự",
+   "intent": "Biết cách nói chuyện khéo léo để xin thêm vài phút kiểm tra xe khi cửa hàng đông khách hoặc nhân viên muốn làm nhanh, giữ không khí thoải mái mà vẫn không bỏ bước soát xe quan trọng.",
+   "kw": "ngại kiểm tra xe khi nhận",
+   "kw2": [
+    "nhân viên giục ký nhận xe",
+    "xin thêm thời gian kiểm tra xe thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe lần đầu, ngại va chạm",
+   "location_scope": "cửa hàng thuê xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-012",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Mép vành xe thuê bị xước, móp do va vỉa hè: chụp cận khi nhận để không bị hỏi lại lúc trả",
+   "intent": "Nhận biết vết xước và móp ở mép vành đúc hoặc vành nan do va vỉa hè, biết xoay bánh để chụp cận đủ vòng vành và ghi rõ vị trí vào biên bản khi nhận.",
+   "kw": "vành xe thuê bị xước",
+   "kw2": [
+    "mép vành xe máy bị móp",
+    "kiểm tra vành xe khi nhận"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách thuê xe ga và xe số đi phố",
+   "location_scope": "nội thành Hà Nội nhiều vỉa hè cao",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-013",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Cửa hàng nhắn báo phát hiện hư hỏng sau khi bạn đã trả xe và rời đi: đối chiếu ảnh và phản hồi bình tĩnh",
+   "intent": "Biết cách phản hồi tin nhắn báo một hư hỏng được phát hiện sau buổi trả xe, gồm xin ảnh cụ thể, đối chiếu với ảnh bàn giao của mình và trao đổi rõ ràng để hai bên hiểu đúng.",
+   "kw": "báo hư hỏng sau khi trả xe",
+   "kw2": [
+    "cửa hàng báo lỗi sau khi trả xe",
+    "phản hồi khiếu nại xe thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách đã trả xe và đang ở khách sạn hoặc đã rời Hà Nội",
+   "location_scope": "Hà Nội và liên lạc từ xa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-014",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Chốt kỳ thuê khi trả xe: xin xác nhận đã nhận đủ xe, chìa, giấy tờ và phụ kiện bằng chữ ký hoặc tin nhắn",
+   "intent": "Hiểu vì sao nên có một xác nhận kết thúc kỳ thuê rõ ràng khi trả xe và biết cách xin chữ ký trên biên bản hoặc tin nhắn chốt ghi đủ xe, chìa khóa, giấy tờ, phụ kiện.",
+   "kw": "xác nhận đã trả xe thuê",
+   "kw2": [
+    "tin nhắn chốt trả xe",
+    "ký xác nhận trả xe máy"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe muốn kết thúc kỳ thuê dứt điểm",
+   "location_scope": "cửa hàng ở Bồ Đề và điểm trả xe tận nơi",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-015",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Ra vào cửa hàng trên trục Nguyễn Văn Cừ đông xe: nhập làn khi vừa nhận xe và dừng đỗ an toàn khi đến trả",
+   "intent": "Lên kế hoạch cho đoạn đường đầu tiên và đoạn cuối cùng quanh cửa hàng trên Nguyễn Văn Cừ, gồm cách nhập làn khi chưa quen xe, chọn chỗ dừng và rẽ vào an toàn lúc đi trả.",
+   "kw": "nhận xe ở nguyễn văn cừ",
+   "kw2": [
+    "nhập làn đường nguyễn văn cừ",
+    "dừng xe trả xe thuê long biên"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách mới nhận xe chưa quen giao thông Hà Nội",
+   "location_scope": "Nguyễn Văn Cừ, Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-016",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Xuống tàu ở ga Long Biên hoặc ga Gia Lâm rồi đến Bồ Đề nhận xe máy thuê: đi tiếp bằng gì và mang hành lý",
+   "intent": "Lên kế hoạch đi từ ga Long Biên hoặc ga Gia Lâm đến cửa hàng ở Bồ Đề để nhận xe, chọn đi bộ, xe ôm hay taxi, gọn hành lý và báo giờ đến theo lịch tàu.",
+   "kw": "nhận xe thuê gần ga gia lâm",
+   "kw2": [
+    "từ ga long biên đến bồ đề",
+    "đi tàu rồi nhận xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách đi tàu từ Hải Phòng và các tỉnh phía Đông Bắc",
+   "location_scope": "ga Long Biên, ga Gia Lâm, Bồ Đề",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-017",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Cả nhóm trả nhiều xe thuê cùng một lúc: xếp xe, kiểm từng chiếc và nhận lại giấy tờ đúng người",
+   "intent": "Lên kế hoạch cho buổi trả nhiều xe cùng lúc của một nhóm, gồm thứ tự xếp xe, người đi kèm từng xe lúc kiểm, gom phụ kiện và trả lại giấy tờ đúng chủ để không lẫn lộn.",
+   "kw": "nhóm trả nhiều xe thuê cùng lúc",
+   "kw2": [
+    "trả xe máy thuê theo nhóm",
+    "kiểm từng xe khi trả nhóm"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "nhóm bạn, đoàn công ty thuê từ ba xe trở lên",
+   "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-018",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Người Hà Nội đi cùng bạn nước ngoài đến nhận xe thuê: ai đứng tên, ai kiểm xe và ai giữ liên lạc với cửa hàng",
+   "intent": "Nắm cách phân vai khi một người Việt đi cùng bạn nước ngoài nhận xe, thống nhất với cửa hàng ai đứng tên, ai trực tiếp lái và kiểm xe, ai làm đầu mối liên lạc suốt kỳ thuê.",
+   "kw": "đi cùng bạn nước ngoài nhận xe",
+   "kw2": [
+    "thuê xe máy cho bạn nước ngoài",
+    "phiên dịch khi nhận xe thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người Hà Nội dẫn bạn bè nước ngoài",
+   "location_scope": "Long Biên và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-019",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Từng chở chó mèo trên xe thuê: dọn lông, khử mùi và soát vết cào trên yên, sàn để chân trước khi trả",
+   "intent": "Biết cách làm sạch lông, mùi và kiểm tra vết cào móng do thú cưng để lại trên yên, sàn để chân và cốp xe thuê, rồi chủ động nói với cửa hàng nếu có dấu vết khó xử lý.",
+   "kw": "dọn lông thú cưng trên xe thuê",
+   "kw2": [
+    "vết cào thú cưng trên yên xe",
+    "khử mùi xe máy chở chó mèo"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người nuôi chó mèo thuê xe dài ngày ở Hà Nội",
+   "location_scope": "nội thành Hà Nội, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-020",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Chụp vết xước xe thuê kèm vật so sánh như đồng xu, đầu ngón tay: để ảnh thể hiện đúng kích thước",
+   "intent": "Biết cách đặt một vật quen thuộc cạnh vết xước, móp hoặc nứt khi chụp ảnh nhận xe để người xem ước lượng đúng kích thước và tránh tranh luận vết lớn hay nhỏ khi trả.",
+   "kw": "chụp vết xước kèm vật so sánh",
+   "kw2": [
+    "ảnh vết xước xe thuê rõ kích thước",
+    "đo vết xước xe máy"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê muốn ảnh bàn giao thật dễ đối chiếu",
+   "location_scope": "áp dụng mọi điểm nhận xe ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-021",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Sau những chuyến chở đồ nặng bằng xe thuê: soát phuộc sau, lốp sau, baga và yếm trước khi trả",
+   "intent": "Nắm những chỗ dễ bị ảnh hưởng sau thời gian chở hàng, vali hoặc đồ chuyển nhà bằng xe thuê và cách tự kiểm phuộc sau, lốp sau, baga, yếm để báo trước với cửa hàng khi trả.",
+   "kw": "kiểm tra xe thuê sau chở nặng",
+   "kw2": [
+    "phuộc sau xe máy sau chở nặng",
+    "soát baga trước khi trả xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe tháng hay chở đồ, chuyển phòng",
+   "location_scope": "Long Biên, Gia Lâm và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-022",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Khóa kéo áo, quai balo và nhẫn làm xước xe thuê: thói quen nhỏ giữ xe đúng tình trạng lúc nhận đến ngày trả",
+   "intent": "Hiểu những nguồn gây xước nhỏ thường gặp khi lên xuống, treo đồ hay dựng xe trong kỳ thuê và biết thói quen đơn giản để trả xe với ít vết mới nhất so với ảnh lúc nhận.",
+   "kw": "tránh làm xước xe thuê",
+   "kw2": [
+    "khóa kéo làm xước xe máy",
+    "giữ xe thuê không trầy"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách du lịch và người thuê xe dài ngày",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-023",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Mũ bảo hiểm và áo mưa đi kèm xe thuê sau những ngày mưa: phơi khô, lau sạch và soát hư hỏng trước khi trả",
+   "intent": "Biết cách xử lý mũ bảo hiểm và áo mưa đi kèm xe thuê bị ướt, ám mùi sau nhiều ngày mưa, phơi lau đúng cách, kiểm quai, kính, đường may và báo chỗ hỏng khi trả.",
+   "kw": "phơi mũ áo mưa xe thuê",
+   "kw2": [
+    "lau mũ bảo hiểm xe thuê",
+    "áo mưa thuê kèm bị rách"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe vào mùa mưa Hà Nội",
+   "location_scope": "nội thành Hà Nội, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-024",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Đi nhận xe thuê một mình: thứ tự chụp ảnh, nghe hướng dẫn và ký biên bản để không bỏ sót bước nào",
+   "intent": "Lên kế hoạch buổi nhận xe khi không có ai đi cùng hỗ trợ, sắp xếp thứ tự chụp ảnh, nghe hướng dẫn, chạy thử và ký biên bản sao cho một người vẫn làm đủ mọi bước.",
+   "kw": "nhận xe thuê một mình",
+   "kw2": [
+    "đi nhận xe máy thuê một mình",
+    "tự kiểm tra xe khi nhận một mình"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "khách du lịch đi một mình, người công tác ngắn ngày",
+   "location_scope": "cửa hàng ở Bồ Đề, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-050-025",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Đồng hồ km xe thuê ngừng nhảy giữa kỳ thuê: chụp số cuối, báo cửa hàng và kể quãng đường đã đi khi trả",
+   "intent": "Biết cách ghi nhận và báo cửa hàng khi đồng hồ km của xe thuê ngừng hoạt động giữa kỳ, lưu số km cuối cùng và chuẩn bị thông tin quãng đường để trao đổi minh bạch lúc trả xe.",
+   "kw": "đồng hồ km xe thuê không chạy",
+   "kw2": [
+    "báo công tơ mét hỏng khi trả xe",
+    "ghi số km cuối xe thuê"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-050",
+   "audience": "người thuê xe nhiều ngày, hay đi xa",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1200
+  }
+ ]
+}
