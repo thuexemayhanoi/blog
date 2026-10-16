@@ -62,14 +62,13 @@ Cốp xe ga tiện, nhưng không phải két sắt. Ổ cốp có thể bị c�
 - Sạc dự phòng hay thuốc men cần để nơi mát.
 - Túi mua sắm có hóa đơn giá trị.
 
-Giấy tờ xe và giấy tờ tùy thân nên mang theo người, cất trong túi kéo khóa. Nếu đi cả buổi chiều lẫn tối, mang một túi đeo chéo nhỏ để không phải gửi đồ quý vào cốp.
+Giấy tờ xe và giấy tờ tùy thân nên mang theo người, cất trong túi đeo chéo có khóa kéo.
 
 ## Trong lúc ngồi quán
 
 - Đặt túi xách trên đùi hoặc ghế phía trong, không để trên ghế sát lối đi.
 - Không để điện thoại trên mép bàn sát vỉa hè, nhất là ở quán bày bàn ra sát lòng đường.
 - Thỉnh thoảng nhìn ra chỗ để xe. Nếu người trông xe xếp lại xe cho gọn, hãy nhớ vị trí mới.
-- Ngồi muộn, khi quán vãn khách, nên ra lấy xe sớm hơn giờ quán đóng cửa một chút để người trông xe không phải đợi.
 
 ## Khi ra về: kiểm tra xe trước khi chạy
 
@@ -84,8 +83,22 @@ Nếu đã uống rượu bia, đừng lái xe về. Để xe lại chỗ gửi 
 
 Bình tĩnh hỏi người trông xe và chủ quán trước: xe có thể chỉ bị xếp sang chỗ khác. Nếu bạn dựng xe ngoài vỉa hè không có người trông, xe có thể đã bị lực lượng chức năng tạm giữ vì đỗ sai chỗ. Cách phân biệt hai trường hợp có ở bài [quay lại không thấy xe thuê ở chỗ đỗ vỉa hè](/thue-xe/2026/10/14/quay-lai-khong-thay-xe-thue-o-cho-do-via-he-phan-biet-bi-tam-giu-do-do-sai-hay-b/ "Quay lại không thấy xe thuê ở chỗ đỗ vỉa hè"). Nếu là xe thuê, báo ngay cho cửa hàng cho thuê để được hướng dẫn trình báo.
 
+## Câu hỏi thường gặp
+
+### Có nên treo mũ bảo hiểm trên xe khi ngồi quán ven Hồ Tây không?
+
+Không nên. Mũ treo trên gương hay móc trước dễ bị lấy nhầm và đọng sương; cất mũ vào cốp nếu vừa, hoặc mang vào quán đặt dưới gầm bàn.
+
+### Để ví, điện thoại trong cốp xe có an toàn không?
+
+Không. Ổ cốp có thể bị cạy và lòng cốp dễ ấm lên sau quãng chạy dài, nên ví, giấy tờ và điện thoại hãy mang theo người.
+
+### Quay lại không thấy xe thì làm gì trước tiên?
+
+Hỏi người trông xe và chủ quán xem xe có bị xếp sang chỗ khác không. Sau đó mới tính tới khả năng xe bị tạm giữ hay bị mất; nếu là xe thuê, gọi ngay cho cửa hàng.
+
 ## Thuê xe máy đi chơi Hồ Tây buổi tối
 
-Nếu bạn thuê xe để dạo hồ và ngồi quán buổi tối, xe ga có cốp sẽ giúp cất mũ và áo mưa gọn hơn. Trên bảng giá của Nguyễn Tú, Honda Vision có giá ngày 200.000 đồng, Honda Click và Yamaha Mio có giá ngày 150.000 đồng; tiền cọc xác nhận trực tiếp. Khi nhận xe, hãy hỏi cách khóa cổ, mở cốp và xe có chống trộm hay không. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Nếu bạn thuê xe để dạo hồ và ngồi quán buổi tối, xe ga có cốp sẽ giúp cất mũ và áo mưa gọn hơn. Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision có giá ngày 200.000 đồng, Honda Click và Yamaha Mio có giá ngày 150.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Khi nhận xe, hãy hỏi cách khóa cổ, mở cốp và xe có chống trộm hay không. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 
 Thêm gợi ý quanh hồ có ở chuyên mục [Hồ Tây và lân cận](/du-lich/ho-tay/ "Hồ Tây và lân cận") và trang [du lịch Hà Nội bằng xe máy](/du-lich/ "Du lịch Hà Nội bằng xe máy").

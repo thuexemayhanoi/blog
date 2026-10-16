@@ -86,8 +86,22 @@ Mưa nhỏ mà không còn sấm sét, bạn có thể mặc áo mưa đi tiếp
 - Mang khăn khô để lau yên, lau kính mũ sau mưa.
 - Lên kế hoạch vòng hồ có điểm dừng dự phòng ở đoạn nhiều quán.
 
+## Câu hỏi thường gặp
+
+### Gặp mưa giông khi đang ở đường Thanh Niên thì nên làm gì?
+
+Đoạn này ít mái che. Thấy trời chuyển, hãy chạy tiếp tới khu có nhà cửa, quán xá hoặc quay lại đoạn vừa qua, đừng dừng dưới gốc cây ven hồ.
+
+### Trú dưới gốc cây lớn ven hồ có an toàn không?
+
+Không. Cây cao đứng riêng lẻ dễ hút sét, cành có thể gãy khi gió giật; mái hiên kiên cố hoặc một quán có tường bao là chỗ trú tốt hơn.
+
+### Khi nào có thể đi tiếp sau cơn giông?
+
+Khi gió đã dịu, không còn chớp và tiếng sấm đã xa hẳn. Nếu chỉ còn mưa nhỏ, mặc áo mưa rồi chạy chậm, tránh vạch sơn và nắp cống kim loại.
+
 ## Thuê xe máy dạo Hồ Tây mùa mưa
 
-Xe ga có cốp rộng giúp cất áo mưa và túi chống nước gọn hơn. Trên bảng giá của Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Click và Yamaha Mio có giá ngày 150.000 đồng; tiền cọc xác nhận trực tiếp. Khi nhận xe, kiểm tra đèn, phanh và lốp kỹ hơn nếu bạn định đi trong mùa mưa. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Xe ga có cốp rộng giúp cất áo mưa và túi chống nước gọn hơn. Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Vision và Honda Air Blade có giá ngày 200.000 đồng, Honda Click và Yamaha Mio có giá ngày 150.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Khi nhận xe, kiểm tra đèn, phanh và lốp kỹ hơn nếu bạn định đi trong mùa mưa. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 
 Thêm gợi ý quanh hồ có ở chuyên mục [Hồ Tây và lân cận](/du-lich/ho-tay/ "Hồ Tây và lân cận") và trang [du lịch Hà Nội bằng xe máy](/du-lich/ "Du lịch Hà Nội bằng xe máy").

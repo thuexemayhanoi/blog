@@ -77,8 +77,22 @@ Một số ngày cuối tuần, đường ven hồ có giải chạy hoặc gi�
 
 Dừng xe ở vị trí an toàn, bật đèn cảnh báo nếu xe có, hỏi han người bị va chạm trước tiên. Nếu có người bị thương, gọi cấp cứu 115. Chụp ảnh hiện trường, giữ bình tĩnh, không tranh cãi. Nếu là xe thuê, gọi ngay cho cửa hàng; các bước tiếp theo có ở bài [tai nạn nhẹ với xe thuê: các bước xử lý ngay](/thue-xe/2026/09/27/tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay/ "Tai nạn nhẹ với xe thuê: các bước xử lý ngay").
 
+## Câu hỏi thường gặp
+
+### Vượt người đạp xe quanh Hồ Tây thế nào cho an toàn?
+
+Nhìn gương, bật xi nhan sớm, chỉ vượt ở đoạn thẳng nhìn rõ phía trước, đi về phía bên trái và chừa khoảng cách ngang rộng.
+
+### Giờ nào đường ven Hồ Tây đông người tập thể dục nhất?
+
+Sáng sớm và chiều tối là lúc nhiều người đạp xe, chạy bộ và đi bộ nhất; hãy đi chậm hơn và bật đèn khi trời còn tối.
+
+### Có nên bấm còi khi đi sau người chạy bộ không?
+
+Chỉ bấm một tiếng nhẹ từ xa khi thật cần. Tiếng còi dài ngay sau lưng dễ làm người chạy giật mình và đổi hướng đột ngột.
+
 ## Thuê xe máy dạo Hồ Tây
 
-Nếu bạn lần đầu thuê xe để dạo hồ, một chiếc xe ga nhẹ, dễ điều khiển ở tốc độ thấp là lựa chọn hợp lý. Trên bảng giá của Nguyễn Tú, Honda Click và Yamaha Mio có giá ngày 150.000 đồng, Honda Vision có giá ngày 200.000 đồng; tiền cọc xác nhận trực tiếp. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00, số điện thoại 0942 467 674.
+Nếu bạn lần đầu thuê xe để dạo hồ, một chiếc xe ga nhẹ, dễ điều khiển ở tốc độ thấp là lựa chọn hợp lý. Trên bảng giá của Cho Thuê Xe Máy Nguyễn Tú, Honda Click và Yamaha Mio có giá ngày 150.000 đồng, Honda Vision có giá ngày 200.000 đồng; tiền cọc tùy dòng xe và được xác nhận trực tiếp khi đặt. Cửa hàng ở 112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, mở cửa 09:00 tới 21:00 tất cả các ngày trong tuần, điện thoại và Zalo 0942 467 674.
 
 Thêm gợi ý quanh hồ có ở chuyên mục [Hồ Tây và lân cận](/du-lich/ho-tay/ "Hồ Tây và lân cận") và trang [du lịch Hà Nội bằng xe máy](/du-lich/ "Du lịch Hà Nội bằng xe máy").
