@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "max_slots": 12,
+  "max_ids_per_writer": 10,
+  "claim_model": "exclusive-per-article-id",
+  "publisher_model": "single-canonical"
+}
