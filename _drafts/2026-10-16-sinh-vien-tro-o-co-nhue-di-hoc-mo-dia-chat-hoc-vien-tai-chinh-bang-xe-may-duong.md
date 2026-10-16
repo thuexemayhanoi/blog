@@ -15,7 +15,7 @@ writer: W1
 writer_session: s-claudec-w1
 ---
 
-Sinh viên trọ Cổ Nhuế đi học ở Trường Đại học Mỏ – Địa chất hay Học viện Tài chính thường chỉ mất một quãng ngắn bằng xe máy, nhưng phải đi qua ngõ hẹp, đoạn có chợ họp buổi sáng và những nút giao đông người. Bài này giúp bạn biết hai trường nay thuộc phường nào, cách đi giữa khu trọ và cổng trường, lối ra Phạm Văn Đồng khi cần vào trung tâm và những quy định hay bị quên khi chở bạn.
+Sinh viên trọ Cổ Nhuế đi học ở Trường Đại học Mỏ – Địa chất hay Học viện Tài chính thường chỉ mất một quãng ngắn bằng xe máy, nhưng phải đi qua ngõ hẹp, đoạn có chợ họp buổi sáng và những nút giao đông người. Bài này giúp bạn biết hai trường nay thuộc phường nào, cách đi tới cổng trường, lối ra Phạm Văn Đồng và những quy định hay bị quên khi chở bạn.
 
 ## Sinh viên trọ Cổ Nhuế đi học: hai trường nay ở phường nào
 
@@ -37,6 +37,8 @@ Từ xóm trọ tới cổng trường, quãng đường thường không dài, 
 - **Đi chậm qua cổng bệnh viện, cổng trường**, nơi người đi bộ và xe ra vào nhiều.
 - **Không dừng, đỗ trước cổng trường** để chờ bạn: luật cấm dừng, đỗ trước cổng và trong phạm vi 5 m hai bên cổng cơ quan, tổ chức có lối cho xe ra vào.
 
+Mùa mưa, hãy đặc biệt cẩn thận ở phố Viên. Theo báo Tuổi Trẻ và VnExpress, đoạn cuối phố hay ngập khi mưa lớn, và sáng 17/9/2026 một nam sinh năm nhất của trường đã rơi xuống cống ở điểm ngập này. Khi nước che kín mặt đường, đừng cố đi qua; hãy chờ nước rút hoặc chọn đường khác.
+
 ## Ngõ có chợ họp buổi sáng
 
 Nhiều ngõ trong khu dân cư có chợ họp vào buổi sáng, hàng bày sát mép đường, người mua dừng xe ngay giữa lối. Chúng tôi chưa thấy nguồn chính thức về vị trí và giờ họp của chợ Cổ Nhuế, nên chỉ có thể đưa ra cách đi chung:
@@ -44,7 +46,7 @@ Nhiều ngõ trong khu dân cư có chợ họp vào buổi sáng, hàng bày s�
 - **Giảm tốc từ xa** khi thấy người đứng, xe dừng hai bên ngõ.
 - **Đi sau một xe khác** thay vì cố vượt trong ngõ hẹp.
 - **Nhường người đi bộ** và người đang dắt xe ra khỏi chỗ bán hàng.
-- **Ra khỏi phòng sớm hơn** mười, mười lăm phút vào ngày có tiết đầu buổi sáng, hoặc chọn đường vòng không có chợ.
+- **Ra khỏi phòng sớm hơn** mười, mười lăm phút vào ngày có tiết đầu.
 
 ## Từ Cổ Nhuế ra Phạm Văn Đồng khi cần vào trung tâm
 
