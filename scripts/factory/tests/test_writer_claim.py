@@ -29,6 +29,9 @@ import importlib.util
 import json
 import math
 import os
+# Regression suite intentionally exercises the legacy three-slot contract;
+# the separate dynamic pool suite verifies the production 12-slot mode.
+os.environ.setdefault('BLOG_WRITER_SLOTS', '3')
 import re
 import subprocess
 import sys

@@ -111,16 +111,36 @@ MATRIX = ROOT / 'data' / 'content-matrix.csv'
 REGISTRY = pathlib.Path(os.environ.get('WRITER_CLAIMS')
                         or str(ROOT / 'data' / 'state' / 'writer-claims.json'))
 SCHEMA_VERSION = '2'
-SLOTS = ('W1', 'W2', 'W3')
-# \Z, KHONG phai $: '$' khop truoc mot '\n' cuoi nen 'W1\n' / 's-a\n' lot qua
-# (hai 'slot' W1 va W1\n, phien khong bao gio khop token trong draft)
-SLOT_RE = re.compile(r'^W[1-3]\Z')
+# Pool configuration is shared by external writers and GitHub CI.
+# Legacy fixtures may override the slot limit to 3 via BLOG_WRITER_SLOTS.
+# A larger pool NEVER changes the one-owner-per-ID or CAS rules.
+_POOL_CONFIG = ROOT / 'data' / 'factory' / 'writer-pool.json'
+if _POOL_CONFIG.is_file():
+    with _POOL_CONFIG.open(encoding='utf-8') as _pool_file:
+        _POOL = json.load(_pool_file)
+    if not isinstance(_POOL, dict) or isinstance(_POOL.get('max_slots'), bool):
+        raise ValueError('writer-pool.json: max_slots must be an integer')
+    _SLOT_LIMIT = _POOL.get('max_slots', 3)
+else:
+    _SLOT_LIMIT = 3
+_SLOTS_OVERRIDE = os.environ.get('BLOG_WRITER_SLOTS')
+if _SLOTS_OVERRIDE is not None:
+    _ENV_LIMIT = int(_SLOTS_OVERRIDE)
+    if _POOL_CONFIG.is_file() and _ENV_LIMIT > _SLOT_LIMIT:
+        raise ValueError('BLOG_WRITER_SLOTS cannot exceed writer-pool.json max_slots')
+    _SLOT_LIMIT = _ENV_LIMIT
+if not isinstance(_SLOT_LIMIT, int) or not 3 <= _SLOT_LIMIT <= 64:
+    raise ValueError('writer pool max_slots must be between 3 and 64')
+MAX_WRITERS = _SLOT_LIMIT
+SLOTS = tuple('W%d' % i for i in range(1, MAX_WRITERS + 1))
+# Anchored at absolute end: W1\n / W01 / W65 are not legal slot keys.
+SLOT_RE = re.compile(r'^W(?:' + '|'.join(str(i) for i in range(1, MAX_WRITERS + 1)) + r')\Z')
 # token phiên: chỉ ký tự an toàn (được ghi nguyên văn vào frontmatter draft —
 # KHÔNG cho dấu cách/xuống dòng/':' làm hỏng YAML hay chèn khóa lạ)
 SESSION_RE = re.compile(r'^[A-Za-z0-9._-]{1,64}\Z')
 ID_RE = re.compile(r'^BLG-\d+\Z')
 MAX_LEASE = 10     # lease sống tối đa mỗi writer (write-ahead buffer)
-MAX_WRITERS = 3    # registry từ chối writer thứ 4
+# MAX_WRITERS / SLOTS are loaded from writer-pool.json above.
 TTL_HOURS = 48.0   # TTL mặc định; mỗi claim/heartbeat gia hạn
 MIN_TTL_HOURS = 0.25
 MAX_TTL_HOURS = 48.0
@@ -338,7 +358,7 @@ def parse_registry(text):
             # thua") se bo lease SONG hop le claim moi nhat de giu lease "ma" ->
             # fail-closed. Lease HET HAN voi khoa la vo hai (bi prune truoc buoc
             # cat), nen duoc bo qua nhu moi lease het han khac.
-            raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
+            raise RegistryCorrupt('slot %r khong hop le (chi slot duoc cau hinh)'
                                   % str(w)[:20])
         distinct = len(set(l.get('ids', [])))
         if distinct > MAX_LEASE:
@@ -667,7 +687,7 @@ def apply_claim(reg, rows, writer, session, count=None, ids=None, now=None,
     hoặc {ok: False, code, error, ...}. KHÔNG I/O."""
     now = now if now is not None else time.time()
     if not SLOT_RE.match(writer or ''):
-        return _err('BAD_SLOT', 'slot khong hop le %r (chi W1, W2, W3)'
+        return _err('BAD_SLOT', 'slot khong hop le %r (chi cac slot duoc cau hinh)'
                     % writer, writer=writer)
     if not session:
         return _err('NO_SESSION', 'thieu session id', writer=writer)
@@ -900,7 +920,7 @@ def check_invariants(reg, rows=None, now=None):
     status = {r['id']: r['status'] for r in rows} if rows else None
     for w, l in leases.items():
         if not SLOT_RE.match(w):
-            problems.append('slot %r khong hop le (chi W1..W3)' % w)
+            problems.append('slot %r khong hop le (chi slot duoc cau hinh)' % w)
         ids = l.get('ids', [])
         if len(ids) > MAX_LEASE:
             problems.append('slot %s giu %d ID (> %d)' % (w, len(ids),
@@ -1083,7 +1103,7 @@ def merge_registries(local, other, rows):
                     and not (isinstance(w, str) and SLOT_RE.match(w)):
                 # slot la khoa gan nguoi: nhap "ma" W4 SONG se day lease SONG
                 # hop le (claim moi nhat) ra khoi registry o buoc cat MAX_WRITERS
-                raise RegistryCorrupt('slot %r khong hop le (chi W1..W3)'
+                raise RegistryCorrupt('slot %r khong hop le (chi slot duoc cau hinh)'
                                       % str(w)[:20])
     require_live_ownership(local, now)
     require_live_ownership(other, now)

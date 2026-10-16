@@ -1,5 +1,30 @@
 # AI-WRITER-QUICKSTART — viết bài cho nhà máy SEO (BẤT KỲ AI nào, tối đa 3 người cùng lúc)
 
+## Writer pool mở rộng (2026-10-16) — áp dụng khi `writer-pool.json` hiện diện
+
+**Nguồn cấu hình:** `data/factory/writer-pool.json`, hiện `max_slots=12` (W1–W12).
+Mỗi AI vẫn có **một session và một slot độc quyền khi giữ bài**, nhưng AI thứ tư
+không cần đợi W1/W2/W3 hết lease: `begin --slot auto` chọn W4 (hoặc slot trống
+khác). Quyền sở hữu vẫn khóa theo BLG-ID, tối đa 10 ID/phiên; CAS và publisher
+duy nhất không thay đổi. Các hướng dẫn bên dưới nói "3 slot" là tài liệu legacy
+cho W1–W3, **không phải giới hạn mới**.
+
+Ví dụ cho Mistral khi W1 đang thuộc Claude:
+
+```bash
+git pull --ff-only origin main
+export FACTORY_WRITER_SESSION=s-mistral-pool
+python3 scripts/factory/writer-session.py status
+python3 scripts/factory/writer-session.py begin --slot auto --label mistral --count 10
+```
+
+Không dùng `--slot W1` khi W1 do người khác giữ. Nếu không có hàng PLANNED
+tự do thì dừng an toàn/refill theo gate, không chiếm ID đang có chủ.
+Nếu dùng working copy khác, đặt lại đúng session `s-mistral-pool` rồi `status`
+trước khi `begin` để nối batch cũ. Không đưa secrets vào session ID.
+Các phiên chưa cập nhật code pool mới **không được tiếp tục ghi registry sau
+khi xuất hiện slot W4+**; tất cả writers phải đồng bộ `main` sau khi triển khai.
+
 Một trang, đủ để một AI mới vào làm ngay. Chi tiết engine: `AGENTS.md`,
 `docs/TURBO-WRITER-RUNBOOK.md`, `docs/MULTI-WRITER-ARCHITECTURE.md`.
 Mọi lệnh chỉ dùng **git + Python 3 stdlib** — không API ngoài, không khoá, không AI trong Actions.

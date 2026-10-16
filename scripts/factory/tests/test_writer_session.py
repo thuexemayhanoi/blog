@@ -25,6 +25,8 @@ Chạy: python3 scripts/factory/tests/test_writer_session.py
 """
 import json
 import os
+# Preserve 3-slot expectations in this legacy regression suite only.
+os.environ.setdefault('BLOG_WRITER_SLOTS', '3')
 import re
 import subprocess
 import sys
