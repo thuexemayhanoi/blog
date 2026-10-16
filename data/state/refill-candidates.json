@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-15T18:11:57+00:00",
-    "staged_at": "2026-10-16T04:31:01+00:00"
+    "staged_at": "2026-10-16T04:42:46+00:00"
   },
   "candidates": [
     {
@@ -4169,6 +4169,481 @@
       "subtopic": "refill-2026-10-16-W2-052",
       "audience": "khách mời dự tiệc cưới ở Hà Nội",
       "location_scope": "nhà hàng tiệc cưới trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-001",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Tay ga Honda Wave thuê bị rít hoặc không tự trả về khi buông tay: dừng xe an toàn và báo cửa hàng",
+      "intent": "Biết cách xử lý khi tay ga Honda Wave rít hoặc không tự trả về: về số, phanh để dừng an toàn, tắt máy bằng chìa, xem bao tay, giá đỡ có đè tay ga rồi báo cửa hàng.",
+      "kw": "tay ga xe wave bị kẹt",
+      "kw2": [
+        "tay ga xe wave không tự về",
+        "dây ga xe wave bị rít"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người thuê xe số đi phố và đi tỉnh",
+      "location_scope": "Hà Nội và các chuyến đi ngoại tỉnh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-002",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Tay phanh trước Honda Wave bóp sâu gần chạm tay lái: phanh đùm cần chỉnh hay phanh đĩa cần kiểm tra",
+      "intent": "Hiểu vì sao tay phanh trước Honda Wave thuê bóp sâu gần chạm tay lái, phân biệt bản phanh đùm cần chỉnh dây với bản phanh đĩa cần xem dầu, má phanh và biết lúc nào phải dừng xe.",
+      "kw": "phanh trước xe wave bị lỏng",
+      "kw2": [
+        "tay phanh trước wave bóp sâu",
+        "phanh đĩa wave rsx bị hẫng"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người thuê Honda Wave đi đường dài, đường đèo",
+      "location_scope": "Hà Nội và các cung đèo phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-003",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave bị đổ nghiêng khi đỗ trên nền dốc: cần số cong, gác chân gập và kiểm tra gì trước khi đi tiếp",
+      "intent": "Biết cách dựng lại Honda Wave thuê bị đổ khi đỗ trên nền dốc, kiểm tra cần số có cong chạm vỏ máy, gác chân, tay phanh, gương và quyết định đi tiếp hay gọi cửa hàng.",
+      "kw": "xe wave bị đổ cong cần số",
+      "kw2": [
+        "dựng xe wave bị đổ",
+        "cần số xe wave bị cong"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người mới quen xe số, người nhỏ con",
+      "location_scope": "sân homestay, bãi đỗ và lề đường dốc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-004",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave thuê không có cổng sạc: giữ pin điện thoại chạy bản đồ cả ngày và gắn giá đỡ ở đâu",
+      "intent": "Biết cách giữ điện thoại đủ pin chạy bản đồ cả ngày trên Honda Wave không có cổng sạc: dùng sạc dự phòng, bớt hao pin và chọn chỗ kẹp giá đỡ chắc mà không vướng tay lái.",
+      "kw": "xe wave không có cổng sạc",
+      "kw2": [
+        "sạc điện thoại khi đi xe wave",
+        "gắn giá đỡ điện thoại xe wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách du lịch tự lái dùng bản đồ trên điện thoại",
+      "location_scope": "Hà Nội và các chuyến đi trong ngày",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-005",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Chở người ngồi nghiêng một bên trên Honda Wave khi mặc váy, áo dài: giữ thăng bằng, vào cua và dừng xe",
+      "intent": "Biết cách chở người ngồi nghiêng một bên trên Honda Wave: chỗ đặt chân và tay bám cho người sau, cách người lái bù thăng bằng khi vào cua, dừng đèn đỏ và tránh chạm ống xả.",
+      "kw": "ngồi nghiêng sau xe wave",
+      "kw2": [
+        "chở người ngồi một bên xe máy",
+        "chở người mặc áo dài bằng xe wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người chở người thân mặc váy, áo dài đi tiệc, đi lễ",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-006",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Hai người thay nhau lái một chiếc Honda Wave trên chuyến đi xa: người quen xe ga cầm lái đoạn nào",
+      "intent": "Lên kế hoạch thay nhau lái một chiếc Honda Wave trên chuyến đi xa khi một người chưa quen xe số: chia đoạn đường bằng và đoạn đèo, chọn chỗ đổi lái an toàn và cách nhắc từ phía sau.",
+      "kw": "thay nhau lái xe wave",
+      "kw2": [
+        "đổi lái xe máy đường dài",
+        "người quen xe ga lái wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "cặp đôi, hai người bạn đi chung một xe số",
+      "location_scope": "quốc lộ và đường đèo phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-007",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Khách nước ngoài mua lại Honda Wave cũ của dân phượt hay thuê Wave ở cửa hàng cho vòng phía Bắc",
+      "intent": "Hiểu khác biệt giữa mua lại Honda Wave cũ từ khách phượt khác và thuê Wave ở cửa hàng cho vòng phía Bắc: giấy tờ xe, tình trạng máy, sửa chữa dọc đường và chuyện bán lại cuối chuyến.",
+      "kw": "mua wave cũ hay thuê wave",
+      "kw2": [
+        "khách tây mua xe máy cũ hà nội",
+        "mua xe máy cũ đi phượt miền bắc"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách ba lô nước ngoài đi vòng phía Bắc vài tuần",
+      "location_scope": "phố cổ Hà Nội và các vòng Hà Giang, Tây Bắc",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-008",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Thợ điện nước, lắp mạng thuê Honda Wave đi làm: chở hộp đồ nghề, chạy ngõ nhỏ và gửi xe ở chung cư",
+      "intent": "Biết cách dùng Honda Wave thuê cho việc sửa chữa tận nhà: buộc hộp đồ nghề và cuộn dây gọn chắc, chạy ngõ nhỏ qua nhiều nhà khách mỗi ngày và gửi xe nhanh ở chung cư, tòa nhà.",
+      "kw": "thợ điện nước thuê xe wave",
+      "kw2": [
+        "thuê xe máy chở đồ nghề",
+        "xe wave chở hộp đồ nghề"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "thợ điện nước, kỹ thuật viên lắp mạng, sửa điều hòa",
+      "location_scope": "các quận nội thành và khu đô thị Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-009",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi đường núi nhiều ngày bằng Honda Wave: bộ đồ sửa vặt, bugi và săm dự phòng nên mang theo",
+      "intent": "Nắm danh sách đồ sửa vặt gọn nhẹ nên mang khi đi Honda Wave nhiều ngày qua vùng núi, hiểu món nào tự dùng được, món nào để đưa thợ và nên hỏi cửa hàng gì trước khi đi.",
+      "kw": "đồ sửa xe wave mang theo",
+      "kw2": [
+        "săm dự phòng xe wave",
+        "bugi dự phòng đi phượt xe số"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người đi phượt nhiều ngày bằng xe số thuê",
+      "location_scope": "các vòng Hà Giang, Tây Bắc và Đông Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-010",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đoàn năm, sáu chiếc Honda Wave đi đèo: người dẫn đầu, người chốt đoàn và điểm hẹn khi mất sóng",
+      "intent": "Lên kế hoạch cho đoàn nhiều xe Honda Wave đi đường đèo: phân vai người dẫn đầu và chốt đoàn, giữ khoảng cách so le, thống nhất điểm hẹn và cách báo hiệu khi có xe gặp sự cố.",
+      "kw": "đoàn xe wave đi đèo",
+      "kw2": [
+        "đi phượt theo đoàn xe máy",
+        "người chốt đoàn xe máy"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "nhóm bạn, đoàn công ty thuê nhiều xe số đi phượt",
+      "location_scope": "các cung đèo phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-011",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Gặp xe tải bò chậm lên đèo khi đi Honda Wave: khi nào đủ sức vượt và khi nào nên bám sau chờ",
+      "intent": "Biết cách đánh giá quãng đường trống, độ dốc và sức kéo của Honda Wave để quyết định vượt xe tải đang leo đèo hay bám sau ở khoảng cách an toàn chờ đến đoạn thoáng.",
+      "kw": "đi xe wave vượt xe tải",
+      "kw2": [
+        "vượt xe tải lên đèo xe số",
+        "honda wave bám sau xe tải"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người lái xe số chạy quốc lộ miền núi",
+      "location_scope": "quốc lộ 2, quốc lộ 3, quốc lộ 6 phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-012",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Cua tay áo lên dốc bằng Honda Wave: về số 1 trước khi vào cua, chọn đường cua và không dừng giữa cua",
+      "intent": "Biết cách đưa Honda Wave qua các khúc cua tay áo khi leo đèo: về số thấp trước điểm vào cua, giữ ga đều, chọn đường cua trong làn của mình và xử lý khi lỡ chết máy giữa cua.",
+      "kw": "xe wave lên cua tay áo",
+      "kw2": [
+        "cua tay áo lên dốc xe số",
+        "xe số chết máy giữa cua"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người mới đi đèo bằng xe số",
+      "location_scope": "Mã Pí Lèng, Khau Phạ, Thung Khe và các đèo phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-013",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave chết máy giữa đèo vùng ít sóng: dắt lên chỗ an toàn hay thả xe xuống dốc thật chậm",
+      "intent": "Biết cách xử lý khi Honda Wave chết máy không nổ lại giữa đèo ít sóng điện thoại: tìm chỗ dừng an toàn, quyết định dắt xe hay thả dốc bằng phanh, tìm thợ và liên lạc cửa hàng.",
+      "kw": "xe wave chết máy giữa đèo",
+      "kw2": [
+        "xe máy hỏng trên đèo",
+        "thả dốc khi xe chết máy"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách đi đường núi xa thị trấn",
+      "location_scope": "các đèo vùng núi phía Bắc",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-014",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Chở hai người bằng Honda Wave lên dốc bê tông gắt vào bản: khi nào người ngồi sau nên xuống đi bộ",
+      "intent": "Biết cách nhận ra con dốc quá sức Honda Wave khi chở hai người, dừng xe an toàn để người ngồi sau xuống đi bộ, khởi hành lại giữa dốc bằng số 1 và đón nhau ở chỗ bằng.",
+      "kw": "xe wave chở đôi lên dốc gắt",
+      "kw2": [
+        "người ngồi sau xuống đi bộ lên dốc",
+        "khởi hành giữa dốc xe wave"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "cặp đôi đi chung một xe số lên vùng cao",
+      "location_scope": "đường bê tông vào bản ở Hà Giang, Pù Luông, Tà Xùa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-015",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Qua cầu treo dân sinh ở bản vùng cao bằng Honda Wave: dắt bộ hay chạy chậm và ván cầu ướt trơn",
+      "intent": "Biết cách quyết định dắt bộ hay chạy chậm Honda Wave qua cầu treo dân sinh, giữ khoảng cách với người và xe khác trên cầu, xử lý ván gỗ ướt trơn và mặt cầu rung lắc.",
+      "kw": "đi xe wave qua cầu treo",
+      "kw2": [
+        "qua cầu treo bằng xe máy",
+        "dắt xe máy qua cầu treo"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách tự lái vào bản ở Hà Giang, Pù Luông, Mai Châu",
+      "location_scope": "các bản vùng cao phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-016",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Bùn đất kẹt dưới chắn bùn trước Honda Wave trên đường núi sau mưa: dừng cạy bùn rồi đi tiếp thế nào",
+      "intent": "Biết cách nhận ra bùn đất dính chặt giữa lốp và chắn bùn trước làm Honda Wave nặng lái, dừng xe an toàn, cạy bùn bằng dụng cụ đơn giản và chọn vệt đường để đi tiếp.",
+      "kw": "xe wave kẹt bùn chắn bùn",
+      "kw2": [
+        "bùn kẹt bánh trước xe máy",
+        "xe wave đi đường bùn sau mưa"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người đi đường đất vùng núi mùa mưa",
+      "location_scope": "đường đất vào bản ở Hà Giang, Cao Bằng, Sơn La",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-017",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đưa Honda Wave lên đò ngang qua sông, lòng hồ vùng núi: dắt lên ván, giữ xe trên đò và lên bờ dốc",
+      "intent": "Biết cách đưa Honda Wave lên xuống đò ngang chở xe máy ở sông, lòng hồ vùng núi: tắt máy dắt qua ván, giữ xe đứng vững khi đò chạy, che đồ khỏi ướt và lên bờ dốc trơn.",
+      "kw": "đưa xe wave lên đò",
+      "kw2": [
+        "đò chở xe máy qua sông",
+        "xe máy qua đò ngang"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách tự lái đi vùng lòng hồ, ven sông miền núi",
+      "location_scope": "lòng hồ Hòa Bình, hồ Thác Bà và các bến đò vùng núi phía Bắc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-018",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Honda Wave thuê lên Tà Xùa: dốc gắt từ Bắc Yên, giữ số 1 khi leo và xuống dốc bằng phanh động cơ",
+      "intent": "Lên kế hoạch chạy Honda Wave từ Hà Nội lên Tà Xùa, biết cách giữ số thấp trên đoạn dốc gắt từ Bắc Yên, nghỉ cho máy nguội và xuống dốc an toàn bằng phanh động cơ.",
+      "kw": "đi tà xùa bằng xe wave",
+      "kw2": [
+        "honda wave lên tà xùa",
+        "xe số leo dốc tà xùa"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "nhóm bạn trẻ đi săn mây bằng xe số thuê",
+      "location_scope": "Hà Nội – Phù Yên – Bắc Yên – Tà Xùa (Sơn La)",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-019",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Chạy Honda Wave vào các bản ở Pù Luông: đường bê tông một làn, dốc gắt và tránh xe ngược chiều",
+      "intent": "Nắm cách điều khiển Honda Wave trên đường bê tông một làn dẫn vào các bản ở Pù Luông: chọn số trên dốc gắt, nhường xe ngược chiều ở khúc cua khuất và đỗ xe ở homestay.",
+      "kw": "đi pù luông bằng xe wave",
+      "kw2": [
+        "honda wave vào bản pù luông",
+        "đường bê tông dốc pù luông"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách tự lái đi Pù Luông hai đến ba ngày",
+      "location_scope": "Pù Luông, Bá Thước (Thanh Hóa)",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-020",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi Sa Pa bằng Honda Wave thuê từ Hà Nội: chia chặng tới Lào Cai và leo con dốc dài cuối cùng",
+      "intent": "Lên kế hoạch chạy Honda Wave từ Hà Nội lên Sa Pa trong hai ngày, chia chặng theo quốc lộ không vào cao tốc, chọn số và nhịp nghỉ máy trên đoạn dốc dài liên tục từ Lào Cai lên.",
+      "kw": "đi sa pa bằng xe wave",
+      "kw2": [
+        "honda wave lên sa pa",
+        "xe số leo dốc lào cai sa pa"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách du lịch tự lái xe số lần đầu đi Tây Bắc",
+      "location_scope": "Hà Nội – Lào Cai – Sa Pa",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-021",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi Mai Châu bằng Honda Wave thuê: số nào cho đèo Thung Khe và chạy chậm qua bản Lác, Pom Coọng",
+      "intent": "Biết cách đi Honda Wave từ Hà Nội về Mai Châu theo quốc lộ 6, chọn số khi lên xuống đèo Thung Khe và chạy chậm, đỗ xe gọn trên đường làng quanh bản Lác, Pom Coọng.",
+      "kw": "đi mai châu bằng xe wave",
+      "kw2": [
+        "honda wave qua đèo thung khe",
+        "xe wave đi bản lác"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "cặp đôi, nhóm bạn đi Mai Châu cuối tuần",
+      "location_scope": "Hà Nội – Xuân Mai – Mai Châu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-022",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Rẽ vào Du Già trong vòng Hà Giang bằng Honda Wave: đường nhỏ, cua gấp và những đoạn mặt đường xấu",
+      "intent": "Hiểu đoạn rẽ vào Du Già khác cung chính của vòng Hà Giang thế nào và biết cách đi Honda Wave trên đường nhỏ, cua gấp, mặt đường xấu mà không quá sức người lẫn xe.",
+      "kw": "đi du già bằng xe wave",
+      "kw2": [
+        "đường vào du già xe máy",
+        "honda wave đi du già"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "khách đi vòng Hà Giang muốn thêm cung đường vắng",
+      "location_scope": "Yên Minh – Du Già – Hà Giang",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-023",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi thác Bản Giốc bằng Honda Wave thuê: chia chặng từ Hà Nội và qua đèo Mã Phục về Trùng Khánh",
+      "intent": "Lên kế hoạch chạy Honda Wave từ Hà Nội lên thác Bản Giốc trong ba đến bốn ngày, chia chặng theo quốc lộ 3, giữ số trên đèo Mã Phục và canh xăng ở vùng biên giới.",
+      "kw": "đi bản giốc bằng xe wave",
+      "kw2": [
+        "honda wave đi cao bằng",
+        "xe wave qua đèo mã phục"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "nhóm bạn đi vòng Đông Bắc bằng xe số",
+      "location_scope": "Hà Nội – Thái Nguyên – Cao Bằng – Trùng Khánh",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-024",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Đi hồ Ba Bể bằng Honda Wave thuê: chia chặng qua Thái Nguyên, đường ven hồ và nghỉ đêm ở bản Pác Ngòi",
+      "intent": "Lên kế hoạch đi hồ Ba Bể bằng Honda Wave trong hai ngày, chia chặng qua Thái Nguyên, chạy đường ven hồ hẹp quanh co và cất xe an toàn khi nghỉ homestay ở bản Pác Ngòi.",
+      "kw": "đi ba bể bằng xe wave",
+      "kw2": [
+        "honda wave đi hồ ba bể",
+        "xe wave đường ven hồ ba bể"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "gia đình trẻ, nhóm bạn đi Ba Bể dịp nghỉ dài",
+      "location_scope": "Hà Nội – Thái Nguyên – Ba Bể",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-16-W2-053-025",
+      "child_id": "C-HONDA-WAVE",
+      "title": "Chạy Honda Wave tới chân núi trekking Lảo Thẩn, Tà Chì Nhù: đường dốc vào bản và gửi xe ở nhà dân",
+      "intent": "Biết cách đi Honda Wave tới điểm bắt đầu leo Lảo Thẩn hay Tà Chì Nhù, chạy đoạn dốc vào bản, gửi xe qua đêm ở nhà dân và kiểm tra xe trước khi xuống núi.",
+      "kw": "đi trekking bằng xe wave",
+      "kw2": [
+        "gửi xe máy leo lảo thẩn",
+        "xe wave đi tà chì nhù"
+      ],
+      "links": [
+        "/xe-may/honda-wave/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-16-W2-053",
+      "audience": "người leo núi tự túc đi xe máy từ Hà Nội",
+      "location_scope": "vùng Y Tý và Trạm Tấu, Tây Bắc",
       "word_target": 1200
     }
   ],
