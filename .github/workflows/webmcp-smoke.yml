@@ -1,0 +1,29 @@
+name: WebMCP smoke (read-only)
+
+on:
+  pull_request:
+    paths:
+      - 'assets/js/webmcp.js'
+      - 'scripts/tests/webmcp-smoke.cjs'
+      - '_layouts/default.html'
+      - '.github/workflows/webmcp-smoke.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  smoke:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Syntax
+        run: node --check assets/js/webmcp.js
+      - name: Read-only tool smoke tests
+        run: node scripts/tests/webmcp-smoke.cjs
+      - name: Shared Jekyll layout registration
+        run: grep -F 'data-index-url=' _layouts/default.html
