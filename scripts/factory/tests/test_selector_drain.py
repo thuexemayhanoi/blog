@@ -15,6 +15,8 @@ Chứng minh các lỗ hổng đã audit (P0/P1) KHÔNG còn:
 Chạy: python3 scripts/factory/tests/test_selector_drain.py
 """
 import os
+# Preserve 3-slot expectations in this legacy regression suite only.
+os.environ.setdefault('BLOG_WRITER_SLOTS', '3')
 import sys
 import unittest
 
