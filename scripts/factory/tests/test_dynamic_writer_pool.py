@@ -39,6 +39,29 @@ class DynamicPoolTest(unittest.TestCase):
         self.assertEqual(sorted(reg['leases']), ['W1', 'W2', 'W3', 'W4'])
         self.assertEqual(len({x['session'] for x in reg['leases'].values()}), 4)
 
+    def test_parallel_extra_sessions_claim_distinct_ids_with_CAS(self):
+        # Simulate two extra AI sessions racing, with W1-W3 already occupied.
+        for name, slot in [('a', 'W1'), ('b', 'W2'), ('c', 'W3')]:
+            r, _ = self.begin(name, '--slot', slot, '--count', '10')
+            self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
+        self.sim.clone('mistral')
+        self.sim.clone('other-ai')
+        procs = [
+            self.sim.session_popen(name, 'begin', '--slot', slot,
+                                   '--count', '10', env=ENV)
+            for name, slot in [('mistral', 'W4'), ('other-ai', 'W5')]
+        ]
+        replies = []
+        for proc in procs:
+            stdout, stderr = proc.communicate(timeout=120)
+            self.assertEqual(proc.returncode, 0, stdout + stderr)
+            replies.append(parse_session_out(stdout))
+        claimed = [article for reply in replies for article in reply['leased_total']]
+        self.assertEqual(len(claimed), 20)
+        self.assertEqual(len(set(claimed)), 20)
+        registry = self.sim.origin_registry()
+        self.assertEqual(set(registry['leases']), {'W1', 'W2', 'W3', 'W4', 'W5'})
+
     def test_extra_slots_still_obey_exclusive_id_and_session_ownership(self):
         r, one = self.begin('mistral', '--slot', 'W4', '--ids', 'BLG-00005')
         self.assertEqual(r.returncode, 0, r.stdout + r.stderr)
