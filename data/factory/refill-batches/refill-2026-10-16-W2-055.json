@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-055: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-16",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-001",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Mai Châu theo quốc lộ 6: leo dốc Cun, xuống đèo Thung Khe và chia chặng nghỉ máy",
+   "intent": "Lên kế hoạch chuyến từ Hà Nội đi Mai Châu bằng Yamaha Sirius, biết chọn số khi leo dốc Cun, giữ số thấp khi xuống đèo Thung Khe và chia chặng nghỉ cho người lẫn máy.",
+   "kw": "sirius đi mai châu",
+   "kw2": [
+    "xe số đi mai châu",
+    "sirius leo dốc cun"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người tự lái xe số đi tỉnh lần đầu, một hoặc hai người",
+   "location_scope": "Hà Nội, Hòa Bình, Mai Châu theo quốc lộ 6",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-002",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Tràng An, Tam Cốc từ Hà Nội: chạy quốc lộ 1 cạnh xe tải, giữ số 4 đều ga và nghỉ ở Phủ Lý",
+   "intent": "Biết cách chạy Yamaha Sirius từ Hà Nội về Tràng An, Tam Cốc theo quốc lộ 1, giữ làn và tốc độ đều cạnh xe tải, chia chặng nghỉ và đi đường làng ven núi đá.",
+   "kw": "sirius đi ninh bình",
+   "kw2": [
+    "sirius đi tràng an tam cốc",
+    "xe số đi quốc lộ 1"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "khách du lịch tự lái xe số chuyến một hoặc hai ngày",
+   "location_scope": "Hà Nội, Phủ Lý, Tràng An và Tam Cốc",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-003",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi đồi chè Tân Cương: theo quốc lộ 3 cũ, đường dốc trong đồi chè và chở chè về Hà Nội",
+   "intent": "Lên kế hoạch ngày đi đồi chè Tân Cương bằng Yamaha Sirius, chọn quốc lộ 3 cũ thay cao tốc cấm xe máy, xử lý đường dốc hẹp trong đồi chè và buộc gói chè chắc khi về.",
+   "kw": "sirius đi tân cương",
+   "kw2": [
+    "xe số đi thái nguyên",
+    "đồi chè tân cương xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "nhóm bạn hoặc cặp đôi đi chơi trong ngày",
+   "location_scope": "Hà Nội, Sóc Sơn, Thái Nguyên (Tân Cương)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-004",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Chùa Thầy và chùa Tây Phương bằng Yamaha Sirius trong một buổi: đường làng hẹp, thứ tự ghé và chỗ gửi xe",
+   "intent": "Lên kế hoạch buổi sáng đi chùa Thầy và chùa Tây Phương bằng Yamaha Sirius, nắm thứ tự ghé hai chùa, cách đi chậm đúng số trên đường làng hẹp và nơi gửi xe trước khi lên núi.",
+   "kw": "sirius đi chùa tây phương",
+   "kw2": [
+    "đi chùa thầy bằng xe số",
+    "chùa tây phương gửi xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi lễ chùa và khách thích kiến trúc cổ",
+   "location_scope": "Quốc Oai, Thạch Thất (Hà Nội)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-005",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius về làng cổ Đường Lâm: đi số 1, số 2 trong ngõ đá ong, gửi xe cổng làng và dạo bộ",
+   "intent": "Biết cách đưa Yamaha Sirius vào làng cổ Đường Lâm, đi chậm đúng số trong ngõ đá ong hẹp, chọn chỗ gửi xe ở cổng làng và tôn trọng sinh hoạt của người dân.",
+   "kw": "sirius đi đường lâm",
+   "kw2": [
+    "làng cổ đường lâm xe số",
+    "ngõ đá ong đường lâm"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "khách du lịch và người Hà Nội đi chơi cuối tuần",
+   "location_scope": "Sơn Tây, làng cổ Đường Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-006",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Chở đồ cắm trại ra hồ Đồng Mô bằng Yamaha Sirius: buộc lều, ghế gấp trên yên sau và đi đường đất ven hồ",
+   "intent": "Biết cách xếp và buộc lều, ghế gấp, bếp mini trên Yamaha Sirius để đi cắm trại hồ Đồng Mô, giữ xe cân bằng trên đường đất ven hồ và không để đồ vướng cần số.",
+   "kw": "sirius chở đồ cắm trại",
+   "kw2": [
+    "cắm trại đồng mô xe máy",
+    "buộc lều trên xe số"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "nhóm bạn trẻ đi cắm trại qua đêm",
+   "location_scope": "Sơn Tây, hồ Đồng Mô",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-007",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi biển Đồ Sơn theo quốc lộ 5: chặng hơn 100 km, làn xe máy cạnh container và gió ven biển",
+   "intent": "Lên kế hoạch chặng Hà Nội đi Đồ Sơn bằng Yamaha Sirius theo quốc lộ 5, giữ làn xe máy an toàn cạnh xe container, chia điểm nghỉ và lái vững khi gió biển thổi ngang.",
+   "kw": "sirius đi đồ sơn",
+   "kw2": [
+    "xe số đi quốc lộ 5",
+    "đi biển đồ sơn bằng xe số"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "nhóm bạn, cặp đôi đi biển cuối tuần",
+   "location_scope": "Hà Nội, quốc lộ 5, Hải Phòng (Đồ Sơn)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-008",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Đi Yamaha Sirius qua cầu Long Biên: xe máy đi bên trái, mặt cầu nhấp nhô và giữ số 2, số 3 cho đều",
+   "intent": "Hiểu vì sao xe máy đi bên trái trên cầu Long Biên và biết cách chạy Yamaha Sirius qua mặt cầu hẹp, nhấp nhô với số phù hợp, khoảng cách an toàn và lối lên xuống hai đầu cầu.",
+   "kw": "sirius qua cầu long biên",
+   "kw2": [
+    "cầu long biên đi bên trái",
+    "xe số qua cầu long biên"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "khách du lịch lần đầu chạy xe máy ở Hà Nội",
+   "location_scope": "cầu Long Biên, phố cổ và quận Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-009",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Mù Cang Chải mùa lúa chín: chia ba ngày qua Nghĩa Lộ, Tú Lệ, đèo Khau Phạ và canh xăng",
+   "intent": "Lên kế hoạch chuyến ba ngày đi Mù Cang Chải bằng Yamaha Sirius mùa lúa chín, chia chặng qua Nghĩa Lộ, Tú Lệ, chọn số trên đèo Khau Phạ và đổ xăng kịp ở các thị trấn.",
+   "kw": "sirius đi mù cang chải",
+   "kw2": [
+    "xe số qua đèo khau phạ",
+    "mù cang chải mùa lúa chín xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi phượt đã quen lái xe số",
+   "location_scope": "Hà Nội, Nghĩa Lộ, Tú Lệ, Mù Cang Chải",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-010",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Đi chợ Viềng Phủ Dày đêm mùng 7 Tết bằng Yamaha Sirius: chạy đêm gần 100 km, đường làng đông và gửi xe",
+   "intent": "Lên kế hoạch đi chợ Viềng Phủ Dày đêm mùng 7 Tết bằng Yamaha Sirius, chuẩn bị đèn và quần áo chạy đêm, đi chậm trên đường làng đông người và gửi xe an toàn.",
+   "kw": "sirius đi chợ viềng",
+   "kw2": [
+    "chợ viềng phủ dày xe máy",
+    "đi chợ viềng mùng 7 tết"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người Hà Nội đi chợ cầu may đầu năm",
+   "location_scope": "Hà Nội, Phủ Lý, Phủ Dày (Vụ Bản)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-011",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi chùa Dâu, chùa Bút Tháp ở Thuận Thành: đường liên tỉnh, đường làng và gửi xe cổng chùa",
+   "intent": "Biết cách đi Yamaha Sirius từ Hà Nội sang Thuận Thành viếng chùa Dâu và chùa Bút Tháp trong ngày, nối hai chùa qua đường làng và gửi xe gọn ở cổng chùa.",
+   "kw": "sirius đi chùa dâu bút tháp",
+   "kw2": [
+    "đi thuận thành bằng xe số",
+    "chùa bút tháp xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người yêu chùa cổ và kiến trúc Phật giáo",
+   "location_scope": "Gia Lâm, Thuận Thành (Bắc Ninh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-012",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi hồ Ba Bể hai ngày: quốc lộ 3 qua Thái Nguyên, Chợ Mới, các đoạn đèo và chỗ nghỉ máy dọc đường",
+   "intent": "Lên kế hoạch hai ngày đi hồ Ba Bể bằng Yamaha Sirius theo quốc lộ 3, chia chặng qua Thái Nguyên và Chợ Mới, chọn số trên các đoạn đèo và cho máy nghỉ đúng lúc.",
+   "kw": "sirius đi hồ ba bể",
+   "kw2": [
+    "xe số đi ba bể",
+    "quốc lộ 3 đi ba bể xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "nhóm bạn hoặc cặp đôi đi chơi dài ngày",
+   "location_scope": "Hà Nội, Thái Nguyên, Chợ Mới, hồ Ba Bể",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-013",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi hồ Đại Lải trong ngày: qua Mê Linh, Phúc Yên, chạy đường ven hồ và giờ về tránh tắc cửa ngõ",
+   "intent": "Lên kế hoạch ngày đi hồ Đại Lải bằng Yamaha Sirius, chọn đường qua Mê Linh và Phúc Yên, đi chậm trên đường ven hồ nhiều khúc cua và canh giờ về tránh tắc cửa ngõ.",
+   "kw": "sirius đi hồ đại lải",
+   "kw2": [
+    "đi đại lải bằng xe số",
+    "hồ đại lải xe máy trong ngày"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi làm muốn đi chơi gần một ngày cuối tuần",
+   "location_scope": "Hà Nội, Mê Linh, Phúc Yên (hồ Đại Lải)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-014",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Pù Luông: chặng dài qua Mai Châu, đường bê tông dốc vào bản và xuống dốc ướt bằng số thấp",
+   "intent": "Lên kế hoạch chuyến đi Pù Luông bằng Yamaha Sirius qua Mai Châu, nắm cách leo đường bê tông dốc hẹp vào bản, giữ số thấp khi xuống dốc ướt và chọn nơi để xe qua đêm.",
+   "kw": "sirius đi pù luông",
+   "kw2": [
+    "xe số đi pù luông",
+    "đường vào bản pù luông xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi phượt ưa nghỉ dưỡng ở bản",
+   "location_scope": "Hà Nội, Mai Châu, Bá Thước (Pù Luông)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-015",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius lên đỉnh Mẫu Sơn: đường dốc nhiều cua gấp, giữ số 1 khi leo và hãm bằng số khi xuống trong sương",
+   "intent": "Biết cách điều khiển Yamaha Sirius trên đường lên đỉnh Mẫu Sơn, chọn số khi leo dốc gắt nhiều cua, hãm bằng số khi xuống và giảm tốc an toàn lúc sương mù dày mùa đông.",
+   "kw": "sirius lên mẫu sơn",
+   "kw2": [
+    "xe số lên đỉnh mẫu sơn",
+    "đường lên mẫu sơn xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi phượt mùa đông muốn ngắm mây và sương",
+   "location_scope": "Lạng Sơn, núi Mẫu Sơn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-016",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Lục Ngạn mùa vải thiều: theo quốc lộ 31, chở thùng vải trên yên sau và về Hà Nội trước tối",
+   "intent": "Lên kế hoạch đi vườn vải Lục Ngạn bằng Yamaha Sirius đầu mùa hè, nắm đường theo quốc lộ 31, cách buộc thùng vải chắc trên yên sau và canh giờ về Hà Nội trước tối.",
+   "kw": "sirius đi lục ngạn",
+   "kw2": [
+    "chở vải thiều bằng xe số",
+    "mùa vải lục ngạn xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người Hà Nội đi mua vải tận vườn",
+   "location_scope": "Hà Nội, quốc lộ 31, Lục Ngạn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-017",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius lên Tây Thiên: dốc lên thiền viện Trúc Lâm, chọn số khi leo, chỗ gửi xe và giờ xuống núi",
+   "intent": "Biết cách đi Yamaha Sirius từ Hà Nội lên khu Tây Thiên, leo dốc tới thiền viện Trúc Lâm bằng số thấp, gửi xe đúng nơi và xuống núi trước khi trời tối.",
+   "kw": "sirius đi tây thiên",
+   "kw2": [
+    "xe số lên thiền viện tây thiên",
+    "đi tây thiên bằng xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi lễ, vãn cảnh chùa trên núi",
+   "location_scope": "Hà Nội, chân núi Tam Đảo (khu Tây Thiên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-018",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius đi Côn Sơn, Kiếp Bạc ở Chí Linh: chặng khoảng 80 km, nghỉ giữa đường và gửi xe hai khu di tích",
+   "intent": "Lên kế hoạch ngày đi Côn Sơn và Kiếp Bạc bằng Yamaha Sirius, chia chặng nghỉ hợp lý, nối hai khu di tích theo thứ tự thuận đường và gửi xe gọn trước khi vào lễ.",
+   "kw": "sirius đi côn sơn kiếp bạc",
+   "kw2": [
+    "đi chí linh bằng xe số",
+    "côn sơn kiếp bạc xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi lễ đầu năm và du lịch tâm linh",
+   "location_scope": "Hà Nội, Chí Linh (Côn Sơn, Kiếp Bạc)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-019",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Quen xe ga, lần đầu lái Yamaha Sirius: tay trái không còn phanh, phanh sau ở chân phải và phản xạ khi dừng gấp",
+   "intent": "Hiểu những khác biệt khi người quen xe ga chuyển sang Yamaha Sirius, tập lại phản xạ phanh chân phải thay cho tay trái, phối hợp với số và dừng gấp an toàn trong phố.",
+   "kw": "quen xe ga đi sirius",
+   "kw2": [
+    "từ xe ga sang sirius",
+    "phanh chân xe sirius"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người chỉ quen lái xe tay ga",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-020",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Đi dép tông, dép lê lái Yamaha Sirius: gạt số bằng mu bàn chân, đau ngón và khi nào nên đổi sang giày kín",
+   "intent": "Hiểu rủi ro khi đi dép tông hoặc dép lê điều khiển Yamaha Sirius, biết cách gạt số và đạp phanh chân an toàn hơn và quyết định lúc nào cần đổi sang giày kín mũi.",
+   "kw": "đi dép lái xe sirius",
+   "kw2": [
+    "dép tông gạt số xe số",
+    "giày nào đi xe sirius"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "khách du lịch mùa hè chỉ mang dép",
+   "location_scope": "phố cổ và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-021",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Đi Yamaha Sirius chung đoàn với xe côn tay Exciter, Winner: giữ nhịp riêng, không đua theo và hẹn điểm chờ",
+   "intent": "Biết cách đi Yamaha Sirius trong đoàn có xe côn tay mạnh hơn, giữ tốc độ vừa sức xe 110cc, không đua theo khi vượt và thống nhất điểm chờ để cả đoàn không lạc nhau.",
+   "kw": "sirius đi chung đoàn xe côn tay",
+   "kw2": [
+    "đi phượt cùng xe côn tay",
+    "xe số đi đoàn giữ nhịp"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người đi phượt theo nhóm có nhiều dòng xe",
+   "location_scope": "các cung đường ngoại thành và đường đèo quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-022",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Chở người ngồi sau nặng hơn mình trên Yamaha Sirius: đầu xe nhẹ, phanh sớm hơn và lên dốc cầu ở số thấp",
+   "intent": "Biết cách người lái nhỏ con điều khiển Yamaha Sirius khi chở người ngồi sau nặng hơn, giữ đầu xe ổn định, phanh sớm hơn, vào cua chậm và chọn số thấp khi lên dốc cầu.",
+   "kw": "sirius chở người nặng hơn",
+   "kw2": [
+    "người nhỏ con chở người to",
+    "sirius chở hai người lên dốc"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người lái nhỏ con, nhẹ cân chở bạn hoặc người thân",
+   "location_scope": "nội thành Hà Nội và các dốc cầu qua sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-023",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Chở cành đào, chậu quất ngày Tết bằng Yamaha Sirius: buộc trên yên sau, giữ thăng bằng và tránh vướng cần số",
+   "intent": "Biết cách chở cành đào và chậu quất bằng Yamaha Sirius không có sàn để chân, buộc chắc trên yên sau, giữ thăng bằng trong phố đông cận Tết và không để cành lá vướng cần số.",
+   "kw": "sirius chở cành đào quất",
+   "kw2": [
+    "chở quất tết bằng xe số",
+    "buộc cành đào trên xe máy"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người mua đào, quất chơi Tết",
+   "location_scope": "Nhật Tân, Tứ Liên, Quảng An và nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-024",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Tay ga Yamaha Sirius trả về chậm hoặc bị kẹt: thử khi nhận xe, xử lý khi đang chạy và báo cửa hàng",
+   "intent": "Biết cách kiểm tra tay ga Yamaha Sirius có tự trả về khi nhận xe, nhận ra dấu hiệu ga kẹt khi đang chạy, xử lý bằng phanh và tắt máy an toàn rồi báo cửa hàng.",
+   "kw": "tay ga sirius bị kẹt",
+   "kw2": [
+    "sirius ga trả về chậm",
+    "xe số kẹt ga xử lý"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người thuê xe số đi trong phố và đường trường",
+   "location_scope": "Hà Nội và các chặng ngoại thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-055-025",
+   "child_id": "C-YAMAHA-SIRIUS",
+   "title": "Yamaha Sirius hay Honda Air Blade cho chuyến đèo ba ngày: xe số giữ số khi xuống hay xe ga khỏe hơn khi leo",
+   "intent": "Hiểu khác biệt giữa Yamaha Sirius và Honda Air Blade trên chuyến đèo dốc nhiều ngày, so sánh cảm giác leo dốc, hãm khi xuống, chở đồ và độ mỏi để chọn xe hợp tay lái.",
+   "kw": "sirius hay air blade đi đèo",
+   "kw2": [
+    "xe số hay xe ga đi đèo",
+    "so sánh sirius và air blade"
+   ],
+   "links": [
+    "/xe-may/yamaha-sirius/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-055",
+   "audience": "người chuẩn bị chuyến đi núi phía Bắc lần đầu",
+   "location_scope": "các cung đèo phía Bắc xuất phát từ Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}
