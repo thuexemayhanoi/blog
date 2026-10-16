@@ -2,73 +2,73 @@
   "schema_version": "2",
   "mode": "new",
   "queue": [
-    "BLG-04399",
-    "BLG-04400",
-    "BLG-04401",
-    "BLG-04402",
-    "BLG-04403",
-    "BLG-04404",
-    "BLG-04405",
-    "BLG-04406",
-    "BLG-04407",
-    "BLG-04408"
+    "BLG-04409",
+    "BLG-04410",
+    "BLG-04411",
+    "BLG-04412",
+    "BLG-04413",
+    "BLG-04414",
+    "BLG-04415",
+    "BLG-04416",
+    "BLG-04417",
+    "BLG-04418"
   ],
   "pair_size": 2,
-  "started": "2026-10-16T00:39:23Z",
-  "finished": "2026-10-16T00:40:38Z",
+  "started": "2026-10-16T00:49:16Z",
+  "finished": "2026-10-16T00:50:32Z",
   "pairs": [
     {
       "pair_index": 1,
       "ids": [
-        "BLG-04399",
-        "BLG-04400"
+        "BLG-04409",
+        "BLG-04410"
       ],
       "status": "published"
     },
     {
       "pair_index": 2,
       "ids": [
-        "BLG-04401",
-        "BLG-04402"
+        "BLG-04411",
+        "BLG-04412"
       ],
       "status": "published"
     },
     {
       "pair_index": 3,
       "ids": [
-        "BLG-04403",
-        "BLG-04404"
+        "BLG-04413",
+        "BLG-04414"
       ],
       "status": "published"
     },
     {
       "pair_index": 4,
       "ids": [
-        "BLG-04405",
-        "BLG-04406"
+        "BLG-04415",
+        "BLG-04416"
       ],
       "status": "published"
     },
     {
       "pair_index": 5,
       "ids": [
-        "BLG-04407",
-        "BLG-04408"
+        "BLG-04417",
+        "BLG-04418"
       ],
       "status": "published"
     }
   ],
   "published": [
-    "BLG-04399",
-    "BLG-04400",
-    "BLG-04401",
-    "BLG-04402",
-    "BLG-04403",
-    "BLG-04404",
-    "BLG-04405",
-    "BLG-04406",
-    "BLG-04407",
-    "BLG-04408"
+    "BLG-04409",
+    "BLG-04410",
+    "BLG-04411",
+    "BLG-04412",
+    "BLG-04413",
+    "BLG-04414",
+    "BLG-04415",
+    "BLG-04416",
+    "BLG-04417",
+    "BLG-04418"
   ],
   "recoverable": [],
   "deferred": [],
