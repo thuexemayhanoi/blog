@@ -15,19 +15,19 @@ writer: W1
 writer_session: s-claudec-w1
 ---
 
-Chuyện xe máy nhường xe đạp Hồ Tây nghe như một phép lịch sự nhỏ, nhưng trên đường ven hồ, đó là cách tránh va chạm hiệu quả nhất. Sáng sớm và chiều tối, quanh hồ có rất nhiều người đạp xe, chạy bộ, đi bộ, trẻ con tập xe, người dừng chụp ảnh. Nếu bạn mới thuê xe máy và lần đầu chạy vòng hồ, bài này giúp bạn giữ tốc độ phù hợp, vượt đúng cách, nhường lối ở đoạn hẹp và dừng xe không chắn đường ai.
+Chuyện xe máy nhường xe đạp Hồ Tây nghe như một phép lịch sự nhỏ, nhưng trên đường ven hồ, đó là cách tránh va chạm hiệu quả nhất. Sáng sớm và chiều tối, quanh hồ có rất nhiều người đạp xe, chạy bộ, đi bộ, trẻ con tập xe, người dừng chụp ảnh. Nếu bạn mới thuê xe máy và lần đầu chạy vòng hồ, bài này giúp bạn giữ tốc độ phù hợp, vượt đúng luật, nhường lối ở đoạn hẹp và dừng xe không chắn đường ai.
 
 ## Xe máy nhường xe đạp Hồ Tây: ai đang dùng chung con đường
 
-Đường ven hồ không chỉ dành cho xe máy và ô tô. Mỗi nhóm người dùng đường có kiểu di chuyển khác nhau, và hiểu điều đó giúp bạn đoán trước họ sẽ làm gì:
+Mỗi nhóm người dùng đường ven hồ có kiểu di chuyển riêng, hiểu điều đó giúp bạn đoán trước họ sẽ làm gì:
 
 - **Nhóm đạp xe thể thao** đi thành đoàn, tốc độ khá nhanh, thường bám sát mép đường.
-- **Người đạp xe dạo chơi, xe đạp thuê** đi chậm, hay dừng đột ngột để ngắm hồ hoặc chụp ảnh, đôi khi chưa quen tay lái.
-- **Người chạy bộ** có thể chạy dưới lòng đường ở chỗ vỉa hè bị chắn, nhiều người đeo tai nghe nên khó nghe tiếng xe.
-- **Người đi bộ, gia đình có trẻ nhỏ** dễ bước xuống lòng đường khi vỉa hè hẹp hoặc khi băng sang mép hồ.
-- **Người đứng chụp ảnh** hay lùi lại phía sau để lấy góc rộng mà không nhìn đường.
+- **Người đạp xe dạo chơi, xe đạp thuê** đi chậm, hay dừng đột ngột để ngắm hồ, đôi khi chưa quen tay lái.
+- **Người chạy bộ** nhiều người đeo tai nghe nên khó nghe tiếng xe.
+- **Người đi bộ, gia đình có trẻ nhỏ** dễ bước xuống lòng đường khi vỉa hè hẹp.
+- **Người đứng chụp ảnh** hay lùi lại để lấy góc rộng mà không nhìn đường.
 
-Đông nhất là sáng sớm trước giờ đi làm và chiều tối khi trời dịu. Những khung giờ này, hãy coi như đoạn đường nào cũng có thể có người bất ngờ xuất hiện.
+Theo báo Nhân Dân, bờ đông với đường Thanh Niên là đoạn đông người đạp xe nhất, sau đó tới bờ nam quanh Nguyễn Đình Thi, Trích Sài, nơi có nhiều điểm cho thuê xe đạp và đông nhất vào cuối tuần. Quanh hồ hiện chưa có làn đường riêng cho xe đạp, nên mọi người dùng chung lòng đường. Chiều tối, hàng quán và xe dựng lấn vỉa hè còn khiến người đi bộ, người chạy bộ phải xuống lòng đường, như VOV Giao thông từng phản ánh.
 
 ## Đi xe máy ven Hồ Tây an toàn: giữ tốc độ thấp
 
@@ -35,22 +35,21 @@ Chuyện xe máy nhường xe đạp Hồ Tây nghe như một phép lịch sự
 
 - Chạy chậm hơn hẳn tốc độ bạn vẫn đi trong phố, nhất là ở khúc cua và đoạn có quán xá.
 - Đặt sẵn tay trên phanh khi đi qua chỗ đông người.
-- Không lạng lách, không chạy hàng ngang hai ba xe để trò chuyện.
-- Buổi tối và sáng sớm trời còn tối, bật đèn chiếu gần để người chạy bộ thấy bạn từ xa.
+- Không lạng lách, không dàn hàng ngang để trò chuyện; luật cấm người đi xe máy dàn hàng ngang.
+- Sáng sớm và buổi tối, bật đèn chiếu gần để người chạy bộ thấy bạn từ xa.
 
-Xe ga máy êm như Honda Vision chạy gần như không có tiếng, người đi bộ và người đạp xe khó nghe thấy. Cách báo hiệu và giảm tốc khi đi xe máy êm được nói ở bài [Honda Vision máy êm: người đi bộ, xe đạp khó nghe tiếng xe](/xe-may/2026/10/15/honda-vision-may-em-trong-pho-co-nguoi-di-bo-xe-dap-kho-nghe-tieng-xe-va-cach-ba/ "Honda Vision máy êm: báo hiệu cho người đi bộ, xe đạp").
+Xe ga máy êm như Honda Vision gần như không có tiếng, người đi bộ và người đạp xe khó nhận ra bạn đang tới. Cách báo hiệu khi đi xe máy êm có ở bài [Honda Vision máy êm: người đi bộ, xe đạp khó nghe tiếng xe](/xe-may/2026/10/15/honda-vision-may-em-trong-pho-co-nguoi-di-bo-xe-dap-kho-nghe-tieng-xe-va-cach-ba/ "Honda Vision máy êm: báo hiệu cho người đi bộ, xe đạp").
 
 ## Quan sát kỹ trước khi vượt
 
-Phần lớn va chạm giữa xe máy và xe đạp xảy ra lúc vượt. Trước khi vượt một người đạp xe hay một đoàn xe đạp:
+Vượt là thao tác cần cẩn thận nhất trên đường ven hồ. Trước khi vượt một người đạp xe hay một đoàn xe đạp:
 
 1. **Nhìn gương và quay đầu kiểm tra** phía sau, phía bên trái.
-2. **Bật xi nhan sớm**, vượt về phía bên trái theo nguyên tắc chung.
-3. **Bấm còi nhẹ một tiếng từ xa** nếu cần báo hiệu; không bóp còi dài sát sau lưng làm người đạp xe giật mình.
-4. **Chừa khoảng cách ngang rộng.** Người đạp xe có thể lách ra bất ngờ để tránh ổ gà, vũng nước hay xe đỗ bên đường.
-5. **Chỉ vượt ở đoạn thẳng, nhìn rõ phía trước.** Không vượt ở khúc cua, gần lối vào chùa hay chỗ có người sang đường.
+2. **Bật xi nhan sớm và vượt về bên trái**, như Luật Trật tự, an toàn giao thông đường bộ năm 2024 quy định; xe đạp đi ở làn bên phải trong cùng.
+3. **Bấm còi nhẹ một tiếng từ xa** nếu thật cần. Từ 22 giờ tới 5 giờ sáng, trong khu đông dân cư luật không cho bấm còi, chỉ báo hiệu xin vượt bằng đèn.
+4. **Chừa khoảng cách ngang rộng**, vì người đạp xe có thể lách ra để tránh ổ gà, vũng nước.
 
-Với một đoàn đạp xe dài, đừng cắt ngang giữa đoàn. Đi chậm phía sau, đợi đoạn đường thẳng và trống rồi vượt cả đoàn một lượt.
+Luật cũng cấm vượt ở phần đường dành cho người đi bộ qua đường, khi có người đi bộ hoặc xe lăn đang qua đường, và khi thời tiết hay mặt đường không bảo đảm an toàn. Chỉ vượt ở đoạn thẳng, nhìn rõ phía trước. Với một đoàn đạp xe dài, đừng cắt ngang giữa đoàn; đi chậm phía sau, đợi đoạn thẳng và trống rồi vượt cả đoàn một lượt.
 
 ## Nhường lối ở đoạn hẹp và chỗ đông người
 
@@ -58,38 +57,33 @@ Có những chỗ bạn nên chủ động dừng hoặc đi thật chậm để
 
 - **Đoạn đường hẹp** có xe đỗ một bên, chỉ đủ một làn qua lại.
 - **Trước cổng chùa, phủ, quán đông khách**, nơi người ra vào liên tục.
-- **Chỗ có vạch kẻ cho người đi bộ** sang đường hoặc chỗ người dân hay băng sang mép hồ.
+- **Chỗ có vạch kẻ cho người đi bộ** hoặc chỗ người dân hay băng sang mép hồ.
 - **Khu vực trẻ em tập xe đạp, chơi đùa**, nhất là chiều cuối tuần.
-
-Đi qua người chạy bộ, nhớ rằng họ có thể đổi hướng đột ngột để tránh người đi bộ phía trước. Giữ khoảng cách, đi chậm và đừng bám sát sau lưng họ.
+- **Sau lưng người chạy bộ**: giữ khoảng cách, vì họ có thể đổi hướng đột ngột.
 
 ## Dừng xe không chắn đường
 
-Muốn dừng ngắm hồ hay chụp ảnh, hãy tấp hẳn vào chỗ có lề rộng, không dừng giữa lòng đường hay đè lên lối đi của người đi bộ. Trước khi dừng, bật xi nhan, nhìn gương để xe đạp phía sau không đâm vào đuôi xe bạn. Khi quay lại đường, nhường người đạp xe và người chạy bộ đang tới rồi mới nhập làn.
+Muốn dừng ngắm hồ hay chụp ảnh, tấp hẳn vào chỗ có lề rộng, không dừng giữa lòng đường hay đè lên lối đi bộ. Trước khi dừng, bật xi nhan và nhìn gương. Khi quay lại đường, nhường người đạp xe và người chạy bộ đang tới rồi mới nhập làn.
 
 Cách tìm chỗ dừng xe hợp lệ ở một điểm chụp ảnh đông người được nói ở bài [cây cô đơn Hồ Tây: tìm đúng chỗ chụp và dừng xe không cản đường](/du-lich/2026/10/15/cay-co-don-ho-tay-tim-dung-cho-chup-anh-gio-anh-sang-dep-va-dung-xe-may-khong-ca/ "Cây cô đơn Hồ Tây: dừng xe máy không cản đường"). Nếu chính bạn ra hồ để chạy bộ, xem chỗ gửi xe ở bài [chạy bộ sáng sớm quanh Hồ Tây](/du-lich/2026/10/10/chay-bo-sang-som-quanh-ho-tay-iem-gui-xe-va-cung-uong/ "Chạy bộ sáng sớm quanh Hồ Tây: điểm gửi xe và cung đường").
 
-## Ngày có giải chạy hoặc sự kiện thể thao
+## Ngày có giải chạy và đoạn đường đang thi công
 
-Một số ngày cuối tuần, đường ven hồ có giải chạy hoặc giải đạp xe, một phần đường bị rào chắn, lượng người đi bộ tăng vọt. Đi theo hướng dẫn của người điều tiết, chọn đường vòng tránh và đừng cố len vào làn dành cho vận động viên. Gợi ý đường vòng có ở bài [ngày có giải chạy quanh Hồ Tây](/du-lich/2026/10/15/ngay-co-giai-chay-quanh-ho-tay-duong-ven-ho-bi-rao-chan-va-cach-di-xe-may-vong-t/ "Ngày có giải chạy quanh Hồ Tây: đường vòng tránh").
+Một số ngày cuối tuần, đường ven hồ có giải chạy hoặc giải đạp xe, một phần đường bị rào chắn. Đi theo hướng dẫn của người điều tiết, chọn đường vòng và đừng len vào làn dành cho vận động viên; gợi ý có ở bài [ngày có giải chạy quanh Hồ Tây](/du-lich/2026/10/15/ngay-co-giai-chay-quanh-ho-tay-duong-ven-ho-bi-rao-chan-va-cach-di-xe-may-vong-t/ "Ngày có giải chạy quanh Hồ Tây: đường vòng tránh"). Ngoài ra, dự án cải tạo, mở rộng đường ven Hồ Tây đã khởi công cuối tháng 8/2026; trong thời gian thi công, một số đoạn có thể bị rào chắn hoặc thu hẹp, nên đi chậm và theo biển hướng dẫn.
 
 ## Nếu chẳng may va chạm nhẹ
 
-Dừng xe ở vị trí an toàn, bật đèn cảnh báo nếu xe có, hỏi han người bị va chạm trước tiên. Nếu có người bị thương, gọi cấp cứu 115. Chụp ảnh hiện trường, giữ bình tĩnh, không tranh cãi. Nếu là xe thuê, gọi ngay cho cửa hàng; các bước tiếp theo có ở bài [tai nạn nhẹ với xe thuê: các bước xử lý ngay](/thue-xe/2026/09/27/tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay/ "Tai nạn nhẹ với xe thuê: các bước xử lý ngay").
+Dừng xe ở vị trí an toàn, hỏi han người bị va chạm trước tiên; có người bị thương thì gọi cấp cứu 115. Chụp ảnh hiện trường, giữ bình tĩnh, không tranh cãi. Nếu là xe thuê, gọi ngay cho cửa hàng; các bước tiếp theo có ở bài [tai nạn nhẹ với xe thuê: các bước xử lý ngay](/thue-xe/2026/09/27/tai-nan-nhe-voi-xe-thue-cac-buoc-xu-ly-ngay/ "Tai nạn nhẹ với xe thuê: các bước xử lý ngay").
 
 ## Câu hỏi thường gặp
 
-### Vượt người đạp xe quanh Hồ Tây thế nào cho an toàn?
+### Vượt người đạp xe quanh Hồ Tây thế nào cho đúng luật?
 
-Nhìn gương, bật xi nhan sớm, chỉ vượt ở đoạn thẳng nhìn rõ phía trước, đi về phía bên trái và chừa khoảng cách ngang rộng.
-
-### Giờ nào đường ven Hồ Tây đông người tập thể dục nhất?
-
-Sáng sớm và chiều tối là lúc nhiều người đạp xe, chạy bộ và đi bộ nhất; hãy đi chậm hơn và bật đèn khi trời còn tối.
+Nhìn gương, bật xi nhan sớm, vượt về bên trái ở đoạn thẳng nhìn rõ phía trước, chừa khoảng cách ngang rộng và không vượt ở chỗ có người đi bộ đang qua đường.
 
 ### Có nên bấm còi khi đi sau người chạy bộ không?
 
-Chỉ bấm một tiếng nhẹ từ xa khi thật cần. Tiếng còi dài ngay sau lưng dễ làm người chạy giật mình và đổi hướng đột ngột.
+Chỉ bấm một tiếng nhẹ từ xa khi thật cần, và không bấm từ 22 giờ tới 5 giờ sáng trong khu đông dân cư; còi dài ngay sau lưng dễ làm người chạy giật mình đổi hướng.
 
 ## Thuê xe máy dạo Hồ Tây
 

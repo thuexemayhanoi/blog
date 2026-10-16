@@ -37,15 +37,14 @@ Kể cả khi đã gửi xe có người trông, đừng bỏ qua bước khóa 
 - **Khóa đĩa nếu có.** Ổ khóa đĩa nhỏ, gọn, làm kẻ gian khó dắt xe đi. Móc chìa khóa đĩa chung với chìa xe để không quên tháo trước khi chạy.
 - **Bật chống trộm nếu xe có chức năng này,** và hỏi trước cửa hàng cách tắt khi còi kêu nhầm.
 
-Ai muốn tìm hiểu kỹ hơn có thể đọc bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/ "Chống trộm xe máy khi để ngoài đường").
+Khóa tốt vẫn chưa đủ. Tháng 10/2024, Công an Hà Nội triệt phá một đường dây trộm xe máy chuyên đi đêm tìm xe dựng ngoài đường không người trông, dùng kìm thủy lực cắt cả khóa chữ U. Vì vậy, hãy kết hợp khóa với chỗ gửi có người trông. Xem thêm bài [chống trộm xe máy khi để ngoài đường](/ky-nang/2026-09-29/chong-trom-xe-may-khi-e-ngoai-uong/ "Chống trộm xe máy khi để ngoài đường").
 
 ## Mũ bảo hiểm: cất vào cốp hay mang theo
 
-Mũ bảo hiểm treo trên gương hay móc trước là thứ dễ thất lạc nhất ở các bãi xe đông. Mũ có thể bị người khác lấy nhầm, bị gió hất xuống đất, hoặc đọng sương ướt lót trong khi bạn ngồi quán.
+Mũ bảo hiểm treo trên gương hay móc trước là thứ dễ thất lạc nhất ở các bãi xe đông: dễ bị lấy nhầm, bị gió hất xuống đất hoặc đọng sương ướt lót.
 
 - Cất mũ vào cốp nếu cốp đủ chỗ. Nhiều xe ga cỡ nhỏ chỉ vừa một mũ nửa đầu.
 - Đi hai người mà cốp chỉ vừa một mũ, hãy mang chiếc còn lại vào quán, đặt dưới gầm bàn hoặc trên ghế trống.
-- Không móc mũ vào tay lái rồi khóa cổ: mũ đung đưa dễ trầy, quai mũ còn có thể vướng khi dắt xe.
 
 Các cách giữ mũ khi xuống xe đi bộ có ở bài [giữ mũ bảo hiểm khi xuống xe đi bộ](/ky-nang/2026-09-29/giu-mu-bao-hiem-khi-xuong-xe-i-bo/ "Giữ mũ bảo hiểm khi xuống xe đi bộ").
 
@@ -62,7 +61,7 @@ Cốp xe ga tiện, nhưng không phải két sắt. Ổ cốp có thể bị c�
 - Sạc dự phòng hay thuốc men cần để nơi mát.
 - Túi mua sắm có hóa đơn giá trị.
 
-Giấy tờ xe và giấy tờ tùy thân nên mang theo người, cất trong túi đeo chéo có khóa kéo.
+Giấy tờ xe và giấy tờ tùy thân nên mang theo người, cất trong túi đeo chéo có khóa kéo. Công an TP Hà Nội cũng khuyến cáo gửi xe máy ở nơi có người trông giữ, khóa xe cẩn thận và không để vật dụng có giá trị, giấy tờ quan trọng trong cốp xe.
 
 ## Trong lúc ngồi quán
 
@@ -92,10 +91,6 @@ Không nên. Mũ treo trên gương hay móc trước dễ bị lấy nhầm và
 ### Để ví, điện thoại trong cốp xe có an toàn không?
 
 Không. Ổ cốp có thể bị cạy và lòng cốp dễ ấm lên sau quãng chạy dài, nên ví, giấy tờ và điện thoại hãy mang theo người.
-
-### Quay lại không thấy xe thì làm gì trước tiên?
-
-Hỏi người trông xe và chủ quán xem xe có bị xếp sang chỗ khác không. Sau đó mới tính tới khả năng xe bị tạm giữ hay bị mất; nếu là xe thuê, gọi ngay cho cửa hàng.
 
 ## Thuê xe máy đi chơi Hồ Tây buổi tối
 

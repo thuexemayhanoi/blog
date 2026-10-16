@@ -21,9 +21,9 @@ Muốn tìm một quán cà phê view Hồ Tây, điều nên quyết định tr
 
 Quanh hồ có rất nhiều quán, đổi chủ, đổi tên khá nhanh, nên thay vì nhớ tên, hãy nhận ra kiểu quán.
 
-**Quán sát mép nước.** Nằm dọc các đoạn đường ven hồ như Xuân Diệu, Nguyễn Đình Thi, Lạc Long Quân, Nhật Chiêu hay khu Trích Sài. Bàn ghế kê sát lan can, ngồi là thấy mặt nước ngay trước mặt. Gió mát, nhìn được người qua lại, nhưng buổi chiều có thể nắng hắt thẳng vào mặt, và tiếng xe trên đường ven hồ khá rõ.
+**Quán sát mép nước.** Nằm dọc các đoạn đường ven hồ như Xuân Diệu, Nguyễn Đình Thi, Lạc Long Quân, Nhật Chiêu hay khu Trích Sài. Bàn ghế kê sát lan can, ngồi là thấy mặt nước ngay trước mặt. Gió mát, nhìn được người qua lại, nhưng buổi chiều có thể nắng hắt thẳng vào mặt, và tiếng xe trên đường ven hồ khá rõ. Theo báo Nhân Dân, ở Nguyễn Đình Thi và Trích Sài có nhiều quán nhiều tầng, ngồi tầng hai, tầng ba nhìn ra hồ. Cũng có kiểu quầy bar nằm hẳn trên mặt nước, như Sunset Bar của khách sạn InterContinental Hanoi Westlake ở số 5 Từ Hoa, đặt giữa các nhà nổi và đi vào qua một cây cầu.
 
-**Quán trên tầng cao.** Thường ở tầng thượng hoặc tầng cao của khách sạn, tòa nhà văn phòng, chung cư quanh hồ. Nhìn được cả một vùng mặt hồ rộng, ngắm hoàng hôn rất đẹp, đỡ ồn hơn. Đổi lại, giá đồ uống thường cao hơn quán vỉa hè, có nơi yêu cầu trang phục lịch sự, và bạn phải để xe ở hầm hoặc bãi của tòa nhà.
+**Quán trên tầng cao.** Thường ở tầng thượng hoặc tầng cao của khách sạn, tòa nhà văn phòng, chung cư quanh hồ. Nhìn được cả một vùng mặt hồ rộng, ngắm hoàng hôn rất đẹp, đỡ ồn hơn. Đổi lại, giá đồ uống thường cao hơn quán vỉa hè, có nơi yêu cầu trang phục lịch sự, và bạn phải để xe ở hầm hoặc bãi của tòa nhà. Một ví dụ quen thuộc là Summit Rooftop Bar ở tầng 20 khách sạn Pan Pacific Hanoi, số 1 Thanh Niên, nhìn xuống Hồ Tây từ trên cao.
 
 **Quán trong ngõ có ban công nhìn hồ.** Ở các ngõ nhỏ khu Quảng An, Tô Ngọc Vân hay ngõ Xuân Diệu, có những quán nhà phố cải tạo, tầng hai, tầng ba có ban công hướng ra hồ. Yên tĩnh, hợp ngồi làm việc hay đọc sách, nhưng ngõ hẹp và chỗ để xe ít.
 
@@ -31,7 +31,7 @@ Quanh hồ có rất nhiều quán, đổi chủ, đổi tên khá nhanh, nên t
 
 ### Quán sát mép nước
 
-Phần lớn có người trông xe ngay trước cửa. Nhận vé, hỏi giá gửi trước khi dựng xe. Không dựng xe trên lối đi bộ sát lan can hồ hay lấn ra lòng đường ven hồ. Tối cuối tuần, dãy quán đông, chỗ để xe kín nhanh; khi đó gửi ở điểm trông giữ có vé gần đó rồi đi bộ quay lại. Các điểm gửi quen thuộc quanh hồ có ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây").
+Phần lớn có người trông xe ngay trước cửa. Báo chí từng phản ánh nhiều điểm trông xe quanh Phủ Tây Hồ, chùa Trấn Quốc thu cao hơn mức quy định, nên hãy hỏi giá trước khi dựng xe, nhận vé và giữ vé tới lúc lấy xe. Không dựng xe trên lối đi bộ sát lan can hồ hay lấn ra lòng đường ven hồ. Tối cuối tuần, dãy quán đông, chỗ để xe kín nhanh; khi đó gửi ở điểm trông giữ có vé gần đó rồi đi bộ quay lại. Các điểm gửi quen thuộc quanh hồ có ở bài [gửi xe khi đi dạo bờ Hồ Tây](/du-lich/2026/09/28/gui-xe-khi-i-dao-bo-ho-tay/ "Gửi xe khi đi dạo bờ Hồ Tây").
 
 ### Quán trên tầng cao
 
@@ -41,6 +41,7 @@ Thường gửi xe ở hầm hoặc bãi riêng của tòa nhà. Vài điều c�
 - Giữ thẻ hoặc vé gửi xe cẩn thận, nhớ tầng hầm và cột gần chỗ để xe.
 - Hỏi bảo vệ giờ đóng cửa hầm nếu bạn định ngồi muộn.
 - Một số tòa nhà thu phí gửi xe riêng, không tính vào hóa đơn đồ uống.
+- Với quầy bar trong khách sạn, hỏi trước khách sạn có nhận gửi xe máy không và gửi ở đâu.
 
 Kinh nghiệm xuống hầm gửi xe ở một trung tâm thương mại lớn phía tây hồ có ở bài [Lotte Mall Tây Hồ bằng xe máy](/du-lich/2026/10/15/lotte-mall-tay-ho-bang-xe-may-duong-vao-tu-vo-chi-cong-xuong-ham-gui-xe-va-gio-d/ "Lotte Mall Tây Hồ bằng xe máy: xuống hầm gửi xe"), áp dụng được cho nhiều tòa nhà khác.
 

@@ -19,9 +19,9 @@ Những buổi sáng ở Hồ Tây gió mùa đông bắc thổi qua mặt nư�
 
 ## Hồ Tây gió mùa đông bắc: vì sao ven hồ lạnh hơn trong phố
 
-Trong phố, nhà cửa san sát chắn bớt gió. Ra tới hồ, bạn đứng trước một mặt nước rộng mênh mông, gió thổi qua không gặp vật cản nào, nên cảm giác lạnh tăng lên rõ rệt dù nhiệt độ chỉ chênh không nhiều. Hơi ẩm từ mặt hồ khiến không khí buổi sáng lạnh và ướt hơn, áo khoác mỏng nhanh thấm lạnh.
+Theo Tổng cục Khí tượng Thủy văn, không khí lạnh ảnh hưởng tới miền Bắc từ khoảng giữa tháng 9 tới giữa tháng 6 năm sau, mạnh nhất vào các tháng chính đông từ tháng 12 tới tháng 2. Trong phố, nhà cửa san sát chắn bớt gió. Ra tới hồ, bạn đứng trước một mặt nước rộng, gió thổi qua không gặp vật cản, nên cảm giác lạnh tăng rõ dù nhiệt độ chỉ chênh không nhiều. Hơi ẩm từ mặt hồ khiến không khí buổi sáng lạnh và ướt hơn.
 
-Những đoạn trống gió nhất thường là nơi đường chạy sát mặt nước và ít nhà che:
+Những đoạn bạn sẽ thấy lộng gió nhất thường là nơi đường chạy sát mặt nước và ít nhà che:
 
 - **Đường Thanh Niên**, con đường nằm kẹp giữa Hồ Tây và hồ Trúc Bạch, hai bên đều là mặt nước.
 - **Quãng ven hồ của đường Nhật Chiêu** ở bờ bắc, nhà cửa thưa, nhìn thẳng ra hồ.
@@ -43,14 +43,14 @@ Tư thế ghì người và những điểm gió đổi đột ngột trong thà
 
 ## Sương mù Hồ Tây buổi sáng: đi chậm, nhìn xa
 
-Những sáng lạnh, ẩm, hơi nước trên mặt hồ dễ tạo thành lớp sương mỏng trôi dạt vào đường ven hồ. Có hôm sương chỉ làm mờ bờ xa, có hôm dày tới mức chỉ thấy vài chục mét trước mặt.
+Theo Trung tâm Dự báo khí tượng thủy văn quốc gia, sương mù thường xuất hiện từ cuối mùa thu tới cuối mùa xuân, nhiều nhất vào mùa đông; sương mù dày có thể làm tầm nhìn giảm xuống dưới 50 m. Sáng 2/2/2024, báo VOV ghi nhận Hồ Tây lúc 6 giờ mù mịt tới mức không nhìn rõ mặt người, người tập thể dục phải đi chậm để tránh xe ngược chiều.
 
 - Bật đèn chiếu gần, không bật đèn pha: ánh pha phản vào sương làm bạn chói mắt hơn.
 - Giữ khoảng cách xa hơn bình thường, hạn chế vượt.
 - Lau kính mũ bảo hiểm thường xuyên; hơi thở dễ làm mờ mặt kính bên trong.
 - Để ý người chạy bộ mặc đồ tối màu, khó thấy trong sương.
 
-Cách giữ khoảng cách và đọc đường khi sương dày được nói kỹ ở bài [đi xe máy trong sương mù buổi sớm mùa đông](/ky-nang/2026/10/04/i-xe-may-trong-suong-mu-buoi-som-mua-ong-giu-khoang-cach/ "Đi xe máy trong sương mù buổi sớm mùa đông").
+Từ tháng 2 tới tháng 4 là mùa nồm ẩm, mưa phùn và sương làm giảm tầm nhìn lúc sáng sớm và chiều tối; báo VOV khuyến cáo người đi đường giảm tốc độ, giữ khoảng cách an toàn. Cách giữ khoảng cách và đọc đường khi sương dày được nói kỹ ở bài [đi xe máy trong sương mù buổi sớm mùa đông](/ky-nang/2026/10/04/i-xe-may-trong-suong-mu-buoi-som-mua-ong-giu-khoang-cach/ "Đi xe máy trong sương mù buổi sớm mùa đông").
 
 ## Mặc gì cho ấm khi chạy xe ven hồ
 
