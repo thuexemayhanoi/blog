@@ -355,7 +355,7 @@ def parse_registry(text):
             # thua") se bo lease SONG hop le claim moi nhat de giu lease "ma" ->
             # fail-closed. Lease HET HAN voi khoa la vo hai (bi prune truoc buoc
             # cat), nen duoc bo qua nhu moi lease het han khac.
-            raise RegistryCorrupt('slot %r khong hop le (NaN)'
+            raise RegistryCorrupt('slot %r khong hop le (chi slot duoc cau hinh)'
                                   % str(w)[:20])
         distinct = len(set(l.get('ids', [])))
         if distinct > MAX_LEASE:
@@ -917,7 +917,7 @@ def check_invariants(reg, rows=None, now=None):
     status = {r['id']: r['status'] for r in rows} if rows else None
     for w, l in leases.items():
         if not SLOT_RE.match(w):
-            problems.append('slot %r khong hop le (NaN)' % w)
+            problems.append('slot %r khong hop le (chi slot duoc cau hinh)' % w)
         ids = l.get('ids', [])
         if len(ids) > MAX_LEASE:
             problems.append('slot %s giu %d ID (> %d)' % (w, len(ids),
@@ -1100,7 +1100,7 @@ def merge_registries(local, other, rows):
                     and not (isinstance(w, str) and SLOT_RE.match(w)):
                 # slot la khoa gan nguoi: nhap "ma" W4 SONG se day lease SONG
                 # hop le (claim moi nhat) ra khoi registry o buoc cat MAX_WRITERS
-                raise RegistryCorrupt('slot %r khong hop le (NaN)'
+                raise RegistryCorrupt('slot %r khong hop le (chi slot duoc cau hinh)'
                                       % str(w)[:20])
     require_live_ownership(local, now)
     require_live_ownership(other, now)
