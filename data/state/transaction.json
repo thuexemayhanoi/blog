@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-16T13:32:47+00:00",
+  "updated_at": "2026-10-16T14:01:40+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-04719",
-      "started_at": "2026-10-16T10:49:01+00:00",
-      "source": "_drafts/2026-10-16-khu-an-uong-quanh-hoc-vien-nong-nghiep-o-trau-quy-chay-xe-may-tu-long-bien-va-do.md",
-      "destination": "_posts/2026-10-16-khu-an-uong-quanh-hoc-vien-nong-nghiep-o-trau-quy-chay-xe-may-tu-long-bien-va-do.md",
-      "result": "PUBLISHED",
-      "commit_sha": "557b993189a1fba146ce2cd1dbb89c81b67e597a",
-      "finished_at": "2026-10-16T10:49:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-04720",
-      "started_at": "2026-10-16T10:49:01+00:00",
-      "source": "_drafts/2026-10-16-mot-ngay-lang-nghe-gia-lam-bang-xe-may-noi-bat-trang-kim-lan-va-kieu-ky-thanh-mo.md",
-      "destination": "_posts/2026-10-16-mot-ngay-lang-nghe-gia-lam-bang-xe-may-noi-bat-trang-kim-lan-va-kieu-ky-thanh-mo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "557b993189a1fba146ce2cd1dbb89c81b67e597a",
-      "finished_at": "2026-10-16T10:49:01+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-04721",
       "started_at": "2026-10-16T10:49:19+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "99669c2f83544d4d58d07783d787bdf56bcb9390",
       "finished_at": "2026-10-16T13:32:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-04779",
+      "started_at": "2026-10-16T14:01:40+00:00",
+      "source": "_drafts/2026-10-16-sinh-vien-ngoai-thuong-ngoai-giao-di-hoc-bang-xe-may-pho-chua-lang-hep-loi-vao-t.md",
+      "destination": "_posts/2026-10-16-sinh-vien-ngoai-thuong-ngoai-giao-di-hoc-bang-xe-may-pho-chua-lang-hep-loi-vao-t.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e4740ce18d18a4785c54b3531b9a48a14f222505",
+      "finished_at": "2026-10-16T14:01:40+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-04780",
+      "started_at": "2026-10-16T14:01:40+00:00",
+      "source": "_drafts/2026-10-16-sang-khai-giang-5-thang-9-o-ha-noi-duong-quanh-cac-truong-noi-thanh-un-ra-sao-va.md",
+      "destination": "_posts/2026-10-16-sang-khai-giang-5-thang-9-o-ha-noi-duong-quanh-cac-truong-noi-thanh-un-ra-sao-va.md",
+      "result": "PUBLISHED",
+      "commit_sha": "e4740ce18d18a4785c54b3531b9a48a14f222505",
+      "finished_at": "2026-10-16T14:01:40+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
