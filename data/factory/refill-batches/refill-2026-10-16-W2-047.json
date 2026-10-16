@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-047: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-16",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-001",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Gặp ô tô kéo nhau bằng dây cáp hoặc xe cứu hộ đang kéo xe hỏng: vì sao không chen vào giữa",
+   "intent": "Biết cách nhận biết sớm hai ô tô đang kéo nhau bằng dây cáp hoặc xe cứu hộ kéo xe hỏng, hiểu vì sao dây kéo khó thấy và chọn lúc vượt an toàn bằng xe máy.",
+   "kw": "ô tô kéo nhau bằng dây cáp",
+   "kw2": [
+    "xe cứu hộ kéo ô tô trên đường",
+    "chen giữa hai xe đang kéo"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy trên đường vành đai và quốc lộ",
+   "location_scope": "đường vành đai, quốc lộ cửa ngõ Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-002",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Gặp ô tô tập lái trên đường: đoán trước phanh bất chợt, chết máy và rẽ chậm khi đi xe máy phía sau",
+   "intent": "Hiểu cách nhận ra ô tô tập lái qua biển chữ tập lái, đoán trước những lúc học viên dễ phanh, chết máy, rẽ chậm và giữ khoảng cách hoặc vượt an toàn bằng xe máy.",
+   "kw": "gặp ô tô tập lái trên đường",
+   "kw2": [
+    "xe tập lái phanh đột ngột",
+    "đi sau xe tập lái"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy hằng ngày, người mới thuê xe tự lái",
+   "location_scope": "các tuyến đường rộng, ít xe ở ven nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-003",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Ô tô đỗ hai hàng chắn sát lề trên phố hẹp: khi nào lách ra giữa đường và canh xe ngược chiều thế nào",
+   "intent": "Biết cách xử lý khi ô tô đỗ hai hàng chiếm hết phần đường sát lề: quan sát gương, chờ khoảng trống từ xe ngược chiều, lách ra giữa đường thật gọn rồi trở về làn.",
+   "kw": "ô tô đỗ hai hàng chắn đường",
+   "kw2": [
+    "lách qua ô tô đỗ chắn lề",
+    "phố hẹp ô tô đỗ hai bên"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy trong phố, khách thuê xe tự lái",
+   "location_scope": "phố hẹp nhiều nhà hàng ở Hoàn Kiếm, Ba Đình, Đống Đa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-004",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Mùa thả diều ở bãi sông và đường đê ven Hà Nội: dây diều vắt ngang đường và cách đi xe máy an toàn",
+   "intent": "Hiểu vì sao dây diều đứt vắt ngang đường đê, đầu cầu và bãi sông rất khó thấy, biết cách giảm tốc, che cổ, dừng xe gỡ dây và báo cho người đi phía sau.",
+   "kw": "dây diều vắt ngang đường",
+   "kw2": [
+    "dây diều nguy hiểm người đi xe máy",
+    "thả diều trên đường đê"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy chiều tối trên đường đê và ven sông",
+   "location_scope": "đê sông Hồng, bãi sông ở Long Biên, Tây Hồ, Đông Anh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-005",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Gặp đoạn đường bị rải đinh: nhận ra khi nhiều xe cùng xịt lốp, dắt xe đi đâu và báo cho ai",
+   "intent": "Biết cách nhận ra một đoạn đường có đinh rải khi nhiều xe cùng xịt lốp, tấp vào nơi an toàn, chọn điểm vá tin cậy, báo cửa hàng cho thuê và cảnh báo người đi sau.",
+   "kw": "đường bị rải đinh xe máy",
+   "kw2": [
+    "nhiều xe cùng bị đinh",
+    "báo đoạn đường có đinh"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người thuê xe tự lái, người đi làm bằng xe máy",
+   "location_scope": "các trục đường lớn và cầu qua sông ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-006",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Sáng có giải chạy marathon đi qua phố Hà Nội: rào chắn, người chạy dưới lòng đường và cách đi vòng",
+   "intent": "Lên kế hoạch đi xe máy vào buổi sáng có giải chạy marathon: đọc thông báo phân luồng, tránh khu rào chắn, qua đường đúng điểm có người điều tiết và không cắt ngang dòng vận động viên.",
+   "kw": "giải chạy marathon cấm đường",
+   "kw2": [
+    "đi xe máy ngày chạy marathon",
+    "đường vòng khi có giải chạy"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi làm sớm, khách thuê xe dạo phố cuối tuần",
+   "location_scope": "Hoàn Kiếm, Ba Đình, Tây Hồ, Long Biên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-007",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Xe buýt, xe tải phía trước che mất đèn tín hiệu ở ngã tư: nhìn đèn ở đâu và khi nào mới được đi",
+   "intent": "Biết cách chọn chỗ đứng chờ để vẫn nhìn thấy đèn khi xe buýt, xe tải che khuất, tìm đèn phụ và đồng hồ đếm ngược, không bám theo xe lớn qua ngã tư khi chưa thấy đèn.",
+   "kw": "xe lớn che mất đèn tín hiệu",
+   "kw2": [
+    "không nhìn thấy đèn giao thông",
+    "đứng sau xe buýt ở ngã tư"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy trên các trục nhiều xe buýt",
+   "location_scope": "ngã tư lớn trên Giải Phóng, Nguyễn Trãi, Cầu Giấy",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-008",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đường hai làn bỗng thu hẹp còn một làn ở nút thắt cổ chai: nhập làn luân phiên thay vì chen lấn",
+   "intent": "Hiểu cách nhận ra sớm đoạn đường thu hẹp ở nút thắt cổ chai, chọn làn từ xa, nhập làn luân phiên với xe bên cạnh và tránh bị ô tô ép sát vào mép đường.",
+   "kw": "đường thu hẹp nút thắt cổ chai",
+   "kw2": [
+    "nhập làn luân phiên xe máy",
+    "đường bị thu hẹp đột ngột"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi làm hằng ngày bằng xe máy",
+   "location_scope": "các đoạn đường chưa mở rộng xong và đầu cầu ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-009",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Ô tô dừng lại nhường bạn cắt ngang dòng xe đang kẹt: coi chừng xe máy lao lên từ làn bên cạnh",
+   "intent": "Biết cách băng qua dòng xe đang kẹt để rẽ vào ngõ hay cổng bên kia đường: nhích từng nhịp ở mũi ô tô đang nhường, nhìn làn bị khuất và không tin hoàn toàn cái vẫy tay.",
+   "kw": "cắt ngang dòng xe đang kẹt",
+   "kw2": [
+    "ô tô nhường đường khi kẹt xe",
+    "xe máy lao lên từ làn bên"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người sống trong ngõ sát trục đường lớn",
+   "location_scope": "trục đường đông nội đô như Trường Chinh, Láng, Kim Ngưu",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-010",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Rẽ trái, quay đầu dưới gầm đường sắt đô thị trên cao: hàng trụ che khuất xe ngược chiều thế nào",
+   "intent": "Hiểu vì sao hàng trụ của tuyến đường sắt đô thị trên cao tạo điểm khuất khi rẽ trái hoặc quay đầu, và biết cách nhích xe, quan sát qua khe trụ trước khi băng qua.",
+   "kw": "quay đầu dưới đường sắt trên cao",
+   "kw2": [
+    "trụ đường sắt trên cao che tầm nhìn",
+    "rẽ trái dưới tuyến metro trên cao"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi làm dọc các tuyến đường sắt đô thị trên cao",
+   "location_scope": "Nguyễn Trãi, Hà Đông, Cầu Giấy, Xuân Thủy, Hồ Tùng Mậu, Cầu Diễn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-011",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Những ngày Tết đường Hà Nội vắng: vì sao dễ phóng nhanh và va chạm ở ngã tư hơn ngày thường",
+   "intent": "Hiểu những rủi ro riêng của đường phố vắng dịp Tết như người vượt đèn, tốc độ cao, người đã uống rượu bia, và nắm cách giữ tốc độ, quan sát ngã tư khi đi chúc Tết.",
+   "kw": "đường vắng ngày tết đi xe máy",
+   "kw2": [
+    "va chạm ngã tư dịp tết",
+    "phóng nhanh khi đường vắng"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người ở lại Hà Nội dịp Tết, khách du lịch Tết",
+   "location_scope": "nội đô Hà Nội những ngày đầu năm mới âm lịch",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-012",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Gặp xe công nông, máy cày tay chạy chậm trên đường làng, đường đê: vượt khi nào và giữ khoảng cách ra sao",
+   "intent": "Biết cách nhận ra xe công nông, máy cày tay thường không đèn, hay rẽ bất ngờ vào ruộng, và nắm khoảng cách, thời điểm vượt an toàn khi đi xe máy ở vùng ven.",
+   "kw": "gặp xe công nông trên đường",
+   "kw2": [
+    "máy cày tay chạy trên đường làng",
+    "vượt xe công nông"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy về ngoại thành, khách đi làng nghề",
+   "location_scope": "đường làng, đường đê ở Đông Anh, Mê Linh, Thường Tín, Ứng Hòa",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-013",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Tay lái bỗng lắc qua lắc lại khi đang chạy nhanh: nhả ga từ từ, không phanh gấp và không ghì chặt",
+   "intent": "Hiểu vì sao tay lái xe máy có thể lắc mạnh khi chạy nhanh, chở nặng phía sau hoặc lốp non, và biết cách lấy lại ổn định rồi báo cửa hàng kiểm tra xe.",
+   "kw": "tay lái lắc khi chạy nhanh",
+   "kw2": [
+    "xe máy lắc đầu ở tốc độ cao",
+    "xử lý tay lái rung lắc"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người thuê xe đi đường dài hoặc chở nặng",
+   "location_scope": "đường đê, đại lộ và quốc lộ ra khỏi Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-014",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Ô tô phía trước dừng rồi lùi vào chỗ đỗ ven phố: đừng chen vào khoảng trống ngay sau đuôi xe",
+   "intent": "Biết cách đọc dấu hiệu ô tô sắp lùi vào ô đỗ ven phố như xi nhan, đèn lùi, bánh xe đánh lái, và chọn dừng chờ hay vượt sang bên trái cho an toàn.",
+   "kw": "ô tô lùi vào chỗ đỗ",
+   "kw2": [
+    "ô tô đỗ song song ven đường",
+    "đèn lùi ô tô bật sáng"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy trong phố có ô đỗ ô tô",
+   "location_scope": "phố có ô đỗ xe ven đường ở Hoàn Kiếm, Hai Bà Trưng, Ba Đình",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-015",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Xe phía sau bật đèn pha rọi thẳng vào gương lúc đi đêm: chỉnh gương, nhường đường và giữ tầm nhìn",
+   "intent": "Biết cách xử lý khi đèn pha xe phía sau làm chói gương và lóa mắt: chỉnh góc gương, đổi vị trí trong làn, nhường cho xe đó vượt và không phanh đột ngột.",
+   "kw": "xe phía sau bật đèn pha chói",
+   "kw2": [
+    "đèn pha rọi vào gương xe máy",
+    "bị chói mắt từ phía sau"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy ban đêm",
+   "location_scope": "đường đê, vành đai và quốc lộ ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-016",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đội cắt tỉa cây xanh chiếm một làn trên phố: cành rơi, xe chuyên dụng và cách đi qua an toàn",
+   "intent": "Nắm cách nhận biết khu vực đang cắt tỉa, hạ cành cây xanh trên phố, đi theo người điều tiết, giữ khoảng cách với xe chuyên dụng và tránh cành vụn, lá trên mặt đường.",
+   "kw": "cắt tỉa cây xanh chiếm làn",
+   "kw2": [
+    "đi qua chỗ đang cắt tỉa cây",
+    "cành cây rơi xuống đường"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy trong phố nhiều cây cổ thụ",
+   "location_scope": "phố nhiều cây lớn ở Ba Đình, Hoàn Kiếm, Hai Bà Trưng trước mùa mưa bão",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-017",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đi xe máy điện gần như không có tiếng máy: người đi bộ và xe khác không nghe thấy bạn đang tới",
+   "intent": "Hiểu vì sao xe máy điện chạy êm khiến người đi bộ, trẻ em và xe khác không nhận ra, và biết cách dùng còi nhẹ, giảm tốc, giữ khoảng cách trong ngõ và chợ.",
+   "kw": "xe máy điện không có tiếng máy",
+   "kw2": [
+    "người đi bộ không nghe xe điện",
+    "xe điện chạy êm trong ngõ"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người thuê xe máy điện lần đầu",
+   "location_scope": "ngõ phố, chợ và khu dân cư nội đô Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-018",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Nút giao năm, sáu ngả ở Hà Nội: chọn trước lối ra và đi theo dòng xe thay vì cắt chéo giữa nút",
+   "intent": "Lên kế hoạch đi qua các nút giao có năm, sáu ngả: xem trước bản đồ, nhớ thứ tự các nhánh, vào đúng làn từ xa và đi theo dòng xe thay vì cắt chéo giữa nút.",
+   "kw": "qua nút giao nhiều ngả",
+   "kw2": [
+    "nút giao sáu ngả xe máy",
+    "chọn lối ra ở nút giao phức tạp"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người mới đến Hà Nội, khách thuê xe tự lái",
+   "location_scope": "các nút giao nhiều ngả ở Đống Đa, Hoàn Kiếm, Ba Đình",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-019",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Xe máy phía trước không có đèn hậu khi đi đêm: nhận ra muộn, giữ khoảng cách và vượt sớm thế nào",
+   "intent": "Biết cách phát hiện sớm xe máy, xe đạp không có đèn hậu trên đường tối, giữ khoảng cách đủ để phanh, dùng đèn chiếu gần đúng cách và chỉ vượt khi đủ tầm nhìn.",
+   "kw": "xe phía trước không có đèn hậu",
+   "kw2": [
+    "xe máy không đèn ban đêm",
+    "đi sau xe không đèn"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy về muộn",
+   "location_scope": "đường liên xã, đường đê và vành đai ven Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-020",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đi cạnh xe máy chở sắt dài, tấm tôn hay ống nhựa thò ngang: giữ khoảng cách bên hông và phía sau",
+   "intent": "Biết cách nhận ra xe máy chở sắt, tôn, ống nhựa hoặc kính thò ngang, đoán phần hàng quét ra khi xe đó rẽ, và chọn vị trí không đi song song hay bám sát phía sau.",
+   "kw": "xe máy chở sắt dài thò ngang",
+   "kw2": [
+    "đi cạnh xe chở hàng cồng kềnh",
+    "hàng thò ra hai bên xe máy"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy gần khu xây dựng và cửa hàng vật liệu",
+   "location_scope": "đường ven đô và khu dân cư đang xây dựng ở Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-021",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đoàn mô tô phân khối lớn chạy nhóm cuối tuần: nghe tiếng pô từ xa, giữ làn và để cả đoàn vượt qua",
+   "intent": "Biết cách phản ứng khi đoàn mô tô phân khối lớn áp sát từ phía sau: giữ làn ổn định, không bất ngờ đổi hướng, chờ cả đoàn đi qua rồi mới chuyển làn hay rẽ.",
+   "kw": "gặp đoàn mô tô phân khối lớn",
+   "kw2": [
+    "đoàn xe phân khối lớn vượt",
+    "giữ làn khi bị đoàn xe vượt"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy cuối tuần ra ngoại thành",
+   "location_scope": "đường đi Ba Vì, Sóc Sơn và đường đê sông Hồng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-022",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Qua cổng làng hẹp ở vùng ven Hà Nội: xe ngược chiều khuất sau cổng và người đứng hai bên trụ cổng",
+   "intent": "Hiểu vì sao cổng làng hẹp và lối rẽ sát cổng tạo điểm khuất, biết cách giảm tốc, bấm còi nhẹ, nhường xe đã vào cổng và để ý người ngồi hai bên trụ cổng.",
+   "kw": "qua cổng làng hẹp bằng xe máy",
+   "kw2": [
+    "cổng làng che khuất xe ngược chiều",
+    "đi xe máy vào làng ven đô"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy về làng ven đô, khách đi làng nghề",
+   "location_scope": "làng ven đô ở Hoài Đức, Đông Anh, Thường Tín, Gia Lâm",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-023",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Hầm chui dân sinh dưới cao tốc Pháp Vân - Cầu Giẽ: lối hẹp hai chiều, trần thấp và dễ ngập khi mưa",
+   "intent": "Nắm cách đi xe máy qua hầm chui dân sinh dưới cao tốc: bật đèn trước khi vào, nhường xe ngược chiều trong lối hẹp, nhận biết nước ngập và chọn lối qua khác trên đường gom.",
+   "kw": "hầm chui dân sinh dưới cao tốc",
+   "kw2": [
+    "hầm chui dân sinh bị ngập",
+    "đi xe máy qua hầm chui đường gom"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người ở phía nam Hà Nội, người đi về Thường Tín, Phú Xuyên",
+   "location_scope": "đường gom cao tốc Pháp Vân - Cầu Giẽ qua Thanh Trì, Thường Tín, Phú Xuyên",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-024",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Làn rẽ phải tách riêng bằng đảo giao thông ở nút giao lớn: nhập dòng cuối làn và nhường người đi bộ",
+   "intent": "Biết cách đi vào làn rẽ phải được tách bởi đảo giao thông, giảm tốc ở vạch đi bộ cuối làn và nhập vào dòng xe của đường mới mà không cắt mặt xe đang tới.",
+   "kw": "làn rẽ phải có đảo giao thông",
+   "kw2": [
+    "nhập dòng sau làn rẽ phải",
+    "đảo dẫn hướng ở nút giao"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy qua nút giao lớn",
+   "location_scope": "nút giao lớn trên các trục đường mới phía tây và phía nam Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-16-W2-047-025",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Đi gần nơi đang chữa cháy trong phố: vòi chữa cháy vắt ngang đường, nước loang và khói che tầm nhìn",
+   "intent": "Biết cách xử lý khi gặp khu vực đang chữa cháy trên phố: dừng từ xa, không đè lên vòi chữa cháy, tránh nước loang và khói, đi đường vòng và nhường lối cho lực lượng cứu hỏa.",
+   "kw": "đi qua nơi đang chữa cháy",
+   "kw2": [
+    "vòi chữa cháy trên mặt đường",
+    "xe cứu hỏa đỗ chắn phố"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-16-W2-047",
+   "audience": "người đi xe máy trong phố đông nhà ống",
+   "location_scope": "khu phố nhà ống, ngõ sâu nội đô Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
