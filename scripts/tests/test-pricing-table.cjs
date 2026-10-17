@@ -36,8 +36,8 @@ for (const rate of ['day', 'week', 'month']) {
   assert.ok(include.includes('vehicle.rates.' + rate + '.min != nil'));
   assert.ok(include.includes('min=vehicle.rates.' + rate + '.min'));
 }
-assert.equal((include.match(/Liên hệ báo giá/g) || []).length, 3,
-  'unknown values must be explicitly unknown, never 0 or invented');
+assert.equal((include.match(/Liên hệ báo giá/g) || []).length, 6,
+  'both desktop table and mobile price cards must use the same unknown-price fallback');
 assert.match(include, /data-label="Theo ngày"/);
 assert.match(include, /data-label="Theo tuần"/);
 assert.match(include, /data-label="Theo tháng"/);
