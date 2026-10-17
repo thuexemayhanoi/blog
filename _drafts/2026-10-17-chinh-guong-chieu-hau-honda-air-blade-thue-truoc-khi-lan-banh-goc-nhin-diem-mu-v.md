@@ -3,7 +3,7 @@ date: 2026-10-17 09:00:00 +0700
 layout: post
 title: "Chỉnh gương chiếu hậu Honda Air Blade thuê trước khi lăn bánh: góc nhìn, điểm mù và gương lỏng phải báo tiệm"
 author: "Nguyễn Tú"
-description: "Chỉnh gương Air Blade thuê trước khi chạy: một phần tư thấy cánh tay, ba phần tư thấy đường phía sau, quay đầu xem điểm mù, tránh xe tải và báo tiệm khi gương lỏng."
+description: "Chỉnh gương Air Blade thuê trước khi chạy: một phần tư thấy cánh tay, ba phần tư thấy đường sau, quay đầu xem điểm mù, né xe tải và báo tiệm khi gương lỏng."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [chỉnh gương air blade, gương chiếu hậu air blade, điểm mù khi đi air blade, honda air blade]
