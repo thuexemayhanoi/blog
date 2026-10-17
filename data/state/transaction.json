@@ -1,58 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T13:29:06+00:00",
+  "updated_at": "2026-10-17T13:33:43+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05169",
-      "started_at": "2026-10-17T12:17:25+00:00",
-      "source": "_drafts/2026-10-15-lai-xe-may-co-phai-mang-giay-kham-suc-khoe-khong-phan-biet-dieu-kien-suc-khoe-vo.md",
-      "destination": "_posts/2026-10-15-lai-xe-may-co-phai-mang-giay-kham-suc-khoe-khong-phan-biet-dieu-kien-suc-khoe-vo.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
-      "finished_at": "2026-10-17T12:17:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05170",
-      "started_at": "2026-10-17T12:17:26+00:00",
-      "source": "_drafts/2026-10-15-bo-me-tang-cho-hoac-de-lai-thua-ke-xe-may-lap-giay-to-va-lam-thu-tuc-sang-ten-ch.md",
-      "destination": "_posts/2026-10-15-bo-me-tang-cho-hoac-de-lai-thua-ke-xe-may-lap-giay-to-va-lam-thu-tuc-sang-ten-ch.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
-      "finished_at": "2026-10-17T12:17:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05171",
-      "started_at": "2026-10-17T12:17:46+00:00",
-      "source": "_drafts/2026-10-15-dien-thoai-het-pin-hoac-mat-mang-dung-luc-bi-kiem-tra-giay-to-tren-vneid-nguoi-d.md",
-      "destination": "_posts/2026-10-15-dien-thoai-het-pin-hoac-mat-mang-dung-luc-bi-kiem-tra-giay-to-tren-vneid-nguoi-d.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
-      "finished_at": "2026-10-17T12:17:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05172",
-      "started_at": "2026-10-17T12:17:46+00:00",
-      "source": "_drafts/2026-10-15-hoc-sinh-15-den-17-tuoi-co-duoc-dung-ten-dang-ky-xe-may-khong-dieu-kien-dong-y-c.md",
-      "destination": "_posts/2026-10-15-hoc-sinh-15-den-17-tuoi-co-duoc-dung-ten-dang-ky-xe-may-khong-dieu-kien-dong-y-c.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
-      "finished_at": "2026-10-17T12:17:46+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05173",
-      "started_at": "2026-10-17T12:18:05+00:00",
-      "source": "_drafts/2026-10-15-xe-may-da-ban-tu-lau-van-hien-dung-ten-minh-tren-vnetraffic-khai-bao-khong-con-s.md",
-      "destination": "_posts/2026-10-15-xe-may-da-ban-tu-lau-van-hien-dung-ten-minh-tren-vnetraffic-khai-bao-khong-con-s.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
-      "finished_at": "2026-10-17T12:18:06+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05174",
       "started_at": "2026-10-17T12:18:06+00:00",
@@ -501,6 +451,56 @@
       "result": "PUBLISHED",
       "commit_sha": "8716c3ccc2a93325bd3f63af80ccac05c30c983c",
       "finished_at": "2026-10-17T13:29:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05196",
+      "started_at": "2026-10-17T13:33:05+00:00",
+      "source": "_drafts/2026-10-17-giat-minh-vi-tieng-coi-hoi-hay-tieng-no-lop-sat-ben-giu-tay-lai-thang-thay-vi-da.md",
+      "destination": "_posts/2026-10-17-giat-minh-vi-tieng-coi-hoi-hay-tieng-no-lop-sat-ben-giu-tay-lai-thang-thay-vi-da.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45d10cc20dea6a9581213c18d15b41bf9ba3e805",
+      "finished_at": "2026-10-17T13:33:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05197",
+      "started_at": "2026-10-17T13:33:05+00:00",
+      "source": "_drafts/2026-10-17-re-trai-vao-ngo-ben-kia-duong-giua-doan-pho-hai-chieu-cho-o-dau-va-cat-qua-dong.md",
+      "destination": "_posts/2026-10-17-re-trai-vao-ngo-ben-kia-duong-giua-doan-pho-hai-chieu-cho-o-dau-va-cat-qua-dong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45d10cc20dea6a9581213c18d15b41bf9ba3e805",
+      "finished_at": "2026-10-17T13:33:05+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05198",
+      "started_at": "2026-10-17T13:33:25+00:00",
+      "source": "_drafts/2026-10-17-tay-ga-bi-giat-theo-khi-xe-xoc-tren-duong-xau-tha-long-co-tay-de-ga-khong-luc-to.md",
+      "destination": "_posts/2026-10-17-tay-ga-bi-giat-theo-khi-xe-xoc-tren-duong-xau-tha-long-co-tay-de-ga-khong-luc-to.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45d10cc20dea6a9581213c18d15b41bf9ba3e805",
+      "finished_at": "2026-10-17T13:33:25+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05199",
+      "started_at": "2026-10-17T13:33:26+00:00",
+      "source": "_drafts/2026-10-17-xe-so-chet-may-giua-luc-quay-dau-tren-duong-giu-phanh-chon-de-lai-tai-cho-hay-da.md",
+      "destination": "_posts/2026-10-17-xe-so-chet-may-giua-luc-quay-dau-tren-duong-giu-phanh-chon-de-lai-tai-cho-hay-da.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45d10cc20dea6a9581213c18d15b41bf9ba3e805",
+      "finished_at": "2026-10-17T13:33:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05200",
+      "started_at": "2026-10-17T13:33:43+00:00",
+      "source": "_drafts/2026-10-17-di-tren-duong-chinh-qua-day-ngo-va-cong-nha-ben-phai-chon-vi-tri-trong-lan-de-ki.md",
+      "destination": "_posts/2026-10-17-di-tren-duong-chinh-qua-day-ngo-va-cong-nha-ben-phai-chon-vi-tri-trong-lan-de-ki.md",
+      "result": "PUBLISHED",
+      "commit_sha": "45d10cc20dea6a9581213c18d15b41bf9ba3e805",
+      "finished_at": "2026-10-17T13:33:43+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
