@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:39:20+00:00",
+  "updated_at": "2026-10-17T07:40:06+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05061",
-      "started_at": "2026-10-17T06:44:50+00:00",
-      "source": "_drafts/2026-10-15-honda-vision-di-ho-dai-lai-cuoi-tuan-qua-cau-thang-long-hoac-nhat-tan-len-phuc-y.md",
-      "destination": "_posts/2026-10-15-honda-vision-di-ho-dai-lai-cuoi-tuan-qua-cau-thang-long-hoac-nhat-tan-len-phuc-y.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:44:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05062",
-      "started_at": "2026-10-17T06:44:50+00:00",
-      "source": "_drafts/2026-10-15-honda-vision-di-tam-khoang-kim-boi-trong-ngay-quoc-lo-6-qua-xuan-mai-luong-son-v.md",
-      "destination": "_posts/2026-10-15-honda-vision-di-tam-khoang-kim-boi-trong-ngay-quoc-lo-6-qua-xuan-mai-luong-son-v.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:44:50+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05063",
       "started_at": "2026-10-17T06:45:02+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "fd92c33537bc8fc601ea7a4c301917d8534425e3",
       "finished_at": "2026-10-17T07:39:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05100",
+      "started_at": "2026-10-17T07:40:06+00:00",
+      "source": "_drafts/2026-10-17-honda-air-blade-thue-hong-vat-khi-dang-o-tinh-xa-tim-cua-hang-honda-uy-quyen-va.md",
+      "destination": "_posts/2026-10-17-honda-air-blade-thue-hong-vat-khi-dang-o-tinh-xa-tim-cua-hang-honda-uy-quyen-va.md",
+      "result": "PUBLISHED",
+      "commit_sha": "02c2aac8b52c3c770f67abf50a85048d7ec2e7ad",
+      "finished_at": "2026-10-17T07:40:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05101",
+      "started_at": "2026-10-17T07:40:06+00:00",
+      "source": "_drafts/2026-10-17-kiem-tra-lop-honda-air-blade-truoc-chuyen-di-tinh-gai-lop-do-cang-vet-nut-hong-l.md",
+      "destination": "_posts/2026-10-17-kiem-tra-lop-honda-air-blade-truoc-chuyen-di-tinh-gai-lop-do-cang-vet-nut-hong-l.md",
+      "result": "PUBLISHED",
+      "commit_sha": "02c2aac8b52c3c770f67abf50a85048d7ec2e7ad",
+      "finished_at": "2026-10-17T07:40:06+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
