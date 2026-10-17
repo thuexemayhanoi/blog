@@ -95,6 +95,12 @@ async function main() {
     signal: new AbortController().signal
   });
   assert.equal(accented.sources[0].title, 'Thủ tục thuê xe máy Hà Nội');
+
+  const natural = await tool.execute({
+    question: 'Tôi muốn biết thủ tục thuê xe máy Hà Nội cần giấy tờ gì?'
+  }, { signal: new AbortController().signal });
+  assert.equal(natural.sources[0].title, 'Thủ tục thuê xe máy Hà Nội');
+
   assert.equal(a.getFetchCount(), 1, 'cache metadata once per page');
 
   const noHit = await tool.execute({ question: 'loai xe khong ton tai' }, {});
