@@ -1,108 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T12:14:18+00:00",
+  "updated_at": "2026-10-17T12:18:46+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05116",
-      "started_at": "2026-10-17T07:51:36+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-chua-dau-chua-but-thap-o-thuan-thanh-duong-lien-tinh-duong-lang.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-chua-dau-chua-but-thap-o-thuan-thanh-duong-lien-tinh-duong-lang.md",
-      "result": "PUBLISHED",
-      "commit_sha": "33a7d11a1e6ca3f5beb2497f2aa3286e1d58ee4e",
-      "finished_at": "2026-10-17T07:51:37+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05117",
-      "started_at": "2026-10-17T07:53:24+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-ho-ba-be-hai-ngay-quoc-lo-3-qua-thai-nguyen-cho-moi-cac-doan-de.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-ho-ba-be-hai-ngay-quoc-lo-3-qua-thai-nguyen-cho-moi-cac-doan-de.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d284a707ca21533bc6e75ac906ca6d187e586f7e",
-      "finished_at": "2026-10-17T07:53:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05118",
-      "started_at": "2026-10-17T07:53:24+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-ho-dai-lai-trong-ngay-qua-me-linh-phuc-yen-chay-duong-ven-ho-va.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-ho-dai-lai-trong-ngay-qua-me-linh-phuc-yen-chay-duong-ven-ho-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d284a707ca21533bc6e75ac906ca6d187e586f7e",
-      "finished_at": "2026-10-17T07:53:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05119",
-      "started_at": "2026-10-17T07:56:26+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-pu-luong-chang-dai-qua-mai-chau-duong-be-tong-doc-vao-ban-va-xu.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-pu-luong-chang-dai-qua-mai-chau-duong-be-tong-doc-vao-ban-va-xu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b89d76aeb014f9b1bad1a8c0d385f65bea59a918",
-      "finished_at": "2026-10-17T07:56:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05120",
-      "started_at": "2026-10-17T07:56:26+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-len-dinh-mau-son-duong-doc-nhieu-cua-gap-giu-so-1-khi-leo-va-ham-b.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-len-dinh-mau-son-duong-doc-nhieu-cua-gap-giu-so-1-khi-leo-va-ham-b.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b89d76aeb014f9b1bad1a8c0d385f65bea59a918",
-      "finished_at": "2026-10-17T07:56:26+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05121",
-      "started_at": "2026-10-17T07:59:42+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-luc-ngan-mua-vai-thieu-theo-quoc-lo-31-cho-thung-vai-tren-yen-s.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-luc-ngan-mua-vai-thieu-theo-quoc-lo-31-cho-thung-vai-tren-yen-s.md",
-      "result": "PUBLISHED",
-      "commit_sha": "da3d23d12c77aa2e4636e81ce2d0491960602ee9",
-      "finished_at": "2026-10-17T07:59:42+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05122",
-      "started_at": "2026-10-17T07:59:43+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-len-tay-thien-doc-len-thien-vien-truc-lam-chon-so-khi-leo-cho-gui.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-len-tay-thien-doc-len-thien-vien-truc-lam-chon-so-khi-leo-cho-gui.md",
-      "result": "PUBLISHED",
-      "commit_sha": "da3d23d12c77aa2e4636e81ce2d0491960602ee9",
-      "finished_at": "2026-10-17T07:59:43+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05123",
-      "started_at": "2026-10-17T07:59:56+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-con-son-kiep-bac-o-chi-linh-chang-khoang-80-km-nghi-giua-duong.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-con-son-kiep-bac-o-chi-linh-chang-khoang-80-km-nghi-giua-duong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "da3d23d12c77aa2e4636e81ce2d0491960602ee9",
-      "finished_at": "2026-10-17T07:59:56+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05124",
-      "started_at": "2026-10-17T08:16:11+00:00",
-      "source": "_drafts/2026-10-15-quen-xe-ga-lan-dau-lai-yamaha-sirius-tay-trai-khong-con-phanh-phanh-sau-o-chan-p.md",
-      "destination": "_posts/2026-10-15-quen-xe-ga-lan-dau-lai-yamaha-sirius-tay-trai-khong-con-phanh-phanh-sau-o-chan-p.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cb517341f5b24f5885631c2a010f26a651196b98",
-      "finished_at": "2026-10-17T08:16:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05125",
-      "started_at": "2026-10-17T08:16:12+00:00",
-      "source": "_drafts/2026-10-15-di-dep-tong-dep-le-lai-yamaha-sirius-gat-so-bang-mu-ban-chan-dau-ngon-va-khi-nao.md",
-      "destination": "_posts/2026-10-15-di-dep-tong-dep-le-lai-yamaha-sirius-gat-so-bang-mu-ban-chan-dau-ngon-va-khi-nao.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cb517341f5b24f5885631c2a010f26a651196b98",
-      "finished_at": "2026-10-17T08:16:12+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05126",
       "started_at": "2026-10-17T08:16:28+00:00",
@@ -501,6 +401,106 @@
       "result": "PUBLISHED",
       "commit_sha": "81dab394ba5ebf9133f1919893d3065acce249e3",
       "finished_at": "2026-10-17T12:14:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05169",
+      "started_at": "2026-10-17T12:17:25+00:00",
+      "source": "_drafts/2026-10-15-lai-xe-may-co-phai-mang-giay-kham-suc-khoe-khong-phan-biet-dieu-kien-suc-khoe-vo.md",
+      "destination": "_posts/2026-10-15-lai-xe-may-co-phai-mang-giay-kham-suc-khoe-khong-phan-biet-dieu-kien-suc-khoe-vo.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:17:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05170",
+      "started_at": "2026-10-17T12:17:26+00:00",
+      "source": "_drafts/2026-10-15-bo-me-tang-cho-hoac-de-lai-thua-ke-xe-may-lap-giay-to-va-lam-thu-tuc-sang-ten-ch.md",
+      "destination": "_posts/2026-10-15-bo-me-tang-cho-hoac-de-lai-thua-ke-xe-may-lap-giay-to-va-lam-thu-tuc-sang-ten-ch.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:17:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05171",
+      "started_at": "2026-10-17T12:17:46+00:00",
+      "source": "_drafts/2026-10-15-dien-thoai-het-pin-hoac-mat-mang-dung-luc-bi-kiem-tra-giay-to-tren-vneid-nguoi-d.md",
+      "destination": "_posts/2026-10-15-dien-thoai-het-pin-hoac-mat-mang-dung-luc-bi-kiem-tra-giay-to-tren-vneid-nguoi-d.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:17:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05172",
+      "started_at": "2026-10-17T12:17:46+00:00",
+      "source": "_drafts/2026-10-15-hoc-sinh-15-den-17-tuoi-co-duoc-dung-ten-dang-ky-xe-may-khong-dieu-kien-dong-y-c.md",
+      "destination": "_posts/2026-10-15-hoc-sinh-15-den-17-tuoi-co-duoc-dung-ten-dang-ky-xe-may-khong-dieu-kien-dong-y-c.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:17:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05173",
+      "started_at": "2026-10-17T12:18:05+00:00",
+      "source": "_drafts/2026-10-15-xe-may-da-ban-tu-lau-van-hien-dung-ten-minh-tren-vnetraffic-khai-bao-khong-con-s.md",
+      "destination": "_posts/2026-10-15-xe-may-da-ban-tu-lau-van-hien-dung-ten-minh-tren-vnetraffic-khai-bao-khong-con-s.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:18:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05174",
+      "started_at": "2026-10-17T12:18:06+00:00",
+      "source": "_drafts/2026-10-15-nguoi-ngoai-tinh-tam-tru-o-ha-noi-mua-xe-may-dang-ky-xe-tai-noi-tam-tru-hay-phai.md",
+      "destination": "_posts/2026-10-15-nguoi-ngoai-tinh-tam-tru-o-ha-noi-mua-xe-may-dang-ky-xe-tai-noi-tam-tru-hay-phai.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:18:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05175",
+      "started_at": "2026-10-17T12:18:26+00:00",
+      "source": "_drafts/2026-10-15-le-phi-cap-dang-ky-va-bien-so-xe-may-o-ha-noi-nam-2026-muc-thu-theo-gia-tri-xe-v.md",
+      "destination": "_posts/2026-10-15-le-phi-cap-dang-ky-va-bien-so-xe-may-o-ha-noi-nam-2026-muc-thu-theo-gia-tri-xe-v.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:18:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05176",
+      "started_at": "2026-10-17T12:18:26+00:00",
+      "source": "_drafts/2026-10-15-thay-may-hoac-thay-khung-xe-may-khi-sua-chua-truong-hop-nao-phai-lam-thu-tuc-doi.md",
+      "destination": "_posts/2026-10-15-thay-may-hoac-thay-khung-xe-may-khi-sua-chua-truong-hop-nao-phai-lam-thu-tuc-doi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:18:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05177",
+      "started_at": "2026-10-17T12:18:45+00:00",
+      "source": "_drafts/2026-10-15-chung-nhan-dang-ky-xe-dien-tu-tren-vneid-va-vnetraffic-chu-xe-xem-va-xuat-trinh.md",
+      "destination": "_posts/2026-10-15-chung-nhan-dang-ky-xe-dien-tu-tren-vneid-va-vnetraffic-chu-xe-xem-va-xuat-trinh.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:18:46+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05178",
+      "started_at": "2026-10-17T12:18:46+00:00",
+      "source": "_drafts/2026-10-15-xe-may-la-tai-san-chung-cua-vo-chong-nhung-chi-mot-nguoi-dung-ten-ban-hoac-tang.md",
+      "destination": "_posts/2026-10-15-xe-may-la-tai-san-chung-cua-vo-chong-nhung-chi-mot-nguoi-dung-ten-ban-hoac-tang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "cbfdd505cd34e02b616cd3e96f32997797f8f1c5",
+      "finished_at": "2026-10-17T12:18:46+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
