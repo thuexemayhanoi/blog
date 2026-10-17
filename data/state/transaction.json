@@ -1,38 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:47:47+00:00",
+  "updated_at": "2026-10-17T07:51:37+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05068",
-      "started_at": "2026-10-17T06:45:24+00:00",
-      "source": "_drafts/2026-10-15-di-chuc-tet-bang-honda-vision-cho-gio-qua-hop-banh-mam-ngu-qua-cho-vung-va-do-xe.md",
-      "destination": "_posts/2026-10-15-di-chuc-tet-bang-honda-vision-cho-gio-qua-hop-banh-mam-ngu-qua-cho-vung-va-do-xe.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:25+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05069",
-      "started_at": "2026-10-17T06:45:36+00:00",
-      "source": "_drafts/2026-10-15-honda-vision-tren-nguyen-van-linh-quoc-lo-5-qua-long-bien-xe-tai-lon-lan-xe-may.md",
-      "destination": "_posts/2026-10-15-honda-vision-tren-nguyen-van-linh-quoc-lo-5-qua-long-bien-xe-tai-lon-lan-xe-may.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05070",
-      "started_at": "2026-10-17T06:45:36+00:00",
-      "source": "_drafts/2026-10-15-honda-vision-tren-truc-pham-hung-pham-van-dong-nhieu-lan-xe-nut-giao-mai-dich-va.md",
-      "destination": "_posts/2026-10-15-honda-vision-tren-truc-pham-hung-pham-van-dong-nhieu-lan-xe-nut-giao-mai-dich-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05071",
       "started_at": "2026-10-17T07:04:16+00:00",
@@ -501,6 +471,36 @@
       "result": "PUBLISHED",
       "commit_sha": "492b3fb3af6fc2509abf57c29a69ea5c22d06877",
       "finished_at": "2026-10-17T07:47:47+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05114",
+      "started_at": "2026-10-17T07:51:20+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-di-mu-cang-chai-mua-lua-chin-chia-ba-ngay-qua-nghia-lo-tu-le-deo-k.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-di-mu-cang-chai-mua-lua-chin-chia-ba-ngay-qua-nghia-lo-tu-le-deo-k.md",
+      "result": "PUBLISHED",
+      "commit_sha": "33a7d11a1e6ca3f5beb2497f2aa3286e1d58ee4e",
+      "finished_at": "2026-10-17T07:51:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05115",
+      "started_at": "2026-10-17T07:51:20+00:00",
+      "source": "_drafts/2026-10-17-di-cho-vieng-phu-day-dem-mung-7-tet-bang-yamaha-sirius-chay-dem-gan-100-km-duong.md",
+      "destination": "_posts/2026-10-17-di-cho-vieng-phu-day-dem-mung-7-tet-bang-yamaha-sirius-chay-dem-gan-100-km-duong.md",
+      "result": "PUBLISHED",
+      "commit_sha": "33a7d11a1e6ca3f5beb2497f2aa3286e1d58ee4e",
+      "finished_at": "2026-10-17T07:51:20+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05116",
+      "started_at": "2026-10-17T07:51:36+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-di-chua-dau-chua-but-thap-o-thuan-thanh-duong-lien-tinh-duong-lang.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-di-chua-dau-chua-but-thap-o-thuan-thanh-duong-lien-tinh-duong-lang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "33a7d11a1e6ca3f5beb2497f2aa3286e1d58ee4e",
+      "finished_at": "2026-10-17T07:51:37+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
