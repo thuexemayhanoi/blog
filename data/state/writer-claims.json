@@ -1,11 +1,9 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-17T07:52:59Z",
+  "updated_at": "2026-10-17T07:55:50Z",
   "leases": {
     "W1": {
       "ids": [
-        "BLG-05117",
-        "BLG-05118",
         "BLG-05119",
         "BLG-05120",
         "BLG-05121",
@@ -18,9 +16,9 @@
       "session": "s-claudec-w1",
       "epoch": 1,
       "claimed_at": "2026-10-17T05:43:42Z",
-      "heartbeat_at": "2026-10-17T07:52:59Z",
+      "heartbeat_at": "2026-10-17T07:55:50Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-10-19T07:52:59Z",
+      "expires_at": "2026-10-19T07:55:50Z",
       "label": "claude-c"
     },
     "W2": {
