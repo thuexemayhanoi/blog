@@ -6,8 +6,8 @@
     "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-17T13:25:08+00:00",
-    "staged_at": "2026-10-17T13:25:05+00:00"
+    "materialized_at": "2026-10-17T17:23:21+00:00",
+    "staged_at": "2026-10-17T17:23:18+00:00"
   },
   "candidates": [],
   "rejected": [
@@ -91169,6 +91169,426 @@
       "word_target": 1200,
       "materialized_at": "2026-10-17T13:25:08+00:00",
       "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-001",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Quay lại thấy xe máy không còn đúng chỗ đã để: soát gì trước khi nổ máy và hỏi ai đầu tiên",
+      "intent": "Biết cách bình tĩnh kiểm tra khi quay lại thấy xe thuê bị nhích khỏi chỗ đã để trong ngõ hay bãi: hỏi người trông xe hoặc người quanh đó, soát tay lái, gương, chân chống rồi mới nổ máy, và báo tiệm nếu thấy điều khác lạ.",
+      "kw": "xe máy bị dời khỏi chỗ đỗ",
+      "kw2": [
+        "quay lại thấy xe bị dời chỗ",
+        "xe máy không đúng chỗ đã để"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người đi xe thuê vừa quay lại lấy xe và thấy xe nằm lệch vị trí",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-002",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Hỏi giờ đóng cổng bãi gửi xe trước khi để xe: ghi vào điện thoại, lưu số liên hệ và đặt báo thức nhắc",
+      "intent": "Lên thói quen hỏi rõ giờ đóng cổng và cách liên lạc với người trông xe ngay lúc gửi, ghi lại trong điện thoại và đặt nhắc để không bị kẹt xe bên trong khi về muộn.",
+      "kw": "hỏi giờ đóng cổng bãi gửi xe",
+      "kw2": [
+        "giờ đóng cửa bãi gửi xe",
+        "lưu số điện thoại người trông xe"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "khách đi chơi dài buổi hoặc đi tối, gửi xe ở bãi lạ",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-003",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Đi bộ vào khu ngõ chằng chịt rồi quay lại tìm xe: ghim vị trí trên bản đồ, chụp mốc đầu ngõ và biển tên ngõ",
+      "intent": "Biết cách ghim vị trí để xe trên bản đồ điện thoại và chụp vài mốc dễ nhận ở đầu ngõ trước khi đi bộ vào khu nhiều ngõ giống nhau, để quay ra không phải đi lòng vòng tìm xe.",
+      "kw": "ghim vị trí để xe máy",
+      "kw2": [
+        "nhớ chỗ để xe trong ngõ",
+        "tìm lại xe máy sau khi đi bộ vào ngõ"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "khách nước ngoài và người từ tỉnh khác đi bộ khám phá khu ngõ nhỏ nội thành",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-004",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Chọn chỗ để xe qua đêm đủ sáng: ngõ tối, góc khuất và sân có đèn khác nhau thế nào khi giữ xe thuê",
+      "intent": "Hiểu vì sao ánh sáng ban đêm quanh chỗ để xe quan trọng, so sánh ngõ tối, góc khuất với sân có đèn và biết cách quan sát chỗ để xe lúc còn sáng trước khi quyết định để qua đêm.",
+      "kw": "chỗ để xe qua đêm đủ sáng",
+      "kw2": [
+        "để xe ngõ tối ban đêm",
+        "chọn góc đỗ xe đủ sáng"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe để qua đêm ở nhà trọ, homestay hoặc nhà người quen",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-005",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Đỗ xe máy cạnh ô tô trong ngõ hoặc sân chung: tránh sát bánh, cửa xe và đuôi xe đang chuẩn bị lùi",
+      "intent": "Biết nên chừa khoảng cách thế nào khi dựng xe máy gần ô tô đang đỗ: tránh sát bánh, cửa mở bật ra, đuôi xe lùi và hướng gương, để xe thuê không bị quệt khi ô tô vào ra.",
+      "kw": "đỗ xe máy cạnh ô tô",
+      "kw2": [
+        "xe máy đỗ sát ô tô bị quệt",
+        "tránh để xe máy gần đuôi ô tô"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người đi xe thuê gửi xe ở ngõ, sân chung hoặc bãi có cả ô tô",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-006",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Hai người đi chung một xe máy thuê: ai giữ chìa khi một người xuống trước, quy ước nhỏ để khỏi khóa nhầm",
+      "intent": "Thống nhất một quy ước đơn giản về việc ai giữ chìa, ai khóa cổ khi một người xuống xe trước, để cặp đôi hoặc hai bạn đi chung xe không bỏ quên chìa hay khóa xe khi người kia còn chưa lấy đồ.",
+      "kw": "hai người đi chung xe giữ chìa",
+      "kw2": [
+        "ai giữ chìa khóa xe máy khi đi hai người",
+        "quên chìa khi xuống xe trước"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "hai người đi chung một xe thuê trong chuyến đi ngắn ngày",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-007",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Hay quên chìa cắm trên ổ khóa khi vội: tạo thói quen rút chìa và cất vào một túi cố định mỗi lần rời xe",
+      "intent": "Xây một thói quen nhỏ để luôn rút chìa và cất vào cùng một chỗ mỗi lần rời xe, kể cả khi vội, vừa bước vừa nghe điện thoại hay đang xách nhiều đồ.",
+      "kw": "thói quen rút chìa khóa xe máy",
+      "kw2": [
+        "hay quên chìa trên ổ khóa xe máy",
+        "mẹo nhớ rút chìa khi rời xe"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe hay vội hoặc hay lơ đãng khi dừng xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-008",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Nền gạch men và đá hoa đổ mồ hôi mùa nồm: dắt xe máy vào nhà ống, sảnh homestay sao cho không trượt chân",
+      "intent": "Biết cách dắt xe máy chậm, chọn tư thế đứng và đặt chân an toàn trên nền gạch men, đá hoa ẩm mùa nồm khi đưa xe vào nhà ống hay sảnh nhỏ, để xe và người không bị trượt.",
+      "kw": "nền trơn mùa nồm dắt xe máy",
+      "kw2": [
+        "dắt xe máy vào nhà ngày nồm",
+        "sảnh trơn mùa nồm xe máy"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe ở nhà ống, nhà trọ hoặc homestay vào mùa nồm ẩm",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-009",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Lá ướt và quả rụng dưới tán cây ven phố mùa thu: chân chống trượt và nền trơn khi dựng, dắt xe máy",
+      "intent": "Hiểu vì sao lá ướt, quả rụng dưới gốc cây làm nền trơn và che mất mặt đất, và biết cách nhìn xuống nền, chọn điểm đặt chân chống rồi mới dựng hay dắt xe.",
+      "kw": "lá ướt dưới cây dựng xe máy",
+      "kw2": [
+        "chân chống trượt trên lá ướt",
+        "đỗ xe dưới cây mùa lá rụng"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người đi xe thuê dừng xe dưới hàng cây ven phố vào mùa thu",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-010",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Đỗ xe máy quay đầu ra hay đuôi ra: cách xếp hướng xe để lấy xe nhanh, đỡ phải lùi trong chỗ chật",
+      "intent": "Chọn hướng đầu xe khi dựng ở chỗ chật sao cho lúc lấy xe không phải lùi nhiều, hiểu ưu nhược điểm của đầu xe quay ra và đuôi xe quay ra trong ngõ, sân hay hàng xe sát nhau.",
+      "kw": "đỗ xe máy quay đầu ra ngoài",
+      "kw2": [
+        "hướng đỗ xe máy trong ngõ",
+        "đỗ xe đầu ra hay đuôi ra"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người đi xe thuê hay gửi xe ở ngõ nhỏ và sân chật",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-011",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Chụp công tơ mét và vạch xăng trước khi gửi xe qua đêm: so lại sáng hôm sau để yên tâm, không nghi ngờ vô cớ",
+      "intent": "Biết cách chụp đồng hồ số km và vạch xăng lúc gửi xe qua đêm rồi so lại khi lấy xe, như một bản ghi nhỏ giúp yên tâm và có cơ sở nói chuyện bình tĩnh nếu thấy điều bất thường.",
+      "kw": "chụp đồng hồ xe trước khi gửi",
+      "kw2": [
+        "ghi số km và mức xăng khi gửi xe",
+        "xe gửi qua đêm có bị chạy không"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe gửi qua đêm cho người khác dắt hoặc trông",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-012",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Dừng hai ba phút để mua nước hay nghe điện thoại: vẫn khóa cổ, rút chìa và liếc xe từ chỗ đứng",
+      "intent": "Hiểu vì sao dừng chỉ một lát vẫn nên khóa cổ và rút chìa, cách làm gọn trong vài giây và chọn chỗ đứng để nhìn thấy xe khi mua nước, nghe điện thoại hay chụp ảnh gần xe.",
+      "kw": "dừng ngắn có cần khóa cổ không",
+      "kw2": [
+        "dừng xe mua nước có rút chìa không",
+        "khóa cổ khi dừng một lát"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người đi xe thuê hay dừng nhanh để mua nước, nghe điện thoại",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-013",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Xếp xe ở đầu hàng hay giữa hàng trong bãi gửi: cân nhắc va quệt, dễ lấy xe và tầm nhìn của người trông xe",
+      "intent": "Cân nhắc chọn vị trí ở đầu hàng, cuối hàng hay giữa hàng khi gửi xe trong bãi, dựa trên nguy cơ va quệt, độ dễ lấy xe và việc người trông xe có nhìn thấy xe hay không.",
+      "kw": "để xe đầu hàng hay giữa hàng",
+      "kw2": [
+        "chọn vị trí xe trong hàng xe bãi gửi",
+        "xe ở cuối hàng bãi gửi"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe gửi vào bãi xe đông có xếp hàng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-014",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Chỗ để xe gần thùng rác hoặc điểm tập kết rác trong ngõ: nước rỉ, mùi hôi và xe gom rác ra vào",
+      "intent": "Biết vì sao nên tránh dựng xe sát thùng rác hay điểm tập kết rác trong ngõ: nước rỉ làm bẩn nền, mùi bám, xe gom rác ra vào làm va quệt, và cách chọn chỗ khác khi để xe qua đêm.",
+      "kw": "để xe máy gần thùng rác",
+      "kw2": [
+        "để xe gần điểm tập kết rác trong ngõ",
+        "nước rỉ rác bẩn xe máy"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe để qua đêm trong ngõ khu dân cư",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-015",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Ngõ nhỏ chỉ vừa một xe: dựng xe sát một bên thế nào để chừa lối cho người đi bộ, xe đẩy và xe cấp cứu",
+      "intent": "Biết cách hỏi chủ nhà hoặc người ở gần trước khi dựng xe trong ngõ rất hẹp, dựng sát một bên cho gọn và luôn chừa lối cho người đi bộ, xe đẩy và các xe cần đi qua.",
+      "kw": "để xe trong ngõ hẹp chừa lối",
+      "kw2": [
+        "dựng xe sát tường trong ngõ nhỏ",
+        "ngõ hẹp chỉ vừa một xe để xe thế nào"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe ở nhà trọ hoặc homestay trong ngõ nhỏ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-016",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Nhờ chủ quán hay người bán hàng quen trông hộ xe vài phút: nói thế nào cho lịch sự và vì sao không giao chìa",
+      "intent": "Biết cách nhờ người bán hàng hay chủ quán trông hộ xe một lát khi đi vệ sinh hoặc mua đồ gần đó, nói sao cho lịch sự, nên cảm ơn thế nào và vì sao vẫn tự giữ chìa.",
+      "kw": "nhờ người bán hàng trông hộ xe",
+      "kw2": [
+        "nhờ chủ quán trông giúp xe",
+        "gửi xe tạm không có vé"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người đi xe thuê cần rời xe vài phút ở nơi không có bãi gửi",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-017",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Chậu cây, ghế nhựa hay xô nước đặt trước cửa nhà để giữ chỗ: hiểu ý chủ nhà và tìm chỗ khác dựng xe máy",
+      "intent": "Hiểu ý nghĩa thường gặp của chậu cây, ghế nhựa hay biển cấm để xe viết tay đặt trước cửa nhà dân, cách ứng xử lịch sự, không tự dời đồ và tìm chỗ khác để dựng xe.",
+      "kw": "chậu cây giữ chỗ để xe",
+      "kw2": [
+        "ghế nhựa chặn trước cửa nhà để xe",
+        "biển cấm để xe viết tay trước nhà dân"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "khách đi xe thuê không quen tập quán ngõ phố Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-018",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Vừa chạy về là đỗ ngay trong nhà để xe kín: đừng dựng sát bạt, giấy, thùng carton vì ống xả còn nóng",
+      "intent": "Biết vì sao xe vừa chạy xong chưa nên dựng sát bạt, giấy, thùng carton hay đồ dễ cháy trong nhà để xe kín, ống xả còn nóng ở chỗ nào và cách chừa khoảng cách khi để xe qua đêm.",
+      "kw": "đỗ xe máy sát đồ dễ cháy",
+      "kw2": [
+        "ống xả nóng để xe trong nhà kín",
+        "để xe sát thùng carton"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "người thuê xe để xe trong nhà ống, gian kín hoặc kho nhỏ",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-019",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Sảnh homestay nhỏ xếp nhiều xe qua đêm: nói trước giờ khởi hành để xe đi sớm được xếp ngoài cùng",
+      "intent": "Biết cách nói với chủ homestay giờ khởi hành sớm trước khi gửi xe qua đêm trong sảnh nhỏ, để xe đi sớm được xếp ở ngoài cùng và không phải đánh thức ai dắt xe giữa hàng xe.",
+      "kw": "xếp xe đi sớm trong sảnh homestay",
+      "kw2": [
+        "gửi xe qua đêm sảnh homestay nhỏ",
+        "xe đi sớm xếp ngoài cùng"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "khách ở homestay nhỏ có kế hoạch xuất phát sớm hôm sau",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3N-020",
+      "child_id": "C-KY-NANG-GUI-XE",
+      "title": "Phải lấy xe rất sớm khi cổng ngõ hoặc cổng nhà còn khóa: dặn trước từ tối hôm trước ai mở cổng, xe để ở đâu",
+      "intent": "Chuẩn bị từ tối hôm trước khi sáng sớm cần lấy xe lúc cổng ngõ hoặc cổng nhà gửi còn khóa: hỏi ai giữ chìa cổng, dặn giờ, chọn chỗ để xe dễ dắt ra và dự phòng khi không ai thức.",
+      "kw": "lấy xe sớm khi cổng còn khóa",
+      "kw2": [
+        "dặn chủ nhà mở cổng buổi sáng sớm",
+        "để xe dễ lấy ra lúc sáng sớm"
+      ],
+      "links": [
+        "/ky-nang/gui-xe-va-giu-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3N",
+      "audience": "khách phải xuất phát sớm để ra ga, bến xe hoặc đi tỉnh",
+      "location_scope": "Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T17:23:21+00:00",
+      "materialized_head": "7122ae63b8bc15f1bfa63583ddaa0482154e603a"
     }
   ]
 }
