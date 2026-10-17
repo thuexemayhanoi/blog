@@ -3,7 +3,7 @@ date: 2026-10-17 09:00:00 +0700
 layout: post
 title: "Pin LFP và pin NMC trên xe máy điện: khác nhau về độ bền, quãng đường và thói quen sạc người thuê nên biết"
 author: "Nguyễn Tú"
-description: "Pin LFP và NMC xe máy điện khác nhau về năng lượng, độ bền chu kỳ và ổn định nhiệt; mẫu nào dùng loại nào và thói quen sạc người thuê nên giữ theo hướng dẫn hãng."
+description: "Pin LFP và NMC xe máy điện khác nhau về năng lượng, độ bền chu kỳ và ổn định nhiệt; mẫu nào dùng loại nào và thói quen sạc người thuê nên giữ theo hãng."
 categories: [Kinh nghiệm]
 lang: vi
 tags: [pin lfp và nmc xe máy điện, pin lithium sắt photphat xe điện, loại pin xe máy điện, xe máy điện]
