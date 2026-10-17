@@ -319,6 +319,7 @@ jobs:
           node --check assets/js/webmcp-ask-site.js
           node --check assets/js/site-search.js
           node scripts/tests/test-webmcp.cjs
+          node scripts/tests/test-site-search.cjs
 
       - name: Run offline engine test suites
         run: |
