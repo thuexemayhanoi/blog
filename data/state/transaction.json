@@ -1,58 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T13:27:44+00:00",
+  "updated_at": "2026-10-17T13:29:06+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05168",
-      "started_at": "2026-10-17T11:58:51+00:00",
-      "source": "_drafts/2026-10-15-dang-ky-xe-may-dien-mua-moi-o-ha-noi-giay-to-nguon-goc-hoa-don-va-cac-buoc-de-du.md",
-      "destination": "_posts/2026-10-15-dang-ky-xe-may-dien-mua-moi-o-ha-noi-giay-to-nguon-goc-hoa-don-va-cac-buoc-de-du.md",
-      "result": "PUBLISHED",
-      "commit_sha": "057e2b83fbf85db09afa7b914e73007e660088ef",
-      "finished_at": "2026-10-17T11:58:51+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05136",
-      "started_at": "2026-10-17T11:59:35+00:00",
-      "source": "_drafts/2026-10-17-hoan-canh-kho-khan-chua-du-tien-nop-phat-nong-do-con-de-nghi-hoan-giam-hoac-mien.md",
-      "destination": "_posts/2026-10-17-hoan-canh-kho-khan-chua-du-tien-nop-phat-nong-do-con-de-nghi-hoan-giam-hoac-mien.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dec43ee2729ccd97c33ab9693a1556b2d91c3f04",
-      "finished_at": "2026-10-17T11:59:35+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05143",
-      "started_at": "2026-10-17T11:59:36+00:00",
-      "source": "_drafts/2026-10-17-dua-chia-khoa-xe-may-cho-ban-da-uong-ruou-bia-nguoi-giao-xe-co-lien-doi-khi-ban.md",
-      "destination": "_posts/2026-10-17-dua-chia-khoa-xe-may-cho-ban-da-uong-ruou-bia-nguoi-giao-xe-co-lien-doi-khi-ban.md",
-      "result": "PUBLISHED",
-      "commit_sha": "dec43ee2729ccd97c33ab9693a1556b2d91c3f04",
-      "finished_at": "2026-10-17T11:59:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05154",
-      "started_at": "2026-10-17T12:14:18+00:00",
-      "source": "_drafts/2026-10-17-nguoi-o-tinh-khac-bi-xu-ly-nong-do-con-khi-dang-o-ha-noi-nop-phat-nhan-lai-xe-va.md",
-      "destination": "_posts/2026-10-17-nguoi-o-tinh-khac-bi-xu-ly-nong-do-con-khi-dang-o-ha-noi-nop-phat-nhan-lai-xe-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "81dab394ba5ebf9133f1919893d3065acce249e3",
-      "finished_at": "2026-10-17T12:14:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05155",
-      "started_at": "2026-10-17T12:14:18+00:00",
-      "source": "_drafts/2026-10-17-chu-quan-an-quan-bia-thay-khach-da-say-dinh-lai-xe-may-ve-giu-chia-khoa-goi-xe-h.md",
-      "destination": "_posts/2026-10-17-chu-quan-an-quan-bia-thay-khach-da-say-dinh-lai-xe-may-ve-giu-chia-khoa-goi-xe-h.md",
-      "result": "PUBLISHED",
-      "commit_sha": "81dab394ba5ebf9133f1919893d3065acce249e3",
-      "finished_at": "2026-10-17T12:14:18+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05169",
       "started_at": "2026-10-17T12:17:25+00:00",
@@ -501,6 +451,56 @@
       "result": "PUBLISHED",
       "commit_sha": "43cbbb19010f048453c8384c61c2d7412eb12253",
       "finished_at": "2026-10-17T13:27:44+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05181",
+      "started_at": "2026-10-17T13:28:32+00:00",
+      "source": "_drafts/2026-10-17-xuong-doc-cau-chuong-duong-vinh-tuy-vao-nut-giao-chan-cau-ham-da-som-va-chon-lan.md",
+      "destination": "_posts/2026-10-17-xuong-doc-cau-chuong-duong-vinh-tuy-vao-nut-giao-chan-cau-ham-da-som-va-chon-lan.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8716c3ccc2a93325bd3f63af80ccac05c30c983c",
+      "finished_at": "2026-10-17T13:28:32+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05182",
+      "started_at": "2026-10-17T13:28:33+00:00",
+      "source": "_drafts/2026-10-17-xe-quay-dau-o-khe-mo-dai-phan-cach-cat-vao-lan-dang-di-thang-nhan-ra-som-va-giam.md",
+      "destination": "_posts/2026-10-17-xe-quay-dau-o-khe-mo-dai-phan-cach-cat-vao-lan-dang-di-thang-nhan-ra-som-va-giam.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8716c3ccc2a93325bd3f63af80ccac05c30c983c",
+      "finished_at": "2026-10-17T13:28:33+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05183",
+      "started_at": "2026-10-17T13:28:50+00:00",
+      "source": "_drafts/2026-10-17-di-xe-may-qua-chan-ga-tau-dien-tren-cao-gio-tan-tam-khach-sang-duong-xe-om-cho-d.md",
+      "destination": "_posts/2026-10-17-di-xe-may-qua-chan-ga-tau-dien-tren-cao-gio-tan-tam-khach-sang-duong-xe-om-cho-d.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8716c3ccc2a93325bd3f63af80ccac05c30c983c",
+      "finished_at": "2026-10-17T13:28:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05184",
+      "started_at": "2026-10-17T13:28:51+00:00",
+      "source": "_drafts/2026-10-17-danh-lai-ne-vat-can-bat-ngo-tren-xe-may-an-tay-lai-dut-khoat-va-tach-phanh-khoi.md",
+      "destination": "_posts/2026-10-17-danh-lai-ne-vat-can-bat-ngo-tren-xe-may-an-tay-lai-dut-khoat-va-tach-phanh-khoi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8716c3ccc2a93325bd3f63af80ccac05c30c983c",
+      "finished_at": "2026-10-17T13:28:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05185",
+      "started_at": "2026-10-17T13:29:05+00:00",
+      "source": "_drafts/2026-10-17-khi-nao-tang-ga-thoat-ra-an-toan-hon-phanh-gap-xe-phia-sau-sap-huc-o-to-ep-sang.md",
+      "destination": "_posts/2026-10-17-khi-nao-tang-ga-thoat-ra-an-toan-hon-phanh-gap-xe-phia-sau-sap-huc-o-to-ep-sang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "8716c3ccc2a93325bd3f63af80ccac05c30c983c",
+      "finished_at": "2026-10-17T13:29:06+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
