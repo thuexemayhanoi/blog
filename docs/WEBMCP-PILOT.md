@@ -69,3 +69,16 @@ then become inert.
 
 Authoritative spec: https://webmachinelearning.github.io/webmcp/
 Chrome: https://developer.chrome.com/docs/ai/webmcp/imperative-api
+
+## Demo tren iPhone (ordinary JS search, separate from WebMCP)
+
+- Open https://blog.thuexemaynguyentu.com/ and tap "🔎 Tìm bài thông minh"
+  in the homepage hero, or go directly to /tim-kiem/.
+- The mobile search now uses the same lazy full published metadata index,
+  not just the former 300 recent articles. Suggested query chips work on Safari.
+- Search returns original article URLs; it is keyword retrieval, NOT an
+  AI-generated answer. Google site-search fallback remains available.
+- Verify locally with: node scripts/tests/test-site-search.cjs
+- The two Node suites are now executed by EXISTING quality-gate.yml.
+- Exactly EIGHT workflows remain mandatory; no additional GitHub Actions
+  workflow may be created for WebMCP.
