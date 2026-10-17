@@ -5,6 +5,7 @@ description: "Giá thuê xe tay ga tại Hà Nội theo ngày, tuần và tháng
 lang: vi
 translation_key: xe-ga
 permalink: /bang-gia-xe-ga/
+pricing_table: true
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -24,40 +25,7 @@ Mức giá tham khảo hiện hành:
 - Honda Air Blade: 200.000đ/ngày, 800.000đ/tuần, 1.400.000đ/tháng
 - Honda Click / Yamaha Mio: 150.000đ/ngày, 600.000 – 700.000đ/tuần, 1.000.000 – 1.200.000đ/tháng
 
-<div class="pricing-table">
-  {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category == 'Xe ga' %}
-    <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name }}</h3>
-      <p>{{ vehicle.description }}</p>
-      <div class="price-grid">
-        {% if vehicle.rates.day.min %}
-        <div class="price-item">
-          <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.week.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.month.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
-        </div>
-        {% endif %}
-      </div>
-      <p class="note"><em>Tiền đặt cọc: 2.000.000 - 5.000.000 VND (xác nhận trực tiếp)</em></p>
-      {% if vehicle.popular %}
-      <span class="badge popular">Lựa chọn phổ biến</span>
-      {% endif %}
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include pricing-rate-table.html category="Xe ga" title="Bảng giá Xe ga" %}
 
 Đây là giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 
