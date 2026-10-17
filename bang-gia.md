@@ -5,6 +5,7 @@ description: "Bảng giá thuê xe máy tại Hà Nội theo ngày, tuần và t
 lang: vi
 translation_key: pricing
 permalink: /bang-gia/
+pricing_table: true
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -34,40 +35,7 @@ Sử dụng công cụ tính giá bên dưới để ước tính chi phí thuê
 
 Xe số là nhóm xe vận hành bằng hộp số tay, phổ biến nhất tại Việt Nam, tiết kiệm xăng và bền bỉ. Đây là lựa chọn của phần lớn người đã quen lái xe máy tại Việt Nam.
 
-<div class="pricing-table">
-  {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category == 'Xe số' %}
-    <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name }}</h3>
-      <p>{{ vehicle.description }}</p>
-      <div class="price-grid">
-        {% if vehicle.rates.day.min %}
-        <div class="price-item">
-          <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.week.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.month.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
-        </div>
-        {% endif %}
-      </div>
-      <p class="note"><em>Tiền đặt cọc: 2.000.000 - 5.000.000 VND (xác nhận trực tiếp)</em></p>
-      {% if vehicle.popular %}
-      <span class="badge popular">Lựa chọn phổ biến</span>
-      {% endif %}
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include pricing-rate-table.html category="Xe số" title="Bảng giá Xe số" %}
 
 Chi tiết giá thuê xe số từng mẫu xe được cập nhật tại trang [giá thuê xe số Hà Nội]({{ '/bang-gia-xe-so/' | relative_url }}).
 
@@ -75,40 +43,7 @@ Chi tiết giá thuê xe số từng mẫu xe được cập nhật tại trang 
 
 Xe tay ga sử dụng hộp số tự động, chỉ cần vặn ga là xe chạy. Tư thế ngồi thẳng, thoải mái, dễ điều khiển nên rất phù hợp với người mới lái hoặc di chuyển trong phố cổ.
 
-<div class="pricing-table">
-  {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category == 'Xe ga' %}
-    <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name }}</h3>
-      <p>{{ vehicle.description }}</p>
-      <div class="price-grid">
-        {% if vehicle.rates.day.min %}
-        <div class="price-item">
-          <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.week.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.month.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
-        </div>
-        {% endif %}
-      </div>
-      <p class="note"><em>Tiền đặt cọc: 2.000.000 - 5.000.000 VND (xác nhận trực tiếp)</em></p>
-      {% if vehicle.popular %}
-      <span class="badge popular">Lựa chọn phổ biến</span>
-      {% endif %}
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include pricing-rate-table.html category="Xe ga" title="Bảng giá Xe ga" %}
 
 Chi tiết từng dòng xe ga được cập nhật tại trang [giá thuê xe tay ga Hà Nội]({{ '/bang-gia-xe-ga/' | relative_url }}).
 

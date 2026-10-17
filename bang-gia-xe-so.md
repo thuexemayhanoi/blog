@@ -5,6 +5,7 @@ description: "Giá thuê xe số tại Hà Nội theo ngày, tuần và tháng. 
 lang: vi
 translation_key: xe-so
 permalink: /bang-gia-xe-so/
+pricing_table: true
 ---
 
 {% assign pricing = site.data.pricing %}
@@ -23,40 +24,7 @@ Mức giá tham khảo hiện hành:
 - Honda Wave: 150.000đ/ngày
 - Giá theo tuần và theo tháng: liên hệ trực tiếp để được báo giá theo mẫu xe và thời gian thuê.
 
-<div class="pricing-table">
-  {% for vehicle in pricing.vehicles %}
-    {% if vehicle.category == 'Xe số' %}
-    <div class="pricing-card glass-card">
-      <h3>{{ vehicle.name }}</h3>
-      <p>{{ vehicle.description }}</p>
-      <div class="price-grid">
-        {% if vehicle.rates.day.min %}
-        <div class="price-item">
-          <span class="price-label">Theo ngày:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.day.min %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.week.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tuần:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}</span>
-        </div>
-        {% endif %}
-        {% if vehicle.rates.month.min %}
-        <div class="price-item">
-          <span class="price-label">Theo tháng:</span>
-          <span class="price-value">{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}</span>
-        </div>
-        {% endif %}
-      </div>
-      <p class="note"><em>Tiền đặt cọc: 2.000.000 - 5.000.000 VND (xác nhận trực tiếp)</em></p>
-      {% if vehicle.popular %}
-      <span class="badge popular">Lựa chọn phổ biến</span>
-      {% endif %}
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
+{% include pricing-rate-table.html category="Xe số" title="Bảng giá Xe số" %}
 
 Đây là giá tham khảo. Giá thực tế, tình trạng xe, tiền đặt cọc và chi phí giao nhận cần được xác nhận trực tiếp với Nguyễn Tú trước khi đặt xe.
 

@@ -61,6 +61,12 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Verify pricing table UI contracts (3 devices)
+        run: |
+          set -eu
+          node --check scripts/tests/test-pricing-table.cjs
+          node scripts/tests/test-pricing-table.cjs
+
       - name: Determine gate mode (scripts/factory/gate-scope.py)
         id: mode
         env:
