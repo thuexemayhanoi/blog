@@ -1,0 +1,370 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W1-001: chu de that, tao boi writer W1 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-17",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-001",
+   "child_id": "C-QUY-DINH",
+   "title": "Mặc áo mưa trùm kín biển số và đèn hậu khi đi xe máy trời mưa: có bị coi là che biển số không",
+   "intent": "Hiểu quy định về biển số và đèn tín hiệu phải nhìn thấy được khi đi xe máy dưới mưa, cách mặc áo mưa cánh dơi hay áo bộ để không che biển số, đèn hậu và xi nhan.",
+   "kw": "áo mưa che biển số xe máy",
+   "kw2": [
+    "áo mưa che đèn hậu",
+    "mặc áo mưa đi xe máy đúng cách"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi xe máy trong mùa mưa Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-002",
+   "child_id": "C-QUY-DINH",
+   "title": "Thay ống xả, độ pô kêu to trên xe máy: lỗi thay đổi kết cấu và tiếng ồn bị xử lý ra sao",
+   "intent": "Nắm quy định về thay đổi kết cấu xe máy và tiếng ồn khi độ ống xả, hậu quả với đăng ký, kiểm tra và trách nhiệm khi trả xe thuê đã bị can thiệp.",
+   "kw": "độ pô xe máy",
+   "kw2": [
+    "thay ống xả xe máy",
+    "xe máy pô kêu to bị phạt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi xe máy thích độ xe và người thuê xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-003",
+   "child_id": "C-QUY-DINH",
+   "title": "Hút thuốc lá, thuốc lá điện tử khi đang lái xe máy: luật có cấm không và vì sao vẫn bị coi là mất an toàn",
+   "intent": "Hiểu quy định pháp luật liên quan đến hút thuốc lá và thuốc lá điện tử khi điều khiển xe máy, ảnh hưởng tới việc cầm lái một tay, tàn thuốc bay vào người phía sau và trách nhiệm khi gây va chạm.",
+   "kw": "hút thuốc khi lái xe máy",
+   "kw2": [
+    "vừa lái xe máy vừa hút thuốc",
+    "tàn thuốc bay khi đi xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi xe máy có thói quen hút thuốc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-004",
+   "child_id": "C-QUY-DINH",
+   "title": "Gắn biển số xe máy nghiêng, gập, dán đè hoặc mượn biển xe khác: những lỗi biển số người lái hay mắc",
+   "intent": "Nắm quy định về gắn biển số xe máy đúng vị trí, rõ chữ số, các hành vi làm thay đổi hoặc gắn biển không đúng đăng ký và mức độ nghiêm trọng của từng lỗi.",
+   "kw": "gắn biển số xe máy sai quy định",
+   "kw2": [
+    "biển số xe máy gập nghiêng",
+    "gắn biển số xe khác"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi xe máy và người thuê xe ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-005",
+   "child_id": "C-QUY-DINH",
+   "title": "Đường hai chiều không có vạch phân làn trong ngõ phố, đường làng: xe máy phải đi phần đường nào",
+   "intent": "Nắm quy tắc đi bên phải theo chiều đi, phần đường dành cho xe máy và cách vượt, tránh xe khi đường không có vạch kẻ phân làn hay dải phân cách.",
+   "kw": "đường không có vạch phân làn",
+   "kw2": [
+    "xe máy đi bên phải đường",
+    "phần đường xe máy khi không có vạch"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi xe máy trong ngõ phố và đường làng ven Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-006",
+   "child_id": "C-GPLX",
+   "title": "Tra cứu bằng lái xe máy thật hay giả: kiểm tra thông tin giấy phép trên kênh chính thức",
+   "intent": "Biết các kênh chính thức để tra cứu thông tin giấy phép lái xe máy, cách đối chiếu số giấy phép, hạng, thời hạn và dấu hiệu bằng không có trong hệ thống.",
+   "kw": "tra cứu bằng lái xe máy",
+   "kw2": [
+    "kiểm tra bằng lái thật giả",
+    "tra cứu giấy phép lái xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người cần kiểm tra giấy phép lái xe của mình hoặc người thân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-007",
+   "child_id": "C-GPLX",
+   "title": "Dùng bằng lái của người khác khi bị kiểm tra hoặc khi thuê xe máy: hậu quả pháp lý cần biết",
+   "intent": "Hiểu vì sao xuất trình giấy phép lái xe của người khác bị coi như không có giấy phép, hậu quả với người mượn, người cho mượn và với hợp đồng thuê xe.",
+   "kw": "dùng bằng lái của người khác",
+   "kw2": [
+    "mượn bằng lái đi xe máy",
+    "xuất trình bằng lái người khác"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người chưa có bằng lái định mượn giấy phép của người thân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-008",
+   "child_id": "C-GPLX",
+   "title": "Động kinh, tiểu đường, sau đột quỵ có được lái xe máy không: đọc đúng tiêu chuẩn sức khỏe người lái",
+   "intent": "Nắm các bệnh và tình trạng sức khỏe khiến người dân không đủ điều kiện lái xe máy theo tiêu chuẩn sức khỏe hiện hành, các trường hợp được lái có điều kiện và việc khám định kỳ.",
+   "kw": "bệnh không được lái xe máy",
+   "kw2": [
+    "tiêu chuẩn sức khỏe lái xe máy",
+    "động kinh có được lái xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người có bệnh mạn tính muốn thi hoặc đổi bằng lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-009",
+   "child_id": "C-GPLX",
+   "title": "Giấy khám sức khỏe để thi hoặc đổi bằng lái xe máy có giá trị bao lâu và khám lại khi nào",
+   "intent": "Biết thời hạn sử dụng của giấy khám sức khỏe người lái xe khi nộp hồ sơ thi, đổi hoặc cấp lại giấy phép lái xe và cách tránh hồ sơ bị trả vì giấy khám đã quá hạn.",
+   "kw": "giấy khám sức khỏe lái xe có thời hạn",
+   "kw2": [
+    "thời hạn giấy khám sức khỏe thi bằng lái",
+    "khám sức khỏe đổi bằng lái"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người chuẩn bị hồ sơ thi hoặc đổi bằng lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-010",
+   "child_id": "C-GPLX",
+   "title": "Mã QR trên bằng lái xe máy thẻ PET: quét để xem những thông tin gì và dùng khi nào",
+   "intent": "Hiểu mã QR trên giấy phép lái xe thẻ PET dùng để làm gì, cách quét đọc thông tin, giới hạn của mã và việc đối chiếu với dữ liệu giấy phép trên ứng dụng chính thức.",
+   "kw": "mã qr trên bằng lái",
+   "kw2": [
+    "quét mã qr bằng lái xe máy",
+    "bằng lái pet có mã qr"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đang dùng bằng lái xe máy thẻ PET",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-011",
+   "child_id": "C-GPLX",
+   "title": "Có hai bằng lái xe máy cùng hạng do cấp trùng: có vi phạm không và nên nộp lại bằng nào",
+   "intent": "Hiểu trường hợp một người có hai giấy phép lái xe máy cùng hạng do thi lại hoặc cấp trùng, rủi ro khi dữ liệu không khớp và thủ tục đề nghị thu hồi, hợp nhất.",
+   "kw": "có hai bằng lái xe máy",
+   "kw2": [
+    "bằng lái cấp trùng",
+    "hai giấy phép lái xe cùng hạng"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người từng thi lại bằng lái xe máy khi bị mất bằng cũ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-012",
+   "child_id": "C-GPLX",
+   "title": "Đăng ký học lái xe A1 trực tuyến: khâu nào làm online được và khâu nào phải đến cơ sở đào tạo",
+   "intent": "Biết những bước đăng ký học và sát hạch bằng lái A1 có thể làm trực tuyến, giấy tờ cần chuẩn bị bản điện tử và các khâu bắt buộc có mặt như chụp ảnh, học thực hành, thi.",
+   "kw": "đăng ký học lái xe a1 online",
+   "kw2": [
+    "nộp hồ sơ học bằng a1 trực tuyến",
+    "học bằng lái xe máy online"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi làm bận rộn ở Hà Nội muốn học bằng A1",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-013",
+   "child_id": "C-GPLX",
+   "title": "Không đồng ý kết quả sát hạch bằng lái A1: quyền đề nghị xem lại, khiếu nại và thời hạn",
+   "intent": "Hiểu quyền của thí sinh khi không đồng ý kết quả sát hạch lý thuyết hoặc thực hành bằng A1, cách đề nghị xem lại dữ liệu chấm thi, khiếu nại và thời hạn cần nhớ.",
+   "kw": "khiếu nại kết quả sát hạch",
+   "kw2": [
+    "không đồng ý kết quả thi bằng lái",
+    "phúc khảo thi bằng lái a1"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "thí sinh vừa trượt sát hạch bằng A1",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-014",
+   "child_id": "C-GPLX",
+   "title": "Gian lận khi thi bằng lái A1 như thi hộ, mang tài liệu: bị hủy kết quả và xử lý ra sao",
+   "intent": "Nắm hậu quả của các hành vi gian lận trong sát hạch lái xe như thi hộ, dùng thiết bị, mang tài liệu, từ việc hủy kết quả tới thu hồi giấy phép và trách nhiệm pháp lý.",
+   "kw": "gian lận thi bằng lái a1",
+   "kw2": [
+    "thi hộ bằng lái xe máy",
+    "hủy kết quả sát hạch lái xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người chuẩn bị thi bằng lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-015",
+   "child_id": "C-QUY-DINH",
+   "title": "Lộ trình hạn chế xe máy chạy xăng trong Vành đai 1 Hà Nội: áp dụng từ khi nào và người đi xe máy cần chuẩn bị gì",
+   "intent": "Nắm chủ trương và lộ trình hạn chế xe máy dùng nhiên liệu hóa thạch trong khu vực Vành đai 1 Hà Nội, phạm vi áp dụng, các mốc thời gian đã công bố và cách người đi xe máy theo dõi văn bản chính thức.",
+   "kw": "cấm xe máy xăng vành đai 1",
+   "kw2": [
+    "hạn chế xe máy chạy xăng hà nội",
+    "vùng phát thải thấp hà nội"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đi xe máy vào khu trung tâm Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-016",
+   "child_id": "C-QUY-DINH",
+   "title": "Xe máy cũ có niên hạn sử dụng không: xe đời sâu có bị cấm lưu hành và lộ trình kiểm tra khí thải",
+   "intent": "Hiểu việc xe máy hiện chưa có quy định niên hạn sử dụng như ô tô kinh doanh, các điều kiện kỹ thuật xe cũ vẫn phải đáp ứng khi lưu thông và lộ trình kiểm tra khí thải xe máy đã được ban hành.",
+   "kw": "niên hạn sử dụng xe máy",
+   "kw2": [
+    "xe máy cũ có bị cấm lưu hành",
+    "kiểm tra khí thải xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người đang dùng xe máy đời cũ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-017",
+   "child_id": "C-QUY-DINH",
+   "title": "Xe máy độ dáng: tháo dè chắn bùn, cắt đuôi, thay tay lái thấp có bị coi là thay đổi kết cấu không",
+   "intent": "Biết những kiểu độ dáng xe máy phổ biến như tháo chắn bùn, cắt đuôi, hạ tay lái, thay yên có thể bị coi là thay đổi kết cấu, hình dáng so với thiết kế và hậu quả khi bị kiểm tra.",
+   "kw": "xe máy độ dáng",
+   "kw2": [
+    "tháo chắn bùn xe máy bị phạt",
+    "cắt đuôi xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người trẻ thích độ xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-018",
+   "child_id": "C-QUY-DINH",
+   "title": "Mang bình xịt hơi cay, dao, gậy trên xe máy để phòng thân: vật dụng nào bị cấm theo luật",
+   "intent": "Hiểu quy định về vũ khí, công cụ hỗ trợ và vật dụng nguy hiểm khi mang theo trên xe máy, bình xịt hơi cay có được tự mua để phòng thân không và rủi ro khi bị kiểm tra.",
+   "kw": "mang bình xịt hơi cay trên xe máy",
+   "kw2": [
+    "mang dao trên xe máy",
+    "công cụ hỗ trợ phòng thân"
+   ],
+   "links": [
+    "/an-toan-phap-ly/quy-dinh-giao-thong/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "người hay đi xe máy về khuya một mình",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-17-W1-001-019",
+   "child_id": "C-GPLX",
+   "title": "Bằng lái xe quân sự có được dùng để đi xe máy dân sự không: đổi sang giấy phép dân sự khi nào",
+   "intent": "Hiểu phạm vi sử dụng giấy phép lái xe quân sự, việc điều khiển xe máy dân sự khi chỉ có bằng quân sự và thủ tục đổi sang giấy phép lái xe do cơ quan dân sự cấp khi ra quân.",
+   "kw": "bằng lái quân sự đi xe dân sự",
+   "kw2": [
+    "đổi bằng lái quân sự sang dân sự",
+    "giấy phép lái xe quân sự"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-17-W1-001",
+   "audience": "quân nhân và người vừa xuất ngũ ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
