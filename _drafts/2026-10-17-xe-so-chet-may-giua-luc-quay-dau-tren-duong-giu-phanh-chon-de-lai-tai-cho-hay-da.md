@@ -7,7 +7,7 @@ description: "Xe số chết máy khi quay đầu ngang dòng xe: vì sao hay x�
 categories: [Kinh nghiệm]
 lang: vi
 tags: [xe số chết máy khi quay đầu, quay đầu xe số bị tắt máy, chết máy giữa đường khi quay xe, kỹ năng lái cơ bản]
-permalink: /ky-nang/2026/10/17/xe-so-chet-may-giua-luc-quay-dau-tren-duong-giu-phanh-chon-de-lai-tai-cho-hay-dat/
+permalink: /ky-nang/2026/10/17/xe-so-chet-may-giua-luc-quay-dau-tren-duong-giu-phanh-chon-de-lai-tai-cho-hay-da/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-CO-BAN
 article_id: BLG-05199

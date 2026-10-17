@@ -7,7 +7,7 @@ description: "Rẽ trái vào ngõ bên kia đường giữa đoạn phố hai c
 categories: [Kinh nghiệm]
 lang: vi
 tags: [rẽ trái vào ngõ bên kia đường, rẽ trái giữa đoạn phố, cắt qua dòng xe ngược chiều, kỹ năng lái cơ bản]
-permalink: /ky-nang/2026/10/17/re-trai-vao-ngo-ben-kia-duong-giua-doan-pho-hai-chieu-cho-o-dau-va-cat-qua-dong-x/
+permalink: /ky-nang/2026/10/17/re-trai-vao-ngo-ben-kia-duong-giua-doan-pho-hai-chieu-cho-o-dau-va-cat-qua-dong/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-CO-BAN
 article_id: BLG-05197

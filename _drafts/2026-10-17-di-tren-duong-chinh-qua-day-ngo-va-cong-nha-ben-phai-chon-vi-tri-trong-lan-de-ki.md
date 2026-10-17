@@ -7,7 +7,7 @@ description: "Xe từ ngõ lao ra đường chính: đọc dấu hiệu sớm nh
 categories: [Kinh nghiệm]
 lang: vi
 tags: [xe từ ngõ lao ra đường chính, đi qua miệng ngõ, xe bất ngờ ra từ cổng nhà, kỹ năng lái cơ bản]
-permalink: /ky-nang/2026/10/17/di-tren-duong-chinh-qua-day-ngo-va-cong-nha-ben-phai-chon-vi-tri-trong-lan-de-kip/
+permalink: /ky-nang/2026/10/17/di-tren-duong-chinh-qua-day-ngo-va-cong-nha-ben-phai-chon-vi-tri-trong-lan-de-ki/
 parent_id: P-KY-NANG
 child_id: C-KY-NANG-CO-BAN
 article_id: BLG-05200
