@@ -1,0 +1,238 @@
+/*
+ * Bảng giá thực tế /bang-gia/ và các trang loại xe.
+ * Riêng với giá: không tái sử dụng .pricing-card (flex link trên homepage).
+ * Ba cỡ: mobile <=767, tablet 768-1199, desktop >=1200; dark/light.
+ */
+.rental-rate-matrix {
+  width: 100%;
+  max-width: 100%;
+  min-width: 0;
+  margin: 1.2rem 0 2rem;
+  color: var(--color-text);
+}
+
+.rental-rate-matrix__hint {
+  margin: 0 0 .6rem;
+  color: var(--color-text-secondary);
+  font-size: .875rem;
+  line-height: 1.55;
+}
+
+.rental-rate-matrix__scroll {
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border: 1px solid var(--color-border-dark);
+  border-radius: 12px;
+  background: var(--color-surface);
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-border-dark) transparent;
+}
+
+.rental-rate-matrix__scroll:focus-visible {
+  outline: 3px solid var(--color-primary);
+  outline-offset: 3px;
+}
+
+.rental-rate-matrix__table {
+  width: 100%;
+  min-width: 680px;
+  margin: 0;
+  border-spacing: 0;
+  border-collapse: separate;
+  table-layout: fixed;
+  color: var(--color-text);
+  background: var(--color-surface);
+  font-variant-numeric: tabular-nums;
+}
+
+.rental-rate-matrix__table th,
+.rental-rate-matrix__table td {
+  box-sizing: border-box;
+  vertical-align: middle;
+  padding: 14px 12px;
+  border: 0;
+  border-right: 1px solid var(--color-border-dark);
+  border-bottom: 1px solid var(--color-border-dark);
+  text-align: left;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+}
+
+.rental-rate-matrix__table tr > :last-child {
+  border-right: 0;
+}
+
+.rental-rate-matrix__table tbody tr:last-child > * {
+  border-bottom: 0;
+}
+
+.rental-rate-matrix__table thead th {
+  background: var(--color-primary-light);
+  font-weight: 700;
+  color: var(--color-text);
+  vertical-align: middle;
+}
+
+.rental-rate-matrix__table th:first-child {
+  width: 30%;
+}
+
+.rental-rate-matrix__table th:not(:first-child) {
+  width: 23.333%;
+}
+
+.rental-rate-matrix__table tbody tr:nth-child(even) {
+  background: var(--color-surface-dark);
+}
+
+.rental-rate-matrix__table tbody th {
+  font-weight: 600;
+}
+
+.rental-rate-matrix__vehicle strong {
+  display: block;
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+.rental-rate-matrix__description {
+  display: block;
+  margin-top: .3rem;
+  font-size: .82rem;
+  font-weight: 400;
+  color: var(--color-text-secondary);
+}
+
+.rental-rate-matrix__cell {
+  display: block;
+  min-width: 0;
+  font-weight: 600;
+  font-size: .93rem;
+  line-height: 1.5;
+  overflow-wrap: break-word;
+}
+
+.rental-rate-matrix__unknown {
+  font-weight: 500;
+  color: var(--color-text-secondary);
+}
+
+.rental-rate-matrix__deposit {
+  margin: .75rem 0 0;
+  padding: .65rem .85rem;
+  border-left: 3px solid var(--color-primary);
+  background: var(--color-surface-dark);
+  color: var(--color-text-secondary);
+  font-size: .88rem;
+  line-height: 1.55;
+}
+
+/* Mobile: real visible vertical AND horizontal dividers, no page overflow. */
+@media (max-width: 767px) {
+  .rental-rate-matrix__scroll {
+    overflow: visible;
+    border: 0;
+    background: transparent;
+    border-radius: 0;
+  }
+
+  .rental-rate-matrix__table,
+  .rental-rate-matrix__table tbody {
+    display: block;
+    width: 100%;
+    min-width: 0;
+    background: transparent;
+  }
+
+  .rental-rate-matrix__table thead {
+    /* Visual headers are replaced by per-cell labels; keep screen-reader context. */
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+
+  .rental-rate-matrix__table tbody tr {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    margin-bottom: 14px;
+    border: 1px solid var(--color-border-dark);
+    border-radius: 12px;
+    overflow: hidden;
+    background: var(--color-surface);
+  }
+
+  .rental-rate-matrix__table tbody tr:nth-child(even) {
+    background: var(--color-surface);
+  }
+
+  .rental-rate-matrix__table tbody th,
+  .rental-rate-matrix__table tbody td {
+    width: 100%;
+    min-width: 0;
+    border-right: 0;
+    border-bottom: 1px solid var(--color-border-dark);
+  }
+
+  .rental-rate-matrix__table tbody th {
+    display: block;
+    padding: 12px 14px;
+    background: var(--color-primary-light);
+  }
+
+  .rental-rate-matrix__table tbody td {
+    display: grid;
+    grid-template-columns: minmax(112px, 36%) minmax(0, 1fr);
+    align-items: stretch;
+    padding: 0;
+    font-size: .9rem;
+  }
+
+  .rental-rate-matrix__table tbody td::before {
+    content: attr(data-label);
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    padding: 12px;
+    border-right: 1px solid var(--color-border-dark);
+    background: var(--color-surface-dark);
+    font-weight: 600;
+  }
+
+  .rental-rate-matrix__table .rental-rate-matrix__cell {
+    display: flex;
+    align-items: center;
+    min-width: 0;
+    padding: 12px 14px;
+    overflow-wrap: anywhere;
+  }
+
+  .rental-rate-matrix__table tbody tr > :last-child {
+    border-bottom: 0;
+  }
+}
+
+/* Tablet: preserve 4 visible columns, scroll only inside table if needed. */
+@media (min-width: 768px) and (max-width: 1199px) {
+  .rental-rate-matrix__table {
+    min-width: 670px;
+  }
+
+  .rental-rate-matrix__table th,
+  .rental-rate-matrix__table td {
+    padding: 12px 10px;
+  }
+}
+
+/* Desktop: use full article width without side-scrolling. */
+@media (min-width: 1200px) {
+  .rental-rate-matrix__table {
+    min-width: 0;
+  }
+}
