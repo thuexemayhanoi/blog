@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T12:19:45+00:00",
+  "updated_at": "2026-10-17T12:37:24+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05129",
-      "started_at": "2026-10-17T08:16:44+00:00",
-      "source": "_drafts/2026-10-15-tay-ga-yamaha-sirius-tra-ve-cham-hoac-bi-ket-thu-khi-nhan-xe-xu-ly-khi-dang-chay.md",
-      "destination": "_posts/2026-10-15-tay-ga-yamaha-sirius-tra-ve-cham-hoac-bi-ket-thu-khi-nhan-xe-xu-ly-khi-dang-chay.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cb517341f5b24f5885631c2a010f26a651196b98",
-      "finished_at": "2026-10-17T08:16:44+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05130",
-      "started_at": "2026-10-17T08:17:00+00:00",
-      "source": "_drafts/2026-10-15-yamaha-sirius-hay-honda-air-blade-cho-chuyen-deo-ba-ngay-xe-so-giu-so-khi-xuong.md",
-      "destination": "_posts/2026-10-15-yamaha-sirius-hay-honda-air-blade-cho-chuyen-deo-ba-ngay-xe-so-giu-so-khi-xuong.md",
-      "result": "PUBLISHED",
-      "commit_sha": "cb517341f5b24f5885631c2a010f26a651196b98",
-      "finished_at": "2026-10-17T08:17:00+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05131",
       "started_at": "2026-10-17T08:17:00+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "7bf9c7a1a04f039cdc03b6dc71bfeea018e661c3",
       "finished_at": "2026-10-17T12:19:45+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05179",
+      "started_at": "2026-10-17T12:37:23+00:00",
+      "source": "_drafts/2026-10-17-xe-may-moi-mua-dan-giay-xe-di-dang-ky-chua-co-bien-chay-tu-cua-hang-ve-nha-co-bi.md",
+      "destination": "_posts/2026-10-17-xe-may-moi-mua-dan-giay-xe-di-dang-ky-chua-co-bien-chay-tu-cua-hang-ve-nha-co-bi.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c8437013f5dab075b3b1e387c2ee855ed0787d31",
+      "finished_at": "2026-10-17T12:37:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05180",
+      "started_at": "2026-10-17T12:37:24+00:00",
+      "source": "_drafts/2026-10-17-kiem-tra-xe-may-cu-co-dang-the-chap-ngan-hang-khong-truoc-khi-mua-tra-cuu-theo-s.md",
+      "destination": "_posts/2026-10-17-kiem-tra-xe-may-cu-co-dang-the-chap-ngan-hang-khong-truoc-khi-mua-tra-cuu-theo-s.md",
+      "result": "PUBLISHED",
+      "commit_sha": "c8437013f5dab075b3b1e387c2ee855ed0787d31",
+      "finished_at": "2026-10-17T12:37:24+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
