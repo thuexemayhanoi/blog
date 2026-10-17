@@ -1,8 +1,7 @@
 /**
- * Lightweight on-site search of the 300 most recent titles and excerpts.
- * Data is fetched only on /tim-kiem/ after a non-empty user query.
- * Full historical coverage remains available via the explicitly labelled
- * Google site: search link. No external libraries, API keys or all-post payload.
+ * Public article search for humans on mobile and desktop.
+ * Uses the same lazy Jekyll metadata index as the WebMCP ask_site pilot.
+ * No AI model, secrets, tracking API, backend, or external dependency.
  */
 (function () {
   'use strict';
@@ -19,10 +18,31 @@
   var loaded = null;
   var searchGeneration = 0;
 
-  function fold(text) {
-    var value = String(text || '').toLowerCase();
-    if (value.normalize) value = value.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
-    return value.replace(/đ/g, 'd').replace(/\s+/g, ' ').trim();
+  var ignoredWords = {
+    toi: true, muon: true, biet: true, hoi: true, lam: true, sao: true,
+    the: true, nao: true, can: true, gi: true, nhung: true, cac: true,
+    cho: true, ve: true, o: true, tai: true, la: true, co: true,
+    hay: true, khong: true, duoc: true, voi: true, mot: true
+  };
+
+  function fold(value) {
+    var text = String(value || '').toLowerCase();
+    if (typeof text.normalize === 'function') {
+      text = text.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    }
+    return text.replace(/đ/g, 'd').replace(/[^a-z0-9]+/g, ' ').trim();
+  }
+
+  function keywords(query) {
+    return Array.from(new Set(fold(query).split(' ').filter(function (term) {
+      return term.length > 0 && !ignoredWords[term];
+    })));
+  }
+
+  function validPath(url) {
+    return typeof url === 'string' && url.length <= 512 &&
+      url.charAt(0) === '/' && url.charAt(1) !== '/' &&
+      !/[\s\\?#]/.test(url);
   }
 
   function updateGoogle(query) {
@@ -37,63 +57,90 @@
 
   function loadIndex() {
     if (!loaded) {
-      loaded = fetch(indexUrl, { credentials: 'same-origin' }).then(function (response) {
-        if (!response.ok) throw new Error('Search index HTTP ' + response.status);
-        return response.json();
-      }).then(function (data) {
-        if (!Array.isArray(data) || data.length > 300) throw new Error('Search index invalid');
-        return data;
-      }).catch(function (error) {
-        loaded = null; // allow retry after a transient connection error
-        throw error;
-      });
+      loaded = fetch(indexUrl, { credentials: 'same-origin' })
+        .then(function (response) {
+          if (!response.ok) throw new Error('Không tải được chỉ mục bài công khai.');
+          return response.json();
+        })
+        .then(function (data) {
+          if (!Array.isArray(data) || data.length > 20000) {
+            throw new Error('Dữ liệu tìm kiếm không hợp lệ.');
+          }
+          return data.filter(function (post) {
+            return post && validPath(post.url) &&
+              typeof post.title === 'string' && typeof post.description === 'string';
+          });
+        })
+        .catch(function (error) {
+          loaded = null;
+          throw error;
+        });
     }
     return loaded;
   }
 
   function appendResult(post) {
-    // Do not allow the generated data to become an open-redirect or HTML sink.
-    if (!post || typeof post.url !== 'string' ||
-        post.url.charAt(0) !== '/' || post.url.charAt(1) === '/') return;
+    if (!validPath(post.url)) return;
     var li = document.createElement('li');
     li.className = 'site-search-result';
     var link = document.createElement('a');
     link.href = post.url;
-    link.textContent = String(post.title || 'Bài viết');
+    link.textContent = post.title.slice(0, 220) || 'Bài viết';
     li.appendChild(link);
     if (post.description) {
-      var paragraph = document.createElement('p');
-      paragraph.textContent = String(post.description);
-      li.appendChild(paragraph);
+      var excerpt = document.createElement('p');
+      excerpt.textContent = post.description.slice(0, 320);
+      li.appendChild(excerpt);
     }
     resultList.appendChild(li);
   }
 
+  function scorePost(post, terms, wholeQuery) {
+    var title = fold(post.title);
+    var summary = fold(post.description);
+    var titleWords = ' ' + title + ' ';
+    var summaryWords = ' ' + summary + ' ';
+    var matched = 0, score = 0;
+    terms.forEach(function (term) {
+      var token = ' ' + term + ' ';
+      var inTitle = titleWords.indexOf(token) !== -1;
+      var inSummary = summaryWords.indexOf(token) !== -1;
+      if (inTitle || inSummary) matched++;
+      if (inTitle) score += 3;
+      if (inSummary) score += 1;
+    });
+    // Natural questions may include context words absent from a short title.
+    if (matched < Math.ceil(terms.length * 0.75)) return 0;
+    if (title.indexOf(wholeQuery) !== -1) score += 12;
+    if (summary.indexOf(wholeQuery) !== -1) score += 5;
+    return score;
+  }
+
   function render(query, posts) {
+    var terms = keywords(query);
     clearResults();
-    var terms = fold(query).split(' ').filter(Boolean);
-    var matches = posts.map(function (post, index) {
-      var title = fold(post.title);
-      var summary = fold(post.description);
-      var combined = title + ' ' + summary;
-      var score = 0;
-      if (title.indexOf(fold(query)) !== -1) score += 10;
-      if (summary.indexOf(fold(query)) !== -1) score += 3;
-      if (terms.every(function (term) { return combined.indexOf(term) !== -1; })) {
-        score += 2;
-      } else {
-        score = 0;
-      }
-      return { post: post, score: score, index: index };
-    }).filter(function (v) { return v.score > 0; });
-
-    matches.sort(function (a, b) { return b.score - a.score || a.index - b.index; });
-    matches.slice(0, 24).forEach(function (result) { appendResult(result.post); });
-
+    if (!terms.length || terms.length > 12) {
+      status.textContent = 'Hãy nhập một câu hỏi cụ thể, tối đa 12 từ khóa chính.';
+      return;
+    }
+    var wholeQuery = fold(query);
+    var matches = [];
+    posts.forEach(function (post, index) {
+      var score = scorePost(post, terms, wholeQuery);
+      if (score > 0) matches.push({ post: post, score: score, index: index });
+    });
+    matches.sort(function (a, b) {
+      return b.score - a.score || a.index - b.index;
+    });
+    matches.slice(0, 24).forEach(function (result) {
+      appendResult(result.post);
+    });
     if (!matches.length) {
-      status.textContent = 'Chưa tìm thấy bài phù hợp trong 300 bài gần nhất. Bạn có thể tìm rộng hơn qua Google.';
+      status.textContent = 'Chưa tìm thấy bài phù hợp trong ' + posts.length +
+        ' bài công khai. Thử ít từ khóa hơn hoặc tìm trên Google.';
     } else {
-      status.textContent = 'Tìm thấy ' + matches.length + ' bài trong danh sách 300 bài mới nhất; hiển thị tối đa 24 kết quả.';
+      status.textContent = 'Tìm thấy ' + matches.length + ' bài phù hợp trong ' +
+        posts.length + ' bài công khai; hiển thị tối đa 24 kết quả.';
     }
   }
 
@@ -103,15 +150,15 @@
     var generation = ++searchGeneration;
     clearResults();
     if (fold(term).length < 2) {
-      status.textContent = 'Nhập ít nhất 2 ký tự để tìm trong các bài mới.';
+      status.textContent = 'Nhập ít nhất 2 ký tự để tìm bài viết.';
       return;
     }
-    status.textContent = 'Đang tìm kiếm trong các bài mới nhất…';
+    status.textContent = 'Đang tìm trong các bài viết đã xuất bản…';
     loadIndex().then(function (posts) {
       if (generation === searchGeneration) render(term, posts);
     }).catch(function () {
       if (generation === searchGeneration) {
-        status.textContent = 'Chưa tải được danh sách bài viết. Hãy thử lại hoặc dùng liên kết tìm kiếm Google.';
+        status.textContent = 'Chưa tải được dữ liệu. Hãy thử lại hoặc tìm qua Google.';
       }
     });
   }
@@ -119,17 +166,16 @@
   function queryFromUrl() {
     try {
       return (new URLSearchParams(window.location.search).get('q') || '').slice(0, 120);
-    } catch (error) {
-      return '';
-    }
+    } catch (_) { return ''; }
   }
 
   form.addEventListener('submit', function (event) {
-    if (fold(input.value).length < 2) return; // native form fallback if JS cannot search
+    if (fold(input.value).length < 2) return; // preserve native Google fallback
     event.preventDefault();
     var query = input.value.trim().slice(0, 120);
     if (window.history && window.history.replaceState) {
-      window.history.replaceState(null, '', window.location.pathname + '?q=' + encodeURIComponent(query));
+      window.history.replaceState(null, '',
+        window.location.pathname + '?q=' + encodeURIComponent(query));
     }
     search(query);
   });
