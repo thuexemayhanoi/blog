@@ -60,4 +60,20 @@ assert.ok(layout.includes('/assets/css/pricing-table.css'), 'CSS stylesheet link
 const priceData = read('_data/pricing.yml');
 assert.match(priceData, /min:\s*150000/);
 assert.match(priceData, /min:\s*200000/);
-console.log('PASS pricing table source/semantic/3-breakpoint/border/value contracts');
+// iPhone portrait fix: never expose the four-column <table> to mobile Safari.
+const mobileList = include.match(/<ul class="rental-rate-matrix__mobile"/g) || [];
+assert.equal(mobileList.length, 1, 'mobile uses dedicated list markup, not a flex table');
+assert.match(include, /<li class="rental-rate-matrix__mobile-card">/);
+assert.match(include, /<dl class="rental-rate-matrix__mobile-rates">/);
+assert.equal((include.match(/<div class="rental-rate-matrix__mobile-row">/g) || []).length, 3);
+for (const label of ['Giá theo ngày', 'Giá theo tuần', 'Giá theo tháng']) {
+  assert.ok(include.includes('<dt>' + label + '</dt>'), 'missing mobile label ' + label);
+}
+assert.match(css, /PORTRAIT SAFARI FIX V2/);
+assert.match(css, /\.rental-rate-matrix > \.rental-rate-matrix__scroll\s*\{\s*display: none !important;/);
+assert.match(css, /\.rental-rate-matrix > \.rental-rate-matrix__mobile\s*\{\s*display: block;/);
+assert.match(css, /\.rental-rate-matrix__mobile-row\s*\{[\s\S]*?grid-template-columns: minmax\(100px, 38%\) minmax\(0, 1fr\)/);
+assert.match(css, /\.rental-rate-matrix__mobile-row dt\s*\{[\s\S]*?border-right: 1px solid/);
+assert.match(css, /\.rental-rate-matrix__mobile-row\s*\{[\s\S]*?border-bottom: 1px solid/);
+assert.match(layout, /pricing-table\.css[^"\n]*\?v=20261017-portrait2/, 'cache-bust iOS stylesheet');
+console.log('PASS pricing table source/semantic/3-breakpoint/border/value and Safari portrait contracts');
