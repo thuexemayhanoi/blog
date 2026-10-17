@@ -1,8 +1,8 @@
 # Sinh bởi scripts/factory/generate-listing-pages.py. Không sửa tay.
 kinh-nghiem:
-  pages: 314
+  pages: 315
   size: 12
-  total: 3768
+  total: 3771
 chia-se:
   pages: 10
   size: 12
@@ -93,9 +93,9 @@ topic:
     size: 24
     total: 86
   xe-may_honda-air-blade:
-    pages: 4
+    pages: 5
     size: 24
-    total: 94
+    total: 97
   xe-may_honda-click:
     pages: 3
     size: 24
