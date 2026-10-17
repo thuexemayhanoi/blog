@@ -66,9 +66,19 @@
     }
 
     var normalized = fold(question);
-    var terms = Array.from(new Set(normalized.split(' ').filter(Boolean)));
-    if (!normalized || terms.length > 12) {
-      throw new Error('Vui lòng dùng câu hỏi ngắn, tối đa 12 từ khóa.');
+    // Natural Vietnamese questions contain filler words not found in titles.
+    // This is lightweight keyword retrieval, NOT semantic answer generation.
+    var common = {
+      toi: true, muon: true, biet: true, hoi: true, lam: true, sao: true,
+      the: true, nao: true, can: true, gi: true, nhung: true, cac: true,
+      cho: true, ve: true, o: true, tai: true, la: true, co: true,
+      hay: true, khong: true, duoc: true, voi: true, mot: true
+    };
+    var terms = Array.from(new Set(normalized.split(' ').filter(function (term) {
+      return term && !common[term];
+    })));
+    if (!terms.length || terms.length > 12) {
+      throw new Error('Vui lòng hỏi cụ thể hơn, tối đa 12 từ khóa chính.');
     }
     var signal = options && options.signal;
     if (signal && signal.aborted) throw new Error('Đã hủy yêu cầu.');
@@ -79,17 +89,24 @@
     rows.forEach(function (row) {
       var title = fold(row.title);
       var desc = fold(row.description);
-      var combined = title + ' ' + desc;
-      if (!terms.every(function (term) { return combined.indexOf(term) !== -1; })) {
-        return;
-      }
-      var score = 1;
+      // Whole-token matching avoids 'ga' matching 'giao', for example.
+      var titleWords = ' ' + title + ' ';
+      var descWords = ' ' + desc + ' ';
+      var matching = 0;
+      var score = 0;
+      terms.forEach(function (term) {
+        var token = ' ' + term + ' ';
+        var inTitle = titleWords.indexOf(token) !== -1;
+        var inDescription = descWords.indexOf(token) !== -1;
+        if (inTitle || inDescription) matching += 1;
+        if (inTitle) score += 3;
+        if (inDescription) score += 1;
+      });
+      // Permit a few missing context words in natural questions but keep
+      // a 75% token-overlap threshold to avoid unrelated article suggestions.
+      if (matching < Math.ceil(terms.length * 0.75)) return;
       if (title.indexOf(normalized) !== -1) score += 12;
       if (desc.indexOf(normalized) !== -1) score += 5;
-      terms.forEach(function (term) {
-        if (title.indexOf(term) !== -1) score += 3;
-        if (desc.indexOf(term) !== -1) score += 1;
-      });
       ranked.push({ row: row, score: score });
     });
     ranked.sort(function (a, b) { return b.score - a.score; });
