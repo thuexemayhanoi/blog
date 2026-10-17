@@ -3,489 +3,13 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "STAGED",
+    "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-17T12:51:06+00:00",
-    "staged_at": "2026-10-17T13:09:26+00:00"
+    "materialized_at": "2026-10-17T13:25:08+00:00",
+    "staged_at": "2026-10-17T13:25:05+00:00"
   },
-  "candidates": [
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-001",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Mới ốm dậy, người còn yếu: chạy xe máy trở lại từ đoạn ngắn quen thuộc và dấu hiệu nên dừng nghỉ",
-      "intent": "Biết cách quay lại chạy xe máy sau đợt ốm khi người còn yếu, chân tay chưa chắc: bắt đầu bằng đoạn ngắn quen đường, nhận ra dấu hiệu mệt hay choáng để dừng nghỉ, và khi nào nên hỏi bác sĩ hoặc nhờ người chở.",
-      "kw": "mới ốm dậy đi xe máy",
-      "kw2": [
-        "ốm dậy có nên chạy xe máy",
-        "người yếu sau bệnh đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người vừa khỏi ốm, đi làm hoặc đi lại bằng xe máy",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-002",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Người hay dị ứng bụi, mùi lạ thuê xe máy ở Hà Nội: mũ, áo mưa dùng chung và những thứ nên mang riêng",
-      "intent": "Biết người dễ dị ứng nên chuẩn bị gì khi thuê xe: kiểm tra mùi, bụi ở mũ bảo hiểm, áo mưa và khoang chứa đồ nếu có, mang khăn lót, khẩu trang riêng, và dừng nghỉ khi thấy ngứa mũi, cay mắt thay vì cố chạy tiếp.",
-      "kw": "người dị ứng thuê xe máy",
-      "kw2": [
-        "dị ứng bụi khi đi xe máy",
-        "mũ bảo hiểm thuê có mùi gây dị ứng"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "khách hay bị ngạt mũi, ngứa mắt khi gặp bụi hoặc mùi lạ",
-      "location_scope": "điểm nhận xe và nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-003",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Vừa ăn no căng đã chạy xe máy: nặng bụng, lờ đờ sau bữa cỗ, lẩu nướng và cách nghỉ trước khi nổ máy",
-      "intent": "Nhận ra dấu hiệu nặng bụng, lờ đờ sau bữa ăn no nhiều dầu mỡ và cách sắp xếp: ngồi nghỉ, đi bộ nhẹ cho thoáng, chọn chỗ ngồi thoáng mát, hoặc nhờ người chở nếu thấy buồn ngủ hay khó chịu.",
-      "kw": "ăn no rồi đi xe máy",
-      "kw2": [
-        "đi xe máy sau bữa ăn no",
-        "ăn xong lờ đờ chạy xe"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người đi ăn cỗ, lẩu, nướng rồi chạy xe về",
-      "location_scope": "các quán ăn và nhà hàng ở Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-004",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Hoa mắt, choáng nhẹ khi vừa đứng dậy hoặc từ phòng lạnh ra nắng: khi nào nên ngồi lại, chưa nổ máy",
-      "intent": "Biết cách xử lý khi vừa đứng bật dậy, rời ghế thấp hay bước từ phòng điều hòa ra nắng mà thấy hoa mắt, choáng nhẹ, chân tê: ngồi lại, bám vào xe, chờ hết rồi mới nổ máy, và hỏi bác sĩ nếu hay lặp lại.",
-      "kw": "hoa mắt khi đứng dậy rồi đi xe máy",
-      "kw2": [
-        "choáng khi vừa đứng dậy lái xe",
-        "hoa mắt trước khi chạy xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người đang chuẩn bị lên xe sau khi ngồi lâu hoặc ở trong phòng lạnh",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-005",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Mẹ sau sinh quay lại đi xe máy ở Hà Nội: người còn yếu, đau lưng, chăm con thiếu sức và việc hỏi bác sĩ trước",
-      "intent": "Cân nhắc khi nào nên tự chạy xe máy trở lại sau sinh: thể trạng còn yếu, đau lưng, mệt khi chăm con, vì sao không có mốc chung cho mọi người, cách hỏi bác sĩ theo tình trạng của mình và thử đoạn ngắn có người đi cùng.",
-      "kw": "sau sinh đi xe máy",
-      "kw2": [
-        "mẹ sau sinh tự lái xe máy",
-        "sau sinh quay lại đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "mẹ mới sinh con cần đi lại bằng xe máy",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-006",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Khởi động cổ, vai, cổ tay và chân trước khi lên xe máy đi xa: những động tác nhẹ ngay tại chỗ nhận xe",
-      "intent": "Biết những động tác duỗi nhẹ cổ, vai, cổ tay, lưng và chân có thể làm ngay tại chỗ nhận xe trước chuyến đi xa, cách làm vừa sức, không gồng, và nên bỏ động tác nào nếu đang đau.",
-      "kw": "khởi động trước khi đi xe máy đường dài",
-      "kw2": [
-        "giãn cơ trước chuyến đi xe máy",
-        "động tác khởi động cho người đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "khách chuẩn bị đi xe máy nửa ngày trở lên",
-      "location_scope": "điểm nhận xe ở Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-007",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Làm việc trước màn hình cả ngày, mắt mỏi rồi chạy xe về tối: nhìn mờ, cay mắt và khi nào nên chờ mắt dịu",
-      "intent": "Nhận ra mắt mỏi, nhìn mờ thoáng qua sau ngày dài nhìn máy tính và cách sắp xếp trước khi chạy xe lúc trời tối: nhắm mắt nghỉ, rửa mặt, chờ mắt dịu, đi đường quen hoặc nhờ người chở nếu vẫn nhìn không rõ.",
-      "kw": "mỏi mắt rồi đi xe máy buổi tối",
-      "kw2": [
-        "nhìn máy tính cả ngày rồi chạy xe",
-        "mắt mờ khi đi xe máy buổi tối"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "nhân viên văn phòng tan làm chạy xe về nhà",
-      "location_scope": "nội thành Hà Nội, giờ tan tầm",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-008",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Vừa khám mắt hoặc nhỏ thuốc mắt ở bệnh viện: nhìn chói, mờ tạm thời có nên tự chạy xe máy về",
-      "intent": "Biết nên hỏi nhân viên y tế điều gì sau khi khám mắt hoặc nhỏ thuốc mắt, và quyết định nhờ người đón, gọi xe hay chờ mắt ổn rồi mới lên xe khi còn nhìn chói hoặc mờ.",
-      "kw": "khám mắt xong có đi xe máy được không",
-      "kw2": [
-        "nhỏ thuốc mắt rồi lái xe",
-        "khám mắt về bằng xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người đi khám mắt tại bệnh viện và phòng khám",
-      "location_scope": "các bệnh viện, phòng khám ở Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-009",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Vừa nhổ răng hoặc làm răng có gây tê, mặt còn tê: tự chạy xe máy về hay nhờ người đón",
-      "intent": "Biết cách quyết định có nên tự chạy xe máy về sau khi làm răng có gây tê: hỏi nha sĩ, tự quan sát cảm giác tê ở mặt và miệng, đau, mệt, và phương án nhờ người đón hoặc gọi xe.",
-      "kw": "nhổ răng xong đi xe máy được không",
-      "kw2": [
-        "gây tê khi làm răng rồi lái xe",
-        "làm răng xong chạy xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người đi nha khoa bằng xe máy",
-      "location_scope": "các phòng khám nha khoa ở Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-010",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Sau nội soi hoặc thủ thuật có an thần, gây mê: làm theo dặn của bác sĩ, nhờ người đón thay vì tự lái xe về",
-      "intent": "Hiểu vì sao nên hỏi trước ngày làm thủ thuật về việc tự lái xe, sắp xếp người đón, nơi gửi xe máy ở bệnh viện, và không tự chạy xe về khi cơ sở y tế đã dặn không nên.",
-      "kw": "sau nội soi gây mê đi xe máy",
-      "kw2": [
-        "làm thủ thuật xong có tự lái xe được không",
-        "đi nội soi nhờ người đón"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người sắp làm nội soi hoặc thủ thuật tại bệnh viện",
-      "location_scope": "các bệnh viện ở Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-011",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Mới đến Hà Nội từ vùng khí hậu khác: ngày đầu chưa quen nóng ẩm hoặc rét, chạy xe máy ngắn và nghỉ nhiều hơn",
-      "intent": "Biết cách chạy xe máy hợp lý trong những ngày đầu ở Hà Nội khi người chưa quen nóng ẩm hay gió lạnh: chọn đoạn ngắn, nghỉ sớm, mặc đủ, uống nước và nhận ra dấu hiệu mệt để dừng.",
-      "kw": "mới đến Hà Nội chưa quen thời tiết đi xe máy",
-      "kw2": [
-        "khách miền Nam đi xe máy Hà Nội mùa lạnh",
-        "ngày đầu ở Hà Nội đi xe máy bị mệt"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "khách từ tỉnh khác hoặc nước ngoài vừa đến Hà Nội",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-012",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Đói bụng, run tay chân giữa buổi chạy xe vì quên ăn: dừng ở đâu, ăn nhẹ gì rồi mới đi tiếp",
-      "intent": "Nhận ra dấu hiệu đói lả như run tay, bủn rủn, hoa mắt, khó tập trung khi đang chạy xe và cách dừng ở quán hay cửa hàng ven đường, ăn uống nhẹ rồi nghỉ đã mới đi tiếp.",
-      "kw": "đói lả khi đi xe máy",
-      "kw2": [
-        "run tay vì đói khi lái xe",
-        "bủn rủn chân tay lúc chạy xe"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người bận việc bỏ bữa, đi xe máy cả ngày",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-013",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Người có bệnh mạn tính đi xe máy đường xa: mang theo thuốc đang dùng, báo người đi cùng và hỏi bác sĩ trước",
-      "intent": "Biết cách chuẩn bị cho chuyến xe máy xa khi có bệnh mạn tính: hỏi bác sĩ điều cần tránh, mang theo thuốc đang dùng và ghi chú, báo người đi cùng, chọn quãng ngắn; và nhớ khoản 2 Điều 59 Luật 36/2024/QH15 yêu cầu người lái có sức khỏe phù hợp.",
-      "kw": "bệnh mạn tính đi xe máy đường xa",
-      "kw2": [
-        "người có bệnh nền đi xe máy",
-        "mang thuốc khi đi xe máy xa"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người có bệnh mạn tính thuê xe đi chơi xa",
-      "location_scope": "các chuyến từ Hà Nội ra ngoại thành",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-014",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Đang chạy xe máy bỗng choáng váng, tức ngực hoặc tê bất thường: tấp vào lề, báo người thân và gọi cấp cứu",
-      "intent": "Biết các bước dừng xe an toàn khi đang chạy mà thấy choáng váng, tức ngực hay tê bất thường: giảm ga, bật xi nhan, tấp vào chỗ an toàn, ngồi xuống, nhờ người xung quanh và gọi cấp cứu, không tự chẩn đoán.",
-      "kw": "đang chạy xe máy bị choáng tức ngực",
-      "kw2": [
-        "chóng mặt giữa đường khi lái xe máy",
-        "mệt đột ngột khi đang đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người đi xe máy một mình hoặc có bạn đi cùng",
-      "location_scope": "nội thành Hà Nội và các tuyến ngoại thành",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-015",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Buồn nôn, đau bụng quặn giữa chuyến xe máy đi chơi xa: dừng chỗ nào an toàn và khi nào nên tìm cơ sở y tế",
-      "intent": "Biết cách xử lý khi đang đi chơi xa mà buồn nôn, đau bụng hoặc khó chịu trong người: dừng ở quán hoặc cây xăng có người, ngồi nghỉ, nhờ người đi cùng và tìm trạm y tế gần nhất nếu không đỡ.",
-      "kw": "đau bụng khi đang đi xe máy đường xa",
-      "kw2": [
-        "buồn nôn giữa đường khi chạy xe máy",
-        "khó chịu trong người khi đi xe xa"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "khách đi chơi xa bằng xe máy",
-      "location_scope": "các tuyến từ Hà Nội ra ngoại thành",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-016",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Đến kỳ đau bụng kinh, người mệt lả: có nên tự chạy xe máy, nhờ người chở hay chọn quãng đường ngắn",
-      "intent": "Biết cách tự đánh giá khi đau bụng kinh hoặc mệt trong ngày hành kinh: đau làm xao nhãng, choáng hay mệt thì nên nghỉ hoặc nhờ người chở, còn nếu đi thì chọn quãng ngắn, nghỉ sớm và mang theo đồ cần thiết.",
-      "kw": "đau bụng kinh có nên đi xe máy",
-      "kw2": [
-        "đến kỳ mệt chạy xe máy",
-        "đi xe máy ngày hành kinh"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "nữ khách đi xe máy trong những ngày không khỏe",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-017",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Đeo nút bịt tai khi đi xe máy để bớt ồn: nghe còi, nghe xe sau lưng và những lúc không nên đeo",
-      "intent": "Cân nhắc có nên dùng nút bịt tai chống ồn khi đi xe máy ở Hà Nội: nhiều người muốn bớt ồn nhưng lại giảm khả năng nghe còi và xe sau lưng, nên chọn loại nào và lúc nào nên bỏ ra.",
-      "kw": "nút bịt tai khi đi xe máy",
-      "kw2": [
-        "nút tai chống ồn khi lái xe máy",
-        "tiếng gió ồn khi đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người nhạy cảm với tiếng ồn khi chạy xe",
-      "location_scope": "đường phố đông và đường thoáng gió ở Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-018",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Vừa cắt kính mới hoặc đổi độ kính: nhìn lệch, hơi chóng mặt lúc đầu và cách chạy xe máy ở Hà Nội cho an toàn",
-      "intent": "Biết cách làm quen kính mới trước khi chạy xe: đeo thử trong nhà và đi bộ, chạy thử đoạn ngắn đường vắng ban ngày, nhận ra dấu hiệu nhìn lệch, chóng mặt để tạm không chạy và hỏi lại nơi cắt kính.",
-      "kw": "kính mới đi xe máy chóng mặt",
-      "kw2": [
-        "đổi độ kính rồi lái xe máy",
-        "cắt kính mới chưa quen đi xe"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người vừa đổi kính cận, kính lão",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-019",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Quên kính ở nhà hoặc gãy gọng kính giữa đường: có nên chạy tiếp xe máy khi nhìn mờ và cách xử lý tại chỗ",
-      "intent": "Biết cách xử lý khi người cận thị quên hoặc làm hỏng kính giữa chuyến đi: dừng xe, không cố chạy khi nhìn biển báo và đèn tín hiệu không rõ, ghé tiệm kính gần nhất, nhờ người chở; cân nhắc điều kiện sức khỏe theo khoản 2 Điều 59 Luật 36/2024/QH15.",
-      "kw": "quên kính có nên đi xe máy",
-      "kw2": [
-        "gãy kính giữa đường khi đi xe máy",
-        "không đeo kính cận chạy xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người cận thị hoặc viễn thị đang đi xe máy",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-020",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Nổ máy xe máy trong nhà để xe kín hoặc hầm gửi xe: khói pô tích tụ và cách dắt xe ra chỗ thoáng rồi mới nổ",
-      "intent": "Nhận ra vì sao không nên để xe máy nổ máy lâu trong nhà để xe kín, hầm gửi xe hay sân thiếu thông thoáng: khói pô tích tụ có thể gây khó chịu, nhức đầu, và cách dắt xe ra chỗ thoáng rồi mới nổ máy.",
-      "kw": "nổ máy xe máy trong nhà kín",
-      "kw2": [
-        "khói pô trong hầm gửi xe",
-        "để xe nổ máy trong nhà để xe"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người thuê xe gửi xe trong nhà, hầm chung cư",
-      "location_scope": "hầm và nhà để xe ở Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-021",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Túi sơ cứu nhỏ mang theo cho chuyến xe máy đi xa: băng gạc, nước muối và những thứ cơ bản nên có sẵn",
-      "intent": "Chuẩn bị túi sơ cứu nhỏ gọn cho chuyến xe máy đi xa: vật dụng cơ bản cho trầy xước nhẹ, cách đóng gói chống ướt, kiểm tra hạn dùng, và nhớ túi chỉ xử lý ban đầu, vết thương nặng phải đến cơ sở y tế.",
-      "kw": "túi sơ cứu khi đi xe máy",
-      "kw2": [
-        "hộp sơ cứu mang theo khi đi phượt xe máy",
-        "đồ sơ cứu mang theo khi đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "khách đi xe máy đường xa hoặc đi phượt",
-      "location_scope": "các chuyến từ Hà Nội ra ngoại thành",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-022",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Vừa nhận tin buồn hoặc đang khóc, tay run, đầu rối: có nên tự chạy xe máy ngay hay ngồi lại cho bình tĩnh",
-      "intent": "Hiểu nên làm gì khi vừa nhận tin dữ hoặc xúc động mạnh: ngồi lại, hít thở, uống nước, nhờ người thân đưa đi hoặc gọi xe thay vì tự cầm lái khi tay còn run và đầu chưa tỉnh.",
-      "kw": "nhận tin buồn có nên đi xe máy",
-      "kw2": [
-        "đang khóc chạy xe máy",
-        "tâm trạng không tốt lái xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người vừa gặp chuyện buồn, bất ngờ hoặc sốc tinh thần",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-023",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Đau đầu âm ỉ, nhức nửa đầu hoặc chói sáng khó chịu: hoãn chạy xe máy, nhờ người chở và khi nào nên đi khám",
-      "intent": "Biết cách quyết định khi đang đau đầu âm ỉ hoặc nhạy với ánh sáng: nhờ người chở, nghỉ ở chỗ mát và tối, tránh chạy xe ngày nắng gắt, và khi nào cơn đau lạ hoặc dữ dội cần được bác sĩ khám.",
-      "kw": "đau đầu có nên đi xe máy",
-      "kw2": [
-        "nhức nửa đầu chạy xe máy",
-        "đau đầu khi đang lái xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người hay bị đau đầu cần đi lại bằng xe máy",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-024",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Vừa tiêm vắc xin xong thấy mệt hoặc choáng: ở lại theo dõi tại điểm tiêm, nhờ người chở thay vì tự lái xe về",
-      "intent": "Biết cách sắp xếp ngày đi tiêm phòng cho người lớn: ở lại theo dõi theo hướng dẫn của điểm tiêm, nhờ người đưa đón hoặc đi chậm, và hỏi nhân viên y tế nếu thấy mệt hay choáng.",
-      "kw": "tiêm vắc xin xong có đi xe máy được không",
-      "kw2": [
-        "tiêm phòng rồi tự lái xe về",
-        "sau tiêm vắc xin bị choáng đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người lớn đi tiêm phòng bằng xe máy",
-      "location_scope": "các điểm tiêm chủng ở Hà Nội",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-17-W3L-025",
-      "child_id": "C-KY-NANG-SUC-KHOE",
-      "title": "Ngủ sai tư thế bị vẹo cổ, cứng cổ hoặc đau lưng khó xoay người: quay đầu nhìn gương và điểm mù khi chạy xe máy",
-      "intent": "Hiểu rủi ro khi cổ cứng hoặc đau lưng làm việc quay đầu quan sát điểm mù bị hạn chế, cách chỉnh gương, chạy chậm đoạn quen hoặc nhờ người chở; nếu đau kéo dài hay lan xuống tay thì hỏi bác sĩ.",
-      "kw": "vẹo cổ có nên đi xe máy",
-      "kw2": [
-        "cứng cổ không quay đầu được khi lái xe",
-        "đau lưng không xoay người được đi xe máy"
-      ],
-      "links": [
-        "/ky-nang/suc-khoe-khi-lai-xe/",
-        "/ky-nang/"
-      ],
-      "subtopic": "refill-2026-10-17-W3L",
-      "audience": "người bị đau cổ, đau lưng cấp phải đi lại bằng xe máy",
-      "location_scope": "nội thành Hà Nội",
-      "word_target": 1200
-    }
-  ],
+  "candidates": [],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
@@ -90700,6 +90224,951 @@
       "word_target": 1200,
       "materialized_at": "2026-10-17T12:51:06+00:00",
       "materialized_head": "da59c988d1755758cbd047634886ae7b70dc6c1b"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-001",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Mới ốm dậy, người còn yếu: chạy xe máy trở lại từ đoạn ngắn quen thuộc và dấu hiệu nên dừng nghỉ",
+      "intent": "Biết cách quay lại chạy xe máy sau đợt ốm khi người còn yếu, chân tay chưa chắc: bắt đầu bằng đoạn ngắn quen đường, nhận ra dấu hiệu mệt hay choáng để dừng nghỉ, và khi nào nên hỏi bác sĩ hoặc nhờ người chở.",
+      "kw": "mới ốm dậy đi xe máy",
+      "kw2": [
+        "ốm dậy có nên chạy xe máy",
+        "người yếu sau bệnh đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người vừa khỏi ốm, đi làm hoặc đi lại bằng xe máy",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-002",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Người hay dị ứng bụi, mùi lạ thuê xe máy ở Hà Nội: mũ, áo mưa dùng chung và những thứ nên mang riêng",
+      "intent": "Biết người dễ dị ứng nên chuẩn bị gì khi thuê xe: kiểm tra mùi, bụi ở mũ bảo hiểm, áo mưa và khoang chứa đồ nếu có, mang khăn lót, khẩu trang riêng, và dừng nghỉ khi thấy ngứa mũi, cay mắt thay vì cố chạy tiếp.",
+      "kw": "người dị ứng thuê xe máy",
+      "kw2": [
+        "dị ứng bụi khi đi xe máy",
+        "mũ bảo hiểm thuê có mùi gây dị ứng"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "khách hay bị ngạt mũi, ngứa mắt khi gặp bụi hoặc mùi lạ",
+      "location_scope": "điểm nhận xe và nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-003",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa ăn no căng đã chạy xe máy: nặng bụng, lờ đờ sau bữa cỗ, lẩu nướng và cách nghỉ trước khi nổ máy",
+      "intent": "Nhận ra dấu hiệu nặng bụng, lờ đờ sau bữa ăn no nhiều dầu mỡ và cách sắp xếp: ngồi nghỉ, đi bộ nhẹ cho thoáng, chọn chỗ ngồi thoáng mát, hoặc nhờ người chở nếu thấy buồn ngủ hay khó chịu.",
+      "kw": "ăn no rồi đi xe máy",
+      "kw2": [
+        "đi xe máy sau bữa ăn no",
+        "ăn xong lờ đờ chạy xe"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người đi ăn cỗ, lẩu, nướng rồi chạy xe về",
+      "location_scope": "các quán ăn và nhà hàng ở Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-004",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Hoa mắt, choáng nhẹ khi vừa đứng dậy hoặc từ phòng lạnh ra nắng: khi nào nên ngồi lại, chưa nổ máy",
+      "intent": "Biết cách xử lý khi vừa đứng bật dậy, rời ghế thấp hay bước từ phòng điều hòa ra nắng mà thấy hoa mắt, choáng nhẹ, chân tê: ngồi lại, bám vào xe, chờ hết rồi mới nổ máy, và hỏi bác sĩ nếu hay lặp lại.",
+      "kw": "hoa mắt khi đứng dậy rồi đi xe máy",
+      "kw2": [
+        "choáng khi vừa đứng dậy lái xe",
+        "hoa mắt trước khi chạy xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người đang chuẩn bị lên xe sau khi ngồi lâu hoặc ở trong phòng lạnh",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-005",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Mẹ sau sinh quay lại đi xe máy ở Hà Nội: người còn yếu, đau lưng, chăm con thiếu sức và việc hỏi bác sĩ trước",
+      "intent": "Cân nhắc khi nào nên tự chạy xe máy trở lại sau sinh: thể trạng còn yếu, đau lưng, mệt khi chăm con, vì sao không có mốc chung cho mọi người, cách hỏi bác sĩ theo tình trạng của mình và thử đoạn ngắn có người đi cùng.",
+      "kw": "sau sinh đi xe máy",
+      "kw2": [
+        "mẹ sau sinh tự lái xe máy",
+        "sau sinh quay lại đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "mẹ mới sinh con cần đi lại bằng xe máy",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-006",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Khởi động cổ, vai, cổ tay và chân trước khi lên xe máy đi xa: những động tác nhẹ ngay tại chỗ nhận xe",
+      "intent": "Biết những động tác duỗi nhẹ cổ, vai, cổ tay, lưng và chân có thể làm ngay tại chỗ nhận xe trước chuyến đi xa, cách làm vừa sức, không gồng, và nên bỏ động tác nào nếu đang đau.",
+      "kw": "khởi động trước khi đi xe máy đường dài",
+      "kw2": [
+        "giãn cơ trước chuyến đi xe máy",
+        "động tác khởi động cho người đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "khách chuẩn bị đi xe máy nửa ngày trở lên",
+      "location_scope": "điểm nhận xe ở Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-007",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Làm việc trước màn hình cả ngày, mắt mỏi rồi chạy xe về tối: nhìn mờ, cay mắt và khi nào nên chờ mắt dịu",
+      "intent": "Nhận ra mắt mỏi, nhìn mờ thoáng qua sau ngày dài nhìn máy tính và cách sắp xếp trước khi chạy xe lúc trời tối: nhắm mắt nghỉ, rửa mặt, chờ mắt dịu, đi đường quen hoặc nhờ người chở nếu vẫn nhìn không rõ.",
+      "kw": "mỏi mắt rồi đi xe máy buổi tối",
+      "kw2": [
+        "nhìn máy tính cả ngày rồi chạy xe",
+        "mắt mờ khi đi xe máy buổi tối"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "nhân viên văn phòng tan làm chạy xe về nhà",
+      "location_scope": "nội thành Hà Nội, giờ tan tầm",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-008",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa khám mắt hoặc nhỏ thuốc mắt ở bệnh viện: nhìn chói, mờ tạm thời có nên tự chạy xe máy về",
+      "intent": "Biết nên hỏi nhân viên y tế điều gì sau khi khám mắt hoặc nhỏ thuốc mắt, và quyết định nhờ người đón, gọi xe hay chờ mắt ổn rồi mới lên xe khi còn nhìn chói hoặc mờ.",
+      "kw": "khám mắt xong có đi xe máy được không",
+      "kw2": [
+        "nhỏ thuốc mắt rồi lái xe",
+        "khám mắt về bằng xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người đi khám mắt tại bệnh viện và phòng khám",
+      "location_scope": "các bệnh viện, phòng khám ở Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-009",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa nhổ răng hoặc làm răng có gây tê, mặt còn tê: tự chạy xe máy về hay nhờ người đón",
+      "intent": "Biết cách quyết định có nên tự chạy xe máy về sau khi làm răng có gây tê: hỏi nha sĩ, tự quan sát cảm giác tê ở mặt và miệng, đau, mệt, và phương án nhờ người đón hoặc gọi xe.",
+      "kw": "nhổ răng xong đi xe máy được không",
+      "kw2": [
+        "gây tê khi làm răng rồi lái xe",
+        "làm răng xong chạy xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người đi nha khoa bằng xe máy",
+      "location_scope": "các phòng khám nha khoa ở Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-010",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Sau nội soi hoặc thủ thuật có an thần, gây mê: làm theo dặn của bác sĩ, nhờ người đón thay vì tự lái xe về",
+      "intent": "Hiểu vì sao nên hỏi trước ngày làm thủ thuật về việc tự lái xe, sắp xếp người đón, nơi gửi xe máy ở bệnh viện, và không tự chạy xe về khi cơ sở y tế đã dặn không nên.",
+      "kw": "sau nội soi gây mê đi xe máy",
+      "kw2": [
+        "làm thủ thuật xong có tự lái xe được không",
+        "đi nội soi nhờ người đón"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người sắp làm nội soi hoặc thủ thuật tại bệnh viện",
+      "location_scope": "các bệnh viện ở Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-011",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Mới đến Hà Nội từ vùng khí hậu khác: ngày đầu chưa quen nóng ẩm hoặc rét, chạy xe máy ngắn và nghỉ nhiều hơn",
+      "intent": "Biết cách chạy xe máy hợp lý trong những ngày đầu ở Hà Nội khi người chưa quen nóng ẩm hay gió lạnh: chọn đoạn ngắn, nghỉ sớm, mặc đủ, uống nước và nhận ra dấu hiệu mệt để dừng.",
+      "kw": "mới đến Hà Nội chưa quen thời tiết đi xe máy",
+      "kw2": [
+        "khách miền Nam đi xe máy Hà Nội mùa lạnh",
+        "ngày đầu ở Hà Nội đi xe máy bị mệt"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "khách từ tỉnh khác hoặc nước ngoài vừa đến Hà Nội",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-012",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đói bụng, run tay chân giữa buổi chạy xe vì quên ăn: dừng ở đâu, ăn nhẹ gì rồi mới đi tiếp",
+      "intent": "Nhận ra dấu hiệu đói lả như run tay, bủn rủn, hoa mắt, khó tập trung khi đang chạy xe và cách dừng ở quán hay cửa hàng ven đường, ăn uống nhẹ rồi nghỉ đã mới đi tiếp.",
+      "kw": "đói lả khi đi xe máy",
+      "kw2": [
+        "run tay vì đói khi lái xe",
+        "bủn rủn chân tay lúc chạy xe"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người bận việc bỏ bữa, đi xe máy cả ngày",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-013",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Người có bệnh mạn tính đi xe máy đường xa: mang theo thuốc đang dùng, báo người đi cùng và hỏi bác sĩ trước",
+      "intent": "Biết cách chuẩn bị cho chuyến xe máy xa khi có bệnh mạn tính: hỏi bác sĩ điều cần tránh, mang theo thuốc đang dùng và ghi chú, báo người đi cùng, chọn quãng ngắn; và nhớ khoản 2 Điều 59 Luật 36/2024/QH15 yêu cầu người lái có sức khỏe phù hợp.",
+      "kw": "bệnh mạn tính đi xe máy đường xa",
+      "kw2": [
+        "người có bệnh nền đi xe máy",
+        "mang thuốc khi đi xe máy xa"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người có bệnh mạn tính thuê xe đi chơi xa",
+      "location_scope": "các chuyến từ Hà Nội ra ngoại thành",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-014",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đang chạy xe máy bỗng choáng váng, tức ngực hoặc tê bất thường: tấp vào lề, báo người thân và gọi cấp cứu",
+      "intent": "Biết các bước dừng xe an toàn khi đang chạy mà thấy choáng váng, tức ngực hay tê bất thường: giảm ga, bật xi nhan, tấp vào chỗ an toàn, ngồi xuống, nhờ người xung quanh và gọi cấp cứu, không tự chẩn đoán.",
+      "kw": "đang chạy xe máy bị choáng tức ngực",
+      "kw2": [
+        "chóng mặt giữa đường khi lái xe máy",
+        "mệt đột ngột khi đang đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người đi xe máy một mình hoặc có bạn đi cùng",
+      "location_scope": "nội thành Hà Nội và các tuyến ngoại thành",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-015",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Buồn nôn, đau bụng quặn giữa chuyến xe máy đi chơi xa: dừng chỗ nào an toàn và khi nào nên tìm cơ sở y tế",
+      "intent": "Biết cách xử lý khi đang đi chơi xa mà buồn nôn, đau bụng hoặc khó chịu trong người: dừng ở quán hoặc cây xăng có người, ngồi nghỉ, nhờ người đi cùng và tìm trạm y tế gần nhất nếu không đỡ.",
+      "kw": "đau bụng khi đang đi xe máy đường xa",
+      "kw2": [
+        "buồn nôn giữa đường khi chạy xe máy",
+        "khó chịu trong người khi đi xe xa"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "khách đi chơi xa bằng xe máy",
+      "location_scope": "các tuyến từ Hà Nội ra ngoại thành",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-016",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đến kỳ đau bụng kinh, người mệt lả: có nên tự chạy xe máy, nhờ người chở hay chọn quãng đường ngắn",
+      "intent": "Biết cách tự đánh giá khi đau bụng kinh hoặc mệt trong ngày hành kinh: đau làm xao nhãng, choáng hay mệt thì nên nghỉ hoặc nhờ người chở, còn nếu đi thì chọn quãng ngắn, nghỉ sớm và mang theo đồ cần thiết.",
+      "kw": "đau bụng kinh có nên đi xe máy",
+      "kw2": [
+        "đến kỳ mệt chạy xe máy",
+        "đi xe máy ngày hành kinh"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "nữ khách đi xe máy trong những ngày không khỏe",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-017",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đeo nút bịt tai khi đi xe máy để bớt ồn: nghe còi, nghe xe sau lưng và những lúc không nên đeo",
+      "intent": "Cân nhắc có nên dùng nút bịt tai chống ồn khi đi xe máy ở Hà Nội: nhiều người muốn bớt ồn nhưng lại giảm khả năng nghe còi và xe sau lưng, nên chọn loại nào và lúc nào nên bỏ ra.",
+      "kw": "nút bịt tai khi đi xe máy",
+      "kw2": [
+        "nút tai chống ồn khi lái xe máy",
+        "tiếng gió ồn khi đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người nhạy cảm với tiếng ồn khi chạy xe",
+      "location_scope": "đường phố đông và đường thoáng gió ở Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-018",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa cắt kính mới hoặc đổi độ kính: nhìn lệch, hơi chóng mặt lúc đầu và cách chạy xe máy ở Hà Nội cho an toàn",
+      "intent": "Biết cách làm quen kính mới trước khi chạy xe: đeo thử trong nhà và đi bộ, chạy thử đoạn ngắn đường vắng ban ngày, nhận ra dấu hiệu nhìn lệch, chóng mặt để tạm không chạy và hỏi lại nơi cắt kính.",
+      "kw": "kính mới đi xe máy chóng mặt",
+      "kw2": [
+        "đổi độ kính rồi lái xe máy",
+        "cắt kính mới chưa quen đi xe"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người vừa đổi kính cận, kính lão",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-019",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Quên kính ở nhà hoặc gãy gọng kính giữa đường: có nên chạy tiếp xe máy khi nhìn mờ và cách xử lý tại chỗ",
+      "intent": "Biết cách xử lý khi người cận thị quên hoặc làm hỏng kính giữa chuyến đi: dừng xe, không cố chạy khi nhìn biển báo và đèn tín hiệu không rõ, ghé tiệm kính gần nhất, nhờ người chở; cân nhắc điều kiện sức khỏe theo khoản 2 Điều 59 Luật 36/2024/QH15.",
+      "kw": "quên kính có nên đi xe máy",
+      "kw2": [
+        "gãy kính giữa đường khi đi xe máy",
+        "không đeo kính cận chạy xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người cận thị hoặc viễn thị đang đi xe máy",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-020",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Nổ máy xe máy trong nhà để xe kín hoặc hầm gửi xe: khói pô tích tụ và cách dắt xe ra chỗ thoáng rồi mới nổ",
+      "intent": "Nhận ra vì sao không nên để xe máy nổ máy lâu trong nhà để xe kín, hầm gửi xe hay sân thiếu thông thoáng: khói pô tích tụ có thể gây khó chịu, nhức đầu, và cách dắt xe ra chỗ thoáng rồi mới nổ máy.",
+      "kw": "nổ máy xe máy trong nhà kín",
+      "kw2": [
+        "khói pô trong hầm gửi xe",
+        "để xe nổ máy trong nhà để xe"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người thuê xe gửi xe trong nhà, hầm chung cư",
+      "location_scope": "hầm và nhà để xe ở Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-021",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Túi sơ cứu nhỏ mang theo cho chuyến xe máy đi xa: băng gạc, nước muối và những thứ cơ bản nên có sẵn",
+      "intent": "Chuẩn bị túi sơ cứu nhỏ gọn cho chuyến xe máy đi xa: vật dụng cơ bản cho trầy xước nhẹ, cách đóng gói chống ướt, kiểm tra hạn dùng, và nhớ túi chỉ xử lý ban đầu, vết thương nặng phải đến cơ sở y tế.",
+      "kw": "túi sơ cứu khi đi xe máy",
+      "kw2": [
+        "hộp sơ cứu mang theo khi đi phượt xe máy",
+        "đồ sơ cứu mang theo khi đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "khách đi xe máy đường xa hoặc đi phượt",
+      "location_scope": "các chuyến từ Hà Nội ra ngoại thành",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-022",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa nhận tin buồn hoặc đang khóc, tay run, đầu rối: có nên tự chạy xe máy ngay hay ngồi lại cho bình tĩnh",
+      "intent": "Hiểu nên làm gì khi vừa nhận tin dữ hoặc xúc động mạnh: ngồi lại, hít thở, uống nước, nhờ người thân đưa đi hoặc gọi xe thay vì tự cầm lái khi tay còn run và đầu chưa tỉnh.",
+      "kw": "nhận tin buồn có nên đi xe máy",
+      "kw2": [
+        "đang khóc chạy xe máy",
+        "tâm trạng không tốt lái xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người vừa gặp chuyện buồn, bất ngờ hoặc sốc tinh thần",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-023",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Đau đầu âm ỉ, nhức nửa đầu hoặc chói sáng khó chịu: hoãn chạy xe máy, nhờ người chở và khi nào nên đi khám",
+      "intent": "Biết cách quyết định khi đang đau đầu âm ỉ hoặc nhạy với ánh sáng: nhờ người chở, nghỉ ở chỗ mát và tối, tránh chạy xe ngày nắng gắt, và khi nào cơn đau lạ hoặc dữ dội cần được bác sĩ khám.",
+      "kw": "đau đầu có nên đi xe máy",
+      "kw2": [
+        "nhức nửa đầu chạy xe máy",
+        "đau đầu khi đang lái xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người hay bị đau đầu cần đi lại bằng xe máy",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-024",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Vừa tiêm vắc xin xong thấy mệt hoặc choáng: ở lại theo dõi tại điểm tiêm, nhờ người chở thay vì tự lái xe về",
+      "intent": "Biết cách sắp xếp ngày đi tiêm phòng cho người lớn: ở lại theo dõi theo hướng dẫn của điểm tiêm, nhờ người đưa đón hoặc đi chậm, và hỏi nhân viên y tế nếu thấy mệt hay choáng.",
+      "kw": "tiêm vắc xin xong có đi xe máy được không",
+      "kw2": [
+        "tiêm phòng rồi tự lái xe về",
+        "sau tiêm vắc xin bị choáng đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người lớn đi tiêm phòng bằng xe máy",
+      "location_scope": "các điểm tiêm chủng ở Hà Nội",
+      "word_target": 1300,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3L-025",
+      "child_id": "C-KY-NANG-SUC-KHOE",
+      "title": "Ngủ sai tư thế bị vẹo cổ, cứng cổ hoặc đau lưng khó xoay người: quay đầu nhìn gương và điểm mù khi chạy xe máy",
+      "intent": "Hiểu rủi ro khi cổ cứng hoặc đau lưng làm việc quay đầu quan sát điểm mù bị hạn chế, cách chỉnh gương, chạy chậm đoạn quen hoặc nhờ người chở; nếu đau kéo dài hay lan xuống tay thì hỏi bác sĩ.",
+      "kw": "vẹo cổ có nên đi xe máy",
+      "kw2": [
+        "cứng cổ không quay đầu được khi lái xe",
+        "đau lưng không xoay người được đi xe máy"
+      ],
+      "links": [
+        "/ky-nang/suc-khoe-khi-lai-xe/",
+        "/ky-nang/"
+      ],
+      "subtopic": "refill-2026-10-17-W3L",
+      "audience": "người bị đau cổ, đau lưng cấp phải đi lại bằng xe máy",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-001",
+      "child_id": "C-XE-GA",
+      "title": "Xe tay ga rung ở tay lái và yên khi nổ máy đứng yên: phân biệt rung nhẹ với rung mạnh cần báo tiệm",
+      "intent": "Biết cách phân biệt độ rung nhẹ khi xe tay ga nổ máy đứng yên chờ đèn đỏ với kiểu rung mạnh bất thường, nên kiểm tra gì bằng mắt và tay rồi báo tiệm cho thuê thế nào.",
+      "kw": "xe ga rung khi nổ không tải",
+      "kw2": [
+        "xe ga rung khi dừng đèn đỏ",
+        "tay lái xe ga rung khi đứng yên"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga thấy xe rung khi chờ đèn đỏ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-002",
+      "child_id": "C-XE-GA",
+      "title": "Đồng hồ xe tay ga mờ, đọng hơi nước sau mưa hoặc rửa xe: chờ khô hay báo tiệm, vì sao không tự gỡ mặt kính",
+      "intent": "Hiểu vì sao mặt đồng hồ xe tay ga có thể mờ hoặc đọng hơi nước sau mưa, nồm hay rửa xe, khi nào chỉ cần chờ khô và khi nào phải báo tiệm vì kim hoặc đèn báo hiển thị bất thường.",
+      "kw": "đồng hồ xe ga mờ hơi nước",
+      "kw2": [
+        "đồng hồ xe ga đọng nước",
+        "mặt đồng hồ xe máy bị mờ sau mưa"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga trong mùa mưa và mùa nồm Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-003",
+      "child_id": "C-XE-GA",
+      "title": "Rễ cây trồi làm mặt đường nhấp nhô ở phố cây lớn Hà Nội: cách đi xe tay ga qua đoạn gồ để không bị xóc mạnh",
+      "intent": "Nhận ra đoạn mặt đường nhấp nhô vì rễ cây ở những phố nhiều cây lớn như Phan Đình Phùng, Nguyễn Du, và biết cách giảm ga, giữ tay lái thẳng và nhấc người nhẹ khi đi xe tay ga qua đoạn gồ.",
+      "kw": "xe ga qua đường rễ cây trồi",
+      "kw2": [
+        "mặt đường nhấp nhô rễ cây",
+        "đi xe máy phố nhiều cây lớn Hà Nội"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga đi qua các phố nhiều cây cổ thụ ở Hà Nội",
+      "location_scope": "Hà Nội, các phố nhiều cây lớn như Phan Đình Phùng, Nguyễn Du",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-004",
+      "child_id": "C-XE-GA",
+      "title": "Đổ xăng cho xe tay ga khi chở người ngồi sau: ai xuống trước, tắt máy và cất điện thoại trước khi mở nắp xăng",
+      "intent": "Nắm thứ tự an toàn khi đổ xăng xe tay ga có người ngồi sau: người ngồi sau xuống trước, tắt máy, cất điện thoại, rồi mới mở nắp bình xăng, đổ xăng và đóng nắp lại chắc chắn.",
+      "kw": "đổ xăng xe ga khi chở người",
+      "kw2": [
+        "người ngồi sau xuống xe khi đổ xăng",
+        "tắt máy khi đổ xăng xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga đi hai người ghé cây xăng ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-005",
+      "child_id": "C-XE-GA",
+      "title": "Lên xe tay ga khi đeo balo lớn hoặc ôm túi đồ: bước qua sàn để chân hay vắt chân qua yên, giữ xe không nghiêng",
+      "intent": "Biết khi nào nên bước qua sàn để chân thay vì vắt chân qua yên khi lên xe tay ga lúc đeo balo lớn hoặc ôm túi đồ, cách giữ xe không nghiêng và tránh vướng người ngồi sau trong lúc lên xuống.",
+      "kw": "cách lên xe ga bước qua sàn",
+      "kw2": [
+        "lên xe ga khi đeo balo",
+        "lên xe ga khi ôm đồ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "khách du lịch đeo balo và người mang đồ lên xe tay ga",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-006",
+      "child_id": "C-XE-GA",
+      "title": "Dựng xe tay ga bằng chân chống nghiêng khi đỗ ngắn: gạt chân chống bằng mũi giày, nghiêng xe rồi xuống xe",
+      "intent": "Học thao tác dựng xe tay ga bằng chân chống nghiêng khi đỗ ngắn: gạt chân chống xuống bằng mũi giày, nghiêng xe sang trái, thử độ vững rồi mới xuống xe từ bên trái, kèm cách nhớ gạt lên trước khi chạy.",
+      "kw": "dựng xe ga bằng chân chống nghiêng",
+      "kw2": [
+        "cách chống xe ga chân chống bên",
+        "hạ chân chống nghiêng xe tay ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người mới lái xe tay ga cần dựng xe nhanh khi ghé mua đồ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-007",
+      "child_id": "C-XE-GA",
+      "title": "Đỗ xe tay ga dưới dàn điều hòa hoặc ban công nhỏ nước: yên ướt, ổ khóa và chìa dính nước, nên chọn chỗ khác",
+      "intent": "Hiểu vì sao không nên đỗ xe tay ga dưới dàn điều hòa nhỏ nước hay ban công nhà dân ở phố Hà Nội: yên ướt, nước vào ổ khóa và chìa, cách chọn chỗ đỗ khác và lau xe trước khi đi.",
+      "kw": "đỗ xe dưới máy lạnh nhỏ nước",
+      "kw2": [
+        "nước điều hòa nhỏ lên xe máy",
+        "đỗ xe dưới ban công nhà dân"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga đỗ trước cửa nhà dân, quán xá trong phố Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-008",
+      "child_id": "C-XE-GA",
+      "title": "Lấy thẻ gửi xe ở barie hầm khi ngồi trên xe tay ga: dừng đúng chỗ, chân chạm đất vững, không để xe chồm",
+      "intent": "Biết cách dừng xe tay ga trước barie hầm gửi xe để lấy thẻ hoặc vé: dừng đúng khoảng cách, đặt chân vững, giữ phanh bằng tay còn lại và không để xe nhích hay chồm khi đưa tay ra lấy thẻ.",
+      "kw": "lấy thẻ gửi xe ở barie hầm",
+      "kw2": [
+        "dừng trước barie hầm gửi xe",
+        "lấy vé gửi xe một tay"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga gửi xe ở hầm chung cư và trung tâm thương mại",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-009",
+      "child_id": "C-XE-GA",
+      "title": "Nhấc yên xe tay ga nặng tay để lấy áo mưa, mũ: người nhỏ con giữ yên bằng tay nào để yên không sập vào tay",
+      "intent": "Biết cách nhấc yên xe tay ga khi yên nặng tay hoặc đỗ nghiêng: người nhỏ con đứng bên nào, giữ yên bằng tay nào, lấy đồ nhanh gọn và đóng yên cho chắc mà không bị yên sập vào tay.",
+      "kw": "mở yên xe ga nặng tay",
+      "kw2": [
+        "yên xe ga sập vào tay",
+        "nhấc yên xe ga để lấy đồ"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người nhỏ con và phụ nữ thuê xe tay ga hay mở yên lấy đồ",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-010",
+      "child_id": "C-XE-GA",
+      "title": "Chùm chìa nhiều móc khóa khi lái xe tay ga: vướng đầu gối, nặng cổ khóa, dễ rơi khi dừng và cách gọn chùm chìa",
+      "intent": "Hiểu vì sao chùm chìa gắn nhiều móc khóa nặng làm vướng đầu gối, đè lên cổ khóa và dễ rơi khi dừng xe tay ga, và cách tách chìa xe thuê khỏi chùm chìa nhà trước khi lên xe.",
+      "kw": "chùm chìa nhiều móc khóa xe ga",
+      "kw2": [
+        "móc khóa nặng cắm ổ khóa xe máy",
+        "gọn chìa khóa khi thuê xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga quen mang chùm chìa nhiều móc",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-011",
+      "child_id": "C-XE-GA",
+      "title": "Ngồi dịch sát lên trước để nhường chỗ cho người ngồi sau xe tay ga: tay lái chật, khuỷu tay và cách bóp phanh",
+      "intent": "Hiểu rủi ro khi người lái phải ngồi dịch sát lên trước để nhường chỗ cho người ngồi sau trên xe tay ga: khuỷu tay, tay lái bị chật, cách bóp phanh và khi nào nên đổi xe hoặc chia hai xe.",
+      "kw": "ngồi dịch lên khi chở người sau",
+      "kw2": [
+        "xe ga chở hai người bị chật",
+        "tư thế lái xe ga khi chở người"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người lái và người ngồi sau thuê chung một xe tay ga",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-012",
+      "child_id": "C-XE-GA",
+      "title": "Quay clip tiếng lạ của xe tay ga để gửi tiệm: dựng chân chống giữa, nổ không tải, quay sát chỗ nghi ngờ",
+      "intent": "Biết cách quay clip ngắn tiếng lạ hoặc độ rung của xe tay ga một cách an toàn để gửi tiệm: dựng chân chống giữa, nổ không tải, quay gần chỗ nghi ngờ và ghi chú lúc nào tiếng xuất hiện.",
+      "kw": "quay clip tiếng lạ xe ga",
+      "kw2": [
+        "ghi lại tiếng kêu xe ga",
+        "gửi video xe ga bị rung cho tiệm"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga nghe tiếng lạ và muốn mô tả cho tiệm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-013",
+      "child_id": "C-XE-GA",
+      "title": "Gửi vị trí cho tiệm khi xe tay ga chết máy ở ngõ nhỏ hoặc trên cầu: ghim bản đồ, tên phố, mốc gần và biển số",
+      "intent": "Biết cách báo vị trí chính xác cho tiệm khi xe tay ga chết máy ở ngõ nhỏ, dưới hầm hoặc trên cầu: ghim bản đồ, đọc tên phố và mốc gần, gửi biển số và nói rõ xe đang đỗ chỗ nào.",
+      "kw": "gửi vị trí xe ga chết máy",
+      "kw2": [
+        "báo vị trí khi xe hỏng giữa đường",
+        "ghim bản đồ gọi tiệm thuê xe"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga gặp sự cố ở nơi khó chỉ đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-014",
+      "child_id": "C-XE-GA",
+      "title": "Dắt bộ xe tay ga lên dốc hầm, cầu vượt khi hết xăng hoặc chết máy: đẩy từ đâu, bóp phanh để xe không tụt lùi",
+      "intent": "Biết cách dắt bộ xe tay ga lên dốc hầm hoặc dốc cầu vượt khi hết xăng hay chết máy: đứng bên nào, đẩy từ đâu, bóp phanh để xe không tụt lùi và khi nào nên nhờ người đẩy hộ.",
+      "kw": "dắt xe ga lên dốc chết máy",
+      "kw2": [
+        "đẩy xe ga lên dốc hầm",
+        "dắt xe ga lên dốc không tụt lùi"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga phải đẩy xe lên dốc khi xe hết xăng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-015",
+      "child_id": "C-XE-GA",
+      "title": "Tóc dài xõa dưới mũ bảo hiểm khi lái xe tay ga: quất vào mắt, vướng quai mũ và cách buộc gọn trước khi chạy",
+      "intent": "Biết vì sao tóc dài xõa dưới mũ bảo hiểm dễ quất vào mắt, vướng quai mũ và che gương khi lái xe tay ga, cách buộc hoặc búi tóc gọn để vẫn đội mũ vừa và cài quai chắc trước khi chạy.",
+      "kw": "tóc dài khi lái xe ga",
+      "kw2": [
+        "buộc tóc đội mũ bảo hiểm",
+        "tóc quất vào mắt khi đi xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "nữ khách du lịch và người đi làm thuê xe tay ga ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-016",
+      "child_id": "C-XE-GA",
+      "title": "Mái hiên thấp, biển hiệu thò ra ở ngõ phố cổ: người ngồi sau xe tay ga đội mũ dễ va đầu, cách báo trước",
+      "intent": "Nhận ra mái hiên thấp, biển hiệu thò ra và cổng thấp ở ngõ, phố cổ Hà Nội có thể va vào đầu người ngồi sau đội mũ bảo hiểm trên xe tay ga, cách nói trước, giảm ga và đi chậm qua đoạn thấp.",
+      "kw": "ngồi sau xe ga va mái hiên",
+      "kw2": [
+        "biển hiệu thấp trong ngõ phố cổ",
+        "cúi đầu khi qua cổng thấp xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người đi hai người trên xe tay ga qua ngõ và phố cổ Hà Nội",
+      "location_scope": "Hà Nội, ngõ nhỏ và phố cổ",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-017",
+      "child_id": "C-XE-GA",
+      "title": "Đồng hồ tốc độ xe tay ga khác ứng dụng bản đồ trên điện thoại: vì sao lệch và nên dựa vào đâu khi đi phố",
+      "intent": "Hiểu vì sao tốc độ trên đồng hồ xe tay ga có thể khác tốc độ ứng dụng bản đồ trên điện thoại hiển thị, nên dựa vào đâu khi đi phố đông và vì sao không nên nhìn xuống đồng hồ quá lâu.",
+      "kw": "đồng hồ xe ga lệch bản đồ",
+      "kw2": [
+        "tốc độ đồng hồ xe máy và Google Maps",
+        "xem tốc độ khi đi xe ga"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga hay dùng ứng dụng bản đồ để dẫn đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-018",
+      "child_id": "C-XE-GA",
+      "title": "Xịt dưỡng bóng nhựa lên yên, tay lái, sàn để chân xe tay ga: vì sao trơn trượt và nên lau ẩm trước khi trả",
+      "intent": "Hiểu vì sao chai xịt dưỡng bóng nhựa làm yên, tay lái và sàn để chân xe tay ga trơn khi lên xe hay đặt chân, nên chỉ lau ẩm, để khô thế nào trước khi trả xe thuê và tránh làm bóng thêm.",
+      "kw": "xịt bóng làm yên xe ga trơn",
+      "kw2": [
+        "xịt bóng sàn để chân xe ga",
+        "lau xe tay ga trước khi trả"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga muốn lau xe sạch trước khi trả",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-019",
+      "child_id": "C-XE-GA",
+      "title": "Mèo chui trú trong gầm, yếm hoặc dưới yên xe tay ga những đêm rét: nhìn, gõ nhẹ và gọi tiếng trước khi nổ máy",
+      "intent": "Biết cách kiểm tra gầm xe, yếm và khe yên xe tay ga xem có mèo trú rét trước khi nổ máy buổi sáng ở ngõ Hà Nội: nhìn quanh, gõ nhẹ lên yên, gọi tiếng rồi mới bật khóa.",
+      "kw": "mèo trú dưới yên xe ga",
+      "kw2": [
+        "mèo chui vào gầm xe máy",
+        "gõ yên xe trước khi nổ máy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga đỗ trong ngõ, sân nhà những ngày rét",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3K-020",
+      "child_id": "C-XE-GA",
+      "title": "Tờ rơi nhét vào yên, gương hoặc giấy quảng cáo dán lên xe tay ga đỗ ngoài đường: gỡ nhẹ không xước và báo tiệm",
+      "intent": "Biết cách gỡ nhẹ tờ rơi quảng cáo nhét vào yên, gương hoặc giấy dán lên xe tay ga đỗ ngoài đường mà không làm xước ốp nhựa, khi nào nên chụp ảnh và báo tiệm cho thuê.",
+      "kw": "tờ rơi dán lên xe máy",
+      "kw2": [
+        "gỡ giấy dán quảng cáo khỏi xe tay ga",
+        "quảng cáo nhét vào gương xe máy"
+      ],
+      "links": [
+        "/xe-may/xe-ga/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-17-W3K",
+      "audience": "người thuê xe tay ga hay đỗ xe ngoài vỉa hè phố",
+      "location_scope": "Hà Nội",
+      "word_target": 1200,
+      "materialized_at": "2026-10-17T13:25:08+00:00",
+      "materialized_head": "e7665e0c45dbda0f147e9fb7bd367e7a6201ce49"
     }
   ]
 }

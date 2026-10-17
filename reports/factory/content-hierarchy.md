@@ -18,7 +18,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 141 | 180 | /thue-xe/nhan-tra-xe/ |
 | P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 119 | 180 | /thue-xe/su-co/ |
 | P-XE-MAY | Xe số (C-XE-SO) | 3 | 121 | 160 | /xe-may/xe-so/ |
-| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 115 | 160 | /xe-may/xe-ga/ |
+| P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 135 | 160 | /xe-may/xe-ga/ |
 | P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 104 | 140 | /xe-may/xe-50cc/ |
 | P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 135 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 66 | 100 | /xe-may/xe-dap-dien/ |
@@ -52,7 +52,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-KY-NANG | Thời tiết & đường sá (C-KY-NANG-THOI-TIET) | 41 | 115 | 150 | /ky-nang/thoi-tiet-va-duong-sa/ |
 | P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 97 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
 | P-KY-NANG | Gửi xe & giữ xe (C-KY-NANG-GUI-XE) | 19 | 79 | 120 | /ky-nang/gui-xe-va-giu-xe/ |
-| P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 49 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
+| P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 74 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
 | P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 45 | 90 | /hoi-dap/hoi-dap-gia/ |
 | P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 55 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
 | P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 63 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 4798 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 4843 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
