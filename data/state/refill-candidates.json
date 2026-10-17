@@ -3,13 +3,261 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "MATERIALIZED",
+    "status": "STAGED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-17T17:23:21+00:00",
-    "staged_at": "2026-10-17T17:23:18+00:00"
+    "staged_at": "2026-10-17T17:28:18+00:00"
   },
-  "candidates": [],
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-001",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Nắp bình xăng xe thuê rơi mất hoặc quên đóng sau khi đổ xăng: quay lại cây xăng tìm và báo cửa hàng thế nào",
+      "intent": "Biết cách xử lý khi phát hiện nắp bình xăng xe thuê đã mất hoặc không đóng kín sau khi đổ xăng: dừng ở chỗ rộng an toàn, quay lại hỏi nhân viên cây xăng, không tự chế nắp tạm và nói rõ với cửa hàng.",
+      "kw": "mất nắp bình xăng xe máy",
+      "kw2": [
+        "quên đóng nắp bình xăng",
+        "nắp bình xăng rơi khi đang chạy"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội, các cây xăng trong nội thành và vùng ven",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-002",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Có giấy mời làm việc của công an liên quan đến xe đã thuê: xác minh người gửi và chuẩn bị gì trước khi đến",
+      "intent": "Hiểu cách đọc một giấy mời làm việc liên quan đến chiếc xe đã thuê: xác minh cơ quan gửi qua kênh chính thức, báo cho cửa hàng, mang theo giấy tờ cá nhân và giữ lại ảnh, tin nhắn của chuyến thuê.",
+      "kw": "giấy mời công an xe thuê",
+      "kw2": [
+        "giấy mời làm việc xe máy thuê",
+        "công an gọi liên quan xe đã thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người đã trả xe thuê ở Hà Nội",
+      "location_scope": "Hà Nội, công an phường nơi xảy ra vụ việc",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-003",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm nhẹ xong thấy ổn nhưng vài giờ sau mới đau cổ, vai hoặc đầu: nên đi khám và ghi lại gì để báo cửa hàng",
+      "intent": "Biết vì sao cơn đau có thể đến muộn sau một cú va chạm nhẹ khi đi xe thuê, khi nào nên đến cơ sở y tế dù ban đầu không thấy gì, và cần ghi lại giờ giấc, hiện trường để báo cửa hàng.",
+      "kw": "đau muộn sau va chạm xe máy",
+      "kw2": [
+        "va chạm nhẹ vài giờ sau mới đau",
+        "có nên đi khám sau tai nạn xe máy nhẹ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "khách thuê xe máy vừa có va chạm nhẹ",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-006",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Lỡ làm trầy hoặc móp xe thuê mà chưa báo cửa hàng: nói ngay trong ngày hay đợi đến lúc trả xe",
+      "intent": "Quyết định cách báo cửa hàng khi đã lỡ làm trầy hoặc móp xe thuê nhưng chưa nói với ai: vì sao nên nói sớm, chụp ảnh vết hư hỏng ra sao và kể lại diễn biến thế nào cho rõ ràng.",
+      "kw": "làm trầy xe thuê chưa báo",
+      "kw2": [
+        "lỡ làm xước xe thuê có nên nói không",
+        "báo hư hỏng xe thuê trước khi trả"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-007",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Giấy tờ của chuyến thuê xe bị mưa làm ướt nhòe hoặc rách: chụp lại ngay, hong khô và hỏi cửa hàng thế nào",
+      "intent": "Biết cách xử lý khi bản photo giấy tờ, phiếu nhận xe hay giấy hẹn trả xe bị mưa làm ướt nhòe hoặc rách: chụp ảnh ngay, hong khô đúng cách, báo cửa hàng và hỏi xem có cần bản thay thế không.",
+      "kw": "giấy tờ thuê xe bị ướt nhòe",
+      "kw2": [
+        "phiếu nhận xe bị rách",
+        "giấy tờ xe máy bị mưa làm ướt"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-008",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Gác chân cho người ngồi sau xe thuê bị gập hoặc gãy: có nên chở tiếp, đi một mình hay gọi cửa hàng",
+      "intent": "Biết cách xử lý khi gác chân dành cho người ngồi sau bị gập, lỏng hoặc gãy lúc đang đi: không chở thêm người khi chân chưa có chỗ đặt, chụp ảnh và báo cửa hàng để hỏi hướng đi tiếp.",
+      "kw": "gác chân sau xe thuê bị gãy",
+      "kw2": [
+        "gác chân người ngồi sau bị gập",
+        "xe thuê hỏng gác chân khi chở người"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-009",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê hỏng, bạn bè rủ chở ba để về cho nhanh: vì sao không nên và những cách về khác đáng chọn hơn",
+      "intent": "Hiểu vì sao chở thêm người vượt số quy định trên chiếc xe thuê vừa trục trặc làm tăng rủi ro, và chọn cách về khác: để xe ở chỗ trông được, gọi xe công nghệ, nhờ cửa hàng hướng dẫn.",
+      "kw": "xe hỏng chở ba có sao không",
+      "kw2": [
+        "xe máy hỏng nhờ bạn chở ba",
+        "xe thuê hỏng giữa đường về bằng cách nào"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "nhóm bạn đi xe máy thuê ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-010",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Lỡ xóa hoặc không nhớ số điện thoại cửa hàng khi xe thuê hỏng: tìm lại số ở đâu và nhờ ai gọi giúp",
+      "intent": "Biết các nơi có thể tìm lại số liên lạc của cửa hàng khi đã lỡ xóa hoặc mất danh bạ: lịch sử tin nhắn đặt xe, bản hợp đồng, trang bản đồ của cửa hàng, và nhờ khách sạn hay người quen gọi giúp.",
+      "kw": "mất số điện thoại tiệm thuê xe",
+      "kw2": [
+        "xóa nhầm số cửa hàng thuê xe",
+        "tìm lại số liên lạc tiệm thuê xe máy"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-011",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê hỏng làm mất nửa ngày đi lại: hỏi cửa hàng thế nào về thời gian đã mất và các ngày thuê còn lại",
+      "intent": "Biết cách trao đổi bình tĩnh với cửa hàng khi xe hỏng làm mất nhiều giờ trong kỳ thuê: ghi lại giờ xe dừng và giờ xử lý xong, hỏi rõ cách tính thời gian và xác nhận lại bằng tin nhắn.",
+      "kw": "xe thuê hỏng mất thời gian thuê",
+      "kw2": [
+        "xe hỏng giữa kỳ thuê tính ngày thế nào",
+        "trao đổi với cửa hàng khi xe hỏng"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-012",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Cửa hàng cử người đến lấy xe thuê hỏng giữa phố: xác nhận đúng người, chụp xe và ghi giờ bàn giao",
+      "intent": "Biết cách bàn giao chiếc xe hỏng khi cửa hàng báo sẽ cử người đến lấy tại chỗ: xác nhận qua tin nhắn hoặc cuộc gọi, chụp tình trạng xe và chìa khóa, ghi giờ và giữ lại số liên lạc người nhận.",
+      "kw": "bàn giao xe hỏng cho nhân viên",
+      "kw2": [
+        "nhân viên đến lấy xe thuê hỏng",
+        "xác nhận người nhận xe hỏng"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-013",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Thợ ven đường chỉ nhận tiền mặt mà bạn không có sẵn: hỏi chuyển khoản, tìm ATM và không đưa giấy tờ làm tin",
+      "intent": "Biết cách xử lý khi sửa xe thuê giữa đường mà không đủ tiền mặt: hỏi trước thợ có nhận chuyển khoản không, tìm ATM hoặc nhờ người quen, giữ lại biên nhận và không đưa giấy tờ tùy thân làm tin.",
+      "kw": "thiếu tiền mặt trả thợ sửa xe",
+      "kw2": [
+        "thợ vá xe không nhận chuyển khoản",
+        "trả tiền sửa xe ven đường bằng QR"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "khách du lịch và người thuê xe máy ở Hà Nội",
+      "location_scope": "Hà Nội, các tuyến vùng ven nơi tiệm sửa xe nhỏ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-014",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê chạy chưa bao xa mà vạch xăng tụt nhanh bất thường: ghi lại số km, vạch xăng và báo cửa hàng ra sao",
+      "intent": "Biết cách ghi lại số km và vạch xăng để so sánh khi thấy xe thuê hao xăng nhanh hơn bình thường, phân biệt với do tắc đường hay chở nặng, rồi báo cửa hàng bằng những thông tin cụ thể.",
+      "kw": "xe thuê hao xăng bất thường",
+      "kw2": [
+        "xe máy tụt vạch xăng nhanh",
+        "xe thuê tốn xăng bất thường báo cửa hàng"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-17-W3M-015",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Dừng nghỉ trưa rồi đề lại không nổ khi máy còn nóng: chờ máy dịu, đề nhẹ tay và khi nào nên gọi cửa hàng",
+      "intent": "Biết cách xử lý khi xe thuê vừa dừng nghỉ giữa trưa nóng mà đề lại không nổ: chờ máy dịu, không bấm đề liên tục, kiểm tra xăng bằng mắt và quyết định khi nào gọi cửa hàng.",
+      "kw": "xe máy nóng máy đề không nổ",
+      "kw2": [
+        "xe thuê nghỉ trưa không nổ máy lại",
+        "đề liên tục xe máy không nổ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-17-W3M",
+      "audience": "người thuê xe máy Hà Nội",
+      "location_scope": "Hà Nội, mùa hè nắng nóng",
+      "word_target": 1200
+    }
+  ],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
