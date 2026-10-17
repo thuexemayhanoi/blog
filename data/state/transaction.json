@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:40:06+00:00",
+  "updated_at": "2026-10-17T07:43:18+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05063",
-      "started_at": "2026-10-17T06:45:02+00:00",
-      "source": "_drafts/2026-10-15-honda-vision-di-con-son-kiep-bac-trong-ngay-quoc-lo-18-nhieu-xe-tai-chia-chang-n.md",
-      "destination": "_posts/2026-10-15-honda-vision-di-con-son-kiep-bac-trong-ngay-quoc-lo-18-nhieu-xe-tai-chia-chang-n.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:02+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05064",
-      "started_at": "2026-10-17T06:45:02+00:00",
-      "source": "_drafts/2026-10-15-khoa-co-honda-vision-bi-ket-khong-xoay-duoc-lac-nhe-tay-lai-khi-van-chia-hoac-nu.md",
-      "destination": "_posts/2026-10-15-khoa-co-honda-vision-bi-ket-khong-xoay-duoc-lac-nhe-tay-lai-khi-van-chia-hoac-nu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:02+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05065",
       "started_at": "2026-10-17T06:45:13+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "02c2aac8b52c3c770f67abf50a85048d7ec2e7ad",
       "finished_at": "2026-10-17T07:40:06+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05048",
+      "started_at": "2026-10-17T07:43:18+00:00",
+      "source": "_drafts/2026-10-17-honda-wave-thue-len-ta-xua-doc-gat-tu-bac-yen-giu-so-1-khi-leo-va-xuong-doc-bang.md",
+      "destination": "_posts/2026-10-17-honda-wave-thue-len-ta-xua-doc-gat-tu-bac-yen-giu-so-1-khi-leo-va-xuong-doc-bang.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5d7d76a46a929d27c442cdbf47a180b8bcaf4f40",
+      "finished_at": "2026-10-17T07:43:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05049",
+      "started_at": "2026-10-17T07:43:18+00:00",
+      "source": "_drafts/2026-10-17-chay-honda-wave-vao-cac-ban-o-pu-luong-duong-be-tong-mot-lan-doc-gat-va-tranh-xe.md",
+      "destination": "_posts/2026-10-17-chay-honda-wave-vao-cac-ban-o-pu-luong-duong-be-tong-mot-lan-doc-gat-va-tranh-xe.md",
+      "result": "PUBLISHED",
+      "commit_sha": "5d7d76a46a929d27c442cdbf47a180b8bcaf4f40",
+      "finished_at": "2026-10-17T07:43:18+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
