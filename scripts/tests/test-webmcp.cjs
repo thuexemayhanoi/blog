@@ -119,7 +119,9 @@ async function main() {
   assert.equal(unsupported.getFetchCount(), 0);
 
   const failed = init(rows, { failFetch: true });
-  await assert.rejects(failed.getTool().execute({ question: 'xe máy' }, {}), /Không tải/);
+  await assert.rejects(failed.getTool().execute({ question: 'xe máy' }, {
+    signal: new AbortController().signal
+  }), /Không tải/);
 
   const rejected = init(rows, { rejectRegistration: true });
   await Promise.resolve();
