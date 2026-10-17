@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T11:58:51+00:00",
+  "updated_at": "2026-10-17T11:59:36+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05112",
-      "started_at": "2026-10-17T07:47:30+00:00",
-      "source": "_drafts/2026-10-17-yamaha-sirius-di-bien-do-son-theo-quoc-lo-5-chang-hon-100-km-lan-xe-may-canh-con.md",
-      "destination": "_posts/2026-10-17-yamaha-sirius-di-bien-do-son-theo-quoc-lo-5-chang-hon-100-km-lan-xe-may-canh-con.md",
-      "result": "PUBLISHED",
-      "commit_sha": "492b3fb3af6fc2509abf57c29a69ea5c22d06877",
-      "finished_at": "2026-10-17T07:47:31+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05113",
-      "started_at": "2026-10-17T07:47:47+00:00",
-      "source": "_drafts/2026-10-17-di-yamaha-sirius-qua-cau-long-bien-xe-may-di-ben-trai-mat-cau-nhap-nho-va-giu-so.md",
-      "destination": "_posts/2026-10-17-di-yamaha-sirius-qua-cau-long-bien-xe-may-di-ben-trai-mat-cau-nhap-nho-va-giu-so.md",
-      "result": "PUBLISHED",
-      "commit_sha": "492b3fb3af6fc2509abf57c29a69ea5c22d06877",
-      "finished_at": "2026-10-17T07:47:47+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05114",
       "started_at": "2026-10-17T07:51:20+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "057e2b83fbf85db09afa7b914e73007e660088ef",
       "finished_at": "2026-10-17T11:58:51+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05136",
+      "started_at": "2026-10-17T11:59:35+00:00",
+      "source": "_drafts/2026-10-17-hoan-canh-kho-khan-chua-du-tien-nop-phat-nong-do-con-de-nghi-hoan-giam-hoac-mien.md",
+      "destination": "_posts/2026-10-17-hoan-canh-kho-khan-chua-du-tien-nop-phat-nong-do-con-de-nghi-hoan-giam-hoac-mien.md",
+      "result": "PUBLISHED",
+      "commit_sha": "dec43ee2729ccd97c33ab9693a1556b2d91c3f04",
+      "finished_at": "2026-10-17T11:59:35+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05143",
+      "started_at": "2026-10-17T11:59:36+00:00",
+      "source": "_drafts/2026-10-17-dua-chia-khoa-xe-may-cho-ban-da-uong-ruou-bia-nguoi-giao-xe-co-lien-doi-khi-ban.md",
+      "destination": "_posts/2026-10-17-dua-chia-khoa-xe-may-cho-ban-da-uong-ruou-bia-nguoi-giao-xe-co-lien-doi-khi-ban.md",
+      "result": "PUBLISHED",
+      "commit_sha": "dec43ee2729ccd97c33ab9693a1556b2d91c3f04",
+      "finished_at": "2026-10-17T11:59:36+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
