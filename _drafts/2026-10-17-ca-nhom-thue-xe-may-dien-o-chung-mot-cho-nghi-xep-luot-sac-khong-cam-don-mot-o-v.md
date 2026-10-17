@@ -7,7 +7,7 @@ description: "Nhóm thuê nhiều xe máy điện ở chung chỗ nghỉ: đọc
 categories: [Kinh nghiệm]
 lang: vi
 tags: [nhóm thuê nhiều xe máy điện, sạc nhiều xe điện cùng lúc, đi nhóm toàn xe máy điện, xe máy điện]
-permalink: /xe-may/2026/10/17/ca-nhom-thue-xe-may-dien-o-chung-mot-cho-nghi-xep-luot-sac-khong-cam-don-mot-o-va/
+permalink: /xe-may/2026/10/17/ca-nhom-thue-xe-may-dien-o-chung-mot-cho-nghi-xep-luot-sac-khong-cam-don-mot-o-v/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-05027

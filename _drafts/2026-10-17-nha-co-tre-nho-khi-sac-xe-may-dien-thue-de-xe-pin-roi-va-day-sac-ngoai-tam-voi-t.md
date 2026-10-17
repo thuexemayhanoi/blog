@@ -7,7 +7,7 @@ description: "Trẻ nhỏ và xe máy điện sạc trong nhà: chọn chỗ s�
 categories: [Kinh nghiệm]
 lang: vi
 tags: [trẻ nhỏ và xe máy điện sạc, an toàn sạc xe điện có trẻ em, trẻ nghịch xe máy điện, xe máy điện]
-permalink: /xe-may/2026/10/17/nha-co-tre-nho-khi-sac-xe-may-dien-thue-de-xe-pin-roi-va-day-sac-ngoai-tam-voi-ta/
+permalink: /xe-may/2026/10/17/nha-co-tre-nho-khi-sac-xe-may-dien-thue-de-xe-pin-roi-va-day-sac-ngoai-tam-voi-t/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-05030

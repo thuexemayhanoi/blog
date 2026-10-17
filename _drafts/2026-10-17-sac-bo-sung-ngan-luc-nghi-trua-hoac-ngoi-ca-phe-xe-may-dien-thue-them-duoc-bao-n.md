@@ -7,7 +7,7 @@ description: "Sạc bổ sung xe máy điện lúc nghỉ trưa: cách ước t�
 categories: [Kinh nghiệm]
 lang: vi
 tags: [sạc bổ sung xe máy điện, sạc xe điện giữa ngày, sạc xe điện 30 phút được bao nhiêu km, xe máy điện]
-permalink: /xe-may/2026/10/17/sac-bo-sung-ngan-luc-nghi-trua-hoac-ngoi-ca-phe-xe-may-dien-thue-them-duoc-bao-nh/
+permalink: /xe-may/2026/10/17/sac-bo-sung-ngan-luc-nghi-trua-hoac-ngoi-ca-phe-xe-may-dien-thue-them-duoc-bao-n/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-05023

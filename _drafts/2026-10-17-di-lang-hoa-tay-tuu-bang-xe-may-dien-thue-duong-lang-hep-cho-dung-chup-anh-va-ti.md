@@ -7,7 +7,7 @@ description: "Kinh nghiệm đi làng hoa Tây Tựu xe điện thuê: tính pin
 categories: [Kinh nghiệm]
 lang: vi
 tags: [đi làng hoa tây tựu xe điện, chụp ảnh làng hoa tây tựu, tây tựu bằng xe máy điện, xe máy điện]
-permalink: /xe-may/2026/10/17/di-lang-hoa-tay-tuu-bang-xe-may-dien-thue-duong-lang-hep-cho-dung-chup-anh-va-tin/
+permalink: /xe-may/2026/10/17/di-lang-hoa-tay-tuu-bang-xe-may-dien-thue-duong-lang-hep-cho-dung-chup-anh-va-ti/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-05021

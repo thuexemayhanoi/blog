@@ -7,7 +7,7 @@ description: "Trụ sạc ô tô sạc xe điện hai bánh được không: sú
 categories: [Kinh nghiệm]
 lang: vi
 tags: [trụ sạc ô tô sạc xe điện, cổng sạc xe máy điện, điểm sạc dành cho xe máy điện, xe máy điện]
-permalink: /xe-may/2026/10/17/tru-sac-o-to-dien-co-sac-duoc-xe-may-dien-thue-khong-phan-biet-cong-sac-va-loai-t/
+permalink: /xe-may/2026/10/17/tru-sac-o-to-dien-co-sac-duoc-xe-may-dien-thue-khong-phan-biet-cong-sac-va-loai/
 parent_id: P-XE-MAY
 child_id: C-XE-DIEN
 article_id: BLG-05028
