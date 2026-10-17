@@ -1,0 +1,19 @@
+---
+layout: null
+permalink: /assets/data/webmcp-index.json
+sitemap: false
+---
+{%- comment -%}
+  WebMCP read-only published-content index. No drafts, WP writes, AI APIs,
+  private state, or remote services. Generated automatically by Jekyll.
+  Keep metadata compact; load only on an actual agent tool call.
+{%- endcomment -%}
+[
+{%- for post in site.posts %}
+  {
+    "title": {{ post.title | default: '' | strip_html | jsonify }},
+    "description": {{ post.description | default: post.title | strip_html | normalize_whitespace | truncatewords: 36 | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }}
+  }{% unless forloop.last %},{% endunless %}
+{%- endfor %}
+]

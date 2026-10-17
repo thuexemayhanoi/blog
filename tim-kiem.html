@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Tìm kiếm cẩm nang xe máy"
-description: "Tìm bài hướng dẫn và chủ đề trên blog Nguyễn Tú, với tìm kiếm nhanh các bài mới và tùy chọn tìm toàn bộ trang qua Google."
+description: "Tìm bài thông minh trong cẩm nang xe máy Nguyễn Tú: tra cứu tiêu đề, mô tả tất cả bài công khai và mở liên kết nguồn."
 permalink: /tim-kiem/
 robots: noindex,follow
 sitemap: false
@@ -10,27 +10,34 @@ sitemap: false
   <div class="container">
     <div class="site-search-heading">
       <p class="site-search-eyebrow">Cẩm nang Nguyễn Tú</p>
-      <h1>Tìm kiếm bài viết</h1>
-      <p class="page-description">Tìm hướng dẫn thuê xe, kỹ năng lái xe, an toàn và gợi ý du lịch Hà Nội.</p>
+      <h1>🔎 Tìm bài thông minh</h1>
+      <p class="page-description">Nhập câu hỏi hoặc vài từ khóa. Trang sẽ tìm trong tiêu đề và mô tả <strong>toàn bộ bài viết đã xuất bản</strong>, không chỉ 300 bài gần nhất.</p>
     </div>
-    <form id="site-search-form" class="site-search-form glass-card" role="search" action="https://www.google.com/search" method="get" target="_blank" data-index-url="{{ '/assets/data/search-recent.json' | relative_url }}">
-      <label for="site-search-query">Từ khóa tìm kiếm</label>
+    <form id="site-search-form" class="site-search-form glass-card" role="search" action="https://www.google.com/search" method="get" target="_blank" data-index-url="{{ '/assets/data/webmcp-index.json' | relative_url }}">
+      <label for="site-search-query">Bạn muốn tìm hiểu điều gì?</label>
       <div class="site-search-control">
-        <input id="site-search-query" name="q" type="search" placeholder="Ví dụ: thuê xe máy theo tháng" autocomplete="off" minlength="2" maxlength="120" required>
-        <button type="submit" class="btn btn-primary">Tìm bài viết</button>
+        <input id="site-search-query" name="q" type="search" placeholder="Ví dụ: thủ tục thuê xe máy Hà Nội" autocomplete="off" minlength="2" maxlength="120" required>
+        <button type="submit" class="btn btn-primary">Tìm bài</button>
       </div>
       <input type="hidden" name="sitesearch" value="blog.thuexemaynguyentu.com">
     </form>
+    <nav class="site-search-samples" aria-label="Gợi ý tìm kiếm">
+      <span>Thử tìm:</span>
+      <a href="{{ '/tim-kiem/' | relative_url }}?q=thu%20tuc%20thue%20xe">Thủ tục thuê xe</a>
+      <a href="{{ '/tim-kiem/' | relative_url }}?q=gia%20thue%20xe%20may">Giá thuê xe máy</a>
+      <a href="{{ '/tim-kiem/' | relative_url }}?q=xe%20may%20dien">Xe máy điện</a>
+      <a href="{{ '/tim-kiem/' | relative_url }}?q=du%20lich%20Ha%20Noi">Du lịch Hà Nội</a>
+    </nav>
 
     <div class="site-search-scope">
-      <p>Tìm nhanh trong <strong>300 bài mới nhất</strong> ngay trên website. Để tìm các bài cũ hơn, dùng Google với bộ lọc domain; Google chỉ tìm được những trang đã lập chỉ mục.</p>
+      <p><strong>Tìm kiếm miễn phí, không cần AI API:</strong> lọc các bài theo từ khóa tiếng Việt (có dấu hoặc không dấu) và đưa ra liên kết gốc. Kết quả là gợi ý nguồn đọc, không phải câu trả lời do AI tự tạo. Danh sách được tải khi bạn tìm kiếm; nếu muốn tìm nội dung sâu trong từng bài, hãy dùng Google.</p>
       <a id="site-search-google" href="https://www.google.com/search?q=site%3Ablog.thuexemaynguyentu.com" target="_blank" rel="noopener noreferrer">Tìm rộng hơn bằng Google <span aria-hidden="true">↗</span></a>
     </div>
 
     <section class="site-search-output" aria-labelledby="site-search-results-title">
       <div class="site-search-results-heading">
         <h2 id="site-search-results-title">Kết quả tìm kiếm</h2>
-        <p id="site-search-status" role="status" aria-live="polite">Nhập ít nhất 2 ký tự để tìm trong các bài mới.</p>
+        <p id="site-search-status" role="status" aria-live="polite">Nhập từ khóa hoặc chọn một gợi ý bên trên để bắt đầu.</p>
       </div>
       <ul id="site-search-results" class="site-search-results" aria-label="Các bài viết phù hợp"></ul>
     </section>
@@ -57,6 +64,10 @@ sitemap: false
   .site-search-control { display: flex; flex-wrap: wrap; gap: var(--spacing-sm); }
   .site-search-control input { flex: 1 1 260px; min-width: 0; padding: var(--spacing-sm) var(--spacing-md); min-height: 46px; border: 1px solid var(--color-border-dark); border-radius: var(--radius-md); background: var(--color-surface); color: var(--color-text); }
   .site-search-control button { min-height: 46px; }
+  .site-search-samples { max-width: 900px; margin: 0 auto var(--spacing-lg); display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .site-search-samples span { font-weight: 600; color: var(--color-text-secondary); }
+  .site-search-samples a { display: inline-flex; min-height: 42px; align-items: center; padding: 6px 12px; border: 1px solid var(--color-border); border-radius: 999px; color: var(--color-text); background: var(--color-surface); text-decoration: none; }
+  .site-search-samples a:hover, .site-search-samples a:focus-visible { border-color: var(--color-primary); text-decoration: underline; }
   .site-search-scope { max-width: 900px; margin: 0 auto var(--spacing-2xl); color: var(--color-text-secondary); }
   .site-search-scope a { font-weight: var(--font-weight-semibold); }
   .site-search-output { max-width: 900px; margin: 0 auto var(--spacing-2xl); }
