@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:21:38+00:00",
+  "updated_at": "2026-10-17T07:23:35+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05042",
-      "started_at": "2026-10-17T06:13:28+00:00",
-      "source": "_drafts/2026-10-17-cua-tay-ao-len-doc-bang-honda-wave-ve-so-1-truoc-khi-vao-cua-chon-duong-cua-va-k.md",
-      "destination": "_posts/2026-10-17-cua-tay-ao-len-doc-bang-honda-wave-ve-so-1-truoc-khi-vao-cua-chon-duong-cua-va-k.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f4fdf68b5efe58ea837e342f4d39d0ce94c083d2",
-      "finished_at": "2026-10-17T06:13:28+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05043",
-      "started_at": "2026-10-17T06:13:45+00:00",
-      "source": "_drafts/2026-10-17-honda-wave-chet-may-giua-deo-vung-it-song-dat-len-cho-an-toan-hay-tha-xe-xuong-d.md",
-      "destination": "_posts/2026-10-17-honda-wave-chet-may-giua-deo-vung-it-song-dat-len-cho-an-toan-hay-tha-xe-xuong-d.md",
-      "result": "PUBLISHED",
-      "commit_sha": "f4fdf68b5efe58ea837e342f4d39d0ce94c083d2",
-      "finished_at": "2026-10-17T06:13:45+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05044",
       "started_at": "2026-10-17T06:13:45+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "ed8ab80e3567dbff4b243367c28b9c8ff9c1e7f6",
       "finished_at": "2026-10-17T07:21:38+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05085",
+      "started_at": "2026-10-17T07:23:35+00:00",
+      "source": "_drafts/2026-10-17-lan-dau-dung-num-xoay-smart-key-tren-honda-air-blade-thue-bat-nguon-khoa-co-va-m.md",
+      "destination": "_posts/2026-10-17-lan-dau-dung-num-xoay-smart-key-tren-honda-air-blade-thue-bat-nguon-khoa-co-va-m.md",
+      "result": "PUBLISHED",
+      "commit_sha": "49779dec03cf5f1a6a114af7f5b6f52fad3f0454",
+      "finished_at": "2026-10-17T07:23:35+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05086",
+      "started_at": "2026-10-17T07:23:35+00:00",
+      "source": "_drafts/2026-10-17-den-abs-tren-honda-air-blade-160-thue-sang-ngay-khi-vua-no-may-binh-thuong-hay-l.md",
+      "destination": "_posts/2026-10-17-den-abs-tren-honda-air-blade-160-thue-sang-ngay-khi-vua-no-may-binh-thuong-hay-l.md",
+      "result": "PUBLISHED",
+      "commit_sha": "49779dec03cf5f1a6a114af7f5b6f52fad3f0454",
+      "finished_at": "2026-10-17T07:23:35+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
