@@ -1,38 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:43:18+00:00",
+  "updated_at": "2026-10-17T07:47:47+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05065",
-      "started_at": "2026-10-17T06:45:13+00:00",
-      "source": "_drafts/2026-10-15-quen-tat-xi-nhan-khi-lai-honda-vision-vi-sao-den-khong-tu-tat-sau-khi-re-va-thoi.md",
-      "destination": "_posts/2026-10-15-quen-tat-xi-nhan-khi-lai-honda-vision-vi-sao-den-khong-tu-tat-sau-khi-re-va-thoi.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:13+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05066",
-      "started_at": "2026-10-17T06:45:13+00:00",
-      "source": "_drafts/2026-10-15-tay-ga-honda-vision-khong-tu-tra-ve-khi-buong-tay-tap-vao-le-tat-may-an-toan-va.md",
-      "destination": "_posts/2026-10-15-tay-ga-honda-vision-khong-tu-tra-ve-khi-buong-tay-tap-vao-le-tat-may-an-toan-va.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:13+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05067",
-      "started_at": "2026-10-17T06:45:24+00:00",
-      "source": "_drafts/2026-10-15-tay-phanh-honda-vision-bop-sau-sat-tay-lai-dau-hieu-phanh-mon-hoac-day-phanh-chu.md",
-      "destination": "_posts/2026-10-15-tay-phanh-honda-vision-bop-sau-sat-tay-lai-dau-hieu-phanh-mon-hoac-day-phanh-chu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "b60b1ad24e7c39f1fe8562beaeeacc3d8f2e6c93",
-      "finished_at": "2026-10-17T06:45:24+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05068",
       "started_at": "2026-10-17T06:45:24+00:00",
@@ -501,6 +471,36 @@
       "result": "PUBLISHED",
       "commit_sha": "5d7d76a46a929d27c442cdbf47a180b8bcaf4f40",
       "finished_at": "2026-10-17T07:43:18+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05050",
+      "started_at": "2026-10-17T07:47:30+00:00",
+      "source": "_drafts/2026-10-17-di-sa-pa-bang-honda-wave-thue-tu-ha-noi-chia-chang-toi-lao-cai-va-leo-con-doc-da.md",
+      "destination": "_posts/2026-10-17-di-sa-pa-bang-honda-wave-thue-tu-ha-noi-chia-chang-toi-lao-cai-va-leo-con-doc-da.md",
+      "result": "PUBLISHED",
+      "commit_sha": "492b3fb3af6fc2509abf57c29a69ea5c22d06877",
+      "finished_at": "2026-10-17T07:47:30+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05112",
+      "started_at": "2026-10-17T07:47:30+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-di-bien-do-son-theo-quoc-lo-5-chang-hon-100-km-lan-xe-may-canh-con.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-di-bien-do-son-theo-quoc-lo-5-chang-hon-100-km-lan-xe-may-canh-con.md",
+      "result": "PUBLISHED",
+      "commit_sha": "492b3fb3af6fc2509abf57c29a69ea5c22d06877",
+      "finished_at": "2026-10-17T07:47:31+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05113",
+      "started_at": "2026-10-17T07:47:47+00:00",
+      "source": "_drafts/2026-10-17-di-yamaha-sirius-qua-cau-long-bien-xe-may-di-ben-trai-mat-cau-nhap-nho-va-giu-so.md",
+      "destination": "_posts/2026-10-17-di-yamaha-sirius-qua-cau-long-bien-xe-may-di-ben-trai-mat-cau-nhap-nho-va-giu-so.md",
+      "result": "PUBLISHED",
+      "commit_sha": "492b3fb3af6fc2509abf57c29a69ea5c22d06877",
+      "finished_at": "2026-10-17T07:47:47+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
