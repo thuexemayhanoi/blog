@@ -49,6 +49,36 @@
       </tbody>
     </table>
   </div>
+  {%- comment -%}
+    Mobile Safari uses an independent native block/list layout.
+    We intentionally do NOT restyle tr/td as grids on phone: iOS WebKit
+    can retain native table formatting and squeeze text into tiny columns.
+    Both presentations read from exactly the same canonical pricing_rows.
+  {%- endcomment -%}
+  <ul class="rental-rate-matrix__mobile" aria-label="{{ include.title | default: include.category | escape }} trên điện thoại">
+    {% for vehicle in pricing_rows %}
+    <li class="rental-rate-matrix__mobile-card">
+      <div class="rental-rate-matrix__mobile-heading">
+        <strong>{{ vehicle.name | escape }}</strong>
+        {% if vehicle.description %}<p>{{ vehicle.description | escape }}</p>{% endif %}
+      </div>
+      <dl class="rental-rate-matrix__mobile-rates">
+        <div class="rental-rate-matrix__mobile-row">
+          <dt>Giá theo ngày</dt>
+          <dd>{% if vehicle.rates.day.min != nil %}{% include vnd-range.html min=vehicle.rates.day.min max=vehicle.rates.day.max %}{% else %}Liên hệ báo giá{% endif %}</dd>
+        </div>
+        <div class="rental-rate-matrix__mobile-row">
+          <dt>Giá theo tuần</dt>
+          <dd>{% if vehicle.rates.week.min != nil %}{% include vnd-range.html min=vehicle.rates.week.min max=vehicle.rates.week.max %}{% else %}Liên hệ báo giá{% endif %}</dd>
+        </div>
+        <div class="rental-rate-matrix__mobile-row">
+          <dt>Giá theo tháng</dt>
+          <dd>{% if vehicle.rates.month.min != nil %}{% include vnd-range.html min=vehicle.rates.month.min max=vehicle.rates.month.max %}{% else %}Liên hệ báo giá{% endif %}</dd>
+        </div>
+      </dl>
+    </li>
+    {% endfor %}
+  </ul>
   <p class="rental-rate-matrix__deposit">Tiền đặt cọc tham khảo: 2.000.000 – 5.000.000 VND tùy xe; vui lòng xác nhận trước khi thuê.</p>
 </div>
 {%- endif -%}
