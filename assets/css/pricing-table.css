@@ -236,3 +236,132 @@
     min-width: 0;
   }
 }
+
+/*
+ * PORTRAIT SAFARI FIX V2 — visible native list, not CSS-transformed <table>.
+ * Keeping a separate phone view avoids WebKit's intrinsic table sizing,
+ * which can turn titles, descriptions and prices into narrow mini-columns.
+ * Values still come from the same Jekyll pricing.yml Liquid data.
+ */
+.rental-rate-matrix__mobile {
+  display: none;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+@media (max-width: 767px) {
+  .rental-rate-matrix {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  /* Do not render the original 4-column table in a mobile layout at all. */
+  .rental-rate-matrix > .rental-rate-matrix__scroll {
+    display: none !important;
+  }
+
+  .rental-rate-matrix > .rental-rate-matrix__mobile {
+    display: block;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+  }
+
+  .rental-rate-matrix__mobile-card {
+    display: block;
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    overflow: hidden;
+    margin: 0 0 14px;
+    border: 1px solid var(--color-border-dark, #777);
+    border-radius: 10px;
+    background: var(--color-surface, #fff);
+    color: var(--color-text, #222);
+    box-shadow: none;
+  }
+
+  .rental-rate-matrix__mobile-heading {
+    display: block;
+    padding: 12px 14px;
+    border-bottom: 1px solid var(--color-border-dark, #777);
+    background: var(--color-primary-light, #e6f0ff);
+  }
+
+  .rental-rate-matrix__mobile-heading strong {
+    display: block;
+    font-size: 1rem;
+    line-height: 1.45;
+    font-weight: 700;
+    color: var(--color-text, #222);
+    overflow-wrap: break-word;
+  }
+
+  .rental-rate-matrix__mobile-heading p {
+    margin: 4px 0 0;
+    line-height: 1.5;
+    font-size: .875rem;
+    color: var(--color-text-secondary, #555);
+    overflow-wrap: break-word;
+  }
+
+  .rental-rate-matrix__mobile-rates {
+    display: block;
+    padding: 0;
+    margin: 0;
+  }
+
+  .rental-rate-matrix__mobile-row {
+    display: grid;
+    width: 100%;
+    min-width: 0;
+    grid-template-columns: minmax(100px, 38%) minmax(0, 1fr);
+    align-items: stretch;
+    border-bottom: 1px solid var(--color-border-dark, #777);
+  }
+
+  .rental-rate-matrix__mobile-row:last-child {
+    border-bottom: none;
+  }
+
+  .rental-rate-matrix__mobile-row dt,
+  .rental-rate-matrix__mobile-row dd {
+    display: block;
+    min-width: 0;
+    width: auto;
+    padding: 11px 12px;
+    margin: 0;
+    line-height: 1.5;
+    font-size: .875rem;
+    font-style: normal;
+    overflow-wrap: normal;
+    word-break: normal;
+    white-space: normal;
+  }
+
+  .rental-rate-matrix__mobile-row dt {
+    border-right: 1px solid var(--color-border-dark, #777);
+    background: var(--color-surface-dark, #f5f5f5);
+    font-weight: 600;
+  }
+
+  .rental-rate-matrix__mobile-row dd {
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+    background: var(--color-surface, #fff);
+    overflow-wrap: break-word;
+  }
+}
+
+/* Narrow iPhone SE and browser text zoom: reduce padding before shrinking text. */
+@media (max-width: 359px) {
+  .rental-rate-matrix__mobile-row {
+    grid-template-columns: minmax(92px, 37%) minmax(0, 1fr);
+  }
+  .rental-rate-matrix__mobile-row dt,
+  .rental-rate-matrix__mobile-row dd {
+    padding: 10px 9px;
+  }
+}
