@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:53:24+00:00",
+  "updated_at": "2026-10-17T07:56:26+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05073",
-      "started_at": "2026-10-17T07:04:36+00:00",
-      "source": "_drafts/2026-10-15-dung-honda-vision-tren-nen-dat-mem-bai-cat-ven-song-hay-nhua-duong-nong-ke-chan.md",
-      "destination": "_posts/2026-10-15-dung-honda-vision-tren-nen-dat-mem-bai-cat-ven-song-hay-nhua-duong-nong-ke-chan.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d60a879dae7d0389cced36731493b885fc66d353",
-      "finished_at": "2026-10-17T07:04:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05074",
-      "started_at": "2026-10-17T07:04:36+00:00",
-      "source": "_drafts/2026-10-15-don-nguoi-than-o-ben-xe-giap-bat-hoac-my-dinh-bang-honda-vision-cho-dung-don-xep.md",
-      "destination": "_posts/2026-10-15-don-nguoi-than-o-ben-xe-giap-bat-hoac-my-dinh-bang-honda-vision-cho-dung-don-xep.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d60a879dae7d0389cced36731493b885fc66d353",
-      "finished_at": "2026-10-17T07:04:36+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05075",
       "started_at": "2026-10-17T07:04:56+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "d284a707ca21533bc6e75ac906ca6d187e586f7e",
       "finished_at": "2026-10-17T07:53:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05119",
+      "started_at": "2026-10-17T07:56:26+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-di-pu-luong-chang-dai-qua-mai-chau-duong-be-tong-doc-vao-ban-va-xu.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-di-pu-luong-chang-dai-qua-mai-chau-duong-be-tong-doc-vao-ban-va-xu.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b89d76aeb014f9b1bad1a8c0d385f65bea59a918",
+      "finished_at": "2026-10-17T07:56:26+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05120",
+      "started_at": "2026-10-17T07:56:26+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-len-dinh-mau-son-duong-doc-nhieu-cua-gap-giu-so-1-khi-leo-va-ham-b.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-len-dinh-mau-son-duong-doc-nhieu-cua-gap-giu-so-1-khi-leo-va-ham-b.md",
+      "result": "PUBLISHED",
+      "commit_sha": "b89d76aeb014f9b1bad1a8c0d385f65bea59a918",
+      "finished_at": "2026-10-17T07:56:26+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
