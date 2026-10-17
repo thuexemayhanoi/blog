@@ -1,28 +1,8 @@
 {
   "active": false,
-  "updated_at": "2026-10-17T07:51:37+00:00",
+  "updated_at": "2026-10-17T07:53:24+00:00",
   "pending": null,
   "history": [
-    {
-      "article_id": "BLG-05071",
-      "started_at": "2026-10-17T07:04:16+00:00",
-      "source": "_drafts/2026-10-15-chay-giao-do-an-buoi-toi-bang-honda-vision-thue-thang-hoi-tiem-truoc-xep-tui-giu.md",
-      "destination": "_posts/2026-10-15-chay-giao-do-an-buoi-toi-bang-honda-vision-thue-thang-hoi-tiem-truoc-xep-tui-giu.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d60a879dae7d0389cced36731493b885fc66d353",
-      "finished_at": "2026-10-17T07:04:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
-    {
-      "article_id": "BLG-05072",
-      "started_at": "2026-10-17T07:04:16+00:00",
-      "source": "_drafts/2026-10-15-nu-tu-lai-honda-vision-ve-khuya-o-ha-noi-chon-duong-sang-do-xang-tu-som-va-giu-t.md",
-      "destination": "_posts/2026-10-15-nu-tu-lai-honda-vision-ve-khuya-o-ha-noi-chon-duong-sang-do-xang-tu-som-va-giu-t.md",
-      "result": "PUBLISHED",
-      "commit_sha": "d60a879dae7d0389cced36731493b885fc66d353",
-      "finished_at": "2026-10-17T07:04:16+00:00",
-      "rollback": "revert commit promote; chạy lại generate-reports.py"
-    },
     {
       "article_id": "BLG-05073",
       "started_at": "2026-10-17T07:04:36+00:00",
@@ -501,6 +481,26 @@
       "result": "PUBLISHED",
       "commit_sha": "33a7d11a1e6ca3f5beb2497f2aa3286e1d58ee4e",
       "finished_at": "2026-10-17T07:51:37+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05117",
+      "started_at": "2026-10-17T07:53:24+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-di-ho-ba-be-hai-ngay-quoc-lo-3-qua-thai-nguyen-cho-moi-cac-doan-de.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-di-ho-ba-be-hai-ngay-quoc-lo-3-qua-thai-nguyen-cho-moi-cac-doan-de.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d284a707ca21533bc6e75ac906ca6d187e586f7e",
+      "finished_at": "2026-10-17T07:53:24+00:00",
+      "rollback": "revert commit promote; chạy lại generate-reports.py"
+    },
+    {
+      "article_id": "BLG-05118",
+      "started_at": "2026-10-17T07:53:24+00:00",
+      "source": "_drafts/2026-10-17-yamaha-sirius-di-ho-dai-lai-trong-ngay-qua-me-linh-phuc-yen-chay-duong-ven-ho-va.md",
+      "destination": "_posts/2026-10-17-yamaha-sirius-di-ho-dai-lai-trong-ngay-qua-me-linh-phuc-yen-chay-duong-ven-ho-va.md",
+      "result": "PUBLISHED",
+      "commit_sha": "d284a707ca21533bc6e75ac906ca6d187e586f7e",
+      "finished_at": "2026-10-17T07:53:24+00:00",
       "rollback": "revert commit promote; chạy lại generate-reports.py"
     }
   ],
