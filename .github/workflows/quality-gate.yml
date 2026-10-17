@@ -313,6 +313,13 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: WebMCP public search pilot (read-only Node tests)
+        run: |
+          set -eu
+          node --check assets/js/webmcp-ask-site.js
+          node --check assets/js/site-search.js
+          node scripts/tests/test-webmcp.cjs
+
       - name: Run offline engine test suites
         run: |
           set -eu
