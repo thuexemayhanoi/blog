@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-18T03:34:21+00:00",
-    "staged_at": "2026-10-18T03:41:07+00:00"
+    "staged_at": "2026-10-18T13:27:43+00:00"
   },
   "candidates": [
     {
@@ -389,6 +389,101 @@
       "audience": "người thuê xe nghe bạn bè hoặc người quen mách mẹo chạy nhanh cho xe khỏe",
       "location_scope": "Hà Nội",
       "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3R-001",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Làng dệt Phùng Xá ở Mỹ Đức bằng xe máy: tìm hiểu lụa tơ sen, liên hệ trước khi ghé và mang khăn lụa về gọn",
+      "intent": "Biết cách đi xe máy từ nội thành tới làng dệt Phùng Xá bên sông Đáy, hiểu lụa tơ sen là gì, vì sao nên liên hệ trước khi ghé xưởng dệt và cách mang khăn lụa về không bị nhàu.",
+      "kw": "lụa tơ sen phùng xá",
+      "kw2": [
+        "làng dệt phùng xá mỹ đức",
+        "đi phùng xá bằng xe máy"
+      ],
+      "links": [
+        "/du-lich/ngoai-thanh/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-18-W3R",
+      "audience": "khách thích làng nghề thủ công và quà lụa, thuê xe máy đi về phía Mỹ Đức",
+      "location_scope": "Mỹ Đức, Hà Nội (làng dệt Phùng Xá bên sông Đáy)",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3R-002",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Đền thờ Nguyễn Trãi ở Nhị Khê, Thường Tín bằng xe máy: tìm đường vào làng, ứng xử nơi thờ tự và chỗ để xe",
+      "intent": "Biết cách đi xe máy tới đền thờ Nguyễn Trãi ở Nhị Khê, tìm đường vào làng, chọn chỗ để xe, hỏi người trông đền trước khi vào và giữ ứng xử đúng ở nơi thờ tự.",
+      "kw": "đền thờ nguyễn trãi nhị khê",
+      "kw2": [
+        "nhà thờ nguyễn trãi thường tín",
+        "đi nhị khê bằng xe máy"
+      ],
+      "links": [
+        "/du-lich/ngoai-thanh/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-18-W3R",
+      "audience": "khách quan tâm lịch sử và di tích, thuê xe máy đi về phía nam Hà Nội",
+      "location_scope": "Thường Tín, Hà Nội (làng Nhị Khê)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3R-003",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Chùa Linh Thông trên núi Phượng Hoàng ở Chương Mỹ bằng xe máy: đường lên chùa, chỗ để xe và cách vào chùa",
+      "intent": "Biết cách đi xe máy tới chùa Linh Thông trên núi Phượng Hoàng, tìm đường lên chùa, chọn chỗ để xe, ăn mặc và giữ ứng xử đúng khi vào chùa rồi xuống núi an toàn.",
+      "kw": "chùa linh thông chương mỹ",
+      "kw2": [
+        "chùa linh thông núi phượng hoàng",
+        "đi chùa linh thông bằng xe máy"
+      ],
+      "links": [
+        "/du-lich/ngoai-thanh/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-18-W3R",
+      "audience": "khách đi lễ chùa và thích di tích cổ trên núi, thuê xe máy đi về phía Chương Mỹ",
+      "location_scope": "Chương Mỹ, Hà Nội (chùa Linh Thông trên núi Phượng Hoàng)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3R-004",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Làng chè kho Đại Đồng ở Thạch Thất bằng xe máy: ghé làng nghề, hỏi mua trực tiếp và chở chè về gọn",
+      "intent": "Biết cách đi xe máy tới làng chè kho Đại Đồng, hiểu chè kho là món gì, hỏi mua trực tiếp ở hộ làm chè và chở chè về phố gọn gàng, không bị vỡ nát.",
+      "kw": "làng chè kho đại đồng",
+      "kw2": [
+        "chè kho đại đồng thạch thất",
+        "đi làng chè kho bằng xe máy"
+      ],
+      "links": [
+        "/du-lich/ngoai-thanh/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-18-W3R",
+      "audience": "khách thích đặc sản làng nghề và quà ăn, thuê xe máy đi về phía Thạch Thất",
+      "location_scope": "Thạch Thất, Hà Nội (làng Đại Đồng)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3R-005",
+      "child_id": "C-NGOAI-THANH",
+      "title": "Cụm di tích Hạ Mỗ ở Đan Phượng bằng xe máy: miếu Hàm Rồng, đình Vạn Xuân và chùa Hải Giác trong một buổi",
+      "intent": "Lên kế hoạch đi xe máy thăm cụm di tích Hạ Mỗ trong một buổi, sắp thứ tự ghé miếu Hàm Rồng, đình Vạn Xuân và chùa Hải Giác, tìm chỗ để xe và về phố trước khi tối.",
+      "kw": "cụm di tích hạ mỗ đan phượng",
+      "kw2": [
+        "đền văn hiến hạ mỗ",
+        "đi hạ mỗ bằng xe máy"
+      ],
+      "links": [
+        "/du-lich/ngoai-thanh/",
+        "/du-lich/"
+      ],
+      "subtopic": "refill-2026-10-18-W3R",
+      "audience": "khách thích di tích và làng cổ ven đô, thuê xe máy đi về phía tây Hà Nội",
+      "location_scope": "Đan Phượng, Hà Nội (làng Hạ Mỗ)",
+      "word_target": 1300
     }
   ],
   "rejected": [
