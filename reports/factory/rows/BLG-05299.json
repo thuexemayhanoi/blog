@@ -1,0 +1,146 @@
+{
+  "article_id": "BLG-05299",
+  "status": "WRITING",
+  "title": "Xịt dưỡng bóng nhựa lên yên, tay lái, sàn để chân xe tay ga: vì sao trơn trượt và nên lau ẩm trước khi trả",
+  "intent": "Hiểu vì sao chai xịt dưỡng bóng nhựa làm yên, tay lái và sàn để chân xe tay ga trơn khi lên xe hay đặt chân, nên chỉ lau ẩm, để khô thế nào trước khi trả xe thuê và tránh làm bóng thêm.",
+  "primary_keyword": "xịt bóng làm yên xe ga trơn",
+  "secondary_keywords": [
+    "xịt bóng sàn để chân xe ga",
+    "lau xe tay ga trước khi trả"
+  ],
+  "group": "XE",
+  "taxonomy": {
+    "parent_id": "P-XE-MAY",
+    "parent_hub": "Xe máy & dòng xe",
+    "parent_hub_url": "/xe-may/",
+    "child_id": "C-XE-GA",
+    "child_hub": "Xe tay ga",
+    "child_hub_url": "/xe-may/xe-ga/"
+  },
+  "expected_url": "/xe-may/2026/10/18/xit-duong-bong-nhua-len-yen-tay-lai-san-de-chan-xe-tay-ga-vi-sao-tron-truot-va-n/",
+  "output_path": "_posts/{date}-xit-duong-bong-nhua-len-yen-tay-lai-san-de-chan-xe-tay-ga-vi-sao-tron-truot-va-n.md",
+  "draft_path": "_drafts/2026-10-18-xit-duong-bong-nhua-len-yen-tay-lai-san-de-chan-xe-tay-ga-vi-sao-tron-truot-va-n.md",
+  "canonical_url": "/xe-may/2026/10/18/xit-duong-bong-nhua-len-yen-tay-lai-san-de-chan-xe-tay-ga-vi-sao-tron-truot-va-n/",
+  "internal_links_matrix": [
+    "/xe-may/xe-ga/",
+    "/xe-may/"
+  ],
+  "commercial_intent": "high",
+  "cannibalization_key": "xit bong lam yen xe ga tron",
+  "word_target": 1200,
+  "business_facts": {
+    "source": "data/business-facts.json",
+    "approved_pricing": {
+      "Honda Wave": {
+        "day": 150000,
+        "week": null,
+        "month": null,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Vision": {
+        "day": 200000,
+        "week": "800000 - 1000000",
+        "month": "1800000 - 2000000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Air Blade": {
+        "day": 200000,
+        "week": 800000,
+        "month": 1400000,
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Honda Click / Yamaha Mio": {
+        "day": 150000,
+        "week": "600000 - 700000",
+        "month": "1000000 - 1200000",
+        "deposit": "Xác nhận trực tiếp"
+      },
+      "Xe máy điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      },
+      "Xe đạp điện": {
+        "day": null,
+        "note": "Liên hệ Nguyễn Tú để kiểm tra giá hiện tại"
+      }
+    },
+    "verified_facts": {
+      "brand": "Nguyễn Tú",
+      "display_name": "Thuê Xe Máy Hà Nội Nguyễn Tú",
+      "address": "112 Nguyễn Văn Cừ, Bồ Đề, Long Biên, Hà Nội, Việt Nam",
+      "phone": "0942 467 674",
+      "hours": "09:00 - 21:00",
+      "main_website": "https://thuexemaynguyentu.com/",
+      "vehicle_types": [
+        "Xe số",
+        "Xe tay ga",
+        "Xe 50cc",
+        "Xe máy điện",
+        "Xe đạp điện"
+      ]
+    },
+    "forbidden_claims": [
+      "khuyến mại, giảm giá",
+      "phí giao xe cố định",
+      "số lượng khách đã phục vụ",
+      "số năm kinh nghiệm",
+      "xếp hạng, top, giải thưởng",
+      "cam kết hoàn tiền, bảo hành",
+      "hỗ trợ 24/7",
+      "đánh giá khách hàng bịa"
+    ]
+  },
+  "source_required": false,
+  "legal_risk": "none",
+  "research_class": "B",
+  "internal_link_candidates": [
+    {
+      "id": "BLG-00003",
+      "title": "Xe số, xe ga hay xe 50cc: Nên chọn loại nào?",
+      "url": "/chia%20s%E1%BA%BB/2026/09/13/xe-so-xe-ga-hay-xe-50cc-nen-chon-loai-nao/"
+    },
+    {
+      "id": "BLG-00006",
+      "title": "Áp suất lốp xe máy: kiểm tra thế nào và vì sao quan trọng hơn bạn nghĩ",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/ap-suat-lop-xe-may-kiem-tra-the-nao/"
+    },
+    {
+      "id": "BLG-00016",
+      "title": "Đèn xe và tầm nhìn khi đi xe máy ban đêm",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/den-xe-va-tam-nhin-khi-di-xe-may-ban-dem/"
+    },
+    {
+      "id": "BLG-00033",
+      "title": "Xe đạp điện và xe máy điện khác nhau thế nào: chọn theo nhu cầu thực tế",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/phan-biet-xe-dap-dien-va-xe-may-dien/"
+    },
+    {
+      "id": "BLG-00036",
+      "title": "Sạc pin xe máy điện đúng cách",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/sac-pin-xe-may-dien-dung-cach/"
+    },
+    {
+      "id": "BLG-00037",
+      "title": "Thay nhớt định kỳ cho xe máy: kỳ hạn, dấu hiệu và ai chịu khi đi xe thuê",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thay-nhot-dinh-ky-cho-xe-may/"
+    },
+    {
+      "id": "BLG-00039",
+      "title": "Thuê Honda Air Blade ở Hà Nội: dòng xe ga thể thao khác gì xe ga phổ thông",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thue-honda-air-blade-o-ha-noi/"
+    },
+    {
+      "id": "BLG-00040",
+      "title": "Thuê Honda Click và Yamaha Mio ở Hà Nội: dòng xe ga nhỏ gọn cho phố",
+      "url": "/chia%20s%E1%BA%BB/2026/09/18/thue-honda-click-va-yamaha-mio-o-ha-noi/"
+    }
+  ],
+  "qa_thresholds": {
+    "quality_min": 75,
+    "seo_min": 70,
+    "business_fact": "PASS",
+    "legal": "NOT_REQUIRED"
+  },
+  "matrix_row_sha256": "6fc4a360545be5255ab6f075b0284d55b6b77b4bc7b41626b32d9d5c4a80da60",
+  "notes": "Writer ngoài viết draft đúng draft_path, tuân theo docs/ARTICLE-RULES.md, docs/SOURCE-RESEARCH.md, docs/INTERNAL-LINKING.md, docs/QUALITY-RUBRIC.md. QA op chấm deterministic; publish chỉ qua publish-gate.py."
+}
