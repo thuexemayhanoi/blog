@@ -1,0 +1,370 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3O: chu de that, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-18",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-002",
+   "child_id": "C-THUE-NGAY",
+   "title": "Xếp lịch ngày thuê xe máy theo giờ mở cửa từng điểm: kiểm tra nguồn chính thức, nơi đóng sớm đi trước",
+   "intent": "Biết cách rà giờ mở cửa, ngày nghỉ và giờ nghỉ trưa của từng điểm đến từ nguồn chính thức rồi xếp thứ tự đi theo khung giờ, để không đứng trước cửa đóng và vẫn kịp trả xe trong giờ cửa hàng mở.",
+   "kw": "xếp lịch theo giờ mở cửa",
+   "kw2": [
+    "kiểm tra giờ mở cửa trước khi đi",
+    "điểm đóng sớm nên đi trước"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người lên lịch ghé nhiều điểm tham quan trong một ngày thuê xe và muốn tránh gặp cửa đóng",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-004",
+   "child_id": "C-THUE-NGAY",
+   "title": "Đến nơi thấy điểm định ghé đã đóng cửa hoặc quá đông: có sẵn điểm dự phòng cùng hướng đường khi thuê xe máy",
+   "intent": "Chuẩn bị trước một hai điểm thay thế nằm cùng hướng đường với điểm chính, để khi đến nơi gặp cửa đóng, quá đông hoặc không có chỗ gửi xe vẫn đổi kế hoạch gọn trong ít phút mà không mất cả buổi.",
+   "kw": "điểm dự phòng khi đi xe máy",
+   "kw2": [
+    "đến nơi thấy đóng cửa phải làm gì",
+    "chuẩn bị phương án thay thế khi đi chơi"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đi chơi một ngày chỉ có một xe thuê, không muốn mất cả buổi khi điểm chính không đi được",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-005",
+   "child_id": "C-THUE-NGAY",
+   "title": "Giữa ngày thuê xe có lời rủ ghé thêm nơi xa hơn dự định: tính lại giờ về, xăng và sức người trước khi nhận lời",
+   "intent": "Biết cách cân nhắc nhanh khi bạn đồng hành rủ đi thêm một điểm ngoài kế hoạch giữa ngày thuê xe: ước lượng giờ đi và về, mức xăng còn lại, sức người và giờ trả xe trước khi trả lời có hay không.",
+   "kw": "đi thêm điểm ngoài kế hoạch",
+   "kw2": [
+    "bạn rủ đi xa hơn dự định khi thuê xe máy",
+    "đổi kế hoạch giữa chừng khi đi xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đang đi giữa ngày thuê xe và được bạn đồng hành rủ đổi kế hoạch",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-007",
+   "child_id": "C-THUE-NGAY",
+   "title": "Lập bản đồ riêng cho ngày thuê xe máy trên điện thoại: ghim điểm dừng theo buổi, chỗ gửi xe và cây xăng",
+   "intent": "Biết cách tạo danh sách hoặc bản đồ riêng trong ứng dụng bản đồ để gom mọi điểm của một ngày đi vào một chỗ, ghim thêm chỗ gửi xe và cây xăng gần từng điểm, rồi nhìn lại toàn cảnh để bớt chạy vòng.",
+   "kw": "tạo bản đồ riêng cho chuyến đi",
+   "kw2": [
+    "ghim địa điểm trên Google Maps khi đi xe máy",
+    "lưu danh sách điểm dừng trên bản đồ"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người thích lập kế hoạch kỹ cho một ngày đi xe máy bằng điện thoại",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-008",
+   "child_id": "C-THUE-NGAY",
+   "title": "Xem trước ngõ vào và chỗ để xe bằng ảnh đường phố trên bản đồ: soát điểm đến trước khi dắt xe thuê đi",
+   "intent": "Biết cách dùng ảnh đường phố và ảnh người dùng đăng trên bản đồ để xem trước lối vào ngõ, độ rộng đường, biển hiệu và chỗ gửi xe ở điểm đến, rồi quyết định có đi, đỗ ở đâu hay đổi điểm trước khi xuất phát.",
+   "kw": "xem ảnh đường phố trên Google Maps",
+   "kw2": [
+    "xem trước ngõ nhỏ trước khi đi",
+    "kiểm tra chỗ gửi xe bằng bản đồ"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đi lần đầu đến các ngõ nhỏ hoặc điểm lạ và muốn xem trước chỗ đỗ xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-010",
+   "child_id": "C-THUE-NGAY",
+   "title": "Đi cùng người hay dừng chụp ảnh hoặc ngồi quán lâu: thỏa thuận thời gian mỗi điểm dừng trước khi nhận xe thuê",
+   "intent": "Biết cách trao đổi với bạn đồng hành về thời gian ở mỗi điểm dừng ngay trước khi nhận xe, đặt giờ rời cố định và phân vai nhắc giờ, để cả ngày không lệch lịch và không ai cảm thấy bị giục.",
+   "kw": "thỏa thuận thời gian mỗi điểm dừng",
+   "kw2": [
+    "đi cùng người chậm khi đi xe máy",
+    "chia thời gian ở mỗi điểm khi đi chơi"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đi chơi cùng bạn hoặc người thân có nhịp độ khác nhau về chụp ảnh và ngồi quán",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-011",
+   "child_id": "C-THUE-NGAY",
+   "title": "Thuê xe máy một ngày khi nhóm có người không đi được xe máy: ai ngồi sau, ai đi xe buýt hoặc gọi xe",
+   "intent": "Sắp xếp một ngày đi chung khi trong nhóm có người không đi được xe máy: ai ngồi sau xe nào, ai đi xe buýt hoặc gọi xe, nơi gặp nhau ở từng chặng và cách giữ liên lạc để không ai bị bỏ lại.",
+   "kw": "nhóm có người không đi xe máy",
+   "kw2": [
+    "một người không đi được xe máy đi chơi chung",
+    "hẹn nhau ở điểm dừng khi đi nhiều phương tiện"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "nhóm bạn đi chơi chung trong đó có người không đi được xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-012",
+   "child_id": "C-THUE-NGAY",
+   "title": "Sáng se lạnh, trưa nóng, tối lại lạnh: xếp lớp áo cho ngày thuê xe máy ở Hà Nội để thêm bớt nhanh khi dừng",
+   "intent": "Biết cách mặc nhiều lớp mỏng cho ngày nhiệt độ chênh lệch từ sáng đến tối: lớp nào mặc sẵn, lớp nào để trong cốp, và cách thêm bớt áo nhanh ở điểm dừng an toàn thay vì vừa chạy vừa chỉnh.",
+   "kw": "mặc nhiều lớp khi đi xe máy",
+   "kw2": [
+    "áo khoác mỏng cho ngày chênh lệch nhiệt độ",
+    "mặc gì đi xe máy từ sáng đến tối"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đi cả ngày vào mùa nhiệt độ sáng tối chênh lệch rõ, hay mặc thiếu hoặc thừa áo",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-013",
+   "child_id": "C-THUE-NGAY",
+   "title": "Vừa rời cửa hàng một đoạn mới nhớ quên sạc, áo mưa hay kính râm: quay lại ngay, nhờ bạn mang tới hay mua thay",
+   "intent": "Biết cách xử lý khi mới lăn bánh khỏi cửa hàng một đoạn đã nhận ra thiếu đồ cần thiết: cân nhắc quay lại trong giờ mở cửa, nhờ người mang tới hoặc mua thay, và báo cửa hàng ra sao để không mất cả buổi sáng.",
+   "kw": "quên đồ khi vừa nhận xe thuê",
+   "kw2": [
+    "quên sạc điện thoại khi đi xe máy",
+    "mới rời cửa hàng thuê xe nhớ ra thiếu đồ"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người vừa nhận xe thuê và phát hiện thiếu đồ khi còn gần cửa hàng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-014",
+   "child_id": "C-THUE-NGAY",
+   "title": "Dự tiệc mừng thọ ông bà ở nhà họ hàng hoặc nhà hàng: thuê xe máy một ngày chở quà và về đúng giờ trả xe",
+   "intent": "Lên kế hoạch một ngày thuê xe để dự lễ mừng thọ của người lớn trong họ: chọn quà gọn dễ chở, đi lại giữa các nhà, ăn mặc phù hợp lễ và tính giờ về khi tiệc kéo dài hơn dự kiến.",
+   "kw": "đi mừng thọ bằng xe máy",
+   "kw2": [
+    "thuê xe máy đi dự tiệc mừng thọ",
+    "chở quà mừng thọ bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người về dự lễ mừng thọ trong họ hàng ở Hà Nội hoặc vùng ven, cần đi lại nhiều nhà trong ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-015",
+   "child_id": "C-THUE-NGAY",
+   "title": "Chạy xe máy thuê lang thang không có điểm đến: chọn vòng đường thoáng, mốc quay về và đủ xăng cho một buổi",
+   "intent": "Biết cách tổ chức một buổi chạy xe thư giãn không có đích đến: chọn vài vòng đường quen và thoáng, đặt mốc giờ và mốc xăng để quay về, dừng nghỉ khi gặp chỗ hợp và tránh vào khu lạ lúc trời tối.",
+   "kw": "chạy xe lang thang không mục đích",
+   "kw2": [
+    "đi xe máy hóng gió ở Hà Nội",
+    "chạy xe thư giãn một buổi chiều"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người muốn chạy xe thư giãn một buổi mà không cần có điểm đến cụ thể",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-016",
+   "child_id": "C-THUE-NGAY",
+   "title": "Đi lễ hội ẩm thực cuối tuần ở Hà Nội bằng xe máy thuê: đến sớm, chỗ gửi xe và cách mang đồ ăn về",
+   "intent": "Lên kế hoạch đi lễ hội hoặc hội chợ ẩm thực ở Hà Nội bằng xe máy thuê: đến sớm để tránh đông, hỏi ban tổ chức về chỗ gửi xe, mang túi gọn và giữ đồ ăn mua về không đổ trên xe.",
+   "kw": "đi hội ẩm thực bằng xe máy",
+   "kw2": [
+    "hội chợ ẩm thực cuối tuần ở Hà Nội",
+    "mang đồ ăn mua ở hội chợ về bằng xe máy"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người thích đi ăn thử nhiều món ở lễ hội hoặc hội chợ ẩm thực cuối tuần",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-017",
+   "child_id": "C-THUE-NGAY",
+   "title": "Một ngày chụp ảnh đường phố Hà Nội bằng xe máy thuê: dừng đỗ không cản lối, canh giờ ánh sáng đẹp",
+   "intent": "Biết cách đi chụp ảnh đường phố cả ngày bằng xe máy thuê: chọn điểm dừng không cản lối, tôn trọng người đi đường khi chụp, canh giờ có ánh sáng đẹp và giữ máy ảnh an toàn trên xe.",
+   "kw": "chụp ảnh đường phố bằng xe máy",
+   "kw2": [
+    "đi chụp ảnh đường phố Hà Nội một ngày",
+    "dừng xe chụp ảnh không cản lối"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người thích chụp ảnh đường phố, muốn dùng xe thuê để đi nhiều góc phố trong một ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-018",
+   "child_id": "C-THUE-NGAY",
+   "title": "Ăn tối xong mới trả xe thuê: chọn quán gần đường về, chừa giờ lấy xe, đổ xăng trước giờ cửa hàng đóng cửa",
+   "intent": "Lên kế hoạch bữa tối trước khi trả xe thuê: chọn quán gần đường về, chừa thời gian lấy xe khỏi bãi, đổ xăng và đến cửa hàng trước giờ đóng cửa mà không phải ăn vội.",
+   "kw": "ăn tối trước khi trả xe thuê",
+   "kw2": [
+    "ăn tối rồi mới trả xe máy thuê",
+    "chừa giờ ăn tối trong ngày thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đi chơi cả ngày và muốn ăn tối đàng hoàng trước khi trả xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-019",
+   "child_id": "C-THUE-NGAY",
+   "title": "Hỏi nhân viên cửa hàng vài điều về đường trước khi lăn bánh xe thuê: đoạn hay kẹt, lối một chiều và chỗ đỗ",
+   "intent": "Biết nên hỏi nhân viên cửa hàng những gì về đường sá trước khi lăn bánh: đoạn hay kẹt, lối một chiều nên tránh và chỗ đỗ gần điểm đến, rồi ghi lại vào bản đồ điện thoại.",
+   "kw": "hỏi cửa hàng về đường đi",
+   "kw2": [
+    "hỏi tiệm thuê xe về đoạn đường hay kẹt",
+    "mẹo đường đi khi nhận xe thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người vừa nhận xe thuê và chưa quen đường sá khu vực định đi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-020",
+   "child_id": "C-THUE-NGAY",
+   "title": "Giữa ngày thuê xe bỗng mệt hoặc mất hứng lái tiếp: nghỉ chân đúng chỗ, đổi người lái hay rút ngắn lịch",
+   "intent": "Biết cách quyết định khi đang giữa ngày thuê xe mà thấy mệt hoặc mất hứng lái tiếp: nghỉ ở chỗ an toàn, đổi người lái, rút ngắn lịch và hỏi cửa hàng ra sao nếu muốn trả xe sớm.",
+   "kw": "mệt giữa ngày khi thuê xe máy",
+   "kw2": [
+    "mất hứng lái xe giữa ngày",
+    "rút ngắn lịch khi đang thuê xe một ngày"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đang giữa ngày thuê xe, thấy mệt hoặc không còn muốn đi tiếp",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-021",
+   "child_id": "C-THUE-NGAY",
+   "title": "Nhóm ba người thuê hai xe máy đi chơi một ngày: ai lái xe riêng, ai chở người và đổi chỗ cho công bằng",
+   "intent": "Sắp xếp một ngày đi chung của ba người với hai xe máy thuê: ai lái xe nào, ai lái riêng một xe, ai chở người, cách đổi chỗ giữa ngày cho công bằng và giữ liên lạc giữa hai xe.",
+   "kw": "nhóm ba người thuê hai xe máy",
+   "kw2": [
+    "ba người đi hai xe máy chia thế nào",
+    "đổi chỗ giữa hai xe khi đi chơi nhóm"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "nhóm ba người đi chơi với hai xe máy thuê",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-022",
+   "child_id": "C-THUE-NGAY",
+   "title": "Bạn đồng hành báo bận phút chót khi đã nhận xe thuê: đi lẻ, rút ngắn lịch hay hỏi cửa hàng cách xử lý",
+   "intent": "Biết cách quyết định khi đã nhận xe thuê mà bạn đồng hành báo bận hoặc hủy phút chót: đi lẻ với lịch nhẹ hơn, rủ người khác, đổi sang ngày khác hay hỏi cửa hàng về cách xử lý, và giữ an toàn khi đi lẻ.",
+   "kw": "bạn hủy hẹn khi đã thuê xe",
+   "kw2": [
+    "đi lẻ khi bạn báo bận",
+    "đổi kế hoạch sau khi đã nhận xe"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người đã nhận xe thuê nhưng bạn đồng hành báo bận hoặc hủy phút chót",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-18-W3O-023",
+   "child_id": "C-THUE-NGAY",
+   "title": "Ngày Phụ nữ Việt Nam đưa mẹ, vợ hoặc người yêu đi chơi bằng xe máy thuê: lịch nhẹ, chỗ nghỉ chân, giờ về",
+   "intent": "Lên kế hoạch một ngày thuê xe máy để dành cho người thân là phụ nữ vào dịp 20/10 hoặc 8/3: chọn lịch ngắn ít đi bộ, điểm nghỉ có chỗ ngồi, giờ về sớm hơn thường lệ và giữ chuyến đi nhẹ nhàng thay vì chạy theo nhiều điểm.",
+   "kw": "đi chơi ngày 20/10 bằng xe máy",
+   "kw2": [
+    "đưa mẹ đi chơi bằng xe máy thuê",
+    "thuê xe máy ngày 8/3 đi chơi"
+   ],
+   "links": [
+    "/thue-xe/thue-ngay/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-18-W3O",
+   "audience": "người muốn dành một ngày đưa mẹ, vợ hoặc người yêu đi chơi nhân dịp 20/10 hoặc 8/3",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
