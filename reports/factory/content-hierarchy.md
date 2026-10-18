@@ -43,9 +43,9 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-DU-LICH | Ngoại thành Hà Nội (C-NGOAI-THANH) | 1 | 99 | 110 | /du-lich/ngoai-thanh/ |
 | P-CUNG-DUONG | Cung đường nội thành (C-CD-NOI-THANH) | 1 | 86 | 100 | /cung-duong/cung-duong-noi-thanh/ |
 | P-CUNG-DUONG | Cung đường cuối tuần (C-CD-CUOI-TUAN) | 10 | 125 | 130 | /cung-duong/cung-duong-cuoi-tuan/ |
-| P-CUNG-DUONG | Mai Châu (C-CD-MAI-CHAU) | 0 | 38 | 80 | /cung-duong/mai-chau/ |
+| P-CUNG-DUONG | Mai Châu (C-CD-MAI-CHAU) | 0 | 50 | 80 | /cung-duong/mai-chau/ |
 | P-CUNG-DUONG | Mộc Châu (C-CD-MOC-CHAU) | 0 | 40 | 80 | /cung-duong/moc-chau/ |
-| P-CUNG-DUONG | Hà Giang (C-CD-HA-GIANG) | 0 | 40 | 80 | /cung-duong/ha-giang/ |
+| P-CUNG-DUONG | Hà Giang (C-CD-HA-GIANG) | 0 | 50 | 80 | /cung-duong/ha-giang/ |
 | P-CUNG-DUONG | Cung đường các tỉnh phía Bắc (C-CD-PHO-BAC) | 0 | 62 | 90 | /cung-duong/cung-duong-pho-bac/ |
 | P-KY-NANG | Kỹ năng lái cơ bản (C-KY-NANG-CO-BAN) | 35 | 135 | 180 | /ky-nang/ky-nang-lai-co-ban/ |
 | P-KY-NANG | Tình huống giao thông (C-KY-NANG-TINH-HUONG) | 97 | 100 | 180 | /ky-nang/tinh-huong-giao-thong/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 4942 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 4964 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.

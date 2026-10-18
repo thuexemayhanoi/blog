@@ -3,444 +3,13 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "STAGED",
+    "status": "MATERIALIZED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
-    "materialized_at": "2026-10-18T13:41:41+00:00",
+    "materialized_at": "2026-10-18T23:41:48+00:00",
     "staged_at": "2026-10-18T23:35:18+00:00"
   },
-  "candidates": [
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-001",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Nghĩa trang liệt sĩ Vị Xuyên bên đường vào Hà Giang: dừng xe máy viếng thăm và giữ phép tắc nơi tưởng niệm",
-      "intent": "Biết cách ghé Nghĩa trang liệt sĩ quốc gia Vị Xuyên ven đường vào Hà Giang bằng xe máy thuê, chọn chỗ dừng xe gọn, chuẩn bị hương hoa và trang phục kín đáo, giữ trật tự và ứng xử đúng nơi tưởng niệm các liệt sĩ.",
-      "kw": "nghĩa trang liệt sĩ vị xuyên",
-      "kw2": [
-        "viếng nghĩa trang vị xuyên bằng xe máy",
-        "nghĩa trang vị xuyên hà giang"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách thuê xe máy ở Hà Nội đi Hà Giang, muốn ghé viếng nơi tưởng niệm liệt sĩ trên đường lên hoặc đường về",
-      "location_scope": "Vị Xuyên, Hà Giang (nghĩa trang liệt sĩ quốc gia ven đường vào Hà Giang)",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-002",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Thạch Sơn Thần ở Quản Bạ bằng xe máy: cụm cột đá giữa ruộng, dừng xe bên đường và đi bộ không giẫm hoa màu",
-      "intent": "Biết cách tìm và ghé Thạch Sơn Thần, cụm cột đá vôi cổ nằm giữa cánh đồng gần cửa ngõ cao nguyên đá, dừng xe máy thuê gọn bên đường, đi bộ vào mà không giẫm lên hoa màu của dân và không trèo lên đá.",
-      "kw": "thạch sơn thần quản bạ",
-      "kw2": [
-        "thạch sơn thần hà giang",
-        "cột đá thạch sơn thần xe máy"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, thích điểm dừng chân nhẹ nhàng về địa chất và cảnh đồng ở Quản Bạ",
-      "location_scope": "Quản Bạ, Hà Giang (cụm đá Thạch Sơn Thần ở Quyết Tiến)",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-003",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Động Lùng Khúy ở Quản Bạ bằng xe máy: rẽ khỏi đường chính, chỗ để xe, đèn pin và giày cho đường vào hang",
-      "intent": "Biết cách đi xe máy thuê tới động Lùng Khúy từ trục đường chính qua Quản Bạ, hỏi người dân hoặc người trông điểm về đường vào và chỗ để xe, chuẩn bị đèn pin, giày chống trơn và giữ ý thức bảo vệ hang khi vào tham quan.",
-      "kw": "động lùng khúy quản bạ",
-      "kw2": [
-        "hang lùng khúy hà giang",
-        "đi động lùng khúy bằng xe máy"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, thích khám phá hang động và muốn thêm một điểm tham quan quanh Quản Bạ",
-      "location_scope": "Quản Bạ, Hà Giang (động Lùng Khúy)",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-004",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Làng dệt lanh Lùng Tám ở Quản Bạ bằng xe máy: xem người Mông dệt vải, xin phép chụp ảnh và hỏi mua trực tiếp",
-      "intent": "Biết cách ghé làng dệt lanh Lùng Tám trên đường từ Quản Bạ đi Yên Minh bằng xe máy thuê, hiểu nghề dệt vải lanh của người Mông, xin phép trước khi chụp ảnh người dệt và hỏi mua trực tiếp những món vải, khăn, túi ưng ý.",
-      "kw": "làng dệt lanh lùng tám",
-      "kw2": [
-        "lùng tám quản bạ",
-        "mua vải lanh hà giang"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách thuê xe máy ở Hà Nội đi vòng cung Hà Giang nhiều ngày, thích làng nghề thủ công và muốn mua quà thổ cẩm, vải lanh",
-      "location_scope": "Quản Bạ, Hà Giang (làng dệt lanh Lùng Tám của người Mông)",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-005",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Làng Nặm Đăm của người Dao ở Quản Bạ bằng xe máy: nhà trình tường, ghé bản yên tĩnh và ứng xử với dân làng",
-      "intent": "Biết cách ghé làng văn hóa du lịch cộng đồng Nặm Đăm của người Dao bằng xe máy thuê, tìm đường rẽ vào làng từ trục đường lên cao nguyên đá, chọn chỗ đỗ xe, hỏi trước khi vào sân nhà dân và giữ ứng xử lịch sự với bản làng.",
-      "kw": "làng nặm đăm quản bạ",
-      "kw2": [
-        "nặm đăm người dao hà giang",
-        "đi nặm đăm bằng xe máy"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn tìm hiểu văn hóa người Dao và ghé một bản làng yên tĩnh ở cửa ngõ cao nguyên đá",
-      "location_scope": "Quản Bạ, Hà Giang (làng văn hóa du lịch cộng đồng Nặm Đăm của người Dao)",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-006",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Cây nghiến cô đơn ở Cán Tỷ, Quản Bạ: hỏi đường tới cây, đỗ xe máy sát lề và chụp ảnh gần mép dốc",
-      "intent": "Biết cách tìm cây nghiến cô đơn nổi tiếng ở Cán Tỷ trên đường lên Yên Minh, hỏi lại đường khi bản đồ chưa chỉ rõ, đỗ xe máy thuê sát lề đường hẹp, nhường xe qua lại và chụp ảnh an toàn gần mép dốc.",
-      "kw": "cây nghiến cô đơn hà giang",
-      "kw2": [
-        "cây cô đơn quản bạ",
-        "cây cô đơn cán tỷ"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách thích chụp ảnh dọc vòng cung Hà Giang, thuê xe máy ở Hà Nội và muốn dừng đúng chỗ, đúng cách trên đường hẹp",
-      "location_scope": "Cán Tỷ, Quản Bạ, Hà Giang (cây nghiến cô đơn bên đường lên Yên Minh)",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-007",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Chợ lùi trên cao nguyên đá Hà Giang: phiên chợ lệch ngày theo tuần và cách hỏi để xe máy gặp đúng phiên",
-      "intent": "Hiểu chợ lùi trên cao nguyên đá Hà Giang là gì, vì sao ngày họp chợ lệch dần theo tuần, cách hỏi người dân hoặc chỗ nghỉ để biết phiên gần nhất trước khi chạy xe máy thuê tới Lũng Phìn, Sà Phìn, Phó Bảng hay Phố Cáo và cách ứng xử khi vào chợ.",
-      "kw": "chợ lùi hà giang",
-      "kw2": [
-        "chợ phiên lũng phìn",
-        "chợ lùi cao nguyên đá"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, tò mò về chợ vùng cao và muốn xếp lịch chạy cho gặp đúng phiên chợ",
-      "location_scope": "Cao nguyên đá Đồng Văn, Hà Giang (Lũng Phìn, Sà Phìn, Phó Bảng, Phố Cáo)",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-008",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Làng Pả Vi Hạ gần chân đèo Mã Pí Lèng bằng xe máy: nhà trình tường người Mông, chỗ đỗ xe và cách ghé bản",
-      "intent": "Biết cách ghé làng văn hóa du lịch cộng đồng Pả Vi Hạ của người Mông gần chân đèo Mã Pí Lèng bằng xe máy thuê, chọn chỗ đỗ xe, hỏi trước khi vào sân nhà dân và ứng xử đúng khi ngắm nhà trình tường, chụp ảnh.",
-      "kw": "làng pả vi hạ mèo vạc",
-      "kw2": [
-        "pả vi hạ xe máy",
-        "làng người mông pả vi"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn ghé hoặc nghỉ một bản người Mông yên tĩnh gần đèo Mã Pí Lèng",
-      "location_scope": "Mèo Vạc, Hà Giang (làng văn hóa du lịch cộng đồng Pả Vi Hạ của người Mông)",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-009",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Xuống bến thuyền sông Nho Quế bằng xe máy: dốc nhiều cua, hẻm Tu Sản và khi nào nên nhờ người địa phương chở",
-      "intent": "Hiểu đoạn đường xuống bến thuyền sông Nho Quế gần đèo Mã Pí Lèng dốc và nhiều cua gấp, tự cân nhắc tay lái để chạy xe máy thuê xuống hay nhờ người địa phương chở, chỗ để xe và cách lên thuyền ngắm hẻm Tu Sản an toàn.",
-      "kw": "bến thuyền sông nho quế",
-      "kw2": [
-        "đi thuyền hẻm tu sản",
-        "đường xuống sông nho quế xe máy"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn đi thuyền trên sông Nho Quế nhưng lo đoạn đường xuống bến dốc",
-      "location_scope": "Mèo Vạc, Hà Giang (bến thuyền sông Nho Quế, hẻm Tu Sản gần đèo Mã Pí Lèng)",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3T-010",
-      "child_id": "C-CD-HA-GIANG",
-      "title": "Chợ phiên Mèo Vạc bằng xe máy: xếp đêm nghỉ cho kịp phiên, chỗ để xe quanh chợ và cách chụp ảnh lịch sự",
-      "intent": "Biết cách xếp đêm nghỉ ở Mèo Vạc để kịp phiên chợ bằng xe máy thuê, hỏi lại ngày họp phiên trước khi lên đường, chọn chỗ để xe gọn quanh khu chợ đông và ứng xử lịch sự khi xem hàng, ăn quà chợ, chụp ảnh người bán.",
-      "kw": "chợ phiên mèo vạc xe máy",
-      "kw2": [
-        "chợ mèo vạc hà giang",
-        "đi chợ phiên mèo vạc"
-      ],
-      "links": [
-        "/cung-duong/ha-giang/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3T",
-      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn xem chợ vùng cao và xếp lịch nghỉ đêm ở Mèo Vạc cho kịp phiên",
-      "location_scope": "Mèo Vạc, Hà Giang (chợ phiên trung tâm Mèo Vạc)",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-001",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Bản Văn Mai Châu: đường vào giữa ruộng bậc thang, nhà sàn người Thái và cách đi bằng xe máy",
-      "intent": "Biết bản Văn nằm ở đâu so với trung tâm Mai Châu và bản Lác, đường vào bản giữa ruộng bậc thang đi xe máy ra sao, chỗ để xe, cách ứng xử khi ghé nhà sàn và khi nào nên ngủ lại một đêm thay vì chỉ ghé qua.",
-      "kw": "bản Văn Mai Châu",
-      "kw2": [
-        "bản Văn Mai Châu ở đâu",
-        "đi bản Văn bằng xe máy",
-        "bản Văn hay bản Lác"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người đã biết bản Lác hoặc Pom Coọng, muốn thêm một bản Thái khi đi Mai Châu bằng xe máy thuê",
-      "location_scope": "Bản Văn, thung lũng Mai Châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-002",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Bản Nhót ở Nà Phòn, Mai Châu bằng xe máy: ghé cùng bản Lác và Pom Coọng, chạy chậm trên đường nhỏ giữa ruộng",
-      "intent": "Biết bản Nhót ở Nà Phòn nằm ở đâu so với bản Lác và Pom Coọng, có thể ghép ba bản trong một chuyến bằng xe máy ra sao, chạy chậm trên đường nhỏ giữa ruộng, nhường người đi bộ và xe đạp, chọn chỗ để xe và nên ghé bản vào buổi nào trong ngày.",
-      "kw": "bản Nhót Mai Châu",
-      "kw2": [
-        "bản Nhót Nà Phòn",
-        "đi bản Nhót bằng xe máy",
-        "bản Nhót bản Lác Pom Coọng"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người ở Mai Châu hơn một buổi, muốn đi xe máy ra thêm bản Nhót",
-      "location_scope": "Bản Nhót, Nà Phòn, thung lũng Mai Châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-003",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Cột cờ Mai Châu gần đèo Thung Khe: dừng xe ngắm thung lũng, chọn chỗ đỗ rộng và xử lý khi mây sương dày",
-      "intent": "Biết cột cờ Mai Châu nằm ở đâu trên đường lên Mai Châu, dừng xe máy ngắm thung lũng từ trên cao thế nào cho gọn (chọn chỗ đỗ rộng, không lấn làn, không dừng sát khúc cua), ghé lúc nào để có tầm nhìn đẹp và xử lý ra sao khi mây sương dày.",
-      "kw": "cột cờ Mai Châu",
-      "kw2": [
-        "cột cờ Mai Châu ở đâu",
-        "cột cờ đèo Thung Khe",
-        "dừng xe ngắm thung lũng Mai Châu"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người đi Mai Châu bằng xe máy thuê, muốn dừng chụp ảnh ở điểm ngắm thung lũng ngay đầu đường vào",
-      "location_scope": "Cột cờ gần đèo Thung Khe (đèo Đá Trắng), đường vào thung lũng Mai Châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-004",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Hang Chiều ở Mai Châu bằng xe máy: tìm chỗ gửi xe chân núi, leo bậc đá lên hang và giữ sức sau chặng dài",
-      "intent": "Biết cách đi xe máy tới chân núi hang Chiều, tìm chỗ gửi xe, chuẩn bị giày bám, nước uống và sức khỏe trước khi leo bậc đá, chọn giờ leo tránh nắng gắt và mưa trơn, rồi xuống hang kịp trước khi trời tối để còn quay về bản.",
-      "kw": "hang Chiều Mai Châu",
-      "kw2": [
-        "leo hang Chiều Mai Châu",
-        "hang Chiều đi xe máy",
-        "gửi xe chân núi hang Chiều"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người đi Mai Châu bằng xe máy thuê, đủ sức leo bậc đá và muốn ghé hang trong lúc ở Mai Châu",
-      "location_scope": "Hang Chiều, khu trung tâm Mai Châu",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-005",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Hang Mỏ Luông ở Mai Châu bằng xe máy: tìm cửa hang ven đường, mang đèn, giày bám và không chạm nhũ đá",
-      "intent": "Biết cách ghé hang Mỏ Luông, một di tích quốc gia ở rìa thung lũng Mai Châu: tìm cửa hang ven đường, chọn chỗ gửi xe, mang đèn và giày bám vì lòng hang có thể ẩm trơn, đi chậm, không chạm nhũ đá và ghép với bản Lác, Pom Coọng trong cùng một buổi.",
-      "kw": "hang Mỏ Luông Mai Châu",
-      "kw2": [
-        "hang Mỏ Luông ở đâu",
-        "đi hang Mỏ Luông bằng xe máy",
-        "hang Mỏ Luông bản Lác"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người ở Mai Châu bằng xe máy thuê, muốn thêm một điểm trong hang giữa các bản",
-      "location_scope": "Hang Mỏ Luông, thung lũng Mai Châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-006",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Thác Gò Lào (Gò Mu) ở Mai Châu bằng xe máy: rẽ khỏi quốc lộ vào xóm, gửi xe và không xuống suối khi mưa lớn",
-      "intent": "Biết cách đi xe máy tới thác Gò Lào (còn gọi là thác Gò Mu): nhận chỗ rẽ khỏi quốc lộ vào xóm, hỏi đường người dân vì đường nhỏ, chọn chỗ gửi xe, đi bộ vào thác, không xuống suối khi mưa lớn hay nước đục và quay ra đường lớn trước khi trời tối.",
-      "kw": "thác Gò Lào Mai Châu",
-      "kw2": [
-        "thác Gò Mu Mai Châu",
-        "đi thác Gò Lào bằng xe máy",
-        "đường vào thác Gò Lào"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người đi Mai Châu bằng xe máy thuê, muốn thêm một chuyến ra thác gần thung lũng Ba Khan",
-      "location_scope": "Thác Gò Lào (Gò Mu), gần thung lũng Ba Khan",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-007",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Thung lũng Ba Khan dưới chân đèo Thung Khe bằng xe máy: đường làng ven hồ Hòa Bình và về trước khi trời tối",
-      "intent": "Biết cách ghé thung lũng Ba Khan bằng xe máy: tìm đường rẽ vào các xóm, chạy chậm qua đường làng và ruộng, chọn chỗ dừng ngắm hồ Hòa Bình, xếp giờ để quay ra đường lớn trước khi trời tối và còn kịp đường về Hà Nội đúng hạn trả xe đã thỏa thuận với tiệm.",
-      "kw": "thung lũng Ba Khan",
-      "kw2": [
-        "đi Ba Khan bằng xe máy",
-        "Ba Khan Mai Châu",
-        "hồ Ba Khan Hòa Bình"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người chạy xe máy thuê qua đèo Thung Khe, muốn rẽ xuống một thung lũng ven hồ",
-      "location_scope": "Thung lũng Ba Khan, chân đèo Thung Khe, ven hồ Hòa Bình",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-008",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Bảo tàng Không gian Văn hóa Mường bằng xe máy: rẽ ở chân dốc Cun, xem nhà sàn Mường rồi đi tiếp lên Mai Châu",
-      "intent": "Biết cách ghé Bảo tàng Không gian Văn hóa Mường trên đường lên Mai Châu: nhận chỗ rẽ ở chân dốc Cun, chạy vào đường nhánh, gửi xe, xem các nhà sàn Mường được tái hiện, hỏi trước giờ mở cửa và chia thời gian để không lỡ chặng đi tiếp.",
-      "kw": "bảo tàng văn hóa Mường Hòa Bình",
-      "kw2": [
-        "bảo tàng không gian văn hóa Mường",
-        "đi bảo tàng Mường bằng xe máy",
-        "chân dốc Cun bảo tàng Mường"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người đi Hà Nội – Mai Châu bằng xe máy, muốn dừng một điểm văn hóa trước chặng đèo",
-      "location_scope": "Bảo tàng Không gian Văn hóa Mường, chân dốc Cun, Hòa Bình",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-009",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Bản Bước ở Xăm Khòe, Mai Châu bằng xe máy: bản Thái giữa đồi cọ, ruộng bậc thang và cách chia buổi đi",
-      "intent": "Biết bản Bước ở Xăm Khòe là một bản Thái phía tây nam thung lũng Mai Châu, đường vào bản giữa đồi cọ và ruộng bậc thang, cách chia buổi để không về muộn, chỗ để xe và khi nào nên ngủ lại; nếu chuyến kéo dài hơn dự kiến thì báo và xác nhận trực tiếp với tiệm cho thuê xe.",
-      "kw": "bản Bước Xăm Khòe",
-      "kw2": [
-        "bản Bước Mai Châu",
-        "đi bản Bước bằng xe máy",
-        "bản Bước hay bản Lác"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người thuê xe máy nhiều ngày, đã ở Mai Châu và muốn thêm một bản Thái",
-      "location_scope": "Bản Bước, Xăm Khòe, phía tây nam thung lũng Mai Châu",
-      "word_target": 1300
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-010",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Làng Mai Hịch ở Mai Châu bằng xe máy: bản Thái bên suối Xia, đường làng sau mưa và chỗ để xe ở homestay",
-      "intent": "Biết cách đi xe máy vào làng Mai Hịch: bản Thái bên suối Xia, đường làng có thể trơn sau mưa, chỗ để xe ở homestay, cách hỏi dân bản trước khi chụp ảnh hay xuống suối, và báo tiệm cho thuê xe nếu kế hoạch trả xe phải đổi.",
-      "kw": "làng Mai Hịch Mai Châu",
-      "kw2": [
-        "Mai Hịch Mai Châu",
-        "đi Mai Hịch bằng xe máy",
-        "bản Hịch suối Xia"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người ở Mai Châu, muốn đi xe máy ra một bản Thái yên tĩnh phía ngoài khu trung tâm",
-      "location_scope": "Làng Mai Hịch, bên suối Xia, vùng Mai Châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-011",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Làng bích họa Hải Sơn ở Mai Châu bằng xe máy: đỗ xe đầu làng, đi bộ xem tranh tường và xin phép khi chụp ảnh",
-      "intent": "Biết cách ghé làng bích họa Hải Sơn bằng xe máy: tìm đường vào thôn, đỗ xe không chắn lối nhà dân, đi bộ dọc con đường tranh tường, xin phép khi chụp ảnh người dân và ghép với Mai Hịch hoặc Ba Khan trong cùng một buổi.",
-      "kw": "làng bích họa Hải Sơn",
-      "kw2": [
-        "bích họa Hải Sơn Mai Châu",
-        "đi làng bích họa Hải Sơn bằng xe máy",
-        "làng Hải Sơn Mai Hịch"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người thích chụp ảnh và nghệ thuật đường làng, thuê xe máy đi Mai Châu",
-      "location_scope": "Làng bích họa Hải Sơn, Mai Hịch, vùng Mai Châu",
-      "word_target": 1200
-    },
-    {
-      "candidate_id": "CAND-2026-10-18-W3S-012",
-      "child_id": "C-CD-MAI-CHAU",
-      "title": "Ngủ nhà sàn người Thái ở Mai Châu: xin phép vào gian thờ, giữ yên tĩnh buổi tối và dắt xe nhẹ khi rời bản sớm",
-      "intent": "Hiểu những quy tắc ứng xử cơ bản khi ngủ nhà sàn của người Thái ở Mai Châu: hỏi chủ nhà trước khi vào gian thờ hay chạm đồ đạc, ăn mặc lịch sự, giữ yên tĩnh buổi tối, không xả rác, và dắt xe nhẹ nhàng khi rời bản sớm để không làm phiền cả nhà.",
-      "kw": "ứng xử ở nhà sàn Mai Châu",
-      "kw2": [
-        "ngủ nhà sàn người Thái lưu ý",
-        "quy tắc khi ở nhà sàn Mai Châu",
-        "giữ yên tĩnh buổi tối ở bản"
-      ],
-      "links": [
-        "/cung-duong/mai-chau/",
-        "/cung-duong/"
-      ],
-      "subtopic": "refill-2026-10-18-W3S",
-      "audience": "người lần đầu ngủ homestay nhà sàn ở Mai Châu khi đi xe máy thuê",
-      "location_scope": "Các bản Thái ở thung lũng Mai Châu: bản Lác, Pom Coọng, bản Văn",
-      "word_target": 1300
-    }
-  ],
+  "candidates": [],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
@@ -93679,6 +93248,480 @@
       "word_target": 1300,
       "materialized_at": "2026-10-18T13:41:41+00:00",
       "materialized_head": "051d22bbda637dd4397e18add8f040e5bdc1746f"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-001",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Nghĩa trang liệt sĩ Vị Xuyên bên đường vào Hà Giang: dừng xe máy viếng thăm và giữ phép tắc nơi tưởng niệm",
+      "intent": "Biết cách ghé Nghĩa trang liệt sĩ quốc gia Vị Xuyên ven đường vào Hà Giang bằng xe máy thuê, chọn chỗ dừng xe gọn, chuẩn bị hương hoa và trang phục kín đáo, giữ trật tự và ứng xử đúng nơi tưởng niệm các liệt sĩ.",
+      "kw": "nghĩa trang liệt sĩ vị xuyên",
+      "kw2": [
+        "viếng nghĩa trang vị xuyên bằng xe máy",
+        "nghĩa trang vị xuyên hà giang"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách thuê xe máy ở Hà Nội đi Hà Giang, muốn ghé viếng nơi tưởng niệm liệt sĩ trên đường lên hoặc đường về",
+      "location_scope": "Vị Xuyên, Hà Giang (nghĩa trang liệt sĩ quốc gia ven đường vào Hà Giang)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-002",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Thạch Sơn Thần ở Quản Bạ bằng xe máy: cụm cột đá giữa ruộng, dừng xe bên đường và đi bộ không giẫm hoa màu",
+      "intent": "Biết cách tìm và ghé Thạch Sơn Thần, cụm cột đá vôi cổ nằm giữa cánh đồng gần cửa ngõ cao nguyên đá, dừng xe máy thuê gọn bên đường, đi bộ vào mà không giẫm lên hoa màu của dân và không trèo lên đá.",
+      "kw": "thạch sơn thần quản bạ",
+      "kw2": [
+        "thạch sơn thần hà giang",
+        "cột đá thạch sơn thần xe máy"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, thích điểm dừng chân nhẹ nhàng về địa chất và cảnh đồng ở Quản Bạ",
+      "location_scope": "Quản Bạ, Hà Giang (cụm đá Thạch Sơn Thần ở Quyết Tiến)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-003",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Động Lùng Khúy ở Quản Bạ bằng xe máy: rẽ khỏi đường chính, chỗ để xe, đèn pin và giày cho đường vào hang",
+      "intent": "Biết cách đi xe máy thuê tới động Lùng Khúy từ trục đường chính qua Quản Bạ, hỏi người dân hoặc người trông điểm về đường vào và chỗ để xe, chuẩn bị đèn pin, giày chống trơn và giữ ý thức bảo vệ hang khi vào tham quan.",
+      "kw": "động lùng khúy quản bạ",
+      "kw2": [
+        "hang lùng khúy hà giang",
+        "đi động lùng khúy bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, thích khám phá hang động và muốn thêm một điểm tham quan quanh Quản Bạ",
+      "location_scope": "Quản Bạ, Hà Giang (động Lùng Khúy)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-004",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Làng dệt lanh Lùng Tám ở Quản Bạ bằng xe máy: xem người Mông dệt vải, xin phép chụp ảnh và hỏi mua trực tiếp",
+      "intent": "Biết cách ghé làng dệt lanh Lùng Tám trên đường từ Quản Bạ đi Yên Minh bằng xe máy thuê, hiểu nghề dệt vải lanh của người Mông, xin phép trước khi chụp ảnh người dệt và hỏi mua trực tiếp những món vải, khăn, túi ưng ý.",
+      "kw": "làng dệt lanh lùng tám",
+      "kw2": [
+        "lùng tám quản bạ",
+        "mua vải lanh hà giang"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách thuê xe máy ở Hà Nội đi vòng cung Hà Giang nhiều ngày, thích làng nghề thủ công và muốn mua quà thổ cẩm, vải lanh",
+      "location_scope": "Quản Bạ, Hà Giang (làng dệt lanh Lùng Tám của người Mông)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-005",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Làng Nặm Đăm của người Dao ở Quản Bạ bằng xe máy: nhà trình tường, ghé bản yên tĩnh và ứng xử với dân làng",
+      "intent": "Biết cách ghé làng văn hóa du lịch cộng đồng Nặm Đăm của người Dao bằng xe máy thuê, tìm đường rẽ vào làng từ trục đường lên cao nguyên đá, chọn chỗ đỗ xe, hỏi trước khi vào sân nhà dân và giữ ứng xử lịch sự với bản làng.",
+      "kw": "làng nặm đăm quản bạ",
+      "kw2": [
+        "nặm đăm người dao hà giang",
+        "đi nặm đăm bằng xe máy"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn tìm hiểu văn hóa người Dao và ghé một bản làng yên tĩnh ở cửa ngõ cao nguyên đá",
+      "location_scope": "Quản Bạ, Hà Giang (làng văn hóa du lịch cộng đồng Nặm Đăm của người Dao)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-006",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Cây nghiến cô đơn ở Cán Tỷ, Quản Bạ: hỏi đường tới cây, đỗ xe máy sát lề và chụp ảnh gần mép dốc",
+      "intent": "Biết cách tìm cây nghiến cô đơn nổi tiếng ở Cán Tỷ trên đường lên Yên Minh, hỏi lại đường khi bản đồ chưa chỉ rõ, đỗ xe máy thuê sát lề đường hẹp, nhường xe qua lại và chụp ảnh an toàn gần mép dốc.",
+      "kw": "cây nghiến cô đơn hà giang",
+      "kw2": [
+        "cây cô đơn quản bạ",
+        "cây cô đơn cán tỷ"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách thích chụp ảnh dọc vòng cung Hà Giang, thuê xe máy ở Hà Nội và muốn dừng đúng chỗ, đúng cách trên đường hẹp",
+      "location_scope": "Cán Tỷ, Quản Bạ, Hà Giang (cây nghiến cô đơn bên đường lên Yên Minh)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-007",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Chợ lùi trên cao nguyên đá Hà Giang: phiên chợ lệch ngày theo tuần và cách hỏi để xe máy gặp đúng phiên",
+      "intent": "Hiểu chợ lùi trên cao nguyên đá Hà Giang là gì, vì sao ngày họp chợ lệch dần theo tuần, cách hỏi người dân hoặc chỗ nghỉ để biết phiên gần nhất trước khi chạy xe máy thuê tới Lũng Phìn, Sà Phìn, Phó Bảng hay Phố Cáo và cách ứng xử khi vào chợ.",
+      "kw": "chợ lùi hà giang",
+      "kw2": [
+        "chợ phiên lũng phìn",
+        "chợ lùi cao nguyên đá"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, tò mò về chợ vùng cao và muốn xếp lịch chạy cho gặp đúng phiên chợ",
+      "location_scope": "Cao nguyên đá Đồng Văn, Hà Giang (Lũng Phìn, Sà Phìn, Phó Bảng, Phố Cáo)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-008",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Làng Pả Vi Hạ gần chân đèo Mã Pí Lèng bằng xe máy: nhà trình tường người Mông, chỗ đỗ xe và cách ghé bản",
+      "intent": "Biết cách ghé làng văn hóa du lịch cộng đồng Pả Vi Hạ của người Mông gần chân đèo Mã Pí Lèng bằng xe máy thuê, chọn chỗ đỗ xe, hỏi trước khi vào sân nhà dân và ứng xử đúng khi ngắm nhà trình tường, chụp ảnh.",
+      "kw": "làng pả vi hạ mèo vạc",
+      "kw2": [
+        "pả vi hạ xe máy",
+        "làng người mông pả vi"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn ghé hoặc nghỉ một bản người Mông yên tĩnh gần đèo Mã Pí Lèng",
+      "location_scope": "Mèo Vạc, Hà Giang (làng văn hóa du lịch cộng đồng Pả Vi Hạ của người Mông)",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-009",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Xuống bến thuyền sông Nho Quế bằng xe máy: dốc nhiều cua, hẻm Tu Sản và khi nào nên nhờ người địa phương chở",
+      "intent": "Hiểu đoạn đường xuống bến thuyền sông Nho Quế gần đèo Mã Pí Lèng dốc và nhiều cua gấp, tự cân nhắc tay lái để chạy xe máy thuê xuống hay nhờ người địa phương chở, chỗ để xe và cách lên thuyền ngắm hẻm Tu Sản an toàn.",
+      "kw": "bến thuyền sông nho quế",
+      "kw2": [
+        "đi thuyền hẻm tu sản",
+        "đường xuống sông nho quế xe máy"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn đi thuyền trên sông Nho Quế nhưng lo đoạn đường xuống bến dốc",
+      "location_scope": "Mèo Vạc, Hà Giang (bến thuyền sông Nho Quế, hẻm Tu Sản gần đèo Mã Pí Lèng)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3T-010",
+      "child_id": "C-CD-HA-GIANG",
+      "title": "Chợ phiên Mèo Vạc bằng xe máy: xếp đêm nghỉ cho kịp phiên, chỗ để xe quanh chợ và cách chụp ảnh lịch sự",
+      "intent": "Biết cách xếp đêm nghỉ ở Mèo Vạc để kịp phiên chợ bằng xe máy thuê, hỏi lại ngày họp phiên trước khi lên đường, chọn chỗ để xe gọn quanh khu chợ đông và ứng xử lịch sự khi xem hàng, ăn quà chợ, chụp ảnh người bán.",
+      "kw": "chợ phiên mèo vạc xe máy",
+      "kw2": [
+        "chợ mèo vạc hà giang",
+        "đi chợ phiên mèo vạc"
+      ],
+      "links": [
+        "/cung-duong/ha-giang/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3T",
+      "audience": "khách đi vòng cung Hà Giang bằng xe máy thuê, muốn xem chợ vùng cao và xếp lịch nghỉ đêm ở Mèo Vạc cho kịp phiên",
+      "location_scope": "Mèo Vạc, Hà Giang (chợ phiên trung tâm Mèo Vạc)",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-001",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Bản Văn Mai Châu: đường vào giữa ruộng bậc thang, nhà sàn người Thái và cách đi bằng xe máy",
+      "intent": "Biết bản Văn nằm ở đâu so với trung tâm Mai Châu và bản Lác, đường vào bản giữa ruộng bậc thang đi xe máy ra sao, chỗ để xe, cách ứng xử khi ghé nhà sàn và khi nào nên ngủ lại một đêm thay vì chỉ ghé qua.",
+      "kw": "bản Văn Mai Châu",
+      "kw2": [
+        "bản Văn Mai Châu ở đâu",
+        "đi bản Văn bằng xe máy",
+        "bản Văn hay bản Lác"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người đã biết bản Lác hoặc Pom Coọng, muốn thêm một bản Thái khi đi Mai Châu bằng xe máy thuê",
+      "location_scope": "Bản Văn, thung lũng Mai Châu",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-002",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Bản Nhót ở Nà Phòn, Mai Châu bằng xe máy: ghé cùng bản Lác và Pom Coọng, chạy chậm trên đường nhỏ giữa ruộng",
+      "intent": "Biết bản Nhót ở Nà Phòn nằm ở đâu so với bản Lác và Pom Coọng, có thể ghép ba bản trong một chuyến bằng xe máy ra sao, chạy chậm trên đường nhỏ giữa ruộng, nhường người đi bộ và xe đạp, chọn chỗ để xe và nên ghé bản vào buổi nào trong ngày.",
+      "kw": "bản Nhót Mai Châu",
+      "kw2": [
+        "bản Nhót Nà Phòn",
+        "đi bản Nhót bằng xe máy",
+        "bản Nhót bản Lác Pom Coọng"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người ở Mai Châu hơn một buổi, muốn đi xe máy ra thêm bản Nhót",
+      "location_scope": "Bản Nhót, Nà Phòn, thung lũng Mai Châu",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-003",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Cột cờ Mai Châu gần đèo Thung Khe: dừng xe ngắm thung lũng, chọn chỗ đỗ rộng và xử lý khi mây sương dày",
+      "intent": "Biết cột cờ Mai Châu nằm ở đâu trên đường lên Mai Châu, dừng xe máy ngắm thung lũng từ trên cao thế nào cho gọn (chọn chỗ đỗ rộng, không lấn làn, không dừng sát khúc cua), ghé lúc nào để có tầm nhìn đẹp và xử lý ra sao khi mây sương dày.",
+      "kw": "cột cờ Mai Châu",
+      "kw2": [
+        "cột cờ Mai Châu ở đâu",
+        "cột cờ đèo Thung Khe",
+        "dừng xe ngắm thung lũng Mai Châu"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người đi Mai Châu bằng xe máy thuê, muốn dừng chụp ảnh ở điểm ngắm thung lũng ngay đầu đường vào",
+      "location_scope": "Cột cờ gần đèo Thung Khe (đèo Đá Trắng), đường vào thung lũng Mai Châu",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-004",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Hang Chiều ở Mai Châu bằng xe máy: tìm chỗ gửi xe chân núi, leo bậc đá lên hang và giữ sức sau chặng dài",
+      "intent": "Biết cách đi xe máy tới chân núi hang Chiều, tìm chỗ gửi xe, chuẩn bị giày bám, nước uống và sức khỏe trước khi leo bậc đá, chọn giờ leo tránh nắng gắt và mưa trơn, rồi xuống hang kịp trước khi trời tối để còn quay về bản.",
+      "kw": "hang Chiều Mai Châu",
+      "kw2": [
+        "leo hang Chiều Mai Châu",
+        "hang Chiều đi xe máy",
+        "gửi xe chân núi hang Chiều"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người đi Mai Châu bằng xe máy thuê, đủ sức leo bậc đá và muốn ghé hang trong lúc ở Mai Châu",
+      "location_scope": "Hang Chiều, khu trung tâm Mai Châu",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-005",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Hang Mỏ Luông ở Mai Châu bằng xe máy: tìm cửa hang ven đường, mang đèn, giày bám và không chạm nhũ đá",
+      "intent": "Biết cách ghé hang Mỏ Luông, một di tích quốc gia ở rìa thung lũng Mai Châu: tìm cửa hang ven đường, chọn chỗ gửi xe, mang đèn và giày bám vì lòng hang có thể ẩm trơn, đi chậm, không chạm nhũ đá và ghép với bản Lác, Pom Coọng trong cùng một buổi.",
+      "kw": "hang Mỏ Luông Mai Châu",
+      "kw2": [
+        "hang Mỏ Luông ở đâu",
+        "đi hang Mỏ Luông bằng xe máy",
+        "hang Mỏ Luông bản Lác"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người ở Mai Châu bằng xe máy thuê, muốn thêm một điểm trong hang giữa các bản",
+      "location_scope": "Hang Mỏ Luông, thung lũng Mai Châu",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-006",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Thác Gò Lào (Gò Mu) ở Mai Châu bằng xe máy: rẽ khỏi quốc lộ vào xóm, gửi xe và không xuống suối khi mưa lớn",
+      "intent": "Biết cách đi xe máy tới thác Gò Lào (còn gọi là thác Gò Mu): nhận chỗ rẽ khỏi quốc lộ vào xóm, hỏi đường người dân vì đường nhỏ, chọn chỗ gửi xe, đi bộ vào thác, không xuống suối khi mưa lớn hay nước đục và quay ra đường lớn trước khi trời tối.",
+      "kw": "thác Gò Lào Mai Châu",
+      "kw2": [
+        "thác Gò Mu Mai Châu",
+        "đi thác Gò Lào bằng xe máy",
+        "đường vào thác Gò Lào"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người đi Mai Châu bằng xe máy thuê, muốn thêm một chuyến ra thác gần thung lũng Ba Khan",
+      "location_scope": "Thác Gò Lào (Gò Mu), gần thung lũng Ba Khan",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-007",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Thung lũng Ba Khan dưới chân đèo Thung Khe bằng xe máy: đường làng ven hồ Hòa Bình và về trước khi trời tối",
+      "intent": "Biết cách ghé thung lũng Ba Khan bằng xe máy: tìm đường rẽ vào các xóm, chạy chậm qua đường làng và ruộng, chọn chỗ dừng ngắm hồ Hòa Bình, xếp giờ để quay ra đường lớn trước khi trời tối và còn kịp đường về Hà Nội đúng hạn trả xe đã thỏa thuận với tiệm.",
+      "kw": "thung lũng Ba Khan",
+      "kw2": [
+        "đi Ba Khan bằng xe máy",
+        "Ba Khan Mai Châu",
+        "hồ Ba Khan Hòa Bình"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người chạy xe máy thuê qua đèo Thung Khe, muốn rẽ xuống một thung lũng ven hồ",
+      "location_scope": "Thung lũng Ba Khan, chân đèo Thung Khe, ven hồ Hòa Bình",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-008",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Bảo tàng Không gian Văn hóa Mường bằng xe máy: rẽ ở chân dốc Cun, xem nhà sàn Mường rồi đi tiếp lên Mai Châu",
+      "intent": "Biết cách ghé Bảo tàng Không gian Văn hóa Mường trên đường lên Mai Châu: nhận chỗ rẽ ở chân dốc Cun, chạy vào đường nhánh, gửi xe, xem các nhà sàn Mường được tái hiện, hỏi trước giờ mở cửa và chia thời gian để không lỡ chặng đi tiếp.",
+      "kw": "bảo tàng văn hóa Mường Hòa Bình",
+      "kw2": [
+        "bảo tàng không gian văn hóa Mường",
+        "đi bảo tàng Mường bằng xe máy",
+        "chân dốc Cun bảo tàng Mường"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người đi Hà Nội – Mai Châu bằng xe máy, muốn dừng một điểm văn hóa trước chặng đèo",
+      "location_scope": "Bảo tàng Không gian Văn hóa Mường, chân dốc Cun, Hòa Bình",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-009",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Bản Bước ở Xăm Khòe, Mai Châu bằng xe máy: bản Thái giữa đồi cọ, ruộng bậc thang và cách chia buổi đi",
+      "intent": "Biết bản Bước ở Xăm Khòe là một bản Thái phía tây nam thung lũng Mai Châu, đường vào bản giữa đồi cọ và ruộng bậc thang, cách chia buổi để không về muộn, chỗ để xe và khi nào nên ngủ lại; nếu chuyến kéo dài hơn dự kiến thì báo và xác nhận trực tiếp với tiệm cho thuê xe.",
+      "kw": "bản Bước Xăm Khòe",
+      "kw2": [
+        "bản Bước Mai Châu",
+        "đi bản Bước bằng xe máy",
+        "bản Bước hay bản Lác"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người thuê xe máy nhiều ngày, đã ở Mai Châu và muốn thêm một bản Thái",
+      "location_scope": "Bản Bước, Xăm Khòe, phía tây nam thung lũng Mai Châu",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-010",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Làng Mai Hịch ở Mai Châu bằng xe máy: bản Thái bên suối Xia, đường làng sau mưa và chỗ để xe ở homestay",
+      "intent": "Biết cách đi xe máy vào làng Mai Hịch: bản Thái bên suối Xia, đường làng có thể trơn sau mưa, chỗ để xe ở homestay, cách hỏi dân bản trước khi chụp ảnh hay xuống suối, và báo tiệm cho thuê xe nếu kế hoạch trả xe phải đổi.",
+      "kw": "làng Mai Hịch Mai Châu",
+      "kw2": [
+        "Mai Hịch Mai Châu",
+        "đi Mai Hịch bằng xe máy",
+        "bản Hịch suối Xia"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người ở Mai Châu, muốn đi xe máy ra một bản Thái yên tĩnh phía ngoài khu trung tâm",
+      "location_scope": "Làng Mai Hịch, bên suối Xia, vùng Mai Châu",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-011",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Làng bích họa Hải Sơn ở Mai Châu bằng xe máy: đỗ xe đầu làng, đi bộ xem tranh tường và xin phép khi chụp ảnh",
+      "intent": "Biết cách ghé làng bích họa Hải Sơn bằng xe máy: tìm đường vào thôn, đỗ xe không chắn lối nhà dân, đi bộ dọc con đường tranh tường, xin phép khi chụp ảnh người dân và ghép với Mai Hịch hoặc Ba Khan trong cùng một buổi.",
+      "kw": "làng bích họa Hải Sơn",
+      "kw2": [
+        "bích họa Hải Sơn Mai Châu",
+        "đi làng bích họa Hải Sơn bằng xe máy",
+        "làng Hải Sơn Mai Hịch"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người thích chụp ảnh và nghệ thuật đường làng, thuê xe máy đi Mai Châu",
+      "location_scope": "Làng bích họa Hải Sơn, Mai Hịch, vùng Mai Châu",
+      "word_target": 1200,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3S-012",
+      "child_id": "C-CD-MAI-CHAU",
+      "title": "Ngủ nhà sàn người Thái ở Mai Châu: xin phép vào gian thờ, giữ yên tĩnh buổi tối và dắt xe nhẹ khi rời bản sớm",
+      "intent": "Hiểu những quy tắc ứng xử cơ bản khi ngủ nhà sàn của người Thái ở Mai Châu: hỏi chủ nhà trước khi vào gian thờ hay chạm đồ đạc, ăn mặc lịch sự, giữ yên tĩnh buổi tối, không xả rác, và dắt xe nhẹ nhàng khi rời bản sớm để không làm phiền cả nhà.",
+      "kw": "ứng xử ở nhà sàn Mai Châu",
+      "kw2": [
+        "ngủ nhà sàn người Thái lưu ý",
+        "quy tắc khi ở nhà sàn Mai Châu",
+        "giữ yên tĩnh buổi tối ở bản"
+      ],
+      "links": [
+        "/cung-duong/mai-chau/",
+        "/cung-duong/"
+      ],
+      "subtopic": "refill-2026-10-18-W3S",
+      "audience": "người lần đầu ngủ homestay nhà sàn ở Mai Châu khi đi xe máy thuê",
+      "location_scope": "Các bản Thái ở thung lũng Mai Châu: bản Lác, Pom Coọng, bản Văn",
+      "word_target": 1300,
+      "materialized_at": "2026-10-18T23:41:48+00:00",
+      "materialized_head": "7edee31b2b525b4e8c03391d549d13386b465f8e"
     }
   ]
 }
