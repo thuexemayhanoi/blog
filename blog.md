@@ -17,22 +17,10 @@ Chào mừng bạn đến với blog của Thuê Xe Máy Hà Nội Nguyễn Tú.
 
 Mỗi bài viết đều được viết dựa trên trải nghiệm thực tế của dịch vụ cho thuê xe máy tại Long Biên, Hà Nội. Chúng tôi cập nhật dần các chủ đề theo câu hỏi thường gặp của khách hàng, để bạn có thông tin thiết thực trước khi đặt xe.
 
-## Bài viết mới nhất
+## Bài mới được đưa lên blog
 
 {% if current_posts.size > 0 %}
-<div class="post-grid">
-  {% for post in current_posts limit:6 %}
-  <article class="post-card glass-card">
-    {% if post.categories %}
-    <span class="post-category">{{ post.categories | first }}</span>
-    {% endif %}
-    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
-    <p class="post-date">Đăng ngày {{ post.date | date: "%d/%m/%Y" }}</p>
-    <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
-    <a href="{{ post.url | relative_url }}" class="read-more">Đọc tiếp</a>
-  </article>
-  {% endfor %}
-</div>
+{% include recent-post-cards.html limit=6 %}
 {% else %}
 <p>Chưa có bài viết nào. Hãy quay lại sau!</p>
 {% endif %}

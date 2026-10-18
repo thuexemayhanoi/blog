@@ -69,6 +69,11 @@ on:
     # publisher bằng file này (không phải .md, selector bỏ qua) — không phụ
     # thuộc việc `**` của GitHub có khớp dotfile hay không.
     paths: ['_drafts/**', '_drafts/.nudge-*', '.github/workflows/factory-publish.yml']
+  # Phục hồi backlog mỗi 30 phút nếu push-trigger bị hủy hoặc bị bỏ lỡ.
+  # Không tạo nội dung AI. Không đổi QA hoặc trạng thái publish.
+  schedule:
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -98,10 +103,16 @@ jobs:
           set -e
           # Article drafts ADDED and MODIFIED by this writer push (PUBLISHED-row
           # modifications are rebuilds and are ignored by selection).
-          git diff --name-only --diff-filter=A HEAD~1 HEAD -- _drafts/ > /tmp/added.txt || true
-          git diff --name-only --diff-filter=M HEAD~1 HEAD -- _drafts/ > /tmp/modified.txt || true
-          # every path of the push commit (writer-scope warning only)
-          git diff --name-only --no-renames HEAD~1 HEAD > /tmp/changed.txt || true
+          if [ "$GITHUB_EVENT_NAME" = "push" ]; then
+            git diff --name-only --diff-filter=A HEAD~1 HEAD -- _drafts/ > /tmp/added.txt || true
+            git diff --name-only --diff-filter=M HEAD~1 HEAD -- _drafts/ > /tmp/modified.txt || true
+            git diff --name-only --no-renames HEAD~1 HEAD > /tmp/changed.txt || true
+          else
+            # schedule/dispatch: chỉ quét backlog, không giả push cuối.
+            : > /tmp/added.txt
+            : > /tmp/modified.txt
+            : > /tmp/changed.txt
+          fi
           echo "push added drafts: $(wc -l < /tmp/added.txt || echo 0), modified: $(wc -l < /tmp/modified.txt || echo 0)"
           cp /tmp/added.txt /tmp/added.push.txt
           cp /tmp/modified.txt /tmp/modified.push.txt
@@ -156,6 +167,12 @@ jobs:
           python3 scripts/factory/factory-queue.py run \
             --ids "${{ steps.select.outputs.queue }}" \
             --mode "${{ steps.select.outputs.mode }}"
+
+      - name: Sync latest published index (do not mutate old posts)
+        if: steps.select.outputs.queue != ''
+        run: |
+          python3 scripts/factory/sync-recent-published.py
+          python3 scripts/factory/sync-recent-published.py --check
 
       - name: Light matrix smoke (scoped pre-push gate)
         if: steps.select.outputs.queue != ''
