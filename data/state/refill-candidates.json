@@ -3,13 +3,394 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "MATERIALIZED",
+    "status": "STAGED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-18T03:34:21+00:00",
-    "staged_at": "2026-10-18T03:34:18+00:00"
+    "staged_at": "2026-10-18T03:41:07+00:00"
   },
-  "candidates": [],
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-001",
+      "child_id": "C-BAO-DUONG",
+      "title": "Xem video mẹo sửa xe máy trên mạng rồi muốn tự làm với xe thuê: dừng ở bước quan sát, ghi lại và báo tiệm",
+      "intent": "Hiểu vì sao không nên làm theo video hướng dẫn sửa xe với một chiếc xe thuê, và việc nên làm thay vào đó là quan sát, chụp hoặc quay lại, mô tả rõ rồi báo tiệm cho thuê.",
+      "kw": "tự sửa xe máy thuê theo video",
+      "kw2": [
+        "làm theo video sửa xe máy",
+        "xe thuê không nên tự sửa"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe hay xem video mẹo xe máy và muốn tự xử lý khi thấy xe có điều lạ",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-002",
+      "child_id": "C-BAO-DUONG",
+      "title": "Người quen làm thợ xe máy muốn chỉnh giúp xe thuê: cảm ơn và từ chối khéo, chỉ nhờ nghe và nhìn",
+      "intent": "Biết cách cảm ơn và từ chối khéo khi bạn bè hay người quen làm thợ muốn tự chỉnh xe thuê, chỉ nhờ họ nghe, nhìn và nhận xét rồi chuyển lại cho tiệm cho thuê xử lý.",
+      "kw": "nhờ bạn thợ xem giúp xe thuê",
+      "kw2": [
+        "bạn thợ chỉnh xe thuê",
+        "không để người khác sửa xe thuê"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe có bạn bè hoặc người thân hiểu máy móc ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-003",
+      "child_id": "C-BAO-DUONG",
+      "title": "Đăng ảnh, clip xe thuê lên nhóm mạng hay hỏi chatbot xem xe bị gì: mỗi nơi một đáp án, che biển số và hỏi tiệm",
+      "intent": "Hiểu vì sao lời khuyên từ nhóm mạng xã hội hay chatbot về xe thuê chỉ để tham khảo, cách che biển số khi đăng ảnh, và việc nên làm là hỏi tiệm cho thuê để biết xe bị gì.",
+      "kw": "hỏi nhóm mạng xe thuê bị gì",
+      "kw2": [
+        "hỏi chatbot xe máy bị gì",
+        "đăng clip xe lên nhóm xe máy"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe thấy xe có điều lạ và quen hỏi trên nhóm mạng hay hỏi chatbot",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-004",
+      "child_id": "C-BAO-DUONG",
+      "title": "Bảo dưỡng, sửa chữa và thay phụ tùng khác nhau ra sao: người thuê xe hiểu để hỏi tiệm đúng câu, báo đủ ý",
+      "intent": "Hiểu bảo dưỡng, sửa chữa và thay phụ tùng là ba việc khác nhau ra sao, để người thuê hỏi tiệm đúng câu và báo đúng tình huống thay vì gộp chung.",
+      "kw": "bảo dưỡng và sửa chữa xe máy",
+      "kw2": [
+        "bảo dưỡng khác sửa chữa thế nào",
+        "thay phụ tùng xe thuê hỏi tiệm"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe dài ngày nghe tiệm nói xe cần bảo dưỡng hay cần sửa mà chưa phân biệt được",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-005",
+      "child_id": "C-BAO-DUONG",
+      "title": "Ngày đầu nhận xe: nghe tiếng máy, cảm nhận tay phanh và tay ga rồi ghi vài dòng làm mốc so sánh về sau",
+      "intent": "Biết cách nghe tiếng máy, cảm nhận độ nhạy tay phanh và tay ga trong ngày đầu rồi ghi lại ngắn gọn, để về sau nhận ra xe đã thay đổi thế nào và nói rõ với tiệm.",
+      "kw": "mốc so sánh tình trạng xe thuê",
+      "kw2": [
+        "ghi nhớ tiếng máy xe thuê",
+        "tay phanh tay ga xe thuê lúc nhận"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe ngắn ngày và dài ngày muốn biết chiếc xe lúc bình thường ra sao",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-006",
+      "child_id": "C-BAO-DUONG",
+      "title": "Chữ OIL CHANGE hoặc hình cờ lê hiện trên bảng đồng hồ: nhắc thay nhớt hay báo lỗi, chụp lại và hỏi tiệm",
+      "intent": "Hiểu chữ OIL CHANGE hay biểu tượng nhắc bảo dưỡng trên đồng hồ một số xe khác đèn báo lỗi động cơ ra sao, và việc nên làm là chụp lại, hỏi tiệm, không tự xóa nhắc.",
+      "kw": "đồng hồ xe máy hiện oil change",
+      "kw2": [
+        "đèn nhắc thay nhớt xe máy",
+        "biểu tượng cờ lê trên đồng hồ xe"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe tay ga thấy chữ hoặc biểu tượng lạ hiện trên đồng hồ khi bật khóa",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-007",
+      "child_id": "C-BAO-DUONG",
+      "title": "Nhớt nhìn đen sẫm khi kiểm tra: có phải nhớt hỏng không và vì sao chỉ nên ghi lại rồi hỏi tiệm",
+      "intent": "Hiểu vì sao chỉ nhìn màu nhớt đen sẫm thì chưa đủ để kết luận nhớt hỏng, và việc nên làm là ghi lại, chụp ảnh rồi hỏi tiệm cho thuê thay vì tự quyết.",
+      "kw": "nhớt xe máy đen có sao không",
+      "kw2": [
+        "nhớt đen có phải nhớt hỏng",
+        "nhìn màu nhớt xe thuê"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe dài ngày hay nhìn nhớt trên que thăm hoặc cửa sổ kiểm tra",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-008",
+      "child_id": "C-BAO-DUONG",
+      "title": "Nhớt đục như sữa hoặc nổi bọt khi kiểm tra: dấu hiệu cần báo tiệm ngay và vì sao không nên chạy tiếp",
+      "intent": "Nhận ra nhớt đục như sữa hoặc nổi bọt là dấu hiệu cần báo tiệm ngay, và biết việc nên làm với xe thuê lúc đó: không chạy tiếp, chụp ảnh, gọi tiệm.",
+      "kw": "nhớt xe máy đục như sữa",
+      "kw2": [
+        "nhớt xe máy nổi bọt",
+        "nhớt có nước xe thuê"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe dài ngày hay nhìn nhớt, đặc biệt sau mùa mưa ngập",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-010",
+      "child_id": "C-BAO-DUONG",
+      "title": "Nhìn cột bơm đã về số không trước khi đổ xăng cho xe thuê: nói rõ đổ đầy hay vừa đủ và đợi bơm ngắt hẳn",
+      "intent": "Lên thói quen nhìn cột bơm đã về số không, nói rõ cần đổ đầy hay vừa đủ cho xe thuê và đợi bơm ngắt hẳn rồi mới đóng nắp, để đổ đúng lượng và tránh tràn.",
+      "kw": "nhìn cột bơm xăng về số không",
+      "kw2": [
+        "đổ xăng đúng lượng xe máy thuê",
+        "kiểm tra cột bơm trước khi đổ"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "khách thuê xe tự đổ xăng ở các cây xăng lạ",
+      "location_scope": "các cây xăng ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-011",
+      "child_id": "C-BAO-DUONG",
+      "title": "Tiệm ven đường mời thay nhớt, đổ phụ gia hay vệ sinh buồng đốt khi xe thuê chỉ ghé đổ xăng: từ chối thế nào",
+      "intent": "Biết cách từ chối lịch sự khi bị mời thay nhớt, đổ phụ gia hay vệ sinh buồng đốt trong lúc đang thuê xe, và hỏi tiệm cho thuê trước khi để ai can thiệp vào xe.",
+      "kw": "tiệm mời thay nhớt xe thuê",
+      "kw2": [
+        "từ chối thay nhớt khi thuê xe",
+        "phụ gia xăng xe thuê có nên đổ"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "khách thuê xe hay ghé cây xăng, tiệm vá xe, tiệm rửa xe bên đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-012",
+      "child_id": "C-BAO-DUONG",
+      "title": "Tiệm vá lốp đề nghị đổ keo chống xẹp vào lốp xe thuê: hỏi gì và vì sao nên báo tiệm cho thuê trước",
+      "intent": "Biết cách phản hồi khi tiệm vá lốp đề nghị đổ keo hay dung dịch chống xẹp vào lốp xe thuê: hỏi những gì, và vì sao nên báo tiệm cho thuê trước khi đồng ý.",
+      "kw": "đổ keo vào lốp xe máy thuê",
+      "kw2": [
+        "keo chống xẹp lốp xe máy",
+        "vá lốp xe thuê đổ keo có nên"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe vừa bị xẹp lốp và đang ở tiệm vá bên đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-013",
+      "child_id": "C-BAO-DUONG",
+      "title": "Soi chỗ khuất dưới gầm và sau bánh bằng camera điện thoại: đưa máy xuống thấp, quay đoạn ngắn rồi xem lại",
+      "intent": "Biết cách dùng camera điện thoại soi những chỗ khuất như gầm xe, sau bánh, quanh bình xăng mà không cúi sát hay chạm vào máy nóng, rồi xem lại hình để báo tiệm nếu thấy vết lạ.",
+      "kw": "dùng điện thoại soi gầm xe máy",
+      "kw2": [
+        "quay chỗ khuất dưới xe máy",
+        "kiểm tra xe máy bằng camera điện thoại"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe muốn nhìn kỹ xe nhưng không rành kỹ thuật và không muốn động tay",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-014",
+      "child_id": "C-BAO-DUONG",
+      "title": "Khoanh tròn và vẽ mũi tên lên ảnh xe bằng điện thoại: chỉ đúng vết cũ, chỗ nghi ngờ cho tiệm dễ đối chiếu",
+      "intent": "Biết cách dùng công cụ vẽ trên ảnh của điện thoại để khoanh vết cũ, chỉ mũi tên vào chỗ nghi ngờ và ghi ngày, giúp tiệm cho thuê nhìn là hiểu và dễ đối chiếu.",
+      "kw": "khoanh vết xước trên ảnh xe thuê",
+      "kw2": [
+        "chú thích ảnh xe thuê",
+        "đánh dấu vết cũ trên ảnh xe"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe muốn ghi nhận tình trạng xe bằng ảnh cho rõ ràng",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-015",
+      "child_id": "C-BAO-DUONG",
+      "title": "Ảnh xe gửi qua Zalo bị nén làm mờ vết xước nhỏ: gửi bản gốc dạng tệp hoặc chụp thêm cận cảnh cho tiệm xem rõ",
+      "intent": "Biết cách gửi ảnh xe cho tiệm không bị nén mờ vết xước nhỏ: gửi bản gốc dạng tệp hoặc chụp thêm cận cảnh, và giữ ảnh gốc trong máy làm bản đối chiếu.",
+      "kw": "gửi ảnh gốc xe thuê qua zalo",
+      "kw2": [
+        "ảnh gửi zalo bị mờ vết xước",
+        "chụp cận cảnh vết xước xe thuê"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe gửi ảnh tình trạng xe cho tiệm qua tin nhắn",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-017",
+      "child_id": "C-BAO-DUONG",
+      "title": "Đi nhóm, nhờ người chạy sau nhìn giúp xe bạn: đèn hậu, bánh sau có lắc không và khói pô",
+      "intent": "Biết cách nhờ bạn đi cùng chạy phía sau với khoảng cách an toàn, quan sát đèn hậu, bánh sau và khói pô lúc xe đang chạy rồi báo lại khi dừng, những điều người lái không tự thấy được.",
+      "kw": "nhờ người chạy sau xem giúp xe",
+      "kw2": [
+        "bạn đi cùng nhìn xe giúp",
+        "bánh sau xe máy lắc nhìn từ phía sau"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "nhóm bạn đi nhiều xe cùng một cung đường quanh Hà Nội",
+      "location_scope": "Hà Nội và các cung đường ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-018",
+      "child_id": "C-BAO-DUONG",
+      "title": "Dặn người ngồi sau cùng để ý xe: nhìn khói, vệt nước, nghe tiếng bánh sau và báo ngay khi thấy điều lạ",
+      "intent": "Biết cách dặn người ngồi sau thành cặp mắt, cặp tai thứ hai cho xe: để ý khói, vệt nước, tiếng bánh sau và báo bằng lời nhẹ nhàng mà không quay người hay nghiêng xe.",
+      "kw": "dặn người ngồi sau để ý xe",
+      "kw2": [
+        "người ngồi sau nghe tiếng bánh sau",
+        "báo người lái khi thấy khói"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe chở bạn đi cùng hoặc người thân ngồi sau",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-019",
+      "child_id": "C-BAO-DUONG",
+      "title": "Cả nhóm thuê nhiều xe cùng mẫu: so tiếng máy, tay phanh và tay ga giữa các xe để nhận ra chiếc khác thường",
+      "intent": "Biết cách so tiếng máy, độ ăn phanh và độ nhạy ga giữa các xe cùng mẫu khi đi nhóm, để nhận ra chiếc xe khác thường và báo tiệm sớm thay vì nghĩ xe nào cũng như vậy.",
+      "kw": "so tiếng máy các xe cùng mẫu",
+      "kw2": [
+        "nhóm thuê nhiều xe máy kiểm tra",
+        "xe nào khác thường trong nhóm"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "nhóm bạn hoặc gia đình cùng thuê nhiều xe máy đi chung một chuyến",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-020",
+      "child_id": "C-BAO-DUONG",
+      "title": "Dừng nghỉ giữa chuyến đi xa: nhìn bánh, vệt ướt dưới gầm và nghe tiếng máy khi nổ lại trước khi lên xe đi tiếp",
+      "intent": "Biết cách tận dụng lúc dừng nghỉ để nhìn nhanh xe thuê: hai bánh, vệt ướt dưới gầm, tiếng máy khi nổ lại, rồi mới đi tiếp và báo tiệm nếu thấy điều lạ.",
+      "kw": "nhìn xe khi dừng nghỉ giữa chuyến",
+      "kw2": [
+        "kiểm tra xe máy khi dừng nghỉ",
+        "dừng nghỉ chuyến đi xa bằng xe máy"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "khách thuê xe đi chuyến dài ra ngoại thành, dừng nghỉ ở quán nước ven đường",
+      "location_scope": "Hà Nội và các tuyến ra ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-021",
+      "child_id": "C-BAO-DUONG",
+      "title": "Bão hoặc áp thấp sắp vào Hà Nội: xe máy thuê nên đỗ ở đâu cho đỡ gió và ngập, chụp ảnh rồi báo tiệm",
+      "intent": "Biết cách chuẩn bị cho xe máy thuê khi có bản tin bão hay áp thấp: chọn chỗ đỗ ít rủi ro gió và ngập, chụp ảnh tình trạng xe trước và báo tiệm cho thuê.",
+      "kw": "xe máy thuê khi sắp có bão",
+      "kw2": [
+        "để xe máy khi bão vào Hà Nội",
+        "chuẩn bị xe máy thuê trước bão"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người đang thuê xe máy ở Hà Nội khi có bản tin bão hoặc áp thấp",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-18-W3Q-022",
+      "child_id": "C-BAO-DUONG",
+      "title": "Nghe truyền tai chạy nhanh một đoạn để thông máy, đốt cặn khi thuê xe: vì sao không nên phóng và nên hỏi tiệm",
+      "intent": "Hiểu vì sao người thuê không nên chạy nhanh hay rồ ga mạnh để thông máy, đốt cặn theo lời truyền tai, và nên hỏi tiệm cho thuê thay vì phóng xe để thử.",
+      "kw": "chạy nhanh để thông máy xe máy",
+      "kw2": [
+        "đốt cặn xe máy thuê",
+        "mẹo truyền miệng thông máy xe"
+      ],
+      "links": [
+        "/xe-may/bao-duong-xe/",
+        "/xe-may/"
+      ],
+      "subtopic": "refill-2026-10-18-W3Q",
+      "audience": "người thuê xe nghe bạn bè hoặc người quen mách mẹo chạy nhanh cho xe khỏe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    }
+  ],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
