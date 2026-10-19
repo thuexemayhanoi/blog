@@ -1,0 +1,579 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3W: chu de that, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-19",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-001",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Tiệm hỏi bạn đã từng đi xe số hay xe ga chưa: khai đúng tay lái để được gợi ý xe vừa sức ngày đầu",
+   "intent": "Hiểu vì sao tiệm cho thuê thường hỏi về kinh nghiệm lái, biết cách trả lời trung thực về loại xe từng đi, thời gian đã đi và đoạn đường quen, rồi nhờ gợi ý xe và buổi làm quen phù hợp thay vì nói quá hay nói thiếu.",
+   "kw": "tiệm hỏi biết lái xe máy chưa",
+   "kw2": [
+    "khai trình độ lái khi thuê xe máy",
+    "nói thật tay lái với tiệm cho thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người lần đầu thuê xe máy ở Hà Nội, chưa chắc nên nói thế nào khi tiệm hỏi mình đã quen xe số hay xe ga",
+   "location_scope": "Hà Nội (lúc nhận xe tại tiệm ở Long Biên và buổi làm quen đầu tiên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-002",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Bám theo đuôi một xe phía trước để nhờ dẫn đường qua ngã tư đông: vì sao người mới dễ gặp nguy và nên làm gì",
+   "intent": "Hiểu vì sao đi sát đuôi một xe khác để nhờ qua ngã tư đông ở Hà Nội dễ dẫn đến phanh gấp, vượt đèn hay đi sai làn, rồi học cách giữ khoảng cách, tự nhìn đèn tín hiệu và chọn thời điểm đi thay vì bám theo người lạ.",
+   "kw": "bám đuôi xe qua ngã tư đông",
+   "kw2": [
+    "người mới đi theo xe phía trước",
+    "qua ngã tư đông xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người mới tự lái xe máy thuê, thấy ngã tư đông xe ở Hà Nội và muốn đi theo một xe khác cho yên tâm",
+   "location_scope": "Hà Nội (các ngã tư đông xe ở nội thành, quanh cầu Chương Dương và Nguyễn Văn Cừ)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-003",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Đi một mình ngày đầu thuê xe: gửi biển số, ảnh xe và hẹn giờ báo bình an cho người thân cho yên tâm",
+   "intent": "Biết cách gửi cho người thân biển số, ảnh xe, tên tiệm và lộ trình dự kiến ngay khi nhận xe, hẹn giờ báo bình an và nhắn khi đã về chỗ ở, để người đi một mình ở Hà Nội thấy an tâm mà không phải bật định vị suốt ngày.",
+   "kw": "gửi biển số xe cho người thân",
+   "kw2": [
+    "báo bình an khi đi xe máy một mình",
+    "gửi ảnh xe thuê cho người nhà"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "khách đi một mình ở Hà Nội, thuê xe máy lần đầu và muốn người thân biết mình đang đi xe nào, đi đâu",
+   "location_scope": "Hà Nội (từ tiệm ở Long Biên ra các tuyến nội thành trong ngày đầu)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-004",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Chạy ổn hai ngày đầu rồi chủ quan: những lỗi người mới hay mắc khi đã quen tay mà chưa đủ vững",
+   "intent": "Nhận ra những dấu hiệu chủ quan sau hai ngày đầu chạy ổn như tăng tốc, bám sát xe trước, bỏ nhìn gương hay đi xa quá sức, và biết cách tự đặt giới hạn cho ngày thứ ba, thứ tư khi thuê xe ở Hà Nội.",
+   "kw": "chủ quan khi quen xe máy thuê",
+   "kw2": [
+    "lỗi hay gặp khi quen tay lái xe thuê",
+    "người mới tự tin quá sớm khi đi xe máy"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người mới thuê xe nhiều ngày ở Hà Nội, đã chạy ổn vài ngày đầu và bắt đầu thấy mình quen tay",
+   "location_scope": "Hà Nội (nội thành, đường đê và các cây cầu mà người mới hay tự tin đi xa hơn từ ngày thứ ba)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-005",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Nhận xe xong mới thấy sợ không dám chạy ra đường: nói thật với tiệm, tập thêm hay đổi cách đi trong ngày",
+   "intent": "Biết cách xử lý khi nhận xe xong mới thấy sợ không dám chạy: bình tĩnh nói thật với tiệm, thử tập ở đoạn vắng, nhờ người quen hoặc chọn phương án đi khác trong ngày thay vì cố chạy ra phố đông.",
+   "kw": "sợ không dám chạy xe máy thuê",
+   "kw2": [
+    "nhận xe rồi mới thấy sợ",
+    "không dám chạy xe máy ra phố"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người thuê xe máy lần đầu ở Hà Nội, đã nhận xe nhưng thấy sợ khi nhìn dòng xe đông và chưa biết xử lý ra sao",
+   "location_scope": "Hà Nội (khu vực quanh tiệm ở Long Biên và những đoạn đường ít xe để tập)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-006",
+   "child_id": "C-HD-NGUOI-MOI",
+   "title": "Chưa chắc có hợp đi xe máy ở Hà Nội không: thuê thử một ngày rồi gia hạn dần hay đặt luôn nhiều ngày",
+   "intent": "Chọn giữa thuê thử một ngày rồi gia hạn từng ngày hoặc đặt luôn nhiều ngày khi chưa biết mình có hợp với xe máy ở Hà Nội không, cân nhắc sự linh hoạt, tình trạng xe còn trống và cách nhắn tiệm gia hạn đúng lúc.",
+   "kw": "thuê thử một ngày rồi gia hạn",
+   "kw2": [
+    "chưa chắc hợp đi xe máy nên thuê mấy ngày",
+    "thuê xe máy một ngày rồi thuê tiếp"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-nguoi-moi/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người lần đầu cân nhắc thuê xe máy ở Hà Nội nhưng chưa chắc mình đi quen, chưa biết nên đặt bao nhiêu ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-007",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Tiệm hỏi bạn định đi những đâu và mấy giờ về khi giao xe: vì sao hỏi và nên trả lời đến mức nào",
+   "intent": "Hiểu vì sao tiệm cho thuê có thể hỏi lịch trình và giờ về lúc giao xe, nên nói rõ những gì như đi tỉnh hay chỉ đi phố, không cần kể chi tiết, và khi nào nên báo thêm nếu kế hoạch thay đổi giữa chuyến.",
+   "kw": "tiệm hỏi lịch trình khi thuê xe",
+   "kw2": [
+    "nói lịch trình với tiệm thuê xe máy",
+    "tiệm hỏi đi đâu khi giao xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người thuê xe máy ở Hà Nội, được hỏi sẽ đi đâu và về lúc nào khi làm thủ tục nhận xe",
+   "location_scope": "Hà Nội (lúc làm thủ tục nhận xe tại tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-008",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Ký hợp đồng thuê xe xong mới đọc kỹ và thấy một điều khoản băn khoăn: hỏi giải thích hay xin ghi bổ sung",
+   "intent": "Biết cách xử lý khi đã ký hợp đồng thuê xe mới thấy một điều khoản còn băn khoăn: bình tĩnh đọc lại, chụp lại, nhắn tiệm hỏi cách hiểu, đề nghị ghi bổ sung bằng chữ và quyết định tiếp tục thuê hay không.",
+   "kw": "băn khoăn điều khoản sau khi ký",
+   "kw2": [
+    "ký hợp đồng thuê xe rồi mới đọc kỹ",
+    "xin ghi bổ sung vào hợp đồng thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đã ký hợp đồng thuê xe máy ở Hà Nội nhưng sau đó mới đọc kỹ và thấy có điều chưa rõ",
+   "location_scope": "Hà Nội (tại quầy tiệm hoặc nhắn tin sau khi đã nhận xe)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-009",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Hợp đồng thuê xe gửi qua Zalo và bạn trả lời đồng ý thay vì ký tay: lưu lại những gì để còn đối chiếu",
+   "intent": "Biết cách đọc kỹ hợp đồng nhận qua Zalo hoặc tin nhắn, trả lời đồng ý đúng cách, chụp màn hình và lưu bản gốc, ghi rõ ngày giờ, tên người thuê và biển số để có gì đối chiếu sau này thay cho chữ ký tay.",
+   "kw": "hợp đồng thuê xe qua Zalo",
+   "kw2": [
+    "trả lời đồng ý hợp đồng thuê xe qua tin nhắn",
+    "lưu bản hợp đồng thuê xe nhận qua Zalo"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đặt thuê xe máy từ xa ở Hà Nội, nhận hợp đồng hoặc điều khoản qua Zalo thay vì ký trực tiếp tại quầy",
+   "location_scope": "Hà Nội (đặt xe từ xa trước khi đến tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-010",
+   "child_id": "C-HD-THU-TUC",
+   "title": "Có hộ chiếu cũ còn hạn và hộ chiếu mới: mang cái nào đi thuê xe máy và có cần mang theo cả hai",
+   "intent": "Biết nên đưa hộ chiếu nào cho tiệm khi đang giữ cả bản cũ còn hạn và bản mới, vì sao nên khớp tên và ngày với thông tin đặt xe, khi nào nên mang kèm bản còn lại và cách hỏi tiệm trước khi đến.",
+   "kw": "hộ chiếu cũ hay mới thuê xe",
+   "kw2": [
+    "có hai hộ chiếu thuê xe máy",
+    "mang cả hộ chiếu cũ khi thuê xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-thu-tuc/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "khách nước ngoài hoặc Việt kiều đang giữ cả hộ chiếu cũ và mới, chuẩn bị thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-011",
+   "child_id": "C-HD-SU-CO",
+   "title": "Báo xe có tiếng lạ mà tiệm bảo bình thường cứ đi tiếp nhưng bạn vẫn lo: ghi lại và hỏi lại thế nào",
+   "intent": "Biết cách xử lý khi tiệm trấn an rằng tiếng lạ là bình thường nhưng mình vẫn thấy lo: ghi lại thời điểm, quay clip ngắn, hỏi cụ thể căn cứ, tự đặt ngưỡng dừng chạy và đề nghị đổi xe hoặc kiểm tra trực tiếp trước khi đi xa.",
+   "kw": "tiệm bảo bình thường mà vẫn lo",
+   "kw2": [
+    "xe thuê có tiếng lạ tiệm bảo cứ đi",
+    "vẫn lo khi tiệm nói xe bình thường"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đang thuê xe máy ở Hà Nội, đã báo tiệm về tiếng lạ hoặc cảm giác khác thường nhưng chưa yên tâm với câu trả lời",
+   "location_scope": "Hà Nội (trong kỳ thuê, khi liên hệ lại với tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-012",
+   "child_id": "C-HD-SU-CO",
+   "title": "Người lạ nhiệt tình đẩy xe, sửa giúp khi xe thuê trục trặc rồi đòi tiền công: từ chối lịch sự và báo cửa hàng",
+   "intent": "Biết cách từ chối lịch sự hoặc nói rõ trước khi nhận sự giúp đỡ của người lạ lúc xe thuê trục trặc, không giao chìa hay giấy tờ, ghi lại việc đã làm và báo cửa hàng để không bị coi là tự ý sửa xe.",
+   "kw": "người lạ giúp sửa xe đòi tiền",
+   "kw2": [
+    "người lạ đẩy xe giúp rồi đòi tiền công",
+    "xe thuê hỏng được người lạ giúp"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đang thuê xe máy ở Hà Nội, xe trục trặc giữa phố và được người xung quanh nhiệt tình giúp nhưng sau đó bị đòi tiền",
+   "location_scope": "Hà Nội (đường phố nội thành, nơi xe thuê dừng bên lề)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-013",
+   "child_id": "C-HD-SU-CO",
+   "title": "Mặt gương chiếu hậu xe thuê bị nứt nhưng chưa vỡ: có còn dùng được không và nên báo cửa hàng ra sao",
+   "intent": "Biết cách đánh giá mặt gương chiếu hậu bị nứt: còn nhìn rõ phía sau không, có nguy cơ rơi mảnh không, nên chụp ảnh và báo cửa hàng ngay, có nên đi tiếp không và vì sao không tự dán hay thay gương không rõ nguồn gốc.",
+   "kw": "mặt gương xe thuê bị nứt",
+   "kw2": [
+    "gương chiếu hậu xe máy nứt có đi tiếp được không",
+    "gương xe thuê bị nứt báo cửa hàng"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đang thuê xe máy ở Hà Nội, thấy mặt kính gương chiếu hậu bị nứt sau khi đỗ xe hoặc va nhẹ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-014",
+   "child_id": "C-HD-SU-CO",
+   "title": "Đèn pha xe thuê chớp tắt chập chờn khi đi tối: dừng ở đâu, kiểm tra gì và báo cửa hàng ra sao",
+   "intent": "Biết cách xử lý khi đèn pha xe thuê lúc sáng lúc tối giữa buổi tối ở Hà Nội: giảm tốc, tấp vào chỗ có đèn đường, nhìn công tắc và giắc cắm bằng mắt, không tự nối dây, báo cửa hàng và quyết định đi tiếp hay dừng.",
+   "kw": "đèn pha xe thuê chớp tắt",
+   "kw2": [
+    "đèn pha xe máy lúc sáng lúc tối",
+    "đèn pha chập chờn khi đi đêm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đang thuê xe máy ở Hà Nội, đi buổi tối và thấy đèn pha chớp tắt hoặc chập chờn",
+   "location_scope": "Hà Nội (đường nội thành buổi tối, các đoạn đê và cầu ít đèn đường)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-015",
+   "child_id": "C-HD-SU-CO",
+   "title": "Bãi xe trung tâm thương mại không nhận ra biển số xe thuê khi ra: nói với bảo vệ thế nào để lấy xe",
+   "intent": "Biết cách xử lý khi hầm gửi xe không nhận diện được biển số xe thuê lúc ra: bình tĩnh trình bày với bảo vệ, đưa ảnh biển số và giấy tờ liên quan, nhờ kiểm tra bằng mắt, báo cửa hàng và giữ biên nhận nếu có lập biên bản.",
+   "kw": "bãi xe không đọc được biển số",
+   "kw2": [
+    "camera bãi xe không nhận biển số",
+    "lấy xe thuê ra khỏi hầm gửi xe"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người thuê xe máy ở Hà Nội, gửi xe tại hầm trung tâm thương mại và gặp trục trặc khi lấy xe ra",
+   "location_scope": "Hà Nội (hầm gửi xe các trung tâm thương mại ở nội thành và Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-016",
+   "child_id": "C-HD-SU-CO",
+   "title": "Ra khỏi tiệm mới thấy thiếu mũ, áo mưa hay khóa so với lúc hẹn: quay lại lấy hay nhắn tiệm xử lý thế nào",
+   "intent": "Biết cách xử lý khi đã rời tiệm và ký nhận xong mới thấy thiếu mũ bảo hiểm, áo mưa hay khóa so với điều đã hẹn: kiểm tra lại cốp và móc treo, đối chiếu ảnh lúc nhận, nhắn tiệm hoặc quay lại ngay khi còn gần để không bị hiểu nhầm là làm mất.",
+   "kw": "thiếu phụ kiện khi nhận xe thuê",
+   "kw2": [
+    "thiếu mũ áo mưa khi nhận xe",
+    "tiệm đưa thiếu đồ đi kèm xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-su-co/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người vừa nhận xe máy thuê ở Hà Nội, rời tiệm một đoạn mới phát hiện thiếu phụ kiện đã hẹn",
+   "location_scope": "Hà Nội (khu vực quanh tiệm ở Long Biên ngay sau khi nhận xe)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-017",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Tiệm khuyên đổi sang dòng xe khác với dòng bạn đã chọn: nghe theo hay giữ ý và nên hỏi lại những gì",
+   "intent": "Biết cách cân nhắc khi tiệm gợi ý đổi sang dòng xe khác xe mình đã chọn: hỏi lý do cụ thể về tầm vóc, lịch trình và tình trạng xe, ngồi thử cả hai, rồi quyết định theo nhu cầu của mình thay vì chỉ theo xe đang có sẵn.",
+   "kw": "tiệm khuyên đổi xe khác",
+   "kw2": [
+    "tiệm gợi ý xe khác xe đã chọn",
+    "có nên nghe tiệm đổi dòng xe thuê"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người đã chọn sẵn một dòng xe máy để thuê ở Hà Nội nhưng được tiệm gợi ý dòng khác khi đến nhận",
+   "location_scope": "Hà Nội (lúc nhận xe tại tiệm ở Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-018",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Đọc đánh giá trên mạng hay nghe bạn kể rồi chọn xe thuê: những điều đánh giá thường không nói cho bạn",
+   "intent": "Hiểu những giới hạn của đánh giá trên mạng và lời kể của bạn bè khi chọn dòng xe thuê như khác tầm vóc, khác quãng đường, mỗi chiếc xe một tình trạng, rồi dùng chúng để tham khảo và tự kiểm tra bằng cách ngồi thử.",
+   "kw": "đọc review chọn xe máy thuê",
+   "kw2": [
+    "chọn xe thuê theo lời bạn kể",
+    "đánh giá xe máy thuê trên mạng có đáng tin"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người sắp thuê xe máy ở Hà Nội, đang đọc đánh giá trên mạng hoặc hỏi bạn bè để chọn dòng xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-019",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Người đi cùng thích chạy nhanh hơn bạn: chọn xe thuê thế nào để không phải gồng theo kịp",
+   "intent": "Chọn xe và cách đi khi bạn đồng hành thích chạy nhanh hơn: ưu tiên xe dễ kiểm soát, thống nhất nhịp độ, điểm hẹn và vị trí chạy trước sau, và biết khi nào nên từ chối chạy theo nhịp của người khác.",
+   "kw": "chạy xe thuê cùng bạn chạy nhanh",
+   "kw2": [
+    "không muốn chạy nhanh theo bạn",
+    "chọn xe thuê cho người chạy chậm"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người thuê xe máy ở Hà Nội đi cùng bạn có xe riêng hoặc quen chạy nhanh, lo bị cuốn theo nhịp độ của bạn",
+   "location_scope": "Hà Nội (nội thành và các tuyến ra ngoại thành như đê sông Hồng)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-020",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Sợ làm trầy xe còn mới nên băn khoăn chọn xe mới tinh hay xe đã có vài vết xước cũ: lo lắng này có cơ sở không",
+   "intent": "Hiểu vì sao nỗi sợ làm trầy xe mới có thể khiến mình chạy gượng gạo, xem xét việc chọn xe đã có vài vết xước nhỏ được ghi nhận sẵn, và cách ghi lại tình trạng xe lúc nhận để chạy thoải mái hơn.",
+   "kw": "sợ làm trầy xe thuê mới",
+   "kw2": [
+    "chọn xe có vết xước cũ hay xe mới",
+    "lo làm xước xe thuê nên chọn xe nào"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người lần đầu thuê xe máy ở Hà Nội, lo làm trầy xe và đang phân vân giữa xe mới và xe đã chạy một thời gian",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-021",
+   "child_id": "C-HD-CHON-XE",
+   "title": "Muốn xe nhìn đẹp để chụp ảnh đi phố cổ nhưng vẫn tiện đi: ưu tiên kiểu dáng hay sự thoải mái khi chọn xe thuê",
+   "intent": "Chọn xe thuê khi muốn ảnh đẹp ở phố cổ Hà Nội mà vẫn tiện đi: cân giữa kiểu dáng, màu sắc và sự thoải mái, cách chọn nền, ánh sáng và chỗ dừng xe, và đừng đánh đổi sự an toàn hay chỗ cất đồ chỉ vì xe đẹp.",
+   "kw": "chọn xe thuê chụp ảnh đẹp",
+   "kw2": [
+    "xe máy thuê hợp chụp ảnh phố cổ",
+    "chọn xe đẹp hay xe tiện"
+   ],
+   "links": [
+    "/hoi-dap/hoi-dap-chon-xe/",
+    "/hoi-dap/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "khách thích chụp ảnh khi đi chơi Hà Nội, muốn chiếc xe thuê vừa nhìn hợp ảnh vừa dễ chạy",
+   "location_scope": "Hà Nội (khu phố cổ Hoàn Kiếm, quanh hồ Gươm và hồ Tây)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-022",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Lịch trình chưa chốt, có thể đi xa hoặc chỉ loanh quanh phố: chọn loại xe linh hoạt nào để khỏi tiếc",
+   "intent": "Chọn loại xe phù hợp khi chưa biết sẽ đi xa hay chỉ quanh nội thành Hà Nội: nhận ra những tiêu chí đủ dùng cho cả hai trường hợp như êm, dễ kiểm soát, đủ chỗ để đồ, rồi quyết định sớm hay chờ kế hoạch rõ hơn.",
+   "kw": "chọn xe khi chưa chốt lịch trình",
+   "kw2": [
+    "chưa biết đi xa hay đi phố nên thuê xe nào",
+    "chọn xe thuê linh hoạt"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người thuê xe máy ở Hà Nội nhiều ngày nhưng chưa quyết định đi xa ngoại thành hay chỉ đi quanh phố",
+   "location_scope": "Hà Nội và các tuyến ngoại thành gần (đê sông Hồng, Ba Vì, Sóc Sơn)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-023",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Thuê xe một hai ngày hay cả tuần có đổi cách chọn xe không: tiêu chí riêng cho chuyến ngắn và chuyến dài",
+   "intent": "Hiểu vì sao thời gian thuê ảnh hưởng đến cách chọn xe: chuyến ngắn ưu tiên xe dễ lên tay và gọn đồ, chuyến dài ưu tiên êm, đỡ mệt, dễ dựng và đủ chỗ cất, rồi tự lập bộ tiêu chí cho đúng số ngày dự định.",
+   "kw": "chọn xe thuê theo số ngày",
+   "kw2": [
+    "thuê xe máy ngắn ngày hay dài ngày chọn xe nào",
+    "chọn xe thuê cho chuyến một tuần"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người sắp thuê xe máy ở Hà Nội, phân vân về thời gian thuê và cách chọn xe sao cho hợp số ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-024",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Xe số cho những ngày đi xa rồi xe ga cho những ngày đi phố: chia hai loại xe trong một chuyến có đáng không",
+   "intent": "Cân nhắc việc dùng hai loại xe khác nhau trong cùng một chuyến ở Hà Nội: xe số cho ngày đi xa, xe ga cho ngày đi phố, cái được và mất về làm quen tay, thủ tục đổi xe, bàn giao và hành lý, rồi quyết định nên chia hay giữ một xe.",
+   "kw": "chia hai loại xe trong một chuyến",
+   "kw2": [
+    "xe số ngày đi xa xe ga ngày đi phố",
+    "đổi loại xe giữa chuyến thuê"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người thuê xe máy nhiều ngày ở Hà Nội, có cả ngày đi xa lẫn ngày đi phố và muốn dùng loại xe hợp từng ngày",
+   "location_scope": "Hà Nội và các tuyến đi xa trong ngày từ Long Biên",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-025",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Ngày ghé nhiều điểm dừng ngắn ở phố cổ: chọn xe nào đỡ mệt vì dựng xe, khóa cổ và mở hộc đựng đồ liên tục",
+   "intent": "Chọn loại xe cho ngày dừng đỗ liên tục ở khu phố cổ và hồ Gươm: so sánh việc dựng chân chống, khóa cổ, rút chìa và mở cốp trên xe số và xe ga, xe nhẹ nặng khác nhau thế nào khi dắt vào chỗ đỗ chật.",
+   "kw": "chọn xe khi dừng đỗ nhiều lần",
+   "kw2": [
+    "xe nào đỡ mệt khi dừng đỗ liên tục",
+    "chọn xe cho ngày ghé nhiều điểm"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "khách đi dạo phố cổ Hà Nội cả ngày, dừng đỗ ở nhiều điểm ngắn và muốn chọn xe ít mệt thao tác",
+   "location_scope": "Hà Nội (phố cổ Hoàn Kiếm, quanh hồ Gươm)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-026",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Hai bạn gái đi chơi Hà Nội cuối tuần bằng xe máy thuê: ai lái, đi tuyến nào và giữ an toàn khi về tối",
+   "intent": "Lên kế hoạch cho hai bạn gái tự đi xe máy thuê ở Hà Nội: phân vai người lái và người ngồi sau, chọn tuyến dễ đi, chỗ dừng chụp ảnh, giờ về tối, chia sẻ vị trí và những việc nên thống nhất trước khi nhận xe.",
+   "kw": "hai bạn gái thuê xe máy",
+   "kw2": [
+    "hai bạn nữ tự đi xe máy ở Hà Nội",
+    "thuê xe máy cho hai bạn gái cuối tuần"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "hai bạn nữ du lịch hoặc đi chơi cuối tuần ở Hà Nội, tự lái xe máy thuê và muốn đi thoải mái, an toàn",
+   "location_scope": "Hà Nội (phố cổ, hồ Tây, đê sông Hồng và các tuyến về tối)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-027",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Mẹ và con gái hoặc hai chị em cùng thuê xe máy đi chơi: ghép người lái, người ngồi sau và chọn tuyến nhẹ nhàng",
+   "intent": "Biết cách xếp người lái và người ngồi sau khi mẹ con hoặc chị em cùng thuê xe máy ở Hà Nội: chọn xe vừa tầm vóc, tuyến đi nhẹ nhàng, giờ nghỉ, cách đổi lái và những lưu ý khi một người lớn tuổi hơn hoặc ít kinh nghiệm hơn.",
+   "kw": "mẹ con thuê xe máy đi chơi",
+   "kw2": [
+    "hai chị em thuê xe máy ở Hà Nội",
+    "mẹ và con gái đi xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "mẹ con hoặc chị em ở Hà Nội hay đến Hà Nội chơi, thuê xe máy cùng nhau và muốn chia việc lái xe hợp lý",
+   "location_scope": "Hà Nội (nội thành, hồ Tây và các tuyến gần)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-028",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Hai người đi cùng nhau mà chỉ một người có bằng lái: ai đứng tên thuê, ai cầm lái và người kia ngồi sau ra sao",
+   "intent": "Hiểu cách sắp xếp khi hai người thuê xe máy ở Hà Nội nhưng chỉ một người có bằng lái: người có bằng đứng tên và cầm lái, người kia ngồi sau, cách chia lịch trình, giờ nghỉ, chọn xe và vì sao không nên đổi lái dù chỉ một đoạn ngắn.",
+   "kw": "một người có bằng lái thuê xe",
+   "kw2": [
+    "hai người chỉ một người có bằng lái",
+    "ai đứng tên thuê xe máy khi đi hai người"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "cặp đôi hoặc hai người bạn đi chơi Hà Nội, chỉ một người có bằng lái và muốn thuê xe máy đúng cách",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-029",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Ở khách sạn, nhà nghỉ quanh Nguyễn Văn Cừ, cầu Chương Dương phía Long Biên: sang nhận xe, hỏi chỗ gửi qua đêm",
+   "intent": "Biết cách đi bộ hoặc đi một đoạn ngắn từ khách sạn, nhà nghỉ quanh Nguyễn Văn Cừ và chân cầu Chương Dương sang tiệm ở Bồ Đề nhận xe, hỏi chỗ gửi xe qua đêm, hẹn giờ trả xe và vào phố cổ qua cầu cho thuận.",
+   "kw": "khách sạn Long Biên thuê xe máy",
+   "kw2": [
+    "ở khách sạn gần cầu Chương Dương thuê xe",
+    "thuê xe máy gần nhà nghỉ Nguyễn Văn Cừ"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "khách đặt phòng ở Long Biên vì giá hoặc gần cầu, muốn thuê xe máy ngay gần chỗ ở rồi vào phố cổ",
+   "location_scope": "Long Biên (quanh Nguyễn Văn Cừ, Bồ Đề và chân cầu Chương Dương)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3W-030",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Ở trọ khu Gia Thụy, Ngọc Thụy (Long Biên) muốn thuê xe máy: nhận xe ở Bồ Đề, đường về và chỗ gửi trong ngõ",
+   "intent": "Biết cách thuê xe máy khi ở trọ khu Gia Thụy, Ngọc Thụy: đi sang Bồ Đề nhận xe bằng gì, chọn đường về qua Nguyễn Văn Cừ hay đường đê, hỏi chủ trọ chỗ gửi xe trong ngõ và hẹn giờ trả xe cho khỏi vòng vèo.",
+   "kw": "thuê xe máy khu Ngọc Thụy",
+   "kw2": [
+    "thuê xe máy ở trọ Gia Thụy Long Biên",
+    "nhận xe ở Bồ Đề từ khu Ngọc Thụy"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3W",
+   "audience": "người ở trọ hoặc ở nhà người quen khu Gia Thụy, Ngọc Thụy muốn thuê xe máy ở Bồ Đề mà không mất công đi vòng",
+   "location_scope": "Long Biên (khu Gia Thụy, Ngọc Thụy, đường đê và Nguyễn Văn Cừ)",
+   "word_target": 1300
+  }
+ ]
+}

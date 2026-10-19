@@ -1,0 +1,237 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3V: chu de that, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-19",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-001",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Khi nào nên xuống dắt xe thay vì cố chạy: dốc trơn, đoạn xóc, lối hẹp đông người và cách dắt cho vững",
+   "intent": "Biết cách tự quyết định lúc nào nên tắt máy xuống dắt bộ thay vì cố chạy qua đoạn dốc trơn, chỗ xóc hay lối hẹp đông người, và dắt xe thế nào cho vững tay, đứng đúng phía để xe không đổ.",
+   "kw": "khi nào nên dắt xe máy",
+   "kw2": [
+    "xuống dắt xe thay vì chạy",
+    "dắt xe máy qua đoạn khó"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê chưa tự tin tay lái, gặp đoạn đường khó giữa chuyến",
+   "location_scope": "Hà Nội và vùng ven",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-002",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Xe tải, xe khách vượt sát làm xe máy bị hút và lắc: giữ tay lái thẳng, dạt nhẹ sang phải, không phanh gấp",
+   "intent": "Hiểu vì sao luồng gió của xe tải, xe khách vượt sát kéo xe máy lắc lư, và biết cách giữ tay lái thẳng, ga đều, dạt nhẹ về phía lề phải rồi mới giảm tốc thay vì giật lái hay phanh gấp.",
+   "kw": "xe tải vượt sát xe máy",
+   "kw2": [
+    "xe khách vượt sát xe máy lắc",
+    "gió hút khi xe tải vượt qua"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê ra quốc lộ, đường vành đai và đường đê có nhiều xe lớn",
+   "location_scope": "quốc lộ, đường vành đai và đường ngoại thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-003",
+   "child_id": "C-KY-NANG-CO-BAN",
+   "title": "Khởi hành trên nền gạch ướt, sân dốc hay đoạn đường rải cát: nhả ga nhẹ, nhìn thẳng và chưa đánh lái vội",
+   "intent": "Biết cách xuất phát êm trên nền gạch ướt, sân dốc nhẹ hoặc đoạn đường rải cát: tay ga nhả ngọt, ánh mắt nhìn thẳng, giữ phanh sau sẵn sàng và chỉ đánh lái khi xe đã lăn đều.",
+   "kw": "khởi hành xe máy trên nền trơn",
+   "kw2": [
+    "xuất phát xe máy trên sân gạch ướt",
+    "đề xe trên đường rải cát"
+   ],
+   "links": [
+    "/ky-nang/ky-nang-lai-co-ban/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê phải lấy xe ở sân, ngõ lát gạch hoặc đoạn đường có cát",
+   "location_scope": "ngõ, sân nhà và đường ngoại thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-004",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Ra quốc lộ từ đường làng ở ngoại thành: xe tải chạy nhanh, ruộng ngô che tầm nhìn và dừng hẳn trước khi nhập",
+   "intent": "Biết cách ra quốc lộ từ đường làng hay đường nhánh ngoại thành: dừng hẳn trước mép đường, nhìn cả hai hướng, chờ khoảng trống đủ rộng thay vì lao ra theo cảm giác, nhất là khi cây, ruộng ngô hay bờ tường che tầm nhìn.",
+   "kw": "ra quốc lộ từ đường làng",
+   "kw2": [
+    "nhập quốc lộ từ đường nhánh",
+    "ra đường lớn từ đường làng"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê chạy ngoại thành, ra vào đường làng để về chỗ nghỉ hoặc quán ăn",
+   "location_scope": "đường làng nối quốc lộ ở ngoại thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-005",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Xe đạp, xe máy đi ngược chiều sát lề phải ở phố đông: nhìn xa dọc mép đường và chừa khoảng hở khi chạy qua",
+   "intent": "Biết cách nhận ra sớm xe đạp, xe máy đi ngược chiều sát lề phải, nhất là gần cổng ngõ, trạm xe buýt và chỗ mở dải phân cách, rồi chừa khoảng hở bên phải, giảm tốc và giữ làn ổn định thay vì lách gấp.",
+   "kw": "xe đi ngược chiều sát lề phải",
+   "kw2": [
+    "gặp xe đạp đi ngược chiều",
+    "xe máy đi ngược chiều trên phố"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê chạy phố đông, nhất là buổi chiều tối",
+   "location_scope": "phố đông và các tuyến đường chính nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-006",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Quanh cổng công trường lớn: xe ben ra vào, bùn đất kéo ra mặt đường và bụi mù khi chạy xe máy",
+   "intent": "Biết cách đi qua đoạn quanh cổng công trường có xe ben ra vào, bùn đất từ bánh xe kéo ra mặt đường và bụi mù: giảm tốc sớm, tránh vệt bùn, giữ khoảng cách với xe nặng và nhường lối khi có người ra hiệu.",
+   "kw": "chạy xe máy qua cổng công trường",
+   "kw2": [
+    "bùn đất xe ben trên mặt đường",
+    "đường quanh công trường nhiều bụi"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê chạy qua khu đang xây dựng ở nội thành và ven đô",
+   "location_scope": "khu công trường và đường ven đô Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-007",
+   "child_id": "C-KY-NANG-TINH-HUONG",
+   "title": "Người đứng chụp ảnh, quay video giữa lòng đường: ảnh cưới, kỷ yếu, check-in và cách chạy qua không giật mình",
+   "intent": "Biết cách chạy xe máy qua đoạn có người chụp ảnh cưới, kỷ yếu hay check-in đứng giữa lòng đường: giảm tốc từ xa, chừa khoảng cách rộng, đoán trước người lùi ra xa hơn để lấy khung hình và không bấm còi gắt.",
+   "kw": "người chụp ảnh giữa đường xe máy",
+   "kw2": [
+    "chụp ảnh cưới giữa lòng đường",
+    "khách check-in đứng giữa đường"
+   ],
+   "links": [
+    "/ky-nang/tinh-huong-giao-thong/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê chạy qua các điểm chụp ảnh đông người ở nội thành",
+   "location_scope": "phố ven hồ, cầu và các điểm check-in ở nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-008",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Pin điện thoại tụt nhanh khi trời lạnh, gió lớn: sợ bản đồ tắt giữa đường, mang gì theo và lưu tuyến trước",
+   "intent": "Biết vì sao điện thoại dễ tụt pin nhanh khi trời lạnh và gió lớn, và chuẩn bị trước: sạc đầy, mang sạc dự phòng, tải bản đồ ngoại tuyến, ghi sẵn tuyến, giữ điện thoại ấm trong túi để không mất bản đồ giữa đường.",
+   "kw": "pin điện thoại tụt nhanh trời lạnh",
+   "kw2": [
+    "điện thoại hết pin khi đi xe máy mùa lạnh",
+    "tải bản đồ ngoại tuyến trước chuyến đi"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê dùng điện thoại dẫn đường vào những ngày lạnh",
+   "location_scope": "Hà Nội và vùng ven vào mùa lạnh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-009",
+   "child_id": "C-KY-NANG-THOI-TIET",
+   "title": "Quàng khăn dài, mặc áo choàng rộng đi xe máy ngày rét: đuôi khăn bay vướng bánh xe và cách quấn cho gọn",
+   "intent": "Biết cách quấn khăn dài, gài áo khoác và áo choàng cho gọn khi đi xe máy ngày rét để đuôi khăn, vạt áo không bay vướng bánh xe, tay lái hay che tầm nhìn, và khi nào nên đổi sang khăn ống.",
+   "kw": "quàng khăn dài đi xe máy",
+   "kw2": [
+    "khăn quàng cổ vướng bánh xe",
+    "áo choàng rộng đi xe máy ngày lạnh"
+   ],
+   "links": [
+    "/ky-nang/thoi-tiet-va-duong-sa/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "khách đi xe thuê mặc nhiều lớp trong những ngày rét ở Hà Nội",
+   "location_scope": "Hà Nội vào mùa rét",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-010",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở trái cây dễ dập mua ở chợ về chỗ ở bằng xe máy: hộp, túi và thứ tự xếp để xoài chín, vải, nhãn không nát",
+   "intent": "Biết cách đóng hộp, lót lá hoặc giấy, chia túi và sắp thứ tự xếp để trái cây dễ dập như xoài chín, vải, nhãn, dâu mua ở chợ về đến chỗ ở nguyên vẹn khi chở bằng xe máy.",
+   "kw": "chở trái cây dễ dập xe máy",
+   "kw2": [
+    "mang xoài chín vải nhãn về bằng xe máy",
+    "xếp trái cây trong túi khi đi xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "khách ở ngắn hạn hay mua trái cây mùa ở chợ rồi tự chở về chỗ ở",
+   "location_scope": "chợ và khu dân cư nội thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-011",
+   "child_id": "C-KY-NANG-CHO-DO",
+   "title": "Chở thú bông cỡ lớn mua làm quà bằng xe máy: buộc sao cho không che gương và không bị gió thổi bật",
+   "intent": "Biết cách đặt, bọc và buộc thú bông cỡ lớn mua làm quà trên xe máy sao cho không che gương, không cản tầm nhìn người lái, không vướng bánh sau và không bị gió giật bật khỏi xe.",
+   "kw": "chở thú bông lớn bằng xe máy",
+   "kw2": [
+    "chở gấu bông cỡ lớn bằng xe máy",
+    "buộc thú bông sau xe máy"
+   ],
+   "links": [
+    "/ky-nang/cho-do-va-hanh-ly/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người mua thú bông làm quà sinh nhật, quà tặng rồi tự chở về bằng xe thuê",
+   "location_scope": "phố bán đồ chơi, quà tặng ở nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3V-012",
+   "child_id": "C-KY-NANG-GUI-XE",
+   "title": "Bãi xe đòi giữ chìa khóa hoặc xin chìa để xếp xe: khi nào nên đưa, khi nào mang theo và dặn lại thế nào",
+   "intent": "Biết cách cân nhắc khi bãi xe hoặc người trông xe xin giữ chìa để xếp xe trong hầm, sân chật: hỏi lý do, ưu tiên rút chìa mang theo, khóa cổ, chụp ảnh xe và ghi nhớ người nhận nếu buộc phải đưa.",
+   "kw": "người trông xe xin chìa khóa",
+   "kw2": [
+    "bãi xe đòi để lại chìa khóa",
+    "có nên đưa chìa khóa cho người giữ xe"
+   ],
+   "links": [
+    "/ky-nang/gui-xe-va-giu-xe/",
+    "/ky-nang/"
+   ],
+   "subtopic": "refill-2026-10-19-W3V",
+   "audience": "người đi xe thuê gửi xe ở hầm chung cư, sân chật hoặc bãi đông",
+   "location_scope": "bãi xe, hầm và sân gửi xe ở Hà Nội",
+   "word_target": 1300
+  }
+ ]
+}

@@ -1,0 +1,509 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3U: chu de that, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push; cac child quy trinh thue xe da bao hoa nen chi giu tinh huong chua co bai, C-THUE-TUAN can y that nen khong dua vao batch nay.",
+  "created": "2026-10-19",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-001",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Nhân viên chỉ nhận chìa rồi bảo để xe mai kiểm tra: xin soát xe ngay hoặc chốt tình trạng bằng ảnh và tin nhắn",
+   "intent": "Biết cách đề nghị soát xe cùng lúc khi nhân viên nhận lại chìa mà chưa kiểm tra, và nếu cửa hàng bận thì chụp ảnh lúc trả, nhắn tin chốt giờ trả cùng tình trạng xe để sau này không bị báo hư hỏng mà không có gì đối chiếu.",
+   "kw": "trả xe thuê chưa kiểm tra ngay",
+   "kw2": [
+    "nhân viên không kiểm xe lúc trả",
+    "để xe mai kiểm tra khi trả xe thuê",
+    "chốt tình trạng xe khi trả"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội đang đứng ở quầy trả xe và thấy nhân viên chưa kiểm xe",
+   "location_scope": "Hà Nội, quầy hoặc điểm trả xe của cửa hàng cho thuê",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-002",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Xin xem lại camera của tiệm khi hai bên nhớ khác nhau về vết xước lúc giao xe: đề nghị sao cho lịch sự",
+   "intent": "Hiểu cách đề nghị cửa hàng cho xem lại camera quầy hoặc sân vào lúc giao xe khi có ý kiến khác nhau về một vết xước, nói rõ ngày giờ cần xem, mang theo ảnh nhận xe và giữ thái độ bình tĩnh nếu tiệm không có hoặc không cho xem.",
+   "kw": "xin xem camera tiệm thuê xe",
+   "kw2": [
+    "xem camera khi tranh cãi vết xước xe thuê",
+    "camera cửa hàng đối chiếu tình trạng xe",
+    "đề nghị xem lại camera lúc giao xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội đang bất đồng với cửa hàng về tình trạng xe lúc nhận",
+   "location_scope": "Hà Nội, quầy giao nhận xe có camera của cửa hàng cho thuê",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-003",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Chụp vết xước trên xe màu đen hoặc nhựa bóng bị chói: chọn góc, che nắng và soi đèn pin điện thoại",
+   "intent": "Biết cách chụp ảnh vết xước trên sơn tối màu và nhựa bóng khi nhận hoặc trả xe sao cho vết hiện rõ, không bị chói hay phản chiếu bầu trời, gồm chọn góc chụp, dùng tay hoặc thân người che nắng và soi đèn pin xiên.",
+   "kw": "chụp vết xước xe màu đen",
+   "kw2": [
+    "chụp ảnh vết xước nhựa bóng bị chói",
+    "chụp xước xe thuê ngoài nắng",
+    "góc chụp vết xước xe máy cho rõ"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội muốn ảnh bàn giao nhìn rõ vết xước trên xe tối màu",
+   "location_scope": "Hà Nội, sân hoặc vỉa hè trước cửa hàng cho thuê khi nhận và trả xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-004",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Quay video bàn giao có cả nhân viên và quầy: xin phép một câu, quay vào xe là chính và không đăng lên mạng",
+   "intent": "Biết cách quay video bàn giao xe thuê mà vẫn tôn trọng nhân viên và khách khác: nói trước một câu xin phép, hướng ống kính vào xe, tránh quay giấy tờ và gương mặt người khác, giữ file riêng tư thay vì đăng lên mạng xã hội.",
+   "kw": "xin phép quay video khi nhận xe",
+   "kw2": [
+    "quay nhân viên khi nhận xe thuê",
+    "quyền riêng tư khi quay video bàn giao xe",
+    "xin phép quay video tại cửa hàng thuê xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội định quay video bàn giao nhưng ngại quay cả nhân viên",
+   "location_scope": "Hà Nội, quầy và sân giao nhận của cửa hàng cho thuê",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-005",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Nhân viên giao xe hướng dẫn nhanh hoặc trả lời chưa chắc: xin nhắc lại, gọi hỏi người phụ trách và ghi lại",
+   "intent": "Biết cách xử lý khi nhân viên giao xe hướng dẫn quá nhanh hoặc trả lời ngập ngừng về cách mở cốp, khóa cổ, đổ xăng hay giờ trả: xin nhắc lại từng bước, nhờ gọi hỏi người phụ trách ngay tại chỗ và ghi lại câu trả lời bằng tin nhắn trước khi lăn bánh.",
+   "kw": "nhân viên giao xe không chắc",
+   "kw2": [
+    "nhân viên giao xe trả lời ngập ngừng",
+    "gọi hỏi chủ tiệm khi nhận xe thuê",
+    "ghi lại hướng dẫn của nhân viên khi nhận xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội gặp nhân viên giao xe chưa nắm rõ xe hoặc quy trình",
+   "location_scope": "Hà Nội, quầy giao xe của cửa hàng cho thuê",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-006",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Tiệm nhờ đánh giá khi trả xe: viết nhận xét trung thực, có ích cho người sau và nhắn riêng điều chưa ổn",
+   "intent": "Biết cách viết một đánh giá trung thực sau chuyến thuê khi tiệm nhờ để lại nhận xét: ghi cụ thể về xe, thủ tục, giờ giấc và cách xử lý vấn đề, không để lộ biển số hay thông tin cá nhân, và gửi riêng cho tiệm những điều chưa ổn thay vì chỉ chấm điểm thấp.",
+   "kw": "viết đánh giá tiệm thuê xe máy",
+   "kw2": [
+    "tiệm nhờ đánh giá khi trả xe thuê",
+    "nhận xét thật về tiệm thuê xe sau chuyến đi",
+    "góp ý riêng cho tiệm thuê xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người vừa trả xe thuê ở Hà Nội và được nhờ để lại đánh giá cho cửa hàng",
+   "location_scope": "Hà Nội, quầy trả xe và trang đánh giá trực tuyến của cửa hàng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-007",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Tiệm gọi báo cần mang xe đang thuê về gấp để kiểm tra hoặc đổi xe: hỏi lý do, chốt giờ gặp, ngày thuê còn lại",
+   "intent": "Biết cách phản hồi khi chính cửa hàng đề nghị mang xe đang thuê về gấp để kiểm tra hoặc đổi sang xe khác: hỏi rõ lý do, thống nhất giờ và nơi gặp, ghi lại bằng tin nhắn, hỏi về thời gian đi lại và số ngày thuê còn lại.",
+   "kw": "tiệm báo mang xe thuê về gấp",
+   "kw2": [
+    "cửa hàng yêu cầu đổi xe giữa kỳ thuê",
+    "tiệm gọi thu xe đang thuê về kiểm tra",
+    "mang xe thuê về tiệm theo yêu cầu"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang thuê xe máy ở Hà Nội vừa nhận cuộc gọi hoặc tin nhắn của cửa hàng yêu cầu đưa xe về",
+   "location_scope": "Hà Nội, đường từ nơi bạn đang ở về cửa hàng cho thuê",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-008",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Tiệm nhắc hạn trả xe sớm hơn ngày bạn nhớ: đối chiếu tin nhắn đặt, biên nhận và cách tính ngày",
+   "intent": "Hiểu cách xử lý khi cửa hàng và bạn nhớ khác nhau về ngày hoặc giờ trả xe: mở lại tin nhắn đặt xe, biên nhận và ghi chú tiền đã trả, hỏi tiệm cách tính ngày và nhắn xác nhận ngày giờ trả cuối cùng bằng chữ.",
+   "kw": "hiểu nhầm ngày trả xe thuê",
+   "kw2": [
+    "tiệm nói hết hạn thuê xe sớm hơn",
+    "đối chiếu ngày trả xe với tin nhắn đặt",
+    "nhớ nhầm ngày trả xe thuê"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang thuê xe máy ở Hà Nội nhận tin nhắc trả xe trong khi tưởng còn thêm ngày",
+   "location_scope": "Hà Nội, trao đổi qua tin nhắn hoặc tại quầy cửa hàng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-009",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Lỡ đưa xe thuê đi xa hơn đã thỏa thuận rồi xe gặp sự cố: kể thật với tiệm sao cho được hỗ trợ nhanh",
+   "intent": "Biết cách nói thật và đủ với cửa hàng khi xe thuê hỏng hoặc va chạm ở nơi bạn đã không báo trước, như đi tỉnh hay ngoại thành xa hơn đã thỏa thuận: kể đúng diễn biến, gửi vị trí và ảnh, nghe hướng dẫn thay vì giấu thông tin.",
+   "kw": "đi tỉnh không báo tiệm xe hỏng",
+   "kw2": [
+    "xe thuê hỏng ở nơi chưa báo cửa hàng",
+    "lỡ mang xe thuê đi xa hơn thỏa thuận",
+    "nói thật với tiệm khi xe thuê gặp sự cố"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội đã đưa xe đi xa hơn thỏa thuận và đang gặp sự cố",
+   "location_scope": "Hà Nội và các tuyến ngoại thành, tỉnh lân cận nơi xe gặp sự cố",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-010",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Có người tự nhận là chủ chiếc xe đang thuê và đòi lại giữa đường: không giao chìa, ghi lại và gọi tiệm ngay",
+   "intent": "Biết cách giữ bình tĩnh khi một người lạ tự nhận là chủ thật của chiếc xe bạn đang thuê và yêu cầu giao xe: không đưa chìa hay giấy tờ, xin họ liên hệ cửa hàng, ghi hình biển số và cuộc nói chuyện, và đến công an phường nếu họ gây áp lực.",
+   "kw": "người lạ tự nhận chủ xe thuê",
+   "kw2": [
+    "bị đòi lại xe máy đang thuê giữa đường",
+    "chủ thật đòi xe thuê",
+    "không giao xe thuê cho người lạ"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang thuê xe máy ở Hà Nội bị người lạ chặn và đòi xe",
+   "location_scope": "Hà Nội, nơi bạn đang dừng xe và công an phường gần nhất",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-011",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Nhóm đã đặt xe nhưng sát ngày có người rút hoặc thêm người: nhắn tiệm điều chỉnh số xe sao cho kịp",
+   "intent": "Biết cách báo cửa hàng khi nhóm đã giữ một số xe mà sát ngày nhận có người bỏ chuyến hoặc thêm người: nhắn sớm, nêu rõ số xe mới, hỏi còn đủ xe cùng mẫu không và chốt lại cách tính cọc, giờ nhận bằng tin nhắn.",
+   "kw": "nhóm đổi số lượng xe máy thuê",
+   "kw2": [
+    "thêm xe máy thuê cho nhóm sát ngày",
+    "giảm số xe thuê khi có người rút",
+    "báo tiệm thay đổi số người đi nhóm"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đứng ra đặt xe máy thuê cho nhóm bạn hoặc gia đình ở Hà Nội",
+   "location_scope": "Hà Nội, trao đổi với cửa hàng trước ngày nhận xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-012",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Nhân viên mời thêm dịch vụ khi làm thủ tục thuê xe: hỏi gì về nội dung, thời hạn và cách ghi vào hợp đồng",
+   "intent": "Biết cách xử lý khi nhân viên đề nghị mua hoặc thuê thêm dịch vụ lúc làm thủ tục: hỏi dịch vụ gồm gì, áp dụng trong bao lâu, có bắt buộc không, tính riêng hay gộp, và yêu cầu ghi vào hợp đồng hoặc tin nhắn nếu đồng ý.",
+   "kw": "nhân viên mời mua thêm dịch vụ",
+   "kw2": [
+    "gợi ý mua thêm khi thuê xe máy",
+    "từ chối dịch vụ thêm khi thuê xe lịch sự",
+    "hỏi rõ dịch vụ đi kèm trước khi ký"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội đang làm thủ tục tại quầy và được mời thêm dịch vụ",
+   "location_scope": "Hà Nội, quầy làm thủ tục của cửa hàng cho thuê",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-013",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Ghi ngày giờ nhận và trả xe tránh nhầm: ngày/tháng hay tháng/ngày, 12 giờ trưa hay nửa đêm",
+   "intent": "Biết cách viết ngày giờ nhận và trả xe để người thuê và cửa hàng hiểu giống nhau: viết ngày bằng chữ, ghi thứ trong tuần, tách rõ 12 giờ trưa với 0 giờ đêm và nhắn lại để xác nhận, nhất là khi hai bên quen cách viết khác nhau.",
+   "kw": "ghi ngày giờ nhận trả xe",
+   "kw2": [
+    "nhầm ngày tháng khi đặt xe máy thuê",
+    "12 giờ trưa hay nửa đêm khi trả xe",
+    "xác nhận ngày giờ nhận xe thuê bằng chữ"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội, đặc biệt khách nước ngoài quen kiểu viết ngày khác",
+   "location_scope": "Hà Nội, tin nhắn và hợp đồng đặt thuê xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-014",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Đặt thuê xe máy qua nền tảng du lịch rồi mang mã đến tiệm: đối chiếu tên, ngày và điều khoản trước khi nhận",
+   "intent": "Hiểu cách chuẩn bị khi bạn đặt thuê xe qua một nền tảng đặt dịch vụ du lịch và mang mã xác nhận đến cửa hàng: kiểm tra tên khớp giấy tờ, ngày giờ, phần nào đã trả, phần nào trả tại chỗ, và liên hệ ai khi tiệm không thấy đơn.",
+   "kw": "đặt thuê xe máy qua nền tảng",
+   "kw2": [
+    "voucher thuê xe máy Hà Nội",
+    "tiệm không thấy đơn đặt xe qua nền tảng",
+    "mang mã xác nhận đến cửa hàng thuê xe"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "khách du lịch đặt thuê xe máy trước qua nền tảng trực tuyến rồi đến nhận xe tại Hà Nội",
+   "location_scope": "Hà Nội, cửa hàng cho thuê xe máy nhận đơn từ nền tảng đặt dịch vụ",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-015",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Đang ở xa Hà Nội mà cần gia hạn thuê xe: báo tiệm sớm, chuyển khoản từ xa và hẹn lại giờ trả",
+   "intent": "Biết cách xin gia hạn khi bạn đang ở tỉnh xa với xe thuê: nhắn cửa hàng trước giờ hết hạn, gửi ảnh xe và số km hiện tại, thống nhất cách thanh toán từ xa, ngày giờ trả mới và nhận xác nhận gia hạn bằng chữ.",
+   "kw": "gia hạn thuê xe khi đi tỉnh",
+   "kw2": [
+    "xin gia hạn thuê xe máy khi đang ở xa",
+    "chuyển khoản gia hạn thuê xe từ xa",
+    "báo tiệm ngày về mới khi đi xa"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang đi tỉnh bằng xe thuê từ Hà Nội và muốn ở lại thêm vài ngày",
+   "location_scope": "Hà Nội và các tỉnh quanh Hà Nội nơi bạn đang dừng chân",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-016",
+   "child_id": "C-THUE-THU-TUC",
+   "title": "Đọc đánh giá tiệm thuê xe máy trên Google Maps: nhận ra review thật, review giả và chọn lọc trước khi đặt",
+   "intent": "Biết cách đọc đánh giá của một cửa hàng cho thuê xe trên bản đồ trực tuyến: xem đánh giá gần đây, nhận ra dấu hiệu bài viết giống nhau hoặc dồn một ngày, đọc kỹ đánh giá thấp và cách chủ tiệm phản hồi, rồi đối chiếu thêm bằng một cuộc gọi hoặc ảnh xe thật.",
+   "kw": "đọc đánh giá tiệm thuê xe máy",
+   "kw2": [
+    "review giả tiệm thuê xe máy",
+    "nhận biết đánh giá thật trên google maps",
+    "chọn tiệm thuê xe qua đánh giá"
+   ],
+   "links": [
+    "/thue-xe/thu-tuc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người chuẩn bị thuê xe máy ở Hà Nội và đang chọn tiệm qua đánh giá trực tuyến",
+   "location_scope": "Hà Nội, trang bản đồ và đánh giá trực tuyến của các cửa hàng cho thuê xe",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-017",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm hẹn hoàn cọc nhưng quá hạn vẫn chưa thấy tiền: nhắn nhắc lịch sự, gom bằng chứng và nêu mốc chờ",
+   "intent": "Biết cách nhắc cửa hàng khi đã hẹn hoàn tiền cọc vào một ngày cụ thể mà quá hạn chưa thấy: kiểm tra lại tin nhắn hẹn và tài khoản, nhắn nhắc ngắn gọn lịch sự, đính kèm biên nhận và đề nghị một mốc hoàn mới bằng chữ.",
+   "kw": "quá hạn hoàn cọc thuê xe máy",
+   "kw2": [
+    "tiệm chưa hoàn cọc sau khi trả xe",
+    "nhắn nhắc hoàn tiền cọc thuê xe",
+    "chờ tiền cọc thuê xe lâu chưa về"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đã trả xe thuê ở Hà Nội và đang chờ cửa hàng chuyển lại tiền cọc",
+   "location_scope": "Hà Nội, trao đổi qua tin nhắn với cửa hàng sau khi trả xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-018",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm đề nghị giữ cọc vài ngày chờ kiểm tra phạt nguội: hỏi mốc thời gian, cách báo kết quả và phần hoàn lại",
+   "intent": "Hiểu vì sao cửa hàng có thể đề nghị giữ tiền cọc thêm một thời gian để chờ tra cứu phạt nguội và biết hỏi gì trước khi đồng ý: mốc ngày hoàn, cách tra cứu, hình thức báo kết quả và cách nhận lại phần cọc còn lại.",
+   "kw": "giữ cọc chờ phạt nguội thuê xe",
+   "kw2": [
+    "tiệm giữ cọc để chờ phạt nguội",
+    "trả xe xong chưa nhận lại cọc vì phạt nguội",
+    "hoàn cọc sau khi tra cứu phạt nguội"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người sắp hoặc vừa trả xe thuê ở Hà Nội và được đề nghị chờ tra cứu phạt nguội mới hoàn cọc",
+   "location_scope": "Hà Nội, tra cứu theo biển số xe thuê qua kênh chính thức",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-019",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Nhận lại cọc nhưng bị trừ một khoản: xin bảng kê từng mục bị trừ, ảnh hư hỏng và lý do trước khi nhận",
+   "intent": "Biết cách đề nghị cửa hàng ghi rõ từng khoản trừ vào tiền cọc, kèm lý do, ảnh hoặc hóa đơn, đối chiếu với biên bản nhận xe rồi mới đồng ý nhận phần còn lại hoặc ghi ý kiến riêng nếu chưa thống nhất.",
+   "kw": "xin bảng kê khoản trừ tiền cọc",
+   "kw2": [
+    "bị trừ cọc thuê xe xin lý do",
+    "tiệm trừ cọc không giải thích",
+    "đối chiếu khoản trừ cọc với biên bản nhận xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người trả xe thuê ở Hà Nội thấy tiền cọc nhận lại ít hơn số đã đặt",
+   "location_scope": "Hà Nội, quầy thanh toán khi trả xe hoặc tin nhắn sau khi trả xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-020",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Thiếu tiền thuê ngày cuối hoặc tiền gia hạn: nhờ tiệm cấn trừ vào tiền cọc và ghi rõ số cọc còn lại",
+   "intent": "Biết cách đề nghị cấn trừ khoản tiền thuê còn thiếu hoặc tiền gia hạn vào tiền cọc đang để ở tiệm: hỏi cửa hàng có đồng ý không, ghi rõ khoản trừ và số cọc còn lại trên biên nhận hoặc tin nhắn trước khi trả xe.",
+   "kw": "trừ tiền thuê xe vào tiền cọc",
+   "kw2": [
+    "cấn trừ tiền gia hạn vào cọc",
+    "thiếu tiền mặt ngày cuối thuê xe",
+    "ghi khoản trừ cọc trên biên nhận"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang thuê xe máy ở Hà Nội, gần ngày trả mà cần gia hạn hoặc thiếu tiền mặt",
+   "location_scope": "Hà Nội, quầy cửa hàng khi gia hạn hoặc trả xe",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-021",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Sắp bay hoặc đã về nước mà chưa nhận lại cọc chuyển khoản: báo tiệm nơi nhận hoàn và giữ biên nhận",
+   "intent": "Biết cách xử lý khi đã rời Hà Nội hoặc sắp ra sân bay mà tiền cọc chuyển khoản chưa được hoàn: nhắn tiệm tài khoản hoặc cách nhận hoàn bạn dùng được, đính kèm biên nhận và ảnh trả xe, hoặc nhờ người thân ở Hà Nội nhận hộ có xác nhận.",
+   "kw": "chưa được hoàn cọc khi về nước",
+   "kw2": [
+    "nhận hoàn cọc thuê xe khi đã rời Hà Nội",
+    "hoàn cọc thuê xe cho khách sắp bay",
+    "nhờ người thân nhận lại cọc thuê xe"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "khách đã chuyển cọc để thuê xe máy ở Hà Nội và sắp rời hoặc đã rời thành phố",
+   "location_scope": "Hà Nội, sân bay và nơi bạn đang ở sau chuyến đi",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-022",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Chuyển cọc vướng hạn mức ngân hàng hoặc app báo lỗi tại quầy: chia hai lần, chuyển sau hay đổi cách cọc",
+   "intent": "Biết cách xử lý khi ứng dụng ngân hàng báo vượt hạn mức hoặc lỗi lúc đang chuyển cọc tại quầy: chia khoản chuyển và ghi nội dung nhất quán, xin tiệm xác nhận từng khoản, hoặc hẹn phương án khác thay vì chuyển vội qua kênh lạ.",
+   "kw": "chuyển cọc thuê xe vượt hạn mức",
+   "kw2": [
+    "app ngân hàng lỗi khi chuyển cọc thuê xe",
+    "chia hai lần chuyển khoản cọc thuê xe",
+    "chuyển cọc tại quầy bị lỗi"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy ở Hà Nội đang đặt cọc bằng chuyển khoản và gặp lỗi hoặc giới hạn của ngân hàng",
+   "location_scope": "Hà Nội, quầy cửa hàng khi chuyển khoản đặt cọc",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-023",
+   "child_id": "C-THUE-THANG",
+   "title": "Vừa nghỉ việc khi đang thuê xe theo tháng: trả xe ngay hay giữ thêm để đi phỏng vấn, và báo tiệm thế nào",
+   "intent": "Biết cách quyết định khi công việc kết thúc sớm giữa kỳ thuê tháng: so số ngày còn lại với lịch phỏng vấn sắp tới, hỏi cửa hàng cách tính phần còn lại của tháng, báo ngay bằng tin nhắn và chốt ngày trả cuối.",
+   "kw": "nghỉ việc giữa tháng thuê xe máy",
+   "kw2": [
+    "mất việc khi đang thuê xe theo tháng",
+    "trả xe thuê tháng vì nghỉ việc",
+    "giữ xe thuê tháng để đi phỏng vấn"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang thuê xe máy theo tháng ở Hà Nội vừa nghỉ việc hoặc hết hợp đồng lao động",
+   "location_scope": "Hà Nội, trao đổi với cửa hàng cho thuê xe theo tháng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-024",
+   "child_id": "C-THUE-THANG",
+   "title": "Giấy bảo hiểm bắt buộc của xe thuê tháng sắp hết hạn: nhắc tiệm cấp bản mới và chụp lưu trong điện thoại",
+   "intent": "Biết cách để ý ngày hết hạn của giấy bảo hiểm trách nhiệm dân sự bắt buộc trên xe thuê dài hạn: xem ngày trên giấy khi nhận xe, nhắc cửa hàng trước vài ngày, nhận bản mới và chụp lưu để mang theo khi đi đường.",
+   "kw": "bảo hiểm xe thuê tháng hết hạn",
+   "kw2": [
+    "giấy bảo hiểm bắt buộc xe thuê hết hạn giữa kỳ",
+    "nhắc tiệm gia hạn bảo hiểm xe thuê",
+    "xem ngày hết hạn bảo hiểm xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người thuê xe máy dài hạn ở Hà Nội, cần giấy tờ xe còn hiệu lực khi đi đường",
+   "location_scope": "Hà Nội, giấy tờ đi kèm xe thuê trong suốt kỳ thuê tháng",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-19-W3U-025",
+   "child_id": "C-THUE-THANG",
+   "title": "Mới thuê tháng được hai tuần mà chưa hài lòng: nói với tiệm thế nào trước khi đổi xe hay đổi nơi thuê",
+   "intent": "Biết cách trình bày điều chưa hài lòng với cửa hàng một cách cụ thể sau vài tuần thuê tháng: nêu việc, ngày và ảnh, đề nghị đổi xe hoặc khắc phục, và chỉ khi không ổn mới cân nhắc trả xe, nhận lại cọc và thuê nơi khác.",
+   "kw": "chưa hài lòng thuê xe theo tháng",
+   "kw2": [
+    "đổi tiệm thuê xe sau tháng đầu",
+    "góp ý với tiệm khi thuê xe tháng",
+    "trả xe thuê tháng vì không hài lòng"
+   ],
+   "links": [
+    "/thue-xe/thue-thang/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-19-W3U",
+   "audience": "người đang thuê xe máy theo tháng ở Hà Nội thấy xe hoặc dịch vụ chưa như mong đợi",
+   "location_scope": "Hà Nội, cửa hàng cho thuê xe theo tháng",
+   "word_target": 1200
+  }
+ ]
+}
