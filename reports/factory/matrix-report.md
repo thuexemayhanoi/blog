@@ -22,7 +22,7 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 - Tổng hàng: 5731
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
-- PLANNED mới: 146
+- PLANNED mới: 136
 - Năng lực danh nghĩa cũ: 10.000 hàng; tổng planned_target trong taxonomy: 6980
 
 ## Chống trùng (đã kiểm máy, tất cả PASS)
@@ -33,7 +33,7 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Chênh lệch với chỉ tiêu — BÁO THIẾU, KHÔNG ĐỆM
 
-Seed chỉ đăng ký được 146 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
+Seed chỉ đăng ký được 136 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
 
 | Child | PLANNED đã có | planned_target (seed taxonomy) |
 |---|---|---|
@@ -42,19 +42,19 @@ Seed chỉ đăng ký được 146 hàng có giá trị riêng (mỗi hàng mộ
 | C-THUE-NGAY | 25 | 180 |
 | C-THUE-TUAN | 0 | 170 |
 | C-THUE-THANG | 0 | 200 |
-| C-THUE-DAT-COC | 2 | 150 |
+| C-THUE-DAT-COC | 0 | 150 |
 | C-THUE-QUOC-TE | 0 | 140 |
-| C-THUE-NHAN-TRA | 1 | 180 |
-| C-THUE-SU-CO | 2 | 180 |
+| C-THUE-NHAN-TRA | 0 | 180 |
+| C-THUE-SU-CO | 0 | 180 |
 | C-XE-SO | 0 | 160 |
 | C-XE-GA | 25 | 160 |
 | C-XE-50CC | 20 | 140 |
-| C-XE-DIEN | 2 | 160 |
+| C-XE-DIEN | 0 | 160 |
 | C-XE-DAP-DIEN | 0 | 100 |
 | C-HONDA-WAVE | 0 | 120 |
 | C-HONDA-VISION | 0 | 120 |
 | C-HONDA-AIR-BLADE | 0 | 110 |
-| C-HONDA-CLICK | 27 | 100 |
+| C-HONDA-CLICK | 25 | 100 |
 | C-YAMAHA-SIRIUS | 0 | 100 |
 | C-BAO-DUONG | 0 | 140 |
 | C-GPLX | 25 | 150 |
@@ -88,7 +88,7 @@ Seed chỉ đăng ký được 146 hàng có giá trị riêng (mỗi hàng mộ
 | C-HD-CHON-XE | 0 | 90 |
 | C-HD-SU-CO | 0 | 90 |
 | C-HD-NGUOI-MOI | 0 | 90 |
-| C-THUE-DOI-TUONG | 3 | 80 |
+| C-THUE-DOI-TUONG | 2 | 80 |
 | C-THUE-DIA-DIEM | 2 | 70 |
 | C-XE-LUA-CHON | 2 | 80 |
 | C-XE-KHAC-PHUC | 2 | 90 |
