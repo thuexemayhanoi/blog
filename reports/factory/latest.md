@@ -6,8 +6,8 @@ Sinh bởi `scripts/factory/generate-reports.py`. Mốc dữ liệu: 2026-10-20.
 - Matrix: TẠO MỚI theo phê duyệt chủ xe 2026-09-27 (không phải khôi phục) — 5795 hàng tổng, phân tích chống trùng: `reports/factory/matrix-report.md`
 - Taxonomy: 7 parent hub, 56 child hub (khôi phục từ seed)
 - Inventory: 483 bài legacy, 100% ánh xạ, URL giữ nguyên
-- Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 5221, 'BLOCKED': 1, 'PLANNED': 90}
-- Tiến độ (bảo toàn, không reset): last_completed_article_id=BLG-05683, in_progress_chunk=None
-- Bài xuất bản qua factory: 5221
+- Trạng thái matrix: {'EXISTING': 473, 'REVIEW': 10, 'PUBLISHED': 5231, 'BLOCKED': 1, 'PLANNED': 80}
+- Tiến độ (bảo toàn, không reset): last_completed_article_id=BLG-05693, in_progress_chunk=None
+- Bài xuất bản qua factory: 5231
 - REVIEW legacy chờ xử lý: 10
 - Chi tiết: `reports/factory/progress.json`, `reports/factory/matrix-report.md`, `reports/factory/content-hierarchy.md`
