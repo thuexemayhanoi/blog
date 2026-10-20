@@ -13,19 +13,19 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 137 | 180 | /thue-xe/thue-ngay/ |
 | P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 133 | 170 | /thue-xe/thue-tuan/ |
 | P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 155 | 200 | /thue-xe/thue-thang/ |
-| P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 86 | 150 | /thue-xe/dat-coc/ |
+| P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 88 | 150 | /thue-xe/dat-coc/ |
 | P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 104 | 140 | /thue-xe/khach-quoc-te/ |
-| P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 147 | 180 | /thue-xe/nhan-tra-xe/ |
-| P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 136 | 180 | /thue-xe/su-co/ |
+| P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 148 | 180 | /thue-xe/nhan-tra-xe/ |
+| P-THUE-XE | Sự cố khi thuê xe (C-THUE-SU-CO) | 31 | 138 | 180 | /thue-xe/su-co/ |
 | P-XE-MAY | Xe số (C-XE-SO) | 3 | 143 | 160 | /xe-may/xe-so/ |
 | P-XE-MAY | Xe tay ga (C-XE-GA) | 6 | 135 | 160 | /xe-may/xe-ga/ |
 | P-XE-MAY | Xe 50cc (C-XE-50CC) | 3 | 129 | 140 | /xe-may/xe-50cc/ |
-| P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 135 | 160 | /xe-may/xe-dien/ |
+| P-XE-MAY | Xe máy điện (C-XE-DIEN) | 11 | 137 | 160 | /xe-may/xe-dien/ |
 | P-XE-MAY | Xe đạp điện (C-XE-DAP-DIEN) | 3 | 66 | 100 | /xe-may/xe-dap-dien/ |
 | P-XE-MAY | Honda Wave (C-HONDA-WAVE) | 1 | 101 | 120 | /xe-may/honda-wave/ |
 | P-XE-MAY | Honda Vision (C-HONDA-VISION) | 1 | 98 | 120 | /xe-may/honda-vision/ |
 | P-XE-MAY | Honda Air Blade (C-HONDA-AIR-BLADE) | 1 | 102 | 110 | /xe-may/honda-air-blade/ |
-| P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 58 | 100 | /xe-may/honda-click/ |
+| P-XE-MAY | Honda Click (C-HONDA-CLICK) | 1 | 60 | 100 | /xe-may/honda-click/ |
 | P-XE-MAY | Yamaha Sirius (C-YAMAHA-SIRIUS) | 0 | 76 | 100 | /xe-may/yamaha-sirius/ |
 | P-XE-MAY | Bảo dưỡng xe máy (C-BAO-DUONG) | 13 | 110 | 140 | /xe-may/bao-duong-xe/ |
 | P-PHAP-LY | Giấy phép lái xe (C-GPLX) | 2 | 106 | 150 | /an-toan-phap-ly/giay-phep-lai-xe/ |
@@ -59,13 +59,13 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 55 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
 | P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 68 | 90 | /hoi-dap/hoi-dap-su-co/ |
 | P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 47 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
-| P-THUE-XE | Thuê xe theo đối tượng (C-THUE-DOI-TUONG) | 0 | 51 | 80 | /thue-xe/thue-theo-doi-tuong/ |
-| P-THUE-XE | Thuê xe theo địa điểm (C-THUE-DIA-DIEM) | 0 | 35 | 70 | /thue-xe/thue-theo-dia-diem/ |
-| P-XE-MAY | Chọn loại xe khi thuê (C-XE-LUA-CHON) | 0 | 46 | 80 | /xe-may/chon-loai-xe/ |
-| P-XE-MAY | Xử lý sự cố xe máy thuê (C-XE-KHAC-PHUC) | 0 | 53 | 90 | /xe-may/xu-ly-su-co-xe/ |
+| P-THUE-XE | Thuê xe theo đối tượng (C-THUE-DOI-TUONG) | 0 | 54 | 80 | /thue-xe/thue-theo-doi-tuong/ |
+| P-THUE-XE | Thuê xe theo địa điểm (C-THUE-DIA-DIEM) | 0 | 37 | 70 | /thue-xe/thue-theo-dia-diem/ |
+| P-XE-MAY | Chọn loại xe khi thuê (C-XE-LUA-CHON) | 0 | 48 | 80 | /xe-may/chon-loai-xe/ |
+| P-XE-MAY | Xử lý sự cố xe máy thuê (C-XE-KHAC-PHUC) | 0 | 55 | 90 | /xe-may/xu-ly-su-co-xe/ |
 | P-XE-MAY | So sánh khi thuê xe máy (C-XE-SO-SANH) | 0 | 93 | 90 | /xe-may/so-sanh-xe/ |
 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5147 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5165 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
