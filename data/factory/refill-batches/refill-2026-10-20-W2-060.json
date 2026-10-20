@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-060: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-001",
+   "child_id": "C-GPLX",
+   "title": "Người khiếm thính, nghe kém có thi được bằng lái xe máy A1 không: đọc đúng tiêu chuẩn sức khỏe hiện hành",
+   "intent": "Hiểu tiêu chuẩn sức khỏe người lái xe hiện hành của Bộ Y tế có đặt yêu cầu thính lực với hạng A1 hay không, để người nghe kém chuẩn bị khám và đăng ký học đúng.",
+   "kw": "khiếm thính thi bằng lái xe máy",
+   "kw2": [
+    "người điếc có được thi bằng a1",
+    "tiêu chuẩn sức khỏe thi bằng a1"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người khiếm thính hoặc nghe kém muốn tự lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-002",
+   "child_id": "C-GPLX",
+   "title": "Cụt một đốt ngón tay hay yếu một bên chân có thi bằng A1 lái xe hai bánh được không",
+   "intent": "Nắm tiêu chí về tay, chân và vận động trong tiêu chuẩn sức khỏe hạng A1, để biết khi nào vẫn thi xe hai bánh và khi nào nên hỏi hạng dành cho người khuyết tật.",
+   "kw": "cụt ngón tay thi bằng a1",
+   "kw2": [
+    "yếu chân có thi bằng lái xe máy",
+    "tiêu chuẩn cơ xương khớp lái xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có tổn thương nhẹ ở tay hoặc chân muốn học bằng A1",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-003",
+   "child_id": "C-GPLX",
+   "title": "Chạy xe ôm hoặc giao hàng bằng xe máy ở Hà Nội: bằng A1 đã đủ hay cần giấy phép lái xe hạng khác",
+   "intent": "Nắm hạng giấy phép lái xe cần có khi chở khách, giao hàng bằng xe máy ở Hà Nội theo dung tích hoặc công suất xe, và vì sao giữ điểm giấy phép quan trọng với công việc.",
+   "kw": "chạy xe ôm cần bằng lái gì",
+   "kw2": [
+    "giao hàng xe máy cần bằng gì",
+    "shipper cần bằng lái hạng nào"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người mới chạy xe ôm, giao hàng bán thời gian bằng xe máy",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-004",
+   "child_id": "C-GPLX",
+   "title": "Đổi, cấp lại bằng lái xe máy mất những khoản phí nào: lệ phí theo biểu phí hiện hành và cách nộp trực tuyến",
+   "intent": "Nắm lệ phí cấp đổi, cấp lại giấy phép lái xe theo biểu phí Bộ Tài chính đang áp dụng, cách thanh toán khi nộp hồ sơ trực tuyến và những khoản người làm thủ tục không phải trả.",
+   "kw": "lệ phí đổi bằng lái xe máy",
+   "kw2": [
+    "phí cấp lại bằng lái xe máy",
+    "đổi bằng lái hết bao nhiêu tiền"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người dân Hà Nội chuẩn bị đổi hoặc cấp lại bằng lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-005",
+   "child_id": "C-GPLX",
+   "title": "Ảnh trên bằng lái xe máy chụp từ nhiều năm trước, nay trông khác hẳn: có bắt buộc phải đổi bằng mới không",
+   "intent": "Hiểu các trường hợp pháp luật yêu cầu đổi giấy phép lái xe, để biết ảnh cũ khác diện mạo hiện tại có buộc phải đổi không và khi nào nên chủ động đổi sang thẻ mới.",
+   "kw": "ảnh bằng lái cũ có phải đổi",
+   "kw2": [
+    "ảnh trên bằng lái khác mặt",
+    "bằng lái lâu năm có phải đổi"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có bằng lái xe máy cấp đã lâu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-006",
+   "child_id": "C-GPLX",
+   "title": "Không nhớ số giấy phép lái xe máy khi làm thủ tục cấp lại: tìm lại số bằng qua VNeID và các kênh chính thức",
+   "intent": "Biết cách tìm lại số giấy phép lái xe máy đã mất hoặc thất lạc qua các kênh chính thức, phục vụ đơn đề nghị cấp lại mà không phải nhờ dịch vụ tra cứu trôi nổi.",
+   "kw": "quên số giấy phép lái xe",
+   "kw2": [
+    "tìm lại số bằng lái xe máy",
+    "số bằng lái trên vneid"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người mất bằng lái xe máy không còn bản chụp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-007",
+   "child_id": "C-GPLX",
+   "title": "Giấy phép lái xe quốc tế do Việt Nam cấp có dùng thay bằng A1 khi đi xe máy trong nước được không",
+   "intent": "Hiểu phạm vi sử dụng của giấy phép lái xe quốc tế do Việt Nam cấp, để không mang nhầm giấy tờ khi lái xe máy ở Hà Nội và biết phải xuất trình loại giấy phép nào.",
+   "kw": "bằng lái quốc tế dùng trong nước",
+   "kw2": [
+    "idp việt nam cấp dùng ở đâu",
+    "giấy phép lái xe quốc tế trong nước"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người Hà Nội đã xin giấy phép lái xe quốc tế",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-008",
+   "child_id": "C-GPLX",
+   "title": "Người nước ngoài sống ở Hà Nội nhiều năm: tiếp tục dùng IDP hay đổi sang giấy phép lái xe Việt Nam",
+   "intent": "Lên kế hoạch giấy phép lái xe cho người nước ngoài cư trú dài hạn ở Hà Nội, cân nhắc thời hạn IDP, điều kiện đổi bằng quốc gia và giấy tờ cư trú cần chuẩn bị.",
+   "kw": "idp hay đổi bằng việt nam",
+   "kw2": [
+    "người nước ngoài ở lâu dùng idp",
+    "expat đổi bằng lái xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người nước ngoài làm việc, sinh sống dài hạn ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-009",
+   "child_id": "C-GPLX",
+   "title": "Bằng lái Việt Nam đổi cho người nước ngoài có thời hạn bao lâu: theo thị thực, thẻ tạm trú hay thường trú",
+   "intent": "Hiểu cách xác định thời hạn giấy phép lái xe Việt Nam cấp đổi cho người nước ngoài theo giấy tờ cư trú, và việc cần làm khi gia hạn thị thực hoặc thẻ tạm trú.",
+   "kw": "thời hạn bằng lái người nước ngoài",
+   "kw2": [
+    "bằng lái việt nam theo thẻ tạm trú",
+    "gia hạn bằng lái người nước ngoài"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người nước ngoài đã hoặc sắp đổi sang bằng lái Việt Nam",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-010",
+   "child_id": "C-GPLX",
+   "title": "Bằng lái nước ngoài ghi hạng xe máy bằng ký hiệu riêng như M, R hay A2: hạng tương ứng khi đổi sang Việt Nam",
+   "intent": "Nắm cách đối chiếu phạm vi xe ghi trên giấy phép lái xe nước ngoài với hạng A1, A của Việt Nam khi đổi bằng, tránh nhận hạng thấp hơn loại xe máy định lái.",
+   "kw": "đối chiếu hạng bằng lái nước ngoài",
+   "kw2": [
+    "bằng lái hạng m đổi sang a",
+    "hạng bằng nước ngoài sang việt nam"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có bằng lái xe máy do nước ngoài cấp",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-011",
+   "child_id": "C-GPLX",
+   "title": "Người Việt du học hoặc làm việc ở nước ngoài về nước: đổi bằng lái xe máy nước sở tại sang giấy phép Việt Nam",
+   "intent": "Nắm điều kiện để công dân Việt Nam được đổi giấy phép lái xe do nước ngoài cấp trong thời gian cư trú, học tập, làm việc ở đó, cùng hồ sơ và nơi nộp tại Hà Nội.",
+   "kw": "người việt đổi bằng lái nước ngoài",
+   "kw2": [
+    "du học sinh đổi bằng lái về nước",
+    "đổi bằng lái nhật sang việt nam"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "du học sinh, người lao động Việt Nam trở về sau thời gian ở nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-012",
+   "child_id": "C-GPLX",
+   "title": "Bằng lái nước ngoài hết hạn, bằng tạm thời hay chỉ có IDP: những trường hợp không được đổi sang bằng Việt Nam",
+   "intent": "Hiểu các trường hợp giấy phép lái xe nước ngoài bị từ chối đổi theo quy định hiện hành của Bộ Công an, để chọn cách hợp lệ khác như học và sát hạch hạng A1 tại Việt Nam.",
+   "kw": "bằng lái nước ngoài hết hạn",
+   "kw2": [
+    "bằng lái tạm thời nước ngoài",
+    "không được đổi bằng lái nước ngoài"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có bằng lái nước ngoài không đủ điều kiện đổi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-013",
+   "child_id": "C-GPLX",
+   "title": "Thấy điểm giấy phép lái xe bị trừ nhầm trên VNeID: đối chiếu quyết định xử phạt và quyền khiếu nại thế nào",
+   "intent": "Biết cách đối chiếu dữ liệu trừ điểm với quyết định xử phạt, nhận diện sai sót và thực hiện quyền khiếu nại hoặc đề nghị điều chỉnh đúng cơ quan, đúng thời hạn.",
+   "kw": "bị trừ điểm bằng lái nhầm",
+   "kw2": [
+    "khiếu nại trừ điểm giấy phép lái xe",
+    "điểm bằng lái sai trên vneid"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có bằng lái xe máy phát hiện điểm bị trừ không đúng",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-014",
+   "child_id": "C-GPLX",
+   "title": "Đã đóng tiền học bằng A1 mà cơ sở đào tạo mãi chưa xếp lịch thi: hỏi ai và phản ánh ở đâu tại Hà Nội",
+   "intent": "Nắm quyền của học viên khi cơ sở đào tạo chậm đưa vào kỳ sát hạch, giấy tờ cần giữ lại và cơ quan quản lý ở Hà Nội để gửi phản ánh đúng nơi, đúng cách.",
+   "kw": "trung tâm chậm xếp lịch thi a1",
+   "kw2": [
+    "phản ánh cơ sở đào tạo lái xe",
+    "học a1 lâu chưa được thi"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "học viên đã đăng ký học bằng A1 ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-015",
+   "child_id": "C-GPLX",
+   "title": "Học bằng A1 ở Hà Nội từ năm 2025: cơ sở đào tạo do ngành xây dựng quản lý, sát hạch và cấp bằng do công an",
+   "intent": "Hiểu sự phân công giữa cơ quan quản lý đào tạo lái xe và Công an thành phố trong sát hạch, cấp giấy phép, để biết mỗi bước học A1 cần liên hệ nơi nào.",
+   "kw": "ai tổ chức sát hạch bằng a1",
+   "kw2": [
+    "sở xây dựng quản lý đào tạo lái xe",
+    "công an sát hạch bằng a1"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người chuẩn bị học và thi bằng A1 lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-016",
+   "child_id": "C-GPLX",
+   "title": "Chưa từng biết đi xe máy mà muốn thi bằng A1: tập từ dắt xe, giữ thăng bằng đến khi vào được bài sa hình",
+   "intent": "Lên kế hoạch tập luyện từ đầu cho người chưa từng điều khiển xe máy, chọn nơi tập hợp pháp và an toàn trước khi luyện các bài sát hạch thực hành hạng A1.",
+   "kw": "chưa biết đi xe máy thi a1",
+   "kw2": [
+    "tập đi xe máy từ đầu",
+    "người mới tập xe máy hà nội"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người trưởng thành chưa từng đi xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-017",
+   "child_id": "C-GPLX",
+   "title": "Có bằng A1 nhưng nhiều năm không đi xe máy: bằng còn giá trị không, lấy lại tay lái thế nào trước khi thuê xe",
+   "intent": "Hiểu giá trị của giấy phép hạng A1 không thời hạn với người lâu không lái, và lên kế hoạch tập lại kỹ năng trước khi tự điều khiển xe máy thuê giữa phố Hà Nội.",
+   "kw": "lâu năm không đi xe máy",
+   "kw2": [
+    "bằng a1 để lâu còn giá trị",
+    "tập lại xe máy sau nhiều năm"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có bằng A1 lâu năm chủ yếu đi ô tô hoặc từng sống ở nước ngoài",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-018",
+   "child_id": "C-GPLX",
+   "title": "Ngày trúng tuyển, ngày cấp và thời hạn in trên thẻ bằng lái xe máy: đọc đúng từng mục trước khi làm thủ tục",
+   "intent": "Hiểu ý nghĩa từng mục in trên thẻ giấy phép lái xe máy, nhất là ngày trúng tuyển, ngày cấp và thời hạn, để tự kiểm tra bằng trước khi thuê xe hoặc đổi, cấp lại.",
+   "kw": "ngày trúng tuyển trên bằng lái",
+   "kw2": [
+    "thông tin in trên bằng lái xe máy",
+    "ngày cấp khác ngày trúng tuyển"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người có bằng lái xe máy thẻ PET hoặc mẫu mới",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-019",
+   "child_id": "C-GPLX",
+   "title": "Bị giữ bằng lái khi đi xe máy ở tỉnh khác, đã về Hà Nội: nộp phạt trực tuyến, nhận giấy tờ qua bưu chính",
+   "intent": "Biết cách nộp phạt trên Cổng Dịch vụ công và đăng ký nhận lại giấy phép lái xe bị tạm giữ qua bưu chính khi nơi vi phạm cách xa nơi đang sống ở Hà Nội.",
+   "kw": "nhận lại bằng lái qua bưu điện",
+   "kw2": [
+    "nộp phạt online nhận lại giấy tờ",
+    "bị giữ bằng lái ở tỉnh khác"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người Hà Nội đi xe máy về quê hoặc đi chơi tỉnh khác bị lập biên bản",
+   "location_scope": "Hà Nội và các tỉnh lân cận",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-020",
+   "child_id": "C-GPLX",
+   "title": "Chỉ xuất trình bằng lái trên VNeID khi bị kiểm tra: tạm giữ giấy phép lái xe điện tử diễn ra thế nào",
+   "intent": "Hiểu cách cảnh sát giao thông tạm giữ giấy phép lái xe trên môi trường điện tử khi người vi phạm xuất trình qua VNeID, trạng thái hiển thị và cách được trả lại sau khi chấp hành.",
+   "kw": "tạm giữ bằng lái trên vneid",
+   "kw2": [
+    "tạm giữ giấy tờ điện tử",
+    "bằng lái vneid bị tạm giữ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người lái xe máy dùng giấy phép tích hợp trên VNeID",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-021",
+   "child_id": "C-GPLX",
+   "title": "Ốm hoặc có việc gấp đúng ngày sát hạch A1: báo vắng, giữ hồ sơ và đăng ký kỳ thi sau thế nào",
+   "intent": "Biết cách xử lý khi không thể dự kỳ sát hạch A1 đã đăng ký, gồm báo cơ sở đào tạo, giữ hồ sơ hợp lệ và đăng ký vào kỳ sát hạch kế tiếp theo quy định hiện hành.",
+   "kw": "vắng thi sát hạch a1",
+   "kw2": [
+    "hoãn thi bằng a1",
+    "không đi thi bằng lái được không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "thí sinh đã có lịch sát hạch A1 ở Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-022",
+   "child_id": "C-GPLX",
+   "title": "Đổi bằng lái xe máy bao lâu thì nhận được thẻ mới: thời hạn giải quyết và cách theo dõi tình trạng hồ sơ",
+   "intent": "Nắm thời hạn giải quyết hồ sơ đổi giấy phép lái xe theo quy định, cách tra tình trạng hồ sơ trực tuyến hoặc tại nơi nộp và hình thức nhận thẻ để chủ động lịch đi lại.",
+   "kw": "đổi bằng lái bao lâu có thẻ",
+   "kw2": [
+    "thời gian đổi bằng lái xe máy",
+    "theo dõi hồ sơ đổi bằng lái"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người vừa nộp hồ sơ đổi bằng lái xe máy",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-023",
+   "child_id": "C-GPLX",
+   "title": "Đang ở nước ngoài thì làm mất bằng lái xe máy Việt Nam: đề nghị cấp lại lúc nào và nhận thẻ thế nào",
+   "intent": "Lên kế hoạch cấp lại giấy phép lái xe máy Việt Nam bị mất khi đang học tập, làm việc ở nước ngoài, cân nhắc nộp hồ sơ trực tuyến hay chờ về nước và dùng giấy phép trên VNeID.",
+   "kw": "mất bằng lái khi ở nước ngoài",
+   "kw2": [
+    "cấp lại bằng lái từ nước ngoài",
+    "việt kiều mất bằng lái xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người Việt đang học tập, làm việc ở nước ngoài",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-024",
+   "child_id": "C-GPLX",
+   "title": "Bằng lái xe máy vẫn ghi địa chỉ quận, phường cũ của Hà Nội: có phải đổi sau sắp xếp đơn vị hành chính",
+   "intent": "Hiểu giá trị của giấy phép lái xe còn ghi địa chỉ theo quận, phường cũ sau khi Hà Nội sắp xếp đơn vị hành chính, và khi nào việc đổi bằng là cần thiết hay chỉ là tùy chọn.",
+   "kw": "bằng lái ghi địa chỉ cũ",
+   "kw2": [
+    "sắp xếp phường có phải đổi bằng lái",
+    "đổi địa chỉ trên bằng lái xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người dân Hà Nội có bằng lái ghi địa chỉ trước năm 2025",
+   "location_scope": "các phường, xã của Hà Nội sau sắp xếp",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-060-025",
+   "child_id": "C-GPLX",
+   "title": "Mua giấy khám sức khỏe không qua khám để thi hoặc đổi bằng lái xe máy: rủi ro bị thu hồi giấy phép và xử lý",
+   "intent": "Hiểu vì sao giấy khám sức khỏe lái xe không qua khám thực tế là giấy tờ không hợp lệ, hậu quả với hồ sơ và giấy phép đã cấp, cùng cách khám đúng ở cơ sở đủ điều kiện.",
+   "kw": "mua giấy khám sức khỏe lái xe",
+   "kw2": [
+    "giấy khám sức khỏe giả thi bằng lái",
+    "khám sức khỏe lái xe không cần khám"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-phep-lai-xe/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-060",
+   "audience": "người chuẩn bị hồ sơ thi bằng A1",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
