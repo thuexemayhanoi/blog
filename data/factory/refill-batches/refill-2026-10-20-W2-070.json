@@ -1,0 +1,484 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-070: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-001",
+   "child_id": "C-GIAY-TO",
+   "title": "Đi xe máy mượn mà chủ xe chỉ có đăng ký xe điện tử trên VNeID: người mượn xuất trình giấy tờ thế nào",
+   "intent": "Hiểu vì sao chứng nhận đăng ký xe điện tử chỉ hiển thị trong tài khoản VNeID của chủ xe và cách người mượn chuẩn bị giấy tờ xe hợp lệ trước khi chạy xe ở Hà Nội.",
+   "kw": "đi xe mượn đăng ký trên vneid",
+   "kw2": [
+    "xuất trình đăng ký xe điện tử",
+    "người mượn xe xuất trình giấy tờ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mượn xe máy của người thân, bạn bè",
+   "location_scope": "nội thành Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-002",
+   "child_id": "C-GIAY-TO",
+   "title": "Đi xe máy đứng tên công ty ở Hà Nội: nhân viên cần mang những giấy tờ gì khi bị dừng kiểm tra",
+   "intent": "Nắm bộ giấy tờ nhân viên phải mang khi điều khiển xe máy đứng tên doanh nghiệp, cách xử lý khi công ty giữ bản gốc đăng ký và những điều nên thống nhất với người quản lý xe.",
+   "kw": "xe máy đứng tên công ty",
+   "kw2": [
+    "nhân viên đi xe công ty",
+    "giấy tờ xe máy doanh nghiệp"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "nhân viên được giao xe máy của công ty, hộ kinh doanh",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-003",
+   "child_id": "C-GIAY-TO",
+   "title": "Cầm giấy đăng ký xe máy ở tiệm cầm đồ mà vẫn đi xe hằng ngày: rủi ro khi bị kiểm tra giấy tờ",
+   "intent": "Hiểu khác biệt giữa cầm giấy đăng ký ở tiệm cầm đồ và thế chấp xe tại tổ chức tín dụng theo Luật Trật tự, an toàn giao thông đường bộ 2024 để tránh đi xe thiếu giấy tờ.",
+   "kw": "cầm cà vạt xe máy",
+   "kw2": [
+    "cầm đăng ký xe vẫn đi xe",
+    "tiệm cầm đồ giữ cà vạt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người cần vay tiền nhanh bằng giấy đăng ký xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-004",
+   "child_id": "C-GIAY-TO",
+   "title": "Tài khoản VNeID mới ở mức 1: nâng lên mức 2 ở đâu tại Hà Nội để xuất trình giấy tờ khi đi xe máy",
+   "intent": "Biết cách phân biệt tài khoản định danh điện tử mức 1 và mức 2, chuẩn bị thủ tục nâng cấp tại công an xã, phường ở Hà Nội để tích hợp và xuất trình giấy tờ xe.",
+   "kw": "nâng cấp vneid mức 2",
+   "kw2": [
+    "tài khoản định danh mức 2",
+    "kích hoạt vneid mức 2 hà nội"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mới kích hoạt VNeID trên điện thoại",
+   "location_scope": "các phường, xã của Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-005",
+   "child_id": "C-GIAY-TO",
+   "title": "Việt kiều còn quốc tịch Việt Nam về Hà Nội dài ngày: xin cấp thẻ căn cước để đi xe máy và làm giấy tờ",
+   "intent": "Nắm điều kiện công dân Việt Nam định cư ở nước ngoài được cấp thẻ căn cước theo Luật Căn cước 2023, hồ sơ cần chuẩn bị và giấy tờ tùy thân dùng tạm khi chưa có thẻ.",
+   "kw": "việt kiều làm căn cước",
+   "kw2": [
+    "người định cư nước ngoài cấp căn cước",
+    "việt kiều về nước giấy tờ tùy thân"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người Việt định cư ở nước ngoài về thăm quê dài ngày",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-006",
+   "child_id": "C-GIAY-TO",
+   "title": "Đang chờ cấp lại hoặc cấp đổi thẻ căn cước: giấy hẹn trả thẻ có dùng thay khi đi xe máy được không",
+   "intent": "Hiểu giá trị của giấy hẹn trả thẻ căn cước, cách dùng căn cước điện tử trên VNeID trong thời gian chờ và những giấy tờ khác nên mang khi lái xe máy ở Hà Nội.",
+   "kw": "đang chờ cấp lại căn cước",
+   "kw2": [
+    "giấy hẹn trả thẻ căn cước",
+    "căn cước điện tử khi chờ thẻ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người vừa nộp hồ sơ làm lại thẻ căn cước",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-007",
+   "child_id": "C-GIAY-TO",
+   "title": "Căn cước công dân gắn chip còn hạn: có bắt buộc đổi sang thẻ căn cước mẫu mới để đi xe máy, làm thủ tục",
+   "intent": "Nắm quy định chuyển tiếp của Luật Căn cước 2023 với thẻ căn cước công dân còn hạn, điểm khác giữa hai mẫu thẻ và khi nào người đi xe máy thật sự cần làm thẻ mới.",
+   "kw": "cccd gắn chip có phải đổi",
+   "kw2": [
+    "căn cước công dân còn hạn",
+    "đổi sang thẻ căn cước mới"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người đang dùng căn cước công dân gắn chip",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-008",
+   "child_id": "C-GIAY-TO",
+   "title": "Người ngoại tỉnh sống ở Hà Nội cần cấp đổi, cấp lại thẻ căn cước: làm ở đâu mà không phải về quê",
+   "intent": "Biết cách chọn nơi làm thủ tục cấp đổi, cấp lại thẻ căn cước khi đang tạm trú ở Hà Nội, cách đặt lịch hoặc nộp trực tuyến và giấy tờ mang theo khi đến cơ quan công an.",
+   "kw": "làm căn cước ở nơi tạm trú",
+   "kw2": [
+    "cấp đổi căn cước không về quê",
+    "làm lại căn cước ở hà nội"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người lao động, sinh viên ngoại tỉnh đang tạm trú",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-009",
+   "child_id": "C-GIAY-TO",
+   "title": "Đăng ký xe máy ghi số chứng minh nhân dân cũ hoặc họ tên trước khi cải chính: khi nào phải đổi cho khớp",
+   "intent": "Hiểu trường hợp thông tin chủ xe trên chứng nhận đăng ký lệch với thẻ căn cước, ảnh hưởng tới việc hiển thị trên VNeID và thủ tục đổi đăng ký theo Thông tư 79/2024/TT-BCA.",
+   "kw": "đăng ký xe ghi số cmnd",
+   "kw2": [
+    "đổi đăng ký xe theo căn cước",
+    "đăng ký xe không hiện trên vneid"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "chủ xe máy đăng ký từ thời chứng minh nhân dân",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-010",
+   "child_id": "C-GIAY-TO",
+   "title": "Giấy đăng ký xe máy in sai số khung, số máy hoặc nhãn hiệu so với xe thật: đề nghị cấp đổi thế nào",
+   "intent": "Biết cách phát hiện sai lệch giữa thông tin in trên chứng nhận đăng ký và xe thực tế, chuẩn bị hồ sơ đề nghị cấp đổi và giữ giấy tờ gì trong thời gian chờ cấp lại.",
+   "kw": "đăng ký xe in sai số khung",
+   "kw2": [
+    "sai thông tin giấy đăng ký xe",
+    "cấp đổi đăng ký xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "chủ xe vừa nhận đăng ký mới hoặc vừa sang tên",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-011",
+   "child_id": "C-GIAY-TO",
+   "title": "Lệ phí trước bạ khi mua xe máy ở Hà Nội: cách tính cho xe mới, xe cũ sang tên và cách nộp trực tuyến",
+   "intent": "Nắm cách xác định giá tính lệ phí trước bạ, mức áp dụng hiện hành cho xe máy đăng ký lần đầu và lần tiếp theo, cùng cách nộp, lưu chứng từ để làm đăng ký xe.",
+   "kw": "lệ phí trước bạ xe máy",
+   "kw2": [
+    "trước bạ xe máy hà nội",
+    "trước bạ khi sang tên xe máy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mua xe máy mới hoặc xe máy cũ",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-012",
+   "child_id": "C-GIAY-TO",
+   "title": "Giấy bán xe máy cũ giữa hai cá nhân ở Hà Nội: công chứng hay chứng thực và cần ghi những thông tin gì",
+   "intent": "Biết cách lập giấy bán, cho xe máy đúng yêu cầu chứng từ chuyển quyền sở hữu, chọn nơi công chứng hoặc chứng thực và soát các thông tin bắt buộc trước khi ký.",
+   "kw": "giấy bán xe máy công chứng",
+   "kw2": [
+    "hợp đồng mua bán xe máy cũ",
+    "chứng thực giấy bán xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mua bán xe máy cũ trực tiếp với nhau",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-013",
+   "child_id": "C-GIAY-TO",
+   "title": "Nhờ người khác làm thủ tục đăng ký, sang tên hoặc thu hồi xe máy: lập văn bản ủy quyền thế nào cho hợp lệ",
+   "intent": "Nắm khi nào được ủy quyền cho người khác đến cơ quan đăng ký xe, nội dung và hình thức văn bản ủy quyền cần có, kể cả khi chủ xe đang ở tỉnh khác hoặc ở nước ngoài.",
+   "kw": "ủy quyền đăng ký xe máy",
+   "kw2": [
+    "ủy quyền sang tên xe máy",
+    "giấy ủy quyền làm thủ tục xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "chủ xe bận việc, đang ở xa hoặc lớn tuổi",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-014",
+   "child_id": "C-GIAY-TO",
+   "title": "Xe máy không giấy tờ rao bán giá rẻ trên mạng: vì sao khó đăng ký và rủi ro khi chạy ngoài đường",
+   "intent": "Hiểu vì sao xe máy thiếu chứng từ nguồn gốc và chứng nhận đăng ký không làm được đăng ký đứng tên, các rủi ro pháp lý khi mua, khi lưu thông và cách từ chối lời mời chào.",
+   "kw": "xe máy không giấy tờ",
+   "kw2": [
+    "mua xe không giấy tờ",
+    "xe không giấy tờ có đăng ký được"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người tìm mua xe máy cũ giá rẻ",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-015",
+   "child_id": "C-GIAY-TO",
+   "title": "Đi xe máy mượn bị phát hiện thiếu giấy tờ của xe: lỗi nào người lái chịu, lỗi nào thuộc về chủ xe",
+   "intent": "Hiểu cách Nghị định 168/2024/NĐ-CP phân biệt lỗi của người điều khiển với lỗi của chủ xe, để kiểm tra đăng ký và bảo hiểm TNDS bắt buộc trước khi nhận xe mượn.",
+   "kw": "lỗi giấy tờ xe mượn ai chịu",
+   "kw2": [
+    "đi xe mượn bảo hiểm hết hạn",
+    "người lái hay chủ xe bị phạt"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mượn xe máy của người quen",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-016",
+   "child_id": "C-GIAY-TO",
+   "title": "Trưởng đoàn phượt xe máy từ Hà Nội: soát căn cước, bằng lái, đăng ký và bảo hiểm của cả đoàn trước khi đi",
+   "intent": "Lên kế hoạch soát giấy tờ cho từng người lái và từng xe trong đoàn phượt, xử lý thành viên thiếu giấy tờ và lưu danh sách liên hệ trước giờ rời Hà Nội.",
+   "kw": "kiểm tra giấy tờ cả đoàn phượt",
+   "kw2": [
+    "giấy tờ đi phượt xe máy",
+    "trưởng đoàn phượt chuẩn bị giấy tờ"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người tổ chức chuyến đi nhóm bằng xe máy",
+   "location_scope": "xuất phát từ Hà Nội đi các tỉnh phía Bắc",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-017",
+   "child_id": "C-GIAY-TO",
+   "title": "Mua mô tô phân khối lớn nhập khẩu ở Hà Nội: tờ khai hải quan, giấy kiểm tra chất lượng và hồ sơ đăng ký",
+   "intent": "Nắm bộ chứng từ nguồn gốc mà mô tô nhập khẩu cần có để đăng ký lần đầu, cách đối chiếu với cửa hàng trước khi trả tiền và các bước đăng ký xe tại Hà Nội.",
+   "kw": "đăng ký mô tô nhập khẩu",
+   "kw2": [
+    "tờ khai hải quan xe máy",
+    "giấy tờ xe phân khối lớn"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mua mô tô phân khối lớn lần đầu",
+   "location_scope": "Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-018",
+   "child_id": "C-GIAY-TO",
+   "title": "Mua xe máy thanh lý từ tài sản tịch thu qua đấu giá: giấy tờ cần nhận để đăng ký đứng tên mình",
+   "intent": "Hiểu các chứng từ phải nhận sau khi trúng đấu giá xe máy thanh lý, tịch thu như quyết định, hóa đơn, biên bản bàn giao và thủ tục đăng ký xe theo quy định của Bộ Công an.",
+   "kw": "đăng ký xe máy thanh lý",
+   "kw2": [
+    "mua xe tịch thu đấu giá",
+    "giấy tờ xe đấu giá"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mua xe máy qua đấu giá tài sản",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-019",
+   "child_id": "C-GIAY-TO",
+   "title": "Xe máy biển Vĩnh Phúc, Bắc Giang, Hà Nam sau sáp nhập tỉnh: có phải đổi biển số khi thường xuyên đi Hà Nội",
+   "intent": "Hiểu hiệu lực của biển số và đăng ký xe cấp trước đợt sắp xếp tỉnh năm 2025, trường hợp nào bắt buộc đổi và khi nào chỉ là tự nguyện với người hay đi lại Hà Nội.",
+   "kw": "biển số tỉnh cũ sau sáp nhập",
+   "kw2": [
+    "xe biển vĩnh phúc bắc giang",
+    "có phải đổi biển sau sáp nhập"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người ở các tỉnh giáp Hà Nội đi làm, đi học bằng xe máy",
+   "location_scope": "Hà Nội và Phú Thọ, Bắc Ninh, Ninh Bình mới",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-020",
+   "child_id": "C-GIAY-TO",
+   "title": "Đã báo mất thẻ căn cước rồi lại tìm thấy: thẻ cũ còn dùng được không và cần làm gì trước khi đi xe máy",
+   "intent": "Hiểu tình trạng của thẻ căn cước sau khi đã báo mất hoặc đã đề nghị cấp lại, cách kiểm tra trên VNeID và việc nộp lại thẻ cũ cho cơ quan quản lý căn cước.",
+   "kw": "tìm lại căn cước đã báo mất",
+   "kw2": [
+    "mở khóa thẻ căn cước",
+    "thẻ căn cước cũ tìm thấy"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người vừa tìm lại thẻ căn cước bị thất lạc",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-021",
+   "child_id": "C-GIAY-TO",
+   "title": "Mất giấy đăng ký của xe máy biển tỉnh khi đang sống ở Hà Nội: cấp lại ở đâu và có phải về quê không",
+   "intent": "Biết cách đề nghị cấp lại chứng nhận đăng ký cho xe máy đăng ký ở tỉnh khác khi đang ở Hà Nội, kênh nộp hồ sơ trực tuyến và giấy tờ dùng trong lúc chờ.",
+   "kw": "mất đăng ký xe biển tỉnh",
+   "kw2": [
+    "cấp lại đăng ký xe ở hà nội",
+    "mất cà vạt xe đăng ký ở quê"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người ngoại tỉnh mang xe của mình lên Hà Nội",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-022",
+   "child_id": "C-GIAY-TO",
+   "title": "Hai người góp tiền mua chung một chiếc xe máy ở Hà Nội: đăng ký đứng tên ai và lập giấy thỏa thuận thế nào",
+   "intent": "Hiểu cách ghi tên chủ xe trên chứng nhận đăng ký khi nhiều người góp tiền mua chung, rủi ro với người không đứng tên và cách lập văn bản thỏa thuận sử dụng, bán lại xe.",
+   "kw": "mua chung xe máy đứng tên",
+   "kw2": [
+    "góp tiền mua xe máy",
+    "giấy thỏa thuận xe mua chung"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "bạn bè, anh em, người yêu góp tiền mua xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-023",
+   "child_id": "C-GIAY-TO",
+   "title": "Nhận cầm xe máy của người quen mà họ không chuộc lại: có được tự sang tên đứng tên mình không",
+   "intent": "Hiểu vì sao giữ xe cầm cố không làm phát sinh quyền đứng tên đăng ký, giấy tờ cần có để xử lý tài sản cầm cố đúng luật và rủi ro khi tiếp tục chạy chiếc xe đó.",
+   "kw": "nhận cầm xe không chuộc",
+   "kw2": [
+    "cầm xe máy người quen",
+    "xe cầm cố có sang tên được không"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người cho bạn bè, người quen vay tiền và giữ xe",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-024",
+   "child_id": "C-GIAY-TO",
+   "title": "Mua xe máy mới làm quà tặng người thân ở Hà Nội: hóa đơn ghi tên ai để người nhận tự đăng ký đứng tên",
+   "intent": "Biết cách thống nhất với đại lý tên người mua trên hóa đơn điện tử, giấy tờ tặng cho cần có nếu hóa đơn ghi tên mình và cách để người nhận tự làm đăng ký xe.",
+   "kw": "mua xe máy tặng người thân",
+   "kw2": [
+    "hóa đơn mua xe ghi tên ai",
+    "tặng xe máy mới đăng ký"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người mua xe máy mới tặng bố mẹ, con cái, người yêu",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-070-025",
+   "child_id": "C-GIAY-TO",
+   "title": "Mất hóa đơn hoặc phiếu xuất xưởng khi chưa kịp đăng ký xe máy mới: xin lại ở đâu để làm biển số",
+   "intent": "Nắm vai trò của hóa đơn điện tử và phiếu kiểm tra chất lượng xuất xưởng trong hồ sơ đăng ký lần đầu, cách tra cứu, đề nghị đại lý cấp lại và giữ xe thế nào trong lúc chờ.",
+   "kw": "mất hóa đơn xe máy mới",
+   "kw2": [
+    "mất phiếu xuất xưởng xe máy",
+    "xin lại hóa đơn mua xe"
+   ],
+   "links": [
+    "/an-toan-phap-ly/giay-to/",
+    "/an-toan-phap-ly/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-070",
+   "audience": "người vừa mua xe máy mới chưa đăng ký",
+   "location_scope": "Hà Nội",
+   "word_target": 1200
+  }
+ ]
+}
