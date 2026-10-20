@@ -1,5 +1,27 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-20T03:37:04Z",
-  "leases": {}
+  "updated_at": "2026-10-20T03:37:13Z",
+  "leases": {
+    "W3": {
+      "ids": [
+        "BLG-05478",
+        "BLG-05479",
+        "BLG-05480",
+        "BLG-05481",
+        "BLG-05482",
+        "BLG-05483",
+        "BLG-05484",
+        "BLG-05485",
+        "BLG-05486",
+        "BLG-05487"
+      ],
+      "session": "s-claude-w3",
+      "epoch": 1,
+      "claimed_at": "2026-10-20T03:37:13Z",
+      "heartbeat_at": "2026-10-20T03:37:13Z",
+      "ttl_hours": 12.0,
+      "expires_at": "2026-10-20T15:37:13Z",
+      "label": "claude"
+    }
+  }
 }
