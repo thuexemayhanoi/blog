@@ -1,0 +1,351 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3Z: chu de that nhom thue xe va xe may, tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-001",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Hay bị bấm còi giục vì lái chậm: thuê xe máy ở Hà Nội chọn xe êm, giờ vắng và tuyến ít bị ép tốc độ",
+   "intent": "Biết cách chọn xe máy thuê êm, dễ kiểm soát ở tốc độ thấp cho người quen đi chậm, chọn giờ và tuyến ít bị bấm còi giục, giữ sát làn bên phải và giữ bình tĩnh khi có xe phía sau muốn vượt.",
+   "kw": "thuê xe máy cho người lái chậm",
+   "kw2": [
+    "người đi xe máy chậm hay bị bấm còi",
+    "chọn giờ vắng để đi xe máy thuê"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người quen đi chậm, thận trọng hoặc ít tự tin, hay lo bị bấm còi giục khi thuê xe máy ở Hà Nội",
+   "location_scope": "Hà Nội (đường nội thành giờ vắng, ven hồ Tây, đê sông Hồng đoạn ít xe)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-002",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Người đội khăn trùm đầu khi thuê xe máy ở Hà Nội: chọn mũ bảo hiểm vừa đầu, quấn khăn gọn và cài quai chắc",
+   "intent": "Biết cách chọn và thử mũ bảo hiểm vừa đầu khi đội khăn trùm đầu thường xuyên: quấn khăn mỏng và gọn, không để đuôi khăn thòng ra ngoài mũ, cài quai chắc dưới cằm, kiểm tra tầm nhìn hai bên và hỏi tiệm có mũ cỡ khác để thử trước khi nhận xe.",
+   "kw": "đội khăn trùm đầu đi xe máy",
+   "kw2": [
+    "chọn mũ bảo hiểm khi đội khăn trùm đầu",
+    "người đội khăn trùm đầu thuê xe máy ở Hà Nội"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người đội khăn trùm đầu thường xuyên, tự lái hoặc ngồi sau xe máy thuê ở Hà Nội và cần mũ bảo hiểm vừa đầu",
+   "location_scope": "Hà Nội, thử mũ trực tiếp tại tiệm trước khi lăn bánh",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-003",
+   "child_id": "C-THUE-DOI-TUONG",
+   "title": "Đi tour theo đoàn nhưng có buổi chiều tự do ở Hà Nội: thuê xe máy sao cho kịp giờ tập trung của đoàn",
+   "intent": "Lên kế hoạch thuê xe máy trong buổi chiều hoặc buổi tối tự do của chuyến du lịch theo đoàn: chốt giờ nhận xe theo giờ tiệm mở cửa, chọn điểm đi gần chỗ ở của đoàn, tính giờ về trước giờ tập trung, báo trưởng đoàn và lưu số liên lạc của tiệm.",
+   "kw": "thuê xe máy buổi chiều tự do",
+   "kw2": [
+    "đi tour theo đoàn có giờ tự do",
+    "thuê xe máy kịp giờ tập trung của đoàn"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-doi-tuong/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "du khách đi tour theo đoàn, có buổi chiều hoặc buổi tối tự do ở Hà Nội và muốn tự đi xe máy thuê",
+   "location_scope": "Hà Nội, khu vực khách sạn của đoàn và các điểm gần để về kịp giờ tập trung",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-004",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Đi bộ từ phố cổ qua cầu Long Biên sang Bồ Đề nhận xe máy thuê: đi giờ nào, mang gì và chạy xe về bằng cầu nào",
+   "intent": "Lên kế hoạch đi bộ từ khu phố cổ qua cầu Long Biên sang tiệm ở Bồ Đề nhận xe: chọn giờ sáng mát sau giờ tiệm mở cửa, mang giấy tờ và nước, đi trên lối dành cho người đi bộ, tránh làn xe máy và đường ray, rồi chọn cầu để chạy xe quay về phố.",
+   "kw": "đi bộ sang Bồ Đề nhận xe",
+   "kw2": [
+    "từ phố cổ đi bộ qua cầu Long Biên nhận xe thuê",
+    "nhận xe thuê sau khi đi bộ qua cầu Long Biên"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "du khách ở khu phố cổ muốn kết hợp đi bộ ngắm cầu Long Biên với việc sang Bồ Đề nhận xe máy thuê",
+   "location_scope": "Hà Nội (phố cổ, cầu Long Biên, Bồ Đề – Long Biên)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-005",
+   "child_id": "C-THUE-DIA-DIEM",
+   "title": "Người nhà chăm sản phụ nằm viện ở Phụ sản Trung ương hoặc Phụ sản Hà Nội: thuê xe máy ở Bồ Đề đi lại vài ngày",
+   "intent": "Lên kế hoạch cho người nhà chăm sản phụ nằm viện vài ngày dùng xe máy thuê để đi mua đồ, về nhà lấy quần áo và lo thủ tục, chọn giờ đi tránh cao điểm, và nhớ rằng mẹ cùng bé sơ sinh nên về bằng ô tô hoặc taxi chứ không chở bằng xe máy.",
+   "kw": "thuê xe máy chăm sản phụ",
+   "kw2": [
+    "người nhà sản phụ thuê xe máy",
+    "thuê xe máy gần bệnh viện phụ sản"
+   ],
+   "links": [
+    "/thue-xe/thue-theo-dia-diem/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "chồng, mẹ hoặc người nhà từ nơi khác ra Hà Nội chăm sản phụ nằm viện sinh, cần đi lại giữa bệnh viện, chỗ ở và chợ",
+   "location_scope": "Hà Nội (Bệnh viện Phụ sản Trung ương ở Tràng Thi, Bệnh viện Phụ sản Hà Nội ở La Thành, nhận xe ở Bồ Đề)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-006",
+   "child_id": "C-THUE-NHAN-TRA",
+   "title": "Trước khi đưa giấy tờ gốc cho tiệm giữ: chụp lại hai mặt, ghi số vào điện thoại và lưu ảnh ở nơi an toàn",
+   "intent": "Biết cách chụp rõ hai mặt căn cước, bằng lái hoặc hộ chiếu, ghi số và ngày cấp vào điện thoại và lưu ảnh ở nơi an toàn trước khi đưa bản gốc cho tiệm giữ, để phòng lúc cần làm thủ tục khác hoặc phải xin cấp lại, và không gửi ảnh này cho người lạ.",
+   "kw": "chụp ảnh giấy tờ trước khi gửi",
+   "kw2": [
+    "lưu ảnh căn cước trước khi đưa tiệm giữ",
+    "ghi số giấy tờ vào điện thoại khi thuê xe"
+   ],
+   "links": [
+    "/thue-xe/nhan-tra-xe/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy ở Hà Nội sắp đưa giấy tờ gốc cho cửa hàng giữ trong suốt kỳ thuê",
+   "location_scope": "Hà Nội, tại quầy làm thủ tục nhận xe của cửa hàng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-007",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Thuê xe điện phải cọc: hỏi cọc đã gồm pin rời, bộ sạc và chìa chưa rồi ghi từng món lên biên nhận",
+   "intent": "Biết cách hỏi tiệm khi đặt cọc thuê xe máy điện hoặc xe đạp điện: khoản cọc áp dụng cho những món nào (thân xe, pin rời, bộ sạc, chìa), ghi từng món và tình trạng lên biên nhận và nhận lại đủ từng món khi trả; không nêu số tiền vì mọi mức cọc đều xác nhận trực tiếp với tiệm.",
+   "kw": "đặt cọc thuê xe máy điện",
+   "kw2": [
+    "cọc xe đạp điện pin và bộ sạc",
+    "biên nhận cọc xe điện ghi pin sạc"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy điện hoặc xe đạp điện ở Hà Nội sắp đặt cọc và nhận cả pin rời lẫn bộ sạc",
+   "location_scope": "Hà Nội, tại cửa hàng cho thuê khi đặt cọc và khi trả xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-008",
+   "child_id": "C-THUE-DAT-COC",
+   "title": "Tiệm đề nghị giữ thẻ ATM làm tin khi thuê xe máy: vì sao không nên đưa thẻ và nên đề nghị hình thức khác",
+   "intent": "Hiểu vì sao không nên đưa thẻ ATM hay thẻ ngân hàng cho tiệm giữ làm tin khi thuê xe máy, biết cách từ chối lịch sự, đề nghị hình thức khác như giấy tờ hoặc khoản cọc có biên nhận, và việc cần làm ngay như khóa thẻ qua ngân hàng nếu lỡ đã đưa.",
+   "kw": "giữ thẻ ATM làm tin thuê xe",
+   "kw2": [
+    "tiệm đòi giữ thẻ ngân hàng khi thuê xe",
+    "khóa thẻ ATM khi lỡ đưa cho tiệm giữ"
+   ],
+   "links": [
+    "/thue-xe/dat-coc/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy ở Hà Nội bị đề nghị đưa thẻ ATM hoặc thẻ ngân hàng cho tiệm giữ làm tin",
+   "location_scope": "Hà Nội, quầy làm thủ tục thuê xe và các bước liên hệ ngân hàng sau đó",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-009",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Trình báo xong ở cơ quan chức năng: xin giấy biên nhận hoặc xác nhận đã tiếp nhận để gửi tiệm thuê xe, ghi giờ",
+   "intent": "Biết cách hỏi cán bộ tiếp nhận về giấy biên nhận hoặc xác nhận đã tiếp nhận tin báo sau khi xe thuê bị mất đồ, mất phụ tùng hay xảy ra va chạm, ghi lại giờ, tên đơn vị và nội dung, chụp giấy gửi tiệm và hỏi tiệm cần thêm giấy tờ nào.",
+   "kw": "biên nhận trình báo cơ quan chức năng",
+   "kw2": [
+    "xác nhận trình báo mất đồ xe thuê",
+    "gửi giấy trình báo cho cửa hàng thuê xe"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy ở Hà Nội vừa đến cơ quan chức năng trình báo sự cố và cần giấy tờ để làm việc với cửa hàng",
+   "location_scope": "Hà Nội, nơi tiếp nhận gần chỗ xảy ra sự cố hoặc gần nơi bạn ở",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-010",
+   "child_id": "C-THUE-SU-CO",
+   "title": "Bị xe buýt hoặc xe khách ép sát làn rồi quệt ngã: ghi số tuyến, biển số, giờ và báo hãng xe cùng cửa hàng thuê",
+   "intent": "Biết cách xử lý khi xe thuê bị xe buýt hoặc xe khách ép sát làn rồi quệt ngã: kiểm tra người trước, chụp số tuyến và biển số xe, ghi giờ và vị trí, nhờ nhân chứng, báo hãng xe qua số liên hệ trên thân xe nếu có và báo cửa hàng.",
+   "kw": "xe buýt ép ngã xe máy thuê",
+   "kw2": [
+    "xe buýt quệt xe máy thuê",
+    "ghi biển số xe khách khi bị quệt"
+   ],
+   "links": [
+    "/thue-xe/su-co/",
+    "/thue-xe/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người đang thuê xe máy ở Hà Nội bị xe buýt hoặc xe khách ép sát rồi quệt hoặc ngã",
+   "location_scope": "Hà Nội, các trục đường lớn có làn xe buýt và điểm dừng xe buýt",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-011",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Hay đi tối và về khuya: chọn xe máy thuê nào để đèn pha, đèn hậu, gương nhìn đêm đỡ vất vả, soi thử tại tiệm",
+   "intent": "Biết cách chọn xe máy thuê cho người thường đi buổi tối và về khuya: so ánh sáng đèn pha trên tường hoặc mặt đường, đèn hậu và đèn phanh, gương nhìn phía sau, tư thế ngồi, và nhờ tiệm đổi chiếc khác nếu đèn yếu.",
+   "kw": "chọn xe máy thuê đi buổi tối",
+   "kw2": [
+    "xe máy thuê đi đêm đèn pha sáng",
+    "chọn xe thuê cho người hay về khuya"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy ở Hà Nội thường đi làm, đi chơi tối và về khuya trên đường ít đèn",
+   "location_scope": "Hà Nội, tại tiệm lúc nhận xe và các đoạn đường tối ven sông, đê",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-012",
+   "child_id": "C-XE-LUA-CHON",
+   "title": "Tiệm còn nhiều màu cùng một mẫu xe: chọn màu nào để dễ thấy buổi tối, đỡ lộ bụi và dễ nhận ra trong bãi đông",
+   "intent": "Biết cách cân nhắc màu xe máy thuê khi tiệm còn nhiều màu: màu sáng nổi hơn trong ánh đèn buổi tối, màu tối lộ bụi và vết xước theo cách khác, màu dễ nhận ra khi đi nhóm hoặc gửi bãi đông, và vẫn chọn xe theo tình trạng thật chứ không theo màu.",
+   "kw": "chọn màu xe máy thuê",
+   "kw2": [
+    "xe máy thuê màu nào dễ thấy ban đêm",
+    "màu xe dễ nhận ra trong bãi gửi"
+   ],
+   "links": [
+    "/xe-may/chon-loai-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy ở Hà Nội thấy tiệm còn nhiều màu cùng một mẫu xe và phân vân chọn màu nào",
+   "location_scope": "Hà Nội, lúc chọn xe tại tiệm và khi gửi xe ở bãi đông người",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-013",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Công tắc pha – cốt xe thuê kẹt ở pha hoặc không chuyển được: giảm tốc, tránh đường tối và báo tiệm trong ngày",
+   "intent": "Biết cách xử lý khi công tắc pha – cốt trên xe thuê bị kẹt ở đèn pha hoặc không chuyển được: thử gạt lại vài lần nhẹ tay, giảm tốc, tránh làm chói người đi ngược chiều, hạn chế chạy tối và báo tiệm mô tả lỗi kèm ảnh công tắc.",
+   "kw": "công tắc pha cốt xe thuê kẹt",
+   "kw2": [
+    "không chuyển được đèn cốt xe máy",
+    "công tắc đèn pha xe máy bị kẹt"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người đang thuê xe máy ở Hà Nội thấy đèn xe cứ ở chế độ pha, làm chói xe ngược chiều khi đi tối",
+   "location_scope": "Hà Nội, đường tối ven sông, đê và ngoại thành lúc chiều muộn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-014",
+   "child_id": "C-XE-KHAC-PHUC",
+   "title": "Đề nhiều lần xe số chế hòa khí vẫn không nổ, nồng mùi xăng: nghi ngộp xăng, chờ vài phút rồi đề lại đúng cách",
+   "intent": "Biết cách nhận ra xe số chế hòa khí bị ngộp xăng sau khi đề nhiều lần (mùi xăng nồng, máy ho mà không nổ), dừng đề liên tục để khỏi cạn ắc quy, chờ vài phút, đẩy le gió về vị trí tắt và làm theo hướng dẫn của xe rồi đề lại, và biết khi nào gọi tiệm.",
+   "kw": "xe số chế hòa khí ngộp xăng",
+   "kw2": [
+    "đề nhiều lần xe không nổ nồng mùi xăng",
+    "xe số ngập xăng không nổ máy"
+   ],
+   "links": [
+    "/xe-may/xu-ly-su-co-xe/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe số đời chế hòa khí (Wave, Sirius) bấm đề nhiều lần mà xe không nổ và nồng mùi xăng",
+   "location_scope": "Hà Nội, chỗ đỗ xe buổi sáng hoặc nơi dừng nghỉ giữa đường",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-015",
+   "child_id": "C-XE-DIEN",
+   "title": "Tem pin, bộ sạc xe máy điện ghi ký hiệu IP: chữ số chống nước nghĩa là gì và vì sao vẫn không nên lội nước sâu",
+   "intent": "Hiểu ký hiệu IP in trên tem pin, bộ sạc hay tài liệu xe máy điện nói gì về khả năng chống bụi và chống nước, vì sao điều kiện thử khác với đường ngập ở Hà Nội, và nên hỏi tiệm điều gì trước khi chạy hoặc sạc sau mưa.",
+   "kw": "ký hiệu IP trên pin xe điện",
+   "kw2": [
+    "IP chống nước xe điện là gì",
+    "xe máy điện thuê có chống nước không"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê xe máy điện ở Hà Nội thấy ký hiệu IP trên pin hoặc bộ sạc và băn khoăn chuyện đi mưa, qua đường ngập",
+   "location_scope": "Hà Nội, đường ngập sau mưa và chỗ sạc pin trong nhà",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-016",
+   "child_id": "C-XE-DIEN",
+   "title": "Xe máy điện thuê giật cục khi vặn ga nhẹ hoặc hụt lực: nhìn mức pin, tắt nguồn bật lại và đừng tự tháo gì",
+   "intent": "Biết cách xử lý khi xe máy điện thuê giật cục lúc vặn ga nhẹ hoặc hụt lực giữa chừng: tấp vào lề an toàn, nhìn mức pin và đèn báo, tắt nguồn chờ vài giây rồi bật lại, thử ở chỗ vắng, không tự mở nắp hay tháo giắc và báo tiệm kèm mô tả.",
+   "kw": "xe điện giật cục khi vặn ga",
+   "kw2": [
+    "xe điện hụt lực khi tăng tốc",
+    "xe máy điện giật khi vặn ga nhẹ"
+   ],
+   "links": [
+    "/xe-may/xe-dien/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người đang thuê xe máy điện ở Hà Nội thấy xe giật cục hoặc hụt lực khi vặn ga",
+   "location_scope": "Hà Nội, đường nội thành và dốc cầu vượt",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-017",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Đổ xăng Honda Click thuê: mở yên bằng chìa hoặc nút trên xe, tìm nắp bình dưới yên, tránh kẹt chìa trong hộc đựng đồ",
+   "intent": "Biết cách mở yên Honda Click thuê để đổ xăng đúng thứ tự: quay tay lái thẳng, đưa núm khóa về vị trí mở yên rồi nhấn nút mở yên, tìm nắp bình xăng dưới yên, đổ vừa đủ, đóng yên chắc và không khóa chìa trong hộc đựng đồ; nếu bản xe khác thì làm theo tiệm chỉ.",
+   "kw": "đổ xăng Honda Click thuê",
+   "kw2": [
+    "mở yên Honda Click đổ xăng",
+    "nắp bình xăng Honda Click ở đâu"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê Honda Click ở Hà Nội lần đầu tự đổ xăng và chưa biết mở yên, tìm nắp bình",
+   "location_scope": "Hà Nội, cây xăng trong nội thành",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Z-018",
+   "child_id": "C-HONDA-CLICK",
+   "title": "Móc treo mũ dưới yên Honda Click: chỉ dùng khi đỗ xe, đóng yên không kẹp quai, không để mũ lủng lẳng lúc chạy",
+   "intent": "Hiểu móc giữ mũ bảo hiểm nằm dưới yên Honda Click chỉ dành cho lúc đỗ xe: cách móc quai mũ, đóng yên không kẹp quai hay làm xước mũ, vì sao không treo mũ khi chạy và nên cất mũ ở đâu khi ghé quán hoặc đi bộ.",
+   "kw": "móc treo mũ dưới yên Honda Click",
+   "kw2": [
+    "Honda Click móc mũ bảo hiểm khi đỗ xe",
+    "cất mũ bảo hiểm khi thuê Honda Click"
+   ],
+   "links": [
+    "/xe-may/honda-click/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Z",
+   "audience": "người thuê Honda Click ở Hà Nội cần để mũ bảo hiểm khi dừng ăn uống hoặc vào quán",
+   "location_scope": "Hà Nội, các điểm gửi xe quanh phố cổ, hồ Tây và quán ăn",
+   "word_target": 1200
+  }
+ ]
+}
