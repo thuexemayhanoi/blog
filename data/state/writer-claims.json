@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-20T04:05:58Z",
+  "updated_at": "2026-10-20T04:19:34Z",
   "leases": {
     "W3": {
       "ids": [
@@ -18,9 +18,9 @@
       "session": "s-claude-w3",
       "epoch": 1,
       "claimed_at": "2026-10-20T04:05:58Z",
-      "heartbeat_at": "2026-10-20T04:05:58Z",
+      "heartbeat_at": "2026-10-20T04:19:34Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-10-22T04:05:58Z",
+      "expires_at": "2026-10-22T04:19:34Z",
       "label": "claude"
     }
   }
