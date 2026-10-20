@@ -1,0 +1,275 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W2-065: chu de that, tao boi writer W2 theo gate G1-G8.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-001",
+   "child_id": "C-XE-SO",
+   "title": "Hãm bằng số trên xe số không làm sáng đèn phanh: báo cho xe phía sau biết bạn đang giảm tốc thế nào",
+   "intent": "Hiểu vì sao giảm tốc bằng cách về số trên xe số không làm sáng đèn phanh và biết nhá phanh, giữ khoảng cách để xe phía sau kịp nhận ra bạn đang chậm lại.",
+   "kw": "hãm số không sáng đèn phanh",
+   "kw2": [
+    "phanh động cơ đèn phanh",
+    "báo hiệu giảm tốc xe số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người đi xe số thuê quen giảm tốc bằng cách về số",
+   "location_scope": "nội thành Hà Nội, dốc cầu và đường vành đai đông xe",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-002",
+   "child_id": "C-XE-SO",
+   "title": "Cần le gió trên xe số chế hòa khí: kéo khi máy nguội, nhả lúc nào và dấu hiệu quên nhả khi đang chạy",
+   "intent": "Biết cách dùng cần le gió trên xe số chế hòa khí khi đề máy lúc nguội, nhả đúng lúc khi máy đã ấm và nhận ra dấu hiệu quên nhả như hao xăng, máy rồ.",
+   "kw": "le gió xe số",
+   "kw2": [
+    "cách dùng e gió xe số",
+    "quên nhả le gió"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người thuê xe số đời chế hòa khí lần đầu",
+   "location_scope": "chỗ ở, bãi gửi xe qua đêm ở Hà Nội vào những sáng trời lạnh",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-003",
+   "child_id": "C-XE-SO",
+   "title": "Rơm rạ, dây nilon quấn vào nhông xích và trục bánh sau xe số: nhận biết tiếng lạ và gỡ ra cho an toàn",
+   "intent": "Biết cách nhận ra rơm rạ, dây nilon đang quấn vào nhông xích hay trục bánh sau xe số qua tiếng và cảm giác lạ, rồi dừng xe gỡ ra an toàn mà không chạm ống xả nóng.",
+   "kw": "rơm quấn nhông xích xe số",
+   "kw2": [
+    "dây nilon quấn bánh sau",
+    "nhông xích bị vướng rơm"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người đi xe số thuê về đường làng ngoại thành mùa gặt",
+   "location_scope": "đường làng ngoại thành Hà Nội như Đông Anh, Mê Linh, Ứng Hòa mùa gặt",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-004",
+   "child_id": "C-XE-SO",
+   "title": "Vết nhớt ướt quanh trục cần số xe số thuê: dấu hiệu phớt cần số rỉ nhớt và lúc nào nên báo cửa hàng",
+   "intent": "Nắm cách phân biệt vết nhớt rỉ quanh trục cần số với dầu xích hay bụi bám thường, hiểu mức độ đáng lo và biết lúc nào cần chụp ảnh báo cửa hàng xe số đang thuê.",
+   "kw": "xe số rỉ nhớt cần số",
+   "kw2": [
+    "phớt cần số xe số",
+    "chảy nhớt chỗ cần số"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người thuê xe số theo tuần, theo tháng tự kiểm tra xe",
+   "location_scope": "Hà Nội, chỗ gửi xe ở nhà trọ và chung cư",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-005",
+   "child_id": "C-XE-SO",
+   "title": "Nhận xe số còn mới, đồng hồ mới chạy ít km: đi thế nào trong những ngày đầu để máy và côn tự động êm",
+   "intent": "Biết cách đi một chiếc xe số còn mới trong những ngày đầu: tránh rồ ga hết cỡ, thay đổi tốc độ thường xuyên, không chở quá nặng để máy và côn tự động vào nếp êm.",
+   "kw": "chạy rà xe số mới",
+   "kw2": [
+    "xe số mới cần chạy rà không",
+    "xe số mới ít km"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người thuê nhận được chiếc xe số mới trong đội xe",
+   "location_scope": "nội thành Hà Nội và đường ngoại thành bằng phẳng",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-006",
+   "child_id": "C-XE-SO",
+   "title": "Bóp phanh tay đèn phanh sáng mà đạp phanh chân xe số thì không: công tắc ở bàn đạp và cách nhờ người kiểm tra",
+   "intent": "Biết cách tự kiểm tra khi đạp phanh chân xe số mà đèn phanh không sáng, hiểu vai trò công tắc ở bàn đạp và nhờ người đứng sau xác nhận trước khi chạy đêm.",
+   "kw": "đạp phanh chân không sáng đèn",
+   "kw2": [
+    "công tắc đèn phanh sau xe số",
+    "đèn phanh xe số không sáng"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người nhận và đi xe số thuê, nhất là khi định chạy buổi tối",
+   "location_scope": "trước cửa tiệm, bãi gửi xe và chỗ ở tại Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-007",
+   "child_id": "C-XE-SO",
+   "title": "Xe số còn ít xăng mà phải leo dốc dài: máy hụt, khục khặc giữa dốc và vì sao nên đổ thêm ở chân dốc",
+   "intent": "Hiểu vì sao xe số còn ít xăng có thể hụt máy, khục khặc khi leo dốc dài và lên kế hoạch đổ xăng ở chân dốc trước khi lên Tam Đảo, Ba Vì hay Sóc Sơn.",
+   "kw": "xe số ít xăng lên dốc",
+   "kw2": [
+    "xe số hụt máy khi lên dốc",
+    "đổ xăng trước khi leo dốc"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người đi xe số thuê lên các cung đường núi gần Hà Nội",
+   "location_scope": "đường dốc lên Tam Đảo, Ba Vì và vùng đồi Sóc Sơn",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-008",
+   "child_id": "C-XE-SO",
+   "title": "Đèn pha xe số mờ khi chạy chậm, sáng hơn khi lên ga: hiện tượng thường gặp hay lỗi cần báo cửa hàng",
+   "intent": "Hiểu vì sao trên một số xe số đèn pha sáng mạnh yếu theo tua máy, phân biệt với đèn yếu do lỗi và biết khi nào cần báo cửa hàng trước chuyến đi tối.",
+   "kw": "đèn xe số mờ khi chạy chậm",
+   "kw2": [
+    "đèn pha sáng theo tua máy",
+    "đèn xe số yếu ban đêm"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người đi xe số thuê buổi tối trong ngõ và đường ngoại thành",
+   "location_scope": "ngõ nhỏ nội thành và đường ngoại thành thiếu đèn quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-009",
+   "child_id": "C-XE-SO",
+   "title": "Bàn đạp phanh chân xe số không tự bật về sau khi nhả: phanh sau bị bó và cách đi tiếp tới chỗ sửa an toàn",
+   "intent": "Biết cách nhận ra bàn đạp phanh chân không trả về khiến phanh sau bó, nóng bánh, tạm xử lý để đi chậm tới chỗ an toàn và mô tả đúng cho cửa hàng xe số thuê.",
+   "kw": "bàn đạp phanh không trả về",
+   "kw2": [
+    "lò xo phanh chân xe số",
+    "phanh sau xe số bị bó"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người đi xe số thuê gặp trục trặc phanh chân giữa đường",
+   "location_scope": "phố nội thành và đường ngoại thành Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-010",
+   "child_id": "C-XE-SO",
+   "title": "Lên vùng núi cao như Tam Đảo, Mẫu Sơn bằng xe số chế hòa khí: máy có yếu đi không và chọn số bù thế nào",
+   "intent": "Hiểu vì sao xe số chế hòa khí có thể yếu hơn khi lên vùng núi cao như Tam Đảo, Mẫu Sơn và biết chọn số thấp sớm hơn, nghỉ máy hợp lý để leo dốc ổn định.",
+   "kw": "xe số lên núi cao bị yếu",
+   "kw2": [
+    "xe chế hòa khí lên cao",
+    "xe số yếu ở tam đảo"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người tự lái xe số thuê từ Hà Nội lên vùng núi cao",
+   "location_scope": "Tam Đảo (Vĩnh Phúc), Mẫu Sơn (Lạng Sơn) và đường lên cao ở Ba Vì",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-011",
+   "child_id": "C-XE-SO",
+   "title": "Vá hoặc thay săm bánh sau xe số ở tiệm ven đường: xem thợ căng lại xích, chỉnh phanh chân trước khi đi tiếp",
+   "intent": "Biết cách theo dõi khi thợ ven đường tháo bánh sau xe số để vá săm, kiểm tra lại độ căng xích, hành trình phanh chân và bánh xe thẳng hàng trước khi đi tiếp.",
+   "kw": "vá săm bánh sau xe số",
+   "kw2": [
+    "thay săm bánh sau xe số",
+    "kiểm tra xích sau khi vá"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người thuê xe số đi ngoại thành, đường dài bị thủng lốp sau",
+   "location_scope": "tiệm sửa xe ven quốc lộ và đường làng quanh Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-012",
+   "child_id": "C-XE-SO",
+   "title": "Xe số phanh cơ không có đĩa để gắn khóa đĩa: chọn khóa chữ U, khóa dây luồn bánh hay gửi bãi khi đỗ qua đêm",
+   "intent": "Nắm các cách khóa chống trộm phù hợp cho xe số phanh cơ không có đĩa phanh, so sánh khóa chữ U, khóa dây luồn bánh và chỗ gửi khi phải đỗ qua đêm ở Hà Nội.",
+   "kw": "khóa chống trộm xe số phanh cơ",
+   "kw2": [
+    "khóa chữ u xe số",
+    "xe phanh cơ khóa gì"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người thuê xe số phải đỗ xe ngoài trời qua đêm",
+   "location_scope": "nhà trọ, homestay phố cổ và ngõ nhỏ ở Hà Nội",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-013",
+   "child_id": "C-XE-SO",
+   "title": "Bộ đồ nghề nhỏ theo xe dưới yên xe số: nhận ra từng món và việc nào người thuê không nên tự làm dọc đường",
+   "intent": "Biết cách nhận ra các món trong bộ đồ nghề nhỏ dưới yên xe số nếu tiệm để lại, hiểu việc nhỏ có thể tự làm và việc nên để cửa hàng hoặc thợ xử lý.",
+   "kw": "đồ nghề theo xe số",
+   "kw2": [
+    "bộ dụng cụ dưới yên xe số",
+    "đồ nghề theo xe máy"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người thuê xe số đi xa lần đầu muốn tự xử lý việc nhỏ",
+   "location_scope": "chuyến ngoại thành và đường dài quanh Hà Nội",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W2-065-014",
+   "child_id": "C-XE-SO",
+   "title": "Chân chống giữa, gác chân hay cần số quẹt đất khi xe số ôm cua gắt: dấu hiệu nghiêng quá và cách vào cua lại",
+   "intent": "Hiểu vì sao chân chống giữa, gác chân hoặc cần số có thể quẹt đất khi xe số chở nặng ôm cua gắt, nhận ra dấu hiệu nghiêng quá và biết giảm tốc, chọn đường cua an toàn hơn.",
+   "kw": "xe số quẹt chân chống khi cua",
+   "kw2": [
+    "chân chống giữa quẹt đất",
+    "gác chân quẹt đất khi vào cua"
+   ],
+   "links": [
+    "/xe-may/xe-so/",
+    "/xe-may/"
+   ],
+   "subtopic": "refill-2026-10-20-W2-065",
+   "audience": "người đi xe số thuê chở người hoặc đồ qua đường đèo nhiều cua",
+   "location_scope": "các khúc cua gắt trên đường lên Tam Đảo, Ba Vì và đèo Thung Khe",
+   "word_target": 1200
+  }
+ ]
+}
