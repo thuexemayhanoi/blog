@@ -23881,6 +23881,431 @@
           "audience": "người thuê xe tay ga hay đỗ xe ngoài vỉa hè phố",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Động cơ liền càng sau làm xe tay ga nặng đuôi: vì sao bánh sau dội mạnh qua ổ gà và lái thế nào cho êm",
+          "intent": "Hiểu vì sao cụm động cơ gắn liền càng sau khiến xe tay ga nặng phần đuôi, bánh sau dội mạnh khi qua ổ gà, gờ nối, và biết chỉnh tốc độ, tư thế ngồi để xe êm hơn.",
+          "kw": "xe tay ga nặng đuôi",
+          "kw2": [
+            "động cơ liền càng sau xe ga",
+            "bánh sau xe ga bị dội"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người mới chuyển sang lái xe tay ga thuê",
+          "location_scope": "đường phố nội thành và đường ven đô Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe tay ga cạ gầm, quệt chân chống giữa qua gờ giảm tốc cao và dốc dắt vào nhà: chỗ dễ quệt và cách đi qua",
+          "intent": "Biết cách nhận ra gờ giảm tốc cao, dốc dắt xe vào nhà và mép dốc hầm dễ làm gầm, chân chống giữa xe tay ga quệt xuống đất, rồi chọn góc và tốc độ đi qua an toàn.",
+          "kw": "xe tay ga cạ gầm",
+          "kw2": [
+            "xe ga quệt chân chống giữa",
+            "xe ga qua gờ giảm tốc cao"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga ở nhà ống, khu đô thị mới",
+          "location_scope": "ngõ dân cư và khu đô thị mới ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Nhấc đuôi xe tay ga xê dịch sang ngang trong hàng xe chật: nắm vào đâu, giữ lưng và khi nào nhờ bảo vệ",
+          "intent": "Biết cách nhấc phần đuôi xe tay ga đã tắt máy để xê dịch sang ngang khi bị kẹp giữa hàng xe chật, chọn điểm nắm chắc, giữ lưng an toàn và biết lúc nên nhờ người trông xe.",
+          "kw": "nhấc đuôi xe tay ga",
+          "kw2": [
+            "xê dịch xe ga trong bãi chật",
+            "lấy xe ga ra khỏi hàng xe"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga hay gửi xe ở bãi chật",
+          "location_scope": "bãi gửi xe phố cổ, chợ và quán cà phê ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người lái nhỏ con chở người ngồi sau cao to trên xe tay ga: dừng đèn đỏ, chống chân và xuất phát không chao",
+          "intent": "Nắm cách người lái thấp, nhẹ cân giữ vững xe tay ga khi chở người ngồi sau cao to: dặn người sau ngồi yên, chống chân đúng lúc dừng đèn đỏ và xuất phát thật êm.",
+          "kw": "xe ga chở người cao to",
+          "kw2": [
+            "người nhỏ con chở người nặng",
+            "dừng đèn đỏ khi chở người to"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "nữ hoặc người nhỏ con thuê xe tay ga chở bạn, người thân cao to",
+          "location_scope": "các nút giao đông xe trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đưa người thân bó bột chân đi tái khám bằng xe tay ga: lên xuống xe, đặt chân bó bột và khi nào nên gọi taxi",
+          "intent": "Lên kế hoạch đưa người thân đang bó bột chân đi tái khám bằng xe tay ga thuê: đỡ lên xuống xe, giữ chân đau, chọn đường ít xóc và nhận ra khi nào nên đổi sang taxi.",
+          "kw": "xe ga chở người bó bột",
+          "kw2": [
+            "chở người bó bột chân đi khám",
+            "người gãy chân ngồi sau xe máy"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người nhà chăm người thân đang bó bột chân",
+          "location_scope": "các bệnh viện chấn thương chỉnh hình ở nội thành Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Đỗ xe tay ga trên bãi cỏ khô khi dã ngoại ven sông Hồng, Sóc Sơn: ống xả nóng sát cỏ và chọn chỗ dựng xe",
+          "intent": "Hiểu vì sao ống xả còn nóng của xe tay ga dựng trên cỏ khô, rơm rạ có thể gây cháy, và biết chọn nền đất, hướng dựng xe an toàn ở bãi dã ngoại ven đô.",
+          "kw": "đỗ xe ga trên cỏ khô",
+          "kw2": [
+            "ống xả xe ga làm cháy cỏ",
+            "dựng xe khi đi dã ngoại"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "nhóm bạn thuê xe tay ga đi cắm trại, dã ngoại cuối tuần",
+          "location_scope": "bãi giữa sông Hồng, đồi Sóc Sơn và ven hồ ngoại thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đeo balo trước ngực khi lái xe tay ga: vướng tay lái, che đồng hồ và cách đặt balo xuống sàn hoặc cốp",
+          "intent": "Hiểu balo đeo trước ngực ảnh hưởng thế nào tới việc bẻ lái, nhìn đồng hồ và bóp phanh trên xe tay ga, rồi biết chọn chỗ đặt balo trên sàn để chân hoặc trong cốp cho an toàn.",
+          "kw": "đeo balo trước ngực đi xe ga",
+          "kw2": [
+            "để balo ở sàn xe ga",
+            "balo vướng tay lái xe máy"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "sinh viên, dân văn phòng mang balo laptop đi xe tay ga thuê",
+          "location_scope": "các tuyến đi học, đi làm trong nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Màn hình đồng hồ điện tử xe tay ga đen sẫm hoặc mờ chữ sau khi đỗ nắng gắt: chờ nguội hay báo tiệm",
+          "intent": "Hiểu vì sao màn hình đồng hồ điện tử trên xe tay ga có thể sẫm màu, khó đọc sau khi đỗ dưới nắng gắt, biết cách chờ và kiểm tra lại, và lúc nào cần báo tiệm cho thuê.",
+          "kw": "đồng hồ xe ga bị đen",
+          "kw2": [
+            "màn hình đồng hồ xe máy mờ chữ",
+            "đỗ xe ga ngoài nắng gắt"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga đời mới đi lại giữa trưa hè",
+          "location_scope": "bãi đỗ ngoài trời ở Hà Nội mùa hè",
+          "word_target": 1200
+        },
+        {
+          "title": "Chọn xe tay ga thuê theo chỗ ở: nhà ống có bậc thềm, chung cư có hầm dốc xoắn hay homestay trong ngõ phố cổ",
+          "intent": "Lên kế hoạch chọn dòng xe tay ga thuê hợp với nơi mình ở, xét trọng lượng, độ dài thân xe, kiểu khóa và độ dễ dắt khi phải lên bậc thềm, xuống hầm hoặc cất xe trong ngõ hẹp.",
+          "kw": "chọn xe tay ga theo chỗ ở",
+          "kw2": [
+            "thuê xe ga ở chung cư có hầm",
+            "thuê xe ga ở homestay phố cổ"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người mới đến Hà Nội thuê xe tay ga theo tuần, theo tháng",
+          "location_scope": "nhà ống, chung cư và homestay phố cổ ở Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Dắt xe tay ga đã tắt máy mà thấy nặng, bánh sau không lăn trơn: phanh bó, lốp non hay nồi sau dính",
+          "intent": "Nắm cách phân biệt xe tay ga dắt nặng bất thường do phanh bó, lốp non hay bộ ly hợp dính bằng vài phép thử đơn giản, và biết khi nào nên dừng chạy để báo tiệm.",
+          "kw": "dắt xe ga bị nặng",
+          "kw2": [
+            "bánh sau xe ga không lăn trơn",
+            "phanh sau xe ga bị bó"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người đang thuê xe tay ga gặp xe dắt nặng khác thường",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Lỡ bấm nút đề khi xe tay ga đang nổ máy hoặc đang chạy: có hại máy không và cách bỏ thói quen bấm nhầm",
+          "intent": "Hiểu điều gì xảy ra khi bấm nút đề lúc xe tay ga đã nổ máy hay đang chạy, khác nhau ra sao giữa các kiểu bộ đề, và biết tập cách đặt ngón tay để không bấm nhầm.",
+          "kw": "bấm đề khi xe ga đang nổ",
+          "kw2": [
+            "bấm nút đề khi xe đang chạy",
+            "xe ga bấm đề hai lần"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người mới lái xe tay ga thuê, chưa quen cụm nút tay phải",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Remote smartkey xe tay ga để chung túi với điện thoại, sạc dự phòng: có làm xe khó nhận chìa và nên để ở đâu",
+          "intent": "Hiểu vì sao để remote smartkey sát điện thoại, sạc dự phòng hay thiết bị phát sóng có thể khiến xe tay ga chậm nhận chìa, và biết cách cất remote để mở máy ổn định.",
+          "kw": "smartkey xe ga bị nhiễu",
+          "kw2": [
+            "remote smartkey để cạnh điện thoại",
+            "cất remote smartkey ở đâu"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga bản khóa thông minh",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Sỏi nhỏ kẹt trong rãnh gai lốp xe tay ga kêu lách tách trên đường nhựa: gỡ thế nào và khi nào nghi là đinh",
+          "intent": "Biết cách nhận ra tiếng lách tách do sỏi kẹt trong gai lốp xe tay ga, gỡ sỏi an toàn khi xe dựng chân chống giữa và phân biệt với đinh, vật nhọn cần đưa đi vá.",
+          "kw": "sỏi kẹt gai lốp xe ga",
+          "kw2": [
+            "lốp xe ga kêu lách tách",
+            "gỡ đá kẹt trong gai lốp"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga hay đi đường ven đô, gần công trình",
+          "location_scope": "đường ven đô và khu đang xây dựng quanh Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Từng ngã xe tay ga, nay thuê lại vẫn run tay khi vặn ga: tập lại ở chỗ vắng trước khi ra phố Hà Nội",
+          "intent": "Lên kế hoạch lấy lại tự tin lái xe tay ga sau một lần ngã: chọn chỗ tập vắng, tập lần lượt ga, phanh, dừng xe và tăng dần độ khó trước khi vào dòng xe đông.",
+          "kw": "sợ lái xe ga sau khi ngã",
+          "kw2": [
+            "tập lái lại xe tay ga",
+            "run tay khi vặn ga"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người từng ngã xe, nay thuê xe tay ga để đi lại",
+          "location_scope": "đường nội bộ khu đô thị ít xe và bãi đất trống ở Hà Nội",
+          "word_target": 1300
+        },
+        {
+          "title": "Người khiếm thính lái xe tay ga thuê: nhận biết máy đã nổ, idling stop tự tắt và đèn báo bằng mắt thay cho tai",
+          "intent": "Nắm cách người khiếm thính, nghe kém nhận biết trạng thái xe tay ga qua đồng hồ, đèn báo và độ rung tay lái, nhất là lúc máy nổ rất êm hoặc tự ngắt khi dừng đèn đỏ.",
+          "kw": "người khiếm thính lái xe ga",
+          "kw2": [
+            "người nghe kém đi xe tay ga",
+            "nhận biết xe ga đã nổ máy"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người khiếm thính, nghe kém thuê xe tay ga",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Gió mạnh làm đổ xe tay ga dựng chân chống nghiêng trên đê, ven hồ: chọn hướng đỗ và lúc dùng chân chống giữa",
+          "intent": "Biết cách chọn hướng đỗ, kiểu chân chống và chỗ dựng xe tay ga khi gió mạnh trên đê, ven hồ để xe không bị thổi đổ, gãy gương, vỡ ốp lúc mình rời xe.",
+          "kw": "gió làm đổ xe ga",
+          "kw2": [
+            "đỗ xe ga khi gió mạnh",
+            "xe máy bị gió thổi đổ"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga dừng chụp ảnh, ngắm cảnh ngoài trời",
+          "location_scope": "đê sông Hồng, ven Hồ Tây và bãi đất trống ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người ngồi sau xe tay ga quay người chụp ảnh, giơ điện thoại quay phố: xe chao thế nào và dặn trước ra sao",
+          "intent": "Hiểu vì sao người ngồi sau xoay người chụp ảnh, quay video làm xe tay ga chao lái, và biết thống nhất trước với họ lúc nào được chụp, lúc nào phải ngồi yên.",
+          "kw": "ngồi sau xe ga chụp ảnh",
+          "kw2": [
+            "người ngồi sau quay video",
+            "xe chao khi người sau xoay người"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "cặp đôi, nhóm bạn du lịch tự lái xe tay ga",
+          "location_scope": "phố cổ, quanh Hồ Gươm và Hồ Tây",
+          "word_target": 1200
+        },
+        {
+          "title": "Áo chống nắng trùm kín tay và váy chống nắng khi lái xe tay ga: vướng tay ga, tay phanh và cách mặc gọn",
+          "intent": "Biết cách mặc áo chống nắng có bao tay và váy chống nắng quấn chân sao cho không vướng tay ga, tay phanh, chân chống và bánh sau khi lái xe tay ga ngày nắng.",
+          "kw": "áo chống nắng khi lái xe ga",
+          "kw2": [
+            "váy chống nắng đi xe máy",
+            "áo chống nắng vướng tay ga"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "nữ thuê xe tay ga đi làm, đi chơi ngày nắng",
+          "location_scope": "Hà Nội mùa hè",
+          "word_target": 1200
+        },
+        {
+          "title": "Treo mũ bảo hiểm lên gương xe tay ga khi dừng ngắn: gương bị lệch góc, mũ dễ rơi và nên cất mũ ở đâu",
+          "intent": "Hiểu vì sao thói quen móc mũ bảo hiểm lên gương hay đầu tay lái xe tay ga làm gương lệch, mũ rơi hoặc bị lấy mất, và biết cất mũ vào cốp hay mang theo cho gọn.",
+          "kw": "treo mũ bảo hiểm lên gương",
+          "kw2": [
+            "cất mũ bảo hiểm khi đỗ xe ga",
+            "mũ bảo hiểm làm lệch gương"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga hay dừng mua đồ, ghé quán",
+          "location_scope": "phố và quán ven đường ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Quay lại bãi gửi thấy xe tay ga bị xếp dồn, xoay lệch: soát gương, ốp nhựa, chân chống trước khi dắt ra",
+          "intent": "Biết cách kiểm tra nhanh xe tay ga bị người trông xe xếp dồn, xoay hướng trong bãi gửi đông: gương, ốp nhựa, tay phanh, chân chống, rồi chụp ảnh và báo tiệm khi có hư hại.",
+          "kw": "xe ga bị xếp dồn bãi gửi",
+          "kw2": [
+            "xe bị xô lệch ở bãi gửi",
+            "kiểm tra xe sau khi gửi"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga gửi xe ở bãi đông dịp lễ, sự kiện",
+          "location_scope": "bãi gửi xe phố cổ, trung tâm thương mại và khu lễ hội ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Thò chân lết đất khi đi chậm bằng xe tay ga: vì sao bàn chân dễ bị kéo vào gầm và cách tập để chân trên sàn",
+          "intent": "Hiểu vì sao thói quen thò chân lết đất khi bò chậm trên xe tay ga dễ khiến bàn chân vướng mặt đường, bị kéo vào gầm, và biết tập giữ thăng bằng với chân đặt trên sàn.",
+          "kw": "thò chân lết đất xe ga",
+          "kw2": [
+            "đi chậm xe ga chân chạm đất",
+            "người mới đi xe ga thò chân"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người mới lái xe tay ga thuê",
+          "location_scope": "ngõ, phố đông và đoạn kẹt xe ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe tay ga nổ máy mà đèn pha không sáng khi trời tối: thử pha cos, đoán bóng hỏng hay cầu chì và báo tiệm",
+          "intent": "Biết cách thử nhanh khi xe tay ga đã nổ máy mà đèn pha không lên, phân biệt lỗi công tắc pha cos với bóng hỏng, cầu chì, và quyết định có nên chạy tiếp ban đêm hay không.",
+          "kw": "đèn pha xe ga không sáng",
+          "kw2": [
+            "xe ga mất đèn pha ban đêm",
+            "đèn pha tự bật không sáng"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga đi buổi tối",
+          "location_scope": "đường thiếu sáng ven đô Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Người ngồi sau che mất gương chiếu hậu xe tay ga: chỉnh gương, ngồi lệch nhẹ và ngoái nhìn trước khi đổi làn",
+          "intent": "Nắm cách xử lý khi vai, mũ người ngồi sau che tầm nhìn gương chiếu hậu xe tay ga: chỉnh lại gương, thống nhất tư thế ngồi và quan sát thêm trước khi chuyển làn, rẽ.",
+          "kw": "người ngồi sau che gương",
+          "kw2": [
+            "chỉnh gương khi chở người",
+            "gương xe ga bị che khuất"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga thường chở thêm một người",
+          "location_scope": "đường nhiều làn như Phạm Văn Đồng, Nguyễn Trãi ở Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Một ngày tắt máy, nổ máy xe tay ga hàng chục lần khi chạy việc vặt: ắc quy có yếu đi không và cách đề cho hợp",
+          "intent": "Hiểu việc tắt máy, nổ máy xe tay ga liên tục khi chạy việc trong ngày ảnh hưởng thế nào tới ắc quy và bộ đề, và biết sắp xếp điểm dừng, quãng chạy để xe luôn đề dễ.",
+          "kw": "xe ga tắt mở máy nhiều lần",
+          "kw2": [
+            "đề xe ga nhiều có hại ắc quy",
+            "chạy việc vặt bằng xe ga"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga chạy việc, giao nhận nhiều điểm trong ngày",
+          "location_scope": "nội thành Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Bình xịt vá lốp tạm cho xe tay ga lốp không săm: có nên mang khi đi ngoại thành và báo tiệm gì sau khi dùng",
+          "intent": "Hiểu bình xịt vá lốp tạm làm được gì và không làm được gì với lốp không săm của xe tay ga, khi nào nên dùng trên đường ngoại thành và cần báo tiệm thế nào sau đó.",
+          "kw": "bình xịt vá lốp không săm",
+          "kw2": [
+            "keo vá lốp tạm xe ga",
+            "vá lốp tạm khi đi ngoại thành"
+          ],
+          "links": [
+            "/xe-may/xe-ga/",
+            "/xe-may/"
+          ],
+          "subtopic": "refill-2026-10-20-W2-059",
+          "audience": "người thuê xe tay ga đi chặng ngoại thành ít hàng sửa",
+          "location_scope": "các tuyến ngoại thành Hà Nội như Ba Vì, Sóc Sơn",
+          "word_target": 1200
         }
       ]
     },
