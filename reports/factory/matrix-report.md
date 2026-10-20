@@ -6,10 +6,10 @@
 |---|---|---|
 | HARD_CAPACITY | 10000 | Trần kỹ thuật của factory, KHÔNG phải chỉ tiêu biên tập. |
 | EDITORIAL_TARGET | 6980 | Tổng planned_target trong taxonomy — chỉ tiêu chủ đề đã kiểm chứng. |
-| CURRENT_VALID_ROWS | 5538 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
-| CURRENT_SEEDED_ROWS | 5055 | Hàng planned mới đã có ý định riêng. |
-| RESERVED_CAPACITY | 4462 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
-| MISSING_VALID_TOPIC_SPACE | 1925 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
+| CURRENT_VALID_ROWS | 5563 | Số hàng hiện tại, tất cả là ý định hợp lệ (không hàng đệm). |
+| CURRENT_SEEDED_ROWS | 5080 | Hàng planned mới đã có ý định riêng. |
+| RESERVED_CAPACITY | 4437 | HARD_CAPACITY trừ legacy và seed — chỉ dành cho chủ đề MỚI thật. |
+| MISSING_VALID_TOPIC_SPACE | 1900 | Thiếu so với EDITORIAL_TARGET — BÁO THIẾU, không đệm. |
 
 Lưu ý trung thực: 483 (legacy) + 6980 (EDITORIAL_TARGET) = 7463 < HARD_CAPACITY 10000. Taxonomy hiện tại KHÔNG THỂ đạt 10.000 hàng. Muốn tăng phải mở rộng seed bằng chủ đề thật (khác biệt ý định, không hoán đổi tên/từ). Đạt HARD_CAPACITY không phải điều kiện hoàn thành của matrix; điều kiện là mọi hàng đều hợp lệ và chống trùng PASS.
 
@@ -19,10 +19,10 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Tổng quan
 
-- Tổng hàng: 5538
+- Tổng hàng: 5563
 - Legacy EXISTING: 473 (giữ nguyên URL/mapping, không đổi ID)
 - Legacy REVIEW: 10 (giữ nguyên trạng thái, không tự PASS)
-- PLANNED mới: 6
+- PLANNED mới: 31
 - Năng lực danh nghĩa cũ: 10.000 hàng; tổng planned_target trong taxonomy: 6980
 
 ## Chống trùng (đã kiểm máy, tất cả PASS)
@@ -33,7 +33,7 @@ Sinh bởi `scripts/factory/generate-matrix.py` từ `data/state/matrix-seed.jso
 
 ## Chênh lệch với chỉ tiêu — BÁO THIẾU, KHÔNG ĐỆM
 
-Seed chỉ đăng ký được 6 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
+Seed chỉ đăng ký được 31 hàng có giá trị riêng (mỗi hàng một ý định tìm kiếm khác nhau, không sinh bằng đổi vài từ). Không tự đệm hàng rỗng để đạt 10.000 vì làm vậy tạo hàng nghìn bài gần giống nhau — đúng điều cấm. Phần thiếu sẽ được bổ sung bằng cách mở rộng seed sau khi có chủ đề thật.
 
 | Child | PLANNED đã có | planned_target (seed taxonomy) |
 |---|---|---|
@@ -41,7 +41,7 @@ Seed chỉ đăng ký được 6 hàng có giá trị riêng (mỗi hàng một 
 | C-THUE-THU-TUC | 0 | 200 |
 | C-THUE-NGAY | 0 | 180 |
 | C-THUE-TUAN | 0 | 170 |
-| C-THUE-THANG | 0 | 200 |
+| C-THUE-THANG | 25 | 200 |
 | C-THUE-DAT-COC | 0 | 150 |
 | C-THUE-QUOC-TE | 0 | 140 |
 | C-THUE-NHAN-TRA | 0 | 180 |

@@ -12,7 +12,7 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-THUE-XE | Thủ tục thuê xe (C-THUE-THU-TUC) | 19 | 148 | 200 | /thue-xe/thu-tuc/ |
 | P-THUE-XE | Thuê xe theo ngày (C-THUE-NGAY) | 13 | 137 | 180 | /thue-xe/thue-ngay/ |
 | P-THUE-XE | Thuê xe theo tuần (C-THUE-TUAN) | 3 | 133 | 170 | /thue-xe/thue-tuan/ |
-| P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 130 | 200 | /thue-xe/thue-thang/ |
+| P-THUE-XE | Thuê xe theo tháng (C-THUE-THANG) | 13 | 155 | 200 | /thue-xe/thue-thang/ |
 | P-THUE-XE | Đặt cọc & giữ giấy tờ (C-THUE-DAT-COC) | 3 | 86 | 150 | /thue-xe/dat-coc/ |
 | P-THUE-XE | Thuê xe cho khách quốc tế (C-THUE-QUOC-TE) | 5 | 104 | 140 | /thue-xe/khach-quoc-te/ |
 | P-THUE-XE | Nhận xe & trả xe (C-THUE-NHAN-TRA) | 24 | 147 | 180 | /thue-xe/nhan-tra-xe/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5055 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5080 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
