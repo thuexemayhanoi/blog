@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-20T10:34:50+00:00",
-    "staged_at": "2026-10-20T11:08:22+00:00"
+    "staged_at": "2026-10-20T11:09:06+00:00"
   },
   "candidates": [
     {
@@ -3276,6 +3276,424 @@
       "subtopic": "refill-2026-10-20-W3R",
       "audience": "người lần đầu thuê xe máy ở Hà Nội đã đặt xe, đến nhận thì thử phanh hoặc nhìn lốp thấy chưa yên tâm nhưng ngại từ chối",
       "location_scope": "Hà Nội (quầy và sân nhận xe ở Long Biên)",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-001",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển cự ly tối thiểu giữa hai xe trên cầu và đường dẫn: người đi xe máy đọc số mét và giữ khoảng cách ra sao",
+      "intent": "Hiểu ý nghĩa biển cấm P.121 cự ly tối thiểu giữa hai xe theo QCVN 41:2024/BGTVT, phạm vi hiệu lực và cách người đi xe máy ước khoảng cách bằng vạch, cột để giữ đúng trên cầu, đường dẫn.",
+      "kw": "biển cự ly tối thiểu hai xe",
+      "kw2": [
+        "biển khoảng cách tối thiểu xe máy",
+        "giữ khoảng cách khi qua cầu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê thường qua cầu lớn và đường dẫn",
+      "location_scope": "các cầu qua sông Hồng, sông Đuống và quốc lộ ra khỏi Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-002",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển hiệu lệnh ấn còi trước khúc cua khuất trên đường đèo: người đi xe máy bấm còi lúc nào và ra sao",
+      "intent": "Nắm ý nghĩa biển hiệu lệnh R.309 ấn còi theo QCVN 41:2024/BGTVT, vị trí thường đặt trước khúc cua khuất, đoạn đèo dốc, và cách người đi xe máy bấm còi đúng lúc mà vẫn giảm tốc, giữ phần đường.",
+      "kw": "biển hiệu lệnh ấn còi",
+      "kw2": [
+        "biển bắt buộc bấm còi",
+        "bấm còi khi qua khúc cua khuất"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê lần đầu chạy đường đèo",
+      "location_scope": "đường lên Tam Đảo, Ba Vì và các đoạn đèo dốc giáp ranh Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-003",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển tam giác có hình đèn giao thông trên quốc lộ ngoại thành: xe máy giảm tốc thế nào trước nút có đèn",
+      "intent": "Hiểu biển cảnh báo W.209 giao nhau có tín hiệu đèn theo QCVN 41:2024/BGTVT, vì sao biển đặt trước nút khuất tầm nhìn và cách người đi xe máy nhả ga, chọn làn để dừng kịp khi đèn chuyển.",
+      "kw": "biển giao nhau có tín hiệu đèn",
+      "kw2": [
+        "biển báo phía trước có đèn giao thông",
+        "nút giao có đèn trên quốc lộ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy chạy quốc lộ ra ngoại thành cả ngày lẫn tối",
+      "location_scope": "quốc lộ 6 qua Chương Mỹ, quốc lộ 32 qua Hoài Đức, Đan Phượng, Sơn Tây",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-004",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển phụ vẽ đường ưu tiên bẻ góc dưới biển giao nhau: xe máy đi thẳng có phải nhường xe đang rẽ",
+      "intent": "Hiểu biển phụ hướng đường ưu tiên gắn dưới biển giao nhau theo QCVN 41:2024/BGTVT, đọc nét đậm nét mảnh để biết hướng nào được ưu tiên khi đường chính rẽ góc và người đi xe máy phải nhường ai.",
+      "kw": "biển phụ hướng đường ưu tiên",
+      "kw2": [
+        "đường ưu tiên rẽ góc tại ngã tư",
+        "nét đậm trên biển phụ ưu tiên"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê đi đường liên xã, đường tỉnh ngoại thành",
+      "location_scope": "ngã ba, ngã tư không đèn trên đường tỉnh khu vực Đông Anh, Sóc Sơn, Mê Linh",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-005",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển chú ý gia súc trên đường đê và đường ven đồi ngoại thành: xe máy xử lý sao khi trâu bò ra đường",
+      "intent": "Biết cách đọc biển cảnh báo chú ý gia súc theo QCVN 41:2024/BGTVT, đoán trước đoạn có trâu bò qua đường và giảm tốc, giữ khoảng cách, không bấm còi dọa khi đi xe máy ở vùng ven đô.",
+      "kw": "biển chú ý gia súc",
+      "kw2": [
+        "trâu bò qua đường khi đi xe máy",
+        "biển cảnh báo gia súc ngoại thành"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "khách du lịch tự lái xe máy về vùng quê quanh Hà Nội",
+      "location_scope": "đường đê sông Hồng, sông Đáy và đường quanh Ba Vì, Sóc Sơn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-006",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển báo cầu vồng trước cây cầu cong lồi qua kênh mương ngoại thành: xe máy qua đỉnh cầu khuất tầm nhìn",
+      "intent": "Hiểu biển cảnh báo cầu vồng theo QCVN 41:2024/BGTVT, nhận ra cầu có mặt cong lồi che khuất xe ngược chiều và cách người đi xe máy giảm tốc, đi sát bên phải, không vượt khi lên đỉnh cầu.",
+      "kw": "biển báo cầu vồng",
+      "kw2": [
+        "cầu cong lồi khuất tầm nhìn",
+        "qua cầu nhỏ kênh mương bằng xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê khám phá làng quê ven đô",
+      "location_scope": "cầu nhỏ qua kênh, sông Nhuệ, sông Đáy ở Thanh Oai, Ứng Hòa, Phú Xuyên",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-007",
+      "child_id": "C-BIEN-BAO",
+      "title": "Vạch mắt võng màu vàng ở nút giao và trước cổng cơ quan: xe máy có được dừng chờ trong ô kẻ không",
+      "intent": "Hiểu vạch mắt võng màu vàng theo QCVN 41:2024/BGTVT báo khu vực cấm dừng xe, và biết cách người đi xe máy quan sát lối ra phía trước để chỉ đi vào ô kẻ khi chắc chắn thoát qua được.",
+      "kw": "vạch mắt võng",
+      "kw2": [
+        "vạch kẻ ô vàng cấm dừng",
+        "dừng xe trong vạch mắt võng"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy hằng ngày qua nút giao đông giờ cao điểm",
+      "location_scope": "nút giao và lối ra cơ quan, bệnh viện, trạm cứu hỏa trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-008",
+      "child_id": "C-BIEN-BAO",
+      "title": "Tam giác ngược và vạch đứt ngang sơn ở miệng ngõ ra phố lớn: xe máy nhường đường và dừng ở đâu",
+      "intent": "Nắm ý nghĩa vạch ngang đứt nét nhường đường và ký hiệu tam giác ngược trên mặt đường theo QCVN 41:2024/BGTVT, để biết khi ra từ ngõ, đường nhánh phải giảm tốc, dừng ở đâu và nhường xe nào.",
+      "kw": "vạch nhường đường",
+      "kw2": [
+        "tam giác ngược trên mặt đường",
+        "ra từ ngõ phải nhường đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê ở trong ngõ, đường nhánh đổ ra phố chính",
+      "location_scope": "miệng ngõ, đường nhánh đổ ra trục lớn ở Đống Đa, Cầu Giấy, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-009",
+      "child_id": "C-BIEN-BAO",
+      "title": "Vạch sơn giảm tốc nhiều sọc ngang trước nút giao, khúc cua quốc lộ: xe máy giảm tốc thế nào khi đi qua",
+      "intent": "Hiểu nhóm vạch giảm tốc độ theo QCVN 41:2024/BGTVT, phân biệt với gờ giảm tốc, và biết cách người đi xe máy nhả ga, phanh đều, giữ tay lái thẳng khi bánh xe rung qua các sọc sơn nổi.",
+      "kw": "vạch sơn giảm tốc",
+      "kw2": [
+        "vạch giảm tốc độ trên quốc lộ",
+        "sọc sơn nổi làm rung xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê chạy quốc lộ và đường vành đai",
+      "location_scope": "quốc lộ 1A cũ qua Thường Tín, quốc lộ 5 qua Gia Lâm, quốc lộ 32 qua Hoài Đức",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-010",
+      "child_id": "C-BIEN-BAO",
+      "title": "Vạch vàng đôi một nét liền một nét đứt giữa đường: bên nào xe máy được vượt, rẽ trái và bên nào không",
+      "intent": "Hiểu vạch vàng đôi gồm một nét liền và một nét đứt theo QCVN 41:2024/BGTVT, xác định phía được cắt qua và phía bị cấm, để người đi xe máy vượt, rẽ trái, quay đầu đúng quy định.",
+      "kw": "vạch vàng một liền một đứt",
+      "kw2": [
+        "vạch đôi vàng hỗn hợp",
+        "xe máy vượt qua vạch vàng đôi"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê chạy đường hai chiều ngoại thành",
+      "location_scope": "đường tỉnh, quốc lộ hai chiều ra Sơn Tây, Sóc Sơn, Hòa Lạc",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-011",
+      "child_id": "C-BIEN-BAO",
+      "title": "Đinh phản quang và gù nổi trên vạch kẻ đường: nhận làn, mép đường, đầu dải phân cách khi đi xe máy đêm mưa",
+      "intent": "Biết cách đọc đinh phản quang và gù nổi gắn trên mặt đường theo QCVN 41:2024/BGTVT để nhận làn, mép đường, đầu dải phân cách khi trời tối, mưa và tránh để bánh xe máy trượt trên gù.",
+      "kw": "đinh phản quang mặt đường",
+      "kw2": [
+        "mắt mèo trên đường",
+        "gù nổi trên vạch kẻ đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy về muộn trên đường lớn, cầu và đường vành đai",
+      "location_scope": "cầu lớn qua sông Hồng, đường vành đai và quốc lộ ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-012",
+      "child_id": "C-BIEN-BAO",
+      "title": "Đèn tín hiệu tạm ở đoạn thi công chỉ còn một làn: xe máy phải chờ đèn đỏ dù không có ngã tư",
+      "intent": "Hiểu đèn tín hiệu đặt tạm điều khiển luân phiên hai chiều ở đoạn sửa đường, cầu tạm theo QCVN 41:2024/BGTVT, và biết người đi xe máy dừng ở đâu, chờ bao lâu, không bám đuôi dòng xe ngược chiều.",
+      "kw": "đèn tín hiệu tạm đoạn thi công",
+      "kw2": [
+        "đèn luân phiên một làn",
+        "chờ đèn đỏ ở đoạn sửa đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy đi qua công trường làm đường, sửa cầu",
+      "location_scope": "đoạn sửa đường, cầu tạm trên quốc lộ và đường tỉnh quanh Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-013",
+      "child_id": "C-BIEN-BAO",
+      "title": "Người cầm cờ hoặc biển quay tay Dừng lại, Đi chậm ở đoạn sửa đường: xe máy có buộc phải làm theo",
+      "intent": "Hiểu vai trò người hướng dẫn giao thông tại nơi thi công theo Luật Trật tự, an toàn giao thông đường bộ 2024 và QCVN 41:2024/BGTVT, để người đi xe máy chấp hành đúng hiệu lệnh cờ, biển quay tay.",
+      "kw": "người cầm cờ hướng dẫn giao thông",
+      "kw2": [
+        "biển quay tay dừng lại đi chậm",
+        "hiệu lệnh ở công trường làm đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê qua đoạn thi công có người phân luồng",
+      "location_scope": "công trường làm đường, nâng cấp quốc lộ và đường đê ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-014",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển điểm dừng xe buýt và vạch sơn ở trạm: xe máy dừng đón, trả người tại đó có bị coi là sai",
+      "intent": "Nắm cách nhận biển, vạch điểm dừng xe buýt theo QCVN 41:2024/BGTVT và quy định dừng đỗ xe tại nơi dừng xe buýt theo Luật Trật tự, an toàn giao thông đường bộ 2024 khi xe máy đón người.",
+      "kw": "dừng xe máy ở trạm xe buýt",
+      "kw2": [
+        "vạch sơn điểm dừng xe buýt",
+        "đón người ở trạm xe buýt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê hay đón bạn bè, người thân dọc phố",
+      "location_scope": "điểm dừng xe buýt trên các trục Nguyễn Trãi, Xuân Thủy, Giải Phóng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-015",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển và chữ sơn làn dành riêng cho xe buýt nhanh BRT: khi nào xe máy được cắt qua hoặc đi vào làn",
+      "intent": "Hiểu biển làn đường dành riêng cho xe buýt, chữ sơn và vạch phân làn theo QCVN 41:2024/BGTVT, để người đi xe máy biết chỗ được cắt ngang khi rẽ và không chạy dọc trong làn BRT.",
+      "kw": "biển làn đường dành riêng xe buýt",
+      "kw2": [
+        "xe máy đi vào làn brt",
+        "cắt ngang làn xe buýt khi rẽ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê ở trọ, làm việc dọc tuyến BRT",
+      "location_scope": "tuyến BRT Kim Mã, Láng Hạ, Lê Văn Lương, Tố Hữu, Yên Nghĩa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-016",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển hướng đi trên từng làn treo trước nút giao lớn: xe máy chọn làn rẽ trái, đi thẳng từ bao xa",
+      "intent": "Hiểu biển chỉ hướng đi trên mỗi làn đường đặt trên giá long môn hoặc cột theo QCVN 41:2024/BGTVT, để người đi xe máy chọn làn sớm trước nút giao lớn và không chuyển làn gấp sát vạch dừng.",
+      "kw": "biển hướng đi trên mỗi làn đường",
+      "kw2": [
+        "biển chỉ làn trước nút giao",
+        "chọn làn rẽ trái bằng xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê lần đầu qua nút giao nhiều làn",
+      "location_scope": "nút giao trên vành đai 2, vành đai 3 dưới thấp, Phạm Hùng, Lê Văn Lương",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-017",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển hạn chế chiều cao ở gầm cầu và lối vào ngõ: xe máy chở cây cảnh, hàng cao dịp Tết cần đo trước",
+      "intent": "Hiểu biển cấm hạn chế chiều cao P.117 theo QCVN 41:2024/BGTVT áp dụng cho tổng chiều cao cả xe và hàng, để người đi xe máy chở cây đào, quất, hàng cồng kềnh tính trước đường tránh gầm thấp.",
+      "kw": "biển hạn chế chiều cao xe máy",
+      "kw2": [
+        "chở cây đào qua gầm cầu",
+        "chiều cao hàng hóa trên xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người thuê xe máy chở cây cảnh, đồ cồng kềnh dịp cuối năm",
+      "location_scope": "gầm cầu vượt, cổng ngõ quanh chợ hoa Quảng Bá, Nhật Tân và các trục đi qua",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-018",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển tròn xanh đường dành cho người đi bộ ở lối dạo ven hồ, công viên: xe máy có được chạy hay dắt vào",
+      "intent": "Hiểu biển đường dành cho người đi bộ theo QCVN 41:2024/BGTVT, phân biệt với biển khu vực phố đi bộ, để người đi xe máy biết lúc phải tắt máy dắt xe hoặc gửi xe trước lối dạo.",
+      "kw": "biển đường dành cho người đi bộ",
+      "kw2": [
+        "xe máy vào đường dạo ven hồ",
+        "dắt xe máy vào lối đi bộ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "khách du lịch đi xe máy thuê dạo hồ, công viên",
+      "location_scope": "lối dạo ven Hồ Tây, các hồ và công viên lớn trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-019",
+      "child_id": "C-BIEN-BAO",
+      "title": "Vạch sơn cũ còn sót cạnh vạch mới sau khi phân làn lại: người đi xe máy nên theo vạch nào cho đúng",
+      "intent": "Hiểu cách xác định vạch còn hiệu lực khi vạch cũ chưa xóa hết lẫn với vạch mới, dựa vào biển báo đi kèm và thứ tự hiệu lực báo hiệu theo QCVN 41:2024/BGTVT để xe máy chọn đúng làn.",
+      "kw": "vạch kẻ đường cũ và mới",
+      "kw2": [
+        "đường vừa phân làn lại",
+        "vạch sơn cũ chưa xóa"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê dài ngày qua tuyến vừa tổ chức lại giao thông",
+      "location_scope": "các trục phố, nút giao vừa phân làn lại trong nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-020",
+      "child_id": "C-BIEN-BAO",
+      "title": "Biển tự viết ở đầu ngõ hay trong khu đô thị như Cấm đỗ xe, Đi chậm: có hiệu lực như biển báo giao thông không",
+      "intent": "Hiểu khác biệt giữa báo hiệu đường bộ đúng QCVN 41:2024/BGTVT do đơn vị quản lý đường lắp đặt và biển tự viết của tổ dân phố, ban quản lý, để người đi xe máy biết cách ứng xử.",
+      "kw": "biển báo tự chế đầu ngõ",
+      "kw2": [
+        "biển cấm đỗ xe tự viết",
+        "biển trong khu đô thị có hiệu lực không"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người thuê xe máy ở trọ trong ngõ, chung cư, khu đô thị",
+      "location_scope": "ngõ phố cũ ở Đống Đa, Hai Bà Trưng và đường nội bộ khu đô thị như Times City, Ocean Park",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-021",
+      "child_id": "C-BIEN-BAO",
+      "title": "Hai cụm đèn tín hiệu đặt sát nhau ở nút giao kép: xe máy nhìn đèn nào và dừng chờ ở vạch nào",
+      "intent": "Biết cách nhận ra nút giao kép có hai cụm đèn tín hiệu gần nhau theo QCVN 41:2024/BGTVT, chọn đúng đèn điều khiển làn mình và dừng ở vạch dừng thứ hai mà không chắn lối xe cắt ngang.",
+      "kw": "hai cụm đèn tín hiệu gần nhau",
+      "kw2": [
+        "nút giao kép có hai đèn",
+        "dừng giữa hai ngã tư gần nhau"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy thuê qua các nút giao phức tạp trong nội thành",
+      "location_scope": "các nút giao sát nhau trên Giải Phóng, Nguyễn Trãi, Trường Chinh, đường Láng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-072-022",
+      "child_id": "C-BIEN-BAO",
+      "title": "Cọc nhựa dẻo và dải phân cách tạm chia làn ô tô, xe máy: len qua khe để rẽ có bị coi là vi phạm",
+      "intent": "Hiểu chức năng cọc tiêu dẻo, dải phân cách tạm tách làn ô tô và xe máy theo QCVN 41:2024/BGTVT, và biết người đi xe máy chuyển làn, rẽ ở đúng điểm mở thay vì len qua khe cọc.",
+      "kw": "cọc nhựa dẻo phân làn",
+      "kw2": [
+        "dải phân cách mềm tách làn xe máy",
+        "len qua dải phân cách tạm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/bien-bao/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-072",
+      "audience": "người đi xe máy đi làm hằng ngày trên trục có phân làn tách riêng",
+      "location_scope": "các trục phân làn ô tô, xe máy như Nguyễn Trãi, Lê Văn Lương, vành đai 3 dưới thấp",
       "word_target": 1200
     }
   ],
