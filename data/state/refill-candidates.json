@@ -7,7 +7,7 @@
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-20T09:56:46+00:00",
-    "staged_at": "2026-10-20T10:15:12+00:00"
+    "staged_at": "2026-10-20T10:20:23+00:00"
   },
   "candidates": [
     {
@@ -749,6 +749,481 @@
       "subtopic": "refill-2026-10-20-W2-065",
       "audience": "người đi xe số thuê chở người hoặc đồ qua đường đèo nhiều cua",
       "location_scope": "các khúc cua gắt trên đường lên Tam Đảo, Ba Vì và đèo Thung Khe",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-001",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Hộ chiếu một nước, bằng lái cấp ở nước đang sinh sống: khách quốc tế xin IDP ở đâu để lái xe máy tại Việt Nam",
+      "intent": "Hiểu vì sao giấy phép lái xe quốc tế phải do nước cấp bằng lái gốc phát hành, và chuẩn bị đúng giấy tờ khi hộ chiếu và bằng lái thuộc hai quốc gia khác nhau.",
+      "kw": "idp khi bằng lái nước khác",
+      "kw2": [
+        "hộ chiếu và bằng lái khác nước",
+        "xin idp ở nước đang sống"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "người nước ngoài mang hộ chiếu một nước nhưng sống và có bằng lái ở nước thứ ba",
+      "location_scope": "Hà Nội và các chuyến tự lái ra ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-002",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Tên trên hộ chiếu, bằng lái gốc và IDP không khớp sau khi đổi họ hay đổi bằng mới: khách quốc tế chuẩn bị gì",
+      "intent": "Nắm cách đối chiếu họ tên, số bằng và ngày cấp giữa hộ chiếu, bằng lái gốc và IDP, rồi mang thêm giấy tờ chứng minh khi thông tin lệch do kết hôn hoặc đổi thẻ.",
+      "kw": "tên bằng lái không khớp hộ chiếu",
+      "kw2": [
+        "đổi họ sau kết hôn bằng lái",
+        "số bằng lái khác idp"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế vừa đổi họ sau kết hôn hoặc vừa cấp đổi bằng lái ở nước mình",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-003",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "IDP hoặc bằng gốc sắp hết hạn giữa chuyến đi dài: khách quốc tế kiểm tra trước khi thuê xe máy ở Hà Nội",
+      "intent": "Lên kế hoạch kiểm tra ngày hết hạn của IDP và bằng lái gốc so với lịch trình nhiều tháng ở Đông Nam Á, để không tự lái khi giấy phép đã mất hiệu lực ở Hà Nội.",
+      "kw": "idp hết hạn khi đang du lịch",
+      "kw2": [
+        "thời hạn giấy phép lái xe quốc tế",
+        "bằng gốc hết hạn idp còn hạn"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách ba lô đi dài ngày qua nhiều nước Đông Nam Á rồi mới đến Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-004",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Mất giấy phép lái xe quốc tế khi đang ở Hà Nội: khách quốc tế xin lại từ nước mình và tạm dừng tự lái thế nào",
+      "intent": "Biết cách xử lý khi làm mất IDP giữa kỳ thuê xe ở Hà Nội: báo chủ xe, liên hệ cơ quan cấp ở nước mình và chọn cách đi lại hợp pháp trong lúc chờ.",
+      "kw": "mất giấy phép lái xe quốc tế",
+      "kw2": [
+        "mất idp ở việt nam",
+        "xin lại idp khi ở nước ngoài"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế đang thuê xe máy thì làm mất IDP",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-005",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "IDP mua trên mạng không do cơ quan nước mình cấp: khách quốc tế nhận biết trước khi lái xe máy ở Việt Nam",
+      "intent": "Hiểu sự khác nhau giữa IDP do cơ quan có thẩm quyền cấp và giấy tờ tự xưng bằng lái quốc tế bán trên mạng, để không mang giấy vô giá trị sang Việt Nam.",
+      "kw": "idp mua trên mạng",
+      "kw2": [
+        "giấy phép lái xe quốc tế giả",
+        "international driving license online"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế định đặt mua giấy phép lái xe quốc tế qua website trước chuyến đi",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-006",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bằng lái Thái Lan, Malaysia, Singapore và hiệp định ASEAN: khách Đông Nam Á có cần IDP khi lái xe máy",
+      "intent": "Nắm nội dung hiệp định ASEAN về công nhận giấy phép lái xe trong nước và lý do an toàn nhất vẫn là mang IDP hợp lệ khi tự lái xe máy ở Hà Nội.",
+      "kw": "bằng lái asean ở việt nam",
+      "kw2": [
+        "hiệp định asean giấy phép lái xe",
+        "khách thái lan lái xe máy việt nam"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "du khách đến từ các nước ASEAN như Thái Lan, Malaysia, Singapore",
+      "location_scope": "Hà Nội và vùng lân cận",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-007",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Quen rẽ trái hai giai đoạn ở Đài Loan: khách quốc tế rẽ trái bằng xe máy tại ngã tư Hà Nội thế nào",
+      "intent": "Biết cách bỏ thói quen dừng ở ô chờ rẽ trái hai giai đoạn như ở Đài Loan, chuyển sang vào làn sát tim đường và rẽ trái trực tiếp theo luật Việt Nam.",
+      "kw": "rẽ trái hai giai đoạn đài loan",
+      "kw2": [
+        "khách đài loan đi xe máy hà nội",
+        "rẽ trái xe máy ở việt nam"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách Đài Loan quen chạy xe tay ga trong thành phố",
+      "location_scope": "các ngã tư lớn nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-008",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Quen biển STOP bốn ngả ở Mỹ, Canada: khách quốc tế qua nút giao không đèn ở Hà Nội nhường ai trước",
+      "intent": "Hiểu nguyên tắc nhường đường ở nút giao không đèn theo luật Việt Nam khác thói quen ai đến trước đi trước của biển STOP bốn ngả ở Mỹ và Canada.",
+      "kw": "four way stop ở việt nam",
+      "kw2": [
+        "khách mỹ đi xe máy hà nội",
+        "nút giao không đèn nhường ai"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách Mỹ, Canada quen lái ô tô theo luật dừng bốn ngả",
+      "location_scope": "nút giao trong ngõ, khu dân cư và ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-009",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Quen dừng hẳn nhường người đi bộ như ở châu Âu: khách quốc tế nhường ở vạch kẻ Hà Nội sao để xe sau không tông",
+      "intent": "Biết cách vẫn nhường người đi bộ đúng luật ở vạch kẻ đường tại Hà Nội nhưng giảm tốc sớm, ra hiệu và nhìn gương để xe máy phía sau không đâm vào đuôi xe.",
+      "kw": "nhường người đi bộ xe máy",
+      "kw2": [
+        "vạch kẻ đường người đi bộ hà nội",
+        "khách châu âu đi xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách châu Âu quen dừng hẳn trước vạch người đi bộ",
+      "location_scope": "các phố có vạch người đi bộ quanh Hồ Gươm và phố cổ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-010",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Quen mô tô phân khối lớn ở nước mình: những thói quen cần đổi khi chạy xe tay ga nhỏ giữa dòng xe Hà Nội",
+      "intent": "Hiểu những khác biệt khi chuyển từ mô tô phân khối lớn sang xe tay ga nhỏ ở Hà Nội: tốc độ dòng xe, cách vào cua, phanh, giữ làn và không phô ga.",
+      "kw": "quen mô tô phân khối lớn",
+      "kw2": [
+        "từ mô tô lớn sang xe tay ga",
+        "biker nước ngoài ở hà nội"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế có kinh nghiệm lái mô tô phân khối lớn ở nước mình",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-011",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Khách Hồi giáo tự lái xe máy ở Hà Nội: đến thánh đường Al-Noor phố Hàng Lược dự lễ thứ Sáu và gửi xe",
+      "intent": "Lên kế hoạch đi xe máy đến thánh đường Al-Noor trên phố Hàng Lược để dự lễ thứ Sáu, chọn giờ đến, chỗ gửi xe trong phố cổ và trang phục phù hợp khi lái.",
+      "kw": "thánh đường hồi giáo hàng lược",
+      "kw2": [
+        "nhà thờ hồi giáo hà nội",
+        "khách hồi giáo đi xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "du khách Hồi giáo đến từ Malaysia, Indonesia, Trung Đông",
+      "location_scope": "phố Hàng Lược và phố cổ Hoàn Kiếm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-012",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Đến đại sứ quán nước mình ở Hà Nội bằng xe máy thuê: khu vực cấm dừng đỗ, tìm cổng lãnh sự và chỗ gửi xe",
+      "intent": "Biết cách đi xe máy đến đại sứ quán hoặc bộ phận lãnh sự ở Hà Nội, nhận biết đoạn cấm dừng đỗ quanh cơ quan ngoại giao và tìm chỗ gửi xe hợp lệ gần đó.",
+      "kw": "đến đại sứ quán bằng xe máy",
+      "kw2": [
+        "khu ngoại giao đoàn hà nội",
+        "gửi xe gần đại sứ quán"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế cần đến đại sứ quán hoặc lãnh sự nước mình",
+      "location_scope": "Ba Đình, Hoàn Kiếm, khu ngoại giao đoàn Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-013",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Cảnh sát giao thông, cảnh sát cơ động hay dân phòng: khách quốc tế nhận biết ai được dừng xe máy để kiểm tra",
+      "intent": "Hiểu lực lượng nào có thẩm quyền dừng xe máy kiểm tra trên đường ở Hà Nội, cách nhận diện họ và cách phản ứng khi người dừng xe không rõ là ai.",
+      "kw": "lực lượng nào được dừng xe máy",
+      "kw2": [
+        "phân biệt cảnh sát giao thông",
+        "dân phòng có được dừng xe"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế tự lái xe máy lần đầu gặp các lực lượng trên đường",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-014",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Biên bản vi phạm giao thông viết bằng tiếng Việt: khách quốc tế đọc những mục nào và ghi ý kiến trước khi ký",
+      "intent": "Nắm các mục chính trên biên bản vi phạm hành chính giao thông viết bằng tiếng Việt, cách nhờ dịch, kiểm tra thông tin và ghi ý kiến của mình trước khi ký.",
+      "kw": "đọc biên bản vi phạm giao thông",
+      "kw2": [
+        "biên bản tiếng việt cho người nước ngoài",
+        "ký biên bản vi phạm"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế bị lập biên bản khi tự lái xe máy",
+      "location_scope": "Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-015",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Rét đậm, mưa dông, gió mùa: khách quốc tế hiểu từ ngữ bản tin thời tiết Việt Nam để quyết định chạy xe máy",
+      "intent": "Hiểu các từ ngữ thường gặp trong bản tin và cảnh báo thời tiết tiếng Việt như rét đậm, mưa dông, gió mùa, để quyết định đi hay hoãn chuyến xe máy.",
+      "kw": "từ ngữ dự báo thời tiết",
+      "kw2": [
+        "rét đậm là gì",
+        "cảnh báo mưa dông hà nội"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế đọc tin thời tiết tiếng Việt khi lên lịch tự lái",
+      "location_scope": "Hà Nội và các chuyến ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-016",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Đốt vàng mã trước cửa nhà ngày rằm, mùng một: khách quốc tế đi xe máy và dựng xe tránh lửa, tro bay thế nào",
+      "intent": "Hiểu tục đốt vàng mã trước cửa nhà ngày rằm, mùng một ở Hà Nội và biết cách đi xe, dựng xe cách xa thùng lửa, tro bay mà vẫn tôn trọng người dân.",
+      "kw": "đốt vàng mã trên vỉa hè",
+      "kw2": [
+        "vàng mã ngày rằm hà nội",
+        "khách nước ngoài thấy đốt vàng mã"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế lần đầu thấy đốt vàng mã trên phố",
+      "location_scope": "phố cổ và các khu dân cư Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-017",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Học nấu ăn kèm đi chợ sáng ở Hà Nội: khách quốc tế tự lái xe máy đến lớp, gửi xe và chở đồ về",
+      "intent": "Lên kế hoạch buổi học nấu ăn có đi chợ sáng ở Hà Nội bằng xe máy thuê: xuất phát đúng giờ, gửi xe gần chợ và chở túi nguyên liệu, đồ nấu về an toàn.",
+      "kw": "lớp học nấu ăn hà nội",
+      "kw2": [
+        "lớp nấu ăn cho khách nước ngoài",
+        "đi chợ sáng hà nội"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "du khách quốc tế đăng ký lớp học nấu món Việt",
+      "location_scope": "phố cổ, Tây Hồ và các chợ dân sinh Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-018",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Bảng điện tử báo ùn tắc, phân luồng ở Hà Nội: khách quốc tế đọc nhanh chữ tiếng Việt khi đang chạy xe máy",
+      "intent": "Biết cách đọc nhanh các từ tiếng Việt trên bảng điện tử thông tin giao thông như ùn tắc, phân luồng, đường cấm để đổi hướng sớm mà không phải dừng giữa đường.",
+      "kw": "bảng điện tử giao thông hà nội",
+      "kw2": [
+        "chữ trên bảng thông tin giao thông",
+        "ùn tắc phân luồng nghĩa là gì"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế tự lái trên các trục đường lớn",
+      "location_scope": "các trục đường lớn và cửa ngõ Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-019",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Gửi quà lưu niệm về nước bằng bưu kiện: khách quốc tế chở hàng bằng xe máy đến bưu cục và đóng gói thế nào",
+      "intent": "Lên kế hoạch chở quà lưu niệm bằng xe máy thuê đến bưu cục ở Hà Nội để gửi về nước: đóng gói, buộc thùng trên xe và gửi xe lúc làm thủ tục.",
+      "kw": "gửi bưu kiện về nước",
+      "kw2": [
+        "gửi quà quốc tế ở bưu điện",
+        "chở thùng hàng bằng xe máy"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế mua nhiều quà muốn gửi về nước trước ngày bay",
+      "location_scope": "Hoàn Kiếm và các bưu cục nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-020",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Trẻ em làng ven Hà Nội chạy ra vẫy chào hello: khách quốc tế đi xe máy giảm tốc và đáp lại an toàn",
+      "intent": "Biết cách giảm tốc, giữ khoảng cách và chào lại trẻ em, người dân hiếu khách ở các làng ven Hà Nội mà không dừng xe đột ngột hay buông tay lái.",
+      "kw": "trẻ em vẫy chào khách nước ngoài",
+      "kw2": [
+        "đi xe máy qua làng ven hà nội",
+        "người dân chào hello"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế tự lái qua đường làng ngoại thành",
+      "location_scope": "các làng ven Hà Nội như Ba Vì, Sóc Sơn, Hoài Đức",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-021",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Xe máy dừng sát sườn, cọ gương khi chờ đèn đỏ ở Hà Nội: khách quốc tế quen khoảng cách rộng nên đứng thế nào",
+      "intent": "Hiểu vì sao xe máy ở Hà Nội đứng sát nhau khi chờ đèn đỏ và biết cách chọn chỗ dừng, giữ tay lái, khởi hành cùng nhịp mà không hoảng khi bị áp sát.",
+      "kw": "đứng sát nhau chờ đèn đỏ",
+      "kw2": [
+        "khoảng cách khi dừng đèn đỏ",
+        "bị xe khác áp sát"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế quen khoảng cách rộng khi dừng xe ở nước mình",
+      "location_scope": "các ngã tư đông xe nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-022",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Xe phía trước chuyển hướng không nhìn lại: luật ngầm người sau tự tránh ở Hà Nội cho khách quốc tế",
+      "intent": "Nắm nguyên tắc ngầm người phía sau tự quan sát và tránh xe phía trước của dòng xe máy Hà Nội, từ đó đọc trước ý định chuyển hướng và giữ khoảng đệm phù hợp.",
+      "kw": "người phía sau tự tránh xe máy",
+      "kw2": [
+        "văn hóa giao thông hà nội",
+        "xe phía trước chuyển hướng đột ngột"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế quen giao thông có tín hiệu rõ ràng",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-023",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Công ty cấm tự lái xe máy khi công tác nước ngoài: khách công tác ở Hà Nội đọc chính sách trước khi thuê",
+      "intent": "Hiểu vì sao cần đọc chính sách đi lại và quy định an toàn của công ty trước khi tự thuê xe máy ở Hà Nội trong chuyến công tác, và phương án thay thế phù hợp.",
+      "kw": "công tác cấm lái xe máy",
+      "kw2": [
+        "khách công tác nước ngoài thuê xe máy",
+        "đi công tác hà nội tự lái"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "nhân viên công ty nước ngoài đi công tác ngắn ngày ở Hà Nội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-024",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Luyện tay lái vài ngày ở Hà Nội trước khi đi vòng Hà Giang: khách quốc tế tập gì với xe máy thuê",
+      "intent": "Lên kế hoạch dùng vài ngày tự lái ở Hà Nội và ngoại thành để luyện phanh, vào cua, leo dốc, chạy mưa trước khi khách quốc tế quyết định tự đi vòng Hà Giang.",
+      "kw": "luyện lái trước khi đi hà giang",
+      "kw2": [
+        "tập xe trước hà giang loop",
+        "khách nước ngoài đi hà giang"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "khách quốc tế định tự lái vòng Hà Giang nhưng còn ít kinh nghiệm",
+      "location_scope": "Hà Nội, Ba Vì, Tam Đảo",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-067-025",
+      "child_id": "C-THUE-QUOC-TE",
+      "title": "Tìm nhà vệ sinh công cộng khi đang đi xe máy ở Hà Nội: khách quốc tế ghé đâu và dựng xe thế nào cho yên tâm",
+      "intent": "Biết những nơi khách quốc tế có thể tìm nhà vệ sinh khi đang chạy xe máy ở Hà Nội như nhà vệ sinh công cộng, cây xăng, quán cà phê và cách dựng, khóa xe.",
+      "kw": "nhà vệ sinh công cộng hà nội",
+      "kw2": [
+        "tìm nhà vệ sinh khi đi xe máy",
+        "toilet công cộng phố cổ"
+      ],
+      "links": [
+        "/thue-xe/khach-quoc-te/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-067",
+      "audience": "du khách quốc tế tự lái cả ngày quanh thành phố",
+      "location_scope": "Hoàn Kiếm, Tây Hồ, Ba Đình",
       "word_target": 1200
     }
   ],
