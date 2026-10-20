@@ -3,13 +3,1306 @@
     "note": "Staging tu data/factory/refill-batches/ boi stage-refill-batch.py: candidate phai qua gate G1-G8 cua refill-queue.py --verify; FAIL thi rollback nguyen ven. Materialize boi refill-queue.py --refill --yes.",
     "created": "2026-09-27",
     "smoke_test": true,
-    "status": "MATERIALIZED",
+    "status": "STAGED",
     "verify_script": "scripts/factory/refill-queue.py --verify",
     "commit_script": "scripts/factory/refill-queue.py --commit --yes",
     "materialized_at": "2026-10-20T10:34:50+00:00",
-    "staged_at": "2026-10-20T10:20:23+00:00"
+    "staged_at": "2026-10-20T10:40:55+00:00"
   },
-  "candidates": [],
+  "candidates": [
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-001",
+      "child_id": "C-QUY-DINH",
+      "title": "Người ngồi sau vòng tay qua người lái để giữ tay lái hộ khi kèm tập xe máy: hành vi Nghị định 168 cấm",
+      "intent": "Hiểu vì sao Nghị định 168/2024 xử lý hành vi người ngồi sau vòng tay điều khiển xe máy thay người lái, rủi ro khi kèm người mới tập trên phố và cách hướng dẫn tập lái đúng luật.",
+      "kw": "ngồi sau vòng tay cầm lái",
+      "kw2": [
+        "vòng tay qua người ngồi trước",
+        "kèm người tập lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người kèm bạn bè, người thân tập đi xe máy thuê",
+      "location_scope": "khu đô thị, đường nội bộ và phố vắng ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-002",
+      "child_id": "C-QUY-DINH",
+      "title": "Cả nhóm xe máy cùng chạy quá tốc độ trên quốc lộ ra khỏi Hà Nội: lỗi đi thành nhóm theo Nghị định 168",
+      "intent": "Nắm cách Nghị định 168/2024 phân biệt lỗi điều khiển xe thành nhóm từ hai xe trở lên chạy quá tốc độ với lỗi quá tốc độ đơn lẻ, để trưởng đoàn đặt nhịp chạy an toàn và đúng luật.",
+      "kw": "nhóm xe máy chạy quá tốc độ",
+      "kw2": [
+        "điều khiển xe thành nhóm",
+        "đi phượt theo đoàn quá tốc độ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "nhóm bạn thuê xe máy đi phượt cuối tuần",
+      "location_scope": "Quốc lộ 6, Quốc lộ 21, Quốc lộ 32 từ Hà Nội đi Hòa Bình, Sơn Tây",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-003",
+      "child_id": "C-QUY-DINH",
+      "title": "Bám đuôi hoặc chạy trước mở đường cho xe cứu thương bằng xe máy: vì sao luật không coi là xe ưu tiên",
+      "intent": "Hiểu vì sao xe máy bám theo hay tự mở đường cho xe cứu thương, cứu hỏa không được hưởng quyền ưu tiên, các lỗi dễ mắc như vượt đèn đỏ, đi ngược chiều và cách nhường đường đúng.",
+      "kw": "bám đuôi xe cứu thương",
+      "kw2": [
+        "mở đường cho xe cấp cứu",
+        "xe máy không phải xe ưu tiên"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy giờ cao điểm ở nội thành",
+      "location_scope": "đường dẫn tới các bệnh viện lớn ở Hà Nội như Bạch Mai, Việt Đức",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-004",
+      "child_id": "C-QUY-DINH",
+      "title": "Dân phòng, bảo vệ dân phố, nhân viên công trường ra hiệu dừng xe máy: ai là người điều khiển giao thông",
+      "intent": "Nắm ai được luật coi là người điều khiển hoặc hướng dẫn giao thông, khi nào người đi xe máy phải làm theo hiệu lệnh của lực lượng không phải cảnh sát và cách xử sự khi nghi ngờ.",
+      "kw": "dân phòng ra hiệu dừng xe",
+      "kw2": [
+        "người hướng dẫn giao thông công trường",
+        "lực lượng bảo vệ an ninh trật tự cơ sở"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy thường xuyên qua ngõ phố và công trường",
+      "location_scope": "ngõ phố, công trường thi công đường và đường sắt đô thị ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-005",
+      "child_id": "C-QUY-DINH",
+      "title": "Dừng xe máy chờ người trước cổng bệnh viện, trường học, cơ quan ở Hà Nội: luật cấm dừng đỗ trong phạm vi nào",
+      "intent": "Biết cách xác định đoạn trước cổng trụ sở cơ quan, tổ chức có đường xe ra vào mà luật cấm dừng, đỗ xe, từ đó chọn chỗ chờ đón người thân hợp lệ quanh bệnh viện và trường học.",
+      "kw": "dừng xe trước cổng bệnh viện",
+      "kw2": [
+        "cấm dừng đỗ trước cổng cơ quan",
+        "chờ đón người trước cổng trường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người nhà đưa đón bệnh nhân, phụ huynh đưa đón con",
+      "location_scope": "cổng Bệnh viện Bạch Mai, Bệnh viện Việt Đức và trường học nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-006",
+      "child_id": "C-QUY-DINH",
+      "title": "Dừng xe máy ngay góc ngã tư để mua trà đá, đợi bạn: quy định cấm dừng đỗ gần nơi đường giao nhau",
+      "intent": "Nắm quy định cấm dừng, đỗ xe tại nơi đường giao nhau và trong phạm vi tính từ mép đường giao nhau, hiểu vì sao góc ngã tư nguy hiểm và chọn điểm dừng thay thế hợp lệ.",
+      "kw": "dừng xe ở góc ngã tư",
+      "kw2": [
+        "cấm dừng đỗ nơi đường giao nhau",
+        "dừng xe gần ngã tư"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy hay ghé quán vỉa hè",
+      "location_scope": "ngã tư trong phố cổ và khu phố nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-007",
+      "child_id": "C-QUY-DINH",
+      "title": "Dừng xe máy song song cạnh xe bạn hay ô tô đang đỗ ven phố để trao đồ, nói chuyện: luật có cấm không",
+      "intent": "Hiểu quy định cấm dừng, đỗ xe song song cùng chiều với xe khác đang dừng, đỗ trên đường, nhận ra các thói quen dễ vi phạm và cách tấp xe vào lề để trao đồ cho đúng.",
+      "kw": "dừng xe song song xe khác",
+      "kw2": [
+        "dừng song song cùng chiều",
+        "trao đồ cho bạn dưới lòng đường"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy hẹn gặp, nhận đồ trên phố",
+      "location_scope": "phố đông xe ở nội thành Hà Nội như Kim Mã, Xã Đàn, Bà Triệu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-008",
+      "child_id": "C-QUY-DINH",
+      "title": "Rủ nhau thi tăng tốc khi đèn xanh hay đuổi nhau trên đường vắng ban đêm: lúc nào thành đua xe trái phép",
+      "intent": "Hiểu ranh giới giữa chạy nhanh, chạy quá tốc độ đuổi nhau và đua xe trái phép theo luật, các hậu quả pháp lý có thể xảy ra và cách từ chối lời rủ rê khi đang đi xe thuê.",
+      "kw": "thế nào là đua xe trái phép",
+      "kw2": [
+        "chạy quá tốc độ đuổi nhau",
+        "thi tăng tốc xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người trẻ thuê xe máy đi chơi đêm",
+      "location_scope": "các trục đường rộng, vắng xe ban đêm ở ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-009",
+      "child_id": "C-QUY-DINH",
+      "title": "Đi bão mừng bóng đá bằng xe máy ở Hà Nội: đứng trên yên, buông tay vẫy cờ, rú ga bị luật cấm ra sao",
+      "intent": "Nắm những hành vi thường gặp khi đi bão mừng chiến thắng bị luật giao thông cấm, trách nhiệm của người lái và người ngồi sau, cách ăn mừng an toàn mà không vi phạm.",
+      "kw": "đi bão bằng xe máy",
+      "kw2": [
+        "đứng trên yên xe máy",
+        "cầm cờ khi đi xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người hâm mộ bóng đá đi xe máy thuê",
+      "location_scope": "Hồ Gươm, Tràng Tiền, Đinh Tiên Hoàng và các trục trung tâm Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-010",
+      "child_id": "C-QUY-DINH",
+      "title": "Lề đường, hè phố, phần đường xe chạy và làn đường khác nhau thế nào: hiểu đúng để xe máy đi và dừng hợp luật",
+      "intent": "Hiểu các khái niệm lề đường, hè phố, phần đường xe chạy và làn đường theo luật đường bộ hiện hành, rồi áp dụng để đi đúng phần đường và dừng xe đúng chỗ trên phố Hà Nội.",
+      "kw": "lề đường và hè phố khác nhau",
+      "kw2": [
+        "phần đường xe chạy là gì",
+        "làn đường là gì"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người mới đi xe máy, khách thuê xe lần đầu",
+      "location_scope": "phố nội thành và đường ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-011",
+      "child_id": "C-QUY-DINH",
+      "title": "Chạy xe máy vài trăm mét ra đầu ngõ mua đồ không đội mũ bảo hiểm: luật có miễn cho quãng đường ngắn không",
+      "intent": "Hiểu rằng nghĩa vụ đội mũ bảo hiểm áp dụng cả trong ngõ và quãng đường ngắn, các trường hợp luật cho phép người được chở không đội mũ và thói quen giúp không quên mũ khi ra ngõ.",
+      "kw": "đi gần không đội mũ bảo hiểm",
+      "kw2": [
+        "đi trong ngõ không đội mũ",
+        "quãng ngắn có phải đội mũ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "khách ở homestay, chung cư mini trong ngõ",
+      "location_scope": "ngõ, ngách khu dân cư Đống Đa, Hai Bà Trưng, Cầu Giấy",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-012",
+      "child_id": "C-QUY-DINH",
+      "title": "Gắn đèn chớp xanh đỏ, còi hú giống xe công an hay cứu thương lên xe máy: vì sao luật cấm và bị xử lý thế nào",
+      "intent": "Nắm quy định chỉ xe được quyền ưu tiên mới được lắp thiết bị phát tín hiệu ưu tiên, hậu quả khi xe máy tự gắn đèn chớp, còi hú và cách kiểm tra xe thuê trước khi nhận.",
+      "kw": "còi hú đèn ưu tiên xe máy",
+      "kw2": [
+        "thiết bị phát tín hiệu ưu tiên",
+        "đèn chớp xanh đỏ xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người thuê xe máy, người thích độ thêm đèn còi",
+      "location_scope": "Hà Nội và các tuyến đi phượt quanh Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-013",
+      "child_id": "C-QUY-DINH",
+      "title": "Lên lối đi bộ trên cầu Long Biên và các cầu sông Hồng để tránh tắc bằng xe máy: luật xếp vào lỗi gì",
+      "intent": "Hiểu vì sao chạy xe máy lên lối đi bộ trên cầu bị coi là đi vào phần đường không dành cho xe cơ giới, rủi ro va chạm người đi bộ và cách qua cầu lúc ùn tắc.",
+      "kw": "xe máy đi trên lối đi bộ",
+      "kw2": [
+        "phần đường dành cho người đi bộ",
+        "lối đi bộ cầu long biên"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi làm qua sông Hồng giờ cao điểm",
+      "location_scope": "cầu Long Biên, cầu Chương Dương và hai đầu cầu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-014",
+      "child_id": "C-QUY-DINH",
+      "title": "Quay đầu xe máy ở ngã tư có đèn tín hiệu tại Hà Nội: đi theo đèn rẽ trái, đứng làn nào và khi nào bị cấm",
+      "intent": "Nắm quy định đèn tín hiệu cho phép rẽ trái thì đồng thời cho phép quay đầu trừ nơi có biển cấm, cách chọn làn chờ và nhường đường khi quay đầu xe máy tại nút giao.",
+      "kw": "quay đầu ở ngã tư có đèn",
+      "kw2": [
+        "đèn rẽ trái có được quay đầu",
+        "quay đầu xe máy tại nút giao"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người thuê xe máy đi lại trong nội thành",
+      "location_scope": "nút giao có đèn tín hiệu ở nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-015",
+      "child_id": "C-QUY-DINH",
+      "title": "Tạt đầu ô tô, cắt ngang mặt xe máy khác khi chuyển làn, rẽ vào ngõ: luật xếp hành vi này vào những lỗi nào",
+      "intent": "Hiểu hành vi tạt đầu xe khác vi phạm quy định nào về chuyển làn, chuyển hướng và khoảng cách an toàn, vì sao dễ gây va chạm phía sau và cách đổi hướng đúng trình tự.",
+      "kw": "tạt đầu xe khác",
+      "kw2": [
+        "cắt mặt xe khi chuyển làn",
+        "chuyển hướng không quan sát"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy trên các trục đông xe",
+      "location_scope": "đường nhiều làn ở Hà Nội như Láng, Trường Chinh, Phạm Văn Đồng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-016",
+      "child_id": "C-QUY-DINH",
+      "title": "Qua phà, cầu phao trên sông Đáy, sông Hồng bằng xe máy: luật quy định ai phải xuống xe và thứ tự lên xuống",
+      "intent": "Nắm quy tắc qua phà, qua cầu phao theo Luật Trật tự, an toàn giao thông đường bộ 2024, gồm xếp hàng chờ, xuống xe, thứ tự lên xuống và quyền đi trước của xe ưu tiên.",
+      "kw": "quy định qua phà cầu phao",
+      "kw2": [
+        "qua cầu phao bằng xe máy",
+        "xuống xe khi lên phà"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy về vùng ven sông hoặc đi lễ chùa Hương",
+      "location_scope": "bến phà, cầu phao trên sông Đáy, sông Hồng ở ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-017",
+      "child_id": "C-QUY-DINH",
+      "title": "Đoàn xe máy câu lạc bộ, rước dâu, từ thiện diễu hành trên phố Hà Nội: khi nào phải xin phép theo luật",
+      "intent": "Hiểu quy định về tổ chức hoạt động văn hóa, thể thao, diễu hành, lễ hội trên đường bộ, phân biệt đi chung đường với diễu hành cần cấp phép và cách đi đoàn không chiếm đường.",
+      "kw": "đoàn xe máy diễu hành xin phép",
+      "kw2": [
+        "diễu hành trên đường bộ",
+        "đoàn xe rước dâu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người tổ chức đoàn xe máy, câu lạc bộ xe",
+      "location_scope": "các tuyến phố trung tâm và đường làng ven Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-018",
+      "child_id": "C-QUY-DINH",
+      "title": "Không vi phạm vẫn bị CSGT ra hiệu dừng xe máy: những trường hợp luật cho phép dừng xe để kiểm soát",
+      "intent": "Nắm các căn cứ cảnh sát giao thông được dừng phương tiện để kiểm soát theo quy định hiện hành, giấy tờ cần xuất trình và cách hợp tác bình tĩnh khi đi xe thuê ở Hà Nội.",
+      "kw": "csgt được dừng xe khi nào",
+      "kw2": [
+        "dừng xe kiểm soát theo kế hoạch",
+        "bị dừng xe khi không vi phạm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người thuê xe máy và khách quốc tế tự lái",
+      "location_scope": "các chốt tuần tra, kiểm soát trong nội thành và cửa ngõ Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-019",
+      "child_id": "C-QUY-DINH",
+      "title": "Ngã tư không kẻ vạch dừng, cột đèn đặt bên kia đường: xe máy phải dừng ở vị trí nào khi gặp đèn đỏ",
+      "intent": "Hiểu quy định vị trí dừng khi đèn đỏ ở nơi không có vạch dừng theo QCVN 41:2024, tránh dừng lấn vào giữa nút giao và áp dụng ở các ngã tư nhỏ trong phố và ngoại thành.",
+      "kw": "không có vạch dừng đèn đỏ",
+      "kw2": [
+        "dừng trước đèn tín hiệu",
+        "vị trí dừng khi đèn đỏ"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy ở phố nhỏ và ngoại thành",
+      "location_scope": "ngã tư nhỏ trong phố cũ và đường liên xã ngoại thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-020",
+      "child_id": "C-QUY-DINH",
+      "title": "Đèn chữ thập đỏ và mũi tên xanh treo phía trên từng làn đường: người đi xe máy được đi vào làn nào",
+      "intent": "Hiểu ý nghĩa đèn tín hiệu điều khiển sử dụng làn đường theo QCVN 41:2024, gồm đèn chữ thập đỏ và mũi tên xanh, để chọn làn đúng khi gặp loại đèn này ở cầu, hầm hoặc trạm kiểm soát.",
+      "kw": "đèn chữ thập đỏ trên làn",
+      "kw2": [
+        "đèn điều khiển làn đường",
+        "mũi tên xanh trên làn"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy đường dài và qua cầu, hầm",
+      "location_scope": "cầu, hầm và trạm kiểm soát trên các tuyến quanh Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-021",
+      "child_id": "C-QUY-DINH",
+      "title": "Ngồi nghiêng một bên sau xe máy khi mặc váy, áo dài: luật có bắt buộc người được chở ngồi dạng hai chân",
+      "intent": "Hiểu luật quy định gì về tư thế của người được chở trên xe máy, phân biệt ngồi nghiêng một bên với hành vi bị cấm như đứng trên yên, ngồi trên tay lái và cách ngồi an toàn.",
+      "kw": "ngồi một bên sau xe máy",
+      "kw2": [
+        "người ngồi sau ngồi nghiêng",
+        "tư thế người được chở xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "khách du lịch chụp ảnh áo dài, người mặc váy",
+      "location_scope": "phố cổ, Hồ Gươm và các điểm chụp ảnh ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-066-022",
+      "child_id": "C-QUY-DINH",
+      "title": "Phố hẹp có ô tô đỗ bên kia đường: dừng xe máy ở phía đối diện gần bao nhiêu mét thì bị luật cấm",
+      "intent": "Nắm quy định cấm dừng, đỗ xe cách ô tô đang đỗ ngược chiều dưới khoảng cách luật định trên phố hẹp và đường một làn mỗi chiều, để không tạo nút thắt chặn lối đi.",
+      "kw": "dừng xe đối diện ô tô đỗ",
+      "kw2": [
+        "khoảng cách với ô tô đỗ ngược chiều",
+        "dừng đỗ trên phố hẹp"
+      ],
+      "links": [
+        "/an-toan-phap-ly/quy-dinh-giao-thong/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-066",
+      "audience": "người đi xe máy giao nhận đồ, ghé cửa hàng",
+      "location_scope": "phố hẹp hai chiều khu Hoàn Kiếm, Ba Đình, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-001",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Thuê xe ở Hà Nội rồi về quê mới nhận thông báo phạt nguội: giải quyết tại công an nơi cư trú thế nào",
+      "intent": "Nắm cách đề nghị giải quyết vụ phạt nguội phát sinh ở Hà Nội tại công an cấp xã nơi cư trú ở tỉnh khác, gồm liên hệ đơn vị ghi trên thông báo và giấy tờ cần mang.",
+      "kw": "giải quyết phạt nguội nơi cư trú",
+      "kw2": [
+        "phạt nguội ở tỉnh khác nộp ở đâu",
+        "chuyển phạt nguội về nơi cư trú"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "khách nội địa từ tỉnh khác thuê xe máy ở Hà Nội đã về quê",
+      "location_scope": "Hà Nội và tỉnh nơi người thuê cư trú",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-002",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Thông báo vi phạm, biên bản và quyết định xử phạt trong vụ phạt nguội: mỗi giấy có ý nghĩa gì với người lái",
+      "intent": "Hiểu sự khác nhau giữa thông báo vi phạm, biên bản và quyết định xử phạt trong vụ phạt nguội, giấy nào cần ký, cần giữ và giấy nào làm phát sinh nghĩa vụ nộp tiền.",
+      "kw": "biên bản và quyết định phạt nguội",
+      "kw2": [
+        "thông báo phạt nguội là gì",
+        "quyết định xử phạt vi phạm giao thông"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy lần đầu làm việc với công an về phạt nguội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-003",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Quá hạn vẫn chưa nộp tiền theo quyết định xử phạt sau phạt nguội: các biện pháp cưỡng chế có thể áp dụng",
+      "intent": "Nắm các biện pháp cưỡng chế thi hành quyết định xử phạt có thể bị áp dụng khi quá hạn không nộp tiền phạt sau phạt nguội, và cách tránh để sự việc đi đến bước này.",
+      "kw": "cưỡng chế nộp phạt nguội",
+      "kw2": [
+        "không nộp phạt bị cưỡng chế",
+        "khấu trừ tài khoản nộp phạt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đi xe máy đã có quyết định xử phạt nhưng chưa nộp tiền",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-004",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đi theo hiệu lệnh của cảnh sát giao thông khi đèn còn đỏ rồi nhận thông báo phạt nguội: giải trình thế nào",
+      "intent": "Biết cách giải trình khi bị ghi lỗi vượt đèn đỏ lúc đang chấp hành hiệu lệnh của người điều khiển giao thông, gồm thứ tự ưu tiên báo hiệu, thời điểm, địa điểm và chứng cứ cần chuẩn bị.",
+      "kw": "csgt cho đi khi đèn đỏ",
+      "kw2": [
+        "đi theo hiệu lệnh vẫn bị phạt nguội",
+        "hiệu lệnh csgt và đèn tín hiệu"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đi xe máy thuê qua nút giao có cảnh sát điều tiết giờ cao điểm",
+      "location_scope": "các nút giao lớn ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-005",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Vừa qua nút giao đã bị CSGT phía trước dừng xe: lỗi do camera phát hiện rồi báo tổ tuần tra xử lý trực tiếp",
+      "intent": "Hiểu cách trung tâm giám sát dùng hình ảnh camera để báo tổ tuần tra dừng xe vi phạm ở đoạn đường phía trước, người lái nên hợp tác, đề nghị xem hình ảnh và đọc biên bản ra sao.",
+      "kw": "camera phát hiện csgt dừng xe",
+      "kw2": [
+        "bị dừng xe vì camera ghi lỗi",
+        "camera báo tổ tuần tra"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy bị dừng xe ngay sau khi qua nút giao có camera",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-006",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Phạt nguội xe máy dựa trên văn bản pháp luật nào: luật, nghị định và thông tư người đi xe nên biết",
+      "intent": "Nắm các văn bản pháp luật làm căn cứ cho việc xử phạt qua hình ảnh camera, mỗi văn bản quy định phần nào, để tự đối chiếu nội dung thông báo và tìm đúng điều luật khi cần.",
+      "kw": "căn cứ pháp lý phạt nguội",
+      "kw2": [
+        "văn bản quy định phạt nguội",
+        "thông tư hướng dẫn phạt nguội"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đi xe máy muốn tự tìm hiểu quy định gốc về phạt nguội",
+      "location_scope": "áp dụng toàn quốc, ví dụ tại Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-007",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Nhờ người khác đứng ra nhận lỗi phạt nguội để giữ điểm bằng lái: vì sao không nên và rủi ro khi khai sai",
+      "intent": "Hiểu vì sao việc khai người khác là người điều khiển xe để né trừ điểm giấy phép lái xe là khai báo không trung thực, rủi ro cho cả hai người và cách xác định đúng người lái.",
+      "kw": "nhận lỗi phạt nguội thay",
+      "kw2": [
+        "nhờ người nhận lỗi trừ điểm",
+        "khai sai người điều khiển xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "nhóm bạn hoặc người thân dùng chung xe máy thuê",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-008",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Biển số xe máy thuê rơi mất dọc đường: báo cửa hàng và trình báo công an để tránh vướng phạt nguội về sau",
+      "intent": "Biết cách xử lý khi phát hiện biển số xe thuê bị rơi hoặc bị tháo mất: ghi lại thời điểm, báo cửa hàng, trình báo công an và lưu giấy tờ để đối chiếu nếu có vi phạm.",
+      "kw": "mất biển số xe máy thuê",
+      "kw2": [
+        "biển số xe máy bị rơi",
+        "trình báo mất biển số"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đang thuê xe máy đi đường xóc hoặc gửi xe ở bãi đông",
+      "location_scope": "Hà Nội và các cung ngoại thành",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-009",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đi đoàn xe máy thuê, người dẫn đầu vừa qua đèn vàng: người phía sau cố bám theo dễ bị ghi vượt đèn đỏ",
+      "intent": "Biết cách tổ chức đi đoàn xe máy trong phố để không ai phải vượt đèn đỏ cho kịp người dẫn, gồm hẹn điểm chờ sau nút giao, chia nhóm nhỏ và chia sẻ vị trí trên bản đồ.",
+      "kw": "đi theo đoàn vượt đèn đỏ",
+      "kw2": [
+        "đi đoàn xe máy qua ngã tư",
+        "bám theo người dẫn đường xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "nhóm bạn, gia đình thuê nhiều xe máy đi chơi cùng nhau",
+      "location_scope": "phố cổ, Hồ Tây và các trục nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-010",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đổi sang xe khác giữa kỳ thuê: ghi biển số và giờ bàn giao từng xe để đối chiếu khi có phạt nguội",
+      "intent": "Biết cách lưu biển số, thời điểm nhận và trả từng chiếc xe khi đổi xe giữa kỳ thuê, để xác định đúng xe và đúng khoảng thời gian mình sử dụng khi có thông báo vi phạm.",
+      "kw": "đổi xe thuê giữa kỳ phạt nguội",
+      "kw2": [
+        "ghi biển số xe thuê khi đổi xe",
+        "đối chiếu phạt nguội nhiều xe"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy theo tuần, theo tháng phải đổi xe do hỏng hoặc đổi dòng xe",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-011",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đến giải quyết phạt nguội lại bị tạm giữ bằng lái dù lỗi không bị tước: căn cứ và cách nhận lại giấy tờ",
+      "intent": "Hiểu vì sao người có thẩm quyền có thể tạm giữ giấy phép lái xe để bảo đảm thi hành quyết định phạt tiền, giấy tờ được nhận khi bị giữ và cách lấy lại sau khi đã nộp phạt.",
+      "kw": "phạt nguội bị giữ bằng lái",
+      "kw2": [
+        "tạm giữ giấy phép lái xe bảo đảm thi hành",
+        "nhận lại bằng lái sau nộp phạt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người lái xe máy đến trụ sở công an giải quyết phạt nguội",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-012",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Biển báo bị cây che, vạch kẻ đường đã mờ ở chỗ bị ghi lỗi: chụp hiện trường và nêu khi giải trình phạt nguội",
+      "intent": "Biết cách ghi nhận hiện trạng biển báo bị che khuất hoặc vạch kẻ đường bị mờ tại nơi bị ghi lỗi, đưa vào ý kiến giải trình và phản ánh để cơ quan quản lý đường khắc phục.",
+      "kw": "biển báo bị che khuất phạt nguội",
+      "kw2": [
+        "vạch kẻ đường bị mờ bị phạt",
+        "phản ánh biển báo bị che"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đi xe máy thuê nhận thông báo lỗi ở đoạn đường lạ",
+      "location_scope": "Hà Nội và vùng ven",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-013",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Thông báo phạt nguội ghi điểm, khoản, điều của nghị định: tự tra ra hành vi vi phạm và khung xử phạt tương ứng",
+      "intent": "Biết cách đọc phần căn cứ pháp lý ghi trên thông báo hoặc quyết định phạt nguội, tra đúng điều khoản trong nghị định xử phạt để hiểu hành vi bị ghi, khung xử phạt và điểm trừ đi kèm.",
+      "kw": "tra điều khoản lỗi phạt nguội",
+      "kw2": [
+        "điểm khoản điều nghị định 168",
+        "đọc căn cứ trên quyết định xử phạt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đi xe máy muốn tự kiểm tra lỗi ghi trên thông báo",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-014",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Tự tra cứu thấy lỗi phạt nguội nhưng chưa nhận thông báo: có nên chủ động liên hệ công an để giải quyết sớm",
+      "intent": "Hiểu nên làm gì khi kết quả tra cứu đã hiện lỗi mà chưa có thông báo gửi đến, gồm xác định đơn vị phụ trách, liên hệ trước khi đến và lợi ích của việc giải quyết sớm.",
+      "kw": "chưa nhận thông báo phạt nguội",
+      "kw2": [
+        "tra cứu có lỗi chưa có thông báo",
+        "chủ động giải quyết phạt nguội"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy tự tra cứu sau chuyến đi",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-015",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Trang web, ứng dụng tra cứu phạt nguội giả yêu cầu cài phần mềm hoặc nhập thẻ ngân hàng: cách nhận biết",
+      "intent": "Biết cách nhận biết trang web, ứng dụng tra cứu hoặc nộp phạt nguội giả mạo qua tên miền, yêu cầu cài phần mềm lạ hay nhập thông tin thẻ, và chỉ dùng cổng, ứng dụng chính thức.",
+      "kw": "trang tra cứu phạt nguội giả",
+      "kw2": [
+        "ứng dụng phạt nguội giả mạo",
+        "web nộp phạt nguội lừa đảo"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "khách thuê xe máy tra cứu phạt nguội trên điện thoại",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-016",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Chuyển khoản nộp phạt nguội nhầm số quyết định hoặc nộp thừa tiền: liên hệ ai và đề nghị xử lý ra sao",
+      "intent": "Biết cách xử lý khi nộp tiền phạt trực tuyến bị nhầm thông tin quyết định, nộp hai lần hoặc nộp thừa, gồm giữ chứng từ, liên hệ đơn vị ra quyết định và đề nghị điều chỉnh, hoàn trả.",
+      "kw": "nộp nhầm tiền phạt nguội",
+      "kw2": [
+        "nộp thừa tiền phạt giao thông",
+        "hoàn trả tiền nộp phạt"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người nộp phạt nguội trực tuyến lần đầu",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-017",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Danh sách xe vi phạm do camera AI ghi được đăng trên báo: dò biển số xe thuê và xác minh trên kênh chính thức",
+      "intent": "Biết cách dò biển số xe mình đã thuê trong các danh sách phương tiện vi phạm được công bố, hiểu giới hạn của những danh sách này và xác minh lại trên kênh tra cứu chính thức.",
+      "kw": "danh sách phạt nguội hà nội",
+      "kw2": [
+        "danh sách xe vi phạm camera ai",
+        "dò biển số trong danh sách vi phạm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người đã trả xe thuê và muốn kiểm tra vi phạm",
+      "location_scope": "Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-018",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đi làm hằng ngày bằng xe thuê qua cùng một nút giao: thói quen sai lặp lại bị camera AI ghi thành nhiều lỗi",
+      "intent": "Hiểu vì sao một thói quen sai lặp lại trên đường đi làm có thể bị camera ghi thành nhiều vụ vi phạm riêng, ảnh hưởng điểm giấy phép lái xe, và cách rà lại lộ trình để sửa sớm.",
+      "kw": "lỗi lặp lại bị phạt nguội",
+      "kw2": [
+        "camera ai ghi nhiều lần một xe",
+        "vi phạm hằng ngày trên đường đi làm"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy theo tháng đi làm hằng ngày",
+      "location_scope": "Cầu Giấy, Thanh Xuân, Hoàng Mai và các trục đi làm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-019",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Cầm điện thoại nghe gọi, nhắn tin khi đang chạy xe máy: camera AI ở Hà Nội ghi nhận lỗi này như thế nào",
+      "intent": "Hiểu lỗi sử dụng điện thoại khi điều khiển xe máy được camera AI ghi nhận ra sao, hình ảnh nào có thể thành căn cứ xử phạt và thói quen dùng điện thoại an toàn khi cần liên lạc.",
+      "kw": "dùng điện thoại bị phạt nguội",
+      "kw2": [
+        "camera ai bắt lỗi điện thoại",
+        "nghe điện thoại khi lái xe máy"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy hay dùng điện thoại để liên lạc khi đi đường",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-020",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đi ngược chiều trên phố một chiều bị camera AI ghi lại: thông tin trên ảnh vi phạm và việc người thuê nên làm",
+      "intent": "Hiểu lỗi đi ngược chiều của xe máy được camera AI ghi nhận và thể hiện trên ảnh vi phạm ra sao, việc cần làm khi nhận thông báo và cách nhận biết đầu phố một chiều.",
+      "kw": "đi ngược chiều bị phạt nguội",
+      "kw2": [
+        "camera ai bắt lỗi ngược chiều",
+        "phố một chiều hà nội"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "khách thuê xe máy chưa quen phố một chiều",
+      "location_scope": "phố cổ và các quận trung tâm Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-068-021",
+      "child_id": "C-PHAT-NGUOI",
+      "title": "Đi xe máy lúc đêm khuya đường vắng ở Hà Nội: camera giám sát vẫn ghi lỗi vượt đèn đỏ, ngược chiều như ban ngày",
+      "intent": "Hiểu vì sao camera giám sát vẫn ghi nhận vi phạm vào ban đêm, những lỗi người đi xe máy hay mắc khi đường vắng và cách giữ thói quen chấp hành đèn, biển báo lúc về khuya.",
+      "kw": "đi đêm có bị phạt nguội",
+      "kw2": [
+        "camera phạt nguội ban đêm",
+        "vượt đèn đỏ lúc đêm khuya"
+      ],
+      "links": [
+        "/an-toan-phap-ly/phat-nguoi/",
+        "/an-toan-phap-ly/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-068",
+      "audience": "người thuê xe máy đi chơi, đi làm về khuya",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-001",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Hai xe thuê trong cùng nhóm bạn va vào nhau khi đi chơi: kiểm tra người, chụp cả hai xe và báo cửa hàng",
+      "intent": "Biết cách xử lý khi hai xe máy thuê trong cùng một nhóm bạn va vào nhau: kiểm tra người trước, ghi nhận tình trạng cả hai xe và báo cửa hàng thống nhất, không đổ lỗi qua lại.",
+      "kw": "hai xe thuê trong nhóm va nhau",
+      "kw2": [
+        "nhóm bạn đi xe thuê va chạm",
+        "va chạm khi đi phượt theo nhóm"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "nhóm bạn trẻ thuê nhiều xe máy đi chơi cuối tuần",
+      "location_scope": "Hà Nội và cung đường ngoại thành như Ba Vì, Sóc Sơn",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-002",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm với một khách nước ngoài cũng đang đi xe thuê: trao đổi thông tin bằng ứng dụng dịch và báo cửa hàng",
+      "intent": "Biết cách xử lý va chạm với một du khách nước ngoài cũng đang lái xe máy thuê: vượt rào cản ngôn ngữ, trao đổi liên lạc, chụp ảnh hiện trường và để hai cửa hàng cho thuê phối hợp.",
+      "kw": "va chạm với khách nước ngoài",
+      "kw2": [
+        "khách du lịch va chạm xe máy",
+        "bất đồng ngôn ngữ khi va chạm"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người Việt và du khách tự lái xe máy thuê trong phố",
+      "location_scope": "phố cổ Hoàn Kiếm, Tây Hồ và khu Ba Đình",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-003",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm với học sinh đi xe đạp điện gần cổng trường khi đang lái xe thuê: liên lạc phụ huynh và báo cửa hàng",
+      "intent": "Biết cách xử lý va chạm với học sinh đi xe đạp điện ở khu cổng trường giờ tan học: chăm sóc em trước, liên lạc phụ huynh hoặc nhà trường, ghi nhận hiện trường và báo cửa hàng.",
+      "kw": "va chạm học sinh xe đạp điện",
+      "kw2": [
+        "va chạm gần cổng trường",
+        "tai nạn với người chưa thành niên"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người lớn thuê xe máy đi làm, đưa đón con trong nội thành",
+      "location_scope": "các tuyến phố có trường học ở Cầu Giấy, Đống Đa, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-004",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm với shipper làm đổ vỡ hàng đang giao khi đi xe thuê: ghi nhận hàng hư hỏng và báo cửa hàng ngay",
+      "intent": "Biết cách xử lý va chạm với người giao hàng chở nhiều kiện hàng: kiểm tra người, chụp lại hàng hóa bị đổ vỡ, liên lạc bên vận chuyển khi cần và báo cửa hàng cho thuê đúng sự việc.",
+      "kw": "va chạm với shipper giao hàng",
+      "kw2": [
+        "làm đổ hàng của shipper",
+        "va chạm xe chở hàng giao nhanh"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe máy đi lại hằng ngày giờ cao điểm",
+      "location_scope": "các trục phố đông người giao hàng ở Cầu Giấy, Hai Bà Trưng, Hoàng Mai",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-005",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Lỡ va đổ gánh hàng rong hoặc bàn ghế quán vỉa hè khi đi xe thuê trong phố cổ: xin lỗi, thu xếp và báo cửa hàng",
+      "intent": "Biết cách xử lý khi xe máy thuê va đổ gánh hàng rong, xe đẩy hoặc bàn ghế quán vỉa hè trong phố hẹp: kiểm tra người, nói chuyện bình tĩnh với chủ hàng và báo cửa hàng.",
+      "kw": "va đổ hàng rong phố cổ",
+      "kw2": [
+        "va vào quán vỉa hè",
+        "xe máy làm đổ hàng quán"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "khách du lịch lần đầu tự lái xe máy trong phố cổ",
+      "location_scope": "phố cổ Hoàn Kiếm, quanh chợ Đồng Xuân, Tạ Hiện, Hàng Buồm",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-006",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Quay đầu xe thuê trong ngõ va vào cổng, bậc thềm hay chậu cây nhà dân: nói chuyện với chủ nhà và báo cửa hàng",
+      "intent": "Biết cách xử lý khi lùi hoặc quay đầu xe máy thuê trong ngõ hẹp làm va vào cổng, bậc thềm, chậu cây của nhà dân: xem thiệt hại hai bên, trao đổi với chủ nhà và báo cửa hàng.",
+      "kw": "va vào cổng nhà dân trong ngõ",
+      "kw2": [
+        "quay đầu xe va vào nhà dân",
+        "làm vỡ chậu cây nhà dân"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe ở homestay, nhà trọ trong ngõ sâu",
+      "location_scope": "ngõ nhỏ ở Đống Đa, Ba Đình, Hai Bà Trưng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-007",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê bị mất trộm rồi được công an tìm thấy: phối hợp với cửa hàng để nhận lại xe và kiểm tra hư hỏng",
+      "intent": "Hiểu trình tự khi xe máy thuê trình báo mất trộm được công an tìm thấy: ai đứng ra nhận lại xe, giấy tờ cần có, cách phối hợp với cửa hàng và ghi nhận tình trạng xe.",
+      "kw": "xe máy bị trộm được tìm thấy",
+      "kw2": [
+        "nhận lại xe máy bị trộm",
+        "công an tìm thấy xe thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe đã trình báo mất trộm trong kỳ thuê",
+      "location_scope": "các quận nội thành Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-008",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Thấy chiếc xe thuê bị trộm đang được rao bán trên mạng: báo công an và cửa hàng thay vì tự hẹn gặp người bán",
+      "intent": "Biết cách xử lý khi phát hiện xe máy thuê vừa bị trộm xuất hiện trong tin rao bán trên mạng: lưu bằng chứng, báo công an nơi đã trình báo, báo cửa hàng và tránh tự đối mặt.",
+      "kw": "xe bị trộm rao bán trên mạng",
+      "kw2": [
+        "thấy xe mất trộm đăng bán",
+        "lưu bằng chứng tin rao bán xe"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe vừa mất xe và đang theo dõi tin rao",
+      "location_scope": "Hà Nội, chợ xe cũ và hội nhóm mua bán trực tuyến",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-009",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê trượt bánh lao xuống mương hoặc ao ven đường làng: lo cho người trước, kéo xe lên và không đề máy",
+      "intent": "Biết cách xử lý khi xe máy thuê trượt xuống mương, ao ven đường làng: đưa người lên an toàn, nhờ người kéo xe đúng cách, không đề máy khi xe ngấm nước và báo cửa hàng.",
+      "kw": "xe máy rơi xuống mương",
+      "kw2": [
+        "xe máy lao xuống ao",
+        "kéo xe máy dưới mương lên"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê khám phá đường làng, đường đê ngoại thành",
+      "location_scope": "Đông Anh, Gia Lâm, Thanh Oai, Chương Mỹ",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-010",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm với xe ba gác hoặc xe tự chế chở hàng không biển số khi đi xe thuê: ghi nhận người lái và báo cửa hàng",
+      "intent": "Biết cách ghi nhận va chạm với xe ba gác, xe tự chế chở vật liệu không có biển số: chụp người lái, phương tiện, hàng hóa, nhờ nhân chứng, gọi công an khi cần và báo cửa hàng.",
+      "kw": "va chạm với xe ba gác",
+      "kw2": [
+        "xe tự chế không biển số va chạm",
+        "bị xe chở vật liệu quệt"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe máy đi qua khu chợ đầu mối, đường ven đô",
+      "location_scope": "quanh chợ Long Biên, khu Minh Khai, Tam Trinh, Hoàng Mai",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-011",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm với xe điện chở khách du lịch quanh Hồ Gươm, phố cổ: lấy thông tin đơn vị vận hành và báo cửa hàng",
+      "intent": "Biết cách xử lý va chạm với xe điện chở khách tham quan ở khu Hồ Gươm, phố cổ: kiểm tra người, ghi số hiệu xe, liên hệ đơn vị vận hành, chụp hiện trường và báo cửa hàng.",
+      "kw": "va chạm với xe điện du lịch",
+      "kw2": [
+        "xe điện chở khách phố cổ va chạm",
+        "tai nạn với xe điện hồ gươm"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "khách du lịch tự lái xe máy thuê quanh trung tâm",
+      "location_scope": "Hồ Gươm, phố cổ Hoàn Kiếm, chợ Đồng Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-012",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm vì phanh xe thuê đột ngột không ăn: giữ nguyên hiện trạng xe làm bằng chứng và báo cửa hàng ngay",
+      "intent": "Hiểu cách xử lý khi va chạm xảy ra vì phanh xe máy thuê bất ngờ mất tác dụng: không tự sửa, giữ nguyên hiện trạng, ghi lại dấu hiệu lỗi và báo cửa hàng để cùng kiểm tra.",
+      "kw": "va chạm do xe thuê mất phanh",
+      "kw2": [
+        "xe máy mất phanh gây tai nạn",
+        "lỗi kỹ thuật xe thuê gây va chạm"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe máy gặp va chạm do trục trặc kỹ thuật",
+      "location_scope": "dốc cầu, dốc đê và các tuyến phố đông ở Hà Nội",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-013",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê để ở sân homestay hoặc khách sạn qua đêm bị mất: trình báo, xin trích camera và làm việc với chủ cơ sở",
+      "intent": "Biết cách xử lý khi xe máy thuê để tại sân, hầm của homestay hay khách sạn bị mất qua đêm: trình báo công an, đề nghị trích xuất camera, ghi nhận lời chủ cơ sở và báo cửa hàng.",
+      "kw": "mất xe máy ở homestay",
+      "kw2": [
+        "mất xe ở bãi xe khách sạn",
+        "xe thuê mất ở nơi lưu trú"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "khách du lịch lưu trú ở homestay, khách sạn nhỏ",
+      "location_scope": "phố cổ Hoàn Kiếm, Tây Hồ, Ba Đình",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-014",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Cho người mới quen mượn xe thuê rồi không thấy quay lại: liên lạc, trình báo công an và báo cửa hàng",
+      "intent": "Biết cách xử lý khi người mới quen mượn xe máy thuê rồi không mang trả: thử liên lạc trong khoảng thời gian hợp lý, giữ bằng chứng, trình báo công an và báo cửa hàng ngay.",
+      "kw": "cho mượn xe không trả lại",
+      "kw2": [
+        "người lạ mượn xe máy không trả",
+        "bị lừa mượn xe thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "khách du lịch, sinh viên dễ cả nể khi được nhờ",
+      "location_scope": "khu phố Tây Tạ Hiện, các hostel và quán bar ở Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-015",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm với người đạp xe thể thao quanh Hồ Tây khi đi xe thuê: kiểm tra chấn thương và trao đổi thông tin",
+      "intent": "Biết cách xử lý va chạm với người đạp xe thể thao hoặc xe đạp thuê quanh Hồ Tây: dừng an toàn, kiểm tra chấn thương, xem tình trạng xe đạp, trao đổi liên lạc và báo cửa hàng.",
+      "kw": "va chạm với người đạp xe",
+      "kw2": [
+        "va chạm xe đạp quanh hồ tây",
+        "tông vào xe đạp thể thao"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe máy thuê dạo quanh hồ sáng sớm, chiều tối",
+      "location_scope": "đường Thanh Niên, đường ven Hồ Tây, Trích Sài, Nhật Chiêu",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-016",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Cháy ở nhà trọ hoặc chung cư mini nơi đang để xe thuê: thoát ra trước, không quay lại dắt xe, báo cửa hàng sau",
+      "intent": "Hiểu thứ tự ưu tiên khi xảy ra cháy ở nhà trọ, chung cư mini có tầng để xe: thoát hiểm và gọi 114 trước, không quay lại lấy xe, sau đó ghi nhận và báo cửa hàng.",
+      "kw": "cháy khu để xe nhà trọ",
+      "kw2": [
+        "thoát hiểm khi cháy chung cư mini",
+        "xe thuê bị cháy trong nhà trọ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người thuê xe dài ngày ở nhà trọ, chung cư mini",
+      "location_scope": "khu nhà trọ, chung cư mini ở Thanh Xuân, Cầu Giấy, Đống Đa",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-017",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Xe thuê đỗ trên dốc đê hoặc dốc ngõ tự trôi va vào xe khác: xử lý tại chỗ và cách đỗ chắc chắn lần sau",
+      "intent": "Biết cách xử lý khi xe máy thuê đỗ trên dốc tự trôi va vào xe hoặc người khác: kiểm tra thiệt hại, nói chuyện với chủ xe kia, báo cửa hàng và học cách đỗ dốc an toàn.",
+      "kw": "xe máy tự trôi khi đỗ dốc",
+      "kw2": [
+        "đỗ xe máy trên dốc",
+        "xe trôi dốc va vào xe khác"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê ghé quán ven đê, nhà trong ngõ dốc",
+      "location_scope": "đường đê Âu Cơ, Nghi Tàm, Hồng Hà và ngõ dốc ven sông",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-018",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Nhiều xe cùng thủng lốp trên một đoạn đường, nghi có đinh tặc: dắt xe thuê đi vá ở đâu và báo ai",
+      "intent": "Biết cách nhận ra dấu hiệu đinh bị rải trên đường khi nhiều xe cùng thủng lốp một đoạn, chọn chỗ vá đáng tin, giữ an toàn khi dắt xe và báo cửa hàng cùng cơ quan chức năng.",
+      "kw": "gặp đinh tặc khi đi xe máy",
+      "kw2": [
+        "rải đinh trên đường",
+        "nhiều xe cùng thủng lốp"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê trên trục đường lớn ven đô",
+      "location_scope": "trục đường lớn ven đô và quốc lộ ra vào Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-019",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Mở cốp xe thuê thấy đồ của người khác hoặc vật lạ: không dùng, chụp ảnh và báo cửa hàng ngay trong ngày",
+      "intent": "Biết cách xử lý khi phát hiện ví, giấy tờ, đồ cá nhân của người thuê trước hoặc vật lạ trong cốp xe máy thuê: không sử dụng, chụp ảnh, báo cửa hàng và giao lại đúng nơi.",
+      "kw": "thấy đồ lạ trong cốp xe thuê",
+      "kw2": [
+        "đồ người khác trong cốp xe",
+        "nhặt được đồ trong xe thuê"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "khách vừa nhận xe hoặc đang trong kỳ thuê",
+      "location_scope": "nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-020",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Va chạm liên hoàn nhiều xe máy khi cả dòng xe phanh gấp: chụp vị trí từng xe trước khi dời và báo cửa hàng",
+      "intent": "Biết cách xử lý va chạm liên hoàn giữa nhiều xe máy trong dòng xe đông: kiểm tra người, ghi lại vị trí và thứ tự các xe, trao đổi liên lạc với từng bên và báo cửa hàng.",
+      "kw": "va chạm liên hoàn xe máy",
+      "kw2": [
+        "tai nạn dây chuyền nhiều xe máy",
+        "nhiều xe máy đâm nhau"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê giờ cao điểm trên trục đường lớn",
+      "location_scope": "Nguyễn Trãi, Giải Phóng, Phạm Văn Đồng và dốc cầu vượt",
+      "word_target": 1300
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-021",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Bị thanh sắt hay ống nhựa chở cồng kềnh trên xe máy khác quệt phải khi đi xe thuê: ghi biển số và vết thương",
+      "intent": "Biết cách xử lý khi hàng cồng kềnh như thanh sắt, ống nhựa, tấm kính trên xe máy khác quệt vào người hoặc xe thuê: dừng an toàn, ghi biển số, chụp vết trầy và báo cửa hàng.",
+      "kw": "bị hàng cồng kềnh quệt phải",
+      "kw2": [
+        "xe chở sắt thép quệt người",
+        "hàng cồng kềnh gây tai nạn"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê qua khu có cửa hàng vật liệu xây dựng",
+      "location_scope": "các phố bán vật liệu và đường ven đô Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-022",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Vật rơi từ giàn giáo công trình trúng người hoặc xe thuê đang chạy: sơ cứu, ghi nhận và báo cửa hàng",
+      "intent": "Biết cách xử lý khi gạch vữa, vật liệu rơi từ công trình đang xây trúng người hoặc xe máy thuê đang chạy: sơ cứu, ghi tên công trình, đơn vị thi công, chụp hiện trường và báo cửa hàng.",
+      "kw": "vật rơi từ công trình trúng xe",
+      "kw2": [
+        "gạch rơi từ công trình xây dựng",
+        "đi xe máy qua công trình đang xây"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê qua tuyến phố có nhà cao tầng đang xây",
+      "location_scope": "Cầu Giấy, Nam Từ Liêm, Thanh Xuân",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-023",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Gương xe thuê quệt gương ô tô khi lách giữa dòng xe tắc: dừng lại nói chuyện hay đi tiếp, báo cửa hàng gì",
+      "intent": "Biết cách xử lý khi gương chiếu hậu xe máy thuê quệt vào gương ô tô lúc tắc đường: tấp sang lề an toàn, kiểm tra hai gương, trao đổi bình tĩnh với tài xế và báo cửa hàng.",
+      "kw": "gương xe máy quệt gương ô tô",
+      "kw2": [
+        "quệt gương ô tô khi tắc đường",
+        "lách xe máy giữa hai ô tô"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người đi xe thuê đi làm giờ cao điểm",
+      "location_scope": "Xã Đàn, Tây Sơn, Nguyễn Chí Thanh, Láng",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-024",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Lỡ tông vào đuôi xe máy phía trước lúc tắc đường: nhận lỗi, kiểm tra hai xe và báo cửa hàng ngay",
+      "intent": "Biết cách xử lý khi chính bạn tông vào đuôi xe máy phía trước: hỏi han người bị va, chụp hư hỏng hai xe, trao đổi liên lạc, không hứa hẹn vội và báo cửa hàng ngay.",
+      "kw": "tông vào đuôi xe phía trước",
+      "kw2": [
+        "lỡ đâm vào xe phía trước",
+        "phanh không kịp đâm xe trước"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "người mới thuê xe chưa quen khoảng cách phanh",
+      "location_scope": "các nút giao đông ở nội thành Hà Nội",
+      "word_target": 1200
+    },
+    {
+      "candidate_id": "CAND-2026-10-20-W2-069-025",
+      "child_id": "C-THUE-SU-CO",
+      "title": "Quên mất đã đỗ xe thuê ở phố nào trong khu phố cổ: lần lại đường đi trước khi nghĩ đến chuyện mất trộm",
+      "intent": "Biết cách tìm lại chỗ đã đỗ xe máy thuê giữa các phố cổ na ná nhau: dùng lịch sử vị trí, ảnh đã chụp, vé gửi xe, hỏi người trông xe trước khi trình báo mất trộm.",
+      "kw": "quên chỗ đỗ xe máy",
+      "kw2": [
+        "không nhớ gửi xe ở đâu",
+        "tìm lại xe máy đã đỗ"
+      ],
+      "links": [
+        "/thue-xe/su-co/",
+        "/thue-xe/"
+      ],
+      "subtopic": "refill-2026-10-20-W2-069",
+      "audience": "khách du lịch lần đầu đi xe thuê trong phố cổ",
+      "location_scope": "36 phố phường, khu Hồ Gươm, chợ Đồng Xuân",
+      "word_target": 1200
+    }
+  ],
   "rejected": [
     {
       "candidate_id": "CAND-2026-001-R01",
