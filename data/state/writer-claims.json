@@ -1,6 +1,6 @@
 {
   "schema_version": "2",
-  "updated_at": "2026-10-20T20:01:01Z",
+  "updated_at": "2026-10-20T20:02:53Z",
   "leases": {
     "W2": {
       "ids": [
@@ -25,23 +25,23 @@
     },
     "W3": {
       "ids": [
-        "BLG-05875",
-        "BLG-05877",
-        "BLG-05879",
-        "BLG-05880",
-        "BLG-05883",
-        "BLG-05886",
-        "BLG-05888",
-        "BLG-05889",
-        "BLG-05890",
-        "BLG-05892"
+        "BLG-05796",
+        "BLG-05797",
+        "BLG-05798",
+        "BLG-05799",
+        "BLG-05801",
+        "BLG-05807",
+        "BLG-05811",
+        "BLG-05814",
+        "BLG-05817",
+        "BLG-05819"
       ],
       "session": "s-claude-w3",
       "epoch": 1,
-      "claimed_at": "2026-10-20T19:48:29Z",
-      "heartbeat_at": "2026-10-20T20:01:01Z",
+      "claimed_at": "2026-10-20T20:02:53Z",
+      "heartbeat_at": "2026-10-20T20:02:53Z",
       "ttl_hours": 48.0,
-      "expires_at": "2026-10-22T20:01:01Z",
+      "expires_at": "2026-10-22T20:02:53Z",
       "label": "claude"
     }
   }
