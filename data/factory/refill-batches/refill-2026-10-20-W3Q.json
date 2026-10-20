@@ -1,0 +1,161 @@
+{
+ "_meta": {
+  "note": "Topic batch refill W3Q: chu de that (dia diem moi co nguon 2024+), tao boi writer W3 theo gate G1-G8; da loc trung cheo cum (cross-child) truoc khi push.",
+  "created": "2026-10-20",
+  "source": "writer topic expansion theo docs/TAXONOMY.md"
+ },
+ "candidates": [
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-001",
+   "child_id": "C-LONG-BIEN",
+   "title": "Chùa Sủi ở thôn Phú Thị bằng xe máy: cụm đình, đền, chùa thờ Nguyên phi Ỷ Lan và hội làng đầu tháng Ba âm lịch",
+   "intent": "Biết chùa Sủi (Đại Dương Sùng Phúc tự) nằm trong cụm đình, đền, chùa ở thôn Phú Thị thế nào, đi xe máy từ khu Long Biên qua cầu Chương Dương rồi theo quốc lộ 5 tới đó ra sao, hiểu vì sao nơi này gắn với Nguyên phi Ỷ Lan và chọn dịp hội làng để ghé.",
+   "kw": "chùa sủi gia lâm",
+   "kw2": [
+    "chùa phú thị gia lâm",
+    "đi chùa sủi bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/long-bien/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách thuê xe máy ở Long Biên hoặc phố cổ muốn đi nửa buổi sang Gia Lâm xem một ngôi chùa cổ, đã nghe tới chợ Sủi nhưng chưa biết cụm chùa, đền, đình nằm ở đâu",
+   "location_scope": "Gia Lâm, Hà Nội (cụm đình, đền, chùa Sủi ở thôn Phú Thị; trước sáp nhập là xã Phú Thị, huyện Gia Lâm; Wikipedia 6/2026 ghi nay thuộc xã Gia Lâm)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-002",
+   "child_id": "C-HO-TAY",
+   "title": "Chùa Bà Già ở phố Phú Gia, Phú Thượng bằng xe máy: hai pho tượng hậu Phật, di tích xếp hạng năm 1996 và cách ghé đi lễ",
+   "intent": "Biết chùa Bà Già ở phố Phú Gia, phường Phú Thượng nằm đâu so với Hồ Tây, đi xe máy vào ngõ thế nào, vì sao chùa mang tên Bà Già gắn với hai pho tượng hậu Phật và nên ghé đi lễ ra sao cho đúng phép.",
+   "kw": "chùa bà già phú thượng",
+   "kw2": [
+    "chùa bà già tây hồ",
+    "đi chùa bà già bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ho-tay/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách chạy xe quanh Hồ Tây, đã ghé phủ Tây Hồ hoặc chùa Trấn Quốc, muốn thêm một ngôi chùa cổ ở phía bắc hồ và chưa biết ngõ vào chùa Bà Già",
+   "location_scope": "Phú Thượng, Hà Nội (làng Phú Gia, phố Phú Gia; trước 7/2025 thuộc quận Tây Hồ, Wikipedia 2026 ghi phường Phú Thượng)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-003",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Công binh ở 290 Lạc Long Quân bằng xe máy: bảo tàng của Binh chủng Công binh, giờ vào cửa và phần nên xem",
+   "intent": "Biết bảo tàng Công binh ở số 290 đường Lạc Long Quân là bảo tàng của binh chủng nào, đi xe máy từ nội thành tới đó ra sao, giờ mở cửa cần kiểm tra thế nào và nên dành thời gian xem phần trưng bày nào, đặc biệt là sưu tập bom, mìn.",
+   "kw": "bảo tàng công binh hà nội",
+   "kw2": [
+    "bảo tàng công binh lạc long quân",
+    "giờ mở cửa bảo tàng công binh"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách thích lịch sử quân sự hoặc đưa trẻ đi tham quan, chạy xe dọc đường Lạc Long Quân và muốn ghé thêm một bảo tàng nhỏ gần Hồ Tây",
+   "location_scope": "Hà Nội (số 290 đường Lạc Long Quân, gần Hồ Tây; trước 7/2025 thuộc phường Bưởi, quận Tây Hồ; tên phường mới chưa xác minh)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-004",
+   "child_id": "C-BAO-TANG",
+   "title": "Bảo tàng Đặc công ở xã Nam Phù bằng xe máy: giờ mở cửa thứ Hai đến thứ Sáu và các chủ đề trưng bày về Đặc công",
+   "intent": "Biết bảo tàng Đặc công ở thôn Đông Phù, nay thuộc xã Nam Phù phía nam Hà Nội, mở cửa những ngày nào, nên liên hệ trước ra sao, đi xe máy từ nội thành tới và xem các chủ đề trưng bày về Binh chủng Đặc công thế nào trong một buổi.",
+   "kw": "bảo tàng đặc công hà nội",
+   "kw2": [
+    "bảo tàng đặc công giờ mở cửa",
+    "bảo tàng binh chủng đặc công ở đâu"
+   ],
+   "links": [
+    "/du-lich/bao-tang/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách thích lịch sử quân sự, cựu chiến binh hoặc thầy cô đưa học sinh đi tham quan, thuê xe máy đi một buổi xuống phía nam Hà Nội",
+   "location_scope": "Hà Nội (thôn Đông Phù; trước 7/2025 là xã Đông Mỹ, huyện Thanh Trì; nay thuộc xã Nam Phù theo cổng Bảo tàng Lịch sử Quân sự 3/2026)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-005",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Bảo tàng Chiến sĩ cách mạng bị địch bắt tù đày ở Nam Quất, Phú Xuyên bằng xe máy: bảo tàng tư nhân của cựu tù Phú Quốc",
+   "intent": "Biết bảo tàng Chiến sĩ cách mạng bị địch bắt tù đày ở thôn Nam Quất là bảo tàng tư nhân do các cựu tù Phú Quốc dựng, đi xe máy từ Hà Nội xuống Phú Xuyên rồi vào làng thế nào, nên liên hệ trước ra sao và xem những phần trưng bày nào.",
+   "kw": "bảo tàng tù đày phú xuyên",
+   "kw2": [
+    "bảo tàng nam quất phú xuyên",
+    "bảo tàng cựu tù phú quốc hà nội"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách thích lịch sử cách mạng, thành viên hội cựu chiến binh hoặc thầy cô đưa học sinh đi một buổi xuống phía nam Hà Nội bằng xe máy",
+   "location_scope": "Phú Xuyên, Hà Nội (thôn Nam Quất; trước là xã Nam Triều rồi xã Nam Phong, nguồn 2025 ghi nay là xã Phú Xuyên)",
+   "word_target": 1300
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-006",
+   "child_id": "C-NGOAI-THANH",
+   "title": "Đình Hữu Bằng (đình Kẻ Nủa) ở xã Tây Phương bằng xe máy: chạm khắc gỗ thế kỷ XVII, hồ sen trước đình và cách ghé",
+   "intent": "Biết đình Hữu Bằng (đình Kẻ Nủa) ở làng Hữu Bằng, nay thuộc xã Tây Phương, thờ ai, đi xe máy từ Hà Nội theo hướng Đại lộ Thăng Long tới đó thế nào, xem được những phần chạm gỗ nào và nên hỏi người trông đình ra sao trước khi vào.",
+   "kw": "đình hữu bằng thạch thất",
+   "kw2": [
+    "đình kẻ nủa hữu bằng",
+    "đi đình hữu bằng bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/ngoai-thanh/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách thuê xe máy đi chơi vùng Thạch Thất, đã biết chùa Tây Phương nhưng chưa biết ngôi đình làng cổ ở làng Hữu Bằng giáp Thạch Xá nằm đâu",
+   "location_scope": "Thạch Thất, Hà Nội (làng Hữu Bằng, làng Nủa; trước là xã Hữu Bằng rồi xã Quang Trung, từ 1/7/2025 thuộc xã Tây Phương)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-007",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Kim Sơn ở 73 Kim Mã bằng xe máy: nơi gắn với nghĩa quân Tây Sơn tử trận ở Đống Đa và nhà bia dựng năm 2011",
+   "intent": "Biết chùa Kim Sơn (chùa Kim Mã) ở số 73 phố Kim Mã gắn với nghĩa quân Tây Sơn tử trận ở Đống Đa thế nào, đi xe máy tới góc phố Kim Mã và Giang Văn Minh ra sao, xem được những gì ở tòa Tam Bảo, đàn Vạn Linh, đền thờ Mẫu và nên ghé vào dịp nào.",
+   "kw": "chùa kim sơn kim mã",
+   "kw2": [
+    "chùa kim mã hà nội",
+    "đi chùa kim sơn bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách chạy xe qua trục Kim Mã và Giảng Võ, thích lịch sử nhà Tây Sơn hoặc đi lễ, muốn ghé một ngôi chùa cổ ngay trong nội thành nhưng chưa biết lối vào và chỗ để xe",
+   "location_scope": "Giảng Võ, Hà Nội (số 73 phố Kim Mã, góc phố Giang Văn Minh; nay thuộc phường Giảng Võ, trước 7/2025 là quận Ba Đình hoặc Đống Đa tùy nguồn)",
+   "word_target": 1200
+  },
+  {
+   "candidate_id": "CAND-2026-10-20-W3Q-008",
+   "child_id": "C-DIEM-DEN",
+   "title": "Chùa Bát Tháp (chùa Vạn Bảo) trên phố Đội Cấn bằng xe máy: tam quan hai tầng tám mái, quả chuông 1803 và cách ghé đi lễ",
+   "intent": "Biết chùa Bát Tháp (còn gọi chùa Vạn Bảo) nằm đâu trên phố Đội Cấn, đi xe máy tới và vào chùa thế nào, hiểu vì sao có tên Bát Tháp, xem tam quan, tòa tam bảo và quả chuông cổ rồi ghép vào chuyến đi quanh khu Đội Cấn.",
+   "kw": "chùa bát tháp đội cấn",
+   "kw2": [
+    "chùa vạn bảo đội cấn",
+    "đi chùa bát tháp bằng xe máy"
+   ],
+   "links": [
+    "/du-lich/diem-den/",
+    "/du-lich/"
+   ],
+   "subtopic": "refill-2026-10-20-W3Q",
+   "audience": "khách đi xe máy quanh khu Đội Cấn và Ngọc Hà, vừa ghé bảo tàng hoặc khu Lăng Bác xong, muốn thêm một ngôi chùa cổ gần đó và chưa biết lối vào",
+   "location_scope": "Ba Đình, Hà Nội (phố Đội Cấn; trước 7/2025 thuộc phường Đội Cấn, quận Ba Đình; phường mới chưa xác minh)",
+   "word_target": 1200
+  }
+ ]
+}
