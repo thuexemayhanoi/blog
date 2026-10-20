@@ -74277,6 +74277,57 @@
           "audience": "khách du lịch ban ngày đi tour, tối mới tự đi chơi",
           "location_scope": "Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Thuê xe nhiều ngày gặp mưa lớn cả ngày không đi được: ngày xe nằm yên có vẫn tính tiền không, hỏi tiệm thế nào",
+          "intent": "Hiểu rằng bảng giá thuê xe niêm yết theo ngày, tuần hoặc tháng, rồi biết hỏi trước tiệm và xác nhận bằng tin nhắn xem một ngày mưa to xe nằm yên có được điều chỉnh gì không thay vì tự mong đợi.",
+          "kw": "mưa cả ngày không dùng xe thuê",
+          "kw2": [
+            "ngày mưa xe thuê có tính tiền không",
+            "hỏi tiệm khi không đi xe được vì mưa"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-gia/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách thuê xe máy nhiều ngày ở Hà Nội, gặp ngày mưa lớn không chạy xe được và băn khoăn ngày đó có bị tính tiền thuê",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Đặt hai xe khác dòng cho hai người, một Wave một Vision: mỗi xe một mức giá, ghi rõ từng xe khi nhắn tiệm",
+          "intent": "Biết cách đặt hai xe khác dòng cho hai người đi chung: mỗi xe có mức giá riêng trong bảng giá, ghi rõ dòng xe, ngày nhận và ngày trả của từng xe khi nhắn tiệm rồi hỏi tiệm nêu tổng số tiền thay vì tự cộng.",
+          "kw": "thuê hai xe khác dòng giá",
+          "kw2": [
+            "thuê Wave và Vision cùng lúc",
+            "ghi rõ từng xe khi đặt hai xe máy thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-gia/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "hai người đi chung muốn mỗi người một dòng xe khác nhau và băn khoăn cách hỏi giá, ghi tin nhắn đặt cho rõ từng xe",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Trả tiền thuê xe bằng tiền mặt mà đưa nhầm tờ hoặc nhận thối thiếu: phát hiện ngay tại quầy và nhờ đối chiếu",
+          "intent": "Biết cách tránh và xử lý nhầm lẫn khi trả tiền thuê xe bằng tiền mặt: đối chiếu số tiền với mức giá đã xác nhận trực tiếp với tiệm, đếm lại tiền trước khi đưa, nhờ tiệm đọc lại số tiền thu, kiểm tra tiền thối và hỏi biên nhận ngay tại quầy khi thấy lệch.",
+          "kw": "đưa nhầm tiền khi thuê xe máy",
+          "kw2": [
+            "trả tiền mặt thuê xe nhầm mệnh giá",
+            "đối chiếu tiền thuê xe tại quầy"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-gia/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách trả tiền thuê xe máy bằng tiền mặt tại tiệm ở Long Biên, lo đưa nhầm tờ tiền hoặc nhận thối thiếu",
+          "location_scope": "Hà Nội (quầy tiệm ở Long Biên)",
+          "word_target": 1200
         }
       ]
     },
@@ -75252,6 +75303,57 @@
           "audience": "khách nước ngoài hoặc Việt kiều đang giữ cả hộ chiếu cũ và mới, chuẩn bị thuê xe máy ở Hà Nội",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Điện thoại hỏng hoặc mất đúng ngày nhận xe, tin nhắn đặt xe nằm trong máy: chứng minh đã đặt bằng cách nào",
+          "intent": "Biết cách chứng minh bạn đã đặt xe khi điện thoại chứa tin nhắn xác nhận bị hỏng hoặc mất trước giờ nhận: nhờ người quen mở lại cuộc trò chuyện, nhớ đúng tên, ngày, dòng xe và số điện thoại đã đặt rồi nhờ tiệm đối chiếu lịch hẹn.",
+          "kw": "mất điện thoại ngày nhận xe thuê",
+          "kw2": [
+            "điện thoại hỏng mất tin nhắn đặt xe",
+            "chứng minh đã đặt xe máy thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-thu-tuc/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người đã đặt xe máy ở Hà Nội nhưng điện thoại hỏng, mất hoặc hết pin đúng ngày đến nhận nên không còn tin nhắn xác nhận để đưa tiệm xem",
+          "location_scope": "Hà Nội (lúc đến tiệm ở Long Biên nhận xe)",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiệm không cho đưa xe đi đèo hoặc đi xa như Hà Giang: hỏi lý do, hỏi phạm vi được đi và tính lại kế hoạch",
+          "intent": "Biết cách hiểu lý do khi tiệm không cho đưa xe đi đèo hoặc đi xa: hỏi rõ phạm vi được phép chạy, chuyến nào cần thỏa thuận riêng và cân nhắc đổi kế hoạch hay dòng xe thay vì cố đi ngoài thỏa thuận.",
+          "kw": "xe thuê đi đèo xa được không",
+          "kw2": [
+            "tiệm không cho đưa xe đi đèo",
+            "phạm vi được đi của xe thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-thu-tuc/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách thuê xe máy ở Hà Nội định đi Hà Giang hoặc đèo xa nhưng tiệm không đồng ý cho đưa xe đi và muốn hiểu lý do",
+          "location_scope": "Hà Nội và các tuyến đèo xa phía Bắc (Hà Giang, Mộc Châu), lúc trao đổi tại tiệm ở Long Biên",
+          "word_target": 1200
+        },
+        {
+          "title": "Thấy hợp đồng thuê xe theo tháng ghi tự động gia hạn: hỏi tiệm điều đó nghĩa là gì và ghi lại ra sao cho rõ",
+          "intent": "Hiểu điều khoản tự động gia hạn nếu có trong hợp đồng thuê xe theo tháng: kỳ mới bắt đầu từ lúc nào, phải báo không gia hạn trước mấy ngày và cách ghi lại bằng tin nhắn để không bị tính thêm một kỳ ngoài ý muốn.",
+          "kw": "tự động gia hạn thuê xe máy",
+          "kw2": [
+            "điều khoản gia hạn hợp đồng thuê xe",
+            "báo không gia hạn thuê xe tháng"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-thu-tuc/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người sắp thuê xe máy theo tháng ở Hà Nội, thấy hợp đồng ghi tự động gia hạn và chưa hiểu bạn phải làm gì khi muốn trả xe",
+          "location_scope": "Hà Nội (lúc ký hợp đồng thuê tháng tại tiệm ở Long Biên)",
+          "word_target": 1200
         }
       ]
     },
@@ -76296,6 +76398,23 @@
           "audience": "khách thuê xe máy đi xa ra ngoại thành",
           "location_scope": "quốc lộ 6, quốc lộ 32 và đường Hồ Chí Minh qua ngoại thành Hà Nội",
           "word_target": 1200
+        },
+        {
+          "title": "Hai người đi chung một xe đạp điện thuê ở Hà Nội: luật cho chở mấy người, khi nào chở thêm trẻ em dưới 7 tuổi",
+          "intent": "Nắm Điều 31 và Điều 34 Luật Trật tự, an toàn giao thông đường bộ 36/2024/QH15 về số người được chở trên xe đạp máy, gồm cả xe đạp điện theo định nghĩa của luật, trường hợp được chở thêm trẻ em dưới 07 tuổi, và biết hỏi tiệm xe bạn thuê thuộc loại nào.",
+          "kw": "xe đạp điện chở hai người",
+          "kw2": [
+            "xe đạp điện chở trẻ em dưới 7 tuổi",
+            "luật chở người trên xe đạp điện"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-phap-ly/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách thuê xe đạp điện ở Hà Nội định chở thêm bạn hoặc con nhỏ và muốn biết luật cho phép chở mấy người",
+          "location_scope": "Hà Nội (phố cổ, ven Hồ Tây, đường đê Long Biên)",
+          "word_target": 1300
         }
       ]
     },
@@ -77144,6 +77263,57 @@
           "subtopic": "refill-2026-10-19-W3W",
           "audience": "khách thích chụp ảnh khi đi chơi Hà Nội, muốn chiếc xe thuê vừa nhìn hợp ảnh vừa dễ chạy",
           "location_scope": "Hà Nội (khu phố cổ Hoàn Kiếm, quanh hồ Gươm và hồ Tây)",
+          "word_target": 1200
+        },
+        {
+          "title": "Hai người đi hai xe, một người rất cao, một người nhỏ con: mỗi người chọn dòng xe nào cho vừa tầm vóc",
+          "intent": "Chọn dòng xe riêng cho từng người khi hai người đi chung nhưng chênh nhau nhiều về chiều cao: người cao cần yên, tay lái và chỗ để chân ra sao, người nhỏ con cần chạm đất vững ra sao, rồi thống nhất nhịp đi để hai xe không lệch nhau.",
+          "kw": "chênh chiều cao thuê hai xe máy",
+          "kw2": [
+            "người cao người thấp thuê hai xe máy",
+            "chọn xe máy theo chiều cao từng người"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-chon-xe/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "hai bạn hoặc cặp đôi chênh nhau nhiều về chiều cao, mỗi người tự lái một xe thuê ở Hà Nội",
+          "location_scope": "Hà Nội (lúc chọn xe tại tiệm ở Long Biên và khi đi chung quanh nội thành)",
+          "word_target": 1200
+        },
+        {
+          "title": "Lần trước thuê xe số, lần này muốn thử xe ga hay ngược lại: dùng trải nghiệm cũ để chọn dòng xe lần hai",
+          "intent": "Chọn dòng xe cho lần thuê thứ hai ở Hà Nội dựa trên điều đã trải qua ở lần đầu: ghi lại điều thấy hợp và chưa hợp, hỏi tiệm xe nào gần với cảm giác bạn muốn rồi cân nhắc nên đổi hay giữ dòng cũ.",
+          "kw": "thuê lần hai đổi dòng xe khác",
+          "kw2": [
+            "lần trước thuê xe số lần này xe ga",
+            "chọn dòng xe thuê sau lần đầu"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-chon-xe/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách đã từng thuê xe máy ở Hà Nội một lần và đang phân vân giữ dòng xe cũ hay đổi sang dòng khác",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiệm còn hai chiếc cùng dòng, cùng giá để tự chọn: so tiếng máy, lốp, tay phanh và vết xước rồi lấy chiếc nào",
+          "intent": "Biết cách chọn một chiếc trong hai xe cùng dòng và cùng mức giá khi đứng ngay tại tiệm: nghe tiếng máy nguội, nhìn lốp và vết xước, bóp thử tay phanh, thử chìa rồi chọn chiếc cho cảm giác chắc tay hơn.",
+          "kw": "hai xe cùng dòng chọn chiếc nào",
+          "kw2": [
+            "chọn xe thuê tại tiệm khi có hai chiếc",
+            "so sánh hai xe cùng loại trước khi thuê"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-chon-xe/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người đứng tại tiệm nhận xe, được cho chọn một trong hai chiếc cùng dòng và không biết nhìn vào đâu để chọn",
+          "location_scope": "Hà Nội (sân và quầy nhận xe ở Long Biên)",
           "word_target": 1200
         }
       ]
@@ -78215,6 +78385,57 @@
           "audience": "người vừa nhận xe máy thuê ở Hà Nội, rời tiệm một đoạn mới phát hiện thiếu phụ kiện đã hẹn",
           "location_scope": "Hà Nội (khu vực quanh tiệm ở Long Biên ngay sau khi nhận xe)",
           "word_target": 1300
+        },
+        {
+          "title": "Được tiệm đồng ý ứng tiền sửa tạm ở tiệm ven đường: giữ hóa đơn, chụp phụ tùng cũ và nhắn xác nhận số tiền",
+          "intent": "Biết cách làm khi được tiệm cho thuê đồng ý để bạn ứng trước tiền sửa tạm ở tiệm ven đường: hỏi trước giới hạn, xin hóa đơn ghi rõ hạng mục, chụp phụ tùng cũ và nhắn lại cho tiệm xác nhận số tiền đã trả.",
+          "kw": "ứng tiền sửa xe thuê ven đường",
+          "kw2": [
+            "hóa đơn sửa xe thuê giữa đường",
+            "xin lại tiền sửa xe thuê đã ứng"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-su-co/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách thuê xe máy ở Hà Nội đang gặp sự cố ngoài đường, được tiệm cho phép sửa tạm gần đó và tự trả tiền trước",
+          "location_scope": "Hà Nội (tiệm sửa xe ven đường quanh Long Biên và các tuyến ra ngoại thành)",
+          "word_target": 1200
+        },
+        {
+          "title": "Bạn đi cùng làm gãy gương hoặc xước thân xe thuê khi lên xuống xe: người đứng tên thuê báo tiệm thế nào",
+          "intent": "Biết cách xử lý khi người đi cùng vô tình làm hỏng xe thuê lúc lên xuống: chụp ảnh ngay, người đứng tên thuê tự báo tiệm đúng sự thật thay vì để bạn nhắn riêng, rồi thống nhất với bạn cách chia phần chi phí nếu có.",
+          "kw": "bạn đi cùng làm hỏng xe thuê",
+          "kw2": [
+            "người ngồi sau làm gãy gương xe thuê",
+            "bạn làm xước xe thuê ai báo tiệm"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-su-co/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người đứng tên thuê xe máy ở Hà Nội có bạn đi cùng hoặc người ngồi sau lỡ làm gãy gương, xước thân xe",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
+        },
+        {
+          "title": "Tiệm đã sửa hoặc đổi xe mà lỗi cũ lại xuất hiện hôm sau: ghi lại từng lần, quay video và hỏi tiệm hướng xử lý",
+          "intent": "Biết cách báo cho tiệm khi lỗi cũ của xe thuê tái phát sau khi đã được sửa hoặc đổi xe: ghi lại ngày giờ từng lần, quay video lỗi đang xảy ra và hỏi rõ tiệm muốn sửa lại, đổi xe khác hay điều chỉnh thời gian thuê.",
+          "kw": "lỗi xe thuê tái phát sau sửa",
+          "kw2": [
+            "xe thuê hỏng lại cùng một lỗi",
+            "báo tiệm lỗi cũ lại xuất hiện"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-su-co/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "khách đang thuê xe máy ở Hà Nội, xe vừa được tiệm sửa hoặc đổi nhưng lỗi cũ lại xuất hiện",
+          "location_scope": "Hà Nội",
+          "word_target": 1200
         }
       ]
     },
@@ -78912,6 +79133,74 @@
           "audience": "người lần đầu cân nhắc thuê xe máy ở Hà Nội nhưng chưa chắc mình đi quen, chưa biết nên đặt bao nhiêu ngày",
           "location_scope": "Hà Nội",
           "word_target": 1300
+        },
+        {
+          "title": "Đi được vài phố mới nhớ chưa hỏi cách mở hộc đựng đồ, khóa cổ hay bật đèn: nhắn hỏi tiệm hay quay lại, hỏi sao cho gọn",
+          "intent": "Biết cách xử lý khi đã lên đường mới nhận ra chưa hỏi hết cách dùng xe như mở hộc đựng đồ, khóa cổ hay bật đèn: tìm chỗ an toàn dừng lại, viết gọn các câu cần hỏi, nhắn hoặc gọi tiệm thay vì tự mò và quyết định có cần quay lại tiệm ở Long Biên hay không.",
+          "kw": "quên hỏi cách dùng xe thuê",
+          "kw2": [
+            "nhắn hỏi lại tiệm sau khi lấy xe",
+            "ngại hỏi lại tiệm thuê xe"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-nguoi-moi/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người lần đầu thuê xe máy ở Hà Nội, đã rời tiệm mới nhớ ra còn điều chưa hỏi về cách dùng xe và ngại hỏi lại",
+          "location_scope": "Hà Nội (từ tiệm ở Long Biên ra phố)",
+          "word_target": 1200
+        },
+        {
+          "title": "Xe máy ra quốc lộ ngoài Hà Nội gặp trạm thu phí: có phải dừng trả tiền không và đi làn nào cho đúng",
+          "intent": "Hiểu cách đi qua trạm thu phí trên quốc lộ khi chạy xe máy thuê ra ngoài Hà Nội: nhận biết làn hay lối dành cho xe máy, không chen vào làn ô tô và hỏi tiệm hoặc xem biển báo khi chưa chắc có phải trả phí hay không.",
+          "kw": "xe máy qua trạm thu phí",
+          "kw2": [
+            "xe máy có phải trả phí trạm thu phí",
+            "đi làn nào khi qua trạm thu phí"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-nguoi-moi/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người lần đầu chạy xe máy thuê ra khỏi Hà Nội theo quốc lộ và chưa biết xe máy có phải trả phí ở trạm thu phí không",
+          "location_scope": "Hà Nội và các quốc lộ ra ngoại thành (hướng Ninh Bình, Hải Phòng, Thái Nguyên)",
+          "word_target": 1200
+        },
+        {
+          "title": "Đã tắt khóa điện mà đèn nhỏ trên xe vẫn nhấp nháy đều: người mới nên hiểu là xe lỗi hay chỉ là đèn báo chống trộm",
+          "intent": "Hiểu vì sao đèn nhỏ trên xe vẫn nhấp nháy sau khi tắt khóa: phân biệt đèn báo hệ thống chống trộm thường có ở xe dùng chìa khóa thông minh với đèn báo lỗi, biết hỏi tiệm khi chưa chắc và lúc nào mới cần lo.",
+          "kw": "đèn nháy khi tắt khóa xe ga",
+          "kw2": [
+            "đèn báo chống trộm xe máy nhấp nháy",
+            "tắt khóa rồi đèn vẫn nháy có sao không"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-nguoi-moi/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người lần đầu thuê xe ga ở Hà Nội, thấy đèn nhỏ nhấp nháy đều khi đã tắt khóa điện và lo xe bị lỗi hay hết điện",
+          "location_scope": "Hà Nội (lúc để xe qua đêm ở nhà trọ, khách sạn quanh Long Biên)",
+          "word_target": 1200
+        },
+        {
+          "title": "Thấy xe máy bám theo qua mấy ngã rẽ khi chạy về khuya: không về thẳng chỗ ở, vào nơi sáng đông người và báo ai",
+          "intent": "Biết cách phản ứng khi nghi có xe bám theo lúc chạy xe thuê về khuya: không về thẳng chỗ ở, chạy tới nơi sáng đèn và đông người như cây xăng hay cửa hàng tiện lợi, báo người thân và gọi cơ quan chức năng khi cần.",
+          "kw": "xe máy bám theo lúc về khuya",
+          "kw2": [
+            "xe lạ bám theo khi đi xe máy buổi tối",
+            "đi xe máy về khuya thấy bị theo dõi"
+          ],
+          "links": [
+            "/hoi-dap/hoi-dap-nguoi-moi/",
+            "/hoi-dap/"
+          ],
+          "subtopic": "refill-2026-10-20-W3Y",
+          "audience": "người đi một mình bằng xe máy thuê ở Hà Nội về khuya, thấy một xe lạ bám theo qua nhiều ngã rẽ",
+          "location_scope": "Hà Nội (các tuyến về khuya từ nội thành sang Long Biên)",
+          "word_target": 1200
         }
       ]
     },

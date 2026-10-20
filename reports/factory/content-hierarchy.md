@@ -53,12 +53,12 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 | P-KY-NANG | Chở đồ & hành lý (C-KY-NANG-CHO-DO) | 23 | 102 | 130 | /ky-nang/cho-do-va-hanh-ly/ |
 | P-KY-NANG | Gửi xe & giữ xe (C-KY-NANG-GUI-XE) | 19 | 100 | 120 | /ky-nang/gui-xe-va-giu-xe/ |
 | P-KY-NANG | Sức khỏe khi lái xe (C-KY-NANG-SUC-KHOE) | 24 | 77 | 110 | /ky-nang/suc-khoe-khi-lai-xe/ |
-| P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 45 | 90 | /hoi-dap/hoi-dap-gia/ |
-| P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 59 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
-| P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 63 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
-| P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 52 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
-| P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 65 | 90 | /hoi-dap/hoi-dap-su-co/ |
-| P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 43 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
+| P-HOI-DAP | Hỏi đáp về giá (C-HD-GIA) | 0 | 48 | 90 | /hoi-dap/hoi-dap-gia/ |
+| P-HOI-DAP | Hỏi đáp thủ tục (C-HD-THU-TUC) | 0 | 62 | 90 | /hoi-dap/hoi-dap-thu-tuc/ |
+| P-HOI-DAP | Hỏi đáp pháp lý (C-HD-PHAP-LY) | 0 | 64 | 90 | /hoi-dap/hoi-dap-phap-ly/ |
+| P-HOI-DAP | Hỏi đáp chọn xe (C-HD-CHON-XE) | 0 | 55 | 90 | /hoi-dap/hoi-dap-chon-xe/ |
+| P-HOI-DAP | Hỏi đáp sự cố (C-HD-SU-CO) | 0 | 68 | 90 | /hoi-dap/hoi-dap-su-co/ |
+| P-HOI-DAP | Hỏi đáp người mới (C-HD-NGUOI-MOI) | 18 | 47 | 90 | /hoi-dap/hoi-dap-nguoi-moi/ |
 | P-THUE-XE | Thuê xe theo đối tượng (C-THUE-DOI-TUONG) | 0 | 51 | 80 | /thue-xe/thue-theo-doi-tuong/ |
 | P-THUE-XE | Thuê xe theo địa điểm (C-THUE-DIA-DIEM) | 0 | 35 | 70 | /thue-xe/thue-theo-dia-diem/ |
 | P-XE-MAY | Chọn loại xe khi thuê (C-XE-LUA-CHON) | 0 | 46 | 80 | /xe-may/chon-loai-xe/ |
@@ -68,4 +68,4 @@ Matrix: PRESENT_CREATED_NEW. Bảng dưới ghi số hàng PLANNED trong matrix 
 ## Cảnh báo
 
 - REVIEW (cặp cannibalization legacy, cần đọc nội dung để xử lý): BLG-00005, BLG-00017, BLG-00018, BLG-00053, BLG-00227, BLG-00228, BLG-00410, BLG-00411, BLG-00423, BLG-00424
-- Matrix TẠO MỚI có 5080 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
+- Matrix TẠO MỚI có 5097 hàng PLANNED so với planned_target tổng 6980 trong seed taxonomy — phần thiếu đã được báo trong `reports/factory/matrix-report.md`, không đệm hàng rỗng.
